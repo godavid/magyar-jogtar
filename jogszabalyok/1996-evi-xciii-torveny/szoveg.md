@@ -1,0 +1,455 @@
+# 1996. évi XCIII. törvény
+
+a Magyar Köztársaság és a Cseh Köztársaság között a kettős adóztatás elkerülésére az adóztatás kijátszásának megakadályozására a jövedelem- és a vagyonadók területén Prágában, 1993. január 14-én aláírt Egyezmény kihirdetéséről
+
+1. § Az Országgyűlés a Magyar Köztársaság és a Cseh Köztársaság között a kettős adóztatás elkerülésére az adóztatás kijátszásának megakadályozására a jövedelem- és a vagyonadók területén Prágában, 1993. január 14-én aláírt Egyezményt e törvénnyel kihirdeti. (Az Egyezmény megerősítéséről szóló jegyzékváltás 1994. december 27-én megtörtént, és az Egyezmény 1994. december 27-én hatályba lépett.)
+
+2. § Az Egyezmény hivatalos magyar nyelvű szövege a következő:
+
+,,Egyezménya Magyar Köztársaság és a Cseh Köztársaság közötta kettős adóztatás elkerülésére és az adóztatás kijátszásának megakadályozására a jövedelem-,és a vagyonadók területén
+
+A Magyar Köztársaság és a Cseh Köztársaság,
+
+attól az óhajtól vezetve, hogy Egyezményt kössenek a kettős adóztatás elkerülésére és az adóztatás kijátszásának megakadályozására a jövedelem- és vagyonadók területén,
+
+megállapodtak a következőkben:
+
+1. Cikk
+
+Személyi hatály
+
+Az Egyezmény azokra a személyekre terjed ki, akik az egyik vagy mindkét Szerződő Államban belföldi illetőségűek.
+
+2. Cikk
+
+Az Egyezmény hatálya alá tartozó adók
+
+1. Az Egyezmény azokra a jövedelem- és vagyonadókra terjed ki, a beszedés módjára való tekintet nélkül, amelyeket az egyik Szerződő Állam, annak politikai egységei vagy helyi hatóságai vetnek ki.
+
+2. Jövedelem- és vagyonadónak tekintendők mindazok az adók, amelyeket a teljes jövedelem, a teljes vagyon, illetve a jövedelem vagy a vagyon részei után vetnek ki, ideértve az ingó vagy ingatlan vagyon elidegenítéséből származó nyereség utáni adókat, a vállalkozások által fizetett bérek vagy fizetések teljes összege utáni adókat, valamint az értéknövekedési adókat.
+
+3. Azok a jelenleg létező adók, amelyekre az Egyezmény kiterjed, különösen a következők:
+
+a) a Cseh Köztársaságban
+
+(i) a magánszemélyek jövedelemadója,
+
+(ii) a jogi személyek jövedelemadója,
+
+(iii) az ingatlan vagyon adója
+
+(a továbbiakban: cseh adó);
+
+b) a Magyar Köztársaságban
+
+(i) a személyi jövedelemadó,
+
+(ii) a társasági adó,
+
+(iii) a földadók,
+
+(iv) az építményadó
+
+(a továbbiakban: magyar adó).
+
+4. Az Egyezmény kiterjed bármely azonos vagy lényegében hasonló adóra, amelyet az Egyezmény aláírása után a jelenleg létező adók mellett vagy azok helyett bevezetnek. A Szerződő Államok illetékes hatóságai értesíteni fogják egymást a vonatkozó adójogszabályaikban végrehajtott bármely lényeges változásról.
+
+3. Cikk
+
+Általános meghatározások
+
+1. Az Egyezmény alkalmazásában, ha a szövegösszefüggés mást nem kíván:
+
+a) ,,az egyik Szerződő Állam'' és ,,a másik Szerződő Állam'' kifejezések a Cseh Köztársaságot vagy a Magyar Köztársaságot jelentik, a szövegösszefüggésnek megfelelően;
+
+b) a ,,személy'' kifejezés magában foglalja a magánszemélyt, a társaságot és minden más személyi egyesülést;
+
+c) a ,,társaság'' kifejezés a jogi személyeket vagy egyéb olyan jogalanyokat jelent, melyek az adóztatás szempontjából jogi személyeknek tekintendők;
+
+d) ,,az egyik Szerződő Állam vállalkozása'' és ,,a másik Szerződő Állam vállalkozása'' kifejezések az egyik Szerződő Államban belföldi illetőségű személy, illetőleg a másik Szerződő Államban belföldi illetőségű személy által folytatott vállalkozást jelentenek;
+
+e) az ,,állampolgár'' kifejezés jelenti
+
+(i) az olyan magánszemélyt, aki az egyik Szerződő Állam állampolgárságával rendelkezik;
+
+(ii) az olyan jogi személyt, egyesülést vagy társulást, amely ezt a jogállását az egyik Szerződő Állam hatályban lévő jogszabályaiból nyeri;
+
+f) a ,,nemzetközi forgalom'' kifejezés az egyik Szerződő Államban tényleges üzletvezetési hellyel rendelkező vállalkozás által üzemeltetett hajó, légi jármű vagy közúti szállító jármű igénybevételével végzett bármilyen szállítást jelent, kivéve, ha a hajó, légi jármű vagy a közúti szállító jármű kizárólag a másik Szerződő Államban levő helyek között közlekedik;
+
+g) az ,,illetékes hatóság'' kifejezés
+
+(i) a Cseh Köztársaság esetében a Cseh Köztársaság pénzügyminiszterét vagy meghatalmazott képviselőjét;
+
+(ii) a Magyar Köztársaság esetében a Magyar Köztársaság pénzügyminiszterét vagy meghatalmazott képviselőjét
+
+jelenti.
+
+2. Az Egyezménynek az egyik Szerződő Állam által történő alkalmazásánál – amennyiben a szövegösszefüggés mást nem kíván – bármely az Egyezményben meghatározás nélkül szereplő kifejezésnek olyan jelentése van, mint amit ennek az Államnak a jogszabályaiban jelent azokra az adókra vonatkozóan, amelyekre az Egyezmény alkalmazást nyer.
+
+4. Cikk
+
+Belföldi illetőségű személy
+
+1. Az Egyezmény alkalmazásában ,,az egyik Szerződő Államban belföldi illetőségű személy'' kifejezés olyan személyt jelent, aki ennek az Államnak a jogszabályai szerint ott lakóhelye, székhelye, tartózkodási helye, üzletvezetésének helye vagy más hasonló ismérv alapján adóköteles. Ez a kifejezés nem foglalja magában azonban azokat a személyeket, akik ebben az Államban kizárólag az ebben az Államban levő forrásokból származó jövedelem vagy az ott levő vagyon alapján adókötelesek.
+
+2. Amennyiben egy magánszemély a 1. bekezdés rendelkezései szerint mindkét Szerződő Államban belföldi illetőségű, helyzetét az alábbiak szerint kell meghatározni:
+
+a) abban az Államban tekintendő belföldi illetőségűnek, amelyben állandó lakóhellyel rendelkezik; ha mindkét Államban rendelkezik állandó lakóhellyel, úgy abban az Államban tekintendő belföldi illetőségűnek, amellyel személyi és gazdasági kapcsolatai szorosabbak (létérdekek központja);
+
+b) amennyiben nem határozható meg, hogy létérdekeinek központja melyik Államban van, vagy ha egyik Államban sem rendelkezik állandó lakóhellyel, úgy abban az Államban tekintendő belföldi illetőségűnek, amelyben szokásos tartózkodási helye van;
+
+c) amennyiben mindkét Államban van szokásos tartózkodási helye, vagy egyikben sincs, úgy abban az Államban tekintendő belföldi illetőségűnek, amelynek állampolgára;
+
+d) ha mindkét Államnak állampolgára vagy egyiké sem, úgy a Szerződő Államok illetékes hatóságai kölcsönös egyetértéssel rendezik a kérdést.
+
+3. Amennyiben az 1. bekezdés rendelkezései szerint valamely, nem magánszemély, mindkét Szerződő Államban belföldi illetőségű, úgy abban az Államban tekintendő belföldi illetőségűnek, amelyben tényleges üzletvezetésének a helye van.
+
+5. Cikk
+
+Telephely
+
+1. Az Egyezmény alkalmazásában a ,,telephely'' kifejezés olyan állandó üzleti helyet jelent, amelyen keresztül a vállalkozás üzleti tevékenységét egészben vagy részben kifejti.
+
+2. A ,,telephely'' kifejezés magában foglalja különösen:
+
+a) az üzletvezetés helyét,
+
+b) a fiókot,
+
+c) az irodát,
+
+d) a gyártelepet,
+
+e) a műhelyt, és
+
+f) a bányát, az olaj- és földgázkutat, a kőfejtőt vagy a természeti kincsek kiaknázására szolgáló bármely más telepet.
+
+3. A ,,telephely'' kifejezés hasonlóképpen tartalmazza:
+
+a) az építési területet, az építési, összeszerelési vagy beszerelési munkálatokat, de csak akkor, ha időtartamuk tizenkét hónapot meghalad;
+
+b) az olyan szolgáltatások nyújtását, beleértve a tanácsadói és igazgatási szolgáltatásokat, amelyeket egy vállalkozás nyújt alkalmazottak vagy a vállalkozás által ilyen célra foglalkoztatott más személyzet útján, de csak abban az esetben, ha az ilyen jellegű tevékenység (ugyanazon vagy egy kapcsolódó feladatra vonatkozólag) bármely tizenkét hónapos időszakon belül összesen hat hónapnál tovább tart az országban.
+
+4. Tekintet nélkül e Cikk előző rendelkezéseire, nem tekintendők ,,telephelynek'':
+
+a) létesítmények használata kizárólag a vállalkozás javainak vagy áruinak raktározása, kiállítása vagy leszállítása céljára;
+
+b) készletek tartása a vállalkozás javaiból vagy áruiból kizárólag raktározás, kiállítás vagy leszállítás céljára;
+
+c) készletek tartása a vállalkozás javaiból vagy áruiból kizárólag abból a célból, hogy azokat egy másik vállalkozás feldolgozza;
+
+d) állandó üzleti hely fenntartása kizárólag arra a célra, hogy a vállalkozás részére javakat vagy árukat vásároljanak, vagy információkat szerezzenek;
+
+e) állandó üzleti hely fenntartása kizárólag arra a célra, hogy a vállalkozás részére reklámtevékenységet folytassanak, tájékoztatást nyújtsanak, tudományos kutatást végezzenek, vagy hasonló, előkészítő vagy kisegítő jellegű tevékenységet folytassanak;
+
+f) állandó üzleti hely fenntartása kizárólag arra a célra, hogy az a)–e) pontokban foglalt tevékenységek valamely kombinációját végezze, feltéve, hogy az üzleti helynek az ilyen kombinációból származó teljes tevékenysége előkészítő vagy kisegítő jellegű.
+
+5. Tekintet nélkül az 1. és 2. bekezdések rendelkezéseire, ha egy személy – kivéve a független képviselőt, akire a 6. bekezdés rendelkezése alkalmazandó egy vállalkozás számára tevékenykedik és az egyik Szerződő Államban meghatalmazása van, amellyel ott rendszeresen él, arra, hogy a vállalkozás nevében szerződéseket kössön, úgy ez a vállalkozás telephellyel bírónak tekintendő ebben az Államban minden olyan tevékenység tekintetében, amelyet ez a személy a vállalkozás részére kifejt, kivéve, ha az ilyen személy tevékenysége a 4. bekezdésben említett tevékenységekre korlátozódik, amelyek, ha azokat egy állandó üzleti helyen keresztül fejtenék ki, az említett bekezdés rendelkezései értelmében nem tennék ezt az állandó üzleti helyet telephellyé.
+
+6. Egy vállalkozást nem lehet úgy tekinteni, mintha annak az egyik Szerződő Államban telephelye lenne csupán azért, mert tevékenységét ebben az Államban alkusz, bizományos vagy más független képviselő útján fejti ki, feltéve, hogy ezek a személyek rendes üzleti tevékenységük keretében járnak el.
+
+7. Az a tény, hogy az egyik Szerződő Államban belföldi illetőségű társaság egy olyan társaságot ellenőriz, vagy olyan társaság ellenőrzése alatt áll, amely a másik Szerződő Államban belföldi illetőségű, vagy üzleti tevékenységet fejt ki ebben a másik államban (akár telephely útján, akár más módon), önmagában még nem teszi egyik társaságot sem a másik telephelyévé.
+
+6. Cikk
+
+Ingatlan vagyonból származó jövedelem
+
+1. Az a jövedelem, amelyet az egyik Szerződő Államban belföldi illetőségű személy a másik Szerződő Államban fekvő ingatlan vagyonból (beleértve a mezőgazdaságból vagy erdőgazdálkodásból származó jövedelmet) élvez, megadóztatható ebben a másik Államban.
+
+2. Az ,,ingatlan vagyon'' kifejezésnek olyan jelentése van, mint amit annak a Szerződő Államnak jogszabályai szerint jelent, amelyben a szóban forgó vagyon fekszik. Ez a kifejezés minden esetben magában foglalja az ingatlan tartozékának minősülő vagyont, a mezőgazdaságban és az erdőgazdálkodásban használatos berendezéseket és az állatállományt, azokat a jogokat, amelyekre a földtulajdonra vonatkozó magánjogi rendelkezések nyernek alkalmazást, az ingatlan vagyon haszonélvezeti jogát és az ásványlelőhelyek, források és más természeti erőforrások kitermelésének vagy kitermelési jogának ellenértékeként járó változó vagy állandó térítésekhez való jogokat. Hajók és légi járművek nem tekintendők ingatlan vagyonnak.
+
+3. Az 1. bekezdés rendelkezései alkalmazandók az ingatlan vagyon közvetlen használatából, bérbeadásából vagy használatának minden más formájából származó jövedelemre.
+
+4. Az 1. és 3. bekezdések rendelkezései a vállalkozás ingatlan vagyonából származó jövedelemre és a önálló tevékenység gyakorlására szolgáló ingatlan vagyonból származó jövedelemre is alkalmazandók.
+
+7. Cikk
+
+Vállalkozási nyereség
+
+1. Az egyik Szerződő Állam vállalkozásának nyeresége csak ebben az Államban adóztatható, kivéve, ha a vállalkozás a másik Szerződő Államban egy ott levő telephely útján üzleti tevékenységet fejt ki. Amennyiben a vállalkozás ily módon fejt ki üzleti tevékenységet, a vállalkozás nyeresége megadóztatható a másik Államban, azonban csak olyan mértékben, amilyen mértékben az ennek a telephelynek tudható be.
+
+2. A 3. bekezdés rendelkezéseinek fenntartásával, ha az egyik Szerződő Állam vállalkozása a másik Szerződő Államban egy ott levő telephely útján fejt ki üzleti tevékenységet, úgy ennek a telephelynek mindkét Szerződő Államban azokat a nyereségeket kell betudni, amelyeket akkor érhetne el, ha önálló és elkülönült vállalkozásként azonos vagy hasonló tevékenységeket folytatna azonos vagy hasonló feltételek mellett, és teljesen függetlenként tartana fenn üzleti kapcsolatot azzal a vállalkozással, amelynek telephelye.
+
+3. A telephely nyereségének megállapításánál levonhatók a telephely miatt felmerült költségek, beleértve az így felmerült üzletvezetési és általános ügyviteli költségeket, függetlenül attól, hogy abban az Államban merültek-e fel, ahol a telephely található, vagy máshol.
+
+4. Amennyiben az egyik Szerződő Államban a telephelynek betudható nyereséget a vállalkozás teljes nyereségének a különböző részegységek közötti arányos megosztása alapján szokták megállapítani, úgy a 2. bekezdés nem zárja ki, hogy ez a Szerződő Állam a megadóztatandó nyereséget a szokásos arányos megosztás alapján állapítsa meg; az alkalmazott arányos megosztási módszernek azonban olyannak kell lennie, hogy az eredmény összhangban legyen az e Cikkben foglalt elvekkel.
+
+5. Nem tudható be nyereség a telephelynek csupán azért, mert a telephely javakat vagy árukat vásárol a vállalkozásnak.
+
+6. Az előző bekezdések alkalmazásában a telephelynek betudható nyereségeket évről évre azonos módon kell megállapítani, hacsak alapos és elégséges ok nincs az ellenkezőjére.
+
+7. Amennyiben a nyereség olyan jövedelemtételeket tartalmaz, amelyekkel jelen Egyezmény más Cikkei külön foglalkoznak, úgy azoknak a Cikkeknek a rendelkezéseit e Cikk rendelkezései nem érintik.
+
+8. Cikk
+
+Nemzetközi szállítás
+
+1. Az a nyereség, amely hajóknak, légi járműveknek vagy közúti szállító járműveknek a nemzetközi forgalomban való üzemeltetéséből származik, csak abban a Szerződő Államban adóztatható, ahol a vállalkozás tényleges üzletvezetésének a helye van.
+
+2. Ha egy hajózási vállalkozás tényleges üzletvezetésének helye egy hajó fedélzetén van, úgy e hely abban a Szerződő Államban levőnek tekintendő, amelyikben a hajó hazai kikötője található, vagy ha nincs ilyen hazai kikötő, akkor abban a Szerződő Államban, amelyben a hajó üzemeltetője belföldi illetőségű.
+
+3. Az 1. bekezdés rendelkezései alkalmazandók valamely pool-ban, közös üzemeltetésben vagy nemzetközi üzemeltetésű szervezetben való részvételből származó nyereségekre is.
+
+9. Cikk
+
+Kapcsolt vállalkozások
+
+Amennyiben
+
+a) az egyik Szerződő Állam vállalkozása közvetlenül vagy közvetve a másik Szerződő Állam vállalkozásának vezetésében, ellenőrzésében vagy tőkéjében részesedik, vagy
+
+b) ugyanazok a személyek közvetlenül vagy közvetve az egyik Szerződő Állam vállalkozásának és a másik Szerződő Állam vállalkozásának vezetésében, ellenőrzésében vagy tőkéjében részesednek,
+
+és bármelyik esetben a két vállalkozás egymás között kereskedelmi vagy pénzügyi kapcsolataikban olyan feltételekben állapodik meg, vagy olyan feltételeket szab, amelyek eltérnek azoktól, amelyekben független vállalkozások egymással megállapodnának, úgy az a nyereség, amelyet a vállalkozások egyike e feltételek nélkül elért volna, e feltételek miatt azonban nem ért el, beszámítható ennek a vállalkozásnak a nyereségébe és megfelelően megadóztatható.
+
+10. Cikk
+
+Osztalék
+
+1. Az osztalék, amelyet az egyik Szerződő Államban belföldi illetőségű társaság a másik Szerződő Államban belföldi illetőségű személynek fizet, megadóztatható ebben a másik Államban.
+
+2. Mindazonáltal ez az osztalék abban a Szerződő Államban is, amelyben az osztalékot fizető társaság belföldi illetőségű, ennek az Államnak a jogszabályai szerint megadóztatható, de ha a kedvezményezett az osztalék haszonhúzója, az így felszámított adó nem haladhatja meg:
+
+a) az osztalék bruttó összegének 5 százalékát, ha a haszonhúzó egy olyan társaság, amely az osztalékot fizető társaság tőkéjében legalább 25 százalékos közvetlen részesedéssel bír,
+
+b) az osztalék bruttó összegének 15 százalékát minden egyéb esetben.
+
+A Szerződő Államok illetékes hatóságai kölcsönös egyetértéssel rendezik ezeknek a korlátozásoknak az alkalmazási módját.
+
+Ez a bekezdés nem érinti a társaság adóztatását azon nyereség után, amelyből az osztalékot fizetik.
+
+3. E Cikk alkalmazásában az ,,osztalék'' kifejezés részvényekből vagy más, nyereségből való részesedést biztosító jogokból – kivéve a hitel követeléseket – származó jövedelmet, valamint egyéb társasági jogokból származó olyan jövedelmet jelent, amelyet annak az Államnak az adózási jogszabályai, amelyben a nyereséget felosztó társaság belföldi illetőségű, a részvényekből származó jövedelemmel azonos adóztatási elbánás alá vetnek.
+
+4. Az 1. és 2. bekezdések rendelkezései nem alkalmazandók, ha az osztalék egyik Szerződő Államban belföldi illetőségű haszonhúzója a másik Szerződő Államban, amelyben az osztalékot fizető társaság belföldi illetőségű, egy ott levő telephely útján üzleti tevékenységet fejt ki, vagy önálló tevékenységet végez ebben a másik Államban egy ott lévő állandó bázis segítségével, és az érdekeltség, amelyre tekintettel az osztalékot fizetik, ténylegesen ehhez a telephelyhez vagy állandó bázishoz kapcsolódik. Ebben az esetben a 7. Cikk vagy a 14. Cikk rendelkezései nyernek, az esettől függően, alkalmazást.
+
+5. Ha az egyik Szerződő Államban belföldi illetőségű társaság nyereséget vagy jövedelmet élvez a másik Szerződő Államból, úgy ez a másik Állam nem adóztathatja meg a társaság által kifizetett osztalékot, kivéve, ha az osztalékot ebben a másik Államban belföldi illetőségű személynek fizetik, vagy ha az érdekeltség, amelyre tekintettel az osztalékot fizetik, ténylegesen ebben a másik Államban lévő telephelyhez vagy állandó bázishoz kapcsolódik, sem pedig a társaság fel nem osztott nyereségét nem vetheti a társaság fel nem osztott nyeresége után kivetett adó alá, még akkor sem, ha a kifizetett osztalék vagy a fel nem osztott nyereség egészben vagy részben ebben a másik Államban keletkező nyereségből vagy jövedelemből áll.
+
+11. Cikk
+
+Kamat
+
+1. A kamat, amely az egyik Szerződő Államban keletkezik, és amelyet a másik Szerződő Államban belföldi illetőségű személynek fizetnek, csak ebben a másik Államban adóztatható, ha ez a belföldi illetőségű személy a kamat haszonhúzója.
+
+2. E Cikk alkalmazásában a ,,kamat'' kifejezés mindenfajta hitelkövetelésből származó jövedelmet jelent, akár van biztosítva jelzáloggal, akár nem, és akár ad jogot az adós nyereségéből való részesedésre, akár nem és magában foglalja különösen az állami értékpapírokból származó jövedelmet, a kötvényekből vagy adósságlevelekből származó jövedelmet, beleértve az ilyen értékpapírokhoz, kötvényekhez vagy adósságlevelekhez kapcsolódó prémiumot és jutalmat.
+
+3. Az 1. bekezdés rendelkezései nem alkalmazandók, ha a kamat egyik Szerződő Államban belföldi illetőségű haszonhúzója a másik Szerződő Államban, amelyben a kamat keletkezik, egy ott levő telephely útján üzleti tevékenységet fejt ki, vagy önálló tevékenységet folytat ebben a másik Államban egy ott lévő állandó bázis segítségével, és a hitel, követelés, amely után a kamatot fizetik, ténylegesen ehhez a telephelyhez vagy állandó bázishoz tartozik. Ebben az esetben a 7. Cikk vagy a 14. Cikk rendelkezései nyernek, az esettől függően, alkalmazást.
+
+4. Ha a kamatot fizető személy és a kamat haszonhúzója, vagy kettejük és egy harmadik személy között különleges kapcsolat áll fenn, és emiatt a kamat összege azon hitelköveteléshez mérten, amely után fizetik, meghaladja azt az összeget, amelyben a kamatot fizető és a kamat haszonhúzója ilyen kapcsolatok hiányában megállapodtak volna, úgy e Cikk rendelkezéseit csak az utóbb említett összegre kell alkalmazni. Ilyen esetben a kifizetett többletösszeg mindkét Szerződő Állam jogszabályai szerint adóztatható marad, az Egyezmény egyéb rendelkezéseinek kellő figyelembevételével.
+
+12. Cikk
+
+Jogdíj
+
+1. A jogdíj, amely az egyik Szerződő Államban keletkezik, és amelyet a másik Szerződő Államban belföldi illetőségű személynek fizetnek, megadóztatható ebben a másik Államban.
+
+2. Mindazonáltal az ilyen jogdíj megadóztatható abban a Szerződő Államban is, és ennek az Államnak a jogszabályai szerint, amelyikben keletkezett, de ha a kedvezményezett a jogdíj haszonhúzója, az így felszámított adó nem haladhatja meg a jogdíj bruttó összegének 10 százalékát. A Szerződő Államok illetékes hatóságai kölcsönös egyetértéssel rendezik ennek a korlátozásnak az alkalmazási módját.
+
+3. E Cikk alkalmazásában a ,,jogdíj'' kifejezés minden olyan jellegű kifizetést jelent, amelyet irodalmi, művészeti vagy tudományos alkotások – beleértve a mozgóképfilmeket és a televíziós vagy rádióközvetítésre szolgáló filmeket vagy kép- vagy hanghordozó szalagokat – szerzői joga, szabadalmak, védjegyek, minták vagy modellek, tervek, titkos formulák és eljárások használatának vagy használati jogának ellenértékeként, ipari, kereskedelmi vagy tudományos felszerelések használata vagy használati joga ellenértékeként, ipari, kereskedelmi vagy tudományos tapasztalatok közléséért fizetnek.
+
+4. Az 1. és 2. bekezdések rendelkezései nem alkalmazandók, ha a jogdíj egyik Szerződő Államban belföldi illetőségű haszonhúzója a másik Szerződő Államban, amelyben a jogdíj keletkezik, egy ott levő telephely útján üzleti tevékenységet fejt ki, vagy önálló tevékenységet végez ebben a másik Államban egy ott levő állandó bázis segítségével, és a jog vagy vagyoni érték, amelyre tekintettel a jogdíjat fizetik, ténylegesen ehhez a telephelyhez vagy állandó bázishoz kapcsolódik. Ebben az esetben a 7. Cikk vagy a 14. Cikk rendelkezései nyernek, az esettől függően, alkalmazást.
+
+5. A jogdíj akkor tekintendő az egyik Szerződő Államban keletkezőnek, ha a kifizető maga ez az Állam, annak politikai egysége vagy helyi hatósága, vagy egy ebben az Államban belföldi illetőségű személy. Ha azonban a jogdíjat fizető személynek, függetlenül attól, hogy belföldi illetőségű az egyik Szerződő Államban vagy nem, az egyik Szerződő Államban telephelye vagy állandó bázisa van, amellyel kapcsolatban a jogdíj fizetésére vonatkozó kötelezettség felmerült, és ezt a jogdíjat ez a telephely vagy állandó bázis viseli, úgy az ilyen jogdíj abban a Szerződő Államban keletkezőnek tekintendő, amelyben a telephely vagy állandó bázis van.
+
+6. Ha a jogdíjat fizető személy és a jogdíj haszonhúzója, vagy kettejük és egy harmadik személy között különleges kapcsolatok állnak fenn, és emiatt a jogdíj összege azon használathoz, joghoz vagy információhoz mérten, amiért fizetik, meghaladja azt az összeget, amelyben a jogdíjat fizető és a jogdíj haszonhúzója ilyen kapcsolatok hiányában megállapodott volna, úgy e Cikk rendelkezéseit csak az utóbb említett összegre kell alkalmazni. Ebben az esetben a kifizetett többletösszeg mindkét Szerződő Állam jogszabályai szerint adóztatható, az Egyezmény más rendelkezéseinek kellő figyelembevételével.
+
+13. Cikk
+
+Elidegenítésből származó nyereség
+
+1. Az egyik Szerződő Államban belföldi illetőségű személynek a 6. Cikkben meghatározott és a másik Szerződő Államban fekvő ingatlan vagyona elidegenítéséből származó nyeresége megadóztatható ebben a másik Államban.
+
+2. Az a nyereség, amely olyan ingó vagyon elidegenítéséből származik, amely az egyik Szerződő Állam vállalkozása másik Szerződő Államban levő telephelye üzleti vagyonának része, vagy amely egy olyan állandó bázishoz tartozik, amellyel az egyik Szerződő Államban belföldi illetőségű személy önálló tevékenység végzése céljára a másik Szerződő Államban rendelkezik, beleértve egy ilyen telephelynek (akár a vállalkozással együttesen, akár attól függetlenül történő) vagy egy ilyen állandó bázisnak az elidegenítéséből elért nyereséget, megadóztatható ebben a másik Államban.
+
+3. A nemzetközi forgalomban üzemeltetett hajók, légi járművek vagy közúti szállító járművek, vagy az ilyen hajók, légi járművek vagy közúti szállító járművek üzemeltetését szolgáló ingó vagyon elidegenítéséből származó nyereség csak abban a Szerződő Államban adóztatható, amelyben a vállalkozás tényleges üzletvezetésének a helye van.
+
+4. Az 1., 2. és 3. bekezdésekben nem említett vagyon elidegenítéséből származó nyereség csak abban a Szerződő Államban adóztatható, amelyben az elidegenítő belföldi illetőségű.
+
+14. Cikk
+
+Önálló tevékenység
+
+1. Az egyik Szerződő Államban belföldi illetőségű személy szabadfoglalkozásból vagy más önálló jellegű tevékenységből származó jövedelme, csak ebben az Államban adóztatható, kivéve, ha a személynek tevékenysége kifejtéséhez a másik Szerződő Államban rendszeresen állandó bázis áll rendelkezésére. Amennyiben ilyen állandó bázissal rendelkezik, a jövedelem megadóztatható a másik Szerződő Államban, de csak annyiban, amennyiben az ennek az állandó bázisnak tudható be.
+
+2. A ,,szabadfoglalkozás'' kifejezés magában foglalja különösen az önállóan kifejtett tudományos, irodalmi, művészeti, nevelési vagy oktatási tevékenységet, valamint az orvosok, jogászok, mérnökök, építészek, fogorvosok és könyvszakértők önálló tevékenységét.
+
+15. Cikk
+
+Nem önálló tevékenység
+
+1. A 16., 18., 19. és 20. Cikkek rendelkezéseinek fenntartásával, a fizetés, a bér és más hasonló térítés, amelyet az egyik Szerződő Államban belföldi illetőségű személy nem önálló tevékenységért kap, csak ebben az Államban adóztatható, kivéve, ha a tevékenységet a másik Szerződő Államban végzik. Amennyiben a tevékenységet ott végzik, úgy az ezért kapott térítés megadóztatható ebben a másik Államban.
+
+2. Tekintet nélkül az 1. bekezdés rendelkezéseire, az a díjazás, amelyet az egyik Szerződő Államban belföldi illetőségű személy a másik Szerződő Államban végzett nem önálló tevékenységre tekintettel kap, csak az elsőként említett Államban adóztatható, ha az alábbi feltételek mindegyike fennáll:
+
+a) a kedvezményezett a másik Államban a vonatkozó bármely tizenkét hónapos időszakon belül nem tartózkodik egyfolytában vagy megszakításokkal összesen 183 napnál többet, és
+
+b) a díjazást olyan munkaadó fizeti, vagy azt olyan munkaadó nevében fizetik, aki nem belföldi illetőségű a másik Államban, és
+
+c) a díjazást nem a munkaadónak a másik Államban levő telephelye vagy állandó bázisa viseli.
+
+3. Tekintet nélkül e Cikk előző rendelkezéseire, a nemzetközi forgalomban üzemeltetett hajó, légi jármű vagy közúti szállító jármű fedélzetén végzett nem önálló tevékenységért járó díjazás megadóztatható abban a Szerződő Államban, amelyben a vállalkozás tényleges üzletvezetésének a helye van.
+
+16. Cikk
+
+Igazgatók tiszteletdíja
+
+Az igazgatói tiszteletdíj és más hasonló kifizetés, amelyet az egyik Szerződő Államban belföldi illetőségű személy olyan minőségében élvez, mint a másik Szerződő Államban belföldi illetőségű társaság igazgatótanácsának vagy más hasonló szervének tagja, megadóztatható ebben a másik Államban.
+
+17. Cikk
+
+Művészek és sportolók
+
+1. Tekintet nélkül a 14. és 15. Cikkek rendelkezéseire, az a jövedelem, amelyet az egyik Szerződő Államban belföldi illetőségű személy, előadóművészként, mint színpadi, film-, rádiós vagy televíziós művész, vagy zeneművészként, vagy sportolóként élvez a másik Szerződő Államban ilyen minőségében kifejtett személyes tevékenységéből, megadóztatható ebben a másik Államban.
+
+2. Amennyiben egy előadóművész vagy egy sportoló által ilyen minőségében, kifejtett személyes tevékenységéből származó jövedelem nem az előadóművésznél vagy a sportolónál magánál, hanem egy másik személynél jelentkezik, úgy ez a jövedelem, tekintet nélkül a 7., 14. és 15. Cikkek rendelkezéseire, megadóztatható abban a Szerződő Államban, amelyben az előadóművész vagy a sportoló a tevékenységét kifejti.
+
+3. Tekintet nélkül az 1. és 2. bekezdések rendelkezéseire, az e Cikkben említett jövedelem mentes az adó alól abban a Szerződő Államban, amelyben az előadóművész vagy a sportoló a tevékenységét kifejti, feltéve, hogy ezt a tevékenységet jelentős mértékben ennek az Államnak vagy a másik Államnak a közpénzeiből támogatják, vagy a Szerződő Államok közötti kulturális megállapodás alapján fejtik ki.
+
+18. Cikk
+
+Nyugdíj
+
+A 19. Cikk 2. bekezdésében foglalt rendelkezések fenntartásával, a nyugdíj és más hasonló díjazás, amelyet az egyik Szerződő Államban belföldi illetőségű személynek korábbi, nem önálló munkára tekintettel fizetnek, csak ebben az Államban adóztatható.
+
+19. Cikk
+
+Közszolgálat
+
+1. a) Az olyan, nem nyugdíj jellegű díjazás, amelyet az egyik Szerződő Állam, annak politikai egysége vagy helyi hatósága fizet magánszemélynek, az ezen Államnak, egységének vagy helyi hatóságának teljesített szolgálatért, csak ebben az Államban adóztatható.
+
+b) Ez a díjazás azonban csak a másik Szerződő Államban adóztatható, ha a szolgálatot ebben az Államban teljesítették, és a magánszemély ebben az Államban olyan belföldi illetőségű személy, aki
+
+(i) ennek az Államnak az állampolgára, vagy
+
+(ii) nem kizárólag a szolgálat teljesítése céljából vált ebben az Államban belföldi illetőségű személlyé.
+
+2. a) Minden olyan nyugdíj, amely az egyik Szerződő Állam, annak politikai egysége vagy helyi hatósága által vagy az általuk létesített alapokból kerül kifizetésre egy magánszemély részére az ezen Államnak, egységének vagy helyi hatóságának teljesített szolgálatért, csak ebben az Államban adóztatható.
+
+b) Ez a nyugdíj azonban csak a másik Szerződő Államban adóztatható, ha a magánszemély ebben a másik Államban belföldi illetőségű és ennek a másik Államnak az állampolgára.
+
+3. Az egyik Szerződő Állam, vagy politikai egysége, vagy helyi hatósága által folytatott üzleti tevékenységgel kapcsolatosan teljesített szolgálatért fizetett díjazásra és nyugdíjra a 15., 16. és 18. Cikkek rendelkezései alkalmazandók.
+
+20. Cikk
+
+Tanulók, tanárok és kutatók
+
+1. Az az összeg, amelyet olyan tanuló, ipari- és kereskedelmi tanuló kap ellátására, tanulmányaira vagy képzésére, aki belföldi illetőségű vagy az egyik Szerződő Államba érkezését közvetlenül megelőzően belföldi illetőségű volt a másik Szerződő Államban, és aki az elsőként említett Államban kizárólag tanulmányi vagy képzési célból tartózkodik, nem adóztatható ebben az Államban, feltéve, hogy az ilyen kifizetések ezen az Államon kívül levő forrásokból származnak.
+
+2. Az a térítés, amelyet egy olyan magánszemély kap oktatásért vagy tudományos kutatásért, aki belföldi illetőségű vagy az egyik Szerződő Államba érkezését közvetlenül megelőzően belföldi illetőségű volt a másik Szerződő Államban, és az első Államban tudományos kutatás, vagy egyetemi kollégiumban, felsőfokú oktatási intézményben vagy hasonló intézményben való oktatás céljából tartózkodik, mentes az adó alól az első Államban, feltéve, hogy az ilyen intézmény a nonprofit jogi személyek közé tartozik.
+
+21. Cikk
+
+Egyéb jövedelem
+
+1. Az egyik Szerződő Államban belföldi illetőségű személy jövedelmének az Egyezmény előző Cikkeiben nem tárgyalt részei, bárhol is keletkeznek csak ebben az Államban adóztathatók.
+
+2. Az 1. bekezdés rendelkezései nem alkalmazandók a 6. Cikk 2. bekezdésében meghatározott ingatlanból származó jövedelmen kívüli jövedelmekre, ha az ilyen jövedelmeknek az egyik Szerződő Államban belföldi illetőségű kedvezményezettje a másik Szerződő Államban egy ott levő telephely útján üzleti tevékenységet fejt ki, vagy önálló tevékenységet végez ebben a másik Államban egy ott lévő állandó bázis segítségével és a jog vagy a vagyon, amelyre tekintettel a jövedelmet fizetik, ténylegesen ehhez a telephelyhez vagy állandó bázishoz kapcsolódik. Ilyen esetben a 7. Cikk vagy a 14. Cikk rendelkezései nyernek, az esettől függően, alkalmazást.
+
+22. Cikk
+
+Vagyon
+
+1. A 6. Cikkben említett olyan ingatlan vagyon, amely az egyik Szerződő Államban belföldi illetőségű személy tulajdonát képezi és a másik Szerződő Államban fekszik, megadóztatható ebben a másik Államban.
+
+2. Az ingó vagyon, amely egy olyan telephely üzleti vagyonának részét képezi, amellyel az egyik Szerződő Állam vállalkozása a másik Szerződő Államban rendelkezik, vagy az olyan ingó vagyon, amely az egyik Szerződő Államban belföldi illetőségű személynek a másik Szerződő Államban lévő, önálló tevékenység végzésére szolgáló állandó bázisához tartozik, megadóztatható ebben a másik Államban.
+
+3. A nemzetközi forgalomban üzemeltetett hajókból, légi járművekből és közúti szállító járművekből álló vagyon, és az ilyen hajók, légi járművek és közúti szállító járművek üzemeltetésére szolgáló ingó vagyon csak abban a Szerződő Államban adóztatható, amelyben a vállalkozás tényleges üzletvezetésének a helye van.
+
+4. Az egyik Szerződő Államban belföldi illetőségű személy minden más vagyonrésze csak ebben az Államban adóztatható.
+
+23. Cikk
+
+A kettős adóztatás elkerülése
+
+1. A Magyar Köztársaságban belföldi illetőségű személy esetében a kettős adóztatást a következőképpen kell elkerülni:
+
+a) Amennyiben a Magyar Köztársaságban belföldi illetőségű személy olyan jövedelmet élvez, vagy olyan vagyona van, amely az Egyezmény rendelkezései szerint megadóztatható a Cseh Köztársaságban, úgy a Magyar Köztársaság a b) és c) pontokban foglalt rendelkezések fenntartásával az ilyen jövedelmet vagy vagyont mentesíti az adó alól.
+
+b) Amennyiben a Magyar Köztársaságban belföldi illetőségű személy olyan jövedelemtételeket élvez, amelyek a 10. és a 12. Cikk rendelkezései értelmében a Cseh Köztársaságban megadóztathatók, a Magyar Köztársaság lehetővé teszi a belföldi illetőségű személy jövedelmét terhelő adóból azon összeg levonását, amely megegyezik a Cseh Köztársaságban megfizetett adóval. Az így levont összeg azonban nem haladhatja meg a levonás előtt számított adónak azon a részét, amely a Cseh Köztársaságból élvezett ilyen jövedelemtételekre esik.
+
+c) Amennyiben az Egyezmény bármely rendelkezése szerint valamely, a Magyar Köztársaságban belföldi illetőségű személy által élvezett jövedelem vagy a tulajdonát képező vagyon mentesül az adó alól a Magyar Köztársaságban, a Magyar Köztársaság mindazonáltal ennek a belföldi illetőségű személynek a többi jövedelme vagy vagyona utáni adó kiszámításánál figyelembe veheti a mentesített jövedelmet vagy vagyont.
+
+2. A Cseh Köztársaságban belföldi illetőségű személy esetében a kettős adóztatást a következőképpen kell elkerülni:
+
+A Cseh Köztársaság, amikor az ott belföldi illetőségű személyekre adót vet ki, bevonhatja az adóalapba, amelyre az ilyen adókat kiveti, az olyan jövedelemtételeket, amelyek az Egyezmény rendelkezései szerint a Magyar Köztársaságban is adóztathatók, de lehetővé teszi az ilyen alapon kiszámított adóösszegből azon összeg levonását, amely megegyezik a Magyar Köztársaságban megfizetett adóval. Az így levont összeg azonban nem haladhatja meg a levonás előtt kiszámított cseh adónak azon részét, amely arra a jövedelemre esik, amely az Egyezmény rendelkezései szerint a Magyar Köztársaságban adóztatható.
+
+24. Cikk
+
+Egyenlő elbánás
+
+1. Az egyik Szerződő Állam állampolgárai nem vethetők a másik Szerződő Államban olyan adóztatás vagy azzal összefüggő kötelezettség alá, amely más vagy megterhelőbb, mint az az adóztatás és azzal összefüggő kötelezettség, amelynek e másik Állam állampolgárai azonos körülmények között alá vannak vagy alá lehetnek vetve. Ez a rendelkezés, tekintet nélkül az 1. Cikk rendelkezéseire, azokra a személyekre is alkalmazandó, akik nem belföldi illetőségűek az egyik vagy mindkét Szerződő Államban.
+
+2. Az egyik Szerződő Állam vállalkozásának a másik Szerződő Államban lévő telephelyét ebben a másik Államban nem lehet kedvezőtlenebbül adóztatni, mint ennek a másik Államnak azonos tevékenységet folytató vállalkozásait. Ez a rendelkezés nem értelmezendő akként, mintha az egyik Szerződő Államot arra kötelezné, hogy a másik Szerződő Államban belföldi illetőségű személyeknek olyan, a polgári jogállás vagy családi kötelezettségek alapján járó személyi kedvezményeket, mentességeket és levonásokat nyújtson az adózásban, amelyekben a saját területén belföldi illetőségű személyeket részesíti.
+
+3. Az egyik Szerződő Állam vállalkozása által a másik Szerződő Államban belföldi illetőségű személynek fizetett kamat, jogdíj és más költség az ilyen vállalkozás adóztatható nyereségének megállapítására ugyanolyan feltételek mellett levonható, mintha azokat az először említett Államban belföldi illetőségű személy részére fizették volna, kivéve, ha a 9. Cikknek, a 11. Cikk 4. bekezdésének vagy a 12. Cikk 6. bekezdésének rendelkezései alkalmazandók. Hasonlóképpen az egyik Szerződő Állam vállalkozásának a másik Szerződő Államban belföldi illetőségű személlyel szemben fennálló tartozásai ugyanolyan feltételek mellett levonhatók a vállalkozás adóköteles vagyonának megállapítására, mintha ezek a tartozások az elsőként említett Államban belföldi illetőségű személlyel szemben álltak volna fenn.
+
+4. Az egyik Szerződő Állam olyan vállalkozásai, amelyeknek tőkéje teljesen vagy részben, közvetlenül vagy közvetve a másik Szerződő Államban belföldi illetőségű egy vagy több személy tulajdonában vagy ellenőrzése alatt van, az nem vethető az elsőként említett Szerződő Államban olyan adóztatás, vagy azzal összefüggő kötelezettség alá, amely más vagy megterhelőbb, mint az az adóztatás és azzal összefüggő kötelezettségek, amelyeknek az elsőként említett Állam más hasonló vállalkozásai alá vannak vagy alá lehetnek vetve.
+
+5. E Cikk rendelkezései, tekintet nélkül a 2. Cikk rendelkezéseire, bármilyen fajtájú és megnevezésű adóra alkalmazandók.
+
+25. Cikk
+
+Egyeztető eljárás
+
+1. Ha egy személy véleménye szerint az egyik Szerződő Állam vagy mindkét Szerződő Állam intézkedései ránézve olyan adóztatáshoz vezetnek vagy fognak vezetni, amely nem felel meg az Egyezmény rendelkezéseinek, úgy, ezeknek az Államoknak a belső jogszabályai által biztosított jogorvoslati lehetőségektől függetlenül, ügyét előterjesztheti annak a Szerződő Államnak az illetékes hatóságához, amelyben belföldi illetőségű, vagy ha ügye a 24. Cikk 1. bekezdése alá tartozik, annak a Szerződő Államnak az illetékes hatóságához, amelynek állampolgára. Az ügyet arra az intézkedésre vonatkozó első értesítést követő három éven belül kell előterjeszteni, amely az Egyezmény rendelkezéseinek meg nem felelő adózáshoz vezetett.
+
+2. Az illetékes hatóság, amennyiben a kifogást megalapozottnak találja, és önmaga nem képes kielégítő megoldást találni, törekedni fog arra, hogy az ügyet a másik Szerződő Állam illetékes hatóságával együtt kölcsönös egyetértéssel rendezze úgy, hogy elkerüljék az olyan adóztatást, amely nem áll összhangban az Egyezménnyel. Az így létrejött megállapodást a Szerződő Államok belső jogszabályaiban előírt határidőktől függetlenül végre kell hajtani.
+
+3. A Szerződő Államok illetékes hatóságai törekedni fognak arra, hogy az Egyezmény értelmezésével vagy alkalmazásával kapcsolatos nehézségeket és kétségeket kölcsönös egyetértéssel oldják fel. Közös tanácskozásokat tarthatnak annak érdekében, hogy olyan esetekben is elkerüljék a kettős adóztatást, amelyekről az Egyezmény nem rendelkezik.
+
+4. A Szerződő Államok illetékes hatóságai az előző bekezdések értelmében létrehozandó egyetértés elérése céljából egymással közvetlenül érintkezhetnek. Amennyiben az egyetértés elérése érdekében célszerűnek látszik szóbeli véleménycsere, úgy az ilyen véleménycsere lefolytatható a Szerződő Államok illetékes hatóságainak képviselőiből álló bizottság által.
+
+26. Cikk
+
+Tájékoztatáscsere
+
+1. A Szerződő Államok illetékes hatóságai ki fogják cserélni az Egyezmény rendelkezéseinek vagy a Szerződő Államokban az Egyezmény hatálya alá tartozó adókra vonatkozó belső jogszabályi rendelkezéseknek végrehajtásához szükséges tájékoztatásokat, amennyiben az ezek szerinti adóztatás nem ellentétes az Egyezménnyel. A kölcsönös tájékoztatást az 1. Cikk nem korlátozza. A Szerződő Államnak a kapott tájékoztatást ugyanúgy titokként kell kezelnie, mint az ennek az Államnak a belső jogszabályai alapján megszerzett információkat, és csak olyan személyek vagy hatóságok (beleértve a bíróságokat és a közigazgatási szerveket) részére szabad felfednie, amelyek az Egyezmény hatálya alá eső adók megállapításával vagy beszedésével, ezek érvényesítésével és a vonatkozó peres eljárással vagy az ezekkel az adókkal kapcsolatos jogorvoslatok elbírálásával foglalkoznak. Ezek a személyek vagy hatóságok a tájékoztatást csak ilyen célokra használhatják fel. Nyilvános bírósági tárgyalásokon vagy bírósági határozatokban a tájékoztatást nyilvánosságra hozhatják.
+
+2. Az 1. bekezdés rendelkezései semmilyen esetben sem értelmezhetők úgy, mintha valamelyik Szerződő Államot köteleznék:
+
+a) az egyik vagy a másik Szerződő Állam jogszabályaitól vagy államigazgatási gyakorlatától eltérő államigazgatási intézkedések hozatalára;
+
+b) olyan tájékoztatás nyújtására, amely az egyik vagy másik Szerződő Államnak a jogszabályai szerint vagy az államigazgatás szokásos rendjében nem szerezhető be;
+
+c) olyan tájékoztatás nyújtására, amely szakmai, üzleti, ipari, kereskedelmi vagy foglalkozási titkot vagy szakmai eljárást tárna fel, vagy amelynek felfedése ellentmondana a közrendnek (ordre public).
+
+27. Cikk
+
+Diplomáciai képviselők és konzuli tisztségviselők
+
+Az Egyezmény semmilyen módon nem érinti a diplomáciai képviselőket vagy konzuli tisztségviselőket a nemzetközi jog általános szabályai szerint vagy külön egyezmények rendelkezései alapján megillető adózási kiváltságokat.
+
+28. Cikk
+
+Hatálybalépés
+
+1. A Szerződő Felek értesítik egymást arról, hogy az Egyezmény hatálybalépéséhez szükséges alkotmányos követelményeknek eleget tettek.
+
+2. Az Egyezmény az 1. bekezdésben említett értesítések közül a későbbinek a keltekor lép hatályba, és rendelkezései alkalmazandók:
+
+a) a forrásnál levont adók tekintetében az Egyezmény hatálybalépésének évét követő első naptári év január 1. napján vagy azután megszerzett összegekre;
+
+b) az egyéb jövedelemadók és vagyonadók tekintetében az olyan adókra, amelyek az Egyezmény hatálybalépésének évét követő első naptári év január 1. napján vagy azután kezdődő bármely adózási évre vethetők ki.
+
+29. Cikk
+
+Felmondás
+
+Az Egyezmény mindaddig hatályban marad, ameddig a Szerződő Államok egyike azt fel nem mondja. Az Egyezményt bármelyik Szerződő Állam az Egyezmény hatálybalépésének időpontjától számított öt év elteltével felmondhatja diplomáciai úton úgy, hogy a felmondásról értesítést ad bármely naptári év végét legalább 6 hónappal megelőzően. Ebben az esetben az Egyezmény hatályát veszti:
+
+a) a forrásnál levont adók tekintetében az értesítés átadásának évét követő első naptári év január 1. napján vagy azután megszerzett összegekre;
+
+b) az egyéb jövedelemadók és vagyonadók tekintetében az olyan adókra, amelyek az értesítés átadásának évét követő első naptári év január 1. napján vagy azután kezdődő bármely adózási évre vethetők ki.
+
+Ennek hiteléül az arra kellő felhatalmazással rendelkező alulírottak az Egyezményt aláírták.
+
+Készült két példányban, Prágában, 1993. január hó 14. napján, angol nyelven.
+
+A Magyar Köztársaság Kormánya nevében
+
+Kupa Mihály s. k.,pénzügyminiszter
+
+A Cseh KöztársaságKormánya nevében
+
+Ivan Kocarnik s. k.,pénzügyminiszter''
+
+3. § Ez a törvény a kihirdetése napján lép hatályba, rendelkezéseit azonban az Egyezmény 28. Cikk 2. a) pontja alá eső adók tekintetében az 1995. január 1-jén vagy azt követően szerzett jövedelmekre, a 28. Cikk 2. b) pontja alá eső adók tekintetében 1995. január 1-jén vagy azután kezdődő bármely adóévre kivethető adókra kell alkalmazni.
