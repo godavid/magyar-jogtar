@@ -8,7 +8,7 @@ a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya k
 
 2. § A szerződés hiteles magyar nyelvű szövege a következő:
 
-„Szerződésa Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a kölcsönös bűnügyi jogsegélyről
+,,Szerződésa Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a kölcsönös bűnügyi jogsegélyről
 
 A Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya
 
@@ -22,11 +22,7 @@ A jogsegélynyújtási kötelezettség terjedelme
 
 1. A Szerződő Felek a jelen szerződés rendelkezéseinek megfelelően kölcsönösen jogsegélyt nyújtanak egymásnak a bűncselekmények megelőzésével, nyomozásával kapcsolatban és a büntető ügyekkel kapcsolatos ügyészi és bírósági eljárásokban.
 
-1/A. a) Kölcsönös jogsegélyt nyújtanak továbbá a nemzeti közigazgatási hatóság számára is, ha az valamely cselekményt a büntetőeljárás megindítása vagy a nyomozó, illetve bűnüldöző hatóságokhoz történő áttétele céljából vizsgál az ilyen vizsgálatok elvégzésére vonatkozó különleges közigazgatási vagy szabálysértési hatásköre alapján. Ugyanilyen feltételekkel más közigazgatási hatóságok számára is nyújtható kölcsönös jogsegély. Nem nyújtható jogsegély olyan ügyekben, amelyekben a közigazgatási hatóság megítélése szerint nem indul büntetőeljárás, illetve nem következik az ügy más hatóságokhoz történő áttétele.
-
-b) Az e bekezdés szerinti jogsegély iránti kérelmeket a központi hatóságok, vagy a központi hatóságok megállapodása alapján kijelölt más hatóságok között kell továbbítani.
-
-2. A jogsegély magában foglalja:
+2. A jogsegély magába foglalja:
 
 a) személyek tanúkénti kihallgatását és nyilatkozatainak beszerzését;
 
@@ -56,7 +52,7 @@ Központi hatóságok
 
 1. Mindegyik Szerződő Fél központi hatósággal rendelkezik a jelen szerződés szerinti kérelmek előterjesztésére és fogadására.
 
-2. A Magyar Köztársaság részéről központi hatóság az igazságügyminiszter és a legfőbb ügyész vagy az általuk kijelölt személyek. Az Amerikai Egyesült Államok részéről központi hatóság a szövetségi igazságügyminiszter (Attorney General) vagy azok a személyek, akiket a szövetségi igazságügyminiszter jelölt ki.
+2. A Magyar Köztársaság részéről központi hatóság az igazságügy-miniszter és a legfőbb ügyész vagy az általuk kijelölt személyek. Az Amerikai Egyesült Államok részéről központi hatóság a szövetségi igazságügy-miniszter (Attorney General) vagy azok a személyek, akiket a szövetségi igazságügy-miniszter jelölt ki.
 
 3. A központi hatóságok közvetlenül érintkeznek egymással a jelen szerződés alkalmazásával kapcsolatban.
 
@@ -74,7 +70,7 @@ c) a kérelem teljesítése sértené a megkeresett állam szuverenitását, biz
 
 d) a kérelem nem felel meg a 4. Cikk rendelkezéseinek.
 
-2. Mielőtt a jogsegélyt ezen cikk alapján a megkeresett állam központi hatósága megtagadná, köteles konzultálni a megkereső állam központi hatóságával annak mérlegelése érdekében, hogy a jogsegély az általa szükségesnek ítélt feltételekhez kötötten teljesíthető-e. Ha a megkereső állam elfogadja azt, hogy jogsegély iránti kérelmét feltételekhez kötötten teljesítsék, a feltételeknek eleget kell tennie.
+2. Mielőtt a jogsegélyt ezen Cikk alapján a megkeresett állam központi hatósága megtagadná, köteles konzultálni a megkereső állam központi hatóságával annak mérlegelése érdekében, hogy a jogsegély az általa szükségesnek ítélt feltételekhez kötötten teljesíthető-e. Ha a megkereső állam elfogadja azt, hogy jogsegély iránti kérelmét feltételekhez kötötten teljesítsék, a feltételeknek eleget kell tennie.
 
 3. Ha a megkeresett állam központi hatósága a jogsegélyt megtagadja, a megtagadás indokairól a megkereső államot tájékoztatni köteles.
 
@@ -82,11 +78,7 @@ d) a kérelem nem felel meg a 4. Cikk rendelkezéseinek.
 
 A jogsegély iránti kérelmek formája és tartalma
 
-1. a) A jogsegély iránti kérelmek és az azokhoz kapcsolódó közlések gyors távközlési eszközök – beleértve a faxot vagy az e-mailt – útján is előterjeszthetők és megválaszolhatók; a megkeresett állam kérésére ezekről utólag hivatalos megerősítést kell küldeni.
-
-b) Sürgős esetekben a kölcsönös jogsegély iránti kérelmeket szóban is elő lehet terjeszteni, de a megkeresett állam központi hatóságának eltérő rendelkezése hiányában ezeket tíz napon belül írásban meg kell erősíteni.
-
-c) A kérelmet a megkeresett állam nyelvén kell előterjeszteni, hacsak nincs ettől eltérő megállapodás.
+1. A jogsegély iránti kérelmeket írásban kell előterjeszteni, kivéve, ha a megkeresett állam központi hatósága sürgős esetekben más formában előterjesztett kérelmet is elfogadhat. Az utóbbi formában előterjesztett kérelmet a megkeresett állam központi hatóságának eltérő rendelkezése hiányában tíz napon belül írásban meg kell erősíteni. A kérelmet a megkeresett állam nyelvén kell előterjeszteni, hacsak nincs ettől eltérő megállapodás.
 
 2. A kérelemnek a következőket kell tartalmaznia:
 
@@ -110,7 +102,7 @@ d) átkutatandó hely vagy személy és lefoglalandó dolgok esetén ezek pontos
 
 e) vallomás vagy nyilatkozat esetében a kihallgatás és a rögzítés követendő módjára vonatkozó közlést;
 
-f) annak megjelölését, hogy a tanút mire nézve kell kihallgatni, ami magában foglalhatja a tanúnak felteendő kérdések felsorolását is;
+f) annak megjelölését, hogy a tanút mire nézve kell kihallgatni, ami magába foglalhatja a tanúnak felteendő kérdések felsorolását is;
 
 g) a kérelem teljesítése során követendő bármely különleges eljárás ismertetését;
 
@@ -140,43 +132,17 @@ A jogsegély iránti kérelmek teljesítése
 
 Költségek
 
-1. A megkeresett állam viseli a jogsegély iránti kérelem teljesítésével kapcsolatban felmerült valamennyi költséget, kivéve a 10., és 11. cikk alkalmazása során felmerült szakértői díjakat, fordítási, tolmácsolási és a más rögzítési rendszerre átvitelből adódó költségeket, valamint a személyek utazásával kapcsolatos térítéseket és költségeket, mely díjakat, költségeket és térítéseket a megkereső állam viseli.
-
-2. Ezen túlmenően, a megkereső és a megkeresett állam eltérő megállapodása hiányában a videoátvitel létrehozásával és szolgáltatásával járó költségeket a megkereső állam viseli a 17/C. cikknek megfelelően. A jogsegélynyújtás során felmerülő egyéb költségek (beleértve a részvevőknek a megkeresett államba történő utazása költségeit) viselése a jelen cikk 1. bekezdése szerint történik.
+A megkeresett állam viseli a jogsegély iránti kérelem teljesítésével kapcsolatban felmerült valamennyi költséget, kivéve a 10. és 11. Cikk alkalmazása során felmerült szakértői díjakat, fordítási, tolmácsolási és a más rögzítési rendszerre átvitelből adódó költségeket, valamint a személyek utazásával kapcsolatos térítéseket és költségeket, mely díjakat, költségeket és térítéseket a megkereső állam viseli.
 
 7. Cikk
 
-A felhasználás korlátozása a személyes és egyéb adatok védelmében
+A felhasználás korlátai
 
-1. A megkeresett állam kikötheti, hogy a megkereső állam a megkeresett államtól kapott bizonyíték vagy adat felhasználását a következő célokra korlátozza:
+1. A megkeresett állam központi hatósága kikötheti, hogy a jelen szerződés alapján megszerzett adatok és bizonyítékok a megkeresett állam előzetes hozzájárulása nélkül a jogsegély iránti kérelemben megjelöltön kívül más nyomozati, ügyészi vagy bírósági eljárásban nem használhatók fel.
 
-a) az általa folytatott nyomozás és büntetőeljárás céljára;
+2. A megkeresett állam központi hatósága kérheti, hogy a jelen szerződés alapján átadott adatokat és bizonyítékokat bizalmasan kezeljék, vagy az általa meghatározott feltételeknek megfelelően használják fel. Ebben az esetben a megkereső államnak minden tőle telhetőt meg kell tennie annak érdekében, hogy e feltételeknek eleget tegyen.
 
-b) a közbiztonságát fenyegető közvetlen és komoly veszély megelőzésére;
-
-c) azokra a nyomozásokhoz vagy bírósági eljárásokhoz közvetlenül kapcsolódó, nem büntetőbírósági vagy közigazgatási eljárásaira:
-
-(i) amelyek az a) pontban szerepelnek, vagy
-
-(ii) amelyekben az 1. cikk 1/A. bekezdése alapján nyújtottak kölcsönös jogsegélyt;
-
-d) bármely más célra abban az esetben, ha az információt vagy bizonyítékot nyilvánosságra hozták annak az eljárásnak a keretében, amellyel kapcsolatban azt továbbították, illetve az a), b) és c) pontban szereplő esetek bármelyikében; és
-
-e) bármely más célra kizárólag a megkeresett állam előzetes hozzájárulásával.
-
-2. a) E cikk nem érinti a megkeresett államnak a kölcsönös jogsegély szerződés szerinti jogosultságát arra, hogy további feltételeket szabjon egyes esetekben, ha az adott jogsegély iránti kérelmet ilyen feltételek hiányában nem lehetett teljesíteni. Amennyiben e pont alapján további feltételeket szabnak, a megkeresett állam kérheti, hogy a megkereső állam tájékoztatást adjon a bizonyíték vagy az adat felhasználásáról.
-
-b) A megkeresett állam a bizonyíték vagy adat átadásának az a) pont szerinti feltételeként nem szabhat általános korlátozásokat a megkereső államnak a személyes adatok feldolgozására vonatkozó jogi előírásai tekintetében.
-
-3. Amennyiben a megkereső állam részére történő adatszolgáltatást követően a megkeresett államnak olyan körülmények jutnak a tudomására, amelyek következtében egy konkrét esetben további feltételt kell kikötnie, a megkeresett állam konzultálhat a megkereső állammal annak meghatározása érdekében, hogy a bizonyíték és adat védelme milyen mértékben lehetséges.
-
-4. A megkeresett állam központi hatósága kérheti, hogy a jelen szerződés alapján átadott adatokat és bizonyítékokat bizalmasan kezeljék, vagy az általa meghatározott feltételeknek megfelelően használják fel. Ebben az esetben a megkereső államnak minden tőle telhetőt meg kell tennie annak érdekében, hogy e feltételeknek eleget tegyen.
-
-7/A. cikk
-
-A megkereső állam titoktartási kérelme
-
-A megkeresett állam köteles minden tőle telhetőt megtenni a jogsegély kérésének és tartalmának titokban tartása érdekében, ha a titkosan kezelést a megkereső állam kérte. Ha a kérelem a titok felfedése nélkül nem teljesíthető, a megkeresett állam központi hatósága erről köteles tájékoztatni a megkereső államot, amely ezt követően dönt arról, hogy a kérelem teljesítését ennek ellenére kívánja-e.
+3. Az az adat és bizonyíték, amelyet az 1. és 2. bekezdésnek megfelelően a megkereső államban nyilvánosságra hoztak, a továbbiakban bármilyen célra felhasználható.
 
 8. Cikk
 
@@ -190,7 +156,7 @@ Tanúvallomás vagy egyéb bizonyíték beszerzése a megkeresett államban
 
 4. Abban az esetben, ha az 1. bekezdésben említett személy a megkeresett állam joga alapján fennálló mentességre, tanúskodási képesség hiányára vagy személyes jogosultságra hivatkozik, ennek kérdésében a megkeresett állam igazságügyi hatóságai döntenek. Ha azonban az ilyen személy azt állítja, hogy tanúkénti vallomástétele a megkereső állam joga szerint fennálló mentességbe, tanúskodási képesség hiányába vagy személyes jogosultságba ütközik, a tanúkihallgatást vagy az egyéb bizonyíték beszerzését foganatosítani kell, és a bejelentést a megkereső állam központi hatóságának tudomására kell hozni e kérdésnek a megkereső állam hatóságai által történő eldöntése végett.
 
-5. Ha a megkereső állam központi hatósága kívánja, bármely dolog, amelyet a megkeresett államban a jelen szerződés alkalmazásával bizonyítékul szereztek be, avagy a jelen cikk alapján tett tanúvallomás tárgyát képezte, tanúsítvánnyal hitelesíthető, ideértve üzleti dokumentumok esetében a hitelességnek a jelen szerződés mellékletében szereplő A Minta szerinti formában történő tanúsítását. Az A Minta alkalmazásával hitelesített okiratokat a bennük foglaltak valóságának igazolására a megkereső államban bizonyítékként kell elfogadni.
+5. Ha a megkereső állam központi hatósága kívánja, bármely dolog, amelyet a megkeresett államban a jelen szerződés alkalmazásával bizonyítékul szereztek be, avagy a jelen Cikk alapján tett tanúvallomás tárgyát képezte, tanúsítvánnyal hitelesíthető, ideértve üzleti dokumentumok esetében a hitelességnek a jelen szerződés mellékletében szereplő A) Minta szerinti formában történő tanúsítását. Az A) Minta alkalmazásával hitelesített okiratokat a bennük foglaltak valóságának igazolására a megkereső államban bizonyítékként kell elfogadni.
 
 9. Cikk
 
@@ -200,7 +166,7 @@ Hivatalos dokumentumok
 
 2. A megkeresett állam a közigazgatási és igazságügyi hatóságai birtokában levő, bármely módon rögzített, de a nyilvánosság számára nem hozzáférhető okiratok, feljegyzések és tájékoztatások másolatát ugyanazon esetekben és ugyanolyan feltételekkel küldheti meg, ahogyan az ilyen másolatok saját jogalkalmazó vagy igazságügyi hatóságai részére hozzáférhetők lennének. A megkeresett állam a jelen bekezdés alapján a kérelem teljesítését belátása szerint részben vagy egészben megtagadhatja.
 
-3. A hivatalos feljegyzések a jelen cikk alkalmazásakor a külföldön felhasználásra kerülő közokiratok diplomáciai vagy konzuli hitelesítésének (felülhitelesítésének) mellőzéséről szóló 1961. október 5. napján kelt egyezmény rendelkezései szerint hitelesíthetők. További hitelesítés nem szükséges. A jelen bekezdés szerint hitelesített okiratokat a megkereső államban bizonyítékként kell elfogadni.
+3. A hivatalos feljegyzések a jelen Cikk alkalmazásakor a külföldön felhasználásra kerülő közokiratok diplomáciai vagy konzuli hitelesítésének (felülhitelesítésének) mellőzéséről szóló l96l. október 5. napján kelt egyezmény rendelkezései szerint hitelesíthetők. További hitelesítés nem szükséges. A jelen bekezdés szerint hitelesített okiratokat a megkereső államban bizonyítékként kell elfogadni.
 
 10. Cikk
 
@@ -216,7 +182,7 @@ Fogva levő személyek átszállítása
 
 2. Azt, a megkereső államban fogva levő személyt, akinek jelenléte a megkeresett államban a jelen szerződés alapján nyújtandó jogsegély céljából szükséges, e célból a megkereső államból át lehet szállítani, ha ahhoz az érintett személy hozzájárul, és abban a két állam központi hatósága egyetért.
 
-3. A jelen cikk alkalmazása során:
+3. A jelen Cikk alkalmazása során:
 
 a) a fogadó állam joga és kötelessége fogva tartani az átszállított személyt, hacsak a küldő állam másra nem jogosította fel;
 
@@ -276,76 +242,6 @@ Jogsegély az elkobzásra irányuló eljárásban
 
 3. A megkeresett állam az ellenőrzése alatt álló, bűncselekményből származó elkobzott vagyoni előnnyel vagy bűncselekmény eszközét képező elkobzott dologgal saját joga szerint rendelkezik. Joga által megengedett határok között és az általa szükségesnek ítélt feltételekkel bármelyik Fél átadhatja az elkobzott vagyoni értéket vagy az értékesítés folytán helyébe lépett értéket a másik Félnek.
 
-17/A. Cikk
-
-Banki adatok azonosítása
-
-1. a) A megkeresett állam a megkereső állam kérelmére az e cikkben foglalt rendelkezéseknek megfelelően késedelem nélkül megbizonyosodik arról, hogy a területén található bankok tudomással bírnak-e arról, hogy egy bűncselekmény elkövetésével gyanúsított vagy vádolt, azonosított természetes vagy jogi személy rendelkezik-e bankszámlával vagy számlákkal. A megkeresett állam a vizsgálat eredményeit késedelem nélkül közli a megkereső állammal.
-
-b) Az a) pontban meghatározott intézkedések megtehetők a következők megállapítása érdekében is:
-
-(i) bűncselekmény elkövetésével vádolt, vagy abban más módon érintett természetes vagy jogi személyekre vonatkozó adatok,
-
-(ii) bankrendszeren kívüli pénzintézetek birtokában lévő adatok, illetve
-
-(iii) számlákhoz nem kapcsolódó pénzügyi műveletek.
-
-2 A jelen szerződés 4. cikk 2. bekezdésében meghatározott követelményeken túlmenően a jelen cikk 1. bekezdésében leírt adatokra vonatkozó kérelemnek a következőket kell tartalmaznia:
-
-a) a természetes vagy jogi személynek az ilyen számlák vagy műveletek helyének megállapításához szükséges azonosító adatai; továbbá
-
-b) a megkeresett állam illetékes hatósága számára elegendő információ arról, hogy
-
-(i) fennáll az alapos gyanú, hogy az érintett természetes vagy jogi személy bűncselekmény elkövetésében vett részt, és hogy a megkeresett állam területén található bankok vagy bankrendszeren kívüli pénzintézetek rendelkeznek a kért adattal, valamint
-
-(ii) megállapítható, hogy a kért adat a nyomozással vagy büntetőeljárással kapcsolatos;
-
-c) lehetőség szerint arra vonatkozó információk, hogy melyik bank vagy bankrendszeren kívüli pénzintézet lehet érintett, illetve egyéb olyan információ, amelynek elérhetősége segítheti a vizsgálat körének szűkítését.
-
-3. Az e cikk szerinti jogsegély iránti kérelmeket a következő hatóságok terjesztik elő és fogadják:
-
-a) a Magyar Köztársaság részéről a Magyar Köztársaság legfőbb ügyésze, amennyiben azonban a Magyar Köztársaságból érkező kérelmet olyan ügyben terjesztik elő, amely bíróság előtt van folyamatban, a kérelmet az Igazságügyi Minisztérium továbbítja;
-
-b) az Amerikai Egyesült Államok részéről
-
-(i) az Amerikai Egyesült Államok Igazságügyi Minisztériuma Kábítószer-végrehajtási Felügyeletének a Magyar Köztársaságért felelős attaséja, a hatáskörébe utalt ügyekben;
-
-(ii) az Amerikai Egyesült Államok Belbiztonsági Minisztériuma Bevándorlási és Vámvégrehajtási Hivatalának a Magyar Köztársaságért felelős attaséja, a hatáskörébe utalt ügyekben;
-
-(iii) az Amerikai Egyesült Államok Igazságügyi Minisztériuma Szövetségi Nyomozó Hivatalának a Magyar Köztársaságért felelős attaséja, minden más ügyben.
-
-A Magyar Köztársaság és az Amerikai Egyesült Államok a jelen bekezdés szerinti kijelöléseiket az Európai Unió és az Amerikai Egyesült Államok közötti diplomáciai jegyzékváltás útján módosíthatják.
-
-4. A Magyar Köztársaság a jelen cikk alapján olyan bűncselekmények tekintetében nyújt jogsegélyt, amelyek mind a megkeresett, mind a megkereső állam törvényei szerint büntetendők. Az Amerikai Egyesült Államok a jelen cikk alapján olyan, pénzmosással vagy terroristatevékenységgel összefüggő cselekményeket illetően nyújt jogsegélyt, amelyek mindkét állam törvényei szerint büntetendők, valamint olyan más bűncselekményekkel kapcsolatban, amelyek köréről a Magyar Köztársaság számára értesítést küld.
-
-5. A megkeresett állam az e cikk alapján azonosított számlákra, illetve tranzakciókra vonatkozó nyilvántartások megküldése iránti kérelmeket a jelen szerződés egyéb rendelkezéseinek megfelelően teljesíti.
-
-17/B. Cikk
-
-Közös nyomozó csoportok
-
-1. Közös nyomozó csoportok hozhatók létre és működtethetők a Magyar Köztársaság és az Amerikai Egyesült Államok területén az Európai Unió egy vagy több tagállamát és az Amerikai Egyesült Államokat érintő nyomozások vagy büntetőeljárások megkönnyítése érdekében, ha azt a Magyar Köztársaság és az Amerikai Egyesült Államok megfelelőnek ítéli.
-
-2. A csoport működésére vonatkozó szabályokat, úgy mint a csoport összetételét, működésének időtartamát, helyét, szervezeti felépítését, feladatait, célját, továbbá a csoport egy államból kijelölt tagjai részvételének feltételeit egy másik állam területén folytatott nyomozati tevékenységekben az érintett államok által kijelölt, a bűncselekmények üldözéséért vagy nyomozásáért felelős illetékes hatóságok megegyezéssel állapítják meg.
-
-3. Az érintett államok által kijelölt illetékes hatóságok közvetlenül érintkeznek egymással a csoport létrehozása és működtetése érdekében, kivéve azokat az eseteket, ahol az ügy kivételes összetettsége, kiterjedtsége vagy más körülmény miatt néhány vagy valamennyi szempontból központosított egyeztetésre van szükség; ilyenkor az államok ennek érdekében egyéb megfelelő érintkezési módban állapodhatnak meg.
-
-4. Amennyiben a közös nyomozó csoportnak a csoportot létrehozó valamely állam területén nyomozati cselekményeket kell végeznie, a csoport ezen államból delegált tagja kérheti saját illetékes hatóságait az említett intézkedések megtételére anélkül, hogy a másik államnak kölcsönös jogsegély iránti kérelmet kellene előterjesztenie. Az adott államban a kért intézkedés ugyanazon jogi keretek betartása mellett végezhető el, mint amelyek betartása az állam hazai nyomozati intézkedéseinek elvégzéséhez szükséges.
-
-17/C. Cikk
-
-Videokonferencia
-
-1. A Magyar Köztársaság és az Amerikai Egyesült Államok között a videoátviteli technológia alkalmazása igénybe vehető vallomás felvételéhez olyan eljárásokban, amelyekben a megkeresett államban tartózkodó tanú vagy szakértő meghallgatásához kölcsönös jogsegélyt lehet igénybe venni. Az ilyen eljárásra vonatkozó szabályokat – amennyiben ez a cikk eltérően nem rendelkezik – a jelen szerződés egyéb rendelkezései határozzák meg.
-
-2. A megkereső és megkeresett állam konzultációt folytathat a megkeresés teljesítése során esetleg felmerülő jogi, műszaki vagy logisztikai kérdések megoldásának elősegítése érdekében.
-
-3. A megkereső állam jogszabályai szerinti bármely joghatóság sérelme nélkül, a tanú vagy szakértő részéről a videokonferencia során tett, szándékosan hamis nyilatkozat vagy egyéb meg nem engedett magatartás a megkeresett államban ugyanolyan módon büntetendő, mintha azt a hazai eljárás során követték volna el.
-
-4. E cikk nem zárja ki a megkeresett államban a tanúvallomások beszerzésére e szerződés egyéb cikkei alapján rendelkezésre álló egyéb eszközök használatát.
-
-5. A megkeresett állam engedélyezheti a videokonferencia-technológiának a jelen cikk 1. bekezdésében foglalt céloktól eltérő alkalmazását, beleértve személyek vagy tárgyak azonosítását, vagy nyomozati szakaszban nyilatkozatok felvételét.
-
 18. Cikk
 
 Egyéb szerződésekhez, egyezményekhez és megállapodásokhoz való viszony
@@ -390,11 +286,11 @@ d) ha e dokumentumok bármelyike nem eredeti példány, akkor az eredetinek más
 
 (Aláírás) (Dátum)
 
-Előttem esküvel megerősítve/vagy megerősítve, (név), (igazságügyi tisztviselő), az 19...... év ........................... hónapjának ...... napján.
+Előttem esküvel megerősítve/vagy megerősítve, (név), (igazságügyi tisztviselő), az 19…… év ……………………… hónapjának …… napján.
 
 B) Minta
 
-Lefoglalt dolgok tanúsítványa
+Lefoglalt dolgok tansútványa
 
 Én, (név) a valótlan tényállítás és a hamis tanúzás büntetőjogi következményeinek tudatában kijelentem, hogy (ország) Kormányának alkalmazásában beosztásom (beosztás). Az alább felsorolt dolgok (név)-től, (hely)-n, (dátum) napján kerültek megőrzésembe. Az itt felsorolt dolgokat ugyanolyan állapotban adtam át (név) megőrzésébe (hely)-n, (dátum) napján, ahogyan azokat én átvettem (ha eltérő állapotban, lásd alább).
 
@@ -410,6 +306,6 @@ Beosztás
 
 Hely
 
-Dátum”
+Dátum''
 
 3. § Ez a törvény a kihirdetését követő 8. napon lép hatályba, de rendelkezéseit 1997. március 18. napjától kell alkalmazni.

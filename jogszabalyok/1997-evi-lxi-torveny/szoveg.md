@@ -8,7 +8,7 @@ a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya k
 
 2. § A szerződés hiteles magyar nyelvű szövege a következő:
 
-„Szerződésa Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a kiadatásról
+,,Szerződésa Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a kiadatásról
 
 A Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya
 
@@ -34,9 +34,9 @@ Kiadatási bűncselekmények
 
 1. A bűncselekmény kiadatási bűncselekmény, ha mindkét Szerződő Fél joga szerint egy évet meghaladó szabadságvesztéssel vagy ennél súlyosabb büntetéssel büntetendő.
 
-2. A bűncselekmény akkor is kiadatási bűncselekmény, ha az a jelen cikk 1. bekezdése alá tartozó bűncselekmény elkövetésének kísérletében vagy elkövetésében való részességben áll. A jelen cikk 1. bekezdése alá tartozó bűncselekmény elkövetése céljából létesülő bármifajta bűnszövetség – annak a magyar jog által adott meghatározása szerint –, illetőleg összeesküvés – annak az Egyesült Államok joga által adott meghatározása szerint – ugyancsak kiadatási bűncselekmény.
+2. A bűncselekmény akkor is kiadatási bűncselekmény, ha az a jelen Cikk 1. bekezdése alá tartozó bűncselekmény elkövetésének kísérletében vagy elkövetésében való részességben áll. A jelen Cikk 1. bekezdése alá tartozó bűncselekmény elkövetése céljából létesülő bármifajta bűnszövetség – annak a magyar jog által adott meghatározása szerint –, illetőleg összeesküvés – annak az Egyesült Államok joga által adott meghatározása szerint – ugyancsak kiadatási bűncselekmény.
 
-3. A jelen cikk alkalmazása szempontjából a bűncselekmény kiadatási bűncselekménynek minősül:
+3. A jelen Cikk alkalmazása szempontjából a bűncselekmény kiadatási bűncselekménynek minősül:
 
 a) tekintet nélkül arra, hogy a bűncselekményt a Szerződő Felek a bűncselekmények ugyanazon kategóriájába sorolják-e, vagy a bűncselekményt ugyanazon elnevezéssel illetik-e;
 
@@ -74,7 +74,7 @@ e) az emberi élet veszélyeztetésére, súlyos testi sérülés vagy jelentős
 
 f) a fenti bűncselekmények elkövetésére létesült, a 2. Cikk 2. bekezdése szerinti összeesküvés vagy bármifajta bűnszövetség, illetve az e bűncselekményekre irányuló kísérlet vagy elkövetésükben való részvétel.
 
-3. A kiadatás a jelen cikk 2. bekezdésének rendelkezéseiben foglaltak ellenére sem engedélyezhető, ha a megkeresett állam végrehajtó hatósága úgy ítéli meg, hogy a kérelmet politikai megfontolások motiválták.
+3. A kiadatás a jelen Cikk 2. bekezdésének rendelkezéseiben foglaltak ellenére sem engedélyezhető, ha a megkeresett állam végrehajtó hatósága úgy ítéli meg, hogy a kérelmet politikai megfontolások motiválták.
 
 4. A megkeresett állam végrehajtó hatósága megtagadhatja a kiadatást olyan katonai bűncselekmények miatt, amelyek nem minősülnek köztörvényes bűncselekménynek.
 
@@ -98,13 +98,13 @@ Halálbüntetés
 
 1. Ha a kiadatási kérelem alapjául szolgáló bűncselekmény a megkereső állam joga szerint halálbüntetéssel büntethető, a megkeresett állam törvényei szerint azonban nem büntethető halálbüntetéssel, a megkeresett állam megtagadhatja a kiadatást, hacsak a megkereső állam nem nyújt biztosítékokat arra, hogy a halálbüntetést nem szabják ki, vagy ha kiszabják, azt nem hajtják végre.
 
-2. Azokban az esetekben, amikor a megkereső állam a jelen cikknek megfelelően biztosítékot nyújt, a halálbüntetés, amennyiben azt kiszabják, nem hajtható végre.
+2. Azokban az esetekben, amikor a megkereső állam a jelen Cikknek megfelelően biztosítékot nyújt, a halálbüntetés, amennyiben azt kiszabják, nem hajtható végre.
 
 8. Cikk
 
 Kiadatási eljárás és a szükséges okiratok
 
-1. A kiadatási kérelmeket és a mellékelt okiratokat diplomáciai úton kell továbbítani. Ha a kiadni kért személy a megkeresett államban ideiglenes letartóztatásban van, a megkereső állam a kiadatási kérelem és a mellékelt okiratok diplomáciai úton történő továbbítására vonatkozó kötelezettségét úgy is teljesítheti, hogy a kérelmet és az okiratokat a megkeresett államnak a megkereső államban működő nagykövetségére nyújtja be. Ebben az esetben a személy folyamatos fogva tartásának lehetővé tétele érdekében a jelen szerződés 11. cikke szerint teljesítendő határidő teljesítése céljából a kérelemnek a nagykövetséghez való megérkezése időpontját kell a megkeresett államhoz való megérkezés időpontjának tekinteni.
+1. Minden kiadatási kérelmet diplomáciai úton kell előterjeszteni.
 
 2. A kiadatási kérelemhez mellékelni kell:
 
@@ -140,13 +140,11 @@ d) abban az esetben, ha az érintett személyt távollétében találták bűnö
 
 Az okiratok elfogadhatósága
 
-Azokat az okiratokat, amelyek a megkereső állam igazságügyi minisztériumának vagy külügyminisztériumának bélyegzőjét vagy pecsétjét viselik, a megkeresett államban a kiadatási eljárás során további igazolás, felülhitelesítés vagy más hitelesítés nélkül el kell fogadni. A Magyar Köztársaság esetében az »igazságügyi minisztérium« a Magyar Köztársaság Igazságügyi Minisztériumát, az Amerikai Egyesült Államok esetében pedig a »US Department of Justice«-t jelenti.
+A kiadatási kérelmet kísérő okiratokat a kiadatási eljárás során bizonyítékként kell elismerni és elfogadni, ha
 
-9/A. Cikk
+a) azokat a megkeresett állam vezető diplomáciai vagy konzuli tisztviselője hitelesítette; vagy
 
-A megkeresésben szereplő bizalmas adatok
-
-Amennyiben a megkereső állam különösen bizalmas adat átadását mérlegeli a kiadatási kérelme alátámasztására, egyeztethet a megkeresett állammal annak meghatározására, hogy az adat védelmét a megkeresett állam milyen mértékben tudja biztosítani. Amennyiben a megkeresett állam az adat védelmét nem tudja a megkereső állam által megkívánt módon biztosítani, a megkereső állam dönt arról, hogy az adatot ebben az esetben is átadja-e.
+b) azokat a megkeresett állam joga által elfogadott bármely egyéb módon hitelesítették vagy hitelesnek ismerték el.
 
 10. Cikk
 
@@ -178,15 +176,13 @@ f) nyilatkozatot arról, hogy az érintett személlyel szemben a kiadatási kér
 
 4. Az ideiglenesen letartóztatott személy a letartóztatásba helyezése napjától számított hatvan (60) nap elteltével szabadlábra helyezhető, ha a megkeresett állam végrehajtó hatóságához a szabályszerű kiadatási kérelem és annak a 8. Cikkben megkövetelt mellékletei nem érkeztek meg.
 
-5. Az, hogy a kiadni kért személy a jelen cikk 4. bekezdése alapján szabadlábra került, nem akadálya ezt követően újbóli letartóztatásának és kiadatásának, ha a kiadatási kérelmet és a szükséges mellékleteit utóbb megküldik.
+5. Az, hogy a kiadni kért személy a jelen Cikk 4. bekezdése alapján szabadlábra került, nem akadálya ezt követően újbóli letartóztatásának és kiadatásának, ha a kiadatási kérelmet és a szükséges mellékleteit utóbb megküldik.
 
 12. Cikk
 
 Kiegészítő adatok
 
 1. Ha a megkeresett állam úgy látja, hogy a kiadatási kérelmet kísérő okiratokban rendelkezésre bocsátott adatok nem elégségesek ahhoz, hogy a jelen szerződésben megszabott követelményeket kielégítsék, ezen állam kérheti további adatoknak az általa megszabott ésszerű határidőn belül történő közlését.
-
-1a. Az ilyen kiegészítő adatok közvetlenül a Magyar Köztársaság Igazságügyi Minisztériuma és az Egyesült Államok Igazságügyi Minisztériuma között kérhetők és küldhetők meg.
 
 2. Ha a kiadni kért személy letartóztatásban van, és a kiegészítő adatok sem elegendőek, vagy azok nem érkeztek meg a kitűzött határidőn belül, a kiadni kért személy szabadlábra helyezhető. A letartóztatás megszüntetése nem akadálya annak, hogy a megkereső állam egy másik kiadatási kérelmet terjesszen elő ugyanazon vagy más bűncselekménnyel kapcsolatosan.
 
@@ -214,33 +210,29 @@ Elhalasztott és ideiglenes átadás
 
 15. Cikk
 
-Több állam által előterjesztett kiadatási vagy átadási kérelem
+Több állam által előterjesztett kiadatási kérelmek
 
-1. Amennyiben a megkeresett államhoz ugyanazon személy kiadatása iránt a megkereső államtól, valamint bármely más államtól vagy államoktól is érkezik kérelem akár ugyanazon bűncselekmény, akár különböző bűncselekmények miatt, a megkeresett állam végrehajtó hatósága határozza meg, hogy átadja-e a személyt valamely megkereső államnak.
+Ha a megkeresett államhoz ugyanazon bűncselekmény vagy különböző bűncselekmények miatt ugyanazon személy kiadatása iránt több kérelem érkezik a másik Szerződő Felen kívül bármely más államtól vagy államoktól, a megkeresett állam végrehajtó hatósága határozza meg, hogy e személyt melyik államnak adja ki. Döntése során a megkeresett állam figyelembe veszi az összes körülményeket, így többek között
 
-2. Ha a Magyar Köztársasághoz ugyanazon személy vonatkozásában az európai elfogatóparancs szerinti átadási kérelem és az Amerikai Egyesült Államokból kiadatási kérelem érkezik akár ugyanazon bűncselekmény, akár különböző bűncselekmények miatt, a végrehajtó hatóság határozza meg, hogy átadja-e a személyt valamely megkereső államnak.
+a) azt, hogy a kiadatási kérelmet szerződés alapján terjesztették-e elő
 
-3. A megkeresett állam a jelen cikk 1. és 2. bekezdése szerinti határozatainak meghozatala során figyelembe veszi az összes körülményt, így többek között:
+b) a bűncselekmény elkövetésének helyét,
 
-a) azt, hogy a kérelmeket szerződés alapján terjesztették-e elő;
+c) az egyes megkereső államok érdekeit,
 
-b) az egyes bűncselekmények elkövetésének helyét;
+d) a bűncselekmény súlyát,
 
-c) az egyes megkereső államok érdekeit;
+e) a sértett állampolgárságát,
 
-d) a bűncselekmények súlyát;
+f) a további kiadatás lehetőségét a megkereső államok között,
 
-e) a sértett állampolgárságát;
-
-f) a megkereső államok közötti további kiadatás lehetőségét; és
-
-g) a megkereső államoktól érkezett kérelmek időrendi sorrendjét.
+g) a megkereső államoktól érkezett kiadatási kérelmek időrendi sorrendjét.
 
 16. Cikk
 
 Dolgok lefoglalása és átadása
 
-1. A megkeresett állam a joga által megengedett keretek között lefoglalhat és átadhat minden olyan tárgyat, okiratot és bizonyítékot, amelyek azzal a bűncselekménnyel kapcsolatosak, amelyre vonatkozóan a kiadatást engedélyezték. A jelen cikkben említett dolgok még akkor is átadhatók, ha a kiadatást a kiadni kért személy halála, eltűnése vagy szökése miatt nem lehet foganatosítani.
+1. A megkeresett állam a joga által megengedett keretek között lefoglalhat és átadhat minden olyan tárgyat, okiratot és bizonyítékot, amelyek azzal a bűncselekménnyel kapcsolatosak, amelyre vonatkozóan a kiadatást engedélyezték. A jelen Cikkben említett dolgok még akkor is átadhatók, ha a kiadatást a kiadni kért személy halála, eltűnése vagy szökése miatt nem lehet foganatosítani.
 
 2. A megkeresett állam a dolog átadását annak feltételéhez kötheti, hogy a megkereső állam megfelelő biztosítékot nyújt a dolognak a megkeresett állam számára alkalmas legrövidebb időn belül történő visszaküldésére. A megkeresett állam az ilyen dolog átadását el is halaszthatja, ha arra bizonyítékként a megkeresett államban szükség van.
 
@@ -264,7 +256,7 @@ c) olyan bűncselekmény miatt, amellyel kapcsolatban a megkeresett állam végr
 
 2. A jelen szerződés alapján valamelyik Szerződő Fél által kiadott személy nem adható ki az átadása előtt elkövetett bűncselekmény miatt harmadik államnak, kivéve, ha ehhez az átadó állam hozzájárul.
 
-3. A jelen cikk 1. és 2. bekezdése nem akadálya a kiadott személy szabadságától való megfosztásának, ellene bírósági eljárás lefolytatásának, vagy a büntetés kiszabásának, vagy e személy harmadik állam számára történő kiadatásának, ha
+3. A jelen Cikk 1. és 2. bekezdése nem akadálya a kiadott személy szabadságától való megfosztásának, ellene bírósági eljárás lefolytatásának, vagy a büntetés kiszabásának, vagy e személy harmadik állam számára történő kiadatásának, ha
 
 a) e személy a kiadatást követően elhagyja a megkereső állam területét és oda utóbb önként visszatér; vagy
 
@@ -320,6 +312,6 @@ Megerősítés, hatálybalépés és megszűnés
 
 A fentiek hiteléül a kormányaik által kellően felhatalmazott alulírottak a jelen szerződést aláírták.
 
-Készült két példányban, Budapesten, az 1994. év december hónapjának 1. napján, magyar és angol nyelven, mindkét szöveg egyaránt hiteles.”
+Készült két példányban, Budapesten, az 1994. év december hónapjának 1. napján, magyar és angol nyelven, mindkét szöveg egyaránt hiteles.''
 
 3. § Ez a törvény a kihirdetését követő 8. napon lép hatályba, de rendelkezéseit 1997. március 18. napjától kell alkalmazni.
