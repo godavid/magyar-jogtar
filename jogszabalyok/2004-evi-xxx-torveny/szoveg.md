@@ -8,7 +8,7 @@ a Belga Királyság, a Dán Királyság, a Németországi Szövetségi Köztárs
 
 a Cseh Köztársaságnak, az Észt Köztársaságnak, a Ciprusi Köztársaságnak,a Lett Köztársaságnak, a Litván Köztársaságnak, a Magyar Köztársaságnak,a Máltai Köztársaságnak, a Lengyel Köztársaságnak, a Szlovén Köztársaságnakés a Szlovák Köztársaságnak az Európai Unióhoz történő csatlakozásáról szólószerződés kihirdetéséről
 
-Az Országgyűlésmegemlékezve arról, hogy az európai uniós tagság a rendszerváltozás egyik alapvető céljának megvalósítása és négy, szabadon választott országgyűlés egybeeső törekvése;felidézve a magyar nép áldozatos munkáját, amely lehetővé tette, hogy hazánk részesévé váljon az európai építkezésnek;emlékeztetve a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozására irányuló tárgyalásokra és annak eredményére;figyelemmel arra, hogy az ország lakossága ügydöntő népszavazással döntött hazánk Európai Unióhoz történő csatlakozása mellett;
+Az Országgyűlésmegemlékezve arról, hogy az európai uniós tagság a rendszerváltozás egyik alapvető céljának megvalósítása és négy, szabadon választott országgyűlés egybeeső törekvése;felidézve a magyar nép áldozatos munkáját, amely lehetővé tette, hogy hazánk részesévé váljon az európai építkezésnek;emlékeztetve a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozására irányuló tárgyalásokra és annak eredményére;figyelemmel arra, hogy az ország lakossága ügydöntő népszavazással döntött hazánk Európai Unióhoz történő csatlakozása mellett;összhangban az Alkotmány 2/A. §-ának (2) bekezdésével
 
 a következő törvényt alkotja:
 
