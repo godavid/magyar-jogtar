@@ -10,8 +10,6 @@ A magyar munkavállalók, szövetkezeti tagok, valamint a családtagjaik és a n
 
 2. § Az Üdülési és Szanatóriumi Főigazgatóság üdültetési és egyéb feladatait az ezzel kapcsolatos jogokkal és kötelezettségekkel együtt — általános jogutódként — az Alapítvány veszi át.
 
-2/A. §
-
 3. § (1) Ez a törvény — 2. §-a kivételével — a kihirdetését követő 5. napon lép hatályba.
 
 (2) A törvény 2. §-ában foglalt rendelkezés a kihirdetést követő 90. napon lép hatályba, ezzel egyidejűleg az Üdülési és Szanatóriumi Főigazgatóság megszűnik.
