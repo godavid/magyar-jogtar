@@ -144,7 +144,7 @@ fordítható.''
 
 27. § (1) Ez a törvény a kihirdetését követő 8. napon lép hatályba, ezzel egyidejűleg, a KT. 4. §-a (1) bekezdésében és a (2) bekezdésének bevezető szövegében a ,,9974'' szövegrész helyébe ,,9892'' szövegrész lép, a KT. 4. §-a (2) bekezdésének b) pontjában a ,,3900'' szövegrész helyébe a ,,3818'' a ,,1995'' szövegrész helyébe az ,,1795'' szövegrész lép, a ,,1905'' szövegrész helyébe a ,,2023'' szövegrész lép, a KT. 9. §-a (2) bekezdésében és a (2) bekezdésének bevezető szövegében a ,,13 900'' szövegrész helyébe ,,14 000'' szövegrész lép, a KT. 9. §-a (2) bekezdésének a) pontjában a ,,9456'' szövegrész helyébe a ,,9355'' szövegrész lép, a KT. 9. §-a (2) bekezdésének b) pontjában a ,,800'' szövegrész helyébe az ,,2346'' szövegrész lép, és hatályát veszti a KT. 3. §-a (9) bekezdése és 8. §-a (14) bekezdése, a KT. 3. § (5) bekezdése, valamint a 8. § (13) bekezdése ,,az f) pont tekintetében az előirányzat a tényleges kiadás mértékéig használható fel'' szövegrésszel egészül ki.
 
-(2)
+(2) E törvény hatálybalépésével egyidejűleg az AT. 4. §-a (3) bekezdésének a) pontjában a ,,továbbá a gyermeknevelési támogatás'' szövegrész helyébe a ,,továbbá a gyermekgondozási segély, a gyermeknevelési támogatás'' szövegrész lép. Ezt a rendelkezést valamennyi, a gyermekgondozási segély utáni 6%-os nyugdíjjárulék befizetés címén 1996-ban elszámolt összegre alkalmazni kell.
 
 (3) E törvény hatálybalépésével egyidejűleg hatályát veszti az Egészségbiztosítási Alapból gyógyító-megelőző ellátásokra fordítható kiadások átmeneti szabályozásáról szóló 1996. évi XC. törvény.
 
