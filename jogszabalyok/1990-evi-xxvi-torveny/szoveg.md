@@ -18,11 +18,11 @@ Az Országgyűlés fájdalommal emlékezik meg arról, hogy a második világhá
 - d) a társadalmi tulajdont károsító bűncselekmény feljelentésének elmulasztásán a társadalmi tulajdon büntetőjogi védelméről szóló 1950. évi 24. törvényerejű rendelet 7. §-ában, a BHÖ 234. pontjában, valamint a Btk 308. §-ában;
 - e) háborús és népellenes bűncselekményen a népbíráskodásról szóló 81/1945. (II. 5.) ME rendelet 11., 13. és 15. §-ában, valamint a BHÖ 82., 84. és 86. pontjában meghatározott bűncselekményeket kell érteni.
 
-3. § Az ügyészség, az elítélt, a védő, az elítélt hozzátartozója [Büntető Törvénykönyvről szóló 2012. évi C. törvény 459. § (1) bekezdés 14. pont], illetve az elítélt halála után oldalági rokona kérelmére az első fokon eljárt bíróság igazolja, hogy az elítélést az 1. § alapján semmisnek kell tekinteni. Az eljárásra — az e törvényben szabályozott eltéréssel — a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 672–673. §-ában meghatározott szabályok az irányadók.
+3. § Az elítélt vagy a hozzátartozója (1978. évi IV. törvény 137. § 5. pontja) kérelmére az első fokon eljárt bíróság igazolja, hogy az elítélést az 1. § alapján semmisnek kell tekinteni. Az eljárásra — az e törvényben szabályozott eltéréssel — a különleges eljárásoknak a büntető eljárásról szóló 1973. évi I. törvény (Be) 356. §-ában meghatározott általános szabályai az irányadók.
 
-4. § (1) Ha a bíróság az igazolást megtagadja, a határozat ellen a kérelmező fellebbezéssel élhet. A fellebbezésre a Be. 579. § (3) bekezdését és 614. §-át kell alkalmazni.
+4. § (1) Ha a bíróság az igazolást megtagadja, a határozat ellen a kérelmező fellebbezéssel élhet. A fellebbezésre a Be-nek a végzés elleni fellebbezés elintézésére vonatkozó szabályait (X. fejezet III. cím) kell alkalmazni.
 
-(2) A Kúriának az igazolást megtagadó határozata ellen fellebbezésnek nincs helye.
+(2) A Legfelsőbb Bíróságnak az igazolást megtagadó határozata ellen fellebbezésnek nincs helye.
 
 5. § Ez a törvény nem alkalmazható az 1989. évi XXXVI. törvény hatálya alá eső elítélésekre.
 
