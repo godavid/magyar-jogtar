@@ -283,4 +283,4 @@ A díjazások eredménye
 |  |  | 1 2 3 … … … |  |  |  |  |  |  |  | 1 2 3 … … … |  |  |  |  |  |  |
 | * A borjazást követő 6. naptól kezdődően. Az ellenőrzés gyakorisága .............. nap. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-3. § Ez a törvény kihirdetése napján, azonban az 1. §-ban említett Egyezmény életbelépésétől kezdődő hatállyal lép életbe. Végrehajtásáról az agrárpolitikáért felelős miniszter gondoskodik.
+3. § Ez a törvény kihirdetése napján, azonban az 1. §-ban említett Egyezmény életbelépésétől kezdődő hatállyal lép életbe. Végrehajtásáról a földmívelésügyi miniszter gondoskodik.
