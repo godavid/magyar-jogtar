@@ -10,7 +10,7 @@ Az Országgyűlés a helyi önkormányzatok címzett és céltámogatási rendsz
 
 3. § A Cct. 3. §-ának (7) bekezdése alapján – törvényi változásból eredően a támogatásban részesülő beruházással ellátandó feladat jelentős változása miatt – a folyamatban lévő beruházásokkal kapcsolatos eredeti döntések igényeinek megnevezése a 3. számú melléklet szerint módosul.
 
-4. § A Cct. 19. § (3) bekezdése alapján Vilonya önkormányzata a Kormánynak a helyi önkormányzatok 1993. évi új, induló céltámogatásáról szóló közleménye 1/b. melléklet 514. sorszámán jóváhagyott céltámogatással megvalósult általános iskolai tantermek kihasználtságának növelése érdekében az eredeti beruházási cél óvodai nevelés, iskolai előkészítő feladattal bővül.
+4. § A Cct. 19. § (3) bekezdése alapján Vilonya önkormányzata a Magyar Köztársaság Kormányának a helyi önkormányzatok 1993. évi új, induló céltámogatásáról szóló közleménye 1/b. melléklet 514. sorszámán jóváhagyott céltámogatással megvalósult általános iskolai tantermek kihasználtságának növelése érdekében az eredeti beruházási cél óvodai nevelés, iskolai előkészítő feladattal bővül.
 
 5. § Ez a törvény a kihirdetését követő 3. napon lép hatályba.
 
