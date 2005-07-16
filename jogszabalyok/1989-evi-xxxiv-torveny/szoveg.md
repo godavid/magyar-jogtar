@@ -24,7 +24,7 @@ az országgyűlési képviselők választásáról
 
 ### II. Fejezet — A jelölés
 
-5. § (1) Az egyéni választókerületben a választópolgárok és azok az egyesületek, amelyek megfelelnek a pártok működéséről és gazdálkodásáról szóló törvény rendelkezéseinek (a továbbiakban: párt) — a (2) bekezdésben foglalt feltételekkel — jelölhetnek. Két vagy több párt közösen is ajánlhat és jelölhet.
+5. § (1) Az egyéni választókerületben a választópolgárok és azok a társadalmi szervezetek, amelyek megfelelnek a pártok működéséről és gazdálkodásáról szóló törvény rendelkezéseinek (a továbbiakban: párt) — a (2) bekezdésben foglalt feltételekkel — jelölhetnek. Két vagy több párt közösen is ajánlhat és jelölhet.
 
 (2) Az egyéni választókerületben a jelöléshez legalább hétszázötven választópolgárnak az aláírásával hitelesített ajánlása szükséges. A választópolgár csak egy egyéni választókerületi jelöltet ajánlhat és csak abban az egyéni választókerületben, amelyben a lakóhelye van.
 
@@ -51,12 +51,12 @@ az országgyűlési képviselők választásáról
 (2) Ha az első választási fordulóban nem szavazott a választókerület választópolgárainak több mint a fele, (a továbbiakban: érvénytelen választási forduló) a második választási fordulóban
 
 - a) mindazok a jelöltek indulhatnak, akik az első fordulóban indultak;
-- b) képviselő az a jelölt lesz, aki a legtöbb érvényes szavazatot kapta.
+- b) képviselő az a jelölt lesz, aki a legtöbb érvényes szavazatot kapta, feltéve, hogy a szavazáson a választókerület választópolgárainak több mint az egynegyede szavazott.
 
 (3) Ha az első választási fordulóban a választókerület választópolgárainak több mint a fele szavazott ugyan, de egy jelölt sem kapta meg az érvényes szavazatoknak több mint a felét, (a továbbiakban: eredménytelen választási forduló) a második választási fordulóban
 
 - a) azok a jelöltek indulhatnak, akik az első fordulóban az érvényes szavazatoknak legalább tizenöt százalékát megkapták; ha nincs legalább három ilyen jelölt, akkor az első fordulóban a legtöbb szavazatot elért három jelölt; ha a jelöltek közül bármelyikük időközben visszalép, helyébe másik jelölt nem léphet;
-- b) képviselő az a jelölt lesz, aki a legtöbb érvényes szavazatot kapta.
+- b) képviselő az a jelölt lesz, aki a legtöbb érvényes szavazatot kapta, feltéve, hogy a szavazáson a választókerület választópolgárainak több mint az egynegyede szavazott.
 
 (4)
 
@@ -64,7 +64,7 @@ az országgyűlési képviselők választásáról
 
 8. § (1) A területi választókerületben a pártok listáinak jelöltjei a leadott szavazatok arányában — e törvény mellékletében írt számítási mód alapján — a szavazólapon szereplő sorrendben jutnak mandátumhoz, feltéve, ha a választópolgároknak több mint a fele szavazott. A választópolgár egy listára szavazhat.
 
-(2) Ha a területi választókerületben az első választási forduló érvénytelen, mert azon a választópolgároknak több mint a fele nem vett részt, a második választási fordulóban mindazon pártlisták indíthatók, amelyek az első fordulóban indultak. A pártlisták jelöltjei a leadott szavazatok arányában — e törvény mellékletében írt számítási mód alapján — jutnak mandátumhoz.
+(2) Ha a területi választókerületben az első választási forduló érvénytelen, mert azon a választópolgároknak több mint a fele nem vett részt, a második választási fordulóban mindazon pártlisták indíthatók, amelyek az első fordulóban indultak. A pártlisták jelöltjei a leadott szavazatok arányában — e törvény mellékletében írt számítási mód alapján — jutnak mandátumhoz feltéve, ha a választópolgároknak több mint az egynegyede szavazott.
 
 (3) Ha az (1)—(2) bekezdés szerinti számítást követően a területi választókerületben betöltetlen mandátum maradna, akkor az a lista is mandátumot szerez, amely az egy mandátum megszerzéséhez szükségesnél egyébként kevesebb, de annak kétharmadánál több szavazatot kapott. Több ilyen lista közül a mandátumot az szerzi meg, amely sorrendben a legtöbb szavazatot kapta. Ha a számítás elvégzése után üres mandátum marad, akkor ezzel a mandátummal az országos listán megszerezhető mandátumok száma növekszik.
 
@@ -84,7 +84,7 @@ az országgyűlési képviselők választásáról
 
 (9) Ha a területi választókerületben a választáson egyetlen pártlistát sem indítottak, a területi választókerületre eső mandátumok felkerülnek az országos listára, és a töredékszavazatok alapján kerülnek kiosztásra.
 
-(10)
+(10) Ha a területi választókerületben a második választási forduló érvénytelen volt, mert a választópolgárok egynegyede sem szavazott, akkor az első választási fordulóban leadott szavazatokat töredékszavazatnak kell tekinteni, és a betöltetlen területi választókerületi mandátumok az országos listán kerülnek kiosztásra.
 
 9. § (1) Az országos listákon a jelöltek az országosan összesített töredékszavazatok arányában, a bejelentés sorrendjében jutnak mandátumhoz. Töredékszavazatnak minősülnek:
 
@@ -103,7 +103,7 @@ az országgyűlési képviselők választásáról
 
 (4) A kapcsolt területi lista töredékszavazatai felkerülnek arra a kapcsolt országos listára, amely kapcsolásban a területi listát kapcsoló pártok országos listái vesznek részt.
 
-(5) Nem minősülnek az (1) bekezdés szerinti töredékszavazatnak és ezért az országos listán történő mandátumszerzés szempontjából nem vehetők figyelembe az érvénytelen választási fordulóban leadott szavazatok. Nem számolhatók el töredékszavazatként az olyan területi listára, illetőleg listakapcsolásnak vagy közös listának arra a tagjára leadott szavazatok, amely a 8. § (5) bekezdése alapján nem kaphat mandátumot.
+(5) Nem minősülnek az (1) bekezdés szerinti töredékszavazatnak és ezért az országos listán történő mandátumszerzés szempontjából nem vehetők figyelembe – a 8. § (10) bekezdésében foglaltak kivételével – az érvénytelen választási fordulóban leadott szavazatok. Nem számolhatók el töredékszavazatként az olyan területi listára, illetőleg listakapcsolásnak vagy közös listának arra a tagjára leadott szavazatok, amely a 8. § (5) bekezdése alapján nem kaphat mandátumot.
 
 (6) Azok a pártok, amelyek országos listáikat kapcsolják, a kapcsolásban részt vevő listákra jutó töredékszavazatok összesített számának arányában szereznek mandátumot.
 
@@ -113,7 +113,7 @@ az országgyűlési képviselők választásáról
 
 ### XI. Fejezet — Időközi választás
 
-46. § (1) Az egyéni választókerületben, ha a választás második fordulója eredménytelen, vagy ha egyéni választókerületi képviselői megbízatás megszűnt, időközi választást kell tartani.
+46. § (1) Az egyéni választókerületben, ha a választás második fordulója is érvénytelen, illetőleg, ha egyéni választókerületi képviselői megbízatás megszűnt, időközi választást kell tartani.
 
 (2)
 
@@ -128,7 +128,7 @@ az országgyűlési képviselők választásáról
 
 ### XII. Fejezet — Záró rendelkezések
 
-47. § E törvénynek az egyes választási törvények módosításáról szóló 2011. évi XCVIII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépésének napját megelőzően kitűzött időközi választások tekintetében nem kell alkalmazni.
+#### 47. §
 
 #### 48. §
 
@@ -136,7 +136,7 @@ az országgyűlési képviselők választásáról
 
 50. § (1)
 
-(2)
+(2) Felhatalmazást kap a Kormány arra, hogy az egyéni és a területi választókerületek sorszámát, székhelyét és területét megállapítsa.
 
 #### 51. §
 
@@ -226,11 +226,15 @@ a) Érvényes első választási forduló
 
 b) Érvénytelen első választási forduló
 
-Érvénytelen az első választási forduló, ha a szavazáson a választásra jogosultak fele vagy ennél kevesebb választópolgár szavazott.
+Érvénytelen az első választási forduló, ha a szavazáson a választásra jogosultak fele, vagy ennél kevesebb választópolgár szavazott.
 
 c) Érvényes második választási forduló
 
-Az érvénytelen vagy az eredménytelen első választási fordulót [1/b) és 2/b) pont] követő második forduló érvényes.
+Az érvénytelen vagy az eredménytelen első választási fordulót [1/b) és 2/b) pont] követő második forduló akkor érvényes, ha a szavazáson részt vett a választópolgároknak több mint az egynegyede.
+
+d) Érvénytelen második választási forduló
+
+Érvénytelen vagy eredménytelen első választási fordulót [1/b) és 2/b) pont] követő második választási forduló érvénytelen, ha a szavazáson nem vett részt a választópolgároknak több mint az egynegyede.
 
 2. Eredményes és eredménytelen választási forduló:
 
@@ -244,13 +248,13 @@ Eredménytelen az az első érvényes választási forduló [1/a) pont], amelyen
 
 c) Eredményes második választási forduló
 
-Eredményes az az érvényes [1/a) pont] vagy az érvénytelen [1/b) pont] első választási fordulót követő második választási forduló, amelyen a jelöltek eltérő számú szavazatot kaptak.
+Eredményes az az érvényes [1/a) pont] vagy az érvénytelen [1/b) pont] első választási fordulót követő második érvényes választási forduló, amelyen a jelöltek eltérő számú szavazatot kaptak.
 
 d) Eredménytelen második választási forduló
 
-Eredménytelen az a második választási forduló, amelyen a jelöltek azonos számú szavazatot kaptak.
+Eredménytelen az az érvényes [1/c) pont] második választási forduló, amelyen a jelöltek azonos számú szavazatot kaptak.
 
-Egyéni választókerületben országgyűlési képviselő az a jelölt lesz, aki az első érvényes választási fordulóban megkapta a 2/a) pont szerinti szavazatszámot, vagy a második választási fordulóban a 2/c) pontban foglaltakra figyelemmel a legtöbb érvényes szavazatot kapta.
+Egyéni választókerületben országgyűlési képviselő az a jelölt lesz, aki az érvényes választási fordulóban megkapta a 2/a) pont vagy 2/c) pont szerinti szavazatszámot.
 
 II. Területi választókerület
 
@@ -262,11 +266,15 @@ a) Érvényes választási forduló
 
 b) Érvénytelen választási forduló
 
-Érvénytelen az első választási forduló, ha a szavazáson a választásra jogosultak fele vagy annál kevesebb választópolgár szavazott.
+Érvénytelen az első választási forduló, ha a szavazáson a választásra jogosultak fele, vagy annál kevesebb választópolgár szavazott.
 
 c) Érvényes második választási forduló
 
-Érvényes az érvénytelen első fordulót [1/b) pont] követő második választási forduló.
+Érvényes az az első érvénytelen fordulót [1/b) pont] követő második választási forduló, amelyen a választásra jogosultaknak több mint az egynegyede szavazott.
+
+d) Érvénytelen második választási forduló
+
+Érvénytelen az első érvénytelen választási fordulót [1/b) pont] követő második forduló, amelyen a választójogosultak egynegyede vagy ennél kevesebb szavazott.
 
 2. A területi listás választási eredmény kiszámításának előfeltételei:
 
