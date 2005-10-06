@@ -504,6 +504,6 @@ E bekezdés alkalmazásában az „ameddig csak lehetséges” kifejezés az id�
 
 Úgy értendő, hogy a 2. cikk 2. bekezdésének és a 3. cikk 2. bekezdésének megfelelően kizárt dolgozókat nem veszik figyelembe az érintett dolgozók számának megállapításánál.”
 
-3. § Magyarország vonatkozásában az Országgyűlés döntésének megfelelően a Jegyzőkönyv 5. cikke 1. bekezdésének b) pontjával összhangban a Jegyzőkönyv II. részének kötelező alkalmazása az 1. cikkre, a 2. cikkre és a 3. cikkre terjed ki.
+3. § A Magyar Köztársaság vonatkozásában az Országgyűlés döntésének megfelelően a Jegyzőkönyv 5. cikke 1. bekezdésének b) pontjával összhangban a Jegyzőkönyv II. részének kötelező alkalmazása az 1. cikkre, a 2. cikkre és a 3. cikkre terjed ki.
 
 4. § Ez a törvény a kihirdetését követő 8. napon lép hatályba.
