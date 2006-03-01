@@ -319,7 +319,19 @@ c) három és minden további eltartott esetén 10 000 forint.''
 
 ,,7.9. A Magyar Köztársaság költségvetéséről szóló törvény vagy a társadalombiztosítás pénzügyi alapjainak költségvetéséről szóló törvény alapján az állami költségvetés terhére elengedett vagy átvállalt kötelezettség összege.''
 
-21. §
+### Az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló 1997. évi LXXIV. törvény módosítása
+
+21. § (1) Az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló 1997. évi LXXIV. törvény (a továbbiakban: Alk. tv.) 7. §-a helyébe a következő rendelkezés lép:
+
+7. § ,,(1) A közteherjegy forgalmazója a közteherjegy ellenértékének forgalmazási költséggel csökkentett részét – külön jogszabályban foglaltak szerint – átutalja a Magyar Államkincstár (a továbbiakban: Kincstár) által vezetett KESZ-re. A Kincstár ezen összegből 47%-ot a Nyugdíjbiztosítási Alapnak, 47%-ot az Egészségbiztosítási Alapnak, 6%-ot a Munkaerőpiaci Alapnak utal át.
+
+(2) Ha a munkáltató AM könyvvel munkanélkülit foglalkoztat, a mellékletben meghatározott csökkentett mértékű közteherjegyet kell lerónia. A közteherjegy általános mértéke és a munkáltató által a munkanélküli foglalkoztatására tekintettel lerótt közteherjegy értéke közötti különbözetnek megfelelő összeget – külön jogszabályban foglaltak szerint – a Munkaerőpiaci Alapból át kell utalni a Kincstár által vezetett KESZ-re. A munkáltató részére munkanélküli foglalkoztatására tekintettel ily módon nyújtott támogatás részletes szabályait a foglalkoztatáspolitikai és munkaügyi miniszter rendeletben határozza meg.''
+
+(2) Az Alk. tv. 8. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+8. § ,,(1) Az Szja. és az Art. rendelkezéseinek alkalmazásában a munkavállaló bérjövedelmeként a kifizetett munkadíj sávjához tartozó – a melléklet szerinti – ellátási alapot, befizetett adóelőlegként ezen ellátási alap 0%-át kell figyelembe venni.''
+
+(3) Az Alk. tv. melléklete helyébe e törvény 4. számú melléklete lép.
 
 ### A termőföldről szóló 1994. évi LV. törvény módosítása
 
@@ -481,7 +493,9 @@ Az elnök, az alelnökök, a monetáris tanács és a felügyelő bizottság tag
 
 (6) A felügyelő bizottság további tagjainak tiszteletdíja az MNB elnöke MNB-től származó keresetének 10%-a.''
 
-(7)
+(7) Az MNB törvény 54. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+,,(1) Az MNB alkalmazottai és felügyelő bizottsági tagjai kötelesek a feladatkörük ellátása során tudomásukra jutott államtitkot, banktitkot, értékpapírtitkot és üzleti titkot megőrizni. Ez a kötelezettség a megbízatás megszűnését követően is fennmarad.''
 
 (8) Az MNB törvény 55. §-a helyébe a következő rendelkezés lép:
 
@@ -916,3 +930,29 @@ A tartós állami tulajdonú társasági részesedéssel működő társaságok 
 ''
 
 ### 4. számú melléklet a 2002. évi XXIII. törvényhez
+
+Melléklet az 1997. évi LXXIV. törvényhez
+
+,,
+
+Az alkalmi foglalkoztatás során kifizetett munkadíj, a közteherjegy és az ellátási alap sávjai
+
+| Ha a kifizetett munkadíj (Ft/nap) |  | A közteherjegy értéke (Ft/nap) | Az ellátási alap (Ft/nap) |
+| --- | --- | --- | --- |
+| 1. | 1200—1599 | 500 | 1370 |
+| 2. | 1600—2099 | 800 | 1830 |
+| 3. | 2100—2599 | 1000 | 2460 |
+| 4. | 2600—3099 | 1200 | 3300 |
+| 5. | 3100—4000 | 1500 | 4140 |
+
+Az alkalmi foglalkoztatás során kifizetett munkadíj, a közteherjegy és az ellátási alap sávjai, ha a munkáltató — külön jogszabályban foglaltak szerint — a munkaügyi központ által munkanélküliként nyilvántartott személyt foglalkoztat
+
+| Ha a kifizetett munkadíj (Ft/nap) |  | A közteherjegy értéke (Ft/nap) | Az ellátási alap (Ft/nap) |
+| --- | --- | --- | --- |
+| 1. | 1200—1599 | 200 | 1370 |
+| 2. | 1600—2099 | 400 | 1830 |
+| 3. | 2100—2599 | 500 | 2460 |
+| 4. | 2600—3099 | 600 | 3300 |
+| 5. | 3100—4000 | 800 | 4140 |
+
+''
