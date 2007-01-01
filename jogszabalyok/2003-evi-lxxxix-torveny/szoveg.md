@@ -64,7 +64,7 @@ bocsát ki.
 - d) a nehézfémek csoportjába tartozó vízterhelő anyag kibocsátása után, amennyiben a kibocsátó által alkalmazott technológiából adódóan az ilyen típusú vízterhelő anyag kibocsátása kizárt,
 - e) az extenzív módon üzemeltetett halastavak esetén.
 
-(2) Az (1) bekezdés a) és b) pontja szerinti vízterhelő anyagok mennyiségét a vízszolgáltató köteles hiteles mérésekkel igazolt módon a kibocsátó rendelkezésére bocsátani. Ha nem teljesíti fenti kötelezettségét, akkor a vízvédelmi hatóság a méréseket elvégzi vagy elvégezteti, és a mérési díj ötszörösében állapítja meg a vízszolgáltatót ezért terhelő térítési kötelezettséget.
+(2) Az (1) bekezdés a) és b) pontja szerinti vízterhelő anyagok mennyiségét a vízszolgáltató köteles hiteles mérésekkel igazolt módon a kibocsátó rendelkezésére bocsátani. Amennyiben nem teljesíti fenti kötelezettségét, akkor az illetékes környezetvédelmi hatóság a méréseket elvégzi és a mérési díj ötszörösében állapítja meg a vízszolgáltatót ezért terhelő térítési kötelezettséget.
 
 9. § (1) A vízterhelési díj mértékét a vízterhelési díj (2) bekezdésben meghatározott alapja, a vízterhelő anyagok egységdíja, a területérzékenységi, valamint az iszapelhelyezési szorzó határozza meg.
 
@@ -86,7 +86,7 @@ bocsát ki.
 
 (2) A talajterhelési díj alapja a szolgáltatott, vagy egyedi vízbeszerzés esetében a méréssel igazolt felhasznált, illetve mérési lehetőség hiányában az átalány alapján meghatározott víz mennyisége, csökkentve a külön jogszabály szerinti locsolási célú felhasználásra figyelembe vett víz mennyiségével.
 
-(3) A talajterhelési díj egységdíjának mértéke: 1 200 Ft/m3.
+(3) A talajterhelési díj egységdíjának mértéke: 120 Ft/m3.
 
 (4) A talajterhelési díj számításának részletes szabályait e törvény 3. számú melléklete határozza meg.
 
@@ -104,13 +104,13 @@ bocsát ki.
 
 (3) A (2) bekezdésben meghatározott díjkedvezményre a közszolgáltató és az önkormányzat írásos megállapodása alapján a közszolgáltató abban az esetben is jogosult, ha a beruházást nem a közszolgáltató, hanem az önkormányzat valósítja meg.
 
-(4)
+(4) A díjfizetéssel kapcsolatos vízminőségi és mennyiségi mérőműszerek beszerzési értékének 80%-át a díjfizetésre kötelezett a beszerzés évében a fizetendő díjelőlegből vonhatja le.
 
 (5) Az (1) és (2) bekezdésben meghatározott díjkedvezmény a beruházással érintett környezetterhelő anyag és a beruházással érintett telephely vonatkozásában vehető igénybe.
 
-(6) A vízterhelési díjkedvezmény igénybevételének feltétele a beruházásra vonatkozó véglegessé vált elvi vízjogi vagy vízjogi létesítési engedély, illetve a levegőterhelési díj esetében a beruházásra vonatkozó véglegessé vált létesítési engedély megléte.
+(6) A vízterhelési díjkedvezmény igénybevételének feltétele a beruházásra vonatkozó jogerős elvi vízjogi vagy vízjogi létesítési engedély, illetve a levegőterhelési díj esetében a beruházásra vonatkozó jogerős létesítési engedély megléte.
 
-(7) A díjkedvezmény első alkalommal a (6) bekezdésben meghatározott engedély véglegessé válását követő díjelőleg fizetésénél vehető igénybe.
+(7) A díjkedvezmény első alkalommal a (6) bekezdésben meghatározott engedély jogerőre emelkedését követő díjelőleg fizetésénél vehető igénybe.
 
 ### A levegőterhelési díj, a vízterhelési díj és a vízjogi engedély hatálya alá tartozó tevékenységhez kapcsolódó talajterhelési díj befizetése
 
@@ -134,25 +134,25 @@ bocsát ki.
 
 (3) A kibocsátó köteles olyan nyilvántartást vezetni, amelyből a díjfizetés alapja, valamint mértéke telephelyenként megállapítható.
 
-21. § A díjfizetésre kötelezett kibocsátó köteles a külön jogszabályokban meghatározott adatszolgáltatás elvégzésére. Amennyiben a környezetvédelmi hatóság vagy a vízvédelmi hatóság a kibocsátási adatok ellenőrzése során az adatszolgáltatásban eltérést tapasztal, erről az adóhatóságot tájékoztatja.
+21. § A kibocsátó tevékenysége során a levegőterhelő, a vízterhelő anyagok kibocsátásáról, valamint a vízjogi engedély alapján végzett tevékenységéhez kapcsolódó talajterhelésről a külön jogszabályokban meghatározott adatszolgáltatásra köteles. Amennyiben a környezetvédelmi felügyelőség a kibocsátási adatok ellenőrzése során az adatszolgáltatásban eltérést tapasztal, erről az adóhatóságot tájékoztatja.
 
 ### A helyi vízgazdálkodási hatósági jogkörbe tartozó szennyvízelhelyezéshez kapcsolódó talajterhelési díjjal kapcsolatos sajátos szabályok
 
 21/A. § (1) A helyi vízgazdálkodási hatósági jogkörbe tartozó szennyvízelhelyezéshez kapcsolódó talajterhelési díjat a kibocsátónak kell megállapítania, bevallania és megfizetnie (önadózás) a tárgyévet követő év március 31-éig.
 
-(2) A helyi vízgazdálkodási hatósági jogkörbe tartozó szennyvízelhelyezéshez kapcsolódó talajterhelési díjjal kapcsolatos megállapítási, bevallási, befizetési, ellenőrzési, adatszolgáltatási, eljárási szabályokat, valamint a díjkedvezmények és mentességek eseteit a települési önkormányzat – a fővárosban a kerületi önkormányzat, illetve a Margitsziget tekintetében a Budapest XIII. kerületi önkormányzat – rendeletben állapítja meg. A kibocsátó a helyi vízgazdálkodási hatósági jogkörhöz kapcsolódó talajterhelési díjat az önkormányzati rendeletben közzétett számla javára fizeti meg.
+(2) A helyi vízgazdálkodási hatósági jogkörbe tartozó szennyvízelhelyezéshez kapcsolódó talajterhelési díjjal kapcsolatos megállapítási, bevallási, befizetési, ellenőrzési, adatszolgáltatási, eljárási szabályokat, valamint a díjkedvezmények és mentességek eseteit a települési önkormányzat – a fővárosban a kerületi önkormányzat – rendeletben állapítja meg. A kibocsátó a helyi vízgazdálkodási hatósági jogkörhöz kapcsolódó talajterhelési díjat az önkormányzati rendeletben közzétett számla javára fizeti meg.
 
-(3) A közszolgáltató helyi vízgazdálkodási hatósági jogkörbe tartozó szennyvízelhelyezéshez kapcsolódó talajterhelési díj megállapításához és ellenőrzéséhez szükséges adatokat a települési önkormányzat – fővárosban a kerületi önkormányzat, illetve a Margitsziget tekintetében a Budapest XIII. kerületi önkormányzat – rendelkezésére bocsátja.
+(3) A közszolgáltató helyi vízgazdálkodási hatósági jogkörbe tartozó szennyvízelhelyezéshez kapcsolódó talajterhelési díj megállapításához és ellenőrzéséhez szükséges adatokat a települési önkormányzat – fővárosban a kerületi önkormányzat – rendelkezésére bocsátja.
 
-21/B. § (1) A helyi vízgazdálkodási hatósági jogkörbe tartozó szennyvízelhelyezéshez kapcsolódó talajterhelési díj a települési önkormányzat – a fővárosban a kerületi önkormányzat, illetve a Margitsziget tekintetében a Budapest XIII. kerületi önkormányzat – környezetvédelmi alapjának a bevételét képezi.
+21/B. § (1) A helyi vízgazdálkodási hatósági jogkörbe tartozó szennyvízelhelyezéshez kapcsolódó talajterhelési díj a települési önkormányzat – a fővárosban a kerületi önkormányzat – környezetvédelmi alapjának a bevételét képezi.
 
-(2) A települési önkormányzat – a fővárosban a kerületi önkormányzat, illetve a Margitsziget tekintetében a Budapest XIII. kerületi önkormányzat – a talajterhelési díjból származó bevételt – a (3) bekezdésben foglaltak figyelembevételével – a talaj, valamint a felszín alatti víz mennyiségi, minőségi védelmére használhatja fel.
+(2) A települési önkormányzat – a fővárosban a kerületi önkormányzat – a talajterhelési díjból származó bevételt – a (3) bekezdésben foglaltak figyelembevételével – a talaj, valamint a felszín alatti víz mennyiségi, minőségi védelmére használhatja fel.
 
 (3) A (2) bekezdés szerinti felhasználásnak minősül különösen a csatornázás, a szennyvíztisztítás, a vízbázisvédelem, a települési monitoring kialakítása és működtetése, a tartós környezetkárosodások kármentesítése, a potenciális és a tényleges szennyezőforrások szennyezésének megelőző, illetve utólagos műszaki védelme.
 
 ### Egyes jogkövetkezmények
 
-22. § Amennyiben a kibocsátó a 15. §-ban meghatározott beruházást a kivitelezési engedélyben meghatározott határidőig, illetve legfeljebb a véglegessé vált engedély kiadásától számított öt évig nem helyezi üzembe, úgy a díjkedvezményt a mindenkori jegybanki alapkamat kétszeresével növelt összegben kell visszafizetnie.
+22. § Amennyiben a kibocsátó a 15. §-ban meghatározott beruházást a kivitelezési engedélyben meghatározott határidőig, illetve legfeljebb a jogerős engedély kiadásától számított öt évig nem helyezi üzembe, úgy a díjkedvezményt a mindenkori jegybanki alapkamat kétszeresével növelt összegben kell visszafizetnie.
 
 23. §
 
@@ -160,7 +160,7 @@ bocsát ki.
 
 24. § A levegőterhelési díjjal, a vízterhelési díjjal, a vízjogi engedély alapján végzett tevékenységéhez kapcsolódó talajterhelési díjjal kapcsolatos adóztatási feladatokat az állami adóhatóság, a helyi vízgazdálkodási hatósági jogkörbe tartozó szennyvízelhelyezéshez kapcsolódó talajterhelési díjjal kapcsolatos adóztatási feladatokat az illetékes önkormányzati adóhatóságok látják el.
 
-25. § A környezetterhelési díj megfizetésére, bevallására, az ehhez kapcsolódó jogkövetkezményekre, a megállapításához és a beszedéséhez való jog elévülésére, pénzügyi ellenőrzésére, valamint végrehajtására az e törvényben nem szabályozott kérdésekben az adóigazgatási rendtartásról szóló törvény, az adózás rendjéről szóló törvény, az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény rendelkezéseit kell alkalmazni.
+25. § A környezetterhelési díj megfizetésére, bevallására, az ehhez kapcsolódó jogkövetkezményekre, a megállapításához és a beszedéséhez való jog elévülésére, pénzügyi ellenőrzésére, valamint végrehajtására az e törvényben nem szabályozott kérdésekben az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni.
 
 ### Átmeneti és záró rendelkezések
 
@@ -169,8 +169,6 @@ bocsát ki.
 (2) E törvény 11–14. §-a, 19. §-a, valamint a 3. §-ának, 18. §-ának, 21. §-ának és 24. §-ának a talajterhelési díjra vonatkozó rendelkezései 2004. július 1-jén lépnek hatályba.
 
 (3) Felhatalmazást kap a Kormány, hogy az egyes környezetterhelési díjkedvezmények igénybevételére, a díjak díjvisszaigénylésének alkalmazására, a kibocsátott terhelő anyag mennyiség meghatározásának pontos módjára, valamint a díjfizetés áthárítására vonatkozó részletes szabályokat rendeletben állapítsa meg.
-
-(3a) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a vízvédelmi hatóságot.
 
 (4) A települési önkormányzatok rendeletben állapítják meg a helyi vízgazdálkodási hatósági jogkörbe tartozó szennyvízelhelyezéshez kapcsolódó talajterhelési díjjal kapcsolatban a 12. §-ban meghatározott általány megállapításának szempontjait, valamint a 21/A. §-ban meghatározottakat.
 

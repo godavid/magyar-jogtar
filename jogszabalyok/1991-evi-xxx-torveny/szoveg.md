@@ -19,6 +19,6 @@ Az Országgyűlés az alkotmányos jogok teljeskörű érvényesülésének bizt
 
 (2) A kárigények érvényesítésére — az e törvényben meghatározott eltérésekkel — a Polgári Törvénykönyv és a Polgári Perrendtartás rendelkezései az irányadók.
 
-3. § A kárigény érvényesítésére irányuló perre járásbíróság hatáskörébe tartozó ügyben a Pesti Központi Kerületi Bíróság, törvényszék hatáskörébe tartozó ügyben a Fővárosi Törvényszék kizárólagosan illetékes.
+3. § A kárigény érvényesítésére irányuló perre helyi bíróság hatáskörébe tartozó ügyben a Pesti Központi Kerületi Bíróság, megyei bíróság hatáskörébe tartozó ügyben a Fővárosi Bíróság kizárólagosan illetékes.
 
 4. § Ez a törvény a kihirdetése napján lép hatályba.

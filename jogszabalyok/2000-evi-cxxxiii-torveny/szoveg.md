@@ -2119,7 +2119,7 @@ együttesen legfeljebb 2 604,0 millió forint összegű hitelt – annak járul�
 - a) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 8. §-ában a ,,2001. január 1-je'' időpont ,,2003. január 1-je'' időpontra és ,,az 1997. december 31-én'' hivatkozás ,,a 2000. december 31-én'' hivatkozásra, a Tny. 53. §-a (5) bekezdésében az ,,(1) bekezdés''-re hivatkozás ,,(1)–(2) bekezdés''-re, valamint az ,,50. § (1) bekezdés b) pontja'' hivatkozás ,,50. § (2) bekezdés b) pontja'' hivatkozásra, a Tny. 89. §-a (3) bekezdésének felvezető szövegében a ,,kerülhet'' szövegrész ,,kerül'' szövegrészre, a Tny. 95. §-ának (2) bekezdésében a ,,mérséklésre, elengedésre irányuló'' szövegrész a ,,tartozás mérséklésére, elengedésére, továbbá fizetési könnyítésének engedélyezésére irányuló'' szövegrészre, a Tny. 96. §-a (6) bekezdésének első mondatában ,,A nyugdíjbiztosítási igazgatási szerv'' szövegrész ,,Az Országos Nyugdíjbiztosítási Főigazgatóság'' szövegrészre, a Tny. 101. §-a (2) és (3) bekezdésében a ,,2001.'' dátum ,,2003.''-ra változik;
 - b) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 3. § (1) bekezdése a) pontjának szövege ,,a 100%-ban állami tulajdonban lévő gazdálkodó szervezet (a továbbiakban: állami játékszervező) kizárólagos tulajdonában lévő gazdasági társaság, illetve az állam többségi részesedésével működő gazdálkodó szervezet végezheti, és/vagy'' szövegrészre, a 3. § (3) bekezdésének szövege ,,A számsorsjáték és – a lóversenyfogadás, valamint a bukmékeri rendszerű fogadás kivételével – a fogadás szervezésére kizárólag az állami játékszervező jogosult.'' szövegrészre, a 27. § (1) bekezdésének szövege ,,Játékkaszinót kizárólag e célból létrehozott, legalább 100 millió forint, a fővárosban és Pest megyében üzemeltetett játékkaszinó vonatkozásában legalább 300 millió forint alap- vagy törzstőkével rendelkező az állam többségi részesedésével működő gazdálkodó szervezet, illetve 100%-ban az állami játékszervező tulajdonában lévő gazdasági társaság és/vagy koncessziós társaság működtethet.'' szövegrészre, a 27/A. § (2) bekezdésének szövege ,,Ha az állam többségi részesedésével működő gazdálkodó szervezet, illetve a 100%-ban az állami játékszervező tulajdonában lévő gazdasági társaság és/vagy a koncessziós társaság rendelkezik a szerencsejáték szervező tevékenységnek konvertibilis pénznemben történő végzéséhez szükséges devizahatósági engedéllyel, köteles a téteket konvertibilis pénznemben feltüntetni.'' szövegrészre, a 28/A. § (2) bekezdésének szövege ,,A lóversenyfogadás és a bukmékeri rendszerű fogadás kivételével kizárólag az az állami játékszervező szervezhet fogadást, amely legalább 1 milliárd forint alap-(törzs-)tőkével rendelkezik és a fogadás szervezését megelőzően legalább 5 évig az e törvény hatálya alá tartozó szerencsejáték(ok) szervezésével foglalkozott.'' szövegrészre, és a 37. § 15. pontja a) pontjának szövege ,,az 1. § (3) bekezdésében meghatározott tevékenységet folytató koncessziós társaság, az állami játékszervező, a 100%-ban az állami játékszervező tulajdonában lévő gazdasági társaság és az állam többségi részesedésével működő gazdálkodó szervezet, a liberalizált tevékenység gyakorlására létrehozott gazdasági társaság, valamint'' szövegrészre változik;
 - c) a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 1. § (2) bekezdésében és a 3. §-ban a ,,személy'' szövegrész ,,személyek'' szövegrészre változik;
-- d)
+- d) az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló 1997. évi LXXIV. törvény (a továbbiakban: AM tv.) 8. § (6) bekezdésének ,,évi 250 ezer forint'' szövegrésze helyébe ,,évi 350 ezer forint'' szövegrész kerül. Az AM tv. melléklete helyébe e törvény 23. számú melléklete lép.
 
 (2) E törvény kihirdetésével egyidejűleg az adókra, járulékokra és egyéb költségvetési befizetésekre vonatkozó egyes törvények módosításáról szóló 2000. évi CXIII. törvény 1. számú mellékletének 6. pontjában az Szja tv. 1. számú melléklet 8.19. pontja a ,,valamint annak a terméknek és szolgáltatásnak az értéke, amelyet a köztársasági elnök, az Országgyűlés elnöke, a miniszterelnök, a külügyminiszter reprezentáció címén nyújt az államközi és az államok feletti szervezetekkel kapcsolatos diplomáciai esemény alkalmával; a külügyminiszter esetében ide kell érteni azt az esetet is, amikor a reprezentációt külképviselet által közvetve nyújtja;'' szövegrésszel egészül ki.
 
@@ -9370,6 +9370,20 @@ Millió forintban
 | A TÁRSADALOMBIZTOSÍTÁSI ALAPOK HIÁNYA: | 10 062,0 | 17 207,0 |  |  |  |
 
 ### 23. számú melléklet a 2000. évi CXXXIII. törvényhez
+
+[Melléklet az 1997. évi LXIV. törvényhez]
+
+Az alkalmi foglalkoztatás során kifizetett munkadíj, a közteherjegy és az ellátási alap sávjai
+
+Az alkalmi foglalkoztatás során kifizetett munkadíj, a közteherjegy és az ellátási alap sávjai
+
+| Ha a kifizetett munkadíj (Ft/nap) | A közteherjegy értéke (Ft/nap) | Az ellátási alap (Ft/nap) |
+| --- | --- | --- |
+| 1200–1599 | 1200 | 1700 |
+| 1600–2099 | 1600 | 2300 |
+| 2100–2599 | 2000 | 3000 |
+| 2600–3099 | 2500 | 3700 |
+| 3100–4000 | 3000 | 4300 |
 
 ### 24. számú melléklet a 2000. évi CXXXIII. törvényhez
 

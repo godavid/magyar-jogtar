@@ -751,7 +751,7 @@ A Kormány kötelezze a MÁV Rt.-t, hogy az erre a célra kapott költségvetés
 
 41. § Az e törvény 25. § a) pontjában hozott döntéssel összefüggésben a XXIV. Ifjúsági és Sportminisztérium fejezet, sportszervezetek köztartozásának rendezése jogcím törlésre kerül.
 
-42. § (1)
+42. § (1) A köztisztviselő 2002. január 1-jétől a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, valamint egyéb törvények módosításáról szóló 2001. évi XXXVI. törvény 4. számú melléklete szerinti fizetési fokozathoz tartozó szorzószám alapján számított alapilletményre jogosult.
 
 (2) A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) XIX/A. fejezete hatálya alá tartozó hivatásos állomány tagja 2002. január 1-jétől a Hszt. 6/A. számú melléklete szerinti fizetési fokozathoz tartozó, illetve – a vezetőkre vonatkozóan – a Hszt. 245/H. §-a (2) bekezdésében meghatározott szorzószám alapján – a Hszt. 245/O. §-a figyelembevételével – számított beosztási illetményre jogosult.
 

@@ -726,100 +726,68 @@ Ennek hiteléül a kellően meghatalmazott alulírottak jelen Egyezményt aláí
 
 Készült Hágában, 1970. március 18. napján, angol és francia nyelven, mindkét szöveg egyaránt hiteles, egy példányban, amely Hollandia Kormányának levéltárában kerül elhelyezésre, és amelyről diplomáciai úton hiteles másolat kerül megküldésre azon Államoknak, amelyek a Hágai Nemzetközi Magánjogi Értekezlet tizenegyedik ülésszakán képviseltették magukat.”
 
-3. § (1) A Magyar Köztársaság az Egyezményhez – csatlakozási okiratának letétbe helyezésekor – az alábbi fenntartásokat tette az Egyezmény 33. Cikke alapján:
+3. § A Magyar Köztársaság az Egyezményhez – csatlakozási okiratának letétbe helyezésekor – az alábbi fenntartásokat, illetőleg nyilatkozatokat tette:
 
-– to Paragraph 2 of Article 4
+- a) fenntartások az Egyezmény 33. cikke alapján – a 4. cikk második bekezdéséhez:
 
-The Republic of Hungary excludes the application of Paragraph 2 of Article 4 of the Convention.
+„A Magyar Köztársaság az Egyezmény 4. cikke második bekezdésének alkalmazását kizárja.”
 
-– a 4. Cikk második bekezdéséhez:
+– a 16. cikkhez:
 
-A Magyar Köztársaság az Egyezmény 4. Cikke második bekezdésének alkalmazását kizárja.
+„A Magyar Köztársaság az Egyezmény 16. cikkének alkalmazását kizárja.”
 
-– to Article 16
+– a 18. cikkhez:
 
-The Republic of Hungary excludes the application of Article 16 of the Convention.
+„A diplomáciai vagy konzuli képviselő által az Egyezmény 15. cikke, illetőleg a megbízott által az Egyezmény 17. cikke alapján történő bizonyításfelvételhez a magyar hatóságok nem nyújtanak támogatást kényszerítő eszközök alkalmazása útján.”
 
-– a 16. Cikkhez:
+- b) nyilatkozatok az Egyezményhez – a 2. cikkhez:
 
-A Magyar Köztársaság az Egyezmény 16. Cikkének alkalmazását kizárja.
+„A Magyar Köztársaságban az Egyezmény 2. cikke szerinti Központi Hatóság feladatait az Igazságügyi Minisztérium látja el.”
 
-– to Article 18
+– a 8. cikkhez:
 
-The Hungarian authorities do not give assistance to the taking of evidence of the diplomatic offer or consular agent in accordance with Article 15 of the Convention or the commissioner in accordance with Article 17 of the Convention by applying measures of compulsion.
+„A megkereső bíróság tagjai a magyar Központi Hatóság előzetes hozzájárulásával jelen lehetnek a megkeresett bíróság által foganatosított bizonyításfelvételi cselekménynél.”
 
-– a 18. Cikkhez:
+– a 15. cikkhez:
 
-A diplomáciai vagy konzuli képviselő által az Egyezmény 15. Cikke, illetőleg a megbízott által az Egyezmény 17. Cikke alapján történő bizonyításfelvételhez a magyar hatóságok nem nyújtanak támogatást kényszerítő eszközök alkalmazása útján.
+„Az Egyezmény 15. cikke alapján más Szerződő Állam diplomáciai vagy konzuli képviselője a Magyar Köztársaság területén a magyar hatóságok előzetes hozzájárulása nélkül foganatosíthat bizonyítási cselekményt az általa képviselt Szerződő Államban folyamatban lévő eljárás céljára, feltéve, hogy az olyan személyt érint, aki kizárólag a diplomáciai vagy konzuli képviselő küldő Államának polgára. A bizonyítási cselekmény kényszer, illetőleg hátrányos jogkövetkezmény alkalmazásával vagy kilátásba helyezésével nem járhat.”
 
-(2) Az Egyezményhez Magyarország az alábbi nyilatkozatokat teszi:
+– a 17. cikkhez:
 
-– to Article 2:
+„Az Egyezmény 17. cikkének második bekezdése szerinti engedélyt a Magyar Köztársaságban a Központi Hatóság jogosult megadni.”
 
-In Hungary the ministry headed by the minister responsible for justice performs the tasks of the Central Authority in accordance with Article 2 of the Convention.
+– a 23. cikkhez:
 
-– a 2. Cikkhez:
+„A magyar hatóságok nem teljesítenek olyan megkereséseket, amelyeket „pre-trial discovery of documents” néven ismert eljárás tárgyában terjesztettek elő.”
 
-Magyarországon az Egyezmény 2. Cikke szerinti Központi Hatóság feladatait az igazságügyért felelős miniszter által vezetett minisztérium látja el.
+4. § (1) Az Egyezmény 17. cikkének második bekezdése szerinti engedély iránti kérelmet az igazságügyért felelős miniszterhez kell benyújtani magyar, angol, francia vagy német nyelven. A kérelemben meg kell jelölni az alábbiakat:
 
-– to Article 8:
+- a) az eljáró külföldi bíróság megnevezését és ügyszámát;
+- b) az eljárásában érintett felek, illetve képviselőik nevét és lakóhelyét;
+- c) az eljárás tárgyát;
+- d) az ügy tényállásának rövid leírását;
+- e) annak a személynek a nevét és lakóhelyét, aki megbízottként a bizonyítási cselekményt belföldön foganatosítani kívánja;
+- f) a belföldön foganatosítandó bizonyítási cselekmény pontos megjelölését;
+- g) annak a személynek a nevét és lakóhelyét, akinek közreműködése a bizonyítási cselekmény foganatosításához szükséges.
 
-Members of the judicial personnel of the requesting court may be present at the execution of a Letter of Request executed by the requested court, subject to prior permission by the Hungarian Central Authority.
+(2) A kérelemhez csatolni kell a bizonyítást foganatosító megbízottként eljáró személy részére szóló, a külföldi bíróság által hozott kirendelést vagy azzal egy tekintet alá eső okiratot. Az okiratot – nemzetközi szerződés eltérő rendelkezése hiányában – az illetékes magyar külképviseleti hatósággal felül kell hitelesíttetni.
 
-– a 8. Cikkhez:
+(3) Az igazságügyért felelős miniszter a kérelemnek nem ad helyt, amennyiben a foganatosítani szándékozott bizonyítási cselekmény a magyar közrendbe ütközne.
 
-A megkereső bíróság tagjai a magyar Központi Hatóság előzetes hozzájárulásával jelen lehetnek a megkeresett bíróság által foganatosított bizonyításfelvételi cselekménynél.
+(4) Amennyiben a bizonyítási cselekmény valamely személy meghallgatására irányul, a meghallgatás a magyar bíróság felügyelete mellett foganatosítható. Ha az igazságügyért felelős miniszter a kérelemnek helyt ad, értesíti azt a helyi bíróságot, amelynek illetékességi területén a meghallgatni kívánt személy belföldi lakóhelye vagy szokásos tartózkodási helye található. E személyt meghallgatását megelőzően tájékoztatni kell arról, hogy
 
-– to Article 15:
+- a) közreműködése önkéntes, annak megtagadása miatt belföldön joghátrány nem érheti,
+- b) a meghallgatás során jogosult anyanyelvét használni,
+- c) jogi képviselője a meghallgatás során jelen lehet,
 
-In accordance with Article 15 of the Convention the diplomatic officer or consular agent of a Contracting State may take in the territory of Hungary the evidence in aid of proceedings commenced in the courts of the State which he/she represents without prior permission of the Hungarian authorities provided that the person affected is exclusively national of the sending State of the diplomatic officer or consular agent. Taking of evidence shall not involve applying or holding out of the prospect of compulsion or disadvantageous legal consequences.
+továbbá – tanúként történő kihallgatása esetén – őt ki kell tanítani a Polgári perrendtartásról szóló 1952. évi III. törvény 169–170. §-aiban foglaltakról.
 
-– a 15. Cikkhez:
+(5) Amennyiben a meghallgatás foganatosításához tolmács közreműködése szükséges, a tolmács díját a megbízottként eljáró személy köteles megtéríteni.
 
-Az Egyezmény 15. Cikke alapján más Szerződő Állam diplomáciai vagy konzuli képviselője Magyarország területén a magyar hatóságok előzetes hozzájárulása nélkül foganatosíthat bizonyítási cselekményt az általa képviselt Szerződő Államban folyamatban lévő eljárás céljára, feltéve, hogy az olyan személyt érint, aki kizárólag a diplomáciai vagy konzuli képviselő küldő Államának polgára. A bizonyítási cselekmény kényszer, illetőleg hátrányos jogkövetkezmény alkalmazásával vagy kilátásba helyezésével nem járhat.
-
-– to Article 17:
-
-In Hungary the Central Authority is entitled to give the permission set out in Paragraph 2 of Article 17 of the Convention.
-
-– a 17. Cikkhez:
-
-Az Egyezmény 17. Cikkének második bekezdése szerinti engedélyt Magyarországon a Központi Hatóság jogosult megadni.
-
-– to Article 23:
-
-The Hungarian authorities will not execute Letters of Request presented in a procedure known as pre-trial discovery of documents unless the Letter of Request clearly identifies the document that must be made available by its holder and this document is directly connected to the objective of the procedure.
-
-– a 23. Cikkhez:
-
-A magyar hatóságok nem teljesítenek olyan megkereséseket, amelyeket „pre-trial discovery of documents” néven ismert eljárás tárgyában terjesztettek elő, kivéve, ha a jogsegélykérelem pontosan megjelöli azon okiratot, amelyet birtokosának rendelkezésre kell bocsátania, és ez az okirat az eljárás céljával közvetlen kapcsolatban áll.
-
-4. § (1) Az 1. melléklet tartalmazza azon államok felsorolását, továbbá azok és Magyarország viszonylatában a hatálybalépés időpontját, amelyek csatlakozásának az elfogadásáról szóló nyilatkozat az Egyezmény 39. Cikk negyedik bekezdése alapján 2023. január 1. napja előtt letétbe helyezésre került.
-
-(2) Magyarország elfogadja Georgia, Málta, Nicaragua és Vietnám csatlakozását. Az Egyezmény ezen államok és Magyarország viszonylatában történő hatálybalépésének naptári napját – annak ismertté válását követően – a külpolitikáért felelős miniszter a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
+(6) Az igazságügyért felelős miniszter az e § szerinti bizonyításfelvétel engedélyezésekor egyéb feltételeket is megszabhat.
 
 5. § Felhatalmazást kap az igazságügyért felelős miniszter, hogy ellássa az Egyezmény 2. cikke szerinti Központi Hatóság feladatkörét, és megállapítsa az e minőségben végzendő feladatai ellátásához szükséges részletes szabályokat.
 
 6. § (1) Ez a törvény a kihirdetése napján lép hatályba.
 
 (2) A törvény 2–4. §-ai az Egyezmény 39. cikkének harmadik bekezdésében meghatározott időpontban lépnek hatályba.
-
-### 1. melléklet a 2004. évi CXVI. törvényhez
-
-- 1. Albánia, a hatálybalépés időpontja 2011. március 20.
-- 2. Andorra, a hatálybalépés időpontja 2018. június 10.
-- 3. Bosznia és Hercegovina, a hatálybalépés időpontja 2011. március 20.
-- 4. Brazília, a hatálybalépés időpontja 2018. június 10.
-- 5. Costa Rica, a hatálybalépés időpontja 2018. június 10.
-- 6. Észak-Macedónia, a hatálybalépés időpontja 2011. március 20.
-- 7. Horvátország, a hatálybalépés időpontja 2011. március 20.
-- 8. India, a hatálybalépés időpontja 2011. március 20.
-- 9. Izland, a hatálybalépés időpontja 2011. március 20.
-- 10. Kazahsztán, a hatálybalépés időpontja 2018. június 10.
-- 11. Kolumbia, a hatálybalépés időpontja 2018. június 10.
-- 12. Koreai Köztársaság, a hatálybalépés időpontja 2011. március 20.
-- 13. Liechtenstein, a hatálybalépés időpontja 2011. március 20.
-- 14. Marokkó, a hatálybalépés időpontja 2018. június 10.
-- 15. Montenegró, a hatálybalépés időpontja 2018. június 10.
-- 16. Örményország, a hatálybalépés időpontja 2018. június 10.
-- 17. Szerbia, a hatálybalépés időpontja 2011. március 20.

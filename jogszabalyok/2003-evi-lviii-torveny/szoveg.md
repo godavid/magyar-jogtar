@@ -6,7 +6,7 @@ Az Országgyűlés az állam és a társadalom egészének a veszélyeztetett te
 
 ### A törvény célja
 
-1. § A Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap (a továbbiakban: Alap) az ár- és belvízkárok megtérítésében való önkéntes részvételre ösztönző elkülönített állami pénzalap, amelybe a Magyarország területén veszélyeztetett területeken lakóingatlan tulajdonnal rendelkező természetes személyek szerződés alapján befizetést teljesíthetnek, ezáltal jogosulttá válnak a káresemények utáni kártalanításra.
+1. § A Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap (a továbbiakban: Alap) az ár- és belvízkárok megtérítésében való önkéntes részvételre ösztönző elkülönített állami pénzalap, amelybe a Magyar Köztársaság területén a veszélyeztetett területeken lakóingatlan tulajdonnal rendelkező természetes személyek szerződés alapján befizetést teljesíthetnek, ezáltal jogosulttá válnak a káresemények utáni kártalanításra.
 
 2. § E törvény alkalmazásában
 
@@ -48,7 +48,7 @@ amennyiben a kártalanítást jogszabály nem korlátozta vagy nem zárta ki.
 
 (2) A szerződő éves befizetési kötelezettségének összege a lakóingatlan értéke alapján a veszélyeztetettségi fokozat szerinti korrekciós tényező alkalmazásával a szerződésben kerül meghatározásra.
 
-(3) Szociális rászorultság esetén, a rászorultság mértékétől függően, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának igazolása alapján a befizetés éves összege a szerződésben legfeljebb 30%-kal csökkenthető.
+(3) Szociális rászorultság esetén, a rászorultság mértékétől függően, az önkormányzat jegyzőjének igazolása alapján a befizetés éves összege a szerződésben legfeljebb 30%-kal csökkenthető.
 
 ### A kártalanítás mértéke
 
@@ -68,7 +68,7 @@ amennyiben a kártalanítást jogszabály nem korlátozta vagy nem zárta ki.
 - a) költségvetési támogatás, ha az Alap pénzállománya a kötelezettségeinek teljesítéséhez nem elegendő,
 - b) árvízkár enyhítésére szolgáló nemzetközi segélyek.
 
-(3) Az (1) bekezdés b) pontjában foglalt befizetés közérdekű célra történő kötelezettségvállalásnak minősül (a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:589. §).
+(3) Az (1) bekezdés b) pontjában foglalt befizetés közérdekű kötelezettségvállalásnak minősül (Ptk. 593–596. §).
 
 (4) Az Alap bevételei kizárólag
 
@@ -79,7 +79,7 @@ használhatók fel.
 
 (5) Az Alap bevétele és év végi maradványa nem vonható el.
 
-8. § Az Alappal az államháztartásért felelős miniszter e törvény, valamint az államháztartásról szóló 2011. évi CXCV. törvény előírásai szerint rendelkezik.
+8. § Az Alappal az államháztartásért felelős miniszter e törvény, valamint az államháztartásról szóló 1992. évi XXXVIII. törvény előírásai szerint rendelkezik.
 
 9. § (1) Az Alapot a kincstár (a továbbiakban: Alapkezelő) kezeli.
 
@@ -124,7 +124,7 @@ használhatók fel.
 - c) a korrekciós tényező számításának és alkalmazásának szabályait,
 - d) a befizetések éves mértékének számítási módszerét.
 
-(6) Felhatalmazást kap a vízgazdálkodásért felelős miniszter, hogy a katasztrófák elleni védekezésért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg az ár- és belvíz által veszélyeztetett területek lehatárolásának, a települések ár- és belvíz veszélyeztetettségi alapon történő besorolásának, valamint a besorolás felülvizsgálatának szabályait.
+(6) Felhatalmazást kap a vízgazdálkodásért felelős miniszter és a katasztrófák elleni védekezésért felelős miniszter, hogy együttes rendeletben állapítsa meg az ár- és belvíz által veszélyeztetett területek lehatárolásának, a települések ár- és belvíz veszélyeztetettségi alapon történő besorolásának, valamint a besorolás felülvizsgálatának szabályait.
 
 (7) A lakóingatlan tulajdonosa a 4. § (1) bekezdés szerinti kártalanításra e törvény hatálybalépését követően 2005. december 31-ig akkor is jogosult, ha a 3. § b) pontjában meghatározott feltételeknek nem felel meg.
 
