@@ -10,7 +10,7 @@ Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak k
 
 7. § (1) A Tv. 2. §-a (1) bekezdésének c) és d) pontja, továbbá 3. §-a (1) bekezdésének c) pontja alapján lefolytatásra kerülő eljárásra az 1991. évi XXV. törvény 10–12. §-ában foglaltak az irányadók, a (2)–(8) bekezdésben meghatározott eltérésekkel.
 
-(2) Aki a Tv. 2. §-a (1) bekezdésének c) és d) pontja, illetőleg 3. §-a (1) bekezdésének c) pontja alapján jogosult kárpótlásra, e törvény hatálybalépésétől számított 4 hónapon belül a kárpótlási hatósághoz nyújthatja be kárpótlás iránti kérelmét.
+(2) Aki a Tv. 2. §-a (1) bekezdésének c) és d) pontja, illetőleg 3. §-a (1) bekezdésének c) pontja alapján jogosult kárpótlásra, e törvény hatálybalépésétől számított 4 hónapon belül a Központi Kárrendezési Irodához (a továbbiakban: KKI) nyújthatja be kárpótlás iránti kérelmét. A kérelmet első fokon a KKI bírálja el.
 
 (3) Ha a Tv. 3. §-a (1) bekezdésének c) pontja alapján kárpótlásra jogosult 1992. július 2-át követően meghalt, mielőtt e törvény szerint kérelmét benyújthatta volna, a jogosultnak járó kárpótlás megállapítását – a sérelmet szenvedett halála esetén túlélő házastárs (Tv. 5. §) hiányában – bármelyik örökös kérheti a (2) bekezdésben meghatározott határidőn belül.
 
@@ -22,11 +22,7 @@ Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak k
 
 (7) A hivatalból indult eljárás ügyintézési határideje azonos a kérelemre indult eljáráséval, a határidő kezdete e törvény hatálybalépésének napja.
 
-(8)
-
-7/A. § (1) Ha az eljárás során a jogosulttal való kapcsolattartás lehetetlenné vált, vagy a jogutód nem ismert, a kárpótlási hatóság a döntését az általános közigazgatási rendtartásról szóló törvény hirdetményi közlésre vonatkozó szabályai szerint közli.
-
-(2)
+(8) A KKI határozatának felülvizsgálata során eljáró bíróság illetékességére a Tv. 14. §-ának d) pontját kell alkalmazni.
 
 ### Egyéb rendelkezések
 
@@ -48,7 +44,7 @@ Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak k
 
 (2) Ha a túlélő házastárs (özvegy) a részére megállapított egyösszegű kárpótlás összegét elérő címletértékű kárpótlási jegyet, kis összegű kárpótlást [Tv. 8. § (1) és (2) bekezdés] kapott, az egyösszegű kárpótlást teljesítettnek kell tekinteni. Ha az egyösszegű kárpótlást az előbb említettek nem érik el, a különbözetet ki kell fizetni.
 
-(3) Ha a túlélő házastárs a kárpótlási jegyeit a kárpótlási hatóságnak visszaszolgáltatta, akkor a neki megállapított egyösszegű kárpótlást részére ki kell fizetni, a kárpótlási jegyek egy részének visszaszolgáltatása esetén az egyösszegű kárpótlás arányos része jár.
+(3) Ha a túlélő házastárs a kárpótlási jegyeit az OKKH-nak visszaszolgáltatta, akkor a neki megállapított egyösszegű kárpótlást részére ki kell fizetni, a kárpótlási jegyek egy részének visszaszolgáltatása esetén az egyösszegű kárpótlás arányos része jár.
 
 (4) Az egyöszegű kárpótlást teljesítettnek kell tekinteni, ha a túlélő házastársnak (özvegynek) kárpótlásként életjáradékot állapítottak meg.
 
@@ -58,11 +54,11 @@ Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak k
 
 ### Kárpótlási jegy helyettéletjáradék ismételt választása
 
-12. § (1) Az a kárpótlásra jogosult, akinek a kárpótlását a Tv. 6. §-ának (1) bekezdése alkalmazásával kárpótlási jegyben e törvény hatálybalépése előtt megállapították, a részére kiadott és még fel nem használt kárpótlási jegy visszaszolgáltatása mellett 1997. szeptember 1-je és december 31-e között igényelheti kárpótlási hatóságtól az életjáradék megállapítását. E határidő jogvesztő, elmulasztása miatt igazolásnak nincs helye.
+12. § (1) Az a kárpótlásra jogosult, akinek a kárpótlását a Tv. 6. §-ának (1) bekezdése alkalmazásával kárpótlási jegyben e törvény hatálybalépése előtt megállapították, a részére kiadott és még fel nem használt kárpótlási jegy visszaszolgáltatása mellett 1997. szeptember 1-je és december 31-e között igényelheti az OKKH-tól az életjáradék megállapítását. E határidő jogvesztő, elmulasztása miatt igazolásnak nincs helye.
 
 (2) A havi életjáradékot a Tv. szerint kell kiszámítani. Ha a visszaszolgáltatott kárpótlási jegy címletértéke kevesebb, mint a kárpótlást megállapító határozatban megjelölt érték, az életjáradék havi összegét arányosan csökkenteni kell. Az életjáradék e törvény hatálybalépését követő hónap első napjától jár.
 
-13. § (1) Az életjáradék megállapításáról a kárpótlási hatóság az igénylés benyújtásától számított 4 hónapon belül dönt.
+13. § (1) Az életjáradék megállapításáról a KKI az igénylés benyújtásától számított 4 hónapon belül dönt. Határozatát a bíróság a felülvizsgálat során megváltoztathatja. A bíróság illetékességének megállapítására a Tv. 14. §-ának d) pontját kell alkalmazni.
 
 (2) Az életjáradék folyósítására a Tv. 20/A. §-át kell alkalmazni.
 

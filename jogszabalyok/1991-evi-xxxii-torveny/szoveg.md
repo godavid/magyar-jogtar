@@ -2,15 +2,7 @@
 
 a volt egyházi ingatlanok tulajdoni helyzetének rendezéséről
 
-Az egyházak a magyar történelemben értékes kultúrateremtő, -megőrző és -átadó munkát végeztek. A hitéleti tevékenység mellett az oktatás, nevelés, az egészségügy, a szociális és kulturális szolgáltatások terén jelentős feladatokat láttak el, és fontos társadalmi szerepet töltöttek be.
-
-A materialista és ateista világnézet kizárólagosságának elvi alapján álló pártállam az egyházak vagyontárgyainak elkobzásával, szervezeteik jórészének felszámolásával és más hatalmi eszközökkel — folyamatos jogsértéseket elkövetve — az egyházak hitéleti tevékenységét és társadalmi szerepüket szűk korlátok közé szorította.
-
-A jogállamiságot megvalósító Magyarországon az egyházak ismét szabadon, korlátozás nélkül betölthetik társadalmi szerepüket, ehhez azonban hiányoznak az anyagi eszközeik.
-
-A rendszerváltást megelőző Országgyűlés által a lelkiismereti és valásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény már utalt arra, hogy a magyarországi egyházak a hitélet körébe tartozó munkálkodásuk mellett kulturális, nevelési-oktatási, szociális, egészségügyi tevékenységükkel és a nemzeti tudat ápolásával is jelentős szerepet töltenek be az ország életében. Az akkori körülmények között azonban még nem kerülhetett sor e szerep betöltéséhez szükséges tárgyi, anyagi feltételek biztosítására.
-
-Az Országgyűlés az elkövetett súlyos jogsértések részbeni orvoslása, részben pedig az egyházak tevékenységének folytatásához szükséges tárgyi, anyagi feltételek biztosítása érdekében az egyes volt egyházi ingatlanok tulajdoni helyzetének rendezéséről a következő törvényt alkotja:
+Az egyházak a magyar történelemben értékes kultúrateremtő, -megőrző és -átadó munkát végeztek. A hitéleti tevékenység mellett az oktatás, nevelés, az egészségügy, a szociális és kulturális szolgáltatások terén jelentős feladatokat láttak el, és fontos társadalmi szerepet töltöttek be.A materialista és ateista világnézet kizárólagosságának elvi alapján álló pártállam az egyházak vagyontárgyainak elkobzásával, szervezeteik jórészének felszámolásával és más hatalmi eszközökkel — folyamatos jogsértéseket elkövetve — az egyházak hitéleti tevékenységét és társadalmi szerepüket szűk korlátok közé szorította.A jogállamiságot megvalósító Magyar Köztársaságban az egyházak ismét szabadon, korlátozás nélkül betölthetik társadalmi szerepüket, ehhez azonban hiányoznak az anyagi eszközeik.A rendszerváltást megelőző Országgyűlés által a lelkiismereti és valásszabadságról, valamint az egyházakról megalkotott 1990. évi IV. törvény már utalt arra, hogy a magyarországi egyházak a hitélet körébe tartozó munkálkodásuk mellett kulturális, nevelési-oktatási, szociális, egészségügyi tevékenységükkel és a nemzeti tudat ápolásával is jelentős szerepet töltenek be az ország életében. Az akkori körülmények között azonban még nem kerülhetett sor e szerep betöltéséhez szükséges tárgyi, anyagi feltételek biztosítására.Az Országgyűlés az elkövetett súlyos jogsértések részbeni orvoslása, részben pedig az egyházaknak az 1990. évi IV. törvényben említett tevékenységük folytatásához szükséges tárgyi, anyagi feltételek biztosítása érdekében az egyes volt egyházi ingatlanok tulajdoni helyzetének rendezéséről a következő törvényt alkotja:
 
 ### Alapvető rendelkezések
 
@@ -43,7 +35,7 @@ Az Országgyűlés az elkövetett súlyos jogsértések részbeni orvoslása, r�
 
 (6) Az ingatlanátadásra vonatkozó igény érvényesítése során az egyház erre felhatalmazott szerve járhat el. Más egyházi szerv nyilatkozata csak az említett szervtől kapott külön megbízás alapján fogadható el.
 
-#### 2/A. §
+2/A. §
 
 ### Az egyeztető bizottságok feladata és működése
 
@@ -89,7 +81,7 @@ Az Országgyűlés az elkövetett súlyos jogsértések részbeni orvoslása, r�
 
 6. § (1) Ha az érdekeltek közvetlen tárgyalása alapján a megállapodásra nem került sor, a bizottság határoz az ingatlannak a 4. § (1) bekezdésében említett jegyzékbe történő felvételéről. A bizottság határozatának tartalmaznia kell, hogy az átadáshoz előreláthatólag milyen pénzügyi fedezet, cserehelyiség szükséges, és arról ki gondoskodik. A bizottság figyelembe veszi az érdekeltek (az egyház és az ingatlan tulajdonosa, kezelője, használója) véleményét, és törekszik valamennyi érdekelt számára megfelelő megoldás kialakítására.
 
-(2) A bizottsági döntéshez be kell szerezni az ingatlan jelenlegi és tervezett használata szerint érdekelt miniszter, valamint műemlékileg védett ingatlan, illetőleg védett természeti terület esetén a kulturális örökség védelméért felelős miniszter és a természetvédelemért felelős miniszter véleményét.
+(2) A bizottsági döntéshez be kell szerezni az ingatlan jelenlegi és tervezett használata szerint érdekelt miniszter, valamint műemlékileg védett ingatlan, illetőleg védett természeti terület esetén a kultúráért felelős miniszter és a természetvédelemért felelős miniszter véleményét.
 
 (3) A bizottság ülésére az igényeket a miniszter megbízottja terjeszti elő. Az előterjesztést megelőzően az érdekeltek jogosultak álláspontjukat nyilatkozatban rögzíteni. Az előterjesztésben ismertetni kell az 5. § szerinti eljárás lényegét, és csatolni kell az előterjesztéshez az érdekeltek nyilatkozatait.
 
@@ -105,21 +97,21 @@ Az Országgyűlés az elkövetett súlyos jogsértések részbeni orvoslása, r�
 
 (2) A jegyzékbe felvett ingatlanokat – évenkénti egyenletes, értékarányos ütemezésben – 2011. december 31-ig kell az egyháznak átadni.
 
-(3) A Kormány az (1) bekezdés szerint tett bejelentés alapján és a (2) bekezdésben foglaltakra tekintettel indítványozza az Országgyűlésnek az ingatlanátadáshoz szükséges pénzügyi fedezetnek a központi költségvetésről szóló törvényben való biztosítását. Ha az Országgyűlés az indítványnak nem ad helyt, a Kormány a jóváhagyott jegyzékben — az egyház, szükség esetén a bizottság meghallgatása után — az átadás határidejét módosítja.
+(3) A Kormány az (1) bekezdés szerint tett bejelentés alapján és a (2) bekezdésben foglaltakra tekintettel indítványozza az Országgyűlésnek az ingatlanátadáshoz szükséges pénzügyi fedezetnek az éves állami költségvetésben való biztosítását. Ha az Országgyűlés az indítványnak nem ad helyt, a Kormány a jóváhagyott jegyzékben — az egyház, szükség esetén a bizottság meghallgatása után — az átadás határidejét módosítja.
 
 (4) A jegyzék módosítását az ingatlan átadásának tervezett évét megelőző év március 31-éig kezdeményezheti az egyház, az ingatlantulajdonos helyi önkormányzat, a bizottság más tagja, továbbá az ingatlan kezelője, ha az ingatlan birtokbaadása az egyház részére már megtörtént. A módosításra a jegyzékbe vételre vonatkozó eljárás szabályait kell megfelelően alkalmazni.
 
 (5) Az (1) bekezdésben szereplő jegyzék szerinti ingatlanokat a tulajdonosnak, a használónak, a vagyonkezelőnek az átadásig megfelelő módon karban kell tartania, ezen kötelezettség teljesítését az átvevő jogosult figyelemmel kísérni.
 
-9. § (1) A Kormány döntésének végrehajtásaként a miniszter — a 8. § (1) bekezdése szerint tett bejelentés alapján — a központi költségvetésről szóló törvény elfogadását követő 30 napon belül határozattal intézkedik az ingatlannak az egyház által meghatározott egyházi jogi személy részére való tulajdonba adása és a tulajdonjognak az ingatlannyilvántartásba való bejegyzése, illetőleg a 2. § (4) bekezdésének b) pontjában említett kártalanítás kifizetése iránt. A 2. § (3) bekezdésében említett ingatlan esetén az intézkedést a jegyzék jóváhagyását követő 30 napon belül kell megtenni.
+9. § (1) A Kormány döntésének végrehajtásaként a miniszter — a 8. § (1) bekezdése szerint tett bejelentés alapján — az éves állami költségvetés elfogadását követő 30 napon belül határozattal intézkedik az ingatlannak az egyház által meghatározott egyházi jogi személy részére való tulajdonba adása és a tulajdonjognak az ingatlannyilvántartásba való bejegyzése, illetőleg a 2. § (4) bekezdésének b) pontjában említett kártalanítás kifizetése iránt. A 2. § (3) bekezdésében említett ingatlan esetén az intézkedést a jegyzék jóváhagyását követő 30 napon belül kell megtenni.
 
 (2) Az (1) bekezdésben említett határozatban a kisajátítási eljárás szabályainak megfelelő alkalmazásával rendelkezni kell a helyi önkormányzat tulajdonjogának, illetőleg a kezelő kezelői jogának megvonásáról, az ingatlan birtokba adásának időpontjáról, az ingatlan tulajdonosának, kezelőjének, használójának és egyéb, az ingatlannyilvántartásba bejegyzett jogosultjának a kártalanításáról.
 
-10. § (1) A kártalanítási döntéskor a bizottsági határozatot, illetőleg az azt megelőző eljárás adatait kell alapul venni. A kártalanítást úgy kell meghatározni, hogy az ingatlan használójának a megfelelő elhelyezése biztosítható legyen. Ha az elhelyezésről az ingatlantulajdonos helyi önkormányzat, illetőleg az ingatlan kezelője vagy alapító szerve nem tud gondoskodni, a kincstári ingatlanokból adható csereingatlan, illetőleg a csereingatlan megszerzéséhez a pénzügyi fedezetet a központi költségvetés biztosítja. A kártalanításra a kisajátítási kártalanítás szabályait kell megfelelően alkalmazni.
+10. § (1) A kártalanítási döntéskor a bizottsági határozatot, illetőleg az azt megelőző eljárás adatait kell alapul venni. A kártalanítást úgy kell meghatározni, hogy az ingatlan használójának a megfelelő elhelyezése biztosítható legyen. Ha az elhelyezésről az ingatlantulajdonos helyi önkormányzat, illetőleg az ingatlan kezelője vagy alapító szerve nem tud gondoskodni, a kincstári ingatlanokból adható csereingatlan, illetőleg a csereingatlan megszerzéséhez a pénzügyi fedezetet az állami költségvetés biztosítja. A kártalanításra a kisajátítási kártalanítás szabályait kell megfelelően alkalmazni.
 
 (2) A kezelő a kezelői jogáért kártalanításra akkor jogosult, ha azt ellenértékért saját pénzeszközéből szerezte. A saját pénzeszközből végzett értéknövelő beruházásért kártalanítás akkor is jár, ha egyébként a kezelő a kezelői jogért kártalanításra nem jogosult.
 
-(3) A kártalanítás pénzügyi fedezetének biztosítását a központi költségvetés helyett az érdekelt egyház is vállalhatja úgy, hogy az állam részéről történő visszafizetésre a Kormánnyal megállapodik.
+(3) A kártalanítás pénzügyi fedezetének biztosítását az állami költésgvetés helyett az érdekelt egyház is vállalhatja úgy, hogy az állam részéről történő visszafizetésre a Kormánnyal megállapodik.
 
 11. § (1)
 
@@ -144,13 +136,15 @@ Az Országgyűlés az elkövetett súlyos jogsértések részbeni orvoslása, r�
 
 (5) A (3) bekezdésben foglalt tilalom alól — az érdekelt egyház egyetértésével — a miniszter felmentést adhat.
 
-### Közigazgatási per
+### Felülvizsgálat
 
-13. § (1) A miniszter e törvényben megállapított hatáskörében hozott határozata – a (3) bekezdésben foglalt kivétellel – közigazgatási ügyben eljáró bíróság előtt megtámadható.
+13. § (1) A miniszter e törvényben megállapított hatáskörében hozott határozatának felülvizsgálatát — a (4) bekezdésben foglalt kivétellel — törvénysértésre hivatkozással a bíróságtól lehet kérni. A perre a Polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetének rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy a perre az ingatlan fekvése szerinti megyei bíróságnak, illetőleg a Fővárosi Bíróságnak van hatásköre és illetékessége.
 
-(2) A bíróság a 12. § (2) bekezdésében említett határozat elleni per megindításáról – a perindítás bejegyzése végett – haladéktalanul értesíti az ingatlanügyi hatóságot.
+(2) A bíróság a 12. § (2) bekezdésében említett határozat elleni kereset benyújtásáról — a perindítás bejegyzése végett — haladéktalanul értesíti az ingatlanügyi hatóságot.
 
-(3) Ha a miniszter határozata a Kormány döntésének nem felel meg, vagy az előírt határidőben a miniszter nem határoz, az egyház, az ingatlan tulajdonosa, kezelője, használója, és az, akire a döntés kötelezettséget állapít meg, a Kormányhoz fordulhat intézkedésért.
+(3) A bíróság a tulajdonos, kezelő, használó kártalanítására vonatkozó döntést, valamint a 12. § (2) bekezdése alapján hozott határozatot megváltoztathatja. A 12. § (1) bekezdésében említett határozat ellen benyújtott keresetnek a bejegyzés végrehajtására nincs halasztó hatálya.
+
+(4) Ha a miniszter határozata a Kormány döntésének nem felel meg, illetőleg az előírt határidőben a miniszter nem határoz, az egyház, az ingatlan tulajdonosa, kezelője, használója, illetőleg az, akire a döntés kötelezettséget állapít meg, a Kormányhoz fordulhat intézkedésért.
 
 ### Az ingatlan közvetlen igénylése
 
@@ -160,31 +154,19 @@ Az Országgyűlés az elkövetett súlyos jogsértések részbeni orvoslása, r�
 
 (3) Ha az ingatlantulajdonos helyi önkormányzat, az ingatlan kezelője és a használó a használat megszüntetésében nem tudott megállapodni, a tulajdonos, a kezelő az ingatlan használatára fennálló jogviszonyt felmondhatja. A felmondásra a lakások és a helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 26. §-át, továbbá a 43. § (1) bekezdését kell megfelelően alkalmazni.
 
-(4) E § szerint történő ingatlanátadáshoz szükséges kártalanításról az átadó szerv vagy az alapító szerve gondoskodik. E célra a Kormány az Országgyűlés döntése alapján a központi költségvetésből pénzügyi fedezetet biztosít. Az erre irányuló kérelmet a miniszterhez kell benyújtani, csatolva a megállapodás tervezetét.
-
-14/A. § (1) Az egyház igényelheti az eredetileg is közvetlenül hitéleti, szakrális célokra épített, állami vagy önkormányzati tulajdonban álló ingatlan vagy ingatlanhányad (e § alkalmazásában a továbbiakban együtt: használati joggal érintett ingatlan) ingyenes egyházi tulajdonba adását, amennyiben azokat az egyház az egyházakat érintő egyes törvények módosításáról szóló 2022. évi LXXVIII. törvény (a továbbiakban: Módtv1.) hatálybalépésekor és a (2) bekezdés szerinti igény benyújtásakor is közvetlenül hitéleti, illetve szakrális célokra használja.
-
-(2) A használati joggal érintett ingatlant használó egyház az (1) bekezdés szerinti igényét 2026. december 31. napjáig nyújthatja be, az állam tulajdonában álló ingatlanok esetében az állam nevében tulajdonosi jogokat gyakorló szervezethez, helyi önkormányzati tulajdonban álló ingatlan esetében a tulajdonos helyi önkormányzat képviselő-testületéhez.
-
-(3) Az állami tulajdonban álló, használati joggal érintett ingatlant – az erre vonatkozó, (2) bekezdés szerint benyújtott egyházi igény esetén – az állam nevében tulajdonosi jogokat gyakorló szervezet, az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter szakpolitikai javaslata alapján ingyenesen, ingatlan-nyilvántartási bejegyzésre alkalmas tulajdonátruházási megállapodás megkötésével az igénylést benyújtó egyház tulajdonába adja, az igénylés (2) bekezdés szerinti benyújtását követő legkésőbb 120 napon belül. A megállapodásban az ingatlan forgalmi értékeként az állam nevében tulajdonosi jogokat gyakorló szervezet által megállapított forgalmi értéket kell megjelölni.
-
-(4) A helyi önkormányzati tulajdonban álló, használati joggal érintett ingatlant az erre vonatkozó egyházi igény (2) bekezdés szerinti benyújtását követő legkésőbb 120 napon belül a helyi önkormányzat – a képviselő-testület ingyenes tulajdonba adásról szóló határozata alapján – ingatlan-nyilvántartási bejegyzésre alkalmas tulajdonátruházási megállapodás megkötésével az igénylést benyújtó egyház tulajdonába adja. A megállapodásban az ingatlan forgalmi értékeként a helyi önkormányzat által megállapított forgalmi értéket kell megjelölni.
-
-(5) Amennyiben az (1) bekezdés szerinti ingatlanhasználat csak az ingatlan egy, természetben meghatározható részét érinti, és az ingatlan megosztása jogszabály alapján lehetséges, az ingatlant meg kell osztani. Amennyiben az ingatlan megosztása nem lehetséges, a (3) és (4) bekezdés szerinti megállapodásban, vagy azzal összefüggésben külön megállapodásban rendelkezni kell az ingatlanhasználat megosztásáról is.
-
-(6) Az e § szerinti vagyonjuttatás az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+(4) E § szerint történő ingatlanátadáshoz szükséges kártalanításról az átadó szerv vagy az alapító szerve gondoskodik. E célra a Kormány az Országgyűlés döntése alapján az állami költségvetésből pénzügyi fedezetet biztosít. Az erre irányuló kérelmet a miniszterhez kell benyújtani, csatolva a megállapodás tervezetét.
 
 ### Egyéb rendelkezések
 
-#### 15. §
+15. §
 
-16. § (1) A helyi önkormányzatokról szóló 1990. évi LXV. törvény 107. §-ának (3) bekezdése alapján Kormány általános hatáskörű területi államigazgatási szervének döntése, illetőleg külön törvény alapján nem kerülhet a helyi önkormányzat tulajdonába az az ingatlan, amelyet e törvényben említett jegyzék (7. §) szerint egyházi tulajdonba kell adni.
+16. § (1) A helyi önkormányzatokról szóló 1990. évi LXV. törvény 107. §-ának (3) bekezdése alapján a megyei (fővárosi) vagyonátadó bizottságok döntése, illetőleg külön törvény alapján nem kerülhet a helyi önkormányzat tulajdonába az az ingatlan, amelyet e törvényben említett jegyzék (7. §) szerint egyházi tulajdonba kell adni.
 
-(2) Azok az állami tulajdonú ingatlanok, amelyekre e törvény szerint az elidegenítési és terhelési tilalmat az ingatlannyilvántartásba bejegyezték, de a jegyzékben nem szerepelnek, a miniszter hozzájárulásával kerülhetnek — az (1) bekezdésben említett módon — a helyi önkormányzat tulajdonába. A döntéshez be kell szerezni az érdekelt egyház, továbbá műemlékileg védett ingatlan, illetőleg védett természeti terület esetén a kulturális örökség védelméért felelős miniszter és a természetvédelemért felelős miniszter véleményét.
+(2) Azok az állami tulajdonú ingatlanok, amelyekre e törvény szerint az elidegenítési és terhelési tilalmat az ingatlannyilvántartásba bejegyezték, de a jegyzékben nem szerepelnek, a miniszter hozzájárulásával kerülhetnek — az (1) bekezdésben említett módon — a helyi önkormányzat tulajdonába. A döntéshez be kell szerezni az érdekelt egyház, továbbá műemlékileg védett ingatlan, illetőleg védett természeti terület esetén a kultúráért felelős miniszter és a természetvédelemért felelős miniszter véleményét.
 
-(3) A jogerős bírósági határozat meghozataláig nem kerülhetnek a helyi önkormányzat tulajdonába az (1) bekezdésben említett módon azok az ingatlanok, amelyek esetén a 12. § (2) bekezdése alapján hozott határozatot közigazgatási perben megtámadták.
+(3) A jogerős bírósági határozat meghozataláig nem kerülhetnek a helyi önkormányzat tulajdonába az (1) bekezdésben említett módon azok az ingatlanok, amelyek esetén a 12. § (2) bekezdése alapján hozott határozat bírósági felülvizsgálatát kérték.
 
-(4) A jegyzékről és az egyházak bejelentett ingatlanigényéről a miniszter a Kormány általános hatáskörű területi államigazgatási szervét tájékoztatja.
+(4) A jegyzékről és az egyházak bejelentett ingatlanigényéről a miniszter a megyei (fővárosi) vagyonátadó bizottságot tájékoztatja.
 
 (5)
 
@@ -209,8 +191,6 @@ Az Országgyűlés az elkövetett súlyos jogsértések részbeni orvoslása, r�
 
 (4) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a 3. § (2) bekezdése szerinti minisztereket.
 
-#### 21. §
+21–22. §
 
-#### 22. §
-
-#### 23. §
+23. §

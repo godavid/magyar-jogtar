@@ -2,7 +2,7 @@
 
 a területszervezési eljárásról
 
-Az Országgyűlés a megyét, a várost, illetve a községet érintő területszervezési ügyek intézéséről a következő törvényt alkotja:
+Az Országgyűlés a Magyar Köztársaság Alkotmányában és a helyi önkormányzatokról szóló 1990. évi LXV. törvényben (a továbbiakban: Ötv.) meghatározott területszervezési ügyek intézéséről a következő törvényt alkotja:
 
 ### A törvény alkalmazási köre
 
@@ -23,7 +23,7 @@ Az Országgyűlés a megyét, a várost, illetve a községet érintő területs
 
 2. § Az állami területi tagozódást érintő területszervezési kezdeményezésről az Országgyűlés, a köztársasági elnök – az országgyűlési képviselői és az önkormányzati általános választás évének kivételével – évente egy alkalommal dönt.
 
-3. § (1) Az Országgyűlés hatáskörébe tartozó ügyben a döntés megalapozott előkészítése érdekében a helyi kezdeményezést a helyi önkormányzatok törvényességi felügyeletéért felelős miniszterhez (a továbbiakban: miniszter) az országgyűlési képviselők általános választásának éve kivételével minden év április 30-áig lehet felterjeszteni.
+3. § (1) Az Országgyűlés hatáskörébe tartozó ügyben a döntés megalapozott előkészítése érdekében a helyi kezdeményezést a helyi önkormányzatokért felelős miniszterhez (a továbbiakban: miniszter) az országgyűlési képviselők általános választásának éve kivételével minden év április 30-áig lehet felterjeszteni.
 
 (2) A Kormány – a miniszter augusztus 30-áig tett előterjesztése alapján – a helyi kezdeményezést, illetőleg saját kezdeményezését szeptember 30-áig nyújtja be az Országgyűlésnek, amely arról december 31-éig dönt.
 
@@ -35,11 +35,11 @@ Az Országgyűlés a megyét, a várost, illetve a községet érintő területs
 
 (3) A döntés az önkormányzati általános választás napján lép hatályba.
 
-5. § A területszervezési eljárásban – amennyiben az érintett önkormányzat területén helyi nemzetiségi önkormányzat működik – a polgármester az előkészítő eljárás során kéri a helyi nemzetiségi önkormányzat véleményét, és erről a képviselő-testületet tájékoztatja.
+5. § A területszervezési eljárásban – amennyiben az érintett önkormányzat területén helyi kisebbségi önkormányzat működik – a polgármester az előkészítő eljárás során kéri a helyi kisebbségi önkormányzat véleményét, és erről a képviselő-testületet tájékoztatja.
 
-6. § (1) A polgármester, a főpolgármester a kezdeményezést az előkészítő iratokkal együtt a fővárosi és megyei kormányhivatal útján terjeszti fel a miniszternek.
+6. § (1) A polgármester, a főpolgármester a kezdeményezést az előkészítő iratokkal együtt a közigazgatási hivatal útján terjeszti fel a miniszternek.
 
-(2) A fővárosi és megyei kormányhivatal ellenőrzi az eljárás törvényességét, értékeli a kezdeményezés törvényi feltételeinek a teljesítését. A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv az iratokat az érkezést követő nyolc napon belül véleményével együtt felterjeszti a miniszternek.
+(2) A közigazgatási hivatal ellenőrzi az eljárás törvényességét, értékeli a kezdeményezés törvényi feltételeinek a teljesítését. A közigazgatási hivatal az iratokat az érkezést követő nyolc napon belül véleményével együtt felterjeszti a miniszternek.
 
 ### Település átcsatolása másik megyéhez
 
@@ -86,11 +86,11 @@ Az Országgyűlés a megyét, a várost, illetve a községet érintő területs
 
 (2) A miniszter május 30-áig határozatban dönt arról, hogy nem terjeszti elő a kezdeményezést, ha a községgé nyilvánítás törvényi feltétele hiányzik, illetve a jogszabályban előírt eljárási szabályt nem tartottak meg. A határozatot a miniszter a meghozatalától számított 3 napon belül az előkészítő bizottságnak és az érdekelt önkormányzat polgármesterének küldi meg.
 
-12. § (1) Az előkészítő bizottság, a képviselő-testület a miniszter határozatának felülvizsgálatát a kézbesítéstől számított 30 napon belül a miniszternek benyújtott kérelemben a Fővárosi Törvényszéktől kérheti. A miniszter az iratokat a kérelem beérkezésétől számított 3 napon belül megküldi a bírósághoz.
+12. § (1) Az előkészítő bizottság, a képviselő-testület a miniszter határozatának felülvizsgálatát a kézbesítéstől számított 30 napon belül a miniszternek benyújtott kérelemben a Fővárosi Bíróságtól kérheti. A miniszter az iratokat a kérelem beérkezésétől számított 3 napon belül megküldi a bírósághoz.
 
 (2) A bíróság az ügyben a beérkezéstől számított 30 napon belül nemperes eljárásban dönt. Végzésében a kérelmet elutasítja, vagy a miniszter határozatát hatályon kívül helyezi. A végzés ellen fellebbezésnek helye nincs. A miniszter a határozat hatályon kívül helyezése esetén november 30-áig nyújtja be a kezdeményezést a köztársasági elnöknek.
 
-13. § Községgé nyilvánítás esetén a választást követően legkésőbb 6 hónapon belül az érdekelt képviselő-testületek állapodnak meg a vagyon, a közigazgatási terület megosztásában, az új közigazgatási határvonalban. Megállapodás hiányában bármelyik érdekelt önkormányzat keresete alapján a törvényszék dönt.
+13. § Községgé nyilvánítás esetén a választást követően legkésőbb 6 hónapon belül az érdekelt képviselő-testületek állapodnak meg a vagyon, a közigazgatási terület megosztásában, az új közigazgatási határvonalban. Megállapodás hiányában bármelyik érdekelt önkormányzat keresete alapján a megyei bíróság dönt.
 
 ### Településegyesítés
 
@@ -118,7 +118,7 @@ Az Országgyűlés a megyét, a várost, illetve a községet érintő területs
 
 (2) A kezdeményezés felterjesztésekor a képviselő-testület a határozatában vállalja, hogy a várossá nyilvánítás esetén ellátja a városi önkormányzatok és szerveik részére jogszabályban előírt kötelezettségeket, megteremti azok végrehajtásának szervezeti és személyi feltételeit.
 
-17. § (1) A miniszter a várossá nyilvánítási kezdeményezések értékelésére a településtudomány, a közgazdaságtan, a közigazgatás- és műszaki tudományok, az országos önkormányzati érdekképviseleti szervezetek, a KSH képviselőjéből és más szakemberekből álló – legfeljebb 15 tagú – bizottságot kér fel. A bizottság tagjainak megbízatása a miniszterelnök megbízatásának időtartamára szól. A miniszter a bizottság javaslatainak figyelembevételével május 31-éig tesz javaslatot várossá nyilvánításra a köztársasági elnöknek, akit ezzel egyidejűleg – álláspontját indokolva – tájékoztat azokról a kezdeményezésekről, melyeket döntésre nem terjeszt elő. A köztársasági elnök június 30-áig dönt a várossá nyilvánításról, döntését a Magyar Közlönyben közzéteszi.
+17. § (1) A miniszter a várossá nyilvánítási kezdeményezések értékelésére a településtudomány, a közgazdaságtan, a közigazgatás- és műszaki tudományok, az országos önkormányzati érdekképviseleti szervezetek, a KSH képviselőjéből és más szakemberekből álló – legfeljebb 15 tagú – bizottságot kér fel. A bizottság tagjainak megbízatása a Kormány megbízatásának időtartamára szól. A miniszter a bizottság javaslatainak figyelembevételével május 31-éig tesz javaslatot várossá nyilvánításra a köztársasági elnöknek, akit ezzel egyidejűleg – álláspontját indokolva – tájékoztat azokról a kezdeményezésekről, melyeket döntésre nem terjeszt elő. A köztársasági elnök június 30-áig dönt a várossá nyilvánításról, döntését a Magyar Közlönyben közzéteszi.
 
 (2) A várossá nyilvánításról szóló döntés Magyar Közlönyben történő közzétételét követő 5 napon belül a miniszter tájékoztatja az érintett képviselő-testületet arról, hogy a kezdeményezésüket miért nem lehetett még döntésre előterjeszteni, megjelölve, hogy mely területeken, milyen fejlesztések szükségesek az előterjesztéshez. Ha a képviselő-testület fenntartja a kezdeményezését, az eredmények elérését követő év január 31-éig – az önkormányzati választás évének kivételével – a felterjesztés kiegészítésével ismételheti meg a kezdeményezését.
 
@@ -128,7 +128,7 @@ Az Országgyűlés a megyét, a várost, illetve a községet érintő területs
 
 18. § (1) Az Ötv. 56. §-a (3) bekezdése alapján létrehozott, területrész átadását előkészítő bizottság javaslatot készít az átadásra kerülő területrész területére, az új közigazgatási határvonalra, a vagyon megosztására, a költségek viselésére. A javaslat a területrész szempontjából bemutatja a lakott területrész átadásának részletes körülményeit, előnyeit, illetőleg feltételeit, így különösen: a fogadó települési önkormányzat székhelyétől való kisebb távolságot, a lakosság számára előnyösebb megközelítést, a közigazgatási, az intézményi és egyéb lakossági szolgáltatások igénybevételének előnyeit; megvizsgálja és bemutatja, hogy az átadás jár-e hátrányokkal az átadó település önkormányzatára, lakosságára nézve.
 
-(2) A javaslat elkészítéséhez – az előkészítő bizottság felkérésére – a fővárosi és megyei kormányhivatal szakmai segítséget ad, más szerv pedig szakmai segítséget adhat.
+(2) A javaslat elkészítéséhez – az előkészítő bizottság felkérésére – a közigazgatási hivatal szakmai segítséget ad, más szerv pedig szakmai segítséget adhat.
 
 (3) A képviselő-testületek előzetes megállapodásáról, az előkészítő bizottság javaslatáról és a lakott területrész átadásának részletes feltételeiről a lakosságot a helyi népszavazás előtt tájékoztatni kell.
 

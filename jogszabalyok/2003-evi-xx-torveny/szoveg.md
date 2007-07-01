@@ -30,7 +30,7 @@ a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény, valamint az ez
 
 (8) Az e törvény 45. §-ával megállapított rendelkezés alapján annak a közalkalmazottnak, aki e törvény 45. §-ának hatálybalépését megelőzően hivatásos nevelőszülői jogviszonyban állt, a közalkalmazotti jogviszonyban töltött idejét e törvény kihirdetésétől számított 30 napon belül az e törvény 45. §-ának rendelkezései szerint kell megállapítani, és besorolását ennek megfelelően kell módosítani.
 
-(9)
+(9) Az e törvény 31. §-a (1) bekezdés b) pontjának rendelkezése az e törvény hatálybalépése előtt létesített határozott időtartamú közszolgálati jogviszonyt nem érinti.
 
 (10) A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvénynek e törvénnyel megállapított rendelkezéseit az e törvény hatálybalépését követően megindított munkaügyi ellenőrzés tekintetében kell alkalmazni.
 

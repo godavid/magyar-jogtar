@@ -9,8 +9,8 @@ Az Országgyűlés a jogállam kiépítése, az alkotmányos rend és az Alkotm�
 1. § Az Alkotmánybíróság hatáskörébe tartozik:
 
 - a) a már elfogadott, de még ki nem hirdetett törvény, az Országgyűlés ügyrendje és a nemzetközi szerződés egyes rendelkezései alkotmányellenességének előzetes vizsgálata;
-- b) a jogszabály, valamint a közjogi szervezetszabályozó eszköz alkotmányellenességének utólagos vizsgálata;
-- c) a jogszabály, valamint a közjogi szervezetszabályozó eszköz nemzetközi szerződésbe ütközésének vizsgálata;
+- b) a jogszabály, valamint az állami irányítás egyéb jogi eszköze alkotmányellenességének utólagos vizsgálata;
+- c) a jogszabály, valamint az állami irányítás egyéb jogi eszköze nemzetközi szerződésbe ütközésének vizsgálata;
 - d) az Alkotmányban biztosított jogok megsértése miatt benyújtott alkotmányjogi panasz elbírálása;
 - e) a mulasztásban megnyilvánuló alkotmányellenesség megszüntetése;
 - f) az állami szervek, továbbá az önkormányzat és más állami szervek, illetőleg az önkormányzatok között felmerült hatásköri összeütközés megszüntetése;
@@ -23,9 +23,9 @@ Az Országgyűlés a jogállam kiépítése, az alkotmányos rend és az Alkotm�
 
 3. § Az Alkotmánybíróság székhelye Esztergom.
 
-4. § (1) Az Alkotmánybíróság tizenöt tagból — köztük az elnökből és helyettes elnökből — álló testület.
+4. § (1) Az Alkotmánybíróság tizenegy tagból — köztük az elnökből és helyettes elnökből — álló testület.
 
-(2) Az Alkotmánybíróság a tagjai közül három évre megválasztja a helyettes elnökét, aki e tisztségre újraválasztható. Az újraválasztás nem érinti az Alkotmánybíróság tagjának megbízatási idejét.
+(2) Az Alkotmánybíróság a tagjai közül három évre megválasztja az elnökét és helyettes elnökét, akik e tisztségre újraválaszthatók. Az újraválasztás nem érinti az Alkotmánybíróság tagjának megbízatási idejét.
 
 5. § (1) Az Alkotmánybíróság tagjává minden olyan jogi végzettségű, büntetlen előéletű magyar állampolgár megválasztható, aki 45. életévét betöltötte.
 
@@ -33,7 +33,7 @@ Az Országgyűlés a jogállam kiépítése, az alkotmányos rend és az Alkotm�
 
 (3) Az Alkotmánybíróságnak nem lehet tagja az, aki a választást megelőző négy évben a kormány tagja vagy valamely párt alkalmazottja volt, valamint az sem, aki vezető államigazgatási tisztséget töltött be.
 
-6. § Az Alkotmánybíróság tagjaira és elnökére az Országgyűlésben képviselettel rendelkező pártok képviselőcsoportjai által jelölt legalább kilenc és legfeljebb tizenöt képviselőből álló jelölő bizottság tesz javaslatot. A bizottságban a képviselőcsoportok legalább egy-egy képviselőjének helyet kell kapnia.
+6. § Az Alkotmánybíróság tagjaira az Országgyűlésben képviselettel rendelkező pártok képviselőcsoportjai által jelölt képviselőkből álló jelölő bizottság tesz javaslatot.
 
 7. § A javasolt személyeket az Országgyűlés jogi, igazgatási és igazságügyi bizottsága meghallgatja.
 
@@ -41,7 +41,7 @@ Az Országgyűlés a jogállam kiépítése, az alkotmányos rend és az Alkotm�
 
 (2) Ha az Országgyűlés a jelölteket nem választja meg, a 6. §-ban meghatározott jelölő bizottság még azon az ülésszakon, de legkésőbb tizenöt napon belül új javaslatot tesz.
 
-(3) Az Alkotmánybíróság tagja tizenkét évre kerül megválasztásra. Az Alkotmánybíróság tagja egyszer újraválasztható.
+(3) Az Alkotmánybíróság tagja kilenc évre kerül megválasztásra. Az Alkotmánybíróság tagja egyszer újraválasztható.
 
 (4) Az Alkotmánybíróság új tagját az elődje megbízási idejének lejártát megelőző három hónapon belül kell megválasztani. Ha az Országgyűlést előzőleg feloszlatták, a választást az újonnan megválasztott Országgyűlés alakuló ülését követő egy hónapon belül kell megtartani.
 
@@ -226,37 +226,35 @@ Az Országgyűlés a jogállam kiépítése, az alkotmányos rend és az Alkotm�
 
 ### Az alkotmányellenesség utólagos vizsgálata
 
-37. § Az alkotmányellenesség utólagos megállapítását kezdeményező indítványban javasolni kell a jogszabály vagy a közjogi szervezetszabályozó eszköz teljes vagy részbeni megsemmisítését.
+37. § Az alkotmányellenesség utólagos megállapítását kezdeményező indítványban javasolni kell a jogszabály vagy az állami irányítás egyéb jogi eszközének teljes vagy részbeni megsemmisítését.
 
-38. § (1) A bíró — a bírósági eljárás felfüggesztése mellett — az Alkotmánybíróság eljárását kezdeményezi, ha az előtte folyamatban levő ügy elbírálása során olyan jogszabályt vagy közjogi szervezetszabályozó eszközt kell alkalmazni, amelynek alkotmányellenességét észleli.
+38. § (1) A bíró — a bírósági eljárás felfüggesztése mellett — az Alkotmánybíróság eljárását kezdeményezi, ha az előtte folyamatban levő ügy elbírálása során olyan jogszabályt vagy állami irányítás egyéb jogi eszközét kell alkalmazni, amelynek alkotmányellenességét észleli.
 
 (2) Kérelemben a bíró (1) bekezdés szerinti eljárását kezdeményezheti az, aki szerint a folyamatban lévő ügyében alkalmazandó jogszabály alkotmányellenes.
 
-39. § Ha a Kormány rendeleténél alacsonyabb szintű törvénysértő jogszabállyal, illetőleg a közjogi szervezetszabályozó eszközzel szemben az ügyész — általános törvényességi felügyeleti jogkörében — óvást nyújtott be, amellyel az aktust kibocsátó szerv nem ért egyet, e szerv az óvást az Alkotmánybíróság elé terjeszti elbírálás végett, és erről az előterjesztés indokainak közlésével az ügyészt értesíti.
+39. § Ha a Kormány rendeleténél alacsonyabb szintű törvénysértő jogszabállyal, illetőleg az állami irányítás egyéb jogi eszközével szemben az ügyész — általános törvényességi felügyeleti jogkörében — óvást nyújtott be, amellyel az aktust kibocsátó szerv nem ért egyet, e szerv az óvást az Alkotmánybíróság elé terjeszti elbírálás végett, és erről az előterjesztés indokainak közlésével az ügyészt értesíti.
 
-40. § Ha az Alkotmánybíróság a jogszabály, illetőleg a közjogi szervezetszabályozó eszköz alkotmányellenességét állapítja meg, a jogszabályt vagy a közjogi szervezetszabályozó eszközt teljesen vagy részben megsemmisíti. A költségvetésről, a költségvetés végrehajtásáról, a központi adónemekről, illetékekről és járulékokról, a vámokról, valamint a helyi adók központi feltételeiről szóló törvényeket, vagy törvényi rendelkezéseket az Alkotmánybíróság kizárólag akkor semmisíti meg, ha azok tartalma az élethez és emberi méltósághoz való jogot, a személyes adatok védelméhez való jogot, a gondolat, lelkiismeret és vallás szabadságát, vagy a magyar állampolgársághoz kapcsolódó, az Alkotmány 69. §-a szerinti jogokat sérti.
+40. § Ha az Alkotmánybíróság a jogszabály, illetőleg az állami irányítás egyéb jogi eszközének alkotmányellenességét állapítja meg, a jogszabályt vagy az állami irányítás egyéb jogi eszközét teljesen vagy részben megsemmisíti.
 
-41. § Az Alkotmánybíróság a megsemmisítésről szóló határozatát közzé teszi a Magyar Közlönyben, illetőleg abban a hivatalos lapban, amelyben a közjogi szervezetszabályozó eszközt közzé tették.
+41. § Az Alkotmánybíróság a megsemmisítésről szóló határozatát közzé teszi a Magyar Közlönyben, illetőleg abban a hivatalos lapban, amelyben az állami irányítás egyéb jogi eszközét közzé tették.
 
-42. § (1) A 40. §-ban foglalt esetben a határozat közzétételét követő napon veszti hatályát a jogszabály vagy annak rendelkezése, és minősül visszavontnak a közjogi szervezetszabályozó eszköz vagy annak rendelkezése.
+42. § (1) A 40. §-ban foglalt esetben a határozat közzétételének napján veszti hatályát a jogszabály vagy annak rendelkezése, és minősül visszavontnak az állami irányítás egyéb jogi eszköze vagy annak rendelkezése.
 
 (2) A már kihirdetett, de még hatályba nem lépett jogszabály az alkotmányellenességének megállapítása esetén nem lép hatályba.
 
-43. § (1) Azt a jogszabályt vagy a közjogi szervezetszabályozó eszközt, amelyet az Alkotmánybíróság a határozatában megsemmisít, az erről szóló határozatnak a hivatalos lapban való közzétételét követő naptól nem lehet alkalmazni.
+43. § (1) Azt a jogszabályt vagy az állami irányítás egyéb jogi eszközét, amelyet az Alkotmánybíróság a határozatában megsemmisít, az erről szóló határozatnak a hivatalos lapban való közzététele napjától nem lehet alkalmazni.
 
-(2) A jogszabálynak vagy a közjogi szervezetszabályozó eszköz megsemmisítése, — (3) bekezdésben foglalt eset kivételével — nem érinti a határozat közzététele napján vagy azt megelőzően létrejött jogviszonyokat, s a belőlük származó jogokat és kötelezettségeket.
+(2) A jogszabálynak vagy az állami irányítás egyéb jogi eszközének megsemmisítése, — (3) bekezdésben foglalt eset kivételével — nem érinti a határozat közzététele előtt létrejött jogviszonyokat, s a belőlük származó jogokat és kötelezettségeket.
 
-(3) Az Alkotmánybíróság elrendeli az alkotmányellenes jogszabály vagy közjogi szervezetszabályozó eszköz alapján jogerős határozattal lezárt büntetőeljárás felülvizsgálatát, ha az elítélt még nem mentesült a hátrányos következmények alól, és az eljárásban alkalmazott rendelkezés semmisségéből a büntetés, illetőleg intézkedés csökkentése vagy mellőzése, illetőleg a felelősség alóli mentesülés vagy annak korlátozása következne.
+(3) Az Alkotmánybíróság elrendeli az alkotmányellenes jogszabály vagy állami irányítás egyéb jogi eszköze alapján jogerős határozattal lezárt büntetőeljárás felülvizsgálatát, ha az elítélt még nem mentesült a hátrányos következmények alól, és az eljárásban alkalmazott rendelkezés semmisségéből a büntetés, illetőleg intézkedés csökkentése vagy mellőzése, illetőleg a felelősség alóli mentesülés vagy annak korlátozása következne.
 
 (4) Az Alkotmánybíróság a 42. § (1) bekezdésében, valamint a 43. § (1)—(2) bekezdésében meghatározott időponttól eltérően is meghatározhatja az alkotmányellenes jogszabály hatályon kívül helyezését vagy a konkrét esetben történő alkalmazhatóságát, ha ezt a jogbiztonság, vagy az eljárást kezdeményező különösen fontos érdeke indokolja.
 
-(5) A (4) bekezdés nem alkalmazható, ha az Alkotmánybíróság a törvényt vagy a törvényi rendelkezést az Alkotmány 32/A. § (3) bekezdése alapján nem semmisítheti meg.
-
 ### A nemzetközi szerződésbe ütközés vizsgálata
 
-44. § Az Alkotmánybíróság hivatalból, illetőleg a 21. § (3) bekezdésében meghatározott szervek vagy személyek indítványára a nemzetközi szerződésbe ütközés szempontjából megvizsgálja a jogszabályt vagy a közjogi szervezetszabályozó eszközt.
+44. § Az Alkotmánybíróság hivatalból, illetőleg a 21. § (3) bekezdésében meghatározott szervek vagy személyek indítványára a nemzetközi szerződésbe ütközés szempontjából megvizsgálja a jogszabályt vagy az állami irányítás egyéb jogi eszközét.
 
-45. § (1) Ha az Alkotmánybíróság megállapítja, hogy a nemzetközi szerződést kihirdető jogszabállyal azonos vagy annál alacsonyabb szintű jogszabály, illetőleg a közjogi szervezetszabályozó eszköz a nemzetközi szerződésbe ütközik, akkor a nemzetközi szerződéssel ellentétes jogszabályt, illetőleg közjogi szervezetszabályozó eszközt teljesen vagy részben megsemmisíti.
+45. § (1) Ha az Alkotmánybíróság megállapítja, hogy a nemzetközi szerződést kihirdető jogszabállyal azonos vagy annál alacsonyabb szintű jogszabály, illetőleg az állami irányítás egyéb jogi eszköze a nemzetközi szerződésbe ütközik, akkor a nemzetközi szerződéssel ellentétes jogszabályt, illetőleg állami irányítás egyéb jogi eszközét teljesen vagy részben megsemmisíti.
 
 (2) A megsemmisítésről szóló határozat közzétételére, valamint a megsemmisítés jogkövetkezményeire a 41—43. §-ban foglaltak az irányadók.
 
@@ -284,7 +282,7 @@ Az Országgyűlés a jogállam kiépítése, az alkotmányos rend és az Alkotm�
 
 ### Hatásköri összeütközés
 
-50. § (1) Ha — a bíróságok és a közigazgatási hatóságok kivételével — az állami szervek között, továbbá az önkormányzatok között, illetőleg az önkormányzat és — a bíróságok és a közigazgatási hatóságok kivételével — az állami szervek között hatásköri összeütközés merül fel, ezek a szervek az Alkotmánybíróságnál indítványozhatják a hatásköri összeütközés megszüntetését.
+50. § (1) Ha — a bíróságok kivételével — az állami szervek között, továbbá az önkormányzatok között, illetőleg az önkormányzat és — a bíróságok kivételével — az állami szervek között hatásköri összeütközés merül fel, ezek a szervek az Alkotmánybíróságnál indítványozhatják a hatásköri összeütközés megszüntetését.
 
 (2) Az Alkotmánybíróság — az indítványozó meghallgatása nélkül — dönt arról, hogy a felmerült vitában mely szervnek van hatásköre, és kijelöli az eljárásra kötelezettet.
 
@@ -322,4 +320,4 @@ Az Országgyűlés a jogállam kiépítése, az alkotmányos rend és az Alkotm�
 
 (2) Az Alkotmányjogi Tanácshoz benyújtott és az e törvény hatálybalépéséig el nem bírált indítványokat és alkotmányjogi panaszokat az Alkotmánybíróság bírálja el.
 
-59. § Ahol e törvény közjogi szervezetszabályozó eszközt említ, azon az állami irányítás egyéb jogi eszközét is érteni kell.
+59. §

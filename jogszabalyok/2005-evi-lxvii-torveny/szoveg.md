@@ -4,38 +4,19 @@ a budapesti 4-es – Budapest Kelenföldi pályaudvar–Bosnyák tér közötti 
 
 1. § A Magyar Állam (a továbbiakban: Állam) a központi költségvetésből támogatást nyújt Budapest Főváros Önkormányzata (a továbbiakban: Főváros) részére a budapesti 4-es metróvonal Budapest Kelenföldi pályaudvar– Bosnyák tér között történő megépítéséhez.
 
-2. § (1) Az Állam által a Főváros részére nyújtott támogatás általános forgalmi adó nélkül számított legmagasabb folyóáras összegét, az 5. §-ban meghatározott Magyar Állam és Budapest Főváros Önkormányzata között létrejött szerződés módosításáról szóló szerződésben kell meghatározni.
+2. § (1) Az Állam által a Főváros részére nyújtott támogatás maximális összege 2002. évi áron, általános forgalmi adó nélkül összesen 208 869,6 millió forint.
 
 (2) A kontrollpozíció gyakorlását segítő szakértői szolgáltatás igénybevételére az Állam az állami támogatásból évente legfeljebb 50 millió forint összeget felhasználhat, amelyből a tárgyévben fel nem használt részt a tárgyévet követő kettő hónapon belül az Állam a Főváros számára a budapesti 4-es metróvonal megépítéséhez nyújtandó állami támogatásként igénybe vehetővé tesz a Fővárossal kötendő szerződésben foglalt rendelkezéseknek megfelelően.
 
 3. § A Főváros a 2. §-ban megállapított állami támogatást a beruházás pénzügyi szükségletének megfelelően, a finanszírozási szerződésben meghatározott arányos finanszírozás szerint veheti igénybe. A költségvetési évre jóváhagyott támogatás igénybe nem vett része a következő költségvetési években is igénybe vehető.
 
-4. § Az állami támogatásból az 1. §-ban meghatározott beruházás Budapest Kelenföldi pályaudvar-Budapest Keleti pályaudvar közötti szakaszának megvalósításához szükséges folyóáras összeget, és a 2. § (2) bekezdésében meghatározott összeget az e § szerinti beruházási szakasz megvalósulásáig Magyarország éves költségvetési törvényeinek Uniós fejlesztések fejezetében kell kiadásként előirányozni.
+4. § Az Állam által vállalt támogatási kötelezettség folyóáras összegét, valamint az állami támogatás felhasználásának állami kontrolljára fordítandó összeget a 2006–2010. évekre vonatkozó éves költségvetésben kiadásként elő kell irányozni a Helyi önkormányzatok támogatása fejezetben.
 
-5. § (1) Az Országgyűlés felhívja a Nemzeti Fejlesztési Ügynökség elnökét, és Budapest Főváros főpolgármesterét, hogy a Kormány jóváhagyásával megkössék az 1. §-ban meghatározott beruházás közös finanszírozásáról a Magyar Állam és Budapest Főváros Önkormányzata között létrejött szerződés módosításáról szóló szerződést.
-
-(1a) Az (1) bekezdésben meghatározott szerződés tekintetében az államot a közlekedésért felelős miniszter képviseli. Az (1) bekezdésben meghatározott szerződés módosításához a Kormány jóváhagyása szükséges.
-
-(2) Az állami támogatás átlátható, célszerű és hatékony felhasználása érdekében a szerződés módosítása során biztosítani kell – a 2. § (2) bekezdésében és a 4. §-ában foglaltakon túlmenően – az európai uniós forrásból finanszírozott Közlekedés Operatív Program projektjeivel kapcsolatos támogatási szerződések előírásainak megfelelő alkalmazását.
-
-(3) A (2) bekezdésben foglaltak teljesülése érdekében a szerződésmódosítás során biztosítani kell
-
-- a) a pénzügyi elszámolások formai követelményei, azok benyújtásával, ellenőrzésével kapcsolatos követelmények és határidők,
-- b) a támogatás kifizetésének részletes szabályainak valamint határidejének,
-- c) a műszaki teljesítés igazolások ellenőrzése részletes szabályainak, a projekt megvalósításhoz kapcsolódó beszámolási és jelentéstételi kötelezettségeknek,
-- d) a projekt megvalósítása során keletkezett dokumentumok elkülönített nyilvántartására vonatkozó előírások,
-- e) a támogatás felhasználása ellenőrzése részletes szabályainak,
-- f) a Főváros és harmadik személyek közötti szerződésekkel szemben támasztott követelmények,
-- g) a közbeszerzések ellenőrzésére vonatkozó követelmények,
-- h) a szerződésmódosítással kapcsolatos szabályok és határidők,
-- i) a szerződéstől való elállás eseteire vonatkozó szabályok,
-- j) a támogatás felfüggesztésének eseteire vonatkozó szabályok,
-- k) a tájékoztatás és nyilvánosságra vonatkozó követelmények, és
-- l) az 1. §-ban meghatározott beruházás eredményeként létrejövő, illetve beszerzésre kerülő vagyon támogatási célnak megfelelő fenntartására, és az Európai Unió pénzügyi alapjaiból folyósított támogatásokból megvalósított műveletek tartósságára vonatkozó követelmények érvényre juttatását.
+5. § Az Országgyűlés felhatalmazza az államháztartásért felelős minisztert, hogy a Kormány jóváhagyásával megkösse a Fővárossal a beruházás első – Budapest Kelenföldi pályaudvar–Budapest Keleti pályaudvar közötti – szakasza közös finanszírozásáról rendelkező szerződést módosító szerződést, amelyben a jelen törvényben meghatározott feltételek szerint vállalhat kötelezettséget az állami támogatás folyósításának módosítására.
 
 6. § Az Állam felfüggesztheti a beruházás támogatásának folyósítását, ha a Főváros az általa vállalt finanszírozási kötelezettségének nem tesz eleget.
 
-7. § A budapesti 4-es – Budapest Kelenföldi pályaudvar–Bosnyák tér közötti – metróvonal megvalósítása során létrehozott azon vagyontárgynak, amely a helyi önkormányzatokról szóló törvény alapján törzsvagyonná nyilvánítható, a beruházó által helyi (fővárosi) önkormányzat részére ellenérték nélkül történő olyan átadása, amely az általános forgalmi adóról szóló törvény szerinti termékértékesítésnek minősül, továbbá helyi (fővárosi) önkormányzat részére a 4-es metróvonal megvalósítása részeként a beruházó által történő olyan ellenérték nélküli szolgáltatásnyújtás, amelynek tárgya a helyi (fővárosi) önkormányzat törzsvagyonába tartozó vagyontárgy lebontása, bővítése, felújítása, átalakítása, helyreállítása, korszerűsítése, áthelyezése adó- és illetékmentes.
+7. § A budapesti 4-es – Budapest Kelenföldi pályaudvar–Bosnyák tér közötti – metróvonal megvalósítása során létrehozott azon vagyontárgynak, amely a helyi önkormányzatokról szóló 1990. évi LXV. törvény 79. § (1) bekezdése alapján törzsvagyonná nyilvánítható, a beruházó által helyi (fővárosi) önkormányzat részére ellenérték nélkül történő olyan átadása, amely az általános forgalmi adóról szóló 1992. évi LXXIV. törvény 7. § (1) bekezdés a) pontja szerinti termékértékesítésnek minősül, továbbá helyi (fővárosi) önkormányzat részére a 4-es metróvonal megvalósítása részeként a beruházó által történő olyan ellenérték nélküli szolgáltatásnyújtás, amelynek tárgya a helyi (fővárosi) önkormányzat törzsvagyonába tartozó vagyontárgy lebontása, bővítése, felújítása, átalakítása, helyreállítása, korszerűsítése, áthelyezése adó- és illetékmentes.
 
 8–9. §
 
@@ -45,6 +26,6 @@ a budapesti 4-es – Budapest Kelenföldi pályaudvar–Bosnyák tér közötti 
 
 (3) A jelen törvény 2. §-ában meghatározott támogatási összeg tartalmazza a 2003. évi LV. törvény 2. §-ában meghatározott támogatási összeget is.
 
-(4)
+(4) A Magyar Köztársaság 2005. évi költségvetéséről szóló törvényben a IX. Helyi önkormányzatok támogatásai fejezet, 9. cím Budapest 4-es – Budapest Kelenföldi pályaudvar–Bosnyák tér közötti – metróvonal első szakasza építésének támogatása előirányzat felhasználható a jelen törvénnyel jóváhagyott feladatok finanszírozására is.
 
 11. § Ez a törvény a kihirdetését követő 8. napon lép hatályba.

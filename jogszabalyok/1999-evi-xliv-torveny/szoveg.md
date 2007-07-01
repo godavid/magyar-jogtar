@@ -8,7 +8,7 @@ a közjegyzőkről szóló 1991. évi XLI. törvény módosításáról
 
 (2)–(3)
 
-(4) 2000. január 1-jét követően a törvényszék elnöke gondoskodik a közjegyzői levéltárba kerülő okiratoknak, nyilvántartásoknak és bélyegzőknek a Magyar Országos Közjegyzői Kamara részére történő átadásáról.
+(4) 2000. január 1-jét követően a Fővárosi, megyei bíróság elnöke gondoskodik a közjegyzői levéltárba kerülő okiratoknak, nyilvántartásoknak és bélyegzőknek a Magyar Országos Közjegyzői Kamara részére történő átadásáról.
 
 (5)
 
@@ -16,4 +16,4 @@ a közjegyzőkről szóló 1991. évi XLI. törvény módosításáról
 
 67. § (1)
 
-(2) E törvény céljával és a Ktv. 16. §-ában foglaltakkal összhangban az igazságügyért felelős miniszter a Magyar Országos Közjegyzői Kamara és az Országos Bírósági Hivatal elnöke véleményének beszerzését követően, a közjegyzői szolgáltatások zavartalan és megfelelő színvonalú biztosítása érdekében évente köteles felülvizsgálni a közjegyzői állások számát és székhelyét.
+(2) E törvény céljával és a Ktv. 16. §-ában foglaltakkal összhangban az igazságügyért felelős miniszter a Magyar Országos Közjegyzői Kamara és az Országos Igazságszolgáltatási Tanács véleményének beszerzését követően, a közjegyzői szolgáltatások zavartalan és megfelelő színvonalú biztosítása érdekében évente köteles felülvizsgálni a közjegyzői állások számát és székhelyét.

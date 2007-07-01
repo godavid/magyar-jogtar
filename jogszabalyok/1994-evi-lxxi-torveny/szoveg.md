@@ -12,10 +12,6 @@ a választottbíráskodásról
 
 (2) Az ügyek meghatározott körére törvény előírhatja valamely állandó választottbíróság kizárólagos hatáskörét, és e választottbíróság eljárásról e törvénytől eltérően rendelkezhet.
 
-(3) Kizárólag magyarországi székhelyű, ennek hiányában telephelyű felek között megkötött szerződésből fakadó, belföldön fekvő ingatlannal kapcsolatos dologi jogi hatályú jogot, valamint bérleti és haszonbérleti szerződést érintő jogvitában – amennyiben a szerződésre a magyar jogot kell alkalmazni – kizárólag magyarországi székhelyű állandó választottbíróság járhat el saját eljárási szabályzatának alkalmazása mellett.
-
-(4) A (3) bekezdés szerinti választottbírósági eljárás nyelve a magyar.
-
 ### A választottbíróság kiköthetősége és a kikötés módja
 
 3. § (1) Bírósági peres eljárás helyett választottbírósági eljárásnak van helye, ha
@@ -26,7 +22,7 @@ a választottbíráskodásról
 
 (2) Választottbírósági eljárás az (1) bekezdés a) pontjában foglalt feltétel hiányában is kiköthető, ha azt törvény megengedi.
 
-4. § Nincs helye választottbírósági eljárásnak a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) XV–XXIII., és XXV. fejezetében szabályozott eljárásokban, továbbá olyan ügyekben, amelyekben törvény a jogvita választottbírósági eljárás keretében történő rendezését kizárja.
+4. § Nincs helye választottbírósági eljárásnak a Polgári perrendtartás (Pp.) XV—XXIII. fejezetében szabályozott eljárásokban, továbbá olyan ügyekben, amelyekben törvény a jogvita választottbírósági eljárás keretében történő rendezését kizárja.
 
 5. § (1) A választottbírósági szerződés a felek megállapodása, amely szerint meghatározott, akár szerződéses, akár szerződésen kívüli jogviszonyukból keletkezett vagy keletkező vitájukat választottbíróság elé terjesztik.
 
@@ -235,9 +231,9 @@ a kijelölés érdekében, a fél az 51. §-ban meghatározott bírósághoz for
 
 (2) A bíróság biztosítási intézkedést rendelhet el a választottbíróság előtt folyamatban lévő ügyben, ha a biztosítási intézkedést kérő fél a követelésének létrejöttét, mennyiségét és lejártát közokirattal vagy teljes bizonyító erejű magánokirattal igazolja.
 
-(3) Ha a választottbíróság előtt a bizonyítási eljárás lefolytatása jelentős nehézséggel vagy aránytalanul nagy költségtöbblettel járna, a választottbíróság megkeresésére a járásbíróság a bizonyítás lefolytatásával, valamint a választottbíróság által lefolytatott bizonyítás során szükséges kényszerítő eszközök alkalmazásával jogsegélyt nyújt.
+(3) Ha a választottbíróság előtt a bizonyítási eljárás lefolytatása jelentős nehézséggel vagy aránytalanul nagy költségtöbblettel járna, a választottbíróság megkeresésére a helyi bíróság a bizonyítás lefolytatásával, valamint a választottbíróság által lefolytatott bizonyítás során szükséges kényszerítő eszközök alkalmazásával jogsegélyt nyújt.
 
-(4) A választottbíróság azt a járásbíróságot keresi meg, amelynek területén a bizonyítás a legcélszerűbben lefolytatható. Budapesten a Pesti Központi Kerületi Bíróság jár el.
+(4) A választottbíróság azt a helyi bíróságot keresi meg, amelynek területén a bizonyítás a legcélszerűbben lefolytatható. Budapesten a Pesti Központi Kerületi Bíróság jár el.
 
 ### V. Fejezet — HATÁROZATHOZATALÉS AZ ELJÁRÁS MEGSZŰNÉSE
 
@@ -341,9 +337,9 @@ a kijelölés érdekében, a fél az 51. §-ban meghatározott bírósághoz for
 
 ### Hatáskör, illetékesség
 
-51. § A választottbírósági eljárással kapcsolatos ügyek — a 37. §-ban szabályozott kivételekkel — a törvényszék hatáskörébe tartoznak.
+51. § A választottbírósági eljárással kapcsolatos ügyek — a 37. §-ban szabályozott kivételekkel — a megyei bíróság hatáskörébe tartoznak.
 
-52. § A választottbírósági eljárással kapcsolatos ügyekben az a törvényszék illetékes, amelynek területén az alperes székhelye (telephelye) található, vagy amelynek területén a jogvitához vezető szerződéskötés történt. Ha az illetékes bíróság ily módon nem állapítható meg, a Fővárosi Törvényszék jár el.
+52. § A választottbírósági eljárással kapcsolatos ügyekben az a megyei bíróság illetékes, amelynek területén az alperes székhelye (telephelye) található, vagy amelynek területén a jogvitához vezető szerződéskötés történt. Ha az illetékes bíróság ily módon nem állapítható meg, a Fővárosi Bíróság jár el.
 
 53. § A bíróság — kivéve a választottbírósági ítélet érvénytelenítése iránti pert — nemperes eljárásban, népi ülnökök közreműködése nélkül jár el. Határozata ellen jogorvoslatnak nincs helye.
 

@@ -12,15 +12,15 @@ A törvény célja, hogy – az európai belső piac kiteljesedése, valamint a 
 
 1. § (1) A magyarországi székhelyű európai szövetkezet (rövidített néven: SCE) alapítására, szervezetére, működésére és megszűnésére az európai szövetkezet (SCE) statútumáról szóló, 2003. július 22-i, 1435/2003/EK tanácsi rendeletet (a továbbiakban: Rendelet) és az e törvényben meghatározott szabályokat kell alkalmazni.
 
-(2) E törvény rendelkezéseit magyarországi székhelyű jogi személyre, valamint Magyarországon honos természetes személyre mint az európai szövetkezet alapítójára akkor is megfelelően alkalmazni kell, ha a létrejövő európai szövetkezet székhelye külföldön van.
+(2) E törvény rendelkezéseit magyarországi székhelyű jogi személyre vagy jogi személyiség nélküli gazdasági társaságra, valamint Magyarországon honos természetes személyre mint az európai szövetkezet alapítójára akkor is megfelelően alkalmazni kell, ha a létrejövő európai szövetkezet székhelye külföldön van.
 
 (3) A magyarországi székhelyű európai szövetkezet alapítása és működése során a munkavállalóknak az európai szövetkezet döntéshozatali rendjébe történő bevonását e törvény második részében foglalt szabályok szerint kell biztosítani.
 
 (4) E törvény második részének rendelkezéseit megfelelően alkalmazni kell a részt vevő jogalanyok (52. §), az európai szövetkezet, ezek leányvállalata vagy telephelye belföldön foglalkoztatott munkavállalói képviselőinek (a különleges tárgyaló testület és a képviseleti testület tagjainak, valamint az európai szövetkezet felügyelőbizottságában, illetve igazgatótanácsában lévő munkavállalói küldötteknek) a megválasztására, visszahívására, valamint a részt vevő jogalanyok, az európai szövetkezet, az üzemi tanács, a munkavállalók és a munkavállalói képviselők ezzel kapcsolatos jogaira és kötelességeire, akkor is, ha a létrejövő európai szövetkezet székhelye külföldön van.
 
-(5) Ahol e törvény vagy a Rendelet az európai szövetkezet székhely szerinti tagállamának vagy az érintett tagállamnak a szövetkezetekre vonatkozó jogszabályaira utal, belföldi székhelyű európai szövetkezet vagy alapító esetében azon a Polgári Törvénykönyvnek a szövetkezetekre vonatkozó rendelkezéseit kell érteni.
+(5) Ahol e törvény vagy a Rendelet az európai szövetkezet székhely szerinti tagállamának vagy az érintett tagállamnak a szövetkezetekre vonatkozó jogszabályaira utal, belföldi székhelyű európai szövetkezet vagy alapító esetében azon a szövetkezetekről szóló 2006. évi X. törvényt (a továbbiakban: Sztv.), és az Sztv. 107. §-ának (3) bekezdésében foglalt felhatalmazás alapján kiadott kormányrendeletet kell érteni.
 
-(6) Ahol a Rendelet az európai szövetkezet székhely szerinti tagállamának vagy az érintett tagállamnak a részvénytársaságokra vonatkozó jogszabályaira utal, azon a Polgári Törvénykönyvnek a részvénytársaságokra vonatkozó rendelkezéseit, illetve a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) rendelkezéseit kell érteni.
+(6) Ahol a Rendelet az európai szövetkezet székhely szerinti tagállamának vagy az érintett tagállamnak a részvénytársaságokra vonatkozó jogszabályaira utal, azon a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.), illetve a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) rendelkezéseit kell érteni.
 
 (7) Ha törvény valamely tevékenység folytatására szövetkezeti formát ír elő, illetve amennyiben törvény valamely tevékenység végzését szövetkezeti formában lehetővé teszi, azon az európai szövetkezeti formát is érteni kell.
 
@@ -38,7 +38,7 @@ minősül.
 
 ### A cégbíróság hatásköre
 
-3. § A Rendelet 7., 29., 30., 35., 54. és 76. cikkében meghatározott esetekben illetékes hatóságnak az a törvényszék mint cégbíróság (a továbbiakban: cégbíróság) minősül, amelynek illetékességi területén az európai szövetkezet, a Rendelet 29. cikkének (2) bekezdésében, egyesülés esetében az alapító székhelye van. A Rendelet 73. cikkében meghatározott esetekben illetékes hatóságnak a cégbíróság minősül azzal, hogy az európai szövetkezet felszámolását az európai szövetkezet székhelye szerint illetékes törvényszék rendeli el.
+3. § A Rendelet 7., 29., 30., 35., 54. és 76. cikkében meghatározott esetekben illetékes hatóságnak az a megyei (fővárosi) bíróság mint cégbíróság (a továbbiakban: cégbíróság) minősül, amelynek illetékességi területén az európai szövetkezet, a Rendelet 29. cikkének (2) bekezdésében, egyesülés esetében az alapító székhelye van. A Rendelet 73. cikkében meghatározott esetekben illetékes hatóságnak a cégbíróság minősül azzal, hogy az európai szövetkezet felszámolását az európai szövetkezet székhelye szerint illetékes megyei (fővárosi) bíróság rendeli el.
 
 ### II. Fejezet — AZ EURÓPAI SZÖVETKEZET ALAPÍTÁSA
 
@@ -66,11 +66,11 @@ minősül.
 
 6. § (1) A nem egységes irányítási rendszerű európai szövetkezet ügyvezetését igazgatóság látja el, amely az alapszabályban meghatározott létszámú, de legalább három természetes személy tagból áll.
 
-(2) Tizenöt főnél kisebb létszámú európai szövetkezetben az alapszabály az igazgatóság helyett igazgató elnöki tisztséget rendszeresíthet. Az igazgató elnök az igazgatóság hatáskörében jár el.
+(2) Ötven főnél kisebb létszámú európai szövetkezetben az alapszabály az igazgatóság helyett ügyvezető elnöki tisztséget rendszeresíthet. Az ügyvezető elnök az igazgatóság hatáskörében jár el.
 
-(3) A nem egységes irányítási rendszerű európai szövetkezet vezető tisztségviselői az igazgatóság tagjai, vagy az igazgató elnök.
+(3) A nem egységes irányítási rendszerű európai szövetkezet vezető tisztségviselői az igazgatóság tagjai, vagy az ügyvezető elnök.
 
-(4) Az igazgatóság tagjait, illetve az igazgató elnököt a közgyűlés választja meg és hívja vissza.
+(4) Az igazgatóság tagjait, illetve az ügyvezető elnököt a közgyűlés választja meg és hívja vissza.
 
 7. § (1) Az európai szövetkezet felügyelőbizottsága az alapszabályban meghatározott számú, de legalább három természetes személy tagból áll.
 
@@ -91,8 +91,8 @@ minősül.
 - a) az európai szövetkezet munkavállalója vagy volt munkavállalója e jogviszonyának megszűnésétől számított öt évig,
 - b) az európai szövetkezet vagy igazgatótanácsa számára és javára ellenérték fejében szakértői vagy más megbízási jogviszonyban tevékenységet folytat,
 - c) az európai szövetkezet eredményes működése esetén igazgatótanácsi tagsága alapján vagyoni juttatásokra jogosult (pl. jegyzési jogot biztosító kötvény, sikerdíj),
-- d) az európai szövetkezet valamely – nem független – igazgatótanácsi tagjának vagy vezető állású munkavállalójának Polgári Törvénykönyv szerinti közeli hozzátartozója vagy élettársa,
-- e) az európai szövetkezet igazgatótanácsának nem független tagjával egy másik jogi személyben olyan jogviszonyban áll, amely alapján a nem független tagnak irányítási, ellenőrzési joga van,
+- d) az európai szövetkezet valamely – nem független – igazgatótanácsi tagjának vagy vezető állású munkavállalójának közeli hozzátartozója [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pont] vagy élettársa,
+- e) az európai szövetkezet igazgatótanácsának nem független tagjával egy másik gazdálkodó szervezetben [Ptk. 685. § c) pont] olyan jogviszonyban áll, amely alapján a nem független tagnak irányítási, ellenőrzési joga van,
 - f) az európai szövetkezet független könyvvizsgálója, a könyvvizsgáló alkalmazottja vagy üzlettársa e jogviszony megszűnésétől számított három évig.
 
 9. § (1) Ha az európai szövetkezet tevékenységének jellege vagy más ésszerű ok indokolja, a szövetkezet az alapszabályban bizottságokat (jelölési, javadalmazási bizottság stb.) hozhat létre.
@@ -111,13 +111,13 @@ minősül.
 
 ### IV. Fejezet — SZÉKHELYÁTHELYEZÉS
 
-10. § (1) Ha az európai szövetkezet székhelyének egy másik tagállamba történő áthelyezését határozza el, a szövetkezet köteles – a (3) bekezdésben meghatározott kivétellel – azon hitelezőknek, akiknek a szövetkezettel szemben fennálló követelései a székhelyáthelyezésről hozott döntés közzétételét megelőzően keletkeztek, követeléseik erejéig biztosítékot nyújtani, ha a székhelyáthelyezés a követelések kielégítését veszélyezteti.
+10. § (1) Ha az európai szövetkezet székhelyének egy másik tagállamba történő áthelyezését határozza el, a szövetkezet köteles – a (3) bekezdésben meghatározott kivétellel – azon hitelezőknek, akiknek a szövetkezettel szemben fennálló, le nem járt követelései a székhelyáthelyezésről hozott döntés közzétételét megelőzően keletkeztek, követeléseik erejéig biztosítékot nyújtani.
 
 (2) A hitelező a biztosítékadásra vonatkozó igényét a székhelyáthelyezésről hozott döntés közzétételét követő 30 napos jogvesztő határidőn belül jelentheti be az európai szövetkezet igazgatóságának (igazgatótanácsának).
 
-(3) Nem jogosult biztosítékra a hitelező, ha már rendelkezik a székhelyáthelyezéshez kapcsolódó kockázattal arányos biztosítékkal, vagy az európai szövetkezet székhelyáthelyezés utáni pénzügyi, vagyoni helyzetére tekintettel a biztosítékadás indokolatlan.
+(3) Nem jogosult biztosítékra a hitelező, ha azzal egyébként – jogszabály rendelkezése vagy szerződés alapján – már rendelkezik vagy az európai szövetkezet pénzügyi, vagyoni helyzetére tekintettel a biztosítékadás indokolatlan.
 
-(4) Az igazgatóság (igazgatótanács) a kérelem előterjesztésére biztosított határidő lejártát követő nyolc napon belül köteles határozni a kérelem tárgyában, és – az elutasítás esetén indokolással ellátott – határozatot a hitelezőnek kézbesíteni. Az elutasító vagy nem megfelelő biztosíték nyújtásáról szóló határozat felülvizsgálatát az érintett hitelező a határozat kézhezvételétől számított nyolc napon belül az európai szövetkezet székhelye szerint illetékes cégbíróságtól kérheti.
+(4) Az igazgatóság (igazgatótanács) a kérelem előterjesztésére biztosított határidő lejártát követő nyolc napon belül köteles biztosítékot nyújtani, vagy a kérelem elutasításáról indokolással ellátott határozatot a hitelezőnek kézbesíteni. Az elutasító vagy nem megfelelő biztosíték nyújtásáról szóló határozat felülvizsgálatát az érintett hitelező a határozat kézhezvételétől számított nyolc napon belül az európai szövetkezet székhelye szerint illetékes cégbíróságtól kérheti.
 
 (5) A cégbíróság – a törvényességi felügyeleti eljárásra irányadó szabályok megfelelő alkalmazásával – a kérelem előterjesztésétől számított harminc napon belül határoz. A cégbíróság az eljárás lefolytatását követően elutasítja a kérelmet, vagy az európai szövetkezetet megfelelő biztosíték nyújtására kötelezi.
 
@@ -145,7 +145,7 @@ minősül.
 
 15. § (1) A kizárólag természetes személyek vagy egyetlen részt vevő jogalany és természetes személyek által létrehozandó európai szövetkezet esetében a munkavállalók bevonására a 16–52. § rendelkezéseit akkor kell alkalmazni, ha az alapítók – legalább két tagállamban – összesen legalább ötven munkavállalót foglalkoztatnak.
 
-(2) Ha a munkavállalók létszáma – függetlenül attól, hogy őket egy vagy több tagállamban foglalkoztatják – nem éri el az ötvenet vagy az ötvenet meghaladja, de foglalkoztatásukra egyetlen tagállamban kerül sor, a munkavállalóknak az európai szövetkezet döntéshozatali rendjébe történő bevonására az európai szövetkezet, illetve magyarországi telephelye és leányvállalata esetében a Polgári Törvénykönyv szövetkezetekre vonatkozó rendelkezéseit kell alkalmazni.
+(2) Ha a munkavállalók létszáma – függetlenül attól, hogy őket egy vagy több tagállamban foglalkoztatják – nem éri el az ötvenet vagy az ötvenet meghaladja, de foglalkoztatásukra egyetlen tagállamban kerül sor, a munkavállalóknak az európai szövetkezet döntéshozatali rendjébe történő bevonására az európai szövetkezet, illetve magyarországi telephelye és leányvállalata esetében az Sztv. szabályait kell alkalmazni.
 
 (3) Ha a (2) bekezdés hatálya alá tartozó európai szövetkezet bejegyzése után az európai szövetkezetben, annak telephelyein és leányvállalataiban foglalkoztatott összes munkavállaló – legalább két tagállamban foglalkoztatott – legalább egyharmada ezt kéri vagy a legalább két tagállamban foglalkoztatott összes munkavállaló száma eléri az ötven főt, a munkavállalóknak az európai szövetkezet döntéshozatali rendjébe történő bevonására a 16–52. § rendelkezéseit kell megfelelően alkalmazni.
 
@@ -156,7 +156,7 @@ minősül.
 - a) a 19–31. §-ban meghatározott eljárás alapján, vagy
 - b) e törvényben meghatározott esetekben, a VIII. fejezet rendelkezései szerint kell megállapítani.
 
-(2) Az e törvény által nem szabályozott kérdésekben az európai szövetkezet, annak leányvállalata vagy telephelye belföldön foglalkoztatott munkavállalóinak tájékoztatási és konzultációs jogaira a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit kell alkalmazni.
+(2) Az e törvény által nem szabályozott kérdésekben az európai szövetkezet, annak leányvállalata vagy telephelye belföldön foglalkoztatott munkavállalóinak tájékoztatási és konzultációs jogaira a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Munka Törvénykönyve) rendelkezéseit kell alkalmazni.
 
 (3) Az e rész szerinti tárgyalások és eljárások során a különleges tárgyaló testület, a képviseleti testület, a munkavállalói képviselők, az európai szövetkezet igazgatósága, igazgatótanácsa (vagy az általuk felhatalmazott más szerv), továbbá a felügyelőbizottság és a részt vevő jogalanyok ügyvezető szervei a jóhiszeműség és tisztesség követelményeinek megfelelően, kölcsönösen együttműködve kötelesek eljárni.
 
@@ -213,7 +213,7 @@ minősül.
 
 (4) A munkavállalói képviselő megválasztásával kapcsolatos feladatok lebonyolítása a választási bizottság feladata. A választási bizottság három tagból áll, akiket a munkavállalók közvetlenül választanak. A választási bizottság meghatározza a választás eljárási rendjét, időpontját, gondoskodik a választás lebonyolításáról és megállapítja a szavazatszámlálás szabályait.
 
-(5) Munkavállalói képviselővé az a cselekvőképes munkavállaló választható, aki a munkáltatóval legalább hat hónapja munkaviszonyban áll. A választásra jogosult, valamint a választható munkavállalók jegyzékét a munkáltatónak a választási bizottság kérésére öt napon belül rendelkezésre bocsátott adatai alapján a választási bizottság állapítja meg és teszi közzé. A választás érvényességére az Mt. 247. § (1) bekezdésében foglaltak irányadók. Érvénytelen választás esetén a választást harminc napon belül meg kell ismételni. A megismételt választást akkor kell érvényesnek tekinteni, ha azon a választásra jogosultak több mint egyharmada jelen van.
+(5) Munkavállalói képviselővé az a cselekvőképes munkavállaló választható, aki a munkáltatóval legalább hat hónapja munkaviszonyban áll. A választásra jogosult, valamint a választható munkavállalók jegyzékét a munkáltatónak a választási bizottság kérésére öt napon belül rendelkezésre bocsátott adatai alapján a választási bizottság állapítja meg és teszi közzé. A választás érvényességére a Munka Törvénykönyvének 51/A. § (1) bekezdésében foglaltak irányadók. Érvénytelen választás esetén a választást harminc napon belül meg kell ismételni. A megismételt választást akkor kell érvényesnek tekinteni, ha azon a választásra jogosultak több mint egyharmada jelen van.
 
 (6) A munkavállalók képviselőjének azt a munkavállalót kell tekinteni, aki a leadott érvényes szavazatok közül a legtöbbet megszerezte.
 
@@ -245,7 +245,7 @@ minősül.
 
 (2) A különleges tárgyaló testület jogosult tájékoztatni az eljárásban nem érintett szakszervezeteket és más külső szervezeteket is a tárgyalások megkezdéséről.
 
-28. § A különleges tárgyaló testület működésével és a tárgyalásokkal kapcsolatban felmerülő indokolt és szükséges költségeket (helyiség, szakértői és tolmácsdíj, utazási és szállásköltség stb.) – az általuk foglalkoztatott munkavállalók arányában – a részt vevő jogalanyok viselik.
+28. § A különleges tárgyaló testület működésével és a tárgyalásokkal kapcsolatban felmerülő indokolt és szükséges költségeket (helyiség, szakértői és tolmácsdíj, utazási és szállásköltség stb.) – az általuk foglalkoztatott munkavállalók arányában – a részt vevő jogalanyok viselik. A részt vevő jogalanyok által viselt költségek mértékének megállapítására a Munka Törvénykönyvének 63. §-át megfelelően alkalmazni kell.
 
 ### A különleges tárgyaló testület határozatai
 
@@ -260,13 +260,13 @@ minősül.
 
 a részvételi jogok csökkentéséhez a különleges tárgyaló testület – a teljes taglétszámához képest számított – kétharmados szótöbbséggel meghozott határozata szükséges. E határozat csak akkor hozható meg, ha az igenlő szavazatot leadó tagok az összes munkavállalónak legalább – két különböző tagállamban foglalkoztatott – kétharmadát képviselik.
 
-30. § (1) A különleges tárgyaló testület – a teljes taglétszámához képest számított – kétharmados szótöbbséggel hozott határozatával, feltéve, hogy e tagok a részt vevő jogalanyok valamennyi munkavállalójának legalább – két különböző tagállamban foglalkoztatott – kétharmadát képviselik, úgy dönthet, hogy nem kezdi meg a tárgyalásokat vagy a már megkezdett tárgyalásokat berekeszti. Ebben az esetben az európai szövetkezet belföldön foglalkoztatott munkavállalóinak tájékoztatására és a velük való konzultációra az Mt.-nek rendelkezéseit kell alkalmazni.
+30. § (1) A különleges tárgyaló testület – a teljes taglétszámához képest számított – kétharmados szótöbbséggel hozott határozatával, feltéve, hogy e tagok a részt vevő jogalanyok valamennyi munkavállalójának legalább – két különböző tagállamban foglalkoztatott – kétharmadát képviselik, úgy dönthet, hogy nem kezdi meg a tárgyalásokat vagy a már megkezdett tárgyalásokat berekeszti. Ebben az esetben az európai szövetkezet belföldön foglalkoztatott munkavállalóinak tájékoztatására és a velük való konzultációra a Munka Törvénykönyvének rendelkezéseit kell alkalmazni.
 
 (2) A különleges tárgyaló testület az (1) bekezdés szerinti határozatot nem hozhatja meg, ha az európai szövetkezet átalakulással jön létre, és az átalakuló szövetkezetben a munkavállalóknak részvételi joga van.
 
 (3) A felek közös megegyezéssel bármikor újra megnyithatják a tárgyalásokat.
 
-(4) Az (1) bekezdés szerinti döntés meghozatalától számított két év elteltével, az európai szövetkezet, annak leányvállalatai és telephelyei munkavállalóinak tíz százaléka vagy képviselőik írásban kérhetik az európai szövetkezet igazgatóságától (igazgatótanácsától) a különleges tárgyaló testület összehívását. A kérelem alapján a testületet össze kell hívni. Ha a testület kezdeményezi a tárgyalásokat, de a felek között megállapodás nem jön létre, a belföldön foglalkoztatott munkavállalók jogaira az Mt.-nek a munkavállalók tájékoztatására és a velük való konzultációra vonatkozó rendelkezéseit kell alkalmazni.
+(4) Az (1) bekezdés szerinti döntés meghozatalától számított két év elteltével, az európai szövetkezet, annak leányvállalatai és telephelyei munkavállalóinak tíz százaléka vagy képviselőik írásban kérhetik az európai szövetkezet igazgatóságától (igazgatótanácsától) a különleges tárgyaló testület összehívását. A kérelem alapján a testületet össze kell hívni. Ha a testület kezdeményezi a tárgyalásokat, de a felek között megállapodás nem jön létre, a belföldön foglalkoztatott munkavállalók jogaira a Munka Törvénykönyvének a munkavállalók tájékoztatására és a velük való konzultációra vonatkozó rendelkezéseit kell alkalmazni.
 
 ### A munkavállalók bevonására vonatkozó megállapodás tartalma
 
@@ -307,13 +307,13 @@ a részvételi jogok csökkentéséhez a különleges tárgyaló testület – a
 
 ### Munkajogi védelem
 
-34. § (1) A különleges tárgyaló testület és a képviseleti testület belföldön foglalkoztatott tagjának és póttagjának, a tájékoztatási és konzultációs eljárásban részt vevő munkavállalói képviselőnek, továbbá az európai szövetkezet igazgatótanácsában vagy felügyelőbizottságában lévő munkavállalói küldötteknek a munkajogi védelmére az Mt. üzemi tanács tagjára vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+34. § (1) A különleges tárgyaló testület és a képviseleti testület belföldön foglalkoztatott tagjának és póttagjának, a tájékoztatási és konzultációs eljárásban részt vevő munkavállalói képviselőnek, továbbá az európai szövetkezet igazgatótanácsában vagy felügyelőbizottságában lévő munkavállalói küldötteknek a munkajogi védelmére a Munka Törvénykönyve üzemi tanács tagjára vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-(2) Az (1) bekezdésben meghatározott személy a feladatai ellátásához szükséges időtartamra mentesül a munkavégzési kötelezettsége alól, és erre az időre távolléti díja illeti meg. A képviseleti testület tagját ez a jog a továbbképzéséhez szükséges időtartamra is megilleti. A munkaidő-kedvezmény időtartamára – ha a 31. § szerinti megállapodás eltérően nem rendelkezik – az Mt. 260. § (1) bekezdése megfelelően irányadó.
+(2) Az (1) bekezdésben meghatározott személy a feladatai ellátásához szükséges időtartamra mentesül a munkavégzési kötelezettsége alól, és erre az időre távolléti díja illeti meg. A képviseleti testület tagját ez a jog a továbbképzéséhez szükséges időtartamra is megilleti. A munkaidő-kedvezmény időtartamára – ha a 31. § szerinti megállapodás eltérően nem rendelkezik – a Munka Törvénykönyve 62. §-ának (2) bekezdése megfelelően irányadó.
 
 ### Jogorvoslat
 
-35. § (1) Az e részben meghatározott jogok vagy kötelezettségek megsértése esetén a különleges tárgyaló testület, a képviseleti testület, a tájékoztatási és konzultációs eljárásban részt vevő munkavállalói képviselők – az Mt. rendelkezéseinek megfelelő alkalmazásával – az európai szövetkezet igazgatósága (igazgatótanácsa), továbbá a részt vevő jogalanyok ügyvezető szervei ellen munkaügyi jogvitát kezdeményezhetnek.
+35. § (1) Az e részben meghatározott jogok vagy kötelezettségek megsértése esetén a különleges tárgyaló testület, a képviseleti testület, a tájékoztatási és konzultációs eljárásban részt vevő munkavállalói képviselők – a Munka Törvénykönyve rendelkezéseinek megfelelő alkalmazásával – az európai szövetkezet igazgatósága (igazgatótanácsa), továbbá a részt vevő jogalanyok ügyvezető szervei ellen munkaügyi jogvitát kezdeményezhetnek.
 
 (2) Az (1) bekezdés szerinti jog az európai szövetkezet igazgatóságát (igazgatótanácsát), továbbá a részt vevő jogalanyok ügyvezető szerveit is megilleti a különleges tárgyaló testülettel, a képviseleti testülettel, illetve a munkavállalói képviselőkkel szemben.
 
@@ -365,7 +365,7 @@ a részvételi jogok csökkentéséhez a különleges tárgyaló testület – a
 
 41. § (1) A képviseleti testület – munkájának segítésére – szakértőt vehet igénybe.
 
-(2) A képviseleti testület működésével kapcsolatban felmerülő indokolt és szükséges költségeket (tárgyalások szervezése, szakértői és tolmácsdíj, utazási és szállásköltség stb.) az európai szövetkezet viseli. Ugyanígy köteles biztosítani a testület tagjainak a feladatuk megfelelő ellátásához szükséges pénzügyi és dologi eszközöket.
+(2) A képviseleti testület működésével kapcsolatban felmerülő indokolt és szükséges költségeket (tárgyalások szervezése, szakértői és tolmácsdíj, utazási és szállásköltség stb.) az európai szövetkezet viseli. Ugyanígy köteles biztosítani a testület tagjainak a feladatuk megfelelő ellátásához szükséges pénzügyi és dologi eszközöket. Az európai szövetkezet által viselt költségek mértékének megállapítására a Munka Törvénykönyvének 63. §-át megfelelően alkalmazni kell.
 
 42. § (1) A képviseleti testület megalakítását követően, a testület kérésére az európai szövetkezet igazgatósága (igazgatótanácsa) – legfeljebb – évente megvizsgálja, hogy az egyes tagállamokban foglalkoztatott munkavállalói létszám a 36. §-ban foglaltakhoz képest változott-e oly mértékben, amely a képviseleti testület létszámának, illetve összetételének a változását indokolja. A vizsgálat eredményéről a képviseleti testületet az igazgatóság (igazgatótanács) tájékoztatja.
 
@@ -407,7 +407,7 @@ a részvételi jogok csökkentéséhez a különleges tárgyaló testület – a
 
 (4) Ha az európai szövetkezet igazgatósága (igazgatótanácsa) olyan döntést hoz, amely nincs összhangban a képviseleti testület – legkésőbb – a (3) bekezdés szerinti tárgyaláson kifejtett véleményével, a testület – a megállapodás elérése érdekében – 8 napon belül írásban kezdeményezheti újabb tárgyalás tartását. Az újabb tárgyalást a kezdeményezéstől számított 15 napon belül kell megtartani. Az újabb tárgyalás megtartásáig a döntés nem hajtható végre. Ha a képviseleti testület határidőn belül nem kéri az újabb tárgyalás megtartását, vagy a tárgyaláson nem jelenik meg, illetve, ha a felek az újabb tárgyalás eredményeként sem jutnak megállapodásra, az igazgatóság (igazgatótanács) a működésére egyébként irányadó szabályok szerint jár el. Ha a tárgyaláson megállapodás jön létre, azt írásba kell foglalni.
 
-(5) Ha az európai szövetkezet igazgatósága (igazgatótanácsa) a 45–46. §-ban meghatározott eljárás rendjét megsérti, a képviseleti testület az európai szövetkezet székhelye szerinti munkaügyi perben eljáró bírósághoz fordulhat. Mind az elsőfokon, mind a másodfokon eljáró bíróság a kérelemről nemperes eljárásban, tizenöt napon belül határoz. Ha a bíróság megállapítja az eljárás rendjének megsértését, elrendeli az eljárási cselekmény végrehajtását vagy megismétlését.
+(5) Ha az európai szövetkezet igazgatósága (igazgatótanácsa) a 45–46. §-ban meghatározott eljárás rendjét megsérti, a képviseleti testület az európai szövetkezet székhelye szerinti munkaügyi bírósághoz fordulhat. Mind az elsőfokon, mind a másodfokon eljáró bíróság a kérelemről nemperes eljárásban, tizenöt napon belül határoz. Ha a bíróság megállapítja az eljárás rendjének megsértését, elrendeli az eljárási cselekmény végrehajtását vagy megismétlését.
 
 47. § (1) A képviseleti testület, illetve az ügyvezető bizottság tagjai a 45–46. § szerinti tárgyalás előtt jogosultak az igazgatóság (igazgatótanács) képviselőjének távollétében tanácskozni.
 
@@ -456,7 +456,7 @@ a részvételi jogok csökkentéséhez a különleges tárgyaló testület – a
 - j) leányvállalat: olyan gazdasági társaság vagy szövetkezet, amely felett a részt vevő jogalany vagy az európai szövetkezet meghatározó befolyást [52. § (4)–(8) bekezdés] gyakorol;
 - k) érintett leányvállalat vagy telephely: a részt vevő jogalany olyan leányvállalata vagy telephelye, amelyre nézve javasolják, hogy az európai szövetkezet alapításával annak leányvállalatává vagy telephelyévé váljon;
 - l) ügyvezető szerv: a szövetkezet igazgatósága vagy igazgatótanácsa, a részvénytársaság igazgatósága vagy igazgatótanácsa, a korlátolt felelősségű társaság ügyvezetője, továbbá más jogi személy vagy jogi személyiség nélküli szervezet ügyvezetése;
-- m) belföldön foglalkoztatott munkavállaló: a részt vevő jogalanyok, az európai szövetkezet, illetve ezek leányvállalatai vagy telephelye által Magyarország területén foglalkoztatott munkavállaló, tekintet nélkül arra, hogy az európai szövetkezet székhelye Magyarországon vagy külföldön van.
+- m) belföldön foglalkoztatott munkavállaló: a részt vevő jogalanyok, az európai szövetkezet, illetve ezek leányvállalatai vagy telephelye által Magyarország területén foglalkoztatott munkavállaló – ideértve a Munka Törvénykönyve 76/C. §-ának (2) bekezdésében foglalt esetet is –, tekintet nélkül arra, hogy az európai szövetkezet székhelye Magyarországon vagy külföldön van.
 
 (2) Az (1) bekezdés e) pontja szerinti tájékoztatásnak olyan időben, módon és tartalommal kell történnie, hogy a képviseleti testületnek, illetve a munkavállalói képviselőknek elegendő ideje és ismerete legyen a lehetséges hatások elemzésére, és ha szükséges, az igazgatósággal, igazgatótanáccsal (vagy az általa felhatalmazott más szervvel) való konzultáció előkészítésére.
 
@@ -489,9 +489,5 @@ a részvételi jogok csökkentéséhez a különleges tárgyaló testület – a
 (2) Ez a törvény az európai szövetkezet statútumának a munkavállalói részvétel tekintetében történő kiegészítéséről szóló, 2003. július 22-i 2003/72/EK tanácsi irányelvnek való megfelelést szolgálja.
 
 ### XI. Fejezet
-
-55. § E törvény az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított rendelkezéseinek az európai szövetkezet a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvénynek a szövetkezetekre vonatkozó különös átmeneti rendelkezései szerint köteles megfelelni.
-
-56–60. §
 
 ### Melléklet a 2006. évi LXIX. törvényhez

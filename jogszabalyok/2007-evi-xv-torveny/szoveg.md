@@ -14,6 +14,6 @@ a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény módosításáról
 
 (3)–(4)
 
-(5)
+(5) E törvény hatálybalépésével egyidejűleg hatályát veszti a jogalkotásról szóló 1987. évi XI. törvény 51/A. §-a és az azt megelőző cím.
 
 (6)

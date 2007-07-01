@@ -2,7 +2,7 @@
 
 egyes iparjogvédelmi és szerzői jogi jogszabályok módosításáról
 
-Magyarország nemzetközi kötelezettségvállalásainak teljesítése, a szellemi tulajdon különböző formáira vonatkozó szabályozás korszerűsítése érdekében az Országgyűlés a következő törvényt alkotja:
+A Magyar Köztársaság nemzetközi kötelezettségvállalásainak teljesítése, a szellemi tulajdon különböző formáira vonatkozó szabályozás korszerűsítése érdekében az Országgyűlés a következő törvényt alkotja:
 
 ### I. Fejezet
 
@@ -44,9 +44,9 @@ Magyarország nemzetközi kötelezettségvállalásainak teljesítése, a szelle
 
 18. §
 
-19. §
+19. § III. fejezet
 
-### III. Fejezet — ÁTMENETI RENDELKEZÉSEK
+### ÁTMENETI RENDELKEZÉSEK
 
 ### Termékoltalmi igény előterjesztése folyamatban lévő szabadalmi ügyekben
 
@@ -80,7 +80,7 @@ Magyarország nemzetközi kötelezettségvállalásainak teljesítése, a szelle
 - a) nem felelt meg a 21. § rendelkezéseinek, illetve a 22. § (1) bekezdése értelmében ki volt zárva az átmeneti szabadalmi oltalomból;
 - b) az alapul szolgáló külföldi szabadalom elsőbbsége időpontjában nem felelt meg az Szt. 1—5. §-aiban vagy 41. §-a (1) bekezdésében foglalt rendelkezéseknek, illetve az Szt. 6. §-a (3) bekezdésének b) vagy c) pontja szerint ki volt zárva a szabadalmi oltalomból.
 
-26. § (1) Az átmeneti szabadalmi oltalom megadása iránti kérelem — az alapul szolgáló külföldi szabadalom számának, valamint a bejelentő nevének és címének feltüntetésével — e törvény hatálybalépésétől számított egy éven belül nyújtható be a Szellemi Tulajdon Nemzeti Hivatalához. E határidő lejártát követően átmeneti szabadalmi oltalom nem igényelhető.
+26. § (1) Az átmeneti szabadalmi oltalom megadása iránti kérelem — az alapul szolgáló külföldi szabadalom számának, valamint a bejelentő nevének és címének feltüntetésével — e törvény hatálybalépésétől számított egy éven belül nyújtható be az Országos Találmányi Hivatalhoz. E határidő lejártát követően átmeneti szabadalmi oltalom nem igényelhető.
 
 (2) A kérelemhez mellékelni kell az alapul szolgáló külföldi szabadalom megadását igazoló okiratot és e szabadalom leírását, valamint két példányban, kinyomtatásra alkalmas formában a szabadalmi leírás magyar nyelvű fordítását. A kérelmen — külön jogszabályban meghatározott — igazgatási szolgáltatási díjat kell leróni.
 
@@ -88,9 +88,9 @@ Magyarország nemzetközi kötelezettségvállalásainak teljesítése, a szelle
 
 (4) Az átmeneti szabadalmi oltalom megadása iránti kérelem, illetve e kérelem mellékleteinek benyújtására előírt határidő elmulasztása esetén az igazolás ki van zárva.
 
-27. § (1) A Szellemi Tulajdon Nemzeti Hivatala a 21. és a 26. §-ban meghatározott feltételek vizsgálata alapján határoz az átmeneti szabadalmi oltalom megadásáról.
+27. § (1) Az Országos Találmányi Hivatal a 21. és a 26. §-ban meghatározott feltételek vizsgálata alapján határoz az átmeneti szabadalmi oltalom megadásáról.
 
-(2) Az átmeneti szabadalmi oltalom megadását be kell jegyezni a szabadalmi lajstromba, és meg kell hirdetni a Szellemi Tulajdon Nemzeti Hivatalának hivatalos lapjában.
+(2) Az átmeneti szabadalmi oltalom megadását be kell jegyezni a szabadalmi lajstromba, és meg kell hirdetni az Országos Találmányi Hivatal hivatalos lapjában.
 
 (3) Az átmeneti szabadalmi oltalom megadásáról kiállított szabadalmi okirathoz hozzá kell fűzni a kinyomtatott magyar nyelvű szabadalmi leírást és rajzot; vita esetén azonban a külföldi szabadalmi leírás szövegét kell hitelesnek tekinteni, kivéve, ha a magyar nyelvű leírás szövege szerint az oltalom terjedelme szűkebb.
 
