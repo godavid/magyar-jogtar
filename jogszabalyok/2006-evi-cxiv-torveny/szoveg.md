@@ -42,7 +42,7 @@ egyes szakképzési és felnőttképzési tárgyú törvények módosításáró
 
 (6) E törvény 27. §-ában foglalt rendelkezéseket OKJ-s képzések esetében az egyes szakképesítésekre vonatkozóan kiadásra kerülő szakmai és vizsgakövetelmények kiadását, nem OKJ-s képzések esetében a törvény hatálybalépését követően elindított képzések tekintetében kell alkalmazni.
 
-(7)
+(7) Az e törvény hatálybalépését megelőzően a szakképzési hozzájárulásra kötelezett által – külön jogszabály alapján a saját munkavállalója képzési költségeinek a szakképzési hozzájárulás terhére történő elszámolása tárgyában – benyújtott, az e törvény hatálybalépésének időpontjában a megyei (fővárosi) munkaügyi tanács által még el nem bírált kérelemről a munkaügyi tanács dönt. Az e törvény hatálybalépését megelőzően benyújtott kérelem tárgyában a megyei (fővárosi) munkaügyi tanács vagy a munkaügyi tanács által hozott elutasító döntéssel szemben a szakképzési hozzájárulásra kötelezett által benyújtott, az Országos Felnőttképzési Tanács által az e törvény hatálybalépésének időpontjában még el nem bírált fellebbezésről a Nemzeti Szakképzési és Felnőttképzési Tanács dönt.
 
 (8) E törvény rendelkezéseit a törvény hatálybalépése után indult közigazgatási hatósági ügyekben kell alkalmazni.
 
