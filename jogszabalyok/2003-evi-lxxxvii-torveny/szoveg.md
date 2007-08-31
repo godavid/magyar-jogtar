@@ -8,7 +8,7 @@ Az Országgyűlés a személyszállításban az állam által nyújtott utazási
 
 1. § Fogyasztói árkiegészítés (a továbbiakban: árkiegészítés) vehető igénybe – az e törvény II. fejezetében meghatározott feltételek szerint – a mellékletben megnevezett szolgáltatásoknak az árkiegészítés alanya (3. §) által belföldön történő nyújtása esetén.
 
-2. § E törvény alkalmazásában belföldön történő szolgáltatásnyújtás a személyszállítás útvonalának Magyarország területére eső része.
+2. § E törvény alkalmazásában belföldön történő szolgáltatásnyújtás a személyszállítás útvonalának a Magyar Köztársaság területére eső része.
 
 ### Az árkiegészítés alanya
 
@@ -25,8 +25,6 @@ Az Országgyűlés a személyszállításban az állam által nyújtott utazási
 - b) komp- és révközlekedést
 
 nyújt, amelyhez jogszabály utazási kedvezményt állapít meg.
-
-(1a) Az (1) bekezdésben meghatározott tevékenység után az árkiegészítést az autóbusszal végzett menetrend szerinti közlekedésről szóló törvényben, valamint a vasúti közlekedésről szóló törvényben meghatározott közlekedésszervező is igényelheti, ha jogszabály az árkiegészítés igénylésével kapcsolatos feladatokat az (1) bekezdésben meghatározott személyek és a közlekedésszervező között osztja meg.
 
 (2) Nem vehető igénybe árkiegészítés azon utazási kedvezmény után,
 
@@ -122,66 +120,69 @@ d = a havi bérletszelvény teljes ára.
 
 Az egyes kategóriák szerint igénybe vehető fogyasztói árkiegészítés tételek
 
-Az egyes kategóriák szerint igénybe vehető fogyasztói árkiegészítés tételek
-
-| 1. utazási kedvezmény, vasúti és távolsági autóbusz menetjegy (TESZOR 49.31.10 és 49.10.19, beleértve HÉV-közlekedés, kivéve járműszállítás a 49.10.19.-ből, TESZOR 49.39.11, TESZOR 49.31.21) |  |
+| 1. utazási kedvezmény, vasúti és távolsági autóbusz menetjegy(SZJ 60.21.10.9 és 60.10.1, beleértve HÉV-közlekedés, kivéve járműszállítás a 60.10.12.0-ból, SZJ 60.21.41.0, SZJ 60.21.31.3) Ft/5 km/db |  |
 | --- | --- |
-| km | Ft/5 km/db |
-| 0–5 | 34 |
-| 5,1–10 | 28 |
-| 10,1–50 | 21 |
-| 50,1–100 | 20 |
-| 100,1–200 | 20 |
-| 200,1–300 | 18 |
-| 300,1–500 | 16 |
-| 500,1– | 15 |
-|  |  |
-| 2. utazási kedvezmény, vasúti és távolsági autóbusz menetjegy (TESZOR 49.31.10 és 49.10.19, beleértve HÉV-közlekedés, kivéve járműszállítás a 49.10.19.-ből, TESZOR 49.39.11, TESZOR 49.31.21) |  |
-| km | Ft/5 km/db |
-| 0–5 | 62 |
-| 5,1–10 | 51 |
-| 10,1–50 | 39 |
-| 50,1–100 | 38 |
-| 100,1–200 | 38 |
-| 200,1–300 | 35 |
-| 300,1–500 | 30 |
-| 500,1– | 26 |
-|  |  |
-| 3. utazási kedvezmény, vasúti és távolsági autóbusz bérlet (TESZOR 49.31.10 és 49.10.19, beleértve HÉV-közlekedés, kivéve járműszállítás a 49.10.19.-ből, TESZOR 49.39.11) |  |
-| km | Ft/5 km/hó/db |
-| 0–5 | 2599 |
-| 5,1–10 | 2079 |
-| 10,1–15 | 1733 |
-| 15,1–20 | 1589 |
-| 20,1–25 | 1583 |
-| 25,1–30 | 1579 |
-| 30,1–35 | 1576 |
-| 35,1–40 | 1574 |
-| 40,1–45 | 1572 |
-| 45,1–50 | 1571 |
-| 50,1–60 | 1569 |
-| 60,1–70 | 1576 |
-| 70,1–80 | 1574 |
-| 80,1–90 | 1572 |
-| 90,1–100 | 1571 |
-| 100,1–120 | 1550 |
-| 120,1–140 | 1531 |
-| 140,1–160 | 1502 |
-| 160,1–180 | 1484 |
-| 180,1–200 | 1458 |
-| 200,1–220 | 1431 |
-| 220,1–240 | 1420 |
-| 240,1–260 | 1388 |
-| 260,1–280 | 1372 |
-| 280,1–300 | 1348 |
-| 300,1–350 | 1295 |
-| 350,1–400 | 1235 |
-| 400,1–450 | 1181 |
-| 450,1–500 | 1127 |
-| 500,1–550 | 1071 |
-|  |  |
-| 4. utazási kedvezmény, helyi bérlet (TESZOR 49.31.21-ből és 49.31.10-ből) |  |
-|  | Ft/hó/db |
+| km |  |
+| 0–5 | 45 |
+| 5,1–10 | 37 |
+| 10,1–50 | 28 |
+| 50,1–100 | 27 |
+| 100,1–200 | 26 |
+| 200,1–300 | 24 |
+| 300,1–500 | 21 |
+| 500,1– | 20 |
+
+| 2. utazási kedvezmény, vasúti és távolsági autóbusz menetjegy(SZJ 60.21.10.9 és 60.10.1, beleértve HÉV-közlekedés, kivéve járműszállítás a 60.10.12.0-ból, SZJ 60.21.41.0, SZJ 60.21.31.3) Ft/5 km/db |  |
+| --- | --- |
+| km |  |
+| 0–5 | 83 |
+| 5,1–10 | 68 |
+| 10,1–50 | 52 |
+| 50,1–100 | 51 |
+| 100,1–200 | 50 |
+| 200,1–300 | 46 |
+| 300,1–500 | 40 |
+| 500,1– | 35 |
+
+| 3. |
+| --- |
+
+| 4. utazási kedvezmény, vasúti és távolsági autóbusz bérlet(SZJ 60.21.10.9 és 60.10.1, beleértve HÉV-közlekedés, kivéve járműszállítás a 60.10.12.0-ból, SZJ 60.21.41.0) Ft/5 km/hó/db |  |
+| --- | --- |
+| km |  |
+| 0–5 | 3 465 |
+| 5,1–10 | 2 772 |
+| 10,1–15 | 2 310 |
+| 15,1–20 | 2 118 |
+| 20,1–25 | 2 110 |
+| 25,1–30 | 2 105 |
+| 30,1–35 | 2 101 |
+| 35,1–40 | 2 098 |
+| 40,1–45 | 2 096 |
+| 45,1–50 | 2 094 |
+| 50,1–60 | 2 092 |
+| 60,1–70 | 2 101 |
+| 70,1–80 | 2 098 |
+| 80,1–90 | 2 096 |
+| 90,1–100 | 2 094 |
+| 100,1–120 | 2 066 |
+| 120,1–140 | 2 041 |
+| 140,1–160 | 2 002 |
+| 160,1–180 | 1 978 |
+| 180,1–200 | 1 944 |
+| 200,1–220 | 1 908 |
+| 220,1–240 | 1 893 |
+| 240,1–260 | 1 851 |
+| 260,1–280 | 1 829 |
+| 280,1–300 | 1 797 |
+| 300,1–350 | 1 727 |
+| 350,1–400 | 1 646 |
+| 400,1–450 | 1 574 |
+| 450,1–500 | 1 502 |
+| 500,1–550 | 1 428 |
+
+| 5. utazási kedvezmény, helyi bérlet (SZJ 60.21.31-ből és 60.21.10-ből) Ft/hó/db |  |
+| --- | --- |
 | Budapest (a Helyiérdekű Vasúttal, az országos közforgalmi vasúttal és a helyközi autóbuszjáratokkal együtt a közigazgatási határon belül) | 3580 |
 | Megyei jogú városokra: |  |
 | kizárólag autóbuszra | 2030 |
@@ -190,7 +191,8 @@ Az egyes kategóriák szerint igénybe vehető fogyasztói árkiegészítés té
 | villamosra és trolibuszra | 1380 |
 | autóbuszra, villamosra és trolibuszra (kombinált) | 2520 |
 | Egyéb településekre (autóbuszra) | 1710 |
-|  |  |
-| 5. utazási kedvezmény, ezen belül: |  |
-| Komp- (TESZOR 50.30.11-ből) és a révközlekedési (TESZOR 50.30.12-ből) menetjegy | 65 Ft/db |
-| Komp- (TESZOR 50.30.11-ből) és a révközlekedési (TESZOR 50.30.12-ből) bérlet | 620 Ft/hó/db |
+
+| 6. utazási kedvezmény, ezen belül: |  |
+| --- | --- |
+| Komp- (SZJ 61.20.11-ből) és a révközlekedési (SZJ 61.20.12-ből) menetjegy | 65 Ft/db |
+| Komp- (SZJ 61.20.11-ből) és a révközlekedési (SZJ 61.20.12-ből) bérlet | 620 Ft/hó/db |
