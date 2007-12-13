@@ -4638,4 +4638,4 @@ Az Európai Szabadalmi Szervezetnek biztosítania kell, hogy az Európai Szabada
 
 (3) E törvény hatálybalépésével egyidejűleg hatályát veszti az európai szabadalmak megadásáról szóló 1973. október 5-i Müncheni Egyezmény (Európai Szabadalmi Egyezmény) kihirdetéséről szóló 2002. évi L. törvény.
 
-(4) Az e törvény végrehajtásához szükséges intézkedésekről a Szellemi Tulajdon Nemzeti Hivatalának elnöke gondoskodik.
+(4) Az e törvény végrehajtásához szükséges intézkedésekről a Magyar Szabadalmi Hivatal elnöke gondoskodik.
