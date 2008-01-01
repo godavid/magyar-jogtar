@@ -24,9 +24,9 @@ Az Országgyűlés a jogállam szervezeti rendszerének kiépítése, az állam 
 
 (4) Az Állami Számvevőszék ellenőrzi az állami adóhatóság és a helyi önkormányzatok adóztatási tevékenységét, valamint a vámhatóság tevékenységét.
 
-(5) Az Állami Számvevőszék ellenőrzi az állami költségvetésből gazdálkodó szerveket (intézményeket), valamint az államháztartás alrendszereiből nyújtott támogatás vagy az államháztartás alrendszeréből meghatározott célra ingyenesen juttatott vagyon felhasználását a helyi önkormányzatoknál, az országos és helyi kisebbségi önkormányzatoknál, a közalapítványoknál (ideértve a közalapítvány által alapított gazdasági társaságot is), a köztestületeknél, a közhasznú szervezeteknél, a gazdálkodó szervezeteknél, a társadalmi szervezeteknél, az alapítványoknál és az egyéb kedvezményezett szervezeteknél. Amennyiben a kedvezményezett szervezet valamelyik államháztartási alrendszerből támogatásban vagy ingyenes vagyonjuttatásban részesül, gazdálkodási tevékenységének egésze vizsgálható.
+(5) Az Állami Számvevőszék ellenőrzi az állami költségvetésből gazdálkodó szerveket (intézményeket), valamint az állami költségvetésből nyújtott támogatás vagy az állam által meghatározott célra ingyenesen juttatott vagyon felhasználását a helyi önkormányzatoknál, az országos és helyi kisebbségi önkormányzatoknál, a közalapítványoknál (ideértve a közalapítvány által alapított gazdasági társaságot is), a köztestületeknél, a közhasznú szervezeteknél, a gazdálkodó szervezeteknél, a társadalmi szervezeteknél, az alapítványoknál és az egyéb kedvezményezett szervezeteknél.
 
-(6) Az Állami Számvevőszék ellenőrzi az államháztartás alrendszereinek körébe tartozó vagyon kezelését, a vagyonnal való gazdálkodást, az állami tulajdonban (résztulajdonban), illetőleg többségi önkormányzati tulajdonban lévő gazdálkodó szervezetek vagyonérték-megőrző és vagyongyarapító tevékenységét, az államháztartás körébe tartozó vagyon elidegenítésére, illetve megterhelésére vonatkozó szabályok betartását.
+(6) Az Állami Számvevőszék ellenőrzi az államháztartás alrendszereinek körébe tartozó vagyon kezelését, a vagyonnal való gazdálkodást, az állami tulajdonban (résztulajdonban) lévő gazdálkodó szervezetek vagyonérték-megőrző és vagyongyarapító tevékenységét, az államháztartás körébe tartozó vagyon elidegenítésére, illetve megterhelésére vonatkozó szabályok betartását.
 
 (7)
 
@@ -134,7 +134,7 @@ Az Országgyűlés a jogállam szervezeti rendszerének kiépítése, az állam 
 
 kategóriába kell sorolni.
 
-(5) Az elnök a számvevőt elkülönült szervezeti egység vezetőjévé határozatlan időre számvevő főtanácsosnak, számvevő igazgatóhelyettesnek, számvevő igazgatónak, főtitkárnak vagy számvevő főigazgatónak kinevezheti. A főtitkár, a számvevő főigazgató a közigazgatási államtitkárt, a számvevő igazgató a helyettes államtitkárt megillető juttatásokra jogosult.
+(5) Az elnök a számvevőt elkülönült szervezeti egység vezetőjévé határozatlan időre számvevő főtanácsosnak, számvevő igazgatóhelyettesnek, számvevő igazgatónak, főtitkárnak vagy számvevő főigazgatónak kinevezheti. A főtitkár, a számvevő főigazgató az államtitkárt, a számvevő igazgató a szakállamtitkárt megillető juttatásokra jogosult.
 
 (6) A számvevőt 11, a számvevő tanácsost 12 munkanap pótszabadság illeti meg. A vezetőt megillető pótszabadság mértéke számvevő főtanácsosnál és számvevő igazgatóhelyettesnél 13, számvevő főigazgatónál, számvevő igazgatónál 14 munkanap.
 
@@ -185,7 +185,7 @@ kategóriába kell sorolni.
 
 (7) Az Állami Számvevőszék a NATO, az Európai Unió, illetve olyan nemzetközi szervezet felkérésére, amelynek a magyar állam tagja, továbbá az Országgyűlés vagy a Kormány által vállalt nemzetközi szerződésből eredő kötelezettség teljesítésére – díjazás ellenében is – ellenőrzést folytathat, ügykörébe tartozó szakértői tevékenységet végezhet belföldön és külföldön. Az Állami Számvevőszék éves ellenőrzési tervének teljesítését e bekezdésben meghatározott tevékenysége nem veszélyeztetheti.
 
-18. § (1) Az Állami Számvevőszék elnöke az év során végzett ellenőrzésekről jelentésben tájékoztatja az Országgyűlést. A jelentést nyilvánosságra kell hozni. A nyilvánosságra hozott jelentés nem tartalmazhat minősített adatot, valamint törvény által védett egyéb titkot. A vizsgált magánszemély, jogi személy, gazdálkodó szervezet vagy költségvetési szerv felelős vezetőjének neve és az ellenőrzés során vizsgált tevékenységgel kapcsolatba hozható személyes adata közérdekből nyilvános adat és a jelentésben nyilvánosságra hozható, illetőleg egyéb módon hozzáférhetővé tehető.
+18. § (1) Az Állami Számvevőszék elnöke az év során végzett ellenőrzésekről jelentésben tájékoztatja az Országgyűlést. A jelentést nyilvánosságra kell hozni. A nyilvánosságra hozott jelentés nem tartalmazhat államtitkot és szolgálati titkot, valamint törvény által védett egyéb titkot. A vizsgált magánszemély, jogi személy, gazdálkodó szervezet vagy költségvetési szerv felelős vezetőjének neve és az ellenőrzés során vizsgált tevékenységgel kapcsolatba hozható személyes adata közérdekből nyilvános adat és a jelentésben nyilvánosságra hozható, illetőleg egyéb módon hozzáférhetővé tehető.
 
 (2) Az Állami Számvevőszék elnöke a zárszámadás ellenőrzéséről készült jelentést a zárszámadással együtt terjeszti az Országgyűlés elé.
 
@@ -199,7 +199,7 @@ kategóriába kell sorolni.
 
 20. § Helyszíni ellenőrzés esetén az ellenőrzést végző személy köteles tevékenységének megkezdéséről az ellenőrzött szerv vezetőjét tájékoztatni.
 
-21. § (1) Az Állami Számvevőszék megbízásából ellenőrzést végző személy a 2–5. §-ban, valamint a külön törvényekben felsorolt szerveknél vizsgálatot tarthat, iratokat és más dokumentációt kérhet. Azokba, valamint az informatikai eszközökkel kezelt adatnyilvántartó rendszerek adatállományába akkor is betekinthet, ha minősített adatot vagy egyéb titkot tartalmaznak, azokról másolatot, kivonatot készíthet. Az iratokat, valamint az adatnyilvántartó rendszerek adatállományait azonban – másolat készítése mellett – csak akkor foglalhatja le, ha büntető- vagy fegyelmi eljárás kezdeményezése indokolt, és az irat vagy adat megváltoztatásától, illetőleg megsemmisítésétől lehet tartani.
+21. § (1) Az Állami Számvevőszék megbízásából ellenőrzést végző személy a 2–5. §-ban, valamint a külön törvényekben felsorolt szerveknél vizsgálatot tarthat, iratokat és más dokumentációt kérhet. Azokba, valamint az informatikai eszközökkel kezelt adatnyilvántartó rendszerek adatállományába akkor is betekinthet, ha államtitkot, szolgálati titkot vagy egyéb titkot tartalmaznak, azokról másolatot, kivonatot készíthet. Az iratokat, valamint az adatnyilvántartó rendszerek adatállományait azonban – másolat készítése mellett – csak akkor foglalhatja le, ha büntető- vagy fegyelmi eljárás kezdeményezése indokolt, és az irat vagy adat megváltoztatásától, illetőleg megsemmisítésétől lehet tartani.
 
 (2) Az Állami Számvevőszék megbízásából ellenőrzést végző személy a vizsgált szerv bármely helyiségébe beléphet, annak bármely dolgozójától szóban vagy írásban felvilágosítást kérhet.
 

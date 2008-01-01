@@ -4,9 +4,9 @@ a Magyar Vöröskeresztről
 
 Az Országgyűlés a háborúk áldozatainak védelmére vonatkozóan Genfben, 1949. augusztus 12-én kötött Egyezmények, ezek 1977. június 8-án aláírt I. és II. kiegészítő jegyzőkönyvei, valamint a Nemzetközi Vöröskereszt és Vörösfélhold Mozgalom 1986-ban elfogadott alapszabálya szellemében a Magyar Vöröskeresztről és annak tevékenységéről a következő törvényt alkotja:
 
-1. § (1) A Magyar Vöröskereszt (a továbbiakban: Vöröskereszt) a Nemzetközi Vöröskereszt és Vörösfélhold Mozgalomhoz csatlakozó, a Nemzetközi Vöröskereszt alapelvei és elismerési feltételei szerint működő nemzeti humanitárius egyesület.
+1. § (1) A Magyar Vöröskereszt (a továbbiakban: Vöröskereszt) a Nemzetközi Vöröskereszt és Vörösfélhold Mozgalomhoz csatlakozó, a Nemzetközi Vöröskereszt alapelvei és elismerési feltételei szerint működő nemzeti humanitárius társadalmi szervezet.
 
-(2) A Magyarországon nyilvántartásba vett más egyesület a Nemzetközi Vöröskereszt és Vörösfélhold Mozgalomhoz nem csatlakozhat, elnevezésében a Vöröskereszttel való összetéveszthetőségre alkalmas megjelölést nem használhat.
+(2) A Magyar Köztársaságban nyilvántartásba vett más társadalmi szervezet a Nemzetközi Vöröskereszt és Vörösfélhold Mozgalomhoz nem csatlakozhat, elnevezésében a Vöröskereszttel való összetéveszthetőségre alkalmas megjelölést nem használhat.
 
 (3) A Vöröskereszt szervezetét és működésének szabályait az alapszabálya állapítja meg. Az alapszabályt, illetve annak módosítását a Vöröskereszt kongresszusa hagyja jóvá.
 
@@ -20,31 +20,9 @@ Az Országgyűlés a háborúk áldozatainak védelmére vonatkozóan Genfben, 1
 - f) szervezi az önkéntes véradók részvételét a véradásban, és részt vesz a vérellátás rendszerének fejlesztésében;
 - g) a rászorultak részére igény szerint — az alapszabályban meghatározott módokon — szociális segítséget nyújt.
 
-(1a) A Vöröskereszt az (1) bekezdés e) pontjában foglalt, elsősegélynyújtás oktatással kapcsolatos feladatai keretében végzi a közúti járművezetők, járművezető-jelöltek (a továbbiakban együtt: járművezetők) elsősegélynyújtás oktatását, kizárólagos vizsgáztatását, valamint megállapítja – a jogszabályi feltételek fennállása esetén – a vizsgakötelezettség alóli mentesülést.
-
-(1b) A Vöröskereszt a járművezetők elsősegély-nyújtási ismereteinek megszerzéséről vagy a közúti elsősegély-nyújtási vizsgakötelezettség alóli mentesüléséről – igazolás kiállítása céljából – elektronikus nyilvántartást vezet, amely tartalmazza:
-
-- a) a járművezető
-  - aa) családi és utónevét, születési családi és utónevét,
-  - ab) születési helyét,
-  - ac) születési idejét, valamint
-  - ad) anyja születési családi és utónevét;
-- b) a Vöröskereszt vizsgabizottsága
-  - ba) előtt tett sikeres vizsga időpontját,
-  - bb) által kiállított, az elsősegély-nyújtási ismeretek megszerzését tanúsító vizsgaigazolás sorszámát (Vöröskereszt nyilvántartási száma); vagy
-- c) a járművezetők elsősegély-nyújtási vizsgakötelezettsége alóli mentesülés esetén
-  - ca) a mentesülést megalapozó igazolást kiadó megnevezését,
-  - cb) a mentesülési igazolás sorszámát és kiadási dátumát.
-
 (2) A Vöröskereszt az alapszabályában egyéb feladatok ellátását is vállalhatja.
 
-(3) A Vöröskeresztet feladatai ellátása során az (1b) bekezdés szerinti nyilvántartás vezetésén kívül hatósági jogkör nem illeti meg.
-
-2/A. § (1) A 2. § (1b) bekezdés b) és c) pontja szerinti adatok tekintetében a nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
-
-(2) A nyilvántartás alapján a járművezető-jelölt – kérésére – igazolást kap arról, hogy az előírt elsősegély nyújtási ismeretekkel rendelkezik.
-
-(3) A Vöröskereszt elektronikus úton értesíti a közúti közlekedési nyilvántartó szervet a 2. § (1b) bekezdésében foglalt adatokról.
+(3) A Vöröskeresztet feladatai ellátása során hatósági jogkör nem illeti meg.
 
 3. § A Vöröskereszt a 2. § (1) bekezdésében felsorolt, az alaptevékenységéhez tartozó feladatai (a továbbiakban: alapfeladatok) teljesítéséhez költségvetési támogatásban részesül külön jogszabályban meghatározottak szerint.
 
@@ -64,7 +42,7 @@ Az Országgyűlés a háborúk áldozatainak védelmére vonatkozóan Genfben, 1
 
 (5) A jelvénynek a (3)—(4) bekezdésben foglaltaktól eltérő használata — külön jogszabályban meghatározott — szabálysértésnek minősül.
 
-6. § (1) Az e törvényben nem szabályozott kérdésekben az egyesülési jogról szóló törvény rendelkezései irányadóak.
+6. § (1) Az e törvényben nem szabályozott kérdésekben az egyesülési jogról szóló 1989. évi II. törvény rendelkezései irányadóak.
 
 (2) A Vöröskereszt e törvény hatálybalépését követő 60 napon belül köteles kérni nyilvántartásba vételét a Fővárosi Bíróságtól.
 

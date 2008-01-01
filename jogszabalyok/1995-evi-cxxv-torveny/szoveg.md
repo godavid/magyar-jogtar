@@ -2,302 +2,127 @@
 
 a nemzetbiztonsági szolgálatokról
 
-Az Országgyűlés a Magyarország függetlenségének és törvényes rendjének védelme érdekében a nemzetbiztonsági szolgálatok alkotmányos működéséről a következő törvényt alkotja:
+Az Országgyűlés a Magyar Köztársaság szuverenitásának biztosítása és alkotmányos rendjének védelme érdekében a nemzetbiztonsági szolgálatok alkotmányos működéséről a következő törvényt alkotja:
 
-### A nemzetbiztonsági szolgálatok
+### A nemzetbiztonsági szolgálatokszervezete és jogállása
 
-szervezete és jogállása
-
-1. § Magyarország nemzetbiztonsági szolgálatai:
+1. § A Magyar Köztársaság nemzetbiztonsági szolgálatai
 
 - a) az Információs Hivatal,
-- b) az Alkotmányvédelmi Hivatal,
-- c) a Katonai Nemzetbiztonsági Szolgálat,
-- d) a Nemzetbiztonsági Szakszolgálat, valamint
-- e) a Nemzeti Információs Központ
+- b) a Nemzetbiztonsági Hivatal,
+- c) a Katonai Felderítő Hivatal,
+- d) a Katonai Biztonsági Hivatal,
+- e) a Nemzetbiztonsági Szakszolgálat
 
 (a továbbiakban együtt: nemzetbiztonsági szolgálatok).
 
-2. § (1) Az Információs Hivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Nemzeti Információs Központ (a továbbiakban együtt: polgári nemzetbiztonsági szolgálatok), a Katonai Nemzetbiztonsági Szolgálat a Kormány irányítása alatt álló, az ország egész területére kiterjedő illetékességgel rendelkező, önálló gazdálkodást folytató költségvetési szervek.
+2. § (1) Az Információs Hivatal, a Nemzetbiztonsági Hivatal és a Nemzetbiztonsági Szakszolgálat (a továbbiakban együtt: polgári nemzetbiztonsági szolgálatok), a Katonai Felderítő Hivatal és a Katonai Biztonsági Hivatal (a továbbiakban együtt: katonai nemzetbiztonsági szolgálatok) a Kormány irányítása alatt álló, az ország egész területére kiterjedő illetékességgel rendelkező, önálló gazdálkodást folytató költségvetési szervek.
 
 (2) Az e törvényben meghatározott feladatok ellátására a nemzetbiztonsági szolgálatok – a kormányzati irányítási döntéseknek megfelelően – helyi, területi szerveket hozhatnak létre.
 
 ### A nemzetbiztonsági szolgálatok feladatai
 
-#### 3. §
+3. § A nemzetbiztonsági szolgálatok rendeltetése, hogy az e törvényben meghatározott feladatok elvégzésével, a nyílt és a titkos információgyűjtés eszközrendszerével elősegítsék a Magyar Köztársaság nemzetbiztonsági érdekeinek érvényesítését, ezáltal közreműködjenek az ország szuverenitásának biztosításában és alkotmányos rendjének védelmében.
 
 4. § Az Információs Hivatal
 
-- a) megszerzi, elemzi, értékeli és továbbítja a kormányzati döntésekhez szükséges, a külföldre vonatkozó, illetőleg külföldi eredetű, a nemzet biztonsága érdekében hasznosítható információkat, továbbá Magyarország érdekeinek érvényesítését szolgáló tevékenységet folytat;
-- b) felderíti a Magyarország függetlenségét, politikai, gazdasági vagy más fontos érdekét sértő vagy veszélyeztető külföldi titkosszolgálati és egyéb külföldi törekvéseket és tevékenységet;
+- a) megszerzi, elemzi, értékeli és továbbítja a kormányzati döntésekhez szükséges, a külföldre vonatkozó, illetőleg külföldi eredetű, a nemzet biztonsága érdekében hasznosítható információkat, továbbá a Magyar Köztársaság érdekeinek érvényesítését szolgáló tevékenységet folytat;
+- b) felderíti a Magyar Köztársaság szuverenitását, politikai, gazdasági vagy más fontos érdekét sértő vagy veszélyeztető külföldi titkosszolgálati törekvéseket és tevékenységet;
 - c) információkat gyűjt a nemzetbiztonságot veszélyeztető, külföldi szervezett bűnözésről, különösen a terrorszervezetekről, a jogellenes kábítószer- és fegyverkereskedelemről, a tömegpusztító fegyverek és alkotóelemeik, illetve az előállításukhoz szükséges anyagok és eszközök jogellenes nemzetközi forgalmáról;
 - d) felderíti az ország gazdasága biztonságának és pénzügyi helyzetének veszélyeztetésére irányuló külföldi szándékokat és cselekményeket;
 - e) közreműködik a nemzetközileg ellenőrzött termékek és technológiák jogellenes forgalmának felderítésében és megelőzésében;
-- f) – szükség esetén az Alkotmányvédelmi Hivatal bevonásával – ellátja a kormányzati tevékenység szempontjából fontos, külföldön lévő magyar szervek (intézmények) és létesítmények biztonsági védelmét;
-- g) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, valamint objektumai műveleti védelmének feladatait, illetve elvégzi személyi állománya, valamint a hatáskörébe tartozó más személyek nemzetbiztonsági ellenőrzésének feladatait.
-- h) végzi a minősített adatok védelmére használt rejtjelző eljárások, algoritmusok, valamint az országhatáron kívül rejtjelzésre használt eszközök kriptográfiai bevizsgálását és minősítését, továbbá rejtjelkulcsot állít elő;
-- i) saját állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat, továbbá a kifogástalan életvitel ellenőrzését;
-- j) elvégezheti a saját minősített beszerzései tekintetében a védelmi és biztonsági célú beszerzésekről szóló törvény szerinti kiegészítő ellenőrzést.
+- f) ellátja a kormányzati tevékenység szempontjából fontos, külföldön lévő magyar szervek (intézmények) és létesítmények biztonsági védelmét;
+- g) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve ellenőrzésének feladatait;
+- h) ellátja a rejtjeltevékenység szakirányítását, hatósági engedélyezését, felügyeletét, és rejtjelkulcsot állít elő.
 
-4/A. § (1) Az Információs Hivatal a törvényben meghatározott feladatai ellátása során megszerzett, a Nemzeti Információs Központ 8/A. §-ban meghatározott feladat- és hatáskör gyakorlásához szükséges információkat haladéktalanul biztosítja a Nemzeti Információs Központnak.
+5. § A Nemzetbiztonsági Hivatal
 
-(2) Az Információs Hivatal hírigényt kizárólag az Információs Hivatalt irányító miniszter részére teljesít.
-
-5. § Az Alkotmányvédelmi Hivatal
-
-- a) felderíti és elhárítja a Magyarország függetlenségét, politikai, gazdasági, védelmi vagy más fontos érdekét sértő vagy veszélyeztető külföldi titkosszolgálati és egyéb külföldi törekvéseket és tevékenységet;
-- b) felderíti és elhárítja Magyarország törvényes rendjének törvénytelen eszközökkel történő megváltoztatására vagy megzavarására irányuló leplezett törekvéseket;
-- c)
-- d) felderíti és elhárítja a Magyarország gazdasági, tudományos-technikai, pénzügyi biztonságát veszélyeztető leplezett törekvéseket, valamint a jogellenes kábítószer- és fegyverkereskedelmet;
-- e) – szükség esetén az Információs Hivatal bevonásával – ellátja a központi államhatalmi és kormányzati tevékenység szempontjából fontos szervek (intézmények) és létesítmények biztonsági védelmét;
-- f) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének feladatait, illetve elvégzi – a Katonai Nemzetbiztonsági Szolgálat, a Nemzetbiztonsági Szakszolgálat, valamint az Információs Hivatal hatáskörébe tartozó személyek kivételével – a nemzetbiztonsági ellenőrzés alá eső személyek nemzetbiztonsági ellenőrzésének feladatait;
-- g) végzi a huzamos tartózkodási jogosultságot igazoló okmányt kérelmező, továbbá a menekültkénti elismerését kérő, illetőleg a magyar állampolgárságért folyamodó, valamint – az állami függetlenség és a törvényes rend védelméhez kötődően – a vízumkérelmet benyújtott személyek ellenőrzését és az ezzel kapcsolatos feladatokat;
-- h) a nyomozás elrendeléséig végzi
-  - ha) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti állam elleni bűncselekmények (1978. évi IV. törvény X. fejezet), az emberiség elleni bűncselekmények (1978. évi IV. törvény XI. fejezet), illetve működési területén a külföldre szökés (1978. évi IV. törvény 343. §), a zendülés (1978. évi IV. törvény 352. §) és a harckészültség veszélyeztetése (1978. évi IV. törvény 363. §),
-  - hb) – az e) és f) pont szerinti feladatellátáshoz kapcsolódóan, valamint az 5/B. § (1) bekezdése szerinti belső biztonsági és bűnmegelőzési célú ellenőrzési hatáskörébe tartozó szervek tekintetében – a vesztegetés (1978. évi IV. törvény 250–255/A. §), a vesztegetés feljelentésének elmulasztása (1978. évi IV. törvény 255/B. §), a befolyással üzérkedés (1978. évi IV. törvény 256. §), a befolyás vásárlása (1978. évi IV. törvény 256/A. §), a vesztegetés nemzetközi kapcsolatokban (1978. évi IV. törvény 258/B–258/D. §), a befolyással üzérkedés és befolyás vásárlása nemzetközi kapcsolatban (1978. évi IV. törvény 258/E. §), a vesztegetés feljelentésének elmulasztása nemzetközi kapcsolatban (1978. évi IV. törvény 258/F. §),
-  - hc) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti emberiesség elleni bűncselekmények (Btk. XIII. Fejezet), a háborús bűncselekmények (Btk. XIV. Fejezet), az állam elleni bűncselekmények (Btk. XXIV. Fejezet), illetve működési területén a szökés (Btk. 434. §), a zendülés (Btk. 442. §) és a készenlét fokozásának veszélyeztetése (Btk. 454. §),
-  - hd) – az e) és f) pont szerinti feladatellátáshoz kapcsolódóan, valamint az 5/B. § (1) bekezdése szerinti belső biztonsági és bűnmegelőzési célú ellenőrzési hatáskörébe tartozó szervek tekintetében – a vesztegetés (Btk. 290. §), a vesztegetés elfogadása (Btk. 291. §), a hivatali vesztegetés (Btk. 293. §), a hivatali vesztegetés elfogadása (Btk. 294. §), a vesztegetés bírósági vagy hatósági eljárásban (Btk. 295. §), a vesztegetés elfogadása bírósági vagy hatósági eljárásban (Btk. 296. §), a befolyás vásárlása (Btk. 298. §), a befolyással üzérkedés (Btk. 299. §), a korrupciós bűncselekmény feljelentésének elmulasztása (Btk. 300. §)
-
-bűncselekmények felderítését;
-
-- i)
-- j) információkat szerez
-  - ja) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak (1978. évi IV. törvény 174/B. §), a visszaélés szigorúan titkos és titkos minősítésű adattal (1978. évi IV. törvény 221. §), a közveszélyokozás (1978. évi IV. törvény 259. §), a nemzetközi gazdasági tilalom megszegése (1978. évi IV. törvény 261/A. §), a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), a közösség elleni izgatás (1978. évi IV. törvény 269. §), a rémhírterjesztés (1978. évi IV. törvény 270. §) és a közveszéllyel fenyegetés (1978. évi IV. törvény 270/A. §),
-  - jb) – az e) és f) pont szerinti feladatellátáshoz kapcsolódóan, valamint az 5/B. § (1) bekezdése szerinti belső biztonsági és bűnmegelőzési célú ellenőrzési hatáskörébe tartozó szervek tekintetében – a vesztegetés (1978. évi IV. törvény 250–255/A. §), a vesztegetés feljelentésének elmulasztása (1978. évi IV. törvény 255/B. §), a befolyással üzérkedés (1978. évi IV. törvény 256. §), a befolyás vásárlása (1978. évi IV. törvény 256/A. §), a vesztegetés nemzetközi kapcsolatokban (1978. évi IV. törvény 258/B–258/D. §), a befolyással üzérkedés és befolyás vásárlása nemzetközi kapcsolatban (1978. évi IV. törvény 258/E. §), a vesztegetés feljelentésének elmulasztása nemzetközi kapcsolatban (1978. évi IV. törvény 258/F. §),
-  - jc) a közösség tagja elleni erőszak (Btk. 216. §), a minősített adattal visszaélés (Btk. 265. §), a jármű hatalomba kerítése (Btk. 320. §), a közveszély okozása (Btk. 322. §), a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a közösség elleni uszítás (Btk. 332. §), a rémhírterjesztés (Btk. 337. §) és a közveszéllyel fenyegetés (Btk. 338. §),
-  - jd) – az e) és f) pont szerinti feladatellátáshoz kapcsolódóan, valamint az 5/B. § (1) bekezdése szerinti belső biztonsági és bűnmegelőzési célú ellenőrzési hatáskörébe tartozó szervek tekintetében – a vesztegetés (Btk. 290. §), a vesztegetés elfogadása (Btk. 291. §), a hivatali vesztegetés (Btk. 293. §), a hivatali vesztegetés elfogadása (Btk. 294. §), a vesztegetés bírósági vagy hatósági eljárásban (Btk. 295. §), a vesztegetés elfogadása bírósági vagy hatósági eljárásban (Btk. 296. §), a befolyás vásárlása (Btk. 298. §), a befolyással üzérkedés (Btk. 299. §), a korrupciós bűncselekmény feljelentésének elmulasztása (Btk. 300. §)
-
-bűncselekményekre vonatkozóan;
-
+- a) felderíti és elhárítja a Magyar Köztársaság szuverenitását, politikai, gazdasági, védelmi vagy más fontos érdekét sértő vagy veszélyeztető külföldi titkosszolgálati törekvéseket és tevékenységet;
+- b) felderíti és elhárítja a Magyar Köztársaság alkotmányos rendjének törvénytelen eszközökkel történő megváltoztatására vagy megzavarására irányuló leplezett törekvéseket;
+- c) felderíti és elhárítja külföldi hatalmak, szervezetek vagy személyek terrorcselekmény elkövetésére irányuló törekvéseit;
+- d) felderíti és elhárítja a Magyar Köztársaság gazdasági, tudományos-technikai, pénzügyi biztonságát veszélyeztető leplezett törekvéseket, valamint a jogellenes kábítószer- és fegyverkereskedelmet;
+- e) ellátja a központi államhatalmi és kormányzati tevékenység szempontjából fontos szervek (intézmények) és létesítmények biztonsági védelmét;
+- f) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve ellenőrzésének feladatait;
+- g) végzi a letelepedett jogállást igazoló okmányt kérelmező, továbbá a menekültkénti elismerését kérő, illetőleg a magyar állampolgárságért folyamodó, valamint – az állami szuverenitás és az alkotmányos rend védelméhez kötődően – a vízumkérelmet benyújtott személyek ellenőrzését és az ezzel kapcsolatos feladatokat;
+- h) a nyomozás elrendeléséig végzi az állam elleni bűncselekmények (Btk. X. fejezet), az emberiség elleni bűncselekmények (Btk. XI. fejezet), illetve működési területén a külföldre szökés (Btk. 343. §), a zendülés (Btk. 352. §) és a harckészültség veszélyeztetése (Btk. 363. §) bűncselekmények felderítését;
+- i) felderíti a terrorcselekményt (Btk. 261. §), ha a bejelentés a Nemzetbiztonsági Hivatalhoz érkezett, illetve arról a Nemzetbiztonsági Hivatal szerzett tudomást;)
+- j) információkat szerez a nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak (Btk. 174/B. §), az államtitoksértés (Btk. 221. §), a közveszélyokozás (Btk. 259. §), a nemzetközi jogi kötelezettség megszegése (Btk. 261/A. §), a légi jármű hatalomba kerítése (Btk. 262. §), a közösség elleni izgatás (Btk. 269. §), és a rémhírterjesztés (Btk. 270. §) bűncselekményekre vonatkozóan;
 - k) közreműködik a nemzetközileg ellenőrzött termékek és technológiák jogellenes forgalmának felderítésében, megelőzésében, megakadályozásában és legális forgalmának ellenőrzésében;
 - l) közreműködik a haditechnikai eszközök és szolgáltatások jogellenes forgalmának felderítésében, megelőzésében, megakadályozásában és legális forgalmának ellenőrzésében.
-- m) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe tartozó gazdálkodó szervezetek cégellenőrzését.
-- n) elvégzi a védelmi és biztonsági célú beszerzésekről szóló törvény szerinti előzetes minősítést, beszerzési eljáráshoz kötődő minősítést és jegyzéken tartással összefüggő ellenőrzést, valamint saját minősített beszerzései tekintetében elvégezheti a szükséges kiegészítő ellenőrzést, továbbá a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti előzetes minősítést és jegyzéken tartással összefüggő ellenőrzést;
-- o) végzi az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvény szerint kártyakibocsátás engedélyezését kérők ellenőrzését és az ezzel kapcsolatos feladatokat;
-- p) felderíti és elhárítja a Magyarországra jogellenesen belépő, itt tartózkodó, illetve ezt elősegítő, és ilyen módon az ország nemzetbiztonságát veszélyeztető személyek, csoportok leplezett tevékenységét;
-- q) saját állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat, továbbá a kifogástalan életvitel ellenőrzését.
+- m) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe tartozó iparbiztonsági ellenőrzéseket.
 
-5/A. § (1) Az Alkotmányvédelmi Hivatal a törvényben meghatározott feladatai ellátása során megszerzett, a Nemzeti Információs Központ 8/A. §-ban meghatározott feladat- és hatásköre gyakorlásához szükséges információkat haladéktalanul biztosítja a Nemzeti Információs Központnak.
+6. § A Katonai Felderítő Hivatal
 
-(2) Az Alkotmányvédelmi Hivatal hírigényt kizárólag az Alkotmányvédelmi Hivatalt irányító miniszter részére teljesít.
+- a) megszerzi, elemzi és továbbítja a kormányzati döntésekhez szükséges, a külföldre vonatkozó, illetőleg külföldi eredetű, a biztonságpolitika katonai elemét érintő katonapolitikai, hadiipari és katonai információkat;
+- b) felfedi a Magyar Köztársaság ellen irányuló, támadó szándékra utaló törekvéseket;
+- c) felderíti a külföldi katonai titkosszolgálatoknak a Magyar Köztársaság szuverenitását, honvédelmi érdekeit sértő vagy veszélyeztető törekvéseit és tevékenységét;
+- d) információkat gyűjt a nemzetbiztonságot veszélyeztető jogellenes fegyverkereskedelemről, valamint a Magyar Honvédség biztonságát veszélyeztető terrorszervezetekről;
+- e) közreműködik a nemzetközileg ellenőrzött termékek és technológiák jogellenes forgalmának felderítésében és megelőzésében;
+- f) biztosítja a Honvéd Vezérkar hadászati-hadműveleti tervező munkájához szükséges információkat;
+- g) ellátja a kormányzati tevékenység szempontjából fontos, külföldön lévő magyar katonai szervek és létesítmények (intézmények) biztonsági védelmét;
+- h) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve ellenőrzésének feladatait.
 
-5/B. § (1) Az Alkotmányvédelmi Hivatal – a Rendőrségről szóló 1994. évi XXXIV. törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv hatáskörébe tartozó szervek, valamint a honvédelmi szervezetek kivételével – ellátja a Kormány vagy a Kormány tagjának irányítása vagy felügyelete alá tartozó költségvetési szerv belső biztonsági és bűnmegelőzési célú ellenőrzését.
+7. § A Katonai Biztonsági Hivatal
 
-(2) Az Alkotmányvédelmi Hivatal az 5/C. § (1) bekezdésében meghatározott szervek foglalkoztatottjai esetében megbízhatósági vizsgálatot folytat.
-
-(3) Ha az Alkotmányvédelmi Hivatal a feladatai ellátása során bűncselekmény gyanúját – ideértve a kísérlet, valamint ha a törvény az előkészületet büntetni rendeli, az előkészület gyanúját is – észleli, a 44. § (2a) bekezdése szerinti kivétellel feljelentést tesz a nyomozás lefolytatására hatáskörrel és illetékességgel rendelkező nyomozó hatóságnál vagy ügyészségnél, és átadja az általa összegyűjtött adatokat.
-
-(4) Ha az Alkotmányvédelmi Hivatal olyan információt szerez meg, amely alapján a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás lefolytatásának lehet helye – a 44. § (2a) bekezdése szerinti kivétellel – előkészítő eljárást kezdeményezhet a hatáskörrel és illetékességgel rendelkező ügyészségnél, nyomozó hatóságnál, illetve a terrorizmust elhárító szervnél, és átadja az általa összegyűjtött adatokat.
-
-5/C. § (1) Az Alkotmányvédelmi Hivatal elvégzi a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet irányító miniszter által vezetett minisztérium vagy munkaszervezet, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet irányító miniszter által irányított vagy felügyelt költségvetési szervek, a honvédelmi szervezetek, valamint a területi kormányzati igazgatási szervek kivételével a központi kormányzati igazgatási szervek és központi kormányzati igazgatási szervek területi, helyi szervei foglalkoztatottjának a megbízhatósági vizsgálatát.
-
-(2) Az (1) bekezdés alkalmazásában foglalkoztatott
-
-- a) a kormányzati szolgálati jogviszonyban,
-- b) a közalkalmazotti jogviszonyban,
-- c) az igazságügyi szolgálati jogviszonyban,
-- d) a rendvédelmi feladatokat ellátó szervnél fennálló hivatásos szolgálati jogviszonyban,
-- e) a rendvédelmi igazgatási szolgálati jogviszonyban,
-- f) az adó- és vámhatósági szolgálati jogviszonyban,
-- g) a Nemzeti Adó- és Vámhivatalnál fennálló tisztjelölti jogviszonyban,
-- h) az egészségügyi szolgálati jogviszonyban és
-- i) a munkaviszonyban
-
-foglalkoztatott.
-
-(3) Megbízhatósági vizsgálat nem folytatható a Kormány rendeletében meghatározott, a feladat- és tevékenységi kör mérlegelése alapján
-
-- a) a megbízhatósági vizsgálat elvégzésének lehetősége alól mentesített (1) bekezdés szerinti szerv foglalkoztatottja vagy
-- b) az (1) bekezdés szerinti szervnek a megbízhatósági vizsgálat elvégzésének lehetősége alól mentesített foglalkoztatotti csoportja
-
-esetén.
-
-5/D. § Az Alkotmányvédelmi Hivatal ellátja a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését.
-
-6. § A Katonai Nemzetbiztonsági Szolgálat
-
-- a) felfedi a Magyarország ellen irányuló támadó, befolyásoló szándékra utaló törekvéseket, valamint feladatrendszeréhez illeszkedően külföldön érvényesíti Magyarország érdekeit;
-- b) felderíti és elhárítja a külföldi titkosszolgálatoknak Magyarország szuverenitását, honvédelmi érdekeit sértő vagy veszélyeztető törekvéseit és tevékenységét;
-- c) megszerzi, elemzi és továbbítja a kormányzati döntésekhez szükséges, a külföldi eredetű, a biztonságpolitika katonai elemét érintő katonapolitikai, hadiipari és katonai információkat;
-- d) működési területén felderíti és elhárítja Magyarország törvényes rendjének jogellenes eszközökkel történő megváltoztatására vagy megzavarására irányuló leplezett törekvéseket;
-- e) feladatkörét érintően információkat gyűjt a válságkörzetekről, illetve a Magyar Honvédség műveleti területen lévő alakulatait és azok állományát veszélyeztető törekvésekről és tevékenységekről, valamint részt vesz a Magyar Honvédség műveleti területen alkalmazott erőinek nemzetbiztonsági védelmében, felkészítésében és támogatásában;
-- f) biztosítja a honvédelemért felelős miniszter által vezetett minisztérium és a Honvéd Vezérkar védelmi, hadászati-hadműveleti tervező munkájához szükséges információkat, valamint működteti Magyarország katonai egységes felderítő rendszerét;
-- g) információkat gyűjt a honvédelmi érdeket veszélyeztető kibertevékenységekről és -szervezetekről, észleli a kibertérből érkező fenyegetéseket és támadásokat, jogszabály keretei között ellátja a honvédelmi ágazat elektronikus információbiztonsági feladatait, biztosítja a honvédelemért felelős miniszter által vezetett minisztérium, valamint a Honvéd Vezérkar tervező munkájához szükséges, kibertérrel összefüggő nemzetbiztonsági jellegű információkat, továbbá kibertér műveleti képességeivel ellátja a honvédelmi érdekek nemzetbiztonsági jellegű védelmét és együttműködik a Magyar Honvédség kiberműveleti erőivel;
-- h) információkat gyűjt a nemzetbiztonságot veszélyeztető terrorszervezetekről, felderíti és elhárítja a honvédelmi szervezeteknél a külföldi hatalmak, személyek vagy szervezetek terrorcselekmény elkövetésére irányuló törekvéseit;
-- i) információkat gyűjt a nemzetbiztonságot veszélyeztető, jogellenes fegyverkereskedelemről, a honvédelemért felelős miniszter által vezetett minisztériumot és a Magyar Honvédség biztonságát veszélyeztető szervezett bűnözésről, ezen belül kiemelten a jogellenes kábítószer- és fegyverkereskedelemről;
-- j) közreműködik a nemzetközileg ellenőrzött termékek és technológiák, valamint a haditechnikai eszközök és szolgáltatások jogellenes forgalmának felderítésében, megelőzésében, megakadályozásában és legális forgalmának ellenőrzésében;
-- k) ellátja az illetékességi körébe tartozó, a kormányzati tevékenység szempontjából fontos katonai szervek és létesítmények (intézmények), valamint a kormányzati és katonai vezetési objektumok biztonsági védelmét;
-- l) működési területén a nyomozás elrendeléséig végzi
-  - la) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti állam elleni bűncselekmények (1978. évi IV. törvény X. fejezet), az emberiség elleni bűncselekmények (1978. évi IV. törvény XI. fejezet), a külföldre szökés (1978. évi IV. törvény 343. §), a zendülés (1978. évi IV. törvény 352. §) és a harckészültség veszélyeztetése (1978. évi IV. törvény 363. §),
-  - lb) az emberiesség elleni bűncselekmények (Btk. XIII. Fejezet), a háborús bűncselekmények (Btk. XIV. Fejezet), az állam elleni bűncselekmények (Btk. XXIV. Fejezet), a szökés (Btk. 434. §), a zendülés (Btk. 442. §) és a készenlét fokozásának veszélyeztetése (Btk. 454. §)
-
-bűncselekmények felderítését;
-
-- m) működési területén felderíti
-  - ma) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti terrorcselekményt (1978. évi IV. törvény 261. §),
-  - mb) a terrorcselekményt (Btk. 314–316/A. §), a terrorcselekmény feljelentésének elmulasztását (Btk. 317. §) és a terrorizmus finanszírozását (Btk. 318–318/A. §) vagy háborús uszítást (Btk. 331. §);
-- n) működési területén információkat szerez
-  - na) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak (1978. évi IV. törvény 174/B. §), a visszaélés szigorúan titkos és titkos minősítésű adattal (1978. évi IV. törvény 221. §), a közveszélyokozás (1978. évi IV. törvény 259. §), a nemzetközi jogi kötelezettség megszegése (1978. évi IV. törvény 261/A. §), a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), a közösség elleni izgatás (1978. évi IV. törvény 269. §), a rémhírterjesztés (1978. évi IV. törvény 270. §), a közveszéllyel fenyegetés (1978. évi IV. törvény 270/A. §), a haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel visszaélés (1978. évi IV. törvény 263/B. §),
-  - nb) a közösség tagja elleni erőszak (Btk. 216. §), a minősített adattal visszaélés (Btk. 265. §), a jármű hatalomba kerítése (Btk. 320. §), a közveszély okozása (Btk. 322. §), a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §), a közösség elleni uszítás (Btk. 332. §), a rémhírterjesztés (Btk. 337. §), a közveszéllyel fenyegetés (Btk. 338. §)
-
-bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekményeket, amelyek veszélyeztetik a honvédelmi szervezetek törvényes feladatainak végrehajtását;
-
-- o) ellátja a honvédelmi szervezeteknél folytatott hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő nemzetbiztonsági feladatokat;
-- p) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe tartozó gazdálkodó szervezetek cégellenőrzését;
-- q) elvégzi a védelmi és biztonsági célú beszerzésekről szóló törvény szerinti előzetes minősítést, beszerzési eljáráshoz kötődő minősítést, valamint saját minősített beszerzései tekintetében elvégezheti a szükséges kiegészítő ellenőrzést.
-- r) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve nemzetbiztonsági ellenőrzésének feladatait;
-- s) a hatáskörébe tartozó állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat;
-- t) ellátja az a)–r) pont szerinti feladatokat a honvédelemért felelős miniszter által rendeletben meghatározott, honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságoknál.
-
-7. § (1) A Katonai Nemzetbiztonsági Szolgálat a 6. § a)–g), i)–l), n)–s) pontban meghatározott feladatai ellátása során a működési területén felderített, a nemzetbiztonság katonai elemeit érintő információkat elemzi és értékeli, azokról folyamatosan tájékoztatja a honvédelemért felelős miniszter által vezetett minisztérium feladat- és hatáskörrel rendelkező vezetőit, a Magyar Honvédség feladat- és hatáskörrel rendelkező parancsnokait, vezetőit, a Honvéd Vezérkar főnökét, a honvédelemért felelős minisztert, valamint a Magyar Honvédség főparancsnokát.
-
-(2) A Katonai Nemzetbiztonsági Szolgálat a törvényben meghatározott feladatai ellátása során megszerzett, a Nemzeti Információs Központ 8/A. §-ban meghatározott feladat- és hatáskör gyakorlásához szükséges információkat haladéktalanul biztosítja a Nemzeti Információs Központnak.
-
-(3) A Katonai Nemzetbiztonsági Szolgálat működési területén önállóan hajtja végre Magyarország nemzetközi szerződéses kötelezettségeinek teljesítéséhez szükséges, valamint a 9. § b) pontja és a 11. § (2) bekezdés b) és i) pontja alapján kapott feladatokat.
-
-(4) A Katonai Nemzetbiztonsági Szolgálat – az e törvény szerinti kivételekkel – hírigényt kizárólag a Katonai Nemzetbiztonsági Szolgálatot irányító miniszter részére teljesít.
+- a) felderíti és elhárítja a honvédelemért felelős miniszter által vezetett minisztérium és a Magyar Honvédség ellen irányuló külföldi titkosszolgálati törekvéseket és tevékenységet;
+- b) működési területén felderíti és elhárítja a Magyar Köztársaság alkotmányos rendjének törvénytelen eszközökkel történő megváltoztatására vagy megzavarására irányuló leplezett törekvéseket;
+- c) a honvédelemért felelős miniszter által vezetett minisztérium és a Magyar Honvédség szervezeteinél felderíti és elhárítja a külföldi hatalmak, személyek vagy szervezetek terrorcselekmény elkövetésére irányuló törekvéseit;
+- d) információkat gyűjt a honvédelemért felelős miniszter által vezetett minisztériumot és a Magyar Honvédséget veszélyeztető szervezett bűnözésről, ezen belül kiemelten a jogellenes kábítószer- és fegyverkereskedelemről;
+- e) közreműködik a nemzetközileg ellenőrzött termékek és technológiák jogellenes forgalmának felderítésében, megelőzésében, megakadályozásában és legális forgalmának ellenőrzésében;
+- f) közreműködik a haditechnikai eszközök és szolgáltatások jogellenes forgalmának felderítésében, megelőzésében, megakadályozásában és legális forgalmának ellenőrzésében;
+- g) ellátja az illetékességi körébe tartozó, kijelölt kormányzati és katonai vezetési objektumok (intézmények) biztonsági védelmét;
+- h) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve ellenőrzésének feladatait;
+- i) működési területén a nyomozás elrendeléséig végzi az állam elleni bűncselekmények (Btk. X. fejezet), az emberiség elleni bűncselekmények (Btk. XI. fejezet), a külföldre szökés (Btk. 343. §), a zendülés (Btk. 352. §) és a harckészültség veszélyeztetése (Btk. 363. §) bűncselekmények felderítését;
+- j) működési területén felderíti a terrorcselekményt (Btk. 261. §);)
+- k) működési területén információkat szerez a nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak (Btk. 174/B. §), az államtitoksértés (Btk. 221. §), a közveszélyokozás (Btk. 259. §), a nemzetközi jogi kötelezettség megszegése (Btk. 261/A. §), a légi jármű hatalomba kerítése (Btk. 262. §), a közösség elleni izgatás (Btk. 269. §), a rémhírterjesztés (Btk. 270. §), a közveszéllyel fenyegetés (Btk. 270/A. §), a haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel visszaélés (Btk. 263/B. §) bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekményeket, amelyek veszélyeztetik a honvédelemért felelős miniszter által vezetett minisztérium és a Magyar Honvédség alkotmányos feladatainak végrehajtását;
+- l) ellátja a honvédelemért felelős miniszter által vezetett minisztérium szervezeteiben folytatott hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő nemzetbiztonsági feladatokat.
+- m) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe tartozó iparbiztonsági ellenőrzéseket.
 
 8. § (1) A Nemzetbiztonsági Szakszolgálat
 
-- a) a jogszabályok keretei között eszközeivel és módszereivel – írásbeli megkeresésre – szolgáltatást végez a titkos információgyűjtés, illetve a büntetőeljárásról szóló törvény szerinti leplezett eszközök (a továbbiakban: leplezett eszközök) alkalmazásának végrehajtásához a titkos információgyűjtés folytatására, valamint a leplezett eszközök alkalmazására feljogosított szervek részére,
-- b) a titkos információgyűjtés folytatására, valamint a leplezett eszközök alkalmazására feljogosított szervek igényei alapján biztosítja az e tevékenységhez szükséges különleges technikai eszközöket és anyagokat,
-- c) védett kommunikációs összeköttetést, illetve védett elektronikus adatkapcsolatot biztosít a Kormány által meghatározott felhasználók részére,
-- d) ellátja a biztonsági okmányok védelmével összefüggő hatósági felügyeletet,
-- e) szakértői, szaktanácsadói, illetve – külön jogszabály rendelkezései szerint – igazságügyi szakértői tevékenységet végez,
-- f) ellátja az objektumai műveleti védelmének és személyi állománya, valamint a hatáskörébe tartozó más személyek nemzetbiztonsági ellenőrzésének feladatait.
-- g) elvégezheti a saját minősített beszerzései tekintetében a védelmi és biztonsági célú beszerzésekről szóló törvény szerinti kiegészítő ellenőrzést,
-- h) az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a titkos információgyűjtés folytatására feljogosított szerv, valamint a nemzetbiztonsági szolgálatok megkeresése alapján közreműködik az adatkérő által jogszerűen kezelhető adat igénylésében,
-- i) jogszabály rendelkezései szerint ellátja az elektronikus információbiztonsággal kapcsolatos feladatokat,
-- j) jogszabály rendelkezései szerint ellátja a minősített adat védelmével kapcsolatos hatósági feladatokat, valamint a telephelyi iparbiztonsági hatósági feladatokat.
-- k) saját állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat, továbbá a kifogástalan életvitel ellenőrzését.
+- a) a jogszabályok keretei között a titkos információgyűjtés, illetve a titkos adatszerzés különleges eszközeivel és módszereivel – írásbeli megkeresésre – szolgáltatást végez törvény által erre feljogosított szervezetek titkos információgyűjtő, illetve titkos adatszerző tevékenységéhez;
+- b) törvény által feljogosított szervezetek igényei alapján biztosítja a titkos információgyűjtő, illetve a titkos adatszerző tevékenységhez szükséges különleges technikai eszközöket és anyagokat;
+- c) speciális távközlési összeköttetést biztosít a Kormány által meghatározott felhasználók részére;
+- d) ellátja a biztonsági okmányok védelmével összefüggő hatósági felügyeletet;
+- e) szakértői tevékenységet végez;
+- f) elvégzi a hatáskörébe tartozó személyek nemzetbiztonsági ellenőrzését.
 
-(2) A Nemzetbiztonsági Szakszolgálat hírigényt az (1) bekezdés c)–g), i)–k) pontjában meghatározott feladatai ellátása során megszerzett információk tekintetében teljesíthet, kizárólag a Nemzetbiztonsági Szakszolgálatot irányító miniszter részére.
+(2) A Nemzetbiztonság Szakszolgálat kormányzati tájékoztató tevékenységet nem folytathat.
 
-(3) A Nemzetbiztonsági Szakszolgálat az (1) bekezdés a), f) és k) pontjában meghatározott feladatai ellátása érdekében az 54. § (1) bekezdésében meghatározott tevékenységet, eszközöket és módszereket, valamint az (1) bekezdés i) pontjában meghatározott feladatai ellátása érdekében az 54. § (1) bekezdés f), g) és j) pontjában meghatározott tevékenységet saját kezdeményezésre végezheti, illetve alkalmazhatja.
+(3) A Nemzetbiztonsági Szakszolgálat szolgáltató szervezet, az 54. § (1) bekezdésének a)–d), f) és g) pontjaiban meghatározott eszközöket és módszereket saját kezdeményezésre csak az (1) bekezdés a) és a 9. § d) pontjában meghatározott feladatai ellátása érdekében alkalmazhatja.
 
-(4) A Nemzetbiztonsági Szakszolgálat az 56. §-ban meghatározott titkos információgyűjtés eszközeit és módszereit – az (1) bekezdés f) és k) pontjában meghatározott feladat ellátása kivételével – saját kezdeményezésre nem alkalmazhatja.
+(4) A Nemzetbiztonsági Szakszolgálat az 54. § (1) bekezdésének e), h)–j), pontjaiban, valamint az 56. §-ban meghatározott titkos információgyűjtés eszközeit és módszereit saját kezdeményezésre – a 9. § d) pontjában meghatározott feladat ellátását kivéve – nem alkalmazhatja.
 
-(5) A Nemzetbiztonsági Szakszolgálat által teljesített szolgáltatások – a telephely biztonsági tanúsítvány és az egyszerűsített telephely biztonsági tanúsítvány kiadása kivételével – térítésmentesek.
+(5) A Nemzetbiztonsági Szakszolgálat által teljesített szolgáltatások térítésmentesek.
 
-(6) A titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervek és a Nemzetbiztonsági Szakszolgálat közötti együttműködés rendjét a Kormány határozza meg.
-
-(7)
-
-(8)
-
-(9)
-
-(10)
-
-(11) A Nemzetbiztonsági Szakszolgálat a (3) bekezdés szerint, az (1) bekezdés f) és i) pontjában meghatározott feladatai ellátása érdekében saját kezdeményezésre végzett tevékenységből, illetve az (1) bekezdés f) és i) pontjában meghatározott feladatai érdekében a saját kezdeményezésre alkalmazott eszközök és módszerek által megszerzett, a Nemzeti Információs Központ 8/A. §-ban meghatározott feladat- és hatásköre gyakorlásához szükséges információkat haladéktalanul biztosítja a Nemzeti Információs Központnak.
-
-8/A. § (1) A Nemzeti Információs Központ
-
-- a) kormányzati tájékoztató és döntés-előkészítő tevékenységet végez, amelynek keretén belül – az e törvényben meghatározott kivételekkel – kizárólagos hatáskörrel teljesíti a hírigényeket;
-- b) nyílt információgyűjtést és -feldolgozást végző szolgáltató és támogató szervet működtet a kormányzati tájékoztató tevékenységének ellátása, valamint az együttműködő szervek és az ügyészség tevékenységének elősegítése céljából;
-- c) Magyarország biztonsági, nemzetbiztonsági, terrorfenyegetettségi és bűnügyi helyzetével, konkrét kockázatokkal vagy bűncselekményekkel kapcsolatos tájékoztatókat, kockázatelemzéseket készít az együttműködő szervek részére a hatáskörükbe tartozó, illetve az ügyészség esetében az ügyészség által folytatott titkos információgyűjtés, leplezetteszköz-alkalmazás, illetve a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás és nyomozás törvényes, szakszerű és eredményes ellátásának elősegítése céljából;
-- d) az együttműködő szerveket és az ügyészséget visszatájékoztatja az információik felhasználásáról, valamint az annak kapcsán szükséges további feladatokról, információszerzési irányokról;
-- e) feltárja az együttműködő szervek, valamint az együttműködő szervek és az ügyészség által ugyanazon bűncselekmény, személy vagy egyéb tárgykör vonatkozásában párhuzamosan folytatott eljárásokat és ezekről tájékoztatja az érintett ügyészséget, illetve együttműködő szervet;
-- f) amennyiben olyan információt szerez, amely megalapozza az együttműködő szerv, valamint az ügyészség eljárását, intézkedését, úgy erre vonatkozó kezdeményezéssel él, vagy javaslatot tesz, amelynek elfogadásáról vagy elutasításáról az együttműködő szerv nyolc munkanapon belül tájékoztatja az irányító minisztert és a Nemzeti Információs Központot;
-- g) a Magyarország terrorhelyzetére vonatkozó információk értékelése alapján javaslatot tesz a terrorfenyegetettség szintjének meghatározására;
-- h) országos jelentőségű, több szervet érintő ügyekben elemző-értékelő és koordinációs tevékenységet lát el;
-- i) összehangolt védelmi tevékenység, valamint különleges jogrend kihirdetését megalapozó helyzet vagy esemény kezelésével összefüggésben, a nemzetbiztonságot érintően kiemelt kockázatot jelentő biztonsági fenyegetésekkel kapcsolatos kérdések vonatkozásában a hatáskörébe és illetékességébe tartozó szakmai koordinációs tevékenységet lát el az érintett szervezetek bevonásával, továbbá kockázatelemzést végez;
-- j) ellátja az utasadat-információs egység feladatait, e feladatkörében a rendelkezésére álló utasadatok és információk tekintetében elemző-értékelő tevékenység keretében kockázatelemzést végezhet;
-- k) koordinációs, elemző-értékelő tevékenységet végez, amely kiterjed az együttműködő szervek hatáskörébe és illetékességébe utalt valamennyi információra, valamint az 52/A. § (3) bekezdése szerinti megállapodásban meghatározott körben az ügyészség által folytatott titkos információgyűjtés, leplezetteszköz-alkalmazás, illetve büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás és nyomozás keretében kezelt adatra, információra.
-
-(2) A Nemzeti Információs Központ a hírigény-teljesítéssel kapcsolatos feladata során a nemzeti szuverenitás védelméről szóló törvény szerinti feladatok ellátásának elősegítése céljából a hírigények kapcsán rendelkezésre álló, illetve aktuálisan keletkezett információk felhasználásával a Szuverenitásvédelmi Hivatal részére tájékoztató tevékenységet folytat.
-
-(3) Az (1) bekezdés a) pontjában foglalt tevékenysége keretén belül a Nemzeti Információs Központ javaslatot tesz a nemzetbiztonsági szolgálatokat irányító miniszterek részére az időszerű feladatok meghatározására, valamint az együttműködő szervek számára információs igényeket fogalmaz meg.
-
-(4) A hírigények teljesítése érdekében a Nemzeti Információs Központ bármely együttműködő szervet adat- és információátadásra, továbbá a szolgáltatott adatok, információk kiegészítésére, pontosítására hívhatja fel.
-
-(5) Az együttműködő szerv a Nemzeti Információs Központ (3) és (4) bekezdésben meghatározott megkeresését köteles a Nemzeti Információs Központ által meghatározott határidőben teljesíteni. Az együttműködő szerv a teljesítés akadályáról, valamint ennek okáról a Nemzeti Információs Központot a megkeresés megérkezését követő 24 órán belül tájékoztatja.
-
-(6) Az (1) bekezdés e) pontjában meghatározott esetben, ha a párhuzamos adatkezelést végző egyik szerv az ügyészség, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal vagy a Katonai Nemzetbiztonsági Szolgálat, akkor a Nemzeti Információs Központ a párhuzamos adatkezelésről csak a legfőbb ügyész, illetve a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, az Információs Hivatal, vagy a Katonai Nemzetbiztonsági Szolgálat főigazgatójának hozzájárulásával tájékoztathatja a másik együttműködő szervet.
-
-(7) A Nemzeti Információs Központ ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat, továbbá a kifogástalan életvitel ellenőrzését
-
-- a) a saját állománya tekintetében,
-- b) a Nemzeti Információs Központba vezényelt állomány tekintetében, valamint
-- c) azon személyek tekintetében, akiknek szolgálatteljesítési helyeként a Nemzeti Információs Központot jelölték ki.
+(6) A titkos információgyűjtésre, illetve a titkos adatszerzésre felhatalmazott szervezetek és a Nemzetbiztonsági Szakszolgálat közötti együttműködés rendjét a Kormány határozza meg.
 
 9. § A nemzetbiztonsági szolgálatok
 
 - a) végzik a feladataik teljesítéséhez szükséges technikai rendszerek, eszközök beszerzését, kutatását, fejlesztését és az eszközök alkalmazásával kapcsolatos szakmai felkészítést, mindezek érdekében együttműködhetnek egymással és más szervekkel;
-- b) a nemzetbiztonsági érdek elsőbbségével ellátják a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti feladatokat;
-- c) ellátják e törvény keretei között a Kormány, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter vagy a honvédelemért felelős miniszter által meghatározott feladatokat;
-- d)
-- e) gondoskodnak a hivatásos állományú munkatársak és a nemzetbiztonsági alkalmazottak, illetve a honvédelmi alkalmazottak szakirányú képzéséről.
-
-### A megbízhatósági vizsgálat
-
-9/A. § (1) A megbízhatósági vizsgálat célja annak megállapítása, hogy az azzal érintett eleget tesz-e a jogszabályban előírt hivatali, illetve jogszabályban, kollektív szerződésben, üzemi megállapodásban, valamint munkaszerződésben előírt munkaköri kötelezettségének. A megbízhatósági vizsgálat során feltárt jogsértés alapján fegyelmi vagy szabálysértési eljárás nem indítható.
-
-(2) A munkaköri, illetve hivatali kötelezettség teljesítésének ellenőrzése érdekében a megbízhatósági vizsgálatot végző szerv a munkakör ellátása során a valóságban is előforduló vagy feltételezhető élethelyzeteket hoz mesterségesen létre. A megbízhatósági vizsgálat helyszínén az (1) bekezdésben meghatározott cél elérésére alkalmas olyan – sérülést vagy egészségkárosodást nem okozó – tárgy is elhelyezhető, amely jellegénél, rendeltetésénél fogva illeszkedik a kialakítani tervezett mesterséges élethelyzetbe.
-
-(3) A megbízhatósági vizsgálatot – a szükségességének indokolásával – az Alkotmányvédelmi Hivatal főigazgatója a hatáskörébe tartozó szerv tagjával, vagy a hatáskörébe tartozó szerv valamely állománycsoportjához tartozó, meghatározott szolgálati feladatot teljesítő, az elrendeléskor még nem nevesíthető tagjával szemben, határozattal rendeli el. A megbízhatósági vizsgálat elrendeléséről és befejezéséről – az arra vonatkozó határozat, valamint elrendelés esetén a részletes terv, befejezés esetén az összesítő jelentés megküldésével – az ügyészt haladéktalanul tájékoztatni kell. A határozat és a megbízhatósági vizsgálat végrehajtásáról szóló részletes terv alapján az ügyész a megbízhatósági vizsgálat elrendelését két munkanapon belül jóváhagyja, vagy a jóváhagyást megtagadja.
-
-(4) A megbízhatósági vizsgálat befejezéséről szóló határozat kézhezvételétől számított 8 munkanapon belül az ügyész megvizsgálja annak törvényességét, majd visszaküldi az elrendelő szervnek. Jogszabálysértés megállapítása esetén írásba foglalt indokolt határozatával új határozat hozatalára utasítja a megbízhatósági vizsgálatot folytató szervet, ha pedig azt állapítja meg, hogy a megbízhatósági vizsgálat végrehajtására a részletes tervtől eltérően került sor, felelősségre vonást is kezdeményez.
-
-(5) Az Alkotmányvédelmi Hivatal hatáskörébe tartozó szerv megbízhatósági vizsgálattal érintett tagját a megbízhatósági vizsgálat megindításáról nem, befejezéséről – ideértve a (7) bekezdés szerinti megszüntető határozat meghozatalát is – tizenöt munkanapon belül kell tájékoztatni.
-
-(6) Az Alkotmányvédelmi Hivatal hatáskörébe tartozó szerv tagjára vagy tagjaira vonatkozóan megbízhatósági vizsgálatot elrendelni – a (7) bekezdésben foglaltak kivételével – naptári évenként legfeljebb három alkalommal lehet.
-
-(7) Ha az (1) bekezdésben meghatározott mesterséges élethelyzet kialakítása objektív körülmények miatt meg sem kezdődött, az Alkotmányvédelmi Hivatal eljárást megszüntető határozatot hoz, azonban a megbízhatósági vizsgálat évenkénti elrendelésére vonatkozóan a (6) bekezdésben meghatározott korlátozást figyelmen kívül kell hagyni.
-
-(8) A megbízhatósági vizsgálat időtartama alkalmanként legfeljebb tizenöt nap, amelyet az Alkotmányvédelmi Hivatal főigazgatója egy alkalommal tizenöt nappal meghosszabbíthat. A megbízhatósági vizsgálat során végzett tevékenységeket dokumentálni kell.
-
-9/B. § (1) A megbízhatósági vizsgálat során e törvény szerinti titkos információgyűjtés folytatható. A titkos információgyűjtés során alkalmazni kívánt eszközt az elrendelő határozatnak és a részletes tervnek tartalmaznia kell.
-
-(2) A megbízhatósági vizsgálatot az Alkotmányvédelmi Hivatal tagja a következők szerint végezheti:
-
-- a) polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértést, valótlan bejelentés szabálysértést, vámszabálysértést, vámszabálysértés elkövetőjének segítése szabálysértést, vámorgazdaság szabálysértést, minősített adat biztonságának megsértése szabálysértést, külföldiek rendészetével kapcsolatos szabálysértést, közúti közlekedési igazgatási szabályok megsértése szabálysértést, közúti közlekedési szabályok kisebb fokú megsértése szabálysértést, víziközlekedési szabályok megsértése szabálysértést, köztisztasági szabálysértést, tiltott határátlépés szabálysértést, határrendészeti szabálysértést, gyógyszerrendészeti szabálysértést, segélyhívó számok rendeltetéstől eltérő igénybevétele szabálysértést, valamint olyan szabályszegést követhet el, amelynek esetén közigazgatási bírság kiszabásának van helye,
-- b) nem követhet el
-  - ba) az 1978. évi IV. törvény X. fejezetében, XI. fejezetében, XII. fejezetében – a magánlaksértés (1978. évi IV. törvény 176. §) kivételével –, XIII. fejezetében, XIV. fejezetében, XV. fejezetében – a hivatali visszaélés (1978. évi IV. törvény 225. §), a hamis vád (1978. évi IV. törvény 233. §), a hatóság félrevezetése (1978. évi IV. törvény 237. §), valamint a III. címben és a VII. címben foglaltak kivételével –, XVI. fejezetében – a III. címben foglaltak kivételével –, XVII. fejezetében – az áru hamis megjelölése (1978. évi IV. törvény 296. §), valamint a III. címben foglaltak kivételével –, XVIII. fejezetében – a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (1978. évi IV. törvény 329/A. §) kivételével –, XIX. fejezetében és XX. fejezetében meghatározott bűncselekményt,
-  - bb) a Btk.-ban meghatározott bűncselekményt, a teljesítményfokozó szerrel visszaélés (Btk. 185. §), a gyógyszerhamisítás (Btk. 185/A. §), a személyes adattal visszaélés (Btk. 219. §), a magánlaksértés (Btk. 221. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád [Btk. 268. § és 269. § a) pont], a hatóság félrevezetése [Btk. 271. § (1) és (2) bekezdése], a hivatali visszaélés (Btk. 305. §), az információs rendszer felhasználásával elkövetett csalás (Btk. 375. §), a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 385. §), a készpénz-helyettesítő fizetési eszköz hamisítása (Btk. 392. §), a készpénz-helyettesítő fizetési eszközzel visszaélés (Btk. 393. §), a készpénz-helyettesítő fizetési eszköz hamisításának elősegítése (Btk. 394. §), a versenytárs utánzása (Btk. 419. §), illetve a Btk. XXVII., XXXIII. és XXXIX. Fejezetében felsorolt bűncselekmények kivételével,
-- c) elkövetheti a jövedéki adóról szóló törvény szerinti szabálytalanságot, illetve megsértheti a jövedéki adóról szóló törvény szerinti kötelezettséget,
-- d) elkövetheti a környezetvédelmi termékdíj-kötelezettségi szabályok megsértését, a fémkereskedő fémkereskedelmi tevékenységével, fémkereskedelmi engedélyköteles anyagok más személy általi értékesítésével, szállításával, fuvarozásával, raktározásával, tárolásával, hasznosításával összefüggő szabályok megsértését, az elektronikus közúti áruforgalom ellenőrző rendszerbe a közúti fuvarozáshoz kapcsolódó bejelentési kötelezettséghez kötődő szabályok megsértését, költségvetési vagy egyéb pénzeszközök, állami támogatások felhasználásával összefüggésben adózási bejelentési, bevallási, megfizetési kötelezettségek, számviteli renddel kapcsolatos kötelezettségek megsértését.
-
-(3) A megbízhatósági vizsgálat célja szempontjából érdektelen adatot, valamint az ügyben nem érintett személy adatait a rögzítést követő 3 napon belül törölni kell.
-
-9/C. § (1) Ha a megbízhatósági vizsgálat alapján az Alkotmányvédelmi Hivatal nem kezdeményez büntetőeljárást, akkor a megbízhatósági vizsgálattal összefüggésben keletkezett adatokat, ideértve az 54. § (3) bekezdése alapján technikai eszközzel rögzítetteket is – a megbízhatósági vizsgálat elrendeléséről és befejezéséről szóló irat kivételével – a megbízhatósági vizsgálat befejezését követő harminc napon belül törölni kell.
-
-(2) A megbízhatósági vizsgálat befejezéséről szóló határozatot annak meghozatalát követő 2 év elteltével kell selejtezni. A megbízhatósági vizsgálat befejezéséről szóló határozat tartalmazza a vizsgálat minden lényeges adatát, így különösen az ügyész törvényességi felügyelet gyakorlásához, valamint az eljárás alá vont érdekeinek védelme szempontjából jelentőséggel bíró adatot.
-
-(3) Az ügyész az e törvényben foglalt jogosítványok mellett a megbízhatósági vizsgálat törvényességének ellenőrzése során az ügyészségről szóló törvényben szabályozott jogokat gyakorolja.
-
-(4) A megbízhatósági vizsgálatra vonatozó részletes eljárási szabályokat a Kormány rendeletben szabályozza.
-
-9/D. § Nem büntethető az Alkotmányvédelmi Hivatal 9/B. § (2) bekezdése szerint eljáró tagja
-
-- a) a megbízhatósági vizsgálatra vonatkozó részletes tervben rögzített bűncselekmény, szabálysértés vagy közigazgatási bírsággal sújtandó szabályszegés miatt, ha az elkövetés belső biztonsági és bűnmegelőzési érdeket szolgált,
-- b) a biztonságának biztosítása és lelepleződésének megakadályozása érdekében elkövetett bűncselekmény, szabálysértés vagy közigazgatási bírsággal sújtandó szabályszegés miatt, ha a biztonságának vagy lelepleződésének megakadályozásával kapcsolatos érdek jelentősebb, mint a felelősségre vonásához fűződő érdek, illetve
-- c) olyan bűncselekmény, szabálysértés vagy közigazgatási bírsággal sújtandó szabályszegés miatt, amely más bűncselekmény elkövetésének megelőzése vagy megszakítása érdekében szükséges, és a bűncselekmény megelőzéséhez vagy megszakításához fűződő érdek jelentősebb, mint a felelősségre vonáshoz fűződő érdek.
+- b) ellátják a rendkívüli állapottal, a megelőző védelmi helyzettel és a szükségállapottal összefüggő külön törvényben meghatározott feladatokat;
+- c) ellátják e törvény keretei között a Kormány, illetve a polgári nemzetbiztonsági szolgálatokat irányító miniszter vagy a honvédelemért felelős miniszter által meghatározott feladatokat;
+- d) ellátják a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat;
+- e) gondoskodnak a hivatásos állományú munkatársak és a közalkalmazottak szakirányú képzéséről.
 
 ### A nemzetbiztonsági szolgálatok irányítása és vezetése
 
-10. § (1) A Kormány
+10. § (1) A Kormány a polgári nemzetbiztonsági szolgálatokat a kijelölt miniszter, a katonai nemzetbiztonsági szolgálatokat honvédelemért felelős miniszter (a továbbiakban: miniszter) útján irányítja.
 
-- a) az Információs Hivatalt a polgári hírszerzési tevékenység irányításáért felelős miniszter,
-- b) az Alkotmányvédelmi Hivatalt, a Nemzetbiztonsági Szakszolgálatot és a Nemzeti Információs Központot a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter,
-- c) a Katonai Nemzetbiztonsági Szolgálatot a honvédelemért felelős miniszter [az a)–c) pont szerinti miniszterek a továbbiakban együtt: miniszter] útján irányítja.
-
-(2) A Nemzeti Információs Központ kezelésében lévő közérdekű adatok és közérdekből nyilvános adatok kezelése tekintetében az irányítási jogkör a polgári nemzetbiztonsági szolgálatok irányításáért felelős minisztert illeti meg.
-
-(3)
+(2) Az (1) bekezdés szerinti polgári nemzetbiztonsági szolgálatokat irányító kijelölt miniszter nem lehet a rendészetért felelős miniszter, a honvédelemért felelős miniszter és az igazságügyért felelős miniszter.
 
 11. § (1) A miniszter
 
-- a) előkészíti a nemzetbiztonsági szolgálatok működésével, feladataival, hatásköreivel, személyi állományának jogállásával kapcsolatos jogszabályok, valamint egyéb kormányzati döntések tervezeteit, illetőleg részt vesz azok előkészítésében;
-- b) biztosítja a Magyarország érdekeinek érvényesítésével és védelmével kapcsolatos nemzetbiztonsági feladatok végrehajtását;
-- c) rendeletek és normatív utasítások által szabályozza a nemzetbiztonsági szolgálatok tevékenységét, működését és személyi állományának jogállását;
+- a) előkészíti a nemzetbiztonsági szolgálatok működésével, feladataival és hatásköreivel kapcsolatos jogszabályok, valamint egyéb kormányzati döntések tervezeteit, illetőleg részt vesz azok előkészítésében;
+- b) biztosítja a Magyar Köztársaság érdekeinek érvényesítésével és védelmével kapcsolatos nemzetbiztonsági feladatok végrehajtását;
+- c) rendeletek és az állami irányítás egyéb jogi eszközei által szabályozza a nemzetbiztonsági szolgálatok tevékenységét és működését;
 - d) kapcsolatot tart fenn a nemzetbiztonsági szolgálatok nemzetközi együttműködésének elősegítése érdekében.
 
 (2) A miniszter irányító jogkörében
 
 - a) törvényen, kormányrendeleten vagy egyéb kormányzati döntésen alapuló feladatok végrehajtására a nemzetbiztonsági szolgálatok részére feladatot határoz meg, illetve utasítást ad;
 - b) félévente írásban meghatározza a főigazgatók számára a szolgálatok időszerű feladatait; írásban ad utasítást a Kormány tagjaitól érkezett információs igények teljesítésére;
-- c) a főigazgatók előterjesztésére jóváhagyja a nemzetbiztonsági szolgálatok szervezeti és működési szabályzatát és – a polgári nemzetbiztonsági szolgálatok kivételével – az állománytáblát;
+- c) a főigazgatók előterjesztésére jóváhagyja a nemzetbiztonsági szolgálatok szervezeti és működési szabályzatát és az állománytáblát;
 - d) javaslatot tesz a nemzetbiztonsági szolgálatok költségvetésére;
 - e) a nemzetbiztonsági szolgálatok költségvetési gazdálkodása tekintetében gyakorolja a fejezetért felelős szerv vezetőjének, valamint a költségvetési szerv felügyeletéért felelős szerv vezetőjének jogszabályokban meghatározott tervezési, előirányzat-módosítási, beszámolási, információszolgáltatási, pénzügyi, valamint ellenőrzési kötelezettségeit és jogait;
 - f) a nemzetbiztonsági szolgálatok gazdálkodása tekintetében célszerűségi és eredményességi ellenőrzést végez;
@@ -305,11 +130,11 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 - h) a főigazgatók előterjesztésére jóváhagyja a titkos információgyűjtés belső eljárási és engedélyezési szabályait;
 - i) a főigazgatók előterjesztésére jóváhagyja a nemzetbiztonsági szolgálatok nemzetközi kapcsolataira vonatkozó javaslatokat;
 - j) javaslatot tesz a miniszterelnöknek a főigazgatók kinevezésére és felmentésére;
-- k) a kinevezés és felmentés kivételével gyakorolja a munkáltatói jogokat a főigazgatók felett, – a polgári nemzetbiztonsági szolgálat kivételével – kinevezi és felmenti helyetteseiket, felettük gyakorolja a munkáltatói jogokat;
+- k) a kinevezés és felmentés kivételével gyakorolja a munkáltatói jogokat a főigazgatók felett, kinevezi és felmenti helyetteseiket, felettük gyakorolja a munkáltatói jogokat;
 - l) javaslatot tesz a köztársasági elnöknek a tábornoki kinevezésekre;
 - m) a főigazgatók javaslatára kinevezi az ezredeseket;
-- n) – a polgári nemzetbiztonsági szolgálatok kivételével – jóváhagyja a tábornoki rendfokozattal rendszeresített beosztásokba javasolt személyek kinevezését és az ilyen beosztásban lévő személyek felmentését;
-- o) intézkedik a főigazgatókat, – a polgári nemzetbiztonsági szolgálatok kivételével – helyetteseiket érintő belső biztonsági és bűnmegelőzési célú ellenőrzések elvégzéséről;
+- n) jóváhagyja a tábornoki rendfokozattal rendszeresített beosztásokba javasolt személyek kinevezését és az ilyen beosztásban lévő személyek felmentését;
+- o) intézkedik a főigazgatókat, helyetteseiket érintő belső biztonsági és bűnmegelőzési célú ellenőrzések elvégzéséről;
 - p) gyakorolja a törvényben, kormányrendeletben vagy kormányhatározatban számára biztosított külön jogokat.
 
 (3) A miniszter az irányító jogkörében adott utasításával a főigazgatók hatáskörébe tartozó ügyet nem vonhat el, hatáskörük gyakorlását nem akadályozhatja.
@@ -318,38 +143,15 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 
 (5) A miniszter kivizsgálja a nemzetbiztonsági szolgálatok tevékenységével kapcsolatos panaszokat, a vizsgálat eredményéről és a megtett intézkedésekről 30 napon belül tájékoztatja a panaszost. Ez a határidő egy esetben 30 nappal meghosszabbítható.
 
-(6)
-
-(7)
-
-11/A. § (1) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter az Alkotmányvédelmi Hivatal, valamint a Nemzeti Információs Központ, a polgári hírszerzési tevékenység irányításáért felelős miniszter az Információs Hivatal, a honvédelemért felelős miniszter a Katonai Nemzetbiztonsági Szolgálat tekintetében ellátja a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat alapján kijelölt nemzeti központi hozzáférési pont feladatait.
-
-(2) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, valamint a honvédelemért felelős miniszter a lekérdezés jogszerűségének ellenőrzése, valamint az adatok sértetlenségének és biztonságának biztosítása céljából a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben (a továbbiakban: Vízuminformációs Rendszer) végzett betekintés céljából történő hozzáférésekről adattovábbítási nyilvántartást vezet.
-
-(3) Az adattovábbítási nyilvántartásban foglalt adatokat a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK európai parlamenti és tanácsi rendelet 34. cikk (2) bekezdésében foglaltak szerint lehet felhasználni és azokat az ott meghatározott időszak elteltével törölni kell.
-
-(4) Az adattovábbítási nyilvántartás az alábbi adatokat tartalmazza:
-
-- a) a betekintés céljából történő hozzáférés pontos célját, beleértve a konkrét ügyben érintett – 45. § (2) bekezdés szerinti bűncselekmény – megnevezését is,
-- b) a betekintés céljából történő hozzáférésre irányuló kezdeményezés szerinti ügy ügyiratszámát,
-- c) a hozzáférés dátumát és pontos időpontját,
-- d) a sürgős eljárásra történő utalást,
-- e) a betekintés céljából történő hozzáféréshez szükséges, a kezdeményezésben szereplő adatokat,
-- f) a megtekintett adatok típusát,
-- g) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, illetve a honvédelemért felelős miniszter által a keresés végrehajtására felhatalmazott személy részére a VIS nemzeti központi hatóság által biztosított azonosító kódot, valamint
-- h) az Alkotmányvédelmi Hivatal, az Információs Hivatal, a Nemzeti Információs Központ vagy a Katonai Nemzetbiztonsági Szolgálat főigazgatója által a betekintés céljából történő hozzáférés kezdeményezésére felhatalmazott személy részére a VIS nemzeti központi hatóság által biztosított azonosító kódot.
-
-(5) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, valamint a honvédelemért felelős miniszter – a betekintés céljából történő hozzáférés követhetősége céljából – a hozzáférési jogosultság időtartama alatt nyilvántartást köteles vezetni a keresés végrehajtására felhatalmazott és a betekintés céljából történő hozzáférés kezdeményezésére felhatalmazott személyek nevéről és azonosító kódjáról.
+(6) A polgári nemzetbiztonsági szolgálatokat irányító miniszter irányítja az állami szervektől származó, az ország nemzetbiztonságára vonatkozó információk elemzését, értékelését, valamint az e tárgyú kormányzati döntéselőkészítést támogató munkát.
 
 12. § (1) A nemzetbiztonsági szolgálatok élén főigazgatók állnak, akiket a miniszter előterjesztésére a miniszterelnök nevez ki, és ment fel.
 
-(2) A Nemzetbiztonsági Szakszolgálat főigazgatójára vonatkozó előterjesztést a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter a honvédelemért felelős miniszterrel és a rendészetért felelős miniszterrel egyetértésben teszi meg.
+(2) A Nemzetbiztonsági Szakszolgálat főigazgatójára vonatkozó előterjesztést a polgári nemzetbiztonsági szolgálatokat irányító miniszter a honvédelemért felelős miniszterrel és a rendészetért felelős miniszterrel egyetértésben teszi meg.
 
-#### 12/A. §
+13. § (1) A főigazgatók e törvény, a jogszabályok és az állami irányítás egyéb jogi eszközei által meghatározott keretek között önálló felelősséggel vezetik a nemzetbiztonsági szolgálatokat.
 
-13. § (1) A főigazgatók e törvény, a jogszabályok és a közjogi szervezetszabályozó eszközök által meghatározott keretek között önálló felelősséggel vezetik a nemzetbiztonsági szolgálatokat.
-
-(2) A Honvéd Vezérkar főnöke a honvédelmi törvényben meghatározott feladatai ellátásához szükséges információ átadását – alá- és fölérendeltség hiányában is – közvetlenül igényelheti a Katonai Nemzetbiztonsági Szolgálat főigazgatójától, aki azt haladéktalanul köteles teljesíteni. A szakmai kapcsolattartás és az információszolgáltatás rendjét a honvédelemért felelős miniszter állapítja meg.
+(2) A Magyar Honvédség vezérkari főnöke a honvédelmi törvényben meghatározott feladatai ellátásához szükséges információ átadását – alá- és fölérendeltség hiányában is – közvetlenül igényelheti a Katonai Felderítő Hivatal főigazgatójától, aki azt haladéktalanul köteles teljesíteni. A szakmai kapcsolattartás és az információszolgáltatás rendjét a honvédelemért felelős miniszter állapítja meg.
 
 (3) A főigazgató
 
@@ -364,8 +166,6 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 - i) a nemzetbiztonsági szolgálat személyi állománya tekintetében – jogszabályban meghatározott kivételekkel – gyakorolja a munkáltatói jogokat;
 - j) a nemzetbiztonsági szolgálat tevékenységéről szükség szerint, de évente legalább egyszer a miniszter útján jelentést tesz a Kormánynak.
 
-(4) Az (1) bekezdés alkalmazásában a közjogi szervezetszabályozó eszköz alatt az állami irányítás egyéb jogi eszközét is érteni kell.
-
 ### A nemzetbiztonsági szolgálatok parlamenti ellenőrzése
 
 14. § (1) Az Országgyűlés a nemzetbiztonsági szolgálatok parlamenti ellenőrzését Nemzetbiztonsági Bizottsága (továbbiakban: Bizottság) közreműködésével látja el. A Bizottság elnöke mindenkor csak ellenzéki képviselő lehet.
@@ -377,59 +177,31 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 (4) A parlamenti ellenőrzés gyakorlása során a Bizottság
 
 - a) tájékoztatást kérhet a minisztertől és a miniszter egyidejű értesítése mellett a nemzetbiztonsági szolgálatok főigazgatóitól az ország nemzetbiztonsági helyzetéről, a nemzetbiztonsági szolgálatok működéséről és tevékenységéről;
-- b) tájékoztatást kérhet az igazságügyért felelős minisztertől, a polgári nemzetbiztonsági szolgálatok irányításáért felelős minisztertől, a polgári hírszerzési tevékenység irányításáért felelős minisztertől, a honvédelemért felelős minisztertől és a főigazgatóktól az 56. §-ban és az 59. §-ban meghatározott engedélyezési eljárásról;
+- b) tájékoztatást kérhet az igazságügyért felelős minisztertől, a polgári nemzetbiztonsági szolgálatokat irányító minisztertől, a honvédelemért felelős minisztertől és a főigazgatóktól az 56. §-ban és az 59. §-ban meghatározott engedélyezési eljárásról;
 - c) kivizsgálhatja a nemzetbiztonsági szolgálatok jogellenes tevékenységére utaló panaszokat, ha a panaszos a 11. § (5) bekezdésében meghatározott vizsgálat eredményét nem fogadja el, és a panasz súlya a bizottsági tagok legalább egyharmadának szavazata szerint a vizsgálatot indokolttá teszi, a Bizottság megállapításairól tájékoztatja az érintettet;
 - d) ha valamely nemzetbiztonsági szolgálat jogszabályellenes vagy nem rendeltetésszerű tevékenységét feltételezi, vizsgálat lefolytatására felkérheti a minisztert, aki a vizsgálat eredményéről tájékoztatja a Bizottságot;
 - e) ha valamely nemzetbiztonsági szolgálat jogszabályellenes működését észleli, illetve, ha a c) és d) pontokban, illetőleg a 27. § (4) bekezdésben meghatározott eljárás során azt indokoltnak tartja, ténymegállapító vizsgálatot folytathat le, amely során betekinthet a nemzetbiztonsági szolgálatok nyilvántartásában lévő, az adott ügyre vonatkozó iratokba, meghallgathatja a nemzetbiztonsági szolgálatok munkatársait;
 - f) ha bármely módon valamely nemzetbiztonsági szolgálat jogszabályellenes vagy nem rendeltetésszerű működését észleli, felhívhatja a minisztert a szükséges intézkedés megtételére, és kezdeményezheti a felelősség megvizsgálását; a miniszter a vizsgálat eredményéről tájékoztatja a Bizottságot;
-- g) véleményezi a nemzetbiztonsági szolgálatok költségvetésének részletes tervezetét, a titkos információgyűjtés folytatására feljogosított egyéb szervek költségvetésének e tevékenységgel kapcsolatos tételeit, illetve az éves költségvetési törvény végrehajtásáról szóló részletes beszámoló tervezetét, a törvényjavaslatok tárgyalása során az elfogadásra vonatkozóan javaslatot tesz az Országgyűlésnek;
-- h) kinevezésük előtt meghallgatja a főigazgatói tisztségre jelölt személyeket, alkalmasságukról állást foglal;
-- i) dönt a biztonsági szakvélemény megállapításaival és a felülvizsgálati eljárás elrendelésének megtagadásával kapcsolatos miniszteri döntéssel szembeni panaszról,
-- j) állást foglal az alapvető jogok biztosának a nemzetbiztonsági szolgálat felülvizsgálati eljárásáról adott tájékoztatásáról.
+- g) véleményezi a nemzetbiztonsági szolgálatok költségvetésének részletes tervezetét, a titkos információgyűjtésre jogosult egyéb szervezetek költségvetésének e tevékenységgel kapcsolatos tételeit, illetve az éves költségvetési törvény végrehajtásáról szóló részletes beszámoló tervezetét, a törvényjavaslatok tárgyalása során az elfogadásra vonatkozóan javaslatot tesz az Országgyűlésnek;
+- h) kinevezésük előtt meghallgatja a főigazgatói tisztségre jelölt személyeket, alkalmasságukról állást foglal.
 
 (5) A Bizottság – ha ellenőrzési jogkörének gyakorlása szempontjából szükséges – a nemzetbiztonsági szolgálatok munkatársát szakértői tevékenységre kérheti fel az illetékes főigazgató egyidejű értesítésével.
-
-14/A. § (1) Ha a Bizottság a 14. § (4) bekezdés e) pontja szerinti ténymegállapító vizsgálatot folytat le, a Bizottság a ténymegállapító vizsgálattal összefüggő irattal, adattal vagy egyéb információval rendelkező személyt, szervet vagy szervezetet a ténymegállapító vizsgálati tevékenységében való közreműködésre kötelezheti (a továbbiakban: közreműködésre kötelezett).
-
-(2) A közreműködésre kötelezettet
-
-- a) adatszolgáltatási kötelezettség,
-- b) megjelenési kötelezettség, illetve
-- c) nyilatkozattételi kötelezettség
-
-terheli.
-
-(3) Az adatszolgáltatási és nyilatkozattételi kötelezettség teljesítésének – a 16. § (1) bekezdésében foglaltak kivételével – nem akadálya, ha annak tárgya minősített adat vagy ilyen adatot tartalmazó egyéb információ. A Bizottság az ilyen adatot vagy információt zártan kezeli, és zárt ülésen tárgyalja.
-
-(4) A közreműködési kötelezettségről a Bizottság a döntését a Kormány nemzetbiztonsági szolgálatot irányító vagy korábban irányító tagja, vagy az ezen ügyekben átruházott hatáskörben eljáró politikai felsővezető, közigazgatási államtitkár vagy helyettes államtitkár, illetve a nemzetbiztonsági szolgálat állományához tartozó vagy korábban tartozó személyek esetében a jelen lévő bizottsági tagok több mint felének a szavazatával, más személyek esetében a jelen lévő bizottsági tagok kétharmadának a szavazatával hozza meg.
-
-14/B. § (1) A közreműködésre kötelezettet a megjelenési, az adatszolgáltatási, illetve a nyilatkozattételi kötelezettsége Bizottság ülésén történő teljesítésére határidő megjelölésével a Bizottság döntése alapján a Bizottság elnöke idézi meg.
-
-(2) A Bizottság az idézést postai úton kézbesíti. A kézbesítésre a polgári perrendtartásról szóló törvény rendelkezései az irányadóak.
-
-(3) Katonát [Btk. 127. § (1) bekezdése] az elöljárója útján kell idézni.
-
-(4) Az idézést úgy kell közölni, hogy azt az idézett személy a meghallgatást megelőzően legalább nyolc nappal megkapja.
-
-(5) Az idézésben a Bizottság elnöke megjelöli, hogy a Bizottság az idézett személyt milyen ügyben és milyen minőségben kívánja meghallgatni. Az idézett személyt figyelmeztetni kell a megjelenési, az adatszolgáltatási, illetve a nyilatkozattételi kötelezettsége elmulasztásának következményeire.
-
-(6) Adatszolgáltatási vagy nyilatkozattételi kötelezettsége írásban történő teljesítésére a Bizottság döntése alapján a Bizottság elnöke határnap tűzésével hívja fel a közreműködésre kötelezetett. A közreműködésre kötelezett felhívására a (2)–(5) bekezdését megfelelően alkalmazni kell.
 
 15. § (1) A Bizottság megkapja a nemzetbiztonsági szolgálatok által készített – a nemzetbiztonság szempontjából fontos – általános értékelő, valamint a Kormány számára készített jelentéseket.
 
 (2) A Bizottság jogosult a nemzetbiztonsági szolgálatok nem egyedi ügyekkel kapcsolatos tájékoztató jelentéseibe betekinteni.
 
-(3) Ha a nemzetbiztonsági szolgálatok országgyűlési képviselőre, nemzetiségi szószólóra vagy vele közös háztartásban élő hozzátartozójára vonatkozóan információgyűjtő tevékenységet kezdenek (folytatnak), e tényről a miniszter haladéktalanul tájékoztatja a Bizottságot. Az ügyben érintett képviselő e tevékenységről nem kaphat tájékoztatást.
+(3) Ha a nemzetbiztonsági szolgálatok országgyűlési képviselőre vagy vele közös háztartásban élő hozzátartozójára vonatkozóan információgyűjtő tevékenységet kezdenek (folytatnak), e tényről a miniszter haladéktalanul tájékoztatja a Bizottságot. Az ügyben érintett képviselő e tevékenységről nem kaphat tájékoztatást.
 
 16. § (1) A Bizottság által folytatott parlamenti ellenőrzés során a miniszter és a nemzetbiztonsági szolgálatok tájékoztatási kötelezettsége – a (2) bekezdésben foglalt kivétellel – nem terjed ki azon információk szolgáltatására, amelyek átadása konkrét ügyben a módszer, illetve forrás (közreműködő személye) védelméhez fűződő kiemelt súlyú nemzetbiztonsági érdeket veszélyeztetné.
 
 (2) A Bizottság a nemzetbiztonsági szolgálatok jogellenes tevékenységéhez kapcsolódó vizsgálata során tagjai kétharmadának egyetértésével kötelezheti a minisztert és a főigazgatót a titkos információgyűjtés során belföldön alkalmazott módszerre vonatkozó olyan adatok szolgáltatására, amelyek ismerete a jogellenesség megítélése szempontjából elengedhetetlen. Az így megismert adat kizárólag a Bizottság eljárása során használható fel.
 
-17. § (1) Az Országgyűlés Honvédelmi Bizottsága (a továbbiakban: Honvédelmi Bizottság) folyamatosan ellenőrzi a Katonai Nemzetbiztonsági Szolgálat feladatainak megvalósulását, ennek keretén belül
+17. § (1) Az Országgyűlés Honvédelmi Bizottsága (a továbbiakban: Honvédelmi Bizottság) folyamatosan ellenőrzi a katonai nemzetbiztonsági szolgálatok feladatainak megvalósulását, ennek keretén belül
 
 - a) a miniszter – legalább évente egyszer – tájékoztatja a Honvédelmi Bizottságot a nemzetbiztonsági szolgálatok általános tevékenységéről;
-- b) a miniszter tájékoztatja a Honvédelmi Bizottságot a Katonai Nemzetbiztonsági Szolgálattal kapcsolatos kormányhatározatokról;
-- c) a Honvédelmi Bizottság kinevezésük előtt meghallgatja a Katonai Nemzetbiztonsági Szolgálat főigazgatói tisztségére jelölt személyeket, alkalmasságukról állást foglal.
+- b) a miniszter tájékoztatja a Honvédelmi Bizottságot a katonai nemzetbiztonsági szolgálatokkal kapcsolatos kormányhatározatokról;
+- c) a Honvédelmi Bizottság kinevezésük előtt meghallgatja a katonai nemzetbiztonsági szolgálatok főigazgatói tisztségére jelölt személyeket, alkalmasságukról állást foglal.
 
 (2) A Honvédelmi Bizottság tagjának csak az az országgyűlési képviselő választható meg, aki tekintetében elvégezték a 19. §-ban meghatározott eljárás szerinti nemzetbiztonsági ellenőrzést.
 
@@ -437,7 +209,7 @@ terheli.
 
 18. § (1) A Bizottság ülései az ellenőrzési jogkör gyakorlása, a Honvédelmi Bizottság ülései a 17. §-ban meghatározott jogkör gyakorlása során zártak.
 
-(2) A Bizottság és a Honvédelmi Bizottság tagjait az e minőségükben birtokukba jutott minősített adatot tartalmazó információk tekintetében titoktartási kötelezettség terheli, amely a bizottsági tagság megszűnését követően is fennáll.
+(2) A Bizottság és a Honvédelmi Bizottság tagjait az e minőségükben birtokukba jutott állam- és szolgálati titkot tartalmazó információk tekintetében titoktartási kötelezettség terheli, amely a bizottsági tagság megszűnését követően is fennáll.
 
 (3) A Bizottság e törvényben szabályozott parlamenti ellenőrzési eljárása nem érint más, jogszabályban meghatározott bírósági vagy egyéb eljárást.
 
@@ -445,68 +217,59 @@ terheli.
 
 19. § (1) A Bizottság tagjának csak az az országgyűlési képviselő választható meg, aki tekintetében elvégezték az e törvényben meghatározott nemzetbiztonsági ellenőrzést.
 
-(2) Az Országgyűlés elnöke kezdeményezi a képviselőcsoport vezetője által a Bizottságba jelölt képviselő nemzetbiztonsági ellenőrzését.
+(2) Az Országgyűlés elnöke – a fontos és bizalmas munkakörre jelölt személyek ellenőrzésére vonatkozó szabályok szerint – köteles nemzetbiztonsági ellenőrzést kezdeményezni a Bizottságba a képviselőcsoportok vezetői által jelölt képviselők tekintetében. A képviselőcsoportok vezetői legfeljebb kétszer annyi jelöltet nevezhetnek meg, mint amennyi tag ajánlására jogosult a képviselőcsoport.
 
-(3)
+(3) A bizottsági tagságra jelölt képviselő tekintetében a nemzetbiztonsági ellenőrzést a Nemzetbiztonsági Hivatal végzi el. Amennyiben kockázati tényező merül fel, a Nemzetbiztonsági Hivatal főigazgatója erről tájékoztatja az érintett képviselőt.
 
-(4) A Bizottság tagjának jelölt képviselő tekintetében a nemzetbiztonsági ellenőrzést az Alkotmányvédelmi Hivatal végzi, a 68. § (5) bekezdésében foglaltak szerint.
+(4) A (3) bekezdésben meghatározott nemzetbiztonsági ellenőrzés elvégzését követően a képviselőcsoport vezetője ajánlást készít, amely annyi jelöltet tartalmaz, amennyi tag ajánlására jogosult a képviselőcsoport.
 
-(5) Kockázati tényező felmerülése esetén az Alkotmányvédelmi Hivatal főigazgatója tájékoztatja az érintett képviselőt és a polgári nemzetbiztonsági szolgálatok irányításáért felelős minisztert.
+(5) Ha az ajánlásban felsorolt jelölt tekintetében kockázati tényező áll fenn és a Bizottság megalakítására még nem került sor, a polgári nemzetbiztonsági szolgálatokat irányító miniszter a kockázati tényezőről tájékoztatja az Országgyűlés elnökét és az érintett képviselőcsoport vezetőjét.
 
-(6) A nemzetbiztonsági ellenőrzés elvégzését követően a képviselőcsoport vezetője ajánlást készít, amely annyi jelöltet tartalmaz, ahány tag ajánlására jogosult a képviselőcsoport.
+(6) Ha az ajánlásban felsorolt jelölt tekintetében kockázati tényező áll fenn és már működő Bizottságba kerül sor új tag megválasztására, a polgári nemzetbiztonsági szolgálatokat irányító miniszter a kockázati tényezőről tájékoztatja a Bizottságot és az érintett képviselőcsoport vezetőjét.
 
-(7) Ha az ajánlásban megnevezett képviselő tekintetében kockázati tényező áll fenn, amelyről az érintett képviselő és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter tájékoztatást kapott, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter a kockázati tényezőről tájékoztatja az Országgyűlés elnökét és az érintett képviselőcsoport vezetőjét.
+(7) Ha az érintett képviselőcsoport vezetője a jelölést a tájékoztatást követően is fenntartja, a jelölés további érvényessége tekintetében az (5) bekezdésben meghatározott esetben az Országgyűlés elnöke, a (6) bekezdésben meghatározott esetben szavazattöbbséggel a Bizottság dönt.
 
-(8) Amennyiben az érintett képviselőcsoport vezetője a megalakult Bizottságba történő jelölést a tájékoztatást követően is fenntartja, a jelölés további érvényessége tekintetében az Országgyűlés elnöke – a Bizottság elnöke és az érintett képviselőcsoport vezetője véleményét megismerve – dönt.
-
-(9) Ha a Bizottság megalakítására még nem került sor és az érintett képviselőcsoport vezetője a jelölést a (7) bekezdés szerinti tájékoztatás ellenére fenntartja, az ily módon jelölt képviselő a Bizottság elnökének, valamint a Honvédelmi Bizottság elnökének megválasztásáig a Bizottság tagjául nem választható meg. A Bizottság elnökének és a Honvédelmi Bizottság elnökének megválasztását követően, az utóbb megválasztott bizottsági elnök megválasztásától számított nyolc napon belül a jelölés érvényességéről a (8) bekezdés szerint kell dönteni.
-
-(10) Ha a Bizottság elnökének jelölt képviselő tekintetében áll fenn kockázati tényező, a jelölés érvényességéről az Országgyűlés elnöke dönt.
-
-19/A. § (1) A 14. § (4) bekezdés i) pontjában meghatározott panasz kivizsgálása során a Bizottság betekinthet a nemzetbiztonsági ellenőrzés irataiba, tájékoztatást kérhet a minisztertől és a biztonsági szakvéleményt kiállító nemzetbiztonsági szolgálat főigazgatójától, valamint a panaszost meghallgathatja.
-
-(2) A vizsgálat alapján a Bizottság
-
-- a) az alaptalan panaszt elutasítja,
-- b) a panasznak helyt ad és
-  - ba) a nemzetbiztonsági kockázat megállapítására vonatkozó döntés hatályon kívül helyezése mellett a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot új eljárásra kötelezi, vagy
-  - bb) a felülvizsgálati eljárás elrendelésének megtagadására vonatkozó döntés hatályon kívül helyezése mellett a nemzetbiztonsági szolgálat főigazgatóját felülvizsgálati eljárás elrendelésére kötelezi.
-
-(3) A Bizottság a (2) bekezdés szerinti döntéséről tájékoztatja a nemzetbiztonsági szolgálatot irányító minisztert, a panaszost és a nemzetbiztonsági ellenőrzés kezdeményezésére jogosultat.
-
-(4) A Bizottság 14. § (4) bekezdés j) pontjában meghatározott tájékoztatásban foglaltakat megvizsgálja, ennek során írásban vagy személyes meghallgatás keretében tájékoztatást kérhet az alapvető jogok biztosától, a nemzetbiztonsági szolgálatot irányító minisztertől, a nemzetbiztonsági szolgálat főigazgatójától, valamint a felülvizsgálati eljárás alá vont személyt meghallgathatja.
-
-(5) A Bizottság a 14. § (4) bekezdés j) pontjában meghatározott tájékoztatással kapcsolatos állásfoglalásáról tájékoztatja az alapvető jogok biztosát, az irányító minisztert, a nemzetbiztonsági szolgálat főigazgatóját, valamint az alapvető jogok biztosának eljárását kezdeményező személyt.
-
-### Az Országgyűlés Külügyi bizottsága tagjaira vonatkozó különös szabályok
-
-19/B. § A Külügyi bizottság tagjának csak az az országgyűlési képviselő választható meg, aki tekintetében elvégezték a 19. §-ban meghatározott eljárás szerinti nemzetbiztonsági ellenőrzést.
+(8) A Bizottság tagjai megbízatásuk teljes időtartama alatt nemzetbiztonsági védelemben részesülnek.
 
 ### A nemzetbiztonsági szolgálatok személyi állománya
 
-20. § (1) A polgári nemzetbiztonsági szolgálatok személyi állománya hivatásos szolgálati viszonyban álló személyekből és nemzetbiztonsági alkalmazottakból, a Katonai Nemzetbiztonsági Szolgálat személyi állománya hivatásos szolgálati viszonyban álló személyekből, honvédelmi alkalmazottakból és munkavállalókból áll.
+20. § (1) A nemzetbiztonsági szolgálatok személyi állománya hivatásos állományú személyekből és közalkalmazottakból áll. A hivatásos szolgálati jogviszony, valamint a közalkalmazotti jogviszony részletes szabályait külön törvények állapítják meg.
 
-(1a)
+(2) A katonai nemzetbiztonsági szolgálatok hivatásos állományú tagjai a Magyar Honvédség állományába tartoznak. Szolgálati viszonyukra a hivatásos katonák szolgálati viszonyára vonatkozó jogszabályokat kell alkalmazni.
 
-(1b)
+(3) A miniszter jogosult munkavégzés céljából a nemzetbiztonsági szolgálatok hivatásos állományú tagját az irányítási feladatok ellátását segítő szervezetbe berendelni.
 
-(2) A Katonai Nemzetbiztonsági Szolgálat személyi állománya az (1) bekezdésben foglaltakon túl önkéntes tartalékos katonákból áll. A Katonai Nemzetbiztonsági Szolgálat hivatásos és önkéntes tartalékos állományú tagjai a Magyar Honvédség állományába tartoznak. Szolgálati viszonyukra a hivatásos és önkéntes tartalékos katonák szolgálati viszonyára vonatkozó jogszabályokat kell alkalmazni.
+21. § (1) A nemzetbiztonsági szolgálatok hivatásos állományának szolgálati jogviszonya határozatlan időtartamra létesített különleges szolgálati jogviszony, amelyben a szolgálat függelmi rendben, fokozott veszélyeztetettségben történik.
 
-(3)
+(2) Hivatásos szolgálati jogviszony azzal a cselekvőképes, állandó belföldi lakóhellyel rendelkező, büntetlen előéletű magyar állampolgárral létesíthető, aki rendelkezik a szolgálati beosztásához előírt iskolai végzettségi és szakképesítési, egészségügyi, pszichológiai és fizikai alkalmassági feltételekkel, megfelel a miniszter által meghatározott további követelményeknek, valamint hozzájárul a szolgálati jogviszony létesítése és fenntartása céljából lefolytatandó biztonsági ellenőrzéshez és az ellenőrzés kockázati tényezőt nem tár fel.
 
-#### 21. §
+(3) A szolgálatra való alkalmasság a szolgálati jogviszony létesítésekor és annak fennállása idején is ellenőrizhető.
 
-#### 22. §
+22. § (1) A nemzetbiztonsági szolgálatok hivatásos állományú tagja
 
-23. § (1) A nemzetbiztonsági alkalmazottak és a honvédelmi alkalmazottak a nemzetbiztonsági szolgálatoknál olyan feladatköröket látnak el, amelyekben – a különös követelményeket támasztó – hivatásos szolgálati jogviszony létesítése nem szükséges.
+- a) fontos és bizalmas munkakört betöltő személynek minősül;
+- b) állampolgári jogait az e törvényben és a szolgálati jogviszonyra vonatkozó külön törvényben meghatározott korlátok között gyakorolhatja;
+- c) pártnak nem lehet tagja, politikai tevékenységet nem folytathat;
+- d) társadalmi szervezetbe történő belépési szándékát köteles előzetesen a főigazgatónak bejelenteni, a főigazgató a tagsági viszonyt megtilthatja, ha az a hivatással vagy a szolgálati beosztással nem egyeztethető össze, illetőleg a szolgálat érdekeit sérti vagy veszélyezteti (összeférhetetlenség);
+- e) nem folytathat olyan tevékenységet, amely a hivatásos szolgálati jogviszonyhoz méltatlan, vagy a szolgálati feladatok pártatlan, befolyástól mentes ellátását veszélyeztetné;
+- f) munkavégzéssel járó egyéb jogviszonyt a főigazgató előzetes engedélyével létesíthet; az engedélyt az e) pontban meghatározott esetekben, valamint akkor kell megtagadni, ha a jogviszony létesítése a hivatással vagy a szolgálati beosztással nem egyeztethető össze, ha a szolgálati jogviszonnyal összefüggésben szerzett információkkal való visszaélésre adhat alkalmat, illetve, ha a szolgálat érdekeit sérti vagy veszélyezteti.
 
-(2) A nemzetbiztonsági szolgálatnál honvédelmi alkalmazotti jogviszony azon személyekkel létesíthető, akik megfelelnek a honvédelmi alkalmazottak jogállását szabályozó törvényben foglalt alkalmazási feltételeknek, továbbá a jogviszony létrehozásával vagy fenntartásával összefüggésben lefolytatott nemzetbiztonsági ellenőrzés során nemzetbiztonsági kockázatot nem állapítottak meg.
+(2) A nemzetbiztonsági szolgálatok hivatásos állományú tagja köteles
 
-(3) A hivatásos szolgálati beosztás nemzetbiztonsági alkalmazotti munkakörré vagy honvédelmi alkalmazotti munkakörré, a nemzetbiztonsági alkalmazotti munkakör vagy a honvédelmi alkalmazotti munkakör hivatásos szolgálati beosztássá átminősíthető. Az átminősítettek jogviszonyára a külön törvényben meghatározott rendelkezések vonatkoznak.
+- a) esküt tenni,
+- b) a szolgálati beosztásában meghatározott feladatait a törvényes előírásoknak megfelelően teljesíteni,
+- c) elöljárója utasításának a 27. §-ban foglaltak figyelembevételével engedelmeskedni,
+- d) a Magyar Köztársaság nemzetbiztonsági érdekeit minden törvényes eszközzel érvényesíteni és – ha kell, élete árán is – megvédeni.
 
-24. § A nemzetbiztonsági szolgálatok személyi állományát a nemzetbiztonsági szolgálatokra és azok tevékenységére vonatkozó, tudomásukra jutott minősített adat tekintetében titoktartási kötelezettség terheli, amely magába foglalja az minősített adat megőrzését és védelmét is. A titoktartási kötelezettség alól a miniszter és a nemzetbiztonsági szolgálatok főigazgatói adhatnak felmentést. A nemzetbiztonsági szolgálatok személyi állományát a titoktartási kötelezettség az alkalmazás megszűnése után is terheli.
+23. § (1) A közalkalmazottak a nemzetbiztonsági szolgálatoknál olyan feladatköröket látnak el, amelyekben – a különös követelményeket támasztó – hivatásos szolgálati jogviszony létesítése nem szükséges.
 
-#### 25. §
+(2) A nemzetbiztonsági szolgálatoknál közalkalmazotti jogviszony azon személyekkel létesíthető, akik megfelelnek a közalkalmazottak jogállásáról szóló törvényben foglalt alkalmazási feltételeknek, valamint írásban hozzájárulnak a jogviszony létesítése és fenntartása céljából folytatandó biztonsági ellenőrzéshez.
+
+(3) A hivatásos szolgálati beosztás közalkalmazotti munkakörré, illetőleg a közalkalmazotti munkakör hivatásos szolgálati beosztássá átminősíthető. Az átminősítettek jogviszonyára a külön törvényben meghatározott rendelkezések vonatkoznak.
+
+24. § A nemzetbiztonsági szolgálatok személyi állományát a nemzetbiztonsági szolgálatokra és azok tevékenységére vonatkozó, tudomásukra jutott állam- és szolgálati titok tekintetében titoktartási kötelezettség terheli, amely magába foglalja az állam- és szolgálati titok megőrzését és védelmét is. A titoktartási kötelezettség alól a miniszter és a nemzetbiztonsági szolgálatok főigazgatói adhatnak felmentést. A nemzetbiztonsági szolgálatok személyi állományát a titoktartási kötelezettség az alkalmazás megszűnése után is terheli.
+
+25. § A nemzetbiztonsági szolgálatok hivatásos állományú tagjainak beosztási illetményük 25%-áig terjedő titkosszolgálati pótlék adható. A pótlékra jogosító beosztásokat – a főigazgató javaslatára – a miniszter határozza meg. E pótlék a szolgálati időpótlék számítása során nem vehető figyelembe.
 
 ### A nemzetbiztonsági szolgálatok működési alapelvei
 
@@ -522,49 +285,31 @@ terheli.
 
 28. § (1) A nemzetbiztonsági szolgálatok a feladataik teljesítése érdekében együttműködnek egymással.
 
-(2) Az állami szervek, önkormányzatok és a nemzetbiztonsági szolgálatok egymás munkáját kölcsönösen segítik. Az együttműködés részletes szabályait – a törvényi előírások keretei között – külön megállapodások rögzítik.
+(2) Az állami szervek és a nemzetbiztonsági szolgálatok egymás munkáját kölcsönösen segítik. Az együttműködés részletes szabályait – a törvényi előírások keretei között – külön megállapodások rögzítik.
 
 (3) A nemzetbiztonsági szolgálatok feladataik ellátása során együttműködhetnek természetes személyekkel, jogi személyekkel vagy jogi személyiséggel nem rendelkező szervezetekkel. Az együttműködés részletes szabályait – a törvényi előírások keretei között – külön megállapodások rögzíthetik.
 
-(4) A nemzetbiztonsági szolgálatok nemzetközi megállapodások és kötelezettségvállalások alapján együttműködhetnek külföldi titkosszolgálatokkal. A Nemzeti Információs Központ az előzőeken túlmenően – a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter jóváhagyásával – közvetlenül kapcsolatot tarthat fenn nemzetközi szervezetekkel, külföldi állam rendőri, közigazgatási, bűnüldöző, nemzetbiztonsági, vagy e célok elősegítésére létrehozott szervével.
+(4) A nemzetbiztonsági szolgálatok nemzetközi megállapodások és kötelezettségvállalások alapján együttműködhetnek külföldi titkosszolgálatokkal.
 
 (5) A nemzetbiztonsági szolgálatok a biztonsági követelmények érvényesítése érdekében a társadalombiztosítási, egészségügyi, adóelszámolási, költségvetési, pénzügyi, statisztikai adatszolgáltatással, a maradandó értékű irat védelme érdekében végzett levéltári ellenőrzéssel, valamint a speciális működési költségek körébe tartozó valutafelhasználással kapcsolatos eljárási szabályokat – a törvényi előírások keretei között – az illetékes szervezetekkel külön megállapodásban rögzítik.
 
-29. § (1) A Kormány tagjai feladatkörükben – e törvény keretei között – írásban kérhetik a Nemzeti Információs Központot irányító minisztertől információs igények megjelölését a nemzetbiztonsági szolgálatok részére. A kérést indokolni kell és jelezni, hogy az információt más forrásból nem lehet beszerezni.
+29. § (1) A Kormány tagjai feladatkörükben – e törvény keretei között – írásban kérhetik a minisztertől információs igények megjelölését a nemzetbiztonsági szolgálatok részére. A kérést indokolni kell és jelezni, hogy az információt más forrásból nem lehet beszerezni.
 
 (2) Az állami szervek kötelesek a 11. § (6) bekezdésében meghatározott tevékenységhez szükséges információkról – a Kormány által meghatározottak szerint – térítésmentesen adatszolgáltatást teljesíteni.
 
-30. § (1) Az e törvényben meghatározott feladatok ellátása érdekében, ha azt a nemzetbiztonsági szolgálatok főigazgatói kezdeményezik, a nemzetbiztonság szempontjából különleges fontosságú állami szervek, a Kormány által kijelölt nemzetbiztonsági védelem alá eső szervek és létesítmények, a többségi állami tulajdonú gazdasági társaságok, a központi energiaellátó és hírközlési rendszereket üzemeltető, a nemzetközileg ellenőrzött termékeket és technológiákat előállító és felhasználó, valamint a hadiipari kutatással foglalkozó üzemek és intézmények a nemzetbiztonsági szolgálat – alkalmazási feltételeknek egyébként megfelelő – munkatársával hivatásos szolgálati, közszolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, közalkalmazotti jogviszonyt, rendvédelmi igazgatási szolgálati jogviszonyt, honvédelmi alkalmazotti jogviszonyt, illetve munkajogviszonyt (a továbbiakban együtt: munkaviszony) létesítenek.
+30. § (1) Az e törvényben meghatározott feladatok ellátása érdekében, ha azt a nemzetbiztonsági szolgálatok főigazgatói kezdeményezik, a nemzetbiztonság szempontjából különleges fontosságú állami szervek és a tartós állami tulajdonban lévő gazdálkodó szervezetek, a központi energiaellátó és hírközlési rendszereket üzemeltető, a nemzetközileg ellenőrzött termékeket és technológiákat előállító és felhasználó, valamint a hadiipari kutatással foglalkozó üzemek és intézmények a nemzetbiztonsági szolgálat – alkalmazási feltételeknek egyébként megfelelő – munkatársával hivatásos szolgálati, közszolgálati, közalkalmazotti jogviszonyt, illetve munkajogviszonyt (a továbbiakban együtt: munkaviszony) létesítenek.
 
 (2) Az e törvényben meghatározott feladatok ellátása érdekében a nemzetbiztonsági szolgálatok – külön megállapodás alapján meghatározott időtartamra – munkaviszonyt kezdeményezhetnek az (1) bekezdés hatálya alá nem tartozó szervezeteknél.
 
-(3) A nemzetbiztonsági szolgálatok nem kezdeményezhetnek munkaviszonyt bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosának Hivatalánál, a Sándor-palotánál és az Országgyűlés Hivatalánál.
+(3) A nemzetbiztonsági szolgálatok nem kezdeményezhetnek munkaviszonyt bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, az Országgyűlési Biztos Hivatalánál, a Köztársasági Elnök Hivatalánál és az Országgyűlés Hivatalánál.
 
-(4) A foglalkoztatás nemzetbiztonsági jellegével kapcsolatos speciális szabályokat – a hatályos jogszabályok keretei között – a nemzetbiztonsági szolgálatok és az érintett szervezet külön megállapodása tartalmazza.
-
-### A Nemzeti Információs Központ működésére vonatkozó különös rendelkezések
-
-30/A. § Az együttműködő szervek a következők:
-
-- a) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv,
-- b) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv,
-- c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv,
-- d) a Nemzeti Adó- és Vámhivatal,
-- e) a polgári nemzetbiztonsági szolgálatok,
-- f) a Katonai Nemzetbiztonsági Szolgálat,
-- g) az idegenrendészeti hatóság,
-- h) a menekültügyi hatóság,
-- i) az állampolgársági ügyekben eljáró szerv,
-- j) a büntetés-végrehajtás központi szerve,
-- k) a bűnügyi nyilvántartó szerv,
-- l) a hivatásos katasztrófavédelmi szerv központi szerve,
-- m) a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv.
+(4) A foglalkoztatás nemzetbiztonsági jellegével kapcsolatos speciális szabályokat – a hatályos jogszabályok keretei között – a nemzetbiztonsági szolgálatok és az érintett szervezet külön megállapodása tartalmazza. A munkaviszony létesítésének nemzetbiztonsági jellege államtitok, kivéve, ha a megállapodást kötő felek eltérően rendelkeznek.
 
 ### A nemzetbiztonsági szolgálatok által alkalmazható intézkedések
 
-31. § (1) A nemzetbiztonsági szolgálatok nyomozást és előkészítő eljárást nem folytathatnak.
+31. § (1) A nemzetbiztonsági szolgálatok nyomozóhatósági jogkört nem gyakorolhatnak.
 
-(2) A nemzetbiztonsági szolgálatok hivatásos állományú tagja a 32–36/A. §-ban meghatározott intézkedéseket a nemzetbiztonsági szolgálatok feladatkörébe tartozó bűncselekmények megelőzése, illetve az ilyen bűncselekmények elkövetőjének elfogása érdekében alkalmazhatja.
+(2) A nemzetbiztonsági szolgálatok hivatásos állományú tagja a 32–36. §-ban meghatározott intézkedéseket a nemzetbiztonsági szolgálatok feladatkörébe tartozó bűncselekmények megelőzése, illetve az ilyen bűncselekmények elkövetőjének elfogása érdekében alkalmazhatja.
 
 (3) A nemzetbiztonsági szolgálatok a feladataik ellátása során a személyes szabadsághoz, a magánlakás, a magántitok és a levéltitok sérthetetlenségéhez, a személyes adatok védelméhez, a közérdekű adatok nyilvánosságához, valamint a birtokvédelemhez fűződő jogokat e törvényben foglaltak szerint korlátozhatják.
 
@@ -573,18 +318,6 @@ terheli.
 (5) Az intézkedés során kényszerítő eszköz alkalmazása esetén lehetőleg kerülni kell sérülés okozását.
 
 (6) Több lehetséges és alkalmas intézkedés, illetőleg kényszerítő eszköz közül azt kell választani, amely az eredményesség biztosítása mellett az intézkedéssel érintettre a legkisebb korlátozással, sérüléssel vagy károkozással jár.
-
-31/A. § (1) Nem büntethető a nemzetbiztonsági szolgálatok műveleti feladatot ellátó hivatásos állományú tagja a szabálysértésekről, szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvényben meghatározott, közúti közlekedési igazgatási szabályok megsértése szabálysértés, illetve a közúti közlekedési szabályok kisebb fokú megsértése szabálysértés miatt, ha
-
-- a) a szabálysértés elkövetése az 54. § (1) bekezdése és 56. §-a szerinti titkos információgyűjtés ellátásához szükséges, és az elérni kívánt cél,
-- b) a titkos információgyűjtés folyamatosságával, a biztonságának vagy lelepleződésének megakadályozásával kapcsolatos érdek, vagy
-- c) a szabálysértés elkövetése más bűncselekmény elkövetésének megelőzése vagy megszakítása érdekében szükséges, és a bűncselekmény megelőzéséhez vagy megszakításához fűződő érdek
-
-jelentősebb, mint a nemzetbiztonsági szolgálat hivatásos állományú tagjának felelősségre vonásához fűződő érdek.
-
-(2) Ha a nemzetbiztonsági szolgálatok hivatásos állományú tagja nem büntethető, az állam téríti meg azt a kárt, illetve sérelemdíjat, amelynek megtérítésére a nemzetbiztonsági szolgálatok hivatásos állományú tagja a polgári jog szerint köteles. A kár megtérítése, illetve a sérelemdíj megfizetése érdekében a nemzetbiztonsági szolgálatok a sérelmet szenvedett személlyel titoktartási megállapodás megkötését kezdeményezhetik, illetve az ehhez szükséges iratokat elkészíthetik.
-
-(3) Ha a kártérítésről, illetve a sérelemdíj megfizetéséről polgári perben kell határozni, az ezek iránti igény jogalapját vélelmezni kell. A polgári perben az államot az igazságügyért felelős miniszter képviseli. A polgári perben eljáró bíróság a kereset elbírálása előtt beszerzi a nemzetbiztonsági szolgálat nyilatkozatát a felperes sérelmére elkövetett cselekményről, a cselekménnyel okozott kárról, illetve személyiségi jogsértésről. A nyilatkozat nem terjedhet ki olyan tényre, amelynek alapján a nemzetbiztonsági szolgálatok műveleti feladatot ellátó hivatásos állományú tagja személyére lehet következtetni.
 
 32. § A nemzetbiztonsági szolgálatok hivatásos állományú tagja a nemzetbiztonsági szolgálatok feladatkörébe tartozó bűncselekmény tetten ért elkövetőjét elfoghatja és előállíthatja, ennek érdekében a cselekvés abbahagyására, illetve az ellenszegülés megtörésére kényszerítést (testi kényszert) alkalmazhat. Az elfogást követően az előállítást azonnal végre kell hajtani.
 
@@ -604,8 +337,8 @@ jelentősebb, mint a nemzetbiztonsági szolgálat hivatásos állományú tagjá
 36. § (1) A nemzetbiztonsági szolgálatok hivatásos állományú tagja – a jogos védelem és a végszükség esetein kívül – lőfegyvert használhat
 
 - a) az élet elleni vagy a testi épséget súlyosan veszélyeztető támadás, illetve az ezekkel történő közvetlen fenyegetés elhárítására;
-- b) a népirtás (Btk. 142. §), az alkotmányos rend erőszakos megváltoztatása (Btk. 254. §), a rombolás (Btk. 257. §), a kémkedés (Btk. 261. §), a terrorcselekmény (Btk. 314–316/A. §), a jármű hatalomba kerítése (Btk. 320. §) és a közveszély okozása (Btk. 322. §) bűncselekmények megakadályozására vagy megszakítására;
-- c) a nemzetbiztonsági szolgálattal összefüggő „Szigorúan titkos!” minősítési szintű minősített adatnak személy elleni erőszakkal történő jogosulatlan megszerzése és az erre irányuló kísérlet esetén;
+- b) az alkotmányos rend erőszakos megváltoztatása (Btk. 139. §), a rombolás (Btk. 142. §), a kémkedés (Btk. 147. §), a népirtás (Btk. 155. §), a közveszélyokozás (Btk. 259. §), a terrorcselekmény (Btk. 261. §), a légijármű hatalomba kerítése (Btk. 262. §) bűncselekmények elkövetésének megakadályozására vagy megszakítására;
+- c) a nemzetbiztonsági szolgálattal összefüggő államtitoknak személy vagy dolog elleni erőszakkal történő jogosulatlan megszerzése és az erre irányuló kísérlet esetén;
 - d) a nemzetbiztonsági szolgálat objektumát ért vagy azt közvetlenül fenyegető támadás elhárítására.
 
 (2) A lőfegyverhasználatot meg kell előznie
@@ -623,11 +356,7 @@ jelentősebb, mint a nemzetbiztonsági szolgálat hivatásos állományú tagjá
 
 (6) Lőfegyver – a jogos védelem és a végszükség kivételével – nem használható láthatóan terhes nővel és gyermekkorúval szemben.
 
-36/A. § (1) A nemzetbiztonsági szolgálat hivatásos állományú tagja a 32. §-ban, valamint a 36. § (1) bekezdésében meghatározott esetben vegyi eszközt és elektromos sokkoló eszközt használhat.
-
-(2) Az (1) bekezdésben meghatározott eszközök viselésével, használatával és tárolásával kapcsolatos részletes szabályokat a miniszter rendeletben állapítja meg.
-
-37. § (1) A nemzetbiztonsági szolgálatok hivatásos állományú tagja által foganatosított, a 32–36/A. §-ban meghatározott intézkedések ellen az érintett – akadályoztatása esetén hozzátartozója – panasszal élhet.
+37. § (1) A nemzetbiztonsági szolgálatok hivatásos állományú tagja által foganatosított, a 32–36. §-ban meghatározott intézkedések ellen az érintett – akadályoztatása esetén hozzátartozója – panasszal élhet.
 
 (2) A panaszt az intézkedésnek az érintett tudomására jutásától számított 8 napon belül a nemzetbiztonsági szolgálat főigazgatójához kell benyújtani. A kifogásolt intézkedéstől számított 5 éven túl panasz nem terjeszthető elő.
 
@@ -637,155 +366,52 @@ jelentősebb, mint a nemzetbiztonsági szolgálat hivatásos állományú tagjá
 
 (5) Az elmulasztott határnaptól számított 30 napon belül igazolási kérelmet lehet előterjeszteni.
 
-(6) A közigazgatási per indításának előfeltétele a panasz kimerítése. A perre a Fővárosi Törvényszék kizárólagosan illetékes. A bíróság a miniszter döntését nem változtathatja meg.
+(6) A miniszter határozatának felülvizsgálatát az érintett a polgári perrendtartásnak a közigazgatási határozatok felülvizsgálatára vonatkozó XX. fejezetének szabályai szerint kérheti. Az eljárásra kizárólag a Fővárosi Bíróság illetékes. A bíróság a megtámadott törvénysértő határozatot megsemmisíti.
 
 ### A nemzetbiztonsági szolgálatok adatkezelése
 
-38. § A nemzetbiztonsági szolgálatok az e törvényben meghatározott feladataik ellátása érdekében
-
-- a) személyes adatot, különleges adatot és bűnügyi személyes adatot, valamint
-- b) közérdekű adatot és közérdekből nyilvános adatot (az a)–b) pontban meghatározottak a továbbiakban együtt: adat) kezelnek.
+38. § A nemzetbiztonsági szolgálatok az e törvényben meghatározott feladataik ellátásának érdekében személyes adatot (ezen belül különleges adatot) és közérdekű adatot (a továbbiakban együtt: adat) kezelnek.
 
 39. § (1) A nemzetbiztonsági szolgálatok adatot szereznek be
 
 - a) az érintett önkéntes, illetve e törvényben előírt kötelező adatszolgáltatásával;
 - b) nyílt forrásból;
 - c) adatkezelést végző szerv adatszolgáltatásából;
-- d) e törvényben meghatározott esetekben közvetlen elektronikus adatkapcsolat útján,
-- e) titkos információgyűjtéssel.
-
-(1a)
+- d) titkos információgyűjtéssel.
 
 (2) A nemzetbiztonsági szolgálatok az adatkezelés során kötelesek az adott cél eléréséhez feltétlenül szükséges, ugyanakkor az érintett személyiségi jogait legkevésbé korlátozó eszközt igénybe venni.
 
-(3) A nemzetbiztonsági ellenőrzés alá eső személy a nemzetbiztonsági ellenőrzéshez szükséges adatokat köteles a nemzetbiztonsági ellenőrzést végrehajtó nemzetbiztonsági szolgálattal közölni.
+(3) A fontos és bizalmas munkakört betöltő, illetve az ilyen munkakörbe jelölt személyek az e törvényben meghatározott biztonsági ellenőrzéssel összefüggő személyes, köztük különleges adatokat kötelesek az ellenőrzést végző nemzetbiztonsági szolgálatok számára közölni.
 
-40. § (1) A nemzetbiztonsági szolgálatok feladataik teljesítése érdekében – eltérő törvényi rendelkezés hiányában – bármely adatkezelési rendszerből – az adatkérés céljának megjelölésével – adatokat kérhetnek, a rendszerekbe és a nyilvántartás alapjául szolgáló iratba betekinthetnek. Az adatkérés alapján az állami szerv, a többségi állami tulajdonú gazdasági társaság, valamint a hitelintézetekről és pénzügyi vállalkozásokról szóló törvényben meghatározott pénzügyi intézmény az adattovábbítást elektronikus formában, elektronikus adatkapcsolat útján, az érintett nemzetbiztonsági szolgálat által meghatározott műszaki követelményeknek megfelelő, az adatkezelő által térítésmentesen kiépített és üzemeltetett csatlakozási felületen hajtja végre, valamint hiányos és töredékadatok tekintetében is teljesíti.
+40. § (1) A nemzetbiztonsági szolgálatok feladataik teljesítése érdekében – eltérő törvényi rendelkezés hiányában – bármely adatkezelési rendszerből – az adatkérés céljának megjelölésével – adatokat kérhetnek, a rendszerekbe és a nyilvántartás alapjául szolgáló iratba betekinthetnek. Az adatkérést hiányos és töredékadatok tekintetében is teljesíteni kell. Az adattovábbítás tényét mind az átadó, mind az átvevő szervnél dokumentálni kell.
 
-(1a) Az (1) bekezdésben meghatározott adattovábbításokról az átadó szerv az adattovábbítás tényének és időpontjának, valamint az átvevő szerv által az adatkéréskor képzett egyedi azonosítónak a rögzítésével, illetve az átvevő szerv az adattovábbítás tényének, időpontjának, egyedi azonosítójának és az adatkérés céljának rögzítésével olyan elkülönült nyilvántartást vezet, amely kizárja az utólagos módosítás lehetőségét. A nyilvántartásokból az egyes adattovábbításokra vonatkozó adatok az adattovábbítástól számított öt év elteltével törölhetőek.
-
-(1b) Az (1) bekezdésben meghatározott igényeknek megfelelő műszaki rendszert az adatkezelőnek az érintett nemzetbiztonsági szolgálat részére a műszaki követelményekről történő írásbeli tudomásszerzéstől számított hat hónapon belül kell kialakítani.
-
-(2) A nemzetbiztonsági szolgálatok az állami szervek, az önkormányzatok a pénzintézetek, a biztosítóintézetek és a távközlési szolgáltatást végző szervezetek által kezelt nyilvántartások adatait térítés nélkül kérhetik, illetve vehetik igénybe. Egyéb adatkezelő szerv a nemzetbiztonsági szolgálatok adatkérésével kapcsolatos költségeit utólag érvényesítheti.
+(2) A nemzetbiztonsági szolgálatok az állami szervek, a pénzintézetek, a biztosítóintézetek és a távközlési szolgáltatást végző szervezetek által kezelt nyilvántartások adatait térítés nélkül kérhetik, illetve vehetik igénybe. Egyéb adatkezelő szerv a nemzetbiztonsági szolgálatok adatkérésével kapcsolatos költségeit utólag érvényesítheti.
 
 (3) A nemzetbiztonsági szolgálatok a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervtől történő adatkérés, az érintettel és más adatkezelővel való kapcsolattartás során, és nyilvántartásaikban az e törvényben meghatározott feladataik ellátása céljából – jogszabályban meghatározott módon – személyi azonosítót, természetes személyazonosító adatokat, valamint adóazonosító jelet, illetve egyéb azonosítókat használhatnak.
 
-(4) A nemzetbiztonsági szolgálatok a feladataik teljesítése érdekében jogosultak
-
-- a) a közterületen elhelyezett és jogszerűen üzemeltetett képfelvétel, hangfelvétel vagy kép- és hangfelvétel rögzítésére szolgáló eszköz által megfigyelt közterületen történteket a nemzetbiztonsági szolgálat által meghatározott műszaki követelményeknek megfelelő, az üzemeltető állami szerv, önkormányzat által az (5)–(8) bekezdésben meghatározottak szerint kiépített és üzemeltetett elektronikus adatkapcsolat útján átvenni, valós időben megismerni,
-- b) a közforgalom számára nyitva álló magánterületen az emberi élet, testi épség, személyi szabadság védelme, a veszélyes anyagok őrzése, az üzleti, fizetési, bank- és értékpapírtitok védelme, valamint a vagyonvédelem érdekében gazdálkodó szerv által jogszerűen üzemeltetett, képfelvétel, hangfelvétel vagy kép- és hangfelvétel rögzítésére szolgáló eszköz által a közforgalom számára nyitva álló magánterületen történteket a nemzetbiztonsági szolgálat által meghatározott műszaki követelményeknek megfelelő, az üzemeltető gazdálkodó szerv által az (5)–(8) bekezdésben meghatározottak szerint kiépített és üzemeltetett elektronikus adatkapcsolat útján átvenni, valós időben megismerni.
-
-(5) A (4) bekezdésben meghatározott igényeknek megfelelő elektronikus adatkapcsolatot az üzemeltető szervnek a nemzetbiztonsági szolgálat részére a műszaki követelményekről történő írásbeli tudomásszerzéstől számított hat hónapon belül kell kialakítania.
-
-(6) A (4) bekezdésben meghatározott elektronikus adatkapcsolatot az üzemeltető állami szervek és a többségi állami tulajdonú gazdasági társaságok saját költségvetésük terhére alakítják ki és működtetik.
-
-(7) Az önkormányzatok és a (6) bekezdésben meg nem határozott gazdasági társaságok – törvény eltérő rendelkezése hiányában – a (4) bekezdésben meghatározott elektronikus adatkapcsolatot a működtető nemzetbiztonsági szolgálat költségvetésének terhére alakítják ki és működtetik.
-
-(8) Az e § szerinti adattovábbítást az adatkezelő – törvény eltérő rendelkezése hiányában – soron kívül, további feltétel tűzése nélkül teljesíti a nemzetbiztonsági szolgálat részére.
-
-41. § (1) A nemzetbiztonsági szolgálatok feladataik ellátása érdekében
-
-- a) a polgárok személyi és lakcímének adatait nyilvántartó, kezelő állami vagy önkormányzati szerv nyilvántartásaiban,
-- b) a személyiadat- és lakcímnyilvántartásáért felelős miniszter által vezetett minisztérium nyilvántartásaiban,
-- c) az általános rendőrségi feladatok ellátására létrehozott szerv nyilvántartásaiban,
-- d) az ingatlan-nyilvántartásban,
-- e) a cégnyilvántartásban,
-- f) a határforgalom ellenőrzését szolgáló nyilvántartó rendszerekben,
-- g) valamennyi gépjárműnek, továbbá azok hatósági jelzésének bármely célból való nyilvántartására jogosult szerv nyilvántartásaiban,
-- h) az egészségügyi és a hozzá kapcsolódó adatot kezelő szervek nyilvántartásaiban,
-- i) a banktitoknak, fizetési titoknak, értékpapírtitoknak, pénztártitoknak, biztosítási titoknak és egyéb üzleti titoknak minősülő adatot kezelő, mindenki által elérhető, bárki által hozzáférhető szolgáltatást nyújtó szervek nyilvántartásaiban,
-- j) az állami adóhatóság és az önkormányzati adóhatóság nyilvántartásaiban,
-- k) a postai szolgáltató nyilvántartásaiban,
-- l) az elektronikus hírközlési szolgáltató rendszereiben
-
-megőrzésre alkalmas módon, dokumentáltan – az intézkedés céljának és időpontjának, határidejének, vagy időtartamának megjelölésével – jelzések elhelyezését rendelhetik el, melyekre vonatkozóan jelzőrendszert működtethetnek.
+41. § (1) A nemzetbiztonsági szolgálatok feladataik ellátása érdekében a polgárok személyi adatait és lakcímét nyilvántartó szervek, a személyiadat- és lakcímnyilvántartásért felelős miniszter által vezetett minisztérium és a Rendőrség nyilvántartásaiban, az egyéb igazgatási, valamint a határforgalom ellenőrzését szolgáló nyilvántartó rendszerekben írásban – az intézkedés céljának megjelölésével – jelzések elhelyezését rendelhetik el.
 
 (2) A jelzésben a nemzetbiztonsági szolgálatok adatváltozást, illetve az érintett személyre vonatkozó megkeresés esetében értesítés adását, továbbá a határforgalomra vonatkozóan – írásban – az érintett feltartóztatását is kérhetik. Az érintett szerv a nemzetbiztonsági szolgálatok megkeresésében foglalt intézkedést teljesíti.
 
 (3) A nemzetbiztonsági szolgálatok haladéktalanul kötelesek intézkedni a jelzés elhelyezésének megszüntetéséről, ha az arra okot adó körülmény megszűnt.
 
-(4) A jelzések elhelyezésére való intézkedést, valamint a jelzőrendszer működtetését az adatkezelés megfelelő dokumentálása mellett – ha a nyilvántartások ezt lehetővé teszik – elektronikus formában, lehetőség szerint elektronikus adatkapcsolat útján, a jelzőrendszert működtető nemzetbiztonsági szolgálat által meghatározott műszaki követelményeknek megfelelő, az adatot szolgáltató szerv által a (6) és (7) bekezdésben meghatározottak szerint kiépített és üzemeltetett csatlakozási felületen kell végrehajtani.
-
-(5) A (4) bekezdésben meghatározott igényeknek megfelelő műszaki rendszert az adatot szolgáltató szervnek a jelzőrendszert működtető nemzetbiztonsági szolgálat részére a műszaki követelményekről történő írásbeli tudomásszerzéstől számított hat hónapon belül kell kialakítania.
-
-(6) Az (1) bekezdésben meghatározott jelzőrendszert az (1) bekezdés szerinti nyilvántartást vezető állami szervek, valamint a többségi állami tulajdonú gazdasági társaságok saját költségvetésük terhére alakítják ki és működtetik.
-
-(7) A (6) bekezdésben meg nem határozott szervek és gazdasági társaságok – törvény eltérő rendelkezése hiányában – az (1) bekezdésben meghatározott jelzőrendszert a jelzőrendszert működtető nemzetbiztonsági szolgálat költségvetésének terhére alakítják ki és működtetik.
-
-41/A. § (1) A polgári nemzetbiztonsági szolgálatok rejtett ellenőrzésre, célzott ellenőrzésre irányuló figyelmeztető jelzés elhelyezését és kiegészítő adat csatolását kezdeményezhetik a körözési nyilvántartási rendszer útján a Schengeni Információs Rendszerben abban az esetben, ha Magyarország nemzetbiztonságát sértő vagy veszélyeztető tevékenység felderítése vagy elhárítása érdekében indokolt.
-
-(2) A polgári nemzetbiztonsági szolgálatok a rejtett ellenőrzésre, célzott ellenőrzésre irányuló figyelmeztető jelzés elhelyezéséről az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 36. cikk (4) bekezdése szerint tájékoztatják a tagállamokat.
-
-41/B. § A Nemzeti Információs Központ a hatáskörébe tartozó ügyekben a 41–41/A. §-ban foglaltakon kívül az együttműködő szerv adatkezelési rendszerében is – kizárólag egyedileg megjelölt adat keletkezéséről vagy megváltozásáról történő értesítés kérése céljából, a cél megjelölésével – elrendelheti jelzés elhelyezését.
-
-42. § (1)
+42. § (1) A nemzetbiztonsági szolgálatok adatkérése, adatbetekintése és adatszolgáltatása, a jelzések elhelyezésének ténye, illetve mindezek tartalma államtitoknak minősül.
 
 (2) Az az adatkezelő szerv, amely a nemzetbiztonsági szolgálatok részére az általa kezelt nyilvántartásokból adatszolgáltatást teljesített, adatbetekintést biztosított, illetőleg nyilvántartásában a nemzetbiztonsági szolgálatok megkeresésére jelzést helyezett el, mindezek tényéről, tartalmáról, valamint a megtett intézkedésekről az érintettet, illetőleg más személyt vagy szervezetet nem tájékoztathat.
 
 (3) A hatósági jogkörrel nem rendelkező adatkezelő szerv vagy intézmény vezetője az adatbetekintés, illetve az adatszolgáltatás elrendelése ellen – halasztó hatállyal nem bíró – panasszal fordulhat a miniszterhez.
 
-43. § A nemzetbiztonsági szolgálatok a birtokukba került adatokat csak az adatfelvétel elrendelésének jogalapjául szolgáló célra használhatják fel, kivéve, ha az adat
-
-- a) bűncselekményi törvényi tényállás megvalósítására utal, és átadását törvény lehetővé teszi, vagy
-- b) más nemzetbiztonsági szolgálat irányában tájékoztatási kötelezettséget alapoz meg, és az adatátvevő maga is jogosult az adat átvételére.
+43. § A nemzetbiztonsági szolgálatok a birtokukba került adatokat csak az adatfelvétel elrendelésének jogalapjául szolgáló célra használhatják fel, kivéve, ha az adat hivatalból üldözendő bűncselekményi tényállás megvalósítására utal, vagy más nemzetbiztonsági szolgálat irányában tájékoztatási kötelezettséget alapoz meg, és az adatátvevő maga is jogosult az adat megszerzésére.
 
 44. § (1) A nemzetbiztonsági szolgálatok e törvény alapján feladataik ellátása érdekében egymástól adatot kérnek, illetve egymásnak adatot szolgáltatni kötelesek.
 
-(2) A Rendőrség, a Nemzeti Adó- és Vámhivatal, a védelmi és biztonsági igazgatás központi szerve, a bíróság, az ügyészség és a büntetés-végrehajtási szervek a konkrét cél megjelölésével – a rájuk vonatkozó törvényben meghatározott feladataik ellátására, az ott meghatározott körben – a nemzetbiztonsági szolgálatoktól adatok igénylésére jogosultak.
-
-(2a) A nemzetbiztonsági szolgálatok nem kötelesek büntetőeljárást kezdeményezni és átadni az adatokat, ha azzal veszélyeztetnék az e törvényben meghatározott feladataik ellátását.
+(2) A Rendőrség, a Vám- és Pénzügyőrség, a bíróság, az ügyészség és a büntetés-végrehajtási szervek a konkrét cél megjelölésével – a rájuk vonatkozó törvényben meghatározott feladataik ellátására, az ott meghatározott körben – a nemzetbiztonsági szolgálatoktól adatok igénylésére jogosultak.
 
 (3) A nemzetbiztonsági szolgálatok adatközlése nem eredményezheti a nemzetbiztonsági szolgálatokkal együttműködő személy (adatforrás) felfedését. A titkos információgyűjtő módszer és forrás védelme érdekében az átadott adat felhasználására vonatkozóan a nemzetbiztonsági szolgálatok főigazgatói korlátokat határozhatnak meg.
 
 (4) Az adatszolgáltatást kérő szervek felelősek az átvett adatoknak az e törvényben, illetve az adatkezelésre vonatkozó jogszabályokban foglaltak szerinti kezeléséért, kötelesek az átvett adatokat, azok felhasználását nyilvántartani és kérésre a nemzetbiztonsági szolgálat számára arról tájékoztatást adni.
 
-45. § (1) A nemzetbiztonsági szolgálatok nemzetközi kötelezettségvállalás alapján külföldi adatkezelő részére személyes adatokat továbbíthatnak a személyes adatok védelmére vonatkozó jogszabályok keretei között.
-
-(2) Az Alkotmányvédelmi Hivatal, az Információs Hivatal, a Nemzeti Információs Központ, valamint a Katonai Nemzetbiztonsági Szolgálat a Vízuminformációs Rendszerhez az e törvény szerinti hatáskörét érintő bűncselekmény megelőzése, felderítése – ideértve az Információs Hivatalnak a 4. § c) pontja szerinti feladatkörét is –, illetve e cselekményekkel összefüggő információszerzés céljából, meghatározott egyedi ügyben, betekintés céljából történő hozzáférést kezdeményezhet. A vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat szerinti kezdeményezést a polgári nemzetbiztonsági szolgálatokat irányító miniszterhez, a polgári hírszerzési tevékenység irányításáért felelős miniszterhez, illetve a honvédelemért felelős miniszterhez kell megtenni.
-
-(3) A (2) bekezdés szerinti betekintés céljából történő hozzáférést írásban vagy elektronikus úton abban az esetben lehet kezdeményezni, ha
-
-- a) a kezdeményező rendelkezésére álló adatok alapján alaposan feltehető, hogy a betekintés céljából történő hozzáférés útján megismerhető adat nélkül a (2) bekezdésben meghatározott valamely bűncselekmény megelőzése, felderítése vagy az e cselekményekkel összefüggő információszerzés érdemben nem biztosítható;
-- b) a betekintés céljából történő hozzáférésre a (2) bekezdésben meghatározott bűncselekmények körébe tartozó valamely bűncselekmény megelőzésére, felderítésére vagy az e cselekményekkel összefüggő információszerzésre irányuló egyedi eljárásban van szükség.
-
-(4) A Vízuminformációs Rendszerhez betekintés céljából történő hozzáférésre irányuló, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, illetve a honvédelemért felelős miniszter útján történő adatszolgáltatási kezdeményezésnek a következő adatokat kell tartalmaznia:
-
-- a) a (3) bekezdés a) pontjában meghatározott feltétel igazolására vonatkozó adatok,
-- b) az eljáró hatóság megnevezése, az egyedi ügy ügyiratszáma, a kezdeményezésre jogosult neve és a VIS nemzeti központi hatóság által biztosított azonosító kódja,
-- c) a kezdeményezés alapjául szolgáló bűncselekmény minősítése, továbbá
-- d) a kezdeményezéssel igényelt adat megnevezése és minden egyes igényelt adat tekintetében az arra vonatkozó indokolás, hogy fennáll a (3) bekezdés a) pontjában foglalt feltétel.
-
-(5) A kezdeményezésben a lekérdezésre szolgáló alábbi adatok alapján a (4) bekezdés d) pontjában foglaltak szerinti adatok megismeréséhez meg kell jelölni az alábbi adatkörök közül azt, amelyre a betekintés útján való hozzáférés történik:
-
-- a) családi név, születéskori családi név (korábbi családi név); utónevek; nem; születési idő, hely és ország,
-- b) jelenlegi állampolgárság és a születéskori állampolgárság,
-- c) az úti okmány típusa és száma, a kiállító hatóság, valamint a kiállítás és a lejárat időpontja,
-- d) fő úti cél és a tartózkodás tervezett időtartama,
-- e) az utazás célja,
-- f) az érkezés és az indulás tervezett időpontja,
-- g) az első belépés szerinti tervezett határ vagy tranzitútvonal,
-- h) lakóhely,
-- i) ujjnyomatok,
-- j) a vízum típusa és a vízumbélyeg száma,
-- k) a meghívólevelet kibocsátó, illetve a tartózkodás ideje alatt a megélhetési költségeket fedező személy adatai.
-
-(6) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, illetve a honvédelemért felelős miniszter a (2)–(5) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kezdeményezés teljesítését megelőzően vizsgálni köteles.
-
-(7) Kivételesen sürgős esetben a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, illetve a honvédelemért felelős miniszter a nemzetbiztonsági szolgálatoknak a betekintés céljából történő hozzáférés kezdeményezésére vonatkozó szóbeli kezdeményezését is teljesítheti. Ebben az esetben a (2)–(5) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kezdeményezés teljesítését követően, a sürgősség indokoltságával együtt kell vizsgálni.
-
-(8) A kezdeményezés alapján hozzáféréssel a Vízuminformációs Rendszerből nem vehető át és nem továbbítható adat, ha a (2)–(5) bekezdésben meghatározott feltételek nem teljesülnek. Ha a kezdeményezés alapján a 2008/633/IB tanácsi határozat szerinti, kijelölt nemzeti központi hozzáférési pont hozzáféréssel a kezdeményezést teljesíti és a hozzáférés a Vízuminformációs Rendszerben találatot eredményez, a kérelmező nemzetbiztonsági szolgálat részére a kezdeményezésben igényelt adatokon túlmenően továbbíthatók:
-
-- a) a vízumkérdőívről származó egyéb adat,
-- b) a fénykép, és
-- c) bármely – korábban kiadott, elutasított, megsemmisített, visszavont vagy meghosszabbított – vízummal kapcsolatos adat.
-
-(9) A betekintés céljából történő hozzáférés kezdeményezésére csak az a személy jogosult, akinek a feladatköre alapján az Alkotmányvédelmi Hivatal, az Információs Hivatal, a Nemzeti Információs Központ vagy a Katonai Nemzetbiztonsági Szolgálat főigazgatója erre felhatalmazást adott, és erről a VIS nemzeti központi hatóságot értesítette. A (4) bekezdés b) pontja szerinti azonosító kódot az értesítést követően a VIS nemzeti központi hatóság bocsátja a kezdeményezésre jogosult személy rendelkezésére. Vissza kell vonni a felhatalmazását annak – és erről a VIS nemzeti központi hatóságot értesíteni kell –, akinek a felhatalmazás alapjául szolgáló feladatköre megszűnt.
-
-45/A. § (1) A nemzetbiztonsági szolgálat – amennyiben nemzetközi megállapodás vagy kötelezettségvállalás másként nem rendelkezik – más EGT-állam titkosszolgálatától érkezett megkeresés alapján közreműködik az e törvény szerinti nemzetbiztonsági ellenőrzéssel azonos megítélés alá eső eljárások (biztonsági ellenőrzés) során felmerülő adattári ellenőrzések végrehajtásában, amely során a nemzetbiztonsági szolgálat a megkeresés céljára figyelemmel más állami adatkezelő szervtől adatok igénylésére jogosult.
-
-(2) A nemzetbiztonsági szolgálat az eljárása során keletkezett adatokat továbbítja az EGT-állam titkosszolgálata részére, amennyiben az adattovábbítás nemzetbiztonsági érdeket nem sért.
-
-(3) A nemzetbiztonsági szolgálat főigazgatója a megkeresés alapján továbbított adatok felhasználására vonatkozóan korlátokat határozhat meg.
+45. § A nemzetbiztonsági szolgálatok nemzetközi kötelezettségvállalás alapján külföldi adatkezelő részére személyes adatokat továbbíthatnak a személyes adatok védelmére vonatkozó jogszabályok keretei között.
 
 46. § A nemzetbiztonsági szolgálatok a személyes adatok továbbításáról nyilvántartást vezetnek, amely tartalmazza
 
@@ -794,19 +420,15 @@ megőrzésre alkalmas módon, dokumentáltan – az intézkedés céljának és 
 - c) az adattovábbítás idejét;
 - d) az adatszolgáltatást tartalmazó iratok és egyéb dokumentumok másodpéldányát.
 
-47. § (1) A (3) bekezdésben foglalt kivétellel a nemzetbiztonsági szolgálatok – konkrét feladataik teljesítése érdekében, ha a személyes adatoknak az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott szintű védelme, illetve az adatbiztonság feltételei a másik adatkezelő részéről is biztosítottak – adatkezelési rendszereiket egymás és más állami adatkezelő szervek adatkezelési rendszerével összekapcsolhatják.
+47. § (1) A nemzetbiztonsági szolgálatok – konkrét feladataik teljesítése érdekében, ha az adatvédelem és az adatbiztonság feltételei a másik adatkezelő részéről is biztosítottak – adatkezelési rendszereiket egymás és más állami adatkezelő szervek adatkezelési rendszerével összekapcsolhatják.
 
-(2) Az összekapcsolást a konkrét nemzetbiztonsági feladat elvégzését követően meg kell szüntetni, az összekapcsolás során keletkezett adatállományt az eljárás befejezését követően törölni kell. Nem kell törölni az összekapcsolás eredményeként keletkezett azon adatot, amely a nemzetbiztonsági szolgálatok feladatainak ellátásához szükséges.
-
-(3) A Nemzeti Információs Központ adatkezelési rendszerét a további nemzetbiztonsági szolgálatok nem kapcsolhatják össze a saját adatkezelési rendszereikkel.
-
-(4) A Nemzeti Információs Központ az adatkezelési rendszerét a további nemzetbiztonsági szolgálatok adatkezelési rendszereivel – ha a személyes adatoknak az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott szintű védelme biztosított – a (2) bekezdésben foglalt korlátozás nélkül összekapcsolhatja.
+(2) Az összekapcsolást a konkrét nemzetbiztonsági feladat elvégzését követően meg kell szüntetni, az összekapcsolás során keletkezett adatállományt az eljárás befejezését követően törölni kell.
 
 48. § (1) A nemzetbiztonsági szolgálatok által kezelt adatokról, és a 46. §-ban meghatározott adattovábbítási nyilvántartásból az érintett kérelmére történő tájékoztatást, a személyes adatainak törlését, valamint a nemzetbiztonsági szolgálat által kezelt közérdekű adat megismerésére irányuló kérelmet a nemzetbiztonsági szolgálat főigazgatója – nemzetbiztonsági érdekből vagy mások jogainak védelme érdekében – megtagadhatja.
 
-(2) A nemzetbiztonsági szolgálatok az érintettektől érkező kéréseket nyilvántartják, a kérelmekről, elbírálásuk módjáról, az elutasítás indokairól évente tájékoztatják a Nemzeti Adatvédelmi és Információszabadság Hatóságot.
+(2) A nemzetbiztonsági szolgálatok az érintettektől érkező kéréseket nyilvántartják, a kérelmekről, elbírálásuk módjáról, az elutasítás indokairól évente tájékoztatják az adatvédelmi biztost.
 
-(3) A nemzetbiztonsági szolgálatok minősített adataival kapcsolatban az érintettnek – a minősített adat védelméről szóló törvényben biztosított – adatbetekintési jogát a főigazgató nemzetbiztonsági érdekből korlátozhatja.
+(3) A nemzetbiztonsági szolgálatok szolgálati titokká minősített adataival kapcsolatban az érintettnek – az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 11. § (3) bekezdésben biztosított – adatbetekintési jogát a főigazgató nemzetbiztonsági érdekből korlátozhatja.
 
 49. § (1) A főigazgatók gondoskodnak az adatokhoz való jogosulatlan hozzáférés, közlés, megváltoztatás, törlés és megsemmisülés megelőzéséről, illetőleg az illetéktelen hozzáférést megakadályozó védelemről (adatbiztonság).
 
@@ -818,10 +440,8 @@ megőrzésre alkalmas módon, dokumentáltan – az intézkedés céljának és 
 
 - a) a biztonsági okmányok adatait az érvényesség lejártától számított 10 évig;
 - b) a rejtjeltevékenység felügyelete és irányítása során kiadott dokumentumokat az érvényesség lejártától számított 10 évig;
-- c) a nemzetbiztonsági védelmi feladatok ellátása során keletkezett adatokat a beosztás, illetve tisztség megszűnésétől számított 20 évig;
-- d) a nemzetbiztonsági ellenőrzési feladatok ellátása során keletkezett adatokat a biztonsági szakvélemény érvényességének végétől számított 20 évig;
-- e) a közúti közlekedési nyilvántartásról szóló törvény szerinti járműnyilvántartásban kezelt járművek hatósági jelzésére vonatkozó és képi adatait 10 évig.
-- f) az a)–e) pontban fel nem sorolt feladatkörben gyűjtött személyes adatokat az adatgyűjtés megszüntetésétől számított 70 évig.
+- c) a nemzetbiztonsági ellenőrzési és védelmi feladatok ellátása során keletkezett adatokat a beosztás, illetve a tisztség megszűnésétől számított 20 évig;
+- d) az a)–c) pontokban fel nem sorolt feladatkörben gyűjtött személyes adatokat az adatgyűjtés megszüntetésétől számított 70 évig.
 
 (2) A nemzetbiztonsági szolgálatok által kezelt személyes adatot haladéktalanul törölni kell, ha
 
@@ -833,28 +453,7 @@ megőrzésre alkalmas módon, dokumentáltan – az intézkedés céljának és 
 
 (3) A törlési kötelezettség – a (2) bekezdés b)–d) pontjaiban meghatározott esetek kivételével – nem vonatkozik azon személyes adatra, amelynek adathordozóját a levéltári anyagok védelmére vonatkozó jogszabály értelmében levéltári megőrzésre kell átadni.
 
-50/A. § (1) Azon adatok kivételével, amelyeket e törvény alapján rövidebb határidőn belül törölni kell, az Alkotmányvédelmi Hivatal a megbízhatósági vizsgálat során keletkezett a titkos információgyűjtéssel érintett személyek adatait és a titkos információgyűjtés eredményeként keletkezett adatokat
-
-- a) a 9/C. § (1) bekezdésében meghatározott esetben a megbízhatósági vizsgálat befejezését követő harminc napig,
-- b) ha a megbízhatósági vizsgálat eredményeként büntetőeljárás indul, a (2) bekezdésben meghatározottak szerint
-
-kezelheti.
-
-(2) Azon adatok kivételével, amelyeket a büntetőeljárásról szóló törvény alapján rövidebb határidőn belül törölni kell, az Alkotmányvédelmi Hivatal az e törvényben meghatározott belső biztonsági és bűnmegelőzési feladatok ellátása céljából a külső engedélyhez nem kötött eszközök alkalmazásával érintett személyek adatait és az alkalmazás eredményeként keletkezett adatokat
-
-- a) ha a büntetőeljárásról szóló törvény szerinti előkészítő eljárást követően nyomozás nem indul, a külső engedélyhez nem kötött eszközök alkalmazásának megszüntetését követő két évig;
-- b) ha a büntetőjogi felelősség megállapítására nem került sor, az adatok keletkezésétől számított húsz évig;
-- c) ha a terhelt büntetőjogi felelősségét megállapítják, az adatok keletkezésétől számított harminc évig
-
-kezelheti.
-
-(3) Az Alkotmányvédelmi Hivatal kezeli azokat az adatokat, amelyek az 5/B. § és 5/C. § szerinti feladatai ellátásához – belső biztonsági és bűnmegelőzési célból – szükségesek.
-
-(4) Az Alkotmányvédelmi Hivatal hivatásos állományú tagja a kifogástalan életvitel ellenőrzése, valamint a megbízhatósági vizsgálat során – a feladatai ellátása, a vizsgálat lefolytatása céljából – betekinthet az Alkotmányvédelmi Hivatal hatáskörébe tartozó szerv személyügyi nyilvántartásának törvényben meghatározott adataiba. Az ellenőrzés, valamint a vizsgálat lefolytatását követően a keletkezett adatokat törölni kell.
-
-(5) Az Alkotmányvédelmi Hivatal megbízhatósági vizsgálat során keletkezett adataiba betekinthet, felvilágosítást vagy értesítést kérhet a vizsgálattal érintett foglalkoztatását végző szerv vezetője a munkáltatói jogkörébe tartozó feladatai ellátása céljából.
-
-51. § (1) A miniszter, illetve a főigazgatók hozzájárulásával hozhatók nyilvánosságra – a minősített adatokon túlmenően – a nemzetbiztonsági szolgálatok
+51. § (1) A miniszter, illetve a főigazgatók hozzájárulásával hozhatók nyilvánosságra – az állam- és szolgálati titkot tartalmazó adatokon túlmenően – a nemzetbiztonsági szolgálatok
 
 - a) objektumaival és személyi állományával,
 - b) eszközbeszerzéseivel és egyéb szerződéseivel,
@@ -862,222 +461,23 @@ kezelheti.
 
 kapcsolatos adatok.
 
-(2) Az (1) bekezdésben meghatározott adatok megismerésére vonatkozó kérelem elutasításáról, az elutasítás indokairól a nemzetbiztonsági szolgálatok évente értesítik a Nemzeti Adatvédelmi és Információszabadság Hatóságot.
+(2) Az (1) bekezdésben meghatározott adatok megismerésére vonatkozó kérelem elutasításáról, az elutasítás indokairól a nemzetbiztonsági szolgálatok évente értesítik az adatvédelmi biztost.
 
-#### 52. §
+52. § (1) Az országgyűlési biztos a nemzetbiztonsági szolgálatok tekintetében külön törvényben meghatározottak szerint jár el.
 
-### A Nemzeti Információs Központ adatkezelésére vonatkozó különös rendelkezések
+(2) Az adatvédelmi biztost a nemzetbiztonsági szolgálatokat érintő eljárása során az állampolgári jogok országgyűlési biztosának jogosítványai illetik meg.
 
-52/A. § (1) A Nemzeti Információs Központ az együttműködő szervtől adatokat az 52/B–52/G. §-ban meghatározottak szerint kizárólag a 8/A. § (1) bekezdésében meghatározott feladatok ellátása céljából szerezhet be.
+(3) A (2) bekezdésben foglaltakon túlmenően az adatvédelmi biztos betekinthet a nemzetbiztonsági szolgálatok adatkezelésének szervezetére és működésére vonatkozó belső szabályzatokba és utasításokba.
 
-(2)
-
-(3) A Nemzeti Információs Központ és a Legfőbb Ügyészség megállapodásban rögzíti a megállapodás megkötését követően indult, az ügyészség és az együttműködő szervek által párhuzamosan folytatott titkos információgyűjtések, leplezett eszköz-alkalmazások, illetve a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárások és nyomozások Nemzeti Információs Központ általi feltárása, illetve ezen tevékenységek támogatása érdekében elektronikus úton átadható adatok, tájékoztatás, illetve iratok körét, valamint az adatszolgáltatás részletes rendjét.
-
-52/B. § (1) A Nemzeti Információs Központ az együttműködő szerv által kezelt, a Nemzeti Információs Központ 8/A. § (1) bekezdésében meghatározott feladat- és hatáskörének gyakorlásához szükséges adatot
-
-- a) – e törvény eltérő rendelkezése hiányában – az azt tartalmazó adatkezelési rendszerből közvetlen elektronikus adatkapcsolat útján,
-- b) az azt tartalmazó adatkezelési rendszerhez közvetlen és teljes körű hozzáférést biztosító más módon, elsősorban a Nemzeti Információs Központ által meghatározott elektronikus adathordozó eszközzel
-
-szerzi be.
-
-(2) A Nemzeti Információs Központ a 30/A. § e)–f) pontjában meghatározott együttműködő szerv adatkezelési rendszerében található biztonsági és bűnügyi helyzetre vonatkozó adatot közvetlen elektronikus adatkapcsolat útján akkor szerzi be, ha az az együttműködő szerv törvényben meghatározott feladatainak hatékony ellátását nem veszélyezteti, egyéb esetben az adatot kizárólag egyedileg létrehozott, kapcsolat nélküli független nem folyamatos lekérdezés útján szerzi be.
-
-(3) A Nemzeti Információs Központ a 30/A. § g)–m) pontjában meghatározott együttműködő szerv adatkezelési rendszerében található adatot kizárólag akkor szerzi be az (1) bekezdés b) pontjában írt módon, ha az adatot az (1) bekezdés a) pontjában írt módon nem lehet beszerezni.
-
-(4) A Nemzeti Információs Központ a 30/A. § a)–e) pontjában meghatározott együttműködő szerv adatkezelési rendszerében található adatot a (3) bekezdésben foglalt feltétel hiányában is beszerezheti az (1) bekezdés b) pontjában meghatározott módon.
-
-(5)
-
-52/C. § (1) A közvetlen elektronikus adatkapcsolat együttműködő szerv adatkezelési rendszere elérését biztosító felülete kiépítésének és működtetésének költségét az együttműködő szerv viseli, az azon keresztül történő adatelérést a Nemzeti Információs Központnak térítésmentesen biztosítja.
-
-(2) A közvetlen elektronikus adatkapcsolatot olyan módon kell megvalósítani, hogy
-
-- a) az kizárólag az 52/B. § (1) bekezdésében meghatározott adat elérését tegye lehetővé,
-- b) az ne eredményezze az együttműködő szerv részére titkos együttműködés keretében információt szolgáltató személy kilétének felfedését,
-- c) annak jogszerűsége, célhoz kötöttsége, továbbá az adathoz az 52/G. § alapján hozzáférő személy egyéni felelőssége megállapítható legyen,
-- d) ne veszélyeztesse az együttműködő szerv hatékony működését.
-
-(3) A (2) bekezdés rendelkezéseit megfelelően alkalmazni kell az 52/B. § (2) bekezdése szerinti adatkapcsolat esetében.
-
-(4) A Nemzeti Információs Központ a közvetlen elektronikus adatkapcsolat útján az együttműködő szerv adatkezelési rendszerében található adatot nem változtathatja meg, az adatkezelési rendszerben adatot nem helyezhet el.
-
-(5) Az 52/B. §-ban meghatározott adatszolgáltatás tényét mind az együttműködő szervnél, mind a Nemzeti Információs Központnál az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottak szerint kell rögzíteni.
-
-(6) Amennyiben a minősített adat az Észak-atlanti Szerződés Szervezete, valamint az Európai Unió Tanácsa, az Európai Bizottság, az Európai Atomenergia Közösség, a Bűnüldözési Együttműködés Európai Uniós Ügynöksége, az Európai Igazságügyi Együttműködési Egység valamely szervétől vagy külföldi titkosszolgálatoktól származik, az adat átadásáról az együttműködő szerv vezetője dönt.
-
-52/D. § A Nemzeti Információs Központ nemzetbiztonsági célból beszerzi és kezeli a törvénnyel kihirdetett nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa alapján az ott meghatározott adatkörben és időtartamban a külföldi szerv által a rendelkezésére bocsátott adatot is.
-
-52/E. § (1) A Nemzeti Információs Központ az általa kezelt adatot az adat kezelésére feljogosított, hatáskörénél fogva érintett ügyészségnek vagy együttműködő szervnek a 8/A. § (1) bekezdésében foglaltakra figyelemmel továbbítja, feltéve, hogy az ügyészség vagy az együttműködő szerv törvény alapján jogosult az adat kezelésére és az adat kezelése hatásköre gyakorlásához, illetve feladatai ellátásához szükséges.
-
-(2) Az együttműködő szerv vezetője nemzetbiztonsági vagy bűnüldözési érdekre tekintettel a Nemzeti Információs Központ által közvetlen elektronikus adatkapcsolat útján elért vagy a Nemzeti Információs Központnak más módon szolgáltatott, titkos információgyűjtés eredményeként keletkezett adat büntetőeljárásban történő felhasználását, illetve meghatározott más együttműködő szerv vagy más állami adatkezelő szerv részére történő továbbítását előzetes hozzájárulásához kötheti.
-
-(3) A hatáskörrel és illetékességgel rendelkező ügyészség vezetője a Nemzeti Információs Központ részére szolgáltatott, titkos információgyűjtés során keletkezett adat büntetőeljárásban való felhasználását, illetve meghatározott együttműködő szerv vagy más állami adatkezelő szerv részére történő továbbítását előzetes hozzájárulásához kötheti.
-
-52/F. § (1) A hírigény teljesítéséhez, az elemző-értékelő tevékenységhez, valamint a Nemzeti Információs Központ igazgatásához kapcsolódó adatokat elkülönítetten kell kezelni.
-
-(2) A Nemzeti Információs Központ az elemző-értékelő tevékenység, illetve hírigény teljesítése céljából az általa kezelt adatokat tartalmazó, elkülönített adatkezelési rendszereket egymással és más adatkezelési rendszerrel összekapcsolva, meghatározott feladat teljesítése érdekében egyedi adatkezelést végezhet. Az összekapcsolás során keletkezett olyan új adatokat, amelyek az elemző-értékelő tevékenység, illetve a hírigény-teljesítés során nem kerülnek felhasználásra, haladéktalanul törölni kell.
-
-(3) A Nemzeti Információs Központ által kezelt adatot haladéktalanul törölni kell akkor is, ha az együttműködő szervtől beszerzett vagy az ügyészség által szolgáltatott adatot az együttműködő szerv, illetve az ügyészség a saját adatkezelési rendszeréből törölte. Az ügyészség, illetve az együttműködő szerv az adat törléséről közvetlen elektronikus adatkapcsolat útján tájékoztatja a a Nemzeti Információs Központot.
-
-52/G. § A Nemzeti Információs Központ által kezelt adatot tartalmazó adatkezelési rendszerbe csak a Nemzeti Információs Központ hozzáférési jogosultsággal rendelkező munkatársa, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter irányítói jogkörében eljárva, továbbá sarkalatos törvény által feljogosított más szerv tekinthet be, annak adattartalmáról felvilágosítást vagy értesítést kérhet.
-
-52/H. § (1) Az utasadat-információs egység a légiutas-adat szolgáltatójától átveszi és kezeli az utasadatokat.
-
-(2) A légiutas-adatok átvételének és kezelésének a célja a 3. számú mellékletben meghatározott bűncselekmények megelőzésének, felderítésének, nyomozásának és üldözésének elősegítése.
-
-(3) Az utasadat-információs egység és a légiutas-adat szolgáltatója közötti kapcsolattartás, valamint a légiutas-adat átadásának módját a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter rendeletben határozza meg.
-
-(4) Az utasadat-információs egység
-
-- a) a légiutas-adat szolgáltatója által szolgáltatott légiutas-adatokat összeveti az elemző-értékelő tevékenység céljából kezelt adatokkal,
-- b) légiutas-adatok tekintetében a (2) bekezdésben meghatározott bűncselekményekre, tevékenységekre, illetve törekvésekre utaló információk gyűjtése érdekében elemző-értékelő tevékenység keretében kockázatelemzést végez, és
-- c) az átvett légiutas-adatokról nyilvántartást vezet.
-
-(5) Az utasadat-információs egység a (4) bekezdés b) pontjában meghatározott feladata ellátása érdekében a törvényben meghatározott esetekben más állami szervektől, illetve nyilvántartásokból az érintett személy azonosítása céljából személyes adatokat vehet át.
-
-(6) Az utasadat-információs egység a (4) bekezdés b) pontja szerinti kockázatelemzés ellátása során elsőként automatizált kockázatelemzést végez. Ha az automatizált kockázatelemzésből találat származik, a Nemzeti Információs Központ a találatot nem automatizált eszközökkel, emberi tényező bevonásával történő egyedi felülvizsgálat alá vonja.
-
-(7) Ha az utasadat-információs egység az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, a 8/A. § (1) bekezdés f) pontjában meghatározottak szerint jár el.
-
-(8) Az utasadat-információs egység az átvett légiutas-adatot az utasadat-információs egységhez érkezést követő öt évig kezeli.
-
-(9) A légiutas-adat szolgáltatója által szolgáltatott légiutas-adatot az utasadat-információs egységhez érkezést követő 6 hónap elteltével az alábbi adatelemek elrejtése útján személyazonosításra alkalmatlanná kell tenni:
-
-- a) az utas neve, beleértve a 2016/681/EU parlamenti és tanács irányelv szerinti megosztott/kettős utas-nyilvántartási információt, valamint az egy utas-nyilvántartási adathoz kapcsolódó utazók számát, ezek neveit,
-- b) az utas által közölt kapcsolattartási adatok, különösen az utas és a vele utazók lakó- és tartózkodási helyének címe, telefonszámaik, e-mail címeik,
-- c) a hitelkártyával vagy bankszámlával kapcsolatos, az utazási tranzakcióhoz nem kötődő tranzakciós adatok kivételével valamennyi rendelkezésre álló fizetési vagy számlázási információ, ha olyan információt tartalmaznak, amely alkalmas lehet utas vagy bármely más személy közvetlen beazonosítására,
-- d) az utasra vonatkozó, a személyszállítást végző légifuvarozó által kezelt törzsutas-adat információk,
-- e) a 2016/681/EU parlamenti és tanács irányelv szerinti általános megjegyzések, ha olyan információt tartalmaznak, amely alkalmas lehet az utas közvetlen beazonosítására,
-- f) a továbbított, 2016/681/EU parlamenti és tanács irányelv szerinti előzetes utasinformációs adat.
-
-(9a)
-
-(10) Az utasadat-információs egység a (4) bekezdés b) pontjában meghatározott feladata ellátása érdekében a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND személyi körözések, valamint elveszett, eltulajdonított úti okmányok hálózati adatbázis által elérhető nyilvántartásaiban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.
-
-(11)
-
-(12)
-
-(13)
-
-52/I. § (1) Az utasadat-információs egység az Európai Unió tagállamainak utasadat-információs egységei, az Európai Unió tagállamainak a 2016/681/EU parlamenti és tanács irányelv szerinti illetékes hatóságai, valamint az Európai Unió jogi aktusával létrehozott nemzetközi szervezetek és adatkezelési rendszerek részére az 52/H. § (2) bekezdésében meghatározott bűnüldözési célból az Európai Unió jogi aktusa, illetve két- vagy többoldalú nemzetközi szerződés alapján az ott meghatározott adatkörben, időtartamban és feltételekkel továbbíthatja az általa kezelt légiutas-adatot, továbbá azok kezelésének eredményét.
-
-(2) Az utasadat-információs egység, valamint a 2016/681/EU parlamenti és tanács irányelv szerinti magyar illetékes hatóság az Európai Unió tagállamainak utasadat-információs egységeitől, valamint az Európai Unió jogi aktusával létrehozott nemzetközi szervezetektől és adatkezelési rendszerektől az 52/H. § (2) bekezdésében meghatározott bűnüldözési célból az Európai Unió jogi aktusa, illetve két- vagy többoldalú nemzetközi szerződés alapján az ott meghatározott adatkörben, időtartamban és feltételekkel vehet át légiutas-adatot, továbbá azok kezelésének eredményét.
-
-(3) Ha a 2016/681/EU parlamenti és tanács irányelv szerinti magyar illetékes hatóság a (2) bekezdés szerint az Európai Unió tagállamainak utasadat-információs egységeitől vesz át légiutas-adatot, továbbá azok kezelésének eredményét, erről az utasadat-információs egységet értesíti.
-
-(4) Az utasadat-információs egység harmadik országtól bűnüldözési vagy nemzetbiztonsági célból nemzetközi szerződés alapján az ott meghatározott adatkörben vehet át légiutas-adatot.
-
-(5) Az utasadat-információs egység harmadik ország részére – a 2008/977/IB kerethatározat 13. cikkében foglalt feltételek teljesülésével – kizárólag a 3. számú mellékletnek megfelelő bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából, nemzetközi szerződés alapján, az ott meghatározott adatkörben, időtartamban és feltételekkel továbbíthatja az általa kezelt légiutas-adatot, feltéve hogy
-
-- a) a harmadik ország átvevő hatóságának a feladata bűncselekmények megelőzése, nyomozása, felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása,
-- b) – az Európai Unió más tagállamtól származó légiutas-adat esetén, a (7) bekezdésben meghatározott kivétellel – a tagállam, amelytől a légiutas-adat származik, előzetesen hozzájárult a légiutas-adatok harmadik országnak történő átadásához.
-
-(6) Ha az (5) bekezdés a) pontja szerint kért légiutas-adatot az adatelemek elrejtésével személyazonosításra alkalmatlanná tették, az utasadat-információs egység csak akkor adhatja át a teljes – személyazonosításra alkalmas adatokat is tartalmazó – légiutas-adatot, ha a kérelem megalapozott és az adatkérés célja a 3. számú melléklet szerinti bűncselekmény megelőzése, felderítése, nyomozása és üldözése, feltéve, hogy az ügyészség a légiutas-adatok újbóli személyazonosításra alkalmassá tételét követő átadására engedélyt adott. Az ügyészség engedélyének beszerzésére vonatkozóan az 52/L. §-t kell megfelelően alkalmazni.
-
-(7) Az Európai Unió más tagállamától származó légiutas-adat harmadik ország részére történő átadásához nem szükséges a másik tagállam előzetes hozzájárulása, ha
-
-- a) a 3. számú mellékletnek megfelelő bűncselekménnyel kapcsolatos, valamely tagállamot vagy harmadik országot érintő konkrét és tényleges fenyegetés elhárításához elengedhetetlen és
-- b) az előzetes hozzájárulás kellő időben nem szerezhető be.
-
-(8) A (7) bekezdés szerinti halaszthatatlan esetben értesíteni kell az utasadat-információs egység belső adatvédelmi felelősét.
-
-(9) Az utasadat-információs egység harmadik ország által történő megkeresés esetén felhatalmazást adhat a harmadik országnak arra, hogy a részére nemzetközi szerződés alapján az utasadat-információs egység által átadott adatokat másik harmadik ország felé a 3. számú mellékletnek megfelelő, nemzetközi szerződésben meghatározott súlyos bűncselekmények megelőzése, felderítése, nyomozása, üldözése céljából átadja, ha az adatok továbbítása ezen bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából feltétlenül szükséges.
-
-52/J. § (1) Az utasadat-információs egység az utasadat-információs feladatai során, ha az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, és az 52/H. § szerinti elemző-értékelő tevékenység, vagy az 52/N. §-a szerinti kockázatelemző tevékenység keretében nem azonosítható a 3. számú mellékletben meghatározott bűncselekménnyel érintett személy, az utasadat-információs egység az érintett személy azonosítása céljából adatot igényelhet a rendőrség személyszállítást végző légifuvarozóktól átvett adatokat tartalmazó nyilvántartásából, továbbá a Rendőrségről szóló 1994. évi XXXIV. törvény 91/M. § (4) bekezdése szerint kezelt adatokból.
-
-(2) Az utasadat-információs egység az (1) bekezdés szerint átvett adatot az adat átvételétől számított huszonnégy órán belül, illetve – ha az 52/H. § szerinti elemző-értékelő tevékenységre kerül sor, – az 52/H. § szerinti elemző-értékelő tevékenység befejezését vagy a (3) bekezdésben foglalt adatátadást követően haladéktalanul törli.
-
-(3) Az utasadat-információs egység az 52/H. § (7) bekezdése szerinti esetben – ha az (1) bekezdés alapján átvett adatot az elemző-értékelő tevékenység keretében felhasználta – az (1) bekezdés alapján átvett adatot is átadja.
-
-52/K. § Az utasadat-információs egységtől a 30/A. § a)–f) pontjában meghatározott együttműködő szervek, valamint a büntetőeljárás során az ügyészség, illetve az 52/L. § (2) bekezdése szerint a büntetőeljárás során a bíróság a 3. számú mellékletben meghatározott bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából jogosultak utasadatokat vagy azok kezelésének eredményeit kérni és kapni az információk további vizsgálata vagy a megfelelő intézkedések megtétele érdekében.
-
-52/L. § (1) Ha a légiutas-adatot az adatelemek elrejtésével személyazonosításra alkalmatlanná tették, az utasadat-információs egység
-
-- a) a büntetőeljárás során eljáró bíróság kivételével az 52/K. §-ban meghatározott szervek,
-- b) az Európai Unió tagállamainak utasadat-információs egységei, valamint
-- c) az Európai Unió tagállamainak a 2016/681/EU parlamenti és tanács irányelv szerinti illetékes hatóságai
-
-indokolt megkeresése alapján csak akkor adhatja át a teljes – személyazonosításra alkalmas adatokat is tartalmazó – légiutas-adatot, ha az adatkérés célja a 3. számú melléklet szerinti bűncselekmény megelőzése, felderítése, nyomozása és üldözése, és az ügyészség az újból személyazonosításra alkalmassá tett légiutas-adat átadására engedélyt adott.
-
-(2) A büntetőeljárás során eljáró bíróság megkeresése esetén az ügyészség engedélyét nem kell kérni, az utasadat-információs egység az 52/K. §-ban meghatározott feltételek esetén átadja a teljes – személyazonosításra alkalmas adatokat is tartalmazó – légiutas-adatot.
-
-(3) Az engedélyezésről a legfőbb ügyész által kijelölt ügyészi szerv dönt.
-
-(4) Az (1) bekezdésben meghatározott megkeresés esetén a megkeresésben kért, az adatelemek elrejtésével személyazonosításra alkalmatlanná tett légiutas-adatokat az utasadat-információs egység az engedélyezés érdekében, ideiglenesen személyazonosításra újból alkalmassá teszi.
-
-(5) Az (1) bekezdés szerinti megkeresést az ott meghatározott szervek az utasadat-információs egységnek küldik meg. Az utasadat-információs egység a megkeresést három munkanapon belül megküldi az ügyészségnek. Az ügyészség az utasadat-információs egység előterjesztése alapján öt munkanapon belül dönt az adattovábbítás engedélyezéséről.
-
-(6) Ha az ügyészségi engedélyezés olyan késedelemmel járna, amely az adattovábbítással elérni kívánt célt jelentősen veszélyeztetné, az (1) bekezdésben meghatározott szerv erre vonatkozó kifejezett és megalapozott kérelmére az utasadat-információs egység az ügyészség döntését megelőzően átadhatja a kért utasadatot. Ha az ügyészség a megkeresés teljesítésére utóbb nem ad engedélyt, a megkeresés alapján korábban átadott utasadatokat törölni kell. Ha az ügyészség a megkeresés teljesítésére nem ad engedélyt, ugyanazon szerv kérelmére, ugyanabból a célból, változatlan indok alapján ismételten nem adhatóak át az utasadatok az ügyészség engedélyét megelőzően.
-
-(7) Az utasadat-információs egység az (1) bekezdés szerinti egyedi engedély alapján továbbított adatokról nyilvántartást vezet. A nyilvántartás tartalmazza:
-
-- a) a személyazonosításra újból alkalmassá tett adatok közlésének rövid indokolását,
-- b) a személyazonosításra újból alkalmassá tett adatok közlésének időpontját,
-- c) az érintett adatok körét és
-- d) azt, hogy mely szerv kérésére került sor a személyazonosításra újból alkalmassá tett adatok közlésére.
-
-(8) A (7) bekezdésben meghatározott adatokat az ismét személyazonosításra alkalmassá tett légiutas-adatokkal azonos ideig kell megőrizni, és a légiutas-adatokkal egyidejűleg törölni kell.
-
-52/M. § Az utasadat-információs egység évente, jogszabályban meghatározottak szerint az Európai Bizottság rendelkezésére bocsátja a részére szolgáltatott légiutas-adatokról összeállított statisztikai információkat; ezek az információk személyes adatokat nem tartalmazhatnak.
-
-52/N. § (1) Az utasadat-információs egység a 8/A. § (1) bekezdés j) pontjában meghatározott feladatkörében átveszi és kezeli a hajó felelős vezetője vagy az úszólétesítmény üzemben tartója által a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet VI. melléklet 3.1.2. pontja szerinti, a 4.3. pont alapján a belvízi hajózásra is alkalmazni rendelt előzetes tájékoztatási kötelezettség teljesítése érdekében biztosított elektronikus felületen rögzített adatokat (a továbbiakban: folyami utasadatok).
-
-(2) A folyami utasadatok átvételének és kezelésének a célja a 3. számú mellékletben meghatározott bűncselekmények megelőzésének, felderítésének, nyomozásának és üldözésének elősegítése.
-
-(3) A folyami utasadatok tekintetében az 52/H. § (6)–(8) és (10) bekezdését, valamint az 52/L. §-át alkalmazni kell azzal, hogy a légiutas-adaton a folyami utasadatot kell érteni.
-
-(4) Ha az utasadat-információs egység utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, és a (3) bekezdéssel alkalmazni rendelt 52/H. § szerinti elemző-értékelő tevékenység keretében nem azonosítható a 3. számú mellékletben meghatározott bűncselekménnyel érintett személy, az utasadat-információs egység az érintett személy azonosítása céljából adatot igényelhet a Rendőrségről szóló 1994. évi XXXIV. törvény 91/M. § (4) bekezdése alapján átvett adatokat tartalmazó nyilvántartásából.
-
-(5) Az utasadat-információs egység a (4) bekezdés szerint átvett adatot az adat átvételétől számított huszonnégy órán belül, illetve – ha az 52/H. § szerinti elemző-értékelő tevékenységre kerül sor – az elemző-értékelő tevékenység befejezését vagy a (6) bekezdésben foglalt adatátadást követően haladéktalanul törli.
-
-(6) Az utasadat-információs egység a (3) bekezdéssel alkalmazni rendelt 52/H. § (7) bekezdése szerinti esetben – ha a (4) bekezdés alapján átvett adatot az elemző-értékelő tevékenység keretében felhasználta – a (4) bekezdés alapján átvett adatot is átadja.
-
-(7) Az utasadat-információs egységtől a 30/A. § a)–f) pontjában meghatározott együttműködő szerv, valamint a büntetőeljárás során az ügyészség, illetve a büntetőeljárás során a bíróság a 3. számú mellékletben meghatározott bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából jogosultak folyami utasadatokat vagy azok kezelésének eredményeit kérni és kapni az információk további vizsgálata vagy a megfelelő intézkedések megtétele érdekében.
-
-(8) Az utasadat-információs egység az általa átvett folyami utasadatokat az átvételtől számított 6 hónap elteltével az egyes adatelemek elrejtése útján személyazonosításra alkalmatlanná teszi.
-
-52/O. § (1) A személyes adatokkal elektronikus úton végzett adatkezelési műveletek jogszerűségének ellenőrizhetősége, valamint a személyes adatok integritásának és biztonságának biztosítása céljából az utasadat-információs egység automatizált adatkezelési rendszerben (a továbbiakban: naplórendszer) rögzíti a folyami utasadatokkal végzett adatkezelési művelettel összefüggő információkat.
-
-(2) A naplórendszerben történik a folyami utasadatok kezelését támogató informatikai alkalmazásban végzett adatkezelési műveletre vonatkozó eseményt leíró információk (a továbbiakban: naplóbejegyzés) gyűjtése.
-
-(3) A naplóbejegyzés tartalmazza
-
-- a) az adatkezelési művelettel érintett személyes adatok körének meghatározását,
-- b) az adatkezelési művelet jogalapját, célját és indokát,
-- c) az adatkezelési művelet elvégzésének pontos dátumát és időpontját,
-- d) az adatkezelési műveletet végrehajtó személy nevét és felhasználói azonosító adatát és a tevékenységét leíró adatokat,
-- e) a megőrzési időre vonatkozó adatokat,
-- f) az egyéb, az adatkezelési művelettel összefüggő leíró és technikai adatokat.
-
-(4) Naplóbejegyzést a személyes adatokkal végzett valamennyi műveletről, az adatkezelési esemény megtörténtével egyidejűleg kell képezni. A naplóbejegyzést pontos és megmásíthatatlan időadattal kell ellátni.
-
-(5) A naplórendszerben rögzített adatok kizárólag az adatkezelés jogszerűségének ellenőrzése, az adatbiztonsági követelmények érvényesítése, büntetőeljárás lefolytatása céljából, törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági és bűnmegelőzési ellenőrzési célból ismerhetőek meg és használhatóak fel.
-
-(6) A naplórendszerből a Nemzeti Adatvédelmi és Információszabadság Hatóság, továbbá az (5) bekezdésben meghatározott célból jogszabályban meghatározott tevékenységet folytató személy és szervezet részére – azok erre irányuló kérelmére – az utasadat-információs egység adatot továbbít. Az utasadat-információs egység a naplórendszerből történő adatszolgáltatást is naplózza.
-
-(7) A naplórendszert az utasadat-információs egység a jogosulatlan hozzáféréstől védi.
-
-(8) A naplórendszerben a naplóbejegyzések megőrzési ideje annak keletkezésétől számított tíz év. A megőrzési idő leteltét követően a naplóbejegyzést haladéktalanul törölni kell, kivéve, ha már megkezdett ellenőrzési eljáráshoz van szükség a naplóbejegyzésre. Ebben az esetben az eljárás lezárultát követően kell a törlést végrehajtani.
+(4) Az országgyűlési biztos és az adatvédelmi biztos tevékenységét a főigazgatók – e törvény keretei között – kötelesek elősegíteni.
 
 ### Titkos információgyűjtés
 
-53. § (1) A nemzetbiztonsági szolgálatok – a Nemzeti Információs Központ kivételével – a 4–9. §-okban foglalt feladataik teljesítése érdekében titkos információgyűjtést folytathatnak; ez nem terjed ki a 4. § h) pontjában és a 8. § (1) bekezdés d)–e) pontjaiban meghatározott feladatok ellátására.
-
-(1a) A Nemzeti Információs Központ a 8/A. § (7) bekezdésében foglalt feladata teljesítése érdekében titkos információgyűjtést folytathat.
+53. § (1) A nemzetbiztonsági szolgálatok a 4–9. §-okban foglalt feladataik teljesítése érdekében titkos információgyűjtést folytathatnak; ez nem terjed ki a 4. § h) pontjában és a 8. § (1) bekezdés d)–e) pontjaiban meghatározott feladatok ellátására.
 
 (2) A nemzetbiztonsági szolgálatok a titkos információgyűjtés speciális eszközeit és módszereit csak akkor használhatják, ha az e törvényben meghatározott feladatok ellátásához szükséges adatok más módon nem szerezhetők meg.
 
-(3) A titkos információgyűjtés folytatására feljogosított nemzetbiztonsági szolgálat a titkos információgyűjtést önállóan vagy más nemzetbiztonsági szolgálat közreműködésével hajtja végre, vagy a végrehajtáshoz a Nemzetbiztonsági Szakszolgálatot veszi igénybe.
-
-(4) Az Alkotmányvédelmi Hivatal akkor folytathat titkos információgyűjtést a megbízhatósági vizsgálat során, ha az alkalmazni kívánt külső engedélyhez nem kötött eszköz a megbízhatósági vizsgálatot elrendelő határozatban és a részletes tervben szerepel, és az elrendelést az ügyészség jóváhagyta.
-
-(5) Az Alkotmányvédelmi Hivatal a megbízhatósági vizsgálat során külső engedélyhez kötött eszközt nem alkalmazhat.
-
-### Külső engedélyhez nem kötött
-
-titkos információgyűjtés
+### Külső engedélyhez nem kötötttitkos információgyűjtés
 
 54. § (1) A titkos információgyűjtés keretében a nemzetbiztonsági szolgálatok
 
@@ -1086,47 +486,32 @@ titkos információgyűjtés
 - c) titkos kapcsolatot létesíthetnek magánszeméllyel;
 - d) az információgyűjtést elősegítő információs rendszereket hozhatnak létre és alkalmazhatnak;
 - e) sérülést vagy egészségkárosodást nem okozó csapdát alkalmazhatnak;
-- f) a saját személyi állományuk és a velük együttműködő természetes személyek védelmére, valamint a nemzetbiztonsági jelleg leplezésére fedőokmányt, fedőokiratot, fedőadatot készíthetnek és használhatnak fel;
+- f) a saját személyi állományuk és a velük együttműködő természetes személyek védelmére, valamint a nemzetbiztonsági jelleg leplezésére fedőokmányt készíthetnek és használhatnak fel;
 - g) fedőintézményt hozhatnak létre és tarthatnak fenn;
-- h) a feladataik által érintett személyt, valamint az azzal kapcsolatba hozható lakást, egyéb helyiséget, bekerített helyet, továbbá nyilvános vagy a közönség részére nyitva álló helyet, illetve járművet titokban megfigyelhetnek, a történtekről információt gyűjthetnek, valamint az észlelteket technikai eszközzel rögzíthetik;
-- i) az 56. §-ban foglaltakon kívül beszélgetést lehallgathatnak, az észlelteket technikai eszközzel rögzíthetik;
-- j) elektronikus hírközlési eszközön vagy információs rendszeren folytatott kommunikáció tényének a megállapításához, az elektronikus hírközlési eszköz vagy információs rendszer azonosításához, illetve hollétének megállapításához szükséges adatokat megszerezhetik.
+- h) a feladataik által érintett személyt, valamint azzal kapcsolatba hozható helyiséget, épületet és más objektumot, terep- és útvonalszakaszt, járművet, eseményt megfigyelhetik, az észlelteket technikai eszközzel rögzíthetik;
+- i) az 56. §-ban foglaltakon kívül beszélgetést lehallgathatnak, az észlelteket technikai eszközökkel rögzíthetik;
+- j) hírközlési rendszerekből és egyéb adattároló eszközökből információkat gyűjthetnek.
 
-(1a) Az (1) bekezdés f) és g) pontjában meghatározott feladat ellátása céljából a nemzetbiztonsági szolgálatok – az (1b) bekezdésre figyelemmel – a 41. § (1) bekezdésben meghatározott nyilvántartásokban adatot helyezhetnek, vagy az arra jogosult állami szervvel az e törvényben meghatározott együttműködés keretében helyeztethetnek el. Amennyiben az adatok elhelyezését a nemzetbiztonsági szolgálatok megkeresése alapján más állami szerv hajtja végre, az elhelyezés jogszerűségéért a megkereső nemzetbiztonsági szerv a felelős..
+(2) Rendvédelmi szerv fedőintézményként, okmánya fedőokmányként csak az illetékes miniszter és az érintett szervezet országos vezetőjének tájékoztatásával alkalmazható.
 
-(1b) Központi közigazgatási nyilvántartási háttérrel rendelkező fedőokirat előállítása céljából közhiteles nyilvántartásokban adatokat kizárólag a Nemzetbiztonsági Szakszolgálat helyezhet el. Kizárólag a Nemzetbiztonsági Szakszolgálat jogosult továbbá arra, hogy a központi közigazgatási nyilvántartási háttérrel rendelkező fedőokirat alkalmazása feltételeinek biztosítása céljából a nyilvántartás vezetéséért felelős szerv számára meghatározza, hogy a nyilvántartásban szereplő valamely adat vonatkozásában ne kerüljön sor adatszolgáltatásra, vagy arra a Nemzetbiztonsági Szakszolgálat által meghatározott tartalommal kerüljön sor.
+55. § (1) A nemzetbiztonsági szolgálatok a legfőbb ügyész által kijelölt ügyész előzetes jóváhagyásával a nyomozás megtagadásának vagy megszüntetésének kilátásba helyezésével információszolgáltatásban állapodhatnak meg bűncselekmény elkövetésével alaposan gyanúsítható személlyel, ha az érintett személlyel történő együttműködéshez fűződő nemzetbiztonsági érdek jelentősebb, mint az állam büntetőjogi igényének érvényesítéséhez fűződő érdek.
 
-(2) Rendvédelmi szerv, nemzetbiztonsági szolgálat, az Országgyűlési Őrség és a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatait ellátó szerve fedőintézményként, okmánya fedőokmányként, fedőadatként, fedőokiratként csak az illetékes miniszter és az érintett szervezet országos vezetőjének, az Országgyűlési Őrség esetében a parancsnok és az Országgyűlés elnökének tájékoztatásával alkalmazható.
+(2) Nem köthető megállapodás azzal a személlyel, aki olyan bűncselekményt követett el, amellyel más életét szándékosan kioltotta.
 
-(3) Az Alkotmányvédelmi Hivatal a megbízhatósági vizsgálat folytatása során az Alkotmányvédelmi Hivatal hatáskörébe tartozó szerv hivatali helyiségében, gépjárművében és a megbízhatósági vizsgálat helyszínén történteket, illetve a mesterséges élethelyzetben résztvevő, valamint a megbízhatósági vizsgálat alá vont személy tevékenységét és előadását titokban technikai eszközzel megfigyelheti és rögzítheti, illetve az ehhez szükséges technikai eszközt a felsorolt helyeken elhelyezheti.
+(3) Az (1) bekezdésben meghatározott jogosultság a Nemzetbiztonsági Szakszolgálatot nem illeti meg.
 
-(4) Az Alkotmányvédelmi Hivatal főigazgatója haladéktalanul megszünteti a megbízhatósági vizsgálat során igénybe vett külső engedélyhez nem kötött eszköz alkalmazását akkor, ha az ügyészség által jóváhagyott végrehajtási tervben a mesterséges élethelyzet végrehajtására meghatározott határidő lejárt.
-
-55. § (1) A nemzetbiztonsági szolgálatok a legfőbb ügyész által kijelölt ügyész engedélyével bűncselekmény elkövetőjével megállapodást köthetnek, amelyben számára kilátásba helyezik, hogy vele szemben büntetőeljárást nem indítanak, illetve a folyamatban lévő büntetőeljárást megszüntetik, ha az érintett személlyel történő együttműködéshez fűződő nemzetbiztonsági érdek jelentősebb, mint az állam büntetőjogi igényének érvényesítéséhez fűződő érdek.
-
-(2) Nem köthető megállapodás, ha az elkövetővel szemben olyan bűncselekmény miatt kell büntetőeljárást folytatni, amellyel más életét szándékosan kioltotta vagy amellyel szándékosan maradandó fogyatékosságot vagy súlyos egészségromlást okozott. A megállapodást fel kell bontani, ha a nemzetbiztonsági szolgálatok arról szereznek tudomást, hogy az információt szolgáltató személy ilyen bűncselekményt követett el.
-
-(3) Ha a bűncselekmény elkövetője a megállapodásban foglaltakat teljesíti, vele szemben büntetőeljárás nem indítható, illetve a folyamatban lévő büntetőeljárást meg kell szüntetni.
-
-(4) Az (1) bekezdésben meghatározott jogosultság a Nemzeti Információs Központot, valamint – a 8. § (1) bekezdés i) pontja szerinti feladat kivételével – a Nemzetbiztonsági Szakszolgálatot nem illeti meg.
-
-(5) Ha a megállapodás teljesítésére tekintettel az elkövetővel szemben nem indul büntetőeljárás vagy azt megszüntetik, az állam téríti meg azt a kárt, illetve sérelemdíjat, amelynek megtérítésére az elkövető a polgári jog szerint köteles, amennyiben azt az elkövető nem térítette meg. A kár megtérítése, illetve a sérelemdíj megfizetése érdekében a nemzetbiztonsági szolgálatok a sértettel titoktartási megállapodás megkötését kezdeményezhetik, illetve az ehhez szükséges iratokat elkészíthetik.
-
-(6) Ha a kártérítésről, illetve a sérelemdíj megfizetéséről polgári perben kell határozni, az ezek iránti igény jogalapját vélelmezni kell. A polgári perben az államot az igazságügyért felelős miniszter képviseli. A polgári perben eljáró bíróság a kereset elbírálása előtt beszerzi a nemzetbiztonsági szolgálat nyilatkozatát a felperes sérelmére elkövetett cselekményről, a cselekménnyel okozott kárról, illetve személyiségi jogsértésről. A nyilatkozat nem terjedhet ki olyan tényre, amelynek alapján a titkosan együttműködő személyre lehet következtetni.
+(4) A megállapodás létrejötte esetén a nemzetbiztonsági szolgálatok megtérítik azt a kárt, amely az elkövetőt a polgári jog szerint terheli. A kártérítési igény tekintetében az államot az igazságügyért felelős miniszter képviseli.
 
 ### Külső engedélyhez kötött titkos információgyűjtés
 
 56. § A nemzetbiztonsági szolgálatok külső engedély alapján
 
-- a) a nyilvános vagy a közönség részére nyitva álló hely kivételével lakást, egyéb helyiséget, bekerített helyet, illetve a közösségi közlekedési eszköz kivételével járművet, továbbá az érintett személy használatában lévő tárgyat titokban átkutathatják, az észlelteket technikai eszközzel rögzíthetik,
-- b) a nyilvános vagy a közönség részére nyitva álló hely kivételével a lakásban, egyéb helyiségben, bekerített helyen, illetve a közösségi közlekedési eszköz kivételével járművön történteket titokban technikai eszközzel megfigyelhetik és rögzíthetik, illetve az ehhez szükséges technikai eszközt az alkalmazás helyén elhelyezhetik,
-- c) postai küldeményt vagy beazonosítható személyhez kötött egyéb zárt küldeményt titokban felbonthatnak, annak tartalmát megismerhetik, ellenőrizhetik és rögzíthetik,
-- d) elektronikus hírközlési szolgáltatás keretében elektronikus hírközlő hálózat vagy eszköz útján, illetve információs rendszeren folytatott kommunikáció tartalmát titokban megismerhetik és rögzíthetik,
-- e) információs rendszerben kezelt adatokat titokban megismerhetnek, az észlelteket technikai eszközzel rögzíthetik, illetve az ehhez szükséges elektronikus adatot az információs rendszerben, illetve a szükséges technikai eszközt – a nyilvános vagy a közönség részére nyitva álló hely kivételével – lakásban, egyéb helyiségben, bekerített helyen, illetve – a közösségi közlekedési eszköz kivételével – járműben, továbbá az érintett személy használatában lévő tárgyban elhelyezhetik, valamint a kibertérből érkező fenyegetés elhárítása céljából az információs rendszerbe beavatkozhatnak.
+- a) lakást titokban átkutathatnak, az észlelteket technikai eszközökkel rögzíthetik;
+- b) a lakásban történteket technikai eszközök segítségével megfigyelhetik és rögzíthetik;
+- c) levelet és egyéb postai küldeményt felbonthatnak, ellenőrizhetik és azok tartalmát technikai eszközzel rögzíthetik;
+- d) közcélú telefonvezetéken vagy azt helyettesítő távközlési szolgáltatás útján továbbított közleményt megismerhetik, az észlelteket technikai eszközzel rögzíthetik.
 
-57. § (1) Az 56. §-ban meghatározott titkos információgyűjtés engedélyezésére irányuló előterjesztést az Információs Hivatal, az Alkotmányvédelmi Hivatal, a
-
-Katonai Nemzetbiztonsági Szolgálat és – a 8. § (1) bekezdésének f) pontjában meghatározott feladat ellátása tekintetében – a Nemzetbiztonsági Szakszolgálat főigazgatója nyújthat be.
+57. § (1) Az 56. §-ban meghatározott titkos információgyűjtés engedélyezésére irányuló előterjesztést az Információs Hivatal, a Nemzetbiztonsági Hivatal, a Katonai Felderítő Hivatal, a Katonai Biztonsági Hivatal és – a 8. § (1) bekezdésének f), valamint a 9. § d) pontjában meghatározott feladat ellátása tekintetében – a Nemzetbiztonsági Szakszolgálat főigazgatója nyújthat be.
 
 (2) Az előterjesztésnek tartalmaznia kell
 
@@ -1135,19 +520,17 @@ Katonai Nemzetbiztonsági Szolgálat és – a 8. § (1) bekezdésének f) pontj
 - c) a tevékenység kezdetét és végét napban meghatározva;
 - d) az 59. §-ban meghatározott engedély iránti előterjesztés esetén annak indokolását, hogy adott ügyben arra a nemzetbiztonsági szolgálat eredményes működéséhez feltétlenül szükség volt.
 
-58. § (1) Az 5. § b), d), h)–j), valamint a 6. § d), i), l)–n) pontjaiban meghatározott nemzetbiztonsági feladatok ellátása során az 56. §-ban felsorolt titkos információgyűjtést a Fővárosi Törvényszék elnöke által e feladatra kijelölt bíró engedélyezi.
+58. § (1) Az 5. § b), d), h)–j), valamint a 7. § b), d), i)–k) pontjaiban meghatározott nemzetbiztonsági feladatok ellátása során az 56. §-ban felsorolt titkos információgyűjtést a Fővárosi Bíróság elnöke által e feladatra kijelölt bíró engedélyezi.
 
 (2) Az (1) bekezdés hatálya alá nem tartozó nemzetbiztonsági feladatok ellátása során az 56. §-ban felsorolt titkos információgyűjtést az igazságügyért felelős miniszter engedélyezi.
 
 (3) A bíró, illetve az igazságügyért felelős miniszter (a továbbiakban együtt: engedélyező) az előterjesztés benyújtásától számított 72 órán belül határozatot hoz. Az előterjesztésnek helyt ad, vagy azt megalapozatlansága esetén elutasítja. A határozat ellen fellebbezésnek nincs helye.
 
-(4) Az engedélyező a titkos információgyűjtést e törvény eltérő rendelkezése hiányában esetenként legfeljebb 90 napra engedélyezi. Ezt a határidőt az engedélyező indokolt esetben – a főigazgatók előterjesztése alapján – e törvény eltérő rendelkezése hiányában további 90 nappal meghosszabbíthatja.
+(4) Az engedélyező a titkos információgyűjtést esetenként legfeljebb 90 napra engedélyezi. Ezt a határidőt az engedélyező indokolt esetben – a főigazgatók előterjesztése alapján – további 90 nappal meghosszabbíthatja.
 
 (5) A bíró a határidő meghosszabbítására vonatkozó döntése kialakításánál megismerheti az adott ügyben általa engedélyezett titkos információgyűjtés során szerzett és rögzített adatokat.
 
 (6) Az engedélyező eljárásáról, illetve a titkos információgyűjtés tényéről az érintettet nem tájékoztatja.
-
-(7) A bírói engedélyhez kötött eszköz alkalmazásának tényét igazoló, a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 257. § (2) bekezdése szerinti igazolás beszerzéséről a titkos információgyűjtést folytató szerv vezetője a büntetőeljárás kezdeményezését megelőzően gondoskodik. A törvényszék elnöke a Be. 257. § (2) bekezdése szerinti igazolást az erre irányuló kérelem érkezésétől számított három munkanapon belül állítja ki, amelyet a titkos információgyűjtést folytató szerv vezetője megküld a büntetőeljárás megindítására jogosult szervnek.
 
 ### Kivételes engedélyezés
 
@@ -1166,42 +549,34 @@ Katonai Nemzetbiztonsági Szolgálat és – a 8. § (1) bekezdésének f) pontj
 - c) a határideje meghosszabbítás nélkül lejárt.
 - d) a titkos információgyűjtés bármely okból törvénysértő.
 
-(2) Az 59. § (1) bekezdésében meghatározott kivételes eljárás esetén a titkos információgyűjtést akkor is haladéktalanul meg kell szüntetni, ha a titkos információgyűjtés folytatását az engedélyező nem engedélyezi. Ebben az esetben a titkos információgyűjtés során nyert adatokat – a minősített adatok megsemmisítésére vonatkozó jogszabályi előírások szerint – haladéktalanul meg kell semmisíteni.
+(2) Az 59. § (1) bekezdésében meghatározott kivételes eljárás esetén a titkos információgyűjtést akkor is haladéktalanul meg kell szüntetni, ha a titkos információgyűjtés folytatását az engedélyező nem engedélyezi. Ebben az esetben a titkos információgyűjtés során nyert adatokat – az állam- és szolgálati titkot tartalmazó iratok megsemmisítési rendjére vonatkozó törvényi előírások szerint – haladéktalanul meg kell semmisíteni.
 
-### A titkos információgyűjtésre és a leplezett eszközök alkalmazására vonatkozó egyéb szabályok
+### A titkos információgyűjtésre vonatkozóegyéb szabályok
 
-61. § (1) Ha a titkos információgyűjtés, illetve a leplezett eszközök alkalmazásának végrehajtására a 8. § (1) bekezdés a) pontjában meghatározottak szerint kerül sor, a titkos információgyűjtés folytatásához, illetve a leplezett eszközök alkalmazásához szükséges engedély beszerzése az alkalmazást megrendelő szerv feladata. Az alkalmazás jogszerűségéért a megrendelő szerv, a végrehajtásért a Nemzetbiztonsági Szakszolgálat felel.
+61. § (1) Ha a titkos információgyűjtésre a 8. § (1) bekezdés a) pontjában meghatározottak szerint kerül sor, a titkos információgyűjtéshez szükséges engedély beszerzése az alkalmazást megrendelő szerv feladata. Az alkalmazás jogszerűségéért a megrendelő szerv, a végrehajtásért a Nemzetbiztonsági Szakszolgálat felel.
 
-(2) A Nemzetbiztonsági Szakszolgálat a szolgáltatói feladata keretében alkalmazott titkos információgyűjtés, illetve a leplezett eszközök alkalmazásának eredményeként megszerzett valamennyi adatot kizárólag a megrendelő szerv számára továbbítja, a továbbított adatokat a Nemzetbiztonsági Szakszolgálat nyilvántartásából törölni kell.
+(2) A Nemzetbiztonsági Szakszolgálat a szolgáltatói feladata keretében alkalmazott titkos információgyűjtés során nyert valamennyi adatot a megrendelő szerv számára továbbítja, a továbbított adatokat a Szakszolgálat nyilvántartásából törölni kell.
 
 (3) A Nemzetbiztonsági Szakszolgálat szolgáltató feladataival kapcsolatosan nyilvántartást vezet, amely tartalmazza
 
 - a) a megrendelő szervezet írásbeli megkeresését a szükséges engedéllyel,
 - b) a megkeresésben megjelölt személyek azonosításához szükséges személyes adatokat,
-- c) a titkos információgyűjtés, illetve a leplezett eszközök alkalmazása során igénybe vett eszközök és módszerek leírását, valamint a személyes adatnak nem minősülő, műveleti értékkel bíró információkat, technikai adatokat,
+- c) az adott ügyben felhasznált titkos információgyűjtés eszközeinek és módszereinek leírását,
 - d) a megrendelő szervezet részére továbbított adathordozók jegyzékét.
 
-(4) A közölt adatok hitelességéért az adatszolgáltató, a felhasználásáért, illetve az erre alapozott intézkedések megtételéért vagy elmulasztásáért a titkos információgyűjtést, illetve a leplezett eszközök alkalmazásának végrehajtását megrendelő szerv a felelős.
+(4) A közölt adatok hitelességéért az adatszolgáltató, a felhasználásáért, illetve az erre alapozott intézkedések megtételéért vagy elmulasztásáért a titkos információgyűjtést megrendelő szerv felelős.
 
-(5) A Nemzetbiztonsági Szakszolgálat a szolgáltatói feladata ellátásához kapcsolódóan a (3) bekezdésben meghatározottakon túl személyes adatokat nem tárolhat.
+62. § A titkos információgyűjtés során beszerzett adatok a büntetőeljárásban bizonyítási eszközként való esetleges felhasználásáig, továbbá a nemzetbiztonsági szolgálattal együttműködő természetes és jogi személyek, valamint a jogi személyiséggel nem rendelkező szervezetek kiléte, az információgyűjtés ténye és technikai részletei államtitoknak minősülnek. Az együttműködő személyek és szervezetek e tevékenységükkel kapcsolatban a miniszter vagy a főigazgatók engedélye nélkül adatokat nem hozhatnak nyilvánosságra.
 
-62. § A nemzetbiztonsági szolgálattal együttműködő természetes és jogi személyek, valamint a jogi személyiséggel nem rendelkező szervezetek e tevékenységükkel kapcsolatban a miniszter vagy a főigazgató engedélye nélkül adatokat nem hozhatnak nyilvánosságra.
-
-62/A. § Az e törvény hatálya alá nem tartozó titkos információgyűjtés folytatására vagy leplezett eszközök alkalmazására feljogosított szerv az információs rendszer titkos megfigyelése eszköz alkalmazását kizárólag a Nemzetbiztonsági Szakszolgálat által nyújtott szolgáltatás igénybevételével hajtja végre.
-
-### A titkosszolgálati tevékenységgel kapcsolatos sajátos gazdálkodási szabályok
+### A titkos információgyűjtéssel kapcsolatos sajátos gazdálkodási szabályok
 
 63. § (1) A nemzetbiztonsági szolgálatok költségvetésükben az alaptevékenységgel összefüggő speciális működési kiadásaik fedezésére elkülönített előirányzatot szerepeltethetnek. A speciális működési kiadásokat összevontan – az általános számviteli szabályoktól eltérően – egy összegben kell szerepeltetni.
 
 (2) Speciális működési kiadásnak minősülnek a nemzetbiztonsági szolgálatok titkosszolgálati tevékenységéhez, a titkos információgyűjtés eszközeinek és módszereinek alkalmazásához közvetlenül kötődő személyi és tárgyi vonatkozású kiadások.
 
-(3) A nemzetbiztonsági szolgálatok által az együttműködő magánszemély részére kifizetett összegből a személyi jövedelemadó mértékével megegyező mértékű adót kell levonni és befizetni az adóhatóságnak. A magánszemélynek ezt a jövedelmet nem kell az összevont adóalapjába beszámítania, azt nem kell bevallania, a kifizetőnek pedig nem kell erről az adózás rendjéről szóló törvény szerinti havi adó- és járulékbevallásban adatot szolgáltatnia, valamint a magánszemély részére igazolást kiadnia.
+(3) A nemzetbiztonsági szolgálatok által az együttműködő magánszemély részére kifizetett összegből 20%-os forrásadót kell levonni és befizetni az adóhatóságnak. A magánszemélynek ezt a jövedelmet nem kell az összevont adóalapjába beszámítania, azt nem kell bevallania, a kifizetőnek pedig nem kell erről személyre szólóan adatot szolgáltatnia, illetőleg a magánszemély részére igazolást kiadnia.
 
 (4) A nemzetbiztonsági szolgálatok hivatásos állományú tagjának e jogviszonyával összefüggő külszolgálata alapján kifizetett jövedelemből az adott évi adótábla legmagasabb adókulcsa alkalmazásával kell az adót levonni és befizetni az adóhatóságnak. A magánszemélynek ezt a jövedelmet nem kell az összevont adóalapjába beszámítania, azt nem kell bevallania, a kifizetőnek pedig nem kell erről személyre szólóan adatot szolgáltatnia, illetőleg a magánszemély részére igazolást kiadnia.
-
-(5) A nemzetbiztonsági szolgálatok titkosszolgálati tevékenységéhez, valamint a titkos információgyűjtés eszközeinek és módszereinek alkalmazásához közvetlenül kötődő, e célra beszerzett és használt vagyon felett az államot megillető tulajdonosi jogok és kötelezettségek összességét a nemzetbiztonsági szolgálatok gyakorolják.
-
-(6) A nemzetbiztonsági szolgálatok titkosszolgálati tevékenységéhez, valamint a titkos információgyűjtés eszközeinek és módszereinek alkalmazásához közvetlenül kötődő vagyon értékesítésből származó bevétel a nemzetbiztonsági szolgálatok speciális bevétele, amelyet az e tevékenységhez szükséges ingatlan és egyéb eszközök vételére, felújítására, felszerelésére, illetve bővítésére használhatnak fel.
 
 64. § (1) A nemzetbiztonsági szolgálatok feladataik teljesítése érdekében – a fedésül szolgáló intézmény típusára vonatkozó jogszabályok előírásai szerint – fedőintézményt hozhatnak létre és tarthatnak fenn. Fedőintézményként költségvetési szerv nem hozható létre.
 
@@ -1209,7 +584,7 @@ Katonai Nemzetbiztonsági Szolgálat és – a 8. § (1) bekezdésének f) pontj
 
 (3) Ha a fedőintézmény megszűnik, vagyona a nemzetbiztonsági szolgálatokat illeti.
 
-(4) Az államháztartásról szóló törvény rendelkezései a fedővállalkozásra nem vonatkoznak.
+(4) Az államháztartásról szóló 1992. évi XXXVIII. törvény rendelkezései a fedővállalkozásra nem vonatkoznak.
 
 65. § A nemzetbiztonsági szolgálatok a 63. § (2) bekezdésében meghatározott körben külön korlátozás nélkül valutát kezelhetnek.
 
@@ -1219,348 +594,148 @@ Katonai Nemzetbiztonsági Szolgálat és – a 8. § (1) bekezdésének f) pontj
 
 ### A nemzetbiztonsági védelem és ellenőrzés szabályai
 
-67. § (1) A nemzetbiztonsági szolgálatok által nyújtott nemzetbiztonsági védelem (a továbbiakban: védelem) célja az 1. számú mellékletben meghatározott személyek tevékenysége ellen irányuló, valamint ezen személyek tevékenységéhez kötődő védett információk jogellenes megszerzését célzó – ezáltal Magyarország nemzetbiztonsági érdekeit sértő vagy veszélyeztető – leplezett törekvések felderítése és elhárítása.
+67. § (1) A nemzetbiztonsági szolgálatok által nyújtott nemzetbiztonsági védelem (a továbbiakban: védelem) célja az 1. számú mellékletben meghatározott személyek tevékenysége ellen irányuló, valamint ezen személyek tevékenységéhez kötődő védett információk jogellenes megszerzését célzó – ezáltal a Magyar Köztársaság nemzetbiztonsági érdekeit sértő vagy veszélyeztető – leplezett törekvések felderítése és elhárítása.
 
 (2) A védelem ellátása során a nemzetbiztonsági szolgálatok a védendő személyt érintően csak írásbeli beleegyezésével alkalmazhatják a titkos és nyílt információgyűjtés eszközeit és módszereit.
 
 (3) A nemzetbiztonsági szolgálatok rendszeresen tájékoztatják a védendő személyt a védelem során tett biztonsági intézkedésekről és az intézkedések által érintett személyek köréről.
 
-68. § (1) A nemzetbiztonsági szolgálatok által végzett nemzetbiztonsági ellenőrzés célja annak vizsgálata, hogy az állami élet és a nemzetgazdaság jogszerű működéséhez szükséges, valamint – amennyiben indokolt – a nemzetközi kötelezettségvállalásokból fakadó biztonsági feltételekkel összefüggésben, a nemzetbiztonsági ellenőrzés alá eső személlyel kapcsolatosan nemzetbiztonsági kockázat megállapítható-e.
+68. § (1) A nemzetbiztonsági szolgálatok által végzett nemzetbiztonsági ellenőrzés (a továbbiakban: ellenőrzés) célja annak vizsgálata, hogy fontos és bizalmas munkakörre jelölt, illetve az ilyen munkakört betöltő személyek megfelelnek-e az állami élet és a nemzetgazdaság jogszerű működéséhez szükséges, valamint – amennyiben szükséges – a nemzetközi kötelezettségvállalásokból fakadó biztonsági feltételeknek.
 
-(2) A nemzetbiztonsági ellenőrzés alá eső személlyel kapcsolatosan nemzetbiztonsági kockázat áll fenn, ha olyan körülmény áll fenn, ami miatt
+(2) A biztonsági feltételek vizsgálata azon kockázati tényezők, körülmények, információk felderítését jelenti, amelyek felhasználásával a fontos és bizalmas munkakört betöltő személyek tevékenysége jogellenes céllal befolyásolhatóvá, illetve támadhatóvá válhat, és ezáltal a nemzetbiztonságot sértő vagy veszélyeztető helyzet állhat elő.
 
-- a) nem alkalmas a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony törvényes, illetéktelen befolyástól mentes ellátására, vagy ha
-- b) személyével szemben olyan körülmény áll fenn, amely sérti vagy veszélyezteti a minősített adat védelméhez fűződő érdeket.
+(3) A fontos és bizalmas munkakört betöltő személyek körét a 2. számú melléklet tartalmazza.
 
-69. § (1) A nemzetbiztonsági ellenőrzés alá eső személyeket a 74. § i) pontja határozza meg.
+(4) A fontos és bizalmas munkakörbe jelölt személyekre vonatkozó szabályok szerint kijelölésük, illetve megbizatásuk előtt egyszeri biztonsági ellenőrzést kell kezdeményezni az alábbi személyek tekintetében:
 
-(2) A 74. § i) pont in) és io) alpontjában meghatározott körben a nemzetbiztonsági ellenőrzés alá eső munkaköröket, álláshelyeket, tisztségeket és beosztásokat (a továbbiakban együtt: munkakör)
+- a) a titkos információgyűjtést engedélyező bíró,
+- b) valamennyi miniszter,
+- c) a Bizottság és a Honvédelmi Bizottság tagja, illetve e két bizottság eljárásában közreműködő szakértő,
+- d) az 55. §-ban meghatározott kijelölt ügyész,
+- e) az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény szerinti titokbirtokos szervvel közreműködő olyan személy, akinek feladata ellátásához államtitkot vagy nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő, az 1995. évi LXV. törvény 5/B. § (2)–(6) bekezdésében szereplő, illetve az 5/B. § (7) bekezdése szerinti nemzetközi szerződést kihirdető törvényben meghatározott külföldi minősítéssel és jelöléssel ellátott adatot szükséges megismernie,
+- f) a Független Rendészeti Panasztestület tagjai.
 
-- a) kormányzati irányítás alatt álló szervek esetében az irányítást vagy felügyeletet gyakorló miniszter, – a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat irányításáért felelős miniszter egyetértésével kiadott – rendeletben,
-- b) kormányzati irányítás alatt nem álló foglalkoztató szervezet esetében a foglalkoztató szervezet vezetője a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálatokat irányító miniszter egyetértésével kiadott közjogi szervezetszabályozó eszközben, ha ennek kiadására nem jogosult, a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálatokat irányító miniszter jóváhagyásával munkáltatói intézkedésben, írásban
+69. § (1) A köztársasági elnök kezdeményezi az ellenőrzést
 
-határozza meg.
+- a) a Magyar Honvédség parancsnoka és vezérkari főnöke,
+- b)
+- c) a Köztársasági Elnök Hivatala vezető beosztású munkatársai
 
-70. § (1) E törvény eltérő rendelkezése hiányában a nemzetbiztonsági ellenőrzés alá eső személy nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony létrehozatalát megelőző ellenőrzését a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony létesítésére jogosult személy kezdeményezi. Az igazságügyi szervnél foglalkoztatott igazságügyi alkalmazott nemzetbiztonsági ellenőrzését a munkáltatói jogkör gyakorlója kezdeményezi. Ügyészségi szolgálati viszonyban álló személy esetében a nemzetbiztonsági ellenőrzést a legfőbb ügyész kezdeményezi.
+tekintetében.
 
-(2) Az (1) bekezdésben foglaltaktól eltérően a nemzetbiztonsági ellenőrzés kezdeményezésére a 74. § i) pontjának
+(2) Az Országgyűlés elnöke kezdeményezi az ellenőrzést
 
-- a) if) és ig) alpontjában megjelölt személy esetén a köztársasági elnök,
-- b) ie), il), im) és iv) alpontjában megjelölt személy, valamint az iu) alpontjában megjelölt személyek közül az Országgyűlési Őrség hivatásos állományába tartozó tábornok és tábornoki rendfokozattal rendszeresített beosztásba kinevezett személy esetén az Országgyűlés elnöke,
-- c) ib) alpontjában megjelölt személy esetén, valamint – a h) pontban megjelölt kör kivételével – a 74. § i) pont id) alpontjában megjelölt személy esetén a miniszterelnök,
-- d) ia), ic), ih) és ii) alpontjában megjelölt személy esetén a tevékenység szerinti irányító miniszter,
-- e) ij) és it) alpontjában megjelölt személy esetén az állam nevében tulajdonosi vagy alapítói jogokat gyakorló miniszter vagy a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 7/A. § (1) bekezdése alapján a tulajdonosi vagy alapítói jogok gyakorlására kijelölt személy,
-- f) ik) alpontjában foglalt esetben az állomány szerint illetékes főigazgató,
-- g) iu) alpontjában megjelölt személyek esetén az Országgyűlési Őrség parancsnoka
-- h) id) alpontjában megjelölt személyek közül a nem országos illetékességű központi hivatal, a kormányzati főhivatal, valamint a területi kormányzati igazgatási szerv vezetője és vezetőhelyettese, valamint a nemzeti köznevelési törvényben meghatározott oktatási központ feladatainak ellátására kijelölt központi hivatal vezetőhelyettese esetén a tevékenység szerinti irányító miniszter
+- a) az Országgyűlés Nemzetbiztonsági Bizottságába és Honvédelmi Bizottságába jelölt képviselők,
+- b) az Országgyűlés Hivatalának vezető beosztású munkatársai
+- c) a Független Rendészeti Panasztestület tagjai
 
-jogosult.
+tekintetében.
 
-(3) A Nemzeti Biztonsági Felügyelet vezetője kezdeményezi:
+(3) A miniszterelnök kezdeményezi az ellenőrzést
 
-- a) a külföldi szervnél, valamint külföldi székhelyű gazdálkodó szervezetnél munkát vállaló, minősített adatot felhasználó, magyar állampolgárságú személy nemzetbiztonsági ellenőrzését,
-- b) az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló kormányrendeletben meghatározott, nemzetbiztonsági ellenőrzésre kötelezett személyi kör ellenőrzését, továbbá a nemzetbiztonsági ellenőrzés alá eső személy nemzetbiztonsági ellenőrzését, aki esetében az (1) és (2) bekezdés alapján nem állapítható meg a kezdeményezésére egyébként jogosult személy.
+- a) valamennyi miniszteri tisztségre jelölt személy,
+- b) az államtitkárok és az azonos jogállású állami vezetők,
+- c) a Miniszterelnöki Hivatal vezető beosztású munkatársai,
+- d) a Kormány irányítása alatt álló az ország egész területére kiterjedő illetékességgel rendelkező szervek vezetői, helyettesei, és a vezetőkkel azonos jogállású más közszolgálati vezetők
 
-(4) Nem kell kezdeményezni
+tekintetében.
 
-- a) a köztársasági elnök,
-- b) a miniszterelnök,
-- c) az alkotmánybírák,
-- d) az Országgyűlés elnöke,
-- e) a Kúria elnöke, az Országos Bírósági Hivatal elnöke,
-- f) a legfőbb ügyész,
-- g) az alapvető jogok biztosa és helyettesei,
-- h) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
-- i) az Európai Parlament Magyarországon megválasztott képviselője és – e törvény eltérő rendelkezése hiányában – az országgyűlési képviselő, valamint
-- j) a nemzetiségi szószóló
+(4) Az illetékes miniszter kezdeményezi az ellenőrzést
 
-nemzetbiztonsági ellenőrzését.
+- a) a szakállamtitkárok és az azonos jogállású állami vezetők,
+- b) a nagykövetek és az önálló külképviseleteket irányító főkonzulok,
+- c) a központi hivatalok vezetői, valamint a velük azonos jogállású más közszolgálati vezetők,
+- d) a minisztériumi főosztályvezetők és az azonos jogállású állami vezetők,
+- e) az irányításuk alá tartozó rendvédelmi szervek országos parancsnokai és helyettesei, valamint a tábornokok és a tábornoki rendfokozattal rendszeresített beosztásokba kinevezettek,
+- f) az állami vagy többségi állami tulajdonban lévő gazdálkodó szervezetek vezetői,
+- g) a többségi állami tulajdonban lévő bankok, szakosított pénzintézetek és biztosítóintézetek vezető beosztású munkatársai,
+- h) az általa – a 2. számú melléklet 18. pontja alapján – meghatározott munkakört betöltő személyek
 
-(5) Nem kell kezdeményezni továbbá a nemzetbiztonsági ellenőrzést a 74. § i) pontjában meghatározott olyan személlyel kapcsolatban, aki számára törvény a minősített adat megismerését vagy felhasználását nemzetbiztonsági ellenőrzés lefolytatása nélkül is biztosítja.
+tekintetében.
 
-71. § (1) Nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony – ha e törvény eltérően nem rendelkezik – csak a nemzetbiztonsági ellenőrzést követően, abban az esetben hozható létre, ha a nemzetbiztonsági ellenőrzés nemzetbiztonsági kockázatot nem állapított meg.
+(5) A honvédelemért felelős miniszter vagy a Magyar Honvédség parancsnoka rendeli el, illetve kezdeményezi az ellenőrzést a Magyar Honvédségen belül, az illetékes miniszter által meghatározott munkakört betöltő személyek tekintetében.
 
-(2) A nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony a nemzetbiztonsági ellenőrzés lefolytatását megelőzően is létrehozható, ha
+(6) Az országos rendőrfőkapitány kezdeményezi az ellenőrzést
 
-- a) a nemzetbiztonsági ellenőrzés alá eső jogviszony létesítésére jogosult személyt vagy testületet irányító vagy felügyelő személy vagy szerv,
-- b) a 70. § (2) bekezdés g) pontjában meghatározott személy esetén az Országgyűlés elnöke,
-- c) a 70. § § (2) bekezdés c), d) és e) pontjában meghatározott személy esetében a miniszterelnök,
-- d) a 70. § (2) bekezdés f) pontjában meghatározott személy esetében az állomány szerint illetékes főigazgató által vezetett nemzetbiztonsági szolgálatot irányító miniszter,
-- e) igazságügyi alkalmazott esetében a munkáltatói jogkör gyakorlója feletti kinevezési jogkört gyakorló bírósági vezető, ennek hiányában az Országos Bírósági Hivatal elnöke,
-- f) ügyészségi szolgálati viszonyban álló személyek esetében a legfőbb ügyész
+- a) a rendőrfőkapitányok és rendőrkapitányok,
+- b) a Rendőrségen belül, az illetékes miniszter által meghatározott munkakört betöltő személyek
 
-azt jóváhagyta.
+tekintetében.
 
-(3) A (2) bekezdés a) pontjában meghatározott irányító vagy felügyelő személy vagy szerv hiányában a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony létesítésére jogosult személy vagy testület dönt a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony nemzetbiztonsági ellenőrzés lefolytatását megelőzően történő létrehozásáról.
+(7)
 
-(4) Ha a nemzetbiztonsági ellenőrzés nemzetbiztonsági kockázatot állapított meg, a nemzetbiztonsági ellenőrzés alá eső jogviszony csak akkor hozható létre, ha annak létrehozását a (2) vagy (3) bekezdésben meghatározott szerv, személy vagy testület jóváhagyta.
+(8) A rendvédelmi szervek országos parancsnokai kezdeményezik az ellenőrzést a rendvédelmi szerveken belül az illetékes miniszter által meghatározott munkakört betöltő személyek tekintetében.
 
-(4a) Ha a (2) bekezdés szerinti esetben a nemzetbiztonsági ellenőrzés alá eső jogviszony létrehozását követően a nemzetbiztonsági ellenőrzés nemzetbiztonsági kockázatot állapít meg,
+(9) A nemzetbiztonsági szolgálatok főigazgatói kezdeményezik az ellenőrzést a nemzetbiztonsági szolgálatok munkatársai tekintetében.
 
-- a) a nemzetbiztonsági ellenőrzés alá eső jogviszony megszüntetése iránt kell intézkedni akként, hogy a munkáltatói jogkört gyakorló mérlegeli az érintett személy más, nemzetbiztonsági ellenőrzés alá nem eső munkakörbe, beosztásba helyezését vagy foglalkoztatási jogviszonyának megszüntetését, vagy
-- b) a nemzetbiztonsági ellenőrzés alá eső jogviszony akkor tartható fenn, ha annak fenntartását a (2) vagy (3) bekezdésben meghatározott szerv, személy vagy testület jóváhagyta.
+(10) A Fővárosi Bíróság elnöke kezdeményezi az ellenőrzést a titkos információgyűjtést engedélyező bírói tisztségre jelölt személyek tekintetében.
 
-(5) Az (2)–(4a) bekezdésben meghatározott esetben a kezdeményezésre jogosult a nemzetbiztonsági ellenőrzés alá eső jogviszony létrehozásáról, illetve fenntartásáról értesíti a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot.
+(11) A Nemzetbiztonsági Bizottság elnöke kezdeményezi az ellenőrzést a Bizottság eljárása során szakértőnek jelölt személyek tekintetében. A Honvédelmi Bizottság elnöke kezdeményezi az ellenőrzést a Honvédelmi Bizottság eljárása során szakértőnek jelölt személyek tekintetében.
 
-(6) A (4) vagy (4a) bekezdésben meghatározott esetben a Nemzeti Biztonsági Felügyelet nem adja ki a nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő adatok megismeréséhez szükséges biztonsági tanúsítványt.
+(12) A legfőbb ügyész kezdeményezi az ellenőrzést az általa az 55. § alapján kijelölt ügyész tekintetében.
 
-(7) A nemzetbiztonsági ellenőrzés alá eső személyt foglalkoztató szerv tájékoztatja a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálatot arról, ha az érintett már nem tölt be nemzetbiztonsági ellenőrzés alá eső munkakört, ezért a nemzetbiztonsági ellenőrzés alá eső jogviszonya a továbbiakban nem áll fenn.
+(13) A titokbirtokos szerv vezetője kezdeményezi az ellenőrzést a 68. § (4) bekezdésének e) pontjában és a 2. számú melléklet 19. pontjában meghatározott személyek tekintetében.
 
-### A nemzetbiztonsági ellenőrzés lefolytatása
+(14) A Nemzeti Biztonsági Felügyelet elnöke kezdeményezi az ellenőrzést olyan személyek tekintetében, akiknek feladataik ellátásához nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő adatokat szükséges megismerniük, ha az (1)–(13) bekezdés alapján nem állapítható meg az ellenőrzés kezdeményezésére jogosult személy.
 
-71/A. § (1) A nemzetbiztonsági ellenőrzés csak a nemzetbiztonsági ellenőrzés alá eső személy előzetes, az esetleges felülvizsgálati eljárásra is kiterjedő, írásbeli hozzájárulásával végezhető el. Ha a nemzetbiztonsági ellenőrzés alá eső személy a nemzetbiztonsági ellenőrzéshez nem járul hozzá, a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony nem hozható létre, illetve nem tartható fenn.
+70. § (1) A fontos és bizalmas munkakörbe történő kinevezés előtt kezdeményezni kell a jelölt személy ellenőrzését.
 
-(2) A nemzetbiztonsági ellenőrzés alá eső személy a nemzetbiztonsági ellenőrzés kezdeményezését megelőzően a 2. számú mellékletben meghatározott biztonsági kérdőívet írásban vagy a nemzetbiztonsági ellenőrzés lefolytatásával érintett nemzetbiztonsági szolgálat által üzemeltetett honlapon elérhető elektronikus keretprogram használatával is kitöltheti.
+(2) A fontos és bizalmas munkakört betöltő személy ellenőrzését a kezdeményezésre jogosult saját mérlegelési jogkörében – de legalább ötévenként – kezdeményezi.
 
-(3) A nemzetbiztonsági ellenőrzés alá eső személy a nemzetbiztonsági ellenőrzés alá eső jogviszony fennállása alatt, illetve nemzetbiztonsági ellenőrzése során a biztonsági kérdőívben megadott adatai közül a lényeges adatok, tények vagy körülmények megváltozásáról kormányrendeletben meghatározottak szerint tájékoztatja a nemzetbiztonsági szolgálatot. Azon adatok, tények és körülmények körét, amelyek a biztonsági kérdőív szempontjából lényegesnek minősülnek, valamint a lényeges adatban, tényben vagy körülményben bekövetkező változás bejelentésének, a bejelentésben foglaltaknak a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat részére történő továbbításának részletes szabályait a Kormány rendeletben határozza meg.
+(3) Az ellenőrzésre kötelezett munkakör, illetve tisztség betöltésére jelentkező vagy felkért személyt (szakértőt) előre tájékoztatni kell a biztonsági ellenőrzés elrendelésének lehetőségéről és annak lehetséges módjairól.
 
-(4) A nemzetbiztonsági ellenőrzés kezdeményezésére jogosult a nemzetbiztonsági ellenőrzés lefolytatására írásban kéri fel a nemzetbiztonsági szolgálatot.
+(4) Ellenőrzés csak a fontos és bizalmas munkakörre jelölt, illetve az ilyen munkakört betöltő személy (a továbbiakban együtt: érintett személy) előzetes írásbeli hozzájárulásával folytatható.
 
-(5) A nemzetbiztonsági ellenőrzés alá eső jogviszony fennállása alatt a kockázatmentes biztonsági szakvélemény érvényességi idejének lejártát megelőző 180. és 90. nap között köteles kezdeményezni a kezdeményezésre jogosult az új nemzetbiztonsági ellenőrzést.
+(5) Ha az érintett személy az ellenőrzéshez nem járul hozzá, fontos és bizalmas munkakörben nem alkalmazható.
 
-71/B. § (1) A nemzetbiztonsági ellenőrzést az eljáró nemzetbiztonsági szolgálat főigazgatója a kezdeményezés kézhezvételét követő 15 napon belül rendeli el. A nemzetbiztonsági ellenőrzést az elrendeléstől számított 60 napon belül kell lefolytatni, mely határidő egy esetben 30 nappal meghosszabbítható.
+(6) A biztonsági ellenőrzést kezdeményezni jogosult személy az ellenőrzés elrendelésére – a 71. §-ban meghatározott kérdőív megküldésével egyidejűleg – írásban kéri fel a minisztert. A miniszter az ellenőrzést elrendeli.
 
-(1a) Ha a nemzetbiztonsági ellenőrzés elrendelését követően, a nemzetbiztonsági ellenőrzés befejezését megelőzően ugyanarra a személyre vonatkozóan más kezdeményező is kezdeményezi a nemzetbiztonsági ellenőrzés lefolytatását, akkor a későbbi kezdeményezés vonatkozásában a főigazgató az újabb elrendelést mellőzi. Az elrendelés mellőzéséről, valamint a korábban a kezdeményező részére megküldött írásbeli értesítések tartalmáról a nemzetbiztonsági szolgálat főigazgatója az újabb kezdeményezőt írásban értesíti. A már megkezdett nemzetbiztonsági ellenőrzésben ezt követően a későbbi kezdeményező is a kezdeményező jogkörében vesz részt, ennek tényéről a nemzetbiztonsági szolgálat főigazgatója mindkét kezdeményezőt írásban értesíti.
+71. § (1) Az érintett személy az ellenőrzés kezdeményezését megelőzően – a jogosult, illetve az általa kijelölt személy kérésére – a 3. számú mellékletben meghatározott biztonsági kérdőívet tölt ki.
 
-(2) A nemzetbiztonsági ellenőrzés határidejének meghosszabbításáról az eljáró nemzetbiztonsági szolgálat főigazgatója határoz, arról a kezdeményezőt, valamint a kezdeményező útján a nemzetbiztonsági ellenőrzés alá vont személyt 8 napon belül írásban értesíti.
+(2) A 2. számú melléklet 1–17. pontjaiban, valamint a 68. § (4) bekezdés a)–d) pontjaiban felsorolt személyek a 3. számú mellékletben meghatározott, ,,C'' típusú kérdőívet töltik ki. A 68. § (4) bekezdésének e) pontjában meghatározott személyek a megismerendő adat minősítésétől, illetve jelölésétől függően az alábbi típusú kérdőívet töltik ki:
 
-(3) A nemzetbiztonsági ellenőrzés során a kockázati tényezők vizsgálatának és értékelésének arányosnak kell lennie a nemzetbiztonsági ellenőrzés alapjául szolgáló munkakörhöz kapcsolódó, a minősített adat védelméhez fűződő és más biztonsági követelményekkel.
+- a) az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 3. § (1) bekezdésének hatálya alá tartozó adatok esetében: 1. az állampolgári jogok országgyűlési biztosáról szóló 1993. évi LIX. törvény mellékletében felsorolt iratokban foglalt adatot megismerő személyek ,,C'' típusú kérdőívet; 2. államtitkot tartalmazó adatot megismerő személyek ,,B'' típusú kérdőívet.
+- b) nemzetközi szerződés alapján átvett vagy nemzetközi kötelezettségvállalás alapján készült minősített, valamint korlátozottan megismerhető adatok esetében: 1. törvényben vagy nemzetközi szerződésben a szigorúan titkos minősítésnek megfeleltetett minősítésű adatot megismerő személyek ,,C'' típusú kérdőívet; 2. törvényben vagy nemzetközi szerződésben a titkos minősítésnek megfeleltetett minősítésű adatot megismerő személyek ,,B'' típusú kérdőívet; 3. a 2. pontban meghatározott minősítési szintet el nem érő, törvény vagy nemzetközi kötelezettségvállalás alapján védelmet igénylő adatokat megismerő személyek ,,A'' típusú kérdőívet
 
-(4) A nemzetbiztonsági ellenőrzés során az eljáró nemzetbiztonsági szolgálat köteles a nemzetbiztonsági ellenőrzés lefolytatásához feltétlenül szükséges, az érintett alapvető jogait legkevésbé korlátozó eszközt igénybe venni.
+(3) Az illetékes miniszter vagy a titokbirtokos szerv vezetője a 2. számú melléklet 18., 19. pontja alapján meghatározza azokat a munkaköröket, amelyek tekintetében az érintett személyek a 3. számú mellékletben meghatározott „A”, „B” vagy „C” típusú kérdőívet töltenek ki.
 
-(5) A nemzetbiztonsági ellenőrzés során az eljáró nemzetbiztonsági szolgálat az ellenőrzött személlyel konzultálhat, az ellenőrzött személlyel kapcsolatban álló személyeket hallgathat meg, a biztonsági kérdőívben feltüntetett adatokat nyilvántartások, adatkezelési rendszerek és adatállományok, valamint a korábbi ellenőrzések adataival vetheti össze, továbbá e törvényben meghatározottak szerint titkos információgyűjtést folytathat.
+A Nemzeti Biztonsági Felügyelet elnöke a 69. § (14) bekezdésében meghatározott személyek tekintetében – a megismerendő adat védelmi szintjének megfelelően – egyedileg dönt a kitöltendő kérdőív típusáról.
 
-71/C. § (1) A nemzetbiztonsági ellenőrzés során megszerzett információk és adatok alapján a nemzetbiztonsági szolgálat biztonsági szakvéleményt készít, amely tartalmazza
+(4) Ha az „A” vagy „B” típusú kérdőívhez kötődő ellenőrzés során kockázati tényező meglétére utaló adat keletkezik, az ellenőrzést végző nemzetbiztonsági szolgálat javasolhatja a kezdeményezőnek a „B” vagy „C” típusú kérdőív kitöltetését.
 
-- a) a nemzetbiztonsági ellenőrzés alá eső személy nevét, anyja nevét, születési helyét, idejét,
-- b) a nemzetbiztonsági ellenőrzés kezdő időpontját,
-- c) a nemzetbiztonsági kockázat hiányának megállapítását vagy a nemzetbiztonsági kockázat megállapítását és megállapításának indokait, valamint
-- d) a jogorvoslati jogosultságról történő tájékoztatást.
+(5) Az ellenőrzés a kérdőívben megadott adatok valóságának vizsgálatára és értékelésére, valamint egyéb kockázati tényezők felderítésére terjed ki. Az ellenőrzést „A” típusú kérdőív esetén az elrendeléstől számított 30, „B” típusú kérdőív esetén 45, „C” típusú kérdőív esetén 60 napon belül kell lefolytatni. Ez a határidő egy esetben – az érintett személy és a kezdeményező egyidejű tájékoztatása mellett – újabb 30 nappal meghosszabbítható.
 
-(2) A nemzetbiztonsági szolgálat a biztonsági szakvéleményben megjelöli azokat a minősített adatokat, amelyekről a nemzetbiztonsági ellenőrzés alá vont személy nem tájékoztatható.
+(6) Az ellenőrzésnek, a kockázati tényezők vizsgálatának és értékelésének arányosnak kell lennie a fontos és bizalmas munkakör betöltéséhez fűződő titokvédelmi és más biztonsági követelményekkel.
 
-(3) A biztonsági szakvéleményben foglalt megállapításokért a felelősség a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot terheli.
+(7) Az ellenőrzést végző nemzetbiztonsági szolgálat az érintett személlyel konzultálhat, referens személyeket hallgathat meg, felhasználhatja a személyügyi nyilvántartások és a korábbi ellenőrzések adatait, adatkezelési rendszerekben adatellenőrzéseket végezhet – ha a szükséges adatok más módon nem szerezhetők meg, – titkos információgyűjtési eszközöket és módszereket alkalmazhat. A nemzetbiztonsági szolgálat az 56. §-ban meghatározott, külső engedélyhez kötött titkos információgyűjtést csak a „C” típusú kérdőívhez kapcsolódó ellenőrzés során alkalmazhat.
 
-(4) Ha a rendőrségről szóló törvényben meghatározott szerv védett állományába tartozó, nemzetbiztonsági ellenőrzés alá eső személy ellenőrzése során nemzetbiztonsági kockázat nem állapítható meg, de az észlelt kockázatra utaló körülmény jellege azt indokolja, a nemzetbiztonsági szolgálat értesíti a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet megállapításairól.
+72. § (1) Az ellenőrzés során megszerzett információk és adatok alapján a nemzetbiztonsági szolgálat biztonsági szakvéleményt készít, amely valamennyi felmerült biztonsági kockázati tényezőt tartalmazza. A szakvéleményben foglalt megállapításokért, illetve a szükséges tájékoztatás elmaradásáért a felelősség a nemzetbiztonsági szolgálatot terheli. A szakvéleményt a miniszter ellenjegyzi, ezt követően a nemzetbiztonsági szolgálat a szakvéleményt a kezdeményezőhöz továbbítja. A kezdeményező a szakvéleményt a Nemzeti Biztonsági Felügyelethez továbbítja, ha az érintett személynek feladatai ellátásához nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő adatokat szükséges megismernie.
 
-(5) A biztonsági szakvéleményt az eljáró nemzetbiztonsági szolgálat főigazgatója a kezdeményezőnek megküldi. A kezdeményező a biztonsági szakvéleményt a Nemzeti Biztonsági Felügyelethez továbbítja, ha a nemzetbiztonsági ellenőrzés alá eső személynek feladatai ellátásához nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő adatokat szükséges megismernie.
+(2) Az ellenőrzés befejezéséről, valamint a biztonsági szakvéleményben foglaltakról – kivéve a bűncselekmény elkövetésére utaló körülményeket – a kezdeményező tájékoztatja az érintett személyt.
 
-(6) A nemzetbiztonsági ellenőrzés befejezéséről, valamint a biztonsági szakvéleményben foglaltakról – a bűncselekmény elkövetésére utaló körülmények és a (2) bekezdésben foglalt minősített adatok kivételével – a kezdeményező nyolc napon belül tájékoztatja a nemzetbiztonsági ellenőrzés alá eső személyt.
+(3) Az érintett személy a biztonsági szakvéleményben szereplő, általa valótlannak tartott megállapításokkal kapcsolatosan – a 11. § (5) bekezdés alapján – panasszal élhet a miniszternél, illetve ezt követően a Bizottságnál.
 
-(7) A kockázatmentes biztonsági szakvélemény a kiállítást követő 5 évig érvényes.
+(4) A kezdeményező a nemzetbiztonsági szolgálattól kapott szakvéleményt – az Országgyűlés elnöke a 19. § (7) bekezdése szerint korlátozással – döntése kialakításánál szabadon mérlegeli. Ha a Nemzeti Biztonsági Felügyelethez továbbított szakvélemény kockázati tényezőt tartalmaz, a nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő adatok megismeréséhez szükséges biztonsági tanúsítvány nem adható ki.
 
-(8) A kockázatmentes biztonsági szakvélemény érvényességi idején belül lefolytatott új nemzetbiztonsági ellenőrzésről készült biztonsági szakvélemény kiállításával a korábbi biztonsági szakvélemény érvényét veszti.
-
-(9) Ha a nemzetbiztonsági ellenőrzés alá eső jogviszony létrehozását követően a (8) bekezdés szerinti új nemzetbiztonsági ellenőrzésről készült biztonsági szakvélemény nemzetbiztonsági kockázatot állapít meg,
-
-- a) a nemzetbiztonsági ellenőrzés alá eső jogviszony megszüntetése iránt kell intézkedni akként, hogy a munkáltatói jogkört gyakorló mérlegeli az érintett személy más, nemzetbiztonsági ellenőrzés alá nem eső munkakörbe, beosztásba helyezését vagy foglalkoztatási jogviszonyának megszüntetését, vagy
-- b) a nemzetbiztonsági ellenőrzés alá eső jogviszony akkor tartható fenn, ha annak fenntartását a 71. § (2) vagy (3) bekezdésében meghatározott szerv, személy vagy testület jóváhagyta.
-
-(10) A (9) bekezdés szerinti esetben a 71. § (5) és (6) bekezdésében foglalt rendelkezéseket kell alkalmazni.
-
-71/D. § (1) Érvényes és kockázatmentes biztonsági szakvéleménnyel rendelkező, nemzetbiztonsági ellenőrzés alá eső személy a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony fennállása alatt a nemzetbiztonsági ellenőrzésre jogosult nemzetbiztonsági szolgálat főigazgatójához címzett, indokolt kérelmében kezdeményezheti felülvizsgálati eljárás elrendelését.
-
-(2) A nemzetbiztonsági szolgálat főigazgatója az országgyűlési képviselő, valamint a Kormány vagy a Kormány tagja irányítása alá nem tartozó szervezettel foglalkoztatási jogviszonyban álló személy kérelmére elrendeli, egyéb esetben elrendelheti az (1) bekezdés szerint kezdeményezett felülvizsgálati eljárást a kérelem beérkezésétől számított 15 napon belül.
-
-(3) A kérelem alapján elrendelt felülvizsgálati eljárásban a nemzetbiztonsági ellenőrzés alá eső jogviszonyt betöltő személy a kitöltött biztonsági kérdőívet a nemzetbiztonsági szolgálat főigazgatójának küldi meg.
-
-(4) A felülvizsgálati eljárás befejezéséről a nemzetbiztonsági szolgálat főigazgatója a 71/C. § (5)–(6) bekezdésében foglaltak szerint tájékoztatja az érintett személyt.
-
-### A nemzetbiztonsági ellenőrzés szünetelése
-
-72. § (1) Ha huzamosabb idejű külföldi tartózkodás, betegség vagy egyéb – a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálaton kívül álló – külső tényező a nemzetbiztonsági ellenőrzés alá vont személy eredményes ellenőrzését aránytalanul megnehezíti vagy lehetetlenné teszi, a nemzetbiztonsági ellenőrzést az akadály megszűnéséig szüneteltetni kell.
-
-(2) A nemzetbiztonsági ellenőrzés szüneteléséről az eljáró nemzetbiztonsági szolgálat főigazgatója határoz, és arról a kezdeményezőt, valamint – amennyiben az a szünetelés okára figyelemmel lehetséges – az érintettet a kezdeményező útján 8 napon belül írásban értesíti.
-
-(3) A nemzetbiztonsági ellenőrzés szünetelése az elrendelés alapjául szolgáló körülmény fennállásáig, de legfeljebb 6 hónapig tarthat. Ha a nemzetbiztonsági ellenőrzés szünetelésére okot adó körülmény megszűnik, az eljáró nemzetbiztonsági szolgálat főigazgatója – a kezdeményező és a kezdeményező útján az érintett egyidejű értesítése mellett – a nemzetbiztonsági ellenőrzés folytatásáról határoz. Ha a szünetelési határidő lejártakor a nemzetbiztonsági ellenőrzés lefolytatását akadályozó körülmények továbbra is fennállnak, az eljáró nemzetbiztonsági szolgálat főigazgatója a nemzetbiztonsági ellenőrzést megszünteti.
-
-(4) A nemzetbiztonsági ellenőrzés szünetelésének időtartama a nemzetbiztonsági ellenőrzés határidejébe nem számít bele.
-
-### A nemzetbiztonsági ellenőrzés megszüntetése
-
-72/A. § (1) Ha a nemzetbiztonsági ellenőrzés alá eső személy nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonya megszűnt, a kezdeményező, annak bekövetkezésétől vagy a tudomására jutástól számított 8 napon belül írásban értesíti a nemzetbiztonsági szolgálat főigazgatóját.
-
-(2) A nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat főigazgatója a nemzetbiztonsági ellenőrzést megszünteti, ha
-
-- a) a kezdeményező a megszüntetésre okot adó körülményről tájékoztatja vagy
-- b) a megszüntetésre okot adó körülmény bekövetkezését a nemzetbiztonsági szolgálat saját hatáskörben észleli.
-
-(3) A nemzetbiztonsági szolgálat főigazgatója a nemzetbiztonsági ellenőrzés megszüntetéséről 8 napon belül írásban értesíti a kezdeményezőt, aki erről haladéktalanul tájékoztatja a nemzetbiztonsági ellenőrzés alá vont személyt.
-
-### Felülvizsgálati eljárás
-
-72/B. § (1) A nemzetbiztonsági szolgálat felülvizsgálati eljárás keretében vizsgálhatja
-
-- a) az érvényes és kockázatmentes biztonsági szakvéleménnyel rendelkező személyt nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyának fennállása alatt,
-- b) az érvényes és kockázatmentes biztonsági szakvéleménnyel rendelkező személyt nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyba történő jelölését megelőzően vagy
-- c) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személyt, ha a 71. § (2) és (3) bekezdése szerint a jogviszony létrehozását, illetve fenntartását jóváhagyták.
-
-(2) Felülvizsgálati eljárás akkor folytatható le, ha
-
-- a) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személy jogviszonyának tartalma, így a munkakör ellátásával kapcsolatos feladatok, jogok és kötelezettségek, a munkavégzési körülmények jellege lényegesen megváltozik vagy a megváltozott munkakör befolyástól mentes ellátásához fokozott nemzetbiztonsági érdek fűződik, továbbá amennyiben a megváltozott tartalmú munkakört betöltő személy fokozottabban ki van téve a befolyásolási törekvéseknek,
-- b) az érvényes és kockázatmentes biztonsági szakvéleménnyel rendelkező személyt nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyba jelölik,
-- c) a 71/D. § alapján a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személy ezt kéri,
-- d) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személy a nemzetbiztonsági ellenőrzéssel kapcsolatos változás-bejelentési kötelezettsége teljesítését elmulasztotta vagy a bejelentett változás jellege ezt indokolja,
-- e) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személlyel kapcsolatban a nemzetbiztonsági ellenőrzés kezdeményezésére jogosult az alábbiakról szerez tudomást:
-  - ea) az ellenőrzött személy vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója ellen indult büntetőeljárás vagy elzárással büntethető szabálysértés miatt indult szabálysértési eljárás,
-  - eb) az ellenőrzött személynek vagy a Polgári Törvénykönyv szerinti közeli hozzátartozójának a külföldi személyekkel, szervezetekkel, külföldi érdekeltségeivel kapcsolatos körülményeiben bekövetkezett lényeges változás,
-  - ec) idegen állampolgárság, külföldi útlevél megszerzése,
-  - ed) kábítószer-fogyasztás, alkoholfüggőség, alkoholfogyasztással összefüggő magatartászavarok,
-  - ee) az igazolható jövedelemhez képest jelentős mértékű eladósodottság, pénzügyi kötelezettségek teljesítésének jelentős mértékű elmulasztása, jelentős mértékű, ismeretlen eredetű vagyongyarapodás, az igazolható jövedelemből nem fedezhető életvitel,
-  - ef) a minősített adatok kezelésére, a biztonságtechnológiai rendszerek használatára vonatkozó szabályok, a munkakör betöltésével kapcsolatos biztonsági előírások megsértése,
-  - eg) az ellenőrzött személy vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója szervezett bűnözői körökkel, ellenérdekelt titkosszolgálathoz kötődő személlyel való kapcsolattartása,
-  - eh) az ellenőrzött életvitelében, körülményeiben bekövetkező olyan változás, amely alkalmas az ellenőrzött befolyásolására, zsarolhatóságára,
-  - ei) az ellenőrzött hivatali helyzetével való visszaélése,
-  - ej) az ellenőrzött szélsőséges politikai vagy vallási jellegű szervezetekkel, csoportokkal való kapcsolattartása, ilyen szervezetekhez, csoportokhoz való tartozása, illetve ezek anyagi jellegű támogatása.
-
-(2a) Ha a (2) bekezdés e) pontjában meghatározott nemzetbiztonsági kockázatra utaló körülményről a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatója szerez tudomást, arról értesítheti a kezdeményezésre jogosultat.
-
-(3) A nemzetbiztonsági ellenőrzés kezdeményezésére jogosult a (2) bekezdés a), b) és e) pontja alapján kezdeményezheti a felülvizsgálati eljárás elrendelését a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatójánál. A (2) bekezdés a) vagy b) pontja alapján kezdeményezett felülvizsgálati eljárás esetén, a kezdeményezést megelőzően a nemzetbiztonsági ellenőrzés alá eső személy a 71/A. § (2) bekezdésben foglaltak szerint biztonsági kérdőívet tölt ki, írásban vagy a 71/A. § (2) bekezdésben meghatározott elektronikus keretprogram használatával.
-
-(4) A nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatója
-
-- a) a kezdeményezésre jogosult kezdeményezése alapján elrendeli,
-- b) a (1) bekezdés c) pontjában, (2) bekezdés a) és b), valamint d) pontjában foglaltakról való tudomásszerzés esetén elrendelheti a felülvizsgálati eljárást, továbbá
-- c) a (2) bekezdés c) pontja alapján a 71/D. § (2) bekezdésében foglaltak szerint dönt a felülvizsgálati eljárás elrendeléséről.
-
-(5) A (2) bekezdés d) és e) pontja alapján elrendelt felülvizsgálati eljárásról az ellenőrzött személyt kizárólag a felülvizsgálati eljárás befejezését követően kell tájékoztatni.
-
-(6) A felülvizsgálati eljárást az elrendeléstől számított 60 napon belül kell lefolytatni, amely határidő egy esetben 30 nappal meghosszabbítható. A felülvizsgálati eljárásra a 71/B. § (2)–(4) bekezdésben foglaltakat megfelelően alkalmazni kell.
-
-(7) A felülvizsgálati eljárás alapján a nemzetbiztonsági szolgálat biztonsági szakvéleményt állít ki, amelyet megküld a kezdeményezőnek. A kezdeményező a 71/C. § (6) bekezdésében foglaltak szerint tájékoztatja a nemzetbiztonsági ellenőrzés alá eső személyt.
-
-(8) Az (1) bekezdés a) és c) pontja szerinti esetben, ha a nemzetbiztonsági szolgálat a felülvizsgálati eljárás során nemzetbiztonsági kockázatot állapít meg, a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyt haladéktalanul meg kell szüntetni, kivéve, ha a 71. § (2) vagy (3) bekezdésében meghatározott személy, szerv vagy testület a jogviszony létrehozását vagy fenntartását jóváhagyta. A nemzetbiztonsági ellenőrzés alá eső jogviszony megszüntetése érdekében a munkáltatói jogkört gyakorló mérlegelése alapján az érintett személy
-
-- a) más, nemzetbiztonsági ellenőrzés alá nem eső munkakörbe, beosztásba helyezése vagy
-- b) foglalkoztatási jogviszonyának megszüntetése
-
-iránt intézkedik.
-
-(8a) Az (1) bekezdés b) pontja szerinti esetben, ha a nemzetbiztonsági szolgálat a felülvizsgálati eljárás során nemzetbiztonsági kockázatot állapít meg, a nemzetbiztonsági ellenőrzés alá vont személy vonatkozásában a jelölés szerinti nemzetbiztonsági ellenőrzés alá eső jogviszony nem hozható létre, kivéve, ha a 71. § (2) vagy (3) bekezdésében meghatározott személy, szerv vagy testület a jogviszony létrehozását jóváhagyta.
-
-(9) A felülvizsgálati eljárás eredményeként kiadott kockázatmentes biztonsági szakvélemény a kiállítástól számított 5 évig érvényes.
-
-(10) A felülvizsgálati eljárás nem folytatható le a 71/A. § (5) bekezdésben foglaltak szerint kezdeményezett nemzetbiztonsági ellenőrzés időtartam alatt.
-
-### Az alapvető jogok biztosának a felülvizsgálati eljárással kapcsolatos jogköre
-
-72/C. § (1) A felülvizsgálati eljárás alá vont személy a felülvizsgálati eljárásról történő tudomásszerzést követő hat hónapon belül kérheti az alapvető jogok biztosától a felülvizsgálati eljárás elrendelése és lefolytatása vizsgálatát az alapvető jogokkal összefüggő visszásság megállapítása érdekében.
-
-(2) Az alapvető jogok biztosa az (1) bekezdés szerinti beadvány alapján vizsgálatot folytathat a felülvizsgálati eljárás elrendelésével és lefolytatásával összefüggésben.
-
-(3) Az alapvető jogok biztosa hivatalból vizsgálhatja a nemzetbiztonsági szolgálatok felülvizsgálati eljárásra vonatkozó gyakorlatát az alapvető jogokkal összefüggő visszásság megállapítása érdekében a felülvizsgálati eljárás elrendelése és lefolytatása tekintetében.
-
-(4) A felülvizsgálati eljárás irataiba az alapvető jogok biztosa törvényben foglaltak szerint betekinthet.
-
-(5) Az alapvető jogok biztosának vizsgálati jogköre nem terjed ki a nemzetbiztonsági kockázatok megállapításának szakszerűségére.
-
-(6) Ha az alapvető jogok biztosa a felülvizsgálati eljárás elrendelése, lefolytatása körében az alapvető jogokkal összefüggő visszásságot állapít meg, tájékoztatja a nemzetbiztonsági szolgálatot irányító minisztert, egyben ajánlást fogalmaz meg a szükséges intézkedések megtételére. Ha a jogsértés a kezdeményező feladatkörében történt, felkéri a kezdeményezőt a szükséges intézkedések megtételére.
-
-(7) Ha az alapvető jogok biztosa az irányító miniszter intézkedését nem tartja megfelelőnek, erről a Bizottságot tájékoztatja.
-
-### Jogorvoslat a nemzetbiztonsági ellenőrzés során
-
-72/D. § (1) A nemzetbiztonsági ellenőrzés alá eső személy
-
-- a) a biztonsági szakvéleményben szereplő, általa valótlannak tartott megállapításokkal,
-- b) a biztonsági szakvéleményben megállapított kockázati tényezővel, valamint
-- c) az általa kezdeményezett felülvizsgálati eljárás elrendelésének elutasításáról szóló döntéssel szemben – a kézhezvételétől számított 15 napon belül – panasszal élhet a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat főigazgatója útján a miniszternél.
-
-(2) Az előterjesztett panasznak a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony a 71. § (4) vagy (4a) bekezdése, a 71/C. § (9) bekezdése, illetve a 72/B. § (8) vagy (8a) bekezdése alapján történő megszüntetésére nincs halasztó hatálya.
-
-(3) Ha a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat főigazgatója az (1) bekezdésben meghatározott panaszban foglaltakkal egyetért,
-
-- a) a biztonsági szakvéleményt visszavonja és új biztonsági szakvéleményt bocsát ki,
-- b) az (1) bekezdés c) pontjában foglaltak esetén az elrendeli a felülvizsgálati eljárás lefolytatását.
-
-(4) Ha a panaszban foglaltakkal a főigazgató nem ért egyet, azt a benyújtástól számított 8 napon belül, állásfoglalásával együtt felterjeszti a miniszternek, egyben döntéséről tájékoztatja a nemzetbiztonsági ellenőrzés kezdeményezésére jogosultat.
-
-(5) A kezdeményezésre jogosult haladéktalanul tájékoztatja a nemzetbiztonsági ellenőrzés alá eső személyt a főigazgató döntéséről. A tájékoztatás megtörténtét jegyzőkönyvben vagy más hitelt érdemlő módon rögzíteni kell. A döntést tartalmazó okiratban a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat által megjelölt minősített adatokról a nemzetbiztonsági ellenőrzés alá eső személy nem tájékoztatható.
-
-(6) A miniszter a panaszt a beérkezésétől számított 30 nap alatt kivizsgálja, ez a határidő egy alkalommal 30 nappal meghosszabbítható.
-
-(7) A miniszter
-
-- a) az alaptalan panaszt elutasítja vagy
-- b) a panasznak helyt ad és
-  - ba) a nemzetbiztonsági kockázat megállapítására vonatkozó döntést hatályon kívül helyezi és a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot új eljárásra kötelezi,
-  - bb) megállapítja a nemzetbiztonsági kockázat hiányát, vagy
-  - bc) a nemzetbiztonsági ellenőrzés alá eső személy által kezdeményezett és elutasított felülvizsgálati eljárás lefolytatására utasítja a nemzetbiztonsági szolgálat főigazgatóját.
-
-(8) A miniszter a (7) bekezdés szerinti döntéséről írásban tájékoztatja a panaszost és a nemzetbiztonsági ellenőrzésre jogosult nemzetbiztonsági szolgálat főigazgatóját, valamint a nemzetbiztonsági szolgálat főigazgatója útján a kezdeményezésére jogosultat.
-
-(9) A nemzetbiztonsági ellenőrzés alá eső személy a miniszter döntésével szemben, annak kézhezvételétől számított 15 napon belül panasszal élhet a Bizottságnál.
-
-(10) Ha a Bizottság a panaszt elutasítja és a nemzetbiztonsági ellenőrzés alá eső személy jogviszonyát a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján a 71. § (4) vagy (4a) bekezdése, a 71/C. § (9) bekezdése vagy a 72/B. § (8) vagy (8a) bekezdése alapján szüntették meg, a nemzetbiztonsági ellenőrzés alá eső személy a Bizottság döntésének kézhezvételétől számított 15 napon belül támadhatja meg a miniszter döntését. A közigazgatási pert a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény ellen benyújtott panaszt elbíráló miniszter ellen kell megindítani. A perre a Fővárosi Törvényszék kizárólagosan illetékes.
-
-(11) A (10) bekezdés szerinti közigazgatási per megindításának joga azt a hivatásos szolgálati viszonyban állót is megilleti, akit a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján beosztás alóli felmentésével egyidejűleg rendelkezési állományba helyeztek.
-
-(12) Az e § szerinti közigazgatási perben csak zárt tárgyalás tartható, és csak olyan bíró járhat el, akinek az e törvény szerinti nemzetbiztonsági ellenőrzését elvégezték.
-
-(13) A (10) bekezdés szerinti eljárásban a bíróság a nemzetbiztonsági kockázat megállapítására vonatkozó döntés megváltoztatására nem jogosult.
-
-(14)
+(5) Az ellenőrzéshez kitöltött kérdőív, valamint az ellenőrzés során a szolgálatok által beszerzett adatok államtitoknak minősülnek.
 
 ### Záró rendelkezések
 
-73. § Ha a nemzetbiztonsági szolgálatoknál létszámleépítésre kerül sor, nem alkalmazhatók a munka törvénykönyvéről szóló törvénynek a csoportos létszámcsökkentésre, valamint az állami foglalkoztatási szerv tájékoztatására vonatkozó szabályai.
+73. § Ha a nemzetbiztonsági szolgálatoknál létszámleépítésre kerül sor, nem alkalmazhatók a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény IV. Fejezete 23. §-ának (2) bekezdése, valamint az állami foglalkoztatási szerv tájékoztatására vonatkozó szabályai.
 
 ### Értelmező rendelkezések
 
 74. § E törvény alkalmazásában
 
-- a) nemzetbiztonsági érdek: Magyarország függetlenségének biztosítása és törvényes rendjének védelme, ennek keretén belül
-  - aa) az ország függetlensége és területi épsége elleni támadó szándékú törekvések felderítése,
-  - ab) az ország politikai, gazdasági, honvédelmi érdekeit sértő vagy veszélyeztető leplezett törekvések felfedése és elhárítása,
-  - ac) a kormányzati döntésekhez szükséges, külföldre vonatkozó, illetve külföldi eredetű információk megszerzése,
-  - ad) az ország az alapvető emberi jogok gyakorlását biztosító törvényes rendjének, a többpárti rendszeren alapuló képviseleti demokráciának és a törvényes intézmények működésének jogellenes eszközökkel történő megváltoztatására vagy megzavarására irányuló leplezett törekvések felderítése és elhárítása, valamint
-  - ae) a terrorcselekmények, az illegális fegyver- és kábítószer-kereskedelem, valamint a nemzetközileg ellenőrzött termékek és technológiák illegális forgalmának felderítése és megakadályozása;
-- b) állami szerv: a minisztériumok, a kormányzati igazgatási szervek, az ügyészség, a Magyar Honvédség, valamint a rendvédelmi szervek;
-- c) információs rendszer: az adatok automatikus feldolgozását, kezelését, tárolását, továbbítását biztosító berendezés, vagy az egymással kapcsolatban lévő ilyen berendezések összessége;
-- d) katonai egységes felderítő rendszer: az ország fegyveres védelmének és a szövetségi szintű védelem tervezéséhez és felülvizsgálatához, valamint a Magyar Honvédség műveleteinek tervezéséhez, irányításához és vezetéséhez szükséges döntések meghozatalának felderítő támogatását biztosító rendszer;
-- e) hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbe fogadott, a mostoha- és nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő, a testvér, az élettárs, az egyeneságbeli rokon házastársa, a jegyes, a házastárs egyeneságbeli rokona és testvére, valamint a testvér házastársa;
-- f) cégellenőrzés: az illetékes nemzetbiztonsági szolgálat által végzett ellenőrzés, amelynek célja annak megállapítása, hogy a gazdálkodó szervezet minősített adat felhasználásával járó közreműködése jelent-e nemzetbiztonsági kockázatot;
-- g) foglalkoztatási jogviszony: az igazságügyi szolgálati jogviszony, az ügyészségi szolgálati jogviszony, a hivatásos szolgálati viszony, a hivatásos és szerződéses állományú katonák szolgálati viszonya, a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, az adó- és vámhatósági szolgálati jogviszony, a közalkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a nemzetbiztonsági alkalmazotti és a honvédelmi alkalmazotti jogviszony, a munkajogviszony és a munkavégzésre irányuló egyéb jogviszony;
-- h)
-- i) nemzetbiztonsági ellenőrzés alá eső személy:
-  - ia) a külképviselet-vezető;
-  - ib) a miniszter, a miniszterelnök politikai igazgatója, az államtitkár, a kormánybiztos, a miniszterelnöki biztos és a miniszterelnöki megbízott;
-  - ic) a közigazgatási államtitkár, a helyettes államtitkár, a miniszteri biztos;
-  - id) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a központi hivatal, a kormányzati főhivatal, valamint a fővárosi és vármegyei kormányhivatal vezetője és vezetőhelyettese;
-  - ie) az Országgyűlés Hivatalának főigazgatója, az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában meghatározott hivatali szerveinek, illetve azok önálló szervezeti egységeinek vezetői és helyetteseik;
-  - if) a Sándor-palota hivatali szervezetének vezetője;
-  - ig) a Honvéd Vezérkar főnöke és helyettese;
-  - ih) a rendvédelmi szerv országos parancsnoka és helyettese, a Katonai Nemzetbiztonsági Szolgálat főigazgatója és főigazgató-helyettese, a rendőrfőkapitány, a rendőrkapitány és a határrendészeti kirendeltség vezetője;
-  - ii) a tábornok és a tábornoki rendfokozattal rendszeresített beosztásba kinevezett;
-  - ij) az állami vagy többségi állami tulajdonban lévő gazdálkodó szervezet vezető tisztségviselője, vezető állású munkavállalója, felügyelő bizottságának tagja;
-  - ik) a nemzetbiztonsági szolgálat, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, valamint a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv személyi állománya;
-  - il) az Országgyűlés nemzetbiztonsággal foglalkozó állandó bizottságába és a honvédelemmel foglalkozó állandó bizottságába, illetve – amennyiben feladata ellátásához „bizalmas” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia – az Országgyűlés által létrehozott vizsgálóbizottságba, illetve eseti bizottságba jelölt személy, illetve tag;
-  - im) az Országgyűlés nemzetbiztonsággal foglalkozó állandó bizottsága, a honvédelemmel foglalkozó állandó bizottsága, valamint – amennyiben feladata ellátásához „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia – az Országgyűlés által létrehozott vizsgálóbizottság, illetve eseti bizottság eljárásában közreműködő szakértő;
-  - in) aki a minősített adat védelméről szóló törvényben meghatározott minősített adatot kezelő szervvel foglalkoztatási jogviszonyban vagy a Polgári Törvénykönyv rendelkezésein alapuló szerződéses jogviszonyban áll és e jogviszonyával összefüggésben fokozottan ki van téve jogellenes befolyásolási szándéknak, leplezett támadásnak vagy fenyegetésnek;
-  - io) aki foglalkoztatási jogviszony vagy a Polgári Törvénykönyv rendelkezésein alapuló szerződéses jogviszony alapján a minősített adat védelméről szóló törvény szerinti „Bizalmas!”, „Titkos!” vagy „Szigorúan titkos” minősítésű adat megismerésére vagy felhasználására jogosult;
-  - ip) a minősített adat védelméről szóló törvényben meghatározott, a minősített adatot kezelő szervvel közreműködő természetes személy, akinek feladata ellátásához „Bizalmas!”, „Titkos!” vagy „Szigorúan titkos!” minősítési szintű minősített adatot szükséges felhasználnia;
-  - ir) az e törvény szerinti titkos információgyűjtést engedélyező bíró;
-  - is) az 55. §-ban meghatározott kijelölt ügyész;
-  - it) azon alapítvány, közalapítvány vezető tisztségviselője, vezető állású munkavállalója, felügyelőbizottságának tagja, amely felett az alapítói jogokat a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv gyakorolja;
-  - iu) az Országgyűlési Őrség személyi állománya;
-  - iv) a Nemzeti Emlékezet Bizottsága tagja;
-  - iw) a kritikus szervezetek ellenálló képességéről szóló törvény szerinti kritikus szervezetekkel, kritikus infrastruktúrákkal, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti, az ország védelme és biztonsága szempontjából jelentős szervezetekkel, az ország védelme és biztonsága szempontjából jelentős infrastruktúrákkal kapcsolatos közigazgatási hatósági eljárásban a hatóságok és az ágazati szakhatóságok részéről eljáró személy;
-  - ix) a Szabályozott Tevékenységek Felügyeleti Hatósága foglalkoztatottja.
-  - iy) az Országos Atomenergia Hivatal foglalkoztatottja;
-- j) elemző-értékelő tevékenység: a nemzetbiztonsági szolgálat birtokába került adatnak a nemzetbiztonság, illetve Magyarország szuverenitásának védelme, bűncselekmény elkövetésének megelőzése, felderítése, megszakítása, az elkövető kilétének megállapítása, elfogása, körözött személy felkutatása, tartózkodási helyének megállapítása, bizonyítékok megszerzése céljából történő feldolgozása, a feldolgozott adatból következtetések levonása;
-- k) együttműködő szervek: a 30/A. §-ban meghatározott szervek;
-- l) légiutas-adat: a légiközlekedésről szóló törvényben meghatározott, az utastól vagy megbízottjától, illetve a személyszállítást végző légifuvarozó megbízásából jegyértékesítést végző szolgáltatótól származó adat;
-- m) utasadat szolgáltatója: az l) pontban meghatározott adatot a terrorizmus és a szervezett bűnözés megelőzésének, megszakításának, felderítésének elősegítése céljából törvény szerint átadó személyszállítást végző légifuvarozó;
-- n) közvetlen elektronikus adatkapcsolat: a Nemzeti Információs Központ által meghatározott műszaki követelményeknek megfelelő számítástechnikai alkalmazás, amely az együttműködő szerv által kiépített felületen keresztül a Nemzeti Információs Központ és az együttműködő szerv közötti dokumentált adatátadást tesz lehetővé;
-- o) jelzés: a nemzetbiztonsági szolgálatok által a feladataik végrehajtásához kapcsolódóan az adatkezelési rendszerekben kezelt adatra vonatkozóan elrendelt értesítési meghagyás, amely biztosítja a jelzéssel ellátott adatot érintő eseményről – így különösen az adatváltozásról, az adatot érintő intézkedésről, az adatra vonatkozó megkeresésről – az elrendelő nemzetbiztonsági szolgálat tudomásszerzését;
-- p) a légiutas-adat személyazonosításra alkalmatlanná tétele: az érintett utasok közvetlen beazonosítását lehetővé tevő adatelemek láthatatlanná tétele az adatelemek elrejtésével a felhasználók számára;
-- q) a légiutas-adat újbóli személyazonosításra alkalmassá tétele: az érintett utasok közvetlen beazonosítását lehetővé tevő adatelemek elrejtésével személyazonosításra alkalmatlanná tett légiutas-adatok újbóli személyazonosításra alkalmassá tétele az elrejtett adatelemek láthatóvá tétele által.
-- r) Európai Határregisztrációs Rendszer: az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdése szerinti határregisztrációs rendszer;
-- t) honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerinti szervezet.
+- a) nemzetbiztonsági érdek: a Magyar Köztársaság szuverenitásának biztosítása és alkotmányos rendjének védelme, ennek keretén belül – az ország függetlensége és területi épsége elleni támadó szándékú törekvések felderítése, – az ország politikai, gazdasági, honvédelmi érdekeit sértő vagy veszélyeztető leplezett törekvések felfedése és elhárítása, – a kormányzati döntésekhez szükséges, a külföldre vonatkozó, illetőleg külföldi eredetű információk megszerzése, – az ország az alapvető emberi jogok gyakorlását biztosító alkotmányos rendjének, a többpárti rendszeren alapuló képviseleti demokráciának és az alkotmányos intézmények működésének törvénytelen eszközökkel történő megváltoztatására vagy megzavarására irányuló leplezett törekvések felderítése és elhárítása, – a terrorcselekmények, az illegális fegyver- és kábítószer-kereskedelem, valamint a nemzetközileg ellenőrzött termékek és technológiák illegális forgalmának felderítése és megakadályozása;
+- b) állami szerv: a minisztériumok, a központi államigazgatási szervek, az ügyészség, a Magyar Honvédség, valamint a rendvédelmi szervek;
+- c) rendvédelmi szerv: a polgári nemzetbiztonsági szolgálatok, a rendőrség, a polgári védelem állami szervei, a hivatásos tűzoltóság, a vám- és pénzügyőrség, valamint a büntetésvégrehajtási szervezet;
+- d) lakás: a nyilvános vagy a közönség részére nyitva álló helyen kívüli minden egyéb helyiség vagy terület;
+- e) hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbe fogadott, a mostoha- és nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő, a testvér, az élettárs, az egyeneságbeli rokon házastársa, a jegyes, a házastárs egyeneságbeli rokona és testvére, valamint a testvér házastársa.
 
 75. § (1)
 
-(2)
+(2) Eltérő rendelkezés hiányában, ahol jogszabály rendvédelmi vagy rendészeti szerveket említ, azon a polgári nemzetbiztonsági szolgálatokat is érteni kell.
 
 (3) Ahol jogszabály a nemzetbiztonsági szolgálatok tekintetében felügyelő minisztert említ, azon a nemzetbiztonsági szolgálatokat irányító illetékes minisztert kell érteni.
 
@@ -1576,126 +751,80 @@ iránt intézkedik.
 
 (5) E törvény kihirdetését követő 90. napon lép hatályba az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 16. §-ának (2) bekezdése és 19. §-a (1) bekezdésének h) pontja.
 
-### Átmeneti rendelkezések
-
-76/A. § (1) Ha a nemzetbiztonsági ellenőrzés alá eső személyre vonatkozóan a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony létesítését megelőző öt éven belül „A”, „B” vagy „C” típusú ellenőrzés lefolytatása alapján kockázatmentes biztonsági szakvélemény került kibocsátásra, az egyes törvényeknek a nemzetbiztonsági ellenőrzés új szabályainak megállapítása érdekében szükséges módosításáról szóló 2013. évi LXXII. törvény (a továbbiakban: Módtv.) hatálybalépését követően a nemzetbiztonsági ellenőrzés kezdeményezése a kockázatmentes biztonsági szakvélemény érvényességi idejének lejártát megelőző 90. napig mellőzhető.
-
-(2) A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény, valamint egyes törvényeknek a nemzetbiztonsági ellenőrzéssel összefüggő módosításáról szóló 2014. évi CIX. törvény hatályba lépését megelőzően, az Nbtv. 76/A. § (1) bekezdésében és (2) bekezdés b) pontjában meghatározott, 2014. december 31-i határidőre tekintettel kezdeményezett nemzetbiztonsági ellenőrzést az Nbtv. 71/B. §-ban foglaltak szerint le kell folytatni, ha a nemzetbiztonsági ellenőrzés alá vont személy érvényes és kockázatmentes biztonsági szakvéleménye 2010. március 31-ig került kiállításra.
-
-(3) Ha a (2) bekezdés szerint kezdeményezett nemzetbiztonsági ellenőrzés által érintett személy érvényes és kockázatmentes biztonsági szakvéleménye 2010. március 31-ét követően került kiállításra, a nemzetbiztonsági szolgálat főigazgatója a kezdeményezés kézhezvételétől számított 8 napon belül írásban megkeresi a kezdeményezőt, hogy 15 napon belül nyilatkozzon; a kezdeményezési kötelezettség megszűnésére tekintettel is fenntartja-e kezdeményezési szándékát. Ha a kezdeményező kezdeményezésétől eláll vagy a határidő belül nem nyilatkozik, a nemzetbiztonsági ellenőrzés elrendelése mellőzhető.
-
-76/B. § E törvénynek a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvénynek és a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvénynek a nemzetbiztonsági tárgyú parlamenti ellenőrzés hatékonnyá tételéhez szükséges módosításáról szóló 2013. évi CCXXXIX. törvénnyel (a továbbiakban: Módtv2.) megállapított rendelkezéseit a Módtv2. hatálybalépésekor folyamatban lévő ténymegállapító vizsgálatokra is alkalmazni kell.
-
-76/C. § (1) E törvénynek a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény, valamint egyes törvényeknek a nemzetbiztonsági ellenőrzéssel összefüggő módosításáról szóló 2014. évi CIX. törvénnyel (a továbbiakban: Módtv3.) megállapított rendelkezéseit a Módtv3. hatálybalépését követően az Országgyűlés Külügyi bizottságába megválasztandó tagokra kell alkalmazni.
-
-(2) A Módtv3. hatálybalépésekor az Országgyűlés Külügyi bizottságában fennálló tagság esetén a nemzetbiztonsági ellenőrzést 2015. február 28-ig kezdeményezi az Országgyűlés elnöke.
-
-76/D. § Az együttműködő szerv köteles a közvetlen elektronikus adatkapcsolat együttműködő szerv adatkezelési rendszere elérését biztosító felületét 2016. december 31-ig kell kiépíteni.
-
-76/E. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a Szervezett Bűnözés Elleni Koordinációs Központ általános jogutódja.
-
-(2) A terrorizmus elleni fellépéssel összefüggő egyes törvények módosításáról szóló 2016. évi LXIX. törvény hatálybalépését megelőzően kiadott jogszabályban meghatározott feladatok és hatáskörök tekintetében a Terrorelhárítási Információs és Bűnügyi Elemző Központot kell a Szervezett Bűnözés Elleni Koordinációs Központ jogutódjának tekintetni.
-
-76/F. § (1) A Nemzeti Információs Központ a Terrorelhárítási Információs és Bűnügyi Elemző Központ általános jogutódja.
-
-(2) Az egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szóló 2022. évi II. törvényhez kapcsolódó módosításáról szóló 2022. évi IV. törvény hatálybalépését megelőzően kiadott jogszabályban meghatározott feladatok és hatáskörök tekintetében a Nemzeti Információs Központot kell a Terrorelhárítási Információs és Bűnügyi Elemző Központ jogutódjának tekinteni.
-
 ### Felhatalmazó rendelkezések
 
 77. § (1) Felhatalmazást kap a Kormány, hogy rendeletben megállapítsa:
 
-- a) a biztonsági kérdőív kitöltésével kapcsolatos eljárási szabályokat, azon adatok, tények és körülmények körét, amelyek a 2. számú mellékletben meghatározott biztonsági kérdőív szempontjából lényegesnek minősülnek és az ezen adatokban, tényekben vagy körülményekben bekövetkező változások bejelentésének részletes szabályait;
+- a) a rejtjeltevékenység szakirányításának és hatósági felügyeletének rendjét;
 - b) a biztonsági okmányok körét, a biztonsági okmányvédelemre jogosult szervezet feladat- és hatáskörét, a biztonsági okmányvédelem eljárási szabályait;
-- c) a titkos információgyűjtés, illetve a leplezett eszközök alkalmazása feltételeinek biztosítása érdekében a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervek és az elektronikus hírközlési szolgáltatási feladatokat ellátó szervezetek együttműködésének rendjét és szabályait;
-- d) a titkos információgyűjtés, illetve a leplezett eszközök alkalmazása feltételeinek biztosítása érdekében a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervek és az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben meghatározott alkalmazásszolgáltatók együttműködésének rendjét és szabályait.
-- e) a megbízhatósági vizsgálat, illetve a kifogástalan életvitel ellenőrzésének részletes szabályait,
-- f) az 5/C. § (3) bekezdése alapján a megbízhatósági vizsgálat alól mentesített szervet vagy foglalkoztatotti csoportot.
+- c) a titkos információgyűjtés feltételeinek biztosítása érdekében a titkos információgyűjtésre feljogosított szervezetek és a távközlési szolgáltatási feladatokat ellátó szervezetek együttműködésének rendjét és szabályait.
 
 (2) Felhatalmazást kap a Kormány, hogy határozatban megállapítsa:
 
-- a) a nemzetbiztonsági szolgálatok illetékességének, valamint egymással és más szervekkel történő együttműködésének e törvénnyel nem érintett szabályait;
+- a) a nemzetbiztonsági szolgálatok illetékességének, valamint egymással és más szervekkel történő együttműködésének szabályait;
 - b) a nemzetbiztonsági szolgálatok tevékenységének fő irányait;
 - c) a nemzetbiztonsági szolgálatok és egyéb állami szerv tájékoztató tevékenységének rendjét, valamint a nemzetbiztonsági információk értékelésének, hasznosításának szervezeti kereteit és részletes szabályait;
 - d) a nemzetbiztonsági védelem alá eső szervek és létesítmények körét.
 
-(3)
+(3) A Kormány a törvény hatálybalépését követő hat hónapon belül biztosítsa a katonai nemzetbiztonsági szolgálatok és szervezeteik e törvény 2. §-ának (1) bekezdése szerinti működését.
 
 78. § (1) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa:
 
-- a) a nemzetbiztonsági szolgálatok lakásgazdálkodásának rendjét;
+- a) a nemzetbiztonsági szolgálatok lakásgazdálkodása, valamint a lakáscélú munkáltatói támogatás rendjét;
 - b) a szolgálati fegyver rendszeresítésének, viselésének rendjét és használatának részletes szabályait;
 - c) a nemzetbiztonsági szolgálatok létesítményeibe való belépés rendjét;
-- d)
-- e) a vegyi eszköz és az elektromos sokkoló eszköz viselésével, használatával és tárolásával kapcsolatos részletes szabályokat.
-
-(1a) Felhatalmazást kapnak a miniszterek, hogy az irányításuk vagy felügyeletük alá tartozó szervek esetében, ha a nemzetbiztonsági ellenőrzés lefolytatása
-
-- a) az Alkotmányvédelmi Hivatal vagy a Nemzetbiztonsági Szakszolgálat hatáskörébe tartozik, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter,
-- b) az Információs Hivatal hatáskörébe tartozik, a polgári hírszerzési tevékenység irányításáért felelős miniszter,
-- c) a Katonai Nemzetbiztonsági Szolgálat hatáskörébe tartozik, a honvédelemért felelős miniszter egyetértésével kiadott rendeletben állapítsák meg a nemzetbiztonsági ellenőrzés alá eső munkaköröket.
-
-(1b) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy rendeletben szabályozza
-
-- a) az utasadat-információs egység és az utasadat szolgáltatója közötti kapcsolattartás, valamint adatátadás módját, valamint
-- b) az utasadat-információs egység által az Európai Bizottság részére történő adatszolgáltatás részletes szabályait és a statisztikai adatok körét.
+- d) a miniszteri elismerések adományozásának rendjét;
 
 (2) Felhatalmazást kap a miniszter, hogy utasításban megállapítsa:
 
-- a)
+- a) a szolgálatra való alkalmasság különleges feltételeit, az alkalmassági feltételek ellenőrzésének szabályait;
 - b) a nemzetbiztonsági szolgálatok fedőintézmények létrehozásával, fenntartásával kapcsolatos eljárásának általános szabályait;
 - c) mindazokat az eljárásokat, amelyeket a költségvetés alapján gazdálkodó szervek beszámolási és könyvvezetési kötelezettségéről szóló jogszabály saját hatáskörű szabályozásként ír elő;
 - d) a nemzetbiztonsági szolgálatok védelemre jogosult vezetőinek körét, a védelmi intézkedések részletes szabályait.
 
-(3) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg azokat a honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságokat, amelyeknél a 6. § a)–r) pont szerinti feladatokat a Katonai Nemzetbiztonsági Szolgálat látja el.
+(3) Felhatalmazást kap az illetékes miniszter, hogy – a miniszterrel egyetértésben – rendeletben megállapítsa azon munkaköröket, amelyek – a 2. számú melléklet 18. pontja alapján – fontos és bizalmas munkakörnek minősülnek, illetve e munkakörök tekintetében meghatározza a biztonsági ellenőrzések szintjét.
 
-#### 79. §
+### Hatályukat vesztő rendelkezések
 
-### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
+79. § E törvény hatálybalépésével egyidejűleg hatályát veszti:
 
-79/A. § E törvény
+- a)
+- b) a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény 26. §-a (3) bekezdésének utolsó mondata:
+- c)–f)
+- g) a honvédelemről szóló 1993. évi CX. törvény 11. §-ának g) pontja és a 77. §-a.
+- h)–j)
 
-- a) 1–19/B. §-a,
-- b) 26–37. §-a,
-- c) 53–72/D. §-a,
-- d) 74. §-a, valamint
-- e) 76/A–78. §-a,
-- f) 1. számú melléklete és 2. számú melléklete az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
+80. §
 
-### Az Európai Unió jogának való megfelelés
+81. §
 
-80. § E törvény a következő uniós jogi aktusok végrehajtását szolgálja:
+82–84. §
 
-- a) az utas-nyilvántartási adatállománynak (PNR) a terrorista bűncselekmények és súlyos bűncselekmények megelőzése, felderítése és a vádeljárás lefolytatása érdekébe történő felhasználásáról szóló 2016. április 27-i 2016/681/EU Európai Parlament és a Tanács irányelv.
-- b) a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet;
-- c) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–5. és 16. cikke [11/A. §, 45. §].
-
-80/A. § A 74. § i) pont iw) alpontja a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-81. § E törvény 40. és 41. §-ának a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535/EU európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
-
-82. § E törvény a tagállamok külső határait átlépő harmadik országbeli állampolgárok belépésére és kilépésére, valamint beléptetésének megtagadására vonatkozó adatok rögzítésére szolgáló határregisztrációs rendszer (EES) létrehozásáról és az EES-hez való bűnüldözési célú hozzáférés feltételeinek meghatározásáról, valamint a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 767/2008/EK rendelet és az 1077/2011/EU rendelet módosításáról szóló, 2017. november 30-i (EU) 2017/2226 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-#### 83. §
-
-#### 84. §
-
-#### 85. §
+85. §
 
 86. § A sztrájkról szóló 1989. évi VII. törvény 3. §-a (2) bekezdésének első mondata a következő szövegrésszel egészül ki:
 
 [3. § (2) Nincs helye sztrájknak]
 
-„,,és a polgári nemzetbiztonsági szolgálatoknál.''”
+,,és a polgári nemzetbiztonsági szolgálatoknál.''
 
-#### 87. §
+87. § Az Állami Számvevőszékről szóló 1989. évi XXXVIII. törvény 16. §-ának (2) bekezdése a következők szerint módosul:
 
-#### 88. §
+,,(2) Az Állami Számvevőszék a pártok gazdálkodását, a pártok parlamenti frakciói számára az Országgyűlés által – külön törvény alapján – folyósított hozzájárulás felhasználását és a Magyar Nemzeti Bank bankjegy- és éremkibocsátására, továbbá a nemzetbiztonsági szolgálatok speciális működési költségkeret felhasználására vonatkozó adatait törvényességi szempontok szerint ellenőrzi.''
 
-#### 89. §
+88. §
 
-#### 90. §
+89. §
 
-#### 91. §
+90. § (1) Az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 16. §-ának (2) bekezdése a következők szerint módosul:
+
+,,(2) Államtitok vagy nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő szolgálati titok esetén a nemzetbiztonsági szolgálatokról szóló törvényben foglaltak szerint meghatározott titokbirtokos személy köteles magát biztonsági ellenőrzésnek alávetni.''
+
+(2) Az országgyűlési képviselők jogállásáról szóló 1990. évi LV. törvény 9. §-ának (3) bekezdése a következő szövegrésszel egészül ki:
+
+,,Ez a jogosultság a Katonai Biztonsági Hivatal és a Katonai Felderítő Hivatal működése körében keletkezett államtitokkörre vonatkozóan a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 17. §-ának keretei között érvényesül.''
+
+91. §
 
 ### 1. számú melléklet az 1995. évi CXXV. törvényhez
 
@@ -1705,371 +834,696 @@ A védelem alá eső tisztségek:
 - 2. a miniszterelnök,
 - 3. az Országgyűlés elnöke, alelnökei,
 - 4. az Alkotmánybíróság elnöke és tagjai,
-- 5. a Kúria elnöke és elnökhelyettesei,
+- 5. a Legfelsőbb Bíróság elnöke és elnökhelyettesei,
 - 6. a miniszterek,
 - 7. a legfőbb ügyész és helyettesei,
 - 8. az Állami Számvevőszék elnöke és alelnökei,
-- 9. az alapvető jogok biztosa és helyettese,
+- 9. az országgyűlési biztos,
 - 10. az Országgyűlés Nemzetbiztonsági és Honvédelmi Bizottságának tagjai,
 - 11. a titkos információgyűjtést engedélyező bírók,
-- 12. a legfőbb ügyész által az 55. § alapján kijelölt ügyész,
-- 13. a Magyar Nemzeti Bank elnöke és alelnökei,
-- 14. a Gazdasági Versenyhivatal elnöke és elnökhelyettesei
-- 15. a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese
-- 16. a Honvéd Vezérkar főnöke,
-- 17. a nemzetbiztonsági szolgálatok felügyeletével, illetve tevékenységük összehangolásával kapcsolatos feladatokat ellátó politikai és szakmai felsővezetők,
-- 18. a miniszteri kabinetet vezető kabinetfőnökök.
+- 12. a legfőbb ügyész által az 54. § alapján kijelölt ügyész,
+- 13. a Magyar Nemzeti Bank elnöke és alelnökei.
 
 ### 2. számú melléklet az 1995. évi CXXV. törvényhez
 
-#### BIZTONSÁGI KÉRDŐÍV
+Fontos és bizalmas munkakört betöltő személyek:
 
-nemzetbiztonsági ellenőrzés alá eső személyek biztonsági ellenőrzéséhez
-
-| I. Általános személyi adatok |  |
-| --- | --- |
-| 1. | Családi és utóneve: |
-| 2. | Születési neve: |
-| 3. | Születési helye, év, hó, nap: |
-| 4. | Anyja neve: |
-| 5. | Személyi igazolvány száma: |
-| 6. | Elérhetőségei (telefonszáma, e-mail címe): |
-| II. Állampolgársági adatok |  |
-| 1. | Jelenlegi állampolgársága: |
-| 2. | Korábbi állampolgársága (állam, időpont megjelölése, okmány száma): |
-| 3. | Külföldi, illetve kettős állampolgárság esetén: |
-| 4. | itt-tartózkodásának kezdete: |
-| 5. | jogcíme, státusa: |
-| 6. | tartózkodási engedélyének száma, kelte, kiállító hatóság megnevezése: |
-| 7. | útlevelének száma: |
-| 8. | huzamos tartózkodási, bevándorlási kérelmével foglalkozó hatóság megnevezése: |
-| 9. | honosítási, állampolgársági kérelmének benyújtási ideje, eljáró hatóság megnevezése: |
-| III. Családi állapotára, hozzátartozóira vonatkozó adatok |  |
-| 1. | Családi állapota: nős, nőtlen, férjezett, hajadon, elvált, élettársi közösségben élő, özvegy (a megfelelő kifejezés aláhúzandó) |
-| 2. | Jelenlegi házastársának, élettársának |
-| 3. | családi és utóneve: |
-| 4. | születési neve: |
-| 5. | születési helye, év, hó, nap: |
-| 6. | anyja neve: |
-| 7. | állampolgársága (lásd: II. 1–3. pontok): |
-| 8. | foglalkozása, munkaköre: |
-| 9. | munkahelye neve, címe: |
-| 10. | Gyermekeinek személyi adatai: |
-| 11. | családi és utóneve: |
-| 12. | születési neve: |
-| 13. | születési helye, év, hó, nap: |
-| 14. | anyja neve: |
-| 15. | állampolgársága (lásd: II. 1–3. pontok): |
-| 16. | foglalkozása, munkaköre: |
-| 17. | munkahelye neve, címe |
-| 17a. | Szüleinek személyi adatai |
-| 17b. | családi és utónév: |
-| 17c. | születési név: |
-| 17d. | születési hely, év, hó, nap: |
-| 17e. | anyja neve: |
-| 17f. | állampolgárság (lásd: II. 1–3. pontok): |
-| 17g. | foglalkozás, munkakör: |
-| 17h. | munkahely neve, címe: |
-| 18. | Az előzőekben fel nem sorolt, Önnel közös háztartásban élő 18 év feletti személyek adatai: |
-| 19. | családi és utóneve: |
-| 20. | születési neve: |
-| 21. | születési helye, év, hó, nap: |
-| 22. | anyja neve: |
-| 23. | állampolgársága (lásd: II. 1–3. pontok): |
-| 24. | foglalkozása, munkaköre: |
-| 25. | munkahelye neve, címe: |
-| 26. | Önnek és házastársának/élettársának külföldön élő hozzátartozói: |
-| 27. | családi és utóneve: |
-| 27a. | születési neve: |
-| 27b. | anyja születési neve: |
-| 28. | születési helye, év, hó, nap: |
-| 29. | lakcíme: |
-| 30. | foglalkozása, munkahelye: |
-| 31. | állampolgársága: |
-| 32. | rokoni foka: |
-| IV. Lakcímének, tartózkodási helyének adatai |  |
-| 1. | Lakóhelye: |
-| 2. | Tartózkodási helye: |
-| 3. | Előző lakóhelyei és tartózkodási helyei, ahol 3 hónapot meghaladó ideig tartózkodott (15 évre visszamenőleg): |
-| 4. | Amennyiben 6 hónapot meghaladó ideig külföldön tartózkodott, tüntesse fel külföldi címeit és külföldi tartózkodásának okát (15 évre visszamenőleg): |
-| V. Iskolai végzettségére vonatkozó adatai |  |
-| 1. | Középiskolai tanulmányaitól kezdve sorolja fel azokat az oktatási intézményeket, melynek tanulója, hallgatója volt (oktatási intézmény neve, címe, a képzés időtartama, befejezésének időpontja; a végzettséget, képzettséget igazoló okiratok száma, kelte): |
-| 2. | Külföldön folytatott tanulmányok esetében az oktatási intézmény neve, címe, a képzés időtartama, befejezésének időpontja; a végzettséget, képzettséget igazoló okiratok száma, kelte: |
-| 3. | Tudományos fokozata (hol szerezte, mikor, milyen témakörben): |
-| 4. | Szakmai, tudományos publikációi (cím, megjelenési hely, idő, témakör): |
-| 5. | Idegen nyelv ismerete, szintje: |
-| VI. Foglalkozásával kapcsolatos adatok |  |
-| 1. | Jelenlegi foglalkozása, beosztása, munkáltató neve, címe: |
-| 2. | Korábbi foglalkozásai, beosztásai, munkakörei – időpont megjelölésével (15 évre visszamenőleg) – munkáltatóinak megnevezése, címe: |
-| VII. Katonai adatok |  |
-| 1. | Teljesített-e katonai szolgálatot (mikor, hol, speciális katonai képzettsége): |
-| VIII. Az Ön, házas- illetve élettársa jövedelmi viszonyaival, anyagi helyzetével összefüggő adatok |  |
-| 1. | Főfoglalkozásából származó éves bruttó összjövedelme: |
-| 2. | Főfoglalkozásán kívüli éves bruttó 500 000 Ft-ot meghaladó jövedelmének forrásai: |
-| 3. | Adóhatósággal, társadalombiztosítással, pénzintézetekkel szemben fennálló tartozásai, pénzügyi kötelezettségei 5 évre visszamenőleg: |
-| 4. | Rendelkeznek-e érdekeltséggel hazai cégbíróságon bejegyzett gazdálkodó szervezetben: |
-| 5. | a gazdálkodó szervezet megnevezése, címe, tevékenységi köre: |
-| 6. | Érdekeltség jellege (tulajdonos, résztulajdonos, vezető testület tagja, felügyelő bizottsági tag stb.) |
-| 7. | Van-e hivatalos kapcsolatuk külföldön bejegyzett gazdálkodó szervezettel, az együttműködés/kapcsolat jellege: |
-| 8. | a gazdálkodó szervezet megnevezése, címe: |
-| 9. | tevékenységi köre: |
-| 10. | cégbejegyzés helye. |
-| 11. | Az elmúlt 15 év során folyt-e személyük vagy vállalkozásaikkal szemben végrehajtási eljárás? („igen” válasz esetén részletezze, mikor, miért, elrendelő bíróság, hatóság megnevezése): |
-| IX. Önnek, valamint az Önnel közös háztartásban élő hozzátartozója: |  |
-| 1. | Tulajdonában álló ingatlanok |
-| 2. | címe és helyrajzi száma: |
-| 3. | alapterülete: |
-| 4. | tulajdoni hányad: |
-| 5. | a szerzés ideje és jogcíme: |
-| 6. | Tulajdonában álló, egymillió Ft értéket meghaladó ingóságok |
-| 7. | gépjárművek (típus, rendszám): |
-| 8. | védett műalkotás, védett gyűjtemény (alkotó, cím, nyilvántartási szám): |
-| 9. | egyéb ingóság (megnevezés, a szerzés ideje és jogcíme): |
-| 9a. | Készpénzben tartott megtakarításának összege: |
-| 10. | A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. §-ának 34. pontja szerinti értékpapírban elhelyezett megtakarításának |
-| 11. | megnevezése: |
-| 12. | sorozatszáma: |
-| 13. | összege: |
-| 14. | A Ptk. szerinti betét- vagy takarékbetét-szerződés alapján fennálló követelése |
-| 15. | a hitelintézet neve: |
-| 16. | számlaszáma vagy a betétkönyv száma: |
-| 17. | összege: |
-| 18. | Belföldi vagy külföldön bejegyzett pénzintézettel szemben fennálló tartozásai |
-| 19. | a pénzintézet neve: |
-| 20. | számlaszáma: |
-| 21. | összege. |
-| 21a. | Külföldön bejegyzett pénzintézettel szemben fennálló követelése |
-| 21b. | a pénzintézet neve: |
-| 21c. | számlaszáma: |
-| 21d. | összege: |
-| 21e. | Lakástakarékpénztárnál fennálló megtakarításai |
-| 21f. | a takarékpénztár neve: |
-| 21g. | a megtakarítás összege: |
-| 21h. | Nyugdíjcélú megtakarításai (nyugdíjbiztosítás, nyugdíj-előtakarékossági számla, önkéntes nyugdíjpénztár): |
-| 21i. | a pénzintézet vagy biztosító neve: |
-| 21j. | számlaszáma (ha van): |
-| 21k. | összege: |
-| 22. | Külföldről származó jövedelme |
-| 23. | jövedelem forrása: |
-| 24. | jövedelem nagysága: |
-| 25. | jövedelem jogcíme: |
-| 26. | jövedelemszerzés ideje: |
-| X. Büntető- és szabálysértési eljárások adatai |  |
-| 1. | Indult-e Ön vagy házastársa (élettársa) ellen a nyilatkozat keltétől számított 15 éven belül olyan büntetőeljárás, amely büntetéssel fejeződött be („igen” válasz esetén részletezze, hogy mikor, miért, az eljáró bíróság megnevezésével, a büntetés mértékének és a mentesülés időpontjának feltüntetésével): |
-| 2. | Indult-e Ön vagy házastársa (élettársa) ellen a nyilatkozat keltétől számított 5 éven belül olyan szabálysértési vagy fegyelmi eljárás, amely büntetéssel fejeződött be („igen” válasz esetén – a közlekedési szabálysértések kivételével – részletezze mikor, miért, az eljáró hatóság megnevezésével, a büntetés mértékének feltüntetésével): |
-| 3. | Jelenleg Önnek vagy házastársának (élettársának) van-e függőben lévő büntető-, szabálysértési, fegyelmi, illetve kártérítési ügye („igen” válasz esetén – a közlekedési szabálysértések kivételével – részletezze, miért, eljáró bíróság, hatóság): |
-| XI. Speciális adatok |  |
-| 1. | Hazai vagy külföldi munkavállalásakor dolgozott-e olyan munkakörben, melynek betöltése előtt biztonsági kérdőívet vagy biztonsági nyilatkozatot kellett kitöltenie („igen” válasz esetén jelölje meg a munkahelyet, beosztásának megnevezését, időpontját): |
-| 2. | Pályafutása során észlelt-e olyan körülményt, amely külföldi hírszerző szolgálat jelenlétére enged következtetni (kapcsolatépítési, beszervezési, kompromittálási kísérlet), ha igen kérjük fejtse ki részletesen: |
-| 3. | Önnel vagy közeli hozzátartozójával szemben, az elmúlt 5 évben, külföldi hatóság alkalmazott-e idegenrendészeti kiutasításra, beutazási vagy tartózkodási tilalomra irányuló intézkedést, illetve jelenleg áll-e ilyen intézkedés hatálya alatt? („igen” válasz esetén jelölje meg az intézkedést, az elrendelő hatóságot és az intézkedés időpontját!) |
-| XII. Ön, illetve házas- vagy élettársa: |  |
-| 1. | Milyen nagyságrendű magánjellegű kapcsolatot tartanak fenn külföldi állampolgárokkal? Nevezze meg a legfontosabb kapcsolataikat, maximum 15 főt: |
-| 2. | családi és utóneve: |
-| 3. | születési helye, év, hó, nap: |
-| 4. | lakcíme: |
-| 5. | foglalkozása, munkahelye: |
-| 6. | állampolgársága: |
-| 7. | kapcsolat jellege, rövid jellemzése: |
-| 8. | Tart vagy tartott-e kapcsolatot olyan személlyel, aki tudomása szerint külföldi hírszerző szolgálat vagy annak fedőszerve munkatársa vagy az volt? (Ha igen, akkor fejtse ki részletesen.) |
-| 9. | Fogyaszt-e alkoholt, ha igen milyen mértékben: |
-| 10. | szenvedett-e alkoholfüggőségben: |
-| 11. | volt-e alkoholelvonó kúrán: |
-| 12. | Alkalmilag vagy rendszeresen fogyasztott-e, forgalmazott-e, előállított-e kábítószert vagy kábító, bódító hatású drogokat, gyógyszereket, mikor, milyen mértékben, milyen fajtát: |
-| 13. | Van-e házasságon vagy élettársi közösségen kívüli partnerkapcsolata (homoszexuális is): |
-| 13a. | a partner családi és utóneve: |
-| 13b. | a partner születési neve: |
-| 13c. | a partner születési helye, éve, hónapja, napja: |
-| 13d. | a partner anyja neve: |
-| 14. | Áll, illetőleg állt-e kapcsolatban a demokratikus jogállam törvényes alapelveit tagadó vagy ilyen jellegű tevékenységet kifejtő (fasiszta, nyilas, kommunista, anarchista vagy egyéb szélsőséges) szervezettel, mozgalommal, csoporttal stb. (ha igen, akkor fejtse ki részletesen): |
-| 15. | A fentieken kívül ismert-e Ön előtt olyan körülmény (kockázati tényező), melynek jelzését a biztonsági ellenőrzés szempontjából szükségesnek tartja (pl. kompromittálásra, zsarolásra alapot adó információk): |
-| 16. | Megnevezhet referenciaszemélyeket (legfeljebb 3 főt), akik Önről tárgyilagos véleményt tudnak adni és akikkel sem rokoni, sem függőségi viszonyban nem áll: |
-| 17. | név, cím, telefon: |
-| 18. | mióta ismerik egymást: |
-
-#### XIII. BIZTONSÁGI NYILATKOZAT
-
-Kijelentem, hogy az általam közölt adatok a valóságnak megfelelnek.
-
-Hozzájárulok ahhoz, hogy a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat a nemzetbiztonsági ellenőrzés keretében személyemet érintően adatot gyűjtsön és a biztonsági feltételek meglétét a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony létesítését megelőzően, valamint felülvizsgálati eljárás keretében a jogviszony fennállásának tartama alatt ellenőrizze. Tudomásul veszem, hogy amennyiben az adat más módon nem szerezhető be, a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat személyemet érintően titkos információgyűjtést is folytathat.
-
-A kérdőívet annak tudatában töltöttem ki, hogy a kérdésekre adott válaszokkal magamat vagy hozzátartozómat nem vagyok köteles bűncselekmény vagy szabálysértés elkövetésével vádolni.
-
-Kelt, ......................., 201......
-
-aláírás, cím
-
-#### XIV. Házastárs, bejegyzett élettárs, élettárs, közös háztartásban élő nagykorú hozzátartozó nyilatkozata
-
-Tudomásul veszem, hogy házastársam, élettársam, velem közös háztartásban élő nagykorú hozzátartozóm nemzetbiztonsági ellenőrzése – beleértve az adatváltozással kapcsolatos ellenőrzést is – személyemet is érintheti; ennek keretén belül, ha a szükséges adat más módon nem szerezhető be, a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat titkos információgyűjtést is folytathat.
-
-Kelt, ......................., 201......
-
-aláírás, cím
+- 1. a nagykövetek és az önálló külképviseleteket irányító főkonzulok,
+- 2. az államtitkárok és az azonos jogállású állami vezetők,
+- 3. a szakállamtitkárok és az azonos jogállású állami vezetők,
+- 4. az autonóm államigazgatási szervek és a kormányhivatalok vezetői, helyettesei és a vezetőkkel azonos jogállású más közszolgálati vezetők,
+- 5. központi hivatalok vezetői, valamit a velük azonos jogállású más közszolgálati vezetők,
+- 6. az Országgyűlés Hivatala vezető beosztású munkatársai,
+- 7. a Köztársasági Elnök Hivatala vezető beosztású munkatársai,
+- 8. a Miniszterelnöki Hivatal vezető beosztású munkatársai,
+- 9. a Magyar Honvédség parancsnoka, a vezérkari főnök,
+- 10.
+- 11. a rendvédelmi szervek országos parancsnokai és helyettesei,
+- 12. az országos rendőrfőkapitány, helyettesei, a rendőrfőkapitányok és rendőrkapitányok,
+- 13. a tábornokok és a tábornoki rendfokozattal rendszeresített beosztásba kinevezettek,
+- 14. a minisztériumi főosztályvezetők és az azonos jogállású állami vezetők,
+- 15. az állami vagy többségi állami tulajdonban lévő gazdálkodó szervezetek vezetői,
+- 16. a többségi állami tulajdonban lévő bankok, szakosított pénzintézetek és biztosítóintézetek vezető beosztású munkatársai,
+- 17. a nemzetbiztonsági szolgálatok munkatársai,
+- 18. a minisztériumokon, a kormányhivatalokon, a központi hivatalokon, a Magyar Honvédségen, a rendvédelmi szerveken belül a feladatkörrel rendelkező miniszter által meghatározott további olyan munkakört betöltő személyek, akiknek feladataik ellátásához államtitkot vagy nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő, az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 5/B. §-a (2)–(6) bekezdéseiben szereplő, illetve az 5/B. § (7) bekezdése szerinti nemzetközi szerződést kihirdető törvényben meghatározott külföldi minősítéssel és jelöléssel ellátott adatot szükséges megismerniük, illetve a munkakörük külső, leplezett támadás által fenyegetett,
+- 19. a 18. pont hatálya alá nem tartozó, az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény szerinti titokbirtokos szervezeten belül a vezető által meghatározott olyan személyek, akiknek feladataik ellátásához államtitkot vagy nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő, az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 5/B. §-a (2)–(6) bekezdéseiben szereplő, illetve az 5/B. § (7) bekezdése szerinti nemzetközi szerződést kihirdető törvényben meghatározott külföldi minősítéssel és jelöléssel ellátott adatot szükséges megismerniük.
 
 ### 3. számú melléklet az 1995. évi CXXV. törvényhez
 
-Az utasadatok átvétele és kezelése céljából terrorista és súlyos bűncselekménynek minősülő bűncselekmények
+Szigorúan titkos!
 
-1. 1. Terrorista bűncselekmények:
+Különösen fontos!
 
-1.1. a terrorizmus elleni küzdelemről szóló, 2002. június 13-i 2002/475/IB tanácsi kerethatározat 1. cikkében meghatározott terrorista bűncselekmény, 2. cikkében meghatározott terrorista csoporthoz kapcsolódó bűncselekmény, 3. cikkében meghatározott terrorista tevékenységgel összefüggő bűncselekmény vagy 4. cikke szerinti, bűncselekményre való felbujtás, bűnsegély vagy kísérlet,
+(kitöltés után)
 
-1.2. alkotmányos rend erőszakos megváltoztatása [Btk. 254. § (1) és (2) bekezdése],
+BIZTONSÁGI KÉRDŐÍV
 
-1.3. az alkotmányos rend elleni szervezkedés [Btk. 255. § (1) és (2) bekezdése],
+fontos és bizalmas munkakör betöltésére jelölt,illetve ilyen munkakört betöltők biztonsági ellenőrzéséhez
 
-1.4. terrorcselekmény [Btk. 314. § (1) és (2) bekezdése, 315. § (1) és (2) bekezdése, 316. §, 316/A. §],
+„A” típusú ellenőrzés
 
-1.5. terrorizmus finanszírozása [Btk. 318. § és 318/A. §]
+Általános személyi adatok
 
-1.6. háborús uszítás [Btk. 331. §]
+1. Családi és utóneve:
 
-2. 2. Súlyos bűncselekmények:
+2. Előző nevei (leánykori neve):
 
-2.1. emberiesség elleni bűncselekmények [Btk. XIII. Fejezet],
+3. Születési helye, év, hó, nap:
 
-2.2. háborús bűncselekmények [Btk. XIV. Fejezet],
+4. Anyja neve:
 
-2.3. emberölés [Btk. 160. § (1)–(3) bekezdése, (5) bekezdése],
+5. Személyi igazolvány száma:
 
-2.4. erős felindulásban elkövetett emberölés [Btk. 161. §],
+Állampolgársági adatok
 
-2.5. súlyos testi sértés [Btk. 164. § (3), (6) és (8) bekezdése],
+6. Jelenlegi állampolgársága:
 
-2.6. emberi test tiltott felhasználása [Btk. 175. § (1)–(3) bekezdése],
+7. Korábbi állampolgársága (ország, időpont megjelölése, okmány száma):
 
-2.7. kábítószer-kereskedelem [Btk. 176. § (1)–(4) bekezdése, (5) bekezdés b) pontja, (6) bekezdése, 177. § (1) bekezdés b) pontja, c) pont cb) alpontja, (2)–(5) bekezdése],
+8. Külföldi, illetve kettős állampolgárság esetén:
 
-2.8. kábítószer-prekurzorral visszaélés [Btk. 183. § (1) bekezdés a) pontja],
+itt-tartózkodásának kezdete:
 
-2.9. tudatmódosító anyaggal visszaélés [Btk. 184. §],
+jogcíme, státusa:
 
-2.10. teljesítményfokozó szerrel visszaélés [Btk. 185. § (1) bekezdés a) és b) pontja, (2 és (3) bekezdése],
+tartózkodási engedélyének száma, kelte, kiállító hatóság megnevezése:
 
-2.11. gyógyszerhamisítás [Btk. 185/A. § (1)–(6) bekezdése]
+útlevelének száma:
 
-2.12. egészségügyi termék hamisítása [Btk. 186. § (1)–(4) bekezdése],
+letelepedési, bevándorlási kérelmével foglalkozó hatóság megnevezése:
 
-2.13. emberrablás [Btk. 190. § (1)–(5) bekezdése],
+honosítási, állampolgársági kérelmének benyújtási ideje, eljáró hatóság megnevezése:
 
-2.14. emberrablás feljelentésének elmulasztása [Btk. 191. §],
+Családi állapotára, hozzátartozóira vonatkozó adatok
 
-2.15. emberkereskedelem és kényszermunka [Btk. 192. § (1)–(6) bekezdése],
+9. Családi állapota:
 
-2.16. személyi szabadság megsértése [Btk. 194. §],
+nős, nőtlen, férjezett, hajadon, elvált, élettársi közösségben élő, özvegy
 
-2.17. szexuális kényszerítés [Btk. 196. § (1)–(3) bekezdése],
+10. Jelenlegi házastársának, élettársának
 
-2.18. szexuális erőszak [Btk. 197. § (1)–(5) bekezdése],
+családi és utóneve:
 
-2.19. szexuális visszaélés [Btk. 198. § (1)–(4) bekezdése],
+előző neve (leánykori neve):
 
-2.20. kerítés [Btk. 200. §],
+születési helye, év, hó, nap:
 
-2.21. prostitúció elősegítése [Btk. 201. § (1) bekezdés c) pontja és (2) bekezdése],
+anyja neve:
 
-2.22. gyermekprostitúció kihasználása [Btk. 203. §],
+11. Gyermekeinek személyi adatai:
 
-2.23. gyermekpornográfia [Btk. 204. § (1)–(5) bekezdése],
+családi és utóneve:
 
-2.24. szeméremsértés [Btk. 205. § (2) bekezdése],
+születési helye, év, hó, nap:
 
-2.25. környezetkárosítás [Btk. 241. § (1) bekezdése, (2) bekezdés III. fordulata],
+anyja neve:
 
-2.26. természetkárosítás [Btk. 242. § (1) és (2) bekezdése, 243. § (1) és (2) bekezdése],
+családi és utóneve:
 
-2.27. hulladékgazdálkodás rendjének megsértése [Btk. 248. § (1) és (2) bekezdése],
+születési helye, év, hó, nap:
 
-2.28. ózonréteget lebontó anyaggal visszaélés [Btk. 249. § (1) bekezdése],
+anyja neve:
 
-2.29. radioaktív anyaggal visszaélés [Btk. 250. § (1) bekezdés a) és b) pontja, (2)–(3) bekezdése],
+Lakcímének, tartózkodási helyének adatai
 
-2.30. lázadás [Btk. 256. § (1)–(3) bekezdése],
+12. Jelenlegi állandó lakcíme (helység, kerület, utca, házszám, lépcsőház, emelet, ajtó):
 
-2.31. rombolás [Btk. 257. §],
+13. Ideiglenes lacíme:
 
-2.32. kémkedés [Btk. 261. § (1)–(3) bekezdése],
+14. Tartózkodási helye, ahol elérhető, címe, telefonszáma (amennyiben nem azonos állandó, illetve ideiglenes lakcímével):
 
-2.33. kémkedés az Európai Unió intézményei ellen [Btk. 261/A. §],
+Iskolai végzettségére vonatkozó adatai
 
-2.34. a szövetséges fegyveres erő ellen elkövetett kémkedés [Btk. 262. §]
+15. Legmagasabb iskolai végzettsége, igazoló okirat száma, kelte:
 
-2.35. vesztegetés [Btk. 290. § (1)–(4) bekezdése],
+16. Kiállító oktatási intézmény megnevezése:
 
-2.36. vesztegetés elfogadása [Btk. 291. § (1)–(4) bekezdése],
+Foglalkozásával kapcsolatos adatok
 
-2.37. hivatali vesztegetés [Btk. 293. § (1)–(4) bekezdése],
+17. Jelenlegi foglalkozása, beosztása:
 
-2.38. hivatali vesztegetés elfogadása [Btk. 294. § (1)–(4) bekezdése],
+18. Munkáltató neve, címe:
 
-2.39. vesztegetés bírósági vagy hatósági eljárásban [Btk. 295. § (1) és (2) bekezdése],
+Katonai adatok
 
-2.40. vesztegetés elfogadása bírósági vagy hatósági eljárásban [Btk. 296. § (1) és (2) bekezdése],
+19. Teljesített-e katonai szolgálatot (mikor, hol, speciális katonai képzettsége):
 
-2.41. befolyás vásárlása [Btk. 298. § (1) és (1a) bekezdése, (3) bekezdése],
+Büntető- és szabálysértési eljárások adatai
 
-2.42. befolyással üzérkedés [Btk. 299. § (1) és (2) bekezdése, (4) és (5) bekezdése],
+20. Indult-e Ön ellen a nyilatkozat keltétől visszaszámított 15 éven belül olyan büntetőeljárás, amely büntetéssel fejeződött be („igen” válasz esetén részletezze, hogy mikor, miért, az eljáró bíróság megnevezésével, a büntetés mértékének és a mentesülés időpontjának feltüntetésével):
 
-2.43. korrupciós bűncselekmény feljelentésének elmulasztása [Btk. 300. § (1) bekezdése],
+Indult-e Ön ellen a nyilatkozat keltétől visszaszámított 5 éven belül olyan szabálysértési eljárás, amely büntetéssel fejeződött be („igen” válasz esetén – a közlekedési szabálysértések kivételével – részletezze, hogy mikor, miért, az eljáró hatóság megnevezésével, a büntetés mértékének feltüntetésével):
 
-2.44. jármű hatalomba kerítése [Btk. 320. § (1)–(3) bekezdése],
+21. Jelenleg van-e függőben lévő büntető- vagy szabálysértési ügye („igen” válasz esetén részletezze, miért, eljáró bíróság, hatóság):
 
-2.45. bűnszervezetben részvétel [Btk. 321. § (1) bekezdése],
+Speciális adatok
 
-2.46. közérdekű üzem működésének megzavarása [Btk. 323. § (1)–(3) bekezdése, (5) bekezdése],
+22. Hazai vagy külföldi munkavállalásakor dolgozott-e olyan munkakörben, melynek betöltése előtt biztonsági kérdőívet, vagy biztonsági nyilatkozatot kellett kitöltenie („igen” válasz esetén jelölje meg a munkahelyet, beosztásának megnevezését, időpontját):
 
-2.47. robbanóanyaggal vagy robbantószerrel visszaélés [Btk. 324. § (1) bekezdése, (2) és (3) bekezdése],
+23. Ismert-e Ön előtt olyan körülmény (kockázati tényező), melynek jelzését a biztonsági ellenőrzés szempontjából szükségesnek tartja (pl. káros szenvedélyek, személyének kompromittálására, zsarolására alapot adó információk stb.):
 
-2.48. lőfegyverrel vagy lőszerrel visszaélés [Btk. 325. § (1) bekezdés b) és c) pontja, (2) bekezdés b) és c) pontja, (3) bekezdése, (5) bekezdése],
+„A” típusú
 
-2.49. nemzetközi szerződés által tiltott fegyverrel visszaélés [Btk. 326. § (1)–(6) bekezdése],
+BIZTONSÁGI NYILATKOZAT
 
-2.50. nemzetközi gazdasági tilalom megszegése [Btk. 327. § (1)–(4) bekezdése],
+Kijelentem, hogy az általam közölt adatok a valóságnak megfelelnek.
 
-2.51. haditechnikai termékkel vagy szolgáltatással visszaélés [Btk. 329. § (1)–(4) bekezdése],
+Hozzájárulok ahhoz, hogy a nemzetbiztonsági szolgálatok a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott biztonsági ellenőrzés keretében személyemet érintően adatokat gyűjtsenek. Tudomásul veszem, hogy amennyiben a szükséges adatok más módon nem szerezhetők be, a nemzetbiztonsági szolgálatok – a törvény szerinti külső engedélyköteles eszközök kivételével – személyemet érintően titkos információgyűjtést folytathatnak. Tudomásul veszem, hogy a nemzetbiztonsági szolgálatok a ki nem töltött kérdések tekintetében is elvégzik a szükséges biztonsági ellenőrzéseket.
 
-2.52. kettős felhasználású termékkel visszaélés [Btk. 330. § (1) és (2) bekezdése],
+A kérdőívet annak tudatában töltöttem ki, hogy a kérdésekre adott válaszokkal magamat vagy hozzátartozómat nem vagyok köteles bűncselekmény elkövetésével vádolni.
 
-2.53. közokirat-hamisítás [Btk. 342. § (1) bekezdése, 343. § (1) bekezdése],
+Budapest, 19………………………………
 
-2.54. egyedi azonosító jellel visszaélés [Btk. 347. § (1)–(2) bekezdése],
+………………………………………………………………
 
-2.55. embercsempészés [Btk. 353. §],
+aláírás, cím
 
-2.56. védett kulturális javakkal visszaélés [Btk. 358. § (1) bekezdés a), c) pontja, valamint (2) bekezdése],
+Házastárs, élettárs, közös háztartásban élőfelnőtt korú hozzátartozó nyilatkozata
 
-2.57. rablás [Btk. 365. § (3) bekezdés a)–d) pontja, (4) bekezdés b) és c) pontja],
+Tájékoztattak arról, hogy házastársam, élettársam, hozzátartozóm biztonsági ellenőrzése személyemet is érintheti; ennek keretén belül, ha a szükséges adatok más módon nem szerezhetők be, a nemzetbiztonsági szolgálatok – az igazságügyért felelős miniszter által engedélyezett eszközök kivételével – titkos információgyűjtést is folytathatnak.
 
-2.58. sikkasztás [Btk. 372. § (3) bekezdés c) pontja],
+Budapest, 19………………………………
 
-2.59. csalás [Btk. 373. § (3)–(6) bekezdése],
+………………………………………………………………
 
-2.60. gazdasági csalás [Btk. 374. § (3)–(6) bekezdése],
+aláírás, cím
 
-2.61. információs rendszer felhasználásával elkövetett csalás [Btk. 375. § (1)–(5) bekezdése],
+Szigorúan titkos!
 
-2.62. orgazdaság [a 2020. december 31-éig hatályban volt Btk. 379. § (1) és (3)–(6) bekezdése],
+Különösen fontos!
 
-2.63. bitorlás [Btk. 384. § (1) bekezdése]
+(kitöltés után)
 
-2.64. szerzői vagy szerzői joghoz kapcsolódó jogok megsértése [385. § (3) és (4) bekezdése]
+BIZTONSÁGI KÉRDŐÍV
 
-2.65. védelmet biztosító műszaki intézkedések kijátszása [Btk. 386. § (3) bekezdése]
+fontos és bizalmas munkakör betöltésére jelölt,illetve ilyen munkakört betöltők biztonsági ellenőrzéséhez
 
-2.66. iparjogvédelmi jogok megsértése [Btk. 388. § (2) és (3) bekezdése]
+„B” típusú ellenőrzés
 
-2.67. pénzhamisítás [Btk. 389. § (1)–(3) bekezdése],
+Általános személyi adatok
 
-2.68. pénzhamisítás elősegítése [Btk. 390. § (2) bekezdése],
+1. Családi és utóneve:
 
-2.69. költségvetési csalás [Btk. 396. § (2)–(7) bekezdése],
+2. Előző nevei (leánykori neve):
 
-2.70. pénzmosás [Btk. 399. § (1)–(7) bekezdése, 400. § (2) bekezdése],
+3. Születési helye, év, hó, nap:
 
-2.71. rossz minőségű termék forgalomba hozatala [Btk. 415. § (1) és (2) bekezdése],
+4. Anyja neve:
 
-2.72. megfelelőség hamis tanúsítása [Btk. 416. § (1) és (2) bekezdése],
+5. Személyi igazolvány száma:
 
-2.73. tiltott adatszerzés [Btk. 422. § (1) bekezdés d) és e) pontja, (1a) bekezdés b) pontja, valamint (4) bekezdése],
+Állampolgársági adatok
 
-2.74. információs rendszer vagy adat megsértése [Btk. 423. § (2)–(4) bekezdése].
+6. Jelenlegi állampolgársága:
+
+7. Korábbi állampolgársága (ország, időpont megjelölése, okmány száma):
+
+8. Külföldi, illetve kettős állampolgárság esetén:
+
+itt-tartózkodásának kezdete:
+
+jogcíme, státusa:
+
+tartózkodási engedélyének száma, kelte, kiállító hatóság megnevezése:
+
+útlevelének száma:
+
+letelepedési vagy bevándorlási kérelmével foglalkozó hatóság megnevezése:
+
+honosítási, állampolgársági kérelmének benyújtási ideje, eljáró hatóság megnevezése:
+
+Családi állapotára, hozzátartozóira vonatkozó adatok
+
+9. Családi állapota: nős, nőtlen, férjezett, hajadon, elvált, élettársi közösségben élő, özvegy
+
+10. Jelenlegi házastársának, élettársának
+
+családi és utóneve:
+
+előző neve (leánykori neve):
+
+születési helye, év, hó, nap:
+
+anyja neve:
+
+állampolgársága (lásd: 6., 7., 8. pontok):
+
+foglalkozása, munkaköre:
+
+munkahelye neve, címe:
+
+11. Gyermekeinek személyi adatai:
+
+családi és utóneve:
+
+előző neve (leánykori neve):
+
+születési helye, év, hó, nap:
+
+anyja neve:
+
+állampolgársága (lásd: 6., 7., 8. pontok):
+
+foglalkozása, munkaköre:
+
+munkahelye neve, címe:
+
+12. Az előzőekben fel nem sorolt, Önnel közös háztartásban élő 18 év feletti személyek adatai:
+
+családi és utóneve:
+
+előző neve (leánykori neve):
+
+születési helye, év, hó, nap:
+
+anyja neve:
+
+állampolgársága (lásd: 6., 7., 8. pontok):
+
+foglalkozása, munkaköre:
+
+munkahelye neve, címe:
+
+13. Külföldön élő hozzátartozói:
+
+családi és utóneve:
+
+születési helye, év, hó, nap:
+
+lakcíme:
+
+foglalkozása, munkahelye:
+
+állampolgársága:
+
+rokoni foka:
+
+Lakcímének, tartózkodási helyének adatai
+
+14. Jelenlegi állandó lakcíme (helység, kerület, utca, házszám, lépcsőház, emelet, ajtó):
+
+15. Ideiglenes lakcíme:
+
+16. Tartózkodási helye (amennyiben nem azonos állandó, illetve ideiglenes lakcímével):
+
+17. Előző állandó és ideiglenes lakcímei, ahol 3 hónapot meghaladó ideig tartózkodott(5 évre visszamenőleg):
+
+18. Amennyiben 6 hónapot meghaladó ideig külföldön tartózkodott, tüntesse fel külföldi címeit és külföldi tartózkodásának okát (15 évre visszamenőleg):
+
+Iskolai végzettségére vonatkozó adatai
+
+19. Legmagasabb iskolai végzettsége – külföldön folytatott tanulmányok esetében is –, oktatási intézmény neve, címe, a képzés időtartama, befejezésének időpontja; a végzettséget, képzettséget igazoló okirat száma, kelte:
+
+Foglalkozásával kapcsolatos adatok
+
+20. Jelenlegi foglalkozása, beosztása, munkáltató neve, címe:
+
+21. Korábbi foglalkozásai, beosztásai, munkakörei – időpont megjelölésével (5 évre visszamenőleg ) – munkáltatóinak megnevezése, címe:
+
+Katonai adatok
+
+22. Teljesített-e katonai szolgálatot (mikor, hol, speciális katonai képzettsége):
+
+Jövedelmi viszonyaival, anyagi helyzetével összefüggő adatok
+
+23. Főfoglalkozásából származó éves bruttó összjövedelme:
+
+24. Főfoglalkozásán kívüli bruttó 500 000 Ft-ot meghaladó jövedelmének forrásai:
+
+25. Adóhatósággal, társadalombiztosítással, pénzintézetekkel szemben fennálló tartozásai, pénzügyi kötelezettségei 5 évre visszamenőleg:
+
+26. Az elmúlt 5 év során folyt-e Önnel vagy vállalkozásával szemben végrehajtási eljárás, ha igen, akkor miért:
+
+27. Rendelkezik-e érdekeltséggel hazai vagy külföldi gazdálkodó szervezetben:
+
+a gazdálkodó szervezet megnevezése, címe:
+
+tevékenységi köre:
+
+érdekeltség jellege (tulajdonos, résztulajdonos, vezető testület tagja, tanácsadó stb.):
+
+Büntető- és szabálysértési eljárások adatai
+
+28. Indult-e Ön vagy házastársa (élettársa) ellen a nyilatkozat keltétől számított 15 éven belül olyan büntetőeljárás, amely büntetéssel fejeződött be („igen” válasz esetén részletezze, hogy mikor, miért, az eljáró bíróság megnevezésével, a büntetés mértékének és a mentesülés időpontjának feltüntetésével):
+
+Indult-e Ön vagy házastársa (élettársa) ellen a nyilatkozat keltétől számított 5 éven belül olyan szabálysértési eljárás, amely büntetéssel fejeződött be („igen” válasz esetén – a közlekedési szabálysértések kivételével – részletezze, hogy mikor, miért, az eljáró hatóság megnevezésével, a büntetés mértékének feltüntetésével):
+
+29. Jelenleg van-e függőben lévő büntető- vagy szabálysértési ügye („igen” válasz esetén – a közlekedési szabálysértések kivételével – részletezze, miért, eljáró bíróság, hatóság):
+
+Speciális adatok
+
+30. Hazai vagy külföldi munkavállalásakor dolgozott-e olyan munkakörben, melynek betöltése előtt biztonsági kérdőívet, vagy biztonsági nyilatkozatot kellett kitöltenie („igen” válasz esetén jelölje meg a munkahelyet, beosztásának megnevezését, időpontját):
+
+31. Pályafutása során észlelt-e olyan körülményt, amely külföldi hírszerzőszolgálat jelenlétére enged következtetni (kapcsolatépítési, beszervezési, kompromittálási kísérlet), ha igen kérjük fejtse ki részletesen:
+
+32. Milyen nagyságrendben tart fenn külföldi állampolgárokkal magánjellegű kapcsolatot? Nevezze meg a legfontosabb kapcsolatait, maximum 10 főt:
+
+családi és utóneve:
+
+születési helye, év, hó, nap:
+
+lakcíme:
+
+foglalkozása, munkahelye:
+
+állampolgársága:
+
+kapcsolat jellege, rövid jellemzése:
+
+33. Tart vagy tartott-e kapcsolatot olyan személlyel, aki tudomása szerint jelenleg külföldi kormány vezető beosztású munkatársa vagy az volt? (Ha igen, akkor fejtse ki részletesen.)
+
+34. Tart vagy tartott-e kapcsolatot olyan személlyel, aki tudomása szerint külföldi hírszerző szolgálat vagy annak fedőszerve munkatársa, vagy az volt? (Ha igen, akkor fejtse ki részletesen.)
+
+35. Ismert-e Ön előtt olyan körülmény (kockázati tényező), melynek jelzését a biztonsági ellenőrzés szempontjából szükségesnek tartja (pl. káros szenvedélyek, személyének kompromittálására, zsarolására alapot adó információk stb.):
+
+36. Van-e kapcsolata a demokratikus jogállam alkotmányos alapelveit tagadó, vagy ilyen jellegű tevékenységet kifejtő szervezettel, mozgalommal, csoporttal stb.? (Ha igen, akkor fejtse ki részletesen.)
+
+„B” típusú
+
+BIZTONSÁGI NYILATKOZAT
+
+Kijelentem, hogy az általam közölt adatok a valóságnak megfelelnek.
+
+Hozzájárulok ahhoz, hogy a nemzetbiztonsági szolgálatok a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott biztonsági ellenőrzés keretében személyemet érintően adatokat gyűjtsenek. Tudomásul veszem, hogy amennyiben a szükséges adatok más módon nem szerezhetők be, a nemzetbiztonsági szolgálatok – a törvény szerinti külső engedélyköteles eszközök kivételével – személyemet érintően titkos információgyűjtést folytathatnak. Tudomásul veszem, hogy a nemzetbiztonsági szolgálatok a ki nem töltött kérdések tekintetében is elvégzik a szükséges biztonsági ellenőrzéseket.
+
+A kérdőívet annak tudatában töltöttem ki, hogy a kérdésekre adott válaszokkal magamat vagy hozzátartozómat nem vagyok köteles bűncselekmény elkövetésével vádolni.
+
+Budapest, 19………………………………
+
+………………………………………………………………
+
+aláírás, cím
+
+Házastárs, élettárs, közös háztartásban élőfelnőtt korú hozzátartozó nyilatkozata
+
+Tájékoztattak arról, hogy házastársam, élettársam, hozzátartozóm biztonsági ellenőrzése személyemet is érintheti; ennek keretén belül, ha a szükséges adatok más módon nem szerezhetők be, a nemzetbiztonsági szolgálatok – az igazságügyért felelős miniszter által engedélyezett eszközök kivételével – titkos információgyűjtést is folytathatnak.
+
+Budapest, 19………………………………
+
+………………………………………………………………
+
+aláírás, cím
+
+Szigorúan titkos!
+
+Különösen fontos!
+
+(kitöltés után)
+
+BIZTONSÁGI KÉRDŐÍV
+
+fontos és bizalmas munkakör betöltésére jelölt,illetve ilyen munkakört betöltők biztonsági ellenőrzéséhez
+
+„C” típusú ellenőrzés
+
+Általános személyi adatok
+
+1. Családi és utóneve:
+
+2. Előző nevei (leánykori neve):
+
+3. Születési helye, év, hó, nap:
+
+4. Anyja neve:
+
+5. Személyi igazolvány száma:
+
+Állampolgársági adatok
+
+6. Jelenlegi állampolgársága:
+
+7. Korábbi állampolgársága (ország, időpont megjelölése, okmány száma):
+
+8. Külföldi, illetve kettős állampolgárság esetén:
+
+itt-tartózkodásának kezdete:
+
+jogcíme, státusa:
+
+tartózkodási engedélyének száma, kelte, kiállító hatóság megnevezése:
+
+útlevelének száma:
+
+letelepedési, bevándorlási kérelmével foglalkozó hatóság megnevezése:
+
+honosítási, állampolgársági kérelmének benyújtási ideje, eljáró hatóság megnevezése:
+
+Családi állapotára, hozzátartozóira vonatkozó adatok
+
+9. Családi állapota: nős, nőtlen, férjezett, hajadon, elvált, élettársi közösségben élő, özvegy
+
+10. Jelenlegi házastársának, élettársának
+
+családi és utóneve:
+
+előző neve (leánykori neve):
+
+születési helye, év, hó, nap:
+
+anyja neve:
+
+állampolgársága (lásd: 6., 7., 8. pontok):
+
+foglalkozása, munkaköre:
+
+munkahelye neve, címe:
+
+11. Gyermekeinek személyi adatai:
+
+családi és utóneve:
+
+előző neve (leánykori neve):
+
+születési helye, év, hó, nap:
+
+anyja neve:
+
+állampolgársága (lásd: 6., 7., 8. pontok):
+
+foglalkozása, munkaköre:
+
+munkahelye neve, címe:
+
+12. Az előzőekben fel nem sorolt, Önnel közös háztartásban élő 18 év feletti személyek adatai:
+
+családi és utóneve:
+
+előző neve (leánykori neve):
+
+születési helye, év, hó, nap:
+
+anyja neve:
+
+állampolgársága (lásd: 6., 7., 8. pontok):
+
+foglalkozása, munkaköre:
+
+munkahelye neve, címe:
+
+13. Önnek és házastársának/élettársának külföldön élő hozzátartozói:
+
+családi és utóneve:
+
+születési helye, év, hó, nap:
+
+lakcíme:
+
+foglalkozása, munkahelye:
+
+állampolgársága:
+
+rokoni foka:
+
+Lakcímének, tartózkodási helyének adatai
+
+14. Jelenlegi állandó lakcíme (helység, kerület, utca, házszám, lépcsőház, emelet, ajtó):
+
+15. Ideiglenes lakcíme:
+
+16. Tartózkodási helye (amennyiben nem azonos állandó, illetve ideiglenes lakcímével):
+
+17. Előző állandó és ideiglenes lakcímei, ahol 3 hónapot meghaladó ideig tartózkodott(15 évre visszamenőleg):
+
+18. Amennyiben 6 hónapot meghaladó ideig külföldön tartózkodott, tüntesse fel külföldi címeit és külföldi tartózkodásának okát (15 évre visszamenőleg):
+
+Iskolai végzettségére vonatkozó adatai
+
+19. Középiskolai tanulmányaitól kezdve sorolja fel azokat az oktatási intézményeket, melynek tanulója, hallgatója volt (oktatási intézmény neve, címe, a képzés időtartama, befejezésének időpontja; a végzettséget, képzettséget igazoló okiratok száma, kelte):
+
+20. Külföldön folytatott tanulmányok esetében az oktatási intézmény neve, címe, a képzés időtartama, befejezésének időpontja; a végzettséget, képzettséget igazoló okiratok száma, kelte:
+
+21. Tudományos fokozata (hol szerezte, mikor, milyen témakörben):
+
+22. Szakmai, tudományos publikációi (cím, megjelenési hely, idő, témakör):
+
+23. Idegennyelv ismerete, szintje:
+
+Foglalkozásával kapcsolatos adatok
+
+24. Jelenlegi foglalkozása, beosztása, munkáltató neve, címe:
+
+25. Korábbi foglalkozásai, beosztásai, munkakörei – időpont megjelölésével (15 évre visszamenőleg ) – munkáltatóinak megnevezése, címe:Amennyiben munkaviszonya a munkáltató kezdeményezésére szűnt meg, annak körülményeit, okát részletesen ismertesse:
+
+Katonai adatok
+
+26. Teljesített-e katonai szolgálatot (mikor, hol, speciális katonai képzettsége):
+
+Jövedelmi viszonyaival, anyagi helyzetével összefüggő adatok
+
+Önnek, házas- és élettársának:
+
+27. Főfoglalkozásából származó éves bruttó összjövedelme:
+
+28. Főfoglalkozásán kívüli éves bruttó 500 000 Ft-ot meghaladó jövedelmének forrásai:
+
+29. Adóhatósággal, társadalombiztosítással, pénzintézetekkel szemben fennálló tartozásai, pénzügyi kötelezettségei 15 évre visszamenőleg:
+
+30. Rendelkeznek-e érdekeltséggel hazai cégbíróságon bejegyzett gazdálkodó szervezetben:
+
+a gazdálkodó szervezet megnevezése, címe, tevékenységi köre:
+
+érdekeltség jellege (tulajdonos, résztulajdonos, vezető testület tagja, tanácsadó stb.):
+
+31. Van-e hivatalos kapcsolatuk külföldön bejegyzett gazdálkodó szervezettel, az együttműködés/kapcsolat jellege:
+
+a gazdálkodó szervezet megnevezése, címe:
+
+tevékenységi köre:
+
+cégbejegyzés helye:
+
+32. Az elmúlt 15 év során folyt-e személyük vagy vállalkozásaikkal szemben végrehajtási eljárás („igen” válasz esetén részletezze, mikor, miért, elrendelő bíróság, hatóság megnevezése):
+
+Önnek, valamint az Önnel közös háztartásban élő hozzátartozójának:
+
+32/A. Tulajdonában álló ingatlanok
+
+címe és helyrajzi száma:
+
+alapterülete:
+
+tulajdoni hányad:
+
+a szerzés ideje és jogcíme:
+
+32/B. Tulajdonában álló, egymillió Ft értéket meghaladó
+
+ingóságok
+
+gépjárművek (típus, rendszám):
+
+védett műalkotás, védett gyűjtemény
+
+(alkotó, cím, nyilvántartási szám):
+
+egyéb ingóság (megnevezés, a szerzés ideje
+
+és jogcíme):
+
+32/C. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. §-ának 34. pontja szerinti értékpapírban
+
+elhelyezett megtakarításának
+
+megnevezése:
+
+sorozatszáma:
+
+összege:
+
+32/D. A Ptk. szerinti betét- vagy takarékbetétszerződés alapján fennálló követelése
+
+a hitelintézet neve:
+
+számlaszáma vagy a betétkönyv száma:
+
+összege:
+
+32/E. Külföldről származó jövedelme
+
+jövedelem forrása:
+
+jövedelem nagysága:
+
+jövedelem jogcíme:
+
+jövedelemszerzés ideje:
+
+Büntető- és szabálysértési eljárások adatai
+
+33. Indult-e Ön vagy házastársa (élettársa) ellen a nyilatkozat keltétől számított 15 éven belül olyan büntetőeljárás, amely büntetéssel fejeződött be („igen” válasz esetén részletezze, hogy mikor, miért, az eljáró bíróság megnevezésével, a büntetés mértékének és a mentesülés időpontjának feltüntetésével):
+
+Indult-e Ön vagy házastársa (élettársa) ellen a nyilatkozat keltétől számított 5 éven belül olyan szabálysértési vagy fegyelmi eljárás, amely büntetéssel fejeződött be („igen” válasz esetén – a közlekedési szabálysértések kivételével – részletezze mikor, miért, az eljáró hatóság megnevezésével, a büntetés mértékének feltüntetésével):
+
+34. Jelenleg Önnek vagy házastársának (élettársának) van-e függőben lévő büntető-, szabálysértési, fegyelmi, illetve kártérítési ügye („igen” válasz esetén – a közlekedési szabálysértések kivételével – részletezze, miért, eljáró bíróság, hatóság):
+
+Speciális adatok
+
+35. Hazai vagy külföldi munkavállalásakor dolgozott-e olyan munkakörben, melynek betöltése előtt biztonsági kérdőívet vagy biztonsági nyilatkozatot kellett kitöltenie („igen” válasz esetén jelölje meg a munkahelyet, beosztásának megnevezését, időpontját):
+
+36. Pályafutása során észlelt-e olyan körülményt, amely külföldi hírszerző szolgálat jelenlétére enged következtetni (kapcsolatépítési, beszervezési, kompromittálási kísérlet), ha igen kérjük fejtse ki részletesen:
+
+Önnek, házas- és élettársának:
+
+37. Milyen nagyságrendű magán jellegű kapcsolatot tartanak fenn külföldi állampolgárokkal? Nevezze meg a legfontosabb kapcsolataikat, maximum 15 főt:
+
+családi és utóneve:
+
+születési helye, év, hó, nap:
+
+lakcíme:
+
+foglalkozása, munkahelye:
+
+állampolgársága:
+
+kapcsolat jellege, rövid jellemzése:
+
+38. Tart vagy tartott-e kapcsolatot olyan személlyel, aki tudomása szerint jelenleg külföldi kormány vezető beosztású munkatársa vagy az volt? (Ha igen, akkor fejtse ki részletesen.)
+
+39. Tart vagy tartott-e kapcsolatot olyan személlyel, aki tudomása szerint külföldi hírszerző szolgálat vagy annak fedőszerve munkatársa vagy az volt? (Ha igen, akkor fejtse ki részletesen.)
+
+40. Fogyaszt-e alkoholt, ha igen milyen mértékben:
+
+szenvedett-e alkoholfüggőségben:
+
+volt-e alkoholelvonó kúrán:
+
+41. Alkalmilag vagy rendszeresen fogyasztott-e, forgalmazott-e, előállított-e kábítószert vagy kábító, bódító hatású drogokat, gyógyszereket, mikor, milyen mértékben, milyen fajtát:
+
+42. Van-e házasságon vagy élettársi közösségen kívüli partnerkapcsolata (homoszexuális is):
+
+43. Áll, illetőleg állt-e kapcsolatban a demokratikus jogállam alkotmányos alapelveit tagadó vagy ilyen jellegű tevékenységet kifejtő szervezettel, mozgalommal, csoporttal stb. (ha igen, akkor fejtse ki részletesen):
+
+44. A fentieken kívül ismert-e Ön előtt olyan körülmény (kockázati tényező), melynek jelzését a biztonsági ellenőrzés szempontjából szükségesnek tartja (pl. kompromittálásra, zsarolásra alapot adó információk):
+
+45. Megnevezhet referenciaszemélyeket (max. 3 fő), akik Önről tárgyilagos véleményt tudnak adni, és akikkel sem rokoni, sem függőségi viszonyban nem áll:
+
+név, cím, telefon:
+
+mióta ismerik egymást:
+
+„C” típusú
+
+BIZTONSÁGI NYILATKOZAT
+
+Kijelentem, hogy az általam közölt adatok a valóságnak megfelelnek.
+
+Hozzájárulok ahhoz, hogy a nemzetbiztonsági szolgálatok a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott biztonsági ellenőrzés keretében személyemet érintően adatokat gyűjtsenek. Tudomásul veszem, hogy amennyiben a szükséges adatok más módon nem szerezhetők be, a nemzetbiztonsági szolgálatok személyemet érintően titkos információgyűjtést is folytathatnak. Tudomásul veszem, hogy a nemzetbiztonsági szolgálatok a ki nem töltött kérdések tekintetében is elvégzik a szükséges biztonsági ellenőrzéseket.
+
+A kérdőívet annak tudatában töltöttem ki, hogy a kérdésekre adott válaszokkal magamat vagy hozzátartozómat nem vagyok köteles bűncselekmény elkövetésével vádolni.
+
+Budapest, 19………………………………
+
+………………………………………………………………
+
+aláírás, cím
+
+Házastárs, élettárs, közös háztartásban élőfelnőtt korú hozzátartozó nyilatkozata
+
+Tájékoztattak arról, hogy házastársam, élettársam, hozzátartozóm biztonsági ellenőrzése személyemet is érintheti; ennek keretén belül, ha a szükséges adatok más módon nem szerezhetők be, a nemzetbiztonsági szolgálatok titkos információgyűjtést is folytathatnak.
+
+Budapest, 19………………………………
+
+………………………………………………………………
+
+aláírás, cím

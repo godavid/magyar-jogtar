@@ -41,7 +41,7 @@ Az Országgyűlés a Magyar Köztársaság területén élő nemzeti és etnikai
 
 ### A képviselők száma
 
-6. § A képviselők száma 4 fő.
+6. § A képviselők száma 5 fő.
 
 ### Jelölés
 
@@ -49,17 +49,17 @@ Az Országgyűlés a Magyar Köztársaság területén élő nemzeti és etnikai
 
 (2) Több jelölő szervezet közös jelöltet is állíthat.
 
-(3) A választást akkor lehet megtartani, ha legalább 4 jelölt van.
+(3) A választást akkor lehet megtartani, ha legalább 5 jelölt van.
 
 ### Szavazás
 
-8. § A kisebbségi választópolgár legfeljebb 4 jelöltre szavazhat.
+8. § A kisebbségi választópolgár legfeljebb 5 jelöltre szavazhat.
 
 ### Az eredmény megállapítása
 
-9. § Eredménytelen a választás, ha 4-nél kevesebb jelölt kap érvényes szavazatot.
+9. § Eredménytelen a választás, ha 5-nél kevesebb jelölt kap érvényes szavazatot.
 
-10. § (1) Képviselő az a 4 jelölt lesz, aki a legtöbb szavazatot kapta.
+10. § (1) Képviselő az az 5 jelölt lesz, aki a legtöbb szavazatot kapta.
 
 (2) Szavazategyenlőség esetén sorsolással kell megállapítani, hogy az egyenlő számú szavazatot elért jelöltek közül melyik szerez mandátumot.
 
@@ -85,7 +85,7 @@ Az Országgyűlés a Magyar Köztársaság területén élő nemzeti és etnikai
 
 ### A képviselők száma
 
-15. § A megválasztható képviselők száma 7 fő.
+15. § A megválasztható képviselők száma 9 fő.
 
 ### Listaállítás
 
@@ -96,7 +96,7 @@ Az Országgyűlés a Magyar Köztársaság területén élő nemzeti és etnikai
 
 (2) Azok a jelölő szervezetek, amelyek a megválasztott elektorok legalább 10%-át közösen állították jelöltként a települési kisebbségi önkormányzati választáson, közös listát indíthatnak.
 
-(3) A választást akkor lehet megtartani, ha a jelölő szervezetek által állított listákon legalább 7 jelölt van.
+(3) A választást akkor lehet megtartani, ha a jelölő szervezetek által állított listákon összesen legalább 9 jelölt van.
 
 ### Szavazás
 
@@ -118,7 +118,7 @@ Az Országgyűlés a Magyar Köztársaság területén élő nemzeti és etnikai
 
 (2) Ha a listán nincs több jelölt, a mandátum betöltetlen marad.
 
-(3) Ha a képviselők száma 4 fő alá csökken, illetőleg ha a képviselő-testületet feloszlatják vagy az kimondja feloszlását, időközi választást kell tartani.
+(3) Ha a képviselők száma 5 fő alá csökken, illetőleg ha a képviselő-testületet feloszlatják vagy az kimondja feloszlását, időközi választást kell tartani.
 
 ### AZ ORSZÁGOS KISEBBSÉGI ÖNKORMÁNYZATI KÉPVISELŐK VÁLASZTÁSA
 
@@ -132,12 +132,12 @@ Az Országgyűlés a Magyar Köztársaság területén élő nemzeti és etnikai
 
 23. § A közgyűlés tagjainak száma
 
-- a) 15 fő, ha a megalakult települési kisebbségi önkormányzatok száma nem több mint 15,
-- b) 21 fő, ha a megalakult települési kisebbségi önkormányzatok száma 16 és 50 között van,
-- c) 25 fő, ha a megalakult települési kisebbségi önkormányzatok száma 51 és 100 között van,
-- d) 29 fő, ha a megalakult települési kisebbségi önkormányzatok száma 101 és 200 között van,
-- e) 37 fő, ha a megalakult települési kisebbségi önkormányzatok száma 201 és 500 között van,
-- f) 53 fő, ha a megalakult települési kisebbségi önkormányzatok száma több mint 500.
+- a) 15 fő, ha a megalakult települési kisebbségi önkormányzatok száma nem több, mint 15,
+- b) 19 fő, ha a megalakult települési kisebbségi önkormányzatok száma 16 és 30 között van,
+- c) 25 fő, ha a megalakult települési kisebbségi önkormányzatok száma 31 és 50 között van,
+- d) 31 fő, ha a megalakult települési kisebbségi önkormányzatok száma 51 és 100 között van,
+- e) 39 fő, ha a megalakult települési kisebbségi önkormányzatok száma 101 és 200 között van,
+- f) 53 fő, ha a megalakult települési kisebbségi önkormányzatok száma több, mint 200.
 
 ### Listaállítás
 
@@ -153,7 +153,7 @@ Az Országgyűlés a Magyar Köztársaság területén élő nemzeti és etnikai
 
 (2) E fejezet alkalmazásában
 
-- a) jelölő szervezet: az egyesülési jogról szóló törvény szerint bejegyzett olyan egyesület (ide nem értve a pártok működéséről és gazdálkodásáról szóló törvény szerint bejegyzett szervezetet), amelynek alapszabályában – a települési kisebbségi önkormányzati választás évét megelőző legalább 3 éve – rögzített célja az adott nemzeti vagy etnikai kisebbség képviselete;
+- a) jelölő szervezet: az egyesülési jogról szóló törvény szerint bejegyzett olyan társadalmi szervezet (ide nem értve a pártok működéséről és gazdálkodásáról szóló törvény szerint bejegyzett szervezetet), amelynek alapszabályában – a települési kisebbségi önkormányzati választás évét megelőző legalább 3 éve – rögzített célja az adott nemzeti vagy etnikai kisebbség képviselete;
 - b) kisebbség: a nemzeti és etnikai kisebbségek jogairól szóló törvényben felsorolt nemzeti és etnikai kisebbség.
 
 ### II. Fejezet — A NEMZETI ÉS ETNIKAI KISEBBSÉGEK JOGAIRÓL SZÓLÓ 1993. ÉVI LXXVII. TÖRVÉNYT MÓDOSÍTÓ RENDELKEZÉSEK

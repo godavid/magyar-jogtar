@@ -199,7 +199,7 @@ Az Országgyűlés a polgári védelemről a következő törvényt alkotja:
 
 - a) az országgyűlési képviselő;
 - b) az európai parlamenti képviselő;
-- c) a miniszter, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár, a vezetői megbízású, valamint ügyköre szerint polgári védelmi feladatot ellátó köztisztviselő és közalkalmazott;
+- c) a miniszter, az államtitkár, a szakállamtitkár, a vezetői megbízású, valamint ügyköre szerint polgári védelmi feladatot ellátó köztisztviselő és közalkalmazott;
 - d) a jegyző;
 - e) a bíró, az ügyész, a közjegyző, a bírósági végrehajtó;
 - f) a Magyar Honvédség tényleges állományú, a rendvédelmi szervek hivatásos állományú tagja, e szervek alkalmazottja;
