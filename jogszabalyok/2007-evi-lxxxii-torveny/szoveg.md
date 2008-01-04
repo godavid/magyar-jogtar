@@ -1,0 +1,527 @@
+# 2007. évi LXXXII. törvény
+
+egyes jogszabályok és jogszabályi rendelkezések hatályon kívül helyezéséről
+
+### I. Fejezet — Egyes jogforrások deregulációja
+
+#### 1. §
+
+### II. Fejezet — Egyes törvények, törvényerejű rendeletek,
+
+illetve azok egyes rendelkezéseinek deregulációja
+
+#### 2–4. §
+
+### III. Fejezet — Záró rendelkezések
+
+5. § (1) E törvény – a (2)–(6) bekezdésben meghatározott kivétellel – 2007. július 1-jén lép hatályba.
+
+(2)–(6)
+
+(7)
+
+6. § (1)
+
+(2) Felhatalmazást kap a Kormány, hogy miniszteri rendeletet rendeletében hatályon kívül helyezzen.
+
+(3) A Miniszterelnöki Hivatalt vezető miniszter az igazságügyért felelős miniszterrel gondoskodik arról, hogy
+
+- a) az 1. § (1) bekezdése szerint hatályban maradó jogszabályok módosításokkal egységes szerkezetbe foglalt, hatályos szövege
+- b) az (1) bekezdés felhatalmazása alapján kiadott kormányrendelet szerint hatályban maradó jogszabályok módosításokkal egységes szerkezetbe foglalt, hatályos szövege
+
+bárki számára hozzáférhető legyen.
+
+(4) Felhatalmazást kapnak a feladatkörrel rendelkező miniszterek, hogy rendeletükkel hatályon kívül helyezzék a feladatkörükbe tartozó azon rendeleteket,
+
+- a) amelyeket 1989. október 23-a előtt alkottak meg,
+- b) amelyeket felhatalmazás nélkül alkottak meg, vagy
+- c) amelyek módosítására vagy hatályon kívül helyezésére egyébként nem rendelkeznek felhatalmazással.
+
+(5) Felhatalmazást kap a természetvédelemért felelős miniszter, hogy – a természet védelméről szóló 1996. évi LIII. törvényben (a továbbiakban: Tvt.) előírt védetté nyilvánítási eljárás lefolytatása nélkül – rendeletben tartsa fenn az 1989. október 23. előtt rendelettel, rendelkezéssel, határozattal védetté nyilvánított természeti területek, természeti értékek országos jelentőségű védett természeti területként fennálló védettségét.
+
+(6) Felhatalmazást kap a települési önkormányzat képviselő-testülete, a fővárosban és a megyei jogú városban a közgyűlés, hogy – a Tvt.-ben előírt védetté nyilvánítási eljárás lefolytatása nélkül – rendeletben tartsa fenn az 1989. október 23. előtt rendelettel, rendelkezéssel, határozattal védetté nyilvánított természeti területek, természeti értékek helyi jelentőségű védett természeti területként fennálló védettségét.
+
+(7) Az (5)–(6) bekezdésben meghatározott rendelet tartalmazza
+
+- a) a védetté nyilvánító rendelet, rendelkezés, határozat vagy más jogi aktus megjelölését,
+- b) a védettség fenntartásának tényét, a természetvédelmi értékek megnevezését,
+- c) terület esetében annak jellegét, kiterjedését, a védettség indokát, természetvédelmi célját, a földrészletek helyrajzi számait, a Tvt.-ben meghatározott egyes korlátozások és tilalmak alóli esetleges felmentést, továbbá a természetvédelmi hatóság engedélyéhez, illetve hozzájárulásához kötött – a Tvt. 21. §-ban és 38–39. §-ban nem szabályozott – tevékenységek körét, lehetőség szerint a földrészlet határvonalának töréspont koordinátáit, továbbá
+- d) az Európai Közösségek jogi aktusaiban meghatározott védettségi kategóriába tartozás tényét.
+
+(8) Az Országgyűlés felhatalmazást ad a külpolitikáért felelős miniszternek az 1989. október 23-a előtt megkötött olyan nemzetközi szerződés megszűnéséről a többi részes fél diplomáciai úton való tájékoztatására, amely a szerződések jogáról szóló, Bécsben az 1969. évi május hó 23. napján kelt, az 1987. évi 12. törvényerejű rendelettel kihirdetett szerződés 59. cikkének hatálya alá esik, amennyiben a szerződést kihirdető jogszabály nincs hatályban.
+
+(9) Az Országgyűlés felhatalmazást ad az 1989. október 23-a előtt megkötött olyan, tartalmában elavult nemzetközi szerződés megszüntetésére, amelynek kihirdető jogszabálya nincs hatályban.
+
+(10) A módosító jogszabály vagy jogszabályi rendelkezés hatályon kívül helyezése nem érinti a módosított jogszabályi rendelkezés hatályát.
+
+(11) A hatályon kívül helyező jogszabály vagy jogszabályi rendelkezés hatályon kívül helyezése nem eredményezi a korábban hatályon kívül helyezett jogszabály vagy jogszabályi rendelkezés újbóli hatálybalépését.
+
+#### 7–13. §
+
+### Melléklet a 2007. évi LXXXII. törvényhez
+
+- 1. azoknak nevei, a kik a tudós társaság fölállitására, vagy a hazai nyelv terjesztésére is ajánlatokat tettek, az utókor emlékezete végett törvénybe iktattatnak című 1827. évi XII. törvény
+- 2. a Győrtől Sopronon át Ebenfurt irányában az ország határáig vezetendő elsőrendü gőzmozdonyvasut kiépitéséről szóló 1872. évi XXVII. törvény
+- 3. a Győrtől Sopronon át Ebenfurt irányában az országhatáráig épitendő vasut engedélyokmánya némely pontjainak módosításáról szóló 1874. évi XXX. törvény
+- 4. a kereskedelmi törvényről szóló 1875. évi XXXVII. törvény
+- 5. a méter-mérték ügyében 1875. évi május hó 20-án Párisban kötött nemzetközi egyezmény beczikkelyezéséről szóló 1876. évi II. törvény
+- 6. Deák Ferencz emlékének törvénybe igtatásáról szóló 1876. évi III. törvény
+- 7. a phylloxera vastatrix rovar ellen követendő rendszabályok ügyében kötött nemzetközi egyezmény beczikkelyezéséről szóló 1880. évi I. törvény
+- 8. a Brasiliával 1883. évi május 21-én Rio de Janeiroban, a közönséges büntettesek kölcsönös kiadatása iránt kötött államszerződés beczikkelyezése tárgyában című 1884. évi XXXVII. törvény
+- 9. a Monacoval 1886. évi február 22-én Bécsben, a közönséges bűntettesek kölcsönös kiadatása iránt kötött államszerződés beczikkelyezése tárgyában című 1887. évi VI. törvény
+- 10. a Suez-csatorna iránt Konstantinápolyban 1888. évi október 29-ikén kötött nemzetközi egyezmény becikkelyezéséről szóló 1889. évi XX. törvény
+- 11. az 1882:XV. törvénycikkbe iktatott nemzetközi phylloxera-egyezmény kiegészitéséről szóló 1889. évi XLI. törvény
+- 12. az egyptomi tengeri egészségügyi szolgálat reformja iránt 1892. évi január 30-án Velenczében kötött nemzetközi egyezmény beczikkelyezéséről szóló 1894. évi VIII. törvény
+- 13. cholera-járvány idején a nemzetközi érintkezésben alkalmazandó közös védelmi intézkedésekről szóló 1894. évi IX. törvény
+- 14. a honalapitás évezredes emlékének törvénybe iktatásáról szóló 1896. évi VII. törvény
+- 15. a fertővidéki helyi érdekü vasuti engedélyezése tárgyában című 1896. évi XXIX. törvény
+- 16. az Uruguay-jal 1887. évi junius 25-én Montevideóban, a közönséges büntettesek kölcsönös kiadatása iránt kötött államszerződés beczikkelyezése tárgyában című 1896. évi XXX. törvény
+- 17. a mekkai zarándoklásnál való óvintézkedések és a persa öbölben szervezendő egészségügyi felügyelet tekintetében követendő eljárás szabályozása iránt 1894. évi ápril hó 3-án Párisban kötött nemzetközi egyezmény, valamint az ennek függelékét képező és 1897. évi október hó 30-án kelt „nyilatkozat” beczikkelyezéséről szóló 1898. évi XXXI. törvény
+- 18. a pestis elleni védekezés tárgyában, Velenczében 1897. évi márczius 19-én kötött nemzetközi egyezmény beczikkelyezéséről szóló 1900. évi XXIII. törvény
+- 19. Nagy-Britannia és Irhon egyesült királysággal 1873. évi deczember hó 3-án a közönséges büntettesek kölcsönös kiadatása iránt kötött államszerződés XI. czikkének módositásáról 1901. évi junius hó 26-án kiállitott pótnyilatkozat beczikkelyezéséről szóló 1902. évi XVIII. törvénycikk
+- 20. a Nemzetközi Mezőgazdasági Intézet létesitése iránt 1905. évi junius hó 7-én Rómában kötött nemzetközi egyezmény beczikkelyezéséről szóló 1908. évi XVIII. törvény
+- 21. a polgári eljárásra vonatkozólag az 1905. évi julius hó 17-én Hágában kelt nemzetközi egyezmény beczikkelyezése tárgyában című 1909. évi XIV. törvény
+- 22. a pestis és a kolera ellen való védekezés tárgyában Párisban, 1903. évi deczember 3-án kötött nemzetközi egyezmény beczikkelyezéséről szóló 1909. évi XXI. törvény
+- 23. a közönséges büntettesek kölcsönös kiadatása iránt Paraguay köztársasággal Buenos-Airesben 1907. évi október hó 16. napján kötött államszerződés becikkelyezéséről szóló 1910. évi IX. törvény
+- 24. a szerzői jogok kölcsönös védelme végett az Amerikai Egyesült Államokkal Budapesten, az 1912. évi január hó 30-ik napján kötött nemzetközi egyezmény beczikkelyezéséről szóló 1912. évi LXI. törvény
+- 25. a hajóösszeütközésekre, továbbá a tengeri segélynyujtásra és mentésre nézve bizonyos szabályok egységesitése czéljából az 1910. évi szeptember hó 23-ik napján Bruxellesben létrejött két nemzetközi egyezmény és a rájuk vonatkozó aláirási jegyzőkönyv becikkelyezéséről szóló 1913. évi I. törvény
+- 26. az első két nemzetközi békeértekezleten megállapitott több egyezmény és nyilatkozat beczikkelyezése tárgyában című 1913. évi XLIII. törvény
+- 27. az 1910. évi október hó 19. napján a Braziliai Egyesült Államok Köztársaságával kötött választott bírósági egyezmény beczikkelyezése tárgyában című 1913. évi XLVII. törvény
+- 28. a kórházhajókról szóló nemzetközi egyezmény beczikkelyezése tárgyában című 1913. évi XLVIII. törvény
+- 29. a métermérték ügyében 1875. évi május hó 20-án Párisban kötött nemzetközi egyezmény becikkelyezéséről szóló 1876. évi II. törvénycikk módosítása tárgyában című 1916. évi I. törvény
+- 30. a világháborútól érintett ipari tulajdonjogok fenntartására és visszaállítására vonatkozó megállapodás becikkelyezéséről szóló 1921. évi I. törvény
+- 31. az Északamerikai Egyesült Államokkal, a Brit Birodalommal, Franciaországgal, Olaszországgal és Japánnal, továbbá Belgiummal, Kínával, Kubával, Görögországgal, Nikaraguával, Panamával, Lengyelországgal, Portugáliával, Romániával, a Szerb-Horvát-Szlovén Állammal, Sziámmal és Cseh-Szlovákországgal 1920. évi június hó 4. napján a Trianonban kötött békeszerződés becikkelyezéséről szóló 1921. évi XXXIII. törvény
+- 32. az Amerikai Egyesült-Államokkal 1921. évi augusztus hó 29. napján Budapesten kötött békeszerződés becikkelyezéséről szóló 1921. évi XLVIII. törvény
+- 33. Magyarország belépéséről az irodalmi és művészeti művek védelmére alakult berni nemzetközi Unióba szóló 1922. évi XIII. törvény
+- 34. a soproni népszavazás emlékének törvénybe iktatásáról szóló 1922. évi XXIX. törvény
+- 35. a Hágában 1912. évi január hó 23-án kötött „Nemzetközi ópiumegyezmény” becikkelyezéséről szóló 1923. évi XXII. törvény
+- 36. az Olasz Királysággal 1924. évi március hó 27-én kötött pénzügyi egyezmények és megállapodások becikkelyezéséről szóló 1924. évi XXIII. törvény
+- 37. a pestis, a kolera és a sárgaláz ellen való védekezés tárgyában Párisban 1912. évi január hó 17-én kötött nemzetközi egyezmény becikkelyezéséről szóló 1924. évi XXIV. törvény
+- 38. a Dunai Állandó Vízügyi Műszaki Bizottság hatáskörére és működésére vonatkozó szabályzat jóváhagyása tárgyában 1923. évi május hó 27-én Párisban kötött egyezmény becikkelyezéséről szóló 1925. évi VII. törvény
+- 39. a nőkkel és a gyermekekkel űzött kereskedés elnyomása végett Genfben létrejött nemzetközi egyezmény becikkelyezése tárgyában című 1925. évi XIX. törvény
+- 40. a métermérték ügyében 1921. évi október hó 6-án Sévresben kötött nemzetközi pótegyezmény becikkelyezéséről és a kapcsolatos intézkedésekről szóló 1925. évi XXIX. törvény
+- 41. a sáska elleni védekezés szervezése végett 1920. évi október 31-én Rómában kötött nemzetközi egyezmény becikkelyezése tárgyában című 1925. évi XXX. törvény
+- 42. a nemzetközi kereskedelmi statisztika létesítése tárgyában Brüsszelben 1913. évi december hó 31. napján kelt egyezmény becikkelyezéséről szóló 1925. évi XLI. törvény
+- 43. Széchenyi István gróf, a legnagyobb magyar emlékének törvénybeiktatásáról szóló 1925. évi XLV. törvény
+- 44. a fehér (sárga) foszforral való gyujtógyártás eltiltása iránt Bernben 1906. évi szeptember hó 26-án kötött nemzetközi egyezmény becikkelyezéséről szóló 1925. évi XLIX. törvény
+- 45. a polgári eljárásra vonatkozólag az 1905. évi július hó 17-én Hágában kelt és az 1909:XIV. törvénycikkbe iktatott nemzetközi egyezmény 27. Cikkének módosítása céljából az 1924. évi július hó 4-én Hágában kelt Jegyzőkönyv becikkelyezése tárgyában című 1926. évi XIX. törvény
+- 46. az Olaszországgal 1927. évi április hó 5. napján Rómában kötött barátsági, békéltető eljárási és választott bírósági szerződés becikkelyezéséről szóló 1927. évi XXVIII. törvény
+- 47. a Spitzbergák tárgyában Párizsban 1920. évi február hó 9. napján kelt Szerződés becikkelyezéséről szóló 1927. évi XXIX. törvény
+- 48. március tizenötödikének nemzeti ünneppé nyilvánításáról szóló 1927. évi XXXI. törvény
+- 49. Kossuth Lajos örök érdemeinek és emlékének törvénybeiktatásáról szóló 1927. évi XXXII. törvény
+- 50. az 1919. évben Washingtonban tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a munkahiány tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XV. törvény
+- 51. az 1921. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a hajókon alkalmazott gyermekek és fiatalkorúak kötelező orvosi vizsgálata tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XVIII. törvény
+- 52. az 1919. évben Washingtonban tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a fiatalkorúak éjjeli ipari munkája tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XXVI. törvény
+- 53. az 1925. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által az üzemi balesetek kártalanítása tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XXIX. törvény
+- 54. az 1925. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a foglalkozási betegségek kártalanítása tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XXX. törvény
+- 55. az 1925. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által az idegen és a saját honos munkavállalóknak az üzemi balesetek kártalanítása szempontjából egyenlő elbánásban részesítése tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XXXI. törvény
+- 56. az 1927. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által az ipar és a kereskedelem körében foglalkoztatott munkavállalóknak és a háztartási alkalmazottaknak betegségi biztosítása tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XXXII. törvény
+- 57. a közlekedés és átmenet szabadsága tárgyában Barcelonában az 1921. évben tartott általános értekezleten megállapított egyes okmányok becikkelyezéséről szóló 1928. évi XXXIX. törvény
+- 58. a Nemzetközi Állategészségügyi Hivatal létesítése iránt Párisban, 1924. évi január hó 25-én kötött nemzetközi megállapodás becikkelyezéséről szóló 1929. évi XIII. törvény
+- 59. a közlekedés és az átmenő forgalom tárgyában 1923. évben Genfben tartott általános értekezleten megállapított okmányok becikkelyezéséről szóló 1929. évi XXII. törvény
+- 60. a háború igénybevételéről való lemondás tárgyában Párisban 1928. évi augusztus hó 27-én kötött nemzetközi szerződés becikkelyezéséről szóló 1929. évi XXXVII. törvény
+- 61. a Finnországgal Budapesten 1928. évi december hó 12. napján kötött békéltető eljárási és választott bírósági szerződés becikkelyezéséről szóló 1929. évi XXXIX. törvény
+- 62. az 1927. évben Genfben tartott Nemzetközi Értekezlet által a Nemzetközi Segélynyujtó Egyesülés tárgyában tervezett alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1929. évi XL. törvény
+- 63. az Amerikai Egyesült Államokkal Washingtonban 1929. évi január hó 26-án kötött békéltető eljárási szerződés, valamint az ugyanott ugyanazon a napon kötött választott bírósági szerződés becikkelyezéséről szóló 1929. évi XLIII. törvény
+- 64. a Törökországgal Budapesten 1929. évi január hó 5. napján kötött semlegességi, békéltető eljárási és választott bírósági szerződés becikkelyezéséről szóló 1930. évi I. törvény
+- 65. az Osztrák Köztársasággal Budapesten, 1928. évi június hó 25-én kötött adóügyi jogvédelem- és jogsegélyszerződés becikkelyezéséről szóló 1930. évi IX. törvény
+- 66. a Lengyelországgal Varsóban 1928. évi november hó 30. napján kötött békéltető eljárási és választott bírósági szerződés becikkelyezéséről szóló 1930. évi X. törvény
+- 67. a Spanyolországgal Madridban 1929. évi június hó 10. napján kötött békéltető eljárási, bírósági és választott bírósági szerződés becikkelyezéséről szóló 1930. évi XIV. törvény
+- 68. a Bulgáriával Budapesten 1929. évi július 22. napján kötött békéltető eljárási és választott bírósági szerződés becikkelyezéséről szóló 1930. évi XV. törvény
+- 69. a pestis, a kolera, a sárgaláz, a kiütéses tífusz és a himlő ellen való védekezés tárgyában kötött, Párizsban 1926. évi június hó 21-én kelt nemzetközi egyezmény becikkelyezéséről szóló 1930. évi XXXIII. törvény
+- 70. az Észtországgal Tallinnban 1929. évi november hó 27. napján kötött békéltető eljárási és választott bírósági szerződés becikkelyezéséről szóló 1930. évi XXXV. törvény
+- 71. a Genfben 1925. évi február hó 19-én kötött „Nemzetközi ópiumegyezmény” becikkelyezéséről szóló 1930. évi XXXVII. törvény
+- 72. a tengeri hajók tulajdonosainak felelősségére vonatkozólag az 1924. évi augusztus hó 25. napján Brüsszelben kelt egyezmény becikkelyezése tárgyában című 1931. évi IV. törvény
+- 73. a törvényes elsőbbségekre és tengeri jelzálogokra vonatkozólag az 1926. évi április hó 10. napján Brüsszelben kelt egyezmény becikkelyezése tárgyában című 1931. évi V. törvény
+- 74. a hajóselismervényekre vonatkozólag az 1924. évi augusztus hó 25. napján Brüsszelben kelt egyezmény becikkelyezése tárgyában című 1931. évi VI. törvény
+- 75. az 1926. évben, Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a kivándorlók hajókon történő felügyeletének egyszerűsítése tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1931. évi VII. törvény
+- 76. a Görögországgal Athénben 1930. évi május hó 5. napján kötött békéltető eljárási és választott bírósági szerződés becikkelyezéséről szóló 1931. évi X. törvény
+- 77. a Rigában 1930. évi augusztus hó 13. napján kelt magyar–lett békéltető eljárási és választott bírósági szerződés becikkelyezéséről szóló 1931. évi XII. törvény
+- 78. az irodalmi és a művészeti művek védelméről szóló római nemzetközi egyezmény becikkelyezése tárgyában című 1931. évi XXIV. törvény
+- 79. a Wienben 1931. évi január hó 26. napján kelt magyar–osztrák barátsági, békéltető eljárási és választott bírósági szerződés becikkelyezéséről szóló 1931. évi XXIX. törvény
+- 80. az irodalmi és a művészeti tulajdon tárgyában Montevideóban 1889. évi január hó 11. napján kelt nemzetközi szerződés becikkelyezéséről szóló 1931. évi XXXI. törvény
+- 81. az 1928. évben Genfben tartott nemzetközi Munkaügyi egyetemes Értekezlet által a legkisebb munkabérek megállapítására vonatkozó eljárások tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1932. évi XIX. törvény
+- 82. a rabszolgaság tárgyában Genfben, 1926. évi szeptember hó 25-én kelt nemzetközi egyezmény becikelyezéséről szóló 1933. évi III. törvény
+- 83. a kábítószerek gyártásának korlátozása és forgalombahozatalának szabályozása tárgyában Genfben 1931. évi július hó 13-án kelt nemzetközi egyezmény becikkelyezéséről szóló 1933. évi VIII. törvény
+- 84. a pénzhamisítás elnyomásáról szóló nemzetközi egyezmény becikkelyezése tárgyában című 1933. évi XI. törvény
+- 85. egyes pénzügyi kérdések tárgyában 1932. évi november hó 12-én Rómában kelt magyar–olasz megegyezés és nyilatkozat becikkelyezéséről szóló 1933. évi XV. törvény
+- 86. a külföldi áruk származási helye hamis megjelölésének megakadályozása tárgyában Madridban 1891. évi április hó 14-én kelt, Washingtonban 1911. évi június hó 2-án és Hágában 1925. évi november hó 6-án felülvizsgált nemzetközi megállapodás becikkelyezéséről szóló 1934. évi V. törvény
+- 87. a trianoni békeszerződés XIII. része („Munka”) 321. Cikkének módosításáról szóló 1935. évi I. törvény
+- 88. a szellemi együttműködés tárgyában Bécsben 1935. évi március hó 4. napján kelt magyar–osztrák egyezmény becikkelyezéséről szóló 1935. évi XIX. törvény
+- 89. az 1934. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a foglalkozási betegségek kártalanítása tárgyában tervezet alakjában elfogadott nemzetközi (módosított) egyezmény becikkelyezéséről szóló 1935. évi XXII. törvény
+- 90. a polgári jogsegély tárgyában Budapesten 1935. évi szeptember hó 25-én kelt magyar–brit egyezmény becikkelyezéséről szóló 1936. évi XIII. törvény
+- 91. az oktató jellegű filmek nemzetközi forgalmának megkönnyítése céljából Genfben 1933. évi október hó 11-én kelt nemzetközi egyezmény becikkelyezéséről szóló 1936. évi XVI. törvény
+- 92. az állami hajók mentességére vonatkozólag 1926. évi április hó 10. napján Brüsszelben kelt egyezmény becikkelyezése tárgyában című 1936. évi XX. törvény
+- 93. a nemzetközi légi fuvarozásra vonatkozó 1929. évi varsói nemzetközi egyezmény becikkelyezéséről szóló 1936. évi XXVIII. törvény
+- 94. a hadrakelt seregek sebesültjei és betegei helyzetének javítása és a hadifoglyokkal való bánásmód tárgyában Genfben 1929. évi július hó 27. napján kelt egyezmények becikkelyezéséről szóló 1936. évi XXX. törvény
+- 95. a légijáróművek biztosítási lefoglalására vonatkozó 1933. évi római nemzetközi egyezmény becikkelyezéséről szóló 1937. évi IX. törvény
+- 96. a menekült bűntettesek kölcsönös kiadatásának további rendezése tárgyában Budapesten, 1936. évi szeptember hó 18-án kelt magyar–brit pótszerződés becikkelyezéséről szóló 1937. évi XXIII. törvény
+- 97. az örökösödési illetékek tekintetében a kettős adóztatás elhárítása céljából Budapesten, 1936. évi november hó 20. napján kelt magyar–svéd egyezmény becikkelyezéséről szóló 1937. évi XXVI. törvény
+- 98. az 1929. évben Genfben tartott nemzetközi munkaügyi egyetemes értekezlet által a hajón szállított nehéz csomagok súlyának megjelölése tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1938. évi V. törvény
+- 99. Szent István király dicső emlékének megörökítéséről szóló 1938. évi XXXIII. törvény
+- 100. az 1935. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a nőknek bármilyen bányában földalatti munkára alkalmazása tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1939. évi I. törvény
+- 101. a Budapesten, 1938. évi november hó 15. napján kelt magyar–japán barátsági és szellemi együttműködési egyezmény becikkelyezéséről szóló 1940. évi I. törvény
+- 102. a Gozsdu-alapítványt érdeklő ügyek végleges rendezése tárgyában Bukarestben, 1937. évi október hó 27. napján kelt magyar–román megállapodás becikkelyezéséről szóló 1940. évi XXI. törvény
+- 103. az Ankarában, 1938. évi július hó 18. napján kelt magyar–török konzuli egyezmény becikkelyezéséről szóló 1940. évi XXV. törvény
+- 104. a szarvasmarhák törzskönyvelésének egységessé tétele tárgyában Rómában 1936. évi október hó 14. napján kelt nemzetközi egyezmény becikkelyezéséről szóló 1940. évi XXIX. törvény
+- 105. az Ankarában, 1938. évi november hó 2-án kelt magyar–iraki barátsági szerződés becikkelyezéséről szóló 1940. évi XXXII. törvény
+- 106. a Yeniköyben, 1934. évi augusztus hó 25-én kelt magyar–afgán barátsági szerződés becikkelyezéséről szóló 1940. évi XXXIII. törvény
+- 107. a szellemi és kulturális együttműködés tárgyában Budapesten, 1940. évi március hó 13. napján kelt magyar–német pótegyezmény becikkelyezéséről szóló 1940. évi XXXIV. törvény
+- 108. az irodalmi és a művészeti művek kölcsönös védelme tárgyában Berlinben, 1940. évi november hó 6. napján kelt magyar–német egyezmény becikkelyezéséről szóló 1941. évi VII. törvény
+- 109. a Teheránban, 1937. évi december hó 18-án kelt magyar–iráni barátsági és választott bírósági szerződés becikkelyezéséről szóló 1941. évi IX. törvény
+- 110. a Moszkvában az 1945. évi január hó 20. napján kötött fegyverszüneti egyezmény becikkelyezéséről szóló 1945. évi V. törvény
+- 111. a népbíráskodás tárgyában kibocsátott kormányrendeletek törvényerőre emeléséről szóló 1945. évi VII. törvény
+- 112. a Magyarország és Csehszlovákia között lakosságcsere tárgyában Budapesten 1946. évi február hó 27. napján kelt magyar–csehszlovák egyezmény becikkelyezéséről szóló 1946. évi XV. törvény
+- 113. a magyar zsidóságot ért üldözés megbélyegzéséről és következményeinek enyhítéséről szóló 1946. évi XXV. törvény
+- 114. egyes rangok és címek megszüntetéséről szóló 1947. évi IV. törvény
+- 115. a Nemzetközi Munkaügyi Szervezet alkotmánymódosításának becikkelyezéséről szóló 1947. évi VI. törvény
+- 116. a Párisban 1947. évi február hó 10. napján kelt békeszerződés becikkelyezése tárgyában című 1947. évi XVIII. törvény
+- 117. a szovjet–orosz katonai emlékművek és hősi temetők kegyeleti gondozása tárgyában című 1947. évi XIX. törvény
+- 118. a második világháború által érintett ipari tulajdonjogok fenntartása, illetőleg visszaállítása tárgyában Neuchâtelben az 1947. évi február hó 8. napján aláírt Nemzetközi Megállapodás, valamint az ahhoz tartozó Zárójegyzőkönyv és Pót-Zárójegyzőkönyv becikkelyezéséről szóló 1947. évi XXVII. törvény
+- 119. a Magyar Nemzeti Bank és a Pénzintézeti Központ I. kúriájába tartozó, részvénytársasági alapon működő pénzintézetek magyar tulajdonban levő részvényeinek állami tulajdonbavételéről szóló 1947. évi XXX. törvény
+- 120. a Budapesten 1947. évi december hó 8. napján aláírt magyar–jugoszláv barátsági, együttműködési és kölcsönös segélynyujtási szerződés becikkelyezéséről szóló 1948. évi IV. törvény
+- 121. az Egészségügyi Világszervezet Alkotmányának becikkelyezéséről szóló 1948. évi XII. törvény
+- 122. az 1848/49. évi forradalom és szabadságharc emlékének megörökítéséről szóló 1948. évi XXIII. törvény
+- 123. a Dunán való hajózás rendjének szabályozása tárgyában Belgrádban 1948. évi augusztus hó 18. napján kelt nemzetközi Egyezmény becikkelyezéséről szóló 1949. évi XIII. törvény
+- 124. a Magyar Köztársaság és a Román Népköztársaság között az állampolgárság egyes kérdéseinek szabályozása tárgyában Bukarestben, az 1949. évi február hó 10. napján kelt egyezmény becikkelyezéséről szóló 1949. évi XIV. törvény
+- 125. a polgári perrendtartásról szóló 1952. évi III. törvény
+- 126. a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény
+- 127. az Egyesült Nemzetek Alapokmányának törvénybe iktatásáról szóló 1956. évi I. törvény
+- 128. a Magyar Népköztársaság Polgári Törvénykönyvéről szóló 1959. évi IV. törvény
+- 129. a Magyar Népköztársaság és az Indonéz Köztársaság között Djakartában 1961. augusztus 23-án aláírt barátsági és együttműködési szerződés törvénybe iktatásáról szóló 1962. évi III. törvény
+- 130. a Magyar Népköztársaság és a Szovjet Szocialista Köztársaságok Szövetsége között Budapesten 1967. szeptember 7-én aláírt Barátsági, Együttműködési és Kölcsönös Segítségnyújtási Szerződés törvénybe iktatásáról szóló 1967. évi VI. törvény
+- 131. a Magyar Népköztársaság és a Csehszlovák Szocialista Köztársaság között Budapesten 1968. június 14-én aláírt Barátsági, Együttműködési és Kölcsönös Segítségnyújtási Szerződés törvénybe iktatásáról szóló 1969. évi I. törvény
+- 132. a Magyar Népköztársaság ügyészségéről szóló 1972. évi V. törvény
+- 133. a Büntető Törvénykönyvről szóló 1978. évi IV. törvény
+- 134. a sajtóról szóló 1986. évi II. törvény
+- 135. a jogalkotásról szóló 1987. évi XI. törvény
+- 136. a közúti közlekedésről szóló 1988. évi I. törvény
+- 137. a külföldiek magyarországi befektetéseiről szóló 1988. évi XXIV. törvény
+- 138. az egyesülési jogról szóló 1989. évi II. törvény
+- 139. a gyülekezési jogról szóló 1989. évi III. törvény
+- 140. a sztrájkról szóló 1989. évi VII. törvény
+- 141. az Alkotmánybíróságról szóló 1989. évi XXXII. törvény
+- 142. a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény
+- 143. az országgyűlési képviselők választásáról szóló 1989. évi XXXIV. törvény
+- 144. az 1956-os népfelkeléssel összefüggő elítélések orvoslásáról szóló 1989. évi XXXVI. törvény
+- 145. a Román Népköztársasággal az egyenesadók, valamint az öröklési illetékek tekintetében a kettős adóztatás elhárítása tárgyában Budapesten az 1948. évi augusztus hó 28. napján kelt egyezmény kihirdetéséről szóló 1949. évi 16. törvényerejű rendelet
+- 146. a bírósági és közigazgatási iratok, valamint a bírósági, gyámpénztári, közigazgatási és pénzügyi letétek kölcsönös kiszolgáltatása tárgyában a Csehszlovák Köztársasággal Vysoké Tatryban az 1950. évi február hó 22. napján kötött egyezmény kihirdetéséről szóló 1950. évi 16. törvényerejű rendelet
+- 147. a „Magyar Népköztársaság kiváló művésze” és a „Magyar Népköztársaság érdemes művésze” cím adományozásáról szóló 1950. évi 27. törvényerejű rendelet módosításáról és kiegészítéséről szóló 1952. évi 14. törvényerejű rendelet
+- 148. a polgári perrendtartásról szóló 1952. évi III. törvény hatálybaléptetéséről, végrehajtásáról szóló 1952. évi 22. törvényerejű rendelet
+- 149. a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény hatálybalépése és végrehajtása, valamint a személyi jog egyes kérdéseinek szabályozása tárgyában című 1952. évi 23. törvényerejű rendelet
+- 150. a háború áldozatainak védelmére vonatkozóan Genfben, az 1949. évi augusztus hó 12. napján kelt nemzetközi egyezményeknek a Magyar Népköztársaságban való törvényerejéről szóló 1954. évi 32. törvényerejű rendelet
+- 151. a Nemzetközi Munkaügyi Szervezet alkotmánymódosításának kihirdetéséről szóló 1955. évi 1. törvényerejű rendelet
+- 152. a nők politikai jogaira vonatkozóan New Yorkban, 1953. évi március hó 31. napján kelt nemzetközi egyezmény kihirdetéséről szóló 1955. évi 15. törvényerejű rendelet
+- 153. a népirtás bűntettének megelőzése és megbüntetése tárgyában 1948. évi december 9. napján kelt nemzetközi egyezmény kihirdetéséről szóló 1955. évi 16. törvényerejű rendelet
+- 154. a fojtó, mérges és egyéb hasonló gázok, valamint a bakteriológiai eszközök hadviselési célokra történő használatának eltiltására vonatkozóan Genfben, az 1925. évi június hó 17. napján kelt jegyzőkönyv kihirdetéséről szóló 1955. évi 20. törvényerejű rendelet
+- 155. az emberkereskedés és mások prostitúciója kihasználásának elnyomása tárgyában, New Yorkban, 1950. évi március hó 21. napján kelt nemzetközi egyezmény kihirdetéséről szóló 1955. évi 34. törvényerejű rendelet
+- 156. az egyes korábbi Kábítószer Egyezmények módosítása tárgyában New Yorkban, 1946. évi december hó 11-én kelt jegyzőkönyv kihirdetéséről szóló 1956. évi 6. törvényerejű rendelet
+- 157. a Nemzetközi Hűtéstechnikai Intézet tárgyában Párizsban, 1954. évi december hó 1. napján kelt nemzetközi egyezmény kihirdetéséről szóló 1956. évi 12. törvényerejű rendelet
+- 158. a kulturális javak fegyveres összeütközés esetén való védelme tárgyában Hágában, 1954. évi május hó 14. napján kelt nemzetközi egyezmény, valamint az ahhoz csatolt jegyzőkönyv (a kulturális javak háború idején megszállott területről való kivitelének tilalma tárgyában) kihirdetéséről szóló 1957. évi 14. törvényerejű rendelet
+- 159. az Egyesült Nemzetek kiváltságairól és mentességeiről New Yorkban, 1946. évi február hó 13. napján kelt nemzetközi egyezmény kihirdetéséről szóló 1957. évi 15. törvényerejű rendelet
+- 160. a Közúti Kereskedelmi Járművek Ideiglenes Behozatalára, a Szállítótartályokra és a Magánhasználatra szolgáló Vízijárművek és Légijárművek Ideiglenes Behozatalára vonatkozó, Genfben 1956. évi május hó 18. napján kelt nemzetközi Vámegyezmények kihirdetéséről szóló 1957. évi 30. törvényerejű rendelet
+- 161. a tartásdíj külföldön való behajtása tárgyában, New Yorkban, 1956. évi június hó 20. napján kelt nemzetközi egyezmény kihirdetéséről szóló 1957. évi 53. törvényerejű rendelet
+- 162. az Áruminták és kereskedelmi propagandaanyagok behozatalának megkönnyítésére vonatkozó, Genfben, 1952. évi november hó 7. napján kelt nemzetközi egyezmény kihirdetéséről szóló 1957. évi 59. törvényerejű rendelet
+- 163. a polgári perrendtartás egyes rendelkezéseinek módosításáról szóló 1957. évi VIII. törvény hatálybalépéséről és végrehajtásáról szóló 1958. évi 5. törvényerejű rendelet
+- 164. a Magyar Népköztársaság és a Csehszlovák Köztársaság között az államhatár rendjének szabályozása tárgyában 1956. évi október hó 13. napján Prágában aláírt szerződés kihirdetéséről szóló 1958. évi 15. törvényerejű rendelet
+- 165. a rabszolgaságra vonatkozóan Genfben, 1926. évi szeptember hó 25. napján kelt Egyezmény módosítása tárgyában New Yorkban, 1953. évi december hó 7. napján kelt Jegyzőkönyv és Melléklete, továbbá a rabszolgaság, a rabszolga kereskedés, valamint a rabszolgasághoz hasonló intézmények és gyakorlatok eltörlése tárgyában Genfben, 1956. évi szeptember hó 7. napján kelt Kiegészítő Egyezmény kihirdetéséről szóló 1958. évi 18. törvényerejű rendelet
+- 166. a Hivatalos Mérésügyi Nemzetközi Szervezet létesítése tárgyában Párizsban, 1955. évi október hó 12-én kelt egyezmény kihirdetéséről szóló 1958. évi 24. törvényerejű rendelet
+- 167. a Magyar Népköztársaság és a Szovjet Szocialista Köztársaságok Szövetsége között a vámkérdésekben történő együttműködésről és kölcsönös segítségnyújtásról Budapesten, az 1958. évi július hó 21. napján aláírt egyezmény kihirdetéséről szóló 1958. évi 36. törvényerejű rendelet
+- 168. a Magyar Népköztársaság és a Szovjet Szocialista Köztársaságok Szövetsége között a polgári, családjogi és bűnügyi jogsegély tárgyában Moszkvában, 1958. évi július hó 15. napján aláírt szerződés kihirdetéséről szóló 1958. évi 38. törvényerejű rendelet
+- 169. a Magyar Népköztársaság Kormánya és a Jugoszláv Szövetségi Népköztársaság Kormánya között a fertőző betegségek megelőzése és leküzdése tárgyában Belgrádban, 1957. évi november hó 20. napján aláírt egyezmény kihirdetéséről szóló 1959. évi 2. törvényerejű rendelet
+- 170. a Magyar Népköztársaság és a Román Népköztársaság között a polgári, családjogi és bűnügyi jogsegély tárgyában Bukarestben 1958. évi október hó 7. napján aláírt szerződés kihirdetéséről szóló 1959. évi 19. törvényerejű rendelet
+- 171. a Magyar Népköztársaság Kormánya és a Jugoszláv Szövetségi Népköztársaság Kormánya között állampolgáraik szociális biztonságával kapcsolatos kérdések rendezése tárgyában Budapesten, az 1957. évi október hó 7. napján kötött egyezmény kihirdetéséről szóló 1959. évi 20. törvényerejű rendelet
+- 172. a Magyar Népköztársaság és az Osztrák Köztársaság között a határvidék vízgazdálkodási kérdéseinek szabályozása tárgyában Bécsben, az 1956. évi április hó 9. napján aláírt egyezmény kihirdetéséről szóló 1959. évi 32. törvényerejű rendelet
+- 173. a Magyar Népköztársaság és a Csehszlovák Köztársaság között szociálpolitikai együttműködésről Budapesten az 1959. évi január hó 30. napján kötött egyezmény kihirdetéséről szóló 1959. évi 41. törvényerejű rendelet
+- 174. a férjezett nők állampolgárságáról szóló, New-Yorkban, 1957. évi február hó 20. napján kelt nemzetközi egyezmény kihirdetéséről szóló 1960. évi 2. törvényerejű rendelet
+- 175. a Magyar Népköztársaság és a Lengyel Népköztársaság között a polgári, családjogi és bűnügyi jogsegély tárgyában, Budapesten, 1959. évi március hó 6. napján aláírt szerződés kihirdetéséről szóló 1960. évi 5. törvényerejű rendelet
+- 176. a Polgári Törvénykönyv hatálybalépéséről és végrehajtásáról szóló 1960. évi 11. törvényerejű rendelet
+- 177. a gépjármű alkatrészek és tartozékok minőségének jóváhagyására vonatkozó egységes feltételek elfogadásáról és a minőségi jóváhagyás kölcsönös elismeréséről szóló, Genfben 1958. március 20-án aláírt többoldalú nemzetközi egyezmény kihirdetéséről szóló 1960. évi 21. törvényerejű rendelet
+- 178. a Magyar Népköztársaság és az Albán Népköztársaság között a polgári, családjogi és bűnügyi jogsegély tárgyában Tiranában 1960. évi január hó 12. napján aláírt szerződés kihirdetéséről szóló 1960. évi 25. törvényerejű rendelet
+- 179. a Kölcsönös Gazdasági Segítség Tanácsának XII. ülésszakán Szófiában 1959. évi december hó 14. napján az állategészségügy terén történő együttműködésről aláírt egyezmény kihirdetéséről szóló 1961. évi 8. törvényerejű rendelet
+- 180. a Kölcsönös Gazdasági Segítség Tanácsának XII. ülésszakán, Szófiában 1959. december 14-én aláírt, a zárszolgálat, valamint a növények kártevőktől és betegségektől való védelme terén történő együttműködésről szóló nemzetközi egyezmény kihirdetéséről szóló 1962. évi 3. törvényerejű rendelet
+- 181. a Duna halászati hasznosítására vonatkozólag Bukarestben, 1958. január 29. napján kötött egyezmény kihirdetéséről szóló 1962. évi 9. törvényerejű rendelet
+- 182. az ipari tulajdon oltalmára létesült uniós egyezmények Londonban az 1934. évi június hó 2. napján felülvizsgált szövegének kihirdetéséről szóló 1962. évi 17. törvényerejű rendelet
+- 183. a külföldi választottbírósági határozatok elismeréséről és végrehajtásáról szóló, New Yorkban 1958. június 10-én kelt Egyezmény kihirdetéséről szóló 1962. évi 25. törvényerejű rendelet
+- 184. a nyílt tengerről szóló, Genfben, 1958. április 29-én aláírt szerződés kihirdetéséről szóló 1963. évi 6. törvényerejű rendelet
+- 185. a Genfben, 1950. évi szeptember hó 16. napján kelt, a nemzetközi főútvonalak építésére vonatkozó Nyilatkozat kihirdetéséről szóló 1963. évi 7. törvényerejű rendelet
+- 186. a kiállításon, vásáron, kongresszuson, vagy hasonló esemény alkalmával bemutatandó, vagy felhasználandó áruk behozatalánál engedélyezett kedvezményekre, valamint a munkaeszközök vámelőjegyzésben történő behozatalára vonatkozóan Brüsszelben, 1961. június 8-án létrejött vámegyezmények kihirdetéséről szóló 1963. évi 8. törvényerejű rendelet
+- 187. a Magyar Népköztársaság és a Szovjet Szocialista Köztársaságok Szövetsége között a szociális ellátás területén való együttműködés tárgyában Budapesten, az 1962. december 20-án kötött egyezmény kihirdetéséről szóló 1963. évi 16. törvényerejű rendelet
+- 188. a nemzetközi fuvarozásnál használatos rakodólapok vámkezeléséről Genfben, 1960. december 9-én kelt európai egyezmény kihirdetéséről szóló 1963. évi 23. törvényerejű rendelet
+- 189. a légkörben, a világűrben és a víz alatt végzett nukleáris fegyverkísérletek betiltása tárgyában Moszkvában, 1963. augusztus 5-én létrejött szerződés kihirdetéséről szóló 1963. évi 26. törvényerejű rendelet
+- 190. a Kiadványok Nemzetközi Cseréjéről, valamint a Hivatalos Kiadványok és Hatósági Irományok Államok Közötti Cseréjéről szóló egyezmények kihirdetéséről szóló 1963. évi 30. törvényerejű rendelet
+- 191. a turistaforgalom vámkönnyítéseiről szóló, New Yorkban 1954. június 4-én kelt Egyezmény, valamint az Egyezmény Kiegészítő Jegyzőkönyvének kihirdetéséről szóló 1964. évi 2. törvényerejű rendelet
+- 192. a Magyar Népköztársaság és a Jugoszláv Szövetségi Népköztársaság között Belgrádban, 1963. február 20-án aláírt Konzuli Egyezmény kihirdetéséről szóló 1964. évi 3. törvényerejű rendelet
+- 193. a nemzetközi kereskedelmi választottbíráskodásról szóló, Genfben 1961. április 21-én kelt Európai Egyezmény kihirdetéséről szóló 1964. évi 8. törvényerejű rendelet
+- 194. a Duna Bizottság kiváltságairól és mentességeiről szóló, Budapesten 1963. május 15-én aláírt nemzetközi egyezmény kihirdetéséről szóló 1964. évi 10. törvényerejű rendelet
+- 195. az oktatásban alkalmazott megkülönböztetés elleni küzdelemről szóló egyezmény kihirdetéséről szóló 1964. évi 11. törvényerejű rendelet
+- 196. a Budapesten, 1964. május 27-én aláírt, a Magyar Népköztársaság Kormánya és a Duna Bizottság között „a Duna Bizottság székhelyéről a Magyar Népköztársaságban” tárgyban kötött Egyezmény kihirdetéséről szóló 1964. évi 14. törvényerejű rendelet
+- 197. a nemzetközi légifuvarozásra vonatkozó egyes jogszabályok egységesítése tárgyában Varsóban, 1929. október 12-én aláírt egyezmény módosításáról Hágában, 1955. évi szeptember 28-án kelt jegyzőkönyv kihirdetéséről szóló 1964. évi 19. törvényerejű rendelet
+- 198. a Magyar Népköztársaság és a Csehszlovák Szocialista Köztársaság között Prágában, 1963. december 20-án aláírt kereskedelmi és hajózási szerződés kihirdetéséről szóló 1964. évi 25. törvényerejű rendelet
+- 199. a Magyar Népköztársaság és a Jemeni Arab Köztársaság közötti barátságról és együttműködésről Budapesten, 1964. május 30-án aláírt Szerződés kihirdetéséről szóló 1964. évi 28. törvényerejű rendelet
+- 200. a parti tengerről és a csatlakozó övezetről szóló, Genfben, 1958. április 29-én aláírt szerződés kihirdetéséről szóló 1964. évi 31. törvényerejű rendelet
+- 201. a Genfben, 1930. június 7-én megkötött váltójogi egyezmények kihirdetéséről szóló 1965. évi 1. törvényerejű rendelet
+- 202. a Genfben, 1931. március 19-én megkötött csekkjogi egyezmények kihirdetéséről szóló 1965. évi 2. törvényerejű rendelet
+- 203. a New-Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény kihirdetéséről szóló 1965. évi 4. törvényerejű rendelet
+- 204. a gyermektartási kötelezettség tárgyában hozott határozatok elismeréséről és végrehajtásáról szóló, Hágában, 1958. április 15-én aláírt egyezmény kihirdetéséről szóló 1965. évi 7. törvényerejű rendelet
+- 205. a Magyar Népköztársaság és az Osztrák Köztársaság között a közös államhatár láthatóságának biztosításáról és az ezzel összefüggő kérdések szabályozásáról Budapesten, 1964. október 31-én aláírt szerződés kihirdetéséről szóló 1965. évi 10. törvényerejű rendelet
+- 206. a Magyar Népköztársaság és az Osztrák Köztársaság között a közös államhatáron előforduló események kivizsgálásával kapcsolatos eljárásról Budapesten, 1964. október 31-én aláírt szerződés kihirdetéséről szóló 1965. évi 11. törvényerejű rendelet
+- 207. a diplomáciai kapcsolatokról Bécsben, 1961. április 18-án aláírt nemzetközi szerződés kihirdetéséről szóló 1965. évi 22. törvényerejű rendelet
+- 208. az áruk előjegyzési eljárásban való behozatalához szükséges, Brüsszelben 1961. december 6-án kötött A. T. A.-igazolványról, valamint a kereskedelmi minták E. C. S. igazoló füzeteire vonatkozó, Brüsszelben 1956. március 1-jén megkötött és a Vámegyüttműködési Tanács ajánlására 1960. június 15-én módosított Vámegyezmények kihirdetéséről szóló 1966. évi 5. törvényerejű rendelet
+- 209. a polgári eljárásra vonatkozó, Hágában 1954. március 1-jén kelt nemzetközi egyezmény kihirdetéséről szóló 1966. évi 8. törvényerejű rendelet
+- 210. a Bolgár Népköztársaság, a Csehszlovák Szocialista Köztársaság, a Lengyel Népköztársaság, a Német Demokratikus Köztársaság, a Magyar Népköztársaság és a Szovjet Szocialista Köztársaságok Szövetségének kormányai között a közúti gépjárművel lebonyolított nemzetközi árufuvarozás vámkezeléséről Prágában, 1965. november 19-én megkötött egyezmény kihirdetéséről szóló 1966. évi 9. törvényerejű rendelet
+- 211. a Magyar Népköztársaság Kormánya és a Lengyel Népköztársaság Kormánya között a nemzetközi gépjármű-fuvarozás tárgyában Budapesten, 1965. évi július hó 18. napján aláírt Egyezmény kihirdetéséről szóló 1966. évi 10. törvényerejű rendelet
+- 212. a Magyar Népköztársaság Kormánya és a Görög Királyság Kormánya között a polgári repülés tárgyában Athénban, 1963. évi április hó 27. napján aláírt Egyezmény kihirdetéséről szóló 1966. évi 11. törvényerejű rendelet
+- 213. a Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Kormánya között a tengeri úton, a Jugoszláv Szocialista Szövetségi Köztársaságon át szállított, átmenő (tranzit) növényi küldemények növényegészségügyi ellenőrzésének végrehajtásáról Budapesten, 1965. évi június hó 25. napján aláírt kiegészítő egyezmény kihirdetéséről szóló 1966. évi 18. törvényerejű rendelet
+- 214. a Magyar Népköztársaság Kormánya és az Etióp Császárság Kormánya között a területeik közötti és az azokon túli légi járatok tárgyában Addis Abebában 1965. május 25-én aláírt egyezmény kihirdetéséről szóló 1966. évi 25. törvényerejű rendelet
+- 215. a Magyar Népköztársaság és a Bolgár Népköztársaság között a polgári, családjogi és bűnügyi jogsegély tárgyában Szófiában, az 1966. évi május hó 16. napján aláírt szerződés kihirdetéséről szóló 1967. évi 6. törvényerejű rendelet
+- 216. az ipari tulajdon oltalmára létesült uniós egyezmények Lisszabonban az 1958. évi október 31. napján és Nizzában az 1957. évi június 15. napján felülvizsgált, illetve létrehozott szövegének kihirdetéséről szóló 1967. évi 7. törvényerejű rendelet
+- 217. a Magyar Népköztársaság Kormánya és a Francia Köztársaság Kormánya között a nemzetközi közúti fuvarozás tárgyában Budapesten, 1966. évi október hó 8. napján aláírt Megállapodás kihirdetéséről szóló 1967. évi 12. törvényerejű rendelet
+- 218. a Magyar Népköztársaság Kormánya és a Csehszlovák Szocialista Köztársaság Kormánya között a légi járatok tárgyában Budapesten, 1966. évi április hó 27. napján aláírt Egyezmény kihirdetéséről szóló 1967. évi 16. törvényerejű rendelet
+- 219. a Magyar Népköztársaság Kormánya és a Szovjet Szocialista Köztársaságok Szövetsége Kormánya között a nemzetközi gépjárműközlekedés tárgyában Budapesten, 1966. évi március hó 19. napján aláírt Egyezmény kihirdetéséről szóló 1967. évi 17. törvényerejű rendelet
+- 220. a Magyar Népköztársaság Kormánya és a Belga Királyság Kormánya között a kereskedelmi járművekkel végzett közúti személy- és árufuvarozás tárgyában Brüsszelben, 1967. évi március hó 20. napján aláírt Megállapodás kihirdetéséről szóló 1967. évi 18. törvényerejű rendelet
+- 221. a Nemzetközi Atomenergia Ügynökség kiváltságairól és mentességeiről Bécsben, 1959. július 1-jén létrejött Egyezmény kihirdetéséről szóló 1967. évi 22. törvényerejű rendelet
+- 222. az Egyesült Nemzetek szakosított intézményeinek kiváltságairól és mentességeiről New Yorkban 1947. november 21-én kelt Egyezmény kihirdetéséről szóló 1967. évi 23. törvényerejű rendelet
+- 223. a Magyar Népköztársaság és az Osztrák Köztársaság között a kölcsönös polgári jogsegélyforgalomról és az okiratokról Bécsben, az 1965. évi április hónap 9. napján aláírt szerződés kihirdetéséről szóló 1967. évi 24. törvényerejű rendelet
+- 224. a Magyar Népköztársaság és az Osztrák Köztársaság között a hagyatéki ügyek szabályozásáról Bécsben, az 1965. évi április hó 9. napján aláírt szerződés kihirdetéséről szóló 1967. évi 25. törvényerejű rendelet
+- 225. az Egyetemes Postaegyesület 1964. évi július hó 10. napján Bécsben aláírt Alapokmányának kihirdetéséről szóló 1967. évi 26. törvényerejű rendelet
+- 226. a nemzetközi ágazati gazdasági együttműködési szervezetek jogállásáról és kiváltságairól Varsóban 1966. szeptember 9-én elfogadott egyezmény kihirdetéséről szóló 1967. évi 30. törvényerejű rendelet
+- 227. a Magyar Népköztársaság és a Francia Köztársaság között Budapesten 1966. július 28-án aláírt konzuli egyezmény kihirdetéséről szóló 1967. évi 33. törvényerejű rendelet
+- 228. a „Szerződés az államok tevékenységét szabályozó elvekről a világűr kutatása és felhasználása terén, beleértve a Holdat és más égitesteket” című, Moszkvában, Londonban és Washingtonban 1967. január 27-én aláírt szerződés kihirdetéséről szóló 1967. évi 41. törvényerejű rendelet
+- 229. a Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Kormánya között az egészségügyi együttműködés tárgyában Budapesten 1966. évi szeptember hó 26. napján aláírt egyezmény kihirdetéséről szóló 1968. évi 1. törvényerejű rendelet
+- 230. a transzferábilis rubelben lebonyolódó sokoldalú elszámolások, valamint a Nemzetközi Gazdasági Együttműködési Bank megalapítása tárgyában Moszkvában 1963. október 22-én aláírt Egyezmény és a Nemzetközi Gazdasági Együttműködési Bank Alapszabályának kihirdetéséről szóló 1968. évi 2. törvényerejű rendelet
+- 231. a Magyar Népköztársaság Kormánya és az Egyesült Arab Köztársaság Kormánya között az egészségügyi együttműködés tárgyában Kairóban 1965. évi június hó 17. napján aláírt egyezmény kihirdetéséről szóló 1968. évi 9. törvényerejű rendelet
+- 232. a Magyar Népköztársaság Kormánya és India Kormánya között a légijáratok tárgyában Új-Delhiben, 1966. évi február hó 23. napján aláírt Egyezmény kihirdetéséről szóló 1968. évi 11. törvényerejű rendelet
+- 233. a Magyar Népköztársaság és a Ciprusi Köztársaság között a légiszállítás tárgyában Nicosiában, 1964. évi június 2. napján aláírt Egyezmény kihirdetéséről szóló 1968. évi 18. törvényerejű rendelet
+- 234. a Magyar Népköztársaság Kormánya és a Finn Köztársaság Kormánya között a nemzetközi közúti fuvarozás tárgyában Helsinkiben, 1967. évi november hó 10. napján aláírt Egyezmény kihirdetéséről szóló 1968. évi 24. törvényerejű rendelet
+- 235. a Magyar Népköztársaság Kormánya és a Vietnami Demokratikus Köztársaság Kormánya között az egészségügyi együttműködés tárgyában Hanoiban, az 1967. évi december hó 20. napján aláírt Egyezmény kihirdetéséről szóló 1968. évi 26. törvényerejű rendelet
+- 236. a Magyar Népköztársaság Kormánya és a Török Köztársaság Kormánya között Ankarában, 1966. évi június hó 28. napján aláírt légügyi egyezmény kihirdetéséről szóló 1968. évi 28. törvényerejű rendelet
+- 237. a Magyar Népköztársaság Kormánya és a Román Szocialista Köztársaság Kormánya között a vámügyekben történő együttműködésről Bukarestben 1968. február 1-jén megkötött Egyezmény kihirdetéséről szóló 1968. évi 29. törvényerejű rendelet
+- 238. a Magyar Népköztársaság Kormánya és az Olasz Köztársaság Kormánya között a nemzetközi közúti személy- és árufuvarozás tárgyában Rómában, 1968. évi március hó 1. napján aláírt Megállapodás kihirdetéséről szóló 1968. évi 31. törvényerejű rendelet
+- 239. a Magyar Népköztársaság és a Svájci Államszövetség között a menetrendszerű légiközlekedés tárgyában Budapesten, 1967. évi július hó 19. napján aláírt Egyezmény kihirdetéséről szóló 1968. évi 34. törvényerejű rendelet
+- 240. a Magyar Népköztársaság és a Jugoszláv Szocialista Szövetségi Köztársaság között a kölcsönös jogsegélyről szóló, Belgrádban, az 1968. évi március hó 7. napján aláírt szerződés kihirdetéséről szóló 1969. évi 1. törvényerejű rendelet
+- 241. a Vámegyüttműködési Tanács létrehozásáról szóló, Brüsszelben 1950. december 15-én megkötött nemzetközi Egyezmény kihirdetéséről szóló 1969. évi 2. törvényerejű rendelet
+- 242. a faji megkülönböztetés valamennyi formájának kiküszöböléséről New Yorkban 1965. december 21-én elfogadott nemzetközi egyezmény kihirdetéséről szóló 1969. évi 8. törvényerejű rendelet
+- 243. a New Yorkban 1965. július 8-án kelt, a szárazföldi államok átmenő kereskedelméről szóló Egyezmény kihirdetéséről szóló 1969. évi 10. törvényerejű rendelet
+- 244. a Magyar Népköztársaság és a Mongol Népköztársaság között a polgári, családjogi és bűnügyi jogsegélyről szóló, Budapesten az 1968. évi november hó 22. napján aláírt szerződés kihirdetéséről szóló 1969. évi 11. törvényerejű rendelet
+- 245. a Magyar Népköztársaság és a Tunéziai Köztársaság között a légiszállítások tárgyában Budapesten, 1968. évi június hó 17. napján aláírt Egyezmény kihirdetéséről szóló 1969. évi 13. törvényerejű rendelet
+- 246. a Magyar Népköztársaság Kormánya és a Kubai Köztársaság Kormánya között az egészségügyi együttműködés tárgyában Budapesten 1966. június 15. napján aláírt egyezmény kihirdetéséről szóló 1969. évi 16. törvényerejű rendelet
+- 247. az űrhajósok mentéséről, az űrhajósok hazaküldéséről és a világűrbe felbocsátott objektumok visszaszolgáltatásáról szóló nemzetközi egyezmény kihirdetéséről szóló 1969. évi 22. törvényerejű rendelet
+- 248. a Magyar Népköztársaság Kormánya és a Török Köztársaság Kormánya között a nemzetközi közúti fuvarozás tárgyában Budapesten, 1968. évi szeptember hó 14. napján aláírt egyezmény kihirdetéséről szóló 1969. évi 29. törvényerejű rendelet
+- 249. a Magyar Népköztársaság Kormánya és a Szovjet Szocialista Köztársaságok Szövetségének Kormánya között a légiközlekedésről szóló, Budapesten, 1968. évi december hó 2. napján aláírt Egyezmény kihirdetéséről szóló 1969. évi 30. törvényerejű rendelet
+- 250. az Egyesült Nemzetek Szervezete Közgyűlésének XXII. ülésszakán, 1968. június 12-én elhatározott, a nukleáris fegyverek elterjedésének megakadályozásáról szóló szerződés kihirdetéséről szóló 1970. évi 12. törvényerejű rendelet
+- 251. a Magyar Népköztársaság Kormánya és a Bolgár Népköztársaság Kormánya között a légiközlekedés tárgyában Szófiában, 1969. évi augusztus hó 29. napján aláírt Egyezmény kihirdetéséről szóló 1970. évi 13. törvényerejű rendelet
+- 252. a Magyar Népköztársaságnak New Yorkban, 1965. április 14-én kelt Harmadik Nemzetközi Ónegyezményhez való csatlakozása kihirdetéséről szóló 1970. évi 14. törvényerejű rendelet
+- 253. az ipari tulajdon oltalmára létesült uniós egyezmények 1967. július 14-én Stockholmban felülvizsgált, illetve létrehozott szövegének kihirdetéséről szóló 1970. évi 18. törvényerejű rendelet
+- 254. a Magyar Népköztársaság és a Luxemburgi Nagyhercegség között a légiközlekedés tárgyában Budapesten, 1964. évi november hó 3. napján aláírt Egyezmény kihirdetéséről szóló 1970. évi 27. törvényerejű rendelet
+- 255. a Magyar Népköztársaság Kormánya és a Csehszlovák Szocialista Köztársaság Kormánya között a nemzetközi közúti fuvarozás tárgyában Budapesten, 1969. évi április hó 12. napján aláírt egyezmény kihirdetéséről szóló 1970. évi 29. törvényerejű rendelet
+- 256. a Magyar Népköztársaság és a Marokkói Királyság között a légi szállítások tárgyában Rabatban, 1967. évi március hó 21. napján aláírt Egyezmény kihirdetéséről szóló 1970. évi 31. törvényerejű rendelet
+- 257. a Magyar Népköztársaság Kormánya és a Francia Köztársaság Kormánya között Párizsban, az 1970. évi február hó 17. napján aláírt, a filmek együttes készítéséről és filmek cseréjéről szóló egyezmény kihirdetéséről szóló 1970. évi 33. törvényerejű rendelet
+- 258. a háborús, és az emberiség elleni bűntettek elévülésének kizárásáról az Egyesült Nemzetek Szervezetének Közgyűlése által New Yorkban az 1968. évi november hó 26. napján elfogadott nemzetközi egyezmény kihirdetéséről szóló 1971. évi 1. törvényerejű rendelet
+- 259. a „Nemzetközi Közúti Árufuvarozási Szerződésről” szóló, Genfben, az 1956. évi május hó 19. napján kelt Egyezmény kihirdetéséről szóló 1971. évi 3. törvényerejű rendelet
+- 260. az 1952. évi szeptember hó 6. napján Genfben aláírt Egyetemes Szerzői Jogi Egyezmény kihirdetéséről szóló 1971. évi 4. törvényerejű rendelet
+- 261. a Magyar Népköztársaság és a Koreai Népi Demokratikus Köztársaság között Phenjanban 1970. október 5-én aláírt konzuli egyezmény kihirdetéséről szóló 1971. évi 5. törvényerejű rendelet
+- 262. a Nemzetközi Beruházási Bank megalapítása tárgyában Moszkvában, 1970. július hó 10. napján aláírt Egyezmény és az Egyezményhez csatolt Bank-Alapszabály kihirdetéséről szóló 1971. évi 7. törvényerejű rendelet
+- 263. a Magyar Népköztársaság és a Koreai Népi Demokratikus Köztársaság között a polgári, családjogi és bűnügyi jogsegélyről szóló, Phenjanban az 1970. évi október hó 5. napján aláírt szerződés kihirdetéséről szóló 1971. évi 12. törvényerejű rendelet
+- 264. a Magyar Népköztársaság Kormánya és az Osztrák Szövetségi Kormány között az útlevél- és vámkezelésről 1965. április 9-én aláírt Egyezmény végrehajtására Bécsben 1971. április 28-án megkötött Megállapodás kihirdetéséről szóló 1971. évi 13. törvényerejű rendelet
+- 265. a Magyar Népköztársaság Kormánya és a Holland Királyság Kormánya között a nemzetközi közúti fuvarozás tárgyában Budapesten, az 1970. évi július 31. napján aláírt Egyezmény kihirdetéséről szóló 1971. évi 17. törvényerejű rendelet
+- 266. a Magyar Népköztársaság és a Szudáni Demokratikus Köztársaság között területeik között és azon túl való légijáratok létesítése tárgyában Khartoumban, az 1970. évi augusztus hó 23. napján aláírt Egyezmény kihirdetéséről szóló 1971. évi 18. törvényerejű rendelet
+- 267. a légijárművek fedélzetén elkövetett bűncselekményekről és egyéb cselekményekről szóló Tokióban, az 1963. évi szeptember hó 14. napján kelt Egyezmény kihirdetéséről szóló 1971. évi 24. törvényerejű rendelet
+- 268. a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény és az annak módosításáról szóló jegyzőkönyvek kihirdetéséről szóló 1971. évi 25. törvényerejű rendelet
+- 269. az autóbusszal végzett nemzetközi személyfuvarozás általános feltételeiről szóló, Berlinben, az 1970. évi december 5. napján kelt Egyezmény kihirdetéséről szóló 1971. évi 29. törvényerejű rendelet
+- 270. a Magyar Népköztársaság Kormánya és a Libanoni Köztársaság Kormánya között a polgári légiközlekedés tárgyában Beirutban, az 1966. évi január hó 15. napján aláírt Egyezmény kihirdetéséről szóló 1971. évi 36. törvényerejű rendelet
+- 271. a Magyar Népköztársaság és Nagy-Britannia és Észak-Írország Egyesült Királyság között Budapesten 1971. március 12-én aláírt konzuli egyezmény kihirdetéséről szóló 1971. évi 37. törvényerejű rendelet
+- 272. a Magyar Népköztársaság Kormánya és a Svéd Királyság Kormánya között a nemzetközi közúti fuvarozás tárgyában Budapesten, az 1970. évi augusztus hó 28. napján aláírt Egyezmény kihirdetéséről szóló 1972. évi 4. törvényerejű rendelet
+- 273. a Genfben 1970. május 15-én kelt Negyedik Nemzetközi Ónegyezménynek a Magyar Népköztársaság által történt megerősítése kihirdetéséről szóló 1972. évi 5. törvényerejű rendelet
+- 274. a Magyar Népköztársaság Kormánya és Nagy- Britannia és Észak-Írország Egyesült Királyság Kormánya között a nemzetközi közúti árufuvarozás tárgyában Budapesten, az 1970. évi február hó 23. napján aláírt Egyezmény kihirdetéséről szóló 1972. évi 7. törvényerejű rendelet
+- 275. a légi járművek jogellenes hatalomba kerítésének leküzdéséről Hágában, az 1970. évi december hó 16. napján aláírt Egyezmény kihirdetéséről szóló 1972. évi 8. törvényerejű rendelet
+- 276. a Magyar Népköztársaság és a Nemzetközi Atomenergia Ügynökség között a nukleáris fegyverek elterjedésének megakadályozásáról szóló szerződés szerinti biztosítékok alkalmazásáról Bécsben 1972. március 6-án aláírt egyezmény kihirdetéséről szóló 1972. évi 9. törvényerejű rendelet
+- 277. a Magyar Népköztársaság és a Bolgár Népköztársaság között Budapesten 1971. november 26-án aláírt konzuli egyezmény kihirdetéséről szóló 1972. évi 14. törvényerejű rendelet
+- 278. a Magyar Népköztársaság és a Szovjet Szocialista Köztársaságok Szövetsége között a polgári, családjogi és bűnügyi jogsegély tárgyában Moszkvában, az 1958. évi július hó 15. napján aláírt szerződés módosításáról és kiegészítéséről szóló, Budapesten az 1971. évi október hó 19. napján aláírt jegyzőkönyv kihirdetéséről szóló 1972. évi 18. törvényerejű rendelet
+- 279. a Magyar Népköztársaság Kormánya és a Kubai Köztársaság Kormánya között Budapesten 1969. július 24-én aláírt konzuli egyezmény kihirdetéséről szóló 1972. évi 22. törvényerejű rendelet
+- 280. az INTERSZPUTNYIK Nemzetközi Űrtávközlési Rendszer és Szervezet létrehozásáról szóló megállapodás kihirdetéséről szóló 1972. évi 23. törvényerejű rendelet
+- 281. a polgári perrendtartás módosításáról szóló 1972. évi 26. törvényerejű rendelet
+- 282. a nukleáris és más tömegpusztító fegyverek tengerfenéken és óceánfenéken, valamint ezek altalajában való elhelyezésének tilalmáról, az Egyesült Nemzetek Szervezete Közgyűlésének XXV. ülésszakán 1970. december 7-én elfogadott szerződés kihirdetéséről szóló 1972. évi 28. törvényerejű rendelet
+- 283. a Magyar Népköztársaság és a Finn Köztársaság között, Helsinkiben, 1971. augusztus 24-én aláírt konzuli egyezmény kihirdetéséről szóló 1973. évi 2. törvényerejű rendelet
+- 284. az űrobjektumok által okozott károkért való nemzetközi felelősségről szóló, az Egyesült Nemzetek Szervezete Közgyűlésének XXVI. ülésszakán 1971. november 29-én elfogadott egyezmény kihirdetéséről szóló 1973. évi 3. törvényerejű rendelet
+- 285. a diplomáciai vagy egyéb mentesség esetében szükséges eljárásról szóló 1973. évi 7. törvényerejű rendelet
+- 286. a Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Kormánya között a vasúti határforgalom szabályozásáról Budapesten, az 1972. évi március hó 16. napján aláírt egyezmény kihirdetéséről szóló 1973. évi 8. törvényerejű rendelet
+- 287. a külföldön felhasználásra kerülő közokiratok diplomáciai vagy konzuli hitelesítésének (felülhitelesítésének) mellőzéséről Hágában, az 1961. október 5. napján kelt egyezmény kihirdetéséről szóló 1973. évi 11. törvényerejű rendelet
+- 288. a nemzetközi légijáratok átmenő forgalmáról Chicagóban, az 1944. évi december hó 7. napján aláírt egyezmény kihirdetéséről szóló 1973. évi 15. törvényerejű rendelet
+- 289. a Magyar Népköztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között Washingtonban, az 1972. évi május hó 30. napján aláírt légügyi egyezmény kihirdetéséről szóló 1973. évi 16. törvényerejű rendelet
+- 290. a polgári repülés biztonsága elleni jogellenes cselekmények leküzdéséről Montrealban, az 1971. évi szeptember hó 23. napján aláírt egyezmény kihirdetéséről szóló 1973. évi 17. törvényerejű rendelet
+- 291. a kézi lőfegyverek próbabélyegeinek kölcsönös elismeréséről Brüsszelben, 1969. július 1-jén kötött nemzetközi Egyezmény kihirdetéséről szóló 1973. évi 19. törvényerejű rendelet
+- 292. a Magyar Népköztársaság és az Amerikai Egyesült Államok között Budapesten, az 1972. évi július hó 7. napján aláírt konzuli egyezmény kihirdetéséről szóló 1973. évi 22. törvényerejű rendelet
+- 293. a belvízi hajók összeütközésével kapcsolatos felelősség egyes szabályainak egységesítéséről Genfben, az 1960. évi március hó 15. napján aláírt egyezmény kihirdetéséről szóló 1973. évi 28. törvényerejű rendelet
+- 294. egyes iparjogvédelmi uniós megállapodások kihirdetéséről szóló 1973. évi 29. törvényerejű rendelet
+- 295. a Magyar Népköztársaság és a Lengyel Népköztársaság között Varsóban, 1973. június 5-én aláírt konzuli egyezmény és az egyezményhez tartozó jegyzőkönyv kihirdetéséről szóló 1974. évi 2. törvényerejű rendelet
+- 296. a Magyar Népköztársaság és a Csehszlovák Szocialista Köztársaság között Budapesten, 1973. május 17-én aláírt konzuli egyezmény és az egyezményhez tartozó jegyzőkönyv kihirdetéséről szóló 1974. évi 4. törvényerejű rendelet
+- 297. az Egyesült Nemzetek Alapokmánya egyes rendelkezései módosításának kihirdetéséről szóló 1974. évi 18. törvényerejű rendelet
+- 298. a tengeri kereskedelmi hajózásban megvalósuló együttműködésről szóló egyezmény kihirdetéséről szóló 1974. évi 19. törvényerejű rendelet
+- 299. a Magyar Népköztársaság és a Mongol Népköztársaság között Budapesten, 1974. június 27-én aláírt konzuli egyezmény és az egyezményhez tartozó jegyzőkönyv kihirdetéséről szóló 1975. évi 1. törvényerejű rendelet
+- 300. a Magyar Népköztársaság és a Román Szocialista Köztársaság között Bukarestben, 1973. november 28-án aláírt konzuli egyezmény kihirdetéséről szóló 1975. évi 2. törvényerejű rendelet
+- 301. az Egyetemes Szerzői Jogi Egyezmény Párizsban, 1971. évi július hó 24. napján felülvizsgált szövegének kihirdetéséről szóló 1975. évi 3. törvényerejű rendelet
+- 302. az irodalmi és a művészeti művek védelméről szóló 1886. szeptember 9-i Berni Egyezmény Párizsban, az 1971. évi július hó 24. napján felülvizsgált szövegének kihirdetéséről szóló 1975. évi 4. törvényerejű rendelet
+- 303. a gazdasági és tudományos-műszaki együttműködés során a találmányok, ipari, használati minták és védjegyek jogi oltalmáról szóló megállapodás kihirdetéséről szóló 1975. évi 8. törvényerejű rendelet
+- 304. a Magyar Népköztársaság és az Olasz Köztársaság között Rómában, 1969. október 16-án aláírt konzuli egyezmény kihirdetéséről szóló 1975. évi 10. törvényerejű rendelet
+- 305. a bakteriológiai (biológiai) és toxin-fegyverek kifejlesztésének, előállításának és tárolásának megtiltásáról és e fegyverek megsemmisítéséről szóló, az Egyesült Nemzetek Szervezete XXVI. ülésszakán, 1971. december 10-én elfogadott egyezmény kihirdetéséről szóló 1975. évi 11. törvényerejű rendelet
+- 306. az Egyetemes Postaegyesület Alapokmánya pótjegyzőkönyvének kihirdetéséről szóló 1975. évi 13. törvényerejű rendelet
+- 307. a hangfelvételek előállítóinak védelmére, hangfelvételeik engedély nélküli sokszorosítása ellen Genfben, az 1971. évi október hó 29. napján létrejött Egyezmény kihirdetéséről szóló 1975. évi 18. törvényerejű rendelet
+- 308. az 1974. évi 16. törvényerejű rendelettel kihirdetett vasúti személy- és poggyászfuvarozási nemzetközi egyezmény pótegyezményének módosításáról szóló Jegyzőkönyv kihirdetéséről szóló 1975. évi 23. törvényerejű rendelet
+- 309. a Magyar Népköztársaság és az Osztrák Köztársaság között a kettős adóztatás elkerülésére a hagyatéki és az öröklési adók területén Bécsben, 1975. február 25-én aláírt egyezmény kihirdetéséről szóló 1976. évi 1. törvényerejű rendelet
+- 310. a Magyar Népköztársaság és az Osztrák Köztársaság között a kettős adóztatás elkerülésére a jövedelem-, a hozadéki és a vagyonadó területén Bécsben, 1975. február 25-én aláírt egyezmény kihirdetéséről szóló 1976. évi 2. törvényerejű rendelet
+- 311. a transzferábilis rubelben lebonyolódó sokoldalú elszámolások, valamint a Nemzetközi Gazdasági Együttműködési Bank megalapítása tárgyában Moszkvában, 1963. október 22-én aláírt Egyezmény és a Nemzetközi Gazdasági Együttműködési Bank Alapszabályának módosításáról szóló, Moszkvában, 1970. december 18-án aláírt Jegyzőkönyv kihirdetéséről szóló 1976. évi 4. törvényerejű rendelet
+- 312. a szállítótartályokra vonatkozó vámegyezmény kihirdetéséről szóló 1976. évi 5. törvényerejű rendelet
+- 313. a borok vizsgálati és minősítési módszereinek egységesítéséről Párizsban 1954. október 13-án aláírt nemzetközi egyezmény kihirdetéséről szóló 1976. évi 6. törvényerejű rendelet
+- 314. a házasságkötéshez szükséges kölcsönös beleegyezésről, legalsóbb korhatárról, valamint a házasságkötések anyakönyvezéséről szóló, New Yorkban, 1962. évi december hó 10. napján kelt nemzetközi egyezmény kihirdetéséről szóló 1976. évi 7. törvényerejű rendelet
+- 315. az Egyesült Nemzetek Közgyűlése XXI. ülésszakán, 1966. december 16-án elfogadott Polgári és Politikai Jogok Nemzetközi Egyezségokmánya kihirdetéséről szóló 1976. évi 8. törvényerejű rendelet
+- 316. az Egyesült Nemzetek Közgyűlése XXI. ülésszakán, 1966. december 16-án elfogadott Gazdasági, Szociális és Kulturális Jogok Nemzetközi Egyezségokmánya kihirdetéséről szóló 1976. évi 9. törvényerejű rendelet
+- 317. a tudományos felszerelések ideiglenes behozatalára vonatkozó, Brüsszelben 1968. szeptember 18-án kelt vámegyezmény kihirdetéséről szóló 1976. évi 10. törvényerejű rendelet
+- 318. az oktatási anyagok ideiglenes behozatalára vonatkozó, Brüsszelben, 1970. június 8-án kelt vámegyezmény kihirdetéséről szóló 1976. évi 11. törvényerejű rendelet
+- 319. a rákkeltő anyagok és hordozók által előidézett ártalmak elleni védekezésről és ezek ellenőrzéséről szóló, a Nemzetközi Munkaügyi Konferencia 1974. évi 59. ülésszakán, 1974. június 24-én elfogadott egyezmény kihirdetéséről szóló 1976. évi 12. törvényerejű rendelet
+- 320. a fizetett tanulmányi szabadságról szóló, a Nemzetközi Munkaügyi Konferencia 1974. évi 59. ülésszakán, 1974. június 24-én elfogadott egyezmény kihirdetéséről szóló 1976. évi 13. törvényerejű rendelet
+- 321. a Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Kormánya között a kishatárforgalom szabályozásáról kötött, Budapesten, az 1975. évi november hó 5-én aláírt egyezmény kihirdetéséről szóló 1976. évi 19. törvényerejű rendelet
+- 322. a hulladékkal és egyéb anyagokkal való tengerszennyezés megelőzéséről szóló egyezmény kihirdetéséről szóló 1976. évi 20. törvényerejű rendelet
+- 323. a Magyar Népköztársaság Kormánya és a Guineai Köztársaság Kormánya között a polgári légiközlekedés tárgyában Conakryban, az 1971. évi december hó 7. napján aláírt egyezmény kihirdetéséről szóló 1976. évi 22. törvényerejű rendelet
+- 324. a kisajátításról szóló 1976. évi 24. törvényerejű rendelet
+- 325. a Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Kormánya között a szolgálati feladatok ellátására kiadásra kerülő magyar–jugoszláv határátlépési igazolványok egységesítése tárgyában Budapesten az 1975. évi november 27. napján aláírt egyezmény kihirdetéséről szóló 1976. évi 25. törvényerejű rendelet
+- 326. az apartheid bűncselekmények leküzdéséről és megbüntetéséről szóló, New Yorkban, az Egyesült Nemzetek Szervezete Közgyűlésén, 1973. november 30-án elfogadott nemzetközi egyezmény kihirdetéséről szóló 1976. évi 27. törvényerejű rendelet
+- 327. a gyógyszeripari termékek előállítását érintő felügyelet kölcsönös elismerése tárgyában Genfben, 1970. évi október hó 9–11. napján kelt nemzetközi egyezmény kihirdetéséről szóló 1976. évi 31. törvényerejű rendelet
+- 328. a Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Kormánya között a határmenti árucsere- és szolgáltatás-forgalomról, valamint gazdasági együttműködésről szóló, Budapesten 1976. március 20-án aláírt Egyezmény kihirdetéséről szóló 1976. évi 32. törvényerejű rendelet
+- 329. az Egyetemes Postaegyesület Alapokmánya 2. pótjegyzőkönyvének kihirdetéséről szóló 1977. évi 4. törvényerejű rendelet
+- 330. a Genfben 1975. június 21-én kelt Ötödik Nemzetközi Ónegyezmény kihirdetéséről szóló 1977. évi 5. törvényerejű rendelet
+- 331. a Magyar Népköztársaság és Japán között Tokióban, 1975. október 20-án aláírt kereskedelmi és hajózási szerződés kihirdetéséről szóló 1977. évi 10. törvényerejű rendelet
+- 332. a nemzetközi tengeri forgalom könnyítéséről szóló, Londonban, 1965. évi április hó 9. napján kelt egyezmény kihirdetéséről szóló 1977. évi 16. törvényerejű rendelet
+- 333. a Magyar Népköztársaság és az Osztrák Köztársaság között Budapesten, az 1975. évi február hó 25. napján aláírt Konzuli Egyezmény kihirdetéséről szóló 1977. évi 18. törvényerejű rendelet
+- 334. az emberi képességek kifejlesztése érdekében való pályaválasztási tanácsadásról és szakképzésről szóló, a Nemzetközi Munkaügyi Konferencia 1975. évi 60. ülésszakán, 1975. június 23-án elfogadott egyezmény kihirdetéséről szóló 1977. évi 21. törvényerejű rendelet
+- 335. a nemzetközileg védett személyek, köztük a diplomáciai képviselők ellen elkövetett bűncselekmények megelőzéséről és megbüntetéséről szóló, New Yorkban, az Egyesült Nemzetek Közgyűlése XXVIII. ülésszakán, az 1973. évi december hó 14. napján elfogadott egyezmény kihirdetéséről szóló 1977. évi 22. törvényerejű rendelet
+- 336. a Polgári Törvénykönyv módosításáról és egységes szövegéről szóló 1977. évi IV. törvény hatálybalépéséről és végrehajtásáról szóló 1978. évi 2. törvényerejű rendelet
+- 337. a világűrbe felbocsátott objektumok nyilvántartásba vételéről szóló, az ENSZ Közgyűlésének az 1974. évi november hó 12. napján kelt 3235/XXIX. határozatával elfogadott egyezmény kihirdetéséről szóló 1978. évi 7. törvényerejű rendelet
+- 338. a Magyar Népköztársaság Polgári Törvénykönyvének a külgazdasági kapcsolatokra történő alkalmazásáról szóló 1978. évi 8. törvényerejű rendelet
+- 339. a Magyar Népköztársaság Kormánya és az Osztrák Köztársaság Kormánya között a növényvédelmi együttműködésről Budapesten, 1976. évi április hó 5. napján aláírt egyezmény kihirdetéséről szóló 1978. évi 9. törvényerejű rendelet
+- 340. a Magyar Népköztársaság és az Iraki Köztársaság között a jogsegély nyújtásáról Budapesten, az 1977. évi március hó 4. napján aláírt szerződés kihirdetéséről szóló 1978. évi 11. törvényerejű rendelet
+- 341. a Magyar Népköztársaság Kormánya és a Nigériai Szövetségi Köztársaság Szövetségi Katonai Kormánya között Budapesten, az 1977. évi március hó 31. napján aláírt, a területeik közötti és azon túli légijáratokról szóló Egyezmény kihirdetéséről szóló 1978. évi 13. törvényerejű rendelet
+- 342. a Magyar Népköztársaság és a Jugoszláv Szocialista Szövetségi Köztársaság között Belgrádban, 1975. évi június hó 11. napján aláírt, a Dráva folyón történő hajózásról szóló egyezmény kihirdetéséről szóló 1978. évi 14. törvényerejű rendelet
+- 343. a Magyar Népköztársaság és Nagy-Britannia és Észak-Írország Egyesült Királyság között a kettős adóztatás elkerülésére a jövedelemadók területén Budapesten, az 1977. évi november hó 28. napján aláírt egyezmény kihirdetéséről szóló 1978. évi 15. törvényerejű rendelet
+- 344. a Genfben, 1966. február 15-én kelt „A belvízi hajók köbözéséről” szóló egyezmény kihirdetéséről szóló 1978. évi 19. törvényerejű rendelet
+- 345. az INTERSZPUTNYIK Nemzetközi Űrtávközlési Szervezet jogképességéről, kiváltságairól és mentességéről szóló, Berlinben, az 1976. évi szeptember hó 20. napján kelt megállapodás kihirdetéséről szóló 1978. évi 24. törvényerejű rendelet
+- 346. a Magyar Népköztársaság és a Belga Királyság között Budapesten, az 1976. évi július hó 9. napján aláírt Konzuli Egyezmény kihirdetéséről szóló 1978. évi 25. törvényerejű rendelet
+- 347. a Magyar Népköztársaság kormánya és a Török Köztársaság kormánya között Budapesten, 1976. évi június hó 21. napján aláírt, az 1968. évi magyar–török közúti fuvarozási megállapodás módosításának kihirdetéséről szóló 1978. évi 26. törvényerejű rendelet
+- 348. a környezetmódosító eljárások katonai vagy bármely más ellenséges szándékú alkalmazásának eltiltásáról szóló, az Egyesült Nemzetek Szervezete Közgyűlésének XXXI. ülésszakán, az 1976. évi december hó 10. napján elfogadott egyezmény kihirdetéséről szóló 1978. évi 29. törvényerejű rendelet
+- 349. a kulturális javak jogtalan behozatalának, kivitelének és tulajdona jogtalan átruházásának megakadályozását és megelőzését szolgáló eszközökről szóló, az Egyesült Nemzetek Nevelésügyi, Tudományos és Kulturális Szervezetének Közgyűlése által Párizsban az 1970. évi november hó 14. napján elfogadott Egyezmény kihirdetéséről szóló 1979. évi 2. törvényerejű rendelet
+- 350. a Büntető Törvénykönyvről szóló 1978. évi IV. törvény hatálybalépéséről és végrehajtásáról szóló 1979. évi 5. törvényerejű rendelet
+- 351. a Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Kormánya között vámkérdésekben történő együttműködésről és kölcsönös segítségnyújtásról Belgrádban az 1978. évi március 29. napján aláírt Egyezmény kihirdetéséről szóló 1979. évi 8. törvényerejű rendelet
+- 352. az állami vállalatokról szóló 1977. évi VI. törvény
+- 353. a Genfben, 1976. évi október hó 28. napján kelt, a tengerészek munkaviszonyának folyamatosságáról szóló egyezmény kihirdetéséről szóló 1979. évi 9. törvényerejű rendelet
+- 354. a büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet
+- 355. az oktatási, a tudományos és a kulturális jellegű tárgyak behozataláról szóló Lake Successben, 1950. november 22-én kelt megállapodás kihirdetéséről szóló 1979. évi 12. törvényerejű rendelet
+- 356. a nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet
+- 357. a Magyar Népköztársaság és a Görög Köztársaság között Athénben az 1977. évi március hó 18. napján aláírt Konzuli Egyezmény kihirdetéséről szóló 1979. évi 14. törvényerejű rendelet
+- 358. a Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Kormánya között a magyar–jugoszláv államhatáron a határrendsértések megelőzéséről és rendezéséről Budapesten, az 1978. évi október hó 4. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 15. törvényerejű rendelet
+- 359. a Magyar Népköztársaság és az Osztrák Köztársaság között a határon átmenő vasúti forgalomról szóló, Budapesten 1978. év szeptember hó 14. napján kelt egyezmény kihirdetéséről szóló 1979. évi 17. törvényerejű rendelet
+- 360. a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás kihirdetéséről szóló 1979. évi 19. törvényerejű rendelet
+- 361. a Magyar Népköztársaság és az Osztrák Köztársaság között Budapesten, 1978. évi július hó 10. napján aláírt, az egészségügy területén való együttműködésről szóló egyezmény kihirdetéséről szóló 1979. évi 21. törvényerejű rendelet
+- 362. a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet
+- 363. a szabadságvesztésre elítélt személyeknek büntetésük hazai végrehajtása céljából történő átadásáról szóló, Berlinben az 1978. évi május hó 19. napján kelt egyezmény kihirdetéséről szóló 1979. évi 26. törvényerejű rendelet
+- 364. a Magyar Népköztársaság és a Németországi Szövetségi Köztársaság között a kettős adóztatás elkerülésére a jövedelem-, a hozadéki és a vagyonadók területén Budapesten, 1977. évi július 18-án aláírt egyezmény kihirdetéséről szóló 1979. évi 27. törvényerejű rendelet
+- 365. a Föld kozmikus távszondázása útján nyert adatok átadására és felhasználására vonatkozó, Moszkvában 1978. évi május 19-én kelt nemzetközi Egyezmény kihirdetéséről szóló 1979. évi 30. törvényerejű rendelet
+- 366. az 1968. évi november hó 8. napján Bécsben aláírásra megnyitott Közúti Közlekedési Egyezmény kihirdetéséről szóló 1980. évi 3. törvényerejű rendelet
+- 367. az 1968. évi november hó 8. napján Bécsben aláírásra megnyitott Közúti Közlekedési Egyezményt kiegészítő európai Megállapodás kihirdetéséről szóló 1980. évi 5. törvényerejű rendelet
+- 368. a Magyar Népköztársaság és a Vietnami Szocialista Köztársaság között Hanoiban, az 1979. évi október hó 11. napján aláírt Konzuli Egyezmény kihirdetéséről szóló 1980. évi 8. törvényerejű rendelet
+- 369. a Magyar Népköztársaság és az Osztrák Köztársaság között a vízgazdálkodási feladatok ellátásához szükséges határátlépések szabályozásáról a Budapesten, 1979. évi február hó 6-án aláírt szerződés kihirdetéséről szóló 1980. évi 12. törvényerejű rendelet
+- 370. a Szabadalmi Együttműködési Szerződés kihirdetéséről szóló 1980. évi 14. törvényerejű rendelet
+- 371. a Nemzetközi Polgári Repülésről Chicagóban, 1944. évi december hó 7. napján aláírt Egyezmény módosításáról szóló jegyzőkönyv kihirdetéséről szóló 1980. évi 15. törvényerejű rendelet
+- 372. a Magyar Népköztársaság és Japán között a kettős adóztatás elkerülésére a jövedelemadók területén Budapesten, az 1980. évi február hó 13. napján aláírt egyezmény kihirdetéséről szóló 1980. évi 18. törvényerejű rendelet
+- 373. a mikroorganizmusok szabadalmi eljárás céljából történő letétbe helyezése nemzetközi elismeréséről szóló Budapesti Szerződés kihirdetéséről szóló 1981. évi 1. törvényerejű rendelet
+- 374. a Belgrádban, 1963. február 20-án aláírt magyar– jugoszláv Konzuli Egyezmény kiegészítéséről Budapesten, 1980. június 5-én aláírt Egyezmény kihirdetéséről szóló 1981. évi 2. törvényerejű rendelet
+- 375. a Duna halászati hasznosítására vonatkozólag Bukarestben, 1958. január hó 29. napján kötött és az 1962. évi 9. törvényerejű rendelettel kihirdetett egyezmény 17. Cikkének módosításáról Bukarestben, 1979. június 29-én aláírt Jegyzőkönyv kihirdetéséről szóló 1981. évi 7. törvényerejű rendelet
+- 376. a Magyar Népköztársaság és az Olasz Köztársaság között Budapesten, az 1977. évi május hó 26. napján aláírt, a kiadatásról és a bűnügyi jogsegélyről szóló egyezmény kihirdetéséről szóló 1981. évi 10. törvényerejű rendelet
+- 377. a Magyar Népköztársaság és az Olasz Köztársaság között Budapesten, az 1977. évi május hó 26. napján aláírt, a kölcsönös polgári jogsegélyről szóló egyezmény kihirdetéséről szóló 1981. évi 11. törvényerejű rendelet
+- 378. a Magyar Népköztársaság és a Kambodzsai Népköztársaság között Budapesten, 1980. november 27-én aláírt konzuli egyezmény kihirdetéséről szóló 1981. évi 12. törvényerejű rendelet
+- 379. a Magyar Népköztársaság és a Görög Köztársaság között Budapesten, az 1979. október hó 8. napján aláírt, a polgári és bűnügyi jogsegélyről szóló szerződés kihirdetéséről szóló 1981. évi 21. törvényerejű rendelet
+- 380. a Magyar Népköztársaság Kormánya és a Belga Királyság Kormánya között a kereskedelmi járművekkel végzett közúti személy- és árufuvarozás tárgyában Brüsszelben, 1967. évi március hó 20. napján aláírt Megállapodás módosításának kihirdetéséről szóló 1981. évi 23. törvényerejű rendelet
+- 381. a Magyar Népköztársaság és a Lengyel Népköztársaság között a polgári, családjogi és bűnügyi jogsegély tárgyában Budapesten, az 1959. évi március hó 6. napján aláírt szerződés módosításáról és kiegészítéséről szóló, Varsóban, az 1980. évi szeptember hó 18. napján aláírt jegyzőkönyv kihirdetéséről szóló 1981. évi 24. törvényerejű rendelet
+- 382. a Magyar Népköztársaság és a Svájci Államszövetség között létrejött, a származási jelzések, eredetmegjelölések és egyéb földrajzi megjelölések oltalmáról szóló szerződés kihirdetéséről szóló 1981. évi 27. törvényerejű rendelet
+- 383. a Magyar Népköztársaság és a Mozambiki Népi Köztársaság között 1980. szeptember 24-én Maputóban aláírt Barátsági és Együttműködési szerződés kihirdetéséről szóló 1981. évi 28. törvényerejű rendelet
+- 384. az eredetmegjelölések oltalmára és nemzetközi lajstromozására vonatkozó Lisszaboni Megállapodásnak, az 1967. évi július hó 14. napján Stockholmban felülvizsgált szövege kihirdetéséről szóló 1982. évi 1. törvényerejű rendelet
+- 385. a Magyar Népköztársaság és a Francia Köztársaság között Budapesten, az 1980. évi július hó 31. napján aláírt, a polgári és a családjogi jogsegélyről, a határozatok elismeréséről és végrehajtásáról, valamint a bűnügyi jogsegélyről és a kiadatásról szóló szerződés kihirdetéséről szóló 1982. évi 3. törvényerejű rendelet
+- 386. a Magyar Népköztársaság és a Szocialista Népi Líbiai Arab Jamahiriya között Budapesten, 1981. évi szeptember hó 24. napján aláírt konzuli egyezmény kihirdetéséről szóló 1982. évi 5. törvényerejű rendelet
+- 387. a Nemzetközi Valuta Alap alapokmányának kihirdetéséről szóló 1982. évi 6. törvényerejű rendelet
+- 388. a nőkkel szembeni megkülönböztetés minden formájának felszámolásáról 1979. december 18-án New Yorkban elfogadott egyezmény kihirdetéséről szóló 1982. évi 10. törvényerejű rendelet
+- 389. a vámeljárások egyszerűsítéséről és összehangolásáról szóló, Kyotóban az 1973. évi május hó 18. napján kelt nemzetközi egyezmény kihirdetéséről szóló 1982. évi 11. törvényerejű rendelet
+- 390. a Magyar Népköztársaság és az Osztrák Köztársaság között a Sopron városon és környékén átmenő vasúti forgalomról 1980. szeptember 13-án Budapesten aláírt egyezmény kihirdetéséről szóló 1982. évi 14. törvényerejű rendelet
+- 391. a Nemzetközi Újjáépítési és Fejlesztési Bank alapokmányának kihirdetéséről szóló 1982. évi 15. törvényerejű rendelet
+- 392. a Magyar Népköztársaság és a Jemeni Népi Demokratikus Köztársaság között Budapesten, 1981. évi november hó 5. napján aláírt barátsági és együttműködési szerződés kihirdetéséről szóló 1982. évi 16. törvényerejű rendelet
+- 393. az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló 1982. évi 17. törvényerejű rendelet
+- 394. a Magyar Népköztársaság Kormánya és az Algériai Demokratikus és Népi Köztársaság Kormánya között Algírban, 1970. évi november hó 19. napján aláírt, a légiközlekedésről szóló Egyezmény kihirdetéséről szóló 1982. évi 20. törvényerejű rendelet
+- 395. a Magyar Népköztársaság és a Svájci Államszövetség között a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén Budapesten, az 1981. évi április hó 9. napján aláírt egyezmény kihirdetéséről szóló 1982. évi 23. törvényerejű rendelet
+- 396. a Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság képviselőházának Szövetségi Végrehajtó Tanácsa között Hévízen, az 1981. évi március hó 14. napján aláírt állat-egészségügyi egyezmény kihirdetéséről szóló 1982. évi 24. törvényerejű rendelet
+- 397. a Magyar Népköztársaság és a Finn Köztársaság között Budapesten, az 1981. évi május hó 22-én aláírt, a polgári, családjogi és büntető ügyekben nyújtandó jogvédelemről és jogsegélyről szóló szerződés kihirdetéséről szóló 1982. évi 25. törvényerejű rendelet
+- 398. a Magyar Népköztársaság és az Angolai Népi Köztársaság között 1981. október 9-én Budapesten aláírt Barátsági és Együttműködési Szerződés kihirdetéséről szóló 1982. évi 39. törvényerejű rendelet
+- 399. a Magyar Népköztársaság és az Iraki Köztársaság között Budapesten 1982. évi június hó 11. napján aláírt konzuli egyezmény kihirdetéséről szóló 1982. évi 40. törvényerejű rendelet
+- 400. a Magyar Népköztársaság és a Nicaraguai Köztársaság között Managuában, 1981. november 14-én aláírt konzuli egyezmény kihirdetéséről szóló 1982. évi 42. törvényerejű rendelet
+- 401. a Magyar Népköztársaság és a Török Köztársaság között Budapesten, az 1981. évi június hó 10-én aláírt, a bűnügyi jogsegélyről és a kiadatásról szóló egyezmény kihirdetéséről szóló 1983. évi 1. törvényerejű rendelet
+- 402. a Magyar Népköztársaság és a Bolgár Népköztársaság között a polgári, családjogi és bűnügyi jogsegély tárgyában Szófiában, az 1966. évi május hó 16. napján aláírt Szerződés módosításáról és kiegészítéséről szóló, Budapesten az 1981. évi szeptember hó 15. napján aláírt Jegyzőkönyv kihirdetéséről szóló 1983. évi 2. törvényerejű rendelet
+- 403. a jogtanácsosi tevékenységről szóló 1983. évi 3. törvényerejű rendelet
+- 404. a Magyar Népköztársaság és az Ecuadori Köztársaság között, Quitóban, 1981. november 18-án aláírt konzuli egyezmény kihirdetéséről szóló 1983. évi 6. törvényerejű rendelet
+- 405. a Magyar Népköztársaság és az Afganisztáni Demokratikus Köztársaság között 1982. október 7-én Budapesten aláírt Barátsági és Együttműködési Szerződés kihirdetéséről szóló 1983. évi 13. törvényerejű rendelet
+- 406. az új növényfajták oltalmára létesült Nemzetközi Egyezmény kihirdetéséről szóló 1983. évi 14. törvényerejű rendelet
+- 407. a Magyar Népköztársaság és a Szocialista Etiópia között 1980. szeptember 17-én Addisz Abebában aláírt Barátsági és Együttműködési Szerződés kihirdetéséről szóló 1983. évi 15. törvényerejű rendelet
+- 408. a Magyar Népköztársaság és a Ciprusi Köztársaság között a Budapesten, 1981. november 30-án aláírt, a polgári és bűnügyi jogsegélyről szóló szerződés kihirdetéséről szóló 1983. évi 19. törvényerejű rendelet
+- 409. a Magyar Népköztársaság és a Belga Királyság között, a kiadatásról és a bűnügyi jogsegélyről szóló Brüsszelben, az 1983. évi május hó 11. napján aláírt egyezmény kihirdetéséről szóló 1983. évi 28. törvényerejű rendelet
+- 410. az államok területén ideiglenesen tartózkodó személyek orvosi ellátásáról szóló, Genfben, az 1980. évi október hó 17. napján aláírt Európai Megállapodás kihirdetéséről szóló 1983. évi 29. törvényerejű rendelet
+- 411. a „Mértéktelen sérülést okozónak vagy megkülönböztetés nélkül hatónak tekinthető egyes hagyományos fegyverek alkalmazásának betiltásáról, illetőleg korlátozásáról” szóló, Genfben, az 1980. évi október hó 15. napján kelt egyezmény és a hozzá csatolt jegyzőkönyvek kihirdetéséről szóló 1984. évi 2. törvényerejű rendelet
+- 412. a Magyar Népköztársaság és a Kubai Köztársaság között a polgári, családjogi és bűnügyi jogsegély tárgyában Havannában, az 1982. évi november hó 27. napján aláírt szerződés kihirdetéséről szóló 1984. évi 4. törvényerejű rendelet
+- 413. a közúti kereskedelmi járművek ideiglenes behozatalára vonatkozó 1956. évi genfi vámegyezmény módosított szövegének kihirdetéséről szóló 1984. évi 9. törvényerejű rendelet
+- 414. a Magyar Népköztársaság és a Laoszi Népi Demokratikus Köztársaság között Budapesten, 1983. november 2-án aláírt konzuli egyezmény kihirdetéséről szóló 1984. évi 10. törvényerejű rendelet
+- 415. a Veszélyes Áruk Nemzetközi Közúti Szállításáról kötött genfi európai megállapodás (ADR) 14. Cikk 3. bekezdésének módosításáról New Yorkban, 1975. évi augusztus hó 21. napján aláírt jegyzőkönyv kihirdetéséről szóló 1984. évi 13. törvényerejű rendelet
+- 416. a Magyar Népköztársaság és Spanyolország között Budapesten, 1982. február 24-én aláírt konzuli egyezmény kihirdetéséről szóló 1984. évi 14. törvényerejű rendelet
+- 417. a Magyar Népköztársaságban és az Osztrák Köztársaságban kiállított érettségi bizonyítványok egyetemi felvétel szempontjából való egyenértékűségének kölcsönös elismeréséről szóló, Budapesten, 1982. július 16-án aláírt egyezmény kihirdetéséről szóló 1984. évi 27. törvényerejű rendelet
+- 418. a Magyar Népköztársaság és a Tunéziai Köztársaság között Budapesten, 1982. december 6-án aláírt konzuli egyezmény kihirdetéséről szóló 1984. évi 28. törvényerejű rendelet
+- 419. az ipari minták nemzetközi letétbe helyezésére létrejött Hágai Megállapodás kihirdetéséről szóló 1984. évi 29. törvényerejű rendelet
+- 420. a Szabadalmi Együttműködési Szerződés kihirdetéséről szóló 1980. évi 14. törvényerejű rendelet módosításának kihirdetéséről szóló 1984. évi 30. törvényerejű rendelet
+- 421. a Magyar Népköztársaság és a Tunéziai Köztársaság között Budapesten, az 1982. évi december hó 6. napján aláírt, a polgári és bűnügyi jogsegély, a bírói határozatok elismerése és végrehajtása, valamint a kiadatásról szóló szerződés kihirdetéséről szóló 1985. évi 2. törvényerejű rendelet
+- 422. a Genfben, az 1983. évi június hó 20. napján kelt, a szakmai rehabilitációról és a foglalkoztatásról (rokkant személyek) szóló egyezmény kihirdetéséről szóló 1985. évi 9. törvényerejű rendelet
+- 423. a Magyar Népköztársaság és az Algériai Demokratikus és Népi Köztársaság között az Algírban az 1976. évi február hó 7. napján aláírt, a polgári, családjogi és bűnügyi jogsegélyről szóló szerződés kihirdetéséről szóló 1985. évi 15. törvényerejű rendelet
+- 424. a Nemzetközi Fejlesztési Társulás alapokmányának kihirdetéséről szóló 1985. évi 19. törvényerejű rendelet
+- 425. a Nemzetközi Pénzügyi Társaság alapokmányának kihirdetéséről szóló 1985. évi 20. törvényerejű rendelet
+- 426. a világ kulturális és természeti örökségének védelméről szóló, az Egyesült Nemzetek Oktatási, Tudományos és Kulturális Szervezete Általános Konferenciájának ülésszakán Párizsban 1972. november 16-án elfogadott egyezmény kihirdetéséről szóló 1985. évi 21. törvényerejű rendelet
+- 427. a Bernben az 1980. évi május hó 9. napján kelt Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) kihirdetéséről szóló 1986. évi 2. törvényerejű rendelet
+- 428. a Bonnban, az 1979. évi június hó 23. napján kelt, a vándorló vadon élő állatfajok védelméről szóló egyezmény kihirdetéséről szóló 1986. évi 6. törvényerejű rendelet
+- 429. a Magyar Népköztársaság és a Svéd Királyság között Budapesten, az 1983. évi szeptember hó 28. napján aláírt bűnügyi jogsegélyszerződés kihirdetéséről szóló 1986. évi 7. törvényerejű rendelet
+- 430. a Magyar Népköztársaság és a Vietnami Szocialista Köztársaság között a polgári, a családjogi és a bűnügyi jogsegély tárgyában Hanoiban 1985. évi január hó 18. napján aláírt szerződés kihirdetéséről szóló 1986. évi 8. törvényerejű rendelet
+- 431. a Gyermekek Jogellenes Külföldre Vitelének Polgári Jogi Vonatkozásairól szóló, Hágában az 1980. évi október 25. napján kelt szerződés kihirdetéséről szóló 1986. évi 14. törvényerejű rendelet
+- 432. az ipari tulajdon oltalmára létesült uniós egyezmények 1967. július 14-én Stockholmban felülvizsgált, illetve létrehozott szövege módosításának kihirdetéséről szóló 1986. évi 20. törvényerejű rendelet
+- 433. egyes iparjogvédelmi uniós megállapodások módosításának kihirdetéséről szóló 1986. évi 21. törvényerejű rendelet
+- 434. a Szabadalmi Együttműködési Szerződés módosításának kihirdetéséről szóló 1986. évi 22. törvényerejű rendelet
+- 435. a mikroorganizmusok szabadalmi eljárás céljából történő letétbe helyezése nemzetközi elismeréséről szóló Budapesti Szerződés módosításának kihirdetéséről szóló 1986. évi 23. törvényerejű rendelet
+- 436. az eredetmegjelölések oltalmára és nemzetközi lajstromozására vonatkozó Lisszaboni Megállapodás módosításának kihirdetéséről szóló 1986. évi 24. törvényerejű rendelet
+- 437. a Magyar Népköztársaság és az Osztrák Köztársaság között Bécsben, az 1985. évi május hó 6. napján aláírt, a büntetőügyekben hozott bírósági határozatok kölcsönös végrehajtásáról szóló szerződés kihirdetéséről szóló 1986. évi 31. törvényerejű rendelet
+- 438. a Magyar Népköztársaság és a Kínai Népköztársaság között Budapesten, 1986. június 3-án aláírt konzuli egyezmény kihirdetéséről szóló 1986. évi 32. törvényerejű rendelet
+- 439. a Magyar Népköztársaság és a Bolíviai Köztársaság között Budapesten, 1985. június 21-én aláírt konzuli egyezmény kihirdetéséről szóló 1987. évi 7. törvényerejű rendelet
+- 440. a nukleáris anyagok fizikai védelméről szóló egyezmény kihirdetéséről szóló 1987. évi 8. törvényerejű rendelet
+- 441. a szerződések jogáról szóló, Bécsben az 1969. évi május hó 23. napján kelt szerződés kihirdetéséről szóló 1987. évi 12. törvényerejű rendelet
+- 442. a konzuli kapcsolatokról Bécsben, 1963. április 24-én elfogadott egyezmény kihirdetéséről szóló 1987. évi 13. törvényerejű rendelet
+- 443. az Egyesült Nemzeteknek az áruk nemzetközi adásvételi szerződéseiről szóló, Bécsben, az 1980. évi április hó 11. napján kelt Egyezménye kihirdetéséről szóló 1987. évi 20. törvényerejű rendelet
+- 444. a Túszszedés Elleni Nemzetközi Egyezmény kihirdetéséről szóló 1987. évi 24. törvényerejű rendelet
+- 445. az Államok és más államok természetes és jogi személyei közötti beruházási viták rendezéséről szóló, Washingtonban, 1965. március 18-án kelt Egyezmény kihirdetéséről szóló 1987. évi 27. törvényerejű rendelet
+- 446. a Magyar Népköztársaság és a Jugoszláv Szocialista Szövetségi Köztársaság között a kölcsönös jogsegélyről szóló, Belgrádban, az 1968. évi március hó 7. napján aláírt szerződés (1969. évi 1. törvényerejű rendelet) módosításáról és kiegészítéséről szóló, Budapesten, 1986. évi április hó 25. napján aláírt szerződés kihirdetéséről szóló 1988. évi 1. törvényerejű rendelet
+- 447. a kínzás és más kegyetlen, embertelen vagy megalázó büntetések vagy bánásmódok elleni nemzetközi egyezmény kihirdetéséről szóló 1988. évi 3. törvényerejű rendelet
+- 448. a „3. Pótjegyzőkönyv az Egyetemes Postaegyesület Alapokmányához” kihirdetéséről szóló 1988. évi 4. törvényerejű rendelet
+- 449. a Magyar Népköztársaság és a Német Szövetségi Köztársaság között a beruházások elősegítéséről és kölcsönös védelméről szóló szerződés kihirdetéséről szóló 1988. évi 5. törvényerejű rendelet
+- 450. a Magyar Népköztársaság és a Jugoszláv Szocialista Szövetségi Köztársaság között a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén Budapesten, 1985. október 17. napján aláírt egyezmény kihirdetéséről szóló 1988. évi 6. törvényerejű rendelet
+- 451. a Magyar Népköztársaság és a Spanyol Királyság között Budapesten, az 1985. évi május hó 10. napján aláírt kiadatási és bűnügyi jogsegélyegyezmény kihirdetéséről szóló 1988. évi 7. törvényerejű rendelet
+- 452. a Magyar Népköztársaság és a Szíriai Arab Köztársaság között a polgári és bűnügyi jogsegélyről szóló 1986. május 1-jén Damaszkuszban aláírt egyezmény kihirdetéséről szóló 1988. évi 9. törvényerejű rendelet
+- 453. a Genfben, az 1985. évi június hó 26. napján kelt, az üzemegészségügyi szolgálatról szóló egyezmény kihirdetéséről szóló 1988. évi 13. törvényerejű rendelet
+- 454. a Magyar Népköztársaság és a Szíriai Arab Köztársaság között Damaszkuszban, 1986. szeptember 17-én aláírt Konzuli Egyezmény kihirdetéséről szóló 1988. évi 14. törvényerejű rendelet
+- 455. az 1965. évi 4. törvényerejű rendelettel kihirdetett, az Egységes Kábítószer Egyezmény módosításáról és kiegészítéséről szóló, Genfben, 1972. március 25-én kelt Jegyzőkönyv kihirdetéséről szóló 1988. évi 17. törvényerejű rendelet
+- 456. a Polgári és Politikai Jogok Nemzetközi Egyezségokmányához kapcsolódó, az Egyesült Nemzetek Közgyűlése által New York-ban 1966. december 16-án elfogadott Fakultatív Jegyzőkönyv kihirdetéséről szóló 1988. évi 24. törvényerejű rendelet
+- 457. az áruk nemzetközi adásvételi szerződéseire vonatkozó elévülési időről szóló, New Yorkban, 1974. június 14-én kelt Egyezményről, valamint az áruk nemzetközi adásvételi szerződésére vonatkozó elévülési időről szóló Egyezmény módosításáról, Bécsben 1980. április 11-én kelt Jegyzőkönyvről szóló 1989. évi 1. törvényerejű rendelet
+- 458. a takarékbetétről szóló 1989. évi 2. törvényerejű rendelet
+- 459. a Magyar Népköztársaság és a Török Köztársaság között Budapesten, az 1986. évi szeptember hó 5. napján aláírt, a büntető ügyekben hozott bírósági határozatok kölcsönös végrehajtásáról szóló szerződés kihirdetéséről szóló 1989. évi 5. törvényerejű rendelet
+- 460. a Nemzetközi Beruházásbiztosítási Ügynökség létrehozásáról szóló, Szöulban, 1985. október 11-én kelt Egyezmény kihirdetéséről szóló 1989. évi 7. törvényerejű rendelet
+- 461. a Magyar Népköztársaság és a Spanyol Királyság között Budapesten, az 1987. évi szeptember hó 28. napján aláírt a büntető ügyekben hozott bírósági határozatok kölcsönös végrehajtása tárgyában létrejött szerződés kihirdetéséről szóló 1989. évi 10. törvényerejű rendelet
+- 462. a Magyar Népköztársaság és az Egyiptomi Arab Köztársaság között Kairóban, az 1987. évi december hó 14. napján aláírt, a bűnügyi jogsegély, a fogvatartott elítélteknek a büntető ügyekben hozott bírósági határozatok végrehajtása céljából történő átadása és a kiadatás tárgyában létrejött szerződés kihirdetéséről szóló 1989. évi 11. törvényerejű rendelet
+- 463. a menekültek helyzetére vonatkozó 1951. évi július hó 28. napján elfogadott egyezmény valamint a menekültek helyzetére vonatkozóan az 1967. évi január hó 31. napján létrejött jegyzőkönyv kihirdetéséről szóló 1989. évi 15. törvényerejű rendelet
+- 464. a háború áldozatainak védelmére vonatkozóan Genfben 1949. augusztus 12-én kötött Egyezmények I. és II. kiegészítő Jegyzőkönyvének kihirdetéséről szóló 1989. évi 20. törvényerejű rendelet
+- 465. a Nemzetközi Újjáépítési és Fejlesztési Bank 1982. évi 15. törvényerejű rendelettel kihirdetett Alapokmánya módosításának kihirdetéséről szóló 1989. évi 21. törvényerejű rendelet
