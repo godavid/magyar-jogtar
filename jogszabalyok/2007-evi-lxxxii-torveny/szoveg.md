@@ -22,9 +22,9 @@ illetve azok egyes rendelkezéseinek deregulációja
 
 6. § (1)
 
-(2)
+(2) Felhatalmazást kap a Kormány, hogy miniszteri rendeletet rendeletében hatályon kívül helyezzen.
 
-(3) Az igazságügyért felelős miniszter gondoskodik arról, hogy
+(3) A Miniszterelnöki Hivatalt vezető miniszter az igazságügyért felelős miniszterrel gondoskodik arról, hogy
 
 - a) az 1. § (1) bekezdése szerint hatályban maradó jogszabályok módosításokkal egységes szerkezetbe foglalt, hatályos szövege
 - b) az (1) bekezdés felhatalmazása alapján kiadott kormányrendelet szerint hatályban maradó jogszabályok módosításokkal egységes szerkezetbe foglalt, hatályos szövege
@@ -34,7 +34,8 @@ bárki számára hozzáférhető legyen.
 (4) Felhatalmazást kapnak a feladatkörrel rendelkező miniszterek, hogy rendeletükkel hatályon kívül helyezzék a feladatkörükbe tartozó azon rendeleteket,
 
 - a) amelyeket 1989. október 23-a előtt alkottak meg,
-- b)–c)
+- b) amelyeket felhatalmazás nélkül alkottak meg, vagy
+- c) amelyek módosítására vagy hatályon kívül helyezésére egyébként nem rendelkeznek felhatalmazással.
 
 (5) Felhatalmazást kap a természetvédelemért felelős miniszter, hogy – a természet védelméről szóló 1996. évi LIII. törvényben (a továbbiakban: Tvt.) előírt védetté nyilvánítási eljárás lefolytatása nélkül – rendeletben tartsa fenn az 1989. október 23. előtt rendelettel, rendelkezéssel, határozattal védetté nyilvánított természeti területek, természeti értékek országos jelentőségű védett természeti területként fennálló védettségét.
 
@@ -51,7 +52,9 @@ bárki számára hozzáférhető legyen.
 
 (9) Az Országgyűlés felhatalmazást ad az 1989. október 23-a előtt megkötött olyan, tartalmában elavult nemzetközi szerződés megszüntetésére, amelynek kihirdető jogszabálya nincs hatályban.
 
-(10)–(11)
+(10) A módosító jogszabály vagy jogszabályi rendelkezés hatályon kívül helyezése nem érinti a módosított jogszabályi rendelkezés hatályát.
+
+(11) A hatályon kívül helyező jogszabály vagy jogszabályi rendelkezés hatályon kívül helyezése nem eredményezi a korábban hatályon kívül helyezett jogszabály vagy jogszabályi rendelkezés újbóli hatálybalépését.
 
 #### 7–13. §
 
@@ -110,7 +113,7 @@ bárki számára hozzáférhető legyen.
 - 51. az 1921. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a hajókon alkalmazott gyermekek és fiatalkorúak kötelező orvosi vizsgálata tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XVIII. törvény
 - 52. az 1919. évben Washingtonban tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a fiatalkorúak éjjeli ipari munkája tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XXVI. törvény
 - 53. az 1925. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által az üzemi balesetek kártalanítása tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XXIX. törvény
-- 54.
+- 54. az 1925. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a foglalkozási betegségek kártalanítása tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XXX. törvény
 - 55. az 1925. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által az idegen és a saját honos munkavállalóknak az üzemi balesetek kártalanítása szempontjából egyenlő elbánásban részesítése tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XXXI. törvény
 - 56. az 1927. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által az ipar és a kereskedelem körében foglalkoztatott munkavállalóknak és a háztartási alkalmazottaknak betegségi biztosítása tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XXXII. törvény
 - 57. a közlekedés és átmenet szabadsága tárgyában Barcelonában az 1921. évben tartott általános értekezleten megállapított egyes okmányok becikkelyezéséről szóló 1928. évi XXXIX. törvény
@@ -131,7 +134,7 @@ bárki számára hozzáférhető legyen.
 - 72. a tengeri hajók tulajdonosainak felelősségére vonatkozólag az 1924. évi augusztus hó 25. napján Brüsszelben kelt egyezmény becikkelyezése tárgyában című 1931. évi IV. törvény
 - 73. a törvényes elsőbbségekre és tengeri jelzálogokra vonatkozólag az 1926. évi április hó 10. napján Brüsszelben kelt egyezmény becikkelyezése tárgyában című 1931. évi V. törvény
 - 74. a hajóselismervényekre vonatkozólag az 1924. évi augusztus hó 25. napján Brüsszelben kelt egyezmény becikkelyezése tárgyában című 1931. évi VI. törvény
-- 75.
+- 75. az 1926. évben, Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a kivándorlók hajókon történő felügyeletének egyszerűsítése tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1931. évi VII. törvény
 - 76. a Görögországgal Athénben 1930. évi május hó 5. napján kötött békéltető eljárási és választott bírósági szerződés becikkelyezéséről szóló 1931. évi X. törvény
 - 77. a Rigában 1930. évi augusztus hó 13. napján kelt magyar–lett békéltető eljárási és választott bírósági szerződés becikkelyezéséről szóló 1931. évi XII. törvény
 - 78. az irodalmi és a művészeti művek védelméről szóló római nemzetközi egyezmény becikkelyezése tárgyában című 1931. évi XXIV. törvény
