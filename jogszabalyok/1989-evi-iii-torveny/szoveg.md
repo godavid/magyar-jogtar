@@ -2,11 +2,11 @@
 
 a gyülekezési jogról
 
-Az Országgyűlés a gyülekezési szabadság érvényesülése érdekében — összhangban az Alaptörvény, valamint a Polgári és Politikai Jogok Nemzetközi Egyezségokmányának rendelkezéseivel —, a következő törvényt alkotja:
+Az Országgyűlés a gyülekezési szabadság érvényesülése érdekében — összhangban az Alkotmány, valamint a Polgári és Politikai Jogok Nemzetközi Egyezségokmányának rendelkezéseivel —, a következő törvényt alkotja:
 
 ### I. Fejezet — Általános rendelkezések
 
-1. §
+1. § A gyülekezési jog mindenkit megillető alapvető szabadságjog, amelyet a Magyar Köztársaság elismer, és biztosítja annak zavartalan gyakorlását.
 
 2. § (1) A gyülekezési jog gyakorlása keretében békés összejövetelek, felvonulások és tüntetések (a továbbiakban együtt: rendezvény) tarthatók, amelyeken a résztvevők véleményüket szabadon kinyilváníthatják.
 
@@ -17,7 +17,7 @@ Az Országgyűlés a gyülekezési szabadság érvényesülése érdekében — 
 3. § A törvény hatálya nem terjed ki
 
 - a) a választási eljárásról szóló törvény hatálya alá tartozó gyűlésekre
-- b) a templomban és a vallásgyakorlásra rendelt más helyen szervezett vallásos szertartásokra, rendezvényekre és a körmenetekre;
+- b) a törvényesen elismert egyházak és vallásfelekezetek területén szervezett vallási szertartásokra, rendezvényekre és a körmenetekre;
 - c) a kulturális és sportrendezvényekre;
 - d) a családi eseményekkel kapcsolatos rendezvényekre.
 
