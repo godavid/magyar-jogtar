@@ -8,16 +8,16 @@ a Magyar Köztársaság ügyészségéről
 
 1. § (1) A Magyar Köztársaság legfőbb ügyésze és az ügyészség gondoskodik a természetes személyek, a jogi személyek és a jogi személyiséggel nem rendelkező szervezetek jogainak a védelméről, valamint az alkotmányos rendet, az ország biztonságát és függetlenségét sértő vagy veszélyeztető minden cselekmény következetes üldözéséről.
 
-(2) Az ügyészség a büntetőeljárásról szóló törvényben meghatározott feltételek szerint nyomozást végeztet és nyomoz; ha a nyomozó hatóság önállóan végez nyomozást vagy egyes nyomozási cselekményeket, az ügyészség felügyel arra, hogy azt a törvény rendelkezéseit megtartva végezzék, törvényben meghatározott egyéb jogokat gyakorol a nyomozással összefüggésben, képviseli a vádat a bírósági eljárásban, továbbá felügyelet gyakorol a rendőrségről szóló törvényben meghatározott megbízhatósági vizsgálat, valamint a büntetés-végrehajtás törvényessége felett.
+(2) Az ügyészség a büntetőeljárásról szóló törvényben meghatározott feltételek szerint nyomozást végeztet és nyomoz; ha a nyomozó hatóság önállóan végez nyomozást vagy egyes nyomozási cselekményeket, az ügyészség felügyel arra, hogy azt a törvény rendelkezéseit megtartva végezzék; törvényben meghatározott egyéb jogokat gyakorol a nyomozással összefüggésben, képviseli a vádat a bírósági eljárásban, továbbá felügyeletet gyakorol a büntetés-végrehajtás törvényessége felett.
 
 (3) Az ügyészség közreműködik annak biztosításában, hogy mindenki megtartsa a törvényeket. Törvénysértés esetén – törvényben meghatározott esetekben és módon – fellép a törvényesség védelmében.
 
-2. § Az ügyész kellő időben köteles megtenni a törvényben meghatározott intézkedéseket, ha a Magyar Köztársaság törvényeit bármilyen módon megsértik és a törvénysértés megszüntetésére hivatott szerv az Alkotmányban, törvényben és más jogszabályban vagy közjogi szervezetszabályozó eszközben meghatározott kötelezettsége ellenére a szükséges intézkedést nem teszi meg, illetőleg, ha a törvénysértésből eredő jogsérelem elhárítása érdekében azonnali ügyészi intézkedésre van szükség.
+2. § Az ügyész kellő időben köteles megtenni a törvényben meghatározott intézkedéseket, ha a Magyar Köztársaság törvényeit bármilyen módon megsértik és a törvénysértés megszüntetésére hivatott szerv az Alkotmányban, törvényben és más jogszabályban vagy az állami irányítás egyéb jogi eszközében meghatározott kötelezettsége ellenére a szükséges intézkedést nem teszi meg, illetőleg, ha a törvénysértésből eredő jogsérelem elhárítása érdekében azonnali ügyészi intézkedésre van szükség.
 
 3. § (1) Az ügyészség közreműködik az alkotmányosság védelmében és a jogszabályok érvényre juttatásában. E hatáskörében
 
 - a) védi az Alkotmányban és más jogszabályokban biztosított jogokat;
-- b) fellép az Alkotmány, a törvények, az egyéb jogszabályok és a közjogi szervezetszabályozó eszközök megtartása érdekében;
+- b) fellép az Alkotmány, a törvények, az egyéb jogszabályok és az állami irányítás egyéb jogi eszközei megtartása érdekében;
 - c) üldözi a tudomására jutott bűncselekményeket;
 - d) részt vesz az Alkotmány és más jogszabályok iránti tisztelet erősítésében, a jogsértések, a bűnözés megelőzésében.
 
@@ -29,7 +29,7 @@ a Magyar Köztársaság ügyészségéről
 - d) gyakorolja a vádemelés közhatalmi jogkörét; a bírósági eljárásban képviseli a vádat, továbbá gyakorolja a büntetőeljárási törvényben számára biztosított jogorvoslati jogokat;
 - e) törvényességi felügyeletet lát el a büntetések és intézkedések végrehajtásáról szóló jogszabályi rendelkezések megtartása felett, közreműködik a büntetésvégrehajtással kapcsolatos bírósági eljárásban (a büntetésvégrehajtás törvényességének felügyelete);
 - f) közreműködik abban, hogy a bírósági eljárásban a törvényeket helyesen alkalmazzák (az ügyész részvétele a bíróságok polgári, munkaügyi, közigazgatási és gazdasági jogi peres és nem peres eljárásaiban);
-- g) elősegíti, hogy a jogszabályok rendelkezéseit megtartsák, e körben ellátja a Rendőrségről szóló 1994. évi XXXIV. törvényben (a továbbiakban: Rtv.) meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv megbízhatósági vizsgálatra vonatkozó tevékenységének felügyeletét (ügyészi törvényességi felügyelet);
+- g) elősegíti, hogy a jogszabályok rendelkezéseit megtartsák (ügyészi törvényességi felügyelet);
 - h) kiemelt figyelmet fordít a kiskorúak sérelmére elkövetett bűncselekmények üldözésére, eljár a szükséges gyermekvédelmi intézkedések megtétele érdekében;
 - i) ellátja a nemzetközi szerződésekből, különösen a jogsegély kérésével és nyújtásával összefüggésben rá háruló feladatokat;
 - j) teljesíti a Magyar Köztársaságnak a Eurojustban való részvételével kapcsolatos feladatokat.
@@ -51,7 +51,7 @@ a Magyar Köztársaság ügyészségéről
 - g) a Legfelsőbb Bíróság előtti jogegységi eljárásban gyakorolja a külön törvényben meghatározott jogkörét;
 - h) indítványozza közvádas bűncselekmény vagy szabálysértés miatt a mentelmi jog felfüggesztését, illetőleg, ha törvény az eljárás megindítását valamely szerv, személy hozzájárulásához köti, kezdeményezi a hozzájárulás megadását;
 - i) az Országos Igazságszolgáltatási Tanács tagjaként ellátja a külön törvényben meghatározott ez irányú feladatait;
-- j) az Alkotmánybíróságnál indítványozhatja — a jogszabály, valamint a közjogi szervezetszabályozó eszköz alkotmányellenességének utólagos vizsgálatát; — a jogszabály, valamint a közjogi szervezetszabályozó eszköz nemzetközi szerződésbe ütközésének vizsgálatát; — az Alkotmányban biztosított jogok megsértése miatt benyújtott alkotmányjogi panasz elbírálását; — a mulasztásban megnyilvánuló alkotmányellenesség megszüntetését; — az ügyészség és más szerv közötti hatásköri összeütközés megszüntetését; — az Alkotmány rendelkezéseinek értelmezését;
+- j) az Alkotmánybíróságnál indítványozhatja — a jogszabály, valamint az állami irányítás egyéb jogi eszköze alkotmányellenességének utólagos vizsgálatát; — a jogszabály, valamint az állami irányítás egyéb jogi eszköze nemzetközi szerződésbe ütközésének vizsgálatát; — az Alkotmányban biztosított jogok megsértése miatt benyújtott alkotmányjogi panasz elbírálását; — a mulasztásban megnyilvánuló alkotmányellenesség megszüntetését; — az ügyészség és más szerv közötti hatásköri összeütközés megszüntetését; — az Alkotmány rendelkezéseinek értelmezését;
 - k) összeállítja az ügyészségi fejezet költségvetésére és a költségvetés végrehajtására vonatkozó javaslatát, amelyet a Kormány a központi költségvetési, illetve a zárszámadási törvényjavaslat részeként előterjeszt az Országgyűlésnek.
 
 ### Az ügyészek alárendeltsége
@@ -89,57 +89,19 @@ a Magyar Köztársaság ügyészségéről
 
 9. §
 
-### Titkos információgyűjtés
+### Titkos információgyűjtés az ügyészségi nyomozás során
 
-9/A. § (1) Az ügyészségi nyomozás [az 5. § (2) bekezdésének e) pontja, a 7. § (2) bekezdésének f) pontja] és az ügyészségi nyomozás kizárólagos hatáskörébe tartozó bűncselekmény [a büntetőeljárásról szóló 1998. évi. XIX. törvény (a továbbiakban: Be.) 29. §] nyomozása során bűncselekmény elkövetésének felderítése, megszakítása, az elkövető kilétének megállapítása, az elkövető elfogása, tartózkodási helyének megállapítása, továbbá a bizonyítékok megszerzése céljából az ügyész, illetve megbízása alapján az ügyészségi nyomozó – az e törvényben foglalt eltérésekkel – bírói engedélyhez nem kötött titkos információgyűjtést végezhet az Rtv. VII. fejezetében meghatározott szabályok szerint. Ahol az Rtv. a titkos információgyűjtés körében a rendőrség számára állapít meg jogokat, ott az ügyészségi nyomozást végző ügyészi szervet kell érteni.
+9/A. § (1) Az ügyészségi nyomozás [az 5. (2) bekezdésének e) pontja, a 7. § (2) bekezdésének f) pontja] során bűncselekmény elkövetésének felderítése, megszakítása, az elkövető kilétének megállapítása, az elkövető elfogása, tartózkodási helyének megállapítása, továbbá a bizonyítékok megszerzése céljából az ügyész, illetve megbízása alapján az ügyészségi nyomozó – az e törvényben foglalt eltérésekkel – bírói engedélyhez nem kötött titkos információgyűjtést végezhet a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) VII. fejezetében meghatározott szabályok szerint. Ahol az Rtv. a titkos információgyűjtés körében a rendőrség számára állapít meg jogokat, ott az ügyészségi nyomozást végző ügyészi szervet kell érteni.
 
 (2) Ha az Rtv. a bírói engedélyhez nem kötött titkos információgyűjtés keretében végzett cselekményhez az ügyész engedélyét (hozzájárulását, jóváhagyását) írja elő, az engedélyezés jogkörét a felettes ügyész gyakorolja.
 
-(3) Az ügyészségi nyomozás során a bírói engedélyhez nem kötött titkos információgyűjtés elvégzésére a felettes ügyész – a nemzetbiztonsági szolgálatok kivételével – bármely titkos információgyűjtés végzésére jogosult szervet utasíthatja, az illetékes nemzetbiztonsági szolgálatot megkeresheti.
+(3) Az ügyészségi nyomozás során a bírói engedélyhez nem kötött titkos információgyűjtés elvégzésére a felettes ügyész – a nemzetbiztonsági szolgálatok kivételével – bármely titkos információgyűjtés végzésére jogosult szervet utasíthatja. A katonai ügyészségi nyomozás során a katonai ügyész a bírói engedélyhez nem kötött titkos információgyűjtés elvégzésére az illetékes nemzetbiztonsági szolgálatot is megkeresheti.
 
 (4) Ha a nemzetbiztonsági szolgálatok hivatásos állományú tagja által elkövetett bűncselekmény nyomozása során az ügyész titkos információgyűjtést kezd, e tényről tájékoztatja azon szolgálat főigazgatóját, amelynek állományába az említett személy tartozik. A titkos információgyűjtés elvégzésére ilyen esetben az ügyész az érintett nemzetbiztonsági szolgálatot is felkérheti.
 
-9/B. § (1) Az ügyészségi nyomozás kizárólagos hatáskörébe tartozó bűncselekmény (Be. 29. §) elkövetésének felderítése, megszakítása, az elkövető kilétének megállapítása, az elkövető elfogása, tartózkodási helyének megállapítása, továbbá a bizonyítékok megszerzése céljából a nyomozó ügyész, illetve megbízása alapján az ügyészségi nyomozó – az e törvényben foglalt eltérésekkel – titokban információt gyűjthet az Rtv. VII. fejezetében meghatározott szabályok szerint. Ahol az Rtv. a titkos információgyűjtés körében a rendőrség számára állapít meg jogokat, ott a nyomozó ügyészséget kell érteni.
+(5) A titkos információgyűjtés eszközei, módszerei alkalmazásának részletes szabályait a legfőbb ügyész állapítja meg.
 
-(2) Ha az Rtv. a bírói engedélyhez nem kötött titkos információgyűjtés keretében végzett cselekményhez az ügyész engedélyét (hozzájárulását, jóváhagyását) írja elő, az engedélyezés jogkörét a nyomozó ügyészség vezetője gyakorolja.
-
-(3) A bírói engedélyhez nem kötött titkos információgyűjtés elvégzésére a nyomozó ügyészség vezetője – a nemzetbiztonsági szolgálatok kivételével – bármely titkos információgyűjtés végzésére jogosult szervet utasíthatja, az illetékes nemzetbiztonsági szolgálatot megkeresheti.
-
-(4) Ha a nemzetbiztonsági szolgálatok hivatásos állományú tagját érintően az ügyész titkos információgyűjtést kezd, e tényről tájékoztatja azon szolgálat főigazgatóját, amelynek állományába az említett személy tartozik. A titkos információgyűjtés elvégzésére ilyen esetben az ügyész az érintett nemzetbiztonsági szolgálatot is felkérheti.
-
-9/C. § (1) A bírói engedélyhez kötött titkos információgyűjtés körében a különleges eszköz alkalmazása iránti kérelmet a hatáskörrel és illetékességgel rendelkező nyomozó ügyészség vezetője terjeszti elő.
-
-(2) A kérelemnek tartalmaznia kell
-
-- a) a különleges eszköz alkalmazásának helyét, az alkalmazással érintett nevét, illetőleg az azonosításra alkalmas – rendelkezésre álló – adatot,
-- b) az alkalmazni kívánt különleges eszköz megnevezését,
-- c) az alkalmazás tervezett kezdetét és végét napban és órában meghatározva,
-- d) az alkalmazás törvényi feltételeinek meglétére vonatkozó indokolást.
-
-(3) A különleges eszköz alkalmazását az engedélyt kérő nyomozó ügyészség székhelye szerint illetékes helyi bíróságnak a megyei (fővárosi) bíróság elnöke által kijelölt bírája (a továbbiakban: bíró) engedélyezi.
-
-(4) A bíró a különleges eszköz engedélyezése iránti kérelem benyújtásától számított 72 órán belül indokolt végzéssel határoz, a kérelemnek helyt ad, vagy azt a törvényi feltételek hiánya miatt elutasítja.
-
-(5) A bíró a különleges eszköz alkalmazását, illetve az eszköz igénybevételét esetenként legfeljebb 90 napra engedélyezheti, illetőleg – a 9/C. § (2) bekezdése szerinti kérelemre – 90 nappal ismételten meghosszabbíthatja.
-
-(6) Ha a különleges eszköz alkalmazásának engedélyezése olyan késedelemmel járna, amely az adott ügyben nyilvánvalóan sértené a bűnüldözés eredményességéhez fűződő érdeket, a nyomozó ügyészség vezetője elrendelheti a titkos kutatást, illetőleg 72 óra időtartamra a különleges eszköz alkalmazását (sürgősségi elrendelés).
-
-(7) A sürgősségi elrendelés esetén az engedélyezés iránti kérelmet egyidejűleg be kell nyújtani. A kérelem elutasítása esetén sürgősségi elrendelésnek ugyanabból a célból, változatlan indok vagy tényállás alapján ismételten nincs helye.
-
-(8) A nyomozó ügyészség vezetője haladéktalanul elrendeli a különleges eszköz alkalmazásának megszüntetését, ha
-
-- a) az engedélyben meghatározott célját elérte,
-- b) az engedélyben megállapított határidő lejárt,
-- c) nyilvánvaló, hogy további alkalmazásától nem várható eredmény,
-- d) a sürgősséggel elrendelt alkalmazást a bíró nem engedélyezte.
-
-(9) A (8) bekezdés d) pontja esetében a különleges eszköz alkalmazásával rögzített információt haladéktalanul meg kell semmisíteni.
-
-(10) A különleges eszközzel végzett megfigyelés befejezését követő 8 napon belül meg kell semmisíteni a megfigyelés célja szempontjából érdektelen rögzített információt vagy az ügyben nem érintett személy adatait.
-
-9/D. § (1) A titkos információgyűjtés eszközei, módszerei alkalmazásának részletes szabályait a legfőbb ügyész állapítja meg.
-
-(2) Az ügyészségi nyomozás során – ideértve az ügyészségi nyomozás kizárólagos hatáskörébe tartozó bűncselekmények nyomozását is – a bírói engedélyhez kötött titkos adatszerzésre a büntetőeljárásról szóló törvény rendelkezései az irányadóak.
+(6) Az ügyészségi nyomozás során a bírói engedélyhez kötött titkos adatszerzésre a büntetőeljárásról szóló törvény rendelkezései az irányadóak.
 
 ### III. Fejezet — Az ügyész részvétele a bírósági eljárásban
 
@@ -154,13 +116,13 @@ a Magyar Köztársaság ügyészségéről
 - e) mindazon perekben és peren kívüli eljárásokban, amelyekben az ügyészt külön törvény alapján önállóan, vagy más mellett keresetindítási jog, illetőleg jogorvoslati jog illeti meg, az ügyészi perbelépés (jogorvoslat) megfontolása céljából a bírósági iratokba betekinthet;
 - f) külön törvény felhatalmazása alapján az ügyész által közérdekből indítható polgári peres eljáráshoz az állami, a helyi önkormányzati és a kisebbségi önkormányzati szervek, a köztestületek és a gazdálkodó szervezetek vezetőitől iratok és adatok rendelkezésre bocsátását, továbbá felvilágosítás adását kérheti; a megkeresett szerv vezetője az ügyészi felkérésnek köteles az ügyész által kitűzött határidőn belül eleget tenni.
 
-(3) A helyi bíróságon – törvényben meghatározott esetben – ügyészségi fogalmazó és ügyészségi titkár is képviselheti a vádat.
+(3) A helyi bíróságon ügyészségi titkár is képviselheti a vádat, kivéve, ha a bíróság az ügyészt a tárgyaláson való részvételre kötelezte.
 
 ### IV. Fejezet — A büntetések, intézkedések, a személyes szabadságot korlátozó kényszerintézkedések végrehajtása törvényességének felügyelete, és a büntetésvégrehajtással kapcsolatos bírósági eljárásban való ügyészi közreműködés
 
 11. § Az ügyész az ezen fejezetben írt felügyeleti tevékenysége során bármely időpontban
 
-- a) ellenőrizheti az őrizetbe vétel, az előzetes letartóztatás, a kényszergyógykezelés és az ideiglenes kényszergyógykezelés, a szabadságvesztés, a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben, a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott őrizet és e törvények alapján elrendelt kitoloncolások végrehajtása, a szabálysértési és a pénzbírságot helyettesítő elzárás, valamint a nyomozó hatóságok előállító helyiségeiben foganatosított személyes szabadságkorlátozás törvényességét; megtekintheti a fogva tartás körülményeit és rendjét szabályozó utasításokat, a fogvatartási iratokat;
+- a) ellenőrizheti az őrizetbe vétel, az előzetes letartóztatás, a kényszergyógykezelés és az ideiglenes kényszergyógykezelés, a szabadságvesztés, a külföldiek beutazásáról és tartózkodásáról szóló törvényben meghatározott őrizet, a szabálysértési és a pénzbírságot helyettesítő elzárás, valamint a nyomozó hatóságok előállító helyiségeiben foganatosított személyes szabadságkorlátozás törvényességét; megtekintheti a fogvatartás körülményeit és rendjét szabályozó utasításokat, a fogvatartási iratokat;
 - b) ellenőrizheti a javítóintézetekben az előzetes letartóztatás foganatosításának, valamint a javítóintézeti nevelés végrehajtásának törvényességét;
 - c) ellenőrizheti az illetékes szerveknél a büntetések és az intézkedések végrehajtására vonatkozó jogszabályok megtartását, így különösen
   - ca) a közérdekű munka,
@@ -200,11 +162,11 @@ törvényességét, megtekintheti a fogvatartás körülményeit és rendjét sz
 
 ### Az ügyész jogai az ügyészi törvényességifelügyelet körében
 
-13. § (1) Az ügyészi törvényességi felügyelet a Kormánynál alacsonyabb szintű közigazgatási szervek által kibocsátott jogszabályokra, illetőleg a közjogi szervezetszabályozó eszközökre, valamint e szervek egyéb, általános érvényű rendelkezéseire és e szervek jogalkalmazás körébe tartozó egyedi döntéseire terjed ki. Kiterjed ezen túlmenően a bíróságon kívüli, jogvitát intéző vagy hatósági jogkört gyakorló szervek és személyek ez irányú eljárásaira és egyedi döntéseire, valamint a gazdálkodó és egyéb szerveknek, jogi személyiséggel nem rendelkező szervezeteknek a munkaviszonnyal és a szövetkezeti tagsági viszonnyal összefüggő egyedi döntéseire, továbbá a jogszabályok felhatalmazása alapján kiadott általános érvényű intézkedéseire. Törvény az ügyészi törvényességi felügyelet hatályát más – e bekezdésben nem említett – szervekre is kiterjesztheti.
+13. § (1) Az ügyészi törvényességi felügyelet a Kormánynál alacsonyabb szintű közigazgatási szervek által kibocsátott jogszabályokra, illetőleg az állami irányítás egyéb jogi eszközeire, valamint e szervek egyéb, általános érvényű rendelkezéseire és e szervek jogalkalmazás körébe tartozó egyedi döntéseire terjed ki. Kiterjed ezen túlmenően a bíróságon kívüli, jogvitát intéző vagy hatósági jogkört gyakorló szervek és személyek ez irányú eljárásaira és egyedi döntéseire, valamint a gazdálkodó és egyéb szerveknek, jogi személyiséggel nem rendelkező szervezeteknek a munkaviszonnyal és a szövetkezeti tagsági viszonnyal összefüggő egyedi döntéseire, továbbá a jogszabályok felhatalmazása alapján kiadott általános érvényű intézkedéseire. Törvény az ügyészi törvényességi felügyelet hatályát más – e bekezdésben nem említett – szervekre is kiterjesztheti.
 
 (2) Az ügyész a törvényesség biztosítása érdekében az ügyészi törvényességi felügyelet során
 
-- a) óvást emelhet az Alkotmánnyal vagy magasabb szintű jogszabállyal ellentétes jogszabály, illetőleg közjogi szervezetszabályozó eszköz ellen;
+- a) óvást emelhet az Alkotmánnyal vagy magasabb szintű jogszabállyal ellentétes jogszabály, illetőleg állami irányítás egyéb jogi eszköze ellen;
 - b) elbírálja azokat a törvényességi kérelmeket, közérdekű bejelentéseket és törvénysértésre utaló jelzéseket, amelyeket az államigazgatás és más, bíróságon kívüli jogalkalmazó szervek határozatai, illetőleg törvénysértő mulasztásai ellen az ügyészséghez benyújtanak;
 - c) a hatáskörébe tartozó területi és helyi szerveknél általános érvényű rendelkezés (szabályzat, alapszabály stb.) kiadását, módosítását vagy egyes rendelkezéseinek hatályon kívül helyezését kezdeményezheti;
 - d) ellenőrizheti a körözési nyilvántartásra vonatkozó jogszabályok megtartását;
@@ -217,9 +179,9 @@ törvényességét, megtekintheti a fogvatartás körülményeit és rendjét sz
 
 ### Az óvás
 
-13/A. § (1) Ha az ügyész azt állapítja meg, hogy ügyészi törvényességi felügyeleti jogkörébe tartozó szerv által kibocsátott jogszabály vagy a közjogi szervezetszabályozó eszköz az Alkotmánnyal, illetőleg magasabb szintű jogszabállyal ellentétes, ennek megszüntetése érdekében az azt kibocsátó szervhez óvást nyújthat be.
+13/A. § (1) Ha az ügyész azt állapítja meg, hogy ügyészi törvényességi felügyeleti jogkörébe tartozó szerv által kibocsátott jogszabály vagy az állami irányítás egyéb jogi eszköze az Alkotmánnyal, illetőleg magasabb szintű jogszabállyal ellentétes, ennek megszüntetése érdekében az azt kibocsátó szervhez óvást nyújthat be.
 
-(2) A szerv az óvást harminc napon belül köteles megvizsgálni. Ha az óvást alaposnak tartja, a jogszabályt, illetőleg a közjogi szervezetszabályozó eszközt hatályon kívül helyezi, visszavonja vagy módosítja, és erről az ügyészt egyidejűleg értesíti.
+(2) A szerv az óvást harminc napon belül köteles megvizsgálni. Ha az óvást alaposnak tartja, a jogszabályt, illetőleg az állami irányítás egyéb jogi eszközét hatályon kívül helyezi, visszavonja vagy módosítja, és erről az ügyészt egyidejűleg értesíti.
 
 (3) Ha a szerv az óvással nem ért egyet, a megvizsgálástól számított nyolc napon belül köteles az óvást elbírálás végett az Alkotmánybíróság elé terjeszteni és erről az ügyészt értesíteni.
 
@@ -270,20 +232,6 @@ törvényességét, megtekintheti a fogvatartás körülményeit és rendjét sz
 (5) A szabálysértési (bírságolási) ügyben benyújtott óvásnak a kifogásolt határozat, illetőleg intézkedés végrehajtására halasztó hatálya van. Az elkövető terhére óvásnak csak a határozat jogerőre emelkedésétől számított hat hónapon belül van helye.
 
 17/A. § Az ügyész előzetesen jóváhagyja a rendőrségnek a büntetőeljárásban résztvevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló törvény szerint az érintett személyazonosságának megváltoztatására irányuló intézkedését.
-
-### A megbízhatósági vizsgálat feletti felügyelet
-
-17/B. § (1) Az ügyész a (2) bekezdésben meghatározottak szerint felügyel az Rtv.-ben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv által folytatott megbízhatósági vizsgálat törvényességére.
-
-(2) A felügyelet során az ügyész
-
-- a) jogosult a megbízhatósági vizsgálat elrendeléséről szóló határozatról, továbbá a megbízhatósági vizsgálat végrehajtásáról szóló részletes tervről az elrendelést követő – a határozat és a részletes terv megküldésével történő – haladéktalan tájékoztatásra,
-- b) az elrendelésről szóló, az a) pontban meghatározott iratok kézhezvételét követő 2 munkanapon belül dönt a megbízhatósági vizsgálat lefolytatásának jóváhagyásáról,
-- c) jogosult a megbízhatósági vizsgálat teljes dokumentációjába korlátozás nélkül betekinteni,
-- d) jogosult a megbízhatósági vizsgálat befejezéséről szóló indokolt határozatról – a határozat megküldésével történő – haladéktalan tájékoztatásra, valamint
-- e) a d) pont szerinti határozat kézhezvételétől számított 8 munkanapon belül óvást emelhet.
-
-(3) Az ügyész a megbízhatósági vizsgálat befejezéséről szóló indokolt határozatot a kézhezvételét követő 8 munkanapon belül visszaküldi az Rtv.-ben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnek.
 
 ### VI. Fejezet — Az ügyészi szervezet.
 
@@ -374,8 +322,6 @@ felelősségre vonására.
 28. § (1) Ez a törvény 1973. január 1. napján lép hatályba. Végrehajtásáról a legfőbb ügyész gondoskodik.
 
 (2)–(3)
-
-29. § Ahol e törvény közjogi szervezetszabályozó eszközt említ, azon az állami irányítás egyéb jogi eszközét is érteni kell.
 
 ### 1. számú melléklet az 1972. évi V. törvényhez
 

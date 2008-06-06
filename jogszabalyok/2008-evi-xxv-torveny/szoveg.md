@@ -72,13 +72,15 @@ f) a Miniszterelnöki Hivatalt vezető miniszter, hogy a 12. § (7) bekezdéséb
 
 (5) A Magyar Közlöny 1998. január 1-jétől kezdődően, de 2008. július 1-jét megelőzően kiadott számait, valamint a Törvények és Rendeletek Hivatalos Gyűjteményének 2003. január 1-jét követően, de 2008. július 1-jét megelőzően kiadott számait a Magyar Közlöny 2008. július 1-jén hivatalban levő felelős szerkesztőjének a minősített elektronikus aláírásával ellátott elektronikus dokumentumként 2008. július 31-ig a kormányzati portálon közzé kell tenni.
 
-(6)
+(6) Felhatalmazást kap a Miniszterelnöki Hivatalt vezető miniszter, hogy rendeletben szabályozza a hivatalos lapokkal és a hivatalos jogszabálygyűjteményekkel összefüggő adatbázisok felhasználói jogainak a Magyar Közlöny Lap- és Könyvkiadó Korlátolt Felelősségű Társaság részéről a Miniszterelnöki Hivatalnak való átengedését.
 
 8. § (1) A Magyar Köztársaság ügyészségéről szóló 1972. évi V. törvény 19. §-a a következő új (7) bekezdéssel egészül ki:
 
 „(7) Az ügyészség hivatalos lapja az Ügyészségi Közlöny, amelynek kiadását, tartalmát és megjelenését a legfőbb ügyész utasítással szabályozza.”
 
-(2)–(3)
+(2) A jogalkotásról szóló 1987. évi XI. törvény (a továbbiakban: Jat.) 57. § (4) bekezdésében és 58. § (4) bekezdésében az „a Minisztertanács Titkársága” szövegrész helyébe az „a feladatkörrel rendelkező miniszter által kijelölt személy” szöveg, 58. § (2) bekezdésében az „a Minisztertanács Titkárságának a vezetője” szövegrész és az 59. § (3) bekezdésében az „a Minisztertanács Titkársága vezetőjének az” szövegrész helyébe az „a Határozatok Tára szerkesztője” szöveg, 60. §-ában az „Az igazságügyminiszter és a Minisztertanács Titkárságának a vezetője” szövegrész helyébe az „A Kormány által kijelölt szerv vagy személy” szöveg lép.
+
+(3) A Jat. 59. §-át megelőző alcímben a „minisztérium és az országos hatáskörű szerv” szövegrész helyébe a „minisztérium, az autonóm államigazgatási szerv és a kormányhivatal” szöveg, 59. § (1) bekezdésében a „minisztérium és az országos hatáskörű szerv” szövegrész helyébe a „minisztérium, az autonóm államigazgatási szerv és – külön törvény rendelkezése alapján – a kormányhivatal” szöveg, 59. § (2) bekezdésében az „a minisztérium, az országos hatáskörű szerv, illetőleg az általuk irányított vagy felügyelt szerv” szövegrész helyébe az „a minisztérium, az autonóm államigazgatási szerv, a kormányhivatal, illetve a miniszter által irányított központi államigazgatási szerv” szöveg, 59. § (3) bekezdésében a „minisztérium, illetőleg az országos hatáskörű szerv” szövegrész helyébe a „minisztérium, az autonóm államigazgatási szerv vagy a kormányhivatal” szöveg lép.
 
 (4) Az Einfotv. 2. § (1) bekezdés c) pontjában a „korlátozástól mentesen, díjmentesen” szövegrész helyébe a „korlátozástól mentesen, kinyomtatható és részleteiben is kimásolható módon, a betekintés, a letöltés, a nyomtatás, a kimásolás és a hálózati adatátvitel szempontjából is díjmentesen” szöveg, 17. § (3) bekezdésében a „határozatok anonimizált” szövegrész helyébe a „határozatoknak az Országos Igazságszolgáltatási Tanács által meghatározott eljárásban a bíróság által anonimizált” szöveg lép.
 
