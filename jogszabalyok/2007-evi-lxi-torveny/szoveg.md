@@ -462,7 +462,7 @@ eb) a tag (zálogkötelezett) által benyújtott törlési kérelem esetén a z�
 
 (7) A Ctv. e törvénnyel módosított rendelkezéseit a rendelkezések hatálybalépését követően indult cégbejegyzési eljárásokban kell alkalmazni. A cégjegyzékbe már bejegyzett cégek a hatálybalépési időpontot követően benyújtott első változásbejegyzési kérelmükben kötelesek cégjegyzékben korábban nem szereplő adataikat bejelenteni azzal, hogy amennyiben az adat igazolására szolgáló okirat a cég cégiratai közé korábban benyújtásra került, okiratot mellékelni nem kell.
 
-(8)
+(8) E törvény hatálybalépését követő 5 éven belül az Országgyűléshez jelentést kell benyújtani, amely a cégek piacra lépésének jogi, adminisztratív és egyéb feltételeit vizsgálva bemutatja különösen a Gt. és a Ctv. rendelkezéseinek érvényesülését, és amely szükség szerint javaslatot tesz cégek alapításával, piacra lépésével és működésével összefüggő terhek további csökkentésére.
 
 (9) Felhatalmazást kap az igazságügyért felelős miniszter, hogy az Európai Parlament és a Tanács a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK rendelet cégeljárást érintő végrehajtási kérdéseinek részletes szabályait rendeletben állapítsa meg.
 
