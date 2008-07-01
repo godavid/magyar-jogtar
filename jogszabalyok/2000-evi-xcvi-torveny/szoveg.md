@@ -19,8 +19,7 @@ Az Országgyűlés a demokratikus közélet tisztaságának további előmozdít
 - e) ha az önkormányzati képviselő egy éven át nem vesz részt a képviselő-testület ülésén,
 - f) a képviselő-testület feloszlatásával,
 - g) a képviselő-testület feloszlása esetén,
-- h) az önkormányzati képviselő halálával,
-- i) ha szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítélték.
+- h) az önkormányzati képviselő halálával.
 
 3. § (1) Az önkormányzati képviselő a képviselő-testület ülésén jelentheti be lemondását. A lemondást és a megbízatás megszűnésének időpontját az ülés jegyzőkönyvében rögzíteni kell.
 
@@ -33,30 +32,28 @@ Az Országgyűlés a demokratikus közélet tisztaságának további előmozdít
 - a) a képviselő által meghatározott, a lemondást követő egy hónapon belüli időpontban, ennek hiányában
 - b) a lemondás bejelentésének, illetve az írásbeli nyilatkozat átvételének napján.
 
-3/A. § Az önkormányzati képviselő köteles a 2. § i) pontban foglaltak alapján a jogerős ítéletről a jogerős ítélet kézhezvételétől számított három napon belül tájékoztatni a képviselő-testületet, közgyűlést, az illetékes választási bizottságot és a fővárosi és megyei kormányhivatalt.
-
-4. § (1) Az önkormányzati képviselői megbízatás megszűnését a 2. § c), e) és i) pontja esetén a képviselő-testület a határozatában állapítja meg.
+4. § (1) Az önkormányzati képviselői megbízatás megszűnését a 2. § c) és e) pontja esetén a képviselő-testület a határozatában állapítja meg.
 
 (2) A képviselő-testület (1) bekezdés szerinti határozatát az ülést követő munkanapon kézbesíteni kell:
 
 - a) az érintett önkormányzati képviselőnek,
 - b) a választási bizottságnak,
-- c) a fővárosi és megyei kormányhivatalnak.
+- c) a közigazgatási hivatalnak.
 
 ### Összeférhetetlenség
 
 5. § Az önkormányzati képviselő nem lehet:
 
 - a) központi államigazgatási szerv köztisztviselője,
-- b) a fővárosi és megyei kormányhivatalnak a vezetője, köztisztviselője, továbbá annak a területi, helyi államigazgatási szervnek a köztisztviselője, amelynek feladatkörébe az adott önkormányzatot érintő ügyek tartoznak és illetékessége az önkormányzatra kiterjed,
+- b) a közigazgatási hivatal vezetője, köztisztviselője, továbbá annak a területi, helyi államigazgatási szervnek a köztisztviselője, amelynek feladatkörébe az adott önkormányzatot érintő ügyek tartoznak és illetékessége az önkormányzatra kiterjed,
 - c) jegyző (főjegyző, körjegyző), aljegyző, továbbá ugyanannál az önkormányzatnál a képviselő-testület hivatalának köztisztviselője,
 - d) a területileg illetékes területfejlesztési tanács munkaszervezetének munkavállalója,
-- e) a Magyar Nemzeti Bank elnöke, alelnöke, a Pénzügyi Békéltető Testület elnöke és a pénzügyi békéltető testületi tag, továbbá a Magyar Nemzeti Bank fizetési, elszámolási, és értékpapír-elszámolási rendszerek felvigyázásával, a makroprudenciális politika kialakításával, a szanálási hatósági feladatok ellátásával és a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatköréhez kapcsolódó feladatot ellátó alkalmazottja,
+- e)
 - f) kuratóriumi tagság kivételével a képviselő-testület által létrehozott közalapítvány kezelő szervének tisztségviselője,
 - g) a képviselő-testület által alapított önkormányzati vállalat vezérigazgatója, vezérigazgató-helyettese, igazgatója, igazgatóhelyettese, igazgatótanácsának, vezető testületének tagja,
 - h) az önkormányzat tulajdoni részesedésével működő gazdasági társaság vezető tisztségviselője, igazgatótanácsának, igazgatóságának vagy vezető testületének, valamint a társasággal munkaviszonyban vagy munkavégzésre irányuló más jogviszonyban álló vezetője (vezérigazgatója),
 - i) az önkormányzat tulajdoni részesedésével működő gazdasági társaság által alapított gazdasági társaság vezérigazgatója, vezérigazgató-helyettese, igazgatója, igazgatóhelyettese, igazgatótanácsának, igazgatóságának vagy vezető testületének tagja,
-- j) helyi és körzeti médiaszolgáltató, lapkiadó, lapterjesztő vezetője, vezető testületének tagja, ügyvezetője, ezek vezető állású alkalmazottja.
+- j) helyi és körzeti műsorszolgáltató, lapkiadó, lapterjesztő vezetője, vezető testületének tagja, ügyvezetője, ezek vezető állású alkalmazottja.
 
 6. § Az önkormányzati képviselő tiszteletdíjat, más járandóságot – a költségtérítés kivételével – nem vehet fel az önkormányzat által létrehozott közalapítványban, közhasznú társaságban végzett tevékenységéért.
 
@@ -78,11 +75,11 @@ Az Országgyűlés a demokratikus közélet tisztaságának további előmozdít
 
 ### Jogorvoslat
 
-10. § (1) Az érintett önkormányzati képviselő az összeférhetetlenségét megállapító, illetőleg a megbízatása megszűnését a 2. § e) pontja alapján kimondó képviselő-testületi határozat felülvizsgálatát kérheti – jogszabálysértésre hivatkozással – a határozat kézhezvételétől számított 8 napon belül a közigazgatási és munkaügyi bíróságtól.
+10. § (1) Az érintett önkormányzati képviselő az összeférhetetlenségét megállapító, illetőleg a megbízatása megszűnését a 2. § e) pontja alapján kimondó képviselő-testületi határozat felülvizsgálatát kérheti – jogszabálysértésre hivatkozással – a határozat kézhezvételétől számított 8 napon belül a fővárosi, megyei bíróságtól.
 
 (2) A bíróság a kérelemről – annak beérkezésétől számított harminc napon belül – nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság az érintett önkormányzati képviselőt, a polgármestert vagy a keresettel megtámadott határozatot hozó képviselő-testület képviselőjét, illetőleg a kereset előterjesztőjét meghallgathatja. A bíróság döntése ellen további jogorvoslatnak, felülvizsgálatnak helye nincs.
 
-(3) A fővárosi és megyei kormányhivatal a közigazgatási és munkaügyi bíróságnál kezdeményezheti az önkormányzati képviselő összeférhetetlenségének a kimondását, ha a képviselő-testület nem dönt az összeférhetetlenségről, vagy döntése jogszabálysértő. A bíróság eljárására a (2) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a bíróság döntése ellen – annak kézhezvételétől számított nyolc napon belül – az érintett önkormányzati képviselő, illetve a fővárosi és megyei kormányhivatal fellebbezést nyújthat be. A fellebbezésről, annak beérkezésétől számított három napon belül a másodfokú bíróság nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság döntése ellen felülvizsgálatnak helye nincs.
+(3) A közigazgatási hivatal a fővárosi, megyei bíróságnál kezdeményezheti az önkormányzati képviselő összeférhetetlenségének a kimondását, ha a képviselő-testület nem dönt az összeférhetetlenségről, vagy döntése jogszabálysértő. A bíróság eljárására a (2) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a bíróság döntése ellen – annak kézhezvételétől számított nyolc napon belül – az érintett önkormányzati képviselő, illetve a közigazgatási hivatal fellebbezést nyújthat be. A fellebbezésről, annak beérkezésétől számított három napon belül a másodfokú bíróság nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság döntése ellen felülvizsgálatnak helye nincs.
 
 10/A. § (1) Az önkormányzati képviselő a megbízólevelének átvételétől, majd ezt követően minden év január 1-jétől számított 30 napon belül az e törvény melléklete szerinti vagyonnyilatkozatot köteles tenni. A képviselő saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, valamint gyermekének a melléklet szerinti vagyonnyilatkozatát.
 
@@ -108,17 +105,15 @@ Az Országgyűlés a demokratikus közélet tisztaságának további előmozdít
 
 12. § Az önkormányzati képviselők képzéséről, továbbképzéséről a feladataik eredményes ellátása érdekében a képviselő-testület gondoskodik.
 
-### Az egyenlő esélyű hozzáférés biztosítása
+[Az egyenlő esélyű hozzáférés biztosítása
 
 12/A. § (1) Az önkormányzati képviselő a képviselő-testület, illetve a képviselő-testület bizottságának ülésén a magyar jelnyelvet, illetőleg az általa választott speciális kommunikációs rendszert használhatja.
 
-(2) A magyar jelnyelv, valamint a választott speciális kommunikációs rendszer használatának valamennyi költségét az önkormányzat biztosítja.
+(2) A magyar jelnyelv, valamint a választott speciális kommunikációs rendszer használatának valamennyi költségét az önkormányzat biztosítja.]
 
 ### Hatálybalépés
 
 13. § E törvény a kihirdetését követő önkormányzati általános választás napján lép hatályba.
-
-13/A. § A 2. § i) pontját az egyes önkormányzati tárgyú törvények módosításáról szóló 2012. évi CXLV. törvény hatálybalépést követően jogerőre emelkedett ítéletekre kell alkalmazni.
 
 ### Módosuló rendelkezések
 
