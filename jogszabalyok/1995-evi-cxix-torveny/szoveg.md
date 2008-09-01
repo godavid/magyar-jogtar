@@ -1,0 +1,187 @@
+# 1995. évi CXIX. törvény
+
+a kutatás és a közvetlen üzletszerzés célját szolgáló név- és lakcímadatok kezeléséről
+
+Az Országgyűlés — kiindulva abból, hogy az Alkotmány szerint a Magyar Köztársaság biztosítja a személyes adatok védelméhez való jogot, valamint a tudományos kutatás szabadságát, a szabad véleménynyilvánítás és a piacgazdaság feltételeit; figyelembe véve a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény, az Európa Tanács 108. számú Egyezményét a személyiségnek személyes adatok automatikus kezelésével kapcsolatos védelméről, valamint az Európa Tanács Ajánlásait — a kutatás és a közvetlen üzletszerzés célját szolgáló név- és lakcímadatok kezeléséről a következő törvényt alkotja:
+
+#### I.
+
+### Általános rendelkezések
+
+1. § (1) E törvény hatálya kiterjed azokra a természetes és jogi személyekre, valamint jogi személyiséggel nem rendelkező szervezetekre, amelyek tudományos kutatás, közvélemény-kutatás, piackutatás és közvetlen üzletszerzéshez történő kapcsolatfelvétel céljára név- és lakcímadatot igényelnek, illetőleg kezelnek.
+
+(2) E törvény hatálya nem terjed ki a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény alapján történő kutatásra.
+
+2. § (1) E törvény alkalmazása során:
+
+- 1. Tudományos kutatás: az a tevékenység, amelynek célja a világról, annak jelentéseiről, a jelenségek összefüggéseiről szerzett ismeretek gyarapítása, és amelynél a vizsgált társadalmi, gazdasági és természeti jelenségek objektív összefüggéseinek a feltárásához név- és lakcímadat vagy a személyekkel történő közvetlen kapcsolatfelvétel szükséges.
+- 2. Közvélemény-kutatás: egyének és csoportjaik (a továbbiakban: érintett) véleményének és ítéletalkotásuk összetevőinek kutatása.
+- 3. Piackutatás: az érintett fogyasztói szokásának vizsgálata.
+- 4. Közvetlen üzletszerzés (direkt marketing): azoknak a közvetlen megkeresés módszerével végzett, tájékoztató tevékenységeknek és kiegészítő szolgáltatásoknak az összessége, amelyeknek célja termékek vagy szolgáltatások értékesítésével, szolgáltatásával vagy eladásösztönzésével közvetlen kapcsolatban álló, a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény (a továbbiakban: Grt.) 3. §-ának d) pontja szerinti reklám továbbítása a fogyasztók vagy kereskedelmi partnerek (a továbbiakban együtt: ügyfelek) részére.
+- 5. Üzletszerzési lista: kizárólag postai címzett reklámküldemények útján a Grt. 6. §-ának (4) bekezdése szerint reklámok közlése céljából a kapcsolatfelvételt és kapcsolattartást szolgáló, kizárólag az ügyfél nevét, lakcímét, nemét, születési helyét és idejét, az ügyfél érdeklődési körére vonatkozó információt, valamint családi állapotát tartalmazó lista.
+- 6. Tilalmi lista: azon érintettek név- és lakcímadatainak a nyilvántartása, akik megtiltották, illetve – a közvetlen üzletszerző szerv erre irányuló előzetes megkeresése ellenére – nem járultak hozzá, hogy személyes adataikat az e törvényben meghatározott kapcsolatfelvételi lista vagy üzletszerzési lista céljából felhasználják, vagy megtiltották azok e célból történő további kezelését.
+- 7. Tudományos kutató: az a természetes személy, aki tudományos fokozattal, illetőleg címmel rendelkezik és abban a tudományágban vagy tudományterületen, amelyben felkészültségét bizonyította, tudományos tevékenységet végez; továbbá, aki kutatási feladatot is ellátó szervtől vagy alapítványi támogatótól kapott igazolás szerint tudományos kutatást végez.
+- 8. Közvélemény-kutató, piackutató és közvetlen üzletszerző szerv: az a természetes és jogi személy vagy jogi személyiséggel nem rendelkező szervezet, amely a 2—4. pont alatti tevékenységet jogosult végezni.
+- 9. Kapcsolatfelvételi lista: kizárólag a közvetlen üzletszerzés céljából küldendő küldemények fogadásához való hozzájárulás beszerzése érdekében az ügyfelekkel való kapcsolatfelvételt szolgáló, legfeljebb az ügyfél nevét, lakcímét, elektronikus levélcímét vagy elektronikus hírközlési azonosítóját, nemét, születési helyét és idejét, az ügyfél érdeklődési körére vonatkozó információt, valamint családi állapotát tartalmazó lista.
+- 10. Anonimizálás: olyan technikai eljárás, amely biztosítja az érintett és az adat közötti kapcsolat helyreállítása lehetőségének végleges kizárását.
+
+(2)
+
+### A név- és lakcímadatok átvételének általános szabályai
+
+3. § (1) A tudományos kutató, a közvélemény-kutató és a piackutató kapcsolatfelvétel és kapcsolattartás céljából, valamint a közvetlen üzletszerző szerv kizárólag a kapcsolatfelvételi lista, illetve – a Grt. 6. §-ának (4) bekezdése szerinti esetben – az üzletszerzési lista összeállítása céljából, illetőleg az általuk az adatok kezelésére, átvételére megbízott szerv név- és lakcímadatot a következő forrásból gyűjthet, illetve használhat fel:
+
+- a) annak az érintettnek az adata, akivel korábban az adatkezelő szerv kapcsolatban állt (ügyfél, támogató);
+- b) a jogszerűen nyilvánosságra hozatal céljából készített és nyilvánosságra hozott adatállományban, név- és címjegyzékben, valamint kiadványban — így különösen telefonkönyv, szaknévsor, statisztikai névjegyzék — szereplő adat, feltéve, ha az adatgyűjtéskor vagy az adategyeztetéskor az érintettet tájékoztatták az eredetitől eltérő célra történő adatfelhasználás lehetőségéről, illetőleg a letiltás jogáról;
+- c) más, ugyanazon tevékenységet végző személytől vagy szervtől adat átvételével, amennyiben az érintett az adat átadását az erről szóló előzetes tájékoztatás után nem kifogásolta, vagy tiltotta meg;
+- d) adat igénylésével a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) hatálya alá tartozó nyilvántartásból az Nytv.-ben meghatározott feltételekkel, feltéve, hogy a polgár az adatainak kiadását nem tiltotta meg [Nytv. 2. § (1) bek.].
+
+(2) A tudományos kutatás, a közvélemény-kutatás, illetőleg a piackutatás megkezdéséhez szükséges minta kiválasztásakor, valamint kapcsolatfelvételi, illetve üzletszerzési lista összeállításakor nem lehet kiválasztási szempont olyan ismérv, amelyből egyértelműen különleges adatra lehet következtetni.
+
+4. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásából név- és lakcímadatok az alábbiak szerint igényelhetők:
+
+- a) a tudományos kutatás céljára a kapcsolatfelvételhez az Nytv. 11. §-a (1) bekezdésének a)—e), g)—h) pontjában meghatározott bármely szempont, valamint a családi állapot meghatározott bármely szempont, továbbá
+- b) a közvélemény-kutatás és piackutatás megkezdéséhez szükséges minta kiválasztásához az Nytv. 11. §-a (1) bekezdésének c)—d), h) pontjában meghatározott bármely szempont, valamint a családi állapot meghatározott bármely szempont, valamint
+- c) a kapcsolatfelvételi, illetve üzletszerzési lista összeállításához az Nytv. 11. §-a (1) bekezdésének c), d) és h) pontjában meghatározott szempont, valamint a családi állapot
+
+szerinti megoszlásban.
+
+(2) Az (1) bekezdés alapján történő adatigénylés esetén a kérelmezőnek az ott meghatározott tevékenység végzésére való jogosultságát is megfelelően igazolnia kell.
+
+(3) Az e törvény hatálya alá tartozó adatkezelőnek a név- és lakcímadatok pontosságát és időszerűségét az érintettel való kapcsolattartással vagy a személyiadat- és lakcímnyilvántartással történő rendszeres adategyeztetéssel kell biztosítani. Az adategyeztetés során a személyiadat- és lakcímnyilvántartás szerveinek tájékoztatnia kell az adatigénylőt arról is, ha az érintett időközben adatainak átadását az Nytv. 2. §-ának (1) bekezdése alapján letiltotta. Ha az adatkezelő az adatokat az adategyeztetést megelőzően más szervnek is átadta, a letiltás tényéről e szervet is értesítenie kell.
+
+(4) A személyiadat- és lakcímnyilvántartásból az (1) bekezdés alapján igényelt adat csak az igényléstől, illetőleg a legutóbbi egyeztetésből számított hat hónapon belül használható fel, illetőleg továbbítható.
+
+### Adatvédelem és adatbiztonság
+
+5. § (1) A tudományos kutatás, a közvélemény-kutatás és piackutatás, valamint a közvetlen üzletszerzés céljára történő adatkezelés során — az Avtv.-ben, valamint az e törvényben foglaltaknak megfelelően — biztosítani kell az érintett jogát a személyes adatainak védelméhez. Így különösen:
+
+- a) a kapcsolatfelvétellel egyidejűleg az érintettet írásban tájékoztatni kell arról, hogy a megkereső az adatokat milyen forrásból szerezte; az adatfelhasználás céljáról, módjáról, időtartamáról, az adatkezelés során közreműködő (megbízott) igénybevételéről és az esetleges későbbi adatátadási szándékról; az adatkezelésre jogosult szerv vagy személy nevéről és címéről, valamint arról, hogy az adatszolgáltatás önkéntes, és jogában áll adatainak a megjelölt célra vagy annak egy részére történő kezelésének a megszüntetését kérni;
+- b) biztosítani kell számára azt a jogot, hogy a további együttműködést bármikor indokolás nélkül megtagadhatja, és erről írásban tájékoztatni kell;
+- c) név- és lakcímadatainak az e törvényben meghatározott tevékenységek céljából történő kezelését meg kell szüntetni, amennyiben ezt az érintett kéri, vagy adatainak kezeléséhez nem járul hozzá;
+- d) név- és lakcímadatait harmadik személynek vagy szervezetnek továbbítani — a 3. § (1) bekezdés c) pontja alapján történő adattovábbítás, a megbízás alapján történő adatfeldolgozás, valamint az e törvényben meghatározott adategyeztetés [4. § (3) bekezdése] kivételével — csak az érintett írásbeli hozzájárulásával lehet.
+
+(2) Adatátadás esetén mind az adatátadónak, mind az -átvevőnek az érintett adatokról és az adatátvevőről, illetőleg -átadóról — az adatforgalom ellenőrizhetőségének biztosítása céljából — nyilvántartást kell vezetni. A nyilvántartást az adatátvétel, illetve az adatátadás évét követő ötödik év végéig kell megőrizni. A megbízás alapján történő adatfeldolgozás esetén a megbízó minősül felelős adatkezelőnek.
+
+(3) A személyes adatoknak az adott célból történő kezelését meg kell szüntetni, ha
+
+- a) az a cél, amelyre az adatokat kérték megvalósult, kivéve, ha az érintett az új cél megjelölésével az adatok további kezeléséhez írásban hozzájárult;
+- b) az érintett nyilatkozata szerint a megkereső szervezettel nem kíván együttműködni.
+
+(4) Az adatkezelés megszüntetésén a megsemmisítést vagy az anonimizálást, közvetlen üzletszerzés esetén pedig – ha a megszüntetés a (3) bekezdés b) pontján alapul – egyidejűleg a 21. § szerinti tilalmi listára történő felvételt kell érteni.
+
+(5) Ha az adatkezelést annak bármely szakaszában az érintett kérelme alapján kell megszüntetni, ezért az érintettet jogi felelősség nem terheli.
+
+6. § (1) A tudományos kutatónak, továbbá a közvélemény-kutató, a piackutató és a közvetlen üzletszerző szervnek az adatok biztonságáról megfelelő technikai és szervezési intézkedésekkel kell gondoskodni. Ennek során — a tudományos kutató kivételével — belső adatvédelmi és adatbiztonsági szabályzatot kell készíteni, melyek kialakításához az e törvény hatálya alá tartozó tevékenységeket végző szervezetek szakmai képviseleti szervezetei önszabályozó tevékenységgel nyújtanak segítséget.
+
+(2) Az (1) bekezdésben meghatározott intézkedésekről és azok kötelező betartásáról az adatkezelőket és az adatok kezelésében részt vevő személyeket (alkalmazott, megbízott) tájékoztatni kell.
+
+(3) Az adatkezelő az e törvény hatálya alá tartozó adatkezeléseket — kivéve, ha az tudományos kutatás célját szolgálja, és nem hozzák nyilvánosságra [Avtv. 30. § h) pont] — a tevékenység megkezdése előtt az Avtv. 28. §-ának (1) bekezdése alapján köteles az adatvédelmi biztosnak bejelenteni.
+
+#### II.
+
+### Tudományos kutatási célú adatkezelés
+
+7. § (1) A tudományos kutatónak az e törvény hatálya alá tartozó kutatás megkezdése előtt kutatási adatkezelési tervet kell készítenie. A tervet módosítani kell, ha az adatkezelés célja a kutatás folyamata alatt megváltozik. A kutatási adatkezelési tervnek tartalmaznia kell:
+
+- a) a kutatási jogosultságot,
+- b) a kutatás célját,
+- c) a kezelendő személyes adatok körét és azok forrását,
+- d) az adatkezelés folyamatát,
+- e) az érintett jogai gyakorlati érvényesíthetőségének biztosítékait, valamint
+- f) az adatvédelmet biztosító technikai és szervezési intézkedéseket.
+
+(2) A kutatási adatkezelési tervet az adatkezelés jogszerűségének bizonyíthatósága és az ellenőrzés lehetőségének biztosítása céljából az adatok kezelésének megszüntetéséig meg kell őrizni.
+
+(3) Intézeti tudományos kutatás esetén a tudományos kutató jogai és kötelezettségeit a kutatási tevékenységet végző szervet illetik meg, illetőleg terhelik.
+
+### Adatátvétel és adattovábbítás
+
+8. § (1) A tudományos kutatás céljából a 3. § szerint átvett név- és lakcím adatok újabb információk beszerzése céljából történő felhasználásához az elhunyt személy örökösének a hozzájárulása szükséges, ha az érintett személy az adatok felvételét vagy átvételét megelőző harminc éven belül elhalt. Amennyiben az örökös személye nem állapítható meg, vagy hozzájárulásának beszerzése aránytalan nehézséget jelentene, úgy a hozzájárulást az elhunyt személy hozzátartozója is megadhatja.
+
+(2) A tudományos kutatásban érintett személlyel történő kapcsolatfelvételhez szükséges adatok a 3. § (1) bekezdése alapján vehetők át. A kapcsolatfelvételt követően az érintett név- és lakcímadata csak a vele való folyamatos kapcsolattartáshoz használható fel, és a kutatás befejezésekor az adatok kezelését meg kell szüntetni.
+
+9. § (1) Ha az 5. § (1) bekezdésében meghatározott tájékoztatási kötelezettség teljesítése a kutatási cél megvalósulását veszélyeztetné, akkor az adatgyűjtés befejezését követően kell az érintett személyt adatainak felhasználásáról és jogairól teljeskörűen tájékoztatni.
+
+(2) Ha az érintett a név- és lakcímadatainak a kezelését az (1) bekezdés alapján adott tájékoztatás alkalmával vagy a kutatás későbbi időpontjában megtiltja, azokat kérelmére meg kell semmisíteni, és erről az érintettet írásban tájékoztatni kell.
+
+(3) Az (1) bekezdés szerinti tájékoztatási kötelezettségtől, illetőleg a hozzájárulás beszerzésétől csak akkor lehet eltekinteni, ha a kutatás célja szociális, népegészségügyi, közoktatási vagy környezetvédelmi érdekekkel van összefüggésben, és a tájékoztatás vagy hozzájárulás beszerzése az érintettek nagy száma miatt aránytalanul sok időt, költséget és emberi munkát igényelne. A tájékoztatás, illetőleg a hozzájárulás beszerzése mellőzésének jogszerűségéért az adatigénylő felelős.
+
+10. § A cselekvőképtelen vagy korlátozottan cselekvőképes személy esetén a tájékoztatást a törvényes képviselő részére kell megadni, aki gyakorolja az érintettet megillető nyilatkozattételi jogokat is.
+
+11. § Külföldi tudományos kutató, ha e törvény hatálya alá tartozó adatkezelést kíván végezni, illetőleg, ha a belföldi tudományos kutató a tevékenységét külföldi megbízás alapján végzi, erről a tényről az érintettet köteles írásban tájékoztatni. Külföldre csak anonimizált adat továbbítható, kivéve, ha az érintett az adatai átadásához írásban hozzájárult.
+
+#### III.
+
+### A közvélemény-kutatási és piackutatási célú adatkezelés
+
+12. § (1) A közvélemény-kutatás, illetőleg a piackutatás (a továbbiakban együtt: közvélemény-kutatás) megkezdése előtt a közvélemény-kutató, illetőleg piackutató szervnek (a továbbiakban együtt: közvélemény-kutató szerv) az adatkezelés folyamatának nyomon követése érdekében kutatási adatkezelési tervet kell készítenie, melynek tartalmaznia kell a 7. § (1) bekezdésében meghatározott információkat.
+
+(2) A közvélemény-kutatás megkezdéséhez a név- és lakcímadatok csak a 3. § (1) bekezdésében meghatározott forrásból vehetők át.
+
+13. § (1) A közvélemény-kutató szerv a 12. § alapján megszerzett vagy rendelkezésre álló név- és lakcímadatokat a kapcsolatfelvételen kívül egyéb célra csak az érintett írásbeli hozzájárulásával használhatja fel.
+
+(2) Ha a közvélemény-kutató szerv és az érintett között kapcsolat jön létre, a kapcsolatfelvétel után haladéktalanul a név- és lakcímadatokat a közvélemény-kutatás egyéb adataitól le kell választani, azt elkülönítetten kell tárolni, és biztosítani kell, hogy a közvélemény-kutatással érintett személye ne legyen azonosítható. A név- és lakcímadatok ismételt kapcsolatfelvételre csak akkor használhatók fel, ha az érintett a folyamatos kapcsolattartáshoz vagy az ismételt kapcsolatfelvételhez írásban hozzájárul. Az érintett név- és lakcímadatait, valamint egyéb személyes adatait és az általa nyújtott információkat csak akkor lehet együttesen feldolgozni, illetőleg tárolni, ha az érintett ehhez írásban külön és kifejezetten hozzájárult.
+
+(3) A (2) bekezdés alapján elkülönítetten tárolt név- és lakcímadatok feldolgozására olyan technikai módszert kell kialakítani, amely lehetetlenné teszi a megkérdezett válaszainak a név- és lakcímadataival történő összekapcsolását.
+
+(4) A (2) bekezdés szerinti név- és lakcímadatok kezelését az érintett ilyen irányú kérelme alapján haladéktalanul, ennek hiányában a közvélemény-kutatási tevékenység megszüntetésével egyidejűleg, illetőleg a folyamatos kapcsolattartás befejezésekor — az 5. § (4) bekezdése szerint eljárva — kell megszüntetni.
+
+14. § (1) A közvélemény-kutatás során adott válaszok feldolgozásának minden szakaszában biztosítani kell a megkérdezett személy teljes anonimitását, valamint a véleményadás önkéntességét.
+
+(2) A közvélemény-kutatás eredményeként kialakított következtetésben nem szerepelhet az érintett azonosítására alkalmas adat.
+
+(3) A közvélemény-kutatás során az érintett személyes adatai, illetőleg véleménye alapján nem lehet olyan intézkedést tenni, döntést hozni, vagy következtetést levonni, amely a személyére vonatkozik vagy azt érinti.
+
+15. § A közvélemény-kutató szerv az érintettek személyiségi jogairól, a személyes adatok védelméről és az adatvédelmi követelmények megszegésének jogkövetkezményeiről köteles a megbízásából eljáró személyeket megfelelően kioktatni. A személyes adatok védelméért a közvélemény-kutató szerv a felelős.
+
+16. § (1) Külföldi közvélemény-kutató szerv vagy személy, ha e törvény hatálya alá tartozó adatkezelést kíván végezni, illetőleg, ha a belföldi közvélemény-kutató szerv vagy személy tevékenységét külföldi megbízás alapján végzi, erről a tényről az érintettet köteles írásban tájékoztatni. Külföldre csak olyan feldolgozott információ továbbítható, amelyből az érintett személyére nem lehet következtetni, kivéve, ha az érintett az adatai átadásához írásban hozzájárult.
+
+(2) A piackutatás céljára gyűjtött adatok nem adhatók át közvetlen üzletszerzés céljára.
+
+#### IV.
+
+### A közvetlen üzletszerzési célú adatkezelés
+
+17. § (1) A közvetlen üzletszerző szerv a jogszerű tevékenységének végzéséhez szükséges listák összeállításához a kapcsolatfelvétel, illetve – a Grt. 6. §-ának (4) bekezdése szerinti esetben – kapcsolatfelvétel vagy kapcsolattartás céljából név- és lakcímadatokat csak a 3. § (1) bekezdésében meghatározott forrásból vehet át, és az e törvényben, illetve a Grt.-ben előírt feltételek teljesítése esetén gyűjthet.
+
+(2) A 3. § (1) bekezdésének a) pontja tekintetében ügyfélnek vagy támogatónak az tekinthető, aki – a termékekre vagy szolgáltatásokra vonatkozóan információkat kérve, vagy nyilvánosan közzétett reklámra vagy egyéb kereskedelmi kommunikációra válaszolva – a maga részéről is kifejezetten kapcsolatokat kezdeményezett és ennek során név- és lakcímadatait az adatkezelő közvetlen üzletszerző szervnek átadta, továbbá ezeknek az adatoknak a további kezeléséhez hozzájárult.
+
+18. § (1) A kapcsolatfelvételi, illetve az üzletszerzési listán szereplő név- és lakcímadatok harmadik személy részére – a 3. § (1) bekezdésének c) pontja kivételével – csak kapcsolatfelvételi, illetve üzletszerzési lista céljára, akkor adhatók át, ha ehhez az érintettek a harmadik szerv nevének és tevékenységének ismeretében írásban hozzájárultak.
+
+(2) Adatátadás esetén a kapcsolatfelvételi, illetve az üzletszerzési lista felhasználásának feltételeit az adatátadó és az adatátvevő szerződésben határozza meg. A kapcsolatfelvételi listáról csak kapcsolatfelvétel, az üzletszerzési listáról pedig csak kapcsolatfelvétel, illetve kapcsolattartás céljából történhet adatátadás. Az (1) bekezdésben előírt feltételek hiányában megkötött szerződés semmis.
+
+(3) A kapcsolatfelvételi, illetve üzletszerzési lista nem kapcsolható össze piackutatás céljára gyűjtött adatállománnyal.
+
+19. § Külföldi közvetlen üzletszerző szerv, ha e törvény hatálya alá tartozó adatkezelést kíván végezni, illetőleg, ha a belföldi közvetlen üzletszerző szerv az adatkezelési tevékenységet külföldi megbízás alapján végzi, erről a tényről az érintettet köteles írásban tájékoztatni. Név- és lakcímadat külföldre csak adatfeldolgozás céljára, vagy abban az esetben továbbítható, ha az adat átadásához az érintett írásban hozzájárult; és az Avtv. szerinti harmadik országba csak abban az esetben, ha az adatvédelmi követelmények az adatátvevőnél is biztosítottak. A külföldre történő adatátadást az adatvédelmi biztosnak előzetesen be kell jelenteni.
+
+### Az érintett jogai
+
+20. § (1) Minden érintettnek joga van arra, hogy
+
+- a) megtagadja vagy megtiltsa név- és lakcímadatainak a kapcsolatfelvételi, illetve üzletszerzési listán való szerepeltetését, közvetlen üzletszerzési — illetőleg azon belül meghatározott konkrét — célra történő felhasználását, illetőleg harmadik személynek átadását;
+- b) kérje személyes adatainak az adatkezelő birtokában lévő valamennyi vagy meghatározott célú kapcsolatfelvételi, illetve üzletszerzési listán történő kezelésének megszüntetését, beleértve a harmadik személy részére átadott adatokat is. Az adatkezelő köteles írásban tájékoztatni az érintettet kérésének teljesítéséről.
+
+(2) Az érintettet kérelmére az adatkezelést végző közvetlen üzletszerző szerv köteles az általa kezelt adatairól írásban tájékoztatni, illetőleg azokat helyesbíteni. A harmadik személy részére átadott adatok helyesbítését vagy törlését — a hat hónapon belül továbbított adatok vonatkozásában — az érintett kérelmére az adatátadó szerv köteles kezdeményezni.
+
+(3) Az e törvény alapján adatkezelést végző közvetlen üzletszerző szervek kötelesek azonosító adataikat (név/cégnév, lakcím/telephely) megfelelő módon mindazon személyek tudomására hozni, akiknek név- és lakcímadatai az üzletszerzési listán szerepelnek, illetőleg, akiket arra fel kívánnak venni.
+
+### A tilalmi lista
+
+21. § (1) A közvetlen üzletszerző szervnek nyilvántartást (tilalmi listát) kell vezetnie azoknak az érintetteknek a név- és lakcímadatairól, akik kérték adataik kezelésének az adott célból történő megszüntetését, vagy ahhoz – a közvetlen üzletszerző szerv erre irányuló előzetes megkeresése ellenére – nem járultak hozzá, illetve az adatok átvétele után a személyiadat- és lakcímnyilvántartás szervénél éltek az adatletiltás jogával.
+
+(2) A tilalmi lista célja annak biztosítása, hogy a rajta szereplő érintettek adatai ismételten ne kerüljenek átvételre, harmadik személynek átadásra, illetőleg új kapcsolatfelvételi vagy üzletszerzési listára felvételre. A tilalmi listán szereplő érintettektől közvetlen üzletszerzési célból küldemény fogadására vonatkozó hozzájárulás nem kérhető, illetve reklámküldemény nem küldhető, kivéve, ha a tilalom csak egyedileg meghatározott célra vonatkozik.
+
+(3) A tilalmi lista kezelésére a közvetlen üzletszerző szervek közösen harmadik szervet is megbízhatnak, e szerv azonban csak a (2) bekezdéssel összefüggő adatfeldolgozási tevékenységet végezheti el.
+
+(4) A tilalmi listán szereplő adatokat az adatkezelő a (2) bekezdésben meghatározottak teljesítésének biztosításához szükséges mértékig használhatja fel, más adatállománnyal nem kapcsolhatja össze, nem adhatja át, más célra nem használhatja fel, és köteles biztosítani az érintettnek a 20. § (1) bekezdés b) pontjában meghatározott jogainak gyakorlását.
+
+#### V.
+
+### Átmeneti és záró rendelkezések
+
+22. §
+
+23. § (1) E törvény a kihirdetésétől számított 15. napon lép hatályba.
+
+(2)
