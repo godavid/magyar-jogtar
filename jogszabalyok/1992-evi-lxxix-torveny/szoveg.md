@@ -2,17 +2,7 @@
 
 a magzati élet védelméről
 
-Az Országgyűlés annak tudatában, hogy
-
-— a fogantatással induló magzati élet tiszteletet és védelmet érdemel;
-
-— a magzati élet védelme a gyermeket váró nőkről történő fokozott gondoskodással valósítható meg, ugyanakkor a magzat egészséges fejlődését biztosító feltételek megteremtése elsődlegesen a szülők felelőssége;
-
-— a terhességmegszakítás nem a családtervezés és a születésszabályozás eszköze;
-
-— a családtervezés a szülők joga és felelőssége
-
-a következő törvényt alkotja:
+A Magyar Köztársaság Országgyűlése annak tudatában, hogy— a fogantatással induló magzati élet tiszteletet és védelmet érdemel;— a magzati élet védelme a gyermeket váró nőkről történő fokozott gondoskodással valósítható meg, ugyanakkor a magzat egészséges fejlődését biztosító feltételek megteremtése elsődlegesen a szülők felelőssége;— a terhességmegszakítás nem a családtervezés és a születésszabályozás eszköze;— a családtervezés a szülők joga és felelősségea következő törvényt alkotja:
 
 1. § A női és férfi ivarsejt egyesüléséből létrejött, az anyaméhben kifejlődő magzatot és a gyermeket váró nőt támogatás és védelem illeti meg.
 
@@ -20,7 +10,7 @@ a következő törvényt alkotja:
 
 2. § (1) Az egészség és az emberi élet értékéről, az egészséges életmódról, a felelősségteljes párkapcsolatokról, az emberhez méltó családi életről, az egészségre ártalmatlan születésszabályozási módszerekről szóló oktatás az alap- és középfokú oktatási intézményekben történik.
 
-(2) Az állami családvédelmi szolgálat vagy az egészségügyi államigazgatási szervhez bejelentett családvédelmi szolgálat végzi a tanácsadást, válsághelyzet esetén segítséget ad annak feloldásában, valamint szervezi az oktatási intézményeken kívül a családtervezéssel kapcsolatos ismeretek terjesztését.
+(2) Az állami családvédelmi szolgálat vagy az egészségügyi államigazgatási szerv által engedélyezett családvédelmi szolgálat végzi a tanácsadást, válsághelyzet esetén segítséget ad annak feloldásában, valamint szervezi az oktatási intézményeken kívül a családtervezéssel kapcsolatos ismeretek terjesztését.
 
 (3) Az állam
 
@@ -32,9 +22,9 @@ a következő törvényt alkotja:
 
 3. § (1) Térítésmentes terhesgondozásra jogosult
 
-- a) a Magyarország területén lakóhellyel rendelkező magyar állampolgár,
+- a) a Magyar Köztársaság területén lakóhellyel rendelkező magyar állampolgár,
 - b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint a szabad mozgás és a három hónapot meghaladó tartózkodás jogával rendelkező személy, amennyiben a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, valamint
-- c) az a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozó személy, aki huzamos tartózkodási jogosultsággal rendelkezik.
+- c) az a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy, aki bevándorolt vagy letelepedett jogállású.
 
 (2) A terhesgondozás keretében
 
@@ -42,9 +32,9 @@ a következő törvényt alkotja:
 - b) elvégzik a magzat egészséges fejlődését ellenőrző és a gyermeket váró nő egészségvédelmét biztosító szűrővizsgálatokat;
 - c) segítséget adnak a gyermeket váró nőnek a szülésre, szoptatásra, csecsemő- és gyermekgondozásra való felkészüléshez.
 
-(3)
+(3) A terhesgondozás részletes szabályait, a kötelező és az állami gondoskodás keretében térítésmentesen igénybe vehető fakultatív szűrővizsgálatok körét az egészségügyért felelős miniszter (a továbbiakban: miniszter) rendeletben állapítja meg.
 
-#### 4. §
+4. §
 
 ### A terhesség megszakítása
 
@@ -144,7 +134,7 @@ a következő törvényt alkotja:
 
 (4) Az (1) és (2) bekezdésben meghatározott egészségi okokat az országos szakintézet vagy kollégium módszertani útmutatói alapján kell megállapítani.
 
-(5) Ha a terhesség bűncselekmény következménye, a bűncselekmény elkövetését, illetőleg annak gyanúját a büntető ügyben eljáró szerv által kiadott igazolás igazolja.
+(5) Ha a terhesség bűncselekmény következménye, a bűncselekmény elkövetését, illetőleg annak alapos gyanúját a büntető ügyben eljáró szerv által kiadott igazolás igazolja.
 
 (6) A súlyos válsághelyzet fennállását az állapotos nő, illetve – cselekvőképtelensége esetén – törvényes képviselője a kérelem aláírásával igazolja. Az állapotos nő cselekvőképtelensége esetén a terhességmegszakítással kapcsolatos véleményének kifejtésére a családvédelmi szolgálat eljárásában lehetőséget kell biztosítani.
 
@@ -168,11 +158,9 @@ a következő törvényt alkotja:
 
 16/A. § (1) Felhatalmazást kap a Kormány, hogy az állami családvédelmi szolgálatot rendeletben jelölje ki.
 
-(2) Felhatalmazást kap a Kormány, hogy a családvédelmi szolgálat bejelentésére vonatkozó részletes szabályokat rendeletben megállapítsa.
+(2) Felhatalmazást kap a Kormány, hogy a családvédelmi szolgálat működésének engedélyezésére vonatkozó részletes szabályokat rendeletben megállapítsa.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy a fogamzásgátló eszközök és készítmények rászorultságtól függő kedvezményes igénybevételének feltételeit rendeletben meghatározza.
-
-(4) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a várandósgondozás részletes szabályait rendeletben állapítsa meg.
 
 17. § (1) Ez a törvény 1993. január 1-jén lép hatályba.
 
