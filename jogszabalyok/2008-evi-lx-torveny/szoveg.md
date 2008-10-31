@@ -212,4 +212,4 @@ Az olimpiai jelkép öt egymásba fűződő – balról jobbra haladva – kék,
 
 (3) A Szerződés, illetve e törvény 2–3. §-ai hatálybalépésének naptári napját – annak ismertté válását követően – a külpolitikáért felelős miniszter a Magyar Közlönyben haladéktalanul közétett egyedi határozatával állapítja meg.
 
-(4) E törvény végrehajtásához szükséges intézkedésekről a sportpolitikáért felelős miniszter és a Szellemi Tulajdon Nemzeti Hivatalának elnöke gondoskodik.
+(4) E törvény végrehajtásához szükséges intézkedésekről a sportpolitikáért felelős miniszter és a Magyar Szabadalmi Hivatal elnöke gondoskodik.
