@@ -25,7 +25,7 @@ Az Országgyűlés a villamos energiáról szóló 2007. évi LXXXVI. törvény 
 
 (2) A Megállapodás törvény erejénél fogva történő megszűnése esetén a felek kötelesek egymással a Megállapodás alapján teljesített szolgáltatások tekintetében elszámolni; további, a Megállapodásból származó igényt nem érvényesíthetnek.
 
-(3) A Megállapodásnak a törvény erejénél fogva történő megszűnéstől eltérő, legkésőbb 2008. december 31-ei hatállyal való megszűnését a felek a megszüntető okirat egyidejű megküldésével haladéktalanul kötelesek bejelenteni a Magyar Energetikai és Közmű-szabályozási Hivatalnak (a továbbiakban: Hivatal).
+(3) A Megállapodásnak a törvény erejénél fogva történő megszűnéstől eltérő, legkésőbb 2008. december 31-ei hatállyal való megszűnését a felek a megszüntető okirat egyidejű megküldésével haladéktalanul kötelesek bejelenteni a Magyar Energia Hivatalnak (a továbbiakban: Hivatal).
 
 (4) Ha a megszüntető okirat 2008. december 31-éig nem érkezik meg a Hivatal részére, akkor a megszüntető okiratba foglalt szerződés a Megállapodás megszüntetésének kimondásán túli részében semmis; ez nem eredményezi a szerződés egészének érvénytelenségét akkor sem, ha a felek azt a semmis rendelkezések nélkül nem kötötték volna meg. Ebben az esetben a felek elszámolására a (2) bekezdés rendelkezéseit kell alkalmazni.
 
@@ -60,11 +60,11 @@ Az Országgyűlés a villamos energiáról szóló 2007. évi LXXXVI. törvény 
 - a) a Megállapodás keretében nyújtott visszafizetendő állami támogatások összegét és
 - b) az 5. § (1) bekezdése szerint csökkentett összeget.
 
-(2) A Hivatal eljárására az általános közigazgatási rendtartásról szóló törvényt e §-ban foglalt eltérésekkel kell alkalmazni.
+(2) A Hivatal eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényt e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(3) Az (1) bekezdés b) pontja szerinti összeg befizetésére a Hivatal 60 napos határidőt állapít meg. Ha a teljesítésre megállapított határidő eredménytelenül telt el, a Hivatal haladéktalanul megkeresi az állami adóhatóságot, hogy az a végrehajtás iránt az államháztartásról szóló 2011. évi CXCV. törvény 99. §-ában foglaltak alapján járjon el.
+(3) Az (1) bekezdés b) pontja szerinti összeg befizetésére a Hivatal 60 napos határidőt állapít meg. Ha a teljesítésre megállapított határidő eredménytelenül telt el, a Hivatal haladéktalanul megkeresi az állami adóhatóságot, hogy az a végrehajtás iránt az államháztartásról szóló 1992. évi XXXVIII. törvény 13/A. § (11) bekezdésében foglaltak alapján járjon el.
 
-(4) A bíróság a Hivatal határozatát nem változtathatja meg.
+(4) A határozat ellen nincs helye fellebbezésnek, újrafelvételi eljárásnak és méltányossági eljárásnak. A határozat felülvizsgálatát a bíróságtól lehet kérni. A Hivatal határozatának végrehajtására a keresetlevél benyújtásának nincs halasztó hatálya. A bíróság a Hivatal határozatát nem változtathatja meg.
 
 (5) A Hivatal felügyeleti szerve nem változtathatja meg és nem semmisítheti meg a Hivatal határozatát.
 
@@ -117,7 +117,7 @@ Az Országgyűlés a villamos energiáról szóló 2007. évi LXXXVI. törvény 
 
 (2) Amennyiben az eladó villamosenergia-termelő teljesítményét a 2009. évre történő értékesítés során a 8. § (1) bekezdés a) pontja szerint visszatartja, a Hivatal a 8. § rendelkezéseit azzal az eltéréssel alkalmazza, hogy a 6. § (1) bekezdése szerinti határozatában az 5. § (1) bekezdése szerint csökkentett összeget nem állapítja meg. Ebben az esetben a Hivatal a 6. § (1) bekezdés a) pontja szerinti összeg befizetésére kötelezi az eladót.
 
-(3) Az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendelet 28. §-ában meghatározott jelentéstételi kötelezettséget – a Hivatal minden tárgyévet követő év április 30-áig megküldött adatszolgáltatása alapján – az államháztartásért felelős miniszter teljesíti az Európai Bizottság felé.
+(3) Az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendelet 28. §-ában meghatározott jelentéstételi kötelezettséget – a Hivatal minden tárgyévet követő év április 30-áig megküldött adatszolgáltatása alapján – a pénzügyminiszter teljesíti az Európai Bizottság felé.
 
 (4) A 2. § 1. pontjában foglalt átállási költséggel való csökkentésre csak annak Európai Bizottság általi előzetes jóváhagyását követően kerülhet sor.
 
