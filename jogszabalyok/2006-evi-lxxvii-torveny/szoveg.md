@@ -6466,7 +6466,7 @@ Eljáró bíróság
 
 1. § A jelen Egységes Szabályok alapján indított kereset a felek által közösen kijelölt tagállam bírósága vagy annak az államnak a bírósága előtt indítható, amelynek területén:
 
-a) az alperes lakóhelye, szokásos tartózkodási helye, székhelye, az a telephelye vagy irodája van, amely a fuvarozási szerződést megkötötte, vagy
+a) a felperes lakóhelye, szokásos tartózkodási helye, székhelye, az a telephelye vagy irodája van, amely a fuvarozási szerződést megkötötte, vagy
 
 b) az a hely, ahol a fuvarozó az árut átvette, vagy a kiszolgáltatásra kijelölt hely van.
 
@@ -7602,16 +7602,24 @@ A vitás esetek rendezése
 
 Amennyiben két vagy több tagállam között a nemzetközi forgalomban használni tervezett járművek és az egyéb vasúti berendezések műszaki engedélyezése kapcsán vita keletkezik, és azt nem sikerül közvetlen tárgyalás útján rendezni, a tagállamok a Műszaki Szakértői Bizottsághoz fordulhatnak. Ilyen vitákat az Egyezmény V. Címében foglalt eljárásokkal összhangban a Választottbíróság elé is lehet terjeszteni.”
 
-3. §
+3. § Az Országgyűlés felhatalmazást ad arra, hogy a Magyar Köztársaság a COTIF 42. cikke alapján a szerződéshez a következő fenntartást tegye:
+
+„A Magyar Köztársaság nem alkalmazza a COTIF következő Függelékeit:
+
+– Egységes Szabályok a nemzetközi vasúti forgalomban használt infrastruktúrára vonatkozó szerződésekre (CUI – a COTIF E Függeléke),
+
+– Egységes Szabályok a nemzetközi forgalomban használni tervezett vasúti berendezésekre vonatkozó műszaki szabványok érvényesítésére és egységes műszaki előírások elfogadására (APTU – a COTIF F Függeléke),
+
+– Egységes Szabályok a nemzetközi forgalomban használt vasúti berendezések műszaki engedélyezésére (ATMF – a COTIF G Függeléke).”
 
 4. § (1) Ez a törvény a kihirdetését követő 8. napon lép hatályba.
 
 (2) E törvény végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter gondoskodik.
 
-(3) A Bernben, az 1980. évi május hó 9. napján kelt Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) kihirdetéséről szóló 1986. évi 2. törvényerejű rendelet rendelkezéseit Magyarország területén azon államok tekintetében kell alkalmazni, amelyek nem részes felei a jelen törvénnyel kihirdetett, Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyvnek.
+(3) A Bernben, az 1980. évi május hó 9. napján kelt Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) kihirdetéséről szóló 1986. évi 2. törvényerejű rendelet rendelkezéseit a Magyar Köztársaságban azon államok tekintetében kell alkalmazni, amelyek nem részes felei a jelen törvénnyel kihirdetett, Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyvnek.
 
 (4) A Jegyzőkönyv, valamint az 1986. évi 2. törvényerejű rendelettel kihirdetett, Bernben, az 1980. évi május hó 9. napján kelt Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) Részes Államainak köréről és az abban bekövetkezett változásokról a külpolitikáért felelős miniszter közleményben ad tájékoztatást.
 
-(5) Ha a CIV Egységes Szabályok és CIM Egységes Szabályok végrehajtása érdekében a részes vasúttársaságok a COTIF 10. Cikkének megfelelően kiegészítő határozmányokban állapodnak meg, azokat honlapjukon oldalhű szöveggel közzéteszik, és Magyarország hivatalos lapjában meghirdetik.
+(5) Ha a CIV Egységes Szabályok és CIM Egységes Szabályok végrehajtása érdekében a részes vasúttársaságok a COTIF 10. Cikkének megfelelően kiegészítő határozmányokban állapodnak meg, azokat honlapjukon oldalhű szöveggel közzéteszik, és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben meghirdetik.
 
 20060000000077_1

@@ -4,185 +4,135 @@ a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás sz
 
 1. § (1) Az Egészségbiztosítási és a Nyugdíjbiztosítási Alap (a továbbiakban együtt: Alap) felügyelete, továbbá a nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv (a továbbiakban: igazgatási szerv) irányítása állami feladat.
 
-(2) Az alapokat és azok kezelését a Kormány felügyeli.
+(2) Az alapokat a Kormány felügyeli. A 2. § (1) bekezdése szerinti igazgatási szervek irányítását a Kormány
+
+- a) az egészségbiztosítási ágazat tekintetében az egészségbiztosításért felelős miniszter,
+- b) a nyugdíjbiztosítási ágazat tekintetében a nyugdíjpolitikáért felelős miniszter
+
+útján látja el.
 
 (3)
 
 (4)
 
-2. § (1) Az Egészségbiztosítási Alap kezelését az egészségbiztosításért felelős miniszter – mint fejezetet irányító szerv – az államháztartásról szóló 2011. évi CXCV. törvény 6/B. § (3) bekezdése alapján jogszabályban kijelölt kezelő szerv közreműködésével, a Nyugdíjbiztosítási Alap kezelését a központi nyugdíjbiztosítási szerv (a továbbiakban együtt: alap kezeléséért felelős társadalombiztosítási szerv) végzi.
+2. § (1) Az Egészségbiztosítási Alap kezelését az egészségbiztosítási szerv, a Nyugdíjbiztosítási Alap kezelését a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv (a továbbiakban együtt: alap kezeléséért felelős társadalombiztosítási szerv) végzi.
 
-(2) Az Egészségbiztosítási Alap kezelésével kapcsolatos költségek fedezetét az Egészségbiztosítási Alap költségvetésében kell meghatározni.
+(2)
 
-(3) A Nyugdíjbiztosítási Alap kezelésével kapcsolatos költségeket a központi nyugdíjbiztosítási szerv költségvetésében kell meghatározni.
+(3) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, az egészségbiztosítási szerv társadalombiztosítási költségvetési szervek, amelyek költségvetését a társadalombiztosítás pénzügyi alapjainak költségvetésében kell meghatározni.
 
-3. § (1) Az alapokhoz tartozó vagyon állami tulajdon, a vagyonnal kapcsolatos tulajdonosi jogokat – a (2) bekezdésben foglalt kivétellel – az egészségbiztosítási ágazat tekintetében az egészségbiztosításért felelős miniszter, a nyugdíjbiztosítási ágazat tekintetében a nyugdíjpolitikáért felelős miniszter gyakorolja azzal, hogy a Nyugdíjbiztosítási Alaphoz tartozó működési vagyonnal kapcsolatos tulajdonosi joggyakorló a központi nyugdíjbiztosítási szerv vezetője.
+3. § Az Alapokhoz tartozó vagyon és a biztosítási önkormányzatok vagyona állami tulajdon, a vagyonnal kapcsolatos tulajdonosi jogokat a Kormány az 1. § (2) bekezdése szerinti személyek útján gyakorolja azzal, hogy egyebekben a vagyonnal való gazdálkodásra az államháztartásról szóló 1992. évi XXXVIII. törvény rendelkezései az irányadók.
 
-(2) Az alapok javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében elfogadott ingatlanok kivételével, az alapokhoz tartozó állami tulajdonú ingatlanok tekintetében – beleértve a működési vagyonba tartozó ingatlanokat is – a tulajdonosi jogok és kötelezettségek összességét a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) gyakorolja.
-
-(3) A (2) bekezdés szerinti ingatlanok tekintetében az MNV Zrt. tulajdonosi joggyakorlásának ingatlan-nyilvántartási bejegyzésére az MNV Zrt. kérelme alapján kerül sor.
-
-#### 4. §
+4. §
 
 5. § Az Alap kezeléséért felelős társadalombiztosítási szerv végzi
 
-- a) a 3. § (2) bekezdése szerinti vagyon kivételével az Alaphoz tartozó vagyonnal kapcsolatos nyilvántartási, valamint jogszabályban meghatározott vagyonkezelési, pénzügyi feladatokat,
+- a) az Alaphoz tartozó vagyonnal kapcsolatos nyilvántartási, illetőleg a jogszabályban meghatározott vagyonkezelési, pénzügyi feladatokat,
 - b) az Alapból finanszírozott ellátások megállapításának és folyósításának jogszabályban meghatározott feladatait, illetőleg ellátja a külön jogszabály alapján végzett, nem az Alapból finanszírozott ellátásokkal kapcsolatos igazgatási feladatokat.
 
-#### 6. §
+6–8. §
 
-#### 7. §
+9. § (1) Minden munkáltató, amely legalább 100 társadalombiztosítási ellátásra jogosult személyt foglalkoztat, köteles gondoskodni törvényben vagy kormányrendeletben meghatározott társadalombiztosítási és egyéb feladatok ellátásáról, ennek érdekében társadalombiztosítási kifizetőhelyet (a továbbiakban: kifizetőhely) hoz létre vagy e feladatok ellátására más, kifizetőhelyet fenntartóval megállapodást köt. A központosított illetményszámfejtést végző illetményszámfejtő hely társadalombiztosítási kifizetőhelyként működik.
 
-#### 8. §
-
-9. § (1) Minden munkáltató, amely legalább 100 fő pénzbeli egészségbiztosítási ellátásra jogosult személyt foglalkoztat, köteles gondoskodni törvényben vagy kormányrendeletben meghatározott társadalombiztosítási és egyéb feladatok ellátásáról, ennek érdekében társadalombiztosítási kifizetőhelyet (a továbbiakban: kifizetőhely) hoz létre. A kifizetőhely helyett a társadalombiztosítási, illetve egyéb feladatokat – az erre irányuló megállapodás alapján – más szervezet is elláthatja; az alap kezeléséért felelős társadalombiztosítási szervvel szemben azonban a felelősség ez esetben is a foglalkoztatót terheli. A központosított illetményszámfejtést végző illetményszámfejtő hely társadalombiztosítási kifizetőhelyként működik.
-
-(2) Magánszemély, jogi személy, illetve jogi személyiséggel nem rendelkező szervezet az alap kezeléséért felelős társadalombiztosítási szervvel kötött megállapodás alapján kifizetőhelyet létesíthet. A kifizetőhelyen végzett társadalombiztosítási feladatokat a megállapodásban kell rögzíteni. Ha a kifizetőhely létesítésére irányuló eljárásban az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) azt állapítja meg, hogy megállapodás megkötése nem indokolt, a magánszemély, jogi személy, illetve jogi személyiséggel nem rendelkező szervezet erre irányuló kérelmét határozattal elutasítja.
+(2) Magánszemély, jogi személyek, jogi személyiséggel nem rendelkező szervezet az alap kezeléséért felelős társadalombiztosítási szervvel kötött megállapodás alapján kifizetőhelyet létesíthet. A kifizetőhelyen végzett társadalombiztosítási feladatokat a megállapodásban kell rögzíteni.
 
 (3) A kifizetőhely fenntartója a társadalombiztosítási feladatokat saját költségén, szakképzett alkalmazottakkal végzi, az igények jogszerű elbírálásáért és a kifizetett ellátásokért az alap kezeléséért felelős társadalombiztosítási szervvel szemben teljes anyagi felelősséggel tartozik. A szabályszerűen elbírált igények alapján kifizetett ellátások összegét az illetékes igazgatási szerv megtéríti, kivéve a foglalkoztatót terhelő táppénz-hozzájárulás összegét.
 
 (4) A törvényben vagy kormányrendeletben előírt, illetőleg a (2) bekezdésében említett megállapodás szerinti társadalombiztosítási feladatok elvégzéséért a kifizetőhely fenntartóját a biztosítási alapokból meghatározott mértékű költségtérítés illeti meg.
 
-(5) Az (1) bekezdés alapján a munkáltató akkor köteles kezdeményezni a kormányhivatalnál a kifizetőhelyként történő nyilvántartásba vételét, ha a pénzbeli egészségbiztosítási ellátásra jogosult foglalkoztatottak létszáma tartósan – legalább hat egymás követő hónapban – meghaladja a 100 főt.
+9/A. § (1) Az alapok forrásainak – a munkavállalók és a munkáltatók által befizetett, illetve a költségvetés által átvállalt járulékoknak, hozzájárulásoknak és egyéb befizetéseknek – hatékony felhasználását a nyugdíjbiztosítási ágazat tekintetében a Nyugdíjbiztosítási Ellenőrző Testület (a továbbiakban: Testület) az e törvényben meghatározottak szerint ellenőrzi.
 
-(6) Ha a munkáltató az (5) bekezdés szerinti kötelezettségének nem tesz eleget, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 80. § (6) bekezdése szerinti mulasztási bírság fizetésére kötelezhető.
+(2) A Testület a feladatköre által érintett biztosítási ág tekintetében
 
-(7) Az egészségbiztosítási szerv
+- a) véleményezi az alapok zárszámadására vonatkozó törvény tervezetét;
+- b) évente értékeli a biztosítási ág helyzetét, működési feltételeinek alakulását;
+- c) vizsgálatot, illetve ellenőrzést kezdeményezhet az alapok kezelésével és felhasználásával összefüggő kérdésekben.
 
-- a) az (5) bekezdésben foglalt feltétel bekövetkezése esetén a (8) bekezdésben,
-- b) az (1) bekezdés szerint kifizetőhelyet működtető foglalkoztató foglalkoztatotti létszámának 100 fő alá csökkenése esetén a (9) bekezdésben,
-- c) a pénzbeli egészségbiztosítási ellátások és a baleseti táppénz megállapítása, folyósítása és ellenőrzése céljából a (10) bekezdésben
-- d) a pénzbeli egészségbiztosítási ellátásokkal, a baleseti táppénzzel, a nyugellátásokkal és a családtámogatási ellátásokkal kapcsolatban fennálló követelések keresetből történő levonása céljából a (10a) bekezdésben
+(3) A Testület tagjai számára – feladatuk ellátásához, a Testület elnökének megkeresésére – az alap kezeléséért felelős társadalombiztosítási szervek vezetői az igazgatási szerv kezelésében levő iratokba betekintést biztosítanak. Az igazgatási szerv kezelésében levő iratban található személyes adatokat a Testület tagjai egyedi azonosításra alkalmatlan formában ismerhetik meg.
 
-foglalt adattartalommal adatszolgáltatást teljesít elektronikus úton a kincstár részére.
+(4) Az alap kezeléséért felelős társadalombiztosítási szervek vezetői az adott biztosítási ágra vonatkozó éves beszámolókat, könyvvizsgálói jelentéseket, továbbá külön jogszabály alapján a feladatkörrel rendelkező miniszter és az államháztartásért felelős miniszter, az egészségbiztosítási járulékfizetés szabályozásáért felelős miniszter, illetve a nyugdíjjárulék- és nyugdíjbiztosítási járulék-fizetés szabályozásáért felelős miniszter számára készítendő szakmai tartalmú beszámolókat megküldik az adott Testületnek.
 
-(8) A (7) bekezdés a) pontja szerinti adatszolgáltatás tartalmazza
+(5) A Testület a feladatával összefüggésben tudomására jutott adatok, információk tekintetében az adatvédelmi törvényben foglalt rendelkezésekre figyelemmel jár el.
 
-- a) a foglalkoztató nevét,
-- b) a foglalkoztató adószámát,
-- c) annak a jelzését, hogy a foglalkoztató pénzbeli egészségbiztosítási ellátásra jogosult foglalkoztatottainak a létszáma meghaladta a 100 főt.
+(6) A Testület tevékenységéről évente tájékoztatást ad az Országos Érdekegyeztető Tanácsnak (a továbbiakban: OÉT), beszámol az Országgyűlés illetékes bizottságának.
 
-(9) A (7) bekezdés b) pontja szerinti adatszolgáltatás tartalmazza
-
-- a) a foglalkoztató nevét,
-- b) a foglalkoztató adószámát,
-- c) annak a jelzését, hogy a foglalkoztató pénzbeli egészségbiztosítási ellátásra jogosult foglalkoztatottainak a létszáma 100 fő alá csökkent.
-
-(10) A (7) bekezdés c) pontja szerinti adatszolgáltatás tartalmazza a biztosítotti nyilvántartásba bejelentett személy
-
-- a) foglalkoztatójának nevét,
-- b) foglalkoztatójának adószámát,
-- c) nevét,
-- d) TAJ számát,
-- e) jogviszonyának megnevezését és jogcímkódját,
-- f) jogviszonyának időtartamát,
-- g) jogviszonya szünetelésének időtartamát,
-- h) jogviszonya szerinti munkakört (FEOR),
-- i) jogviszonya szerinti munkaidő mértékét.
-
-(10a) A (7) bekezdés d) pontja szerinti adatszolgáltatás tartalmazza a biztosítotti nyilvántartásba bejelentett személy
-
-- a) foglalkoztatójának nevét,
-- b) foglalkoztatójának adószámát.
-
-(11) Az (1) bekezdés szerinti munkáltató és a (2) bekezdés szerinti magánszemély, jogi személy, illetve jogi személyiséggel nem rendelkező szervezet a kifizetőhely létesítése iránti kérelmet kizárólag az egészségbiztosító által erre a célra rendszeresített, a Kormány rendeletében megjelölt honlapon közzétett űrlap alkalmazásával, kizárólagosan a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályiról szóló 2023. évi CIII. törvény szerinti elektronikus úton (a továbbiakban: elektronikus út) nyújthatja be.
-
-(12) A (11) bekezdés szerinti kérelem benyújtására szolgáló űrlap az alábbi adatokat tartalmazza:
-
-- a) a foglalkoztató neve, székhelye, adószáma, bankszámlaszáma és a kifizetőhelyi feladatok ellátásának (iratőrzésnek) helye,
-- b) a kifizetőhelyi feladatokat ellátó szervezet neve, székhelye, adószáma (ha a kifizetőhelyi feladatokat a foglalkoztató helyett más látja el),
-- c) a kapcsolattartóként kijelölt személy (kifizetőhelyi ügyintéző) neve és elérhetőségei,
-- d) a kifizetőhely létesítésének oka,
-- e) a kifizetőhely létesítésének napja,
-- f) a foglalkoztatottak, illetve a pénzbeli egészségbiztosítási ellátásra jogosult személyek létszáma,
-- g) a foglalkoztató kifizetőhelyi nyilvántartásba történő vétele szempontjából jelentős egyéb körülmények.
-
-(13) Ha a kifizetőhelyet fenntartó foglalkoztató által foglalkoztatott, pénzbeli egészségbiztosítási ellátásra jogosult biztosítottak létszáma tartósan – legalább hat egymást követő hónapban – 100 fő alá csökken, valamint, ha a (2) bekezdés szerinti magánszemély, jogi személy, illetve jogi személyiséggel nem rendelkező szervezet az alap kezeléséért felelős társadalombiztosítási szervvel kötött megállapodását fel kívánja mondani, a kifizetőhely a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvényben foglaltak szerinti elektronikus úton kezdeményezi a kifizetőhely megszüntetését.
-
-(14) Ha a kifizetőhely létrehozása és fenntartása az (1) bekezdés szerint kötelező, azonban a kormányhivatal megállapítja, hogy a kifizetőhely törvényben vagy kormányrendeletben meghatározott társadalombiztosítási és egyéb feladatai ellátására nem képes, a kifizetőhelyet határozattal megszünteti. Ilyen oknak minősül különösen, ha a kifizetőhely, illetve annak képviselője a foglalkoztató nyilvántartására kötelezett szervezet adatai szerinti, illetve a kormányhivatal részére bejelentett elérhetőségeken nem elérhető, illetve, ha a kifizetőhely gazdálkodási körülményeiből megalapozottan feltehető, hogy a társadalombiztosítási feladatok általa történő további ellátása a biztosítottak részére járó pénzbeli egészségbiztosítási ellátások és a baleseti táppénz kifizetését veszélyeztetné.
-
-(15) A kifizetőhely megszűnése esetén a kormányhivatal a kifizetőhelynél záró ellenőrzést tart, amelynek során a kormányhivatal a kifizetőhelytől átveszi azon biztosítottak kifizetőhelyi feladatellátás során keletkezett iratanyagát, akik részére a kifizetőhely a megszűnése időpontjában pénzbeli egészségbiztosítási ellátást vagy baleseti táppénzt folyósított. Az ellátásokat a kifizetőhely megszűnését követő naptól az egészségbiztosító folyósítja tovább.
-
-(16) Ha a kifizetőhelyet fenntartó foglalkoztató vonatkozásában jogutódlás következik be, és a jogutód foglalkoztatónál is működik kifizetőhely, a jogutódlás időpontjától a jogutód kifizetőhelyet illetik meg mindazon jogosultságok és terhelik mindazon kötelezettségek, amelyek a jogutódlásig a jogelőd kifizetőhelyet illették, illetve terhelték. A jogutódlás időpontjától kezdődően a jogutód kifizetőhely köteles – hivatalból, külön erre irányuló biztosítotti kérelem nélkül – továbbfolyósítani mindazon biztosítottak ellátásait, akik a jogutódlás időpontjában pénzbeli egészségbiztosítási ellátásra vagy baleseti táppénzre voltak jogosultak. Jogutódlás bekövetkezése esetén a jogelőd kifizetőhely köteles átadni a kifizetőhelyi feladatellátása során – a kifizetőhely létesítésének a kezdetétől – keletkezett teljes irattári iratanyagát a jogutód kifizetőhely részére, beleértve a papíralapú iratokat és az elektronikus formában tárolt adatokat is.
-
-(17) A kifizetőhelyi feladatellátás során keletkezett iratok megőrzési idejére megfelelően alkalmazni kell a kormányhivatalok mindenkori egységes iratkezelési szabályzatáról szóló szabályozásban foglalt, az egészségbiztosítási pénzbeli ellátási ügyekben keletkezett iratokra vonatkozó rendelkezéseket.
-
-(18) A kifizetőhelyekről az egészségbiztosító nyilvántartást vezet. A kifizetőhelyek nyilvántartása – a foglalkoztatók kifizetőhelyi minőségével összekapcsoltan – a (19) bekezdés c) és e)–g) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
-
-(19) A (18) bekezdés szerinti nyilvántartás az alábbi adatokat tartalmazza:
-
-- a) a kifizetőhely neve, székhelye, adószáma,
-- b) a kifizetőhelyi feladatokat ellátó szervezet neve, székhelye, adószáma (ha a kifizetőhelyi feladatokat a foglalkoztató helyett más látja el),
-- c) a kifizetőhelyi feladatok ellátásának (iratőrzésnek) helye,
-- d) a kapcsolattartóként kijelölt személy (kifizetőhelyi ügyintéző) neve és elérhetőségei,
-- e) a kifizetőhely létesítésének napja,
-- f) a kifizetőhely megszűnésének napja.
-- g) a foglalkoztató kifizetőhelyi minőségének jelölése.
-
-(20) A (19) bekezdés d) pontja szerinti adatokat az egészségbiztosító a kifizetőhely megszűnésének napját követő 5 évig kezeli.
-
-(21) A foglalkoztató kifizetőhelyi minősége a (18) bekezdés szerinti nyilvántartásba vétellel jön létre.
-
-9/A. § (1) Az egészségbiztosítási szerv a biztosítási jogviszonyokról, valamint az Ebtv. szerinti egészségbiztosítási pénzbeli ellátásokról és a baleseti táppénzről biztosítottanként elektronikus nyilvántartást vezet (a továbbiakban: e-TB kiskönyv) az egészségbiztosítás pénzbeli ellátásaihoz kapcsolódó igények érvényesítése céljából.
-
-(2) A kifizetőhelyek az e-TB kiskönyv adatait a 9/B. §-ban rögzített felület útján, a biztosítottak pedig az egészségbiztosítási szerv által üzemeltetett Betegéletút szolgáltatás keretében kérdezhetik le.
-
-(3) Az e-TB kiskönyv biztosítottanként tartalmazza a TAJ számmal rendelkező természetes személyekre vonatkozó alábbi adatokat:
-
-- a) biztosított személyazonosító adatai és TAJ száma,
-- b) a biztosított jogviszonyai vonatkozásában
-  - ba) a foglalkoztató neve, adószáma,
-  - bb) jogviszonyának jogcímkódja,
-  - bc) jogviszonyának időtartama,
-  - bd) jogviszonya szünetelésének időtartama,
-  - be) jogviszonya szerinti munkakör (FEOR),
-  - bf) jogviszonya szerinti munkaidő mértéke,
-- c) a biztosított egészségbiztosítási pénzbeli ellátásaira és baleseti táppénzére vonatkozóan
-  - ca) az ellátás jogcíme,
-  - cb) az ellátás folyósításának időtartama,
-  - cc) az ellátás naptári napi alapja,
-  - cd) az ellátást megállapító hatóság megnevezése,
-  - ce) a foglalkoztató neve és adószáma, amennyiben az ellátást az egészségbiztosító állapította meg,
-  - cf) a gyermekápolási táppénz, a csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj esetén az ellátásra jogosító gyermek születési neve, születési helye és ideje, továbbá a TAJ száma, amennyiben azzal a gyermek rendelkezik.
-
-(4) A kincstár a (3) bekezdés c) pontja szerinti adatokról az egészségbiztosítási szerv részére elektronikus úton adatot szolgáltat.
-
-(5) Az e-TB kiskönyv vezetéséhez szükséges adatátadás gyakoriságáról, formájáról, formátumáról, az adatok fogadásáról, az átadásra kerülő adatállományok minőségéről, az adatvizsgálat során alkalmazandó minőségi paraméterek meghatározásáról a kincstár megállapodást köt az egészségbiztosítási szervvel. A felek a megállapodást évente kötelesek felülvizsgálni, szükség esetén módosítani.
-
-(6) Az egészségbiztosítási szerv az (1) bekezdés szerinti nyilvántartásban szereplő adatokat a biztosított halálát követő 10 évig kezeli.
-
-9/B. § (1) A kifizetőhely az e-TB kiskönyv 9/A. § (3) bekezdése szerinti adatait az egészségbiztosítási szerv által erre a célra létrehozott és az egészségbiztosítási szerv által üzemeltetett elektronikus felületről (a továbbiakban: lekérdezőfelület) kérdezheti le az elektronikus azonosítást követően abban az esetben, ha a kincstár 9. § (18) és (19) bekezdése szerinti közhiteles hatósági nyilvántartásában kifizetőhelyként szerepel.
-
-(2) A lekérdezőfelületen a kifizetőhely kizárólag azon biztosítottak adatainak megismerésére jogosult, akik a lekérdezés időpontjában a kifizetőhelyet működtető foglalkoztatónál a társadalombiztosítás ellátásaira jogosító jogviszonyban állnak.
-
-(3) A kincstár 9. § (1) bekezdése szerinti társadalombiztosítási kifizetőhelyként működő illetményszámfejtő helye jogosult közvetlen elektronikus adatkapcsolat útján lekérni a 9/A. § (3) bekezdése szerinti adatokat a központosított illetményszámfejtési körbe tartozó foglalkoztatóknál biztosítási jogviszonyban állók vonatkozásában.
-
-#### 9/C. §
-
-10. § (1) Ez a törvény a kihirdetését követő 8. napon lép hatályba.
+9/B. § (1) A Nyugdíjbiztosítási Ellenőrző Testületnek 11 tagja van.
 
 (2)
 
-(3)
+(3) A Nyugdíjbiztosítási Ellenőrző Testület három tagjára az OÉT munkáltatói oldala együttesen, három tagjára az OÉT munkavállalói oldala együttesen, három tagjára a Kormány, további két tagjára az Idősügyi Tanács tesz javaslatot.
 
-(4)
+(4) A Testület tagjait az Országgyűlés elnöke kéri és menti fel. A megbízatás a felkérés elfogadásával keletkezik, és három évre szól. A tagok egy alkalommal ismételten felkérhetők.
 
-11. § A kincstár a 9/A. § (4) bekezdése szerinti adatszolgáltatás keretében az egészségbiztosítási szerv részére az egészségbiztosító által 2023. december 31. napja után megállapított, valamint a kifizetőhelynek a 2023. december 31. napja után teljesített, az Ebtv. 79/B. § (4) bekezdése szerinti adatszolgáltatásában szereplő ellátások adatait adja át.
+(5) A Testület tagjává olyan, büntetlen előéletű, a választási eljárásról szóló törvény hatálya alá tartozó valamely választáson választójoggal rendelkező, felsőfokú végzettségű személy kérhető fel, aki az adott testület feladatköre által érintett biztosítási ág tekintetében kiemelkedő szakismerettel rendelkezik és széles körű szakmai tapasztalatokat szerzett.
 
-#### 12. §
+(6) Nem kérhető fel a Testület tagjává az, aki
 
-#### 13. §
+- a) országgyűlési vagy európai parlamenti képviselő,
+- b) Kormány tagja, államtitkár vagy szakállamtitkár,
+- c) polgármester vagy helyi önkormányzati képviselő,
+- d) párt alkalmazottja vagy tisztségviselője,
+- e)
+- f) a Nyugdíjbiztosítási Ellenőrző Testület esetében pénzügyi intézmény, biztosító tagja vagy részvényese, vezető tisztségviselője, felügyelőbizottsági tagja vagy vezető állású munkavállalója.
 
-#### 14. §
+(7) A testületi tagság megszűnik
 
-#### 15. §
+- a) a megbízási időtartam leteltével,
+- b) lemondással,
+- c) felmentéssel,
+- d) a tag halálával,
+- e) az összeférhetetlenség megállapítását követő tizedik napon, amennyiben a tag az összeférhetetlenséget eddig az időpontig nem szünteti meg.
 
-#### 16. §
+(8) Az Országgyűlés elnöke felmenti azt a tagot,
 
-#### 17. §
+- a) aki neki fel nem róható okból száznyolcvan napnál hosszabb ideig nem képes eleget tenni a testületi tagságból eredő feladatainak;
+- b) aki neki felróható okból kilencven napnál hosszabb ideig nem tesz eleget megbízatásából eredő feladatainak;
+- c) akinek bűnösségét bíróság szándékos bűncselekmény elkövetésében jogerősen megállapította;
+- d) aki felkérését követően bekövetkezett körülmény folytán nem felel meg az (5)–(6) bekezdésben meghatározott feltételeknek.
 
-#### 18. §
+(9) Az Országgyűlés elnöke a tagot a jelölő kezdeményezésére a (7) bekezdésben foglalt eseteken kívül is felmentheti.
 
-#### 19. §
+(10) Az összeférhetetlenséget, valamint a (7) bekezdés a)–b) és d)–e) pontjában meghatározott feltétel bekövetkeztét az Országgyűlés elnöke állapítja meg. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges.
 
-#### 20. §
+(11) A Testület elnöke havonta a mindenkori köztisztviselői illetményalap nyolcszorosával megegyező, a Testület többi tagja havonta a mindenkori köztisztviselői illetményalap ötszörösével megegyező tiszteletdíjra jogosult.
+
+9/C. § (1) A Testület saját tagjai közül egyszerű szótöbbséggel elnököt választ. A Testület elnökét akadályoztatása esetén az általa kijelölt tag teljes jogkörben helyettesíti.
+
+(2) Az elnök hívja össze és vezeti a Testület üléseit, továbbá ellátja a Testület döntéseinek előkészítésével és azok végrehajtásával kapcsolatos feladatokat. A Testület ülését az elnök köteles összehívni, ha azt a tagok többsége vagy a feladatkörrel rendelkező miniszter kezdeményezi.
+
+(3) A Testület ülésein tanácskozási joggal részt vesz a Testület feladatkörével érintett az alap kezeléséért felelős társadalombiztosítási szerv vezetője, illetve az általa kijelölt személy.
+
+(4) A Testület döntéseit az összes tag többségének szavazatával hozza. Szavazategyenlőség esetén az elnök szavazata dönt.
+
+(5) A Nyugdíjbiztosítási Ellenőrző Testület határozatképességéhez legalább 7 tag jelenléte szükséges.
+
+(6) A Testület ülését az elnök köteles összehívni, ha azt
+
+- a) a Nyugdíjbiztosítási Ellenőrző Testület esetén legalább 5 tag,
+- b) az Országgyűlés illetékes bizottságának elnöke,
+- c) a Kormány, vagy
+- d) a miniszter
+
+kezdeményezi.
+
+(7) A Testület tevékenységéről a feladatköre által érintett alap kezeléséért felelős társadalombiztosítási szerv honlapján tájékoztatást ad.
+
+(8) A Testület működésével kapcsolatos ügyviteli feladatokat a Testület elnökének irányításával működő titkárság látja el.
+
+(9) A Testület szükség szerint szakértőket bízhat meg.
+
+(10) A Testület működése részletes szabályait ügyrendjében állapítja meg.
+
+(11) A Testület és a titkárságok működéséhez szükséges előirányzatot az Országgyűlés a Miniszterelnöki Hivatal költségvetésében elkülönítetten biztosítja, amely felett – az ügyrendben meghatározott módon – az adott Testület elnöke rendelkezik. A Testület és a titkárság gazdálkodását az Állami Számvevőszék ellenőrzi.
+
+10. § (1) Ez a törvény a kihirdetését követő 8. napon lép hatályba.
+
+(2)–(4)
+
+11–12. §
+
+13–18. §
+
+19. §
+
+20. §
