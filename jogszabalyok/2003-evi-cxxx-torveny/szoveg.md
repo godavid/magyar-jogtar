@@ -12,7 +12,7 @@ az Európai Unió tagállamaival folytatott bűnügyi együttműködésről
 
 ### 1. CÍM — ÁTADÁS MAGYARORSZÁGRÓL
 
-3. § (1) A Magyarország területén tartózkodó személy az Európai Unió más tagállamának igazságügyi hatósága (a továbbiakban: tagállami igazságügyi hatóság) által kibocsátott európai elfogatóparancs alapján büntetőeljárás lefolytatása, szabadságvesztés büntetés, illetve szabadságelvonással járó intézkedés végrehajtása céljából elfogható és átadható olyan bűncselekmények esetén, amelyeknél a kibocsátó tagállam joga szerint a büntetési tétel felső határa legalább tizenkét havi szabadságvesztés vagy szabadságelvonással járó intézkedés, vagy ha jogerősen legalább négy hónapi szabadságvesztésre, illetőleg szabadságelvonással járó intézkedésre ítélték.
+3. § (1) A Magyar Köztársaság területén tartózkodó személy az Európai Unió más tagállamának igazságügyi hatósága (a továbbiakban: tagállami igazságügyi hatóság) által kibocsátott európai elfogatóparancs alapján büntetőeljárás lefolytatása, szabadságvesztés büntetés, illetve szabadságelvonással járó intézkedés végrehajtása céljából elfogható és átadható olyan bűncselekmények esetén, amelyeknél a kibocsátó tagállam joga szerint a büntetési tétel felső határa legalább tizenkét havi szabadságvesztés vagy szabadságelvonással járó intézkedés, vagy ha jogerősen legalább négy hónapi szabadságvesztésre, illetőleg szabadságelvonással járó intézkedésre ítélték.
 
 (2) A keresett személyt a cselekmény kettős büntethetőségének mérlegelése nélkül az európai elfogatóparancs alapján át kell adni az e törvény 1. számú mellékletében meghatározott bűncselekmény-fajták esetében.
 
@@ -29,15 +29,15 @@ az Európai Unió tagállamaival folytatott bűnügyi együttműködésről
 - c) ha a magyar törvény szerint a büntethetőség vagy a büntetés elévült, feltéve, hogy az európai elfogatóparancs alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik (Btk. 3. és 4. §);
 - d) ha egy tagállamban a keresett személy ellen az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt már olyan határozatot hoztak, amely a büntetőeljárás megindításának akadályát képezi, vagy amely alapján a büntetést már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó tagállam joga szerint az nem hajtható végre;
 - e) ha a keresett személyt egy harmadik államban ugyanazon cselekmény miatt jogerősen felmentették, vagy jogerősen elítélték, feltéve, hogy a büntetést már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó állam joga szerint az nem hajtható végre;
-- f) ha az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt a keresett személy ellen Magyarország területén büntetőeljárás van folyamatban;
+- f) ha az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt a keresett személy ellen a Magyar Köztársaság területén büntetőeljárás van folyamatban;
 - g) ha a magyar igazságügyi hatóság (bíróság, ügyész) vagy nyomozó hatóság az európai elfogatóparancs alapjául szolgáló bűncselekmény miatt a feljelentést elutasította, vagy a nyomozást, illetve az eljárást megszüntette;
 - h) ha az európai elfogatóparancs alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik (Btk. 3. és 4. §), és a bűncselekményre a magyar törvény szerint közkegyelem terjed ki.
 
-5. § (1) Ha az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, és a keresett személy olyan magyar állampolgár, aki Magyarország területén lakóhellyel rendelkezik, az európai elfogatóparancs végrehajtását meg kell tagadni, és a szabadságvesztés vagy a szabadságelvonással járó intézkedés végrehajtása iránt kell intézkedni.
+5. § (1) Ha az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, és a keresett személy olyan magyar állampolgár, aki a Magyar Köztársaság területén lakóhellyel rendelkezik, az európai elfogatóparancs végrehajtását meg kell tagadni, és a szabadságvesztés vagy a szabadságelvonással járó intézkedés végrehajtása iránt kell intézkedni.
 
-(2) Ha az európai elfogatóparancsot büntetőeljárás lefolytatása céljából bocsátották ki, és a keresett személy olyan magyar állampolgár, aki Magyarország területén lakóhellyel rendelkezik, csak akkor adható át, ha a kibocsátó tagállami igazságügyi hatóság megfelelő jogi garanciát nyújt arra, hogy szabadságvesztés vagy szabadságelvonással járó intézkedés jogerős kiszabása esetén a keresett személyt kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják Magyarország területére.
+(2) Ha az európai elfogatóparancsot büntetőeljárás lefolytatása céljából bocsátották ki, és a keresett személy olyan magyar állampolgár, aki a Magyar Köztársaság területén lakóhellyel rendelkezik, csak akkor adható át, ha a kibocsátó tagállami igazságügyi hatóság megfelelő jogi garanciát nyújt arra, hogy szabadságvesztés vagy szabadságelvonással járó intézkedés jogerős kiszabása esetén a keresett személyt kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják a Magyar Köztársaság területére.
 
-6. § Megtagadható az európai elfogatóparancs végrehajtása, ha az olyan bűncselekményre vonatkozik, amelyet egészben vagy részben Magyarország területén követtek el.
+6. § Megtagadható az európai elfogatóparancs végrehajtása, ha az olyan bűncselekményre vonatkozik, amelyet egészben vagy részben a Magyar Köztársaság területén követtek el.
 
 7. § Ha az európai elfogatóparancsot olyan határozat végrehajtása céljából bocsátották ki, amelyet a keresett személy távollétében hoztak, és a keresett személlyel nem közölték előzetesen a távollétében hozott határozat alapjául szolgáló tárgyalás időpontját és helyét, az átadás feltételeként kell szabni, hogy a kibocsátó tagállami igazságügyi hatóság megfelelő jogi garanciát nyújt arra, miszerint a keresett személynek lehetősége lesz a kibocsátó tagállamban az ügy újratárgyalását kérni és a bírósági tárgyaláson jelen lenni.
 
@@ -47,27 +47,27 @@ az Európai Unió tagállamaival folytatott bűnügyi együttműködésről
 
 (3) Ha egy európai elfogatóparancs és egy harmadik ország kiadatási kérelme ütközik, az eljárásra a nemzetközi bűnügyi jogsegélyről szóló törvény rendelkezései az irányadóak.
 
-(4) E § nem érinti Magyarországnak a Nemzetközi Büntetőbíróság Statútumából eredő kötelezettségeit.
+(4) E § nem érinti a Magyar Köztársaságnak a Nemzetközi Büntetőbíróság Statútumából eredő kötelezettségeit.
 
-9. § Az e Cím alapján mint végrehajtó igazságügyi hatóság kizárólag a Fővárosi Törvényszék jár el egyesbíróként. Határozata ellen, ha e törvény nem zárja ki, fellebbezésnek van helye, amelyet a Fővárosi Ítélőtábla bírál el tanácsülésen. A fellebbezésnek a határozat végrehajtására nincs halasztó hatálya.
+9. § Az e Cím alapján mint végrehajtó igazságügyi hatóság kizárólag a Fővárosi Bíróság jár el egyesbíróként. Határozata ellen, ha e törvény nem zárja ki, fellebbezésnek van helye, amelyet a Fővárosi Ítélőtábla bírál el tanácsülésen. A fellebbezésnek a határozat végrehajtására nincs halasztó hatálya.
 
-10. § (1) A Magyarország területén elfogott személyt őrizetbe kell venni és a Fővárosi Törvényszék elé kell állítani, ha vele szemben európai elfogatóparancsot bocsátottak ki, illetve ha ellene más tagállam nemzetközi körözést bocsátott ki. Ez az őrizet hetvenkét óráig tarthat.
+10. § (1) A Magyar Köztársaság területén elfogott személyt őrizetbe kell venni és a Fővárosi Bíróság elé kell állítani, ha vele szemben európai elfogatóparancsot bocsátottak ki, illetve ha ellene más tagállam nemzetközi körözést bocsátott ki. Ez az őrizet hetvenkét óráig tarthat.
 
-(2) Az (1) bekezdést kell alkalmazni akkor is, ha a Magyarország területén elfogott személyre vonatkozóan a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló 2007. évi CV. törvény 5. § (1) bekezdés a) pontja szerinti figyelmeztető jelzést helyeztek el, és ez a figyelmeztető jelzés a 12. § (2) bekezdése szerint az európai elfogatóparanccsal egyenértékű.
+(2) Az (1) bekezdést kell alkalmazni akkor is, ha a Magyar Köztársaság területén elfogott személyre vonatkozóan a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló 2007. évi CV. törvény 5. § (1) bekezdés a) pontja szerinti figyelmeztető jelzést helyeztek el, és ez a figyelmeztető jelzés a 12. § (2) bekezdése szerint az európai elfogatóparanccsal egyenértékű.
 
-11. § (1) A Fővárosi Törvényszék tárgyalást tart, amelyen
+11. § (1) A Fővárosi Bíróság tárgyalást tart, amelyen
 
 - a) a keresett személyt meghallgatja, különösen személyazonosságára, állampolgárságára; és – ha erre nyilatkozni kíván – az átadás feltételeit e törvény alapján befolyásoló körülményekre;
 - b) tájékoztatja a keresett személyt az egyszerűsített átadási eljárás lehetőségéről (12. §) és annak jogkövetkezményeiről;
 - c) ha a keresett személy nem kíván élni az egyszerűsített átadási eljárás lehetőségével, és a bíróság megállapítja, hogy nem áll fenn a 4. §-ban, az 5. § (1) bekezdésében, illetőleg a 6. §-ban említett megtagadási okok valamelyike, elrendeli a keresett személy ideiglenes átadási letartóztatását, és az erről szóló határozatot haladéktalanul megküldi az igazságügyért felelős miniszternek (a továbbiakban: miniszter).
 
-(2) A tárgyaláson az ügyész és a védő részvétele kötelező. A Fővárosi Törvényszék a tárgyalásról az ügyészt értesíti, a tárgyalásra a védőt idézi.
+(2) A tárgyaláson az ügyész és a védő részvétele kötelező. A Fővárosi Bíróság a tárgyalásról az ügyészt értesíti, a tárgyalásra a védőt idézi.
 
 (3) Ha a keresett személynek nincs meghatalmazott védője, védőt, ha a magyar nyelvet nem ismeri, tolmácsot rendel ki számára.
 
-(4) Ha a kibocsátó tagállami igazságügyi hatóság kéri, a Fővárosi Törvényszék az átadási eljárás keretében elrendeli a 24. § (1) bekezdésében megjelölt tárgyaknak a rendőrség általi felkutatását és lefoglalását.
+(4) Ha a kibocsátó tagállami igazságügyi hatóság kéri, a Fővárosi Bíróság az átadási eljárás keretében elrendeli a 24. § (1) bekezdésében megjelölt tárgyaknak a rendőrség általi felkutatását és lefoglalását.
 
-12. § (1) A Fővárosi Törvényszék elrendeli a keresett személy átadási letartóztatását és átadását (egyszerűsített átadás), ha
+12. § (1) A Fővárosi Bíróság elrendeli a keresett személy átadási letartóztatását és átadását (egyszerűsített átadás), ha
 
 - a) az európai elfogatóparancs végrehajtásának és az átadásnak a feltételei fennállnak, és
 - b) a keresett személy – a megfelelő figyelmeztetést követően – az átadásába beleegyezik, ebben az esetben a figyelmeztetést és a beleegyezést, valamint adott esetben a 31. §-ban említett specialitás szabálya alkalmazásának jogáról való kifejezett lemondást jegyzőkönyvben rögzíti.
@@ -80,9 +80,9 @@ az Európai Unió tagállamaival folytatott bűnügyi együttműködésről
 
 13. § (1) Ha a keresett személy az átadásába nem egyezik bele, a 11. § (1) bekezdésének c) pontjában foglalt intézkedésről a miniszter értesíti a tagállami igazságügyi hatóságot az európai elfogatóparancs haladéktalan megküldése érdekében.
 
-(2) Az európai elfogatóparancsot a miniszter fogadja, és azt haladéktalanul megküldi a Fővárosi Törvényszéknek.
+(2) Az európai elfogatóparancsot a miniszter fogadja, és azt haladéktalanul megküldi a Fővárosi Bíróságnak.
 
-(3) Az európai elfogatóparancs hozzáérkezését követően a Fővárosi Törvényszék tárgyalást tart, amelyre a 11. § rendelkezéseit értelemszerűen alkalmazni kell.
+(3) Az európai elfogatóparancs hozzáérkezését követően a Fővárosi Bíróság tárgyalást tart, amelyre a 11. § rendelkezéseit értelemszerűen alkalmazni kell.
 
 (4) Ha az európai elfogató parancs végrehajtásának és az átadásnak a feltételei fennállnak, arról határozattal dönt. A tárgyaláson hozott határozattal szembeni fellebbezésről az ügyésznek, a keresett személynek és védőjének a határozat kihirdetését követően nyomban nyilatkoznia kell.
 
@@ -103,17 +103,17 @@ az Európai Unió tagállamaival folytatott bűnügyi együttműködésről
 
 napon belül kell meghozni.
 
-(2) Ha kivételes esetben az európai elfogatóparancs végrehajtásáról és az átadásról szóló határozat az (1) bekezdésben meghatározott határidőn belül nem hozható meg, a Fővárosi Törvényszék a késedelem okainak közlése mellett – a miniszter útján – haladéktalanul tájékoztatja erről a kibocsátó tagállami igazságügyi hatóságot. A határidő ebben az esetben további harminc nappal meghosszabbítható.
+(2) Ha kivételes esetben az európai elfogatóparancs végrehajtásáról és az átadásról szóló határozat az (1) bekezdésben meghatározott határidőn belül nem hozható meg, a Fővárosi Bíróság a késedelem okainak közlése mellett – a miniszter útján – haladéktalanul tájékoztatja erről a kibocsátó tagállami igazságügyi hatóságot. A határidő ebben az esetben további harminc nappal meghosszabbítható.
 
 (3) Ha kivételes esetben nem lehet betartani az e §-ban előírt határidőket, a késedelem okainak közlése mellett a miniszter erről tájékoztatja az Eurojustot.
 
-17. § Ha az a személy, akivel szemben európai elfogatóparancsot bocsátottak ki, menekültkénti vagy menedékeskénti elismerését kéri, az átadása esetén a menedékjogi eljárást fel kell függeszteni, és azt akkor kell folytatni, ha a személy Magyarország területére visszatér.
+17. § Ha az a személy, akivel szemben európai elfogatóparancsot bocsátottak ki, menekültkénti vagy menedékeskénti elismerését kéri, az átadása esetén a menedékjogi eljárást fel kell függeszteni, és azt akkor kell folytatni, ha a személy a Magyar Köztársaság területére visszatér.
 
-18. § (1) Ha a keresett személyt nemzetközi jogon vagy a közjogi tisztség betöltésén alapuló mentesség illeti meg Magyarország területén, a 16. §-ban előírt határidőket attól a naptól kell számítani, amelyen a Fővárosi Törvényszékre érkezik a mentesség felfüggesztéséről, illetve a büntetőeljárás megindításához való előzetes hozzájárulásról szóló értesítés.
+18. § (1) Ha a keresett személyt nemzetközi jogon vagy a közjogi tisztség betöltésén alapuló mentesség illeti meg a Magyar Köztársaság területén, a 16. §-ban előírt határidőket attól a naptól kell számítani, amelyen a Fővárosi Bíróságra érkezik a mentesség felfüggesztéséről, illetve a büntetőeljárás megindításához való előzetes hozzájárulásról szóló értesítés.
 
-(2) A mentesség felfüggesztése érdekében a Fővárosi Törvényszék haladéktalanul megkeresi a nemzetközi jogon vagy a közjogi tisztség betöltésén alapuló mentesség ügyében döntési jogkörrel rendelkező szervet, illetve személyt. Ha a mentesség felfüggesztése egy másik állam vagy valamely nemzetközi szervezet hatáskörébe tartozik, e tényről a szükséges intézkedés megtétele érdekében – a miniszter útján – értesíti a kibocsátó tagállami igazságügyi hatóságot.
+(2) A mentesség felfüggesztése érdekében a Fővárosi Bíróság haladéktalanul megkeresi a nemzetközi jogon vagy a közjogi tisztség betöltésén alapuló mentesség ügyében döntési jogkörrel rendelkező szervet, illetve személyt. Ha a mentesség felfüggesztése egy másik állam vagy valamely nemzetközi szervezet hatáskörébe tartozik, e tényről a szükséges intézkedés megtétele érdekében – a miniszter útján – értesíti a kibocsátó tagállami igazságügyi hatóságot.
 
-19. § Ha a Fővárosi Törvényszék megítélése szerint a kibocsátó tagállami igazságügyi hatóság által közölt tények és adatok nem elégségesek az európai elfogatóparancs végrehajtása és az átadás tárgyában történő határozathozatalhoz, kérheti a miniszter útján, hogy sürgősséggel bocsássák a rendelkezésére a szükséges kiegészítő információkat, és – különösen a 4. §-ban, az 5. § (2) bekezdésében, a 7. §-ban, valamint a 25. § (3) bekezdésében meghatározottakat, és a 16. §-ban előírt határidők figyelembevételével – határidőt szabhat ezek megküldésére.
+19. § Ha a Fővárosi Bíróság megítélése szerint a kibocsátó tagállami igazságügyi hatóság által közölt tények és adatok nem elégségesek az európai elfogatóparancs végrehajtása és az átadás tárgyában történő határozathozatalhoz, kérheti a miniszter útján, hogy sürgősséggel bocsássák a rendelkezésére a szükséges kiegészítő információkat, és – különösen a 4. §-ban, az 5. § (2) bekezdésében, a 7. §-ban, valamint a 25. § (3) bekezdésében meghatározottakat, és a 16. §-ban előírt határidők figyelembevételével – határidőt szabhat ezek megküldésére.
 
 20. § (1) A keresett személy átadásáról a Nemzetközi Bűnügyi Együttműködési Központ (a továbbiakban: NEBEK) a Rendőrség közreműködésével gondoskodik, és annak – az érintett hatóságok megállapodása szerinti – a lehető legkorábbi időpontban meg kell történnie.
 
@@ -121,7 +121,7 @@ napon belül kell meghozni.
 
 (3) Ha a keresett személy átadása a (2) bekezdésben előírt határidőn belül a tagállamok bármelyikén kívül eső elháríthatatlan akadály miatt nem lehetséges, új átadási időpontban kell megegyezni. A keresett személyt ebben az esetben az így megállapított új határnapot követő tíz napon belül kell átadni.
 
-(4) Az átadás kivételesen ideiglenesen elhalasztható különös méltánylást érdemlő emberiességi okból, különösen, ha megalapozottan feltételezhető, hogy az átadás végrehajtása veszélyeztetné a keresett személy életét vagy egészségét. Az ideiglenes elhalasztási ok megszűnését követően az európai elfogatóparancsot végre kell hajtani. A Fővárosi Törvényszék az ideiglenes elhalasztásról és annak okáról – a miniszter útján – haladéktalanul tájékoztatja a kibocsátó tagállami igazságügyi hatóságot, és új átadási időpontban állapodik meg. A keresett személyt ebben az esetben a megállapodás szerinti új időpontot követő tíz napon belül kell átadni.
+(4) Az átadás kivételesen ideiglenesen elhalasztható különös méltánylást érdemlő emberiességi okból, különösen, ha megalapozottan feltételezhető, hogy az átadás végrehajtása veszélyeztetné a keresett személy életét vagy egészségét. Az ideiglenes elhalasztási ok megszűnését követően az európai elfogatóparancsot végre kell hajtani. A Fővárosi Bíróság az ideiglenes elhalasztásról és annak okáról – a miniszter útján – haladéktalanul tájékoztatja a kibocsátó tagállami igazságügyi hatóságot, és új átadási időpontban állapodik meg. A keresett személyt ebben az esetben a megállapodás szerinti új időpontot követő tíz napon belül kell átadni.
 
 (5) Az érintett személyt a (2)–(4) bekezdésben említett határidők lejárta után haladéktalanul szabadon kell bocsátani.
 
@@ -135,22 +135,22 @@ napon belül kell meghozni.
 
 (4) Az (1) bekezdés szerinti eljárást kell lefolytatni további átadás esetén is, ha a keresett személy nem mondott le a specialitás szabályának alkalmazásáról, és az átadását követően egy másik tagállam bocsát ki ellene európai elfogatóparancsot. A hozzájárulást e törvény rendelkezéseivel, valamint a vonatkozó egyezményekkel összhangban kell elbírálni.
 
-22. § (1) A Fővárosi Törvényszék az európai elfogatóparancs végrehajtásáról hozott határozatában elhalaszthatja a keresett személy átadását annak érdekében, hogy ellene Magyarország területén a büntetőeljárást lefolytathassák, illetve hogy – ha már elítélték – az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekménytől különböző bűncselekmény miatt kiszabott szabadságvesztés büntetését vagy szabadságelvonással járó intézkedését végrehajthassák.
+22. § (1) A Fővárosi Bíróság az európai elfogatóparancs végrehajtásáról hozott határozatában elhalaszthatja a keresett személy átadását annak érdekében, hogy ellene a Magyar Köztársaság területén a büntetőeljárást lefolytathassák, illetve hogy – ha már elítélték – az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekménytől különböző bűncselekmény miatt kiszabott szabadságvesztés büntetését vagy szabadságelvonással járó intézkedését végrehajthassák.
 
-(2) Az (1) bekezdésben meghatározott átadást elhalasztó határozatot a Fővárosi Törvényszék az európai elfogatóparancs végrehajtásáról hozott határozatát követően is meghozhatja.
+(2) Az (1) bekezdésben meghatározott átadást elhalasztó határozatot a Fővárosi Bíróság az európai elfogatóparancs végrehajtásáról hozott határozatát követően is meghozhatja.
 
-(3) Az átadás elhalasztása helyett a Fővárosi Törvényszék – a kibocsátó tagállami igazságügyi hatósággal írásban történt közös megállapodásban meghatározott feltételek szerint – ideiglenesen átadhatja a keresett személyt az európai elfogató parancsot kibocsátó tagállami igazságügyi hatóságnak.
+(3) Az átadás elhalasztása helyett a Fővárosi Bíróság – a kibocsátó tagállami igazságügyi hatósággal írásban történt közös megállapodásban meghatározott feltételek szerint – ideiglenesen átadhatja a keresett személyt az európai elfogató parancsot kibocsátó tagállami igazságügyi hatóságnak.
 
 23. § Ha a keresett személy az átadási letartóztatás elrendelésekor előzetes letartóztatásban van, vagy szabadságvesztését tölti, illetve vele szemben szabadságelvonással járó intézkedést hajtanak végre, az átadási letartóztatást attól az időponttól kezdődően kell foganatba venni, amikor az előzetes letartóztatás megszűnik, illetve a szabadságvesztés vagy szabadságelvonással járó intézkedés végrehajtása befejeződik.
 
-24. § (1) A Fővárosi Törvényszék az európai elfogatóparancsot kibocsátó tagállami igazságügyi hatóság kérelmére vagy hivatalból elrendeli azoknak a tárgyaknak a lefoglalását és átadását
+24. § (1) A Fővárosi Bíróság az európai elfogatóparancsot kibocsátó tagállami igazságügyi hatóság kérelmére vagy hivatalból elrendeli azoknak a tárgyaknak a lefoglalását és átadását
 
 - a) amelyek bizonyítási eszközként felhasználhatók, vagy
 - b) amelyeket a keresett személy a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett.
 
 (2) Az (1) bekezdésben említett tárgyak akkor is átadhatók, ha az európai elfogatóparancsot a keresett személy halála vagy szökése miatt nem lehet végrehajtani.
 
-(3) Ha a Magyarország területén folyamatban lévő büntetőeljárásban az (1) bekezdésben említett tárgyakra szükség van, azokat ideiglenesen vissza lehet tartani vagy a visszaszolgáltatás feltételével át lehet adni az európai elfogatóparancsot kibocsátó tagállamnak.
+(3) Ha a Magyar Köztársaság területén folyamatban lévő büntetőeljárásban az (1) bekezdésben említett tárgyakra szükség van, azokat ideiglenesen vissza lehet tartani vagy a visszaszolgáltatás feltételével át lehet adni az európai elfogatóparancsot kibocsátó tagállamnak.
 
 (4) E § rendelkezései nem érintik az e tárgyakon fennálló tulajdonjogot és egyéb jogokat.
 
@@ -171,7 +171,7 @@ napon belül kell meghozni.
 
 (6) A büntetőeljárás befejezését követően haladéktalanul és díjmentesen vissza kell szolgáltatni azokat az átadott tárgyakat, amelyekre az azokat átadó tagállamnak vagy harmadik személynek szerzett joga fennmaradt.
 
-(7) Az európai elfogatóparancs hatálya kiterjed Magyarország területére is.
+(7) Az európai elfogatóparancs hatálya kiterjed a Magyar Köztársaság területére is.
 
 (8) Az európai elfogatóparancsot haladéktalanul vissza kell vonni, ha a kibocsátásának oka megszűnt. Az európai elfogatóparancs visszavonásáról szóló végzést a kibocsátó haladéktalanul megküldi a Nemzetközi Bűnügyi Együttműködési Központnak. Az európai elfogatóparancs visszavonásáról szóló végzést a terhelt bejelentett lakóhelye, ennek hiányában bejelentett tartózkodási helye – ha a terhelt egyikkel sem rendelkezik, a kibocsátó bíróság székhelye – szerint illetékes rendőrkapitányságnak is meg kell küldeni.
 
@@ -195,10 +195,10 @@ napon belül kell meghozni.
 
 (2) Az (1) bekezdés nem alkalmazható az alábbi esetekben:
 
-- a) ha a személy a végleges szabadon bocsátását követő negyvenöt napon belül nem hagyja el – bár erre lehetősége lett volna – Magyarország területét, vagy elhagyása után ide visszatér;
+- a) ha a személy a végleges szabadon bocsátását követő negyvenöt napon belül nem hagyja el – bár erre lehetősége lett volna – a Magyar Köztársaság területét, vagy elhagyása után ide visszatér;
 - b) ha a bűncselekmény szabadságvesztés büntetéssel nem büntethető, vagy szabadságelvonással járó intézkedéssel nem fenyegetett;
 - c) ha a büntetőeljárás eredményeként nem kerül sor személyi szabadságot korlátozó intézkedés alkalmazására;
-- d) ha a személlyel szemben szabadságelvonással nem járó büntetés vagy intézkedés, különösen pénzbüntetés szabható ki, illetőleg alkalmazható, még akkor sem, ha a büntetés vagy intézkedés személyi szabadságának korlátozását eredményezheti;
+- d) ha a személlyel szemben szabadságelvonással nem járó büntetés vagy intézkedés, különösen pénzbüntetés vagy pénzmellékbüntetés szabható ki, illetőleg alkalmazható, még akkor sem, ha a büntetés vagy intézkedés személyi szabadságának korlátozását eredményezheti;
 - e) ha a személy beleegyezett az átadásába, és ezzel egyidejűleg lemondott a specialitás szabályának alkalmazásáról;
 - f) ha a személy az átadása után, az átadását megelőzően elkövetett meghatározott cselekmények vonatkozásában kifejezetten lemondott a specialitás szabályának alkalmazásához fűződő jogáról. A lemondó nyilatkozatot a magyar illetékes igazságügyi hatóság előtt kell megtenni, és azt jegyzőkönyvbe kell venni, amelyet mind az igazságügyi hatóság képviselőjének, mind a nyilatkozattevőnek alá kell írnia. A lemondó nyilatkozatot úgy kell megfogalmazni, hogy abból egyértelműen kitűnjön, hogy azt az érintett személy önként és az abból adódó következmények teljes tudatában tette. A személy védőt vehet igénybe.;
 - g) ha a személyt átadó tagállami igazságügyi hatóság a (3) bekezdéssel összhangban hozzájárulását adja.
@@ -207,7 +207,7 @@ napon belül kell meghozni.
 
 32. § (1) Az európai elfogatóparancs alapján keresett személy a végrehajtó tagállam hozzájárulása nélkül, az átadása előtt elkövetett bűncselekmény miatt kibocsátott európai elfogatóparancs alapján az alábbi esetekben átadható a végrehajtó tagállamtól különböző tagállamnak:
 
-- a) ha a keresett személy a végleges szabadon bocsátását követő negyvenöt napon belül nem hagyja el – bár erre lehetősége lett volna – Magyarország területét, vagy elhagyása után ide visszatér;
+- a) ha a keresett személy a végleges szabadon bocsátását követő negyvenöt napon belül nem hagyja el – bár erre lehetősége lett volna – a Magyar Köztársaság területét, vagy elhagyása után ide visszatér;
 - b) ha a keresett személy beleegyezik abba, hogy az európai elfogatóparancs alapján a végrehajtó tagállamtól különböző tagállamnak átadják. A lemondó nyilatkozatot bíróság előtt kell megtenni, és azt jegyzőkönyvbe kell venni, amelyet mind a bírónak, mind a nyilatkozattevőnek alá kell írnia. A lemondó nyilatkozatot úgy kell megfogalmazni, hogy abból egyértelműen kitűnjön, hogy azt az érintett személy önként és az abból adódó következmények teljes tudatában tette. A személy védőt vehet igénybe;
 - c) ha a keresett személyre a 31. § (2) bekezdésének a), e), f) és g) pontja szerint nem vonatkozik a specialitás szabálya.
 
@@ -217,18 +217,18 @@ napon belül kell meghozni.
 
 ### 3. CÍM — KÖLTSÉGVISELÉS
 
-34. § A tagállami igazságügyi hatóság által kibocsátott európai elfogatóparancs végrehajtása során a Magyarország területén felmerülő költség bűnügyi költség, amelyet a Magyar Állam visel.
+34. § A tagállami igazságügyi hatóság által kibocsátott európai elfogatóparancs végrehajtása során a Magyar Köztársaság területén felmerülő költség bűnügyi költség, amelyet a Magyar Állam visel.
 
 ### 4. CÍM — ÁTSZÁLLÍTÁS
 
-35. § (1) A miniszter engedélyezi, hogy a keresett személyt Magyarország területén átadás céljából átszállítsák, feltéve, hogy tájékoztatást kapott
+35. § (1) A miniszter engedélyezi, hogy a keresett személyt a Magyar Köztársaság területén átadás céljából átszállítsák, feltéve, hogy tájékoztatást kapott
 
 - a) annak a személynek a személyazonosságáról és állampolgárságáról, aki ellen az európai elfogatóparancsot kibocsátották;
 - b) az európai elfogatóparancs meglétéről;
 - c) a bűncselekmény jellegéről és jogi minősítéséről;
 - d) a bűncselekmény körülményeinek ismertetéséről, ideértve az elkövetés időpontját és helyét is.
 
-(2) Ha az európai elfogatóparancsot büntetőeljárás lefolytatása céljából bocsátották ki, és a keresett személy olyan magyar állampolgár, aki Magyarország területén lakóhellyel rendelkezik, a keresett személy csak akkor szállítható át, ha a kibocsátó tagállam megfelelő jogi garanciát nyújt arra, hogy a szabadságvesztés büntetés vagy a szabadságelvonással járó intézkedés jogerős kiszabása esetén kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják Magyarország területére.
+(2) Ha az európai elfogatóparancsot büntetőeljárás lefolytatása céljából bocsátották ki, és a keresett személy olyan magyar állampolgár, aki a Magyar Köztársaság területén lakóhellyel rendelkezik, a keresett személy csak akkor szállítható át, ha a kibocsátó tagállam megfelelő jogi garanciát nyújt arra, hogy a szabadságvesztés büntetés vagy a szabadságelvonással járó intézkedés jogerős kiszabása esetén kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják a Magyar Köztársaság területére.
 
 (3) A légi úton történő átszállítás esetén az (1) bekezdés akkor alkalmazható, ha nem tervezett leszállásra kerül sor.
 
@@ -260,7 +260,7 @@ napon belül kell meghozni.
 
 (2) A magyar igazságügyi hatóságok nemzetközi szerződés alapján a tagállamok bűnüldöző szerveitől is elfogadhatnak, illetve közvetlenül e szervekhez is intézhetnek eljárási jogsegély iránti megkeresést, ha a tagállam belső joga lehetővé teszi azt, hogy a bűnüldöző szervek a büntető ügyekben folytatott jogsegélyforgalomban részt vegyenek.
 
-(3) Az eljárási jogsegély iránti megkeresés nem teljesíthető és nem terjeszthető elő, ha az csorbítja Magyarország felségjogait, veszélyezteti biztonságát, sérti közrendjét.
+(3) Az eljárási jogsegély iránti megkeresés nem teljesíthető és nem terjeszthető elő, ha az csorbítja a Magyar Köztársaság felségjogait, veszélyezteti biztonságát, sérti közrendjét.
 
 (4) A (2) és (3) bekezdésben foglalt feltételek vizsgálata a vádirat benyújtásáig a legfőbb ügyész, a vádirat benyújtása után a miniszter hatáskörébe tartozik.
 
@@ -365,9 +365,9 @@ napon belül kell meghozni.
 
 (2) A magyar igazságügyi hatóság elrendeli az átadni kért tárgy lefoglalását, és – szükség esetén – az ismeretlen helyen lévő tárgy körözését rendelheti el.
 
-(3) A tárgy átadása nem sértheti jóhiszemű harmadik személy jogait, és nem veszélyeztetheti a Magyarország területén folyamatban lévő büntetőeljárás sikerét.
+(3) A tárgy átadása nem sértheti jóhiszemű harmadik személy jogait, és nem veszélyeztetheti a Magyar Köztársaság területén folyamatban lévő büntetőeljárás sikerét.
 
-(4) Ha az átadni kért tárgyra a Magyarország területén folyamatban lévő büntetőeljárásban szükség van, a tárgy átadását az eljárás jogerős befejezéséig vagy a lefoglalás jogerős megszüntetéséig a magyar igazságügyi hatóság elhalasztja, és erről a megkereső igazságügyi hatóságot haladéktalanul tájékoztatja.
+(4) Ha az átadni kért tárgyra a Magyar Köztársaság területén folyamatban lévő büntetőeljárásban szükség van, a tárgy átadását az eljárás jogerős befejezéséig vagy a lefoglalás jogerős megszüntetéséig a magyar igazságügyi hatóság elhalasztja, és erről a megkereső igazságügyi hatóságot haladéktalanul tájékoztatja.
 
 (5) A magyar igazságügyi hatóság közvetlenül megkeresheti a tagállami igazságügyi hatóságot olyan tárgy átadása érdekében, amelyre a bűncselekményt elkövették, és amelynek visszaadása iránt a magyar igazságügyi hatóság előtt a tulajdonjogát kétséget kizáró módon igazoló személy kérelmet terjesztett elő. A kérelmet a tagállami igazságügyi hatósághoz intézett eljárási jogsegély iránti megkereséshez csatolni kell.
 
@@ -375,15 +375,15 @@ napon belül kell meghozni.
 
 ### A fogvatartott személy ideiglenes átszállítása
 
-52. § (1) Ha a tagállami igazságügyi hatóság olyan, Magyarország területén teljesítendő eljárási cselekmény iránt terjesztett elő megkeresést, amelyen a megkereső tagállam területén fogva tartott személy jelenléte szükséges, akkor ezt a személyt – a megkereső tagállammal megkötött eseti megállapodás alapján – az eljárási cselekmény végrehajtása érdekében Magyarország területére ideiglenesen át lehet szállítani.
+52. § (1) Ha a tagállami igazságügyi hatóság olyan, a Magyar Köztársaság területén teljesítendő eljárási cselekmény iránt terjesztett elő megkeresést, amelyen a megkereső tagállam területén fogvatartott személy jelenléte szükséges, akkor ezt a személyt – a megkereső tagállammal megkötött eseti megállapodás alapján – az eljárási cselekmény végrehajtása érdekében a Magyar Köztársaság területére ideiglenesen át lehet szállítani.
 
-(2) Az ideiglenesen átszállított személy fogvatartását a magyar büntetés-végrehajtási jogszabályok szerint Magyarország területén is biztosítani kell.
+(2) Az ideiglenesen átszállított személy fogvatartását a magyar büntetés-végrehajtási jogszabályok szerint a Magyar Köztársaság területén is biztosítani kell.
 
-(3) Ha a magyar igazságügyi hatóság olyan eljárási cselekmény iránt terjesztett elő megkeresést, amelyen a Magyarország területén fogvatartott személy jelenléte szükséges, akkor ezt a személyt – a megkeresett tagállammal megkötött eseti megállapodás alapján – ideiglenesen annak a tagállamnak a területére lehet átszállítani, ahol az eljárást le kell folytatni.
+(3) Ha a magyar igazságügyi hatóság olyan eljárási cselekmény iránt terjesztett elő megkeresést, amelyen a Magyar Köztársaság területén fogvatartott személy jelenléte szükséges, akkor ezt a személyt – a megkeresett tagállammal megkötött eseti megállapodás alapján – ideiglenesen annak a tagállamnak a területére lehet átszállítani, ahol az eljárást le kell folytatni.
 
-(4) Az előzetes letartóztatásban lévő terhelt ideiglenes átszállítására vonatkozó megállapodást a vádirat benyújtása előtt a legfőbb ügyész, a vádirat benyújtása után, illetve a szabadságvesztés büntetést vagy szabadságelvonással járó intézkedést töltő személy esetében a miniszter köti meg. A megállapodás tartalmazza az érintett személy ideiglenes átszállításának részleteit, valamint azt a határnapot, amikorra az érintett személyt vissza kell szállítani a megkereső tagállam, illetve Magyarország területére.
+(4) Az előzetes letartóztatásban lévő terhelt ideiglenes átszállítására vonatkozó megállapodást a vádirat benyújtása előtt a legfőbb ügyész, a vádirat benyújtása után, illetve a szabadságvesztés büntetést vagy szabadságelvonással járó intézkedést töltő személy esetében a miniszter köti meg. A megállapodás tartalmazza az érintett személy ideiglenes átszállításának részleteit, valamint azt a határnapot, amikorra az érintett személyt vissza kell szállítani a megkereső tagállam, illetve a Magyar Köztársaság területére.
 
-(5) Az ideiglenes átszállításához az érintett személy kifejezett hozzájárulása szükséges. A Magyarország területén fogva tartott személy hozzájáruló nyilatkozatát tartalmazó iratot és annak fordítását csatolni kell a megkereséshez.
+(5) Az ideiglenes átszállításához az érintett személy kifejezett hozzájárulása szükséges. A Magyar Köztársaság területén fogva tartott személy hozzájáruló nyilatkozatát tartalmazó iratot és annak fordítását csatolni kell a megkereséshez.
 
 (6) A tagállam területén töltött fogva tartás esetén a magyar törvény szerint elrendelt kényszerintézkedés, illetve szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtását folyamatosnak kell tekinteni.
 
@@ -391,7 +391,7 @@ napon belül kell meghozni.
 
 53. § (1) A tanú, a szakértő vagy – erre vonatkozó kifejezett írásbeli hozzájárulása alapján – a terhelt zártcélú távközlő hálózat útján történő kihallgatására, illetőleg meghallgatására vonatkozó, a tagállami igazságügyi hatóság által előterjesztett megkeresés teljesítésére kizárólag a bíróság jogosult.
 
-(2) A bíróság a tagállami igazságügyi hatóságot közvetlenül megkeresheti tanú zártcélú távközlő hálózat útján történő kihallgatása érdekében, ha Magyarország területén az érintett személy megjelenése nem lehetséges.
+(2) A bíróság a tagállami igazságügyi hatóságot közvetlenül megkeresheti tanú zártcélú távközlő hálózat útján történő kihallgatása érdekében, ha a Magyar Köztársaság területén az érintett személy megjelenése nem lehetséges.
 
 ### Kihallgatás távbeszélő készülék útján
 
@@ -429,38 +429,38 @@ napon belül kell meghozni.
 - h) a működés költségeinek viselését;
 - i) a közös nyomozócsoport más tagállamban eljáró tagja által működési körében okozott károkért való felelősségének szabályairól szóló tájékoztatást.
 
-57. § A Magyarország területén működő közös nyomozócsoportot az ügyész vagy a nyomozó hatóság vezetője, illetve a nyomozó hatóságnak a nyomozó hatóság vezetője által kijelölt tagja vezeti. Ha a közös nyomozócsoportot a nyomozó hatóság vezetője, illetve tagja vezeti, az ügyésznek rendszeresen beszámol a közös nyomozócsoport működéséről, és előzetesen tájékoztatja a foganatosítandó nyomozási cselekményekről.
+57. § A Magyar Köztársaság területén működő közös nyomozócsoportot az ügyész vagy a nyomozó hatóság vezetője, illetve a nyomozó hatóságnak a nyomozó hatóság vezetője által kijelölt tagja vezeti. Ha a közös nyomozócsoportot a nyomozó hatóság vezetője, illetve tagja vezeti, az ügyésznek rendszeresen beszámol a közös nyomozócsoport működéséről, és előzetesen tájékoztatja a foganatosítandó nyomozási cselekményekről.
 
-58. § (1) A tagállami nyomozó hatóságnak Magyarország területén eljáró tagja
+58. § (1) A tagállami nyomozó hatóságnak a Magyar Köztársaság területén eljáró tagja
 
 - a) a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény rendelkezéseinek megfelelően kényszerítő eszközt alkalmazhat, továbbá szolgálati lőfegyverét magánál tarthatja, azt azonban kizárólag jogos védelmi helyzetben, illetve végszükségben használhatja; a magyar bűnüldöző szervek tevékenységére vonatkozó jogszabályokban meghatározott más kényszerítő eszközt nem vehet igénybe;
 - b) a bűncselekmény elkövetésén tetten ért személyt elfoghatja, az elfogás helyszínén visszatarthatja, azonban köteles őt haladéktalanul a magyar nyomozó hatóságnak átadni; más kényszerintézkedést nem alkalmazhat.
 
-(2) A közös nyomozócsoport feladatának teljesítéséhez szükséges mértékben a tagállami igazságügyi vagy nyomozó hatóságnak Magyarország területén eljáró tagja
+(2) A közös nyomozócsoport feladatának teljesítéséhez szükséges mértékben a tagállami igazságügyi vagy nyomozó hatóságnak a Magyar Köztársaság területén eljáró tagja
 
 - a) államának joga szerint és a tagállam hivatalos nyelvén – a 45. § rendelkezéseire figyelemmel – tanút vagy terheltet hallgathat ki, és erről jegyzőkönyvet készíthet, amelynek másolati példányát és magyar fordítását az eljárás irataihoz kell csatolni,
 - b) a nyomozási cselekményeken jelen lehet, a nyomozási cselekményekről államának joga szerint és a tagállam hivatalos nyelvén jegyzőkönyvet készíthet, amelynek másolati példányát és magyar fordítását az eljárás irataihoz kell csatolni,
 - c) az ellenőrzött szállításban fedett nyomozóként eljárhat.
 
-(3) A (2) bekezdés a) és b) pontjában meghatározott esetekben, ha a tagállami igazságügyi vagy nyomozó hatóságnak Magyarország területén eljáró tagja az eljárási cselekmény során a tagállam hivatalos nyelvét használja, a magyar igazságügyi vagy nyomozó hatóság – szükség esetén – tolmácsot rendel ki. A tagállam hivatalos nyelvének használatával kapcsolatban felmerült költséget a megkereső tagállam viseli.
+(3) A (2) bekezdés a) és b) pontjában meghatározott esetekben, ha a tagállami igazságügyi vagy nyomozó hatóságnak a Magyar Köztársaság területén eljáró tagja az eljárási cselekmény során a tagállam hivatalos nyelvét használja, a magyar igazságügyi vagy nyomozó hatóság – szükség esetén – tolmácsot rendel ki. A tagállam hivatalos nyelvének használatával kapcsolatban felmerült költséget a megkereső tagállam viseli.
 
 (4) Az (1) és (2) bekezdés szerinti intézkedések és kényszerítő eszközök alkalmazásának feltételeiről a közös nyomozócsoport magyar vezetője tájékoztatja a tagállam igazságügyi vagy nyomozó hatóságának tagját.
 
-(5) Az eljárási jogsegély teljesítése során a tagállam igazságügyi vagy nyomozó hatóságának tagja Magyarország területén a közös nyomozócsoport magyar vezetőjének utasítása szerint jár el.
+(5) Az eljárási jogsegély teljesítése során a tagállam igazságügyi vagy nyomozó hatóságának tagja a Magyar Köztársaság területén a közös nyomozócsoport magyar vezetőjének utasítása szerint jár el.
 
 (6) Az ügyész vagy a közös nyomozócsoport magyar vezetője haladéktalanul értesíti a tagállami igazságügyi vagy nyomozó hatóságot, ha a tagállam igazságügyi vagy nyomozó hatóságának tagja a magyar jog szerint büntetendő cselekményt követett el.
 
-59. § (1) Az Eurojust, illetve annak nemzeti képviselője, valamint az Európai Rendőrségi Hivatal (a továbbiakban: Europol) által kezdeményezett közös nyomozócsoportra, a tagok jogaira és kötelezettségeire e törvényt kell értelemszerűen alkalmazni. Az Europol tisztviselője e törvény szerint vehet részt a közös nyomozócsoportban, de feladatának végrehajtása során nem alkalmazhat a büntetőeljárásról szóló törvényben meghatározott kényszerintézkedést, illetőleg a rendőrségről szóló törvényben meghatározott kényszerítő eszközt.
+59. § (1) Az Eurojust, illetve annak nemzeti képviselője, valamint az Európai Rendőrségi Hivatal (a továbbiakban: EUROPOL) által kezdeményezett közös nyomozócsoportra, a tagok jogaira és kötelezettségeire e törvényt kell értelemszerűen alkalmazni. Az EUROPOL tisztviselője e törvény szerint vehet részt a közös nyomozócsoportban.
 
-(2) Az Európai Unió tagállamaival, illetve az EUROPOL-lal együttműködési megállapodást kötött külföldi hatósággal létrehozott, Magyarország területén működő közös nyomozócsoport kezdeményezheti a Nemzetközi Bűnügyi Együttműködési Központnál, hogy a számára engedélyezett körben adatot vagy más technikai tanácsadást kérjen az EUROPOL-tól.
+(2) Az Európai Unió tagállamaival, illetve az EUROPOL-lal együttműködési megállapodást kötött külföldi hatósággal létrehozott, a Magyar Köztársaság területén működő közös nyomozócsoport kezdeményezheti a Nemzetközi Bűnügyi Együttműködési Központnál, hogy a számára engedélyezett körben adatot vagy más technikai tanácsadást kérjen az EUROPOL-tól.
 
 (3) Minden olyan adatot, amely az (1) bekezdésben meghatározott közös nyomozócsoport tevékenységéből származik, a Nemzetközi Bűnügyi Együttműködési Központon keresztül az EUROPOL részére továbbítani kell.
 
 ### A fedett nyomozó alkalmazása
 
-60. § (1) Ha a tagállam igazságügyi vagy nyomozó hatósága által folytatott büntetőeljárás eredményessége érdekében tagállami fedett nyomozónak Magyarország területén, illetve magyar fedett nyomozónak az Európai Unió tagállama területén történő alkalmazása szükséges, a tagállam igazságügyi vagy nyomozó hatósága kérésére tagállami fedett nyomozó Magyarország területén, illetve magyar fedett nyomozó az Európai Unió tagállama területén alkalmazható.
+60. § (1) Ha a tagállam igazságügyi vagy nyomozó hatósága által folytatott büntetőeljárás eredményessége érdekében tagállami fedett nyomozónak a Magyar Köztársaság területén, illetve magyar fedett nyomozónak az Európai Unió tagállama területén történő alkalmazása szükséges, a tagállam igazságügyi vagy nyomozó hatósága kérésére tagállami fedett nyomozó a Magyar Köztársaság területén, illetve magyar fedett nyomozó az Európai Unió tagállama területén alkalmazható.
 
-(2) Ha a Magyarország területén folyamatban lévő büntetőeljárás eredményessége érdekében az Európai Unió tagállama területén magyar fedett nyomozó, illetve Magyarország területén tagállami fedett nyomozó alkalmazása szükséges, ezt a legfőbb ügyész a tagállami igazságügyi vagy nyomozó hatóságnál kezdeményezheti.
+(2) Ha a Magyar Köztársaság területén folyamatban lévő büntetőeljárás eredményessége érdekében az Európai Unió tagállama területén magyar fedett nyomozó, illetve a Magyar Köztársaság területén tagállami fedett nyomozó alkalmazása szükséges, ezt a legfőbb ügyész a tagállami igazságügyi vagy nyomozó hatóságnál kezdeményezheti.
 
 61. § (1) A fedett nyomozó alkalmazására a legfőbb ügyész és a tagállam igazságügyi vagy nyomozó hatósága közötti eseti megállapodás alapján kerülhet sor.
 
@@ -472,7 +472,7 @@ napon belül kell meghozni.
 - d) a fedett nyomozó lelepleződése esetén alkalmazandó intézkedést,
 - e) a fedett nyomozó által működési körében okozott károkért való felelősségének szabályairól szóló tájékoztatást.
 
-(3) Az 58. §-t kell megfelelően alkalmazni, ha a tagállami fedett nyomozó Magyarország területén jár el.
+(3) Az 58. §-t kell megfelelően alkalmazni, ha a tagállami fedett nyomozó a Magyar Köztársaság területén jár el.
 
 ### Az ellenőrzött szállítás és a bírói engedélyhez nem kötött titkos információgyűjtés
 
@@ -486,13 +486,13 @@ napon belül kell meghozni.
 
 (3) A tagállami igazságügyi vagy nyomozó hatóságtól érkező megkeresés akkor teljesíthető, ha a tagállami igazságügyi vagy nyomozó hatóság a saját államának joga szerinti engedéllyel és a titkos adatszerzést végző ügyész vagy nyomozó hatóság a büntetőeljárásról szóló törvényben meghatározott bírói engedéllyel rendelkezik.
 
-(4) A tagállami igazságügyi vagy nyomozó hatóságtól érkezett megkeresés teljesítése során a titkos adatszerzést a Fővárosi Törvényszék elnöke által e feladatra kijelölt bíró engedélyezi.
+(4) A tagállami igazságügyi vagy nyomozó hatóságtól érkezett megkeresés teljesítése során a titkos adatszerzést a Fővárosi Bíróság elnöke által e feladatra kijelölt bíró engedélyezi.
 
 (5) A magyar nyomozó hatóság a titkos adatszerzés lefolytatásáról folyamatosan tájékoztatja az ügyészt, és a titkos adatszerzés végrehajtásáról készített jelentést az ügyésznek megküldi.
 
 (6) Az ügyész a büntetőeljárásról szóló törvényben meghatározott titkos adatszerzés végrehajtására irányuló megkeresést kizárólag a magyar jogszabályok szerinti bírói engedély beszerzését követően terjesztheti elő a tagállami igazságügyi vagy nyomozó hatóságnál.
 
-64. § Az elektronikus hírközlő hálózat útján továbbított közlemény, illetve a számítástechnikai rendszer útján továbbított adatok kifürkészésére irányuló megkeresés – a 63. § (3) bekezdésben foglaltakon felül – akkor teljesíthető, ha a titkos adatszerzéssel érintett személy Magyarország területén tartózkodik, továbbá, ha a titkos adatszerzéssel érintett személy harmadik állam területén tartózkodik, azonban a közlemény vagy adat kifürkészése a Magyarország területén működő elektronikus hírközlési szolgáltató közreműködését igényli, vagy az azt lehetővé tevő technikai eszköz Magyarország területén található.
+64. § Az elektronikus hírközlő hálózat útján továbbított közlemény, illetve a számítástechnikai rendszer útján továbbított adatok kifürkészésére irányuló megkeresés – a 63. § (3) bekezdésben foglaltakon felül – akkor teljesíthető, ha a titkos adatszerzéssel érintett személy a Magyar Köztársaság területén tartózkodik, továbbá, ha a titkos adatszerzéssel érintett személy harmadik állam területén tartózkodik, azonban a közlemény vagy adat kifürkészése a Magyar Köztársaság területén működő elektronikus hírközlési szolgáltató közreműködését igényli, vagy az azt lehetővé tevő technikai eszköz a Magyar Köztársaság területén található.
 
 65. § (1) Az ügyész által a tagállami igazságügyi vagy nyomozó hatóságnál előterjesztett titkos adatszerzés végrehajtására irányuló megkeresésnek tartalmaznia kell különösen:
 
@@ -512,7 +512,7 @@ napon belül kell meghozni.
 
 (3) A tagállami igazságügyi vagy nyomozó hatóság által előterjesztett titkos adatszerzés végrehajtására irányuló megkeresés akkor teljesíthető, ha az tartalmazza az (1) és (2) bekezdésben meghatározott adatokat.
 
-(4) Ha az elektronikus hírközlő hálózat útján továbbított közlemény, illetve a számítástechnikai rendszer útján továbbított vagy tárolt adatok kifürkészésére irányuló megkeresés esetén a titkos adatszerzéssel érintett személy nem Magyarország területén tartózkodik, de a közlemény vagy az adat kifürkészéséhez, vagy az érintett elektronikus hírközléshez kötődő járulékos és kísérő adatok rögzítéséhez, továbbításához a magyar hatóságok közreműködése szükséges, a megkeresésnek – az (1) és a (2) bekezdésben foglaltak mellett – tartalmaznia kell a tényállás rövid ismertetését is.
+(4) Ha az elektronikus hírközlő hálózat útján továbbított közlemény, illetve a számítástechnikai rendszer útján továbbított vagy tárolt adatok kifürkészésére irányuló megkeresés esetén a titkos adatszerzéssel érintett személy nem a Magyar Köztársaság területén tartózkodik, de a közlemény vagy az adat kifürkészéséhez, vagy az érintett elektronikus hírközléshez kötődő járulékos és kísérő adatok rögzítéséhez, továbbításához a magyar hatóságok közreműködése szükséges, a megkeresésnek – az (1) és a (2) bekezdésben foglaltak mellett – tartalmaznia kell a tényállás rövid ismertetését is.
 
 66. § (1) A 63. § (1) bekezdésében foglalt titkos adatszerzésre irányuló megkeresés alapján az ügyész, illetve a nyomozó hatóság a megfigyelt, illetve rögzített adatot a megkereső tagállami igazságügyi vagy nyomozó hatóságnak továbbítja.
 
@@ -530,12 +530,12 @@ rendelkezhet.
 
 ### 1. CÍM — A bizonyítási eszköz, az elkobzás alá eső dologés a vagyonelkobzás alá eső vagyon megőrzését biztosító tagállami igazságügyi hatóság határozatának végrehajtása
 
-67/A. § (1) Az Európai Unió tagállamaival folytatott bűnügyi együttműködés során Magyarország igazságügyi hatósága közvetlenül végrehajtja egy tagállami igazságügyi hatóság által
+67/A. § (1) Az Európai Unió tagállamaival folytatott bűnügyi együttműködés során a Magyar Köztársaság igazságügyi hatósága közvetlenül végrehajtja egy tagállami igazságügyi hatóság által
 
 - a) a bizonyítási eszközök felderítése, összegyűjtése, biztosítása vagy felhasználása végett, illetőleg
 - b) az elkobzás, illetőleg a vagyonelkobzás biztosítása érdekében
 
-kibocsátott határozatot, ha azt az e törvény 3. számú melléklete szerinti formanyomtatvány tanúsítvánnyal (a továbbiakban e fejezet alkalmazásában: tanúsítvány) együtt, magyar nyelven a magyar igazságügyi hatóságnak megküldték, és a bizonyítási eszköz, az elkobzás alá eső dolog, illetve a vagyonelkobzás alá eső vagyon Magyarország területén található.
+kibocsátott határozatot, ha azt az e törvény 3. számú melléklete szerinti formanyomtatvány tanúsítvánnyal (a továbbiakban e fejezet alkalmazásában: tanúsítvány) együtt, magyar nyelven a magyar igazságügyi hatóságnak megküldték, és a bizonyítási eszköz, az elkobzás alá eső dolog, illetve a vagyonelkobzás alá eső vagyon a Magyar Köztársaság területén található.
 
 (2) A tagállami igazságügyi hatóság által kibocsátott határozatot a magyar jog szerint az ilyen határozatot kibocsátani (kényszerintézkedést elrendelni) és a végrehajtás iránt intézkedni jogosult magyar igazságügyi hatóság hajtja végre.
 
@@ -555,7 +555,7 @@ kibocsátott határozatot, ha azt az e törvény 3. számú melléklete szerinti
 
 - a) a 67/B. § (2)–(3) bekezdésében említett esetben a határozat alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény;
 - b) a magyar törvény szerint a határozat alapjául szolgáló bűncselekmény büntethetősége vagy a kiszabott büntetés elévült;
-- c) Magyarországon, illetőleg egy tagállamban a terhelt ellen a határozat kibocsátásának alapjául szolgáló cselekmény miatt már olyan határozatot hoztak, amely a büntetőeljárás megindításának akadályát képezi, vagy amely alapján az elkobzást, a vagyonelkobzást, illetve az ennek megfelelő büntetést vagy intézkedést már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó tagállam joga szerint az nem hajtható végre;
+- c) a Magyar Köztársaságban, illetőleg egy tagállamban a terhelt ellen a határozat kibocsátásának alapjául szolgáló cselekmény miatt már olyan határozatot hoztak, amely a büntetőeljárás megindításának akadályát képezi, vagy amely alapján az elkobzást, a vagyonelkobzást, illetve az ennek megfelelő büntetést vagy intézkedést már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó tagállam joga szerint az nem hajtható végre;
 - d) a terheltet egy harmadik államban ugyanazon cselekmény miatt jogerősen elítélték, feltéve, hogy az elkobzást, a vagyonelkobzást, illetve az ennek megfelelő büntetést vagy intézkedést már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó állam joga szerint az nem hajtható végre, illetőleg a terheltet egy harmadik államban ugyanazon cselekmény miatt jogerősen felmentették;
 - e) a tagállami igazságügyi hatóság által megküldött tanúsítvány nyilvánvalóan nem a mellékelt, intézkedést elrendelő határozatra vonatkozik;
 - f) a hiánypótlásra, kijavításra tűzött határidő eredménytelenül eltelt, illetőleg a 67/D. § (2) bekezdésére figyelemmel kiegészített határozat végrehajtása továbbra sem lehetséges;
@@ -576,9 +576,9 @@ kibocsátott határozatot, ha azt az e törvény 3. számú melléklete szerinti
 
 (2) A magyar igazságügyi hatóság haladéktalanul tájékoztatja a határozatot kibocsátó tagállami igazságügyi hatóságot, ha annak végrehajtása akadályba ütközik, különösen ha a bizonyítási eszköz, az elkobzás alá eső dolog vagy a vagyonelkobzás alá eső vagyon eltűnt, megsemmisült, a tanúsítványban meghatározott helyen nem található, illetőleg kiegészítő információ kérése ellenére nem áll rendelkezésre elegendő adat ahhoz, hogy a bizonyítási eszközt, az elkobzás alá eső dolgot vagy a vagyonelkobzás alá eső vagyont a magyar igazságügyi hatóság megtalálja.
 
-67/F. § (1) A tagállami igazságügyi hatóság által kibocsátott határozat végrehajtása elhalasztható, ha e határozat alapjául szolgáló cselekmény miatt vagy azzal összefüggésben Magyarország területén büntetőeljárás van folyamatban, és e büntetőeljárás sikerét a tagállami igazságügyi hatóság által kibocsátott határozat végrehajtása jelentősen veszélyeztetné.
+67/F. § (1) A tagállami igazságügyi hatóság által kibocsátott határozat végrehajtása elhalasztható, ha e határozat alapjául szolgáló cselekmény miatt vagy azzal összefüggésben a Magyar Köztársaság területén büntetőeljárás van folyamatban, és e büntetőeljárás sikerét a tagállami igazságügyi hatóság által kibocsátott határozat végrehajtása jelentősen veszélyeztetné.
 
-(2) Ha a tagállami igazságügyi hatóság által kibocsátott határozattal érintett bizonyítási eszközt, elkobzás alá eső dolgot, illetve vagyonelkobzás alá eső vagyont Magyarország területén már lefoglalták, zár alá vették, valamint ha a vagyonelkobzás alá eső vagyon biztosítási intézkedés hatálya alatt áll, illetőleg a bizonyítási eszköz megőrzése érdekében számítástechnikai rendszer útján rögzített adatok megőrzését rendelték el, a tagállami igazságügyi hatóság által kibocsátott határozatot akkor kell végrehajtani, ha a kényszerintézkedést megszüntették, illetőleg feloldották.
+(2) Ha a tagállami igazságügyi hatóság által kibocsátott határozattal érintett bizonyítási eszközt, elkobzás alá eső dolgot, illetve vagyonelkobzás alá eső vagyont a Magyar Köztársaság területén már lefoglalták, zár alá vették, valamint ha a vagyonelkobzás alá eső vagyon biztosítási intézkedés hatálya alatt áll, illetőleg a bizonyítási eszköz megőrzése érdekében számítástechnikai rendszer útján rögzített adatok megőrzését rendelték el, a tagállami igazságügyi hatóság által kibocsátott határozatot akkor kell végrehajtani, ha a kényszerintézkedést megszüntették, illetőleg feloldották.
 
 (3) Az (1) bekezdésben meghatározott esetben, a magyar büntetőeljárásban elrendelt kényszerintézkedés megszüntetéséről, illetve feloldásáról szóló határozatot mindaddig nem lehet végrehajtani, amíg a tagállami igazságügyi hatóság által kibocsátott határozat végrehajtása érdekében a kényszerintézkedés fenntartására szükség van.
 
@@ -603,7 +603,7 @@ kibocsátott határozatot, ha azt az e törvény 3. számú melléklete szerinti
 
 ### 2. CÍM — A bizonyítási eszköz, az elkobzás alá eső dologés a vagyonelkobzás alá eső vagyon megőrzését biztosító határozat kibocsátása
 
-67/I. § (1) Ha a büntetőeljárás során lefoglalás, zár alá vétel, biztosítási intézkedés vagy számítástechnikai rendszer útján rögzített adatok megőrzésére kötelezés elrendelése, illetőleg alkalmazása válik szükségessé, és a bizonyítási eszköz, az elkobzás alá eső dolog, illetve a vagyonelkobzás alá eső vagyon az Európai Unió valamely tagállama területén található, Magyarország igazságügyi hatósága a kényszerintézkedést elrendelő határozattal egyidejűleg kitölti az e törvény 3. számú melléklete szerinti tanúsítványt.
+67/I. § (1) Ha a büntetőeljárás során lefoglalás, zár alá vétel, biztosítási intézkedés vagy számítástechnikai rendszer útján rögzített adatok megőrzésére kötelezés elrendelése, illetőleg alkalmazása válik szükségessé, és a bizonyítási eszköz, az elkobzás alá eső dolog, illetve a vagyonelkobzás alá eső vagyon az Európai Unió valamely tagállama területén található, a Magyar Köztársaság igazságügyi hatósága a kényszerintézkedést elrendelő határozattal egyidejűleg kitölti az e törvény 3. számú melléklete szerinti tanúsítványt.
 
 (2) Az (1) bekezdésben meghatározott esetben a határozatot a tanúsítvánnyal együtt le kell fordítani annak a tagállamnak a hivatalos nyelvére vagy hivatalos nyelveinek egyikére, amelynek területén a bizonyítási eszköz, az elkobzás alá eső dolog, illetve a vagyonelkobzás alá eső vagyon található (végrehajtó tagállam). A magyar igazságügyi hatóság a lefordított határozatot és tanúsítványt a végrehajtó tagállam hatáskörrel és illetékességgel rendelkező igazságügyi hatósága számára közvetlenül küldi meg.
 
@@ -631,7 +631,7 @@ kibocsátott határozatot, ha azt az e törvény 3. számú melléklete szerinti
 
 67/L. § (1) Az Európai Unió tagállamaiban büntetőeljárásban bűncselekmény elkövetése miatt kiszabott pénzösszeg (a továbbiakban: tagállami pénzbüntetés), jogi személlyel szemben büntetőeljárásban alkalmazott pénzbírság, büntetőeljárásban megállapított eljárási költség, valamint a sértett vagy a köz javára fizetendő jóvátétel végrehajtása iránti megkeresés esetén a bíróság a végrehajtást átveszi, ha a megkeresés alapjául szolgáló határozat (e Fejezet alkalmazásában a továbbiakban: tagállami határozat) jogerőre emelkedett, és azt e törvény 5. számú melléklete szerinti formanyomtatvány tanúsítvánnyal együtt, magyar nyelven a bíróságnak megküldték, valamint a terhelt Magyarországon lakóhellyel, tartózkodási hellyel, vagyonnal vagy jövedelemmel, a jogi személy Magyarországon székhellyel vagy telephellyel rendelkezik.
 
-(2) A tagállami határozat alapján a végrehajtásról a terhelt (jóvátétel fizetésére kötelezett) lakóhelye, az eljárás alá vont jogi személy székhelye, ezek hiányában a végrehajtás alá vonható vagyontárgy helye szerinti törvényszék székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság intézkedik. Ha az eljárásra illetékes bíróság nem állapítható meg, a megkeresést a Budai Központi Kerületi Bíróság fogadja, és intézkedik a végrehajtás iránt.
+(2) A tagállami határozat alapján a végrehajtásról a terhelt (jóvátétel fizetésére kötelezett) lakóhelye, az eljárás alá vont jogi személy székhelye, ezek hiányában a végrehajtás alá vonható vagyontárgy helye szerinti megyei bíróság székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság intézkedik. Ha az eljárásra illetékes bíróság nem állapítható meg, a megkeresést a Budai Központi Kerületi Bíróság fogadja, és intézkedik a végrehajtás iránt.
 
 (3) Ha a bírósághoz vagy más igazságügyi hatósághoz az Európai Unió valamely tagállamából olyan megkeresés érkezik, amelynek elintézésére nem illetékes, vagy nem rendelkezik hatáskörrel, a megkeresést haladéktalanul továbbítja az illetékes helyi bíróságra, és erről a tagállami igazságügyi hatóságot tájékoztatja.
 
@@ -639,7 +639,7 @@ kibocsátott határozatot, ha azt az e törvény 3. számú melléklete szerinti
 
 (5) A 4. számú mellékletben fel nem sorolt bűncselekményfajták esetében a határozatot akkor lehet végrehajtani, ha a cselekmény, amely miatt a végrehajtást kérik, a magyar törvény szerint is bűncselekménynek minősül.
 
-(6) A tagállami határozatban megjelölt összeg előírása és beszedése a törvényszék szervezetében működő bírósági gazdasági hivatal (a továbbiakban: BGH) feladata.
+(6) A tagállami határozatban megjelölt összeg előírása és beszedése a megyei bíróság szervezetében működő bírósági gazdasági hivatal (a továbbiakban: BGH) feladata.
 
 67/M. § (1) A tagállami határozat végrehajtását meg kell tagadni, ha
 
@@ -655,7 +655,7 @@ kibocsátott határozatot, ha azt az e törvény 3. számú melléklete szerinti
 
 (2) A tagállami határozat végrehajtása megtagadható, ha a tagállami igazságügyi hatóság által megküldött tanúsítvány hiányos, vagy a tanúsítvány hiányzik. A hiánypótlásra a 67/D. § (2)–(4) bekezdésének rendelkezéseit értelemszerűen kell alkalmazni. A tagállami határozat végrehajtását meg kell tagadni, ha a hiánypótlásra, kijavításra tűzött határidő eredménytelenül telt el, illetőleg a kiegészített tanúsítvány végrehajtása továbbra sem lehetséges.
 
-(3) A tagállami határozat végrehajtása megtagadható, ha a megkeresés olyan bűncselekményre vonatkozik, amelyet egészben vagy részben Magyarország területén követtek el.
+(3) A tagállami határozat végrehajtása megtagadható, ha a megkeresés olyan bűncselekményre vonatkozik, amelyet egészben vagy részben a Magyar Köztársaság területén követtek el.
 
 67/N. § (1) A tagállami határozat végrehajtásának megtagadásáról a bíróság határozatot hoz, amelyet a kibocsátó tagállami igazságügyi hatóság részére megküld. A határozat indokolásában számot kell adni a megtagadás okáról.
 
@@ -683,7 +683,7 @@ kibocsátott határozatot, ha azt az e törvény 3. számú melléklete szerinti
 
 (6) A jogi személlyel szemben alkalmazott pénzbírság esetén a 2001. évi CIV. törvény 6. §-ában meghatározott korlátozás nem alkalmazható.
 
-(7) A bíróság határozata ellen, ha e törvény nem zárja ki, fellebbezésnek van helye, amelyet a törvényszék tanácsülésen bírál el.
+(7) A bíróság határozata ellen, ha e törvény nem zárja ki, fellebbezésnek van helye, amelyet a megyei bíróság tanácsülésen bírál el.
 
 67/R. § (1) A tagállami határozatban megjelölt összeg megfizetéséről, illetőleg az eljárási költség megfizetésére kötelezést követően a végrehajtási eljárás eredményéről az eljáró bíróság tájékoztatja a kibocsátó igazságügyi hatóságot.
 
@@ -693,17 +693,17 @@ kibocsátott határozatot, ha azt az e törvény 3. számú melléklete szerinti
 
 ### II. CÍM — A PÉNZBÜNTETÉS VÉGREHAJTÁSA AZ EURÓPAI UNIÓ TAGÁLLAMAIBAN
 
-67/S. § (1) A pénzbüntetésnek az Európai Unió valamely tagállamában való végrehajtása iránt a bíróság, amelynek eljárásában a pénzbüntetés, a bűnügyi költség végrehajthatóvá válik, a hatáskörrel rendelkező és illetékes tagállami igazságügyi hatósághoz címzett közvetlen megkeresés útján intézkedhet.
+67/S. § (1) A pénzbüntetésnek az Európai Unió valamely tagállamában való végrehajtása iránt a bíróság, amelynek eljárásában a pénzbüntetés, a pénzmellékbüntetés, a bűnügyi költség végrehajthatóvá válik, a hatáskörrel rendelkező és illetékes tagállami igazságügyi hatósághoz címzett közvetlen megkeresés útján intézkedhet.
 
 (2) A bíróság kiállítja az e törvény 5. számú mellékletben szereplő formanyomtatvány tanúsítványt, amelyet a végrehajtó tagállam hivatalos nyelvére vagy a tagállam által megjelölt nyelvre lefordítva posta, telefax vagy számítástechnikai rendszer útján továbbít. A számítástechnikai rendszer útján továbbított határozatot minősített elektronikus aláírással kell ellátni.
 
-(3) Ha a pénzbüntetés, a bűnügyi költség végrehajtása egyidejűleg több tagállamban is lehetséges, a bíróság az összes körülmény mérlegelésével határoz arról, hogy a végrehajtás iránti megkeresést melyik tagállamba küldi meg. A megkeresést egyidejűleg csak egy tagállamba lehet továbbítani.
+(3) Ha a pénzbüntetés, a pénzmellékbüntetés, a bűnügyi költség végrehajtása egyidejűleg több tagállamban is lehetséges, a bíróság az összes körülmény mérlegelésével határoz arról, hogy a végrehajtás iránti megkeresést melyik tagállamba küldi meg. A megkeresést egyidejűleg csak egy tagállamba lehet továbbítani.
 
 (4) Ha a rendelkezésre álló adatok alapján nem állapítható meg, hogy a végrehajtó tagállamban a határozat végrehajtására melyik tagállami igazságügyi hatóság rendelkezik hatáskörrel és illetékességgel, a kapcsolatfelvételhez szükséges adatokat az Európai Igazságügyi Hálózat kapcsolattartó pontjain keresztül kell beszerezni.
 
 67/T. § (1) A bíróság a végrehajtási eljárás megszüntetésére vagy felfüggesztésére, illetőleg a végrehajtás alá eső összeg csökkentésére okot adó körülményről haladéktalanul tájékoztatja a végrehajtó tagállamban eljáró hatóságot.
 
-(2) A tanúsítványban meg kell jelölni, hogy a pénzbüntetés, végrehajthatatlansága esetén a bíróság a büntetés átváltoztatásához hozzájárul.
+(2) A tanúsítványban meg kell jelölni, hogy a pénzbüntetés, illetőleg a pénzmellékbüntetés végrehajthatatlansága esetén a bíróság a büntetés átváltoztatásához hozzájárul.
 
 ### VI. Fejezet — AZ EURÓPAI UNIÓ TAGÁLLAMAIBAN ELRENDELT VAGYONELKOBZÁS VÉGREHAJTÁSA, VALAMINT A VAGYONELKOBZÁS VÉGREHAJTÁSA AZ EURÓPAI UNIÓ TAGÁLLAMAIBAN
 
@@ -724,9 +724,9 @@ végleges tulajdonvesztését elrendelő szankciót tartalmazó bírósági hat�
   - ba) a terhelt lakóhelye, ennek hiányában tartózkodási helye,
   - bb) ha a vagyonelkobzást elrendelő tagállami határozatot jogi személlyel szemben hozták, a jogi személy székhelye
 
-szerinti törvényszék székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság intézkedik. Ha az eljárásra illetékes bíróság nem állapítható meg, vagy a végleges tulajdonvesztést jelentő szankció alá eső vagyon több helyen található, a megkeresést a Budai Központi Kerületi Bíróság fogadja, és intézkedik a végrehajtás iránt.
+szerinti megyei bíróság székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság intézkedik. Ha az eljárásra illetékes bíróság nem állapítható meg, vagy a végleges tulajdonvesztést jelentő szankció alá eső vagyon több helyen található, a megkeresést a Budai Központi Kerületi Bíróság fogadja, és intézkedik a végrehajtás iránt.
 
-(3) Ha a vagyonelkobzást elrendelő tagállami határozat meghozatalát megelőzően a kibocsátó tagállam annak a dolognak vagy vagyonnak a biztosítása érdekében, amelyre a vagyonelkobzást elrendelő tagállami határozat vonatkozik, a bizonyítási eszközök felderítése, összegyűjtése, biztosítása vagy felhasználása végett, illetőleg az elkobzás, vagyonelkobzás biztosítása érdekében határozatot bocsátott ki, és azt Magyarország igazságügyi hatósága a IV. Fejezet 1. címe alapján végrehajtotta, akkor a vagyonelkobzást elrendelő tagállami határozat végrehajtásáról a IV. Fejezet 1. címe szerint eljárt igazságügyi hatóság székhelye szerint illetékes bíróság intézkedik.
+(3) Ha a vagyonelkobzást elrendelő tagállami határozat meghozatalát megelőzően a kibocsátó tagállam annak a dolognak vagy vagyonnak a biztosítása érdekében, amelyre a vagyonelkobzást elrendelő tagállami határozat vonatkozik, a bizonyítási eszközök felderítése, összegyűjtése, biztosítása vagy felhasználása végett, illetőleg az elkobzás, vagyonelkobzás biztosítása érdekében határozatot bocsátott ki, és azt a Magyar Köztársaság igazságügyi hatósága a IV. Fejezet 1. címe alapján végrehajtotta, akkor a vagyonelkobzást elrendelő tagállami határozat végrehajtásáról a IV. Fejezet 1. címe szerint eljárt igazságügyi hatóság székhelye szerint illetékes bíróság intézkedik.
 
 (4) Ha a bírósághoz vagy más igazságügyi hatósághoz az Európai Unió valamely tagállamából olyan megkeresés érkezik, amelynek elintézésére nem illetékes, vagy nem rendelkezik hatáskörrel, a megkeresést haladéktalanul továbbítja az illetékes helyi bíróságra, és erről egyidejűleg a tagállami bíróságot tájékoztatja.
 
@@ -736,12 +736,12 @@ szerinti törvényszék székhelyén működő helyi bíróság, Budapesten a Bu
 
 (7) A bíróság a vagyonelkobzást elrendelő tagállami határozat végrehajtásának biztosítása érdekében lefoglalást (Be. 151. §) vagy zár alá vételt (Be. 159. §) rendel el akkor is, ha erre vonatkozóan korábban a IV. fejezet 1. címe szerinti megkeresés nem érkezett.
 
-69. § A tagállami határozat végrehajtása céljából hozott bírósági határozat végrehajtása vagyonelkobzás esetén a törvényszéki végrehajtó feladata.
+69. § A tagállami határozat végrehajtása céljából hozott bírósági határozat végrehajtása vagyonelkobzás esetén a megyei bírósági végrehajtó feladata.
 
 70. § (1) A vagyonelkobzást elrendelő tagállami határozat végrehajtását meg kell tagadni
 
 - a) a 68. § (6) bekezdésében meghatározott esetben, ha a határozat alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény;
-- b) ha Magyarországon, vagy egy másik tagállamban a határozat alapjául szolgáló cselekmény miatt korábban már olyan határozatot hoztak, amely a büntetőeljárás megindításának akadályát képezi, vagy amely alapján a végleges tulajdonvesztést jelentő szankciót végrehajtották, annak végrehajtása folyamatban van, illetőleg a jogerős határozatot hozó tagállam joga szerint az nem hajtható végre;
+- b) ha a Magyar Köztársaságban, vagy egy másik tagállamban a határozat alapjául szolgáló cselekmény miatt korábban már olyan határozatot hoztak, amely a büntetőeljárás megindításának akadályát képezi, vagy amely alapján a végleges tulajdonvesztést jelentő szankciót végrehajtották, annak végrehajtása folyamatban van, illetőleg a jogerős határozatot hozó tagállam joga szerint az nem hajtható végre;
 - c) ha a terheltet egy harmadik államban ugyanazon cselekmény miatt jogerősen elítélték, feltéve, hogy a végleges tulajdonvesztést jelentő szankciót már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó állam joga szerint az nem hajtható végre, illetőleg a terheltet egy harmadik államban ugyanazon cselekmény miatt jogerősen felmentették;
 - d) ha a tagállami igazságügyi hatóság által megküldött tanúsítvány nyilvánvalóan nem a mellékelt határozatra vonatkozik;
 - e) ha a terhelt közjogi tisztség betöltésén alapuló mentességet (Be. 551. §), illetve nemzetközi jogon alapuló mentességet (Be. 553. §) élvez, és a mentelmi jogot nem függesztették fel, illetve a nemzetközi jogon alapuló mentességet nem függesztették fel;
@@ -751,7 +751,7 @@ szerinti törvényszék székhelyén működő helyi bíróság, Budapesten a Bu
 
 (2) A vagyonelkobzást elrendelő tagállami határozat végrehajtását meg kell tagadni, ha a tagállami bíróság által megküldött tanúsítvány hiányos, vagy a tanúsítvány hiányzik, és a hiánypótlásra, kijavításra tűzött határidő eredménytelenül telt el, illetőleg a kiegészített tanúsítvány végrehajtása továbbra sem lehetséges. A hiánypótlásra a 67/D. § (2)–(4) bekezdésének rendelkezéseit értelemszerűen kell alkalmazni.
 
-(3) A vagyonelkobzást elrendelő tagállami határozat végrehajtása megtagadható, ha a megkeresés olyan bűncselekményre vonatkozik, amelyet egészben vagy részben Magyarország területén követtek el.
+(3) A vagyonelkobzást elrendelő tagállami határozat végrehajtása megtagadható, ha a megkeresés olyan bűncselekményre vonatkozik, amelyet egészben vagy részben a Magyar Köztársaság területén követtek el.
 
 (4) A vagyonelkobzást elrendelő tagállami határozat végrehajtásának megtagadásáról a bíróság határozatot hoz, amelyet a kibocsátó tagállami bíróság részére megküld. A határozat indokolásában számot kell adni a megtagadás okáról.
 
@@ -777,14 +777,14 @@ szerinti törvényszék székhelyén működő helyi bíróság, Budapesten a Bu
 - a) azonos dologra vagy vagyontárgyra vonatkozóan, vagy
 - b) azonos természetes vagy jogi személyre nézve pénzösszegben meghatározva
 
-tartalmaz rendelkezést, és a b) pont esetében a természetes vagy a jogi személy Magyarország területén nem rendelkezik elegendő vagyonnal valamennyi vagyonelkobzást elrendelő tagállami határozat végrehajtásához, akkor a bíróság az eset összes körülményének mérlegelésével dönt arról, hogy melyik vagyonelkobzást elrendelő tagállami határozatot hajtja végre. A döntés meghozatalakor figyelemmel kell lenni különösen a bűncselekmény súlyára, a bűncselekmény elkövetésének helyére, valamint a bűncselekmény elkövetésének, az érintett határozatok meghozatalának, valamint továbbításának idejére.
+tartalmaz rendelkezést, és a b) pont esetében a természetes vagy a jogi személy a Magyar Köztársaság területén nem rendelkezik elegendő vagyonnal valamennyi vagyonelkobzást elrendelő tagállami határozat végrehajtásához, akkor a bíróság az eset összes körülményének mérlegelésével dönt arról, hogy melyik vagyonelkobzást elrendelő tagállami határozatot hajtja végre. A döntés meghozatalakor figyelemmel kell lenni különösen a bűncselekmény súlyára, a bűncselekmény elkövetésének helyére, valamint a bűncselekmény elkövetésének, az érintett határozatok meghozatalának, valamint továbbításának idejére.
 
-(7) A bíróság határozata ellen, ha e törvény nem zárja ki, fellebbezésnek van helye, amelyet a törvényszék tanácsülésen bírál el. A fellebbezésnek a határozat végrehajtására halasztó hatálya van. A fellebbezésben a vagyonelkobzást elrendelő tagállami határozat nem támadható. A fellebbezés tényéről az első fokon eljárt bíróság értesíti a kibocsátó tagállami bíróságot.
+(7) A bíróság határozata ellen, ha e törvény nem zárja ki, fellebbezésnek van helye, amelyet a megyei bíróság tanácsülésen bírál el. A fellebbezésnek a határozat végrehajtására halasztó hatálya van. A fellebbezésben a vagyonelkobzást elrendelő tagállami határozat nem támadható. A fellebbezés tényéről az első fokon eljárt bíróság értesíti a kibocsátó tagállami bíróságot.
 
 72. § (1) A bíróság az eljárást felfüggeszti,
 
-- a) ha a vagyonelkobzást elrendelő tagállami határozat meghatározott pénzösszegre vonatkozik, és a tanúsítványból megállapítható, hogy a határozatot egyidejűleg több tagállamnak küldték meg, és a bíróság szerint megalapozottan feltehető, hogy fennáll annak a veszélye, hogy Magyarország és az érintett többi tagállam területén történő végrehajtásból származó teljes összeg meghaladja a vagyonelkobzást elrendelő tagállami határozatban meghatározott pénzösszeget;
-- b) a büntetőeljárás jogerős befejezéséig, ha Magyarország területén olyan büntetőeljárás van folyamatban, amelynek sikerét a vagyonelkobzást elrendelő tagállami határozat végrehajtása veszélyeztetné;
+- a) ha a vagyonelkobzást elrendelő tagállami határozat meghatározott pénzösszegre vonatkozik, és a tanúsítványból megállapítható, hogy a határozatot egyidejűleg több tagállamnak küldték meg, és a bíróság szerint megalapozottan feltehető, hogy fennáll annak a veszélye, hogy a Magyar Köztársaság és az érintett többi tagállam területén történő végrehajtásból származó teljes összeg meghaladja a vagyonelkobzást elrendelő tagállami határozatban meghatározott pénzösszeget;
+- b) a büntetőeljárás jogerős befejezéséig, ha a Magyar Köztársaság területén olyan büntetőeljárás van folyamatban, amelynek sikerét a vagyonelkobzást elrendelő tagállami határozat végrehajtása veszélyeztetné;
 - c) a hiánypótlásra, kijavításra tűzött határidő leteltéig, ha a vagyonelkobzást elrendelő tagállami határozatot kibocsátó tagállami bíróság által megküldött tanúsítvány hiányos, vagy a tanúsítvány hiányzik;
 - d) ha a vagyonelkobzást elrendelő tagállami határozattal érintett személy igazolja, hogy a határozat szerinti szankciót bármely államban részben vagy egészben már végrehajtották;
 - e) ha megalapozottan feltehető, hogy az elkobzás alá eső dolog, vagy a vagyonelkobzás alá eső vagyontárgy a kulturális örökség védett eleme.
@@ -834,7 +834,7 @@ tartalmaz rendelkezést, és a b) pont esetében a természetes vagy a jogi szem
 - a) a határozata alapján elkobzás alá eső több dolog, vagy vagyonelkobzás alá eső több vagyontárgy különböző tagállamokban található;
 - b) a határozata alapján elkobzás alá eső dolog, illetve vagyonelkobzás alá eső vagyontárgy elkobzása több tagállam területére kiterjedő fellépést tesz szükségessé;
 - c) a határozata alapján elkobzás alá eső dolog, illetve vagyonelkobzás alá eső vagyontárgy több meghatározott tagállam egyikében található;
-- d) a határozata alapján pénzösszegben kifejezett vagyonelkobzás teljes összegének fedezésére Magyarország és bármelyik további tagállam területén található vagyon értéke nem elegendő.
+- d) a határozata alapján pénzösszegben kifejezett vagyonelkobzás teljes összegének fedezésére a Magyar Köztársaság és bármelyik további tagállam területén található vagyon értéke nem elegendő.
 
 (8) Ha a bíróság a tanúsítványt több tagállamnak küldi meg, akkor a tanúsítványban ennek okát megjelöli.
 
@@ -843,124 +843,6 @@ tartalmaz rendelkezést, és a b) pont esetében a természetes vagy a jogi szem
 (10) Ha az Európai Unió valamely tagállamában a vagyonelkobzást elrendelő tagállami határozatok fogadására nem bíróságot jelöltek ki, e Cím alkalmazásában a közvetlen megkeresést a tagállam által kijelölt illetékes hatósághoz kell továbbítani.
 
 75. § A bíróság az elkobzás vagy a vagyonelkobzás végrehajtására vonatkozó eljárás megszüntetésére vagy felfüggesztésére, illetőleg a vagyonelkobzás alá eső pénzösszeg vagy vagyon csökkentésére okot adó körülményről haladéktalanul tájékoztatja a végrehajtó tagállamban eljáró bíróságot. A vagyonelkobzás alá eső pénzösszeg vagy vagyon csökkentésére okot adó körülményről szóló tájékoztatással egyidejűleg a bíróság meghatározza azt az összeget, amelyre nézve határozatának végrehajtása még nem történt meg.
-
-### VI/A. Fejezet — AZ EURÓPAI UNIÓ TAGÁLLAMÁNAK KÜLÖNLEGES INTERVENCIÓS EGYSÉGÉVEL VALÓ EGYÜTTMŰKÖDÉS
-
-75/A. § (1) Ha az Európai Unió más tagállama (a továbbiakban: érintett tagállam) válsághelyzet megoldása érdekében – a segítség természetének, valamint az ebből következő műveleti szükségleteknek a meghatározásával – a NEBEK-en keresztül kéri az intervenciós egységekben való közreműködésre kormányrendeletben kijelölt szerv (a továbbiakban: magyar intervenciós egység) segítségét, a NEBEK a kérést haladéktalanul továbbítja a magyar intervenciós egységnek.
-
-(2) Ha az (1) bekezdés szerinti megkeresés elfogadása, elutasítása vagy más jellegű segítség felajánlása a rendőrségről szóló törvényben megahatározott általános rendőrségi feladatok ellátására létrehozott szerv feladat- és hatáskörébe tartozó segítségnyújtásra irányul, akkor az (1) bekezdés szerinti megkeresés elfogadásáról, elutasításáról vagy más jellegű segítség felajánlásáról az intervenciós egységben való közreműködésre kijelölt szerv vezetőjének javaslata figyelembevételével az országos rendőrfőkapitány dönt.
-
-(3) Ha az (1) bekezdés szerinti megkeresés elfogadása, elutasítása vagy más jellegű segítség felajánlása a rendőrségről szóló törvényben megahatározott terrorizmust elhárító szerv (a továbbiakban: terrorizmust elhárító szerv) feladat- és hatáskörébe tartozó segítségnyújtásra irányul, akkor az (1) bekezdés szerinti megkeresés elfogadásáról, elutasításáról vagy más jellegű segítség felajánlásáról a terrorizmust elhárító szerv főigazgatója dönt, és ezzel egyidejűleg döntéséről az országos rendőrfőkapitányt tájékoztatja.
-
-(4) Az országos rendőrfőkapitány, valamint a terrorizmust elhárító szerv főigazgatója a megkeresés teljesítését megtagadja, ha
-
-- a) az a magyar jog szabályaival ellentétes,
-- b) az veszélyezteti Magyarország biztonságát, sérti közrendjét,
-- c) az politikai vagy katonai bűncselekményre vonatkozik,
-- d) nem áll fenn az érintett tagállamban válsághelyzet, vagy
-- e) a magyar intervenciós egység a kérést technikai vagy személyi feltételek hiányában nem tudja teljesíteni és más segítséget sem tud felajánlani, és az erről az érintett tagállamot a NEBEK-en keresztül haladéktalanul tájékoztatja.
-
-(5) A megkeresésben foglaltak elfogadása vagy más jellegű segítség felajánlása esetén a segítségnyújtás végrehajtásáról az érintett tagállammal az országos rendőrfőkapitány, valamint a terrorizmust elhárító szerv főigazgatója megállapodást köt, amely tartalmazza:
-
-- a) a bűncselekmény leírását, amelynek megelőzésére a segítségnyújtás irányul,
-- b) a segítségnyújtás formáját, tartalmát,
-- c) a segítségnyújtás időtartamát és a meghosszabbítás feltételeit,
-- d) a segítségnyújtás feltételeit,
-- e) a segítségnyújtás költségeinek viselését,
-- f) az intervenciós egység tagja által tevékenysége körében okozott károkért való felelősség szabályait.
-
-75/B. § A magyar intervenciós egység tagja jogosult arra, hogy az érintett tagállam területén támogatói minőségben járjon el, és saját hatáskörében eljárva – az érintett tagállam jogával összhangban – megtegye a kért segítség megadásához szükséges intézkedést, ha tevékenységét az érintett tagállam felelőssége, felügyelete és irányítása mellett végzi.
-
-75/C. § (1) A rendőrség válsághelyzet megoldása érdekében a NEBEK-en keresztül kérheti az Európai Unió más tagállama intervenciós egységének – a segítség természetének, valamint az ebből következő műveleti szükségleteknek a meghatározásával – segítségét.
-
-(2) A megkeresett tagállam különleges intervenciós egységének a tagja (a továbbiakban: beavatkozó személy) eljárása során Magyarország területén okozott kárért a magyar jog szerint felel. Ha a kárt a beavatkozó személy kötelezettségének vétkes megszegésével okozta, akkor a rendészetért felelős miniszter az érintett tagállamtól kérheti azon összeg megtérítését, amelyet a beavatkozó személy eljárása miatt a sértettnek vagy a nevében eljárni jogosult személynek kifizettek.
-
-75/D. § A 75/A. § (4) bekezdés szerinti megállapodás eltérő rendelkezése hiányában az érintett tagállam viseli a magyar intervenciós egység alkalmazásával kapcsolatos valamennyi költséget, beleértve a szállítási és szállásköltségeket.
-
-75/E. § A 75/A–75/D. § alkalmazásában:
-
-- a) különleges intervenciós egység: az Európai Unió tagállamának olyan bűnüldöző egysége, amelynek szakterülete a válsághelyzetek kezelése,
-- b) válsághelyzet: bármely olyan helyzet, amikor az Európai Unió tagállamának illetékes hatósága joggal feltételezi, hogy egy bűncselekmény súlyos, közvetlen fizikai fenyegetést jelent az érintett tagállamban tartózkodó személyekre, az ott található vagyontárgyakra, infrastruktúrára vagy intézményekre, ideértve különösen a büntető törvénykönyvben meghatározott terrorcselekményt.
-
-### VI/B. Fejezet — AZ EURÓPAI RENDŐRSÉGI HIVATAL
-
-### 1. CÍM — ÉRTELMEZŐ RENDELKEZÉSEK
-
-75/F. § E fejezet alkalmazásában
-
-- 1. hatáskörrel rendelkező hatóság: a tagállamok mindazon állami szervei, amelyek a nemzeti jog szerint a bűncselekmények megelőzésére, felderítésére és üldözésére hatáskörrel rendelkeznek,
-- 2. nemzeti egység: az adott tagállam által az Europollal való kapcsolattartásra kijelölt rendvédelmi szerv vagy az adott tagállam valamely rendvédelmi szervének az Europollal való kapcsolattartásra kijelölt szervezeti egysége.
-
-### 2. CÍM — AZ EURÓPAI RENDŐRSÉGI HIVATAL JOGÁLLÁSA ÉS RENDELTETÉSE
-
-75/G. § Az Európai Rendőrségi Hivatal (a továbbiakban: Europol) jogi személy.
-
-75/H. § Az Europol segítséget nyújt a tagállamok nyomozó hatóságai számára a szervezett bűnözés, a terrorizmus, valamint a 9. számú mellékletben meghatározott, több tagállamot érintő bűncselekmények felderítésében és nyomozásában, amennyiben e bűncselekmények jelentősége és következményei miatt a tagállamok közös fellépése szükséges.
-
-### 3. CÍM — AZ EUROPOLLAL TÖRTÉNŐ KAPCSOLATTARTÁSSAL ÉS INFORMÁCIÓCSERÉVEL ÖSSZEFÜGGŐ FELADATOKAT ELLÁTÓ SZERV ÉS MAGYARORSZÁG HATÁSKÖRREL RENDELKEZŐ HATÓSÁGA
-
-75/I. § (1) Magyarországon az Europollal történő kapcsolattartással és információcserével összefüggő feladatokat a NEBEK látja el.
-
-(2) Magyarország hatáskörrel rendelkező hatósága a büntetőeljárásról szóló törvényben meghatározott nyomozó hatóság, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, továbbá a szervezett bűnözés elleni koordinációt végző szerv (a továbbiakban: Magyarország hatáskörrel rendelkező hatósága).
-
-(3) Magyarország hatáskörrel rendelkező hatósága közvetlenül is tarthat fenn kapcsolatot az Europollal. Magyarország hatáskörrel rendelkező hatóságának a vezetője jelöli ki az általa vezetett szervnél az Europollal történő közvetlen kapcsolattartásra feljogosított személyt és e személyről – neve, beosztása, szolgálati helye és elérhetősége megadásával – tájékoztatja a NEBEK-et.
-
-(4) A NEBEK vezetője gondoskodik Magyarország hatáskörrel rendelkező hatósága és az Europol közötti közvetlen kapcsolattartás feltételeinek és módjának a kidolgozásáról, továbbá Magyarország hatáskörrel rendelkező hatósága, valamint az annál közvetlen kapcsolattartásra feljogosított személy számára hozzáférhetővé tételéről.
-
-(5) A NEBEK vezetője szakmai felügyeletet gyakorol az Europol és a NEBEK, továbbá Magyarország hatáskörrel rendelkező hatóságának közvetlen kapcsolattartásra feljogosított tagjai közötti információcsere, a nyílt, valamint a minősített adatok átadása felett.
-
-(6) Magyarország hatáskörrel rendelkező hatósága az Europoltól közvetlenül érkező minden adatot átad a NEBEK-nek.
-
-(7) Magyarország hatáskörrel rendelkező hatóságának közvetlen kapcsolattartásra feljogosított tagja tájékoztatja a NEBEK-et az Europol információk, nyílt vagy minősített adatok átadására vonatkozó megkereséséről, illetve a hatáskörrel rendelkező hatóság által a megkeresésre adandó válaszról. A tájékoztatást követő huszonnégy órán belül a NEBEK a megkeresés teljesítését megtiltja, ha annak teljesítése jogszabályba ütközik vagy a megkeresés megtagadásának (11) bekezdés szerinti feltételei fennállnak. A megkeresés teljesíthetőségének akadályairól, illetve a megkeresés teljesítésének (11) bekezdés szerinti megtagadásáról a NEBEK haladéktalanul értesíti az Europolt.
-
-(8) A NEBEK a feladatai ellátása érdekében az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló törvényben meghatározottak szerint jogosult a személyes adat és a bűnüldözési adat – ideértve a titkos információgyűjtéssel érintett adatot és információt is – kezelésére, átvételére és továbbítására. Ezen adatokat a NEBEK jogosult – közvetlen hozzáféréssel is – térítés nélkül átvenni az ilyen adatot tartalmazó adatállományból. Az adatátvételi igényt a megkeresett adatkezelő haladéktalanul köteles a leggyorsabb adattovábbítási úton teljesíteni.
-
-(9) A (8) bekezdésben meghatározottakon kívül a NEBEK a feladatai ellátásához szükséges információk beszerzése érdekében megkeresi Magyarország feladatánál fogva érintett hatáskörrel rendelkező hatóságát. Magyarország hatáskörrel rendelkező hatósága haladéktalanul átadja a megkeresésben megjelölt adatokat.
-
-(10) A NEBEK a (8)–(9) bekezdésben foglalt feladatait a nemzetbiztonsági szolgálatok vonatkozásában az adott nemzetbiztonsági szolgálattal kötött együttműködési megállapodásban meghatározottak szerint gyakorolja.
-
-(11) A NEBEK vezetője az Europol vagy más tagállam hatáskörrel rendelkező hatóságának információk, nyílt vagy minősített adatok átadására vonatkozó megkeresésének teljesítését megtagadhatja, amennyiben a válaszadás
-
-- a) veszélyeztetné a közrend vagy a közbiztonság megőrzését,
-- b) sértené Magyarország alapvető nemzetbiztonsági érdekét,
-- c) folyamatban lévő titkos információgyűjtés vagy nyomozás sikerét, természetes személyek életét, testi épségét, vagyonát veszélyeztetné, vagy
-- d) a nemzetbiztonsági szolgálatokra, avagy az azok által végzett műveleti tevékenységre vonatkozó információk kiszolgáltatását jelentené.
-
-### 4. CÍM — AZ EUROPOL ÁLTAL KEZDEMÉNYEZETT NYOMOZÁS
-
-75/J. § Az Europolnak nyomozás megindítására, lefolytatására vagy összehangolására irányuló megkeresésére a választ, valamint a nyomozás eredményéről az Europolnak nyújtott tájékoztatást Magyarország hatáskörrel rendelkező hatósága a NEBEK-en keresztül küldi meg.
-
-### 5. CÍM — ÖSSZEKÖTŐ TISZTVISELŐ
-
-75/K. § (1) A rendészetért felelős miniszter az általa felügyelt rendvédelmi szervek állományából legalább egy fő összekötő tisztviselőt küld az Europolhoz. Más miniszter az általa felügyelt rendvédelmi szerv állományából, illetve a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter a Nemzeti Adó- és Vámhivatal állományából a rendészetért felelős miniszter egyetértésével küldhet összekötő tisztviselőt az Europolhoz.
-
-(2) Az összekötő tisztviselő az Europol nemzeti összekötő irodájában, a NEBEK vezetőjének utasításai szerint teljesít szolgálatot, a magyar jogszabályoknak és az Europol működésére vonatkozó rendelkezéseknek megfelelően.
-
-### 6. CÍM — INFORMÁCIÓFELDOLGOZÓ RENDSZEREK
-
-### Europol Információs Rendszer
-
-75/L. § Ha az Europol Információs Rendszerbe a NEBEK által bevitt adatok és az ilyen adatokhoz kapcsolódó, másik tagállam nemzeti egysége által bevitt kiegészítő adatok között nyilvánvaló ellentmondás van, akkor a NEBEK és a kiegészítő adatot bevivő nemzeti egység konzultálnak és megegyeznek egymással. Ugyanilyen módon kell eljárni akkor is, ha a NEBEK visz be az Europol Információs Rendszerbe a másik tagállam nemzeti egysége által bevitt adathoz kapcsolódó, ám azzal nyilvánvaló ellentmondásban lévő kiegészítő adatot.
-
-### Elemzési munkafájlok
-
-75/M. § A NEBEK az Europol kérésére vagy saját kezdeményezésére e törvény rendelkezései alapján továbbítja az Europolnak mindazon információkat, amelyekre az érintett elemzési munkafájlhoz szüksége van. Magyarország hatáskörrel rendelkező hatóságának közvetlen kapcsolattartásra feljogosított tagja a kért adatokat a 75/I. § (3) bekezdésével összhangban közvetlenül is eljuttatja az elemzési munkafájlokba.
-
-### 7. CÍM — AZ EGYÉN HOZZÁFÉRÉSI JOGA
-
-75/N. § (1) Bármely természetes személy – ha élni kíván azzal a jogával, hogy megismerheti, hogy az Europol kezel-e vele kapcsolatos személyes adatokat – a kérelmét a NEBEK vezetőjéhez is benyújthatja.
-
-(2) A NEBEK vezetője a kérelmet az Europol munkanyelvére lefordítva, legkésőbb a kérelem kézhezvételétől számított harminc napon belül megküldi az Europolnak. A NEBEK vezetője harminc napon belül gondoskodik az Europol válaszának magyarra fordításáról és a kérelmezőnek történő kézbesítéséről, ha az Europol a kérelemre adott választ a NEBEK-en keresztül továbbítja.
-
-### 8. CÍM — NEMZETI ELLENŐRZŐ SZERV
-
-75/O. § A NEBEK e törvényben meghatározott adatkezelési tevékenységét a Nemzeti Adatvédelmi és Információszabadság Hatóság ellenőrzi.
-
-### 9. CÍM — AZ EUROPOLNAK MAGYARORSZÁG TERÜLETÉN FELADATOT VÉGREHAJTÓ TISZTVISELŐJÉRE VONATKOZÓ RENDELKEZÉSEK
-
-75/P. § (1) Az Europolnak a Magyarország területén működő közös nyomozócsoportban résztvevő tisztviselője a feladatának végrehajtása során a Magyarország területén okozott kárért a magyar jog szerint felel. Az ilyen kárt a közös nyomozócsoportban résztvevő nyomozó hatóság, ha a közös nyomozócsoportban több nyomozó hatóság vesz részt, a rendőrség téríti meg a károsultnak, vagy a károsult részéről arra jogosultnak. Az Europol teljes mértékben megtéríti azt az összeget, amelyet a nyomozó hatóság az e bekezdésben említett kár miatt a károsultnak, vagy a károsult részéről arra jogosultnak kifizettek.
-
-(2) Az Europolnak a Magyarország területén működő közös nyomozócsoportban résztvevő tisztviselőjének szolgálati viszonyára, különös tekintettel fegyelmi felelősségére vonatkozóan az eredeti szolgálati helye szerinti tagállam jogát kell alkalmazni.
 
 76. § A Büntető Törvénykönyvről szóló 1978. évi IV. törvény hatálybalépéséről és végrehajtásáról szóló 1979. évi 5. törvényerejű rendelet 25. §-a helyébe a következő rendelkezés lép:
 
@@ -1132,7 +1014,7 @@ h) az Európai Unió Tanácsának az EUROPOL részéről a tagállamok által fe
 
 100. § Az igazságügyért felelős miniszter a Magyar Közlönyben közzéteszi az Európai Unió tagállamainak az európai elfogatóparancs kibocsátására, illetőleg végrehajtására illetékes igazságügyi hatóságainak megnevezését. Az igazságügyért felelős miniszter tájékoztatása irányadó atekintetben, hogy egyes tagállamok hogyan hajtják végre az együttműködés alapjául szolgáló egyezményt, illetőleg kerethatározatot.
 
-101. § Felhatalmazást kap a miniszter, hogy a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével, a legfőbb ügyész véleményének kikérésével kiadott rendeletben szabályozza az európai elfogatóparancs végrehajtása során a külföldön tartózkodó személynek Magyarország területére szállítása költségeinek előlegezésére és viselésére vonatkozó szabályokat.
+101. § Felhatalmazást kap a miniszter, hogy a rendészetért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen, a legfőbb ügyésszel egyetértésben rendeletben szabályozza az európai elfogatóparancs végrehajtása során a külföldön tartózkodó személynek a Magyar Köztársaság területére szállítása költségeinek előlegezésére és viselésére vonatkozó szabályokat.
 
 102. § E törvény az Európai Unió következő jogi aktusainak való megfelelést biztosítja:
 
@@ -1148,104 +1030,102 @@ h) az Európai Unió Tanácsának az EUROPOL részéről a tagállamok által fe
 - j) A Tanács 2006/960/IB kerethatározata (2006. december 18.) az Európai Unió tagállamainak bűnüldöző hatóságai közötti, információ és bűnüldözési operatív információ cseréjének leegyszerűsítéséről;
 - k) a Tanács 2002/90/EK irányelve (2002. november 28.) a jogellenes be- és átutazáshoz, valamint a jogellenes tartózkodáshoz történő segítségnyújtás meghatározásáról;
 - l) a Tanács 2002/187/IB határozata (2002. február 28.) a bűnözés súlyos formái elleni fokozott küzdelem céljából az Eurojust létrehozásáról;
-- m) Tanács 2007/845/IB határozata (2007. december 6.) a tagállamok vagyon-visszaszerzési hivatalai közötti, a bűncselekményből származó jövedelmek és a bűncselekményekhez kapcsolódó egyéb tulajdon felkutatása és azonosítása terén való együttműködésről;
-- n) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat e törvény 75/A–75/E. §-aival;
-- n) az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló, 2009. április 9-i 2009/371/IB tanácsi határozat.
+- m) Tanács 2007/845/IB határozata (2007. december 6.) a tagállamok vagyon-visszaszerzési hivatalai közötti, a bűncselekményből származó jövedelmek és a bűncselekményekhez kapcsolódó egyéb tulajdon felkutatása és azonosítása terén való együttműködésről.
 
 ### 1. számú melléklet a 2003. évi CXXX. törvényhez
 
-E törvény 3. § (2) bekezdése, 50/A. § (3) bekezdése, 50/B. § (4) bekezdése és 67/B. § (1) bekezdése értelmében a bűncselekményfajtákhoz a Btk. következő bűncselekményei tartoznak:
+E törvény 3. §-ának (2) bekezdése, 50/A. §-ának (4) bekezdése, 50/B. §-ának (4) bekezdése és 67/B. §-ának (3) bekezdése értelmében a bűncselekményfajtákhoz a Btk. következő bűncselekményei tartoznak:
 
-|  | A | B | C |
-| --- | --- | --- | --- |
-| 1. | A kerethatározatban megjelölt bűncselekményfajták | Az egyes bűncselekményfajtákhoz tartozó Btk. tényállások |  |
-| 2. | bűnszervezetben való részvétel | bűnszervezetben részvétel bűntette | 263/C. § (1) bek. |
-| 3. | bűnszervezetben elkövetett bűncselekmények | 137. § 8. pont |
-| 4. | terrorizmus | terrorcselekmény bűntette | 261. § a (6) bek. kivételével |
-| 5. | emberkereskedelem | emberkereskedelem bűntette | 175/B. § |
-| 6. | vagyoni haszonszerzés végett elkövetett embercsempészés bűntette | 218. § (2) bek. a) pont |
-| 7. | üzletszerűen elkövetett embercsempészés bűntette | 218. § (3) bek. c) pont |
-| 8. | gyermekek szexuális kizsákmányolása és gyermekpornográfia | erőszakos közösülés bűntette | 197. § |
-| 9. | szemérem elleni erőszak bűntette | 198. § |
-| 10. | megrontás bűntette | 201–202/A. § |
-| 11. | tiltott pornográf felvétellel visszaélés bűntette | 204. § |
-| 12. | kiskorút foglalkoztató bordélyház fenntartásával elkövetett üzletszerű kéjelgés elősegítésének bűntette | 205. § (3) bek. a) pont |
-| 13. | tizennyolcadik életévét be nem töltött személy sérelmére elkövetett kerítés bűntette | 207. § (3) bek. a) pont |
-| 14. | kábítószerek és pszichotróp anyagok tiltott kereskedelme | kábítószerrel visszaélés egyes esetei: üzletszerűen vagy jelentős mennyiségű kábítószerre elkövetett kábítószerrel visszaélés bűntette (országba behoz, onnan kivisz, vagy az ország területén átvisz) | 282. § (2) bek. a) pont, (5) bek. b) pont, (2) bek. b) pont |
-| 15. | kábítószer előállításához szükséges anyagra elkövetett kábítószerrel visszaélés bűntette | 282. § (3) bek. b) pont |
-| 16. | anyagi eszközök szolgáltatásával elkövetett kábítószerrel visszaélés bűntette | 282. § (4) bek. |
-| 17. | kábítószerrel visszaélés bűntette (kínál, átad, forgalomba hoz, kereskedik) | 282/A. § a (6) bek. a) pontja kivételével |
-| 18. | kiskorú felhasználásával elkövetett kábítószerrel visszaélés bűntette (országba behoz, onnan kivisz vagy az ország területén átvisz, kínál, átad, forgalomba hoz, kereskedik) | 282/B. § (1)–(4) bek., (6) bek., (7) bek. b) pont |
-| 19. | kábítószerfüggő személy által elkövetett kábítószerrel visszaélés bűntette | 282/C. § (2)–(4) bek. |
-| 20. | kábítószer előállításához használt anyaggal visszaélés bűntette (forgalomba hoz, kereskedik, országba behoz, onnan kivisz vagy az ország területén átvisz, átad) | 283/A. § (1) bek. |
-| 21. | fegyverek, lőszerek és robbanóanyagok tiltott kereskedelme | nemzetközi gazdasági tilalom katonai célú felhasználásra szánt termék kereskedelmével összefüggésben elkövetett megszegésének bűntette | 261/A. § (3) bek. a) pont |
-| 22. | robbanóanyaggal vagy robbantószerrel visszaélés bűntette | 263. § |
-| 23. | lőfegyverrel vagy lőszerrel visszaélés bűntette | 263/A. § |
-| 24. | nemzetközi szerződés által tiltott fegyverrel visszaélés bűntette | 264/C. § a (4) bek. kivételével |
-| 25. | korrupció | vesztegetés bűntette | 250. §, 251. § az (1) bek. kivételével, 252. §, 253. § a (4) bekezdés kivételével, 254. § az (1) bek. kivételével, 255. § |
-| 26. | befolyással üzérkedés bűntette | 256. § |
-| 27. | nemzetközi kapcsolatban vesztegetés bűntette | 258/B. § a (4) bek. kivételével, 258/C. § az (1) bek. kivételével, 258/D. § |
-| 28. | nemzetközi kapcsolatban befolyással üzérkedés bűntette | 258/E. § |
-| 29. | csalással kapcsolatos bűncselekmények, ideértve az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. július 26-i egyezmény értelmében az Európai Közösségek pénzügyi érdekeit sértő csalásokat is | költségvetési csalás bűntette költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztásának bűntette, ideértve a 2011. december 31-ig hatályban volt Európai Közösségek pénzügyi érdekeinek megsértése bűntettét | 310. § (2)–(7) bek. 310/A. § |
-| 30. | bűncselekményekből származó jövedelmek tisztára mosása | bűnpártolás bűntette, amennyiben a bűncselekményből származó előny biztosításában való közreműködéssel követik el | 244. § (2) bek. |
-| 31. | pénzmosás bűntette | 303. § (1)–(4) bek. |
-| 32. | pénzmosás vétségének minősített esetei | 303/A. § (2) bek. |
-| 33. | orgazdaság bűntette | 326. § (3)–(6) bek. |
-| 34. | pénzhamisítás, ideértve az euró hamisítását is | pénzhamisítás bűntette | 304. § (1)–(3) bek. |
-| 35. | hamis pénz kiadásának bűntette | 306. § (2) bek. |
-| 36. | számítógépes bűncselekmények | számítástechnikai rendszer és adatok elleni bűntett | 300/C. § (3)–(4) bek. |
-| 37. | környezettel kapcsolatos bűncselekmények, ideértve a veszélyeztetett állatfajok, a veszélyeztetett növény fajok és növényfajták tiltott kereskedelmét is | környezetkárosítás bűntette | 280. § (1)–(2) bek. |
-| 38. | helyrehozhatatlan károsodást okozó környezetkárosítás vétsége | 280. § (3) bek. 3. fordulata |
-| 39. | természetkárosítás bűntette | 281. § (1)–(3) bek. |
-| 40. | hulladékgazdálkodás rendjének megsértése bűntette | 281/A. § (1)–(2) bek. |
-| 41. | segítségnyújtás jogellenes beutazáshoz és tartózkodáshoz | embercsempészés bűntette | 218. § (1)–(3) bek. |
-| 42. | szándékos emberölés, súlyos testi sértés | emberölés bűntette | 166. § a (4) bek. kivételével |
-| 43. | erős felindulásban elkövetett emberölés bűntette | 167. § |
-| 44. | testi sértés bűntette | 170. § az (1) és (6) bek. kivételével |
-| 45. | foglalkozás körében elkövetett veszélyeztetés bűntette az (1) bek. szerinti eredményt kivéve | 171. § (3) bek. |
-| 46. | közlekedés biztonsága elleni bűntett | 184. § (2) bek. |
-| 47. | vasúti, légi vagy vízi közlekedés veszélyeztetése bűntette | 185. § (2) bek. |
-| 48. | közúti veszélyeztetés bűntette | 186. § (2) bek. |
-| 49. | ittas vagy bódult állapotban járművezetés bűntette | 188. § (2)–(3) bek. |
-| 50. | emberi szervek és szövetek tiltott kereskedelme | emberi test tiltott felhasználása bűntette | 173/I. § (1)–(3) bek. |
-| 51. | emberrablás, személyi szabadságtól való jogellenes megfosztás és túszejtés | kényszerítés bűntette | 174. § |
-| 52. | személyi szabadság megsértése bűntette | 175. § |
-| 53. | emberrablás bűntette jogellenes fogvatartás bűntette | 175/A. § a (6) bek. kivételével 228. § |
-| 54. | rasszizmus és idegengyűlölet | lelkiismereti és vallásszabadság megsértésének bűntette | 174/A. § |
-| 55. | nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak bűntette | 174/B. § |
-| 56. | közösség elleni izgatás bűntette | 269. § |
-| 57. | szervezett lopás vagy fegyveres rablás | rablás bűntette | 321. § (3) bekezdés c) pont, (4) bekezdés a), c) és d) pont, valamint (5) bekezdés a) és b) pont, |
-| 58. | kifosztás bűntette | 322. § (2) bek. b) pont |
-| 59. | kulturális javak – ideértve a régiségeket és műtárgyakat is – tiltott kereskedelme | orgazdaság egyes esetei | 326. § (3) bek. |
-| 60. | kulturális javakkal visszaélés bűntette | 216/B. § |
-| 61. | csalás | csalás bűntette | 318. § (1), (4)–(7) bek. |
-| 62. | költségvetési csalás bűntette, ideértve a 2011. december 31-ig hatályban volt adócsalás bűntettét, valamint a munkáltatással összefüggésben elkövetett adócsalás bűntettét | 310. § (2)–(7) bek. |
-| 63. | költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztásának bűntette | 310/A. § |
-| 64. | zsarolás és védelmi pénz szedése | zsarolás bűntette | 323. § |
-| 65. | kényszerítés bűntette | 174. § |
-| 66. | termékhamisítás és iparjogvédelmi jog megsértése | bitorlás bűntette | 329. § |
-| 67. | szerzői vagy szerzői joghoz kapcsolódó jogok megsértése bűntette | 329/A. § (2)–(3) bek. |
-| 68. | szerzői vagy szerzői joghoz kapcsolódó jogok védelmét biztosító műszaki intézkedés kijátszása bűntette | 329/B. § (3) bek. |
-| 69. | iparjogvédelmi jogok megsértése bűntette | 329/D. § (2)–(3) bek. |
-| 70. | hivatalos okmányok hamisítása és azzal való kereskedés | közokirat-hamisítás bűntette | 274. § (1) bek. |
-| 71. | hivatalos személy által elkövetett közokirat-hamisítás bűntette | 275. § |
-| 72. | egyedi azonosító jel meghamisításának bűntette | 277/A. § |
-| 73. | jövedékkel visszaélés elősegítésének bűntette (előállít, forgalomba hoz) | 311/B. § (2) bek. |
-| 74. | fizetőeszközök hamisítása | pénzhamisítás bűntette | 304. § (1)–(3) bek. |
-| 75. | készpénz-helyettesítő fizetési eszközzel visszaélés bűntette | 313/C. § a (2) és a (7) bek. kivételével |
-| 76. | hormontartalmú anyagok és más, növekedésserkentők tiltott kereskedelme |  |  |
-| 77. | nukleáris és radioaktív anyagok tiltott kereskedelme | radioaktív anyaggal visszaélés bűntette | 264. § a (4) bek. kivételével |
-| 78. | lopott gépjárművek kereskedelme | költségvetési csalás bűntette, ideértve a 2011. december 31-ig hatályban volt csempészet bűntettét | 310. § (2)–(7) bek. |
-| 79. | orgazdaság bűntette | 326. § a (2) bek. kivételével |
-| 80. | erőszakos közösülés | erőszakos közösülés bűntette | 197. § |
-| 81. | szemérem elleni erőszak bűntette | 198. § |
-| 82. | gyújtogatás | közveszélyokozás bűntette | 259. § |
-| 83. | robbanóanyag/robbantószer felhasználásával elkövetett rongálás bűntette | 324. § (4) bek. c) pont |
-| 84. | a Nemzetközi Büntetőbíróság joghatósága alá tartozó bűncselekmények | a Btk. XI. fejezetében felsorolt bűncselekmények | 154. § és a 165. § kivételével |
-| 85. | légi vagy vízi jármű jogellenes hatalomba kerítése | légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése bűntette | 262. § |
-| 86. | szabotázs | rombolás bűntette | 142. § |
-| 87. | közveszélyokozás bűntette | 259. § (1)–(3) bek. |
-| 88. | közérdekű üzem működése megzavarásának bűntette | 260. § (1)–(2) bek. |
+| A kerethatározatban megjelölt bűncselekményfajták | Az egyes bűncselekményfajtákhoz tartozó Btk. tényállások |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| bűnszervezetben való részvétel | bűnszervezetben részvétel bűntette |  |  | 263/C. § (1) bek. |  |
+| bűnszervezetben elkövetett bűncselekmények |  |  | 137. § 8. pont |  |
+| terrorizmus | terrorcselekmény bűntette |  |  | 261. § a (6) bek. kivételével |  |
+| emberkereskedelem | emberkereskedelem bűntette |  |  | 175/B. § |  |
+| vagyoni haszonszerzés végett elkövetett embercsempészés bűntette |  |  | 218. § (2) bek. a) pont |  |
+| üzletszerűen elkövetett embercsempészés bűntette |  |  | 218. § (3) bek. c) pont |  |
+| gyermekek szexuális kizsákmányolása és gyermekpornográfia | erőszakos közösülés bűntette |  |  | 197. § |  |
+| szemérem elleni erőszak bűntette |  |  | 198. § |  |
+| megrontás bűntette |  |  | 201–202/A. § |  |
+| tiltott pornográf felvétellel visszaélés bűntette |  |  | 204. § |  |
+| kiskorút foglalkoztató bordélyház fenntartásával elkövetett üzletszerű kéjelgés elősegítésének bűntette |  |  | 205. § (3) bek. a) pont |  |
+| tizennyolcadik életévét be nem töltött személy sérelmére elkövetett kerítés bűntette |  |  | 207. § (3) bek. a) pont |  |
+| kábítószerek és pszichotróp anyagok tiltott kereskedelme | kábítószerrel visszaélés egyes esetei: |  |  |  |  |
+| üzletszerűen vagy jelentős mennyiségű kábítószerre elkövetett kábítószerrel visszaélés bűntette (országba behoz, onnan kivisz, vagy az ország területén átvisz) |  | 282. § (2) bek, a) pont, (5) bek. b) pont, (2) bek. b) pont |  |  |
+| kábítószer előállításához szükséges anyagra elkövetett kábítószerrel visszaélés bűntette |  |  | 282. § (3) bek. b) pont |  |
+| anyagi eszközök szolgáltatásával elkövetett kábítószerrel visszaélés bűntette |  |  | 282. § (4) bek. |  |
+| kábítószerrel visszaélés bűntette (kínál, átad, forgalomba hoz, kereskedik) |  |  | 282/A. § a (6) bek.a) pontja kivételével |  |
+| kiskorú felhasználásával elkövetett kábítószerrel visszaélés bűntette (országba behoz, onnan kivisz vagy az ország területén átvisz, kínál, átad, forgalomba hoz, kereskedik) |  |  | 282/B. § (1)–(4) bek., (6) bek., (7) bek. b) pont |  |
+| kábítószerfüggő személy által elkövetett kábítószerrel visszaélés bűntette |  |  | 282/C. § (2)–(4) bek. |  |
+| kábítószer előállításához használt anyaggal visszaélés bűntette (forgalomba hoz, kereskedik, országba behoz, onnan kivisz vagy az ország területén átvisz, átad) |  |  | 283/A. § (1) bek. |  |
+| fegyverek, lőszerek és robbanóanyagok tiltott kereskedelme | nemzetközi gazdasági tilalom katonai célú felhasználásra szánt termék kereskedelmével összefüggésben elkövetett megszegésének bűntette |  |  | 261/A. § (3) bek. a) pont |  |
+| robbanóanyaggal vagy robbantószerrel visszaélés bűntette |  |  | 263. § |  |
+| lőfegyverrel vagy lőszerrel visszaélés bűntette |  |  | 263/A. § |  |
+| nemzetközi szerződés által tiltott fegyverrel visszaélés bűntette |  |  | 264/C. § a (4) bek. kivételével |  |
+| korrupció | vesztegetés bűntette |  | 250. §, 251. § az (1) bek. kivételével, 252. §, 253. § a (4) bekezdés kivételével, 254. § az (1) bek. kivételével, 255. § |  |  |
+| befolyással üzérkedés bűntette nemzetközi kapcsolatban vesztegetés bűntette |  | 256. § 258/B. § a (4) bek. kivételével, 258/C. § az (1) bek. kivételével, 258/D. § |  |  |
+| nemzetközi kapcsolatban befolyással üzérkedés bűntette |  | 258/E. § |  |  |
+| csalással kapcsolatos bűncselekmények, ideértve az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. július 26-i egyezmény értelmében az Európai Közösségek pénzügyi érdekeit sértő csalásokat is | az Európai Közösségek pénzügyi érdekeinek megsértése bűntette |  | 314. § (1)–(3) bek. |  |  |
+| bűncselekményekből származó jövedelmek tisztára mosása | bűnpártolás bűntette (amennyiben a bűncselekményből származó előny biztosításában való közreműködéssel követik el) |  | 244. § (2) bek. |  |  |
+| pénzmosás bűntette |  | 303. § (1)–(4) bek. |  |  |
+| pénzmosás vétségének minősített esetei |  | 303/A. § (2) bek. |  |  |
+| orgazdaság bűntette |  | 326. § (3)–(6) bek. |  |  |
+| pénzhamisítás, ideértve az euró hamisítását is | pénzhamisítás bűntette |  | 304. § (1)–(3) bek. |  |  |
+| hamis pénz kiadásának bűntette |  | 306. § (2) bek. |  |  |
+| számítógépes bűncselekmények | számítástechnikai rendszer és adatok elleni bűntett |  |  |  | 300/C. § (3)–(4) bek. |
+| környezettel kapcsolatos bűncselekmények, ideértve a veszélyeztetett állatfajok, a veszélyeztetett növényfajok és növényfajták tiltott kereskedelmét is | környezetkárosítás bűntette | 280. § (1)–(2) bek. |  |  |  |
+| helyrehozhatatlan károsodást okozó környezetkárosítás vétsége | 280. § (3) bek. 3. fordulata |  |  |  |
+| természetkárosítás bűntette | 281. § (1)–(3) bek. |  |  |  |
+| hulladékgazdálkodás rendjének megsértése bűntette | 281/A. § (1)–(2) bek. |  |  |  |
+| segítségnyújtás jogellenes beutazáshoz és tartózkodáshoz | embercsempészés bűntette | 218. § (1)–(3) bek. |  |  |  |
+| szándékos emberölés, súlyos testi sértés | emberölés bűntette | 166. § a (4) bek. kivételével |  |  |  |
+| erős felindulásban elkövetett emberölés bűntette | 167. § |  |  |  |
+| testi sértés bűntette | 170. § az (1) és (6) bek. kivételével |  |  |  |
+| foglalkozás körében elkövetett veszélyeztetés bűntette az (1) bek. szerinti eredményt kivéve | 171. § (3) bek. |  |  |  |
+| közlekedés biztonsága elleni bűntett | 184. § (2) bek. |  |  |  |
+| vasúti, légi vagy vízi közlekedés veszélyeztetése bűntette | 185. § (2) bek. |  |  |  |
+| közúti veszélyeztetés bűntette | 186. § (2) bek. |  |  |  |
+| ittas vagy bódult állapotban járművezetés bűntette | 188. § (2)–(3) bek. |  |  |  |
+| emberi szervek és szövetek tiltott kereskedelme | emberi test tiltott felhasználása bűntette | 173/I. § (1)–(3) bek. |  |  |  |
+| emberrablás, személyi szabadságtól való jogellenes megfosztás és túszejtés | kényszerítés bűntette | 174. § |  |  |  |
+| személyi szabadság megsértése bűntette | 175. § |  |  |  |
+| emberrablás bűntette | 175/A. § a (6) bek. kivételével |  |  |  |
+| jogellenes fogvatartás bűntette | 228. § |  |  |  |
+| rasszizmus és idegengyűlölet | lelkiismeret és vallásszabadság megsértésének bűntette | 174/A. § |  |  |  |
+| nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak bűntette | 174/B. § |  |  |  |
+| közösség elleni izgatás bűntette | 269. § |  |  |  |
+| szervezett lopás vagy fegyveres rablás | rablás bűntette | 321. § (3) bek. a) és c) pont és (4) bek. b)–c) pont |  |  |  |
+| kifosztás bűntette | 322. § (2) bek. b) pont |  |  |  |
+| kulturális javak – ideértve a régiségeket és műtárgyakat is – tiltott kereskedelme | orgazdaság egyes esetei | 326. § (3) bek. |  |  |  |
+| kulturális javakkal visszaélés bűntette | 216/B. § |  |  |  |
+| csalás | csalás bűntette | 318. § (1), (4)–(7) bek. |  |  |  |
+| adócsalás bűntette | 310. § (2)–(5) bek. |  |  |  |
+| munkáltatással összefüggésben elkövetett adócsalás bűntette | 310/A. § (2)–(5) bek. |  |  |  |
+| zsarolás és védelmi pénz szedése | zsarolás bűntette | 323. § |  |  |  |
+| kényszerítés bűntette | 174. § |  |  |  |
+| termékhamisítás és iparjogvédelmi jog megsértése | bitorlás bűntette | 329. § |  |  |  |
+| szerzői vagy szerzői joghoz kapcsolódó jogok megsértése bűntette | 329/A. § (2)–(3) bek. |  |  |  |
+| szerzői vagy szerzői joghoz kapcsolódó jogok védelmét biztosító műszaki intézkedés kijátszása bűntette | 329/B. § (3) bek. |  |  |  |
+| iparjogvédelmi jogok megsértése bűntette | 329/D. § (2)–(3) bek. |  |  |  |
+| hivatalos okmányok hamisítása és azzal való kereskedés | közokirat-hamisítás bűntette | 274. § (1) bek. |  |  |  |
+| hivatalos személy által elkövetett közokirat-hamisítás bűntette | 275. § |  |  |  |
+| egyedi azonosító jel meghamisításának bűntette | 277/A. § |  |  |  |
+| jövedékkel visszaélés elősegítésének bűntette (előállít, forgalomba hoz) | 311/B. § (2) bek. |  |  |  |
+| fizetőeszközök hamisítása | pénzhamisítás bűntette | 304. § (1)–(3) bek. |  |  |  |
+| készpénz-helyettesítő fizetési eszközzel visszaélés bűntette | 313/C. § a (2) és a (7) bek. kivételével |  |  |  |
+| hormontartalmú anyagok és más, növekedésserkentők tiltott kereskedelme |  |  |  |  |  |
+| nukleáris és radioaktív anyagok tiltott kereskedelme | radioaktív anyaggal visszaélés bűntette | 264. § a (4) bek. kivételével |  |  |  |
+| lopott gépjárművek kereskedelme | csempészet bűntette | 312. § (2)–(4) bek. |  |  |  |
+| orgazdaság bűntette | 326. § a (2) bek. kivételével |  |  |  |
+| erőszakos közösülés | erőszakos közösülés bűntette | 197. § |  |  |  |
+| szemérem elleni erőszak bűntette | 198. § |  |  |  |
+| gyújtogatás | közveszélyokozás bűntette | 259. § |  |  |  |
+| robbanóanyag/robbantószer felhasználásával elkövetett rongálás bűntette | 324. § (4) bek. c) pont |  |  |  |
+| a Nemzetközi Büntetőbíróság joghatósága alá tartozó bűncselekmények | a Btk. XI. fejezetében felsorolt bűncselekmények | 154. § és a 165. § kivételével |  |  |  |
+| légi vagy vízi jármű jogellenes hatalomba kerítése | légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése bűntette | 262. § |  |  |  |
+| szabotázs | rombolás bűntette | 142. § |  |  |  |
+| közveszélyokozás bűntette | 259. § (1)–(3) bek. |  |  |  |
+| közérdekű üzem működése megzavarásának bűntette | 260. § (1)–(2) bek. |  |  |  |
 
 ### 2. számú melléklet a 2003. évi CXXX. törvényhez
 
@@ -1473,120 +1353,120 @@ E törvény 67/I. §-a értelmében a tanúsítvány az alábbi adatokat tartalm
 
 ### 4. számú melléklet a 2003. évi CXXX. törvényhez
 
-E törvény 67/L. § (4) bekezdése értelmében a bűncselekményfajtákhoz a Btk. következő bűncselekményei tartoznak:
+E törvény 67/L. §-a (3) bekezdése értelmében a bűncselekményfajtákhoz a Btk. következő bűncselekményei tartoznak:
 
-|  | A | B | C |
-| --- | --- | --- | --- |
-| 1. | A kerethatározatban megjelölt bűncselekményfajták | Az egyes bűncselekményfajtákhoz tartozó Btk. tényállások |  |
-| 2. | bűnszervezetben való részvétel | bűnszervezetben részvétel bűntette | 263/C. § (1) bek. |
-| 3. | bűnszervezetben elkövetett bűncselekmények | 137. § 8. pont |
-| 4. | terrorizmus | terrorcselekmény bűntette | 261. § a (6) bek. kivételével |
-| 5. | emberkereskedelem | emberkereskedelem bűntette | 175/B. § |
-| 6. | vagyoni haszonszerzés végett elkövetett embercsempészés bűntette | 218. § (2) bek. a) pont |
-| 7. | üzletszerűen elkövetett embercsempészés bűntette | 218. § (3) bek. c) pont |
-| 8. | gyermekek szexuális kizsákmányolása és gyermekpornográfia | erőszakos közösülés bűntette | 197. § |
-| 9. | szemérem elleni erőszak bűntette | 198. § |
-| 10. | megrontás bűntette | 201–202/A. § |
-| 11. | tiltott pornográf felvétellel visszaélés bűntette | 204. § |
-| 12. | kiskorút foglalkoztató bordélyház fenntartásával elkövetett üzletszerű kéjelgés elősegítésének bűntette | 205. § (3) bek. a) pont |
-| 13. | tizennyolcadik életévét be nem töltött személy üzletszerű kéjelgésre felhívásával elkövetett kerítés bűntette | 207. § (3) bek. a) pont |
-| 14. | kábítószerek és pszichotróp anyagok tiltott kereskedelme | kábítószerrel visszaélés egyes esetei: üzletszerűen vagy jelentős mennyiségű kábítószerre elkövetett kábítószerrel visszaélés bűntette (országba behoz, onnan kivisz vagy az ország területén átvisz) | 282. § (2) bek. a) pont, (5) bek. b) pont, (2) bek. b) pont |
-| 15. | kábítószer előállításához szükséges anyagra elkövetett kábítószerrel visszaélés bűntette | 282. § (3) bek. b) pont |
-| 16. | anyagi eszközök szolgáltatásával elkövetett kábítószerrel visszaélés bűntette | 282. § (4) bek. |
-| 17. | kábítószerrel visszaélés bűntette (kínál, átad, forgalomba hoz, kereskedik) | 282/A. § |
-| 18. | kiskorú felhasználásával elkövetett kábítószerrel visszaélés bűntette (országba behoz, onnan kivisz vagy az ország területén átvisz, kínál, átad, forgalomba hoz, kereskedik) | 282/B. § az (5) bek. kivételével |
-| 19. | kábítószerfüggő személy által elkövetett kábítószerrel visszaélés bűntette | 282/C. § |
-| 20. | kábítószer előállításához használt anyaggal visszaélés bűntette (forgalomba hoz, kereskedik, országba behoz, onnan kivisz vagy az ország területén átvisz, átad) | 283/A. § (1) bek. |
-| 21. | fegyverek, lőszerek és robbanóanyagok tiltott kereskedelme | nemzetközi gazdasági tilalom katonai célú felhasználásra szánt termék kereskedelmével összefüggésben elkövetett megszegésének bűntette | 261/A. § (3) bek. a) pont |
-| 22. | robbanóanyaggal vagy robbantószerrel visszaélés bűntette | 263. § |
-| 23. | lőfegyverrel vagy lőszerrel visszaélés bűntette | 263/A. § |
-| 24. | nemzetközi szerződés által tiltott fegyverrel visszaélés bűntette | 264/C. § |
-| 25. | korrupció | vesztegetés vétsége és bűntette | 250–255. § |
-| 26. | befolyással üzérkedés bűntette | 256. § |
-| 27. | nemzetközi kapcsolatban elkövetett vesztegetés vétsége és bűntette | 258/B–258/D. § |
-| 28. | nemzetközi kapcsolatban befolyással üzérkedés bűntette | 258/E. § |
-| 29. | csalással kapcsolatos bűncselekmények, ideértve az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. július 26-i egyezmény értelmében az Európai Közösségek pénzügyi érdekeit sértő csalásokat is | költségvetési csalás bűntette, költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása ideértve a 2011. december 31-ig hatályban volt Európai Közösségek pénzügyi érdekeinek megsértése bűntettét | 310. § (2)–(7) bek. 310/A. § |
-| 30. | bűncselekményekből származó jövedelmek tisztára mosása | bűnpártolás bűntette, amennyiben a bűncselekményből származó előny biztosításában való közreműködéssel követik el | 244. § (2) bek. |
-| 31. | pénzmosás vétsége és bűntette | 303. §, 303/A. § |
-| 32. | pénzmosással kapcsolatos bejelentési kötelezettség elmulasztásának vétsége | 303/B. § |
-| 33. | orgazdaság vétsége és bűntette | 326. § bek. |
-| 34. | pénzhamisítás, ideértve az euró hamisítását is | pénzhamisítás vétsége és bűntette | 304. § |
-| 35. | pénzhamisítás elősegítésének vétsége | 304/A. § |
-| 36. | hamis pénz kiadásának vétsége és bűntette | 306. § |
-| 37. | számítógépes bűncselekmények | számítástechnikai rendszer és adatok elleni vétség és bűntett | 300/C. § |
-| 38. | számítástechnikai rendszer védelmét biztosító technikai intézkedés kijátszásának vétsége | 300/E. § |
-| 39. | környezettel kapcsolatos bűncselekmények, ideértve a veszélyeztetett állatfajok, a veszélyeztetett növényfajok és növényfajták tiltott kereskedelmét is | környezetkárosítás vétsége és bűntette | 280. § |
-| 40. | természetkárosítás vétsége és bűntette | 281. § |
-| 41. | hulladékgazdálkodás rendje megsértésének vétsége és bűntette | 281/A. § |
-| 42. | segítségnyújtás jogellenes beutazáshoz és tartózkodáshoz | embercsempészés vétsége és bűntette | 218. § |
-| 43. | szándékos emberölés, súlyos testi sértés | emberölés bűntette | 166. § a (4) bek. kivételével |
-| 44. | erős felindulásban elkövetett emberölés bűntette | 167. § |
-| 45. | testi sértés bűntette | 170. § az (1) és (6) bek. kivételével |
-| 46. | foglalkozás körében elkövetett veszélyeztetés bűntette az (1) bek. szerinti eredményt kivéve | 171. § (3) bek. |
-| 47. | közlekedés biztonsága elleni bűntett | 184. § (2) bek. |
-| 48. | vasúti, légi vagy vízi közlekedés veszélyeztetése bűntette | 185. § (2) bek. |
-| 49. | közúti veszélyeztetés bűntette | 186. § (2) bek. |
-| 50. | ittas vagy bódult állapotban járművezetés bűntette | 188. § (2)–(3) bek. |
-| 51. | emberi szervek és szövetek tiltott kereskedelme | emberi test tiltott felhasználása vétsége és bűntette | 173/I. § |
-| 52. | emberrablás, személyi szabadságtól való jogellenes megfosztás és túszejtés | kényszerítés bűntette | 174. § |
-| 53. | személyi szabadság megsértése bűntette | 175. § |
-| 54. | emberrablás bűntette | 175/A. § |
-| 55. | jogellenes fogvatartás bűntette | 228. § |
-| 56. | rasszizmus és idegengyűlölet | lelkiismereti és vallásszabadság megsértésének bűntette | 174/A. § |
-| 57. | nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak bűntette | 174/B. § |
-| 58. | közösség elleni izgatás bűntette | 269. § |
-| 59. | szervezett lopás vagy fegyveres rablás | rablás bűntette | 321. § (3) bek. a) és c) pont és (4) bek. b)–c) pont |
-| 60. | kifosztás bűntette | 322. § (2) bek. b) pont |
-| 61. | kulturális javak – ideértve a régiségeket és műtárgyakat is – tiltott kereskedelme | orgazdaság egyes esetei | 326. § (3) bek. |
-| 62. | kulturális javakkal visszaélés bűntette | 216/B. § |
-| 63. | csalás | csalás vétsége és bűntette | 318. § |
-| 64. | költségvetési csalás vétsége és bűntette, ideértve a 2011. december 31-ig hatályban volt adócsalás vétségét és bűntettét, valamint a munkáltatással összefüggésben elkövetett adócsalás vétségét és bűntettét | 310. § |
-| 65. | költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása | 310/A. § |
-| 66. | zsarolás és védelmi pénz szedése | zsarolás bűntette | 323. § |
-| 67. | kényszerítés bűntette | 174. § |
-| 68. | termékhamisítás és iparjogvédelmi jog megsértése | bitorlás bűntette | 329. § |
-| 69. | szerzői vagy szerzői joghoz kapcsolódó jogok megsértése vétsége és bűntette | 329/A. § |
-| 70. | szerzői vagy szerzői joghoz kapcsolódó jogok védelmét biztosító műszaki intézkedés kijátszása vétsége és bűntette | 329/B. § |
-| 71. | jogkezelési adat meghamisítása vétsége | 329/C. § |
-| 72. | iparjogvédelmi jogok megsértésének vétsége és bűntette | 329/D. § |
-| 73. | hivatalos okmányok hamisítása és azzal való kereskedés | közokirat-hamisítás vétsége és bűntette | 274. § |
-| 74. | hivatalos személy által elkövetett közokirat-hamisítás bűntette | 275. § |
-| 75. | visszaélés okirattal vétsége | 277. § |
-| 76. | egyedi azonosító jel meghamisításának bűntette | 277/A. § |
-| 77. | jövedékkel visszaélés elősegítésének vétsége és bűntette (előállít, forgalomba hoz) | 311/B. § |
-| 78. | fizetőeszközök hamisítása | pénzhamisítás bűntette és vétsége | 304. § |
-| 79. | készpénz-helyettesítő fizetési eszköz hamisításának vétsége | 313/B. § |
-| 80. | készpénz-helyettesítő fizetési eszközzel visszaélés vétsége és bűntette | 313/C. § a (7) bek. kivételével |
-| 81. | hormontartalmú anyagok és más, növekedésserkentők tiltott kereskedelme |  |  |
-| 82. | nukleáris és radioaktív anyagok tiltott kereskedelme | radioaktív anyaggal visszaélés bűntette | 264. § |
-| 83. | lopott gépjárművek kereskedelme | költségvetési csalás bűntette, ideértve a 2011. december 31-ig hatályban volt csempészet bűntettét | 310. § (2)–(7) bek. |
-| 84. | orgazdaság bűntette | 326. § (3)–(6) bek. |
-| 85. | erőszakos közösülés | erőszakos közösülés bűntette | 197. § |
-| 86. | szemérem elleni erőszak bűntette | 198. § |
-| 87. | gyújtogatás | közveszélyokozás vétsége és bűntette | 259. § |
-| 88. | robbanóanyag/robbantószer felhasználásával elkövetett rongálás bűntette | 324. § (4) bek. c) pont |
-| 89. | a Nemzetközi Büntetőbíróság joghatósága alá tartozó bűncselekmények | a Btk. XI. fejezetében felsorolt bűncselekmények | 154. § és a 165. § kivételével |
-| 90. | légi vagy vízi jármű jogellenes hatalomba kerítése | légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése bűntette | 262. § |
-| 91. | szabotázs | rombolás bűntette | 142. § |
-| 92. | közveszélyokozás bűntette | 259. § (1)–(3) bek. |
-| 93. | közérdekű üzem működése megzavarásának bűntette | 260. § (1)–(2) bek. |
-| 94. | olyan magatartás, amely sérti a közúti közlekedés szabályait, beleértve a vezetési- és pihenőidőre, valamint a veszélyes anyagokra vonatkozó rendelkezések megszegését | közlekedési bűncselekmények | Btk. XIII. Fejezet |
-| 95. | csempészet | költségvetési csalás vétsége és bűntette ideértve a 2011. december 31-ig hatályban volt csempészet vétségét és bűntettét | 310. § |
-| 96. | szellemi tulajdonjogok megsértése | szerzői vagy szerzői joghoz kapcsolódó jogok megsértése vétsége és bűntette | 329/A. § |
-| 97. | személy elleni erőszakkal fenyegetés és személy elleni erőszakos cselekmények, beleértve a sporteseményeken elkövetett erőszakos cselekményeket | rendbontás vétsége és bűntette | 271/A. § |
-| 98. | szándékos emberölés és súlyos testi sértés sorában az e mellékletben felsorolt bűncselekmények |  |
-| 99. | bűncselekménnyel okozott kár | azon bűncselekmények, amelyek tényállási elemeiben az érték, kár, vagyoni hátrány, illetőleg a bevétel-csökkenés szerepel |  |
-| 100. | lopás | lopás vétsége és bűntette | 316. § |
-| 101. | az EK-Szerződés alapján vagy az EU-Szerződés VI. címe alapján elfogadott jogi aktusokból eredő kötelezettségek végrehajtása céljából a kibocsátó állam által megállapított bűncselekmények | jogellenes belföldi tartózkodás elősegítése | 214/A. § |
-| 102. | nemzetközi bíróság előtt elkövetett igazságszolgáltatás elleni bűncselekmény | 249/B. § |
-| 103. | nemzetközi gazdasági tilalom megszegése | 261/A. § |
-| 104. | haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel visszaélés | 263/B. § |
-| 105. | természetkárosítás | 281. § |
-| 106. | költségvetési csalás vétsége és bűntette, ideértve a 2011. december 31-ig hatályban volt csempészet vétségét és bűntettét | 310. § |
-| 107. | költségvetési csalás vétsége és bűntette, költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztásának bűntette, ideértve a 2011. december 31-ig hatályban volt Európai Közösségek pénzügyi érdekeinek megsértése bűncselekményét | 310. § 310/A. § |
-| 108. | pénzmosás vétsége és bűntette | 303. §, 303/A. § |
-| 109. | pénzmosással kapcsolatos bejelentési kötelezettség elmulasztásának vétsége | 303/B. § |
-| 110. | továbbá gyermekek szexuális kizsákmányolása és gyermekpornográfia sorában felsorolt bűncselekmények |  |
+| A kerethatározatban megjelölt bűncselekményfajták | Az egyes bűncselekményfajtákhoz tartozó Btk. tényállások |  |
+| --- | --- | --- |
+| bűnszervezetben való részvétel | bűnszervezetben részvétel bűntette | 263/C. § (1) bek. |
+| bűnszervezetben elkövetett bűncselekmények | 137. § 8. pont |
+| terrorizmus | terrorcselekmény bűntette | 261. § a (6) bek. kivételével |
+| emberkereskedelem | emberkereskedelem bűntette | 175/B. § |
+| vagyoni haszonszerzés végett elkövetett embercsempészés bűntette | 218. § (2) bek. a) pont |
+| üzletszerűen elkövetett embercsempészés bűntette | 218. § (3) bek. c) pont |
+| gyermekek szexuális kizsákmányolása és gyermekpornográfia | erőszakos közösülés bűntette | 197. § |
+| szemérem elleni erőszak bűntette | 198. § |
+| megrontás bűntette | 201–202/A. § |
+| tiltott pornográf felvétellel visszaélés bűntette | 204. § |
+| kiskorút foglalkoztató bordélyház fenntartásával elkövetett üzletszerű kéjelgés elősegítésének bűntette | 205. § (3) bek. a) pont |
+| tizennyolcadik életévét be nem töltött személy üzletszerű kéjelgésre felhívásával elkövetett kerítés bűntette | 207. § (3) bek. a) pont |
+| kábítószerek és pszichotróp anyagok tiltott kereskedelme | kábítószerrel visszaélés egyes esetei: |  |
+| üzletszerűen vagy jelentős mennyiségű kábítószerre elkövetett kábítószerrel visszaélés bűntette (országba behoz, onnan kivisz vagy az ország területén átvisz) | 282. § (2) bek, a) pont, (5) bek. b) pont, (2) bek. b) pont |
+| kábítószer előállításához szükséges anyagra elkövetett kábítószerrel visszaélés bűntette | 282. § (3) bek. b) pont |
+| anyagi eszközök szolgáltatásával elkövetett kábítószerrel visszaélés bűntette | 282. § (4) bek. |
+| kábítószerrel visszaélés bűntette (kínál, átad, forgalomba hoz, kereskedik) | 282/A. § |
+| kiskorú felhasználásával elkövetett kábítószerrel visszaélés bűntette (országba behoz, onnan kivisz vagy az ország területén átvisz, kínál, átad, forgalomba hoz, kereskedik) | 282/B. § az (5) bek. kivételével |
+| kábítószerfüggő személy által elkövetett kábítószerrel visszaélés bűntette | 282/C. § |
+| kábítószer előállításához használt anyaggal visszaélés bűntette (forgalomba hoz, kereskedik, országba behoz, onnan kivisz vagy az ország területén átvisz, átad) | 283/A. § (1) bek. |
+| fegyverek, lőszerek és robbanóanyagok tiltott kereskedelme | nemzetközi gazdasági tilalom katonai célú felhasználásra szánt termék kereskedelmével összefüggésben elkövetett megszegésének bűntette | 261/A. § (3) bek. a) pont |
+| robbanóanyaggal vagy robbantószerrel visszaélés bűntette | 263. § |
+| lőfegyverrel vagy lőszerrel visszaélés bűntette | 263/A. § |
+| nemzetközi szerződés által tiltott fegyverrel visszaélés bűntette | 264/C. § |
+| korrupció | vesztegetés vétsége és bűntette | 250–255. § |
+| befolyással üzérkedés bűntette | 256. § |
+| nemzetközi kapcsolatban elkövetett vesztegetés vétsége és bűntette | 258/B–258/D. § |
+| nemzetközi kapcsolatban befolyással üzérkedés bűntette | 258/E. § |
+| csalással kapcsolatos bűncselekmények, ideértve az Európai Közösségek pénzügyi érdekeinek védelméről szóló, 1995. július 26-i egyezmény értelmében az Európai Közösségek pénzügyi érdekeit sértő csalásokat is | az Európai Közösségek pénzügyi érdekeinek megsértése bűntette | 314. § |
+| bűncselekményekből származó jövedelmek tisztára mosása | bűnpártolás bűntette (amennyiben a bűncselekményből származó előny biztosításában való közreműködéssel követik el) | 244. § (2) bek. |
+| pénzmosás vétsége és bűntette | 303. §, 303/A. § |
+| pénzmosással kapcsolatos bejelentési kötelezettség elmulasztásának vétsége | 303/B. § |
+| orgazdaság vétsége és bűntette | 326. § bek. |
+| pénzhamisítás, ideértve az euró hamisítását is | pénzhamisítás vétsége és bűntette | 304. § |
+| pénzhamisítás elősegítésének vétsége | 304/A. § |
+| hamis pénz kiadásának vétsége és bűntette | 306. § |
+| számítógépes bűncselekmények | számítástechnikai rendszer és adatok elleni vétség és bűntett | 300/C. § |
+| számítástechnikai rendszer védelmét biztosító technikai intézkedés kijátszásának vétsége | 300/E. § |
+| környezettel kapcsolatos bűncselekmények, ideértve a veszélyeztetett állatfajok, a veszélyeztetett növényfajok és növényfajták tiltott kereskedelmét is | környezetkárosítás vétsége és bűntette | 280. § |
+| természetkárosítás vétsége és bűntette | 281. § |
+| hulladékgazdálkodás rendje megsértésének vétsége és bűntette | 281/A. § |
+| segítségnyújtás jogellenes beutazáshoz és tartózkodáshoz | embercsempészés vétsége és bűntette | 218. § |
+| szándékos emberölés, súlyos testi sértés | emberölés bűntette | 166. § a (4) bek. kivételével |
+| erős felindulásban elkövetett emberölés bűntette | 167. § |
+| testi sértés bűntette | 170. § az (1) és (6) bek. kivételével |
+| foglalkozás körében elkövetett veszélyeztetés bűntette az (1) bek. szerinti eredményt kivéve | 171. § (3) bek. |
+| közlekedés biztonsága elleni bűntett | 184. § (2) bek. |
+| vasúti, légi vagy vízi közlekedés veszélyeztetése bűntette | 185. § (2) bek. |
+| közúti veszélyeztetés bűntette | 186. § (2) bek. |
+| ittas vagy bódult állapotban járművezetés bűntette | 188. § (2)–(3) bek. |
+| emberi szervek és szövetek tiltott kereskedelme | emberi test tiltott felhasználása vétsége és bűntette | 173/I. § |
+| emberrablás, személyi szabadságtól való jogellenes megfosztás és túszejtés | kényszerítés bűntette | 174. § |
+| személyi szabadság megsértése bűntette | 175. § |
+| emberrablás bűntette | 175/A. § |
+| jogellenes fogvatartás bűntette | 228. § |
+| rasszizmus és idegengyűlölet | lelkiismeret és vallásszabadság megsértésének bűntette | 174/A. § |
+| nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak bűntette | 174/B. § |
+| közösség elleni izgatás bűntette | 269. § |
+| szervezett lopás vagy fegyveres rablás | rablás bűntette | 321. § (3) bek. a) és c) pont és (4) bek. b)–c) pont |
+| kifosztás bűntette | 322. § (2) bek. b) pont |
+| kulturális javak – ideértve a régiségeket és műtárgyakat is – tiltott kereskedelme | orgazdaság egyes esetei | 326. § (3) bek. |
+| kulturális javakkal visszaélés bűntette | 216/B. § |
+| csalás | csalás vétsége és bűntette | 318. § |
+| adócsalás vétsége és bűntette | 310. § |
+| munkáltatással összefüggésben elkövetett adócsalás vétsége és bűntette | 310/A. § |
+| zsarolás és védelmi pénz szedése | zsarolás bűntette | 323. § |
+| kényszerítés bűntette | 174. § |
+| termékhamisítás és iparjogvédelmi jog megsértése | bitorlás bűntette | 329. § |
+| szerzői vagy szerzői joghoz kapcsolódó jogok megsértése vétsége és bűntette | 329/A. § |
+| szerzői vagy szerzői joghoz kapcsolódó jogok védelmét biztosító műszaki intézkedés kijátszása vétsége és bűntette | 329/B. § |
+| jogkezelési adat meghamisítása vétsége | 329/C. § |
+| iparjogvédelmi jogok megsértésének vétsége és bűntette | 329/D. § |
+| hivatalos okmányok hamisítása és azzal való kereskedés | közokirat-hamisítás vétsége és bűntette | 274. § |
+| hivatalos személy által elkövetett közokirat-hamisítás bűntette | 275. § |
+| visszaélés okirattal vétsége | 277. § |
+| egyedi azonosító jel meghamisításának bűntette | 277/A. § |
+| jövedékkel visszaélés elősegítésének vétsége és bűntette (előállít, forgalomba hoz) | 311/B. § |
+| fizetőeszközök hamisítása | pénzhamisítás bűntette és vétsége | 304. § |
+| készpénz-helyettesítő fizetési eszköz hamisításának vétsége | 313/B. § |
+| készpénz-helyettesítő fizetési eszközzel visszaélés vétsége és bűntette | 313/C. § a (7) bek. kivételével |
+| hormontartalmú anyagok és más, növekedésserkentők tiltott kereskedelme |  |  |
+| nukleáris és radioaktív anyagok tiltott kereskedelme | radioaktív anyaggal visszaélés bűntette | 264. § |
+| lopott gépjárművek kereskedelme | csempészet bűntette | 312. § (2)–(4) bek. |
+| orgazdaság bűntette | 326. § a (2) bek. kivételével |
+| erőszakos közösülés | erőszakos közösülés bűntette | 197. § |
+| szemérem elleni erőszak bűntette | 198. § |
+| gyújtogatás | közveszélyokozás vétsége és bűntette | 259. § |
+| robbanóanyag/robbantószer felhasználásával elkövetett rongálás bűntette | 324. § (4) bek. c) pont |
+| a Nemzetközi Büntetőbíróság joghatósága alá tartozó bűncselekmények | a Btk. XI. fejezetében felsorolt bűncselekmények | 154. § és a 165. § kivételével |
+| légi vagy vízi jármű jogellenes hatalomba kerítése | légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése bűntette | 262. § |
+| szabotázs | rombolás bűntette | 142. § |
+| közveszélyokozás bűntette | 259. § (1)–(3) bek. |
+| közérdekű üzem működése megzavarásának bűntette | 260. § (1)–(2) bek. |
+| olyan magatartás, amely sérti a közúti közlekedés szabályait, beleértve a vezetési- és pihenőidőre, valamint a veszélyes anyagokra vonatkozó rendelkezések megszegését | közlekedési bűncselekmények | Btk. XIII. Fejezet |
+| csempészet | csempészet vétsége és bűntette | 312. § |
+| szellemi tulajdonjogok megsértése | szerzői vagy szerzői joghoz kapcsolódó jogok megsértése vétsége és bűntette | 329/A. § |
+| személy elleni erőszakkal fenyegetés és személy elleni erőszakos cselekmények, beleértve a sporteseményeken elkövetett erőszakos cselekményeket | rendbontás vétsége és bűntette | 271/A. § |
+| szándékos emberölés és súlyos testi sértés sorában az e mellékletben felsorolt bűncselekmények |  |
+| bűncselekménnyel okozott kár | azon bűncselekmények, amelyek tényállási elemeiben az érték, kár, vagyoni hátrány, illetőleg a bevétel-csökkenés szerepel |  |
+| lopás | lopás vétsége és bűntette | 316. § |
+| az EK-Szerződés alapján vagy az EU-Szerződés VI. címe alapján elfogadott jogi aktusokból eredő kötelezettségek végrehajtása céljából a kibocsátó állam által megállapított bűncselekmények | jogellenes belföldi tartózkodás elősegítése | 214/A. § |
+| nemzetközi bíróság előtt elkövetett igazságszolgáltatás elleni bűncselekmény | 249/B. § |
+| nemzetközi gazdasági tilalom megszegése | 261/A. § |
+| haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel visszaélés | 263/B. § |
+| természetkárosítás | 281. § |
+| csempészet | 312. § |
+| az Európai Közösségek pénzügyi érdekeinek megsértése | 314. § |
+| pénzmosás vétsége és bűntette | 303. §, 303/A. § |
+| pénzmosással kapcsolatos bejelentési kötelezettség elmulasztásának vétsége | 303/B. § |
+| továbbá gyermekek szexuális kizsákmányolása és gyermekpornográfia sorában felsorolt bűncselekmények |  |
 
 ### 5. számú melléklet a 2003. évi CXXX. törvényhez
 
@@ -1607,16 +1487,16 @@ E törvény 67/T. §-a értelmében a tanúsítvány az alábbi adatokat tartalm
 | e) Azon hatóság vagy hatóságok, amely(ek)hez megkereséssel lehet fordulni [amennyiben a c) és/vagy d) pontokat kitöltötték]: ⬜ A b) pontban feltüntetett hatóságot a következőkkel kapcsolatban lehet megkeresni: ⬜ A c) pontban feltüntetett hatóságot a következőkkel kapcsolatban lehet megkeresni: ⬜ A d) pontban feltüntetett hatóságot a következőkkel kapcsolatban lehet megkeresni: |
 | --- |
 
-* A magyar hatóságok a személyi azonosító szám, társadalombiztosítási azonosító szám külföldre továbbítására csak akkor jogosultak, ha az adatkezelés a cél megvalósulásához elengedhetetlen.
+* A magyar hatóságok a személyi azonosító szám, társadalombiztosítási azonosító szám külföldre továbbítására a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény 5. §-ának (2) bekezdése alapján csak akkor jogosultak, ha az adatkezelés a cél megvalósulásához elengedhetetlen.
 
-181 Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert annak a jogi személynek a bejegyzett székhelye, amellyel szemben a határozatot hozták, ebben az államban található, a bejegyzési számot és a bejegyzett székhelyet fel kell tüntetni.
+64 Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert annak a jogi személynek a bejegyzett székhelye, amellyel szemben a határozatot hozták, ebben az államban található, a bejegyzési számot és a bejegyzett székhelyet fel kell tüntetni.
 
 | f) A pénzbüntetést megállapító határozat által kötelezett természetes vagy jogi személyre vonatkozó információ: 1. Természetes személy esetén Név: Utónév (utónevek): Leánykori név (szükség szerint): Felvett nevek (szükség szerint): Nem: Állampolgárság: Személyi azonosító szám vagy társadalombiztosítási azonosító szám (amennyiben rendelkezésre áll):* Születési idő: Születési hely: Utolsó ismert lakcím: A természetes személy által értett nyelv(ek) (amennyiben ez az adat rendelkezésre áll): |
 | --- |
 | a) Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert annak a személynek, akivel szemben a határozatot hozták, abban az államban van a szokásos tartózkodási helye, kérjük, adja meg a következő kiegészítő információkat: A végrehajtó államban található szokásos tartózkodási hely: |
 | b) Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert az a személy, akivel szemben a határozatot hozták, vagyonnal rendelkezik a végrehajtó államban, kérjük, adja meg a következő kiegészítő információkat: A személy vagyonának leírása: A személy vagyonának fellelhetősége: |
 | c) Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert az a személy, akivel szemben a határozatot hozták, jövedelemmel rendelkezik a végrehajtó államban, kérjük, adja meg a következő kiegészítő információkat: A személy jövedelemforrásának (-forrásainak) leírása: A személy jövedelemforrásának (-forrásainak) fellelhetősége: |
-| 2. Jogi személy esetén Név: Jogi személy formája: Bejegyzési szám (amennyiben rendelkezésre áll)181: Bejegyzett székhely (amennyiben rendelkezésre áll)1: A jogi személy címe: |
+| 2. Jogi személy esetén Név: Jogi személy formája: Bejegyzési szám (amennyiben rendelkezésre áll)64: Bejegyzett székhely (amennyiben rendelkezésre áll)1: A jogi személy címe: |
 | a) Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert az a jogi személy, amellyel szemben a határozatot hozták, vagyonnal rendelkezik a végrehajtó államban, kérjük, adja meg a következő kiegészítő információkat: A jogi személy vagyonának leírása: |
 | A jogi személy vagyonának fellelhetősége: b) Amennyiben a határozatot azért továbbítják a végrehajtó államnak, mert az a jogi személy, amellyel szemben a határozatot hozták, jövedelemmel rendelkezik a végrehajtó államban, kérjük, adja meg a következő kiegészítő információkat: A jogi személy jövedelemforrásának (-forrásainak) leírása: A jogi személy jövedelemforrásának (-forrásainak) fellelhetősége: |
 
@@ -2099,54 +1979,3 @@ Ez a formanyomtatvány az eljárás folyamán többször használható (példáu
 | ⬜ D – A megkeresett hatóság a kérelem végrehajtásának elutasítása mellett dönt, mivel a kérelem a következő, a megkeresett állam jogszabályai szerint egy év vagy annál rövidebb időtartamú szabadságvesztéssel büntethető bűncselekményre vonatkozik (a bűncselekmény jellegének és jogi besorolásának megadása): |  |  |
 | ⬜ E – Az információ vagy bűnüldözési operatív információ nem áll rendelkezésre |  |  |
 | ⬜ F – A kérelmezett információt vagy bűnüldözési operatív információt más tagállam vagy harmadik állam bocsátotta rendelkezésre, arra a specialitás elve vonatkozik, és az érintett állam nem járult hozzá annak átadásához. |  |  |
-
-### 9. számú melléklet a 2003. évi CXXX. törvényhez
-
-Az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló, 2009. április 9-i 2009/371/IB tanácsi határozat mellékletében megjelölt bűncselekményfajták megfeleltetése a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (Btk.) alapján
-
-|  | A | B | C |
-| --- | --- | --- | --- |
-| 1 | Az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló 2009/371/IB Tanács határozatának mellékletében megjelölt bűncselekményfajták | Az egyes bűncselekményfajtákhoz tartozó Btk. tényállások megnevezése | Az egyes bűncselekményfajtákhoz tartozó Btk. tényállások törvényhelye |
-| 2 | szándékos emberölés, súlyos testi sértés | népirtás bűntette emberölés bűntette erős felindulásban elkövetett emberölés bűntette öngyilkosságban közreműködés bűntette magzatelhajtás bűntette testi sértés vétsége és bűntette | 155. § 166. § (1)–(3) bekezdés 167. § 168. § 169. § (2) bekezdés c) pont 170. § (2)–(6) bekezdés |
-| 3 | emberi szervek és szövetek tiltott kereskedelme | emberi test tiltott felhasználása bűntette emberkereskedelem bűntette | 173/I. § 175/B. § (2) bekezdés e) pont, (3) bekezdés b) pont, (4) bekezdés, (5) bekezdés a) pont |
-| 4 | emberrablás, személyi szabadság megsértése, megfosztás és túszejtés | kényszerítés bűntette személyi szabadság megsértése bűntette emberrablás bűntette jogellenes fogvatartás bűntette | 174. § 175. § 175/A. § 228. § |
-| 5 | rasszizmus és idegengyűlölet | apartheid bűntette a lelkiismereti és vallásszabadság megsértése bűntette közösség tagja elleni erőszak bűntette közösség elleni izgatás bűntette a nemzeti szocialista és kommunista rendszerek bűneinek nyilvános tagadása bűntette | 157. § 174/A. § 174/B. § 269. § 269/C. § |
-| 6 | szervezett rablás | bűnszövetségben vagy csoportosan elkövetett rablás bűntette kifosztás bűntette jármű önkényes elvétele bűntette egyes esetei | 321. § (3) bekezdés c) pont és (4) bekezdés c) pont 322. § (2) bekezdés b) pont és (3) bekezdés b) pont 327. § (2) bekezdés b) pont és (3) bekezdés |
-| 7 | kulturális javak – ideértve a régiségeket és műtárgyakat is – tiltott kereskedelme | visszaélés kulturális javakkal bűntette orgazdaság bűntett egyes esetei | 216/B. § 326. § (3) bekezdés b)–c) pont |
-| 8 | csalással kapcsolatos bűncselekmények | 2011. december 31-ig hatályban volt jogosulatlan gazdasági előny megszerzése bűntette csődbűncselekmény vétsége és bűntette | 290. § (1)–(4) bekezdés |
-|  |  | rossz minőségű termék forgalomba hozatala bűntette | 292–293. § |
-|  |  | minőség hamis tanúsítása bűntette | 295. § |
-|  |  | a fogyasztó megtévesztése vétsége | 296/A. § |
-|  |  | hitelezési csalás bűntette | 297/A. § |
-|  |  | gazdálkodó szervezet vezető állású személyének visszaélése vétsége | 298/A. § |
-|  |  | saját tőke csorbítása bűntette | 298/B. § |
-|  |  | bennfentes kereskedelem bűntette | 299/A. § |
-|  |  | tőkebefektetési csalás bűntette | 299/B. § |
-|  |  | piramisjáték szerezése bűntette | 299/C. § |
-|  |  | költségvetési csalás | 310. § |
-|  |  | 2011. december 31-ig hatályban volt adócsalás vétsége és bűntette |  |
-|  |  | 2011. december 31-ig hatályban volt munkáltatással összefüggésben |  |
-|  |  | elkövetett adócsalás vétsége és bűntette |  |
-|  |  | 2011. december 31-ig hatályban volt csempészet vétsége és bűntette |  |
-|  |  | 2011. december 31-ig hatályban volt Európai Közösségek pénzügyi |  |
-|  |  | érdekeinek megsértése vétsége és bűntette |  |
-|  |  | sikkasztás vétsége és bűntette | 317. § |
-|  |  | csalás vétsége és bűntette | 318. § |
-|  |  | hűtlen kezelés vétsége és bűntette | 319. § |
-| 9 | zsarolás és védelmi pénz szedése | önbíráskodás bűntette zsarolás bűntette | 273. § 323. § |
-| 10 | iparjogvédelmi jog megsértése és termékhamisítás | szerzői vagy szerzői joghoz kapcsolódó jogok megsértése vétsége és bűntette szerzői vagy szerzői joghoz kapcsolódó jogok védelmét biztosító műszaki intézkedés kijátszása vétsége és bűntette jogkezelési adat meghamisítása vétsége iparjogvédelmi jogok megsértése vétsége és bűntette árú hamis megjelölése bűntette | 329/A. § 329/B. § (1)–(3) bekezdés 329/C. § 329/D. § 296. § |
-| 11 | hivatalos okmányok hamisítása és hamisított okirattal való kereskedés | közokirat-hamisítás vétsége és bűntette hivatalos személy által elkövetett közokirat-hamisítás bűntette visszaélés okirattal vétsége egyedi azonosító jel meghamisítása bűntette jövedékkel visszaélés elősegítésének vétsége és bűntette egyes esetei (előállít, forgalomba hoz) | 274. § 275. § 277. § (1) bekezdés 277/A. § 311/B. § |
-| 12 | pénz és más fizetőeszközök hamisítása | pénzhamisítás bűntette pénzhamisítás elősegítése vétsége hamis pénz kiadása vétsége és bűntette bélyeghamisítás bűntette készpénz-helyettesítő fizetési eszköz hamisítása vétsége készpénz-helyettesítő fizetési eszköz hamisítás elősegítése vétsége | 304. § 304/A. § 306. § 307–308. § 313/B. § 313/D–313/E. § |
-| 13 | számítógépes bűnözés | számítástechnikai rendszer és adatok elleni bűncselekmény vétsége és bűntette számítástechnikai rendszer védelmét biztosító technikai intézkedés kijátszása vétsége | 300/C. § 300/E. § (1) és (2) bekezdés |
-| 14 | korrupció | vesztegetés vétsége és bűntette vesztegetés feljelentésének elmulasztása bűntette befolyással üzérkedés bűntette közérdekű bejelentő üldözése vétsége vesztegetés nemzetközi kapcsolatban vétsége és bűntette befolyással üzérkedés nemzetközi kapcsolatban bűntette vesztegetés feljelentésének elmulasztása nemzetközi kapcsolatban bűntette | 250–255/A. § 255/B. § 256. § 257. § 258/B–258/D. § 258/E. § 258/F. § |
-| 15 | fegyverek, lőszerek és robbanóanyagok tiltott kereskedelme | nemzetközi gazdasági tilalom megszegése bűntette (lőfegyver, lőszer, robbanóanyag, robbantószer, ezek felhasználására szolgáló készülék, egyéb katonai célú felhasználásra szánt termék) visszaélés robbanóanyaggal vagy robbantószerrel bűntette visszaélés lőfegyverrel és lőszerrel bűntette visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel bűntette visszaélés nemzetközi szerződés által tiltott fegyverrel vétsége és bűntette | 261/A. § (3) bekezdés a) pont 263. § 263/A. § 263/B. § (1)–(4) bekezdés 264/C. § (1)–(4) és (7) bekezdés |
-| 16 | veszélyeztetett állatfajok tiltott kereskedelme | természetkárosítás bűntette | 281. § (1)–(4) bekezdés |
-| 17 | veszélyeztetett növényfajok és fajták tiltott kereskedelme | természetkárosítás bűntette | 281. § (1)–(4) bekezdés |
-| 18 | környezettel kapcsolatos bűncselekmények | állatkínzás vétsége és bűntette környezetkárosítás vétsége és bűntette természetkárosítás bűntette a hulladékgazdálkodás rendjének megsértése vétsége és bűntette | 266/B. § 280. § (1)–(3) bekezdés 281. § (1)–(4) bekezdés 281/A. § (1)–(3) bekezdés |
-| 19 | hormontartalmú anyagok és más, növekedésserkentők tiltott kereskedelme |  |  |
-| 20 | terrorizmus | terrorcselekmény bűntette légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése bűntette | 261. § [kivéve a (3), a (6) és a (9) bekezdést] 262. § (1)–(3) bekezdés |
-| 21 | emberkereskedelem, embercsempészet | emberkereskedelem bűntette beutazási és tartózkodási tilalom megsértése vétsége jogellenes belföldi tartózkodás elősegítése vétsége embercsempészés bűntette | 175/B. § 214. § 214/A. § 218. § (1)–(4) bekezdés |
-| 22 | tiltott kábítószer-kereskedelem | visszaélés kábítószerrel bűntette | 282. § (2) bekezdés a) és b) pont, 282. § (3) bekezdés a) és b) pontja (amennyiben a cselekményt jelentős mennyiségű kábítószer termesztése, előállítása céljából követik el) 282/A. § (1)–(5) bekezdés 282/B. § (2) bekezdés a)–c) pontok 282/B. § (3) bekezdés a)–b) pontok, 282/B. § (4) bekezdés (amennyiben a bűncselekményt jelentős mennyiségű kábítószer előállítása, termesztése, forgalomba hozatala vagy kereskedelme céljából követik el) 282/B. § (6) bekezdés 282/C. § (2)–(4) bekezdés |
-| 23 | nukleáris és radioaktív anyagokkal kapcsolatos bűncselekmények | visszaélés radioaktív anyaggal vétsége és bűntette visszaélés nukleáris létesítmény üzemeltetésével bűntette visszaélés atomenergia alkalmazásával bűntette | 264. § 264/A. § 264/B. § |
-| 24 | pénzmosási tevékenységek | pénzmosás vétsége és bűntette pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása vétsége | 303–303/A. § 303/B. § |
-| 25 | gépjárművekkel kapcsolatos bűncselekmények | a gépjárműre vagy gépjárművekre elkövetett a) lopás vétsége és bűntette b) sikkasztás vétsége és bűntette c) csalás vétsége és bűntette d) orgazdaság vétsége és bűntette e) hitelsértés vétsége f) jármű önkényes elvétele bűntette | 316. § 317. § 318. § 326. § 330. § 327. § |
