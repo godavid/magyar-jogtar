@@ -1,0 +1,200 @@
+# 1991. évi XVI. törvény
+
+a koncesszióról
+
+A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajdon hatékony működtetésének, valamint a kizárólagosan az állam vagy az önkormányzat hatáskörébe utalt tevékenységek gyakorlásának egyik lehetséges útja mindezek koncessziós szerződés alapján való átengedése. E jogintézmény megteremtése érdekében az Országgyűlés a következő törvényt alkotja:
+
+### Általános rendelkezések
+
+1. § (1) Ez a törvény állapítja meg
+
+- a) az országos közutak és műtárgyaik, a csatornák, valamint a regionális közműrendszerek,
+- b)
+- c)
+- d) az önkormányzati törzsvagyon részét képező helyi közutak és műtárgyaik, továbbá a helyi közművek működtetése, valamint
+- e) a bányászati kutatás és kitermelés, valamint az ezzel összefüggő bányászati melléktevékenységek,
+- f) a csővezetékes termékszállítás és tárolás,
+- g) a hasadó és sugárzó anyagok előállítása és forgalmazása,
+- h)
+- i) a szerencsejátékok szervezésére és működtetésére irányuló tevékenység,
+- j)
+- k)
+- l)
+- m)
+- n)
+
+koncessziós szerződés keretében történő átengedésének alapvető szabályait. Az egyes tevékenységek folytatásának módját, részletes feltételeit meghatározó ágazati törvények (a továbbiakban: ágazati törvény) csak e törvény keretei között rendelkezhetnek.
+
+(2) Az ágazati törvény az (1) bekezdésben felsorolt tevékenységi körök, mint gyűjtőfogalmak keretein belül egyes tevékenységtípusok folytatását koncessziós pályázat kiírása, illetőleg koncessziós szerződés megkötése nélkül is lehetővé tehet (liberalizált tevékenységek).
+
+2. § (1) Az 1. §-ban felsorolt tevékenységek folytatásának feltétele, hogy
+
+- a) az állam vagy az önkormányzat, illetve az önkormányzati társulás (az utóbbi kettő a továbbiakban együtt: önkormányzat) – a 14. §-ban foglaltak figyelembevételével – a tevékenységet folytató gazdálkodó szervezetben [Ptk. 685. § c) pont] többségi tulajdoni részesedéssel, szavazati joggal rendelkezzen, illetve e célra költségvetési, illetőleg önkormányzati intézményt alapítson, vagy
+- b) az állam, illetőleg az önkormányzat a tevékenység gyakorlásának időleges jogát koncessziós szerződésben átengedje.
+
+(2)
+
+3. § (1) Az állam, illetőleg az önkormányzat a 2. § b) pont szerinti koncessziós szerződést a belföldi és külföldi természetes, és jogi személyekkel, valamint ezek jogi személyiség nélküli társaságaival kötheti meg.
+
+(2) A devizajogszabályok szerint külföldinek minősülő természetes és jogi személyek, valamint ezek jogi személyiséggel nem rendelkező társaságai a belföldiekkel azonos feltételekkel és eséllyel köthetnek koncessziós szerződést.
+
+3/A. § (1) Ha a közbeszerzésekről szóló törvény (Kbt.) szerinti építési koncesszió egyben e törvény hatálya alá is tartozik, e törvényt a Kbt.-ben meghatározott eltérésekkel kell alkalmazni.
+
+(2) Ha a Kbt. szerinti szolgáltatási koncesszió egyben e törvény hatálya alá is tartozik, e törvény szerint kell eljárni azzal, hogy a Kbt. nemzeti elbánásra vonatkozó követelményét az e törvény szerinti eljárás során is alkalmazni kell.
+
+### A koncessziós pályázat
+
+4. § (1) A koncessziós szerződés megkötésére — a 12. § (2) bekezdésében foglaltak kivételével — az állam, illetőleg az önkormányzat pályázatot köteles kiírni. A pályázatok — kivéve ha a honvédelmi, illetőleg a nemzetbiztonsági érdekek a pályázat zártkörű kiírását teszik szükségessé — nyilvánosak. Ennek során a versenytárgyalásról szóló 1987. évi 19. törvényerejű rendeletet nem kell alkalmazni.
+
+(2) A zártkörű pályázat kiírását szükségessé tevő honvédelmi, illetőleg nemzetbiztonsági érdekekről az illetékes miniszter az Országgyűlés illetékes bizottságai véleményének meghallgatása után dönt.
+
+5. § (1) Az állam nevében a pályázat kiírására, elbírálására és a koncessziós szerződés megkötésére – az állami vagyon felügyeletéért felelős miniszter egyetértésével – a tevékenység tárgya szerint illetékes ágazati miniszter jogosult.
+
+(2) Abban az esetben, ha a pályázati kiírás olyan tevékenység gyakorlására vonatkozó jogosultság átengedésére irányul, mely az önkormányzat törvényben előírt kötelezettségének teljesítésére közvetlenül hatással van, a pályázat kiírásához az érintett önkormányzat egyetértése szükséges. Ha a pályázat kiírása az önkormányzatot egyébként megillető jogok gyakorlását, illetve egyéb feladat teljesítését érinti, a pályázati kiírás közzététele előtt az érdekelt önkormányzat véleményét ki kell kérni.
+
+6. § Az önkormányzat nevében a pályázat kiírására és annak elbírálására a képviselőtestület jogosult. E hatáskörét nem ruházhatja át. A koncessziós szerződés aláírására az önkormányzat nevében a polgármester jogosult.
+
+7. § Az 5—6. §-ban meghatározott személy, illetőleg szerv az 1. § (1) bekezdés szerinti tevékenység (a továbbiakban: koncesszió-köteles tevékenység) gyakorlásával összefüggésben szükséges hatósági engedély megadásának feltételeit az illetékes államigazgatási szervvel a pályázat kiírása előtt egyeztetni köteles.
+
+7/A. § Az 1. § (1) bekezdésének a), c), d), f) és j)—m) pontjaiban meghatározott koncesszióköteles tevékenységek gyakorlására vonatkozó jogosultság — koncessziós szerződéssel történő — átengedésére irányuló pályázat kiírása előtt ki kell kérni az illetékes gazdasági kamara véleményét is.
+
+8. § (1) A nyilvános pályázati felhívást legalább két országos napilapban, illetőleg az önkormányzati pályázatot a helyi napilapban is meg kell hirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napját legalább harminc nappal megelőzően. Zártkörű pályázat esetén az érdekelteket egyidejűleg, közvetlenül kell a pályázatra felhívni.
+
+(2) A pályázati kiírásnak tartalmaznia kell a pályázat elbírálásának szempontjait, továbbá a koncesszió-köteles tevékenység
+
+- a) és az azzal szervesen összefüggő egyéb tevékenységek felsorolását,
+- b) átengedésének időtartamát,
+- c) gyakorlására meghatározott földrajzi-közigazgatási egységet,
+- d) gyakorlásának jogi, pénzügyi feltételeit,
+- e) a koncessziós szerződés idő előtti megszűnésének feltételeit,
+- f) az arra vonatkozó tájékoztatást, hogy a koncessziós szerződésben foglaltak betartásának ellenőrzése kapcsán az államot (önkormányzatot) milyen jogosítványok illetik meg,
+- g) az arra vonatkozó tájékoztatást, hogy a pályázat kiírásának időpontjában a koncesszió-köteles tevékenység folytatására a pályázat által érintett területen ki rendelkezik jogosítvánnyal, illetőleg, hogy a koncessziós szerződés időtartama alatt a pályázat kiírója más gazdálkodó szervezet számára lehetővé kívánja-e tenni a koncesszió-köteles tevékenység gyakorlását.
+
+(3) A pályázati kiírásnak szükség esetén tartalmaznia kell:
+
+- a) a tevékenység folytatására vonatkozó, az egyes jogszabályokban, szabványokban foglaltakat meghaladó, illetőleg attól eltérő szakmai feltételeket (pl. környezetvédelem, egészségvédelem),
+- b)
+- c) a koncessziós díj legkisebb összegét,
+- d) ha a koncesszió-köteles tevékenység folytatásához kizárólagos állami tulajdon (önkormányzati törzsvagyon) birtokba adása szükséges, úgy az annak átadására, illetőleg visszaszolgáltatására vonatkozó szabályokat, biztosítékokat,
+- e) az arra vonatkozó tájékoztatást, hogy a koncessziós szerződés létrejöttéhez ágazati törvény az Országgyűlés jóváhagyását előírja,
+- f) a koncesszióba adott tevékenység árképzési szabályait, ideértve az ár, díj meghatározásának és változtatásának elveit és módszereit,
+- g) egyéb, a pályázat kiírója által szükségesnek tartott információkat.
+
+9. § A pályázatok benyújtására nyitva álló időtartam nem lehet kevesebb hatvan napnál. Az állam, illetőleg az önkormányzat nevében eljáró személy, illetve szerv a beérkezett pályázatokat – ha az ágazati törvény ennél rövidebb határidőt nem állapít meg – a pályázatok benyújtására előírt időtartam lejártát követő kilencven napon belül köteles elbírálni.
+
+9/A. § (1) A pályázatok elbírálásáról a döntést hozónak emlékeztetőt kell készítenie. Az emlékeztetőnek az alábbi – a pályázat elbírálása szempontjából lényeges – körülményeket kell tartalmaznia:
+
+- a) a beérkezett pályázatok adatainak összefoglalását;
+- b) a legkedvezőbb pályázat elfogadásának részletes indokait;
+- c) a kikötött biztosítékok megfelelőségének értékelését;
+- d) ha az ágazati törvény ellenszolgáltatásként koncessziós díj fizetését írja elő, a koncessziós díj megfizetésének módjára és mértékére vonatkozó adatok ismertetését;
+- e) az államnak, illetőleg az önkormányzatnak a jogosult által fizetett koncessziós díjjal vagy más módon ellentételezett – vagyoni és vagyoni értékű (elkerült kiadások, megszerzett jogok) pozíciójára vonatkozó adatokat és számításokat – és a jogosultnak a koncesszióval érintett piacon – a koncessziós szerződés révén – előálló pozíciójának adatait és jellemzését;
+- f) a pályázat nyertesének, társaság esetén a közvetlen vagy közvetett tulajdoni részesedéssel rendelkezőnek a nyilatkozatát arról, hogy a koncesszióval érintett területen milyen tulajdoni részesedése van.
+
+(2) Az (1) bekezdésben foglaltakon felül az emlékeztetőnek tartalmaznia kell mindazt az adatot, amelyet az ágazati törvény elrendel, továbbá amelyet a koncessziós szerződésben érintett bármelyik fél szükségesnek tart.
+
+(3) Az emlékeztetőt a koncessziós szerződés megkötésétől számított 30 napon belül csatolni kell a pályázattal összefüggő iratokhoz.
+
+(4) A nyilvános pályázatok elbírálásáról készített emlékeztetőben foglaltak közérdekű adatnak minősülnek. Az ilyen emlékeztetőt bárki megtekintheti, arról – a költségek megfizetése mellett – másolatot kérhet.
+
+10. § Az ágazati törvény a pályázat lebonyolításának módjára vonatkozóan további szabályokat állapíthat meg.
+
+### Koncesszióköteles tevékenységet végző állami vagy önkormányzati tulajdonban álló gazdálkodó szervezet magántulajdonos részére történő értékesítése (privatizációja) esetén irányadó szabályok
+
+10/A. § (1) Ha a koncesszióköteles tevékenységet végző, a 2. § (1) bekezdésének a) pontjában meghatározott gazdálkodó szervezetet értékesítik magántulajdonos részére – amelynek következtében már nem felel meg a többségi állami vagy önkormányzati tulajdonra, illetve szavazati jogra vonatkozó előírásoknak – legkésőbb a privatizációs eljárás megindításával egyidejűleg koncessziós pályázatot kell lefolytatni a koncesszióköteles tevékenység átengedésére. A koncessziós eljárásra, az e §-ban foglalt eltérésekkel, e törvényben foglalt rendelkezéseket kell alkalmazni.
+
+(2) Az (1) bekezdés szerinti esetben a pályázati kiírásnak a 8. § (2) bekezdésében meghatározottakon túl tartalmaznia kell, hogy a pályázónak az (1) bekezdés szerinti gazdálkodó szervezet értékesítésére kiírt privatizációs eljárásban ajánlatot kell benyújtania.
+
+(3) A pályázatok elbírálására a 9. §-ban előírt határidő az (1) bekezdés szerinti gazdálkodó szervezet értékesítésére kiírt privatizációs eljárás lefolytatásához szükséges időtartammal meghosszabbodik.
+
+(4) A koncessziós pályázatok elbírálása során a pályázat elbírálására jogosult csak azt vizsgálhatja, hogy a benyújtott pályázatok megfelelnek-e a törvényben és a kiírásban meghatározott feltételeknek, ugyanakkor nyertest nem hirdethet.
+
+(5) A koncessziós pályázat, valamint az (1) bekezdés szerinti gazdálkodó szervezet értékesítésére kiírt privatizációs eljárás eredménye tekintetében a koncessziós pályázat kiírója – a privatizációs pályázat kiírójával egyetértésben – kizárólag egyetlen nyertest hirdethet. A koncessziós pályázat és a privatizációs eljárás nyertese az, aki a koncessziós és a privatizációs pályázat feltételeinek megfelel, és egyben az állam vagy az önkormányzat számára összességében a legkedvezőbb ajánlatot tette.
+
+(6) A nyertes személy az ágazati törvényben meghatározott koncessziós időszak végéig gyakorolhatja a jogszabályokban biztosított jogait oly módon, hogy a privatizáció során megszerzett társaság minősül koncessziós társaságnak. A társaságra a 26. § rendelkezéseit nem kell alkalmazni.
+
+### A koncessziós szerződés
+
+11. § Az állam, illetőleg az önkormányzat nevében eljáró személy, illetve szerv csak azzal a pályázóval köthet szerződést, aki a pályázatot megnyerte. A pályázat nyertese az, aki összességében az állam, illetőleg az önkormányzat számára a kiírásnak megfelelő legkedvezőbb ajánlatot tette.
+
+12. § (1) A koncessziós szerződés határozott időtartamra köthető, melynek leghosszabb ideje harmincöt év.
+
+(2) Az ágazati törvény megengedheti külön pályázat kiírása nélkül a koncessziós szerződés egy alkalommal — eredeti időtartamának legfeljebb felével — történő meghosszabbítását.
+
+(3) A koncessziós szerződést a kikötött időpont előtt csak a 17. § (2) bekezdésben, a 20. § (1) bekezdésben és a 21. § (3) bekezdésben meghatározott esetben, valamint a szerződésben előre rögzített feltételek bekövetkezésekor lehet felmondani.
+
+(4)
+
+13. § (1) A koncesszió-köteles tevékenység gyakorlásának átengedéséről a felek visszterhes szerződésben rendelkezhetnek.
+
+(2) Ha az ágazati törvény ellenszolgáltatásként koncessziós díj fizetését írja elő, úgy annak csak legkisebb összegét határozhatja meg. A koncessziós díj megfizetésének módjáról és mértékéről a koncessziós szerződésben kell rendelkezni.
+
+(3) Az állam által kötött koncessziós szerződésből származó koncessziós díjat elkülönítetten kell nyilvántartani; felhasználásáról az Országgyűlés az éves költségvetési törvény elfogadása során határoz.
+
+14. § Az állam, illetőleg az önkormányzat a jogosultnak a koncessziós díjjal vagy más módon ellentételezett vagyoni értékű pozícióját (kizárólagosság), annak beleegyezése nélkül a koncessziós szerződés időtartama alatt a szerződésben meghatározott földrajzi-közigazgatási egységen belül számára hátrányos módon csak abban az esetben változtathatja meg, ha erre vonatkozóan a felek a koncessziós szerződésben megállapodtak.
+
+15. § (1) Abban az esetben, ha a koncesszió-köteles tevékenység kizárólagos állami tulajdonhoz vagy az önkormányzati törzsvagyonhoz tartozó vagyontárgyhoz kapcsolódik, a koncessziós szerződés megkötése e vagyontárgy tulajdonjogában változást nem eredményez. Az ágazati törvény a bányászati koncessziós szerződés alapján kitermelt természeti kincs feletti tulajdonjog vonatkozásában ettől eltérő rendelkezést állapíthat meg.
+
+(2) A koncesszió-köteles tevékenységgel összefüggésben létrejött kizárólagos állami tulajdonnak vagy önkormányzati törzsvagyonnak minősülő vagyontárgy az üzembehelyezés időpontjával kerül az állam, illetőleg az önkormányzat tulajdonába a koncessziós szerződésben rögzített feltételek szerint.
+
+16. § (1) A koncessziós szerződésből eredő jogviták elbírálására — ha nemzetközi szerződés vagy a (2) bekezdésben meghatározott esetben a koncessziós szerződés másként nem rendelkezik — az általános hatáskörrel és illetékességgel rendelkező bíróság jogosult.
+
+(2) A devizajogszabályok szerint külföldinek minősülővel kötött koncessziós szerződésből eredő jogviták elbírálása során — a felek ilyen megállapodása esetén — nemzetközi választottbíróság is eljárhat.
+
+17. § (1) A koncesszió-köteles tevékenység folytatására kiírt pályázat nyertesének a koncessziós szerződésben kötelezettséget kell vállalnia arra vonatkozólag, hogy a pályázati kiírás alapján a koncessziós szerződésben rögzített követelményeket az általa alapított gazdasági társaság alapító okiratában érvényesíteni fogja.
+
+(2) Ha ezt a kötelezettségét elmulasztja, a koncessziós szerződés azonnali hatályú felmondásának van helye.
+
+18. § Az ágazati törvény az állam által kötendő egyes koncessziós szerződések létrejöttéhez az Országgyűlés jóváhagyását írhatja elő. Amennyiben a koncessziós szerződés aláírásától számított, kilencven napon belül azt az Országgyűlés nem hagyja jóvá, úgy a jogosult nyilatkozati kötöttségétől szabadul.
+
+19. § (1) Ha e törvény másképp nem rendelkezik, a koncessziós szerződésre a Polgári Törvénykönyv rendelkezéseit kell alkalmazni.
+
+(2) A koncessziós szerződés azon tartalmi elemei, amelyek a nyilvános koncessziós pályázat kiírásának részét képezték, közérdekű adatnak minősülnek.
+
+(3) A koncessziós szerződések megkötésével és teljesítésével kapcsolatban nem lehet üzleti titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó, külön törvényben meghatározott adatszolgáltatási és tájékoztatási kötelezettség esetén.
+
+### A koncessziós társaság
+
+20. § (1) A koncesszió-köteles tevékenység folytatására — ha ágazati törvény eltérően nem rendelkezik — a koncessziós szerződést aláírónak az aláírástól számított kilencven napon belül saját részvételével belföldi székhelyű gazdasági társaságot (a továbbiakban: koncessziós társaság) kell alapítania. A határidő elmulasztása esetén az állam, illetve az önkormányzat a koncessziós szerződést felmondhatja.
+
+(2) Ha ágazati törvény a koncessziós szerződés létrejöttéhez az Országgyűlés jóváhagyását írja elő, úgy az (1) bekezdésben előírt határidő a jóváhagyás napján kezdődik.
+
+21. § (1) Ha a koncesszió-köteles tevékenység folytatását külön jogszabály hatósági engedélyhez köti, a koncessziós társaság tevékenységét csak ennek birtokában folytathatja. Semmis a koncessziós szerződésben foglalt azon kikötés, mely szerint az állam, illetőleg az önkormányzat nevében aláíró személy, illetve szerv a hatósági engedély kiadására előzetesen kötelezettséget vállal.
+
+(2) A hatósági engedély visszavonása, illetőleg az illetékes államigazgatási szervnek a jogellenes állapot megszüntetéséig a koncesszió-köteles tevékenység folytatását megtiltó határozata a koncessziós szerződést nem teszi érvénytelenné.
+
+(3) Ha a koncessziós társaság a koncessziós szerződés megkötésétől, illetőleg a hatósági engedély visszavonásáról rendelkező, valamint a tevékenység gyakorlását megtiltó határozat közlésétől számított hat hónapon belül nem válik a tevékenység gyakorlására jogosulttá, az állam, illetőleg az önkormányzat nevében eljáró személy, illetve szerv a koncessziós szerződést felmondhatja.
+
+22. § A koncessziós társaság a koncesszió-köteles tevékenységen kívül kizárólag azzal szervesen összefüggő — az ágazati törvényben, illetőleg az önkormányzat döntésében meghatározott — tevékenységek gyakorlására jogosult.
+
+23. § (1) A koncessziós szerződés időtartama alatt a koncessziós társaság jogosult a kizárólagos állami tulajdonhoz, illetőleg önkormányzati törzsvagyonhoz tartozó egyes vagyontárgyak birtoklására, használatára és hasznok szedésére.
+
+(2) A koncessziós társaság a birtokába adott kizárólagos állami tulajdonnak, illetőleg önkormányzati törzsvagyonnak minősülő vagyontárgyra vonatkozó használati jogát nem idegenítheti el, valamint azt nem pénzbeni hozzájárulásként más gazdasági társaságba nem viheti be.
+
+24. § A koncesszió-köteles tevékenységgel összefüggésben létrejött kizárólagos állami tulajdonnak, illetőleg önkormányzati törzsvagyonnak minősülő vagyontárgy rendeltetésszerű használatát elősegítő vagyontárgyak (létesítmények) elkészültük (üzembehelyezésük) után — ha a koncessziós szerződés eltérően nem rendelkezett — a koncessziós társaság tulajdonába kerülnek.
+
+25. § A koncessziós társaság a koncesszió-köteles tevékenység gyakorlásának jogát az állam, illetőleg az önkormányzat hozzájárulása nélkül másra nem ruházhatja át, valamint azt más gazdasági társaságba nem pénzbeni hozzájárulásként nem viheti be.
+
+26. § (1) A koncessziós szerződésben meghatározott időtartam lejártakor vagy a koncessziós szerződésnek más okból történt megszűnése esetén [12. § (3) bek.], legkésőbb az azt megállapító jogerős bírósági határozat közlésétől számított harminc napon belül a koncessziós társaság tagjai (részvényesei) kötelesek a végelszámolást lefolytatni.
+
+(2) Ha a koncessziós társaság tagjai (részvényesei) az (1) bekezdésben foglaltak teljesítését elmulasztják, úgy a cégbíróság hivatalból intézkedik a jogutód nélküli megszűnés jogkövetkezményeinek érvényesítéséről.
+
+(3) A koncessziós társaság megszüntetése esetén a tagok (részvényesek) részére az őket megillető vagyonmaradványt csak abban az esetben lehet kiszolgáltatni (kifizetni), ha az állam, illetőleg az önkormányzat nevében eljáró szerv az állam, illetőleg az önkormányzat tulajdonában levő vagyontárgyak rendeltetésszerű állapotban történt átadását igazolta, kivéve, ha a kizárólagos állami tulajdonhoz, illetőleg önkormányzati törzsvagyonhoz tartozó vagyontárgy üzembehelyezésére ezen időpontig nem került sor.
+
+27. § (1) A koncessziós társaság fizetésképtelenség miatt történő felszámolása – a (2) bekezdésben foglaltak kivételével – a koncessziós szerződés megszűnését is jelenti.
+
+(2) A koncessziós szerződésben a felek úgy is megállapodhatnak, hogy a szerződésben kikötött idő még hátralevő tartamára újabb koncessziós társaság alapítható.
+
+28. § Ha a koncessziós társaságot bíróság felszámolási eljárás során megszünteti, az állam, illetőleg az önkormányzat által a társaság használatába adott vagyontárgyak a hitelezői követelések kielégítésének fedezetéül nem szolgálhatnak, azt a felszámoló köteles az állam, illetőleg az önkormányzat részére kiszolgáltatni. A felszámolási vagyon értékesítése során az államot, illetőleg az önkormányzatot a 24. § szerinti vagyon vonatkozásában elővásárlási jog illeti meg.
+
+29. § (1) E törvény a kihirdetése napján lép hatályba.
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6) E törvény hatályba lépését megelőzően engedélyezett koncessziós vagy koncessziós jellegű tevékenységet a törvény hatályba lépésekor folytató személyek vagy szervezetek — amennyiben az ágazati törvény másként nem rendelkezik — változatlan feltételekkel folytathatják.
