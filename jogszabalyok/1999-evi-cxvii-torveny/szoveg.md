@@ -838,13 +838,15 @@ Kilépés–Exit–Sortie
 
 Belépés–Entry–Entrée''
 
-3. § (1) A Megállapodás VIII. Cikk 2. pont f) alpontjában meghatározott, a kártérítési igényről történő kötelező lemondás alapjául szolgáló kárérték összege, az Észak-atlanti Tanács határozatának megfelelően:
+3. § (1) A Megállapodás VIII. Cikke 2. pontjának f) alpontjában meghatározott, a kártérítési igényről történő kötelező lemondás alapjául szolgáló kárérték összege, az Észak-atlanti Tanács határozatának megfelelően:
 
-- a) Magyarország esetében 176 300 forint
-- b) a Cseh Köztársaság esetében 25 500 cseh korona
-- c) a Lengyel Köztársaság esetében 2 900 lengyel zloty.
+– a Magyar Köztársaság esetében 176 300 forint
 
-(2) Mindazon esetekben, amikor jogszabály a Megállapodás alkalmazását rendeli, Magyarország tekintetében az (1) bekezdés szerinti összeg irányadó.
+– a Cseh Köztársaság esetében 25 500 cseh korona
+
+– a Lengyel Köztársaság esetében 2 900 lengyel zloty.
+
+(2) Mindazon esetekben, amikor jogszabály a Megállapodás alkalmazását rendeli, a Magyar Köztársaság tekintetében az (1) bekezdés szerinti összeg irányadó.
 
 4–7. §
 
@@ -866,12 +868,12 @@ Belépés–Entry–Entrée''
 
 rendeletben állapítsa meg.
 
-14. § Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a honvédelemért felelős miniszter egyetértésével kiadott rendeletben határozza meg
+14. § Felhatalmazást kap az adópolitikáért felelős miniszter és a honvédelemért felelős miniszter arra, hogy együttes rendeletben határozza meg
 
 - a) a – vámeljárások során alkalmazandó – NATO okmányok körét, alkalmazásuk és kiadmányozásuk eljárási szabályait,
 - b) az Észak-atlanti Szerződés tagállamainak és az 1995. évi LXVII. törvényben kihirdetett Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői és polgári állománya részére történő e törvény 7. §-ában foglalt termékértékesítés általános forgalmi adó alóli mentességének részletes feltételeit és eljárási szabályait.
 
-15. §
+15. § A Megállapodás, valamint az 1995. évi CII. törvénnyel kihirdetett, az Észak-atlanti Szerződés részes államai és a ,,Békepartnerség'' más részt vevő államai közötti, fegyveres erőik jogállásáról szóló Megállapodás és annak Kiegészítő Jegyzőkönyve végrehajtásáról a Kormány minden év április 30-áig tesz jelentést az Országgyűlés külügyekkel és honvédelemmel foglalkozó bizottságainak.
 
 16. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetése napján lép hatályba.
 
