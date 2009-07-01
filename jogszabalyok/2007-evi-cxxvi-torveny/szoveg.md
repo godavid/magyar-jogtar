@@ -4791,20 +4791,22 @@ A termékdíjból befolyt összeg felhasználása”
 - b) egyéni vállalkozó: a Tbj. 4. §-ának b) pontja szerinti személy,
 - c) biztosított: a Tbj. 5. §-a szerinti személy.
 
-355. § (1) A hatóság a foglalkoztatót, illetve az egyéni vállalkozót (a továbbiakban együtt: foglalkoztató) – az e törvény végrehajtására kiadott jogszabályokban foglaltak szerint elkészített állapotfelmérés alapján – határozatban mentesíti a korkedvezmény-biztosítási járulék megfizetése alól, ha az eljárás során megállapítja, hogy a korkedvezményre jogosító munkakörben és munkahelyen történő foglalkoztatás esetén
+355. § (1) A hatóság a foglalkoztatót, illetve az egyéni vállalkozót – kérelmére – határozatban mentesíti a korkedvezmény-biztosítási járulék megfizetése alól, ha az eljárás során megállapítja, hogy a kérelemben megjelölt munkakörben és munkahelyen történő foglalkoztatás esetén
 
 - a) a különösen nehéz fizikai munka,
 - b) a különösen terhelő klíma,
 - c) az ergonómiai kóroki tényezőknek való tartós kitétel,
 - d) a fokozott pszichés megterhelés,
-- e) a pszichoszociális kóroki tényezőknek való tartós kitétel nem áll fenn, vagy csak olyan mértékben áll fenn, amely a korkedvezményre való jogosultság megállapítását – a foglalkoztató, illetve az egyéni vállalkozó által biztosított munkafeltételekre és munkakörülményekre tekintettel – nem indokolja. A korkedvezmény-biztosítási járulék megfizetése alóli mentesítés kezdő időpontja az erről szóló határozat jogerőre emelkedésének napja.
+- e) a pszichoszociális kóroki tényezőknek való tartós kitétel
 
-(2) A foglalkoztatónak az állapotfelmérést a munkavédelemről szóló 1993. évi XCIII. törvény 54. § (3) bekezdésében előírt kötelezettségekkel együtt, de legkésőbb 2014. december 31-éig el kell végeznie, és az elkészítést követő tizenöt napon belül meg kell küldenie a hatóságnak.
+nem áll fenn, vagy csak olyan mértékben áll fenn, amely a korkedvezményre való jogosultság megállapítását – a foglalkoztató, illetve az egyéni vállalkozó által biztosított munkafeltételekre és munkakörülményekre tekintettel – nem indokolja. A korkedvezmény-biztosítási járulék megfizetése alóli mentesítés kezdő időpontja az erről szóló határozat jogerőre emelkedésének napja.
 
-(3) A foglalkoztató az állapotfelmérés benyújtásával egyidejűleg írásban tájékoztatja a hatóságot
+(2) A foglalkoztató a hatóság – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 29. §-a (3) bekezdésének b) pontja szerinti – értesítési kötelezettségének teljesítése érdekében a kérelemben feltünteti
 
-- a) a korkedvezményre jogosító munkakörben foglalkoztatott biztosítottak nevéről (családi és utónév, valamint születési név) és lakóhelyéről, tartózkodási helyéről,
-- b) a 356. § (1) bekezdése szerinti szakszervezet nevéről, székhelyéről és a szakszervezet képviselőjének nevéről.
+- a) a mentesítési kérelemmel érintett biztosítottak nevét (családi és utónevét, valamint születési nevét) és lakóhelyét, tartózkodási helyét,
+- b) a 3. § (1) bekezdése szerinti szakszervezet nevét, székhelyét, valamint a szakszervezet képviselőjének nevét.
+
+(3) A foglalkoztató köteles a jogviszony létesítését megelőzően írásban tájékoztatni az általa a mentesítési kérelemmel, illetve a mentesítéssel érintett munkakörben a kérelem benyújtását, illetve a mentesítésről szóló határozat jogerőre emelkedését követően foglalkoztatni kívánt személyt a kérelem benyújtásáról, illetve a mentesítésről.
 
 (4) A mentesítéshez szükséges feltételek fennállását – a mentesítést követően – a hatóság hivatalból ellenőrizheti. Kötelező ellenőrzést lefolytatni, ha
 
@@ -5255,7 +5257,15 @@ d) a székhely szolgáltatásra vonatkozó részletes szabályokat.”
 
 lép.
 
-418. §
+418. § 2008. január 1-jén az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló 1997. évi LXXIV. törvény 7. §-a helyébe a következő rendelkezés lép:
+
+„7. § A közteherjegy forgalmazója a közteherjegy ellenértékének forgalmazási költséggel csökkentett részét – külön jogszabályban foglaltak szerint – átutalja a kincstár által vezetett KESZ-re. A kincstár ezen összegből
+
+a) azon alkalmi munkavállaló esetében, aki nem tagja magánnyugdíjpénztárnak, 83%-ot a Nyugdíjbiztosítási Alapnak,
+
+b) magánnyugdíjpénztár tagja esetében 63%-ot a Nyugdíjbiztosítási Alapnak és 20%-ot az állami adóhatóság által megjelölt magánnyugdíjpénztárnak,
+
+továbbá 6%-ot az Egészségbiztosítási Alapnak, 11%-ot a Munkaerőpiaci Alapnak utal át.”
 
 419. § (1) E törvény kihirdetését követő nyolcadik napon a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 8/B. §-a a következő (4) bekezdéssel egészül ki:
 
@@ -5305,7 +5315,11 @@ lép.
 
 428. § E törvény hatálybalépésével egyidejűleg a Kt. 5/B. §-ában „az adóhatóságtól” szövegrész helyébe „a vámhatóságtól” szövegrész, a Kt. 5/D. § (2) bekezdésének első mondatában „az adóhatósághoz” szövegrész helyébe „a vámhatósághoz” szövegrész, a Kt. 5/D. § (2) bekezdésének második mondatában „az adóhatóságnál” szövegrész helyébe „a vámhatóságnál” szövegrész, a Kt. 5/D. § (7) bekezdésében „az adóhatóságnál” szövegrész helyébe „a vámhatóságnál” szövegrész lép.
 
-429. §
+429. § E törvény hatálybalépésével egyidejűleg a Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény 2. §-a (6) bekezdésének d) pontja helyébe a következő rendelkezés lép:
+
+[(6) A Vám- és Pénzügyőrség egyéb feladatainak ellátása keretében végzi:]
+
+„d) a közúti határátkelőhelyek üzemeltetését, a fenntartásukra és fejlesztésükre vonatkozó feladatok végrehajtását, az Európai Unió valamely tagállamával közös határszakaszon lévő, a Rendőrségnek üzemeltetésre átadott közúti határátkelőhelyek kivételével.”
 
 430. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2006. évi LXI. törvény 225. §-ának (13) bekezdése helyébe a következő rendelkezés lép:
 
@@ -5552,7 +5566,7 @@ adóév adókötelezettségére alkalmazhatja.
 
 475. § A települési önkormányzat, illetve a fővárosban a fővárosi önkormányzat a luxusadó tv. 5. §-a (3) bekezdésének utolsó mondatában foglaltaktól eltérően 2007. évben az értékövezeteket és a települési, településrészi átlagértékeket csak a 2008. évre határozza meg.
 
-476. § (1) E törvény hatálybalépésének napjától bejelentkezhetnek azok az adózók, amelyek Magyarország területén cégbejegyzéshez vagy egyéni vállalkozói igazolványhoz nem kötött általános forgalmi adó köteles tevékenységüket a bejelentkezésüket megelőzően megkezdték. A késedelmesen teljesített bevallásban levonási jogukat az adóköteles tevékenység tényleges megkezdésétől gyakorolhatják, fizetési kötelezettségüket pedig kötelesek teljesíteni.
+476. § (1) E törvény hatálybalépésének napjától bejelentkezhetnek azok az adózók, amelyek a Magyar Köztársaság területén cégbejegyzéshez, illetőleg egyéni vállalkozói igazolványhoz nem kötött általános forgalmi adó köteles tevékenységüket a bejelentkezésüket megelőzően megkezdték. A késedelmesen teljesített bevallásban levonási jogukat az adóköteles tevékenység tényleges megkezdésétől gyakorolhatják, fizetési kötelezettségüket pedig kötelesek teljesíteni.
 
 (2) Azok a cégbejegyzéshez, illetőleg egyéni vállalkozói igazolványhoz nem kötött általános forgalmi adó köteles tevékenységet folytató adózók, amelyeknek az adóhatóság tevékenységük tényleges megkezdésének időpontjára visszamenőleges hatállyal adószámot nem állapított meg, ezért levonási jogukat a bejelentkezés előtti időszakra nem gyakorolhatták, illetve fizetési kötelezettségüket nem teljesítették, önellenőrzéssel vagy bevallás benyújtásával ezt pótolhatják.
 
