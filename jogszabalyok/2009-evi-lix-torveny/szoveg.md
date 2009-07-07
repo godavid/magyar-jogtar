@@ -8,16 +8,6 @@ a Bernben, 1980. május 9-én kelt, Nemzetközi Vasúti Fuvarozási Egyezmény (
 
 2. § A RID Szabályzat módosításokkal és kiegészítésekkel egységes szerkezetbe foglalt hiteles angol nyelvű szövegét és annak hivatalos magyar nyelvű fordítását e törvény melléklete tartalmazza.
 
-2/A. § (1) A bizonyítvány kiállítása és érvényességének meghosszabbítása céljából a közlekedési hatóság nyilvántartja a veszélyes áru vasúti szállítási biztonsági tanácsadó
-
-- a) természetes személyazonosító adatait,
-- b) állampolgárságát,
-- c) veszélyes áru vasúti szállítási biztonsági tanácsadó képesítéséről szóló bizonyítványának érvényességi idejét, valamint azt, hogy a bizonyítványa mely alágazat(ok)ra, valamint veszélyességi osztály(ok)ra vonatkozik.
-
-(2) Az adatokat a bizonyítvány kiállításától számított öt évig kell megőrizni.
-
-2/B. § Felhatalmazást kap a közlekedésért felelős miniszter, hogy a veszélyes áru vasúti szállítási biztonsági tanácsadó kinevezésének és képesítésének részletes szabályait rendeletben állapítsa meg.
-
 3. § (1) Ez a törvény a kihirdetését követő 8. napon lép hatályba, egyidejűleg hatályát veszti a Bernben, 1980. május 9-én kelt, Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról szóló, Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függelék Melléklete módosításainak és kiegészítéseinek kihirdetéséről szóló 2007. évi XCI. törvény.
 
 (2) A törvény végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter gondoskodik.
