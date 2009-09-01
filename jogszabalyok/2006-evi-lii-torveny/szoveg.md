@@ -4,37 +4,33 @@ a polgárőrségről
 
 Az Országgyűlés elismeri az állampolgárok önszerveződésének eredményeként megalakult polgárőrség tevékenységét és méltányolja, hogy a polgárőrség támogatja a helyi önkormányzatokat és a helyi, területi rendvédelmi szerveket a közbiztonság helyi feladatainak végrehajtásában. Az Országgyűlés az ország közrendje, közbiztonsága és államhatárának rendje fenntartásának segítése, az állampolgárok személyét és a vagyoni javakat fenyegető bűncselekmények, katasztrófa-, illetve veszélyhelyzetek megelőzése és következményeinek elhárítása, a környezet és a természet védelme, valamint az ez irányú közfeladatok ellátásához szükséges szervezetek és az abban közreműködő személyek jogállásának meghatározása érdekében a következő törvényt alkotja:
 
-1. § (1) A polgárőrség e törvény alkalmazásában az ország közrendje és közbiztonsága fenntartásának segítésében, a határőrizetben, a környezet- és természetvédelemben, a veszélyhelyzetek megelőzésében és kezelésében, a társadalmi bűnmegelőzésben való lakossági részvételben, illetve az önkormányzatok és a lakosság közötti bizalom erősítésében, továbbá a helyi közbiztonság közösségi védelme érdekében a lakosok közösségei által meghatározott feladatok ellátásában közreműködő, az egyesülési jog alapján létrejött egyesület, illetve ilyen szervezetek szövetsége.
+1. § (1) A polgárőrség e törvény alkalmazásában az ország közrendje és közbiztonsága fenntartásának segítésében, a határőrizetben, a környezet- és természetvédelemben, a veszélyhelyzetek megelőzésében és kezelésében, a társadalmi bűnmegelőzésben való lakossági részvételben, illetve az önkormányzatok és a lakosság közötti bizalom erősítésében, továbbá a helyi közbiztonság közösségi védelme érdekében a lakosok közösségei által meghatározott feladatok ellátásában közreműködő, az egyesülési jog alapján létrejött társadalmi szervezet, illetve ilyen szervezetek szövetsége.
 
-(2) A polgárőr a Büntető Törvénykönyvben meghatározottak szerint, tevékenysége ellátása során közfeladatot ellátó személy, aki önként vállalja a polgárőrség tevékenységében való közreműködést. Polgárőr nagykorú, büntetlen előéletű személy lehet.
+(2) A polgárőr e törvény alkalmazásában a helyi polgárőr szervezet tagja, a Büntető Törvénykönyvben meghatározottak szerint – tevékenysége ellátása során – közfeladatot ellátó személy, aki önként vállalja a polgárőrség tevékenységében való közreműködést.
 
-2. § (1) A polgárőrség a tevékenységét csak a rendőrséggel kötött írásbeli együttműködési megállapodás alapján kezdheti meg és végezheti.
+2. § (1) A polgárőrség tevékenysége során kölcsönösen együttműködik a helyi önkormányzatokkal, az állami és önkormányzati szervezetekkel, a rendőrség, a katasztrófavédelem, illetve a vám- és pénzügyőrség szerveivel, a környezet- és természetvédelmi szervezetekkel, a hivatásos önkormányzati és az önkéntes tűzoltóságokkal, a mezei- és természetvédelmi őrszolgálattal, valamint a Személy-, Vagyonvédelmi és Magánnyomozói Szakmai Kamarával.
 
-(2) A polgárőrség tevékenysége során – az (1) bekezdésben meghatározottakon túl – köteles együttműködni a helyi önkormányzatokkal, az állami és önkormányzati szervekkel, a hivatásos katasztrófavédelmi szervvel, a Nemzeti Adó- és Vámhivatal vámszervével, a környezet- és természetvédelmi szervekkel, a hivatásos és az önkormányzati tűzoltóságokkal, a mezei- és természetvédelmi őrszolgálattal, a közterület-felügyelettel, az erdészeti szakszemélyzettel. Az együttműködés tartalmát a felek írásbeli együttműködési megállapodásban rögzíthetik.
+(2) Az együttműködés különösen a tevékenységek közös ellátását, a szakmai tevékenység segítését, a kölcsönös tájékoztatást, a tevékenység összehangolását, valamint a képzési programokban való részvétel elősegítését jelenti.
 
-(3) Az együttműködés különösen a tevékenységek közös ellátását, a szakmai tevékenység segítését, a kölcsönös tájékoztatást, a tevékenység összehangolását, valamint a képzési programokban való részvétel elősegítését jelenti. A rendőrséggel kötött írásbeli együttműködési megállapodás tartalmazza a közös feladatok ellátásának rendjét, valamint a polgárőrség tevékenysége ellátásáról, annak körülményeiről a rendőrségnek nyújtandó tájékoztatás módját és tartalmát is.
+(3) Az együttműködő szervekkel történő közös feladat- vagy szolgálatellátás esetén a polgárőr tevékenysége különösen a felvilágosításra, tájékoztatásra, meghatározott eseményen részvételre, helyszínen való tartózkodásra, ott a rend fenntartásában való közreműködésre, objektum, közterület vagy esemény megfigyelésére, továbbá az eljáró szerv tevékenységének támogatására és segítésére terjedhet ki.
 
-(4) Az együttműködő szervekkel történő közös feladat- vagy szolgálatellátás esetén a polgárőr tevékenysége különösen a felvilágosításra, tájékoztatásra, meghatározott eseményen részvételre, helyszínen való tartózkodásra, ott a rend fenntartásában való közreműködésre, objektum, közterület vagy esemény megfigyelésére, továbbá az eljáró szerv tevékenységének támogatására és segítésére terjedhet ki.
+(4) Az együttműködés tartalmi elemeit, a közös feladatok ellátásának rendjét a felek írásbeli együttműködési megállapodásban rögzíthetik.
 
-2/A. § (1) A polgárőr kizárólag helyi polgárőr szervezet tagjaként járhat el. A polgárőr e minőségét köteles igazolni.
+(5) A rendőrség a polgárőrséggel – annak kezdeményezésére – írásbeli együttműködési megállapodást köt, ha a szervezet a 6. § (1) bekezdésében meghatározott feladatok közül legalább hármat ellát.
 
-(2) A helyi polgárőr szervezet tagja – a (4) bekezdésben foglalt kivétellel – a helyi polgárőr szervezet működési területén láthatja el az e törvényben meghatározott tevékenységét.
+(6) A polgárőrség a rendőrséggel történő együttműködés keretében tevékenysége ellátásáról, annak körülményeiről a rendőrséget rendszeresen tájékoztatja. A tájékoztatás módját és tartalmát együttműködési megállapodásban kell rögzíteni.
 
-(3) A helyi polgárőr szervezet működési területe annak a településnek, a fővárosban fővárosi kerületnek a közigazgatási területe, amelyet a helyi polgárőr szervezet székhelyeként jelölt meg.
-
-(4) A helyi polgárőr szervezet a működési területén kívül akkor járhat el, ha ezt a rendőrséggel, a katasztrófavédelemmel, a Nemzeti Adó- és Vámhivatal vámszervével, a környezet- és természetvédelmi szervekkel, a hivatásos önkormányzati és az önkéntes tűzoltóságokkal vagy a mezei és természetvédelmi őrszolgálatokkal kötött írásbeli együttműködési megállapodás rögzíti.
-
-(5) Ha a rendőrség a helyi polgárőr szervezet működési területét érintő fokozott ellenőrzést hajt végre, annak ideje alatt a helyi polgárőr szervezet a feladatainak végrehajtását és szolgálatának szervezését egyezteti a rendőrséggel.
+(7) Ha a rendőrség a polgárőrszervezet működési területét érintő fokozott ellenőrzést hajt végre, a fokozott ellenőrzés ideje alatt – a rendőrség kérésére – a polgárőrség a feladatainak végrehajtását és szolgálatának szervezését egyezteti a rendőrséggel.
 
 3. § (1) A polgárőrség és a polgárőrök tevékenységük ellátása során hatósági jogkörrel nem rendelkeznek, kényszerítő eszközt nem alkalmazhatnak.
 
-(2) A polgárőr a tevékenysége során nem viselhet olyan formaruhát, amely rendvédelmi szerv vagy más hatóság tagjának egyenruhájához való hasonlósága miatt megtévesztésre alkalmas vagy amelynek a viselése jogszabályba ütközik. A polgárőr hatósági jellegre utaló, megtévesztésre alkalmas egyéb jelzést vagy címet, rendfokozati jelzést nem használhat, gépjárművén csak a polgárőrség feliratot helyezheti el.
+(2) A polgárőr által tevékenysége során viselt formaruha a Magyar Honvédség, a rendvédelmi szervek vagy más hatóság tagjainak egyenruhájához való hasonlósága miatt megtévesztésre nem lehet alkalmas. A polgárőr hatósági jellegre utaló, megtévesztésre alkalmas egyéb jelzést vagy címet, rangjelzést nem használhat, illetve gépjárművén csak a polgárőrség feliratot helyezheti el.
 
 (3) A polgárőr tevékenysége során – a gázspray kivételével – nem tarthat magánál közbiztonságra különösen veszélyes eszközt, továbbá nem viselhet lőfegyvert.
 
 (4) A polgárőr tevékenysége során megkülönböztető mellényt köteles viselni, amely jól látható Polgárőrség felirattal van ellátva.
 
-(5) A polgárőr gázspray-t tarthat magánál és használhat.
+(5) Gázspray-t kizárólag nagykorú polgárőr tarthat magánál, és használhat.
 
 (6) A polgárőr kizárólag jogos védelmi helyzetben használhat gázspray-t. A gázspray használata esetén kerülni kell a sérülés okozását. A polgárőr a gázspray használata során megsérült személy részére – amint ez lehetséges – köteles segítséget nyújtani, szükség esetén pedig gondoskodni arról, hogy a sérültet orvos elláthassa.
 
@@ -61,7 +57,7 @@ Az Országgyűlés elismeri az állampolgárok önszerveződésének eredmények
 
 4/B. § A polgárőrség a rendőrséggel való együttműködés keretében részt vehet a körözött gépjárművek azonosításában. Az azonosított körözött gépjárművekre vonatkozó információkról a polgárőrség a rendőrséget az azonosítást követően haladéktalanul tájékoztatja.
 
-5. § A polgárőr a tevékenysége során birtokába jutott személyes adatok megismerése és adatkezelése tekintetében az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint köteles eljárni.
+5. § A polgárőr a tevékenysége során birtokába jutott személyes adatok megismerése és adatkezelése tekintetében a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény rendelkezései szerint köteles eljárni.
 
 6. § (1) A polgárőrszervezetek szövetségének tevékenységét a központi költségvetés az éves költségvetési törvényben meghatározottak szerint támogatja, feltéve, hogy a polgárőrség legalább három feladatot ellát a következők közül:
 
@@ -79,7 +75,7 @@ Az Országgyűlés elismeri az állampolgárok önszerveződésének eredmények
 
 (4) Az együttműködő szervek, különösen az önkormányzatok, a rendvédelmi, a környezet- és természetvédelmi szervek a polgárőrség működését és tevékenységét lehetőség szerint anyagi források biztosításával, technikai és egyéb eszközök átadásával vagy más módon támogathatják.
 
-7. § Július első szombatja országos polgárőrnap, a polgárőrök védőszentje Szent László.
+7. § Július első szombatja országos polgárőrnap.
 
 7/A. § Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben határozza meg
 
