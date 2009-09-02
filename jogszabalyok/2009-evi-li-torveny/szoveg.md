@@ -31,6 +31,6 @@ a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX.
 
 (9) A Gt. – e § (1) bekezdés b) pontjával megállapított – 23. § (3) bekezdésében foglalt hároméves tilalmat a hatálybalépést követően indult megszüntetési eljárásokra kell alkalmazni. A Gt. 23. § (4) bekezdése szerinti tilalmat a hatálybalépést követően indult felszámolási eljárásokkal összefüggésben megállapított felelősségre kell alkalmazni.
 
-(10)
+(10) A Ctv. 24. § (1) bekezdés h) pontjának alkalmazásában a cég képviseletére jogosultak adóazonosító jelének (adószámának) bejegyzését a cégnek kell kérnie a cégbíróságon a cégbejegyzéskor, illetve a cégjegyzékben vezetett egyéb adatának első változásakor.
 
 (11) E törvény 49. §-ának (2)–(3) bekezdései a 78/855/EGK és a 82/891/EGK tanácsi irányelvnek a független szakértő által a részvénytársaságok egyesülése vagy szétválása alkalmával készítendő jelentésre vonatkozó követelmény tekintetében történő módosításáról szóló 2007. november 13-i 2007/63/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálják.
