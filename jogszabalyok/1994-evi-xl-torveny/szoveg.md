@@ -16,23 +16,21 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (3) Az Akadémia akadémikus tagjai köztestületi jogaikat közvetlen részvétel útján, a nem akadémikus köztestületi tagok pedig – a jelen törvényben és az Akadémia Alapszabályában (a továbbiakban: Alapszabály) meghatározott módon – képviselet útján gyakorolják.
 
-(4) Az Akadémia mint köztestület közfeladatainak ellátását érintő jogszabályok, állami programok és intézkedések előkészítésekor az Akadémia véleményét ki kell kérni.
+(4) Az Akadémia mint köztestület, valamint az akadémiai kutatóhálózat működésének feltételeit közvetlenül érintő jogszabályok, programok, intézkedések, továbbá a közfeladatainak ellátását érintő jogszabályok, állami programok és intézkedések előkészítésekor az Akadémia véleményét ki kell kérni.
 
-2. § (1) Az Akadémia az e törvényben meghatározott feladatainak ellátása céljából közfinanszírozású intézményeket létesít és működtet, amelyek felett irányítási jogot gyakorol, valamint – a 23. § (6) bekezdésében foglaltak szerint – gazdasági társaságokat létesíthet, amelyek tulajdonosi jogát gyakorolja. Az Akadémia a tudományért, művészetért tevékenykedő más szervezeteket is támogathat.
+2. § (1) Az Akadémia az e törvényben meghatározott feladatainak ellátása céljából közfinanszírozású kutatóhálózatot, kiszolgáló és egyéb intézményeket létesít és működtet, amelyek felett irányítási jogot gyakorol, valamint – a 23. § (6) bekezdésében foglaltak szerint – gazdasági társaságokat létesíthet, amelyek tulajdonosi jogát gyakorolja. Az Akadémia a tudományért, művészetért tevékenykedő más szervezeteket is támogathat.
 
-(2) Az Akadémia a központi költségvetésben önálló fejezetet alkot.
+(2) Az Akadémia a központi költségvetésben önálló fejezetet alkot, amely tartalmazza az Akadémia mint köztestület által – nem gazdasági társaságként – működtetett szervezetek költségvetését is.
 
 (3) Az Akadémia esetében a köztestületekre vonatkozó szabályokat az e törvényben meghatározott eltérésekkel kell alkalmazni.
-
-(4) Az Akadémia köztestületének kutatói munkájukat tudományos meggyőződésüknek megfelelően végzik. Ezzel ellentétes tevékenységre nem kötelezhetők. Tudományos eredményeiket szabadon tehetik közzé, ha ezzel mások törvényes, különösen a szellemi tulajdonra vonatkozó jogait nem sértik.
 
 ### Az Akadémia feladatairól
 
 3. § (1) Az Akadémia közfeladatai a következők:
 
 - a) támogatja a tudományok művelését és a tudományos kutatások végzését, támogatja a tudományos könyv- és folyóirat-kiadást;
-- b)
-- c) tudományos minősítési rendszert működtet, melynek keretében a Magyar Tudományos Akadémia doktora (a továbbiakban: az MTA doktora) továbbá a Magyar Tudományos Akadémia levelező és rendes tagja címet adományoz, valamint felkérésre tudományos tevékenységet végző intézményt értékel. A címadományozás és értékelés szabályait az Akadémia szabályzatba foglalja;
+- b) tudományos kutatások folytatása céljából, a központi költségvetésből támogatott főhivatású kutatóhálózatot tart fenn, megalkotja működési szabályait, és hatékonyan működteti azt;
+- c) tudományos minősítési rendszert működtet, melynek keretében a Magyar Tudományos Akadémia doktora (a továbbiakban: az MTA doktora) továbbá a Magyar Tudományos Akadémia levelező és rendes tagja címet adományoz. Az adományozás szabályait az Akadémia szabályzatba foglalja;
 - d) a világban folyó és a hazai tudományos kutatások eredményeit és irányait rendszeresen értékeli, és ezzel kapcsolatosan javaslatokat fogalmaz meg;
 - e) az Országgyűlés vagy a Kormány kérésére a kompetenciájába tartozó kérdésekben – főleg a tudomány, az oktatás, a társadalom, a környezet és a gazdaság kérdéseiben – kinyilvánítja szakmai véleményét;
 - f) segíti a magyar nyelv fejlődését és a tudomány magyar nyelven történő művelését;
@@ -43,18 +41,13 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 - k) szorgalmazza és segíti a tudományos kutatások eredményeinek társadalmi és gazdasági hasznosítását;
 - l) felsőoktatási intézményekkel és közgyűjteményekkel kötött megállapodás alapján ezen intézményekben tudományos kutatócsoportokat tarthat fenn, valamint közreműködhet az oktatásban és a felsőoktatási intézményekben folyó doktori (PhD) képzésben;
 - m) a tudományos utánpótlást ösztöndíjrendszer fenntartásával segíti, amelynek fedezete az Akadémia költségvetésében elkülönítetten szerepel; kiemelkedő tudományos eredményeket elérő kutatók részére – saját forrásaiból vagy egyetemleges közérdekű kötelezettségvállalás alapján – határozott időre tudományos ösztöndíjat, díjakat alapíthat, díjkitűzést tehet, amelynek feltételeit és részletes rendjét az Akadémia szabályzatban állapítja meg;
-- n) tudományos osztályokat alakít, amelyek a tudományos szakmai autonómia alapegységei, és az Alapszabályban meghatározott módon egyéb testületeket (tudományos bizottságokat, területi bizottságokat stb.) hoz létre;
-- o) az e tevékenységet alapfeladatként ellátó, az MTA Könyvtár és Információs Központ mint akadémiai költségvetési szerv (a továbbiakban: Könyvtár és Információs Központ) közreműködésével tudományos művek (tudományos alkotás, tudományos publikáció, doktori értekezés és annak tézisei, MTA doktora értekezés és annak tézisei) adatait tartalmazó nemzeti tudományos bibliográfiai adatbázist (a továbbiakban e törvény alkalmazásában: Adatbázis) működtet, amely bibliográfiai hitelesség szempontjából ellenőrzött módon tartalmazza a költségvetési szerveknél foglalkoztatottak által a szerzői jogról szóló 1999. évi LXXVI. törvény 30. § (7) bekezdésében meghatározott jogviszonyuk keretei között megalkotott és nyilvánosságra hozott tudományos művekkel, valamint a költségvetési forrásból tudományos mű megírására, létrehozására irányuló szerződés alapján támogatásban részesülő személyek által megjelentetett tudományos művekkel kapcsolatos, e törvény 19/A. §-ában meghatározott adatokat; valamint alkalmas a más személyek által megalkotott és nyilvánosságra hozott tudományos művek önkéntesen közzétenni kívánt adatainak befogadására;
-- p) elősegíti a fiatal kutatók tudományos életpályájának kialakítását;
-- q) közreműködik a kutatók és a társadalom közötti kapcsolat erősítésében.
+- n) tudományos osztályokat alakít, amelyek a tudományos szakmai autonómia alapegységei, és az Alapszabályban meghatározott módon egyéb testületeket (tudományos bizottságokat, területi bizottságokat stb.) hoz létre.
 
-(1a) Az Akadémia feladata a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFItv.) 42/B. § (5) bekezdésben, 46. § (1) bekezdésében és 2. mellékletében meghatározottak szerinti főhivatású kutatóhálózat elhelyezését, valamint a kutatóintézeti hálózat működtetését szolgáló, a Magyar Tudományos Akadémia tulajdonában és ezen kutatóhelyek használatában lévő vagyonelemek használati jogának a KFItv.-ben meghatározottak szerinti biztosítása.
-
-(2) Az Akadémia elnöke kétévenként beszámol az Országgyűlésnek az Akadémia munkájáról, és ennek érdekében rendszeresen felméri és értékeli az egyes tudományágak hazai eredményességét és nemzetközi megítélését.
+(2) Az Akadémia elnöke kétévenként beszámol az Országgyűlésnek az Akadémia munkájáról, valamint a magyar tudomány általános helyzetéről.
 
 (3) Az Akadémia elnöke évente tájékoztatja a Kormányt az Akadémia munkájáról, valamint a magyar társadalom és gazdaság fellendítése érdekében elért eredményeiről.
 
-(4) Az Akadémia a törvényben rögzített tájékoztatók elkészítéséhez – a közzétett adatok felhasználásán túl – az adatokat önkéntes adatszolgáltatáson alapuló saját adatgyűjtés és más szervektől való átvétel útján szerzi be. Személyes adat átvételére csak az érintett személy előzetes hozzájárulásával kerülhet sor, kivéve a 19/A. § szerinti adatátvétel esetét.
+(4) Az Akadémia a törvényben rögzített tájékoztatók elkészítéséhez – a közzétett adatok felhasználásán túl – az adatokat önkéntes adatszolgáltatáson alapuló saját adatgyűjtés és más szervektől való átvétel útján szerzi be. Személyes adat átvételére csak az érintett személy előzetes hozzájárulásával kerülhet sor.
 
 (5) A költségvetési szervek és a többségi állami tulajdonban lévő gazdálkodó szervezetek a kezelésükben lévő közérdekű adatokat – a döntések előkészítéshez szükséges adatok hozzáférhetőségének biztosításáról szóló 2007. évi CI. törvényben megállapított szabályok szerint – 15 napon belül küldik meg az Akadémiának.
 
@@ -102,22 +95,6 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (6) A Doktori Tanács külföldön szerzett tudományos fokozatot – érdemi vizsgálat után – csak akkor honosíthat, ha a fokozat egyenértékűségét a tudomány kandidátusa vagy a tudomány doktora magyar fokozattal nemzetközi egyezmény vagy szerződés mondja ki.
 
-### A hazai akadémikusok és az MTA doktorai tiszteletdíjának felfüggesztése
-
-8/A. § (1) A 6. § (4) bekezdése és a 8. § (3) bekezdése szerinti tiszteletdíjak és hozzátartozói ellátások folyósítását az Akadémia elnöke felfüggeszti, ha a jogosult büntetőjogi felelősségét a bíróság bűncselekmény elkövetése miatt jogerős ítéletben megállapította és a jogosult
-
-- a) szándékos bűncselekmény miatt kiszabott végrehajtandó szabadságvesztés büntetés hatálya alatt áll,
-- b) foglalkozástól eltiltás büntetés hatálya alatt áll, vagy
-- c) közügyektől eltiltás mellékbüntetés hatálya alatt áll.
-
-(2) A felfüggesztés az (1) bekezdés a)–c) pontjában meghatározott büntetés, illetve mellékbüntetés végrehajtása befejezéséig vagy végrehajthatóságának megszűnéséig tart.
-
-(3) A jogosult az (1) bekezdés szerinti jogerős ítéletről az Akadémia elnökét tájékoztatja.
-
-(4) Az Akadémia elnöke a jogosultról a tiszteletdíj vagy a hozzátartozói ellátás folyósítása feltételeinek fennállása ellenőrzése céljából adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag az (1) bekezdés a)–c) pontjában meghatározott adatra irányulhat.
-
-(5) Az Akadémia elnöke a jogosult (1) bekezdés szerinti személyes adatait az ellenőrzés időtartamára vagy – a tiszteletdíj folyósításának felfüggesztése esetén – a jogosult tiszteletdíjának vagy hozzátartozói ellátásának folyósítása felfüggesztésének időtartamára kezelni.
-
 ### A Közgyűlés
 
 9. § (1) Az Akadémia Közgyűlését a hazai akadémikusok, valamint a nem akadémikus képviselők alkotják. Utóbbiak az Alapszabályban meghatározott módon közvetlen és titkos választással nyerik el tagságukat. Számuk legfeljebb 200 fő.
@@ -132,8 +109,8 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 - f) a Felügyelő Testület jelentése alapján jóváhagyja az előző évről szóló éves költségvetési beszámolót;
 - g) megválasztja az elnököt, az alelnököket, a főtitkárt és a főtitkárhelyettest, valamint az e törvényben és az Alapszabályban meghatározott más tisztségviselőket;
 - h) megválasztja az Akadémia Vagyonkezelő Testületének, Doktori Tanácsának, Felügyelő Testületének, Könyv- és Folyóirat-kiadó Bizottságának és Tudományetikai Bizottságának a tagjait;
-- i) megválasztja az Akadémia Elnökségének a Közgyűlés által választandó tagjait,
-- j) alapítói jogkörében dönt költségvetési szervek megalapításáról, átszervezéséről, átsorolásáról, megszüntetéséről.
+- i) megválasztja az Akadémiai Kutatóintézetek Tanácsának (a továbbiakban: AKT) és az Akadémia Elnökségének a Közgyűlés által választandó tagjait;
+- j) a külön jogszabály szerinti alapítói jogkörében dönt költségvetési szervek és a Támogatott Kutatócsoportok Irodája (a továbbiakban: TKI) megalapításáról, átszervezéséről, átsorolásáról, megszüntetéséről.
 
 (3) A megválasztott testületek feladatait, működésük eljárási szabályait az Alapszabály tartalmazza.
 
@@ -145,7 +122,7 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (7) A Közgyűlés összehívását kezdeményezheti – a napirend megjelölésével, írásban – a Közgyűlésen szavazásra jogosultak egyötöde is. A Közgyűlést az elnöknek ilyenkor az összehívás kérésének kézhezvételétől számított hatvan napon belül kell összehívnia.
 
-(8) A Közgyűlés akkor határozatképes, ha azon a szavazásra jogosultak több mint fele személyesen, vagy videókonferencia alkalmazás igénybevételével tartott közgyűlés esetén személyesen és távjelenléttel együttesen jelen van. Távollévők közötti elektronikus szavazás útján is hozható közgyűlési döntés, ha az egyes napirendi pontok megtárgyalása előzetes írásbeli véleménynyilvánítás útján biztosított az Akadémia belső szabályai szerint.
+(8) A Közgyűlés akkor határozatképes, ha azon a szavazásra jogosultak több mint fele jelen van.
 
 (9) A Közgyűlés a határozatait a jelen levő szavazásra jogosultak több mint felének igen szavazatával hozza. Az Alapszabály elfogadásához és módosításához a határozatképes Közgyűlésen jelen levő szavazásra jogosultak több mint kétharmadának igen szavazata szükséges.
 
@@ -159,11 +136,11 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (4) A tudományos osztály ellátja az Akadémia közfeladataiból a tudományterületét érintő teendőket. Ezeket a feladatokat az Alapszabály rögzíti.
 
-(5)
+(5) A tudományos osztály értékeli a tudományterületéhez tartozó akadémiai kutatóhelyek szakmai beszámolóit.
 
 ### Az Akadémia Elnöksége és Vezetői Kollégiuma
 
-11. § (1) Az Akadémia Elnökségét (a továbbiakban: Elnökség) az elnök, az alelnökök, a tudományos osztályok elnökei, a hazai területi bizottságok elnökeinek egy – önmaguk közül választott – képviselője, a főtitkár, a főtitkárhelyettes, a Közgyűlés által választott három akadémikus és a Közgyűlés által választott három nem akadémikus közgyűlési képviselő alkotja. Elnöke az Akadémia elnöke. A három alelnök, a három választott akadémikus, a három választott nem akadémikus közgyűlési képviselő közül egy-egy képviseli a matematikát és a természettudományokat, az élettudományokat, valamint a társadalomtudományokat.
+11. § (1) Az Akadémia Elnökségét (a továbbiakban: Elnökség) az elnök, az alelnökök, a tudományos osztályok elnökei, a hazai területi bizottságok elnökeinek egy – önmaguk közül választott – képviselője, a főtitkár, a főtitkárhelyettes, a Közgyűlés által választott három akadémikus és a Közgyűlés által választott három nem akadémikus közgyűlési képviselő, továbbá az Akadémiai Kutatóhelyek Vezetőinek Tanácsa jelölése alapján a Közgyűlés által választott három kutatóintézeti igazgató alkotja. Elnöke az Akadémia elnöke. A három alelnök, a három választott akadémikus, a három választott nem akadémikus közgyűlési képviselő és a három intézeti igazgató tag közül egy-egy képviseli a matematikát és a természettudományokat, az élettudományokat, valamint a társadalomtudományokat.
 
 (2) Két Közgyűlés között az Elnökség az Akadémia döntéshozó testülete. Az Elnökség döntési jogkörét, működési rendjét és azt, hogy az Elnökség mely döntési jogköreit adhatja át a 12. §-ban meghatározott Vezetői Kollégiumnak, az Alapszabály tartalmazza. Az Elnökség a döntéseiért a Közgyűlésnek tartozik felelősséggel.
 
@@ -183,19 +160,9 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (3) Bármely, a Közgyűlés által választott azonos vezetői tisztségre ugyanaz a személy legfeljebb kétszer választható.
 
-(4) Az elnököt a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 1. melléklet I. pontjában foglalt Illetménytábla szerinti közigazgatási államtitkári illetmény felső határának megfelelő illetmény illeti meg.
+(4) Az elnököt a miniszteri, a főtitkárt az államtitkári, a főtitkárhelyettest a szakállamtitkári illetménnyel azonos mértékű javadalmazás, valamint évente 40 munkanap szabadság illeti meg. Egyéb juttatásaik tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvényben, továbbá az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletben foglaltakat kell megfelelően alkalmazni.
 
-(4a) A főtitkárt a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetmény felső határának megfelelő illetmény illeti meg.
-
-(4b) A főtitkárhelyettes illetménye a főtitkár illetményének 90%-a.
-
-(4c) A (4) bekezdés szerinti illetményen túl az elnököt miniszteri juttatás illeti meg és minden naptári évben húsz munkanap vezetői pótszabadságot jogosult igénybe venni.
-
-(4d) A (4a) bekezdés szerinti illetményen túl a főtitkárt közigazgatási államtitkári juttatás illeti meg és minden naptári évben húsz munkanap vezetői pótszabadságot jogosult igénybe venni.
-
-(4e) A (4b) bekezdés szerinti illetményen túl a főtitkárhelyettest helyettes államtitkári juttatás illeti meg és minden naptári évben húsz munkanap vezetői pótszabadságot jogosult igénybe venni.
-
-(5) Az elnök, a főtitkár és a főtitkárhelyettes jogállására az e törvényben nem szabályozott kérdésekben a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény rendelkezéseit kell – a 38. § (1) bekezdés d) pontja, 84. §-a, 85. §-a, 95–97. §-a, 103. § (1) bekezdés 5., 6., 15., 16. és 25. pontja, valamint a besorolásra, a vezetőkre, a képzésre, továbbképzésre és a teljesítményértékelésre vonatkozó rendelkezések kivételével – alkalmazni.
+(5) Az elnök, a főtitkár és a főtitkárhelyettes jogállására az e törvényben nem szabályozott kérdésekben a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) rendelkezéseit kell – az 1–4. §, a 8. §, a 15. § f) pontja, a 23–36. §, az 50–56. §, valamint a VII. és VIII. fejezetben foglaltak kivételével – megfelelően alkalmazni.
 
 ### Az Akadémia elnöke és alelnökei
 
@@ -213,9 +180,9 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 ### A főtitkár és főtitkárhelyettes
 
-15. § (1) A főtitkár – a Közgyűlés határozataival és az elnök iránymutatásaival összhangban – az Alapszabályban meghatározott módon működteti a titkársági szervezetet (a továbbiakban: MTA Titkársága).
+15. § (1) A főtitkár – a Közgyűlés határozataival és az elnök iránymutatásaival összhangban – az Alapszabályban meghatározott módon működteti a titkársági szervezetet (a továbbiakban: az MTA Titkársága), s ezen keresztül ellátja a kutatóhálózat adminisztratív irányítását.
 
-(2)
+(2) A főtitkár hivatalból elnöke az Akadémiai Kutatóhelyek Tanácsának.
 
 (3) A főtitkárhelyettes segíti a főtitkárt munkájában, és a főtitkár akadályoztatása esetén helyettesíti.
 
@@ -227,13 +194,65 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 ### Az Akadémia intézményei
 
-#### 17. §
+### Az akadémiai kutatóhálózat
 
-#### 18. §
+17. § (1) Az Akadémia kutatóhálózata kutatóközpontokból, kutatóintézetekből és támogatott kutatócsoportokból (együttesen: kutatóhely) áll.
+
+(2) A kutatóközpontokat és a kutatóintézeteket a Közgyűlés határozattal hozza létre, szervezi át, sorolja át és szünteti meg, amelynek alapján az Akadémia elnöke írja alá az alapításról, átszervezésről, átsorolásról, megszüntetésről rendelkező okiratot. Az eljárási szabályokat az Alapszabály rögzíti.
+
+(3) A támogatott kutatócsoport a TKI szervezetébe tartozó azon szervezeti egység, amelynek alkalmazottai nem az Akadémia irányítása alá tartozó intézménynél végzik munkájukat. A támogatott kutatócsoportok létrehozásáról és megszüntetéséről az Akadémia elnöke az Alapszabályban rögzített pályázati eljárás előírásai szerint dönt.
+
+(4) Az akadémiai kutatóhálózat testületi felügyeletét az AKT látja el.
+
+(5) Az AKT 15 főből áll. Elnöke a főtitkár, tagjai közül egy-egy tagot a tudományos osztályok kutatóhálózati tagjainak javaslata alapján az osztály jelöl a nem igazgató kutatóhálózati alkalmazott köztestületi tagok közül. A jelölteket az Akadémia Közgyűlése választja meg. Három tagot a Kormány személyre szólóan delegál – tanácskozási joggal – az oktatásban, a kutatásban, a fejlesztésben, az innovációban, valamint a gazdaságfejlesztésben és a versenyképesség-politikában fontos szerepet játszó miniszterek olyan vezető munkatársai közül, akik gazdálkodási, igazgatási, kutatási, kutatásszervezési vagy államigazgatási gyakorlatuk és tapasztalataik alapján hozzájárulhatnak a kutatóhálózat hatékony igazgatásához.
+
+(6) Az AKT létrehozásának részletes eljárási rendjét és működési szabályait az Alapszabály határozza meg.
+
+(7) Az AKT feladatai:
+
+- a) jóváhagyja az akadémiai kutatóhálózat egységeinek céljait, feladatait;
+- b) meghatározza a feladatok ellátásának értékelési szempontjait, mutatóit;
+- c) javaslatot tesz az egyes intézmények költségvetési támogatására;
+- d) javaslatot tesz az Akadémia költségvetésében a kutatási beruházásokra elkülönített források rendeltetésének és kedvezményezettjeinek meghatározására;
+- e) javaslatot tesz az Akadémia rendelkezésére álló fiatal kutatói állások szakterületenkénti és kutatóhelyenkénti meghatározására;
+- f) értékeli a kutatóközpontok, kutatóintézetek és a támogatott kutatócsoportok szakmai beszámolóit, tevékenységét, teljesítményét és irányítási rendszerét;
+- g) a Közgyűlés elé terjeszti a kutatóhelyek tevékenységéről szóló beszámolót;
+- h) véleményezi az Akadémia közfeladatainak teljesítéséről a Kormány számára készített tájékoztatót;
+- i) jóváhagyja a kutatóközpontok, a kutatóintézetek és a TKI szervezeti és működési szabályzatát;
+- j) tagokat jelöl az intézetek 18. § (8) bekezdés szerinti külső tanácsadó testületeibe;
+- k) egy-egy tudományterületi szakbizottságot (a továbbiakban: szakbizottságot) rendel a természet-, az élet- és a társadalomtudományi intézetcsoportokhoz a döntések szakmai előkészítésére.
+
+(8) Az AKT a (7) bekezdésben felsorolt tevékenysége során álláspontjának kialakításához, a (7) bekezdés k) pont szerinti szakbizottságok, továbbá egyéb szakértői bizottságok összeállításához az Alapszabályban rögzített módon kikéri az illetékes tudományos osztályok véleményét.
+
+(9) Az AKT-nak a (7) bekezdésben felsorolt döntéseiről és javaslatairól az Akadémia főtitkára tájékoztatja az elnököt, az Elnökséget és a Vezetői Kollégiumot. Az AKT határozatait és javaslatait – az Alapszabályban rögzített eljárással – az Akadémia elnöke hagyja jóvá. Az AKT az Alapszabályban meghatározott esetekben és módon terjesztheti döntését az Elnökség elé.
+
+(10) Az Akadémiai Kutatóhelyek Vezetőinek Tanácsa (a továbbiakban: AKVT) az AKT konzultatív testülete.
+
+(11) Az AKVT tagjai a kutatóközpontok és a kutatóintézetek igazgatói és a támogatott kutatócsoportok öt képviselője. A támogatott kutatócsoportok képviselői megválasztásának szabályait az Alapszabály rögzíti.
+
+(12) Az AKVT az Alapszabályban meghatározott módon működik, tagjai közül megválasztja vezetőjét, vezető testületét és jelöli az Akadémia Elnökségébe a kutatóintézeti igazgató tagokat.
+
+### Az akadémiai kutatóközpontok és kutatóintézetek
+
+18. § (1) Az akadémiai kutatóközpont és a kutatóintézet közszolgáltató költségvetési szerv. A kutatóközpont két vagy több kutatóintézetet magában foglaló jogi személy. A kutatóközpont szervezeti egységeit alkotó kutatóintézetek jogi személyiségű szervezeti egységek. A kutatóközpont és a kutatóintézet autonóm módon vesz részt az Akadémia közfeladatainak megoldásában, önállóan is vállal közfeladatokat, továbbá egyéb tevékenységet is végezhet. Tudományos tevékenységéről és gazdálkodásáról évente beszámolót készít, amelyet az Akadémia az e törvényben és az Alapszabályban leírtak szerint értékel.
+
+(2) A kutatóközpont és a kutatóintézet – a vállalkozó közintézet kivételével – egyszemélyi vezetés alatt áll. A kutatóközpont tevékenységét a főigazgató, a kutatóintézetét az igazgató irányítja, a tudományos tanács vagy más intézeti testületi szerv közreműködésével.
+
+(3) A főigazgatót, illetve az igazgatót az Európai Unió ajánlásainak megfelelő pályázati eljárás alapján az Akadémia elnöke nevezi ki (bízza meg), illetve menti fel (vonja vissza megbízását). A kinevezés legfeljebb 5 évre szól. A kinevezési és felmentési eljárás szabályait az Alapszabály rögzíti.
+
+(4) A főigazgatói és az igazgatói pályázatok kiírásakor meg kell határozni, megbízásukkor vagy kinevezésükkor pedig írásban rögzíteni kell számukra a szervezettel kapcsolatos tudományos teljesítmény- és gazdálkodási követelményeket.
+
+(5) Az akadémiai kutatóhálózat kutatóhelyein foglalkoztatott kutatók (a továbbiakban: kutatók) munkájukat tudományos meggyőződésüknek megfelelően végzik. Ezzel ellentétes tevékenységre nem kötelezhetők. Tudományos eredményeiket szabadon tehetik közzé, ha ezzel mások törvényes, különösen a szellemi tulajdonra vonatkozó jogait nem sértik.
+
+(6) A kutatók besorolásánál a felsőoktatásról szóló 2005. évi CXXXIX. törvény 93. § (2) bekezdése szerinti kutatói munkaköröket kell alkalmazni.
+
+(7) A kutatóközpontok és kutatóintézetek munkáját és felügyeletét külső tanácsadó testület segíti, amely a hazai és külföldi tudományos közösségek tekintélyes tagjaiból áll. A külső tanácsadó testület tagjainak felkéréséről és felmentéséről az Akadémia elnöke gondoskodik az Alapszabályban rögzített eljárás alapján.
+
+(8) A külső tanácsadó testület figyelemmel kíséri az intézet munkáját, és tanácsaival segíti terveinek kialakítását. Az AKT felkérésére rendszeresen közreműködik az intézetek munkájának értékelésében.
 
 ### Az Akadémia egyéb intézményei
 
-19. § (1) Az MTA Titkársága az Akadémia köztestületi feladatait szervező, az Akadémia intézményeinek igazgatási, gazdálkodási, pénzügyi, vagyonkezelési és ellenőrzési feladatait ellátó gazdasági szervezettel rendelkező köztestületi költségvetési szerv. A Titkárság közfeladatokat ellátó alkalmazottai köztisztviselők.
+19. § (1) Az MTA Titkársága az Akadémia köztestületi feladatait szervező, az Akadémia kutatóhálózatának és más intézményeinek igazgatási, gazdálkodási, pénzügyi, vagyonkezelési és ellenőrzési feladatait ellátó közhatalmi költségvetési szerv, amely közhatalmi feladatai mellett kormányrendeletben meghatározott közszolgáltatási tevékenységet is végezhet. A Titkárság közfeladatokat ellátó alkalmazottai köztisztviselők.
 
 (2) Az MTA Titkárságának feladatait az Alapító Okirat rögzíti, amelyet az Akadémia elnöke ad ki.
 
@@ -241,52 +260,15 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (4) Az Akadémia a költségvetési szerveiről, egyéb intézményeiről, a tulajdonában (résztulajdonában) lévő gazdasági társaságokról, továbbá az általa támogatott szervezetekről az Alapszabályban rendelkezik.
 
-19/A. § (1) Az Akadémia – a Könyvtár és Információs Központon keresztül – országos elektronikus információs közszolgáltatásként ellátja az Adatbázis működtetését, amelynek feladata:
-
-- a) a nemzeti felsőoktatásról szóló törvényben és a doktori iskolákról, a doktori eljárások rendjéről és a habilitációról szóló kormányrendeletben meghatározott doktori értekezések és azok tézisei, valamint az e törvényben meghatározott, MTA doktora értekezések és azok tézisei adatainak az adatbázisban történő nyilvántartásával kapcsolatos feladatok ellátása;
-- b) a költségvetési szerveknél foglalkoztatottak által a jogviszonyuk keretei között megalkotott, a munkáltatónak átadott és nyilvánosságra hozott, valamint az önkéntes adatszolgáltatók által megalkotott és nyilvánosságra hozott tudományos művek adatainak nyilvántartása;
-- c) költségvetési forrásból tudományos mű létrehozására irányuló szerződés alapján létrejött, és nyilvánosságra hozott tudományos művek adatainak nyilvántartása;
-- d) jogszabály szerint egyedi vagy statisztikai adatszolgáltatás a (3) bekezdésben meghatározott adatok tekintetében tudományos eredmények nyilvántartásához;
-- e) a magyar tudományos művek adatainak angol nyelvű bibliográfiai nyilvántartása;
-- f) a magyar, elektronikusan nyílt hozzáférésű tudományos művek hozzáférhetőségének biztosítása az elektronikus elérhetőség címének közlésével.
-
-(2) E törvény tekintetében nyilvánosságra hozottnak minősül a mű, ha az megjelent és a megjelenés permanenciája biztosított.
-
-(3) Az Adatbázis tartalmazza a tudományos művek címét, első megjelenési helyét, a szerző és a tudományos mű felett rendelkezni jogosult nevét. Az adatoknak lehetővé kell tenniük a mű egyértelmű azonosítását.
-
-(4) Az Adatbázis keretében a tudományos művek (3) bekezdés szerinti bibliográfiai adataihoz való nyilvános hozzáférés ingyenes.
-
-(5) Az Adatbázis lehetővé teszi a jogszabály alapján arra nem kötelezett személyek és szervezetek esetén a tudományos művek adatainak önkéntes közzétételi lehetőségét.
-
-(6) Az Adatbázis a (3) bekezdés szerinti adatokról megkeresésre adatot szolgáltat:
-
-- a) a statisztikáról szóló törvényben meghatározott, a hivatalos statisztikai szolgálathoz tartozó szervek részére,
-- b) az adatszolgáltató költségvetési szerv részére saját intézménye vonatkozásában,
-- c) az Akadémia mint a nemzeti tudományos bibliográfiai adatbázist működtető fejezetet irányító szerv részére,
-- d) a Magyar Felsőoktatási Akkreditációs Bizottság és az Országos Doktori Tanács részére,
-- e) a felsőoktatásért felelős miniszter és a köznevelésért felelős miniszter részére,
-- f) a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal részére,
-- g) az érintett természetes személy részére saját adatai vonatkozásában.
-
-(7) Az Adatbázis stratégiai irányításáért, fejlesztéséért és működtetéséért a fejezetet irányító szerv vezetőjeként az Akadémia elnöke felelős, az Adatbázis működésének részletes szabályait az azt működtető Könyvtár és Információs Központ szervezeti és működési szabályzata, továbbá az Akadémia elnökének rendelkezése tartalmazza.
-
-### Az akadémiai költségvetési szerveknél foglalkoztatottak jogviszonyára vonatkozó rendelkezések
-
-19/B. § (1) Az akadémiai költségvetési szerveknél foglalkoztatottak jogviszonyára – az MTA Titkárságának közfeladatokat ellátó köztisztviselői, illetve munkavállalói kivételével – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.), valamint a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
-
-(2) A Kjt. határozott idejű jogviszony létesítésére vonatkozó rendelkezését azzal az eltéréssel kell alkalmazni, hogy az akadémiai költségvetési szerv közfeladatának ellátása során azonos foglalkoztatottra vonatkozóan egy alkalommal legfeljebb három év határozott időtartamra tudományos kutatói közalkalmazotti jogviszonyt létesíthet a Kjt. 21. § (2) bekezdésben felsorolt kivételi eseteken túlmenően.
-
-(3) A törvényben meghatározott, a büntetlen előéletre és a foglakoztatástól eltiltás hiányára vonatkozó feltételt nem kell igazolni, ha a kizáró ok hiányát az akadémiai költségvetési szervvel létesített korábbi megbízási vagy foglalkoztatási jogviszonyára tekintettel a foglalkoztatni kívánt személy már igazolta, és a korábbi jogviszony megszűnése óta legfeljebb hat hónap telt el.
-
-(4) Az akadémiai költségvetési szervek foglalkoztatottai számára keresetkiegészítés állapítható meg, amelynek részletes szabályait az Akadémia szabályzatban határozza meg.
-
 ### Az Akadémia gazdálkodása és vagyona
 
 20. § (1) Az Országgyűlés állapítja meg az Akadémia fejezet költségvetését és fogadja el az Akadémia költségvetési beszámolóját.
 
-(2) Az Akadémia költségvetésében a kiadási és a bevételi előirányzatok főösszegének évközi csökkentésére az Országgyűlés jogosult, kivéve az államháztartásról szóló 2011. évi CXCV. törvény 40. § (4) bekezdésében meghatározott intézkedéseket.
+(2) Az Akadémia költségvetésében a kiadási és a bevételi előirányzatok főösszegének évközi csökkentésére az Országgyűlés jogosult, kivéve az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 46. §-ában meghatározott intézkedéseket.
 
-(3)–(4)
+(3) Az Akadémia fejezet költségvetése külön előirányzaton tartalmazza az Országos Tudományos Kutatási Alapprogramok (továbbiakban: OTKA) és az OTKA Iroda költségvetését is.
+
+(4) Az OTKA működését az Országos Tudományos Kutatási Alapprogramokról szóló 1997. évi CXXXVI. törvény szabályozza. Az OTKA költségvetését sem az Akadémia köztestületi költségvetési szervek (a továbbiakban: akadémiai költségvetési szervek), sem a központi akadémiai feladatok (fejezeti kezelésű előirányzatok) céljaira nem lehet sem az éves tervezéskor, sem év közben átcsoportosítani, kivéve a pályázatokkal kapcsolatos fejezeten belüli előirányzat-módosításokat.
 
 (5) Az Akadémia fejezet költségvetése külön előirányzatot tartalmaz a magyar tudományos közösségnek nemzetközi szervezetekkel szemben vállalt kötelezettségeire.
 
@@ -294,43 +276,56 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (7) Az Akadémia jogosult az akadémiai költségvetési szerveket a tevékenységük jellege és a feladatellátásukhoz gyakorolt funkcióik szerint csoportokba besorolni.
 
-(8) Az Akadémia a feladataihoz igazodóan saját hatáskörében állapítja meg egyes szervezeteinek gazdálkodási formáit és a támogatás módját.
+(8) Az Akadémia a feladataihoz igazodóan saját hatáskörében állapítja meg egyes szervezeteinek gazdálkodási formáit és a kutatástámogatás módját. A költségvetési szerv formában működő akadémiai kutatóintézet vállalkozó közintézet költségvetési szervként történő besorolásáról – az államháztartásról szóló törvényben foglalt feltételek teljesülése esetén – a kutatóintézet kezdeményezésére az Akadémia Közgyűlése dönt.
 
 (9) Az Akadémia – kapcsolódva az államháztartás rendjéhez – megadja a központi költségvetés tervezéséhez és az annak végrehajtásáról szóló beszámolóhoz szükséges információkat.
 
-(10)
+(10) Az Akadémia és az akadémiai költségvetési szervek gazdálkodását az Állami Számvevőszék ellenőrzi.
 
 21. § (1) Az akadémiai költségvetési szervek körébe tartoznak:
 
-- a)
+- a) a kutatóközpontok, a kutatóintézetek és a TKI;
 - b) az Akadémiai Könyvtár;
-- c) az Akadémia feladatainak ellátást segítő egyéb szervezetek;
+- c) a kutatást segítő egyéb szervezetek;
 - d) a területi akadémiai bizottságok titkárságai;
 - e) a jóléti szervezetek.
 
 (2) Az akadémiai költségvetési szervek részt vesznek az Akadémia törvényben foglalt közfeladatainak ellátásában. Ezek finanszírozásának forrásai a költségvetési támogatás, más államháztartási források és saját bevételeik.
 
-(3)
+(3) A kutatóhálózaton belül a kutatóintézetek, a kutatóközpontok és a TKI éves költségvetési támogatása tartalmazza:
 
-(4)
+- a) a közfeladatok ellátásával összefüggő alapellátási támogatást;
+- b) az Akadémia fejezet költségvetésében meghatározott feladatra a kutatóközpontoknál, kutatóintézeteknél előirányzott keretet;
+- c) a közfeladat célú pályázatokban való részvételhez felhasználható forrásra (önrészre) fordítható összeget.
 
-(5)
+(4) A (3) bekezdés a) pontjában meghatározott alapellátási támogatás tartalmazza:
 
-(6)
+- a) a kutatóintézetek üzemeltetési kiadásaihoz,
+- b) a kutatási feladatokat támogató tevékenységek tárgyi és személyi feltételeit megteremtő összegekhez,
+- c) a speciális kutatási feltételek kiadásaihoz,
+- d) a közfeladatok ellátásához köthető személyi és tárgyi kiadásokhoz
 
-(7)
+a közfeladatokkal arányosan – jogszabályban meghatározott feltételek szerint – megállapított költségvetési forrást.
 
-(8)–(9)
+(5) Az alapellátási támogatás kutatóintézetekre együttesen meghatározott összege a kutatóintézeti kört érintő közfeladatok mennyiségének változásával együtt módosítandó.
 
-22. § (1) Az akadémiai költségvetési szervek szerződéseket köthetnek, és ezek teljesítése érdekében az Akadémia elnökének előzetes engedélyével a folyó éven túli kötelezettségeket vállalhatnak.
+(6) Az alapellátási támogatást módosítani kell az éves átlagos infláció mértékének megfelelően is, amennyiben ezt az Akadémia éves költségvetési támogatásának növekedése lehetővé teszi.
 
-(2)
+(7) A kutatóközpont és a kutatóintézet szellemi és anyagi kapacitásával végzett tevékenységének bevételei a kutatóhely működésének és fejlesztésének forrását képezik.
 
-(3)
+(8) Az akadémiai költségvetési szerveknél foglalkoztatottakra – az MTA Titkárságának közfeladatokat ellátó köztisztviselői, ügykezelői, illetve munkavállalói kivételével – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény rendelkezéseit kell alkalmazni.
 
-(4)
+(9) Az akadémiai költségvetési szervek (közintézetek, közüzemek és vállalkozó közintézetek) foglalkoztatottjai számára kereset-kiegészítés állapítható meg, amelynek részletes szabályait az Akadémia szabályzatban határozza meg.
 
-(5)
+22. § (1) Az akadémiai költségvetési szervek többéves kutatási és egyéb szerződéseket köthetnek, és ezek teljesítése érdekében az Akadémia elnökének előzetes engedélyével a folyó éven túli kötelezettségeket vállalhatnak.
+
+(2) A kutatóhálózatba tartozó szervezetek a megkötött kutatási szerződések alapján – az Alapszabályban rögzített eljárási rend szerint – a bevételek mértékéig módosíthatják a kiadási és bevételi előirányzataik főösszegét.
+
+(3) A kutatóhálózatba tartozó szervezetek a rendelkezésükre bocsátott pénzeszközökkel és saját bevételeikkel önállóan gazdálkodnak; ezek nem vonhatók el tőlük, kivéve a 20. § (2) bekezdésében foglalt esetet. A kutatóhálózatba tartozó szervezetek év végi pénzmaradványának a megkötött szerződések teljesítésével összefüggő része nem tartozik az éves maradványelszámolás körébe. Ezeket a maradványokat a kutatóhálózat szervezeteinek a megkötött szerződésekben foglaltak szerint kell felhasználniuk, és a megbízóval kell a maradvány összegéről elszámolniuk. A költségvetési év végén keletkezett előirányzat-maradványt – a jogosultsági elszámolást követően, az Akadémia rendelkezésétől függően – a következő évben (években) a szervezetek feladataik teljesítésére felhasználhatják.
+
+(4) A kutatóhálózatba tartozó szervezetek vállalkozási tevékenységet is folytathatnak. Ha a tevékenység eredményét közfeladataik ellátására vagy azokat segítő beruházásokra a tárgyévet követő két éven belül felhasználják, ezt az összeget befizetési kötelezettség nem terheli.
+
+(5) A kutatóhálózatba tartozó szervezetek az államháztartáson kívüli bevételeknek a kapcsolódó kiadások teljesítése után fennmaradt részét a Magyar Államkincstárnál külön célelszámolási számlán kezelhetik, s ennek összegét, valamint a maradvány, a vállalkozási tartalék átmenetileg szabad pénzeszközeit – amennyiben nincs lejárt kötelezettségük – a Magyar Államkincstár hálózatában értékesített állampapírba fektethetik.
 
 23. § (1) Az Akadémia a feladatai ellátása érdekében a vagyonával önállóan gazdálkodik, ennek részletes szabályait az Alapszabály határozza meg.
 
@@ -342,9 +337,9 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (5) Az Akadémia az ingatlan vagyon adásvételével kapcsolatos pénzforgalom lebonyolítására a Magyar Államkincstárnál elkülönített pénzforgalmi számlát köteles nyitni. Az Akadémia a vagyonhasznosítás átmenetileg szabad pénzeszközeit a Magyar Államkincstár hálózatában értékesített állampapírok vásárlásával hasznosíthatja.
 
-(6) Az Akadémia, valamint – engedélyével – az akadémiai költségvetési szerv a vagyonából, az államháztartáson kívüli bevételének a kiadások után fennmaradt részéből, vállalkozási tartalékából zártkörűen működő részvénytársaságot, korlátolt felelősségű társaságot alapíthat, vagy ilyenekben részesedést szerezhet, ha a cég üzleti terve szerint három éven belül nyereségessé válik, továbbá a hiányt a célelszámolási számlán kezelt összegből, vagyonból finanszírozza. Az Akadémia mint köztestület gazdasági társaságaira az akadémiai költségvetési szervek gazdasági társaságaira vonatkozó szabályok megfelelően alkalmazandók, azzal, hogy a tulajdonosi jogokat az elnök gyakorolja.
+(6) Az Akadémia, valamint – engedélyével – az akadémiai költségvetési szerv a vagyonából, az államháztartáson kívüli bevételének a kiadások után fennmaradt részéből, vállalkozási tartalékából zártkörűen működő részvénytársaságot, korlátolt felelősségű társaságot alapíthat, vagy ilyenekben részesedést szerezhet, ha a cég üzleti terve szerint három éven belül nyereségessé válik, továbbá a hiányt a célelszámolási számlán kezelt összegből, vagyonból finanszírozza. Az Akadémia mint köztestület gazdasági társaságaira az akadémiai költségvetési szervek gazdasági társaságaira vonatkozó szabályok, illetve az Áht. VII/A fejezetében foglaltak megfelelően alkalmazandók, azzal, hogy a tulajdonosi jogokat az elnök gyakorolja.
 
-(7) Az Akadémia vagyonával kapcsolatos végrehajtási jogkört és az elszámolási, valamint a nyilvántartási feladatokat az MTA Titkársága látja el. Az Akadémia vagyonával kapcsolatos véleményezési, döntés-előkészítő jogkör a Vagyonkezelő Testület hatáskörébe tartozik.
+(7) Az Akadémia vagyonával kapcsolatos végrehajtási jogkört és az elszámolási, valamint a nyilvántartási feladatokat az MTA Titkárságán belül működő Vagyonkezelő Szervezet látja el. Az Akadémia vagyonával kapcsolatos véleményezési, döntés-előkészítő jogkör a Vagyonkezelő Testület hatáskörébe tartozik.
 
 (8) A Vagyonkezelő Testület a munkájáról félévente jelentést tesz a Vezetői Kollégiumnak. Az Akadémia vagyonával való gazdálkodásról az elnök évente jelentést tesz a Közgyűlésnek.
 
@@ -352,25 +347,17 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 24. § (1) Felhatalmazást kap a Kormány, hogy az akadémiai költségvetési szervek gazdálkodására vonatkozó szabályokat – e törvény 20. § (6) bekezdése alapján – rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a Kormány, hogy a hazai akadémikust megillető tiszteletdíj, a hozzátartozói ellátások, továbbá az Akadémia doktora tiszteletdíja megállapításának feltételeit, mértékét, folyósításának és felfüggesztésének szabályait rendeletben állapítsa meg.
+(2) Felhatalmazást kap a Kormány, hogy a hazai akadémikust megillető tiszteletdíj, a hozzátartozói ellátások, továbbá az Akadémia Magyarországon élő doktora tiszteletdíjának mértékét rendeletben állapítsa meg.
 
-(3)
+(3) Az alapellátás intézetenkénti összegét és a közfeladatokat, valamint azok ellátásának feltételeit a 2011. évi költségvetés tervezéséig kell összehangolni.
 
 (4) A 21. § (2)–(7) bekezdésének rendelkezéseit első ízben a Magyar Köztársaság 2010. évi költségvetéséről szóló törvénnyel összhangban, 2010. január 1-jétől kell alkalmazni.
 
-#### 25. §
-
-#### 26. §
+#### 25–26. §
 
 ### Átmeneti, vegyes és záró rendelkezések
 
-#### 27. §
-
-#### 28. §
-
-#### 29. §
-
-#### 30. §
+#### 27–30. §
 
 #### 31. §
 
