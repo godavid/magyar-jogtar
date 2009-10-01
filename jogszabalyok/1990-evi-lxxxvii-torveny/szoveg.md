@@ -1,0 +1,147 @@
+# 1990. évi LXXXVII. TÖRVÉNY
+
+az árak megállapításáról
+
+Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra vonatkozó közvetlen kormányzati beavatkozás csak ott indokolt, ahol a tisztességtelen piaci magatartás tilalmáról szóló törvényben foglaltak nem elégségesek a káros versenykorlátozás és a gazdasági erőfölénnyel való visszaélés megakadályozására. A kormányzati beavatkozás kereteinek kijelölése céljából az Országgyűlés a következő törvényt alkotja:
+
+### A törvény hatálya
+
+1. § (1) E törvény hatálya kiterjed:
+
+- a) a gazdasági tevékenységet folytató jogi személyre, jogi személyiség nélküli gazdasági és egyéb társaságra, természetes személyre (a továbbiakban együtt: vállalkozó), valamint az általuk belföldön érvényesített árakra és díjakra, továbbá
+- b) a hatósági ár megállapítójára.
+
+(2) A törvény hatálya nem terjed ki:
+
+- a) a jogszabályok alapján kötelezően igénybe vett szolgáltatások díjára;
+- b) a külön törvény felhatalmazása alapján szabályozott szolgáltatási díjakra;
+- c) A hegyközség által megállapított termőhelyi védőárra;
+- d) az agrárpiaci rendtartásról szóló 2003. évi XVI. törvény alapján megállapított árakra;
+- e) a villamos energiáról szóló 2007. évi LXXXVI. törvény hatálya alá tartozó termékek vagy szolgáltatások árára;
+- f) a földgázellátásról szóló 2008. évi XL. törvény hatálya alá tartozó termékek vagy szolgáltatások árára.
+
+(3) E törvény alkalmazásában gazdasági tevékenység: nyereség- és vagyonszerzés céljából üzletszerűen, ellenérték fejében történő termelő vagy szolgáltatási tevékenység folytatása.
+
+### Általános rendelkezés
+
+2. § Az árban, díjban (a továbbiakban együtt: ár), valamint az ár alapjául szolgáló értékesítési feltételekben a szerződő felek — a tisztességtelen piaci magatartás tilalmáról szóló törvényben, valamint az ebben a törvényben foglaltak megtartásával, egymás méltányos érdekeit tiszteletben tartva és kölcsönösen együttműködve — állapodnak meg, ideértve a versenytárgyaláson vagy árverésen történő ármegegyezést is.
+
+### Bejelentési kötelezettség
+
+3–6. §
+
+### Hatósági ármegállapítás
+
+7. § (1) A mellékletben felsorolt termékekre, szolgáltatásokra (a továbbiakban együtt: termék) az ott feltüntetett miniszter, illetve a helyi önkormányzat (a továbbiakban együtt: a hatósági ár megállapítója) legmagasabb árat vagy legalacsonyabb árat (a továbbiakban együtt: hatósági ár) állapít meg.
+
+(2) A termék hatósági árát az államháztartásért felelős miniszterrel egyetértésben kell megállapítani, ha az árat a miniszter állapítja meg, vagy az árat a központi költségvetés támogatja.
+
+(3) A taxi engedély érvényességi területe szerint illetékes települési önkormányzat – a fővárosban a Fővárosi Önkormányzat – képviselő-testülete a területi kereskedelmi és iparkamarával egyeztetve, a fogyasztóvédelmi hatóság és a szolgáltatásban közvetlenül érintett szakmai érdekképviseleti szervezetek véleményének figyelembevételével rendeletben megállapíthatja a személytaxi szolgáltatásért felszámítható árat és annak alkalmazási feltételeit. A személytaxi szolgáltatás díjszabását (díjtételeit) a képviselőtestület – a helyi körülmények mérlegelésével – legmagasabb hatósági árként vagy rögzített hatósági árként határozhatja meg.
+
+(4)
+
+(5) E törvény Melléklete II. Legmagasabb ár pontjának „B) Szolgáltatások” fejezetében található „40.30.90.0 Távhőszolgáltatás csatlakozási díját és lakossági távhőszolgáltatás díját” a települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselőtestülete külön törvényben meghatározottak szerint rendeletben állapítja meg.
+
+8. § (1) A legmagasabb árat — a (2) bekezdésben szabályozott kivétellel — úgy kell megállapítani, hogy a hatékonyan működő vállalkozó ráfordításaira és a működéséhez szükséges nyereségre fedezetet biztosítson, tekintettel az elvonásokra és a támogatásokra is.
+
+(2) A tovább-feldolgozók vagy tovább-értékesítők részére értékesített egyes energiahordozók ára a külpiaci árak szintjén is meghatározható.
+
+(3) A legalacsonyabb árat úgy kell megállapítani, hogy az legalább a hatékonyan működő vállalkozó ráfordításaira fedezetet biztosítson, tekintettel az elvonásokra és támogatásokra is.
+
+9. § (1) A hatósági ár megállapítása történhet tételesen vagy a hatósági ár kiszámítására vonatkozó előírásokkal.
+
+(2) A hatósági árat alkalmazási feltételeivel (pl. a minőség, a határidő, a szállítások ütemezése, a megrendelés nagysága, a teljesítés helye, a fizetési feltételek) együtt kell megállapítani.
+
+10. § (1) A hatósági ár megállapítása — ideértve az áralkalmazási feltételeket is — hivatalból vagy az árat érvényesítő vállalkozó kérelmére történhet. Ez utóbbi esetben a kérelmező köteles a hatósági árra vonatkozó javaslatát a hatósági ár megállapítója részére egyidejűleg megküldeni. A hatósági ár megállapítója — mindkét esetben — további adatokat kérhet.
+
+(2) A hatósági ár megállapítójának megkeresésére az országos gazdasági kamara tájékoztatást ad a kérelemmel érintett termékekkel, szolgáltatásokkal kapcsolatos forgalmi és árviszonyokról.
+
+(3) A hatósági ár megállapítója a kérelem, illetve a kért adatok kézhezvételétől számított harminc napon belül köteles az ármegállapítást közzétenni vagy a kérelem elutasításáról a kérelmezőt értesíteni.
+
+11. § (1) A hatósági árat, valamint annak alkalmazási feltételeit jogszabályban kell közzétenni. A jogszabályban rendelkezni kell arról, hogy a hatósági ár mikor lép hatályba; e rendelkezésnek visszamenőleges hatálya nem lehet.
+
+(2) A legmagasabb hatósági árnak a szerződés megkötését követően bekövetkező emelése esetén jogszabály kivételesen előírhatja, hogy az emelt legmagasabb hatósági ár az érvényes szerződés részévé válik. A felek azonban az új ártól lefelé — közös megegyezéssel — eltérhetnek, a szerződésben kikötött ár fenntartásával vagy megváltoztatásával.
+
+12. § Ha hatósági árat állapítottak meg, a szerződésben
+
+- a) a legmagasabb árnál magasabb árat és
+- b) a legalacsonyabb árnál alacsonyabb árat
+
+érvényesen nem lehet kikötni.
+
+13. § Ha a felek az árban nem állapodtak meg, és a termékre hatósági ár van hatályban, az utóbbi az irányadó. A hatósági ár az irányadó akkor is, ha a felek a joszabály megsértésével más árban állapodtak meg.
+
+14. § A hatósági árnak a szerződés megkötése és teljesítése között bekövetkezett megszűnése esetén a szerződést — ha törvény eltérően nem rendelkezik — a kikötött áron kell teljesíteni.
+
+15. § A lakosságot közvetlenül érintő hatósági ár változtatásáról a hatósági ár megállapítója legkésőbb az ár hatálybalépésével egyidejűleg köteles a lakosságot tájékoztatni.
+
+16. § A hatósági árakra vonatkozó rendelkezések megsértése esetén a hatósági ár megállapítója határozattal
+
+- a) megtiltja a jogszabályt sértő ár további alkalmazását, és egyidejűleg kötelezi a vállalkozót a jogszerű ár alkalmazására, valamint
+- b) kötelezi a vállalkozót a hatósági árra vonatkozó rendelkezések megsértésével elért többlet árbevételnek a sérelmet szenvedett részére történő visszatérítésére, ha pedig ennek személye nem állapítható meg, az állam javára történő befizetésére,
+- c) bírságot szab ki a hatósági árakra vonatkozó rendelkezéseket megsértő vállalkozással szemben. A bírság legkisebb összege a jogsértő magatartással elért anyagi előny, maximális mértéke pedig annak kétszerese,
+- d) a 7. § (3) bekezdése szerinti rendelkezések megsértése esetén az 1997. évi CLV. törvény alapján fogyasztóvédelmi bírság kiszabása kezdeményezhető.
+
+17. § (1) A hatósági ár megállapítójának a 16. §-ban szabályozott eljárására az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvény rendelkezéseit kell alkalmazni.
+
+(2) A hatósági ár megállapítójának határozata ellen fellebbezésnek nincs helye.
+
+(3) Az egyetemes hírközlési szolgáltatások tekintetében a 16. §-ban foglaltakat a hatósági ár megállapítója helyett a Nemzeti Hírközlési Hatóság végzi, az ezzel kapcsolatos eljárásra az elektronikus hírközlésről szóló törvény szabályait kell alkalmazni.
+
+(4)
+
+18. §
+
+### Vegyes rendelkezések
+
+19. § A gazdaság egészét vagy jelentős részét érintő és az árak alakulására ható adózási, pénzügyi vagy egyéb szabályozási eszköz változása esetén a Kormány — legfeljebb hat hónapra — az árakra vonatkozóan rendelkezhet a nem hatósági árak körében is.
+
+19/A. § A gyógyszerpiac átmeneti zavarainak elhárítása, kiküszöbölése vagy a gyógyszerpiac egyensúlyának fenntartása érdekében tehető intézkedésekről külön törvény rendelkezik.
+
+20. §
+
+21. § Az e törvényben foglaltak nem érintik a külön jogszabályok szerinti polgári jogi igény érvényesítésének, illetőleg szabálysértési vagy büntetőeljárás megindításának lehetőségét.
+
+### Hatálybalépés; átmeneti szabályok
+
+22. § (1) Ez a törvény az 1991. évi január hó 1. napján lép hatályba.
+
+(2)–(3)
+
+(4)
+
+23. § A törvény hatálybalépése nem érinti a mellékletben felsorolt termékekre vonatkozóan korábban kiadott hatósági ármegállapítások érvényességét.
+
+### Melléklet az 1990. évi LXXXVII. törvényhez
+
+Hatósági áras termékek
+
+Hatósági áras termékek
+
+I. Legmagasabb ár
+
+A) Termékek
+
+| Termékszám (ITJ)(BTO) | Megnevezés | A hatósági ár megállapítója |
+| --- | --- | --- |
+| 11−3 | Földgáz ára | gazdasági és közlekedési miniszter |
+| 14−1 | Villamosenergia ára | gazdasági miniszter |
+| 1441−1−2 | Az állami tulajdonú víziközműből más víziközműnek átadott ivóvíz díja | vízgazdálkodásért felelős miniszter |
+
+B) Szolgáltatások
+
+| Szolgáltatásszám (SZTJ)(ITJ) | Megnevezés | A hatósági ár megállapítója |
+| --- | --- | --- |
+| 405−11−02-ből | A belföldi közforgalmú, vasúti menetrend szerinti személyszállítás díja | közlekedésért felelős miniszter |
+| 405−22−01-ből | A belföldi menetrend szerinti távolsági autóbusz-közlekedés díja; iskolák és tanintézetek által rendelt belföldi távolsági autóbusz-különjáratok díja | közlekedésért felelős miniszter |
+| 405−22−02-ből | A menetrend szerinti helyi autóbusz-közlekedés díja; iskolák és tanintézetek által rendelt helyi autóbusz-különjáratok díja | települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete |
+| 405−3-ból | A menetrend szerinti személyszállítás (villamos, fogaskerekű, troli, metró, földalatti) és a helyiérdekű vasút díja | települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete |
+| 64.11.12.0-ból 64.11.14.0-ból 64.11.15.0-ból | A postáról szóló 2003. évi CI. törvény 7. § (1) bekezdésében meghatározott postai belföldi fenntartott szolgáltatások díja | postaügyért felelős miniszter |
+| 64.20.11.0 64.20.12.1 64.20.12.2 | Az egyetemes elektronikus hírközlési szolgáltatás díja | elektronikus hírközlésért felelős miniszter |
+| 507−34, 45-ből | Humán célú, a járóbeteg-ellátás keretében társadalombiztosítási támogatással forgalmazható gyógyszerek kereskedelmi árrése | egészségügyért felelős miniszter |
+| 05511 | Az önkormányzati tulajdonú víziközműből szolgáltatott ivóvíz díja | települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete |
+| 18111−1−2 | Az önkormányzati tulajdonú víziközmű által biztosított szennyvízelvezetés, szennyvíztisztítás és -kezelés díja | települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete |
+| 05511 | Az állami tulajdonú víziközműből szolgáltatott ivóvíz díja | vízgazdálkodásért felelős miniszter |
+| 18111−1−2 | Az állami tulajdonú víziközmű által biztosított szennyvízelvezetés, szennyvíztisztítás és -kezelés díja | vízgazdálkodásért felelős miniszter |
+| 40.30.90.0 | Távhőszolgáltatás csatlakozási díja és lakossági távhőszolgáltatás díja | települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete |
+| SZJ’03 72.30.21 | A céginformációs szolgálat által biztosított céginformáció elektronikus adattovábbításának ára | igazságügyért felelős miniszter és az államháztartásért felelős miniszter |

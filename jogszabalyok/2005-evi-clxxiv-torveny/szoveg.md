@@ -1,0 +1,236 @@
+# 2005. évi CLXXIV. törvény
+
+a fiatalok életkezdési támogatásáról
+
+A magyar nemzet jövője, a hátrányos helyzetűek esélyeinek növelése iránti felelősségtől indíttatva, a fiatalok önálló életkezdésének anyagi megalapozása céljából az Országgyűlés a következő törvényt alkotja:
+
+### A törvény hatálya
+
+1. § (1) E törvény alapján meghatározott feltételekkel a 2005. december 31. napja után született gyermeket önálló életkezdéséhez életkezdési támogatás illeti meg.
+
+(2) E törvény személyi hatálya a 2. §-ban említett személyekre, a gyámhivatalra, az állami adóhatóságra, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervre, tárgyi hatálya a gyermek 18. életévének betöltése napjáig a Start-számlára és a kincstári letéti Start-számlára terjed ki.
+
+(3) Az életkezdési támogatással kapcsolatos ellenőrzési feladatok – az összegét meghatározó állami támogatás, valamint az adómentesség összefüggésében – az állami adóhatóság hatáskörébe tartoznak. Az államháztartás terhére történő utalások igénybevételéhez szolgáltatott adatok helyességének vizsgálatára a kiutaló is jogosult.
+
+### Fogalmak
+
+2. § E törvény alkalmazásában
+
+- 1. életkezdési támogatás: a gyermeket 18. életévének betöltése napján e törvény alapján a Magyar Köztársaság törvényes fizetőeszközében megillető összeg;
+- 2. fiatal felnőtt: a 18. életévének betöltése napját követően a 3. pontban említett személy;
+- 3. gyermek: a Magyar Köztársaság területén lakóhellyel rendelkező magyar állampolgár a 18. életévének betöltése napjáig;
+- 4. kiutaló: a kincstár;
+- 5. Start-számla: a számlavezető által a gyermek nevén vezetett értékpapírszámla, értékpapír-letéti számla, ügyfélszámla, illetőleg bankszámla;
+- 6. kincstári letéti Start-számla: a kiutaló által a gyermek nevén vezetett nyilvántartási számla;
+- 7. számlavezető: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott hitelintézet, valamint a tőkepiacról szóló törvényben meghatározott befektetési szolgáltató, amely a kincstárral Start-számla vezetés vállalására szerződést kötött;
+- 8. szülő: a gyermeknek az a családi pótlékra jogosult szülője vagy más törvényes képviselője, akinek a családi pótlékot folyósítják;
+- 9. utalási összeg: a kiutaló által a gyermek javára a Start-számlát vezető számlevezetőhöz e törvény alapján utalt összeg.
+
+### Start-számla
+
+3. § (1) A Start-számla
+
+- a) vezetés vállalására vonatkozó szerződést a kiutaló azzal a számlavezetővel köt, amely az e törvényben, és az e törvény felhatalmazása alapján kiadott jogszabályban előírt feltételeket elfogadja;
+- b) megnyitására vonatkozó megállapodás kizárólag írásban köthető.
+
+(2) Start-számlát a számlavezető az 1. § (1) bekezdése szerinti jogosultság születési anyakönyvi kivonattal történő igazolása alapján vagy a Start-számla követelés 7. § (3) bekezdése szerint történő áthelyezésekor a számlavezető e törvény szerinti kötelezettségeinek teljesítése – így különösen a kincstári letéti Start-számlán lévő követelés áthelyezése, az állami támogatás igénylése – céljából, a gyermek adóazonosító jelének vagy természetes személyazonosító adatainak rögzítésével, a választott befektetési forma szerint nyit.
+
+(3) Start-számla megnyitásának feltétele
+
+- a) a szülő hozzájárulása a gyermek (2) bekezdésben említett adatainak a számlavezető által az e törvényben foglalt jogosultságok és kötelezettségek érvényesítése – így különösen utalási összegek áthelyezése, állami támogatás igénylése – céljából történő kezeléséhez;
+- b) a 6. § (2) bekezdése szerinti esetben a szülő által adott felhatalmazás a számlavezető részére állami támogatás igénylésére.
+
+(4) A gyermek egyidejűleg csak egy számlavezetőnél rendelkezhet Start-számlával.
+
+(5) A számlavezetőre, a számlavezető által végzett szolgáltatásokra a tőkepiacról szóló törvény, illetőleg a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+
+(6) A kiutaló is vezethet Start-számlát az államháztartásról szóló 1992. évi XXXVIII. törvény. 18/B. §-a (1) bekezdésének s) pontja szerinti tevékenységi körben.
+
+(7) A „Start-számla” elnevezést, e fogalom jelzős alakját, továbbá rokon értelmű vagy idegen nyelvű megfelelőjét csak az e törvény szerinti feltételeknek megfelelő számlavezető használhatja az életkezdési támogatás kezelésére az e törvény szerinti feltételek és befektetési szabályok szerint.
+
+### Az életkezdési támogatás mértéke
+
+4. § (1) Az életkezdési támogatás a fiatal felnőttet az utalási összegek alapján – a 6. § és a 7. § rendelkezéseit is figyelembe véve – illeti meg.
+
+(2) Az utalási összeg
+
+- a) a gyermek születésének évében (első utalási összeg), továbbá
+- b) a gyermek születésének évét követő hetedik évben (második utalási összeg) és a gyermek születésének évét követő tizennegyedik évben (harmadik utalási összeg) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti rendszeres gyermekvédelmi kedvezményre jogosult gyermek esetében, valamint az átmeneti vagy tartós nevelésbe vett gyermek esetében
+
+jár.
+
+(3) A (2) bekezdés szerinti utalási összegeket – a (4) bekezdésben meghatározott kivétellel – az éves költségvetési törvény határozza meg.
+
+(4) Ha a gyermek a 2006. évben született, az első utalási összeg 40 ezer forint, a második és a harmadik utalási összeg 42-42 ezer forint.
+
+### Az életkezdési támogatásra való jogosultság érvényesítése
+
+5. § (1) Az életkezdési támogatásra való jogosultság érvényesítéséhez – a 2005. december 31. napja után született gyermekekre vonatkozóan
+
+- a) a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a naptári hónapban nyilvántartásba vett gyermekekről a gyermek adóazonosító jelének megállapítása céljából az adózás rendjéről szóló törvényben előírt adatokról, azok naptári hónapban rögzített változásairól, valamint a kiutaló e törvény szerinti kötelezettségeinek teljesítése – így különösen a kincstári letéti Start-számlán lévő követelés áthelyezése, az állami támogatás kiutalása – céljából szükséges adatokról és a gyermek lakcíméről havonta, a naptári hónap utolsó napját követő 5 munkanapon belül elektronikus úton adatot szolgáltat az állami adóhatóság részére,
+- b) az állami adóhatóság az a) pont szerinti adatszolgáltatást követő öt munkanapon belül a gyermek adóazonosító jelét elektronikus úton átadja a kiutaló részére, továbbá kiállítja az adóigazolványt, és a gyermek lakóhelyére postai úton megküldi, valamint a kiutaló részére öt munkanapon belül elektronikus úton továbbítja az e törvény szerinti kötelezettségeinek teljesítéséhez szükséges adatokat.
+
+(2) A kiutaló
+
+- a) tájékoztatóban teszi közzé a számlavezetők számára a Start-számla vezetés vállalására vonatkozó mintaszerződést,
+- b) az (1) bekezdés b) pontja szerint kapott adatok alapján 8 munkanapon belül kincstári letéti Start-számlát nyit, amelyen az első utalási összeget a gyermek születésének napjától, valamint a gyermek jogosultsága esetén – ha Start-számlával nem rendelkezik – a második utalási összeget a hetedik életéve betöltésétől, és a harmadik utalási összeget a tizennegyedik életéve betöltésétől nyilvántartja mindaddig, amíg a szülő, vagy a szülő egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek azt Start-számlára nem helyezi, vagy ameddig a (7) bekezdés szerinti jogosultsággal a jogosult nem él,
+- c) amennyiben a gyermek anyakönyvezése a születését követő egy éven túl történik – feltéve, hogy a Magyar Köztársaság területén lakóhellyel rendelkezik és születésének évében egyébként az első utalási összegre jogosult –, a kiutaló az első utalási összeget a gyermek születési évének megfelelő összeggel utólag veszi nyilvántartásba azzal, hogy második és harmadik utalási összegre a gyermek visszamenőleg nem jogosult,
+- d) a számla megnyitásával egyidejűleg tájékoztatást ad a szülőnek az életkezdési támogatással kapcsolatos tudnivalókról,
+- e) nem küld értesítést a szülőnek, ha az (1) bekezdés a) pont szerinti adatszolgáltatáskor jelezték számára, hogy az értesítés nem küldhető,
+- f) a Start-számlával rendelkező gyermek külföldre települése, illetőleg halála esetén az (1) bekezdés a) pontja alapján kapott adatokat 5 munkanapon belül továbbítja a számlavezetőhöz,
+- g) a Start-számlával rendelkező gyermek adószámának f) ponton kívüli okból történő passzívvá válásáról az (1) bekezdés a) pontja alapján kapott adatokat 5 munkanapon belül továbbítja a számlavezetőhöz,
+- h) nyilvántartást vezet
+  - ha) a számlavezetők adatairól,
+  - hb) a megnyitott Start-számlák adatairól, valamint az azokban bekövetkezett változásokról.
+
+(3) A kincstári letéti Start-számlán nyilvántartott követelés Start-számla megnyitásával és a befektetési lehetőség kiválasztásával helyezhető át a választott számlavezetőhöz.
+
+(4) A számlavezető
+
+- a) tájékoztatót tesz közzé, amely tartalmazza különösen, hogy a Start-számla vezetésére vonatkozó megállapodás megkötéséhez szükséges
+  - aa) a szülő által annak igazolása, hogy a családi pótlékot a nevére folyósítják, vagy
+  - ab) ha a megállapodást – 16. életévének betöltését követően – a gyermek köti meg, az aa) pont szerinti igazolással rendelkező szülő egyetértő nyilatkozata,
+  - ac) a gyermek adóazonosító jelének közlése az adóigazolvány bemutatásával, amely az állami adóhatóságtól az (1) bekezdés szerint kapott értesítésnek megfelelően szerezhető be, vagy
+  - ad) felhatalmazás a kiutaló részére a gyermek adóazonosító jelének az (5) bekezdés szerinti kiutalással egyidejűleg történő megküldésére a számlavezetőhöz,
+  - ae) felhatalmazás a számlavezető részére a 3. § (3) bekezdése szerinti adatkezeléshez, illetőleg az állami támogatás igényléséhez,
+  - af) a Start-számlára a 6. § (1) bekezdésének a) pontja alapján történő befizetéshez a befizető felhatalmazása a számlavezető részére, hogy a befizetett összeg esetleges visszautalásához a befizető nevét és levelezési címét vagy folyószámlaszámát nyilvántartsa,
+  - ag) a szülő, illetőleg – a szülő egyetértő nyilatkozatával 16. életévének betöltését követően – a gyermek nyilatkozata, hogy kötelezettséget vállal a saját és a gyermek személyes adataiban bekövetkező változások közlésére;
+- b) a Start-számla megnyitását megelőzően, de legkésőbb a Start-számla vezetésére vonatkozó megállapodás aláírásakor írásban adott tájékoztatás keretében – a tudomásulvétel igazolásával – ismerteti a befektetési lehetőségeket, a Start-számlával kapcsolatos tudnivalókat, ideértve különösen
+  - ba) a Start-számla megnyitásának (áthelyezésének) feltételeit,
+  - bb) a kincstári letéti Start-számlán nyilvántartott követelésnek a (3) bekezdés szerinti áthelyezéséhez a befektetési forma kiválasztásának szükségességét;
+- c) a szülő vagy a szülő egyetértő nyilatkozatával – 16. életévének betöltését követően – a gyermek döntése szerint – a befektetésre vonatkozó választást is figyelembe véve – a Start-számlát haladéktalanul megnyitja;
+- d) a kiutalóval kötött szerződésben szabályozott módon a Start-számla megnyitásáról, valamint a kincstári letéti Start-számlán nyilvántartott követelés áthelyezéséhez, illetőleg a 7. § (3) bekezdése alapján történő Start-számla áthelyezéshez szükséges egyéb adatokról a kiutalót havonta a naptári hónap utolsó napját követő 20. munkanapon értesíti;
+- e) nyilvántartja
+  - ea) a (4) bekezdés af) pontja szerinti adatokat,
+  - eb) a települési önkormányzat(ok) befizetéseit,
+  - ec) az ea) pontban foglalt rendelkezéstől függetlenül is, a 6. § (5) bekezdésének rendelkezése alapján a szülő, illetőleg a gyermek lakóhelyét, levelezési címét.
+
+(5) A kincstári letéti Start-számlán nyilvántartott összeget a kiutaló az értesítés kézhezvételétől számított 8 munkanapon belül utalja a számlavezetőhöz.
+
+(6) Ha a gyermek Start-számlával rendelkezik, a második és a harmadik utalási összeget a kiutaló a gyermek jogosultsága esetén annak igazolásától számított 8 munkanapon belül – felróható késedelem esetén az utalás összege után napi 3,5 ezrelék késedelmi kamattal növelten – utalja a számlavezetőhöz.
+
+(7) Az életkezdési támogatás kifizetését Start-számlán vagy ennek hiányában a kincstári letéti Start-számlán nyilvántartott követelés alapján
+
+- a) a fiatal felnőtt 18. életévének betöltése napjától,
+- b) a gyermek, illetőleg a fiatal felnőtt halála esetén az örökös az öröklési bizonyítvány, vagy a hagyatéki határozat jogerőre emelkedését követően kérheti.
+
+(8) A fiatal felnőtt az életkezdési támogatást a következő célokra fordíthatja:
+
+- a) tanulmányok;
+- b) lakhatás;
+- c) pályakezdés;
+- d) gyermekvállalás feltételeinek megteremtése;
+- e) jogszabályban meghatározott más cél.
+
+### Befizetés Start-számlára
+
+6. § (1) A Start-számla követelés – utoljára a gyermek 18. életéve betöltésének napjáig – kiegészíthető
+
+- a) természetes személy által történő befizetéssel évenként több ilyen befizető esetén is legfeljebb együttesen évi 120 ezer forint összeggel;
+- b) az a) pont szerinti befizetéstől függetlenül települési önkormányzat által a rendeletében meghatározott feltételekkel történő befizetéssel
+
+azzal, hogy az a) pont szerinti összeget meghaladó, valamint a gyermek külföldi letelepedésének időszakában történő befizetés Start-számlán nem írható jóvá, azt a számlavezető a befizetőnek visszautalja, továbbá azzal, hogy az önkormányzati rendelet az életkezdési támogatás felhasználására vonatkozó korlátozást csak az önkormányzat által befizetett összeg(ek) mértékéig tartalmazhat.
+
+(2) Állami támogatás illeti meg
+
+- a) az (1) bekezdés a) pontja alapján történő befizetés esetén a befizetés évében a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti rendszeres gyermekvédelmi kedvezményre jogosult gyermeket a naptári évben befizetett összeg 20 százalékának megfelelő, de legfeljebb évi 12 ezer forint összegben;
+- b) az átmeneti vagy tartós nevelésbe vett gyermeket az (1) bekezdés a) pontja szerinti befizetéstől függetlenül évi 12 ezer forint összegben;
+- c) az a) pontban nem említett gyermeket az (1) bekezdés a) pontja szerinti befizetés esetén a naptári évben befizetett összeg 10 százalékának megfelelő, de legfeljebb 6 ezer forint összegben.
+
+(3) Az állami támogatást a gyermek javára a Start-számláját vezető számlavezető a naptári évet követő március 1-jéig igényli a kiutalónál. A kiutalóval kötött szerződés szerint a számlavezető eljuttatja a (2) bekezdés a)–c) pontja szerinti csoportosításban az állami támogatásra jogosult gyermekekről készített kimutatást, amely tartalmazza a gyermekek adóazonosító jelét, Start-számláik számát, az állami támogatásra jogosító befizetések összegét, valamint a rendszeres gyermekvédelmi kedvezményre jogosult, illetőleg átmeneti vagy tartós nevelésbe vett gyermekek esetében megküldi a magasabb összegű állami támogatásra való jogosultság igazolására szolgáló, az (5) bekezdés szerint kiállított, a szülő által hozzá eljuttatott iratot. Az iratokat számlavezetőnként egy csomagban kísérőjegyzékkel együtt kell a kiutalóhoz eljuttatni.
+
+(4) Az állami támogatást a kiutaló a (3) bekezdés alapján kapott igénylésben feltüntetett befizetések után, illetőleg az átmeneti vagy tartós nevelésbe vett gyermek esetében a jogosultság időszakával arányos összegben az igénylés kézhezvételétől, de legelőbb a benyújtási határidő lejártától számított 30 naptári napon belül a számlavezetőhöz utalja
+
+- a) a (2) bekezdés c) pontja szerint, vagy
+- b) a (2) bekezdés a)–b) pontja szerint, ha a gyermeknek a rendelkezésekben meghatározott magasabb összegű állami támogatásra való jogosultsága igazolása céljából az (5) bekezdésben említett iratot a számlavezető az igényléshez csatolta.
+
+(5) A (4) bekezdés b) pontjában említett jogosultság igazolására, az államháztartásért felelős miniszter rendeletében meghatározott formában és tartalommal,
+
+- a) a (2) bekezdés a) pontjában meghatározott, a naptári évben legalább egy napig fennálló feltétel tényét rögzítő iratot a szülő vagy a szülő egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek,
+- b) átmeneti vagy tartós nevelésbe vett Start-számlával rendelkező gyermek esetében (2) bekezdés b) pontjában meghatározott jogosultságról szóló, annak a naptári évben fennálló időtartamát is tartalmazó iratot a gyámhivatal vagy egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek
+
+a számlavezető írásbeli megkeresése alapján a naptári évet követő január 15-éig juttatja el a számlavezetőhöz.
+
+(6) A (3)–(4) bekezdésben meghatározott határidő(k) felróható elmulasztása esetén a számlavezető, illetőleg a kiutaló a támogatás összege után napi 3,5 ezrelék késedelmi kamatot fizet a Start-számla javára.
+
+### A kincstári letéti Start-számlán nyilvántartott, illetőleg a Start-számla követelés kezelése
+
+7. § (1) A kiutaló Start-számlával nem rendelkező gyermek esetében
+
+- a) a kincstári letéti Start-számlán nyilvántartott követelés után
+  - aa) évenként december 31-i fordulónappal,
+  - ab) a nyilvántartott követelés Start-számlára történő áthelyezése esetén az utalást megelőző napon,
+  - ac) a gyermek külföldre települése esetén távozásának napján,
+  - ad) a gyermek adóazonosító jelének passzívvá válása napján,
+  - ae) elhunyta esetén halálának napján
+
+az ötéves állampapír hozamával egyező, az Államadósság Kezelő Központ ZRt. által a jóváírás napján közzétett mértékű kamat alapján a nyilvántartott követelés utolsó fordulónaptól számított időszakban meghatározott átlagos állománya után számított támogatást,
+
+- b) a gyámhivatal által a naptári évet követő év február 15-éig megküldött – az átmeneti vagy tartós nevelés naptári évben fennálló időtartamára vonatkozó adatszolgáltatást is tartalmazó – értesítés alapján a jogosultság időszakával arányosan az igénylés kézhezvételétől, de legelőbb a benyújtási határidő lejártától számított 30 naptári napon belül évi 12 ezer forint állami támogatást
+
+ír jóvá.
+
+(2) Start-számla követelés kezelésére bankbetét vagy a tőkepiacról szóló törvény szerint nyilvánosan forgalomba hozott állampapír, tőke- vagy hozamgarantált befektetési jegy választható.
+
+(3) Az 5. § (3) bekezdése alapján tett választásától függetlenül a szülő vagy a szülő egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a gyermek bármikor jogosult a Start-számlán nyilvántartott követelésre vonatkozóan a (2) bekezdés szerinti megtakarítási, illetőleg befektetési lehetőségek között a Start-számla állományát vagy annak egyes elemeit átcsoportosítani, illetve magát a teljes állományt más számlavezetőnél nyitott Start-számlára áthelyezni. Amennyiben az áthelyezés betétgyűjtésre nem jogosult számlavezetőnél megnyitott Start-számlára történik, dönteni kell arról, hogy az áthelyezéssel felmondott bankbetét összege milyen más, a (2) bekezdés szerinti befektetési formába kerüljön. Az áthelyezés történhet a 3. § (6) bekezdése szerint a kincstárban nyitott letéti Start-számlára is.
+
+(4) A Start-számlával rendelkező gyermek javára átutalt, befizetett összegeket, fizetett késedelmi kamatokat, továbbá a (2) bekezdés szerinti választás alapján elért kamatokat, hozamokat – a (7) bekezdésben meghatározott díj fedezetének visszatartásával – a számlavezető a gyermek javára haladéktalanul a Start-számla megállapodásban meghatározott befektetési formába fekteti mindaddig, amíg a szülő vagy a gyermek a (3) bekezdésében foglalt jogosultságával nem él.
+
+(5) A (3) bekezdés alapján történő áthelyezés esetén
+
+- a) a választott új számlavezető az áthelyezés kezdeményezőjének az új Start-számla megnyitására vonatkozó szándéknyilatkozata és a befektetési lehetőség kiválasztása alapján az áthelyezéshez szükséges adatokat tartalmazó ígérvényt ad;
+- b) a korábbi számlavezető az ígérvény alapján a nála vezetett Start-számlát megszünteti, és annak állományát haladéktalanul – felróható késedelem esetén napi 3,5 ezrelék késedelmi kamattal növelten – a választott új számlavezetőhöz áthelyezi;
+- c) az új számlavezető – a befektetésre vonatkozó választást is figyelembe véve – a Start-számlát haladéktalanul megnyitja és erről a kiutalót tájékoztatja.
+
+(6) A fiatal felnőtt 18. életéve betöltésének napját, illetőleg a gyermek halála esetén elhunytának napját követően
+
+- a) a gyermek nevén nyitott kincstári letéti Start-számlán nyilvántartott követelés után a támogatás jóváírás megszűnik;
+- b) a Start-számla követelésre az általános jogszabályi rendelkezések – ideértve különösen a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény és a tőkepiacról szóló törvény rendelkezéseit – az irányadóak.
+
+(7) Start-számlával összefüggésben felmerülő költségek miatt (megbízási díj, számlavezetési díj, jutalék stb. címen) a számlavezető évenként gyermekenként a Start-számla éves átlagos állománya legfeljebb 1 százalékának megfelelő díjat számíthat fel. E rendelkezést a gyermek 18. életéve betöltésének, illetőleg a gyermek halála esetén elhunytának napjáig kell alkalmazni.
+
+(8) Az életkezdési támogatást, illetőleg a gyermek halála esetén az örököst megillető összeget a fiatal felnőtt, illetőleg az örökös kérelmére
+
+- a) a kiutaló – kivéve a (9) bekezdésben szabályozott esetet – az állami támogatásnak a 7. § (1) bekezdés b) pontja szerinti jóváírását követő 8 munkanapon belül a kérelemben megjelölt címre vagy számlára utalja;
+- b) a számlavezető – kivéve a (10) bekezdésben szabályozott esetet – az állami támogatásnak a 6. § (4) bekezdése szerinti kiutalását követő 8 munkanapon belül készpénzben vagy a kérelemben megjelölt folyószámlára utalással fizeti ki.
+
+(9) A kiutaló a (8) bekezdésben említetteket megillető összeget a kérelem kézhezvételétől számított 8 munkanapon belül
+
+- a) fizeti ki, ha a kifizetés évére a gyermeket állami támogatás nem illeti meg;
+- b) a gyermeket a 6. § (2) bekezdés b) pontja szerint a kifizetés évében megillető állami támogatás nélkül fizeti ki, ha a kérelmező írásban hozzájárul annak a (8) bekezdés a) pontjában említett időpontot követő utólagos kifizetéséhez vagy nyilatkozik, hogy arra nem tart igényt.
+
+(10) A számlavezető a (8) bekezdésben említetteket megillető összeget a kérelem kézhezvételétől számított 8 munkanapon belül
+
+- a) fizeti ki, ha a kifizetés évére a gyermeket állami támogatás nem illeti meg;
+- b) a gyermeket a 6. § (2) bekezdése szerint a kifizetés évében megillető állami támogatás nélkül fizeti ki, ha a kérelmező írásban hozzájárul annak a (8) bekezdés b) pontjában említett időpontot követő utólagos kifizetéséhez vagy nyilatkozik, hogy arra nem tart igényt.
+
+(11) A számlavezető a gyermek adóazonosító jelének az 5. § (2) bekezdésének g) pontja szerinti passzivvá válásának napját követő 120 napon belül a számlát lezárja és a számla egyenlegét átutalja a kiutaló számlájára.
+
+(12) A kiutaló a gyermek adóazonosító jelének az 5. § (2) bekezdésének g) pontja szerinti passzivvá válásának napját követő 120 napon belül a számlát lezárja.
+
+(13) A (11)–(12) bekezdés szerint lezárt számlák egyenlegét a kiutaló visszautalja a támogatás forrását biztosító számlára.
+
+### Az életkezdési támogatás védelme
+
+8. § (1) A kincstári letéti Start-számlán nyilvántartott követelés, illetőleg Start-számla követelés az 5. § (7) bekezdésében meghatározott időpontig nem fizethető ki, nem fogadható el hitel (kölcsön) fedezetéül, pénzeszközei, befektetései nem vonhatók végrehajtás alá. Az ezzel ellentétes jognyilatkozat, cselekmény semmis.
+
+(2) Start-számlával kapcsolatban a befektető-védelmi, csőd- és felszámolási ügyekben a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény, a tőkepiacról szóló törvény, valamint a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló törvény rendelkezései az irányadóak.
+
+### Vegyes rendelkezések
+
+9. § (1) Mentes mindennemű adó, járulék és illeték alól
+
+- a) a Start-számlával rendelkező gyermeknek a javára átutalt, befizetett összegből, késedelmi kamatból, továbbá a 7. § (2) bekezdése szerinti választás alapján elért kamatból, hozamból származó bevétele;
+- b) az 5. § (7) bekezdésében meghatározott időpontot követően is a fiatal felnőttnek az életkezdési támogatás kincstári letéti Start-számlán nyilvántartott összege, illetőleg a Start-számla követelés alapján az említett időpontra vonatkozóan meghatározott összegéből származó bevétele.
+
+(2) Az (1) bekezdés b) pontjában foglaltaktól eltérően, az ott meghatározott összegnek a 6. § (1) bekezdésében foglaltak alapján befizetett összeget meghaladó része a személyi jövedelemadóról szóló törvény szerint egyéb jövedelem, ha az életkezdési támogatás jogosultja nem magyar állampolgár és/vagy nem rendelkezik a Magyar Köztársaság területén lakóhellyel.
+
+(3) A kiutaló, az állami adóhatóság, a gyámhivatal, a családtámogatási igazgatási eljárás során az igényelbíráló szerv és a Start-számlát kezelő számlavezető – az adózás rendjéről szóló törvény elévülésre vonatkozó rendelkezéseit is figyelembe véve – jogosult az életkezdési támogatással összefüggő adatok jogszabályoknak megfelelő kezelésére.
+
+### Záró rendelkezések
+
+10. § (1) Ez a törvény 2006. január 1-jén lép hatályba.
+
+(2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletet adjon ki a 6. § (5) bekezdése szerinti irat, valamint a 7. § (1) bekezdés b) pontja szerinti adatszolgáltatás egységes tartalmi és formai követelményeiről.
+
+(3)
