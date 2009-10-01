@@ -2,7 +2,7 @@
 
 a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról
 
-Az Országgyűlés az élethez, testi épséghez és méltósághoz minden embert megillető alapvető emberi jogok védelmében, összhangban a nemzetközi egyezményekkel és az Alaptörvénnyel, a hozzátartozók közötti erőszak visszaszorítása érdekében az alábbi törvényt alkotja:
+Az Országgyűlés az élethez, testi épséghez és méltósághoz minden embert megillető alapvető emberi jogok védelmében, összhangban a nemzetközi egyezményekkel és az Alkotmánnyal, a hozzátartozók közötti erőszak visszaszorítása érdekében az alábbi törvényt alkotja:
 
 ### I. Fejezet — Értelmező rendelkezések
 
@@ -15,11 +15,9 @@ Az Országgyűlés az élethez, testi épséghez és méltósághoz minden ember
 
 (3) Bántalmazó az a cselekvőképes hozzátartozó, aki a hozzátartozók közötti erőszakot megvalósítja, vagy akire tekintettel a hozzátartozók közötti erőszakot más megvalósítja, feltéve, hogy ezzel a bántalmazó egyetért.
 
-(3a) Az Európai Unió valamely tagállamában elrendelt védelmi intézkedésnek a polgári ügyekben hozott védelmi intézkedések kölcsönös elismeréséről szóló, 2013. június 12-i 606/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 606/2013/EU rendelet) alapján Magyarországon történő elismerése és végrehajtása iránti eljárásban a (2) bekezdésben foglalt bántalmazotton a 606/2013/EU rendelet szerinti védett személyt, a (3) bekezdés szerinti bántalmazón a 606/2013/EU rendelet szerinti veszélyeztető személyt is érteni kell.
+(4) E törvény alkalmazásában gyermeknek kell tekinteni a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 12. §-a szerinti kiskorút.
 
-(4) E törvény alkalmazásában gyermeknek kell tekinteni a Polgári Törvénykönyvben (a továbbiakban: Ptk.) meghatározott kiskorút.
-
-(5) E törvény alkalmazásában hozzátartozónak kell tekinteni a Ptk.-ban meghatározott közeli hozzátartozókat és hozzátartozókat, valamint a volt házastársat, a volt élettársat, a bejegyzett élettársat, a volt bejegyzett élettársat, a gondnokot, a gondnokoltat, a gyámot, a gyámoltat.
+(5) E törvény alkalmazásában hozzátartozónak kell tekinteni a Ptk. 685. § b) pontjában meghatározott közeli hozzátartozókat és hozzátartozókat, valamint a volt házastársat, a volt bejegyzett élettársat, a gondnokot, a gondnokoltat, a gyámot, a gyámoltat.
 
 (6) E törvény alkalmazásában a napokban megállapított határidő folyamatosságot jelent.
 
@@ -29,7 +27,7 @@ Az Országgyűlés az élethez, testi épséghez és méltósághoz minden ember
 
 - a) az egészségügyi szolgáltatást nyújtók, így különösen a védőnői szolgálat, a háziorvos, a házi gyermekorvos,
 - b) a személyes gondoskodást nyújtó szolgáltatók, így különösen a családsegítő szolgálat, a családsegítő központ, gyermekjóléti szolgálat, gyermekjóléti központ, gyermekek vagy családok átmeneti otthona,
-- c) a köznevelési intézmény, a szakképző intézmény és a nevelési tanácsadó,
+- c) a közoktatási intézmények, így különösen a nevelési-oktatási intézmény, a nevelési tanácsadó,
 - d) a gyámhatóság,
 - e) a rendőrség,
 - f) az ügyészség,
@@ -37,7 +35,7 @@ Az Országgyűlés az élethez, testi épséghez és méltósághoz minden ember
 - h) a pártfogó felügyelői szolgálat,
 - i) az áldozatsegítés és a kárenyhítés feladatait ellátó szervezetek,
 - j) a menekülteket befogadó állomás, a menekültek átmeneti szállása,
-- k) az egyesületek, alapítványok.
+- k) a társadalmi szervezetek, alapítványok.
 
 (2) Az (1) bekezdésben meghatározott intézmények és személyek kötelesek jelezni a családvédelmi koordinációért felelős szervnek, ha hozzátartozók közötti erőszak veszélyét észlelik.
 
@@ -80,33 +78,30 @@ Az Országgyűlés az élethez, testi épséghez és méltósághoz minden ember
 (2) Akivel szemben ideiglenes megelőző távoltartást, illetve megelőző távoltartást rendeltek el, a távoltartás hatálya alatt köteles
 
 - a) magát távol tartani a bántalmazottól,
-- b) magát távol tartani a bántalmazott tartózkodására szolgáló ingatlantól,
+- b) magát távol tartani a bántalmazott életvitelszerű tartózkodására szolgáló ingatlantól,
 - c) magát távol tartani az ideiglenes megelőző távoltartó határozatban, illetve a megelőző távoltartó határozatban megjelölt más személytől, és
 - d) tartózkodni attól, hogy a bántalmazottal közvetlenül vagy közvetve érintkezésbe lépjen.
 
-(3) Ha a bántalmazó a tartózkodására szolgáló ingatlant – a használat jogcímétől függetlenül – a bántalmazottal közösen használja, a bántalmazó nem kötelezhető a bántalmazott tartózkodására szolgáló ingatlantól való távoltartásra, ha
-
-- a) a bántalmazott az ingatlan használatára a szívességi lakáshasználaton kívül egyéb jogcímmel nem rendelkezik, de a bántalmazó igen, és
-- b) a bántalmazott a bántalmazóval folytatott életközösségében gyermeket nem nevel.
+(3) Ha a bántalmazott az életvitelszerű tartózkodására szolgáló ingatlant – a használat jogcímétől függetlenül – a bántalmazóval közösen használja, a bántalmazó akkor köteles magát távol tartani a bántalmazott életvitelszerű tartózkodására szolgáló ingatlantól, ha a bántalmazott az ingatlan használatára a szívességi lakáshasználaton kívül egyéb jogcímmel rendelkezik, vagy a bántalmazóval közös gyermekét neveli.
 
 (4) Az ideiglenes megelőző távoltartó határozat, illetve megelőző távoltartó határozat a bántalmazó más jogszabály vagy szerződés alapján fennálló tartási, valamint a bántalmazottal közösen használt ingatlan fenntartására vonatkozó fizetési kötelezettségeit nem érinti.
 
 (5) Ugyanazon bántalmazóval szemben ugyanaz a bántalmazott csak akkor kérheti újból ideiglenes megelőző távoltartás, illetve megelőző távoltartás elrendelését, ha elrendelésük e törvényben meghatározott feltételei ismételten megvalósulnak.
 
-(6) Az ideiglenes megelőző távoltartó határozat, illetve megelőző távoltartó határozat meghozatalakor a rendőrség, illetve a bíróság tájékoztatja a bántalmazót a lakóhelyén és környékén igénybe vehető éjszakai szállást nyújtó intézmények helyéről, címéről és az igénybevétel feltételeiről, valamint a bántalmazottat a 606/2013/EU rendelet szerinti tanúsítvány kiállításának lehetőségéről és feltételeiről.
+(6) Az ideiglenes megelőző távoltartó határozat, illetve megelőző távoltartó határozat meghozatalakor a rendőrség, illetve a bíróság tájékoztatja a bántalmazót a lakóhelyén és környékén igénybe vehető éjszakai szállást nyújtó intézmények helyéről, címéről és az igénybevétel feltételeiről.
 
 (7) Az ideiglenes megelőző távoltartás, illetve a megelőző távoltartás a hatályát veszti, ha a bántalmazó ellen indított büntetőeljárásban a bíróság távoltartást rendel el.
 
 ### Ideiglenes megelőző távoltartás
 
-6. § (1) A hozzátartozók közötti erőszak miatti ideiglenes megelőző távoltartással összefüggő eljárásra az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) rendelkezéseit az alábbi eltérésekkel kell alkalmazni.
+6. § (1) A hozzátartozók közötti erőszak miatti ideiglenes megelőző távoltartással összefüggő eljárásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit az alábbi eltérésekkel kell alkalmazni.
 
 (2) A rendőrség az ideiglenes megelőző távoltartást
 
 - a) helyszíni intézkedése során észlelt hozzátartozók közötti erőszakra vonatkozó tények alapján hivatalból,
-- b) a bántalmazott, illetve a bántalmazottnak a Ptk.-ban meghatározott közeli hozzátartozója és hozzátartozója, valamint bejegyzett élettársa bejelentése,
-- c) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvényben (a továbbiakban: Gyvt.), valamint a szociális igazgatásról és a szociális ellátásokról szóló törvényben meghatározott munkakörben foglalkoztatott személynek a – feladatai ellátása során tudomására jutott, a hozzátartozók közötti erőszakra vonatkozó tények miatt tett – bejelentése,
-- d) a Gyvt. szerint a gyermekvédelmi rendszerhez kapcsolódó feladatokat ellátó egészségügyi szolgáltatást nyújtónak, személyes gondoskodást nyújtó szolgáltatónak, közoktatási intézménynek a – gyermek veszélyeztetettségének megelőzése és megszüntetése érdekében törvényben meghatározott feladatai ellátása során tudomására jutott, a hozzátartozók közötti erőszakra vonatkozó tények miatt tett – bejelentése
+- b) a bántalmazott, illetve a bántalmazottnak a Ptk. 685. § b) pontjában meghatározott közeli hozzátartozója és hozzátartozója bejelentése,
+- c) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben, valamint a szociális igazgatásról és a szociális ellátásokról szóló törvényben meghatározott munkakörben foglalkoztatott személynek a – feladatai ellátása során tudomására jutott, a hozzátartozók közötti erőszakra vonatkozó tények miatt tett – bejelentése,
+- d) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerint a gyermekvédelmi rendszerhez kapcsolódó feladatokat ellátó egészségügyi szolgáltatást nyújtónak, személyes gondoskodást nyújtó szolgáltatónak, közoktatási intézménynek a – gyermek veszélyeztetettségének megelőzése és megszüntetése érdekében törvényben meghatározott feladatai ellátása során tudomására jutott, a hozzátartozók közötti erőszakra vonatkozó tények miatt tett – bejelentése
 
 alapján rendelheti el.
 
@@ -114,98 +109,74 @@ alapján rendelheti el.
 
 (4) Az ideiglenes megelőző távoltartást a (3) bekezdésben foglalt esetben a rendőrség 72 órára rendeli el.
 
-(5) A rendőrség a bántalmazott kérelmére a 606/2013/EU rendelet 5. cikke szerinti tanúsítványt (a továbbiakban: védelmi tanúsítvány) állít ki.
-
 ### Az elintézési határidő
 
 7. § (1) A rendőrség az ideiglenes megelőző távoltartó határozatot haladéktalanul, a helyszínen köteles meghozni. Ha a rendőrség az eljárása során a bántalmazóval szemben az előállítás rendőri intézkedést alkalmazza, a rendőrség a határozatot legkésőbb az előállítás időtartamának lejártáig hozza meg.
 
-(1a) A rendőrség a védelmi tanúsítványt helyszíni intézkedés esetén a helyszínen, vagy ha annak feltételei nem adottak, a helyszíni eljárás időpontjától számított legkésőbb 12 órán belül állítja ki. Ha a rendőrség az eljárása során a bántalmazóval szemben az előállítás rendőri intézkedést alkalmazza, a rendőrség a védelmi tanúsítványt az ideiglenes megelőző távoltartásról szóló határozat meghozatalával egyidejűleg állítja ki.
-
-(2) A rendőrség az ideiglenes megelőző távoltartás elrendelésével egyidejűleg az ideiglenes megelőző távoltartó határozat, illetve a védelmi tanúsítvány egyidejű megküldésével, az arra illetékes járásbíróságnál kezdeményezi a megelőző távoltartás elrendelését.
+(2) A rendőrség az ideiglenes megelőző távoltartás elrendelésével egyidejűleg az ideiglenes megelőző távoltartó határozat egyidejű megküldésével, az arra illetékes helyi bíróságnál kezdeményezi a megelőző távoltartás elrendelését.
 
 ### Az ideiglenes megelőző távoltartó határozat
 
-8. § Az ideiglenes megelőző távoltartó határozat rendelkező részének tartalmaznia kell:
+8. § Az ideiglenes megelőző távoltartó határozat rendelkező részének a Ket. 72. § (1) bekezdés d) pontjában foglaltakon kívül tartalmaznia kell:
 
 - a) a rendőrség döntését arról, hogy
-  - aa) a bántalmazó köteles a bántalmazott tartózkodására szolgáló ingatlant elhagyni, és oda az ideiglenes megelőző távoltartó határozat hatálya alatt nem térhet vissza, vagy
+  - aa) a bántalmazó köteles a bántalmazott életvitelszerű tartózkodására szolgáló ingatlant elhagyni, és oda az ideiglenes megelőző távoltartó határozat hatálya alatt nem térhet vissza, vagy
   - ab) a bántalmazóra az 5. § (2) bekezdés b) pontjában meghatározott kötelezettség az ideiglenes megelőző távoltartás hatálya alatt – az 5. § (3) bekezdése alapján – nem vonatkozik,
-- b) a bántalmazott tartózkodására szolgáló ingatlan címét,
+- b) a bántalmazott életvitelszerű tartózkodására szolgáló ingatlan címét,
 - c) a rendőrség döntését arról, hogy a bántalmazó köteles magát távol tartani a bántalmazottól, illetve a határozatban megjelölt más személytől,
 - d) a rendőrség döntését arról, hogy a bántalmazónak tilos közvetve vagy közvetlenül a bántalmazottal, illetve rá tekintettel más személlyel, így különösen az ideiglenes megelőző távoltartást elrendelő határozatban megjelölt egyéb személlyel kapcsolatba lépni,
 - e) annak megállapítását, hogy a bántalmazó szülő szülői felügyeleti joga, illetve a kiskorú gyermekével való kapcsolattartási joga szünetel,
 - f) rendelkezést a határozat azonnali végrehajthatóságáról, a végrehajtás módjáról, a foganatosítás rendjéről,
 - g) figyelmeztetést arról, hogy az ideiglenes megelőző távoltartó határozat a bántalmazó más jogszabály vagy szerződés szerinti kötelezettség alapján fennálló tartási, valamint a bántalmazottal közösen használt ingatlan fenntartására vonatkozó kötelezettségeit nem érinti,
 - h) figyelmeztetést arról, hogy az ideiglenes megelőző távoltartó határozatban előírt kötelezettségek megszegése szabálysértést valósít meg.
-- i) tájékoztatást az áldozatsegítő szolgálatról.
 
-### Az ideiglenes megelőző távoltartó határozat és a védelmi tanúsítvány közlése
+### Az ideiglenes megelőző távoltartó határozat közlése
 
 9. § (1) Az ideiglenes megelőző távoltartást elrendelő határozatot a bántalmazóval és a bántalmazottal közölni kell, és azt részükre át kell adni, illetőleg a lehető legrövidebb úton kézbesíteni kell. Megjelölt cím hiányában a határozat a rendőrségen átvehető.
 
-(2) Ha a bántalmazó a határozatot a rendőrségen nem veszi át, a határozatot a meghozatalát követő harmadik napon közöltnek kell tekinteni. E határidő elmulasztása ellen az Ákr.-ben meghatározottak szerint igazolásnak van helye.
+(2) Ha a bántalmazó a határozatot a rendőrségen nem veszi át, a határozatot a meghozatalát követő harmadik napon közöltnek kell tekinteni. E határidő elmulasztása ellen a Ket.-ben meghatározottak szerint igazolásnak van helye.
 
-(2a) A rendőrség a bántalmazottal a védelmi tanúsítványt, a bántalmazóval a védelmi tanúsítványról szóló, a 606/2013/EU rendelet 8. cikkének (1) bekezdése szerinti értesítést az (1) és (2) bekezdésben foglaltak szerint közli.
-
-(3) A rendőrség a bántalmazott kérésére, illetve beleegyezésével a határozatot megküldi az illetékes családsegítő szolgálatnak, a gyermekjóléti szolgálatnak abban az esetben, ha a bántalmazott háztartásában kiskorú él. Ha a bántalmazott gyámság vagy gondnokság alá tartozó személy, a rendőrség a határozatot a gyámolt vagy a gondnokolt lakóhelye szerinti gyámhatóságnak is megküldi.
-
-(3a) A rendőrség a távoltartó határozatot megküldi az érdekérvényesítés elősegítése szolgáltatás igénybevételének lehetőségét biztosító áldozatsegítő központnak.
+(3) A rendőrség a bántalmazott kérésére, illetve beleegyezésével a határozatot megküldi az illetékes családsegítő szolgálatnak, a gyermekjóléti szolgálatnak abban az esetben, ha a bántalmazott háztartásában kiskorú él. Ha a bántalmazott gyámság vagy gondnokság alá tartozó személy, a rendőrség a határozatot a gyámolt vagy a gondnokolt állandó lakóhelye szerinti gyámhivatalnak is megküldi.
 
 (4) A rendőrség értesítése alapján a távoltartó határozat meghozatalát követő huszonnégy órán belül a családsegítő szolgálat, együtt élő kiskorú hozzátartozó esetében a gyermekjóléti szolgálat köteles a bántalmazottat és a bántalmazót felkeresni és velük segítő kapcsolatot kezdeményezni, illetve a kiskorút veszélyeztető helyzet megszüntetése érdekében intézkedni.
 
-(5) A rendőrség értesítése alapján a távoltartó határozat kézhezvételét követő munkanapon az áldozatsegítő központ köteles a bántalmazottal felvenni a kapcsolatot, és – kérésére – számára az érdekérvényesítés elősegítése szolgáltatást nyújtani.
-
 ### Fellebbezés
 
-10. § A határozat ellen fellebbezésnek nincs helye.
+10. § A határozat ellen fellebbezésnek nincs helye. a rendőrség határozatának bírói felülvizsgálatára közigazgatási nemperes eljárásban kerül sor.
 
 ### Felvilágosítás
 
-11. § A rendőrség az eljárás megindításakor köteles a bántalmazott részére felvilágosítást adni az áldozatsegítő, a szociális és jogi segítségnyújtó szervekről, szervezetekről és intézményekről, a civil segítő szervezetekről, valamint a rendelkezésre álló pénzbeli segítségnyújtási lehetőségekről is, továbbá a bántalmazott kérelmére segítséget nyújtani a védelmi tanúsítvány más tagállamban történő felhasználásával összefüggésben.
+11. § A rendőrség a Ket. 5. §-ának (2) bekezdésében írt rendelkezésen túl az eljárás megindításakor köteles a bántalmazott részére felvilágosítást adni az áldozatsegítő, a szociális és jogi segítségnyújtó szervekről, szervezetekről és intézményekről, valamint a civil segítő szervezetekről, továbbá a rendelkezésre álló pénzbeli segítségnyújtási lehetőségekről.
 
-### Az ideiglenes megelőző távoltartó határozat elleni jogorvoslat
+### Az ideiglenes megelőző távoltartó határozat bírósági felülvizsgálata
 
-12. § (1) A határozat elleni jogorvoslatra a közigazgatási nemperes eljárásokra vonatkozó általános szabályokat az alábbi eltérésekkel kell alkalmazni.
+12. § (1) A határozat bírói felülvizsgálatára a közigazgatási nemperes eljárásokra vonatkozó általános szabályokat az alábbi eltérésekkel kell alkalmazni.
 
-(2) A kérelem elbírálására a bántalmazott tartózkodási helye szerinti járásbíróság jogosult. A kérelmet a határozat közlésétől számított három napon belül kell a bíróságnál benyújtani. A bíróság a kérelemről annak beérkezésétől számított három munkanapon belül határoz.
+(2) A határozat bírósági felülvizsgálatát a határozat kézbesítésétől számított három napon belül lehet kérni. A kérelem elbírálására a bántalmazott életvitelszerű tartózkodási helye szerinti helyi bíróság jogosult.
 
-(3)–(5)
+(3) A kérelem benyújtásának a távoltartó határozat végrehajtására nincs halasztó hatálya, azonban a bíróság a határozat végrehajtását felfüggesztheti.
 
-(6) Amennyiben a bíróság tudomást szerez arról, hogy ugyanazon hozzátartozók közötti erőszak miatt ideiglenes megelőző távoltartó határozat elleni jogorvoslatra irányuló nemperes eljárás és a megelőző távoltartás elrendelésére irányuló nemperes eljárás is folyamatban van, ezen eljárásokat a megelőző távoltartás elrendelésére irányuló nemperes eljárást folytató bíróságon kell egyesíteni.
+(4) A bíróság a kérelemről annak beérkezésétől számított három munkanapon belül határoz.
 
-(6a) A bíróság (2) bekezdés szerinti határozata ellen fellebbezésnek van helye. A fellebbezést az eljáró járásbíróság székhelye szerint illetékes törvényszék bírálja el.
+(5) A bíróság a közigazgatási határozatot megváltoztathatja.
 
-(7) Ha a bántalmazott részére a rendőrség az ideiglenes megelőző távoltartásról szóló határozata alapján védelmi tanúsítványt állított ki, a bántalmazott, vagy a bántalmazó erre irányuló kérelmére
-
-- a) a védelmi tanúsítvány saját hatáskörben való kijavítása, kiegészítése vagy visszavonása esetén ennek tényéről,
-- b) az azonnali jogvédelem biztosításának tényéről,
-- c) a határozat bíróság általi megváltoztatása esetén az ideiglenes megelőző távoltartás megváltozásáról,
-- d) a 16. § (4) és (5) bekezdésében meghatározott esetben az ideiglenes megelőző távoltartás hatályának megszűnéséről
-
-a 606/2013/EU rendelet 14. cikke szerinti tanúsítványt állít ki.
-
-(8) A (7) bekezdés szerinti tanúsítványt szóban előterjesztett kérelem esetén azonnal, írásbeli kérelem esetén a kérelem beérkezésétől számított 12 órán belül kell kiállítani.
+(6) Amennyiben a bíróság tudomást szerez arról, hogy ugyanazon hozzátartozók közötti erőszak miatt ideiglenes megelőző távoltartó határozat bírói felülvizsgálatára irányuló nemperes eljárás és a megelőző távoltartás elrendelésére irányuló nemperes eljárás is folyamatban van, ezen eljárásokat a megelőző távoltartás elrendelésére irányuló nemperes eljárást folytató bíróságon kell egyesíteni.
 
 ### Megelőző távoltartás
 
-13. § (1) A megelőző távoltartás elrendeléséről a bíróság polgári nemperes eljárásban dönt.
+13. § (1) A megelőző távoltartás elrendeléséről a bíróság nemperes eljárásban dönt.
 
-(2) A megelőző távoltartás elrendelésére irányuló nemperes eljárásban azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni.
+(2) A megelőző távoltartás elrendelésére irányuló nemperes eljárásra a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) szabályait – az e törvényben foglalt eltérésekkel – megfelelően alkalmazni kell.
 
-(3) Az eljárásra a bántalmazott tartózkodási helye szerinti járásbíróság illetékes.
+(3) Az eljárásra a bántalmazott életvitelszerű tartózkodási helye szerinti helyi bíróság illetékes.
 
-(4) A Pp. kizárásra irányuló szabályait azzal kell alkalmazni, hogy nem járhat el bíróként és ügyészként az ideiglenes megelőző távoltartás során eljáró rendőr, valamint annak Ptk. szerinti hozzátartozója sem.
+(4) A Pp. kizárásra irányuló szabályait azzal kell alkalmazni, hogy nem járhat el bíróként és ügyészként az ideiglenes megelőző távoltartás során eljáró rendőr, valamint annak Pp. szerinti hozzátartozója sem.
 
 (5) Az ügyész a megelőző távoltartás bírói elrendelésére irányuló eljárásban felléphet, az eljáró bíróság haladéktalanul értesíti az ügyészt az eljárás megindításáról.
 
 (6) Az eljárásban nem járhat el bírósági titkár.
 
-14. § (1) A megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárást a rendőrség hivatalból kezdeményezi, ha ideiglenes megelőző távoltartást rendelt el. Megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárás megindítását a bántalmazott, illetve a bántalmazottnak a Ptk.-ban meghatározott közeli hozzátartozója és hozzátartozója, valamint bejegyzett élettársa is kérelmezheti. Az ideiglenes megelőző távoltartást elrendelő rendőrség a kezdeményezésben hivatalból, más esetben a kérelem benyújtására jogosult személy kérésére azonnal, írásban nyilatkozik arról, hogy a bántalmazó mozgását nyomon követő technikai eszköz alkalmazásának feltételei rendelkezésre állnak-e.
-
-(1a) A megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárást a Gyvt. 51. § (5) és (10) bekezdése szerinti befogadás esetén a krízisközpont vagy a titkos menedékház képviselője is kezdeményezheti. Ebben az esetben a kezdeményező a bántalmazott mellett kérelmezőnek minősül és a bíróság rendelkezésére bocsátja a befogadást alátámasztó tényeket tartalmazó dokumentumot.
-
-(1b) Az (1a) bekezdés alapján kezdeményezett eljárás esetén a bántalmazott tényleges tartózkodási helyének adatait zártan kell kezelni, azokat a bántalmazó nem ismerheti meg.
+14. § (1) A megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárást a rendőrség hivatalból kezdeményezi, ha ideiglenes megelőző távoltartást rendelt el. Megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárás megindítását a bántalmazott, illetve a bántalmazottnak a Ptk. 685. § b) pontjában meghatározott közeli hozzátartozója és hozzátartozója is kérelmezheti.
 
 (2) Hivatalból indított eljárásban a rendőrség, a megelőző távoltartás elrendelésére irányuló bírósági nemperes eljárás kezdeményezése esetén a családvédelmi koordinációért felelős szerv, valamennyi rendelkezésére álló iratot, dokumentumot a bíróság rendelkezésére bocsátja.
 
@@ -214,22 +185,16 @@ a 606/2013/EU rendelet 14. cikke szerinti tanúsítványt állít ki.
 - a) az eljárás lefolytatására irányuló kérelmet,
 - b) a kérelem előterjesztésének indokait,
 - c) a rövid tényállást és az előzményeket,
-- d) a kérelmező nevét, lakóhelyét,
+- d) a kérelmező nevét, lakóhelyét, valamint
 - e) a bántalmazó azonosítására és elérhetőségére vonatkozó, rendelkezésére álló adatokat.
-
-(3a) Ha a bántalmazott védelmi tanúsítvány kiállítását is kéri, a (3) bekezdés szerinti kérelemben erről nyilatkozni kell.
 
 (4) A kérelmet írásban lehet előterjeszteni, vagy az illetékes bíróságon jegyzőkönyvbe lehet mondani.
 
-15. § (1) Az eljárás során a bíróság a felek személyes meghallgatását legalább egyszer köteles megkísérelni. A személyes meghallgatásra szóló idézés kézbesítése iránt a bíróság – szükség esetén elektronikus úton – a rendőrséget is megkeresheti. Szabályszerű az idézés, ha a fél a meghallgatásról igazolhatóan értesült.
+15. § (1) Az eljárás során a bíróság a felek személyes meghallgatását legalább egyszer köteles megkísérelni.
 
-(2) A hivatalból indult, illetve a krízisközpont vagy a titkos menedékház képviselője által kezdeményezett eljárásban a döntéshozatalnak nem akadálya, ha a meghallgatáson személyesen egyik fél sem jelenik meg.
+(2) Hivatalból indult eljárásban a döntéshozatalnak nem akadálya, ha a meghallgatáson személyesen egyik fél sem jelenik meg.
 
 (3) Kérelemre indult eljárásban, ha a bántalmazott kérelmező személyesen nem jelenik meg és távolmaradását alapos indokkal nem menti ki, továbbá ha a kérelem nem tartalmazza a 14. § (3) bekezdésében meghatározottakat, a bíróság az eljárást megszünteti. Kérelemre indult eljárásban nem akadálya a döntés meghozatalának az, ha a bántalmazó nem jelenik meg személyesen a meghallgatáson.
-
-(3a) A (2) és (3) bekezdésben foglaltakra a feleket a személyes meghallgatásra szóló idézésben figyelmeztetni kell.
-
-(3b) Nincs helye az eljárás megszüntetésének, ha a krízisközpont vagy a titkos menedékház képviselője által kezdeményezett eljárásban a bántalmazott személyesen nem jelenik meg, és a távolmaradását alapos indokkal nem menti ki.
 
 (4) Az eljárásban hiánypótlásnak csak kérelemre indult eljárásban, rendkívül indokolt esetben, a kérelem hiányossága esetén van helye. Ebben az esetben a bíróság a kérelem beérkezésétől számított egy napon belül felhívja a feleket hiánypótlásra.
 
@@ -237,29 +202,11 @@ a 606/2013/EU rendelet 14. cikke szerinti tanúsítványt állít ki.
 
 (6) Az eljárást hivatalból indult eljárás esetén a rendőrség által elrendelt ideiglenes megelőző távoltartás kezdő időpontjától számított három napon belül, kérelemre indult eljárás esetén a kérelem beérkezésétől számított három munkanapon belül le kell folytatni.
 
-(7) A személyes meghallgatáson a bíróság – a rendőrségi iratokban vagy a kérelemben foglaltakra, így különösen a hozzátartozók közötti erőszak módjára, rendszerességére, a bántalmazott kiszolgáltatott helyzetére figyelemmel – a bántalmazott és a bántalmazó egymás jelenlétében való meghallgatását részben vagy teljes egészében mellőzheti. Indokolt esetben a bíróság gondoskodik annak megakadályozásáról is, hogy a bántalmazott és a bántalmazó a bíróság épületében személyesen találkozzon. A határozat közlésére ez esetben is a 16. § (3) bekezdését kell megfelelően alkalmazni.
+16. § (1) A megelőző távoltartást a bíróság akkor rendeli el, ha az eset összes körülményéből, így különösen a bántalmazó és a bántalmazott által előadott tényekből, a hozzátartozók közötti erőszakra utaló jelekből, a bántalmazó és a bántalmazott magatartásából és viszonyából a hozzátartozók közötti erőszak elkövetésére megalapozottan lehet következtetni.
 
-(8) A bíróság a megelőző távoltartás elrendelésére irányuló eljárásban a kérelmező indítványára, amennyiben a bántalmazott krízisközpontban vagy titkos menedékházban kerül elhelyezésre, elrendeli a bántalmazott meghallgatásának elektronikus hírközlő hálózaton keresztül történő lefolytatását.
+(2) A megelőző távoltartást a bíróság legfeljebb harminc napra rendelheti el.
 
-16. § (1) A megelőző távoltartást a bíróság akkor rendeli el, ha az eset összes körülményéből, így különösen a bántalmazó és a bántalmazott által előadott tényekből, a hozzátartozók közötti erőszakra utaló jelekből, a bántalmazó és a bántalmazott magatartásából és viszonyából, továbbá a krízisközpont vagy a titkos menedékház befogadást alátámasztó tényeket tartalmazó dokumentum adatai alapján a hozzátartozók közötti erőszak elkövetésére megalapozottan lehet következtetni.
-
-(2) A megelőző távoltartást a bíróság legfeljebb hatvan napra rendelheti el.
-
-(2a) A bíróság határozata előzetesen végrehajtható. A bíróság határozatában arra is figyelmezteti a bántalmazót, hogy a távoltartó határozat szabályainak megszegése elzárással is büntethető szabálysértést valósít meg.
-
-(2b) A megelőző távoltartás elrendelésével egyidejűleg – a bántalmazott erre irányuló kérelmére – a bíróság védelmi tanúsítványt állít ki.
-
-(2c) Ha ennek technikai feltételei a rendőrség nyilatkozata alapján rendelkezésre állnak, a bíróság a bántalmazott kérelmére elrendelheti, hogy a megelőző távoltartás magatartási szabályainak megtartását a rendőrség a bántalmazó – valamint beleegyezése esetén a bántalmazott – mozgását nyomon követő technikai eszközzel, valamint alkalmazással ellenőrizze. A bíróság a technikai eszköz alkalmazásának szabályait a megelőző távoltartás magatartási szabályai között határozza meg. A megelőző távoltartás magatartási szabályainak megtartásának ellenőrzésére szolgáló technikai eszköz kiskorú személyre nem telepíthető.
-
-(2d) A (2c) bekezdés alapján elrendelt ellenőrzés céljából kiadott technikai eszköz aktiválásakor a rendőrség a bántalmazót rendeletben megállapított egyszeri díj megfizetésére kötelezi. A díjat a megállapítástól számított 30 napon belül kell megfizetni.
-
-(2e) A bántalmazó a három napon belül benyújtott kérelmére különös méltánylást érdemlő okból mentesíthető a díjfizetési kötelezettség alól. Ebben az esetben a megjelölt költséget az állam viseli.
-
-(3) A bíróság a határozatát a meghallgatás alkalmával közli a felekkel, azt nekik átadja. Ha a meghallgatáson a bántalmazó nem jelent meg, a bíróság – szükség esetén elektronikus úton – a rendőrség útján intézkedik a kézbesítésről. A rendőrség köteles a határozat kézbesítéséről gondoskodni és a kézbesítés megtörténtéről a bíróságot haladéktalanul tájékoztatni.
-
-(3a) A bíróság a bántalmazottal a védelmi tanúsítványt, a bántalmazóval a védelmi tanúsítványról szóló, a 606/2013/EU rendelet 8. cikkének (1) bekezdése szerinti értesítést a (3) bekezdésben foglaltak szerint közli.
-
-(3b) Ha a 14. § (1a) bekezdése alapján indított eljárásban a bíróság által elrendelt megelőző távoltartás gyermek jogát is érinti, a bíróság a határozatot az illetékes gyámhatóságnak is megküldi.
+(3) A bíróság a határozatát a meghallgatás alkalmával közli a felekkel, azt nekik átadja. Ha a meghallgatáson a bántalmazó nem jelent meg, a bíróság a rendőrség útján intézkedik a kézbesítésről. A rendőrség köteles a határozat kézbesítéséről gondoskodni.
 
 (4) A rendőrség által elrendelt ideiglenes megelőző távoltartás hatálya a bíróság által elrendelt megelőző távoltartás hatályának beálltával megszűnik.
 
@@ -267,203 +214,84 @@ a 606/2013/EU rendelet 14. cikke szerinti tanúsítványt állít ki.
 
 (6) A határozatban foglaltak nemteljesítése esetén bírósági végrehajtásnak nincs helye.
 
-(7) A bíróság határozata ellen a közléstől számított három munkanapon belül van helye fellebbezésnek. A fellebbezést az arra jogosult a személyes meghallgatáson szóban is bejelentheti.
-
-(8) Fellebbezés bejelentése esetében az elsőfokú bíróság – ha a fellebbezési határidő valamennyi fellebbezésre jogosultra letelt – az iratokat haladéktalanul felterjeszti a másodfokú bírósághoz. A felek a fellebbezésre észrevételeiket az iratok felterjesztéséig az elsőfokú bíróságnál, az iratok felterjesztését követően a másodfokú bíróságnál tehetik meg. Ha a fél a fellebbezésre vonatkozó észrevételét az iratok felterjesztését követően az elsőfokú bírósághoz nyújtja be, az elsőfokú bíróság azt haladéktalanul továbbítja a másodfokú bírósághoz.
-
-(9) A másodfokú bíróság a fellebbezést az iratok alapján 3 munkanapon belül bírálja el. Az elsőfokú határozat hatályon kívül helyezésének a Pp. 381. §-a alapján nincs helye. A másodfokú bíróság határozatát a rendőrség útján közli a felekkel.
-
-(10) Ha a bántalmazott részére az elsőfokú bíróság a megelőző távoltartás elrendelése mellett védelmi tanúsítványt állított ki, a bántalmazott, illetve a bántalmazó erre irányuló kérelmére
-
-- a) a védelmi tanúsítvány saját hatáskörben való kijavítása, kiegészítése vagy visszavonása esetén ennek tényéről,
-- b) ha a fellebbezés folytán a másodfokú bíróság a megelőző távoltartást elrendelő határozatot megváltoztatta vagy hatályon kívül helyezte, ennek tényéről
-
-a védelmi tanúsítványt kiállító elsőfokú bíróság a 606/2013/EU rendelet 14. cikke szerinti tanúsítványt állít ki.
-
 17. § Ha polgári perben ideiglenes megelőző távoltartásra okot adó körülményt észlel a bíróság, az e tényre vonatkozó adatokat – soron kívül – közli a rendőrséggel.
-
-### A más tagállamban elrendelt védelmi intézkedés alapján előterjesztett megkeresésekkel kapcsolatos eljárás
-
-17/A. § (1) A más tagállamban elrendelt védelmi intézkedésnek a 606/2013/EU rendelet 4. cikke alapján Magyarországon kezdeményezett elismerésére és végrehajtására a megelőző távoltartás szabályait kell megfelelően alkalmazni az e §-ban foglalt eltérésekkel azzal, hogy kérelemnek a rendelet 4. cikke szerinti megkeresést (a továbbiakban e § alkalmazásában: megkeresés) kell tekinteni.
-
-(2) A megkeresést a bíróság megvizsgálja és 3 munkanapon belül
-
-- a) hiánypótlásra hívja fel a bántalmazottat, ha a megkeresés nem felel meg a 606/2013/EU rendeletben előírtaknak,
-- b) a megkeresés alapjául szolgáló védelmi intézkedésnek a 606/2013/EU rendelet 11. cikke szerinti megváltoztatásával megelőző távoltartást rendel el,
-- c) a megkeresés alapjául szolgáló védelmi intézkedés tartalmával egyezően megelőző távoltartást rendel el, vagy
-- d) a megkeresést a bántalmazó erre irányuló kérelmére a 606/2013/EU rendelet 13. cikkének (1) bekezdése alapján elutasítja.
-
-(3) Ha a bántalmazott a (2) bekezdés a) pontjában foglalt felhívásnak nem tesz eleget, a bíróság a megkeresést elutasítja. Az elutasított megkeresés ismételten előterjeszthető.
-
-(4) A bíróság a (2) bekezdés a) és c) pontjában foglalt esetben nem, a (2) bekezdés b) és d) pontjában foglalt esetben csak szükség szerint kísérli meg a felek személyes meghallgatását.
-
-(5) A bíróság a megelőző távoltartást a megkeresés alapjául szolgáló védelmi intézkedésben meghatározott időre, de legfeljebb 12 hónapra rendeli el.
-
-(6) A bántalmazott és a bántalmazó a bíróság (2) bekezdés d) pontja és (3) bekezdése szerinti döntésével, valamint a (2) bekezdés b) pontja szerinti határozatának a megkeresés alapjául szolgáló védelmi intézkedést megváltoztató részével szemben fellebbezéssel élhet.
-
-17/B. § (1) A 606/2013/EU rendelet 14. cikkének (2) bekezdése szerinti tanúsítványt (a továbbiakban e § alkalmazásában: tanúsítvány) a tanúsítvány alapjául szolgáló védelmi intézkedés alapján a 17/A. § (2) bekezdés b) vagy c) pontja szerinti megelőző távoltartást elrendelő bírósághoz kell benyújtani.
-
-(2) A bíróság a tanúsítvány benyújtását követő 3 munkanapon belül a megelőző távoltartást
-
-- a) elrendelő határozatát megváltoztatja, ha a tanúsítvány értelmében a megelőző távoltartás alapjául szolgáló védelmi intézkedést vagy annak végrehajtását az eredeti eljárás helye szerinti tagállamban módosították,
-- b) felfüggeszti, ha a tanúsítvány értelmében a megelőző távoltartás alapjául szolgáló védelmi intézkedést vagy annak végrehajtását az eredeti eljárás helye szerinti tagállamban felfüggesztették, vagy
-- c) elrendelő határozatát hatályon kívül helyezi, ha a tanúsítvány értelmében a megelőző távoltartás alapjául szolgáló védelmi intézkedést vagy az annak alapján a 606/2013/EU rendelet 5. cikke szerint kiállított tanúsítványt az eredeti eljárás helye szerinti tagállamban visszavonták.
-
-(3) A bíróság (2) bekezdésben foglalt döntésével szemben fellebbezésnek nincs helye.
-
-### III/A. Fejezet — ELÍTÉLTTEL SZEMBEN ELRENDELHETŐ MEGELŐZŐ TÁVOLTARTÁS
-
-### Általános rendelkezések
-
-17/C. § (1) Az elítélttel szemben elrendelt megelőző távoltartás a személy elleni erőszakos bűncselekmény miatt jogerősen elítélt személy tartózkodási hely szabad megválasztásához fűződő jogát, illetve cselekvési szabadságát korlátozza.
-
-(2) Az elítélttel szemben elrendelhető megelőző távoltartás célja, hogy a személy elleni erőszakos bűncselekmény sértettje számára jogi védelmet nyújtson a végrehajtandó szabadságvesztésre ítélt elkövető önkényes kapcsolatfelvételével szemben a büntetés kiszabását követően. Az elítélttel szemben elrendelhető megelőző távoltartás elrendelésének kizárólag a sértett kérelmére van helye.
-
-(3) Az elítélttel szemben elrendelhető megelőző távoltartás hatálya – a (4) bekezdésben meghatározott kivétellel – a végrehajtandó szabadságvesztés kitöltését követő időszakra terjed ki.
-
-(4) Ha az elítélttel szemben elrendelhető megelőző távoltartást a büntetőbíróság a jogerős ítéletében vagy a büntetés-végrehajtási bíró a szabadságvesztés büntetés kitöltését megelőzően rendeli el, az elítélttel szemben elrendelhető megelőző távoltartás hatálya kiterjed a jogerős bírósági döntés és a szabadságvesztés kitöltése közötti időszakra is.
-
-(5) E Fejezet alkalmazásában sértett a büntetőeljárásról szóló 2017. évi XC. törvény 50. §-ában meghatározottak szerinti személy, akivel szemben személy elleni erőszakos bűncselekményt követtek el és emiatt végrehajtandó szabadságvesztésre ítélték az elkövetőt.
-
-17/D. § (1) A sértett kérelmére az elítélttel szemben elrendelhető megelőző távoltartást el kell rendelni, ha az elítéltet a sértett sérelmére elkövetett személy elleni erőszakos bűncselekmény miatt végrehajtandó szabadságvesztésre ítélték.
-
-(2) Fiatalkorú elítélttel szemben elrendelhető megelőző távoltartás elrendelésének nincs helye.
-
-(3) Az elítélttel szemben elrendelhető megelőző távoltartás végleges hatályú.
-
-(4) Az elítélt a sértettől való távoltartás elrendelése esetén köteles
-
-- a) magát a sértettől távol tartani,
-- b) véletlenszerű találkozás esetén a sértett felhívására tőle a lehetséges mértékben eltávolodni,
-- c) ha ez számára ismert, akkor a sértett lakóhelyétől, tartózkodási helyétől és munkahelyétől, illetve az általa látogatott nevelési-oktatási intézménytől magát távol tartani, vagy ha a sértett ezen adatai számára nem ismertek, azok felkutatásától tartózkodni,
-- d) tartózkodni attól, hogy a sértettel közvetlenül vagy közvetve érintkezésbe lépjen, és
-- e) tartózkodni attól, hogy a sértett magánéletébe, illetve mindennapi életébe egyéb módon önkényesen beavatkozzon.
-
-(5) A bíróság a sértett kérelmére vagy a terhelt kezdeményezésére a sértett hozzájárulásával, a (4) bekezdésben meghatározott korlátozások végrehajtására vonatkozó részletes szabályokat, illetve ezzel kapcsolatban az elítélt részére magatartási szabályokat határozhat meg, valamint azokat módosíthatja vagy megszüntetheti.
-
-(6) A korlátozások végrehajtása, illetve a magatartási szabályok betartásának ellenőrzése érdekében az elítélt mozgását nyomon követő technikai eszköz alkalmazásának nincs helye.
-
-(7) Az elítélttel szemben elrendelhető megelőző távoltartás nem akadálya annak, hogy az elítélt
-
-- a) a sértett képviselője útján vagy jogszabályban meghatározott más módon kapcsolatfelvételt kezdeményezzen vagy
-- b) hivatalos eljárásban a jogait gyakorolja.
-
-(8) Az elítélttel szemben elrendelhető megelőző távoltartás nem érinti az elítélt gyermekével történő kapcsolattartását, illetve a szülői felügyeleti jogának a gyakorlását, ezeket a polgári jogi jogszabályok és a gyermekvédelmi jogszabályok határozzák meg.
-
-(9) Az elítélttel szemben elrendelhető megelőző távoltartása elrendelésének nem akadálya, hogy az elítélttel szemben a büntetés-végrehajtási bíró a feltételes szabadságra bocsátás mellett a pártfogó felügyelet külön magtartási szabályaként távoltartást, vagy más büntetőügyben a bíróság távoltartás kényszerintézkedést rendelt el.
-
-(10) A bíróság a sértett kérelmére az elítélttel szemben elrendelt megelőző távoltartást megszünteti. Ez esetben ugyanezen a jogalapon újabb, elítélttel szemben elrendelhető megelőző távoltartás elrendelésének nincs helye.
-
-17/E. § (1) Az elítélttel szemben elrendelhető megelőző távoltartás elrendelését a sértett
-
-- a) a büntetőeljárásban a jogerős ítélet meghozataláig a nyomozó hatóságnál vagy az ügyben eljáró bíróságnál indítványozhatja,
-- b) a szabadságvesztés büntetés végrehajtása, illetve az elítélt feltételes szabadságra bocsátása ideje alatt a büntetőügyben elsőfokon eljárt bíróságnál kérelmezheti,
-- c) a szabadságvesztés büntetés kitöltését követő legfeljebb egy év elteltéig a lakóhelye, ennek hiányában a tartózkodási helye szerinti járásbíróságnál kérelmezheti.
-
-(2) Az elítélttel szemben elrendelhető megelőző távoltartás elrendeléséről
-
-- a) az (1) bekezdés a) pontja szerinti esetben a büntetőeljárás során eljáró bíróság a büntetőeljárásról szóló törvény szabályai szerint,
-- b) az (1) bekezdés b) pontja szerinti esetben a büntetés-végrehajtási bíró a büntetés-végrehajtásról szóló törvény szabályai szerint,
-- c) az (1) bekezdés c) pontja szerinti esetben az e törvény szerint eljáró bíróság e Fejezet szabályai szerint
-
-dönt.
-
-(3) Az elítélttel szemben elrendelhető megelőző távoltartás elrendeléséről hozott határozatban a bíróság a sértett lakóhelyét, illetve tartózkodási helyét csak abban az esetben jelölheti meg, ha ez a 17/D. § (5) bekezdése szerinti magatartási szabályok meghatározása miatt szükséges.
-
-(4) A bíróság a sértett kérelmére utóbb
-
-- a) az elítélttel szemben elrendelt megelőző távoltartást megszünteti vagy
-- b) a 17/D. § (5) bekezdésében meghatározott feltételeket módosítja.
-
-(5) A (4) bekezdés szerinti kérelemről
-
-- a) az (1) bekezdés b) pontja szerinti esetben a büntetés-végrehajtási bíró,
-- b) a szabadságvesztés kitöltését követően az e törvény szerint eljáró bíróság
-
-dönt.
-
-(6) Az e törvényben nem szabályozott kérdésekben, így különösen a jogorvoslatra, illetve a sértett és a terhelt meghallgatására vonatkozóan, a büntetőeljárás során a büntetőeljárásról szóló törvény, a büntetés végrehajtása során a büntetés-végrehajtásról szóló törvény rendelkezéseit kell alkalmazni.
-
-### Az elítélttel szemben elrendelhető megelőző távoltartás elrendelésére és az ezzel kapcsolatos egyéb döntésekre irányuló polgári nemperes eljárás különös szabályai
-
-17/F. § (1) A 17/E. § (1) bekezdés c) pontja szerinti esetben az elítélttel szemben elrendelhető megelőző távoltartás elrendeléséről, illetve a 17/E. § (5) bekezdés b) pontja szerinti kérelemről a bíróság polgári nemperes eljárásban dönt.
-
-(2) Az elítélttel szemben elrendelhető megelőző távoltartás elrendelésére irányuló nemperes eljárásban azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a Pp. szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni.
-
-(3) Az eljárásra a sértett lakóhelye, ennek hiányában tartózkodási helye szerinti járásbíróság illetékes.
-
-(4) A Pp. kizárásra irányuló szabályait azzal kell alkalmazni, hogy nem járhat el bíróként az ideiglenes megelőző távoltartás során eljáró rendőr, valamint annak Ptk. szerinti hozzátartozója sem.
-
-(5) Az eljárásban nem járhat el bírósági titkár.
-
-17/G. § (1) A kérelemnek tartalmaznia kell:
-
-- a) az eljárás lefolytatására irányuló kérelmet,
-- b) a büntetést kiszabó ítéletet hozó bíróság megnevezését és ügyszámát,
-- c) a kérelmező nevét, lakóhelyét, ennek hiányában tartózkodási helyét,
-- d) az elítélt nevét.
-
-(2) A kérelmet írásban lehet előterjeszteni, vagy az illetékes bíróságon jegyzőkönyvbe lehet mondani. A sértett kérheti a lakóhelyére, illetve a tartózkodási helyére vonatkozó adatai zárt kezelését.
-
-(3) A sértett kérheti, hogy a bíróság a személyes meghallgatáson az elítélttől elkülönítve hallgassa meg, vagy hogy a meghallgatására egyszerűsített telekommunikációs jelenlét útján kerüljön sor.
-
-17/H. § (1) A bíróság az elítélés alapjául szolgáló ítéletet hivatalból szerzi be.
-
-(2) A bíróság a feleket szükség esetén, kérelemre a 17/D. § (5) bekezdésében meghatározottak tisztázása érdekében meghallgatja. A döntés meghozatalának nem akadálya az, ha a felek nem jelennek meg személyesen a meghallgatáson.
-
-(3) A (2) bekezdésben foglaltakra a feleket a személyes meghallgatásra szóló idézésben figyelmeztetni kell.
-
-(4) Az eljárásban felfüggesztésnek és szünetelésnek nincs helye.
-
-(5) Az eljárást a kérelem beérkezésétől számított tizenöt napon belül le kell folytatni.
-
-(6) A személyes meghallgatáson a bíróság a feleket külön hallgatja meg és a bíróság gondoskodik annak megakadályozásáról is, hogy a sértett és az elítélt a bíróság épületében személyesen találkozzon. A határozat közlésére ez esetben is a 17/I. § (2) bekezdését kell megfelelően alkalmazni.
-
-17/I. § (1) A bíróság határozata előzetesen végrehajtható. A bíróság határozatában arra is figyelmezteti az elítéltet, hogy a távoltartó határozat szabályainak szándékos megszegése bűncselekményt valósít meg.
-
-(2) Ha a bíróság meghallgatást tart, a bíróság a határozatát a meghallgatás alkalmával közli a felekkel, azt nekik átadja. Ha a bíróság meghallgatást nem tart, a határozatát kézbesíti. Ez esetben a határozatot az elítélt részére, továbbá ha a meghallgatáson az elítélt nem jelent meg, a bíróság – szükség esetén elektronikus úton – a rendőrség útján intézkedik a kézbesítésről. A rendőrség köteles a határozat kézbesítéséről gondoskodni és a kézbesítés megtörténtéről a bíróságot haladéktalanul tájékoztatni.
-
-(3) A határozatban foglaltak nemteljesítése esetén bírósági végrehajtásnak nincs helye.
-
-(4) A bíróság határozata ellen a közléstől számított három munkanapon belül van helye fellebbezésnek. A fellebbezést az arra jogosult a személyes meghallgatáson szóban is bejelentheti.
-
-(5) Fellebbezés bejelentése esetén az elsőfokú bíróság – ha a fellebbezési határidő valamennyi fellebbezésre jogosultra letelt – az iratokat haladéktalanul felterjeszti a másodfokú bírósághoz. A felek a fellebbezésre észrevételeiket az iratok felterjesztéséig az elsőfokú bíróságnál, az iratok felterjesztését követően a másodfokú bíróságnál tehetik meg. Ha a fél a fellebbezésre vonatkozó észrevételét az iratok felterjesztését követően az elsőfokú bírósághoz nyújtja be, az elsőfokú bíróság azt haladéktalanul továbbítja a másodfokú bírósághoz.
-
-(6) A másodfokú bíróság a fellebbezést az iratok alapján nyolc napon belül bírálja el. Az elsőfokú határozat hatályon kívül helyezésének a Pp. 381. §-a alapján nincs helye. A másodfokú bíróság határozatát a rendőrség útján közli az elítélttel.
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 ### Felhatalmazás
 
-18. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
+18. § (1) Felhatalmazást kap a kormány, hogy rendeletben kijelölje a családvédelmi koordinációért felelős szervet.
 
-- a) jelölje ki a családvédelmi koordinációért felelős szervet;
-- b) állapítsa meg az ideiglenes megelőző távoltartó határozat meghozatalának részletes szabályait.
-
-(2) Felhatalmazást kap a rendészetért felelős miniszter, hogy a megelőző távoltartás bíróság által megállapított magatartási szabályai végrehajtásának technikai eszközzel történő ellenőrzésének részletes szabályait rendeletben állapítsa meg.
-
-(3) Felhatalmazást kap a rendészetért felelős miniszter, hogy az államháztartásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a megelőző távoltartás technikai eszközzel történő ellenőrzése végrehajtásával kapcsolatos díj összegét és megállapításának részletszabályait.
-
-18/A. § E törvény 1. § (3a) bekezdése, 6. § (5) bekezdése, 7. § (1a) bekezdése, 9. § (2a) bekezdése, 12. § (7) és (8) bekezdése, 14. § (3a) bekezdése, 16. § (2b), (3a) és (10) bekezdése, valamint 17/A. és 17/B. §-a a polgári ügyekben hozott védelmi intézkedések kölcsönös elismeréséről szóló, 2013. június 12-i 606/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(2) Felhatalmazást kap a rendészetért felelős miniszter, hogy az ideiglenes megelőző távoltartó határozat meghozatalának részletes szabályait rendeletben állapítsa meg.
 
 ### Módosuló jogszabályok
 
-#### 19. §
+19. § (1) A házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény (a továbbiakban: Csjt.) 91. §-ának (1) bekezdése a következő h) ponttal egészül ki:
 
-#### 20. §
+[Szünetel a szülői felügyelet,]
 
-#### 21. §
+„h) ha a szülővel szemben a rendőrség vagy a bíróság a gyermek, illetve a gyermekkel közös háztartásban élő hozzátartozója sérelmére elkövetett, külön törvényben meghatározott hozzátartozók közötti erőszak miatt ideiglenes megelőző távoltartó határozatot, megelőző távoltartó határozatot hozott.”
 
-#### 22. §
+(2) A Csjt. 92. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 23. §
+„(2) A szülőnek – kivéve, ha a külön jogszabályban meghatározott ideiglenes megelőző távoltartó határozat, megelőző távoltartó határozat, illetve ha gyermek sérelmére elkövetett cselekmény miatt a büntetőeljárásban elrendelhető távoltartás kényszerintézkedés hatálya alatt áll – joga van gyermekével kapcsolatot tartani akkor is, ha szülői felügyeleti joga szünetel.”
+
+20. § (1) Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 33. §-ának (2) bekezdése a következő 33. ponttal egészül ki:
+
+[Egyes alkotmányos jogok érvényesítése, illetőleg kötelezettségek teljesítése, valamint a társadalmi igazságosság előmozdítása érdekében a mellékletben és a külön jogszabályokban meghatározott illetékmentes eljárásokon felül tárgyuknál fogva illetékmentes eljárások:]
+
+„33. a külön törvényben meghatározott hozzátartozók közötti erőszak miatt az ideiglenes megelőző távoltartó határozat elrendelésére irányuló eljárás.”
+
+(2) Az Itv. 57. §-ának (1) bekezdése a következő r) ponttal egészül ki:
+
+[Illetékmentes a polgári ügyekben:]
+
+„r) a külön törvényben meghatározott hozzátartozók közötti erőszak miatt az ideiglenes megelőző távoltartó határozat bírói felülvizsgálatára, valamint a megelőző távoltartás elrendelésére irányuló nemperes eljárások.”
+
+21. § (1) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 135. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A gyermekjóléti szolgálat, és a települési önkormányzat jegyzője, illetve a gyámhivatal a 15. § (2)–(4) bekezdésben meghatározott ellátások nyújtása, illetve intézkedések alkalmazása során a (2) bekezdésben meghatározott adatokon túl
+
+a) a gyermek, illetve a fiatalkorú által elkövetett bűncselekményre,
+
+b) a szülő vagy más törvényes képviselő által a gyermek sérelmére elkövetett bűncselekményre,
+
+c) a Ptk. 685. §-ának b) pontja szerinti hozzátartozó, vagy a közös háztartásban rendszeresen vagy időszakonként együtt élő más személy által a gyermek sérelmére elkövetett hozzátartozók közötti erőszak miatt alkalmazható ideiglenes megelőző távoltartó határozatra vagy megelőző távoltartó határozatra
+
+vonatkozó adatokat kezelhet.”
+
+(2) A Gyvt. 136. §-ának (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A gyámhatóság és a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szervezet alkalmazottja és vezetője, a gyermek és az őt nevelő szülő, vagy más törvényes képviselő tartózkodási helyére vonatkozóan megtagadhatja a szülő tájékoztatását, illetve korlátozhatja a szülő iratbetekintési jogát, ha
+
+a) a szülő ellen gyermeke vagy a gyermeket nevelő másik szülő sérelmére elkövetett bűncselekmény miatt büntetőeljárás van folyamatban, annak jogerős befejezéséig,
+
+b) a szülő ellen gyermeke vagy a gyermeket nevelő másik szülő sérelmére elkövetett külön törvényben meghatározott hozzátartozók közötti erőszak miatt alkalmazható ideiglenes megelőző távoltartó határozat vagy megelőző távoltartó határozat iránti eljárás van folyamatban, a távoltartás időtartamáig.”
+
+22. § (1) A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 138/A. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) Ha a bíróság a távoltartás elrendeléséről vagy módosításáról határoz, a határozatban az (1) bekezdés szerinti szabályokat úgy kell megállapítani, hogy azok ne tegyék lehetetlenné a terhelt azon jogainak gyakorlását, amely jogokat a sértett vonatkozásában az (1) bekezdés b) pontja érint.”
+
+(2) A Be. 138/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A távoltartást a bíróság tíztől hatvan napig terjedő időre rendelheti el.”
+
+23. § (1) A szabálysértésekről szóló 1999. évi LXIX. törvény (a továbbiakban: Sztv.) a következő alcímmel és 139/B. §-sal egészül ki:
+
+„Távoltartó határozat szabályainak megszegése
+
+139/B. § (1) Aki a külön törvényben meghatározott ideiglenes megelőző távoltartó határozatban vagy a megelőző távoltartó határozatban meghatározott szabályokat megszegi, elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
+
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bíróság hatáskörébe tartozik.”
+
+(2) Az Sztv. a következő 139/C. §-sal egészül ki:
+
+„Megelőző távoltartás alaptalan kezdeményezése
+
+139/C. § (1) Aki valótlan tények állításával külön törvényben meghatározott – szabálysértésnek vagy bűncselekménynek nem minősülő – hozzátartozók közötti erőszak miatt a külön törvényben meghatározott megelőző távoltartás elrendelését kezdeményezi, ha azt a valótlan tények alapján elrendelik, százötvenezer forintig terjedő pénzbírsággal sújtható.
+
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.”
 
 ### Hatálybalépés
 
 24. § Ez a törvény 2009. október 1-jén lép hatályba.
-
-### Átmeneti rendelkezések
-
-24/A. § E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2025. évi XLIX. törvénnyel (a továbbiakban: Módtv.) megállapított 17/E. § (1) bekezdés c) pontja szerinti kérelmet a Módtv. hatálybalépését követő egy éven belül az a sértett is benyújthatja, akinek az esetében a sérelmére elkövetett személy elleni erőszakos bűncselekmény miatt elítélt személy a szabadságvesztés büntetését a Módtv. hatálybalépéséig már kitöltötte.
-
-25. § E törvénynek a rendészeti feladatellátás hatékonyságát támogató törvények módosításáról szóló 2025. évi LXXI. törvénnyel megállapított 16. § (3b) bekezdését az annak hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.

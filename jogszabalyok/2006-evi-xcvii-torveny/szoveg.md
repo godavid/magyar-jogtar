@@ -2,15 +2,7 @@
 
 az egészségügyben működő szakmai kamarákról
 
-Az Országgyűlés az egészségügyi szakmák gyakorlóinak szakmai önkormányzathoz való jogát elismerve, annak érdekében, hogy az orvosok, a gyógyszerészek és az egészségügyi szakdolgozók
-
-– közvetlenül és az általuk választott testületek, tisztségviselők útján, demokratikusan – a törvény által meghatározott keretek között – önállóan intézzék szakmai ügyeiket,
-
-– meghatározzák és a közérdekkel összhangban képviseljék szakmai, etikai, gazdasági és szociális érdekeiket,
-
-– a Nemzeti Együttműködés Rendszerének keretei között társadalmi súlyuknak, szellemi tőkéjüknek megfelelő mértékben hozzájáruljanak az egészségpolitika alakításához, az egészségügyet érintő egyéb döntések meghozatalához, valamint a lakosság egészségügyi ellátásának javításához
-
-a következő törvényt alkotja:
+Az Országgyűlés – hazánk hagyományait és az európai fejlett demokráciák gyakorlatát követve, ugyanakkor az utóbbi évtized tapasztalatait hasznosítva a szakmai kamarák működése kapcsán – elismeri az egyes egészségügyi szakmák gyakorlóinak jogát a szakmai önkormányzathoz.A szakmai önkormányzat lehetővé teszi, hogy az egyes szakmák gyakorlói közvetlenül és az általuk választott testületek, tisztségviselők útján demokratikusan – a törvények által meghatározott keretek között – önállóan intézzék szakmai ügyeiket, meghatározzák és a közérdekkel összhangban képviseljék szakmai, etikai, gazdasági és szociális érdekeiket, társadalmi súlyuknak, szellemi tőkéjüknek megfelelő mértékben hozzájáruljanak az egészségpolitika alakításához, a lakosság egészségügyi ellátásának javításához. A szakmai önkormányzatiság azonban a szakma gyakorlóit nem korlátozhatja abban, hogy a megfelelő, és különös szakmai érdekeikhez legközelebb álló szakmai szervezethez való tartozás kérdésében maguk dönthessenek, még kevésbé abban, hogy képesítésüknek megfelelő tevékenységüket – a szakmai önkormányzásban való intézményes részvételükre tekintet nélkül – szabadon gyakorolhassák.Az Országgyűlés e célok elérése érdekében a következő törvényt alkotja:
 
 ### I. Fejezet — AZ EGÉSZSÉGÜGYI SZAKMAI KAMARÁK RENDSZERE
 
@@ -31,11 +23,11 @@ működik.
 
 útján látják el.
 
-(4) A területi szervezetek és az országos szervek jogi személyek. A területi szervezeteket és az országos szerveket a törvényszék nem veszi nyilvántartásba.
+(4) A területi szervezetek és az országos szervek jogi személyek.
 
-(5)
+(5) A szakmai kamarák működéséhez 60 fő kamarai tag szükséges. Amennyiben a már működő szakmai kamara taglétszáma a működés során a 60 főt nem éri el, a szakmai kamara tevékenysége – a 2. § f), valamint j)–k) pontjaiban felsorolt feladatok ellátásán kívül – szünetel azzal, hogy új tag a kamarai nyilvántartásba a szünetelés időtartama alatt is felvehető. A szünetelés időtartama az e törvény, valamint az alapszabály szerint megválasztott kamarai szervek, illetőleg tisztségviselők megbízatásának határozott időtartamába nem számít bele azzal, hogy a szakmai kamara működésének két évet meghaladó szünetelését követően a kamarai működés ismételt megkezdéséhez a kamarai szervek, illetőleg tisztségviselők újraválasztása szükséges. A szünetelés a fennálló kamarai tagsági viszonyokat nem érinti.
 
-(6)
+(6) A kamarai működés szünetelésének időtartama alatt az (5) bekezdés szerinti feladatok ellátása érdekében a területi szervezetek ügyviteli szervezetei, illetőleg a 10. § szerinti országos ügyviteli szervezet folyamatosan működnek, illetőleg a szakmai kamara országos elnöksége ellátja a 16. § (4) bekezdése szerinti feladatát.
 
 ### II. Fejezet — A SZAKMAI KAMARÁK FELADAT- ÉS HATÁSKÖRE
 
@@ -43,85 +35,20 @@ működik.
 
 - a) az egészségügyi hivatás gyakorlásával és az egészségügyi tevékenységgel összefüggő kérdésekben képviseli és védi tagjainak érdekeit és jogait, és – külön jogszabályokban meghatározott keretek között – egyedi ügyekben is elősegíti ezen jogok érvényesítését;
 - b) megalkotja alapszabályát;
-- c) a feladatköre szerinti egészségügyi szakma gyakorlására vonatkozó általános szakmai magatartási-etikai (a továbbiakban együtt: etikai) szabályokat (a továbbiakban: etikai kódex) alkot, és az e törvényben meghatározott esetekben a tagjával szemben etikai eljárást folytat le;
+- c) az e törvényben és külön jogszabályban meghatározott esetekben a tagjaival szemben etikai eljárást folytat le;
 - d) véleményezési jogot gyakorol
   - da) az egészségügyi dolgozók szakmai tevékenységét, anyagi helyzetét közvetlenül befolyásoló, illetőleg valamennyi, az egészségügyet egyéb módon érintő jogszabály megalkotásánál,
   - db) az egészségügyi tevékenység szervezeti vagy működési rendjét érintő állami, egészségbiztosítási, helyi önkormányzati döntések meghozatalánál,
-  - dc) feladatkörének megfelelően a képzés, a szakképzés, a szakmai továbbképzés követelményszintjének meghatározása, valamint a felvételi és képzési szakmánkénti keretszámok meghatározása, a szakképesítések hiányszakmának való minősítése tekintetében,
-  - dd) a helyi önkormányzatok területi ellátási felelősségébe tartozó feladatokat ellátó egészségügyi szolgáltatók és a helyi önkormányzat közötti, az egészségügyi ellátórendszer fejlesztéséről szóló külön törvény szerinti, egészségügyi szolgáltatás nyújtására irányuló szerződések tervezete tekintetében.
+  - dc) a képzés, a szakképzés, a szakmai továbbképzés követelményszintjének meghatározása tekintetében;
 - e) felkérésre, kijelölt szerve útján szakértőként részt vesz az adott egészségügyi tevékenység végzésével járó egészségügyi szolgáltatások minőségi ellenőrzésében;
 - f) nyilvántartást vezet a tagjairól;
 - g) közreműködik a kötelező továbbképzések elveinek meghatározásában, azok betartásának ellenőrzésében és továbbképzést szervez;
-- h) feladatkörében együttműködik az egészségügy területén működő civil szervezetekkel, véleményének, illetve döntéseinek kialakításába – szükség szerint – bevonja az érintett egészségügyi érdek-képviseleti szerveket;
+- h) feladatkörében együttműködik az egészségügy területén működő társadalmi szervezetekkel, véleményének, illetve döntéseinek kialakításába – szükség szerint – bevonja az érintett egészségügyi érdek-képviseleti szerveket;
 - i) ellátja azokat a további feladatokat, amelyeket törvény a hatáskörébe utal, illetve azokat az érintettek megállapodása alapján átadott feladatokat, amelyek átvételét állami, helyi önkormányzati vagy egészségbiztosítási szervektől jogszabály nem tiltja;
 - j) az érintettek kezdeményezésére egyeztető eljárást folytat le tagjai körében az egészségügyi tevékenység gyakorlásával összefüggő vitás kérdésekben;
-- k) közzéteszi – a továbbképzési program, a továbbképzés teljesítéséért megszerezhető pontszám és a továbbképzést szervező megjelölésével – az elfogadott szakmai továbbképzések jegyzékét, valamint a feladatkörében érintett szakmák tekintetében az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) szerinti kötelező továbbképzések szervezőinek tevékenységét külön jogszabályban foglaltak szerint rendszeresen minősítheti, a minősítést honlapján közzéteszi, és szükség szerint javaslatot tesz a továbbképzésre jogosult intézménynek vagy az intézmény szakmai felügyeletét ellátó szervnek; továbbá feladatkörében külön jogszabályban foglaltak szerint közreműködik a nem egyetemi, főiskolai szintű egészségügyi képzések, szakképzések és továbbképzések szakmai feltételei megvalósulásának ellenőrzésében;
+- k) közzéteszi – a továbbképzési program, a továbbképzés teljesítéséért megszerezhető pontszám és a továbbképzést szervező megjelölésével – az elfogadott szakmai továbbképzések jegyzékét;
 - l) feladatkörében megvizsgálja a nem egyetemi, főiskolai szintű egészségügyi képzések, szakképzések és továbbképzések szakmai feltételeit, és azok megvalósulása tekintetében szükség szerint javaslatot tesz az adott képzésre jogosult intézménynek, az intézmény szakmai felügyeletét ellátó szervnek;
-- m) tagját az e törvényben meghatározott esetekben továbbképzésen való részvételre kötelezi;
-- n) jogszabály vagy az adott szerv tevékenységére irányadó egyéb szabály alapján vagy felkérésre részt vesz a feladat- és hatáskörét közvetlenül érintő szakmai testületek, illetőleg bizottságok munkájában;
-- o) ajánlásokat ad az egyes egészségügyi szolgáltatók által megállapított díjtételek alsó és felső határaira.
-
-2/A. § (1) A 2. § d) pontjában foglaltakon túlmenően a Magyar Orvosi Kamara véleményezési jogot gyakorol a szakmai alkalmasság kérdésében az állami, egészségbiztosítási, illetőleg helyi önkormányzati szervek, valamint az egyetemek orvosképzést, szakképzést végző karai, szervezeti egységei magasabb vezető és vezető állású orvosainak orvosi diplomához kötött tevékenység végzése körében történő vezetői kinevezése, megbízása, a vezetői megbízás visszavonása, vagy – vezetői munkakör esetén – felmentése során, továbbá a háziorvosok, házi gyermekorvosok, fogorvosok e munkakörben, munkavégzésre irányuló jogviszony keretében történő foglalkoztatása, illetőleg a foglalkoztatásnak a munkáltató kezdeményezésére történő megszüntetése tekintetében.
-
-(1a) A Magyar Orvosi Kamara az (1) bekezdés szerinti feladatát kizárólag a tagjai tekintetében gyakorolja.
-
-(1b) Az orvosok, fogorvosok, továbbá a nem orvos- és egészségtudományi képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozók tekintetében a 2. § d) pont dc) alpontja, valamint a 2. § k) pontja szerinti feladatot a Magyar Orvosi Kamara helyett az egészségügyért felelős miniszter által – a felsőoktatásért felelős miniszter egyetértésével – kiadott rendeletben meghatározott szerv gyakorolja.
-
-(2) A 2. § d) pontjában foglaltakon túlmenően a Magyar Gyógyszerészi Kamara
-
-- a) véleményezési jogot gyakorol a szakmai alkalmasság kérdésében az állami, egészségbiztosítási, illetőleg helyi önkormányzati szervek, valamint az egyetemek gyógyszerészképzést, szakképzést végző karai, szervezeti egységei magasabb vezető és vezető állású gyógyszerészeinek gyógyszerészi diplomához kötött tevékenység végzése körében történő vezetői kinevezése, megbízása, a vezetői megbízás visszavonása, vagy – vezetői munkakör esetén – felmentése során, továbbá a gyógyszerészek költségvetési szerv keretében működő intézményi gyógyszertárban történő foglalkoztatása, illetőleg a foglalkoztatásnak a munkáltató kezdeményezésére történő megszüntetése tekintetében,
-- b) szakértőként részt vesz a külön jogszabályban meghatározott esetekben a gyógyszerészi diplomához kötött tevékenység végzéséhez szükséges hatósági engedélyek kiadására irányuló eljárásban.
-
-(3) A 2. § d) pontjában foglaltakon túlmenően a Magyar Egészségügyi Szakdolgozói Kamara véleményezési jogot gyakorol
-
-- a) a szakmai alkalmasság tekintetében – az (1) és (2) bekezdésben nem említett –szakképesítéshez kötött tevékenység körében foglalkoztatott magasabb vezető, vezető állású egészségügyi szakdolgozó vezetői kinevezése, megbízása, a vezetői megbízás visszavonása, vagy – vezetői munkakör esetén – felmentése tekintetében,
-- b) az egészségügy területén működő egészségügyi szakdolgozói szakterületeken a szakértői és vizsgaelnöki névjegyzékbe történő felvétel tekintetében.
-
-(4) Az (1) bekezdésben, a (2) bekezdés a) pontjában és a (3) bekezdés a) pontjában meghatározott véleményezési jogkörében eljárva a szakmai kamara a munkáltatói jogkört gyakorló személyt tájékoztatja különösen arról, hogy a megbízandó, kinevezendő, vagy a vezetői megbízással, kinevezéssel már rendelkező egészségügyi dolgozó
-
-- a) rendelkezik-e kamarai tagsággal,
-- b) áll-e a vezetői megbízást kizáró etikai büntetés hatálya alatt.
-
-(5) A szakmai kamara az (1) bekezdésben, a (2) bekezdés a) pontjában és a (3) bekezdés a) pontjában foglalt esetekben tájékoztatja a munkáltatói jogkör gyakorlóját a szakmai kamara által ismert, jogszabályon alapuló olyan körülményekről, amelyek kizárhatják vagy befolyásolhatják a vezetői feladatok kamarai tag által történő ellátását.
-
-2/B. § (1) A szakmai kamara feladatkörében szakértőként véleményezi a külön törvény szerint működési nyilvántartásba vétel nélkül, meghatározott időtartamra és helyszínre (munkahelyre) szóló egészségügyi tevékenységre irányuló kérelmeket.
-
-(2) A szakmai kamara feladatkörében szakértőként véleményezi a külföldi bizonyítvány, oklevél Magyarországon történő elismerésére irányuló kérelmet, ha az oklevél a külföldi bizonyítványok és oklevelek elismeréséről szóló külön törvény alapján feltétel nélkül nem ismerhető el.
-
-(3) Az (1) és (2) bekezdések szerinti hatósági eljárásokban a szakmai kamara az általános közigazgatási rendtartásról szóló törvény szerint szakértőként vesz részt.
-
-(4) A szakmai kamara véleményezési jogot gyakorol – feladatkörének megfelelően – az egészségügyi szolgáltatók és az egészségbiztosítási szerv közötti szerződések általános szerződési feltételei és az egyedi szerződések azonos feltételei tekintetében.
-
-2/C. § (1) A 2–2/B. §-okban meghatározott véleményezési jogkörök érvényesülése érdekében a döntés előkészítéséért felelős szerv, illetve személy köteles
-
-- a) a tervezetet véleményezésre olyan módon megküldeni, hogy a szakmai kamarának véleménye kialakításához megfelelő idő és ismeret álljon rendelkezésre,
-- b) a szakmai kamara véleményét az előkészítés során mérlegelni, illetve a döntésre jogosulttal megismertetni,
-- c) az elfogadott döntésről a kamarát tájékoztatni.
-
-(2) A 2–2/B. §-okban meghatározott véleményezési jogkörét a szakmai kamara a véleményt kérő által meghatározott határidőn belül gyakorolja, illetve – az (1) bekezdés a) pontjában foglalt követelményeknek meg nem felelő határidő kitűzése esetén – a határidő lejártát megelőzően javaslatot tehet annak meghosszabbítására. Ha a szakmai kamara a rendelkezésére álló határidőn belül véleményezési jogát nem gyakorolja, vagy nem kéri a véleményezési határidő meghosszabbítását, a döntés előkészítéséért felelős szerv, illetve személy a szakmai kamara egyetértését vélelmezheti. Nem hosszabbítható meg a szakmai kamara véleményezési jogának gyakorlására rendelkezésre álló határidő olyan módon, hogy a meghosszabbítás a döntés meghozatalára jogosult szerv tekintetében a döntéshozatal jogszabályban előírt eljárási határidejének elmulasztását eredményezze.
-
-(3) A 2/B. § (4) bekezdése alapján tett véleménye figyelmen kívül hagyása vagy részleges figyelembevétele esetén ennek okairól a kamarát írásban tájékoztatni kell. A tájékoztatást a döntés meghozatalára jogosult szerv vagy személy adja meg.
-
-2/D. § (1) A szakmai kamara a 2. § m) pontja szerinti feladatkörében az e §-ban foglalt feltételek teljesülése esetén, megfelelő határidő kitűzésével továbbképzésre kötelezi a tagját.
-
-(2) A kamarai tagot továbbképzésre kell kötelezni, ha az egészségügyi dolgozó az egészségügyi tevékenység végzés során, neki felróható okból súlyos szakmai szabályszegést követett el, és emiatt a bíróság jogerős ítélettel elmarasztalta, de foglalkozástól eltiltás büntetést nem alkalmazott.
-
-(3) Továbbképzésre kell kötelezni a kamarai tagot abban az esetben is, ha az egészségügyi dolgozót a bíróság jogerősen eltiltotta az egészségügyi szakma körébe tartozó foglalkozásától, és e büntetéshez fűződő joghátrányok alóli mentesülést követően az egészségügyi dolgozót első ízben vették fel vagy vették fel újra a kamarába.
-
-(4) A szakmai kamara a továbbképzésre kötelezést tartalmazó döntést területi szinten, az alapszabályban meghatározott szerve útján hozza meg. A döntéssel szemben a szakmai kamara országos elnökségéhez lehet fellebbezni.
-
-2/E. § (1) A szakmai kamara által elrendelt továbbképzésnek tárgya szerint
-
-- a) meg kell felelnie a kamarai tag szakképesítésének, és
-- b) a tudomány korszerű színvonalának és az egészségügyi ellátás igényeinek megfelelően, alkalmasnak kell lennie a szakmai szabályszegéssel érintett szakterületen végzett egészségügyi tevékenység végzéséhez szükséges ismeretek, készségek fejlesztésére.
-
-(2) A szakmai kamara által e törvény alapján elrendelt továbbképzés teljesítése az egészségügyi dolgozó működési nyilvántartásának megújításához szükséges feltételek körébe nem számítható be.
-
-(3) A szakmai kamara által elrendelt továbbképzés összes, a tagra háruló indokolt költsége nem haladhatja meg a továbbképzés befejezésekor érvényes, a tagra irányadó garantált bérminimum, ennek hiányában a kötelező legkisebb munkabér kétszeresét.
-
-(4) A szakmai kamara által elrendelt kötelező továbbképzés időtartama nem haladhatja meg a hat hónapot.
-
-(5) Az elrendelt továbbképzés elvégzését a tag a szakmai kamara területi szervének igazolni köteles.
+- m) külön törvény szerint közreműködik az egészségügyi dolgozókra kiterjedő szakmai-etikai szabályzat kidolgozásában.
 
 ### III. Fejezet — A SZAKMAI KAMARÁK SZERVEZETE
 
@@ -129,13 +56,13 @@ működik.
 
 3. § (1) Az e törvényben és az alapszabályban meghatározott feladatok ellátására az alapszabály szerint kamarai területi szervezeteket kell létrehozni.
 
-(2) A területi szervezetek megalakítására, szervezet rendszerére, tisztségviselőire és azok megválasztásának módjára, valamint feladataik ellátására – e törvény eltérő rendelkezésének hiányában – az alapszabály rendelkezései irányadóak, azzal, hogy a területi szervezetben működni kell etikai bizottságnak és elnökségnek, amelyek elnökei e törvény alkalmazásában tisztségviselőnek minősülnek.
+(2) A területi szervezetek megalakítására, szervezet rendszerére, tisztségviselőire és azok megválasztásának módjára, valamint feladataik ellátására – e törvény eltérő rendelkezésének hiányában – az alapszabály rendelkezései irányadóak.
 
 (3) A területi szervezeteket úgy kell létrehozni, hogy azok megfeleljenek az e törvény szerinti feladataiknak.
 
 ### Az országos szervek
 
-4. § (1) A szakmai kamara legfőbb képviseleti szerve a területi szervezetek választott küldötteiből álló küldöttközgyűlés, amelynek kizárólagos hatáskörébe tartozik a szakmai kamara alapszabályának, illetőleg etikai kódexének a megalkotása és módosítása, valamint – a 6. § (4) bekezdésére is figyelemmel – országos tisztségviselőinek, az országos etikai bizottság, valamint az országos felügyelőbizottság tagjainak megválasztása, a szakmai kamara számviteli törvény szerinti éves beszámolójának, továbbá az országos felügyelőbizottság éves beszámolójának elfogadása. Az alapszabály a küldöttközgyűlés részére más kizárólagos hatásköröket is megállapíthat.
+4. § (1) A szakmai kamara legfőbb képviseleti szerve a területi szervezetek választott küldötteiből álló küldöttközgyűlés, amelynek kizárólagos hatáskörébe tartozik a szakmai kamara alapszabályának, illetőleg etikai szabályzatának a megalkotása és módosítása, valamint – a 6. § (4) bekezdésére is figyelemmel – országos tisztségviselőinek, az országos etikai bizottság, valamint az országos felügyelőbizottság tagjainak megválasztása, továbbá az országos felügyelőbizottság éves beszámolójának elfogadása. Az alapszabály a küldöttközgyűlés részére más kizárólagos hatásköröket is megállapíthat.
 
 (2) A küldöttközgyűlés tagjai:
 
@@ -159,18 +86,16 @@ működik.
 - d) az etikai kollégium,
 - e) az alapszabályban meghatározott más állandó bizottságok.
 
-(1a) Az (1) bekezdésben meghatározott szervek a 10. § (1) bekezdésében megjelölt szervvel együtt képezik a szakmai kamara országos szervezetét.
-
 (2) Az országos elnökség tagjai: elnök, alelnökök, főtitkár, titkárok.
 
-(3) A szakmai kamara országos tisztségviselői az országos elnökség (2) bekezdésben meghatározott tagjain kívül az (1) bekezdés b)–c) pontjaiban meghatározott bizottságok, valamint az alapszabály szerint szervezett más állandó bizottság, az (1) bekezdés d) pontjában meghatározott etikai kollégium elnöke, alelnökei, továbbá – ha a kamarának van tagozata – az országos szakmai tagozatok vezetői..
+(3) A szakmai kamara országos tisztségviselői az országos elnökség (2) bekezdésben meghatározott tagjain kívül az (1) bekezdés b)–c) pontjaiban meghatározott bizottságok, valamint az alapszabály szerint szervezett más állandó bizottság, továbbá az etikai kollégium elnökei, alelnökei.
 
 (4) Az országos elnökség tagjait, valamint a (3) bekezdésben szereplő tisztségviselők közül az országos etikai bizottság, az országos felügyelőbizottság, valamint az etikai kollégium elnökét és alelnökét a küldöttközgyűlés, a további országos tisztségviselőket az alapszabályban meghatározott kamarai szerv titkos szavazással választja 4 éves időtartamra.
 
 (5) Az országos elnökség kizárólagos hatáskörébe tartozik
 
-- a)
-- b) az alapszabály eltérő rendelkezése hiányában a 2. § d) pontjában meghatározott véleményezési jogkörök gyakorlása, a 2/A. és 2/B. §-ban foglalt jogkörök gyakorlása, a 2/D. § (4) bekezdése szerinti fellebbezések elbírálása, továbbá a jogszabályban vagy az alapszabályban más kamarai szerv feladat- és hatáskörébe nem utalt feladatok ellátása, hatáskörök gyakorlása,
+- a) a 16. § (4) bekezdésében meghatározott fellebbezések elbírálása,
+- b) az alapszabály eltérő rendelkezése hiányában a 2. § d) pontjában meghatározott véleményezési jogkörök gyakorlása,
 - c) az alapszabályban meghatározott egyéb kamarai feladatok ellátása.
 
 (6) Az országos elnökség szükség szerint, de legalább havonta egy alkalommal ülésezik. Az alapszabály rendelkezhet az elnökség gyakoribb összehívásáról, valamint meghatározhatja az elnökség kötelező összehívásának további eseteit is.
@@ -183,33 +108,27 @@ működik.
 
 (3) Az országos felügyelőbizottság évente egy alkalommal beszámol a küldöttközgyűlésnek.
 
-8. § (1) A szakmai kamara az etikai kódex tartalmát érintő javaslatok kidolgozására etikai kollégiumot működtet.
+8. § (1) A szakmai kamara a külön jogszabály szerinti, az egészségügyi dolgozókra kiterjedő szakmai-etikai szabályzat tartalmát érintő javaslatok kidolgozására etikai kollégiumot működtet.
 
 (2) Az etikai kollégium az alapszabály szerint választott tagokból, valamint a 6. § (4) bekezdése szerint megválasztott elnökből és alelnökből áll.
 
-(3) A szakmai kamara etikai kódexét a kamara honlapján elektronikus formában, nyomtatható, elmenthető és kimásolható formában közzé kell tenni.
+(3) Az etikai kollégium az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 140/A. §-a szerinti Országos Etikai Tanáccsal (a továbbiakban: OET) az elvi állásfoglalások kiadása során együttműködik.
 
 9. § Ha e törvény másként nem rendelkezik, a szakmai kamara országos szervei és tisztségviselői által ellátott kamarai feladatokat az alapszabály határozza meg.
 
-10. § (1) Az országos képviseleti, illetőleg ügyintéző kamarai szervek vagy azok valamely tisztségviselőjének kizárólagos hatáskörébe nem tartozó országos kamarai feladatok irányítására, illetve összehangolására országos ügyviteli feladatokat ellátó szerv (a továbbiakban: országos hivatal) működik.
+10. § (1) Az országos képviseleti, illetőleg ügyintéző kamarai szervek vagy azok valamely tisztségviselőjének kizárólagos hatáskörébe nem tartozó országos kamarai feladatok irányítását, illetve összehangolását az országos ügyviteli szervezet vezetője (a továbbiakban: országos ügyviteli vezető) látja el. Az országos ügyviteli vezető az országos elnökséggel munkaviszonyban áll.
 
-(2) Az országos hivatal vezetését az országos elnökséggel munkaviszonyban álló hivatalvezető látja el. A hivatalvezető felett a munkaviszony létesítésével és megszüntetésével kapcsolatos jogokat az országos elnökség, az egyéb munkáltatói jogokat az elnök gyakorolja.
+(2) Az országos ügyviteli vezető felett a munkaviszony létesítésével és megszüntetésével kapcsolatos jogokat az országos elnökség, az egyéb munkáltatói jogokat az elnök gyakorolja.
 
-(3) A hivatalvezető csak közigazgatási szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel rendelkező személy lehet. Ettől eltérően hivatalvezetői feladatokkal olyan felsőfokú iskolai végzettséggel rendelkező személy is megbízható, aki közigazgatási alapvizsgával rendelkezik, feltéve, hogy a kinevezéstől számított három éven belül vállalja közigazgatási szakvizsga, vagy a közigazgatási szakvizsga alóli – teljeskörűen közigazgatási jellegűnek minősített tudományos fokozat alapján – mentesítés megszerzését. A határidő eredménytelen eltelte esetén a hivatalvezető munkaviszonya a törvény erejénél fogva szűnik meg.
+(3) Az országos ügyviteli vezető képesítési követelményeit az alapszabály határozza meg.
 
-(4) A hivatalvezető helyettese felett a munkaviszony létesítésével és megszüntetésével kapcsolatos jogokat az elnök, az egyéb munkáltatói jogokat a hivatalvezető gyakorolja.
+(4) Az országos ügyviteli vezető gyakorolja az irányítása alá tartozó – az alapszabály szerint létrehozott – országos kamarai ügyviteli szervezetnél foglalkoztatott munkavállalók felett a munkáltatói jogokat.
 
-(5) Az országos hivatal foglalkoztatottjai felett a munkáltatói jogokat a hivatalvezető gyakorolja.
+(5) Az országos ügyviteli vezető feladatait – az 1. § (6) bekezdésére is figyelemmel – az alapszabály határozza meg.
 
-(6) Az országos hivatal és a hivatalvezető feladatait a jogszabályok keretei között az alapszabály határozza meg.
+### IV. Fejezet — A TERÜLETI SZERVEZETEK ÉS AZ ORSZÁGOS SZERVEK TISZTSÉGVISELŐINEK VÁLASZTÁSA, VISSZAHÍVÁSA
 
-10/A. § A szakmai kamara teljes munkaidőben foglalkoztatott tisztségviselőjének munkabére és egyéb juttatásai nem haladhatják meg a kormánytisztviselőkre vonatkozó bértábla alapján megállapítható legmagasabb összeget a közszolgálati tisztviselőkről szóló törvényben foglaltak szerint.
-
-### IV. Fejezet — A TERÜLETI SZERVEZETEK
-
-ÉS AZ ORSZÁGOS SZERVEK TISZTSÉGVISELŐINEK VÁLASZTÁSA, VISSZAHÍVÁSA
-
-11. § (1) A tisztségviselőket és az ügyintéző szervek nem tisztségviselő tagjait a szakmai kamara tagjai közül négyéves időtartamra, titkosan választják.
+11. § (1) A tisztségviselőket és az ügyintéző szervek nem tisztségviselő tagjait a szakmai kamara tagjai közül négyéves időtartamra, titkosan választják. Azonos tisztségre a kamarai tag legfeljebb két egymást követő alkalommal választható meg.
 
 (2) A tisztségviselők, illetőleg az ügyintéző szervek nem tisztségviselő tagjainak megbízatása a megszűnést eredményező esemény bekövetkeztének napján szűnik meg.
 
@@ -217,17 +136,15 @@ működik.
 
 (4) Amennyiben a tisztségviselőnek vagy az ügyintéző szerv nem tisztségviselő tagjának megválasztása a küldöttközgyűlés hatáskörébe tartozik, a (3) bekezdésben meghatározott választás céljából a küldöttközgyűlést a megbízatás megszűnésétől számított 30 napon belüli időpontra össze kell hívni.
 
-(5) A (3) bekezdésben meghatározott határidőt az ügyintéző szerv nem tisztségviselő tagja esetében csak akkor kell alkalmazni, ha a megbízatás megszűnésére és az ügyintéző szerv megbízatással rendelkező tagjainak számára tekintettel az ügyintéző szerv – valamennyi tagjának megjelenése esetén – határozatképesen nem hívható össze. Ha e feltétel az ügyintéző szerv bármely tagja megbízatásának megszűnésére tekintettel utóbb teljesül, az erre okot adó körülménytől számított 30 napon belül a (3) bekezdés szerinti eljárással – valamennyi be nem töltött mandátum tekintetében – meg kell tartani a választást.
+12. § (1) Összeférhetetlen a kamarai tisztséggel, ha a tisztségviselő vagy az ügyintéző szerv nem tisztségviselő tagja az egészségügy irányításában vagy finanszírozásában ügydöntő jelleggel vesz részt, valamint ha más, az egészségügy területén működő érdekvédelmi szervezetben vagy politikai pártban tisztséget tölt be.
 
-12. § (1) Kamarai tisztséget nem viselhet, ügyintéző szerv nem tisztségviselő tagja nem lehet a Kormány tagja, a kormányzati igazgatásról szóló törvény szerinti politikai felsővezető, a közigazgatási államtitkár, a helyettes államtitkár, az egészségügy irányításában vagy finanszírozásában ügydöntő jelleggel részt vevő kormánytisztviselő, országgyűlési képviselő, politikai párt vagy az egészségügy területén működő más érdekvédelmi szervezet tisztségviselője, polgármester.
-
-(2) Kamarai tisztségviselő a szakmai kamarai szervezetben más tisztséget nem tölthet be, ügyintéző szerv nem tisztségviselő tagja, továbbá az országos hivatal foglalkoztatottja vagy hivatalvezető, valamint területi szervezetnek az alapszabály szerinti ügyviteli szervezete vezetője vagy foglalkoztatottja nem lehet. Kamarai tisztségviselő, továbbá etikai bizottság, valamint etikai kollégium elnöke, tagja nem állhat etikai büntetés hatálya alatt.
+(2) Kamarai tisztségviselő a kamarai szervezetben más tisztséget nem tölthet be, ügyintéző szerv nem tisztségviselő tagja nem lehet.
 
 (3) Ugyanazon szakmai kamara bármely ügyintéző szervének tagjai nem lehetnek egymásnak a Polgári Törvénykönyv szerinti közeli hozzátartozói és munkakörükben egymás alá- és fölérendeltjei.
 
 (4) Az érintett megválasztásakor nyilatkozik arról, hogy esetében fennáll-e az (1)–(3) és (6) bekezdésekben meghatározott valamely összeférhetetlenségi ok. Az ilyen okot az érintett a megválasztásától számított 30 napon belül köteles megszüntetni, és arról a megválasztására jogosult testületet tájékoztatni.
 
-(5) Ha az érintett az összeférhetetlenségi okot a (4) bekezdés szerinti határidőben nem szünteti meg, illetve ha az összeférhetetlenség megállapítását az érintett megválasztására jogosult testülettel azonos szintű vagy az országos etikai bizottság, az országos felügyelőbizottság kezdeményezi, az összeférhetetlenség kimondásáról az érintett megválasztására jogosult testület határoz.
+(5) Ha az érintett az összeférhetetlenségi okot a (4) bekezdés szerinti határidőben nem szünteti meg, illetve ha az összeférhetetlenség megállapítását az érintett megválasztására jogosult testülettel azonos szintű vagy az országos etikai bizottság, felügyelőbizottság kezdeményezi, az összeférhetetlenség kimondásáról az érintett megválasztására jogosult testület határoz.
 
 (6) Az alapszabály az (1)–(3) bekezdésekben meghatározottakon kívül az összeférhetetlenség más eseteit is megállapíthatja.
 
@@ -237,77 +154,6 @@ működik.
 
 (3) A visszahívásról – titkos szavazással – az a testület dönt, amelyik az érintett személyt megválasztotta, és visszahívás esetén egyidejűleg megválasztja az új tisztségviselőt, illetve az ügyintéző szerv nem tisztségviselő tagját. A döntésre jogosult testületet a visszahívás kezdeményezésétől számított 30 napon belüli időpontra össze kell hívni.
 
-13/A. § (1) A szakmai kamara tisztségviselőjét a kamarai tevékenységével összefüggésben – legfeljebb havi munkaideje tíz százalékának megfelelő mértékű – fizetett munkaidő-kedvezmény illeti meg.
-
-(2) A kamarai tisztségviselő a kamarai tevékenységével összefüggő munkából való távolmaradását a munkáltatója számára köteles tizenöt nappal előre írásban bejelenteni. A munkáltató a határidőn belül érkezett bejelentést köteles tudomásul venni. A bejelentési kötelezettségének a kamarai tisztségviselő ennél későbbi, de a tervezett távolmaradását megelőző időpontban is eleget tehet, ebben az esetben a munkáltató haladéktalanul dönt a munkaidő-kedvezmény biztosításáról vagy annak megtagadásáról.
-
-(3) A szakmai kamarai tevékenységet teljes munkaidőben végző tisztségviselőt a tisztség betöltésének időtartamára fizetés nélküli szabadság illeti meg.
-
-(4) A szakmai kamara tisztségviselőjét a kamarai tevékenységével összefüggésben munkajogi hátrány nem érheti.
-
-(5) Az (1) bekezdés szerinti kedvezmény igénybevételére jogosító igazolást
-
-- a) országos kamarai tisztségviselő esetében a szakmai kamara országos hivatala az elnök jóváhagyásával,
-- b) az a) pont hatálya alá nem tarozó esetben a szakmai kamara területi elnöke
-
-adja ki.
-
-13/B. § (1) A szakmai kamara választási szabályait az e törvényben foglalt választási minimumfeltétekkel összhangban, a területileg arányos, egyenlő választójog elvére figyelemmel a szakmai kamara alapszabályában kell meghatározni.
-
-(2) A tisztségviselők, az ügyintéző szervek nem tisztségviselő tagjai, valamint a küldöttek megválasztása történhet
-
-- a) a választásra jogosult tagok egyidejű személyes jelenlétével megvalósuló gyűlésen (a továbbiakban: választói gyűlés),
-- b) a választásra jogosult tagok személyes jelenlétét nem egyidejűleg igénylő választási időszakban, vagy
-- c) a választásra jogosult tagok személyes jelenlétét nem igénylő távválasztás útján.
-
-(3) A kamarai szavazás a szakmai kamara alapszabályában meghatározott esetekben titkos, egyéb esetekben nem titkos.
-
-(4) A választási időszak tartama legalább 8, legfeljebb 30 nap. A választási időszak tartamát az arányos képviselet érdekében különösen a választásra jogosult kamarai tagok számára, a választási időszakra eső munkaszüneti napokra, valamint a választásra jogosult tagok személyes megjelenését érintő egyéb, előre látható körülményekre tekintettel kell megállapítani.
-
-(5) A távválasztás a szakmai kamara által üzemeltetendő, közjegyző által ellenőrzött biztonságos internetes felületen, elektronikus úton történik.
-
-13/C. § (1) A kamarai választás a szakmai kamara döntése szerint a 13/B. § (2) bekezdés a)–c) pontja szerinti eljárások bármelyike szerint történhet.
-
-(2) A kamarai választás első fordulója érvényes, ha a választásra jogosult kamarai tagok több mint huszonöt százaléka szavazott. A kamarai választás eredményességi feltételeit a szakmai kamara alapszabálya tartalmazza.
-
-(3) A kamarai választás első fordulójának érvénytelensége vagy eredménytelensége esetén a szakmai kamara második választási fordulót tart. A szakmai kamara a második fordulót az első forduló napjától – vagy a 13/B. § (2) bekezdés b) vagy c) pontjának alkalmazása esetén a választás első fordulójának utolsó napjától – számítva legkorábban tizenöt napon túl, de legkésőbb negyvenöt napon belül tartja meg. A második forduló a szavazatot leadó tagok számára tekintet nélkül érvényes. Az alapszabály a második forduló érvényességéhez szükséges részvételi arányt a szavazatot leadó választásra jogosultak arányának meghatározásával e törvényben foglaltaknál szigorúbban is megállapíthatja.
-
-(4) Ha a második forduló érvénytelen vagy eredménytelen, négy hónapon belül megismételt választást kell tartani, azzal, hogy az eredménytelen második forduló, illetve annak utolsó napja és a megismételt választás, illetve annak első napja között harminc napnál kevesebb nem telhet el. Ha a megismételt választás második fordulója is érvénytelen vagy eredménytelen, a tisztség, mandátum a soron következő általános választásig betöltetlen marad.
-
-(5) Ha a választás (4) bekezdés szerinti eredménytelensége miatt valamely kamarai szerv működőképességének biztosítása vagy a be nem töltött tisztséggel járó feladatok ellátása érdekében az szükséges, a következő érvényes választás eredményes lezárásáig terjedő időszakra a szakmai kamara alapszabályban meghatározott szerve az el nem látott feladat elvégzésére más szervet vagy kamarai tagot jelölhet ki (a továbbiakban: ügyvivő). A tisztség, mandátum korábbi betöltője ügyvivőként nem jelölhető ki, és az ügyvivőre a 11–13/A. §-ban foglaltakat megfelelően alkalmazni kell. A kijelölt ügyvivő az általa ellátott feladat tekintetében a választott tisztségviselővel, taggal azonos jogokkal és kötelezettségekkel rendelkezik, tevékenységéről azonban annak befejeztét követő 60 napon belül beszámolni tartozik az őt kijelölő szervnek.
-
-13/D. § (1) Választói gyűlés összehívása esetén a kamarai választásokat jegyzőkönyv vezetésével, vagy hang- vagy mozgókép-felvétel készítésével kell dokumentálni. A jegyzőkönyvnek alkalmasnak kell lennie legalább a következők megállapítására:
-
-- a) a választási esemény helyszíne, időpontja,
-- b) a levezető elnök és a jegyzőkönyv-hitelesítők személye,
-- c) az eseményen megjelentek személyazonossága megállapításának (mandátumvizsgálat) módja és időpontja,
-- d) a választásra jogosult és a megjelent kamarai tagok száma, valamint az érvényesség és a határozatképesség megállapításához szükséges egyéb adatok,
-- e) a mandátumok száma és a megválasztható személyek neve,
-- f) a kamarai választási névjegyzék lezárásának időpontja,
-- g) a választás eredménye,
-- h) a jegyzőkönyv-hitelesítés időpontja,
-- i) a szakmai kamara alapszabályában meghatározott egyéb tartalmi elemek,
-- j) jogszabályban, a szakmai kamara alapszabályában vagy belső szabályzatában kötelezően előírt egyéb követelmények megállapításához szükséges adatok.
-
-(2) A választási jegyzőkönyv kötelezően alkalmazandó formáját a szakmai kamara alapszabálya tartalmazza.
-
-(3) A választási jegyzőkönyveket és hang- vagy mozgókép-felvételeket négy évig meg kell őrizni.
-
-(4) A választási időszak meghirdetése útján megtartott kamarai választás eredményét kamarai választási bizottság állapítja meg, amelynek tevékenységét az (1)–(3) bekezdés megfelelő alkalmazásával kell dokumentálni.
-
-(5) A távválasztás eredményét – legalább a következő adatok rögzítésével – az elektronikus szavazási felület rögzíti:
-
-- a) a szavazás kezdő és befejező időpontja,
-- b) a választásra jogosult és szavazatot leadott kamarai tagok száma, valamint az érvényesség és a határozatképesség megállapításához szükséges egyéb adatok,
-- c) a mandátumok száma és a megválasztható személyek neve,
-- d) a kamarai választási névjegyzék lezárásának időpontja,
-- e) a választás eredménye,
-- f) a szakmai kamara alapszabályában meghatározott egyéb tartalmi elemek,
-- g) az elektronikus szavazási felület működését hitelesítő közjegyző neve, címe,
-- h) jogszabályban, a szakmai kamara alapszabályában vagy belső szabályzatában kötelezően előírt egyéb követelmények megállapításához szükséges adatok.
-
-(6) A távválasztás eredményét az elektronikus szavazási felületen legalább négy évre visszamenőlegesen hozzáférhetővé kell tenni.
-
 ### V. Fejezet — TAGSÁGI VISZONY
 
 14. § (1) A szakmai kamara tagja lehet az, aki
@@ -315,7 +161,7 @@ adja ki.
 - a) magyar oktatási intézményben a választott kamarai tagság szerinti egészségügyi képesítést, szakképesítést megszerezte, vagy akinek külföldön szerzett, egészségügyi képesítést, szakképesítést igazoló bizonyítványát, oklevelét honosították, vagy egyenértékűvé nyilvánították, illetőleg egészségügyi szakképesítését elismerték,
 - b) az egészségügyi képesítésének, szakképesítésének megfelelő alapnyilvántartásban szerepel,
 - c) Magyarország területén a választott kamarai tagságnak megfelelő egészségügyi képesítéshez, szakképesítéshez kötött tevékenységet folytatott, folytat vagy kíván folytatni,
-- d) az alapszabályban meghatározott módon az országos hivatalnak a kamarai tagdíjat megfizeti, és
+- d) az alapszabályban meghatározott módon a kamarai tagdíjat megfizeti, és
 - e) az alapszabályban foglaltakat magára nézve kötelezően elismeri.
 
 (2) Azt a személyt, aki az (1) bekezdésben meghatározott feltételeknek megfelel, a szakmai kamara tagjai közé – kérelmére – fel kell venni. A felvétel kizárólag a (3) bekezdés szerinti okból tagadható meg.
@@ -324,36 +170,7 @@ adja ki.
 
 - a) akinél olyan – a 17. § (1) bekezdés b) pontjában, illetve a 18. § (2) bekezdésében meghatározott – ok áll fenn, amely miatt kamarai tagságát fel kellene függeszteni, illetőleg őt a kamarából ki kellene zárni,
 - b) aki olyan tevékenységet folytat, amit jogszabály, illetőleg a szakmai kamara etikai normái az adott egészségügyi tevékenységgel összeférhetetlennek minősítenek, e tevékenység folytatásának megszüntetéséig,
-- c) aki cselekvőképességében bármely ügycsoport tekintetében részlegesen korlátozó vagy cselekvőképességét teljesen korlátozó gondnokság alatt áll,
-- d) a 25. § (1) bekezdés f) pontja szerinti kizárás fegyelmi büntetés jogerőre emelkedésétől számított két évig az, akit a kamarából kizártak.
-
-14/A. § (1) Egészségügyi tevékenységet – jogszabályban megállapított egyéb feltételek mellett – az (1c)–(2a) bekezdésben meghatározott kivételekkel csak az végezhet, aki tagja az adott tevékenység végzésének feltételeként előírt szakképesítés szerint illetékes szakmai kamarának.
-
-(1a) A nem orvos- és egészségtudomány képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzés keretében egészségügyi szakképesítést szerzett egészségügyi dolgozók esetében az (1) bekezdés szerint illetékes szakmai kamara a Magyar Orvosi Kamara.
-
-(1b) A Magyar Orvosi Kamara kérelemre az (1a) bekezdés szerinti szakképesítéssel rendelkező személlyel – amennyiben a kamarai tagság e törvényben meghatározott további feltételei fennállnak – abban az esetben is tagsági viszonyt létesít, ha a kérelmező nem minősül egészségügyi dolgozónak.
-
-(1c) Az orvosok, fogorvosok, továbbá a nem orvos- és egészségtudományi képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozók egészségügyi tevékenységet akkor is végezhetnek, ha nem tagjai a szakképesítésük szerint illetékes szakmai kamarának.
-
-(2) Kamarai tagság nélkül is végezhető az (1) bekezdésben meghatározott tevékenység, ha azt olyan személy végzi, aki külön jogszabályban meghatározottak szerint ideiglenes működési nyilvántartásba vétellel, tevékenységre jogosító engedély kiadásával vagy előzetes bejelentés alapján jogot szerzett arra, hogy a működési nyilvántartásba történő felvétel nélkül egészségügyi tevékenységet végezzen Magyarországon.
-
-(2a) Az egészségügyi szakképesítéssel nem rendelkező egészségügyi dolgozó az egészségügyi tevékenység végzése során – ha ennek feltételei az Eütv., valamint az egészségügyi tevékenység végzésének egyes kérdéseiről szóló törvény alapján fennállnak – kamarai tagság nélkül valamely egészségügyi szakképesítés megszerzéséig működhet közre a szakképesítéssel rendelkező egészségügyi dolgozók által ellátandó feladatokban.
-
-(2b) Kamarai tagság nélkül is igazolható az egészségügyi tevékenység végzésére való jogosultság, ha a külföldi állampolgársággal rendelkező egészségügyi dolgozó az egészségügyi szakképesítés megszerzését követően egészségügyi tevékenységet Magyarországon nem kíván folytatni, az egészségügyi tevékenység végzésére való jogosultság igazolása kizárólag a szakképesítése külföldön történő elismerése miatt szükséges, és az egészségügyi tevékenység folytatásának feltételei az Eütv., valamint az egészségügyi tevékenység végzésének egyes kérdéseiről szóló törvény alapján egyebekben fennállnak.
-
-(3) Aki egészségügyi tevékenységet közszolgálati, kormányzati szolgálati jogviszony keretében eljárva, nem kizárólag egészségügyi képesítéshez kötött munkakörben végez, kérheti kamarai tagsága szüneteltetését, vagy – ha kamarai tagsággal nem rendelkezik – e jogviszonya keretében az egészségügyi tevékenységet kamarai tagság nélkül is végezheti. Ha a közszolgálati, kormányzati szolgálati jogviszonyban álló személy további – nem közszolgálati, kormányzati szolgálati – jogviszonyban is egészségügyi tevékenységet végez vagy kíván végezni, e további jogviszonyában az egészségügyi tevékenység végzésének feltétele a kamarai tagság. Ez utóbbi esetben a közszolgálati, kormányzati szolgálati jogviszony keretében végzett egészségügyi tevékenységgel összefüggésben valamennyi kamarai tagságból eredő jog és kötelezettség szünetel.
-
-(4) A (3) bekezdésben foglaltaktól eltérően az, akinek közszolgálati, kormányzati szolgálati jogviszonyban munkaköri feladatai körébe tartozik a szakmai kamara véleményezési jogával érintett jogszabály, illetve egyéb döntés meghozatala vagy érdemi előkészítése, e jogviszonya fennállása alatt kamarai tagsága e törvény erejénél fogva szünetel.
-
-(5) Az (1) bekezdésben szereplő rendelkezés nem érinti az egészségügyi dolgozó külön törvényben meghatározott elsősegély-nyújtási kötelezettségét, valamint a külön jogszabály szerinti pro família végezhető egészségügyi tevékenység gyakorlásának lehetőségét.
-
-14/B. § (1) A területi szervezet a 14/A. §-ban foglalt eseteken túlmenően írásbeli kérelem alapján határozattal szünetelteti a tagsági viszonyát annak a kamarai tagnak, aki ezt kéri.
-
-(2) A szüneteltetés ideje alatt a tagsági viszonyból eredő valamennyi jog és kötelezettség szünetel. A kamarai tagságát szüneteltető egészségügyi dolgozó – a 14/A. § eltérő rendelkezése hiányában – egészségügyi tevékenységet nem végezhet.
-
-(3) Az (1) bekezdés alapján szüneteltetett tagsági viszonyt a területi szervezet a tag írásbeli kérelmére határozattal helyreállítja.
-
-14/C. § A tagsági viszonyáról a 18. § (1) bekezdés a) pontja szerint lemondó, az orvos, a fogorvos, továbbá a nem orvos- és egészségtudományi képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozó tag számára a Magyar Orvosi Kamara az éves tagdíj arányosan fennmaradó részét a tagsági viszony megszűnését követő 8 napon belül visszatéríti.
+- c) aki cselekvőképességet korlátozó vagy kizáró gondnokság alatt áll.
 
 15. § (1) A szakmai kamara tagjának joga, hogy
 
@@ -369,31 +186,31 @@ adja ki.
 
 (2) Az a személy, aki több területi szervezet illetékességi területén folytatott, folytat, illetőleg kíván folytatni egészségügyi tevékenységet, maga dönti el, hogy melyik illetékes területi szervezetnél kéri felvételét.
 
-(3) A területi szervezet a tagfelvétel tárgyában a felvételi kérelem megérkezését követő naptól számított 15 napon belül dönt. Ha a kérelmezőt a szakmai kamara tagjai sorába felveszi, bejelenti a kamarai nyilvántartásba és kiadja számára a tagsági igazolványt.
+(3) A területi szervezet a tagfelvétel tárgyában a felvételi kérelem benyújtásától számított 15 napon belül dönt. Ha a kérelmezőt a szakmai kamara tagjai sorába felveszi, bejelenti a kamarai nyilvántartásba és kiadja számára a tagsági igazolványt.
 
-(4)
+(4) A tagfelvételt elutasító döntést írásbeli, indokolt határozatba kell foglalni és a határozat meghozatalától számított 3 napon belül a kérelmező részére meg kell küldeni. A kérelmező az elutasító határozat ellen a kézhezvételtől számított 15 napon belül fellebbezhet az országos elnökséghez, amely azt a benyújtástól számított 30 napon belül elbírálja. A másodfokú elutasító határozat ellen a kérelmező a közigazgatási perekre vonatkozó szabályok szerint keresetet nyújthat be a bírósághoz.
 
-(5)
+(5) A kamara első- és másodfokú tagfelvételi eljárásában nem vehet részt az, akitől az ügy elfogulatlan megítélése nem várható el. A másodfokú kamarai tagfelvételi eljárásban nem vehet részt az sem, aki az elsőfokú döntés meghozatalában részt vett.
 
-(6) Ha a kamarai tag egészségügyi tevékenységének helyét megváltoztatja, és az másik területi szervezet illetékességi területén van, a tag az adatváltozást az illetékességgel rendelkező szakmai kamara területi szervezetének köteles 15 napon belül írásban bejelenteni. A bejelentés alapján a tevékenység folytatásának új helye szerint illetékes területi szervezet az érintettet 15 napon belül tagjai sorába átveszi, és értesíti az átvételről a kamarai nyilvántartást, valamint a kamarai tagot.
+(6) Ha a kamarai tag egészségügyi tevékenységének helyét megváltoztatja, és az másik területi szervezet illetékességi területén van, a tevékenység folytatásának új helye szerint illetékes területi szervezet az érintettet tagjai sorába felveszi és értesíti a felvételről a kamarai nyilvántartást.
 
-(7)
+(7) A tagfelvételi eljárásban részt vevő kamarai szerv tagja köteles bejelenteni, ha vele szemben az (5) bekezdésen alapuló kizárási ok áll fenn. Kizárási okot a tagfelvételt kérelmező is az eljárás bármely szakaszában bejelenthet. A kizárási ok bejelentésére és az eljárásból történő kizárásról való határozathozatalra egyebekben az alapszabály rendelkezései irányadóak.
 
 17. § (1) A területi szervezet írásbeli indokolt határozattal felfüggeszti a tagsági viszonyát annak,
 
-- a)
-- b) akit a kamarai tagságának alapjául szolgáló foglalkozástól jogerős ügydöntő határozattal határozott időre eltiltottak, az eltiltás időtartamára, ha a kamarából a 25. § (1) bekezdés e) pontjában szereplő etikai büntetésként nem zárták ki,
-- c)
+- a) aki ezt kéri,
+- b) akit a kamarai tagságának alapjául szolgáló foglalkozástól jogerős ítélettel határozott időre eltiltottak, az eltiltás időtartamára, ha a kamarából a 25. § (1) bekezdés e) pontjában szereplő etikai büntetésként nem zárták ki,
+- c) aki a 25. § (1) bekezdés d) pontjában meghatározott jogerős etikai büntetésben részesült.
 
 (2) A felfüggesztés ideje alatt a tagsági viszonyból eredő valamennyi jog és kötelezettség szünetel.
 
-(3) A 25. § (1) bekezdés d) pontjában meghatározott, a tagsági jogviszony felfüggesztésére irányuló jogerős etikai büntetés tartama alatt a kamarai tagsági viszony e törvény erejénél fogva felfüggesztés alatt áll. A tagság felfüggesztésére irányuló etikai büntetést kiszabó határozatban arról is rendelkezni kell, hogy a tag kamarai tagsági viszonya a határozat jogerőre emelkedésének napjától a felfüggesztés etikai büntetés tartama alatt felfüggesztés alatt áll. A tagsági viszony felfüggesztése az etikai büntetés lejártát vagy – a jogerős etikai határozattal szemben eredményesen érvényesített jogorvoslat esetén – az etikai büntetés alkalmazhatóságát kizáró döntés jogerőre emelkedését követő napon hatályát veszti.
+(3) Az (1) bekezdés a) pontja alapján felfüggesztett tagsági viszonyt a területi szervezet a tag kérésére írásbeli határozattal helyreállítja, a b)–c) pontok alapján felfüggesztett tagsági viszony pedig a jogerős bírói ítéletben, illetve etikai határozatban megállapított idő lejártát követő napon helyreáll.
 
 18. § (1) Megszűnik a tagsági viszonya annak, aki
 
 - a) a tagsági viszonyáról lemondott,
 - b) nem felel meg a 14. § (1) bekezdésében meghatározott tagsági feltételeknek,
-- c) a 25. § (1) bekezdésének e) vagy f) pontjában meghatározott jogerős etikai büntetésben részesült,
+- c) a 25. § (1) bekezdésének e) pontjában meghatározott jogerős etikai büntetésben részesült,
 - d) a 14. § (3) bekezdése szerint a szakmai kamarába nem lenne felvehető.
 
 (2) Ki kell zárni a szakmai kamarából azt, akit jogerősen
@@ -401,7 +218,7 @@ adja ki.
 - a) egy évet meghaladó végrehajtandó szabadságvesztésre ítéltek,
 - b) a kamarai tagság alapjául szolgáló foglalkozástól végleges hatállyal eltiltottak.
 
-(3)
+(3) Az (1) bekezdés b) és d) pontjában meghatározott esetben a területi szervezet írásbeli, indokolt határozattal rendelkezik a tagsági viszony megszüntetéséről. A határozat elleni jogorvoslatra a 16. § (4)–(5) és (7) bekezdéseiben foglaltak az irányadóak.
 
 (4) Az (1) bekezdés c) pontjában meghatározott esetben a határozathozatalra és a jogorvoslatra – a 26. §-ra is figyelemmel – az etikai eljárásra vonatkozó szabályok irányadóak.
 
@@ -409,142 +226,79 @@ adja ki.
 
 (6) Ha a tagsági viszony az (1) bekezdés b)–d) pontjai alapján szűnt meg, a kérelmező a kamara tagjai közé ismét felvehető. A kérelem benyújtásával egyidejűleg a kérelmezőnek igazolnia kell, hogy a megszüntetés oka már nem áll fenn, szabadságvesztés büntetését kitöltötte, illetőleg őt a bíróság foglalkozásának gyakorlására ismételten alkalmasnak találta. Az egészségügyi tevékenység jogszabályban meghatározott időtartamot meghaladó megszakítása esetén igazolni kell az ilyen esetre előírt vizsga sikeres letételét is.
 
-19. § A tagsági viszony felfüggesztéséről, szüneteltetéséről, illetőleg megszüntetéséről szóló döntést hozó szerv a véglegessé vált határozatát haladéktalanul megküldi az érintett személy egészségügyi tevékenységének megfelelő működési nyilvántartást vezető szervnek, az egészségügyi dolgozót foglalkoztató munkáltatónak, továbbá azon egészségügyi szolgáltató működési engedélyezésére jogosult szervnek, amely egészségügyi szolgáltatónál az egészségügyi dolgozó egészségügyi tevékenységet végez.
-
-19/A. § (1) A szakmai kamara a tagnyilvántartási adatok körében, a 2. § m) pontjában, valamint a 2/A. és 2/B. §-ban meghatározott feladatai ellátása céljából kezeli
-
-- a) az Eütv. alapján az egészségügyi dolgozók működési nyilvántartása körébe tartozó adatokat,
-- b) a tag orvosi bélyegzőjének számát, ha ilyennel rendelkezik,
-- c) a tag adóazonosító jelét,
-- d) a tag kamarai tagsági jogviszonyból eredő jogával vagy kötelezettségével összefüggésben keletkezett adatát.
-
-(2) Az (1) bekezdés szerinti adatokat a tagsági jogviszony megszűnését követő öt év elteltével törölni kell.
-
-### V/A. Fejezet — KÖZIGAZGATÁSI HATÓSÁGI ÜGYEK INTÉZÉSE
-
-19/B. § (1) A szakmai kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti közigazgatási hatóságként jár el a következő ügyekben (a továbbiakban: kamarai hatósági ügy):
-
-- a) felvétel a szakmai kamarába,
-- b) a kamarai tagság megszüntetése, kivéve, ha a kamarai tagság kizárás vagy az egészségügyi dolgozó halála miatt szűnik meg,
-- c) a kamarai tagság szüneteltetése, valamint a szüneteltetett tagsági viszony helyreállítása.
-
-(2) Ha a szakmai kamara a kamarai tagság megszűnési okáról tudomást szerez, az (1) bekezdés b) pontja alapján a kamarai tagság megszüntetése iránti eljárást hivatalból megindítja.
-
-(3) A szakmai kamara a (2) bekezdés szerinti eljárás során nyilatkozattételre és adatszolgáltatásra kötelezheti az ügyfelet.
-
-(4) A kamarai hatósági ügyben első fokon a területi szervezet elnöksége, másodfokon az országos elnökség jár el.
-
-19/C. § A szakmai kamara az alapszabályban vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem minősül közigazgatási hatósági ügynek.
+19. § A tagsági viszony felfüggesztéséről, illetőleg megszüntetéséről szóló döntést hozó szerv a jogerős határozatát megküldi az érintett személy egészségügyi tevékenységének megfelelő működési nyilvántartást vezető szervnek.
 
 ### VI. Fejezet — FELELŐSSÉGI SZABÁLYOK
 
-20. § A szakmai kamara etikai vétség gyanúja esetén etikai eljárást folytat le. E törvény alkalmazásában etikai vétség:
+20. § (1) A szakmai kamara etikai vétség gyanúja esetén etikai eljárást folytat le. E törvény alkalmazásában etikai vétség:
 
-- a) a 2. § c) pontja szerinti etikai kódexben foglalt szabályok vétkes megszegése,
+- a) a külön törvény szerint meghatározott szakmai-etikai szabályok vétkes megszegése, kivéve, ha ezen szabályok vétkes megszegése esetében az etikai eljárásra a külön törvényben meghatározott szerv jogosult,
 - b) az alapszabályban, illetőleg a szakmai kamara más belső szabályzatában foglalt vagy a választott tisztségből eredő kötelezettségnek a vétkes megszegése.
 
-20/A. § (1) Az orvosok, fogorvosok, továbbá a nem orvos- és egészségtudományi képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozók etikai eljárását törvényben meghatározott eltérésekkel kell lefolytatni.
+(2) Nem minősül és nem minősíthető az (1) bekezdés b) pontja szerint vétségnek az a cselekmény, amely esetében az (1) bekezdés a) pontja alapján kell az eljárást lefolytatni.
 
-(2) A 20. §-tól eltérően az (1) bekezdés szerinti személyek esetében az etikai vétség a törvényben meghatározott szerv által kiadott szakmai-etikai szabályzatban foglalt szabályok vagy kötelezettségek vétkes megszegése.
+21. § (1) A közalkalmazotti, közszolgálati jogviszony keretében egészségügyi tevékenységet végzővel szemben felmerült, fegyelmi eljárás alapjául is szolgáló etikai vétség gyanúja esetén az azt észlelő kamarai szerv írásban kezdeményezi a munkáltatónál a fegyelmi eljárás lefolytatását.
 
-21. § (1) Etikai ügyben első fokon annak a területi szervezetnek az etikai bizottsága jár el, amelynél az etikai eljárás megindulásakor az eljárás alá vont tag szakmai kamarai tagsági jogviszonya fennáll. Több – eltérő területi szervezeti tagsággal rendelkező – kamarai tag érintettsége esetén az az etikai bizottság jár el, amely elsőként állapítja meg a panaszüggyel érintett valamelyik kamarai tag ügyében a területi illetékességét.
+(2) A munkáltató, ha annak külön törvényben meghatározott feltételei fennállnak, az (1) bekezdés szerint kezdeményezett fegyelmi eljárást lefolytatja, ellenkező esetben a kezdeményezést visszautasítja és a visszautasítás indokáról a kezdeményezőt tájékoztatja.
 
-(2) A munkaviszonyban, közalkalmazotti, egészségügyi szolgálati, közszolgálati, kormányzati szolgálati, igazságügyi alkalmazotti szolgálati jogviszonyban álló (a továbbiakban együtt: foglalkoztatott) kamarai tag által elkövetett etikai vétség gyanúja esetén a területi szervezet etikai bizottsága a munkáltatót írásban értesíti. A munkáltató az álláspontjáról, valamint a megtett intézkedéséről a kamarát köteles 30 napon belül, de legkésőbb – ha annak külön törvény szerint helye van – a fegyelmi eljárás lefolytatására irányadó határidő lejártát követő 5 napon belül tájékoztatni.
+(3) A munkáltató – a (2) bekezdésben foglalt rendelkezéstől függetlenül is – a kamarai taggal szembeni fegyelmi eljárás megindításáról és annak eredményéről minden esetben értesíti a területi szervezetnél működő etikai bizottságot.
 
-(3) A munkáltató a (2) bekezdés szerinti kötelezettségétől függetlenül is – az általa tett intézkedés közlése mellett – köteles a területi szervezetnél működő etikai bizottságot értesíteni, ha a foglalkoztatott kamarai tag olyan magatartást tanúsít, amely a munkáltató álláspontja alapján az e törvény szerinti etikai vétséget valósítja meg.
+(4) Ha az egészségügyi tevékenység szakmai szabályai, illetőleg a külön törvény szerint meghatározott szakmai-etikai szabályok megszegésének gyanúját a szakmai kamara valamely szerve észleli, a kamarai szerv – amennyiben az etikai eljárás lefolytatására nem rendelkezik hatáskörrel – az eljárásuk megindításának alapjául szolgáló tényekről tájékoztatja a külön jogszabály szerint illetékes Megyei Etikai Tanácsot, illetve további intézkedések megtétele érdekében az egészségügyi államigazgatási szervet.
 
-22. § (1) Az etikai eljárást az etikai vétség gyanújáról való tudomásszerzés esetén hivatalból kell megindítani. Az etikai eljárás megindításáról – ha az eljárás panaszbejelentés alapján indult – az eljárás megindításával egyidejűleg írásban értesíteni kell a panaszost is.
+22. § (1) Etikai ügyben a területi szervezet etikai bizottsága jár el.
 
-(2) Nem indítható meg az etikai eljárás, ha a cselekménynek a területi szervezet etikai bizottságának tudomására jutásától 6 hónap, vagy a cselekmény elkövetése óta 3 év eltelt.
+(2) Az etikai eljárást etikai vétség gyanúja esetén meg kell indítani. Az etikai eljárás megindításáról az eljárás alá vont személyt – az eljárás megindításával egyidejűleg – írásban értesíteni kell.
 
-(3) Ha az etikai vétségnek is minősülő ügyben büntető- vagy szabálysértési eljárás indult, szabálysértési eljárás esetén az eljárás jogerős befejezésétől, büntetőeljárás esetén a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától számított 3 hónapon belül az etikai eljárás akkor is megindítható, ha a (2) bekezdésben meghatározott határidő eltelt. A 3 hónapos határidőt a területi szervezet etikai bizottságának a határozatról való tudomásszerzésétől kell számítani.
+(3) Nem indítható meg az etikai eljárás, ha a cselekménynek az elsőfokú etikai bizottság tudomására jutásától 3 hónap, vagy a cselekmény elkövetése óta 3 év eltelt.
 
-(4) Az etikai eljárást a (2) bekezdésben meghatározott időpont bekövetkezésén túl is meg kell indítani, ha annak lefolytatását az egészségügyi dolgozó maga ellen kéri.
+(4) Ha az etikai vétségnek is minősülő ügyben büntető- vagy szabálysértési eljárás indult, az eljárás jogerős befejezésétől számított 3 hónapon belül az etikai eljárás akkor is megindítható, ha a (3) bekezdésben meghatározott határidő eltelt. A 3 hónapos határidő a jogerős határozat területi szervezettel történt közlésétől számít.
 
-(5) A bíróság vagy a szabálysértési hatóság határozatát a kamara kérelmére, vagy – amennyiben az érintett személy kamarai tagsága a bíróság, eljáró hatóság előtt ismert – hivatalból, a jogerőre emelkedést vagy a véglegessé válást követő 30 napon belül megküldi az illetékes kamarai szervnek.
+(5) A bíróság vagy a szabálysértési hatóság határozatát a kamara kérelmére, vagy – amennyiben az érintett személy kamarai tagsága a bíróság, eljáró hatóság előtt ismert – hivatalból, a jogerőre emelkedést követő 30 napon belül megküldi az illetékes kamarai szervnek.
 
-(5a) Az ügyészség vagy a nyomozó hatóság a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve a további jogorvoslattal nem támadható eljárást megszüntető határozatát az (5) bekezdés szerint a határozathozatalt követő 30 napon belül küldi meg az illetékes kamarai szervnek.
+23. § (1) Az etikai bizottság az etikai felelősség tárgyában hozott határozatát közli az etikai eljárás megindítását kezdeményezővel, továbbá azzal a külön törvény szerinti Megyei Etikai Tanáccsal (a továbbiakban: MET), amely az adott ügyben az eljárás alá vont személy kamarai tagságának hiányában eljárt volna.
 
-(6) Az orvosok, fogorvosok, továbbá a nem orvos- és egészségtudományi képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozók esetében az (5) bekezdés szerinti határozatokat a bíróság és a szabálysértési hatóság a határozat jogerőre emelkedését vagy véglegessé válását követő 30 napon belül, az (5a) bekezdés szerinti határozatokat az ügyészség és a nyomozó hatóság a határozat meghozatalát követő 30 napon belül megküldi az Egészségügyi Tudományos Tanácsnak.
+(2) Az etikai bizottság etikai felelősség tárgyában hozott határozata elleni fellebbezés elbírálására az OET jogosult. A 20. § (1) bekezdés b) pontja szerinti etikai vétség esetében az etikai eljárás megindítását kezdeményező is fellebbezhet. A 20. § (1) bekezdés a) pontja szerinti etikai vétség esetében az elsőfokú határozat ellen az etikai eljárás megindítását kezdeményező, továbbá az (1) bekezdés szerinti MET is fellebbezhet.
 
-23. § (1) A területi szervezet etikai bizottsága az etikai felelősség tárgyában hozott határozatát – ha az eljárás panaszbejelentés alapján indult – közli a panaszossal is.
+(3) A (2) bekezdésben foglaltaktól eltérően, amennyiben a 20. § (1) bekezdésének a) pontja szerinti etikai vétség esetében az elsőfokú határozatnak kizárólag a kamarai tagsági viszonyt érintő etikai büntetést kiszabó (felfüggesztés, kizárás) rendelkezésével szemben nyújtottak be fellebbezést, a fellebbezés tárgyában a kamara országos etikai bizottsága jár el.
 
-(2) Az elsőfokú etikai határozattal szemben a fellebbezést a szakmai kamara országos etikai bizottságához kell benyújtani. A fellebbezés alapján az országos etikai bizottság folytatja le a másodfokú etikai eljárást. Az elsőfokú etikai határozattal szemben az (1) bekezdésben meghatározott panaszos is fellebbezhet.
+(4) A 20. § (1) bekezdésének b) pontja szerinti etikai vétség esetében a másodfokú etikai bizottság a határozatot közli az etikai eljárást kezdeményezővel, valamint az első fokon eljáró etikai bizottsággal.
 
-(3) A másodfokon eljáró országos etikai bizottság a határozatot
+(5) Az etikai eljárásra a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell megfelelően alkalmazni azzal, hogy a törvény
 
-- a) az (1) bekezdésben meghatározott panaszossal és
-- b) az első fokon eljárt etikai bizottsággal
+- a) hatósági közvetítőre,
+- b) eljárási költség viselésére,
+- c) költségmentességre,
+- d) elektronikus kapcsolattartásra vonatkozó rendelkezései nem alkalmazhatók.
 
-is közli.
+(6) Ha az etikai eljárás során bizonyítást nyer, hogy a kezdeményező az eljárást nyilvánvalóan rosszhiszeműen indította meg, az eljáró etikai szerv – ha egyes költségek tekintetében törvény másként nem rendelkezik – az eljárási költségek viselésére kötelezi a kezdeményezőt.
 
-(4) Az első- és másodfokon eljáró etikai bizottságok eljárásában – amennyiben az adott etikai bizottságban bizottsági tagként ilyen személy megválasztásra került – az ügy tárgya szerinti szakterületen jártas tag részt vesz. Ennek hiányában szakértőt kell kirendelni.
+24. § Kizárási okot az etikai eljárást kezdeményező is az eljárás bármely szakaszában bejelenthet. A kizárási okot az etikai bizottság elnökének, a területi etikai bizottság elnökével szembeni kizárási okot az országos etikai bizottság elnökének, az országos etikai bizottság elnökével szembeni kizárási okot az országos elnökség elnökének kell bejelenteni, akik döntést hoznak az eljárásból való kizárás tárgyában.
 
-(5) Az etikai eljárásra – e törvény eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell megfelelően alkalmazni azzal, hogy
-
-- a) nem alkalmazhatók a törvénynek
-  - aa)
-  - ab) eljárási költség viselésére,
-  - ac) költségmentességre,
-  - ad) vonatkozó rendelkezései, továbbá
-- b) az ügyintézési határidő negyvenöt nap.
-
-24. § (1) Az első fokú etikai eljárásban a bizonyítási eljárás keretében tárgyalás tartása kötelező.
-
-(2) Kizárási okot a fellebbezésre jogosult az eljárás bármely szakaszában bejelenthet. A kizárási okot az etikai bizottság elnökének, a területi szervezet etikai bizottsága elnökével szembeni kizárási okot az országos etikai bizottság elnökének, az országos etikai bizottság elnökével szembeni kizárási okot az országos elnökség elnökének kell bejelenteni, aki döntést hoz az eljárásból való kizárás tárgyában.
-
-(3)
-
-(4) Ha az etikai eljárás során bizonyítást nyer, hogy a panaszos az eljárással összefüggésben nyilvánvalóan rosszhiszemű volt, az eljáró etikai szerv őt – ha egyes költségek tekintetében törvény másként nem rendelkezik – a rosszhiszeműségre tekintettel indokolatlanul felmerült eljárási költségek viselésére kötelezi.
-
-25. § (1) A kiszabható etikai büntetések:
+25. § (1) A 20. § (1) bekezdésének b) pontja szerinti etikai vétség esetében a kiszabható etikai büntetések:
 
 - a) a figyelmeztetés,
 - b) a megrovás,
 - c) a mindenkori legkisebb kötelező munkabér havi összegének tízszereséig terjedő pénzbírság,
 - d) a tagsági viszony 1–6 hónapig terjedő felfüggesztése,
-- e) a 18. § (2) bekezdésében meghatározott esetekben a kizárás,
-- f) kirívóan súlyos etikai vétség esetén a kizárás.
+- e) a 18. § (2) bekezdésében meghatározott esetekben a kizárás.
 
-(2) Az (1) bekezdés a), b), d) és e) pontjában szereplő etikai büntetések az (1) bekezdés c) pontja szerinti etikai büntetéssel együttesen is alkalmazhatók.
+(2) Az (1) bekezdés d)–e) pontjában szereplő etikai büntetések az (1) bekezdés c) pontja szerinti etikai büntetéssel együttesen is alkalmazhatók.
 
-(3) Az elsőfokú etikai bizottság legalább 5 tagú, a másodfokú etikai bizottság legalább 11 tagú.
+(3) A 20. § (1) bekezdésének a) pontja szerinti etikai vétség esetében az elsőfokú etikai eljárásban az Eütv. 140/E. § (2) bekezdése szerinti etikai büntetések is alkalmazhatók.
 
-(4) Az első- és a másodfokú etikai bizottság akkor határozatképes, ha az ülésen tagjainak több mint a fele jelen van. Az első- és másodfokú etikai bizottság határozatot a jelen lévő tagjainak szótöbbségével hoz
+(4) Az első- és a másodfokú etikai bizottság akkor határozatképes, ha az ülésen legalább 5 tagja jelen van. Az etikai bizottság határozatot a jelenlévő tagjainak szótöbbségével hoz
 
 - a) az etikai felelősség tárgyában,
 - b) az (1) bekezdés a)–c) pontjában szereplő etikai büntetések alkalmazása tekintetében,
 - c) bármely jogerős marasztaló határozatnak az alapszabályban meghatározott módon való közzétételéről.
 
-(5) Az (1) bekezdés d) pontja szerinti etikai büntetés alkalmazásához a bizottság jelen lévő tagjainak kétharmados szótöbbsége szükséges. Az (1) bekezdés f) pontja szerinti etikai büntetés alkalmazásához a bizottság jelen lévő tagjainak egyhangú döntésével meghozott egyetértő szavazata szükséges, azzal, hogy a szavazás során a tartózkodást ebben az esetben nem lehet egyetértő szavazatnak tekinteni.
+(5) Az (1) bekezdés d) pontja szerinti etikai büntetés alkalmazásához a bizottság tagjainak kétharmados szótöbbsége szükséges.
 
 (6) Az etikai felelősség megállapítása esetén az etikai bizottság határozatában kötelezheti az elmarasztalt személyt az eljárás költségeinek részben vagy egészben történő megfizetésére.
 
 (7) Az (1) bekezdésben megjelölt etikai büntetés jogerős kiszabásáról szóló döntést közölni kell az eljárás alá vont személy egészségügyi tevékenysége szerinti működési nyilvántartást vezető szervvel is.
 
-25/A. § (1) A 25. § (1) bekezdés f) pontja szerinti kizárás etikai büntetés csak az etikai kódexben meghatározott esetekben alkalmazható.
-
-(2) Ha az etikai bizottság a 25. § (1) bekezdés f) pontja szerinti kizárás etikai büntetés alkalmazásáról döntött, azonban a kizárás alapjául szolgáló magatartás miatt büntetőeljárás is folyamatban van, a döntés határozatba foglalására nem kerül sor, hanem az etikai eljárást a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig fel kell függeszteni. A folyamatban lévő büntetőeljárás egyéb etikai szankció kiszabásának lehetőségét nem érinti.
-
-(3) Ha a bíróság a (2) bekezdés szerinti eljárásában a taggal szemben a 18. § (2) bekezdésében meghatározott szankciót alkalmazza, a bíróság ügydöntő határozatának jogerőre emelkedését követő 15 napon belül az (1) bekezdés szerinti etikai bizottság a kizárásról szóló döntését a 25. § (1) bekezdés e) pontja alapján hozza meg.
-
-(4) Ha az etikai eljárást büntetőeljárás miatt függesztették fel, a bíróság jogerős ügydöntő határozatában foglalt ténybeli és jogi megállapításokhoz a lefolytatott etikai eljárásban az etikai bizottság kötve van.
-
 26. § A 25. § (1) bekezdés e) pontjában szereplő kizárás büntetés alkalmazásáról az etikai bizottság hivatalból – meghallgatás és tárgyalás tartása nélkül – határoz.
-
-26/A. § (1) Az etikai bizottságok, valamint azok tagjai egyedi ügyekben lefolytatott etikai eljárásaik során sem irányítási, felügyeleti jogkörben, sem az adott szervbe tisztségviselő-választási jogkörrel rendelkező szerv által nem utasíthatóak.
-
-(2) A jogerősen kiszabott etikai büntetés a 25. § (1) bekezdés
-
-- a) a) pontja esetén 1 év alatt,
-- b) b)–c) pontja esetében 2 év alatt,
-- c) d) pontja esetében a felfüggesztés időtartamának lejártát követő 2 év alatt,
-- d) e) pontja esetében a kizárás alapjául szolgáló más bírósági határozat elévülésével egyidejűleg,
-- e) f) pontja esetén 2 év alatt
-
-évül el.
-
-(3) A 25. § (1) bekezdés e) pontjában foglalt esetekben a kamarába történő ismételt felvétel írásbeli kérelemre történik a tagfelvételre vonatkozó – e törvényben meghatározott – szabályok szerint. A kérelmet a (2) bekezdés szerinti időtartam lejártát követően lehet benyújtani.
 
 ### VII. Fejezet — A SZAKMAI KAMARÁK ÁLLAMI FELÜGYELETE
 
@@ -552,34 +306,180 @@ is közli.
 
 (2) Amennyiben a miniszter azt állapítja meg, hogy az alapszabály jogszabálysértő, illetve más kamarai szabályzat vagy kamarai szerv, illetve tisztségviselő határozata jogszabálysértő vagy alapszabály-ellenes (a továbbiakban együtt: jogsértő), megfelelő határidő kitűzésével felhívja az érintett kamarai szervet, tisztségviselőt a jogsértés megszüntetésére. A kamarai szerv (tisztségviselő) köteles – a miniszter felhívásában megadott határidőn belül – a jogsértést megszüntetni vagy egyet nem értéséről a minisztert tájékoztatni.
 
-(3) A miniszter törvényességi felügyeleti jogkörében vizsgálja a szakmai kamarák választásainak jogszerűségét, a vizsgálat keretében az ellenőrzéshez szükséges mértékben, az ellenőrzés lefolytatásának végéig jogosult kezelni a szakmai kamarák tagsági adatait, valamint a szakmai kamarai tagok természetes személyazonosító adatait és a választáshoz használt egyéb azonosító adatait.
+(3) Ha az érintett kamarai szerv (tisztségviselő) a jogsértést nem szüntette meg, a miniszter – a felhívásban megadott határidő lejártától számított 30 napon belül – a polgári perrendtartásról szóló törvénynek a közigazgatási perekre irányadó szabályai szerint bírósághoz fordulhat. A keresetlevelet országos kamarai szerv vagy tisztségviselőjének jogsértése esetén az országos kamarai szervvel, területi szervezet, illetőleg tisztségviselőjének jogsértése esetén az illetékes területi szervezettel szemben kell benyújtani.
 
-(4)
+(4) Ha a bíróság a (3) bekezdés alapján indított eljárás eredményeként a jogsértést megállapítja,
 
-(5)
+- a) a jogszabálysértő alapszabályt, a jogsértő más szabályzatot vagy határozatot, illetve annak jogsértő részét hatályon kívül helyezi, és új döntés meghozatalát rendeli el,
+- b) a működés törvényességének helyreállítása céljából elrendelheti a jogsértés orvoslására vagy a jogsértően működő kamarai szerv (tisztségviselő) választására jogosult kamarai szerv összehívását,
+- c) a jogsértő kamarai szerv (tisztségviselő) tevékenységét felfüggesztheti, vagy a kamarai szerv ellenőrzésére – a kamarai tagok közül – felügyelőbiztost rendelhet ki, ha a működés törvényessége másként nem biztosítható.
 
-(6)
+(5) A (4) bekezdésben meghatározott intézkedések közül a bíróság az adott esetben leginkább megfelelő bármely intézkedést alkalmazhatja, illetve több intézkedés együttes alkalmazását is elrendelheti.
 
-(7)
+(6) A (4) bekezdés c) pontja szerinti felügyelőbiztos – szükség esetén – köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni a küldöttközgyűlést. A felügyelőbiztost kirendelő bíróság a jogszerűség helyreállítására határidőt szabhat, a felügyelőbiztos feladatait meghatározhatja, szükség szerint – a felügyelőbiztos felmentésével vagy anélkül – új felügyelő biztost rendelhet ki.
 
-(8)
+(7) A felügyelőbiztos tevékenységéről és annak eredményéről tájékoztatja a kirendelő bíróságot és a minisztert. A felügyelőbiztos költségtérítését a bíróság állapítja meg, és az ellenőrzött kamarai szerv viseli.
 
-(9) A szakmai kamarák az alapszabály, valamint az etikai kódex elfogadásáról vagy módosításáról hozott döntést hivatalból, az egyéb határozatot pedig felhívásra – az elfogadástól, illetőleg a felhívástól számított 15 napon belül – törvényességi ellenőrzés céljából a miniszter rendelkezésére bocsátják.
+(8) Nem rendelhető ki felügyelőbiztosként az, aki a szakmai kamarában tisztséget nem viselhet, valamint az sem, akit az ellenőrzött kamarai szerv közvetlenül irányít. A felügyelőbiztos e jogkörében végzett tevékenysége során, azzal összefüggésben nem utasítható, illetőleg e tevékenységéért vele szemben hátrányos kamarai jogkövetkezmény nem alkalmazható.
 
-(10) A szakmai kamara országos felügyelőbizottságába az egészségügyért felelős miniszter egy – kizárólag tanácskozási jogkörrel rendelkező – állandó tagot delegál.
+(9) Az országos kamarai szervek az üléseik jegyzőkönyvét és a meghozott határozataikat hivatalból, a tisztségviselők döntéseit pedig felhívásra – az elfogadástól, illetőleg a felhívástól számított 15 napon belül – törvényességi ellenőrzés céljából a miniszter rendelkezésére bocsátják.
 
-(11) A szakmai kamara az előző évi költségvetésének végrehajtásáról minden év május 31-ig írásban beszámol a miniszternek.
+### VIII. Fejezet — EGYÉB TÖRVÉNYEK MÓDOSÍTÁSA
 
-### VIII. Fejezet
+### Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
-#### 28. §
+28. § (1) Az Eütv. 112. §-ának (4) bekezdése a következő i)–j) pontokkal egészül ki:
+
+[A működési nyilvántartás az alábbi adatokat tartalmazza:]
+
+„i) az egészségügyi dolgozó szakmai kamarai tagságának ténye, a tagság kezdete és megszűnése;
+
+j) az egészségügyi dolgozóval szemben az e törvény szerinti eljárás keretében kiszabott jogerős büntetés ténye, a büntetést kiszabó határozat jogerőre emelkedése napjának egyidejű megjelölésével;”
+
+(2) Az Eütv. 112. § (6) bekezdésének felvezető szövege helyébe a következő rendelkezés lép:
+
+„(6) Hivatalból – az a)–e) pontok szerinti adatok keletkezését, változását követő 30 napon belül – értesíti a működési nyilvántartást vezető szervet”
+
+(3) Az Eütv. 112. §-ának (6) bekezdése a következő d)–e) pontokkal egészül ki:
+
+„d) az illetékes szakmai kamara a (4) bekezdés i) pontja szerinti adatokról,
+
+e) a 140/B. §-ban meghatározott, jogerős határozatot hozó etikai bizottság a (4) bekezdés j) pontja szerinti tényekről.”
+
+(4) Az Eütv. 112. §-ának (8) bekezdése helyébe az alábbi rendelkezés lép:
+
+„(8) A működési nyilvántartást a külön jogszabályban meghatározott szerv vezeti.”
+
+(5) Az Eütv. 112. §-a a következő (13) bekezdéssel egészül ki:
+
+„(13) A működési nyilvántartást vezető szerv a (4) bekezdés j) pontja szerinti adatot a határozat jogerőre emelkedésétől számított két év után a nyilvántartásból hivatalból törli.”
+
+(6) Az Eütv. a 140. §-át követően a következő alcímmel és 140/A–140/E. §-okkal egészül ki:
+
+„
+
+Az egészségügyi dolgozókra vonatkozó felelősségi szabályok
+
+140/A. § (1) Az orvosi, gyógyszerészi, egészségügyi szakdolgozói foglalkozás általános szakmai, illetőleg etikai (a továbbiakban együtt: etikai) szabályainak kidolgozására, meghatározott esetekben az orvosokkal, gyógyszerészekkel, egészségügyi szakdolgozókkal (a továbbiakban ezen alcím alkalmazásában együtt: egészségügyi dolgozók) szemben szakmai-etikai (a továbbiakban: etikai) eljárás lefolytatására Országos Etikai Tanács (a továbbiakban: OET) működik és az egészségügyi dolgozókkal szemben etikai eljárás lefolytatására Megyei Etikai Tanácsok (a továbbiakban: MET) működnek.
+
+(2) Az OET jogi személy, gazdálkodására a részben önállóan gazdálkodó költségvetési szerv gazdálkodására vonatkozó szabályokat kell alkalmazni. Tevékenységét az ÁNTSZ-re irányadó általános szabályok szerint az egészségügyért felelős miniszter irányítja.
+
+(3) Az OET titkársági feladatait az ÁNTSZ az Országos Tisztifőorvosi Hivatal útján látja el. Az OET és a MET-ek működtetésének tárgyi és személyi feltételeiről az Országos Tisztifőorvosi Hivatal gondoskodik.
+
+(4) A MET-ek az ÁNTSZ illetékes megyei intézeteinek szervezeti keretében működnek.
+
+(5) Az OET teljes ülésén, a tagok minősített többségével megalkotott, az egészségügyi dolgozókra kiterjedő szakmai-etikai szabályzatot (a továbbiakban: Rendtartás) az egészségügyért felelős miniszter elé jóváhagyás céljából fel kell terjeszteni. A jóváhagyott Rendtartást a miniszter rendeletében hirdeti ki. Az OET az etikai gyakorlat egységességének biztosítása érdekében elvi állásfoglalásokat adhat ki. Az elvi állásfoglalás magatartást etikai vétséggé nem nyilváníthat, és etikai vétséghez etikai büntetést vagy büntetéstípust nem rendelhet.
+
+(6) A Rendtartás, valamint módosításai, továbbá az elvi állásfoglalások tervezetét az OET véleményezés céljából megfelelő határidő tűzésével megküldi a szakmai kamarák részére.
+
+(7) A Rendtartás tartalmára a szakmai kamara – a (6) bekezdés szerinti véleményezési jog gyakorlásától függetlenül – évente legfeljebb egy alkalommal javaslatot tehet. Az OET
+
+a) a rendtartás tervezetének előkészítése során a javaslatot köteles mérlegelni;
+
+b) a javaslat figyelmen kívül hagyása, vagy részleges figyelembevétele esetén ennek okairól az egészségügyért felelős minisztert a Rendtartás jóváhagyás céljából történő felterjesztése során írásban tájékozatja;
+
+c) a b) pontban foglaltakról a kamarát a javaslat beérkezését követő 60 napon belül írásban tájékoztatja.
+
+(8) Az OET tagja:
+
+a) az Országos Tisztifőorvosi Hivatal – országos tisztifőorvos által kijelölt – 3 képviselője, akik közül 1 orvos, 1 gyógyszerész, 1 egészségügyi szakdolgozó,
+
+b) az egészségügy területén működő szakmai kamarák országos elnöksége által delegált 1-1 személy,
+
+c) az Egészségügyi Minisztérium 1 képviselője,
+
+d) az Egészségügyi Tudományos Tanács Elnökségének tagja,
+
+e) a szakmai kollégiumok elnöksége által delegált egy tag.
+
+(9) A megyékben és a fővárosban működő MET-ek tagjai:
+
+a) az ÁNTSZ illetékes megyei intézetének – a megyei tisztifőorvos által kijelölt – 3 képviselője, akik közül 1 orvos, 1 gyógyszerész, 1 egészségügyi szakdolgozó,
+
+b) az egészségügy területén működő szakmai kamarák illetékes területi szervezete által delegált 1-1 képviselő,
+
+c) a szakmai kollégiumok elnöksége által delegált egy tag,
+
+d) a megye területén működő egészségügyi szakellátást nyújtó közszolgáltatók közül a gyógyintézetek
+
+da) 1-1 képviselője,
+
+db) fenntartóinak/tulajdonosainak – ideértve az egyetemi centrumokat és klinikákat működtető egyetemek képviselőit is – 1-1 képviselője, függetlenül az adott megyében általuk fenntartott/tulajdonolt gyógyintézetek számától.
+
+(10) Az OET, illetve a MET tagja ugyanazon személy nem lehet.
+
+(11) Az OET, illetve a MET-ek tagjait öt évre jelölik azzal, hogy megbízatásuk ismételten meghosszabbítható.
+
+(12) Az OET, illetve a MET tagjának megbízatása megszűnik:
+
+a) a meghatározott idő leteltével,
+
+b) halálával,
+
+c) lemondásával,
+
+d) visszahívásával.
+
+A megbízatás megszűnését követő 15 napon belül az arra jogosult szerv gondoskodik új tag állításáról.
+
+140/B. § (1) Az egészségügyi dolgozók által elkövetett, a Rendtartásban foglalt etikai szabályok vétkes megszegése esetén első fokon az egészségügyi dolgozó tevékenységének helye szerint illetékes MET – háromtagú bizottságban eljárva – etikai eljárást folytat le (a továbbiakban: elsőfokú etikai bizottság). Kamarai tagok tekintetében az elsőfokú etikai bizottság az érintett szakmai kamara külön törvény szerinti etikai szerve, amely eljárását az e törvény szerinti eljárási szabályok és jogkövetkezmények megfelelő alkalmazásával folytatja le. Az etikai ügyben eljáró szerv hatáskörének meghatározása tekintetében az etikai vétség elkövetésének, illetve elkövetése megkezdésének időpontja az irányadó.
+
+(2) Az etikai eljárást az etikai szabályok vétkes megszegésének alapos gyanúja esetén meg kell indítani, és az annak megindításától számított 30 napon belül le kell folytatni. Az etikai eljárás megindításáról az egészségügyi dolgozót – az eljárás megindításával egyidejűleg – írásban tájékoztatni kell.
+
+(3) Nem indítható meg az etikai eljárás, ha a cselekménynek az elsőfokú etikai bizottság tudomására jutásától 3 hónap, vagy a cselekmény elkövetése óta 3 év eltelt.
+
+(4) Az elsőfokú etikai bizottság eljárásában – amennyiben az adott etikai bizottságban bizottsági tagként eljár ilyen személy – az ügy tárgya szerinti szakterületen jártas tag részt vesz. Ennek hiányában az ügy szakterület szerinti megítélésére alkalmas személy szakértőkénti meghallgatását az eljárás során biztosítani kell.
+
+140/C. § (1) Az elsőfokú etikai bizottság az etikai felelősség tárgyában hozott döntését indokolt, írásbeli határozatba foglalja és megküldi az érintett egészségügyi dolgozónak, illetőleg az etikai eljárás megindítását kezdeményezőnek.
+
+(2) Az elsőfokú határozattal szemben az érintett egészségügyi dolgozó, valamint az etikai eljárás megindítását kezdeményező, továbbá, ha az elsőfokú etikai határozatot az érintett szakmai kamara külön törvény szerinti etikai szerve hozta, az a MET, amely az adott felelősségi ügyben az eljárás alá volt személy kamarai tagságának hiányában eljárt volna, a kézbesítéstől számított 15 napon belül fellebbezhet az OET-hez. A fellebbezés alapján az OET öttagú bizottságban eljárva (a továbbiakban: országos etikai bizottság) folytatja le a másodfokú etikai eljárást.
+
+(3) A másodfokon eljáró országos etikai bizottság a fellebbezés tárgyában írásbeli, indokolt határozatot hoz, és azt megküldi az érintett egészségügyi dolgozónak, az etikai eljárást kezdeményezőnek, valamint az első fokon eljáró etikai bizottságnak. E határozatot lehetőleg a fellebbezés benyújtásától számított 30 napon belül kell meghozni. Az eljárásra a 140/B. § (4) bekezdésében foglalt rendelkezéseket is megfelelően alkalmazni kell. A másodfokon eljáró országos etikai bizottság az első fokú határozatot a 140/E. § (2) bekezdése szerinti, a kamarai tagokkal szemben kiszabható, a kamarai tagsági viszonyt érintő etikai büntetést érintő részében nem változtathatja meg. E szankciók alkalmazása tekintetében – a felülvizsgált határozat egyéb részei vonatkozásában hozott döntésétől függően – a másodfokon eljáró országos etikai bizottság az első fokú határozatot e részében megsemmisíti és az első fokon eljárt kamarai etikai szervet új eljárásra utasíthatja.
+
+(4) Ha törvény eltérően nem rendelkezik, az etikai eljárás során történő határozathozatalra, a jogorvoslatra és a határozat végrehajtására a közigazgatási hatósági eljárásra vonatkozó szabályokat kell megfelelően alkalmazni.
+
+(5) A másodfokú határozat ellen – a (2) bekezdésben meghatározottak szerint – a kézbesítéstől számított 30 napon belül a közigazgatási perekre (Pp. XX. fejezet) irányadó szabályok szerint kereset terjeszthető elő.
+
+140/D. § (1) Az első- és szükség esetén a másodfokú etikai eljárásban bizonyítási eljárást kell lefolytatni, amelynek során a Rendtartásban foglalt etikai szabályok vétkes megszegésével gyanúsított egészségügyi dolgozó meghallgatását lehetővé kell tenni.
+
+(2) Az első- és másodfokú etikai eljárásban nem vehet részt az, akitől az ügy elfogulatlan megítélése nem várható, a másodfokú etikai eljárásban nem vehet részt az sem, aki az elsőfokú határozat meghozatalában részt vett.
+
+(3) Akivel szemben a (2) bekezdésben meghatározott kizárási ok áll fenn, köteles azt bejelenteni. Kizárási okot az eljárás alá vont egészségügyi dolgozó, illetőleg az etikai eljárást kezdeményező is az eljárás bármely szakaszában bejelenthet. A kizárási okot az eljáró etikai bizottság elnökének, az elnökkel szembeni kizárási okot az OET elnökének, az OET elnökével szembeni kizárási okot az egészségügyért felelős miniszternek kell bejelenteni, akik határoznak az eljárásból való kizárás tárgyában.
+
+140/E. § (1) Kiszabható etikai büntetések:
+
+a) a figyelmeztetés,
+
+b) a megrovás,
+
+c) a mindenkori legkisebb kötelező munkabér havi összegének tízszereséig terjedő pénzbírság.
+
+(2) Amennyiben elsőfokú etikai bizottságként a külön törvény szerinti kamarai etikai szerv jár el, ezen etikai szerv – az (1) bekezdésben szereplő etikai büntetés alkalmazásával egyidejűleg, mellékbüntetésként – kiszabhatja a következő etikai büntetések valamelyikét:
+
+a) a kamarai tagsági viszony 1–6 hónapig terjedő felfüggesztése,
+
+b) a kamarából történő kizárás, a külön törvény szerinti, a kamarából történő kötelező kizárás eseteiben.
+
+(3) Az első- és másodfokú etikai bizottság érdemi határozatot tagjainak szótöbbségével hoz.
+
+(4) Az etikai felelősség megállapítása esetén az etikai bizottság határozatában kötelezheti az elmarasztalt személyt az eljárás költségeinek részben vagy egészben történő megfizetésére.
+
+(5) Az (1) bekezdés szerinti etikai büntetés jogerős kiszabásáról a megfelelő további intézkedések megtétele és eljárás megindítása érdekében – a határozat megküldésével – értesíteni kell
+
+a) az érintett személy munkáltatóját,
+
+b) az ÁNTSZ-nek az egészségügyi szolgáltató működési engedélye szerint illetékes megyei intézetét.
+
+(6) Az (1) bekezdés szerinti etikai büntetés jogerős kiszabásáról a határozat megküldésével tájékoztatni kell az egészségügyi dolgozó tevékenysége szerinti működési nyilvántartást vezető szervet is.
+
+(7) Az OET, illetve a MET-ek, valamint azok tagjai egyedi ügyekben lefolytatott etikai eljárásaik során sem irányítási, felügyeleti jogkörben, sem az adott szervbe delegálási, kijelölési jogkörrel rendelkező szerv által nem utasíthatóak.”
 
 ### IX. Fejezet — VEGYES ÉS ÁTMENETI RENDELKEZÉSEK
 
 29. § (1) A szakmai kamara működésének költségeit
 
 - a) a tagjai által befizetett tagdíj és egyéb díjbevételek,
-- b) a törvényben meghatározott vagy a megállapodással átvett közfeladatok ellátásához a központi költségvetéstől az államháztartásról szóló külön törvényben előírtak szerint átvett pénzeszközök,
+- b) a törvényben meghatározott vagy a megállapodással átvett közfeladatok ellátásához a központi költségvetéstől átvett pénzeszközök,
 - c) alapítványi és más támogatások,
 - d) szolgáltatási, vállalkozási tevékenységből származó bevételek,
 - e) pályázat útján elnyert pénzösszegek,
@@ -591,56 +491,49 @@ fedezik.
 
 (3) Amennyiben közfeladat ellátására az arra egyébként hatáskörrel és illetékességgel rendelkező szervvel vagy más személlyel kötött megállapodás alapján válik a szakmai kamara jogosulttá, a feladat átadásáról szóló megállapodás tartalmazza az elvégzéséhez szükséges pénzügyi fedezet biztosítását is.
 
-(4) A szakmai kamara éves beszámolójának eredménykimutatásában szerepeltetni kell az (1) bekezdésben felsorolt pénzeszközöket, függetlenül attól, hogy azok felhasználására a területi szervezetnél vagy az országos szervezetnél került sor. A beszámoló szöveges részét a szakmai kamara honlapján közzé kell tenni.
-
-29/A. § (1) A szakmai kamarai tagdíj mértékét – a (2) bekezdésben foglalt követelmények betartásával – a szakmai kamara alapszabályában kell meghatározni.
-
-(2) A szakmai kamarai tagdíj egy naptári évre eső mértéke nem haladhatja meg az adott naptári évben a kamarai tagra irányadó kötelező legkisebb munkabér, illetve garantált bérminimum egyhavi összegének
-
-- a) a Magyar Egészségügyi Szakdolgozói Kamara esetében: tizennyolc százalékát,
-- b) a Magyar Gyógyszerészi Kamara esetében
-  - ba) a személyi joggal rendelkező gyógyszerész kamarai tagok tekintetében: hatvan százalékát,
-  - bb) a ba) alpont hatálya alá nem tartozó kamarai tagok esetében: harminc százalékát,
-- c) a Magyar Orvosi Kamara esetében: harminc százalékát.
-
 30. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – 2007. április 1. napján lép hatályba. Az e törvény és az alapszabály szerinti új kamarai szervek és tisztségviselők a 32. § (3) bekezdése szerinti alapszabály alapján történő megválasztásuk napjától kezdik meg működésüket.
 
 (2) E törvény 31–32. §-ai, valamint 34. §-ának (2) bekezdése 2007. január 1. napján lépnek hatályba.
 
-(3) E törvény rövidítése: Ekt.
+31. § (1) A Magyar Orvosi Kamara, a Magyar Gyógyszerész Kamara, a Magyar Egészségügyi Szakdolgozói Kamara (a továbbiakban együtt: Kamara) etikai, etikai-fegyelmi bizottsága a 2007. január 31-én folyamatban lévő etikai eljárást annak további folytatása nélkül 2007. február 28-ig megszünteti.
 
-31. § A 11. § (1) bekezdése szerinti korlátozás szempontjából a 2011. április 1. előtt betöltött tisztséget nem kell tekintetbe venni, a korlátozást a 2011. április 1-jét követő első alkalommal történő megválasztástól kell számítani.
+(2) Az orvosi, gyógyszerészi, szakdolgozói foglalkozás szakmai szabályainak megszegésével összefüggésben indított etikai eljárás megszüntetésekor, de legkésőbb 2007. április 30-ig – amennyiben a Kamara eljárása során a szakmai szabálysértés gyanúja beigazolódott – az egészségügyi államigazgatási szerv eljárása megindításának alapjául szolgáló tényeket és iratokat a Kamara és a perben eljáró bíróság megküldi az egészségügyi államigazgatási szerv részére további intézkedések megtétele érdekében.
 
-32. § (1) Aki az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény és az egészségügyről szóló 1997. évi CLIV. törvény módosításáról szóló 2023. évi I. törvény (a továbbiakban: Módtv.) hatálybalépése napján a Magyar Orvosi Kamara tagja, a Módtv. hatálybalépését követő 30 napon belül – a Magyar Orvosi Kamara országos elnökségéhez intézett – egyoldalú, írásbeli nyilatkozattal nyilatkozik arról, hogy fenn kívánja-e tartani a kamarai tagsági viszonyát. A tagsági viszonyt fenntartó nyilatkozattétel hiányában a kamarai tagsági viszony a Módtv. hatálybalépését követő 31. napon megszűnik. A tagságot fenntartó nyilatkozat érvényességéhez a Magyar Orvosi Kamara külön elfogadó nyilatkozata nem szükséges.
+(3) A 2007. január 1-je előtt kiszabott jogerős etikai büntetés és bírósági ítélet az arra vonatkozó szabályok szerint évül el.
 
-(2) A tagsági viszonyukat fenn nem tartó kamarai tagok személyes adatait a kamarai tagsági nyilvántartásokból haladéktalanul, a (4) bekezdés szerinti esetben az ott meghatározott iratok és adatok átadását követően haladéktalanul törölni kell. A Magyar Orvosi Kamara a tagsági viszonyát fenntartani nem kívánó vagy megszüntető tag számára az éves tagdíj arányosan fennmaradó részét a tagsági viszony megszűnését követő 8 napon belül visszatéríti.
+32. § (1) Valamennyi, e törvény hatálya alá tartozó szakmai kamarai tag 2007. január 1. és március 31. napja között – a kamarai országos elnökséghez intézett – egyoldalú, írásbeli nyilatkozattal fenntarthatja kamarai tagsági viszonyát. A tagsági viszonyt fenntartó nyilatkozattétel hiányában a kamarai tagsági viszony 2007. április 1. napján megszűnik. A tagságot fenntartó nyilatkozat érvényességéhez a Kamara külön elfogadó nyilatkozata nem szükséges. A tagsági viszonyukat fenn nem tartó kamarai tagok személyes adatait a kamarai tagsági nyilvántartásokból haladéktalanul törölni kell.
 
-(3) A tagsági viszonyukat fenn nem tartó kamarai tagokkal szemben a tagsági viszony megszűnése előtt kiszabott jogerős etikai büntetést a működési nyilvántartást vezető szerv az Eütv. 112. § (4) bekezdés j) pontja szerint annak elévüléséig nyilvántartja azzal, hogy
+(2) A kamarai országos elnökségek a (4) bekezdés szerinti feladataik ellátása céljából az új országos elnökségek megválasztásáig, de legkésőbb 2007. május 31-éig továbbműködnek. Az (1) bekezdéstől eltérően az elnökségi tagok tagsági viszonya fenntartási nyilatkozat hiányában 2007. június 1. napján szűnik meg.
 
-- a) a kizárás etikai büntetés jogerőre emelkedésétől számított két évig nem végezhet egészségügyi tevékenységet az, akit a 25. § (1) bekezdés f) pontja szerinti kizárás etikai büntetéssel a Módtv. hatálybalépését megelőzően a kamarából kizártak,
-- b) nem végezhet egészségügyi tevékenységet az, akivel szemben a Módtv. hatálybalépését megelőzően a Magyar Orvosi Kamara a 25. § (1) bekezdés d) pontja szerinti, a tagsági viszony 1–6 hónapig terjedő felfüggesztése etikai büntetést hozott, a határozat jogerőre emelkedésétől számítva a határozatban foglalt ideig.
+(3) A Kamara 2007. június 1. napjáig – soron kívüli kamarai választások során – alakuló országos küldöttközgyűlést választ, amelynek megbízatása az alakuló küldöttközgyűlés által elfogadott alapszabály szerinti időtartamig szól. 2007. április 1. napján – az országos elnökség kivételével – a 2007. március 31-én hivatalban lévő kamarai szervek, illetőleg tisztségviselők megbízatása megszűnik.
 
-(4) A 20/A. § szerinti személyekkel szemben – tekintet nélkül arra, hogy az érintett kamarai tag vagy sem – a folyamatban lévő etikai eljárásokat az Egészségügyi Tudományos Tanács folytatja le. Az érintett taggal szemben folyamatban lévő etikai eljárások iratait és az etikai eljárással kapcsolatos adatokat – az etikai eljárás lefolytatása érdekében – a Magyar Orvosi Kamara a Módtv. hatálybalépését követő 15 napon belül átadja az Egészségügyi Tudományos Tanács részére.
+(4) A (3) bekezdés szerinti soron kívüli kamarai választásokon azok a kamarai tagok választhatnak, illetve választhatóak meg küldöttnek, akik a választás napján az érintett kamarai országos elnökség által az önkéntes kamarai tagokról vezetett nyilvántartásban (tagjegyzékben) szerepelnek tagsági jogviszonyuk (1) bekezdés szerinti fenntartása vagy új tagsági viszony létesítése következtében. Az alakuló küldöttközgyűlésbe való küldött ajánlás módját, illetve a küldöttek megválasztásának rendjét az országos elnökségek 2007. április 15-ét követően a nyilvántartásban szereplő kamarai tagok létszáma alapján határozzák meg azzal, hogy a létszám meghatározásakor a 2007. április 1-jét követően létesített új tagsági viszonyokra is figyelemmel kell lenni.
 
-33. § A Magyar Orvosi Kamara esetében e törvény
+(5) A (4) bekezdés szerinti küldöttnek az választható meg, aki nyilatkozik arról, hogy küldötté választása napján kamarai tagsági viszonyban áll, továbbá tagsági viszonyának megszüntetése nincs folyamatban. Megválasztását követően küldöttként csak az járhat el, aki eljárása napján kamarai tagsági viszonyban áll.
 
-- a) III. Fejezetének etikai bizottságra, etikai kódexre, etikai kollégiumra vonatkozó rendelkezéseit nem kell alkalmazni,
-- b) 12. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy az etikai büntetés hatálya nem terjed ki az etikai bizottság, valamint etikai kollégium elnökére, tagjára,
-- c) 12. § (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy az összeférhetetlenség megállapítását az országos etikai bizottság nem kezdeményezheti,
-- d) 14. § (3) bekezdés b) pontját azzal az eltéréssel kell alkalmazni, hogy szakmai kamara etikai normái nem minősíthetnek egy tevékenységet az adott egészségügyi tevékenységgel összeférhetetlennek, és
-- e) a 17. § (3) bekezdését nem kell alkalmazni.
+33. § E törvény hatálybalépésével egyidejűleg
 
-#### 33/A. §
+- a)
+- b) az Eütv. 110. §-a (16) bekezdésében az „Az illetékes szakmai kamara” szövegrész helyébe az „A működési nyilvántartást vezető szerv”
 
-#### 33/B. §
+szöveg lép.
 
-#### 33/C. §
+34. § (1) E törvény hatálybalépésével egyidejűleg hatályát veszti
 
-34. § Felhatalmazást kap az egészségügyért felelős miniszter, hogy
+- a) a Magyar Orvosi Kamaráról szóló 1994. évi XXVIII. törvény, valamint
+- b) a Magyar Gyógyszerész Kamaráról szóló 1994. évi LI. törvény,
+- c) a Magyar Egészségügyi Szakdolgozói Kamaráról szóló 2003. évi LXXXIII. törvény,
+- d) a külföldiek önálló vállalkozóként történő gazdasági célú letelepedéséről szóló 1998. évi LXXII. törvény 4–5. §-ai,
+- e) az egészségügyet, illetőleg a gyógyszerellátást érintő egyes törvények módosításáról rendelkező 1999. évi LIII. törvény 1–31. §-ai, továbbá 48. § (1) bekezdésének a)–b) pontjai és (4) bekezdése,
+- f) az egészségügyet, a gyógyszerellátást, a szociális ellátást érintő egyes törvények jogharmonizációs célú, valamint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény, továbbá a társadalombiztosítási járulékfizetéssel és az egészségügyi hozzájárulással kapcsolatos törvények módosításáról szóló 2001. évi LXX. törvény 4–6. §-ai, valamint 42. §-a (1) bekezdésének a) pontja,
+- g) a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 72. §-a,
+- h) a gyógyszerészetet érintő egyes törvények módosításáról szóló 2002. évi XIV. törvény 2. §-a és 3. § (3) bekezdése,
+- i) az egyes szociális és egészségügyi tárgyú törvények módosításáról szóló 2004. évi XXVI. törvény 35. §-a, 92–93. §-ai, valamint 94. §-a (4) bekezdésének l) pontja,
+- j) az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 30. §-a,
+- k) az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 5. §-a (1) bekezdésében az „a szakmai kamarák által kidolgozott” szövegrész.
 
-- a) az Eütv. szerinti kötelező továbbképzés szervezője tevékenységének az egészségügyben működő szakmai kamarák, valamint a b) pont szerinti szerv általi rendszeres minősítésére, a minősítés közzétételére és a minősítés alapján megtehető javaslattételre vonatkozó részletes szabályokat,
-- b) a 2/A. § (1b) bekezdés szerinti szervet – a felsőoktatásért felelős miniszter egyetértésével kiadott –
+(2) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az egyes egészségügyi dolgozók általános szakmai-etikai szabályait, valamint a vétkes megszegésük esetén alkalmazandó jogkövetkezmények alkalmazásának általános rendjét tartalmazó Rendtartást rendeletében kiadja.
 
-rendeletben állapítsa meg.
+35. § (1) Az Eütv. e törvény 28. § (6) bekezdésével megállapított 140/A. §-a szerinti Országos Etikai Tanács ülését első alkalommal az e törvény hatálybalépését követő 60 napon belüli időtartamra össze kell hívni. Az Országos Etikai Tanács az egészségügyi dolgozókra kiterjedő etikai-fegyelmi szabályzatot legkésőbb 2007. március 31-ig a miniszter elé terjeszti.
 
-35. § Ez a törvény a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+(2) A Megyei Etikai Bizottságok – az egészségügyi államigazgatási szerv szervezeti keretei között – 2007. március 31-ével megkezdik működésüket.

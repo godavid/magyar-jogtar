@@ -31,7 +31,7 @@ Az Országgyűlés a tulajdonviszonyok rendezése, a forgalmi viszonyok és a pi
 
 3. § (1) A kár mértékét átalányértékben kell meghatározni. Az egyes vagyonelemek átalányértékét a 3. számú melléklet tartalmazza.
 
-(2)
+(2) Termőföld esetén a kár mértékét a 13. §-ban meghatározottak szerint kell megállapítani.
 
 (3) Az (1) és (2) bekezdésben szabályozott átalányérték magában foglalja az ingóságok értékét is.
 
@@ -64,7 +64,7 @@ Az Országgyűlés a tulajdonviszonyok rendezése, a forgalmi viszonyok és a pi
 
 (4)
 
-(5)
+(5) A kárpótlási jegy névértéke a kárpótlási hatóság által havonta közzétett és a közzétételt követő naptári hónap első napjától jóváírható kamattal növekszik.
 
 6. § (1) A kárpótlási jegy tartalmazza:
 
@@ -82,8 +82,8 @@ Az Országgyűlés a tulajdonviszonyok rendezése, a forgalmi viszonyok és a pi
 
 7. § (1) Az állam biztosítja, hogy a kárpótlási jegyet annak birtokosa az e törvényben foglalt feltételekkel
 
-- a) az állami tulajdon privatizációja során értékesítésre kerülő vagyontárgyak, részvények, üzletrészek megvásárlására
-- b) felhasználhatja.
+- a) az állami tulajdon privatizációja során értékesítésre kerülő vagyontárgyak, részvények, üzletrészek megvásárlására, továbbá
+- b) termőföld tulajdon megszerzésére felhasználhatja.
 
 (2) A kárpótlásra jogosult az e törvény alapján őt megillető kárpótlási jegyeket az állam tulajdonában álló, illetőleg az e törvény kihirdetése után az állam tulajdonából az önkormányzat tulajdonába ingyenesen kerülő lakás értékesítése során fizetőeszközként névértékben felhasználhatja.
 
@@ -107,19 +107,17 @@ Az Országgyűlés a tulajdonviszonyok rendezése, a forgalmi viszonyok és a pi
 
 10. § (1) Az e törvény hatálya alá tartozó ügyekben a kárpótlási hatóság jár el.
 
-(2)
+(2) A kérelmező nem jogosult a kárpótlási hatósággal elektronikus úton kapcsolatot tartani.
 
-(3)
-
-(4)
+(3) A bíróság a megtámadott határozat megváltoztatására is jogosult.
 
 11. § (1) A kárpótlás iránti kérelmet a jogosult 1991. december 16. napjáig nyújthatja be az illetékes területi kárrendezési kirendeltséghez.
 
-(2)
+(2) Abban az esetben, ha a kárpótlás alapjául szolgáló vagyontárgyak között ingatlan is van, az annak fekvése szerinti kárpótlási hatóság jár el.
 
-(3)
+(3) Ha a jogosult állandó lakóhelye külföldön van, az eljárásra a fővárosi kárpótlási hatóság az illetékes.
 
-(4)
+(4) Több kárpótlási hatóság illetékessége (pozitív illetékességi összeütközés) esetén a jogosult választása szerinti kárpótlási hatóság bírálja el a jogosult összes igényét.
 
 12. § (1) A kérelmet írásban kell benyújtani. A kérelem benyújtására a 11. § (1) bekezdésében előírt határidő elmulasztása jogvesztéssel jár.
 
@@ -129,51 +127,102 @@ Az Országgyűlés a tulajdonviszonyok rendezése, a forgalmi viszonyok és a pi
 
 (4)
 
-(5)
+(5) A kárpótlási hatóság a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint jár el, azzal az eltéréssel, hogy az ügyintézési határidő a kérelem benyújtásától számított hat hónap, amelyet a hivatal vezetője egy ízben legfeljebb három hónappal meghosszabbíthat.
 
 (6) Az e törvény alapján a kárpótlási hatóság előtt induló eljárások illetékmentesek.
 
 ### A termőföldre vonatkozó sajátos szabályok
 
-#### 13. §
+13. § (1) Termőföld esetén a kár mértékét a termőföld kataszteri tiszta jövedelme (a továbbiakban: AK érték) alapján kell megállapítani úgy, hogy egy AK érték ezer forintnak felel meg. Erdők esetében az AK érték négyszeres szorzatát kell alapul venni.
 
-#### 14. §
+(2) Ha a volt tulajdonos a termőföldjéért csereföldet kapott, a kár mértékét a különbözetként mutatkozó AK érték alapján kell meghatározni.
 
-#### 15. §
+(3) Amennyiben a földrészlet AK adata a korábbi okiratból nem állapítható meg, akkor az AK értéket a föld fekvése szerinti község (város) kataszteri tiszta jövedelmi adatainak 1982—1985. évi lezárása során megállapított átlagos AK adatok alapulvételével kell kiszámolni.
 
-#### 16. §
+(4) Ha az eredeti földet, vagy annak egy részét művelés alól kivett területként vagy halastóként tartották nyilván, a kár mértékét a föld fekvése szerinti község (város) legalacsonyabb minőségű szántó művelési ágra meghatározott AK értéke alapján kell megállapítani.
 
-#### 17. §
+14. § Ha a volt tulajdonos a termőföldjéért bármilyen térítésben (például megváltási árban) részesült, úgy annak összegét a kárpótlás 4. §-a alapján kiszámított mértékéből le kell vonni.
 
-#### 18. §
+15. § (1) A kárpótlás termőföldben történő biztosítása érdekében a szövetkezet vagy jogutódja (a továbbiakban: szövetkezet) a 12. § (4) bekezdésében említett értesítés kézhezvételétől számított 30 napon belül a 16—18. §-okban foglalt rendelkezéseknek megfelelően kijelöli azt az e törvény kihirdetése napján a tulajdonában vagy használatában álló termőföldterületet, amelyet a 2. számú mellékletben felsorolt jogszabályok alapján szerzett meg. Amennyiben a szövetkezet a kijelölési kötelezettségének nem tesz eleget, akkor az e törvény alapján megszerzett, s a tulajdonában vagy használatában lévő termőföld mennyiség teljes egészében kijelöltnek tekintendő.
 
-#### 19. §
+(2) Az (1) bekezdés alapján kijelölt termőföldterületre a kárpótlásra jogosultakat vételi jog illeti meg.
 
-#### 20. §
+16. § A szövetkezetnek legalább a 12. § (4) bekezdésében említett értesítésben meghatározott AK értékű termőföldterületet kell kijelölnie úgy, hogy a kijelölt földmennyiség átlagos AK értékének meg kell egyeznie a szövetkezet egyéb földterületének átlagos AK értékével.
 
-#### 21. §
+17. § (1) A kijelölés során a szövetkezetben a szövetkezeti tagok és alkalmazottak, állami gazdaságnál az alkalmazottak földtulajdonhoz juttatása céljából földalapot kell képezni. A földalap nagyságát úgy kell meghatározni, hogy átlagosan szövetkezeti tagonként 30 AK, szövetkezeti és állami gazdasági alkalmazottak esetében 20 AK értékű termőföld jusson személyenként. Az így számított földalap AK értéke nem haladhatja meg a szövetkezet tulajdonában, illetőleg az állami gazdaság kezelésében lévő termőföld AK értékének 50%-át.
 
-#### 22. §
+(2) Az (1) bekezdésben említett földalap számításánál szövetkezeti tagként, illetve alkalmazottként, továbbá állami gazdasági alkalmazottként az vehető figyelembe, aki 1991. január 1-jén és azóta is a szövetkezet vagy állami gazdaság tagja, illetve alkalmazottja, és az (1) bekezdésben meghatározottnál kisebb mezőgazdasági földtulajdonnal rendelkezik.
 
-#### 23. §
+18. § (1) A kiadásra kerülő termőföldet a védett természeti területen kívül kell kijelölni.
 
-#### 24. §
+(2) Ha a védett természeti területen kívül rendelkezésre álló terület a kijelöléshez nem elegendő — a nemzeti park, a nemzetközi egyezmények hatálya alá tartozó és a fokozottan védett területek kivételével —, a szövetkezet tulajdonában lévő szántó, kert, gyümölcsös, szőlő és erdő művelési ágba tartozó védett természeti terület is kijelölhető.
 
-#### 25. §
+(3) A védett természeti területből történő kijelölés esetén a természetvédelmi hatóság hozzájárulását be kell szerezni.
 
-#### 26. §
+(4) Amennyiben a kárpótlás során védett természeti terület kerül kiadásra vagy a terület hasznosítására más korlátozás áll fenn, erről az árverésen (21. §) résztvevőket írásban tájékoztatni kell.
 
-#### 27. §
+(5) E rendelkezéseket kell alkalmazni védelemre tervezett területek esetében is.
 
-#### 28. §
+(6) Nem lehet kijelölni a műemlékileg védett, eredetileg nem mezőgazdasági rendeltetésű épülethez, építményhez tartozó, illetve körülötte lévő eredetileg nem termőföld rendeltetésű földterületet.
+
+19. § Az állam a szövetkezeti földek árverésével egyidőben, illetőleg azt követően állami tulajdonú földeket is árverésre bocsát. Az így árverésre bocsátott termőföldek AK értékének el kell érnie a szövetkezetek által árverésre bocsátott termőföldek AK értékének legalább 20%-át.
+
+20. § (1) A 15—19. §-okban kijelölt termőföldek árverés útján kerülnek a kárpótlásra jogosultak részére értékesítésre. Ha a volt tulajdonos földje, mint állami tulajdonú föld került a szövetkezet közös használatába, a szövetkezet a közös használatában lévő állami tulajdonú termőföldeket is árverésre bocsáthatja.
+
+(2) Az árverés legkorábbi, illetve legkésőbbi időpontját a kárpótlás iránti kérelmek elbírálására tekintettel a szövetkezet székhelye szerint illetékes kárpótlási hatóság állapítja meg.
+
+21. § (1) Az árverésen az őt megillető kárpótlási jegyekkel az a kárpótlásra jogosult vehet részt,
+
+- a) akinek az elvett termőföldje a szövetkezet tulajdonában vagy használatában van,
+- b) aki a termőföldet árverező szövetkezetnek 1991. január 1-jén és az árverés időpontjában is tagja, illetőleg az árverés időpontjában azért nem tagja, mert tagsági viszonya az [1992: II. tv.] Ámt. hatálybalépését követően kiválással, a szövetkezet gazdasági társasággá történő átalakulása vagy a szövetkezet megszűnése folytán szűnt meg.
+- c) akinek 1991. június 1-jén abban a községben, városban volt az állandó lakóhelye, ahol az árverező szövetkezet termőföldterülete van.
+
+(2) Az árverést a szövetkezet székhelye szerint illetékes kárpótlási hatóság közigazgatási hatósági jogkörben eljáró alkalmazottja vezeti.
+
+22. § (1) Az árverésen résztvevők az egy aranykoronának megfelelő forintértékre licitálnak. A kikiáltási ár 3000 Ft/AK. Ha e kikiáltási áron vagy afelett nincs ajánlat, a kikiáltási ár folyamatosan, de legfeljebb 500 Ft/AK értékig csökkenthető.
+
+(2) Az árverést a végrehajtási rendeletben meghatározott módon kell lefolytatni. Az árverés során elfogadott ajánlatok tevői — az ajánlatukban foglaltaknak megfelelően — gyakorolhatják vételi jogukat a szövetkezet 15—18. §-okban meghatározott termőföldjének általuk kiválasztott részletére. A kárpótlásra jogosult tanyatulajdonost a tanyája körüli termőföldre az árverés során elővásárlási jog illeti meg.
+
+23. § (1) A 22. § (2) bekezdésében meghatározott vételi jogot az a jogosult gyakorolhatja, aki kötelezettséget vállal a termőföld mezőgazdasági hasznosítására és arra, hogy a termőföldet a mezőgazdasági termelésből öt éven belül nem vonja ki.
+
+(2) Azt a vételi jog alapján szerzett termőföldet, amelynek tulajdonosa az (1) bekezdésben vállalt kötelezettségét a tulajdonszerzéstől számított öt éven belül megszegi, kártalanítás nélkül állami tulajdonba kell venni és árverés útján kell értékesíteni.
+
+(3)
+
+24. § (1) Az a 21. §-ban meghatározott kárpótlásra jogosult, aki vállalja, hogy az adóhatóságnál az árveréstől számított 30 napon belül mezőgazdasági vállalkozóként bejelentkezik, mezőgazdasági vállalkozási támogatásként — az árverésen való termőföldvásárlás céljából — igényt tarthat a 3. § alapján megállapított kár mértéke és a 4. § szerinti kárpótlás összege közötti különbözetre. A kárpótlás és a támogatás együttes összege az 1 millió forintot nem haladhatja meg.
+
+(2) Ha az (1) bekezdésben említett támogatásban részesülő személy az előírt határidőn belül mezőgazdasági vállalkozóként nem jelentkezik be, vagy az adóhatóság a termőföld vásárlásától számított öt éven belül megállapítja, hogy ténylegesen nem folytat mezőgazdasági vállalkozói tevékenységet, a támogatás hitellé alakul át és azonnal esedékessé válik.
+
+(3) Arra a termőföldre, amelyet a kárpótolt az (1) bekezdésben említett támogatással szerez meg, az állam javára öt évi időtartamra jelzálogjogot és elidegenítési tilalmat kell bejegyezni. Amennyiben e határidőn belül a kárpótolt az adóhatóságnál a támogatás összegét befizeti, az állam javára bejegyzett jelzálogjogot és elidegenítési tilalmat törölni kell.
+
+(4) A mezőgazdasági vállalkozási támogatás összegéről — a jogosult kérelmére — az illetékes kárpótlási hatóság utalványt ad, amelyet az árverés során a kárpótlási jeggyel azonos módon lehet felhasználni. Az utalványból — a szövetkezet tulajdonában lévő föld árverésen történő megszerzése ellenében a kárpótlásra jogosult által — felhasznált összeg erejéig a szövetkezet kárpótlási jegyet igényelhet a székhelye szerint illetékes kárpótlási hatóságtól.
+
+(5) Ha az árverés időpontjában a kárpótlásra jogosult még nincs a megszerzett termőföld birtokában, illetőleg azt további 15 napon belül sem veheti birtokba, az (1) bekezdésben megállapított határidőt a birtokbavétel lehetőségének megnyílásától kell számítani.
+
+25. § (1) A kárpótlásra jogosult az általa megvásárolt termőföld AK értékben ki nem fejezett értéknövekedésének állami támogatással csökkentett összegű megtérítésére köteles a földet az árverésen eladó részére.
+
+(2) A megvásárolt termőföld kijelölésével önálló ingatlanként történő kialakításával és ennek ingatlannyilvántartási bejegyzésével kapcsolatos költségek az állami költségvetést terhelik, a tulajdonszerzés mentes a vagyonszerzési illeték alól.
+
+26. § A 15—18. §-ok alapján kijelölt, s a szövetkezet által árverésen értékesített termőföld ellenértékeként megszerzett kárpótlási jegyeket a szövetkezet a 7. § (1) bekezdésében foglaltaknak megfelelően felhasználhatja, kivéve a használatában lévő állami tulajdonú termőföld értékesítése ellenében megszerzett kárpótlási jegyeket.
+
+27. § (1) Az állami gazdaságnak a kezelésében lévő állami tulajdonú termőföld kijelölése és árverezése tekintetében a 15—26. §-ban, továbbá a szövetkezeti törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény 13—27. §-át kell megfelelően alkalmazni.
+
+(2) A 19. § alapján árverésre kijelölt állami tulajdonú termőföldek 80%-át a kijelöléssel érintett településeken azok között a kárpótlásra jogosultak között kell árverésre bocsátani, akiknek
+
+- a) állandó lakóhelye 1991. június 1-jén az érintett településen volt, és akik jelenleg is ott rendelkeznek állandó lakóhellyel, vagy
+- b) a kárpótlás alapjául szolgáló termőföld tulajdona a település közigazgatási határán belül volt.
+
+(3) A 19. § alapján árverésre kijelölt állami tulajdonú termőföldeket a (2) bekezdés a) pontjában meghatározott kárpótlásra jogosultak között kell árverésre bocsátani, ha annak nagysága a településen a 20 hektárt nem haladja meg.
+
+(4) A (2) bekezdésben megjelölt földterület fennmaradó részére kitűzött árverésen minden kárpótlásra jogosult az őt megillető kárpótlási jeggyel részt vehet. Az árverésre egyebekben a 22—23. § és a 25. §-ok rendelkezéseit kell alkalmazni.
+
+28. § Az állami tulajdonú termőföld ellenében az árverésen kapott kárpótlási jegyet a szövetkezet, illetőleg az állami gazdaság 30 napon belül köteles eljuttatni az illetékes kárpótlási hatósághoz.
 
 ### Zárórendelkezések
 
 29. § E törvény végrehajtásáról — ideértve az Iroda felállítására és működésére vonatkozó szabályok megállapítását is — a Kormány gondoskodik.
 
 30. § Ez a törvény a kihirdetése napját követő 30. napon lép hatályba, kivéve a 7. § (2) bekezdését és a 29. §-t, amelyek a kihirdetés napján lépnek hatályba.
-
-#### 31. §
 
 ### 1. számú melléklet az 1991. évi XXV. törvényhez
 

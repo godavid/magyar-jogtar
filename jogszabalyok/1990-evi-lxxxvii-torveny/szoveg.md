@@ -18,13 +18,7 @@ Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra von
 - c) A hegyközség által megállapított termőhelyi védőárra;
 - d) az agrárpiaci rendtartásról szóló 2003. évi XVI. törvény alapján megállapított árakra;
 - e) a villamos energiáról szóló 2007. évi LXXXVI. törvény hatálya alá tartozó termékek vagy szolgáltatások árára;
-- f) a földgázellátásról szóló 2008. évi XL. törvény hatálya alá tartozó termékek vagy szolgáltatások árára;
-- g) pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvényben szabályozott szolgáltatási díjakra;
-- h) a távhőszolgáltatásról szóló törvény hatálya alá tartozó termékek vagy szolgáltatások árára;
-- i) a víziközmű-szolgáltatásról szóló törvény alapján meghatározott díjakra.
-- j) a személyszállítási szolgáltatásokról szóló törvényben meghatározott helyi, valamint az elővárosi, regionális és országos közösségi közlekedési szolgáltatások áraira;
-- k) a nemzeti mobil fizetési rendszerről szóló törvényben meghatározott kényelmi díjra, és a nemzeti mobil fizetési szervezet által a központosított mobil értékesítésű szolgáltatás továbbértékesítése során alkalmazandó árrésre,
-- l) fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvényben meghatározott legkisebb kereskedelmi árrésre.
+- f) a földgázellátásról szóló 2008. évi XL. törvény hatálya alá tartozó termékek vagy szolgáltatások árára.
 
 (3) E törvény alkalmazásában gazdasági tevékenység: nyereség- és vagyonszerzés céljából üzletszerűen, ellenérték fejében történő termelő vagy szolgáltatási tevékenység folytatása.
 
@@ -34,13 +28,7 @@ Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra von
 
 ### Bejelentési kötelezettség
 
-#### 3. §
-
-#### 4. §
-
-#### 5. §
-
-#### 6. §
+3–6. §
 
 ### Hatósági ármegállapítás
 
@@ -52,7 +40,7 @@ Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra von
 
 (4)
 
-(5) E törvény melléklete „I. Legmagasabb ár” pontjának „B) Szolgáltatások” alpontjában 40.30.90.0 SZTJ szám alatt szereplő „Távhőszolgáltatás csatlakozási díját” a települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete külön törvényben meghatározottak szerint rendeletben állapítja meg.
+(5) E törvény Melléklete II. Legmagasabb ár pontjának „B) Szolgáltatások” fejezetében található „40.30.90.0 Távhőszolgáltatás csatlakozási díját és lakossági távhőszolgáltatás díját” a települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselőtestülete külön törvényben meghatározottak szerint rendeletben állapítja meg.
 
 8. § (1) A legmagasabb árat — a (2) bekezdésben szabályozott kivétellel — úgy kell megállapítani, hogy a hatékonyan működő vállalkozó ráfordításaira és a működéséhez szükséges nyereségre fedezetet biztosítson, tekintettel az elvonásokra és a támogatásokra is.
 
@@ -98,11 +86,11 @@ Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra von
 
 (2) A hatósági ár megállapítójának határozata ellen fellebbezésnek nincs helye.
 
-(3)
+(3) Az egyetemes hírközlési szolgáltatások tekintetében a 16. §-ban foglaltakat a hatósági ár megállapítója helyett a Nemzeti Hírközlési Hatóság végzi, az ezzel kapcsolatos eljárásra az elektronikus hírközlésről szóló törvény szabályait kell alkalmazni.
 
 (4)
 
-#### 18. §
+18. §
 
 ### Vegyes rendelkezések
 
@@ -110,7 +98,7 @@ Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra von
 
 19/A. § A gyógyszerpiac átmeneti zavarainak elhárítása, kiküszöbölése vagy a gyógyszerpiac egyensúlyának fenntartása érdekében tehető intézkedésekről külön törvény rendelkezik.
 
-#### 20. §
+20. §
 
 21. § Az e törvényben foglaltak nem érintik a külön jogszabályok szerinti polgári jogi igény érvényesítésének, illetőleg szabálysértési vagy büntetőeljárás megindításának lehetőségét.
 
@@ -124,8 +112,6 @@ Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra von
 
 23. § A törvény hatálybalépése nem érinti a mellékletben felsorolt termékekre vonatkozóan korábban kiadott hatósági ármegállapítások érvényességét.
 
-24. § Ez a törvény a termékek tevékenység szerinti, új statisztikai osztályozásáról (CPA, magyarul TESZOR) és a 3696/93/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 451/2008/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. október 29-i 1209/2014/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
 ### Melléklet az 1990. évi LXXXVII. törvényhez
 
 Hatósági áras termékek
@@ -136,15 +122,26 @@ I. Legmagasabb ár
 
 A) Termékek
 
-| Termékszám(ITJ)(BTO) | Megnevezés | A hatósági ár megállapítója |
+| Termékszám (ITJ)(BTO) | Megnevezés | A hatósági ár megállapítója |
 | --- | --- | --- |
 | 11−3 | Földgáz ára | gazdasági és közlekedési miniszter |
 | 14−1 | Villamosenergia ára | gazdasági miniszter |
+| 1441−1−2 | Az állami tulajdonú víziközműből más víziközműnek átadott ivóvíz díja | vízgazdálkodásért felelős miniszter |
 
 B) Szolgáltatások
 
-|  | A | B | C |
-| --- | --- | --- | --- |
-| 1 | Termékek és Szolgáltatások Osztályozási Rendszere(TESZOR kód) | Megnevezés | A hatósági ár megállapítója |
-| 2 | 46.18.11 (ebből: a gyógyszer ügynöki nagykereskedelme), 46.46.11 (ebből: gyógyszer nagykereskedelem), 47.00.74 | Humán célú, a járóbeteg-ellátás keretében társadalombiztosítási támogatással forgalmazható gyógyszerek kereskedelmi árrése | egészségügyért felelős miniszter |
-| 3 | az 56.10 kódból | a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet 4. mellékletében meghatározott vendéglátóhely üzlettípusokban felszámított felszolgálási díj | vendéglátásért felelős miniszter |
+| Szolgáltatásszám (SZTJ)(ITJ) | Megnevezés | A hatósági ár megállapítója |
+| --- | --- | --- |
+| 405−11−02-ből | A belföldi közforgalmú, vasúti menetrend szerinti személyszállítás díja | közlekedésért felelős miniszter |
+| 405−22−01-ből | A belföldi menetrend szerinti távolsági autóbusz-közlekedés díja; iskolák és tanintézetek által rendelt belföldi távolsági autóbusz-különjáratok díja | közlekedésért felelős miniszter |
+| 405−22−02-ből | A menetrend szerinti helyi autóbusz-közlekedés díja; iskolák és tanintézetek által rendelt helyi autóbusz-különjáratok díja | települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete |
+| 405−3-ból | A menetrend szerinti személyszállítás (villamos, fogaskerekű, troli, metró, földalatti) és a helyiérdekű vasút díja | települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete |
+| 64.11.12.0-ból 64.11.14.0-ból 64.11.15.0-ból | A postáról szóló 2003. évi CI. törvény 7. § (1) bekezdésében meghatározott postai belföldi fenntartott szolgáltatások díja | postaügyért felelős miniszter |
+| 64.20.11.0 64.20.12.1 64.20.12.2 | Az egyetemes elektronikus hírközlési szolgáltatás díja | elektronikus hírközlésért felelős miniszter |
+| 507−34, 45-ből | Humán célú, a járóbeteg-ellátás keretében társadalombiztosítási támogatással forgalmazható gyógyszerek kereskedelmi árrése | egészségügyért felelős miniszter |
+| 05511 | Az önkormányzati tulajdonú víziközműből szolgáltatott ivóvíz díja | települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete |
+| 18111−1−2 | Az önkormányzati tulajdonú víziközmű által biztosított szennyvízelvezetés, szennyvíztisztítás és -kezelés díja | települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete |
+| 05511 | Az állami tulajdonú víziközműből szolgáltatott ivóvíz díja | vízgazdálkodásért felelős miniszter |
+| 18111−1−2 | Az állami tulajdonú víziközmű által biztosított szennyvízelvezetés, szennyvíztisztítás és -kezelés díja | vízgazdálkodásért felelős miniszter |
+| 40.30.90.0 | Távhőszolgáltatás csatlakozási díja és lakossági távhőszolgáltatás díja | települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete |
+| SZJ’03 72.30.21 | A céginformációs szolgálat által biztosított céginformáció elektronikus adattovábbításának ára | igazságügyért felelős miniszter és az államháztartásért felelős miniszter |

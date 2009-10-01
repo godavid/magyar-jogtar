@@ -10,9 +10,9 @@ az erdőbirtokossági társulatról
 
 ### A társulat fogalma
 
-2. § (1) A társulat az erdő művelési ágban nyilvántartott egy vagy több földrészlet tulajdonosai (a továbbiakban: tulajdonos) által az erdőgazdálkodási tevékenységgel összefüggő, valamint az ahhoz kapcsolódó feladatok ellátására létrehozott, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet. A társulat jogi személy.
+2. § (1) A társulat az erdő művelési ágban nyilvántartott egy vagy több földrészlet tulajdonosai (a továbbiakban: tulajdonos) által az erdőgazdálkodási tevékenységgel összefüggő, valamint az ahhoz kapcsolódó feladatok ellátására létrehozott gazdálkodó szervezet. A társulat jogi személy.
 
-(2) A társulat és a tagok e törvényben nem szabályozott vagyoni viszonyaira a a Polgári Törvénykönyv (a továbbiakban: Ptk.) rendelkezéseit kell alkalmazni.
+(2) A társulat és a tagok e törvényben nem szabályozott vagyoni viszonyaira a Polgári Törvénykönyv rendelkezéseit kell alkalmazni.
 
 ### A társulati érdekeltség
 
@@ -43,7 +43,7 @@ az erdőbirtokossági társulatról
 
 (3) Az alapszabályt, valamint a névjegyzéket az alakuló közgyűlés elnöke és jegyzőkönyvvezetője írja alá, s azt az alakuló közgyűlésen erre megválasztott két tag hitelesíti.
 
-(4) Az alapszabályt közjegyzői okiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett okiratba kell foglalni.
+(4) Az alapszabályt közjegyzői okiratba vagy ügyvéd (jogtanácsos) által ellenjegyzett okiratba kell foglalni.
 
 (5) Ha a tagok a társulatot szerződéssel hozzák létre, annak tartalmára és alaki követelményeire a (2) és (4) bekezdésekben foglaltakat kell megfelelően alkalmazni.
 
@@ -57,7 +57,7 @@ az erdőbirtokossági társulatról
 
 (2) A cégbejegyzést megelőzően a társulat nevében vállalt kötelezettségekért az (1) bekezdés szerint fennálló felelősség megszűnik, ha a társulat közgyűlése a szerződést utólag jóváhagyja vagy a társulati szerződésben a felek így állapodnak meg.
 
-(3) Az erdőbirtokossági társulatnak a cégbejegyzés megtörténte előtti működésére a Ptk. gazdasági társaságokra vonatkozó rendelkezéseit alkalmazni kell. Ha a társulat a cégbejegyzés előtt megkezdi ezzel kapcsolatos tevékenységét, a cégbejegyzés hiányára harmadik személlyel szemben nem hivatkozhat.
+(3) Az erdőbirtokossági társulatnak a cégbejegyzés megtörténte előtti működésére a gazdasági társaságokról szóló törvénynek az előtársaságra vonatkozó rendelkezéseit megfelelően alkalmazni kell. Ha a társulat a cégbejegyzés előtt megkezdi ezzel kapcsolatos tevékenységét, a cégbejegyzés hiányára harmadik személlyel szemben nem hivatkozhat.
 
 (4) Ha a cégbíróság a társulat bejegyzését megtagadta, a társulat tevékenységét a jogerős határozat kézhezvétele után meg kell szüntetni. Az alakuló közgyűléstől a tevékenység megszüntetéséig terjedő időszakra vonatkozóan a tagok kötelesek egymással elszámolni.
 
@@ -155,7 +155,7 @@ az erdőbirtokossági társulatról
 - c) akit bűncselekmény elkövetése miatt végrehajtható szabadságvesztésre ítéltek, mindaddig, amíg a büntetett előélethez fűződő hátrányos jogkövetkezmények alól nem mentesül;
 - d) akit valamely foglalkozástól eltiltottak, az ítélet hatálya alatt az abban megjelölt tevékenységre.
 
-(2) Ha a társulat tagjainak száma a tíz főt meghaladja, azok, akik egymásnak a Ptk. szerint közeli hozzátartozói, nem lehetnek egyidejűleg a társulat elnökségének, valamint a felügyelőbizottságának tagjai. Az alapszabályban az összeférhetetlenség egyéb eseteit is meg lehet határozni.
+(2) Ha a társulat tagjainak száma a tíz főt meghaladja, azok, akik egymásnak a Ptk. 685. § b) pontja szerint közeli hozzátartozói, nem lehetnek egyidejűleg a társulat elnökségének, valamint a felügyelőbizottságának tagjai. Az alapszabályban az összeférhetetlenség egyéb eseteit is meg lehet határozni.
 
 19. § (1) A tisztségviselők a hasonló feladatkört betöltő személyektől általában elvárható gondossággal kötelesek eljárni. Kötelességeik megszegésével a társulatnak okozott kárért a polgári jog szabályai szerint egyetemlegesen felelősek akkor is, ha egyébként a társulattal munkaviszonyban állnak.
 
@@ -260,17 +260,19 @@ az erdőbirtokossági társulatról
 
 (3) A tag a társulati érdekeltsége után kivetett és tagsága idején esedékessé vált járulékért és kamatért a társulattal szemben tagságának megszűnése után is felelősséggel tartozik.
 
-(4) A társulat gazdálkodásával kapcsolatos, e törvényben nem szabályozott kérdésekben a Ptk. gazdasági társaságokra vonatkozó szabályait kell alkalmazni.
+(4) A társulat gazdálkodásával kapcsolatos, e törvényben nem szabályozott kérdésekben a gazdasági társaságokra irányadó szabályokat kell megfelelően alkalmazni.
 
 ### VI. Fejezet — RENDELKEZÉS A TÁRSULAT HASZNÁLATÁBAN LÉVŐ ERDŐ TULAJDONJOGÁRÓL
 
 30. § (1) A társulati tag tulajdonában lévő erdőterület az ahhoz kapcsolódó társulati érdekeltséggel együtt forgalomképes, de a tulajdonjog átruházása vagy átszállása az erdőgazdálkodót terhelő kötelezettségek teljesítését nem érinti.
 
-(2) A társulati tagot elővásárlási jog illeti meg a társulat tulajdonában, illetve használatában álló erdőterület eladása esetén. A társulati tagot az elővásárlási jog a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott elővásárlásra jogosultak sorrendjében a földet használó földművest követően, a helyben lakó szomszéd földművest megelőzően illeti meg.
+(2) A tag tulajdonának (tulajdoni hányadának) élők közötti jogügylettel történő átruházása esetében e sorrendben elővásárlási joga van a többi társulati tagnak. Közös tulajdon esetén a tulajdonostárs elővásárlási joga mindenki másét megelőzi.
 
-(3) Az elővásárlási jog gyakorlásának rendjét az alapszabály határozza meg.
+(3) Ha a társulat használatában természetvédelmi oltalom alatt álló erdőterület van, arra — a (2) bekezdés alapján jogosultakat megelőzően — elővásárlási jog illeti meg az államot. Az államot megillető elővásárlási jogot — ha jogszabály másként nem rendelkezik — a természetvédelemért felelős miniszter által kijelölt szervezet gyakorolja. Ha az elővásárlási jog jogosultja az ajánlatra harminc napon belül nem nyilatkozik, úgy kell tekinteni, hogy elővásárlási jogát nem kívánja gyakorolni.
 
-(4) A társulat elnöke kérelemre, illetve megkeresésre igazolást állít ki arról, hogy az elővásárlási jog gyakorlására az alapszabályban meghatározott módon, az arra jogosult által került sor.
+(4) Az elővásárlási jog gyakorlásának rendjét az alapszabály határozza meg.
+
+(5) A társulat elnöke igazolást állít ki arról, hogy az elővásárlási jog gyakorlására az alapszabályban meghatározott módon került sor. Ennek hiányában a tulajdonjog átruházására irányuló szerződés semmis.
 
 ### VII. Fejezet — A TÁRSULAT MEGSZŰNÉSE, EGYESÜLÉSE, SZÉTVÁLÁSA
 

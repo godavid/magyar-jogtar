@@ -10,19 +10,8 @@ egyes vagyonnyilatkozat-tételi kötelezettségekről
 
 2. § E törvény alkalmazásában
 
-- 1. közszolgálatban álló személy:
-  - a) a rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja,
-  - b) a Magyar Honvédség hivatásos és szerződéses állományú katonája és a honvédelmi alkalmazott,
-  - c) aki közalkalmazotti jogviszonyban áll,
-  - d) aki rendvédelmi igazgatási szolgálati jogviszonyban áll,
-  - e) aki egészségügyi szolgálati jogviszonyban áll,
-  - f) aki közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban áll,
-  - g) aki adó- és vámhatósági szolgálati jogviszonyban áll,
-  - h) aki ügyészségi szolgálati viszonyban áll,
-  - i) az igazságügyi alkalmazott,
-  - j) a Magyar Nemzeti Bank Monetáris Tanácsának tagjai kivételével a Magyar Nemzeti Bank alkalmazottja, valamint
-  - k) aki nemzetbiztonsági szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban áll;
-- 2. hozzátartozó: a házastárs, az élettárs, valamint a közös háztartásban élő szülő, gyermek, a házastárs gyermeke, ideértve az örökbefogadott és a nevelt gyermeket is.
+- a) közszolgálatban álló személy: 1. a rendvédelmi szerv hivatásos állományú tagja, 2. a Magyar Honvédség hivatásos és szerződéses állományú katonája, 3. aki közalkalmazotti jogviszonyban áll, 4. aki közszolgálati jogviszonyban áll, 5. aki ügyészségi szolgálati viszonyban áll, 6. az igazságügyi alkalmazott, valamint 7. a Magyar Nemzeti Banknak a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény 49. § hatálya alá nem tartozó alkalmazottja;
+- b) hozzátartozó: a házastárs, az élettárs, valamint a közös háztartásban élő szülő, gyermek, a házastárs gyermeke, ideértve az örökbefogadott és a nevelt gyermeket is.
 
 ### A vagyonnyilatkozat-tételre kötelezett
 
@@ -36,15 +25,12 @@ egyes vagyonnyilatkozat-tételi kötelezettségekről
 
 (2) Az (1) bekezdésben foglaltaktól függetlenül vagyonnyilatkozat tételére kötelezett, aki
 
-- a) közigazgatási államtitkár, helyettes államtitkár,
-- b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervnél vagy polgári nemzetbiztonsági szolgálatnál osztályvezetői, illetve azzal azonos vagy magasabb beosztású vezetői beosztást, valamint a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó tábornoki vagy ezredesi rendfokozattal rendszeresített beosztást tölt be,
-- c) politikai tanácsadó és főtanácsadó, kormány- vagy miniszteri tanácsadó vagy főtanácsadó,
-- d) vezetői munkakört betöltő köztisztviselő vagy kormánytisztviselő,
-- e) jogszabály alapján nemzetbiztonsági ellenőrzés alá eső köztisztviselői vagy kormánytisztviselői munkakört tölt be,
-- f) ügyész vagy
-- g) közjegyző,
-- h) bírósági végrehajtó,
-- i) a Nemzeti Adó- és Vámhivatal vezetői, illetve jogszabály alapján nemzetbiztonsági ellenőrzés alá eső munkakört betöltő foglalkoztatottja.
+- a) fegyveres szerv hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó osztályvezetői, illetve azzal azonos vagy magasabb beosztású vezető beosztást, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó tábornoki vagy ezredesi rendfokozattal rendszeresített beosztást tölt be,
+- b) politikai tanácsadó és főtanácsadó, kormány- vagy miniszteri tanácsadó vagy főtanácsadó,
+- c) vezetői megbízással rendelkező köztisztviselő,
+- d) jogszabály alapján „C” típusú nemzetbiztonsági ellenőrzésre köteles fontos és bizalmas köztisztviselői munkakört tölt be,
+- e) ügyész vagy
+- f) közjegyző.
 
 (3) Az (1) bekezdésben foglaltaktól függetlenül vagyonnyilatkozat tételére kötelezett
 
@@ -58,15 +44,9 @@ egyes vagyonnyilatkozat-tételi kötelezettségekről
   - ec) egyedi állami vagy önkormányzati támogatásról való döntésre irányuló eljárás lefolytatása során, vagy
   - ed) állami, önkormányzati, illetve az Országgyűlés, a Kormány, valamint önkormányzat által alapított közalapítványi támogatások felhasználásának vizsgálata, valamint a felhasználással való elszámoltatás során.
 
-3/A. § Ha egy személy a jelen törvény rendelkezései szerint több jogviszony alapján köteles vagyonnyilatkozatot tenni, úgy a vagyonnyilatkozat tételi kötelezettségének – a 3/B. §-ban foglaltak szerint – egy jogviszonyhoz kapcsolódóan köteles eleget tenni, és a vagyonnyilatkozat tétel megtörténtéről a további jogviszonyok szerint őrzésre köteles személyt köteles teljes bizonyítóerejű magánokiratba foglalt nyilatkozatban tájékoztatni.
-
-3/B. § Ha egy személy a jelen törvény rendelkezései szerint több jogviszony alapján köteles vagyonnyilatkozatot tenni, úgy a vagyonnyilatkozat tételi kötelezettségének azon jogviszonyra vonatkozó szabályok szerint kell eleget tenni, amelyik alapján a leggyakrabban kell vagyonnyilatkozatot tenni. Amennyiben több jogviszony esetén a vagyonnyilatkozat-tétel esedékességének gyakorisága azonos, úgy a vagyonnyilatkozatot a korábban keletkezett jogviszonyra vonatkozó szabályok szerint kell megtenni. Amennyiben több jogviszony esetén a vagyonnyilatkozat-tétel esedékességének gyakorisága és a jogviszonyok létrejöttének ideje is azonos, úgy a vagyonnyilatkozat-tételre kötelezett választása szerinti jogviszony alapján kell a vagyonnyilatkozat-tételi kötelezettségnek eleget tenni.
-
-3/C. § Ha egy személy a vagyonnyilatkozat-tételi kötelezettségének egy jogviszony alapján eleget tett, majd olyan jogviszonyt létesít, amely alapján – a korábbi jogviszonyhoz képest – gyakrabban kell vagyonnyilatkozatot tennie, úgy ez utóbbi jogviszony alapján keletkező vagyonnyilatkozat-tételi kötelezettségének teljesítését és a 3/A. §-nak megfelelő nyilatkozat átadását követően a korábbi jogviszony kapcsán tett vagyonnyilatkozatát az annak őrzésért felelős személy visszaadja.
-
 4. § A vagyonnyilatkozat-tételi kötelezettséget
 
-- a) a 3. § (1)–(2) bekezdésében meghatározott közszolgálatban álló személyek esetében – ide nem értve a közjegyzőt, a bírósági végrehajtót és az ügyészt – az őket ilyen minőségében alkalmazó szervezet szervezeti és működési szabályzatában,
+- a) a 3. § (1)–(2) bekezdésében meghatározott közszolgálatban álló személyek esetében – ide nem értve a közjegyzőt és az ügyészt – az őket ilyen minőségében alkalmazó szervezet szervezeti és működési szabályzatában,
 - b) a 3. § (3) bekezdés a)–c) pontjában meghatározott esetben a gazdálkodó szervezet létesítő okiratában,
 - c) a 3. § (3) bekezdés d) pontjában foglalt esetben a közalapítvány alapszabályában,
 - d) a 3. § (3) bekezdés e) pontjában meghatározott személyek esetében az őket ilyen minőségükben alkalmazó szervezet szervezeti és működési szabályzatában
@@ -77,12 +57,14 @@ fel kell tüntetni.
 
 5. § (1) A vagyonnyilatkozat-tételi kötelezettségnek a kötelezett
 
-- a) a 6. § (2) bekezdés kivételével a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás létrejötte, munka- vagy feladatkör betöltése érdekében azt megelőzően,
-- b) a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnését követő tizenöt napon belül,
+- a) a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás létrejötte, munka- vagy feladatkör betöltése érdekében azt megelőzően,
+- b) a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnését követő harminc napon belül,
 - c) a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör fennállása alatt az első vagyonnyilatkozatot követően, ha törvény eltérően nem rendelkezik,
-  - ca) a 3. § (1) bekezdés b) pontjában a 3. § (2) bekezdés a) pontjában és a 3. § (3) bekezdés e) pont ea) alpontjában meghatározott személy esetében évenként,
+  - ca) a 3. § (1) bekezdés b) pontjában és a 3. § (3) bekezdés e) pont ea) alpontjában meghatározott személy esetében évenként,
   - cb) a 3. § (1) bekezdés c)–e) pontjában és a 3. § (3) bekezdés e) pont eb)–ed) alpontjaiban meghatározott személy esetében kétévenként,
-  - cc) a 3. § (1)–(3) bekezdésében meghatározott, a c) pont ca)–cb) alpontok hatálya alá nem tartozó személy esetében ötévenként köteles eleget tenni.
+  - cc) a 3. § (1)–(3) bekezdésében meghatározott, a c) pont ca)–cb) alpontok hatálya alá nem tartozó személy esetében ötévenként
+
+köteles eleget tenni.
 
 (2) A vagyonnyilatkozat-tételi kötelezettséget az (1) bekezdés c) pontjában foglalt esetben az esedékesség évében június 30-ig kell teljesíteni.
 
@@ -94,16 +76,18 @@ fel kell tüntetni.
 
 6. § (1) Közszolgálatban álló személy foglalkoztatására irányuló jogviszonyt – a vagyonnyilatkozat-tételi kötelezettség fennállása esetén – a vagyonnyilatkozat teljesítéséig és a 9. § szerinti tilalom fennállása alatt nem lehet létrehozni.
 
-(2) A vagyonnyilatkozat-tételi kötelezettséget megalapozó munkakört, beosztást, vagy feladatkört betöltő kötelezett a vagyonnyilatkozat-tételi kötelezettséget a kinevezését, megbízását vagy vele más szerződéses jogviszony létesítését követő 30 napon belül köteles teljesíteni.
+(2) A vagyonnyilatkozat-tételi kötelezettséget megalapozó munkakör, beosztás vagy feladatkör a vagyonnyilatkozat-tételi kötelezettség teljesítéséig és a 9. § szerinti tilalom fennállása alatt nem látható el, arra a kötelezettet kinevezni, megbízni vagy vele más szerződéses jogviszonyt létrehozni nem lehet.
 
 ### A vagyonnyilatkozat őrzése
 
 7. § A vagyonnyilatkozat őrzéséért
 
-- a) közszolgálatban álló személy, valamint a 3. § (3) bekezdés e) pontja szerinti kötelezett esetében a munkáltatói jogkör gyakorlója, közjegyző esetében a területi közjegyzői kamara elnöksége, bírósági végrehajtó esetében a kinevezésre jogosult,
+- a) közszolgálatban álló személy, valamint a 3. § (3) bekezdés e) pontja szerinti kötelezett esetében a munkáltatói jogkör gyakorlója, közjegyző esetében a területi közjegyzői kamara elnöksége,
 - b) a 3. § (3) bekezdés a)–c) pontja szerinti kötelezett esetében a gazdálkodó szervezet tekintetében a tulajdonosi jogokat az állam nevében gyakorló személy vagy szervezet,
 - c) a 3. § (3) bekezdés d) pontja szerinti kötelezettek esetében az állami támogatási előirányzat kezelője – helyi önkormányzat esetében a jegyző, közalapítvány esetében az alapítói jogokat gyakorló szerv, területfejlesztési tanács esetében annak hivatali szervezete –, vagy ha e szerv nem azonos az állami pénzalap, illetve az állami támogatási előirányzat felhasználásának szakmai lebonyolításáért felelős szervvel, akkor ez utóbbi,
-- d) a Magyar Nemzeti alkalmazottai vonatkozásában a Magyar Nemzeti Bank elnöke felelős (a továbbiakban együtt: őrzésért felelős).
+- d) a Magyar Nemzeti Banknak a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény 49. § hatálya alá nem tartozó alkalmazottai vonatkozásában a Magyar Nemzeti Bank elnöke
+
+felelős (a továbbiakban: őrzésért felelős).
 
 ### A vagyonnyilatkozat-tételi kötelezettség
 
@@ -117,7 +101,7 @@ fel kell tüntetni.
 - b) a kötelezettel egy háztartásban élő hozzátartozójának nevét, születési helyét és idejét, anyja nevét,
 - c) a kötelezett és a vele egy háztartásban élő hozzátartozója jövedelmi, érdekeltségi és vagyoni viszonyaira vonatkozó adatokat.
 
-(4) Az őrzésért felelős köteles a kötelezettet a vagyonnyilatkozat-tételi kötelezettség fennállásáról és esedékességének időpontjáról az esedékességet – vagyonnyilatkozat-tételi kötelezettséget keletkeztető jogviszony, beosztás létesítése, munka- vagy feladatkör betöltése kivételével – legalább 30 nappal, az 5. § (1) bekezdés b) pontja alapján tett vagyonnyilatkozat esetén 15 nappal megelőzően tájékoztatni.
+(4) Az őrzésért felelős köteles a kötelezettet a vagyonnyilatkozat-tételi kötelezettség fennállásáról és esedékességének időpontjáról az esedékességet – vagyonnyilatkozat-tételi kötelezettséget keletkeztető jogviszony, beosztás létesítése, munka- vagy feladatkör betöltése kivételével legalább 30 nappal – megelőzően tájékoztatni.
 
 (5) A (4) bekezdésben meghatározott tájékoztatás tartalmazza
 
@@ -127,7 +111,7 @@ fel kell tüntetni.
 
 ### A vagyonnyilatkozat-tételi kötelezettség megszegésének jogkövetkezményei
 
-9. § (1) Annak, aki vagyonnyilatkozat-tételi kötelezettségének a teljesítését megtagadja, a vagyonnyilatkozat-tételi kötelezettséget megalapozó megbízatását vagy jogviszonyát – az arra vonatkozó, külön jogszabályban meghatározott megszüntetési okoktól függetlenül – meg kell szüntetni, és a jogviszony megszűnésétől számított három évig közszolgálati, kormányzati szolgálati, állami szolgálati, adó- és vámhatósági szolgálati jogviszonyt nem létesíthet, valamint az e törvény szerinti vagyonnyilatkozat-tételi kötelezettséget megalapozó munkakört, feladatkört, tevékenységet vagy beosztást nem láthat el.
+9. § (1) Annak, aki vagyonnyilatkozat-tételi kötelezettségének a teljesítését megtagadja, a vagyonnyilatkozat-tételi kötelezettséget megalapozó megbízatását vagy jogviszonyát – az arra vonatkozó, külön jogszabályban meghatározott megszüntetési okoktól függetlenül – meg kell szüntetni, és a jogviszony megszűnésétől számított három évig közszolgálati jogviszonyt nem létesíthet, valamint az e törvény szerinti vagyonnyilatkozat-tételi kötelezettséget megalapozó munkakört, feladatkört, tevékenységet vagy beosztást nem láthat el.
 
 (2) Ha a vagyonnyilatkozat-tételi kötelezettség teljesítését a kizárólag a 3. § (3) bekezdése szerint arra kötelezett tagadja meg, a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszonya vagy megbízatása e törvény erejénél fogva szűnik meg. Erről az őrzésért felelős a megtagadás bekövetkezésétől számított három munkanapon belül értesíti a kötelezettet.
 
@@ -151,42 +135,33 @@ fel kell tüntetni.
 
 (6) A vagyonnyilatkozat átadására, nyilvántartására, a vagyonnyilatkozatban foglalt személyes adatok védelmére vonatkozó további szabályokat az őrzésért felelős szabályzatban állapítja meg.
 
-12. § (1) Ha a vagyonnyilatkozat-tételi kötelezettség megszűnt, vagy a kötelezett új vagyonnyilatkozatot tett – a (3) bekezdésben foglaltak kivételével – az őrzésért felelős a vagyonnyilatkozat általa őrzött példányát 8 napon belül a kötelezettnek visszaadja.
+12. § (1) Ha a vagyonnyilatkozat-tételi kötelezettség megszűnt, vagy a kötelezett új vagyonnyilatkozatot tett, az őrzésért felelős a vagyonnyilatkozat általa őrzött példányát 8 napon belül a kötelezettnek visszaadja.
 
 (2) Az 5. § (3) és (4) bekezdésében szabályozott esetben a kötelezett az őrzésért továbbiakban felelőst tájékoztatja arról, hogy érvényes vagyonnyilatkozatot tett. Az őrzésért továbbiakban felelős az őrzésért korábban felelősnél a vagyonnyilatkozat átadását kezdeményezi, aki a kezdeményezésnek haladéktalanul eleget tesz.
 
-(3) A vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnése esetén az őrzésért felelős a vagyonnyilatkozat – jogviszony, beosztás, munka- vagy feladatkör megszűnése időpontjában – általa őrzött példányát, továbbá a kötelezett által az 5. § (1) bekezdés b) pontja alapján tett vagyonnyilatkozatot a kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnésétől számított három évig őrzi.
+(3) Az (1) bekezdéstől eltérően a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnése esetén az őrzésért felelős a kötelezett által az 5. § (1) bekezdés b) pontja alapján tett vagyonnyilatkozatot a kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnésétől számított három évig őrzi.
 
 13. § A vagyonnyilatkozat-tételi kötelezettség teljesítését az őrzésért felelős személy ellenőrzi. A nyilatkozat tartalmát abban az esetben ismerheti meg, ha a 14. § rendelkezései szerint döntenie kell a vagyongyarapodási vizsgálat kezdeményezéséről.
 
 ### A vagyongyarapodási vizsgálat
 
-14. § (1) Az őrzésért felelős személy ellenőrzési eljárást folytathat le
+14. § (1) Ellenőrzési eljárás kezdeményezése előtt az őrzésért felelős a nyilatkozattételre kötelezettet meghallgatja, ha vagyoni helyzetére vonatkozó valamely bejelentés szerint alaposan feltehető, hogy vagyongyarapodása a nyilatkozattételi kötelezettségét megalapozó jogviszonyából, illetve az őrzésért felelős által ismert egyéb törvényes forrásból származó jövedelme alapján nem igazolható. Nem lehet meghallgatást sem kezdeményezni, ha a bejelentő névtelen, illetve a bejelentés nyilvánvalóan alaptalan, vagy olyan tényre, körülményre utal, amelyet az őrzésért felelős már korábbi meghallgatás során tisztázott. Meghallgatásra – a kötelezett kérelme alapján – érdekképviseleti szerv képviselőjének vagy a kötelezett által megbízott más személynek a jelenlétében, jegyzőkönyvvezetés mellett kerülhet sor.
 
-- a) a kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnésétől számított egy éven belül, illetve
-- b) ha a kötelezett vagyoni helyzetére vonatkozó valamely bejelentés szerint alaposan feltehető, hogy vagyongyarapodása a nyilatkozattételi-kötelezettségét megalapozó jogviszonyából, illetve az őrzésért felelős által ismert egyéb törvényes forrásból származó jövedelme alapján nem igazolható.
+(2) A meghallgatásra vonatkozó további szabályokat az őrzésért felelős személy vagy szerv szabályzatban, az érdekképviselettel egyeztetve állapítja meg.
 
-(2) Az (1) bekezdés b) pontja szerinti ellenőrzési eljárás lefolytatása esetén az őrzésért felelős a kötelezettet meghallgatja. Nem lehet meghallgatást sem kezdeményezni, ha a bejelentő névtelen, illetve, ha a bejelentés nyilvánvalóan alaptalan, vagy olyan tényre, körülményre utal, amelyet az őrzésért felelős már korábbi meghallgatás során tisztázott. Meghallgatásra – a kötelezett kérelme alapján – érdekképviseleti szerv képviselőjének vagy a kötelezett által megbízott más személynek a jelenlétében, jegyzőkönyvvezetés mellett kerülhet sor.
+(3) Az őrzésért felelős az (1) bekezdés szerinti meghallgatást követően – a vagyonnyilatkozat haladéktalan megküldésével – az állami adóhatóságnál a kötelezett és a vele egy háztartásban élő hozzátartozója vagyongyarapodásának az adózás rendjéről szóló törvény szerinti vizsgálatát kezdeményezi, ha a meghallgatási eljárás során a bejelentésben szereplő tények, adatok, körülmények nem tisztázódnak hitelt érdemlően.
 
-(3) A meghallgatásra vonatkozó további szabályokat az őrzésért felelős személy vagy szerv szabályzatban, az érdekképviselettel egyeztetve állapítja meg.
+(4) Az őrzésért felelős a vagyonnyilatkozat megküldésével az állami adóhatóságnál a kötelezett és a vele egy háztartásban élő hozzátartozója vagyongyarapodásának vizsgálatát kezdeményezheti akkor is, ha a kötelezett vagyongyarapodása bejelentési kötelezettség alá eső tevékenységből származik, de a kötelezett a bejelentést elmulasztotta.
 
-(4) Az őrzésért felelős – a vagyonnyilatkozat haladéktalan megküldésével – az állami adóhatóságnál a kötelezett és a vele egy háztartásban élő hozzátartozója vagyongyarapodásának az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti vizsgálatát kezdeményezi, ha
+(5) Az állami adóhatóság az őrzésért felelős (3) bekezdés szerinti kezdeményezésére soron kívül, az adózás rendjéről szóló törvényben meghatározott vagyongyarapodási vizsgálatot folytat le.
 
-- a) az (1) bekezdés a) pontja szerinti ellenőrzés során a vagyonnyilatkozatok tartalmából alaposan feltehető, hogy a kötelezett vagyongyarapodása a nyilatkozattételi kötelezettséget megalapozó jogviszonyából, illetve az őrzésért felelős által ismert egyéb törvényes forrásból származó jövedelme alapján nem igazolható,
-- b) a kötelezett az 5. § (1) bekezdés b) pontjában foglalt kötelezettségének az előírt határidőben nem tett eleget, vagy
-- c) a meghallgatási eljárás során a (2) bekezdés szerinti meghallgatást követően, a bejelentésben szereplő tények, adatok, körülmények nem tisztázódnak hitelt érdemlően.
-
-(5) Az őrzésért felelős a vagyonnyilatkozat megküldésével az állami adóhatóságnál a kötelezett és a vele egy háztartásban élő hozzátartozója vagyongyarapodásának vizsgálatát kezdeményezheti akkor is, ha a kötelezett vagyongyarapodása bejelentési kötelezettség alá eső tevékenységből származik, de a kötelezett a bejelentést elmulasztotta.
-
-(6) Az állami adóhatóság az őrzésért felelős (4) bekezdés szerinti kezdeményezésére soron kívül, az adóigazgatási eljárás részletszabályairól szóló kormányrendeletben meghatározott vagyongyarapodási vizsgálatot folytat le.
-
-15. § (1) Az állami adóhatóság a vagyongyarapodási vizsgálat alapján lefolytatott hatósági eljárásban hozott határozatában – az adóigazgatási rendtartásról szóló törvényben, az adózás rendjéről szóló törvényben és az adóigazgatási eljárás részletszabályairól szóló kormányrendeletben meghatározottakon túl – megállapítja, hogy milyen összegű jövedelem fedezi a kötelezett vagy a vele egy háztartásban élő hozzátartozó törvényesen megszerzett jövedelmét meghaladó mértékű vagyongyarapodást, illetve életvitelre fordított kiadásokat.
+15. § (1) Az állami adóhatóság a vagyongyarapodási vizsgálat alapján lefolytatott hatósági eljárásban hozott határozatában – az adózás rendjéről szóló törvényben meghatározottakon túl – megállapítja, hogy milyen összegű jövedelem fedezi a kötelezett vagy a vele egy háztartásban élő hozzátartozó törvényesen megszerzett jövedelmét meghaladó mértékű vagyongyarapodást, illetve életvitelre fordított kiadásokat.
 
 (2) Az állami adóhatóság a jogerős határozat megküldésével, valamint a vagyonnyilatkozatok visszaküldésével értesíti az őrzésért felelőst.
 
-(3) Ha a kötelezett a jogerős határozat (1) bekezdés szerinti megállapítása ellen közigazgatási pert indított, erről az őrzésért felelőst a keresetlevél egy példányának megküldésével értesíti. Az állami adóhatóság a per jogerős befejezéséről az eljárást lezáró határozat megküldésével az őrzésért felelőst értesíti.
+(3) Ha a kötelezett a jogerős határozat (1) bekezdés szerinti megállapítása ellen bírósági felülvizsgálata iránt pert indított, erről az őrzésért felelőst a keresetlevél egy példányának megküldésével értesíti. Az állami adóhatóság a per jogerős befejezéséről az eljárást lezáró határozat megküldésével az őrzésért felelőst értesíti.
 
-16. § (1) Ha a 15. § (1) bekezdése szerint az állami adóhatóság által megállapított összeg meghaladja a vagyonnyilatkozat-tétel évét megelőző naptári évben a vagyonnyilatkozat-tétel évének első napján érvényes kötelező legkisebb munkabér havi összege húszszorosát, az állami adóhatóság vagyongyarapodási vizsgálata alapján hozott jogerős határozatának, illetve – ha közigazgatási perben megtámadták – a bíróság határozatának az őrzésért felelős általi kézhezvételétől számított második hónap első napján
+16. § (1) Ha a 15. § (1) bekezdése szerint az állami adóhatóság által megállapított összeg meghaladja a vagyonnyilatkozat-tétel évét megelőző naptári évben a vagyonnyilatkozat-tétel évének első napján érvényes kötelező legkisebb munkabér havi összege húszszorosát, az állami adóhatóság vagyongyarapodási vizsgálata alapján hozott jogerős határozatának, illetve – ha annak bírósági felülvizsgálatát kezdeményezték – a bíróság határozatának az őrzésért felelős általi kézhezvételétől számított második hónap első napján
 
 - a) a 3. § (3) bekezdése szerinti kötelezett esetében a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszonya vagy megbízatása e törvény erejénél fogva megszűnik, amely tényről az őrzésért felelős három munkanapon belül értesíti a kötelezettet,
 - b) az a) pont hatálya alá nem tartozó kötelezett esetében a vagyonnyilatkozat-tételi kötelezettséget megalapozó megbízatását vagy jogviszonyát – az arra vonatkozó, külön jogszabályban meghatározott megszüntetési okoktól függetlenül – meg kell szüntetni.
@@ -195,23 +170,13 @@ fel kell tüntetni.
 
 (3) Az a kötelezett, akinek jogviszonya az (1) bekezdésben meghatározottak szerint szűnt meg, három évig az e törvény szerinti vagyonnyilatkozat-tételi kötelezettséget megalapozó munkakört, feladatkört, tevékenységet vagy beosztást nem láthat el.
 
-#### 17. §
+17–20. §
 
-#### 18. §
+21. §
 
-#### 19. §
+22–24. §
 
-#### 20. §
-
-#### 21. §
-
-#### 22. §
-
-#### 23. §
-
-#### 24. §
-
-#### 25. §
+25. §
 
 ### Záró rendelkezések
 
@@ -224,8 +189,6 @@ fel kell tüntetni.
 (7) 2008. július 1-jén hatályát veszti e törvény 17–20. §-a, 22–25. §-a, 26. § (3)–(6) bekezdése, a 17. §-t és a 25. §-t megelőző alcímek.
 
 (8) 2008. július 1-jén hatályát veszti e törvény 21. §-a.
-
-(9) A bírósági végrehajtással kapcsolatos egyes törvények módosításáról szóló 2013. évi XCIX. törvény hatálybalépésének időpontjában már szolgálatban lévő bírósági végrehajtó első alkalommal 2013. december 31-éig tesz vagyonnyilatkozatot.
 
 ### Melléklet a 2007. évi CLII. törvényhez
 
@@ -269,8 +232,6 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 
 1. .......... év
 
-4K02563M_0
-
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
 |  |  |  | Ft |
@@ -280,8 +241,6 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 |  |  |  | Ft |
 
 2. .......... év
-
-4K02563M_1
 
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
@@ -293,8 +252,6 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 
 3. .......... év
 
-4K02563M_2
-
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
 |  |  |  | Ft |
@@ -305,8 +262,6 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 
 4. .......... év
 
-4K02563M_3
-
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
 |  |  |  | Ft |
@@ -316,8 +271,6 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 |  |  |  | Ft |
 
 5. .......... év
-
-4K02563M_4
 
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
@@ -333,7 +286,7 @@ VAGYONI NYILATKOZAT
 
 A) Ingatlanok
 
-1. Lakástulajdon és lakótelek-tulajdon (vagy állandó, illetve tartós használat, haszonélvezeti jog, vagyonkezelői jog, vagyonrendelői jog, kedvezményezetti jog):
+1. Lakástulajdon és lakótelek-tulajdon (vagy állandó, illetve tartós használat, haszonélvezeti jog):
 
 a) címe: város/község ........................................... út/utca ................ hsz.
 
@@ -353,7 +306,7 @@ alapterülete: ............................................................... m
 
 a szerzés ideje, jogcíme:
 
-2. Üdülőtulajdon és üdülőtelek-tulajdon (vagy állandó, illetve tartós használat, haszonélvezeti jog, vagyonkezelői jog, vagyonrendelői jog, kedvezményezetti jog):
+2. Üdülőtulajdon és üdülőtelek-tulajdon (vagy állandó, illetve tartós használat, haszonélvezeti jog):
 
 a) címe: város/község ........................................... út/utca ................ hsz.
 
@@ -373,7 +326,7 @@ alapterülete: ............................................................... m
 
 a szerzés ideje, jogcíme:
 
-3. Egyéb, nem lakás céljára szolgáló épület-(épületrész-)tulajdon (vagy állandó használat, haszonélvezeti jog, vagyonkezelői jog, vagyonrendelői jog, kedvezményezetti jog):
+3. Egyéb, nem lakás céljára szolgáló épület-(épületrész-)tulajdon (vagy állandó használat, haszonélvezeti jog):
 
 a) megnevezése (zártkerti építmény, műhely, üzlet, műterem, rendelő, garázs stb.):
 
@@ -399,7 +352,7 @@ alapterülete: ............................................................... m
 
 a szerzés ideje, jogcíme:
 
-4. Termőföldtulajdon (vagy állandó használat, haszonélvezeti jog, vagyonkezelői jog, vagyonrendelői jog, kedvezményezetti jog):
+4. Termőföldtulajdon (vagy állandó használat, haszonélvezeti jog):
 
 a) megnevezése:
 
@@ -431,7 +384,7 @@ a szerzés ideje, jogcíme:
 
 aranykorona-értéke:
 
-B) Nagy értékű ingóságok (ideértve a lízingelt, valamint a vagyonrendelőként bizalmi vagyonkezelésbe adott vagyontárgyakat, illetve e vagyontárgyak vagyonkezelőjeként, kedvezményezettjeként megszerzett – előző pontokba nem tartozó – hasznait)
+B) Nagy értékű ingóságok (ideértve a lízingelt vagyontárgyakat is)
 
 1. Járművek:
 
@@ -598,7 +551,7 @@ V. Rész
 
 GAZDASÁGI ÉRDEKELTSÉGI NYILATKOZAT
 
-Gazdasági társaságban (ideértve az állami tulajdoni részesedéssel működő gazdálkodó szervezetet is) fennálló tisztsége vagy érdekeltsége (ideértve a vagyonrendelőként bizalmi vagyonkezelésbe adott érdekeltséget, illetve a részesedés vagyonkezelőjeként, kedvezményezettjeként megszerzett – előző pontokba nem tartozó – hasznát):
+Gazdasági társaságban (ideértve az állami tulajdoni részesedéssel működő gazdálkodó szervezetet is) fennálló tisztsége vagy érdekeltsége:
 
 A)
 
@@ -688,8 +641,6 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 
 1. .......... év
 
-4K02563M_8
-
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
 |  |  |  | Ft |
@@ -699,8 +650,6 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 |  |  |  | Ft |
 
 2. .......... év
-
-4K02563M_9
 
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
@@ -712,8 +661,6 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 
 3. .......... év
 
-4K02563M_10
-
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
 |  |  |  | Ft |
@@ -724,8 +671,6 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 
 4. .......... év
 
-4K02563M_11
-
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
 |  |  |  | Ft |
@@ -735,8 +680,6 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 |  |  |  | Ft |
 
 5. .......... év
-
-4K02563M_12
 
 | Tevékenység |  | Jövedelem |
 | --- | --- | --- |
@@ -752,7 +695,7 @@ VAGYONI NYILATKOZAT
 
 A) Ingatlanok
 
-1. Lakástulajdon és lakótelek-tulajdon (vagy állandó, illetve tartós használat, haszonélvezeti jog, vagyonkezelői jog, vagyonrendelői jog, kedvezményezetti jog):
+1. Lakástulajdon és lakótelek-tulajdon (vagy állandó, illetve tartós használat, haszonélvezeti jog):
 
 a) címe: város/község ........................................... út/utca ................ hsz.
 
@@ -772,7 +715,7 @@ alapterülete: ............................................................... m
 
 a szerzés ideje, jogcíme:
 
-2. Üdülőtulajdon és üdülőtelek-tulajdon (vagy állandó, illetve tartós használat, haszonélvezeti jog, vagyonkezelői jog, vagyonrendelői jog, kedvezményezetti jog):
+2. Üdülőtulajdon és üdülőtelek-tulajdon (vagy állandó, illetve tartós használat, haszonélvezeti jog):
 
 a) címe: város/község ........................................... út/utca ................ hsz.
 
@@ -792,7 +735,7 @@ alapterülete: ............................................................... m
 
 a szerzés ideje, jogcíme:
 
-3. Egyéb, nem lakás céljára szolgáló épület-(épületrész-)tulajdon (vagy állandó használat, haszonélvezeti jog, vagyonkezelői jog, vagyonrendelői jog, kedvezményezetti jog):
+3. Egyéb, nem lakás céljára szolgáló épület-(épületrész-)tulajdon (vagy állandó használat, haszonélvezeti jog):
 
 a) megnevezése (zártkerti építmény, műhely, üzlet, műterem, rendelő, garázs stb.):
 
@@ -818,7 +761,7 @@ alapterülete: ............................................................... m
 
 a szerzés ideje, jogcíme:
 
-4. Termőföldtulajdon (vagy állandó használat, haszonélvezeti jog, vagyonkezelői jog, vagyonrendelői jog, kedvezményezetti jog):
+4. Termőföldtulajdon (vagy állandó használat, haszonélvezeti jog):
 
 a) megnevezése:
 
@@ -850,7 +793,7 @@ a szerzés ideje, jogcíme:
 
 aranykorona-értéke:
 
-B) Nagy értékű ingóságok (ideértve a lízingelt, valamint a vagyonrendelőként bizalmi vagyonkezelésbe adott vagyontárgyakat, illetve e vagyontárgyak vagyonkezelőjeként, kedvezményezettjeként megszerzett – előző pontokba nem tartozó – hasznait)
+B) Nagy értékű ingóságok (ideértve a lízingelt vagyontárgyakat is)
 
 1. Járművek:
 
@@ -1016,8 +959,6 @@ PÉNZINTÉZETTEL, MAGÁNSZEMÉLYEKKEL SZEMBEN FENNÁLLÓ TARTOZÁSOK
 V. Rész
 
 GAZDASÁGI ÉRDEKELTSÉGI NYILATKOZAT
-
-Gazdasági társaságban (ideértve az állami tulajdoni részesedéssel működő gazdálkodó szervezetet is) fennálló tisztsége vagy érdekeltsége (ideértve a vagyonrendelőként bizalmi vagyonkezelésbe adott érdekeltséget, illetve a részesedés vagyonkezelőjeként, kedvezményezettjeként megszerzett – előző pontokba nem tartozó – hasznát):
 
 Gazdasági társaságban (ideértve az állami tulajdoni részesedéssel működő gazdálkodó szervezetet is) fennálló tisztsége vagy érdekeltsége:
 

@@ -4,9 +4,7 @@ a nemzeti gondozásról
 
 Az Országgyűlés az alapvető emberi jogok sérelmével elkövetett jogtalanságok következtében maradandó fogyatékosságot vagy súlyos egészségkárosodást elszenvedetteknek, életvesztés esetén hozzátartozóiknak nemzeti gondozásáról a következő törvényt alkotja.
 
-### A nemzeti gondozásra jogosultak
-
-és a nemzeti gondozási díj
+### A nemzeti gondozásra jogosultakés a nemzeti gondozási díj
 
 1. § (1) Az a Magyarországon élő személy, aki Magyarországon élő személyként
 
@@ -58,25 +56,21 @@ legalább 50%-os mértékű egészségkárosodást szenvedett, havi 21972 Ft nem
 
 ### Eljárási szabályok
 
-6. § (1) A kérelmet – a rendelkezésre álló bizonyítékokkal és esetleges további bizonyítási indítványokkal együtt – a kárpótlási hatóság által rendszeresített formanyomtatványon a kárpótlási hatósághoz 2012. március 30-ig lehet benyújtani. A határidő elmulasztása jogvesztéssel jár, a mulasztás miatt igazolásnak nincs helye.
+6. § (1) A kérelmet — a rendelkezésre álló bizonyítékokkal és esetleges további bizonyítási indítványokkal együtt — a kárpótlási hatóság által rendszeresített formanyomtatványon a kárpótlási hatósághoz lehet benyújtani.
 
 (2) A kérelmet a kárpótlási hatóság bírálja el.
 
-(3)
+(3) A méltányossági jogkörben hozott határozat ellen nincs helye fellebbezésnek. A méltányossági jogkörben hozott határozat bírósági felülvizsgálatát kizárólag semmisségére hivatkozva lehet kérni.
 
-(4)
+(4) Az (1)—(3) bekezdésben említett eljárás ügyintézési határideje három hónap, amelyet a a kárpótlási hatóság vezetője egy ízben legfeljebb három hónappal meghosszabbíthat.
 
-(5)
-
-(6)
+(5) A jogosultság elbírálásához szükséges orvosi szakértői véleményt — amennyiben az nem áll az érintett rendelkezésére, vagy nem tükrözi a véglegesen kialakult állapotot — orvosszakértői szerv adja ki.
 
 7. § (1) A kárpótlási hatóság a kérelemnek helyt adó határozatot megküldi a nyugdíjfolyósító szervnek.
 
 (2) A nemzeti gondozási díjat a nyugdíjfolyósító szerv havonta a nyugdíjjal együtt — ennek hiányában önállóan — folyósítja.
 
 (3) A (2) bekezdés szerint folyósított nemzeti gondozási díj összegét a költségvetés a Nyugdíjbiztosítási Alapnak megtéríti. A megtérítésre vonatkozó eljárást az államháztartásért felelős miniszter és a Nyugdíjbiztosítási Alap kezelője megállapodásban rögzíti.
-
-7/A. § Ha az eljárás során a jogosulttal való kapcsolattartás lehetetlenné vált, vagy a jogutód nem ismert, a kárpótlási hatóság a döntését az általános közigazgatási rendtartásról szóló törvény hirdetményi közlésre vonatkozó szabályai szerint közli.
 
 ### Záró rendelkezések
 
@@ -88,10 +82,8 @@ legalább 50%-os mértékű egészségkárosodást szenvedett, havi 21972 Ft nem
 
 (2) Az (1) bekezdés alapján megszűnő pótlékokat — a (4) bekezdésben foglalt eseteket kivéve — az e törvény hatálybalépését követő hónapban kell utoljára folyósítani. Az e törvény hatálybalépésekor nemzeti gondozási díj helyett pótlékban részesülő személy az e törvény alapján ugyanazon sérelem miatt járó nemzeti gondozási díjra csak a pótlék megszűnését követő hónaptól lehet jogosult.
 
-(3) Az e törvény hatálybalépésekor nemzeti gondozási díj helyett pótlékban részesülő személynek folyósított ellátás összege az e törvény alapján járó nemzeti gondozási díjjal együtt vagy ennek hiányában sem lehet kevesebb a szociális vetítési alap összegénél.
+(3) Az e törvény hatálybalépésekor nemzeti gondozási díj helyett pótlékban részesülő személynek folyósított ellátás összege az e törvény alapján járó nemzeti gondozási díjjal együtt vagy ennek hiányában sem lehet kevesebb az öregségi nyugdíj mindenkori legkisebb összegénél.
 
 (4) Az 1991. évi XII. törvény 2. §-a (2)—(3) bekezdésének a jelen § (1) bekezdésében foglalt módosítása alapján történő pótlékmegvonás nem vonatkozik a 70. életévüket 1993. január 1-jéig betöltő nyugdíjasokra, valamint azokra, akiknek a saját jogú nyugellátása e törvény hatálybalépésekor a 8500 Ft-ot, illetve az özvegyi nyugellátása a 7500 Ft-ot nem éri el.
 
 (5) E törvénynek az egészségkárosodás mértékére vonatkozó rendelkezéseit a 2007. december 31-ét követően benyújtott kérelmek esetén kell alkalmazni.
-
-#### 11. §

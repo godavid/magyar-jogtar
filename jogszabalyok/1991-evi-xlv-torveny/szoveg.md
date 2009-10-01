@@ -8,7 +8,7 @@ Az Országgyűlés a mérések hazai és nemzetközi egységességének és pont
 
 ### A törvény hatálya
 
-1. § E törvény hatálya a mérésügyi szervezet tevékenységére, a mértékegységek használatára és a joghatással járó mérésekre terjed ki.
+1. § E törvény hatálya a Magyar Köztársaság területén a mérésügyi szervezet tevékenységére, a mértékegységek használatára és a joghatással járó mérésekre terjed ki.
 
 ### Mérésügy
 
@@ -28,7 +28,7 @@ Az Országgyűlés a mérések hazai és nemzetközi egységességének és pont
 
 - a) gondoskodik a törvényes mértékegységek használatára vonatkozó szabályozás előkészítéséről, az országos etalonokról, azok nemzetközi összehasonlításáról és hazai továbbszármaztatásáról, valamint az e feladatok ellátásához szükséges mérésügyi kutatásról és fejlesztésről;
 - b) hitelesítési előírásokat bocsát ki, részt vesz a mérésügyi szabványok és műszaki irányelvek kidolgozásában, ellátja a mérésügyi engedélyezési feladatokat, elvégzi a típusvizsgálatokat, a használati mérőeszközök hitelesítését, részt vesz a kalibráló laboratóriumok akkreditálásában, gondoskodik a kötelező hitelesítés alá tartozó mérőeszközök közösségi típusvizsgálatáról, hitelesítéséről és felügyeletéről, továbbá gondoskodik e törvény és a végrehajtására kiadott jogszabályok megtartásának ellenőrzéséről,
-- c) képviseli Magyarországot a mérésügyi nemzetközi szervezetekben és az Európai Unió mérésügyi szervezeteiben, együttműködik más államok mérésügyi szervezeteivel, gondoskodik a mérésügyi nemzetközi szerződésekből, valamint az Európai Unió mérésügyi szerződéseiből adódó feladatok végrehajtásáról.
+- c) képviseli a Magyar Köztársaságot a mérésügyi nemzetközi szervezetekben és az Európai Unió mérésügyi szervezeteiben, együttműködik más államok mérésügyi szervezeteivel, gondoskodik a mérésügyi nemzetközi szerződésekből, valamint az Európai Unió mérésügyi szerződéseiből adódó feladatok végrehajtásáról.
 
 (2)
 
@@ -93,13 +93,11 @@ Az Országgyűlés a mérések hazai és nemzetközi egységességének és pont
 - a) az adott mérőeszközre vonatkozó jogszabály ezt kifejezetten megengedi, vagy
 - b) a mérőeszköz a 6. § (4) bekezdése alapján került hazai forgalomba.
 
-(3)
+(3) A hitelesítési engedély iránti eljárásban az ügyintézési határidő 45 munkanap.
 
 (4) A hitelesítési engedély megszerzéséről a mérőeszköz belföldi forgalomba hozója, vagy ha ez nem állapítható meg egyértelműen, a mérőeszköz felhasználója tartozik gondoskodni.
 
 (5) A hitelesítési engedéllyel rendelkező mérőeszköztípuson változtatást csak akkor lehet végrehajtani, ha a forgalombahozó előzetesen gondoskodott a hitelesítési engedély módosíttatásáról.
-
-(6) A mérésügyi szerv az eljárást megszünteti, ha az ügyfél a kérelmére indult eljárásban a hiánypótlásra való felhívásnak (ideértve az igazgatási szolgáltatási díj és illeték, valamint a kérelemhez jogszabály alapján csatolandó mellékletek tekintetében történő felhívást is) határidőben nem tett eleget, és az erre megállapított határidő meghosszabbítását sem kérte.
 
 9. § (1) A mérőeszköz típusvizsgálat célja annak elbírálása, hogy a mérőeszköztípus megfelel-e a vele szemben támasztott mérésügyi előírásoknak.
 
@@ -121,24 +119,18 @@ Az Országgyűlés a mérések hazai és nemzetközi egységességének és pont
 
 ### V. Fejezet — Akkreditálás
 
-11. § A mérésügyi szerv az akkreditáló szervvel együttműködve – a nemzeti akkreditálásról szóló jogszabályok rendelkezéseivel összhangban – részt vesz a kalibráló és a vizsgáló laboratóriumok akkreditálásában.
+11. § A mérésügyi szerv a Nemzeti Akkreditáló Testülettel együttműködve – a nemzeti akkreditálásról szóló jogszabályok rendelkezéseivel összhangban – részt vesz a kalibráló és a vizsgáló laboratóriumok akkreditálásában.
 
-### VI. Fejezet — PIACFELÜGYELET ÉS JOGKÖVETKEZMÉNYEK
+### VI. Fejezet — Mérésügyi ellenőrzés és piacfelügyelet
 
-12. § (1) A mérésügyi szerv a mérésügyi piacfelügyeleti jogkörében eljárva
+12. § (1)–(2)
+
+(3) A mérésügyi szerv a mérésügyi piacfelügyeleti jogkörében eljárva
 
 - a) a hitelesítési engedélyezési eljárásával biztosítja, hogy ne kerüljenek forgalomba,
 - b) más piacfelügyeleti hatóságokkal együttműködve elősegíti, hogy ne maradjanak a forgalomban
 
 a fogyasztók jogi érdekeit sértő vagy veszélyeztető, kötelező hitelesítés körébe tartozó mérőeszközök.
-
-(2) A mérésügyi ellenőrzés során feltárt hiányosságok súlyától függően a mérésügyi szerv a felelős személyt figyelmeztetés szankcióval sújtja vagy intézkedésként
-
-- a) a felügyeleti szervet vagy a felelős személyeket tájékoztatja a hiányosságokról és felelősségre vonást kezdeményez,
-- b) a hitelesítést érvényteleníti és a mérőeszköz használatát megtiltja,
-- c) megismételt típusvizsgálat kedvezőtlen eredménye esetén a hitelesítési engedélyt visszavonja,
-- d) dönt a hibás mérőeszköz használatra alkalmatlanná tételéről,
-- e) szabálysértési vagy büntető eljárást kezdeményez a felelős személy ellen.
 
 ### VII. Fejezet — VEGYES RENDELKEZÉSEK
 
@@ -162,8 +154,6 @@ a fogyasztók jogi érdekeit sértő vagy veszélyeztető, kötelező hitelesít
 
 (2) Az e törvény hatálybalépéséig alkalmazott tanúsító jelek az időszakos hitelesítés érvényességi időtartamának lejártáig hatályosak.
 
-(2a) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
-
 (3) Felhatalmazást kap a Kormány, hogy
 
 - a) a mérésügyi szerv vagy szervek kijelölését, a mérésügyi szerv hatósági eljárásának részletes szabályait,
@@ -178,9 +168,9 @@ rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a mérésügyi szerv irányítását ellátó miniszter, hogy a mérőeszközökre vonatkozó egyedi előírásokat tartalmazó szabályokat, a mérőedényként használt palackok forgalomba hozatalának feltételeit, illetve az előrecsomagolt iparcikkek és élelmiszerek megengedett tömeg- és térfogatmértékeit és az ellenőrzés módszereit rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap a mérésügyi szerv irányítását ellátó miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a mérésügyi hatóság részére a mérésügyi eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, rendeletben állapítsa meg.
+(5) Felhatalmazást kap a mérésügyi szerv irányítását ellátó miniszter, hogy az adópolitikáért felelős miniszterrel és a közigazgatási informatikáért felelős miniszterrel egyetértésben a mérésügyi hatóság részére a mérésügyi eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, rendeletben állapítsa meg.
 
-(6) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a kötelező hitelesítésű mérőeszközök mérésügyi követelményeit, a hitelesítés általános feltételeit és szabályait rendeletben állapítsa meg.
+(6) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a kötelező hitelesítésű mérőeszközök mérésügyi követelményeit, a hitelesítés általános feltételeit és eljárási szabályait rendeletben állapítsa meg.
 
 ### 1. számú melléklet a mérésügyről szóló XLV. törvényhez
 

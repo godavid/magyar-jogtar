@@ -8,7 +8,7 @@ Az Országgyűlés – figyelemmel arra, hogy a Balaton Kiemelt Üdülőkörzet 
 
 ### A TÖRVÉNY CÉLJA ÉS HATÁLYA
 
-1. § A törvény célja a Balaton kiemelt üdülőkörzet területén az érintett önkormányzatok, szakmai szervezetek, gazdasági társaságok és egyesületek egyetértésével a területrendezés alapvető feladatainak és szabályainak megállapítása.
+1. § A törvény célja a Balaton kiemelt üdülőkörzet területén az érintett önkormányzatok, szakmai, gazdasági és társadalmi szervezetek egyetértésével a területrendezés alapvető feladatainak és szabályainak megállapítása.
 
 2. § (1) A törvény hatálya a Balaton kiemelt üdülőkörzet területére terjed ki.
 
@@ -20,8 +20,8 @@ Az Országgyűlés – figyelemmel arra, hogy a Balaton Kiemelt Üdülőkörzet 
 
 - 1. csarnok jellegű épület: alapterületi korlátozás nélkül csarnok jellegűnek tekintendő minden legalább 3,6 m átlagos belmagasságú, tetőtérrel nem rendelkező, egyszintes, összefüggő légterű, ipari, raktározási, kereskedelmi vagy sport rendeltetésű, jellemzően tagolatlan homlokzatú építmény, amelyre a merev geometriai formák, a táj adottságaitól független anyaghasználat és jelentős nagyságú kiszolgálóterület iránti igény jellemző;
 - 2. egyedileg meghatározott térség: a Balaton Kiemelt Üdülőkörzet Területrendezési Tervében megállapított kiemelt térségi területfelhasználási kategória, amelybe a bányaüzemek, valamint a hulladéklerakó helyek és a turisztikai fejlesztési területek övezetébe tartozó területek által igénybe vett, más térségi területfelhasználási kategóriába nem sorolható területek tartoznak;
-- 3. esőbeálló jellegű építmény: természetes anyagokból (pl. kő, fa, nád, szalma) egyszerű módon, részben vagy teljesen oldalfalakkal épített, általában egyterű, legfeljebb 3,5 méter beépítési magasságú és legfeljebb 15 m2-es alapterületű építmény;
-- 4. erdőterület: minden fás növényekből álló életközösség, amelyet az erdőről és az erdő védelméről szóló törvény erdőnek, fasornak, facsoportnak, fás legelőnek, erdőterületnek és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületnek tekint, továbbá erdőterületnek számít a településrendezési eszközökben erdőterület települési területfelhasználási egységbe sorolt terület is;
+- 3. esőbeálló jellegű építmény: természetes anyagokból (pl. kő, fa, nád, szalma) egyszerű módon, részben vagy teljesen oldalfalakkal épített, általában egyterű, legfeljebb 3,5 méter építménymagasságú és legfeljebb 15 m2-es alapterületű építmény;
+- 4. erdőterület: minden fás növényekből álló életközösség, amelyet az erdőről és az erdő védelméről szóló törvény erdőnek, fasornak, facsoportnak, fás legelőnek, erdőterületnek és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületnek tekint, továbbá erdőterületnek számít a településrendezési tervekben erdőterület települési területfelhasználási egységbe sorolt terület is;
 - 5. felszíni szennyezésre fokozottan érzékeny terület: a Balaton Kiemelt Üdülőkörzet Területrendezési Tervében lehatárolt övezet, amely az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény (a továbbiakban: OTrT) „Kiemelten érzékeny felszín alatti vízminőség-védelmi terület” övezetének feleltethető meg, amely az országos övezet által érintett területek pontosításával és a felszín alatti vizek védelméről szóló kormányrendelet által meghatározott érzékenységi kategóriáival érintett területekkel kiegészítve került lehatárolásra;
 - 6. felszíni vízminőség-védelmi terület: a Balaton Kiemelt Üdülőkörzet Területrendezési Tervében lehatárolt övezet, amelybe a tómederrel, a Balaton vízterével kapcsolatban lévő, a tó vízminőség-védelme szempontjából kiemelt jelentőségű vízjárta területek tartoznak;
 - 7. földtani veszélyforrás terület: a Balaton Kiemelt Üdülőkörzet Területrendezési Tervében lehatárolt övezet, amelybe a geomorfológiai adottságaik és földtani felépítésük folytán a lejtős tömegmozgások és egyéb kedvezőtlen mérnökgeológiai adottságok által érintett területek tartoznak;
@@ -96,17 +96,15 @@ vonatkozó szabályai együttesen határozzák meg a Balaton kiemelt üdülőkö
 
 4/B. § A térségi területfelhasználási kategóriákon belül a települési területfelhasználási egységek kijelölése során a következő szabályokat kell alkalmazni:
 
-- a) az erdőgazdálkodási térséget
-  - aa) legalább 95%-ban erdőterület települési területfelhasználási egységbe kell sorolni, vagy
-  - ab) legalább 85%-ban erdőterület települési területfelhasználási egységbe kell sorolni és a fennmaradó terület beépítésre szánt területbe nem sorolható, amennyiben az aa) pontban foglalt követelmény törvény eltérő rendelkezése miatt nem végrehajtható;
+- a) az erdőgazdálkodási térséget legalább 95%-ban erdőterület települési területfelhasználási egységbe kell sorolni;
 - b) a mezőgazdasági térséget legalább 95%-ban mezőgazdasági terület települési területfelhasználási egységbe kell sorolni, a fennmaradó részen nagyvárosias lakóterület nem jelölhető ki;
 - c) a települési térséget beépítésre szánt, illetve beépítésre nem szánt területbe kell sorolni úgy, hogy az új beépítésre szánt terület a település közigazgatási határához 200 m-nél közelebb nem jelölhető ki, kivéve, ha a területrendezési hatósági eljárás keretében végzett területrendezési (környezeti, társadalmi és gazdasági) hatásvizsgálat az ettől való eltérést indokolja;
 - d) az M8 gyorsforgalmi út szentkirályszabadjai csomópontja és az M75 gyorsforgalmi út 71. sz. főúttal alkotott csomópontja között az M8, M7, és az M75 gyorsforgalmi utak és a Balaton-part között kijelölésre kerülő gazdasági területeken ipari terület települési területfelhasználási egység nem jelölhető ki és egyik települési területfelhasználási egységben sem helyezhető el csarnok jellegű kereskedelmi és raktározási rendeltetésű épület;
 - e) a d) pont szerint meghatározott gyorsforgalmi utakhoz csomóponttal kapcsolódó közutak (vagy közvetve kapcsolódó utak) nem Balaton-part felé eső szakasza mentén, az autópálya-csomóponttól számított 1500 méteres szakaszáról kiszolgált új beépítésre szánt területeken kijelölésre kerülő gazdasági területeken ipari terület települési területfelhasználási egység nem jelölhető ki és egyik települési területfelhasználási egységben sem helyezhető el csarnok jellegű kereskedelmi és raktározási rendeltetésű épület;
 - f) a vízgazdálkodási térséget legalább 95%-ban vízgazdálkodási terület települési területfelhasználási egységbe kell sorolni, a fennmaradó részen beépítésre szánt terület nem jelölhető ki;
 - g) az egyedileg meghatározott térség
-  - ga) a beépítésre szánt különleges területek közül a nyersanyag-kitermelés (bánya), nyersanyag-feldolgozás céljára szolgáló terület, hulladékkezelő, -lerakó területe, a beépítésre nem szánt különleges területek közül a nyersanyag-kitermelés (bánya), nyersanyag-feldolgozás céljára szolgáló terület, vagy
-  - gb) turisztikai fejlesztési terület övezetével érintett területen a beépítésre szánt üdülőházas üdülőterület, a különleges területek közül az oktatási-kutatási központ, szabadidőközpont, vízi-közlekedési, sport- és turisztikai célú kikötő terület, állat- és növénykert területe, strandterület, sportterület, a beépítésre nem szánt zöldterület, erdőterület, természetközeli terület vagy a különleges területek közül egészségügyi épület elhelyezésére szolgáló terület, nagy kiterjedésű sportolási célú terület, vadaspark, arborétum területe
+  - ga) a külön jogszabályban meghatározott különleges területek közül bányaüzem vagy a hulladéklerakó hely terület,
+  - gb) a turisztikai fejlesztési terület övezetével érintett terület, gba) üdülőházas üdülőterület, gbb) a külön jogszabályokban meghatározott különleges területek közül a kemping-, strand- és sportterület, az oktatási és szabadidőközpont terület, víziközlekedési, sport- és turisztikai célú kikötő terület, nagy kiterjedésű sportolási célú terület, valamint gbc) zöldterület és gbd) erdőterület
 
 települési területfelhasználási egységbe sorolható;
 
@@ -119,88 +117,36 @@ települési területfelhasználási egységbe sorolható;
 (2) A közlekedési infrastruktúra építményei közül
 
 - a) a tervezett gyorsforgalmi utak területét a nyomvonalak leírása tekintetében meghatározott települések közigazgatási területén kell biztosítani, a nyomvonal biztosítása során a nyomvonalak tájba illesztésére és a környezetvédelem szempontjainak és követelményeinek érvényesítésére, valamint a szakaszolható megépítésre különös gondot kell fordítani;
-- b) a meglévő főutak elkerülő szakaszait a szakági tervekben és a településrendezési eszközökben kell pontosítani;
-- c) a Veszprém–Tapolca–84. sz. főút–71. sz. főút közötti új főút nyomvonalát (leendő 77. sz. főút), a 7301., a 7342. és a 7343. jelű összekötő út nyomvonalának fejlesztésével, paramétereik javításával, a településeket elkerülő szakaszok megvalósításával kell kialakítani; melynek során a tájba illesztésre, a terep- és ökológiai adottságokra és a környezetvédelem szempontjaira kiemelt figyelmet kell fordítani, és a településrendezési eszközökben biztosítani kell a településeket elkerülő szakaszok főúttá fejlesztésének feltételeit;
-- d) a 71. sz. főút Badacsonyt elkerülő szakaszát természetvédelmi szempontból elfogadható nyomvonalon, szintben kialakított vasúti keresztezéssel kiemelt jelentőségű mellékútként kell kialakítani, amelynek főúttá fejlesztési lehetőségeit a településrendezési eszközökben biztosítani kell;
+- b) a meglévő főutak elkerülő szakaszait a szakági tervekben és a településrendezési tervekben kell pontosítani;
+- c) a Veszprém–Tapolca–84. sz. főút–71. sz. főút közötti új főút nyomvonalát (leendő 77. sz. főút), a 7301., a 7342. és a 7343. jelű összekötő út nyomvonalának fejlesztésével, paramétereik javításával, a településeket elkerülő szakaszok megvalósításával kell kialakítani; melynek során a tájba illesztésre, a terep- és ökológiai adottságokra és a környezetvédelem szempontjaira kiemelt figyelmet kell fordítani, és a településrendezési tervekben és a helyi építési szabályzatban biztosítani kell a településeket elkerülő szakaszok főúttá fejlesztésének feltételeit;
+- d) a 71. sz. főút Badacsonyt elkerülő szakaszát természetvédelmi szempontból elfogadható nyomvonalon, szintben kialakított vasúti keresztezéssel kiemelt jelentőségű mellékútként kell kialakítani, amelynek főúttá fejlesztési lehetőségeit a településrendezési tervekben és a helyi építési szabályzatban biztosítani kell;
 - e) kiemelt jelentőségű mellékutakat kell kialakítani a 2/1. sz. melléklet szerint meghatározott irányokban;
-- f) Budapest–Székesfehérvár–Nagykanizsa–Murakeresztúr–(Horvátország) transz-európai vasúti szállítási hálózat részeként működő országos törzshálózati vasútvonal kitérési lehetőséget biztosító szakaszos kétvágányúsításának és védőtávolságainak területigényét a szakági tervek és a településrendezési eszközök alapján meg kell határozni;
+- f) Budapest–Székesfehérvár–Nagykanizsa–Murakeresztúr–(Horvátország) transz-európai vasúti szállítási hálózat részeként működő országos törzshálózati vasútvonal kitérési lehetőséget biztosító szakaszos kétvágányúsításának és védőtávolságainak területigényét a szakági és a településrendezési tervek alapján meg kell határozni;
 - g) a Hajmáskér–Balatonfűzfő között tervezett egyéb országos törzshálózati vasútvonal területigényét – a Szabadbattyán–Tapolca egyéb országos törzshálózati vasútvonal balatonkenesei szakaszának a csúszásveszélyeztetettsége miatt – biztosítani kell;
-- h) a vitorláskikötő-hálózat bővítése a vízpart-rehabilitációs tanulmánytervek alapján történhet;
+- h) a vitorláskikötő-hálózat bővítése a vízpart-rehabilitációs tanulmánytervek, első felülvizsgálatukat követően a partvonal-szabályozási és vízpart-rehabilitációs tervek alapján történhet;
 - i) a meglévő repülőterek a 2/4. sz. melléklet szerint megtartandók és fejlesztendők.
 
 (3) A közmű és elektronikus hírközlési nyomvonalas építmények közül
 
 - a) a szennyvízcsatorna-hálózat létesítésének engedélyezésére csak a megfelelő kapacitású csatlakozó szennyvíztisztító telep megléte esetén, illetve új tisztító építésekor azzal egyidejűleg kerülhet sor;
 - b) 20 személygépkocsi befogadóképességűnél nagyobb gépkocsiparkolók felületéről az összegyűjtött csapadékvizeket csak olajfogón átvezetve lehet a csapadékvíz-csatornába bekötni, és a parkolókban összefolyó csapadékvíz zöldfelületre nem vezethető;
-- c) a közmű és elektronikus hírközlési nyomvonalas hálózatok és járulékos műtárgyaik kiépítésénél, illetve a meglévő hálózatok korszerűsítésénél a tájkép védelme és az esztétikai követelmények érvényesítése céljából az országos jelentőségű védett természeti területen a műszaki lehetőségek és a védett értékek védelmi szempontjainak mérlegelésével terepszint alatti elhelyezést kell biztosítani, ide nem értve, ha már meglévő oszlopsor (közös közmű oszlopsor) felhasználásával kerül sor az elektronikus hírközlési nyomvonalas hálózatok kiépítésére;
+- c) a közmű és elektronikus hírközlési nyomvonalas hálózatok és járulékos műtárgyaik kiépítésénél, illetve a meglévő hálózatok korszerűsítésénél a tájkép védelme és az esztétikai követelmények érvényesítése céljából az országos jelentőségű védett természeti területen a műszaki lehetőségek és a védett értékek védelmi szempontjainak mérlegelésével terepszint alatti elhelyezést kell biztosítani;
 - d) a műsorszórás és a mobil rádiótelefon hírközlés bázisállomásainak telepítésekor a berendezéseket meglévő magasépítményeken többfunkciós állomásként kialakított közös hírközlési toronyra kell elhelyezni. Önálló antennatartó szerkezet és csatlakozó műtárgy csak akkor helyezhető el, ha meglévő magasépítményeken erre nincs lehetőség. Az önálló antennatartó szerkezet az országos jelentőségű védett természeti területeken, valamint a térségi jelentőségű táj- és településkép védelmi terület övezetén kívül, a táj- és településképbe illeszkedően létesíthető.
 
 ### A BALATON KIEMELT ÜDÜLŐKÖRZET TERÜLETÉRE VONATKOZÓ SZABÁLYOK
 
-5. § (1) A települések közigazgatási területén a településrendezési eszközökben azon erdőterület települési területfelhasználási egységbe sorolt terület nagysága, amelyet egyidejűleg a térségi szerkezeti terv erdőgazdálkodási térségként állapít meg, összességében nem csökkenhet.
+5. § A települések közigazgatási területén a településrendezési eszközökben erdőterület, és a zöldterület települési területfelhasználási egységbe sorolt területen beépítésre szánt terület nem jelölhető ki és az erdőterület, illetve a zöldterület nagysága összességében nem csökkenhet.
 
-(2) A térségi szerkezeti tervben megállapított erdőgazdálkodási térség által nem érintett, a településrendezési eszközökben erdőterület települési területfelhasználási egységbe sorolt terület csak mezőgazdasági terület, természetközeli terület vagy vízgazdálkodási terület települési területfelhasználási egységbe sorolható.
+6. § A vízpart-rehabilitációs tanulmánytervben, illetve első felülvizsgálatát követően a vízpart-rehabilitációs tervben (a továbbiakban együtt: vízpart-rehabilitációs terv), továbbá a településrendezési tervben zöldterületi területfelhasználási egységbe sorolt, vagy az ingatlan-nyilvántartás szerint önkormányzati tulajdonban lévő parkként, díszkertként, közkertként, illetve közparkként bejegyzett területen
 
-(3) Az Országos Erdőállomány Adattárban nyilvántartott erdők területe a településrendezési eszközökben kizárólag erdőterület települési területfelhasználási egységbe sorolható.
+- a) más területfelhasználási egység nem jelölhető ki;
+- b) vízgazdálkodási terület tómederben területfelhasználási területekkel közvetlenül érintkező vízfelület, medencés kikötő nem alakítható ki;
+- c) a létesítmények megközelítésére szolgáló gépjárműforgalom számára tervezett út, más jogszabályban meghatározott, kötelezően kialakítandó parkoló, kerékpárút, gyalogút, vendéglátó-, sport-, szabadidő-létesítmény, illetve a terület gondozását szolgáló építmény a vízpart-rehabilitációs tervben foglaltakkal összhangban létesíthető;
+- d) ingatlan tulajdonjogát kizárólag a Magyar Állam és helyi önkormányzat szerezheti meg közfeladat ellátása céljából;
+- e) a c) pontban felsorolt létesítmények területét és e létesítményeket, csak a bérleti szerződés legalább 10 évenkénti megújításával lehet bérbe adni;
+- f) a terület közcélú használata – a létesítmények vagyonvédelme érdekében tett legszükségesebb intézkedések kivételével – a közterületi jelleg megőrzése érdekében nem korlátozható.
 
-6. § (1) E § alkalmazásában zöldterület: a balatoni vízpart-rehabilitációs szabályozási követelményekkel érintett területre készült vízpart-rehabilitációs tanulmánytervben zöldterület települési területfelhasználási egységbe sorolt terület.
-
-(2) Zöldterületen más települési területfelhasználási egység csak az átsorolni kívánt zöldterülettel legalább azonos alapterületű új zöldterület kijelölésével és az alábbi feltételek egyidejű megléte esetén jelölhető ki:
-
-- a) az átsorolni kívánt zöldterület nem tartozik természetvédelmi oltalom alá,
-- b) a vízpart-rehabilitációs tanulmánytervben kijelölt közhasználatú parti sétány hossza nem csökkenhet,
-- c) a vízpart-rehabilitációs tanulmánytervben kijelölt közhasználatú parti sétány legalább 10 m szélességgel a természetes vízparti vegetáció sérelme nélkül biztosítható,
-- d) az újonnan kijelölt zöldterület a települési önkormányzat vagy a magyar állam tulajdonában van,
-- e) az újonnan kijelölt zöldterület a vízpart-rehabilitációs szabályozással érintett területen van, vagy az átsorolást követően megmaradó és az újonnan kijelölt zöldterület összefüggő zöldterületet alkot,
-- f) az ingatlan-nyilvántartás szerint állami vagy önkormányzati tulajdonban álló közpark vagy közkert esetén az átsorolás legfeljebb az átsorolással érintett zöldterület 15%-ára, egyéb zöldterületek esetén 40%-ára terjedhet ki, és
-- g) az átsorolni kívánt zöldterület nem váltható ki természetvédelmi oltalom alatt álló terület zöldterületi kijelölésével.
-
-(3) Az átsorolást követően az átsorolással érintett zöldterületen további átsorolás nem hajtható végre.
-
-(4) Az átsorolni kívánt, az ingatlan-nyilvántartás szerint közpark vagy közkert esetén az újonnan kijelölt zöldterületet legkésőbb a közpark vagy közkert zöldfelületének megbontásáig meg kell valósítani. A zöldterület megvalósítottnak tekinthető, ha az újonnan kijelölt zöldterületen az aktív zöldfelület aránya legalább 70%, és a beültetett életképes növényzet háromszintű.
-
-(5) Az ingatlan-nyilvántartás szerint állami vagy önkormányzati tulajdonban lévő zöldterületen az ingatlan tulajdonjogát kizárólag a települési önkormányzat vagy a magyar állam szerezheti meg közfeladat ellátása céljából. Az állami vagy önkormányzati tulajdonban álló zöldterület közcélú használata – a legszükségesebb vagyonvédelmi intézkedések kivételével – nem korlátozható.
-
-(6) Zöldterületen – ide nem értve a már meglévő, felöltött zagyterek területén kialakított zöldterületet – nem alakítható ki olyan vízfelület és medencés kikötő, amely a vízgazdálkodási terület tómederben települési területfelhasználási egységbe sorolt területtel közvetlenül érintkezik.
-
-(7) Zöldterületen csak szállásférőhelyet nem tartalmazó vendéglátó rendeltetésű épület, pihenést és testedzést szolgáló műtárgy és a terület rendeltetésszerű használatához szükséges építmény helyezhető el, legfeljebb 4,5 m beépítési magassággal.
-
-(8) A zöldterületen elhelyezett építmények területét és az építményeket csak a bérleti szerződés legalább tízévenkénti megújításával lehet bérbe adni.
-
-6/A. § (1) E § alkalmazásában zöldterület: a településrendezési eszközökben a balatoni vízpart-rehabilitációs szabályozási követelményekkel nem érintett területeken zöldterület területfelhasználási egységbe sorolt, az ingatlan-nyilvántartás szerint önkormányzati vagy állami tulajdonban lévő közpark vagy közkert.
-
-(2) Zöldterületen más települési területfelhasználási egység csak az átsorolt zöldterülettel legalább azonos alapterületű új zöldterület kijelölésével és megvalósításával, valamint az alábbi feltételek egyidejű megléte esetén jelölhető ki:
-
-- a) az átsorolni kívánt zöldterület természetvédelmi oltalom alá nem tartozik,
-- b) az átsorolás az átsorolással érintett zöldterület legfeljebb
-  - ba) 50%-ára terjed ki, ha annak alapterülete kisebb vagy egyenlő, mint 1 ha,
-  - bb) 30%-ára terjed ki, ha annak alapterülete nagyobb, mint 1 ha és kisebb vagy egyenlő, mint 3 ha,
-  - bc) 10%-ára terjed ki, ha annak alapterülete nagyobb, mint 3 ha,
-- c) az újonnan kijelölt zöldterület a települési önkormányzat tulajdonában van,
-- d) az újonnan kijelölt zöldterület legkisebb zöldfelülete 70%, valamint
-- e) az újonnan kijelölt zöldterület településszerkezeti adottságainál fogva (elhelyezkedése, egyéb területfelhasználási egységekkel való kapcsolata) az átsorolni kívánt zöldterülettel azonos vagy előnyösebb funkciót tud betölteni a település zöldfelületi rendszerében.
-
-(3) Az átsorolást követően az átsorolással érintett zöldterületen további átsorolás nem hajtható végre.
-
-(4) Az átsorolás következtében újonnan kijelölt zöldterületet legkésőbb a zöldterület zöldfelületének megbontásáig meg kell valósítani. A zöldterület megvalósítottnak tekinthető, ha az újonnan kijelölt zöldterületen az aktív zöldfelület aránya legalább 70%, és a beültetett életképes növényzet háromszintű. A települési önkormányzat az újonnan kijelölt zöldterületre vonatkozóan az épített környezet alakításáról és védelméről szóló törvény szerinti közterület-alakítási tervet fogad el.
-
-(5) Zöldterületen ingatlan tulajdonjogát kizárólag a települési önkormányzat vagy a magyar állam szerezheti meg közfeladat ellátása céljából. A zöldterület közcélú használata – a legszükségesebb vagyonvédelmi intézkedések kivételével – nem korlátozható.
-
-(6) Zöldterületen építmény legfeljebb 4,5 m beépítési magassággal helyezhető el.
-
-(7) A zöldterületen elhelyezett építmények területét és az építményeket csak a bérleti szerződés legalább tízévenkénti megújításával lehet bérbe adni.
-
-6/B. § (1) E § alkalmazásában zöldterület: a településrendezési eszközökben a balatoni vízpart-rehabilitációs szabályozási követelményekkel nem érintett területeken zöldterület területfelhasználási egységbe sorolt terület, amely az ingatlan-nyilvántartás szerint nem minősül önkormányzati vagy állami tulajdonban lévő közparknak vagy közkertnek.
-
-(2) Zöldterületen más települési területfelhasználási egység csak az átsorolt zöldterülettel legalább azonos alapterületű új zöldterület kijelölésével, és csak akkor jelölhető ki, ha
-
-- a) az újonnan zöldterületbe sorolt terület a települési önkormányzat tulajdonában van,
-- b) az átsorolni kívánt zöldterület nem tartozik természetvédelmi oltalom alá, és
-- c) az újonnan kijelölt zöldterület településszerkezeti adottságainál fogva (elhelyezkedése, egyéb területfelhasználási egységekkel való kapcsolata) az átsorolni kívánt zöldterülettel azonos vagy előnyösebb funkciót tud betölteni a település zöldfelületi rendszerében.
-
-(3) Zöldterületen ingatlan tulajdonjogát kizárólag a települési önkormányzat vagy a magyar állam szerezheti meg közfeladat ellátása céljából. A zöldterület közcélú használata – a legszükségesebb vagyonvédelmi intézkedések kivételével – nem korlátozható.
-
-7. § A kiemelt üdülőkörzet területén lévő települések külterületi beépítésre nem szánt területén a még meglévő beépítetlen tóparti területeket – legkevesebb 50 méter széles sávban – a településrendezési eszközökben vízgazdálkodási települési területfelhasználási egységbe kell sorolni, és e területeken a helyi építési szabályzat előírásait az e törvény szerinti felszíni vízminőség-védelmi terület övezetre vonatkozó előírások szerint kell meghatározni.
+7. § A kiemelt üdülőkörzet területén lévő települések külterületi beépítésre nem szánt területén a még meglévő beépítetlen tóparti területeket – legkevesebb 50 méter széles sávban – a településrendezési tervekben és helyi építési szabályzatokban vízgazdálkodási települési területfelhasználási egységbe kell sorolni, és e területeken a helyi építési szabályzat előírásait az e törvény szerinti felszíni vízminőség-védelmi terület övezetre vonatkozó előírások szerint kell meghatározni.
 
 8. § (1) A kiemelt üdülőkörzet településeinek beépítésre nem szánt területein 3000 m2-nél kisebb telket – közlekedési, közműelhelyezési és hírközlési terület, valamint közhasználatú zöldterület, védőerdő, illetve a közlekedési, közműelhelyezési és hírközlési területek kialakítása után visszamaradó mezőgazdasági és erdőterület települési területfelhasználási egység kivételével – kialakítani nem szabad.
 
@@ -208,8 +154,10 @@ települési területfelhasználási egységbe sorolható;
 
 (3) Az országos jelentőségű védett természeti területeken
 
-- a) a beépítésre nem szánt területeken – ide nem értve a közműépítmények telkeit – 2700 m2-nél kisebb telkek és
-- b) a szántó művelési ágú területek nem építhetők be.
+- a) 2700 m2-nél kisebb telkek,
+- b) a szántóművelési ágú területek
+
+nem építhetők be.
 
 9. § (1) A kiemelt üdülőkörzet területére kívülről – a regionális víziközmű rendszerre a szennyvízcsatorna-hálózaton keresztül történő csatlakozás kivételével – szennyvizet bevezetni tilos, ha a tisztított szennyvíz befogadója a Balaton.
 
@@ -222,13 +170,15 @@ települési területfelhasználási egységbe sorolható;
 
 (4) A kiemelt üdülőkörzet partinak és partközelinek nem minősülő, szennyvízelvezetési agglomerációba nem tartozó 2000 LEÉ alatti településeinek beépítésre szánt területein, illetve belterületein, ahol a szennyvízcsatorna-hálózat nem épült ki, illetve a tisztítómű tovább nem terhelhető új épület építésére építésügyi hatósági engedélyt adni, illetve az engedélyek érvényét meghosszabbítani csak akkor lehet, ha a vízügyi hatóság által engedélyezett egyedi szennyvízkezelő berendezés létesült.
 
-(5) A kiemelt üdülőkörzet partinak és partközelinek nem minősülő, szennyvízelvezetési-agglomerációkba tartozó településeinek beépítésre szánt területein, illetve belterületein új épület építésére építésügyi hatósági engedélyt adni, illetve az engedélyek érvényét meghosszabbítani csak megépült és üzembe helyezett szennyvízcsatorna-hálózatra történő rákötés és a megfelelő kapacitású tisztítómű megléte, vagy az illetékes környezetvédelmi és vízügyi hatóság által engedélyezett egyedi szennyvízkezelő berendezés létesítése esetén lehet.
+(5) A kiemelt üdülőkörzet partinak és partközelinek nem minősülő, szennyvízelvezetési agglomerációkba tartozó településeinek beépítésre szánt területein, illetve belterületein, ahol a szennyvízcsatorna-hálózat nem épült ki, illetve a tisztítómű tovább nem terhelhető új épület építésére építésügyi hatósági engedélyt adni, illetve az engedélyek hatályát meghosszabbítani csak akkor lehet, ha a vízügyi hatóság által engedélyezett egyedi szennyvízkezelő berendezés létesült.
+
+[(5) A kiemelt üdülőkörzet partinak és partközelinek nem minősülő, szennyvízelvezetési-agglomerációkba tartozó településeinek beépítésre szánt területein, illetve belterületein új épület építésére építésügyi hatósági engedélyt adni, illetve az engedélyek érvényét meghosszabbítani csak megépült és üzembe helyezett szennyvízcsatorna-hálózatra történő rákötés és a megfelelő kapacitású tisztítómű megléte, vagy az illetékes környezetvédelmi és vízügyi hatóság által engedélyezett egyedi szennyvízkezelő berendezés létesítése esetén lehet.]
 
 (6) A kiemelt üdülőkörzet településeinek beépítésre nem szánt területén, amennyiben nincs lehetőség a szennyvízcsatorna-hálózathoz történő csatlakozásra, új épület építésére építésügyi hatósági engedélyt adni csak vízzáró szennyvíztároló, illetve a vízügyi hatóság által engedélyezett egyedi szennyvízkezelő berendezés megléte esetén lehet.
 
 (7) A kiemelt üdülőkörzet településeinek közigazgatási területén a szippantott szennyvizek kezelés nélküli elhelyezése nem engedélyezhető.
 
-10. § A kiemelt üdülőkörzet településeinek településrendezési eszközeit a természetvédelmi, tájesztétikai szempontok, valamint a történeti településszerkezet, a táj és a település jellege, a kulturális és az építészeti örökség, valamint az építészeti hagyományok figyelembevételével kell elkészíteni.
+10. § A kiemelt üdülőkörzet településeire a természetvédelmi, tájesztétikai szempontokat, valamint a történeti településszerkezetet, a táj és település jellegét és az építészeti örökség (beleértve a helyi építészeti örökség) értékeit, az építészeti hagyományokat kiemelten figyelembe vevő településszerkezeti és szabályozási tervet, valamint helyi építési szabályzatot kell készíteni.
 
 11. § A település helyi építési szabályzatában rendelkezni kell a meglévő tájékoztató táblák, köztárgyak, hirdetőberendezések lebontásáról, újak elhelyezéséről.
 
@@ -236,21 +186,17 @@ települési területfelhasználási egységbe sorolható;
 
 13. § A települések beépítésre nem szánt területén a tájkarakter védelme érdekében
 
-- a) terepszint alatti építmény bruttó alapterülete a telek területének 10%-át nem haladhatja meg;
-- b) 10 méternél nagyobb beépítési magasságú építményeket a környezethez (domborzati és növényzeti adottságokhoz) illeszkedően kell elhelyezni;
-- c) a 10 méternél nagyobb beépítési magasságú építmények vagy a 250 m2-nél nagyobb beépített alapterületű építmények építési engedély iránti kérelméhez külön jogszabályban meghatározott látványtervet kell mellékelni.
+- a) terepszint alatti építmény alapterülete a telek 10%-át nem haladhatja meg;
+- b) 10 méternél magasabb építményeket a környezethez (domborzati és növényzeti adottságokhoz) illeszkedően kell elhelyezni;
+- c) a 10 méternél magasabb építmények vagy a 250 m2-nél nagyobb beépített alapterületű építmények építési engedély iránti kérelméhez külön jogszabályban meghatározott látványtervet kell mellékelni.
 
-14. § (1) Bányatelek csak az ország más területén föl nem lelhető ásványi nyersanyag, illetve a helyi, tájba illő építkezés nyersanyagai lelőhelyének területén állapítható meg. E területeket a településrendezési eszközökben az állami földtani feladatokat ellátó szerv szakmai állásfoglalása alapján kell lehatárolni.
+14. § (1) Bányatelek csak az ország más területén föl nem lelhető ásványi nyersanyag, illetve a helyi, tájba illő építkezés nyersanyagai lelőhelyének területén állapítható meg. E területeket a településrendezési tervekben az állami földtani feladatokat ellátó szerv szakmai állásfoglalása alapján kell lehatárolni.
 
 (2) Az országos jelentőségű védett természeti területeken új külszíni művelésű bányatelek nem állapítható meg, meglévő külszíni művelésű bányatelek nem bővíthető.
 
 (3) Az országos településrendezési és építési követelményekről szóló kormányrendeletben különleges terület települési területfelhasználási egységbe sorolt területek közül a település belterületétől elkülönülő, meglévő temető, meglévő bányatelek terület, meglévő honvédelmi terület a településrendezési eszközökben a valóságos funkciójának megfelelően szabályozható.
 
-(4) Belterületi lakóövezet övezeti határától számított 1000 méteren belül működő külszíni művelésű bányában, ha az ásványi nyersanyag jövesztése nem csak robbantással történhet, a robbantási tevékenység végzéséhez az érintett belterületi lakóövezet helye szerint illetékes önkormányzat hozzájárulása szükséges. A hozzájárulás a jóváhagyott kitermelési műszaki üzemi terv hatálya alatt nem vonható vissza.
-
-(5) Ha az önkormányzat vitatja az ásványi nyersanyag csak robbantással történő jöveszthetőségét, akkor a bányavállalkozó köteles a bányafelügyeletnél a jövesztési lehetőségek megállapítását kérelmezni. Vitatottnak kell tekinteni a jövesztési módot, ha az önkormányzat a bányavállalkozó hozzájárulás megadása iránti kérelmére 30 napon, de legkésőbb a kérelem benyújtását követő önkormányzati testületi ülést követő 5 napon belül nem válaszol. A bányafelügyelet döntését bányászati szakértő bevonásával hozza meg. A bányavállalkozó a bányafelügyelet döntésének jogerőre emelkedéséig robbanóanyag-felhasználási engedély iránti kérelmet nem nyújthat be.
-
-15. § A kiemelt üdülőkörzetben csak olyan rendeltetés céljára szolgáló építmények üzemeltethetők, amelyek
+15. § A kiemelt üdülőkörzetben csak olyan létesítmények üzemeltethetők, amelyek
 
 - a) egészségügyi légszennyezettségi határérték-túllépést nem okoznak, továbbá
 - b) ökológiai légszennyezettségi határérték-túllépést
@@ -268,9 +214,58 @@ nem okoznak.
 
 ### A BALATON KIEMELT ÜDÜLŐKÖRZET PARTI ÉS PARTKÖZELI TELEPÜLÉSEIRE VONATKOZÓ SZABÁLYOK
 
-16. § Az e törvényben meghatározott célok, valamint a jogszabályok szerinti környezetvédelmi, természetvédelmi és vízgazdálkodási célok megvalósítása érdekében a vízgazdálkodásért felelős miniszter a környezetvédelemért és a természetvédelemért, valamint a településrendezésért és területrendezésért felelős miniszter egyetértésével kiadott rendelettel partvonal-szabályozási tervet fogad el.
+16. § (1) Az e törvényben meghatározott célok, valamint a külön jogszabályok szerinti környezetvédelmi, természetvédelmi, vízgazdálkodási célok (a továbbiakban együtt: környezeti célok) megvalósítása érdekében a környezetvédelemért felelős miniszter, a vízgazdálkodásért felelős miniszter és a területrendezésért felelős miniszter a vízpart-rehabilitációs tanulmánytervek első felülvizsgálatát követően együttes rendelettel partvonal-szabályozási és vízpart-rehabilitációs tervet fogad el.
 
-16/A. § (1) A meglévő, feltöltött zagyterek területét zöldterület, erdőterület vagy vízgazdálkodási terület települési területfelhasználási egységbe kell sorolni.
+(2) Az (1) bekezdésben meghatározott célok megvalósítása érdekében a vízpart-rehabilitációs tanulmánytervek első felülvizsgálatát megelőzően a vízgazdálkodásért felelős miniszter rendelettel partvonal-szabályozási tervet fogad el.
+
+(3) A partvonal-szabályozási és vízpart-rehabilitációs terv az ingatlanügyi hatóság által hitelesített ingatlan-nyilvántartási térképmásolat felhasználásával készül és – az alaptérképi elemeken túl – kötelezően tartalmazza:
+
+- a) a part szabályozási vonalát (a továbbiakban: szabályozási partvonal),
+- b) az annak módosítására tett javaslatokat (a tervezett szabályozási partvonalat),
+- c) az engedély nélküli mederfeltöltéseket,
+- d) a minősített nádasok területét,
+- e) a védett és védelemre tervezett természeti területeket, továbbá a természeti területeket, természeti értékeket,
+- f) a természetes partszakaszokat,
+- g) a területfelhasználási egységeket,
+- h) a közterületeket,
+- i) a környezeti célokkal összhangban
+  - ia) a kikötő létesítésére alkalmas partszakaszokat,
+  - ib) a parti sétány létesítésére alkalmas nyomvonalakat (a sétány jellegű és gyalogos útvonalakat)
+  - ic) a kerékpárút létesítésére alkalmas nyomvonalakat,
+  - id) a strandok kijelölésére alkalmas partszakaszokat.
+
+(4) A (2) bekezdés szerint elfogadásra kerülő partvonal-szabályozási terv a (3) bekezdés felvezető szövegében foglaltaknak megfelelően készül, és kötelezően tartalmazza a (3) bekezdés felvezető szövegében, valamint a (3) bekezdés a), b), c), d) és ia) pontjában foglaltakat.
+
+(5) A partvonal-szabályozási és vízpart-rehabilitációs terv meghatározása során figyelembe kell venni
+
+- a) az ingatlan-nyilvántartási térképen szereplő, a Balatonnal érintkező telkek határvonalát,
+- b) a mértékadó vízállást, a jégjárást és hullámverést, valamint a mederben kialakuló áramlási és fenék viszonyokat,
+- c) a természeti területek, védett természeti területek, valamint a védett természeti értékek, megőrzésének szempont- és feltételrendszerét,
+- d) a parti zóna ökológiai funkcióját,
+- e) környezeti célból megszüntetendő engedély nélküli mederfeltöltéseket,
+- f) a meder egyes területein (szennyzugok) összegyűlő hordalékok és uszadékok rendszeres figyelemmel kíséréséhez és szükség szerinti eltávolításához fűződő környezeti célokat.
+
+(6) Az (5) bekezdésben foglaltakat a (2) bekezdés szerint elfogadásra kerülő partvonal-szabályozási terv meghatározása során is alkalmazni kell.
+
+(7) A szabályozási partvonal és a jogi partvonal közötti
+
+- a) területen, amely a meder részének minősül, a feltöltés felülvizsgálatára, megszüntetésére hatósági eljárást kell indítani;
+- b) meder részének nem minősülő terület feltöltésére, és a partvonal-szabályozási tervben meghatározott kikötésre alkalmas partszakaszon kikötő létesítésére, az erre vonatkozó feltételekre figyelemmel vízjogi engedély alapján kerülhet sor;
+- c) feltöltésre került terület területfelhasználását a vízpart-rehabilitációs tanulmánytervnek – első felülvizsgálatát követően a partvonal-szabályozási és vízpart-rehabilitációs tervnek – megfelelően, valamint a d) és e) pontban foglalt tilalommal összhangban kell meghatározni;
+- d) feltöltésre, illetve a Balaton medréből kiszabályozásra került terület beépítésre szánt területbe – a külön jogszabályban meghatározott különleges területen lévő strandterület és kikötőterület kivételével – nem sorolható;
+- e) a vízpart-rehabilitációs tanulmánytervben – első felülvizsgálatát követően a partvonal-szabályozási és vízpart-rehabilitációs tervben – meghatározott zöldterületek előtt létesített feltöltés csak zöldterület települési területfelhasználási egységbe sorolható.
+
+(8) A (7) bekezdés a) pontjában szereplő feltöltések felszámolásáról, illetve a (7) bekezdés b) pontjában szereplő feltöltések elvégzéséről a vízügyi hatóság határoz.
+
+(9)
+
+(10) A (7) bekezdés a) pontjában szereplő feltöltések felszámolására az köteles, aki a feltöltést engedély nélkül megvalósította.
+
+(11) Amennyiben az engedély nélküli feltöltés megvalósítója ismeretlen, a feltöltéshez közvetlenül kapcsolódó parti ingatlan földhasználója köteles a feltöltés felszámolására. Több földhasználó esetében e kötelezettség egyetemlegesen terheli őket. Amennyiben földhasználó nincs, e kötelezettség a tulajdonost terheli.
+
+(12) A Balaton medrének területe a (7) bekezdés b) pontja szerinti vízjogi engedély alapján változtatható meg.
+
+16/A. § (1) A már meglévő, feltöltött zagyterek területét zöldterület, erdőterület, vízgazdálkodási terület települési területfelhasználási egységbe kell sorolni. A vízpart-rehabilitációs tanulmánytervekben már lehatárolt zöldterületek más települési területfelhasználási egységbe nem sorolhatóak.
 
 (2) A vízgazdálkodási települési területfelhasználási egységbe sorolt területen a meglévő, korábban lezárt zagyterek is felhasználhatók a zagy elhelyezésére a vízügyi hatóság engedélyével és az érintett települési önkormányzat egyetértésével.
 
@@ -282,36 +277,29 @@ nem okoznak.
 
 18. § (1) A települések beépítésre szánt területeinek növelésekor a területnövekmény legkevesebb 10%-ának megfelelő, 50%-ban azzal településszerkezeti kapcsolatban lévő közhasználatú zöldterületet kell biztosítani. A gazdasági terület települési területfelhasználási egység területének növelése esetén a közhasználatú zöldterület helyett védőerdő is kijelölhető. A beépítésre szánt terület csak a zöldterület, illetve védőerdő egyidejű létesítésével és a zöldterület települési önkormányzati tulajdonba adásával alakítható ki.
 
-(2)
+(2) A települések újonnan létesített zöldterületein legfeljebb 4%-os beépítettséggel helyezhetők el vendéglátó-, sport-, szabadidő-létesítmények, illetve a terület gondozását szolgáló építmények.
 
-19. § (1) A vízparti kemping területén – tulajdoni formától függetlenül –
+19. § (1) A kempingek területének más célra történő igénybevétele csak zöldterületként 4%-os beépítettséggel vagy a turizmus fejlesztését szolgáló vegyes területként, üdülőházas üdülőterületként, illetve a különleges területfelhasználási egységek közül a vízpart-rehabilitációs szabályozási követelményekben meghatározott települési területfelhasználási egységként
 
-- a) kereskedelmi célú szállásférőhely, vendéglátó épület és pihenést, testedzést szolgáló építmény helyezhető el,
-- b) lakó- és üdülőépület, lakás nem alakítható ki.
+- a) közvetlen Balaton-parti kapcsolat esetén 15%-os beépítettséggel;
+- b) amennyiben a közvetlen parti kapcsolattal rendelkező 30 méter széles – közhasználatú parti sétány kialakítására alkalmas – zöldterület települési területfelhasználási egységbe tartozó terület tulajdonjogát a települési önkormányzat megszerezte, a balatoni vízpart-rehabilitációs szabályozási követelményekkel érintett, eredetileg közvetlen Balaton-parti kapcsolattal rendelkező területen a visszamaradó telekre meghatározott települési területfelhasználási egység vízpart-rehabilitációs szabályozási követelményekben meghatározott beépítési százalékával;
+- c) a balatoni vízpart-rehabilitációs szabályozási követelményekkel érintett, közvetlen Balaton-parti kapcsolattal nem rendelkező területen meghatározott települési területfelhasználási egység vízpart-rehabilitációs szabályozási követelményekben meghatározott beépítési százalékával;
+- d) a kiemelt üdülőkörzet partközeli településeinek területén lévő, a balatoni vízpart-rehabilitációs szabályozási követelményekkel nem érintett területen a településrendezési tervekben és a helyi építési szabályzatban meghatározható beépítési szabályok szerint
 
-(2) A vízparti kempinget különleges terület kemping települési területfelhasználási egységbe kell sorolni, amelynek beépítettsége legfeljebb 15% lehet.
+történhet.
 
-(3) A kemping területének más területfelhasználási egységbe történő besorolása csak
+(2) A vízpart-rehabilitációs szabályozási követelményekkel érintett területeken, ahol a kempingek területe nem került átsorolásra, a kempingek beépítettségének mértéke legfeljebb 15% lehet.
 
-- a) zöldterületként legfeljebb 3%-os beépítettséggel, vagy
-- b) különleges terület strandként, legfeljebb 15%-os beépítettséggel
+(3) A meglévő strandok területe a településrendezési tervekben és a helyi építési szabályzatban csak zöldterület kialakítása céljából csökkenthető. A strandok területén telekfelosztás csak zöldterület kialakítása céljából, telekhatár-rendezés csak zöldterületbe sorolás vagy a strandterület növelése, illetve a telekhatár kiigazítása céljából végezhető. A telekhatár-rendezés során a strandterület parthossza nem csökkenthető. A strandok területének
 
-valósítható meg.
+- a) legfeljebb 10%-a építhető be a külön jogszabályokban meghatározott feltételek szerint,
+- b) legkevesebb 65%-át – legkésőbb a használatbavételi engedélykérelem benyújtásáig – növényzettel fedetten kell kialakítani és fenntartani.
 
-(4) A strand beépített területe legfeljebb a terület 10%-a lehet.
+20. § (1) A kiemelt üdülőkörzet valamennyi parti településén a belterülethez csatlakozó parthossz legkevesebb 30%-án legalább 5 méter széles közhasználatú parti sétány helye biztosítandó a vízpart-rehabilitációs tanulmánytervek – első felülvizsgálatukat követően partvonal-szabályozási és vízpart-rehabilitációs tervek – alapján felülvizsgált településrendezési tervekben és a helyi építési szabályzatban, figyelemmel a természetes vegetáció megtartására.
 
-(5) A strand területének legkevesebb 65%-át fásított zöldfelületként kell kialakítani és fenntartani.
+(2) A vízpart-rehabilitációs tanulmánytervekkel – első felülvizsgálatukat követően partvonal-szabályozási és vízpart-rehabilitációs tervekkel – közterületbe sorolt területekre vonatkozóan a települési önkormányzatokat – külön jogszabályban meghatározottak szerinti védett természeti területeken az államot – elővásárlási jog illeti meg.
 
-(6) Strand területén – tulajdoni formától függetlenül –
-
-- a) csak vendéglátó épület, pihenést, testedzést, valamint az átöltözést és tisztálkodást szolgáló építmény helyezhető el,
-- b) lakó- és üdülőépület, lakás nem alakítható ki.
-
-20. § (1) A kiemelt üdülőkörzet valamennyi parti településén a belterülethez csatlakozó parthossz legkevesebb 30%-án legalább 5 méter széles közhasználatú parti sétány helye biztosítandó a vízpart-rehabilitációs tanulmánytervek alapján felülvizsgált településrendezési eszközökben, figyelemmel a természetes vegetáció megtartására.
-
-(2) A vízpart-rehabilitációs tanulmánytervekkel közterületbe sorolt területekre vonatkozóan a települési önkormányzatokat – külön jogszabályban meghatározottak szerinti védett természeti területeken az államot – elővásárlási jog illeti meg.
-
-(3) A (2) bekezdésben meghatározott területre készült vízpart-rehabilitációs szabályozási követelmények alapján felülvizsgált és módosított településrendezési eszközök alapján meghatározott ingatlanokra, a települési önkormányzat kérelmére, az elővásárlási jogot az ingatlan-nyilvántartásba be kell jegyezni.
+(3) A (2) bekezdésben meghatározott területre készült vízpart-rehabilitációs szabályozási követelmények alapján felülvizsgált és módosított településrendezési tervek és a helyi építési szabályzat alapján meghatározott ingatlanokra, a települési önkormányzat kérelmére, az elővásárlási jogot az ingatlan-nyilvántartásba be kell jegyezni.
 
 (4) A parti sétány kialakítására alkalmas területet a településszerkezeti tervben zöldterület vagy vízgazdálkodási terület települési területfelhasználási egységbe kell sorolni. A IV–V. osztályú nádas területén lévő parti sétány csak vízgazdálkodási települési területfelhasználási egységbe sorolható. Vízgazdálkodási területen elhelyezkedő parti sétányon kizárólag gyalog- és kerékpárút alakítható ki.
 
@@ -359,7 +347,7 @@ valósítható meg.
 
 (2) A kiemelt térségi övezetek egymáshoz való viszonyát és kapcsolatrendszerét a törvény 2/7. számú melléklete tartalmazza.
 
-(3) A Balaton Kiemelt Üdülőkörzet Területrendezési Tervében lehatárolt kiemelt térségi övezeteket a településszerkezeti terv készítése során a településrendezési eszközökről szóló jogszabály szerinti megalapozó vizsgálatban és alátámasztó javaslatban, a településrendezési eszközök készítése során a kiemelt térségi övezetek területi érintettségével kapcsolatosan külön jogszabály szerint állásfoglalásra kötelezett államigazgatási szervek állásfoglalása alapján, a területfejlesztésről és a területrendezésről szóló törvény előírásai szerint kell lehatárolni.
+(3) A Balaton Kiemelt Üdülőkörzet Területrendezési Tervében lehatárolt kiemelt térségi övezeteket a településrendezési tervek készítése során a településszerkezeti terv léptékében készülő, kötelező alátámasztó szakági munkarészben az érdekelt államigazgatási szervek állásfoglalása alapján, a területfejlesztésről és a területrendezésről szóló törvény előírásai szerint kell lehatárolni.
 
 ### VÉDELMI ÖVEZETEK SZABÁLYOZÁSIELŐÍRÁSAI
 
@@ -373,8 +361,8 @@ valósítható meg.
 - d) települések beépítésre szánt területének növelése és fejlesztése a történeti tájszerkezet, a tájképi adottságok megőrzésével, a tájkarakter erősítésével történhet;
 - e) új építmény elhelyezése tájba illesztve, a helyi építészeti hagyományok figyelembevételével történhet;
 - f) új építmény a természetvédelmi kezelés és bemutatás céljából, valamint szakrális építményként (kápolna, kereszt, kőkép) helyezhető el;
-- g) 10 m beépítési magasságot meghaladó építmény – kápolna, kizárólag kilátó rendeltetésű építmény, víztorony kivételével – nem létesíthető, csarnok jellegű épület, reklámcélú hirdető építmény elhelyezése nem engedélyezhető;
-- h) erdőtelepítés, külterületi fásítás kizárólag őshonos fafajokkal végezhető;
+- g) 10 m magasságot meghaladó építmény – kápolna, kizárólag kilátó rendeltetésű építmény, víztorony kivételével – nem létesíthető, csarnok jellegű épület, reklámcélú hirdető építmény elhelyezése nem engedélyezhető;
+- h) erdőtelepítés, erdőfelújítás, külterületi fásítás kizárólag őshonos fafajokkal végezhető;
 - i) energetikai célú növénytelepítés nem engedélyezhető.
 
 ### Ökológiai folyosó övezete
@@ -382,7 +370,7 @@ valósítható meg.
 24. § Az ökológiai folyosó övezete (Ö-2) tekintetében az OTrT által meghatározott országos ökológiai hálózat országos övezetre, valamint az ökológiai folyosó kiemelt térségi és megyei övezetre vonatkozó övezeti előírások mellett a következő előírások alkalmazandók:
 
 - a)
-- b) a településrendezési eszközök készítése során az ökológiai folyosók folytonosságát és folyamatossá tételét ökológiai vizsgálatokra alapozva kell tervezni és biztosítani;
+- b) a településrendezési tervek készítése során az ökológiai folyosók folytonosságát és folyamatossá tételét ökológiai vizsgálatokra alapozva kell tervezni és biztosítani;
 - c) a látványvédelem (kilátás, rálátás) szempontjait mind a településrendezési és építészeti tervezés, mind pedig az egyes építmények megvalósítása során kiemelten kell érvényesíteni;
 - d) a kialakult tájhasználat csak a természeti értékek sérelme nélkül változtatható meg, a meglévő természetszerű művelési ágak (gyep, nádas, erdő) megtartandók, művelési ág váltása csak intenzívebb művelésűből a természetszerű irányában engedélyezhető;
 - e) a települések beépítésre szánt területének növelése és fejlesztése a történeti tájszerkezet, a tájképi adottságok megőrzésével, a tájkarakter erősítésével, a helyi építészeti hagyományok figyelembevételével történhet;
@@ -391,9 +379,9 @@ valósítható meg.
 - h) közlekedési építmények abban az esetben és olyan módon jelölhetők ki, ha a magterület, a természetes és természetközeli élőhelyek fenntartása, valamint az ökológiai kapcsolatok működése biztosítható;
 - i) közlekedési építmények a terepi adottságokhoz alkalmazkodva, tájba illesztve helyezhetők el;
 - j) új építmény elhelyezése, műszaki infrastruktúra telepítése csak tájba illesztve és a természetvédelmi kezelő hozzájárulása alapján történhet;
-- k) 10 m beépítési magasságot meghaladó építmény – kápolna, kizárólag kilátó rendeltetésű építmény, víztorony kivételével – nem létesíthető, csarnok jellegű épület, reklámcélú hirdető építmény elhelyezése nem engedélyezhető;
+- k) 10 m magasságot meghaladó építmény – kápolna, kizárólag kilátó rendeltetésű építmény, víztorony kivételével – nem létesíthető, csarnok jellegű épület, reklámcélú hirdető építmény elhelyezése nem engedélyezhető;
 - l) a területen környezetszennyező tevékenység nem folytatható, csak természetes és környezetkímélő módszerek, gazdálkodás alkalmazható;
-- m) erdőtelepítést, külterületi fásítást őshonos fafajokkal kell végezni;
+- m) erdőtelepítést, erdőfelújítást, külterületi fásítást őshonos fafajokkal kell végezni;
 - n) energetikai célú növénytelepítés nem engedélyezhető.
 
 ### Pufferterület övezete
@@ -427,17 +415,17 @@ valósítható meg.
 
 ### Történeti települési terület övezete
 
-27. § (1) A történeti települési terület övezetének (T-2) területét – a kulturális örökségvédelmi hatóság állásfoglalása alapján – a településrendezési eszközökben a tényleges kiterjedésnek megfelelően a (2) bekezdésben foglaltak érvényesülése érdekében szükség szerint védőövezetével együtt kell lehatárolni és e törvény előírásait a településrendezési eszközökben lehatárolt területen kell érvényesíteni.
+27. § (1) A történeti települési terület övezetének (T-2) területét – a kulturális örökségvédelmi hatóság állásfoglalása alapján – a településrendezési tervekben a tényleges kiterjedésnek megfelelően a (2) bekezdésben foglaltak érvényesülése érdekében szükség szerint védőövezetével együtt kell lehatárolni és e törvény előírásait a településrendezési tervekben lehatárolt területen kell érvényesíteni.
 
 (2) A történeti települési terület övezete (T-2) tekintetében az OTrT által meghatározott kulturális örökség szempontjából kiemelten kezelendő terület országos övezetre, valamint a történeti települési terület kiemelt térségi és megyei övezetre vonatkozó övezeti előírások mellett a következő előírások alkalmazandók:
 
-- a) a helyi építési szabályzatban és a helyi építészeti örökség védelméről szóló rendeletben – a külön jogszabályban meghatározottak szerint – meg kell határozni, és elő kell írni a látványvédelmet, a településkép-védelmet, a zöldfelületek fejlesztését, az épületek paramétereit, az építmények helyi építészeti hagyományokhoz illeszkedő megjelenését meghatározó előírásokat és a helyi építészeti hagyományoknak megfelelő építési anyagok használatát;
+- a) a település szabályozási tervében, a helyi építési szabályzatban és a helyi építészeti örökség védelméről szóló rendeletben – a külön jogszabályban meghatározottak szerint – meg kell határozni, és elő kell írni a látványvédelmet, a településkép-védelmet, a zöldfelületek fejlesztését, az épületek paramétereit, az építmények helyi építészeti hagyományokhoz illeszkedő megjelenését meghatározó előírásokat és a helyi építészeti hagyományoknak megfelelő építési anyagok használatát;
 - b) a közmű és elektronikus hírközlési nyomvonalas hálózatok és járulékos műtárgyaik kiépítésénél, illetve a meglévő hálózatok korszerűsítésénél a tájkép védelme és az esztétikai követelmények érvényesítése céljából a műszaki lehetőségek és a védett értékek védelmi szempontjainak mérlegelésével terepszint alatti elhelyezést kell biztosítani;
 - c) új üzemanyagtöltő állomás, hulladéklerakó, hulladéktároló telep, valamint hulladékártalmatlanító és hulladékátrakó állomás nem létesíthető.
 
 ### Világörökség és világörökség-várományos terület övezete
 
-28. § (1) A világörökség és világörökség-várományos terület övezetének (T-3) területét – a kulturális örökségvédelmi hatóság állásfoglalása alapján – a településrendezési eszközökben kell a tényleges kiterjedésnek megfelelően lehatárolni, és e törvény előírásait a településrendezési eszközökben lehatárolt területen kell érvényesíteni.
+28. § (1) A világörökség és világörökség-várományos terület övezetének (T-3) területét – a kulturális örökségvédelmi hatóság állásfoglalása alapján – a településrendezési tervekben kell a tényleges kiterjedésnek megfelelően lehatárolni, és e törvény előírásait a településrendezési tervekben lehatárolt területen kell érvényesíteni.
 
 (2) A világörökség és világörökség-várományos terület övezete (T-3) tekintetében az OTrT által meghatározott kulturális örökség szempontjából kiemelten kezelendő terület országos övezetre, valamint a világörökség és világörökség-várományos terület kiemelt térségi és megyei övezetre vonatkozó övezeti előírások mellett a tájalkotó elemek összhangjának megőrzése érdekében a helyi építési szabályzatban a tájképet és a kulturális örökség elemeinek védelmét szolgáló szabályozást kell meghatározni.
 
@@ -467,14 +455,14 @@ valósítható meg.
 
 nem telepíthető.
 
-(2) A településrendezési eszközökben – a helyi szélmérési adatok figyelembevételével – kell
+(2) A településrendezési tervekben és a helyi építési szabályzatban – a helyi szélmérési adatok figyelembevételével – kell
 
 - a) a szélerőmű telepítésére vizsgálat alá vonható területeket pontosítani;
 - b) az elhelyezés feltételeit meghatározni.
 
 ### Ásványi nyersanyag-gazdálkodási terület övezete
 
-28/B. § (1) Az ásványi nyersanyag-gazdálkodási terület övezete (A-1) területét – az állami földtani feladatokat ellátó szerv állásfoglalása alapján – a településrendezési eszközökben kell a tényleges kiterjedésnek megfelelően lehatárolni, és e törvény előírásait a településrendezési eszközökben lehatárolt területen kell érvényesíteni.
+28/B. § (1) Az ásványi nyersanyag-gazdálkodási terület övezete (A-1) területét – az állami földtani feladatokat ellátó szerv állásfoglalása alapján – a településrendezési tervekben kell a tényleges kiterjedésnek megfelelően lehatárolni, és e törvény előírásait a településrendezési tervekben lehatárolt területen kell érvényesíteni.
 
 (2) Az ásványi nyersanyag-gazdálkodási terület övezete (A-1) tekintetében az OTrT által meghatározott ásványi nyersanyag gazdálkodási terület országos övezetre vonatkozó övezeti előírások érvényesek.
 
@@ -503,26 +491,26 @@ nem telepíthető.
 
 ### Földtani veszélyforrás terület övezete
 
-32. § (1) A földtani veszélyforrás terület övezete (P-1) területét – az állami földtani feladatokat ellátó szerv állásfoglalása alapján – a településrendezési eszközökben kell tényleges kiterjedésének megfelelően lehatárolni, és e törvény előírásait a településrendezési eszközökben lehatárolt területen kell érvényesíteni.
+32. § (1) A földtani veszélyforrás terület övezete (P-1) területét – az állami földtani feladatokat ellátó szerv állásfoglalása alapján – a településrendezési tervekben kell tényleges kiterjedésének megfelelően lehatárolni, és e törvény előírásait a településrendezési tervekben lehatárolt területen kell érvényesíteni.
 
 (2) A földtani veszélyforrás terület övezet (P-1) tekintetében az OTrT által meghatározott földtani veszélyforrás területe kiemelt térségi és megyei övezetre vonatkozó előírások mellett a következő előírások alkalmazandók:
 
-- a) az övezetbe besorolt területeken a beépítés feltételeit a településrendezési eszközökben kell meghatározni;
-- b) a felszíni vizek és belvizek szakszerű elvezetésére szolgáló műtárgyakat a településrendezési eszközökben tervezni kell.
+- a) az övezetbe besorolt területeken a beépítés feltételeit a településrendezési tervekben és a helyi építési szabályzatban kell meghatározni;
+- b) a felszíni vizek és belvizek szakszerű elvezetésére szolgáló műtárgyakat a településrendezési tervekben és a helyi építési szabályzatban tervezni kell.
 
 ### Vízeróziónak kitett terület övezete
 
 33. § A vízeróziónak kitett terület övezet (P-2) tekintetében az OTrT által meghatározott vízeróziónak kitett terület kiemelt térségi és megyei övezetre vonatkozó előírások mellett a következő előírások alkalmazandók:
 
 - a) a földhasznosítás (művelési ág) tudatos megválasztásával, meliorációs talajvédelmi beavatkozások megvalósításával, talajvédő agrotechnikai eljárások alkalmazásával, a leginkább veszélyeztetett területek erdősítésével – kivéve a szőlő termőhelyi kataszteri területeket – kell az erózió mértékét csökkenteni;
-- b) a már kialakult vízmosások rendezésével (megkötésével, bedöntésével) kapcsolatos feladatokat a településrendezési eszközökben kell meghatározni.
+- b) a már kialakult vízmosások rendezésével (megkötésével, bedöntésével) kapcsolatos feladatokat a településrendezési tervekben és a helyi építési szabályzatban kell meghatározni.
 
 ### Felszíni vízminőség-védelmi terület övezete
 
 34. § A felszíni vízminőség-védelmi terület övezetén (F-1):
 
 - a) beépítésre szánt terület nem jelölhető ki;
-- b) épületek építése, bővítése – a településrendezési eszközökben a természetvédelmi szempontokkal összhangban szabályozott területeken elhelyezett, a régészeti lelőhelyek leletmentését és bemutatását lehetővé tevő építmények, a horgászturizmust szolgáló esőbeálló jellegű építmények és a legkevesebb 5 ha egybefüggő gyepterületen, a legeltetést biztosító állatállomány szállásául szolgáló, hagyományos istállóépületek kivételével – nem engedélyezhető;
+- b) épületek építése, bővítése – a településrendezési tervekben a természetvédelmi szempontokkal összhangban szabályozott területeken elhelyezett, a régészeti lelőhelyek leletmentését és bemutatását lehetővé tevő építmények, a horgászturizmust szolgáló esőbeálló jellegű építmények és a legkevesebb 5 ha egybefüggő gyepterületen, a legeltetést biztosító állatállomány szállásául szolgáló, hagyományos istállóépületek kivételével – nem engedélyezhető;
 - c) üzemanyagtöltő állomás, hulladéklerakó, hulladéktároló telep, hulladékátrakó állomás, valamint szennyvízürítő nem létesíthető;
 - d) a vízfolyások menti 20-20 méteres sávban megtelepedett fásszárú növényzet védelmét a vízfolyások karbantartási munkáihoz szükséges feltételek biztosítása mellett kell megoldani.
 
@@ -537,9 +525,9 @@ nem telepíthető.
 - e) az I–III. osztályú nádasban, illetve attól legalább 2 m-re, a környezeti kárelhárítás vagy az élet- és balesetvédelmi indokból szükséges beavatkozás, valamint az engedély nélkül létrehozott feltöltés és vízi állás visszabontásának eseteitől eltekintve, tilos minden olyan mechanikai beavatkozás (kotrás, feltöltés, építés, vízi állás-, csónakút-, horgászhely-létesítés), amely a nádas állományát, annak minőségét károsítja, illetőleg a nádas pusztulását eredményezheti;
 - f)
 - g) a védett természeti területen található nádasban osztályba sorolástól függetlenül, természetvédelmi kezelés kivételével – amelynek módját a természetvédelmi kezelési terv határozza meg – tilos a kotrás, valamint minden olyan tevékenység, amely a nádas állományát veszélyezteti, vagy károsítja;
-- h) a tómeder nádasában, a kihirdetett vízpart-rehabilitációs tanulmánytervek által kijelölt kikötésre alkalmas partszakaszokon engedéllyel rendelkező kikötők esetén legfeljebb 5 méter széles bejáró, valamint a meglévő közhasználatú strandok előtt, fövenyes strandszakasz kialakítása érdekében, a IV–V. osztályú nádasban, legfeljebb 30 méter széles bejáró a vízügyi hatóság engedélyével fenntartható;
+- h) a tómeder nádasában, a kihirdetett vízpart-rehabilitációs tanulmánytervek – első felülvizsgálatukat követően a partvonal-szabályozási és vízpart-rehabilitációs tervek – által kijelölt kikötésre alkalmas partszakaszokon engedéllyel rendelkező kikötők esetén legfeljebb 5 méter széles bejáró, valamint a meglévő közhasználatú strandok előtt, fövenyes strandszakasz kialakítása érdekében, a IV–V. osztályú nádasban, legfeljebb 30 méter széles bejáró a vízügyi hatóság engedélyével fenntartható;
 - i) az az üzemeltetési engedélyköteles vízi jármű, amely nem rendelkezik üzemeltetési engedéllyel és kiépített kikötőben kikötőhellyel, a tómeder területén nem tárolható;
-- j)
+- j) a nyilvántartásba vételre nem kötelezett vízi jármű a tómeder területén csak kiépített kikötőben tárolható.
 
 ### Térségi hulladéklerakó hely kijelöléséhez vizsgálat alá vonható terület övezete
 
@@ -570,7 +558,7 @@ térségi hulladéklerakó hely nem jelölhető ki.
 
 38. § A gazdasági terület övezetén (U-2):
 
-- a) a településszerkezeti tervben új, a környezetre jelentős hatást gyakorló ipari terület nem jelölhető ki;
+- a) a településszerkezeti tervben új jelentős mértékű zavaró hatású ipari terület nem jelölhető ki;
 - b) a település központi belterületéhez kapcsolódó gazdasági területen az új kereskedelmi, szolgáltató terület legfeljebb 50%-os, valamint az egyéb ipari terület legfeljebb 40%-os beépítettségű lehet, és az új telephelyek területének legalább 30%-át fás növényzettel fedetten, a telekhatár mentén takarást biztosítva kell kialakítani;
 - c) a település központi belterületétől elkülönülő gazdasági területen az új kereskedelmi, szolgáltató terület, valamint az egyéb ipari terület beépítettsége legfeljebb 30%-os lehet, és az új telephelyek területének legalább 50%-át fás növényzettel fedetten kell kialakítani.
 
@@ -584,18 +572,18 @@ térségi hulladéklerakó hely nem jelölhető ki.
 - d) gyepművelési ágban lévő területen 5 ha és azt meghaladó telekméret esetén hagyományos, almos állattartó, a lakófunkciót is kielégítő épület építhető, és a beépített alapterület a telek 1%-át és az 1000 m2-t nem haladhatja meg;
 - e) szőlőművelési ágban lévő területen – a g) pontban foglaltak kivételével – 2 ha alatti telekméret esetén épület nem létesíthető;
 - f) a szőlőművelési ágban lévő területen – a g) pontban foglaltak kivételével – 2 ha és azt meghaladó telekméret esetén a szőlőtermelést, borászatot és a borturizmust szolgáló, a lakófunkciót is kielégítő épület építhető, és a beépített alapterület a telek 2%-át, és a 800 m2-t nem haladhatja meg;
-- g) a Balaton jogi partvonalával nem érintkező, szőlőműveléssel hasznosított 2 ha alatti területű telkekkel rendelkező tulajdonos – ha az egy borvidéken lévő telkeinek összterülete 5 ha-nál nagyobb – a szőlője művelésével, feldolgozásával, illetve ehhez kapcsolódó (nem szállodai célú) borturizmussal összefüggő építési tevékenysége engedélyezhető csak az egyik, a nemzeti park területének természeti és kezelt övezetén kívül lévő telkén. A beépíthető terület nagysága a beszámított telkek összterületének 1%-át, egyúttal a beépített telek beépítettsége a 25%-ot nem haladhatja meg. Az 5 ha-nál nagyobb összterület megállapításánál a kertgazdasági terület övezetén lévő telkek is beszámíthatóak, de építési jogot e telkekre csak a kertgazdasági terület övezeti előírásai szerint lehet szerezni. Az építési jog megszerzéséhez beszámított, de beépítésre nem került telkekre telekalakítási és építési tilalmat kell az építésügyi hatóság megkeresésére feljegyezni;
+- g) a Balaton jogi partvonalával nem érintkező, szőlőműveléssel hasznosított 2 ha alatti területű telkekkel rendelkező tulajdonos – ha az egy borvidéken lévő telkeinek összterülete 5 ha-nál nagyobb – a szőlője művelésével, feldolgozásával, illetve ehhez kapcsolódó (nem szállodai célú) borturizmussal összefüggő építési tevékenysége engedélyezhető csak az egyik, a nemzeti park területének természeti és kezelt övezetén kívül lévő telkén. A beépíthető terület nagysága a beszámított telkek összterületének 1%-át, egyúttal a beépített telkek beépítettsége a 25%-ot nem haladhatja meg. Az 5 ha-nál nagyobb összterület megállapításánál a kertgazdasági terület övezetén lévő telkek is beszámíthatóak, de építési jogot e telkekre csak a kertgazdasági terület övezeti előírásai szerint lehet szerezni. Az építési jog megszerzéséhez beszámított, de beépítésre nem került telkekre telekalakítási és építési tilalmat kell az építésügyi hatóság megkeresésére feljegyezni;
 - h) gyümölcsművelési ágban lévő területen 3 ha alatti telekméret esetén épület nem létesíthető;
 - i) gyümölcsművelési ágban lévő területen 3 ha és azt meghaladó telekméret esetén a termelést, feldolgozást szolgáló, a lakófunkciót is kielégítő épület építhető, és a beépített alapterület a telek 1%-át, és az egyes épületek alapterülete az 1000 m2-t nem haladhatja meg;
 - j) épületet létesíteni csak a legalább 80%-ban művelt telken lehet, ahol a beépítés feltételeként az a művelési ág fogadható el, amely a telek művelt területének 60%-án meghatározó, azon a vegyes művelésű telken, ahol egyik művelési ág sem éri el a 60%-ot, a legszigorúbb beépítési szabályokkal rendelkező művelési ágra vonatkozó előírás szerint lehet építeni;
-- k) állattartó telepet, a családi szükségletet meghaladó állattartást szolgáló épületet – a lovasturizmus céljait szolgáló épület kivételével – tómedertől legkevesebb 1000 méter, egyéb felszíni vizektől legkevesebb 200 méter távolságra lehet elhelyezni. A lovasturizmus céljait szolgáló építmények és műtárgyak elhelyezéséről a településrendezési eszközökben kell rendelkezni;
+- k) állattartó telepet, a családi szükségletet meghaladó állattartást szolgáló épületet – a lovasturizmus céljait szolgáló épület kivételével – tómedertől legkevesebb 1000 méter, egyéb felszíni vizektől legkevesebb 200 méter távolságra lehet elhelyezni. A lovasturizmus céljait szolgáló építmények és műtárgyak elhelyezéséről a településrendezési tervekben és a helyi építési szabályzatban kell rendelkezni;
 - l) lakókocsi, lakókonténer nem helyezhető el;
-- m) a környezetvédelmi és tájképvédelmi szempontból nélkülözhetetlen mezővédő, útvédő fásításokat a településrendezési eszközökben meghatározott módon kell telepíteni;
+- m) a környezetvédelmi és tájképvédelmi szempontból nélkülözhetetlen mezővédő, útvédő fásításokat a településrendezési tervekben és a helyi építési szabályzatban meghatározott módon kell telepíteni;
 - n) a vízfolyások menti 20-20 méteres sávban megtelepedett fásszárú növényzet védelmét a vízfolyások karbantartási munkáihoz szükséges feltételek biztosítása mellett kell megoldani.
 
 (2) Új gazdasági telephely, birtokközpont legalább 2 ha területű telken alakítható ki – parti és partközeli településen az adott településhez tartozó, a sem partinak, sem partközelinek nem minősülő településen pedig a birtokközpont építési helyéül szolgáló település és a szomszédos települések közigazgatási területéhez tartozó – legalább 50 ha összterületű, több telekből álló birtok esetén. A magterület, ökológiai folyosó és térségi jelentőségű tájképvédelmi terület övezetben szabályozott területeken a birtokközpont nem alakítható ki. A beépített terület nagysága a birtok összterületének 1%-át és a beépített telek területének 25%-át nem haladhatja meg.
 
-(3) A majorok és gazdasági telephelyek gazdasági célú hasznosítását a településrendezési eszközökben kell szabályozni gazdasági területként, ahol környezetre jelentős hatást nem gyakorló gazdasági tevékenység folytatható.
+(3) A majorok és gazdasági telephelyek gazdasági célú hasznosítását a településrendezési eszközökben kell szabályozni gazdasági területként, ahol környezetet nem zavaró gazdasági tevékenység folytatható.
 
 (4) Az övezetben az országos településrendezési és építési követelményekről szóló kormányrendeletben különleges beépítésre szánt terület települési területfelhasználási egységként meghatározott területek közül a nagy bevásárlóközpontok és nagy kiterjedésű kereskedelmi célú területek kialakítása nem engedélyezhető.
 
@@ -607,9 +595,9 @@ térségi hulladéklerakó hely nem jelölhető ki.
 - b) a beépíthető telek legkisebb nagysága 2000 m2 , kivéve, ha e törvény hatálybalépése előtt jóváhagyott a helyi építési szabályzat más mértéket állapított meg;
 - c) 1500 m2-nél kisebb telekre az e törvény hatálybalépése előtt jóváhagyott helyi építési szabályzat alapján sem lehet épületet építeni;
 - d) művelt telekre 3%-os beépítettséggel – a 39. § (1) bekezdés g) pontjában foglaltak kivételével – a műveléssel összefüggő gazdasági épületet lehet építeni;
-- e) a beépítési magasság a 4 métert, az építmény legmagasabb pontja a 6 métert nem haladhatja meg;
+- e) az építménymagasság a 4 métert, az építmény legmagasabb pontja a 6 métert nem haladhatja meg;
 - f) lakókocsi, lakókonténer nem helyezhető el;
-- g) az egyes településeken az övezet területének legfeljebb 10%-án a település helyi építési szabályzatában kijelölt, a település belterületéhez közvetlenül kapcsolódó területeken, legkevesebb 3000 m2 nagyságú művelt telken, legfeljebb 3%-os beépítettséggel lakóépület is elhelyezhető;
+- g) az egyes településeken az övezet területének legfeljebb 10%-án a település szabályozási tervében és helyi építési szabályzatában kijelölt, a település belterületéhez közvetlenül kapcsolódó területeken, legkevesebb 3000 m2 nagyságú művelt telken, legfeljebb 3%-os beépítettséggel lakóépület is elhelyezhető;
 - h) műveltnek az a telek minősül, amelynek legalább 80%-án intenzív kertészeti kultúra található;
 - i) szakrális építmény (kápolna, kereszt, kőkép stb.) a telek méretétől függetlenül elhelyezhető.
 
@@ -644,7 +632,7 @@ térségi hulladéklerakó hely nem jelölhető ki.
 
 44. § A kiváló termőhelyi adottságú erdőterület övezet (E-3) tekintetében az OTrT által meghatározott kiváló termőhelyi adottságú erdőterület országos övezetre vonatkozó övezeti előírások mellett a következő előírások érvényesek:
 
-- a) az övezetbe tartozó területeket az illetékes erdészeti hatóság állásfoglalása alapján a tényleges kiterjedésnek megfelelően a településrendezési eszközökben kell lehatárolni;
+- a) az övezetbe tartozó területeket az illetékes erdészeti hatóság állásfoglalása alapján a tényleges kiterjedésnek megfelelően a településrendezési tervekben kell lehatárolni;
 - b) az a) pontban lehatárolt területek a településrendezési eszközökben csak erdőterület települési területfelhasználási egységbe sorolhatóak.
 
 ### Turisztikai fejlesztési terület övezete
@@ -664,14 +652,14 @@ térségi hulladéklerakó hely nem jelölhető ki.
 - b) az erdőtelepítésre alkalmas területek övezetébe is besorolt földrészletek erdőterületként történő kijelöléséről a településrendezési eszközökben kell dönteni;
 - c) építeni csak a legalább 80%-ban szőlőműveléssel hasznosított telken, kizárólag a szőlőművelést, szőlőfeldolgozást, bortárolást vagy a borturizmust szolgáló épületet, illetve ahol az M-1 és az M-2 övezethez tartozó szabályozási előírások lehetővé teszik, lakófunkciót is kielégítő épületet lehet;
 - d) szakrális építmény (kápolna, kereszt, kőkép stb.), amely a szőlőhegyek tájképéhez hagyományosan hozzátartozó tájképformáló elem – szőlőműveléssel nem hasznosított területen is – a telek méretétől függetlenül elhelyezhető;
-- e) a szőlőművelés tényét a terület pontosan meghatározott százalékában az illetékes hegybíró nyilatkozatával kell igazolni.
+- e) a szőlőművelés tényét a terület pontosan meghatározott százalékában az illetékes hegybíró, ahol a hegyközség nem működik, a település jegyzője nyilatkozatával kell igazolni.
 
 ### A kiemelt fontosságú meglévő honvédelmi terület övezete
 
 46/A. § A kiemelt fontosságú meglévő honvédelmi terület övezet (K-1) tekintetében az OTrT-ben meghatározott kiemelt fontosságú meglévő honvédelmi terület országos övezetre vonatkozó övezeti előírások mellett a következő előírások alkalmazandók:
 
 - a) az övezetbe tartozó ingatlanok listáját a 2/6. számú melléklet tartalmazza;
-- b) a 2/6. számú mellékletben szereplő ingatlanokat a településrendezési eszközökben a tényleges kiterjedésüknek megfelelően le kell határolni;
+- b) a 2/6. számú mellékletben szereplő ingatlanokat a településrendezési tervekben a tényleges kiterjedésüknek megfelelően le kell határolni;
 - c) a lehatárolt területekre az OTrT kiemelt fontosságú meglévő honvédelmi területek országos övezetre vonatkozó szabályozási előírásai érvényesek.
 
 47–49. §
@@ -692,56 +680,52 @@ térségi hulladéklerakó hely nem jelölhető ki.
 
 - a)–c)
 
-55. § (1) A balatoni vízpart-rehabilitációs szabályozási követelményekkel érintett területen, amennyiben az érintett vízpart-rehabilitációs tanulmányterv és a településrendezési eszköz módosítása a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény hatálya alá tartozó kiemelt jelentőségű ügy tárgyát képező építési beruházás megvalósítása érdekében szükséges, a településrendezési eszköz módosítása – a (2) bekezdésben foglalt kivétel figyelembevételével – a vízpart-rehabilitációs tanulmányterv módosítása nélkül is elfogadható.
-
-(2) Az (1) bekezdésben megjelölt esetekben a településrendezési eszköz módosítása során a vízpart-rehabilitációs tanulmánytervben szereplő beépítetlenül megőrzendő parti területsáv megtartásáról gondoskodni kell.
+55. §
 
 56. § (1) Ahol e törvény a környezet, a természet, az erdők, a termőföld, az épített környezet, a kulturális javak védelmére és a műemlékvédelemre, valamint a vízgazdálkodásra vonatkozó külön jogszabályokban meghatározottaknál szigorúbb rendelkezéseket tartalmaz, e törvény rendelkezéseit kell alkalmazni.
 
 (2)
 
-57. § A Balaton kiemelt üdülőkörzetének területén szabálytalanul megépült építményre, építményrészre fennmaradási engedély csak akkor adható, ha az az épített környezet alakításáról és védelméről szóló 1999. évi CXV. törvénnyel módosított 1997. évi LXXVIII. törvény 48/A. § (1) bekezdésében foglaltakon túlmenően e törvény előírásainak is megfelel vagy szabályossá tehető.
+57. § A Balaton kiemelt üdülőkörzetének területén szabálytalanul megépült építményre, építményrészre fennmaradási engedély csak akkor adható, ha az az épített környezet alakításáról és védelméről szóló 1999. évi CXV. törvénnyel módosított 1997. évi LXXVIII. törvény 48. § (1) és (2) bekezdésében foglaltakon túlmenően e törvény előírásainak is megfelel vagy szabályossá tehető.
 
 58. § (1) Felhatalmazást kap a Kormány, hogy
 
-- a) a balatoni vízpart-rehabilitációs szabályozási, valamint a partvonal-szabályozási követelményeket,
+- a) a balatoni vízpart-rehabilitációs szabályozási követelményeket,
 - b) a balatoni vízpart-rehabilitációs szabályozási követelményekkel érintett területeken lévő állami tulajdonú ingatlanok vagyonkezelésére, hasznosítására, valamint értékesítésére vonatkozó követelményeket, és
 - c) az 59. § (11) bekezdése szerinti – a Balatoni Kistelepülések Szennyvízkezelési Programjában biztosítandó – támogatás odaítélésének feltételeit, igénylésének és folyósításának rendjét
 
 rendeletben szabályozza.
 
-(2) Felhatalmazást kap a területrendezésért felelős miniszter, hogy
+(2) Felhatalmazást kap a területfejlesztésért és területrendezésért felelős miniszter, hogy a vízpart-rehabilitációs tanulmánytervek első felülvizsgálatát megelőzően
 
 - a) a vízpart-rehabilitációs szabályozási követelményekkel érintett területeket kijelölje;
-- b) a vízpart-rehabilitációs szabályozási követelmények alapján a településrendezési eszközök felülvizsgálatához szükséges tanulmányterveket rendelettel fogadja el.
+- b) a vízpart-rehabilitációs szabályozási követelmények alapján a településrendezési tervek felülvizsgálatához szükséges tanulmányterveket rendelettel fogadja el.
 
-(3) Felhatalmazást kap a vízgazdálkodásért felelős miniszter, hogy a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének első felülvizsgálatát megelőzően a környezetvédelemért és a természetvédelemért, valamint a településrendezésért és területrendezésért felelős miniszter egyetértésével a partvonal-szabályozási terveket rendelettel fogadja el.
+(3) Felhatalmazást kap a vízgazdálkodásért felelős miniszter, hogy a vízpart-rehabilitációs tanulmánytervek első felülvizsgálatát megelőzően a partvonal-szabályozási terveket rendelettel fogadja el.
 
-(4)
+(4) Felhatalmazást kap a területfejlesztésért és területrendezésért felelős miniszter, valamint a vízgazdálkodásért felelős miniszter, hogy a vízpart-rehabilitációs tanulmánytervek első felülvizsgálatát követően a vízpart-rehabilitációs szabályozási követelményekkel érintett területeket együttes rendelettel kijelölje, valamint a partvonal-szabályozási és a vízpart-rehabilitációs terveket elfogadja.
 
-(5) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a kultúráért, a környezet- és természetvédelemért, valamint a turizmusért felelős miniszterrel egyetértésben a szőlő termőhelyi kataszteri területbe tartozó, kiemelkedő értékű tájelemet képviselő – történeti, termelési és turisztikai szempontból – egyedi értékű dűlőket lehatárolja, és e területek kivételes értékeinek megőrzésére vonatkozó követelményeket rendeletben szabályozza.
+(5) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a kulturális örökség védelméért, a környezet- és természetvédelemért, valamint a turisztikáért felelős miniszterrel egyetértésben a szőlő termőhelyi kataszteri területbe tartozó, kiemelkedő értékű tájelemet képviselő – történeti, termelési és turisztikai szempontból – egyedi értékű dűlőket lehatárolja, és e területek kivételes értékeinek megőrzésére vonatkozó követelményeket rendeletben szabályozza.
 
-59. § (1) A Balaton kiemelt üdülőkörzet parti településein a településrendezési eszközöket a vízpart-rehabilitációs szabályozási követelményeknek megfelelően, a vízpart-rehabilitációval érintett területekre készülő vízpart-rehabilitációs tanulmánytervekkel összhangban kell felülvizsgálni és módosítani.
+59. § (1) A Balaton kiemelt üdülőkörzet parti településein a településrendezési terveket és a helyi építési szabályzatokat a vízpart-rehabilitációs szabályozási követelményeknek megfelelően, a vízpart-rehabilitációval érintett területekre készülő vízpart-rehabilitációs tanulmánytervekkel, első felülvizsgálatukat követően a partvonal-szabályozási és vízpart-rehabilitációs tervekkel összhangban kell felülvizsgálni és módosítani.
 
-(2)
+(2)–(3)
 
-(3)
+(4) A vízpart-rehabilitációs tanulmányterveket legkésőbb 10 év elteltével felül kell vizsgálni. A partvonal-szabályozási terveket első alkalommal a vízpart-rehabilitációs tanulmánytervek felülvizsgálatával egyidejűleg kell felülvizsgálni.
 
-(4)
-
-(5) A partvonal-szabályozási terveket szükség szerint, de legalább 10 évenként felül kell vizsgálni, és szükség szerint módosítani.
+(5) A partvonal-szabályozási és vízpart-rehabilitációs terveket szükség szerint, de legalább 10 évenként felül kell vizsgálni, és szükség szerint módosítani.
 
 (6) A partvonal-szabályozási tervek első felülvizsgálatáig a kikötésre alkalmas partszakaszok, valamint a szabályozási partvonal tekintetében a vízpart-rehabilitációs tanulmánytervekben foglaltakat kell irányadónak tekinteni.
 
-(7) A 2003. december 3-án az ingatlan-nyilvántartásban, vagy a hatályos településrendezési eszközökben kemping és strand települési területfelhasználási egységbe sorolt kempingek és a strandok területének átsorolására és beépíthetőségére, valamint a strandok területének tekintetében előírt telekfelosztásra és telekhatár-rendezésre vonatkozó vízpart-rehabilitációs tanulmánytervben foglalt előírások és szabályozási elemek helyett e törvény megfelelő rendelkezéseit kell alkalmazni a településrendezési tervezés során.
+(7) A vízpart-rehabilitációs tanulmánytervek első felülvizsgálatának megtörténtéig a 2003. december 3-án az ingatlan-nyilvántartásban, vagy a hatályos településrendezési tervben kemping és strand települési területfelhasználási egységbe sorolt kempingek és a strandok területének átsorolására és beépíthetőségére, valamint a strandok területének tekintetében előírt telekfelosztásra és telekhatár-rendezésre vonatkozó vízpart-rehabilitációs tanulmánytervben foglalt előírások és szabályozási elemek helyett e törvény megfelelő rendelkezéseit kell alkalmazni a településrendezési tervezés során.
 
-(8)
+(8) A Balaton Kiemelt Üdülőkörzet Területrendezési Tervét legalább 10 évente felül kell vizsgálni.
 
-(9) A kiemelt üdülőkörzethez újonnan csatlakozó települések érvényes településrendezési eszközeit a csatlakozást követő 7 éven belül kell felülvizsgálni és módosítani.
+(9) A kiemelt üdülőkörzethez újonnan csatlakozó települések érvényes településrendezési terveit és helyi építési szabályzatait a csatlakozást követő 4 éven belül kell felülvizsgálni és módosítani.
 
-(10) A kiemelt üdülőkörzethez újonnan csatlakozó, településrendezési tervvel nem rendelkező települések településrendezési eszközeit a csatlakozást követő 7 éven belül kell elkészíteni.
+(10) A kiemelt üdülőkörzethez újonnan csatlakozó, településrendezési tervvel nem rendelkező települések településrendezési terveit és helyi építési szabályzatait a csatlakozást követő 4 éven belül kell elkészíteni.
 
-(11) A Kormány kidolgozza a Balatoni Kistelepülések Szennyvízkezelési Programját, amely biztosítja a kiemelt üdülőkörzet partinak és partközelinek nem minősülő, szennyvízelvezetési agglomerációkba nem tartozó települései szennyvízkezelésének 2018. december 31-ig történő megvalósítását.
+(11) A Kormány kidolgozza a Balatoni Kistelepülések Szennyvízkezelési Programját, amely biztosítja a kiemelt üdülőkörzet partinak és partközelinek nem minősülő, szennyvízelvezetési agglomerációkba nem tartozó települései szennyvízkezelésének 2012. december 31-ig történő megvalósítását.
 
 60. §
 
@@ -766,8 +750,6 @@ A Balaton kiemelt üdülőkörzethez tartozó települések
 8. Badacsonytördemic
 
 9. Balatonakali
-
-9a. Balatonakarattya
 
 10. Balatonalmádi
 
@@ -1131,8 +1113,6 @@ A Balaton kiemelt üdülőkörzetbe tartozó parti és partközeli települések
 
 7. Balatonakali
 
-7a. Balatonakarattya
-
 8. Balatonalmádi
 
 9. Balatonberény
@@ -1431,7 +1411,7 @@ Országos törzshálózati vasútvonalak:
 
 I. Tervezett nagysebességű vasútvonalak OTrT szerint:
 
-• (Horvátország) – Gyékényes térsége – Budapest Liszt Ferenc Nemzetközi Repülőtér – Záhony térsége – (Ukrajna)
+• (Horvátország) – Gyékényes térsége – Budapest (Ferihegy) – Záhony térsége – (Ukrajna)
 
 II. A transz-európai vasúti áruszállítási hálózat részeként működő országos törzshálózati vasútvonal OTrT szerint:
 

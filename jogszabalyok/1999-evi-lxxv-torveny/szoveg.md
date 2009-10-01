@@ -14,16 +14,16 @@ Az Országgyűlés a szervezett bűnözés, valamint az azzal összefüggő egye
 
 (2) Az e törvény egyes rendelkezéseivel érintett hatósági ügyekben soron kívül kell eljárni és határozatot hozni.
 
-#### 2. §
+2. §
 
-#### 3. §
+3. § Az e törvény alapján kirótt közrendvédelmi bírságot (12. §), valamint a légijármű üzemeltetőjével szemben a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerint kiszabható közrendvédelmi bírságot kormányrendeletben meghatározott eljárási szabályok szerint, az ott megjelölt célra lehet felhasználni.
 
 ### Értelmező rendelkezések
 
 4. § E törvény alkalmazásában
 
 - a) üzlet: a rendszeresen (állandóan vagy ideiglenes jelleggel) nyitva tartó kereskedelmi, illetve vendéglátó, idegenforgalmi és szálláshely-szolgáltató értékesítő hely;
-- b) üzemeltető: az üzletet a kereskedelemről szóló 2005. évi CLXIV. törvény 3. § (6) bekezdés a) pontjában meghatározott engedély, vagy b) pontjában meghatározott bejelentés alapján működtető személy;
+- b) üzemeltető: a működési engedéllyel rendelkező személy;
 - c) foglalkoztatott: az üzletben munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében munkát végző személy;
 - d) az üzlet működésével függ össze: az a cselekmény, amely az üzlet területén az üzemeltető, foglalkoztatott tudomásával vagy közreműködésével valósul meg, illetve amelyet az üzemeltetőtől, a foglalkoztatottól elvárható, a rendes üzletmenet biztosítása érdekében szükséges intézkedés elmulasztása tesz lehetővé, feltéve, hogy – ez utóbbi esetben – az üzemeltető tud, vagy a tőle elvárható gondosság tanúsítása esetén tudhatott volna a foglalkoztatott mulasztásáról;
 - e) prostituált: az a személy, aki anyagi ellenszolgáltatásért szexuális szolgáltatást nyújt, függetlenül az ellenszolgáltatás nyújtásának időpontjától, illetve attól, hogy az ellenszolgáltatás a szexuális szolgáltatás igénybevevőjétől vagy – a szolgáltatásra tekintettel – más személytől származik;
@@ -35,77 +35,132 @@ Az Országgyűlés a szervezett bűnözés, valamint az azzal összefüggő egye
 - k) szexuális szolgáltatásra felajánlkozás: a prostituáltnak közterületen vagy nyilvános helyen máshoz címzett, a szexuális szolgáltatása nyújtására irányuló szóbeli felhívása (aktív felajánlkozás), a prostituáltnak a szexuális szolgáltatásra irányuló ráutaló magatartása (passzív felajánlkozás), illetve a szexuális szolgáltatást igénybe venni kívánó felhívásának elfogadása;
 - l) a szexuális szolgáltatás zaklató jellegű felajánlása: más személy mozgásának, illetve a más személy által vezetett jármű elindulásának, mozgásának megakadályozása, megzavarása, agresszív, szeméremsértő szóbeli felhívás, illetőleg a prostituált erre utaló magatartása;
 - m) a szexuális szolgáltatásra felajánlkozás eltűrése: a nyilvános helyet üzemeltető, vagy az ott foglalkoztatott olyan magatartása, amely ösztönzőleg hat a prostituáltak folyamatos tevékenységére;
-- n) sajtótevékenységet folytató, illetve egyéb tájékoztatást, hír- vagy médiaszolgáltatást nyújtó: a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény, valamint a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény hatálya alá tartozó sajtótermék, médiaszolgáltatás, kiegészítő médiaszolgáltatás, vagy e törvények hatálya alá nem tartozó könyv, röplap, egyéb szöveges kiadvány, a zeneművet, grafikát, rajzot vagy fotót tartalmazó kiadvány, nyilvános közlésre szánt műsoros filmszalag, videokazetta, videolemez, hangszalag és hanglemez, továbbá bármely más, a nyilvános közzététel szándékával készült tájékoztatást vagy műsort tartalmazó technikai eszköz előállításával, kiadásával és nyilvános közlésével kapcsolatos tevékenységet folytató természetes személy, egyéni vállalkozó, jogi személy, valamint jogi személyiséggel nem rendelkező társaság;
+- n) sajtótevékenységet folytató, illetve egyéb tájékoztatást, hír- vagy műsorszolgáltatást nyújtó: a sajtóról szóló törvény, valamint a rádiózásról és televíziózásról szóló törvény hatálya alá tartozó, időszaki lap, rádió- és televízió-műsor, könyv, röplap, egyéb szöveges kiadvány, a zeneművet, grafikát, rajzot vagy fotót tartalmazó kiadvány, nyilvános közlésre szánt műsoros filmszalag, videokazetta, videolemez, hangszalag és hanglemez, továbbá bármely más, a nyilvános közzététel szándékával készült tájékoztatást vagy műsort tartalmazó technikai eszköz előállításával, kiadásával és nyilvános közlésével kapcsolatos tevékenységet folytató természetes személy, egyéni vállalkozó, jogi személy, valamint jogi személyiséggel nem rendelkező társaság;
 - o) nyilvános hely: közterületnek nem tekinthető, mindenki számára nyitva álló hely;
-- p)–s)
-- t)
-- u)
-- v)–x)
+- p) kábítószer-kereskedelemmel függ össze: az ország területére behozatallal, az ország területéről kivitellel, az ország területén átvitellel, kínálással, átadással, forgalomba hozatallal, illetve kereskedéssel elkövetett, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 282–282/C. §-ába ütköző visszaélés kábítószerrel;
+- q) bűnös kapcsolat: a felderítés alá vont személlyel való olyan kapcsolat, amely tekintetében a Btk. 326. §-ába ütköző orgazdaság vagy a Btk. 244. §-ába ütköző bűnpártolás bűncselekményének gyanúja merül fel.
+- r) illegális fegyverkereskedelemmel függ össze: a visszaélés lőfegyverrel vagy lőszerrel (Btk. 263/A. §), visszaélés robbanóanyaggal vagy robbantószerrel (Btk. 263. §);
+- s) szervezett bűnözéssel összefüggő bűncselekmény:
+  - sa) a Btk. 263/C. §-ába ütköző bűnszervezetben részvétel bűntette,
+  - sb) a bűnszervezetben (Btk. 137. § 8. pont) elkövetett öt évi vagy ezt meghaladó szabadságvesztéssel büntetendő szándékos bűncselekmények,
+  - sc) az emberkereskedelem (Btk. 175/B. §) bűntette,
+  - sd) a Btk. 250–254. §-aiba ütköző vesztegetés minősített esetei bűntette, a Btk. 255. §-ába ütköző vesztegetés bűntette, a Btk. 256. §-ába ütköző befolyással üzérkedés minősített eseteinek bűntette, valamint a Btk. 258/B–258/D. §-aiba ütköző vesztegetés nemzetközi kapcsolatban minősített eseteinek bűntette,
+  - se) a Btk. 259. §-ába ütköző közveszélyokozás bűntette, a Btk. 261. §-ába ütköző terrorcselekmény bűntette, a Btk. 262. §-ába ütköző légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése bűntette, a Btk. 263/A. §-ának (1) és (3) bekezdésébe ütköző visszaélés lőfegyverrel vagy lőszerrel bűntette, a Btk. 263/B. §-ába ütköző visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, a Btk. 264. §-ába ütköző visszaélés radioaktív anyaggal bűntette, a Btk. 264/C. §-ába ütköző visszaélés nemzetközi szerződés által tiltott fegyverrel bűntette, a Btk. 270/A. §-ának (3) bekezdésébe ütköző közveszéllyel fenyegetés bűntette, a Btk. 274. §-ának (1) bekezdésébe ütköző közokirat-hamisítás bűntette, a Btk. 282–282/B. §-ába ütköző visszaélés kábítószerrel bűncselekmény,
+  - sf) a Btk. 303–303/A. §-ába ütköző pénzmosás bűntette, a Btk. 304. §-ába ütköző pénzhamisítás bűntette és a Btk. 304/A. §-ába ütköző pénzhamisítás elősegítésének vétsége,
+  - sg) a bűnszövetségben elkövetett emberi test tiltott felhasználása [Btk. 173/I. § (3) bekezdés b) pont], emberrablás [Btk. 175/A. § (2) bekezdés a) pont], közérdekű üzem működésének megzavarása [Btk. 260. § (2) bekezdés], visszaélés robbanóanyaggal vagy robbantószerrel [Btk. 263. § (3) bekezdés b) pont], visszaélés nukleáris létesítmény üzemeltetésével [Btk. 264/A. § (2) bekezdés], egyedi azonosító jel meghamisítása [Btk. 277/A. § (2) bekezdés b) pont], bélyeghamisítás [Btk. 307. § (3) bekezdés a) pont], csempészet [Btk. 312. § (3) bekezdés b) pont, (4) bekezdés b) pont], készpénz-helyettesítő fizetési eszközzel visszaélés [Btk. 313/C. § (4) bekezdés b) pont, (5) bekezdés b) pont], rablás [Btk. 321. § (3) bekezdés c) pont, (4) bekezdés b) és c) pontjai], illetve zsarolás [Btk. 323. § (2) bekezdés a) pontja] bűntette.
+- t) felderítés alá vont személy: akivel szemben az együttműködő szervek a szervezett bűnözéssel összefüggő bűncselekmény gyanúja miatt felderítő tevékenységet végeznek;
+- u) együttműködő szerv: a 4/A. § (3) bekezdésében meghatározott szerv.
 
-### I/A. Fejezet
+### I/A. Fejezet — A SZERVEZETT BŰNÖZÉS ELLENI KOORDINÁCIÓ
 
-4/A. § (1) Az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: Rendőrség) a büntetőeljárás befejezéséig, de legfeljebb három havi időtartamra az üzletet ideiglenesen – a (2) és a (3) bekezdésben meghatározott szempontokra figyelemmel – bezárathatja, ha megállapítja, hogy olyan, a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 176. §-a szerinti kábítószer-kereskedelem, 182. §-a szerinti kábítószer készítésének elősegítése, 184. §-a szerinti tudatmódosító anyaggal visszaélés vagy 185. §-a szerinti teljesítményfokozó szerrel visszaélés bűncselekmény elkövetése miatt indult büntetőeljárás, amelyet az üzlet területén követtek el.
+4/A. § (1) A szervezett bűnözés megelőzésének, megszakításának, felderítésének elősegítése céljából a szervezett bűnözés elleni fellépés céljából gyűjtött adatok gyűjtésének, felhasználásának és ellenőrzésének koordinációjáért felelős szerv (a továbbiakban: szervezett bűnözés elleni koordinációs központ)
 
-(2) A Rendőrség az (1) bekezdés szerinti döntéshozatali eljárásában figyelembe veszi
+- a) gyűjti az együttműködő szervektől érkezett adatokat; megvizsgálja, hogy azok a törvény 4/B–4/C. §-aiban felsorolt adatcsoportok valamelyikébe tartoznak-e, ellenkező esetben az adatot a küldő szerveknek visszaküldi,
+- b) figyelemmel kíséri, hogy az együttműködő szerveknél nem folyik-e párhuzamos felderítés, ennek észlelése esetén az érintett szerveket a párhuzamos felderítésről értesíti,
+- c) az együttműködő szervek megkeresésére, a rájuk vonatkozó törvények szerint általuk kezelhető adatok körének figyelembevételével információkat szolgáltat,
+- d) megvizsgálja, hogy a beérkezett adatra vonatkozóan más együttműködő szervtől nem érkezett-e információs igény, és amennyiben a jogszabályi feltételek fennállnak, az igénylő szerveknek az adatot továbbítja,
+- e) az együttműködő szervek részéről érkezett adatokat – azok elemzését, értékelését követően – a hatáskörrel és illetékességgel rendelkező együttműködő szerveknek küldi meg, az elvégzett elemző-értékelő tevékenység eredményeként – szükség szerint – felderítési cselekményre, nyomozási cselekményre, intézkedésre tesz javaslatot,
+- f) figyelemmel kíséri, hogy a beérkezett adathoz kapcsolható, azt kiegészítő vagy azzal összefüggő adat nem áll-e rendelkezésre, ennek észlelése esetén az érintett együttműködő szerveket az adatok összefüggéseiről értesíti,
+- g) a szervezett bűnözésben szerepet játszó bűnözői csoportok alakulásának és megszűnésének, egymáshoz való viszonyának figyelemmel kísérésével, jogellenesen szerzett javaik legalizálását szolgáló vállalkozásaik elemzésével segítséget nyújt az ellenük való fellépéshez.
 
-- a) az üzlet működéséért felelős személynek az (1) bekezdés szerinti bűncselekmény üzlet területén történt elkövetésével kapcsolatos jó- vagy rosszhiszemű magatartását, illetve a bűncselekmény felderítése érdekében a hatóság felé tanúsított együttműködését vagy ennek hiányát, valamint
-- b) az (1) bekezdés szerinti bűncselekménynek az üzlet területén történő elkövetése megelőzése érdekében az üzlet működési engedélyének a jogosultja által megtett intézkedéseket.
+(2) A szervezett bűnözés elleni koordinációs központ a szervezett bűnözés elleni stratégiai döntések meghozatalának elősegítése céljából
 
-(3) Az üzlet (1) bekezdés alapján történő ideiglenes bezáratásának abban az esetben van helye, ha a Rendőrség megállapítja, hogy az (1) bekezdés szerinti bűncselekménynek az üzlet területén történt elkövetése miatt legalább második alkalommal indult büntetőeljárás.
+- a) a rendelkezésre álló adatok elemzésének eredményeként személyazonosításra alkalmatlan statisztikai adatok szolgáltatásával segítséget nyújt a szervezett bűnözés elleni kormányzati döntések meghozatalához,
+- b) figyelemmel kíséri a szervezett bűnözés terén jelentkező tendenciákat, új jelenségeket, ezekről elemzéseket, tanulmányokat készít.
 
-(4) A Rendőrség az (1) bekezdés szerinti ideiglenes bezárás elrendeléséről szóló határozatát azonnal végrehajthatóvá nyilváníthatja az általános közigazgatási rendtartásról szóló törvény szerint.
+(3) A szervezett bűnözés elleni koordinációs központ részére e törvényben meghatározottak szerint
 
-#### 4/B. §
+- a) a rendőrség központi szerve,
+- b) a Rendvédelmi Szervek Védelmi Szolgálata,
+- c)
+- d) a Vám- és Pénzügyőrség,
+- e) a Nemzetbiztonsági Hivatal,
+- f) az Információs Hivatal,
+- g) a Nemzetbiztonsági Szakszolgálat,
+- h) a Katonai Biztonsági Hivatal, és
+- i) a Katonai Felderítő Hivatal
 
-#### 4/C. §
+szolgáltat adatokat, illetve jogosult onnan adatok igénylésére.
 
-#### 4/D. §
+(4) A szervezett bűnözés elleni koordinációs központ feladatainak ellátása során az együttműködő szervek országos parancsnokai által erre kijelölt központi szerveivel működik együtt.
 
-#### 4/E. §
+### Adatkezelés
 
-#### 4/F. §
+4/B. § (1) A szervezett bűnözés elleni koordinációs központ az e törvényben meghatározott feladatainak ellátása céljából az együttműködő szervek adatszolgáltatásából származó adatokat, ezen belül a következő személyes adatokat kezeli:
 
-#### 4/G. §
+- a) azon felderítés alá vont személy természetes személyazonosító adatait, valamint a személyének azonosítására alkalmas egyéb adatokat – ide nem értve a személyazonosító, adóazonosító és társadalombiztosító azonosító jelet, valamint az ujjnyomatot, az arcfényképet és a DNS-t –, akivel szemben a szervezett bűnözéssel összefüggő bűncselekmény gyanúja merül fel;
+- b) azon személy bűnös kapcsolatainak természetes személyazonosító adatait, valamint a kapcsolat jellegére vonatkozó adatokat, akivel szemben a szervezett bűnözéssel összefüggő bűncselekmény gyanúja merül fel.
 
-#### 4/H. §
+(2) Az együttműködő szervek mint adatátadók, a hatáskörükbe tartozó a szervezett bűnözéssel összefüggő bűncselekmény felderítése és megelőzése során kezelésükbe került és a szervezett bűnözés elleni koordinációs központ törvényes feladatainak ellátásához szükséges adatokat adják át a szervezett bűnözés elleni koordinációs központnak.
 
-#### 4/I. §
+4/C. § (1) A szervezett bűnözés elleni koordinációs központ az együttműködő szervektől átvett – a szervezett bűnözéssel összefüggő bűncselekményekre vonatkozó – adatokat kezeli.
 
-#### 4/J. §
+(2) A szervezett bűnözéssel összefüggő bűncselekményekre vonatkozó adatok alatt a felderítés során felmerült, illetőleg a gyanúval érintett bűncselekménnyel, az elkövetés módszerével és eszközével összefüggő adatokat – beleértve az ezzel összefüggésben szerzett javakra és azok legalizálására szolgáló vállalkozásokra és egyéb módszerekre, eszközökre vonatkozó adatokat – kell érteni.
+
+(3) A szervezett bűnözéssel összefüggő bűncselekményekre vonatkozó adatok az adatot átadó együttműködő szervre irányadó adatkezelési határidő elteltéig kezelhetők.
+
+4/D. § (1) Az együttműködő szervek a büntetőeljárás elrendelését megelőzően birtokukba került, a szervezett bűnözéssel összefüggő bűncselekményekre vonatkozó adatokat kötelesek késedelem nélkül a szervezett bűnözés elleni koordinációs központnak megküldeni. Az adatátadás, -átvétel tényét az adat átvevőjénél és átadójánál dokumentálni kell.
+
+(2) A Nemzetbiztonsági Szakszolgálat a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 9. § d) pontjában foglalt feladatkörének ellátása során birtokába került, szervezett bűnözéssel összefüggő bűncselekményekre vonatkozó adatok körébe eső információk szolgáltatására köteles.
+
+(3) A kötelező adatszolgáltatás alól kivételesen, egyedi esetben, a forrás életének, testi épségének közvetlen veszélyeztetettsége esetén az együttműködő szervet irányító miniszter felmentést adhat.
+
+(4) Az együttműködő szerv nemzetbiztonsági vagy kiemelt súlyú bűnüldözési érdekre tekintettel az átadott adat más együttműködő szervnek történő megküldését megtilthatja, korlátozhatja, előzetes hozzájárulásához kötheti.
+
+(5) A megküldött adattal összefüggésben közölni kell:
+
+- a) az adatszolgáltató szerv megnevezését,
+- b) az adatkezelés jogalapját, határidejét, valamint a határidő módosulását,
+- c) az adat keletkezésének idejét, valamint azt, hogy az adat titkos információgyűjtés eredménye-e vagy sem,
+- d) az adat ellenőrzöttségét, továbbá hogy az tényeken, becsléseken, következtetéseken alapul-e,
+- e) a felhasználás korlátozására vonatkozó tájékoztatást.
+
+4/E. § (1) Az együttműködő szerv, valamint a Legfőbb Ügyészség szervezett bűnözéssel összefüggő bűncselekmények miatti büntetőeljárás megindításának kezdeményezéséről, illetve a büntetőeljárás megindításának, valamint megszüntetésének tényéről, továbbá a büntetőeljárás alapjául szolgáló bűncselekmény minősítésének megváltozásáról a szervezett bűnözés elleni koordinációs központot tájékoztatja.
+
+(2) A büntetőeljárás megindítását követően az együttműködő szervtől és a Legfőbb Ügyészségtől a szervezett bűnözés elleni koordinációs központ az adattal érintett bűncselekmény miatti büntetőeljárás megindításának tényére, illetve az eljáró hatóságra vonatkozóan igényelhet adatokat, amelyek alapján az együttműködő szerv a törvényben meghatározott adatkörben köteles adatszolgáltatást teljesíteni.
+
+4/F. § (1) Az együttműködő szervek, valamint a Legfőbb Ügyészség törvényben meghatározott felderítési és nyomozási feladataik ellátása céljából a rájuk vonatkozó törvény alapján általuk kezelhető adatok körét illetően, a konkrét cél megjelölésével a szervezett bűnözés elleni koordinációs központtól adatot igényelhetnek.
+
+(2) Az igénylő kérheti az adatnak meghatározott szempontok szerinti elemzését, értékelését is.
+
+(3) Az együttműködő szerv kérésére – e törvény, valamint az adatigénylőre vonatkozó törvény keretei között – a szervezett bűnözés elleni koordinációs központ adatot szolgáltat.
+
+4/G. § (1) Az átvett adatok jogszerű kezeléséért az átvevő szerv tartozik felelősséggel.
+
+(2) A szervezett bűnözés elleni koordinációs központ által kezelt adatot haladéktalanul törölni kell, ha
+
+- a) a törvény 4/C. §ának (3) bekezdésében meghatározott adatkezelési idő letelt,
+- b) bíróság vagy az adatvédelmi biztos az adatvédelmi eljárás során az adat törlését elrendelte,
+- c) az adat kezelése szükségtelen vagy jogellenes.
+
+(3) Az adatkezeléssel érintett személynek a róla kezelt adatok megismerésére irányuló kérelmének teljesítését a szervezett bűnözés elleni koordinációs központ bűnüldözési, illetve nemzetbiztonsági érdekből megtagadhatja.
+
+4/H. § (1) A szervezett bűnözés elleni koordinációs központ személyi állományából adatvédelmi felelőst kell kijelölni.
+
+(2) A szervezett bűnözés elleni koordinációs központ vezetője az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 6. § (1) bekezdés z) pontja alapján minősítésre jogosult személy, gyakorolja az ezzel kapcsolatos jogokat és kötelezettségeket.
 
 ### KÜLÖNÖS RENDELKEZÉSEK
 
-### II. Fejezet — Az üzletek működésével összefüggő
+### II. Fejezet — Az üzletek működésével összefüggőegyes közrendvédelmi szabályok
 
-egyes közrendvédelmi szabályok
+5. § (1) A települési önkormányzat jegyzője (a továbbiakban: jegyző) az üzletet közbiztonsági érdekből a büntető- vagy szabálysértési eljárás befejezéséig, de legfeljebb egy évi időtartamra – a nyomozó, illetőleg a szabálysértési hatóság kezdeményezésére – ideiglenesen bezárathatja, ha megállapítja, hogy az üzlet működésével összefüggésben az üzlet üzemeltetőjével vagy foglalkoztatottjával szemben önbíráskodás (Btk. 273. §), csalás (Btk. 318. §), rablás (Btk. 321. §), kifosztás (Btk. 322. §), zsarolás (Btk. 323. §) elkövetése miatt büntető-, illetve szabálysértési eljárás indult.
 
-5. § (1) A települési önkormányzat jegyzője (a továbbiakban: jegyző) közbiztonsági érdekből, a 4/A. § szerinti határozat hiányában – az ügyészség, a nyomozó hatóság, illetve a szabálysértési hatóság kezdeményezésére –
+(2) A jegyző, a nyomozó, illetve a szabálysértési hatóság javaslatára az (1) bekezdésben meghatározott érdekből és időtartamra az üzletet ideiglenesen akkor is bezárhatja, ha az üzlet működésével összefüggésben emberrablás (Btk. 175/A. §), emberkereskedelem (Btk. 175/B. §), embercsempészés (Btk. 218. §), üzletszerű kéjelgés elősegítése (Btk. 205. §), kitartottság (Btk. 206. §), kerítés (Btk. 207. §), visszaélés kábítószerrel (Btk. 282–282/B. §), vagy a szabálysértésekről szóló 1999. évi LXIX. törvény (a továbbiakban: Sztv.) 143. §-ában meghatározott tiltott kéjelgés, valamint a szexuális szolgáltatásra való felhívás tilalma (Sztv. 144. §) miatt indul büntető- vagy szabálysértési eljárás.
 
-- a) a büntető- vagy a szabálysértési eljárás befejezéséig, de legfeljebb egy évi időtartamra az üzletet ideiglenesen bezárathatja, ha megállapítja, hogy az üzlet működésével összefüggésben
-  - aa) 2013. június 30-ig hatályban volt emberrablás (1978. évi IV. törvény 175/A. §), emberkereskedelem (1978. évi IV. törvény 175/B. §), üzletszerű kéjelgés elősegítése (1978. évi IV. törvény 205. §), kitartottság (1978. évi 206. §), kerítés (1978. évi IV. törvény 207. §), embercsempészés (1978. évi IV. törvény 218. §), önbíráskodás (1978. évi IV. törvény 273. §), visszaélés kábítószerrel (1978. évi IV. törvény 282–282/B), csalás (1978. évi IV. törvény 318. §), rablás (1978. évi IV. törvény 321. §), kifosztás (1978. évi IV. törvény 322. §), zsarolás (1978. évi IV. törvény 323. §) elkövetése miatt büntetőeljárás indult,
-  - ab) a Btk. 176. §-a szerinti kábítószer-kereskedelem, 182. §-a szerinti kábítószer készítésének elősegítése, 184. §-a szerinti tudatmódosító anyaggal visszaélés, 185. §-a szerinti teljesítményfokozó szerrel visszaélés, 190. §-a szerint emberrablás, 192. §-a szerinti emberkereskedelem és kényszermunka, 200. §-a szerinti kerítés, 201. §-a szerinti prostitúció elősegítése, 202. §-a szerinti kitartottság, 353. §-a szerinti embercsempészés, 365. §-a szerinti rablás, 366. §-a szerinti kifosztás, 367. §-a szerinti zsarolás, 368. §-a szerinti önbíráskodás, illetve 373. §-a szerinti csalás bűncselekmény elkövetése miatt büntetőeljárás indult és a b) pont alkalmazásának nincs helye,
-  - ac) a 2012. április 15-ig hatályban volt tiltott kéjelgés [a szabálysértésekről szóló 1999. évi LXIX. törvény (a továbbiakban: 1999. évi LXIX. törvény) 143. §], valamint a szexuális szolgáltatásra való felhívás tilalma (1999. évi LXIX. törvény 144. §) elkövetése miatt szabálysértési eljárás indult, vagy
-  - ad) a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 172. §-a szerinti tiltott prostitúció, illetve 184. §-a szerinti szexuális szolgáltatásra való felhívás tilalma szabálysértés miatt szabálysértési eljárás indult, vagy
-- b) legalább hat hónapnyi, de legfeljebb egy évi időtartamra az üzletet ideiglenesen bezárja, ha megállapítja, hogy az üzlet működésével összefüggésben egy éven belül legalább második alkalommal a Btk. 176. §-a szerinti kábítószer-kereskedelem, 182. §-a szerinti kábítószer készítésének elősegítése, illetve 184. §-a szerinti tudatmódosító anyaggal visszaélés bűncselekmény elkövetése miatt büntetőeljárás indult.
+(3) A jegyző az üzlet működési engedélyét visszavonja a szabálysértési, illetőleg a nyomozó hatóság kezdeményezésére, ha az (1)–(2) bekezdésben meghatározott bűncselekményt, illetve szabálysértést bírósági vagy hatósági határozat jogerősen megállapította.
 
-(1a)
+(4) A jegyző a közbiztonság fenntartása érdekében az (1)–(3) bekezdés szerinti határozatot fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
 
-(2) Az ügyészség, a nyomozó hatóság, illetve a szabálysértési hatóság kezdeményezésére a jegyző az üzlet működési engedélyét visszavonja, illetve az üzletet bezáratja, ha az (1) bekezdésben meghatározott bűncselekményt, illetve szabálysértést olyan bírósági vagy hatósági határozat állapította meg, amelynek alapján a működési engedély visszavonásának, illetve az üzlet bezáratásának, egyébként nincs helye.
-
-(3) A közbiztonság fenntartása érdekében az (1)–(2) bekezdés szerinti határozatot a jegyző fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
-
-6. § Ha a működési engedély visszavonását, illetve az üzlet bezáratását az 5. § (1) bekezdésében meghatározott jogsértés miatt büntető- vagy szabálysértési eljárást folytató szerv indokoltnak tartja, az eljárás megindításáról, illetve szabálysértési eljárásban a jogerős végzésről, továbbá büntetőeljárásban a bíróság jogerős vagy véglegessé vált határozatáról, valamint az ügyészségnek, illetve a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható határozatáról értesíti az üzlet működési helye szerint illetékes jegyzőt. Az 5. § (2) bekezdésében meghatározott esetekben a bírósági ügydöntő határozatról az ügyben eljáró hatóságot is értesíteni kell.
-
-6/A. § A 4/A. § és az 5. § (1) bekezdés b) pontja szerinti esetben az üzlet közforgalmú bejáratainak mindegyikén – kívülről is jól látható, valamint az illetéktelen személyek által hozzáférhetetlen módon – el kell helyezni az ideiglenes bezárás tényét és az erre okot adó bűncselekmény megjelölését tartalmazó írásos tájékoztatót, amely az ideiglenes bezárás tartama alatt nem távolítható el.
+6. § Ha az üzlet bezárását, vagy a működési engedély visszavonását az 5. § (1)–(2) bekezdésében meghatározott jogsértés miatt büntető- vagy szabálysértési eljárást folytató szerv indokoltnak tartja, az eljárás megindításáról, illetve a jogerős ügydöntő határozatáról értesíti a működési engedélyt kiadó jegyzőt. Az 5. § (3) bekezdésében meghatározott esetekben a bírósági ügydöntő határozatról az ügyben eljáró nyomozó hatóságot is értesíteni kell.
 
 ### III. Fejezet — A prostitúció kezelésének egyes közrendvédelmi szabályai
 
 7. § (1) Védett övezet:
 
 - a) a közútnak a közúti járművek közlekedésére szolgáló területe;
-- b) az autópályától, az autóúttól, a gyorsúttól, illetve lakott területen kívül az egy-, illetve kétszámjegyű főútvonaltól számított 100 méteren belüli terület;
+- b) az autópályától, az autóúttól, illetve lakott területen kívül az egy-, illetve kétszámjegyű főútvonaltól számított 100 méteren belüli terület;
 - c) lakott területen a főútvonaltól számított 50 méteren belüli terület;
-- d) a népképviseleti, közigazgatási, bírósági, ügyészi szervek, valamint diplomáciai és konzuli képviseletek és az ezzel egy tekintet alá eső nemzetközi szervezetek és tagjaik elhelyezésére szolgáló épületek, köznevelési intézmények, a szakképző intézmények és a felsőoktatási intézmények alapfeladatellátását szolgáló épületek, a gyermekjóléti és gyermekvédelmi, szociális, közművelődési feladatok ellátására rendelt épületek, a személyforgalom célját szolgáló terminálok (repülőtér, pályaudvar, hajóállomások), a templomok és a vallásgyakorlásra rendelt más helyek, a temetők, valamint a Magyar Honvédség objektumai területén, illetve a közterületen azoktól számított 300 m távolságon belüli terület;
+- d) a népképviseleti, közigazgatási, bírósági, ügyészi szervek, valamint diplomáciai és konzuli képviseletek és az ezzel egy tekintet alá eső nemzetközi szervezetek és tagjaik elhelyezésére szolgáló épületek, köz- és felsőoktatási, köznevelési, gyermekjóléti és gyermekvédelmi, szociális, közművelődési feladatok ellátására rendelt épületek, a személyforgalom célját szolgáló terminálok (repülőtér, pályaudvar, hajóállomások), a nyilvántartásba vett egyházak szertartásaira szolgáló intézmények, a Magyar Honvédség objektumai, valamint a temetkezési és egyéb kegyhelyek területén, illetve a közterületen azoktól számított 300 m távolságon belüli terület;
 - e) az olyan mellékutcák, ahol a kiskorúak oktatását, nevelését, gyógyítását, tartós elhelyezését szolgáló, valamint gyermekjóléti és gyermekvédelmi intézmény működik.
 
 (2) Az (1) bekezdés b)–d) pontjaiban meghatározott távolságot közterületen az épület, illetőleg a közút határvonalának bármely pontjától lehet számítani.
@@ -122,8 +177,6 @@ egyes közrendvédelmi szabályok
 
 9. § (1) A prostituált a szexuális szolgáltatása igénybevételére csak 18. életévét betöltött személyt hívhat fel, illetőleg csak 18. életévét betöltött személy erre irányuló ajánlattételét fogadhatja el.
 
-(1a) Tizennyolcadik életévét be nem töltött személy szexuális szolgáltatásra nem ajánlkozhat fel.
-
 (2) Tilos a szexuális szolgáltatásra felajánlkozás mást, illetőleg másokat zaklató módja.
 
 (3) A prostituált szexuális szolgáltatásra akkor ajánlkozhat fel, ha rendelkezik az egészségügyért felelős miniszter rendeletében előírt orvosi igazolással.
@@ -132,7 +185,7 @@ egyes közrendvédelmi szabályok
 
 11. § (1) Tilos írásban, kép- vagy hangrögzítő, illetve más berendezés útján más személy szexuális szolgáltatását felajánlani, azt reklámozni vagy ilyen cselekményekben közreműködni.
 
-12. § (1) Ha a sajtótevékenységet folytató, illetve egyéb tájékoztatást, hír- vagy médiaszolgáltatást nyújtó a 11. §-ban, illetve más jogszabályban foglaltakat megszegve közreműködik szexuális szolgáltatás reklámozásában, a szervezet üzemeltetője – ennek hiányában a szervezet – a szolgáltatás egyszeri hirdetését alapul véve reklámonként ötszázezer forinttól egymillió forintig terjedő közrendvédelmi bírsággal sújtható.
+12. § (1) Ha a sajtótevékenységet folytató, illetve egyéb tájékoztatást, hír- vagy műsorszolgáltatást nyújtó a 11. §-ban, illetve más jogszabályban foglaltakat megszegve közreműködik szexuális szolgáltatás reklámozásában, a szervezet üzemeltetője – ennek hiányában a szervezet – a szolgáltatás egyszeri hirdetését alapul véve reklámonként ötszázezer forinttól egymillió forintig terjedő közrendvédelmi bírsággal sújtható.
 
 (2) Az eljáró szerv a 11. §-ban foglalt rendelkezések ismételt megsértése esetén az (1) bekezdésben meghatározott jogkövetkezmény alkalmazása mellett elrendelheti a jogsértő reklámot közzétevő sajtótermék vagy szabadtéri reklámhordozó jogsértő jellegétől való megfosztását, vagy – ha ez nem lehetséges – megsemmisítését.
 
@@ -140,107 +193,43 @@ egyes közrendvédelmi szabályok
 
 ### IV. Fejezet
 
-#### 13. §
-
-#### 14. §
+13–14. §
 
 ### V. Fejezet — Idegenrendészeti és menekültügyi szabályok
 
-#### 15. §
+15–35. §
 
-#### 16. §
-
-#### 17. §
-
-#### 18. §
-
-#### 19. §
-
-#### 20. §
-
-#### 21. §
-
-#### 22. §
-
-#### 23. §
-
-#### 24. §
-
-#### 25. §
-
-#### 26. §
-
-#### 27. §
-
-#### 28. §
-
-#### 29. §
-
-#### 30. §
-
-#### 31. §
-
-#### 32. §
-
-#### 33. §
-
-#### 34. §
-
-#### 35. §
-
-#### 36. §
+36. §
 
 ### VI. Fejezet — A személyes adatok kezelésével összefüggő szabályok
 
-#### 37. §
+37–45. §
 
-#### 38. §
+46. §
 
-#### 39. §
+47. §
 
-#### 40. §
+48. §
 
-#### 41. §
+49. §
 
-#### 42. §
+50–51. §
 
-#### 43. §
+52. §
 
-#### 44. §
+53. §
 
-#### 45. §
+54. §
 
-#### 46. §
+55. §
 
-#### 47. §
+56–58. §
 
-#### 48. §
-
-#### 49. §
-
-#### 50. §
-
-#### 51. §
-
-#### 52. §
-
-#### 53. §
-
-#### 54. §
-
-#### 55. §
-
-#### 56. §
-
-#### 57. §
-
-#### 58. §
-
-#### 59. §
+59. §
 
 ### VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-#### 60. §
+60. §
 
 ### VIII. Fejezet — Hatályba léptető és átmeneti rendelkezések
 
@@ -250,15 +239,13 @@ egyes közrendvédelmi szabályok
 
 (3) A 64–67. § rendelkezései a kihirdetést követő 8. napon lépnek hatályba.
 
-(4) Az 5–6. §-nak a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezései nem alkalmazhatók a Módtv. hatálybalépésekor folyamatban lévő eljárásokban.
-
-(5)
+(4)–(5)
 
 (6)–(8)
 
 ### Felhatalmazó szabályok
 
-62. § (1)
+62. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg, hogy a közrendvédelmi bírságokból befolyó pénzösszegeket milyen célra lehet felhasználni, továbbá e pénzösszegek felhasználásának eljárási szabályait.
 
 (2) Felhatalmazást kap az egészségügyért felelős miniszter, hogy – a prostitúció kezelésének közrendvédelmi szabályai érvényesülése érdekében – rendeletben szabályozza az egészségügyi vizsgálatok, illetve az ilyen vizsgálatokat folytató egészségügyi intézmények körét, a nemi úton terjedő betegségek létét vagy hiányát tanúsító orvosi igazolás tartalmi követelményét, kiadásának rendjét.
 
@@ -268,46 +255,20 @@ egyes közrendvédelmi szabályok
 
 (5)
 
-(6)
+(6) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a szervezett bűnözés elleni koordinációs központot, valamint rendeletben megállapítsa a működésére, személyi állományára, valamint az együttműködésben résztvevők jogaira és kötelezettségeire vonatkozó részletes szabályokat.
 
-### Az Európai Unió jogának való megfelelés
+63–67. §
 
-63. § A 4. § s) pontja az euro-érmékhez hasonló érmékről és zsetonokról szóló, 2004. december 6-i 2182/2004/EK tanácsi rendelet 6. cikkének, valamint az euro-érmékhez hasonló érmékről és zsetonokról szóló 2182/2004/EK rendelet hatályának a nem részt vevő tagállamokra való kiterjesztéséről szóló 2004. december 6-i 2183/2004/EK tanácsi rendeletnek való megfelelést szolgálja.
+68–73. §
 
-#### 64. §
+74–76. §
 
-#### 65. §
+77. §
 
-#### 66. §
+78. §
 
-#### 67. §
+79–80. §
 
-#### 68. §
+81. §
 
-#### 69. §
-
-#### 70. §
-
-#### 71. §
-
-#### 72. §
-
-#### 73. §
-
-#### 74. §
-
-#### 75. §
-
-#### 76. §
-
-#### 77. §
-
-#### 78. §
-
-#### 79. §
-
-#### 80. §
-
-#### 81. §
-
-#### 82. §
+82. §

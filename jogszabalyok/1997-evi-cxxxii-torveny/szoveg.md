@@ -2,7 +2,7 @@
 
 a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről
 
-A nemzetközi gazdasági együttműködés fejlesztése, a tőkeáramlás segítése, ezen belül a külföldi működő tőke gazdaságunkban való tartós megjelenésének, valamint az ezzel összefüggő gazdasági célú letelepedési formák kibővítése és elismerése, a befektetések biztonságával összefüggő garanciális szabályok érvényesítése, továbbá Magyarország által nemzetközi szerződésekben vállalt kötelezettségek teljesítése érdekében az Országgyűlés a következő törvényt alkotja:
+A nemzetközi gazdasági együttműködés fejlesztése, a tőkeáramlás segítése, ezen belül a külföldi működő tőke gazdaságunkban való tartós megjelenésének, valamint az ezzel összefüggő gazdasági célú letelepedési formák kibővítése és elismerése, a befektetések biztonságával összefüggő garanciális szabályok érvényesítése, továbbá a Magyar Köztársaság által nemzetközi szerződésekben vállalt kötelezettségek teljesítése érdekében az Országgyűlés a következő törvényt alkotja:
 
 ### I. Fejezet — Általános rendelkezések
 
@@ -12,7 +12,7 @@ A nemzetközi gazdasági együttműködés fejlesztése, a tőkeáramlás segít
 
 2. § E törvény alkalmazásában:
 
-- a) külföldi vállalkozás: Magyarország területén kívül székhellyel rendelkező, főtevékenységként vállalkozási tevékenységet folytató jogi személy, jogi személyiséggel nem rendelkező szervezet, a III. fejezet vonatkozásában, továbbá más olyan vállalkozó is, aki külföldön céggel rendelkezik, illetve gazdasági nyilvántartásban szerepel;
+- a) külföldi vállalkozás: a Magyar Köztársaság államterületén kívül székhellyel rendelkező, főtevékenységként vállalkozási tevékenységet folytató jogi személy, jogi személyiséggel nem rendelkező szervezet, a III. fejezet vonatkozásában, továbbá más olyan vállalkozó is, aki külföldön céggel rendelkezik, illetve gazdasági nyilvántartásban szerepel;
 - b) fióktelep: a külföldi vállalkozás jogi személyiséggel nem rendelkező, gazdálkodási önállósággal felruházott olyan szervezeti egysége, amelyet önálló cégformaként a belföldi cégnyilvántartásban a külföldi vállalkozás fióktelepeként bejegyeztek;
 - c) kereskedelmi képviselet: a külföldi vállalkozás saját nevében vállalkozási tevékenységet nem folytató, a belföldi cégnyilvántartásba önálló cégformaként bejegyzett olyan szervezeti egysége, amely – a külföldi vállalkozás nevében és javára – szerződések közvetítésével, előkészítésével, megkötésével, az üzletfelek tájékoztatásával és a velük való kapcsolattartással összefüggő feladatokat lát el;
 - d) vállalkozási tevékenység: önállóan, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági tevékenység;
@@ -23,8 +23,6 @@ A nemzetközi gazdasági együttműködés fejlesztése, a tőkeáramlás segít
 ### Általános rendelkezések
 
 3. § (1) Külföldi vállalkozás a Magyarországon nyilvántartásba vett fióktelepe, illetve fióktelepei útján (a továbbiakban: fióktelep) belföldön e törvény rendelkezései szerint vállalkozási tevékenység végzésére jogosult; ennek során a fióktelep tevékenységével összefüggésben – ha törvény másképp nem rendelkezik – a fióktelep jár el a hatóságokkal és harmadik személyekkel szemben fennálló jogviszonyokban, valamint a külföldi vállalkozás más fióktelepeivel fennálló kapcsolatokban.
-
-(1a) A fióktelep jogképes, cégneve alatt a külföldi vállalkozás javára jogokat szerezhet és a külföldi vállalkozás terhére kötelezettségeket vállalhat, így különösen vagyont szerezhet, szerződést köthet, pert indíthat és perelhető.
 
 (2) A fióktelep több városban (községben) is rendelkezhet működési hellyel (telephellyel).
 
@@ -55,14 +53,14 @@ személyek láthatják el.
 
 9. § (1) Ha e törvény másképp nem rendelkezik, a külföldi vállalkozás a fióktelepének létesítése és működtetése során a belföldi székhelyű gazdálkodó szervezetekkel azonos elbánásban részesül.
 
-(2) Magyarország nemzetközi kötelezettségvállalásaival összhangban törvény a fióktelepre
+(2) A Magyar Köztársaság nemzetközi kötelezettségvállalásaival összhangban törvény a fióktelepre
 
 - a) a közrend, a közbiztonság, a közegészségügy, a pénzügyi rendszer stabilitása, valamint a hitelezők, betétesek, befektetők és biztosítottak másképpen nem érvényesíthető, jogos érdekei védelmében, valamint
 - b) a külföldi vállalkozás fióktelepe és a belföldi székhelyű gazdálkodó szervezet fióktelepe közötti jogi és technikai különbségek miatt indokolt körben és mértékben
 
 eltérő szabályozást állapíthat meg.
 
-10. § (1) Ha törvény másképp nem rendelkezik, a fióktelep nem folytathat a külföldi vállalkozás nevében képviseleti tevékenységet.
+10. § (1) A fióktelep nem folytathat a külföldi vállalkozás nevében képviseleti tevékenységet.
 
 (2) A külföldi vállalkozás a fióktelep cégneve alatt szerzett vagyonról, jogokról, illetve vállalt kötelezettségekről saját cégneve alatt csak a fióktelep megszűnésekor, illetve az e törvényben meghatározott fizetésképtelenségi eljárások során, valamint a fióktelep cégneve alatt szerzett vagyonnal, jogokkal, kötelezettségekkel összefüggésben külföldön indított eljárások során rendelkezhet.
 
@@ -70,19 +68,15 @@ eltérő szabályozást állapíthat meg.
 
 (4) A fióktelep képviseletére jogosult személyek, továbbá azoknak a Ptk. 685. § b) pontja szerinti közeli hozzátartozói saját nevükben csak akkor köthetnek a fióktelep tevékenységi körébe tartozó ügyleteket, ha azt a fióktelep létesítéséről szóló okirat vagy a külföldi székhelyű vállalkozás írásbeli határozattal engedélyezi. A külföldi székhelyű vállalkozás írásbeli engedélye szükséges ahhoz is, hogy a fióktelep képviseletére jogosult személy a fiókteleppel azonos tevékenységet folytató más gazdálkodó szervezetben részesedést szerezzen, ide nem értve a nyilvánosan működő részvénytársaságban történő részvényszerzést.
 
-11. § (1) A külföldi vállalkozás folyamatosan köteles biztosítani a fióktelep működéséhez, a tartozások kiegyenlítéséhez szükséges vagyont.
+11. § (1) A külföldi vállalkozás folyamatosan köteles biztosítani a fióktelep működéséhez, a tartozások kiegyenlítéséhez szükséges vagyont. A külföldi székhelyű vállalkozás és a fióktelep egyetemlegesen és korlátlanul felel a fióktelep tevékenysége során keletkezett tartozásokért.
 
-(2) A külföldi székhelyű vállalkozás és a fióktelep egyetemlegesen és korlátlanul felel a fióktelep tevékenysége során keletkezett tartozásokért, az ezzel összefüggő eljárások magyar bíróság előtt is megindíthatók a külföldi székhelyű vállalkozás és a fióktelep ellen.
+(2) A vagyontárgyak külföldről történő behozatalára a vámjogi, a vámeljárási, az áruk országhatáron át történő szállításával kapcsolatos rendelkezéseket, továbbá – a külkereskedelmi engedélyezés alá eső termékek esetén – a külkereskedelmi áruforgalomra vonatkozó szabályokat is alkalmazni kell.
 
-(3) A nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet 60., 62. §-ában, valamint 62/G. § (2) bekezdésében foglaltakat a fogyasztók polgári jogi igényeinek érvényesítése iránti perekben, továbbá a fogyasztói szerződés részévé vált tisztességtelen általános szerződési feltétel érvénytelenségének megállapítása iránt indított perekben is alkalmazni kell.
+(3) A fióktelep útján folytatott tevékenységgel összefüggésben keletkezett tartozások végrehajtása során a külföldi vállalkozás valamennyi belföldön található vagyonára végrehajtás vezethető.
 
-(4) A vagyontárgyak külföldről történő behozatalára a vámjogi, a vámeljárási, az áruk országhatáron át történő szállításával kapcsolatos rendelkezéseket, továbbá – a külkereskedelmi engedélyezés alá eső termékek esetén – a külkereskedelmi áruforgalomra vonatkozó szabályokat is alkalmazni kell.
+12. § (1) A fióktelep könyvvezetésére, éves beszámoló készítésére, a beszámoló nyilvánosságra hozatalára és közzétételére vonatkozó előírásokat, valamint az ezekkel összefüggő sajátos szabályokat és mentességeket a számviteli törvény, illetve az annak felhatalmazása alapján kiadott kormányrendelet tartalmazza.
 
-(5) A fióktelep útján folytatott tevékenységgel összefüggésben keletkezett tartozások végrehajtása során a külföldi vállalkozás valamennyi belföldön található vagyonára végrehajtás vezethető.
-
-12. § (1) A fióktelep könyvvezetésére, beszámoló készítésére, a beszámoló nyilvánosságra hozatalára és közzétételére vonatkozó előírásokat, valamint az ezekkel összefüggő sajátos szabályokat és mentességeket a számviteli jogszabályok tartalmazzák.
-
-(2) A fióktelep a külföldi vállalkozás számviteli beszámolóját a beszámoló elfogadásától számított 60 napon belül a külön törvényben foglaltak alapján, letétbe helyezés és közzététel céljából a céginformációs szolgálat részére megküldi.
+(2) A külföldi vállalkozás éves beszámolójának egy hiteles másolati példányát a fióktelepnek a cégbíróságnál a tárgyévet követő év szeptember 30-áig letétbe kell helyeznie, s ezzel egyidejűleg közzé kell tennie. Közzétételi kötelezettség alatt a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat részére történő megküldést kell érteni.
 
 13. § A fióktelep – ha törvény másképp nem rendelkezik – devizabelföldinek minősül. A belföldiekre irányadó szabályok szerint kell a külkereskedelmi szerződéseket is megkötnie, illetve az engedélyköteles ügyletek esetén – ha jogszabály másképp nem rendelkezik – az engedélyeket beszereznie.
 
@@ -97,15 +91,15 @@ eltérő szabályozást állapíthat meg.
 17. § (1) Az EGT-államnak nem minősülő államban bejegyzett külföldi vállalkozásnak a magyarországi fióktelepe által folytatott vállalkozási tevékenységhez szükséges ingatlan tulajdonának megszerzéséhez nem szükséges engedély
 
 - a) nemzetközi szerződésben meghatározott esetekben, vagy
-- b) ha a külföldi vállalkozás székhelye szerinti állam és Magyarország között erre vonatkozóan viszonosság áll fenn.
+- b) ha a külföldi vállalkozás székhelye szerinti állam és a Magyar Köztársaság között erre vonatkozóan viszonosság áll fenn.
 
-(2) Az (1) bekezdés a) pontja szerinti nemzetközi szerződés fennállásáról a külpolitikáért felelős miniszter, az (1) bekezdés b) pontja szerinti viszonosság fennállásáról a külpolitikáért felelős miniszter az igazságügyért felelős miniszterrel egyeztetve ad tájékoztatást.
+(2) Az (1) bekezdés szerinti nemzetközi szerződés, illetve a viszonosság fennállásáról a külpolitikáért felelős miniszter és az igazságügyért felelős miniszter tájékoztatót tesz közzé.
 
 (3)
 
 (4) Az (1) bekezdés alkalmazásában nem minősül vállalkozási tevékenységhez szükséges ingatlannak az ingatlanforgalmazás céljából megszerezni kívánt ingatlan.
 
-(5) A fióktelep megszüntetése esetén az ingatlant a külföldi vállalkozásnak egy éven belül el kell idegenítenie, kivéve, ha az ingatlanszerzéshez nem kellene engedélyt kérnie, vagy ha az elidegenítési kötelezettség alól a fővárosi és vármegyei kormányhivatal felmentést adott. A fővárosi és vármegyei kormányhivatal a felmentést a külföldiek ingatlanszerzéséről szóló jogszabály szerinti feltételekkel, és az abban foglalt eljárási szabályok szerint adja meg azzal, hogy a felmentés nem tagadható meg akkor sem, ha az ingatlan a külföldi vállalkozás által vagy részesedésével alapított belföldi székhelyű gazdálkodó szervezet, illetve másik fióktelep, továbbá kereskedelmi képviselet tevékenységéhez szükséges.
+(5) A fióktelep megszüntetése esetén az ingatlant a külföldi vállalkozásnak egy éven belül el kell idegenítenie, kivéve, ha az ingatlanszerzéshez nem kellene engedélyt kérnie, vagy ha az elidegenítési kötelezettség alól a Kormány általános hatáskörű területi államigazgatási szerve felmentést adott. A Kormány általános hatáskörű területi államigazgatási szerve a felmentést a külföldiek ingatlanszerzéséről szóló jogszabály szerinti feltételekkel, és az abban foglalt eljárási szabályok szerint adja meg azzal, hogy a felmentés nem tagadható meg akkor sem, ha az ingatlan a külföldi vállalkozás által vagy részesedésével alapított belföldi székhelyű gazdálkodó szervezet, illetve másik fióktelep, továbbá kereskedelmi képviselet tevékenységéhez szükséges.
 
 ### Munkavállalás a fióktelepnél
 
@@ -117,29 +111,21 @@ eltérő szabályozást állapíthat meg.
 
 ### Fizetésképtelenség esetén követendő eljárás
 
-19. § (1) A külföldi vállalkozás ellen külföldön kezdeményezett fizetésképtelenségi főeljárás (reorganizációs típusú vagy felszámolási típusú eljárás) megindítását a fióktelepnek a cégbíróságnál a külföldi eljárás megindításától számított nyolc napon belül be kell jelentenie, és egyidejűleg a Cégközlöny honlapján közzé kell tennie a külföldi fizetésképtelenségi eljárást megindító határozat, valamint – ha van ilyen – a külföldi bíróság vagy hatóság által kirendelt fizetésképtelenségi szakértő kijelölését tartalmazó határozat lényeges tartalmát, így különösen
+19. § (1) A külföldi vállalkozás ellen külföldön kezdeményezett fizetésképtelenségi eljárás (csőd-, felszámolási, illetve azokkal egy tekintet alá eső eljárás) megindítását a fióktelepnek a cégbíróságnál a külföldi eljárás megindításától számított tíz napon belül be kell jelentenie, s egyidejűleg a Cégközlönynél közlemény megjelentetését kell kezdeményeznie. Ebben tájékoztatást kell adnia arról, hogy a hitelezők külföldön – az ott megindult eljárásban – milyen módon érvényesíthetik követeléseiket.
 
-- a) a fizetésképtelenségi főeljárást megindító külföldi bíróság megjelölése és címe,
-- b) a külföldi fizetésképtelenségi szakértő neve és elérhetősége,
-- c) a hitelezői igények bejelentésére rendelkezésre álló határidők,
-- d) a határidők tekintetében megállapított jogkövetkezmények,
-- e) a hitelezői igények elfogadására jogosult testület vagy hatóság megjelölése, elérhetősége.
+(2) A külföldi vállalkozás ellen külföldön kezdeményezett fizetésképtelenségi eljárás a magyarországi fióktelepre nemzetközi szerződés vagy viszonosság esetében, továbbá a Tanácsnak a fizetésképtelenségi eljárásról szóló 1346/2000/EK rendeletében foglaltak szerint terjed ki.
 
-(2) Ha a külföldi vállalkozás olyan jogi személy vagy jogi személyiséggel nem rendelkező, a személyes joga alapján gazdasági társaság vagy más gazdasági tevékenységet folytató szervezet, amely fő érdekeltségeinek központja a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet (a továbbiakban: 2015/848 EU rendelet) alapján az Európai Unió területén található, és az ellene indítható fizetésképtelenségi eljárás a 2015/848 EU rendelet hatálya alá esik, a külföldi fizetésképtelenségi főeljárás közzétételével összefüggő intézkedéseket a külföldi fizetésképtelenségi főeljárásban kijelölt fizetésképtelenségi szakértő, illetve ennek hiányában a fizetésképtelenségi eljárásban a vagyona felett a rendelkezési jogát megőrző adós teszi meg.
+(3) Ha a külföldi vállalkozás ellen külföldön – személyes joga alapján indított – fizetésképtelenségi eljárás a (2) bekezdésben említett nemzetközi szerződés, illetve viszonosság hiányában a fióktelepre nem terjed ki, vagy az 1346/2000/EK rendeletben foglaltakat kell alkalmazni, a fióktelep bejegyzésének helye szerinti megyei bíróság – a cégbíróság értesítése alapján (az 1346/2000/EK rendelet hatálya alá eső eljárásokban pedig a külföldön indult fizetésképtelenségi eljárásban eljáró felszámoló értesítése alapján) – hivatalból rendeli el a fióktelep felszámolását.
 
-(3) A külföldi vállalkozás ellen külföldön kezdeményezett fizetésképtelenségi főeljárás hatálya a magyarországi fióktelepre a 2015/848 EU rendelet hatálya alá tartozó eseteken kívül akkor terjed ki, ha erre nézve Magyarország és a fizetésképtelenségi főeljárást megindító külföldi állam között kialakított viszonosság áll fenn.
+(4) A fióktelep felszámolására irányuló eljárásra a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló 1991. évi IL. törvény (a továbbiakban: Cstv.) I., III. és IV. fejezetében foglaltakat kell alkalmazni 22. § és az 1346/2000/EK rendelet szerinti eltérésekkel. Az eljárás befejeződése után fennmaradó vagyonnal a külföldi vállalkozás, illetve a külföldi fizetésképtelenségi eljárásban eljáró – a vállalkozás vagyonával kapcsolatosan jognyilatkozatok tételére jogosult – felszámoló rendelkezik.
 
-(4) Ha a külföldi vállalkozás ellen külföldön – a személyes joga alapján indított – fizetésképtelenségi főeljárás hatálya a magyarországi fióktelepre nem terjed ki, a fióktelep bejegyzésének helye szerinti törvényszék a cégbíróság értesítése alapján hivatalból rendeli el a fióktelep felszámolását. A fióktelep felszámolására és a felszámolással összefüggő adatok közzétételére és nyilvántartására a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló 1991. évi XLIX. törvényben (a továbbiakban: Cstv.) foglaltakat kell alkalmazni, a 22. § szerinti eltérésekkel.
+20. § (1) Ha a külföldi vállalkozás a magyarországi fióktelep útján folytatott vállalkozási tevékenységével összefüggésben fizetésképtelenné válik, és a fizetésképtelenségi eljárásokra nézve a külföldi vállalkozás államával nincs nemzetközi szerződés vagy viszonossági gyakorlat, a hitelezők a fióktelep felszámolását kérhetik a fióktelep bejegyzése szerinti megyei bíróságtól. Az eljárásra a Cstv. I., III. és V. fejezetében foglaltakat kell alkalmazni a 22. § szerinti eltérésekkel. A felszámolási eljárást a bíróság megszünteti, ha a külföldi vállalkozás vagy a fióktelep az eljárásban bejelentett hitelezői igények kielégítésére biztosítékot nyújt.
 
-(5) A magyarországi fióktelep ellen lefolytatott felszámolási eljárás befejeződése után fennmaradó vagyonnal a külföldi vállalkozás, illetve a külföldi fizetésképtelenségi főeljárásban eljáró – a vállalkozás vagyonával kapcsolatosan jognyilatkozatok tételére jogosult – felszámoló rendelkezik.
-
-20. § (1) Ha a külföldi vállalkozás a magyarországi fióktelep útján folytatott vállalkozási tevékenységével összefüggésben fizetésképtelenné válik, és az ellene indítható fizetésképtelenségi eljárás nem esik a 2015/848 EU rendelet hatálya alá, továbbá a fizetésképtelenségi eljárásokra nézve a külföldi vállalkozás székhelye szerinti állammal nincs viszonossági gyakorlat sem, a hitelezők a fióktelep felszámolását kérhetik a fióktelep bejegyzése szerinti törvényszéktől. Az eljárásra a Cstv. felszámolási eljárásra vonatkozó szabályait kell alkalmazni a 22. § szerinti eltérésekkel. A felszámolási eljárást a bíróság megszünteti, ha a külföldi vállalkozás vagy a fióktelep az eljárásban bejelentett hitelezői igények kielégítésére biztosítékot nyújt.
-
-(2) A fióktelep felszámolási eljárásának befejeződése után fennmaradó vagyonnal a külföldi vállalkozás rendelkezik.
+(2) Az eljárás befejeződése után fennmaradó vagyonnal a külföldi vállalkozás az általános szabályok szerint rendelkezik.
 
 21. § (1) A 19. § (4) bekezdése és a 20. § szerinti eljárás akkor is kezdeményezhető, illetve abban hitelezőként igény akkor is előterjeszthető, ha hitelező a követelését érvényesíti a külföldi vállalkozás ellen külföldön indult fizetésképtelenségi eljárásban.
 
-(2) A 19. § (2) bekezdésében és a 20. § (1) bekezdésben említett viszonosság fennállásáról az igazságügyért felelős miniszter a külpolitikáért felelős miniszterrel egyeztetve ad tájékoztatást.
+(2) A 19. § (2) bekezdésében és a 20. §-ban említett nemzetközi szerződésekről, illetve a viszonosság fennállásáról az igazságügyért felelős miniszter és a külpolitikáért felelős miniszter tájékoztatót tesz közzé.
 
 22. § (1) A 19. § (4) bekezdése és a 20. § szerinti eljárásban
 
@@ -166,7 +152,7 @@ eltérő szabályozást állapíthat meg.
 - c) nincs a fióktelepein keresztül folytatott tevékenységével összefüggésben a külföldi vállalkozás ellen Magyarországon hatósági vagy bírósági eljárás (ideértve a választottbírósági eljárást is) folyamatban, vagy a folyamatban levő eljárásokban a vagyoni igények kielégítésére a fióktelep vagy a külföldi vállalkozás biztosítékot nyújtott,
 - d) nincs fizetésképtelenségi eljárás folyamatban a külföldi vállalkozás, illetve a fióktelep ellen.
 
-(3) A fióktelep kérelemre történő törlésének nem feltétele a (2) bekezdés a)–c) pontjaiban meghatározott feltételek fennállása, ha a külföldi vállalkozás székhelye (bejegyzése) szerinti államnak Magyarországgal nemzetközi szerződése van a polgári és kereskedelmi ügyekre nézve a bírósági joghatóságról és a bírósági határozatok végrehajtásáról, valamint a köztartozások behajtásáról, vagy ezeket a kérdéseket európai közösségi jogi szabályozás rendezi. A fióktelepnek azonban ebben az esetben is közleményt kell közzétennie a Cégközlönyben a megszüntetéséről azzal, hogy a hitelezők követeléseiket harminc napon belül a fióktelepnél jelentsék be, továbbá tájékoztatást kell adnia arról is, hogy a ki nem elégített követeléseket a hitelezők milyen eljárásban érvényesíthetik.
+(3) A fióktelep kérelemre történő törlésének nem feltétele a (2) bekezdés a)–c) pontjaiban meghatározott feltételek fennállása, ha a külföldi vállalkozás székhelye (bejegyzése) szerinti államnak a Magyar Köztársasággal nemzetközi szerződése van a polgári és kereskedelmi ügyekre nézve a bírósági joghatóságról és a bírósági határozatok végrehajtásáról, valamint a köztartozások behajtásáról, vagy ezeket a kérdéseket európai közösségi jogi szabályozás rendezi. A fióktelepnek azonban ebben az esetben is közleményt kell közzétennie a Cégközlönyben a megszüntetéséről azzal, hogy a hitelezők követeléseiket harminc napon belül a fióktelepnél jelentsék be, továbbá tájékoztatást kell adnia arról is, hogy a ki nem elégített követeléseket a hitelezők milyen eljárásban érvényesíthetik.
 
 (4) A külföldi vállalkozás jogutód nélküli megszűnésére tekintettel a fióktelep törlését is kérelmezni kell a cégbíróságtól. A (2) bekezdés a)–c) pontjában, valamint a (3) bekezdésben foglaltakat ebben az esetben is alkalmazni kell.
 
@@ -180,7 +166,7 @@ eltérő szabályozást állapíthat meg.
 
 (2) A valamely EGT-államban bejegyzett külföldi vállalkozás pénzügyi fióktelepe az alapítással jön létre, és Magyarországon a külön törvényben foglaltak szerint kezdheti meg működését, mellyel egyidejűleg benyújtja a cégbejegyzésre vonatkozó kérelmét is.
 
-(3) A valamely EGT-államban székhellyel rendelkező külföldi vállalkozás által létesített pénzügyi fióktelep külön meghatalmazás nélkül a külföldi vállalkozás nevében, annak képviseletére irányuló tevékenységet is folytathat, ebben az esetben nem kell alkalmazni a 10. § (1) és (2) bekezdésében foglaltakat. Azt a tényt, hogy a pénzügyi fióktelep a külföldi vállalkozás képviseletében jár el, az üzletszabályzatban, valamint a cégneve alatti eljárása során vagy tevékenysége során keletkező okiraton egyértelműen fel kell tüntetni. A 11. § (2) és (3) bekezdésben foglaltakat ezekben az esetekben is alkalmazni kell.
+(3) A valamely EGT-államban székhellyel rendelkező külföldi vállalkozás által létesített pénzügyi fióktelep az alapítója nevében, képviseletében jár el, továbbá a 10. § (1)–(2) bekezdésében foglaltakat nem kell rá alkalmazni.
 
 (4) A kockázati tőkebefektetésekről, a kockázati tőketársaságokról, valamint a kockázati tőkealapokról szóló törvény hatálya alá tartozó fióktelep tevékenységének engedélyezésére, működésére, felügyeletére, ellenőrzésére, továbbá megszüntetésére az e törvényben foglaltakat akkor kell alkalmazni, ha a külön törvény másként nem rendelkezik.
 
@@ -215,7 +201,7 @@ személyek jegyezhetik.
 
 (3) Ha jogszabály valamilyen termék vagy szolgáltatás tekintetében az (1) bekezdés szerinti tevékenységhez külön engedély meglétét követeli meg, a kereskedelmi képviselet a tevékenységet csak az engedély birtokában folytathatja.
 
-(4) A kereskedelmi képviselet saját nevében vállalkozási tevékenységet, továbbá ügyvédi tevékenységet nem folytathat.
+(4) A kereskedelmi képviselet saját nevében vállalkozási tevékenységet, továbbá a külön törvény szerinti ügyvédi, külföldi jogi tanácsadói tevékenységet nem folytathat.
 
 (5) Az államháztartás alrendszerei számára kötelezően teljesítendő befizetésekről és az azzal kapcsolatos kötelezettségekről külön jogszabályok és nemzetközi szerződések rendelkeznek. Az államháztartás társadalombiztosítási alrendszerét megillető fizetési kötelezettséget (járulék, hozzájárulás) a foglalkoztatottak közül csak azok után kell teljesíteni, akikre a társadalombiztosítási jogszabályok szerint a biztosítás kiterjed.
 
@@ -237,7 +223,7 @@ személyek jegyezhetik.
 - b) a kereskedelmi képviselet a Cégközlönyben a megszüntetésről felhívást tett közzé azzal, hogy a hitelezők követeléseiket harminc napon belül nála jelentsék be, de ilyen tartalmú bejelentés nem érkezett, vagy a hitelező követelése kielégítésre került, illetve arra biztosítékot nyújtottak, és
 - c) nincs a kereskedelmi képviseletei tevékenységével összefüggésben a külföldi vállalkozás ellen Magyarországon bírósági vagy hatósági eljárás folyamatban.
 
-(2) A kereskedelmi képviselet kérelemre történő törlésének nem feltétele az (1) bekezdés a)–c) pontjaiban meghatározott feltételek fennállása, ha a külföldi vállalkozás székhelye (bejegyzése) szerinti államnak Magyarországgal nemzetközi szerződése van a polgári és kereskedelmi ügyekre nézve a bírósági joghatóságról és a bírósági határozatok végrehajtásáról, valamint a köztartozások behajtásáról, vagy ezeket a kérdéseket európai uniós jogi szabályozás rendezi. A kereskedelmi képviseletnek azonban ebben az esetben is közzé kell tennie a megszüntetéséről a Cégközlönyben közleményt azzal, hogy a hitelezők követeléseiket harminc napon belül a kereskedelmi képviseletnél jelentsék be, továbbá tájékoztatást kell adnia arról is, hogy a ki nem elégített követeléseket a hitelezők milyen eljárásban érvényesíthetik.
+(2) A kereskedelmi képviselet kérelemre történő törlésének nem feltétele az (1) bekezdés a)–c) pontjaiban meghatározott feltételek fennállása, ha a külföldi vállalkozás székhelye (bejegyzése) szerinti államnak a Magyar Köztársasággal nemzetközi szerződése van a polgári és kereskedelmi ügyekre nézve a bírósági joghatóságról és a bírósági határozatok végrehajtásáról, valamint a köztartozások behajtásáról, vagy ezeket a kérdéseket európai közösségi jogi szabályozás rendezi. A kereskedelmi képviseletnek azonban ebben az esetben is közzé kell tennie a megszüntetéséről a Cégközlönyben közleményt azzal, hogy a hitelezők követeléseiket harminc napon belül a kereskedelmi képviseletnél jelentsék be, továbbá tájékoztatást kell adnia arról is, hogy a ki nem elégített követeléseket a hitelezők milyen eljárásban érvényesíthetik.
 
 (3) A külföldi vállalkozás jogutód nélküli megszűnésére tekintettel a kereskedelmi képviselet törlését is kérelmezni kell a cégbíróságtól. Az (1)–(2) bekezdésben foglaltakat ebben az esetben is alkalmazni kell.
 
@@ -263,11 +249,9 @@ személyek jegyezhetik.
 
 (6)
 
-(7) E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel módosított 12. §-ának (1)–(2) bekezdését először a 2011. évben induló üzleti évről készített beszámolóra kell alkalmazni, és a 2010. évben induló üzleti évről készített beszámolóra is alkalmazhatók.
+### Az Európai Közösségek jogszabályaihoz való közelítés
 
-### Az Európai Unió jogának való megfelelés
-
-38/A. § Ez a törvény a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+38/A. § Ez a törvény az Európai Közösséget létrehozó szerződés 43–48. cikkével, valamint a fizetésképtelenségi eljárásról szóló 346/2000/EK (2000. február 17.) tanácsi rendelettel összeegyeztethető szabályozást tartalmaz.
 
 38/B. § (1)
 

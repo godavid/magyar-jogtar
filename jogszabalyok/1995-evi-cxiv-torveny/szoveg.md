@@ -4,48 +4,23 @@ az igazságügyi szakértői kamaráról
 
 ### I. Fejezet — Általános rendelkezések
 
-1. § (1) A Magyar Igazságügyi Szakértői Kamara (a továbbiakban: MISZK) és a területi igazságügyi szakértői kamara (a továbbiakban: területi kamara) (a továbbiakban együtt: kamara) önkormányzati elven alapuló, az igazságügyi szakértők (a továbbiakban: szakértő) érdekeit képviselő köztestület. A kamara képviseleti, ügyintézői szervezettel és önálló költségvetéssel rendelkezik. Köztestületként a szakértői tevékenység tudományos művelésének támogatásával, a szakmai és etikai elvek meghatározásával és érvényesítésével, valamint a szakértők képviseletével kapcsolatos közfeladatokat látja el. A kamarát a törvényszék nem veszi nyilvántartásba.
+1. § (1) Az igazságügyi szakértői kamara (a továbbiakban: kamara) az igazságügyi szakértők (a továbbiakban: szakértő) önkormányzati elven alapuló szakmai, érdekképviseleti köztestülete. Köztestületként az igazságügyi szakértői tevékenység tudományos művelésének támogatásával, a szakmai és etikai elvek meghatározásával és érvényesítésével, valamint a szakértők képviseletével kapcsolatos közfeladatokat látja el.
 
-(2) A MISZK-et a területi kamarák alkotják, székhelye Budapest.
+(2) A kamara
 
-(3) A MISZK
-
-- a) a szakértői tevékenységgel összefüggő ügyekben képviseli és védi a szakértői kar tekintélyét, testületeinek és tagjainak érdekeit, a szakértők jogait,
-- b) képviseli a szakértői kart a nemzetközi szakmai szervezetekben,
-- c) megalkotja az Alapszabályát,
+- a) az igazságügyi szakértői tevékenységgel összefüggő ügyekben képviseli és védi az igazságügyi szakértői kar tekintélyét, testületeinek és tagjainak érdekeit, a szakértők jogait,
+- b) képviseli az igazságügyi szakértői kart a nemzetközi szakmai szervezetekben,
+- c) megalkotja a Magyar Igazságügyi Szakértői Kamara (a továbbiakban: MISZK) Alapszabályát,
 - d) megalkotja a szakértők etikai kódexét és az etikai eljárási szabályzatot, továbbá a törvényben meghatározott esetekben a szakértővel szemben etikai eljárást folytat le,
-- e) a szakértői tevékenységre vonatkozó iránymutatást ad ki,
+- e) az igazságügyi szakértői tevékenységre vonatkozó iránymutatást ad ki,
 - f) véleményezési jogot gyakorol a szakértők tevékenységét érintő jogszabályok megalkotásánál,
-- g) véleményezési jogot gyakorol a szakértői szervezet fejlesztési irányainak meghatározásában,
-- h) szervezi a szakértők szakértői munkával összefüggő szakmai továbbképzését, ennek során együttműködik a szakmai, társadalmi szervekkel, más szakmai kamarákkal,
-- i) ellátja azokat a feladatokat, amelyeket jogszabály a hatáskörébe utal.
-
-(4) A MISZK feladatellátásának érdekében jogosult kezelni a területi kamarák által kezelt személyes adatokat.
-
-(5) A területi kamara
-
-- a) törvényben meghatározott esetekben kezdeményezi a szakértőnek az igazságügyi szakértők névjegyzékéből (a továbbiakban: névjegyzék) való törlését,
-- b) tagjairól nyilvántartást vezet,
-- c) ha törvény kivételt nem tesz, ellenőrzi a szakértő tevékenységét,
-- d) a működési területén az igazságügyi szakértői tevékenységgel összefüggő ügyekben képviseli és védi az igazságügyi szakértői kar tekintélyét, testületeinek és tagjainak érdekeit, a szakértők jogait,
-- e) ellátja azokat a feladatokat, amelyeket jogszabály a hatáskörébe utal.
-
-(6) Magyarországon a következő területi kamarák működnek:
-
-- a) Budapesti Igazságügyi Szakértői Kamara: Budapest, Nógrád megye és Pest megye,
-- b) Debreceni Igazságügyi Szakértői Kamara: Hajdú-Bihar megye és Szabolcs-Szatmár-Bereg megye,
-- c) Győri Igazságügyi Szakértői Kamara: Győr-Moson-Sopron megye, Komárom-Esztergom megye és Vas megye,
-- d) Kecskeméti Igazságügyi Szakértői Kamara: Bács-Kiskun megye és Jász-Nagykun-Szolnok megye,
-- e) Miskolci Igazságügyi Szakértői Kamara: Borsod-Abaúj-Zemplén megye és Heves megye,
-- f) Pécsi Igazságügyi Szakértői Kamara: Baranya megye, Somogy megye és Tolna megye,
-- g) Szegedi Igazságügyi Szakértői Kamara: Békés megye és Csongrád megye,
-- h) Veszprémi Igazságügyi Szakértői Kamara: Fejér megye, Veszprém megye és Zala megye
-
-területén.
-
-(7) A területi kamara székhelye az elnevezésében szereplő város, illetve a területi kamara alapszabályában meghatározott hely.
-
-(8) Az (5) bekezdés b) pontja szerinti nyilvántartás a kamarai tagok tagsági jogviszonya vonatkozásában közhiteles hatósági nyilvántartás.
+- g) véleményezési jogot gyakorol az igazságügyi szakértői szervezet fejlesztési irányainak meghatározásában,
+- h) szervezi az igazságügyi szakértők jogi és a szakértői munkával összefüggő szakmai továbbképzését, ennek során együttműködik a szakmai, társadalmi szervekkel, más szakmai kamarákkal,
+- i)
+- j) a törvényben meghatározott esetekben kezdeményezi a szakértőnek az igazságügyi szakértők névjegyzékéből (a továbbiakban: névjegyzék) való törlését,
+- k) tagjairól nyilvántartást vezet,
+- l) ha törvény kivételt nem tesz, ellenőrzi a szakértő tevékenységét,
+- m) ellátja azokat a feladatokat, amelyeket jogszabály a hatáskörébe utal.
 
 ### A kamarai hatósági ügyek eljárási szabályai
 
@@ -65,9 +40,9 @@ területén.
 
 (5) A kamarai nyilvántartásból történő törlés iránti eljárást hivatalból meg kell indítani, ha a kamara a törlési okról tudomást szerez. A kamara a törlési eljárás során az ügyfelet nyilatkozattételre és adatszolgáltatásra hívhatja fel.
 
-(6) Ha az ügyfél a kérelmet hiányosan nyújtotta be, az elnökség a kérelem beérkezésétől számított tizenöt napon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel.
+(6) Ha az ügyfél a kérelmet hiányosan nyújtotta be, az elnökség a kérelem beérkezésétől számított tíz munkanapon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel.
 
-(7) A kamara az alapszabályában vagy kamarai szabályzatában közigazgatási hatósági ügynek nem minősülő eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti elektronikus kapcsolattartás szabályainak alkalmazását. A kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény alapján szabályozott elektronikus ügyintézési szolgáltatásokat vehet igénybe.
+(7)
 
 ### A kamarai tagság keletkezése
 
@@ -97,7 +72,7 @@ területén.
 - b) a kamara olyan tényről szerez tudomást, amely a szakértőnek a névjegyzékből való törlését alapozhatja meg,
 - c)
 
-3/A. § (1) Ha a szakértő a kamarai tagdíjat nem fizeti meg, kamarai tagsága megszűnik. A kamarai tagdíjfizetés részletes szabályait – ide nem értve a kamarai tagdíj legalacsonyabb mértékét – a területi kamara alapszabálya állapítja meg.
+3/A. § (1) Ha a szakértő a kamarai tagdíjat nem fizeti meg, kamarai tagsága megszűnik. A kamarai tagdíjfizetés részletes szabályait a területi kamara alapszabálya állapítja meg.
 
 (2) A kamarai tagságnak az (1) bekezdésben meghatározott okból való megszűnését a területi elnökség állapítja meg. A kamarai tagság az erről szóló határozat jogerőre emelkedésének napján szűnik meg. A határozat elleni jogorvoslati kérelem előterjesztésére és elbírálására a 9/A. § rendelkezései – a (3) bekezdésben foglalt kivétellel – megfelelően irányadók.
 
@@ -109,11 +84,11 @@ területén.
 
 ### A kamarai tagság szünetelése
 
-3/B. § (1) A szakértő – kérelmére – a kamara engedélyével kamarai tagságát szüneteltetheti. A szakértő a szünetelés alatt igazságügyi szakértői tevékenységet nem végezhet, a kamarai tagságából és az igazságügyi szakértői tevékenységről szóló törvényből eredő jogai és kötelezettségei szünetelnek. A szünetelés időtartama legfeljebb két év, amely indokolt esetben évente meghosszabbítható. A szünetelés engedélyezésének szabályairól a MISZK Alapszabálya rendelkezik.
+3/B. § (1) A szakértő – kérelmére – a kamara engedélyével kamarai tagságát szüneteltetheti. A szakértő a szünetelés alatt igazságügyi szakértői tevékenységet nem végezhet, a kamarai tagságából és az igazságügyi szakértői tevékenységről szóló törvényből eredő jogai és kötelezettségei szünetelnek. A szünetelés időtartama legfeljebb két év, amely indokolt esetben egy évvel meghosszabbítható. A szünetelés engedélyezésének szabályairól a MISZK Alapszabálya rendelkezik.
 
 (2) A kérelem elbírálására a 9/A. §-t kell alkalmazni. A területi elnökség a jogerős határozatot megküldi az igazságügyi szakértői névjegyzéket vezető hatóságnak az igazságügyi szakértői névjegyzékbe történő bejegyzés céljából.
 
-(3) A kamara engedélye nem szükséges a kamarai tagságnak az országgyűlési képviselői, a nemzetiségi szószólói, az európai parlamenti képviselői vagy a polgármesteri megbízatás, az állami vezetői szolgálati jogviszony, az állami vezetőként betöltött jogviszony vagy az Országgyűlés által választott közjogi tisztségviselő e megbízatása miatti szüneteléshez. Ezen esetekben a szünetelés időtartama a megbízatás lejártáig tart. A szakértő az ilyen szünetelést köteles a kamarának bejelenteni, amely megküldi az igazságügyi szakértői névjegyzéket vezető hatóságnak a névjegyzékbe történő bejegyzés céljából.
+(3) A kamara engedélye nem szükséges a kamarai tagságnak az országgyűlési képviselői, az európai parlamenti képviselői vagy a polgármesteri megbízatás, illetve az állami vezetői szolgálati jogviszony vagy az Országgyűlés által választott közjogi tisztségviselő e megbízatása miatti szüneteléshez. Ezen esetekben a szünetelés időtartama a megbízatás lejártáig tart. A szakértő az ilyen szünetelést köteles a kamarának bejelenteni, amely megküldi az igazságügyi szakértői névjegyzéket vezető hatóságnak a névjegyzékbe történő bejegyzés céljából.
 
 ### A kamarai tagság felfüggesztése
 
@@ -126,7 +101,7 @@ területén.
 
 (3) A felfüggesztés az (1) bekezdés a) pontja esetében az eljárás jogerős befejezéséig, a b) pont esetében egy évig tart.
 
-(4) A felfüggesztés ellen a szakértő, képviselője és az igazságügyért felelős miniszter a határozat kézbesítésétől számított tizenöt napon belül fellebbezést nyújthat be a MISZK elnökségéhez. A területi elnökség az (1) bekezdés a) pontja szerinti döntést – fontos közrendvédelmi okból – fellebbezésre tekintet nélkül végrehajthatónak nyilváníthatja.
+(4) A felfüggesztés ellen a szakértő, képviselője és az igazságügyért felelős miniszter a határozat kézbesítésétől számított tíz munkanapon belül fellebbezést nyújthat be a MISZK elnökségéhez. A területi elnökség az (1) bekezdés a) pontja szerinti döntést – fontos közrendvédelmi okból – fellebbezésre tekintet nélkül végrehajthatónak nyilváníthatja.
 
 (5) Ha a MISZK elnöksége a fellebbezést elutasította, a határozata ellen a szakértő, képviselője és az igazságügyért felelős miniszter a határozat kézbesítésétől számított 30 napon belül bírósághoz fordulhat.
 
@@ -145,11 +120,28 @@ területén.
 
 - a) megtartsa a kamara alapszabályában és egyéb szabályzatában foglaltakat,
 - b) megfizesse a kamarai tagdíjat.
-- c) részt vegyen a kamara által szervezett – és a MISZK Alapszabályában előírt – szakmai képzésekben.
+- c) részt vegyen a kamara által szervezett – és a MISZK Alapszabályában előírt – jogi és szakmai képzésekben.
 
-### II. Fejezet
+### II. Fejezet — A területi kamara
 
-5. §
+5. § (1) A területi kamara jogi személy, amely képviseleti, ügyintézői szervezettel és önálló költségvetéssel rendelkezik, és a működési területén képviseli a szakértők érdekeit, gondoskodik a jogaik védelméről, ellátja az alapszabályban meghatározott feladatokat.
+
+(2) A Magyar Köztársaság területén a következő területi kamarák működnek:
+
+- a) Budapesti Igazságügyi Szakértői Kamara: Budapest, Nógrád megye és Pest megye,
+- b) Debreceni Igazságügyi Szakértői Kamara: Hajdú-Bihar megye és Szabolcs-Szatmár-Bereg megye,
+- c) Győri Igazságügyi Szakértői Kamara: Győr-Moson-Sopron megye, Komárom-Esztergom megye és Vas megye,
+- d) Kecskeméti Igazságügyi Szakértői Kamara: Bács-Kiskun megye és Jász-Nagykun-Szolnok megye,
+- e) Miskolci Igazságügyi Szakértői Kamara: Borsod-Abaúj-Zemplén megye és Heves megye,
+- f) Pécsi Igazságügyi Szakértői Kamara: Baranya megye, Somogy megye és Tolna megye,
+- g) Szegedi Igazságügyi Szakértői Kamara: Békés megye és Csongrád megye,
+- h) Veszprémi Igazságügyi Szakértői Kamara: Fejér megye, Veszprém megye és Zala megye
+
+területén.
+
+(3) A területi kamara székhelye az elnevezésében szereplő város, illetve a területi kamara alapszabályában meghatározott hely.
+
+(4) A területi kamara jogosult az állami címer használatára.
 
 ### A területi kamara szervei
 
@@ -176,8 +168,7 @@ területén.
 - f) elfogadja – összhangban a MISZK Alapszabályával – a területi kamara alapszabályát,
 - g) javaslatot tesz az igazságügyért felelős miniszter rendeletében szabályozott szakértői díj összegére, számítására és a díjazás rendszerére,
 - h) dönt a területi kamara tisztségviselőinek díjazásáról,
-- i) az a) pontban felsoroltakat visszahívhatja,
-- j) a MISZK által megállapított legalacsonyabb mértéknek megfelelően meghatározza a kamarai hozzájárulás mértékét.
+- i) az a) pontban felsoroltakat visszahívhatja.
 
 (3) A területi kamara elnöksége szükség szerint, de évente legalább egy alkalommal köteles a közgyűlést összehívni. A kamarai tagok legalább egyharmadának indítványára a közgyűlést össze kell hívni. A kamarai tagok összehívása az (5) bekezdésben foglaltakra való figyelmeztetés mellett történik.
 
@@ -214,9 +205,9 @@ területén.
 - i) határoz az etikai eljárás során a területi kamara etikai bizottságának elnökével szemben előterjesztett kizárási indítványról, és az etikai bizottság elnökének kizárása esetén – ha az etikai tanács határozatképtelenné válik – új etikai tanácsot jelöl ki,
 - j) ellátja azokat a feladatokat, amelyeket jogszabály vagy az alapszabály a hatáskörébe utal.
 
-9/A. § (1) A területi elnökség a szünetelés iránti kérelemről a megérkezését követő naptól számított harminc napon belül határoz.
+9/A. § (1) A területi elnökség a szünetelés iránti kérelemről a benyújtásától számított 22 munkanapon belül határoz.
 
-(2) A határozat ellen a kérelmező a kézbesítéstől számított tizenöt napon belül a MISZK elnökségéhez fellebbezhet.
+(2) A határozat ellen a kérelmező a kézbesítéstől számított tíz munkanapon belül a MISZK elnökségéhez fellebbezhet.
 
 (3) Ha a MISZK elnöksége a fellebbezést elutasította, a kérelmező a határozat kézbesítésétől számított 30 napon belül a polgári perrendtartásról szóló törvény közigazgatási perekre irányadó szabályai szerint a bírósághoz fordulhat.
 
@@ -248,7 +239,11 @@ területén.
 
 ### III. Fejezet — A Magyar Igazságügyi Szakértői Kamara
 
-14. §
+14. § (1) A MISZK a szakértők országos szervezete, amely képviseli a szakértők érdekeit, véleményt nyilvánít a szakértőket érintő kérdésekben.
+
+(2) A MISZK-et a területi kamarák alkotják; a székhelye: Budapest.
+
+(3) A MISZK jogosult az állami címer használatára.
 
 15. § (1) A MISZK szervei
 
@@ -269,7 +264,7 @@ területén.
 - b) elfogadja a költségvetést és a költségvetési beszámolót,
 - c) dönt a MISZK tisztségviselőinek díjazásáról,
 - d) megalkotja a MISZK Alapszabályát,
-- e) meghatározza az éves kamarai hozzájárulás legalacsonyabb mértékét és a MISZK által nyújtott szolgáltatásokért fizetendő egyéb hozzájárulások mértékét, a kamarai hozzájárulás alóli részleges vagy teljes mentesülés szabályait és a területi kamarák anyagi hozzájárulását,
+- e) meghatározza a kamarai hozzájárulás mértékét és a területi kamarák anyagi hozzájárulását,
 - f) elfogadja az elnökség jelentéseit, véleményt nyilvánít az előterjesztésekről, iránymutatásokról,
 - g) megalkotja a szakértői tevékenység etikai kódexét és az etikai eljárási szabályzatot, a szakértőjelölti igazolvány kiadásáról és külalakjáról szóló szabályzatot, valamint a szakértői módszertani levél kiadásának részletes szabályairól szóló szabályzatot,
 - h) jóváhagyja a területi kamarák által a szakbizottságokba delegált jelölteket,
@@ -278,7 +273,7 @@ területén.
 
 (3) A MISZK elnöksége szükség szerint, de évenként legalább egy alkalommal összehívja a küldöttgyűlést. A tagok legalább egyharmadának indítványára a küldöttgyűlést össze kell hívni. A területi kamarák elnökeit és a területi kamarák által választott tagokat az (5) bekezdésben foglaltakra való figyelmeztetés mellett kell meghívni.
 
-(4) A küldöttgyűlés határozatképes, ha azon a tagok több, mint a fele jelen van. A küldöttgyűlés határozatainak érvényességéhez a megjelent tagok többségének szavazata, a MISZK Alapszabályának elfogadásához és módosításához a tagok kétharmadának szavazata kell. Szavazategyenlőség esetén az elnök szavazata dönt.
+(4) A küldöttgyűlés határozatképes, ha azon a tagok fele jelen van. A küldöttgyűlés határozatainak érvényességéhez a megjelent tagok többségének szavazata, a MISZK Alapszabályának elfogadásához és módosításához a tagok kétharmadának szavazata kell. Szavazategyenlőség esetén az elnök szavazata dönt.
 
 (5) A küldöttgyűlés határozatképtelensége esetén legalább nyolc nappal későbbre, azonos napirenddel összehívott küldöttgyűlés – a megjelentek számára tekintet nélkül – határozatképes.
 
@@ -320,7 +315,7 @@ területén.
 
 ### Az etikai bizottság
 
-21. § (1) A küldöttgyűlés a szakértők közül megválasztja a 12 tagú etikai bizottságot: 11 tagot és az elnököt.
+21. § (1) A küldöttgyűlés tagjai közül megválasztja a 12 tagú etikai bizottságot: 11 tagot és az elnököt.
 
 (2)
 
@@ -328,7 +323,7 @@ területén.
 
 ### A számvizsgáló bizottság
 
-22. § (1) A küldöttgyűlés a a szakértők közül megválasztja a háromtagú számvizsgáló bizottságot: két tagot és az elnököt.
+22. § (1) A küldöttgyűlés a tagjai közül megválasztja a háromtagú számvizsgáló bizottságot: két tagot és az elnököt.
 
 (2) A számvizsgáló bizottság a MISZK gazdasági és pénzügyi működését ellenőrzi. A számvizsgáló bizottság évente egyszer köteles a küldöttgyűlésnek beszámolni.
 
@@ -340,7 +335,7 @@ területén.
 
 ### A szakterület felülvizsgáló bizottság
 
-23/A. § (1) A küldöttgyűlés a a szakértők közül megválasztja a háromtagú szakterület felülvizsgáló bizottságot: két tagot és az elnököt.
+23/A. § (1) A küldöttgyűlés a tagjai közül megválasztja a háromtagú szakterület felülvizsgáló bizottságot: két tagot és az elnököt.
 
 (2) A bizottság figyelemmel kíséri a szakterületekhez kapcsolódó képesítési és továbbképzési követelményeket, és – szükség szerint – javaslatot tesz a jogszabály módosítására. A bizottság évente egyszer köteles a küldöttgyűlésnek beszámolni.
 
@@ -356,7 +351,7 @@ területén.
 
 25. § (1) A tisztségviselő megbízatása megszűnik a tisztségviselő lemondásával, visszahívásával, kamarai tagságának megszűnésével, valamint a megbízatás idejének lejártával. Az etikai bizottság elnökének és tagjának megbízatása akkor is megszűnik, ha az ellene indult etikai, fegyelmi, szabálysértési vagy büntetőeljárás során jogerősen elmarasztalták.
 
-(2) A tisztségviselő visszahívását az őt megválasztó szerv tagjainak egytizede kezdeményezheti. A területi kamara tisztségviselőjének visszahívását a területi kamara tisztségviselője, a MISZK tisztségviselője visszahívását a MISZK tisztségviselője is kezdeményezheti.
+(2) A tisztségviselő visszahívását az őt megválasztó szerv tagjainak egytizede, a területi kamara vagy a MISZK tisztségviselője kezdeményezheti.
 
 (3) A visszahívásról – titkos szavazással – az a testület dönt, amelyik a tisztségviselőt megválasztotta, a kezdeményezéstől számított 30 napon belül.
 
@@ -364,7 +359,12 @@ területén.
 
 ### Etikai vétség, etikai büntetések
 
-26. § (1) Etikai vétséget követ el az a szakértő, aki vétkesen megszegi a szakértői tevékenység gyakorlásából eredő, jogszabályban vagy az alapszabályban meghatározott kötelezettségét, vagy a szakértők etikai kódexében foglalt magatartási szabályokat. Etikai vétséget követ el az a szakértő is, aki szakértői tevékenységén kívüli vétkes magatartásával a szakértői kar tekintélyét csorbítja. Az etikai eljárás során szakmai szempontból nem vizsgálható az a szakvélemény, amelyet a bíróság jogerős ítéletének meghozatala során elfogadott.
+26. § (1) Etikai vétséget követ el az a szakértő, aki
+
+- a) vétkesen megszegi
+  - aa) az igazságügyi szakértői tevékenység gyakorlásából eredő, jogszabályban vagy az alapszabályban meghatározott kötelezettségét,
+  - ab) a szakértők etikai kódexében foglalt magatartási szabályokat,
+- b) szakértői tevékenységén kívüli vétkes magatartásával a szakértői kar tekintélyét csorbítja.
 
 (2) Az etikai vétséget elkövető szakértővel szemben kiszabható büntetések:
 
@@ -378,9 +378,7 @@ területén.
 
 (4) A kamarából való kizárás esetén a területi kamara elnöksége, illetve a MISZK elnöksége kezdeményezi a szakértőnek a névjegyzékből való törlését.
 
-(5) A kamara etikai tanácsa – az (5a) bekezdésben foglaltak kivételével – az etikai büntetést az etikai vétség súlyára és ismétlődésére, valamint az etikai vétséggel érintett ügy érdemére való kihatására tekintettel, az elkövetésre irányuló szándék vagy a gondatlanság fokának megfelelően, az összes súlyosbító és enyhítő körülmény figyelembevételével, mérlegelési jogkörében szabja ki.
-
-(5a) A kamara etikai tanácsa a (2) bekezdés e) pontja szerinti büntetést szabja ki azzal a szakértővel szemben, akiről a kamara nyolc éven belül harmadik alkalommal állapítja meg, hogy etikai vétséget követett el.
+(5) Az etikai büntetés kiszabásánál figyelembe kell venni az enyhítő és a súlyosbító körülményeket, így különösen az etikai vétség súlyát és ismétlődését, a szándékosság vagy a gondatlanság fokát.
 
 (6) A pénzbírság összege a – büntetés kiszabásának évében esedékes – a MISZK küldöttgyűlése által megállapított éves kamarai hozzájárulás tízszereséig terjedhet. A pénzbírságot ahhoz a területi kamarához kell megfizetni, amelynek a panaszolt szakértő a tagja; felhasználására a MISZK Alapszabályának rendelkezései az irányadók.
 
@@ -427,7 +425,7 @@ területén.
 
 (3) Az etikai bizottság elnöke, az etikai tanács elnöke és tagja, a vizsgálóbiztos, a 37. § (3) bekezdése szerinti szakértő, valamint a jegyzőkönyvvezető haladéktalanul köteles bejelenteni, ha vele szemben kizáró ok áll fenn.
 
-(4) A panaszolt szakértő és a területi kamara elnöke az (1) bekezdésben felsorolt körülményekre hivatkozással az etikai bizottság elnökével, az etikai tanács elnökével és tagjával, a vizsgálóbiztossal, a 37. § (3) bekezdése szerinti szakértővel, valamint a jegyzőkönyvvezetővel szemben kizárási indítványt terjeszthet elő az eljáró etikai tanácsnál.
+(4) A panaszolt szakértő az (1) bekezdésben felsorolt körülményekre hivatkozással az etikai bizottság elnökével, az etikai tanács elnökével és tagjával, a vizsgálóbiztossal, a 37. § (3) bekezdése szerinti szakértővel, valamint a jegyzőkönyvvezetővel szemben kizárási indítványt terjeszthet elő az eljáró etikai tanácsnál.
 
 (5) A kizárási indítványról, ha az
 
@@ -463,10 +461,7 @@ területén.
 
 - a) az annak tárgyát képező cselekményt etikai eljárás során már jogerősen elbírálták, kivéve ha a 48/H. § alapján új eljárás kezdeményezésének van helye,
 - b) az abban megjelölt személy nem igazságügyi szakértő,
-- c) a kezdeményező az erre irányuló felhívás ellenére a megadott határidőben a kezdeményezésnek a felhívásban megjelölt hiányait nem pótolta,
-- d) a kezdeményezés és mellékletei alapján az etikai vétség elkövetése egyértelműen kizárható,
-- e) a cselekmény elévült,
-- f) a kezdeményezésben foglaltak vizsgálatát jogszabály kizárja.
+- c) a kezdeményező az erre irányuló felhívás ellenére a megadott határidőben a kezdeményezésnek a felhívásban megjelölt hiányait nem pótolta.
 
 (2) A határozatot kézbesíteni kell a kezdeményezőnek és a panaszolt szakértőnek; a panaszolt szakértő példányához a kezdeményezést és annak mellékleteit is csatolni kell.
 
@@ -479,12 +474,14 @@ területén.
 - a) a cselekmény elévült,
 - b) a sérelmezett cselekmény a 26. § (1) bekezdése alapján nem minősül etikai vétségnek,
 - c) a kezdeményezés és mellékletei alapján az etikai vétség elkövetésének alapos gyanúja nem állapítható meg,
-- d) a kezdeményezést a 33. § (1) bekezdés alapján el kellett volna utasítani.
+- d) a kezdeményezést a 33. § (1) bekezdés a) vagy b) pontja alapján el kellett volna utasítani.
 
 (3) A cselekmény elévült, ha
 
-- a) a kezdeményező a cselekménynek a tudomására jutásától számított hat hónap alatt az etikai eljárást nem kezdeményezte vagy
-- b) a cselekmény befejezése óta két év eltelt.
+- a) a cselekménynek a kezdeményező tudomására jutásától számítva hat hónap vagy
+- b) a cselekmény elkövetése óta két év
+
+eltelt a kezdeményezés előterjesztése nélkül.
 
 (4) Ha a panaszolt szakértő a szakvélemény elkészítése során vagy a szakvélemény elkészítését követően, ahhoz kapcsolódóan több részcselekményt végez, az elévülési idő kezdőidőpontja az utolsó részcselekmény elvégzésének időpontja.
 
@@ -500,7 +497,7 @@ területén.
 
 ### Etikai vizsgálat
 
-37. § (1) Az etikai tanács elnöke, ha a kezdeményezésből az állapítható meg, hogy a tényállás – előre láthatóan – a kezdeményezés és mellékletei, valamint a panaszolt szakértő és a kezdeményező tanúkénti meghallgatása alapján tisztázható, azonnal – legkésőbb 60 napon belüli határnapra – tárgyalást tűz ki, egyéb esetben vizsgálóbiztost jelöl ki, és etikai vizsgálat lefolytatását rendeli el.
+37. § (1) Az etikai tanács elnöke, ha a kezdeményezésből az állapítható meg, hogy a tényállás – előre láthatóan – a kezdeményezés és mellékletei, valamint a panaszolt szakértő és a kezdeményező tanúkénti meghallgatása alapján tisztázható, azonnal tárgyalást tűz ki, egyéb esetben vizsgálóbiztost jelöl ki, és etikai vizsgálat lefolytatását rendeli el.
 
 (2) Az etikai vizsgálat célja az etikai vétséget megalapozó tényállás felderítése és az etikai tanács eljárásának előkészítése.
 
@@ -510,7 +507,7 @@ területén.
 
 (5) A vizsgálóbiztos az eljárásának eredményéről jelentésben számol be az etikai tanácsnak, melyhez a bizonyítékként szolgáló iratokat csatolja. A vizsgálóbiztost az etikai tanács meghallgathatja.
 
-(6) Az etikai vizsgálatot 45 nap alatt le kell zárni. Ezt a határidőt az etikai tanács elnöke indokolt esetben, egy alkalommal további 45 nappal meghosszabbíthatja. Az etikai tanács az etikai vizsgálat lezárását követő 60 napon belül tárgyalást tart.
+(6) Az etikai vizsgálatot 45 nap alatt le kell zárni. Ezt a határidőt az etikai tanács elnöke indokolt esetben, egy alkalommal további 45 nappal meghosszabbíthatja.
 
 ### Az etikai tanács eljárása
 
@@ -535,8 +532,7 @@ területén.
 
 - a) a kérelmet már az etikai tanács kijelölése nélkül el kellett volna utasítani, kivéve a 33. § (1) bekezdés c) pontjában foglalt okot,
 - b) a sérelmezett cselekmény a 26. § (1) bekezdése alapján nem minősül etikai vétségnek,
-- c) a cselekmény elévülése miatt az eljárás megindítását meg kellett volna tagadni,
-- d) a panaszolt szakértő kamarai tagsága megszűnt.
+- c) a panaszolt szakértő kamarai tagsága megszűnt.
 
 39. § (1) Ha az etikai tanács tárgyalást tűz ki, arra a tanács elnöke a tárgyalás helyének és időpontjának közlésével a panaszolt szakértőt és képviselőjét, továbbá – ha a meghallgatására még nem került sor és az etikai tanács szerint az szükséges – a kezdeményezőt, mint tanút, a további tanút, a kirendelt szakértőt megidézi, a vizsgálóbiztost és a tagság szerinti kamara elnökét értesíti. A tárgyaláson a megidézettek és az értesítettek lehetnek jelen.
 
@@ -554,7 +550,7 @@ területén.
 
 (6) Ha az etikai tárgyaláson megjelent panaszolt szakértőt az etikai tanács meghallgatja, ennek kezdetekor figyelmeztetni kell arra, hogy a nyilatkozattételt a meghallgatás során bármikor megtagadhatja. Figyelmeztetni kell arra is, hogy bármi, amit mond, illetve rendelkezésre bocsát, bizonyítékként felhasználható. A figyelmeztetés megtörténtét és az arra adott választ jegyzőkönyvbe kell foglalni. A figyelmeztetés elmaradása esetén a panaszolt szakértő nyilatkozata és a meghallgatása során általa csatolt bizonyíték – a panaszolt szakértő terhére – nem használható fel.
 
-(7) Az etikai tanács a tárgyalást további bizonyítás lefolytatása érdekében legfeljebb 60 nappal elhalaszthatja.
+(7) Az etikai tanács a tárgyalást további bizonyítás lefolytatása érdekében elhalaszthatja.
 
 ### Jegyzőkönyv
 
@@ -630,21 +626,9 @@ területén.
 
 (3) Az etikai bizottság elnöke és az etikai tanács a kijavításról és a kiegészítésről hivatalból vagy kérelemre – a szükséghez képest az érintettek meghallgatása után – hoz határozatot, és azt mindazok számára kézbesíti, akiknek a kijavítással vagy kiegészítéssel érintett határozatot kézbesíteni kellett.
 
-### Az etikai eljárás során hozott határozatok módosítása, visszavonása
-
-46/A. § (1) Ha az etikai bizottság elnöke, vagy az etikai tanács megállapítja, hogy
-
-- a) a bíróság,
-- b) az első fokon eljáró etikai bizottság elnöke határozata esetében a másodfokú etikai bizottság elnöke vagy
-- c) az elsőfokú etikai tanács határozata esetében a másodfokú etikai tanács
-
-által el nem bírált határozata jogszabályt, alapszabályt vagy kamarai szabályzatot sért, a határozatát módosítja vagy visszavonja. A határozatot annak kell kézbesíteni, akinek a módosított vagy visszavont határozatot kézbesítették.
-
-(2) Az (1) bekezdés szerinti eljárás lefolytatására, ha törvény eltérően nem rendelkezik, az etikai bizottság elnöke vagy az etikai tanács csak egy ízben, és a határozat jogerőre emelkedésétől számított egy éven belül jogosult. Ha a határozat bírósági felülvizsgálata van folyamatban, az etikai bizottság elnöke vagy az etikai tanács az érdemi ellenkérelem előterjesztéséig módosíthatja vagy vonhatja vissza határozatát.
-
 ### Az etikai eljárás költségei
 
-47. § (1) A (2) bekezdésben foglalt kivétellel az elsőfokú etikai eljárás költségeit az első fokon eljáró területi kamara, a másodfokú etikai eljárás költségeit a MISZK előlegezi. Az etikai eljárás költsége az etikai tanács szükséges és igazolt készkiadásait fedező költségátalány, amelynek összegét a MISZK Alapszabálya állapítja meg, továbbá az eljárás résztvevőinek az utazással felmerült szükséges és igazolt költségei.
+47. § (1) A (2) bekezdésben foglalt kivétellel az elsőfokú etikai eljárás költségeit az első fokon eljáró területi kamara, a másodfokú etikai eljárás költségeit a MISZK előlegezi. Az etikai eljárás költsége az etikai tanács szükséges és igazolt készkiadásait fedező költségátalány, amelynek összegét a MISZK Alapszabálya állapítja meg, továbbá az eljárás résztvevőinek az utazással felmerült igazolt költségei.
 
 (2) Az etikai eljárás során keletkezett iratokból a másolat egyszeri kiadásának költségét az első fokon eljáró területi kamara előlegezi, míg további másolat a MISZK Alapszabályában meghatározott mértékű költségtérítés ellenében adható ki.
 
@@ -701,7 +685,7 @@ területén.
 
 (3) A másodfokú etikai tanácsnak az etikai eljárást befejező határozattal szemben előterjesztett fellebbezés folytán hozott határozata felülvizsgálatát – kivéve az elsőfokú határozatot hatályon kívül helyező és új eljárás lefolytatását elrendelő határozatot – a panaszolt szakértő (képviselője) és a tagság szerinti kamara elnöke a határozat kézbesítésétől számított 30 napon belül a MISZK-kel szemben indított polgári nemperes eljárásban kérheti.
 
-(4) A (3) bekezdés szerinti kérelem elbírálása a közigazgatási és munkaügyi bíróság hatáskörébe tartozik. A kérelemről a bíróság az egyes közigazgatási nemperes eljárásokban alkalmazandó szabályokról szóló törvény rendelkezéseit alkalmazva határoz, a határozatot megváltoztathatja. A kérelemnek a határozat végrehajtására halasztó hatálya nincs.
+(4) A (3) bekezdés szerinti kérelem elbírálása a megyei (fővárosi) bíróság hatáskörébe tartozik. A kérelemről a bíróság az egyes közigazgatási nemperes eljárásokban alkalmazandó szabályokról szóló törvény rendelkezéseit alkalmazva határoz, a határozatot megváltoztathatja. A kérelemnek a határozat végrehajtására halasztó hatálya nincs.
 
 48/G. § A másodfokú etikai eljárásban egyebekben az elsőfokú eljárás szabályait megfelelően alkalmazni kell.
 
@@ -714,19 +698,11 @@ területén.
 
 ### Értesítés a jogerős határozatról
 
-48/I. § (1) Az etikai eljárást befejező határozatot a jogerőre emelkedését követően, továbbá az e határozattal szemben előterjesztett fellebbezés folytán hozott másodfokú határozatot, valamint a bírósági felülvizsgálat folytán hozott bírósági határozatot az első fokon eljáró területi kamara etikai bizottsága megküldi a kezdeményezőnek és a tagság szerinti kamarának, ha az etikai eljárást nem ez a területi kamara folytatta le.
+48/I. § (1) Az etikai bizottság elnökének a kezdeményezést etikai tanács kijelölése nélkül elutasító, jogerőre emelkedett határozatát és az etikai tanácsnak az etikai eljárás megindítását megtagadó jogerőre emelkedett határozatát, továbbá az e határozatokkal szemben előterjesztett fellebbezés folytán hozott másodfokú határozatot az első fokon eljáró területi kamara etikai bizottsága megküldi az igazságügyért felelős miniszternek.
 
-(2) Az első fokon eljáró területi kamara etikai bizottsága a 26. § (2) bekezdés d) és e) pontja szerinti büntetéseket tartalmazó jogerős döntésről a jogerőre emelkedéstől számított 15 napon belül értesíti az igazságügyi szakértői névjegyzéket vezető hatóságot.
-
-(3) Az első fokon eljáró területi kamara a tárgyévben jogerőre emelkedett etikai büntetésekről a tárgyévet követő év január 15-ig értesíti az igazságügyi szakértői névjegyzéket vezető hatóságot.
+(2) Az etikai eljárást befejező határozatot a jogerőre emelkedését követően, továbbá az e határozattal szemben előterjesztett fellebbezés folytán hozott másodfokú határozatot, valamint a bírósági felülvizsgálat folytán hozott bírósági határozatot az első fokon eljáró területi kamara etikai bizottsága megküldi az igazságügyért felelős miniszternek, az igazságügyi szakértői névjegyzéket vezető hatóságnak, a kezdeményezőnek és a tagság szerinti kamarának, ha az etikai eljárást nem ez a területi kamara folytatta le.
 
 48/J. § Az etikai eljárásra vonatkozó, a törvényben nem szabályozott részletes rendelkezéseket az etikai eljárási szabályzat állapítja meg.
-
-### Etikai büntetések nyilvántartása
-
-48/K. § (1) A területi kamara a tagjaival szemben hozott jogerős etikai büntetésekről nyilvántartást vezet.
-
-(2) A kamara a tagjával szemben hozott jogerős etikai büntetésre vonatkozó adatot a nyilvántartásából az etikai büntetés végrehajtásától vagy végrehajthatósága megszűnésétől számított nyolc év elteltével törli.
 
 ### VI. Fejezet — A kamara működése feletti törvényességi felügyelet
 
@@ -734,7 +710,7 @@ területén.
 
 (2) A törvényességi felügyelet nem terjed ki olyan ügyre, amelyben egyébként bírósági vagy más hatósági eljárásnak van helye.
 
-49/A. § (1) Az igazságügyért felelős miniszter a törvényességi felügyeleti jogkörében ellenőrzi, hogy a kamara alapszabálya, határozatai, szabályzatai és iránymutatásai megfelelnek-e a jogszabályoknak, illetve hogy a kamara működése a jogszabályi rendelkezésekkel, az alapszabállyal, valamint a szabályzatokkal összeegyeztethető-e.
+49/A. § (1) Az igazságügyért felelős miniszter a törvényességi felügyeleti jogkörében ellenőrzi, hogy a kamara alapszabálya, szabályzatai és iránymutatásai megfelelnek-e a jogszabályoknak, illetve hogy a kamara működése a jogszabályi rendelkezésekkel, az alapszabállyal, valamint a szabályzatokkal összeegyeztethető-e.
 
 (2) A kamara az alapszabályt, a szabályzatokat és az iránymutatásokat törvényességi felügyeleti vizsgálat céljából köteles megküldeni az igazságügyért felelős miniszternek az elfogadásuktól számított 30 napon belül.
 
@@ -742,11 +718,11 @@ területén.
 
 (2) Az érintett kamara elnöke köteles a megjelölt határidőn belül a jogsértés megszüntetése érdekében a szükséges intézkedéseket megtenni, vagy egyet nem értéséről az igazságügyért felelős minisztert tájékoztatni.
 
-(3) Ha az érintett kamara elnöke a megjelölt határidőn belül a szükséges intézkedéseket nem tette meg, vagy az igazságügyért felelős miniszter felhívásában foglaltakkal nem ért egyet, továbbá ha a megadott határidőn belül nem nyilatkozik, az érintett kamara ellen az igazságügyért felelős miniszter az elnök tájékoztatásának kézhezvételétől, illetve a felhívásában megjelölt határidő leteltétől számított 30 napon belül – a jogsértés megszüntetése érdekében – a polgári perrendtartásról szóló törvény általános szabályai szerint bírósághoz fordulhat. A per elbírálása a törvényszék hatáskörébe tartozik.
+(3) Ha az érintett kamara elnöke a megjelölt határidőn belül a szükséges intézkedéseket nem tette meg, vagy az igazságügyért felelős miniszter felhívásában foglaltakkal nem ért egyet, továbbá ha a megadott határidőn belül nem nyilatkozik, az érintett kamara ellen az igazságügyért felelős miniszter az elnök tájékoztatásának kézhezvételétől, illetve a felhívásában megjelölt határidő leteltétől számított 30 napon belül – a jogsértés megszüntetése érdekében – a polgári perrendtartásról szóló törvény általános szabályai szerint bírósághoz fordulhat. A per elbírálása a megyei (fővárosi) bíróság hatáskörébe tartozik.
 
 (4) Ha bíróság a (3) bekezdés alapján indított eljárás során a jogsértést megállapítja,
 
-- a) a jogsértő alapszabályt, szabályzatot, iránymutatást vagy meghozott egyéb döntést hatályon kívül helyezi és új döntés meghozatalát rendeli el,
+- a) a jogsértő alapszabályt, szabályzatot, iránymutatást vagy meghozott egyéb döntést megsemmisíti és új döntés meghozatalát rendeli el,
 - b) a működés törvényességének helyreállítása céljából elrendeli a jogsértés orvoslására vagy a jogsértően működő kamarai szerv, tisztségviselő választására jogosult kamarai szerv összehívását, vagy
 - c) felfüggeszti a kamara jogsértően működő szervének, tisztségviselőjének működését, a felfüggesztés időtartamára felügyelőbiztost rendel ki és annak a törvényesség helyreállításához szükséges feladatait előírja.
 

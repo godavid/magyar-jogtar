@@ -49,7 +49,7 @@ Az Országgyűlés annak érdekében, hogy a magyar agrárgazdaság hosszú táv
 
 (6) A szaktanácsadói tevékenység engedélyezésére, a szaktanácsadói nyilvántartás vezetésére, valamint az ezekhez kapcsolódó ellenőrzési feladatok végzésére a Kormány nem közigazgatási feladat ellátására létrehozott szervezetet is kijelölhet.
 
-(7) A (6) bekezdés szerinti szerv hatósági eljárásában ügyintéző, illetve döntéshozó csak olyan személy lehet, aki a közszolgálati tisztviselőkről szóló törvény alapján kormánytisztviselőnek – nyilvántartás vezetése esetén kormányzati ügykezelőnek – kinevezhető lenne. A döntéshozóra és az ügyintézőre a közszolgálati tisztviselőkről szóló törvény összeférhetetlenségi szabályait kell alkalmazni.
+(7) A (6) bekezdés szerinti szerv hatósági eljárásában ügyintéző, illetve döntéshozó csak olyan személy lehet, aki a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) szerint köztisztviselőnek – nyilvántartás vezetése esetén ügykezelőnek – kinevezhető lenne. A döntéshozóra és az ügyintézőre a Ktv. összeférhetetlenségi szabályait kell alkalmazni.
 
 (8) A (2) bekezdés szerinti szakértői tevékenység folytatásával, illetve a (3) bekezdés szerinti szaktanácsadói tevékenység engedélyezésével kapcsolatos közigazgatási eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
 

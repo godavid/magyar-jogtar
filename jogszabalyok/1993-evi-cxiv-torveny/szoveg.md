@@ -17,7 +17,7 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 - e) hosszú távon megőrizhetők legyenek a nemzeti értéket képviselő fajták génjei, egyedei, illetve azok csoportjai, genetikai sokféleségük;
 - f) biztosítsa a nemzetközi előírásokhoz való alkalmazkodást.
 
-2. § A törvény hatálya kiterjed a szarvasmarha, bivaly, juh, kecske, ló, szamár, sertés, baromfi, házinyúl, csincsilla, magyar ebfajták, mézelő méh, ponty, és az egyéb állatok gazdasági célú tenyész- és haszonérték növelő köztenyésztésére, valamint a vadászható vadfajok zárttéri, élelmiszer-termelési célú köztenyésztésére.
+2. § A törvény hatálya kiterjed a szarvasmarha, bivaly, juh, kecske, ló, szamár, sertés, baromfi, házinyúl, prémes állat, méh, hal, és az egyéb állatok gazdasági célú tenyész- és haszonérték növelő köztenyésztésére, valamint a vadászható vadfajok zárttéri, élelmiszer-termelési célú köztenyésztésére.
 
 ### Fogalommeghatározások
 
@@ -48,7 +48,7 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 - 20. Tenyésztési hatóság: az állattenyésztési hatósági feladatok ellátásáért felelős szerv.
 - 21. Tenyésztési program: meghatározott gazdasági cél elérésére végzett tenyésztési tevékenységek sora és az ezek megvalósításához szükséges feltételrendszer (nyilvántartás, teljesítményvizsgálat, törzskönyvezés stb.).
 - 22. Tenyésztojás: olyan keltetésre alkalmas tojás, amelyet tenyészállat-előállítás céljára keltetnek és amelyből az utód továbbtenyésztésre kerülhet.
-- 23. Tenyésztő egyesület, illetve szövetség: a tenyésztők által létrehozott olyan egyesület, amelyet a tenyésztési hatóság tenyésztő szervezetként elismer, és amely a tagjai által jóváhagyott és a tenyésztési hatóság által elismert tenyésztési programot hajt végre.
+- 23. Tenyésztő egyesület, illetve szövetség: a tenyésztők által létrehozott olyan társadalmi szervezet, amelyet a tenyésztési hatóság tenyésztő szervezetként elismer, és amely a tagjai által jóváhagyott és a tenyésztési hatóság által elismert tenyésztési programot hajt végre.
 - 24. Tenyésztő szervezet: elismert tenyésztő egyesület, tenyésztő szövetség és tenyésztő vállalkozás.
 - 25. Tenyésztő vállalkozás: egy vagy több természetes, illetve jogi személy által létrehozott, gazdasági tevékenységet végző szervezet, amely a fajtaelismerés keretében jogot kapott tenyészállat és szaporítóanyag előállítására, forgalmazására, illetve keresztezési program végrehajtására.
 - 26. Törzskönyv: elismert tenyésztő szervezet által vezetett — a tenyésztési hatóság által hitelesített — közokirat, amely a tenyésztési programjába befogadott fajtatiszta tenyészállatok tenyésztési adatainak nyilvántartására és igazolására szolgál.
@@ -83,7 +83,7 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 
 (5) A keltető- és tenyésztojást tenyészetazonosító jelzéssel kell ellátni, és a tenyésztojást az elismert tenyésztő szervezet származási igazolásának, a keltetőtojást pedig az azt termelő állomány származási igazolása alapján kiállított szállítólevélnek kell kísérnie.
 
-6. § A tenyészállat-kiállítást, -árverést a vonatkozó állat-egészségügyi, közegészségügyi és egyéb előírások megtartásával, az elismert tenyésztő szervezet, több faj, illetve fajta együttes részvétele esetén az elismert tenyésztő egyesületek (szövetségek) által létrehozott szövetség hozzájárulásával, a tenyésztési hatóság felügyeletével lehet tartani.
+6. § A tenyészállat-kiállítást, -árverést a vonatkozó állat-egészségügyi, közegészségügyi és egyéb előírások megtartásával, az elismert tenyésztő szervezet, több faj, illetve fajta együttes részvétele esetén az elismert tenyésztő egyesületek (szövetségek) által létrehozott szövetség hozzájárulásával, a tenyésztési hatóság felügyeletével lehet tartani. Eb- és macskafajták esetében a tenyészállat-kiállítás és -árverés megtartásához az elismert tenyésztő szervezet, illetve elismert tenyésztő egyesületek (szövetségek) által létrehozott szövetség hozzájárulása és a tenyésztési hatóság felügyelete nem szükséges.
 
 ### Teljesítményvizsgálat, tenyészértékbecslés
 
@@ -91,7 +91,7 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 
 (2) A teljesítményvizsgálatokat és az ellenőrző teszteket a tenyésztési hatóság végzi térítés ellenében, melynek alapján becsli a tenyészértéket és a végtermék teljesítményeket.
 
-(3) A tenyésztési hatóság – ellenőrzése mellett – elismert tenyésztő szervezetet is megbízhat a teljesítményvizsgálatok végzésével, kivéve a fajtaelismerésre irányuló vizsgálatokat. A megbízás alapján végzett teljesítményvizsgálatokat a tenyésztési hatóság rendszeresen felülvizsgálja.
+(3) A tenyésztési hatóság — ellenőrzése mellett — elismert tenyésztő szervezetet is megbízhat a teljesítményvizsgálatok végzésével, kivéve a fajtaelismerésre irányuló vizsgálatokat.
 
 (4) A tenyésztési hatóság a tenyészértékbecsléskor más vizsgálatok eredményeit is alapul veheti, ha azokat elismert tenyésztő szervezet végzi, vagy annak megbízásából és ellenőrzése mellett végzik, és az alkalmazott vizsgálati módszerrel az eredmények hiteles és szakszerű megállapítása biztosított.
 
@@ -105,7 +105,7 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 
 8. § (1) A külön jogszabályban meghatározott állatok ivadékát függetlenül hasznosítási irányuktól, a megszületést követően, meghatározott időn belül, országosan egységes módon és tartósan, egyedileg vagy mint csoport részeként meg kell jelölni, valamint nyilvántartásba kell venni.
 
-(2)
+(2) A külön jogszabályban meghatározott állatokat a levágás során az Európai Unió közvetlenül alkalmazandó jogi aktusában, illetve a külön jogszabályban meghatározott módon és feltételek szerint minősíteni kell.
 
 ### Tenyésztési adatok gyűjtése, értékelése és közzététele
 
@@ -123,21 +123,19 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 
 (3) Az állami tulajdonú apaállatokért a hasznosítója díjat köteles fizetni. Ennek mértékét — jogszabályban meghatározott elvek alapján — a tenyésztési hatósággal kötött szerződésben kell rögzíteni.
 
-(4) A települési önkormányzat képviselő-testülete (fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése) gondoskodhat a területén lévő nőivarú állatok termékenyítéséhez szükséges apaállatigény felméréséről, beszerzéséről, tartásának megszervezéséről, vagy a nőivarú egyedek minősített apaállattal, illetve szaporítóanyaggal történő termékenyítése feltételeiről.
+(4) A települési önkormányzat képviselő-testülete (fővárosban a kerületi önkormányzat képviselő-testülete) gondoskodhat a területén lévő nőivarú állatok termékenyítéséhez szükséges apaállatigény felméréséről, beszerzéséről, tartásának megszervezéséről, vagy a nőivarú egyedek minősített apaállattal, illetve szaporítóanyaggal történő termékenyítése feltételeiről.
 
 (5) Apaállat beszerzéséhez a jogszabályban meghatározott módon és feltételekkel állami támogatás igényelhető.
 
-### Védett őshonos állatfajták, veszélyeztetett fajták és magyar ebfajták
+### Védett őshonos állatfajták, veszélyeztetett fajták
 
-11. § (1) A védett őshonos, jelentős genetikai értéket képviselő fajtáknak, valamint a magyar ebfajtáknak az eredeti állapotukban történő megőrzése nemzeti érdek és állami feladat, melynek végrehajtásáról az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) – a természetvédelemért felelős miniszter, a tenyésztési hatóság, más szervek, valamint szakmai szervezetek bevonásával – gondoskodik.
+11. § (1) A védett őshonos, jelentős genetikai értéket képviselő fajtáknak az eredeti állapotukban történő megőrzése nemzeti érdek és állami feladat, melynek végrehajtásáról az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) – a természetvédelemért felelős miniszter, a tenyésztési hatóság, más szervek, valamint szakmai szervezetek bevonásával – gondoskodik.
 
 (2) Őshonosságuk miatt védett állatfajtáknak kell tekinteni azokat a fajtákat, amelyek Magyarország természetföldrajzi környezetében alakultak ki, illetőleg tartásuknak, tenyésztésüknek történeti hagyománya van.
 
-(2a) Magyar ebfajtának kell tekinteni azt az ebfajtát, amely Magyarország természetföldrajzi környezetében alakult ki, és tartásának, használatának és tenyésztésének történelmi hagyománya van.
-
 (3) A védett őshonos fajták fenntartásához, jogszabályban meghatározott módon és feltételekkel az állam támogatást ad.
 
-12. § A magas genetikai értéket képviselő, veszélyeztetett helyzetbe került fajták és a magyar ebfajták állományait védeni kell, amihez az állam támogatást adhat.
+12. § A magas genetikai értéket képviselő, veszélyeztetett helyzetbe került fajták állományait védeni kell, ehhez az állam külön jogszabályban meghatározott módon és feltételekkel támogatást adhat.
 
 ### Tenyésztési hozzájárulás
 
@@ -200,8 +198,7 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 - a) mesterséges termékenyítő állomás, valamint spermatároló központ üzemeltetését;
 - b) apaállat felhasználását szaporítóanyag előállításra;
 - c) embrióátültető állomás üzemeltetését;
-- d) baromfi- és halkeltető állomás, valamint méhanyanevelő telep üzemeltetését;
-- e) méhanyanevelő telep pároztatótelepnek való minősítését.
+- d) baromfi- és halkeltető állomás, valamint méhanyanevelő telep üzemeltetését.
 
 (2) A 17. § b) pontja alapján a tenyésztési hatóság ellenőrzi
 
@@ -236,21 +233,20 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 - g) az elismert tenyésztőszervezetekről és tenyésztésvezetőkről, valamint állatfajtákról, hibridekről és keresztezési programokról;
 - h) a vágóhídi minősítő helyekről, minősítő szervezetekről, vágóállat-minősítőkről, minősítéshez szükséges bélyegzőkről, műszerekről, a vágóállat-minősítési adatokról;
 - i) az állatok egységes azonosítási és nyilvántartási rendszerében igényelhető füljelzőkről.
-- j) a génbankban elhelyezett szaporítóanyagról és genetikai mintáról.
 
 (6) Az (5) bekezdés szerinti nyilvántartás tartalmazza:
 
 - a) természetes személy esetén a nevet, születési nevet, születési helyet, születési időt, anyja nevét, állampolgárságot, lakhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím), számlázási nevet, számlázási címet;
-- b) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevet, adószámot, székhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím).
+- b) jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet esetén a cégnevet, adószámot, székhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím).
 
-(7) A tenyésztési hatóság az általa nyilvántartott adatokból adatbázist hoz létre. A tenyésztési hatóság a nyilvántartásában lévő adatokat az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
+(7) A tenyésztési hatóság az általa nyilvántartott adatokból adatbázist hoz létre.
 
-(8)
+(8) A tenyésztési hatóság közigazgatási eljárásban országos illetékességgel hozott döntése ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
 
 18/A. § A törzskönyv, illetve az annak alapján kiállított származási igazolás a tenyészállat tenyésztőjére, illetve tulajdonosára vonatkozóan tartalmazza
 
 - a) természetes személy esetében a nevet, lakhelyet;
-- b) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevet, székhelyet.
+- b) jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet esetén a cégnevet, székhelyet.
 
 ### Az elismert tenyésztő szervezet feladatai
 
@@ -267,11 +263,9 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 - c) képviseli a magyar állattenyésztést hazai és a nemzetközi fórumokon;
 - d) ellátja a tenyésztési hatóság által – meghatározott feltételekkel – ráruházott feladatokat.
 
-(3) Az (1) bekezdésben foglalt tevékenységet kizárólag elismert vagy ideiglenesen elismert tenyésztő szervezet végezheti.
-
 ### Tenyésztő szervezetkénti elismerés
 
-20. § (1) A tenyésztéssel foglalkozó egyesület, szövetség, illetve vállalkozás tenyésztő szervezetkénti elismerésére és az elismerés visszavonására a tenyésztési hatóság jogosult. A tenyésztőszervezet elismerése iránti eljárás (a továbbiakban ezen alcím vonatkozásában: elismerési eljárás) írásbeli vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus úton benyújtott (a továbbiakban együtt: írásbeli) kérelem alapján indul. Az elismerés megadása vagy megtagadása nem érinti az egyesület, szövetség külön törvény szerinti jogszerű működését.
+20. § (1) A tenyésztéssel foglalkozó egyesület, szövetség, illetve vállalkozás tenyésztő szervezetkénti elismerésére és az elismerés visszavonására a tenyésztési hatóság jogosult. Az elismerési eljárás kérelem alapján indul. Az elismerés megadása vagy megtagadása nem érinti az egyesület, szövetség külön törvény szerinti jogszerű működését.
 
 (2) A tenyésztési hatóság a tenyésztéssel foglalkozó szervezetet tenyésztőként elismeri, ha
 
@@ -282,16 +276,7 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 - e) a tenyészállatokat egyedenként, a 8. §-ban foglaltak szerint tartósan úgy jelölik meg, vagy a kisállatfajok meghatározott körénél úgy írják le, hogy azonosságuk megállapítható;
 - f) a törzskönyvet vagy tenyésztési főkönyvet a tenyésztési program előírásainak megfelelően vezetik.
 
-(2a) E törvény végrehajtására kiadott jogszabály – a (2) bekezdésben meghatározott feltételeken túl – a tenyésztőszervezeti elismerési eljárásban további feltételt írhat elő.
-
-(2b) A miniszter a tenyésztőszervezeti elismerés iránti kérelmet elutasíthatja, ha a kérelemben foglalt, fenntartani kívánt fajta tenyésztésének engedélyezése egy már elismert vagy ideiglenes elismert tenyésztő szervezet által fenntartott fajta fenntartását súlyosan veszélyezteti.
-
-(3) Az elismerési eljárásban
-
-- a) a kapcsolattartás írásban történik, valamint
-- b) az ügyintézési határidő 150 nap.
-
-(5) A tenyésztőszervezeti elismerésre irányuló eljárás tekintetében a fajtaelismerési eljárás megelőző eljárásnak minősül.
+(3) A tenyésztő szervezet elismerésére irányuló eljárás során az ügyintézési határidő 6 hónap, amely egy alkalommal 6 hónappal meghosszabbítható.
 
 21. § (1) Az elismerés a tenyésztési célra, a tenyésztési programra, valamint a szakmai és térbeni tevékenységi területre, a törzskönyvi, illetve a tenyésztési főkönyvi szabályzatra, fajtafenntartásra vonatkozik és ezek végrehajtására jogosít.
 
@@ -311,19 +296,17 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 
 22. § (1) Az elismerés – évenként kötelező hatósági felülvizsgálat eredményétől függően – visszavonásig szól.
 
-(2)
+(2) Elismeréskor a tenyésztési hatóság a szervezetet és annak tenyészeteit önálló tenyészetazonosítóval látja el.
 
 (3) Az elismert tenyésztő szervezetek listáját a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) hivatalos lapjában közzé kell tenni.
 
-23. § (1) A tenyésztési hatóság az előírásoknak nem megfelelően működő tenyésztőszervezet elismerését az előírások teljesítéséig, de legfeljebb 90 napra felfüggeszti. A felfüggesztő határozatban meg kell jelölni a feladatok teljesítésének határidejét, valamint a tenyészállat és szaporítóanyag forgalmának korlátozására vonatkozó előírásokat.
+23. § (1) A tenyésztési hatóság az előírásoknak meg nem felelő működés esetén a tenyésztő szervezet elismerését a feltételek teljesítéséig felfüggeszti.
 
 (2) A tenyésztési hatóság az elismerést visszavonja
 
 - a) az elismert tenyésztő szervezet megszűnése;
-- b) a 20. § (2) bekezdésében vagy e törvény végrehajtására kiadott jogszabályban meghatározott egyéb feltétel be nem tartása;
+- b) a 20. § (2) bekezdésében írt feltételek be nem tartása;
 - c) a hivatalos előírásoknak meg nem felelő adatgyűjtés és valótlan adatközlés elleni alapos bejelentés, észrevétel esetén.
-
-(2a) A tenyésztési hatóság (2) bekezdés szerinti határozatában meghatározza a fajta még meglévő állományának hasznosítási módját.
 
 (3) Az elismert tenyésztő egyesület vagy szövetség jogutód nélküli megszűnése esetén vagy az elismerés visszavonásakor a nyilvántartásra és törzskönyvezésre vonatkozó dokumentumokat át kell adni a tenyésztési hatóságnak.
 
@@ -353,15 +336,13 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 
 27. § (1) A fajtaelismeréshez szükséges vizsgálatokat — a miniszter által az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletben meghatározott díj ellenében — a tenyésztési hatóság végzi.
 
-(2) A fajtaelismerés iránti írásbeli kérelem alapján a tenyésztési hatóság vizsgálja az elismerésre való jogosultságot, továbbá a bejelentett állatfajta, keresztezési program, hibrid gazdasági értéket befolyásoló tulajdonságait.
+(2) A fajtaelismerés iránti kérelem alapján a tenyésztési hatóság vizsgálja az elismerésre való jogosultságot, továbbá a bejelentett állatfajta, keresztezési program, hibrid gazdasági értéket befolyásoló tulajdonságait.
 
-(3) A tenyésztési hatóság a kérelem benyújtásától számított három éven belül köteles lefolytatni a fajtaelismerésre irányuló teljesítményvizsgálatot. Ha a kérelmező a tenyésztési hatóság felhívására nem tesz eleget az e törvény végrehajtására kiadott jogszabály szerinti minta szolgáltatására irányuló kötelezettségének, a tenyésztési hatóság az eljárást megszünteti.
-
-(4) A 20. § (3) bekezdés a) pontjában foglaltakat a fajtaelismerési eljárás vonatkozásában is alkalmazni kell.
+(3) Az (1) bekezdés szerinti díjfizetéshez jogszabályban meghatározott módon és feltételekkel állami támogatás adható.
 
 28. § (1) Az ügyfél a kérelem elfogadásától az elismerés közzétételéig ideiglenes forgalmazási engedélyt kap, amely — jogszabályban meghatározott — állatlétszámra vonatkozik.
 
-(2) A nyilvántartást vezető szerv az ideiglenesen elismert és az elismert fajtákról közhiteles nyilvántartást vezet. A miniszter által vezetett minisztérium hivatalos lapjában és a tenyésztési hatóság honlapján évente közzé kell tenni az elismert fajták jegyzékét.
+(2) A miniszter által vezetett minisztérium hivatalos lapjában és a tenyésztési hatóság honlapján évente közzé kell tenni az elismert fajták jegyzékét.
 
 29. § A fajta, hibrid gazdaságilag fontos tulajdonságainak alakulását a mintavétel szabályai alapján, valamint a keresztezési programot a tenyésztési hatóság ellenőrzi.
 
@@ -375,24 +356,7 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 
 (4) A 18. § (1) bekezdése szerinti, engedélyezett tevékenységet végzők kötelesek a tevékenységükkel összefüggő — jogszabályban meghatározott — szakmai adatokat a tenyésztési hatóság rendelkezésére bocsátani.
 
-(5) A 18. § (1) bekezdés a), c), d) és e) pontja szerint engedélyezett tevékenységet a tenyésztési hatóság e törvény végrehajtására kiadott jogszabályban meghatározott módon felülvizsgálja.
-
-(6) Az (5) bekezdés szerinti felülvizsgálat alapján a tenyésztési hatóság az engedély
-
-- a) hatályát a következő felülvizsgálatig meghosszabbítja,
-- b) hatályának meghosszabbítását feltételhez köti,
-- c) visszavonásáról dönt, vagy
-- d) legfeljebb hat hónapra történő felfüggesztéséről rendelkezik.
-
 ### Mesterséges termékenyítő állomás üzemeltetése
-
-30/A. § (1) A 18. § (1) bekezdése szerinti engedélyezési eljárásokban
-
-- a) a kérelmet írásban kell benyújtani,
-- b) a tenyésztési hatóság – a 18. § (1) bekezdés b) pontja szerinti eljárás kivételével – helyszíni szemlét tart, valamint
-- c) ha az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény értelmében függő hatályú döntés meghozatalának van helye, a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
-
-(2) A 18. § (1) bekezdés a), c), d) és e) pontjában hozott határozat ellen fellebbezésnek van helye.
 
 31. § (1) A mesterséges termékenyítő állomás üzemeltetésére vonatkozó — a 18. § (1) bekezdés a) pontja szerinti — engedélyt a tenyésztési hatóság megadja, ha
 
@@ -464,67 +428,21 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 
 (2) A 17. § d) pontjában, 18. §-ának (1) bekezdésében, (3) bekezdésének a) pontjában és a 16. § a), b), c) és e) pontjaiban felsorolt feladatok ellátásához az állam hozzájárul.
 
-(3) E törvény hatálya alá tartozó hatósági eljárás díj- és illetékmentes, amennyiben az adott eljárásra e törvény végrehajtására kiadott jogszabály igazgatási szolgáltatási díjat nem állapít meg.
-
 ### Ellenőrzés
 
-44. § (1) A tenyésztési hatóság eljárása során minden olyan helyen – ide értve az engedéllyel vagy tenyésztő szervezeti elismeréssel nem rendelkező személyek vagy szervezetek tevékenységének helyét is – ellenőrzést végezhet, ahol a törvény hatálya alá tartozó állatfajt tenyésztenek, tartanak, forgalmaznak, állati szaporítóanyagot előállítanak, tárolnak, forgalmaznak és felhasználnak, tenyésztési nyilvántartást vezetnek, illetve egyéb állattenyésztési tevékenységet végeznek.
+44. § A tenyésztési hatóság eljárása során minden olyan helyen ellenőrzést végezhet, ahol a törvény hatálya alá tartozó állatfajt tenyésztenek, tartanak, forgalmaznak, állati szaporítóanyagot előállítanak, tárolnak, forgalmaznak és felhasználnak.
 
-(2) A tenyésztési hatóság az ellenőrzés során az állatokkal kapcsolatos nyilvántartásokba betekinthet, az állatok adatait, valamint a 18. § (6) bekezdés a) és b) pontjában foglalt adatokat bekérheti, megismerheti.
+### Állattenyésztési bírság és egyéb szankciók
 
-### Jogkövetkezmények
+45. § (1) A 4. és 5. §-ban foglaltak megszegése esetén a tenyésztési hatóság elrendeli az állatnak az állattartó költségén történő ivartalanítását, illetve a szaporítóanyag megsemmisítését és az átlagos tenyészállat forgalmi értékének legfeljebb kettőszáz, szaporítóanyag forgalmi értékének legfeljebb ötszáz százalékáig terjedő állattenyésztési bírságot szabhat ki.
 
-45. § (1) A tenyésztési hatóság az e törvényben, valamint e törvény végrehajtására kiadott jogszabályban foglalt előírások megsértése esetén az alábbi szankciókat alkalmazhatja:
+(2) A tenyésztési hatóság elrendeli a 26. § (2) bekezdésében előírt feltételek hiányában felhasznált, tenyésztett, forgalmazott állat esetében, valamint a 41. §-ban leírt behozatali feltételek be nem tartása esetén az állat haszonállatként történő hasznosítását, továbbá az állat forgalmi értékének megfelelő összegű állattenyésztési bírság befizetését. A 6. § előírásainak be nem tartása esetén a tenyésztési hatóság a szervezőt legfeljebb a kiállításon, az árverésen részt vevő állatok létszámának és az egyes állatok forgalmi értékének szorzatával megegyező mértékű bírsággal sújtja.
 
-- a) jogsértő állapot megszüntetésének elrendelése;
-- b) jogsértő magatartás jövőbeni tanúsításától történő eltiltás;
-- c) a jogsértést megállapító véglegessé vált határozat közhírré tételének elrendelése legfeljebb 6 hónap időtartamra;
-- d) e törvény alapján kiadott engedély vagy tenyésztőszervezeti elismerés visszavonása;
-- e) szaporítóanyag szakszerű megsemmisítésének előírása, az állatnak az állattartó költségére történő ivartalanításának elrendelése, a szaporítóanyag termékenyítésre történő használatának, hímivarú állat fedeztetésre történő használatának megtiltása;
-- f) az állatnak a tenyésztésben történő használatának megtiltása;
-- g) a törzskönyvi bejegyzések visszamenőleges hatállyal történő töröltetése;
-- h) állattenyésztési bírság kiszabása.
+(3) Az (1), (2) bekezdésben írt forgalmi értéket a tenyésztési hatóság jogosult megállapítani.
 
-(2) Az (1) bekezdésben foglalt szankciók együttesen is alkalmazhatóak.
+(4) Az állattenyésztési bírságot külön jogszabályban meghatározott számlára kell befizetni. A határidőre meg nem fizetett bírságot adók módjára kell behajtani.
 
-45/A. § (1) Állattenyésztési bírságot kell kiszabni arra, aki vagy amely
-
-- a) az állatnak a tenyésztési program szerinti megjelölésére vonatkozó szabályokat megszegi;
-- b) tenyésztőszervezeti elismerés nélkül törzskönyvezést végez, tenyészállatot minősít, nyilvános tenyészállat-bírálatot végez, egyéb tenyésztési szolgáltatást nyújt, vagy származási igazolást állít ki;
-- c) más tenyésztőszervezet jogosultságába tartozó fajta vonatkozásában törzskönyvezést végez, tenyészállatot minősít, nyilvános tenyészállat-bírálatot végez, egyéb tenyésztési szolgáltatást nyújt, vagy származási igazolást állít ki;
-- d) az e törvény hatálya alá tartozó tevékenységgel kapcsolatos bejelentési kötelezettségének nem tesz eleget;
-- e) engedély nélkül végzi az e törvényben meghatározott engedélyköteles tevékenységeket;
-- f) a tenyészállat és a szaporítóanyag forgalmazása, értékesítése, kiszállítása során annak eredetére, származására, kezelésére, értékesítésére, felhasználására vonatkozó adatokat meghamisítja, a nyilvántartásokat nem vagy nem megfelelően vezeti;
-- g) tenyészállatot, állati eredetű szaporítóanyagot az ország területére szakmai hozzájárulás nélkül behoz vagy kivisz;
-- h) az apaállat-használatra, a szaporítóanyag-előállításra, valamint a mesterséges termékenyítésre vonatkozó szabályokat megszegi;
-- i) adatszolgáltatási kötelezettségét nem teljesíti, a valóságnak nem megfelelő adatot szolgáltat, illetve az ellenőrzést egyéb módon akadályozza;
-- j) tenyészállatot, szaporítóanyagot jogosulatlanul forgalmaz;
-- k) tenyésztési bizonylatot, igazolást vagy nyilvántartást meghamisít;
-- l) határidőben nem tesz eleget a 48/A. § (2) bekezdésében foglalt kötelezettségének.
-
-(1a)
-
-(2) Az állattenyésztési bírság összege 100 000 Ft-tól 20 000 000 Ft-ig, természetes személy esetében 300 000 Ft-ig terjedhet. A késedelmes teljesítést késedelmi kamat terheli.
-
-(3) Azonos tényállású, három éven belüli ismételt jogsértés esetén a bírság összege a korábban kiszabott bírság másfélszeresénél nem lehet kevesebb, de nem haladhatja meg az adott jogsértés esetén kiszabható bírság legmagasabb mértékét.
-
-(4) Amennyiben az állattenyésztési bírsággal sújtandó jogsértést védett őshonos vagy veszélyeztetett mezőgazdasági állatfajtával vagy magyar ebfajtával kapcsolatban követik el, az állattenyésztési bírság összege 500 000 Ft-nál, természetes személy esetében 300 000 Ft-nál alacsonyabb nem lehet.
-
-(5) Az állattenyésztési bírságot a cselekmény folytatása vagy újbóli elkövetése esetén ismételten ki lehet szabni.
-
-(6) A meghatározott jogkövetkezményeket az eset összes körülményeire – így különösen a jogsértés következményeire, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre és a jogsértő teljesítőképességére – tekintettel kell meghatározni.
-
-(7) A szankciók alkalmazásakor, illetve bírság kiszabásakor a hatóság által előírt intézkedés végrehajtásának költsége a jogsértőt terheli.
-
-(8) A szankciót, bírságot megállapító határozat ellen fellebbezésnek helye nincs.
-
-(9) A bírságot 15 napon belül kell befizetni és a bírósági jogorvoslattól függetlenül azonnali végrehajtása vagy biztosítási intézkedés rendelhető el.
-
-(10) Ha a jogi személyre vagy a jogi személyiséggel nem rendelkező szervezetre kiszabott bírságot a kötelezett nem fizeti meg és azt tőle nem lehet behajtani, a bírság megfizetésére a jogsértés elkövetése idején helytállni köteles tagot, vezető tisztségviselőt, illetve azt a személyt kell kötelezni, aki a jogi személy vagy a jogi személyiséggel nem rendelkező szervezet kötelezettségeiért a törvény alapján felel.
-
-(11)
-
-(12)
+(5)
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -582,22 +500,14 @@ való megfelelést szolgálja.
 
 (2) A törvény hatálybalépésekor bármely elismert tenyésztő szervezet által vezetett, államilag hitelesített tenyésztési nyilvántartás törzskönyvnek vagy tenyésztési főkönyvnek minősül. A törvény hatálybalépése előtt ilyen tevékenységet folytató szervezetek adataikat kötelesek az újonnan elismert tenyésztő szervezet részére térítésmentesen átadni.
 
-48/A. § (1) Az ebtenyésztést érintő egyes törvények módosításáról szóló 2016. évi X. törvény (a továbbiakban: Módtv.) hatálybalépését követő 180. napon a kinológiai szövetség és a magyar ebfajtának nem minősülő ebfajták fenntartására elismeréssel rendelkező tenyésztőszervezetek elismerése a törvény erejénél fogva megszűnik.
-
-(2) Azon tenyésztőszervezetek, amelyek elismerése az (1) bekezdés értelmében megszűnik, a törzskönyvi nyilvántartásaik másolatát kötelesek a Módtv. hatálybalépését követő 210. napig a tenyésztési hatóságnak átadni.
-
 ### Felhatalmazások
 
 49. § (1) Felhatalmazást kap a miniszter, hogy
 
-- a) rendeletben szabályozza 1. a tenyészállat- és szaporítóanyag-használat, -felajánlás és -értékesítés feltételeit; 2. a teljesítményvizsgálatok, tenyészértékbecslés rendjét; 3. a tenyészállatok teljesítményeinek adatgyűjtési módját, rendjét; 4. a kisállatfajok e törvénnyel érintett meghatározott körét; 5. az apaállat-ellátás módját, feltételét és költség-hozzájárulásának módját; 6. a védett őshonos fajták genetikai fenntartásának és támogatásának rendjét; 7. az állattartók, a tenyészetek és a tartási helyek nyilvántartásának rendjét; 8. a fajta és tenyésztő szervezeti elismerésnek, az elismerés felfüggesztésének és visszavonásának szabályait; 9. az állatok egységes nyilvántartási és azonosítási rendjét; 10. a mesterséges termékenyítőállomás, spermatároló központ, embrióátültető állomás, baromfi- és halkeltető állomás, méhanyanevelő telep engedélyezésével, üzemeltetésével kapcsolatos részletes szabályokat; 11. a művi szaporító tevékenységgel összefüggő részletes szabályokat; 12. a tenyészállat és szaporítóanyag behozatalának és kivitelének előírásait; 13. a törzskönyv vezetésének és a származás igazolás kiállításának szabályait; 14. a szakképesítéshez kötött tevékenységeket; 15. az állattenyésztési bírság befizetésének módját; 16. az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak megfizetésével kapcsolatos eljárási szabályokat, az igazgatási szolgáltatási díjfizetés ellenében végzett feladatokat, valamint az igazgatási szolgáltatási díjak felhasználásának szabályait; 17. a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták, valamint a magyar ebfajták körét és kijelölésük rendjét; 18. a mesterséges termékenyítési szolgáltatást nyújtó inszeminátori, embrióátültetői tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és az inszeminátorok, embrióátültetők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az inszeminátori, embrióátültetői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket; 19. a magyar ebfajták genetikai fenntartásának rendjét;
-- b)
+- a) rendeletben szabályozza 1. a tenyészállat- és szaporítóanyag-használat, -felajánlás és -értékesítés feltételeit; 2. a teljesítményvizsgálatok, tenyészértékbecslés rendjét; 3. a tenyészállatok teljesítményeinek adatgyűjtési módját, rendjét; 4. a kisállatfajok e törvénnyel érintett meghatározott körét; 5. az apaállat-ellátás módját, feltételét és költség-hozzájárulásának módját; 6. a védett őshonos fajták genetikai fenntartásának és támogatásának rendjét; 7. az állattartók, a tenyészetek és a tartási helyek nyilvántartásának rendjét; 8. a fajta és tenyésztő szervezeti elismerésnek, az elismerés felfüggesztésének és visszavonásának szabályait; 9. az állatok egységes nyilvántartási és azonosítási rendjét; 10. a mesterséges termékenyítőállomás, spermatároló központ, embrióátültető állomás, baromfi- és halkeltető állomás, méhanyanevelő telep engedélyezésével, üzemeltetésével kapcsolatos részletes szabályokat; 11. a művi szaporító tevékenységgel összefüggő részletes szabályokat; 12. a tenyészállat és szaporítóanyag behozatalának és kivitelének előírásait; 13. a törzskönyv vezetésének és a származás igazolás kiállításának szabályait; 14. a szakképesítéshez kötött tevékenységeket; 15. az állattenyésztési bírság befizetésének és felhasználásának módját; 16. az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak megfizetésével kapcsolatos eljárási szabályokat, az igazgatási szolgáltatási díjfizetés ellenében végzett feladatokat, valamint az igazgatási szolgáltatási díjak felhasználásának szabályait; 17. a vágás utáni minősítési kötelezettség alá eső állatok körét, a minősítés rendjét és ezen állatok kereskedelmi jelölésének szabályait; 18. a mesterséges termékenyítési szolgáltatást nyújtó inszeminátori, embrióátültetői tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és az inszeminátorok, embrióátültetők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az inszeminátori, embrióátültetői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
+- b) a természetvédelemért felelős miniszterrel együttes rendeletben szabályozza a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták körét, valamint a kijelölésük rendjét;
 - c) az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét.
 
-(2) Felhatalmazást kap a Kormány, hogy
-
-- a) a tenyésztési hatóságot vagy hatóságokat rendeletben jelölje ki,
-- b) az e törvényben előírt nyilvántartások vonatkozásában az adatkezelést rendeletben szabályozza,
-- c) a nyilvántartást vezető szervet rendeletben jelölje ki.
+(2) Felhatalmazást kap a Kormány, hogy a tenyésztési hatóságot vagy hatóságokat rendeletben jelölje ki.
 
 ### Melléklet az 1993. évi CXIV. törvényhez
