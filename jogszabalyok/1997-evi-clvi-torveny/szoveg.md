@@ -26,8 +26,7 @@ Az Országgyűlés a nem kormányzati és nem haszonelvű szervezetek hazai hagy
 - h) a Magyar Felsőoktatási Akkreditációs Bizottság, a Felsőoktatási és Tudományos Tanács, a Magyar Rektori Konferencia,
 - i) európai területi együttműködési csoportosulás,
 - j) nem költségvetési szervként működő felsőoktatási intézmény,
-- k) közhasznú tevékenységet ellátó szociális szövetkezet,
-- l) vízitársulat.
+- k) közhasznú tevékenységet ellátó szociális szövetkezet.
 
 (2) Közhasznú szervezetté minősíthető az (1) bekezdés a)–e) pontjában meghatározott szervezet abban az esetben is, ha közhasznú szervezetté minősítését a reá irányadó szabályok szerinti nyilvántartásba vétel iránti kérelmével egyidejűleg kéri.
 
@@ -213,7 +212,7 @@ vonatkozó szabályokat.
 
 ### A közhasznú szervezetek felügyelete
 
-21. § A közhasznú szervezetek feletti adóellenőrzést az állami adóhatóság, az állami vagy önkormányzati költségvetésből, illetve a nemzetközi forrásokból juttatott támogatások felhasználásának ellenőrzését a külön jogszabály szerinti belső ellenőrzési szervezet, a törvényességi felügyeletet pedig – a közhasznú működés tekintetében – a reá irányadó szabályok szerint az ügyészség látja el.
+21. § A közhasznú szervezetek feletti adóellenőrzést az állami adóhatóság, a költségvetési támogatás felhasználásának ellenőrzését az Állami Számvevőszék, az állami vagy önkormányzati költségvetésből, illetve a nemzetközi forrásokból juttatott támogatások felhasználásának ellenőrzését a külön jogszabály szerinti belső ellenőrzési szervezet, a törvényességi felügyeletet pedig – a közhasznú működés tekintetében – a reá irányadó szabályok szerint az ügyészség látja el.
 
 ### A közhasznúsági nyilvántartásba vételre, az átsorolásra és a közhasznúsági nyilvántartásból való törlésre vonatkozó eljárás szabályai
 

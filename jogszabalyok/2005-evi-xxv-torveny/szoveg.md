@@ -16,7 +16,7 @@ a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási sz
 
 - a) alapmegállapodás: a szolgáltató és a fogyasztó között létrejött olyan megállapodás, amely egy adott időszakra vonatkozóan meghatározza a megállapodás alapján a jövőben megkötendő ügyletek, illetve műveletsor lényeges feltételeit;
 - b) fogyasztó: az a természetes személy, akinek a részére – önálló foglalkozása és gazdasági tevékenysége körén kívül eső célból – a szolgáltatást nyújtják, továbbá, aki a szolgáltatással kapcsolatos tájékoztatás vagy ajánlat (ajánlati felhívás) címzettje;
-- c) pénzügyi ágazati szolgáltatás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény hatálya alá tartozó pénzügyi és kiegészítő pénzügyi szolgáltatás, a biztosítási tevékenységről szóló törvény hatálya alá tartozó biztosítási, biztosításközvetítői és biztosítási szaktanácsadói szolgáltatás, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) hatálya alá tartozó befektetési szolgáltatás, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatás, és az árutőzsdei szolgáltatás, valamint az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban: Öpt.) által meghatározott tagsági jogviszony keretében a pénztártagot megillető jogosultságok biztosítása;
+- c) pénzügyi ágazati szolgáltatás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) hatálya alá tartozó pénzügyi és kiegészítő pénzügyi szolgáltatás, a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény (a továbbiakban: Bit.) hatálya alá tartozó biztosítási, biztosításközvetítői és biztosítási szaktanácsadói szolgáltatás, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) hatálya alá tartozó befektetési szolgáltatás, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatás, és az árutőzsdei szolgáltatás, valamint az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban: Öpt.) által meghatározott tagsági jogviszony keretében a pénztártagot megillető jogosultságok biztosítása;
 - d) szolgáltató: aki a c) pontban meghatározott szolgáltatást gazdasági vagy szakmai tevékenysége keretében nyújtja;
 - e) tartós adathordozó: olyan eszköz, amely a fogyasztó számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését;
 - f) távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződés: a c) pontban meghatározott szolgáltatásokra irányuló szerződés (önkéntes kölcsönös biztosító pénztári tagság esetében a pénztár által elfogadott belépési nyilatkozat), amelyet szolgáltató és fogyasztó köt egymással szervezett távértékesítés keretében olyan módon, hogy a szerződés megkötése érdekében a szolgáltató kizárólag távközlő eszközt alkalmaz;
@@ -63,11 +63,7 @@ a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási sz
 
 (6) A (2) bekezdés aa)–ad), ba)–bb), cb)–cc), ce)–cf) és da) alpontjában meghatározott tájékoztatás helyett a pénzforgalmi szolgáltatásról szóló 2009. évi LXXXV. törvény 8–10. §-ában és 29–31. §-ában előírt tájékoztatást kell megadni, ha pénzforgalmi szolgáltatás nyújtására kerül sor.
 
-(7) A (2)–(3) bekezdésben meghatározott tájékoztatás helyett a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 5–7. §-a szerinti tájékoztatást kell megadni, ha fogyasztónak nyújtott hitel nyújtására kerül sor.
-
-(8) A (2) és (3) bekezdésben meghatározott tájékoztatás helyett a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. § (6) bekezdése szerinti tájékoztatást kell megadni, ha fizetési számlához kapcsolódó hitelkeret nyújtására kerül sor.
-
-(9) Amennyiben az egymást követő ügyletek, illetve az azonos jellegű elkülönült műveletek, amelyek időbeli kapcsolatban állnak egymással, az 1. § (2) bekezdésétől eltérően, alapmegállapodás nélkül ugyanazon felek között kerülnek végrehajtásra, az (1)–(8) bekezdések rendelkezéseit kizárólag az első ügyletre vagy műveletre kell alkalmazni. Ha egy évnél hosszabb ideig nem kerül sor ügylet vagy azonos jellegű művelet teljesítésére, az ezt követő ügyletet vagy műveletet új ügyletnek, illetve egy újabb műveletsor első műveletének kell tekinteni, és arra az (1)–(7) bekezdések rendelkezéseit ismét alkalmazni kell.
+(7) Amennyiben az egymást követő ügyletek, illetve az azonos jellegű elkülönült műveletek, amelyek időbeli kapcsolatban állnak egymással, az 1. § (2) bekezdésétől eltérően, alapmegállapodás nélkül ugyanazon felek között kerülnek végrehajtásra, az (1)–(6) bekezdések rendelkezéseit kizárólag az első ügyletre vagy műveletre kell alkalmazni. Ha egy évnél hosszabb ideig nem kerül sor ügylet vagy azonos jellegű művelet teljesítésére, az ezt követő ügyletet vagy műveletet új ügyletnek, illetve egy újabb műveletsor első műveletének kell tekinteni, és arra az (1)–(6) bekezdések rendelkezéseit ismét alkalmazni kell.
 
 4. § (1) Ha a szolgáltató a fogyasztónak telefonon tesz szerződéskötésre ajánlatot vagy ajánlattételi felhívást, annak megtétele előtt legalább cégnevét (nevét), székhelyét és telefonszámát köteles közölni, valamint a fogyasztó figyelmét kifejezetten fel kell hívnia szerződéskötési szándékára.
 
@@ -80,10 +76,6 @@ a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási sz
 - e) a fizetés és a teljesítés feltételeiről,
 - f) a 6. §-ban szabályozott elállási (felmondási) jogról, illetve annak fenn nem állásáról; az elállási (felmondási) jog gyakorlásának feltételeiről, módjáról és jogkövetkezményeiről, ideértve a 8. §-ban foglaltakat; továbbá arról a címről (elektronikus levelezési címről, telefaxszámról), amelyre a fogyasztónak elállási (felmondási) nyilatkozatát küldenie kell,
 - g) arról, hogy a fogyasztó kérése esetén további tájékoztatást kap, illetve ezen további tájékoztatás jellegéről.
-
-(3) A (2) bekezdés b) pontjában meghatározott tájékoztatás fogyasztónak nyújtott hitel nyújtása esetén legalább a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. § (1) bekezdés 4–7. pontjában, 9. pontjában és 6. § (2) bekezdésében foglalt adatokat, a hitel teljes összegét és a teljes hiteldíj mutatót egy reprezentatív példával tartalmazza.
-
-(4) A (2) bekezdés b) pontjában meghatározott tájékoztatás fizetési számlához kapcsolódó hitelkeret nyújtása esetén legalább a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. § (1) bekezdés 4., 7. és 8. pontjában, továbbá 6. § (6) bekezdés c) pontjában foglalt adatokat tartalmazza, ha fogyasztó a fizetési számlához kapcsolódó hitelkeret azonnali rendelkezésre bocsátását kéri.
 
 5. § (1) A szolgáltató köteles a fogyasztó részére a fogyasztó szerződéskötésre irányuló jognyilatkozatát megelőzően – tekintettel a szolgáltatás és a távközlő eszköz jellegére – kellő időben a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésre vonatkozó szerződési feltételeket és a 3. § (2) és (4) bekezdésében foglaltakat papíron vagy más, a fogyasztó számára hozzáférhető tartós adathordozón rendelkezésre bocsátani.
 
@@ -137,8 +129,6 @@ a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási sz
 
 (7) A fogyasztó köteles a szolgáltató által kifizetett pénzösszeget vagy átadott dolgot az elállásról (felmondásról) szóló nyilatkozatának elküldését követően haladéktalanul, de legkésőbb 30 napon belül visszatéríteni, illetve visszaadni.
 
-8/A. § A 6–8. §-ban foglaltak helyett a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 21. §-ában foglaltak szerint kell eljárni, ha a fogyasztónak nyújtott hitelszerződéstől történő elállásra kerül sor.
-
 ### Vegyes rendelkezések
 
 9. § A szolgáltató nem követelhet a fogyasztótól ellenszolgáltatást, ha olyan szolgáltatást nyújt, amelyet a fogyasztó nem rendelt meg.
@@ -157,15 +147,15 @@ a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási sz
 
 ### Eljárás a fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó rendelkezések megsértése esetén
 
-12/A. § A fogyasztókkal szembeni kereskedelmi gyakorlatra, így különösen a fogyasztók tájékoztatására vonatkozó rendelkezések megsértése esetén a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben meghatározott szabályok szerint jár el.
+12/A. § A fogyasztókkal szembeni kereskedelmi gyakorlatra, így különösen a fogyasztók tájékoztatására vonatkozó rendelkezések megsértése esetén a Pénzügyi Szervezetek Állami Felügyelete a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben meghatározott szabályok szerint jár el.
 
 ### Hatálybalépés
 
 13. § Ez a törvény 2005. július 1-jén lép hatályba; rendelkezéseit a hatálybalépését követően tett ajánlattételi felhívásokra, ajánlatokra és a hatálybalépését követően megkötött szerződésekre kell alkalmazni.
 
-#### 14. §
+14. §
 
-#### 15–18. §
+15–18. §
 
 ### Az Európai Unió jogának való megfelelés
 

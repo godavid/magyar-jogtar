@@ -31,7 +31,7 @@ Az Országgyűlés a politikai okból életüktől és szabadságuktól jogtalan
 
 (6) A kárpótlásra jogosultság feltétele, hogy a sérelmet elszenvedő megfeleljen a 4. §-ban foglaltaknak.
 
-(7) Ha az egyösszegű kárpótlást az (1) bekezdés d) pontja alapján vagy olyan sérelem miatt állapítják meg, amely a szabadságelvonás alatt (3. §) történt, a túlélő házastársat (özvegyet) választása szerint illeti meg vagy az egyösszegű kárpótlás, vagy a sérelmet elszenvedő deportálása, kényszermunkára hurcolása, szabadságelvonása miatt járó kárpótlás, feltéve, hogy a jogosultságot mindkét jogcímen véglegesen vagy jogerősen megállapították. A túlélő házastárs a választását a második jogcímet megállapító végleges vagy jogerős határozat kézhezvételét, illetőleg – ha ez később történik – a (2) bekezdésben említett törvény hatálybalépését követő harminc napon belül jelentheti be írásban a kárpótlási hatóságnak. Ha a túlélő házastárs bejelentést nem tesz, a korábban véglegessé vált vagy jogerőre emelkedett határozat alapján jár a kárpótlás.
+(7) Ha az egyösszegű kárpótlást az (1) bekezdés d) pontja alapján vagy olyan sérelem miatt állapítják meg, amely a szabadságelvonás alatt (3. §) történt, a túlélő házastársat (özvegyet) választása szerint illeti meg vagy az egyösszegű kárpótlás, vagy a sérelmet elszenvedő deportálása, kényszermunkára hurcolása, szabadságelvonása miatt járó kárpótlás, feltéve, hogy a jogosultságot mindkét jogcímen jogerősen megállapították. A túlélő házastárs a választását a második jogcímet megállapító jogerős határozat kézhezvételét, illetőleg – ha ez később történik – a (2) bekezdésben említett törvény hatálybalépését követő huszonkét munkanapon belül jelentheti be írásban a kárpótlási hatóságnak. Ha a túlélő házastárs bejelentést nem tesz, a korábban jogerőre emelkedett határozat alapján jár a kárpótlás.
 
 (8) Azt, aki a 12. § alapján kárpótlást nem kaphat, a többi hozzátartozó jogosultságának és a nekik járó kárpótlás összegének megállapításakor figyelembe kell venni. Ugyanez vonatkozik arra az esetre is, ha az özvegy – a (7) bekezdésben foglalt lehetőség alapján – nem az életelvesztés miatt járó kárpótlást választja.
 
@@ -65,8 +65,7 @@ Az Országgyűlés a politikai okból életüktől és szabadságuktól jogtalan
 - a) — szabadságvesztés büntetés, amelyet az 1941. évi XV. törvény 9., 10., 14. és 15. §-ában, az 1989. évi XXXVI. törvény 5. §-ában, az 1990. évi XXVI. törvény 2. §-ában, illetőleg az 1992. évi XI. törvény 1. §-ában felsorolt bűncselekmény miatt szabtak ki; — előzetes letartóztatás és minden olyan szabadságelvonás, amelyet az 1941. évi XV. törvény 9., 10., 14. és 15. §-ában, az 1989. évi XXXVI. törvény 5. §-ában, az 1990. évi XXVI. törvény 2. §-ában, illetőleg az 1992. évi XI. törvény 1. §-ában felsorolt bűncselekmény miatt folytatott büntető eljárás keretében foganatosítottak; — kényszergyógykezelés, amelyet az 1948. évi XLVIII. törvény 1—13. §-a alapján az 1989. évi XXXVI. törvény 5. §-ában, az 1990. évi XXVI. törvény 2. §-ában, illetőleg az 1992. évi XI. törvény 1. §-ában felsorolt bűncselekmény miatt rendeltek el;
 - b) magyar bíróság ítélete vagy magyar közigazgatási hatóság határozata alapján végrehajtott, zárt táborszerű fogvatartás (internálás, kényszermunka), közbiztonsági őrizet, kényszerlakhely kijelölés (kitelepítés);
 - c) a II. világháború alatt (1941. június 27.–1945. május 9.) faji, vallási vagy politikai okból teljesített munkaszolgálat;
-- d)
-- e)
+- d)–e)
 
 (2)
 
@@ -115,8 +114,7 @@ Az Országgyűlés a politikai okból életüktől és szabadságuktól jogtalan
 - a) szabadságvesztés büntetés esetén azt az időtartamot, amelyre ítélték, életfogytig tartó szabadságvesztés büntetés esetén 20 évet;
 - b) internálás esetén 1 év 6 hónapot, közbiztonsági őrizet esetén 6 hónapot, kényszerlakhely kijelölés esetén 2 évet;
 - c) munkaszolgálat esetén 2 évet;
-- d)
-- f)
+- d)–f)
 
 ### Vagyoni kárpótlás
 
@@ -151,16 +149,12 @@ Az Országgyűlés a politikai okból életüktől és szabadságuktól jogtalan
 
 14. § E törvény alapján benyújtott kárpótlási kérelmek elbírálására az 1991. évi XXV. törvény 10—12. §-ában foglaltak az irányadók a következő eltérésekkel:
 
-- a) a jogosult 2012. március 30-ig kezdeményezett bírósági eljárásban hozott, elítélését törvénysértővé vagy semmissé nyilvánító jogerős bírósági határozat kézbesítését követő 4 hónapon belül a kárpótlási hatósághoz kárpótlás iránti kérelmet nyújthat be; a határidő elmulasztása jogvesztéssel jár, a mulasztás miatt igazolásnak nincs helye;
-- b)
+- a) a jogosult e törvény hatálybalépését, illetve az elítélését törvénysértővé vagy semmisé nyilvánító jogerős bírósági határozat kézbesítését követő 4 hónapon belül a kárpótlási hatósághoz kárpótlás iránti kérelmet nyújthat be;
+- b) a kárpótlási hatóság az újrafelvételi kérelmet érdemi vizsgálat nélkül elutasítja, ha a határozat jogerőre emelkedésétől számított egy év eltelt;
 - c) ha a 2. § (1) bekezdésének b) pontjában meghatározott sérelem bekövetkezésének a körülményeit okirattal kétséget kizáróan nem lehet bizonyítani, a kárpótlási hatóság az iratokat a további eljárás végett az illetékes bíróságnak küldi meg; a bíróság a Be. 356. §-ában foglalt szabályok szerinti eljárás lefolytatása után dönt; valamint
-- d)
+- d) a kárpótlási hatóság első fokú határozatának felülvizsgálata iránti perre a kárpótlásra jogosult lakóhelye szerinti megyei bíróság az illetékes. Ha a kárpótlásra jogosultnak belföldi lakóhelye nincs, a Fővárosi Bíróság jár el.
 
-#### 14/A. §
-
-14/B. § (1) Ha az eljárás során a jogosulttal való kapcsolattartás lehetetlenné vált, vagy a jogutód nem ismert, a kárpótlási hatóság a döntését az általános közigazgatási rendtartásról szóló törvény hirdetményi közlésre vonatkozó szabályai szerint közli.
-
-(2)
+14/A. § A kérelmező nem jogosult elektronikus úton kapcsolatot tartani a kárpótlási hatósággal.
 
 ### Adó- és illetékmentesség
 
@@ -190,17 +184,15 @@ Az Országgyűlés a politikai okból életüktől és szabadságuktól jogtalan
 
 20/A. § (1) A pénzben fizetendő kárpótlás kifizetéséről – a kárpótlási hatóság döntése alapján – a nyugdíjfolyósító szerv gondoskodik.
 
-(2) A kifizetéshez szükséges pénzügyi fedezetet a központi költségvetésben tervezni kell, és azt a központi nyugdíjbiztosítási szerv részére havonta – az államháztartásért felelős miniszterrel és a kincstárral kötött megállapodás szerint – át kell utalni. A pénzbeli kárpótlás fizetésének (egyszeri kifizetés, illetőleg életjáradék-folyósítás) költségeit a központi költségvetés biztosítja.
+(2) A kifizetéshez szükséges pénzügyi fedezetet a központi költségvetésben tervezni kell, és azt a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére havonta – az államháztartásért felelős miniszterrel és a kincstárral kötött megállapodás szerint – át kell utalni. A pénzbeli kárpótlás fizetésének (egyszeri kifizetés, illetőleg életjáradék-folyósítás) költségeit a központi költségvetés biztosítja.
 
-(3) A központi nyugdíjbiztosítási szerv a (2) bekezdés szerint rendelkezésre bocsátott összeget elkülönítetten kezeli és tartja nyilván, azt egyéb célokra nem használhatja fel.
+(3) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv a (2) bekezdés szerint rendelkezésre bocsátott összeget elkülönítetten kezeli és tartja nyilván, azt egyéb célokra nem használhatja fel.
 
 ### Hatálybalépés
 
 21. § (1) Ez a törvény a kihirdetése napját követő 30. napon lép hatályba.
 
 (2) Felhatalmazást kap a Kormány, hogy megállapítsa e törvény végrehajtásához szükséges eljárási szabályokat és a kárpótlás folyósításának szabályait.
-
-#### 22. §
 
 ### Melléklet az 1992. évi XXXII. törvény 7. §-ának (1) bekezdéséhez
 

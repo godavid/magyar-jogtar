@@ -8,7 +8,7 @@ Az Országgyűlés a települési önkormányzatok többcélú kistérségi tár
 
 (2) A többcélú kistérségi társulás létrehozásához szükséges, hogy
 
-- a) a többcélú kistérségi társulási megállapodást a kistérségbe tartozó települések képviselő-testületeinek több mint a fele, de legalább két képviselő-testület (a továbbiakban: a társulás tagja) jóváhagyja;
+- a) a többcélú kistérségi társulási megállapodást a kistérségbe tartozó települések képviselő-testületeinek több mint a fele, de legalább két képviselő-testület, míg a területfejlesztési feladatok vállalása esetén a kistérségbe tartozó települések képviselő-testületeinek mindegyike (a továbbiakban: a társulás tagja) jóváhagyja;
 - b) a többcélú kistérségi társulási megállapodást jóváhagyó települések együttes lakosságszáma meghaladja a kistérség lakosságszámának 60%-át, illetve 50%-át, ha a társulás tagjainak száma eléri a kistérségbe tartozó települések számának 60%-át;
 - c) megalakulását követően a kincstár nyilvántartásba vegye.
 
@@ -52,7 +52,7 @@ Az Országgyűlés a települési önkormányzatok többcélú kistérségi tár
 - q) belső ellenőrzés;
 - r) területfejlesztés.
 
-(2) Ha a többcélú kistérségi társulás legalább az (1) bekezdés a)–c) pontjában meghatározott feladatkörbe tartozó egyes feladat- és hatáskörök ellátásáról gondoskodik, akkor ezekhez a központi költségvetés az éves költségvetési törvényben ösztönző támogatást biztosít.
+(2) Amennyiben a többcélú kistérségi társulás legalább az (1) bekezdés a), b), c) és r) pontokban meghatározott feladatkörbe tartozó egyes feladat- és hatáskörök ellátásáról gondoskodik, akkor ezekhez a központi költségvetés az éves költségvetési törvényben ösztönző támogatást biztosít.
 
 (3) A kistérségi társulás által ellátható feladatok megvalósításának szakmai minimum követelményeit az ágazati törvények határozzák meg.
 
@@ -81,7 +81,7 @@ Az Országgyűlés a települési önkormányzatok többcélú kistérségi tár
 - e) a helyi adókból származó bevétel megosztásának módját;
 - f) a társulási tanács elnökségének feladatait;
 - g) a lakosság önszerveződő közösségei tájékoztatásának módját, valamint az együttműködés rendjét;
-- h) a megyei önkormányzattal, a térségi fejlesztési tanácsokkal való együttműködés, kapcsolattartás rendjét;
+- h) a megyei önkormányzattal, a területfejlesztési tanácsokkal való együttműködés, kapcsolattartás rendjét;
 - i) a társulási tanács és a társulás tagjai, valamint más települési önkormányzatok képviselő-testületei közötti kapcsolat rendszerét, a kölcsönös tájékoztatás, a döntés-előkészítés menetét, az egyes képviselő-testületeket megillető kezdeményezési jogot;
 - j) azt, hogy a többcélú kistérségi társulás keretében több intézményi társulás működik;
 - k) azt, amiben a társulás tagjai megállapodnak.
@@ -123,7 +123,7 @@ Az Országgyűlés a települési önkormányzatok többcélú kistérségi tár
 - a) szükség szerint, de évente legalább négy alkalommal;
 - b) a többcélú kistérségi társulási megállapodásban vagy a társulási tanács által meghatározott esetben;
 - c) a társulás tagjai egynegyedének – napirendet tartalmazó – indítványára, annak kézhezvételétől számított tizenöt napon belül;
-- d) a fővárosi és megyei kormányhivatal kezdeményezésére, annak kézhezvételétől számított tizenöt napon belül.
+- d) a közigazgatási hivatal kezdeményezésére, annak kézhezvételétől számított tizenöt napon belül.
 
 (4) A társulási tanács ülése nyilvános.
 
@@ -132,7 +132,7 @@ Az Országgyűlés a települési önkormányzatok többcélú kistérségi tár
 - a) zárt ülést tart választás, kinevezés, felmentés, vezetői megbízatás adása, illetőleg visszavonása, fegyelmi eljárás megindítása, fegyelmi büntetés kiszabása és állásfoglalást igénylő személyi ügy tárgyalásakor, ha az érintett a nyilvános tárgyalásba nem egyezik bele, továbbá önkormányzati hatósági ügy tárgyalásakor;
 - b) zárt ülést rendelhet el a vagyonával való rendelkezés és az általa kiírt pályázat tárgyalásakor, ha a nyilvános tárgyalás üzleti érdeket sértene.
 
-(6) A társulási tanács üléséről jegyzőkönyvet kell készíteni, melyre a képviselő-testület üléséről készített jegyzőkönyvre vonatkozó szabályokat kell alkalmazni azzal, hogy a jegyzőkönyvet az elnök és a társulási tanács által felhatalmazott tag írja alá. A jegyzőkönyvet a társulási tanács elnöke az ülést követő tizenöt napon belül megküldi a fővárosi és megyei kormányhivatalnak és a társulás tagjainak.
+(6) A társulási tanács üléséről jegyzőkönyvet kell készíteni, melyre a képviselő-testület üléséről készített jegyzőkönyvre vonatkozó szabályokat kell alkalmazni azzal, hogy a jegyzőkönyvet az elnök és a társulási tanács által felhatalmazott tag írja alá. A jegyzőkönyvet a társulási tanács elnöke az ülést követő tizenöt napon belül megküldi a közigazgatási hivatalnak és a társulás tagjainak.
 
 8. § (1) A társulási tanács akkor határozatképes, ha ülésén a társulási megállapodásban meghatározott számú, de legalább a szavazatok több mint felével rendelkező tag jelen van és a jelen lévő tagok által képviselt települések lakosságszáma meghaladja a többcélú kistérségi társulást alkotó települések lakosságszámának egyharmadát. A javaslat elfogadásához a megállapodásban meghatározott számú, de legalább annyi tag igen szavazata szükséges, amely meghaladja a jelen lévő tagok szavazatainak a felét és az általuk képviselt települések lakosságszámának egyharmadát.
 
@@ -159,15 +159,15 @@ Az Országgyűlés a települési önkormányzatok többcélú kistérségi tár
 
 (3) A társulási tanács a többcélú kistérségi társulás tevékenységének és gazdálkodásának ellenőrzése céljából pénzügyi bizottságot hoz létre. A pénzügyi bizottság elnökét és tagjai több mint a felét a társulási tanács tagjai közül kell választani.
 
-12. § (1) A többcélú kistérségi társulási megállapodást a többcélú kistérségi társulás megalakulását követő tizenöt napon belül a társulási tanács elnöke megküldi a fővárosi és megyei kormányhivatalnak, aki arra tizenöt napon belül törvényességi észrevételt tehet.
+12. § (1) A többcélú kistérségi társulási megállapodást a többcélú kistérségi társulás megalakulását követő tizenöt napon belül a társulási tanács elnöke megküldi a közigazgatási hivatalnak, aki arra tizenöt napon belül törvényességi észrevételt tehet.
 
-(2) A fővárosi és megyei kormányhivatal törvényességi felügyeleti jogkörében vizsgálja, hogy a többcélú kistérségi társulás döntése, szervezete, működése és döntéshozatali eljárása megfelel-e a jogszabályoknak, a többcélú kistérségi társulási megállapodásban, valamint a társulási tanács szervezeti és működési szabályzatában foglaltaknak. A fővárosi és megyei kormányhivatal összehívja a társulási tanács ülését, ha a 7. § (3) bekezdés c) pontja szerint tett indítványnak a társulási tanács elnöke tizenöt napon belül nem tesz eleget.
+(2) A közigazgatási hivatal törvényességi ellenőrzési jogkörében vizsgálja, hogy a többcélú kistérségi társulás döntése, szervezete, működése és döntéshozatali eljárása megfelel-e a jogszabályoknak, a többcélú kistérségi társulási megállapodásban, valamint a társulási tanács szervezeti és működési szabályzatában foglaltaknak. A közigazgatási hivatal összehívja a társulási tanács ülését, ha a 7. § (3) bekezdés c) pontja szerint tett indítványnak a társulási tanács elnöke tizenöt napon belül nem tesz eleget.
 
-(3)
+(3) A többcélú kistérségi társulás gazdálkodását (ideértve az Európai Unió által nyújtott és egyéb nemzetközi támogatások, valamint az ehhez kapcsolódó költségvetésből nyújtott támogatások felhasználását) az Állami Számvevőszék ellenőrzi.
 
 (4) Az európai uniós és költségvetési támogatások felhasználását az Európai Számvevőszék és az Európai Bizottság illetékes szervezetei, a Kormány által kijelölt szerv, a fejezetek ellenőrzési szervezetei, a kincstár, illetve az európai uniós támogatások irányító hatóságai és a kifizető hatóság képviselői is ellenőrzik.
 
-13. § (1) A törvény mellékletében megjelölt kistérségi lehatárolás megváltoztatását a helyi önkormányzatokért felelős miniszter útján az érintett képviselő-testület(ek) az önkormányzati általános választásokat követő hat hónapon belül – a társulási tanácsvéleményének csatolásával – kezdeményezheti(k). A kezdeményezést a helyi önkormányzatokért felelős miniszter a Kormányhoz nyújtja be.
+13. § (1) A törvény mellékletében megjelölt kistérségi lehatárolás megváltoztatását a helyi önkormányzatokért felelős miniszter útján az érintett képviselő-testület(ek) az önkormányzati általános választásokat követő hat hónapon belül – a társulási tanács, a megyei területfejlesztési tanács véleményének csatolásával – kezdeményezheti(k). A kezdeményezést a helyi önkormányzatokért felelős miniszter a Kormányhoz nyújtja be.
 
 (2) E törvény alkalmazása során a költségvetési törvényben meghatározott normatív támogatásoknál figyelembe vett lakosságszám az irányadó.
 
@@ -673,7 +673,7 @@ A kistérségek, a kistérségekbe tartozó települések és a kistérségek sz
 |  |  | Vésztő |  |
 |  | Békési | Békés | Békés |
 |  |  | Bélmegyer |  |
-|  |  | CsárdaszállásDoboz |  |
+|  |  | Csárdaszállás Doboz |  |
 |  |  | Kamut |  |
 |  |  | Köröstarcsa |  |
 |  |  | Mezőberény |  |
@@ -1112,6 +1112,7 @@ A kistérségek, a kistérségekbe tartozó települések és a kistérségek sz
 |  |  | Etyek |  |
 |  |  | Felcsút |  |
 |  |  | Gánt |  |
+|  |  | Kajászó |  |
 |  |  | Mány |  |
 |  |  | Óbarok |  |
 |  |  | Szár |  |
@@ -1205,10 +1206,9 @@ A kistérségek, a kistérségekbe tartozó települések és a kistérségek sz
 |  |  | Perkáta |  |
 |  |  | Pusztaszabolcs |  |
 |  |  | Szabadegyháza |  |
-|  | Martonvásári | Baracska | Martonvásár |
+|  | Ercsi | Baracska | Ercsi |
 |  |  | Ercsi |  |
 |  |  | Gyúró |  |
-|  |  | Kajászó |  |
 |  |  | Martonvásár |  |
 |  |  | Ráckeresztúr |  |
 |  |  | Tordas |  |
@@ -1314,7 +1314,6 @@ A kistérségek, a kistérségekbe tartozó települések és a kistérségek sz
 |  |  | Mosonmagyaróvár |  |
 |  |  | Mosonszentmiklós |  |
 |  |  | Mosonszolnok |  |
-|  |  | Mosonudvar |  |
 |  |  | Püski |  |
 |  |  | Rajka |  |
 |  |  | Újrónafő |  |
@@ -1458,7 +1457,7 @@ A kistérségek, a kistérségekbe tartozó települések és a kistérségek sz
 |  |  | Sárrétudvari |  |
 |  |  | Szerep |  |
 |  |  | Tetétlen |  |
-|  | Derecske-Létavértesi | Álmosd | Derecske |
+|  | Derecske-Létavértesi | Álmosd | Létavértes |
 |  |  | Bagamér |  |
 |  |  | Derecske |  |
 |  |  | Hajdúbagos |  |
@@ -2881,479 +2880,477 @@ A kistérségek, a kistérségekbe tartozó települések és a kistérségek sz
 |  |  | Telekes |  |
 |  |  | Vasvár |  |
 | Veszprém |  |  |  |
-|  | Ajkai | Ajka | Ajka |
-|  |  | Bakonypölöske |  |
-|  |  | Csehbánya |  |
-|  |  | Halimba |  |
-|  |  | Kislőd |  |
-|  |  | Magyarpolány |  |
-|  |  | Noszlop |  |
-|  |  | Nyirád |  |
-|  |  | Öcs |  |
-|  |  | Szőc |  |
-|  |  | Úrkút |  |
-|  |  | Városlőd” |  |
-| ... |  |  |  |
-|  | Devecseri | Adorjánháza | Devecser |
+|  | Ajkai | Adorjánháza | Ajka |
+|  |  | Ajka |  |
 |  |  | Apácatorna |  |
+|  |  | Bakonypölöske |  |
 |  |  | Borszörcsök |  |
+|  |  | Csehbánya |  |
 |  |  | Csögle |  |
 |  |  | Dabrony |  |
 |  |  | Devecser |  |
 |  |  | Doba |  |
 |  |  | Egeralja |  |
+|  |  | Halimba |  |
 |  |  | Iszkáz |  |
 |  |  | Kamond |  |
 |  |  | Karakószörcsök |  |
 |  |  | Kerta |  |
 |  |  | Kisberzseny |  |
 |  |  | Kiscsősz |  |
+|  |  | Kislőd |  |
 |  |  | Kispirit |  |
 |  |  | Kisszőlős |  |
 |  |  | Kolontár |  |
+|  |  | Magyarpolány |  |
 |  |  | Nagyalásony |  |
 |  |  | Nagypirit |  |
+|  |  | Noszlop |  |
+|  |  | Nyirád |  |
 |  |  | Oroszi |  |
+|  |  | Öcs |  |
 |  |  | Pusztamiske |  |
 |  |  | Somlójenő |  |
 |  |  | Somlószőlős |  |
 |  |  | Somlóvásárhely |  |
 |  |  | Somlóvecse |  |
+|  |  | Szőc |  |
 |  |  | Tüskevár |  |
+|  |  | Úrkút |  |
+|  |  | Városlőd |  |
 |  |  | Vid |  |
-|  | Balatonalmádi | Alsóörs | Balatonalmádi |  |
-|  |  | Balatonalmádi |  |  |
-|  |  | Balatonfőkajár |  |  |
-|  |  | Balatonfűzfő |  |  |
-|  |  | Balatonkenese |  |  |
-|  |  | Balatonvilágos |  |  |
-|  |  | Csajág |  |  |
-|  |  | Felsőörs |  |  |
-|  |  | Küngös |  |  |
-|  |  | Litér |  |  |
-|  |  | Szentkirályszabadja |  |  |
-|  | Balatonfüredi | Aszófő | Balatonfüred |  |
-|  |  | Balatonakali |  |  |
-|  |  | Balatoncsicsó |  |  |
-|  |  | Balatonfüred |  |  |
-|  |  | Balatonszepezd |  |  |
-|  |  | Balatonszőlős |  |  |
-|  |  | Balatonudvari |  |  |
-|  |  | Csopak |  |  |
-|  |  | Dörgicse |  |  |
-|  |  | LovasMonoszló |  |  |
-|  |  | Óbudavár |  |  |
-|  |  | Örvényes |  |  |
-|  |  | Paloznak |  |  |
-|  |  | Pécsely |  |  |
-|  |  | Szentantalfa |  |  |
-|  |  | Szentjakabfa |  |  |
-|  |  | Tagyon |  |  |
-|  |  | Tihany |  |  |
-|  |  | Vászoly |  |  |
-|  |  | Zánka |  |  |
-|  | Pápai | Adásztevel | Pápa |  |
-|  |  | Bakonyjákó |  |  |
-|  |  | Bakonykoppány |  |  |
-|  |  | Bakonyság |  |  |
-|  |  | Bakonyszentiván |  |  |
-|  |  | Bakonyszücs |  |  |
-|  |  | Bakonytamási |  |  |
-|  |  | Béb |  |  |
-|  |  | Békás |  |  |
-|  |  | Csót |  |  |
-|  |  | Dáka |  |  |
-|  |  | Döbrönte |  |  |
-|  |  | Egyházaskesző |  |  |
-|  |  | Farkasgyepű |  |  |
-|  |  | Ganna |  |  |
-|  |  | Gecse |  |  |
-|  |  | Gic |  |  |
-|  |  | Homokbödöge |  |  |
-|  |  | Kemeneshőgyész |  |  |
-|  |  | Kemenesszentpéter |  |  |
-|  |  | Kup |  |  |
-|  |  | Külsővat |  |  |
-|  |  | Lovászpatona |  |  |
-|  |  | Magyargencs |  |  |
-|  |  | Malomsok |  |  |
-|  |  | Marcalgergelyi |  |  |
-|  |  | Marcaltő |  |  |
-|  |  | Mezőlak |  |  |
-|  |  | Mihályháza |  |  |
-|  |  | Nagyacsád |  |  |
-|  |  | Nagydém |  |  |
-|  |  | Nagygyimót |  |  |
-|  |  | Nagytevel |  |  |
-|  |  | Nemesgörzsöny |  |  |
-|  |  | Nemesszalók |  |  |
-|  |  | Németbánya |  |  |
-|  |  | Nóráp |  |  |
-|  |  | Nyárád |  |  |
-|  |  | Pápa |  |  |
-|  |  | Pápadereske |  |  |
-|  |  | Pápakovácsi |  |  |
-|  |  | Pápasalamon |  |  |
-|  |  | Pápateszér |  |  |
-|  |  | Takácsi |  |  |
-|  |  | Ugod |  |  |
-|  |  | Vanyola |  |  |
-|  |  | Várkesző |  |  |
-|  |  | Vaszar |  |  |
-|  |  | Vinár |  |  |
-|  | Sümegi | Bazsi | Sümeg |  |
-|  |  | Bodorfa |  |  |
-|  |  | Csabrendek |  |  |
-|  |  | Dabronc |  |  |
-|  |  | Gógánfa |  |  |
-|  |  | Gyepükaján |  |  |
-|  |  | Hetyefő |  |  |
-|  |  | Hosztót |  |  |
-|  |  | Káptalanfa |  |  |
-|  |  | Megyer |  |  |
-|  |  | Nemeshany |  |  |
-|  |  | Rigács |  |  |
-|  |  | Sümeg |  |  |
-|  |  | Sümegprága |  |  |
-|  |  | Szentimrefalva |  |  |
-|  |  | Ukk |  |  |
-|  |  | Veszprémgalsa |  |  |
-|  |  | Zalaerdőd |  |  |
-|  |  | Zalagyömörő |  |  |
-|  |  | Zalameggyes |  |  |
-|  |  | Zalaszegvár |  |  |
-|  | Tapolcai | Ábrahámhegy | Tapolca |  |
-|  |  | Badacsonytomaj |  |  |
-|  |  | Badacsonytördemic |  |  |
-|  |  | Balatonederics |  |  |
-|  |  | Balatonhenye |  |  |
-|  |  | Balatonrendes |  |  |
-|  |  | Gyulakeszi |  |  |
-|  |  | Hegyesd |  |  |
-|  |  | Hegymagas |  |  |
-|  |  | Kapolcs |  |  |
-|  |  | Káptalantóti |  |  |
-|  |  | Kékkút |  |  |
-|  |  | Kisapáti |  |  |
-|  |  | Kővágóörs |  |  |
-|  |  | Köveskál |  |  |
-|  |  | Lesencefalu |  |  |
-|  |  | Lesenceistvánd |  |  |
-|  |  | Lesencetomaj |  |  |
-|  |  | Mindszentkálla |  |  |
-|  |  | Monostorapáti |  |  |
-|  |  | Nemesgulács |  |  |
-|  |  | Nemesvita |  |  |
-|  |  | Raposka |  |  |
-|  |  | Révfülöp |  |  |
-|  |  | Salföld |  |  |
-|  |  | Sáska |  |  |
-|  |  | Szentbékkálla |  |  |
-|  |  | Szigliget |  |  |
-|  |  | Taliándörögd |  |  |
-|  |  | Tapolca |  |  |
-|  |  | Uzsa |  |  |
-|  |  | Vigántpetend |  |  |
-|  |  | Zalahaláp |  |  |
-|  | Várpalotai | Berhida | Várpalota |  |
-|  |  | Jásd |  |  |
-|  |  | Ősi |  |  |
-|  |  | Öskü |  |  |
-|  |  | Pétfürdő |  |  |
-|  |  | Tés |  |  |
-|  |  | Várpalota |  |  |
-|  | Veszprémi | Bánd | Veszprém |  |
-|  |  | Barnag |  |  |
-|  |  | Hajmáskér |  |  |
-|  |  | Hárskút |  |  |
-|  |  | Herend |  |  |
-|  |  | Hidegkút |  |  |
-|  |  | Királyszentistván |  |  |
-|  |  | Márkó |  |  |
-|  |  | Mencshely |  |  |
-|  |  | Nagyvázsony |  |  |
-|  |  | Nemesvámos |  |  |
-|  |  | Papkeszi |  |  |
-|  |  | Pula |  |  |
-|  |  | Sóly |  |  |
-|  |  | Szentgál |  |  |
-|  |  | Tótvázsony |  |  |
-|  |  | Veszprém |  |  |
-|  |  | Veszprémfajsz |  |  |
-|  |  | Vilonya |  |  |
-|  |  | Vöröstó |  |  |
-|  | Zirci | Bakonybél | Zirc |  |
-|  |  | Bakonynána |  |  |
-|  |  | Bakonyoszlop |  |  |
-|  |  | Bakonyszentkirály |  |  |
-|  |  | Borzavár |  |  |
-|  |  | Csesznek |  |  |
-|  |  | Csetény |  |  |
-|  |  | Dudar |  |  |
-|  |  | Eplény |  |  |
-|  |  | Lókút |  |  |
-|  |  | Nagyesztergár |  |  |
-|  |  | Olaszfalu |  |  |
-|  |  | Pénzesgyőr |  |  |
-|  |  | Porva |  |  |
-|  |  | Szápár |  |  |
-|  |  | Zirc |  |  |
-| Zala |  |  |  |  |
-|  | Hévízi | Alsópáhok | Hévíz |  |
-|  |  | Cserszegtomaj |  |  |
-|  |  | Felsőpáhok |  |  |
-|  |  | Hévíz |  |  |
-|  |  | Nemesbük |  |  |
-|  |  | Rezi |  |  |
-|  |  | Sármellék |  |  |
-|  |  | Zalaköveskút |  |  |
-|  | Keszthelyi | Balatongyörök | Keszthely |  |
-|  |  | Bókaháza |  |  |
-|  |  | Esztergályhorváti |  |  |
-|  |  | Gétye |  |  |
-|  |  | Gyenesdiás |  |  |
-|  |  | Karmacs |  |  |
-|  |  | Keszthely |  |  |
-|  |  | Szentgyörgyvár |  |  |
-|  |  | Vállus |  |  |
-|  |  | Várvölgy |  |  |
-|  |  | Vindornyafok |  |  |
-|  |  | Vindornyalak |  |  |
-|  |  | Vonyarcvashegy |  |  |
-|  |  | Zalaapáti |  |  |
-|  |  | Zalaszántó |  |  |
-|  |  | Zalavár |  |  |
-|  | Lenti | Alsószenterzsébet | Lenti |  |
-|  |  | Baglad |  |  |
-|  |  | Barlahida |  |  |
-|  |  | Belsősárd |  |  |
-|  |  | Bödeháza |  |  |
-|  |  | Csertalakos |  |  |
-|  |  | Csesztreg |  |  |
-|  |  | Csömödér |  |  |
-|  |  | Dobri |  |  |
-|  |  | Felsőszenterzsébet |  |  |
-|  |  | Gáborjánháza |  |  |
-|  |  | Gosztola |  |  |
-|  |  | Gutorfölde |  |  |
-|  |  | Hernyék |  |  |
-|  |  | Iklódbördőce |  |  |
-|  |  | Kálócfa |  |  |
-|  |  | Kányavár |  |  |
-|  |  | Kerkabarabás |  |  |
-|  |  | Kerkafalva |  |  |
-|  |  | Kerkakutas |  |  |
-|  |  | Kerkateskánd |  |  |
-|  |  | Kissziget |  |  |
-|  |  | Kozmadombja |  |  |
-|  |  | Külsősárd |  |  |
-|  |  | Lendvadedes |  |  |
-|  |  | Lendvajakabfa |  |  |
-|  |  | Lenti |  |  |
-|  |  | Lovászi |  |  |
-|  |  | Magyarföld |  |  |
-|  |  | Márokföld |  |  |
-|  |  | Mikekarácsonyfa |  |  |
-|  |  | Nemesnép |  |  |
-|  |  | Nova |  |  |
-|  |  | Ortaháza |  |  |
-|  |  | Páka |  |  |
-|  |  | Pórszombat |  |  |
-|  |  | Pördefölde |  |  |
-|  |  | Pusztaapáti |  |  |
-|  |  | Ramocsa |  |  |
-|  |  | Rédics |  |  |
-|  |  | Resznek |  |  |
-|  |  | Szécsisziget |  |  |
-|  |  | Szentgyörgyvölgy |  |  |
-|  |  | Szentpéterfölde |  |  |
-|  |  | Szijártóháza |  |  |
-|  |  | Szilvágy |  |  |
-|  |  | Tormafölde |  |  |
-|  |  | Tornyiszentmiklós |  |  |
-|  |  | Zalabaksa |  |  |
-|  |  | Zalaszombatfa |  |  |
-|  |  | Zebecke |  |  |
-|  | Letenyei | Bánokszentgyörgy | Letenye |  |
-|  |  | Bázakerettye |  |  |
-|  |  | Becsehely |  |  |
-|  |  | Borsfa |  |  |
-|  |  | Bucsuta |  |  |
-|  |  | Csörnyeföld |  |  |
-|  |  | Kerkaszentkirály |  |  |
-|  |  | Kiscsehi |  |  |
-|  |  | Kistolmács |  |  |
-|  |  | Lasztonya |  |  |
-|  |  | Letenye |  |  |
-|  |  | Lispeszentadorján |  |  |
-|  |  | Maróc |  |  |
-|  |  | Molnári |  |  |
-|  |  | Murarátka |  |  |
-|  |  | Muraszemenye |  |  |
-|  |  | Oltárc |  |  |
-|  |  | Petrivente |  |  |
-|  |  | Pusztamagyaród |  |  |
-|  |  | Semjénháza |  |  |
-|  |  | Szentliszló |  |  |
-|  |  | Szentmargitfalva |  |  |
-|  |  | Tótszentmárton |  |  |
-|  |  | Tótszerdahely |  |  |
-|  |  | Valkonya |  |  |
-|  |  | Várfölde |  |  |
-|  |  | Zajk |  |  |
-|  | Nagykanizsai | Belezna | Nagykanizsa |  |
-|  |  | Bocska |  |  |
-|  |  | Börzönce |  |  |
-|  |  | Csapi |  |  |
-|  |  | Eszteregnye |  |  |
-|  |  | Fityeház |  |  |
-|  |  | Fűzvölgy |  |  |
-|  |  | Gelsesziget |  |  |
-|  |  | Hahót |  |  |
-|  |  | Homokkomárom |  |  |
-|  |  | Hosszúvölgy |  |  |
-|  |  | Kacorlak |  |  |
-|  |  | Liszó |  |  |
-|  |  | Magyarszentmiklós |  |  |
-|  |  | Magyarszerdahely |  |  |
-|  |  | Murakeresztúr |  |  |
-|  |  | Nagybakónak |  |  |
-|  |  | Nagykanizsa |  |  |
-|  |  | Nagyrécse |  |  |
-|  |  | Nemespátró |  |  |
-|  |  | Pölöskefő |  |  |
-|  |  | Rigyác |  |  |
-|  |  | Sormás |  |  |
-|  |  | Surd |  |  |
-|  |  | Szepetnek |  |  |
-|  |  | Újudvar |  |  |
-|  |  | Zalaszentbalázs |  |  |
-|  | Pacsai | Alsórajk | Pacsa |  |
-|  |  | Bezeréd |  |  |
-|  |  | Búcsúszentlászló |  |  |
-|  |  | Dióskál |  |  |
-|  |  | Egeraracsa |  |  |
-|  |  | Felsőrajk |  |  |
-|  |  | Misefa |  |  |
-|  |  | Nagykapornak |  |  |
-|  |  | Nemesrádó |  |  |
-|  |  | Nemessándorháza |  |  |
-|  |  | Nemesszentandrás |  |  |
-|  |  | Orbányosfa |  |  |
-|  |  | Pacsa |  |  |
-|  |  | Padár |  |  |
-|  |  | Pölöske |  |  |
-|  |  | Pötréte |  |  |
-|  |  | Szentpéterúr |  |  |
-|  |  | Zalaigrice |  |  |
-|  |  | Zalaszentmárton |  |  |
-|  |  | Zalaszentmihály |  |  |
-|  | Zalaegerszegi | Alibánfa | Zalaegerszeg |  |
-|  |  | Alsónemesapáti |  |  |
-|  |  | Babosdöbréte |  |  |
-|  |  | Bagod |  |  |
-|  |  | Bak |  |  |
-|  |  | Baktüttös |  |  |
-|  |  | Becsvölgye |  |  |
-|  |  | Bocfölde |  |  |
-|  |  | Boncodfölde |  |  |
-|  |  | Böde |  |  |
-|  |  | Csatár |  |  |
-|  |  | Csonkahegyhát |  |  |
-|  |  | Csöde |  |  |
-|  |  | Dobronhegy |  |  |
-|  |  | Egervár |  |  |
-|  |  | Gellénháza |  |  |
-|  |  | Gombosszeg |  |  |
-|  |  | Gősfa |  |  |
-|  |  | Gyűrűs |  |  |
-|  |  | Hagyárosbörönd |  |  |
-|  |  | Hottó |  |  |
-|  |  | Iborfia |  |  |
-|  |  | Kávás |  |  |
-|  |  | Kemendollár |  |  |
-|  |  | Keménfa |  |  |
-|  |  | Kisbucsa |  |  |
-|  |  | Kiskutas |  |  |
-|  |  | Kispáli |  |  |
-|  |  | Kustánszeg |  |  |
-|  |  | Lakhegy |  |  |
-|  |  | Lickóvadamos |  |  |
-|  |  | Milejszeg |  |  |
-|  |  | Nagykutas |  |  |
-|  |  | Nagylengyel |  |  |
-|  |  | Nagypáli |  |  |
-|  |  | Nemesapáti |  |  |
-|  |  | Nemeshetés |  |  |
-|  |  | Németfalu |  |  |
-|  |  | Ormándlak |  |  |
-|  |  | Ozmánbük |  |  |
-|  |  | Pálfiszeg |  |  |
-|  |  | Pethőhenye |  |  |
-|  |  | Petrikeresztúr |  |  |
-|  |  | Pókaszepetk |  |  |
-|  |  | Pusztaederics |  |  |
-|  |  | Pusztaszentlászló |  |  |
-|  |  | Salomvár |  |  |
-|  |  | Sárhida |  |  |
-|  |  | Söjtör |  |  |
-|  |  | Szentkozmadombja |  |  |
-|  |  | Teskánd |  |  |
-|  |  | Tófej |  |  |
-|  |  | Vasboldogasszony |  |  |
-|  |  | Vaspör |  |  |
-|  |  | Vöckönd |  |  |
-|  |  | Zalaboldogfa |  |  |
-|  |  | Zalacséb |  |  |
-|  |  | Zalaegerszeg |  |  |
-|  |  | Zalaháshágy |  |  |
-|  |  | Zalaistvánd |  |  |
-|  |  | Zalalövő |  |  |
-|  |  | Zalaszentgyörgy |  |  |
-|  |  | Zalaszentiván |  |  |
-|  |  | Zalaszentlőrinc |  |  |
-|  |  | Zalatárnok |  |  |
-|  | Zalakarosi | Balatonmagyaród | Zalakaros |  |
-|  |  | Galambok |  |  |
-|  |  | Garabonc |  |  |
-|  |  | Gelse |  |  |
-|  |  | Kerecseny |  |  |
-|  |  | Kilimán |  |  |
-|  |  | Kisrécse |  |  |
-|  |  | Miháld |  |  |
-|  |  | Nagyrada |  |  |
-|  |  | Orosztony |  |  |
-|  |  | Pat |  |  |
-|  |  | Sand |  |  |
-|  |  | Zalakaros |  |  |
-|  |  | Zalakomár |  |  |
-|  |  | Zalamerenye |  |  |
-|  |  | Zalasárszeg |  |  |
-|  |  | Zalaszabar |  |  |
-|  |  | Zalaszentjakab |  |  |
-|  |  | Zalaújlak |  |  |
-|  | Zalaszentgróti | Almásháza | Zalaszentgrót |  |
-|  |  | Batyk |  |  |
-|  |  | Döbröce |  |  |
-|  |  | Dötk |  |  |
-|  |  | Kallósd |  |  |
-|  |  | Kehidakustány |  |  |
-|  |  | Kisgörbő |  |  |
-|  |  | Kisvásárhely |  |  |
-|  |  | Ligetfalva |  |  |
-|  |  | Mihályfa |  |  |
-|  |  | Nagygörbő |  |  |
-|  |  | Óhíd |  |  |
-|  |  | Pakod |  |  |
-|  |  | Sénye |  |  |
-|  |  | Sümegcsehi |  |  |
-|  |  | Szalapa |  |  |
-|  |  | Tekenye |  |  |
-|  |  | Tilaj |  |  |
-|  |  | Türje |  |  |
-|  |  | Vindornyaszőlős |  |  |
-|  |  | Zalabér |  |  |
-|  |  | Zalacsány |  |  |
-|  |  | Zalaszentgrót |  |  |
-|  |  | Zalaszentlászló |  |  |
-|  |  | Zalavég |  |  |
+|  | Balatonalmádi | Alsóörs | Balatonalmádi |
+|  |  | Balatonalmádi |  |
+|  |  | Balatonfőkajár |  |
+|  |  | Balatonfűzfő |  |
+|  |  | Balatonkenese |  |
+|  |  | Balatonvilágos |  |
+|  |  | Csajág |  |
+|  |  | Felsőörs |  |
+|  |  | Küngös |  |
+|  |  | Litér |  |
+|  |  | Szentkirályszabadja |  |
+|  | Balatonfüredi | Aszófő | Balatonfüred |
+|  |  | Balatonakali |  |
+|  |  | Balatoncsicsó |  |
+|  |  | Balatonfüred |  |
+|  |  | Balatonszepezd |  |
+|  |  | Balatonszőlős |  |
+|  |  | Balatonudvari |  |
+|  |  | Csopak |  |
+|  |  | Dörgicse |  |
+|  |  | Lovas Monoszló |  |
+|  |  | Óbudavár |  |
+|  |  | Örvényes |  |
+|  |  | Paloznak |  |
+|  |  | Pécsely |  |
+|  |  | Szentantalfa |  |
+|  |  | Szentjakabfa |  |
+|  |  | Tagyon |  |
+|  |  | Tihany |  |
+|  |  | Vászoly |  |
+|  |  | Zánka |  |
+|  | Pápai | Adásztevel | Pápa |
+|  |  | Bakonyjákó |  |
+|  |  | Bakonykoppány |  |
+|  |  | Bakonyság |  |
+|  |  | Bakonyszentiván |  |
+|  |  | Bakonyszücs |  |
+|  |  | Bakonytamási |  |
+|  |  | Béb |  |
+|  |  | Békás |  |
+|  |  | Csót |  |
+|  |  | Dáka |  |
+|  |  | Döbrönte |  |
+|  |  | Egyházaskesző |  |
+|  |  | Farkasgyepű |  |
+|  |  | Ganna |  |
+|  |  | Gecse |  |
+|  |  | Gic |  |
+|  |  | Homokbödöge |  |
+|  |  | Kemeneshőgyész |  |
+|  |  | Kemenesszentpéter |  |
+|  |  | Kup |  |
+|  |  | Külsővat |  |
+|  |  | Lovászpatona |  |
+|  |  | Magyargencs |  |
+|  |  | Malomsok |  |
+|  |  | Marcalgergelyi |  |
+|  |  | Marcaltő |  |
+|  |  | Mezőlak |  |
+|  |  | Mihályháza |  |
+|  |  | Nagyacsád |  |
+|  |  | Nagydém |  |
+|  |  | Nagygyimót |  |
+|  |  | Nagytevel |  |
+|  |  | Nemesgörzsöny |  |
+|  |  | Nemesszalók |  |
+|  |  | Németbánya |  |
+|  |  | Nóráp |  |
+|  |  | Nyárád |  |
+|  |  | Pápa |  |
+|  |  | Pápadereske |  |
+|  |  | Pápakovácsi |  |
+|  |  | Pápasalamon |  |
+|  |  | Pápateszér |  |
+|  |  | Takácsi |  |
+|  |  | Ugod |  |
+|  |  | Vanyola |  |
+|  |  | Várkesző |  |
+|  |  | Vaszar |  |
+|  |  | Vinár |  |
+|  | Sümegi | Bazsi | Sümeg |
+|  |  | Bodorfa |  |
+|  |  | Csabrendek |  |
+|  |  | Dabronc |  |
+|  |  | Gógánfa |  |
+|  |  | Gyepükaján |  |
+|  |  | Hetyefő |  |
+|  |  | Hosztót |  |
+|  |  | Káptalanfa |  |
+|  |  | Megyer |  |
+|  |  | Nemeshany |  |
+|  |  | Rigács |  |
+|  |  | Sümeg |  |
+|  |  | Sümegprága |  |
+|  |  | Szentimrefalva |  |
+|  |  | Ukk |  |
+|  |  | Veszprémgalsa |  |
+|  |  | Zalaerdőd |  |
+|  |  | Zalagyömörő |  |
+|  |  | Zalameggyes |  |
+|  |  | Zalaszegvár |  |
+|  | Tapolcai | Ábrahámhegy | Tapolca |
+|  |  | Badacsonytomaj |  |
+|  |  | Badacsonytördemic |  |
+|  |  | Balatonederics |  |
+|  |  | Balatonhenye |  |
+|  |  | Balatonrendes |  |
+|  |  | Gyulakeszi |  |
+|  |  | Hegyesd |  |
+|  |  | Hegymagas |  |
+|  |  | Kapolcs |  |
+|  |  | Káptalantóti |  |
+|  |  | Kékkút |  |
+|  |  | Kisapáti |  |
+|  |  | Kővágóörs |  |
+|  |  | Köveskál |  |
+|  |  | Lesencefalu |  |
+|  |  | Lesenceistvánd |  |
+|  |  | Lesencetomaj |  |
+|  |  | Mindszentkálla |  |
+|  |  | Monostorapáti |  |
+|  |  | Nemesgulács |  |
+|  |  | Nemesvita |  |
+|  |  | Raposka |  |
+|  |  | Révfülöp |  |
+|  |  | Salföld |  |
+|  |  | Sáska |  |
+|  |  | Szentbékkálla |  |
+|  |  | Szigliget |  |
+|  |  | Taliándörögd |  |
+|  |  | Tapolca |  |
+|  |  | Uzsa |  |
+|  |  | Vigántpetend |  |
+|  |  | Zalahaláp |  |
+|  | Várpalotai | Berhida | Várpalota |
+|  |  | Jásd |  |
+|  |  | Ősi |  |
+|  |  | Öskü |  |
+|  |  | Pétfürdő |  |
+|  |  | Tés |  |
+|  |  | Várpalota |  |
+|  | Veszprémi | Bánd | Veszprém |
+|  |  | Barnag |  |
+|  |  | Hajmáskér |  |
+|  |  | Hárskút |  |
+|  |  | Herend |  |
+|  |  | Hidegkút |  |
+|  |  | Királyszentistván |  |
+|  |  | Márkó |  |
+|  |  | Mencshely |  |
+|  |  | Nagyvázsony |  |
+|  |  | Nemesvámos |  |
+|  |  | Papkeszi |  |
+|  |  | Pula |  |
+|  |  | Sóly |  |
+|  |  | Szentgál |  |
+|  |  | Tótvázsony |  |
+|  |  | Veszprém |  |
+|  |  | Veszprémfajsz |  |
+|  |  | Vilonya |  |
+|  |  | Vöröstó |  |
+|  | Zirci | Bakonybél | Zirc |
+|  |  | Bakonynána |  |
+|  |  | Bakonyoszlop |  |
+|  |  | Bakonyszentkirály |  |
+|  |  | Borzavár |  |
+|  |  | Csesznek |  |
+|  |  | Csetény |  |
+|  |  | Dudar |  |
+|  |  | Eplény |  |
+|  |  | Lókút |  |
+|  |  | Nagyesztergár |  |
+|  |  | Olaszfalu |  |
+|  |  | Pénzesgyőr |  |
+|  |  | Porva |  |
+|  |  | Szápár |  |
+|  |  | Zirc |  |
+| Zala |  |  |  |
+|  | Hévízi | Alsópáhok | Hévíz |
+|  |  | Cserszegtomaj |  |
+|  |  | Felsőpáhok |  |
+|  |  | Hévíz |  |
+|  |  | Nemesbük |  |
+|  |  | Rezi |  |
+|  |  | Sármellék |  |
+|  |  | Zalaköveskút |  |
+|  | Keszthelyi | Balatongyörök | Keszthely |
+|  |  | Bókaháza |  |
+|  |  | Esztergályhorváti |  |
+|  |  | Gétye |  |
+|  |  | Gyenesdiás |  |
+|  |  | Karmacs |  |
+|  |  | Keszthely |  |
+|  |  | Szentgyörgyvár |  |
+|  |  | Vállus |  |
+|  |  | Várvölgy |  |
+|  |  | Vindornyafok |  |
+|  |  | Vindornyalak |  |
+|  |  | Vonyarcvashegy |  |
+|  |  | Zalaapáti |  |
+|  |  | Zalaszántó |  |
+|  |  | Zalavár |  |
+|  | Lenti | Alsószenterzsébet | Lenti |
+|  |  | Baglad |  |
+|  |  | Barlahida |  |
+|  |  | Belsősárd |  |
+|  |  | Bödeháza |  |
+|  |  | Csertalakos |  |
+|  |  | Csesztreg |  |
+|  |  | Csömödér |  |
+|  |  | Dobri |  |
+|  |  | Felsőszenterzsébet |  |
+|  |  | Gáborjánháza |  |
+|  |  | Gosztola |  |
+|  |  | Gutorfölde |  |
+|  |  | Hernyék |  |
+|  |  | Iklódbördőce |  |
+|  |  | Kálócfa |  |
+|  |  | Kányavár |  |
+|  |  | Kerkabarabás |  |
+|  |  | Kerkafalva |  |
+|  |  | Kerkakutas |  |
+|  |  | Kerkateskánd |  |
+|  |  | Kissziget |  |
+|  |  | Kozmadombja |  |
+|  |  | Külsősárd |  |
+|  |  | Lendvadedes |  |
+|  |  | Lendvajakabfa |  |
+|  |  | Lenti |  |
+|  |  | Lovászi |  |
+|  |  | Magyarföld |  |
+|  |  | Márokföld |  |
+|  |  | Mikekarácsonyfa |  |
+|  |  | Nemesnép |  |
+|  |  | Nova |  |
+|  |  | Ortaháza |  |
+|  |  | Páka |  |
+|  |  | Pórszombat |  |
+|  |  | Pördefölde |  |
+|  |  | Pusztaapáti |  |
+|  |  | Ramocsa |  |
+|  |  | Rédics |  |
+|  |  | Resznek |  |
+|  |  | Szécsisziget |  |
+|  |  | Szentgyörgyvölgy |  |
+|  |  | Szentpéterfölde |  |
+|  |  | Szijártóháza |  |
+|  |  | Szilvágy |  |
+|  |  | Tormafölde |  |
+|  |  | Tornyiszentmiklós |  |
+|  |  | Zalabaksa |  |
+|  |  | Zalaszombatfa |  |
+|  |  | Zebecke |  |
+|  | Letenyei | Bánokszentgyörgy | Letenye |
+|  |  | Bázakerettye |  |
+|  |  | Becsehely |  |
+|  |  | Borsfa |  |
+|  |  | Bucsuta |  |
+|  |  | Csörnyeföld |  |
+|  |  | Kerkaszentkirály |  |
+|  |  | Kiscsehi |  |
+|  |  | Kistolmács |  |
+|  |  | Lasztonya |  |
+|  |  | Letenye |  |
+|  |  | Lispeszentadorján |  |
+|  |  | Maróc |  |
+|  |  | Molnári |  |
+|  |  | Murarátka |  |
+|  |  | Muraszemenye |  |
+|  |  | Oltárc |  |
+|  |  | Petrivente |  |
+|  |  | Pusztamagyaród |  |
+|  |  | Semjénháza |  |
+|  |  | Szentliszló |  |
+|  |  | Szentmargitfalva |  |
+|  |  | Tótszentmárton |  |
+|  |  | Tótszerdahely |  |
+|  |  | Valkonya |  |
+|  |  | Várfölde |  |
+|  |  | Zajk |  |
+|  | Nagykanizsai | Belezna | Nagykanizsa |
+|  |  | Bocska |  |
+|  |  | Börzönce |  |
+|  |  | Csapi |  |
+|  |  | Eszteregnye |  |
+|  |  | Fityeház |  |
+|  |  | Fűzvölgy |  |
+|  |  | Gelsesziget |  |
+|  |  | Hahót |  |
+|  |  | Homokkomárom |  |
+|  |  | Hosszúvölgy |  |
+|  |  | Kacorlak |  |
+|  |  | Liszó |  |
+|  |  | Magyarszentmiklós |  |
+|  |  | Magyarszerdahely |  |
+|  |  | Murakeresztúr |  |
+|  |  | Nagybakónak |  |
+|  |  | Nagykanizsa |  |
+|  |  | Nagyrécse |  |
+|  |  | Nemespátró |  |
+|  |  | Pölöskefő |  |
+|  |  | Rigyác |  |
+|  |  | Sormás |  |
+|  |  | Surd |  |
+|  |  | Szepetnek |  |
+|  |  | Újudvar |  |
+|  |  | Zalaszentbalázs |  |
+|  | Pacsai | Alsórajk | Pacsa |
+|  |  | Bezeréd |  |
+|  |  | Búcsúszentlászló |  |
+|  |  | Dióskál |  |
+|  |  | Egeraracsa |  |
+|  |  | Felsőrajk |  |
+|  |  | Misefa |  |
+|  |  | Nagykapornak |  |
+|  |  | Nemesrádó |  |
+|  |  | Nemessándorháza |  |
+|  |  | Nemesszentandrás |  |
+|  |  | Orbányosfa |  |
+|  |  | Pacsa |  |
+|  |  | Padár |  |
+|  |  | Pölöske |  |
+|  |  | Pötréte |  |
+|  |  | Szentpéterúr |  |
+|  |  | Zalaigrice |  |
+|  |  | Zalaszentmárton |  |
+|  |  | Zalaszentmihály |  |
+|  | Zalaegerszegi | Alibánfa | Zalaegerszeg |
+|  |  | Alsónemesapáti |  |
+|  |  | Babosdöbréte |  |
+|  |  | Bagod |  |
+|  |  | Bak |  |
+|  |  | Baktüttös |  |
+|  |  | Becsvölgye |  |
+|  |  | Bocfölde |  |
+|  |  | Boncodfölde |  |
+|  |  | Böde |  |
+|  |  | Csatár |  |
+|  |  | Csonkahegyhát |  |
+|  |  | Csöde |  |
+|  |  | Dobronhegy |  |
+|  |  | Egervár |  |
+|  |  | Gellénháza |  |
+|  |  | Gombosszeg |  |
+|  |  | Gősfa |  |
+|  |  | Gyűrűs |  |
+|  |  | Hagyárosbörönd |  |
+|  |  | Hottó |  |
+|  |  | Iborfia |  |
+|  |  | Kávás |  |
+|  |  | Kemendollár |  |
+|  |  | Keménfa |  |
+|  |  | Kisbucsa |  |
+|  |  | Kiskutas |  |
+|  |  | Kispáli |  |
+|  |  | Kustánszeg |  |
+|  |  | Lakhegy |  |
+|  |  | Lickóvadamos |  |
+|  |  | Milejszeg |  |
+|  |  | Nagykutas |  |
+|  |  | Nagylengyel |  |
+|  |  | Nagypáli |  |
+|  |  | Nemesapáti |  |
+|  |  | Nemeshetés |  |
+|  |  | Németfalu |  |
+|  |  | Ormándlak |  |
+|  |  | Ozmánbük |  |
+|  |  | Pálfiszeg |  |
+|  |  | Pethőhenye |  |
+|  |  | Petrikeresztúr |  |
+|  |  | Pókaszepetk |  |
+|  |  | Pusztaederics |  |
+|  |  | Pusztaszentlászló |  |
+|  |  | Salomvár |  |
+|  |  | Sárhida |  |
+|  |  | Söjtör |  |
+|  |  | Szentkozmadombja |  |
+|  |  | Teskánd |  |
+|  |  | Tófej |  |
+|  |  | Vasboldogasszony |  |
+|  |  | Vaspör |  |
+|  |  | Vöckönd |  |
+|  |  | Zalaboldogfa |  |
+|  |  | Zalacséb |  |
+|  |  | Zalaegerszeg |  |
+|  |  | Zalaháshágy |  |
+|  |  | Zalaistvánd |  |
+|  |  | Zalalövő |  |
+|  |  | Zalaszentgyörgy |  |
+|  |  | Zalaszentiván |  |
+|  |  | Zalaszentlőrinc |  |
+|  |  | Zalatárnok |  |
+|  | Zalakarosi | Balatonmagyaród | Zalakaros |
+|  |  | Galambok |  |
+|  |  | Garabonc |  |
+|  |  | Gelse |  |
+|  |  | Kerecseny |  |
+|  |  | Kilimán |  |
+|  |  | Kisrécse |  |
+|  |  | Miháld |  |
+|  |  | Nagyrada |  |
+|  |  | Orosztony |  |
+|  |  | Pat |  |
+|  |  | Sand |  |
+|  |  | Zalakaros |  |
+|  |  | Zalakomár |  |
+|  |  | Zalamerenye |  |
+|  |  | Zalasárszeg |  |
+|  |  | Zalaszabar |  |
+|  |  | Zalaszentjakab |  |
+|  |  | Zalaújlak |  |
+|  | Zalaszentgróti | Almásháza | Zalaszentgrót |
+|  |  | Batyk |  |
+|  |  | Döbröce |  |
+|  |  | Dötk |  |
+|  |  | Kallósd |  |
+|  |  | Kehidakustány |  |
+|  |  | Kisgörbő |  |
+|  |  | Kisvásárhely |  |
+|  |  | Ligetfalva |  |
+|  |  | Mihályfa |  |
+|  |  | Nagygörbő |  |
+|  |  | Óhíd |  |
+|  |  | Pakod |  |
+|  |  | Sénye |  |
+|  |  | Sümegcsehi |  |
+|  |  | Szalapa |  |
+|  |  | Tilaj |  |
+|  |  | Türje |  |
+|  |  | Vindornyaszőlős |  |
+|  |  | Zalabér |  |
+|  |  | Zalacsány |  |
+|  |  | Zalaszentgrót |  |
+|  |  | Zalaszentlászló |  |
+|  |  | Zalavég |  |
