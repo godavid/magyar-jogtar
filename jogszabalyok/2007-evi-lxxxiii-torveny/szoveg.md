@@ -516,9 +516,9 @@ l) a kormányzati személyügyi igazgatási feladatokat ellátó szerv által le
 
 „a felmentési időtartam adatai”
 
-37. §
+37. § A Ktv. 5. számú melléklete helyébe e törvény 1. melléklete lép.
 
-38. §
+38. § A Ktv. kiegészül e törvény 2. mellékletében foglalt 7. számú melléklettel.
 
 39. § (1) Ez a törvény – a (2)–(5) bekezdésben foglalt kivétellel – a kihirdetését követő 15. napon lép hatályba.
 
@@ -530,15 +530,15 @@ l) a kormányzati személyügyi igazgatási feladatokat ellátó szerv által le
 
 (5) E törvény 10. §-a és 16. §-a 2009. január 1-jén lép hatályba. A Ktv. e törvény 7. §-ával megállapított 10. § (8) bekezdése, valamint e törvény 14. §-a és 28. §-a 2011. január 1-jén lép hatályba.
 
-40. § (1)
+40. § (1) E törvény 8–9. §-át a minisztérium, a Miniszterelnöki Hivatal vezetőire és a kormányhivatal vezetőjére 2008. január 1-jétől, a központi hivatal és kormányhivatal vezetőire 2008. július 1-jétől, a központi államigazgatási szervek területi szerveinek vezetőire, helyi szerveit vezetőkre, a Kormány általános hatáskörű területi államigazgatási szerveinek és a helyi önkormányzatok törvényességi ellenőrzésére hatáskörrel rendelkező szerveknek a vezetőire 2009. július 1-jétől kell alkalmazni.
 
 (2) E törvény 7. §-ával módosított Ktv. 10. § (11) bekezdését és a 16. §-át 2009. július 1-jétől kell alkalmazni.
 
-(3)
+(3) Versenyvizsga 2009. január 1-jétől szervezhető. E törvény 10. §-ában foglalt Ktv. 10/C. § (1) bekezdését a központi államigazgatási szervek vezetőire, a központi államigazgatási szervek területi szerveinek vezetőire, helyi szerveit vezetőkre, valamint a közigazgatási hivatalok vezetőire 2009. július 1-jétől, a köztisztviselőkre 2009. december 1-jétől kell alkalmazni.
 
-41. §
+41. § E törvény 5. §-ának (1) bekezdését a központi államigazgatási szervek vezetőire, a központi államigazgatási szervek területi szerveinek vezetőire, helyi szerveit vezetőkre, valamint a közigazgatási hivatalok vezetőire 2009. július 1-jétől, a köztisztviselőkre 2009. december 1-jétől kell alkalmazni.
 
-42. §
+42. § A törvény hatálybalépésekor közszolgálati jogviszonyban állóknál a jogviszony fenntartásához nem feltétel a közigazgatási versenyvizsga.
 
 43. § Az a köztisztviselő, akinek a közszolgálati jogviszonya e törvény hatálybalépése előtt keletkezett és közigazgatási alapvizsgára kötelezett, de ezen kötelezettségének e törvény hatálybalépéséig nem tett eleget, 2009. december 31-éig alapvizsgát köteles tenni, kivéve ha 2009. december 31-éig az alapvizsga alól a Ktv. e törvény hatálybalépésekor hatályos szabályai szerint mentesül. Az alapvizsga költségeit a munkáltató viseli. Ha a köztisztviselő az alapvizsgát az előírt határidőig nem teljesíti, vagy az alól nem mentesül, közszolgálati jogviszonya megszűnik. A közigazgatási alapvizsga letételére előírt határidőbe nem számít be a 30 napot meghaladó fizetés nélküli szabadság, valamint a keresőképtelenség, továbbá a 30 napot meghaladó hivatalos kiküldetés időtartama.
 
@@ -546,19 +546,25 @@ l) a kormányzati személyügyi igazgatási feladatokat ellátó szerv által le
 
 45. § (1) E törvény hatálybalépését követő 15 napon belül a korábban főtisztviselői kinevezéssel rendelkező köztisztviselőt beosztásának megfelelően be kell sorolni, illetményét meg kell állapítani azzal, hogy az illetménye – ide nem értve a Ktv. 43. § (4) bekezdés alkalmazását – nem lehet kevesebb, mint a törvény hatálybalépését megelőzően számára megállapított főtisztviselői illetménye. Ha a főtisztviselő alapilletményét a kinevezésre, illetve munkáltatói jogkör gyakorlására jogosult vezető szakmai munkája értékelése alapján eltérítette (legfeljebb 30%-kal), akkor e munkáltatói intézkedés 2007. december 31-ével hatályát veszti, azonban a munkáltatói jogkör gyakorlója ismételten intézkedhet az eltérítésről a Ktv. 43. § (4) bekezdésében foglaltak szerint azzal, hogy az eltérítés alapjául szolgáló alapilletményen a főtisztviselői alapilletményt (illetményalap tizenháromszorosa) kell érteni.
 
-(2)
+(2) A rendelkezési állományban lévő főtisztviselő közszolgálati jogviszonya e törvény hatálybalépésével megszűnik, a főtisztviselő részére hat havi főtisztviselői alapilletményét és a törvény alapján – a főtisztviselői alapilletménye alapulvételével – járó végkielégítését kell kifizetni.
 
-46. §
+46. § (1) A 13. §-ban meghatározott rendelkezést a törvény hatálybalépését követően közölt felmentésekre kell alkalmazni.
 
-47. §
+(2) E törvény 24. §-ával megállapított 49/N. § (4) bekezdésében foglaltakat csak e törvény hatálybalépését követően alapított elismerésekre kell alkalmazni.
+
+47. § (1) E törvény hatálybalépésével a központi államigazgatási szerveket, valamint területi és helyi szerveiket vezetőknek, továbbá a minisztériumi és a miniszterelnöki hivatalbeli főosztályvezetőknek a vezetői kinevezése, megbízása – hozzájárulásuk esetén – határozott idejű vezetői kinevezéssé, megbízássá alakul át – a (2) bekezdésben foglalt kivétellel – a törvény hatálybalépését követő 30. napon. A Ktv. 31. § (10) bekezdése szerinti hat éves megbízást e törvény hatálybalépését követő 30. naptól kell számítani. A vezetői megbízás átalakításához történő hozzájárulás hiányában a vezetői megbízást vissza kell vonni, és a Ktv. 31. § (8) és (9) bekezdését kell alkalmazni azzal az eltéréssel, hogy a köztisztviselői munkakör felajánlásával egyidejűleg szakmai főtanácsadói címet – a Miniszterelnöki Hivatal esetében kormány-főtanácsadói címet – is fel kell ajánlani számára. Ez esetben a szakmai főtanácsadói cím adományozásakor a Ktv. 30/A. § (1) bekezdésében meghatározott létszámkorlátot nem kell figyelembe venni.
+
+(2) A törvény hatálybalépését követő 30 napon belül a hivatali szervezet vezetője visszavonhatja az (1) bekezdésben meghatározott vezetők megbízását, kinevezését és pályázatot írhat ki a vezetői megbízásra, illetve kinevezésre. A vezetői megbízás, kinevezés visszavonása esetén az (1) bekezdésben meghatározottakat kell alkalmazni.
 
 48. § A kormányzati szervezetalakítással összefüggő törvénymódosításokról szóló 2006. évi CIX. törvény 174. §-ának (5) bekezdése helyébe a következő rendelkezés lép:
 
 „(5) Az állami vezetői szolgálati jogviszonyának vagy állami vezetői jogviszonyának létesítését közvetlenül megelőzően közszolgálati jogviszonnyal rendelkező államtitkár és szakállamtitkár részére az állami vezetői szolgálati jogviszonyának megszűnését követően, ha azt harminc napon belül írásban kéri, annál a szervnél (jogutód szervénél), amelynél állami vezetői szolgálati jogviszonya fennállt, vezetői megbízással járó, ennek hiányában más megfelelő köztisztviselői munkakört és szakmai főtanácsadói címet – Miniszterelnöki Hivatal esetében kormány-főtanácsadói címet – kell felajánlani. Ez esetben a szakmai főtanácsadói cím adományozásakor a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 30/A. § (1) bekezdésében meghatározott létszámkorlátot nem kell figyelembe venni.”
 
-49. §
+49. § E törvény hatálybalépésével egyidejűleg a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 25. §-ának (8) és (10) bekezdésében a „közigazgatási alapvizsgát” szövegrész helyébe a „közigazgatási versenyvizsgát” szövegrész, a 44/A. § (1) bekezdésének a) pontjában a „30%-a” szövegrész helyébe a „40%-a” szövegrész, a b) pontjában a „10%-a” szövegrész helyébe a „20%-a” szövegrész, a c) pontjában a „20%-a” szövegrész helyébe a „30%-a” szövegrész, a 44/A. §-ának (2) bekezdésében a „10%” szövegrész helyébe a „20%” szövegrész lép.
 
-50. §
+50. § (1) E törvény hatálybalépésével egyidejűleg a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 17. § (2) bekezdésének d) pontja, 22/A. § (8) bekezdésének b) pontja, 25. §-ának (3)–(6) bekezdése, 29. §-ának (2) bekezdése, 31/A–31/F. §-a, 46. § (1) bekezdésének b) pontja, 62. § (5) bekezdésének c) pontja, 63. § (2) bekezdésének c) pontja, 80. § (1) bekezdésének h) pontja, 3. számú mellékletének X. pontja, 4. számú melléklet VIII. pontja, valamint a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 71. § (2) bekezdésének a) pontja hatályát veszti.
+
+(2) E törvény hatálybalépésével egyidejűleg hatályát veszti a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 7. §-ának (7) bekezdésében a „főtisztviselői” szövegrész, 14. §-ának (3) bekezdésében a „– a szabadság kivételével –” szövegrész, 22/A. §-ának (10) bekezdésében a „főtisztviselői” szövegrész, 31/A. §-át megelőző „A kiemelt főtisztviselői kar” alcím, 46. § (1) bekezdésének felvezető szövegében az „illetve a közigazgatási hivatalvezetőjénél és helyettesénél” szövegrész, 46. § (1) bekezdésének c) pontjában az „a közigazgatási hivatal hivatalvezető helyettes” szövegrész, 61. §-ának (4) bekezdésében a „és a 63. § (4) bekezdésében” szövegrész, 62. §-ának (7) bekezdésében a „és a 31/A–31/F. §-ban” szövegrész, 71. §-ának (3) bekezdésében a „főtisztviselőnél a főtisztviselői alapilletményt és a főtisztviselői illetménypótlékot”, 4. számú mellékletének II. pontjában a „a főtisztviselő neve” szövegrész.
 
 51. § A prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény 1. §-a a következő új (3) bekezdéssel egészül ki:
 
@@ -584,7 +590,7 @@ l) a kormányzati személyügyi igazgatási feladatokat ellátó szerv által le
 
 „(3) A Miniszterelnöki Hivatalban működő államtitkár közreműködik az összkormányzati érdekek érvényesítésében, valamint ellátja a Miniszterelnöki Hivatalt vezető miniszter, illetve a tárca nélküli miniszter feladat- és hatásköréről szóló kormányrendeletben meghatározott feladatokat.”
 
-56. §
+56. § E törvény hatálybalépésével egyidejűleg a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 31. §-ának (1) bekezdésében a „(2)–(3) bekezdésben” szövegrész helyébe a „(2)–(4) bekezdésben” szövegrész, 69. §-ának (2) bekezdésében az „a miniszter hatáskörébe” szövegrész helyébe „a miniszter, illetve a 29. § (4) bekezdésében meghatározott esetben a tárca nélküli miniszter hatáskörébe” szövegrész, 76. §-ának (3) bekezdésében az „a minisztert helyettesítő” szövegrész helyébe az „a miniszter hatáskörét gyakorló” szövegrész és az „a kormánybiztost” szövegrész helyébe az „a tárca nélküli minisztert és a kormánybiztost” szövegrész lép.
 
 ### 1. melléklet a 2007. évi LXXXIII. törvényhez
 
