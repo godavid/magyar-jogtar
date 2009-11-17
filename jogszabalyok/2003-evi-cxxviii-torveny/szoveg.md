@@ -2,9 +2,7 @@
 
 a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről
 
-Az Európai Unió egészére kiterjedő közös közlekedési stratégia megvalósításában kiemelt szerepet kapott a Transz-európai Közlekedési Hálózat. Az Európai Unióhoz való csatlakozás gazdasági-társadalmi követelményként állítja hazánk elé az egységes európai közlekedési hálózathoz való kapcsolódásunkat, a hazai közúthálózatnak a hazánkat érintő pán-európai folyosók mentén történő fejlesztését. A hálózatok kiépítése, nyomvonalvezetése és működtetése a gazdaságpolitikai és területfejlesztési elképzelések megvalósításának eszköze.
-
-A Transz-európai hálózatokhoz megfelelő színvonalon kapcsolódni képes közlekedési hálózatnak a lehető legrövidebb időn belüli kiépítése, az országhatárokon is átnyúló regionális együttműködés fejlesztése, a szomszédos országokkal való kapcsolatok elősegítése, a regionális fejlettségbeli különbségek csökkentése, a hátrányos helyzetű térségek elérhetőségének javítása, a kiegyensúlyozottabb térségi fejlődés elősegítése, valamint a belső gazdasági és társadalmi kohézió erősítése érdekében az Országgyűlés a következő törvényt alkotja:
+Az Európai Unió egészére kiterjedő közös közlekedési stratégia megvalósításában kiemelt szerepet kapott a Transz-európai Közlekedési Hálózat. Az Európai Unióhoz való csatlakozás gazdasági-társadalmi követelményként állítja hazánk elé az egységes európai közlekedési hálózathoz való kapcsolódásunkat, a hazai közúthálózatnak a hazánkat érintő pán-európai folyosók mentén történő fejlesztését. A hálózatok kiépítése, nyomvonalvezetése és működtetése a gazdaságpolitikai és területfejlesztési elképzelések megvalósításának eszköze.A Transz-európai hálózatokhoz megfelelő színvonalon kapcsolódni képes közlekedési hálózatnak a lehető legrövidebb időn belüli kiépítése, az országhatárokon is átnyúló regionális együttműködés fejlesztése, a szomszédos országokkal való kapcsolatok elősegítése, a regionális fejlettségbeli különbségek csökkentése, a hátrányos helyzetű térségek elérhetőségének javítása, a kiegyensúlyozottabb térségi fejlődés elősegítése, valamint a belső gazdasági és társadalmi kohézió erősítése érdekében az Országgyűlés a következő törvényt alkotja:
 
 ### I. Fejezet — Bevezető rendelkezések
 
@@ -12,19 +10,14 @@ A Transz-európai hálózatokhoz megfelelő színvonalon kapcsolódni képes kö
 
 (2) A gyorsforgalmi úthálózat fejlesztésében közreműködő egyes szervek és személyek feladataikat az általános szabályok szerint, de az e törvényben foglalt eltérésekkel kötelesek ellátni.
 
-(3)
+(3) A gyorsforgalmi úthálózat fejlesztésével összefüggő
 
-2. § E törvény rendelkezéseit
+- a)
+- b) határozat bírósági felülvizsgálatára – ha e törvény eltérően nem rendelkezik – a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó
 
-- a) az 1. számú melléklet szerinti autópályák és autóutak, valamint azok csomóponti elemei (a továbbiakban együtt: gyorsforgalmi utak),
-- b) a gyorsforgalmi utakkal egy beruházásban megvalósuló közutak,
-- c) a gyorsforgalmi utak csomóponti elemeihez közvetlenül csatlakozó bekötő- és elkerülő utak, továbbá
-- d) a gyorsforgalmivá fejleszthető országos főutak tervezésével, előkészítésével és megvalósításával kapcsolatos feladatokra, valamint tevékenységekre kell alkalmazni.
+rendelkezéseit kell alkalmazni.
 
-2/A. § E törvény alkalmazásában:
-
-- 1. hosszú távú úttípus: a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 11/B. § (1) bekezdése szerinti Fejlesztési Programban meghatározott úttípus,
-- 2. nagytávú úttípus: a Kkt. 11/A. § (1) bekezdése szerinti nagytávú tervben meghatározott úttípus.
+2. § (1) E törvény rendelkezéseit az e törvény melléklete szerinti autópályák, autóutak és azok csomóponti elemei, valamint a gyorsforgalmivá fejleszthető országos főutak (a továbbiakban együtt: gyorsforgalmi utak) tervezésével, előkészítésével és megvalósításával kapcsolatos feladatokra, valamint tevékenységekre kell alkalmazni.
 
 ### II. Fejezet — Általános szabályok
 
@@ -32,7 +25,7 @@ A Transz-európai hálózatokhoz megfelelő színvonalon kapcsolódni képes kö
 
 (2) A költségvetési évre jóváhagyott források igénybe nem vett része lekötött maradványként a következő költségvetési években is igénybe vehető.
 
-(3)
+(3) A Kormány – a miniszter és az államháztartásért felelős miniszter útján – évente, az Országgyűlés őszi ülésszakának első hónapjában beszámol az Országgyűlés illetékes bizottságainak a gyorsforgalmi úthálózat építésének előrehaladásáról, valamint a költségvetési források és egyéb támogatási eszközök felhasználásáról.
 
 (4)
 
@@ -68,24 +61,19 @@ A Transz-európai hálózatokhoz megfelelő színvonalon kapcsolódni képes kö
 
 (3) A (2) bekezdésben megjelölt tanulmány és dokumentáció előkészítése során a tervező a környezetvédelmi hatósággal és érintett helyi önkormányzatokkal kapcsolatot tart.
 
-(4) A 9. § (1) bekezdése szerinti környezetvédelmi hatóság az előzetes vizsgálati eljárásban a nyilvánosság véleményének megismerése érdekében közmeghallgatást tart. A környezetvédelmi hatóság a közmeghallgatást az érintettek személyes megjelenése nélkül,
+(4) A 9. § (1) bekezdés szerinti környezetvédelmi hatóság az előzetes vizsgálati eljárásban a nyilvánosság véleményének megismerése érdekében közmeghallgatást tart.
 
-- a) lehetőség szerint a különböző helyszínen jelen lévők között, egy időben, valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz útján, illetve
-- b) honlapon való közzététel útján
+(5) A kiemelt közérdekre és a környezetvédelmi prioritásokra tekintettel a környezet és termőföld, valamint a primer ásványvagyon védelme kiemelt hangsúlyt kell, hogy kapjon a tervezés, engedélyezés és a megvalósítás valamennyi fázisában. Ennek érdekében a másodlagos nyersanyagok – elsősorban a pernye, kohászati salak, bányameddők, építési és bontási hulladékok – felhasználása a közbeszerzési eljárásoknál az erre vonatkozó előzetes szakértői vizsgálatok figyelembevételével, továbbá a hasznosításban érintettek (a felhasználandó anyagok tulajdonosai és az út építtetője) gazdasági együttműködése esetén írható elő.
 
-is megtarthatja. A közmeghallgatás időpontját megelőzően lehetőséget kell biztosítani arra, hogy az érintettek írásban is észrevételeket tehessenek és kérdéseket tehessenek fel. Az elhangzott, illetve az írásban megfogalmazott javaslatra, kérdésre a közmeghallgatáson vagy legkésőbb tizenöt napon belül választ kell adni. A hatóság a közmeghallgatás eredményessége érdekében minden alkalmas eszközt – így különösen helyi műsorszóró szolgáltatást, hirdetményi vagy közösségi felületeket – is igénybe vehet.
+6. § (1) A gyorsforgalmi útnak a vizsgálati dokumentáció és a területrendezési tervtanulmány alapján 1:10 000 méretarányú helyszínrajzon elfogadott és a gyorsforgalmi út számára legfeljebb két változatban kijelölt 500 méter szélességű területsávját (a továbbiakban: nyomvonal), a környezetvédelmi hatóságnak az előzetes környezetvédelmi eljárás során hozott határozatának közlésétől számított 60 napon belül a Kormány rendeletben állapítja meg.
 
-(5) A kiemelt közérdekre és a környezetvédelmi prioritásokra tekintettel a környezet és mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású föld (a továbbiakban: föld), valamint a primer ásványvagyon védelme kiemelt hangsúlyt kell, hogy kapjon a tervezés, engedélyezés és a megvalósítás valamennyi fázisában. Ennek érdekében a másodlagos nyersanyagok – elsősorban a pernye, kohászati salak, bányameddők, építési és bontási hulladékok – felhasználása a közbeszerzési eljárásoknál az erre vonatkozó előzetes szakértői vizsgálatok figyelembevételével, továbbá a hasznosításban érintettek (a felhasználandó anyagok tulajdonosai és az út építtetője) gazdasági együttműködése esetén írható elő.
-
-6. § (1) A gyorsforgalmi útnak a vizsgálati dokumentáció és a területrendezési tervtanulmány alapján 1:10 000 méretarányú helyszínrajzon elfogadott és a gyorsforgalmi út számára legfeljebb két változatban kijelölt 500 méter szélességű területsávját (a továbbiakban: nyomvonal) a környezetvédelmi hatóságnak a környezetvédelmi eljárás során hozott határozatának véglegessé válását követően a Kormány rendeletben állapíthatja meg..
-
-(2) Az (1) bekezdés szerinti rendelet hatálybalépésétől az államot – föld esetében a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti más jogosultakat megelőzően – elővásárlási jog illeti meg az (1) bekezdés szerinti rendelettel meghatározott nyomvonalon található földrészlet tekintetében. Az elővásárlási jogot az állam nevében az építtető gyakorolja. A megvásárolt földrészlet és a gyorsforgalmi út létesítése érdekében kisajátítással megszerzett földrészlet az állam tulajdonába kerül. Az állam javára adás-vétel vagy kisajátítás útján gyorsforgalmi út létesítése céljából megszerzett ingatlanok vagyonkezelői jogának ingatlan-nyilvántartási bejegyzése és annak az ingatlan-nyilvántartásból való törlése után igazgatási szolgáltatási díjat nem kell fizetni.
+(2) Az (1) bekezdésben megjelölt rendelet kihirdetésétől a Magyar Államot – termőföld esetében a termőföldről szóló 1994. évi LV. törvényben megjelölt más jogosultakat megelőzően – elővásárlási jog illeti meg a rendelettel meghatározott nyomvonalon található földrészlet tekintetében. Az elővásárlási jogot a Magyar Állam nevében az építtető gyakorolja. A megvásárolt földrészlet és a gyorsforgalmi út létesítése érdekében kisajátítással megszerzett földrészlet az állam tulajdonába kerül. Ezen földrészletek vagyonkezelői jogát az MNV Zrt. a gyorsforgalmi út építése céljából – kizárólag az építés időszakára, az elkészült gyorsforgalmi út ideiglenes vagy végleges forgalomba helyezéséig – ellenérték nélkül az építtetőnek adja át. A Magyar Állam javára adás-vétel vagy kisajátítás útján gyorsforgalmi út létesítése céljából megszerzett ingatlanok vagyonkezelői jogának ingatlan-nyilvántartási bejegyzése és annak az ingatlannyilvántartásból való törlése után igazgatási szolgáltatási díjat nem kell fizetni.
 
 (3) Amennyiben az (1) bekezdésben megjelölt rendeletben két változat szerepel és a kihirdetett nyomvonalak egyikére a környezetvédelmi hatóság [9. § (1) bekezdés] a környezeti hatásvizsgálati eljárás alapján a környezetvédelmi engedélyt megadja, a Kormány – az (1) bekezdésben meghatározottaknak megfelelően – a rendeletet a környezetvédelmi engedélyben meghatározott nyomvonal alapján módosítja.
 
 (4) Amennyiben az (1) bekezdésben megjelölt rendeletben kihirdetett nyomvonal(ak)ra a környezetvédelmi hatóság [9. § (1) bekezdés] a környezeti hatásvizsgálati eljárás alapján a környezetvédelmi engedélyt nem adja ki, a rendelet módosításával vagy a rendelet hatályon kívül helyezésével és új rendelettel a Kormány – az (1) bekezdésben meghatározottak alapján – új nyomvonalat jelöl ki.
 
-7. § (1) A gyorsforgalmi útnak a 6. § (3)–(4) bekezdésében említett rendelettel meghatározott nyomvonalon történő megépítéséhez szükséges területet – ha a Magyar Állam a 6. § (2) bekezdésében meghatározott elővásárlási jogát nem gyakorolta – adásvétel útján, illetve csereingatlan biztosításával (ideértve a Nemzeti Földalapról szóló törvény szerinti csereingatlant is) kell megszerezni.
+7. § (1) A gyorsforgalmi útnak a 6. § (3)–(4) bekezdésében említett rendelettel meghatározott nyomvonalon történő megépítéséhez szükséges területet – ha a Magyar Állam a 6. § (2) bekezdésében meghatározott elővásárlási jogát nem gyakorolta – adásvétel útján, illetve csereingatlan biztosításával (ideértve a Nemzeti Földalapról szóló 2001. évi CXVI. törvény szerinti csereingatlant is) kell megszerezni.
 
 (2) Ha a terület a 6. § (2) bekezdésében, illetve az (1) bekezdésben foglaltak szerint nem szerezhető meg, azt ki kell sajátítani. A kisajátítási eljárást az építtető kérelmére kell lefolytatni.
 
@@ -95,13 +83,13 @@ is megtarthatja. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 (5)
 
-#### 8. §
+8. §
 
 ### III. Fejezet — A hatósági eljárás egyes szabályai
 
-9. § (1) A gyorsforgalmi út építése során a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) szerinti környezeti hatásvizsgálati eljárásokban a környezetvédelmi hatóságnak a Kormány által rendeletben kijelölt országos illetékességű szerve (a továbbiakban: környezetvédelmi hatóság) rendelkezik hatáskörrel és illetékességgel.
+9. § (1) A gyorsforgalmi út építése során a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) szerinti előzetes vizsgálati és környezeti hatásvizsgálati eljárásokban első fokon a környezetvédelmi hatóságnak a Kormány által rendeletben kijelölt országos illetékességű szerve (a továbbiakban: környezetvédelmi hatóság) rendelkezik hatáskörrel és illetékességgel.
 
-(2) A környezetvédelmi hatóság az (1) bekezdés szerinti eljárásokban köteles a Kormány által rendeletben kijelölt, országos illetékességgel eljáró szerv (a továbbiakban: közlekedési hatóság) véleményét kikérni.
+(2) A környezetvédelmi hatóság az (1) bekezdés szerinti eljárásokban köteles a Kormány által rendeletben kijelölt, országos illetékességgel eljáró szerv (a továbbiakban: közlekedési hatóság) véleményét beszerezni.
 
 (3) A környezetvédelmi hatóság a közmeghallgatást a közlekedési hatóság és az építtető bevonásával teljesíti.
 
@@ -125,48 +113,53 @@ is megtarthatja. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 (3)
 
-13. § Az ingatlanügyi hatóság a gyorsforgalmi út tervezéséhez, a terület igénybevételéhez szükséges ingatlan-nyilvántartási adatokat, a tulajdoni lap másolatát és az ingatlan-nyilvántartási térkép másolatát a kérelmező részére tizenöt napon belül adja ki.
+13. § Az ingatlanügyi hatóság a gyorsforgalmi út tervezéséhez, a terület igénybevételéhez szükséges ingatlan-nyilvántartási adatokat, a tulajdoni lap másolatát és az ingatlan-nyilvántartási térkép másolatát a kérelmező részére 10 munkanapon belül adja ki.
 
-#### 14. §
+14. § A gyorsforgalmi úthálózat fejlesztésére indított környezetvédelmi és építési engedélyezési eljárás ügyintézési határidejét az eljáró hatóságok vezetője nem hosszabbíthatja meg.
 
-15. § A környezetvédelmi és az építési engedélyezési eljárás során meghozott határozat elleni közigazgatási perben – ha a tárgyalás tartását valamely fél kérte – a tárgyalást a keresetlevél bírósághoz érkezésétől számított negyvenötödik napra kell kitűzni. Ha az első tárgyaláson egyik fél sem jelenik meg – és a tárgyalás távollétükben való megtartását egyik fél sem kérte – az eljárást meg kell szüntetni.
+15. § A környezetvédelmi és az építési engedélyezési eljárás során meghozott határozat bírósági felülvizsgálatára a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy
 
-16. § (1) A 15. §-ban foglaltakat megfelelően alkalmazni kell a gyorsforgalmi út forgalomba helyezését engedélyező határozat elleni közigazgatási perben is.
+- a) a bíróság az államigazgatási határozat végrehajtását csak a közérdekre vagy az ügyfél nyomós érdekére tekintettel függesztheti fel;
+- b) a bíróságnak az iratoknak a bírósághoz való érkezését követő 45 napon belül tárgyalást kell tartania;
+- c) az első tárgyalás megtartásának nem akadálya az, ha a felperes vagy az alperes nem jelenik meg. Ha azonban az első tárgyaláson egyik fél sem jelenik meg – és a tárgyalás távollétükben való megtartását egyik fél sem kérte – az eljárást meg kell szüntetni.
 
-(2) A szakhatóságok, a közművek üzembentartói és az utak kezelői a helyszín közlekedési hatósággal együttes megtekintése után azonnal, de legkésőbb nyolc napon belül nyilatkoznak arról a közlekedési hatóságnak, hogy a forgalomba helyezési engedély megadásának feltételei fennállnak. Ha a közművek üzembentartói és az utak kezelői nem nyilatkoznak, a hozzájárulásukat, illetve beleegyezésüket megadottnak kell tekinteni.
+16. § (1) A 15. §-ban foglaltakat megfelelően alkalmazni kell a gyorsforgalmi út forgalomba helyezését engedélyező határozat bírósági felülvizsgálatára is.
 
-17. § (1) Az országos településrendezési és építési követelményekről szóló kormányrendeletben megjelölt gazdasági terület kivételével nem nyilvánítható beépítésre szánt területté
+(2) A szakhatóságok, a közművek üzembentartói és az utak kezelői a közlekedési hatóság által kitűzött helyszíni szemlén vagy az azt követő öt munkanapon belül nyilatkoznak arról, hogy a forgalomba helyezési engedély megadásának feltételei fennállnak. Ha a közművek üzembentartói és az utak kezelői nem nyilatkoznak, a hozzájárulásukat, illetve beleegyezésüket megadottnak kell tekinteni.
 
-- a) az e törvény hatálya alá eső, építési engedéllyel rendelkező gyorsforgalmi út tengelyétől számított 100-100 méter vagy
-- b) a Kormány által, a megvalósítandó gyorsforgalmi út számára rendelettel megállapított nyomvonalat, a tervezett csomópontokat, valamint jellemző hossz- és keresztszelvényeket tartalmazó dokumentációval (a továbbiakban: jóváhagyott tanulmányterv) rendelkező gyorsforgalmi út tengelyétől számított 250-250 méter széles területsáv.
+17. § (1) A Kormány által, a megvalósítandó gyorsforgalmi út számára rendelettel megállapított nyomvonalat tartalmazó dokumentációval (jóváhagyott tanulmányterv) – amely tartalmazza a tervezett csomópontokat, valamint jellemző hossz- és keresztszelvényeket is – vagy az építési engedéllyel rendelkező külterületi gyorsforgalmi út tengelyétől számított 250-250 méter széles területsáv beépítésre szánt területté – a külön jogszabályban megjelölt gazdasági terület kivételével – nem nyilvánítható.
 
-(1a) Az (1) bekezdés b) pontja szerinti esetben a korlátozás a gyorsforgalmi út építésére kiadott építési engedély véglegessé válásával hatályát veszti.
+(2) A Kormány a 6. §-ban említett rendeletben – amennyiben a műszaki feltételek ezt lehetővé teszik – az (1) bekezdésben meghatározottnál keskenyebb területsávot is megállapíthat.
 
-(2) A Kormány a 6. §-ban említett rendeletben – amennyiben a műszaki feltételek ezt lehetővé teszik – az (1) bekezdésben meghatározottnál keskenyebb területsávot is megállapíthat. Ebben az esetben az (1) bekezdés szerinti korlátozás a rendeletben megállapított területsávra vonatkozik.
+(3) Az (1) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávon – a rendelet hatálybalépésétől számított négy éven belül – tilos a terepviszonyokat megváltoztató munkát végezni. Ez a tilalom a megjelölt időtartamon belül az ingatlan vagy egy része állami tulajdonként való birtokba vételéig áll fenn.
 
-(3)
+(4) Az (1) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávon – a rendelet hatálybalépésétől számított négy éven belül –
 
-(4)
+- a) más hatóság hatáskörébe tartozó építési vagy egyéb sajátos építményfajtákra vonatkozó jogerős engedély alapján végezhető tevékenység csak akkor kezdhető meg, illetve folytatható,
+- b) a földrészlet művelési ágát és minőségi osztályát csak akkor lehet megváltoztatni,
+
+ha azt előzetesen a közlekedési hatóság engedélyezte.
 
 (5) A gyorsforgalmi utak tervezés előkészítési szakaszában az 5. § (2) bekezdésében rögzített műszaki tanulmányterv kötelező tartalmi eleme a költség-haszon elemzés, amelynek során a nemzetgazdaság szempontjából legelőnyösebb változatot kell kiválasztani megfelelve a versenyképesség és a gazdaságosság alapelveinek, mint kiemelt közérdekű célnak.
 
-(6)
+(6) A (4) bekezdésben foglalt korlátozás a megjelölt időtartamon belül csak az (1) bekezdés szerinti területsávban levő ingatlannak állami tulajdonként való birtokbavételéig áll fenn.
 
-(7)
+(7) A (4) bekezdés szerinti engedélyt a közlekedési hatóság megadja, ha
 
-(7a)
+- a) a tevékenység bontási munka, vagy az állékonyságot, életet, egészséget, köz- és vagyonbiztonságot veszélyeztető károk megelőzését, illetve a károk elhárítását szolgálja, továbbá
+- b) a tevékenység értéknövekedést nem eredményez vagy eredményez ugyan, de a tulajdonos – kisajátítás vagy az autópálya építtetővel kötendő adásvételi szerződés esetén – lemond az ebből eredő értékveszteségnek a kártalanítás körében való megtérítéséről vagy a vételár részeként történő érvényesítéséről.
 
-(8)
+(8) A (3)–(4) bekezdés szerinti tilalom, illetve használati korlátozás nem terjed ki a nyomvonal megállapítását megelőzően jogerősen engedélyezett építési munkákra.
 
-(9)
+(9) A (3)–(4) bekezdés szerinti tilalommal, illetve használati korlátozással bekövetkező akadályoztatás (az ingatlannak gyorsforgalmi út céljára történő rendelkezésre tartása) miatt a tulajdonos (haszonélvező) javára az akadályoztatás (rendelkezésre tartás) időtartamára, jellegére, az akadályoztatást megelőző használathoz képest megállapítható mértékére figyelemmel egyszeri kártalanítást kell fizetni. Ha az ingatlan gyorsforgalmi út céljára történő megszerzése adásvétellel történik, a kártalanítás az építtető és a tulajdonos (haszonélvező) közötti megállapodás tárgya, azt a kisajátítás esetén pedig a kisajátítási kártalanítás összegének megállapítása során, a kisajátítással kapcsolatos esetleges értékveszteség körében kell figyelembe venni.
 
-(10)
+(10) A (9) bekezdés szerinti kártalanítást adásvételi szerződés vagy kisajátítási eljárás hiányában a tulajdonos kérelmére a Kormány általános hatáskörű területi államigazgatási szerve állapítja meg a gyorsforgalmi úthálózat fejlesztésére rendelkezésre álló keret terhére. A kártalanítás megállapítására vonatkozó eljárásra a kisajátítási eljárás szabályait kell alkalmazni.
 
-(11) Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 14. §-ában foglaltakra tekintettel, az (1) bekezdésben említett jóváhagyott tanulmánytervet az érintett települési önkormányzatoknak a – külön jogszabályban meghatározott – helyi építési szabályzataikban figyelembe kell venniük és amennyiben szükséges, azt a 18. §-ban említett kormányrendelet hatálybalépésétől számított hat hónapon belül a helyi építési szabályzatukban át kell vezetniük. Az ehhez szükséges pénzügyi fedezetet a magyar építészetről szóló 2023. évi C. törvény 22. § (3) és (4) bekezdésében foglaltak szerint a Kormány a gyorsforgalmi úthálózat fejlesztésére rendelkezésre álló keretből biztosítja az önkormányzatok számára.
+(11) Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 9. §-ában foglaltakra tekintettel, a miniszter kezdeményezésére, az (1) bekezdésben említett jóváhagyott tanulmánytervet az érintett települési önkormányzatoknak a – külön jogszabályban meghatározott – településrendezési eszközeikben figyelembe kell venniük és amennyiben szükséges, azt a 18. §-ban említett miniszteri rendelet hatálybalépésétől számított hat hónapon belül a települési rendezési tervükben, illetve a helyi építési szabályzatukban át kell vezetniük. Az ehhez szükséges pénzügyi fedezetet az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 6. §-ának (4) bekezdésében foglaltak szerint a Kormány a gyorsforgalmi úthálózat fejlesztésére rendelkezésre álló keretből [3. § (1) bekezdés] biztosítja az önkormányzatok számára.
 
 ### III/A. Fejezet — Cél-kitermelőhelyek létesítésének, üzemeltetésének, megszüntetésének és hatósági felügyeletének különös szabályai
 
-17/A. § (1) Az e törvény hatálya alá tartozó gyorsforgalmi utak földművei (töltései) megépítéséhez szükséges ásványi nyersanyag (a továbbiakban: töltésanyag) kitermelésére a 18. § (6) bekezdés b)–c) pontja alapján kiadott rendeletben vagy a végleges építési engedélyben megállapított nyomvonal 10-10 km szélességű környezetében célkitermelő hely létesíthető.
+17/A. § (1) Az e törvény hatálya alá tartozó gyorsforgalmi utak földművei (töltései) megépítéséhez szükséges homok, kavics és agyag ásványi nyersanyag – ideértve mindezek változatait és keverékeit is – (a továbbiakban együtt: töltésanyag) kitermelésére a 18. § (7) bekezdése alapján kiadott rendeletben vagy a jogerős építési engedélyben megállapított nyomvonal 10-10 km szélességű környezetében célkitermelő hely létesíthető.
 
 (2) Az (1) bekezdésben meghatározott töltésanyag kivételével más ásványi nyersanyag kitermelésére cél-kitermelőhely nem létesíthető.
 
@@ -185,11 +178,11 @@ is megtarthatja. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 (4) A műszaki leírásnak tartalmaznia kell:
 
-- a) a cél-kitermelőhely létesítés szükségességének indokolását, figyelemmel a már meglévő kitermelőhelyek (bányák) biztosította lehetőségekre, a környezet és a föld, a primer ásványi nyersanyag védelme érdekében a másodlagos nyersanyagok – elsősorban a pernye, kohászati salak, bányameddők, építési és bontási hulladékok – felhasználási lehetőségeire,
+- a) a cél-kitermelőhely létesítés szükségességének indokolását, figyelemmel a már meglévő kitermelőhelyek (bányák) biztosította lehetőségekre, a környezet és a termőföld, a primer ásványi nyersanyag védelme érdekében a másodlagos nyersanyagok – elsősorban a pernye, kohászati salak, bányameddők, építési és bontási hulladékok – felhasználási lehetőségeire,
 - b) a tervezett cél-kitermelőhely lehatárolását (közigazgatási egység, helyrajzi szám) és a lehatárolás indokolását,
 - c) az előzetesen elvégzett talajmechanikai kutatás (vizsgálat) eredményét, a fellelt ásványi nyersanyag azonosítását, összetételét,
 - d) a cél-kitermelőhely teleptani, tektonikai, hidrogeológiai, talajmechanikai viszonyainak ismertetését,
-- e)
+- e) az igénybevételre tervezett ingatlanok tulajdonosainak név- és címjegyzékét,
 - f) a kitermelni tervezett nyersanyag mennyiségét,
 - g) a tervezett kitermelési technológia ismertetését, az üzemeltetés tervezett időtartamát és a tevékenységek ütemezését,
 - h) a kitermelés miatt eltávolított, megőrzendő (mentett) humuszos talaj, illetve a fel nem használt töltésanyag, illetve egyéb ásványi nyersanyag lerakásának módját és helyét,
@@ -214,26 +207,26 @@ is megtarthatja. A közmeghallgatás időpontját megelőzően lehetőséget kel
 (7) A komplex műveleti tervhez mellékelni kell:
 
 - a) az igénybe venni tervezett ingatlan tulajdonosával (vagyonkezelőjével) az ingatlanhasználatra kötött megállapodás hiteles másolatát,
-- b) termőföld védelméről szóló törvényben meghatározott termőföld esetében a más célú hasznosítást engedélyező végleges ingatlanügyi hatósági határozatot,
-- c) az út megépítésére vonatkozó végleges építési engedélyt.
+- b) termőföld esetében a más célú hasznosítást engedélyező jogerős ingatlanügyi hatósági határozatot,
+- c) az út megépítésére vonatkozó jogerős építési engedélyt.
 - d)
 
 (8)
 
 (9)
 
-17/C. § (1) A komplex műveleti tervet úgy kell elkészíteni, hogy az biztosítsa az élet, az egészség, a felszíni és a felszín alatti létesítmények, a kulturális örökség, valamint a mező- és erdőgazdasági rendeltetésű földek megóvását, a tevékenységgel okozható károk lehetséges megelőzését, illetve csökkentését.
+17/C. § (1) A komplex műveleti tervet úgy kell elkészíteni, hogy az biztosítsa az élet, az egészség, a felszíni és a felszín alatti létesítmények, a kulturális örökség, valamint a mező- és erdőgazdasági rendeltetésű termőföldek megóvását, a tevékenységgel okozható károk lehetséges megelőzését, illetve csökkentését.
 
 (2) A komplex műveleti tervet a bányafelügyelet az (1) bekezdésben meghatározott szempontok figyelembevételével hagyja jóvá. A bányafelügyelet a célkitermelőhelyekről nyilvántartást vezet, és azt a honlapján közzéteszi. A nyilvántartás tartalmazza:
 
 - a) az engedély nyilvántartási számát (betű-, számkombinációkkal és az autópálya számával),
-- b) az engedély számát és véglegessé válásának (végrehajthatóságának) időpontját,
+- b) az engedély számát és jogerőre emelkedésének (végrehajthatóságának) időpontját,
 - c) a kérelmező (jogosított) megnevezését, székhelyét,
 - d) a célkitermelőhellyel érintett település megnevezését és az érintett ingatlanok helyrajzi számát,
 - e) a töltésanyag felhasználásának pontos helyét (a megadott autópálya-szakaszokat km-szelvényekkel),
 - f) a célkitermelőhelyről kitermelhető töltésanyag mennyiségét m3-ben,
 - g) a tevékenységet végző megnevezését, székhelyét,
-- h) a célkitermelőhellyel érintett illetékes bányafelügyelet megnevezését.
+- h) a célkitermelőhellyel érintett illetékes bányakapitányság megnevezését.
 
 (3) Cél-kitermelőhely létesítése nem engedélyezhető külszíni művelésre megállapított bányatelek területén, illetve vízbázisok védőterületén, védett természeti területeken és védetté nyilvánított régészeti lelőhelyeken.
 
@@ -251,7 +244,7 @@ is megtarthatja. A közmeghallgatás időpontját megelőzően lehetőséget kel
 
 17/E. § (1) Ha a cél-kitermelőhely engedélyese, vagy megbízásából a tevékenységet végző a tevékenységet engedély nélkül, az engedélyben foglaltaktól eltérő módon vagy szabályellenesen gyakorolja, a bányafelügyelet az engedélyest, illetve a tevékenységet végzőt bírsággal sújthatja, és kötelezi a szabályellenes állapot megszüntetésére. Amennyiben az engedélyes, illetve a tevékenységet végző tevékenységével veszélyhelyzetet idéz elő, a bányafelügyelet a tevékenység folytatását felfüggesztheti, ismételt esetben az engedélyt visszavonhatja és elrendelheti az eredeti állapot helyreállítását, vagy ha ez már nem lehetséges, a tájrendezést.
 
-(2) Az (1) bekezdés szerinti bírság összegének felső határa 10 000 000 Ft. Ha a bírság kiszabásának alapját képező jogellenes állapotot a kötelezett a kitűzött határidőre nem szünteti meg, a bírság ismételten kiszabható. Az ismételt bírság felső határa 30 000 000 Ft.
+(2) Az (1) bekezdés szerinti bírság összegének felső határa 10 000 000 Ft. Ha a bírság kiszabásának alapját képező jogellenes állapotot a kötelezett a kitűzött határidőre nem szünteti meg, a bírság ismételten kiszabható. Az ismételt bírság felső határa 30 000 000 Ft. A bírság összege az eljáró bányafelügyeleti hatóságot illeti meg. A bírság adók módjára behajtandó köztartozásnak minősül.
 
 ### IV. Fejezet — Átmeneti és záró rendelkezések
 
@@ -269,61 +262,74 @@ is megtarthatja. A közmeghallgatás időpontját megelőzően lehetőséget kel
 - f) az építési engedély kiadása,
 - g) az út forgalomba helyezése.
 
-(4)
+(4) A gyorsforgalmi utak esetében – kivéve a magántőke bevonásával megvalósított utakat – az államháztartásról szóló 1992. évi XXXVIII. törvény 22. §-a (1) bekezdésének második és harmadik mondatában, valamint (2) bekezdésében foglaltakat nem kell alkalmazni.
 
 (5)
 
-(6) Felhatalmazás kap a Kormány, hogy
+(6) Felhatalmazást kap a Kormány, hogy
 
-- a) a 6. § (2) bekezdésében meghatározott elővásárlásra vonatkozó részletes rendelkezéseket,
-- b) az 1. számú mellékletben megjelölt gyorsforgalmi utak esetében a környezetvédelmi engedély véglegessé válását követően a gyorsforgalmi út nyomvonalát, a 17. § (1) bekezdésében meghatározott területsávot és a területsáv védettségének időtartamát,
-- c) a b) pont hatálya alá nem tartozó gyorsforgalmi utak nyomvonalát, a 17. § (1) bekezdésében meghatározott területsávot és a területsáv védettségének időtartamát,
-- d) a 9. § (1) és (2) bekezdése szerinti szervek kijelölését rendeletben állapítsa meg.
+- a) a 6. § (2) bekezdésében meghatározott elővásárlásra vonatkozó részletes rendelkezéseket, és
+- b)
+- c) a mellékletben megjelölt azon gyorsforgalmi utak esetében, amelyeknél a környezetvédelmi engedély jogerőre emelkedését követően az építési engedélyt az eljáró hatóság még nem adta ki, a gyorsforgalmi út nyomvonalát rendeletben hirdesse ki. E rendelettel megállapított nyomvonal tekintetében a 6. §-ának (2) bekezdését, továbbá a 7. § és a 17. § rendelkezéseit megfelelően kell alkalmazni, és
+- d) a c) pont hatálya alá nem tartozó gyorsforgalmi utak nyomvonalát
+
+rendeletben állapítsa meg és a 9. § (1) és (2) bekezdések szerinti szerveket rendeletben jelölje ki.
 
 (7) Felhatalmazást kap a miniszter, hogy
 
 - a)–b)
 - c)
 
-(8) A gyorsforgalmi közúthálózat megvalósításáról és a megvalósítás aktuális helyzetéről a közvéleményt tájékoztatni kell.
+(8) A gyorsforgalmi közúthálózat megvalósításáról, a megvalósítás aktuális helyzetéről a közvéleményt tájékoztatni kell.
 
 (9)
 
 ### 1. számú melléklet a 2003. évi CXXVIII. törvényhez
 
-#### Az e törvény hatálya alá tartozó gyorsforgalmi utak
+#### Az e törvény alkalmazási körébe tartozó gyorsforgalmi utak
 
-|  | A | B | C | D |
-| --- | --- | --- | --- | --- |
-| 1. | Út betű- és számjele | Hosszú távú úttípus | Szakasz (beruházás jellege) | Nagytávú úttípus |
-| 2. | M0 | autóút | teljes útgyűrű (új út építése, kapacitásbővítés) | autópálya |
-| 3. | M1–M7 | autópálya | M0 – Egérút (kapacitásbővítés) | autópálya |
-| 4. | M1 | autópálya | M0 – Hegyeshalom határátkelőhely (kapacitásbővítés) | autópálya |
-| 5. | M2 | autóút | M0 – országhatár (új út építése, kapacitásbővítés) | autópálya |
-| 6. | M3 | autópálya | Vásárosnamény – Beregdaróc, országhatár (új út építése) | autópálya |
-| 7. | M4 | autóút/autópálya | M0 – országhatár (új út építése, kapacitásbővítés) | autópálya |
-| 8. | M6 | autópálya | Bóly – Ivándárda, országhatár (új út építése) | autópálya |
-| 9. | M7 | autópálya | M0 – M8 (kapacitásbővítés) | autópálya |
-| 10. | M8 | autóút | országhatár – Vasvár és Veszprém – Jászalsószentgyörgy (új út építése, kapacitásbővítés) | autóút |
-| 11. | M9 | autóút | M86 – 53. sz. főút (új út építése, kapacitásbővítés) | autóút |
-| 12. | M10 | autóút | Budapest – Kesztölc (új út építése) | autóút |
-| 13. |  |  |  |  |
-| 14. | M15 | autópálya | M1 – országhatár (kapacitásbővítés) | autópálya |
-| 15. |  |  |  |  |
-| 16. |  |  |  |  |
-| 17. | M25 | autóút | M3 – Füzesabony – Eger (új út építése, kapacitásbővítés) | autópálya |
-| 18. | M30 | autópálya | Miskolc – országhatár (új út építése, kapacitásbővítés) | autópálya |
-| 19. | M34 | autóút | Vásárosnamény (M3) – Záhony, Kisvárda kelet (autóút) és Jéke – 4. sz. főút közötti bekötés, Kisvárda és Jéke elkerülővel (összekötő út) (új út építése) | autópálya |
-| 20. | M35 | autópálya | Debrecen – Berettyóújfalu (a Debrecen déli elkerülővel M35 – 47. sz. főút között – 2x1 főút) (új út építése) | autópálya |
-| 21. | M44 | autóút | Kecskemét térsége (M8)–Békéscsaba (új út építése) | autópálya |
-| 22. | M49 | autóút | M3–Mátészalka–országhatár (új út építése) | autóút |
-| 23. | M60 | autóút | Pécs–Barcs, országhatár (új út építése) | autópálya |
-| 24. |  |  |  |  |
-| 25. | M70 | autópálya | M7 – országhatár (kapacitásbővítés) | autópálya |
-| 26. | M76 | autóút | M7–Balatonszentgyörgy– Zalaegerszeg (új út építése) | autóút |
-| 27. |  |  |  |  |
-| 28. | M85 | autóút | Csorna – Sopron, országhatár (új út építése) | autópálya |
-| 29. | M86 | autóút | Csorna – Szombathely (új út építése, kapacitásbővítés) | autóút |
+| A szakasz neve | Az út típusa | Sáv | km |
+| --- | --- | --- | --- |
+| M0 Kelet, 4. sz. főút–31. sz. főút között | Autópálya | 2×2 | 6 |
+| M0 Kelet, 31. sz. főút–3. sz. főút között | Autópálya | 2×2 | 11 |
+| M0 Kelet, 3. sz. főút–M3 között | Autópálya | 2×2 | 9 |
+| M0 Gödöllői átkötés (M31) | Autópálya | 2×2 | 12 |
+| M0 Dél, M1–51. sz. főút között pályabővítés | Autópálya | 2×3 | 23 |
+| M0 Dél, 51. sz. főút–M5 között | Autópálya | 2×3 | 7 |
+| M0 Észak, M2–11. sz. főút között (M0 Északi-híd) | Autópálya | 2×2 | 3 |
+| M3 Görbeháza–Nyíregyháza (4. sz. főút) | Autópálya | 2×2 | 39 |
+| M43 Szeged–Maroslele között | Autópálya | 2×2 | 16 |
+| M43 Maroslele–Makó között | Autóút | 2×1 | 16 |
+| M6 M0–Érdi tető között | Autópálya | 2×2 | 8 |
+| M6 Dunaújváros–Szekszárd között | Autópálya | 2×2 | 67 |
+| M6 Szekszárd–Bóly között | Autópálya | 2×2 | 47 |
+| M60 Bóly–Pécs | Autópálya | 2×2 | 30 |
+| M7 Zamárdi–Balatonszárszó között | Autópálya | 2×2 | 14 |
+| M7 Balatonkeresztúr–Nagykanizsa között | Autópálya | 2×2 | 36 |
+| M7 Rigyác–Nagykanizsa | Autópálya | 2×2 | 12 |
+| M7 Letenye–országhatár között (Mura-híddal) | Autópálya | 2×2 | 1 |
+| M8 Dunaújváros (M6)–Dunavecse (51. sz. főút) (Duna-híddal) | Autópálya | 2×2 | 9 |
+| M9 51–54. sz. főút között | Autóút | 2×1 | 12 |
+| M2 Budapest–Vác (déli csomópont) között | Autóút | 2×2 | 20 |
+| M3 Nyíregyháza–Vaja (49. sz. főút) között | Autópálya | 2×2 | 26 |
+| M3 Vaja (49. sz. főút)–Vásárosnamény között | Autóút | 2×2 | 20 |
+| M35 4. sz. főút–47. sz. főút között | Autóút csatlakozó főút kapcsolattal | 2×1 | 4 (+5) |
+| M43 Makó–Csanádpalota (országhatár) között | Autóút | 2×1 | 23 |
+| M44 Kecskemét–Tiszakürt között | Autóút | 2×2 | 42 |
+| M44 Tiszakürt–Kondoros között | Autóút | 2×2 | 62 |
+| M44 Kondoros–Békéscsaba között | Autóút | 2×2 | 22 |
+| M8 Kecskemét–Szolnok között | Autóút | 2×1 | 54 |
+| M8 Dunavecse–Kecskemét | Autóút | 2×1 | 45 |
+| M8 Körmend–Szentgotthárd (oh.) között (Körmend elkerülővel) | Autóút | 2×2 | 31 |
+| M0 10–11 sz. főutak között | Autóút | 2×2 | 9 |
+| M85 Pereszteg–Sopron (országhatár) között | Autóút | 2×2 | 29 |
+| M85 Győr–Csorna között (Csorna elkerülővel) | Autóút | 2×2 | 34 |
+| M9 Dombóvár–Bonyhád (65. sz. főút) között | Autóút | 2×1 | 34 |
+| M86 Szombathely–Csorna között | Autóút | 2×2 | 61 |
+| M4 Üllő (kelet)–Szolnok (észak)–Berettyóújfalu között | Gyorsforgalmivá fejleszthető út | 2×2, illetve 2+2 | 190 |
+| 49. sz. főút a távlati M49 nyomvonalán M3 és Ököritófülpös között | Autóút | 2×1 | 30 |
+| 71. sz. főút a távlati M8 nyomvonalán Balatonfűzfő–M7 között | Autóút | 2×1 | 20 |
+| 10. sz. főút a távlati M10 nyomvonalán Budapest–Kesztölc között | Gyorsforgalmivá fejleszthető országos főút | 2×2, 2×1 | 29 |
 
 ### 2. számú melléklet a 2003. évi CXXVIII. törvényhez
 
