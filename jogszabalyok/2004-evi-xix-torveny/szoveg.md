@@ -11,11 +11,11 @@ Az Európai Unió saját forrásainak, a Magyar Köztársaság költségvetésé
 (2) Az adópolitikáért felelős miniszter az irányítási jogkörének végrehajtása érdekében:
 
 - a) felügyeli a vámok és a vámhatóság hatáskörébe tartozó nem közösségi adók és díjak kiszabásának, beszedésének törvényességét, ellenőrzi a vámszervek tevékenységét,
-- b) a külön jogszabályban meghatározott kormánybiztos előterjesztése alapján meghatározza a Vám- és Pénzügyőrség fejlesztésének irányait,
+- b) az országos parancsnok előterjesztése alapján meghatározza a Vám- és Pénzügyőrség fejlesztésének irányait,
 - c) a törvényesség és a szakszerűség ellenőrzése érdekében a vám-, adó- és jövedéki eljárásról, továbbá a Vám- és Pénzügyőrség feladatkörébe tartozó egyéb tevékenységéről annak vezetőjétől jelentéseket, továbbá e célból a Vám- és Pénzügyőrség által kezelt nyilvántartásokból felvilágosítást, adatszolgáltatást kér,
 - d) meghatározza a Vám- és Pénzügyőrség feladatai teljesítésének éves követelményeit,
 - e) irányítja és ellenőrzi a Vám- és Pénzügyőrség költségvetési gazdálkodását,
-- f) a b) pontban meghatározott kormánybiztosnak a vám- és jövedéki igazgatás működési feltételeinek kialakítása, szakszerű működtetése tekintetében iránymutatást, szükség esetén utasítást adhat,
+- f) a Vám- és Pénzügyőrség vezetőjének különösen a vám- és jövedéki igazgatás működési feltételeinek kialakítása, szakszerű működtetése tekintetében iránymutatást, szükség esetén utasítást adhat,
 - g) ellátja azokat a feladatokat, amelyeket a feladat- és hatásköréről szóló jogszabály önálló vagy a kereskedelemért felelős miniszterrel, illetve – a jogszabályok alapján – a külpolitikáért felelős miniszterrel egyetértésben gyakorolt vámigazgatási jogkörébe utal,
 - h) felügyeli a Vám- és Pénzügyőrség bűnüldözési és rendészeti jogkörében végzett tevékenységét.
 
@@ -69,11 +69,9 @@ kapcsolatos feladatokat.
 
 ### Az országos parancsnok
 
-4. § (1) A Vám- és Pénzügyőrség operatív vezetését kormánybiztos irányítása alapján az országos parancsnok látja el.
+4. § (1) A Vám- és Pénzügyőrséget az országos parancsnok vezeti, aki szolgálati elöljárója a Vám- és Pénzügyőrség személyi állományának.
 
-(2) A kormánybiztos szolgálati elöljárója az országos parancsnoknak.
-
-(3) Az országos parancsnok szolgálati elöljárója a Vám- és Pénzügyőrség személyi állományának.
+(2)–(4)
 
 ### A Vám- és Pénzügyőrség hivatásos állományútagjainak intézkedési és szolgálati fellépési jogaiés kötelezettségei
 
@@ -95,9 +93,7 @@ kapcsolatos feladatokat.
 
 (5) A jogszerűen fellépő pénzügyőr intézkedéseinek az ellenőrzött személy köteles alávetni magát.
 
-6. § (1) A Vám- és Pénzügyőrség közalkalmazottnak minősülő polgári alkalmazottainak jogviszonyára a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény, a köztisztviselőnek minősülő polgári alkalmazottainak jogviszonyára a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, illetve a kormánytisztviselők jogállásáról szóló 2010. évi törvény rendelkezései az irányadók.
-
-(2) A kormánybiztos a Vám- és Pénzügyőrség nyomozóhatósági feladatait ellátó szerveinek központi irányításával szolgálati viszonyban nem álló, köztisztviselőként foglalkoztatott személyt is megbízhat, illetve a bűnüldözési, bűnmegelőzési, felderítési és nyomozati feladatok ellátására szolgálati viszonyban nem álló, köztisztviselőnek minősülő személyt is foglalkoztathat.
+6. § A Vám- és Pénzügyőrség polgári alkalmazottainak jogviszonyára a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény rendelkezései az irányadók.
 
 7. § A Vám- és Pénzügyőrség a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény, az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény, a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló törvény, valamint a vonatkozó nemzetközi szerződések és az Európai Unió jogi aktusai alapján együttműködik a külföldi és a nemzetközi rendvédelmi szervekkel.
 
@@ -243,30 +239,9 @@ kapcsolatos feladatokat.
 
 (6) Rendvédelmi szerv és nemzetbiztonsági szolgálat fedőintézményként, okmánya fedőokmányként csak az illetékes miniszter és az érintett szervezet országos vezetőjének tájékoztatásával alkalmazható.
 
-(7) A felhatalmazott szervek az informátor, a bizalmi személy, a Vám- és Pénzügyőrséggel titkosan együttműködő más személy, a fedett nyomozó, valamint a fedőokirat és a fedőintézmény védelme érdekében a közigazgatási nyilvántartásokban, így különösen a személyiadat- és lakcímnyilvántartásban, a személyi igazolvány nyilvántartásban, az anyakönyvi nyilvántartásban, az úti okmány nyilvántartásban, a gépjárművezetői engedély és gépjármű nyilvántartásban, az ingatlan-nyilvántartásban, a cégnyilvántartásban fedőadatokat helyezhetnek el. A fedőadatokat törölni kell, ha az elhelyezés alapjául szolgáló bűnüldözési érdek megszűnt.
+(7) A felhatalmazott szervek az informátor, a bizalmi személy, a Vám- és Pénzügyőrséggel titkosan együttműködő más személy, a fedett nyomozó, valamint a fedőokirat és a fedőintézmény védelme érdekében a közigazgatási nyilvántartásokban, így különösen a személyiadat- és lakcímnyilvántartásban, a személyi igazolvány nyilvántartásban, az anyakönyvi nyilvántartásban, az úti okmány nyilvántartásban, a gépjárművezetői engedély és gépjármű nyilvántartásban, az ingatlan-nyilvántartásban, a cégnyilvántartásban fedőadatokat helyezhetnek el. A fedőadat elhelyezésének ténye, az elhelyezésre vonatkozó rendelkezést tartalmazó okirat vagy más adathordozó államtitoknak minősül. A fedőadatokat törölni kell, ha az elhelyezés alapjául szolgáló bűnüldözési érdek megszűnt.
 
 (8) Az informátor, a bizalmi személy, a Vám- és Pénzügyőrséggel titkosan együttműködő más személy által a titkos információgyűjtés keretében másnak okozott kár megtérítésére a 24. § (2) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
-
-### Leplezett figyelés elrendelése
-
-22/A. § A felhatalmazott szervek a 2. § (3) bekezdésében meghatározott célból leplezett figyelést rendelhetnek el arra a személyre vonatkozóan, akiről megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2003. évi CXXX. törvény 1. melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő) vagy követ el a Magyar Köztársaság vagy más, a Schengeni Információs Rendszert alkalmazó állam területén, abban az esetben is, ha a magyar törvény szerint az előkészület nem büntetendő. Leplezett figyelés rendelhető el az ilyen személlyel vagy bűncselekménnyel kapcsolatba hozható jármű vonatkozásában is.
-
-### A Schengeni Információs Rendszerben elhelyezett leplezett figyelésre irányuló jelzés végrehajtása
-
-22/B. § (1) Ha a pénzügyőr az intézkedés során megállapítja, hogy az intézkedéssel érintett személy vagy jármű azonos a Schengeni Információs Rendszerben elhelyezett leplezett figyelésre irányuló jelzés szerinti személlyel vagy járművel, a leplezett figyelésre irányuló jelzés végrehajtása során az 5. § (4) bekezdésében meghatározott intézkedéseket foganatosíthatja.
-
-(2) A pénzügyőr – a leplezett figyelésre történő utalás és a leplezett figyelés céljának veszélyeztetése nélkül – kizárólag annak az intézkedésnek a tényét és célját közölheti, amelynek során a leplezett figyelésre irányuló jelzés végrehajtására sor kerül.
-
-(3) A pénzügyőr a leplezett figyelésre irányuló jelzés végrehajtásakor az intézkedése során rögzítendő adatokon túl – ha ez a leplezett figyelésre irányuló jelzés végrehajtásának célját nem veszélyezteti – az alábbi adatokat rögzítheti, és továbbíthatja a külön jogszabályban meghatározott szerven keresztül az adott leplezett figyelésre irányuló jelzést kibocsátó hatóságnak:
-
-- a) az intézkedéssel érintett személy vagy jármű megtalálásának ténye, körülményei,
-- b) az intézkedés helye, ideje, indoka,
-- c) az utazás útvonala és az úti cél,
-- d) az intézkedéssel érintett személyt kísérő, illetve az intézkedéssel érintett járműben utazó személyek természetes személyazonosító adatai,
-- e) a használt jármű azonosításához szükséges adatok,
-- f) a szállított tárgyakra vonatkozó adatok.
-
-(4) A (3) bekezdésben meghatározott adatok megszerzése érdekében kényszerítő eszköz nem alkalmazható.
 
 ### Az együttműködők díjazása
 
@@ -398,8 +373,6 @@ esetén.
 
 (2) A bűnüldözési és a közigazgatási feladatokhoz kapcsolódó adatokat elkülönítetten kell kezelni. A vámigazgatási eljárás során keletkezett adatok kezelésére, nyilvántartására a közösségi vámjog végrehajtásáról szóló törvény rendelkezik.
 
-(3) A Vám- és Pénzügyőrség az általa kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
-
 ### Bűnügyi adatkezelés
 
 35. § (1) A Vám- és Pénzügyőrség által bűnüldözési célból gyűjtött és tárolt személyes, továbbá a különleges adatokat – ha törvény eltérően nem rendelkezik – csak bűnüldözési célra lehet felhasználni.
@@ -412,22 +385,23 @@ esetén.
 
 (5) A Vám- és Pénzügyőrség az eljárásban résztvevők természetes személyazonosító és lakcím adatait, továbbá az ügy azonosító adatait ügyviteli célból, az eljárás megindításától az alapul szolgáló irat selejtezéséig kezeli.
 
-(6) A Vám- és Pénzügyőrség által kezelt adatokat személyazonosításra alkalmatlan módon, történelmi kutatási, statisztikai vagy tudományos célra fel lehet használni.
+(6) A Vám- és Pénzügyőrség által kezelt adatokat személyazonosításra alkalmatlan módon, statisztikai célra fel lehet használni.
 
-(7) Az adópolitikáért felelős miniszter, a kormánybiztos, az országos parancsnok, a főigazgató, illetve a nyomozó hatóság vezetője a Vám- és Pénzügyőrség által kezelt közérdekű adatok nyilvánosságra hozatalát bűnüldözési érdekből megtagadhatja.
+(7) Az adópolitikáért felelős miniszter, az országos parancsnok, a főigazgató, illetve a nyomozó hatóság vezetője a Vám- és Pénzügyőrség által kezelt közérdekű adatok nyilvánosságra hozatalát bűnüldözési érdekből megtagadhatja.
 
-36. § (1) A Vám- és Pénzügyőrség bűnüldözési feladatainak ellátása érdekében kezelheti, illetve az e törvényben meghatározott, adatkezelésre feljogosított szervek nyilvántartásából átveheti:
+36. § (1) A Vám- és Pénzügyőrség a jogszabályban meghatározott bűnüldözési feladatainak ellátása érdekében kezelheti, illetve az adatkezelésre feljogosított szervek nyilvántartásából átveheti:
 
 - a) a felderítetlenül maradt bűncselekmény kriminalisztikai szempontból fontos jellemzőit a bűncselekmény elkövetőjének felderítéséig, vagy ennek hiányában a büntethetőség elévüléséig,
 - b) a bűncselekmény helyszínén rögzített nyomokat, anyagmaradványokat, eszközöket, szagmintákat a bűncselekmény elkövetőjének felderítéséig, vagy ennek hiányában a büntethetőség elévüléséig,
-- c) a szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt kihallgatott személy adatait, ujjnyomatát, személyleírását, fényképét, hang- és szagmintáját, valamint az elvégzett kriminalisztikai szakértői vizsgálatok adatait a bűncselekmény büntethetőségének elévülésétől, vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítéstől számított húsz évig,
+- c) a szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt kihallgatott személy adatait, ujjlenyomatát, személyleírását, fényképét, hang- és szagmintáját, valamint az elvégzett kriminalisztikai szakértői vizsgálatok adatait a bűncselekmény büntethetőségének elévülésétől, vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítéstől számított húsz évig,
 - d) szándékos bűncselekmény megalapozott gyanúja miatt kihallgatott, illetve ilyen bűncselekmény elkövetése miatt elítélt személy cselekményének kriminalisztikai szempontból fontos jellemzőit a büntethetőség elévüléséig, vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésig,
 - e) a szervezett bűnözésre utaló cselekményekben vagy tényállásokban érintett személyek, kapcsolataik adatait és kriminalisztikai szempontból fontos jellemzőit az érintett személyre vonatkozóan keletkezett utolsó adatot követő húsz évig,
 - f) olyan személyek adatait, akikkel szemben nemzetközi kötelezettségvállalás alapján nemzetközi bűnüldözési intézkedéseket kell foganatosítani, valamint e személyek kapcsolatainak adatait és kriminalisztikai szempontból fontos jellemzőit a büntethetőség elévüléséig, vagy a nemzetközi kötelezettségvállalásban meghatározott ideig,
 - g) az egyes bűncselekmények nyomozása során a felderítéssel és bizonyítással kapcsolatban keletkezett iratokban szereplő személyek és kapcsolataik adatait, illetve az eljárási helyzetükre vonatkozó adatokat, valamint a hozzájuk fűződő nyomozási adatokat az ügyben hozott jogerős ítéletig, vagy a nyomozás megszüntetése esetén a bűncselekmény büntethetőségének elévüléséig,
-- h) a titkos információgyűjtés alkalmazásával érintett személyek adatait – beleértve a Vám- és Pénzügyőrséggel együttműködőket és a fedett nyomozókat is – és az alkalmazás eredményeként keletkezett adatokat, ha büntetőeljárás nem indul, a titkos információgyűjtés lezárását követő legfeljebb két évig, büntetőeljárás lefolytatása esetén a büntethetőség elévüléséig, elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésig, illetve legfeljebb húsz évig, együttműködők, valamint fedett nyomozók esetén az együttműködés, illetve a fedett nyomozói tevékenység megszűnésétől számított húsz évig.
+- h) a titkos információgyűjtés során keletkezett adatokat, ha büntetőeljárás nem indul, a gyűjtés lezárását követő két évig,
+- i) a titkos információgyűjtés alkalmazásával érintett személyek adatait – beleértve a Vám- és Pénzügyőrséggel együttműködőket és a fedett nyomozókat is – és az alkalmazás eredményét, ha büntetőeljárás nem indul, a titkos információgyűjtés lezárását követő legfeljebb 2 évig, büntetőeljárás lefolytatása esetén a büntethetőség elévüléséig, elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésig, illetve legfeljebb 20 évig, együttműködők, valamint fedett nyomozók esetén az együttműködés, illetve a fedett nyomozói tevékenység megszűnésétől számított húsz évig.
 
-(2) A Vám- és Pénzügyőrség adatkezelést végző szerve az (1) bekezdés b)–h) pontjaiban meghatározott adatok tekintetében – ha bűnüldözési célból elengedhetetlen, továbbá ha az érintett vagy mások jogainak védelme érdekében szükséges – az érintett tájékozódási, helyesbítési és törlési jogának gyakorlását – írásban, indokolással ellátva – megtagadhatja vagy korlátozhatja. Az indokolás mellőzhető, ha az a Vám- és Pénzügyőrség bűnüldözési feladatának ellátását akadályozza, vagy mások jogainak sérelmével jár. Az indokolás mellőzése esetén a megtagadás okaként e rendelkezésre kell hivatkozni. Az adat-hozzáférési, helyesbítési és törlési jog korlátozása nem érinti a büntetőeljárásban résztvevőknek a büntetőeljárásról szóló törvényben biztosított jogainak gyakorlását.
+(2) A Vám- és Pénzügyőrség adatkezelést végző szerve az (1) bekezdés a)–f), valamint h)–i) pontjában meghatározott adatokról az érintett személynek nem adhat felvilágosítást. Ez a rendelkezés nem korlátozza a büntetőeljárásban résztvevők jogait.
 
 (3) A Vám- és Pénzügyőrség törvényben meghatározott bűnüldözési feladatai teljesítése érdekében – ha az adatvédelem feltételei biztosítottak – az adott bűncselekmény felderítése és nyomozása során bűnüldözési és közigazgatási rendszereit egymással összekapcsolva egyedi adatkezelést végezhet. Az ennek során keletkezett olyan új adatokat, amelyeket a büntetőeljárás során nem használnak fel, törölni kell.
 
@@ -450,27 +424,23 @@ esetén.
 
 (3) Az adatszolgáltatást kérő szervek felelősek a (2) bekezdés alapján átvett adatoknak e törvény szerinti kezeléséért. Az ilyen adatfelhasználást kötelesek kimutatni, illetve nyilvántartani.
 
-(4)–(5)
+(4) A Vám- és Pénzügyőrség személyes adatokat, bűnüldözési adatokat, valamint a büntetett előéletre vonatkozó különleges adatokat az országból harmadik országba bűnüldözési, igazságszolgáltatási szervek, illetve nemzetközi bűnüldöző szervezetek részére – az EU nemzetközi bűnüldöző szervezetei, valamint az INTERPOL kivételével – nemzetközi szerződés alapján továbbíthat, ha a továbbítás súlyos vagy közvetlen veszély elhárításához, vagy bűncselekmény megelőzéséhez szükséges és a személyes adatok kezelésének feltételei a külföldi adatkezelőnél minden egyes adat tekintetében teljesülnek.
 
-37/A. § (1) A Vám- és Pénzügyőrség személyes adatokat, bűnüldözési adatokat, valamint a büntetett előéletre vonatkozó különleges adatokat az országból harmadik országba bűnüldözési, igazságszolgáltatási szervek, illetve nemzetközi bűnüldöző szervezetek részére – az EU nemzetközi bűnüldöző szervezetei, valamint az INTERPOL kivételével – nemzetközi szerződés alapján továbbíthat, ha a továbbítás súlyos vagy közvetlen veszély elhárításához, vagy bűncselekmény megelőzéséhez szükséges és a személyes adatok kezelésének feltételei a külföldi adatkezelőnél minden egyes adat tekintetében teljesülnek.
-
-(2) A Vám- és Pénzügyőrség a nyomozó hatósági jogkörébe tartozó bűncselekményekkel összefüggésben keletkezett személyes és bűnüldözési adatokat – beleértve a titkos információgyűjtés során keletkezett adatokat is – nemzetközi-, illetve más EU-tagállami bűnüldöző, igazságszolgáltatási szervek részére a külön törvény rendelkezései alkalmazásával – az adatvédelem feltételeinek teljesülése esetén – továbbíthat, tehet hozzáférhetővé, illetve vehet át.
-
-(3) A Vám- és Pénzügyőrség az adattovábbítást, illetve a hozzáférhetővé tételt megelőzően ellenőrzi az adatvédelem feltételeinek teljesülését. Amennyiben utólag megállapításra kerül, hogy hibás adatokat továbbítottak vagy adatokat jogellenesen továbbítottak, erről a címzettet haladéktalanul értesíteni kell.
+(5) A Vám- és Pénzügyőrség a nyomozó hatósági jogkörébe tartozó bűncselekményekkel összefüggésben keletkezett személyes és bűnüldözési adatokat – beleértve a titkos információgyűjtés során keletkezett adatokat is – az Európai Rendőrségi Hivatal, a Nemzetközi Bűnügyi Rendőrség Szervezete, a Schengeni Információs Rendszer központja és nemzeti egysége, valamint a bűnüldöző szervek együttműködését szabályozó egyéb, két- és többoldalú nemzetközi szerződésen alapuló regionális bűnüldözési szervezet részére az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló 1999. évi LIV. törvény rendelkezései alkalmazásával vehet, illetve adhat át.
 
 ### Közigazgatási adatkezelés
 
-38. § (1) A Vám- és Pénzügyőrség a szabálysértésért felelősségre vont személy természetes személyazonosító adatait, lakcímét, az elkövetett cselekmény megjelölését, az alkalmazott büntetést vagy intézkedést, illetve az ügy számát a szabálysértésért felelősségre vont személyek nyilvántartási rendszerében a felelősséget megállapító határozat jogerőre emelkedésétől számított legfeljebb két évig kezeli.
+38. § (1) A Vám- és Pénzügyőrség a szabálysértésért felelősségre vont személy természetes személyazonosító adatait, lakcímét, az elkövetett cselekmény megjelölését, az alkalmazott büntetést vagy intézkedést, illetve az ügy számát a szabálysértésért felelősségre vont személyek nyilvántartási rendszerében két évig kezeli.
 
-(2) A Vám- és Pénzügyőrség az általa igazoltatott személy természetes személyazonosító adatait, lakcímét, valamint az igazoltatásra okot adó körülmények megjelölését az igazoltatás alá vont személyek nyilvántartási rendszerében az igazoltatástól számított legfeljebb két évig kezeli.
+(2) A Vám- és Pénzügyőrség az általa igazoltatott személy természetes személyazonosító adatait, lakcímét, valamint az igazoltatásra okot adó körülmények megjelölését az igazoltatás alá vont személyek nyilvántartási rendszerében két évig kezeli.
 
-(3) A Vám- és Pénzügyőrség az áruk szállításában, a jövedéki törvény hatálya alá tartozó termékek ellenőrzésében, valamint az utasok csomagjainak törvényben meghatározott ellenőrzésében érintett személyek természetes személyazonosító adatait, lakcímét, illetve az ellenőrzés eredményét az ellenőrzés alá vont személyek nyilvántartási rendszerében az ellenőrzéstől számított legfeljebb két évig kezeli.
+(3) A Vám- és Pénzügyőrség az áruk szállításában, a jövedéki törvény hatálya alá tartozó termékek ellenőrzésében, valamint az utasok csomagjainak törvényben meghatározott ellenőrzésében érintett személyek természetes személyazonosító adatait, lakcímét, illetve az ellenőrzés eredményét az ellenőrzés alá vont személyek nyilvántartási rendszerében két évig kezeli.
 
 (4) A Vám- és Pénzügyőrség hatáskörébe tartozó vámigazgatási, jövedéki és adóügyi, továbbá szabálysértési és egyéb közigazgatási eljárással összefüggő személyes adatok kezelésére a külön törvények rendelkezései az irányadók.
 
 39. § (1) Az Európai Unióról szóló szerződés K.3. cikke alapján létrejött, az információtechnológia vámcélokra történő használatáról szóló Egyezménnyel összefüggésben az EU váminformációs rendszerének adataihoz való közvetlen hozzáférésre a Vám- és Pénzügyőrség jogosult.
 
-(2) Az országos parancsnok a kormánybiztos egyetértésével a Vám- és Pénzügyőrség személyes adatkezelő rendszerei adatvédelmi belső ellenőrzésére adatvédelmi felelőst jelöl ki.
+(2) Az országos parancsnok a Vám- és Pénzügyőrség személyes adatkezelő rendszerei adatvédelmi belső ellenőrzésére adatvédelmi felelőst jelöl ki.
 
 ### Elektronikus kapcsolattartással összefüggő adatkezelés
 
@@ -516,12 +486,3 @@ esetén.
 - h) a rendészetért felelős miniszterrel egyetértésben az elfogott, előállított, őrizetbe vett és fogva tartott személyek őrzésének, kísérésének részletes eljárási szabályait.
 
 44. § Az adópolitikáért felelős miniszter utasításban állapítja meg a Vám- és Pénzügyőrség felhatalmazott szervei által végzett titkos információgyűjtés eszközei, módszerei alkalmazásának szabályait.
-
-### Az Európai Unió jogának való megfelelés
-
-45. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
-
-- a) a Benelux Gazdasági Unió államai, a Németországi Szövetségi Köztársaság és a Francia Köztársaság kormányai között a közös határaikon történő ellenőrzések fokozatos megszüntetéséről szóló, 1985. június 14-i schengeni megállapodás végrehajtásáról szóló egyezmény (Schengeni Végrehajtási Egyezmény) 99. cikke [22/A–22/B. §],
-- b) a néhány új funkciónak – többek között a terrorizmus elleni küzdelemnek – a Schengeni Információs Rendszerbe történő bevezetéséről szóló, 2005. február 24-i 2005/211/IB tanácsi határozat 1. cikke [22/A–22/B. §],
-- c) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i, 2008/633/IB tanácsi határozat 3–5. cikke [36/A. §].
-- d) a büntető ügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i, 2008/977/IB tanácsi kerethatározat 3. cikke, 5. cikke, 9. cikke, 13. cikke [35. § (6) bekezdés, 36. § (1)–(2) bekezdés, 37/A. §, 38. § (1)–(3) bekezdés].
