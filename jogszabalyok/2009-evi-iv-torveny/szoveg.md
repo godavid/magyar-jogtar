@@ -10,7 +10,7 @@ A gazdasági lehetőségekkel összhangban a gazdasági válság hatásainak tom
 - 2. áthidaló kölcsön: a lakáscélú kölcsönt folyósító pénzügyi intézmény által a lakáscélú kölcsönszerződésben meghatározott törlesztési kötelezettség teljesítéséhez a természetes személy részére folyósított kölcsön,
 - 3. foglalkoztató: akivel a természetes személy munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban állt,
 - 4. háztartás: az egy lakóingatlanban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező természetes személyek közössége,
-- 5. lakáscélú kölcsön: a természetes személy, mint adós vagy adóstárs és a pénzügyi intézmény között létrejött kölcsönszerződés alapján fennálló tartozás, amelynek hitelkockázati fedezete a Magyarország területén lévő lakóingatlanon alapított zálogjog,
+- 5. lakáscélú kölcsön: a természetes személy, mint adós vagy adóstárs és a pénzügyi intézmény között létrejött kölcsönszerződés alapján fennálló tartozás, amelynek hitelkockázati fedezete a Magyar Köztársaság területén lévő lakóingatlanon alapított zálogjog,
 - 6. késedelmes tartozás: a természetes személy által
   - a) a lakáscélú kölcsönre vonatkozó kölcsönszerződésben,
   - b) az életbiztosítási szerződéssel kombinált lakáscélú kölcsön esetén az életbiztosítási szerződésben, lakás-előtakarékossági szerződéssel kombinált lakáscélú kölcsön esetén lakás-előtakarékossági szerződésben
@@ -21,11 +21,11 @@ vállalt, lejárt és nem teljesített fizetési kötelezettségből eredő tart
   - a) lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel,
   - b) tanyaként feltüntetett lakó-, gazdasági épület, épületcsoport és az azonos helyrajzi szám alatt hozzá tartozó föld együttese,
 - 8. munkaviszony: az Flt.-ben meghatározott fogalom,
-- 9. pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is,
+- 9. pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, a Magyar Köztársaság területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is,
 - 10. természetes személy:
   - a) a magyar állampolgár és az a személy, akit külön törvény alapján a magyar állampolgár jogai illetnek meg,
-  - b) a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény szerint – Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkezik,
-  - c) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvényben (a továbbiakban: Tv.) foglaltak szerint huzamos tartózkodási jogosultsággal rendelkezik,
+  - b) a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény szerint – a Magyar Köztársaság területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkezik,
+  - c) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben (a továbbiakban: Tv.) foglaltak szerint bevándorolt vagy letelepedett jogállással rendelkezik,
   - d) a hontalan, ha a Tv.-ben foglaltak alapján ilyen jogállásúnak ismerték el.
 
 2. § (1) A Magyar Állam a központi költségvetés terhére készfizető kezesként felel
@@ -53,7 +53,7 @@ törleszti havi részletekben a természetes személy azzal, hogy hitelszerződ�
 
 (3) A pénzügyi intézmény a természetes személy részére a hitelszerződéssel kapcsolatban a tőke és a kamat összegén kívül egyéb (így különösen a hitelbírálattal, a rendelkezésre tartással, a folyósítással, a kezeléssel, az elő- és végtörlesztéssel összefüggő) fizetési kötelezettséget nem írhat elő.
 
-(4) A természetes személy 2011. június 30. napjáig kezdeményezheti a hitelszerződés megkötését. A természetes személynek a hitelszerződés aláírásáig be kell nyújtania a 3. § (1) bekezdésének a)–d) pontjában foglaltak igazolására szolgáló iratok eredeti vagy hitelesített másolati példányát.
+(4) A természetes személy 2010. december 31. napjáig kezdeményezheti a hitelszerződés megkötését. A természetes személynek a hitelszerződés aláírásáig be kell nyújtania a 3. § (1) bekezdésének a)–d) pontjában foglaltak igazolására szolgáló iratok eredeti vagy hitelesített másolati példányát.
 
 (5) Ha a természetes személy nem, vagy csak részben teljesíti a 3 § (1) bekezdésének e) pontjában vagy a 3/A. § (2) bekezdésének b) pontjában meghatározott vállalását, akkor az (1) bekezdés szerinti készfizető kezesség a hitelszerződés alapján a szerződésszegés időpontjáig folyósított összegre vonatkozóan áll fenn.
 
