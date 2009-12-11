@@ -158,7 +158,17 @@ Az Országgyűlés az elektronikus kézbesítés gyors és hatékony lehetőség
 
 ### A közbeszerzésekre vonatkozó különös szabályok
 
-9. §
+9. § (1) A közbeszerzési eljárásban a közbeszerzésekről szóló törvény szerinti ajánlatkérő – ideértve a költségvetési szervnek nem minősülő szervezeteket is – hivatali kapuval, az ajánlattevő, illetve részvételre jelentkező képviselője ügyfélkapuval rendelkezik.
+
+(2) Az ajánlatkérő a közbeszerzési eljárásban használatos elektronikus formanyomtatványait honlapján helyezi el. E formanyomtatványok tartalmazzák az ajánlatkérő – Állami Elektronikus Kézbesítési Szolgáltató által biztosított – nyilvános titkosító kulcsát, amelyet a közbeszerzési eljárás lezárulásáig használhat.
+
+(3) Az ajánlattevő ajánlatát, a részvételre jelentkező részvételi jelentkezését és egyéb, a közbeszerzési eljárásban benyújtani kívánt iratot – az (2) bekezdés szerinti – elektronikus formanyomtatványon nyújtja be az ajánlatkérőhöz.
+
+(4) Az ajánlatkérő az ajánlattételi, illetve a részvételi határidő lejártának időpontjában az Állami Elektronikus Kézbesítési Szolgáltatótól kapott, az elektronikus formanyomtatványhoz tartozó privát titkosító kulccsal kezdi meg a beérkezett ajánlatok, illetve részvételi jelentkezések bontását.
+
+(5) Az ajánlatkérő az új közbeszerzési eljárásában – az Állami Elektronikus Kézbesítési Szolgáltatótól igényelt – új nyilvános kulccsal teszi közzé formanyomtatványát.
+
+(6) Ezt az eljárást az Állami Elektronikus Kézbesítési Szolgáltató díj fizetéséhez kötheti.
 
 ### Záró rendelkezések
 
@@ -168,9 +178,9 @@ Az Országgyűlés az elektronikus kézbesítés gyors és hatékony lehetőség
 
 (3) Az 1–6. §, a 7. § (1)–(7) bekezdése, a 7. § (10)–(11) bekezdése, a 8. §, a 9. §, a 11. §, a 12. §, a 14. § (1)–(6) bekezdése, a 14. § (8)–(9) bekezdése 2010. január 1. napján lép hatályba.
 
-(4) A 15. § (3) bekezdése 2011. július 1. napján lép hatályba.
+(4) A 15. § (3) bekezdése 2010. július 1. napján lép hatályba.
 
-(5) A 7. § (8) és (9) bekezdése 2012. július 1. napján lép hatályba.
+(5) A 7. § (8) és (9) bekezdése 2011. július 1. napján lép hatályba.
 
 (6) A törvény rendelkezéseit – a (7) bekezdésben foglalt kivétellel – a hatálybalépését követően indult ügyekben kell alkalmazni.
 
