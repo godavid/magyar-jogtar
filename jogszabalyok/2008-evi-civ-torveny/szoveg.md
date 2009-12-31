@@ -8,12 +8,12 @@ A pénzügyi közvetítőrendszernek a gazdaság egészének működésében bet
 
 1. § (1) E törvény hatálya kiterjed
 
-- a) a Magyarország területén székhellyel rendelkező hitelintézetre,
+- a) a Magyar Köztársaság területén székhellyel rendelkező hitelintézetre,
 - b) az a) pontban meghatározott szervezetben a Magyar Állam nevében történő, e törvény szerinti befolyásszerzésre és befolyás megszüntetésére,
 - c)
 - d) az a) és b) pontban meghatározottak felügyeletére.
 
-(2) A Ptk. jogi személyekre vonatkozó rendelkezései, a Ctv., az Áht., a Hpt. és a Tpt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+(2) A Gt., a Ctv., az Áht., a Hpt. és a Tpt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 ### ÉRTELMEZŐ RENDELKEZÉSEK
 
@@ -21,34 +21,38 @@ A pénzügyi közvetítőrendszernek a gazdaság egészének működésében bet
 
 (2) E törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban
 
-- 1. alapszabály: a Ptk.-ban meghatározott létesítő okirat,
+- 1. alapszabály: a Gt.-ben meghatározott alapszabály és alapító okirat,
 - 2. befolyás: a Tpt.-ben meghatározott fogalom,
 - 3. befolyásoló részesedés: a Hpt.-ben meghatározott fogalom,
 - 4. értékpapír: a Tpt.-ben meghatározott fogalom,
 - 5. forgalomba hozatal: a Tpt.-ben meghatározott fogalom,
 - 6. hitelintézet: a Hpt. szerinti hitelintézet, ide nem értve a fióktelep formájában működő hitelintézetet,
-- 7. szabályozott intézmény: a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNB tv.) 39. §-a szerinti szervezet és személy,
-- 8. vezető tisztségviselő: a Ptk. jogi személyekre vonatkozó rendelkezéseiben meghatározott fogalom,
+- 7. szabályozott intézmény: a Psztv. 4. §-a szerinti szervezet és személy,
+- 8. vezető tisztségviselő: a Gt.-ben meghatározott fogalom,
 - 9. vezető állású személy: a Hpt.-ben meghatározott fogalom,
 - 10. pénzügyi eszköz: a Bszt. 6. §-ában meghatározott fogalom,
-- 11. MNB rendkívüli likviditási hitele: az MNB tv. 35. §-a szerinti – az MNB tv. 18. §-ában meghatározott monetáris politikai eszközök közé nem tartozó, egyedi feltételek mellett nyújtott – rendkívüli jegybanki hitel.
+- 11. MNB rendkívüli likviditási hitele: az MNB tv. 14. §-a szerinti – a 7. §-ban meghatározott monetáris politikai eszközök közé nem tartozó, egyedi feltételek mellett nyújtott – rendkívüli jegybanki hitel.
 
 ### A SZABÁLYOZOTT INTÉZMÉNYEK HELYZETÉNEK FOLYAMATOS ÉRTÉKELÉSE
 
-3. § (1) A Magyar Nemzeti Bank (a továbbiakban: MNB) folyamatosan értékeli a szabályozott intézmények helyzetét, amelyről a (2) bekezdésben meghatározott tartalommal a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter tájékoztatást kérhet.
+3. § (1) A Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) és a Magyar Nemzeti Bank (a továbbiakban: MNB) folyamatosan értékeli a szabályozott intézmények helyzetét, amelyről a (2) bekezdésben meghatározott tartalommal a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter tájékoztatást kérhet.
 
-(2) Az (1) bekezdésben meghatározott tájékoztatás tartalmazza legalább az MNB által készített
+(2) Az (1) bekezdésben meghatározott tájékoztatás tartalmazza legalább
 
-- a) az egyes hitelintézetek pénzügyi közvetítőrendszer stabilitása szempontjából történő értékelését, a más szabályozott intézményekre, pénzügyi piacokra, pénzügyi infrastruktúrára, és a reálgazdaságra gyakorolt hatásának vizsgálatát,
-- b) a pénzügyi rendszerkockázati tényezőnek minősített hitelintézetek rövid távú likviditási helyzetének értékelését,
-- c) a legfontosabb pénzügyi piacok helyzetéről, a rendelkezésre álló likviditásról szóló elemzést,
-- d) az egyes hitelintézetek szavatoló tőke helyzetéről szóló értékelést,
-- e) az egyes pénzügyi rendszerkockázati tényezőnek minősített hitelintézetek közép- és hosszú távú likviditási helyzetéről szóló értékelést, és
-- f) összevont alapú felügyelet vagy kiegészítő felügyelet alá tartozó hitelintézet esetén a csoportszintű közép- és hosszú távú likviditási és szavatoló tőke helyzet megítéléséről szóló értékelést.
+- a) az MNB által készített
+  - aa) az egyes hitelintézetek pénzügyi közvetítőrendszer stabilitása szempontjából történő értékelését, a más szabályozott intézményekre, pénzügyi piacokra, pénzügyi infrastruktúrára, és a reálgazdaságra gyakorolt hatásának vizsgálatát,
+  - ab) a pénzügyi rendszerkockázati tényezőnek minősített hitelintézetek rövid távú likviditási helyzetének értékelését, és
+  - ac) a legfontosabb pénzügyi piacok helyzetéről, a rendelkezésre álló likviditásról szóló elemzést,
+- b) a Felügyelet által készített
+  - ba) az egyes hitelintézetek szavatoló tőke helyzetéről szóló értékelést,
+  - bb) az egyes pénzügyi rendszerkockázati tényezőnek minősített hitelintézetek közép- és hosszú távú likviditási helyzetéről szóló értékelést, és
+  - bc) összevont alapú felügyelet vagy kiegészítő felügyelet alá tartozó hitelintézet esetén a csoportszintű közép- és hosszú távú likviditási és szavatoló tőke helyzet megítéléséről szóló értékelést.
 
 ### A PÉNZÜGYI KÖZVETÍTŐRENDSZER STABILITÁSÁNAK MEGŐRZÉSE ÉS BIZTOSÍTÁSA ÉRDEKÉBEN MEGHOZHATÓ INTÉZKEDÉSEK
 
-4. §
+4. § (1) A Nemzetközi Valutaalaptól 2008–2010. években felvett hitel összegéből legfeljebb háromszázmilliárd forint értékű devizaösszeget a Magyar Állam az MNB-nél külön erre a célra megnyitott számlákon helyez el azzal, hogy a forintösszeg meghatározása az elhelyezés napján érvényes, MNB által közzétett hivatalos devizaárfolyamon történik.
+
+(2) Az (1) bekezdés szerinti számlákon lévő szabad pénzeszközt az államháztartásért felelős miniszter az MNB útján kezeli. E pénzeszköz kezelésének szabályairól az államháztartásért felelős miniszter az MNB elnökével megállapodást köt.
 
 ### Az intézkedések közös szabályai
 
@@ -57,9 +61,9 @@ A pénzügyi közvetítőrendszernek a gazdaság egészének működésében bet
 - a)
 - b) tőkét emelhet a hitelintézetben.
 
-(2)
+(2) A Magyar Állam az (1) bekezdésben meghatározott intézkedésből eredő kiadásait a 4. § (1) bekezdésében meghatározott számla terhére teljesíti. A forintban történő kifizetések teljesítéséhez a számlát a kifizetés napján érvényes MNB által közzétett hivatalos devizaárfolyamon számítva kell terhelni.
 
-(3) Az (1) bekezdésben meghatározott esetekben a Magyar Állam nevében az államháztartásért felelős miniszter jár el.
+(3) Az (1) és (2) bekezdésben meghatározott esetekben a Magyar Állam nevében az államháztartásért felelős miniszter jár el.
 
 ### A garanciavállalás szabályai
 
@@ -67,7 +71,12 @@ A pénzügyi közvetítőrendszernek a gazdaság egészének működésében bet
 
 ### A tőkeemelés és befolyásszerzés szabályai
 
-8. § (1) Az 5. § (1) bekezdés b) pontjában meghatározott intézkedések meghozatalára az MNB elnöke javaslata alapján, az e törvényben meghatározottak szerint a hitelintézet kérelmére vagy egyetértésével kerülhet sor.
+8. § (1) Az 5. § (1) bekezdésének b) pontjában meghatározott intézkedések meghozatalára a Felügyelet Felügyeleti Tanácsának elnöke és az MNB elnöke együttes javaslata alapján, az e törvényben meghatározottak szerint
+
+- a) a hitelintézet kérelmére vagy egyetértésével, vagy
+- b) hivatalból, a hitelintézet egyetértése nélkül, a 16. § (1) bekezdésében meghatározott esetben
+
+kerülhet sor.
 
 (2) A hitelintézet kérelmére vagy egyetértésével megvalósuló intézkedés során
 
@@ -96,13 +105,7 @@ A pénzügyi közvetítőrendszernek a gazdaság egészének működésében bet
 
 (5) A Magyar Állam javára e törvény szerint történő részesedésszerzés, valamint a részvényesi jogok gyakorlása esetében a Vtv. rendelkezéseit nem kell alkalmazni.
 
-(6) A Magyar Állam tekintetében a (2) bekezdésben meghatározott tőkeemelésre, illetőleg a befolyásszerzésre a Tpt. befolyásszerzésre, a Ptk. minősített többséget biztosító befolyásszerzésre, a kisebbségi részvényesi jogok gyakorlására, a Tpvt. vállalatok összefonódására vonatkozó szabályait, a Hpt. befolyásoló részesedés megszerzésére vonatkozó szabályait, valamint a jogosult hitelintézet alapszabályában foglalt, egy részvényes vagy részvényesi csoport által gyakorolható szavazati jog legmagasabb mértékét előíró rendelkezéseit nem kell alkalmazni.
-
-9/A. § Az 5. § (1) bekezdés b) pontja szerinti tőkeemelésben részesült hitelintézetnek a Hpt. javadalmazási politikára vonatkozó rendelkezéseit a következő eltérésekkel kell alkalmazni:
-
-- a) a teljesítményjavadalmazást a nettó bevétel százalékában kell meghatározni, ha az nincs összhangban a hitelintézet prudenciális követelményeknek való megfelelésével és a tőkeemelés időben történő megszüntetésével,
-- b) a 8. § (2) bekezdés b) pontja szerinti megállapodásban rendelkezni kell a hitelintézet javadalmazási politikájának a hatékony kockázatkezeléssel és a hosszú távú növekedéssel összhangban álló átalakításáról, ideértve a vezető állású személyek teljes javadalmazásának csökkentését is,
-- c) a hitelintézet vezető állású személyei kizárólag a 8. § (2) bekezdés b) pontja szerinti megállapodásban meghatározott esetben kaphatnak teljesítményjavadalmazást.
+(6) A Magyar Állam tekintetében a (2) bekezdésben meghatározott tőkeemelésre, illetőleg a befolyásszerzésre a Tpt. befolyásszerzésre, a Gt. minősített befolyásszerzésre, a kisebbségi részvényesi jogok gyakorlására, a Tpvt. vállalatok összefonódására vonatkozó szabályait, a Hpt. befolyásoló részesedés megszerzésére vonatkozó szabályait, valamint a jogosult hitelintézet alapszabályában foglalt, egy részvényes vagy részvényesi csoport által gyakorolható szavazati jog legmagasabb mértékét előíró rendelkezéseit nem kell alkalmazni.
 
 ### A különleges osztalékelsőbbséget biztosító részvény
 
@@ -110,11 +113,9 @@ A pénzügyi közvetítőrendszernek a gazdaság egészének működésében bet
 
 (2) A különleges osztalékelsőbbségi részvény a részvényesek között felosztható adózott eredményből a más részvényfajtába, illetve részvényosztályba tartozó részvényeket megelőzően, illetve azoknál kedvezőbb mértékben jogosít osztalékra.
 
-(2a) A különleges osztalékelsőbbségi részvény tulajdonosát a visszaváltási értéken felül időarányos megtérítési igény illeti meg, ha a 12. § (1) bekezdése szerinti visszaváltás időpontja olyan időszakra esik, amelyre vonatkozóan az osztalékfizetésről a közgyűlés még nem döntött, és a visszaváltási érték nem felel meg az Európai Unió működéséről szóló szerződés állami támogatásokra vonatkozó szabályainak.
-
 (3) A különleges osztalékelsőbbségi részvényhez szavazati jog nem kapcsolódik.
 
-(4) A különleges osztalékelsőbbségi részvény esetében a Ptk. 3:231. § (2) bekezdésében foglaltakat nem kell alkalmazni.
+(4) A különleges osztalékelsőbbségi részvény esetében a Gt. 187. §-ának (2) és (3) bekezdésében foglaltakat nem kell alkalmazni.
 
 11. § (1) A különleges osztalékelsőbbségi részvény névértékéről és kibocsátási értékéről a Magyar Állam és a hitelintézet a 8. § (2) bekezdésének b) pontjában meghatározott megállapodásban rendelkezik.
 
@@ -129,10 +130,6 @@ A pénzügyi közvetítőrendszernek a gazdaság egészének működésében bet
 (4) A Magyar Állam a különleges osztalékelsőbbségi részvény kibocsátását követő ötödik év elteltével, e részvények visszaváltási értékével megegyező értéken eladási jogot gyakorolhat a hitelintézettel szemben.
 
 (5) A hitelintézet a (4) bekezdésben foglaltak szerint felajánlott részvényeket köteles megvásárolni, és a vételárat az adásvétel napját követő harmincadik napig a Magyar Állam számára megfizetni.
-
-(6) A 10. § (2a) bekezdés szerinti időarányos megtérítési igényt a hitelintézetnek a számviteli szabályok szerinti rendkívüli ráfordítások között kell elszámolnia, valamint akkor is kifizethető, ha a részvény tulajdonosa az osztalékfizetésről döntő közgyűlés időpontjában már nem szerepel a részvénykönyvben.
-
-(7) Az időarányos megtérítési igény mértékéről, a kifizetése feltételeiről és módjáról a Magyar Állam és a hitelintézet külön megállapodásban rendelkezik.
 
 ### A különleges vétójogot biztosító szavazatelsőbbségi részvény
 
@@ -170,13 +167,74 @@ szóló döntéssel szemben.
 
 ### Tulajdonosi irányítási jog
 
-16–18. §
+16. § (1) A Kormány rendeletben megállapítja, ha a hitelintézet
+
+- a) húsz munkanapot meghaladóan igénybe veszi az MNB rendkívüli likviditási hitelét a legutolsó, könyvvizsgáló által felülvizsgált, az Szmt. szerinti közbenső mérleg készítésére irányadó szabályoknak megfelelően elkészített beszámoló mérlegfőösszegének öt százalékát meghaladó összegben,
+- b) Felügyelet által megállapított szavatoló tőkéje nem éri el a Hpt. e törvény hatálybalépésének napján hatályos 76. §-ának (1) bekezdése szerinti tőkekövetelmény ötven százalékát, vagy
+- c)
+
+és a hitelintézet fizetésképtelensége a magyarországi pénzügyi közvetítőrendszer működésében súlyos károkat okozna.
+
+(2) A Kormány az (1) bekezdés szerinti rendeletét hatályon kívül helyezi, ha
+
+- a) a hitelintézet Felügyelet által megállapított szavatoló tőkéje legalább kilencven egymást követő napon keresztül, folyamatosan a Hpt. 76. § (1) bekezdése szerinti tőkekövetelmény legalább százhuszonöt százaléka, és
+- b) a hitelintézet kilencven egymást követő nap egyikén sem vette igénybe az MNB rendkívüli likviditási hitelét.
+
+(3) A hitelintézet az (1) bekezdés alapján kiadott kormányrendelet hatálybalépését megelőző napra, mint fordulónapra – a kormányrendelet hatálybalépésétől számított kilencven napon belül – az Szmt. szerinti, független könyvvizsgáló által felülvizsgált közbenső mérleget készít.
+
+(4) Az a hitelintézet, amely az Szmt. rendelkezései alapján konszolidált beszámoló készítésére kötelezett, a (3) bekezdés szerinti közbenső mérlegét az Szmt. konszolidált éves beszámolóra vonatkozó követelményeinek megfelelően készíti el.
+
+(5) A Kormány az (1) bekezdés szerinti rendeletét akkor is hatályon kívül helyezi, ha a rendelet hatálybalépését követően öt év és egy nap eltelt.
+
+(6) A (3) bekezdés szerinti felülvizsgálatra nem lehet megbízni azt a könyvvizsgálót, könyvvizsgálói társaságot, aki a közbenső mérleg fordulónapját megelőző két üzleti évben a hitelintézet számára könyvvizsgálatot végzett. A közbenső mérleg felülvizsgálatát végző könyvvizsgáló, könyvvizsgálói társaság a felülvizsgálatot követő három üzleti éven belül nem jelölhető ki a hitelintézet könyvvizsgálójává.
+
+17. § (1) A hitelintézet, vagy a hitelintézet részvényese kezdeményezheti, hogy a Fővárosi Ítélőtábla nemperes eljárásban állapítsa meg, hogy
+
+- a) a 16. § (1) bekezdésben foglalt feltételek a Kormány rendeletének kihirdetésekor nem teljesültek,
+- b) a 16. § (2) bekezdésben foglalt feltételek a Kormány 16. § (1) bekezdése szerinti rendeletének kihirdetését követően legalább egy napig teljesültek.
+
+(2) Az (1) bekezdésben meghatározott kérelemről a bíróság haladéktalanul rövid úton értesíti az államháztartásért felelős minisztert.
+
+(3) Bizonyítási indítványt a kérelmező kizárólag a kérelmében, a kérelmezett kizárólag az érdemi ellenkérelmében terjeszthet elő.
+
+(4) Az eljárás során
+
+- a) a kérelem megváltoztatásának vagy viszontkérelem benyújtásának,
+- b) az eljárás felfüggesztésének,
+- c) a mulasztás igazolásának
+
+nincs helye.
+
+(5) Az eljárás során a bíróság a feleket meghallgatja, és tárgyalást tarthat. A tárgyalás bármelyik fél távollétében is megtartható. A bíróság a kérelemről a beérkezésétől számított nyolc napon belül dönt.
+
+(6) A bíróság az írásba foglalt határozatot annak kihirdetésekor átadja, vagy annak meghozatalát követően haladéktalanul kézbesíti a feleknek vagy képviselőiknek. A bíróság határozatával szemben a kihirdetést vagy a kézbesítést követő három napon belül fellebbezésnek van helye.
+
+(7) A fellebbezésről a Legfelsőbb Bíróság három napon belül dönt. A Legfelsőbb Bíróság a Fővárosi Ítélőtábla határozatát helybenhagyja vagy megváltoztatja. A Legfelsőbb Bíróság az írásba foglalt határozatot annak kihirdetésekor átadja, vagy annak meghozatalát követően haladéktalanul kézbesíti a feleknek vagy képviselőiknek.
+
+(8) Ha a bíróság a jogerős határozatában azt állapítja meg, hogy a 16. § (1) bekezdésében foglaltak feltételek a Kormány rendeletének kihirdetésekor nem teljesültek, vagy a 16. § (2) bekezdésében foglalt feltételek a Kormány 16. § (1) bekezdése szerinti rendeletének kihirdetését követően legalább egy napig teljesültek, a Kormány a rendeletét hatályon kívül helyezi úgy, hogy az a bíróság határozatának kihirdetésétől számított három napon belül hatályát veszítse.
+
+18. § (1) A Magyar Állam a 16. § (1) bekezdés szerinti rendelet időbeli hatálya alatt kizárólagosan jogosult a hitelintézet közgyűlésének hatáskörébe tartozó ügyekben való döntésre. A Magyar Állam nevében az államháztartásért felelős miniszter jár el.
+
+(2) A Magyar Állam a közgyűlés hatáskörében eljárva meghozott döntéseit a hitelintézet vezető tisztségviselőivel és a felügyelőbizottság tagjaival haladéktalanul, írásban közli.
+
+(3) A Magyar Állam a közgyűlés hatáskörében eljárva köteles a Gt.-nek a minősített többséget biztosító befolyással rendelkező részvényesre vonatkozó szabályai, és a hitelintézet stabil működése helyreállításához fűződő érdekek elsődlegessége alapján eljárni.
+
+(4) A Magyar Állam a hitelintézettel szemben korlátlanul felel a Magyar Állam által a (3) bekezdésben meghatározott kötelezettség felróható megszegésével okozott károkért.
+
+(5) A Kormány 16. § (1) bekezdése alapján kiadott rendeletének hatálybalépése napjától számított százhuszadik napig a hitelintézet részvényese a 16. § (3) és (4) bekezdése alapján elkészített közbenső mérleg szerinti egy részvényre – tulajdoni hányad alapján – jutó saját tőke értékével megegyező értéken eladási jogot gyakorolhat a Magyar Állammal szemben.
+
+(6) A Magyar Állam az (5) bekezdés szerinti felajánlott részvényeket köteles megvásárolni és az eladási jog gyakorlására nyitva álló határidő utolsó napját követő harmincadik napig a vételárat a részvényesnek megfizetni.
+
+(7) A Magyar Állam a részvényes ténylegesen felmerült kárával megegyező kártalanítással tartozik az államháztartásért felelős miniszter által a hitelintézet közgyűlésének hatáskörébe tartozó döntésével okozott károkért arra az időtartamra, amikor a Kormány 16. § (1) bekezdésében meghatározott olyan rendelete volt hatályban, amit az Alkotmánybíróság megsemmisített, vagy amelyről a bíróság jogerős ítéletében megállapította, hogy kihirdetésekor a 16. § (1) bekezdésében foglalt feltételek nem teljesültek.
 
 ### ZÁRÓ ÉS ÁTMENETI RENDELKEZÉSEK
 
 ### Felhatalmazó rendelkezések
 
-19. §
+19. § Felhatalmazást kap a Kormány, hogy
+
+- a)
+- b) a 16. § (1) bekezdése alapján rendeletet adjon ki.
 
 ### Hatálybalépés
 
@@ -232,21 +290,19 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 
 ### Átmeneti rendelkezések
 
-24. § (1) A Magyar Állam az e törvényben foglalt intézkedéseiről – ide nem értve az államháztartásért felelős miniszternek a különleges osztalékelsőbbségi részvény tekintetében az eladási joga gyakorlására vonatkozó döntését – 2012. december 31-ig dönthet.
+24. § (1) A Magyar Állam az e törvényben foglalt intézkedéseiről – ide nem értve az államháztartásért felelős miniszternek a különleges osztalékelsőbbségi részvény tekintetében az eladási joga gyakorlására vonatkozó döntését – 2010. december 30-ig dönthet.
 
-(2) A 2012. december 31-ig meghozott döntés alapján a Magyar Államnak és a hitelintézetnek az 5–19. §-okban foglaltak szerint kell eljárnia akkor is, ha e törvény hatályát veszti.
-
-(3) Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 127. és 128. §-ával megállapított 10. § (2a) bekezdés, 12. § (6) és (7) bekezdés a hatálybalépését megelőzően megvalósult tőkeemelésre is alkalmazható.
+(2) A 2010. december 31-ig meghozott döntés alapján a Magyar Államnak és a hitelintézetnek a 4–19. §-okban foglaltak szerint kell eljárnia akkor is, ha e törvény hatályát veszti.
 
 ### Melléklet a 2008. évi CIV. törvényhez
 
-- 1. Áht.: az államháztartásról szóló 2011. évi CXCV. törvény,
+- 1. Áht.: az államháztartásról szóló 1992. évi XXXVIII. törvény,
 - 2. Bszt.: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény,
 - 3. Ctv.: a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény,
-- 4. Ptk.: a Polgári Törvénykönyvről szóló 2013. évi V. törvény,
-- 5. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény,
-- 6. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,
-- 7.
+- 4. Gt.: a gazdasági társaságokról szóló 2006. évi IV. törvény,
+- 5. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény,
+- 6. MNB tv.: a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény,
+- 7. Psztv.: a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2007. évi CXXXV. törvény,
 - 8. Szmt.: a számvitelről szóló 2000. évi C. törvény,
 - 9. Tpt.: a tőkepiacról szóló 2001. évi CXX. törvény,
 - 10. Tpvt.: a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény,
