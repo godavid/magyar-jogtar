@@ -21,7 +21,7 @@ Az Országgyűlés abból a célból, hogy az állatorvosok önkormányzati elve
 
 (5) Az országos szervezet székhelye Budapest.
 
-(6)
+(6) Az országos szervezet jogosult a Magyar Köztársaság címerének használatára.
 
 (7) Az ,,állatorvosi kamara'', illetőleg ,,Magyar Állatorvosi Kamara'' elnevezés használatára, valamint e törvényben írt közfeladat ellátására kizárólag a területi szervezet és az országos szervezet jogosult.
 
@@ -271,7 +271,7 @@ Az Országgyűlés abból a célból, hogy az állatorvosok önkormányzati elve
 
 (3) Ha az állatorvost a kamara a tagjai közé felveszi, az új tagot a névjegyzékbe be kell jegyezni, és ki kell adni részére a tagsági igazolványt, valamint a magánállatorvosi tevékenység gyakorlására jogosító igazolványt.
 
-(4) A tagfelvételt elutasító határozat közléséről a határozat meghozatalától számított harminc napon belül kell gondoskodni. A jogerős határozat bírósági felülvizsgálata során a bíróság a megtámadott határozatot megváltoztathatja.
+(4) A tagfelvételt elutasító határozatot a határozat meghozatalától számított huszonkét munkanapon belül kell a kérelmezővel közölni. A jogerős határozat bírósági felülvizsgálata során a bíróság a megtámadott határozatot megváltoztathatja.
 
 (5)
 

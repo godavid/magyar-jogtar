@@ -48,8 +48,6 @@ Vhr.2. § A beszámíthatóságot kizáró vagy korlátozó elmeállapot tekinte
 
 (2) Nem vonható felelősségre az, aki a cselekményt abban a téves feltevésben követi el, hogy magatartása nem jogellenes és erre a feltevésre alapos oka van.
 
-(3) A rendőrségről szóló törvényben meghatározott szabálysértés miatt nem vonható felelősségre a rendőrségről szóló törvényben meghatározott megbízhatósági vizsgálatot folytató személy, ha a szabálysértést jogszabályban meghatározott feladata során, ügyész előzetes jóváhagyásával követi el, feltéve, hogy a szabálysértés elkövetése bűnfelderítési érdeket szolgál.
-
 10. § (1) Ha a szabálysértést meghatározó jogszabály úgy rendelkezik, az eljárás alá vont személy csak a sértett kívánságára (magánindítvány), illetve a feljelentésre jogosult szerv feljelentése alapján vonható felelősségre.
 
 (2) Ha a sértett korlátozottan cselekvőképes, a magánindítványt törvényes képviselője is, ha pedig cselekvőképtelen, törvényes képviselője terjesztheti elő. Ezekben az esetekben a magánindítvány előterjesztésére a gyámhatóság is jogosult.
@@ -107,29 +105,31 @@ Vhr.3. §
 
 14. § (1) Szabálysértés miatt elzárást törvény állapíthat meg.
 
-(2) Az elzárás legrövidebb időtartama egy nap, leghosszabb tartama – a 24. § (1) bekezdésében foglaltak kivételével – hatvan nap, fiatalkorú esetén harminc nap. Az elzárás végrehajtása során a fiatalkorút a felnőtt korútól el kell különíteni.
+(2) Az elzárás legrövidebb időtartama egy nap, leghosszabb tartama – a 24. § (1) bekezdésében foglaltak kivételével – hatvan nap.
 
 (3) Az elzárás tartamába a szabálysértési őrizet teljes idejét, valamint a négy órát meghaladó előállítás tartamát be kell számítani. A szabálysértési őrizet beszámításakor minden olyan naptári nap, amelyen az elkövető fogvatartásban volt, egy napi elzárásnak felel meg. A négy órát meghaladó előállítás egy napi elzárásnak felel meg.
 
 15. § Nincs helye elzárásnak, ha az eljárás alá vont személy
 
-- a) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvényben meghatározott fogyatékos személy, illetve kórházi fekvőbeteg ellátásban részesül,
-- b) a terhesség negyedik hónapját elérő nő, tizennegyedik életévét be nem töltött gyermekét egyedül nevelő szülő vagy fogyatékos, illetőleg folyamatos ápolást igénylő hozzátartozójáról egyedül gondoskodik.
+- a) fiatalkorú;
+- b) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 4. §-ának a) pontjában meghatározott fogyatékos személy, kórházi fekvőbeteg-ellátásban részesül, illetőleg kórházi kezelése válik szükségessé;
+- c) a terhesség negyedik hónapját elérő nő, tizenhat éves korát be nem töltő gyermekét egyedül nevelő szülő, vagy fogyatékos, illetőleg folyamatos ápolást igénylő hozzátartozójáról egyedül gondoskodik.
 
 ### A pénzbírság
 
 16. § (1) A pénzbírság legalacsonyabb összege háromezer forint, legmagasabb összege százötvenezer forint.
 
-(2) Önkormányzati rendelet ötvenezer forintban állapíthatja meg a pénzbírság legmagasabb összegét.
+(2) Az önkormányzati rendelet harmincezer forintban állapíthatja meg a pénzbírság legmagasabb összegét.
 
 17. § (1) A pénzbírságot meg nem fizetés esetén, ha adók módjára nem hajtható be, közérdekű munkára vagy elzárásra kell átváltoztatni.
 
 (2) Nincs helye elzárásra történő átváltoztatásnak, ha az eljárás alá vont személy
 
-- a) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvényben meghatározott fogyatékos személy, illetve kórházi fekvőbeteg ellátásban részesül,
-- b) a terhesség negyedik hónapját elérő nő, tizennegyedik életévét be nem töltött gyermekét egyedül nevelő szülő vagy fogyatékos, illetőleg folyamatos ápolást igénylő hozzátartozójáról egyedül gondoskodik.
+- a) fiatalkorú;
+- b) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 4. §-ának a) pontjában meghatározott fogyatékos személy, kórházi fekvőbeteg-ellátásban részesül, illetőleg kórházi kezelése válik szükségessé;
+- c) a terhesség negyedik hónapját elérő nő, tizenhat éves korát be nem töltő gyermekét egyedül nevelő szülő, vagy fogyatékos, illetőleg folyamatos ápolást igénylő hozzátartozójáról egyedül gondoskodik.
 
-(3) A (2) bekezdés esetében nincs helye közérdekű munkára átváltoztatásnak.
+(3) A (2) bekezdés b) és c) pontja esetében nincs helye közérdekű munkára átváltoztatásnak.
 
 (4) Egy napi közérdekű munkának ötezer forint pénzbírság felel meg.
 
@@ -187,7 +187,7 @@ Vhr.5. §
 
 ### Kitiltás
 
-22/A. § (1) A szabálysértési hatóság és a bíróság a büntetés alkalmazása mellett vagy önálló intézkedésként az eljárás alá vont személyt a sportrendezvényen való részvétellel, az odautazással, vagy az onnan történő távozással összefüggő szabálysértés miatt kitilthatja bármelyik sportszövetség versenyrendszerében megrendezésre kerülő sportrendezvényről, valamint bármelyik sportszövetség versenyrendszerében megrendezett sportesemény helyszínéül szolgáló sportlétesítményből.
+22/A. § (1) A szabálysértési hatóság a büntetés alkalmazása mellett vagy önálló intézkedésként az eljárás alá vont személyt a sportrendezvényen való részvétellel összefüggő szabálysértés miatt kitilthatja a sportrendezvényről, illetve sportlétesítményből.
 
 (2) A kitiltás legrövidebb időtartama hat hónap, leghosszabb időtartama pedig két év.
 
@@ -197,7 +197,7 @@ Vhr.5. §
 
 (2) Büntetés kiszabásakor és az intézkedés alkalmazásakor figyelembe kell venni a szabálysértés elkövetésének időpontját megelőző két éven belül az elkövető által elkövetett ugyanolyan vagy hasonló jellegű szabálysértés miatt történt felelősségre vonást.
 
-24. § (1) Ha az eljárás alá vont személyt ugyanabban az eljárásban több elzárással sújtható szabálysértés miatt vonják felelősségre, az elzárás leghosszabb tartama kilencven nap, fiatalkorúak esetében negyvenöt nap.
+24. § (1) Ha az eljárás alá vont személyt ugyanabban az eljárásban több elzárással sújtható szabálysértés miatt vonják felelősségre, az elzárás leghosszabb tartama kilencven nap.
 
 (2) Ha az eljárás alá vont személyt ugyanazon szabálysértési hatóság előtt, ugyanabban az eljárásban több szabálysértés miatt vonják felelősségre, a legsúlyosabb szabálysértésre megállapított pénzbírság felső határa a felével emelhető, de nem érheti el az egyes szabálysértésekre megállapított pénzbírság felső határának együttes összegét.
 
@@ -237,9 +237,9 @@ napján.
 
 27. § (1) A központi szabálysértési nyilvántartás (a továbbiakban: szabálysértési nyilvántartás) célja az eljárás alá vont személy szabálysértési előéletének nyilvántartása a szabálysértési eljárás gyors és pontos lefolytatása, a szabálysértési végrehajtási rendszer megerősítése, továbbá a nyilvántartásból történő adatszolgáltatás útján az érintett jogai gyakorlásának biztosítása, valamint mások jogainak és biztonságának védelme érdekében.
 
-(2) A szabálysértési nyilvántartással kapcsolatos eljárásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit az e törvényben és az elektronikus kapcsolattartás formájára és módjára vonatkozóan az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott eltéréssel kell alkalmazni.
+(2) A szabálysértési nyilvántartással kapcsolatos eljárásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
-(3) A szabálysértési nyilvántartás tekintetében az adatkezelői feladatokat a Kormány által rendeletben kijelölt szerv (a továbbiakban: szabálysértési nyilvántartó szerv) látja el. A szabálysértési nyilvántartó szerv a szabálysértési nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+(3) A szabálysértési nyilvántartás tekintetében az adatkezelői feladatokat a Kormány által rendeletben kijelölt szerv (a továbbiakban: szabálysértési nyilvántartó szerv) látja el.
 
 (4) A szabálysértési nyilvántartás törvényességi felügyeletét a Legfőbb Ügyészség látja el.
 
@@ -262,7 +262,7 @@ napján.
 
 (2) A szabálysértési nyilvántartás részére az (1) bekezdésben meghatározott adatokat jogszabályban meghatározott formában és módon közli:
 
-- a) a bíróság az előtte indult szabálysértési eljárásokban az (1) bekezdés a)–e) és i) pontok esetén, a szabálysértési hatóság az (1) bekezdés a)–h) pontok esetén,
+- a) az (1) bekezdés a)–i) pontja esetében az eljáró bíróság illetőleg szabálysértési hatóság,
 - b) az (1) bekezdés j) pontja esetén a méltányossági döntést hozó szerv,
 - c) az (1) bekezdés k) pontja esetén az engedélyező szerv,
 - d) az (1) bekezdés l) pontja esetén a büntetés-végrehajtási intézet.
@@ -272,13 +272,11 @@ napján.
 - a) a személyiadat- és lakcímnyilvántartás hatálya alá tartozó személyek esetében a személyiadat- és lakcímnyilvántartás központi szerve által kezelt adatokkal,
 - b) az idegenrendészeti nyilvántartások hatálya alá tartozó személyek esetében a központi idegenrendészeti nyilvántartást vezető szerv által kezelt adatokkal.
 
-(2) Az adatközlést a nyilvántartásba vételt megalapozó, illetőleg a nyilvántartott adatot érintő változás bekövetkezésének napjától számított nyolc napon belül elektronikus úton kell teljesíteni. Az adatváltozást az adategyeztetés után a szabálysértési nyilvántartásban át kell vezetni.
+(2) Az adatközlést a nyilvántartásba vételt megalapozó, illetőleg a nyilvántartott adatot érintő változás bekövetkezésének napjától számított három munkanapon belül elektronikus úton kell teljesíteni. Az adatváltozást az adategyeztetés után a szabálysértési nyilvántartásban át kell vezetni.
 
 27/C. § (1) A szabálysértési nyilvántartó szerv a szabálysértési nyilvántartásba felvett adatokat a büntetést vagy intézkedést megállapító határozat jogerőre emelkedésétől számított három évig kezeli.
 
 (2) Törölni kell a nyilvántartásból annak a személynek az adatait, akire vonatkozóan a nyilvántartási idő eltelt.
-
-(2a) Törölni kell a nyilvántartásból annak a személynek az adatait, akinek ügyében az Alkotmánybíróság a bíróság jogerős határozatát megsemmisítette. Az ezzel kapcsolatos adatokat a megsemmisített jogerős bírósági határozatot hozó bíróság küldi meg a szabálysértési nyilvántartás részére.
 
 27/D. § (1) A szabálysértési nyilvántartásból törvényben meghatározott feladataik ellátása céljából adatok átvételére jogosult
 
@@ -289,7 +287,7 @@ napján.
 - e) a nyomozó hatóságok és
 - f) a nemzetbiztonsági szolgálatok.
 
-(2) A szabálysértési nyilvántartó szerv a sportrendezvényről történő kitiltás hatálya alatt álló személy családi és utónevét, születési helyét és idejét, anyja születési családi és utónevét, a 27/A. § (1) bekezdés b) pont ba) alpontban, valamint a 27/A. § (1) bekezdés e) pontban szereplő adatokat a sportról szóló törvényben meghatározott sportrendészeti nyilvántartás részére történő adatátadás útján a sportrendezvény szervezőjének, rendező alkalmazása esetén a rendezőnek, valamint a jegyértékesítést a szervező megbízásából végző személynek továbbíthatja.
+(2) A sportrendezvényről történő kitiltás hatálya alatt álló személyről a 27/A. § (1) bekezdés szerinti adatok közül a kitiltás hatálya alatt álló személy nevét, anyja nevét, születési idejét a szabálysértési nyilvántartó szerv kérelemre az érintett sportrendezvény szervezője részére átadhatja. A sportrendezvény szervezőjét személyes adatkezelőnek kell tekinteni, aki a kitiltás hatályának megszűnését követően haladéktalanul köteles a személyes adat törléséről gondoskodni.
 
 (3) Az (1) és (2) bekezdésben felsoroltakon kívül a szabálysértési nyilvántartásból adatigénylésre jogosult az is, akit a hatáskörébe tartozó feladat ellátása érdekében törvény feljogosít a szabálysértési nyilvántartás adatainak megismerésére.
 
@@ -303,11 +301,11 @@ napján.
 
 (3) A szabálysértési nyilvántartó szerv a jogosultak részére az adatigénylés iránti kérelem kézhezvételétől számított nyolc napon belül teljesíti az adatszolgáltatást.
 
-(4) A szabálysértési nyilvántartó szerv az érintettnek a róla nyilvántartott személyes adatáról az információs önrendelkezési jogról és az információszabadságról szóló törvényben foglaltak szerint ad tájékoztatást.
+(4) A szabálysértési nyilvántartó szerv az érintettnek a róla nyilvántartott személyes adatáról a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben foglaltak szerint ad tájékoztatást.
 
 (5) Az adatigénylés és a tájékoztatás iránti kérelem elektronikus úton is előterjeszthető.
 
-27/F. § Az adatkezelés jogszerűségének ellenőrzése érdekében a szabálysértési nyilvántartásba a szabálysértési nyilvántartó szerv szakmai felügyeletét ellátó miniszter, illetve az általa meghatalmazott személy, továbbá a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke, elnökhelyettese és köztisztviselője, valamint a törvényességi felügyeletet ellátó ügyész tekinthet be.
+27/F. § Az adatkezelés jogszerűségének ellenőrzése érdekében a szabálysértési nyilvántartásba a szabálysértési nyilvántartó szerv szakmai felügyeletét ellátó miniszter, az adatvédelmi biztos, illetve az általuk meghatalmazott személy, valamint a törvényességi felügyeletet ellátó ügyész tekinthet be.
 
 27/G. § A nyilvántartásban kezelt adatok statisztikai, illetve tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók.
 
@@ -329,7 +327,7 @@ napján.
 
 (6) Az adattovábbítási nyilvántartásból adatigénylésre jogosult az érintetten kívül
 
-- a) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
+- a) az adatvédelmi biztos,
 - b) bűncselekmény gyanúja esetén az eljáró nyomozó hatóság vagy ügyészség,
 - c) az adattovábbításban érintett szabálysértési hatóság vezetője,
 - d) a nemzetbiztonsági szolgálatok.
@@ -348,7 +346,7 @@ napján.
 
 ### Katonákra vonatkozó rendelkezések
 
-30. § (1) A fegyveres szervek (honvédség, rendőrség, polgári védelem, a büntetés-végrehajtási szervezet, állami és hivatásos önkormányzati tűzoltóság, polgári nemzetbiztonsági szolgálatok) és a Nemzeti Adó- és Vámhivatal hivatásos (szerződéses, önkéntes tartalékos) állományú tagja által a szolgálati viszony tartama alatt a szolgálati helyen, illetőleg a szolgálattal összefüggésben elkövetett szabálysértést fegyelmi eljárás keretében kell elbírálni. A fegyelmi hatóság – amennyiben elkobzás, illetőleg járművezetéstől eltiltás szükségessége felmerül – a szabálysértési hatóságot eljárása eredményéről értesíti. Ha a szolgálati viszony a szabálysértés elbírálása előtt megszűnt, a szabálysértést a szabálysértési hatóság bírálja el.
+30. § (1) A fegyveres szervek (honvédség, rendőrség, polgári védelem, vám- és pénzügyőrség, a büntetés-végrehajtási szervezet, állami és hivatásos önkormányzati tűzoltóság, polgári nemzetbiztonsági szolgálatok) hivatásos (szerződéses) állományú tagja által a szolgálati viszony tartama alatt a szolgálati helyen, illetőleg a szolgálattal összefüggésben elkövetett szabálysértést fegyelmi eljárás keretében kell elbírálni. A fegyelmi hatóság – amennyiben elkobzás, illetőleg járművezetéstől eltiltás szükségessége felmerül – a szabálysértési hatóságot eljárása eredményéről értesíti. Ha a szolgálati viszony a szabálysértés elbírálása előtt megszűnt, a szabálysértést a szabálysértési hatóság bírálja el.
 
 (2) Az (1) bekezdésben meghatározott esetben az elkobzásról, illetőleg a járművezetéstől eltiltásról a szabálysértési hatóság rendelkezik.
 
@@ -384,7 +382,7 @@ Vhr.8. § (1) A fegyveres szervek hivatásos állományú tagja (a továbbiakban
 
 Vhr.9. § A rendőrség hatáskörébe tartozó szabálysértések esetén a bűnügyi, a közrendvédelmi, a közlekedésrendészeti szolgálati ágak, továbbá az egyes feladatok ellátására létrehozott rendőri szervek szakmai feladataiknak megfelelően szabálysértési hatósági jogkörben járnak el.
 
-34. § (1) A pénzügyi szabálysértés, valamint kormányrendeletben meghatározott szabálysértések miatt a Nemzeti Adó- és Vámhivatal vámszerve, jár el.
+34. § (1) A pénzügyi szabálysértés, valamint kormányrendeletben meghatározott szabálysértések miatt a vámhatóság jár el.
 
 (2)
 
@@ -396,10 +394,10 @@ Vhr.9. § A rendőrség hatáskörébe tartozó szabálysértések esetén a bű
 - b) az egészségügyi államigazgatási szerv;
 - c) a fogyasztóvédelmi hatóság;
 - d) a bányafelügyelet;
-- e) a munkavédelmi hatóság;
-- f) a hivatásos katasztrófavédelmi szerv;
+- e) a munkaügyi hatóság és a munkavédelmi hatóság;
+- f)
 - g) a védett természeti területek természetvédelmi kezeléséért felelős szerv;
-- h) a Nemzeti Adó- és Vámhivatal Kormány által kijelölt szerve;
+- h) az állami adóhatóság;
 - i) a közoktatási feladatkörében eljáró oktatási hivatal;
 - j) az élelmiszerlánc-felügyeleti szerv;
 - k) a szociális hatóság.
@@ -408,13 +406,11 @@ Vhr.9. § A rendőrség hatáskörébe tartozó szabálysértések esetén a bű
 
 36. § (1) A szabálysértési hatóság határozata ellen benyújtott kifogást – az e törvényben meghatározott szabályok szerint – a helyi bíróság bírálja el.
 
-(2) Elzárással is sújtható szabálysértés miatt első fokon a helyi bíróság jár el. Az első fokú bíróság határozata ellen benyújtott fellebbezést – az e törvényben meghatározott szabályok szerint – másodfokon a törvényszék bírálja el.
+(2) Elzárással is sújtható szabálysértés miatt első fokon a helyi bíróság jár el. Az első fokú bíróság határozata ellen benyújtott fellebbezést – az e törvényben meghatározott szabályok szerint – másodfokon a megyei bíróság bírálja el.
 
-(3) A szabálysértési hatóság eljárása, határozatai és intézkedései törvényességének biztosítása érdekében tett ügyészi fellépés tárgyában a helyi bíróság dönt.
+(3) A szabálysértési hatóság eljárása, határozatai és intézkedései ellen emelt ügyészi óvást – ha azzal a szabálysértési hatóság nem ért egyet – a helyi bíróság bírálja el.
 
-(4) E törvény alkalmazásában helyi bíróság alatt a városi és a kerületi bíróságot is érteni kell.
-
-(5) E törvény alkalmazásában a helyi bíróság jogkörében bírósági titkár is eljárhat.
+(4) E törvény alkalmazásában helyi bíróság alatt a városi és kerületi bíróságot, a megyei bíróság alatt a Fővárosi Bíróságot is érteni kell.
 
 ### A felettes közigazgatási szerv jogköre
 
@@ -427,11 +423,11 @@ Vhr.9. § A rendőrség hatáskörébe tartozó szabálysértések esetén a bű
 
 ### Illetékesség
 
-38. § (1) Az eljárásra az eljárás alá vont személy lakóhelye szerinti szabálysértési hatóság illetékes.
+38. § (1) Az eljárásra az a szabálysértési hatóság illetékes, amelynek az illetékességi területén a szabálysértést elkövették.
 
-(2) Ha az eljárás gyorsabb és eredményesebb lefolytatása indokolja, szabálysértési ügyben az eljárás alá vont személy tartózkodási helye, munkahelye, szolgálati helye, az elkövetés helye, továbbá a cselekmény felderítésének helye szerint illetékes szabálysértési hatóság is eljárhat.
+(2) Ha a szabálysértést több szabálysértési hatóság illetékességi területén követték el, vagy az elkövetés helye nem állapítható meg, a szabálysértési hatóságok közül az jár el, amelyik az ügyben korábban intézkedett (megelőzés).
 
-(3) Ha több eljárás alá vont személy van, és különböző helyeken laknak, bármelyikük lakóhelye szerint illetékes szabálysértési hatóság is eljárhat.
+(3) Ha az eljárás gyorsabb és eredményesebb lefolytatása indokolja, a szabálysértési ügyben az eljárás alá vont személy lakóhelye, tartózkodási helye, munkahelye, szolgálati helye, továbbá a cselekmény felderítésének helye szerint illetékes szabálysértési hatóság is eljárhat.
 
 (4)
 
@@ -481,7 +477,7 @@ Vhr.11. § (1) Ha az eljárás megindításáról a sértett tudomást szerzett,
 
 (3) Bíróval szemben felmerült kizárási ok esetében a bíróság elnöke intézkedik más bíró kijelöléséről.
 
-(4) Ha a kizárási ok a bíróság elnökével szemben merül fel, továbbá, ha a bíróságnak nincs olyan tagja, akire kizárási ok nem vonatkozik, a kizárásról a törvényszék határoz. Ha a bíróság a kizárás iránti bejelentésnek helyt ad, az illetékességi területén működő másik helyi bíróságot jelöli ki.
+(4) Ha a kizárási ok a bíróság elnökével szemben merül fel, továbbá, ha a bíróságnak nincs olyan tagja, akire kizárási ok nem vonatkozik, a kizárásról a megyei bíróság határoz. Ha a bíróság a kizárás iránti bejelentésnek helyt ad, az illetékességi területén működő másik helyi bíróságot jelöli ki.
 
 (5) A kizárás e törvényben nem szabályozott eseteire a büntetőeljárásról szóló törvény rendelkezéseit kell értelemszerűen alkalmazni.
 
@@ -507,7 +503,7 @@ Vhr.11. § (1) Ha az eljárás megindításáról a sértett tudomást szerzett,
 
 (3) Az eljárás alá vont személy az eljárás valamennyi szakaszában az eljárás résztvevőihez kérdést intézhet, észrevételeket, indítványokat tehet, a szabálysértési hatóságtól, az ügyésztől és a bíróságtól felvilágosítást kérhet.
 
-(4) Az eljárás alá vont személy az ügy iratait az eljárás bármely szakaszában megtekintheti, azokról másolatot kérhet, illetve készíthet. A minősített adatot tartalmazó másolatot a hatóság épületéből nem viheti ki.
+(4) Az eljárás alá vont személy az ügy iratait az eljárás bármely szakaszában megtekintheti, azokról másolatot kérhet, illetve készíthet. Az államtitkot vagy szolgálati titkot tartalmazó másolatot a hatóság épületéből nem viheti ki.
 
 Vhr.12. § (1) Az eljárás alá vont személynek az ügy irataiba történő betekintését, az általa kért másolati iratok kiadását – a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény rendelkezései szerint – az eljárás megindításától az eljárás befejezéséig biztosítani kell. A betekintés és a másolati iratok kiadásának tényét az iraton fel kell jegyezni.
 
@@ -543,7 +539,7 @@ Vhr.13. § Az ügyvéd meghatalmazását írásba vagy jegyzőkönyvbe kell fogl
 (2) A sértett
 
 - a) az eljárás során az őt érintő iratokat megtekintheti, azokról másolatot kérhet, illetőleg készíthet;
-- b) a minősített adatot tartalmazó másolatot a hatóság épületéből nem viheti ki;
+- b) az államtitkot vagy szolgálati titkot tartalmazó másolatot a hatóság épületéből nem viheti ki;
 - c) az eljárás minden szakaszában észrevételt, indítványt tehet, jogairól és kötelességeiről az eljáró hatóságtól felvilágosítást kérhet;
 - d) az eljárás alá vont személlyel szemben a szabálysértés folytán keletkezett kárának megtérítését az e törvényben meghatározott feltételek mellett kérheti.
 
@@ -640,7 +636,9 @@ Vhr.13. § Az ügyvéd meghatalmazását írásba vagy jegyzőkönyvbe kell fogl
 
 62. § (1) Ha a nem magyar anyanyelvű személy az eljárás során az anyanyelvét vagy az általa értett nyelvet kívánja használni, tolmácsot kell igénybe venni.
 
-(2) Ha a meghallgatandó személy hallássérült, kérésére jelnyelvi tolmács közreműködésével kell kihallgatni, vagy a kihallgatás helyett írásban is nyilatkozatot tehet. Ha a meghallgatandó személy siketvak, kérésére jelnyelvi tolmács közreműködésével kell kihallgatni. Ha a meghallgatandó személy beszédfogyatékos, kérésére a kihallgatás helyett írásban tehet nyilatkozatot.
+(2) Ha a meghallgatandó személy süket vagy néma, tolmács igénybevételével vagy írásbeli érintkezés útján kell meghallgatni.
+
+[(2) Ha a meghallgatandó személy hallássérült, kérésére jelnyelvi tolmács közreműködésével kell kihallgatni, vagy a kihallgatás helyett írásban is nyilatkozatot tehet. Ha a meghallgatandó személy siketvak, kérésére jelnyelvi tolmács közreműködésével kell kihallgatni. Ha a meghallgatandó személy beszédfogyatékos, kérésére a kihallgatás helyett írásban tehet nyilatkozatot.]
 
 (3) E törvénynek a szakértőre vonatkozó rendelkezései a tolmácsra is megfelelően irányadóak. Tolmácson a fordítót is érteni kell.
 
@@ -695,8 +693,6 @@ Vhr.14. § (1) Ha az eljárás alá vont a személyi körülményeiről nem hajl
 
 - a) ha az ügy érdemi elbírálása olyan kérdés előzetes eldöntésétől függ, amelyben a döntés más szerv hatáskörébe tartozik;
 - b) ha az ismert eljárás alá vont személy távolléte az ügy érdemi elbírálását nem teszi lehetővé.
-
-(1a) A bíróság az eljárást hivatalból vagy indítványra felfüggeszti és az Alkotmánybíróság eljárását kezdeményezi, ha az ügy elbírálása során olyan jogszabályt vagy közjogi szervezetszabályozó eszközt, illetve jogegységi határozatot kell alkalmazni, amelynek alaptörvény-ellenességét vagy nemzetközi szerződésbe ütközését észleli.
 
 (2) Az eljárás felfüggesztése a 11. § (1) bekezdése szerinti elévülés tartamába nem számít be. A cselekmény elkövetésétől számított két éven belül azonban az eljárást a rendelkezésre álló adatok alapján be kell fejezni.
 
@@ -864,7 +860,7 @@ f) a külföldi közúti közlekedési balesetével kapcsolatos kárrendezés é
 - b) akivel szemben az eljárás azonnal lefolytatható;
 - c) akitől szabálysértés bizonyítása érdekében vizeletvétel vagy véralkohol-vizsgálat céljából vérvétel szükséges.
 
-(2) A Nemzeti Adó- és Vámhivatal szolgálati jogviszonyban álló tagja jogosult a Nemzeti Adó- és Vámhivatal vámszerve hatáskörébe tartozó szabálysértés elkövetésén tetten ért, illetőleg annak elkövetésével gyanúsítható személy kilétét megállapítani. Ebből a célból jogosult az ilyen személyeket feltartóztatni, a Nemzeti Adó- és Vámhivatal vámszerveihez vagy a rendőrséghez előállítani.
+(2) A vámhatóság szolgálati jogviszonyban álló tagja jogosult a vámhatóság hatáskörébe tartozó szabálysértés elkövetésén tetten ért, illetőleg annak elkövetésével gyanúsítható személy kilétét megállapítani. Ebből a célból jogosult az ilyen személyeket feltartóztatni, a vámhatóság szerveihez vagy a rendőrséghez előállítani.
 
 (3) A Rendőrség a külföldiek rendészetével, az útlevéllel és úti okmánnyal kapcsolatos, a tiltott határátlépés, a határrendészeti, a határjel-hamisítás és a határjel-rongálás szabálysértések elkövetése esetén jogosult az elkövetők előállítására.
 
@@ -876,7 +872,7 @@ Vhr.18. § Az előállítás időtartamáról szóló igazolást az előállít�
 
 ### Szabálysértési őrizet
 
-77. § (1) A rendőrség elzárással is sújtható szabálysértés esetén – ha tettenérésre kerül sor – az eljárás alá vont személyt gyorsított bírósági eljárás lefolytatása céljából őrizetbe veheti. A tettenérésre vonatkozó szabályokat kell alkalmazni akkor is, ha a szabálysértés helyszínéről elmenekült elkövetőt a rendőrség az elkövetéstől számított 48 órán belül elfogja.
+77. § (1) A rendőrség elzárással is sújtható szabálysértés esetén – ha tettenérésre kerül sor – az eljárás alá vont személyt gyorsított bírósági eljárás lefolytatása céljából őrizetbe veheti.
 
 (2) A szabálysértési őrizet a bíróság érdemi határozatának meghozataláig, de legfeljebb hetvenkét óráig tart. Az eljárás alá vont személyt nyomban szabadon kell bocsátani, ha a szabálysértési őrizet tartama alatt a bíróság a gyorsított eljárást nem folytatta le, vagy nem szabott ki elzárást.
 
@@ -884,7 +880,7 @@ Vhr.18. § Az előállítás időtartamáról szóló igazolást az előállít�
 
 (4) A szabálysértési őrizet a (3) bekezdésben meghatározott esetben a másodfokú bíróság határozatának meghozataláig, illetve a nem jogerősen kiszabott elzárás tartamáig, de legfeljebb a meghosszabbítástól számított tíz napig tart.
 
-(5) A szabálysértési őrizet tartamát meghosszabbító határozattal szemben az eljárás alá vont személy és védője a kihirdetéskor fellebbezést jelenthet be. A törvényszék a szabálysértési őrizet tartamának meghosszabbítása miatt bejelentett fellebbezést az érdemi határozat ellen bejelentett fellebbezéssel együtt bírálja el.
+(5) A szabálysértési őrizet tartamát meghosszabbító határozattal szemben az eljárás alá vont személy és védője a kihirdetéskor fellebbezést jelenthet be. A megyei bíróság a szabálysértési őrizet tartamának meghosszabbítása miatt bejelentett fellebbezést az érdemi határozat ellen bejelentett fellebbezéssel együtt bírálja el.
 
 (6) A szabálysértési őrizet elrendeléséről az eljárás alá vont személy által megjelölt hozzátartozót a rendőrség haladéktalanul értesíti, ennek hiányában az eljárás alá vont személy által megjelölt más személyt kell értesíteni.
 
@@ -894,13 +890,13 @@ Vhr.19. § Amennyiben a szabálysértési őrizet tartama alatt a bíróság a g
 
 ### Az elővezetés
 
-78. § (1) A szabálysértési hatóság vagy a bíróság rendelkezése alapján az eljárás alá vont személyt vagy tanút, aki a szabálysértési hatóság vagy a bíróság előtt, illetőleg más eljárási cselekményen a szabályszerű idézésre nem jelenik meg, s távolmaradását alapos okkal nem menti ki, a rendőrség útján – a Nemzeti Adó- és Vámhivatal vámszerve előtt folyamatban lévő eljárásban a Nemzeti Adó- és Vámhivatal vámszerve útján – elő lehet vezetni. Az elővezetés – az elrendelő hatóság rendelkezése alapján – útbaindítással is foganatosítható.
+78. § (1) A szabálysértési hatóság vagy a bíróság rendelkezése alapján az eljárás alá vont személyt vagy tanút, aki a szabálysértési hatóság vagy a bíróság előtt, illetőleg más eljárási cselekményen a szabályszerű idézésre nem jelenik meg, s távolmaradását alapos okkal nem menti ki, a rendőrség útján – a Vám- és Pénzügyőrség előtt folyamatban lévő eljárásban a Vám- és Pénzügyőrség útján – elő lehet vezetni. Az elővezetés – az elrendelő hatóság rendelkezése alapján – útbaindítással is foganatosítható.
 
 (2) Ha az eljárás alá vont személy a szabályszerűen kézbesített felhívás ellenére a pénzbírságot helyettesítő elzárás végrehajtására a kijelölt büntetés-végrehajtási intézetben a megjelölt határnapon nem jelenik meg és a pénzbírságot sem fizeti meg, a szabálysértési hatóság elővezetését rendeli el.
 
 (3) A (2) bekezdés esetében az elővezetést elrendelő határozatnak tartalmaznia kell, hogy amennyiben az eljárás alá vont személy a pénzbírságot az elővezetés megkezdésekor vagy annak foganatosítása alatt hiánytalanul megfizeti és ezt igazolja, akkor mentesül az elővezetés foganatosítása, illetőleg az elzárás végrehajtása alól.
 
-(4) A szabálysértési hatóság által elrendelt elővezetés elrendeléséről az ügyészt haladéktalanul értesíteni kell. Az ügyész az elővezetést elrendelő határozatba elektronikus úton tekint be. Ha az ügyész az elővezetéssel nem ért egyet, az elővezetés megkezdéséig határozattal az elővezetési határozatot hatályon kívül helyezi. Az elővezetés az ügyész intézkedéséig nem hajtható végre.
+(4) A szabálysértési hatóság által elrendelt elővezetés az ügyész jóváhagyásával hajtható végre.
 
 (5) A megidézett távolmaradásának igazolása esetén a szabálysértési hatóság, illetőleg a bíróság az elővezetést elrendelő határozatát hatályon kívül helyezi.
 
@@ -914,7 +910,7 @@ Vhr.19. § Amennyiben a szabálysértési őrizet tartama alatt a bíróság a g
 
 (3) A ruházat átvizsgálását csak az átvizsgált személlyel azonos nemű személy végezheti.
 
-(4) Az átvizsgálás foganatosítására a Rendőrség, illetőleg a hatáskörébe tartozó szabálysértések tekintetében a Nemzeti Adó- és Vámhivatal vámszerve, továbbá külön jogszabályban meghatározott esetekben a szabálysértés miatt eljáró más szerv jogosult.
+(4) Az átvizsgálás foganatosítására a Rendőrség, illetőleg a hatáskörébe tartozó szabálysértések tekintetében a Vám- és Pénzügyőrség, továbbá külön jogszabályban meghatározott esetekben a szabálysértés miatt eljáró más szerv jogosult.
 
 ### A lefoglalás
 
@@ -1038,7 +1034,12 @@ c) a meghallgatás elháríthatatlan akadálya esetén a késedelemről a megker
 
 (4) Ha a tanú katona, a távolmaradásról, illetve a meghallgatása előtti indokolatlan eltávozásáról az illetékes parancsnokot kell értesíteni.
 
-83/A. §
+83/A. § (1) Ha a tulajdon elleni szabálysértés miatt a feljelentést a rendőrségnél teszik meg, és a késedelem az elkövető kilétének megállapítását veszélyezteti, vagy a bizonyítékok eltűnésével járhat, illetve ha az az eredményes felderítés érdekében szükséges, a rendőrségnek a következő intézkedéseket kell megtennie:
+
+- a) gondoskodik az elkövető kilétének megállapításáról, az eljárás alá vont személy és a tanúk meghallgatásáról, a tárgyi bizonyítási eszközök beszerzéséről,
+- b) a helyszínt megszemléli, ruházatot, csomagot és járművet átvizsgál, lefoglalást végez.
+
+(2) A rendőrség az (1) bekezdésben meghatározott halaszthatatlan eljárási cselekményről készített jegyzőkönyvet, a bizonyítékokat, a lefoglalt dolgot haladéktalanul megküldi a hatáskörrel rendelkező szabálysértési hatóságnak az eljárás lefolytatása végett.
 
 ### Az eljárás megszüntetése
 
@@ -1069,7 +1070,7 @@ Vhr.26. §
 
 ### Panasz a szabálysértési hatóság előtti eljárásban
 
-86. § (1) A szabálysértési hatóságnak a 79–81. §-a, valamint 128/A. § (3) bekezdése alapján hozott határozatával, illetőleg intézkedésével szemben az eljárás alá vont személy és jogi képviselője, valamint a rendbírsággal sújtott személy, a 84. § alapján hozott határozatával szemben a sértett panaszt tehet. A 74/A. § (8) bekezdése alapján hozott határozattal szemben az eljárás alá vont személy és jogi képviselője, valamint a sértett és jogi képviselője panaszt tehet.
+86. § (1) A szabálysértési hatóságnak a 79–81. §-a alapján hozott határozatával, illetőleg intézkedésével szemben az eljárás alá vont személy és jogi képviselője, valamint a rendbírsággal sújtott személy, a 84. § alapján hozott határozatával szemben a sértett panaszt tehet. A 74/A. § (8) bekezdése alapján hozott határozattal szemben az eljárás alá vont személy és jogi képviselője, valamint a sértett és jogi képviselője panaszt tehet.
 
 (2) A panaszt a határozat közlésétől számított nyolc napon belül kell szóban vagy írásban megtenni a szabálysértési hatóságnál.
 
@@ -1122,7 +1123,7 @@ Vhr.28. § (1) Több elkövetővel szemben ugyanabban az ügyben egy határozatb
 
 (2) Amennyiben a szabálysértési hatóság a kifogással támadott határozatát nem módosítja, illetőleg nem vonja vissza, továbbá az eljárás alá vont személy javára módosított határozat ellen ismételten kifogást terjesztenek elő, az iratokat a szabálysértési hatóság az illetékes helyi bírósághoz teszi át.
 
-90. § (1) Az elkésett vagy nem a jogosult által előterjesztett kifogást a szabálysértési hatóság elutasítja.
+90. § (1) Az elkésett vagy nem a jogosult által előterjesztett kifogást a szabálysértési hatóság elutasítja. E határozattal szemben a közléstől számított három napon belül az illetékes ügyészségen panaszt lehet előterjeszteni. A panaszt a 86. § (4) bekezdésében foglaltak szerint kell elbírálni.
 
 (2) A szabálysértési hatóság a kifogás beérkezését követő nyolc napon belül – amennyiben a kifogás érvényes és nem kerül sor a 89. § (1) bekezdésében foglaltak alkalmazására – az iratokat a további eljárás lefolytatása céljából megküldi az illetékes helyi bíróságnak.
 
@@ -1130,31 +1131,31 @@ Vhr.28. § (1) Több elkövetővel szemben ugyanabban az ügyben egy határozatb
 
 ### IX. Fejezet — ÜGYÉSZI TÖRVÉNYESSÉGI FELÜGYELET
 
-91. § (1) Az ügyész e törvényben szabályozott eltérésekkel gyakorolja az ügyészségről szóló törvény szerinti törvényességi ellenőrzési jogait a szabálysértési hatóságok eljárása, határozata, és intézkedése felett.
+91. § (1) Az ügyész e törvényben szabályozott eltérésekkel gyakorolja az ügyészségről szóló jogszabályokban meghatározott törvényességi felügyeleti jogait a szabálysértési hatóságok eljárása, határozata (intézkedése) felett.
 
-(2) A szabálysértési ügyben benyújtott ügyészi felhívásnak a kifogásolt határozat, intézkedés végrehajtására halasztó hatálya van.
+(2) A szabálysértési ügyben benyújtott óvásnak a kifogásolt határozat (intézkedés) végrehajtására halasztó hatálya van.
 
-(3) Az elkövető terhére ügyészi felhívásnak csak a határozat jogerőre emelkedésétől számított hat hónapon belül van helye.
+(3) Az elkövető terhére óvásnak csak a határozat jogerőre emelkedésétől számított hat hónapon belül van helye.
 
-(4) Ha a szabálysértési hatóság az ügyészi felhívást alaposnak tartja, a törvénysértő rendelkezést köteles nyolc napon belül hatályon kívül helyezni vagy módosítani, és erről egyidejűleg az ügyészt értesíteni.
+(4) Ha a szabálysértési hatóság az óvást alaposnak tartja, a törvénysértő rendelkezést köteles nyolc napon belül hatályon kívül helyezni vagy módosítani, és erről egyidejűleg az ügyészt értesíteni.
 
-(5) A felhívás eredménytelensége esetén az ügyész a jogerős határozatot megtámadja, a szabálysértési hatóság az ügy iratait nyolc napon belül megküldi a bíróságnak.
+(5) Ha a szabálysértési hatóság az óvással nem ért egyet, köteles a kifogásolt rendelkezésre vonatkozó iratokat az óvással és az észrevételeivel együtt az óvás elbírálásától számított nyolc napon belül az ügyész egyidejű értesítése mellett a bíróságnak megküldeni.
 
-(6) A bíróság egyesbíróként az ügyészi indítvány és az iratok alapján, harminc napon belül indokolt végzéssel határoz. A bíróság határozata ellen nincs helye jogorvoslatnak.
+(6) A bíróság az óvásról egyesbíróként, az iratok alapján, harminc napon belül indokolt végzéssel határoz, melyben az óvásnak helyt ad vagy azt elutasítja. A bíróság határozata ellen nincs helye jogorvoslatnak.
 
-(7) Ha a bíróság az ügyész fellépését megalapozottnak tartja, a szabálysértési hatóságot az indítványozott eljárás lefolytatására kötelezi.
+(7) Ha a bíróság az óvásnak helyt ad, a szabálysértési hatóságot az óvásban indítványozott eljárás lefolytatására kötelezi.
 
-(8) A bíróság döntését követően az ügy iratait, határozatának kiadmányaival együtt, visszaküldi a szabálysértési hatóságnak. A bíróság határozatának egy kiadmányát közvetlenül az ügyésznek küldi meg.
+(8) A bíróság az óvás elbírálását követően az ügy iratait, határozatának kiadmányaival együtt, visszaküldi a szabálysértési hatóságnak. A bíróság határozatának egy kiadmányát közvetlenül az ügyésznek küldi meg.
 
-(9) Ha az ügyész a fellépését visszavonja, a bíróság az iratokat intézkedés nélkül visszaküldi a szabálysértési hatóságnak.
+(9) Ha az ügyész az óvást visszavonja a bíróság az iratokat intézkedés nélkül visszaküldi a szabálysértési hatóságnak.
 
 ### X. Fejezet — A BÍRÓSÁG ELŐTTI ELJÁRÁS
 
 ### Általános szabályok
 
-92. § (1) A bíróság a szabálysértési ügyben egyesbíróként jár el.
+92. § (1) A bíróság a szabálysértési ügyben egyesbíróként jár el. A szabálysértési ügyben a helyi bíróság feladatait a 92/A. §-ban meghatározott jogkörében a bírósági titkár is elláthatja.
 
-(2) A bíróság szabálysértési ügyben végzéssel határoz. A bíróságnak az ügydöntő határozatban a kifogásról kell döntenie.
+(2) A bíróság szabálysértési ügyben végzéssel határoz. A bíróságnak az ügydöntő határozatban a kifogásról kell döntenie, ügydöntő végzését ,,A Magyar Köztársaság nevében'' hozza.
 
 (3) A bíróságot a tényállás ténybeli és jogi elbírálásában a szabálysértési hatóság határozata nem köti.
 
@@ -1168,7 +1169,24 @@ Vhr.28. § (1) Több elkövetővel szemben ugyanabban az ügyben egy határozatb
 
 (8) A bíróság az ügy elbírálását követően a szabálysértési ügy iratait határozatának kiadmányaival együtt visszaküldi a szabálysértési hatóságnak.
 
-92/A. §
+92/A. § A bírósági titkár jogosult
+
+- a) szakértőt kirendelni,
+- b) az eljárást felfüggeszteni,
+- c) a bíróság eljárási cselekményére idézni, értesíteni,
+- d) a mulasztást igazoló kérelemről határozni,
+- e) a kézbesítési vélelem megdöntésére irányuló kérelemről határozni,
+- f) a rendbírságot kiszabni,
+- g) az ügy elbírálását követően a szabálysértési ügy iratait határozatának kiadmányaival együtt visszaküldeni a szabálysértési hatóságnak,
+- h) a kifogás elbírálása során
+  - ha) az ügyet áttenni,
+  - hb) az eljárást felfüggeszteni,
+  - hc) az eljárást megszüntetni,
+  - hd) a szabálysértési hatóság határozatát hatályon kívül helyezni,
+  - he) a szabálysértési hatóság határozatát hatályban tartani,
+  - hf) a szabálysértési hatóság határozatát megváltoztatni,
+  - hg) az eljárási költség viseléséről rendelkezni,
+- i) határozni – az elzárással is sújtható szabálysértésekre vonatkozóan – az ügy áttételéről, az eljárás felfüggesztéséről, továbbá ha a feljelentés adatai, illetőleg az iratok tartalma alapján nem lehetséges a feljelentés érdemi elbírálása, a tényállás tisztázása érdekében felhívni a feljelentőt további adatok közlésére, iratokat, tárgyi bizonyítási eszközöket beszerezni és más szerveket – külön jogszabályban meghatározott feltételek alapján – adatok közlésére felhívni.
 
 ### Intézkedések a kifogás alapján
 
@@ -1294,7 +1312,7 @@ Vhr.28. § (1) Több elkövetővel szemben ugyanabban az ügyben egy határozatb
 - a) a perújítási okként megjelölt bűncselekmény elkövetését jogerős ítélet megállapította, vagy ilyen ítélet meghozatalát nem bizonyítottság hiánya zárja ki, és
 - b) e bűncselekmény a szabálysértési hatóság, illetőleg a bíróság határozatát befolyásolta.
 
-(3)
+(3) Perújításnak van helye, ha az Alkotmánybíróság az alkotmányellenessé nyilvánított jogszabálynak a konkrét esetben történő alkalmazhatósága visszamenőleges kizárásával ad helyt az alkotmányjogi panasznak.
 
 104. § Nincs helye perújításnak, ha a bírósági határozat jogerőre emelkedését követően egy év eltelt.
 
@@ -1329,33 +1347,6 @@ Vhr.28. § (1) Több elkövetővel szemben ugyanabban az ügyben egy határozatb
 110. § (1) Ha a bíróság – a tárgyalás eredményétől függően – megállapítja, hogy a perújítás alapos, az alapügyben hozott határozatot egészben vagy részben hatályon kívül helyezi és új határozatot hoz, ha pedig a perújítási kérelmet alaptalannak találja, azt elutasítja.
 
 (2) A perújítás tárgyában hozott érdemi határozatok ellen nincs helye jogorvoslatnak.
-
-### XI/A. Fejezet — Eljárás az Alkotmánybíróság szabálysértési ügyet vagy szabálysértési ügyben alkalmazott jogszabályt érintő határozata alapján
-
-110/A. § (1) Perújításnak van helye, ha az Alkotmánybíróság az alaptörvény-ellenes jogszabály alkalmazása miatt a jogerős határozattal befejezett szabálysértési eljárás felülvizsgálatát rendelte el.
-
-(2) A XI. Fejezetben meghatározott szabályokat a következő eltérésekkel kell alkalmazni:
-
-- a) perújításnak a bírósági határozat jogerőre emelkedését követő egy év eltelte után is helye van,
-- b) a perújítási kérelem csak az elkövető javára terjeszthető be,
-- c) a perújítási kérelmet az elkövető halála után egyenesági rokona, testvére, házastársa vagy élettársa is előterjesztheti,
-- d) az ügyész hivatalból köteles perújítási kérelmet előterjeszteni, ha a felülvizsgálni rendelt szabálysértési ügyben kiszabott büntetés vagy intézkedés végrehajtása folyamatban van, illetve az elkövető a felülvizsgálni rendelt ügy miatt a központi szabálysértési nyilvántartásban szerepel,
-- e) a bíróság a perújítási kérelmet csak abban az esetben utasíthatja el, ha a perújítási kérelemben hivatkozott alkotmánybírósági döntés nem függ össze az alapüggyel,
-- f) a perújítás során hozott határozatban az elkövető szabálysértésért való felelősségét valamely cselekmény miatt a 11. § (7) bekezdésében meghatározott határidőre tekintet nélkül is meg lehet állapítani.
-
-110/B. § Perújításnak van helye, ha az Alkotmánybíróság alkotmányjogi panasz alapján a bíróság jogerős határozatával elbírált szabálysértési ügyben alkalmazott alaptörvény-ellenes jogszabályt megsemmisítette, és ezért az – az Alkotmánybíróság eltérő döntése hiányában – az Alkotmánybíróság eljárására okot adó ügyben nem alkalmazható.
-
-110/C. § (1) Ha az Alkotmánybíróság alkotmányjogi panasz alapján a bíróság jogerős határozatát megsemmisítette, a megsemmisített bírósági határozatot hozó bíróság új eljárást folytat le.
-
-(2) Az (1) bekezdés szerinti új eljárást a XI. Fejezetben meghatározott szabályok alapján kell lefolytatni a (3) bekezdésben meghatározott eltérésekkel.
-
-(3) Az (1) bekezdés szerinti új eljárásban
-
-- a) az eljárás hivatalból indul,
-- b) a bíróság az ügyet az Alkotmánybíróság megsemmisítő határozata okainak és indokainak figyelembevételével bírálja el,
-- c) a 110. § (1) bekezdésében foglalt rendelkezés alkalmazása helyett a bíróság új határozatot hoz az ügyben azzal, hogy nem lehet a megsemmisített bírósági határozatban kiszabott büntetésnél súlyosabb büntetést kiszabni vagy az alkalmazott intézkedésnél súlyosabb intézkedést alkalmazni.
-
-(4) Ha az Alkotmánybíróság alkotmányjogi panasz alapján a bíróság határozatával együtt a szabálysértési hatóság azzal felülvizsgált határozatát is megsemmisítette, akkor újabb szabálysértési eljárás a megsemmisített határozatokkal elbírált cselekmény miatt nem indítható.
 
 ### XII. Fejezet — A VÉGREHAJTÁS
 
@@ -1444,10 +1435,6 @@ Vhr.29. § (1)
 
 (8) A bíróság hivatalból vagy kérelemre egy ízben elrendelheti határozata végrehajtásának felfüggesztését, ha a rendelkezésre álló adatok alapján annak megváltoztatása vagy megsemmisítése várható, vagy ezt különleges méltánylást igénylő körülmény indokolja. A végrehajtás harminc napnál hosszabb időre nem függeszthető fel.
 
-(9) A bíróság a határozata végrehajtását az Alkotmánybíróság eljárásának befejezéséig felfüggesztheti, ha azzal szemben alkotmányjogi panaszt nyújtottak be. A bíróság a felfüggesztésről értesíti az Alkotmánybíróságot.
-
-(10) A bíróság a határozata végrehajtását az Alkotmánybíróság felhívására felfüggeszti és erről értesíti az Alkotmánybíróságot. A végzés ellen nincs helye fellebbezésnek.
-
 116/A. § Ha a kézbesítési vélelem megdöntésére irányuló kérelmet terjesztettek elő, és a kérelemben előadott tények és körülmények a kérelem elfogadását valószínűsítik, a végrehajtás kérelemre vagy hivatalból felfüggeszthető.
 
 Vhr.30. § A kiszabott pénzbírság, illetőleg járművezetéstől eltiltás végrehajtása részben vagy teljesen mellőzhető, az elkobzott dolog – kivéve azt, amelynek birtoklása jogszabályba ütközik – visszaadható. A rendőrség hatáskörébe tartozó szabálysértések esetén a méltányossági kérelmet és az eljárási iratokat a szolgálati út betartásával, az Országos Rendőr-főkapitánysághoz kell felterjeszteni.
@@ -1460,7 +1447,7 @@ Vhr.30. § A kiszabott pénzbírság, illetőleg járművezetéstől eltiltás v
 
 ### Az elzárással is sújtható szabálysértésekre vonatkozó általános eljárási szabályok
 
-119. § (1) Az elzárással is sújtható szabálysértést az elkövetés helye szerint illetékes helyi bíróság tárgyaláson bírálja el.A törvényszék elnöke ezekre az eljárásokra – a megyei rendőrfőkapitány javaslatára – más helyi bíróság illetékességét is megállapíthatja.
+119. § (1) Az elzárással is sújtható szabálysértést az elkövetés helye szerint illetékes helyi bíróság tárgyaláson bírálja el.A megyei bíróság elnöke ezekre az eljárásokra – a megyei rendőrfőkapitány javaslatára – más helyi bíróság illetékességét is megállapíthatja.
 
 (2) A bíróság – ha ez a feljelentés, illetőleg az iratok tartalma alapján lehetséges – nyolc napon belül határoz az áttételről, az eljárás felfüggesztéséről, illetőleg az eljárás megszüntetéséről.
 
@@ -1470,8 +1457,6 @@ Vhr.30. § A kiszabott pénzbírság, illetőleg járművezetéstől eltiltás v
 - b) iratokat, tárgyi bizonyítási eszközöket szerez be;
 - c) a bíróság lefoglalhatja a 80. § (1) bekezdésében, illetőleg lefoglalja a 80. § (2) bekezdésében meghatározott dolgot. A lefoglalt dolog visszaadása tekintetében a 80. § rendelkezései szerint jár el;
 - d) külön jogszabályban meghatározott feltételek alapján más szerveket adatok közlésére hívhat fel.
-
-(4) A bíróság a hatóság előkészítő eljárást lefolytató tagját (128/A. §) a tárgyalásra idézi. A (3) bekezdésben felsorolt intézkedéseket a bíróság a rendőrség útján is foganatosíthatja. A rendőrség ennek során az előkészítő eljárás szabályai szerint jár el.
 
 120. § (1) A bíróság a szabálysértés elkövetése miatt elzárást, illetőleg pénzbírságot szab ki, intézkedést alkalmaz, rendelkezik az eljárási költségek viseléséről és az eljárás alá vont személyt a – 85. § szerint – szabálysértéssel okozott kár megtérítésére kötelezheti.
 
@@ -1483,22 +1468,22 @@ Vhr.30. § A kiszabott pénzbírság, illetőleg járművezetéstől eltiltás v
 
 (3) Az elkésett vagy nem a jogosult által előterjesztett fellebbezést a bíróság elutasítja.
 
-(4) A bíróság az iratokat a fellebbezés beérkezését követő nyolc napon belül megküldi az illetékes törvényszéknek.
+(4) A bíróság az iratokat a fellebbezés beérkezését követő nyolc napon belül megküldi az illetékes megyei bíróságnak.
 
-122. § (1) A törvényszék a fellebbezést tanácsülésen bírálja el, ennek során az eljárás alá vont személy terhére – a feljelentőnek az eljárás alá vont személy terhére bejelentett fellebbezésének hiányában – a bíróság határozatában megállapított rendelkezéseknél hátrányosabb rendelkezést nem hozhat.
+122. § (1) A megyei bíróság a fellebbezést tanácsülésen bírálja el, ennek során az eljárás alá vont személy terhére – a feljelentőnek az eljárás alá vont személy terhére bejelentett fellebbezésének hiányában – a bíróság határozatában megállapított rendelkezéseknél hátrányosabb rendelkezést nem hozhat.
 
 (2) Az eljárás alá vont személy terhére bejelentett fellebbezésnek azt kell tekinteni, ami szabálysértési felelősségének megállapítására, szabálysértésének súlyosabb minősítésére, a büntetésének súlyosítására, illetve a vele szemben büntetés helyett alkalmazott intézkedésnél súlyosabbnak a megállapítására, vagy az ilyen intézkedés helyett büntetés megállapítására irányul.
 
-123. § A törvényszék a határozatot hatályban tartja, a 122. §-ban meghatározott korlátok között megváltoztatja, vagy hatályon kívül helyezi és az eljárást megszünteti, illetőleg az eljárt bíróságot új eljárásra utasítja.
+123. § A megyei bíróság a határozatot hatályban tartja, a 122. §-ban meghatározott korlátok között megváltoztatja, vagy hatályon kívül helyezi és az eljárást megszünteti, illetőleg az eljárt bíróságot új eljárásra utasítja.
 
-124. § A törvényszék az ügy iratait határozatának kiadmányával visszaküldi az eljárt bíróságnak.
+124. § A megyei bíróság az ügy iratait határozatának kiadmányával visszaküldi az eljárt bíróságnak.
 
 124/A. § (1) Ha a bíróság az elzárás félbeszakítása iránti kérelmet elutasítja, a határozattal szemben az elkövető, törvényes képviselője vagy védője a határozatot hozó bíróságnál a határozat közlésétől számított nyolc napon belül fellebbezést nyújthat be.
 
 (2) A fellebbezésre, illetve annak elbírálására a 121. § (2)–(4) bekezdéseit, valamint a 122–124. § szerinti rendelkezéseket a következő eltérésekkel kell alkalmazni:
 
-- a) a határozatot hozó bíróság az iratokat a fellebbezés beérkezését követő három munkanapon belül megküldi az illetékes törvényszéknek;
-- b) a törvényszék a fellebbezést három munkanapon belül bírálja el.
+- a) a határozatot hozó bíróság az iratokat a fellebbezés beérkezését követő három munkanapon belül megküldi az illetékes megyei bíróságnak;
+- b) a megyei bíróság a fellebbezést három munkanapon belül bírálja el.
 
 ### Gyorsított bírósági eljárás az elzárással is sújtható szabálysértések esetében
 
@@ -1522,11 +1507,11 @@ Vhr.32. § Az önkormányzati szabálysértési hatóságok ügyintézését ér
 
 (4) A határozat kihirdetése után a bíróság megkérdezi a rendőrség képviselőjét, az eljárás alá vont személyt, illetőleg a védőt, kívánnak-e fellebbezést benyújtani. Ha elzárás kiszabására kerül sor, a fellebbezés benyújtására jogosultnak a kérdés feltételét követően nyomban nyilatkoznia kell.
 
-(5) Ha a rendőrség képviselője, az eljárás alá vont személy, illetőleg a védő az elzárás kiszabásával szemben fellebbezést jelent be, és a bíróság az őrizetet meghosszabbítja, a bíróság az iratokat haladéktalanul felterjeszti a törvényszékhez.
+(5) Ha a rendőrség képviselője, az eljárás alá vont személy, illetőleg a védő az elzárás kiszabásával szemben fellebbezést jelent be, és a bíróság az őrizetet meghosszabbítja, a bíróság az iratokat haladéktalanul felterjeszti a megyei bírósághoz.
 
 (6) A fellebbezésre vonatkozó nyilatkozatokat követően a bíróság a határozatát nyomban írásba foglalja és kézbesíti az eljárás alá vont személynek, a védőnek, valamint a rendőrség képviselőjének.
 
-127. § A határozattal szembeni fellebbezés elintézésére a 121–124. §-okban foglalt rendelkezéseket kell értelemszerűen alkalmazni azzal, hogy a törvényszék a határozatának egy kiadmányát közvetlenül megküldi az eljárást kezdeményező rendőrségnek.
+127. § A határozattal szembeni fellebbezés elintézésére a 121–124. §-okban foglalt rendelkezéseket kell értelemszerűen alkalmazni azzal, hogy a megyei bíróság a határozatának egy kiadmányát közvetlenül megküldi az eljárást kezdeményező rendőrségnek.
 
 ### A bíróság által kiszabott pénzbírság végrehajtása
 
@@ -1545,26 +1530,6 @@ Vhr.32. § Az önkormányzati szabálysértési hatóságok ügyintézését ér
 (4) A fiatalkorú meghallgatására általában a törvényes képviselője jelenlétében kerül sor. A tárgyaláson megjelent gondozót a fiatalkorú életviszonyaira nézve minden esetben meg kell hallgatni, aki ezekre a körülményekre nézve a nyilatkozatot nem tagadhatja meg.
 
 (5) Ha az eljárás alapján a szabálysértési hatóság indokoltnak tartja, a fiatalkorú védelembe vételét kezdeményezheti a fiatalkorú lakóhelye szerint illetékes települési önkormányzat jegyzőjénél.
-
-### A tulajdon elleni szabálysértésekre, valamint a feloszlatott egyesület tevékenységében való részvétel szabálysértésére vonatkozó külön rendelkezések
-
-128/A. § (1) A 152/B. §-ban, valamint a 157. § (1)–(3) bekezdésében meghatározott szabálysértés miatt a feljelentést a rendőrségnél kell megtenni; ha máshol tették meg, azt a rendőrséghez kell haladéktalanul továbbítani.
-
-(2) A rendőrség az (1) bekezdésben meghatározott esetben a tényállás felderítése, az elkövető kilétének megállapítása, valamint a bizonyítási eszközök felkutatása és biztosítása érdekében bírósági eljárást előkészítő eljárást folytat le. A rendőrség eljárására a szabálysértési hatóság eljárására vonatkozó általános szabályokat kell alkalmazni.
-
-(3) A rendőrség a (2) bekezdés szerinti eljárása során elrendelheti ház, lakás, egyéb helyiség vagy azokhoz tartozó bekerített hely átvizsgálását, ha alaposan feltehető, hogy az tárgyi bizonyítási eszköz megtalálására vezet. Az elrendelő határozatban meg kell jelölni azokat a bizonyítási eszközöket, amelyek megtalálására az intézkedés irányul. A határozatot az intézkedés megkezdése előtt az érintettel közölni kell, és végrehajtásától el kell tekinteni, ha a keresett dolgot az érintett előadja. Az intézkedés csak az érintett, vagy képviselője jelenlétében hajtható végre.
-
-(4) A (3) bekezdés rendelkezése alapján nem kutatható át közjegyzői és ügyvédi iroda, valamint egészségügyi intézmény.
-
-(5) Az előkészítő eljárás befejezését követő 3 munkanapon belül a rendőrség az előkészítő eljárás anyagát – a (6) bekezdésben foglalt eseten kívül – a bíróságnak megküldi.
-
-(5a) A rendőri szerv az előkészítő eljárás anyagának bírósághoz történő áttételét megelőzően – az érték-egybefoglalás megállapíthatósága érdekében – ellenőrzi, hogy az eljárás alá vont személlyel szemben tulajdon elleni szabálysértés elkövetése miatti előkészítő eljárás más rendőri szervnél folyik-e.
-
-(6) A 84. § (1) bekezdés a)–g) pontban szereplő okok fennállása esetén az eljárást a rendőrség szünteti meg.
-
-(7) Az előkészítő eljárást lefolytató a 47. § (3) bekezdése szempontjából az eljárás résztvevője.
-
-(8) A bíróság az eljárást az előkészítő eljárás anyagának kézhezvételétől számított 8 napon belül folytatja le.
 
 ### Becsületsértési ügyekre vonatkozó külön rendelkezések
 
@@ -1600,7 +1565,7 @@ Vhr.32. § Az önkormányzati szabálysértési hatóságok ügyintézését ér
 
 (2) Helyszíni bírság kiszabására jogosult
 
-- a) a rendőrség, a Nemzeti Adó- és Vámhivatal vámszerve, a hivatásos tűzoltóság;
+- a) a rendőrség, a vám- és pénzügyőrség, a hivatásos tűzoltóság;
 - b) a helyi önkormányzat képviselő-testülete hivatalának erre felhatalmazott ügyintézője;
 - c) a természetvédelmi őr, az önkormányzati természetvédelmi őr, a természetvédelmi hatóság részéről eljáró és erre felhatalmazott személy, a közterületfelügyelő;
 - d) a 35. § a)–h) és j) pontjaiban felsorolt szervek részéről eljáró személy;
@@ -1638,11 +1603,9 @@ Vhr.32. § Az önkormányzati szabálysértési hatóságok ügyintézését ér
 
 ### Magánlaksértés
 
-139. § (1) Aki másnak a lakásába, egyéb helyiségébe, vagy ezekhez tartozó bekerített helyre az ott lakónak vagy azzal rendelkezőnek akarata ellenére vagy megtévesztéssel bemegy, vagy ott bennmarad, úgyszintén aki mást akadályoz abban, hogy a lakásába, egyéb helyiségébe vagy ezekhez tartozó bekerített helyre bemenjen, elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
+139. § (1) Aki másnak a lakásába, egyéb helyiségébe, vagy ezekhez tartozó bekerített helyre az ott lakónak vagy azzal rendelkezőnek akarata ellenére vagy megtévesztéssel bemegy vagy ott bennmarad, úgyszintén aki mást akadályoz abban, hogy a lakásába, egyéb helyiségébe vagy ezekhez tartozó bekerített helyre bemenjen, ötvenezer forintig terjedő pénzbírsággal sújtható.
 
 (2) Magánlaksértés miatt szabálysértési eljárásnak csak magánindítványra van helye.
-
-(3) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bíróság hatáskörébe tartozik.
 
 ### Önkényes beköltözés
 
@@ -1672,7 +1635,7 @@ százezer forintig terjedő pénzbírsággal sújtható.
 
 ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(3) Az (l) és (2) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség, a bányafelügyelet, valamint a munkavédelmi hatóság hatáskörébe tartozik.
+(3) Az (1)–(2) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség, a bányafelügyelet, illetőleg a munkavédelmi hatóság és a munkaügyi hatóság hatáskörébe tartozik.
 
 (4) Azt a pirotechnikai terméket, amelyre az (1)–(2) bekezdésben meghatározott szabálysértést elkövették, el kell kobozni.
 
@@ -1707,20 +1670,18 @@ százezer forintig terjedő pénzbírsággal sújtható.
 
 elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(2) Az (1) bekezdés szerinti jogkövetkezménnyel sújtható, aki a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvényen vagy a sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó sportrendezvényen az arcát olyan módon eltakarva jelenik meg vagy tartózkodik, amely alkalmas arra, hogy meghiúsítsa a személyének a hatóság vagy az eljáró hivatalos személy által történő azonosítását.
-
-(3) Aki nyilvános rendezvényen
+(2) Aki nyilvános rendezvényen
 
 - a) lőfegyvert vagy robbanóanyagot, illetőleg az élet kioltására vagy testi sértés okozására alkalmas eszközt tartva magánál jelenik meg,
-- b) a rendező szerv vagy a rendőrség biztonságra vonatkozó felhívásának, különösen a helyszín elhagyására vonatkozó rendelkezésének nem tesz eleget,
+- b) a rendező szerv, illetőleg a rendőrség biztonságra vonatkozó felhívásának, rendelkezésének nem tesz eleget,
 
 ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(4) Az (1)–(3) bekezdésben meghatározott szabálysértés elkövetőjével szemben kitiltásnak is helye van.
+(3) Az (1)–(2) bekezdésben meghatározott szabálysértés elkövetőjével szemben kitiltásnak is helye van.
 
-(5) Az (1)–(2) bekezdésben meghatározott szabálysértés miatt az eljárás a bíróság, a (3) bekezdésben meghatározott szabálysértés miatt a rendőrség hatáskörébe tartozik.
+(4) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bíróság, a (2) bekezdésben meghatározott szabálysértés miatt a rendőrség hatáskörébe tartozik.
 
-(6) E § alkalmazásában nyilvános rendezvény: a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvény, továbbá az olyan rendezvény, amely mindenki számára azonos feltételek mellett nyitva áll.
+(5) E § alkalmazásában nyilvános rendezvény: a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvény, továbbá az olyan rendezvény, amely mindenki számára azonos feltételek mellett nyitva áll.
 
 ### Garázdaság
 
@@ -1729,14 +1690,6 @@ elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
 (2) Az (1) bekezdésben meghatározott szabálysértés elkövetőjével szemben kitiltásnak is helye van.
 
 (3) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bíróság hatáskörébe tartozik.
-
-142/B. §
-
-### Közbiztonsági tevékenység jogosulatlan végzése
-
-142/C. § (1) Aki közterületen vagy nyilvános helyen olyan, a közbiztonság, közrend fenntartására irányuló tevékenységet végez, amelyre jogszabály nem jogosítja fel vagy ilyen tevékenység látszatát kelti, elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
-
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bíróság határkörébe tartozik.
 
 ### Tiltott kéjelgés
 
@@ -1771,16 +1724,6 @@ elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
 (2)
 
 (3) A szabálysértési hatóság a szabálysértés tényéről, az érintett gyermek és az elkövető adatairól a gyermek lakóhelye szerint illetékes gyermekjóléti szolgálatot haladéktalanul értesíti.
-
-### Közterületen életvitelszerű lakhatás tilalmának ismételt megszegése
-
-146/A. § (1) Aki az önkormányzat rendeletében meghatározott, a közterület életvitelszerű lakhatás céljaira történő használatára, illetve az életvitelszerű lakhatáshoz használt ingóságok közterületen történő tárolására vonatkozó szabályokat ismételten megszegi, elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
-
-(2) Az (1) bekezdésben meghatározott szabálysértés ismétlődése akkor állapítható meg, ha az eljárás alá vont személyt az eljárás alapját képező cselekmény elkövetését megelőző hat hónapon belül ugyanilyen szabálysértés elkövetéséért jogerősen felelősségre vonták.
-
-(3) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bíróság hatáskörébe tartozik.
-
-(4) Az (1) bekezdésben meghatározott szankció nem alkalmazható, ha a városi önkormányzat a hajléktalan-ellátás feltételeit nem biztosítja.
 
 ### Természetvédelmi szabálysértés
 
@@ -1876,26 +1819,15 @@ százötvenezer forintig terjedő pénzbírsággal sújtható.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
 
-### Feloszlatott egyesület tevékenységében való részvétel
-
-152/B. § (1) Aki a bíróság által egyesület feloszlatásáról hozott döntésében jogellenesnek nyilvánított tevékenységet végez, elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
-
-(2) Elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható, aki
-
-- a) a bíróság által feloszlatott egyesület működésében a feloszlatás után részt vesz,
-- b) nyilvános rendezvényen a bíróság által feloszlatott egyesület egyenruháját vagy formaruháját viseli, továbbá aki nyilvános rendezvényen olyan egyenruhát vagy formaruhát visel, amelyről – annak jellegzetes tulajdonságai miatt – bíróság által feloszlatott egyesület egyenruhája, formaruhája ismerhető fel.
-
-(3) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt az eljárás a bíróság hatáskörébe tartozik.
-
 ### Valótlan bejelentés
 
-153. § (1) Aki a hatóságnál vagy közfeladatot ellátó szervnél vészhelyzetről vagy rendzavarásról valótlan bejelentést tesz, százezer forintig terjedő pénzbírsággal sújtható.
+153. § (1) Aki a hatóságnál vagy közfeladatot ellátó szervnél vészhelyzetről vagy rendzavarásról valótlan bejelentést tesz, ötvenezer forintig terjedő pénzbírsággal sújtható.
 
-(2) Ha a hamis bejelentés alapján a hatóság vagy a közfeladatot ellátó szerv szükségtelenül a bejelentésben megjelölt helyszínre vonult vagy egyéb intézkedésre kényszerült, az elkövető elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
+(2) Ha a hamis bejelentés alapján a hatóság vagy a közfeladatot ellátó szerv szükségtelenül a bejelentésben megjelölt helyszínre vonult, vagy egyéb intézkedésre kényszerült, az elkövető százezer forintig terjedő pénzbírsággal sújtható.
 
-(3) Az (1) bekezdésében meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(3)
 
-(4) A (2) bekezdésben meghatározott szabálysértés miatt az eljárás a bíróság hatáskörébe tartozik.
+(4) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
 
 ### Tiltott szerencsejáték
 
@@ -1917,11 +1849,13 @@ százötvenezer forintig terjedő pénzbírsággal sújtható.
 
 (4)
 
-(5) Az (1)–(2) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Adó- és Vámhivatal Kormány által kijelölt szerve és a fogyasztóvédelmi hatóság hatáskörébe is tartozik.
+(5) Az (1)–(2) bekezdésben meghatározott szabálysértés miatt az eljárás az állami adóhatóság és a fogyasztóvédelmi hatóság hatáskörébe is tartozik.
 
-### Tiltott helyen való aláírásgyűjtés népszavazási kezdeményezés, népi kezdeményezés vagy európai polgári kezdeményezés támogatására
+### Tiltott helyen való aláírásgyűjtés népi és népszavazási kezdeményezés támogatására
 
-156. § Aki a népszavazásról és népi kezdeményezésről szóló törvényben megállapított tiltott helyen népszavazás, népi kezdeményezés vagy európai polgári kezdeményezés támogatására aláírást gyűjt, százezer forintig terjedő pénzbírsággal sújtható.
+156. § (1) Aki a népszavazásról és népi kezdeményezésről szóló törvényben megállapított tiltott helyen, népszavazás vagy népi kezdeményezés támogatására aláírást gyűjt, százezer forintig terjedő pénzbírsággal sújtható.
+
+(2)
 
 ### Járművezetés az eltiltás tartama alatt
 
@@ -1937,17 +1871,21 @@ elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
 
 - a) húszezer forintot meg nem haladó értékre lopást, sikkasztást, jogtalan elsajátítást, orgazdaságot,
 - b) húszezer forintot meg nem haladó kárt okozva készpénz-helyettesítő fizetési eszközzel visszaélést, csalást, szándékos rongálást,
-- c) húszezer forintot meg nem haladó vagyoni hátrányt okozva hűtlen kezelést követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
+- c) húszezer forintot meg nem haladó vagyoni hátrányt okozva hűtlen kezelést
 
-(2) Aki idegen, nem gépi meghajtású járművet mástól azért vesz el, hogy jogtalanul használja, elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
+követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, százezer forintig terjedő pénzbírsággal sújtható.
 
-(3) Aki műemléket, muzeális tárgyat, az államhatárt, a megye-, város-, községhatár vagy a birtokhatár megjelölésére szolgáló hivatalos jelet, tömegközlekedési vagy távközlési eszközt, közúti jelzést, továbbá parkot vagy az ahhoz tartozó felszerelést gondatlanul megrongálja, elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
+(2) Aki idegen nem gépi meghajtású járművet mástól azért vesz el, hogy jogtalanul használja, harmincezer forintig terjedő pénzbírsággal sújtható.
 
-(4) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt szabálysértési eljárásnak csak magánindítványra van helye, ha a sértett az elkövető hozzátartozója.
+(3) Aki műemléket, muzeális tárgyat, az államhatárt, a megye-, város-, községhatár vagy a birtokhatár megjelölésére szolgáló hivatalos jelet, tömegközlekedési vagy távközlési eszközt, közúti jelzést, továbbá parkot vagy az ahhoz tartozó felszerelést gondatlanul megrongálja, százezer forintig terjedő pénzbírsággal sújtható.
 
-(5) Az (1)–(3) bekezdésben meghatározott szabálysértések miatt az eljárás a bíróság hatáskörébe tartozik.
+(4) Az (1) és a (2) bekezdésben meghatározott szabálysértés miatt szabálysértési eljárásnak csak magánindítványra van helye, ha a sértett az elkövető hozzátartozója.
 
-(6) Az elkövetési érték, kár, illetve okozott vagyoni hátrány összegének megállapítása céljából érték-egybefoglalásnak van helye, ha az eljárás alá vont személy az (1) bekezdés a)–c) pontjában meghatározott ugyanolyan cselekményt több alkalommal, legfeljebb egy éven belül követte el és ezeket együttesen bírálják el. Nincs helye érték-egybefoglalásnak, ha az üzletszerű elkövetés megállapítható.
+(5) Az (1)–(3) bekezdésben meghatározott szabálysértések esetén – ha a feljelentést a rendőrségnél teszik meg – az eljárás megindítása a rendőrség hatáskörébe tartozik. A rendőrség a 83/A. § (1) bekezdése alapján megtett intézkedést követően az ügyet átteszi a hatáskörrel rendelkező bírósághoz vagy szabálysértési hatósághoz az eljárás lefolytatása céljából.
+
+(6) Az elkövetési érték, kár, illetve okozott vagyoni hátrány összegének megállapítása céljából érték-egybefoglalásnak van helye, ha az eljárás alá vont személy az (1) bekezdés a)–c) pontjában meghatározott ugyanolyan cselekményt több alkalommal, legfeljebb egy éven belül követte el, és ezeket együttesen bírálják el. Nincs helye érték-egybefoglalásnak, ha az üzletszerű elkövetés megállapítható, vagy ha az önmagukban szabálysértést megvalósító cselekmények a folytatólagosság egységébe tartoznak.
+
+(7)–(8)
 
 ### XVI. Fejezet — A PÉNZÜGYI SZABÁLYSÉRTÉSEK
 
@@ -1976,7 +1914,7 @@ kell érteni.
 
 161. § (1) Aki vámszabálysértésből származó dolgot vagyoni haszon végett megszerez, elrejt, vagy elidegenítésében közreműködik – értékre tekintet nélkül – százezer forintig terjedő pénzbírsággal sújtható.
 
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Adó- és Vámhivatal vámszerve hatáskörébe tartozik.
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a vámhatóság hatáskörébe tartozik.
 
 ### Fémjelzési szabálysértés
 
@@ -2000,7 +1938,7 @@ kell érteni.
 
 szerinti utánzat, illetve euro-érmékhez hasonló érem és zseton.
 
-164. § A 158–163. §-okban meghatározott szabálysértések miatt az eljárás a Nemzeti Adó- és Vámhivatal vámszerve hatáskörébe tartozik.
+164. § A 158–163. §-okban meghatározott szabálysértések miatt az eljárás a vámhatóság hatáskörébe tartozik.
 
 ## NEGYEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -2010,10 +1948,6 @@ szerinti utánzat, illetve euro-érmékhez hasonló érem és zseton.
 
 (2)
 
-### Átmeneti rendelkezés
-
-165/A. § A közúti közlekedésről szóló 1988. évi I. törvény 2011. július 1-jén hatályba lépő, az egyes közlekedési tárgyú törvények módosításáról szóló 2010. évi CLXXII. törvény 10. § (1) bekezdése szerinti módosítása miatt azon szabálysértéseket, amelyek 2011. július 1-jétől közigazgatási bírsággal sújtandó szabályszegés hatálya alá esnek, de 2011. július 1. előtt követték el, a 4. § első mondatában foglaltak szerint kell elbírálni.
-
 ### Felhatalmazó rendelkezések
 
 166. § (1) Felhatalmazást kap a Kormány, hogy az e törvényben nem szereplő szabálysértési tényállásokat tartalmazó rendeletet megalkossa.
@@ -2022,9 +1956,9 @@ szerinti utánzat, illetve euro-érmékhez hasonló érem és zseton.
 
 167. § (1) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy a helyszíni bírságolásra vonatkozó részletes szabályokat az érintett miniszterekkel egyetértésben megállapítsa.
 
-(2) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy a büntetésvégrehajtásért felelős miniszter egyetértésben kiadott rendeletben, a legfőbb ügyész véleményének kikérésével az elzárás, illetőleg a pénzbírságot helyettesítő elzárás végrehajtásának részletes szabályait megállapítsa.
+(2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy az érdekelt miniszterekkel és a legfőbb ügyésszel egyetértésben az elzárás, illetőleg a pénzbírságot helyettesítő elzárás végrehajtásának részletes szabályait megállapítsa.
 
-(3) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy az igazságügyért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott rendeletben szabályozza a szabálysértési eljárásban elrendelt elővezetés végrehajtásával felmerült költség megtérítésének részletes szabályait.
+(3) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy az igazságügyért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen rendeletben szabályozza a szabálysértési eljárásban elrendelt elővezetés végrehajtásával felmerült költség megtérítésének részletes szabályait.
 
 (4) Felhatalmazást kap az államháztartásért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben, rendeletben szabályozza a szabálysértési eljárás során lefoglalt és elkobzott dolgok kezelését és értékesítését.
 
@@ -2042,9 +1976,7 @@ szerinti utánzat, illetve euro-érmékhez hasonló érem és zseton.
 
 (2) Az önkormányzatok 2000. március 1-jéig kötelesek felülvizsgálni az önkormányzati rendeletekben meghatározott szabálysértési rendelkezéseket, és azokat, amelyek e törvény, illetve az egyes szabálysértésekről szóló kormányrendelet rendelkezéseivel nincsenek összhangban, vagy csak megismétlik a magasabb szintű jogszabályokban meghatározott szabálysértési tényállást, hatályon kívül kell helyezniük.
 
-### Az Európai Unió jogának való megfelelés
-
-170. § A 156. § a polgári kezdeményezésről szóló 2011. február 16-ai 211/2011/EU európai parlamenti és tanácsi rendelet 14. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
+170. §
 
 Vhr.33. § (1) Ez a rendelet 2000. március 1-jén lép hatályba.
 
@@ -2100,94 +2032,89 @@ A II. tábla adatai
 
 Az adatszolgáltatás módja
 
-15. Az önkormányzati szabálysértési hatóságok a nyomtatvány számítógépes programmal, vagy papíralapon történő kitöltésével készítik el az adatszolgáltatásukat. A számítógépes programmal kitöltött nyomtatványt elektronikus úton, a papíralapon kitöltött nyomtatványt kézbesítő útján minden év január 15. napjáig felterjesztik a megyei (fővárosi) kormányhivatalnak, egy kinyomtatott példányát irattárazzák.
+15. Az önkormányzati szabálysértési hatóságok a nyomtatvány kitöltésével két példányban készítik el adatszolgáltatásukat. A nyomtatvány egy példányát a Kormány általános hatáskörű területi államigazgatási szervéhez felterjesztik, a másik példányt irattározzák.
 
-16. A felterjesztett, kitöltött nyomtatványok I. és II. táblája alapján a megyei (fővárosi) kormányhivatal számítógépes programmal külön-külön összesíti a községi önkormányzati szabálysértési hatóságok, valamint a városi (megyei jogú városi) önkormányzati szabálysértési hatóságok adatszolgáltatását.
+16. A felterjesztett nyomtatványok I. és II. táblája alapján a Kormány általános hatáskörű területi államigazgatási szerve külön-külön összesíti a községi (nagyközségi) önkormányzati szabálysértési hatóságok, valamint a városi (megyei jogú városi) önkormányzati szabálysértési hatóságok adatszolgáltatását.
 
-17. A megyei kormányhivatal számítógépes programmal háromféle összesítést készít. Külön összesíti a községi szabálysértési hatóságok tevékenységének adatait, és külön összesíti a városi (megyei jogú városi) szabálysértési hatóságok jelentéseit, végül az összes önkormányzati szabálysértési hatóságra vonatkozóan (községi és városi adatok együtt) készít megyei összesítést. A Fővárosi Kormányhivatal a fővárosi kerületi (kerületközi) szabálysértési hatóságok adatairól készít számítógépes programmal összesítést.
+17. A Kormány általános hatáskörű területi államigazgatási szerve háromféle összesítést készít. Külön összesíti a községi (nagyközségi) szabálysértési hatóságok tevékenységének adatait, és külön összesíti a városi (megyei jogú városi) szabálysértési hatóságok jelentéseit, végül az összes önkormányzati szabálysértési hatóságra vonatkozóan (községi és városi adatok együtt) készítenek megyei összesítést. A Kormánynak a fővárosra kiterjedő illetékességű általános hatáskörű területi államigazgatási szerve a fővárosi kerületi (kerületközi) szabálysértési hatóságok adatairól készít összesített jelentést.
 
-18. A megyei (fővárosi) kormányhivatal a számítógépes programmal összesített adatokat, elektronikus úton, minden év január 31-ig a Belügyminisztériumnak terjeszti fel.
+18. A Kormány általános hatáskörű területi államigazgatási szerve az összesített jelentéseket elektronikus úton, minden év január 31-ig az Igazságügyi és Rendészeti Minisztériumhoz terjeszti fel.
 
-19. Az önkormányzati szabálysértési ügyintézés adatszolgáltatásához kapcsolódóan továbbra is jelenteni kell a 18. pontban írt határidőig a közterület-felügyelők, valamint a helyi önkormányzat képviselő-testülete hivatala erre felhatalmazott ügyintézője helyszíni bírságolásának ügyfajtánkénti és összesített adatait.
+19. Az önkormányzati szabálysértési ügyintézés adatszolgáltatásához kapcsolódóan továbbra is jelenteni kell a fenti határidőig:
 
-I. tábla
+a) a tulajdon elleni szabálysértés miatt bírságolt elkövetők és ebből a lopás miatt bírságoltak számát,
+
+b) a közterület-felügyelők helyszíni bírságolásának, valamint a helyi önkormányzat képviselő-testülete hivatala erre felhatalmazott ügyintézője helyszíni bírságolásának ügyfajtánkénti és összesített adatait.
 
 I. tábla
 
 Önkormányzati szabálysértési ügyintézés
 
-…………év
+2000. év ..................
 
 ÖSSZEFOGLALÓ ADATOK
 
-| 1. Tárgyévben beérkezett feljelentések (ügyek) száma összesen |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| 2. Tárgyévben feljelentett személyek száma összesen |  |  |  |  |
-| 3. Áttétel más szervhez (Sztv. 40. §) |  |  |  |  |
-| 4. Megszüntetések száma összesen |  |  |  |  |
-| 5. Ebből: – szabálysértés hiánya [Sztv. 84. § (1) bek. a) pont] |  |  |  |  |
-| 6. – bizonyíték hiánya stb. [Sztv. 84. § (1) bek. b) pont] |  |  |  |  |
-| 7. | – egyéb ok miatt |  |  |  |
-| 8. Figyelmeztetések száma összesen |  |  |  |  |
-| 9. Pénzbírságot kiszabó határozatok száma |  |  |  |  |
-| 10. Kifogások száma |  |  |  |  |
-| 11. Elfogadva – visszavonással |  |  |  |  |
-| 12. |  |  | – módosítással |  |
-| 13. Elkésett, nem jogosult kifogás, elutasítás [Sztv. 90. § (1) bek.] |  |  |  |  |
-| 14. Bírósághoz áttett kifogások száma |  |  |  |  |
-| 15. Panaszok száma a szabálysértési hatóság határozata ellen (Sztv. 86. §) |  |  |  |  |
-| 16. Elfogadott panaszok száma |  |  |  |  |
-| 17. Ügyészi intézkedések száma az el nem fogadott panasz alapján |  |  |  |  |
-| 18. Bíróság intézkedése a kifogás alapján (Sztv. 93. §) |  |  |  |  |
-| 19. Bíróság határozata a kifogás elbírálásáról (Sztv. 94. §) |  |  |  |  |
-| 20. Ebből: |  | – határozat hatályban tartása, kifogás elutasítása |  |  |
-| 21. |  | – határozat megváltoztatása |  |  |
-| 22. |  |  |  |  |
-| 23. Adók módjára történő behajtások száma |  |  |  |  |
-| 24. Közérdekű munkára átváltoztató határozatok száma |  |  |  |  |
-| 25. Bíróság által elzárásra átváltoztatott bírságolások száma |  |  |  |  |
-| 26. Letöltött elzárások száma |  |  |  |  |
-| 27. Végrehajtás mellőzése méltányosságból [Sztv. 116. § (2) bek. a) pont] |  |  |  |  |
-| 28. Feljelentett fiatalkorúak száma |  |  |  |  |
-| 29. Feljelentett külföldiek száma |  |  |  |  |
-| 30. Fennálló hátralék a kiszabott pénzbírság %-ában összesen |  |  |  |  |
+| 1. | Tárgyévben beérkezett feljelentések (ügyek) száma összesen: |  |  |
+| --- | --- | --- | --- |
+| 2. | Tárgyévben feljelentett személyek száma összesen: |  |  |
+| 3. | Áttétel más szervhez, Sztv. 40. § |  |  |
+| 4. | Megszüntetés száma összesen: |  |  |
+| 5. |  | szabálysértés hiánya, Sztv. 84. § (1) a) pont |  |
+| 6. | Ebből: | bizonyíték hiánya stb., Sztv. 84. § (1) b) pont |  |
+| 7. |  | egyéb ok miatt |  |
+| 8. | Figyelmeztetés száma összesen: |  |  |
+| 9. | Pénzbírságot kiszabó határozatok száma |  |  |
+| 10. | Kifogások száma |  |  |
+| 11. | Elfogadva: | visszavonással |  |
+| 12. |  | módosítással |  |
+| 13. | Elkésett, nem jogosult kifogás, elutasítás száma, Sztv. 90. § (1) |  |  |
+| 14. | Bírósághoz áttett kifogás száma |  |  |
+| 15. | Panaszok száma a szabálysértési hatóság határozata ellen, Sztv. 86. § |  |  |
+| 16. | Elfogadott panasz száma |  |  |
+| 17. | Ügyészi intézkedés száma az el nem fogadott panasz alapján |  |  |
+| 18. | Bíróság intézkedése a kifogás alapján, Sztv. 93. § |  |  |
+| 19. | Bíróság határozata a kifogás elbírálásáról, Sztv. 94. § |  |  |
+| 20. | Ebből: | határozat hatálybantartása, kifogás elutasítása |  |
+| 21. |  | határozat megváltoztatása |  |
+| 22. |  |  |  |
+| 23. | Adók módjára történő behajtás száma |  |  |
+| 24. | Közérdekű munkára átváltoztató határozat száma |  |  |
+| 25. | Bíróság által elzárásra átváltoztatott bírságolás száma |  |  |
+| 26. | Letöltött elzárások száma |  |  |
+| 27. | Végrehajtás mellőzése méltányosságból, Sztv. 116. § (2) a) pont |  |  |
+| 28. | Feljelentett fiatalkorúak száma |  |  |
+| 29. | Külföldi állampolgárok száma |  |  |
+| 30. | Fennálló hátralék a kiszabott pénzbírság %-ában összesen: |  |  |
 
 II. tábla
 
-II. tábla
+Egyes szabálysértések 2000. év
 
-Egyes szabálysértések
-
-…………év
-
-| Szabálysértési ügyfajták | Tárgyévben beérkezett feljelentések (ügyek) száma | Tárgyévben feljelentett személyek száma | Áttétel más szervhez | Megszünte- tés száma | Ebből |  |  | Figyelmez- tetés száma | Pénzbírságot kiszabó határozatok száma | Elbírált ügyekben szereplő személyek száma mindössz. | Bírságolt |  | Kiszabott pénzbírság összege (Ft) | Átlaga 13/9 | Fennálló hátralék a kiszabott pénzbírság százalékában |
+| Szabálysértési ügyfajták | Tárgyévben beérkezett feljelentések (ügyek) száma | Tárgyévben feljelentett személyek száma | Áttétel más szervhez | Megszüntetés száma | Ebből |  |  |  |  |  | Bírságolt |  | Kiszabott pénzbírság összege (Ft) | Átlaga 13/9 | Fennálló hátralék a kiszabott pénzbírság százalékában |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| szabálysértés hiánya | bizonyíték hiánya | egyéb ok | fiatalkorú | külföldi állampolgár |
+| szabálysértés hiánya | bizonyíték hiánya | egyéb ok | figyelmez- tetés száma | pénzbírságot kiszabó határozatok száma | elbírált ügyekben szereplő személyek száma mindössz. | fiatalkorú | külföldi állampolgár |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| Becsületsértés (Sztv. 138. §) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Természetvédelmi szabálysértés (Sztv. 147. §), Környezetvédelmi szabálysértés (148. §) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Csendháborítás (R. 6. §) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Köztisztasági szabálysértés (R. 7. §) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Tűzvédelmi szabálysértés (R. 20. §) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| A honvédelmi, a polgári védelmi és a rendészeti igazgatás rendjét veszélyeztető szabálysértések (R. 32–40. §) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Közlekedésügyi szabálysértések (kivéve R. 61. §, 64. §, 64/A. §) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Áru hamis megjelölése (R. 71. §), Árdrágítás (R. 72. §) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fogyasztóvédelmi szabálysértések (kivéve R. 71. §, 72. §, 77. §, 78. §, 84. §, 85. § és 86. §)l |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Jogosulatlan kereskedés (R. 77. §) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vásárlók megkárosítása (R. 78. §) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Élelmiszer minőségének megrontása (R. 84. §) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Élelmiszer jogosulatlan előállítása (R. 85. §), forgalomba hozatala, Élelmezés-egészségügyi szabálysértés (R. 86. §) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Munkaügyi szabálysértések (R. 93–100. §) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Egészségügyi és szociális szabálysértések (R. 101–105. §) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Mező-, erdő-, és vízgazdálkodási szabálysértések (R. 106–127. §) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vállalkozói, ipari szabálysértések (R. 128–134. §) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Építésügyi szabálysértések (R. 136–140. §) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| A közoktatási törvényben meghatározott kötelezettségek megszegése (R. 141. §) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Becsületsértés, Sztv. 138. § |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Magánlaksértés, Sztv. 139. § |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Természetvédelmi és környezetvédelmi szabálysértés, Sztv. 147–148. §-ok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Tulajdon elleni szabálysértések, Sztv. 157. § |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Csendháborítás, R. 6. § |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Köztisztasági szabálysértés, R. 7. § |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Tűzvédelmi szabálysértés, R. 20. § |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Honvédelmi és polgári védelmi szabálysértés, R. 32–40. §-ok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Közlekedésügyi szabálysértések, R. 60–66. §-ok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Árdrágítás, R. 72. § és Árak hamis megjelölése, R. 71. § |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fogyasztóvédelmi szabálysértések, R. 71., 72., 76., 78., 84. §-ok kivételével |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Jogosulatlan kereskedés, R. 77. § |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Vásárlók megkárosítása, R. 78. § |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Élelmiszer minőségének megrontása, R. 84. § |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Élelmiszer jogosulatlan előállítása, forgalomba hozatala Élelmezésügyi szabálysértés, R. 85., 86. §- ok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Munkaügyi szabálysértések, R. 93–100. §-ok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Egészségügyi és szociális szabálysértések, R. 99–103. §-ok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Mező-, erdő- és vízgazdálkodás, R. 106–127. §-ok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ipari szabálysértések, R. 128–134. §-ok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Építésügyi, R. 136–140. §-ok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Tankötelezettség megszegése, R. 141. § |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Önkormányzati rendeletekben megállapított szabálysértések |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Egyéb, fel nem sorolt szabálysértések |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Egyéb, fel nem sorolt |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |

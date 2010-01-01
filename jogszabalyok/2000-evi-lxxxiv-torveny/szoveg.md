@@ -8,20 +8,20 @@ Az Országgyűlés annak érdekében, hogy a növényvédő mérnökök és növ
 
 1. § (1) A Magyar Növényvédő Mérnöki–Növényorvosi Kamara (a továbbiakban: Kamara) a növényvédő mérnökök–növényorvosok közfeladatokat ellátó szakmai és önkormányzati köztestülete.
 
-(2) A Kamara
+(2) A Kamara feladatait:
 
-- a) országos szervezettel, valamint
-- b) a vármegyékben és a fővárosban működő területi szervezettel (a továbbiakban: területi szervezet)
+- a) a megyékben és a fővárosban működő területi szervezetei (a továbbiakban: területi szervezet), valamint
+- b) országos szervezete
 
-rendelkezik.
+útján látja el.
 
 (3) A Kamara tagjai a Kamara Alapszabályában (a továbbiakban: Alapszabály) meghatározott módon és feltételek szerint, a területi szervezeteken belül helyi csoportokat alakíthatnak, amelyek ellátják az Alapszabályban, illetve (2) bekezdésben meghatározott szervezetek által átruházott kamarai feladatokat.
 
-(4) A Kamara jogi személyiséggel rendelkezik.
+(4) A Kamara országos szervezete és területi szervezetei jogi személyek.
 
 (5) A területi szervezet elnevezésben utalni kell annak működési területére.
 
-(6)
+(6) Az országos szervezet jogosult a Magyar Köztársaság címerének használatára.
 
 (7) Az országos szervezet székhelye: Budapest.
 
@@ -49,44 +49,43 @@ rendelkezik.
 - n) folyamatosan végzi a szakmai információk gyűjtését és terjesztését, valamint a közhasznú információk továbbítását;
 - o) kitüntetés adományozását kezdeményezi;
 - p) a növényvédelmi szakterületen dönt a mezőgazdasági tevékenységhez kapcsolódó szakértői működéshez benyújtott kérelmekről és kiállítja a szakértői engedélyeket;
-- q) a növényvédelmi szakértői tevékenységet folytatókról – azok személyes adatait is tartalmazó – nyilvántartást vezet, és névjegyzéküket évente közzéteszi;
-- r) ajánlást ad ki a növényorvos által végzett szolgáltatások munkadíjának alsó és felső határára vonatkozóan.
+- q) a növényvédelmi szakértői tevékenységet folytatókról – azok személyes adatait is tartalmazó – nyilvántartást vezet, és névjegyzéküket évente közzéteszi.
 
 (4) A (3) bekezdés c) és q) pontja szerinti nyilvántartás tartalmazza
 
 - a) természetes személy esetén a nevet, születési nevet, születési helyet, születési időt, anyja nevét, állampolgárságot, lakhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím);
-- b) jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén a cégnevet, adószámot, székhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím).
+- b) jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet esetén a cégnevet, adószámot, székhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím).
 
-(5) A Kamara az általános közigazgatási rendtartásról szóló törvény szerinti közigazgatási hatóságként jár el
+(5) A (3) bekezdés c) és p) pontja szerinti hatósági eljárásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezéseit kell alkalmazni. Az eljárást első fokon a területi szervezet folytatja le. A területi szervezet döntése ellen fellebbezésnek van helye, melynek az elbírálására az országos szervezet jogosult.
 
-- a) a tagfelvétellel és a kamarai névjegyzékbe vétellel, valamint a fegyelmi és etikai ügyek kivételével a tagsági viszony megszüntetésével és a kamarai nyilvántartásból való törléssel kapcsolatos eljárása,
-- b) a 2. § (3) bekezdés c), p) és q) pontja szerinti eljárása
+(6) Az (5) bekezdés szerinti eljárásban ügyintéző, illetve döntéshozó csak olyan személy lehet, aki a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) szerint köztisztviselőnek – nyilvántartás vezetése esetén ügykezelőnek – kinevezhető lenne. A döntéshozóra és az ügyintézőre a Ktv. összeférhetetlenségi szabályait kell alkalmazni.
 
-során.
+2/A. § A kamarának a tagfelvétellel és a kamarai névjegyzékbe vétellel, valamint a fegyelmi és etikai ügyek kivételével a tagsági viszony megszüntetésével és a kamarai nyilvántartásból való törléssel kapcsolatos eljárásában a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
-(5a) Az (5) bekezdés szerinti eljárásokat első fokon a titkár folytatja le. A titkár döntése ellen fellebbezésnek van helye, amelynek elbírálására a főtitkár jogosult.
+2/B. § (1) Ha jogszabály az élelmiszerlánc felügyeletéért felelős miniszter rendeletében meghatározott szakterületen, növényvédelmi szakkérdésben szakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag a kamara engedélyével rendelkező személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak az ilyen személy igénybevételéhez fűződnek. A kérelemben meg kell jelölni a kérelmező természetes személyazonosító adatait.
 
-(6) Az (5) bekezdés szerinti eljárásban ügyintéző, illetve kiadmányozási jog felhatalmazottja csak olyan személy lehet, aki a kormányzati igazgatásról szóló törvény alapján kormánytisztviselőnek kinevezhető lenne. A kiadmányozási jog felhatalmazottjára és az ügyintézőre a kormányzati igazgatásról szóló törvény összeférhetetlenségi szabályait kell alkalmazni.
+(2) Az (1) bekezdés szerinti szakértői tevékenység folytatását a kamara annak engedélyezi, aki büntetlen előéletű, nem áll a növényvédelmi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, rendelkezik az élelmiszerlánc felügyeletéért felelős miniszter által rendeletben meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
-#### 2/A. §
+(3) A kamara a szakértői tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-2/B. § (1) Ha jogszabály az élelmiszerlánc felügyeletért felelős miniszter rendeletében meghatározott szakterületen, növényvédelmi szakkérdésben szakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak az olyan személy igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a növényvédelmi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik az élelmiszerlánc felügyeletért felelős miniszter által rendeletben meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
+(4) A növényvédelmi szakértői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint nem áll a növényvédelmi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a kamara részére – annak a növényvédelmi szakértői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a kamara az (5) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
 
-(2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni – az igazságügyi szakértő kivételével – köteles a Kamarának a tevékenység folytatására irányuló szándékát a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
+(5) A kamara a növényvédelmi szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű, és nem áll a növényvédelmi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a kamara adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint, hogy a növényvédelmi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
-(3) A Kamara által a szakértői tevékenység folytatására jogosult személyekről vezetett nyilvántartás tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(6) A (3) és (4) bekezdés alapján megismert személyes adatokat a kamara
 
-2/C. § A kamara az Alapszabályban vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha a felhasználó a kamara tagja vagy alkalmazottja, és az eljárás nem minősül közigazgatási hatósági ügynek.
+- a) a növényvédelmi szakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
+- b) a növényvédelmi szakértő nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
 ### III. Fejezet — A KAMARA SZERVEZETE
 
 ### A területi szervezet
 
-3. § (1) Az Alapszabályban meghatározott területen és székhelyen képviseleti és ügyintéző szervekkel rendelkező területi szervezetek működhetnek, ha létszámuk a 20 főt eléri. A területi szervezet területe összefüggő, legalább egy vármegye (vagy a főváros) területére terjedhet ki. Egy vármegye területén kizárólag egy területi szervezet működhet. A Kamara küldöttközgyűlése négyötödös szavazattöbbséggel meghozott határozatával jogosult területi szervezeteket megszüntetni, összevonni, amennyiben a kamarai szervezet működése azt indokolja.
+3. § (1) Valamennyi megyében és a fővárosban képviseleti, ügyintéző szervekkel, valamint önálló költségvetéssel rendelkező területi szervezetek működhetnek, ha létszámuk a 20 főt eléri.
 
-(2) A területi szervezet ellátja az e törvényben és az Alapszabályban hatáskörébe utalt feladatokat.
+(2) A területi szervezet ellátja a jogszabályban és az Alapszabályban hatáskörébe utalt feladatokat.
 
-(3) A területi szervezeten belül az Alapszabály szerint helyi csoportok alapíthatók.
+(3) A területi szervezeten belül az Alapszabály szerint a területi szervezet költségvetéséből működtetett helyi csoportok alapíthatók.
 
 4. § (1) A területi szervezet képviseleti szerve a törvényben, illetve az Alapszabályban meghatározott feladatok ellátására alakult területi közgyűlés.
 
@@ -100,7 +99,7 @@ során.
 
 (2) A vezetőségbe tisztségviselőként elnököt, egy alelnököt, valamint egy titkárt és – az Alapszabályban meghatározott számú – vezetőségi tagot kell választani.
 
-(3) A területi szervezetet az elnök, akadályoztatása esetén az alelnök képviseli. A titkár ellátja a 2. § (5a) bekezdése, a 26. § (2) bekezdése szerinti, valamint az Alapszabályban meghatározott feladatokat.
+(3) A területi szervezetet az elnök, akadályoztatása esetén az alelnök képviseli. A titkár az Alapszabályban meghatározott feladatokat látja el.
 
 (4) Az Alapszabály a (2) bekezdésben felsoroltakon kívül más tisztségviselő választását is kötelezővé teheti.
 
@@ -122,12 +121,12 @@ során.
 - d) az éves költségvetésének és a költségvetés végrehajtásáról szóló beszámolónak (zárszámadás) elfogadása;
 - e) a kamarai tagsági díj bevételének a területi szervezet és országos szervezet közötti megosztása arányának elfogadása.
 
-(3) A hatáskörébe tartozik minden olyan ügy, amit a törvény vagy az Alapszabály a hatáskörébe utal.
+(3) A Kamara hatáskörébe tartozik minden olyan ügy, amit a törvény vagy az Alapszabály a küldöttközgyűlés hatáskörébe utal.
 
 (4) A küldöttközgyűlés tagjai:
 
 - a) minden területi szervezet tagjai által delegált öt fő – négy évre megválasztva – szavazati joggal; továbbá
-- b) az Alapszabályban meghatározott kamarai országos tisztségviselők tanácskozási joggal.
+- b) az Alapszabályban meghatározott kamarai országos tisztségviselők.
 
 (5) A küldöttközgyűlés összehívására a 4. § (4) bekezdésében foglaltak értelemszerűen irányadók azzal, hogy a területi vezetőség alatt az elnökséget, a területi szervezet tagjai alatt a küldöttközgyűlés tagjait kell érteni.
 
@@ -149,12 +148,12 @@ során.
 
 (2) Az elnökség kizárólagos hatáskörébe tartozik:
 
-- a) a Kamara általános képviselete;
-- b) a küldöttközgyűlés ülésének összehívása;
-- c) két küldöttközgyűlés közötti időben a Kamara operatív tevékenységének szervezése és irányítása;
+- a) a küldöttközgyűlés ülésének összehívása;
+- b) a 17. § (4) bekezdésében, illetőleg a 19. § (4) bekezdésében meghatározott fellebbezések elbírálása;
+- c) a 2. §-ban szabályozott véleményezési jog gyakorlása;
 - d) jogszabály alapján, illetve az Alapszabály által meghatározott egyéb kamarai feladatok ellátása.
 
-(3)
+(3) A 2. §-ban szabályozott véleményezési jog gyakorlását, valamint a 10. § (2) bekezdésében megjelölt, az elnökség kizárólagos hatáskörébe tartozó hatáskörök gyakorlását a küldöttközgyűlés magához vonhatja, illetve azok gyakorlásának módjára utasítást adhat.
 
 (4) Az elnökség szükség szerint, de legalább három havonta ülésezik. Az Alapszabály az elnökség kötelező összehívásának egyéb eseteit is meghatározhatja.
 
@@ -164,15 +163,7 @@ során.
 
 (7) Az országos szervezetet az elnök, akadályoztatása esetén – az Alapszabályban meghatározott körben – az alelnök képviseli.
 
-(8) A főtitkár
-
-- a) az Alapszabályban meghatározott körben képviseli az országos szervezetet,
-- b) irányítja a vármegyei titkárok munkáját,
-- c) elbírálja a 2. § (5a) bekezdése szerinti fellebbezéseket és határozatot hoz a 26. § (2) bekezdése szerint,
-- d) gyakorolja a 2. §-ban szabályozott véleményezési jogot, valamint
-- e) ellátja az Alapszabályban meghatározott feladatokat.
-
-(9) A főtitkár csak felsőfokú szakirányú végzettséggel rendelkező személy lehet. A főtitkár felett a munkáltatói jogokat az országos szervezet elnöke gyakorolja.
+(8) A főtitkár az Alapszabályban meghatározott körben képviseli az országos szervezetet, továbbá ellátja az Alapszabályban meghatározott feladatokat.
 
 11. § (1) Az országos etikai-fegyelmi bizottság, illetve a felügyelő bizottság az elnökből, valamint az Alapszabályból meghatározott számban megválasztott további tagokból áll.
 
@@ -182,7 +173,7 @@ során.
 
 ### IV. Fejezet — A KAMARAI TISZTSÉGVISELŐK VÁLASZTÁSA, VISSZAHÍVÁSA
 
-12. § (1) A főtitkár és a titkár kivételével a tisztségviselőket és az ügyintéző szervek nem tisztségviselő tagjait a Kamara tagjai közül négyéves időtartamra, titkosan választják.
+12. § (1) A tisztségviselőket és az ügyintéző szervek nem tisztségviselő tagjait a Kamara tagjai közül négyéves időtartamra, titkosan választják. Azonos tisztségre a kamarai tag legfeljebb két egymást követő alkalommal választható meg.
 
 (2) A tisztségviselők, illetve az ügyintéző szervek nem tisztségviselő tagjainak megbízatása – a 14. §-ra is figyelemmel – az új tisztségviselők, illetve nem tisztségviselő ügyintéző tagok megválasztásának napján szűnik meg.
 
@@ -190,13 +181,11 @@ során.
 
 (4) Amennyiben a tisztségviselő, illetve az ügyintéző szerv nem tisztségviselő tagjának megválasztása a küldöttközgyűlés hatáskörébe tartozik, a (3) bekezdésben szereplő választás céljából a küldöttközgyűlés a megbízatás megszűnésétől számított 45 napon belüli időpontra össze kell hívni.
 
-(5) A főtitkárt négyéves időtartamra a küldöttközgyűlés pályázat alapján választja meg. A főtitkár hivatalba lépéséhez és felmentéséhez a miniszter előzetes jóváhagyása szükséges. A titkárt négyéves időtartamra a főtitkár nevezi ki és gyakorolja felette a munkáltatói jogokat.
-
-13. § (1) Összeférhetetlen a kamarai tisztséggel, ha valaki a növényvédelmi szakigazgatásban vezetőként osztályvezető, illetve annál magasabb beosztásban kormányzati szolgálati jogviszonyban áll vagy politikai pártban tisztséget tölt be.
+13. § (1) Összeférhetetlen a kamarai tisztséggel, ha valaki a növényvédelmi szakigazgatásban vezetőként osztályvezető, illetve annál magasabb beosztásban közszolgálati jogviszonyban áll, valamint politikai pártban tisztséget tölt be.
 
 (2) Kamarai tisztségviselő azonos kamarai szervezetben egyéb tisztséget nem tölthet be. Kamarai tisztségre választható minden kamarai tag, feltéve, ha vele szemben összeférhetetlenségi ok nem áll fenn.
 
-(3) A területi szervezet vezetőségének, az országos szervezet elnökségének, valamint a felügyelő bizottságnak a tagjai nem lehetnek egymásnak a Polgári Törvénykönyv szerinti közeli hozzátartozói és munkájuk során egymás alá- és fölérendeltjei.
+(3) A területi szervezet vezetőségének, az országos szervezet elnökségének, valamint felügyelő bizottság tagjai nem lehetnek egymásnak közeli hozzátartozói [Ptk. 685. § b) pontja] és munkájuk során egymás alá- és fölérendeltjei.
 
 (4) Az (1)–(3) bekezdésben megjelölt összeférhetetlenségi okot az érintett a megválasztásakor köteles bejelenteni, és azt a megválasztástól számított 15 napon belül megszüntetni. A megszüntetésről az érintett a választásra jogosult testületet 8 napon belül tájékoztatja.
 
@@ -225,7 +214,7 @@ során.
 - c) az Alapszabályban meghatározott kamarai tagdíjat megfizeti; továbbá
 - d) az Alapszabályban foglaltakat magára nézve kötelezően elismeri.
 
-(2) Azt a személyt, aki az (1) bekezdésben meghatározott feltételeknek megfelel, kérelmére fel kell venni. A felvételről és a tagsági viszony megszüntetéséről a titkár hoz döntést.
+(2) Azt a személyt, aki az (1) bekezdésben meghatározott feltételeknek megfelel, kérelmére fel kell venni.
 
 (3) Nem vehető fel a Kamarába:
 
@@ -239,14 +228,14 @@ során.
 
 (2) A kamara az (1) bekezdés alapján megismert személyes adatokat
 
-- a) a növényvédő mérnök-növényorvos kamarai tagfelvétele iránti eljárásban hozott határozat véglegessé válásáig vagy
-- b) a kamarai tagok névjegyzékébe való felvétel esetén a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárásban hozott határozat véglegessé válásáig
+- a) a növényvédő mérnök-növényorvos kamarai tagfelvétele iránti eljárás jogerős befejezéséig vagy
+- b) a kamarai tagok névjegyzékébe való felvétel esetén a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig
 
 kezeli.
 
 16. § (1) Magyarország területén növényvédelmi diplomához kötött tevékenységet – a jogszabályban meghatározott feltételeken túlmenően – az folytathat, aki a Kamara tagja; kivéve a (2) bekezdésben megjelölt személyeket.
 
-(2) A kormányzati igazgatásról szóló törvény alapján kormányzati szolgálati jogviszonyban álló személyek – ha kizárólag e jogviszony keretei között eljárva végeznek kamarai tagsághoz kötött tevékenységet – a kamarai tagságot önként vállalhatják.
+(2) A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény alapján közszolgálati jogviszonyban lévő személyek, amennyiben kizárólag e jogviszony keretei között eljárva végeznek kamarai tagsághoz kötött tevékenységet, a kamarai tagságot önként vállalhatják.
 
 17. § (1) A növényvédő mérnök–növényorvos a Kamara azon területi szervezeténél kérheti tagfelvételét, amelynek illetékességi területén növényvédelmi diplomához kötött tevékenységet folytat, illetve kíván folytatni. Aki a tagfelvétel időpontjában kamarai tagsághoz kötött tevékenységet nem folytat és nem is kíván folytatni, tagfelvételét a lakóhelye szerinti illetékes, vagy annál a területi kamarai szervezetnél kérheti, amelynek területén bármikor kamarai tagsághoz kötött tevékenységet folytatott.
 
@@ -254,7 +243,7 @@ kezeli.
 
 (3) Ha a Kamara a tagjai közé felveszi, az új tagot nyilvántartásba be kell jegyezni, és ki kell adni részére a tagsági igazolványt, valamint egyéb jogosító igazolásokat.
 
-(4) A tagfelvételt elutasító határozatot a határozat meghozatalától számított öt napon belül a kérelmező részére meg kell küldeni.
+(4) A tagfelvételt elutasító határozatot a határozat meghozatalától számított három munkanapon belül a kérelmező részére meg kell küldeni.
 
 (5)
 
@@ -262,12 +251,12 @@ kezeli.
 
 - a) aki azt kéri;
 - b) akit jogerősen egy évet meg nem haladó végrehajtandó szabadságvesztésre ítéltek, a szabadságvesztés időtartamára;
-- c) akit a bíróság jogerős ügydöntő határozattal a növényvédelmi szakirányú tevékenység folytatását kizáró foglalkozástól határozott időre eltiltott, a foglalkozástól eltiltás végrehajtása befejezéséig vagy végrehajthatóságának megszűnéséig;
+- c) akit a bíróság jogerős ítélettel a növényvédelmi szakirányú tevékenység folytatását kizáró foglalkozástól határozott időre eltiltott, a foglalkozástól eltiltás végrehajtása befejezéséig vagy végrehajthatóságának megszűnéséig;
 - d) aki a jogszabályban meghatározott időközönként kötelezően előírt, szervezett szakmai továbbképző tanfolyamon nem vesz részt, illetve az eredményes részvételt nem tudja igazolni.
 
 (2) A felfüggesztés időtartama alatt a tagsági viszonyból erdő valamennyi jog és kötelezettség szünetel.
 
-(3) Az (1) bekezdés a) és d) pontja alapján felfüggesztett tagsági viszonyt a területi szervezet a tag kérésére helyreállíthatja, a b) és c) pontok alapján felfüggesztett tagsági viszony pedig a szabadságvesztés büntetés letöltését vagy végrehajthatósága megszűnését, valamint a bíróság jogerős ügydöntő határozatában, illetve a jogerős fegyelmi határozatban megállapított időtartam lejártát követő napon helyreáll, ha azt a tag kérelmezi.
+(3) Az (1) bekezdés a) és d) pontja alapján felfüggesztett tagsági viszonyt a területi szervezet a tag kérésére helyreállíthatja, a b) és c) pontok alapján felfüggesztett tagsági viszony pedig a szabadságvesztés büntetés letöltését vagy végrehajthatósága megszűnését, valamint a jogerős bírói ítéletben, illetve fegyelmi határozatban megállapított időtartam lejártát követő napon helyreáll, ha azt a tag kérelmezi.
 
 19. § (1) Megszűnik a tagsági viszonya annak, aki
 
@@ -279,7 +268,7 @@ kezeli.
 (2) Ki kell zárni a Kamarából azt, akit
 
 - a) jogerősen egy évet meghaladó végrehajtandó szabadságvesztésre ítéltek;
-- b) a bíróság jogerős ügydöntő határozattal a növényvédelmi szakirányú tevékenység folytatását kizáró foglalkozástól végleges hatállyal eltiltott.
+- b) a bíróság jogerős ítélettel a növényvédelmi szakirányú tevékenység folytatását kizáró foglalkozástól végleges hatállyal eltiltott.
 
 (3) Kizárható a Kamarából az, aki kirívóan súlyos fegyelmi vétséget követ el.
 
@@ -316,7 +305,7 @@ kezeli.
 - b) megtartsa a Kamara Alapszabályában és egyéb szabályzataiban foglaltakat, továbbá
 - c) tevékenysége során a szakmai irányelveknek, valamint az etikai szabályzatban foglaltaknak megfelelően járjon el.
 
-(4) A közigazgatási pert az országos szervezet felügyelő bizottsága állásfoglalásának közlésétől számított harminc napon belül kell megindítani.
+(4) A keresetet az országos szervezet felügyelő bizottsága állásfoglalásának kézhezvételétől számított 30 napon belül a sérelmes döntést hozó szervezet ellen kell megindítani.
 
 ### VI. Fejezet — FELELŐSSÉGI SZABÁLYOK
 
@@ -333,7 +322,7 @@ minősül.
 
 (2) A munkáltató az általa tett intézkedés közlése mellett köteles a Kamarát értesíteni, amennyiben a kamarai tag olyan magatartást tanúsít, amely – véleménye szerint – a törvényben meghatározott szakmai vagy etikai vétséget valósítja meg.
 
-(3) A területi szervezet etikai-fegyelmi bizottsága a fegyelmi eljárást az (1) bekezdés szerinti tájékoztatást és a (2) bekezdés szerinti értesítést követően a 23. §-ban foglaltak szerint folytatja le.
+(3) A területi szervezet etikai-fegyelmi bizottsága a továbbiakban a jogerős fegyelmi döntés alapján az (1) bekezdés hatálya alá nem tartozó személyekre irányadó szabályok szerint jár el. Amennyiben a munkáltató nem hivatalvesztés, illetve elbocsátás fegyelmi büntetést alkalmazott a kamarai taggal szemben, a 26. § (1) bekezdés c)–d) pontjaiban szereplő fegyelmi büntetések nem alkalmazhatóak.
 
 23. § (1) A 22. § (1) bekezdésében meghatározott jogviszonyban nem álló növényvédő mérnökök–növényorvosok esetében a fegyelmi jogkört első fokon a területi szervezet etikai-fegyelmi bizottsága (a továbbiakban: első fokú etikai-fegyelmi bizottság) gyakorolja.
 
@@ -341,13 +330,9 @@ minősül.
 
 (3) A fegyelmi eljárás nem indítható meg, ha azt az első fokú etikai-fegyelmi bizottság a cselekmény tudomására jutásától számított hat hónapon belül nem indította meg, vagy ha a cselekmény elkövetése óta egy év eltelt.
 
-(4) Ha az adott ügyben hatósági vagy büntetőeljárás is indul, a hat hónapos határidő a hatóság vagy a bíróság jogerős vagy véglegessé vált határozatának, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható határozatának területi szervezettel történt közlésétől, az egyéves határidő pedig a hatósági vagy a büntetőeljárásnak a hatóság vagy a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától számít.
+(4) Ha az adott ügyben büntető- vagy szabálysértési eljárás is indul, a hat hónapos határidő a jogerős határozat területi szervezettel történt közlésétől, az egyéves határidő pedig az eljárás jogerős befejezésétől számít.
 
-(4a) Ha az adott ügyben szabálysértési eljárás is indul, a hat hónapos határidő a jogerős határozat területi szervezettel történt közlésétől, az egyéves határidő pedig az eljárás jogerős befejezésétől számít.
-
-(5) A hatóság és a bíróság határozatát a jogerőre emelkedést vagy véglegessé válást, az ügyészség vagy a nyomozó hatóság a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozatát a határozathozatalt követő 30 napon belül megküldi az illetékes kamarai szervnek.
-
-(5a) A szabálysértési hatóság határozatát a jogerőre emelkedést követő 30 napon belül megküldi az illetékes kamarai szervnek.
+(5) A bíróság vagy szabálysértési hatóság határozatát a jogerőre emelkedést követő 30 napon belül megküldi az illetékes kamarai szervnek.
 
 24. § (1) Az első fokú etikai-fegyelmi bizottság a fegyelmi felelősség tárgyában hozott döntését indokolt, írásbeli határozatba foglalja, és azt a hivatalos iratok kézbesítésére vonatkozó szabályok szerint megküldi az érintett kamarai tagnak, munkáltatójának, illetőleg a fegyelmi eljárás kezdeményezőjének.
 
@@ -368,7 +353,7 @@ minősül.
 - c) a tagsági viszony 1–6 hónapig terjedő felfüggesztése,
 - d) a kizárás.
 
-(2) Az első- és másodfokon eljáró etikai-fegyelmi bizottság a fegyelmi felelősség tárgyában, valamint az (1) bekezdés a) és b) pontjában meghatározott fegyelmi büntetés alkalmazása tekintetében egyszerű szótöbbséggel, az (1) bekezdés c) és d) pontjában meghatározott fegyelmi büntetés kiszabását illetően kétharmados szótöbbséggel hozza meg döntését. Az elsőfokon eljáró etikai-fegyelmi bizottság döntése alapján a titkár, a másodfokon eljáró etikai-fegyelmi bizottság döntése alapján a főtitkár határozatot hoz.
+(2) Az első- és másodfokon eljáró etikai-fegyelmi bizottság határozatát a fegyelmi felelősség tárgyában, valamint az (1) bekezdés a) pontjában szereplő fegyelmi büntetés alkalmazása tekintetében egyszerű szótöbbséggel, a c) pontokban meghatározott fegyelmi büntetések kiszabását, valamint a kizárás büntetés 19. § (3) bekezdésében meghatározott okból történő alkalmazását illetően kétharmados szótöbbséggel hozza.
 
 27. § A 19. § (2) bekezdésében meghatározott esetekben az első fokú etikai-fegyelmi bizottság a kizárásról bármely kamarai tag vonatkozásában fegyelmi eljárás lefolytatása nélkül határoz.
 
@@ -384,13 +369,13 @@ minősül.
 
 ### VII. Fejezet — A KAMARA ÁLLAMI FELÜGYELETE
 
-29. § (1) A Kamara törvényességi felügyeletét a miniszter látja el.
+29. § (1) A Kamara törvényességi felügyeletét az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) látja el.
 
 (2) Jogszabálysértés esetén – határidő kitűzésével – a miniszter felhívja a kamarai szervezetet a jogszabálysértés megszüntetésére.
 
 (3) A kamarai szerv a felhívásban foglaltakat megvizsgálja, és a megadott határidőn belül intézkedésről vagy egyet nem értéséről tájékoztatja a minisztert.
 
-(4)
+(4) Ha a kamarai szerv vagy tisztségviselő a megadott határidőn belül nem intézkedett a jogszabálysértés megszüntetésére, a miniszter keresetet nyújthat be a bírósághoz. Az eljárás során a képviseleti jogra az Alapszabály rendelkezései irányadóak.
 
 ### VIII. Fejezet — A KAMARA GAZDÁLKODÁSA
 
@@ -488,6 +473,6 @@ fedezi.
 (5) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
 - a) a növényvédelmi szakértői tevékenység folytatásának részletes feltételeit,
-- b) a növényvédelmi szakértői tevékenységre jogosító bejelentés rendjét,
+- b) a növényvédelmi szakértői tevékenységre jogosító engedély kiadásának rendjét,
 - c) a nyilvántartás személyes adatot nem tartalmazó adattartalmát és a vezetésére vonatkozó részletes eljárási szabályokat, valamint
-- d) – az adópolitikáért felelős miniszterrel egyetértésben – a növényvédelmi szakértői tevékenység végzésére jogosító bejelentésért fizetendő igazgatási szolgáltatási díjat.
+- d) – az adópolitikáért felelős miniszterrel egyetértésben – a növényvédelmi szakértői tevékenység végzésére jogosító engedélyért fizetendő igazgatási szolgáltatási díjat.

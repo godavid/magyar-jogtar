@@ -4,7 +4,7 @@ az egészségügyi közvetítői eljárásról
 
 1. § (1) A közvetítői eljárás célja az egészségügyi szolgáltató (a továbbiakban: szolgáltató) és a beteg között a szolgáltatás nyújtásával összefüggésben keletkezett jogvita peren kívüli egyezséggel történő rendezésének elősegítése, a felek jogainak gyors és hatékony érvényesítése.
 
-(2) A közvetítői eljárás lefolytatását kérheti a beteg, a beteg halála esetén annak közeli hozzátartozója vagy örököse és a szolgáltató (a továbbiakban: felek). A kérelmet a Magyar Igazságügyi Szakértői Kamaránál kell előterjeszteni.
+(2) A közvetítői eljárás lefolytatását kérheti a beteg, a beteg halála esetén annak közeli hozzátartozója vagy örököse és a szolgáltató (a továbbiakban: felek). A kérelmet a beteg lakóhelyéhez vagy az igénybe vett egészségügyi szolgáltatás helyéhez legközelebb eső területi igazságügyi szakértői kamaránál (a továbbiakban: kamara) kell előterjeszteni. A szolgáltató a betegek számára jól látható helyen kifüggeszti a területi igazságügyi szakértői kamarák jegyzékét, feltüntetve azok székhelyét és postacímét.
 
 (3) A kérelemnek tartalmaznia kell a beteg nevét, lakóhelyét, a szolgáltató nevét, székhelyét, a sérelmezett magatartás megnevezését és időpontját, következményeinek leírását, valamint az igényt.
 
@@ -26,15 +26,30 @@ az egészségügyi közvetítői eljárásról
 
 5. § (1) A MISZK a névjegyzékbe kérelmére azt veszi fel, aki jogi, orvosi vagy egyéb felsőfokú egészségügyi végzettséggel, továbbá szociológusi vagy klinikai szakpszichológusi végzettséggel rendelkezik, legalább 8 éves szakmai gyakorlata van, és a külön jogszabályban meghatározott közvetítői tanfolyamot elvégezte.
 
-(2) A névjegyzékbe kizárólag olyan személy vehető fel, aki cselekvőképes, büntetlen előéletű, és nem áll foglalkozástól eltiltás hatálya alatt. Nem vehető fel a névjegyzékbe a bíró, az ügyész, továbbá az a személy, aki köztisztviselői jogviszonyban áll, a jogviszonya fennállása alatt.
+(2) A névjegyzékbe kizárólag olyan személy vehető fel, aki cselekvőképes, büntetlen előéletű, és nem áll foglalkozástól eltiltás hatálya alatt. Nem vehető fel a névjegyzékbe a bíró, az ügyész, továbbá az a személy, aki köztisztviselői jogviszonyban áll, a jogviszonya fennállása alatt, továbbá az sem, aki az 5/A. § (1) bekezdés a) pontja alapján nem igazolja, vagy az 5/A. § (1) bekezdés b) pontja alapján nem kéri annak igazolását, hogy büntetlen előéletű, és nem áll foglalkozástól eltiltás hatálya alatt.
 
 (3) Törölni kell a névjegyzékből azt, aki nem cselekvőképes, büntetett előéletű, vagy foglalkozástól eltiltás hatálya alatt áll.
 
 (4) A névjegyzékben szereplő személy a névjegyzékben vezetett adataiban bekövetkezett változásokat, illetve az időközben bekövetkezett kizáró okot a változástól számított 30 napon belül köteles bejelenteni a MISZK-nek.
 
-#### 5/A. §
+5/A. § (1) A kérelmező a névjegyzékbe való felvételt megelőzően
 
-#### 5/B. §
+- a) hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű, és nem áll foglalkozástól eltiltás hatálya alatt, vagy
+- b) kéri, hogy az arra vonatkozó adatokat, amely szerint büntetlen előéletű, és nem áll foglalkozástól eltiltás hatálya alatt, a bűnügyi nyilvántartó szerv a MISZK részére – annak a névjegyzékbe való felvétel elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
+
+(2) Az (1) bekezdés b) pontjában meghatározott adatigénylés során a MISZK arra vonatkozóan igényelhet adatot a bűnügyi nyilvántartó szervtől, hogy a névjegyzékbe való felvételét kérelmező személy büntetlen előéletű, és nem áll foglalkozástól eltiltás hatálya alatt.
+
+5/B. § (1) A MISZK hatósági ellenőrzés keretében ellenőrzi azt is, hogy a közvetítő büntetlen előéletű, és nem áll foglalkozástól eltiltás hatálya alatt.
+
+(2) A MISZK az (1) bekezdésében meghatározott körülmény igazolása céljából kezeli
+
+- a) a kérelmező,
+- b) a közvetítő azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
+
+(3) A (2) bekezdésben meghatározott személyes adatokat a MISZK
+
+- a) a névjegyzékbe való felvétel iránti eljárás jogerős befejezéséig,
+- b) a névjegyzékbe való felvétel esetén a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
 6. § (1) A közvetítői eljárás megindulása esetén a szolgáltató értesíti az eljárásról azt a biztosítót, akivel felelősségbiztosítást kötött (a továbbiakban: biztosító) és a biztosító nevéről és székhelyéről tájékoztatja a kamarát. A tanács üléseire a biztosítót is meg kell hívni, és részére észrevételezési jogot kell biztosítani. A szolgáltató úgy is nyilatkozhat, hogy a közvetítői eljárásban a biztosítója részvételének mellőzését kéri.
 
@@ -42,21 +57,19 @@ az egészségügyi közvetítői eljárásról
 
 (3) A meghívóban tájékoztatni kell a feleket a képviselet lehetőségéről, illetve módjáról, továbbá fel kell hívni a feleket arra, hogy az üggyel kapcsolatos ismereteiket lehetőleg az első ülésen tárják a tanács elé.
 
-(4) A feleket meghatalmazás alapján nagykorú, cselekvőképes személy, az (5) bekezdésben meghatározott egyesület, alapítvány, illetve jogi képviselő (ügyvéd vagy a kamarai jogtanácsos) képviselheti.
+(4) A feleket meghatalmazás alapján nagykorú, cselekvőképes személy, az (5) bekezdésben meghatározott társadalmi szervezet, illetve jogi képviselő (ügyvéd vagy a szolgáltatót a jogtanácsosa) képviselheti.
 
-(5) A beteg képviseletére az az egyesület, alapítvány jogosult, amely az alapító okiratában foglaltak szerint a betegjogok, az emberi jogok, illetve a betegek érdekvédelmének területén tevékenykedik. A szolgáltatót a szolgáltatókat tömörítő társadalmi, illetve érdekképviseleti szervezet képviselheti.
+(5) A beteg képviseletére az a társadalmi szervezet jogosult, amely az alapító okiratában foglaltak szerint a betegjogok, az emberi jogok, illetve a betegek érdekvédelmének területén tevékenykedik. A szolgáltatót a szolgáltatókat tömörítő társadalmi, illetve érdekképviseleti szervezet képviselheti.
 
 7. § (1) A tanács az ülését a kamara helyiségében tartja. A felek kihelyezett ülés tartásában is megállapodhatnak, ha ezt az ügy körülményei indokolják.
 
-(1a) A tanács a felek kérésére vagy hivatalból elrendelheti, hogy az ülés megtartására elektronikus kép és hang egyidejű továbbítására alkalmas eszköz útján kerüljön sor.
-
 (2) Az első ülésen a tanács tájékoztatja a feleket a közvetítői eljárás menetéről, annak lényeges elemeiről, így különösen annak költségeiről, illetve a titoktartási kötelezettségről. Ha a felek változatlanul kérik az eljárás lefolytatását, a mellékletben foglalt nyilatkozatot teszik.
 
-(3) Ha a felek eltérően nem állapodnak meg, a költségek előlegezése a szolgáltatót terheli. A nyilatkozat aláírásával vagy megtételével egyidejűleg a felek előzetesen megállapodhatnak az eljárás során felmerülő költségek viselésének módjáról is.
+(3) Ha a felek eltérően nem állapodnak meg, a költségek előlegezése a szolgáltatót terheli. A nyilatkozat aláírásával egyidejűleg a felek előzetesen megállapodhatnak az eljárás során felmerülő költségek viselésének módjáról is.
 
-(4) Ha a felek között ugyanabból a jogalapból származó bírósági eljárás folyik, a felek a nyilatkozat aláírását vagy megtételét követően kötelesek az eljárás szünetelése iránti kölcsönös megegyezésüket a bíróságnak 8 napon belül bejelenteni. A bejelentés elmulasztása esetén a közvetítői eljárást meg kell szüntetni.
+(4) Ha a felek között ugyanabból a jogalapból származó bírósági eljárás folyik, a felek a nyilatkozat aláírását követően kötelesek az eljárás szünetelése iránti kölcsönös megegyezésüket a bíróságnak 8 napon belül bejelenteni. A bejelentés elmulasztása esetén a közvetítői eljárást meg kell szüntetni.
 
-8. § (1) A nyilatkozat aláírását vagy megtételét követően a tanács a feleket részletesen meghallgatja. Ennek során a felek kifejtik érdekeik alapján kialakított álláspontjukat. A felek az első ülésen a rendelkezésükre álló okiratokat is kötelesek bemutatni.
+8. § (1) A nyilatkozat aláírását követően a tanács a feleket részletesen meghallgatja. Ennek során a felek kifejtik érdekeik alapján kialakított álláspontjukat. A felek az első ülésen a rendelkezésükre álló okiratokat is kötelesek bemutatni.
 
 (2) A közvetítői eljárás során a közvetítői tanács köteles biztosítani, hogy a felek egyenlő elbánásban részesüljenek.
 
@@ -78,7 +91,7 @@ az egészségügyi közvetítői eljárásról
 
 (3) A titoktartási kötelezettség kiterjed a felek között létrejött egyezség tartalmára, valamint az eljárás folyamán elhangzottakra is.
 
-11. § (1) A felek által megkötött egyezséget a tanács írásba foglalja, azt a tanács tagjai és a felek is aláírják vagy ha az ülés megtartására elektronikus kép és hang egyidejű továbbítására alkalmas eszköz útján került sor magukra nézve kötelezőnek ismerik el.
+11. § (1) A felek által megkötött egyezséget a tanács írásba foglalja, azt a tanács tagjai és a felek is aláírják.
 
 (2) Az egyezség a biztosítóval szemben csak akkor hatályos, ha azt a biztosító tudomásul vette, vagy részben tudomásul vette. Ez utóbbi esetben meg kell jelölni, hogy a biztosító milyen mértékben (összegben) veszi tudomásul a felek egyezségében foglaltakat.
 
@@ -108,7 +121,7 @@ az egészségügyi közvetítői eljárásról
 
 (2) Az 5. § (1) bekezdése alapján a kérelmezőt a névjegyzékbe a közvetítői tanfolyam elvégzésének igazolása nélkül is fel kell venni, 2002. január 1. napját követően azonban a közvetítői tanfolyam elvégzése igazolásának hiányában a közvetítőt törölni kell a névjegyzékből.
 
-(3) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével kiadott rendeletben megállapítsa a közvetítői képesítés követelményeit, a képesítés megszerzésének módját, a névjegyzékben vezetett adatok körét, továbbá a közvetítői eljárás költségelemeinek összegét.
+(3) Felhatalmazást kap az egészségügyért felelős miniszter és az igazságügyért felelős miniszter, hogy a közvetítői képesítés követelményeit, a képesítés megszerzésének módját, a névjegyzékben vezetett adatok körét, továbbá a közvetítői eljárás költségelemeinek összegét együttes rendeletben megállapítsa.
 
 (4)
 

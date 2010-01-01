@@ -8,49 +8,45 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 
 ### I. Fejezet — A TÖRVÉNY HATÁLYA, CÉLJAI ÉS ALAPELVEI
 
-1. § (1) E törvény hatálya kiterjed
+1. § (1) A törvény hatálya kiterjed
 
-- a) a Magyarország területén végzett vagy területére irányuló elektronikus hírközlési tevékenységre, valamint minden olyan tevékenységre, amelynek gyakorlása során rádiófrekvenciás jel keletkezik,
+- a) a Magyar Köztársaság területén végzett vagy területére irányuló elektronikus hírközlési tevékenységre, valamint minden olyan tevékenységre, amelynek gyakorlása során rádiófrekvenciás jel keletkezik,
 - b) az a) pontban foglalt, vagy azzal összefüggő tevékenységet végző vagy szolgáltatást nyújtó természetes, illetőleg jogi személyre vagy jogi személyiséggel nem rendelkező más szervezetre és ezek vezető tisztségviselőire,
-- c) a felhasználókra, a végfelhasználókra, a fogyasztókra és az előfizetőkre,
-- d) az a) pontban foglalt vagy azzal összefüggő tevékenységet végző vagy azt igénybe vevő belföldi vagy külföldi természetes, illetve jogi személyre vagy jogi személyiséggel nem rendelkező más szervezetre és ezek vezető tisztségviselőire,
-- e) a 159/B–159/D. § és a 182. § (3) bekezdés tekintetében az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben meghatározott kereső- és gyorsítótárolás-szolgáltatást végző közvetítő szolgáltatókra (a továbbiakban együtt: kereső- és gyorsítótár-szolgáltatók),
-- f) a 83/A. §, a 83/B. §, a 93/A. §, a 93/B. § és a 94–95. § tekintetében a hálózatüzemeltetőre és a közszférabeli szervezetre,
-- g) a 99/A–99/C. §, valamint a 100/A. § tekintetében az épületen belüli fizikai infrastruktúrával rendelkezni jogosult személyre,
-- h) az elektronikus hírközlési építmény építési folyamatának résztvevőjére,
-- i) a 47. § tekintetében az elektronikus hírközlési iparágban vagy ahhoz közvetlenül kapcsolódó más ágazatban tevékenységet végző gazdálkodó szervezetre,
-- j) a 61. §-ban szabályozott esetben a más tagállamban letelepedett szolgáltatóra vagy vállalkozásra.
+- c) a felhasználókra, a fogyasztókra és az előfizetőkre,
+- d) az a) pontban foglalt tevékenységet vagy szolgáltatást végző, illetve nyújtó, vagy azzal összefüggő tevékenységet végző vagy azt igénybevevő belföldi vagy külföldi természetes, illetőleg jogi személyre vagy jogi személyiséggel nem rendelkező más szervezetre és ezek vezető tisztségviselőire.
 
-(2) E törvényt a jogszabályban meghatározott közfeladatok ellátásához szükséges olyan elektronikus hírközlő hálózat esetén, amely nyilvános elektronikus hírközlő hálózattól fizikailag vagy logikailag elkülönített (a továbbiakban: kormányzati célú hálózat), valamint az ilyen hálózatokkal kapcsolatos elektronikus hírközlési tevékenység tekintetében a rájuk vonatkozó külön jogszabályokban foglalt eltérésekkel kell alkalmazni.
+(2) E törvényt a kizárólag kormányzati, nemzetbiztonsági, igazságszolgáltatási, rendvédelmi, illetőleg védelmi igények kielégítését szolgáló – rendeltetésük szerint elkülönült – hírközlő hálózatok (zártcélú hálózatok) tekintetében a rájuk vonatkozó külön törvényekben és más jogszabályokban foglalt eltérésekkel kell alkalmazni.
 
-2. § E törvény céljai és alapelvei:
+2. § A törvény céljai és alapelvei:
 
-- a) az elektronikus hírközlő infrastruktúra fejlesztését és az elektronikus hírközlési szolgáltatások, végberendezések és új technológiák elterjedését elősegítő kiszámítható, következetes, átlátható, az alkalmazott technológiától független versenyt, valamint azokon a területeken, ahol lehetséges, az infrastruktúraalapú versenyt segítő szabályozás megteremtése;
-- b) az infrastruktúrával, a versennyel, valamint a végfelhasználók körülményeivel kapcsolatos feltételek sokféleségének figyelembevétele, a végfelhasználók érdekeinek magas szintű védelme az elektronikus hírközlési piac valamennyi szereplőjével fenntartott kapcsolataikban, így különösen annak biztosítása, hogy a végfelhasználók, és különösen a fogyasztók
-  - ba) elérjék és használatba vehessék a rendkívül nagy kapacitású hálózatokat, és a rendelkezésükre álljanak azok az elektronikus hírközlési szolgáltatások, amelyek ahhoz szükségesek, hogy – a jogosultságok függvényében – hozzájuthassanak valamennyi, az elektronikus hírközlési eszközön elérhető információhoz és terjeszthessék azokat, hozzájuthassanak a szolgáltatók által továbbított médiatartalomhoz, továbbá használhassák az általuk választott alkalmazásokat és szolgáltatásokat,
-  - bb) az elektronikus hírközlő hálózatok, elektronikus hírközlési szolgáltatók, illetve szolgáltatások között szabadon választhassanak, és dönthessenek, hogy mely hálózatot, szolgáltatót, illetve szolgáltatást kívánják igénybe venni,
-  - bc) más végfelhasználókkal elektronikus hírközlés útján kapcsolatot létesíthessenek, függetlenül attól, hogy azok ugyanazon vagy más szolgáltatóval állnak szerződéses kapcsolatban,
+- a) az információs társadalom elektronikus hírközlési infrastruktúrájának fejlesztését és az információs társadalommal összefüggő szolgáltatások és új technológiák elterjedését elősegítő kiszámítható, átlátható, az alkalmazott technológiától független, versenyt segítő szabályozás megteremtése;
+- b) a fogyasztók érdekeinek védelme az elektronikus hírközlési piac valamennyi szereplőjével fenntartott kapcsolataikban, így különösen annak biztosítása, hogy a fogyasztók
+  - ba) rendelkezésére álljanak azok a hírközlési szolgáltatások, amelyek ahhoz szükségesek, hogy – a jogosultságok függvényében – hozzájuthassanak valamennyi, az elektronikus hírközlési eszközön elérhető információhoz, illetőleg tartalomszolgáltató szolgáltatásához,
+  - bb) az elektronikus hírközlő hálózatok, elektronikus hírközlési szolgáltatók (a továbbiakban: szolgáltatók), illetve szolgáltatások között szabadon választhassanak, és dönthessenek, hogy mely hálózatot, szolgáltatót, illetve szolgáltatást kívánják igénybe venni,
+  - bc) más fogyasztókkal elektronikus hírközlés útján kapcsolatot létesíthessenek, függetlenül attól, hogy azon fogyasztók ugyanazon vagy más szolgáltatóval állnak szerződéses kapcsolatban,
   - bd) szolgáltatótól függetlenül szabadon választhassanak az általuk igénybe vett szolgáltatók, szolgáltatások között,
-  - be) az elektronikus hírközlési szolgáltatásokat nyilvánosan megismerhető, meghatározott és méltányos feltételek mellett, megfizethető áron, a legmagasabb minőségben vehessék igénybe,
+  - be) az elektronikus hírközlési szolgáltatásokat nyilvánosan megismerhető, meghatározott és méltányos feltételek mellett, a számukra elérhető legalacsonyabb áron, a legmagasabb minőségben vehessék igénybe,
   - bf) a szolgáltatások jellemzőivel és igénybevételük feltételeivel kapcsolatban megbízható, átlátható és naprakész információt kapjanak,
   - bg) magas szintű védelmet vehessenek igénybe a szolgáltatókkal szembeni jogvitáik egyszerű és gyors rendezése érdekében;
-- c) a társadalom egésze érdekében meghatározott magas szintű és hatékony elektronikus hírközlési szolgáltatások egyetemes biztosítása, különösen a szakszerű és hatékony rádióspektrum-használat révén a nagy sebességű, szélessávú vezeték nélküli elektronikus hírközlési szolgáltatások elérésének biztosítása az ország területén;
-- d) az azonos földrajzi térséghez tartozó fogyasztók és meghatározott társadalmi csoportok, különösen a fogyatékossággal élő személyek, az időskorú és szociális szempontból rászoruló felhasználók igényeinek fokozott figyelembevétele, különös tekintettel arra, hogy e személyek elektronikus hírközlési szolgáltatásokhoz való hozzáférését megkönnyítő végberendezéseket biztosítsanak, valamint, hogy a végfelhasználók részére megfelelő választék és egyenértékű hozzáférés álljon rendelkezésre;
-- e) az egységesülő elektronikus hírközlési piacokon, ideértve a tartalom továbbítását is, a versenyt torzító vagy korlátozó akadályok különösen a különböző földrajzi térségekben speciálisan jellemző, illetve jelentkező akadályok felszámolása, és a hatékony verseny továbbfejlődésének elősegítése, összehangolt feltételek kialakítása, közös és a hosszú távú, kiszámítható szabályozási megközelítések alkalmazása útján;
+- c) a társadalom egésze érdekében meghatározott magas szintű és hatékony elektronikus hírközlési szolgáltatások egyetemes biztosítása;
+- d) meghatározott társadalmi csoportok, különösen a fogyatékkal élő és az alacsony jövedelmű felhasználók igényeinek fokozott figyelembevétele;
+- e) az egységesülő elektronikus hírközlési piacokon a versenyt torzító vagy korlátozó akadályok felszámolása, és a hatékony verseny továbbfejlődésének elősegítése;
 - f) a piaci résztvevők szabadságát, jogait, kötelezettségeit, esélyegyenlőségét, érdekérvényesítési lehetőségét és új szereplők piacra lépését biztosító jogi és gazdasági környezet kialakítása, így különösen a jelentős piaci erővel rendelkezők befolyásának – a hatékony piaci verseny kialakulásához és fenntartásához szükséges mértékű – differenciált ellensúlyozása, valamint annak biztosítása, hogy a piaci résztvevők a versenytársak érdekeit tiszteletben tartva, az üzleti tisztesség követelményeinek megfelelően folytassák tevékenységüket;
-- g) az elektronikus hírközlési piac zavartalan és eredményes működésének, valamint az elektronikus hírközlési tevékenységet végzők és a felhasználók érdekeinek védelme az érintett egyéb ágazatokkal együttműködve, továbbá a tisztességes és hatékony piaci verseny fenntartásának biztosítása, valamint a hatékony beruházás és innováció előmozdítása a beruházók által viselt kockázatok figyelembevételével a hozzáférési kötelezettségek megállapítása során, egyúttal biztosítva a piaci verseny fennmaradását és a megkülönböztetésmentesség elvének érvényesülését;
-- h) az egységesülő elektronikus hírközlési piacokon egyenlő elbánás elvét érvényesítő eljárások és szolgáltatások, így különösen a végfelhasználók között az állampolgárságuk, lakóhelyük vagy székhelyük helye szerinti tagállam alapján, objektív módon alá nem támasztható megkülönböztetések elkerülésének biztosítása az elektronikus hírközlési tevékenységet végző szervezetek és személyek jogszabálynak megfelelő magatartásának felügyelete útján;
+- g) az elektronikus hírközlési piac zavartalan és eredményes működésének, valamint az elektronikus hírközlési tevékenységet végzők és a felhasználók érdekeinek védelme, továbbá a tisztességes és hatékony piaci verseny fenntartásának biztosítása;
+- h) az egységesülő elektronikus hírközlési piacokon egyenlő elbánás elvét érvényesítő eljárások és szolgáltatások biztosítása az elektronikus hírközlési tevékenységet végző szervezetek és személyek jogszabályoknak megfelelő magatartásának felügyelete útján;
 - i) az elektronikus hírközléssel összefüggő adatvédelem elősegítése, illetőleg megvalósítása;
 - j) a környezetvédelmi követelmények érvényesítése az elektronikus hírközléssel összefüggésben;
 - k) a kulturális, tudományos és társadalmi értékek közvetítésének elősegítése a műsorterjesztés mint elektronikus hírközlési szolgáltatás megfelelő szabályozása útján, így különösen a közszolgálati rádió- és televízió-műsorok elérhetőségének biztosítása, valamint e szolgáltatások minőségével és folyamatos elérhetőségével kapcsolatos alapvető közszolgáltatási feladatok meghatározása;
-- l) a nyilvános elektronikus hírközlő hálózatok és szolgáltatások egységének és biztonságának fenntartása;
-- m) a rádióspektrummal és az azonosítókkal való hatékony és szakszerű gazdálkodás, biztosítva annak lehetőségét, hogy bármely nemzetközileg elérhető típusú technológia használható legyen a jogszabályi keretek között; a legmegfelelőbb és a lehető legkisebb terhet jelentő hatékony engedélyezési rendszer alkalmazása, amely a rugalmas és indokolt esetben a megosztott spektrumhasználatot is lehetővé teszi, továbbá a rádióspektrumdíjak megállapításánál a használhatóság, alternatív használat figyelembevétele;
-- n) a rádióspektrum hatékony, szakszerű, a legmodernebb műszaki megoldásokkal, technológiákkal történő káros zavarástól mentes használatának elősegítése;
-- o) az elektronikus hírközlési szolgáltatásoknak Magyarország nemzetközi szerződéseivel összhangban levő szabad forgalmának biztosítása és Magyarország nemzetközi kötelezettségeinek teljesítése, ideértve a határokon átnyúló szolgáltatások biztosítását az elérhető legalacsonyabb áron, valamint a harmonizált rádióspektrum határövezeti használatának szabályozását oly módon, hogy a szomszédos uniós tagállamokban biztosítható legyen egy adott harmonizált rádióspektrum uniós jognak megfelelő használata;
-- p) a magyar elektronikus hírközlési piacok integrációja az Európai Unió egységesülő elektronikus hírközlési piacaiba, különös tekintettel a transzeurópai hálózatok – ideértve a transzeurópai közlekedési hálózatot – létrehozására és fejlesztésére a hálózati összekapcsoltság előmozdítása és a rendkívül nagy kapacitású hálózatokhoz való hozzáférés és e hálózatok használatának elősegítése, továbbá az összeurópai szolgáltatások együttműködési képességének, valamint a végponttól végpontig történő kapcsolatépítések ösztönzésére a rádióspektrum elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások általi használatának harmonizációja a fogyasztói előnyök – így különösen a verseny, a méretgazdaságosság, valamint a hálózatok és szolgáltatások együttműködése – megvalósításának érdekében;
-- q) az elektronikus hírközlés állami feladatai ellátásával kapcsolatos alapvető szabályok meghatározása, különös tekintettel az elektronikus hírközlés biztonságára, veszélyeztetettségére, a különleges jogrend idejére irányuló felkészítés rendjére.
+- l) a nyilvános elektronikus hírközlő hálózatok egységének és biztonságának fenntartása;
+- m) a rádiófrekvenciákkal és azonosítókkal való hatékony gazdálkodás;
+- n) a rádiófrekvenciák káros zavarástól mentes felhasználásának elősegítése;
+- o) az elektronikus hírközlési szolgáltatásoknak a Magyar Köztársaság nemzetközi szerződéseivel összhangban levő szabad forgalmának biztosítása és a Magyar Köztársaság nemzetközi kötelezettségeinek teljesítése, ideértve a határokon átnyúló szolgáltatások biztosítását az elérhető legalacsonyabb áron;
+- p) a magyar elektronikus hírközlési piacok integrációja az Európai Közösség egységesülő elektronikus hírközlési piacaiba, különös tekintettel a transz-európai hálózatok létrehozására és fejlesztésére, valamint az összeurópai szolgáltatások együttműködési képességének, valamint a végponttól végpontig történő kapcsolatépítések ösztönzésére;
+- q) az elektronikus hírközlés állami feladatai ellátásával kapcsolatos alapvető szabályok meghatározása, különös tekintettel az elektronikus hírközlés biztonságára, veszélyeztetettségére, a rendkívüli állapot, szükségállapot vagy veszélyhelyzet (a továbbiakban együtt: minősített időszak) idejére irányuló felkészítés rendjére.
 
-#### 3. §
+3. § (1) Az elektronikus hírközlési tevékenységet végzők az e törvény hatálya alá tartozó tevékenységek végzése során kötelesek együttműködni.
+
+(2) Az elektronikus hírközlő hálózatokat egymás között olyan egyeztetett műszaki feltételrendszerben kell működtetni, hogy azok – jogszabályban, illetőleg nemzetközi szerződésekben meghatározott esetekben – a szükséges kapcsolat létesítéséhez közvetlenül vagy megfelelő interfészek, hálózatrészek, elemek, berendezések, szolgáltatások beiktatásával egységesen működő rendszert alkothassanak.
 
 ## MÁSODIK RÉSZ — AZ ELEKTRONIKUS HÍRKÖZLÉSSEL KAPCSOLATOS ÁLLAMI FELADATOK
 
@@ -60,257 +56,276 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 
 4. § (1) A Kormány:
 
-- a) elfogadja a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) által megalkotott stratégiák és ágazati politikák mentén a Hatóság által előkészített elektronikus hírközlés-politikát és rádióspektrum-politikát tartalmazó stratégiai dokumentumokat, amelyek meghatározzák különösen az elektronikus hírközlési tevékenységek és szolgáltatások, valamint a frekvencia- és azonosítógazdálkodás alapvető elveit és feltételeit;
-- b) a társadalmi esélyegyenlőség előmozdítása érdekében úgy alakítja ki az a) pontban említett politikákat és programokat, hogy a fogyatékos és megváltozott munkaképességű személyek a többi felhasználó számára biztosítottal azonos szinten férhessenek hozzá az elektronikus hírközlési szolgáltatásokhoz, különösen a nyilvánosan elérhető telefonszolgáltatáshoz;
-- c) irányítja az európai uniós tagsággal összefüggő és más nemzetközi feladatok ellátását az elektronikus hírközlés és informatika területén és gondoskodik az ehhez szükséges jogalkotási feladatok megvalósításáról;
-- d) gondoskodik a fogyasztói érdekek érvényre juttatásáról, önállóan gondoskodik a fogyasztók jogszabályban meghatározott csoportjainak kivételes támogatásáról;
-- e) biztosítja, hogy a végfelhasználók rendelkezésére álljon egy, az eltűnt gyermekek bejelentésére fenntartott díjmentes forróvonalat működtető szolgálat;
-- f)
-- g) meghatározza az elektronikus hírközlés biztonságának alapelveit, a különleges jogrend, összehangolt védelmi tevékenység idejére, váratlan támadás esetére irányuló felkészítésének rendszerét, ezzel összefüggésben biztosítja az államigazgatásra háruló feladatok ellátásának feltételeit,
-- h) meghatározza az elektronikus hírközlés területén a védelmi és biztonsági érdek, a nemzetbiztonsági érdek, valamint a honvédelmi érdek érvényesítéséhez szükséges feltételeket, valamint az ezek megvalósulásának ellenőrzésére vonatkozó szabályokat,
-- i) biztosítja a lakosság riasztásának rendszerét;
-- j) ellátja az elektronikus hírközléssel összefüggő, jogszabályban meghatározott további feladatokat.
-- k) meghatározza az alapvető felhasználók elektronikus hírközlési szolgáltatással történő ellátásának sorrendjét összehangolt védelmi tevékenység idején vagy váratlan támadás esetén.
+- a) kialakítja az elektronikus hírközlés-politikát, a rádióspektrum politikát, az elektronikus hírközlési és informatikai tevékenységek, szolgáltatások és a frekvencia- és azonosítógazdálkodás alapvető elveit és feltételeit, valamint az információs társadalom infrastruktúrájának fejlesztésére irányuló állami programokat;
+- b) gondoskodik az azonosítók összességének az egyes tevékenységek és szolgáltatások közötti felosztását, az azonosítók típusát, felépítését és terjedelmét tartalmazó Azonosítók Nemzeti Felosztási Tervének (ANFT) kiadásáról, és szükség esetén, de legalább háromévenként történő felülvizsgálatáról;
+- c) irányítja az európai uniós tagsággal összefüggő és más nemzetközi feladatok ellátását az elektronikus hírközlés és informatika területén;
+- d) a fogyasztóvédelemért felelős miniszteren keresztül gondoskodik a fogyasztói érdekek érvényre juttatásáról, valamint önállóan gondoskodik a fogyasztók jogszabályban meghatározott csoportjainak kivételes támogatásáról;
+- e) gondoskodik a frekvenciasávok nemzeti felosztásának megállapításáról és szükség esetén, de legalább háromévenként történő felülvizsgálatáról, ennek során gondoskodik az észak-atlanti szövetségi tagságot szolgáló frekvenciasávok védelméről;
+- f) rendelkezik a nem polgári célú frekvenciagazdálkodási feladatokat ellátó hatóság szervezetéről és működéséről, irányításáról, feladatairól és finanszírozásáról, meghatározza a nem polgári célú frekvenciagazdálkodás rendjét, valamint a körébe tartozó szervezeteket;
+- g) meghatározza az elektronikus hírközlés biztonságának alapelveit, minősített időszaki felkészítésének rendszerét, biztosítja az államigazgatásra háruló feladatok ellátásának feltételeit;
+- h) meghatározza az elektronikus hírközlés területén a nemzetbiztonsági érdekek érvényesítéséhez szükséges feltételeket, valamint az ezek megvalósulásának ellenőrzésére vonatkozó szabályokat;
+- i) ellátja az elektronikus hírközléssel összefüggő, jogszabályban meghatározott további feladatokat.
 
-(2) A Kormány az elektronikus hírközlési piacot szabályozó jogszabályainak tervezetével kapcsolatban egyeztet az érdekeltekkel.
+(2) A Kormány az elektronikus hírközlési piacot szabályozó jogszabályainak tervezetével kapcsolatban a 36. §-ban foglaltak értelemszerű alkalmazásával egyeztet az érdekeltekkel.
 
 ### A miniszter feladatai
 
 5. § (1) Az elektronikus hírközlésért felelős miniszter (a továbbiakban: miniszter) e törvény, továbbá a feladat- és hatáskörét megállapító jogszabály alapján:
 
-- a) biztosítja, hogy a lakosság megfelelő tájékoztatást kapjon a harmonizált közérdekű szolgáltatásokról és használatáról, különösen a kifejezetten a tagállamokban utazó személyeknek szánt kezdeményezéseken keresztül, valamint hogy a fogyatékos személyek a lehető legnagyobb mértékben hozzá tudjanak férni ezen szolgáltatásokhoz, továbbá ösztönzi a harmonizált közérdekű szolgáltatások nyújtását;
-- b) biztosítja, hogy a polgárok megfelelő tájékoztatást kapjanak a „112” egységes európai segélyhívó számról és használatáról, különösen a kifejezetten a tagállamok között utazó személyeket célzó kezdeményezéseken keresztül, továbbá hogy a fogyatékos személyek segélyhívó szolgáltatásokhoz való hozzáférése a többi végfelhasználóéval egyenértékű legyen;
-- c) a feladat- és hatáskörét érintő szakági területen széles társadalmi, iparági érdeket megjelenítő, vagy tudományos tevékenységet végző szervezetekkel kialakítandó közvetlen együttműködésre irányuló partnerségi, együttműködési megállapodásokkal gondoskodik az infokommunikációs stratégiai célkitűzések érvényre jutásáról;
-- d)
-- e)
-- f)
-- g)
-- h)
+- a)–f)
+- g)–h)
 - i)
-- j)
-- k)
-- l)
+- j) rendeletben meghatározza a piacmeghatározás, piacelemzés és a jelentős piaci erejű szolgáltatókra vonatkozó kötelezettségek előírása során alkalmazandó alapelveket;
+- k) az adópolitikáért felelős miniszterrel egyetértésben ellátja a hatósági árszabályozással kapcsolatos feladatokat;
+- l) figyelemmel kíséri az egyetemes elektronikus hírközlési szolgáltatás (a továbbiakban: egyetemes szolgáltatás) ellátásának helyzetét, és intézkedik a szolgáltatás biztosítása érdekében, lebonyolítja az egyetemes szolgáltatók kiválasztásával kapcsolatos eljárásokat, szerződést köt az egyetemes szolgáltatókkal;
 - m)
-- n)
+- n) kijelöli a honvédelmi és a katasztrófavédelmi feladatok ellátásában részt vevő elektronikus hírközlési szolgáltatókat, meghatározza a minősített időszaki helyzetekre történő felkészüléssel kapcsolatos feladatokat;
 - o)
 - p)
-- q)
+- q) ellátja a hatályban lévő koncessziós szerződésekkel kapcsolatos tevékenységeket;
 - r)
-- s)
+- s) a frekvenciasávok nemzeti felosztása keretei között rendeletben állapítja meg az egyes kijelölhető polgári és közös célú frekvenciasávok felhasználására vonatkozó szabályokat, amelyeknek tartalmazniuk kell a rádiórendszerek frekvenciagazdálkodási követelményeit, a rádióberendezések frekvenciagazdálkodási követelményeit, a frekvencia-engedélyezéssel és használattal kapcsolatos sávhasználati feltételeket;
 - t)
 - u) ellátja a más jogszabályban feladat- és hatáskörébe utalt egyéb feladatokat.
 
-(2)
+(2) A miniszter kijelölő hatóságként engedélyezi az elektronikus hírközlési szolgáltatások és az elektronikus hírközlő berendezések megfelelőségértékelésére irányuló tevékenységet.
 
-(3)
+(3) Minősített időszak esetén, illetőleg következményei elhárítása érdekében – a Honvédelmi Tanács, a köztársasági elnök, illetve a Kormány döntése alapján – a miniszter határozattal állapítja meg az elektronikus hírközlési tevékenység átmeneti korlátozását vagy szünetelését.
 
-#### 6. §
+6. § A miniszter az elektronikus hírközlési piacot szabályozó jogszabályok tervezetével kapcsolatban a 36. §-ban foglaltak értelemszerű alkalmazásával egyeztet az érdekeltekkel.
 
-#### 7. §
+7. § A nem polgári célú frekvenciagazdálkodási feladatokat – amennyiben e törvény másként nem rendelkezik – a miniszterrel egyetértésben a nem polgári célú frekvenciagazdálkodási feladatokat ellátó miniszter látja el.
 
-#### 8. §
+8. §
 
-### III. Fejezet — A NEMZETI MÉDIA- ÉS HÍRKÖZLÉSI HATÓSÁG FELADATAI ÉS FELÉPÍTÉSE
+### III. Fejezet — A NEMZETI HÍRKÖZLÉSI HATÓSÁG FELADATAI ÉS FELÉPÍTÉSE
 
-### A Nemzeti Média- és Hírközlési Hatóság
+### A Nemzeti Hírközlési Hatóság
 
-#### 9. §
+9. § (1) A Nemzeti Hírközlési Hatóság (a továbbiakban: hatóság) kormányhivatal. A hatóság irányítását a Kormány, felügyeletét a külön jogszabályban kijelölt miniszter látja el.
 
-10. § (1) A Hatóság
+(2) A hatóság feladata – különösen a 2–3. §-okban meghatározott céloknak és alapelveknek megfelelően – az elektronikus hírközlési piac zavartalan, eredményes működésének és fejlődésének, az elektronikus hírközlési tevékenységet végzők és a felhasználók érdekei védelmének, továbbá a tisztességes, hatékony verseny kialakulásának, illetve fenntartásának elősegítése az elektronikus hírközlési ágazatban, valamint az elektronikus hírközlési tevékenységet végző szervezetek és személyek jogszabályoknak megfelelő magatartásának felügyelete.
 
-- 1. szükség szerint, de legalább évente nyilatkozik a hatáskörével összefüggő, elektronikus hírközlésre vonatkozó jogszabályok megalkotásának, illetőleg módosításának szükségességéről, közreműködik a hatáskörével összefüggő jogszabályok előkészítésében;
-- 2. nyilvános meghallgatást tart;
-- 3. a szabályozói, szakmapolitikai, piacélénkítési és pályáztatási döntések megalapozása érdekében felméri és folyamatosan elemzi a hírközlési és az ehhez kapcsolódó informatikai piac működését;
-- 4. a szabályozói és hírközlés-politikai döntések és elemzések módszertani megalapozása érdekében, továbbá a hírközlési ágazat felhasználóbarát információ szolgáltatásának biztosítása érdekében folyamatosan értékeli a hírközlési piac helyzetét, és erről összehasonlító elemzéseket készít;
-- 5. az e törvényben meghatározottak szerint megállapítja az érintett piacokat, elemzi az érintett piacokon fennálló versenyt, illetve annak hatékonyságát, azonosítja az egyes érintett piacokon jelentős piaci erővel rendelkező szolgáltatókat, valamint meghatározza a jelentős piaci erővel rendelkező szolgáltatókat terhelő kötelezettségeket;
-- 6. eljár a jelentős piaci erővel rendelkező szolgáltatóra vonatkozó, illetve számára és a jelentős piaci erővel nem rendelkező szolgáltatóra megállapított egyes kötelezettségek teljesítésével, és megszegésével összefüggésben;
-- 7. hivatalból vagy kérelemre eljár a hatáskörében hozott határozatban vagy hatáskörében kötött hatósági szerződésben meghatározottak megsértése miatt, illetve szerződéskötéssel kapcsolatos jogviták esetén indított eljárásokban;
-- 8. figyelemmel kíséri az egyetemes elektronikus hírközlési szolgáltatás (a továbbiakban: egyetemes szolgáltatás) ellátásának helyzetét, és intézkedik a szolgáltatás biztosítása érdekében;
-- 9. közzéteszi a jogszabályban előírt nyilvántartásokat, adatokat, döntéseket;
-- 10. a kormány politikájának megfelelően gyakorolja a rádiófrekvenciákra és azonosítókra vonatkozó állami tulajdonosi jogokat, gazdálkodást folytat a rádiófrekvenciák és azonosítók vonatkozásában, dönt a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat kiírásáról és lefolytatja a frekvenciahasználati jogosultság megszerzését szolgáló árverési és pályázati eljárásokat, és végrehajtja a frekvenciagazdálkodásra vonatkozó, a frekvenciagazdálkodó hatóságnak címzett európai uniós aktusokat;;
-- 11. koordinálja az elektronikus hírközléssel kapcsolatos, jogszabályban meghatározott védelmi és biztonsági, honvédelmi, rendvédelmi, nemzetbiztonsági, védelmi felkészítési, valamint az ezekkel kapcsolatos adatszolgáltatási feladatok végrehajtását, működteti az informatikai és hírközlési ágazat ügyeleti szolgálatát;
-- 12. eljár az elektronikus hírközlési szolgáltatások bejelentésével, a frekvenciagazdálkodással, az azonosítógazdálkodással, a hatályban lévő koncessziós szerződések felügyeletével, a jogszabályban előírt nyilvántartások vezetésével, a zavarelhárítással, az ingatlanhasználattal, az elektronikus hírközlési építmények engedélyezésével, az építésfelügyelettel kapcsolatos hatósági ügyekben;
-- 13. a felhasználók és előfizetők érdekeinek védelme körében általános hatósági felügyeleti és piacfelügyeleti tevékenység keretében ellenőrzi a 6–7. pontokban nem említett az elektronikus hírközlésre vonatkozó szabályok elektronikus hírközlési szolgáltatók általi betartását, és eljár azok megsértése esetén;
-- 14. kormányzati célú hálózatok létesítése, összekapcsolása, fejlesztése, korszerűsítése során a kormányzati célú hálózatokról szóló jogszabály szerint egyeztet a hálózatgazdákkal;
-- 15. ellenőrzi a miniszter által kijelölt megfelelőségértékelő szervezetek tevékenységét;
-- 16. ellátja az Egyetemes Elektronikus Hírközlési Támogatási Kassza jogutódjaként a jogszabályban meghatározott feladatokat;
-- 17. a felhasználók azonos színvonalú ellátása, hozzáférése és választási szabadságának biztosítása érdekében – a hálózat egységes és zavartalan működésének és fenntarthatóságának figyelembevételével – az elektronikus hírközlési szolgáltatók számára követelményeket határozhat meg;
-- 18. közreműködik a Kormány elektronikus hírközléssel kapcsolatos nemzetközi tevékenységének előkészítésében, részt vesz a nemzetközi és európai uniós aktusokban meghatározott kötelezettségek végrehajtásában és végrehajtja e kötelezettségből eredő hatáskörét érintő feladatokat, ellátja Magyarország képviseletét az elektronikus hírközléssel kapcsolatos nemzetközi szervezetekben, kapcsolatot tart az Európai Bizottsággal és a Kormány határozata szerint az Európai Unió Tanácsával, más tagállami szabályozó hatóságokkal és az Európai Elektronikus Hírközlési Szabályozók Testületével (a továbbiakban: BEREC), valamint ennek működésében részt vesz;
-- 19. ellátja a jogszabályban meghatározott egyéb feladatokat;
-- 20. a Kormány által 4. § szerint meghatározott politikák és programok alapján biztosítja, hogy a fogyatékos és megváltozott munkaképességű személyek a többi felhasználó számára biztosítottal azonos szinten férhessenek hozzá elektronikus hírközlési szolgáltatásokhoz, különösen a nyilvánosan elérhető telefonszolgáltatáshoz;
-- 21. a szabványosításban érdekeltekkel együttműködve közreműködik az elektronikus hírközlés szabványosítási feladatainak ellátásában;
-- 22. gondoskodik a nemzeti frekvenciafelosztás megállapításáról és szükség esetén, de legalább háromévenként történő felülvizsgálatáról, ennek során a vállalt nemzetközi jogi kötelezettségek teljesítése körében biztosítja az észak-atlanti szövetségi tagságot szolgáló frekvenciasávok védelmét;
-- 23. a vállalt nemzetközi jogi és európai uniós aktusokban meghatározott kötelezettségeknek megfelelően gondoskodik az azonosítók összességének az egyes tevékenységek és szolgáltatások közötti felosztását, az azonosítók típusát, felépítését és terjedelmét tartalmazó Azonosítók Nemzeti Felosztási Tervének (a továbbiakban: ANFT) kiadásáról, és szükség esetén, de legalább háromévenként történő felülvizsgálatáról;
-- 24. a vállalt nemzetközi jogi kötelezettségeknek megfelelően a nemzeti frekvenciafelosztás keretei között rendeletben állapítja meg az egyes polgári, nem polgári és közös célra használható frekvenciasávok felhasználására vonatkozó szabályokat, amelyeknek tartalmazniuk kell a rádiórendszerek frekvenciagazdálkodási követelményeit, a rádióberendezések frekvenciagazdálkodási követelményeit, a frekvenciaengedélyezéssel és -használattal kapcsolatos sávhasználati feltételeket, különösen a rádióinterfész követelményeket, és szükség esetén, de legalább háromévenként gondoskodik e szabályok felülvizsgálatáról;
-- 25. a Kormány elé terjeszti és képviseli a Hatóság által előkészített elektronikus hírközlés-politikát és rádióspektrum-politikát;
-- 26. ellátja a hatályban lévő koncessziós szerződésekkel kapcsolatos állami képviseletet, továbbá eljár a hatályban lévő koncessziós szerződések hatósági szerződéssé alakításával kapcsolatos hatósági ügyekben;
-- 27. végzi a légi-riasztási rendszer működtetésével, fenntartásával, korszerűsítésével kapcsolatos tervezési, szervezési feladatokat;
-- 28. szervezi és ellenőrzi az elektronikus hírközlő hálózat útján közzétett adat büntetőügyben elrendelt ideiglenes vagy végleges hozzáférhetetlenné tétele végrehajtását, valamint a külön törvényben meghatározott hatóság által elrendelt hozzáférhetetlenné tétel végrehajtását, és ennek érdekében működteti a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisát, valamint közreműködik a hozzáférhetetlenné tételhez szükséges technikai környezet biztosításában;
-- 29. az elektronikus hírközlési szolgáltatások információbiztonságát érintő kiberbiztonsági incidensekkel összefüggésben együttműködik a Magyarország kiberbiztonságáról szóló törvény szerinti nemzeti kiberbiztonsági incidenskezelő központtal.
+(3) A hatóság feladatát és hatáskörét önállóan, a jogszabályoknak és a Kormány döntéseinek megfelelően gyakorolja.
 
-(2) A Nemzeti Média- és Hírközlési Hatóság elnöke (a továbbiakban: Elnök) ellátja az (1) bekezdés 2., 4–8., valamint 22–28. pontjaiban meghatározott hatáskörökből eredő feladatokat, ellátja az egyéb, jogszabályban kifejezetten az Elnök hatáskörébe tartozó feladatokat, elfogadja az éves piacfelügyeleti tervet, és ellenőrzi annak végrehajtását, továbbá kijelöli a honvédelmi és a katasztrófavédelmi feladatok ellátásában részt vevő elektronikus hírközlési szolgáltatókat és meghatározza felkészülési feladataikat. A Nemzeti Média- és Hírközlési Hatóság Hivatala (a továbbiakban: Hivatal) eljár az (1) bekezdés 1., 3., 10., valamint 12–21. pontjaiban meghatározott ügyekben, továbbá ellátja az Elnök által – a Hatóság elnökeként és a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) elnökeként – e törvény, valamint a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény keretei között, illetve e törvények felhatalmazása alapján a más jogszabályok által ráruházott feladatokat. A Nemzeti Média- és Hírközlési Hatóság főigazgatója (a továbbiakban: főigazgató) eljár az (1) bekezdés 9. és 11. pontjaiban meghatározott ügyekben, valamint ellátja az Elnök által – a Hatóság elnökeként és a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) elnökeként – e törvény, valamint a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény keretei között, illetve e törvények felhatalmazása alapján a más jogszabályok által ráruházott feladatokat.
+(4) A hatóság önállóan működő és gazdálkodó központi költségvetési szerv, amely a feladatai ellátásával összefüggő kiadásokat saját bevételéből fedezi.
 
-11. § (1) A rádiótávközlési és rádióspektrum-politika érvényesítése érdekében a Hatóság, mint frekvenciagazdálkodó hatóság polgári és nem polgári frekvenciagazdálkodási szempontokat összehangolva műszaki tervet készít a szabályozás előkészítése érdekében:
+(5) A hatóság bevételét képezik a frekvencia díjak mindenkori költségvetési törvényben meghatározott része, az azonosítók lekötéséért és használatáért, továbbá a hatósági eljárásért fizetett díjak, valamint a felügyeleti díj, amelyeket a hatóság hatékony, magas szakmai színvonalú működtetésére kell felhasználni. A befolyt bevételekről és azok felhasználásáról készült kimutatást a külön jogszabályban meghatározott tartalommal a hatóság évente közzéteszi.
 
-- a) a frekvenciasávok újrafelosztására, illetve átrendezésére;
+(6) A hatóság tevékenységével összefüggésben felmerült költségek fedezése érdekében az elektronikus hírközlési szolgáltatók felügyeleti díjat kötelesek fizetni. A díj mértéke az elektronikus hírközlési szolgáltató elektronikus hírközlési szolgáltatásaiból származó előző évi nettó árbevételének legfeljebb 0,35%-a, előző évi árbevétel hiányában a tárgyévi árbevétel egész évre vetített időarányos része. A felügyeleti díj mértékét a törvény által megengedett határokon belül évente a hatóság felügyeletét ellátó miniszter rendeletben határozza meg.
+
+(7) A felügyeleti díjat negyedévente – a negyedév végéig – kell a hatóság részére befizetni.
+
+(8) Amennyiben a hatóság e törvényben meghatározott bevételei egy költségvetési évben meghaladják a jogszabályban meghatározott feladatai ellátásához kapcsolódó kiadások összegét, a többletet a hatóság éves beszámolójának elfogadását követően – a tárgyévben teljesített felügyeleti díjbefizetések arányában és legfeljebb azok mértékéig – a tárgyévet követő évben fizetendő felügyeleti díjban jóvá kell írni.
+
+(9) A hatóság önálló hatáskörrel rendelkező szervei: a Nemzeti Hírközlési Hatóság Tanácsa (a továbbiakban: Tanács) és a Nemzeti Hírközlési Hatóság Hivatala (a továbbiakban: Hivatal).
+
+10. § A hatóság
+
+- a) szükség szerint, de legalább évente nyilatkozik a hatáskörével összefüggő, elektronikus hírközlésre vonatkozó jogszabályok megalkotásának, illetőleg módosításának szükségességéről, közreműködik a hatáskörével összefüggő jogszabályok előkészítésében;
+- b) nyilvános meghallgatást tart;
+- c)
+- d) a szabályozói, szakmapolitikai, piacélénkítési és pályáztatási döntések megalapozása érdekében felméri és folyamatosan elemzi a hírközlési és az ehhez kapcsolódó informatikai piac működését;
+- e) a szabályozói és hírközlés-politikai döntések és elemzések módszertani megalapozása érdekében, továbbá a hírközlési ágazat felhasználóbarát információ szolgáltatásának biztosítása érdekében folyamatosan értékeli a hírközlési piac helyzetét, és erről összehasonlító elemzéseket készít;
+- f) az e törvényben meghatározottak szerint megállapítja az érintett piacokat, elemzi az érintett piacokon fennálló versenyt, illetve annak hatékonyságát, azonosítja az egyes érintett piacokon jelentős piaci erővel rendelkező szolgáltatókat, valamint meghatározza a jelentős piaci erővel rendelkező szolgáltatókat terhelő kötelezettségeket;
+- g) eljár a jelentős piaci erővel rendelkező szolgáltató számára megállapított egyes kötelezettségek teljesítésével, illetve megszegésével összefüggésben;
+- h) hivatalból vagy kérelemre eljár az elektronikus hírközlésre vonatkozó szabály megsértése miatt, illetve szerződéskötéssel kapcsolatos jogviták esetén indított eljárásokban;
+- i) eljár hálózati szolgáltatásokkal összefüggésben kialakult árpréssel kapcsolatos ügyekben;
+- j) közzéteszi a jogszabályban előírt nyilvántartásokat, adatokat, döntéseket;
+- k) a gazdálkodás körében gyakorolja a rádiófrekvenciákra és azonosítókra vonatkozó állami tulajdonosi jogokat, polgári célú gazdálkodást folytat a rádiófrekvenciák és azonosítók vonatkozásában;
+- l) koordinálja az elektronikus hírközléssel kapcsolatos, külön jogszabályban meghatározott honvédelmi, rendvédelmi, nemzetbiztonsági és védelmi felkészítési, valamint az ezekkel kapcsolatos adatszolgáltatási feladatok végrehajtását, működteti az informatikai és hírközlési ágazat ügyeleti szolgálatát;
+- m) eljár az elektronikus hírközlési szolgáltatások bejelentésével, a polgári célú frekvenciagazdálkodással, az azonosítógazdálkodással, a jogszabályban előírt nyilvántartások vezetésével, a zavarelhárítással, a piacfelügyelettel, az ingatlanhasználattal, az elektronikus hírközlési építmények engedélyezésével, az építésfelügyelettel kapcsolatos hatósági ügyekben;
+- n) eljár a Kormány, illetve a miniszter hatáskörébe nem tartozó, polgári célú frekvenciagazdálkodással kapcsolatos ügyekben;
+- o) zártcélú hálózatok létesítése, összekapcsolása, fejlesztése, korszerűsítése során a zártcélú hálózatokról szóló jogszabály szerint egyeztet a hálózatgazdákkal;
+- p) ellenőrzi a miniszter által kijelölt megfelelőségértékelő szervezetek tevékenységét;
+- q)
+- r) ellátja az Egyetemes Elektronikus Hírközlési Támogatási Kassza működtetésével kapcsolatos, jogszabályban meghatározott feladatokat;
+- s) ellátja az információs társadalommal összefüggő szolgáltatásokkal kapcsolatos, jogszabályban meghatározott feladatokat;
+- t) közreműködik a Kormány elektronikus hírközléssel kapcsolatos nemzetközi tevékenységének előkészítésében, részt vesz a nemzetközi kötelezettségek végrehajtásában, ellátja a Magyar Köztársaság képviseletét az elektronikus hírközléssel kapcsolatos nemzetközi szervezetekben, kapcsolatot tart az Európai Bizottsággal és más tagállami szabályozó hatóságokkal;
+- u) ellátja a jogszabályban meghatározott egyéb feladatokat.
+
+11. § (1) A rádiótávközlési és rádióspektrum-politika érvényesítése érdekében a hatóság és a nem polgári célú frekvenciagazdálkodási feladatokat ellátó hatóság (a továbbiakban együtt: frekvenciagazdálkodó hatóságok) műszaki tervet készít a szabályozás előkészítése érdekében:
+
+- a) a frekvenciasávok újrafelosztására, illetőleg átrendezésére;
 - b) a frekvenciák kiosztására (csatornakiosztási tervek);
 - c) az egyes rádióalkalmazásokra vonatkozó használati feltételekre;
 - d) a frekvenciahasználat feltételeire.
 
-(2) A Hatóságnak a frekvenciák káros zavarástól mentes felhasználása és a nemzetközi kötelezettségek érvényesítése érdekében szükség szerint operatív nemzetközi frekvenciakoordinációt kell végezni.
+(2) A hatóságnak a frekvenciák káros zavarástól mentes felhasználása és a nemzetközi kötelezettségek érvényesítése érdekében szükség szerint operatív nemzetközi frekvenciakoordinációt kell végezni.
 
-(3) A Hivatal köteles a frekvenciahasználattal kapcsolatos nemzeti, illetve nemzetközi megállapodásokon alapuló nemzetközi rádiómegfigyelést, ellenőrzést, felderítést, zavarvizsgálati és zavarelhárítási tevékenységet végezni, amelynek során jogosult a rádióadások műszaki-forgalmi megfigyelésére és azok rögzítésére, jogszabályban meghatározott feltételek szerint.
+(3) A frekvenciagazdálkodó hatóságok kötelesek a frekvenciahasználattal kapcsolatos nemzeti, illetve nemzetközi megállapodásokon alapuló nemzetközi rádiómegfigyelést, ellenőrzést, felderítést, zavarvizsgálati és zavarelhárítási tevékenységet végezni, amelynek során jogosultak a rádióadások műszaki-forgalmi megfigyelésére és azok rögzítésére, jogszabályban meghatározott feltételek szerint.
 
-(4) A hírközlés védelme, a frekvenciahasználat hatékonysága és káros zavarástól való mentessége, valamint az elektromágneses összeférhetőség (EMC) biztosítása céljából a Hivatal rádiómérő és rádió-zavarelhárító szolgálatot tart fenn.
+(4) A hírközlés védelme, a frekvenciahasználat hatékonysága és káros zavaroktól való mentessége, valamint az elektromágneses összeférhetőség (EMC) biztosítása céljából a frekvenciagazdálkodó hatóságoknak saját rádiómérő és rádió-zavarelhárító szolgálatot kell fenntartaniuk.
 
-11/A. § (1) Az Elnök a frekvenciasávok felhasználására vonatkozó szabályok megalkotása során a következő szempontok vizsgálatát követően ír elő egyedi engedélyezési kötelezettséget:
-
-- a) a káros zavarás elkerülése,
-- b) a szolgáltatás műszaki színvonalának biztosítása,
-- c) a hatékony spektrumhasználat biztosítása, vagy
-- d) a közösségi jogszabályokkal összhangban meghatározott egyéb közérdekű célok elérése.
-
-(2) Egyedi engedélyezési kötelezettség esetén az engedélyek számának korlátozása a spektrum hatékony kihasználásának biztosítása érdekében történik.
-
-(3) Az elektronikus hírközlési szolgáltatás céljára felhasználható frekvenciasáv esetén, amennyiben a frekvencia használatához egyedi engedély szükséges és az engedély határozott ideig hatályos, az időtartam meghatározása során az Elnök figyelembe veszi
-
-- a) az elérni kívánt célt,
-- b) a befektetés amortizációs idejét, valamint
-- c) a nyújtani kívánt szolgáltatást.
-
-(4) A tíz vagy tíz évnél hosszabb ideig hatályos engedélyek esetén, amennyiben a frekvenciahasználati jog nem ruházható át és nem adható haszonbérbe, az Elnök az engedély hatályának ideje alatt folyamatosan figyelemmel kíséri, hogy az (1) bekezdésben foglaltak alapján indokolt-e az egyedi engedélyezési kötelezettség fenntartása vagy az átruházhatóság vagy haszonbérbe adhatóság kizárása. Amennyiben indokolt, a frekvenciahasználati jog szerzésekor fennálló szabályokat az Elnök módosítja.
-
-12. § A Hatóság a frekvenciagazdálkodással kapcsolatban:
+12. § A hatóság a frekvenciagazdálkodással kapcsolatban:
 
 - a) közzéteszi a rádiófrekvencia-használatra vonatkozó rádiófrekvencia sáv felhasználási és kiosztási követelményeket és feltételeket;
 - b) közzéteszi a rádiófrekvencia használati jogának megszerzésére vonatkozó feltételeket, eljárási szabályokat, továbbá a díjakkal és illetékekkel kapcsolatos információkat;
 - c) közzéteszi a szolgáltatásnyújtási célú rádiófrekvenciák, valamint azonosítók használati jogának megadásával kapcsolatos döntéseket; valamint
 - d) gondoskodik az a)–c) pont alatti információk rendszeres, naprakész nyilvántartásáról és a vonatkozó adatbázis fejlesztéséről.
 
-12/A. § (1) A Hatóság kapcsolatot tart az Európai Hírközlési Hivatal (a továbbiakban: ECO) Európai Bizottság által közös hozzáférési pontként kijelölt frekvenciainformációs rendszerével (a továbbiakban: EFIS) abból a célból, hogy az internet segítségével a rádióspektrum használatára vonatkozó összehasonlítható adatokat bocsásson a közvélemény rendelkezésére.
+13. § (1) A hatóság bejelenti az Európai Bizottságnak a szabályozott, az áruk és egyes szolgáltatások szabad áramlásának biztosításával összefüggésben egyes európai uniós jogi aktusokban előírt bejelentési, értesítési, tájékoztatási és jelentéstételi kötelezettségek teljesítéséről szóló külön jogszabály szerint be nem jelentett interfészeket.
 
-(2) A Hatóság a rádiófrekvenciás tartomány használatáról a következő adatokat köteles az EFIS-be feltölteni:
+(2) A hatóság értesíti az Európai Bizottságot azokról az interfész típusokról, amelyeket a nyilvános elektronikus hírközlési hálózatok üzemeltetői kínálnak.
 
-- a) frekvenciasávonként:
-  - aa) a Nemzetközi Rádiószabályzatban meghatározottaknak megfelelően a rádiószolgálati felosztást,
-  - ab) az EFIS-ben érvényes kategóriáknak megfelelő rádióalkalmazásokat,
-  - ac) a (3) bekezdésben meghatározott formátumnak megfelelő rádióinterfész-előírásokat,
-  - ad) a (4) bekezdés szerint az egyedi frekvenciahasználati jogokkal kapcsolatos információkat azon elektronikus hírközlési szolgáltatások céljára igénybe vett frekvenciasávok esetében, amelyekben a frekvenciahasználati jogosultság, vagy jog átruházható, vagy amelyekben a frekvenciahasználati jogosultság megszerzése árverési vagy pályázati eljárás keretében történik;
-- b) annak a nemzeti kapcsolattartó pontnak az EFIS által igényelt adatait, amely képes megválaszolni a közvélemény kérdéseit az európai spektruminformációs portálon nem elérhető hazai spektruminformációk körében, valamint tájékoztatást adni a frekvenciahasználati jogok kijelölési folyamatának eljárásrendjéről és feltételeiről;
-- c) amennyiben rendelkezésre áll a nemzeti rádióspektrum-politikát, és a nemzeti spektrumstratégiát tartalmazó jelentést.
-
-(3) A Hatóság a rádióinterfész-előírások feltöltése során – a vonatkozó szabvány megjelölésével vagy szöveges ismertetéssel, az esetleg szükséges megjegyzések kíséretében – a következő paramétereket köteles megadni:
-
-- a) csatornaelrendezés;
-- b) moduláció, elfoglalt sávszélesség;
-- c) duplex irány, duplex távolság;
-- d) adási teljesítmény, teljesítménysűrűség;
-- e) a csatorna-hozzáférés és a csatornafoglalás szabályai;
-- f) engedélyezési mód;
-- g) a 80. § (3) bekezdése szerinti további alapvető követelmények;
-- h) a frekvenciatervezés kiinduló feltételei.
-
-(4) A Hatóság a (2) bekezdés a) pont ad) alpontjában meghatározott frekvenciasávokra vonatkozóan – az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezéseivel, valamint az üzleti titokra vonatkozó jogszabályi követelményekkel összhangban – köteles megadni:
-
-- a) a frekvencia használatára jogosult személyét;
-- b) a frekvenciahasználati jogosultság vagy jog lejárati napját vagy ennek hiányában a jog fennállásának várható időtartamát;
-- c) a frekvenciahasználati jogosultság vagy jog területi hatályát legalább annak megjelölésével, hogy helyi (vagyis egy állomásra vonatkozó), regionális vagy országos jogról van-e szó;
-- d) azt, hogy a jogosultság, illetve a jog átruházható-e.
-
-(5) A Hatóság a nemzeti frekvenciafelosztási és frekvenciafelhasználási információkat tartalmazó táblázatokat a szabályozás hatálybalépését követő három hónapon belül megküldi az ECO-nak az általa meghatározott elektronikus formátumban.
-
-(6) A Hatóság a (2) bekezdésben meghatározott információkat évente legalább kétszer frissíti.
-
-(7) Az Európai Unió rádióspektrum-politikájával összefüggő uniós jogi aktus által előírt ellenőrzési, figyelemmel kísérési, valamint az Európai Bizottság felé történő jelentési, értesítési feladatokat a Hatóság látja el. A Hatóság az Európai Bizottság felé küldendő jelentését a miniszterrel előzetesen egyezteti.
-
-13. § (1) A Hatóság bejelenti az Európai Bizottságnak a szabályozott, az áruk és egyes szolgáltatások szabad áramlásának biztosításával összefüggésben egyes európai uniós jogi aktusokban előírt bejelentési, értesítési, tájékoztatási és jelentéstételi kötelezettségek teljesítéséről szóló külön jogszabály szerint be nem jelentett interfészeket.
-
-(2) A Hatóság értesíti az Európai Bizottságot azokról az interfész típusokról, amelyeket a nyilvános elektronikus hírközlési hálózatok üzemeltetői kínálnak.
-
-(3) A Hatóság értesíti az Európai Bizottságot, ha megállapította, hogy valamely berendezés megfelel a forgalomba hozatali követelményeknek, ugyanakkor
+(3) A hatóság értesíti az Európai Bizottságot, ha megállapította, hogy valamely berendezés megfelel a forgalomba hozatali követelményeknek, ugyanakkor
 
 - a) a hálózatban súlyos kárt vagy káros rádiófrekvenciás zavart okoz, vagy
 - b) károsan befolyásolja a hálózatot vagy annak működését,
 
 és ezért felhatalmazást adott a csatlakoztatás megtagadására, a készülék összeköttetésének megszüntetésére, illetve az üzemeltetésből történő kivonására.
 
-### Az Elnök és a Hivatal
+### A Tanács
 
-14. § A Hatóság szervezetéről, az Elnökről, Elnökhelyettesről és a Hivatalról a médiaszolgáltatásokról és tömegkommunikációról szóló törvény rendelkezik.
+14. § (1) A Tanács
 
-#### 14/A. §
+- a) felelős az elektronikus hírközléssel kapcsolatos jogszabályok és kormánydöntések végrehajtásáért,
+- b) ellátja a Nemzeti Hírközlési Hatóság vezetését,
+- c) ellátja a 10. § b)–i) pontjában meghatározott hatáskörökből eredő feladatokat,
+- d) elfogadja az éves piacfelügyeleti tervet, és ellenőrzi annak végrehajtását,
+- e) előterjeszti a hatóság éves költségvetésének tervezetét, valamint a féléves és éves intézményi költségvetési beszámolóját,
+- f) javaslatot tesz az elektronikus hírközlést érintő jogszabály módosítására.
 
-#### 15. §
+(2) A Tanács hét tagból áll. A Tanács 6 tagját a hatóság felügyeletét ellátó miniszter 5 évre nevezi ki az általa felkért személyekből álló szakmai jelölő testület javaslata alapján.
 
-#### 16. §
+(3) A Tanács vezetését elnökként ellátó tagot a hatóság felügyeletét ellátó miniszter javaslata alapján 5 évre a miniszterelnök nevezi ki.
 
-#### 17. §
+(4) A Tanács tagja az lehet, aki legalább hároméves hírközlési szakmai gyakorlattal és felsőfokú iskolai végzettséggel rendelkezik. A Tanács elnökévé az nevezhető ki, aki legalább ötéves, a Tanács hatáskörébe tartozó ügyek ellátása során alkalmazható hírközlési szakmai gyakorlattal rendelkezik.
 
-#### 17/A. §
+(5) Amennyiben a Tanács valamely tagjának megbízatása a (2) bekezdésben meghatározott időtartam lejárta előtt megszűnik, a hatóság felügyeletét ellátó miniszter legkésőbb a megbízás megszűnését követő 2 hónapon belül a (2) bekezdésben meghatározott időtartam hátralévő részére új tagot nevez ki.
 
-#### 18. §
+(6) A Tanács tagja, elnöke kinevezésének a (2), illetve az (5) bekezdésben meghatározott időtartamának lejárta után korlátlan alkalommal újra kinevezhető.
 
-#### 18/A. §
+(7) A Tanács tagja, illetve a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (Ptk.) 685. §-ának b) pontja szerinti közeli hozzátartozója – a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (Ktv.) 21. §-ának (1), (3) és (5) bekezdésében foglalt összeférhetetlenségi szabályokon túl – nem lehet gazdasági társaságban, szövetkezetben személyes közreműködésre kötelezett tag, valamint nem rendelkezhet tulajdoni részesedéssel, továbbá nem lehet vezető tisztségviselő, illetve felügyelő bizottsági tag hírközlési tevékenységet végző gazdálkodó szervezetben, illetve ilyen szervezettel rendszeres üzleti kapcsolatban álló gazdálkodó szervezetben.
 
-#### 19. §
+(8) A Tanács tagját nem lehet utasítani a tisztségének betöltésével kapcsolatos eljárása és döntése vonatkozásában.
+
+15. § (1) A Tanács tagjának megbízatása megszűnik, ha
+
+- a) a kinevezés időtartama lejár,
+- b) tisztségéről lemond,
+- c) meghal,
+- d) a hatóság felügyeletét ellátó miniszter a (4) bekezdés szerint felmenti.
+
+(2) Az (1) bekezdésben foglalt eseteken túl a Tanács elnökének megbízatása visszahívással is megszüntethető.
+
+(3) Visszahívással szüntethető meg a megbízatás, ha a Tanács elnöke neki felróható okból nem tesz eleget megbízatásából eredő feladatainak. A visszahívási jogot – a hatóság felügyeletét ellátó miniszter javaslatára – a miniszterelnök gyakorolja. A visszahívást indokolni kell.
+
+(4) A hatóság felügyeletét ellátó miniszter felmenti a Tanács tagját, ha
+
+- a) munkaköri feladatait folyamatosan, 90 napot meghaladóan nem képes ellátni,
+- b) a 14. § (7) bekezdés szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő 30 napon belül nem szünteti meg,
+- c) a Tanács tagjával szemben lefolytatott büntetőeljárás eredményeként a bíróság jogerős ítéletével bűncselekmény elkövetését állapította meg, illetve, ha tisztségére egyébként méltatlanná válik.
+
+(5) A Tanács tagja megbízatásának megszűnése után egy éven át
+
+- a) nem létesíthet munka-, munkavégzésre irányuló egyéb jogviszonyt olyan gazdasági társasággal,
+- b) nem létesíthet rendszeres gazdasági kapcsolatot gazdasági társaság vezető tisztségviselőjeként vagy tulajdonosaként olyan gazdasági társasággal, illetve
+- c) nem szerezhet részesedést olyan gazdasági társaságban,
+
+amelynek jogát vagy jogos érdekét a Tanács tagjaként hozott döntése érintette. A megbízatás (1) bekezdés a) vagy b) pont szerinti megszűnése után a Tanács tagját a megszűnéskori havi illetménye tizenkétszeresének megfelelő összegű végkielégítés illeti meg. Ha a Tanács tagjának megbízatása 3 évnél nem hosszabb ideig állt fenn, úgy a jelen bekezdésben meghatározott tilalom a megbízatás megszűnésétől számított 6 hónapig áll fenn, és erre az időszakra a Tanács tagját 6 havi illetménye illeti meg végkielégítésként.
+
+(6) Az (1), (4)–(5) bekezdésekben foglaltakat – az e törvényben meghatározott eltérésekkel – értelemszerűen alkalmazni kell a Tanács elnöke vonatkozásában is.
+
+16. § A Tanács elnöke
+
+- a) összehívja és vezeti a Tanács üléseit, valamint intézkedik annak előkészítéséről,
+- b) javaslatot tesz a hatóság felügyeletét ellátó miniszternek a Hivatal főigazgatójának személyére, és – a kinevezés és felmentés kivételével – gyakorolja felette a munkáltatói jogokat,
+- c) kinevezi a Hírközlési Fogyasztói Jogok Képviselőjét, és gyakorolja felette a munkáltatói jogokat,
+- d) a kinevezés és a felmentés kivételével gyakorolja a munkáltatói jogokat a Tanács tagjai tekintetében,
+- e) előkészíti a hatóság Szervezeti és Működési Szabályzatát,
+- f) képviseli a hatóságot, különösen az Európai Bizottsággal és a tagállami szabályozó hatóságokkal történő kapcsolattartás és a 65. § szerinti egyeztetés során,
+- g) minden év február 28-áig közzéteszi a hatóság éves munkatervét és költségvetési tervének főbb mutatószámait, valamint június 30-áig előző évi gazdálkodásának éves értékelését abból a célból, hogy a piac szereplői a hatóság tevékenységéről és gazdálkodásáról tájékoztatást kapjanak,
+- h) évente megállapítja a szakmai előkészítő munkákkal kapcsolatos feladatokat,
+- i) jelzi a hatóság felügyeletét ellátó miniszternek a hírközlés biztonságát veszélyeztető körülményeket, és javaslatot tesz az általa szükségesnek ítélt intézkedések megtételére,
+- j) megbízás alapján eljár nemzetközi szervezeteknél,
+- k) előkészíti, és a hatóság nevében a Tanács döntése alapján évente együttműködési megállapodást köt a fogyasztóvédelmi hatósággal és a versenyhatósággal,
+- l) másodfokú szervként jár el a Hivatal hatósági ügyei tekintetében.
+
+### A Hivatal
+
+17. § (1) A Hivatal élén a hatóság felügyeletét ellátó miniszter által – a Tanács elnökének javaslata alapján – 5 évre kinevezett főigazgató áll.
+
+(2) A Hivatal eljár a 10. § a), k) és m)–u) pontjaiban meghatározott ügyekben, továbbá ellátja a jogszabály, illetve a Tanács elnöke által e törvény keretei között ráruházott feladatokat.
+
+(3) A Hivatal a Tanács feladatainak ellátásához szakmai támogatást nyújt a Tanács, illetve a Tanács tagjai részére.
+
+(4) A Tanács elé terjesztett ügyek szakmai előkészítésében résztvevő szakértők a Tanács elnökének meghívása alapján a Tanács ülésén tanácskozási joggal részt vesznek.
+
+(5) A főigazgató nem tagja a Tanácsnak.
+
+18. § A főigazgató
+
+- a) ellátja a Hivatal feletti szervezeti és szakmai irányítást, és a Hivatal vezetése körében a Tanács elnöke helyettesének minősül,
+- b) eljár a 10. § j) és l) pontjaiban meghatározott ügyekben,
+- c) biztosítja a hatóság szervezetrendszerének hatékony működését,
+- d) a Tanács elnökének egyetértésével kinevezi és felmenti helyetteseit, és gyakorolja a munkáltatói jogokat a helyettesei, valamint a Hivatal alkalmazottai tekintetében,
+- e) gondoskodik az e törvényben meghatározott információk közzétételéről,
+- f) a Tanács elnökének meghívása alapján tanácskozási joggal részt vesz a Tanács ülésein,
+- g) biztosítja, hogy a Hivatal a Tanács, illetve a Tanács tagjai részére feladataik ellátásához a Tanács elnöke által meghatározott mértékben és módon szakmai támogatást nyújtson,
+- h) ellátja a jogszabály, illetve a Tanács elnöke által e törvény keretei között ráruházott feladatokat és jogköröket.
+
+### A hatóság alkalmazottai
+
+19. § (1) A hatóság alkalmazottai közszolgálati jogviszonyban állnak, akikre az e törvényben meghatározott eltérésekkel a Ktv. rendelkezéseit kell alkalmazni, azzal, hogy – a Tanács elnökének és tagjainak kivételével – a Ktv. 30/A. §-ának (1) bekezdésében megállapított arány 35%, továbbá a 44. §-ának (1) bekezdésében a középiskolai végzettségű köztisztviselők részére megállapított illetménykiegészítés mértéke 35%.
+
+(2)
 
 ### Együttműködés a Gazdasági Versenyhivatallal
 
-20. § (1) A Hatóság és a versenyhatóság az elektronikus hírközlési piaci versenyt érintő kérdésekben a verseny védelmének következetes érvényre juttatása, illetve az egységes jogalkalmazás előmozdítása érdekében szorosan együttműködik, így különösen
+20. § (1) A hatóság és a versenyhatóság az elektronikus hírközlési piaci versenyt érintő kérdésekben a verseny védelmének következetes érvényre juttatása, illetve az egységes jogalkalmazás előmozdítása érdekében szorosan együttműködik, így különösen
 
 - a) az elektronikus hírközlési piac érintett piacainak meghatározásával,
 - b) az érintett piacokon fennálló verseny elemzésével,
 - c) a jelentős piaci erővel rendelkező szolgáltatók azonosításával és a rájuk vonatkozó kötelezettségek előírásával,
-- d)
+- d) árprés vizsgálatára vonatkozó módszertan kidolgozásával, valamint árprés vizsgálatával
 
 kapcsolatos eljárásokban.
 
-(2) A Hatóság az elektronikus hírközlési piac érintett piacainak meghatározása, az érintett piacokon fennálló verseny elemzése és a jelentős piaci erővel rendelkező szolgáltatók azonosítása során a versenyhatóság szakmai álláspontját kiemelten figyelembe veszi, amennyiben attól eltér, annak indokairól a versenyhatóságot tájékoztatja.
+(2) A hatóság az elektronikus hírközlési piac érintett piacainak meghatározása, az érintett piacokon fennálló verseny elemzése és a jelentős piaci erővel rendelkező szolgáltatók azonosítása során a versenyhatóság szakmai álláspontját kiemelten figyelembe veszi, amennyiben attól eltér, annak indokairól a versenyhatóságot tájékoztatja.
 
-(3) A Hatóság és a versenyhatóság az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, illetve az üzleti titokhoz fűződő érdekek ne sérüljenek. Ennek keretében az adatot a másik hatóságnak átadó hatóság többek között értesíti az adatszolgáltatót az adatok átadásáról, és az átvevő hatóság biztosítja, hogy az átadott adatok legalább olyan védelemben részesüljenek, mint az átadó hatóságnál.
+(3) A hatóság és a versenyhatóság az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, illetve az üzleti titokhoz fűződő érdekek ne sérüljenek. Ennek keretében az adatot a másik hatóságnak átadó hatóság többek között értesíti az adatszolgáltatót az adatok átadásáról, és az átvevő hatóság biztosítja, hogy az átadott adatok legalább olyan védelemben részesüljenek, mint az átadó hatóságnál.
 
-(4) A Hatóság és a versenyhatóság az együttműködésük részleteit rögzítik, évente felülvizsgálják, és a nyilvánosság számára hozzáférhetővé teszik, ideértve az együttműködés eredményeként létrehozott módszertanokat is.
+(4) A hatóság és a versenyhatóság az együttműködésük részleteit rögzítik, évente felülvizsgálják, és a nyilvánosság számára hozzáférhetővé teszik, ideértve az együttműködés eredményeként létrehozott módszertanokat is.
 
-#### 21. §
+### Együttműködés a fogyasztóvédelmi hatósággal
 
-### Együttműködés a Nemzeti Adatvédelmi és Információszabadság Hatósággal
+21. § (1) A hatóság és a fogyasztóvédelmi hatóság az elektronikus hírközlési piaccal, valamint az információs társadalommal összefüggő szolgáltatásokkal kapcsolatos, fogyasztókat érintő ügyekben együttműködik.
 
-22. § (1) A Hatóság és a Nemzeti Adatvédelmi és Információszabadság Hatóság az elektronikus hírközlési piaccal, valamint az információs társadalommal összefüggő szolgáltatásokkal kapcsolatos, a személyes adatok megsértését érintő ügyekben együttműködik.
+(2) A hatóság és a fogyasztóvédelmi hatóság az együttműködés során köteles biztosítani a 20. § (3) bekezdésében foglaltak értelemszerű érvényesülését.
 
-(2) A Hatóság és a Nemzeti Adatvédelmi és Információszabadság Hatóság az együttműködésük részletes szabályaira – évente felülvizsgálatra kerülő – megállapodást kötnek. A megállapodást a Hatóság és a Nemzeti Adatvédelmi és Információszabadság Hatóság a nyilvánosság számára hozzáférhetővé teszi.
+(3)
 
-(3) A (2) bekezdés szerinti megállapodásban a Hatóság és a Nemzeti Adatvédelmi és Információszabadság Hatóság többek között meghatározzák azokat az együttműködési feltételeket, amelyek e törvényben foglaltak szerinti adatvédelemre vonatkozó hatáskörök megfelelő érvényesülését és gyakorolhatóságát biztosítják.
+(4) A hatóság elektronikus hírközlő berendezés, valamint nagyfrekvenciás jelet, illetve mellékhatást keltő egyéb villamos és elektronikus berendezés forgalomba hozatalának, forgalmazásának megtiltására vonatkozó határozatát közli a fogyasztóvédelmi hatósággal is.
 
-### Együttműködés a miniszterrel
+(5) A hatóság és a fogyasztóvédelmi hatóság az együttműködésük részletes szabályaira – évente felülvizsgálatra kerülő – megállapodást kötnek. A megállapodást a hatóság és a fogyasztóvédelmi hatóság a nyilvánosság számára hozzáférhetővé teszi.
 
-22/A. § (1) A Hatóság és a miniszter az elektronikus hírközlési piaccal kapcsolatban, valamint az információs társadalommal összefüggő szolgáltatások nyújtásának előmozdítása érdekében együttműködik, így különösen
+(6) A fogyasztóvédelmi hatóság jogosult eljárni e törvény rendelkezéseinek megsértése esetén az ügyfélszolgálat 138. § (1) és (2) bekezdése szerinti működése, továbbá az általános szerződési feltételek 130. § (2) és (3) bekezdése szerinti hozzáférhetővé, illetve elérhetővé tétele és nyilvánosságra hozatala tekintetében. A fogyasztóvédelmi hatóság a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) alapján jár el, az említett rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
-- a) a miniszter által irányított információs társadalommal, digitális gazdasággal, az innovációval, valamint a szélessávú infrastruktúrával összefüggő programok előkészítésével,
-- b) az infokommunikáció területén történő beruházásösztönzés fejlesztésével
+### Együttműködés a nem polgári célúfrekvenciagazdálkodási feladatokat ellátóhatósággal
 
-kapcsolatban.
+22. § (1) A frekvenciagazdálkodó hatóságoknak – amennyiben a feladat jellege indokolja – együtt kell működniük.
 
-(2) A Hatóság a 47. § szerinti felhívása vagy határozata alapján részére piac-meghatározás és piacelemzés érdekében szolgáltatott adatokat erre irányuló kérelemre átadja a miniszternek az (1) bekezdés szerinti együttműködésből eredő feladatainak ellátása céljából, akkor is, ha azok törvény által védett titkot tartalmaznak.
+(2) Az együttműködés területei különösen:
 
-(3) A Hatóság és a miniszter az együttműködés során köteles biztosítani az adatvédelemre vonatkozó jogszabályokkal való összhangot, valamint azt, hogy az üzleti titokhoz fűződő érdekek ne sérüljenek. Ennek érdekében a Hatóság értesíti az adatszolgáltatót az adatok átadásáról. A miniszter biztosítja, hogy az átadott adatok legalább olyan védelemben részesüljenek, mint a Hatóságnál.
+- a) nemzetközi tevékenység;
+- b) frekvenciagazdálkodó hatóságok közötti frekvenciakoordináció;
+- c) rádiómérő-szolgálati és rádiózavar-elhárítási tevékenység;
+- d) adatszolgáltatás.
 
-(4) A Hatóság és a miniszter az együttműködésük, valamint ennek keretében az adatátadás és -felhasználás részletes szabályairól – évente felülvizsgálatra kerülő – megállapodást kötnek. A megállapodást a Hatóság és a miniszter a nyilvánosság számára hozzáférhetővé teszi.
+(3) A frekvenciagazdálkodó hatóságok az együttműködés során kötelesek biztosítani a 20. § (3) bekezdésében foglaltak értelemszerű érvényesülését.
 
-### Együttműködés az e-közműt üzemeltető szervezettel
-
-22/B. § (1) A Hatóság és az egységes elektronikus közműnyilvántartást (a továbbiakban: e-közmű) üzemeltető szervezet együttműködik az elektronikus hírközlő hálózat üzemeltetőjének, az egységes elektronikus közműnyilvántartásról szóló kormányrendeletben meghatározott adatszolgáltatási kötelezettségével kapcsolatos ügyekben.
-
-(2) A Hatóság negyedévente, az e törvény felhatalmazása alapján kiadott kormányrendeletben előírt adatokat az ott meghatározott módon szolgáltatja az e-közműt üzemeltető szervezet számára.
+(4) Az együttműködés részletes feltételeit és szabályait a frekvenciagazdálkodó hatóságok – évente felülvizsgálatra kerülő – megállapodásban rögzítik.
 
 ### IV. Fejezet — A HATÓSÁG ELJÁRÁSÁRA VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
 
 ### A közigazgatási hatósági eljárás általános szabályainak alkalmazása
 
-23. § A Hatóság a nem polgári célú frekvenciagazdálkodási hatósági eljárások kivételével az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) rendelkezéseit e törvényben foglalt eltérésekkel és kiegészítésekkel alkalmazza.
+23. § A hatóság a piaci felügyelettel és piaci szabályozással kapcsolatos eljárásokban az e törvényben foglalt eltérésekkel a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint jár el.
 
 ### Eljárási alapelvek
 
-24. § (1) A Hatóság tevékenysége során köteles érvényesíteni:
+24. § (1) A hatóság tevékenysége során köteles érvényesíteni:
 
 - a) a törvényesség,
 - b) az egyenlő elbánás,
@@ -324,1203 +339,810 @@ kapcsolatban.
 
 alapelveit.
 
-(2) A Hatóság eljárása során – a jogszabályok keretei között – köteles figyelembe venni az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló, 2018. december 11-i (EU) 2018/1972 európai parlamenti és tanácsi irányelv (a továbbiakban: Kódex) 38. cikk (1) bekezdése alapján kiadott bizottsági ajánlásokat és a lehető legnagyobb mértékben figyelembe veszi a kapcsolódó iránymutatásokat. Amennyiben a Hatóság nem követi a vonatkozó ajánlást, erről – álláspontja indokainak megadásával – értesíti az Európai Bizottságot.
+(2) A hatóság eljárása során – a jogszabályok keretei között – köteles figyelembe venni az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról szóló 2002. március 7-i 2002/21/EK európai parlamenti és tanácsi irányelv 19. cikkének (1) bekezdése alapján kiadott bizottsági ajánlásokat. Amennyiben a hatóság nem követi a vonatkozó ajánlást, erről – álláspontja indokainak megadásával – értesíti az Európai Bizottságot.
 
-(3) A Hatóság a BEREC-nek a nagyobb mértékű szabályozási koordináció és koherencia előmozdítására irányuló céljait támogatja, valamint eljárása során a legnagyobb mértékben figyelembe veszi a BEREC által kiadott közös álláspontokat, véleményeket és a szabályozással kapcsolatos legjobb gyakorlatot.
+### Elektronikus dokumentumok és okiratok
 
-(4) A Hatóság a szabályozási céloknak leginkább megfelelő, következetes jogalkalmazás kialakítása érdekében együttműködik más tagállamok szabályozó hatóságaival, az Európai Bizottsággal és a BEREC-kel.
+25. § (1) A hatóság a döntését az elektronikus aláírásról szóló 2001. évi XXXV. törvény szerinti elektronikus dokumentumba foglalhatja, valamint eljárása során köteles elektronikus dokumentumokat elfogadni.
 
-### Bejelentő
-
-25. § (1) A Hatóság e törvényben meghatározott feladat- és hatáskörével kapcsolatban az elektronikus hírközlésre vonatkozó szabály megsértésére hivatkozással, illetve a jelentős piaci erővel rendelkező szolgáltatóra vonatkozó kötelezettség megállapítására vagy felülvizsgálatára okot adó jelentős körülmény esetén bárki a Hatósághoz címzett bejelentéssel élhet, aki a bejelentés tárgyában nem minősül vagy a jogszabályok alapján nem minősülne ügyfélnek (a továbbiakban: bejelentő).
-
-(2) A bejelentésben meg kell jelölni a bejelentő nevét és címét, a Hatóság eljárására okot adó körülményt, illetve azt a tevékenységet vagy magatartást, amelynek alapján az elektronikus hírközlésre vonatkozó szabály megsértése valószínűsíthető, valamint a bejelentést megalapozó tényeket.
-
-(3) A Hatóság a bejelentés alapján mérlegelése szerint hivatalból eljárást indíthat. Amennyiben a Hatóság a bejelentés alapján nem indít eljárást, arról – indokolási kötelezettség nélkül – tájékoztatja a bejelentőt.
-
-(4) A bejelentés alapján megindított hatósági eljárási jogviszonynak a bejelentő nem válik alanyává, a bejelentő a bejelentése alapján hivatalból indított hatósági eljárásban hozott hatósági döntéssel szemben jogorvoslati jogosultsággal nem rendelkezik.
-
-(5) A bejelentő kérheti adatainak zárt kezelését.
-
-(6) Amennyiben a bejelentés tartalma szerint kérelemnek és a bejelentő ügyfélnek minősül, abban az esetben a Hatóság e tényről és hatósági eljárás megindításával kapcsolatos jogairól külön tájékoztatja a bejelentőt.
-
-### Jogutódlás
-
-26. § (1) A véglegessé vált határozat alapján jogosított ügyfél helyébe jogutódja léphet.
-
-(2) A véglegessé vált határozattal kötelezett ügyfél helyébe – amennyiben a kötelezettség célja és jogalapja a jogutóddal szemben is fennmarad – jogutódja lép. A véglegessé vált határozattal megállapított kötelezettség esetén – indokolt esetben a teljesítési határidő kérelmére egy alkalommal történő meghosszabbításával – a jogutód a kötelezettséget önkéntesen teljesítheti. Erről a Hatóság és a jogutód hatósági szerződésben is megállapodhat.
-
-(3) A véglegessé vált határozattal megállapított kötelezettség esetén az ügyfél jogutódjának minősül az a harmadik személy is, akire az eredeti (jogelőd) kötelezett ügyfél a tevékenysége végzésének feltételeit megállapodás alapján átruházza.
-
-(4)
-
-(5) Amennyiben a jogutódlás hatósági eljárás során következik be és a jogutódlás szerződésen alapul, akkor a Hatóság a hatósági hatáskörének gyakorlásához szükséges jogutódlás tényét végzésében megállapítja.
-
-### Titoktartás
-
-27. § (1) A Hatósággal közszolgálati jogviszonyban, valamint munkavégzésre irányuló egyéb jogviszonyban álló, vagy állt személyek – a más szervezet számára jogszabályban előírt adatszolgáltatást kivéve – e jogviszony fennállása alatt, és annak megszűnését követően is kötelesek megőrizni a Hatóság tevékenységével, annak ellátásával kapcsolatban tudomásukra jutott személyes adatot, minősített adatot, vagy üzleti titkot, valamint minden olyan adatot, tényt vagy körülményt, amelyet a Hatóság nem köteles törvény előírásai szerint a nyilvánosság számára hozzáférhetővé tenni.
-
-(2) Az (1) bekezdésben felsorolt személyek a feladataik ellátásával kapcsolatban tudomásukra jutott adatokat, tényt vagy körülményt jogosulatlanul nem tehetik közzé, nem hasznosíthatják, és nem hozhatják harmadik fél tudomására.
-
-### Elektronikus kapcsolattartás
-
-28. § (1) A Hatóság e törvényben meghatározott hatásköreiben és eljárásaiban a Hatóság Elnöke rendeletében meghatározhatja azon eljárások körét, amelyben kötelező vagy kizárólagos az elektronikus kapcsolattartás.
-
-(2) A kizárólag szolgáltatókat érintő eljárásokban elektronikus kapcsolattartás kizárólagosan írható elő.
-
-(3) Felhasználókat és fogyasztókat érintő eljárásokban elektronikus kapcsolattartás kizárólagosan nem írható elő.
-
-### Az eljárás megindítása
-
-29. § (1) A Hatóság a hatáskörébe tartozó ügyekben eljárását hivatalból is megindíthatja, kivéve, ha e törvény szerint az eljárás kizárólag kérelemre indítható.
-
-(2) Amennyiben a Hatóság eljárása során az egyedi hatósági ügy tárgyán kívüli, de azzal szorosan vagy közvetetten összefüggő jogsértésről szerez tudomást, annak vonatkozásában – hatósági döntésének meghozatala előtt – eljárását hivatalból kiterjesztheti. Az eljárás hivatalbóli kiterjesztéséről az ügyfeleket az Ákr. vonatkozó rendelkezései szerint értesíteni kell. Az eljárás hivatalbóli kiterjesztésével az ügyintézési határidő az eljárásra irányadó ügyintézési határidővel meghosszabbodik.
-
-(3) Az Elnök rendeletben meghatározza a Hatóság azon eljárásait, amelyekért igazgatási szolgáltatási díjat kell fizetni.
-
-### A hatáskör és az illetékesség vizsgálata
-
-30. § Hatáskör vagy illetékesség hiányában a Hatóság jogosult – a hatáskörrel és illetékességgel rendelkező hatóság hatáskörének vizsgálata, illetve áttétel nélkül – a kérelmet visszautasítani vagy az eljárást megszüntetni.
-
-### Ügyintézési határidő és az eljárás felfüggesztése
-
-31. § (1) A Hatóság eljárásainak ügyintézési határideje – amennyiben e törvény eltérő szabályokat nem állapít meg – hatvan nap.
-
-(1a) A 95. § (3) bekezdése szerinti eljárás esetén az ügyintézési határidőt az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 7. cikk (6) bekezdése tartalmazza.
-
-(1b) A 83/B. § (1) bekezdése, a 93/A. § (3) bekezdése, a 93/B. § (3) bekezdése, a 94. § (2g) bekezdése és a 99/C. § (1) bekezdése szerinti jogvitás eljárások esetén az ügyintézési határidőt az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 13. cikk (2) bekezdése tartalmazza.
-
-(2) Az érdekeltekkel történő egyeztetést igénylő eljárásokban az ügyintézési határidő kilencven nap.
-
-(3) Az általános hatósági felügyeleti és piacfelügyeleti eljárásban az ügyintézési határidő kilencven nap.
-
-(4) Ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el, a hatóság az eljárást felfüggeszti.
-
-(5) Az eljárás felfüggesztésekor minden határidő megszakad, és az eljárás felfüggesztésének megszüntetésekor az ügyintézési határidő kivételével újra kezdődik. A felfüggesztés időtartama alatt megtett valamennyi eljárási cselekmény hatálytalan, kivéve azokat, amelyek a felfüggesztési ok megszüntetésére irányulnak.
-
-### Kérelem
-
-32. § (1) Az ügyfél kérelmét a Hatóság által e célra rendszeresített nyomtatványon – elektronikus kapcsolattartás esetén elektronikus űrlapon – köteles benyújtani. A kérelem kormányablaknál nem terjeszthető elő.
-
-(2) Amennyiben a fogyasztó kérelmét nem űrlapon nyújtja be a Hatóság nyolc napon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő felhívás mellett – felhívhatja a kérelem megfelelő űrlapon történő benyújtására. E felhívás nem teljesítése esetén a Hatóság a kérelmet visszautasíthatja, kivéve, ha az űrlap kitölthető és letölthető változata a hiánypótlás teljesítésére meghatározott határidőn belül nem volt közzétéve.
-
-### Iratok megtekintése, törvény által védett titok
-
-33. § (1) Az ügy elintézésében résztvevő, a Hatósággal közszolgálati jogviszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban állók korlátozás nélkül jogosultak a törvény által védett titok megismerésére az ügy elintézéséhez szükséges mértékben, azzal, hogy minősített adat megismerésére a minősített adat védelméről szóló törvény rendelkezéseivel összhangban jogosultak.
-
-(2) Az ügyfél és az eljárás egyéb résztvevői megjelölhetik – a közérdekből nyilvános, vagy jogszabályban meghatározottak szerint egyébként törvény által védett titoknak nem minősíthető adatok, valamint a (3)–(4) bekezdésben foglaltak kivételével – törvény által védett titok, különösen az üzleti titok védelmére, egyéb méltányolható érdekre, továbbá jelentős hírközléspolitikai, vagy hírközlési piaci versennyel összefüggő szempontra hivatkozással azokat az adatokat, amelyek zárt kezelését szükségesnek tartják. Ebben az esetben az ügyfél és az eljárás egyéb résztvevője köteles olyan iratváltozatot is készíteni, amely az előbbiekben meghatározott adatokat nem tartalmazza.
-
-(2a) Az 55. § szerinti frekvenciahasználati jogosultság megszerzésére irányuló versenyeztetési eljárásban az eljárást lezáró döntés közlésének időpontjáig nem lehet betekinteni a versenyeztetési eljárás kiírási dokumentációja szerinti értékelési szempontként megjelölt, vállalást tartalmazó iratba, továbbá ezen vállalás alátámasztásául szolgáló, a versenyeztetési eljárás kiírási dokumentációjában meghatározott olyan iratba, amelynek megismerése a versenyeztetési eljárás eredményességét, tisztaságát vagy a versenyeztetési eljárás kiírási dokumentációjában meghatározott célját veszélyeztetné.
-
-(3) Referenciaajánlattal kapcsolatos eljárásokban nem minősül üzleti titoknak a referenciaajánlat azon része, amelyet a kötelezett szolgáltató harmadik feleknek a szerződéskötés során, elektronikus hírközlésre vonatkozó szabály alapján általában rendelkezésre bocsátana.
-
-(4) A 40. §-ban meghatározott érdekeltekkel történő egyeztetés során benyújtott észrevételek, valamint az Elnök 62–65. § szerinti eljárásban hozott határozatában kirótt 102. § szerinti átláthatóság kötelezettség körében közzétenni rendelt adatok, információk nem minősülnek, nem minősíthetők üzleti titoknak. A jelentős piaci erővel rendelkező szolgáltató nem minősítheti üzleti titoknak az Elnök piacmeghatározás, jelentős piaci erővel rendelkező szolgáltatók azonosítása és kötelezettségek előírása tárgyában hozott határozatában meghatározott azon számviteli adatokat, amelyek tekintetében az Elnök a piacelemzés által feltárt versenyt korlátozó akadályok által indokolt, azokkal arányos 105. § szerinti kötelezettség körében közzétételt ír elő.
-
-(4a) A 47. § (1) bekezdés b) pontja alapján szolgáltatott adatok közül az előfizetők és a megkötött előfizetői szerződések számával, a szolgáltatás forgalmával (percforgalom, adatmennyiség, darabszám) és elérhetőségével (lefedettségével) kapcsolatos statisztikai adatok, továbbá ezen adatok bármely további megbontás, csoportosítás szerinti részadatai nem minősíthetők üzleti titoknak.
-
-(5) A hatósági ügy tárgyával kapcsolatos tevékenységeik ellátásához szükséges mértékben a zártan kezelt adatokat megismerheti továbbá – a Hatóság mérlegelése szerint – más közigazgatási hatóság vagy állami szerv is, amennyiben biztosítja, hogy az átadott adatok legalább olyan védelemben részesüljenek, mint az átadó hatóságnál.
-
-(6) Amennyiben a jogalkalmazás megfelelő gyakorlása, vagy a jogérvényesítés, valamint az ügyfelek jogai gyakorlása érdekében indokolt, a Hatóság felhívhatja az ügyfelet és az eljárás egyéb résztvevőjét a (2) bekezdés szerinti zárt adatkezelés feloldására.
-
-(7) Amennyiben az ügyfél és az eljárás egyéb résztvevője a (2) bekezdés szerinti minősítést nyilatkozatával nem oldja fel, a Hatóság végzésében – amennyiben a jogalkalmazás gyakorlásához vagy az ügyfelek jogérvényesítéséhez elengedhetetlenül szükséges – elrendelheti a zárt adatkezelés feloldását. E végzés közigazgatási perben megtámadható, a keresetlevél benyújtásának halasztó hatálya van. A bíróság harminc napon belül dönt.
+(2) A hatóság a döntését elektronikus dokumentumként köteles kézbesíteni, amennyiben a szolgáltató elektronikus levélcímét bejelentette, ekkor a kézbesítés időpontjának azt az időpontot kell tekinteni, amikor az elektronikus dokumentum a címzett részére hozzáférhetővé válik, és a kézbesítés sikerességéről a hatósághoz visszajelzés érkezik.
 
 ### Kizárás
 
-34. § (1) Az ügy érdemi elintézésében az Ákr. kizárásra vonatkozó rendelkezéseiben foglaltakon túl nem vehet részt, akinek az a) pont szerinti jogviszonya az ügyféllel, illetve az ügyfélben befolyásoló részesedéssel rendelkező vagy az ügyfél befolyásoló részesedése mellett működő vállalkozással az eljárás kezdetét megelőző egy éven belül állt fenn, illetve akinek hozzátartozója
+26. § (1) Az ügy érdemi elintézésében a közigazgatási hatósági eljárás általános szabályairól szóló törvény kizárásra vonatkozó rendelkezéseiben foglaltakon túl nem vehet részt, akinek az a) pont szerinti jogviszonya a 27. § szerinti ügyféllel, a 28. § szerinti bejelentővel, illetve az azt irányító vagy az ügyfél, illetve a bejelentő által irányított vagy azzal közös irányítás alatt álló szervezettel az eljárás megkezdését megelőző egy évben belül állt fenn, illetőleg akinek hozzátartozója
 
-- a) az ügyféllel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy tagsági viszonyban áll, illetve annak vezető tisztségviselője,
-- b) az ügyfélben tulajdoni részesedéssel rendelkezik,
-- c) olyan magánszeméllyel, jogi személlyel vagy jogi személyiség nélküli szervezettel áll munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy tagsági viszonyban, illetve annak vezető tisztségviselője, vagy abban tulajdoni részesedéssel rendelkezik, amely az ügyféllel rendszeres üzleti kapcsolatban áll,
-- d) olyan szervezettel áll munkavégzésre irányuló jogviszonyban, amely az ügyfél felügyelő vagy alárendelt szervezete, illetve, amely az ügyfél részére valamely támogatást, vagy kizárólagos jogosítványt biztosított, ide nem értve a Médiaszolgáltatás-támogató és Vagyonkezelő Alappal vagy a Hatósággal fennálló munkavégzésre irányuló jogviszonyt.
+- a) az ügyféllel, illetve bejelentővel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy tagsági viszonyban áll, illetve annak vezető tisztségviselője;
+- b) az ügyfélben, illetve bejelentőben tulajdoni részesedéssel rendelkezik;
+- c) olyan magánszeméllyel, jogi személlyel vagy jogi személyiség nélküli szervezettel áll munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy tagsági viszonyban, illetőleg annak vezető tisztségviselője, vagy abban tulajdoni részesedéssel rendelkezik, amely az ügyféllel, illetve bejelentővel rendszeres üzleti kapcsolatban áll;
+- d) olyan szervezettel áll munkavégzésre irányuló jogviszonyban, amely az ügyfél, illetve bejelentő felügyelő vagy alárendelt szervezete, illetve, amely az ügyfél, illetve bejelentő részére valamely támogatást, illetőleg kizárólagos jogosítványt biztosított.
 
-(2) A Hivatal eljáró alkalmazottja a főigazgatónak haladéktalanul köteles bejelenteni, ha vele szemben kizárási ok áll fenn. A Hivatal eljáró alkalmazottja a bejelentés elmulasztásáért vagy késedelmes teljesítéséért fegyelmi és anyagi felelősséggel tartozik. A Hivatal alkalmazottjának kizárásáról a főigazgató dönt és szükség esetén kijelöli a Hivatal eljáró alkalmazottját.
+(2) A hatóság eljáró alkalmazottja a főigazgatónak, illetve a Tanács eljáró tagja a Tanács elnökének haladéktalanul köteles bejelenteni, ha vele szemben kizárási ok áll fenn. A hatóság eljáró alkalmazottja, illetve a Tanács eljáró tagja a bejelentés elmulasztásáért vagy késedelmes teljesítéséért fegyelmi és anyagi felelősséggel tartozik.
 
-(3) A főigazgató haladéktalanul köteles bejelenteni az Elnöknek, ha vele szemben kizárási ok áll fenn. A főigazgató a bejelentés elmulasztásáért vagy késedelmes teljesítéséért fegyelmi és anyagi felelősséggel tartozik. A főigazgató kizárása tárgyában az Elnök dönt. Amennyiben a főigazgatóval szemben a kizárási ok fennáll, döntésében az Elnök mérlegeli, hogy az adott ügyben a főigazgató jár el azzal, hogy döntését köteles megküldeni az Elnöknek vagy a hatáskör gyakorlására kijelöli a főigazgató-helyettesek valamelyikét.
+(3) A kizárási okot az ügyfél az eljárás bármely szakaszában bejelentheti, azonban a hatóság eljárásának megindítását követően a kizárási okot csak akkor érvényesítheti, ha egyidejűleg valószínűsíti, hogy a bejelentés alapjául szolgáló tényről akkor szerzett tudomást.
 
-(4) Ha az ügyfél nyilvánvalóan alaptalanul tesz kizárásra irányuló bejelentést, a kizárást megtagadó végzésben e törvény szerinti eljárási bírsággal sújtható.
+(4) Ha az ügyfél nyilvánvalóan alaptalanul tesz kizárásra irányuló bejelentést, vagy ugyanabban az eljárásban ugyanazon személy ellen ismételten alaptalan bejelentést tesz, őt a kizárást megtagadó végzésben bírsággal lehet sújtani.
 
-(5) Az Elnökkel szemben fennálló kizárási ok esetében az Elnök által kijelölt elnökhelyettes jár el az ügy érdemi elintézésében.
+(5) A kizárásról a Tanács elnöke, illetve a Tanács elnökének érintettsége esetében a Tanács elnök nélküli teljes ülése dönt, és szükség esetén kijelöli a hatóság eljáró alkalmazottját, illetve a Tanács eljáró tagját.
+
+(6) Ha a hatóság eljáró alkalmazottja, illetve a Tanács eljáró tagja a kizárási okot maga jelentette be, a bejelentés elintézéséig az ügyben nem járhat el. Minden más esetben az ügyben eljárhat, de az ügy befejezését eredményező döntés meghozatalában nem vehet részt. Az ügyfél által ugyanazon személy ellen ismételten előterjesztett alaptalan bejelentés esetén e korlátozás nem érvényesül.
+
+(7) Ha a kizárási okot az ügyfél jelentette be, a kizárást megtagadó döntés ellen az eljárást lezáró döntés elleni fellebbezésében élhet kifogással.
+
+(8) A hatóság eljáró alkalmazottja, illetve a Tanács eljáró tagjának kizárása esetében – a (6) bekezdésben foglaltakat kivéve – a kizárás elintézésére fordított időt az eljárási határidők számítása során figyelmen kívül kell hagyni.
+
+### Ügyfél, bejelentő
+
+27. § Ügyfél az, akivel szemben hivatalból indult meg az eljárás, illetve a kérelmező, továbbá az, akire a kérelem vonatkozik. A nyilvántartások vezetéséhez, egyedi engedélyek kiadásához és a zavarelhárításhoz kapcsolódó eljárásokban ügyfél az, akit a közigazgatási hatósági eljárás általános szabályairól szóló törvény ügyfélként meghatároz.
+
+28. § (1) Az elektronikus hírközlésre vonatkozó szabályba ütköző magatartás észlelése, illetve a jelentős piaci erővel rendelkező szolgáltatóra vonatkozó kötelezettség megállapítására vagy felülvizsgálatára okot adó jelentős körülmény esetén, akinek jogát vagy jogos érdekét az ügy érinti, továbbá az, akit elektronikus hírközlésre vonatkozó szabályban meghatározott jogaival összefüggésben sérelem ért, vagy ennek közvetlen veszélye áll fenn, valamint fogyasztói érdekek képviseletét ellátó társadalmi szervezet a hatósághoz címzett bejelentéssel élhet (a továbbiakban: bejelentő).
+
+(2) A bejelentőt nem illetik meg az ügyfél jogai, és nem terhelik annak kötelezettségei. A bejelentésben meg kell jelölni a bejelentő adatait, a hatóság eljárására okot adó körülményt, illetőleg azt a tevékenységet vagy magatartást, amelynek alapján az elektronikus hírközlésre vonatkozó szabály megsértése valószínűsíthető, valamint az (1) bekezdésben foglalt feltételek fennállását valószínűsítő körülményeket.
+
+(3) A hatóság a bejelentés alapján mérlegelése szerint hivatalból eljárást indíthat. Amennyiben a hatóság hivatalból eljárást indít, erről tájékoztatja a bejelentőt. Amennyiben a hatóság a bejelentés alapján eljárást nem indít, erről szóló határozatát megküldi a bejelentőnek. Az eljárás megindításának megtagadásáról szóló határozat ellen fellebbezésnek van helye.
+
+(4) A bejelentő kérheti, hogy ne fedjék fel személyét, illetve azt a tényt, hogy az eljárás bejelentés alapján hivatalból indult. Ebben az esetben a bejelentésbe való betekintést a hatóság kizárja.
+
+(5) Az eljárást lezáró érdemi határozatot a hatóság a bejelentőnek megküldi.
+
+### Titoktartás
+
+29. § (1) A hatósággal közszolgálati jogviszonyban álló, illetve állt, valamint a munkavégzésre irányuló egyéb jogviszonyban álló, illetve állt személyek – a más szervezet számára jogszabályban előírt adatszolgáltatást kivéve – e jogviszony fennállása alatt, és azok megszűnését követően is kötelesek megőrizni a hatóság tevékenységével, annak ellátásával kapcsolatban tudomásukra jutott személyes adatot, állam-, szolgálati, illetve üzleti titkot, valamint minden olyan adatot, tényt vagy körülményt, amelyet a hatóság nem köteles törvény előírásai szerint a nyilvánosság számára hozzáférhetővé tenni.
+
+(2) Az (1) bekezdésben felsorolt személyek a feladataik ellátásával kapcsolatban tudomásukra jutott adatokat, tényt vagy körülményt nem tehetik jogosulatlanul közzé, nem hasznosíthatják, és nem hozhatják harmadik fél tudomására.
+
+### Üzleti titok
+
+30. § (1) Az ügy elintézésében résztvevő, a hatósággal közszolgálati jogviszonyban, illetve munkavégzésre irányuló egyéb jogviszonyban állók korlátozás nélkül jogosultak az üzleti titok megismerésére.
+
+(2) Az ügyfél és az eljárás egyéb résztvevői (így különösen a bejelentő) kérhetik – a közérdekből nyilvános, illetve jogszabályban meghatározottak szerint egyébként üzleti titoknak nem minősíthető adatok kivételével – az üzleti titok védelmére hivatkozással az iratokba való betekintés, valamint azokról történő másolat vagy feljegyzés készítésének korlátozását. Ebben az esetben az ügyfél, illetve az eljárás egyéb résztvevője köteles olyan iratváltozatot készíteni, amely nem tartalmaz üzleti titkot.
+
+(3) Nem minősíthető üzleti titokká olyan adat, vagy annak bármilyen szempont szerinti feldolgozása, amely adat nyilvánosságra hozatalára az ügyfelet jogszabály kötelezi.
+
+(4) Referenciaajánlattal kapcsolatos eljárásokban nem minősül üzleti titoknak a referenciaajánlat azon része, amelyet a kötelezett szolgáltató harmadik feleknek a szerződéskötés során, jogszabály alapján általában rendelkezésre bocsátana (így különösen az ár, összekapcsolási pontok vagy közös eszközhasználati, illetve helymegosztási feltételek).
+
+(5) Amennyiben az eljárásban résztvevő ügyfél jogérvényesítése érdekében indokolt, a hatóság felszólíthatja az üzleti titokkal rendelkező ügyfelet az üzleti titok minősítés azonnali hatállyal történő megszüntetésére. Amennyiben az üzleti titokkal rendelkező ügyfél az üzleti titok minősítést nem oldja fel, és ezzel az ügy érdemi elbírálását akadályozza, a hatóság végzésében az eljárás folytatásához szükséges mértékben kötelezi az üzleti titok másik fél számára történő rendelkezésre bocsátására.
+
+(6) A hatóság (5) bekezdésben foglalt végzése ellen az üzleti titokkal rendelkező ügyfél a Fővárosi Bírósághoz halasztó hatályú jogorvoslattal fordulhat az üzleti titok minősítés fenntartása érdekében. A bíróság az ügyben, szükség esetén a felek meghallgatása után, 15 napon belül nemperes eljárásban határoz. A Fővárosi Bíróság végzése ellen fellebbezésnek helye nincs.
+
+(7) Az eljárás egyéb résztvevői a hatóság engedélyével a (2) bekezdés szerinti kérelem hiányában is csak akkor tekinthetnek be az eljárás irataiba, és azokról akkor készíthetnek másolatot, feljegyzést, ha az iratok ismeretéhez jogos érdekük fűződik, és az iratbetekintés nem ütközik titokvédelmi jogszabályba, illetve az üzleti titkot nem sérti. A bejelentőnek – kérelmére – az érdemi határozat meghozatalát követő 15 napon belül a hatóság köteles lehetővé tenni, hogy az ügy irataiba – a (2) bekezdésben foglalt korlátozás figyelembevételével – betekinthessen, és azokról feljegyzést készíthessen.
+
+(8) Amennyiben a külföldi hatóság igényli, a megkeresésre adott válaszában foglaltakat részben vagy egészben üzleti titokként kell kezelni, az üzleti titok kezelésére a (3) bekezdésben foglaltakat kell alkalmazni.
 
 ### A tényállás tisztázása
 
-35. § (1) A Hatóság jogosult az elektronikus hírközlési tevékenységgel, szolgáltatással kapcsolatos – akár törvény által védett titkot vagy külön jogszabály felhatalmazása alapján minősített adatot is magában foglaló – adatot tartalmazó valamennyi eszközt, iratot, dokumentumot megtekinteni, megvizsgálni, azokról másolatot, kivonatot készíteni.
+31. § (1) A hatóság eljárása során a törvényben meghatározott feladatai ellátása érdekében – az intézkedéssel érintett üzletmenetének lehető legkisebb mértékű zavarása vagy akadályozása mellett – jogosult
 
-(2) A Hatóság az ügyfelet, az eljárás egyéb résztvevőit, valamint azok megbízottait, alkalmazottait, vagy az ügyféllel és az eljárás egyéb résztvevőivel egyéb jogviszonyban állókat adatszolgáltatásra, illetve szóban vagy írásban a hatáskörébe utalt feladatok végzéséhez szükséges adatoknak az általa meghatározott, összehasonlításra alkalmas formátumban való szolgáltatására, továbbá egyéb felvilágosítás adására kötelezheti. Az adatszolgáltatási kötelezettségnek meg kell felelnie az arányosság követelményének.
+- a) az elektronikus hírközlési tevékenységgel kapcsolatos – akár üzleti titkot is tartalmazó – iratokba betekinteni, illetőleg követelheti az adathordozón tárolt információ olvasható és másolható formában való megjelenítését vagy az információhoz való hozzáférés egyéb módon történő biztosítását,
+- b) az e törvény hatálya alá tartozó természetes és jogi személyek, illetőleg jogi személyiséggel nem rendelkező szervezetek elektronikus hírközlési tevékenységgel összefüggő telephelyére, székhelyére, kereskedelmi egységeibe, raktáraiba belépni,
+- c) minta és ellenminta vételére,
+- d) próbavásárlás végzésére,
+- e) üzleti titok megismerésére,
+- f) az ügyfélnél szemlét tartani, bármely helyiségébe belépni, ideértve a járművek átvizsgálását és az üzleti tevékenységhez használt bármilyen területet, továbbá az ügyfelet, megbízottját (így különösen könyvvizsgálóját) vagy alkalmazottját, vagy korábbi megbízottját, vagy volt alkalmazottját szóban vagy írásban adatoknak az általa meghatározott, összehasonlításra alkalmas formátumban való szolgáltatására, továbbá felvilágosítás adására kötelezni, illetve a helyszínen más módon tájékozódni,
+- g) az iratokról, adathordozókról másolatot, kivonatot készíteni, továbbá e célból azokat legfeljebb 8 napra birtokba venni,
+- h) méréseket és vizsgálatokat végezni,
+- i) bizonyítási eszközöket lefoglalni, illetve zár alá venni.
 
-(3) A Hatóság különösen indokolt esetben a tényállás tisztázása érdekében az ügyfélen és az eljárás egyéb résztvevőjén kívül más személyt vagy szervezetet is adatszolgáltatásra, bizonyítási eszközök átadására kötelezhet. E végzés közigazgatási perben megtámadható, a keresetlevél benyújtásának halasztó hatálya van. A bíróság harminc napon belül dönt.
+(2) Ha a tényállás tisztázása érdekében az ügyfélen kívül más személynél vagy szervezetnél is szükséges tájékozódni, e személy vagy szervezet köteles a szükséges felvilágosításokat megadni, és a vizsgálat tárgyával összefüggő iratokat rendelkezésre bocsátani.
 
-(3a) Az ügyfél a nyilatkozatával nem pótolhatja a hiányzó bizonyítékot akkor sem, ha annak beszerzése nem lehetséges, kivéve, ha a hatóság a tényállás tisztázása körében az ügyfelet a hiányzó bizonyíték pótlása érdekében nyilatkozattételre hívja fel.
+(3) A hatóság jogosult – a vizsgált gazdasági tevékenységgel összefüggésben – megismerni az ügyfélnek és az eljárás más résztvevőinek a személyes adatait.
 
-(3b) A Hatóság a tényállás tisztázása során kötelezheti az ügyfelet, hogy az eredeti okiratot vagy az arról készített hiteles másolatot a Hatóság rendelkezésére bocsássa.
+(4) A hatóság jogsértés megállapítására irányuló eljárása során az ügyfelet olyan időben köteles tájékoztatni a jogsértés feltételezéséről, illetve a vizsgált tényekről, hogy az ügyfél az ezekre vonatkozó álláspontjáról nyilatkozhasson.
 
-(4) Ha a tényállás tisztázása azt szükségessé teszi, a Hatóság az ügyfelet – a 38. § szerinti jogkövetkezményekre történő figyelemfelhívás mellett – nyilatkozattételre, valamint adatszolgáltatásra kötelezheti.
+(5) A terhelő bizonyítékként felhasználható irat, adat, dokumentum vagy bármilyen más információ rendelkezésre bocsátása nem tagadható meg, azonban az ügyfél, illetőleg a nyilatkozó személy a törvénysértést beismerő nyilatkozatot nem köteles megtenni.
 
-(5) A Hatóság a tényállás tisztázása érdekében – megfelelő határidő tűzése és a mulasztás jogkövetkezményeire történő figyelmezetés mellett – hiánypótlásra hívhatja fel az ügyfelet.
+(6) A hatóságnak a tényállás tisztázása érdekében eljáró közszolgálati jogviszonyban álló alkalmazottja ellenőrzési jogosultságát – a próbavásárlás esetének kivételével – az ellenőrzés megkezdésekor szolgálati igazolvánnyal vagy megbízólevéllel igazolja.
 
-(6) A Hatóság egyedi hatósági eljárásainak iratait, adatait, dokumentumait, vagy egyéb bizonyítási eszközeit – kivételesen indokolt esetben – más eljárásaiban is felhasználhatja, amennyiben az ügyfelek eljárási terheinek csökkentése vagy a megfelelő, illetve hatékony jogérvényesítés ezt szükségessé teszi.
+32. § (1) A hatóság a tényállás tisztázása érdekében, kivételes esetben az ügyfél eredeti iratait, adathordozóit és az eljárás egyéb tárgyi bizonyítási eszközeit lefoglalhatja vagy zár alá veheti, ha súlyos jogsértés gyanúja merül fel, és az irat, illetve az adathordozó tartalmának meghamisításától vagy megsemmisítésétől megalapozottan lehet tartani.
 
-(7) A Hatóság eljárása során a törvényben meghatározott feladatai ellátása érdekében – az intézkedéssel érintett üzletmenetének lehető legkisebb mértékű zavarása vagy akadályozása mellett – jogosult
+(2) Nem lehet lefoglalni az ügyfél birtokában, őrizetében lévő iratot, adathordozót vagy egyéb bizonyítási eszközt, ha a rajta lévő jelből vagy más körülményből minden bizonyítás nélkül kétségtelenül megállapítható, hogy az nem az ügyfél tulajdona, illetőleg olyan adatokat tartalmaz, amelyek a lefoglalás alapjául szolgáló üggyel nem hozhatók összefüggésbe.
 
-- a) az e törvény hatálya alá tartozó természetes és jogi személyek, valamint jogi személyiséggel nem rendelkező szervezetek elektronikus hírközlési tevékenységgel összefüggő telephelyére, székhelyére, kereskedelmi egységeibe, raktáraiba belépni,
-- b) minta és ellenminta vételére,
-- c) próbavásárlás végzésére,
-- d) az ügyfélnél szemlét tartani, bármely helyiségébe belépni, ideértve a járművek átvizsgálását és az üzleti tevékenységhez használt bármilyen területet, vagy a helyszínen más módon tájékozódni,
-- e) méréseket és műszaki vizsgálatokat végezni,
-- f) bizonyítási eszközöket lefoglalni, vagy zár alá venni.
+(3) A hatóság a lefoglalásról, illetve a zár alá vételről végzést hoz, amely ellen az ügyfél a Fővárosi Bírósághoz halasztó hatályú jogorvoslattal fordulhat. A bíróság az ügyben, szükség esetén a felek meghallgatása után, 15 napon belül nemperes eljárásban határoz. A Fővárosi Bíróság végzése ellen fellebbezésnek helye nincs.
 
-(8) A tényállás tisztázása során a Hatóság egyebekben az Ákr. tényállás tisztázására és a hatósági ellenőrzésre vonatkozó szabályait is alkalmazhatja.
+(4) A lefoglalást, illetve a zár alá vételt haladéktalanul meg kell szüntetni, ha arra az eljárás érdekében már nincs szükség.
 
-(9) Életveszéllyel vagy súlyos kárral fenyegető helyzetben, azonnali eljárási cselekmény elvégzése és a közbiztonság, a közrend védelme érdekében, valamint abban az esetben, ha más szolgáltatók vagy a felhasználók gazdálkodását vagy működését súlyosan és közvetlenül fenyegető veszély elhárítása érdekében szükséges, a Hatóság a helyszíni szemlét a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is jogosult megtartani.
+### Bírság
 
-#### 36. §
+33. § (1) A hatóság az elektronikus hírközlésre vonatkozó szabály és az általános szerződési feltételek megsértőjével szemben a jelen § keretei között bírságot alkalmazhat. A hatóság a kiszabott bírság összegét a jogsértésnek az elektronikus hírközlési piacra gyakorolt hatására, a jogsértéssel személyhez fűződő jogában vagy vagyonában sértett vagy veszélyeztetett felhasználók számára, az érdeksérelem mértékére, valamint az elektronikus hírközlési szolgáltató, illetve frekvenciahasználó által a jogsértéssel elért vagyoni előnyre tekintettel állapítja meg, figyelembe véve, hogy a kiszabott bírság alkalmas legyen a jogsértést elkövető vagy más személy további jogsértéstől való visszatartására.
 
-### Ideiglenes biztosítási intézkedés
+(2) A bírság összegének felső határa
 
-37. § (1) A Hatóság a hatósági eljárás keretében az élet, az egészség, a testi épség és a környezet, a közbiztonság, a közrend védelme vagy a felhasználók széles körét érintő, különösen nagy kárral fenyegető, továbbá más szolgáltatók vagy a felhasználók gazdálkodását vagy működését súlyosan és közvetlenül fenyegető veszély elhárítása érdekében ideiglenes biztosítási intézkedésként a szolgáltatás nyújtását, a vitatott hálózati vagy előfizetői szerződéses rendelkezés, illetve ár vagy díj alkalmazását, a rádióspektrum és azonosítók használatát, valamint elektronikus hírközlési berendezés forgalmazását végzésben korlátozhatja vagy megtilthatja. Azonosító felhasználásával elkövetett csalás, visszaélés esetén a Hatóság elrendelheti az érintett azonosító elérésének megakadályozását, az azonosító használatára irányuló számhasználati jogosultság felfüggesztését és az azonosító eléréséért fizetendő díjak visszatartását.
+- a) a 68. § (3) bekezdésének a), b), d) és e) pontjai szerinti esetekben a jogsértő árbevételének 0,25%-a;
+- b) a szabálytalanul forgalomba hozott, forgalmazott elektronikus hírközlési berendezés minden darabja után a nettó beszerzési érték ötszöröse;
+- c) szabálytalan frekvenciahasználat esetén a jogsértéssel érintett éves frekvencia díj tízszerese;
+- d) árprésre vonatkozó tilalom megsértése esetén a jogsértő árbevételének 0,5%-a;
+- e) referenciaajánlat-tervezet benyújtására, a számviteli nyilvántartások elkülönített vezetésével és a hálózati szolgáltatások költségszámításával kapcsolatos adatszolgáltatásra, továbbá a jelentős piaci erővel rendelkező szolgáltató számára határozatban megállapított egyéb kötelezettség teljesítésének elmulasztása, illetve késedelmes vagy nem megfelelő teljesítése esetén a jogsértő árbevételének 0,5%-a; illetve
+- f) az V. fejezet szerinti egyéb ügyekben, elektronikus hírközlésre vonatkozó szabály megsértése esetén a jogsértő árbevételének 0,1%-a;
+- g) műsorterjesztéssel kapcsolatos elektronikus hírközlési szabály megsértése esetén a jogsértő árbevételének 5%-a;
+- h) rádiófrekvencia, illetve azonosító engedély nélküli használata esetén a jogsértő árbevételének 1%-a, árbevétel hiányában legalább 10 000 Ft, legfeljebb 100 000 Ft.
 
-(2) Az ideiglenes biztosítási intézkedés hatálya – ha azt korábban nem vonják vissza – az eljárás végleges befejezéséig, de legfeljebb 90 napig tart, amely egy alkalommal további 90 nappal meghosszabbítható.
+(3) A hatóság a (2) bekezdésben nem szabályozott esetekben
 
-(3) A Hivatal ideiglenes biztosítási intézkedés tárgyában hozott végzése ellen önálló fellebbezésnek nincs helye. Az ideiglenes biztosítási intézkedés ellen az ügyfél a végzés közlésétől számított öt napon belül jogszabálysértésre hivatkozással közigazgatási pert indíthat. A bíróság az ügyben tizenöt napon belül határoz.
+- a) az árbevételének legfeljebb 0,05%-ának megfelelő mértékű, de legalább 100 000 Ft összegű,
+- b) frekvenciahasználattal kapcsolatos eljárásban legfeljebb a frekvencia díj 50%-ának megfelelő mértékű, de legalább 20 000 Ft összegű,
+- c) műsorterjesztéssel kapcsolatos adatszolgáltatási eljárásban az árbevételének 1%-a, de legalább 100 000 Ft összegű
 
-### Hatósági intézkedés
+pénzbírsággal sújthatja – ismételt jogsértés esetén sújtani köteles – az eljárás résztvevőjét az eljárás szabályainak megsértése esetén, így különösen, ha téves vagy hamis adatot közöl, illetve az ügy elbírálása szempontjából lényeges adatot elhallgat, felvilágosítást nem vagy nem határidőn belül ad meg, vagy az elektronikus hírközlési tevékenységével kapcsolatos iratokba való betekintést, illetve az eljárás lefolytatását egyéb módon akadályozza.
 
-37/A. § (1) A rádiófrekvencia jogszerűtlen, engedély nélküli használata, illetve egyedi engedélyhez nem kötött, jogszerűtlen frekvenciahasználat esetén a Hivatal jogosult a rádiófrekvenciával kapcsolatos tevékenység folytatásához használt eszközt, berendezést hatósági intézkedésként lepecsételni és szükség esetén a Hivatal által meghatározott őrzési helyre elszállítani. E hatósági intézkedés nem minősül közigazgatási hatósági ügynek.
+(4) A Nemzetbiztonsági Szakszolgálattal kapcsolatos – e törvényben meghatározott – kötelezettségek megsértése esetén a bírság összege a jogsértő szolgáltató árbevételének 0,5%-a.
 
-(2) Ha az (1) bekezdésben foglalt rádiófrekvencia használatot a Hivatal helyszíni ellenőrzés során észleli, köteles azonnal alkalmazni az (1) bekezdésben foglalt intézkedést.
+(5) A hatóság a (2)–(4) bekezdések szerinti esetekben, az ott meghatározottakon túlmenően 50 000 forinttól 3 millió forintig terjedő bírsággal sújthatja – ismételt jogsértés esetén sújtani köteles – a jogsértő szervezet vezető tisztségviselőjét.
 
-(3) A (2) bekezdésben foglalt eseten kívül a hatósági intézkedést hivatalból, a hatósági intézkedésre okot adó körülmény beálltát vagy a Hivatal számára történő tudomásra jutását követően haladéktalanul, írásban a főigazgató rendeli el. A főigazgató által meghatározott határidőn belül a Hivatal a hatósági intézkedést foganatosítja.
+(6) A bírság többszörös jogsértés esetén ismételten is kiszabható.
 
-(4) A hatósági intézkedést a Hivatal ügyintézője végezheti.
-
-(5) A hatósági intézkedés keretében a Hivatal mindazon eszközöket igénybe veheti, amelyek az intézkedés sikeres lefolytatásához, céljának eléréséhez szükségesek és azzal arányban állnak.
-
-(6) A hatósági intézkedésről jegyzőkönyvet kell készíteni. A jegyzőkönyv tartalmazza
-
-- a) a Hatóság megnevezését, a lepecsételés helyét és idejét,
-- b) a rádióállomás üzemben tartójának természetes személyazonosító és lakcím adatait, jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetében a cég megnevezését, székhelyét és adószámát vagy cégjegyzékszámát,
-- c) a jogokra és kötelezettségekre való figyelmeztetést,
-- d) a lepecsételt rádióberendezés típusát, gyári számát, vagy más azonosításra alkalmas megjelölését,
-- e) a lepecsételés indokát,
-- f) a lepecsételés módját,
-- g) a rádióengedély számát,
-- h) a lepecsételt rádióberendezés őrzési helyét,
-- i) az üzemben tartó lényeges nyilatkozatát és megállapításait, valamint
-- j) a lepecsételést végző köztisztviselő, illetve jegyzőkönyvvezető nevét, aláírását.
-
-(7) Ha az eszköz, berendezés elszállításra kerül, azt úgy kell őrizni, hogy az változatlan maradjon és azonossága könnyen megállapítható legyen. A lepecsételt berendezés őrzési helyét a Hivatal határozza meg.
-
-(8) A pecsét kizárólag a Hivatal által vagy a Hivatal írásbeli hozzájárulásával távolítható el. A pecsétet a Hivatal akkor távolítja el, ha a lepecsételés elrendelésének oka megszűnt, illetve ha a Hivatal megítélése szerint a lepecsételt eszközt, berendezést a továbbiakban jogszabálysértő módon nem használnák. A pecsét eltávolítása körében a Hivatal által különösen mérlegelendő szempontot képez az engedélyes, illetve a lepecsételt eszköz, berendezés üzemeltetőjének, tulajdonosának nyilatkozata arra vonatkozóan, hogy az eszközt, berendezést a továbbiakban jogszabálysértő módon nem használja.
-
-(9) A pecsét engedély nélküli eltávolítása vagy a pecsét megkerülésével a lepecsételt eszköz, berendezés újra üzembe helyezése esetén az üzemeltetővel szemben, a pecsét engedély nélküli eltávolítása esetére más jogszabályban foglalt – az ott meghatározott hatóság, bíróság által alkalmazható – jogkövetkezmények mellett a Hatóság jogosult a 49. § (4) bekezdés c) pontjában meghatározott jogkövetkezményt alkalmazni.
-
-(10) A Hivatal által meghatározott őrzési helyre elszállított eszközt, berendezést a pecsét eltávolítását követően nyolc napon belül ki kell adni annak, akitől azt elszállították.
-
-(11) A Hivatal az elszállított eszköz, berendezés előzetes értékesítéséről dönthet, ha a Hivatal felhívásától számított tíz napon belül az elszállított dolog kiadása iránt senki nem jelentett be jogos igényt és az eszköz, berendezés
-
-- a) kezelése, tárolása, illetve őrzése – különösen a dolog értékére vagy az előreláthatólag hosszú ideig tartó tárolására tekintettel – aránytalan és jelentős költséggel járna,
-- b) értéke az előreláthatólag hosszú ideig tartó tárolás miatt jelentősen csökkenne.
-
-(12) A (11) bekezdésben foglalt értékesítésből befolyt ellenérték az őrzési helyre szállított eszköz, berendezés helyébe lép. Ha az eszköz, berendezés az előzetes értékesítés miatt már nem adható ki, a dolog előzetes értékesítéséből befolyt ellenértékét alapul véve, a kezeléséből, tárolásából eredő költséggel csökkentett, a megtérítés időpontjáig eltelt időre számított jegybanki alapkamattal növelt összegét kell megtéríteni. A jogosult az ezt meghaladó igényét a polgári jog szabályai szerint érvényesítheti.
-
-(13) Ha az őrzési helyre szállított eszköz, berendezés értéktelen és arra senki sem tart igényt, a pecsét eltávolítása után azt meg kell semmisíteni. A megsemmisítés költségei az elszállított dolog tulajdonosát és az elszállítás előtti birtokosát egyetemlegesen terhelik.
-
-(14) A jogosultnak kiadandó dolgot a vele szemben megállapított frekvenciadíj fizetési kötelezettség biztosítására vissza lehet tartani.
-
-37/B. § (1)
-
-(2) Ha a Hivatal megítélése szerint szükséges, a hatósági intézkedés zavartalan lefolytatásának biztosítása érdekében a rendőrség közreműködését kérheti. A Hivatal, hatósági intézkedés keretében történő közreműködés tárgyában megküldött megkeresésére a rendőrség – a megkeresésben foglalt határidőn belül – köteles biztosítani a közreműködést. A 37/A. § (2) bekezdésében foglalt esetben, súlyos kárral fenyegető helyzet megelőzése érdekében, valamint nemzetbiztonsági, védelmi és biztonsági érdekből vagy fontos közrendvédelmi, közbiztonsági okból azonnali hatósági intézkedés szükséges, a rendőrség – előzetes megkeresése nélkül – a Hivatal felkérésére azonnal, a Hivatal által megjelölt helyen és ideig köteles biztosítani a közreműködést.
-
-(3) A hatósági intézkedés jogalapjáért, hírközlési igazgatási jogszerűségéért a Hivatal felel.
-
-(4) A hatósági intézkedés keretében történő rendőri közreműködésre és rendőri intézkedésekre a Rendőrségről szóló törvény végrehajtási eljárás lefolytatásában való közreműködésre vonatkozó szabályai alkalmazandók.
-
-(5) Ha a hatósági intézkedésre a frekvenciahasználattal kapcsolatos nemzetbiztonsági, védelmi és biztonsági érdekből, illetve kiemelt közrendvédelmi okok alapján kerül sor, a hatósági intézkedést a Hivatal – a rendőrség közreműködésével – a lezárt terület, épület, helyiség, magánlakás és közterületnek nem minősülő egyéb helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is foganatosíthatja.
-
-(6) A rendőrség (2) bekezdésben foglalt Hivatal általi megkereséséhez, a hatósági intézkedés keretében történő rendőri közreműködéshez, intézkedéshez, illetve a hatósági intézkedés (5) bekezdésben foglalt módon történő foganatosításához az ügyész előzetes jóváhagyása nem szükséges. Ha a hatósági intézkedés foganatosítására lezárt terület, épület, helyiség, magánlakás és közterületnek nem minősülő egyéb helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére kerül sor, a hatósági intézkedés foganatosításáról készült jegyzőkönyvet a Hivatal hét napon belül megküldi az ügyésznek.
-
-(7) A hatósági intézkedés keretében történő rendőrségi közreműködés tárgyában a Hatóság és a rendőrség együttműködési megállapodást köthet.
-
-37/C. § (1) A Hivatal hatósági intézkedése ellen az intézkedéssel jogában közvetlenül érintett személy vagy szervezet – különösen az eszköz, berendezés üzemeltetője, tulajdonosa, birtokosa – jogszabálysértésre hivatkozással, az intézkedés foganatosításától számított 10 napon belül panaszt nyújthat be a főigazgatóhoz. A panasz benyújtására nyitva álló határidő jogvesztő, elmulasztása ellen igazolási kérelemnek nincs helye.
-
-(2) A főigazgató a panasz tárgyában – a panasz benyújtásától számított 30 napon belül – végzésben dönt. Ha a főigazgató végzésében megállapítja, hogy a hatósági intézkedés jogszabálysértő volt, a Hivatal az őrzési helyre elszállított eszközt, berendezést kiadja vagy a pecsétet eltávolítja.
-
-(3) A (2) bekezdésben foglalt – panaszt elutasító – végzés közigazgatási perben megtámadható.
-
-(4)
-
-### Eljárási bírság
-
-38. § (1) A Hatóság bírsággal sújthatja – ismételt jogsértés esetén sújtani köteles – az ügyfelet, az eljárás egyéb résztvevőjét, valamint a tényállás tisztázása során közreműködésre kötelezett személyt az eljárás szabályainak megsértése esetén, így különösen, ha
-
-- a) téves vagy hamis adatot közöl,
-- b) az ügy elbírálása szempontjából lényeges adatot elhallgat,
-- c) felvilágosítást nem vagy nem határidőn belül ad meg,
-- d) az elektronikus hírközlési tevékenységével kapcsolatos iratokba való betekintést, illetve az eljárás lefolytatását egyéb módon akadályozza, vagy
-- e) az eljárás során olyan magatartást tanúsít, amely az eljárás elhúzódását, a valós tényállás feltárásának meghiúsítását eredményezheti.
-
-(2) Az eljárási bírság legmagasabb összege a jogsértő – 49. § (11) bekezdése szerinti – nettó árbevételének 0,1%-a. Árbevételi adatok, vagy árbevétel közlésének hiányában a bírság mértéke legfeljebb tízmillió forint.
-
-(3) Természetes személy jogsértő esetében az eljárási bírság, legmagasabb összege egymillió forint.
-
-(4) A piacelemzés, a jelentős piaci erővel rendelkező szolgáltatók azonosítása, valamint a jelentős piaci erővel rendelkező szolgáltatókra e törvény szerint kiszabott kötelezettség tárgyában hozott hatósági döntésben (e bekezdés alkalmazásában a továbbiakban: döntés) kirótt referenciaajánlat-tervezet benyújtására vonatkozó kötelezettség, illetve a döntésben előírt egyéb eljárás-kezdeményezési kötelezettség és adatszolgáltatási kötelezettség, továbbá a döntésen alapuló számviteli nyilvántartások elkülönített vezetése, hálózati szolgáltatások költségszámítása és kirótt egyéb kötelezettség teljesítése körében előírt adatszolgáltatási kötelezettség elmulasztása, illetve késedelmes vagy nem megfelelő teljesítése esetén az eljárási bírság legkisebb összege százezer forint, a bírság maximuma a jogsértő 49. § (11) bekezdése szerinti nettó árbevételének 0,5%-a. Árbevételi adatok, vagy árbevétel közlésének hiányában a bírság mértéke legalább százezer forint, legfeljebb ötvenmillió forint.
-
-(5) Az (1)–(4) bekezdésben foglaltakon túlmenően az eljárás akadályozása, illetve az adatszolgáltatás nem vagy nem megfelelő teljesítése esetén a Hatóság hárommillió forintig terjedő bírsággal sújthatja – ismételt jogsértés esetén sújtani köteles – a jogsértő vezető tisztségviselőjét is.
+(7) A jelen § alkalmazása szempontjából árbevétel alatt az eljárás résztvevőjének hírközlési tevékenységgel kapcsolatos értékesítésből származó előző üzleti évi nettó árbevételét kell érteni, előző üzleti évi árbevétel vagy árbevétel közlésének hiányában a bírság összege legalább 100 000, de legfeljebb 10 000 000 Ft.
 
 ### Nyilvános meghallgatás
 
-39. § (1) A Hatóság a végfelhasználók jelentős részét, valamint a fogyasztói jogokat kiemelten érintő kérdésben, továbbá amennyiben feladatainak ellátásához vagy az elektronikus hírközlési piacon jelentkező fogyasztói érdekek érvényesüléséhez megítélése szerint egyébként szükséges és indokolt, vagy amennyiben elektronikus hírközlésre vonatkozó szabály ezt előírja, az elektronikus hírközlést érintő jogszabályok és azok érvényesítésére vonatkozó intézkedések, vagy a jogalkalmazói gyakorlat előkészítésével, kialakításával kapcsolatos szakmai álláspontok és vélemények, továbbá a fogyasztói érdekek megismerése céljából – e törvény hatálya alá tartozók, valamint szakmai önszabályozó szervezetek, érintett civil szervezetek és mások, különösen a fogyasztók és a fogyatékossággal élő végfelhasználók meghívása mellett – nyilvános meghallgatást tart.
+34. § (1) A hatóság, ha feladatainak ellátásához megítélése szerint az 1. § b)–d) pontjaiban meghatározottak, illetve a fogyasztói érdekvédelmi szervezetek közreműködése, szakmai álláspontjuk, illetve véleményük megismerése indokolt – de legalább félévente – nyilvános meghallgatást tart az elektronikus hírközlést érintő jogszabályok és azok végrehajtására vonatkozó intézkedések előkészítésével, továbbá az elektronikus hírközléssel kapcsolatos jogszabályok alkalmazásával kapcsolatos megfelelő jogalkalmazói gyakorlat kialakítása, illetve a jogalkalmazói gyakorlattal kapcsolatos szakmai álláspontok és vélemények megismerése céljából.
 
-(2) A Hatóság a nyilvános meghallgatásról, annak időpontjáról, helyéről és tárgyáról szóló információkat, valamint a nyilvános meghallgatás tárgyával kapcsolatos előkészítő dokumentumokat – ha e törvény eltérően nem rendelkezik – legalább harminc nappal a nyilvános meghallgatás időpontját megelőzően közzéteszi.
+(2) A hatóság a nyilvános meghallgatásról, annak időpontjáról, helyéről és tárgyáról szóló információkat legalább huszonkét munkanappal megelőzően közzéteszi.
 
-(3) Amennyiben a Hatóság rádióspektrum-használati jogosultság versenyeztetési eljárásban történő értékesítésével összefüggésben nyilvános meghallgatást tart, közzéteszi az engedélyek számának 11/A. § (2) bekezdése szerinti korlátozásának indokait is.
+(3) A hatóság a nyilvános meghallgatás tárgyával kapcsolatos előkészítő információkat – az üzleti titkok kivételével – legalább tíz munkanappal megelőzően közzéteszi.
 
-(4) A Hatóság a nyilvános meghallgatás időpontját megelőző nyolc nappal internetes honlapján közzéteszi a nyilvános meghallgatással kapcsolatban elektronikus dokumentumként részére eljuttatott anyagokat.
+35. § (1) Álláspontot, javaslatot és egyéb észrevételeket legkésőbb a nyilvános meghallgatáson szóban vagy írásban lehet előterjeszteni. A hatóság a nyilvános meghallgatás időpontját legkésőbb öt munkanappal megelőzően elektronikus dokumentumként részére eljuttatott anyagokat az internetes oldalán közzéteszi.
 
-(5) A nyilvános meghallgatásról a Hatóság összefoglalót vagy jegyzőkönyvet készít, amely tartalmazza az előterjesztett, illetve elhangzott észrevételeket és javaslatokat, kivéve az észrevételt vagy javaslatot tevő által üzleti titoknak minősített adatokat. Az összefoglalót a Hatóság a meghallgatás időpontját követő harminc napon belül közzéteszi.
+(2) A nyilvános meghallgatásról a hatóság összefoglalót készít, amely tartalmazza az előterjesztett, illetve elhangzott észrevételeket és javaslatokat, kivéve az észrevételt, illetve javaslatot tevő által üzleti titoknak minősített adatokat. Az összefoglalót a hatóság a meghallgatás időpontját követő huszonkét munkanapon belül közzéteszi, és külön jogszabály rendelkezései szerint megőrzi.
+
+(3) A nyilvános meghallgatások eljárásának részleteit a hatóság közzéteszi.
 
 ### Egyeztetés az érdekeltekkel jelentős ügyekben
 
-40. § (1) A Hatóság
+36. § (1) A hatóság
 
-- a) a jelentős piaci erővel rendelkező szolgáltatók azonosítása és az azonosításra irányuló eljárásban a jelentős piaci erővel rendelkező szolgáltatókra e törvény szerint kiszabott kötelezettség tárgyában hozott hatósági döntés, továbbá a XII. fejezet szerinti kötelezettségek módosítására vagy hatályon kívül helyezésére irányuló hatósági döntés,
-- b) a referenciaajánlatokkal kapcsolatos döntés,
-- c) a jelentős piaci erővel nem rendelkező szolgáltató részére a XI. fejezet szerinti kötelezettség előírására, módosítására vagy hatályon kívül helyezésére irányuló hatósági döntés,
-- d) az elektronikus hírközlési szolgáltatás nyújtásával összefüggő jogosultság, az azonosító használati engedély, az elektronikus hírközlési építmény létesítésére vonatkozó engedély, továbbá a rádióspektrum-használati jogosultság Hatóság általi módosítására, meghosszabbítására, megújítására irányuló döntés – kivéve, ha a tervezett módosítást jogszabály írja elő, vagy a módosítás kisebb mértékű és az érintett jogosult hozzájárult ahhoz –,
-- e) az elektronikus hírközlési szolgáltatás nyújtásával összefüggő jogosultság, az elektronikus hírközlési építmény létesítésére vonatkozó engedély, az azonosító használati engedély, vagy a rádióspektrum-használati jogosultság korlátozására, visszavonására irányuló döntés – kivéve, ha a döntést az érintett jogosult kérte vagy arra a 48–50. § alapján kerül sor –,
-- f) ha e törvény eltérően nem rendelkezik, a 66/B. § szerinti önkéntes kötelezettségvállalás jóváhagyására irányuló hatósági döntés
+- a) az érintett piacok meghatározásával kapcsolatos, a jelentős piaci erővel rendelkező szolgáltatók azonosítására, valamint a jelentős piaci erővel rendelkező, illetve más szolgáltatókra az e törvény szerint előírható kötelezettségek megállapítására és a referenciaajánlatok jóváhagyására vonatkozó,
+- b) a hatóság megítélése szerint az érdekeltekkel egyébként egyeztetést igénylő
 
-meghozatalát megelőzően, valamint, ha megítélése szerint egyébként szükséges, hatósági hatáskörébe tartozó ügyekben egyeztetést kezdeményez az érdekeltekkel (a továbbiakban: egyeztetés) a (2) bekezdésben foglalt kivétellel.
+határozatának meghozatala előtt legalább huszonkét munkanappal közzéteszi a határozat tervezetét, valamint az ezekkel kapcsolatos előkészítő anyagokat, kivéve az érdekeltek által üzleti titoknak minősített adatokat.
 
-(2) Az egyeztetés mellőzhető, amennyiben a Hatóság kivételesen sürgős esetben a verseny és a végfelhasználói érdekek védelmében az érintett piacok meghatározása, jelentős piaci erővel rendelkező szolgáltatók azonosítása, és kötelezettségek előírása, módosítása vagy hatályban tartása, hatályon kívül helyezése, továbbá a jelentős piaci erővel nem rendelkező szolgáltató részére a XI. fejezet szerinti kötelezettség előírása, módosítása vagy hatályon kívül helyezése tárgyában ideiglenes határozatot hoz.
+(2) Akinek jogát vagy jogos érdekét a határozat érintheti, a határozat tervezetének (1) bekezdés szerinti közzétételétől számított tizenöt munkanapon belül írásban megküldheti a hatóság részére a tervezett határozatra vonatkozó álláspontját, javaslatát, egyéb észrevételét (a továbbiakban: észrevétel).
 
-(3) Az egyeztetés keretében a Hatóság hatósági döntésének meghozatala előtt legalább negyven nappal közzéteszi
+(3) A hatóság az (1) bekezdés szerinti határozata meghozatala során a beérkezett észrevételeket lehetőség szerint figyelembe veszi. A határozat által érintett fél indokolt kérelmére vagy hivatalból a hatóság az érdekelteket szóban is meghallgathatja. A határozat indokolásában a hatóság megjelöli a figyelembe vett, illetve a figyelembe nem vett észrevételeket, valamint azok figyelmen kívül hagyásának indokát.
 
-- a) az (1) bekezdés a)–e) pontja szerinti esetekben a döntés tervezetét,
-- b) az (1) bekezdés f) pontja szerinti esetben az önkéntes kötelezettségvállalás jóváhagyása iránti kérelmet, valamint
-- c) az (1) bekezdésben meghatározott esetekben az egyeztetés lefolytatásához szükséges, az adott döntéshez kapcsolódó előkészítő anyagokat.
+### Fellebbezés, a határozat bírósági felülvizsgálata
 
-(4) Az (1) bekezdés a)–e) pontja szerinti döntéstervezet esetében a Hatóság által az ügy bonyolultságát figyelembe véve meghatározott, a hatósági döntés tervezetének közzétételétől számított legalább harminc napon belül – a rádióspektrum-használati jogosultság (1) bekezdés d) pontja szerinti meghosszabbítása esetében kilencven napon belül – bárki írásban megküldheti a Hatóság részére a tervezett döntésre vonatkozó álláspontját, javaslatát, egyéb észrevételét (e § alkalmazásában a továbbiakban együtt: észrevétel). Az észrevételek a Hatóságot nem kötik, a Hatóság számára tájékoztató jelleggel bírnak és a hatósági döntés meghozatala során a Hatóság ezeket nem köteles figyelembe venni.
+37. § (1) A Hivatal által a hatóság nevében hozott elsőfokú határozat ellen a Tanács elnökéhez lehet fellebbezni, ide nem értve a 30. § (5) és a 152. § (1) bekezdése szerinti döntést.
 
-(5) A Hatóság a 66/B. § (1) és (2) bekezdése szerinti önkéntes kötelezettségvállalás esetén a vállalt feltételekkel kapcsolatos lényeges információkat, dokumentumokat azok beérkezését követő 45 napon belül internetes honlapján közzéteszi.
+(2) Akinek jogát vagy jogos érdekét a Tanács elnöke által a jelen fejezet szerinti ügyben másodfokon hozott határozat sérti, keresettel kérheti a bíróságtól annak felülvizsgálatát.
 
-(6) Az önkéntes kötelezettségvállalással kapcsolatos lényeges információk, dokumentumok (5) bekezdés szerinti közzétételétől számított harminc napon belül bárki írásban megküldheti a Hatóság részére az önkéntes kötelezettségvállalással kapcsolatos észrevételét, így különösen a kötelezettségvállalás jogszabályi megfelelőségével kapcsolatos véleményét, vagy a kötelezettségvállalással kapcsolatos módosítási javaslatát. Az észrevételek a Hatóságot nem kötik, a Hatóság számára tájékoztató jelleggel bírnak és az észrevételek figyelembevételét vagy figyelmen kívül hagyását a Hatóság nem köteles indokolni.
+(3) A keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya. A végrehajtás felfüggesztéséről a bíróság kérelemre, illetve hivatalból végzéssel határoz.
 
-(7) Az (1) bekezdés b) pontjában meghatározott döntés esetében a beérkezett észrevételek figyelembevételét vagy figyelmen kívül hagyását a Hatóság nem köteles indokolni.
+### V. Fejezet — A TANÁCS ELJÁRÁSA
 
-(8) A (4) és (6) bekezdés szerint észrevételt benyújtó érdekelt az észrevétel benyújtásával nem válik az egyeztetés tárgyát képező hatósági döntéssel érintett hatósági eljárási jogviszony alanyává. Az érdekelt az észrevételei körében nem rendelkezik – a hatósági döntés észrevételek által érintett részeiben sem – jogorvoslati jogosultsággal.
+### Általános rendelkezések
 
-### Egyeztetés az érdekeltekkel frekvenciahasználati jogosultság megszerzését szolgáló versenyeztetési eljárás megindítását megelőzően
+38. § Amennyiben a hatóság nevében a Tanács jár el, eljárására a IV. fejezetben foglaltakat az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
-40/A. § (1) A Hatóság a frekvenciahasználati jogosultság megszerzését szolgáló versenyeztetési eljárás (árverés, pályázat) megindítását megelőzően a (2)–(7) bekezdés szerint egyeztet az érdekeltekkel.
+### Összetétel, határozatképesség
 
-(2) A Hatóság a kiírási dokumentáció tervezetét a frekvenciahasználati jogosultság megszerzését szolgáló versenyeztetési eljárás megindítását megelőzően legalább harminc nappal internetes honlapján közzéteszi.
+39. § (1) A Tanács – e törvény ellenkező rendelkezése hiányában – döntéseit teljes ülésben hozza. A teljes ülés 5 tag jelenléte esetén határozatképes. A Tanács a döntését egyszerű szótöbbséggel hozza, kivéve az érintett piacok meghatározásával kapcsolatos, a jelentős piaci erővel rendelkező szolgáltatók azonosítására, valamint a jelentős piaci erővel rendelkező, illetve más szolgáltatókra az e törvény szerint előírható kötelezettségek megállapítására vonatkozó határozat meghozatalát, amelynek elfogadásához a jelen lévő tagok legalább kétharmadának szavazatára van szükség. Szavazategyenlőség esetén a Tanács elnökének szavazata dönt.
 
-(3) A kiírási dokumentáció tervezetének (2) bekezdés szerinti közzétételétől számított harminc napon belül bárki írásban megküldheti a Hatóság részére a kiírási dokumentáció tervezetére vonatkozó álláspontját, javaslatát, egyéb észrevételét (e § alkalmazásában a továbbiakban: észrevétel). A beérkezett észrevételek a Hatóságot nem kötik, a Hatóság számára tájékoztató jelleggel bírnak és az észrevételek figyelembevételét vagy figyelmen kívül hagyását a Hatóság nem köteles indokolni.
+(2) Jogvitás ügyekben 3 tagú tanács jár el, amely a döntéseit egyszerű szótöbbséggel hozza. Ha a Tanács elnökének megítélése szerint az adott ügy az elbírálás szempontjából kisebb jelentőségű, úgy az ilyen kisebb jelentőségű ügyekben 1 tanácstag jár el (a továbbiakban: eljáró tanács).
 
-(4) A Hatóság a kiírási dokumentáció tervezetéről konzultációt tart. A konzultációra vonatkozó felhívást a kiírási dokumentáció tervezetének közzétételével egy időben teszi közzé a Hatóság. A felhívásban a Hatóság meghatározza a konzultáció helyét, idejét, a részvétel feltételeit, különösen a részvételi regisztráció módját, a résztvevők számát.
+(3) Az egyes ügyet előterjesztő tagot, illetve az eljáró tanács tagjait és elnökét a Tanács elnöke jelöli ki.
 
-(5) A konzultáció során a tájékoztatás elsősorban a megszerezhető frekvenciakészlet jellemzőire, használatára és a használat körülményeire, továbbá a frekvencia használatával végezhető tevékenységre, valamint az árverés és a pályázat eljárásrendjére, menetére, formájára, alapvető szabályaira vonatkozik.
+### Az eljárás megindítása
 
-(6) A konzultáción szóban feltett, illetve a konzultációra érkezett írásbeli kérdéseket a Hatóság a konzultáció időpontjától számított tíz napon belül írásban megválaszolja és – a 33. §-ban foglalt törvény által védett titok kivételével – internetes honlapján közzéteszi.
+40. § (1) Az eljárást – a jogviták elbírálása, illetve a jelentős piaci erővel rendelkező szolgáltató ilyen szolgáltatóként történő azonosítása, illetve megszüntetése iránti eljárás kivételével – az eljárásra okot adó körülményről való tudomásszerzéstől számított 2 hónapon belül, de legkésőbb a körülmény bekövetkezésétől számított 4 hónapon belül lehet kérelmezni, vagy kezdeményezni.
 
-(7) A (6) bekezdés alapján a Hatóság által közzétett válaszok tájékoztató jellegűek, a kiírási dokumentációval szemben sem joghatással, sem jogi kötőerővel nem rendelkeznek az egyedi hatósági ügy és a hatósági döntések tekintetében.
+(2) Az (1) bekezdés szerinti határidők elmulasztása jogvesztéssel jár. Ha a Tanács az arra jogosult által határidőn belül kérelmezett vagy kezdeményezett, folyamatban lévő eljárás során az addig vizsgáltakon túli jogsértésről szerez tudomást, a határozat meghozataláig akkor is eljárhat hivatalból, ha az újonnan ismertté vált esemény 4 hónapnál régebben, de egy éven belül következett be, feltéve, hogy azt az addig vizsgált szervezettel (személlyel) azonos szervezet (személy) követte el.
 
-(8) A Hatóság a (2) bekezdés szerinti közzétételt követően a kiírási dokumentáció tervezetének megküldésével értesíti a rádióspektrumpolitikai csoportot (a továbbiakban: RSPG) a tervezett versenyeztetési eljárásról és dönt az RSPG önkéntes szakértői eljárásának esetleges kezdeményezéséről.
+41. § (1) Amennyiben az eljárás kérelemre indul, a kérelemben meg kell jelölni
 
-### Rádióspektrum-koordináció
+- a) a kérelmező nevét, székhelyét (lakóhelyét);
+- b) az eljárás lehetséges érdekeltjeinek a kérelmező által ismert nevét és székhelyét (lakóhelyét);
+- c) az ügy tárgyát, az érintett elektronikus hírközlésre vonatkozó szabály pontos megjelölését;
+- d) azt, hogy mikor történt az eljárásra okot adó esemény, illetőleg az mikor jutott a kérelmező tudomására;
+- e) azt, hogy a kérelmező a Tanács milyen intézkedését kéri és ennek indokait.
 
-40/B. § (1) A Hatóság a rádióspektrum-használat koordinációjában együttműködik az érintett országokkal és az RSPG-vel.
+(2) A kérelemhez csatolni kell a kérelmező rendelkezésére álló, az ügy elbírálása szempontjából lényeges bizonyítékokat és egyéb dokumentumokat, valamint az igazgatási szolgáltatási díj megfizetésének igazolását.
 
-(2) A rádióspektrum határövezeti használatának szabályozását, engedélyezését oly módon látja el a Hatóság, hogy a szomszédos tagállamokban biztosítható legyen egy adott harmonizált rádióspektrum uniós jognak megfelelő használata.
+(3)–(4)
 
-(3) A Hatóság kérheti az RSPG-t, hogy készítsen javaslatot a határövezeti koordinációban vagy a határon átnyúló káros zavarásokkal kapcsolatban esetlegesen felmerülő problémák vagy viták megoldására.
+42. § (1) A Tanács eljárását hivatalból indítja meg, amennyiben a bejelentésnek helyt ad, eljárását a (2) bekezdés szerint kezdeményezik, valamint az eljárására okot adó tényt maga észleli.
 
-### Hatósági szerződés
+(2) A Tanács az eljárást köteles hivatalból megindítani, amennyiben
 
-41. § (1) A Hatóság, hatáskörébe tartozó ügyben az ügyféllel, az ügynek a közérdek és az ügyfél szempontjából előnyös rendezése érdekében – az Ákr.-ben foglalt szabályok alapján, az e törvényben meghatározott eltérésekkel és kiegészítésekkel – hatósági szerződést köthet.
+- a) a miniszter vagy a hatóság felügyeletét ellátó miniszter,
+- b) a versenyhatóság elnöke,
+- c) a fogyasztóvédelmi hatóság főigazgatója,
+- d) az adatvédelmi biztos,
+- e) az Országos Rádió és Televízió Testület elnöke,
+- f) az Európai Bizottság
 
-(2) Amennyiben a hatósági eljárás folyamatában az ügyfél, az ügy hatósági szerződéssel történő lezárását kezdeményezi, az ügyintézési határidőbe nem számít be a hatósági szerződéskötéshez szükséges időtartam.
+hatáskörével összefüggésben az elektronikus hírközlésre vonatkozó szabály megsértéséről, illetőleg jelentős piaci erővel rendelkező szolgáltatóként történő azonosítás, vagy jelentős piaci erővel rendelkező szolgáltatók számára megállapított kötelezettségek felülvizsgálatának szükségességéről szerez tudomást, és az eljárás megindítását kéri.
 
-(3) A hatósági szerződés megkötésének nem érvényességi feltétele a szerződéssel jogában, jogos érdekében érintett harmadik személyek hozzájárulása azon szerződési feltételek tekintetében, amelyek teljesítésére jogszabály alapján hatósági határozattal kötelezhető lenne a szerződő fél.
+(3) Ha a Tanács a jogosult által a 40. § (1) bekezdés szerinti határidőn belül megindított eljárás során az addig vizsgáltakon túli jogsértésről szerez tudomást, a határozat meghozatala előtt ezek vonatkozásában is eljárhat hivatalból. Az újonnan tudomásra jutott jogsértésre vonatkozó tényeket írásban vagy a tárgyaláson a felek és az érdekeltek tudomására kell hozni, és azokkal kapcsolatban is lehetőséget kell adni álláspontjuk kifejtésére.
 
-(4)
+43. § (1) A Tanács eljárásáért külön jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
-42. § (1) A Hatóság hatósági ellenőrzés keretében ellenőrzi a hatósági szerződésben foglaltak teljesítését. Amennyiben az ellenőrzés eredményeként megállapítja a hatósági szerződésben foglaltak ügyfél általi megsértését, az ellenőrzés során feltárt tények, a szerződésszegés súlya, a hatékony jogérvényesítés, a szerződéssel érintett társadalmi, gazdasági és jogviszonyok, valamint az e törvény szerinti alapelvek és célok, továbbá a szerződés alapját képező közérdek hatékony érvényesülése szempontjából mérlegeli, hogy a döntés megsértése tárgyában az Ákr. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
+(2) A Tanács az eljárás megindításáról a feleket és az ügyben érdekelteket a kérelem, a kezdeményező irat megküldése mellett haladéktalanul értesíti, és felhívja, hogy haladéktalanul, de legfeljebb 15 napon belül küldjék meg észrevételeiket, valamint a rendelkezésükre álló iratokat.
 
-(2)
+### Ügyintézési határidő
 
-(3)
+44. § (1) A Tanács – amennyiben e törvény eltérő szabályokat nem állapít meg – az e törvénynek megfelelő kérelem érkezésétől, illetőleg az eljárás megindításától számított harmincöt munkanapon belül köteles határozatot hozni.
 
-(4) A hatósági ellenőrzés eredményeként – az ügyfél szerződésszegése tárgyában – indított hatósági eljárásban a Hatóság e törvényben, valamint a hatósági szerződésben meghatározott jogkövetkezményeket alkalmazhatja.
+(2) Az érdekeltekkel történő egyeztetést igénylő eljárásokban az ügyintézési határidő ötvenöt munkanap.
 
-(5) A hatósági szerződés módosítása vonatkozásában a bíróság előtt indított per nem befolyásolja a hatósági szerződés végrehajtását, érvényesítését, és nem rendelkezik halasztó hatállyal a hatósági szerződés végrehajtása, érvényesítése tekintetében.
+(3) A határidő indokolt esetben egy alkalommal, legfeljebb tíz munkanappal meghosszabbítható; erről az eredeti határidő lejárta előtt a feleket értesíteni kell.
 
-### Közzététel
-
-43. § (1)
-
-(2) A Hatóság internetes honlapján – a személyes adatok és az eljárásban zártan kezelt adatok védelmére tekintettel – közzéteszi:
-
-- a) a 62–65. §-ok szerinti piacmeghatározás, jelentős piaci erővel rendelkező szolgáltatók azonosítása és kötelezettségek előírása tárgyában folytatott eljárásban hozott;
-- b) a jelentős piaci erejű szolgáltatókra e törvény szerint megállapított egyes kötelezettségek teljesítésével és megszegésével összefüggésben folytatott eljárásban, valamint az 57. § (1) bekezdés a) pontja szerinti tárgyban lefolyatott jogvitás eljárásban hozott;
-- c) az 54. § szerinti piacfelügyeleti eljárásban hozott;
-- d) jogszabály alapján kizárólag versenyeztetési eljárás (árverés, pályázat) eredményeként megszerezhető frekvenciahasználati jogosultság hasznosítása tárgyában lefolytatott pályázati vagy árverési eljárásban hozott
-
-véglegessé vált vagy azonnal végrehajthatóvá nyilvánított határozatát.
-
-(3)
-
-### A Hatóság döntése elleni jogorvoslat
-
-44. § (1) A Hivatal által hozott elsőfokú hatósági döntés ellen az ügyfél az Elnökhöz fellebbezhet, kivéve azon döntéseket, amelyek ellen törvény alapján nincs helye fellebbezésnek.
-
-(2) A Hivatal elsőfokú határozata ellen kizárólag azon – az eljárásról szabályszerűen értesített – ügyfél élhet fellebbezési kérelemmel, aki az elsőfokú eljárásban részt vett.
-
-(3) Az Elnök másodfokú határozata ellen jogszabálysértésre hivatkozással kizárólag az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében az eljárás egyéb résztvevője indíthat közigazgatási pert.
-
-(4) A 182. § (3) bekezdés 2. pontjában foglalt felhatalmazás alapján megalkotott NMHH rendelet szerinti frekvenciahasználati jogosultság megszerzését szolgáló árverési vagy pályázati eljárásban az árverési vagy pályázati nyilvántartásba vételt megtagadó véglegessé vált végzés a végzés közlésétől számított tizenöt napon belül támadható meg közigazgatási perben.
-
-(5) A (4) bekezdés szerinti keresetlevél benyújtása esetén a Hivatal az árverési vagy a pályázati eljárást a bíróság jogerős határozatáig felfüggeszti. A bíróság a keresetlevél bírósághoz érkezésétől számított negyvenöt napon belül határoz. A Hivatal eljárást felfüggesztő végzésével szemben önálló jogorvoslatnak helye nincs. Az árverési vagy a pályázati nyilvántartásba vételt megtagadó végzés elleni közigazgatási perben hozott ítélet ellen perújításnak nincs helye.
-
-(6) A bíróság (5) bekezdés szerinti határozatának felülvizsgálata iránti kérelem a határozat közlésétől számított tizenöt napon belül terjeszthető elő azzal, hogy a felülvizsgálati kérelem benyújtására rendelkezésre álló határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A felülvizsgálati kérelem befogadásáról vagy a befogadás megtagadásáról a Kúria a felterjesztéstől számított tizenöt napon belül határoz. A Kúria a felülvizsgálati kérelmet – amennyiben azt befogadja – a befogadásáról szóló végzés közlését követő harminc napon belül bírálja el és határozatát e határidőn belül írásba foglalja.
-
-(7) A Hivatal a 182. § (3) bekezdés 2. pontjában foglalt felhatalmazás alapján megalkotott NMHH rendelet szerinti frekvenciahasználati jogosultság megszerzését szolgáló árverési vagy pályázati eljárásban hozott, az árverés vagy a pályázat eredménytelenségét, vagy eredményesség esetén az árverés vagy a pályázat nyertesét vagy nyerteseit megállapító határozata a határozat közlésétől számított tizenöt napon belül támadható meg közigazgatási perben.
-
-(8) A bíróság a (7) bekezdés szerinti keresetlevelet, a keresetlevél bírósághoz történő – Hivatal általi – megküldésétől számított hatvan napon belül bírálja el és a határozatát a kihirdetés napjáig írásba foglalja. A bíróság döntésével szemben fellebbezésnek van helye, a fellebbezési kérelem benyújtására rendelkezésre álló határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. Perújításnak nincs helye.
-
-#### 45. §
-
-#### 46. §
-
-### Adatszolgáltatás
-
-47. § (1) A Hatóság az e törvény hatálya alá tartozó elektronikus hírközlési tevékenységet végzőt, elektronikus hírközlési szolgáltatót hatósági határozatával kötelezheti – abban az esetben is, ha az a minősített adatok kivételével törvény által védett titoknak minősül – valamennyi olyan adat szolgáltatására, amely
-
-- a) a Hatóság hatósági hatáskörébe utalt feladatainak ellátásához, továbbá
-- b) a Hatóság törvényben foglalt nem hatósági hatáskörébe utalt feladatainak ellátása, így különösen az Európai Unió szervei, valamint az elektronikus hírközlés nemzetközi szervezetei számára történő adatszolgáltatási kötelezettség teljesítése, a szabályozói, hírközléspolitikai, piacélénkítési döntések, elemzések megalapozása, továbbá az elektronikus hírközlési piac folyamatos elemzése és értékelése céljából szükséges.
-
-(1a) Amennyiben az (1) bekezdés a) vagy b) pontja alapján teljesített adatszolgáltatás nem elegendő a Hatóság azon feladatának ellátásához, amelynek érdekében az adatszolgáltatást elrendelte, a Hatóság a szükséges adatok benyújtására az elektronikus hírközlési iparágban vagy ahhoz közvetlenül kapcsolódó más ágazatban tevékenységet végző vállalkozást is kötelezhet.
-
-(1b) A Hatóság indokolással ellátott megkeresésben kérheti a más tagállami szabályozó hatósághoz benyújtott adatok átadását, amennyiben az érintett adat a Hatóság uniós jog szerinti feladatainak teljesítéséhez szükséges és az adattal más tagállami szabályozó hatóság rendelkezik. A Hatóság biztosítja, hogy az átadott adatok legalább olyan védelemben részesüljenek, mint az átadó szabályozó hatóságnál.
-
-(1c) A Hatóság az e törvényben meghatározott egyablakos információs pontot is megkeresheti adatszolgáltatás érdekében, amennyiben a szükséges adattal az egyablakos információs pont rendelkezik.
-
-(2) A Hatóság az e törvény hatálya alá tartozó elektronikus hírközlési tevékenységet végzőt, elektronikus hírközlési szolgáltatót hatósági határozatában időszakos vagy folyamatos adatszolgáltatásra is kötelezheti.
-
-(3) A Hatóság az e törvény hatálya alá tartozó elektronikus hírközlési tevékenységet végzőt, elektronikus hírközlési szolgáltatót hatósági határozatában a helyszínre vagy a hatósági nyilvántartáshoz telepített vagy folyamatba épített ellenőrző rendszerből történő táv-adatszolgáltatásra kötelezheti.
-
-(3a) A Hatóság ellenőrzi a törvény hatálya alá tartozó elektronikus hírközlési építmények építtetőinek, valamint az elektronikus hírközlő hálózatok üzemeltetőinek az egységes elektronikus közműnyilvántartásról szóló kormányrendeletben meghatározott adatszolgáltatási és a közműegyeztetés során nyilatkozattételi kötelezettségének az egységes elektronikus közműnyilvántartási rendszer felé történő teljesítését. Az adatszolgáltatás vagy a nyilatkozattétel nem vagy nem megfelelő teljesítése esetén a Hatóság kötelezi az elektronikus hírközlési építmények építtetőit, valamint az elektronikus hírközlő hálózatok üzemeltetőit az adatszolgáltatási vagy nyilatkozattételi kötelezettség teljesítésére. A Hatóság által kiszabott bírság összegére tekintettel az elektronikus hírközlési építmények építtetői, valamint az elektronikus hírközlő hálózatok üzemeltetői a szolgáltatásért megállapított díjat nem emelhetik.
-
-(3b) A Hatóság az (1a) bekezdés szerinti adatokat átadhatja az elektronikus hírközlési szolgáltatóknak az 52. § (2) bekezdés j) pontjában szereplő nyilvántartás vezetéséhez kapcsolódó adatszolgáltatás teljesítése céljából, amelynek keretében az elektronikus hírközlési szolgáltató az átadott adatoknak legalább olyan védelmét biztosítja, mint amilyenben a Hatóságnál, illetve az átadó vállalkozásnál részesültek.
-
-(4) A piacmeghatározás és piacelemzés érdekében az elektronikus hírközlési szolgáltatók adatszolgáltatásra kötelesek. A Hatóság a 62–66. § szerinti eljárásában a más eljárásában szolgáltatott adatokat is felhasználhatja.
-
-(4a) Az Elnök a 83/C. § szerinti eljárásban szolgáltatott adatokat, iratokat, dokumentumokat a 62–66. § és a 69. § szerinti eljárásában felhasználhatja. Ezen adatok tekintetében az elektronikus hírközlési szolgáltató csak annyiban kötelezhető adatszolgáltatásra, amennyiben az adatok a piacmeghatározáshoz és piacelemzéshez szükséges tartalommal, bontásban vagy rendszerezettség szerint nem állnak az Elnök rendelkezésére.
-
-(4b) Az Elnök a 83/C. § szerinti eljárásban szolgáltatott adatokat, iratokat, dokumentumokat feladatainak ellátása érdekében átadhatja a Hivatalnak, valamint a 22/A. § (2)–(3) bekezdése szerint a miniszternek. Ezen adatok tekintetében az elektronikus hírközlési szolgáltató csak annyiban kötelezhető adatszolgáltatásra, amennyiben az adatok a hatósági feladat ellátásához szükséges tartalommal, bontásban vagy rendszerezettség szerint nem állnak a Hivatal rendelkezésére.
-
-(5) Az (1)–(3) bekezdés szerinti határozat ellen fellebbezésnek nincs helye. E határozat elleni keresetlevelet a közlésétől számított tizenöt napon belül kell benyújtani. A keresetlevél benyújtásának halasztó hatálya van. A bíróság az ügyben harminc napon belül határoz.
-
-(6) Az elektronikus hírközlési tevékenységet végzőtől, az elektronikus hírközlési szolgáltatótól vagy a hírközlési ágazattal közvetlen kapcsolatban lévő ágazatban működő vállalkozástól nem kérhető olyan adat, amelyet a BEREC a Hatóság rendelkezésére bocsátott.
-
-(7) Az (1)–(3) bekezdésben foglalt határozatok ellen kizárólag az az ügyfél indíthat közigazgatási pert, aki a hatósági eljárásban részt vett.
-
-(8) Amennyiben az adatszolgáltatásra kötelezett az (1)–(3a) bekezdésben foglalt adatszolgáltatási kötelezettséget nem vagy nem megfelelően teljesíti, a Hatóság bírságot szab ki, amelynek mértéke – a jogsértő előző évben elért, 49. § (11) bekezdése szerinti nettó árbevételét és a jogsértés ismételtségét figyelembe véve – a jogsértő nettó árbevételének legfeljebb 0,05%-a, de legalább 100 000 Ft. Árbevételi adatok vagy az árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, legfeljebb százmillió forint. Ezen túlmenően az adatszolgáltatás nem vagy nem megfelelő teljesítése esetén a Hatóság ötvenezer forinttól hárommillió forintig terjedő bírsággal sújthatja a jogsértő szolgáltató vezető tisztségviselőjét is.
-
-(9) A (8) bekezdésben foglalt határozatok ellen e törvény szerinti jogorvoslatnak van helye.
-
-(10) A bírság összegének meghatározása során a Hatóság köteles mérlegelni és egymáshoz viszonyítani az ügy összes körülményeit, a jogsértő árbevételét, az adatszolgáltatás nem teljesítésével okozott hátrányok súlyát.
-
-(11) Az adatszolgáltatásra megfelelő teljesítési határidőt kell meghatározni.
-
-(12) Az (1)–(3) bekezdés szerinti adatszolgáltatás során az adatszolgáltató felelős az adat tartalmának megfelelőségéért, időszerűségéért, hitelességéért, pontosságáért, ellenőrizhetőségéért és helyességéért.
-
-(13) A Hatóság az (1) bekezdés b) pontja szerinti határozatában köteles az érintett adatok kezeléséről és felhasználásáról, továbbá az (1) bekezdés a) és b) pontja szerinti határozatában az adatkezelés elektronikus hírközlési szabályban vagy jogszabályban meghatározott céljáról az adatszolgáltatót tájékoztatni.
-
-(14) A Hatóság e törvényben foglalt, nem hatósági hatáskörébe utalt feladatainak ellátása érdekében kibocsátott (1) bekezdés b) pontja szerinti határozatában bekért adatok alapján az adatszolgáltatóval szemben nem folytathat le általános hatósági felügyeleti vagy piacfelügyeleti eljárást. Erről a Hatóság az (1) bekezdés b) pontja szerinti határozatában az adatszolgáltatót tájékoztatja.
-
-### Jogkövetkezmények
-
-48. § (1) A Hatóság az elektronikus hírközlésre vonatkozó szabály, valamint az általános szerződési feltételekben foglaltak megsértőjével (a továbbiakban: jogsértő) szemben jogkövetkezményt alkalmazhat a jelen alcímben meghatározottak szerint.
-
-(2) A jogkövetkezmény alkalmazása során a Hatóság az egyenlő elbánás elvét követve a fokozatosság és az arányosság elvére tekintettel jár el; a jogsértés súlyához, illetve ismétlődéséhez igazodóan alkalmazza a fokozatosság elvét, valamint az eset összes körülményéhez és a jogkövetkezmény által elérni kívánt célhoz képest arányos jogkövetkezményt alkalmaz, figyelembe véve, hogy a kiszabott bírság alkalmas legyen a jogsértést elkövető vagy más személy további jogsértéstől való visszatartására.
-
-49. § (1) A Hatóság a jogkövetkezményt, valamint annak mértékét – a jogsértés jellegétől függően – a jogsértés súlyára, a jogsértés ismételtségére, folyamatosságára, időtartamára, a jogsértő által a jogsértéssel elért vagyoni előnyre, valamint a jogsértéssel okozott érdeksérelemre, az érdeksérelmet szenvedett és veszélyeztetett személyek számára, illetve a jogsértés piacra gyakorolt hatására, továbbá az egyedi ügyben értékelhető egyéb szempontokra tekintettel állapítja meg.
-
-(2) Az (1) bekezdésben foglalt mérlegelési szempontok alkalmazása nélkül, amennyiben a jogsértés csekély súlyú és ismételtség nem állapítható meg, a Hatóság – a jogsértés tényének megállapítása és figyelmeztetés mellett – megfelelő határidő tűzésével felhívhatja a jogsértőt a jogsértő magatartás megszüntetésére, a jövőbeni jogsértésektől való tartózkodásra, valamint a jogszerű magatartás tanúsítására, és meghatározhatja annak feltételeit.
-
-(3) Amennyiben a (2) bekezdés szerinti felhívás az ügy összes körülményeire tekintettel nem alkalmazható vagy nem lenne a jogsértés megszüntetésére vonatkozó kötelezettség kikényszerítésére hatékony eszköz, a Hatóság – a felhívás mellőzésére vonatkozó indokolás nélkül – a jogsértő magatartás tanúsítását megtiltja, illetve az elektronikus hírközlésre vonatkozó szabályban foglaltak érvényesítése keretében kötelezettséget állapíthat meg, további jogkövetkezményeket alkalmazhat vagy hatósági szerződést köthet a jogsértővel.
-
-(4) A Hatóság bírságot szab ki a jogsértővel szemben, melynek a felső határa
-
-- a) elektronikus hírközlésre vonatkozó szabályban, a szolgáltató bejelentésében vagy az általános szerződési feltételekben foglaltaktól való jogszabályba ütköző eltérés, illetve bejelentési kötelezettség elmulasztása esetén a jogsértő árbevételének 0,25%-a;
-- b) a szabálytalanul forgalomba hozott, forgalmazott elektronikus hírközlő berendezés minden darabja után a nettó beszerzési érték ötszöröse;
-- c) szabálytalan vagy jogszerűtlen, engedély nélküli rádiófrekvencia-, illetve azonosítóhasználat esetén, valamint a hatósági intézkedés keretében lepecsételt eszközről, berendezésről a pecsét engedély nélküli eltávolítása vagy a pecsét megkerülésével a lepecsételt eszköz, berendezés újra üzembe helyezése esetén a jogsértő árbevételének 1%-a;
-- d) a jelentős piaci erővel rendelkező szolgáltató számára határozatban megállapított kötelezettség teljesítésének elmulasztása, illetve késedelmes vagy nem megfelelő teljesítése esetén a jogsértő árbevételének 0,5%-a;
-- e) egyéb, az a)–d) pontban nem szereplő piacszabályozási ügyekben, elektronikus hírközlésre vonatkozó szabály megsértése esetén a jogsértő árbevételének 0,1%-a;
-- f) a Nemzetbiztonsági Szakszolgálattal kapcsolatos – e törvényben meghatározott – kötelezettségek megsértése esetén a jogsértő szolgáltató árbevételének 0,5%-a;
-- g) árbevételi adatok vagy árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, de legfeljebb százmillió forint.
-
-(5) Ismételt jogsértés esetén a Hatóság ötvenezer forinttól hárommillió forintig terjedő bírsággal sújthatja a jogsértő szervezet vezető tisztségviselőjét a jogsértés súlyához, jellegéhez, és az egyedi ügy sajátosságaihoz mérten.
-
-(6) Súlyos vagy ismételt ügyfél általi szerződésszegés esetében a Hatóság jogosult – a hatósági szerződés eltérő rendelkezése hiányában – a hatósági szerződést azonnali hatállyal felmondani.
-
-(7) A Hatóság
-
-- a) kötelezheti a jogsértőt a határozatban foglalt közleménynek vagy a határozatnak a jogsértő internetes honlapjának nyitóoldalán vagy sajtótermékben történő közzétételére a határozatban meghatározott módon és ideig;
-- b) a jogsértő költségén a jogszabálysértést megállapító határozatát vagy a határozatban foglalt közleményt országos napilapban is nyilvánosságra hozhatja, különösen, ha ez súlyos érdeksérelem megelőzését, illetve csökkentését szolgálja;
-- c) a kötelezettségek súlyos és ismétlődő megsértése esetén 10–90 napig terjedő időtartamra felfüggesztheti az elektronikus hírközlési szolgáltatás nyújtására vonatkozó jogosultságot, illetve a rádióspektrum- és azonosítóhasználatra vonatkozó engedélyeket;
-- d) kiemelten súlyos és ismételt jogsértés esetén megtilthatja az elektronikus hírközlési tevékenység végzését, visszavonhatja a rádióspektrum- és azonosítóhasználatra vonatkozó engedélyeket;
-- e) elrendelheti a frekvenciahasználati jog kényszerértékesítését vagy haszonbérbe adását;
-- f) elrendelheti a piacelemzést követően kiszabott kötelezettségek tekintetében a versenyt jelentős mértékben hátráltató szolgáltatás vagy szolgáltatáscsomag nyújtásának beszüntetését vagy késleltetését;
-- g) a 2 hónapot meghaladó lejárt határidejű frekvencia-, vagy azonosítóhasználati díjtartozásról – a fizetési kötelezettséget, annak mértékét, a lejárt határidejű díjtartozás megfizetésére előírt 15 napos teljesítési póthatáridőt, továbbá az önkéntes teljesítés elmaradásának jogkövetkezményeire való figyelmeztetést is tartalmazó – fizetési felszólítást küld, amelynek eredménytelensége esetén a jogosított engedélyeit (a frekvenciakijelölést, rádióengedélyt, illetve az azonosítókijelölést) visszavonja;
-- h) azonosító felhasználásával elkövetett csalás, visszaélés esetén megtilthatja az azonosító további használatát, kötelezheti az érintett szolgáltatókat az azonosító elérésének megakadályozására, elrendelheti az azonosító eléréséért fizetendő díjak (így különösen a végződtetési díjak) visszatartását, és az előfizetőknek felszámított, vagy tőlük beszedett díj jóváírását, illetve visszatérítését;
-- i) elrendeli az állagmegóvásra, átalakításra, helyreállításra vonatkozó kötelezettség teljesítését, illetve az elektronikus hírközlési építmény bontását, ha annak állapota az állékonyságot, az életet, testi épséget és az egészséget, a köz- és vagyonbiztonságot veszélyezteti, vagy az elektronikus hírközlési építmény használatra alkalmatlan, vagy a használatával véglegesen felhagytak;
-- j) egyéb, törvényben meghatározott szankciót alkalmazhat.
-
-(8) A (4)–(7) bekezdésben meghatározott jogkövetkezmények együttesen is megállapíthatók.
-
-(9) A bírság ismételt jogsértés esetén ismételten is kiszabható.
-
-(10) Ismételt jogsértésnek minősül, ha a jogsértő a véglegessé vált hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és elektronikus hírközlésre vonatkozó szabály tekintetében, ugyanazon tárgykörben valósítja meg.
-
-(11) E § alkalmazása szempontjából árbevétel alatt az eljárás résztvevőjének hírközlési tevékenységgel kapcsolatos értékesítésből származó – a határozat meghozatalának időpontjához képest – előző üzleti évi nettó árbevételét kell érteni.
-
-(12) A Hatóság nem alkalmazhat jogkövetkezményt, ha a jogsértés elkövetésétől számított öt év eltelt.
-
-50. § Rádiófrekvencia jogszerűtlen, engedély nélküli használata, illetve egyedi engedélyhez nem kötött jogszerűtlen frekvenciahasználat esetében a Hatóság jogosult a jogsértő tevékenység folytatásához használt vagy jogosultság nélkül használt eszközt, illetve berendezést a 37/A.–37/C. §-okban foglaltak szerint lepecsételni, valamint lefoglalni vagy zár alá venni.
-
-50/A. § (1) A Hatóság bírságot szab ki az elektronikus hírközlési építmény építtetőjével szemben, amelynek mértéke
-
-- a) használatbavételi engedély iránti kérelem határidőre történő benyújtásának elmulasztása esetén 300 000 Ft;
-- b) engedélytől, bejelentéstől eltérően létesített vagy bontott elektronikus hírközlési építmény esetén
-  - ba) ha a jogsértéssel érintett építményrész nyomvonalának hossza a 3 km-t nem éri el, az 1 km-t meg nem haladó nyomvonalrész tekintetében 250 000 Ft, egyebekben a nyomvonal hosszának minden megkezdett km-e után 200 000 Ft;
-  - bb) ha a jogsértéssel érintett építményrész nyomvonalának hossza legalább 3 km, de a 10 km-t nem éri el, 600 000 Ft, és a 3 km-es nyomvonalhosszt meghaladó rész tekintetében minden megkezdett km után további 150 000 Ft;
-  - bc) ha a jogsértéssel érintett építményrész nyomvonalának hossza legalább 10 km, 1 650 000 Ft, és a 10 km-es nyomvonalhosszt meghaladó rész tekintetében minden megkezdett km után további 100 000 Ft;
-  - bd) antenna vagy antennatartó szerkezet esetén 750 000 Ft;
-- c) engedély, bejelentés nélkül, jogsértően létesített vagy bontott elektronikus hírközlési építmény esetén
-  - ca) ha a jogsértéssel érintett építményrész nyomvonalának hossza a 3 km-t nem éri el, az 1 km-t meg nem haladó nyomvonalrész tekintetében 500 000 Ft, egyebekben a nyomvonal hosszának minden megkezdett km-e után 450 000 Ft;
-  - cb) ha a jogsértéssel érintett építményrész nyomvonalának hossza legalább 3 km, de a 10 km-t nem éri el, 1 350 000 Ft, és a 3 km-es nyomvonalhosszt meghaladó rész tekintetében minden megkezdett km után további 300 000 Ft;
-  - cc) ha a jogsértéssel érintett építményrész nyomvonalának hossza legalább 10 km, 3 450 000 Ft, és a 10 km-es nyomvonalhosszt meghaladó rész tekintetében minden megkezdett km után további 200 000 Ft;
-  - cd) antenna vagy antennatartó szerkezet esetén 1 500 000 Ft;
-- d) jogutódlás bejelentését megelőzően folytatott építési vagy bontási tevékenység esetén 100 000 Ft;
-- e) az utólagos bejelentés határidőre történő benyújtásának elmulasztása esetén 100 000 Ft;
-- f) bontási kötelezettség nem teljesítése esetén 500 000 Ft.
-
-(2) Ismételt jogsértés esetén a bírság mértéke az (1) bekezdés szerint megállapított bírságösszeg másfélszerese.
-
-(3) Ismételt jogsértésnek minősül, ha a jogsértő a véglegessé vált hatósági határozatban megállapított jogsértő magatartást, ugyanazon a jogalapon és elektronikus hírközlésre vonatkozó szabály tekintetében, ugyanazon tárgykörben valósítja meg.
-
-(4) Nem szabható ki bírság, ha a szabálytalan állapot kezdete vagy a jogsértés elkövetése óta öt év eltelt.
-
-50/B. § (1) A Hatóság az elektronikus hírközlési építmény jogosulatlan, szakszerűtlen kivitelezése esetén az elektronikus hírközlési építmény építési folyamatának résztvevőjével szemben építésfelügyeleti bírságot szab ki.
-
-(2) Az (1) bekezdés szerinti bírság összege
-
-- 1. építési műszaki ellenőr közreműködésének jogszabályban előírt kötelezettség megszegésével történő mellőzése esetén 10 000 Ft/100 méter vagy folyóméter, de legalább 500 000 Ft, legfeljebb 2 500 000 Ft;
-- 2. nem megfelelő jogosultsággal rendelkező építési műszaki ellenőr foglalkoztatása esetén
-  - a) az építtetővel szemben 500 000 Ft, valamint
-  - b) az építési műszaki ellenőrrel szemben 200 000 Ft;
-- 3. nem megfelelő jogosultsággal rendelkező tervező foglalkoztatása és a foglalkoztatás elfogadása esetén, ha az építtető a foglalkoztató
-  - a) az építtetővel szemben 1 250 000 Ft, valamint
-  - b) a tervezővel szemben 200 000 Ft;
-- 4. nem megfelelő jogosultsággal rendelkező tervező foglalkoztatása és a foglalkoztatás elfogadása esetén, ha a kivitelező a foglalkoztató
-  - a) a kivitelezővel szemben 1 250 000 Ft, valamint
-  - b) a tervezővel szemben 200 000 Ft;
-- 5. tervezési vagy jogszabályban meghatározott kivitelezési dokumentáció nélküli kivitelezési tevékenység végzése esetén
-  - a) az építtetővel szemben 10 000 Ft/100 méter vagy folyóméter, de legalább 200 000 Ft, legfeljebb 2 000 000 Ft,
-  - b) a kivitelezővel szemben 20 000 Ft/100 méter vagy folyóméter, de legalább 200 000 Ft, legfeljebb 4 000 000 Ft, valamint
-  - c) a felelős műszaki vezetővel szemben 200 000 Ft;
-- 6. nem megfelelő jogosultsággal rendelkező kivitelezővel történő vállalkozási jogviszony létesítése esetén
-  - a) az építtetővel szemben 10 000 Ft/100 méter vagy folyóméter, de legalább 400 000 Ft, legfeljebb 1 000 000 Ft, valamint
-  - b) a kivitelezővel szemben 20 000 Ft/100 méter vagy folyóméter, de legalább 600 000 Ft, legfeljebb 3 000 000 Ft;
-- 7. felelős műszaki vezető közreműködésének jogszabályban előírt kötelezettség megszegésével történő mellőzésével végzett kivitelezési tevékenység esetén
-  - a) az építési műszaki ellenőrrel szemben 350 000 Ft, valamint
-  - b) a kivitelezővel szemben 20 000 Ft/100 méter vagy folyóméter, de legalább 600 000 Ft, legfeljebb 3 000 000 Ft;
-- 8. nem megfelelő jogosultsággal rendelkező felelős műszaki vezető foglalkoztatása és a foglalkoztatás elfogadása esetén
-  - a) a kivitelezővel szemben 20 000 Ft/100 méter vagy folyóméter, de legalább 600 000 Ft, legfeljebb 3 000 000 Ft, valamint
-  - b) a felelős műszaki vezetővel szemben 350 000 Ft;
-- 9. szakszerűtlen kivitelezés, így különösen a nem megfelelő teljesítményű építési termékek vagy szerkezetek felhasználása, beépítése esetén
-  - a) a kivitelezővel szemben 20 000 Ft/100 méter vagy folyóméter, de legalább 600 000 Ft, legfeljebb 3 000 000 Ft,
-  - b) az építési műszaki ellenőrrel szemben 350 000 Ft, valamint
-  - c) a felelős műszaki vezetővel szemben 350 000 Ft;
-- 10. tervdokumentációtól eltérő kivitelezés esetén, kivéve, ha az eltérést olyan, a tervezés során előre nem látott körülmény teszi szükségessé, amely a már megkezdett építési munkálatok záradékkal ellátott tervdokumentáció szerinti folytatását akadályozza, és az eltérés nem érinti a szakhatóságok előírásait, az érintett ingatlan, építmény tulajdonosainak, kezelőinek a hozzájárulásában meghatározott feltételeit vagy a közreműködők építményeinek keresztezésére készített dokumentáció tartalmát, és új közreműködők, új ingatlanok bevonásával nem jár
-  - a) a kivitelezővel szemben 20 000 Ft/100 méter vagy folyóméter, de legalább 600 000 Ft, legfeljebb 3 000 000 Ft,
-  - b) az építési műszaki ellenőrrel szemben 350 000 Ft, valamint
-  - c) a felelős műszaki vezetővel szemben 350 000 Ft;
-- 11. az építési főnapló készenlétbe helyezésének vagy megnyitásának a hiánya esetén
-  - a) az építtetővel szemben 1 000 000 Ft, valamint
-  - b) a kivitelezővel szemben 1 000 000 Ft;
-- 12. az állékonyságot, az életet vagy egészséget veszélyeztető állapot előidézése esetén
-  - a) a kivitelezővel szemben 50 000 Ft/100 méter vagy folyóméter, de legalább 500 000 Ft, legfeljebb 5 000 000 Ft,
-  - b) az építési műszaki ellenőrrel szemben 20 000 Ft/100 méter vagy folyóméter, de legalább 200 000 Ft, legfeljebb 800 000 Ft, valamint
-  - c) a felelős műszaki vezetővel szemben 30 000 Ft/100 méter vagy folyóméter, de legalább 400 000 Ft, legfeljebb 1 500 000 Ft;
-- 13. írásbeli kivitelezési szerződés hiánya esetén
-  - a) az építtetővel szemben 500 000 Ft, valamint
-  - b) a kivitelezővel szemben 500 000 Ft;
-- 14. a tervdokumentáció készítésére vonatkozó írásbeli tervezési szerződés hiánya esetén
-  - a) az építtetővel szemben 400 000 Ft, valamint
-  - b) a tervezővel szemben 120 000 Ft;
-- 15. az építési napló vezetésére vonatkozó követelmények megsértése esetén
-  - a) a kivitelezővel szemben 400 000 Ft,
-  - b) az építési műszaki ellenőrrel szemben 200 000 Ft, valamint
-  - c) a felelős műszaki vezetővel szemben 200 000 Ft;
-- 16. a tervdokumentáció készítésére vonatkozó írásbeli szerződés hiánya esetén, ha a szerződés megkötése a kivitelező feladata
-  - a) a kivitelezővel szemben 400 000 Ft, valamint
-  - b) a tervezővel szemben 120 000 Ft;
-- 17. az elektronikus hírközlési építmény karbantartásának elmulasztása esetén az üzemeltetővel vagy a tulajdonossal szemben 400 000 Ft;
-- 18. az elektronikus hírközlési építmény karbantartásának elmulasztása esetén, ha az az életet vagy egészséget veszélyeztető állapotot idéz elő, az üzemeltetővel vagy a tulajdonossal szemben 1 000 000 Ft;
-- 19. bontási kötelezettség határidőre történő elvégzésének elmulasztása esetén a bontásra kötelezettel szemben 20 000 Ft/100 méter vagy folyóméter, de legalább 400 000 Ft, legfeljebb 3 000 000 Ft;
-- 20. jogosultság nélküli vagy nem megfelelő jogosultsággal rendelkező tervező vállalkozással történő tervezői jogviszony létesítése esetén, ha az építtető a szerződő,
-  - a) az építtetővel szemben 400 000 Ft, valamint
-  - b) a tervező vállalkozással szemben 1 000 000 Ft;
-- 21. jogosultság nélküli vagy nem megfelelő jogosultsággal rendelkező tervező vállalkozással történő tervezői jogviszony létesítése esetén, ha a kivitelező a szerződő,
-  - a) a kivitelezővel szemben 400 000 Ft, valamint
-  - b) a tervező vállalkozással szemben 1 000 000 Ft.
-
-(3) A (2) bekezdés alkalmazásában az elektronikus hírközlési építmény mérete alapján meghatározott bírság összege a nyomvonal hossza alapján megkezdett 100 méterenként, az antenna és az antennatartó szerkezet magassága alapján megkezdett folyóméterenként számítandó.
-
-(4) A Hatóság az építésfelügyeleti hatósági ellenőrzés eredményeként az elektronikus hírközlési építmény építési folyamatának ugyanazon résztvevőjével szemben egy elektronikus hírközlési építményhez kapcsolódóan megállapított több jogsértés miatt
-
-- a) a legmagasabb bírságot eredményező jogsértő cselekményhez kapcsolódó építésfelügyeleti bírság ötven százalékkal megemelt összege vagy
-- b) a megállapított jogsértések összeadott bírságösszege közül azt szabja ki, amelynek a mértéke alacsonyabb.
-
-(5) Ismételt jogsértés esetén a bírság mértéke a (2) bekezdés szerint megállapított bírságösszeg másfélszerese.
-
-(6) Ismételt jogsértésnek minősül, ha a jogsértő a véglegessé vált hatósági határozatban megállapított jogsértő magatartást ugyanazon a jogalapon és jogszabályi rendelkezés tekintetében, ugyanazon tárgykörben valósítja meg.
-
-(7) Nem szabható ki bírság, ha a szabálytalan állapot kezdete vagy a jogsértés elkövetése óta öt év eltelt.
-
-50/C. § Az 50/A. és 50/B. §-ban foglalt bírság kiszabása során a 48–50. § rendelkezéseit nem kell alkalmazni.
-
-50/D. § A Hatóság a 48. § rendelkezéseire figyelemmel, a 49. §-ben foglalt egy vagy több jogkövetkezmény alkalmazását követően megtilthatja az elektronikus hírközlési tevékenység végzését, ha az elektronikus hírközlési szolgáltató a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény (a továbbiakban: Szjtv.) 36/G. § és 36/H. § szerinti kötelezettségének nem tesz eleget.
-
-### V. Fejezet — A HATÓSÁG EGYES ELJÁRÁSAI
-
-51. § A Hatóság egyes eljárásaiban az Ákr. és e törvény szabályait az egyes eljárástípusok keretében meghatározott eltérésekkel és kiegészítésekkel alkalmazza.
-
-### Nyilvántartások vezetése
-
-52. § (1) A Hatóság hatósági feladatainak ellátása során hatósági nyilvántartásokat vezet.
-
-(2) A Hatóság nyilvántartást vezet különösen:
-
-- a) az elektronikus hírközlési szolgáltatókról és az általuk nyújtott szolgáltatásokról;
-- b) az elektronikus hírközlési tevékenység elektronikus hírközlő hálózaton történő végzéséhez vagy a szolgáltatás nyújtásához szükséges interfész bejelentésekről;
-- c) az egyetemes hírközlési szolgáltatók ellenőrzéséhez szükséges adatokról;
-- d) az elektronikus hírközlési építmények több szolgáltató által megvalósuló közös eszközhasználatáról;
-- e) az Elnök rendeletében meghatározott egyedi engedélyekről;
-- f) a Hatósághoz benyújtott referenciaajánlatokról és hálózati szerződésekről;
-- g) a nem azonosítható hívószámokról;
-- h)
-- i) az engedéllyel rendelkező, valamint a bejelentés alapján nyilvántartásba vett elektronikus hírközlési építményekről,
-- j) a tervezett, a meglévő, a bontott elektronikus hírközlő hálózatokról, elektronikus hírközlési építményekről és kapcsolódó eszközökről.
-
-(3) A hatósági nyilvántartásokban szereplő közérdekű adatokat bárki megismerheti, kivéve, ha jogszabály vagy nemzetközi kötelezettségvállalás a hatósági nyilvántartásba való betekintést kifejezetten korlátozza.
-
-(4) A Hatóság jogszabályban hatáskörébe utalt feladatainak körében egyéb nyilvántartásokat vezet a főigazgató által meghatározott egyéb adatokról, az adat- és minősített adatvédelemre, valamint a közérdekű adatok nyilvánosságára vonatkozó jogszabályoknak megfelelően.
-
-(5) A hatósági nyilvántartásokban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
-
-(6) A (2) bekezdés j) pontja szerinti nyilvántartás vezetéséhez szükséges adatok szolgáltatásának teljesítéséről, így különösen a teljesítés ütemezéséről, a Hatóság és az adatszolgáltatásra kötelezett hatósági szerződésben is megállapodhat.
-
-### Általános hatósági felügyelet
-
-53. § (1) A Hatóság kérelemre vagy hivatalból – feladat- és hatáskörének keretében – jogosult hatósági ellenőrzés vagy hatósági eljárás keretében felügyelni az elektronikus hírközlésre vonatkozó szabály érvényesülését, betartását, valamint az általános szerződési feltételekben foglaltak teljesítését.
-
-(1a) Az elektronikus hírközlési szolgáltató által működtetett ügyfélszolgálattal, valamint az előfizetői panasz intézésével kapcsolatos ügyekben a Hatóság hatásköre kiterjed a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 17/A. §-ában, 17/B. § (1), (3)–(3b) bekezdésében, valamint 17/C. §-ában foglalt kötelezettségek betartásának felügyeletére is. A Hatóság e bekezdés alapján indított eljárásában az Fgytv. hivatkozott rendelkezései elektronikus hírközlésre vonatkozó szabálynak minősülnek.
-
-(2) Amennyiben a Hatóság, hatósági döntésének ellenőrzése eredményeként megállapítja a hatósági döntés megsértését, az ügy összes körülményei, az ellenőrzés során feltárt tények, valamint a jogsértés súlya és a hatékony jogérvényesítés szempontjai alapján mérlegeli, hogy a hatósági döntés megsértése tárgyában az Ákr. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
-
-(3) Az általános hatósági felügyelet keretében feltárt jogsértések esetében a Hatóság az e törvényben meghatározott jogkövetkezményeket alkalmazhatja.
-
-53/A. § (1) Az általános hatósági felügyeleti eljárást megelőzheti hatósági ellenőrzés.
-
-(2) A Hatóság az általános hatósági felügyeleti eljárás megindításáról szóló értesítéssel egyidejűleg nyilatkozattételre hívja fel az érintett szolgáltatót az eljárás tárgyával összefüggő álláspontja, észrevételei, bizonyítékai előterjesztése vonatkozásában.
-
-(3) A hatósági ellenőrzés eredményeként, hatósági hatásköre keretében az Elnök, illetve a Hivatal a figyelmeztetést tartalmazó döntésében felhívhatja az ügyfelet – a jogszabály vagy a hatósági határozat megsértésének pontos megjelölésével – a jogszabály vagy a hatósági határozat megsértésének megszüntetésére és szükség esetén az eredeti állapot helyreállítására.
-
-(4)
+(4) Az 52–55. § szerinti, piacmeghatározással, piacelemzéssel és a jelentős piaci erejű szolgáltatók számára előírható kötelezettségek előírásával kapcsolatos eljárásokra kizárólag az 57. § (1) bekezdése szerinti határidő vonatkozik.
 
 (5)
 
-### Piacfelügyelet
+### A Tanács döntései
 
-54. § (1) Az Elnök és a Hivatal – saját hatósági hatásköre keretében – az elektronikus hírközlési piac zavartalan, eredményes működésének, az elektronikus hírközlési tevékenységet végzők, az előfizetők és a felhasználók érdekei védelmének, a tisztességes és hatékony piaci verseny fenntartásának elősegítése, valamint e törvény egyéb céljai megvalósítása érdekében hatósági felügyeleti jogkörében piacfelügyeleti tevékenységet végez.
+45. § (1) A Tanács a döntésében
 
-(2) A Hatóság piacfelügyeleti tevékenysége során figyelemmel kíséri az elektronikus hírközlési piac működését, az arra vonatkozó elektronikus hírközlési szabályokban, valamint az előfizetői szerződésben foglaltak érvényesülését és arról – nem hatósági hatáskörben – elemzést, értékelést készít.
+- a) elutasítja az alaptalan kérelmet;
+- b) megállapítja a jogsértés megtörténtét;
+- c) kötelezi a jogsértés okozóját a jogszabálynak megfelelő magatartás tanúsítására;
+- d) meghatározza az érintett piacokat és a jelentős piaci erővel rendelkező szolgáltatót, valamint e törvény keretei között legalább egy kötelezettséget ír elő számára;
+- e) jelentős piaci erővel nem rendelkező szolgáltató számára e törvény keretei között kötelezettségeket írhat elő;
+- f) jóváhagyja a referenciaajánlatot, megállapítja annak tartalmát, módosítja a korábban elfogadott referenciaajánlat tartalmát, illetve előírhatja a referenciaajánlat módosítását;
+- g) jóváhagyja a jelentős piaci erővel rendelkező szolgáltató számára megállapított egyéb kötelezettség teljesítését;
+- h) e törvényben meghatározott keretek között a jogsértés súlyával arányos bírságot, illetve intézkedést alkalmaz;
+- i) a jogsértőt kötelezheti az igazgatási szolgáltatási díj és az eljárással kapcsolatban felmerült költségek viselésére;
+- j) jogszabályba ütközés megállapítása esetén kötelezettséget írhat elő;
+- k) elektronikus hírközlésre vonatkozó szabály alapján fennálló szerződéskötési kötelezettség fennállása esetén a feleknek a szerződés tartalmára vonatkozó megegyezése hiányában megállapíthatja a szerződés tartalmát;
+- l) ideiglenes intézkedést rendelhet el;
+- m) a 49. § (4)–(6) bekezdéseiben meghatározott esetekben hatáskör hiányában megszünteti az eljárást.
 
-(3)
+(2) A hálózati szolgáltatások ellenértékével kapcsolatos jogvita esetén a Tanács az (1) bekezdésben foglaltak mellett megtilthatja az ellenérték további alkalmazását, egyidejűleg megállapíthatja a jogszerű árat és kötelezheti a szolgáltatót a jogszerű ár alkalmazására.
 
-(4) A piacfelügyeleti eljárás hivatalból indul.
+(3) Ha a Tanács az eljárás során más jogszabály megsértésére utaló körülményt észlel, köteles azt jelezni a hatáskörrel rendelkező hatóságnak, így különösen a versenyhatóságnak, illetve a fogyasztóvédelmi hatóságnak.
 
-(5) A piacfelügyeleti eljárás céljaként és eredményeként az Elnök és a Hivatal saját eljárásában valamennyi ügyfélre vonatkozó, egységes, egybefoglalt hatósági döntésében
+(4) A Tanács az (1) és (2) bekezdésben szereplő jogkövetkezmények közül többet is alkalmazhat.
 
-- a) értékeli az eljárás tárgyát képező szolgáltatásokkal, tevékenységekkel összefüggő jogérvényesülést, amelynek keretében megállapítja a jogsértések megtörténtét, azokat egyenként és összességükben, egymásra tekintettel is értékeli, valamint meghatározza a jogkövetkezményeket,
-- b) meghatározza a jogsértések megelőzésével, az önkéntes jogérvényesülés előmozdításával, a piaci folyamatok zavartalan működésével kapcsolatos állami beavatkozás irányait, módszerét, fejlesztésének, esetleges átalakításának szempontjait, hírközlés-politikai következtetéseit.
+(5) A határozatot a feleknek és egyéb érdekelteknek kézbesíteni kell, és közzé kell tenni.
 
-(6) Az Elnök és a Hivatal piacfelügyeleti döntésében szükség szerint kötelezettségeket állapíthat meg és azok teljesítésének feltételeit is meghatározhatja.
+### A Tanács határozatának bírósági felülvizsgálata
 
-(7) A Hatóság évente – az Elnök és a Hivatal piacfelügyeleti tevékenységét egységesen tartalmazó – beszámolót készít a piacfelügyeleti tervében foglaltak teljesítéséről, piacfelügyeleti tevékenységének eredményéről, megállapításairól, valamint a piacfelügyeleti döntések alapján felmerülő jogszabály-módosítási javaslatokról. A beszámolót a Hatóság annak – Elnök általi – elfogadásától számított tizenöt napon belül internetes honlapján közzéteszi.
+46. § (1) A Tanács e fejezet szerinti ügyekben hozott határozata ellen nincs helye fellebbezésnek. Akinek jogát vagy jogos érdekét a Tanácsnak az ügy érdemében hozott határozata, illetve a 28. § (3) bekezdése szerinti, az eljárás megindítását megtagadó végzése sérti, keresettel kérheti a Fővárosi Bíróságtól annak felülvizsgálatát.
 
-(8) Az Elnök és Hivatal piacfelügyeleti terven kívül is folytathat hivatalból piacfelügyeleti tevékenységet.
+(2) A keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya.
 
-(9) Az Elnök és a Hivatal a piacfelügyeleti feladat- és hatáskörét e törvény, valamint külön jogszabály alapján gyakorolja.
+(3) A Tanács az ügy érdemében hozott határozatát akkor is közzéteheti, ha a határozat bírósági felülvizsgálatát kérték, de ezt a körülményt a közleménynek tartalmaznia kell.
 
-54/A. § (1) A piacfelügyeleti eljárást – ideértve a piacfelügyeleti terv alapján indítandó piacfelügyeleti eljárást is – megelőzheti piacfelügyeleti ellenőrzés.
+(4) A bíróságnak a Tanács határozatának felülvizsgálata iránti kereset alapján indult eljárására a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) XX. fejezetét az e törvény szerinti eltérésekkel kell alkalmazni.
 
-(2) A piacfelügyeleti ellenőrzés az e törvényben foglalt eltérésekkel és kiegészítésekkel az Ákr. szerinti hatósági ellenőrzésnek minősül.
+47. § (1) A keresetlevelet a határozat kézbesítésétől számított 15 napon belül kell benyújtani a Tanácshoz. A keresetlevélben nyilatkozni kell arról is, hogy a felperes kéri-e tárgyalás tartását.
 
-(3)
+(2) A Tanács a keresetlevelet – az ügy irataival és a Pp. 331. §-a szerinti nyilatkozatával együtt – a keresetlevél beérkezésétől számított 5 napon belül továbbítja a bíróságnak. A Tanácsnak a nyilatkozatban közölnie kell, kéri-e tárgyalás tartását.
 
-(4) A piacfelügyeleti ellenőrzés eredményeként, hatósági hatásköre keretében az Elnök, illetve Hivatal felhívhatja az ügyfelet – a jogszabály vagy a hatósági határozat megsértésének pontos megjelölésével – a jogszabály vagy a hatósági határozat megsértésének megszüntetésére és szükség esetén az eredeti állapot helyreállítására.
+48. § (1) Az ügy elintézéséből ki van zárva, és abban mint bíró nem vehet részt az a személy, aki a 26. § (1) bekezdése alapján az ügy elbírálásában sem járhatna el.
 
-(5) A (4) bekezdésben foglalt felhívás ellen önálló jogorvoslatnak helye nincs. A felhívást a felhívott ügyfél a felhívás nem teljesítése esetében indított hatósági eljárás eredményeként hozott érdemi hatósági határozat vagy az eljárást megszüntető végzés elleni jogorvoslatban támadhatja meg.
+(2) A bíróság a keresetlevelet 8 napon belül kézbesíti, és egyidejűleg
 
-### Felügyeleti terv
+- a) írásban közli a Tanács nyilatkozatát a felperessel;
+- b) határidő tűzésével felhívja nyilatkozattételre és tájékoztatja a beavatkozás lehetőségéről a jogorvoslati eljárásban szerepelt azon érdekelteket, akikre nézve a Tanács határozata rendelkezést tartalmaz.
 
-54/B. § A Hatóság az előző év tapasztalatainak figyelembevételével – az Elnök és a Hivatal felügyeleti tervét egységesen tartalmazó – a következő évben tervezett általános hatósági felügyeleti és piacfelügyeleti eljárásairól éves felügyeleti tervet készít a tárgyévet megelőző év december 1-jéig, és azt tizenöt napon belül az internetes honlapján közzéteszi. A felügyeleti tervet az Elnök hagyja jóvá. A felügyeleti terv az első félév tapasztalatai alapján, a félév végén felülvizsgálható, és az Elnök jóváhagyásával módosítható. A módosított felügyeleti tervet a Hatóság a módosítás jóváhagyásától számított tizenöt napon belül internetes oldalán közzéteszi.
+(3) Ha a tárgyalás tartását a felek nem kérték, a bíróság a pert tárgyaláson kívül bírálja el.
 
-### Egyedi engedélyek
+(4) A bírósági eljárást soron kívül kell lefolytatni.
 
-55. § (1) Rádióspektrum használati jogát – jogszabályban meghatározott esetekben – a Hatóság döntése (frekvenciakijelölés, valamint rádióengedély) alapján lehet megszerezni. Ezen eljárásokban sommás eljárásnak nincs helye. Jogszabályban meghatározott esetekben rádióengedély kizárólag versenyeztetési eljárás (árverés vagy pályázat) eredményeként megszerzett rádióspektrum-használati jogosultság alapján kérhető. Versenyeztetési eljárás esetén rádióspektrum-használati jogosultság tartalmáról jelen törvényben és a 182. § (3) bekezdés 2. pontjában foglalt felhatalmazás alapján megalkotott rádióspektrum-használati jogosultság megszerzését szolgáló versenyeztetési eljárás szabályairól szóló NMHH rendeletben, továbbá a kiírási dokumentációban meghatározott módon és eljárásrendben hatósági szerződés is köthető.
+(5) A bíróság a Tanács határozatát megváltoztathatja és megteheti a 45. § (1) bekezdésének a)–h) és a (2) bekezdés a)–b) pontja szerinti intézkedéseket.
 
-(1a) Amennyiben a kiírási dokumentáció szerint a Hatóság az árverési, illetve a pályázati eljárás nyertesével hatósági szerződést köt, a Hatóság az árverést, illetve a pályázati eljárást érdemben lezáró határozatában kizárólag a nyertes tárgyában dönt, és minden, az árverés, illetve a pályázati eljárás tárgyával, tartalmával, a frekvenciahasználati jogosultág megszerzésével, feltételeivel, valamint a frekvenciahasználati jogosultsággal összefüggő jogokkal és kötelezettségekkel kapcsolatos egyéb döntés, rendelkezés, feltétel a hatósági szerződés részét képezi. A hatósági szerződés kötelező tartalmi elemeit a kiírási dokumentáció tartalmazza.
+(6) A Tanács közzéteszi a bíróság határozatát, tiszteletben tartva az érdekelteknek a személyes adatok védelméhez fűződő jogait.
 
-(1b) Amennyiben a Hatóság a 182. § (3) bekezdés 2. pontjában foglalt felhatalmazás alapján megalkotott frekvenciahasználati jogosultság megszerzését szolgáló árverés vagy pályázati eljárás szabályairól szóló NMHH rendelet szerint egyes frekvenciablokkok vagy valamennyi frekvenciablokk tekintetében egybefoglalt határozatot hoz és a kiírási dokumentáció alapján hatósági szerződést köt az árverés vagy a pályázati eljárás nyertesével, a kiírási dokumentáció határozza meg, hogy a Hatóság az egybefoglalt határozat tárgyába tartozó frekvenciablokkonként egyedileg vagy az egybefoglalt határozat tárgyába tartozó valamennyi frekvenciablokk tekintetében egységesen köt hatósági szerződést.
+(7) A bíróság elektronikus hírközlési ügyben hozott határozat felülvizsgálata iránti kereset alapján indult eljárásában az ügyben első fokon eljáró bíróság határozata ellen a határozat közlésétől számított 8 napon belül lehet fellebbezni.
 
-(1c) A kiírási dokumentáció az alábbi alapvető feltételekkel rendezheti a hatósági szerződéskötést:
+### A Tanács eljárása jogvitában
 
-- a) Az árverési, illetve a pályázati eljárást érdemben lezáró, az árverési, illetve a pályázati eljárás nyertesét megállapító határozatnak a nyertessel történő közlését követő öt napon belül a Hatóság – a nyertessel való hatósági szerződéskötés érdekében – hivatalból hatósági eljárást indít. E hatósági eljárás ügyintézési határideje negyvenöt nap, amely nem hosszabbítható meg.
-- b) Amennyiben az a) pont szerinti hatósági eljárásban a nyertes nem vesz részt vagy a hatósági szerződés megkötését akadályozza – ideértve azt is, ha a nyertes résztvevő a jelentkezését visszavonja –, az a) pontban meghatározott ügyintézési határidőn túl a hatósági szerződés nem köthető meg, ez esetben a Hatóság az eljárás megindításától számított negyvenötödik napon az eljárást megszünteti. Az eljárásban igazolási kérelemnek nincs helye.
-- c) A hatósági szerződés az árverési, illetve a pályázati eljárást érdemben lezáró, az árverési, illetve a pályázati eljárás nyertesét megállapító határozat véglegessé válásáig nem köthető meg. A határozat véglegessé válásának időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás a) és b) pontban meghatározott ügyintézési határidejébe nem számít bele.
-- d) A hatósági szerződésben meg kell határozni a szerződésszegés jogkövetkezményeit.
+49. § (1) Az a szolgáltató, akinek egy másik szolgáltató elektronikus hírközlésre vonatkozó szabályban, vagy az alapján kötött szerződésben meghatározott, elektronikus hírközlést érintő jogát vagy jogos érdekét megsértette (a továbbiakban: jogvita), választása szerint
 
-(1d) Amennyiben a 44. § (6)–(7) bekezdése szerint az árverési, illetve a pályázati eljárást érdemben lezáró, az árverési, illetve a pályázati eljárás nyertesét megállapító határozatot közigazgatási perben megtámadták, a hatósági szerződés a bíróság jogerős döntéséig nem köthető meg. A közigazgatási per időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás (1c) bekezdés a) és b) pontjában meghatározott ügyintézési határidejébe nem számít bele.
+- a) bírósághoz,
+- b) a hatósághoz, vagy
+- c) a felek közötti választottbírósági szerződés hatálya alatt a Hírközlési Állandó Választottbírósághoz
 
-(2) A polgári célú frekvenciák használatára vonatkozó frekvenciakijelölést és rádióengedélyt, valamint versenyeztetési eljárás esetén frekvenciahasználati jogosultságot, továbbá a nem polgári célú frekvenciák használatára vonatkozó frekvenciakijelölést, illetve rádióengedélyt a Hivatal adja ki.
+fordulhat.
 
-(2a) A Hatóság a tényleges verseny kialakulása, előmozdítása és a verseny torzulásainak elkerülése érdekében a rádióspektrum-használati jogosultság versenyeztetési eljárás során (árverés vagy pályázat) történő megszerzése esetén a rádióspektrum-használati jogosultság megszerzésekor, vagy annak fennállása alatt – így különösen a rádióspektrum-használati jogosultság megújításakor, meghosszabbításakor, valamint a másodlagos spektrumkereskedelmi megállapodás jóváhagyása esetén – az Elnök rendeletében foglalt kötelezettségeket és feltételeket írhatja elő.
+(2) A bíróság, illetve a Hírközlési Állandó Választottbíróság haladéktalanul értesíti a hatóságot az (1) bekezdés szerinti jogvitás eljárás megindítása iránti kérelemről (keresetlevélről).
 
-(2b) A (2a) bekezdés szerinti kötelezettségek és feltételek meghatározásakor az Elnök a piaci versenyfeltételek objektív és előretekintő módon történő elemzése útján figyelembe veszi, hogy a megállapítandó kötelezettségek és feltételek indokoltak és arányosak-e a tényleges piaci verseny elérése vagy fenntartása érdekében, valamint, hogy ezen kötelezettségek és feltételek milyen hatást gyakorolnak a már megvalósított és a tervezett beruházásokra, így különösen a hálózat kiépítésére.
+(3) A Tanács kérelemre eljár az elektronikus hírközlésre vonatkozó szabály megsértésével kapcsolatos jogvitákban.
 
-(2c) A (2a) bekezdés szerinti kötelezettségek és feltételek tekintetében a 62–65. §-ban, a 70. §-ban, 71. §-ban és a 100. §-ban foglaltakat nem kell alkalmazni.
+(4) Amennyiben az (1) bekezdés a) pontja szerinti bírósági vagy a b) pontja szerinti hatósági eljárás folyamatban van, vagy érdemi határozattal lezárult, a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránt más alapeljárás – a (6) bekezdésben meghatározott eljárás kivételével – nem indítható.
 
-(2d) A Hatóság a (2a) bekezdés szerinti kötelezettségek és feltételek előírása esetén a 40/A. §-ban meghatározott módon és eljárásrendben az intézkedés tervezetét közzéteszi, azzal kapcsolatban egyeztet az érdekelt felekkel és észrevételezési lehetőséget biztosít, valamint értesíti az RSPG-t a tervezett intézkedésről és dönt az RSPG önkéntes szakértői eljárásának esetleges kezdeményezéséről.
+(5) Amennyiben ugyanazon felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránt egyidejűleg mind a bíróságnál, mind pedig a hatóságnál eljárást indítanak, a bíróság értesítése vagy bármely fél indokolt kérelme alapján a hatóság az eljárást hatáskör hiányában megszünteti.
 
-(2e) A meglévő rádióspektrum-használati jogosultságok módosítására a tényleges verseny előmozdítása és a verseny torzulásainak elkerülése céljából arányos módon a már megkötött hatósági szerződések keretein belül is sor kerülhet a hatósági szerződésben foglalt feltételek szerint vagy a felek közös megállapodása alapján, az átruházható rádióspektrum-használati jogokra alkalmazandó egyedi feltételek figyelembevételével.
+(6) Amennyiben a felek között választottbírósági szerződés van hatályban, vagy ha a Tanács eljárását kezdeményező kérelem hatósághoz való benyújtásától számított 15 napon belül ilyen szerződést kötnek, a hatóság eljárását – a felek kérelmére vagy hivatalból – megszünteti.
 
-(3) A rádióspektrum használati jogával kapcsolatos hatósági eljárásban a Hatóság előre meghatározott, nyílt, tárgyilagos, átlátható, hátrányos megkülönböztetéstől mentes szabályok alapján dönt az egyedi engedélyről. A rádióspektrum-használati joggal vagy jogosultsággal kapcsolatos hatósági eljárások részletes szabályait az Elnök rendeletben határozza meg.
+50. § (1) A kérelmező a kérelemben a 41. § (1)–(2) bekezdésén túl bizonyítási indítványt is előterjeszthet.
 
-(4) A rádióspektrum-használati joggal kapcsolatos hatósági eljárás határideje 42 nap. Versenyeztetési eljárás esetén a Hivatal a rádióengedélyre vonatkozó kérelemről legkésőbb a versenyeztetési eljárás megindításától számított nyolc hónapon belül dönt.
+(2) A kérelmet a Tanács annak beérkezését követően haladéktalanul megküldi a másik ügyfélnek, és legfeljebb tíz munkanapos határidő tűzésével felhívja, hogy észrevételeit és bizonyítékait terjessze elő, illetve a kérelmező részére közvetlenül küldje meg.
 
-(5) Az e törvényben szabályozott frekvenciagazdálkodási hatósági eljárás az ügy eldöntéséhez szükséges műszaki vizsgálatok és a rádióspektrummal kapcsolatos nemzetközi koordináció befejeződéséig felfüggeszthető.
+(3) A Tanács jogvitás ügyekben tárgyalást tart, melyen a felek és egyéb érdekeltek személyesen vagy képviselőik útján jelen lehetnek, nyilatkozatot és észrevételt tehetnek, a tárgyalás befejezéséig bizonyítékaikat előterjeszthetik.
 
-(6) A Hatóság a rádióspektrum hatékony és megfelelő használata, a káros zavarások elkerülése érdekében vagy közegészségügyi szempontok alapján a rádióspektrum-használatot korlátozhatja vagy megtagadhatja.
+(4) A tárgyalást az eljáró tanács elnöke tűzi ki. A tárgyalás nem nyilvános.
 
-(6a) Az Európai Unió Hivatalos Lapjában közzétett szabvány- vagy előírásjegyzékben kötelező szabványként feltüntetett szabvány alkalmazása kötelező.
+(5) Amennyiben a Tanács a bizonyítási indítványnak helyt ad, lefolytatja az annak megfelelő bizonyítást. Amennyiben a bizonyítást mellőzi, az érdemi határozatában a mellőzés okait külön köteles indokolni. A bizonyítás sikertelenségét a bizonyító fél terhére kell értékelni.
 
-(7) A közszolgálati médiaszolgáltatóra rótt közszolgáltatási kötelezettségek teljesítéséhez szükséges frekvenciahasználati jogosultság kiadása során a közszolgálati médiaszolgáltató kérelme elsőbbséget élvez.
+(6) A bizonyító fél indítványára a Tanács a felet adatok, információk (beleértve az üzleti titkot is) becsatolására kötelezheti. Amennyiben valamely adat vagy információ becsatolása bizonyítási indítványhoz kapcsolódik, és a kötelezett fél azt nem vagy nem megfelelően csatolja be, úgy a bizonyítás sikertelenségét a bizonyító fél terhére értékelni nem lehet. Ilyen esetben a Tanács a rendelkezésre álló bizonyítékok mérlegelésével dönt.
 
-(8) A Hatóságnak a frekvenciahasználatra irányuló kérelmet el kell utasítania, ha
+(7) Amennyiben az ügyfél az eljárást, így különösen a bizonyítást rosszhiszemű magatartásával akadályozza, a Tanács bírságot, illetve intézkedést alkalmazhat vele szemben.
 
-- a) a kérelem teljesítése műszaki vagy frekvenciagazdálkodási okból nem lehetséges;
-- b) a frekvencia használata a meglévő vagy tervezett frekvenciafelhasználásokban káros rádiófrekvenciás zavart okozna;
-- c) a kérelmezőnek lejárt határidejű frekvenciadíj-fizetési kötelezettsége van a Hatósággal szemben.
+(8) Amennyiben a jogvita körülményei, különösen a bizonyítás azt indokolja, a Tanács a tárgyalást elhalaszthatja. A folytatólagos tárgyalás határnapját a Tanács azonnal kitűzi és a jelen lévő felekkel kihirdetés útján közli.
 
-(9) A frekvenciahasználati jog jogosítottjának kérelmére a frekvenciahasználati jogot a hatóság visszavonja. A visszavonás egyéb feltételeit az Elnök rendeletben állapítja meg.
+(9) A Tanács a folyamatban lévő ügyben kérelemre vagy hivatalból a 68. § (5) bekezdésének a) pontjában meghatározott ideiglenes intézkedéseket tehet, ha megállapítható, hogy e törvény szabályainak, különösen alapelveinek megszegése miatt az ideiglenes intézkedés hiányában súlyos, másként el nem hárítható jog-, illetve érdeksérelem következik be, vagy ennek veszélye áll fenn, és az intézkedés miatti hátrány nem haladja meg az intézkedéssel elérhető előnyöket.
 
-(9a) A rádióspektrum használatát biztosító egyedi engedély időtartamának meghatározásakor – a 11/A. § (3) bekezdésében foglalt szempontok mellett – figyelemmel kell lenni arra, hogy a használat időtartama a rádióspektrum szakszerű és hatékony használatát, a piaci versenyt, a hatékony beruházást és az innovációt is ösztönözze.
+(10) A Tanács (9) bekezdésben foglalt határozata ellen az ügyfél a Fővárosi Bírósághoz halasztó hatályú jogorvoslati kérelemmel fordulhat az ideiglenes intézkedés megszüntetése érdekében. A bíróság az ügyben, szükség esetén a felek meghallgatása után, 15 napon belül nemperes eljárásban határoz. A Fővárosi Bíróság végzése ellen fellebbezésnek nincs helye.
 
-(9b) Versenyeztetési eljárás eredményeképpen megszerezhető jogosultság és jog időtartama 15 év, amely időszak egy alkalommal legfeljebb 5 évvel meghosszabbítható az Elnök rendeletében meghatározott feltételek esetében.
+(11) A referenciaajánlattal, illetve a kötelezett szolgáltató és a jogosult szolgáltató között referenciaajánlat alapján vagy azon kívül hozzáférés, illetve összekapcsolás tárgyában kötendő szerződéssel kapcsolatos jogvitákban a Tanács külön jogszabályban meghatározott eltérésekkel jár el.
 
-(9c) A versenyeztetési eljárás eredményeként megszerezhető rádióspektrum-használati jogosultság és jog az Elnök rendeletében meghatározott feltételek fennállása esetén megújítható.
+51. § (1) Amennyiben szolgáltatók között felmerült jogvitában a hatóság mellett más tagállami elektronikus hírközlési szabályozó hatóság is érintett, a jogvitában a hatóság eljárása során köteles kikérni a jogvitában érintett más tagállami elektronikus hírközlési szabályozó hatóságok véleményét.
 
-(10) Amennyiben a médiaszolgáltatási jogosultság műsorszolgáltatási vagy hatósági szerződésen alapul, a műsor szórására vonatkozó rádióengedély a szerződésben foglalt határozott időtartam leteltének napjával vagy a szerződés közös megegyezéssel történő megszüntetése esetében a megszüntetés napjával – külön anyagi jogi visszavonásra irányuló hatósági eljárás és hatósági döntés nélkül – megszűnik.
-
-(11) Amennyiben a médiaszolgáltatási jogosultság műsorszolgáltatási vagy hatósági szerződésen alapul, a műsor szórására vonatkozó rádióengedély a szerződés Médiatanács általi felmondása alapján történő megszűnése napjával – külön anyagi jogi visszavonásra irányuló hatósági eljárás és hatósági döntés nélkül – megszűnik.
-
-(12)
-
-(12a) Ha a felmondás tárgyában hozott hatósági határozat elleni közigazgatási perben a bíróság elrendelte a keresetlevél halasztó hatályát, a felmondás tárgyát képező médiaszolgáltatási és frekvenciahasználati jogosultság gyakorlása esetén a közigazgatási per jogerős lezárásáig is terheli a jogosultat a médiaszolgáltatási díj, illetve a frekvenciadíj megfizetésének kötelezettsége.
-
-(12b) Ha a közigazgatási per folyamatában a jogosult a frekvenciadíj tekintetében 3 hónapot meghaladó késedelembe esik, a Hivatal a 49. § (7) bekezdés g) pontjában foglalt – engedély visszavonása – jogkövetkezménnyel egyidejűleg alkalmazhatja a 37/A–37/C. §-ban meghatározott hatósági intézkedést.
-
-(13) A rádióengedély tartalmazza az engedély hatályát és a (10)–(12) bekezdések szerinti megszűnésének eseteit.
-
-(14) A műsorszórásra felosztott rádióspektrum-használati jogosultságával, egyedi engedélyével kapcsolatos részletes szabályokat a műsorterjesztés és a digitális átállás szabályairól szóló törvény, a rádióspektrum-használati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló Elnök által kiadott rendelet, valamint az Elnök a rádióspektrum-gazdálkodás egyes hatósági eljárásairól szóló rendeletben állapítja meg.
-
-55/A. § (1) Az azonosítókkal való gazdálkodás során biztosítani kell a szolgáltatások zavarmentes, egyértelmű elérhetőségét, a piaci szereplők esélyegyenlőségét, az azonosítók hatékony, a felhasználók és a szolgáltatók érdekeit érvényesítő felhasználását.
-
-(2) Az ANFT-ben meghatározott azonosítók használatát (kijelölési engedély) és egyes azonosítók előzetes lekötését (lekötési engedély) a Hatóság engedélyezi. Ezen eljárásokban sommás eljárásnak nincs helye.
-
-(3) A Hatóság határozatát a szolgáltatások megvalósításának erőforrás- és időszükségletére figyelemmel hozza meg.
-
-(4) Az azonosító használatot a Hatóság ellenőrzi. Az engedélyezési és ellenőrzési eljárás szabályait az Elnök rendeletben állapítja meg.
-
-55/B. § (1) Rádióspektrum-használati jogosultság versenyeztetési eljárásban történő megszerzése esetén, továbbá a versenyeztetéssel szerzett rádióspektrum-használati jogosultság megújítása, meghosszabbítása, valamint másodlagos kereskedelme esetében az Elnök rendeletében, illetve a Hatóság a versenyeztetési eljárás során a kiírási dokumentációban olyan feltételeket állapít meg, amelyek biztosítják a rádióspektrum optimális, eredményes és hatékony használatát.
-
-(2) A Hatóság a rádióspektrum-gazdálkodás körében kapcsolatot tart a rádióspektrum-gazdálkodásért felelős szervezetekkel, az RSPG-vel, továbbá részt vesz ezek működésében. A Hatóság látja el az Európai Unió rádióspektrum-politikája területén az RSPG-vel és a többi uniós tagállammal való koordinációs és a rádióspektrum-használati jogosultság megszerzésére irányuló versenyeztetési eljárással összefüggő értesítési feladatokat.
-
-(3) Amennyiben a Hatóság rádióspektrum-használati jogosultság versenyeztetési eljárásban történő értékesítésével összefüggésben a rádióspektrum használatára vonatkozó piaci kereslet, igény felmérése tárgyában nyilvános meghallgatást tart, a Hatóság a 39. § (2) bekezdése szerinti közzétételt követően az előkészítő anyagok megküldésével értesíti az RSPG-t a tervezett versenyeztetési eljárásról és dönt az RSPG önkéntes szakértői eljárásának esetleges kezdeményezéséről.
-
-(4) A Hatóság átmeneti időre, de legfeljebb három évre engedélyezheti az Elnök rendeletében meghatározott sávokban a rádióspektrum-használati jogosultsággal érintett rádióspektrum egészének vagy részének harmonizált használata helyett más, alternatív használati mód alkalmazását, ideértve a már meglévő felhasználását, ha
-
-- a) a rádióspektrum használatára vonatkozó piaci kereslet, igény előretekintő felmérése érdekében nyilvános meghallgatásra sor került és a rádióspektrum harmonizált használatára nem merült fel piaci igény és
-- b) a rádióspektrum alternatív felhasználása nem akadályozza más tagállamokban a harmonizált használatot.
-
-(5) A Hatóság rendszeresen, de legalább háromévente – a spektrum harmonizált használatára vonatkozó piaci igény esetén haladéktalanul – felülvizsgálja a spektrum alternatív felhasználásának lehetőségeit és dönt az engedély fenntartásáról vagy megszüntetéséről.
-
-(6) A Hatóság a (4) és (5) bekezdés szerinti indokolt döntéséről tájékoztatja az Európai Bizottságot és a többi tagállamot.
-
-### Zavarelhárítás
-
-56. § (1) Elektronikus hírközlő berendezést, nagyfrekvenciás villamos berendezést, valamint minden olyan berendezést amely működése közben nagyfrekvenciás jelet vagy mellékhatást kelt, továbbá azokat a villamos vagy elektronikus alkatrészeket tartalmazó berendezéseket (a továbbiakban együtt: villamos vagy elektronikus berendezés), amelyek alkalmasak arra, hogy elektromágneses zavart okozzanak, vagy amelyek működésére ilyen zavar hatással lehet, úgy kell üzemben tartani, hogy az más, zavarérzékenység szempontjából egyébként megfelelő villamos vagy elektronikus berendezés működésében zavart ne okozzon.
-
-(1a) Az olyan berendezés, amelynek funkciója valamely rádióberendezés üzemszerű működésének módosítása, akadályozása vagy ellehetetlenítése, kizárólag az Elnök rendeletében meghatározott feltételek esetén és módon üzemeltethető a nem polgári célú használók nem polgári célú használata keretében.
-
-(2) A hírközlő berendezés működésében zavart okozó berendezés üzemben tartója köteles a zavart megelőzni, a keletkezett zavart megszüntetni.
-
-(3) A Hatóság köteles a zavart okozó villamos vagy elektronikus berendezés üzemben tartóját a zavar megszüntetésére felszólítani. Ha az üzemben tartó a zavart a műszakilag elengedhetetlenül szükséges időtartamon belül a felszólítás ellenére sem szünteti meg, a Hatóság határozattal elrendeli a berendezés zavarszűrését, áthelyezését vagy üzemidejének korlátozását, illetőleg a zavar más módon való megszüntetését.
-
-(4) A (3) bekezdésben foglalt határozat meghozatalának akkor is helye van, ha a zavart okozó villamos vagy elektronikus berendezés zavarkibocsátás szempontjából megfelelő és használata jogszerű, kivéve, ha a zavart költség nélkül vagy csekély költséggel – a zavarérzékenység szempontjából megfelelő zavart villamos vagy elektronikus berendezés áthelyezésével vagy tartozékainak megváltoztatásával – meg lehet szüntetni.
-
-(5) A zavar elhárításának költségei, ha a zavart okozó villamos vagy elektronikus berendezés nem megfelelő, vagy használata jogszerűtlen volt, az üzemben tartót, ha a zavart villamos vagy elektronikus berendezés zavarérzékenység szempontjából nem megfelelő, akkor annak üzemben tartóját terhelik.
-
-### Eljárás jogvitában
-
-57. § (1) Az a szolgáltató, kapcsolódó eszközök üzemeltetője, hálózatüzemeltető, közszférabeli szervezet vagy egyéb vállalkozás, amelynek egy másik szolgáltató, kapcsolódó eszközök üzemeltetője, hálózatüzemeltető, közszférabeli szervezet vagy egyéb vállalkozás
-
-- a) elektronikus hírközlésre vonatkozó szabályban, az ez alapján kötött szerződésben,
-- b) részben vagy egészben európai uniós forrásból megvalósuló hálózatfejlesztési pályázatban a pályázat nyertese tekintetében előírt nagykereskedelmi nyílt hozzáférési kötelezettségekre vonatkozó követelményekben, vagy ezen követelmények alapján megkötött szerződésben, továbbá e törvény szerinti hálózati szerződésben
-
-meghatározott, elektronikus hírközlést érintő jogát vagy jogos érdekét megsértette, a Hatósághoz fordulhat.
-
-(2) A Hatóság az (1) bekezdésben meghatározott ügyekben tanácsban jár el.
-
-(3) A Hatóság eljáró tanácsának (a továbbiakban: eljáró tanács) elnöke és két tagja van.
-
-(4) Az eljáró tanács elnöke az Elnök, vagy – a Szervezeti és Működési Szabályzatban szabályozott módon – a Hatóság Elnök által kijelölt vezető beosztású alkalmazottja.
-
-(5) Az eljáró tanács két tagját az Elnök jelöli ki a Hatóság vezető beosztású alkalmazottai közül.
-
-(6) Az eljáró tanács eljárására vonatkozó – e törvényben nem szabályozott – rendelkezéseket a Szervezeti és Működési Szabályzat tartalmazza.
-
-58. § (1) A jogvitás eljárást kezdeményező kérelemnek az Ákr. kérelemre vonatkozó rendelkezéseiben foglaltakon túlmenően tartalmaznia kell az 57. § (1) bekezdésben meghatározottak alapjául szolgáló tényeket, körülményeket, a kérelmező jogsérelmének alapját képező konkrét jogszabályi, és szerződésbeli rendelkezéseket, valamint jogának vagy jogos érdekének igazolását.
-
-(2) Amennyiben a kérelmező a szerződés létrehozását, tartalmának megállapítását kéri az eljáró tanácstól, köteles szövegszerűen – egyértelműen és világosan – megjelölni a létrehozni, megállapítani kért szerződéses tartalmat.
-
-(3) A kérelemben bizonyítási indítvány is előterjeszthető, valamint abban nyilatkozni kell arról, hogy a kérelmező kéri-e tárgyalás tartását.
-
-(4) Amennyiben a jogvitás eljárás megindítása iránti kérelem nem vagy nem megfelelően tartalmazza az e törvényben, valamint – rendkívül nagy kapacitású hálózatok kiépítésével összefüggő jogvitás eljárás esetében – az Elnök rendeletében foglaltakat, az eljáró tanács legfeljebb nyolc napos teljesítési határidővel hiánypótlásra hívja fel a kérelmezőt. Amennyiben a hiánypótlást – határidőben – a kérelmező nem vagy nem megfelelően teljesíti, az eljáró tanács a kérelmet tizenöt napon belül visszautasítja.
-
-(5) Amennyiben a jogvitás eljárás megindítása iránti kérelem nem vagy nem megfelelően tartalmazza a (2) bekezdésben foglaltakat, abban az esetben az eljáró tanács öt napos teljesítési határidővel hiánypótlásra hívja fel a kérelmezőt. Amennyiben a hiánypótlást – határidőben – a kérelmező nem vagy nem megfelelően teljesíti, az eljáró tanács a szerződés létrehozása, illetve tartalmának megállapítása körében mellőzi a döntéshozatalt és az ügy tárgya, illetve a jogsértés tekintetében a rendelkezésre álló adatok alapján dönt, vagy megszünteti az eljárást.
-
-(5a) Amennyiben az eljáró tanács – a tényállás tisztázása során felmerült tények, körülmények alapján – a létrehozni, megállapítani kért szerződéses tartalom módosítására hívja fel a kérelmezőt, és az ügyfél azt nem vagy nem megfelelően teljesíti vagy egyébként olyan magatartást tanúsít, amely az eljárás elhúzódását eredményezheti, az eljáró tanács a szerződés létrehozása, tartalmának megállapítása körében mellőzi a döntéshozatalt és az ügy tárgya, illetve a jogsértés tekintetében a rendelkezésre álló adatok alapján dönt vagy megszünteti az eljárást.
-
-(6) A kérelmet az eljáró tanács – amennyiben nem utasítja vissza – megküldi az ellenérdekű ügyfélnek, és legfeljebb tíznapos határidő tűzésével felhívja nyilatkozatának és bizonyítékainak előterjesztésére, valamint azok ellenérdekű ügyfél részére történő egyidejű megküldésére.
-
-(7) Amennyiben az eljáró tanács az eljárás során tárgyalást tart, azon megkísérli egyezség létrehozását a felek között.
-
-(8) A rendkívül nagy kapacitású hálózatok kiépítésével összefüggő jogvitás eljárás során az egyezség létrehozása érdekében az eljáró tanács tárgyalást tart. Ha a tárgyaláson a felek bármelyike a szabályszerű idézés ellenére nem jelenik meg vagy meghallgatása előtt az eljárás helyéről engedély nélkül eltávozik, és távolmaradását előzetesen alapos okkal nem menti ki vagy nyolc napon belül megfelelően nem igazolja, továbbá ha az idézésre meghallgatásra nem alkalmas állapotban jelenik meg, és ezt a körülményt nem menti ki, vagy egyébként olyan magatartást tanúsít, amely az eljárás elhúzódását, a valós tényállás feltárásának meghiúsítását eredményezi az eljáró tanács az ügyfelet eljárási bírsággal sújtja. Az eljárási bírság összege vonatkozásában a 38. § (2), (3) és (5) bekezdése alkalmazandó, azzal az eltéréssel, hogy nettó árbevétel alatt az eljárás résztvevőjének számviteli törvény szerinti nettó árbevételét kell érteni.
-
-59. § (1) Az 58. § (7) bekezdése szerinti tárgyaláson a felek és egyéb érdekeltek személyesen vagy képviselőik útján jelen lehetnek, nyilatkozatot és észrevételt tehetnek, a tárgyalás befejezéséig bizonyítékaikat előterjeszthetik. A tárgyalás nem nyilvános.
-
-(2) A tárgyalásra szabályszerűen idézettek, értesítettek távolmaradása a tárgyalás megtartását és az ügy elintézését nem gátolja. Távolmaradását azonban az idézett, értesített alapos okkal előzetesen kimentheti, ez esetben az eljáró tanács a tárgyalást elhalaszthatja.
-
-(3) A tárgyalás elmulasztása miatt igazolásnak nincs helye. Az eljáró tanács azonban, ha a meg nem jelentek valamelyikének meghallgatását szükségesnek tartja, erre tekintettel – új tárgyalási határnap kitűzésével – a tárgyalást elhalaszthatja.
-
-(4) E törvény eltérő rendelkezése hiányában a kérelemben foglaltak tény- és jogalapját a kérelmező köteles hitelt érdemlően bizonyítani.
-
-(5) Az eljáró tanács az ellenérdekű ügyfelet adatszolgáltatásra, nyilatkozattételre kötelezheti.
-
-(5a) Amennyiben az ellenérdekű ügyfél nem vagy nem megfelelően teljesíti az eljáró tanács nyilatkozattételre vagy adatszolgáltatásra történő kötelezését vagy egyébként olyan magatartást tanúsít, amely az eljárás elhúzódását, a valós tényállás feltárásának meghiúsítását eredményezheti, az eljáró tanács az ellenérdekű ügyfelet ismételten nyilatkozattételre vagy adatszolgáltatásra kötelezi és egyidejűleg eljárási bírsággal sújtja. Ha az ellenérdekű ügyfél az ismételt nyilatkozattételi vagy adatszolgáltatási kötelezettséget nem vagy nem megfelelően teljesíti, vagy egyébként olyan magatartást tanúsít, amely az eljárás elhúzódását, a valós tényállás feltárásának meghiúsítását eredményezheti, az eljáró tanács a rendelkezésre álló adatok alapján dönthet. Az eljárási bírság összege vonatkozásában a 38. § (2), (3) és (5) bekezdése alkalmazandó, azzal az eltéréssel, hogy nettó árbevétel alatt az eljárás résztvevőjének számviteli törvény szerinti nettó árbevételét kell érteni.
-
-(5b) Amennyiben az eljáró tanács nyilatkozattételre vagy adatszolgáltatásra kötelezi a kérelmező ügyfelet, és az ügyfél azt nem vagy nem megfelelően teljesíti, vagy egyébként olyan magatartást tanúsít, amely az eljárás elhúzódását, a valós tényállás feltárásának meghiúsítását eredményezheti, az eljáró tanács az ismételt nyilatkozattételre vagy adatszolgáltatásra kötelezéssel egyidejűleg az ügyfelet eljárási bírsággal sújthatja. Ha az ügyfél az ismételt nyilatkozattételre vagy adatszolgáltatásra kötelezést nem vagy nem megfelelően teljesíti, vagy egyébként olyan magatartást tanúsít, amely az eljárás elhúzódását, a valós tényállás feltárásának meghiúsítását eredményezheti, az eljáró tanács a rendelkezésre álló adatok alapján dönt vagy az eljárást megszünteti. Az eljárási bírság összege vonatkozásában a 38. § (2)–(3) és (5) bekezdése alkalmazandó, azzal az eltéréssel, hogy nettó árbevétel alatt az eljárás résztvevőjének számviteli törvény szerinti nettó árbevételét kell érteni.
-
-(6) Az eljáró tanács a folyamatban lévő ügyben kérelemre vagy hivatalból ideiglenes intézkedéseket tehet, amennyiben megállapítható, hogy e törvény szabályainak, különösen alapelveinek megszegése miatt az ideiglenes intézkedés hiányában súlyos, másként el nem hárítható jog-, illetve érdeksérelem következik be, vagy ennek veszélye áll fenn, és az intézkedés miatti hátrány nem haladja meg az intézkedéssel elérhető előnyöket.
-
-(7) Ideiglenes intézkedésként az eljáró tanács megtilthatja a tevékenység gyakorlását, meghatározhatja a tevékenység gyakorlásának feltételeit, továbbá kötelezettséget határozhat meg.
-
-(8) Az ideiglenes intézkedés hatálya az eljárás jogerős lezárásáig tart. Az ideiglenes intézkedést az eljáró tanács az eljárás során kérelemre vagy hivatalból módosíthatja, megszüntetheti.
-
-(9) Az ideiglenes intézkedést elrendelő végzés közigazgatási perben támadható, a bíróság egyszerűsített perben tizenöt napon belül dönt.
-
-(10) Az ideiglenes intézkedés elutasítása tárgyában az eljáró tanács nem hoz külön végzést, az elutasítás indokait a jogvitás eljárást lezáró érdemi döntésben határozza meg.
-
-60. § (1) Az eljáró tanács jogvitás eljárásban jogosult az elektronikus hírközlésre vonatkozó szabály alapján fennálló szerződéskötési kötelezettség esetén a feleknek a szerződés tartalmára vonatkozó megegyezése hiányában – 58. § (2) bekezdésben foglaltaknak megfelelő kérelem esetén – a szerződés létrehozására, módosítására, és a szerződés tartalmának megállapítására.
-
-(2) Amennyiben az e törvény szerint az elektronikus hírközlési szolgáltatás ellenértékére kiterjedően is indítható jogvitás eljárás, az eljáró tanács megtilthatja az ellenérték további alkalmazását, egyidejűleg e törvény keretei között megállapíthatja a jogszerű árat és kötelezheti az elektronikus hírközlési szolgáltatót a jogszerű ár alkalmazására.
-
-(3) A referenciaajánlattal, illetve a kötelezett szolgáltató és a jogosult szolgáltató között referenciaajánlat alapján vagy azon kívül hozzáférés, illetve összekapcsolás tárgyában kötendő szerződéssel kapcsolatos jogvitákban az eljáró tanács külön jogszabályban meghatározott eltérésekkel jár el.
-
-61. § (1) Amennyiben az 57. § (1) bekezdés a) pontja szerinti jogvita Magyarországon és más tagállamban letelepedett szolgáltatók vagy vállalkozások között keletkezik (a továbbiakban: határon átnyúló jogvita), bármely érintett fél a Hatóságnál jogvitás eljárást kezdeményezhet. A jogvitás eljárásra az 57–60. § szabályait az e §-ban foglalt eltérésekkel kell alkalmazni.
-
-(2) Amennyiben a határon átnyúló jogvita a tagállamok közötti kereskedelemre hatással van, a Hatóság a jogvitás ügy érdemi tartalmával kapcsolatos véleményének megismerése céljából tájékoztatja a BEREC-et a jogvita megindulásáról. A Hatóság a BEREC véleménye megérkezéséig a jogvitás eljárást felfüggeszti.
-
-(3) A jogvita rendezése érdekében a Hatóság köteles együttműködni a Hatóságot megkereső más tagállami elektronikus hírközlési szabályozó hatósággal.
-
-(4) A (2) bekezdés szerinti esetben a Hatóság a BEREC véleményének Hatósághoz való beérkezésétől számított legfeljebb egy hónapon belül köteles a jogvitás eljárást lezáró döntését meghozni.
-
-(5) A Hatóság a verseny és a végfelhasználók érdekeinek védelme érdekében sürgős és kivételes esetben az 59. § (6)–(8) bekezdése szerinti ideiglenes intézkedést tehet.
-
-61/A. § Az eljáró tanács döntése elleni jogorvoslatra az Elnök döntése elleni jogorvoslatra vonatkozó szabályok alkalmazandók azzal az eltéréssel, hogy a 83/B. § (1) bekezdése, 90. § (7) bekezdése, 93/A. § (3) bekezdése, 93/B. § (3) bekezdése, 94. § (2g) bekezdése és 99/C. § (1) bekezdése szerinti jogvitás eljárásban hozott döntés esetében nincs helye a keresetlevél halasztó hatályának elrendelésének.
-
-### VI. Fejezet — PIACSZABÁLYOZÁSI ELJÁRÁSOK
+(2) A jogvita rendezése érdekében a hatóság köteles együttműködni a hatóságot megkereső más tagállami elektronikus hírközlési szabályozó hatósággal.
 
 ### Piacmeghatározás, jelentős piaci erővel rendelkező szolgáltatók azonosítása és kötelezettségek előírása
 
-62. § (1) Az Elnök azonosítja az érintett piacokat, elemzi az érintett piacokon fennálló versenyt, valamint annak hatékonyságát, és amennyiben azokon a verseny nem hatékony,
+52. § (1) A Tanács azonosítja az érintett piacokat; elemzi az érintett piacokon fennálló versenyt, illetve annak hatékonyságát, és amennyiben azokon a verseny nem kellően hatékony, azonosítja az érintett piacokon a jelentős piaci erővel rendelkező szolgáltatót, illetve szolgáltatókat; valamint a jelentős piaci erővel rendelkező szolgáltatóra, illetve szolgáltatókra a XI–XIV. fejezetben foglalt kötelezettségek közül a piacelemzés alapján feltárt versenyt korlátozó akadályok által indokolt, azokkal arányos, legalább egy kötelezettséget ír elő, vagy a jelentős piaci erővel rendelkező szolgáltatóra korábban, az e bekezdés szerinti piacelemzés első elvégzését megelőzően jogszabályban, illetve azt követően a hatóság határozatában megállapított legalább egy kötelezettséget fenntart, illetve módosítja azt.
 
-- a) azonosítja az érintett piacokon a jelentős piaci erővel rendelkező szolgáltatót, szolgáltatókat; valamint
-- b) a jelentős piaci erővel rendelkező szolgáltatóra, szolgáltatókra a XI–XIV. fejezetben foglalt kötelezettségek közül legalább egy kötelezettséget ír elő vagy a jelentős piaci erővel rendelkező szolgáltatóra a korábbi piacelemzési eljárás során hozott határozatában megállapított legalább egy kötelezettséget fenntart, illetve módosítja azt, különösen, ha a végfelhasználók számára jelentkező hasznok e kötelezettségek nélkül nem lennének megfelelőek.
+(2) A piacmeghatározás és piacelemzés érdekében az elektronikus hírközlési szolgáltatók adatszolgáltatásra kötelesek. Az adatszolgáltatás nem vagy nem megfelelő teljesítése esetén a Tanács a 33. § (3)–(5) bekezdése szerint bírságot szab ki.
 
-(2) Az Elnök a piacmeghatározást és a piacelemzést az Európai Bizottság harmonizált jogalkalmazásra vonatkozó határozatai, ajánlásai és iránymutatásai alapján, a versenyjog vonatkozó szabályai szerint végzi el figyelembe véve a földrajzi piacon a versenyfeltételekben, és a végfelhasználók jellemzőiben megjelenő eltéréseket, továbbá az egyes földrajzi piacokon az adott területre jellemző infrastruktúraalapú és egyéb verseny fokát, valamint figyelembe veheti a 83/C. § szerinti földrajzi felmérés és kiértékelés eredményeit.
+(3) A Tanács a piacmeghatározást és a piacelemzést a miniszter által rendeletben kihirdetett alapelvek alapján, a versenyjog vonatkozó szabályai szerint végzi el.
 
-(3) Az Elnök az Európai Bizottságnak az érintett termék- és szolgáltatáspiacokról szóló ajánlásában szereplőtől eltérő piacot is azonosíthat az Elnök rendeletében meghatározott feltételek teljesülése esetén.
+53. § (1) A piacelemzés alapján a Tanács jelentős piaci erővel rendelkező szolgáltatóként azonosítja azt a szolgáltatót, amelyik valamely olyan érintett piacon, amelyen a gazdasági verseny nem kellően hatékony, egyedül vagy más szolgáltatóval közösen gazdasági erőfölényben van, azaz olyan gazdasági helyzetben van, amely lehetővé teszi, hogy a tevékenységét a versenytársaktól, a vevőktől, és végső soron a fogyasztóktól nagymértékben függetlenül folytassa.
 
-(4) A piacelemzés alapján az Elnök jelentős piaci erővel rendelkező szolgáltatóként azonosítja azt a szolgáltatót, amelyik valamely olyan érintett piacon, amelyen a gazdasági verseny nem hatékony, egyedül vagy más szolgáltatóval, szolgáltatókkal közösen gazdasági erőfölényben van, azaz olyan gazdasági helyzetben van, amely lehetővé teszi, hogy a tevékenységét a versenytársaktól, a vevőktől, és végső soron a végfelhasználóktól nagymértékben függetlenül folytassa.
+(2) A jelentős piaci erővel rendelkező szolgáltató azonosítása során a Tanács figyelembe veszi, hogy egy érintett piacon jelentős piaci erővel rendelkező szolgáltató egy szomszédos (azzal szoros kapcsolatban lévő) piacon is jelentős piaci erővel rendelkező szolgáltatónak minősülhet, amennyiben az adott érintett piac és a szomszédos piac közötti kapcsolatból eredően a szolgáltató az egyik piacon fennálló gazdasági erejét átviheti a másik piacra, és ezzel gazdasági erejét erősítheti.
 
-(5) Az Elnök valamely érintett piacon jelentős piaci erővel rendelkező szolgáltatót az érintett piachoz szorosan kapcsolódó másik piacon is jelentős piaci erővel rendelkező szolgáltatóként azonosíthat, amennyiben az érintett piacok közötti kapcsolat lehetővé teszi a szolgáltató számára, hogy az egyik piacon fennálló gazdasági erőfölényét átvigye a szorosan kapcsolódó másik piacra. A kapcsolódó piacon, amennyiben indokolt, az arányosság elvét követve, a jelentős piaci erővel rendelkező szolgáltató számára – a 106. §-ban foglalt kötelezettség kivételével – a XI–XIV. fejezetben foglalt kötelezettségek írhatók elő.
+(3) Amennyiben a Tanács a piacelemzés alapján egy, a piacelemzés megkezdésének időpontjában jelentős piaci erővel rendelkező szolgáltatónak minősülő szolgáltatót nem határoz meg jelentős piaci erővel rendelkező szolgáltatóként, határozatában megszünteti az ilyen szolgáltató jelentős piaci erővel rendelkező szolgáltatóként való azonosítását.
 
-(6) Amennyiben az Elnök a piacelemzés alapján egy, a piacelemzés megkezdésének időpontjában jelentős piaci erővel rendelkező szolgáltatónak minősülő szolgáltatót nem határoz meg jelentős piaci erővel rendelkező szolgáltatóként, határozatában megszünteti az ilyen szolgáltató jelentős piaci erővel rendelkező szolgáltatóként való azonosítását.
+(4) Az Európai Bizottság határozatában megállapított, a Magyar Köztársaság földrajzi területét is érintő, az Európai Gazdasági Térség tagállamai közötti piac esetében a Tanács a jelentős piaci erővel rendelkező szolgáltató azonosítását az érintett, az Európai Gazdasági Térség tagállamainak elektronikus hírközlési szabályozó hatóságaival együttműködve végzi el.
 
-(7) Ha az Európai Bizottság határozatában Magyarország területét is érintő transznacionális piacot érintett piacként azonosított, az Elnök az érintett piacon a jelentős piaci erővel rendelkező szolgáltató azonosítását, a piacelemzést az érintett tagállam vagy tagállamok elektronikus hírközlési szabályozó hatóságaival együttműködve végzi el. Az Elnök az (1) bekezdés szerinti kötelezettségek előírásáról, fenntartásáról, módosításáról vagy megszüntetéséről az érintett tagállam vagy tagállamok elektronikus hírközlési szabályozó hatóságaival egyeztetve, a más tagállami szabályozó hatóság vagy hatóságok intézkedéstervezetével összhangban dönt.
+54. § (1) A Tanács az azonosított jelentős piaci erővel rendelkező szolgáltatókra az azon a piacon, amelyen a szolgáltató jelentős piaci erővel rendelkezik, a piacelemzés által feltárt, versenyt korlátozó akadályok által indokolt, azokkal arányos mértékű kötelezettséget vagy kötelezettségeket ír elő a XI–XIV. fejezetben meghatározott kötelezettségfajták közül, vagy hatályában fenntartja, illetve módosítja a jelentős piaci erővel rendelkező szolgáltatóra korábban megállapított kötelezettséget.
 
-(8) Az Elnök és az érintett tagállami szabályozó hatóság a (7) bekezdés szerinti esetben közösen értesítik a Bizottságot, a BEREC-et és a tagállami elektronikus hírközlési szabályozó hatóságokat a piacelemzésre, valamint a szabályozási kötelezettségre vonatkozó intézkedéstervezetükről a 71. § (1) bekezdés szerint közzétett határozattervezet megküldésével.
+(2) Az Európai Bizottság határozatában megállapított, a Magyar Köztársaság földrajzi területét is érintő, az Európai Gazdasági Térség tagállamai közötti piac esetében a Tanács a kötelezettségek előírását, hatályban tartását, módosítását vagy hatályon kívül helyezését az Európai Gazdasági Térség érintett tagállamának elektronikus hírközlési szabályozó hatóságával együttműködve végzi el.
 
-(9) Az Elnök más tagállam szabályozó hatóságával vagy hatóságaival együtt az indokok megjelölésével közösen kérheti a BEREC-et, hogy végezzen elemzést valamely lehetséges transznacionális piac azonosíthatóságára vonatkozóan.
+55. § (1) Amennyiben a Tanács megszünteti egy szolgáltató jelentős piaci erővel rendelkező szolgáltatóként való azonosítását, határozatában az ilyen szolgáltatót a jelentős piaci erővel rendelkező szolgáltatóként való azonosítására tekintettel terhelő valamennyi, a Tanács, illetve az elsőként elvégzett piacelemzés és kötelezettségek megállapításával kapcsolatos eljárás megkezdésének időpontjában hatályos jogszabály által megállapított kötelezettség alkalmazását megszünteti.
 
-(10) Az Elnök egy vagy több más tagállam nemzeti szabályozó hatóságával együttműködve, a más tagállami szabályozó hatóság vagy hatóságok intézkedéstervezetével összhangban transznacionális piacok hiányában is azonosíthat új érintett piacot, azon elemezheti a fennálló versenyt, és hatékony verseny hiányában azon jelentős piaci erővel rendelkező szolgáltatót, szolgáltatókat azonosíthat, amennyiben az együttműködő hatóságok szerint a saját joghatóságuk alá tartozó piaci feltételek kellően egységesek. Ebben az esetben az érintett tagállami szabályozó hatóságok közösen értesítik az Európai Bizottságot, a BEREC-et és a tagállami elektronikus hírközlési szabályozó hatóságokat a 71. § (1) bekezdése szerinti döntés tervezetéről.
+(2) A Tanács a jelentős piaci erővel rendelkező szolgáltatót terhelő kötelezettség módosításáról vagy megszüntetéséről rendelkező határozatában a módosításra, illetve megszüntetésre kerülő kötelezettséget megfelelő átmeneti időtartamra (amely legalább 30 nap, de legfeljebb 120 nap) hatályban tarthatja.
 
-(11) Az Elnök más tagállam szabályozó hatóságával vagy hatóságaival együtt az indokok megjelölésével közösen kérheti a BEREC-et, hogy végezzen elemzést az Európai Bizottság – az érintett termék- és szolgáltatáspiacokról szóló – ajánlásában felsorolt egy vagy több piacon kínált termékek és szolgáltatások iránti transznacionális végfelhasználói keresletre vonatkozóan.
+56. § Amennyiben a Tanács – kivételes és indokolt esetben – a XI–XIV. fejezetben meghatározottaktól eltérő, hozzáféréssel vagy összekapcsolással összefüggő kötelezettséget kíván előírni egy jelentős piaci erővel rendelkező szolgáltatóra, az erre vonatkozó határozattervezetét részletes indokolással előzetesen jóváhagyásra megküldi az Európai Bizottságnak. A határozattervezet megküldésétől az Európai Bizottság 65. § (5) bekezdése szerinti határozatának meghozataláig a Tanács eljárása felfüggesztésre kerül.
 
-63. § (1) Az Elnök a jelentős piaci erővel rendelkező szolgáltatóra azon a piacon, amelyen a szolgáltató jelentős piaci erővel rendelkezik, a piacelemzés által feltárt, versenyt korlátozó akadályok által indokolt, azokkal arányos mértékű, a 2. §-ban meghatározott követelményeknek megfelelő kötelezettséget vagy kötelezettségeket ír elő a XI–XIV. fejezetben meghatározott kötelezettségfajták közül – lehetőség szerint figyelembe véve a kötelezettség bevezetésével kapcsolatos költségeket és hasznokat –, vagy hatályában fenntartja, illetve módosítja a jelentős piaci erővel rendelkező szolgáltatóra korábban megállapított kötelezettséget. Amennyiben a vizsgált piaccal összefüggésben transznacionális kereslet került azonosításra, a Hatóság a kötelezettségek előírása során figyelembe veheti az ezzel kapcsolatos szempontokat is.
+57. § (1) A piacelemzést az érintett piacokon a Tanács rendszeresen, de legalább az előző piacelemzési és kötelezettség előírásával kapcsolatos eljárás befejezését követő két éven belül ismételten elvégzi.
 
-(1a) Az (1) bekezdés szerint előírt, fenntartott, módosított kötelezettség a jelentős piaci erejű szolgáltatóként azonosított szolgáltatót abban az esetben is terheli, ha a kötelezettséggel érintett elektronikus hírközlő hálózatnak nem a jelentős piaci erővel rendelkező szolgáltató az üzemeltetője. Ebben az esetben a jelentős piaci erejű szolgáltató az (1) bekezdés szerint előírt, fenntartott, módosított kötelezettségét az Elnök 62–65. §-a szerint hozott határozatában meghatározott szabályok szerint és módon köteles teljesíteni.
+(2) Amennyiben valamely érintett piacon fennálló verseny megítélése szempontjából jelentős körülmény jut a hatóság tudomására, a Tanács a piacelemzést haladéktalanul lefolytatja az adott érintett piacon, illetve piacokon.
 
-(1b) Annak érdekében, hogy az (1) bekezdés szerinti határozatban foglalt kötelezettségek a határozathozatalt követően folyamatosan megfeleljenek az (1) bekezdésben rögzített követelményeknek, az Elnök figyelemmel kíséri a versenyt jelentősen befolyásoló új piaci változásokat – többek között a szolgáltatók közötti kereskedelmi, társfinanszírozási megállapodásokat –, valamint a 66/B. § (8) bekezdése szerinti határozat esetén értékeli az önkéntes kötelezettségvállalás piaci versenyre kifejtett hatásait. Amennyiben a piaci változások, az új piaci körülmények jelentősége alapján indokolt, az Elnök a 65. § (3) és (4) bekezdése szerint új piacelemzést folytat le. Amennyiben a piaci változások, az új piaci körülmények jelentősége alapján nem indokolt új piacelemzés lefolyatása, az (1) bekezdésben rögzített követelmények érvényesülése érdekében az Elnök a kirótt kötelezettségeket módosíthatja, visszavonhatja, illetve új kötelezettségeket írhat elő.
+(3) Amennyiben a lefolytatott piacelemzés eredménye alapján
 
-(1c) Az Elnök a kötelezettségek előírása során – amennyiben értelmezhető – a kötelezettséggel érintett hálózat, vagy hálózatrész leszerelése vagy új infrastruktúrával történő kiváltása esetére részletesen rendelkezik a hálózatokra vonatkozó kötelezettségek megszüntetésének feltételeiről, ennek keretében kialakítja a leszerelésre, illetve a kiváltásra irányadó részletes feltételrendszert és menetrendet, amely megfelelő előzetes értesítési és átállási időszakot biztosít és – amennyiben a verseny és a végfelhasználók jogainak védelme érdekében szükséges – biztosítja az újonnan létrehozott infrastruktúrához legalább hasonló minőségű hozzáférést lehetővé tevő alternatív hozzáférési szolgáltatások rendelkezésre állását. Az Elnök a 62–65. § szerint meghozott határozatában rögzíti a jelentős piaci erővel rendelkező szolgáltató leszereléssel vagy kiváltással kapcsolatos terveinek a Hatóság részére történő előzetes bejelentésével kapcsolatos szabályokat.
-
-(2) Az Európai Bizottság határozatában megállapított, Magyarország területét is érintő, az Európai Gazdasági Térség tagállamai közötti piac esetében az Elnök a kötelezettségek előírását, hatályban tartását, módosítását vagy hatályon kívül helyezését az Európai Gazdasági Térség érintett tagállamának elektronikus hírközlési szabályozó hatóságával együttműködve végzi el.
-
-(3) Amennyiben valamely jelentős piaci erejű szolgáltató esetében jogutódlás következik be, a szolgáltató kérelmére az Elnök hatósági szerződés keretében rendezheti, hogy a jogutód szolgáltatót vagy szolgáltatókat a jogelőd szolgáltatókat terhelő kötelezettségek közül melyik milyen tartalommal terheli.
-
-(4) Amennyiben az Elnök megszünteti egy szolgáltató jelentős piaci erővel rendelkező szolgáltatóként való azonosítását, határozatában az ilyen szolgáltatót a jelentős piaci erővel rendelkező szolgáltatóként való azonosítására tekintettel terhelő valamennyi kötelezettség alkalmazását megszünteti.
-
-(5) Az Elnök a jelentős piaci erővel rendelkező szolgáltatót terhelő kötelezettség módosításáról vagy megszüntetéséről rendelkező határozatában a módosításra, illetve megszüntetésre kerülő kötelezettséget a határozatban foglalt átmeneti ideig hatályban tarthatja. Az átmeneti idő hosszát az Elnök a jelentős piaci erővel rendelkező szolgáltatót terhelő kötelezettségek kedvezményezettjei és a végfelhasználók számára szükséges fenntartható átmenet biztosításához szükséges idő, a végfelhasználók választási lehetősége, valamint a szabályozás szükséges időtartama alapján határozza meg. Az átmeneti idő meghatározásakor az Elnök egyedi feltételeket és értesítési határidőket állapíthat meg a jelentős piaci erejű szolgáltató és a kötelezettségek kedvezményezettjei között hatályban lévő, hozzáférésre irányuló hálózati szerződésekkel összefüggésben.
-
-63/A. § (1) Amennyiben a jelentős piaci erővel rendelkező szolgáltató kizárólag nagykereskedelmi tevékenységet végez, az Elnök – a 63. § (1) bekezdésében foglaltaktól eltérően – a XI–XIV. fejezetben meghatározott kötelezettségfajták közül kizárólag a 104. §-ban, a 106. §-ban foglalt kötelezettségek, illetve a 108. § szerinti kötelezettség keretében észszerű és méltányos árak alkalmazásával kapcsolatos kötelezettség alkalmazását írhatja elő, ha a jelentős piaci erővel rendelkezőként azonosított vállalkozás valószínűsíthető magatartásának előretekintő értékelésére is kiterjedő piacelemzés alapján indokolt.
-
-(2) Kizárólag nagykereskedelmi tevékenységet végző szolgáltatónak minősül a szolgáltató, amennyiben
-
-- a) a szolgáltató és a szolgáltató többségi befolyása vagy irányítása alatt álló összes gazdálkodó szervezet, a szolgáltatón belüli összes gazdasági és üzleti egység, továbbá az összes olyan gazdálkodó szervezet, amelyben ugyanaz a harmadik személy vagy szervezet rendelkezik többségi befolyással vagy irányítási joggal, mint a szolgáltatóban, kizárólag az elektronikus hírközlési szolgáltatások nagykereskedelemi piacain folytat, illetve tervez folytatni tevékenységet, és ennek megfelelően az Unión belül a végfelhasználóknak nyújtott elektronikus hírközlési szolgáltatások kiskereskedelmi piacán nem folytat tevékenységet; és
-- b) a szolgáltatót nem köti olyan kizárólagos megállapodás, vagy olyan, a gyakorlatban kizárólagos megállapodással egyenértékű megállapodás, amelynek értelmében csak egyetlen, tőle elkülönülő, az értékesítési lánc alacsonyabb szintjén álló olyan vállalkozással kereskedhet, amely végfelhasználóknak nyújtott elektronikus hírközlési szolgáltatások kiskereskedelmi piacán végez tevékenységet.
-
-(3) Amennyiben a (2) bekezdésben rögzített feltételekben változás következik be, a jelentős piaci erővel rendelkező szolgáltató köteles ezt a Hatóságnak haladéktalanul, de legkésőbb a bejelentésre okot adó körülmény bekövetkezésétől számított nyolc napon belül bejelenteni.
-
-(4) Amennyiben a (2) bekezdésben foglalt feltételek már nem állnak fenn, a Hatóság a 65. § (3) és (4) bekezdésében foglaltaknak megfelelően jár el.
-
-(5) Amennyiben a Hatóság megállapítja, hogy a csak nagykereskedelmi tevékenységet végző vállalkozás által kialakított szolgáltatási feltételek a végfelhasználókat hátrányosan érintő versenyproblémákat eredményeztek, vagy a versenyproblémák kialakulása valószínűsíthető, a Hatóság a 65. § (3) és (4) bekezdésében foglaltaknak megfelelően a piacelemzést haladéktalanul lefolytatja és dönthet a 102. §-ban, a 105. §-ban, és a 106/A. §-ban, illetve a 108. §-ban foglalt egyéb kötelezettségek előírásáról, illetve az (1) bekezdésben foglaltak alapján előírt kötelezettségek módosításáról.
-
-64. § Amennyiben az Elnök – kivételes és indokolt esetben – a XI–XIV. fejezetben meghatározottaktól eltérő, hozzáféréssel vagy összekapcsolással összefüggő kötelezettséget kíván előírni egy jelentős piaci erővel rendelkező szolgáltatóra, az erre vonatkozó határozattervezetét részletes indokolással előzetesen jóváhagyásra megküldi az Európai Bizottságnak. A határozattervezet megküldésétől az Európai Bizottság 71. § (9) bekezdése szerinti határozatának meghozataláig az Elnök eljárása felfüggesztésre kerül.
-
-65. § (1) A piacelemzést az érintett piacokon az Elnök rendszeresen, de legalább az előző piacelemzési és kötelezettség előírásával kapcsolatos eljárás befejezését követő öt éven belül ismételten elvégzi. Ez az időszak azonban legfeljebb további egy évvel meghosszabbítható, amennyiben a Hatóság legkésőbb négy hónappal az ötéves időtartam lejárta előtt a javasolt meghosszabbításról szóló, indokolással ellátott értesítést küld a Bizottságnak, és ezzel kapcsolatban a Bizottság az értesítéstől számított egy hónapon belül nem emel kifogást.
-
-(2) Az Elnök a Bizottságnak korábban be nem jelentett érintett piacok esetében a piacelemzést a Bizottság által az érintett termékpiacokról és szolgáltatási piacokról kiadott ajánlás felülvizsgálatának elfogadásától számított három éven belül folytatja le.
-
-(2a) Amennyiben az Elnök úgy ítéli meg, hogy az (1) és (2) bekezdésben foglalt határidőn belül a Bizottság – az érintett termék- és szolgáltatáspiacokról szóló – ajánlásában azonosított valamely érintett piac elemzésével és kötelezettség előírásával kapcsolatos eljárás nem végezhető el vagy azt az előírt határidőn belül nem végezte el, megkereséssel fordulhat a BEREC-hez, hogy működjön közre az adott piac és az előírandó egyedi kötelezettségek elemzésének elvégzésében. Ebben az esetben az Elnök a 71. § (3) bekezdése szerint készíti el a határozat tervezetét.
-
-(3) Amennyiben valamely érintett piacon fennálló verseny megítélése szempontjából jelentős körülmény jut a Hatóság tudomására, az Elnök a piacelemzést haladéktalanul lefolytatja az adott érintett piacon vagy piacokon.
-
-(3a) Valamely érintett piacon fennálló verseny megítélése szempontjából jelentős körülményt az elektronikus hírközlési szolgáltató is bejelenthet az Elnöknek. A bejelentésben meg kell jelölni az Elnök eljárására okot adó körülményt, valamint a bejelentést megalapozó tényeket.
-
-(3b) Az Elnök a bejelentés alapján mérlegelése szerint hivatalból piacelemzési és kötelezettség előírásával kapcsolatos eljárást indíthat. Amennyiben a Hatóság a bejelentés alapján nem indít eljárást, arról indokolással ellátott hivatalos levélben tájékoztatja a bejelentőt.
-
-(3c) A bejelentés alapján megindított hatósági eljárási jogviszonynak a bejelentő nem válik alanyává, a bejelentő a bejelentése alapján hivatalból indított hatósági eljárásban hozott hatósági döntéssel szemben jogorvoslati jogosultsággal nem rendelkezik, kivéve, ha az Elnök az eljárást hivatalból a bejelentővel szemben is megindítja.
-
-(3d) A bejelentő kérheti adatainak zárt kezelését.
-
-(4) Amennyiben a lefolytatott piacelemzés eredménye alapján
-
-- a) új érintett piac vagy piacok meghatározása,
-- b) valamely piac vagy piacok érintett piacként való meghatározásának megszüntetése,
+- a) új érintett piac vagy piacok meghatározása, vagy
+- b) valamely piac vagy piacok érintett piacként való meghatározásának megszüntetése, vagy
 - c) jelentős piaci erővel rendelkező szolgáltató azonosítása vagy ilyen szolgáltatóként való azonosítás megszüntetése, vagy
-- d) jelentős piaci erővel rendelkező szolgáltatóra kötelezettség előírása, módosítása vagy megszüntetése válik szükségessé, az Elnök a 40. § és a 62. § szerinti eljárásokat lefolytatva soron kívül határozatot hoz.
+- d) jelentős piaci erővel rendelkező szolgáltatóra kötelezettség előírása, módosítása vagy megszüntetése
 
-66. § (1) Ha a Hatóság a 108/B. § szerinti feltételek fennállása esetén funkcionális szétválasztásra irányuló kötelezettséget kíván előírni, kérelmet nyújt be a Bizottsághoz, amely tartalmazza:
-
-- a) a Hatóságnak a 108/B. § (1) bekezdés szerinti megállapításait alátámasztó bizonyítékait;
-- b) az arra vonatkozó bizonyítékokat, hogy észszerű időn belül nincs vagy nagyon kicsi az esély arra, hogy kialakuljon a hatékony és fenntartható infrastruktúraalapú verseny;
-- c) a Hatóságra, az érintett szolgáltatóra, különösen a szétválasztott szolgáltató által foglalkoztatott munkaerőre, az elektronikus hírközlési ágazat egészére, valamint – figyelembe véve különösen a társadalmi és területi kohézió biztosításának szükségességét – az ágazati befektetések ösztönzésére, valamint más érdekeltekre gyakorolt várható hatás, így különösen az infrastruktúraalapú versenyre gyakorolt várható hatás, és a fogyasztókkal kapcsolatos esetleges hatások elemzését; és
-- d) azon indokoknak az elemzését, amelyek alátámasztják, hogy ez a kötelezettség lenne az azonosított versenyproblémák, piaci kudarcok kezelését célzó eszközök végrehajtásának leghatékonyabb eszköze.
-
-(2) A funkcionális szétválasztásra irányuló kötelezettség Bizottsághoz benyújtott tervezetének tartalmaznia kell a 108/B. § (3) bekezdésében foglalt tartalmi elemeket.
-
-(3) Amennyiben az Európai Bizottság határozatában engedélyezi a funkcionális szétválasztásra irányuló kötelezettség előírását, a Hatóság a 62–66. §-ban foglaltak szerint elvégzi az intézkedéssel érintett piacok összehangolt elemzését. Értékelése alapján a Hatóság a 62–66. § rendelkezésével összhangban dönt a kötelezettségek megállapításáról, fenntartásáról, módosításáról vagy visszavonásáról. Ha a funkcionális szétválasztásra kötelezett vállalkozás a Hatóság határozata alapján valamely érintett piacon jelentős piaci erővel rendelkezőnek minősül, akkor vele szemben e piac tekintetében megállapítható bármely, a XII. fejezetben meghatározott kötelezettség, és a 62–65. § alapján előírt bármely egyéb kötelezettség.
-
-### Jelentős piaci erejű szolgáltató önkéntes szétválása
-
-66/A. § (1) Az egy vagy több érintett piacon jelentős piaci erővel rendelkező szolgáltató előzetesen – a tervezett jogügyletet legalább három hónappal megelőzően – köteles tájékoztatni a Hatóságot, amennyiben
-
-- a) a helyi hozzáférési hálózati eszközei teljes egészét vagy jelentős részét más tulajdonában lévő gazdálkodó szervezet részére tervezi átruházni, vagy
-- b) önálló gazdasági egység létrehozatalát tervezi abból a célból, hogy valamennyi kiskereskedelmi szolgáltató részére – saját kiskereskedelmi részlegét is beleértve – teljes mértékben egyenértékű hozzáférési szolgáltatásokat biztosítson.
-
-(2) A jelentős piaci erővel rendelkező szolgáltató köteles bejelenteni a Hatósághoz az (1) bekezdés alapján jelzett jogügylettel összefüggő terveiben bekövetkezett változást, valamint a szétválás folyamatának végeredményét a bejelentésre okot adó körülmény bekövetkezésétől számított 15 napon belül.
-
-(3) Az (1) bekezdés szerinti tájékoztatást követően – a (4) bekezdés szerinti kivétellel – az Elnök a 65. § (3) és (4) bekezdésében foglaltaknak megfelelően lefolytatja a szétválással érintett piacok összehangolt elemzését és felméri, hogy a tervezett jogügylet milyen mértékben befolyásolja az e törvény alapján kirótt kötelezettségeket.
-
-(4) Ha az (1) bekezdés szerinti jogügylettel összefüggésben a jelentős piaci erővel rendelkező szolgáltató a hálózatához a harmadik felek számára hatékony és megkülönböztetéstől mentes hozzáférés biztosítása céljából, az önkéntes szétválás megvalósításának időszakában és az önkéntes szétválást követően alkalmazandó hozzáférési feltételekkel kapcsolatos önkéntes kötelezettségvállalás jóváhagyására irányuló kérelmet is benyújt, a Hatóság a 66/B. §-ban foglaltaknak megfelelően jár el.
-
-(5) Ha a jogilag vagy működését tekintve önálló gazdasági egység az Elnök határozata alapján valamely piacon jelentős piaci erővel rendelkezőnek minősül, akkor vele szemben e piac tekintetében megállapítható bármely, a XII. fejezetben meghatározott kötelezettség, és a 64. § szerinti bármely egyéb kötelezettség, amennyiben az önkéntes szétválással nem biztosítható megfelelően a 2. §-ban meghatározott célok érvényesülése.
-
-### Önkéntesen vállalt kötelezettségekkel kapcsolatos eljárás
-
-66/B. § (1) A jelentős piaci erővel rendelkező szolgáltató a hálózatához való hozzáférés, illetve a hálózatának közös beruházásban való fejlesztése feltételeire vonatkozó önkéntes kötelezettségvállalásokat tehet és az Elnökhöz benyújtott kérelemben kezdeményezheti e kötelezettségvállalások hatósági jóváhagyását.
-
-(2) Az (1) bekezdés szerinti önkéntes kötelezettségvállalások kiterjedhetnek különösen:
-
-- a) a 63. §-ban foglaltak alapján kiróható kötelezettségek alkalmazását befolyásoló együttműködési megállapodások megkötésére;
-- b) rendkívül nagy kapacitású hálózatnak a végfelhasználó hozzáférési helyszínéig vagy a bázisállomásig kiterjedő optikai szálas elemekből álló részeinek közös beruházásban történő kiépítésére, így különösen társfinanszírozásra vagy közös felelősségviselési vagy hosszútávú kockázatmegosztási lehetőség felajánlására más elektronikus hírközlési szolgáltató számára; illetve
-- c) a jelentős piaci erejű szolgáltató önkéntes szétválása megvalósításának időszakában és az önkéntes szétválást követően alkalmazandó, a hálózatához történő hatékony és megkülönböztetéstől mentes hozzáférési feltételek 66/A. §-ban foglaltak szerinti biztosítására.
-
-(3) Az Elnök az (1) bekezdés szerinti kérelem alapján a felajánlott kötelezettségvállalások értékelése céljából a 40. § (5) és (6) bekezdése szerint egyeztet az érdekeltekkel a kötelezettségvállalásokkal kapcsolatos vélemények és esetleges módosítási javaslatok megismerése érdekében. Az egyeztetés mellőzhető, ha a kérelem nyilvánvalóan nem felel meg a jogszabályban előírt feltételeknek.
-
-(4) Az Elnök a (3) bekezdés szerinti eljárás eredményeinek figyelembevételével részletesen megvizsgálja az (1) bekezdés szerinti kérelemben foglalt kötelezettségvállalásokat aszerint, hogy
-
-- a) a 63. § (1) bekezdésében és az Elnök rendeletében meghatározott szempontoknak, követelményeknek és feltéteknek megfelelnek-e;
-- b) a kötelezettségvállalásokban foglalt feltételek észszerűek és méltányosak-e;
-- c) a kötelezettségvállalások valamennyi piaci résztvevő számára elérhetők-e;
-- d) a méltányos, észszerű és megkülönböztetésmentes feltételek melletti hozzáférés – ezen belül a rendkívül nagy kapacitású hálózatokhoz való hozzáférés – előfizetői szolgáltatások nyújtásának megkezdését megelőzően rendelkezésre áll-e; továbbá
-- e) a kötelezettségvállalások hozzájárulnak-e az előfizetői szolgáltatások piacain a fenntartható verseny kialakulásához, illetve a rendkívül nagy kapacitású hálózatok együttműködésen alapuló kiépítéséhez és kihasználtságához a végfelhasználói érdekek megfelelő érvényesülése érdekében.
-
-(5) A (3) bekezdés szerinti eljárás és a (4) bekezdés szerinti vizsgálat eredményei alapján az Elnök tájékoztatja a jelentős piaci erővel rendelkező szolgáltatót a kötelezettségvállalások jogszabályi megfelelőségével kapcsolatos előzetes megállapításairól, szükség szerint arra kiterjedően is, hogy milyen feltételek teljesülése esetén lehetséges a kötelezettségvállalások hatósági jóváhagyása.
-
-(6) A jelentős piaci erővel rendelkező szolgáltató a Hatóság (5) bekezdés szerinti előzetes következtetéseinek figyelembevételével egy alkalommal módosíthatja az (1) bekezdés szerinti kérelmet.
-
-(7) Ha a kérelem nem felel meg a jogszabályban előírt feltételeknek, vagy ha a jelentős piaci erejű szolgáltató által vállalt önkéntes kötelezettségvállalások nem felelnek meg – a (6) bekezdés szerinti esetleges módosítást követően sem – a (4) bekezdésben foglalt szempontoknak, követelményeknek, a Hatóság a kérelmet elutasítja.
-
-(8) Ha az Elnök megállapítja, hogy az (1) bekezdés szerinti kérelem és az abban foglalt önkéntes kötelezettségvállalások megfelelnek az e törvényben és az Elnök rendeletében meghatározott követelményeknek, feltételeknek, – a (11) bekezdésben foglalt kivétellel – határozatában jóváhagyja a kérelmet, továbbá az Elnök rendeletében foglalt részletes szabályok szerint részben vagy teljes egészében kötelezővé teheti, illetve – amennyiben a kérelem a (2) bekezdés b) pontjában foglalt kötelezettségvállalásra irányul és a kötelezettségvállalásban foglaltak alapján a jelentős piaci erővel rendelkező szolgáltató legalább egy közös beruházásra irányuló megállapodást kötött – kötelezővé teszi a jelentős piaci erővel rendelkező szolgáltató által felajánlott önkéntes kötelezettségvállalásokat és meghatározza az önkéntes kötelezettségek alkalmazására vonatkozó időtartamot és feltételeket.
-
-(9) Ha a (2) bekezdés b) pontja szerinti kérelem alapján az Elnök a kötelezettségvállalásokat a (8) bekezdés szerinti határozatában kötelezővé teszi és a jelentős piaci erővel rendelkező szolgáltató legalább egy társberuházóval társberuházási megállapodást kötött a társberuházási ajánlatnak megfelelően, az Elnök – a (12) és (13) bekezdésben foglalt kivételekkel – nem írhat elő a kötelezettségvállalások alkalmazására meghatározott időtartamon belül lefolytatott piacmeghatározásra, jelentős piaci erővel rendelkező szolgáltatók azonosítására és kötelezettségek előírására irányuló eljárása során a XII. fejezet szerinti további kötelezettségeket a rendkívül nagy kapacitású új hálózatnak a kötelezettségvállalások hatálya alá tartozó elemei tekintetében.
-
-(10) A (2) bekezdés c) pontja szerinti kérelem esetén az Elnök a 65. § (3) és (4) bekezdésében foglaltaknak megfelelően lefolytatja a szétválással érintett piacok összehangolt elemzését és felméri, hogy a szolgáltató által javasolt önkéntes kötelezettségvállalások milyen mértékben befolyásolják az e törvény alapján kirótt hatályos szabályozási kötelezettségeket.
-
-(11) Ha az Elnök megállapítja, hogy a (2) bekezdés c) pontja szerinti kérelem és az abban foglalt önkéntes kötelezettségvállalások megfelelnek az e törvényben és az Elnök rendeletében meghatározott követelményeknek, feltételeknek, az Elnök a (8) bekezdés szerinti határozatában kizárólag a kérelem jóváhagyásáról dönt, az önkéntes kötelezettségvállalással kapcsolatos feltételeket, rendelkezéseket a (10) bekezdés szerinti piacelemzési eljárást lezáró határozat tartalmazza az Elnök rendeletében foglalt részletes szabályok szerint. Ha a jogilag vagy működését tekintve önálló gazdasági egység az Elnök határozata alapján valamely piacon jelentős piaci erővel rendelkezőnek minősül, akkor vele szemben e piac tekintetében megállapítható bármely, a XII. fejezetben meghatározott kötelezettség, és a 64. § szerinti bármely egyéb kötelezettség, amennyiben az önkéntes kötelezettségvállalások nem biztosítják megfelelően a 2. §-ban meghatározott célok érvényesülését.
-
-(12) Ha egy adott – a rendkívül nagy kapacitású hálózatokhoz kapcsolódó – piacon jelentkező jelentős versenyproblémák az adott piac sajátos jellemzői miatt más módon nem kezelhetők, a rendkívül nagy kapacitású új hálózatnak a kötelezettségvállalások hatálya alá tartozó elemei tekintetében is előírhat a XII. fejezet szerinti további kötelezettségeket, illetve fenntarthat vagy módosíthat ilyen kötelezettségeket abban az esetben is, ha a (2) bekezdés szerinti kötelezettségvállalásokat a (8) bekezdés alapján határozatával kötelezővé tette.
-
-(13) Az Elnök piacmeghatározásra, jelentős piaci erővel rendelkező szolgáltatók azonosítására és kötelezettségek előírására irányuló eljárásában a rendkívül nagy kapacitású új hálózatnak – a (8) bekezdés szerinti határozatban kötelezővé tett kötelezettségvállalások hatálya alá tartozó – elemei tekintetében is előírhat a XII. fejezet szerinti további kötelezettségeket, illetve fenntarthat vagy módosíthat ilyen kötelezettségeket azon feltételek tekintetében, amelyek a versenyt korlátozó akadályok orvoslására szolgálnak és függetlenek az Elnök (8) bekezdés szerinti határozatával kötelezővé tett kötelezettségvállalásoktól.
-
-(14) Az Elnök a kötelezettségvállalás határozatban rögzített időtartamának lejártát megelőzően hivatalból megvizsgálja a kötelezettségvállalás további fenntartásának indokoltságát és arányosságát, és dönt a kötelezővé tett kötelezettségvállalás hatályban tartásáról.
-
-### Hálózat, vagy hálózatrész leszerelése vagy új infrastruktúrával történő kiváltásának jóváhagyása
-
-66/C. § (1) A jelentős piaci erővel rendelkező szolgáltató az Elnök 62–65. § szerint meghozott határozatában meghatározott kötelezettséggel érintett hálózat, vagy hálózatrész leszerelését vagy kiváltását megelőzően köteles az Elnök 62–65. § szerint meghozott határozatában foglaltak szerint a hálózatrész leszerelésének vagy kiváltásának módja és feltételei jóváhagyása iránti kérelmet benyújtani az Elnökhöz.
-
-(2) Kétség estén a szolgáltatót terheli annak bizonyítása, hogy a kérelemben foglaltak megfelelnek a 63. § (1c) bekezdés szerint előírt feltételeknek és előírásoknak.
-
-(3) Amennyiben a kérelem műszakilag és gazdaságilag megalapozott, és a kérelemben foglaltak megfelelnek a 63. § (1c) bekezdés szerint előírt feltételeknek és előírásoknak, az Elnök határozatában jóváhagyja a kérelmet, ellenkező esetben megállapítja az adott hálózat, vagy hálózatrész leszerelésének vagy kiváltásának módját és feltételeit.
-
-(4) A Hatóság az e §-ban foglalt eljárása során a 40. §-ban és a 71. §-ban foglaltak megfelelő alkalmazásával jár el.
+válik szükségessé, a Tanács a 36. § és az 52. § szerinti eljárásokat lefolytatva haladéktalanul határozatot hoz.
 
 ### Referenciaajánlat elfogadása
 
-67. § Az Elnök határozata vagy jogszabály alapján referenciaajánlat közzétételére kötelezett szolgáltató (e § és a 68. § alkalmazásában a továbbiakban: kötelezett szolgáltató) köteles az e törvényben vagy az Elnök határozatában meghatározott tartalommal összeállított referenciaajánlat-tervezetét jóváhagyásra az Elnökhöz benyújtani.
+58. § (1) A Tanács határozata vagy jogszabály alapján referenciaajánlat közzétételére kötelezett szolgáltató (az 58–61. § alkalmazásában: kötelezett szolgáltató) köteles az e törvényben és külön jogszabályban meghatározott tartalommal összeállított referenciaajánlat-tervezetét jóváhagyásra a Tanácshoz benyújtani.
 
-67/A. § (1) Az Elnök a kötelezett szolgáltató által jóváhagyásra benyújtott referenciaajánlat-tervezetet megvizsgálja, hogy az megfelel-e az elektronikus hírközlésre vonatkozó szabályokban foglaltaknak.
+(2) A Tanácshoz benyújtott referenciaajánlat-tervezethez csatolni kell:
 
-(2) Ha az Elnök megállapítja, hogy a hozzá benyújtott referenciaajánlat-tervezet hiányos, és nem bírálható el, vagy egyébként nem felel meg az elektronikus hírközlésre vonatkozó szabálynak, vagy ahhoz nem csatolták az előírt adatokat, a kötelezett szolgáltatót megfelelő határidő tűzésével hiánypótlásra, továbbá amennyiben a tényállás tisztázása azt szükségessé teszi, akkor nyilatkozattételre, valamint adatszolgáltatásra kötelezheti.
+- a) a kötelezett szolgáltató hálózatára és egyéb működési feltételeire vonatkozó, illetve minden egyéb olyan adatot és dokumentumot, amelyek a Tanács számára szükségesek annak megállapításához, hogy a referenciaajánlat-tervezetben foglaltak, így különösen az abban alkalmazott árak megfelelnek-e az elektronikus hírközlésre vonatkozó szabályoknak,
+- b) az összekapcsolásról, illetve hozzáférésről szóló mintaszerződést,
+- c) a szerződéskötés kezdeményezésére, a szükséges adatközlésre vonatkozóan a kötelezett szolgáltató által kialakított adatlapot,
+- d) az igazgatási szolgáltatási díj befizetésének igazolását.
 
-(2a) A kötelezett szolgáltató a 67. § szerint benyújtott referenciaajánlat-tervezetét és az Elnök rendelete, illetve határozata alapján kötelezően csatolandó egyéb dokumentumokat az eljárás során nem vonhatja vissza, és azokat kizárólag a (2) bekezdés szerinti kötelezés alapján módosíthatja, egészítheti ki.
+(3) A (2) bekezdés a) és d) pontja szerint csatolt adatok és dokumentumok nem képezik a referenciaajánlat részét.
+
+(4) A referenciaajánlat-tervezet benyújtásának határidejét a Tanács állapítja meg.
+
+(5) Amennyiben a szolgáltató számviteli szétválasztási kimutatás készítésére köteles, a referenciaajánlat-tervezetet – a Tanács eltérő rendelkezése hiányában – a Tanács által jóváhagyott számviteli szétválasztási kimutatás alapján kell elkészíteni.
+
+59. § (1) A Tanács a kötelezett szolgáltató által jóváhagyásra benyújtott referenciaajánlat-tervezetet megvizsgálja, hogy az megfelel-e az elektronikus hírközlésre vonatkozó szabályokban foglaltaknak.
+
+(2) Ha a Tanács megállapítja, hogy a hozzá benyújtott referenciaajánlat-tervezet hiányos, és nem bírálható el, vagy egyébként nem felel meg az elektronikus hírközlésre vonatkozó szabályoknak, illetve ahhoz nem csatolták az előírt adatokat, határozatában megállapítja a referenciaajánlat tartalmát.
 
 (3) Kétség esetén a szolgáltatót terheli annak bizonyítása, hogy a referenciaajánlat-tervezetben foglaltak megfelelnek az elektronikus hírközlésre vonatkozó szabályoknak.
 
-(3a) Amennyiben a referenciaajánlat-tervezet a (2) bekezdésben foglaltakat követően továbbra is hiányos, és nem bírálható el, vagy egyébként nem felel meg az elektronikus hírközlésre vonatkozó szabálynak, az Elnök a határozatában megállapíthatja a referenciaajánlat tartalmát.
+(4)–(6)
 
-(4) Az Elnök a jóváhagyás tárgyában hozott határozatot és a referenciaajánlatot a Hatóság internetes oldalán közzéteszi. Az Elnök a jóváhagyás tárgyában hozott határozatában rendelkezik a referenciaajánlat vagy annak egyes részei hatálybalépésének időpontjáról. Az Elnök által jóváhagyott referenciaajánlatot az érintett szolgáltató köteles a határozat kézhezvételét követő 5 napon belül internetes oldalán nyilvánosságra hozni.
+(7) A Tanács a jóváhagyás tárgyában született határozatot közzéteszi, a referenciaajánlatot internetes oldalán közzéteszi. A Tanács a jóváhagyás tárgyában hozott határozatában rendelkezik a referenciaajánlat vagy annak egyes részei hatálybalépésének időpontjáról. A Tanács által jóváhagyott referenciaajánlatot az érintett szolgáltató köteles 5 napon belül internetes oldalán nyilvánosságra hozni.
 
-(5) Az Elnök indokolt esetben jogosult a jóváhagyott referenciaajánlat módosítását hivatalból előírni.
+(8) A Tanács indokolt esetben jogosult a jóváhagyott referenciaajánlat módosítását hivatalból előírni.
 
-67/B. § A referenciaajánlat kérelemre történő módosításával kapcsolatos eljárásra a referenciaajánlat jóváhagyásával kapcsolatos eljárás szabályait kell alkalmazni az Elnök rendelete szerinti eltérésekkel.
+(9)
 
-67/C. § (1) Ha az Elnök határozatában megállapítja, hogy egy korábban kötelezett szolgáltatónak minősülő szolgáltatót már nem terhel referenciaajánlat közzétételi kötelezettség, e határozat véglegessé válásától számított naptól az ilyen szolgáltató akkor sem köteles a referenciaajánlat szerinti szerződés megkötésére, ha azt egy másik szolgáltató a véglegessé válást megelőzően kezdeményezte.
+60. § (1) A referenciaajánlat kérelemre történő módosításával kapcsolatos eljárásra a referenciaajánlat jóváhagyásával kapcsolatos eljárás szabályait kell alkalmazni az e § szerinti eltérésekkel.
+
+(2) A referenciaajánlat közzétételére kötelezett szolgáltató a referenciaajánlat módosítására irányuló kérelemben köteles meghatározni a referenciaajánlat
+
+- a) módosításának indokát,
+- b) módosuló részeit és a módosítás tartalmát.
+
+(3) A referenciaajánlat módosításának jóváhagyására irányuló kérelemhez csatolni kell a referenciaajánlat módosuló részeivel kapcsolatos adatokat és dokumentumokat, valamint a referenciaajánlatnak a módosításokkal egységes szerkezetbe foglalt változatát.
+
+(4) Nem kell alkalmazni a referenciaajánlat szolgáltató általi módosítására vonatkozó szabályokat az 59. § (8) bekezdése szerinti eljárás során.
+
+(5) Az eredeti referenciaajánlat alapján kötött szerződések módosítására vonatkozó eljárásokat csak a referenciaajánlat módosításának hatálybalépését követően lehet megkezdeni. A módosított referenciaajánlatban meghatározott árakat a felek a referenciaajánlat módosításának hatálybalépésétől kötelesek alkalmazni.
+
+61. § (1) Ha a Tanács határozatában megállapítja, hogy egy korábban kötelezett szolgáltatónak minősülő szolgáltatót már nem terhel referenciaajánlat közzétételi kötelezettség, e határozat jogerőre emelkedésétől számított naptól az ilyen szolgáltató akkor sem köteles a referenciaajánlat szerinti szerződés megkötésére, ha azt egy másik szolgáltató a jogerőre emelkedést megelőzően kezdeményezte.
 
 (2) A referenciaajánlat alapján kötött szerződéseket a kötelezett szolgáltató az (1) bekezdés szerinti napon, amennyiben az határozatlan időre jött létre, legalább 90 napos felmondási idővel felmondhatja. Amennyiben a határozott idejű szerződésből 6 hónapnál hosszabb idő van hátra, úgy ebben az esetben ugyancsak 90 napos felmondási határidővel gyakorolhatja felmondási jogát a kötelezett szolgáltató.
 
 ### Számviteli szétválasztási kimutatás jóváhagyása
 
-68. § (1) A számviteli nyilvántartások elkülönített vezetésére (a továbbiakban: számviteli szétválasztás) kötelezett szolgáltató az e törvényben, a számviteli nyilvántartások elkülönített vezetésének részletes szabályairól szóló NMHH rendeletben, valamint az Elnök határozatában megállapított tartalom szerint összeállított számviteli szétválasztási kimutatást naptári évenként a számvitelről szóló törvény szerinti éves beszámoló elfogadásától számított 45 napon belül köteles az Elnöknek jóváhagyásra benyújtani.
+62. § (1) A számviteli nyilvántartások elkülönített vezetésére (a továbbiakban: számviteli szétválasztás) kötelezett szolgáltató az e törvényben és külön jogszabályban meghatározott szerkezetben és tartalom szerint összeállított számviteli szétválasztási kimutatást naptári évenként az üzleti év zárásától számított hatodik hónap végéig köteles a Tanácsnak jóváhagyásra benyújtani.
 
-(2) Ha az Elnök megállapítja, hogy a hozzá benyújtott számviteli szétválasztási kimutatás hiányos, és nem bírálható el, vagy egyébként nem felel meg az elektronikus hírközlésre vonatkozó szabályoknak, vagy ahhoz nem csatolták az előírt adatokat, a kötelezett szolgáltatót megfelelő határidő tűzésével hiánypótlásra, továbbá amennyiben a tényállás tisztázása azt szükségessé teszi, akkor nyilatkozattételre, valamint adatszolgáltatásra kötelezheti.
+(2) Ha a Tanács megállapítja, hogy a hozzá benyújtott számviteli kimutatás hiányos és nem bírálható el, vagy egyébként nem felel meg az elektronikus hírközlésre vonatkozó szabályoknak, illetve ahhoz nem csatolták az előírt adatokat, a kötelezett szolgáltatót megfelelő határidő tűzésével hiánypótlásra hívja fel. A hiánypótlásra nyitva álló határidő elteltét követően a számviteli szétválasztási kimutatás jóváhagyásáról a Tanács érdemben dönt.
 
-(3) A kötelezett szolgáltató az (1) bekezdés szerint benyújtott számviteli szétválasztási kimutatást az eljárás során nem vonhatja vissza, és azt kizárólag a (2) bekezdés szerinti kötelezés alapján módosíthatja, egészítheti ki.
+(3) Kétség esetén a szolgáltatót terheli annak bizonyítása, hogy a benyújtott számviteli szétválasztási kimutatásban és a kapcsolódó dokumentumokban foglaltak megfelelnek az elektronikus hírközlésre vonatkozó szabályoknak.
 
-### Hírközlési ágazati vizsgálat
+(4) A Tanács jogosult a szolgáltatót a számviteli szétválasztási kimutatásban szereplő adatok alátámasztására szolgáló további adatok szolgáltatására kötelezni.
 
-69. § (1) Az Elnök az e törvényben foglalt rendelkezések érvényesülésének értékelése, és az e törvény szerinti hatósági hatáskörök alkalmazása szükségességének feltárása érdekében, amennyiben az ármozgások vagy más piaci körülmények arra utalnak, hogy a hírközlési piacok valamelyikén a verseny torzul vagy korlátozódik, – a piaci folyamatok megismerése és értékelése céljából – végzéssel hatósági ellenőrzési eljárást indít.
+(5) A Tanács a számviteli szétválasztási kimutatást nem hagyja jóvá, és erről a kötelezett szolgáltatót részletes indokolással együtt értesíti, amennyiben
 
-(2) Az Elnök ezen eljárása nem érinti a Gazdasági Versenyhivatal tisztességtelen piaci magatartás és versenykorlátozás tilalmáról szóló törvényben rögzített, ágazati vizsgálat lefolytatására irányuló hatáskörét.
+- a) a számviteli szétválasztási kimutatás tartalma nem felel meg az elektronikus hírközlésre vonatkozó szabályokban foglaltaknak, vagy
+- b) a számviteli szétválasztási kimutatáshoz kapcsolódóan benyújtott költségfelosztási módszertant nem találja megfelelőnek.
 
-(3) A hatósági ellenőrzés megindításáról az Elnök hirdetmény útján értesíti az elektronikus hírközlési szolgáltatókat, amelynek az Ákr. rendelkezéseitől eltérően az ügy tárgyát és rövid ismertetését kell tartalmaznia. A végzés indokolásában meg kell jelölni azt is, hogy mely piaci körülményekre tekintettel szükséges az ágazati vizsgálat megindítása. A végzést hirdetményi úton a Hatóság internetes honlapján kell közzétenni. Az eljárást megindító végzést a honlapon történő közzétételét követő tizenötödik napon kell kézbesítettnek tekinteni.
+(6) Az (5) bekezdés szerinti esetben a szolgáltató köteles a Tanács által megállapított határidőben, de legfeljebb 30 napon belül új tervezetet benyújtani, e kötelezettség késedelmes vagy nem megfelelő teljesítése esetén a Tanács bírságot szab ki.
 
-(4) Amennyiben a hatósági ellenőrzés eredményeként az Elnök megállapítja, hogy a vizsgált piaci folyamatok következtében a hírközlési piac valamelyikén a verseny torzulhat vagy korlátozódhat, és megítélése szerint ez az e törvény szerinti hatáskörök gyakorlása útján nem orvosolható, akkor kezdeményezheti a Gazdasági Versenyhivatal versenyfelügyeleti eljárásának megindítását.
+### Eljárás árprés vizsgálata során
 
-(5) A Gazdasági Versenyhivatal az Elnök (4) bekezdés szerinti kezdeményezése alapján a versenyfelügyeleti eljárás megindítását mellőzi, amennyiben azonos vizsgálati tárgyban, azonos időszakra nézve ágazati vizsgálati eljárása van folyamatban, vagy, ha azonos vizsgálati tárgyban, azonos időszakra nézve már korábban ágazati vizsgálatot folytatott le. Erről a tényről a Gazdasági Versenyhivatal a Hatóságot tájékoztatja.
+63. § (1) A Tanács az árprés vizsgálatára vonatkozóan kérelemre, hivatalból, illetve a 42. § (2) bekezdésének a)–c) pontjaiban felsorolt személyek kezdeményezésére jár el.
 
-(6) Amennyiben a versenyfelügyeleti eljárás kezdeményezése nem indokolt, vagy hatáskör hiányában nem lehetséges, illetve az azonosított piaci probléma a Hatóság saját hatáskörében sem orvosolható, tájékoztatja a jogalkotásra jogosult szervet.
+(2) A hatóság a végzésében elrendelt adatszolgáltatás során bekért adatok felhasználásával megvizsgálja, hogy a szolgáltató által a hálózati szolgáltatásért kért ellenérték következtében árprés alakulhat-e ki.
+
+(3) Amennyiben a Tanács árprés fennállását állapítja meg, a Tanács megvizsgálja, hogy a hálózati szolgáltatás ellenértéke a szolgáltatás nyújtásával összefüggésben felmerülő költségek mértékéhez igazodik-e. E körülmény fennálltát a szolgáltatónak kell bizonyítania.
+
+(4) Amennyiben az árprés fennállása ellenére a hálózati szolgáltatás ellenértéke a hálózati szolgáltatás nyújtásával összefüggésben felmerülő költségekhez igazodik, úgy a Tanács az ügyet átteszi a versenyhatósághoz annak megállapítása érdekében, hogy a ráépülő előfizetői szolgáltatás árának meghatározása megvalósítja-e a tisztességtelen piaci magatartásról és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 21. §-ának sérelmét. A versenyhatóság eljárásában a Tanács együttműködik.
+
+(5) Amennyiben a Tanács tudomására jutott új körülmény alapján a 116. § (1) bekezdés szerinti hálózati szolgáltatás ellenértékéről nem állapítható meg, hogy igazodik a hálózati szolgáltatás nyújtásával összefüggésben felmerülő költségek mértékéhez, úgy a Tanács határozatában
+
+- a) megállapítja a hálózati szolgáltatás és a ráépülő előfizetői szolgáltatás ára közötti különbség kötelező legkisebb mértékét, és a szolgáltatót a hálózati szolgáltatás árának megfelelő csökkentésére kötelezi, illetve
+- b) 15 napos határidő tűzésével a költségekhez nem igazodó ellenérték révén árprést okozó árat tartalmazó referenciaajánlat módosítására kötelezi a szolgáltatót, a határidő eredménytelen elteltét követően tíz munkanapon belül a referenciaajánlatot a jogszerű árnak megfelelően határozattal módosítja, valamint
+- c) e törvényben, illetve külön jogszabályban megállapított keretek között a jogsértés súlyával arányos bírságot, illetve intézkedést alkalmazhat.
 
 ### Piaci erőre tekintet nélkül előírható kötelezettségekkel kapcsolatos eljárások
 
-70. § (1) Az Elnök a jelentős piaci erővel nem rendelkező szolgáltatókra kizárólag a XI. fejezetben meghatározott kötelezettségeket róhatja ki.
+64. § (1) A Tanács a jelentős piaci erővel nem rendelkező szolgáltatókra kizárólag a XI. fejezetben meghatározott kötelezettségeket róhatja ki.
 
-(2) Amennyiben az eljárás hivatalból indul, az (1) bekezdés szerinti kötelezettség előírására, módosítására, hatályban tartására, hatályon kívül helyezésére a jelentős piaci erővel rendelkező szolgáltatóra vonatkozó kötelezettségek megállapítására irányadó eljárás szabályait kell megfelelően alkalmazni azzal az eltéréssel, hogy érintett piac helyett a kötelezettséggel érintett hálózati elemek és kapcsolódó eszközök, jelentős piaci erővel rendelkező szolgáltató helyett kötelezett szolgáltató kerülnek meghatározásra.
+(2) Amennyiben az eljárás hivatalból indul, az (1) bekezdés szerinti kötelezettség előírására, módosítására, hatályban tartására, hatályon kívül helyezésére a jelentős piaci erővel rendelkező szolgáltatóra vonatkozó kötelezettségek megállapítására irányadó eljárás szabályait kell megfelelően alkalmazni, azzal az eltéréssel, hogy piacmeghatározás, illetve piacelemzés lefolytatására a Tanács nem köteles.
 
-(3) Amennyiben az eljárás kérelemre indul, a jogvitás eljárás szabályait kell megfelelően alkalmazni, azzal, hogy az Elnök a jogvitás eljárásban résztvevő szolgáltatóval szemben jogosult hivatalból eljárást indítani annak érdekében, hogy a XI. fejezet szerinti kötelezettségek a kötelezett szolgáltatót valamennyi szolgáltatóval szemben terheljék.
+(3) Amennyiben az eljárás kérelemre indul, a jogvitás eljárás szabályait kell megfelelően alkalmazni.
 
-### Egyeztetés az Európai Bizottsággal, a BEREC-kel és a tagállami elektronikus hírközlési szabályozó hatóságokkal
+### Egyeztetés az Európai Bizottsággal és a tagállami elektronikus hírközlési szabályozó hatóságokkal
 
-71. § (1) Az érdekeltekkel történő egyeztetés lefolytatását követően az Elnök
+65. § (1) Az érdekeltekkel történő egyeztetés lefolytatását követően a Tanács
 
 - a) az érintett piacok meghatározására,
-- b) a jelentős piaci erővel rendelkező szolgáltatók azonosítására és a kötelezettségek előírására, módosítására, hatályban tartására vagy hatályon kívül helyezésére, vagy
-- c) a jelentős piaci erővel nem rendelkező szolgáltató számára kötelezettség előírására, módosítására vagy hatályon kívül helyezésére
+- b) a jelentős piaci erővel rendelkező szolgáltatók azonosítására és a kötelezettségek előírására, módosítására, hatályban tartására vagy hatályon kívül helyezésére,
+- c) a jelentős piaci erővel nem rendelkező szolgáltató számára kötelezettség előírására vagy hatályon kívül helyezésére
 
-vonatkozó határozatának tervezetét közzéteszi.
+vonatkozó határozatának tervezetét részletes indokolással együtt megküldi az Európai Bizottságnak és a tagállami elektronikus hírközlési szabályozó hatóságoknak, amennyiben a tervezett határozat a tagállamok közötti kereskedelemre hatással lehet.
 
-(2) Az Elnök az (1) bekezdés szerinti határozat tervezetét részletes indokolással együtt hozzáférhetővé teszi az Európai Bizottságnak, a BEREC-nek és a tagállami elektronikus hírközlési szabályozó hatóságoknak, amennyiben a tervezett határozat a tagállamok közötti kereskedelemre hatással lehet és amennyiben a Bizottság ajánlása vagy iránymutatása eltérően nem rendelkezik. A tájékoztatástól számított harminc napon belül az Elnök – a (13) bekezdés szerinti ideiglenes határozat kivételével – a tervezett határozatot nem hozhatja meg.
+(2) Amennyiben az Európai Bizottság vagy egy tagállami elektronikus hírközlési szabályozó hatóság a hatóság határozatának tervezetére annak kézhezvételétől számított 30 napon belül észrevételt tesz, a hatóság a határozatot ezen észrevételek figyelembevételével adja ki, illetve hozza meg.
 
-(3) A 65. § (2a) bekezdése szerinti megkeresés esetében az Elnök az (1) bekezdés szerinti határozatának tervezetét a 65. § (1) és (2) bekezdés szerinti határidő leteltétől számított legkésőbb hat hónapon belül közzéteszi és részletes indokolással együtt hozzáférhetővé teszi az Európai Bizottságnak, a BEREC-nek és a tagállami elektronikus hírközlési szabályozó hatóságoknak.
+(3) Amennyiben az Európai Bizottság kifogást emel a Tanács által megküldött olyan határozattervezettel szemben, amely
 
-(4) Ha az (1) bekezdés szerinti határozat meghozatalára önkéntes kötelezettségvállalás hatósági jóváhagyására tekintettel kerül sor, az Elnök a (2) bekezdésben foglaltak mellett hozzáférhetővé teszi a 66/B. § (8) bekezdése szerinti hatósági határozatot is.
+- a) az Európai Bizottság által meghatározott piacoktól eltérő piacokat határoz meg, illetve érintett piac meghatározást alkalmaz, vagy
+- b) jelentős piaci erővel rendelkező szolgáltatókénti kijelölésre vagy kijelölés megszüntetésére vonatkozik, és
+- c) ez a tagállamok közötti kereskedelemre hatással lehet,
 
-(5) Más tagállam elektronikus hírközlési szabályozó hatóságának (1) bekezdés szerinti intézkedéstervezetét az Elnök a tájékoztatástól számított 30 napon belül észrevételezheti.
+mivel az véleménye szerint az egységes piac akadálya lehet, vagy annak a közösségi jognak való megfelelése erősen kétséges, a Tanács az Európai Bizottság kifogásának kézhezvételétől számított 60 napig nem közölheti határozatként a kifogással érintett határozattervezetet.
 
-(6) Amennyiben az Európai Bizottság, a BEREC vagy egy tagállami elektronikus hírközlési szabályozó hatóság az Elnök határozatának tervezetére annak kézhezvételétől számított 30 napon belül – a (7) bekezdésben foglaltak kivételével – észrevételt tesz, az Elnök a határozatot ezen észrevételek lehető legteljesebb mértékben történő figyelembevételével hozza meg. Az Elnök az elfogadott észrevételekről tájékoztatja a Bizottságot. Az (1) bekezdés szerinti ügyekben meghozott végleges határozatról az Elnök tájékoztatja a Bizottságot és a BEREC-et.
+(4) Amennyiben az Európai Bizottság – a (3) bekezdésben meghatározott határidőn belül – részletesen indokolt döntésében a határozattervezet visszavonására, illetve szövegszerű javaslat megtétele mellett annak módosítására kötelezi a Tanácsot, az köteles az Európai Bizottság határozatában foglaltak szerint eljárni.
 
-(7) Amennyiben az Európai Bizottság a (2) bekezdés szerinti tájékoztatástól számított 30 napon belül arról értesítette az Elnököt, hogy véleménye szerint az (1) bekezdés szerinti határozattervezetben foglalt intézkedés akadályozná a belső piacot, vagy annak a közösségi jognak való megfelelése kétséges, az Elnök az Európai Bizottság kifogásának kézhezvételétől számított további 60 napig nem hozhatja meg – a (13) bekezdés szerinti ideiglenes határozat kivételével – a kifogással érintett határozatot, ha az a tagállamok közötti kereskedelemre hatással lehet és
+(5) Amennyiben az Európai Bizottság határozatában nem hagyja jóvá a Tanács 56. § szerinti határozatának tervezetét, a Tanács az Európai Bizottság határozatában foglaltak szerint jár el. Az Európai Bizottság jóváhagyása esetén a Tanács az 56. § szerinti határozatát az Európai Bizottság részére megküldött határozattervezet szerinti tartalommal hozza meg.
 
-- a) az Európai Bizottság – az érintett termék- és szolgáltatáspiacokról szóló – ajánlásában meghatározott piacoktól eltérő piacot határoz meg, vagy érintett piac meghatározást alkalmaz, vagy
-- b) jelentős piaci erővel rendelkező szolgáltatókénti kijelölésre vagy kijelölés megszüntetésére vonatkozik.
+(6) Kivételesen sürgős esetekben, a verseny és a fogyasztói érdekek védelme érdekében a Tanács ideiglenes határozatot hozhat az (1) bekezdés szerinti ügyekben. Az ideiglenes határozat azonnal végrehajtható. Ebben az esetben a Tanács az ideiglenes határozatot, annak részletes indokolásával együtt haladéktalanul megküldi az Európai Bizottságnak és a tagállami elektronikus hírközlési szabályozó hatóságoknak. A Tanács az ideiglenes határozat fenntartásáról a (2)–(5) bekezdés szerinti észrevételek, kifogás, illetve határozat alapján az észrevételek, illetve kifogás kézhezvételétől számított tíz munkanapon belül határozatban dönt.
 
-(8) Amennyiben az Európai Bizottság (7) bekezdés szerinti értesítésének kézhezvételétől számított 60 napon belül részletesen indokolt döntésében a határozattervezet visszavonására, vagy szövegszerű javaslat megtétele mellett annak módosítására kötelezi az Elnököt, az köteles az Európai Bizottság határozatában foglaltak szerint, az Európai Bizottság határozatának meghozatalától számított fél éven belül eljárni. Módosított határozattervezet esetén az Elnök a 40. § és az (1)–(6) bekezdés szerinti eljárást ismételten lefolytatja.
+### VI. Fejezet — A HATÓSÁG EGYES ELJÁRÁSAI
 
-(9) Amennyiben az Európai Bizottság a (2) bekezdés szerinti tájékoztatástól számított 30 napon belül arról értesítette az Elnököt, hogy véleménye szerint az (1) bekezdés b) és c) pontja szerinti határozattervezet akadályozná a belső piacot, vagy annak a közösségi jognak való megfelelése kétséges, az Elnök az Európai Bizottság kifogásának kézhezvételétől számított további 90 napig nem hozhatja meg – a (13) bekezdés szerinti ideiglenes határozat kivételével – a kifogással érintett olyan határozattervezetet, amelynek tárgya az Elnök által megküldött határozattervezetben foglalt, a 100–108/B. §-sal összefüggésben álló kötelezettségek kiszabása, módosítása vagy visszavonása.
+### Nyilvántartások vezetése
 
-(10) A (9) bekezdés szerinti 90 napos határidőn belül az Elnök szorosan együttműködik az Európai Bizottsággal és a BEREC-kel a következetes szabályozási gyakorlat érvényesítése és a szabályozási céloknak leginkább megfelelő kötelezettségek kialakítása érdekében. Az Elnök az Európai Bizottság és a BEREC véleményének legnagyobb mértékű figyelembevétele mellett módosíthatja, visszavonhatja, vagy indokolással ellátva fenntarthatja a határozattervezetet és erről a Bizottságot és a BEREC-et tájékoztatja a határozattervezet hozzáférhetővé tételével.
+66. § (1) A hatóság hatósági feladatainak ellátása során hatósági nyilvántartásokat vezet.
 
-(11) Az Európai Bizottság a (9) bekezdésben meghatározott határidő leteltét követő egy hónapon belül határozatában visszavonhatja a (9) bekezdés szerinti észrevételeit, vagy ajánlásában az (1) bekezdés b) és c) pontja szerinti határozattervezet módosítására, visszavonására kérheti az Elnököt. Az Európai Bizottság ajánlása az Elnököt nem köti, amennyiben azonban az Elnök az ajánlásban foglaltaktól eltérően a határozattervezetet fenntartja, köteles e döntését részletesen indokolni. Az Elnök az ajánlástól vagy Bizottság kifogásának visszavonásától számított egy hónapon belül – amely határidő meghosszabbítható a 40. § szerinti eljárás lefolytatása érdekében – megküldi az elfogadott végleges határozatot az Európai Bizottságnak és a BEREC-nek.
+(2) A hatóság nyilvántartást vezet különösen:
 
-(12) Amennyiben a (9) bekezdés szerinti tervezett kötelezettség előírására a 100/A. § (2) bekezdése alapján, vagy a 66/B. § (2) bekezdés b) pontjában foglalt esetre vonatkozóan a 66/B. § (8) bekezdése alapján kerül sor és a Bizottság részletesen indokolt döntésében a határozattervezet visszavonására kötelezi az Elnököt, az Elnök a (8) bekezdésben meghatározott eljárás szerint jár el.
+- a) az elektronikus hírközlési szolgáltatókról és az általuk nyújtott szolgáltatásokról;
+- b) az elektronikus hírközlési tevékenység elektronikus hírközlő hálózaton történő végzéséhez vagy a szolgáltatás nyújtásához szükséges interfész bejelentésekről;
+- c) az egyetemes hírközlési szolgáltatók ellenőrzéséhez szükséges adatokról;
+- d) az elektronikus hírközlési építmények több szolgáltató által megvalósuló közös eszközhasználatáról;
+- e) külön jogszabályokban meghatározott egyedi engedélyekről;
+- f)
+- g) a hatósághoz benyújtott referenciaajánlatokról és hálózati szerződésekről;
+- h) a nem azonosítható hívószámokról (elektronikus nyilvántartás);
+- i) a nem harmonizált frekvenciahasználatú rádióalkalmazások rádióberendezéseinek belföldi forgalomba hozataláról.
+- j)
 
-(13) Kivételesen sürgős esetekben, a verseny és a fogyasztói érdekek védelme érdekében az Elnök ideiglenes határozatot hozhat az (1) bekezdés szerinti ügyekben. Az Elnök az ideiglenes határozatot, annak részletes indokolásával együtt haladéktalanul megküldi az Európai Bizottságnak, a BEREC-nek és a tagállami elektronikus hírközlési szabályozó hatóságoknak. Az Elnök az ideiglenes határozat fenntartásáról a (6)–(9) bekezdés szerinti észrevételek, kifogás, illetve határozat alapján az észrevételek, valamint a kifogás kézhezvételétől számított tizenöt napon belül határozatban dönt.
+(3) A hatósági nyilvántartásokban szereplő közérdekű adatokat bárki megismerheti, kivéve, ha jogszabály a hatósági nyilvántartásba való betekintést kifejezetten korlátozza.
 
-### VII. Fejezet
+(4) A hatóság jogszabályban hatáskörébe utalt feladatainak körében egyéb nyilvántartásokat vezet a főigazgató által meghatározott egyéb adatokról, az adat- és titokvédelemre, valamint a közérdekű adatok nyilvánosságára vonatkozó jogszabályoknak megfelelően.
 
-#### 72. §
+### Piacfelügyelet
 
-#### 73. §
+67. § (1) A hatóság az elektronikus hírközlési piac zavartalan, eredményes működésének, az elektronikus hírközlési tevékenységet végzők és a felhasználók érdekei védelmének, a tisztességes és hatékony piaci verseny fenntartásának elősegítése, valamint e törvény egyéb céljai megvalósítása érdekében hatósági jogkörében hatósági felügyeleti ellenőrzés keretében piacfelügyeleti tevékenységet végez.
+
+(2) A hatóság piacfelügyeleti tevékenysége során figyelemmel kíséri az elektronikus hírközlési piac működését, az arra vonatkozó jogszabályokban, a hatóság határozatában, valamint az előfizetői szerződésben foglaltak megtartását és arról elemzést készít.
+
+(3) A hatóság a jelentős piaci erővel rendelkező szolgáltatók által a hálózati szolgáltatások, illetve ráépülő előfizetői szolgáltatások tekintetében alkalmazott árakat az árprés szempontjából a piacfelügyeleti tevékenysége keretében folyamatosan figyelemmel kíséri.
+
+(4) A hatóság e tevékenysége során más jogszabályban erre feljogosított szervezet, illetve személy közreműködését is igénybe veheti.
+
+(5) A hatóság az előző év ellenőrzési tapasztalatainak figyelembevételével éves piacfelügyeleti tervet készít a tárgyévet megelőző év december 1-jéig, és azt 15 napon belül az internetes oldalán közzéteszi. A piacfelügyeleti tervet a Tanács hagyja jóvá. A terv az első félév tapasztalatai alapján a félév végén felülvizsgálható, és amennyiben szükséges, a Tanács jóváhagyásával módosítható. A módosított piacfelügyeleti tervet a hatóság a módosítás jóváhagyásától számított 15 napon belül internetes oldalán közzéteszi.
+
+(6) A hatóság beszámolót készít a piacfelügyeleti tervben foglaltak teljesítéséről, a piacfelügyeleti tevékenység eredményeiről, a (2) bekezdés szerinti elemzés megállapításairól, valamint az ennek alapján általa javasolt jogszabály-módosításokról, és ezt 15 napon belül közzéteszi.
+
+(7) A hatóság hivatalból vagy kérelemre a piacfelügyeleti és ellenőrzési terven kívül is folytat piacfelügyeleti tevékenységet.
+
+68. § (1) A piacfelügyeleti eljárás keretében feltárt jogsértés esetén a hatóság a fokozatosság elvét követve, a jogsértéssel arányos szankciót alkalmaz.
+
+(2) A hatóság 30 napos határidő tűzésével felhívja a jogsértőt a jogszerű magatartás tanúsítására. Indokolt esetben a hatóság ettől eltérő, de legfeljebb 15 nappal hosszabb, illetve ismételt jogsértés esetén ennél rövidebb határidőt is megszabhat.
+
+(3) A hatóság piacfelügyeleti tevékenysége keretében szankciót különösen a következő jogsértések esetén alkalmazhat:
+
+- a) elektronikus hírközlésre vonatkozó szabályban, a szolgáltató bejelentésében, illetőleg az általános szerződési feltételekben foglaltaktól való eltérés;
+- b) rádiófrekvencia, illetve azonosító jogszerűtlen, engedélytől eltérő vagy engedély nélküli használata;
+- c) elektronikus hírközlő berendezés, valamint nagyfrekvenciás jelet, illetve mellékhatást keltő villamos és elektronikus berendezés szabálytalan forgalomba hozatala, forgalmazása vagy üzemeltetése;
+- d) bejelentési kötelezettség elmulasztása;
+- e) adatszolgáltatási kötelezettség nem vagy nem megfelelő teljesítése.
+
+(4) Amennyiben a jogsértő nem tesz eleget a hatóság felhívásában foglaltaknak, úgy a hatóság jogosult a közigazgatási hatósági eljárás általános szabályairól szóló törvény, e törvény és külön jogszabályban foglalt előírások alapján:
+
+- a) a jogsértőt kötelezni az eljárás költségeinek megtérítésére, amennyiben a hivatalból lefolytatott hatósági felügyeleti eljárás során a hatóság megállapítja a jogsértés tényét;
+- b) jogszabályban megállapított mértékű bírságot kiszabni;
+- c) a jogsértőt a hatóság által meghatározott információk nyilvánosságra hozatalára kötelezni,
+- d) az (5) bekezdésben meghatározott intézkedéseket tenni;
+- e) a díjkülönbözet jóváírására vagy visszafizetésére kötelezni a szolgáltatót, amennyiben az nem tesz eleget a 138. § (6) bekezdésében foglalt kötelezettségének, illetve
+- f) egyéb, jogszabályban meghatározott szankciót alkalmazni.
+
+(5) A hatóság a következő intézkedések megtételére jogosult:
+
+- a) a tevékenység végzésének feltételeit megállapítani;
+- b) a jogsértő magatartás tanúsítását megtiltani;
+- c) a 31. § (1) bekezdése alapján megszerzett információkat e törvényben meghatározott, indokolt esetekben nyilvánosságra hozni;
+- d) a jogsértő költségén a jogszabálysértést megállapító határozatát országos napilapban is nyilvánosságra hozni, különösen, ha ez súlyos érdeksérelem megelőzését, illetve csökkentését szolgálja;
+- e)
+- f) a jogsértő tevékenység folytatásához használt, illetve jogosultság nélkül használt eszközt, illetve berendezést a külön jogszabályban meghatározott eljárás szerint lepecsételni, illetve lefoglalni.
+
+(6) A kötelezettségek súlyos és ismétlődő megszegése esetén, feltéve, hogy a jelen §-ban meghatározott egyéb jogkövetkezmények nem vezettek eredményre, a hatóság felfüggesztheti vagy megtilthatja az elektronikus hírközlési tevékenység végzését, illetve felfüggesztheti vagy visszavonhatja a rádiófrekvenciák és azonosítók használatára vonatkozó egyedi engedélyeket. A felfüggesztés időtartama legalább harminc nap, de a kilencven napot nem haladhatja meg.
+
+(7) A hatóság a határozatát közzéteszi. A nyilvánosságra hozatalnak nem akadálya, ha a határozat bírósági felülvizsgálatát kérték. A nyilvánosságra hozott határozatok elleni fellebbezés tényét, valamint a bírósági felülvizsgálat során hozott határozatot is nyilvánosságra kell hozni.
+
+(8) A piacfelügyeleti eljárás során a hatóság az élet, az egészség, a testi épség és a környezet, a közbiztonság védelme vagy a felhasználók széles körét érintő, különösen nagy kárral fenyegető, továbbá más szolgáltatók vagy a felhasználók gazdálkodását vagy működését súlyosan és közvetlenül fenyegető veszély elhárítása érdekében az (5) bekezdés a) és b) pontjában meghatározott intézkedéseket ideiglenes intézkedésként alkalmazhatja. Az ideiglenes intézkedést a hatóság visszavonja, ha az elrendelés oka megszűnt, egyébként az ideiglenes intézkedés hatálya az eljárás jogerős befejezéséig tart. Az ideiglenes intézkedésről szóló végzés ellen önálló fellebbezésnek van helye.
+
+(9) A piacfelügyeleti eljárás során az élet, az egészség, a testi épség és a környezet, a közbiztonság vagy a felhasználók széles körét érintő, különösen nagy kárral fenyegető veszély elhárítása érdekében, valamint a rádiófrekvencia jogszerűtlen, engedély nélküli használatának megállapítása kapcsán hozott határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+
+(10) Rádiófrekvencia engedély nélküli használata esetében a hatóság a (2) bekezdésben foglaltaktól eltérően jogosult az (5) bekezdés a), b) és f) pontjában meghatározott intézkedések azonnali megtételére.
+
+### Egyedi engedélyek
+
+69. § (1) Rádiófrekvenciák használati jogát – jogszabályban meghatározott esetekben – a hatóság döntése (frekvenciakijelölés, valamint rádióengedély) alapján lehet megszerezni. A polgári célú frekvenciák használatára vonatkozó frekvenciakijelölést, illetve rádióengedélyt, valamint árverés, illetve pályázat esetén frekvenciahasználati jogosultságot a hatóság, a nem polgári célú frekvenciakijelölést, illetve rádióengedélyt a nem polgári célú frekvenciagazdálkodási feladatokat ellátó hatóság adja ki. A nem polgári célú frekvenciagazdálkodási feladatokat ellátó hatóság eljárásaira – amennyiben jogszabály másként nem rendelkezik – az e törvényben meghatározott szabályokat kell alkalmazni.
+
+(2) A frekvenciahasználati joggal kapcsolatos hatósági eljárásban a hatóság nyílt, objektív, átlátható és hátrányos megkülönböztetéstől mentes szabályok alapján határoz a frekvenciahasználati jog kiadásáról. A frekvenciahasználati joggal, illetve jogosultsággal kapcsolatos hatósági eljárások részletes szabályairól külön jogszabály rendelkezik.
+
+(3) A frekvenciahasználati joggal kapcsolatos hatósági eljárás határideje 42 nap. Pályázat vagy árverés útján megszerezhető jogosultságok esetén a határidő legfeljebb nyolc hónappal meghosszabbítható.
+
+(4) Az e törvényben szabályozott frekvenciagazdálkodási hatósági eljárás az ügy eldöntéséhez szükséges műszaki vizsgálatok és a nemzetközi koordináció befejeződéséig felfüggeszthető.
+
+(5) A hatóság a rádiófrekvenciás spektrum hatékony és megfelelő használata, a káros zavarok elkerülése érdekében, illetőleg külön jogszabályban meghatározott közegészségügyi szempontok alapján a frekvenciahasználatot korlátozhatja vagy megtagadhatja.
+
+(6) A közszolgálati műsorszolgáltatóra rótt közszolgáltatási kötelezettségek teljesítéséhez szükséges frekvenciahasználati jogosultság kiadása során a közszolgálati műsorszolgáltató kérelme elsőbbséget élvez.
+
+(7) A frekvenciagazdálkodó hatóságnak a frekvenciahasználatra irányuló kérelmet el kell utasítania, ha
+
+- a) a kérelem teljesítése műszaki, illetőleg frekvenciagazdálkodási okból nem lehetséges;
+- b) a frekvencia használata a meglévő vagy tervezett frekvenciafelhasználásokban káros rádiófrekvenciás zavart okozna;
+- c) a kérelmezőnek lejárt határidejű frekvenciadíj-fizetési kötelezettsége van a hatósággal szemben.
+
+(8) A frekvenciahasználati jog jogosítottjának kérelmére a frekvenciahasználati jogot vissza kell vonni. A visszavonás egyéb feltételeit a miniszter rendeletben állapítja meg.
+
+(9) A műsorszórásra felosztott frekvenciák frekvenciahasználati jogosultságával, kijelölésével és rádióengedélyével kapcsolatos részletes szabályokat külön jogszabály tartalmazza.
+
+70. § (1) Az azonosítókkal való gazdálkodás során biztosítani kell a szolgáltatások zavarmentes, egyértelmű elérhetőségét, a piaci szereplők esélyegyenlőségét, az azonosítók hatékony, a felhasználók és a szolgáltatók érdekeit érvényesítő felhasználását.
+
+(2) A felosztott azonosítók résztartományai kizárólagos használati jogának egy későbbi időpontban történő megszerzését (lekötési engedély), a lekötött azonosítók meghatározott résztartományonkénti vagy egyedi azonosítónkénti használatát (kijelölési engedély) a hatóság engedélyezi.
+
+(3) A hatóság határozatát a szolgáltatások megvalósításának erőforrás- és időszükségletére figyelemmel hozza meg.
+
+(4) Az azonosító használatot a hatóság ellenőrzi. Az engedélyezési és ellenőrzési eljárás szabályait külön jogszabály határozza meg.
+
+### Zavarelhárítás
+
+71. § (1) Elektronikus hírközlő berendezést, nagyfrekvenciás berendezést, valamint minden olyan berendezést (gépet, készüléket, vezetéket, járművet vagy egyéb eszközt), amely működése közben nagyfrekvenciás jelet vagy mellékhatást kelt, továbbá azokat a villamos vagy elektronikus alkatrészeket tartalmazó berendezéseket (a továbbiakban együtt: villamos vagy elektronikus berendezés), amelyek alkalmasak arra, hogy elektromágneses zavart okozzanak, vagy amelyek működésére ilyen zavar hatással lehet, úgy kell üzemben tartani, hogy az más, zavarérzékenység szempontjából egyébként megfelelő villamos vagy elektronikus berendezés működésében zavart ne okozzon.
+
+(2) A hírközlő berendezés működésében zavart okozó berendezés üzemben tartója köteles a zavart megelőzni, illetőleg a keletkezett zavart megszüntetni.
+
+(3) A hatóság köteles a zavart okozó villamos vagy elektronikus berendezés üzemben tartóját a zavar megszüntetésére felszólítani. Ha az üzemben tartó a zavart a műszakilag elengedhetetlenül szükséges időtartamon belül a felszólítás ellenére sem szünteti meg, a hatóság határozattal elrendelheti a berendezés zavarszűrését, áthelyezését vagy üzemidejének korlátozását, illetőleg a zavar más módon való megszüntetését.
+
+(4) A (3) bekezdésben foglalt határozatnak akkor is helye van, ha a zavart okozó villamos vagy elektronikus berendezés zavarkibocsátás szempontjából megfelelő és használata jogszerű, kivéve, ha a zavart költség nélkül vagy csekély költséggel – a zavarérzékenység szempontjából megfelelő zavart villamos vagy elektronikus berendezés áthelyezésével vagy tartozékainak megváltoztatásával – meg lehet szüntetni.
+
+(5) A zavar elhárításának költségei, ha a zavart okozó villamos vagy elektronikus berendezés nem megfelelő, vagy használata jogszerűtlen volt, az üzemben tartót, ha a zavart villamos vagy elektronikus berendezés zavarérzékenység szempontjából nem megfelelő, akkor annak üzemben tartóját terhelik.
+
+### VII. Fejezet — A HÍRKÖZLÉSI ÁLLANDÓVÁLASZTOTTBÍRÓSÁG
+
+72. § (1) A Tanács megalapítja a Hírközlési Állandó Választottbíróságot.
+
+(2) A Hírközlési Állandó Választottbíróság hatáskörére, eljárására a választottbíráskodásról szóló 1994. évi LXXI. törvény (a továbbiakban: Vbt.) rendelkezéseit a (3)–(6) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+
+(3) A Hírközlési Állandó Választottbíróság eljárásának van helye az e törvény 49. § (1) bekezdése szerinti jogvitában, ha a felek a választottbírósági eljárást választottbírósági szerződésben kikötötték és az eljárás tárgyáról szabadon rendelkezhetnek.
+
+(4) A (3) bekezdésben meghatározott ügyekben kizárólag a Hírközlési Állandó Választottbíróság eljárása köthető ki, ideértve a Vbt. 47. §-a alapján nemzetközinek minősülő ügyeket is; egyéb választottbíróság eljárásának kikötéséről szóló megállapodás helyébe a Hírközlési Állandó Választottbíróság eljárásának kikötése lép. A kizárólagosság a belföldi székhelyű állandó választottbíróságok tekintetében áll fenn.
+
+(5) A Hírközlési Állandó Választottbíróság eljárásának e § szerinti kikötése nem érinti a jelen törvény hatálybalépése előtt megkötött egyedi szerződésben a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbíróság hatáskörének kikötésére vonatkozó esetleges előírás érvényességét. Az ilyen kikötések alapján a jogvita választottbírósági rendezésére továbbra is – a felek eltérő rendelkezése hiányában – a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbíróságnak van hatásköre.
+
+(6) A Hírközlési Állandó Választottbíróság választottbírói testületének tagjait a Tanács jelöli ki meghatározott időre a főigazgató javaslata alapján. Nem lehet a Hírközlési Állandó Választottbíróság választottbírói testületének tagja a Tanács tagja, illetve a hatóság egyéb alkalmazottja.
+
+(7) A Hírközlési Állandó Választottbíróság jogi személy. Székhelye Budapest.
+
+(8) A Hírközlési Állandó Választottbíróság jogi személyiségét alapító okiratának a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben történő közzététele napjával nyeri el. A közzétételt a hatóság felügyeletét ellátó miniszter rendeli el a Hírközlési Állandó Választottbíróság bejelentése alapján. A bejelentéshez mellékelni kell az alapító okiratot.
+
+(9) A Hírközlési Állandó Választottbíróság egyeztető eljárás lefolytatására is jogosult a közvetítői tevékenységről szóló 2002. évi LV. törvény szabályainak megfelelően.
+
+73. § (1) A Hírközlési Állandó Választottbíróság alapító okiratában meg kell határozni:
+
+- a) a választottbíróság szervezeti rendjét,
+- b) az elnökség tagjai kijelölésének szabályait,
+- c) a választottbíróság képviseletének rendjét,
+- d) az elnökség feladatait, jogkörét,
+- e) az alapítói hozzájárulás összegét.
+
+(2) A Hírközlési Állandó Választottbíróság működésének forrásai:
+
+- a) alapítói hozzájárulások,
+- b) választottbírósági díjak,
+- c) a vagyon hozama,
+- d) egyéb bevételek.
+
+(3) A Hírközlési Állandó Választottbíróság szervezete a választottbírói testületből, a testület tagjai közül kijelölt legalább három, legfeljebb öttagú elnökségből és a Gazdasági Hivatalból áll.
+
+(4) Az elnökség a Hírközlési Állandó Választottbíróság általános irányító szerve. Az elnökség kijelölésének és működésének szabályait az alapító okirat és a Hírközlési Állandó Választottbíróság szabályzatai tartalmazzák.
+
+(5) A Hírközlési Állandó Választottbíróságot harmadik személlyel szemben, bíróság és hatóságok előtt az elnökség tagjai, illetve az általuk arra felhatalmazott személyek képviselik a Hírközlési Állandó Választottbíróság szabályzataiban meghatározott módon.
+
+(6) A Hírközlési Állandó Választottbíróság szabályzatait maga állapítja meg. A díj- és költségviselés szabályait is magába foglaló eljárási szabályzatot közzé kell tenni.
+
+(7) A Hírközlési Állandó Választottbíróság eszközei nem vonhatók el, azok kizárólag a választottbíráskodás működtetéséhez és fejlesztéséhez használhatók fel az alapító okiratban meghatározottak alapján.
+
+(8) A Hírközlési Állandó Választottbíróság tevékenysége kizárólag a választottbíráskodás és a szervezet működtetése, gazdasági, vállalkozói tevékenységet nem végezhet.
+
+(9) Szabad pénzeszközét a Hírközlési Állandó Választottbíróság kizárólag állampapírba fektetheti. A Hírközlési Állandó Választottbíróság ingatlant kizárólag székhelyének megvásárlása céljából szerezhet.
+
+(10) A Hírközlési Állandó Választottbíróság gazdálkodását az Állami Számvevőszék ellenőrzi.
+
+(11) A Hírközlési Állandó Választottbíróság beszámolókészítési és könyvvezetési kötelezettségét külön jogszabály állapítja meg.
 
 ### VII/A. Fejezet — A Nemzeti Hírközlési és Informatikai Tanács
 
-#### 73/A. §
+73/A. § (1) A Nemzeti Hírközlési és Informatikai Tanács (a továbbiakban: NHIT) a Kormány informatika és hírközlési feladatai ellátásában közreműködő, tizenegy tagból álló testület.
 
-#### 73/B. §
+(2) Az NHIT három tagját a miniszterelnök a miniszter javaslatára nevezi ki és menti fel. A miniszterelnök által kinevezett tagok visszahívásáról a miniszterelnök a miniszter javaslatára határoz.
 
-#### 73/C. §
+(3) Az NHIT további nyolc tagja – köztük az NHIT elnöke – a hírközlés, illetve az informatika területén legalább ötéves gyakorlattal rendelkezők köréből kerül ki.
+
+(4) Az NHIT elnökét a köztársasági elnök nevezi ki, a miniszterelnök ellenjegyzésével.
+
+(5) A tagok közül
+
+- a) három tagot az Országos Rádió és Televízió Testület,
+- b) egy tagot az Informatikai Érdekegyeztető Fórum,
+- c) egy tagot a Magyar Tudományos Akadémia,
+- d) egy tagot a Műszaki és Természettudományi Egyesületek Szövetsége,
+- e) egy tagot a távközlési érdekegyeztető szervezetek közösen
+
+delegálnak.
+
+(6) Az NHIT csak törvénynek van alárendelve, és tagjai tevékenységük körében nem utasíthatók.
+
+(7) Az NHIT tagjainak megbízása négy évre szól.
+
+(8) Az NHIT-re és tagjaira a rádiózásról és televíziózásról szóló 1996. évi I. törvény 34–37. §-aiban foglaltakat megfelelően alkalmazni kell, az alábbi eltérésekkel:
+
+- a) az NHIT elnöke és tagja nem lehet hírközlési, műsorkészítő, hírlapkiadó, hírlapterjesztő és frekvenciagazdálkodási tevékenységet folytató szervezetnél vezető beosztású dolgozó, igazgatósági vagy felügyelő bizottsági tag, kuratóriumi tag, illetőleg ilyen szervvel nem állhat munkavégzésre irányuló jogviszonyban, és nem lehet tulajdonosa (tagja, részvényese),
+- b) az NHIT miniszterelnök által kinevezett tagja lehet köztisztviselő,
+- c) a megüresedett helyet az erre jogosult szerv harminc napon belül köteles betölteni,
+- d) kizárási oknak minősül a rádiózásról és televíziózásról szóló 1996. évi I. törvény 37. § (5) bekezdésében foglaltakon túl az, ha az NHIT tagja tisztségére méltatlanná válik,
+- e) az összeférhetetlenségről, felmentésről, vagy kizárásról szóló döntéshez az NHIT tagjai kétharmadának szavazata szükséges.
+
+(9) A (8) bekezdés a) pontja szerinti összeférhetetlenségi előírásokat – a közeli hozzátartozóra vonatkozó korlátozás kivételével – a tagság megszűnését követő hat hónapban is alkalmazni kell.
+
+(10) Az NHIT tagja politikai tevékenységet nem folytathat, politikai nyilatkozatot nem tehet, pártban vezető tisztséget nem vállalhat.
+
+73/B. § (1) Az NHIT a Kormány véleményező, javaslattevő szerve.
+
+(2) Az NHIT javaslatot tesz a Kormánynak az infokommunikáció (informatika-hírközlés-média) területén:
+
+- a) az információs társadalom kialakításának programjával, az információs kultúra elterjesztésével, az információs társadalomra vonatkozó stratégiai döntésekkel;
+- b) a kutatás-fejlesztés irányvonalának meghatározásával; valamint
+- c) a társadalmi szemléletmód és kultúra terjesztésével kapcsolatban; továbbá
+- d) a hírközlési piac szabályozásának kialakítására, a piacon működők esélyegyenlőségének elősegítésére;
+- e) a kormányzati és a polgári frekvenciagazdálkodás összhangjának biztosítására;
+- f) a rádió-távközlési világ- és körzeti értekezleteken képviselendő magyar álláspontra.
+
+(3) Az NHIT véleményezi:
+
+- a) a frekvenciafelhasználás általános elveinek meghatározását, a frekvenciasávok nemzeti felosztásáról szóló kormányrendeletek, miniszteri rendeletek tervezeteit;
+- b) a rádió-frekvenciatartomány polgári és nem polgári célú megosztásának módosítását, valamint a két érintett miniszter között – a frekvenciagazdálkodás körében – felmerült vitás kérdéseket;
+- c) a hatóság elnöki tisztségére kiírt pályázatokra beérkezett pályaműveket és a hatóság éves tevékenységéről szóló beszámolót;
+- d) a Kormány vagy a Kormány bármely tagjának felkérésére valamennyi, a hírközléssel és az informatikával összefüggő előterjesztést, egyedi döntést;
+- e) az információs társadalom infrastruktúrájának szabályozásával kapcsolatos stratégiai előterjesztéseket, az információs társadalom kialakításának programját.
+
+(4) Az NHIT elnöke a vizsgált frekvenciasávok igénybevételében, az ezekkel végzett szolgáltatásokban érdekelt szervezetek képviselőit tanácskozási joggal meghívhatja.
+
+(5) Az NHIT akkor határozatképes, ha tagjainak több mint a fele jelen van. Határozatait szótöbbséggel hozza, szavazategyenlőség esetében az elnök szavazata dönt.
+
+(6) Az NHIT működésének rendjét maga állapítja meg.
+
+(7) Az NHIT gazdálkodását az Állami Számvevőszék ellenőrzi. Az NHIT feladatai teljesítéséről évente jelentést készít az Országgyűlés illetékes bizottságának.
 
 ## HARMADIK RÉSZ — AZ ELEKTRONIKUS HÍRKÖZLÉSI SZOLGÁLTATÁSOKRA, ILLETŐLEG TEVÉKENYSÉGEKRE VONATKOZÓ SZABÁLYOK
 
 ### VIII. Fejezet — AZ ELEKTRONIKUS HÍRKÖZLÉSI TEVÉKENYSÉG MEGKEZDÉSÉNEK FELTÉTELEI
 
-### Jogosultság elektronikus hírközlési szolgáltatás
+### Jogosultság elektronikus hírközlési szolgáltatásnyújtására
 
-nyújtására
+74. § (1) A Magyar Köztársaság területén elektronikus hírközlő hálózatot üzemeltetni, valamint elektronikus hírközlő hálózaton szolgáltatást nyújtani bármely természetes, illetőleg jogi személy vagy jogi személyiséggel nem rendelkező szervezet az e törvényben, illetve külön jogszabályban meghatározott feltételek teljesítése esetén jogosult.
 
-74. § (1) Magyarország területén elektronikus hírközlő hálózatot üzemeltetni, valamint elektronikus hírközlő hálózaton szolgáltatást nyújtani bármely természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet az e törvényben, illetve külön jogszabályban meghatározott feltételek teljesítése esetén jogosult.
+(2) Az elektronikus hírközlési szolgáltató jogosult arra, hogy elektronikus hírközlő hálózatot üzemeltessen, elektronikus hírközlő hálózaton elektronikus hírközlési szolgáltatást nyújtson, továbbá, hogy kérelmet nyújtson be a hatósághoz rádiófrekvenciák és azonosítók használatára vonatkozó egyedi engedély, illetve elektronikus hírközlési építmények építésére vonatkozó jogosultság megszerzése érdekében.
 
-(2) Az elektronikus hírközlési szolgáltató jogosult arra, hogy elektronikus hírközlő hálózatot üzemeltessen, elektronikus hírközlő hálózaton elektronikus hírközlési szolgáltatást nyújtson, továbbá, hogy kérelmet nyújtson be a Hatósághoz rádióspektrum vagy azonosítók használatára vonatkozó egyedi engedély, illetve elektronikus hírközlési építmények építésére vonatkozó jogosultság megszerzése érdekében.
+(3) Amennyiben külön jogszabály alapján a szolgáltatás nyújtásához szükséges rádiófrekvenciák használati jogának megszerzéséhez egyedi használati engedély nem szükséges, a szolgáltatás szabadon nyújtható.
 
-(2a) Az elektronikus hírközlő hálózat üzemeltetésével, az elektronikus hírközlési szolgáltatás nyújtásával, az elektronikus hírközlési építmény létesítésére vonatkozó engedéllyel, a rádióspektrum- és azonosítógazdálkodással összefüggő jogosultságok, feltételek csak jogszabályban meghatározott esetben, objektív és arányos módon módosíthatók.
+(4) Az elektronikus hírközlési szolgáltató az általa nyújtott elektronikus hírközlési szolgáltatások díjait – az (5) bekezdésben foglalt kivételekkel – az elektronikus hírközlésre vonatkozó szabályok keretei között állapítja meg.
 
-(2b) A Hatóság az elektronikus hírközlési szolgáltatás nyújtásához szükséges, elektronikus hírközlési építmény létesítésére vonatkozó engedélyt, vagy azonosítógazdálkodással összefüggő használati jogokat kizárólag jogszabályban meghatározott esetben és módon korlátozhatja és vonhatja vissza.
+(5) Az elektronikus hírközlési szolgáltatások közül
 
-(3) Amennyiben külön jogszabály alapján a szolgáltatás nyújtásához szükséges rádióspektrum-használati jogának megszerzéséhez egyedi engedély nem szükséges, a szolgáltatás szabadon nyújtható.
+- a) az egyetemes elektronikus hírközlési szolgáltatás díja,
+- b)–c)
 
-(4) Az elektronikus hírközlési szolgáltató az általa nyújtott elektronikus hírközlési szolgáltatások díjait az elektronikus hírközlésre vonatkozó szabályok keretei között állapítja meg.
-
-(5) Ha valamely gazdálkodó szervezet, közigazgatási szerv vagy végfelhasználó kizárólag rádiós helyi hálózaton keresztül nyújt hozzáférést nyilvános elektronikus hírközlő hálózathoz, a hozzáférés nyújtására nem kell alkalmazni a 76–78/A. §, valamint a 99/B. § és 99/C. § szerinti előírásokat, ha
-
-- a) a hozzáférés nyújtása nem képezi a gazdasági tevékenységének részét, vagy
-- b) a hozzáférés nyújtása csak kiegészítő jellegű a gazdasági tevékenységéhez, közszolgáltatásához képest, amely nem függ a nyilvános elektronikus hírközlő hálózaton történő jeltovábbítástól.
+legmagasabb árát a miniszter állapítja meg az árak megállapításáról szóló 1990. évi LXXXVII. törvény rendelkezései szerint.
 
 ### Egyes elektronikus hírközlési tevékenységek megkezdésének és végzésének sajátos feltételei
 
-75. § (1) A nyilvános elektronikus hírközlési szolgáltató és a nyilvános elektronikus hírközlő hálózat üzemeltetője jogosult más felhasználó számára – a 76. § és a nemzeti frekvenciafelosztásról, valamint a frekvenciasávok felhasználási szabályairól szóló NMHH rendelet szerint – a hálózatához, illetve az általa nyújtott elektronikus hírközlési szolgáltatáshoz rádiós helyi hálózaton keresztül a (2) bekezdés szerinti hozzáférést nyújtani.
+75. § Ha az elektronikus hírközlő hálózat üzemeltetője vezetékes (kábeles) műsorelosztási hálózatot kíván üzemeltetni, erre külön gazdálkodó szervezetet kell létrehoznia, amennyiben
 
-(2) Az előfizetői hozzáférési ponton rádiós helyi hálózaton keresztül nyújtott hozzáférés üzemeltetéséhez az érintett előfizető előzetes hozzájárulása szükséges. A hozzájárulás kikérése előtt az érintett előfizetőt a rádiós helyi hálózat működésével és az azon keresztül nyújtott hozzáféréssel kapcsolatban minden lényeges tudnivalóról – így különösen az előfizető és a szolgáltató feladat- és felelősségi köréről – megfelelően tájékoztatni kell.
-
-(3) A rádiós helyi hálózaton keresztül nyújtott hozzáférést az előfizetői hozzáférési ponton nyújtott előfizetői szolgáltatástól el kell különíteni és biztosítani kell, hogy a hozzáférés nyújtása az előfizetői szolgáltatás igénybevételét ne akadályozza, valamint a szolgáltatás továbbra is az előfizetői szerződés szerinti minőségben legyen igénybe vehető.
-
-(4) Az előfizető nem tartozik felelősséggel a rádiós helyi hálózaton keresztül nyújtott hozzáférés felhasználásával más személyek által elkövetett jogsértésért.
-
-(5) A közigazgatási szerv jogosult – a 74. § (5) bekezdése és a nemzeti frekvenciafelosztásról, valamint a frekvenciasávok felhasználási szabályairól szóló NMHH rendelet szerint – az általa üzemeltetett rádiós helyi hálózathoz nyilvános hozzáférést nyújtani az általa használt ingatlanban, vagy az azzal szomszédos közterületen. E hozzáférés nyújtása nem minősül elektronikus hírközlési szolgáltatásnak, a hozzáférés nyújtója nem minősül elektronikus hírközlési szolgáltatónak.
+- a) különleges jogok jogosultja vagy felette az állam irányítást gyakorol, és
+- b) az európai közösségi piac jelentős részén gazdasági erőfölénnyel rendelkezik a nyilvános elektronikus hírközlő hálózatok üzemeltetése és a távbeszélő szolgáltatások nyújtása terén, valamint
+- c) ugyanazon földrajzi területen olyan vezetékes (kábeles) műsorelosztó hálózatot üzemeltet, amelyet különleges vagy kizárólagos jogok alapján hoztak létre.
 
 ### Az elektronikus hírközlési szolgáltatás bejelentése
 
-76. § (1) Az elektronikus hírközlési szolgáltatás nyújtásának megkezdésére irányuló szándékot, valamint a megkezdés tervezett időpontját – a számfüggetlen személyközi hírközlési szolgáltatások kivételével – az elektronikus hírközlési szolgáltatónak nyilvántartásba vétel céljából be kell jelentenie a Hatóságnál.
+76. § (1) Az elektronikus hírközlési szolgáltatás nyújtásának megkezdésére irányuló szándékot, valamint a megkezdés tervezett időpontját az elektronikus hírközlési szolgáltatónak nyilvántartásba vétel céljából be kell jelentenie a hatóságnál.
 
 (2) A bejelentésnek az alábbi adatokat kell tartalmaznia:
 
-- a) a szolgáltató neve (cégneve), jogállása (cégformája), címe (székhelye, fióktelepe);
-- b) a szolgáltató cégjegyzékszáma, illetve más hivatalos nyilvántartási vagy azonosítószáma;
-- c) a Hatósággal való kapcsolattartásra kijelölt személy neve (cégneve), elérhetőségei (postacím, telefonszám, elektronikus levélcím);
-- d) az elektronikus hírközlési szolgáltatás, illetve amennyiben a szolgáltató elektronikus hírközlő hálózatot üzemeltet, az elektronikus hírközlő hálózat megjelölése és rövid leírása; a szolgáltatásnyújtással érintett uniós tagállamok megjelölése;
-- e) a szolgáltatásnyújtás megkezdésének tervezett időpontja; és
-- f) a szolgáltató azon honlapjának címe, amely az elektronikus hírközlő hálózatok üzemeltetéséhez vagy az elektronikus hírközlési szolgáltatások nyújtásához kapcsolódik.
+- a) a bejelentő neve (cégneve), címe (székhelye);
+- b) a vállalkozás cégjegyzékszáma, illetve külön jogszabályban meghatározott más hivatalos nyilvántartási vagy azonosítószáma;
+- c) a bejelentő képviselőjének, valamint a hatósággal való kapcsolattartásra kijelölt személy neve (cégneve), címe (székhelye);
+- d) az elektronikus hírközlési szolgáltatás, illetve amennyiben a bejelentő elektronikus hírközlő hálózatot üzemeltet, az elektronikus hírközlő hálózat megjelölése és rövid leírása; a szolgáltatásnyújtás földrajzi területe;
+- e) a szolgáltatásnyújtás megkezdésének tervezett időpontja.
 
-(3) A Hatóság a szolgáltatót a bejelentésben közölt adatoknak megfelelően bejegyzi az elektronikus hírközlő hálózatokról és elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába, és a bejelentés időpontjától számított hét napon belül a nyilvántartásba vétel tényét visszaigazolja. A Hatóság a visszaigazolással egyidejűleg tájékoztatja a szolgáltatót arról, hogy milyen körülmények fennállása esetén telepíthet létesítményeket, tárgyalhat az összekapcsolásról, és milyen körülmények fennállása esetén jogosult az e törvényben meghatározott hozzáférésre vagy összekapcsolásra. A Hatóság a szolgáltató írásos kérelmére igazolást állít ki arról, hogy a szolgáltató a 74. § (1) bekezdésében meghatározott tevékenységek végzésére jogosult.
+(3) A hatóság a bejelentőt a bejelentésben közölt adatoknak megfelelően bejegyzi az elektronikus hírközlő hálózatokról és elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába, és a bejelentés időpontjától számított öt munkanapon belül a nyilvántartásba vétel tényét visszaigazolja, egyúttal a hírközlési szolgáltató írásos kérelmére igazolást állít ki arról, hogy a szolgáltató a 74. § (1) bekezdésében meghatározott tevékenységek végzésére jogosult.
 
-(4) A Hatóság a szolgáltatót a szolgáltató által a (2) bekezdés d) pontja szerint adott leírás alapján, az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások rendszerezésére vonatkozóan a Hatóság által kialakított és közzétett osztályozás szerint jegyzi be nyilvántartásába.
+(4) A hatóság a szolgáltatót a szolgáltató által a (2) bekezdés d) pontja szerint adott leírás alapján, az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások rendszerezésére vonatkozóan a hatóság által kialakított és közzétett osztályozás szerint jegyzi be nyilvántartásába.
 
-(5) A nyilvántartásba vételt a Hatóság abban az esetben tagadja meg, ha a bejelentésben foglalt adatok az elektronikus hírközlési szolgáltató vagy az általa végezni kívánt tevékenység azonosítására, illetve a nyilvántartásba vételre nem alkalmasak, és egyúttal kötelezi a szolgáltatót a bejelentés 8 napon belüli ismételt benyújtására.
+(5) A nyilvántartásba vételt a hatóság abban az esetben tagadja meg, ha a bejelentésben foglalt adatok az elektronikus hírközlési szolgáltató vagy az általa végezni kívánt tevékenység azonosítására, illetve a nyilvántartásba vételre nem alkalmasak, és egyúttal kötelezi a szolgáltatót a bejelentés 8 napon belüli ismételt benyújtására.
 
-(6) Az elektronikus hírközlési szolgáltató köteles tájékoztatni a Hatóságot a szolgáltatás tényleges megkezdésének időpontjáról. A Hatóság törli a szolgáltatást a nyilvántartásból, ha annak nyújtását az elektronikus hírközlési szolgáltató a bejelentetésben megjelölt tervezett kezdési időpontig nem kezdi meg.
+(6) Az elektronikus hírközlési szolgáltató a bejelentésben közölt adatokban bekövetkezett változásokat, valamint az elektronikus hírközlési szolgáltatás nyújtásának megszüntetését 3 napon belül köteles bejelenteni a hatóságnak.
 
-(6a) Az elektronikus hírközlési szolgáltató a bejelentésben közölt adatokban bekövetkezett változásokat, valamint az elektronikus hírközlési szolgáltatás nyújtásának megszüntetését 15 napon belül köteles bejelenteni a Hatóságnak. Ha a szolgáltató a bejelentésben közölt adatokban bekövetkezett változásokat vagy az elektronikus hírközlési szolgáltatás nyújtásának megszüntetését határidőn belül nem jelenti be, a Hatóság a mulasztó elektronikus hírközlési szolgáltatóval szemben bírságot alkalmazhat.
+(7) A hatóság által vezetett nyilvántartás közhiteles, azt a hatóság közzéteszi, és abba bárki betekinthet.
 
-(7) A Hatóság által vezetett nyilvántartás az elektronikus hírközlési szolgáltató neve, valamint a (2) bekezdés d)–f) pontja szerinti adatok tekintetében közhiteles, azt a Hatóság közzéteszi, és abba bárki betekinthet.
-
-(8) A Hatóság az (1), (6) és (6a) bekezdés szerinti bejelentés egy példányát annak nyilvántartásba vételét követően haladéktalanul megküldi – az elektronikus úton tett bejelentéseket továbbítja – a Nemzetbiztonsági Szakszolgálatnak. A Nemzetbiztonsági Szakszolgálat az elektronikus hírközlési szolgáltatás műszaki jellemzőivel kapcsolatosan a bejelentőtől információt kérhet, amelyet a bejelentő 30 napon belül köteles teljesíteni.
+(8) A hatóság az (1) és (6) bekezdés szerinti bejelentés egy példányát annak nyilvántartásba vételét követően haladéktalanul megküldi – az elektronikus úton tett bejelentéseket továbbítja – a Nemzetbiztonsági Szakszolgálatnak. A Nemzetbiztonsági Szakszolgálat az elektronikus hírközlési szolgáltatás műszaki jellemzőivel kapcsolatosan a bejelentőtől információt kérhet, amelyet a bejelentő 30 napon belül köteles teljesíteni.
 
 ### Az elektronikus hírközlési szolgáltatás nyújtásának megkezdése
 
 77. § (1) A bejelentést követően az elektronikus hírközlési szolgáltató megkezdheti az elektronikus hírközlési szolgáltatás nyújtását.
 
-(2)
+(2) Ha a szolgáltató a bejelentésben az elektronikus hírközlési szolgáltatás megkezdésének időpontját pontosan nem határozta meg, a szolgáltatás megkezdésének időpontjáról – az erre vonatkozó adat nyilvántartásba vétele céljából – köteles a hatóságot a bejelentésre vonatkozó feltételeknek megfelelően, a megkezdést követő 30 napon belül írásban értesíteni. E kötelezettség elmulasztása esetén a hatóság bírságot szab ki.
 
 (3) Amennyiben e törvény valamely elektronikus hírközlési szolgáltatás nyújtásának megkezdését megelőzően teljesítendő további feltételeket állapít meg, a szolgáltató csak a vonatkozó feltételek teljesítését követően kezdheti meg a szolgáltatás nyújtását.
 
 (4) A bejelentési és nyilvántartási eljárással összefüggő, a rádiófrekvenciák és azonosítók használatára vonatkozó egyedi engedélyek megadásával kapcsolatos, a szolgáltatókat általában terhelő, valamint az egyedi kötelezettségek ellenőrzésére irányuló hatósági eljárások díját az elektronikus hírközlési tevékenységet végzők külön jogszabályban meghatározott feltételek mellett kötelesek megfizetni.
 
-### Az elektronikus hírközlési szolgáltatás nyújtásának megszüntetése, illetve az elektronikus hírközlési
+### Az elektronikus hírközlési szolgáltatás nyújtásának megszüntetése, illetve az elektronikus hírközlésiszolgáltató megszűnése
 
-szolgáltató megszűnése
+78. § Az elektronikus hírközlési szolgáltatás nyújtásának megszüntetése, illetve az elektronikus hírközlési szolgáltató megszűnése vagy halála esetében a hatóság az elektronikus hírközlési szolgáltatót törli az elektronikus hírközlő hálózatokról és szolgáltatásokról vezetett nyilvántartásából, a számára kiadott azonosító használatára vonatkozó engedélyeket visszavonja, valamint a törlés tényét közzéteszi.
 
-78. § Az elektronikus hírközlési szolgáltatás nyújtásának megszüntetése, illetve az elektronikus hírközlési szolgáltató megszűnése vagy halála esetében a Hatóság az elektronikus hírközlési szolgáltatót törli az elektronikus hírközlő hálózatokról és szolgáltatásokról vezetett nyilvántartásából, a számára kiadott azonosító használatára vonatkozó engedélyeket visszavonja, valamint a törlés tényét közzéteszi.
-
-78/A. § (1) Az elektronikus hírközlési szolgáltatás nyújtásának megszüntetéséről az elektronikus hírközlési szolgáltató – legalább hatvan nappal megelőzően – értesíti a Hatóságot, és értesítésében megjelöli a (2) bekezdés szerinti elektronikus hírközlési szolgáltatót.
+78/A. § (1) Az elektronikus hírközlési szolgáltatás nyújtásának megszüntetéséről az elektronikus hírközlési szolgáltató – legalább hatvan nappal megelőzően – értesíti a hatóságot, és értesítésében megjelöli a (2) bekezdés szerinti elektronikus hírközlési szolgáltatót.
 
 (2) Az elektronikus hírközlési szolgáltató köteles intézkedni aziránt, hogy legkésőbb a szolgáltatás nyújtásának befejezésekor a szolgáltatásnyújtás földrajzi területén azonos elektronikus hírközlési szolgáltatást nyújtó más elektronikus hírközlési szolgáltató átvegye a 159/A. § (1) bekezdésében meghatározott kötelezettség teljesítése céljából megőrzött adatokat.
 
-(3) Ha az elektronikus hírközlési szolgáltató a (2) bekezdés szerinti kötelezettségének nem tesz eleget, vagy nem tud más szolgáltatóval megállapodást kötni az adatok átvételéről, a Hatóság haladéktalanul intézkedik az átvevő elektronikus hírközlési szolgáltató kijelölésére.
+(3) Ha az elektronikus hírközlési szolgáltató a (2) bekezdés szerinti kötelezettségének nem tesz eleget, vagy nem tud más szolgáltatóval megállapodást kötni az adatok átvételéről, a hatóság haladéktalanul intézkedik az átvevő elektronikus hírközlési szolgáltató kijelölésére.
 
-(4) Természetes személy elektronikus hírközlési szolgáltató halála esetén a Hatóság jelöli ki az átvevő elektronikus hírközlési szolgáltatót.
+(4) Természetes személy elektronikus hírközlési szolgáltató halála esetén a hatóság jelöli ki az átvevő elektronikus hírközlési szolgáltatót.
 
-(5) Ha az elektronikus hírközlési szolgáltató ellen felszámolási vagy végelszámolási eljárás indult, haladéktalanul, legkésőbb a felszámolást elrendelő jogerős végzés közzétételének napján, illetőleg a végelszámolás cégbírósági bejelentésével egyidejűleg köteles tájékoztatni a Hatóságot e tényről. A Hatóság az eljárás időtartama alatt jogosult tájékoztatást kérni a felszámolótól, illetőleg a végelszámolótól az ügy állásáról. Amennyiben az elektronikus hírközlési szolgáltató a zárómérleg benyújtásáig nem értesíti a Hatóságot a (2) bekezdés szerinti intézkedésről, a Hatóság kijelöli az átvevő elektronikus hírközlési szolgáltatót.
+(5) Ha az elektronikus hírközlési szolgáltató ellen felszámolási vagy végelszámolási eljárás indult, haladéktalanul, legkésőbb a felszámolást elrendelő jogerős végzés közzétételének napján, illetőleg a végelszámolás cégbírósági bejelentésével egyidejűleg köteles tájékoztatni a hatóságot e tényről. A hatóság az eljárás időtartama alatt jogosult tájékoztatást kérni a felszámolótól, illetőleg a végelszámolótól az ügy állásáról. Amennyiben az elektronikus hírközlési szolgáltató a zárómérleg benyújtásáig nem értesíti a hatóságot a (2) bekezdés szerinti intézkedésről, a hatóság kijelöli az átvevő elektronikus hírközlési szolgáltatót.
 
-(6) A (3)–(5) bekezdés szerinti intézkedése során a Hatóság
+(6) A (3)–(5) bekezdés szerinti intézkedése során a hatóság
 
 - a) elsősorban a szolgáltatásnyújtás földrajzi területén azonos elektronikus hírközlési szolgáltatást nyújtó szolgáltatók,
 - b) ennek hiányában az azonos elektronikus hírközlési szolgáltatást nyújtó szolgáltatók,
@@ -1532,142 +1154,78 @@ köréből jelöli ki a megőrzött adatok átvételére és azok 159/A. § szer
 
 (8) Az adatokat átadó elektronikus hírközlési szolgáltató az adatok átadáskori teljeskörűségéért, minőségéért és időszerűségéért, az adatokat átvevő elektronikus hírközlési szolgáltató az átvett adatok 159/A. § szerinti megőrzéséért és az adatszolgáltatási kérelmek teljesítéséért felelős.
 
-### A rádióberendezések forgalmazására, valamint az elektromágneses összeférhetőségre vonatkozó szabályok
+### Az elektronikus hírközlő berendezések forgalmazásának feltételei
 
-79. § (1) Rádióberendezés, valamint az Európai Bizottság által meghatározott rádióberendezés-osztályok és kategóriák esetén a rádióberendezés és a rendeltetésszerű használatot lehetővé tevő szoftverek együttese akkor hozható forgalomba, forgalmazható, vagy helyezhető üzembe, ha megfelel az Elnök rendeletében meghatározott követelményeknek, valamint a gyártó, a meghatalmazott képviselő, az importőr és a forgalmazó az Elnök rendeletében meghatározott kötelezettségeinek eleget tett.
+79. § (1) Elektronikus hírközlő berendezés akkor forgalmazható, ha az megfelel a 80. §-ban meghatározott alapvető követelményeknek és a miniszter rendeletében meghatározott feltételeknek.
 
-(2) Az e törvényben, valamint az Elnök rendeletében meghatározott, a rádióberendezések forgalomba hozatalára, forgalmazására és üzembe helyezésére vonatkozó előírások betartását a Hivatal felügyeli.
+(2) A nem harmonizált frekvenciahasználatú rádióalkalmazások rádióberendezéseinek belföldi forgalomba hozatali szándékát a miniszter rendeletében meghatározottak szerint a gyártónak, a gyártó Európai Gazdasági Térségben letelepedett meghatalmazott képviselőjének, az importőrnek vagy a rádióberendezés belföldi forgalomba hozataláért felelős személynek be kell jelentenie a hatóságnak.
 
-80. § (1) A rádióberendezést a környezet- és természetvédelmi jogszabályokban előírt követelmények betartásával úgy kell kialakítani, hogy ne veszélyeztesse az emberek és a háziállatok egészségét és biztonságát, biztosítsa a természetvédelmi oltalom alatt álló területek és védett természeti értékek fennmaradását, a tulajdon védelmét, a rádióspektrum hatékony használatát és a káros zavarás elkerülését.
+(3) A nem polgári célú frekvenciagazdálkodás körébe tartozó rádióberendezés forgalmazásának feltételeit az e törvény felhatalmazása alapján kiadott külön jogszabály állapítja meg.
 
-(2) A rádióberendezés megfelelőségét a gyártó megfelelőségértékelési eljárás lefolytatása alapján kiállított megfelelőségi nyilatkozattal igazolja.
+80. § (1) A hírközlő berendezések nem veszélyeztethetik a felhasználók és más személyek életét, egészségét, testi épségét és biztonságát (alapvető biztonságtechnikai követelmények) és meg kell felelniük az elektromágneses összeférhetőségi (EMC) követelményeknek, továbbá eleget kell tenniük az egészségvédelmi és környezetvédelmi jogszabályokban előírt követelményeknek.
 
-(3) Az Európai Bizottság által meghatározott rádióberendezés-osztályok és kategóriák akkor hozhatók forgalomba, forgalmazhatók vagy helyezhetők üzembe, ha teljesítik az Európai Bizottság által meghatározott együttműködési képességre, csalás elleni védettségre, az előfizetők és felhasználók magánszférájának védelmére, a fogyatékossággal élők hozzáférésének biztosítására és a segélyhívó szolgálatok elérésének támogatására vonatkozó követelményeket.
+(2) A rádióberendezést úgy kell kialakítani, hogy az – a káros zavarás elkerülése mellett – hatékonyan használja a földfelszíni rádiótávközlésre és űrtávközlésre felosztott rádióspektrumot, illetőleg műholdas pályákat.
 
-81. § (1) Nagyfrekvenciás villamos berendezést, valamint egyéb nagyfrekvenciás jelet vagy mellékhatást keltő villamos vagy elektronikus berendezést úgy kell kialakítani, hogy az általa okozott elektromágneses zavar ne haladja meg azt a szintet, amely az elektronikus hírközlő berendezések és más villamos vagy elektronikus berendezések rendeltetésszerű működését akadályozza.
+(3) Egyes, a miniszter rendeletében meghatározott osztályokba tartozó rádióberendezések, illetve elektronikus hírközlő végberendezések forgalmazására – az Európai Bizottság határozatát átültető jogszabályi rendelkezés alapján – az alábbiakban felsorolt további egy vagy több követelményt is alkalmazni kell. E követelmények szerint az adott berendezésnek alkalmasnak kell lennie:
 
-(2) Az e törvényben, valamint az Elnök rendeletében meghatározott, a nagyfrekvenciás villamos berendezések, valamint egyéb nagyfrekvenciás jelet vagy mellékhatást keltő villamos vagy elektronikus berendezések forgalomba hozatalára, forgalmazására és üzembe helyezésére vonatkozó előírások betartását a Hivatal felügyeli.
+- a) elektronikus hírközlő hálózatokon keresztül más készülékekkel történő együttműködésre és megfelelő típusú interfészekhez való csatlakoztatásra az Európai Gazdasági Térség tagállamaiban;
+- b) arra, hogy ne okozzon káros zavart az elektronikus hírközlő hálózatban vagy annak működésében, valamint ne használja helytelenül az elektronikus hírközlő hálózatok erőforrásait, amellyel a szolgáltatás elfogadhatatlan minőségromlását idézné elő;
+- c) a felhasználó és az előfizető személyes adatainak és a magánélethez fűződő jogainak védelmére;
+- d) a visszaélések megakadályozására;
+- e) a segélyszolgálatok elérésére;
+- f) a fogyatékkal élő személyek általi használatra.
+
+(4) A rádióberendezés és elektronikus hírközlő végberendezés alapvető követelményeknek való megfelelését a miniszter rendeletében meghatározottak szerint – megfelelőség értékelési eljárás alapján tett – megfelelőségi nyilatkozatban kell igazolni.
+
+(5) A megfelelőségi nyilatkozat, valamint a megfelelőség értékelési eljárás során keletkezett, illetőleg előírt dokumentumok (így különösen műszaki dokumentáció, kijelölt tanúsító szerv megfelelőségi tanúsítványa) meglétét, valamint az alapvető követelményeknek való megfelelést a hatóság piacfelügyeleti eljárás keretében ellenőrzi.
+
+81. § Nagyfrekvenciás berendezést, valamint villamos vagy elektronikus berendezést úgy kell előállítani, hogy az általa okozott elektromágneses zavarás ne haladja meg azt a szintet, amely az elektronikus hírközlő berendezések és más villamos vagy elektronikus berendezések üzemszerű működését akadályozza.
 
 ### Interfészek bejelentése
 
-82. § (1) A nyilvános elektronikus hírközlő hálózat üzemeltetője vagy a szolgáltató köteles a Hatóságnak bejelenteni, valamint nyilvánosan hozzáférhetővé tenni a hálózaton elektronikus hírközlési tevékenység végzéséhez vagy a szolgáltatás nyújtásához használt előfizetői és hálózati interfészek jellemzőit.
+82. § (1) A nyilvános elektronikus hírközlő hálózat üzemeltetője vagy a szolgáltató köteles a hatóságnak bejelenteni, valamint nyilvánosan hozzáférhetővé tenni a hálózaton elektronikus hírközlési tevékenység végzéséhez vagy a szolgáltatás nyújtásához használt előfizetői és hálózati interfészek jellemzőit.
 
 (2) Az interfészt legkésőbb a szolgáltatásnyújtás megkezdésekor be kell jelenteni.
 
 (3) Nemzeti, európai vagy nemzetközi szabványnak vagy szabványjellegű dokumentumnak megfelelő interfész esetén a bejelentésben az alkalmazott dokumentumra kell hivatkozni az esetleges opciók megadásával, egyéb esetekben a bejelentéshez csatolni kell az interfészek pontos, más jogszabályban meghatározott követelményeknek megfelelő műszaki leírását.
 
-(4) Az interfész bejelentéseket a Hatóság nyilvántartásba veszi, a nyilvántartásba bárki betekinthet.
+(4) Az interfész bejelentéseket a hatóság nyilvántartásba veszi, a nyilvántartásba bárki betekinthet.
 
 ### Az elektronikus hírközlési építmények építési munkáinak engedélyezése
 
-83. § (1) Az elektronikus hírközlési építmények létesítéséhez, használatbavételéhez, fennmaradásához, megszüntetéséhez, bontásához – ha jogszabály másként nem rendelkezik – hatósági engedély szükséges. Az engedélyt a Hatóság adja ki.
+83. § (1) Az elektronikus hírközlési építmények létesítéséhez, használatbavételéhez, fennmaradásához, átalakításához, megszüntetéséhez – ha jogszabály másként nem rendelkezik – hatósági engedély szükséges. Az engedélyt – az antennák, antennatartó szerkezetek és az azokhoz tartozó műtárgyak kivételével – a hatóság adja ki.
 
 (2) Ha jogszabály másként nem rendelkezik, nincs szükség hatósági engedélyre olyan elektronikus hírközlési építmény építési munkáinak végzéséhez, amelyet egy adott vállalkozás vagy személy kizárólag saját igényeinek kielégítésére használ, vagy azon zárt csoportot alkotó felhasználók belső elektronikus hírközlési forgalma bonyolódik, és az építmény nem terjed túl a vállalkozás vagy személy, illetve a zárt csoportot alkotó felhasználók saját ingatlana határán.
 
-(3) A Hatóság biztosítja, hogy internetes honlapján az e § szerinti jogokkal összefüggő jogosultságokra, feltételekre, eljárásokra, díjakra és döntésekre vonatkozó minden lényeges információhoz a minden érdekelt könnyen hozzáférhessen, és ezen információkat rendszeresen felülvizsgálja.
-
-(3a) A Hatóság kormányrendeletben meghatározott egyablakos információs ponton keresztül, elektronikus úton, minden érdekelt részére ingyenesen hozzáférhető teljes körű tájékoztatást nyújt a rendkívül nagy kapacitású hálózatok elemei és a kapcsolódó eszközök kiépítéséhez szükséges építési munkákra vonatkozó engedélyek és a szolgalmi jogok iránti kérelmek benyújtásához kapcsolódó, az engedélyek és szolgalmi jogok megadására alkalmazandó, továbbá a kis területi lefedésű, vezeték nélküli hozzáférési pontok telepítéséhez szükséges, elektronikus hírközlésre vonatkozó szabályokban rögzített feltételekről és eljárásokról, valamint az e feltételek vagy eljárások alóli mentességekről.
-
-(4) A Hatóság a kormányrendeletben meghatározott egyablakos információs ponton keresztül is elérhető internetes honlapján minden érdekelt számára lehetővé teszi, hogy elektronikus formában benyújtsa a rendkívül nagy kapacitású hálózatok elemei és a kapcsolódó eszközök kiépítéséhez szükséges építési munkákra vonatkozó engedélyekkel és a szolgalmi jogokkal összefüggő kérelmeket, és információkat kérdezzen le kérelme elbírálásának aktuális állapotáról.
-
-(4a) A rendkívül nagy kapacitású hálózatok elemei és a kapcsolódó eszközök kiépítése iránti eljárásokban az engedély az ügyintézési határidő lejártakor nem minősül megadottnak, ha a Hatóság az ügyintézési határidőn belül mellőzi a határozathozatalt. Az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 8. cikk (3) bekezdése szerinti esetben a Hatóság egyeztet a kérelmezővel a hatósági döntés meghozatalának előmozdítása érdekében.
-
-(4b) Az építésügyi és az építésfelügyeleti hatósági eljárásban külön vizsgálat nélkül ügyfélnek minősül az építtető és az új fizikai infrastruktúra létesítését magában foglaló, építési tevékenységgel érintett telek, építmény, építményrész tulajdonosa.
-
-(4c) A (4b) bekezdésben foglaltakon túlmenően az építésügyi és az építésfelügyeleti hatósági eljárásokban minden esetben vizsgálni kell az ügyféli jogállását annak, akinek az építési tevékenységgel érintett telekre, építményre vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték.
-
-(4d) Az építésügyi vagy építésfelügyeleti eljárásba bevont szakhatóság állásfoglalásának tartalma erejéig hatásterületet állapíthat meg a jogszabályokban foglaltak szerint.
-
-(4e) Nincs ellenérdekű ügyfél az eljárásban, ha az építtető benyújtotta az ügyben érintett összes ügyfélnek a kérelmezett építési tevékenység végzéséhez történő, az építészeti-műszaki dokumentáció ismeretében tett és az abban foglaltakkal egyetértést tartalmazó teljes bizonyító erejű magánokiratba foglalt nyilatkozatát. Nem minősül ellenérdekű ügyfélnek, akinek tulajdonosi hozzájárulását a 94. § (4a) és (4h) bekezdése szerint megadottnak kell tekinteni, valamint akinek tulajdonosi hozzájárulását a 94. § (4e) bekezdése szerint nem kell kérni.
-
-(4f) Ha az ellenérdekű ügyfél az építésügyi hatósági engedélyezési eljárásban nem vesz részt, a szakhatóság a hozzájárulását jogszerű hallgatással is megadhatja.
-
-(4g) Ha a nyilvános elektronikus hírközlő hálózat üzemeltetőjét az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdése szerinti minimális információk hozzáférhetővé tételére vonatkozó kötelezettség terheli, az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 7. cikk (4) bekezdése szerinti esetben az építésügyi hatósági eljárás nyilvános elektronikus hírközlő hálózat üzemeltetője általi megindításának előfeltételét jelenti a minimális információk egyablakos információs pont részére történő megadása.
-
-(5) Az elektronikus hírközlési építményekkel kapcsolatos építésügyi hatósági eljárások szabályait az Elnök rendeletben állapítja meg.
-
-### Az építési munkák összehangolása
-
-83/A. § (1) A nyilvános elektronikus hírközlő hálózat üzemeltetőjének az építési munkák összehangolására irányuló – (EU) 2024/1309 európai parlamenti és tanácsi rendelet 5. cikk (2) bekezdése szerinti – ajánlatával kapcsolatos követelményeket az Elnök rendeletben állapítja meg.
-
-(2) Az építési munkák összehangolására irányuló ajánlatban foglaltakkal kapcsolatban a hálózatüzemeltető vagy a közszférabeli szervezet köteles a kézhezvételtől számított 15 napon belül igazolható módon, érdemben nyilatkozni annak elfogadásáról vagy elutasításáról, vagy az ajánlatot tevő féllel megállapodás létrehozására irányuló egyeztetést kezdeményezni. A felek az egyeztetés eredményéről jegyzőkönyvet készítenek.
-
-(3) Ha az építési munkák összehangolására irányuló ajánlat nem kerül elutasításra, akkor a megállapodást az (1) bekezdés szerinti ajánlat kézhezvételétől számított 30 napon belül kell megkötni.
-
-(4) A közszférabeli szervezet tulajdonában vagy ellenőrzése alatt álló vállalkozás abban az esetben is elutasíthatja az építési munkák összehangolására irányuló ajánlatot, ha az alábbiakban felsorolt feltételek együttesen fennállnak:
-
-- a) a közszférabeli szervezet tulajdonában vagy ellenőrzése alatt álló vállalkozás az érintett területen nyilvános elektronikus hírközlő hálózatot üzemeltet,
-- b) az építési munkák összehangolására irányuló ajánlatban foglalt építési munkák rendkívül nagy kapacitású hálózat elemeinek, illetve a kapcsolódó eszközöknek a kiépítését célozzák,
-- c) az építési munkákkal érintett terület az Elnök rendeletében meghatározott vidéki területnek minősül és
-- d) a közszférabeli szervezet tulajdonában vagy ellenőrzése alatt álló vállalkozás az érintett területen üzemeltetett nyilvános elektronikus hírközlő hálózatán kizárólag nagykereskedelmi szolgáltatást nyújt.
-
-(5)
-
-(6) Ha a hálózatüzemeltető vagy a közszférabeli szervezet az (1) bekezdés szerinti ajánlatot elutasítja, elutasítását köteles az elutasítást megalapozó, az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 5. cikk (2) és (4) bekezdésében vagy a (4) bekezdésben rögzített valamely szempont vagy szempontok megjelölésével írásban megindokolni és bizonyítékokkal alátámasztani.
-
-(7) A Kormány rendeletében meghatározhatja azokat az építési munkákat, amelyek esetében az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 5. cikk (2) és (4) bekezdésében és az e §-ban foglalt rendelkezéseket
-
-- a) az építési munkák értékének, méretének, időtartamának korlátozott hatókörére tekintettel, vagy
-- b) kritikus szervezet és kritikus infrastruktúra, valamint az ország védelme és biztonsága szempontjából jelentős szervezet és az ország védelme és biztonsága szempontjából jelentős infrastruktúra ellenálló képessége érdekében
-
-nem kell alkalmazni.
-
-(8) Amennyiben az (1) bekezdés szerinti ajánlatra a hálózatüzemeltető vagy a közszférabeli szervezet a (2) bekezdésben meghatározott időtartamon belül nem vagy nem érdemben válaszol vagy egyébként olyan magatartást tanúsít, amely a felek közti egyeztetés elhúzódását eredményezi, az ajánlatot benyújtó fél a felek közti egyeztetés előmozdítása, az érdemi együttműködés elősegítése, valamint a jogsértés megállapítása és jogkövetkezmény alkalmazása érdekében általános hatósági felügyeleti eljárás iránti kérelmet nyújthat be a Hivatalhoz, amennyiben a kérelem tárgyával összefüggésben jogvitás eljárás nem indult.
-
-(9) Abban az esetben, ha az (1) bekezdés szerinti ajánlatra a hálózatüzemeltető vagy a közszférabeli szervezet a (2) bekezdésben meghatározott időtartamon belül nem vagy nem érdemben válaszol vagy egyébként olyan magatartást tanúsít, amely a felek közti egyeztetés elhúzódását eredményezi, a Hivatal bírságot szab ki, amelynek mértéke a jogsértő nettó árbevételének legfeljebb 0,05%-a, de legalább százezer forint. Árbevételi adatok vagy az árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, legfeljebb százmillió forint. E § alkalmazása szempontjából nettó árbevétel alatt a hálózatüzemeltető vagy a közszférabeli szervezet számviteli törvény szerinti nettó árbevételét kell érteni.
-
-(10) A bírság mértékének megállapítása során a 48. § (2) bekezdésében foglaltak alkalmazása mellett a Hivatal mérlegeli az ügy összes körülményét, így különösen a jogsértő árbevételét, a jogsértéssel okozott hátrányok súlyát, a jogsértés ismételtségét.
-
-83/B. § (1) A 83/A. § (1) bekezdése szerinti ajánlat elutasítása esetén, vagy ha a megállapodás az ajánlat kézhezvételétől számított 30 napon belül nem jön létre, bármelyik fél a Hatósághoz fordulhat a megállapodás létrehozása érdekében.
-
-(2) Az (1) bekezdés szerinti eljárásban az 57–61. § szerinti jogvitás eljárás szabályait kell alkalmazni a következő eltérésekkel:
-
-- a) a kérelemhez az Elnök rendeletében előírt dokumentumokat kell csatolni és
-- b) a hálózatüzemeltetőnek vagy a közszférabeli szervezetnek kell bizonyítania az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 5. cikk (2) bekezdés második albekezdése szerinti feltételek teljesülésének hiányát vagy a 83/A. § (4) bekezdése szerinti feltételek fennállását.
-
-(2a) Amennyiben a jogvitás eljárás során feltárt tényállás alapján a Hatóság megállapítja a 83/A. § (8) bekezdésében foglalt jogsértést és ugyanezen jogsértés tárgyában a jogvitás eljárás megindítását megelőzően nem indult általános hatósági felügyeleti eljárás, a Hatóság a jogvitás eljárást érdemben lezáró döntésében a 83/A. § (9)–(10) bekezdésében meghatározott bírság kiszabására is jogosult.
-
-(3) A Hatóság – a kérelem megalapozottsága esetén, az Elnök rendeletében foglalt szabályok szerint – meghatározza az összehangolás érdekében alkalmazandó tisztességes és észszerű feltételeket, így különösen a feleket terhelő méltányos árakat, költségeket.
-
-(4) A Hatóság a határozatát közli az összehangolt építési munkák engedélyezése és felügyelete tekintetében hatáskörrel rendelkező hatóságokkal is.
-
-(5) Amennyiben a hálózatüzemeltető, a közszférabeli szervezet vagy a nyilvános elektronikus hírközlő hálózat üzemeltetője által benyújtott bizonyítékok alapján a Hatóság a döntését nem tudja meghozni, és a jogvita eldöntéséhez szükséges, az (1) bekezdés szerinti eljárásban az elektronikus hírközlési nyomvonalas, nyomvonal jellegű építmények és egyéb műtárgyak építésének engedélyezésére irányuló eljárásokban közreműködő, jogszabályban felsorolt szakhatóságok vesznek részt az ott meghatározott feltételek fennállása esetén és az ott megjelölt szakkérdésekben.
-
-### Nagy sebességű elektronikus hírközlő hálózatok földrajzi felmérése és kiértékelése
-
-83/C. § Az Elnök a nagy sebességű elektronikus hírközlő hálózatokkal kapcsolatban földrajzi felmérést készít, továbbá a rendkívül nagy kapacitású vagy legalább 100 Mbit/s letöltési sebességre alkalmas hálózattal ellátatlan földrajzi területről jegyzéket készíthet, valamint felmérheti a kijelölt terület tekintetében a rendkívül nagy kapacitású hálózat kiépítésére vonatkozó piaci beruházási terveket. A földrajzi felmérést az Elnök rendszeresen, de legalább az előző felmérés befejezését követő három éven belül ismételten elvégzi.
-
 ### Rádiófrekvenciák és azonosítók használati joga
 
-84. § (1) Jogszabályban meghatározott esetekben rádióberendezést, rádióállomást, rádiótávközlő hálózatot és rádiórendszert telepíteni frekvenciakijelölés alapján, üzemben tartani rádióengedély alapján lehet az Elnök által rendeletben meghatározott ideig.
+84. § (1) Jogszabályban meghatározott esetekben rádióberendezést, rádióállomást, rádióhálózatot és rádiótávközlő rendszert telepíteni frekvenciakijelölés alapján, rádióberendezést, rádióállomást és rádiótávközlő hálózatot üzemben tartani rádióengedély alapján lehet külön jogszabályban meghatározott ideig.
 
 (2)
 
-(3) A rádióspektrum használatának összhangban kell lennie a felosztásra, valamint a rádióspektrum-használat szabályaira vonatkozó jogszabályokkal – kivéve a kísérleti és a 30 napnál rövidebb felhasználást, valamint a Magyarországon gyártott vagy forgalmazott, de üzemszerűen Magyarországon nem használható berendezések kipróbálását – és jogszabályban meghatározott közegészségügyi, zavarsugárzási és zavarvédelmi előírásokkal.
+(3) A rádiófrekvencia felhasználásának összhangban kell lennie a frekvenciasávok nemzeti felosztására, valamint a sávfelhasználás szabályaira vonatkozó jogszabályokkal – kivéve a kísérleti és a 30 napnál rövidebb felhasználást, valamint a Magyarországon forgalmazott, de üzemszerűen Magyarországon nem használható berendezések kipróbálását – és a külön jogszabályban meghatározott közegészségügyi, zavarsugárzási és zavarvédelmi előírásokkal.
 
-(4) Az 55. § (7) bekezdése alapján kiadott frekvenciahasználati jog gyakorlása során a közszolgálati médiaszolgáltató köteles biztosítani a közszolgálati műsorok általános elérhetőségével és minőségével kapcsolatban rárótt közszolgáltatási kötelezettségek teljesítését. Így különösen, hosszú távon köteles biztosítani a médiaszolgáltatási jogosultság meghatározott vételkörzetében a műsorszórás folytonosságát és meghatározott minőségét, a frekvenciahasználati jogot ráruházó engedélyben meghatározott részletes feltételek szerint.
+(4) A 69. § (6) bekezdése alapján kiadott frekvenciahasználati jog gyakorlása során a közszolgálati műsorszolgáltató köteles biztosítani a közszolgálati műsorok általános elérhetőségével és minőségével kapcsolatban rárótt közszolgáltatási kötelezettségek teljesítését. Így különösen, hosszú távon köteles biztosítani a műsorszolgáltatási jogosultság meghatározott vételkörzetében a műsorszórás folytonosságát és meghatározott minőségét, a frekvenciahasználati jogot ráruházó engedélyben meghatározott részletes feltételek szerint.
 
-(5) A rádióspektrum-használati jogosultság vagy jog jogszabályban meghatározott esetekben és feltételekkel ruházható át, adható haszonbérbe.
+(5) A frekvenciahasználati jog külön jogszabályban meghatározott esetekben és feltételekkel ruházható át.
 
-(6) A polgári célú rádióspektrum-használati jogosultságáért a rádióspektrum-használati jogosultság megszerzését szolgáló versenyeztetési eljárás szabályairól szóló NMHH rendelet szerinti egyszeri, valamint a rádióspektrumdíjakról szóló NMHH rendelet szerinti rendszeres rádióspektrumdíjat kell fizetni.
+(6) A polgári célú rádiófrekvenciák használati jogáért a frekvenciakijelöléskor, továbbá használatuk során jogszabályban meghatározott díjat kell fizetni.
 
-(7) A rádióspektrumdíjat oly módon kell megállapítani, hogy az tükrözze az erőforrások optimális felhasználásának biztosítására irányuló igényeket. A díjakat úgy kell megállapítani, hogy azok objektíven megalapozottak, indokoltak, átláthatók és megkülönböztetéstől mentesek, valamint az elérni kívánt cél tekintetében arányosak legyenek és a rádióspektrum-gazdálkodási célok elérését szolgálják.
+(7) A frekvenciadíjat oly módon kell megállapítani, hogy az tükrözze az erőforrások optimális felhasználásának biztosítására irányuló igényeket. A díjakat úgy kell megállapítani, hogy azok objektíven megalapozottak, átláthatók és megkülönböztetéstől mentesek, valamint az elérni kívánt cél tekintetében arányosak legyenek és a frekvenciagazdálkodási célok elérését szolgálják.
 
-(8) Ha a rádióspektrum-használati jog visszavonására vagy rádióspektrum-használati jogok korlátozását eredményező módosítására jogszabály, különösen jogszabállyal kihirdetett nemzetközi kötelezettségvállalás módosulása következtében került sor, a jogosultat kártalanítás illeti meg a központi költségvetés terhére, amely nem terjed ki az elmaradt haszonra.
+(8) Ha a frekvenciahasználati jog visszavonására jogszabály, különösen jogszabállyal kihirdetett nemzetközi kötelezettségvállalás módosulása következtében került sor, a jogosultat kártérítés illeti meg a központi költségvetés terhére, amely nem terjed ki az elmaradt haszonra.
 
-(9) Jogutódlás esetében a frekvenciahasználat – a jogutódlástól számított harminc napon belül – a Hatósághoz történt bejelentés alapján folytatható. A bejelentés tudomásulvételét a Hatóság megtagadhatja, ha a rádióengedély visszavonásának volna helye.
+(9) Jogutódlás esetében a frekvenciahasználat – a jogutódlástól számított harminc napon belül – a hatósághoz történt bejelentés alapján folytatható. A bejelentés tudomásulvételét a hatóság megtagadhatja, ha a rádióengedély visszavonásának volna helye.
 
 (10) A bejelentéshez (egyszerűsített rádióengedélyhez) kötött frekvenciák használatára vonatkozó hatósági ügyekben az elektronikus kapcsolattartás kötelező, kivéve ha az az adott eljárási cselekmény tekintetében nem értelmezhető.
 
-(11) A frekvenciahasználati jogosultság, jog megszűnik a jogosított vagy engedélyes halálával, illetve jogutód nélküli megszűnésével.
-
 85. § (1) Az Internet Protokoll és elektronikus levél címek, valamint a domain nevek nem képezik kizárólagos állami tulajdon tárgyát.
 
-(2) Azonosítót használni – az (1) bekezdésen meghatározottakon kívül – csak kijelölési engedély alapján lehet. Az Elnök rendeletében meghatározott egyes azonosítók előzetesen leköthetők.
+(2) Azonosítót használni – az (1) bekezdésen meghatározottakon kívül – csak kijelölési engedély alapján lehet. Az egyes azonosítók vagy azonosító tartományok kijelölésének feltétele az előzetes lekötés.
 
 (3) Az azonosítók lekötéséért és használatáért azonosító-lekötési és használati díjat, az ahhoz kapcsolódó, jogszabályban meghatározott hatósági eljárásért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
-(4) Az azonosító-lekötési és használati díjat az Elnök rendeletben, a 84. § (7) bekezdése szerinti módon állapítja meg.
+(4) Az azonosító-lekötési és használati díjat a miniszter rendeletben, a 84. § (7) bekezdése szerinti módon állapítja meg.
 
 ### IX. Fejezet — AZ ELEKTRONIKUS HÍRKÖZLÉSI TEVÉKENYSÉG VÉGZÉSÉNEK ÁLTALÁNOS SZABÁLYAI
 
@@ -1678,60 +1236,42 @@ nem kell alkalmazni.
 - a) elektronikus hírközlő hálózatokat egymás között olyan egyeztetett műszaki feltételrendszerben működtetni, hogy azok – jogszabályban, illetőleg nemzetközi szerződésekben meghatározott esetekben – a szükséges kapcsolat létesítéséhez közvetlenül vagy megfelelő interfészek, hálózatrészek, elemek, berendezések, szolgáltatások beiktatásával egységesen működő rendszert alkothassanak. Ennek érdekében az elektronikus hírközlési tevékenységet végzőknek jóhiszeműen, az esélyegyenlőséget biztosítva kell együttműködniük, és lehetővé kell tenniük egymás számára az ehhez szükséges műszaki adatokhoz való hozzáférést;
 - b) együttműködni az elektronikus hírközlési építmények közös használatát elősegítő műszaki, szerződéses és gazdasági keretfeltételek kialakításában;
 - c) biztosítani a nyilvános elektronikus hírközlő hálózatok biztonságát a jogosulatlan hozzáféréssel szemben;
-- d) különleges jogrendben, összehangolt védelmi tevékenység idején, váratlan támadás esetén jogszabályban meghatározott módon együttműködni más szolgáltatókkal;
+- d) minősített időszakban külön jogszabályban meghatározott módon együttműködni más szolgáltatókkal;
 - e) betartani a terület- és ingatlanhasználattal kapcsolatos szabályokat;
 - f) betartani a környezet védelmével, az élet, a testi épség, az egészség védelmével és megóvásával, az elektromágneses sugárzással kapcsolatos jogszabályi előírásokat;
 - g) az együttműködés során a fogyasztók védelmére különös figyelmet fordítani.
 
-(2) Az elektronikus hírközlési hálózat üzemeltetői jogosultak, illetve, amennyiben azt más szolgáltató igényli, kötelesek a hálózatok összekapcsolásáról és a hálózatokhoz való hozzáférésről jóhiszemű tárgyalásokat folytatni. A kötelezettség kiterjed a Magyarországon nem, de az Európai Unió más tagállamában elektronikus hírközlési szolgáltatást nyújtó szolgáltatókkal való együttműködésre is.
+(2) Az elektronikus hírközlési hálózat üzemeltetői jogosultak, illetve, amennyiben azt más szolgáltató igényli, kötelesek a hálózatok összekapcsolásáról jóhiszemű tárgyalásokat folytatni.
 
 (3) A szolgáltatók a hálózati szerződésekkel kapcsolatos tárgyalások alatt, illetve azokkal összefüggésben a tudomásukra jutott üzleti titkot kizárólag ezzel összefüggésben használhatják fel, és az üzleti titkot más személy, üzletág részére nem adhatják át, amennyiben az üzleti titok átadása tisztességtelen versenyelőnyt eredményezhet.
 
-86/A. § Az elektronikus hírközlő hálózat üzemeltetője vagy az elektronikus hírközlési szolgáltató nem írhat elő a végfelhasználó számára az állampolgársága, lakóhelye vagy székhelye helye szerinti tagállamra tekintettel eltérő követelményeket vagy az érintett hálózathoz, illetve szolgáltatáshoz való csatlakozás feltételeként különböző általános hozzáférési, szerződési vagy használati követelményeket, kivéve, ha ez az eltérő bánásmód objektív módon alátámasztható.
-
-86/B. § (1) Az elektronikus hírközlő hálózat üzemeltetője a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) elnöke által kiadott rendeletben meghatározott kiberbiztonsági követelmények betartásával és alkalmazásával köteles végezni az üzemeltetési tevékenységet.
-
-(2) Az elektronikus hírközlési szolgáltató által az elektronikus hírközlési szolgáltatáshoz használt rendszernek rendelkeznie kell a Magyarország kiberbiztonságáról szóló törvény alapján kiállított nemzeti vagy európai kiberbiztonsági tanúsítvánnyal, ha az adott, hírközlési szolgáltatáshoz használt rendszerre vonatkozóan nemzeti vagy európai kiberbiztonsági tanúsítási rendszer meghatározásra került.
-
 ### A tevékenység elkülönítése
 
-87. § (1) Ha az elektronikus hírközlési szolgáltató más iparágban kizárólagos vagy különleges jogok alapján Magyarországon vagy más tagállamban tevékenységet végez, és az Európai Unió területén nyújtott elektronikus hírközlési szolgáltatásból származó éves bevétele meghaladja a 10 milliárd forintot, akkor könyveiben és nyilvántartásaiban köteles az elektronikus hírközlési szolgáltatás nyújtásával kapcsolatos költségeit, ráfordításait és bevételeit, valamint befektetett eszközeit – azok számításának alapjával és a felosztási módszerekkel együtt – a más iparágban keletkezett költségeitől, ráfordításaitól és bevételeitől elkülönítetten kimutatni. Amennyiben az elkülönített számviteli nyilvántartás vezetésére kötelezett szolgáltató nem tartozik a számviteli törvény hatálya alá, köteles az elkülönített számviteli nyilvántartás könyvvizsgálatát elvégezni.
+87. § (1) A más iparágban kizárólagos vagy különleges jogok alapján tevékenységet végző elektronikus hírközlési szolgáltató köteles az elektronikus hírközlési szolgáltatás nyújtásával kapcsolatos költségeit, ráfordításait és bevételeit könyveiben és nyilvántartásaiban elkülönítetten kimutatni oly módon, mintha ezen tevékenységeket elkülönült gazdálkodó szervezet végezte volna.
 
 (2) Az egyetemes szolgáltató köteles az egyetemes szolgáltatásokhoz kapcsolódó bevételeit, költségeit és ráfordításait, valamint eszközeit és forrásait számviteli kimutatásaiban elkülönítetten nyilvántartani.
 
-### Az elektronikus hírközlési szolgáltató beszámolási kötelezettsége
-
-87/A. § (1) A számviteli törvény hatálya alá nem tartozó vagy éves beszámoló készítésére jogszabály alapján nem köteles elektronikus hírközlési szolgáltató – a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló
-
-2004. évi XXXIV. törvény alapján mikro-, kis- vagy középvállalkozásnak minősülő szolgáltató kivételével – a számviteli törvényben meghatározott egyszerűsített éves beszámolót köteles készíteni.
-
-(2) Az (1) bekezdésben meghatározott kötelezettség alapján elkészített beszámoló könyvvizsgálatát a számviteli törvényben meghatározottak szerint kell elvégezni.
-
-(3) Az elektronikus hírközlési szolgáltató az (1) bekezdés alapján elkészített és a (2) bekezdés szerint auditált beszámolóját az internetes honlapján köteles közzétenni.
-
 ### A hálózati szerződések köre, közös szabályai
 
-88. § (1) Az elektronikus hírközlési szolgáltatók az elektronikus hírközlésre vonatkozó szabályban meghatározott feltételekkel köthetnek egymással vagy más vállalkozással hálózati szerződést.
+88. § (1) Az elektronikus hírközlési szolgáltatók az elektronikus hírközlésre vonatkozó szabályban meghatározott feltételekkel köthetnek hálózati szerződést.
 
-(2) A hálózati szerződéseket tartós adathordozón kell átadni, azokban a feleknek – a (2a) bekezdésben foglalt esetet ide nem értve – rendelkezniük kell:
+(2) A hálózati szerződéseket írásba kell foglalni, azokban a feleknek rendelkezniük kell:
 
 - a) a szerződés tárgyáról, céljáról;
 - b) a nyújtott szolgáltatásról, annak minőségéről és a vállalt teljesítési határidőkről;
 - c) a fizetendő ellenértékről;
-- d)
-- e)
+- d) a hálózatok működőképességének fenntartásáról;
+- e) a szolgáltatások együttműködéséről;
 - f) a szerződés megszűnésének eseteiről, a határozott idejű szerződés lejártának idejéről, illetve a határozatlan idejű szerződés felmondási idejéről;
 - g) a szolgáltatás nyújtása során az adatvédelem követelményei teljesítésének módjáról;
 - h) a szerződésszegés esetén alkalmazandó jogkövetkezményekről;
-- i)
+- i) a harmadik személyeknek nyújtott szolgáltatásokért fennálló felelősség viselésének módjáról és mértékéről.
 
-(2a) Amennyiben az Elnök a 62–66. § vagy a XI. fejezet szerinti eljárásaiban hozzáféréssel vagy összekapcsolással kapcsolatos kötelezettséget ír elő, a (2) bekezdéstől eltérően a hálózati szerződések tartalmi elemeit az Elnök határozatában határozza meg.
+(3) Az elektronikus hírközlési tevékenységet végző és az általa irányított, őt irányító vagy vele közös irányítás alatt álló más szolgáltatóval e törvény hatálybalépését követően létrejött hálózati szerződést a feleknek a szerződés megkötésétől számított 15 napon belül – tájékoztatás céljából – be kell nyújtaniuk a hatósághoz.
 
-(3) Az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 3. cikk (2) bekezdése szerinti hozzáférésre vonatkozóan létrejött hálózati szerződést a nyilvános elektronikus hírközlő hálózat üzemeltetőjének a szerződés megkötésétől számított 15 napon belül – tájékoztatás céljából – be kell nyújtania a Hatósághoz.
+(4) A felek – a szerződés teljesítése során – kötelesek egymást megfelelően tájékoztatni, beleértve a szerződés lényeges tartalmát érintő, 6 hónapon belül tervezett változtatásokat is.
 
-(4)
-
-(5) A hálózati szerződés semmissége, illetve a hálózati szerződés vonatkozásában fennálló felelősség tekintetében, amennyiben ezen törvény ellentétes rendelkezést nem tartalmaz, a Polgári törvénykönyvről szóló törvény (a továbbiakban: Ptk. megfelelő rendelkezéseit kell alkalmazni.
+(5) A hálózati szerződés semmissége, illetve a hálózati szerződés vonatkozásában fennálló felelősség tekintetében, amennyiben ezen törvény ellentétes rendelkezést nem tartalmaz, a Ptk. megfelelő rendelkezéseit kell alkalmazni.
 
 (6) A hálózati szerződések késedelmes vagy hibás teljesítése esetében az elektronikus hírközlési szolgáltató a felhasználó vagyonában okozott kárt köteles megtéríteni, az elmaradt haszon kivételével.
 
@@ -1741,40 +1281,24 @@ nem kell alkalmazni.
 
 89. § (1) A multiplex technikai szolgáltató a szolgáltatást ésszerű és tisztességes feltételek mellett, az egyenlő elbánás elvének megfelelően köteles biztosítani.
 
-(2) Amennyiben a felek közt a szerződés az ajánlattételtől számított harminc napon belül nem jön létre, a jogvita rendezése érdekében bármely fél az Eht. 57–61. §-a szerinti eljárást kezdeményezheti. A Hatóság a szerződés tartalmát – a piaci viszonyoknak megfelelően – megállapíthatja.
+(2) Amennyiben a felek közt a szerződés az ajánlattételtől számított harminc napon belül nem jön létre, a jogvita rendezése érdekében bármely fél az Eht. 49–51. §-a szerinti eljárást kezdeményezheti. A hatóság a szerződés tartalmát – a piaci viszonyoknak megfelelően – megállapíthatja.
 
-### Helymegosztás, valamint a hálózati elemek és a kapcsolódó eszközök megosztása
+### Közös eszközhasználat
 
-90. § (1) Az elektronikus hírközlési építmény, tulajdon- vagy használati jogával rendelkező szolgáltatót a hálózati elemek és a kapcsolódó eszközök megosztásának biztosítására, illetve amennyiben a megosztással érintett ingatlan az elektronikus hírközlési szolgáltató tulajdonában van, vagy annak használati jogával a szolgáltató rendelkezik, akkor a hírközlési építmény, hálózati elemek és kapcsolódó eszközök elhelyezésére szolgáló ingatlan biztosítására is – beleértve az ehhez szükséges fizikai helymegosztást is – szerződéskötési kötelezettség terheli, ha azt olyan szolgáltató kéri, amelynek a szolgáltatása nyújtásához környezetvédelmi, közegészségügyi, közbiztonsági, építésügyi, település- vagy területrendezési okok miatt megfelelő más ingatlanhoz vagy hálózati elemekhez, eszközhöz való hozzáférésre nincs lehetősége. A szerződéskötési kötelezettség csak azon meghatározott területeken terheli a szolgáltatót, amelyek esetében a helymegosztás vagy a hálózati elemek és a kapcsolódó eszközök megosztása az e bekezdésben meghatározott okokból szükséges.
+90. § (1) Az elektronikus hírközlési építmény tulajdon-, illetve használati jogával rendelkező szolgáltatót közös eszközhasználat biztosítására – beleértve az ehhez szükséges fizikai helymegosztást is – szerződéskötési kötelezettség terheli, ha azt olyan szolgáltató kéri, amelynek a szolgáltatása nyújtásához környezetvédelmi, közegészségügyi, közbiztonsági vagy építésügyi okok miatt megfelelő más eszközhöz való hozzáférésre nincs lehetősége. Nem vonatkozik ez a kötelezettség az ügyfélforgalom számára nyitva álló építmények ezen funkciót betöltő részére.
 
-(2) A kötelezettség kiterjed különösen az ingatlanra, az építményre, az építmény bejáratára, az építmény kábelezésére, a tartóoszlopokra, az antennákra, a tornyokra és egyéb támasztószerkezetekre, az alépítményekre, kábelcsatornákra ellenőrzőaknákra és szekrényekre. Nem vonatkozik ez a kötelezettség az ügyfélforgalom számára nyitva álló építmények e funkciót betöltő részére.
+(2) Nem terheli szerződéskötési kötelezettség az elektronikus hírközlési építmény tulajdon-, illetve használati jogával rendelkező szolgáltatót, ha a következő körülmények bármelyike fennáll:
 
-(3) A jogosult szolgáltató kérheti a vezetékek építményeken belüli vagy – amennyiben azok az építményen kívül találhatók – az első gyűjtő- vagy elosztási pontig tartó megosztását amennyiben ezen infrastruktúra megkettőzése gazdaságtalan vagy fizikailag kivitelezhetetlen lenne (a továbbiakban: közös eszközhasználat).
-
-(4) Nem terheli szerződéskötési kötelezettség az elektronikus hírközlési építmény tulajdon-, vagy használati jogával rendelkező szolgáltatót, ha a következő körülmények bármelyike fennáll:
-
-- a) az ajánlatban foglaltak teljesítése a biztonságos, és rendeltetésszerű használatot aránytalanul akadályozza;
-- b) az ingatlan használatához, a helymegosztáshoz, valamint a hálózati elemek és a kapcsolódó eszközök megosztásához és üzemeltetéséhez szükséges igazolt költségeket az ajánlattevő nem vállalja;
-- c) az ingatlan használata, a helymegosztás, valamint a hálózati elemek és a kapcsolódó eszközök megosztása más jogviszonyból eredő, méltányolható magánérdeket aránytalanul súlyosan sért;
+- a) az ajánlatban foglaltak teljesítése a biztonságos, illetőleg rendeltetésszerű használatot akadályozza;
+- b) a közös eszközhasználat létesítéséhez és üzemeltetéséhez szükséges igazolt költségeket az ajánlattevő nem vállalja;
+- c) a közös eszközhasználat létesítése más jogviszonyból eredő, méltányolható magánérdeket súlyosan sért;
 - d) a közös eszközhasználat nyújtására elektronikus hírközlési építmény, illetve elektronikus hírközlő eszközeinek szokásos működtetési módja, illetve az ehhez szükséges fizikai helymegosztás megvalósíthatatlansága miatt nem képes.
 
-(5) Amennyiben az (1) bekezdés szerinti helymegosztás, valamint a hálózati elemek és a kapcsolódó eszközök megosztása érdekében az elektronikus hírközlési építményt át kell alakítani, az átalakítás költségei – az indokolt felújítást szolgáló igazolt költségek kivételével – az új használót terhelik. A helymegosztás, valamint a hálózati elemek és a kapcsolódó eszközök megosztásának – adott esetben a kockázat figyelembevételével módosított – költségeit a felek érdekeltségük arányában viselik.
+(3) Amennyiben az (1) bekezdés szerinti közös eszközhasználathoz az elektronikus hírközlési építményt át kell alakítani, az átalakítás költségei – az indokolt felújítást szolgáló igazolt költségek kivételével – az új használót terhelik. A közös eszközhasználat költségeit a felek a használat arányában viselik.
 
-(6) Ha az elektronikus hírközlési építmény tulajdon- vagy használati jogával rendelkező szolgáltató a (4) bekezdés d) pontjában meghatározott mentesülési okból a szerződés megkötésére nem volna köteles, a helymegosztásra, valamint a hálózati elemek és a kapcsolódó eszközök megosztására ajánlatot tevő szolgáltató kezdeményezheti az elektronikus hírközlési építmény közös használatra alkalmassá tételét. A közös használat érdekében ráfordított, adott esetben a kockázat figyelembevételével módosított, indokolt költségeik viseléséről a felek érdekeltségük arányában állapodnak meg.
+(4) Ha az elektronikus hírközlési építmény tulajdon-, illetve használati jogával rendelkező szolgáltató a (2) bekezdés d) pontjában meghatározott mentesülési okból a szerződés megkötésére nem volna köteles, a közös eszközhasználatra ajánlatot tevő szolgáltató kezdeményezheti az elektronikus hírközlési építmény közös használatra alkalmassá tételét. A közös eszközhasználat érdekében ráfordított, indokolt költségeik viseléséről a felek érdekeltségük arányában állapodnak meg.
 
-(6a) Amennyiben a szerződéskötésre kötelezett fél olyan magatartást tanúsít, amely a felek közti egyeztetés elhúzódását eredményezi, a megkereső fél a felek közti egyeztetés előmozdítása, a szerződés megkötése érdekében általános hatósági felügyeleti eljárás iránti kérelmet nyújthat be a Hivatalhoz, amennyiben a kérelem tárgyával összefüggésben jogvitás eljárás nem indult.
-
-(6b) Abban az esetben, ha a szerződéskötésre kötelezett fél magatartása a felek közti egyeztetés elhúzódását eredményezi, a Hivatal bírságot szab ki, amelynek mértéke a jogsértő nettó árbevételének legfeljebb 0,05%-a, de legalább százezer forint. Árbevételi adatok vagy az árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, legfeljebb százmillió forint. E § alkalmazása szempontjából nettó árbevétel alatt az eljárás résztvevőjének számviteli törvény szerinti nettó árbevételét kell érteni.
-
-(6c) A bírság mértékének megállapítása során a 48. § (2) bekezdésében foglaltak alkalmazása mellett a Hivatal mérlegeli az ügy összes körülményét, így különösen a jogsértő árbevételét, a jogsértéssel okozott hátrányok súlyát, a jogsértés ismételtségét.
-
-(7) Ha a felek az ingatlan használatával, a helymegosztással, valamint a hálózati elemek és a kapcsolódó eszközök megosztásával kapcsolatos ajánlatról, a költségekről, a fenntartás terheiről – az ajánlatot követő 45 napon belül – nem tudnak megállapodni, bármelyik fél a Hatósághoz fordulhat. A Hatóság a jogviták rendezésére irányadó eljárás szabályai szerint, a jelen §-ban foglaltaknak megfelelően állapítja meg az ingatlan használatára, a helymegosztásra, valamint a hálózati elemek és a kapcsolódó eszközök megosztására vonatkozó szabályokat – beleértve az építési munkák összehangolásával kapcsolatos szabályokat is.
-
-(7a) Amennyiben a jogvitás eljárás során feltárt tényállás alapján a Hatóság megállapítja a (6a) bekezdésben foglalt jogsértést és ugyanezen jogsértés tárgyában a jogvitás eljárás megindítását megelőzően nem indult általános hatósági felügyeleti eljárás, a Hatóság a jogvitás eljárást érdemben lezáró döntésében a (6b) és (6c) bekezdésében meghatározott bírság kiszabására is jogosult.
-
-(8) A Hatóság az ingatlan használata, a helymegosztás, valamint a hálózati elemek és a kapcsolódó eszközök megosztása és közös eszközhasználat érdekében az ingatlan, illetve elektronikus hírközlési építmény tulajdon- vagy használati jogával rendelkező szolgáltatót az érintett ingatlanok, létesítmények tekintetében az ingatlan, létesítmény jellegére, hozzáférhetőségére, földrajzi elhelyezkedésére vonatkozóan adatszolgáltatásra kötelezheti. A Hatóság által e körben szolgáltatni kért adat nem minősíthető üzleti titokká. A Hatóság az adatok beszerzése érdekében más közigazgatási szervet is megkereshet.
-
-(9) A Hatóság biztosítja az érdekelt szolgáltató indokolt kérelmére a (8) bekezdés szerinti adatokba történő betekintést.
+(5) Ha a felek a közös eszközhasználattal kapcsolatos ajánlatról, költségeiről, fenntartásának terheiről nem tudnak megállapodni, a jogviták rendezésére irányadó eljárás szabályai szerint kell eljárni.
 
 ### Egységes azonosítóhasználat
 
@@ -1784,489 +1308,114 @@ nem kell alkalmazni.
 
 (3) A (2) bekezdésben meghatározott együttműködési kötelezettséggel kapcsolatban felmerült vitás kérdésekben a jogviták rendezésére irányadó szabályok szerint kell eljárni.
 
-### Fellépés az azonosítók visszaélésszerű felhasználásával szemben
+### Együttműködés titkos információgyűjtés, titkos adatszerzés érdekében, illetőleg minősített időszakban és honvédelmi érdekből
 
-91/A. § (1) Azonosító felhasználásával elkövetett csalás, visszaélés észlelése esetén bárki a Hivatalhoz fordulhat. A Hivatal a további visszaélés megelőzése érdekében az azonosító használatát, illetve az azonosító elérésének biztosítását megtiltja, valamint elrendeli az azonosító eléréséért fizetendő díj visszatartását.
+92. § (1) Az elektronikus hírközlési szolgáltató köteles együttműködni a titkos információgyűjtésre, illetve titkos adatszerzésre külön törvényben felhatalmazott szervezetekkel. Az elektronikus hírközlési szolgáltató az elektronikus hírközlési tevékenységét olyan módon köteles folytatni, amely nem zárja ki, nem lehetetleníti el a titkos információgyűjtést, illetve a titkos adatszerzést.
 
-(2) Az (1) bekezdés szerinti ügyben a Hivatal kérelemre és hivatalból is eljárhat.
+(2) Amennyiben a Nemzetbiztonsági Szakszolgálat írásban kezdeményezi, az elektronikus hírközlési szolgáltató a külön jogszabályban meghatározott időpontig köteles megállapodni a Nemzetbiztonsági Szakszolgálattal a titkos információgyűjtés, illetve a titkos adatszerzés eszközei és módszerei alkalmazásának feltételeiről.
 
-(3) Ha a Hivatal véglegessé vált döntésében az azonosító eléréséért fizetendő díj visszatartását rendelte el,
+(3) Az elektronikus hírközlési szolgáltató köteles minden olyan – a 76. § (1) és (6) bekezdésében foglalt bejelentési kötelezettség hatálya alá nem tartozó – tevékenységéről, szolgáltatásáról, termékéről, illetve annak változásairól közvetlenül tájékoztatni a Nemzetbiztonsági Szakszolgálatot, amely érinti, vagy rendeltetésszerű működésében befolyásolja a titkos információgyűjtés, illetve titkos adatszerzés érdekében az elektronikus hírközlési szolgáltató által biztosított vagy biztosítandó feltételeket, eszközöket, módszereket, eljárásokat.
 
-- a) a határozatban megjelölt időponttól kezdve a díj meg nem fizetése előfizető esetében nem minősül az előfizetői szerződés megszegésének, szolgáltató esetén nem minősül a hálózati szerződés megszegésének, a díj az előfizetőtől, illetve a kötelezett szolgáltatótól sem jogvitás eljárásban, sem más módon nem követelhető, továbbá
-- b) a Hivatal elrendelheti a határozatában megjelölt időpontig terjedően az azonosító hívásáért felszámított díjak visszatérítését.
-
-91/B. § (1) A nyilvánosan elérhető telefonszolgáltatást nyújtó szolgáltató a hálózat és a szolgáltatás biztonságának növelése érdekében, az azonosító felhasználásával elkövetett egyes visszaélések elleni hatékony fellépés céljából, a hálózatába nemzetközi irányból érkező hívás irányítása – ideértve a végződtetést is – előtt az Elnök rendeletében meghatározott módon azonosítóval való visszaélés megelőzését szolgáló vizsgálatot végez. A hívást a szolgáltató abban az esetben irányíthatja tovább, ha az Elnök rendeletében foglalt feltételek megvalósultak.
-
-(2) Az (1) bekezdés szerinti kötelezettség teljesítése érdekében a nyilvánosan elérhető telefonszolgáltatást nyújtó szolgáltatók kötelesek a Hatósággal és egymással az Elnök rendeletében meghatározott módon együttműködni.
-
-(3) A (2) bekezdés szerint együttműködésre kötelezett szolgáltató az (1) bekezdés szerinti vizsgálat elvégzése, az ezzel kapcsolatos előfizetői panaszokkal és hibabejelentésekkel összefüggő feladatok ellátása céljából kezeli a 157. § (2) bekezdés a)–c) és e)–f) pontja szerinti adatok közül azokat, amelyek a visszaélés megelőzését szolgáló vizsgálatok elvégzéséhez, a panaszok és a hibabejelentések kezeléséhez feltétlenül szükségesek. Az adatok kezelésére az (1) bekezdés szerinti vizsgálat lefolytatása céljából a vizsgálathoz szükséges mértékben és ideig kerülhet sor.
-
-(4) A Hatóság ajánlást adhat ki a (2) bekezdés szerinti együttműködési kötelezettség teljesítésével, valamint az (1) bekezdés szerinti vizsgálattal összefüggő intézkedések részletes műszaki tartalmáról, amelyet a honlapján közzétesz.
-
-(5) Ha a szolgáltató az (1) és (2) bekezdés szerinti kötelezettségeinek nem tesz eleget, a Hivatal ideiglenes biztosítási intézkedésként megtilthatja a szolgáltató hálózatába nemzetközi irányból érkező hívások fogadását és irányítását.
-
-### Együttműködés titkos információgyűjtés, leplezett eszközök alkalmazása érdekében, illetve különleges jogrendben és honvédelmi, valamint védelmi és biztonsági érdekből
-
-92. § (1) Az elektronikus hírközlési szolgáltató köteles együttműködni a titkos információgyűjtés folytatására, illetve leplezett eszközök alkalmazására törvényben feljogosított szervezetekkel. Az elektronikus hírközlési szolgáltató az elektronikus hírközlési tevékenységét olyan módon köteles folytatni, amely nem zárja ki, nem lehetetleníti el a titkos információgyűjtést, illetve a leplezett eszközök alkalmazását.
-
-(2) Amennyiben a Nemzetbiztonsági Szakszolgálat írásban kezdeményezi, az elektronikus hírközlési szolgáltató a külön jogszabályban meghatározott időpontig köteles megállapodni a Nemzetbiztonsági Szakszolgálattal a titkos információgyűjtés, illetve a leplezett eszközök alkalmazásának feltételeiről.
-
-(3) Az elektronikus hírközlési szolgáltató köteles minden olyan – a 76. § (1) és (6) bekezdésében foglalt bejelentési kötelezettség hatálya alá nem tartozó – tevékenységéről, szolgáltatásáról, termékéről, illetve annak változásairól közvetlenül tájékoztatni a Nemzetbiztonsági Szakszolgálatot, amely érinti, vagy rendeltetésszerű működésében befolyásolja a titkos információgyűjtés, illetve leplezett eszközök alkalmazása érdekében az elektronikus hírközlési szolgáltató által biztosított vagy biztosítandó feltételeket, eszközöket, módszereket, eljárásokat.
-
-(4) Az elektronikus hírközlési szolgáltató a szolgáltatás megkezdésével egyidejűleg az általa használt, működtetett berendezések, helyiségek és az együttműködő személyek tekintetében – külön jogszabályban meghatározottak szerint – köteles biztosítani az elektronikus hírközlő hálózatban továbbított küldemények, közlések, továbbá a szolgáltató által kezelt adatok titkos információgyűjtéssel, illetve leplezett eszközök alkalmazásával történő megismeréséhez szükséges eszközök és módszerek alkalmazási feltételeit. A szolgáltató az előzőeken túl a Nemzetbiztonsági Szakszolgálat kérésére, a szolgáltatás műszaki jellemzői alapján a szükséges mértékben köteles biztosítani a bevezetett szolgáltatással kapcsolatban a titkos információgyűjtéshez, illetve a leplezett eszközök alkalmazásához szükséges eszközöket a kilépési pontig.
+(4) Az elektronikus hírközlési szolgáltató a szolgáltatás megkezdésével egyidejűleg az általa használt, működtetett berendezések, helyiségek és az együttműködő személyek tekintetében – külön jogszabályban meghatározottak szerint – köteles biztosítani az elektronikus hírközlő hálózatban továbbított küldemények, közlések, továbbá a szolgáltató által kezelt adatok titkos információgyűjtéssel, illetve titkos adatszerzéssel történő megismeréséhez szükséges eszközök és módszerek alkalmazási feltételeit. A szolgáltató az előzőeken túl a Nemzetbiztonsági Szakszolgálat kérésére, a szolgáltatás műszaki jellemzői alapján a szükséges mértékben köteles biztosítani a bevezetett szolgáltatással kapcsolatban a titkos információgyűjtés, illetve a titkos adatszerzés eszközeit a kilépési pontig.
 
 (5) Az elektronikus hírközlési szolgáltató köteles az elektronikus hírközlési szolgáltatáshoz a (4) bekezdésben meghatározott igényeknek megfelelő műszaki rendszert – így különösen alapkiépítésű monitoring alrendszert – létesíteni és ennek elérhetőségét hálózatában a kilépési pontig biztosítani a Nemzetbiztonsági Szakszolgálat részére a műszaki alapkövetelményekről történő írásbeli tudomásszerzéstől számított hat hónapon belül. Az alapkiépítésű monitoring alrendszer valamennyi költségét a szolgáltató viseli.
 
-(6) A titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervezetek részére az elektronikus hírközlési szolgáltató egyedi kérelemre szolgáltat adatot, közvetlen elektronikus adatkapcsolat útján, a Nemzetbiztonsági Szakszolgálat által meghatározott műszaki alapkövetelményeknek megfelelő, az elektronikus hírközlési szolgáltató által kiépített felületen. Amennyiben az elektronikus adatkapcsolat útján az igényelt adat nem hozzáférhető, az adatszolgáltatást az elektronikus hírközlési szolgáltató írásban vagy – erre vonatkozó igény esetén – elektronikus adathordozón teljesíti. Az elektronikus adatkapcsolat kiépítését nem igénylő titkos információgyűjtés folytatására, illetve leplezett eszközök alkalmazására feljogosított szervezetek számára az adatszolgáltatást az elektronikus hírközlési szolgáltató írásban vagy elektronikus adathordozón teljesíti. Az adatszolgáltatási felület valamennyi költségét az elektronikus hírközlési szolgáltató viseli, az adatszolgáltatást az elektronikus hírközlési szolgáltató térítésmentesen teljesíti.
+(6) A titkos információgyűjtésre, illetve a titkos adatszerzésre felhatalmazott szervezetek részére az elektronikus hírközlési szolgáltató egyedi kérelemre szolgáltat adatot, közvetlen elektronikus adatkapcsolat útján, a Nemzetbiztonsági Szakszolgálat által meghatározott műszaki alapkövetelményeknek megfelelő, az elektronikus hírközlési szolgáltató által kiépített felületen. Amennyiben az elektronikus adatkapcsolat útján az igényelt adat nem hozzáférhető, az adatszolgáltatást az elektronikus hírközlési szolgáltató írásban vagy – erre vonatkozó igény esetén – elektronikus adathordozón teljesíti. Az elektronikus adatkapcsolat kiépítését nem igénylő titkos információgyűjtésre felhatalmazott szervezetek számára az adatszolgáltatást az elektronikus hírközlési szolgáltató írásban vagy elektronikus adathordozón teljesíti. Az adatszolgáltatási felület valamennyi költségét az elektronikus hírközlési szolgáltató viseli, az adatszolgáltatást az elektronikus hírközlési szolgáltató térítésmentesen teljesíti.
 
-(6a) A titkos információgyűjtés folytatására feljogosított szerv az adatszolgáltatás teljesítésére határidőt jelölhet meg. Az adatszolgáltatás nem tagadható meg. Az így kapott adat csak a megjelölt célra használható fel.
+(7) Az elektronikus hírközlési szolgáltatónak – jogszabályban meghatározott esetekben – együtt kell működnie a zártcélú hálózatok üzemeltetőivel.
 
-(7) Az elektronikus hírközlési szolgáltatónak – jogszabályban meghatározott esetekben – együtt kell működnie a kormányzati célú hálózat működtetőjével.
+(8) Műszaki, forgalmi, katasztrófa- vagy egyéb veszély miatt keletkező üzemzavar elhárításához a szolgáltató köteles külön jogszabályban meghatározott tartalmú, folyamatosan felülvizsgált és karbantartott felkészülési, zavarelhárítási és katasztrófaelhárítási tervekkel és a felkészülésre vonatkozó jogszabályokból következő feladatok ellátásához szükséges mértékű és összetételű tartalékokkal rendelkezni.
 
-(8) Az Elnök rendeletében meghatározott szolgáltató köteles az ott meghatározott tartalmú, folyamatosan felülvizsgált és karbantartott kockázatelemzéssel rendelkezni, és ennek alapján az azonosított kockázatokkal arányos védelmi intézkedéseket alkalmazni. Amennyiben a szolgáltatónál sor került a kritikus szervezetek ellenálló képességéről szóló törvény szerinti kritikus szervezet, kritikus infrastruktúra, illetve a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti ország védelme és biztonsága szempontjából jelentős szervezet, ország védelme és biztonsága szempontjából jelentős infrastruktúra kijelölésére, akkor az ennek alapjául szolgáló kockázatértékelés részét képezi, a védelmi intézkedéseket pedig az ellenálló képességi terv figyelembevételével kell meghatározni. A szolgáltató köteles továbbá az üzemzavar és a katasztrófahelyzet kezelésére jogszabályban meghatározott tartalmú zavarelhárítási, katasztrófaelhárítási és üzletmenet-folytonossági tervekkel rendelkezni.
+(9) Minősített időszak esetében alkalmazandó intézkedési terv kidolgozása és végrehajtása érdekében az elektronikus hírközlési szolgáltatóknak külön jogszabályban meghatározott módon együtt kell működniük egymással, illetve az illetékes szervezetekkel.
 
-(8a) A szolgáltató a különleges jogrend, összehangolt védelmi tevékenység idejére, váratlan támadás esetére való felkészülésre vonatkozó jogszabályokban meghatározott feladatok ellátására felkészülési tervet készít, valamint az ilyen feladatok ellátásához szükséges mértékű és összetételű tartalékot képez.
-
-(9) Különleges jogrendben, összehangolt védelmi tevékenység idején, váratlan támadás esetére alkalmazandó intézkedési terv kidolgozása és végrehajtása érdekében az elektronikus hírközlési szolgáltatóknak jogszabályban meghatározott módon együtt kell működniük egymással, illetve a feladat- és hatáskörrel rendelkező állami szervekkel.
-
-(10) Az elektronikus hírközlési szolgáltató a (9) bekezdés szerinti intézkedési terv alapján tett intézkedések, illetve a honvédelmi, védelmi és biztonsági érdekek érvényesítésére vonatkozó jogszabályok szerint általa nyújtott elektronikus hírközlési szolgáltatások tényleges költségeinek megtérítésére jogosult.
-
-(11) Az elektronikus hírközlési szolgáltató köteles együttműködni a Magyar Honvédség katonai kibertér műveleti erőivel a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 48. alcímében meghatározott feladataik végrehajtása céljából.
-
-(12) Az az elektronikus hírközlési szolgáltató, amely a Magyar Honvédség katonai kibertér műveleti erői részére a (11) bekezdés szerinti együttműködés keretében valamely személyes adatra is kiterjedő adatszolgáltatást teljesített, illetve ilyen adathoz hozzáférést biztosított, a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) szerinti érintetti jogok gyakorlása során az ezen műveletek tényéről, tartalmáról, a megtett intézkedésekről szóló tájékoztatást az elérni kívánt céllal arányosan késlelteti, a tájékoztatás tartalmát korlátozza vagy a tájékoztatást mellőzi, ha ezen intézkedés honvédelmi érdekből elengedhetetlenül szükséges. Az elektronikus hírközlési szolgáltató az érintetti jogok gyakorlása esetén haladéktalanul megkeresi a Magyar Honvédséget, amely 15 napon belül nyilatkozik az e korlátozás szükségességéről és annak terjedelméről, amelytől az elektronikus hírközlési szolgáltató nem térhet el.
-
-### Együttműködés elektronikus adat ideiglenes és végleges hozzáférhetetlenné tételében
-
-92/A. § (1) Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben meghatározott egyszerű adatátvitelt és hozzáférést biztosító közvetítő szolgáltatást végző elektronikus hírközlési szolgáltató (a továbbiakban: hozzáférést biztosító elektronikus hírközlési szolgáltató) a Hatóság értesítését követően köteles haladéktalanul, de legkésőbb egy munkanapon belül a büntetőügyben eljáró bíróság vagy a külön törvényben meghatározott hatóság által, az elektronikus hírközlő hálózat útján közzétett adathoz való hozzáférés megakadályozásával elrendelt ideiglenes vagy végleges hozzáférhetetlenné tételt teljesíteni.
-
-(2) Ha a Hatóság azt észleli, hogy a hozzáférést biztosító elektronikus hírközlési szolgáltató nem teljesíti az (1) bekezdés szerinti kötelezettségét, annak haladéktalan teljesítésére hívja fel. Ha a hozzáférést biztosító elektronikus hírközlési szolgáltató a kötelezettségének a felhívás ellenére nem tesz eleget, a Hatóság ezt jelzi az elrendelő bíróságnak vagy a külön törvényben meghatározott, elrendelő hatóságnak.
-
-(3) A bíróság a hozzáférést biztosító elektronikus hírközlési szolgáltatóval szemben a büntetőeljárásról szóló törvényben meghatározott mértékű rendbírságot szabhat ki. A külön törvényben meghatározott hatóság a hozzáférést biztosító elektronikus hírközlési szolgáltatóval szemben a külön törvényben meghatározott mértékű bírságot szabhat ki.
-
-(4) A hozzáférést biztosító elektronikus hírközlési szolgáltató köteles az elrendelő bíróság vagy a külön törvényben meghatározott elrendelő hatóság megnevezésével és az elrendelő határozat, végzés vagy az Szjtv. 36/K. § (1) bekezdése vagy az Fgytv. 48/E. §-a szerinti értesítés számának a megjelölésével tájékoztatni a felhasználókat a tartalomhoz való hozzáférés ideiglenes vagy végleges megakadályozásának a jogalapjáról.
-
-(5) A hozzáférést biztosító elektronikus hírközlési szolgáltató köteles a bíróság vagy a külön törvényben meghatározott hatóság által a szolgáltatás Magyarországon történő megkezdésének időpontja előtt elrendelt elektronikus adathoz való hozzáférés ideiglenes és végleges megakadályozását a szolgáltatás megkezdésétől a 159/C. § (1) bekezdése szerint teljesíteni.
-
-### Együttműködés a nemzeti kiberbiztonsági incidenskezelő központtal
-
-92/B. § (1) Az elektronikus hírközlési szolgáltató köteles együttműködni a nemzeti kiberbiztonsági incidenskezelő központtal a Magyarország kiberbiztonságáról szóló törvényben foglalt feladatai végrehajtása érdekében.
-
-(2) Az elektronikus hírközlési szolgáltató köteles értesíteni a nemzeti kiberbiztonsági incidenskezelő központot az általa üzemeltetett elektronikus hírközlő hálózatokat, illetve elektronikus hírközlési szolgáltatásokat érintő kiberbiztonsági incidensről, tudomására jutott kiberbiztonsági incidensközeli helyzetről, valamint fenyegetettségről, amely az elektronikus hírközlési hálózatban vagy az elektronikus hírközlési szolgáltatásban kedvezőtlen változást vagy egy előzőleg ismeretlen helyzetet idéz elő, vagy amelynek hatására az elektronikus hírközlési hálózatban vagy az elektronikus hírközlési szolgáltatásban hordozott információ bizalmassága, sértetlensége, funkcionalitása vagy rendelkezésre állása elvész, illetve megsérül.
-
-(3) Az elektronikus hírközlési szolgáltató a nemzeti kiberbiztonsági incidenskezelő központ tájékoztatása alapján köteles értesíteni azon előfizetőjét vagy felhasználóját, amelynek elektronikus hírközlő végberendezése vagy információs rendszere a kiberbiztonsági incidens bekövetkezésében érintett vagy azt okozta, vagy az által tudomása szerint fenyegetett.
-
-(4) Az az adatkezelő szerv, amely a nemzeti kiberbiztonsági incidenskezelő központ részére kiberbiztonsági érdekből adatszolgáltatást teljesített, adatbetekintést biztosított, az információs önrendelkezési jogról és információszabadságról szóló 2011. évi CXII. törvény 16. § (3) bekezdés a), b) d)–f) pontjában és 17. § (3) bekezdésében biztosított feltételek fennállása esetén ezek tényéről, tartalmáról, a megtett intézkedésekről az érintettet, illetve harmadik felet nem tájékoztathat.
-
-### Együttműködés a hivatásos katasztrófavédelmi szervvel
-
-92/C. § (1) A mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltató köteles együttműködni a hivatásos katasztrófavédelmi szerv központi szervével a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvényben foglalt, a lakosság riasztásának és veszélyhelyzeti tájékoztatásának céljából.
-
-(2) A mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltató köteles az elektronikus hírközlési szolgáltatáshoz az (1) bekezdésben szereplő feladat végrehajtásához megfelelő műszaki rendszert létesíteni, és ennek elérhetőségét hálózatában az összekapcsolási pontig biztosítani a hivatásos katasztrófavédelmi szerv központi szerve részére.
-
-(3) A mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltató köteles a (2) bekezdésben meghatározott műszaki rendszeren ingyenesen biztosítani a lakosság riasztását és veszélyhelyzeti tájékoztatását.
-
-### Együttműködési megállapodás megkötése
-
-92/D. § A törvényben meghatározott feladatok hatékony teljesítése érdekében az elektronikus hírközlési szolgáltatók egymás között, az ügyészséggel, illetve a nyomozó hatósággal együttműködési megállapodást köthetnek.
+(10) Az elektronikus hírközlési szolgáltató minősített időszak idején az intézkedési terv alapján tett intézkedések, illetve a honvédelmi érdekek érvényesítésére vonatkozó jogszabályok szerint általa nyújtott elektronikus hírközlési szolgáltatások tényleges költségeinek megtérítésére jogosult.
 
 ### Űrszegmens használat
 
 93. § Az űrszegmens-szolgáltató jogosult annak ellenőrzésére, hogy a szolgáltató űrszegmensével kapcsolatban felhasznált műholdas földi állomás megfelel-e az adott szolgáltató által használt űrszegmens-kapacitásra vonatkozóan közzétett igénybevételi feltételeknek.
 
-### A fizikai infrastruktúrával kapcsolatos átláthatóság biztosítása
-
-93/A. § (1) A nyilvános elektronikus hírközlő hálózat üzemeltetője az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 4. cikk (1) és (2) bekezdése szerinti adatokhoz kormányrendeletben meghatározott feltételekkel férhet hozzá az egyablakos információs pontból.
-
-(2) A hálózatüzemeltetők és a közszférabeli szervezetek a fizikai infrastruktúrájukra vonatkozóan az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 4. cikk (1) és (2) bekezdése alapján adatot szolgáltatnak a Kormány rendeletében meghatározott tartalommal és módon az egyablakos információs ponton történő elérhetővé tétel érdekében.
-
-(3) Ha az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 4. cikkében vagy e §-ban foglalt jogosultság gyakorlása, kötelezettség teljesítése vitás, bármelyik fél a Hatósághoz fordulhat. A vitás kérdésben a Hatóság az 57–61. § szerinti jogvitás eljárás szabályai szerint dönt, azzal, hogy határozatában – az Elnök rendeletében foglalt részletes szabályok szerint – kötelezheti a hálózatüzemeltetőt vagy a közszférabeli szervezetet az adatszolgáltatási kötelezettsége teljesítésére, valamint a helyszíni vizsgálat lefolytatása lehetőségének biztosítására. A Hatóság határozatával előírt adatszolgáltatási kötelezettséggel érintett adat nem minősíthető üzleti titokká.
-
-(4) Ha a megkeresett fél a helyszíni vizsgálat lefolytatását akadályozza, a Hatóság a jogvitás eljárást érdemben lezáró döntésében bírságot szabhat ki, amelynek mértéke a jogsértő nettó árbevételének legfeljebb 0,05%-a, de legalább százezer forint. Árbevételi adatok vagy az árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, legfeljebb százmillió forint. E § alkalmazása szempontjából nettó árbevétel alatt az eljárás résztvevőjének számviteli törvény szerinti megelőző évi nettó árbevételét kell érteni.
-
-(5) A Kormány rendeletében
-
-- a) a rendkívül nagy kapacitású hálózat vagy ahhoz kapcsolódó eszköz kiépítésére műszakilag alkalmatlannak minősülő meglévő fizikai infrastruktúrára való tekintettel,
-- b) a 94. § (2f) bekezdése szerinti fizikai infrastruktúra esetén, vagy
-- c) valamely fizikai infrastruktúra elemhez kapcsolódó információ előállításával kapcsolatban a hálózatüzemeltetőt vagy közszférabeli szervezetet terhelő aránytalan teherre való tekintettel
-
-az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 4. cikk (1), (3) és (5) bekezdésében és az e §-ban foglalt rendelkezések alóli mentességek alkalmazására vonatkozó kritériumokat és feltételeket határoz meg.
-
-(6) A Kormány rendeletében a kritikus szervezet és kritikus infrastruktúra, valamint az ország védelme és biztonsága szempontjából jelentős szervezet és az ország védelme és biztonsága szempontjából jelentős infrastruktúra ellenálló képessége érdekében mentességeket határozhat meg az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 4. cikk (1), (3) és (5) bekezdésében és az e §-ban foglalt rendelkezések vagy azok egy részének alkalmazása alól, továbbá átmeneti mentességet állapíthat meg az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 4. cikk (3) bekezdésében foglalt rendelkezések alkalmazása alól a 3500 főnél kisebb lakosságszámú települések önkormányzatai esetén.
-
-### A tervezett építési munkák átláthatósága
-
-93/B. § (1) A nyilvános elektronikus hírközlő hálózat üzemeltetője az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdése szerinti adatokhoz kormányrendeletben meghatározott feltételekkel férhet hozzá az egyablakos információs pontból.
-
-(2) A hálózatüzemeltetők és a közszférabeli szervezetek a tervezett építési munkákra vonatkozóan az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdése alapján adatot szolgáltatnak a Kormány rendeletében meghatározott tartalommal és módon az egyablakos információs ponton történő elérhetővé tétel érdekében.
-
-(3) Amennyiben az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 6. cikkében vagy e §-ban foglalt jogosultság gyakorlása, kötelezettség teljesítése vitás, bármelyik fél a Hatósághoz fordulhat. A Hatóság a kérelemről az 57–61. § szerinti jogvitás eljárás szabályai szerint dönt.
-
-(4) A Kormány rendeletében meghatározhatja azokat az építési munkákat, amelyek esetében az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdésében és az e §-ban foglalt rendelkezéseket
-
-- a) az építési munkák értékének, méretének, időtartamának korlátozott hatókörére tekintettel,
-- b) kritikus szervezet és kritikus infrastruktúra, valamint az ország védelme és biztonsága szempontjából jelentős szervezet és az ország védelme és biztonsága szempontjából jelentős infrastruktúra ellenálló képessége érdekében,
-- c) a Kormány rendeletében meghatározott veszélyhelyzetben, vagy
-- d) nemzetbiztonsági okból
-
-nem kell alkalmazni.
-
-### X. Fejezet — AZ ELEKTRONIKUS HÍRKÖZLÉSI SZOLGÁLTATÁSOK EGYES FELTÉTELEINEK BIZTOSÍTÁSA HARMADIK SZEMÉLYEK
-
-RÉSZÉRŐL
+### X. Fejezet — AZ ELEKTRONIKUS HÍRKÖZLÉSI SZOLGÁLTATÁSOK EGYES FELTÉTELEINEK BIZTOSÍTÁSA HARMADIK SZEMÉLYEKRÉSZÉRŐL
 
 ### Ingatlanhasználat, közös építményhasználat
 
 94. § (1) A település tervezésénél, rendezésénél, utak és közművek építésénél, korszerűsítésénél, egyéb építmények és más létesítmények megvalósításánál, felújításánál – a külön jogszabályban meghatározott módon – biztosítani kell az elektronikus hírközlési építmények elhelyezésének lehetőségét.
 
-(2) Az elektronikus hírközlési építményt elsősorban közterületen, meglévő elektronikus hírközlési építmények közös eszközhasználatával vagy más fizikai infrastruktúra elemeinek vagy más hálózatüzemeltető meglévő fizikai infrastruktúrájának felhasználásával kell elhelyezni, úgy, hogy a lehető legkisebb mértékben érintsen egyéb nem köztulajdonban lévő ingatlant.
+(2) Az elektronikus hírközlési építményt elsősorban közterületen vagy meglévő elektronikus hírközlési építmények közös eszközhasználatával, illetőleg más közüzemi szolgáltató létesítményeinek felhasználásával kell elhelyezni.
 
-(2a)
+(3) Helyi önkormányzat tulajdonában lévő közterületen elektronikus hírközlési építmény abban az esetben helyezhető el, ha e célra állami tulajdonban lévő közterület nem áll rendelkezésre, vagy ez utóbbin műszaki okból, illetőleg jogszabály tiltó rendelkezése miatt az elhelyezés nem lehetséges. A helyi önkormányzat a létesítmény önkormányzati tulajdonú közterületen való elhelyezéséhez szükséges tulajdonosi hozzájárulás és területhasználati engedély megadását csak abban az esetben tagadhatja meg, ha a tulajdonosi hozzájárulás megadása különös méltánylást érdemlő települési vagy lakossági érdeket sértene, illetve, ha a területhasználati engedély megadása jogszabályban foglalt tilalomba ütközne.
 
-(2b) A nyilvános elektronikus hírközlő hálózat üzemeltetője írásbeli ajánlatkéréssel kezdeményezi a fizikai infrastruktúra rendkívül nagy kapacitású hálózatok elemeinek, illetve kapcsolódó eszközeinek kiépítése céljából történő felhasználását a hálózatüzemeltetőnél vagy a közszférabeli szervezetnél.
+(4)
 
-(2c) Az ajánlatkéréssel kapcsolatos követelményeket az Elnök rendeletben állapítja meg.
+95. § (1) Ha a nyilvánosan elérhető elektronikus hírközlési szolgáltatás érdekében az elektronikus hírközlési építmény elhelyezésére közterületen, vagy meglévő elektronikus hírközlési építmények közös eszközhasználatával nincs lehetőség, és a közüzemi szolgáltató, vagy a magántulajdonban álló ingatlan tulajdonosa (kezelője, használója) és a szolgáltató között megállapodás nem jött létre, az elektronikus hírközlési építmény e § szerinti eljárásban elsősorban a közüzemi szolgáltató létesítményén, illetve másodsorban magántulajdonban álló ingatlanon (érintett ingatlan) is elhelyezhető.
 
-(2d) Ha az ajánlatkérés nem vagy nem megfelelően tartalmazza az Elnök rendeletében meghatározott információkat, a hálózatüzemeltető vagy közszférabeli szervezet az ajánlatkérés kézhezvételét követő 15 napon belül a hiányzó adatok, információk pótlására hívja fel a nyilvános elektronikus hírközlő hálózat üzemeltetőjét.
+(2) A hatóság a szolgáltató kérelmére szolgalmi vagy más használati jogot alapító határozatával az érintett ingatlan tulajdonosát – a nyilvánosan elérhető elektronikus hírközlési szolgáltatásokban megtestesülő közérdekből – korlátozhatja az ingatlan használatában, ha a szolgáltató bizonyítja, hogy
 
-(2e) A hálózatüzemeltető vagy közszférabeli szervezet az Elnök rendeletében meghatározott információkat teljeskörűen tartalmazó ajánlatkérés kézhezvételétől számított 20 napon belül írásban válaszol a nyilvános elektronikus hírközlő hálózat üzemeltetőjének a (2b) bekezdés szerinti ajánlatkérés elfogadásáról. Az ajánlatkérésre adott válasznak tartalmaznia kell legalább
+- a) az érintett ingatlan tulajdonosával való megállapodás érdekében minden tőle elvárhatót megtett,
+- b) az elektronikus hírközlési építmény elhelyezésére közterületen, vagy meglévő elektronikus hírközlési építmények közös eszközhasználatával, illetőleg magántulajdon esetén más közüzemi szolgáltató létesítményeinek felhasználásával környezetvédelmi, közegészségügyi, közbiztonsági, építésügyi okok, illetve az elektronikus hírközlő hálózat sajátosságai miatt nincs lehetőség.
 
-- a) a fizikai infrastruktúra használatának feltételeit és a fizikai infrastruktúra használatáért a nyilvános elektronikus hírközlő hálózat üzemeltetője által fizetendő ellenértéket tartalmazó ajánlatot, és
-- b) az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 3. cikk (4) bekezdése alapján figyelembe vett szempontokat, az ellenérték kiszámításának módját és a kapcsolódó számításokat.
+(3) A (2) bekezdés szerinti kérelem az elektronikus hírközlési építmény létesítésére vonatkozó engedélyezési eljárásban is elbírálható.
 
-(2f) A Kormány rendeletében meghatározhatja a közszférabeli szervezetek tulajdonában vagy ellenőrzése alatt álló fizikai infrastruktúrákat vagy azok kategóriáit, amelyek építészeti, történelmi, vallási vagy környezeti értékük miatt, illetve közbiztonsági, védelmi, biztonsági és egészségügyi okokból mentesülnek az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 3. cikk (1), (4) és (5) bekezdésében foglalt rendelkezések alkalmazása alól.
-
-(2g) Ha a hálózatüzemeltető vagy a közszférabeli szervezet a (2b) bekezdés szerinti ajánlatkérésre
-
-- a) a (2e) bekezdés szerinti határidőn belül nem válaszol,
-- b) az ajánlatkérést elutasítja, vagy
-- c) a megállapodás az ajánlatkérés kézhezvételétől – a (2d) bekezdés esetében a hiánypótlás teljesítésétől – számított 30 napon belül nem jön létre,
-
-a Hatóság kérelemre a használati jogot és szükség szerint a kapcsolódó szolgalmi jogot alapító határozatával – a rendkívül nagy kapacitású hálózat kiépítéséhez fűződő közérdekből, a szükséges mértékben – korlátozhatja a hálózatüzemeltető vagy közszférabeli szervezet fizikai infrastruktúra feletti használatának és a használat átengedésének jogát.
-
-(2h) Ha a hálózatüzemeltető vagy közszférabeli szervezet az ajánlatkérést az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 3. cikk (5) bekezdés f) pontja alapján utasítja el, a Hatóság a (2g) bekezdés szerinti eljárásban az ajánlatkéréssel érintett fizikai infrastruktúra vonatkozásában korlátozhatja a használat és a használat átengedésének jogát. A (2g) bekezdés szerinti eljárás iránt benyújtott kérelem elutasítása esetén a hálózatüzemeltetőt vagy közszférabeli szervezetet a hatósági határozat közlésétől számított 30 napig szerződéskötési kötelezettség terheli az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 3. cikk (5) bekezdés f) pontja alapján felajánlott fizikai infrastruktúra vonatkozásában.
-
-(2i) A (2g) bekezdés szerinti eljárásban az 57–61. §-ok szerinti eljárás szabályait az alábbi eltérésekkel kell alkalmazni:
-
-- a) az eljárást a hálózatüzemeltető, a közszférabeli szervezet vagy a nyilvános elektronikus hírközlő hálózat üzemeltetője kezdeményezheti,
-- b) a kérelemhez az Elnök rendeletében előírt dokumentumokat kell csatolni, és
-- c) a nyilvános elektronikus hírközlő hálózat üzemeltetőjének kell bizonyítania, hogy a fizikai infrastruktúra felhasználása rendkívül nagy kapacitású hálózat kiépítéséhez szükséges.
-
-(2j) Ha a hálózatüzemeltető, a közszférabeli szervezet vagy a nyilvános elektronikus hírközlő hálózat üzemeltetője által benyújtott bizonyítékok alapján a Hatóságnak a tényállás tisztázásához további információra van szüksége, a (2g) bekezdés szerinti eljárásba bevonja az elektronikus hírközlési nyomvonalas és nyomvonal jellegű építmények, valamint az egyéb műtárgyak építésének engedélyezésére irányuló eljárásokban közreműködő, jogszabályban felsorolt szakhatóságokat.
-
-(2k) Ha az ajánlatkérésre a hálózatüzemeltető vagy közszférabeli szervezet a (2e) bekezdésben meghatározott időtartamon belül nem vagy nem érdemben válaszol, vagy egyébként olyan magatartást tanúsít, amely a felek közti egyeztetés elhúzódását eredményezi, különösen amellyel a fizikai infrastruktúrájához való hozzáférés biztosításával kapcsolatos valamely kötelezettségét megszegi, a nyilvános elektronikus hírközlő hálózat üzemeltetője a felek közti egyeztetés előmozdítása, az érdemi együttműködés elősegítése érdekében általános hatósági felügyeleti eljárás iránti kérelmet nyújthat be a Hivatalhoz, ha a kérelem tárgyával összefüggésben jogvitás eljárás korábban nem indult.
-
-(2l) Ha az ajánlatkérésre a hálózatüzemeltető vagy közszférabeli szervezet a (2e) bekezdésben meghatározott időtartamon belül nem vagy nem érdemben válaszol, vagy egyébként olyan magatartást tanúsít, amely a felek közti egyeztetés elhúzódását eredményezi, a Hivatal bírságot szab ki, amelynek mértéke a jogsértő nettó árbevételének legfeljebb 0,05%-a, de legalább százezer forint. Árbevételi adatok vagy az árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, legfeljebb százmillió forint. E § alkalmazása szempontjából nettó árbevétel alatt a hálózatüzemeltető vagy közszférabeli szervezet számviteli törvény szerinti megelőző évi nettó árbevételét kell érteni.
-
-(3) A Hatóság (2g) bekezdés szerinti eljárásban hozott döntése tartalmi elemeit az Elnök rendeletben határozza meg.
-
-(3a)
-
-(3b) Amennyiben a jogvitás eljárás során feltárt tényállás alapján a Hatóság megállapítja a (2k) bekezdésben foglalt jogsértést és ugyanezen jogsértés tárgyában a jogvitás eljárás megindítását megelőzően nem indult általános hatósági felügyeleti eljárás, a Hatóság a jogvitás eljárást érdemben lezáró döntésében a (2l) bekezdésben meghatározott bírság kiszabására is jogosult.
-
-(3c) A (2g) bekezdés szerinti kérelem, valamint a 94/A. § szerinti kérelem egyidejűleg is előterjeszthető a Hatóságnál.
-
-(3d) A (3c) bekezdésben foglalt kérelmek egyidejű előterjesztése esetén a Hatóság a 94/A. § szerinti eljárását a (2g) bekezdés szerinti kérelem tárgyában folytatott eljárás végleges befejezéséig felfüggeszti.
-
-(4) Nyilvánosan elérhető elektronikus hírközlési szolgáltatás biztosítása érdekében az elektronikus hírközlési építmény idegen ingatlanon történő elhelyezésére – ha az (EU) 2024/1309 európai parlamenti és tanácsi rendelet vagy e törvény eltérően nem rendelkezik – az ingatlan tulajdonosával való megállapodás alapján kerülhet sor. A megállapodásnak alkalmasnak kell lennie az építési jogosultság igazolására.
-
-(4a) Az elektronikus hírközlési építmény elhelyezését a közterület tulajdonosa (használója vagy kezelője) tűrni köteles, a tulajdonosi hozzájárulást megadottnak kell tekinteni. Ha az építési munka megkezdéséhez közterület-használati hozzájárulás, kezelői vagy üzemeltetői hozzájárulás (a továbbiakban együtt e bekezdésben: hozzájárulás) szükséges, azt az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője kérelmének benyújtásától számított – ha jogszabály vagy szabályzat rövidebb határidőt nem állapít meg – 30 napon belül ki kell adni. A hozzájárulás formája egyoldalú nyilatkozat vagy megállapodás is lehet. Ha a hozzájárulás megadására feljogosított személy vagy szerv a hozzájárulás megadásáról neki felróhatóan vagy az érdekkörében felmerült egyéb okból határidőn belül nem nyilatkozik, a hozzájárulást a kérelemben foglaltaknak megfelelően megadottnak kell tekinteni.
-
-(4b) A magyar állam tulajdonában álló ingatlanok igénybevétele vonatkozásában – ha van az ingatlan-nyilvántartásba bejegyzett vagyonkezelő – elegendő a vagyonkezelő hozzájárulása, a tulajdonos vagy tulajdonosi joggyakorló hozzájárulása nem szükséges.
-
-(4c) Ha az elektronikus hírközlési építmény elhelyezése vasúti pálya, folyóvíz vagy csatorna területét érinti, a vasúti pálya, folyóvíz, csatorna vagyonkezelője, ennek hiányában tulajdonosa köteles – ha jogszabály ennél rövidebb határidőt nem állapít meg – az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője megkeresését követő 45 napon belül megállapodást kötni. Ha a vagyonkezelő, ennek hiányában a tulajdonos a hozzájárulás megadásáról neki felróhatóan vagy az érdekkörében felmerült egyéb okból határidőn belül nem nyilatkozik, a vagyonkezelő vagy a tulajdonos a kérelemben foglaltak szerinti feltételekkel köteles tűrni az elhelyezést.
-
-(4d) A tulajdonosi hozzájárulás a szolgalmi vagy más használati jogokkal azonos jogosultságokat és kötelezettségeket keletkeztet. A tulajdonosi hozzájárulás nem vonható vissza.
-
-(4e) A fizikai infrastruktúra felhasználásához nem kell az ingatlan tulajdonosának hozzájárulását kérni a meglévő fizikai infrastruktúra elhelyezését biztosító érintett ingatlan tekintetében, ha a rendkívül nagy kapacitású hálózatok létesítése nem jelent további korlátozást az ingatlan használatában a fizikai infrastruktúrához kapcsolódó vezetékjoghoz, szolgalmi vagy használati joghoz képest. Ha az építési engedélyezési eljárásra irányuló kérelem és mellékletei tartalmából más nem következik, vélelmezni kell, hogy a rendkívül nagy kapacitású hálózatok létesítése nem jár további korlátozással az ingatlan használatában a meglévő fizikai infrastruktúrához kapcsolódó vezetékjoghoz, szolgalmi vagy használati joghoz képest.
-
-(4f) A (4e) bekezdés alapján létesített rendkívül nagy kapacitású hálózat üzemeltetőjének ingatlanhasználati joga megszűnik a felhasznált fizikai infrastruktúrához kapcsolódó vezetékjog, szolgalmi vagy használati jog megszűnésével, továbbá a felhasznált fizikai infrastruktúra ingatlanról történő eltávolításával.
-
-(4g) Ha az ingatlan közös tulajdonban áll, a hozzájáruláshoz az érintett tulajdonosok tulajdoni hányad alapján számított többségi döntése szükséges.
-
-(4h) A (4) bekezdésben foglaltaktól eltérően az elektronikus hírközlési építmény idegen ingatlanon történő elhelyezéséhez a tulajdonos hozzájárulását megadottnak kell tekinteni az olyan tulajdonos vagy tulajdonostárs esetében, akinek a személyi adat- és lakcímnyilvántartásban szereplő lakcímére vagy székhelyére postai úton megküldött 95. § (4) bekezdés szerinti ajánlat közlése
-
-- a) nem lehetséges, mert
-  - aa) személye bizonytalan, vagy
-  - ab) lakcíme, tartózkodási helye, székhelye, telephelye, fióktelepe ismeretlen,
-- b) meghiúsul, mert a postai küldemény a postai küldemények kézbesítéséről szóló jogszabály szerint azzal a jelzéssel érkezik vissza, hogy „címzett ismeretlen”, „nem kereste”, „kézbesítés akadályozott”, „elköltözött” vagy „átvételét megtagadta”, vagy
-- c) eredményes, de a kézhezvételtől számított 30 napon belül írásban nem nyilatkozott.
-
-(4i) A (4h) bekezdés a) pont aa) alpontjának alkalmazása szempontjából akkor minősül a tulajdonos, tulajdonostárs személye bizonytalannak, ha
-
-- a) azonosítása nem lehetséges az ingatlan-nyilvántartásban szereplő adatai, vagy gazdálkodó szervezetet nyilvántartó közhiteles nyilvántartás alapján, vagy
-- b) természetes személy esetén örököse, gazdálkodó szervezet esetén jogutódja az ingatlan-nyilvántartásból, vagy gazdálkodó szervezetet nyilvántartó közhiteles nyilvántartásból nem állapítható meg.
-
-(5) A Hatóság honlapján keresztül biztosítja, hogy a használati jogokkal összefüggő jogosultságokra, feltételekre, eljárásokra, díjakra és döntésekre vonatkozó minden lényeges információhoz az érdekeltek hozzáférhessenek. A közzétett információkat a Hatóság rendszeresen felülvizsgálja.
-
-(6) A helyi önkormányzatot a tulajdonában álló közterületen található elektronikus hírközlési építményen – a 90. § megfelelő alkalmazásával – ingyenes használati jog illeti meg az olyan közbiztonsági, bűnmegelőzési, illetve bűnüldözési célt szolgáló eszköz, illetve az eszköz elektronikus hírközlő hálózati ellátását biztosító nem nyilvános elektronikus hírközlő hálózat elemeinek elhelyezésével összefüggésben, amelyek gazdasági célt közvetve sem szolgálnak. Az ingyenes használat joga a fővárosi közterületeken található elektronikus hírközlési építményekkel összefüggésben mind a fővárosi, mind a kerületi önkormányzatot megilleti, függetlenül attól, hogy melyik önkormányzat a közterület tulajdonosa. A használattal összefüggő műszaki feltételeket az elektronikus hírközlési építmény tulajdonosa, használója és a helyi önkormányzat közötti megállapodásban kell meghatározni. A megállapodásra az e törvény felhatalmazása alapján kiadott, az elektronikus hírközlési építmények elhelyezéséről szóló elnöki rendelet rendelkezéseit alkalmazni kell.
-
-(7) Kis területi lefedésű, vezeték nélküli hozzáférési pontok kiépítése érdekében az elektronikus hírközlési szolgáltatóval vagy a kapcsolódó eszközök üzemeltetőjével köteles együttműködni a közszférabeli szervezet, a magyar építészetről szóló törvény szerint sajátos építményfajták – ide nem értve az e törvény szerinti fizikai infrastruktúra fogalmába tartozó sajátos építményfajtákat – vagyonkezelője, ennek hiányában tulajdonosa, az utcabútor, reklámhordozót tartó berendezés, reklámcélú berendezés (ideértve a tájékozódást segítő jelzést megjelenítő reklámcélú eszközt is) és a hirdetőoszlop tulajdonosa. Az együttműködésre kötelezettek közötti megállapodás részletes szabályait az Elnök rendeletben állapítja meg.
-
-94/A. § (1) A fizikai infrastruktúra (EU) 2024/1309 európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdése szerinti felhasználása érdekében létrejött megállapodás esetén a Hatóság az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője javára a meglévő fizikai infrastruktúra elhelyezését biztosító érintett ingatlanra vonatkozóan, kártalanítás ellenében szolgalmi vagy más használati jogot létesíthet. Ezen eljárásban vélelmezni kell, hogy a szolgalmi vagy más használati jog az ingatlan használatát lényegesen nem korlátozza. Ha az érintett ingatlanok nagy száma indokolja, a Hatóság a szolgalmi vagy más használati jogot több érintett ingatlanra vonatkozóan egy hatósági határozattal is létesíthet. A szolgalmi vagy használati jog létesítésére irányuló kérelmet az elektronikus hírközlési építmény létesítésére vonatkozó engedélyezési eljárás iránti kérelemmel egyidejűleg kell előterjeszteni, és a Hatóság a szolgalmi vagy használati jog létesítéséről az engedélyezési eljárásban dönt.
-
-(2) Az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője az (1) bekezdés szerinti szolgalmi vagy más használati jog alapján az idegen ingatlanon
-
-- a) elektronikus hírközlési építményt helyezhet el és üzemeltethet,
-- b) az elhelyezett építményeket karbantarthatja, kijavíthatja, átalakíthatja és eltávolíthatja.
-
-(3) A Hatóság nem alapít szolgalmat vagy más használati jogot, amennyiben a fizikai infrastruktúra közterületet, vasúti pályát, folyóvizet, vagy csatornák területét érinti. Az ilyen területek igénybevételére a 94. § (4a) és (4c) bekezdése megfelelően alkalmazandó.
-
-(4) Az (1) és (2) bekezdést nem kell alkalmazni, ha az ingatlan felhasználására az érintett ingatlan tulajdonosával kötött megállapodás vagy a 94. § (4h) bekezdése alapján kerül sor.
-
-(5) A Hatóság (1) bekezdés szerinti határozata elleni fellebbezésnek a határozat végrehajthatóságára nincs halasztó hatálya.
-
-(6) Ha az (1) bekezdés szerinti eljárás jelentős számú ügyfelet érint, akkor – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – a Hatóság a döntését az ügyféllel hirdetményi úton közli. A hirdetményt a Hatóság a honlapján helyezi el, azzal egyidejűleg az ügyfelet a döntés szövegéről az adott ügyfajtára vonatkozó egyéb kapcsolattartási forma használatával is tájékoztatja. A közlés jogkövetkezményei a hirdetményi úton történő közléshez kapcsolódóan állnak be. A döntés közlésének napja a honlapon történt közzétételét követő 5. nap.
-
-(7) Az (1) bekezdés szerinti eljárásban is megfelelően alkalmazni kell a 95. § (5) és (7)–(11) bekezdését.
-
-95. § (1) Ha a nyilvánosan elérhető elektronikus hírközlési szolgáltatás biztosítása érdekében az elektronikus hírközlési építmény elhelyezésére közterületen, meglévő elektronikus hírközlési építmények közös eszközhasználatával vagy az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdése szerinti fizikai infrastruktúra felhasználásával nincs lehetőség, az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője állami vagy helyi önkormányzati tulajdonban, vagy a magántulajdonban álló ingatlan tulajdonosánál kezdeményezheti az elektronikus hírközlési építmény létesítésére irányuló megállapodás megkötését. Amennyiben a felek a (4) bekezdés szerinti ajánlat közlésétől számított 30 napon belül nem állapodnak meg, az elektronikus hírközlési építmény e § szerinti eljárásban állami vagy helyi önkormányzati tulajdonban vagy magántulajdonban álló ingatlanon is elhelyezhető. A 94/A. § (3) bekezdése megfelelően irányadó ez esetben is.
-
-(2) A Hatóság az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője kérelmére szolgalmi vagy más használati jogot alapító határozatával az érintett ingatlan tulajdonosát – a nyilvánosan elérhető elektronikus hírközlési szolgáltatásokban megtestesülő közérdekből – korlátozhatja az ingatlan használatában, ha
-
-- a) az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője bizonyítja, hogy az érintett ingatlan tulajdonosával való megállapodás érdekében minden tőle elvárhatót megtett, valamint
-- b) az a nagy sebességű elektronikus hírközlő hálózat szükséges fejlesztése érdekében indokolt, és az ingatlan használatát lényegesen nem akadályozza.
-
-(3) A (2) bekezdés szerinti kérelem az elektronikus hírközlési építmény létesítésére vonatkozó engedélyezési eljárásban is előterjeszthető és egy határozatban is elbírálható.
-
-(4) Az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője a (2) bekezdés a) pontjának megfelelő magatartását vélelmezni kell, ha a megállapodás annak ellenére nem jött létre, hogy az érintett ingatlan tulajdonosa a (2) bekezdés szerinti kérelem előterjesztését megelőzően legalább 30 nappal a szolgalmi jog vagy más használati jog megállapodás útján történő alapítására tett ajánlatot átvette, és az ajánlat tartalmazta
-
-- a) a létesíteni kívánt elektronikus hírközlési építmény megnevezését, annak jellemzőit, elhelyezésének helyét, módját és helyigényét,
-- b) a szolgalmi vagy más használati jog tartalmát,
-- c) az elektronikus hírközlési építményen elhelyezni kívánt elektronikus hírközlési berendezések megjelölését, műszaki jellemzőit,
-- d) az elektronikus hírközlési építmény létesítését követően az építmény környezetének helyreállítására vonatkozó terveket,
-- e) a megállapodás megkötésére irányuló, a szolgalmi jog vagy más használati jog alapításáról szóló szerződéstervezetet, valamint az érintett ingatlan tulajdonosa részére fizetendő ellenértéket tartalmazó egyértelmű ajánlatot,
-- f) az e) pont szerinti ellenértékre vonatkozó számításokat, valamint
-- g) a 94. § (4h)–(4i) bekezdéseire, valamint a (2) bekezdés szerinti hatósági eljárás lehetőségére vonatkozó figyelmeztetést.
-
-(4a)
+(4)
 
 (5) A hatósági határozatban meg kell határozni:
 
 - a) a korlátozás mely nyilvánosan elérhető elektronikus hírközlési szolgáltatás érdekében történik,
-- b) a szolgalmi vagy más használati jog tartalmát, így különösen az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetőjének erre felhatalmazott képviselője belépési jogát az érintett ingatlan területére az elektronikus hírközlési építmény és berendezések ellenőrzése, karbantartása és a szükséges hibaelhárítás céljából,
+- b) szolgalmi vagy más használati jog tartalmát, így különösen az elektronikus hírközlési szolgáltató erre felhatalmazott képviselője belépési jogát az érintett ingatlan területére az elektronikus hírközlési építmény és berendezések ellenőrzése, karbantartása és a szükséges hibaelhárítás céljából,
 - c) az elektronikus hírközlési építmény elhelyezésének helyét és módját,
-- d) az elektronikus hírközlési építményen elhelyezhető elektronikus hírközlési berendezések műszaki jellemzőit, és a rá vonatkozó környezetvédelmi, közegészségügyi, közbiztonsági és építésügyi jogszabályok által megszabott határértékeket, valamint
-- e) a környezet eredeti állapotának helyreállításához szükséges és elégséges feltételeket.
+- d) az elektronikus hírközlési építményen elhelyezhető elektronikus hírközlési berendezések műszaki jellemzőit, és a rá vonatkozó környezetvédelmi, közegészségügyi, közbiztonsági és építésügyi jogszabályok által megszabott határértékeket.
 
-(6)
+96. § (1) Az állami tulajdonban álló közterület és a közös eszközhasználattal érintett elektronikus hírközlési építmény tulajdonosa kivételével az érintett ingatlan tulajdonosát a korlátozás mértékének megfelelő kártalanítás illeti meg. A tulajdonos ezen felül a Ptk. 108. §-ának (2) bekezdésében meghatározott jogokat érvényesítheti.
 
-(7) A 96. § (1) bekezdés szerinti kártalanítás összegében az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője és az ingatlantulajdonos állapodik meg. Megállapodás hiányában, valamint a szolgalmi vagy más használati jog 94/A. § szerinti alapítása esetén a szolgalmi vagy más használati jogot alapító határozat véglegessé válásától számított 15 napon belül az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője köteles a – saját költségére készítendő szakvéleményben foglalt – kártalanítási összeget az ingatlantulajdonos részére átadni vagy – ha ez az ingatlantulajdonos érdekkörében felmerült ok miatt nem lehetséges, vagy más körülmény, különösen az érintett ingatlantulajdonosok jelentős száma miatt a kártalanítás átadása rendkívüli nehézséggel vagy számottevő késedelemmel járna – annak javára a bíróságon kezelt letétekről szóló miniszteri rendelet rendelkezéseinek megfelelően bírósági letétbe helyezni, és arról az ingatlan tulajdonosát hitelt érdemlően igazolható módon értesíteni. Ha a tájékoztatásra az ingatlantulajdonos érdekkörében felmerült ok miatt nem kerül sor, az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője köteles erről a Hatóságot a tájékoztatást kizáró ok igazolásával egyidejűleg tájékoztatni.
-
-(8) Ha a bírósági letétbe helyezést a kártalanítási összeg mértéke nem teszi lehetővé, úgy az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője a Hatóságnak igazolja az összeg rendelkezésre állását.
-
-(9) Az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője a határozatban foglalt jogainak gyakorlását csak az után kezdheti meg, hogy a kártalanítási összeget a (6)–(7) bekezdés szerint a tulajdonosnak átadta, letétbe helyezte, vagy az összeg rendelkezésre állását igazolta.
-
-(10) A kártalanítás egy összegben, pénzben jár, egyebekben a megtérítés módját illetően az itt nem szabályozott kérdésekben a kisajátítási kártalanításra vonatkozó szabályok szerint kell eljárni.
-
-(11) Ha az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője a kártalanítást, vagy a jogai gyakorlása során tevékenységével összefüggő kárt az ingatlan tulajdonosának nem fizeti meg, vagy az általa felajánlott és az ingatlan tulajdonosa által át nem vett összeg, valamint a fizetési biztosíték a kártalanítást nem fedezi, vagy az ingatlan tulajdonosa a kártalanítás összegével nem ért egyet, az ingatlan tulajdonosa az igényét bírósági eljárás során érvényesítheti.
-
-96. § (1) Az érintett ingatlan tulajdonosát – a közterület, az állami tulajdonban álló ingatlan, a közös eszközhasználattal érintett elektronikus hírközlési építmény tulajdonosa, valamint a 94. § (4e) bekezdés alapján létesített rendkívül nagy kapacitású hálózattal érintett ingatlan tulajdonosa kivételével – az e törvényből eredő korlátozás mértékének megfelelő, a Ptk. szerinti kártalanítás illeti meg.
-
-(2) Az elektronikus hírközlési építményt elhelyező elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője a korlátozásból eredő jogainak gyakorlása, vagy az építési munkálatok során okozott kárt köteles megtéríteni. Köteles továbbá saját költségén a munkálatok befejeztével a környezet eredeti állapotának helyreállítására is.
+(2) Az elektronikus hírközlési építményt elhelyező szolgáltató az építési munkálatok befejeztével a környezet eredeti állapotának megfelelő helyreállítására köteles. Az elektronikus hírközlési építmény elhelyezéséhez használt más közüzemi létesítmény, magánterület, illetve önkormányzati tulajdonban lévő közterület tulajdonosa megállapodhat az építtetővel, hogy a helyreállítás az eredetinél jobb minőségben történjen.
 
 (3) Az elektronikus hírközlési építményt az érintett ingatlanon úgy kell elhelyezni, hogy az a szomszédos ingatlanok tulajdonosait a jogaik gyakorlásában a környezetvédelmi, közegészségügyi, közbiztonsági és építésügyi jogszabályok által megszabott határértékeken belül – a körülmények által lehetővé tett – legkisebb mértékben zavarja, ez a létesítmény elhelyezése és működtetése során bekövetkező zavarás nem minősül a Ptk.-ban meghatározott szükségtelen zavarásnak.
 
-(4) A 94/A. §, a 95. § és a 96. § szerinti érintett ingatlanon az állami tulajdonban, helyi önkormányzat tulajdonában vagy magántulajdonban álló ingatlant, az ingatlan tulajdonosán állami tulajdon esetén az ingatlan-nyilvántartásba bejegyzett vagyonkezelőt, ennek hiányában a tulajdonost, tulajdonosi jogok gyakorlóját kell érteni.
-
-96/A. § (1) A szolgalmi vagy más használati jog a mindenkori elektronikus hírközlési szolgáltatót vagy a kapcsolódó eszközök üzemeltetőjét illeti meg és az ingatlan mindenkori tulajdonosát terheli. A szolgalmi vagy más használati jog az azt megállapító hatósági határozat véglegessé válását követően, illetve az ingatlantulajdonossal kötött megállapodás alapján gyakorolható. Határozaton alapuló szolgalmi vagy más használati jog létesítése esetén az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője a névváltozást, a személyében bekövetkezett változást, a változás bekövetkeztétől számított 30 napon belül bejelenti a Hatóságnak.
-
-(2) A szolgalmi vagy más használati jog ingatlan-nyilvántartásba történő bejegyzését az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője kérelmezi az ingatlantulajdonossal kötött megállapodás alapján. Határozaton alapuló szolgalmi vagy más használati jog esetén a Hatóság a véglegessé vált határozat alapján felhívja az ingatlanügyi hatóságot a használati jog ingatlan-nyilvántartásba történő bejegyzésére.
-
-(3) Megszűnik a szolgalmi vagy más használati jog, ha az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője a használati joggal terhelt ingatlanon az elektronikus hírközlési építményt a szolgalmi vagy más használati jog keletkezésétől számított négy éven belül nem építi meg, használatával 12 hónapon túl felhagy, vagy azt véglegesen eltávolítja. Megszűnik a használati jog a felek megállapodásával is. A hatósági határozattal alapított szolgalmi vagy más használati jog megszűnik az elektronikus hírközlési építmény építésére kiadott építési engedély hatályának megszűnésével is, amennyiben az építményt az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője az engedély lejártáig nem építi meg.
-
-(4) A megállapodáson alapuló használati jog kivételével a használati jog megszűnését az engedélyes az azt követő 30 napon belül a Hatóságnak köteles bejelenteni, ennek hiányában azt az ingatlantulajdonos kérelmére, vagy egyéb módon történő tudomásszerzése esetén hivatalból a Hatóság határozatban állapítja meg.
-
-(5) A megállapodáson alapuló használati jog ingatlan-nyilvántartásból való törlését az engedélyes a megállapodás benyújtásával egyidejűleg köteles kérni. Egyéb esetben a Hatóság a használati jog megszűnését megállapító véglegessé vált határozat alapján felhívja az ingatlanügyi hatóságot a használati jog törlésére.
-
-97. § (1) Ha a jogszerűen létesített építmény eltávolítása vagy áthelyezése szükséges, akkor e munkálatokat – a 94. § (4e) bekezdése alapján létesített rendkívül nagy kapacitású hálózat kivételével – annak költségére kell elvégezni, akinek érdekében ez felmerült. Jogszerűen építettnek kell tekinteni azt az építményt is, amely az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 48/A. §-a vagy a magyar építészetről szóló 2023. évi C. törvény 177. §-a szerint fennmaradási engedélyt kapott.
+97. § (1) Ha a jogszerűen létesített építmény eltávolítása vagy áthelyezése szükséges, akkor e munkálatokat annak költségére kell elvégezni, akinek érdekében ez felmerült. Jogszerűen építettnek kell tekinteni azt az építményt is, amely az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 48. §-a szerint fennmaradási engedélyt kapott.
 
 (2) Ha az áthelyezés a meglévő építmény korszerűsítésével vagy fejlesztésével jár együtt, a költségeket az érdekeltség arányában meg kell osztani.
 
-97/A. § (1) Az elektronikus hírközlési építmény üzemeltetője, ennek hiányában a tulajdonosa a használat során köteles az építmény állagát megóvni, az élet, a testi épség és az egészség, a köz- és vagyonbiztonság védelme érdekében az építmény műszaki állapotának rendszeres felülvizsgálatát és a szükséges átalakítási, felújítási, helyreállítási munkálatokat elvégezni, továbbá az üzemen vagy használaton kívüli hálózatokat elbontani.
-
-(2) Az elektronikus hírközlési építmény üzemeltetője, ennek hiányában tulajdonosa az építményt elbontja, ha annak használatával véglegesen felhagy, vagy az építmény további használatra alkalmatlan. Az üzemeltető, ennek hiányában a tulajdonos az elektronikus hírközlési építmény elbontását követően az eredeti állapot helyreállítására köteles, kivéve, ha az érintett ingatlan tulajdonosával vagy a tulajdonosi jog gyakorlójával eltérően állapodnak meg.
-
-(3) Azt az elektronikus hírközlési építményt, amelynek használatával véglegesen felhagytak, vagy használatra alkalmatlan, és tulajdonosa nem ismert vagy nem elérhető, az ingatlan tulajdonosa – a tulajdonát képező ingatlant érintő építményrész erejéig – az elektronikus hírközlési építmények elhelyezéséről és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárásokról szóló NMHH rendelet szerinti engedély alapján elbontathatja. A bontással okozott kárért a bontási engedélyt kérő felel.
-
-(4) Az elektronikus hírközlési építmény rongálódott, használaton kívüli, vagy használatra alkalmatlan állapotát a Hatóság ügyfélszolgálatán bárki bejelentheti.
-
 98. § Az elektronikus hírközlési építmény építtetője jogosult a folyóvíz, csatorna, természetes tavak és azok medrének, valamint az ország területe feletti légtérnek elektronikus hírközlési célú igénybevételére.
 
-98/A. § A szélessávú hálózatfejlesztési beruházás lehetséges nyomvonalai kiválasztásának elősegítése, a hiánytalan engedélyezési, bejelentési dokumentáció előkészítése érdekében az elektronikus hírközlési szolgáltató vagy a kapcsolódó eszközök üzemeltetője, illetve a tervező a hatósági eljárás megindítását megelőzően egyeztetést kezdeményezhet a Hatóságnál, valamint az érintett szakhatóságoknál, hatóságoknál, amelyek kötelesek az egyeztetésen részt venni.
+### Az ingatlan tulajdonosánakaz elektronikus hírközlés védelmével összefüggőközérdekű kötelezettsége
 
-98/B. § (1) 2027. január 1-jétől belterületen a helyi építési szabályzatokban meghatározott területeken nyomvonalas elektronikus hírközlési építmény csak földfelszín alatti elhelyezéssel létesíthető.
+99. § (1) Az ingatlan tulajdonosa, birtokosa köteles az elektronikus hírközlés működésének érdekében az ezt veszélyeztető fákat, bokrokat, ágakat, gyökereket eltávolítani. Az eltávolítással kapcsolatos költségek az érintett elektronikus hírközlési szolgáltatót terhelik.
 
-(2) Az (1) bekezdés nem vonatkozik
-
-- a) a földfelszín feletti elektronikus hírközlő hálózat
-  - aa) egyes szakaszainak más nyomvonalra történő áthelyezésére (kiváltás),
-  - ab) korszerűsítésére (ideértve a meglévő hálózat modernizálását, új technológiájú hálózattal történő kiváltását is),
-  - ac) felújítására, vagy
-- b) a meglévő, földfelszín feletti elektronikus hírközlő hálózatról előfizetői leágazással történő bekötésre.
-
-98/C. § (1) A helyi önkormányzat a működési területéhez tartozó, a helyi építési szabályzatában megjelölt belterületen – kormányrendeletben meghatározott feltételek szerint – jogosult a földfelszín felett 5 évnél régebben létesített nyomvonalas elektronikus hírközlő hálózat földfelszín alatti elhelyezésre történő cseréjét kezdeményezni, amennyiben az érintett előfizetők, illetve ingatlantulajdonosok az ingatlanukat érintő munkavégzéshez előzetesen hozzájárulnak, és annak költségeit vállalják.
-
-(2) A jogszerűen létesített elektronikus hírközlő hálózat üzemeltetője a kezdeményezés alapján 6 hónapon belül kiváltási-ütemezési tervet készít annak figyelembevételével, hogy az a szolgáltatásnyújtás folytonosságát ne veszélyeztesse.
-
-(3) Ha a kezdeményezés szerinti területen több elektronikus hírközlési szolgáltató, illetve hálózatüzemeltető is rendelkezik hálózattal, akkor a kiváltási-ütemezési tervet e törvénynek a tervezett építési munkák összehangolására vonatkozó szabályai szerint kell elkészíteni.
-
-(4) Az (1)–(3) bekezdés alkalmazandó a villamos energiáról szóló 2007. évi LXXXVI. törvény 33/F. §-ában foglalt, használaton kívüli hálózati infrastruktúra elbontásának esetében is.
-
-(5) Az (1)–(4) bekezdés alapján kialakított kiváltási-ütemezési tervet az érintett üzemeltetők és az önkormányzat közös megállapodásban véglegesítik. A megállapodás tartalmazza az elvégzendő munkákat és azoknak az egyes feleket terhelő költségeit.
-
-### Az ingatlan tulajdonosának
-
-az elektronikus hírközlés védelmével összefüggő
-
-közérdekű kötelezettsége
-
-99. § (1) Az ingatlan tulajdonosa, birtokosa köteles az elektronikus hírközlés működésének érdekében az ezt veszélyeztető fákat, bokrokat, ágakat, gyökereket eltávolítani. Az eltávolítással kapcsolatos költségek az érintett elektronikus hírközlési szolgáltatót vagy a kapcsolódó eszközök üzemeltetőjét terhelik.
-
-(2) Az (1) bekezdésben foglalt kötelezettség teljesítésére az érintett elektronikus hírközlési szolgáltatónak vagy a kapcsolódó eszközök üzemeltetőjének írásban fel kell szólítania az ingatlan tulajdonosát. Ha az írásbeli felszólítástól számított 15 napon belül a tulajdonos nem intézkedik, a szolgáltató vagy a kapcsolódó eszközök üzemeltetője kérésére a Hatóság határozattal kötelezheti a tulajdonost a munkálatok elvégzésére.
-
-### Az épületen belüli fizikai infrastruktúra kiépítése
-
-99/A. § (1) Az új építésű épületeket, ideértve azok közös tulajdonban lévő elemeit is, nagy sebességű technológia fogadására kész, épületen belüli fizikai infrastruktúrával kell ellátni egészen azon hálózati végpontig, amelyen keresztül az előfizető vagy felhasználó egy elektronikus hírközlő végberendezés fizikai és logikai csatlakoztatása révén szolgáltatásokat vehet igénybe.
-
-(2) Az új építésű több önálló rendeltetési egységet tartalmazó épületekben épület-hozzáférési pontot kell kialakítani.
-
-(3) Az (1) és (2) bekezdésben foglaltakat kell alkalmazni a meglévő épületen végzett olyan építési munka esetén is, amely magában foglalja az épületen belüli teljes fizikai infrastruktúra vagy annak jelentős részének szerkezeti változtatásait.
-
-(4) A Kormány rendeletében meghatározhatja azokat a feltételeket, amelyek fennállása esetén az e §-ban foglalt rendelkezéseket vagy azok rendeletben meghatározott részét nem kell alkalmazni.
-
-(5) Az e § szerinti előírások ellenőrzése nem tartozik a Hatóság építésfelügyeleti ellenőrzési hatáskörébe.
-
-### Az épületen belüli fizikai infrastruktúrához való hozzáférés biztosítása
-
-99/B. § (1) A nyilvános elektronikus hírközlő hálózat üzemeltetője az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 11. cikke szerinti hozzáférést írásbeli ajánlatkéréssel kezdeményezi az épület hozzáférési ponttal vagy az épületen belüli fizikai infrastruktúrával rendelkezni jogosult elektronikus hírközlési szolgáltatónál, az épület tulajdonosánál vagy harmadik személynél (a továbbiakban együtt: épület hozzáférési ponttal vagy az épületen belüli fizikai infrastruktúrával rendelkezni jogosult személy). Az ajánlatkéréssel kapcsolatos követelményeket az Elnök rendeletben állapítja meg.
-
-(2) Ha az ajánlatkérés nem vagy nem megfelelően tartalmazza az Elnök rendeletében meghatározott információkat, az épület hozzáférési ponttal vagy az épületen belüli fizikai infrastruktúrával rendelkezni jogosult személy az ajánlatkérés kézhezvételét követő 15 napon belül a hiányzó adatok, információk pótlására hívja fel a nyilvános elektronikus hírközlő hálózat üzemeltetőjét.
-
-(3) Az épület hozzáférési ponttal vagy az épületen belüli fizikai infrastruktúrával rendelkezni jogosult személy az – Elnök rendeletében meghatározott információkat teljeskörűen tartalmazó – ajánlatkérés kézhezvételtől számított 15 napon belül írásban válaszol a nyilvános elektronikus hírközlő hálózat üzemeltetőjének az (1) bekezdés szerinti ajánlatkérés elfogadásáról vagy elutasításáról. Az ajánlatkérés elfogadása esetén az épület hozzáférési ponttal vagy az épületen belüli fizikai infrastruktúrával rendelkezni jogosult személy jogosult az elektronikus hírközlési szolgáltatóval megállapodás létrehozására irányuló érdemi egyeztetést kezdeményezni. A felek az egyeztetés eredményéről jegyzőkönyvet készítenek.
-
-(4) Ha az ajánlatkérés nem kerül elutasításra, a megállapodást az ajánlatkérés kézhezvételétől – a (2) bekezdés esetében a hiánypótlási felhívás teljesítésétől – számított 30 napon belül kell megkötni.
-
-(5) Az épület hozzáférési ponttal vagy az épületen belüli fizikai infrastruktúrával rendelkezni jogosult személy az Elnök rendeletében előírt információkat tartalmazó ajánlatkérést kizárólag akkor jogosult elutasítani, ha
-
-- a) az ajánlatkérésben foglaltak teljesítése a biztonságos és rendeltetésszerű használatot akadályozza;
-- b) a fizikai infrastruktúrához biztosított hozzáférés más jogviszonyból eredő, méltányolható magánérdeket súlyosan sért, vagy
-- c) a fizikai infrastruktúrához való hozzáférés objektív műszaki ok miatt nem lehetséges.
-
-(6) Ha az épület hozzáférési ponttal vagy az épületen belüli fizikai infrastruktúrával rendelkezni jogosult személy a megkeresést elutasítja, az elutasításról szóló válaszában köteles megjelölni az (5) bekezdésben foglalt valamely okot, továbbá válaszát köteles indokolni és bizonyítékokkal alátámasztani.
-
-(7) Ha az (1) bekezdés szerinti ajánlatkérésre az épület hozzáférési ponttal vagy az épületen belüli fizikai infrastruktúrával rendelkezni jogosult személy a (3) bekezdésben meghatározott időtartamon belül nem vagy nem érdemben válaszol, vagy egyébként olyan magatartást tanúsít, amely a felek közti egyeztetés elhúzódását eredményezi, az ajánlatkérést benyújtó fél a felek közti egyeztetés előmozdítása, az érdemi együttműködés elősegítése érdekében általános hatósági felügyeleti eljárás iránti kérelmet nyújthat be a Hivatalhoz, ha a kérelem tárgyával összefüggésben jogvitás eljárás nem indult.
-
-(8) Abban az esetben, ha az (1) bekezdés szerinti ajánlatkérésre az épület hozzáférési ponttal vagy az épületen belüli fizikai infrastruktúrával rendelkezni jogosult személy a (3) bekezdésben meghatározott időtartamon belül nem vagy nem érdemben válaszol, vagy egyébként olyan magatartást tanúsít, amely a felek közti egyeztetés elhúzódását eredményezi, a Hivatal bírságot szab ki, amelynek mértéke a jogsértő nettó árbevételének legfeljebb 0,05%-a, de legalább százezer forint. Árbevételi adatok vagy az árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, legfeljebb százmillió forint. E § alkalmazása szempontjából nettó árbevétel alatt az eljárás résztvevőjének számviteli törvény szerinti megelőző évi nettó árbevételét kell érteni.
-
-99/C. § (1) Ha az épület hozzáférési ponttal vagy az épületen belüli fizikai infrastruktúrával rendelkezni jogosult személy a 99/B. § (1) bekezdése szerinti ajánlatkérésre
-
-- a) a 99/B. § (3) bekezdése szerinti határidőn belül nem válaszol,
-- b) az ajánlatkérést elutasítja, vagy
-- c) a megállapodás a kezdeményezés kézhezvételétől számított 30 napon belül nem jön létre,
-
-kérelmével bármely fél a Hatósághoz fordulhat.
-
-(2) A Hatóság (1) bekezdés szerinti eljárásában az 57–61. § szerinti jogvitás eljárás szabályait az alábbi eltérésekkel kell alkalmazni:
-
-- a) a kérelemhez az Elnök rendeletében előírt dokumentumokat kell csatolni,
-- b) a nyilvános elektronikus hírközlő hálózat üzemeltetőjének kell bizonyítania az eljárásban, hogy az épületen belüli fizikai infrastruktúra párhuzamos kiépítése objektív műszaki okok miatt nem lehetséges vagy gazdaságilag észszerűtlen,
-- c) az épület hozzáférési ponttal vagy az épületen belüli fizikai infrastruktúrával rendelkezni jogosult személynek kell bizonyítania a 99/B. § (5) bekezdése szerinti valamely elutasítási ok fennállását, valamint a hozzáférés biztosításával kapcsolatban felmerült költségét,
-- d) a Hatóság a közös használat érdekében az épület hozzáférési pontot vagy az épületen belüli fizikai infrastruktúrát használó más elektronikus hírközlési szolgáltatót a fizikai infrastruktúra jellegére, hozzáférhetőségére vonatkozóan adatszolgáltatásra kötelezheti, azzal, hogy az e körben szolgáltatni kért adat nem minősíthető üzleti titokká.
-
-(3) A Hatóság – a kérelem megalapozottsága esetén, az Elnök rendeletében foglalt részletes szabályok szerint – meghatározza a tisztességes és észszerű feltételeket, így különösen a feleket terhelő méltányos díjakat, költségeket.
-
-(4) Ha a jogvitás eljárás során feltárt tényállás alapján a Hatóság megállapítja a 99/B. § (7) bekezdésében foglaltak megsértését, és ugyanezen jogsértés tárgyában a jogvitás eljárás megindítását megelőzően nem indult általános hatósági felügyeleti eljárás, a Hatóság a jogvitás eljárást kezdeményező kérelembe foglalt, bírság kiszabására irányuló kifejezett kérelem esetén a jogvitás eljárást érdemben lezáró döntésében a 99/B. § (8) bekezdésében meghatározott bírságot szab ki.
+(2) Az (1) bekezdésben foglalt kötelezettség teljesítésére az érintett elektronikus hírközlési szolgáltatónak írásban fel kell szólítania az ingatlan tulajdonosát. Ha az írásbeli felszólítástól számított 15 napon belül a tulajdonos nem intézkedik, a szolgáltató kérésére a hatóság határozattal kötelezheti a tulajdonost a munkálatok elvégzésére.
 
 ## NEGYEDIK RÉSZ — AZ ELEKTRONIKUS HÍRKÖZLÉSI SZOLGÁLTATÓK KÖTELEZETTSÉGEI
 
 ### XI. Fejezet — AZ ELEKTRONIKUS HÍRKÖZLÉSI SZOLGÁLTATÓK SZÁMÁRA ELŐÍRHATÓ KÖTELEZETTSÉGEK
 
-100. § (1) A Hatóság a jelentős piaci erővel nem rendelkező szolgáltatókra – e törvény eltérő rendelkezése hiányában – e fejezetben meghatározott kötelezettségeken kívül más kötelezettségeket nem írhat elő, és hatályában nem tarthat fenn.
+100. § (1) A hatóság a jelentős piaci erővel nem rendelkező szolgáltatókra – e törvény eltérő rendelkezése hiányában – e fejezetben meghatározott kötelezettségeken kívül más kötelezettségeket nem írhat elő, illetve hatályában nem tarthat fenn.
 
-(2) A Hatóság a hatékonyság, a fenntartható verseny, a rendkívül nagy kapacitású hálózatok kiépítése, továbbá a befektetések ösztönzése és előmozdítása, valamint a fogyasztói előnyök érvényesítése érdekében a 2. §-ban foglalt célokkal, alapelvekkel összhangban hozzáférési vagy összekapcsolási kötelezettséget írhat elő a végfelhasználói hozzáférés felett rendelkező szolgáltató és az elektronikus hírközlő hálózat üzemeltetője számára. Ezzel összefüggésben a Hatóság a szolgáltató számára előírhat a 104. §, a 106. §, valamint a 107. § szerinti kötelezettségeket, és e törvényben meghatározott jelentős piaci erőhöz nem kötött egyéb kötelezettségeket is. Ennek keretében a Hatóság
+(2) Az előfizetői hozzáférési pontok közötti összeköttetés biztosítása érdekében az előfizetői hozzáférést nyújtó szolgáltató köteles a hatóság határozatában foglaltak szerint hálózatát más szolgáltató hálózatával összekapcsolni. Ezzel összefüggésben a hatóság a szolgáltató számára előírhat a 104. §, a 106. §, valamint a 107. § szerinti kötelezettségeket, illetve e törvényben meghatározott egyéb kötelezettségeket.
 
-- a) a végfelhasználói hozzáférés felett rendelkező szolgáltató számára az előfizetői hozzáférési pontok közötti összeköttetés biztosításához szükséges mértékű kötelezettségeket állapíthat meg, indokolt esetben előírhatja, hogy az előfizetői hozzáférési pontok közötti összeköttetés biztosítása érdekében kapcsolja össze hálózatát más szolgáltatóval;
-- b) a végfelhasználói hozzáférés felett rendelkező szolgáltató számára előírhatja, hogy a szolgáltatások közötti átjárhatóság érdekében indokolt esetben és a szükséges mértékben biztosítsa a szolgáltatások együttműködését;
-- c) az elektronikus hírközlő hálózat üzemeltetője számára előírhatja, hogy a digitális rádió- és televízió-műsorok és a kapcsolódó kiegészítő szolgáltatások végfelhasználók általi elérése érdekében API-khez, EPG-khez tisztességes, észszerű és az egyenlő elbánás követelményének megfelelő feltételek mellett hozzáférést biztosítson más szolgáltatók, vállalkozások számára.
+(3) Annak érdekében, hogy a végfelhasználók elérhessék a digitális rádió- és televízió-műsorokat, a szolgáltató a külön jogszabályban meghatározott körben köteles a hatóság határozatában meghatározott eszközökhöz tisztességes, ésszerű és megkülönböztetésmentes feltételek mellett hozzáférést biztosítani más szolgáltatók számára.
 
-(2a) Az Európai Bizottság által kiadott a végfelhasználók végpontok közötti összeköttetésére vonatkozó végrehajtási jogi aktusnak megfelelően, az abban foglaltak figyelembevételével a Hatóság a hatékonyság, a fenntartható verseny, a rendkívül nagy kapacitású hálózatok kiépítése, továbbá a befektetések ösztönzése és előmozdítása, valamint a fogyasztói előnyök érvényesítése érdekében az előfizetői hozzáférési pontok közötti összeköttetéshez és a szolgáltatások átjárhatóságához szükséges kötelezettséget írhat elő a 2. §-ban foglalt célokkal, alapelvekkel összhangban a számfüggetlen személyközi hírközlési szolgáltatásokat nyújtó, jelentős földrajzi lefedettséggel és ügyfélszámmal rendelkező szolgáltatók számára. A Hatóság ennek keretében előírhatja különösen
+(4) Ha a szolgáltató a hatóság határozatában foglaltaknak nem tesz eleget, a hatóság hivatalból vagy kérelemre a szolgáltatót annak teljesítésére kötelezi.
 
-- a) a szolgáltatás nyújtásával kapcsolatos meghatározott információk közzétételét, a Hatósággal és más szolgáltatókkal való megosztását és használatának lehetővé tételét;
-- b) az Európai Bizottság által összeállított és az Európai Unió Hivatalos Lapjában közzétett szabványok és előírások, illetve egyéb vonatkozó uniós vagy nemzetközi szabványok alkalmazását.
+101. § A hatóság a 106. § szerinti kötelezettségek előírása során megállapíthat olyan mind a kötelezett, mind a jogosult szolgáltatók számára kötelező műszaki és üzemeltetési feltételeket, amelyek a hálózat egysége miatt szükségesek.
 
-(3) A Hatóság a határozatával előírhatja, hogy a szolgáltató a 90. § szerinti közös eszközhasználatra vonatkozó szolgáltatását valamennyi azt igénylő másik szolgáltató számára nyújtsa, amennyiben a szolgáltatás tárgyát képező eszközök megkettőzése gazdaságtalan vagy fizikailag kivitelezhetetlen.
-
-(4)
-
-(5) Ha a szolgáltató a Hatóság határozatában foglaltaknak nem tesz eleget, a Hatóság hivatalból a szolgáltatót annak teljesítésére kötelezi.
-
-100/A. § (1) A Hatóság erre vonatkozó megalapozott kérelem esetén határozatában előírhatja a vezetékek, kábelek és a kapcsolódó eszközök építményeken belüli vagy – amennyiben azok az építményen kívül találhatók – az első gyűjtő- vagy elosztási pontig tartó megosztását az elektronikus hírközlő hálózat üzemeltetője vagy az épületen belüli fizikai infrastruktúrával rendelkezni jogosult személy számára, amennyiben a kérelem tárgyát képező vezetékek, kapcsolódó eszközök megkettőzése gazdaságtalan vagy fizikailag kivitelezhetetlen és a kötelezettség előírása a végfelhasználók irányában érvényesülő verseny előmozdításához szükséges. A Hatóság határozatában meghatározhatja a vezetékekhez, a kapcsolódó eszközökhöz és szolgáltatásokhoz való hozzáférés feltételeit, továbbá a 102. §, a 104. § szerinti, valamint a költségek megosztására vonatkozó kötelezettségeket írhat elő. A költségek megosztására vonatkozó feltételek kialakítása során a Hatóság figyelembe veheti a megosztáshoz kapcsolódó kockázati tényezőket.
-
-(2) A Hatóság az (1) bekezdés alapján előírt kötelezettségeket méltányos és észszerű feltételekkel kiterjesztheti az első gyűjtő- vagy elosztási pont feletti hálózatrészre, amennyiben az (1) bekezdés alapján előírt kötelezettségek, illetve – amennyiben az adott esetben értelmezhető – a 63. §-ban foglaltak alapján kirótt kötelezettségek önmagukban nem elegendőek az eszközök gazdasági vagy műszaki okok miatt megkettőzhetetlensége eredményeként előálló piaci problémák kezelésére és a fennálló vagy kialakulóban lévő versenyhelyzet a végfelhasználók számára a versenyből származó előnyök csökkenéséhez vezethet. A Hatóság a kötelezettséggel érintett hálózatrész határpontját úgy jelöli ki, hogy az a végfelhasználókhoz a lehető legközelebb helyezkedjen el, ugyanakkor a hozzáférést igénylő számára lehetővé tegye, hogy a gazdaságos szolgáltatásnyújtáshoz szükséges számú végfelhasználót elérje.
-
-(3) A Hatóság aktív vagy virtuális hálózati elemekhez való hozzáférésre vonatkozó kötelezettségeket írhat elő, amennyiben a passzív hálózati elemekhez való hozzáférés műszakilag megvalósíthatatlan vagy gazdaságosan nem megvalósítható és a kötelezettség előírása nélkül a hozzáférési kötelezettséghez kapcsolódó szabályozási cél nem érhető el.
-
-(4) A (2) és (3) bekezdésben foglalt kötelezettségeket a Hatóság – az (5) bekezdés szerinti eset kivételével – nem írja elő
-
-- a) a 63/A. § (2) bekezdésében foglalt feltételeknek megfelelő szolgáltatóra, amely más szolgáltatók számára – a díjakra is kiterjedően – méltányos, megkülönböztetéstől mentes és észszerű feltételek mellett az érintett végfelhasználók gazdaságos elérését lehetővé tevő hozzáférést biztosít valamely rendkívül nagy kapacitású hálózathoz,
-- b) a 63/A. § (2) bekezdésében foglalt feltételeknek nem megfelelő szolgáltatóra, amennyiben a Hatóság az egyedi ügyben feltárt tényállás alapján megállapítja, hogy a szolgáltató – a díjakra is kiterjedően – méltányos, megkülönböztetéstől mentes és észszerű feltételekkel hozzáférést kínál más szolgáltatók számára valamely rendkívül nagy kapacitású hálózathoz, vagy
-- c) ha a kötelezettség előírása veszélyeztetné valamely új – különösen a kisebb helyi projekt keretében létrejövő – hálózat létesítésének gazdasági vagy pénzügyi megvalósíthatóságát.
-
-(5) A (4) bekezdés a) pontja szerinti esetben is előírható a (2) és (3) bekezdés szerinti kötelezettség, ha az érintett hálózatrész állami támogatással került megépítésre.
-
-100/B. § (1) A Hatóság határozatában az elektronikus hírközlő hálózat üzemeltetője számára passzív hálózati elemekhez való hozzáférés biztosításával kapcsolatos, vagy meghatározott területre kiterjedő barangolási célú hozzáférést biztosító megállapodás megkötésére irányuló kötelezettségeket írhat elő, amennyiben az valamely, rádiófrekvencia használatán alapuló helyi szintű szolgáltatás végfelhasználók számára történő nyújtásához közvetlenül szükséges és a végfelhasználók elérésére más – valamennyi vállalkozás számára méltányos, megkülönböztetéstől mentes és észszerű feltételekkel elérhető – hasonló és megvalósítható megoldás nem áll rendelkezésre.
-
-(2) Ha a passzív hálózati elemekhez való hozzáférés önmagában nem elégséges az (1) bekezdésben foglalt célok eléréséhez, a Hatóság az aktív hálózati elemek megosztására vonatkozó kötelezettségeket írhat elő.
-
-(3) Az (1) bekezdésben foglalt kötelezettségeket a Hatóság akkor írhatja elő, ha
-
-- a) a kötelezettségek előírásának lehetőségét a frekvenciahasználati jogosultságot biztosító egyedi engedély vagy hatósági szerződés egyértelműen rögzíti és
-- b) a kötelezettségekkel érintett területen a szolgáltatás nyújtásához szükséges, rádióspektrum használatán alapuló hálózatokat vagy szolgáltatásokat biztosító infrastruktúra piaci alapon történő kiépítése a kötelezettségek előírása hiányában objektív gazdasági vagy fizikai okból lehetetlen, és ezért a véghasználók hálózatokhoz vagy szolgáltatásokhoz való hozzáférése súlyosan hiányos vagy lehetetlen lenne.
-
-(4) A Hatóság az (1) bekezdés szerinti kötelezettségek előírása során különösen a következő szabályozási célokat és szempontokat veszi figyelembe:
-
-- a) a hálózatok és szolgáltatások elérhetőségének biztosítása a fő közlekedési útvonalak mentén és különösen a vidéki területeken;
-- b) a végfelhasználók szolgáltatások közötti választási lehetőségének jelentős mértékű bővítése;
-- c) a szolgáltatásminőség javulásának lehetősége;
-- d) a hatékony rádióspektrum-használat;
-- e) a megosztás és a kapcsolódó feltételek műszaki megvalósíthatósága;
-- f) a piaci verseny állapota;
-- g) a technológiai innováció;
-- h) arra irányuló ösztönzők támogatásának elsődleges szükségessége, hogy a hálózatot elsősorban a hálózatüzemeltető építse ki.
-
-(5) Amennyiben az (1) bekezdésben foglalt valamely kötelezettséget a Hatóság kérelemre induló eljárásban írja elő, a (3) bekezdés szerinti feltételek fennállása esetén a kötelezettség alapján a hálózati elemekhez való hozzáférést, illetve barangolási célú hozzáférést igénybe vevő szolgáltató számára a Hatóság előírhatja, hogy a rádióspektrumot ossza meg a kötelezettség alapján hozzáférést biztosító hálózatüzemeltetővel.
-
-101. § A Hatóság a 106. § szerinti kötelezettségek előírása során megállapíthat olyan mind a kötelezett, mind a jogosult szolgáltatók számára kötelező műszaki és üzemeltetési feltételeket, amelyek a hálózat egysége miatt szükségesek.
-
-101/A. § (1) A Hatóság által az e fejezetben foglaltak alapján előírt kötelezettségeknek meg kell felelniük az objektivitás, az átláthatóság, a megkülönböztetésmentesség és az arányosság követelményeinek.
-
-(2) A Hatóság az e fejezetben meghatározott kötelezettségeket előíró döntés véglegessé válásától számított öt éven belül hivatalból indított eljárásban megvizsgálja, hogy a hatósági döntés piaci hatásaira, eredményeire és az ügy szempontjából jelentős körülményekben bekövetkezett változásokra tekintettel indokolt-e a jelentős piaci erővel nem rendelkező szolgáltatóra kirótt kötelezettség módosítása vagy visszavonása. Amennyiben indokolt, az Elnök hivatalból hatósági eljárást indít a jelentős piaci erővel nem rendelkező szolgáltatóra kirótt kötelezettség módosítása vagy visszavonása iránt.
-
-### XII. Fejezet — JELENTŐS PIACI ERŐVEL RENDELKEZŐ SZOLGÁLTATÓK KÖTELEZETTSÉGEI
+### XII. Fejezet — JELENTŐS PIACI ERŐVEL RENDELKEZŐ SZOLGÁLTATÓK KÖTELEZETTSÉGEIA NAGYKERESKEDELMI SZOLGÁLTATÁSIPIACOKON
 
 ### Átláthatóság
 
-102. § (1) A Hatóság határozatában átlátható működést biztosító kötelezettségeket írhat elő a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató számára összekapcsolással, valamint hozzáféréssel kapcsolatban, és előírhatja a szolgáltató számára meghatározott információk, így különösen
+102. § (1) A hatóság határozatában átlátható működést biztosító kötelezettségeket írhat elő a jelentős piaci erővel rendelkező szolgáltató számára összekapcsolással, illetve hozzáféréssel kapcsolatban, és előírhatja a szolgáltató számára meghatározott információk, így különösen számviteli és műszaki információk, hálózati jellemzők, a szolgáltatás nyújtásának és igénybevételének feltételei, valamint az árak nyilvánosságra hozatalát.
 
-- a) számviteli és műszaki információk, hálózati jellemzők és azok várható változása,
-- b) a szolgáltatás nyújtásának és igénybevételének feltételei, ideértve a szolgáltatások és alkalmazások használatát, illetve az azokhoz történő hozzáférést korlátozó, módosító bármilyen feltételt, különös tekintettel a hagyományos infrastruktúrákról való átállásra vonatkozó feltételekre,
-- c) az árak nyilvánosságra hozatalát, valamint
-- d) a fogyatékossággal élő végfelhasználók egyenértékű hozzáférésének biztosítása érdekében hozott intézkedésekre vonatkozó információk összehasonlítható, megfelelő és naprakész közzétételét.
+(2) A hatóság az egyenlő elbánás elve alapján megállapított kötelezettségekhez kapcsolódóan előírhatja a jelentős piaci erővel rendelkező szolgáltató számára, hogy az e kötelezettségével érintett hálózati szerződéseit azok megkötését követő 8 napon belül nyújtsa be a hatóság részére.
 
-(2) A Hatóság az egyenlő elbánás elve alapján megállapított kötelezettségekhez kapcsolódóan előírhatja a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató számára, hogy az e kötelezettségével érintett hálózati szerződéseit azok megkötését követő 8 napon belül nyújtsa be a Hatóság részére.
+103. § (1) A hatóság az átláthatóság biztosításának érdekében többek között előírhatja a határozatában foglaltaknak megfelelő bontású és részletezettségű referenciaajánlat készítését, a nyilvánosságra hozandó adatok körét és a nyilvánosságra hozatal módját.
 
-103. § (1) A Hatóság az átláthatóság biztosításának érdekében többek között előírhatja a határozatában foglaltaknak megfelelő bontású és részletezettségű referenciaajánlat készítését, a nyilvánosságra hozandó adatok körét és a nyilvánosságra hozatal módját.
+(2) Amennyiben e törvény vagy – a 168. §-ban meghatározott időpontot követően – a hatóság határozata alapján a szolgáltatót a fémes sodrott érpár tekintetében helyi hurok átengedésével kapcsolatos kötelezettség terheli, a jelentős piaci erővel rendelkező szolgáltató köteles legalább a külön jogszabályban meghatározott tartalmú referenciaajánlatot közzétenni.
 
-(2) Amennyiben a Hatóság határozata alapján a szolgáltatót a 106. §, illetve 106/A. § szerinti, a hálózati infrastruktúrához való nagykereskedelmi hozzáféréssel kapcsolatos kötelezettség terheli, a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató köteles legalább a Hatóság határozatában meghatározott tartalmú referenciaajánlatot közzétenni.
-
-(3) A referenciaajánlat készítésére köteles szolgáltató (e § alkalmazásában: kötelezett szolgáltató) a Hatóság határozatában meghatározott feltételekkel közzétett referenciaajánlatához annak hatálya alatt kötve van bármely összekapcsolást, illetve hozzáférést igénylő szolgáltatóval szemben (e § alkalmazásában: jogosult szolgáltató), attól a hálózati szerződéseiben a jogosult szolgáltató beleegyezésével sem térhet el.
+(3) A referenciaajánlat készítésére köteles szolgáltató (e § alkalmazásában: kötelezett szolgáltató) a jogszabályban meghatározott, illetve a piacelemzést követően a hatóság által meghatározott feltételekkel közzétett referenciaajánlatához annak hatálya alatt kötve van bármely összekapcsolást, illetve hozzáférést igénylő szolgáltatóval szemben (e § alkalmazásában: jogosult szolgáltató), attól a hálózati szerződéseiben a jogosult szolgáltató beleegyezésével sem térhet el.
 
 (4) A referenciaajánlatban foglalt szolgáltatásokat a kötelezett szolgáltató a jogosult szolgáltató részére
 
 - a) átlátható módon,
 - b) az egyenlő elbánás elvének,
 - c) az üzleti tisztesség követelményeinek megfelelően, és
-- d) a nyújtott szolgáltatásoknak a jogszabály, illetve a piacelemzést követően a Hatóság határozata szerint, a piaci igényeknek megfelelő alapvető szolgáltatásokra bontásával
+- d) a nyújtott szolgáltatásoknak a jogszabály, illetve a piacelemzést követően a hatóság határozata szerint, a piaci igényeknek megfelelő alapvető szolgáltatásokra bontásával
 
 köteles biztosítani.
 
@@ -2274,83 +1423,68 @@ köteles biztosítani.
 
 ### Egyenlő elbánás
 
-104. § (1) A Hatóság határozatában összekapcsolással, illetve hozzáféréssel kapcsolatban egyenlő elbánásra vonatkozó kötelezettségeket írhat elő a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató számára.
+104. § (1) A hatóság határozatában összekapcsolással, illetve hozzáféréssel kapcsolatban egyenlő elbánásra vonatkozó kötelezettségeket írhat elő a jelentős piaci erővel rendelkező szolgáltató számára.
 
-(2) Az egyenlő elbánásra vonatkozó kötelezettségeknek elsősorban azt kell biztosítaniuk, hogy a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató
+(2) Az egyenlő elbánásra vonatkozó kötelezettségeknek elsősorban azt kell biztosítaniuk, hogy a jelentős piaci erővel rendelkező szolgáltató
 
 - a) a lényegét tekintve azonos szolgáltatásokat nyújtó más szolgáltatók vonatkozásában lényegét tekintve azonos körülmények között lényegét tekintve azonos feltételeket alkalmaz, és
 - b) legalább ugyanolyan feltételekkel, legalább ugyanolyan minőségű szolgáltatásokat és információt nyújt mások számára, mint amelyeket saját szolgáltatásaira, illetve bármely általa irányított más szolgáltató szolgáltatásaira alkalmaz.
 
-(2a) A Hatóság a (2) bekezdésben foglalt kötelezettség keretében előírhatja a jelentős piaci erővel rendelkező szolgáltató számára, hogy valamennyi szolgáltatónak, továbbá a saját kiskereskedelmi területének is, egységes határidővel és feltételekkel – ideértve az árra és a szolgáltatás színvonalára vonatkozó feltételeket is –, továbbá azonos rendszerek és folyamatok révén biztosítsa a hozzáférést.
-
-(3) E törvény alkalmazásában az egyenlő elbánás elvébe ütköző magatartásnak minősülhet különösen, ha a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató:
+(3) E törvény alkalmazásában az egyenlő elbánás elvébe ütköző magatartásnak minősülhet különösen, ha a jelentős piaci erővel rendelkező szolgáltató:
 
 - a) hálózati szolgáltatás nyújtását indokolatlanul olyan műszaki feltételekhez köti, amelyek teljesítésére csak egyetlen vagy kevés szolgáltató képes;
 - b) a hálózati szolgáltatás ellenértékének megállapításakor olyan árazási feltételeket – ideértve a forgalom után számított árkedvezményt – állapít meg, amelyek alkalmazásával a legkedvezőbb feltételek csak egy vagy kevés számú szolgáltató számára válnak elérhetővé;
 - c) az előfizetőivel kötött szerződéseiben olyan indokolatlan feltételeket alkalmaz, amelynek eredményeképpen az előfizetőnek a szolgáltatóval fennálló jogviszonyában bekövetkező változás egyben az előfizető és más elektronikus hírközlési szolgáltató között elektronikus hírközlési szolgáltatás tárgyában fennálló vagy létrejövő megállapodás teljesítését veszélyezteti;
-- d) az előfizetőivel kötött szerződése olyan feltételt tartalmaz, amely más elektronikus hírközlési szolgáltató szolgáltatásainak az igénybevételét kizárja;
-- e) a hálózati szolgáltatás igénybevételének feltételeit vagy minőségi jellemzőit úgy határozza meg, hogy azok nem lehetnek rosszabbak, mint az általa vagy ellenőrzése alatt álló szolgáltató által nyújtott ezen alapuló kiskereskedelmi szolgáltatás megvalósításának, igénybevételének feltételei vagy jellemzői.
+- d) az előfizetőivel kötött szerződése olyan feltételt tartalmaz, amely más elektronikus hírközlési szolgáltató szolgáltatásainak az igénybevételét kizárja.
 
 ### Számviteli szétválasztás
 
-105. § (1) A Hatóság határozatában számviteli szétválasztásra vonatkozó részletes kötelezettségeket írhat elő összekapcsolással, illetve hozzáféréssel összefüggő meghatározott tevékenységekkel kapcsolatban a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató számára.
+105. § (1) A hatóság határozatában – a 87. §-ban foglaltakon túl – számviteli szétválasztásra vonatkozó további részletes kötelezettségeket írhat elő összekapcsolással, illetve hozzáféréssel összefüggő meghatározott tevékenységekkel kapcsolatban a jelentős piaci erővel rendelkező szolgáltató számára.
 
-(2) A Hatóság a számviteli szétválasztással kapcsolatban előírhatja többek között az egyenlő elbánás kötelezettségnek történő megfelelés biztosítása, valamint a tisztességtelen keresztfinanszírozás megakadályozása érdekében a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató számára nagykereskedelmi árai és belső transzferárai átláthatóvá tételét.
+(2) A hatóság a számviteli szétválasztással kapcsolatban előírhatja többek között a jelentős piaci erővel rendelkező szolgáltató számára nagykereskedelmi árai és transzferárai átláthatóvá tételét, továbbá egyéb, az átlátható működéssel, illetve az egyenlő elbánással kapcsolatos kötelezettség, valamint az árpréstilalom ellenőrzéséhez szükséges adatok szolgáltatását.
 
-(3) A Hatóság határozatában meghatározhatja a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató által a számviteli szétválasztásra alkalmazandó elveket, formát és módszereket, illetve a kimutatások tartalmát.
+(3) A hatóság – a külön jogszabályban meghatározott keretek között – meghatározhatja a jelentős piaci erővel rendelkező szolgáltató által a számviteli szétválasztásra alkalmazandó elveket, formát és módszereket, illetve a kimutatások tartalmát.
 
-(4) A Hatóság – a 33. § (4) bekezdésében foglaltak figyelembevételével – közzé tehet olyan számviteli adatokat, amelyek hozzájárulhatnak nyílt versenypiac kialakításához.
+(4) A számviteli szétválasztási kimutatást a szolgáltatótól független könyvvizsgáló évente ellenőrzi a jelentős piaci erővel rendelkező szolgáltató költségén, és az elektronikus hírközlésre vonatkozó szabályoknak való megfelelőséget tanúsítja. A könyvvizsgáló tanúsítványát nyilvánosságra kell hozni.
+
+(5) A hatóság a számviteli szétválasztási kimutatásban foglalt adatokat a feladatainak ellátásához korlátozás nélkül felhasználhatja, illetve azokat a szükséges mértékig a versenyhatóság rendelkezésére bocsáthatja a szolgáltató egyidejű értesítésével.
 
 ### Hozzáféréssel és összekapcsolással kapcsolatos kötelezettségek
 
-106. § (1) A nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató a meghatározott hálózati elemekhez, szolgáltatásokhoz való hozzáférést és a kapcsolódó közös eszközhasználatot, erre vonatkozó gazdaságilag és műszakilag indokolt igény esetén – a Hatóság határozatában foglaltak szerint – biztosítani köteles.
+106. § (1) A jelentős piaci erővel rendelkező szolgáltató a meghatározott hálózati elemekhez, szolgáltatásokhoz való hozzáférést és a kapcsolódó közös eszközhasználatot, erre vonatkozó gazdaságilag és műszakilag indokolt igény esetén – a hatóság határozatában foglaltak szerint – biztosítani köteles.
 
-(2) A Hatóság az (1) bekezdés szerinti kötelezettséget különösen akkor írhat elő, ha a hozzáférés megtagadása, a korábbi hozzáférés visszavonása vagy hasonló hatással járó észszerűtlen feltételek kikötése a Hatóság mérlegelése szerint megakadályozná a hatékony piaci verseny kialakulását az előfizetői szolgáltatások terén, és a végfelhasználók érdekeivel ellentétes eredményre vezetne, továbbá a 106/A. § szerinti kötelezettségek önmagukban nem járulnak hozzá kellőképpen a hatékony piaci verseny kialakulásához és a végfelhasználók érdekeinek érvényesüléséhez.
+(2) A hatóság az (1) bekezdés szerinti kötelezettséget különösen akkor írhat elő, ha a hozzáférés megtagadása, a korábbi hozzáférés visszavonása vagy hasonló hatással járó ésszerűtlen feltételek kikötése a hatóság mérlegelése szerint megakadályozná a hatékony piaci verseny kialakulását az előfizetői szolgáltatások terén, és ebből eredően az előfizetők érdekeivel ellentétes eredményre vezetne.
 
-(3) A Hatóság az (1) bekezdésben foglaltak előírása során különösen arra kötelezheti a szolgáltatót, hogy
+(3) A hatóság az (1) bekezdésben foglaltak előírása során különösen arra kötelezheti a szolgáltatót, hogy
 
-- a) a Hatóság által meghatározott hálózati elemekhez és kapcsolódó eszközökhöz hozzáférést biztosítson, adott esetben beleértve a helyi hurok és a helyi alhurok átengedését; aktív vagy virtuális hálózati elemekhez és szolgáltatásokhoz való hozzáférés biztosítását is;
+- a) hozzáférést biztosítson meghatározott hálózati elemekhez és eszközökhöz, beleértve a helyi hurok átengedését és a bitfolyam hozzáférést;
 - b) jóhiszemű tárgyalásokat folytasson a hozzáférést kérővel;
 - c) ne vonja vissza a szolgáltatásokhoz, illetve az eszközökhöz korábban biztosított hozzáférést;
-- d) továbbértékesítés céljából harmadik felek részére meghatározott hálózati szolgáltatásokat nyújtson;
-- e) szabad hozzáférést biztosítson az olyan interfészekhez, protokollokhoz vagy egyéb kulcsfontosságú technológiákhoz, amelyek a szolgáltatások – beleértve a virtuális hálózati szolgáltatásokat – együttműködő képessége szempontjából nélkülözhetetlenek;
-- f) tegye lehetővé a helymegosztást vagy a közös eszközhasználat más formáját;
-- g) a végpontok közötti szolgáltatások kölcsönös együttműködő képességének felhasználók részére történő biztosításához szükséges meghatározott szolgáltatásokat nyújtson, beleértve a mobil rádiótávközlő hálózatokon történő barangolást;
-- h) hozzáférést biztosítson a működést támogató rendszerekhez vagy hasonló szoftverrendszerekhez, amelyek a szolgáltatások nyújtása során szükségesek a tisztességes verseny biztosításához;
-- i) összekapcsoljon, illetve csatlakoztasson hálózatokat vagy hálózati eszközöket és létesítményeket;
-- j) hozzáférés biztosítására vonatkozó kötelezettségek esetén, amennyiben az a hálózat szabályos működésének biztosítása céljából szükséges, meghatározott műszaki vagy üzemeltetési feltételeknek feleljen meg;
-- k) biztosítson hozzáférést a kapcsolódó szolgáltatásokhoz, beleértve az azonosítási, helymeghatározási és a jelenléti szolgáltatásokat.
+- d) továbbértékesítés céljából harmadik felek részére meghatározott hálózati szolgáltatásokat nyújtson, így többek között internet híváskezdeményezés forgalmi szolgáltatást és átalánydíjas internet híváskezdeményezés forgalmi szolgáltatást;
+- e) szabad hozzáférést biztosítson az olyan interfészekhez, protokollokhoz vagy egyéb kulcsfontosságú technológiákhoz, amelyek a szolgáltatások együttműködő-képessége szempontjából nélkülözhetetlenek;
+- f) tegye lehetővé a helymegosztást vagy a közös eszközhasználat más formáját, beleértve az elektronikus hírközlési építmények közös használatát;
+- g) a végpontok közötti szolgáltatások kölcsönös együttműködő-képességének felhasználók részére történő biztosításához szükséges meghatározott szolgáltatásokat nyújtson, beleértve az intelligens hálózati szolgáltatásokra szolgáló berendezésekhez való hozzáférést vagy a mobil rádiótávközlő hálózatokon történő barangolást;
+- h) megfelelő biztonsági és alkalmazási feltételek szerint hozzáférést biztosítson a működést támogató rendszerekhez vagy hasonló szoftverrendszerekhez, amelyek a szolgáltatások nyújtása során szükségesek a tisztességes verseny biztosításához;
+- i) összekapcsoljon, illetve csatlakoztasson hálózatokat vagy hálózati eszközöket.
 
-(4) A Hatóság a határozatában megállapítja az (1) bekezdés szerinti kötelezettségek teljesítésének részletes feltételeit, így különösen a tisztességes eljárással, észszerűséggel és az ütemezéssel kapcsolatos feltételeket rögzíthet, továbbá megállapíthat olyan, mind a kötelezett, mind a jogosult szolgáltatók számára kötelező műszaki és üzemeltetési feltételeket, amelyek a hálózat egysége miatt szükségesek.
+(4) A hatóság a határozatában megállapítja az (1) bekezdés szerinti kötelezettségek teljesítésének részletes feltételeit, továbbá megállapíthat olyan, mind a kötelezett, mind a jogosult szolgáltatók számára kötelező műszaki és üzemeltetési feltételeket, amelyek a hálózat egysége miatt szükségesek.
 
-(5) A Hatóság az (1) bekezdés szerinti kötelezettségek előírása indokoltságának és szükségességének mérlegelése során vizsgálja, hogy a jelen §-ban foglaltaktól eltérő – akár a vizsgált piacon, akár valamely kapcsolódó piacon elérhető – hozzáférési lehetőségek önmagukban elégségesek-e az azonosított versenyproblémák végfelhasználók érdekének megfelelő kezelésére. A hozzáférési lehetőségek vizsgálata kiterjed a 100. §-ban foglaltak szerinti hozzáférési lehetőségekre, a kereskedelmi ajánlatokra és a jelen § szerinti – más hálózati eszközökhöz és szolgáltatásokhoz kapcsolódó – elektronikus hírközlésre vonatkozó szabály alapján fennálló vagy szabályozni tervezett hozzáférésre. A Hatóság az (1) bekezdés szerinti kötelezettségek előírása során továbbá a következő szempontokat veszi figyelembe:
+(5) A hatóság az (1) bekezdés szerinti kötelezettségek előírása során különösen a következő szempontokat veszi figyelembe:
 
-- a) az egymással versengő hálózati eszközök, létesítmények használatának vagy telepítésének műszaki megvalósíthatóságát és gazdasági észszerűségét a piac fejlődési ütemétől függően, figyelembe véve az érintett összekapcsolás és hozzáférés jellegét, valamint típusát, beleértve az egyéb, az adott hozzáférési szolgáltatás alapjául szolgáló eszközökhöz és szolgáltatásokhoz való hozzáférés – például az alépítményekhez való hozzáférés – megvalósíthatóságát;
+- a) az egymással versengő eszközök használatának vagy telepítésének műszaki megvalósíthatóságát és gazdasági ésszerűségét a piac fejlődési ütemétől függően, figyelembe véve az érintett összekapcsolás és hozzáférés jellegét és típusát;
 - b) a hozzáférés biztosításának megvalósíthatóságát a rendelkezésre álló kapacitás függvényében;
-- c) a hálózati eszköz, létesítmény tulajdonosának kezdeti befektetését, figyelembe véve minden, a befektetéshez kapcsolódó állami, önkormányzati és egyéb, nem magánbefektetés kockázatait a rendkívül nagy kapacitású hálózatokkal összefüggésben az ezekkel kapcsolatos beruházásokat és eltérő kockázati szinteket;
-- d) a verseny hosszú távú védelmének szükségességét különös figyelmet fordítva a gazdaságilag hatékony, infrastruktúraalapú versenyre és a fenntartható versenyt elősegítő – például a hálózatokba való közös beruházáson alapuló – innovatív üzleti modellekre;
+- c) az eszköz tulajdonosának kezdeti befektetését, figyelemmel a befektetéssel kapcsolatos kockázatokra;
+- d) a verseny hosszú távú védelmének szükségességét;
 - e) az esetleges szellemi alkotásokon fennálló jogot;
-- f) az összeurópai szolgáltatások biztosítását;
-- g) a hálózattervezést és hálózatmenedzsmentet érintő várható technológiai fejlődést;
-- h) a technológiasemlegesség biztosításának szükségességét, amely lehetővé teszi a szolgáltatók számára saját hálózatuk tervezését és menedzselését.
+- f) az összeurópai szolgáltatások biztosítását.
 
-(6) Az összekapcsolási és hozzáférési szerződés részletes feltételeit, valamint az erre irányuló ajánlattal és tárgyalással kapcsolatos eljárási szabályokat a Hatóság határozza meg.
+(6) Az összekapcsolási, illetve hozzáférési szerződés részletes feltételeit, valamint az erre irányuló ajánlattal és tárgyalással kapcsolatos eljárási szabályokat külön jogszabály határozza meg.
 
-(7) A nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató valamely hálózati szolgáltatás vagy eszközhöz való hozzáférés nyújtását nem teheti függővé az adott hálózati szolgáltatás igénybevételéhez nem szükséges más szolgáltatás vagy eszköz igénybevételétől.
-
-(8) Ha a Hatóság e § rendelkezéseivel összhangban hozzáférés biztosítására vonatkozó kötelezettségeket ír elő az elektronikus hírközlési hálózatot üzemeltető szolgáltató számára, a hálózat szabályos működésének biztosítása céljából műszaki vagy üzemeltetési feltételeket állapíthat meg e szolgáltató vagy a jogosult szolgáltató terhére összhangban az Európai Unió Hivatalos Lapjában közzétett nem kötelező szabványok vagy előírások jegyzékével, illetve az európai szabványügyi szervezetek által elfogadott szabványokkal vagy előírásokkal. Európai uniós szabványok vagy előírások hiányában a műszaki vagy üzemeltetési feltételek a Nemzetközi Távközlési Unió, a Postai és Távközlési Igazgatások Európai Értekezlete, a Nemzetközi Szabványügyi Szervezet vagy a Nemzetközi Elektrotechnikai Bizottság által elfogadott nemzetközi szabványokkal vagy ajánlásokkal összhangban is meghatározhatók.
-
-### Az elektronikus hírközlési építményekhez való hozzáférés
-
-106/A. § (1) A Hatóság határozatában az elektronikus hírközlési építményekhez – így különösen az épületekhez vagy az épületek kábelbevezetéséhez, az épületen belüli vezetékekhez, kábelekhez, továbbá antennaszerkezetekhez, tornyokhoz és egyéb támasztószerkezetekhez, oszlopokhoz, tartóoszlopokhoz, alépítményekhez, kábelcsatornákhoz, ellenőrzőkamrákhoz, ellenőrzőaknákhoz és szekrényekhez – való hozzáférési kötelezettséget és a kapcsolódó közös eszközhasználatra vonatkozó kötelezettséget írhat elő a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató számára.
-
-(2) A Hatóság az (1) bekezdés szerinti kötelezettséget különösen akkor írhat elő, ha a hozzáférés megtagadása, a korábbi hozzáférés visszavonása vagy hasonló hatással járó észszerűtlen feltételek kikötése a Hatóság mérlegelése szerint megakadályozná a hatékony piaci verseny kialakulását az előfizetői szolgáltatások terén, és a végfelhasználók érdekeivel ellentétes eredményre vezetne.
-
-(3) Ha a (2) bekezdésben foglalt célok teljesülése érdekében szükséges és azokkal arányos, a Hatóság olyan eszközökre vonatkozóan is előírhatja a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató számára a hozzáférés biztosítását, amelyek nem kapcsolódnak közvetlenül az érintett piacon nyújtott szolgáltatásokhoz.
+(7) A jelentős piaci erővel rendelkező szolgáltató valamely hálózati szolgáltatás vagy eszközhöz való hozzáférés nyújtását nem teheti függővé az adott hálózati szolgáltatás igénybevételéhez nem szükséges más szolgáltatás vagy eszköz igénybevételétől.
 
 ### A közös eszközhasználat és helymegosztás különös szabályai
 
-107. § (1) A Hatóság határozatában közös eszközhasználatra és helymegosztásra kötelezett nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató (e § alkalmazásában: kötelezett szolgáltató) – a 90. §-ban foglalt kötelezettségeken túl – köteles a jelen § szerinti adatokat a jogosult részére megadni, és a jogosult szolgáltatóval az alábbi szabályok szerint együttműködni.
+107. § (1) A hatóság határozatában közös eszközhasználatra és helymegosztásra kötelezett jelentős piaci erővel rendelkező szolgáltató (e § alkalmazásában: kötelezett szolgáltató) – a 90. §-ban foglalt kötelezettségeken túl – köteles a jelen § szerinti adatokat a jogosult részére megadni, és a jogosult szolgáltatóval az alábbi szabályok szerint együttműködni.
 
 (2) A helymegosztás keretében meg kell határozni különösen:
 
@@ -2384,316 +1518,373 @@ köteles biztosítani.
 
 (7) Amennyiben a szolgáltató referenciaajánlat alkalmazására köteles, a jelen §-ban foglaltakat a referenciaajánlatában köteles feltüntetni.
 
-### Árszabályozással és költségelszámolással kapcsolatos kötelezettségek
+### Költségalapúság és a díjak ellenőrizhetősége
 
-108. § (1) A Hatóság a költséghatékonyság és a fenntartható verseny előmozdítása, valamint a végfelhasználói előnyök érvényesítése érdekében – ha a piacelemzés megállapítása szerint a hatékony verseny hiánya azt eredményezheti, hogy az érintett szolgáltató indokolatlanul magas díjakat, vagy árprést alkalmazhat – a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató számára egyes összekapcsolási, illetve hozzáférési szolgáltatások tekintetében költségmegtérülésre és árszabályozásra vonatkozó kötelezettséget írhat elő. Ezek keretében különösen
+108. § (1) A hatóság a hatékonyság és a fenntartható verseny előmozdítása, valamint a fogyasztói előnyök érvényesítése érdekében – amennyiben a piacelemzés megállapítása szerint a hatékony verseny hiánya azt eredményezheti, hogy az érintett szolgáltató indokolatlanul magas díjakat, vagy árprést alkalmazhat – a jelentős piaci erővel rendelkező szolgáltató számára egyes összekapcsolási, illetve hozzáférési szolgáltatások tekintetében
 
 - a) költségalapú díjak alkalmazására vonatkozó kötelezettséget írhat elő,
-- b) meghatározott költségelszámolási rendszer vagy módszer alkalmazására vonatkozó kötelezettséget írhat elő, továbbá
-- c) a hatékony szolgáltatás költségének kiszámítása érdekében a szolgáltató által egyébként alkalmazottól eltérő költségelszámolási módszert alkalmazhat.
+- b) meghatározott költségszámítási és díjképzési módszer alkalmazására, illetve a díjak ellenőrizhetőségére vonatkozó kötelezettséget írhat elő, továbbá
+- c) a hatékony szolgáltatás költségének ellenőrzésére a szolgáltató által egyébként alkalmazottól eltérő költségszámítási módszert alkalmazhat.
 
-(2) A Hatóság az (1) bekezdés szerinti kötelezettség előírása vagy fenntartása indokoltságának, szükségességének mérlegelése során különösen a következő szempontokat veszi figyelembe:
+(2) A hatóság az (1) bekezdés szerinti határozatának meghozatala során figyelembe veszi a hatékony szolgáltató befektetését, az ahhoz kapcsolódó kockázatokat, a befektetett tőke méltányos mértékű megtérülését, továbbá figyelembe veheti az összehasonlítható versenypiacokon rendelkezésre álló árakat is, és ennek során mérlegelheti az érintett jelentős piaci erővel rendelkező szolgáltatóhoz hasonló helyzetben lévő szolgáltatók által alkalmazott árakat is.
 
-- a) az új hálózatok építésének és a meglévő hálózatok fejlesztésének ösztönzése;
-- b) a fenntartható verseny támogatása;
-- c) végfelhasználói előnyök, érdekek érvényesülése;
-- d) költséghatékonyság érvényesülése; és
-- e) amennyiben a kiskereskedelmi piac irányából igazolható kiskereskedelmi árkorlátozó hatás érvényesül, a 102–107. § szerinti kötelezettségek – beleértve különösen a 104. § alapján előírt gazdasági lemásolhatósági vizsgálatot – hatékony és megkülönböztetéstől mentes hozzáférést biztosítsanak.
+(3) Az (1) bekezdés a) pontja szerinti kötelezettség esetén a kötelezett szolgáltatót terheli a költségalapúság bizonyítása. A költségalapú díjak jogszerűségének megítélésekor a szolgáltatás nyújtásával összefüggésben felmerült költségek fedezete csak annyiban vehető figyelembe, amennyiben az nem haladja meg a hatékony szolgáltatónak az adott szolgáltatás nyújtásához szükséges befektetései méltányos megtérülése iránti igényét és a befektetéssel vállalt kockázatát.
 
-(3) Ha a Hatóság árszabályozással kapcsolatos kötelezettséget ír elő, a Hatóság a kötelezettség tartalmának meghatározása során figyelembe veszi, hogy az árszabályozás
+(4) Az (1) bekezdés c) pontja szerinti esetben az ellenőrzésre alkalmazott módszertan leírását a hatóság legalább olyan részletességben köteles nyilvánosságra hozni, hogy a főbb költségcsoportok kialakítására és a költségek felosztására, valamint a felosztás időszakára vonatkozó szabályok megismerhetőek legyenek.
 
-- a) biztosítsa a befektetett tőke méltányos mértékű megtérülését, figyelembe véve az új hálózatok kiépítésével kapcsolatos befektetéssel szorosan összefüggő kockázatokat;
-- b) biztosítsa az új generációs hálózatok – különösen a rendkívül nagy kapacitású hálózatok – létesítésével és kihasználtságával kapcsolatos hosszú távú végfelhasználói érdekek érvényesülését, ezzel összefüggésben vegye figyelembe a szolgáltató befektetéseit, különösen az újgenerációs hálózatokba történő befektetéseket;
-- c) a meglévő hálózati elemekre vonatkozó hozzáférés tekintetében a hatékony piacra lépés lehetőségét biztosító és az új hálózatok kiépítését és a meglévő hálózatok fejlesztését támogató, stabil és kiszámítható díjak előírásán alapuljon.
+(5) A hatóság kötelezheti a szolgáltatót a díjak megváltoztatására, és megállapíthatja a szolgáltató által nyújtott hálózati szolgáltatás ellenértékének a szolgáltató által alkalmazott előfizetői díjhoz viszonyított mértékét vagy a hálózati szolgáltatásra alkalmazandó díjat.
 
-(4) A Hatóság az (1) bekezdés szerinti kötelezettség előírása során figyelembe veszi az összehasonlítható versenypiacokon rendelkezésre álló árakat is, és ennek során mérlegeli az érintett nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltatóhoz hasonló helyzetben lévő szolgáltatók által alkalmazott árakat is.
+### XIII. Fejezet — A JELENTŐS PIACI ERŐVEL RENDELKEZŐ SZOLGÁLTATÓ KÖTELEZETTSÉGEI A KISKERESKEDELMI SZOLGÁLTATÁSI PIACOKON
 
-(5) Az (1) bekezdés a) pontja szerinti kötelezettség esetén a kötelezett szolgáltatót terheli a költségalapúság bizonyítása, beleértve az észszerű megtérülési ráta mértékének alátámasztását is. A Hatóság kötelezheti a szolgáltatót a díjak teljes körű indokolására. A költségalapú díjak jogszerűségének megítélésekor a szolgáltatás nyújtásával összefüggésben felmerült költségek fedezete csak annyiban vehető figyelembe, amennyiben az nem haladja meg a hatékony szolgáltatónak az adott szolgáltatás nyújtásához szükséges befektetései méltányos megtérülése iránti igényét és a befektetéssel vállalt kockázatát.
+### Előfizetői szolgáltatások díjával kapcsolatos kötelezettségek
 
-(6) Az (1) bekezdés b) pontja szerinti esetben a költségelszámolási rendszer vagy módszer leírását a Hatóság legalább olyan részletességben köteles nyilvánosságra hozni, hogy a főbb költségcsoportok kialakítására és a költségek felosztására, valamint a felosztás időszakára vonatkozó szabályok megismerhetőek legyenek. A költségelszámolási rendszernek vagy módszernek való megfelelést könyvvizsgálónak évente meg kell vizsgálnia és a szolgáltatónak az erről szóló megfelelőségi nyilatkozatot közzé kell tennie.
+109. § (1) Amennyiben a hatóság a piacelemzés alapján megállapítja, hogy egy általa meghatározott kiskereskedelmi szolgáltatási piacon a verseny nem kellően hatékony, és a 102–108. §, illetve a 111. § szerinti kötelezettségek előírásával e törvény céljai nem lennének megvalósíthatók, az adott kiskereskedelmi szolgáltatási piacon jelentős piaci erővel rendelkező szolgáltatóra a felhasználók, előfizetők érdekeinek védelme és a hatékony verseny elősegítése érdekében határozatában megtilthatja
 
-(7) A Hatóság a piacelemzésre és piacmeghatározásra irányuló vagy a kirótt kötelezettség érvényesítésére irányuló eljárásban kötelezheti a szolgáltatót a díjak megváltoztatására, illetve megállapíthatja a hálózati szolgáltatásra alkalmazandó díjat.
+- a) az indokolatlanul magas díjak alkalmazását,
+- b) a piacra lépést vagy a versenyt akadályozó, nem a versenytársakéhoz viszonyított nagyobb hatékonyságon alapuló, indokolatlanul alacsony árak alkalmazását,
+- c) az egyes felhasználók, előfizetők indokolatlan megkülönböztetését, vagy
+- d) az indokolatlan árukapcsolás alkalmazását.
 
-108/A. § (1) Ha a Bizottság valamely hívásvégződtetési piacon nem határoz meg maximális hívásvégződtetési díjat, és a Hatóság a piacelemzés során megállapította, hogy ezen hívásvégződtetési piacon a verseny nem hatékony, akkor a Hatóság az Elnök rendeletében meghatározott elvek, kritériumok és előírások figyelembevételével költségalapú hívásvégződtetési díj alkalmazására vonatkozó kötelezettséget írhat elő.
+(2) Az (1) bekezdés szerinti tilalomnak arányban kell állnia az általa elérni kívánt céllal.
 
-(2) A Hatóság ellenőrzi a hívásvégződtetési szolgáltatók által alkalmazott hívásvégződtetési díjakat, és amennyiben valamely szolgáltató hívásvégződtetési díja nem felel meg a Bizottság rendeletében meghatározott díjnak, a Hatóság általános hatósági felügyeleti eljárásban kötelezheti a szolgáltatót a hívásvégződtetési díjának a többi szolgáltató által a bizottsági rendelet alapján alkalmazott díjhoz történő kiigazítására.
+(3) A hatóság a jelentős piaci erővel rendelkező szolgáltató számára határozatában előírhatja a díjakkal kapcsolatos kötelezettség teljesítésének ellenőrzéséhez szükséges költségszámítási kimutatás vezetését, amelynek keretében meghatározhatja többek között az alkalmazandó elveket, formát és módszereket, illetve a kimutatások tartalmát.
 
-(3) Amennyiben a Hatóság az (1) bekezdés szerinti költségalapú hívásvégződtetési díj alkalmazását írja elő és valamely hívásvégződtetési szolgáltató által alkalmazott hívásvégződtetési díj nem felel meg az (1) bekezdés szerinti kötelezettség alapján kialakított költségalapú hívásvégződtetési díjnak, a Hatóság általános hatósági felügyeleti eljárásban kötelezheti a szolgáltatót az (1) bekezdés szerint a Hatóság által kialakított költségalapú hívásvégződtetési díj alkalmazására. A Hatóság évente jelentést tesz a Bizottság és a BEREC számára a jelen §-ban foglaltak alkalmazásáról.
+(4)
 
-### Funkcionális szétválasztás
+### A bérelt vonali szolgáltatások minimális készletének biztosítása
 
-108/B. § (1) Ha a Hatóság megállapítja, hogy valamely érintett piacon jelentős piaci erővel rendelkező szolgáltatóra kirótt 102–108/A. § szerinti kötelezettségek eredményeként sem valósult meg a hatékony verseny és egyes hozzáférési szolgáltatások piacain jelentős és tartós versenyproblémák, piaci torzulások állnak fenn, arra kötelezheti a vertikálisan integrált, jelentős piaci erővel rendelkező szolgáltatót, hogy az érintett hozzáférési szolgáltatásával kapcsolatos tevékenységét önálló gazdasági egység keretében végezze.
+110. § (1) A hatóság határozatával a bérelt vonali piacon jelentős piaci erejű szolgáltatóra a bérelt vonali szolgáltatások minimális készletére vonatkozóan külön jogszabályban meghatározott kötelezettségeket állapíthat meg.
 
-(2) Az (1) bekezdés szerinti önálló gazdasági egység valamennyi szolgáltatónak azonos határidővel és szerződési feltételekkel – ideértve különösen az árra, a szolgáltatás színvonalára és a teljesítési határidőre vonatkozó feltételeket is –, valamint azonos rendszerek és eljárások alkalmazásával köteles nyújtani a hozzáférési szolgáltatásokat. Az (1) bekezdés szerinti önálló gazdasági egység a jelentős piaci erővel rendelkező szolgáltató felett a Ptk. szerinti többségi befolyással rendelkező önálló gazdasági egység többségi befolyása alatt álló más önálló gazdasági egységei tekintetében is azonosan köteles alkalmazni az e bekezdés szerinti feltételeket az egyenlő elbánás elvének megfelelően.
+(2) A hatóság az (1) bekezdés szerinti határozatában rendelkezhet a bérelt vonali szolgáltatások minimális készletébe tartozó bérelt vonal átviteli kapacitásáról és műszaki feltételeiről.
 
-(3) A Hatóság a határozatában előírja a szétválasztás részletes szabályait, meghatározva különösen:
+### Közvetítőválasztás
 
-- a) a szétválasztás pontos jellegét és mértékét, különösen a létrejövő önálló gazdasági egység jogállását;
-- b) a létrejövő önálló gazdasági egység eszközei, valamint az általa szolgáltatandó áruk vagy szolgáltatások megjelölését;
-- c) a létrejövő önálló gazdasági egység által foglalkoztatott munkavállalók személyzeti függetlenségét biztosító vezetési szabályokat és a kapcsolódó ösztönző rendszert;
-- d) a kötelezettségek teljesítését biztosító szabályokat;
-- e) a szolgáltatásnyújtással kapcsolatos folyamatok – különösen más érdekeltekkel szembeni – átláthatóságát biztosító szabályokat, és
-- f) a kötelezettségek teljesítését biztosító intézkedéseket, beleértve az éves jelentés közzétételét is.
+111. § (1) A helyhez kötött telefonhálózathoz történő előfizetői hozzáféréssel és használattal kapcsolatos, a Tanács által érintett piacként meghatározott bármely piacon jelentős piaci erővel rendelkező szolgáltató köteles az előfizetője számára külön jogszabályban meghatározott módon lehetővé tenni a közvetítőválasztást – előválasztás, illetve hívásonkénti közvetítőválasztás útján – a helyhez kötött telefonhálózat valamennyi hívásviszonylatában, beleértve az internet hívásviszonylatot is.
 
-### XIII. Fejezet — JELENTŐS PIACI ERŐVEL RENDELKEZŐ SZOLGÁLTATÓK EGYÉB KÖTELEZETTSÉGEI
+(2) A hatóság a piacelemzéssel és kötelezettségek megállapításával kapcsolatos eljárása alapján határozatában előírhatja, hogy az (1) bekezdésben meghatározott piactól eltérő piacon jelentős piaci erővel rendelkező szolgáltatót a közvetítőválasztás lehetővé tételének kötelezettsége az (1) bekezdés szerint vagy attól eltérő, a hatóság által meghatározott feltételekkel terhelje. A hatóság az e bekezdésben foglalt kötelezettségeket a 106. § (2) és (5) bekezdéseiben meghatározott szempontok alapján írhatja elő.
 
-### Kiskereskedelmi szolgáltatásokra vonatkozó kötelezettségek
+(3) A közvetítőválasztás biztosítására kötelezett előfizetői hozzáférést nyújtó szolgáltató a közvetítőválasztást a (4) bekezdésben foglaltak szerint
 
-109. § (1) Ha a Hatóság a piacelemzés alapján megállapítja, hogy egy általa meghatározott kiskereskedelmi szolgáltatási piacon a verseny nem kellően hatékony, és a 102–108. § szerinti nagykereskedelmi kötelezettségek előírásával e törvény céljai nem lennének megvalósíthatók, az adott kiskereskedelmi szolgáltatási és földrajzi piacon jelentős piaci erővel rendelkező szolgáltatóra a végfelhasználók érdekeinek védelme és a hatékony verseny elősegítése érdekében határozatában különösen a következő kötelezettségeket róhatja ki:
+- a) híváskezdeményezéssel történő közvetítőválasztás keretében, illetve
+- b) hívásvégződtetéssel történő közvetítőválasztás keretében
 
-- a) a túlzottan magas díjak alkalmazásának megtiltása,
-- b) a piacra lépést vagy a versenyt akadályozó, nem a versenytársakéhoz viszonyított nagyobb hatékonyságon alapuló, kiszorító árak alkalmazásának megtiltása,
-- c) az egyes végfelhasználók indokolatlan megkülönböztetésének megtiltása,
-- d) az indokolatlan árukapcsolás alkalmazásának megtiltása,
-- e) maximális kiskereskedelmi ár meghatározására vonatkozó kötelezettség,
-- f) egyedi díjak ellenőrzésére irányuló kötelezettség, továbbá
-- g) a díjak szintjének a költségek szintjéhez, vagy az összehasonlító piacokon érvényes árakhoz való közelítésére vonatkozó kötelezettség.
+köteles biztosítani.
 
-(2) Az (1) bekezdés szerinti kötelezettségeket az elérni kívánt céllal és a 2. §-ban meghatározott célokkal arányosan kell megállapítani.
+(4) Az előfizetői hozzáférést nyújtó szolgáltatóval hálózati szerződést kötni jogosult szolgáltató az előfizetői hozzáférést nyújtó szolgáltató által felajánlott valamennyi összekapcsolási pont tekintetében választani jogosult, hogy a (3) bekezdés a) vagy b) pontjában foglalt, illetve mindkét változatra vonatkozóan kíván-e az előfizetői hozzáférést nyújtó szolgáltatóval a közvetítőválasztást lehetővé tevő összekapcsolási szerződést kötni. Amennyiben valamely hívásviszonylat tekintetében a szolgáltatók mindkét változatra vonatkozóan kötöttek összekapcsolási szerződést, úgy a közvetítőválasztást az előfizető bármelyik módon igénybe veheti.
 
-(3) Ha a Hatóság a jelentős piaci erővel rendelkező szolgáltató számára az (1) bekezdés szerinti határozatában a díjakkal kapcsolatos kötelezettséget ír elő, határozatában ezen kötelezettség teljesítésének ellenőrzéséhez szükséges költségelszámolási kimutatás vezetését is előírhatja, amelynek keretében meghatározhatja többek között az alkalmazandó elveket, formát és módszereket, illetve a kimutatások tartalmát. Amennyiben a Hatóság költségelszámolási kimutatás vezetését írja elő a szolgáltató részére, akkor a szolgáltató köteles gondoskodni arról, hogy az ennek való megfelelést független és erre alkalmas szervezettel minden évben megvizsgáltassa és a vizsgálat eredményét a Hatóság részére megküldje. A vizsgálat eredményét a Hatóság közzéteszi.
+(5) A (3) bekezdés b) pontja szerinti esetben a közvetítő szolgáltató igénybevételével lebonyolított hívás előfizetői forgalmi díját az egyenlő elbánás elvének érvényesítésével úgy kell kialakítani, hogy a közvetítő szolgáltató által nyújtott hozzáférési vagy összekapcsolási szolgáltatás díja és az azonos végződtetési helyű hívások esetén közvetítőválasztás nélkül felmerülő díjak közötti különbséget az előfizetői forgalmi díjban legkésőbb az összekapcsolási vagy hozzáférési szerződés hatálybalépésekor, vagy a felek által módosított hozzáférési vagy összekapcsolási szolgáltatási díjak hatálybalépését követő hónap első napjától érvényesíteni kell. E kötelezettség megszegése esetén a közvetítő szolgáltató jogvitás eljárást kezdeményezhet. E kötelezettség betartását a hatóság piacfelügyeleti eljárás keretében ellenőrzi.
 
-#### 110. §
+(6) Valamely érintett piacon jelentős piaci erővel rendelkező szolgáltató a közvetítőválasztással összefüggésben nyújtott hálózati szolgáltatás ellenértékét költségalapon köteles kialakítani.
 
-#### 111. §
+(7) A szolgáltató a közvetítőválasztást az előfizetői szerződésben rögzített módon, valamint hálózati szerződéseinek megkötése, illetőleg teljesítése során köteles biztosítani.
+
+(8) Közvetítőválasztás esetén az előfizetői hozzáférést nyújtó szolgáltató a közvetítő szolgáltatóval történő megállapodása esetén a közvetítő szolgáltató által megállapított díjakat az előfizető részére kiszámlázhatja és beszedheti.
+
+(9) A közvetítőválasztás biztosítására köteles szolgáltató előfizetői szerződésben nem zárhatja ki és nem korlátozhatja a közvetítőválasztást.
+
+(10) A közvetítőválasztás megvalósításával kapcsolatban közvetítő szolgáltatónként, illetve előfizetőnként felmerülő költségeket a közvetítő szolgáltató, az előfizetői hozzáférést nyújtó szolgáltató hálózatának a közvetítőválasztás biztosítására történő alkalmassá tételéhez szükséges költségeket az előfizetői hozzáférést nyújtó szolgáltató köteles viselni.
 
 ### XIV. Fejezet — A JELENTŐS PIACI ERŐVEL RENDELKEZŐ SZOLGÁLTATÓKRA VONATKOZÓ EGYÉB SZABÁLYOK
 
 ### Az internet-elérés elterjedését elősegítő különös szabályok
 
-112. § (1) Amennyiben valamely érintett nagykereskedelmi piacon a Hatóság határozata alapján jelentős piaci erővel rendelkezőnek minősülő szolgáltató a helyi hozzáférési hálózati eszközei teljes egészét vagy jelentős részét más tulajdonában lévő, önálló jogi személyre kívánja átruházni, vagy ha önálló gazdasági egységet kíván létrehozni abból a célból, hogy valamennyi kiskereskedelmi szolgáltató részére – saját kiskereskedelmi részlegeit is beleértve – teljes mértékben egyenértékű hozzáférési termékeket biztosítson, köteles a tervezett ügylet megvalósulását legalább 90 nappal megelőzően, erről tájékoztatni a Hatóságot.
+112. § (1) Internet szolgáltatás helyhez kötött telefonhálózaton keresztüli elérésével kapcsolatos valamely piacon jelentős piaci erővel rendelkező szolgáltató (a jelen § alkalmazásában: kötelezett szolgáltató) köteles költségalapú díj ellenében internet híváskezdeményezés forgalmi szolgáltatás és átalánydíjas internet híváskezdeményezés forgalmi szolgáltatás nyújtására referenciaajánlatában ajánlatot tenni.
 
-(2) A szolgáltató szintén köteles tájékoztatni a Hatóságot az (1) bekezdésben foglalt ügylet meg nem valósulásáról, valamint a szétválás folyamatának végeredményéről.
+(2) Az (1) bekezdés szerinti átalánydíjas internet híváskezdeményezés forgalmi szolgáltatást a kötelezett szolgáltató csak ott és addig az időpontig köteles biztosítani, ahol és ameddig műszaki okból az adott előfizető számára a kötelezett szolgáltató szélessávú szolgáltatás nyújtására nem képes.
 
-#### 113. §
+(3) Az internet híváskezdeményezés és átalánydíjas internet híváskezdeményezés forgalmi szolgáltatás díjának megállapításakor a kötelezett szolgáltató ezen szolgáltatásoknak a helyhez kötött telefonhálózaton megvalósuló híváskezdeményezés forgalmi szolgáltatástól eltérő jellegére (az internet híváskezdeményezés forgalmi szolgáltatás esetében különösen a hosszabb tartásidőre) tekintettel a költségszámítás szabályait a megfelelő eltérésekkel és kiegészítésekkel köteles alkalmazni.
 
-#### 114. §
+113. § (1) A kötelezett szolgáltató az előfizetői internet hívások eljuttatása érdekében azzal az elektronikus hírközlési szolgáltatóval, amely az internet szolgáltatóval az előfizetői internet hívás eljuttatása tárgyában hálózati szerződéses jogviszonyban áll (a jelen § alkalmazásában: közvetítő szolgáltató), illetve az internet szolgáltatóval elsősorban úgy működik együtt, hogy
 
-#### 115. §
+- a) az előfizetői internet hívásnak az internet szolgáltató hálózati hozzáférési pontjához történő továbbításáról az előfizető által közvetítőválasztással választott közvetítő szolgáltató gondoskodik, oly módon, hogy a közvetítő szolgáltató a kötelezett szolgáltatótól internet híváskezdeményezés, illetve átalánydíjas internet híváskezdeményezés forgalmi szolgáltatást vesz igénybe (híváskezdeményezési modell); vagy
+- b) az adott internet szolgáltatóhoz irányuló előfizetői internet hívások esetén a kötelezett szolgáltató – közvetítőválasztás hiányában is – köteles a hívást átadni az előfizetői internet hívásnak az internet szolgáltató hálózati hozzáférési pontjához történő továbbítását az internet szolgáltatóval való megállapodás alapján végző közvetítő szolgáltatónak, amely a kötelezett szolgáltatótól internet híváskezdeményezés, illetve átalánydíjas internet híváskezdeményezés forgalmi szolgáltatást vesz igénybe (számfordításos modell).
 
-#### 116. §
+(2) Amennyiben az internet szolgáltatást a közvetítő szolgáltató maga nyújtja, az (1) bekezdésben foglaltak – a közvetítő szolgáltató és az internet szolgáltató közötti megállapodások kivételével – értelemszerűen alkalmazandók.
+
+(3) Az (1) bekezdés szerinti esetekben az előfizetői hívás díja az internet híváskezdeményezés után a kötelezett szolgáltatónak fizetett díjból és a közvetítő szolgáltató díjrészéből áll. Átalánydíjas internet híváskezdeményezés forgalmi szolgáltatás esetén az előfizetői díjakat a közvetítő szolgáltató és a vele együttműködő internet szolgáltató állapítja meg, a kötelezett szolgáltató felé fizetendő átalánydíj nincs közvetlen kapcsolatban az előfizetői díjjal. A közvetítő szolgáltató és az internet szolgáltató – amennyiben ezek nem azonosak – a közvetítő szolgáltató díjrészének megosztásáról kereskedelmi alapon állapodnak meg.
+
+(4) Amennyiben a közvetítő szolgáltató a kötelezett szolgáltatótól internet híváskezdeményezés, illetve átalánydíjas internet híváskezdeményezés forgalmi szolgáltatást vesz igénybe, a kötelezett szolgáltató – a közvetítő szolgáltatóval történő megállapodás esetén – a közvetítő szolgáltatót megillető, az előfizető által fizetendő díjakat, illetve a közvetítő szolgáltatóval hálózati szerződéses jogviszonyban álló internet szolgáltatót megillető díjakat az előfizető részére kiszámlázhatja és beszedheti.
+
+114. § (1) A kötelezett szolgáltató a 113. § (1) bekezdésében leírt modelleket és a 113. § (3) bekezdésében meghatározott szabályokat a saját üzletágai, illetve az általa irányított, őt irányító vagy vele közös irányítás alatt álló szolgáltatók vonatkozásában is köteles alkalmazni, biztosítva a transzferárak és a harmadik feleknek nyújtott hálózati szolgáltatások költségalapú árainak egyenlőségét. A jelen bekezdés alkalmazásakor a közvetítő szolgáltató alatt azt az üzletágat kell érteni, amelyik a hívásnak az internet szolgáltató hálózati hozzáférési pontjára vagy az internet szolgáltatást nyújtó üzletághoz történő eljuttatásáért felelős.
+
+(2) Amennyiben az előfizetői internet hívások eljuttatása tárgyában a felek a 113. § (1) bekezdésében foglaltaktól eltérően állapodnak meg, a kötelezett szolgáltató köteles a saját üzletágai, illetve az általa irányított, őt irányító vagy vele közös irányítás alatt álló szolgáltatók közötti transzferekkel azonos költségalapú összekapcsolási és hozzáférési szolgáltatásokat nyújtani az azt igénylőknek, biztosítva a transzferárak és a harmadik feleknek nyújtott hálózati szolgáltatások költségalapú árainak egyenlőségét.
+
+115. § A 112–114. §-ban foglalt kötelezettségekre a 168. §-ban foglaltak megfelelően alkalmazandók.
+
+### Árprés alkalmazásának tilalma
+
+116. § (1) Az érintett piacok valamelyikén jelentős piaci erővel rendelkező szolgáltató az e piacon nyújtott hálózati szolgáltatás ellenértékét úgy köteles kialakítani, hogy – a ráépülő előfizetői szolgáltatások árát figyelembe véve – az ne okozzon árprést.
+
+(2) A referenciaajánlat közzétételére köteles szolgáltató a ráépülő előfizetői szolgáltatás díjának általa vagy az általa irányított, őt irányító vagy a vele közös irányítás alatt álló vállalkozás által végrehajtott csökkentésével egyidejűleg köteles a referenciaajánlatában meghatározott árakat az (1) bekezdésben foglaltak érvényesülésének érdekében megfelelően csökkenteni, és ezt a hatóságnak bejelenteni, illetve a nyilvánosság számára – a referenciaajánlatokkal azonos módon – hozzáférhetővé tenni.
+
+(3) Nem kell alkalmazni a (2) bekezdésben foglaltakat, amennyiben a díjcsökkentés a díjcsökkentéssel érintett ráépülő előfizetői szolgáltatás előfizetőinek legfeljebb 10%-át érintheti, vagy a díjcsökkentés hatása a jelentős piaci erővel rendelkező szolgáltató vagy az általa irányított, őt irányító, vagy a vele közös irányítás alatt álló vállalkozás csökkentett díjakkal számított, a díjcsökkentéssel érintett ráépülő előfizetői szolgáltatás előző üzleti évi volumenével súlyozott nettó árbevétele a díjcsökkentéssel érintett ráépülő előfizetői szolgáltatás nyújtásából származó előző üzleti évi nettó árbevételétől az utóbbi 5%-át meg nem haladó mértékben tér el.
+
+(4) A (2) bekezdés szerinti ráépülő előfizetői szolgáltatás díjának csökkentése esetén a referenciaajánlat közzétételére köteles szolgáltató a díjcsökkentés meghirdetésével egyidejűleg köteles a hatóságnak a díjcsökkentést a várható hatásainak részletes bemutatásával, illetve az ezt alátámasztó adatok megküldésével a referenciaajánlatban szereplő díjaknak a (3) bekezdésben foglaltaknak való megfelelősége ellenőrzése céljából bejelenteni.
+
+(5) A hálózati szolgáltatás ellenértékének megállapításakor a szolgáltatás nyújtásával összefüggésben felmerült költségek fedezete kizárólag annyiban vehető figyelembe, amennyiben az nem haladja meg a hatékony szolgáltatónak az adott szolgáltatás nyújtásához szükséges befektetése méltányos megtérülése iránti igényét és a befektetéssel vállalt kockázatát.
 
 ## ÖTÖDIK RÉSZ — A FELHASZNÁLÓK MEGFELELŐ ELLÁTÁSÁNAK BIZTOSÍTÁSA ÉS EGYÉB KÖZÉRDEKŰ CÉLOK MEGVALÓSÍTÁSA AZ ELEKTRONIKUS HÍRKÖZLÉSBEN
 
 ### XV. Fejezet — AZ EGYETEMES ELEKTRONIKUS HÍRKÖZLÉSI SZOLGÁLTATÁS
 
-### Az egyetemes elektronikus hírközlési
+### Az egyetemes elektronikus hírközlésiszolgáltatás tartalma
 
-szolgáltatás tartalma
+117. § Az egyetemes elektronikus hírközlési szolgáltatás körébe a következő megfizethető díjú szolgáltatáselemek tartoznak:
 
-117. § (1) Az egyetemes elektronikus hírközlési szolgáltatás (a továbbiakban e § alkalmazásában: egyetemes szolgáltatás) körébe tartozik a helyhez kötött hozzáférésen keresztül megfelelő, Magyarország egész területén minden végfelhasználó számára elérhető és minden fogyasztó részére megfizethető áron rendelkezésre álló szélessávú internet-hozzáférési szolgáltatás, illetve hangszolgáltatás – ideértve e szolgáltatások alapját képező csatlakozást is – nyújtása.
+- a) a telefonhálózathoz a felhasználó lakóhelye, székhelye vagy telephelye szerint meghatározott helyen való olyan hozzáférés, amely lehetővé teszi helyhez kötött előfizetői hozzáférési ponton keresztül belföldi és nemzetközi hívások, faxüzenetek és adatátviteli hívások kezdeményezését és fogadását, a segélyhívó szolgálatok elérését, a funkcionális internet-hozzáféréshez elegendő adatátviteli sebességű internet szolgáltatást, figyelembe véve az előfizetők többsége által használt, leginkább elterjedt technológiákat és a technológiai megvalósíthatóságot;
+- b) a lakosságszámhoz igazodva a Kormány által rendeletben meghatározott számú, de legalább településenként egy darab nyilvános telefonállomás működtetése, továbbá a kötelezően létesített nyilvános telefonállomások legalább 3%-a hallás-, illetőleg mozgáskorlátozottak által is használható kialakítással;
+- c) országos belföldi tudakozó nyújtása;
+- d) előfizetői névjegyzék elérhetővé tétele.
 
-(2) A megfelelő szélessávú internet-hozzáférési szolgáltatás sávszélességének elégségesnek kell lennie ahhoz, hogy a fogyasztó, illetve végfelhasználó elérje vagy igénybe vegye az alábbi szolgáltatásokat:
+118. § (1) Az egyetemes szolgáltató köteles biztosítani, hogy az előfizető – a szolgáltatóhoz intézett kéréssel – térítésmentesen letilthasson meghatározott típusú, vagy meghatározott típusú számokra kezdeményezett kimenő hívásokat.
 
-- a) elektronikus levelezés;
-- b) bármilyen keresést lehetővé tévő keresőmotorok;
-- c) képzési és oktatási célú internetes eszközök, szakmai célú hálózatépítés, álláskeresés és az álláskeresést elősegítő eszközök;
-- d) internetes újságok és hírportálok;
-- e) áruk és szolgáltatások internetes megrendelése, vásárlása, internetes banki szolgáltatások;
-- f) elektronikus ügyintézés és elektronikus kormányzati szolgáltatások;
-- g) a közösségi média, azonnali üzenetküldés és a szokványos minőségű hívások és videóhívások.
+(2) Az egyetemes szolgáltatót a 117. § a) pontja szerinti egyetemes szolgáltatás vonatkozásában – jogszabályban meghatározott kivételekkel – szerződéskötési kötelezettség terheli az egyetemes szolgáltatási szerződésében meghatározott területen állandó lakóhellyel, székhellyel, telephellyel rendelkező felhasználónak az egyetemes szolgáltatás igénybevételére vonatkozó, jogszabályban meghatározott módon bejelentett szándéka esetén, felhasználónként egy hozzáférés biztosítására.
 
-(3) Ha a fogyasztók társadalmi és gazdasági életben való teljes körű részvételének biztosításához szükséges, az Elnök rendeletében előírhatja, hogy a szélessávú internet-hozzáférés szolgáltatást, illetve a hangszolgáltatást nem helyhez kötött hozzáférésen keresztül nyújtó szolgáltató is köteles a szolgáltatási területén megfizethető szolgáltatás nyújtására bármely fogyasztó részére.
+(3) Jogszabályban meghatározott (alacsony jövedelmű, illetve fogyatékkal élő) előfizetők részére a központi költségvetés terhére támogatás nyújtható az egyetemes elektronikus hírközlési szolgáltatás igénybevételéhez.
 
-(4) Az Elnök rendszeresen ellenőrzi az (1) bekezdésben foglalt követelmények érvényesülését, ennek keretében vizsgálja az egyetemes szolgáltatás ellátásának helyzetét, díjának alakulását és szintjét, különösen a fogyasztói árakhoz és a fogyasztói jövedelmekhez viszonyítva. Amennyiben az Elnök az ellenőrzés eredménye alapján azt állapítja meg, hogy az egyetemes szolgáltatás nem megfizethető, és nem áll rendelkezésre a megfizethető szolgáltatást biztosító állami támogatás, az Elnök a megfizethető egyetemes szolgáltatás biztosítása érdekében kötelezheti az (1) bekezdésben foglalt egyetemes szolgáltatást nyújtó szolgáltatókat a jogszabályban meghatározott alacsony jövedelmű, illetve különleges szociális helyzetű fogyasztók számára történő kedvezményes díjszabási lehetőségek vagy díjcsomagok nyújtására. Ha a kedvezményes díjszabási lehetőségek vagy díjcsomagok nyújtása az egyetemes szolgáltatók számára túlzott adminisztratív vagy pénzügyi terhet jelentene, az Elnök a jogszabályban meghatározott alacsony jövedelmű, illetve különleges szociális helyzetű fogyasztók számára történő kedvezményes díjszabási lehetőségek vagy díjcsomagok nyújtására vonatkozó kötelezettséget kivételes esetben kizárólag – az Elnök rendelete szerint – kijelölt szolgáltató vagy szolgáltatók számára írja elő.
+(4) Az e törvényben, illetve külön jogszabályban meghatározott eseteken felül nem terheli a szolgáltatót szerződéskötési, illetve szolgáltatási kötelezettség, ha az igénybejelentőnek
 
-(5) Ha az Elnök a rendkívül nagy kapacitású elektronikus hírközlő hálózatokkal kapcsolatban végzett földrajzi felmérése eredményei, vagy a Hatóság rendelkezésére álló információk alapján megállapítja, hogy az ország teljes területén vagy egyes részein az (1) bekezdés szerinti egyetemes szolgáltatás egyáltalán nem áll rendelkezésre, nem elérhető a végfelhasználók számára és az egyetemes szolgáltatás sem piaci alapon, sem állami eszközzel, beavatkozással azon a területen nem biztosítható, az egyetemes szolgáltatás megfelelősége érdekében határozatával egyetemes szolgáltatót vagy szolgáltatókat jelöl ki az Elnök rendeletében meghatározottak szerint. Ebben az esetben az egyetemes szolgáltatás – bármely végfelhasználó észszerű kérelme alapján történő – biztosítására az Elnök határozatában foglalt területen és feltételek szerint a kijelölt egyetemes szolgáltató vagy szolgáltatók kötelesek.
+- a) egyetemes elektronikus hírközlési szolgáltatás igénybevételéből eredő, bármely egyetemes szolgáltatóval szemben fennálló, 3 hónapot meghaladó díjtartozása van, vagy
+- b) korábban fennálló előfizetői szerződését jogszabályban meghatározott felmondási ok miatt az ajánlattételt megelőzően 6 hónapon belül mondták fel.
 
-(6) Az egyetemes szolgáltató az Elnök rendeletében meghatározott esetekben és módon gondoskodik arról, hogy a fogyatékossággal élő fogyasztók részére a kapcsolódó végberendezések, továbbá az akadálymentes hozzáférést elősegítő berendezések és szolgáltatások elérhetőek és megfizethetőek legyenek.
+### Az egyetemes szolgáltatók, az egyetemes szolgáltató kijelölése
 
-#### 118. §
+119. § (1) Ha az ország teljes területén a 117. § szerinti valamely szolgáltatáselem nem érhető el, a miniszter az érintett szolgáltatáselem vagy szolgáltatáselemek vonatkozásában külön jogszabályban meghatározott eljárás keretében egyetemes szolgáltatót vagy szolgáltatókat jelöl ki azzal, hogy egy szolgáltatáselemre egy adott területen csak egy szolgáltató jelölhető ki.
 
-#### 119. §
+(2) A miniszter az egyetemes szolgáltató kijelölése során biztosítja, hogy az ország teljes területe egyetemes szolgáltatással lefedett legyen, az elektronikus hírközlési piacon folyó verseny a legkevésbé torzuljon, az egyetemes szolgáltatásnak a 117. §-ban meghatározott egyes szolgáltatáselemeit az azt leghatékonyabban, a lehető legkisebb nettó elkerülhető költség mellett nyújtani képes szolgáltató nyújtsa, valamint a kijelölési eljárás átlátható, objektív szempontok alapján álló és megkülönböztetésmentes legyen.
 
-#### 120. §
+(3) A miniszter az egyetemes szolgáltató kijelölése és az egyetemes szolgáltatási szerződés megkötése során biztosítja, hogy az egyetemes szolgáltatás díja megfizethető legyen. Amennyiben az egyetemes szolgáltatás megfizethetősége érdekében az egyetemes szolgáltató a szolgáltatás költségei egy részének átvállalásával alakít ki előfizetői részére díjcsomagot, az ebből származó terhei mérséklésére nem igényelhet a 121. § (1) bekezdés szerinti támogatást.
 
-#### 121. §
+(4) A miniszter egyetemes szolgáltatót jelöl ki az (1)–(3) bekezdésben foglaltak alkalmazásával, ha
 
-#### 122. §
+- a) az egyetemes szolgáltatások köre, illetve az elektronikus hírközlési piacok körülményei lényegesen változnak, és a felek bármelyike felmondja az egyetemes szolgáltatási szerződést azért, mert a szerződés módosítására vonatkozó eljárás nem vezetett eredményre,
+- b) a korábbi egyetemes szolgáltató nem az egyetemes szolgáltatási szerződésnek megfelelően nyújtja a szolgáltatást, és a miniszter emiatt az egyetemes szolgáltatási szerződést felmondja,
+- c) a korábbi egyetemes szolgáltató fel kíván hagyni az egyetemes szolgáltatási tevékenység végzésével, vagy
+- d) az egyetemes szolgáltatási szerződés egyéb okból megszűnik.
 
-#### 123. §
+120. § (1) A kijelölt szolgáltatóval a miniszter egyetemes szolgáltatási szerződést köt, amelyben a felek megállapodnak legalább:
 
-#### 124. §
+- a) az egyetemes szolgáltatás tárgyáról;
+- b) az egyetemes szolgáltatás nyújtásának földrajzi helyéről és módjáról;
+- c) az egyetemes szolgáltatás nyújtásának időtartamáról;
+- d) az egyetemes szolgáltatás nyújtásának pénzügyi, minőségi és egyéb feltételeiről, ideértve a 117. §-ban meghatározott szolgáltatáselem, szolgáltatáselemek nyújtásának 121. § (2) bekezdése szerint számított és a hatóság által – szükség szerint független könyvvizsgáló bevonásával – előzetesen ellenőrzött nettó elkerülhető egységköltségét is;
+- e) a szerződés módosításának módjáról;
+- f) a szerződés megszűnésének módjáról, jogkövetkezményeiről;
+- g) a szerződés hibás teljesítése esetén alkalmazandó kötbér mértékéről, illetve egyéb jogkövetkezményekről;
+- h) a szerződésben foglaltak megtartásának ellenőrzésével kapcsolatosan a minisztert, illetőleg a felhatalmazása alapján eljáró hatóságot megillető jogosultságokról.
 
-#### 125. §
+(2) A miniszter és a hatóság az egyetemes szolgáltatási szerződést nyilvánosságra hozza.
+
+### Az egyetemes szolgáltatás finanszírozása
+
+121. § (1) Az egyetemes szolgáltatók kérelmükre az egyetemes szolgáltatás nyújtásából keletkező nettó, kizárólag üzleti szempontok alkalmazása esetén elkerülhető és ezért méltánytalan többlettehernek minősülő költségeiknek az állam általi – a hatóságon keresztül történő – megtérítésére jogosultak.
+
+(2) Az egyetemes szolgáltatás
+
+- a) 117. § a)–b) pontja szerinti egyes szolgáltatáselemei egy előfizetői hozzáférési pontra, illetve egy nyilvános telefonállomásra jutó éves, valamint
+- b) 117. § c)–d) pontja szerinti egyes szolgáltatáselemeinek a hatóság által a 120. § d) pontja alapján előzetesen auditált éves nettó elkerülhető költségei részletes számítási szabályait külön jogszabály határozza meg.
+
+(3) A tárgyévi várható nettó elkerülhető költség az egyetemes szolgáltatók által az egyetemes szolgáltatás egyes szolgáltatáselemeinek külön jogszabály szerint számított éves nettó egységköltségei és az egyetemes szolgáltató által ténylegesen veszteségesen nyújtott szolgáltatáselemek mennyiségének szorzata.
+
+(4) A hatóság az egyetemes szolgáltatók nettó elkerülhető költség számítása helyességét a külön jogszabály szerinti eljárásban ellenőrzi, és az ellenőrzés eredményeként hozott döntését honlapján közzéteszi.
+
+(5) Ha a (4) bekezdés szerinti ellenőrzés során a hatóság megállapítja a számítások helyességét, a számítás szerinti nettó elkerülhető költség megtérítéséről dönt.
+
+(6) A hatóság az (5) bekezdés szerinti határozat alapján az éves nettó elkerülhető költségek előlegét négy részletben, az egyetemes szolgáltatónak az adott negyedévet követő hónap 20. napjáig benyújtott kérelmére az adott negyedévet követő második hónap 20. napjáig kifizeti.
+
+(7) Az éves nettó elkerülhető költségek előlegei és a hatóság által tárgyévet követő június hó 30-ig, a tárgyévben ténylegesen nyújtott szolgáltatáselemek mennyisége alapján megállapított nettó elkerülhető költségekről a hatóság dönt. A hatóság a nettó elkerülhető költségekről történő döntése alapján a következő és második negyedéves nettó elkerülhető költség előlegében, szükség esetén az azt követő előlegekben elszámol, illetve ha az előlegekben történő elszámolás az egyetemes szolgáltatási szerződés megszűnése miatt nem lehetséges, a hatóság a különbözet kifizetéséről vagy az egyetemes szolgáltató általi visszafizetéséről dönt.
+
+122. § (1) Az egyetemes szolgáltatás nyújtásából adódó pénzügyi teher mérséklésére Egyetemes Elektronikus Hírközlési Támogatási Kassza (a továbbiakban: Kassza) hozható létre. A Kassza létrehozására, működésére, forrásaira, felügyeletére, felhasználására és megszüntetésére vonatkozó részletes szabályokat a Kormány határozza meg.
+
+(2) A Kassza jogi személy, székhelye Budapest. A Kasszát a hatóság felügyeletét ellátó miniszter irányításával a hatóság kezeli.
+
+(3) A Kassza saját tőkéje nem osztható fel, saját vagyona, bevételei és jövedelme után sem társasági adó, sem helyi adó, sem illeték fizetésére nem kötelezhető, pénzeszközei nem vonhatók el, és a (7) bekezdésben meghatározottól eltérő célra nem használhatók fel. A Kasszához történő be- és kifizetések után áfafizetési kötelezettség nem keletkezik.
+
+(4) A Kassza pénzügyi-számviteli ellenőrzését az Állami Számvevőszék végzi.
+
+(5)–(6)
+
+(7) A Kassza bevétele kizárólag az egyetemes szolgáltatás támogatására, illetve piacelhagyás következtében szükséges átmeneti intézkedések miatt felmerülő rendkívüli kiadások és a Kassza működését szolgáló költségek fedezetére fordítható, más célra nem használható fel. A befolyt bevételekről és azok felhasználásáról készült kimutatást a külön jogszabályban meghatározott tartalommal a hatóság felügyeletét ellátó miniszter évente közzéteszi.
+
+(8) A Kassza az Egyetemes Távközlési Támogatási Alap jogutódja.
+
+### Az egyetemes szolgáltatás ellenőrzése, módosítása, megszüntetése
+
+123. § (1) Az egyetemes szolgáltatókat a tevékenység ellátása, a szerződések teljesítése vonatkozásában a hatóság folyamatosan ellenőrzi. A hatóság jelzi a miniszternek, ha a szerződésben vállalt kötelezettségek megszegését állapítja meg. Az egyetemes szolgáltató az ellenőrzéshez köteles a kötelezettségek teljesítésére vonatkozó adatokat a hatóságnak folyamatosan szolgáltatni. A kötelezettségek teljesítéséről készített értékelő adatok nyilvánosak.
+
+(2) Amennyiben az egyetemes szolgáltató tartósan nem teljesíti a szerződésben meghatározott szolgáltatás-minőségi értékeket, a hatóság elrendelheti azok független szakértő általi ellenőrzését, és előírhatja az ellenőrzés költségeinek az érintett szolgáltató által történő megfizetését.
+
+(3) Ha az egyetemes szolgáltató a szerződésben vállalt kötelezettségét megszegi, új egyetemes szolgáltató kijelöléséről a miniszter köteles gondoskodni oly módon, hogy az új szolgáltatóval történő szerződéskötésig az egyetemes szolgáltatást a szerződésszegő szolgáltató biztosítja.
+
+(4) Az egyetemes szolgáltatás nyújtására kötött szerződés szolgáltató részéről történő felmondási idejének legrövidebb időtartama egy év.
+
+(5) Az egyetemes szolgáltatást a szolgáltató – a 136. § (1) bekezdésének b) és c) pontjában foglalt esetek kivételével – csak a miniszter előzetes írásbeli hozzájárulásával és az érintett felhasználók időben történő, megfelelő tájékoztatása mellett szüneteltetheti.
+
+(6) Ha az egyetemes szolgáltatások köre, az azokkal kapcsolatos jogszabályi követelmények vagy az elektronikus hírközlési piaci körülmények módosulnak, a szerződő felek – bármelyik fél kezdeményezésére – kötelesek az egyetemes szolgáltatási szerződést felülvizsgálni, módosítása érdekében az egyetemes szolgáltatási szerződés szerinti tárgyalásokat folytatni azzal, hogy az egyetemes szolgáltatás egyes szolgáltatáselemeinek külön jogszabály szerint számított, az egyetemes szolgáltatási szerződésben rögzített éves nettó egységköltségei, valamint a ténylegesen veszteségesen nyújtott szolgáltatáselemek legnagyobb mennyisége az egyetemes szolgáltatási szerződés időtartama alatt nem módosíthatók.
+
+124. § A kijelölési és szerződéskötési eljárás részletes feltételeit és szabályait, a nettó elkerülhető költség, nettó elkerülhető egységköltség számításának részletes szabályait, valamint az egyetemes szolgáltatásokkal kapcsolatos pénzügyi terhek megtérítésének részletes szabályait a miniszter rendeletben állapítja meg.
+
+### Az egyetemes szolgáltatók együttműködése a távirat-szolgáltatás terén
+
+125. § (1) Belföldi távirat-szolgáltatást az egyetemes elektronikus hírközlési szolgáltatást nyújtó egyetemes szolgáltató és a külön jogszabály alapján kijelölt egyetemes postai szolgáltatónak minősülő gazdasági társaság köteles nyújtani.
+
+(2) A belföldi távirat-szolgáltatás igénybevételét az egyetemes elektronikus hírközlési és a kijelölt egyetemes postai szolgáltató kötelesek – külön jogszabályban rögzített részletes feltételek szerint – mindenki számára hozzáférhető módon biztosítani.
+
+(3) Az (1) bekezdésben meghatározott szolgáltatók a belföldi távirat-szolgáltatás nyújtása érdekében kötelesek együttműködni, és az együttműködésről egymással szerződést kötni (távirat-szolgáltatási szerződés).
 
 ### XVI. Fejezet — AZ ELŐFIZETŐK ÉRDEKEIVEL ÉS JOGAIVAL KAPCSOLATOS RENDELKEZÉSEK
 
-### Hírközlési és Média Biztos
+### Hírközlési Fogyasztói Jogok Képviselője
 
-#### 126. §
+126. § (1) A Hírközlési Fogyasztói Jogok Képviselője (a továbbiakban: képviselő) a hatóság köztisztviselője.
 
-### Különleges hírközlési szolgáltatások
+(2) A képviselőhöz bejelentéssel élhet bármely előfizető, felhasználó, továbbá a fogyasztói érdekek képviseletét ellátó társadalmi szervezet, amennyiben megítélése szerint valamely szolgáltató, forgalomba hozó vagy forgalmazó tevékenysége, szolgáltatása, terméke, eljárása, ennek során hozott intézkedése, illetőleg valamely intézkedése elmulasztása következtében az előfizetőt, illetve a felhasználót az elektronikus hírközlésre vonatkozó szabályban vagy az előfizetői szerződésben meghatározott jogaival összefüggésben sérelem érte, vagy ennek közvetlen veszélye áll fenn.
 
-126/A. § (1) A számfüggetlen személyközi hírközlési szolgáltatásra és a gépek közötti szolgáltatások nyújtására használt átviteli szolgáltatásokra e fejezet rendelkezései az e szakaszban foglalt eltérésekkel alkalmazandók.
+(3) A képviselő az előfizetők, illetve felhasználók elektronikus hírközlésre vonatkozó szabályban meghatározott jogaival kapcsolatos jogszabálysértés megszüntetése érdekében a (2) bekezdésben megjelölt feltételek fennállása esetén hivatalból is eljárhat.
 
-(2) A számfüggetlen személyközi hírközlési szolgáltatás tekintetében nem kell alkalmazni a 127. § (4b) bekezdését, a 132. § (4)–(5) bekezdését és a 134. § (14), (14a), (15) és (15a) bekezdését.
+(4) A képviselő a hozzá benyújtott beadványt köteles megvizsgálni. A célszerűnek tartott intézkedést e § keretei között maga választja meg. A képviselő a beadvány alapján
 
-(3) E fejezet rendelkezéseit – a 86/A. § és a 149/A–149/D. § kivételével – nem kell alkalmazni azon számfüggetlen személyközi hírközlési szolgáltatást nyújtó szolgáltatóra, amelynek foglalkoztatotti létszáma legfeljebb 10 fő és éves nettó árbevétele vagy mérlegfőösszege legfeljebb 2 millió eurónak megfelelő forintösszeg, amennyiben nem nyújt egyéb elektronikus hírközlési szolgáltatást. E mentességéről a szolgáltató köteles a szerződés megkötése előtt igazolható módon tájékoztatni a végfelhasználókat.
+- a) tájékoztatja a bejelentőt az elektronikus hírközlésre vonatkozó szabályban, illetve előfizetői szerződésben meghatározott jogairól és kötelezettségeiről, valamint a számára nyitva álló eljárásokról és jogorvoslatokról,
+- b) felszólíthatja a szolgáltatót az elektronikus hírközlésre vonatkozó szabály, illetve előfizetői szerződés megsértésének megszüntetésére, illetve intézkedés megtételére,
+- c) kezdeményezheti a hatóság hivatalból történő eljárását,
+- d) más hatóságnál – a bejelentő egyidejű értesítése mellett – megfelelő eljárás megindítását kezdeményezheti.
 
-(4) A gépek közötti szolgáltatások nyújtására használt átviteli szolgáltatások tekintetében nem kell alkalmazni a 127. § (4b) bekezdését, a 129. § (1a) bekezdését és a 134. § (14) és (14a) bekezdését.
+(5) A képviselő a hozzá érkező bejelentéseket rendszerezi és az előfizetők nagy számát érintő vagy egyéb, megítélése szerint jelentős esetben a hatóság számára a hivatalból történő eljárásához szükséges megállapításokat tartalmazó intézkedési javaslatot tesz.
 
-(5) A gépek közötti szolgáltatások nyújtására használt átviteli szolgáltatások tekintetében a 132. § (3)–(9) bekezdésében és a 134. § (15) és (15a) bekezdésében biztosított jog kizárólag azon előfizetőt illeti meg, amely fogyasztónak vagy olyan üzleti előfizetőnek minősül, amely az előfizetői szerződések részletes szabályairól szóló NMHH rendelet szerinti mikro- vagy kisvállalkozás vagy közhasznú szervezet fogalmi körébe tartozik.
+(6) A képviselő eljárása során bármely szolgáltatótól, forgalomba hozótól, forgalmazótól az előfizetők, illetve felhasználók elektronikus hírközlésre vonatkozó szabályban meghatározott jogainak megsértésével kapcsolatos adatokat, felvilágosítást és magyarázatot kérhet.
 
-### Előfizetői szerződés
+(7) Ha a képviselő adatot (felvilágosítást, magyarázatot vagy egyéb információt) kér, a megkeresésnek a szolgáltató a képviselő által megállapított határidőn, de legfeljebb 15 napon belül köteles eleget tenni.
 
-127. § (1) Az előfizetői szolgáltatás nyújtásáról a szolgáltató, a fogyasztó vagy más felhasználók (a továbbiakban együtt: felek) kizárólag előfizetői szerződést köthetnek, amely meg kell, hogy feleljen a közérthetőség és ellentmondás-mentesség követelményének. Az előfizetői szolgáltatásokat nyújtó elektronikus hírközlési szolgáltató az előfizetői szolgáltatásokra vonatkozóan általános szerződési feltételeket köteles készíteni, amelyek elektronikus hírközlési szabályoknak való megfelelőségét a Hatóság rendszeresen vizsgálja. Az előfizetői szerződés az általános szerződési feltételekből, valamint az egyedi előfizetői szerződésből áll.
-
-(1a) Az előfizetői szerződés megkötésekor az előfizetői szerződés részévé válik az előfizetői szerződés megkötését megelőzően a szolgáltató által az előfizető rendelkezésére bocsátott tájékoztatás (a továbbiakban: előzetes tájékoztatás) és az előfizetői szerződés adatainak összefoglalója.
-
-(2) Az e törvényben és az e törvény felhatalmazása alapján kibocsátott, az előfizetői szerződések részletes szabályairól szóló NMHH rendeletben nem szabályozott esetekre a Ptk. szerződésekre vonatkozó rendelkezései irányadók.
-
-(2a) Az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatás előfizetője legfeljebb az Elnök rendeletében meghatározott számú előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződést köthet és az előfizetését nem értékesítheti tovább.
-
-(2b) Az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatás előfizetője az előfizetői szolgáltatás igénybevételét lehetővé tevő SIM kártyát harmadik személy részére abban az esetben adhatja át, ha a 129. § (2) bekezdés szerinti azonosításhoz szükséges adatokról a SIM kártya átadását megelőzően az elektronikus hírközlési szolgáltatót tájékoztatta, és a szolgáltató a harmadik személy személyazonosság igazolására alkalmas hatósági igazolványának érvényességét a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásában ellenőrizte. E bekezdés alkalmazásában nem minősül harmadik személynek a közeli hozzátartozó.
-
-(2c) A (2b) bekezdésnek nem megfelelő átruházás esete a szolgáltató megtévesztésével kötött szerződésnek minősül.
-
-(2d) A szolgáltató a Kormány rendeletében meghatározott – a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által irányított – polgári nemzetbiztonsági szolgálatnak jelzést küld, ha
-
-- a) az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződéssel kapcsolatban rögzített ügyfélazonosító adatok valódiságával vagy megfelelőségével kapcsolatban kétség merül fel, illetve
-- b) az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződés igénybevételével összefüggésben – különösen az előfizető körülményei, az előfizetői szerződések száma vagy az előfizető által igénybe vett előfizetői szolgáltatások jellege alapján – bűncselekmény gyanúja merül fel.
-
-(3) Üzleti előfizető esetében a szolgáltató e fejezet rendelkezéseitől az előfizetői szerződések részletes szabályairól szóló NMHH rendeletben foglaltak szerint térhet el.
-
-(4) A felek az egyedi előfizetői szerződésben az e törvényben, az e törvény felhatalmazása alapján kibocsátott, az előfizetői szerződések részletes szabályairól szóló NMHH rendeletben és az általános szerződési feltételekben foglaltaktól az előfizető javára egyező akarattal eltérhetnek.
-
-(4a) Az előfizetői szerződés időtartama a felek megállapodása szerint lehet határozatlan vagy határozott.
-
-(4b) A nyilvánosan elérhető elektronikus hírközlési szolgáltatások igénybevételére kötött határozott időtartamú előfizetői szerződés – a (4c) és (4f) bekezdés kivételével – legfeljebb 12 hónapra köthető meg azzal, hogy a szerződés megkötését megelőzően fel kell ajánlani a határozatlan időtartamú előfizetői szerződés megkötésének lehetőségét, és be kell mutatni annak részletes feltételeit.
-
-(4c) Az előfizető kérésére a határozott időtartamú előfizetői szerződés 24 hónapra is megköthető, ha az előfizetői szerződés megkötéséhez készülékvásárlás is kapcsolódik. Az ilyen módon 24 hónapra megkötött határozott idejű előfizetői szerződésnek a készülék vásárlásához kapcsolódó törlesztő részletek nélkül számított előfizetési díja nem lehet magasabb a (4b) bekezdés szerinti 12 hónapra kötött, azonos szolgáltatási tartalmú, határozott idejű szerződések előfizetési díjától.
-
-(4d) A határozott idejű előfizetői szerződés lejártát vagy a 134. § (15) bekezdése szerinti elszámolást követően a szolgáltató az előfizető kérésére külön díjazás nélkül köteles gondoskodni arról, hogy az e szerződéssel együtt vásárolt készülék bármely szolgáltató előfizetőjeként használható legyen (hálózat-függetlenítés).
-
-(4e) A (4c) bekezdés alkalmazásában készülék alatt az internet-hozzáférési szolgáltatás, illetve a médiaszolgáltatásokról és a tömegkommunikációról szóló törvényben meghatározott audiovizuális médiaszolgáltatás igénybevételét lehetővé tevő, kép és hang megjelenítésére alkalmas készüléket kell érteni.
-
-(4f) Az állam által elismert követelményeken alapuló, az internet-hozzáférés elterjedését ösztönző, kedvezményes szerződéses feltételeket biztosító internethozzáférés-szolgáltatás igénybevételére vonatkozó határozott időtartamú előfizetői szerződés a kedvezményes szerződéses feltételek igénybevételére jogosult előfizetővel abban az esetben is megköthető 24 hónapra, ha ahhoz nem kapcsolódik a (4c) bekezdés szerinti készülékvásárlás.
-
-(4g) A (4b), (4c) és (4f) bekezdésben rögzített maximális időtartam nem vonatkozik az olyan részletfizetési szerződés időtartamára, amelyben az előfizető vállalta, hogy kizárólag az előfizetői hozzáférési pont létesítését részletekben fizeti. Az előfizetői hozzáférési pont létesítésére vonatkozó részletfizetési szerződés nem terjedhet ki az elektronikus hírközlő végberendezésre, és nem akadályozhatja az előfizetőt az előfizetői szerződés időtartamához és megszűnéséhez kapcsolódó jogai gyakorlásában.
-
-(5)
-
-(6)
-
-128. § (1) Az előfizető az előfizetői szerződés alapján az adott szolgáltatást a szerződés időtartama alatt jogosult bármikor igénybe venni, és a hálózaton biztosított előfizetői interfészhez elektronikus hírközlő végberendezést csatlakoztatni.
-
-(2) Az elektronikus hírközlési szolgáltató nem teheti függővé valamely előfizetői szolgáltatás igénybevételét az adott előfizetői szolgáltatáshoz nem nélkülözhetetlen más előfizetői szolgáltatás igénybevételétől, vagy az adott előfizetői szolgáltatáshoz nem nélkülözhetetlen más szolgáltatás vagy termék megvásárlásától vagy igénybevételétől.
-
-(3)
-
-(4) Az elektronikus hírközlési szolgáltató nem számolhat fel külön díjat a szolgáltatás nyújtásával szükségképpen együtt járó, vagy ahhoz szorosan kapcsolódó, a szokásos mértéket meg nem haladó költségű szolgáltatási elem címén. Különösen nem számítható fel külön díj számla kiállításáért a számla formátumától, valamint a számla befizetéséért a befizetés módjától függetlenül. Az e bekezdésben foglalt rendelkezés nem akadálya annak, hogy a szolgáltató az előfizetőnek kedvezményeket nyújtson.
-
-(5) Ha az előfizetőnek kínált szolgáltatáscsomag vagy szolgáltatásokból és végberendezésből álló csomag tartalmaz legalább egy internet-hozzáférési szolgáltatást vagy egy nyilvánosan elérhető, számfüggő személyközi hírközlési szolgáltatást, a csomag minden elemére alkalmazni kell a 127. § (4g) bekezdését, a 132. § (3)–(6) bekezdését, a 134. § (14) bekezdését, a 144. § (10) bekezdését és a 150. § (2) és (3) bekezdését.
-
-128/A. § (1) Az elektronikus hírközlési szolgáltató és az elektronikus hírközlő hálózat üzemeltetője nem akadályozhatja meg és egyoldalúan nem korlátozhatja, hogy az előfizető vagy a végfelhasználó választása szerinti, harmadik személy által üzemeltetett rádiós helyi hálózathoz csatlakozzon.
-
-(2) Az előfizető és a végfelhasználó jogosult – a nemzeti frekvenciafelosztásról, valamint a frekvenciasávok felhasználási szabályairól szóló NMHH rendelet szerint – a rádiós helyi hálózatához és azon keresztül az elektronikus hírközlési szolgáltató, illetve az elektronikus hírközlő hálózat üzemeltetője által üzemeltetett hálózathoz viszonossági alapon, vagy szélesebb körben hozzáférést nyújtani más végfelhasználó számára. Ezt a jogosultságot az elektronikus hírközlési szolgáltató és az elektronikus hírközlő hálózat üzemeltetője egyoldalúan nem korlátozhatja.
-
-### Az előfizetői szerződés létrejötte
-
-129. § (1) A felek az előfizetői szerződést írásban, szóban vagy ráutaló magatartással – az e törvényben és az Elnök rendeletében meghatározott módon – köthetik meg. A nyilvánosan elérhető elektronikus hírközlési szolgáltatást nyújtó szolgáltató az előfizetői szerződést az általános szerződési feltételei szerint köti meg.
-
-(1a) Az előfizetői szerződés megkötését megelőzően a nyilvánosan elérhető elektronikus hírközlési szolgáltatást nyújtó szolgáltató köteles térítésmentesen az előfizető rendelkezésére bocsátani
-
-- a) az előzetes tájékoztatást az Elnök rendeletében meghatározott tartalommal tartós adathordozón, vagy ha azon nem lehetséges, könnyen letölthető dokumentum útján, a fogyatékossággal élők számára – kérésre – akadálymentes formátumban is, továbbá
-- b) az előfizetői szerződés adatainak összefoglalóját tömör és könnyen olvasható formában, az Elnök rendeletében meghatározott dokumentumminta szerint.
-
-(1b) Ha az előfizetői szerződés adatainak összefoglalóját technikai okok miatt nem lehetséges a szerződés megkötése előtt az előfizető rendelkezésére bocsátani, az előfizetői szerződés akkor lép hatályba, ha a szolgáltató által indokolatlan késedelem nélkül rendelkezésre bocsátott összefoglaló kézhezvételét követően az előfizető a szerződéskötésre vonatkozó szándékát megerősíti.
-
-(1c) Az előzetes tájékoztatás és az előfizetői szerződés adatainak összefoglalója az előfizető rendelkezésére bocsátott tartalommal válik az előfizetői szerződés részévé, kivéve, ha a felek a szerződés megkötésekor egyező akarattal eltérnek azok tartalmától.
-
-(2) A szolgáltató az előfizető személyazonosságának igazoló ellenőrzése érdekében az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződés megkötését megelőzően és a (2b) bekezdés szerinti adategyeztetés érdekében köteles az egyéni előfizetőnek, valamint üzleti előfizető esetén a szerződést aláíró személynek a személyazonosság igazolására alkalmas hatósági igazolványának érvényességét a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásában ellenőrizni.
-
-(2a) A (2) bekezdésben meghatározott, az előfizető személyazonosságának sikeres ellenőrzésének hiányában az előfizetői szerződés nem köthető meg, valamint a szolgáltató a szolgáltatás nyújtását nem kezdheti meg.
-
-(2b) A szolgáltató – a (2) bekezdés szerinti az előfizető személyazonosságának igazoló ellenőrzése érdekében –
-
-- a) ha a 134. § (16) bekezdés szerinti határozott időtartamú szerződések láncolata az egy évet meghaladja, akkor a szerződés megkötésének napját követő egy év múlva, majd évente az évforduló napjáig az előfizető,
-- b) a 127. § (2b) bekezdés szerinti harmadik személy
-
-adatainak egyeztetésére köteles.
-
-(2c) Az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatás esetében az előfizető személyazonossága igazolását on-line regisztráción keresztül is
-
-- a) kezdeményezheti a szolgáltatásra irányuló előfizetői szerződés megkötését megelőzően, illetve
-- b) elvégezheti a (2b) bekezdés szerinti adategyeztetés során.
-
-(3) Ha a felek az előfizetői szerződést írásban kötik meg, a természetes személy előfizetőnek a szerződéskötéskor kell nyilatkoznia arról, hogy az előfizetői szolgáltatást egyéni előfizetőként vagy nem egyéni előfizetőként kívánja igénybe venni. Ha az előfizetői szerződést nem írásban kötik, a szolgáltató köteles biztosítani, hogy az előfizető egyszerű módon és ingyen megtehesse az egyéni előfizetői minőségre vonatkozó nyilatkozatát. A nyilatkozat megtételének módját, annak határidejét egyebekben a szolgáltatói általános szerződési feltételek határozzák meg.
-
-(4) Az előfizető az előfizetői szerződés hatálya alatt a (3) bekezdésben meghatározott nyilatkozatot az általános szerződési feltételekben meghatározott módon vonhatja vissza vagy módosíthatja.
-
-(5) Az írásban megkötött egyedi előfizetői szerződésnek tartalmaznia kell az általános szerződési feltételekben foglaltaktól való valamennyi eltérést jól látható és értelmezhető módon, figyelemfelhívó jelleggel, továbbá az Elnök rendeletében meghatározott adatokat az Elnök rendeletében meghatározott felosztásban.
-
-(6)
-
-(7)
-
-(8)
+(8) A képviselő a lefolytatott vizsgálat eredményéről, illetve esetleges intézkedéséről a bejelentőt értesíti.
 
 (9)
 
-#### 130. §
+### Előfizetői szerződés
 
-#### 131. §
+127. § (1) Az előfizetői szolgáltatás nyújtásáról a szolgáltató, az előfizető, illetve igénylő (a továbbiakban együtt: felek) előfizetői szerződést kötnek, amely az általános szerződési feltételekből, valamint egyedi előfizetői szerződésből áll.
+
+(2) Az előfizetői szerződésekre a Ptk. szerződésekre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel és kiegészítésekkel kell alkalmazni.
+
+(3) E törvényben foglaltaktól a szolgáltató az általános szerződési feltételekben csak akkor térhet el, ha az eltérést a törvény kifejezetten megengedi.
+
+(4) A felek az egyedi előfizetői szerződésben az e törvényben, illetve az általános szerződési feltételekben foglaltaktól az előfizető javára egyező akarattal eltérhetnek.
+
+(5) Az előfizetői szerződésnek a fogyasztók védelmével, a szolgáltatás minőségével, a díjazás hitelességével, a felek jogaival és kötelezettségeivel összefüggő további feltételeit külön jogszabály állapítja meg.
+
+128. § (1) Az előfizető az előfizetői szerződés alapján az adott szolgáltatást a szerződés időtartama alatt jogosult bármikor igénybe venni, és a hálózaton biztosított előfizetői interfészhez az alapvető követelményeknek megfelelő elektronikus hírközlő végberendezést csatlakoztatni.
+
+(2) Az elektronikus hírközlési szolgáltató nem teheti függővé valamely előfizetői szolgáltatás igénybevételét az adott előfizetői szolgáltatáshoz nem nélkülözhetetlen más előfizetői szolgáltatás igénybevételétől, vagy az adott előfizetői szolgáltatáshoz nem nélkülözhetetlen más szolgáltatás vagy termék megvásárlásától vagy igénybevételétől.
+
+(3)–(4)
+
+### Az előfizetői szerződés létrejötte
+
+129. § (1) A felek az előfizetői szerződést írásban, szóban vagy ráutaló magatartással – így különösen az előfizetői szolgáltatás igénybevételével – köthetik meg. A nyilvános előfizetői szolgáltatást nyújtó szolgáltató az általános szerződési feltételei szerint köteles előfizetői szerződést kötni. A szolgáltatót az előfizetői szerződés megkötése körében – a 118. § (2) bekezdésében szabályozottakon túl – szerződéskötési kötelezettség nem terheli.
+
+(2) Internet szolgáltatás telefon hálózaton keresztül történő elérése esetén ráutaló magatartással is létrejön az előfizetői szerződés a hívást kezdeményező előfizető és a hívott internet szolgáltatóval az internet szolgáltatóhoz irányuló forgalom eljuttatására vonatkozó hálózati szerződéses jogviszonyban álló szolgáltató között.
+
+(3) Ha a felek az előfizetői szerződést írásban kötik meg, a szolgáltató köteles a szerződés megkötésével egyidejűleg az egyedi előfizetői szerződést, az általános szerződési feltételek kivonatát, valamint – az előfizető kérése esetén – az általános szerződési feltételek egy példányát az előfizető rendelkezésére bocsátani. Egyéb módon történő szerződéskötés esetén a szolgáltató köteles tájékoztatni az előfizetőt az általános szerződési feltételek elérhetőségéről.
+
+(4) Ha a felek az előfizetői szerződést írásban kötik meg, a természetes személy előfizetőnek a szerződéskötéskor kell nyilatkoznia arról, hogy az előfizetői szolgáltatást egyéni előfizetőként vagy nem egyéni előfizetőként kívánja igénybe venni. Ha az előfizetői szerződést nem írásban kötik, a szolgáltató köteles biztosítani, hogy az előfizető egyszerű módon és ingyen megtehesse az egyéni előfizetői minőségre vonatkozó nyilatkozatát. A nyilatkozat megtételének módját, annak határidejét egyebekben a szolgáltatói általános szerződési feltételek határozzák meg.
+
+(5) Az előfizető az előfizetői szerződés hatálya alatt a (4) bekezdésben meghatározott nyilatkozatot az általános szerződési feltételekben meghatározott módon vonhatja vissza vagy módosíthatja.
+
+(6) Az írásban megkötött egyedi előfizetői szerződésnek legalább a következőket kell tartalmaznia, amennyiben ezt a szolgáltatás sajátosságai lehetővé teszik:
+
+- a) az elektronikus hírközlési szolgáltató neve, címe, az ügyfélszolgálat és hibabejelentő szolgálat elérhetősége és nyitvatartási rendje, illetve internetes honlapjának címe;
+- b) az előfizető neve, lakóhelye, tartózkodási helye, illetve székhelye;
+- c) természetes személy előfizető esetén az előfizető születési neve, születési helye és ideje;
+- d) nem természetes személy előfizető esetén az előfizető cégjegyzékszáma vagy más nyilvántartási száma, valamint az előfizető pénzforgalmi számlaszáma;
+- e) az előfizető hozzájárulása a 157. § (2) bekezdésében foglalt adatállományon kívüli adatainak kezeléséhez, illetve az adatállományban szereplő adatainak az e törvényben meghatározott céloktól eltérő felhasználásához;
+- f) a szerződés tartama;
+- g) a szolgáltatás megkezdésének, illetve a csatlakozás kiépítésének a határideje;
+- h) a szolgáltatásra irányadó díjak és egyéb kapcsolódó díjak, költségek mértéke, a díjak megfizetésének ideje, módja;
+- i) a szerződés megszüntetésének feltételei, valamint utalás arra, hogy az általános szerződési feltételek mely pontjai tartalmazzák a szerződés szüneteltetésének és a szolgáltatás korlátozásának feltételeit;
+- j) utalás arra, hogy az általános szerződési feltételek mely pontjai tartalmazzák a szerződésszegés jogkövetkezményei, így különösen a szolgáltatás minőségére, szüneteltetésére vonatkozó rendelkezések megszegése esetén az előfizetőt megillető jogokat, a díjvisszatérítés rendjét, az előfizetőt megillető kötbér mértékét;
+- k) a hibabejelentések megtételének, számlapanaszok bejelentésének lehetséges módjai, utalás arra, hogy az általános szerződési feltételek mely pontjai tartalmazzák a hibabejelentések és számlapanaszok elintézési rendjét, a karbantartási szolgáltatások biztosítására vonatkozó információkat;
+- l) a szerződésmódosítás feltételei, az előfizető jogai szerződésmódosítás esetére;
+- m) tájékoztatás arról, hogy jogvita esetére az előfizető jogosult a vitát hatóság elé terjeszteni, továbbá utalás arra, hogy az általános szerződési feltételek mely pontjai tartalmazzák a hatáskörrel rendelkező hatóságok pontos megnevezését, továbbá elérhetőségük megjelölését;
+- n) az előfizetői végberendezés felszerelésének helye – amennyiben az rögzített – és az előfizető hívószáma. Az írásban megkötött egyedi előfizetői szerződésben a feleknek rögzíteni kell a szolgáltató felelősségi határát jelentő előfizetői hozzáférési pont létesítési helyét. Az előfizetői hozzáférési pont meghatározása tekintetében az előfizetők által szokásosan megjelölt pont az irányadó, amely csak az előfizető kifejezett kérésére létesíthető az előfizető helyiségén kívül;
+- o) az előválasztással választott közvetítő szolgáltatóra vonatkozó nyilatkozatok és adatok;
+- p) a tételes számlamelléklet igénylésére vonatkozó nyilatkozat;
+- q) az általános szerződési feltételek elérhetősége, valamint az előfizető azon nyilatkozata, amely szerint az e szerződésben foglaltakat megismerte és elfogadja.
+
+(7) Ha a természetes személy előfizető korlátozottan cselekvőképes, az utólag fizetett díjú szolgáltatásokra vonatkozó előfizetői szerződésnek a természetes személy előfizető törvényes képviselőjének a (6) bekezdés b)–c) pontjaiban foglalt adatait is tartalmaznia kell.
+
+(8) Az elektronikus hírközlési szolgáltató – a 159/A. § (1) bekezdésben meghatározott célból – a nem írásban megkötött előfizetői szerződések esetén is köteles rögzíteni a (6) bekezdés b)–d) pontjában foglalt adatokat, amennyiben ezt a szolgáltatás sajátosságai lehetővé teszik.
+
+### Általános szerződési feltételek
+
+130. § (1) Az előfizetői szolgáltatásokat nyújtó elektronikus hírközlési szolgáltató az előfizetői szolgáltatásokra vonatkozóan általános szerződési feltételeket köteles készíteni. Az általános szerződési feltételeket írásba kell foglalni.
+
+(2) A szolgáltató köteles az általános szerződési feltételeket és azok kivonatát az ügyfélszolgálatán, illetve internetes oldalán hozzáférhetővé tenni. A szolgáltató általános szerződési feltételeit és általános szerződési feltételeinek kivonatát térítésmentesen köteles előfizetői számára rendelkezésre bocsátani.
+
+(3) Az általános szerződési feltételeket – azok minden módosítása esetén a módosítás hatálybalépését 30 nappal megelőzően – nyilvánosságra kell hozni, a szolgáltató ügyfélszolgálatán, illetve honlapján ingyenesen elérhetővé kell tenni, valamint a hatóságnak meg kell küldeni. A szolgáltató a módosítás hatóságnak történő megküldésének kivételével nem köteles a jelen bekezdésben foglaltakat az általános szerződési feltételek azon módosításaira alkalmazni, amikor az általános szerződési feltételek módosítása új szolgáltatás bevezetése miatt válik szükségessé, és a módosítás a már nyújtott szolgáltatásokra vonatkozó általános szerződéses feltételeket nem érinti.
+
+(4) A hatóság az általános szerződési feltételeknek az elektronikus hírközlésre vonatkozó szabályoknak való megfelelőségét a piacfelügyelet keretében rendszeresen vizsgálja.
+
+131. § Az előfizetői szolgáltatások általános szerződési feltételeinek legalább az alábbiakat kell tartalmaznia:
+
+- a) a szolgáltató neve, címe;
+- b) ügyfélszolgálatának elérhetősége (cím, telefonszám, nyitvatartási idő), illetve internetes honlapjának címe;
+- c) a szolgáltató által nyújtott előfizetői szolgáltatások meghatározása;
+- d) az előfizetői szerződés megkötésére vonatkozó eljárás, az előfizetői szolgáltatások igénybevételének módja és feltételei, a szolgáltatás igénybevételének esetleges időbeli és földrajzi korlátai;
+- e) az előfizetői hozzáférési pont létesítésére és a szolgáltatás igénybevételét biztosító üzembe helyezésre vállalt idő (célérték), mobil rádiótávközlési szolgáltatások esetén a végberendezés hálózati végponthoz csatlakoztatásának ideje, az igénybejelentéstől számítva;
+- f) a szolgáltatások minőségi célértékei, a minőségi célértékek értelmezése és teljesítésük ellenőrzésének mérési módszere;
+- g) az előfizetői szerződés megkötéséhez szükséges előfizetői adatok listája, az előfizetői jogviszony létrejötte, a legrövidebb szerződési időszak;
+- h) az előfizetői szerződés módosításának egyes esetei és a szerződésmódosítás feltételei, a szolgáltató joga egyoldalú szerződésmódosításra, az előfizetőt a szolgáltató egyoldalú szerződésmódosításának eseteiben megillető jogok, egyoldalú szerződésmódosítás esetén az előfizető tájékoztatásának módja, a díjfizetéshez kötött szerződésmódosítás esetei és a fizetendő díj mértéke, az áthelyezés és az átírás teljesítésének határideje;
+- i) az előfizetői szolgáltatás szünetelésének esetei, az előfizető által kérhető szünetelés leghosszabb időtartama, a díjfizetéshez kötött szünetelés esetei és a fizetendő díj mértéke;
+- j) az előfizetői szolgáltatás korlátozásának, így különösen az előfizető által indított vagy az előfizetőnél végződtetett forgalom korlátozásának, az előfizetői szolgáltatás minőségi vagy más jellemzői csökkentésének az esetei és feltételei;
+- k) az előfizetői szerződés megszűnésének esetei és feltételei, azon határidő megjelölése, ameddig az előfizető díjfizetési kötelezettségének eleget tehet anélkül, hogy a szolgáltató a szerződést felmondaná;
+- l) a hibabejelentő elérhetősége, a vállalt hibaelhárítási célértékek, a hibabejelentések nyilvántartásba vételének menete;
+- m) az ügyfélszolgálat működése, az előfizetői bejelentések, panaszok intézése (díjreklamáció, kötbér és kártérítési igények intézése). Az ügyfélszolgálat elérhetőségét az általános szerződési feltételek elején, jól azonosítható módon fel kell tüntetni;
+- n) az előfizető jogai az előfizetői szolgáltatás hibás teljesítése esetén, az előfizetőt megillető kötbér mértéke, a hiba kijavításának átmeneti vagy tartós lehetetlensége esetén az előfizetőt megillető díjcsökkentés mértéke, az előfizetői szolgáltatással kapcsolatos viták rendezésének módja;
+- o) az előfizetői végberendezés csatlakoztatásának feltételei;
+- p) a szolgáltató által kezelt adatok fajtái, tárolásuk és esetleges továbbításuk célja és időtartama, az adatok továbbításának biztosítása, az adatbiztonság, valamint az előfizetőnek, illetve a felhasználónak az adatkezeléssel kapcsolatos jogairól és kötelezettségeiről szóló tájékoztatás;
+- q) az előfizetői szolgáltatások díja, ezen belül az egyszeri díjak, rendszeres díjak és forgalmi díjak számszerű és egyértelmű mértéke, díjazási időszakok, kedvezmények és díjfizetés nélküli szolgáltatások, a kedvezményre jogosultság elvesztése esetén a kedvezmény visszafizetésének feltételei, a díjfizetés és a számlázás módja és ideje, a díjnak az előfizető igénye szerinti előre történő megfizetésére vonatkozó szabályok;
+- r) telefon szolgáltatók esetében a számhordozással kapcsolatos eljárás részletes szabályai;
+- s) a közvetítőválasztással kapcsolatos eljárás részletes szabályai, a közvetítőválasztást biztosító összekapcsolási szerződésekben foglaltakkal összhangban;
+- t) a felügyeleti szerv címe, telefonszáma;
+- u) az általános szerződési feltételek elérhetősége.
 
 ### Az előfizetői szerződés módosítása
 
-132. § (1) Az egyedi előfizetői szerződés módosítására az előfizetői szerződés megkötésének szabályai vonatkoznak.
+132. § (1) Az egyedi előfizetői szerződés módosítására az előfizetői szerződés megkötésének szabályai vonatkoznak. Az általános szerződési feltételek lehetővé tehetik az egyedi előfizetői szerződés (2) bekezdés szerinti módosítását.
 
-(2) Az általános szerződési feltételek lehetővé tehetik az előfizetői szerződésnek az egyedi előfizetői szerződésre kiterjedő szolgáltató általi egyoldalú módosítását.
+(2) A szolgáltató az előfizetői szerződést csak az alábbi esetekben jogosult egyoldalúan módosítani:
 
-(3) A szolgáltató egyoldalú szerződésmódosítás esetén köteles a módosításról a hatálybalépését megelőzően legalább 30 nappal az adott módosítással érintett előfizetőket tartós adathordozón, az Elnök rendeletében meghatározott tartalommal értesíteni, az előfizetőket megillető felmondás feltételeiről és a felmondás jogkövetkezményeiről szóló tájékoztatással együtt.
+- a) az egyedi előfizetői szerződésben vagy általános szerződési feltételekben foglalt feltételek bekövetkezése esetén azzal, hogy – amennyiben jogszabály vagy elektronikus hírközlésre vonatkozó szabály másként nem rendelkezik – a módosítás nem eredményezheti a szerződés feltételeinek lényeges módosítását;
+- b) jogszabályváltozás vagy hatósági döntés indokolja; vagy
+- c) a körülményekben bekövetkezett lényeges változás indokolja.
 
-(4) A szolgáltató nem köteles a (3) bekezdésben foglalt értesítési határidőt az általános szerződési feltételek azon módosításaira alkalmazni, amikor az általános szerződési feltételek módosítása új szolgáltatás bevezetése miatt válik szükségessé, és a módosítás a már nyújtott szolgáltatásokra vonatkozó általános szerződéses feltételeket nem érinti.
+(3) Lényeges módosításnak minősül különösen a szolgáltatás igénybevételének feltételeire vagy minőségi célértékeire vonatkozó változtatás.
 
-(5) A nyilvánosan elérhető elektronikus hírközlési szolgáltatást nyújtó szolgáltató egyoldalú szerződésmódosításáról szóló értesítés kézhezvételétől számított 45 napon belül az előfizető azonnali hatállyal, további jogkövetkezmények nélkül jogosult felmondani az előfizetői szerződést.
+(4) Ha a szolgáltató az általános szerződési feltételekben meghatározott esetekben jogosult az általános szerződési feltételeket egyoldalúan módosítani, köteles a módosításról a hatálybalépését megelőzően legalább 30 nappal az előfizetőket e törvényben foglaltak szerint értesíteni, az előfizetőket megillető felmondás feltételeiről szóló tájékoztatással együtt. Ebben az esetben az előfizető jogosult a módosítás tárgyában megküldött értesítést követő 8 napon belül a szerződés azonnali hatályú felmondására.
 
-(6) Nem jogosult az előfizető az (5) bekezdés szerint felmondani az előfizetői szerződést, ha a módosítás
+(5) Amennyiben a módosítás az előfizető számára hátrányos rendelkezéseket tartalmaz, az előfizető az értesítéstől számított 15 napon belül további jogkövetkezmények nélkül jogosult felmondani az előfizetői szerződést. Nem mondhatja fel az előfizető az előfizetői szerződést ilyen esetben azonban akkor, ha kötelezettséget vállalt arra, hogy a szolgáltatást meghatározott időtartam alatt igénybe veszi és az előfizetői szerződést az ebből eredő kedvezmények figyelembevételével kötötte meg, és a módosítás a kapott kedvezményeket nem érinti. Amennyiben a módosítás a kapott kedvezményeket érinti, és az előfizető felmondja az előfizetői szerződést, a szolgáltató az előfizetőtől nem követelheti a szerződés felmondását követő időszakra eső kedvezmény összegét.
 
-- a) következtében az előfizetői szerződés, illetve a szolgáltatás igénybevételére vonatkozó feltételek az előfizető számára kizárólag előnyös módon változnak meg,
-- b) adminisztratív jellegű és nem tartalmaz az előfizető számára hátrányos rendelkezést, vagy
-- c) kifejezetten jogszabályváltozáson, hatósági vagy bírósági döntésen alapul.
+(6) A szolgáltató nem köteles a (4) és (5) bekezdésben foglalt értesítési határidőket az általános szerződési feltételek azon módosításaira alkalmazni, amikor az általános szerződési feltételek módosítása új szolgáltatás bevezetése miatt válik szükségessé, és a módosítás a már nyújtott szolgáltatásokra vonatkozó általános szerződéses feltételeket nem érinti, vagy ha a módosítással kizárólag valamely előfizetői díj csökken.
 
-(7) Nem tekinthető az előfizető számára előnyös módosításnak a díjak, a díjcsomagok, az adatforgalmi korlátozások, az adatátviteli sebességek, a lefedettség, a műsorterjesztési szolgáltatás keretében kínált csatornák összetételének módosítása – ide nem értve az csatornasorrend megváltoztatását, valamint azt, ha a módosítást megelőzően kínált csatornák a módosítást követően is elérhetőek az előfizető számára –, vagy a személyes adatok kezelésének az előfizető számára nem egyértelműen előnyös megváltoztatása, még akkor sem, ha azok előnyös változásokkal járnak együtt.
+(7) Az általános szerződési feltételek módosításának a jelen §-ban foglalt keretek közötti részletes feltételeit a szolgáltató az általános szerződési feltételeiben határozza meg.
 
-(8) Nem tekinthető adminisztratív jellegű módosításnak valamely szerződési feltétel olyan változása, amely a szerződésből eredő jogokat és kötelezettségeket érdemben módosítja.
+(8) A nyilatkozattétel elmulasztása – mint ráutaló magatartás – a külön jogszabályban meghatározott esetek kivételével elfogadásnak minősül, ha a felek erről az egyedi előfizetői szerződésben előzetesen megállapodtak. Vita esetén a szolgáltatót terheli annak bizonyítása, hogy a módosításról az előfizetőt a törvényben előírt módon és időpontban értesítette.
 
-(9) A (6) bekezdés a) és b) pontjában foglaltak fennállását a szolgáltatónak kell bizonyítania.
-
-(10) Az előfizetői szerződés kétoldalú, közös megegyezésen alapuló módosítását bármelyik fél kezdeményezheti. A kétoldalú szerződésmódosításra vonatkozó szolgáltatói ajánlat csak akkor tekinthető elfogadottnak, ha azt az előfizető kifejezett, tevőleges magatartással elfogadta. Nem tekinthető az előfizető tevőleges és kifejezett elfogadó magatartásának az előfizetői szerződés teljesítéséhez kapcsolódó alapvető előfizetői jog gyakorlása, vagy kötelezettség teljesítése, így különösen a szolgáltatás további igénybevétele, illetve a szolgáltatás ellenértékének megfizetése, ettől érvényesen eltérni nem lehet. Amennyiben az előfizető a kétoldalú szerződésmódosításra vonatkozó szolgáltatói ajánlatot kifejezett, tevőleges magatartással nem fogadja el, a szerződés változatlan feltételekkel hatályban marad.
-
-(11) A szolgáltató szerződésmódosításra vonatkozó ajánlatában közérthetően és áttekinthetően köteles rögzíteni, hogy az előfizetői szerződés módosítása esetén a szerződés mely feltételei milyen módon változnak meg, továbbá köteles tájékoztatni az előfizetőt a szerződésmódosítás menetéről.
-
-(12) A szolgáltató az előfizető kérésére köteles a helyhez kötött elektronikus hírközlési szolgáltatás igénybevételéhez szükséges előfizetői hozzáférési pontot a földrajzi szolgáltatási területén belül áthelyezni, kivéve, ha ez rajta kívül álló okból nem lehetséges. A szolgáltató nem köteles az áthelyezési igényt teljesíteni, ha az előfizetőnek az áthelyezési igény benyújtásakor a 137. § (1) bekezdés c) pontja szerinti díjtartozása áll fenn.
-
-(13) Ha a határozott időtartamú előfizetői szerződés időtartama alatt az egyéni előfizető lakcímének vagy tartózkodási helyének változása miatt a korábbi lakcíméről, vagy tartózkodási helyéről új lakcímére, vagy tartózkodási helyére kéri az előfizetői hozzáférési pont áthelyezését, és a szolgáltató az áthelyezési igényt rajta kívül álló okból teljesíteni nem tudja, az előfizető a szolgáltató erről szóló értesítését követő 15 napon belül azonnali hatállyal, további jogkövetkezmények nélkül felmondhatja a határozott időtartamú szerződést. A szolgáltató az értesítésben köteles igazolható módon tájékoztatni az előfizetőt az őt megillető felmondási jogról.
-
-(14) Az adatváltozás-kezelési szolgáltatáshoz csatlakozott szolgáltató az előfizetőnek a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény (a továbbiakban: Tkmtv.) 15. § (2) bekezdés szerinti adatai változásáról szóló bejelentés esetén a (10) bekezdés szerint jár el.
-
-#### 133. §
+133. § A szolgáltató az előfizető (vagy elhalálozás esetén az örökös) kérésére csak az általános szerződési feltételekben foglaltak szerint módosíthatja az egyedi előfizetői szerződést, ha az előfizető személyében szerződés, öröklés vagy egyéb jogcímen történő jogutódlás következtében változás következik be (átírás).
 
 ### Az előfizetői szerződés megszűnése
 
-134. § (1) Az előfizető a határozatlan idejű előfizetői szerződést azonnali hatállyal bármikor jogosult további jogkövetkezmények nélkül felmondani. Az előfizetői szerződés bármely ezzel ellentétes kikötése semmis.
+134. § (1) Az előfizető a határozatlan idejű előfizetői szerződést legfeljebb 8 napos felmondási határidővel bármikor jogosult további jogkövetkezmények nélkül felmondani.
 
-(1a) A szolgáltató köteles az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződést azonnali hatállyal felmondani:
+(2) Az előfizetői szerződés szolgáltató általi felmondásának felmondási ideje a (6)–(7) bekezdésekben meghatározottak kivételével nem lehet kevesebb mint 60 nap.
 
-- a) ha az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatás előfizetője az előfizetését továbbértékesíti,
-- b) ha a 129. § (2b) bekezdés szerinti ellenőrzéskor megállapításra kerül az okmány érvénytelensége,
-- c) ha a 127. § (2d) bekezdésben meghatározott szerv nemzetbiztonsági vagy közbiztonsági okból jelzéssel élt,
-- d) ha az előfizető a 129. § (2b) bekezdés szerinti adategyeztetési kötelezettségét a szerződés évfordulójának napját követő ötödik napig nem teljesítette.
+(3) A szolgáltató az előfizetői szerződés felmondását írásban, tértivevényes levélben köteles megküldeni, kivéve, ha az előfizetőt a felmondásról azért nem tudja így értesíteni, mert a szolgáltatás sajátosságai következtében a szolgáltató nem rendelkezik az előfizető e módon történő értesítéséhez szükséges adatokkal. Ez utóbbi esetben a szolgáltató az előfizetőt a szerződés felmondásáról a 144. § (2) bekezdésében meghatározott egyéb módon is értesítheti.
 
-(2) Az előfizetői szerződés szolgáltató általi felmondásának felmondási ideje az (la), a (6)–(7), illetve a (13) bekezdésben meghatározottak kivételével nem lehet kevesebb mint 60 nap.
-
-(3) A szolgáltató az előfizetői szerződés felmondását az előfizetővel tartós adathordozó útján köteles közölni azzal, hogy a tartós adathordozó elérhetővé tételéről az előfizetőt igazolható módon külön értesíti, kivéve, ha az alkalmazott tartós adathordozó jellege ez nem indokolja.
-
-(4) Ha a felmondás indoka az előfizető szerződésszegése, és az előfizető a felmondási idő alatt a szerződésszegést megszünteti és a szolgáltató erről tudomást szerez, az előfizetői szerződés nem szűnik meg. Erről a szolgáltató köteles az előfizetőt haladéktalanul értesíteni.
+(4) Ha a felmondás indoka az előfizető szerződésszegése, és az előfizető a felmondási idő alatt a szerződésszegést megszünteti, az előfizetői szerződés nem szűnik meg a szolgáltató felmondásával. Erről a szolgáltató köteles az előfizetőt haladéktalanul értesíteni.
 
 (5) A szolgáltató általi felmondásnak tartalmaznia kell
 
 - a) a felmondás indokát,
-- b) a felmondási időt, a felmondási idő lejártának kiszámítási módját, és
+- b) a felmondási időt, a felmondási idő lejártának napját, és
 - c) ha a felmondás indoka az előfizető szerződésszegése, akkor az előfizető tájékoztatását a (4) bekezdésben foglaltakról.
 
 (6) A szolgáltató az előfizetői szerződés megszegése esetén az előfizetői szerződést a (3)–(5) bekezdésben meghatározott feltételek szerint 15 napos határidővel mondhatja fel, ha
@@ -2703,55 +1894,22 @@ adatainak egyeztetésére köteles.
 - c) az egyetemes szolgáltatást igénybe vevő előfizető az előfizetői szolgáltatást a jogkövetkezményekre figyelmeztető értesítését követően is harmadik személy részére továbbértékesíti,
 - d) az előfizető a szolgáltatást törvénybe ütköző módon vagy célokra használja.
 
-(6a) A szolgáltató az előfizetői szerződés megszegése esetén az előfizetői szerződést a (3)–(5) bekezdésben meghatározott feltételek szerint 5 napos határidővel felmondja, ha az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatás előfizetője az előfizetői szolgáltatás igénybevételét lehetővé tevő SIM kártyát a SIM kártya átadását megelőzően a 129. § (2) bekezdés szerinti azonosításhoz szükséges adatokról az elektronikus hírközlési szolgáltató tájékoztatása nélkül harmadik személy részére átadja.
+(7) A szolgáltató az előfizetői szerződést 30 napos felmondási idővel mondhatja fel, amennyiben az előfizető az esedékes díjat a jogkövetkezményekre figyelmeztető első értesítés elküldését legalább 15 nappal követő második értesítés megtörténtét követően sem egyenlítette ki. Nem jogosult a szolgáltató felmondani a szerződést, ha a díjtartozás összege nem haladja meg az előfizető havi előfizetési díjának megfelelő összeget, illetve havi előfizetési díj hiányában vagy 5000 Ft-nál magasabb havi előfizetési díj esetén az 5000 Ft-ot, vagy ha az előfizető a díjtartozás összegszerűségét vitatja, és a vita rendezése érdekében a hatósághoz vagy a jogvita elbírálására jogosult más szervezethez kérelmet terjesztett elő, feltéve, hogy az előfizető a szolgáltatás igénybevétele után a nem vitatott, illetve az esedékes, nem vitatott további díjakat folyamatosan megfizeti.
 
-(7) A szolgáltató az előfizetői szerződést 15 napos felmondási idővel mondhatja fel, amennyiben az előfizető az esedékes díjat a fizetési határidő elmulasztását követően elküldött, jogkövetkezményekre figyelmeztető első értesítést legalább 15 nappal követő második értesítés megtörténtét követően sem egyenlítette ki. Nem jogosult a szolgáltató felmondani a szerződést, ha az előfizető a díjtartozás összegszerűségét vitatja, és a vita rendezése érdekében a jogvita elbírálására jogosult szervhez kérelmet terjesztett elő, amelyről másolatban tájékoztatta a szolgáltatót, feltéve, hogy az előfizető a nem vitatott és a szolgáltatás igénybevételéért esedékes díjakat folyamatosan megfizeti. A szolgáltató köteles az előfizető kérésére a nem vitatott díjak befizetésének lehetőségét biztosítani.
+(8) Megszűnik az előfizetővel kötött előfizetői szerződése az előfizetői hozzáférést nyújtó szolgáltatónak a más szolgáltatóval kötött – a helyi hurok teljes átengedésére vonatkozó – szerződésének hatálybalépésével egyidejűleg, amelyről a szolgáltató az előfizetőt értesíteni köteles a megszűnés előtt 15 nappal.
 
-(8) Megszűnik az előfizetővel kötött előfizetői szerződése az előfizetői hozzáférést nyújtó szolgáltatónak a más szolgáltatóval kötött – olyan, az adott előfizetői hozzáférésen az előfizető számára előfizetői szolgáltatás nyújtása céljából igénybe vett nagykereskedelmi hozzáférésre vonatkozó – szerződésének hatálybalépésével egyidejűleg, amelyről a szolgáltató az előfizetőt értesíteni köteles a megszűnés előtt 15 nappal.
-
-(9) Ha a szolgáltató az előfizetői szolgáltatást más szolgáltatóval a (8) bekezdés szerinti nagykereskedelmi hozzáférésre vonatkozó szerződés alapján nyújtja, köteles az előfizetőt a nagykereskedelmi hozzáférésre irányuló szerződés felmondásáról haladéktalanul értesíteni.
+(9) Ha a szolgáltató az előfizetői szolgáltatást más szolgáltatóval a helyi hurok átengedésére kötött szerződés alapján nyújtja, köteles az előfizetőt a helyi hurok átengedésére irányuló szerződés felmondásáról haladéktalanul értesíteni.
 
 (10) A szolgáltató jogosult a szerződés felmondása helyett biztosítékot kérni vagy – a 137. § feltételei szerint – korlátozni a szolgáltatások körét, illetve használatát. Amennyiben az előfizető a korlátozás okát 30 napon belül nem szünteti meg, a korlátozás nem akadálya a felmondásnak, ha a felmondás feltételei egyébként fennállnak.
 
-(10a) Az előfizetői szerződés megszűnik továbbá:
-
-- a) az előfizető jogutód nélküli megszűnésével,
-- b) a szolgáltató halálával, jogutód nélküli megszűnésével,
-- c) az átadó szolgáltatóval fennálló előfizetői szerződés a szolgáltatóváltásra, illetve a számhordozásra vonatkozó szabályok szerint a szolgáltatóváltás, illetve a számhordozás megvalósulásával, amennyiben az nem módosul, vagy
-- d) a felek közös megegyezésével, figyelemmel a 127. § (4) bekezdésére és azzal a feltétellel, hogy a ráutaló magatartással kötött előfizetői szerződést ráutaló magatartással, kifejezett szóbeli vagy írásos nyilatkozattal, a szóban kötött előfizetői szerződést kifejezett szóbeli vagy írásos nyilatkozattal, míg az írásban kötött előfizetői szerződést kifejezett írásos nyilatkozattal szüntethetik meg a felek.
-
-(10b) Az előfizetői szerződés kizárólag az e törvényben és a végrehajtására kiadott jogszabályban foglalt esetekben és módon szűnhet meg, az előfizetői szerződés bármely ezzel ellentétes rendelkezése semmis.
-
-(11) Az előfizetői szerződés megszűnése egyes eseteinek e törvényben és a végrehajtására kiadott jogszabályban nem szabályozott feltételeit a szolgáltató az általános szerződési feltételekben határozza meg.
+(11) Az előfizetői szerződés megszűnése egyes eseteinek az (1)–(9) bekezdésekben nem szabályozott feltételeit a szolgáltató az általános szerződési feltételekben határozza meg.
 
 (12) A szolgáltató – a másik szolgáltató kérelmére – köteles felmondani az előfizetői szerződést, ha a szolgáltató elektronikus hírközlő hálózatát másik szolgáltató használja, vagy a díjat másik szolgáltató helyett szedi be, és
 
 - a) a (6) vagy (7) bekezdésben foglalt feltételek teljesültek, valamint
 - b) a harmadik szolgáltató nem jogosult vagy nem képes a szolgáltatás korlátozására, illetve megszüntetésére.
 
-(13) A műsorterjesztési szolgáltatásra vonatkozó előfizetői szerződést a szolgáltató akkor is jogosult 15 napos határidővel felmondani, ha az előfizető a (6) bekezdés szerinti jogkövetkezményekre figyelmeztető értesítését követően is jogosulatlanul vételezi a műsorjelet, a beérkező műsorjelet harmadik személynek jogellenesen továbbítja, vagy a kódolt műsorjelet jogosulatlanul dekódolja.
-
-(14) A határozott időtartamú előfizetői szerződés helyébe a meghatározott idő elteltével határozatlan időtartamú előfizetői szerződés lép, amely határozatlan idejű szerződésben meghatározott, az előfizetői szolgáltatásra vonatkozó szerződési feltételek nem lehetnek az előfizetőre nézve hátrányosabbak a korábbi határozott idejű szerződésben szereplő szerződési feltételeknél. A határozott idő elteltét megelőző 90 napban a szolgáltató három alkalommal az Elnök rendeletében meghatározott tartalommal köteles az előfizetőt egyértelműen tartós adathordozó útján tájékoztatni a határozott idejű szerződés határozatlan időtartamúvá átalakulásáról. A tájékoztatásnak ki kell terjednie a szerződés megszüntetésének lehetséges módjaira, a szolgáltatás tekintetében legkedvezőbb díjszabásra.
-
-(14a) A (14) bekezdéstől eltérően nem lép határozatlan időtartamú előfizetői szerződés a határozott időtartamú szerződés helyébe
-
-- a) ha az előfizető egyoldalúan – vagy az előfizető és a szolgáltató közös akarattal – a határozott idő lejártát megelőzően nyilatkozik arról, hogy a határozott idő leteltével a szerződést megszünteti,
-- b) a 127. § (4f) bekezdése szerinti kedvezményes szerződéses feltételeket biztosító internethozzáférés-szolgáltatás igénybevételére vonatkozó határozott időtartamú előfizetői szerződés esetén, vagy
-- c) ha a felek közös akarattal kizárták annak lehetőségét, hogy a határozott időtartamú előfizetői szerződés helyébe a meghatározott idő elteltével határozatlan időtartamú előfizetői szerződés lépjen.
-
-(14b) A felek a határozott idejű szerződés időtartamának meghosszabbításáról az előfizető kifejezett nyilatkozata esetén a határozott idő elteltét megelőzően szerződésmódosítással dönthetnek. Nem hosszabbítható meg a szolgáltatáscsomagra vagy szolgáltatásokból és végberendezésekből álló csomagra vonatkozó határozott idejű előfizetői szerződés időtartama, ha a szerződés módosítására azért kerül sor, mert az előfizető ugyanazon internet-hozzáférési szolgáltatást vagy nyilvánosan elérhető számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltatótól újabb elektronikus hírközlési szolgáltatást rendel meg, vagy további elektronikus hírközlő végberendezést igényel, kivéve, ha az előfizető a szerződés módosításakor a meghosszabbításhoz kifejezetten hozzájárul.
-
-(15) Amennyiben az előfizető a határozott időtartamú előfizetői szerződést az ebből eredő kedvezmények figyelembevételével kötötte meg, és a szerződést jogosult a határozott időtartam lejárta előtt felmondani, a szolgáltató kizárólag a készülékvásárlásból eredő kedvezményeket követelheti, ha az előfizető a készüléket a felmondást követően is meg kívánja tartani, a felmondáshoz egyéb hátrányos jogkövetkezményt nem fűzhet.
-
-(15a) Amennyiben az előfizető a határozott időtartamú előfizetői szerződést az ebből eredő kedvezmények figyelembevételével kötötte meg, és a szerződést a határozott időtartam lejárta előtt – a (15) bekezdésben foglalt eset kivételével – felmondja, vagy a szolgáltató (6), (7), illetve (13) bekezdés szerinti felmondására szerződésszegésével okot szolgáltat, a szolgáltató kizárólag az előfizető által igénybe vett kedvezményeket követelheti – ideértve a készülékvásárlásból eredő kedvezményeket is –, a felmondáshoz egyéb hátrányos jogkövetkezményt nem fűzhet. Ebben az esetben a szerződés felmondási ideje legfeljebb 8 nap lehet. A jogkövetkezmény alkalmazására vonatkozó további feltételeket az Elnök rendeletben állapítja meg.
-
-(15b) Ha az előfizető határozott időtartamú előfizetői szerződéssel szolgáltatáscsomagot vesz igénybe, és a szolgáltató szerződésszegése vagy egyoldalú szerződésmódosítása miatt a határozott időtartam lejárta előtt jogosulttá válik az előfizetői szerződést a szolgáltatáscsomag részét képező bármely elektronikus hírközlési szolgáltatás tekintetében felmondani, a szolgáltatáscsomag valamennyi elektronikus hírközlési szolgáltatása tekintetében jogosulttá válik a szerződés felmondására. A határozott idejű szerződés felmondásának részletes szabályait a szolgáltató az általános szerződési feltételekben határozza meg.
-
-(16) Az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatások esetében a (14), (14a) és (15) bekezdés nem alkalmazható. E szolgáltatások esetében az előfizető általi egyenlegfeltöltés új határozott idejű szerződés ráutaló magatartással történő megkötésének minősül. Az előfizető általi egyenlegfeltöltéssel az előző határozott idejű szerződés megszűnik azzal, hogy az előfizető hívószáma változatlan marad.
-
-(17) Az előfizetői szerződés előfizető általi felmondását a szolgáltató köteles minden olyan formában lehetővé tenni, amelyet a szerződés megkötésére is alkalmaz.
-
-(18) Internet-hozzáférési szolgáltatást nyújtó szolgáltatónak az előfizetői szerződés megszűnése esetén – az előfizető kérésére – díjmentesen lehetővé kell tennie a szolgáltató által biztosított, az internet-hozzáférési szolgáltatáshoz kapcsolódó e-mail-címre érkező üzenetekhez való hozzáférést vagy ezen üzenetek előfizető által megadott e-mail-címre történő továbbítását a felmondástól számított 6 hónapos időtartamra. Az előfizető kérése esetén a szolgáltató a hozzáférést, illetve a továbbítást ezt meghaladó időtartamra is biztosíthatja, ennek feltételeit az általános szerződési feltételekben határozza meg.
+(13) A műsorelosztási szolgáltatásra vonatkozó előfizetői szerződést a szolgáltató akkor is jogosult 15 napos határidővel felmondani, ha az előfizető a jogkövetkezményekre figyelmeztető értesítését követően is jogosulatlanul vételezi a műsorjelet, a beérkező műsorjelet harmadik személynek jogellenesen továbbítja, vagy a kódolt műsorjelet jogosulatlanul dekódolja.
 
 ### A szolgáltatás szüneteltetése
 
@@ -2765,52 +1923,32 @@ adatainak egyeztetésére köteles.
 
 - a) az előfizető a szünetelést legalább 15 nappal megelőző előzetes értesítése mellett a hálózat átalakítása, felújítása, cseréje, karbantartása miatt – amennyiben a szüneteltetést nem igénylő más gazdaságos műszaki megoldás nem áll rendelkezésre – amely naptári hónaponként az 1 napot nem haladhatja meg;
 - b) előre nem látható és el nem hárítható külső ok (vis maior) esetén;
-- c) Magyarország védelmi és biztonsági, honvédelmi, nemzetbiztonsági, gazdasági és közbiztonsági (így különösen terrorelhárítás, kábítószer-kereskedelem elleni küzdelem) érdekeinek védelmében a jogszabályok által előírt módon.
+- c) a Magyar Köztársaság honvédelmi, nemzetbiztonsági, gazdasági és közbiztonsági (így különösen terroristaelhárítás, kábítószer-kereskedelem elleni küzdelem) érdekeinek védelmében a jogszabályok által előírt módon.
 
 (2) Ha a szolgáltató érdekkörébe tartozó ok miatt kerül sor a szünetelésre – ide nem értve az általános szerződési feltételekben meghatározott rendszeres karbantartást –, vagy a szünetelés oka mindkét fél érdekkörén kívül esik, a szünetelés időtartama alatt az előfizető a szünetelés időtartamára vonatkozó díj fizetésére nem köteles. Ha a szüneteltetés egy adott naptári hónapban meghaladja a 48 órát, a szolgáltató köteles visszatéríteni az egy hónapra eső előfizetési díjat.
 
 (3) Nem kell visszatéríteni a díjat, ha a szünetelés oka vis maior, feltéve, hogy a szolgáltató igazolja, hogy a szüneteltetést kiváltó ok határidőn belüli megszüntetésére minden tőle elvárhatót megtett.
 
-(4) Az előfizetői szolgáltatás szünetelésének egyéb eseteit az Elnök rendeletben állapítja meg.
+(4) Az előfizetői szolgáltatás szünetelésének egyéb eseteit és feltételeit, így azokat az eseteket, amikor a szünetelést a szolgáltató díjfizetéshez köti, a szolgáltató az általános szerződési feltételekben határozza meg.
 
 ### A szolgáltatás korlátozása
 
-137. § (1) Az előfizetői szolgáltatás igénybevételének korlátozására, így különösen az előfizető által indított vagy az előfizetőnél végződtetett (az előfizető hozzáférési pontjára irányuló) forgalom korlátozására, az előfizetői szolgáltatás minőségi vagy más jellemzőinek csökkentésére a szolgáltató az előfizető értesítésével a következő esetekben jogosult:
+137. § (1) Az előfizetői szolgáltatás igénybevételének korlátozására, így különösen az előfizető által indított vagy az előfizetőnél végződtetett (az előfizető hozzáférési pontjára irányuló) forgalom korlátozására, az előfizetői szolgáltatás minőségi vagy más jellemzőinek csökkentésére a szolgáltató az előfizető egyidejű értesítésével a következő esetekben jogosult:
 
-- a) az előfizető akadályozza vagy veszélyezteti a szolgáltató hálózatának rendeltetésszerű működését, így különösen, ha az előfizető az előfizetői hozzáférési ponthoz nem megfelelő interfésszel rendelkező végberendezést csatlakoztatott;
-- b) a szolgáltatást igénybe vevő előfizető az előfizetői szolgáltatást a szolgáltató hozzájárulása nélkül harmadik személy részére továbbértékesíti, vagy azt hálózati szolgáltatás céljára használja;
-- c) az előfizetőnek a díjfizetésre vonatkozó, annak esedékessé válását követő 8 napon belül megküldött felszólításban megjelölt – de legalább 15 napos – határidő elteltét követően is esedékes díjtartozása van, és az előfizető a díjtartozás megfizetésének biztosítása céljából a szolgáltatónak nem adott az általános szerződési feltételekben meghatározott vagyoni biztosítékot;
-- d) az előfizető fogyasztása túllépte az adott szolgáltatás tekintetében az általános szerződési feltételekben, illetve az egyedi előfizetői szerződésben az igénybevétel felső korlátjaként meghatározott összeget vagy hívás, üzenet, illetve adatmennyiséget.
+- a) az előfizető akadályozza vagy veszélyezteti a szolgáltató hálózatának rendeltetésszerű működését, így különösen, ha az előfizető az előfizetői hozzáférési ponthoz megfelelőség-tanúsítással nem rendelkező végberendezést vagy nem megfelelő interfésszel rendelkező végberendezést csatlakoztatott;
+- b) a támogatott egyetemes szolgáltatást igénybe vevő előfizető az előfizetői szolgáltatást a szolgáltató hozzájárulása nélkül harmadik személy részére továbbértékesíti, vagy azt hálózati szolgáltatás céljára használja;
+- c) az előfizetőnek a díjtartozásról szóló felszólításban megjelölt – de legalább 30 napos – határidő elteltét követően is esedékes díjtartozása van, és az előfizető a díjtartozás megfizetésének biztosítása céljából a szolgáltatónak nem adott az általános szerződési feltételekben meghatározott vagyoni biztosítékot.
 
-(1a) Az (1) bekezdés a)–c) pontja szerinti esetekben a szolgáltató a korlátozás legkorábbi időpontját legalább 3 nappal megelőzően értesíti az előfizetőt azzal a tájékoztatással, hogy a korlátozásra mely időpontot követően kerülhet sor. Az (1) bekezdés d) pontja szerinti esetben a korlátozásra az előfizető egyidejű értesítésével kerülhet sor. A szolgáltató köteles felhívni az előfizető figyelmét arra, hogy a korlátozás az előfizető által igénybe vett más, az internet-hozzáférési szolgáltatásra épülő elektronikus hírközlési szolgáltatás elérhetőségét és minőségét is érintheti.
-
-(2) A szolgáltató az előfizetői szolgáltatás korlátozása esetén is köteles biztosítani
+(2) A telefon szolgáltató az előfizetői szolgáltatás korlátozása esetén is köteles biztosítani
 
 - a) az előfizető hívhatóságát,
 - b) a segélykérő hívások továbbítását,
 - c) a szolgáltató ügyfélszolgálatának elérhetőségét,
-- d) a hibabejelentőjének elérhetőségét,
-- e) olyan sebességi és minőségi jellemzőkkel rendelkező internet-hozzáférési szolgáltatást, amely lehetővé teszi legalább az elektronikus levelezést és az elektronikus ügyintézési szolgáltatások igénybevételét (minimális szolgáltatási szintű internet-hozzáférési szolgáltatás).
+- d) a hibabejelentőjének elérhetőségét.
 
-(2a) Ha az előfizető több előfizetői szolgáltatást egy egyedi előfizetői szerződés keretében vesz igénybe, a korlátozás az (1) bekezdés c) pontjában szabályozott díjtartozás, valamint a csalás esetét kivéve – műszakilag kivitelezhető mértékben – csak az előfizetői szerződésszegéssel érintett szolgáltatásra terjedhet ki.
+(3) A műsorelosztó szolgáltató a szolgáltatás igénybevételének a korlátozására akkor is jogosult, ha az előfizető a műsorjelet jogosulatlanul vételezi, a beérkező műsorjelet harmadik személynek jogellenesen továbbítja, vagy a kódolt műsorjelet jogosulatlanul dekódolja.
 
-(2b) A szolgáltató a szolgáltatás korlátozásának idejére kizárólag a nyújtott szolgáltatással arányos díjat számíthat fel.
-
-(2c) A műsorterjesztő a szolgáltatás igénybevételének a korlátozására akkor is jogosult, ha az előfizető a műsorjelet jogosulatlanul vételezi, a beérkező műsorjelet harmadik személynek jogellenesen továbbítja, vagy a kódolt műsorjelet jogosulatlanul dekódolja.
-
-(3)
-
-(4) A szolgáltató köteles újra biztosítani a szolgáltatást, ha a korlátozás indoka megszűnt. A szolgáltató a szolgáltatás igénybe vehetőségének újbóli biztosításáért az előfizetői szerződésben feltüntetett – indokolt és méltányos – díjat számolhat fel. Amennyiben az előfizető a korlátozás okának megszüntetésekor az előfizetői szerződést felmondja, és erről a szolgáltató legkésőbb a korlátozás okának megszüntetéséig tudomást szerez, vagy a felek az előfizetői szerződés megszüntetésében közösen megegyeznek, a szolgáltató – az előfizető ellentétes nyilatkozatának hiányában – a korlátozást az előfizetői szerződés megszűnéséig fenntartja.
-
-(5)
-
-(6)
-
-(7)
-
-(8)
-
-(9) Az előfizetői szolgáltatás korlátozásának egyéb eseteit az Elnök rendeletben állapíthatja meg.
+(4) A szolgáltató köteles az előfizető kérelmére – kivéve a 118. § (4) bekezdésében foglalt esetet – újra biztosítani a szolgáltatást, ha a korlátozás indoka megszűnt. A szolgáltató a szolgáltatás igénybe vehetőségének újbóli biztosításáért az előfizetői szerződésben feltüntetett – indokolt és méltányos – díjat számolhat fel.
 
 ### Az előfizetői bejelentések, panaszok szolgáltató általi kezelése
 
@@ -2818,9 +1956,9 @@ adatainak egyeztetésére köteles.
 
 (2) A szolgáltató köteles az előfizetőt az ügyfélszolgálatán közzétéve, internetes honlapján, valamint az előfizetői szerződésben tájékoztatni arról, hogy
 
-- a) az előfizetői szolgáltatás nyújtásával kapcsolatos bejelentéseket, panaszokat milyen feltételek szerint teheti meg a szolgáltatónál, illetve a hatáskörrel rendelkező hatóságoknál,
+- a) az előfizetői szolgáltatás nyújtásával kapcsolatos bejelentéseket, panaszokat milyen feltételek szerint teheti meg a szolgáltatónál, az egyes fogyasztóvédelmi szerveknél, illetve az illetékes hatóságoknál,
 - b) az ügyfélszolgálathoz érkező egyes panaszokat mennyi időn belül fogja kivizsgálni, és a vizsgálat eredményéről mennyi időn belül és milyen módon értesíti az előfizetőt,
-- c) az előfizetői szolgáltatás nyújtásával kapcsolatos viták rendezése végett az előfizető mely hatósághoz vagy bírósághoz fordulhat.
+- c) az előfizetői szolgáltatás nyújtásával kapcsolatos viták rendezése végett az előfizető mely fogyasztóvédelmi szervekhez, szervezetekhez, hatósághoz vagy bírósághoz fordulhat.
 
 (3) Ha az előfizető a szolgáltató által felszámított díj összegét vitatja, a szolgáltató a bejelentést (díjreklamációt) haladéktalanul nyilvántartásba veszi, és a bejelentés megvizsgálásának befejezéséig nem jogosult az előfizetői szerződést a 134. § (7) bekezdésében foglaltak szerint felmondani.
 
@@ -2832,25 +1970,21 @@ adatainak egyeztetésére köteles.
 
 (7) Ha az előfizető a szolgáltató által követelt díj összegszerűségét vitatja, a szolgáltatónak kell bizonyítania, hogy a hálózata az illetéktelen hozzáféréstől védett és számlázási rendszere zárt, a díj számlázása, továbbá megállapítása helyes volt. Ellenkező bizonyításig nem terheli számlázási rendszere zártságának vonatkozásában külön bizonyítási kötelezettség a szolgáltatót, ha számlázási rendszere zártságát a miniszter által kijelölt tanúsító szervezet tanúsítja.
 
-(8) Az előfizetői panasz intézésére és az ügyfélszolgálatra irányadó eljárást egyebekben – az Fgytv. 17/A. §-ában, 17/B. § (1) és (3)–(3b) bekezdésében, valamint 17/C. §-ában foglaltakkal összhangban – a szolgáltató általános szerződési feltételei határozzák meg.
+(8) Az előfizetői panasz intézésére irányadó eljárást egyebekben a szolgáltató általános szerződési feltételei határozzák meg az Fgytv. 17/A. §-ában és 17/C. §-ában foglaltakkal összhangban.
 
 (9) Az előfizető kérésére a szolgáltatónak az adatkezelési szabályok figyelembevételével biztosítania kell, hogy az előfizető a kezelt adatok törléséig díjmentesen megismerhesse a fizetendő díj számításához szükséges forgalmazási és számlázási adatokra vonatkozó kimutatást.
 
-(10) A szolgáltató telefonos ügyfélszolgálatára érkező előfizetői jogviszonyt érintő megkereséseket, panaszokat, valamint a szolgáltató és az előfizető közötti telefonos kommunikációt külön jogszabályban meghatározottak szerint a szolgáltatónak rögzítenie kell, és visszakereshető módon legalább egy évig meg kell őriznie.
-
 ### Az előfizetői szolgáltatások teljesítésének minőségi követelményei
 
-139. § Az internet-hozzáférési szolgáltatásokat és a nyilvánosan elérhető személyközi hírközlési szolgáltatásokat nyújtó szolgáltató köteles a szolgáltatás minőségére vonatkozó információkat rendszeresen közzétenni az Elnök rendeletében meghatározott esetben, tartalommal, formában és módon, hogy az előfizetők – beleértve a fogyatékossággal élő személyeket is – átfogó, összehasonlítható, megbízható, felhasználóbarát, naprakész információhoz juthassanak.
+139. § A szolgáltató általános szerződési feltételeiben a 131. § (1) bekezdésének e) és f) pontjaiban és külön jogszabályban meghatározott módon köteles meghatározni az előfizetői szolgáltatásokra vonatkozó minőségi célértékeket. A szolgáltató köteles a minőségi célértékek teljesítésére vonatkozó információkat rendszeresen közzétenni a jogszabályban meghatározott tartalommal, formában és módon, hogy az előfizetők átfogó, áttekinthető, összehasonlítható, felhasználóbarát, naprakész információhoz juthassanak.
 
-140. § (1) A szolgáltató a nyilvános elektronikus hírközlő hálózaton elérhető ügyfélszolgálat elérését köteles a megfizetendő, legalacsonyabb díjú hívás díjánál nem magasabb díjazású hívhatósággal is biztosítani. E szabályt a belföldi hálózatokból indított hívásokra kell alkalmazni.
+140. § (1) A szolgáltató a telefonhálózaton elérhető ügyfélszolgálat elérését köteles a legalacsonyabb díjú hívás díjánál nem magasabb díjazású hívhatósággal is biztosítani.
 
 (2) Az előfizetői hozzáférést nyújtó szolgáltató a műszaki szolgáltatási feltételek megléte esetén saját hálózatából díjmentesen köteles biztosítani ügyfélszolgálatának elérhetőségét.
 
 (3) Az előfizető az előfizetői szolgáltatás meghibásodását a szolgáltató által biztosított hibabejelentő szolgálatnál jelentheti be, amelyet a szolgáltató az ügyfélszolgálatán keresztül vagy közvetlenül köteles elérhetővé tenni, az ügyfélszolgálat elérhetőségével azonos feltételek szerint.
 
-(4) Az ügyfélszolgálat elérhetőségét biztosító telefonszolgáltatáson keresztül gazdasági reklám vagy ajánlat csak abban az esetben továbbítható, ha ezt az előfizető kérte vagy ehhez a hívó fél előzetesen hozzájárul. Az ügyfélszolgálat elérhetősége e hozzájáruláshoz nem köthető.
-
-141. § (1) A szolgáltató köteles a hibabejelentéseket, a hibabehatároló eljárás eredményét és a hibaelhárítás alapján tett intézkedéseket visszakövethető módon, hangfelvétellel vagy egyéb elektronikus úton rögzíteni, és az adatkezelési szabályok betartásával azt legalább egy évig kell megőrizni.
+141. § (1) A szolgáltató köteles a hibabejelentéseket, a hibabehatároló eljárás eredményét és a hibaelhárítás alapján tett intézkedéseket visszakövethető módon, hangfelvétellel vagy egyéb elektronikus úton rögzíteni, és az adatkezelési szabályok betartásával azt legalább egy évig megőrizni.
 
 (2) A szolgáltatónak a hibabejelentést az előfizető részére vissza kell igazolnia, és azt a rögzítésen túl nyilvántartásba kell vennie. A nyilvántartásnak tartalmaznia kell:
 
@@ -2861,140 +1995,58 @@ adatainak egyeztetésére köteles.
 - e) a hiba okának behatárolására tett intézkedéseket és azok eredményét;
 - f) a hiba okát;
 - g) a hiba elhárításának módját és időpontját (év, hónap, nap, óra), eredményét (eredménytelenségét és annak okát);
-- h) az előfizető értesítésének módját és időpontját, ezen belül is különösen az előfizető bejelentésének visszaigazolásáról, valamint a g) pontban foglaltakról történő értesítések módját és időpontját.
-
-(3) A szolgáltató a saját érdekkörébe tartozó hiba elhárítását díjfizetéshez nem kötheti, vagy egyéb, az előfizető közreműködését igénylő feltételt nem támaszthat.
+- h) az előfizető értesítésének módját és időpontját.
 
 ### Tételes számlamelléklet
 
-142. § (1) Az előre fizetett díjú előfizetői szolgáltatások kivételével a szolgáltató az előfizető részére kiállított számlához csatolt mellékletben az előfizető által fizetendő díjakat külön jogszabályban meghatározott bontásban köteles feltüntetni. A hívó előfizető számára ingyenes hívások, beleértve a Hatóság által ,,nem azonosítható hívószámként'' megjelölt hívószámokra kezdeményezett hívásokat, nem jelölhetők meg a hívó előfizető számláján és a számlamellékletben.
+142. § (1) Az előre fizetett díjú előfizetői szolgáltatások kivételével a szolgáltató az előfizető részére kiállított számlához csatolt mellékletben az előfizető által fizetendő díjakat külön jogszabályban meghatározott bontásban köteles feltüntetni. A hívó előfizető számára ingyenes hívások, beleértve a hatóság által ,,nem azonosítható hívószámként'' megjelölt hívószámokra kezdeményezett hívásokat, nem jelölhetők meg a hívó előfizető számláján és a számlamellékletben.
 
-(2) A szolgáltató az internet-hozzáférési szolgáltatás, valamint a számfüggő személyközi hírközlési szolgáltatás előfizetője kérésére a kiállított számlához köteles az (1) bekezdésben meghatározottaknál részletesebb számlamellékletet csatolni (e § alkalmazásában a továbbiakban: hívásrészletező), amely magában foglalja a díj kiszámításához szükséges számlázási adatokat tartalmazó és – ha a szolgáltatás jellege ezt lehetővé teszi – a forgalmazási adatokat tartalmazó kimutatást, amely elektronikus számla esetén díjmentes. Ilyen számlamellékletet a szolgáltató az előre fizetett díjú előfizetői szolgáltatást igénybe vevő előfizető részére is köteles kiállítani, amennyiben az előfizető azt utólagosan kéri.
+(2) A szolgáltató az előfizető kérésére a kiállított számlához köteles az (1) bekezdésben meghatározottaknál részletesebb számlamellékletet csatolni (hívásrészletező), amely magában foglalja a díj kiszámításához szükséges forgalmazási és számlázási adatokat tartalmazó kimutatást.
 
-(2a) A hívásrészletezőben vagy a (2) bekezdés szerinti kimutatásban fel kell tüntetni az emelt díjas telefonszámok számhasználójának, valamint az általa nyújtott szolgáltatásnak a megnevezését, a kiszámlázott szolgáltatások időtartamát vagy adatforgalmát, kivéve, ha az előfizető ezen információk feltüntetését nem kérte.
+(3) Az (1) vagy (2) bekezdésben meghatározott számlamelléklet – egyéni előfizető részére elektronikus vagy nyomtatott, más előfizető részére elektronikus formában történő – kiadását a szolgáltató külön díj fizetéséhez nem kötheti.
 
-(3) Számla kiállítására csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a díjak hibátlan kiszámítását végző rendszerelemek zártságát, és megakadályozza a számlázási rendszerhez történő jogosulatlan hozzáférést, valamint a számlázási információk észrevétlen módosítását. A számlázási rendszernek továbbá meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a szolgáltatónak adminisztratív, fizikai és logikai intézkedésekkel biztosítani kell az általános információbiztonsági zártsági követelmények teljesülését.
-
-(4) A (3) bekezdésben meghatározott követelményeknek való megfelelést a tanúsító szervezet által történő, a számlázási informatikai rendszerre vonatkozó tanúsítással kell igazolni. A számlázási rendszerre vonatkozó követelmények teljesülése kizárólag informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek elfogadott hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására akkreditált tanúsító szervezet által kiállított tanúsítvánnyal igazolható. A tanúsítvány a kiadását követő második naptári év utolsó napjáig érvényes.
-
-(5)
-
-(6) Az elektronikus hírközlési szolgáltatás díjának elszámolása alapjául szolgáló számlázási rendszer információbiztonsági megfeleltetéséről a szolgáltató Magyarország kiberbiztonságáról szóló törvénynek megfelelően és módon köteles gondoskodni.
-
-(7) A logikai védelmi intézkedések teljesítésének vizsgálata során a számlázási rendszer vizsgálatának a számlázó szoftveren túl a teljes, a számlázásban részt vevő rendszer technológiai vizsgálata szükséges, beleértve a számlázási folyamathoz szükséges összes releváns bemeneti adatot (pl. mérési, fogyasztási adatok) kezelő rendszerelemet. A vizsgálatnak ki kell terjednie a rendszerben alkalmazott számlázó szoftver termék konkrét beállításainak, telepítésének és üzemeltetésének ellenőrzésére is.
-
-(8) Amennyiben a számlázási rendszert üzemeltető szolgáltató komplex, sokfunkciós elektronikus információs rendszerének a számlázási rendszer integráns része, a számlák kiállításához közvetlenül nem tartozó rendszerelemek nem esnek a tanúsítás hatáskörébe.
-
-(9) A logikai védelmi intézkedések teljesítésének vizsgálata során a tanúsító szervezet figyelembe veheti a számlázási rendszer részét képező számlázó szoftver vagy komponenseinek meglévő terméktanúsítványait is. A logikai védelmi intézkedések számlázó szoftverre vonatkozó követelményeinek vizsgálata során a nyilvános, nemzetközi sérülékenységi adatbázissal nem rendelkező egyedi számlázó szoftverek esetén a vizsgálatnak ki kell terjednie a számlázó szoftver forráskódszintű elemzésére is.
-
-(10) A tanúsító szervezetnek rendelkeznie kell:
-
-- a) informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozó akkreditált státuszt igazoló okirattal,
-- b) informatikai biztonsági funkciókat megvalósító szoftver termékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozóan – a tanúsítvány kiállítását megelőző 5 évben – legalább 3 évig fennállt akkreditált státusszal.
-- c) informatikai biztonsági funkciókat megvalósító szoftvertermékek és -rendszerek biztonságának hazai vagy nemzetközi informatikai biztonsági módszertanon alapuló tanúsítására vonatkozó akkreditáció alapján végzett legalább 3 referenciával, és
-- d) legalább két olyan felsőfokú szakemberrel, akinek szakirányú képzettsége és két év igazolt tanúsítási gyakorlata van.
-
-(11) A tanúsítandó szervezetek bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie. A tanúsító szervezetnek rendelkeznie kell a minősített adat védelméről szóló 2009. évi CLV. törvény 16. §-a alapján kiállított telephely-biztonsági tanúsítvánnyal.
-
-(12) A (3)–(11) bekezdésnek nem megfelelő számlázási rendszerből
-
-- a) a havi 200 000 darabot meghaladó mennyiségű számlát kibocsátó szolgáltatók esetében 2015. február 28. után,
-- b) a havi 200 000 darabot meg nem haladó mennyiségű számlát kibocsátó szolgáltatók esetében 2015. június 30. után
-
-kiállított számla érvénytelen.
-
-### Felelősség az előfizetői szerződések teljesítéséért, az előfizetői szerződéssel kapcsolatos hatósági hatáskör időbeli kerete
+### Felelősség az előfizetői szerződésekteljesítéséért
 
 143. § (1) Az előfizetői szerződések késedelmes vagy hibás teljesítése esetében az elektronikus hírközlési szolgáltató a felhasználó vagyonában okozott kárt köteles megtéríteni, az elmaradt haszon kivételével.
 
-(2) Az előfizetői szerződésekből eredő polgári jogi igények egy év alatt évülnek el, amelyet az (1) bekezdés szerinti esetekben a késedelem, illetve a hibás teljesítés bekövetkezésétől kell számítani.
+(2) Az előfizetői szerződésekből eredő igények egy év alatt évülnek el, amelyet az (1) bekezdés szerinti esetekben a késedelem, illetve a hibás teljesítés bekövetkezésétől kell számítani.
 
-(3) Az előfizetői szerződés megszegése esetén az elektronikus hírközlési szolgáltató az Elnök által rendeletben meghatározott esetekben, mértékben és módon kötbért köteles fizetni.
+(3) Az előfizetői szerződés megszegése esetén az elektronikus hírközlési szolgáltató a külön jogszabályban meghatározott mértékű kötbért köteles fizetni.
 
-(4) Az előfizetői szerződéssel kapcsolatos hatósági ügy tárgyában (kérelemmel, bejelentéssel) a Hatóság eljárása a hatósági eljárás kezdeményezésére okot adó körülmény bekövetkezésétől számított hat hónapon belül kezdeményezhető.
+### Az előfizetők tájékoztatása
 
-(5) Amennyiben a kérelmező a (4) bekezdésben foglalt hatósági eljárás kezdeményezésére okot adó körülmény bekövetkezéséről csak később szerzett tudomást, vagy a kérelem, bejelentés előterjesztésében akadályoztatva volt, úgy a (4) bekezdésben foglalt határidő a tudomásszerzéstől vagy az akadály megszűnésével veszi kezdetét. Az előfizetői szerződéssel kapcsolatos hatósági ügy tekintetében egy éven túl hatósági eljárás nem kezdeményezhető. E határidő jogvesztő.
+144. § (1) Ha jogszabály valamely általános szerződési feltételnek vagy más tájékoztatásnak (e bekezdésben a továbbiakban: tájékoztatás) a szolgáltató ügyfélszolgálatán történő közzétételét rendeli el, ennek a szolgáltató a következők teljesítésével tesz eleget:
 
-### Az előfizetők tájékoztatása és értesítése
+- a) a tájékoztatást az ügyfélszolgálati helyiségben, ennek hiányában internetes honlapján közzéteszi, továbbá
+- b) az abban foglaltakról a telefon szolgáltatás igénybevételével elérhető ügyfélszolgálat szóbeli tájékoztatást ad.
 
-144. § (1) Ha jogszabály vagy a Hatóság valamely tájékoztatásnak, általános szerződési feltételnek (e bekezdésben a továbbiakban együtt: tájékoztatás) a szolgáltató ügyfélszolgálatán történő közzétételét rendeli el, ennek a szolgáltató a következők teljesítésével tesz eleget:
+(2) Ha jogszabály az előfizető értesítését írja elő, a szolgáltató az értesítési kötelezettségének a következő módon tehet eleget:
 
-- a) a tájékoztatást az ügyfélszolgálati helyiségben, ennek hiányában internetes honlapján közzéteszi, és
-- b) az abban foglaltakról a hangszolgáltatás igénybevételével elérhető ügyfélszolgálat szóbeli tájékoztatást ad.
+- a) az előfizető közvetlen, írásbeli értesítésével (értesítés levélben);
+- b) elektronikus levélben;
+- c) egyéb elektronikus hírközlés útján; vagy
+- d) az értesítendő előfizetők körétől függően országos vagy megyei napilapban legalább két alkalommal feladott közlemény útján, amellyel egyidejűleg a szolgáltató köteles az értesítést az ügyfélszolgálatán is közzétenni.
 
-(2) Az internet-hozzáférési, illetve a nyilvánosan elérhető, számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltató a Hatóság által meghatározott tartalommal, térítésmentesen közérdekű tájékoztatást köteles eljuttatni az előfizetői és a végfelhasználói számára. A közérdekű tájékoztatásnak ki kell terjednie legalább az alábbiakra:
+(3) A (2) bekezdés b)–c) pontjában meghatározott értesítési módokat a szolgáltató akkor alkalmazhatja, ha maradandó módon rögzíteni tudja, hogy
 
-- a) a szerzői vagy adatvédelmi jogokkal, törvénybe ütköző használattal és az ártalmas tartalom terjesztésével kapcsolatos jogsértésekre és azok jogkövetkezményeire vonatkozó információkra, és
-- b) az elektronikus hírközlési szolgáltatások használata során a személyes biztonságot, a magánéletet és a személyes adatokat fenyegető kockázatokkal szembeni védelem céljából rendelkezésére álló eszközökre.
+- a) a szóbeli értesítést az előfizető tudomásul vette, vagy
+- b) az elektronikus aláírásról szóló 2001. évi XXXV. törvény 2. §-ának 12. pontja szerinti elektronikus dokumentumban foglalt értesítést az elektronikus értesítés elfogadásáról előzetesen nyilatkozó előfizetőnek megküldték.
 
-(3) Az internet-hozzáférés szolgáltatást nyújtó szolgáltató köteles a kiskorúak védelmét lehetővé tevő, könnyen telepíthető és használható szoftverek vagy azokkal egyező célra szolgáló más szolgáltatások elérhetőségére és használatára vonatkozó közérdekű tájékoztatót összeállítani, a tájékoztatót internetes honlapján közzétenni, a közzétételről és annak elérhetőségéről negyedévente – figyelemmel a (4)–(5) bekezdésre és a 149/A. §-ra is – az előfizetőt értesíteni.
+(4) A (2) bekezdés d) pontjában meghatározott értesítési módot a szolgáltató kizárólag e törvény 136. § (1) bekezdése és a 132. § (4) bekezdése szerinti értesítések esetén alkalmazhatja.
 
-(4) Ha elektronikus hírközlésre vonatkozó szabály az előfizető értesítésének módját nem határozza meg, a szolgáltató értesítési kötelezettségének választása szerint – az (5) és (6) bekezdésben foglaltakra figyelemmel – a következő módon tehet eleget:
+(5) A hatóság annak érdekében, hogy az előfizetők, illetve felhasználók megfelelő információkkal rendelkezve a szolgáltatások minőségéről, az árakról és díjszabásokról, összehasonlíthassák az egyes szolgáltatásokat és a választási szabadságnak megfelelően ésszerű döntéseket hozzanak, előírhatja, hogy a hírközlési szolgáltatók az általuk nyújtott szolgáltatások minőségéről, elérhetőségéről, valamint áráról adatokat szolgáltassanak a hatóságnak, illetve ilyen adatokat tegyenek közzé.
 
-- a) tartós adathordozó útján, azzal, hogy a tartós adathordozó elérhetővé tételéről az előfizetőt igazolható módon külön értesíteni kell, kivéve, ha az alkalmazott tartós adathordozó jellege azt nem indokolja;
-- b) az előfizető közvetlen értesítésével, személyesen, postai úton, saját kézbesítés útján vagy az elektronikus hírközlési szolgáltatás jellegéhez igazodó módon;
-- c) egyéb elektronikus hírközlés útján, az internetes honlapon történő közzétételre utalással, vagy
-- d) az értesítendő előfizetők körétől függően országos vagy vármegyei napilapban és honlappal rendelkező média szerkesztőség, internetes újság vagy hírportál útján legalább két alkalommal feladott közlemény útján, amellyel egyidejűleg a szolgáltató köteles az értesítést az ügyfélszolgálatán is hozzáférhetővé tenni.
-
-(5) A (4) bekezdés a)–c) pontjában meghatározott értesítési módokat a szolgáltató akkor alkalmazhatja, ha maradandó módon rögzíteni tudja, hogy
-
-- a) a szóbeli értesítést az előfizető tudomásul vette,
-- b) az elektronikus dokumentumban vagy az elektronikus levélben foglalt értesítést az elektronikus értesítés elfogadásáról előzetesen nyilatkozó előfizetőnek igazolható módon megküldték, vagy
-- c) a postai levélben foglalt vagy saját kézbesítés útján továbbított értesítést az előfizetőnek igazolható módon megküldték.
-
-(6) A (4) bekezdés d) pontjában meghatározott értesítési módot a szolgáltató kizárólag a 136. § (1) bekezdése szerinti értesítések esetén alkalmazhatja.
-
-(7) Az előfizető jogai gyakorlására nyitva álló határidőket a legkésőbbi értesítéstől kell számítani.
-
-(8) Az internet-hozzáférési szolgáltatást vagy a nyilvánosan elérhető személyközi hírközlési szolgáltatást nyújtó szolgáltató köteles az ajánlatok átláthatósága, összehasonlíthatósága érdekében az általa nyújtott szolgáltatások jellemzőiről az Elnök által rendeletben meghatározott információkat, az ott meghatározott esetben, meghatározott gyakorisággal frissítve, világos, géppel olvasható, összehasonlításra alkalmas módon közzétenni, a fogyatékossággal élő végfelhasználók számára akadálymentes formátumban is.
-
-(9) A végfelhasználó jogosult térítésmentesen hozzáférni legalább egy olyan független összehasonlító eszközhöz, amely segítségével összevetheti és értékelheti az internet-hozzáférési és a nyilvánosan elérhető, számfüggő személyközi hírközlési szolgáltatásokat, továbbá a számfüggetlen személyközi hírközlési szolgáltatásokat. A szolgáltatóktól független vállalkozás által működtetett összehasonlító eszközt a Hatóság kérelemre megfelelést igazoló tanúsítvánnyal látja el.
-
-(10) A (9) bekezdés szerinti összehasonlító eszköz működtetése érdekében a független vállalkozás jogosult a szolgáltató által a (8) bekezdés szerint közzétett információkat díjmentesen felhasználni.
-
-(11) A szolgáltató az elektronikus hírközlésre vonatkozó szabályban foglalt, előfizetői szerződéssel kapcsolatos értesítési, tájékoztatási kötelezettségének egyértelműen és pontosan köteles eleget tenni.
-
-(12) A Hatóság határozata alapján a szolgáltató köteles a Hatóságnak a (8) bekezdés és a 139. § szerinti információkról adatokat szolgáltatni az információk Hatóság általi közzétételének céljából.
-
-144/A. § (1) A Hivatal 144. § (12) bekezdése szerinti határozata ellen fellebbezésnek helye nincs. A határozat elleni keresetlevelet a hatósági határozat közlésétől számított tizenöt napon belül kell benyújtani a Hivatalhoz. A bíróság az ügyben tizenöt napon belül határoz. A keresetlevél benyújtásának halasztó hatálya van.
-
-(2) Az Elnök 144. § (12) bekezdése szerinti határozatával szembeni keresetlevelet a hatósági határozat közlésétől számított tizenöt napon belül kell benyújtani az Elnökhöz. A bíróság az ügyben tizenöt napon belül határoz. A keresetlevél benyújtásának halasztó hatálya van.
-
-(3) A 144. § (12) bekezdésében foglalt határozat ellen kizárólag az az ügyfél élhet jogorvoslati kérelemmel, aki a hatósági eljárásban részt vett.
-
-(4) Amennyiben az adatszolgáltatásra kötelezett a 144. § (12) bekezdésében foglalt, a Hivatal vagy az Elnök határozatában megjelölt és a megadni kért adatokra vonatkozóan megfelelően részletezett adatszolgáltatási kötelezettséget nem vagy nem megfelelően teljesíti, a Hatóság bírságot szabhat ki, amelynek mértéke – a jogsértő előző évben elért 49. § (11) bekezdése szerinti nettó árbevételét és a jogsértés ismételtségét figyelembe véve – a jogsértő nettó árbevételének legfeljebb 0,05%-a, de legalább százezer forint. Árbevételi adatok vagy árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, legfeljebb százmillió forint. Ezen túlmenően az adatszolgáltatás nem vagy nem megfelelő teljesítése esetén a Hatóság ötvenezer forinttól hárommillió forintig terjedő bírsággal sújthatja a jogsértő szolgáltató vezető tisztségviselőjét is.
-
-(5)
-
-(6) A bírság összegének meghatározása során a Hatóság köteles mérlegelni és egymáshoz viszonyítani az ügy összes körülményét, a jogsértő árbevételét, az adatszolgáltatás nem teljesítésével okozott hátrányok súlyát.
-
-(7) Az adatszolgáltatásra megfelelő teljesítési határidőt kell meghatározni.
-
-(8) A 144. § (12) bekezdése szerinti adatszolgáltatás során az adatszolgáltató felelős az adat tartalmának megfelelőségéért, időszerűségéért, hitelességéért, pontosságáért, ellenőrizhetőségéért és helyességéért.
-
-(9) A Hatóság a hírközlési szolgáltatók által benyújtott információk alapján összehasonlító adatokat tesz közzé, hogy lehetővé tegye a felhasználók és az előfizetők számára, interaktív útmutatók vagy hasonló műszaki megoldások, alkalmazások segítségével a független költségértékelést.
+(6) A hatóság a hírközlési szolgáltatók által benyújtott információk alapján összehasonlító adatokat tesz közzé.
 
 ### Segélyhívó szám
 
-145. § (1) A nyilvánosan elérhető számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltató köteles ingyenesen – nyilvános telefonállomás esetén fizetőeszköz használata nélkül – biztosítani minden végfelhasználója számára a jogszabályban meghatározott hívószámokon keresztül, ideértve a „112” egységes európai segélyhívószámot is, a segélyhívó szolgálatok, valamint segélyszolgálati állomások elérését.
+145. § (1) A telefon szolgáltató köteles ingyenesen – nyilvános telefonállomás esetén fizetőeszköz használata nélkül – biztosítani, hogy az előfizetője vagy a szolgáltatásának igénybevevője elérhesse a segélyhívó szolgálatokat, beleértve a ,,112'' egységes európai segélyhívószám elérését.
 
-(2) A segélyhívások megválaszolása céljából a nyilvánosan elérhető számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltató a hívó fél azonosítása kijelzésének letiltása, továbbá a helymeghatározási adatok kezelésére vonatkozó hozzájárulás hiánya vagy visszavonása esetén is köteles díjmentesen a segélyhívó szolgálatok és a segélyszolgálati állomások rendelkezésére bocsátani – jogszabályban meghatározott módon – a hívó fél azonosítására, illetve a helymeghatározásra vonatkozó adatokat.
-
-### Riasztási és veszélyhelyzeti SMS-tájékoztatás
-
-145/A. § (1) A mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltató a lakosság riasztásának és veszélyhelyzeti tájékoztatásának érdekében biztosítja ezen információk célba juttatását SMS útján.
-
-(2) Az (1) bekezdés szerinti információk célba juttatásának költsége a szolgáltatót terheli.
+(2) A segélyhívások megválaszolása céljából a telefonszolgáltató a hívó fél azonosítása kijelzésének letiltására, továbbá a helymeghatározási adatok kezelésére vonatkozó hozzájárulásának hiánya vagy visszavonása esetén is köteles a segélyhívó szolgálatok rendelkezésére bocsátani – külön jogszabályban meghatározott módon – a hívó fél azonosítására, illetve a helymeghatározásra vonatkozó adatokat.
 
 ### Tudakozó szolgáltatás
 
-146. § (1) Minden, az előfizetőkhöz telefonszámokat rendelő szolgáltató köteles teljesíteni minden olyan ésszerű kérést, amely a nyilvánosan elérhető tudakozószolgálatok és telefonkönyvek szolgáltatása céljából a megfelelő információk egyeztetett formában, tisztességes, tárgyilagos, költségalapú és megkülönböztetéstől mentes rendelkezésre bocsátására irányul.
-
-(2)
-
-(3) A telefonszolgáltató köteles biztosítani, hogy az előfizető igénybe vehessen bármely országos tudakozó szolgáltatást.
-
-(4) A tudakozószolgálatokkal és telefonkönyvekkel, valamint a szolgáltatók ezzel kapcsolatos kötelezettségeire vonatkozó részletes szabályokat az Elnök rendeletben állapítja meg.
+146. § A telefon szolgáltató köteles biztosítani, hogy az előfizető igénybe vehessen bármely országos tudakozó szolgáltatást, továbbá köteles megadni az ilyen tudakozó szolgáltatóknak – az előfizető hozzájárulásától függően – az előfizető nevét, lakcímének a szolgáltatóval nyilvánosságra hozatal céljából közölt részét és kapcsolási számát. A 117. § c) pontja szerinti tudakozó szolgáltató részére a fenti információk átadása térítésmentes. Az átadott információk csak az egyetemes tudakozó szolgáltatáshoz használhatók fel.
 
 147. § Tudakozó szolgáltatás nyújtása lehetséges
 
@@ -3007,169 +2059,98 @@ kiállított számla érvénytelen.
 
 ### Nemföldrajzi számok elérhetősége
 
-148. § (1) A telefonszolgáltató köteles lehetővé tenni, hogy az Európai Unió bármely tagállamának végfelhasználói elérhessék a szolgáltatási területen használt nem földrajzi számokat, valamint elérhessék és használhassák a szolgáltatásokat, amennyiben ez műszakilag lehetséges és gazdaságilag nem ésszerűtlen.
+148. § (1) A telefonszolgáltató köteles lehetővé tenni, hogy az Európai Gazdasági Térség bármely tagállamának végfelhasználói elérhessék a szolgáltatási területen használt nemföldrajzi számokat, amennyiben ez műszakilag és gazdaságilag megvalósítható.
 
 (2) A nemföldrajzi számmal rendelkező előfizető meghatározott földrajzi területekről hívást kezdeményező felhasználók általi elérhetőségét kereskedelmi okokból korlátozhatja.
 
-### Az előfizetők érdekét szolgáló további eszközök és szolgáltatások biztosítása
+### Hangfrekvenciás tárcsázás és hívószám azonosítás
 
-149. § (1) Az egyetemes elektronikus hírközlési szolgáltatásra vonatkozó előírások sérelme nélkül a nyilvánosan elérhető, számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltató köteles lehetővé tenni a végfelhasználó számára a hálózat egészében, ha ez műszakilag lehetséges
+149. § Amennyiben ez műszakilag lehetséges és gazdaságilag nem ésszerűtlen, a telefon szolgáltató köteles lehetővé tenni előfizetője számára a hangfrekvenciás tárcsázás használatát a hálózat egészében a végponttól végpontig terjedő jeltovábbításban, illetve a hívószám azonosítását biztosító szolgáltatást.
 
-- a) előfizetői hozzáférési ponttól – előfizetői hozzáférési pontig történő jelzésátvitel esetében hangfrekvenciás (DTMF) jelzőhang használatát,
-- b) a hívószám azonosítását biztosító szolgáltatást díjmentesen,
-- c) a díjmentes szelektív hívásletiltást kimenő hívásokra, kimenő és bejövő emelt díjas „SMS” és „MMS” szolgáltatásokra és más hasonló alkalmazásokra, valamint az egyes emelt díjas szolgáltatások előzetes tiltásának beállítását és a tiltás előfizetők kérésére történő díjmentes feloldását az Elnök által rendeletben meghatározottak szerint.
+### Számhordozhatóság biztosítása
 
-(2) Az internet-hozzáférési szolgáltatást vagy nyilvánosan elérhető, számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltató köteles a fogyasztók számára előrefizetéses rendszert, a csatlakozási, illetve bekapcsolási díjak részletekben történő megfizetését, az Elnök rendeletében meghatározott esetekben és módon pedig a végfelhasználók részére alternatív, kedvezményes díjjakkal kapcsolatos tanácsadást biztosítani, ha ilyen díjakat is alkalmaz, továbbá köteles legalább évente tájékoztatni a végfelhasználókat a legkedvezőbb díjszabásról.
+150. § (1) Az előfizetői hozzáférést nyújtó szolgáltató köteles lehetővé tenni előfizetője számára, hogy
 
-(3) Az elektronikus hírközlési szolgáltató a számlák meg nem fizetése esetén arányos, az egyenlő elbánás követelményének megfelelő, előzetesen közzétett intézkedéseket tehet. Ezeknek az intézkedéseknek biztosítaniuk kell, hogy az előfizető előzetesen értesítést kapjon a szolgáltatás nemfizetéséből eredő jogkövetkezményekről.
+- a) helyhez kötött telefon szolgáltatás esetén, ha az előfizető a felhasználás földrajzi helyének megváltoztatása nélkül előfizetői hozzáférést nyújtó szolgáltatót változtat, megtarthassa földrajzi előfizetői számát,
+- b) nemföldrajzi számmal elérhető szolgáltatás esetén, ha az előfizető szolgáltatót változtat, megtarthassa nemföldrajzi előfizetői számát,
+- c) mobil rádiótelefon szolgáltatás esetén, ha az előfizető mobil rádiótelefon szolgáltatót változtat, megtarthassa mobil előfizetői számát
 
-(4) Az internet-hozzáférési szolgáltatást nyújtó szolgáltató vagy a nyilvánosan elérhető, személyközi hírközlési szolgáltatást nyújtó szolgáltató köteles lehetővé tenni az előfizető számára, hogy letiltsa a harmadik fél közvetített szolgáltatásainak elektronikus hírközlési szolgáltatáson keresztül történő igénybevételét és a jövőre nézve azt, hogy a közvetített szolgáltatások a szolgáltató által kiállított számlán elszámolásra kerüljenek.
+(a továbbiakban: hordozott szám).
 
-### A kiskorúak védelme
+(2) Az előfizetői hozzáférést nyújtó telefon szolgáltató (átadó szolgáltató), amelynek előfizetője szolgáltató változtatás keretében az előfizetői számát egy másik telefon szolgáltatóhoz átviszi (átvevő szolgáltató) köteles a számhordozhatóságról az átvevő szolgáltatóval megállapodni, amennyiben az átvevő az összekapcsolási szerződésekre vonatkozó jogszabályoknak megfelelő ajánlatot tesz.
 
-149/A. § (1) Az internet-hozzáférés szolgáltatást nyújtó szolgáltató köteles valamely, a kiskorúak védelmét lehetővé tevő, magyar nyelvű, könnyen telepíthető és használható szoftver (a továbbiakban: szűrőszoftver) internetes honlapjáról való ingyenes letölthetőségét és ezt követően annak ingyenes használhatóságát biztosítani.
+(3) A hordozott számokra irányuló hívás díját a ténylegesen felépülő hívás, illetve szolgáltatás díjának megfelelően kell megállapítani. A hívó fél számára biztosítani kell annak a lehetőségét, hogy a hívás megkezdése előtt tájékozódni tudjon arról, hogy a hívás melyik szolgáltató hálózatában végződik, és annak tarifájáról.
 
-(2) A Gyermekvédelmi Internet-kerekasztal (a továbbiakban: Kerekasztal) az internethozzáférés-szolgáltatást nyújtó szolgáltatók számára kidolgozott és közzétett ajánlásokkal segíti elő az (1) bekezdés szerinti követelményeknek megfelelő szűrőszoftverek fejlesztését vagy kiválasztását. A Kerekasztal ösztönzi a szolgáltatókat az összehangolt szűrőszoftver-politika kialakítására és elősegíti e tevékenységük körében az önszabályozó jellegű együttműködésüket.
+(4) A hívás- és jelzésirányítás költségeit, valamint a hívás- és jelzéstovábbítás járulékos többletköltségeit a hívás-, illetve jelzésirányításáért felelős, külön jogszabályban meghatározott szolgáltató viseli.
 
-(3) A Hatóság pályázati úton anyagi támogatást nyújthat az internet-hozzáférés szolgáltatást nyújtó szolgáltatónak az (1) bekezdésben meghatározott kötelezettség teljesítéséhez, ha
+(5) A szolgáltató által a hordozott számok tekintetében fizetendő azonosító használati díj megegyezik a nem hordozott számok használati díjával.
 
-- a) a szűrőszoftver megfelel a Kerekasztal ajánlásaiban foglalt követelményeknek,
-- b) a szűrőszoftver a lakossági felhasználók, egyéni előfizetők általi használat mellett alkalmas azon nyilvános könyvtárak és köznevelési intézmények általi használatra is, amelyeknek törvényben előírt kötelezettsége az általuk nyújtott közszolgáltatásokat igénybe vevő kiskorú gyermekek internet-használatához szűrőszoftvert biztosítani, és
-- c) az internet-hozzáférés szolgáltatást nyújtó szolgáltató vállalja, hogy a b) pontban megjelölt intézmények részére közvetlenül vagy más szolgáltató közreműködésével a szűrőszoftverhez való hozzáférést ingyenesen biztosítja.
+(6) A számhordozás igénybevételéért az átadó szolgáltató hordozásonkénti egyszeri díjat határozhat meg, amelyet az átvevő szolgáltató fizet meg az átadó szolgáltató részére. A fizetendő díj nem haladhatja meg a számhordozás teljesítésével összefüggésben felmerült indokolt költségeket. Ezen egyszeri díjat vagy annak egy részét az átvevő szolgáltató a számhordozást igénybevevő előfizetőre átterhelheti.
 
-(4) A (3) bekezdés szerinti pályázati eljárás lefolytatása az Elnök hatósági hatáskörébe tartozik. Az eljárásra az e §-ban nem szabályozott kérdésekben e törvény és az Ákr. szabályait kell megfelelően alkalmazni. A pályázati eljárás részletes szabályait az Elnök rendeletben határozza meg.
+(7) Az átvevő szolgáltató köteles az előfizető hozzájárulásának megfelelően a hordozott előfizetői számnak az előfizetői nyilvántartásban, valamint a tudakozóban való közzétételéről gondoskodni.
 
-(5) A (3) bekezdés szerinti támogatás tartalmáról, részletes feltételeiről a (4) bekezdésben említett NMHH rendeletben, továbbá a kiírási dokumentációban meghatározott módon és eljárásrendben hatósági szerződés is köthető.
-
-(6) Ha a kiírási dokumentáció szerint az Elnök a pályázati eljárás nyertesével hatósági szerződést köt, az Elnök a pályázati eljárást érdemben lezáró határozatában a pályázat nyerteséről dönt, és minden, a pályázati eljárás tárgyával, tartalmával, a támogatás feltételeivel, valamint a támogatással összefüggő jogokkal és kötelezettségekkel kapcsolatos egyéb döntés, rendelkezés, feltétel a hatósági szerződés részét képezi. A hatósági szerződés kötelező tartalmi elemeit a (4) bekezdésben említett NMHH rendelet és a kiírási dokumentáció tartalmazza.
-
-(7) A pályázati eljárást érdemben lezáró, a pályázati eljárás nyertesét megállapító határozatnak a nyertessel történő közlését követő öt napon belül az Elnök – a nyertessel való hatósági szerződéskötés érdekében – hivatalból hatósági eljárást indít. E hatósági eljárás ügyintézési határideje negyvenöt nap, amely nem hosszabbítható meg.
-
-(8) Ha a (7) bekezdés szerinti hatósági eljárásban a nyertes nem vesz részt vagy a hatósági szerződés megkötését akadályozza – ideértve azt is, ha a nyertes a pályázatát visszavonja –, a (7) bekezdésben meghatározott ügyintézési határidőn túl a hatósági szerződés nem köthető meg, ez esetben a Hatóság az eljárás megindításától számított negyvenötödik napon az eljárást megszünteti. Az eljárásban igazolási kérelemnek nincs helye.
-
-(9) A hatósági szerződés a pályázati eljárást érdemben lezáró, a pályázati eljárás nyertesét megállapító határozat véglegessé válásáig nem köthető meg. A határozat véglegessé válásának időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás (7) és (8) bekezdésben meghatározott ügyintézési határidejébe nem számít bele.
-
-(10) A hatósági szerződésben meg kell határozni a szerződésszegés jogkövetkezményeit.
-
-(11) Ha a pályázati eljárást érdemben lezáró, a pályázati eljárás nyertesét megállapító határozatot közigazgatási perben megtámadták, a hatósági szerződés a bíróság jogerős döntéséig nem köthető meg. A közigazgatási per időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás határidejébe nem számít bele.
-
-149/B. § (1) A Hatóság a biztonságos internethasználat, mint közérdeken alapuló cél megvalósulásának elősegítése, így különösen a kiskorúak védelme, a tájékozottság növelése, az erőszakos, uszító vagy más módon visszaélést megvalósító internetes tartalmak visszaszorítása érdekében, nem hatósági hatáskörben, közérdekű feladatellátása keretében internetes tájékoztató és segítségnyújtó szolgálatot (a továbbiakban: internet hotline) tart fenn.
-
-(2) Az internet hotline működésére vonatkozó – e §-ban nem szabályozott – rendelkezéseket a Hatóság Szervezeti és Működési Szabályzata tartalmazza (a továbbiakban: internet hotline szabályzat).
-
-(3) A Hatóság csak olyan internetes visszaélést vonhat az internet hotline szabályzat hatálya alá és olyan internetes visszaélést jogosult vizsgálni, amely nem tartozik más hatóság, bíróság vagy más állami szerv kizárólagos hatáskörébe.
-
-(4) Az internet hotline keretében a Hatóság:
-
-- a) a biztonságos internethasználat előmozdítása céljából internetes tájékoztató, segítségnyújtó és bejelentő felületet (a továbbiakban: bejelentő felület) üzemeltet és az internet hotline szabályzatban meghatározott egyes internetes visszaélések visszaszorítása érdekében a bejelentő felületre érkező bejelentéseket megvizsgálja;
-- b) figyelemmel kíséri és elemzi – szükséges esetben a gyermekvédelem és a bűnmegelőzés területén hatáskörrel rendelkező szervezetek bevonásával – a kiskorúak biztonságos internethasználatát veszélyeztető internetes jelenségeket, ezekkel kapcsolatban tájékoztató tevékenységet végez;
-- c) együttműködik az internetes visszaélések ellen fellépő hazai és nemzetközi szervezetekkel.
-
-(5) Az internet hotline szabályzatban meghatározott internetes visszaélés észlelése esetén a bejelentő felületen bárki bejelentéssel élhet.
-
-(6) Az (5) bekezdés szerinti bejelentés alapján a Hatóság jogi segítségnyújtásként, a közérdek védelme érdekében jár el, ha a körülmények alapján felmerül az internet hotline szabályzat szerinti internetes visszaélés valószínűsége. A bejelentés alapján indított vizsgálat nem hatósági eljárás, a Hatóság az eljárása során hatósági hatáskört nem gyakorolhat, hatósági eszközöket nem alkalmazhat. A bejelentés nem hatósági ügy.
-
-(7) A Hatóság az (5) bekezdés szerinti bejelentést megvizsgálja, és ha az nyilvánvalóan alaptalan, vagy a bejelentésben foglalt ügy nem tartozik az internet hotline szabályzat hatálya alá, a bejelentést további vizsgálat nélkül lezárja és erről a bejelentőt értesíti. A Hatóság az értesítésben tájékoztatja a bejelentőt jogszabályban meghatározott jogairól és kötelezettségeiről, valamint a számára nyitva álló eljárásokról és jogorvoslatokról.
-
-(8) Ha az (5) bekezdés szerinti bejelentés vizsgálata során a Hatóság megállapítja az internetes visszaélés valószínűségét, a Hatóság a rendelkezésére álló információk átadásával megkeresi az érintett internetes tartalom tartalom-, illetve tárhelyszolgáltatóját az internetes tartalom kivizsgálása érdekében, valamint, hogy a vizsgálata eredménye függvényében tegye meg a szükséges intézkedéseket. A megtett intézkedésekről a megkeresett szolgáltató köteles tájékoztatni a Hatóságot.
-
-(9) Ha az (5) bekezdés szerinti bejelentés alapján felmerül valamely nem magánindítványra üldözendő bűncselekmény lehetősége, a Hatóság az észlelést követő egy munkanapon belül továbbítja a bejelentést a nyomozó hatóságnak. Ha a nyomozó hatóság nem állapítja meg bűncselekmény gyanúját, a Hatóság a rendelkezésére álló információk átadásával megkeresi az érintett internetes tartalom tartalom-, illetve tárhelyszolgáltatóját az internetes tartalom kivizsgálása érdekében, valamint, hogy a vizsgálata eredménye függvényében tegye meg a szükséges intézkedéseket. A megtett intézkedésekről a megkeresett szolgáltató köteles tájékoztatni a Hatóságot.
-
-(10) Ha az (5) bekezdés szerinti bejelentés alapján olyan internetes visszaélés valószínűségét azonosítja a Hatóság, amely a Hatóság tagságával működő internetes hotline-szolgáltatók nemzetközi szövetsége alapokmánya szerinti, a gyermekek internetes szexuális kizsákmányolásának, illetve a gyermekek szexuális kizsákmányolását ábrázoló anyagok terjesztésének gyanúját veti fel, a Hatóság a rendelkezésére álló információkat – a (7)–(9) bekezdésben foglaltak mellett – a tagságával működő nemzetközi szövetség által kezelt bejelentő felületre is továbbítja.
-
-149/C. § (1) A Hatóság és a Hatósággal a 149/D. § szerint együttműködési megállapodást kötő egyesület a 149/B. § szerinti feladataik ellátása érdekében az ahhoz szükséges mértékben jogosultak kezelni és továbbítani a 149/B. § (5) bekezdése szerinti bejelentés alapján tudomására jutott alábbi személyes adatokat:
-
-- a) a bejelentőre vonatkozó személyes adatok, ha a bejelentő azokat közölte,
-- b) a bejelentett URL-k, IP-címek, a bejelentésben szereplő nevek, internetes nevek, egyéb azonosító adatok, képmások, hangfelvételek, képernyőfotók, weboldalcímek, webhelynevek, a bejelentett tartalmak elérésére szolgáló felhasználónevek és jelszavak, ha azok valamely azonosított vagy azonosítható természetes személyhez kapcsolhatók.
-
-(2) Az (1) bekezdés szerinti adatokat és információkat a Hatósággal közszolgálati jogviszonyban, valamint munkavégzésre irányuló egyéb jogviszonyban álló személyek és a Hatósággal a 149/D. § szerint együttműködési megállapodást kötő egyesülettel munkavégzésre irányuló jogviszonyban álló személyek az internet hotline működtetéséhez szükséges mértékben ismerhetik meg. Megismerhetik továbbá ezen adatokat és információkat azon szervezetek alkalmazottai és tisztségviselői – a rájuk vonatkozó szabályok szerint –, amelyek részére a Hatóság és a Hatósággal a 149/D. § szerint együttműködési megállapodást kötő egyesület ezeket – az e törvényben foglalt célból, ha az adattovábbítás e cél eléréshez, különösen, ha a gyermekvédelem és a bűnmegelőzés területén hatáskörrel rendelkező hazai vagy nemzetközi szervezetekkel való együttműködéshez szükséges – továbbítja.
-
-(3) Az (1) bekezdés szerinti adatokat – ha jogszabály más megőrzési határidőt nem határoz meg – a Hatóság és a Hatósággal a 149/D. § szerint együttműködési megállapodást kötő egyesület az ügyintézés lezárását követő két év elteltével törli a nyilvántartásából.
-
-(4) A bejelentő kérheti személyes adatainak, valamint a 149/B. § (5) bekezdés szerinti bejelentés zárt kezelését.
-
-(5) Ha a Hatóság úgy ítéli meg, hogy a bejelentés tartalma közérdeket vagy méltányolható magánérdeket sért, a bejelentést zártan kezeli.
-
-149/D. § A Hatóság együttműködési megállapodást köthet olyan, az alapszabálya szerint gyermekvédelemmel foglalkozó egyesülettel, amely megfelel az internet hotline szabályzatban meghatározott feltételeknek és vállalja a 149/B. § szerinti egyes feladatoknak az internet hotline szabályzat szerinti ellátását. Az együttműködési megállapodást a Hatóság az internetes honlapján közzéteszi.
-
-149/E. § A Hatóság a közérdekű feladatellátása keretében olyan programokat, tájékoztató kampányokat szervez, amelyek segítik a kiskorúakat és szüleiket az internetes bántalmakkal, visszaélésekkel és jogsértésekkel szembeni fellépésben.
-
-149/F. § (1) A Magyarországon letelepedett internet-hozzáférés szolgáltatást nyújtó szolgáltató köteles a szolgáltatás részeként, az előfizető nyilatkozata alapján, megfelelő műszaki megoldás alkalmazásával – egyéni előfizetők számára ingyenesen – lehetővé tenni, hogy az internet-hozzáférés szolgáltatás felhasználója ne férhessen hozzá a (3) bekezdésben meghatározott listán szereplő honlapokhoz (a továbbiakban: kiskorú felhasználóra tekintettel nyújtott biztonságos szolgáltatás). A szolgáltató az előfizetői szerződés megkötését megelőzően, valamint a 129. § (2b) bekezdés szerinti adategyeztetés során tájékoztatja az előfizetőt a kiskorú felhasználóra tekintettel nyújtott biztonságos szolgáltatás igénybevételének lehetőségéről és egyéni előfizetők esetén annak ingyenességéről. Az előfizető jogosult a kiskorú felhasználóra tekintettel nyújtott biztonságos szolgáltatás igénybevételéről szóló nyilatkozatát az előfizetői szerződés időtartama alatt díjmentesen, a szerződés egyéb feltételeire tekintet nélkül bármikor megváltoztatni.
-
-(2) A Magyarországon letelepedett helyhez kötött internet-hozzáférés szolgáltatást nyújtó szolgáltató az előfizető nyilatkozata alapján köteles azt is – egyéni előfizetők számára ingyenesen – lehetővé tenni, hogy az előfizetői szolgáltatás keretében ugyanazon előfizetői hozzáférési ponton az előfizető egyidejűleg külön-külön is hozzáférjen a kiskorú felhasználóra tekintettel nyújtott biztonságos szolgáltatáshoz és a nem szűrt internetszolgáltatáshoz.
-
-(3) A kiskorú felhasználóra tekintettel nyújtott biztonságos szolgáltatás nyújtása érdekében az Elnök a Magyarországról leggyakrabban látogatott, kifejezetten pornográf tartalmak bemutatását célzó honlapokról listát állít össze.
-
-(4) Az Elnök rendeletben állapítja meg a kiskorú felhasználóra tekintettel nyújtott biztonságos szolgáltatással összefüggő, (1) bekezdés szerinti előfizetői tájékoztatás és a szolgáltatás nyújtása módjának, valamint a (3) bekezdés szerinti lista összeállításának, felülvizsgálatának és közzétételének részletes szabályait.
-
-### Szolgáltatóváltás és számhordozhatóság
-
-150. § (1) A számfüggő személyközi hírközlési szolgáltatást nyújtó szolgáltató kérelemre köteles lehetővé tenni előfizetője számára, hogy megtarthassa a nemzeti számozási tervben szereplő
-
-- a) földrajzi számát a felhasználás földrajzi helyének megváltoztatása nélküli szolgáltatóváltás esetén,
-- b) nemföldrajzi számát szolgáltatóváltás esetén [az a) és b) pont a továbbiakban együtt: hordozott szám].
-
-(2) A számhordozás a számra vonatkozó előfizetői szerződés előfizető általi felmondása esetében az előfizetői szerződés megszűnését követő 31 napon belül is kérelmezhető, kivéve, ha e jogáról a végfelhasználó lemond.
-
-(3) A szolgáltatóváltást és a számhordozást – ha ez műszakilag megvalósítható – a szolgáltatók kötelesek távoli konfigurációban elvégezni, kivéve, ha az előfizető másként kéri.
-
-(4) Az érintett internet-hozzáférési szolgáltatók – ha ez műszakilag megvalósítható – kötelesek biztosítani az előfizető számára az internet-hozzáférési szolgáltatás folytonosságát internet-hozzáférési szolgáltatóváltás esetén.
-
-(5) A szolgáltató, amelynek előfizetője számhordozással a hívószámát vagy szolgáltatóváltással az internet-hozzáférési szolgáltatását egy másik szolgáltatóhoz viszi át (a továbbiakban: átadó szolgáltató), azzal a szolgáltatóval, amelynek bármely jövőbeni előfizetője számát vagy internet-hozzáférési szolgáltatását egy másik szolgáltatótól hozza át (a továbbiakban: átvevő szolgáltató), köteles hálózati szerződés keretében a számhordozhatóság vagy szolgáltatóváltás feltételeiről megállapodni, amennyiben az átvevő szolgáltató az átadó szolgáltatónak az ezen szerződésekre irányadó elektronikus hírközlésre vonatkozó szabályoknak megfelelő ajánlatot tesz.
-
-(6) A hordozott számokra irányuló hívás díját a ténylegesen felépülő hívás, illetve szolgáltatás díjának megfelelően kell megállapítani. A hívó fél számára biztosítani kell annak a lehetőségét, hogy a hívás megkezdése előtt tájékozódni tudjon arról, hogy a hívott szám melyik szolgáltató előfizetőjét azonosítja.
-
-(7) A hívás- és jelzésirányítás költségeit, valamint a hívás- és jelzéstovábbítás járulékos többletköltségeit a hívás-, illetve jelzésirányításáért felelős, jogszabályban meghatározott szolgáltató viseli.
-
-(8) A szolgáltató által a hordozott számok tekintetében fizetendő azonosító használati díj megegyezik a nem hordozott számok használati díjával.
-
-(9) A számhordozás igénybevételéért az átadó szolgáltató hordozásonként egyszeri díjat határozhat meg, amelyet az átvevő szolgáltató fizet meg az átadó szolgáltató részére. A fizetendő díj nem haladhatja meg a számhordozás teljesítésével összefüggésben felmerült indokolt költségeket. A számhordozás igénybevétele a végfelhasználó részére díjmentes.
-
-(10) Az átvevő szolgáltató köteles az előfizető hozzájárulásának megfelelően a hordozott számnak az előfizetői nyilvántartásban, valamint a tudakozóban való közzétételéről gondoskodni.
-
-#### 150/A. §
+(8) A számhordozhatóság biztosításának részletes szabályait külön jogszabály tartalmazza.
 
 ### XVII. Fejezet — ADATKEZELÉSI SZABÁLYOK
 
 ### Adatszolgáltatás
 
-#### 151. §
+151. § (1) A hatóság határozatával kötelezheti az elektronikus hírközlési tevékenységet végzőt az elektronikus hírközlési szolgáltatásra, tevékenységre vonatkozó olyan adatok szolgáltatására, amelyek szolgáltatások igénybevételéhez, a hálózati szolgáltatások megvalósításához, továbbá a hatóság hatáskörébe utalt feladatok végzéséhez szükségesek, abban az esetben is, ha azok üzleti titoknak minősülnek.
 
-#### 152. §
+(2) Az adatszolgáltatásra megfelelő határidőt kell meghatározni. Amennyiben az adatszolgáltatás piacmeghatározás, illetve piacelemzés érdekében szükséges, az adatszolgáltatásra nyitva álló határidő 30 nap.
 
-### Adatszolgáltatás az Európai Bizottság és a tagállami elektronikus hírközlési szabályozó hatóságok,
+(3) Amennyiben egy szolgáltató a kért adatokat az előírt határidőre nem, hiányosan vagy a valóságnak nem megfelelően bocsátja a hatóság rendelkezésére, a hatóság a 33. § (3) bekezdésében meghatározott jogkövetkezményeket alkalmazhatja.
 
-valamint az elektronikus hírközlés nemzetközi szervezetei számára
+(4) A szolgáltató a jogszabályban meghatározott adatokat köteles nyilvánosan hozzáférhetővé tenni.
 
-153. § (1) A miniszter és a Hatóság az Európai Bizottságtól érkezett, e törvény hatálya alá tartozó adatszolgáltatási célú megkereséseknek köteles eleget tenni, amennyiben az adatszolgáltatás a Bizottság uniós jog szerinti feladatai elvégzéséhez szükséges. Az adatszolgáltatásról a miniszter vagy a Hatóság tájékoztatja az érintettet, ha az a miniszter vagy a Hatóság részére korábban szolgáltatott adatokkal kapcsolatos.
+(5) Az (1)–(3) bekezdés szerinti adatszolgáltatás során az adatszolgáltató felelős az adat tartalmának megfelelőségéért, időszerűségéért, hitelességéért, pontosságáért, ellenőrizhetőségéért és helyességéért.
 
-(1a) A Hatóság köteles a más tagállam szabályozó hatóságától érkezett, e törvény hatálya alá tartozó adatszolgáltatási célú megkereséseinek eleget tenni, ha az adatszolgáltatás a tagállami szabályozó hatóság uniós jog szerinti feladatai elvégzéséhez szükséges.
+(6) A hatóság az (1) bekezdés szerinti adatokat az adatszolgáltató egyidejű értesítésével a versenyhatóság rendelkezésére bocsáthatja. A versenyhatóság a hatóság által rendelkezésére bocsátott adatokat kizárólag az e törvényben meghatározott feladatai elvégzésére használhatja fel.
 
-(2) Az (1) bekezdésben meghatározott adatszolgáltatás teljesítése során a miniszter, illetőleg a Hatóság kérheti az Európai Bizottságtól, hogy a szolgáltatott adatkört más tagállam hatóságának ne adja tovább.
+152. § (1) A hatóság feladatai ellátásához szükséges, továbbá a miniszter felkérése alapján a miniszter feladatai ellátásához szükséges felmérések, elemzések és értékelések készítése céljából határozattal, határidő megjelölésével adatszolgáltatási kötelezettséget írhat elő a törvény hatálya alá tartozók számára.
 
-(3) Amennyiben a (2) bekezdésben foglalt kérelmet az adatszolgáltatással érintett adatszolgáltató kezdeményezi, a miniszter, illetőleg a Hatóság a kérelem előterjesztéséről az adatszolgáltatás összes körülményeinek mérlegelése alapján dönt.
+(2) A hatóság köteles az általa meghatározott adatok kezeléséről és felhasználásáról, továbbá az adatkezelés jogszabályban meghatározott céljáról az adat szolgáltatóját – az adatszolgáltatási kötelezettség előírásával együtt – tájékoztatni.
 
-(4) Ha az (1) és (1a) bekezdésben meghatározott megkeresésben foglalt adatszolgáltatási kötelezettség valamely szolgáltató üzleti titokká minősített adatait érinti, akkor a titok védelméről az adat felhasználása során is gondoskodni szükséges. Az üzleti titok védelme nem akadályozhatja az adatszolgáltatás céljának megvalósítását.
+(3) A hatóság a piacfelmérő, elemző és értékelő feladataihoz felhasználhatja a miniszter által vezetett minisztérium számára az Országos Statisztikai Adatgyűjtési Program keretében az elektronikus hírközlési tevékenységet végzők által szolgáltatott adatokat.
 
-(4a) A (4) bekezdés szerinti adatszolgáltatás esetén az adatszolgáltatás teljesítése előtt 3 nappal az érintett adatszolgáltatót tájékoztatni kell.
+(4) A hatóság a miniszter számára feladatai ellátása érdekében átadhatja:
 
-(5) A miniszter és a Hatóság az elektronikus hírközléssel foglalkozó nemzetközi szervezetektől érkező, a hazai hírközlési szektorra vonatkozó adat- és információkéréseket egymással egyeztetve kötelesek megválaszolni.
+- a) a piacfelügyeleti feladataival összefüggésben kezelt adatokat;
+- b) a piacfelmérő, elemző és értékelő feladataival összefüggésben kezelt adatokat.
 
-### Személyes adatok, hálózatok és szolgáltatások biztonságának védelme
+(5) A hatóság a minisztertől érkezett, e törvény, illetve egyéb jogszabály hatálya alá tartozó adatszolgáltatási célú megkeresésnek, valamint e törvény, illetve egyéb jogszabály alapján szolgáltatott adatok minden további feldolgozására, illetve azok alapján elemzések elkészítésére vonatkozó megkeresésnek haladéktalanul köteles eleget tenni, és erről az adatszolgáltatással érintett szolgáltatót tájékoztatni.
 
-154. § (1) A szolgáltató a szolgáltatási tevékenységével kapcsolatban tudomására jutott személyes adatot az Európai Unió általános adatvédelmi rendelete, valamint az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezéseinek megfelelően, az e törvényben foglalt kiegészítésekkel kezeli.
+(6) A piaci elemző, értékelő tevékenység ellátásához az (1), illetőleg a (3)–(4) bekezdés szerinti kötelezően szolgáltatott, valamint továbbított adatok alapján a hatóság nem folytathat le piacfelügyeleti eljárást, és ezeket az adatokat nem használhatja fel egyéb módon sem az adatszolgáltató ellen. Erről a hatóság az adatszolgáltatási kötelezettség előírásával egyidejűleg tájékoztatja az adatszolgáltatót.
 
-(2) Ha az adott előfizető esetében értelmezhető, a szolgáltató az adatkérésre törvény alapján jogosult bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv, közigazgatási szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásához, a kérelmükre történő adatszolgáltatás érdekében, valamint az előfizetői szolgáltatás nyújtása körében kezeli az előfizető azonosításához szükséges alábbi adatokat:
+(7) Az (1) bekezdés szerinti határozat ellen külön halasztó hatályú jogorvoslatnak van helye. A bíróság az ügyben, szükség esetén a felek meghallgatása után, 15 napon belül nemperes eljárásban határoz. A Fővárosi Bíróság végzése ellen fellebbezésnek nincs helye.
 
-- a) az előfizető neve, lakóhelye, tartózkodási helye, vagy székhelye;
-- b) az előfizető számlázási címe, pénzforgalmi számlaszáma;
-- c) az előfizető születési neve, születési helye és ideje, anyja születési neve;
-- d) az előfizető képviselőjének a)–c) pont szerinti adatai;
-- e) az előfizető cégjegyzékszáma vagy más nyilvántartási száma;
-- f) az előfizető személyazonosság igazolására alkalmas hatósági igazolványának típusa és száma;
-- g) az előfizető lakcímet igazoló hatósági igazolványának száma.
+### Adatszolgáltatás az Európai Bizottság és a tagállami elektronikus hírközlési szabályozó hatóságok,valamint az elektronikus hírközlés nemzetközi szervezetei számára
 
-(3) A szolgáltató a (2) bekezdés szerinti adatokat az ott meghatározott célból az előfizetői szerződés megszűnésétől számított egy évig köteles megőrizni.
+153. § (1) A miniszter és a hatóság az Európai Bizottságtól érkezett, e törvény hatálya alá tartozó adatszolgáltatási célú megkereséseknek haladéktalanul köteles eleget tenni és erről az adatszolgáltatással érintetteket tájékoztatni.
+
+(2) Az (1) bekezdésben meghatározott adatszolgáltatás teljesítése során a miniszter, illetőleg a hatóság kérheti az Európai Bizottságtól, hogy a szolgáltatott adatkört más tagállam hatóságának ne adja tovább.
+
+(3) Amennyiben a (2) bekezdésben foglalt kérelmet az adatszolgáltatással érintett adatszolgáltató kezdeményezi, a miniszter, illetőleg a hatóság a kérelem előterjesztéséről az adatszolgáltatás összes körülményeinek mérlegelése alapján dönt.
+
+(4) Ha az (1) bekezdésben meghatározott megkeresésben foglalt adatszolgáltatási kötelezettség valamely szolgáltató üzleti titokká minősített adatait érinti, az adatszolgáltatás teljesítése előtt 3 nappal az érintett adatszolgáltatót tájékoztatni kell.
+
+(5) A miniszter és a hatóság az elektronikus hírközléssel foglalkozó nemzetközi szervezetektől érkező, a hazai hírközlési szektorra vonatkozó adat- és információkéréseket egymással egyeztetve kötelesek megválaszolni.
+
+### Személyes adatok védelme
+
+154. § (1) A szolgáltató az elektronikus hírközlési szolgáltatásra irányuló szerződés létrehozatala, tartalmának meghatározása, módosítása, teljesítésének figyelemmel kísérése, az abból származó díjak számlázása, valamint az azzal kapcsolatos követelések érvényesítése céljából kezelheti a felhasználó, illetve előfizető azonosításához szükséges és elégséges személyes adatot.
+
+(2) A szolgáltató a díjak számlázása céljából kezelheti az elektronikus hírközlési szolgáltatás igénybevételével kapcsolatos olyan személyes adatot, amely a díj meghatározásához és a számlázáshoz szükséges és elégséges, így különösen a szolgáltatás igénybevételének időpontjára, időtartamára és helyére vonatkozó adatot.
+
+(3) A szolgáltató a szolgáltatás nyújtása céljából kezelheti az e § (1) és (2) bekezdésében említett azonosító és egyéb személyes adaton túl azon személyes adatot, amely a szolgáltatás nyújtásához műszakilag elengedhetetlenül szükséges.
+
+(4) A szolgáltató csak úgy választhatja meg és minden esetben úgy üzemeltetheti az elektronikus hírközlési szolgáltatás nyújtása során alkalmazott elektronikus hírközlő eszközöket, hogy biztosítani tudja, hogy személyes adat kezelésére csak akkor kerüljön sor, ha ez a szolgáltatás nyújtásához és az e törvényben meghatározott egyéb célok teljesüléséhez elengedhetetlenül szükséges.
+
+(5) A szolgáltató a kezelt személyes adatot az adatkezelésről való tudomásszerzését követően haladéktalanul törli, ha a szolgáltatónál valamely e § (1)–(3) bekezdésében nem említett célból történő adatkezelésre került sor.
+
+(6) Az elektronikus hírközlési szolgáltatás nyújtása nem tehető függővé az igénybevevőnek valamely e § (1)–(3) bekezdésében nem említett célból történő adatkezeléshez való hozzájárulásától.
+
+(7) A személyes adatok védelméről szóló törvényben meghatározott tájékoztatáson kívül a szolgáltatónak biztosítania kell, hogy a felhasználó az elektronikus hírközlési szolgáltatás igénybevétele előtt és az igénybevétel során bármikor megismerhesse, hogy a szolgáltató mely adatkezelési célokból milyen személyes adatokat kezel.
 
 155. § (1) A szolgáltató – szükség szerint más szolgáltatókkal közösen – megfelelő műszaki és szervezési intézkedésekkel gondoskodni köteles a továbbított közlés és a közléshez kapcsolódó forgalmi adatok jogosulatlan lehallgatásának, tárolásának vagy megfigyelésének, valamint a közléshez és a közléshez kapcsolódó forgalmi adatokhoz történő jogosulatlan vagy véletlen hozzáférésnek a megakadályozásáról (közlés bizalmassága).
 
@@ -3177,127 +2158,86 @@ valamint az elektronikus hírközlés nemzetközi szervezetei számára
 
 (3) A szolgáltató a továbbított közlések tartalmát csak olyan mértékben ismerheti meg és tárolhatja, amely a szolgáltatás nyújtásához műszakilag elengedhetetlenül szükséges.
 
-(4) Egy előfizetőnek vagy felhasználónak elektronikus hírközlő végberendezésén csak az érintett felhasználó vagy előfizető világos és teljes körű – az adatkezelés céljára is kiterjedő – tájékoztatását követő hozzájárulása alapján lehet adatot tárolni, vagy az ott tárolt adathoz hozzáférni.
+(4) Elektronikus hírközlő hálózat igénybevételével elektronikus hírközlő végberendezésen csak a felhasználó, illetve előfizető világos és teljes körű tájékoztatását követő hozzájárulása alapján lehet információt tárolni, vagy az ott tárolt információhoz hozzáférni.
 
-(5) A nyomozó hatóságok és a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv (a továbbiakban együtt: nyomozó hatóságok), valamint a nemzetbiztonsági szolgálatok a törvényben foglaltak szerint, továbbá a Hivatal – a 11. § (3) bekezdésében előírt jogkör gyakorlása során – a közléseket megfigyelhetik, lehallgathatják, tárolhatják vagy a küldeménybe, közlésbe azok megfigyelése érdekében más módokon beavatkozhatnak.
+(5) A nyomozó hatóságok és a Rendvédelmi Szervek Védelmi Szolgálata (a továbbiakban együtt: nyomozó hatóságok), valamint a nemzetbiztonsági szolgálatok külön törvényben foglaltak szerint, továbbá a frekvenciagazdálkodó hatóságok – a 11. § (3) bekezdésében előírt jogkör gyakorlása során – a közléseket megfigyelhetik, lehallgathatják, tárolhatják vagy a küldeménybe, közlésbe azok megfigyelése érdekében más módokon beavatkozhatnak.
 
-(6) A szolgáltató – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 42. §-ában meghatározott adatszolgáltatás és adatbetekintés kivételével – köteles tájékoztatni az érintett nemzetbiztonsági szolgálatot a szolgálat minősített adatot képező, védett telefonszámait érintő adatszolgáltatási megkeresésekről vagy adatkérésről.
+(6) A szolgáltató – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 42. §-ában meghatározott adatszolgáltatás és adatbetekintés kivételével – köteles tájékoztatni az érintett nemzetbiztonsági szolgálatot a szolgálat államtitoknak minősített, védett telefonszámait érintő adatszolgáltatási megkeresésekről.
 
-(7)
+(7) Az életet, a testi épséget, a vagyont veszélyeztető fenyegetés, zsarolás alapos gyanúja esetén a nyomozóhatóság külön törvényben foglaltak szerint az előfizető vagy a felhasználó írásbeli kérelmére az előfizető vagy a felhasználó használatában lévő végberendezésen folytatott beszélgetés, üzenetküldés, e-mail levelezés útján vagy más módon továbbított közlést lebonyolítók személyes adatait a kérelemben foglalt időhatáron belül megismerheti és rögzítheti.
 
-156. § (1) A szolgáltató – szükség szerint más szolgáltatókkal közösen – műszaki és szervezési intézkedésekkel köteles gondoskodni a hálózat és a szolgáltatás biztonságának, valamint az elektronikus hírközlési szolgáltatás nyújtása során kezelt előfizetői személyes adatok biztonságáról.
+156. § (1) A szolgáltató – szükség szerint más szolgáltatókkal közösen – műszaki és szervezési intézkedésekkel köteles gondoskodni a nyújtott szolgáltatás biztonságának védelméről.
 
-(2) Az előfizetői személyes adatok megsértését jelenti a nyilvánosan elérhető elektronikus hírközlési szolgáltatások nyújtásával összefüggésben továbbított, tárolt, vagy más egyéb módon kezelt vagy feldolgozott személyes adatok véletlen, vagy jogellenes kezelése vagy feldolgozása, így különösen megsemmisítése, elvesztése, módosítása, jogosulatlan felfedése, nyilvánosságra hozatala, vagy az azokhoz való jogosulatlan hozzáférés.
+(2) A műszaki és szervezési intézkedéseknek – figyelembe véve a legjobb gyakorlatot és a meghozandó intézkedések költségeit – a szolgáltatónál, a szolgáltatás nyújtásával kapcsolatban jelentkező kockázatoknak megfelelő biztonsági szintet kell nyújtaniuk.
 
-(3) A személyes adatok megsértésének az észlelése esetén az elektronikus hírközlési szolgáltató haladéktalanul köteles azt a Hatóságnak bejelenteni.
+(3) A szolgáltató tájékoztatja az előfizetőt a szolgáltatás biztonságát veszélyeztető, a szolgáltató által megtett műszaki és szervezési intézkedések ellenére fennmaradó, ismert kockázatokról és a védelem érdekében az előfizető által tehető intézkedésekről.
 
-(4) Az elektronikus hírközlési szolgáltatók kötelesek olyan nyilvántartást vezetni a személyes adatok megsértésének eseteiről, amely tartalmazza az ilyen esetek lényeges körülményeit, hatásait, valamint az elektronikus hírközlési szolgáltató által megtett korrekciós intézkedéseket is. A nyilvántartásnak minden olyan tényre és körülményre ki kell terjednie, amely alapján a Hatóság ellenőrizni képes, hogy az elektronikus hírközlési szolgáltató a (5) bekezdés rendelkezéseinek megfelelt-e, vagy sem. A nyilvántartás csak az említett cél eléréséhez szükséges információkat tartalmazza.
+(4) Ha a szolgáltatás biztonságát érintő vagy veszélyeztető esemény következtében korábban nem ismert, új biztonsági kockázat jelentkezik, a szolgáltató haladéktalanul tájékoztatja az előfizetőt a korábban nem ismert, új biztonsági kockázatról, a védelem érdekében az előfizető által tehető intézkedésekről, és azok várható költségeiről. A szolgáltató által nyújtott tájékoztatásért külön díj nem kérhető az előfizetőtől. A szolgáltató által nyújtott tájékoztatás nem mentesíti a szolgáltatót a védelem érdekében teendő, a szolgáltatás megszokott biztonsági szintjének visszaállítása érdekében szükséges intézkedések megtétele alól.
 
-(5) Ha a személyes adatok megsértése várhatóan hátrányosan érinti az előfizető vagy más magánszemély személyes adatait vagy magánéletét, akkor az elektronikus hírközlési szolgáltató erről az előfizetőt vagy magánszemélyt is indokolatlan késedelem nélkül köteles értesíteni. Nem kell az érintett előfizetőt vagy magánszemélyt értesíteni a személyes adataival való visszaélésről, ha az elektronikus hírközlési szolgáltató a Hatóságnak kielégítően igazolni tudja, hogy végrehajtotta a megfelelő technikai védelmi intézkedéseket, vagy, hogy ezen intézkedéseket alkalmazták a biztonság sérelmével érintett adatok tekintetében. Az ilyen technológiai védelmi intézkedéseknek értelmezhetetlenné kell tenniük az adatokat az azokhoz való hozzáféréshez engedéllyel nem rendelkező személyek számára.
+(5) A szolgáltató a személyes adatok védelmével, a szolgáltatás nyújtása során továbbított közlések bizalmasságával, valamint a szolgáltatás biztonságával kapcsolatos, e törvényben meghatározott kötelezettségein túlmenően a személyes adatok kezelésének részletes szabályait, a szolgáltatás nyújtása során továbbított közlések és küldemények bizalmasságának védelmére vonatkozó különleges feltételeket, valamint az azonosítókijelzés és hívásátirányítás feltételeit külön jogszabály állapítja meg.
 
-(6) Az érintett előfizetők vagy magánszemélyek értesítésére irányuló szolgáltatói kötelezettség sérelme nélkül – amennyiben a szolgáltató még nem értesítette az előfizetőt vagy magánszemélyt a személyes adatok megsértéséről – a Hatóság, a Nemzeti Adatvédelmi és Információszabadság Hatóság véleményének kikérését követően, kötelezheti erre, miután megfontolta a biztonság megsértésének várható hátrányos hatásait.
+(6) Amennyiben valamely értéknövelt szolgáltatás nyújtásához a forgalmi adatokon kívüli helymeghatározási adatok szükségesek, a szolgáltató köteles a felhasználót, illetve előfizetőt tájékoztatni ezen adatok típusáról, az adatkezelés céljáról, időtartamáról, továbbá arról, hogy az adatokat szükséges-e harmadik fél számára továbbítani.
 
-(7) Az előfizetőnek vagy magánszemélynek szóló értesítés tartalmazza legalább a személyes adatok megsértésének jellegét és azokat az információs pontokat, ahol az előfizető további felvilágosítást kaphat, továbbá intézkedéseket javasol a személyes adatok megsértése lehetséges hátrányos hatásainak enyhítésére. A Hatósághoz intézett értesítés ezen túlmenően leírja a személyes adatok megsértésének következményeit, és az annak orvoslására az elektronikus hírközlési szolgáltató által javasolt, vagy megtett intézkedéseket.
+(7) A felhasználóval, illetve előfizetővel kapcsolatos forgalmi adatokon kívüli helymeghatározási adatokat – a (9)–(10) bekezdésben foglalt adatkezelés kivételével – az elektronikus hírközlési szolgáltató kizárólag a felhasználó, illetve az előfizető hozzájárulása esetén kezelheti és csak olyan mértékben és időtartamig, amely szükséges az értéknövelt szolgáltatás nyújtásához.
 
-(8) A Hatóság ajánlást adhat ki a jelen § szerinti bejelentési és értesítési kötelezettség teljesítésének a módjára, és a nyilvánosan elérhető elektronikus hírközlési szolgáltatók személyes adatok kezelésével kapcsolatos elérendő biztonsági szintre vonatkozó legjobb gyakorlatokról.
+(8) A felhasználó, illetve az előfizető a (7) bekezdésben foglalt hozzájárulását bármikor visszavonhatja.
 
-(9) A műszaki és szervezési intézkedéseknek – figyelembe véve a legjobb gyakorlatot, a legújabb eredményeket és a meghozandó intézkedések költségeit – a szolgáltatónál, a hálózat egységességével és a szolgáltatás nyújtásával kapcsolatban jelentkező kockázatok mindenkori mértékének megfelelő biztonsági szintet kell nyújtaniuk a kockázatok felhasználókra, egyéb hálózatokra és szolgáltatásokra gyakorolt hatásának megelőzése és minimalizálása érdekében.
+(9) Az elektronikus hírközlési szolgáltató az adatkérésre külön törvény szerint jogosult nyomozó hatóság, ügyészség, bíróság, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából, kérelmükre köteles megállapítani és részükre továbbítani a felhasználóval, illetve az előfizetővel kapcsolatos, a forgalmi adatokon kívüli helymeghatározási adatokat.
 
-(10) A szolgáltató tájékoztatja az előfizetőt és indokolt esetben a felhasználót a hálózat egységességét és a szolgáltatás biztonságát veszélyeztető, a szolgáltató által megtett műszaki és szervezési intézkedések ellenére fennmaradó, ismert kockázatokról és a védelem érdekében az előfizető, a felhasználó által tehető intézkedésekről.
-
-(11) Ha a hálózat egységességét és a szolgáltatás biztonságát érintő vagy veszélyeztető esemény következtében korábban nem ismert, új biztonsági kockázat jelentkezik, a szolgáltató legalább ügyfélszolgálatán és internetes honlapján haladéktalanul tájékoztatja a felhasználókat a korábban nem ismert, új biztonsági kockázatról, a védelem érdekében a felhasználó által tehető intézkedésekről, és azok várható költségeiről. A szolgáltató által nyújtott tájékoztatásért külön díj nem kérhető a felhasználótól. A szolgáltató által nyújtott tájékoztatás nem mentesíti a szolgáltatót a védelem érdekében teendő, a hálózat egységességével és a szolgáltatás megszokott biztonsági szintjének visszaállítása érdekében szükséges intézkedések megtétele alól.
-
-(12) A szolgáltató a személyes adatok védelmével, a szolgáltatás nyújtása során továbbított közlések bizalmasságával, valamint a hálózat és a szolgáltatás biztonságával kapcsolatos, e törvényben meghatározott kötelezettségein túlmenően, a biztonsági esemény kezelése érdekében vagy biztonsági esemény jelentős kockázatának fennállása esetén a megelőzés érdekében szükséges műszaki és szervezési intézkedések szempontjait, az azonosítóval való visszaélés megelőzését szolgáló vizsgálatok részletes szabályait, a megteendő intézkedések határidejét, a személyes adatok kezelésének részletes szabályait, a szolgáltatás nyújtása során továbbított közlések és küldemények bizalmasságának védelmére vonatkozó különleges feltételeket, az azonosítókijelzés és hívásátirányítás, a hívás irányításának, ideértve a hívásvégződtetés megtagadásának feltételeit, továbbá a szolgáltatók hálózatbiztonsággal összefüggő és az azonosítóval való visszaélés megelőzését szolgáló együttműködésére vonatkozó részletes szabályokat az Elnök rendeletben állapítja meg.
-
-(13) Amennyiben valamely értéknövelt szolgáltatás nyújtásához a forgalmi adatokon kívüli helymeghatározási adatok szükségesek, a szolgáltató köteles a felhasználót, és előfizetőt tájékoztatni ezen adatok típusáról, az adatfeldolgozás céljáról, időtartamáról, továbbá arról, hogy az adatokat szükséges-e harmadik fél számára továbbítani.
-
-(14) A felhasználóval, előfizetővel kapcsolatos forgalmi adatokon kívüli helymeghatározási adatokat – a 158. §-ban foglalt adatfeldolgozás kivételével – az elektronikus hírközlési szolgáltató kizárólag az értéknövelt szolgáltatás nyújtásához szükséges mértékben és időtartamig kezelheti, ha
-
-- a) az adatok anonimizálásra kerültek, vagy
-- b) a felhasználók, vagy az előfizetők az adatkezeléshez hozzájárultak.
-
-(15) A felhasználó, és az előfizető a (14) bekezdésben foglalt hozzájárulását bármikor visszavonhatja.
-
-(15a) Az előfizető és a felhasználó számára a (14) bekezdés szerinti hozzájárulás megadása esetén biztosítani kell a lehetőséget, hogy a hálózathoz való minden egyes csatlakozás alkalmával, illetve minden egyes továbbítás esetén egyszerű módon és díjmentesen ideiglenesen letilthassa a (14) bekezdés szerinti adatok kezelését.
-
-(16) Az elektronikus hírközlési szolgáltató az adatkérésre külön törvény szerint jogosult bíróság, ügyészség, nyomozó hatóság, illetve az előkészítő eljárást folytató szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából, kérelemre köteles megállapítani és részükre továbbítani a felhasználóval és az előfizetővel kapcsolatos, a forgalmi adatokon kívüli helymeghatározási adatokat.
-
-(17) Az elektronikus hírközlési szolgáltató az ismeretlen helyen tartózkodó személy hollétének megállapítása – ennek keretében kapcsolatrendszerének, feltételezhető tartózkodási helyének megismerése – céljából a körözési eljárást lefolytató szerv megkeresésére köteles megállapítani és részére továbbítani a felhasználóval és az előfizetővel kapcsolatos hívásforgalmi, helymeghatározási és előfizetői adatokat.
-
-(18) Az elektronikus hírközlési szolgáltató a (16)–(17) bekezdés szerinti helymeghatározási adatok szolgáltatását a hálózatában, a Nemzetbiztonsági Szakszolgálat által meghatározott követelményrendszer szerint rendelkezésre álló helymeghatározási adatoknak a Nemzetbiztonsági Szakszolgálat által előírt technikai szempontok szerinti továbbításával köteles teljesíteni.
-
-(19) A (14) bekezdés szerint kezelt adatokat az elektronikus hírközlési szolgáltató a Központi Statisztikai Hivatal részére annak kérésére és a statisztikai cél előzetes igazolása alapján, statisztikai célra átadja, és ezen adatok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átadásra kerülő adatok körét és az adatátvétel részletszabályait együttműködési megállapodásban kell rögzíteni.
+(10) A személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény (a továbbiakban: Avtv.) 3. § (8) bekezdése szerinti esetben, az adatok megismerésére külön törvényben felhatalmazott szerv kérelmére az elektronikus hírközlési szolgáltató köteles megállapítani és részére továbbítani a felhasználóval, illetve az előfizetővel kapcsolatos, a forgalmi adatokon kívüli helymeghatározási adatokat.
 
 ### Forgalmi és számlázási adatok
 
 157. § (1) Az elektronikus hírközlési szolgáltató az elektronikus hírközlési szolgáltatás teljesítése után – a (2) bekezdésben, valamint a 159/A. § (1) bekezdésében foglaltak kivételével – törli vagy anonimizálja az előfizetőkre és a felhasználókra vonatkozó személyes adatokat, amelyeket a szolgáltatás nyújtása során kezel.
 
-(2) Az elektronikus hírközlési szolgáltató az adatkérésre törvény alapján jogosult bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv, közigazgatási szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásához, a kérelmükre történő adatszolgáltatás érdekében, valamint az előfizetői szolgáltatás nyújtásával összefüggésben – amennyiben az adott előfizető esetében értelmezhető – kezeli az előfizető részére történő számlázás és a kapcsolódó díjak beszedése, valamint az előfizetői szerződések figyelemmel kísérése körében keletkezett alábbi adatokat:
+(2) Az elektronikus hírközlési szolgáltató az előfizetők és a felhasználók részére történő számlázás és a kapcsolódó díjak beszedése, valamint az előfizetői szerződések figyelemmel kísérése céljából a következő adatokat kezelheti:
 
-- a) a 154. § (2) bekezdés a)–e) pontjában foglalt adatok;
+- a) a 129. § (6) bekezdés b)–d) pontjában foglalt adatok;
 - b) az előfizetői állomás száma vagy egyéb azonosítója;
-- c) az előfizető hozzáférési pont címe és az állomás típusa;
+- c) az előfizető címe és az állomás típusa;
 - d) az elszámolási időszakban elszámolható összes egység száma;
 - e) a hívó és a hívott előfizetői számok;
-- f) a hívás vagy egyéb szolgáltatás típusa, iránya, kezdő időpontja és a lefolytatott beszélgetés időtartama, illetve a továbbított adat terjedelme, mobil rádiótelefon szolgáltatásnál a szolgáltatást nyújtó hálózat és cella, valamint a szolgáltatás igénybevételekor használt készülék egyedi azonosítója (IMEI), IP hálózatok esetén az alkalmazott azonosítók;
+- f) a hívás vagy egyéb szolgáltatás típusa, iránya, kezdő időpontja és a lefolytatott beszélgetés időtartama, illetőleg a továbbított adat terjedelme, mobil rádiótelefon szolgáltatásnál a szolgáltatást nyújtó hálózat és cella, valamint a szolgáltatás igénybevételekor használt készülék egyedi azonosítója (IMEI), IP hálózatok esetén az alkalmazott azonosítók;
 - g) a hívás vagy egyéb szolgáltatás dátuma;
 - h) a díjfizetéssel és a díjtartozással összefüggő adatok;
-- i) a tartozás hátrahagyása esetén az előfizetői szerződés felmondásának eseményei;
-- j) telefon szolgáltatás esetén az előfizetők és felhasználók részéről igénybe vehető egyéb, nem elektronikus hírközlési szolgáltatásra, különösen annak számlázására vonatkozó adatok;
+- i) tartozás hátrahagyása esetén az előfizetői szerződés felmondásának eseményei;
+- j) távbeszélő szolgáltatás esetén az előfizetők és felhasználók részéről igénybe vehető egyéb, nem elektronikus hírközlési szolgáltatásra, különösen annak számlázására vonatkozó adatok;
 - k) az előfizetői szolgáltatás igénybevételéhez jogellenesen alkalmazott – így különösen a tulajdonosa által letiltott – előfizetői végberendezések használatára, illetve annak kísérletére vonatkozóan a szolgáltató elektronikus hírközlő hálózatában keletkező adatok.
 
-(2a) A szolgáltató a (2) bekezdés szerinti adatokat az előfizető részére történő számlázás és a kapcsolódó díjak beszedése, valamint az előfizetői szerződések figyelemmel kísérése céljából a 143. § (2) bekezdése szerinti elévülési időn belül kezeli.
+(3) A (2) bekezdés szerinti adatok a (2) bekezdésben meghatározott céllal, a keletkezésétől az előfizetői szerződésből az adattal összefüggésben eredő igények 143. § (2) bekezdése szerinti elévüléséig kezelhetők.
 
-(3) A szolgáltató a (2) bekezdés a) pontja szerinti adatokat a (2) bekezdésben meghatározott szervek törvényben meghatározott feladataik ellátásához kapcsolódó adatigénylése teljesítése céljából, kizárólag a 159/A. § (3) bekezdése szerinti megőrzési időtartam végéig kezeli.
+(4) Az elektronikus hírközlési szolgáltató saját üzletszerzés céljából – az előfizető kifejezett előzetes hozzájárulásával – kezelheti a (2) bekezdés szerinti adatokat. Az elektronikus hírközlési szolgáltató köteles biztosítani, hogy az előfizető a hozzájárulását bármikor visszavonhassa.
 
-(4) Az elektronikus hírközlési szolgáltató értéknövelt szolgáltatások nyújtása, vagy saját üzletszerzés céljából – az előfizető vagy a felhasználó kifejezett előzetes hozzájárulásával az ilyen szolgáltatások nyújtásához, illetve értékesítéséhez szükséges mértékig és ideig – kezelheti a (2) bekezdés szerinti adatokat. Az elektronikus hírközlési szolgáltató köteles biztosítani, hogy az előfizető és a felhasználó a hozzájárulását bármikor visszavonhassa.
-
-(5)
+(5) Külön törvény ilyen előírása esetén az elektronikus hírközlési szolgáltató az előfizetőkre és felhasználókra vonatkozó, a külön törvény előírása szerinti személyes adatokat csak e külön törvény előírása szerinti célból és ideig kezelheti, az e törvény szerinti célhoz kötött adatkezeléseket a jelen törvényben a célhoz kapcsolódóan előírt kezelési határidőn belül meg kell szüntetnie.
 
 (6) Az e törvény, illetve más törvények által lehetővé tett, illetve előírt különféle célú adatkezeléseket az elektronikus hírközlési szolgáltatónak el kell különítenie egymástól. Az elkülönítés történhet
 
 - a) kezelési cél szerint fizikailag elkülönített adatkezelési rendszerekben, amelyekben egymástól függetlenül vannak eltárolva az eltérő kezelési céllal kezelhető adatok;
 - b) logikailag elkülönített adatkezelési rendszerben, amelyben a különféle céllal kezelhető adatok közös rendszerben vannak eltárolva, azonban az adatokhoz való hozzáférések az adatkezelés célja szerint elkülönülnek egymástól.
 
-(7)
+(7) Az elektronikus hírközlési szolgáltató haladéktalanul, legfeljebb 30 napon belül megsemmisíteni köteles
 
-(8) A (2) bekezdés szerinti adatok közül az előfizető családi és utóneve, születési neve, lakóhelye, tartózkodási helyére vonatkozó információ, az előfizetői állomás száma vagy egyéb azonosítója, az őt hívó és az általa hívott előfizetői számok, a hívás vagy egyéb szolgáltatás dátuma és kezdő időpontja átadható a bennfentes kereskedelem, piacbefolyásolás, engedély nélküli szolgáltatás végzése, a nettó short pozícióra vonatkozó bejelentési és közzétételi kötelezettség elmulasztása, a short ügyletkötési korlátozások ügyében, illetve vállalatfelvásárlásra vonatkozó szabályok betartásának ellenőrzése érdekében indított eljárás keretében a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Banknak.
+- a) a fizikailag elkülönülő adatkezelési rendszerből mindazokat az adatokat, amelyekre vonatkozóan az adott kezelési célhoz kötött kezelési határidő letelt;
+- b) a logikailag elkülönített adatkezelési rendszerből mindazokat az adatokat, amelyekre vonatkozóan a célhoz kötött kezelési határidők mindegyike letelt.
 
-(8a) A (2) bekezdés szerinti adatok közül átadható a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 11. §-ában vagy 21. §-ában, illetve az Európai Unió működéséről szóló szerződés 101. vagy 102. cikkében foglalt tilalom megsértése miatt, valamint a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény Melléklete 26. pontjának megsértése miatt versenyfelügyeleti eljárást folytató Gazdasági Versenyhivatalnak az előfizető családi és utóneve, születési neve, lakóhelye, tartózkodási helyére vonatkozó információ, az előfizetői állomás száma vagy egyéb azonosítója, az őt hívó és az általa hívott előfizetői számok, a hívás vagy egyéb szolgáltatás dátuma és kezdő időpontja, valamint időtartama. A közvetlenül vagy közvetve a vételi vagy az eladási árak rögzítésére, a piac felosztására – beleértve a versenytárgyalási összejátszást is –, vagy a termelési, eladási kvóták meghatározására irányuló versenytársak közötti megállapodás vagy összehangolt magatartás miatt versenyfelügyeleti eljárást folytató Gazdasági Versenyhivatalnak a mobil rádiótelefon szolgáltatásnál a szolgáltatást nyújtó hálózat és cella, valamint a szolgáltatás igénybevételekor használt készülék egyedi azonosítója (IMEI), IP hálózatok esetén az alkalmazott azonosítók is átadhatók.
+(8) Bennfentes kereskedelem, piacbefolyásolás, engedély nélküli szolgáltatás végzése ügyében, illetve vállalatfelvásárlásra vonatkozó szabályok betartásának ellenőrzése érdekében indított eljárás keretében a (2) bekezdés szerinti adatok közül az előfizető családi és utóneve, születési neve, lakóhelye, tartózkodási helyére vonatkozó információ, az előfizetői állomás száma vagy egyéb azonosítója, az őt hívó és az általa hívott előfizetői számok, a hívás vagy egyéb szolgáltatás dátuma és kezdő időpontja átadható a Pénzügyi Szervezetek Állami Felügyeletének.
 
 (9) A (2) bekezdés szerinti adatok közül azok, amelyek az adatkezelés céljához szükségesek, a (3) bekezdésben meghatározott adatmegőrzési időn belül átadhatók:
 
 - a) azoknak, akik az elektronikus hírközlési szolgáltató megbízása alapján a számlázást, a követelések kezelését, a forgalmazás kezelését, illetőleg az ügyfél-tájékoztatást végzik;
 - b) a számlázási és forgalmazási jogviták rendezésére jogszabály alapján jogosult szervek részére;
 - c) a bírósági végrehajtásról szóló törvény előírásai szerint a végrehajtónak;
-- d)
-- e)
+- d) az Avtv. 3. § (8) bekezdése szerinti esetben az adatok megismerésére külön törvényben felhatalmazott szerv kérelme alapján a felhatalmazott szerv részére.
 
-(10) Az elektronikus hírközlési szolgáltató – az adatkérésre külön törvény szerint jogosult bíróság, ügyészség, nyomozó hatóság, illetve az előkészítő eljárást folytató szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából – kérelemre köteles átadni vagy hozzáférhetővé tenni a (2) bekezdés alapján az elektronikus hírközlési szolgáltatónál rendelkezésre álló adatokat.
+(10) Az elektronikus hírközlési szolgáltató – az adatkérésre külön törvény szerint jogosult nyomozó hatóság, ügyészség, bíróság, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából – kérelemre köteles átadni vagy hozzáférhetővé tenni a (2) bekezdés alapján az elektronikus hírközlési szolgáltatónál rendelkezésre álló adatokat.
 
-(10a) Az elektronikus hírközlési szolgáltató – a Központi Statisztikai Hivatal (a továbbiakban: KSH) törvényben meghatározott feladatai ellátásának körében a természetes személy előfizetőkkel való telefonos kapcsolatfelvétellel megvalósuló statisztikai adatgyűjtés biztosítása céljából – a KSH kérelmére köteles átadni vagy hozzáférhetővé tenni a kérelemben megjelölt természetes személyek körére vonatkozóan
+158. § (1) Az elektronikus hírközlési szolgáltatók a díjfizetési, illetőleg a szerződésből eredő egyéb kötelezettségek kijátszásának megelőzése, illetve a 118. § (4) bekezdésében meghatározott feltételek fennállása esetén a szerződéskötés megtagadásának céljából jogosultak a 157. § szerint jogszerűen kezelhető adatok köréből az előfizető azonosításához szükséges adatokat, valamint az adatátadásnak a (3) bekezdés szerinti indokáról szóló tájékoztatást másik elektronikus hírközlési szolgáltatónak átadni vagy attól átvenni, illetőleg – azzal az adattartalommal – közös adatállományt létrehozni.
 
-- a) a természetes személyről megadott előfizetői személyazonosító adatok alapján az előfizetőhöz rendelt hívószámot, amennyiben a természetes személy rendelkezik előfizetéssel az elektronikus hírközlési szolgáltatónál, vagy
-- b) az arra vonatkozó tájékoztatást, hogy a természetes személy az elektronikus hírközlési szolgáltatónál előfizetéssel nem rendelkezik.
+(2) A szolgáltató az (1) bekezdésben meghatározott célból csak a 129. § (6) bekezdésének b)–f) pontjában foglalt előfizetői adatokat adhatja tovább.
 
-(10b) Az elektronikus hírközlési szolgáltató a (10a) bekezdés szerinti adatkérés során tudomására jutott személyes adatokat semmilyen más célra nem használhatja fel és azokat az adatszolgáltatás teljesítése után haladéktalanul törli.
+(3) Az előfizető adatai a 118. § (4) bekezdés szerinti feltételek fennállása esetén, illetőleg abban az esetben adhatók át, illetve kerülhetnek be a közös adatállományba, ha
 
-(10c) A KSH az átvett adatokat a statisztikai adatelőállítási folyamatban addig kezeli, amíg az annak végrehajtásához indokolt. A személyes adatokat és az előfizetői állomás számát a KSH elkülönítetten tárolja, e két adatállomány összekapcsolására csak az adatgyűjtés-szervezés és a lekérdezés idejére jogosult. A feladat megszűnésekor, így különösen az egyes adatfelvételek lezárását követően az azokhoz kapcsolódóan átvett adatokat a KSH törli.
-
-(11) Az elektronikus hírközlési szolgáltató – ha az a rendelkezésére áll – a szabálysértési hatóság kérelmére a segélyhívó számok rendeltetéstől eltérő igénybevétele szabálysértés elkövetőjének azonosítása céljából köteles átadni a segélyhívószámra kezdeményezett hívó telefonszám vonatkozásában
-
-- a) az előfizető családi nevére és utónevére, születési helyére és idejére, anyja születési családi és utónevére, lakcímére és értesítési címére, vagy
-- b) a nem természetes személy előfizető esetén annak cégnevére, székhelyére, telephelyére, képviselőjének családi nevére és utónevére
-
-vonatkozó adatokat.
-
-158. § (1) Az elektronikus hírközlési szolgáltatók a díjfizetési, valamint a szerződésből eredő egyéb kötelezettségek kijátszásának megelőzése, illetve az Elnök rendeletében meghatározott feltételek fennállása esetén a szerződéskötés megtagadásának céljából a 154. § (2) bekezdése és a 157. § szerint jogszerűen kezelhető adatok köréből az előfizető azonosításához szükséges adatokat, valamint az adatátadásnak a (3) bekezdés szerinti indokáról szóló tájékoztatást tartalmazó közös adatállományt hoznak létre és működtetnek.
-
-(2) A szolgáltató az (1) bekezdésben meghatározott célból csak a 154. § (2) bekezdésében foglalt előfizetői adatokat, valamint a szerződés tárgyát képező előfizetői szolgáltatás megjelölését és az előfizető egyéni előfizetői minőségére vonatkozó nyilatkozatának tartalmát továbbíthatja a közös adatállományba.
-
-(3) Az előfizető (2) bekezdés szerinti adatait az Elnök rendelete szerinti feltételek fennállása esetén, illetve abban az esetben kell a közös adatállományba továbbítani, ha
-
-- a) számlatartozás miatt a szolgáltató a szerződést felmondta, vagy a szolgáltatás igénybevételi lehetőségét az előfizető számára részben vagy egészben korlátozta,
+- a) számlatartozás miatt a szolgáltató a szerződést felmondta, vagy a szolgáltatás igénybevételi lehetőségét az előfizető számára részben vagy egészben korlátozta, vagy
 - b) számlatartozása miatt a szolgáltató bírósági vagy hatósági eljárást kezdeményezett az előfizető ellen, illetve az előfizető tartózkodási helye ismeretlen, vagy
 - c) az igénylő, illetve az előfizető kár okozása érdekében a szolgáltatót megtévesztette vagy a megtévesztésére törekszik (így különösen, ha az azonosítására szolgáló dokumentum nyilvánvalóan hamis, hamisított vagy érvénytelen).
 
@@ -3311,25 +2251,25 @@ vonatkozó adatokat.
 
 - a) az elektronikus hírközlési szolgáltató kizárólag az (1) bekezdés szerinti célra,
 - b) a 157. § (8)–(10) bekezdésében megjelölt szerv, illetve hatóság,
-- c) bármely előfizető annak tekintetében, hogy a nyilvántartás milyen rá vonatkozó adatot tartalmaz.
+- c) bármely fogyasztó annak tekintetében, hogy a nyilvántartás milyen rá vonatkozó adatot tartalmaz.
 
 (8) A közös adatállomány létrehozása, valamint az adatkezelő és az adatfeldolgozó megbízása, valamint azok jogai és kötelezettségei tekintetében az érintetteknek írásban kell megállapodniuk.
 
 159. § (1) Az előfizetői szerződés megkötésekor az igénylőt kifejezetten és egyértelműen tájékoztatni kell:
 
-- a) a 156. § (16) és (17) bekezdés, a 157. § (2) és (2a), (8)–(10) bekezdés, továbbá a 159/A. § (1) bekezdés szerinti adatkezelésekről;
+- a) a 156. § (9)–(10) bekezdés, a 157. § (2) és (8)–(10) bekezdés, továbbá a 159/A. § (1) bekezdés szerinti adatkezelésekről;
 - b) arról, hogy a kezelt adatok mely esetekben és mely elektronikus hírközlési szolgáltatóknak adhatók át;
 - c) ezen adatok alapján az elektronikus hírközlési szolgáltatók milyen döntéseket hozhatnak;
-- d) milyen jogorvoslati lehetősége van az előfizetőnek;
+- d) milyen jogorvoslati lehetősége van az ajánlattevőnek;
 - e) a közös adatállomány adatkezelőjéről és adatfeldolgozójáról, az adatkezelés és adatfeldolgozás helyéről (címéről).
 
 (2) Az előfizetőt haladéktalanul tájékoztatni kell az (1) bekezdés b)–e) pontja szerinti körülményekben bekövetkezett változásokról.
 
 ### Bűnüldözési, nemzetbiztonsági és honvédelmi célú adatmegőrzési kötelezettség
 
-159/A. § (1) Az elektronikus hírközlő hálózat üzemeltetője, illetve az elektronikus hírközlési szolgáltatás szolgáltatója – az adatkérésre külön törvény szerint jogosult bíróság, ügyészség, nyomozó hatóság, illetve az előkészítő eljárást folytató szerv, a kijelölt honvédelmi szervezet, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából, a kérelmükre történő adatszolgáltatás érdekében – megőrzi az elektronikus hírközlési szolgáltatás előfizető, illetve felhasználó általi igénybevételével kapcsolatos, az érintett elektronikus hírközlési szolgáltatás nyújtásával összefüggésben a szolgáltató által előállított vagy kezelt alábbi adatokat:
+159/A. § (1) Az elektronikus hírközlő hálózat üzemeltetője, illetve az elektronikus hírközlési szolgáltatás szolgáltatója – az adatkérésre külön törvény szerint jogosult nyomozó hatóság, ügyészség, bíróság, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából, a kérelmükre történő adatszolgáltatás érdekében – megőrzi az elektronikus hírközlési szolgáltatás előfizető, illetve felhasználó általi igénybevételével kapcsolatos, az érintett elektronikus hírközlési szolgáltatás nyújtásával összefüggésben a szolgáltató által előállított vagy kezelt alábbi adatokat:
 
-- a) helyhez kötött telefon- vagy mobil rádiótelefon szolgáltatás, internet hozzáférési szolgáltatás, internetes telefon-, internetes levelezési szolgáltatás, illetve ezek kombinációja esetén az előfizető egyedi előfizetői szerződésben rögzített személyes adatai;
+- a) helyhez kötött telefon- vagy mobil rádiótelefon szolgáltatás, internet hozzáférési szolgáltatás, internetes telefon-, internetes levelezési szolgáltatás, illetve ezek kombinációja esetén a 129. § (6) bekezdés b)–d) pontjában foglalt adatok;
 - b) helyhez kötött telefon- vagy mobil rádiótelefon szolgáltatás, internet hozzáférési szolgáltatás, internetes telefon-, internetes levelezési szolgáltatás, illetve ezek kombinációja esetén az előfizetői, felhasználói végberendezés vagy előfizetői hozzáférési pont hívószáma vagy egyéb, az előfizető, felhasználó egyedi azonosításához szükséges – az előfizetői szerződésben rögzített, vagy az elektronikus hírközlési szolgáltató által egyéb módon az előfizetőhöz, felhasználóhoz rendelt – állandó műszaki-technikai azonosítók;
 - c) helyhez kötött telefonszolgáltatás, helyhez kötött internet hozzáférési szolgáltatás, illetve ezek kombinációja esetén az előfizetői, felhasználói végberendezés vagy előfizetői hozzáférési pont létesítési címe és típusa;
 - d) helyhez kötött telefon- vagy mobil rádiótelefon szolgáltatás, internet hozzáférési szolgáltatás, internetes telefon-, internetes levelezési szolgáltatás, illetve ezek kombinációja esetén a kommunikációban részt vevő előfizetők, felhasználók hívószámai, egyedi műszaki-technikai azonosítói, felhasználói azonosítói, az igénybe vett elektronikus hírközlési szolgáltatás típusa, a kommunikáció dátuma, kezdő és záró időpontja;
@@ -3347,128 +2287,47 @@ vonatkozó adatokat.
 
 (4) Az (1) bekezdésben foglalt adatszolgáltatások teljesítésekor az adatkérés jogszerűségéért az ügyben eljáró, adatkérésre felhatalmazott szerv a felelős. Az elektronikus hírközlési szolgáltató az (1) bekezdés szerint tárolt adatok, továbbá az (1) bekezdés szerinti adatszolgáltatás teljeskörűségéért, minőségéért és időszerűségéért felelős.
 
-(5) Az (1) bekezdés alapján adatmegőrzésre kötelezett elektronikus hírközlési szolgáltató az adatmegőrzés feladatával kizárólag abban az esetben bízhat meg adatfeldolgozóként más vállalkozást, illetve a megőrzött adatokat kizárólag abban az esetben tárolhatja az Európai Gazdasági Térség más tagállamában, ha a megőrzött adatokhoz való hozzáférés tekintetében az adatfeldolgozóval kötött adatmegőrzési szerződés tartalmazza az (1)–(2) bekezdés szerinti adatkérésekre vonatkozó hazai titokvédelmi, minősítettadat-védelmi szabályoknak megfelelő biztonsági és hozzáférési követelményeket. Az elektronikus hírközlési szolgáltató a megőrzött adatokat nem tárolhatja olyan ország területén, illetve az adatmegőrzés feladatával nem bízhat meg olyan országbeli adatfeldolgozót, amely ország az Európai Gazdasági Térségnek nem tagállama.
+(5) Az (1) bekezdés alapján adatmegőrzésre kötelezett elektronikus hírközlési szolgáltató az adatmegőrzés feladatával kizárólag abban az esetben bízhat meg adatfeldolgozóként más vállalkozást, illetve a megőrzött adatokat kizárólag abban az esetben tárolhatja az Európai Gazdasági Térség más tagállamában, ha a megőrzött adatokhoz való hozzáférés tekintetében az adatfeldolgozóval kötött adatmegőrzési szerződés tartalmazza az (1)–(2) bekezdés szerinti adatkérésekre vonatkozó hazai titokvédelmi szabályoknak megfelelő biztonsági és hozzáférési követelményeket. Az elektronikus hírközlési szolgáltató a megőrzött adatokat nem tárolhatja olyan ország területén, illetve az adatmegőrzés feladatával nem bízhat meg olyan országbeli adatfeldolgozót, amely ország az Európai Gazdasági Térségnek nem tagállama.
 
 (6) E § alkalmazásában kommunikáció valamely elektronikus hírközlési szolgáltatás révén megvalósított információcsere vagy információtovábbítás véges számú felek között, amely magában foglalja a sikertelen hívásokat. E § alkalmazásában a kommunikáció nem foglalja magában az elektronikus hírközlő hálózaton keresztül műsorterjesztési szolgáltatás részeként a nyilvánosságnak továbbított információt, kivéve, ha az információ az azt átvevő, azonosítható előfizetőhöz vagy felhasználóhoz kapcsolható.
 
-(7) Az adatkérésre külön törvény szerint jogosult szervezetek évente statisztikát kötelesek készíteni és az Európai Bizottság részére eljuttatni. A statisztikának a következőket kell tartalmaznia:
-
-- a) azokat az eseteket, amelyekben a szolgáltató e § alapján az illetékes hatóságok számára adatot szolgáltatott,
-- b) e § szerinti adatok megőrzése időpontját és azon időpont között eltelt időt, amikor az illetékes hatóság az adatok továbbítását kérte,
-- c) azokat az esetek, amelyekben a szolgáltató az adatok iránti kérelmeket nem tudta teljesíteni.
-
-### A Hatóság közreműködése az elektronikus adat ideiglenes és végleges hozzáférhetetlenné tételében
-
-159/B. § (1) A Hatóság a büntetőeljárásról szóló törvény alapján, illetve az egyéb törvényben meghatározottak alapján szervezi és ellenőrzi a büntetőügyben a bíróság által elrendelt elektronikus adat ideiglenes és végleges hozzáférhetetlenné tétele végrehajtását, továbbá a külön törvényben meghatározott hatóság által elrendelt elektronikus adat hozzáférhetetlenné tétele végrehajtását.
-
-(2) A bíróság, illetve a külön törvényben meghatározott hatóság elektronikus úton megküldött értesítése alapján a Hatóság a bíróság elektronikus adat ideiglenes vagy végleges hozzáférhetetlenné tételéről szóló rendelkezését, illetve a külön törvényben meghatározott hatóság elektronikus adat hozzáférhetetlenné tételéről szóló rendelkezését kizárólag elektronikus úton közli a hozzáférést biztosító elektronikus hírközlési szolgáltatókkal.
-
-(2a) A bíróság határozatát az elektronikus hírközlési szolgáltatók részére az NMHH kézbesítési rendszerén keresztül küldött értesítés napját követő munkanapon kell kézbesítettnek tekinteni.
-
-(3) A Hatóság az (1) bekezdésben meghatározott feladat végrehajtása érdekében működteti a központi elektronikus hozzáférhetetlenné tételi határozatok, végzések és az Szjtv. 36/K. § (1) bekezdése vagy az Fgytv. 48/E. §-a szerinti értesítések adatbázisát (a továbbiakban: KEHTA), és a működtetés céljából feldolgozza az oda bevitt adatokat. A KEHTA adatai nem nyilvánosak, azokba
-
-- a) a bíróság által elrendelt ideiglenes vagy végleges hozzáférhetetlenné tétel esetén a bíróság, az ügyészség, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai,
-- b) a külön törvényben meghatározott hatóság által elrendelt hozzáférhetetlenné tétel esetén a külön törvényben meghatározott hatóság, a bíróság, az ügyészség, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai
-
-tekinthetnek be.
-
-(4) A bíróság, illetve a külön törvényben meghatározott hatóság elektronikus úton megküldött értesítése alapján a Hatóság a KEHTA-ban rögzíti
-
-- a) az eljáró bíróság, a külön törvényben meghatározott hatóság megnevezését és a határozat, végzés és az Szjtv. 36/K. § (1) bekezdése vagy az Fgytv. 48/E. §-a szerinti értesítés számát,
-- b) az elektronikus adathoz való hozzáférés megakadályozásáról, illetve a megakadályozás megszüntetéséről szóló rendelkezést,
-- c) az elektronikus adat azonosítására és elérésére vonatkozó adatokat.
-
-(5) A Hatóság a hiányosan megküldött értesítéssel kapcsolatosan az adatok pótlása érdekében a bíróságot, illetve a külön törvényben meghatározott hatóságot elektronikus úton megkeresi, továbbá jelzi a bíróságnak, illetve a külön törvényben meghatározott hatóságnak, ha a rendelkezés elektronikus hírközlési szolgáltatók általi végrehajtása a megadott adattartalommal kétséges lehet.
-
-159/C. § (1) A hozzáférést biztosító elektronikus hírközlési szolgáltatók és a kereső- és gyorsítótár-szolgáltatók kötelesek a KEHTA-hoz csatlakozni abból a célból, hogy a bíróság, illetve a külön törvényben meghatározott hatóság elektronikus adathoz való hozzáférés megakadályozásáról, illetve a megakadályozás megszüntetéséről rendelkező határozatainak, végzéseinek és az Szjtv. 36/K. § (1) bekezdése vagy az Fgytv. 48/E. §-a szerinti értesítéseknek eleget tegyenek, illetve a végrehajtást a hozzáférhetetlenné tett adatra irányuló keresés eredményeként talált vagy a tárolt változat elérhetőségének nem biztosításával elősegítsék.
-
-(2) Mentesül a KEHTA-hoz való csatlakozási kötelezettség alól az a nyilvános internethozzáférés-szolgáltatást nyújtó szolgáltató, amely kizárólag olyan más elektronikus hírközlési szolgáltatón keresztül csatlakozik a Budapesti Adatkicserélő Központhoz (BIX) és a nemzetközi adatkicserélő központokhoz, amely szolgáltató már csatlakozott a KEHTA-hoz.
-
-(3) A KEHTA és a hozzáférést biztosító elektronikus hírközlési szolgáltatók, illetve a kereső- és gyorsítótár-szolgáltatók közötti adatcsere elektronikus formában, hitelesített adatkapcsolat útján történik. A bíróság, illetve a külön törvényben meghatározott hatóság és a Hatóság közötti elektronikus kapcsolattartás az ajánlott elektronikus kézbesítési szolgáltatás útján történik.
-
-(4) A Hatóság a hozzáférést biztosító elektronikus hírközlési szolgáltató vagy a kereső- és gyorsítótár-szolgáltató kérésére – a rendelkezésére álló technikai lehetőségekhez képest – közreműködik a határozatok, végzések és az Szjtv. 36/K. § (1) bekezdése vagy az Fgytv. 48/E. §-a szerinti értesítések végrehajtásához szükséges technikai környezet biztosításában.
-
-(5) Ha a Hatóság az elektronikus adat ideiglenes és végleges hozzáférhetetlenné tételében a (4) bekezdés szerint közreműködik, az érintett hozzáférést biztosító elektronikus hírközlési szolgáltatóval és a kereső- és gyorsítótár-szolgáltatóval közigazgatási szerződést köt. A közreműködés keretében a Hatóság a közigazgatási szerződésben meghatározott módon és feltételekkel hozzáférést biztosít az érintett hozzáférést biztosító elektronikus hírközlési szolgáltató vagy a kereső- és gyorsítótár-szolgáltató részére olyan technikai segítségnyújtó rendszerhez, amely műszaki jellemzőinél fogva alkalmas a hozzáférhetetlenné tétel megvalósítására.
-
-(6) A Magyarország területén található adatkicserélő központok, így különösen a Budapest Internet Exchange (BIX) kötelesek közreműködni az e § szerinti intézkedések végrehajtásában.
-
-(7) A Hatóság ajánlást adhat ki az e § szerinti hozzáférhetetlenné tételi kötelezettség teljesítésének módjára vonatkozó legjobb gyakorlatokról, illetve felhasználói segítséget nyújt a bíróság, a hozzáférést biztosító elektronikus hírközlési szolgáltatók és a kereső- és gyorsítótár-szolgáltatók számára a KEHTA kezeléséhez.
-
-### A Hatóság és az elektronikus hírközlési szolgáltatók közreműködése egyes gyermekpornográf tartalmak hozzáférhetetlenné tételében
-
-159/D. § (1) A hozzáférést biztosító elektronikus hírközlési szolgáltatók és a kereső- és gyorsítótár-szolgáltatók jogosultak a Nemzetközi Bűnügyi Rendőrség Szervezete (INTERPOL) által fenntartott, a gyermekpornográf felvételek elérhetetlenné tételét szolgáló listán szereplő elektronikus adatok hozzáférhetetlenné tételére.
-
-(2) A 159/C. § (5) bekezdésében hivatkozott technikai segítségnyújtó rendszerhez csatlakozott hozzáférést biztosító elektronikus hírközlési szolgáltatók és kereső- és gyorsítótár-szolgáltatók részére – erre irányuló igény esetén, a 159/C. § (5) bekezdésében foglalt közigazgatási szerződésben meghatározott módon és feltételekkel – a Hatóság a technikai segítségnyújtó rendszer útján elérhetetlenné teszi az (1) bekezdésben nevesített listán szereplő elektronikus adatokat.
-
-### Az előfizetői listák, az előfizetői névjegyzékek,
-
-címtárak
+### Az előfizetői listák, az előfizetői névjegyzékek,címtárak
 
 160. § (1) A szolgáltató előfizetői listában tartja nyilván az előfizető azonosításához és az általa igénybe vett szolgáltatáshoz szükséges azon adatokat, amelynek a szolgáltató általi adatkezelését e törvény vagy külön jogszabály lehetővé teszi.
 
-(2) A szolgáltató valamennyi helyhez kötött telefonszolgáltatást igénybe vevő előfizetőjéről évente az Elnök rendelete szerint előírt formában előfizetői névjegyzéket köteles készíteni. Az elektronikus hírközlési szolgáltató vagy más információs szolgáltató létrehozhat címtárakat, amelyben az előfizetőkre vonatkozó adatok meghatározott csoportosításban szerepelnek.
+(2) A szolgáltató valamennyi helyhez kötött telefonszolgáltatást igénybe vevő előfizetőjéről évente nyomtatott (telefonkönyv) vagy elektronikus formában előfizetői névjegyzéket köteles készíteni. Az elektronikus hírközlési szolgáltató vagy más információs szolgáltató létrehozhat címtárakat, amelyben az előfizetőkre vonatkozó adatok meghatározott csoportosításban szerepelnek.
 
 (3) Az előfizetői névjegyzékek vagy címtárak az előfizető önkéntes és egyértelmű hozzájárulása nélkül csak annyi adatot tartalmazhatnak róla, amennyi azonosításához feltétlenül szükséges.
 
 (4) Az előfizető számára külön költség nélkül biztosítani kell azt a jogot, hogy kérésére:
 
 - a) kimaradjon a nyomtatott vagy elektronikus névjegyzékből;
-- b) az előfizetői névjegyzékben feltüntessék, hogy személyes adatai nem használhatóak fel – az előfizető rendelkezése szerint – közvetlen üzletszerzés, tájékoztatás, közvélemény-kutatás vagy piackutatás céljából, akkor, ha e célok valamelyikét az előfizető az előfizetői szerződésben kifejezetten megjelölte;
+- b) az előfizetői névjegyzékben feltüntessék, hogy személyes adatai nem használhatóak fel közvetlen üzletszerzés, tájékoztatás, közvélemény- vagy piackutatás céljára;
 - c) lakcímét csak részben tüntessék fel az előfizetői névjegyzékben.
 
-(5)
+(5) A 117. § d) pontja szerinti előfizetői névjegyzéket az előfizető – jogszabályban meghatározott feltételek mellett – térítésmentesen veheti át.
 
 161. § (1) Az elektronikus hírközlési szolgáltatók az előfizetői névjegyzékben és a címtárban levő adatokat arra használhatják, hogy szolgáltatásként tájékoztatást nyújtsanak azok adataiból. A szolgáltatás nyújtása keretében nem lehet több adatot közölni, mint amennyi az előfizetői névjegyzékben és címtárban megjelenik, kivéve, ha az érintett további adatok szolgáltatásához hozzájárult.
 
-(2) Technikai megoldásokkal kell biztosítani az előfizetői névjegyzékből és a címtárból történő lekérdezés biztonságát és az azzal való visszaélés megakadályozását, különösen az adatok jogosulatlan vagy indokolatlan mértékű letöltését, továbbá azt, hogy más tagállam felhasználói hívás vagy SMS útján közvetlenül hozzáférjenek a másik tagállam tudakozószolgáltatásához.
+(2) Technikai megoldásokkal kell biztosítani az előfizetői névjegyzékből és a címtárból történő lekérdezés biztonságát és az azzal való visszaélés megakadályozását, különösen az adatok jogosulatlan vagy indokolatlan mértékű letöltését.
 
 (3) Tilos az elektronikus előfizetői névjegyzékben és címtárakban levő adatok összekapcsolása más adattal vagy nyilvántartással, kivéve, ha az elektronikus hírközlési szolgáltató részére működtetési okokból szükséges.
 
-### Az adatok felhasználása közvetlen üzletszerzési
+### Az adatok felhasználása közvetlen üzletszerzésivagy tájékoztatási célra
 
-vagy tájékoztatási célra
-
-162. § (1) Az emberi beavatkozás nélküli, automatizált hívórendszer vagy előfizetői kapcsolat létrehozására szolgáló más automatizált eszköz az előfizető tekintetében
-
-- a) csak akkor alkalmazható közvetlen üzletszerzés, tájékoztatás, piackutatás céljára, ha ehhez az előfizető előzetesen hozzájárult,
-- b) nem alkalmazható közvélemény-kutatás céljára, ha azt az előfizető
-  - ba) a 160. § (4) bekezdés a) pontja szerint,
-  - bb) a 160. § (4) bekezdés b) pontja szerint a közvélemény-kutatás célját kifejezetten megjelölő vagy
-  - bc) az előfizetői szolgáltatás igénybevételének időtartama alatt,
-
-a hírközlési szolgáltató részére egy évben legalább egy alkalommal megtett nyilatkozatával a kapcsolatfelvételt ellenzi.
+162. § (1) Az emberi beavatkozás nélküli, automatizált hívórendszer vagy előfizetői kapcsolat létrehozására szolgáló más automatizált eszköz az előfizető tekintetében csak akkor alkalmazható közvetlen üzletszerzés, tájékoztatás, közvélemény- és piackutatás céljára, ha ehhez az előfizető előzetesen hozzájárult.
 
 (2) Tilos közvetlen üzletszerzés, tájékoztatás, közvélemény- vagy piackutatás, valamint a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény (a továbbiakban: Grt.) 6. §-ának hatálya alá nem tartozó közvetlen üzletszerzés, illetve egyéb, a Grt. szerinti reklámnak nem minősülő tájékoztatás céljából olyan előfizetővel kapcsolatot kezdeményezni, aki úgy nyilatkozott, hogy nem kíván ilyen kapcsolatfelvételt fogadni.
 
 (3) Az előfizető kifejezett hozzájárulása ellenére sem lehetséges olyan közvetlen üzletszerzési, tájékoztatási, közvélemény- és piackutatási célú küldemény továbbítása, amelyből nem ismerhetők fel a feladó azonosító adatai.
 
-(4) A beszédcélú elektronikus hírközlési szolgáltatást nyújtó szolgáltatók kötelesek az egyetemes szolgáltatóknak átadni – az előfizető hozzájárulásától függően – az Elnök rendeletében meghatározott, az előfizetőkre vonatkozó, a beszédcélú elektronikus hírközlési szolgáltatást nyújtó szolgáltatók által e törvény alapján kezelt adatokat. Az így átadott előfizetői adatok ettől eltérő célra nem használhatók fel.
-
-(5) Ha a közvélemény-kutatási célú kapcsolatfelvételre nyilvános adattár felhasználása nélkül, véletlenszerűen, a rendelkezésre álló számtartomány alapján képzett telefonszám (a továbbiakban: véletlenszerű számképzés) tárcsázásával kerül sor, a kapcsolatfelvétel során a (2) bekezdés rendelkezéseit nem kell alkalmazni, kivéve, ha az előfizető
-
-- a) a 160. § (4) bekezdés a) pontja szerint vagy
-- b) a 160. § (4) bekezdés b) pontja szerint a közvélemény-kutatás célját kifejezetten megjelölő vagy
-- c) az előfizetői szolgáltatás igénybevételének időtartama alatt,
-
-a hírközlési szolgáltató részére egy évben legalább egy alkalommal megtett nyilatkozatával a kapcsolatfelvételt ellenzi.
-
-(5a) Ha az előfizető az előfizetői szolgáltatás igénybevételének időtartama alatt évente legalább egy alkalommal az (5) bekezdés c) pontja szerinti nyilatkozatát nem teszi meg, azt úgy kell tekinteni, hogy a közvélemény-kutatási célú hívások fogadását nem ellenzi. Ez esetben a szolgáltató köteles a kapcsolatfelvételt biztosítani a közvélemény-kutató és az előfizető között.
-
-(5b) Amennyiben a szolgáltató az (5a) bekezdésben foglalt kötelezettségének nem tesz eleget, úgy az éves árbevétele 0,3%-ának megfelelő összegű bírságot köteles megfizetni.
-
-(6) A közvélemény-kutató köteles az általa közvélemény-kutatás céljára alkalmazott hívószámát a Hatóság és a hírközlési szolgáltató részére, a közvélemény-kutatás megkezdését megelőzően harminc nappal átadni. A hívószámok listáját a Hatóság a honlapján közzéteszi.
-
-(7) Az (1) és (5) bekezdésben meghatározott közvélemény-kutatás vonatkozásában a 160. § (4) bekezdés a) és – ha az előfizető a nyilatkozatában a közvélemény-kutatási célt kifejezetten megjelölte – b) pontja, továbbá az (1) bekezdés b) pont bc) alpontja, valamint az (5) bekezdés c) pontja szerinti nyilatkozatot tett előfizetőre vonatkozó korlátozás biztosítása érdekében a hívásvégződtetési forgalmi szolgáltatást nyújtó szolgáltató a közvélemény-kutatót mint hívó felet letiltja.
-
-(8) A véletlenszerű számképzést követő tárcsázás esetén a közvélemény-kutatási célú kapcsolatfelvételt kezdeményező, a kutatás és a közvetlen üzletszerzés célját szolgáló név- és lakcímadatok kezeléséről szóló 1995. évi CXIX. törvény (a továbbiakban: Kktv.) szerinti közvélemény-kutató szerv köteles az előfizetőt arról tájékoztatni, hogy az előfizető telefonszám adata véletlenszerű számképzésből képződött és a közvélemény-kutatást a közvélemény-kutató szerv milyen célból végzi.
-
-(9) Az (5) bekezdésben meghatározott kapcsolatfelvételre kizárólag a Kktv. szerinti közvélemény-kutatás céljából kerülhet sor.
+(4) A beszédcélú elektronikus hírközlési szolgáltatást nyújtó szolgáltatók kötelesek az egyetemes szolgáltatóknak átadni – az előfizető hozzájárulásától függően – az előfizetőkre vonatkozó azon adatokat, amelyek a 117. § c) és d) pontjában foglalt szolgáltatás nyújtása érdekében szükségesek. Az így átadott előfizetői adatok ettől eltérő célra nem használhatók fel.
 
 ## HATODIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
 ### Vegyes rendelkezések
 
-163. § (1) Az e törvény felhatalmazása alapján kiadott jogszabályban és az e törvény alapján megállapított, a központi költségvetés részére, illetve a Hatóságnak fizetendő díjak, illetőleg bírságok, valamint az Egyetemes Elektronikus Hírközlési Kassza részére teljesítendő befizetések adók módjára behajtandó köztartozásnak minősülnek.
+163. § (1) Az e törvény felhatalmazása alapján kiadott jogszabályban és az e törvény alapján megállapított, a központi költségvetés részére, illetve a hatóságnak fizetendő díjak, illetőleg bírságok, valamint az Egyetemes Elektronikus Hírközlési Kassza részére teljesítendő befizetések adók módjára behajtandó köztartozásnak minősülnek.
 
 (2) Az e törvény hatálybalépésekor hatályban lévő, egyetemes szolgáltatás igénybevételére irányuló előfizetői szerződések esetén az egyetemes szolgáltató a 111. §-ban meghatározott közvetítőválasztást előválasztás vagy hívásonkénti közvetítőválasztás útján köteles biztosítani.
 
@@ -3478,86 +2337,11 @@ a hírközlési szolgáltató részére egy évben legalább egy alkalommal megt
 
 (5) A (4) bekezdésben meghatározott fejezeti kezelésű előirányzat terhére állami hozzájárulásként támogatás nyújtható a szolgáltatók számára jogszabályban előírt kötelező fejlesztésekhez.
 
-(6) Az elektronikus hírközlési szolgáltatók általános szerződési feltételeiket, és az előfizetői szerződéseket – külön jogszabály eltérő rendelkezése hiányában – 2011. november 1-ig kötelesek e törvény szerint módosítani. Ebben az esetben a hatályban lévő egyedi előfizetői szerződések az általános szerződési feltételek e törvény szerinti módosítása által érintett részek tekintetében a törvény erejénél fogva módosulnak, erről külön értesítést az elektronikus hírközlési szolgáltatók az előfizetőknek nem kötelesek megküldeni. Az újonnan kötött előfizetési szerződésekre 2011. november 1-ig a jelen törvény 2011. július 1. napján hatályos előfizetői szerződésekre vonatkozó rendelkezéseit kell alkalmazni. A 142.§ (2) bekezdésében foglalt, az előre fizetett díjú előfizetői szolgáltatást igénybe vevő előfizető részére történő hívásrészletező kiállítását a szolgáltatók 2012. február 1-től kötelesek biztosítani.
+163/A. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály hírközlési szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
-(7) Az Eht. 7. § (4) bekezdése szerinti felülvizsgálatot az egyes elektronikus hírközlési tárgyú törvények módosításáról szóló 2011. évi CVII. törvény hatálybalépését követő két éven belül kell elvégezni.
+(2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a hatóságnak vagy – a Kormány rendeletében meghatározott szakterületek esetében – a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara) bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
-163/A. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály hírközlési szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, rendelkezik az Elnök és – a Kormány rendeletében meghatározott szakterületek esetében – a Kormány rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
-
-(2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a Hatóságnak és – a Kormány rendeletében meghatározott szakterületek esetében – a magyar építészetről szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara) bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
-
-(3) A Hatóság és – a Kormány rendeletében meghatározott szakterületek esetében – a kamara a szakértői tevékenység végzésére jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
-
-163/B. § (1) A hatályban lévő koncessziós szerződés tekintetében a szolgáltató köteles 2012. augusztus 31-ig kezdeményezni az Elnöknél szerződése hatósági szerződéssé történő átalakítását. E határidő elmulasztása esetén az Elnök hivatalból lefolytatja a szerződés átalakítására irányuló eljárást.
-
-(2) Az (1) bekezdésben meghatározott eljárás eredményeképpen megkötött hatósági szerződés nem tartalmazhat a szolgáltató számára kedvezőtlenebb feltételeket, mint a korábbi koncessziós szerződés, kivéve, ha a szolgáltató azokat kifejezetten elfogadta.
-
-(3) Amennyiben az eljárás eredményeként hatósági szerződés a felek között nem jön létre, az Elnök hatósági határozatában rögzíti a szolgáltató korábbi koncessziós szerződésben foglalt frekvenciahasználati jogosultságának tartalmát. A hatósági határozat nem tartalmazhat a szolgáltató számára kedvezőtlenebb feltételeket, mint a korábbi koncessziós szerződés.
-
-(4) Az (1) bekezdésben meghatározott eljárást az Elnöknek kilencven nap alatt kell lefolytatnia.
-
-163/C. § (1) A Kassza 2013. január 1-jével megszűnik, jogutódja a Hatóság.
-
-(2) A Kassza megszűnésekor fennálló vagyoni, pénzügyi és jövedelmi helyzetéről, valamint működéséről a számvitelről szóló törvény szerinti beszámolót és zárómérleget készít.
-
-(3) A Kassza megszűnésekor még ki nem fizetett támogatásokat a Hatóság fizeti ki e törvénynek, valamint a 118. § (2) bekezdésben meghatározott elnöki rendeletnek az egyetemes szolgáltatás finanszírozására vonatkozó szabályai szerint. Az elektronikus hírközlési szolgáltatók által a Kassza megszűnéséig be nem fizetett hozzájárulások beszedéséről a végrehajtás szabályai szerint a Hatóság gondoskodik. A Kasszába fizetendő hozzájárulás adók módjára behajtandó köztartozásnak minősül.
-
-(4) A Kassza megszűnésekor fennálló vagyona csak az egyetemes szolgáltatás nyújtásából származó, jelen törvény szerinti elkerülhető és ezért méltánytalan többlettehernek minősülő költségek megtérítésére, a piacelhagyás következtében szükséges átmeneti intézkedések miatt felmerülő rendkívüli kiadások fedezésére, a 10. § (1) bekezdés 20. pontja szerinti feladat ellátására, továbbá a Hatóság tudatos fogyasztói döntéshozatali kultúrájának fejlesztésére használható fel.
-
-163/E. § E törvény rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatályba lépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
-
-163/F. § E törvénynek a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvénnyel megállapított 98/B. §-át a 2027. január 1-ét követően indult építésügyi hatósági engedélyezési eljárásokban kell alkalmazni.
-
-163/G. § A Kerekasztal a 149/A. § (2) bekezdésében említett ajánlást első ízben 2014. május elsejéig fogadja el és teszi közzé.
-
-163/H. § (1) A Rendőrségről szóló 1994. évi XXXIV. törvény, valamint az elektronikus hírközlésről szóló 2003. évi C. törvény módosításáról szóló 2016. évi CXXVIII. törvény hatályba lépésétől számított 15 napon belül a szolgáltató az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatással rendelkező előfizetőit a 129. § (2) bekezdésének megfelelő személyazonosságának ellenőrzése teljesítése céljából a 144. § (4) bekezdés c) pontja szerint értesíti. 2017. július 1-jén megszűnik azon előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződés, amely vonatkozásában az előfizető személyazonosságának ellenőrzése 2017. június 30-ig nem teljesül sikeresen.
-
-(2) Az Elnök rendeletében meghatározott számot meghaladó előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatással rendelkező előfizető 2017. június 30-ig köteles nyilatkozni arról, hogy az Elnök rendeletében meghatározott számot meghaladó előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződései közül melyik szerződést kívánja fenntartani. 2017. július 1-jén megszűnik azon előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződés, amelyet az előfizető nem kíván fenntartani.
-
-163/I. § (1) Az elektronikus hírközlésről szóló 2003. évi C. törvény módosításáról szóló 2017. évi LXXXVIII. törvénnyel (a továbbiakban: 2017. évi LXXXVIII. törvény) megállapított 127. § (4d) bekezdést a 2017. évi LXXXVIII. törvény hatálybalépését megelőzően megkötött, a 2017. évi LXXXVIII. törvény hatálybalépésekor hatályos határozott időtartamú előfizetői szerződésekre is alkalmazni kell.
-
-(2) A 2017. évi LXXXVIII. törvénnyel megállapított 127. § (6) bekezdést és 134. § (14) bekezdést a 2017. évi LXXXVIII. törvény hatálybalépését megelőzően megkötött határozott időtartamú előfizetői szerződésekre is alkalmazni kell, azzal, hogy a 134. § (14) bekezdésében szabályozott tájékoztatási kötelezettségnek a szolgáltató az olyan határozott időtartamú előfizetői szerződések esetében köteles eleget tenni, amelyekben a szerződés időtartama a 2017. évi LXXXVIII. törvény hatálybalépését követő 90. napot követően telik el.
-
-163/J. § Az elektronikus hírközlésről szóló 2003. évi C. törvény módosításáról szóló 2017. évi CXXXVIII. törvénnyel megállapított 132. § (10) és (11) bekezdését a 2017. évi LXXXVIII. törvény hatálybalépését megelőzően megkötött szerződésekre is alkalmazni kell.
-
-163/K. § A 83/C. § szerinti felmérést első alkalommal 2023. december 21-ig kell elvégezni.
-
-163/L. § Az egyetemes szolgáltató kijelölése tárgyában 2020. december 20-a előtt meghozott, 2020. december 31-én hatályos és véglegessé vált hatósági határozat szerinti – a 117. § (1) bekezdésben meghatározott szolgáltatásokon kívüli – egyetemes szolgáltatáselemeket az Elnök legkésőbb 2021. december 21-ig felülvizsgálja és dönt ezen szolgáltatáselemek egyetemes szolgáltatásként történő fenntartásáról, illetve ezen egyéb szolgáltatások tekintetében az egyetemes szolgáltató kijelöléséről az egyetemes szolgáltatással összefüggő szabályokról szóló rendeletében foglalt szabályok szerint. Ha az Elnök e § szerinti szolgáltatáselemek egyetemes szolgáltatásként történő fenntartásáról dönt, a határozathozatalt követően három évente felülvizsgálja az ezen szolgáltatáselemek tekintetében előírt egyetemes szolgáltatási kötelezettségeket és dönt azok fenntartásáról, módosításáról vagy megszüntetéséről.
-
-163/M. § A Hatóság honlapján közzéteszi a Kódex alkalmazására vonatkozó információkat és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben hirdetményt tesz közzé ezen információk közzétételének módjáról és elérhetőségéről. A hirdetmény közzétételével egyidejűleg a hirdetmény egy példányát a Hatóság megküldi a Bizottságnak. A hirdetményt első alkalommal 2020. december 21-ig kell közzétenni, ezt követően minden olyan esetben, ha a közzétett információk megváltoztak.
-
-163/N. § (1) Az e törvény XVI. Fejezetének az elektronikus hírközlésről szóló 2003. évi C. törvénynek az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló irányelv átültetésének kötelezettségével összefüggő módosításáról szóló 2020. évi LXXXV. törvénnyel megállapított rendelkezéseit 2021. június 30-ától kell alkalmazni.
-
-(2) Az elektronikus hírközlési szolgáltató az általános szerződési feltételeit és az egyedi előfizetői szerződéseit 2021. június 30-ig köteles e törvény XVI. Fejezetének az elektronikus hírközlésről szóló 2003. évi C. törvénynek az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló irányelv átültetésének kötelezettségével összefüggő módosításáról szóló 2020. évi LXXXV. törvénnyel megállapított rendelkezéseinek megfelelően felülvizsgálni és módosítani.
-
-163/O. § (1) E törvénynek az egyes közjogi tárgyú törvények módosításáról szóló 2021. évi CXIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 162. § (1) bekezdését első alkalommal a Módtv2. hatálybalépését követő hatvanadik naptól kell alkalmazni, akként, hogy
-
-- a) a 162. § (1) bekezdés a) pontja tekintetében az előfizető által a Módtv2. hatálybalépése előtt tett nyilatkozatot kell alapul venni, valamint
-- b) a 162. § (1) bekezdés b) pontja tekintetében – a 160. § (4) bekezdés b) pontja szerinti nyilatkozat megtételéig – az előfizetőre vonatkozóan azt kell feltételezni, hogy a 162. § (1) bekezdése szerinti hívórendszer vagy más automatizált eszköz alkalmazását, valamint a 162. § (5) bekezdése szerinti kapcsolatfelvételt nem ellenzi.
-
-(2) A hírközlési szolgáltató legkésőbb 2022. május 30. napjáig tájékoztatja az előfizetőt az (1) bekezdés tartalmáról, valamint biztosítja az előfizető részére a 162. § (1) bekezdés b) pont bc) alpontjában, valamint (5) bekezdés c) pontjában meghatározott nyilatkozat megtételének lehetőségét.
-
-(3) A közvélemény-kutató a Módtv2. által megállapított 162. § (6) bekezdése szerinti kötelezettségét első alkalommal a Módtv2. hatálybalépését követő harminc napon belül teljesíti.
-
-163/P. § (1) E törvénynek a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvénnyel megállapított 86/B. § (1) bekezdését e rendelkezés hatálybalépését követően az SZTFH elnökének az elektronikus hírközlő hálózat üzemeltetője által teljesítendő kiberbiztonsági követelményekre vonatkozó részletes szabályokat tartalmazó rendelete hatálybalépését követő 30. naptól kell alkalmazni.
-
-(2) E törvénynek a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvénnyel megállapított 86/B. § (2) bekezdését e rendelkezés hatálybalépését követően az SZTFH elnökének az elektronikus hírközlési szolgáltatáshoz használt rendszerek nemzeti kiberbiztonsági tanúsítási rendszeréről szóló rendelete hatálybalépését követő 180. naptól kell alkalmazni.
-
-163/Q. § (1) Az Elnök a gyermekek védelme érdekében az internetes pornográf tartalmak elérhetőségének korlátozásáról, valamint egyes elektronikus kereskedelmi szolgáltatással és reklámtevékenységgel összefüggő törvények módosításáról szóló 2024. évi XLIX. törvénnyel (a továbbiakban: Módtv3.) megállapított 149/F. § (3) bekezdése szerinti listát a Módtv3. hatálybalépését követő 120 napon belül állítja össze.
-
-(2) A Módtv3. által megállapított 149/F. §
-
-- a) (1) bekezdésének rendelkezéseit 2026. január 1-től kell alkalmazni a Magyarországon letelepedett mobil internet-hozzáférési szolgáltatást nyújtó szolgáltató mobil internet-hozzáférési szolgáltatása,
-- b) (1) és (2) bekezdésének rendelkezéseit 2026. május 1-től kell alkalmazni a 10 000 vagy annál több előfizetővel rendelkező, Magyarországon letelepedett internet-hozzáférés szolgáltatást nyújtó szolgáltató,
-- c) (1) és (2) bekezdésének rendelkezéseit 2027. január 1-től kell alkalmazni a 10 000-nél kevesebb előfizetővel rendelkező, Magyarországon letelepedett internet-hozzáférés szolgáltatást nyújtó szolgáltató
-
-esetében.
-
-(3) A (2) bekezdés alkalmazásában mobil internet-hozzáférési szolgáltatás: olyan rádiótávközlő hálózaton megvalósuló internet-hozzáférési szolgáltatás, amelyet a végfelhasználó a szolgáltatási területen belül mozgás közben is igénybe vehet.
-
-(4) A Módtv3. által megállapított 149/F. § (1) és (2) bekezdését a (2) bekezdés szerinti időpontokat megelőzően megkötött előfizetői szerződésekre is alkalmazni kell azzal, hogy a (2) bekezdésben meghatározott időpontokat követő egy éven belül az érintett szolgáltató köteles legalább harminc napos határidő biztosításával ingyenesen felajánlani az egyéni előfizető számára a 149/F. §-ban meghatározottak szerinti kiskorú felhasználóra tekintettel nyújtott biztonságos szolgáltatás igénybevételének lehetőségét.
-
-163/R. § E törvénynek az online csalások elleni további hatékony fellépés érdekében szükséges és egyéb törvények módosításáról szóló 2024. évi LXIV. törvénnyel megállapított 91/B. §-át a nemzeti számozási tervben meghatározott földrajzi és a rövid számokat hívóazonosítóként használó hívások tekintetében 2025. október 15-től, a mobilszámokat hívóazonosítóként használó hívások tekintetében 2026. június 1-jétől kell alkalmazni.
+(3) A hatóság, illetve a kamara a szakértői tevékenység végzésére jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
 ### Hatálybalépés
 
@@ -3569,153 +2353,208 @@ esetében.
 
 (4) E törvény 53. § (4) bekezdését, az 54. § (2) bekezdését, az 56. §-t és a 65. §-t a (3) bekezdés szerinti időponttól kell alkalmazni. Amennyiben e törvény szerinti egyes eljárások során e rendelkezések szerinti eljárási cselekményeket is el kell végezni, úgy ezen eljárások a (3) bekezdés szerinti időpontig felfüggesztésre kerülnek.
 
-165. § E törvénynek a Módtv.-vel megállapított eljárási rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
+165–166. §
 
-#### 166. §
-
-167. § (1) A Hatóság a Nemzeti Hírközlési Hatóság és a Hírközlési Felügyelet jogutódja.
+167. § (1) A hatóság a Hírközlési Felügyelet jogutódja.
 
 (2)
 
-(3) A Hatóság jogelődje nyilvántartásait átvezeti és a nyilvántartások hiányainak pótlása iránt intézkedik.
+(3) A hatóság jogelődje nyilvántartásait átvezeti és a nyilvántartások hiányainak pótlása iránt intézkedik.
 
-(4)
+(4)–(5)
 
-(5)
+### Átmeneti rendelkezések
 
-#### 168. §
+168. § (1) Az e törvény hatálybalépésekor valamely meghatározó piacon jelentős piaci erővel rendelkező szolgáltatóra az e törvényben vagy 2003. december 31-én hatályos, vagy azt követően hatályba lépő más jogszabályban az ilyen szolgáltatóként történt azonosítására tekintettel megállapított kötelezettség – a jelen törvény szerinti eltérésekkel – addig az időpontig alkalmazandó, amikor a hatóság által az 52. § szerint meghatározott, az adott meghatározó piac helyébe lépő valamennyi érintett piacon a hatóságnak a jelentős piaci erővel rendelkező bármely szolgáltatóra az e törvény hatálybalépését követően első alkalommal kötelezettséget előíró határozata szerinti, az 55. § (2) bekezdésében meghatározott átmeneti időszak eltelik.
 
-#### 169. §
+(2) Az (1) bekezdésben foglaltak nem érintik a hatóságnak az 56. § szerinti azon jogát, hogy a korábban jogszabály alapján alkalmazandó kötelezettségeket e törvény keretei között határozatban írja elő.
 
-#### 170. §
+169. §
 
-#### 171. §
+170. § (1) A 168. § (1) bekezdésében meghatározott időpontig az e törvény hatálybalépésekor jelentős piaci erővel rendelkező szolgáltatók a hálózati szerződések alapján fizetendő ellenértéket objektív feltételek alapján, az áttekinthetőség, és az egyenlő elbánás elvét követve, ellenőrizhetően kötelesek kialakítani.
 
-#### 172. §
+(2) A számviteli kimutatások elkülönített vezetésére köteles az e törvény hatálybalépésekor a távbeszélő szolgáltatások piacán jelentős piaci erővel rendelkező szolgáltató és a mobil rádiótelefon szolgáltatások piacán jelentős piaci erővel rendelkező szolgáltató. Ezen szolgáltatók kötelesek – a 105. § (3) bekezdés, illetve a (4) bekezdés szerinti szabályoknak megfelelően – az elektronikus hírközlési tevékenységgel összefüggő egyes üzletágak bevételeit, költségeit, eszközeit és forrásait számviteli kimutatásaikban elkülönítetten a 105. § (3) bekezdése, illetve e § (4) bekezdése szerinti módszer alkalmazásával kiszámított, harmadik feleknek nyújtott szolgáltatások árával összemérhető transzferárak alkalmazásával kimutatni oly módon, mintha ezen tevékenységeket elkülönült gazdálkodó szervezet végezte volna.
 
-#### 173. §
+(3) Az e törvény hatálybalépésekor szétválasztásra kötelezett szolgáltató az e törvény szerinti számviteli kimutatást először 2004. május 31-éig köteles a hatóságnak benyújtani, a 2003. év auditált számviteli adatai alapján.
 
-#### 174. §
+(4) A hatóság a 168. § (1) bekezdés szerinti időpontig a számviteli kimutatásokkal kapcsolatos részletes szabályokat, a kötelezett szolgáltatók számviteli szétválasztással kapcsolatos jogait és kötelességeit a miniszter rendeletben állapítja meg.
 
-#### 175. §
+(5) E törvény hatálybalépésekor
 
-#### 176. §
+- a) a távbeszélő szolgáltatási piacon jelentős piaci erővel rendelkező szolgáltató
+  - aa) hozzáférésre, illetve összekapcsolásra, és
+  - ab) a helyi hurok átengedésre vonatkozó szerződések alapján kért ellenértéket,
+- b) a bérelt-vonali szolgáltatási piacon jelentős piaci erővel rendelkező szolgáltató az összekapcsolásra vonatkozó szerződések alapján kért ellenértéket,
+- c) az összekapcsolási piacon jelentős piaci erővel rendelkező szolgáltató a helyhez kötött telefon szolgáltatótól az elektronikus hírközlő hálózatok összekapcsolására vonatkozó szerződések alapján kért ellenértéket
 
-#### 177. §
+a 168. § szerinti időpontig a szolgáltatások bevételeinek, költségeinek, eszközeinek és forrásainak elkülönített kimutatásával és ellenőrizhetően köteles kialakítani, azzal, hogy az aa) alpont, b) és c) pont szerinti szolgáltatás esetében a hosszú távú előremutató különbözeti költségek költségszámítási módszere (LRIC), míg az ab) alpont szerinti szolgáltatás esetében a múltbeli költségeken alapuló teljesen felosztott költségek költségszámítási módszere (HCA-FDC) alkalmazandó. Az ellenértékeket alkalmazásuk előtt, jóváhagyás céljából az elektronikus hírközlési szolgáltató akkor is köteles a hatósághoz benyújtani, ha nem készít referenciaajánlatot.
 
-#### 178. §
+(6) A 168. § (1) bekezdés szerinti időpontig alkalmazandó költségszámítási módszert külön jogszabály tartalmazza.
 
-#### 179. §
+171. § A 168. § (1) bekezdésében meghatározott időpontig az e törvény hatálybalépésekor jelentős piaci erővel rendelkező szolgáltatók kötelezettségeiket a 103. §, a 107. §, a 110. § és a 112–115. §-ok figyelembevételével kötelesek teljesíteni.
 
-#### 180. §
+172. § (1) A 168. § (1) bekezdésében meghatározott időpontig a távbeszélő, illetve bérelt-vonali szolgáltatások piacán jelentős piaci erővel rendelkező, és ezen időpontot megelőzően ezen szolgáltatások nyújtásához szükséges elektronikus hírközlő hálózattal rendelkező szolgáltató összekapcsolásra vonatkozó – a 112. § (1) bekezdésének megfelelő – referenciaajánlatot köteles összeállítani, és a hatóság részére 2004. január 15-éig, valamint a számviteli szétválasztás alapján 2005. évre vonatkozóan 2004. augusztus 31-éig jóváhagyás céljából benyújtani.
 
-#### 181. §
+(2) Az (1) bekezdés szerinti szolgáltató a 168. § (1) bekezdésében meghatározott időpontig köteles a 107. §-ban meghatározottak szerint eljárni.
 
-181/A. § A Nemzeti Hírközlési Hatóság Tanácsa elnökének és tagjainak e törvény alapján a Nemzeti Média- és Hírközlési Hatóság Elnökének kinevezésével egyidejűleg megszűnik a megbízatása.
+(3) Az összekapcsolásra, illetve hozzáférésre vonatkozó referenciaajánlatnak tartalmaznia kell:
 
-181/B. § (1) A Nemzeti Hírközlési Hatóság Hivatalának a munkáltatói jogok tekintetében a Nemzeti Média- és Hírközlési Hatóság Hivatala a jogutódja.
+- a) az összekapcsolás általános feltételeit, beleértve az előrendelést;
+- b) az összekapcsolás földrajzilag meghatározott pontjait;
+- c) az összekapcsolás lehetséges műszaki megoldásait;
+- d) az összekapcsoláshoz alkalmazható átviteli utakat;
+- e) a megajánlott hálózati (hozzáférési), illetve ehhez kapcsolódó szolgáltatásokat;
+- f) az interfészek megjelölését;
+- g) a szolgáltatásminőséget (beleértve az üzemeltetés, karbantartás feltételeit is) és a rendelkezésre álló kapacitásokat;
+- h) a támogató (kezelői, segélykérő, tudakozó) szolgáltatásokat;
+- i) az emelt szintű szolgáltatásokat;
+- j) a közvetítőválasztás feltételeit;
+- k) a számhordozhatóság feltételeit;
+- l) a közös eszközhasználat feltételeit, így különösen a helymegosztás keretében a jogosult szolgáltató berendezéseinek elhelyezési lehetőségeit és a biztosítható műszaki körülményeket a kötelezett szolgáltató telephelyén vagy az elhelyezés alternatív lehetőségeit;
+- m) a fenti szolgáltatások árait és alkalmazási feltételeiket,
+- n) a felek közötti együttműködés szabályait.
 
-(2) A Nemzeti Hírközlési Hatóság Hivatalánál foglalkoztatott kormánytisztviselők és ügykezelők jogviszonya a médiát és a hírközlést szabályozó egyes törvények módosításáról szóló 2010. évi LXXXII. törvény hatálybalépésével egyidejűleg közszolgálati jogviszonnyá alakul át.
+173. § (1) A 168. § (1) bekezdésében meghatározott időpontig a távbeszélő szolgáltatások piacán jelentős piaci erejű szolgáltató (a jelen § alkalmazásában: kötelezett szolgáltató) a helyi hurok átengedésére, valamint az ehhez kapcsolódó közös eszközhasználatra referenciaajánlatot köteles összeállítani, és a hatóság részére 2004. január 15-éig, valamint a számviteli szétválasztás alapján 2005. évre vonatkozóan 2004. augusztus 31-éig jóváhagyás céljából benyújtani.
 
-181/C. § E törvénynek az elektronikus hírközlést érintő egyes törvények módosításáról szóló 2012. évi CXXX. törvénnyel megállapított rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
+(2) Az (1) bekezdés szerinti szolgáltató a 168. § (1) bekezdésében meghatározott időpontig köteles a 107. §-ban meghatározottak szerint eljárni.
 
-181/D. § E törvénynek a településfejlesztéssel, a településrendezéssel és az építésüggyel összefüggő egyes törvények módosításáról szóló 2012. évi CLVII. törvénnyel megállapított rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
+(3) Amennyiben a kötelezett szolgáltató a helyi hurok átengedésére és az ehhez kapcsolódó közös eszközhasználatra (a továbbiakban: átengedés) referenciaajánlatot köteles közzétenni, annak tartalmaznia kell legalább:
 
-181/E. § E törvénynek az elektronikus hírközlésről szóló 2003. évi C. törvény módosításáról szóló 2016. évi XLIII. törvénnyel megállapított 99/A. §-át azon új épületekre, valamint meglévő épületek felújítására, helyreállítására és korszerűsítésére kell alkalmazni, amelyek esetében
+- a) az átengedéssel kapcsolatos általános feltételeket, beleértve az előrendelést;
+- b) a hozzáférési hálózat hálózati végpontjához való hozzáférés lehetőségeit;
+- c) helyi hurok részleges átengedése esetén a helyi hurokban rendelkezésre álló átviteli kapacitáshoz való hozzáférés feltételeit;
+- d) a közös eszközhasználat feltételeit, így különösen a helymegosztás keretében a jogosult szolgáltató berendezéseinek elhelyezési lehetőségeit és a biztosítható műszaki körülményeket a kötelezett szolgáltató telephelyén vagy az elhelyezés alternatív lehetőségeit;
+- e) a hozzáférési hálózat architektúrájával kapcsolatos, az átengedési szerződés megkötéséhez szükséges minden lényeges információt;
+- f) a hozzáférési hálózatban alkalmazott fizikai áramkör lényeges műszaki jellemzőit;
+- g) a helyi hurokban alkalmazható széles sávú átvitelt biztosító technológiák berendezéseire vonatkozó specifikációkat, a más rendszerekkel való interferencia elkerüléséhez szükséges EMC követelményeket;
+- h) a fenti szolgáltatások árait és alkalmazási feltételeiket;
+- i) a felek közötti együttműködés szabályait.
 
-- a) az engedélyhez kötött építményeknél az építési engedély iránti kérelmet 2016. december 31-ét követően terjesztették elő,
-- b) bejelentéshez kötött építményeknél a bejelentést először 2016. december 31-ét követően teszik meg.
+(4) Nem áll fenn a kötelezett szolgáltató helyi hurok átengedésére vonatkozó szerződéskötési kötelezettsége, ha az átengedésre vonatkozó igény műszakilag nem valósítható meg, illetve teljesítése esetén a hálózat egysége nem őrizhető meg.
 
-181/F. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel módosított rendelkezéseit a rendelkezések hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+(5) A kötelezett szolgáltató helyi hurok átengedésére és az ehhez kapcsolódó közös eszközhasználatra vonatkozó referenciaajánlat közzétételére vonatkozó kötelezettsége a 168. § (1) bekezdésében meghatározott időpontig az e törvény hatálybalépésekor a távbeszélő piacon jelentős piaci erejű szolgáltató esetében kizárólag a helyi hurok fémes sodrott érpára tekintetében áll fenn.
+
+174. § A 168. § (1) bekezdésében meghatározott időpontot követően a hatóság a helyi hurok átengedését, valamint az ehhez kapcsolódó közös eszközhasználatra vonatkozó szerződéskötési kötelezettséget – a 172. §-ban meghatározott feltételek megléte esetén – a jelentős piaci erővel rendelkező szolgáltató számára bármilyen fizikai áramkörű helyi hurok tekintetében előírhatja, de a helyi hurok fémes sodrott érpára tekintetében külön jogszabályban meghatározottak szerint köteles előírni.
+
+175. § (1) A 168. § (1) bekezdésében meghatározott időpontig az e törvény hatálybalépésekor távbeszélő szolgáltatási piacon jelentős piaci erővel rendelkező szolgáltató helyi bitfolyam hozzáférés átengedésére, valamint az ehhez kapcsolódó közös eszközhasználatra referenciaajánlatot köteles összeállítani, és a hatóság részére 2004. január 15-éig, valamint a számviteli szétválasztás alapján 2005. évre vonatkozóan 2004. augusztus 31-éig jóváhagyás céljából benyújtani.
+
+(2) A helyi bitfolyam hozzáférésre vonatkozó referenciaajánlatot a helyi hurok átengedésére vonatkozó ajánlattal együtt kell összeállítani.
+
+(3) A 172. § (2) bekezdésében foglaltakon túl a referenciaajánlatban meg kell határozni a rendelkezésre álló átviteli kapacitáshoz való hozzáférés feltételeit.
+
+(4) A kötelezett szolgáltató kizárólag akkor szolgáltathat bitfolyam hozzáférési szolgáltatást egy adott helyi hurkot illetően, ha a referenciaajánlatában felajánlja a kérdéses helyi hurkon a helyi bitfolyam hozzáférést és az ehhez szükséges közös eszközhasználatot.
+
+(5) A helyi bitfolyam hozzáférésre egyebekben a helyi hurok átengedésére vonatkozó szabályokat kell megfelelően alkalmazni.
+
+176. § A 168. § (1) bekezdésében meghatározott időpontig a bérelt-vonali szolgáltatási piacon jelentős piaci erővel rendelkező szolgáltató köteles a bérelt-vonali szolgáltatást műszaki és használati feltételeiben egységes – külön jogszabályban meghatározott – jellemzőkkel és előírt szolgáltatásválasztékban nyújtani.
+
+177. § (1) A miniszter e törvény alapján az egyetemes szolgáltatókat legkésőbb 2004. május 1-jéig kijelöli. A kijelölésig a miniszter gondoskodik az e törvény hatálybalépésekor hatályos egyetemes szolgáltatási szerződések megfelelő módosításáról, illetve felmondásáról oly módon, hogy a szolgáltatás folyamatossága biztosított legyen.
+
+(2) A 120. § (1) bekezdés szerinti egyetemes szolgáltatási szerződéseket a miniszter a kijelölt szolgáltatóval legkésőbb 2004. július 1-jéig megköti.
+
+178. § (1) A 168. § (1) bekezdésében meghatározott időpontig a 111. § (1) bekezdést és a 112. § (1) bekezdést a távbeszélő szolgáltatási piacon jelentős piaci erővel rendelkező szolgáltatókra kell alkalmazni.
+
+(2) A 168. § (1) bekezdésében meghatározott időpontig a mobil rádiótelefon szolgáltatási piacon jelentős piaci erővel rendelkező szolgáltató köteles előfizetője számára külön jogszabályban meghatározott módon lehetővé tenni a közvetítőválasztást a nemzetközi hívások esetén.
+
+179. § A 170–178. §-ok szerinti távbeszélő, összekapcsolási, mobil rádiótelefon és bérelt-vonali szolgáltatási piacon jelentős piaci erejű szolgáltató alatt az e törvény hatálybalépésekor a Hírközlési Döntőbizottság által ilyen szolgáltatóként azonosított szolgáltatót kell érteni.
+
+180. § Azok a 84. § (1) bekezdésének megfelelő engedélyek, amelyeket a törvény hatálybalépése előtt megkötött koncessziós szerződés alapján határozott időre adtak ki, a koncessziós szerződés hatályának időtartama alatt hatályban maradnak.
+
+181. § (1) A távbeszélő szolgáltatási piacon jelentős piaci erővel rendelkező szolgáltató által a 2003. augusztus 31. előtt megkötött határozott idejű előfizetői szerződésekre e törvény rendelkezéseit a 168. § (1) bekezdése szerinti időponttól, de legkésőbb 2004. szeptember 1-jétől kell alkalmazni.
+
+(2) A 88. § (2) bekezdését a jelen törvény hatálybalépését követően megkezdődött elévülésekre kell alkalmazni.
 
 ### Felhatalmazás
 
-182. § (1) Felhatalmazást kap a Kormány arra, hogy rendelettel állapítsa meg
+182. § (1) Felhatalmazást kap a Kormány arra, hogy a frekvenciagazdálkodással kapcsolatban rendelettel állapítsa meg:
 
-- a) a Hatóság általi, az e-közműt üzemeltető szervezet számára történő adatszolgáltatás formátumára, rendjére és az adatok körére, valamint az elektronikus hírközlési építmények építtetői és az elektronikus hírközlő hálózatok üzemeltetői regisztrációs és adatszolgáltatási kötelezettségének Hatóság általi ellenőrzésére és – annak nem megfelelő teljesítése vagy a közműnyilatkozat elmaradása esetén – az alkalmazható bírság kiszabására vonatkozó szabályokat;
-- b) az elektronikus hírközlés különleges jogrend, összehangolt védelmi tevékenység idejére irányuló felkészítésének rendszerét, az államigazgatási szervek ezzel összefüggő feladatait, működésük feltételeinek biztosítását;
-- c) az elektronikus hírközlési feladatokat ellátó szervezetek és a titkos információgyűjtés folytatására, illetve leplezett eszközök alkalmazására feljogosított szervezetek együttműködésének rendjét;
-- d) a kormányzati célú hálózatokra és az ilyen hálózatokkal kapcsolatos elektronikus hírközlési tevékenységre vonatkozó, e törvénytől eltérő szabályokat;
-- e) az e törvény szerinti egyablakos információs pontot működtető szervet, valamint az egyablakos információs pont működésére vonatkozó szabályokat;
-- f) a fizikai infrastruktúrához a rendkívül nagy kapacitású hálózatok kiépítéséhez kapcsolódóan biztosítandó hozzáférési kötelezettség alól mentesülő fizikai infrastruktúrák körét vagy az ilyen fizikai infrastruktúrák kategóriát, rendkívül nagy kapacitású hálózati elemek építési munkáinak összehangolási kötelezettsége alól mentesülő építési munkák körét, valamint a fizikai infrastruktúrával és a tervezett építési munkákkal kapcsolatos átláthatóságra, a közműhálózatok fejlesztésének átláthatóságára, és az épületen belüli optikai kábelezés és fizikai infrastruktúra kiépítésére vonatkozó rendelkezések alkalmazása alóli kivételeket;
-- g) a 127. § (2d) bekezdésében meghatározott szervet;
-- h) a mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltatók és a hivatásos katasztrófavédelmi szerv központi szerve közötti együttműködés rendjét;
-- i) az alapvető felhasználók elektronikus hírközlési szolgáltatással történő ellátásának sorrendjét összehangolt védelmi tevékenység idején vagy váratlan támadás esetén.
+- a) a frekvenciasávok nemzeti felosztását;
+- b) a frekvenciahasználati jogosultság megszerzésére kiírt árverés és pályázat szabályait;
+- c) a nem polgári célú frekvenciagazdálkodási feladatokat ellátó hatóság szervezetét és működését, irányítását, feladatait és finanszírozását, a nem polgári célú frekvenciagazdálkodás rendjére vonatkozó részletes szabályokat, valamint a nem polgári célú frekvenciagazdálkodás körébe tartozó szervezeteket.
 
-(2) Felhatalmazást kap a Kormány arra, hogy a 93/A. § (2) bekezdése szerint benyújtandó adatok pontos tartalmát, az adatszolgáltatás teljesítésével kapcsolatos részletes követelményeket rendeletben állapítsa meg.
+(2) Felhatalmazást kap a Kormány arra, hogy rendelettel állapítsa meg az elektronikus hírközlés vonatkozásában
 
-(3) Felhatalmazást kap az Elnök arra, hogy rendelettel állapítsa meg:
+- a) a hatóság feladat- és hatáskörét, valamint eljárásainak részletes szabályait;
+- b) az elektronikus hírközlés veszélyhelyzeti és minősített időszaki felkészítésének rendszerét, az államigazgatási szervek feladatait, működésük feltételeinek biztosítását;
+- c) az ANFT-t és az azonosítókkal való gazdálkodás rendjére vonatkozó részletes szabályokat;
+- d) a számhordozhatóság szabályait;
+- e) a közvetítőválasztás szabályait;
+- f) az elektronikus hírközlési feladatokat ellátó szervezetek és a titkos információgyűjtéssel, illetve titkos adatszerzéssel felhatalmazott szervezetek együttműködésének rendjét;
+- g) az elektronikus hírközlési szolgáltatás minőségének a fogyasztók védelmével összefüggő követelményeit;
+- h) a referenciaajánlatokra, a hálózati szerződésekre, valamint azok megkötésére vonatkozó részletes szabályokat;
+- i) az elektronikus hírközlési szolgáltatót, alkalmazottját, tagját, megbízottját terhelő adatvédelmi és titoktartási kötelezettséget, az adatkezelés részletes szabályait, a titokvédelemre vonatkozó különleges feltételeket, a forgalmi és számlázási adatok kezelését, az azonosító-kijelzés és a hívásátirányítás feltételeit;
+- j) az Egyetemes Elektronikus Hírközlési Támogatási Kassza létrehozására, működésére, forrásaira, felügyeletére, felhasználására és megszüntetésére vonatkozó részletes szabályokat;
+- k) a zártcélú hálózatokra vonatkozó, e törvénytől eltérő szabályokat;
+- l) a digitális rádió- és televízió-műsorok elérése érdekében a hatóság által a 100. § (3) bekezdése alapján előírható kötelezettségek részletes szabályait;
+- m) a távirat-szolgáltatás ellátásának részletes szabályait;
+- n) az egyetemes szolgáltatás részletes pénzügyi és műszaki feltételeit, követelményeit.
 
-- 1. a nemzeti frekvenciafelosztást;
-- 2. a frekvenciahasználati jogosultság megszerzésére kiírt árverés és pályázat szabályait,
-- 3. a frekvenciasávok felhasználási szabályait;
-- 4. a frekvenciakijelöléshez egyes esetekben szükséges műszaki terv elkészítésére vonatkozó jogosultság képesítési feltételeit;
-- 5. a rádióspektrum másodlagos kereskedelmének elveit és részletes feltételeit;
-- 6. az egyedi használati jog biztosításával kapcsolatos hatósági eljárás rendjét, különösen a frekvenciakijelölési és rádióengedélyezési eljárás részletes feltételeit, az egyedi használati jogok kiadására, módosítására, visszavonására, meghosszabbítására, megújítására és kiadásának megtagadására vonatkozó részletes szabályokat, a rádióspektrum-használati jog gyakorlásának feltételeit és a rádióspektrum-használati engedélyben (frekvenciakijelölésben, rádióengedélyben, rádióspektrum-használati jogosultságban) foglalható feltételek részletes szabályait, valamint a rádióspektrum-használati jog érvényességének idejét a polgári célú rádióspektrum-gazdálkodás területén;
-- 7. a kiskorú felhasználóra tekintettel nyújtott biztonságos szolgáltatással összefüggő előfizetői tájékoztatás és a szolgáltatás nyújtása módjának, a 149/F. § (3) bekezdése szerinti lista összeállításának, felülvizsgálatának és közzétételének részletes szabályait;
-- 8. a rádióberendezések és elektronikus hírközlő végberendezések megfelelőség-igazolásának és elismerésének, valamint forgalomba hozatalának, forgalmazásának, üzembe helyezésének részletes szabályait;
-- 9. a rádióamatőrökre vonatkozó vizsgakövetelményeket, a vizsgáztatás rendjét és a vizsgabizonyítvány kiadásának feltételeit;
-- 10. az ellenőrzés, a mérőszolgálati és a zavarelhárítási tevékenység rendjét;
-- 11. a nem polgári célú frekvenciagazdálkodás körébe tartozó rádióberendezés forgalmazásának feltételeit, e törvény 79. § (1) bekezdésében és az annak alapján alkotott rendeletben foglalt rendelkezések alkalmazásának módját, illetve az attól való eltéréseket;
-- 12. a frekvenciakijelölési, rádióengedélyezési eljárás, az ellenőrzés, a mérőszolgálati és zavarelhárítási tevékenység és az adatszolgáltatás rendjét a nem polgári célú frekvenciagazdálkodás területén;
-- 13. a nem polgári célú frekvenciagazdálkodás rendjére vonatkozó részletes szabályokat, valamint a nem polgári célú frekvenciagazdálkodás körébe tartozó szervezeteket;
-- 14. az ANFT-t és az azonosítókkal való gazdálkodás rendjére vonatkozó részletes szabályokat;
-- 15. az elektronikus hírközlési szolgáltatás minőségének az előfizetők és felhasználók védelmével összefüggő követelményeit, a szolgáltatói kockázatelemzés készítésére kötelezett szolgáltatók körét és a kockázatelemzés kötelező tartalmi elemeit, az üzletmenet-folytonossági terv követelményeinek, kötelező tartalmi elemeinek meghatározását, valamint az emelt díjas szolgáltatások nyújtásának feltételeit;
-- 16. a szolgáltatóváltás és a számhordozhatóság szabályait és a számhordozhatóság megvalósíthatósága érdekében működő központi-referencia adatbázis és a szolgáltatók együttműködésének feltételeit és eljárási szabályait, valamint az adatbázishoz való hozzáférés minőségi követelményeit;
-- 17.
-- 18. az interfészek műszaki leírásának tartalmi követelményeit és az azokhoz való hozzáférés előírását;
-- 19.
-- 20. az elektronikus hírközlési szolgáltatót, alkalmazottját, tagját, megbízottját terhelő adatvédelmi és titoktartási kötelezettséget, az adatkezelés részletes szabályait, a titokvédelemre vonatkozó különleges feltételeket, a forgalmi és számlázási adatok kezelését, az azonosítókijelzés és a hívásátirányítás feltételeit, továbbá az elektronikus hírközlési szolgáltatók hálózatbiztonsággal kapcsolatos alapvető kötelezettségeit;
-- 21. a segélyhívások megválaszolása céljából a hívó fél azonosítására, illetve a helymeghatározásra vonatkozó adatok segélyhívó szolgálatok műszaki feltételeit és rendelkezésére bocsátásának módját;
-- 22. a nagyfrekvenciás villamos berendezések és a nagyfrekvenciás jelet vagy mellékhatást keltő berendezések megfelelőségének igazolását, a megfelelőségi nyilatkozat feltételeit, a megfelelőség alapvető követelményeit, az idegen honosságú megfelelőségi tanúsítványok kölcsönös elismerésének feltételeit az iparügyekért felelős miniszter véleményezését követően;
-- 23. az építésügyi szabályozásért és építéshatósági ügyekért, valamint a feladatkörükbe tartozó sajátos építményfajtára vonatkozó szabályok tekintetében, az elektronikus hírközlési építmények más építményfajtákkal való megközelítését, védelmét és keresztezését, továbbá a közös eszközhasználattal és helymegosztással kapcsolatban az elektronikus hírközlési szolgáltatókat terhelő egyes bejelentési, adatszolgáltatási és nyilvántartási kötelezettségeket és feladatokat a közlekedésért, az energiapolitikáért, illetve a vízgazdálkodásért felelős miniszter véleményezését követően;
-- 24. előfizetői szerződések, azok létrejötte, módosítása, megszűnése, szolgáltatások korlátozásának feltételeit, az egyedi előfizetői szerződések és a szolgáltatók általános szerződési feltételei részletes szabályait, ideértve a tudakozószolgálatokkal, a telefonkönyvekkel, a fogyatékossággal élő személyek esélyegyenlőségével, valamint a szolgáltatók ezzel kapcsolatos kötelezettségeire vonatkozó részletes szabályokat;
-- 25. azon eljárások körét, amelyekben kötelező vagy kizárólagos az elektronikus kapcsolattartás, illetve az egyes eljárásokban a kapcsolattartás módját.
-- 26. az elektronikus hírközlési építményekkel kapcsolatos építésügyi és építésfelügyeleti hatósági eljárások és a 83. § (4a) bekezdése szerinti egyeztetés szabályait, valamint a település tervezésénél, rendezésénél, utak és közművek építésénél, korszerűsítésénél, egyéb építmények és más létesítmények megvalósításánál, felújításánál az elektronikus hírközlési építmények elhelyezésével kapcsolatos szabályokat;
-- 27. az egyetemes szolgáltatás nyújtásával, megfizethetőségével és megfelelőségével kapcsolatos szabályokat, ennek keretében az egyetemes szolgáltatás és a megfelelő szélessávú internet-hozzáférési szolgáltatás tartalmát, az egyetemes elektronikus hírközlési szolgáltató kijelölésének feltételeit és a vonatkozó eljárás részletes szabályait, a fogyatékossággal élő fogyasztók egyenértékű hozzáférését elősegítő különös szabályokat, az egyetemes szolgáltatás megfizethetőségének biztosításával kapcsolatos szabályokat, a nettó elkerülhető költség és az egyetemes szolgáltatás nyújtásából származó közvetett előnyök számításának részletes szabályait, az egyetemes szolgáltatásokkal kapcsolatos pénzügyi terhek megtérítésének részletes szabályait, valamint az egyetemes szolgáltatás részletes pénzügyi és műszaki feltételeit, követelményeit;
-- 28. az e törvény szerinti hírközlési szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
-- 29. a Hatóság igazgatási szolgáltatási díjköteles eljárásait, az igazgatási szolgáltatási díj mértékét és megfizetésének módját;
-- 30. a nagy sebességű elektronikus hírközlő hálózatok felmérésével, a rendkívül nagy kapacitású hálózattal ellátatlan földrajzi területek kijelölésével, valamint a kijelölt területek tekintetében rendkívül nagy kapacitású hálózat kiépítésre vonatkozó piaci beruházási tervek felmérésével kapcsolatos részletes szabályokat és feltételeket;
-- 31. az informatikai és hírközlési ágazat ügyeleti rendszerének létrehozására, működtetésére, hatáskörére vonatkozó szabályokat, a szolgáltatók bejelentési és kapcsolattartási kötelezettségeit;
-- 32. a honvédelmi és katasztrófavédelmi feladatok ellátásában közreműködésre, valamint a védelmi és biztonsági célú felkészülési feladatok ellátására kötelezett elektronikus hírközlési szolgáltatók kijelölését és felkészülési feladataik meghatározását;
-- 33. a 159/B. § szerinti elektronikus hírközlési szolgáltatók és a kereső- és gyorsítótár-szolgáltatók KEHTA-hoz való kapcsolódásának és elektronikus kapcsolattartásának, valamint a KEHTA-hoz való kapcsolódás alóli mentesülés részletes szabályait;
-- 34. a nagykereskedelmi hívásvégződtetési díjak meghatározásának elveit, kritériumait és a díjak alkalmazásával kapcsolatos egyéb szabályokat;
-- 35. a 83/A. § (1) bekezdés szerinti írásbeli ajánlat, a 94. § (2c) és a 99/B. § (1) bekezdése szerinti írásbeli ajánlatkérés kötelező tartalmát, és a 83/A. § (4) bekezdés c) pontja szerinti vidéki terület meghatározását, valamint a Hatóság 83/B. § (1) bekezdése, 90. § (7) bekezdése, 93/A. § (3) bekezdése, 93/B. § (3) bekezdése, 94. § (2g) bekezdése és 99/C. § (1) bekezdése szerinti jogvitás eljárásának eljárási szabályait, a kérelem tartalmi követelményeit, a tényállás tisztázására vonatkozó szabályokat, a hatósági döntés tartalmát, a költségek megállapításának szabályait, az alkalmazandó költségszámítási vagy díjképzési módszer szabályait;
-- 36. a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter véleményének kikérésével az egyazon egyéni előfizető, illetve egyazon üzleti előfizető által megköthető, előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra irányuló előfizetői szerződések számát;
-- 37. a piacmeghatározás és a piacelemzés lefolytatására, a jelentős piaci erővel rendelkező szolgáltatók azonosítására és kötelezettségek előírására, valamint ezen eljárásokban kiróható kötelezettségekkel kapcsolatos eljárások folytatására, továbbá az önkéntes kötelezettségvállalások és a társberuházási ajánlatok tartalmi követelményeire, az önkéntes kötelezettségvállalással kapcsolatos kérelemre, értékelési kritériumokra és feltételekre, valamint a hatósági döntés tartalmára vonatkozó részletes szabályokat;
-- 38. a kiskereskedelmi barangolási többletdíj alkalmazásának, valamint az EU-n belüli szabályozott hírközlési szolgáltatásokra vonatkozó kiskereskedelmi díjaktól való eltérés engedélyezésére vonatkozó részletes szabályokat;
-- 39. az 52. § (2) bekezdés j) pontjában szereplő nyilvántartás vezetésére vonatkozó szabályokat, a Hatóság feladatainak ellátásához szükséges, a piaci szereplők által szolgáltatott adatok körét, a piaci szereplőket terhelő adatszolgáltatási kötelezettség teljesítésének feltételeit, valamint a Hatósággal történő kapcsolattartás formai követelményeit;
-- 40. a kis területi lefedésű, vezeték nélküli hozzáférési pontok kiépítése érdekében a 94. § (7) bekezdése alapján együttműködésre kötelezettek megállapodásának részletes szabályait.
+(3) Felhatalmazást kap a miniszter arra, hogy rendelettel állapítsa meg a frekvenciagazdálkodással kapcsolatban:
 
-(4) Az Elnök (3) bekezdés szerinti jogalkotási hatáskörébe tartozó, 2011. augusztus 1. napját megelőzően kibocsátott jogszabályok az Elnök által azonos tárgykörben kibocsátott jogszabályok hatálybalépésének napjáig maradnak hatályban, e napig alkalmazhatók.
+- a) a polgári és a közös célú frekvenciasávok felhasználási szabályait;
+- b) a frekvenciakijelöléshez egyes esetekben szükséges műszaki terv elkészítésére vonatkozó jogosultság képesítési feltételeit a nem polgári célú frekvenciagazdálkodási feladatokat ellátó miniszterrel egyetértésben;
+- c) a rádiófrekvenciák használati joga átruházásának elveit és részletes feltételeit;
+- d) az egyedi használati jog biztosításával kapcsolatos hatósági eljárás rendjét, különösen a frekvenciakijelölési és rádióengedélyezési eljárás részletes feltételeit, az egyedi használati jogok kiadására, módosítására, visszavonására, meghosszabbítására és kiadásának megtagadására vonatkozó részletes szabályokat, a frekvenciahasználati jog gyakorlásának feltételeit és a frekvenciahasználati engedélyben (frekvenciakijelölésben, rádióengedélyben illetőleg frekvenciahasználati jogosultságban) foglalható feltételek részletes szabályait, valamint a frekvenciahasználati jog érvényességének idejét;
+- e) a polgári célú frekvenciák használatáért fizetendő díjakat, a fizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben;
+- f) idegen honosságú rádióengedélyek magyarországi elismerésének feltételeit;
+- g) a rádióberendezések és elektronikus hírközlő végberendezések megfelelőség-igazolásának és elismerésének, valamint forgalomba hozatalának, forgalmazásának, üzembe helyezésének részletes szabályait;
+- h) a rádióamatőrökre vonatkozó vizsgakövetelményeket, a vizsgáztatás rendjét és a vizsgabizonyítvány kiadásának feltételeit;
+- i) az ellenőrzés, a mérőszolgálati és a zavarelhárítási tevékenység rendjét.
 
-(5) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben határozza meg az elektronikus hírközlő hálózat üzemeltetője által teljesítendő kiberbiztonsági követelményeket.
+(4) Felhatalmazást kap a miniszter arra, hogy rendelettel állapítsa meg az elektronikus hírközlés vonatkozásában:
 
-(6) Felhatalmazást kap az SZTFH elnöke, hogy – az Elnök véleményének kikérésével – rendeletben határozza meg az elektronikus hírközlési szolgáltatáshoz használt rendszerek vonatkozásában alkalmazandó európai vagy nemzeti kiberbiztonsági tanúsítási rendszert.
+- a) az elektronikus hírközlő hálózatokra vonatkozó műszaki feltételrendszert;
+- b) a hatóság eljárásainak díjai és a felügyeleti díj megfizetésének módját és feltételeit, valamint – a hatóság véleményét kikérve – e díjak mértékét az adópolitikáért felelős miniszterrel egyetértésben;
+- c)
+- d) az azonosítók lekötéséért és használatáért fizetendő díjakat, a fizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben;
+- e) a nettó elkerülhető költség, nettó elkerülhető egységköltség számításának részletes szabályait, valamint az egyetemes szolgáltatásokkal kapcsolatos pénzügyi terhek megtérítésének részletes szabályait;
+- f) a hálózati szolgáltatások költségszámítására vonatkozó részletes szabályokat;
+- g) a számhordozhatóság megvalósíthatósága érdekében működő központi referencia adatbázis és a szolgáltatók együttműködésének feltételeit és eljárási szabályait, valamint az adatbázishoz való hozzáférés minőségi követelményeit;
+- h) az egyetemes szolgáltatással kapcsolatos díjcsomagokra vonatkozó szabályokat az adópolitikáért felelős miniszterrel egyetértésben;
+- i)
+- j) település tervezésénél, rendezésénél, utak és közművek építésénél, korszerűsítésénél, egyéb építmények és más létesítmények megvalósításánál, felújításánál az elektronikus hírközlési építmények elhelyezésével kapcsolatos szabályokat;
+- k) a hatóság feladatainak ellátásához szükséges, a piaci szereplők által szolgáltatott adatok körét, a piaci szereplőket terhelő adatszolgáltatási kötelezettség teljesítésének feltételeit, a hatóság adatkezelésére, a nyilvántartás vezetésére vonatkozó szabályokat;
+- l) a védelmi feladatokban részt vevő elektronikus hírközlési szolgáltatók kijelölését és felkészülési feladataik meghatározását;
+- m) az interfészek műszaki leírásának tartalmi követelményeit és az azokhoz való hozzáférés előírását;
+- n) a számviteli nyilvántartások elkülönített vezetésének részletes szabályait;
+- o) piacmeghatározás, piacelemzés, a jelentős piaci erővel rendelkező szolgáltatók kijelölése és a rájuk vonatkozó kötelezettségek előírása során alkalmazandó alapelveket,
+- p) az informatikai és hírközlési ágazat ügyeleti rendszerének létrehozására, működtetésére, hatáskörére vonatkozó szabályokat, a szolgáltatók bejelentési és kapcsolattartási kötelezettségeit;
+- q) a bérelt vonali szolgáltatások minimális készletére vonatkozó szabályokat;
+- r) az egyetemes elektronikus hírközlési szolgáltató kijelölésére vonatkozó eljárás és az egyetemes elektronikus hírközlési szolgáltatóval folytatott szerződéskötési eljárás részletes feltételeit és szabályait;
+- s) az előfizetői szerződésekre, azok megkötésére vonatkozó részletes szabályokat;
+- t) a segélyhívások megválaszolása céljából a hívó fél azonosítására, illetve a helymeghatározásra vonatkozó adatok segélyhívó szolgálatok rendelkezésére bocsátásának módját.
+
+(5) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a nagyfrekvenciás villamos berendezések és a nagyfrekvenciás jelet vagy mellékhatást keltő berendezések megfelelőségének igazolását, a megfelelőségi nyilatkozat feltételeit, a megfelelőség alapvető követelményeit, az idegen honosságú megfelelőség tanúsítványok kölcsönös elismerésének feltételeit a miniszterrel együttesen kiadott rendeletben állapítsa meg.
+
+(6) Felhatalmazást kap a nem polgári célú frekvenciagazdálkodási feladatokat ellátó miniszter, hogy – a miniszterrel egyetértésben – rendeletben állapítsa meg:
+
+- a) a nem polgári célú frekvenciát használó rádióberendezésekre vonatkozó, a 80. § (1) bekezdésében és az annak alapján alkotott jogszabályokban foglalt megfelelőség-igazolás és az alapvető követelmények alkalmazásának módját, illetve az attól való eltéréseket;
+- b) a frekvenciakijelölési, rádióengedélyezési eljárás, az ellenőrzés, a mérőszolgálati és zavarelhárítási tevékenység és az adatszolgáltatás rendjét a nem polgári célú frekvenciagazdálkodás területén;
+- c) a nem polgári célú frekvenciasávok felhasználási szabályait.
+
+(7) Felhatalmazást kap a miniszter, hogy – az építésügyért és, a feladatkörükbe tartozó sajátos építményfajtára vonatkozó szabályok tekintetében, a közlekedésért, az energiapolitikáért, illetve a vízgazdálkodásért felelős miniszterrel egyetértésben – az elektronikus hírközlési építmények más építményfajtákkal való megközelítését, védelmét, illetve keresztezését rendeletben állapítsa meg.
+
+(8) Felhatalmazást kap a miniszter, hogy – a szociál- és családpolitikáért felelős miniszterrel egyetértésben – meghatározott társadalmi csoporthoz tartozó előfizetők részére az egyetemes elektronikus hírközlési szolgáltatás igénybevételéhez nyújtható támogatásra vonatkozó szabályokat rendeletben állapítsa meg.
+
+(9) Felhatalmazást kap a Kormány, hogy az e törvény szerinti hírközlési szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben szabályozza.
 
 ### Módosuló jogszabályok
 
-183. § (1)
+183. § (1)–(2)
 
-(2)
-
-(3)
-
-(4)
+(3)–(4)
 
 (5)
 
-(6)
-
-(7)
+(6)–(7)
 
 184. § (1) A rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: Rtt.) 114/A. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
 
-„,,(1) Műsorszétosztás az e célra rendszeresített nyilvántartásba történő bejelentéssel egyidejűleg kezdhető meg.''”
+,,(1) Műsorszétosztás az e célra rendszeresített nyilvántartásba történő bejelentéssel egyidejűleg kezdhető meg.''
 
 (2) Az Rtt. 114/A. §-a (2) bekezdésének felvezető szövege helyébe a következő rendelkezés lép:
 
-„,,(2) Műsorszétosztást végezni szándékozó vállalkozás a tevékenység megkezdése előtt köteles a Testületnek bejelenteni''”
+,,(2) Műsorszétosztást végezni szándékozó vállalkozás a tevékenység megkezdése előtt köteles a Testületnek bejelenteni''
 
 (3)
 
@@ -3723,21 +2562,21 @@ esetében.
 
 [8. § (1) A Nemzetbiztonsági Szakszolgálat]
 
-„,,a) a jogszabályok keretei között a titkos információgyűjtés, illetve a titkos adatszerzés különleges eszközeivel és módszereivel – írásbeli megkeresésre – szolgáltatást végez törvény által erre feljogosított szervezetek titkos információgyűjtő, illetve titkos adatszerző tevékenységéhez;
+,,a) a jogszabályok keretei között a titkos információgyűjtés, illetve a titkos adatszerzés különleges eszközeivel és módszereivel – írásbeli megkeresésre – szolgáltatást végez törvény által erre feljogosított szervezetek titkos információgyűjtő, illetve titkos adatszerző tevékenységéhez;
 
-b) törvény által feljogosított szervezetek igényei alapján biztosítja a titkos információgyűjtő, illetve a titkos adatszerző tevékenységhez szükséges különleges technikai eszközöket és anyagokat;''”
+b) törvény által feljogosított szervezetek igényei alapján biztosítja a titkos információgyűjtő, illetve a titkos adatszerző tevékenységhez szükséges különleges technikai eszközöket és anyagokat;''
 
 (2) Az Nbtv. 8. §-ának (6) bekezdése helyébe a következő rendelkezés lép:
 
-„,,(6) A titkos információgyűjtésre, illetve a titkos adatszerzésre felhatalmazott szervezetek és a Nemzetbiztonsági Szakszolgálat közötti együttműködés rendjét a Kormány határozza meg.''”
+,,(6) A titkos információgyűjtésre, illetve a titkos adatszerzésre felhatalmazott szervezetek és a Nemzetbiztonsági Szakszolgálat közötti együttműködés rendjét a Kormány határozza meg.''
 
 (3) Az Nbtv. 54. §-a (1) bekezdésének j) pontja helyébe a következő rendelkezés lép:
 
 [54. § (1) A titkos információgyűjtés keretében a nemzetbiztonsági szolgálatok]
 
-„,,j) hírközlési rendszerekből és egyéb adattároló eszközökből információkat gyűjthetnek.''”
+,,j) hírközlési rendszerekből és egyéb adattároló eszközökből információkat gyűjthetnek.''
 
-186. § (1)
+186. § (1) Ahol jogszabály Hírközlési Felügyeletet, Hírközlési Főfelügyeletet, Hírközlési Főfelügyelet területi szerveit, Hírközlési Területi Hivatalt említ, ott a Nemzeti Hírközlési Hatóságot kell érteni.
 
 (2) Ahol e törvény hatálybalépését megelőzően kiadott jogszabály olyan meghatározást használ, amely tartalmát tekintve megfelel e törvény 188. §-a szerinti meghatározásnak, e törvény meghatározását kell érteni, így különösen ahol
 
@@ -3751,213 +2590,147 @@ kell érteni.
 
 (3) Ahol a törvény hatálybalépését megelőzően megkötött hálózati szerződés, illetve elektronikus hírközléssel kapcsolatos egyéb szerződés olyan meghatározást használ, amely tartalmát tekintve megfelel e törvény 188. §-a szerinti meghatározásnak, a (2) bekezdésben foglaltakat kell megfelelően alkalmazni.
 
-### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
-
-186/A. § A III. Fejezet az Alaptörvény IX. cikk (6) bekezdése alapján sarkalatosnak minősül.
-
 ### Az Európai Unió jogának való megfelelés
 
 187. § (1) Ez a törvény
 
 - a) a helyi hurok átengedéséről szóló, 2000. december 18-i 2887/2000/EK európai parlamenti és tanácsi rendelet,
-- b) a Közösségen belüli nyilvános mobiltelefon-hálózatok közötti barangolásról (roaming), valamint a 2002/21/EK irányelv módosításáról szóló, 2007. június 27-i 717/2007/EK európai parlamenti és tanácsi rendelet,
-- c) az Európai Elektronikus Hírközlési Szabályozók Testületének (BEREC) és Hivatalának létrehozásáról szóló, az Európai Parlament és a Tanács 1211/2009/EK rendelete (2009. november 25.)
-- d) short ügyletekről és a hitel-nemteljesítési csereügyletekkel kapcsolatos egyes szempontokról szóló 236/2012/EU európai parlamenti és tanácsi rendelet
-- e) egy többéves rádióspektrum-politikai program létrehozásáról szóló 2012. március 14-ei 243/2012/EU parlamenti és bizottsági határozat 5. cikke,
-- f) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet
-- g) az Unión belüli nyilvános mobilhírközlő hálózatok közötti barangolásról (roaming) szóló, 2012. június 13-i 531/2012/EU európai parlamenti és tanácsi rendelet 6c. cikke,
-- h) a méltányos használatra vonatkozó feltételek alkalmazására és a kiskereskedelmi barangolási többletdíjak eltörlése fenntarthatóságának értékelési módszertanára, valamint a barangolásszolgáltatók által az értékelés céljából benyújtandó kérelemre vonatkozó részletes szabályok megállapításáról szóló 2016. december 15-i 2016/2286 (EU) bizottsági végrehajtási rendelet 10. cikke,
-- i) az Európai Elektronikus Hírközlési Szabályozók Testületének (BEREC) és a BEREC Működését Segítő Ügynökségnek (BEREC Hivatal) a létrehozásáról, az (EU) 2015/2120 rendelet módosításáról, valamint az 1211/2009/EK rendelet hatályon kívül helyezéséről szóló, 2018. december 11-i (EU) 2018/1971 európai parlamenti és tanácsi rendelet 50. cikke
-- j) a gigabites elektronikus hírközlő hálózatok kiépítési költségeinek csökkentésére irányuló intézkedésekről, az (EU) 2015/2120 rendelet módosításáról, és a 2014/61/EU irányelv hatályon kívül helyezéséről (a gigabites infrastruktúráról szóló rendelet) szóló, 2024. április 29-i (EU) 2024/1309 európai parlamenti és tanácsi rendelet
+- b) a Közösségen belüli nyilvános mobiltelefon-hálózatok közötti barangolásról (roaming), valamint a 2002/21/EK irányelv módosításáról szóló, 2007. június 27-i 717/2007/EK európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(2) Ez a törvény
+(2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) a rádióberendezések forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról és az 1999/5/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 2014/53/EU európai parlamenti és tanácsi irányelvnek,
-- b) az elektronikus hírközlési ágazatban a személyes adatok kezeléséről, feldolgozásáról és a magánélet védelméről („Elektronikus hírközlési adatvédelmi irányelv”) szóló, 2002. július 12-i 2002/58/EK európai parlamenti és tanácsi irányelvnek,
-- c) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások piacain belüli versenyről szóló, 2002. szeptember 16-i 2002/77/EK európai bizottsági irányelvnek,
-- d) a távközlési végberendezések piacán folyó versenyről szóló, 2008. július 20-i 2008/63/EK bizottsági irányelvnek,
-- e) az egyetemes szolgáltatásról, valamint az elektronikus hírközlő hálózatokhoz és elektronikus hírközlési szolgáltatásokhoz kapcsolódó felhasználói jogokról szóló 2002/22/EK irányelv, az elektronikus hírközlési ágazatban a személyes adatok kezeléséről, feldolgozásáról és a magánélet védelméről szóló 2002/58/EK irányelv és a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK rendelet módosításáról szóló, 2009. november 25-i 2009/136/EK európai parlamenti és tanácsi irányelvnek,
-- f) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról szóló 2002/21/EK irányelv, az elektronikus hírközlő hálózatokhoz és kapcsolódó eszközökhöz való hozzáférésről, valamint azok összekapcsolásáról szóló 2002/19/EK irányelv és az elektronikus hírközlő hálózatok és az elektronikus hírközlési szolgáltatások engedélyezéséről szóló 2002/20/EK irányelv módosításáról szóló, 2009. november 25-i 2009/140/EK európai parlamenti és tanácsi irányelvnek,
-- g) a gyermekek szexuális bántalmazása, szexuális kizsákmányolása és a gyermekpornográfia elleni küzdelemről, valamint a 2004/68/IB tanácsi kerethatározat felváltásáról szóló, 2011. december 13-i 2011/93/EU európai parlamenti és tanácsi irányelvnek,
-- h) az elektromágneses összeférhetőségre vonatkozó tagállami jogszabályok harmonizálásáról szóló, 2014. február 26-i 2014/30/EU európai parlamenti és tanácsi irányelvnek,
-- i)
-- j) az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló, 2018. december 11-i (EU) 2018/1972 európai parlamenti és tanácsi irányelvnek, valamint
-- k) a spektrumhasználatra vonatkozó információk Közösségen belüli harmonizált rendelkezésre állásáról szóló, 2007. május 16-i 2007/344/EK bizottsági határozatnak
-- l) a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek
-- m) az Unió egész területén egységesen magas szintű kiberbiztonságot biztosító intézkedésekről, valamint a 910/2014/EU rendelet és az (EU) 2018/1972 irányelv módosításáról és az (EU) 2016/1148 irányelv hatályon kívül helyezéséről (NIS 2 irányelv) szóló, 2022. december 14-i (EU) 2022/2555 európai parlamenti és tanácsi irányelvnek
-
-való megfelelést szolgálja.
-
-(3) E törvény 92/C. §-a, a 145/A. §-a, a 149/F. § (1) és (2) bekezdése, a 163/Q. § (2)–(4) bekezdése és a 182. § (1) bekezdés h) pontja tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+- a) az Európai Parlament és a Tanács 1999/5/EK irányelve (1999. március 9.) a rádióberendezésekről és a távközlő végberendezésekről, valamint a megfelelőségük kölcsönös elismeréséről, 2. cikk a)–e) és i) pont, 3. és 4. cikk, 6. cikk (1) és (4) bekezdés, 7. cikk (2) és (4) bekezdés,
+- b) az Európai Parlament és a Tanács 2002/19/EK irányelve (2002. március 7.) az elektronikus hírközlő hálózatokhoz és kapcsolódó berendezésekhez való hozzáférésről és azok összekapcsolásáról (hozzáférési irányelv),
+- c) az Európai Parlament és a Tanács 2002/20/EK irányelve (2002. március 7.) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások engedélyezéséről (engedélyezési irányelv),
+- d) az Európai Parlament és a Tanács 2002/21/EK irányelve (2002. március 7.) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról (keretirányelv),
+- e) az Európai Parlament és a Tanács 2002/22/EK irányelve (2002. március 7.) az egyetemes szolgáltatásról és az elektronikus hírközlő hálózatokhoz és elektronikus hírközlési szolgáltatásokhoz kapcsolódó felhasználói jogokról (egyetemes szolgáltatási irányelv),
+- f) az Európai Parlament és a Tanács 2002/58/EK irányelve (2002. július 12.) a személyes adatoknak az elektronikus hírközlési ágazatban történő feldolgozásáról és magánjellegének védelméről (az adatvédelemről és az elektronikus hírközlésről szóló irányelv),
+- g) az Európai Bizottság 2002/77/EK irányelve (2002. szeptember 16.) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások piacának versenyéről,
+- h) az Európai Parlament és a Tanács 2006/24/EK irányelve (2006. március 15.) a nyilvánosan elérhető elektronikus hírközlési szolgáltatások nyújtása, illetve a nyilvános hírközlő hálózatok szolgáltatása keretében előállított vagy feldolgozott adatok megőrzéséről és a 2002/58/EK irányelv módosításáról,
+- i) a Bizottság 2008/63/EK irányelve (2008. július 20.) a távközlési végberendezések piacain folyó versenyről.
 
 ### Értelmező rendelkezések
 
 188. § E törvény alkalmazásában:
 
-- 1. Alapkiépítésű monitoring alrendszer: olyan, a Nemzetbiztonsági Szakszolgálat által meghatározott műszaki alapkövetelmények szerint Magyarország területén létesített és működtetett rendszer, amely lehetővé teszi az elektronikus hírközlési feladatokat ellátó szervezet előfizetői, illetve felhasználói köréből tetszőlegesen kiválasztható, az előfizetők (felhasználók) összlétszámának legalább 0,1–0,6%-át kitevő, 150 000 előfizetői létszám alatt 0,6%, de legalább 60, 150 000–1 000 000 előfizetői létszám között 0,3%, de legalább 900, 1 000 000 előfizetői létszám felett 0,1%, de legalább 3000 (a teljes előfizetői körből egy előfizetőre számított átlagforgalom legfeljebb kétszeresével forgalmazó) előfizető vagy felhasználó kommunikációjának egyidejű ellenőrizhetőségét és azok kísérőadatainak késedelem nélküli, teljes körű, folyamatos, egyidejű kiválasztását és kiadását a kilépési pontra.
-- 1a. Alapvető felhasználó: az a jogi személy vagy egyéb szervezet, amely összehangolt védelmi tevékenység vagy váratlan támadás elhárítása során honvédelmi, védelmi és biztonsági, nemzetbiztonsági vagy diplomáciai érdekből használ vagy igényel nyilvánosan elérhető elektronikus hírközlési szolgáltatást.
-- 2. Azonosítás szolgáltatás: olyan kapcsolódó szolgáltatás, amelyet az előfizető vagy felhasználó személyére vonatkozó adatok igénybevételével nyújtanak.
-- 3. Adatkicserélő központ: adatkicserélő szolgáltatás nyújtását lehetővé tévő osztott elektronikus hírközlő hálózat.
-- 4. Adatkicserélő szolgáltatás: természetes személy, jogi személy vagy egyéb szervezet által kezdeményezett, illetve fogadott IP-alapú adatforgalom továbbítását lehetővé tevő, adatkicserélő központ útján természetes vagy jogi személy adatkicserélő szolgáltató által nyújtott elektronikus hírközlési szolgáltatás.
-- 5. Alkalmazásprogramozási interfész (API): a műsorterjesztők vagy szolgáltatók által rendelkezésre bocsátott alkalmazások, valamint a továbbfejlesztett digitális vevődekóderekben digitális televíziós és rádiós szolgáltatáshoz rendelkezésre álló erőforrások közötti szoftver interfész.
-- 6. Azonosító: az elektronikus hírközlő hálózat működéséhez, az elektronikus hírközlési szolgáltatások nyújtásához, továbbá az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások együttműködéséhez szükséges, az információ, valamint a jelzés célba juttatására szolgáló, annak címzettjét meghatározó betűkből, számokból, illetve jelekből álló karaktersorozat.
-- 7. Azonosítógazdálkodás: azon állami tevékenységek összessége, amelyek – a nemzetközi előírások figyelembevételével – az elektronikus hírközlő hálózatok, valamint az elektronikus hírközlési szolgáltatások eléréséhez szükséges azonosítók használatát az egyes elektronikus hírközlési szolgáltatók számára rendelkezésre bocsátják. E törvény vonatkozásában a domain név, az e-mail-cím és az IP-(Internet Protokoll) címekkel kapcsolatos tevékenységek nem tartoznak az azonosítógazdálkodási tevékenység körébe.
-- 8. Áthelyezés: a helyhez kötött elektronikus hírközlési szolgáltatás előfizetői hozzáférési pontjának a szolgáltató földrajzi szolgáltatási területén belül másik földrajzi helyre áthelyezése.
-- 9. Barangolás mobil rádiótelefon-hálózaton: mobil rádiótelefon-hálózat üzemeltetőjének előfizetője által más mobil rádiótelefon-szolgáltató vagy -üzemeltető hálózatának igénybevétele oly módon, hogy az előfizető a részére előfizetői hozzáférést nyújtó elektronikus hírközlési szolgáltató hálózatában használt szolgáltatásokat és hívási módokat részben vagy egészben az igénybe vett hálózaton is használni tudja, anélkül, hogy ezen szolgáltató előfizetőjévé válna.
-- 10. Bitfolyam hozzáférés: kétirányú, adott nagy sebességű digitális hálózati szolgáltatás, amelynek során aktív hálózati eszközeinek átviteli kapacitását engedi át, illetve osztja meg az arra kötelezett szolgáltató az arra jogosult szolgáltatóval.
-- 11. Kiberbiztonsági incidens: Magyarország kiberbiztonságáról szóló törvény szerinti fogalom.
-- 12. E-segélyhívás: olyan, járműből az európai harmonizált segélyhívó számra érkező segélyhívás, amelyet vagy automatikusan a járműbe épített érzékelő aktiválása hatására, vagy manuálisan indítanak, és amely szabványos adatokat továbbít mobil rádiótelefon-hálózatok segítségével, és hangátviteli csatornát hoz létre a járműben tartózkodók és a segélyszolgálati állomás között.
-- 13. Egyéni előfizető: az a természetes személy előfizető, aki úgy nyilatkozott, hogy gazdasági tevékenységi körén kívül veszi igénybe az előfizetői szolgáltatást.
-- 14. Elektronikus hírközlési építmény: a magyar építészetről szóló törvényben meghatározott sajátos építményfajták, az elektronikus hírközléshez szükséges olyan sajátos építmények, amelyek magukba foglalják a vezetékekkel és vezeték nélküli összeköttetésekkel összefüggő – többek között burkoló, tartó, védő, jelző – műtárgyakat, különösen a tartozékokat és a tartószerkezeteket, az antenna-tartószerkezeteket (tornyokat), oszlopokat, alagutakat, kábelszekrényeket, csatornákat, föld alatti és föld feletti jelzőket, védőműtárgyakat, és a nyomvonalas és nyomvonal jellegű elektronikus hírközlési építményeket.
-- 15. Elektronikus hírközlési építmény építési folyamatának résztvevője: az építőipari kivitelezési tevékenység megkezdésére és folytatására hatósági határozat alapján jogosult építtető, az építésügyi hatósági eljáráshoz és az építőipari kivitelezéshez szükséges tervdokumentáció elkészítéséhez jogosultsággal rendelkező tervező, kivitelező, az építési területen végzett építési-szerelési munkát irányító felelős műszaki vezető, az építőipari kivitelezési tevékenység teljes folyamatában a vonatkozó jogszabályok, hatósági előírások, szabványok, szerződések és a tervdokumentáció betartását elősegítő és ellenőrző építési műszaki ellenőr.
-- 16. Elektronikus hírközlési szolgáltatás: olyan, más részére általában ellenszolgáltatásért – jellemzően díjazás ellenében – nyújtott szolgáltatás, amely az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások felhasználásával továbbított tartalmat szolgáltató, ilyen tartalom felett szerkesztői ellenőrzést gyakorló szolgáltatások vagy az információs társadalommal összefüggő, jogszabályban meghatározott, személyközi hírközlési szolgáltatásnak nem minősülő szolgáltatások kivételével magában foglalja
-  - a) az internet-hozzáférési szolgáltatást;
-  - b) a személyközi hírközlési szolgáltatást; és
-  - c) a teljesen vagy nagyrészt jeleknek elektronikus hírközlő hálózatokon történő átviteléből, és ahol ez értelmezhető, irányításából álló szolgáltatást, ideértve a gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatást és a műsorterjesztésre használt átviteli szolgáltatást is.
-- 17. Elektronikus hírközlési szolgáltató: elektronikus hírközlő hálózat üzemeltetője, valamint elektronikus hírközlési szolgáltatást nyújtó természetes személy, jogi személy vagy egyéb szervezet.
-- 18. Elektronikus hírközlési tevékenység: olyan tevékenység, amely bármely értelmezhető formában előállított jel, jelzés, írás, kép, hang vagy bármely természetű egyéb közlemény elektronikus hírközlő hálózaton keresztül egy vagy több felhasználóhoz történő eljuttatását szolgálja, így különösen az elektronikus hírközlési szolgáltatás nyújtása, elektronikus hírközlő hálózat vagy berendezés üzemeltetése, végberendezések forgalmazása és a kapcsolódó eszközök üzemeltetése, kapcsolódó szolgáltatások nyújtása.
-- 19. Elektronikus hírközlésre vonatkozó szabály: e törvény, e törvény felhatalmazása alapján a törvény végrehajtása tárgyában kibocsátott jogszabály, elektronikus hírközlésre vonatkozó, közvetlenül alkalmazandó európai uniós jogi aktus, Hatóság határozata és a Hatóság által az ügyféllel kötött hatósági szerződés.
-- 20. Elektronikus hírközlő berendezés: az elektronikus hírközlési tevékenység végzéséhez szükséges berendezés, ideértve többek között a készüléket.
-- 21. Elektronikus hírközlő eszköz: az elektronikus hírközlő berendezések és a kapcsolódó eszközök összessége, ideértve az antennákat is.
-- 22. Elektronikus hírközlő hálózat: jelek vezetékes vagy vezeték nélküli úton elektronikus hírközlő eszközökkel történő továbbítását lehetővé tevő, állandó infrastruktúrán vagy központilag adminisztrált kapacitáselosztáson alapuló rendszerek, továbbá adott esetben kapcsoló vagy útválasztó eszközök, valamint más erőforrások, beleértve a nem aktív hálózati elemeket is. Elektronikus hírközlő hálózat különösen a műholdas hálózat, a helyhez kötött – vezetékes vagy vezeték nélküli – hálózat és a mobil rádiótelefon-hálózat; az energiaellátó kábelrendszerek olyan mértékben, amennyiben azokat a jelek továbbítására használják, valamint a műsorterjesztő hálózat.
-- 23. Elektronikus hírközlő végberendezés: a hálózati végponton vezetékes vagy vezeték nélküli módon közvetlenül vagy közvetve kapcsolódó eszköz, amelynek célja információk küldése, feldolgozása vagy fogadása, beleértve a műholdas földi állomások berendezéseit is.
-- 24. Előfizető: olyan természetes vagy jogi személy, vagy más szervezet, aki vagy amely a nyilvánosan elérhető elektronikus hírközlési szolgáltatás nyújtójával ilyen szolgáltatások igénybevételére vonatkozó szerződéses viszonyban áll.
-- 25. Előfizetői hozzáférési pont: azon hálózati végpont, amelyen keresztül az előfizető, vagy felhasználó egy elektronikus hírközlő végberendezés fizikai és logikai csatlakoztatása révén hálózati funkciókat és a hálózaton nyújtott szolgáltatásokat vehet igénybe.
-- 26. Előfizetői hozzáférést nyújtó szolgáltató: azon elektronikus hírközlési szolgáltató, amely valamely elektronikus hírközlő hálózathoz vagy annak részéhez elektronikus hírközlő végberendezés nyilvánosan elérhető elektronikus hírközlési szolgáltatások igénybevétele céljából történő fizikai és logikai csatlakoztatására vonatkozóan az előfizetővel előfizetői szerződést kötött.
-- 27. Előfizetői szolgáltatás: a nyilvánosan elérhető, e törvény értelmében hálózati szolgáltatásnak nem minősülő elektronikus hírközlési szolgáltatás.
-- 28. Építési munka: az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 2. cikk 5. pontjában meghatározott fogalom.
-- 29. Épületen belüli fizikai infrastruktúra: az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 2. cikk 6. pontjában meghatározott fogalom.
-- 29a. Épületen belüli optikai kábelezés: az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 2. cikk 7. pontjában meghatározott fogalom.
-- 30. Épület-hozzáférési pont: az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 2. cikk 11. pontjában meghatározott fogalom.
-- 31. Felhasználó: az a természetes személy, jogi személy vagy egyéb szervezet, aki vagy amely nyilvánosan elérhető elektronikus hírközlési szolgáltatást használ vagy igényel.
-- 32. Feltételes hozzáférési rendszer: műszaki intézkedéssel, hitelesítési rendszerrel vagy módszerrel a műsorterjesztésben alkalmazott hozzáférés-korlátozás, melynek során a védett tartalomhoz, szolgáltatáshoz értelmezhető formában történő hozzáférés előfizetéshez vagy más formában megjelenő előzetes engedélyhez kötött.
-- 33. Fizikai helymegosztás: olyan helymegosztás, amelynek esetében a jogosult berendezései az arra kötelezett szolgáltató létesítményén belül, utóbbi által rendelkezésre bocsátott meghatározott helyen kerülnek elhelyezésre.
-- 34. Fizikai infrastruktúra: az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 2. cikk 4. pontjában meghatározott fogalom.
-- 35. Fogyasztó: az a természetes személy, aki szakmáján, üzleti, kereskedelmi, művészeti tevékenységén vagy hivatásán kívül eső célból nyilvánosan elérhető elektronikus hírközlési szolgáltatást használ vagy igényel.
-- 36. Forgalmazás: a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló, 2019. június 20-i 2019/1020/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 2019/1020/EU rendelet) 3. cikk 1. pontjában meghatározott fogalom.
-- 37. Forgalmazó: a 2019/1020/EU rendelet 3. cikk 10. pontjában meghatározott fogalom.
-- 38. Forgalomba hozatal: a 2019/1020/EU rendelet 3. cikk 2. pontjában meghatározott fogalom.
-- 39. Földrajzi szám: a nemzeti számozási tervben meghatározott olyan szám, amelynek földrajzi helyre utaló számrészét az előfizetői hozzáférési pont fizikai helyére történő hívásirányításra használják.
-- 40. Frekvenciafelosztás: egy adott frekvenciasávhoz egy vagy több rádiószolgálat hozzárendelése abból a célból, hogy azok a frekvenciasávot meghatározott feltételek mellett használják.
-- 41. Frekvenciagazdálkodás (rádióspektrum-gazdálkodás): azon állami tevékenységek összessége, amelyek a rádióspektrum szabályozott nemzeti és nemzetközi felhasználását szolgálják, célja a rádióspektrum hatékony és káros zavarástól mentes felhasználása, a frekvenciák biztosítása a rádiószolgálatok keretében működő rádiótávközlési, rádiócsillagászati és egyéb nem rádiótávközlési alkalmazások számára.
-- 42. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
-- 43. Gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatás: olyan elektronikus hírközlési szolgáltatás, amely az adatok és információk automatikus továbbítását foglalja magában eszközök vagy szoftveralapú alkalmazások között, korlátozott emberi beavatkozással vagy anélkül.
-- 44. Gyártó: a 2019/1020/EU rendelet 3. cikk 8. pontjában meghatározott személy.
-- 45. Hálózat egysége: az elektronikus hírközlő hálózat létesítésére, működtetésére, módosítására és megszüntetésére vonatkozó műszaki követelményrendszernek való megfelelés, amely biztosítja az együttműködő hálózatok használatának és az ezekhez történő hozzáférésnek a zavartalanságát, továbbá a hálózatban tárolt adatok funkcionális változatlanságát.
-- 46. Hálózatok és szolgáltatások biztonsága: az elektronikus hírközlő hálózatok és hírközlési szolgáltatások arra való képessége, hogy adott bizonyossággal ellenálljanak minden olyan cselekménynek, amely veszélyezteti a hálózatok és szolgáltatások, a rajtuk tárolt, továbbított vagy kezelt adatok vagy az említett elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások keretében nyújtott vagy rajtuk keresztül elérhető kapcsolódó szolgáltatások rendelkezésre állását, hitelességét, sértetlenségét vagy bizalmasságát.
-- 47. Hálózatüzemeltető: az (EU) 2024/1309 európai parlamenti és tanácsi rendelet 2. cikk 1. pontjában meghatározott fogalom.
-- 48. Hálózati hozzáférési pont: a hálózatnak más hálózat fizikai és logikai csatlakoztatására kijelölt olyan pontja, amelyen keresztül a hozzáférési szolgáltatás megvalósul.
-- 49. Hálózati szerződés: a hálózati szolgáltatások igénybevételére, azokhoz való hozzáférésre irányuló, szolgáltatók vagy szolgáltató és valamely vállalkozás közötti szerződés, ideértve a hozzáférésre és összekapcsolásra irányuló szerződést, továbbá a lineáris médiaszolgáltató és a műsorterjesztő közötti, műsorterjesztés igénybevételére irányuló szerződést is.
-- 50. Hálózati szolgáltatás: hozzáférési illetve összekapcsolási szolgáltatás nyújtása más szolgáltató vagy vállalkozás számára, illetve az ezek nyújtásához szükséges kiegészítő szolgáltatások.
-- 51. Hálózati végpont: az a fizikai és logikai csatlakozási pont, amelyen keresztül a végfelhasználó hozzáfér vagy hozzáférhet a nyilvános elektronikus hírközlő hálózathoz. A hálózati végpont azonosítására kapcsolással vagy irányítással működő hálózatok esetén egyedi, a végfelhasználói névhez vagy címhez kapcsolható hálózati cím szolgál.
-- 52. Hatékony szolgáltató: az a szolgáltató, amelynek az egy termék-, illetve szolgáltatásegységre jutó költsége nemzetközi összehasonlításban elfogadható, figyelembe véve az adott piaci körülményeket, a szolgáltatás nyújtásának technológiáját és a szolgáltató méretét.
-- 53. Helyhez kötött telefonszolgáltatás: helyhez kötött hálózati végponton keresztül igénybe vehető nyilvánosan elérhető telefonszolgáltatás, amely nem minősül nyilvánosan elérhető mobil rádiótelefon-szolgáltatásnak.
-- 54. Helyi alhurok: a helyhez kötött nyilvános elektronikus hírközlő hálózatban alkalmazott helyi hurok egy olyan szakasza, amely egy előfizetői hozzáférési pontot összeköt egy aggregációs ponttal vagy egy meghatározott köztes hozzáférési ponttal.
-- 55. Helyi hurok: a nyilvános helyhez kötött elektronikus hírközlő hálózatban valamely hálózati végpontnak a kábelrendezőig vagy azzal egyenértékű eszközig terjedő transzparens elektronikus hírközlési jelkapcsolatát biztosító fizikai útvonal.
-- 56. Helyi hurok átengedése: a helyi hurok teljes átengedése és a helyi hurok részleges átengedése, amely nem vonja maga után a helyi hurok tulajdonjogának megváltozását.
-- 57. Helyi hurok részleges átengedése: a kötelezett szolgáltató tulajdonában lévő helyi hurokhoz vagy helyi alhurokhoz való hozzáférés biztosítása valamely jogosult szolgáltató számára, amely lehetővé teszi a hálózati infrastruktúra egy meghatározott részének, például a frekvencia egy részének vagy ezzel egyenértékű résznek a használatát.
-- 58. Helyi hurok teljes átengedése: a kötelezett szolgáltató tulajdonában lévő helyi hurokhoz vagy helyi alhurokhoz való hozzáférés biztosítása valamely jogosult számára, amely lehetővé teszi a hálózati infrastruktúra teljes kapacitásának használatát.
-- 59. Helymeghatározási adat: a nyilvános mobilhálózatokon a hálózati infrastruktúrából vagy mobil készülékekből származó mindazon feldolgozott adat, amely meghatározza a végfelhasználó mobil végberendezésének földrajzi helyzetét, illetve nyilvános helyhez kötött hálózatokon a hálózati végpont nyilvántartásban rögzített címét.
-- 60. Helymeghatározási szolgáltatás: olyan kapcsolódó szolgáltatás, amelyet helymeghatározási adatok megadásával nyújtanak.
-- 61. Helymegosztás: erre kötelezett szolgáltató által fizikai tér és műszaki feltételek biztosítása a jogosult szolgáltató részére, annak berendezései megfelelő elhelyezése és bekapcsolása céljából fizikai, távoli, illetve virtuális helymegosztás útján.
-- 62. Hívás: nyilvánosan elérhető személyközi hírközlési szolgáltatás igénybevételével megvalósított, kétirányú hangalapú kommunikációt lehetővé tevő kapcsolat.
-- 63. Hívásvégződtetés forgalmi szolgáltatás: hálózati szolgáltatás, a hívás továbbítása az összekapcsolási pontról a hívott előfizető hozzáférési pontjára.
-- 64. Hozzáférés: eszközök vagy szolgáltatások rendelkezésre bocsátása más elektronikus hírközlési szolgáltató vagy vállalkozás részére meghatározott feltételek mellett, kizárólagos vagy nem kizárólagos jelleggel, elektronikus hírközlési szolgáltatások nyújtása céljából, beleértve azt is, amikor ezeket az információs társadalommal összefüggő szolgáltatások vagy lineáris médiaszolgáltatás nyújtására használják. A hozzáférés kiterjed többek között a hálózati elemekhez és kapcsolódó eszközökhöz történő hozzáférésre, amely magában foglalhatja
-  - a) a berendezések vezetékes vagy vezeték nélküli módon történő csatlakoztatását (ez tartalmazza különösen a helyi hurokhoz és a helyi hurok révén történő szolgáltatásnyújtáshoz szükséges eszközökhöz és szolgáltatásokhoz történő hozzáférést);
-  - b) az informatikai rendszerekhez vagy adatbázisokhoz való hozzáférést előrendelés, ellátás, rendelés, karbantartás, javítási igények és számlázás céljából;
-  - c) az összekapcsolást;
-  - d) a bitfolyam hozzáférést;
-  - e) a fizikai infrastruktúrához való hozzáférést, beleértve az épületeket, alépítményeket és tornyokat;
-  - f) a megfelelő szoftverrendszerekhez való hozzáférést, beleértve a működéstámogató rendszereket, a számfordításhoz vagy ezzel egyenértékű funkciót kínáló rendszerekhez való hozzáférést;
-  - g) a helyhez kötött és mobil rendszerekhez való hozzáférést, különösen barangolás céljából;
-  - h) a digitális televíziós szolgáltatások feltételes hozzáférési rendszereihez való hozzáférést;
-  - i) a virtuális hálózati szolgáltatásokhoz való hozzáférést.
-- 65. Importőr: a 2019/1020/EU rendelet 3. cikk 9. pontjában meghatározott személy.
-- 66. Interfész:
+- 1. Alapkiépítésű monitoring alrendszer: olyan rendszer, amely lehetővé teszi az elektronikus hírközlési feladatokat ellátó szervezet előfizetői, illetőleg felhasználói köréből tetszőlegesen kiválasztható, az előfizetők (felhasználók) összlétszámának legalább 0,1–0,6%-át kitevő, 150 000 előfizetői létszám alatt 0,6%, de legalább 60, 150 000–1 000 000 előfizetői létszám között 0,3%, de legalább 900, 1 000 000 előfizetői létszám felett 0,1%, de legalább 3000 (a teljes előfizetői körből egy előfizetőre számított átlagforgalom legfeljebb kétszeresével forgalmazó) előfizető vagy felhasználó kommunikációjának egyidejű ellenőrizhetőségét és azok kísérőadatainak késedelem nélküli, teljes körű, folyamatos, egyidejű kiválasztását és kiadását a kilépési pontra.
+- 2. Azonosító: az elektronikus hírközlő hálózat működéséhez, az elektronikus hírközlési szolgáltatások nyújtásához, illetőleg az elektronikus hírközlő hálózatok és szolgáltatások együttműködéséhez szükséges, az információ, illetőleg a jelzés célba juttatására szolgáló, annak címzettjét meghatározó betűkből, számokból, illetve jelekből álló karaktersorozat.
+- 3. Azonosítógazdálkodás: azon állami tevékenységek összessége, mely – a nemzetközi előírások figyelembevételével – a hírközlő hálózatok, illetőleg az elektronikus hírközlési szolgáltatások eléréséhez szükséges azonosítók használatát az egyes szolgáltatók számára rendelkezésre bocsátja. Jelen törvény vonatkozásában a domain név, az e-mail cím és az IP (Internet Protokoll) címekkel kapcsolatos tevékenységek nem tartoznak bele az azonosítógazdálkodási tevékenységbe.
+- 4. Árprés: olyan versenykorlátozó helyzet, amelyben egy hatékonyan működő szolgáltató az árrés szűkösségéből következően nem képes a hálózati szolgáltatás igénybevételével a hálózati szolgáltatást nyújtó szolgáltató által, illetve általa irányított, őt irányító vagy vele közös irányítás alatt álló vállalkozás által az érintett piacon már nyújtott ráépülő előfizetői szolgáltatást a hálózati szolgáltatást nyújtó szolgáltató, illetve az általa irányított, őt irányító vagy vele közös irányítás alatt álló vállalkozás által kialakított árszinten gazdaságosan nyújtani.
+- 5. Átalánydíjas internet híváskezdeményezés forgalmi szolgáltatás: hálózati szolgáltatás, amely az előfizetői internet hívások eljuttatását jelenti a hívó előfizetői hozzáférési pontjáról az összekapcsolási pontig olyan módon, hogy az összekapcsolási ponton az arra kötelezett szolgáltató átalánydíj ellenében meghatározott kapacitást bocsát az arra jogosult szolgáltató rendelkezésére.
+- 5/a. Átviteli rendszer: a televízió vagy rádió műsorjeleknek az analóg vagy digitális műsorterjesztését szolgáló műszaki eljárások, elektronikus hírközlési és más eszközök rendszere, amely a műsorterjesztés alkalmazott átviteli közegéhez – így különösen a levegőhöz és rádiófrekvenciához, koaxiális vezetékhez, sodrott érpárú vezetékhez, üvegszálas vezetékhez – kapcsolódik.
+- 6. Barangolás mobil rádiótávközlő hálózaton: mobil rádiótelefon hálózat üzemeltetőjének előfizetője által más mobil rádiótelefon szolgáltató vagy üzemeltető hálózatának igénybevétele oly módon, hogy az előfizető a részére előfizetői hozzáférést nyújtó elektronikus hírközlési szolgáltató hálózatában használt alap-, illetve a műszaki lehetőségek figyelembevételével további szolgáltatásokat és hívási módokat részben vagy egészben az igénybe vett hálózaton is használni tudja, anélkül, hogy ezen szolgáltató előfizetőjévé válna. 6/A. Belföldi forgalomba hozatal: a Magyar Köztársaságban első alkalommal történő forgalmazás.
+- 7. Belföldi hívás: minden olyan hívás, amelyet belföldön kezdeményeznek, és belföldön végződik.
+- 8. Bérelt vonal: azon elektronikus hírközlő eszközök összessége, amelyek a hálózati végpontok között transzparens átviteli kapacitást biztosítanak, de nem tartalmazzák a felhasználó által vezérelhető kapcsoló funkciókat.
+- 9. Bitfolyam hozzáférés: kétirányú, adott nagysebességű digitális hálózati szolgáltatás, amelynek során aktív hálózati eszközeinek átviteli kapacitását engedi át, illetve osztja meg az arra kötelezett szolgáltató az arra jogosult szolgáltatóval.
+- 10. Egyéni előfizető: az a természetes személy előfizető, aki úgy nyilatkozott, hogy gazdasági tevékenységi körén kívül veszi igénybe az előfizetői szolgáltatást.
+- 11. Egyetemes elektronikus hírközlési szolgáltatás: az e törvényben meghatározott azon elektronikus hírközlési szolgáltatások, amelyek meghatározott minőségben, a Magyar Köztársaság területén bárhol, minden felhasználó számára megfizethető ár ellenében igénybe vehetők.
+- 12. Elektronikus hírközlési építmény: elektronikus hírközlési nyomvonalas és nyomvonal jellegű létesítmények és egyéb műtárgyak; az elektronikus hírközléshez szükséges olyan sajátos építmények, amelyek magukba foglalják a vezetékekkel és vezeték nélküli összeköttetésekkel összefüggő – burkoló, tartó, védő, jelző stb. – műtárgyakat, különösen a tartozékokat és a tartószerkezeteket, az antenna-tartószerkezeteket (tornyokat), oszlopokat, alagutakat, kábelszekrényeket, csatornákat, föld alatti és föld feletti jelzőket, védőműtárgyakat.
+- 13. Elektronikus hírközlési szolgáltatás: olyan, más részére általában ellenszolgáltatásért végzett szolgáltatás, amely teljesen vagy nagyrészt jeleknek elektronikus hírközlő hálózatokon történő átviteléből, és ahol ez értelmezhető, irányításából áll, de nem foglalja magában az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások felhasználásával továbbított tartalmat szolgáltató vagy ilyen tartalom felett szerkesztői ellenőrzést gyakorló szolgáltatásokat, valamint nem foglalja magában az információs társadalommal összefüggő, más jogszabályokban meghatározott szolgáltatásokat, amelyek nem elsősorban az elektronikus hírközlő hálózatokon történő jeltovábbításból állnak.
+- 14. Elektronikus hírközlési szolgáltató: elektronikus hírközlő hálózat üzemeltetője, valamint elektronikus hírközlési szolgáltatást nyújtó természetes, illetőleg jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság.
+- 15. Elektronikus hírközlési tevékenység: olyan tevékenység, amely bármely értelmezhető formában előállított jel, jelzés, írás, kép, hang vagy bármely természetű egyéb közlemény elektronikus hírközlő hálózaton keresztül egy vagy több felhasználóhoz történő eljuttatását szolgálja, így különösen az elektronikus hírközlési szolgáltatás nyújtása, elektronikus hírközlő hálózat vagy berendezés üzemeltetése, végberendezések forgalmazása és a kapcsolódó szolgáltatások.
+- 16. Elektronikus hírközlésre vonatkozó szabály: e törvény, e törvény felhatalmazása alapján a törvény végrehajtása tárgyában kibocsátott jogszabály, elektronikus hírközlésre vonatkozó, közvetlenül alkalmazandó európai uniós jogi aktus, valamint a hatóság határozata.
+- 17. Elektronikus hírközlő berendezés: az elektronikus hírközlési tevékenység végzéséhez szükséges berendezés, ideértve többek között a készüléket.
+- 18. Elektronikus hírközlő eszköz: az elektronikus hírközlő berendezések és a kapcsolódó eszközök összessége, ideértve az antennákat is.
+- 19. Elektronikus hírközlő hálózat: átviteli rendszerek és – ahol ez értelmezhető – a hálózatban jelek irányítására szolgáló berendezések, továbbá más erőforrások, melyek jelek továbbítását teszik lehetővé meghatározott végpontok között vezetéken, rádiós, optikai vagy egyéb elektromágneses úton, beleértve a műholdas hálózatokat, a helyhez kötött és a mobil földfelszíni hálózatokat, az energiaellátó kábelrendszereket, olyan mértékben, amennyiben azt a jelek továbbítására használják, a műsorszórásra használt hálózatokat és a kábeltelevíziós hálózatokat, tekintet nélkül a továbbított információ fajtájára.
+- 20. Elektronikus hírközlő hálózat üzemeltetője: nyilvános elektronikus hírközlő hálózat, illetve kapcsolódó eszközök feletti rendelkezési vagy használati jogot gyakorló természetes, illetőleg jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet.
+- 21. Elektronikus hírközlő végberendezés: olyan termék vagy egy termék olyan része, amelynek rendeltetése az elektronikus hírközlő hálózatra való kapcsolódás közvetlenül vagy közvetve, az előfizetői hozzáférési ponton keresztül az elektronikus hírközlő hálózattal való együttműködés céljából.
+- 22. Előfizető: olyan természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság vagy más szervezet, aki vagy amely a nyilvánosan elérhető elektronikus hírközlési szolgáltatás nyújtójával ilyen szolgáltatások igénybevételére vonatkozó szerződéses viszonyban áll.
+- 23. Előfizetői hozzáférési pont: azon hálózati végpont, amelyen keresztül az előfizető, vagy felhasználó egy elektronikus hírközlő végberendezés fizikai és logikai csatlakoztatása révén hálózati funkciókat és a hálózaton nyújtott szolgáltatásokat vehet igénybe.
+- 24. Előfizetői hozzáférést nyújtó szolgáltató: azon elektronikus hírközlési szolgáltató, amely valamely elektronikus hírközlő hálózathoz vagy annak részéhez elektronikus hírközlő végberendezés nyilvánosan elérhető elektronikus hírközlési szolgáltatások igénybevétele céljából történő fizikai és logikai csatlakoztatására vonatkozóan az előfizetővel előfizetői szerződést kötött.
+- 25. Előfizetői szolgáltatás: a nyilvánosan elérhető, e törvény értelmében hálózati szolgáltatásnak nem minősülő elektronikus hírközlési szolgáltatás. 25/A. Az Európai Gazdasági Térség tagállama: az Európai Unió tagállama vagy az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
+- 26. Felhasználó: az a természetes személy, jogi személy vagy jogi személyiség nélküli gazdasági társaság vagy egyéb szervezet, amely használja vagy igényli az elektronikus hírközlési tevékenységeket, így különösen az elektronikus hírközlési szolgáltatásokat.
+- 27. Fizikai helymegosztás: Olyan helymegosztás, amelynek esetében a helymegosztásra jogosult berendezései az arra kötelezett szolgáltató létesítményén belül, utóbbi által rendelkezésre bocsátott meghatározott helyen kerülnek elhelyezésre.
+- 28. Fogyasztó: bármilyen természetes személy, aki szakmáján, üzleti tevékenységén vagy hivatásán kívül eső célból nyilvánosan elérhető elektronikus hírközlési szolgáltatást használ vagy igényel.
+- 29. Forgalmazás: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK rendelet) 2. cikk 1. pontjában meghatározott fogalom. 29/A. Forgalomba hozatal: a 765/2008/EK rendelet 2. cikk 2. pontjában meghatározott fogalom.
+- 30. Földrajzi szám: az ANFT-ben meghatározott olyan szám, amely földrajzi helyre utaló számrészét a számkijelölés szerinti előfizetői hozzáférési pont fizikai helyére történő irányítására használnak.
+- 31. Frekvenciagazdálkodás: azon állami tevékenységek összessége, melyek a rádióspektrum szabályozott nemzeti és nemzetközi felhasználását szolgálják, célja a rádióspektrum hatékony és káros zavarástól mentes felhasználása, a frekvenciák biztosítása a rádiószolgálatok keretében működő rádiótávközlési, rádiócsillagászati és egyéb nem rádiótávközlési alkalmazások számára.
+- 32. Gyártó: a 765/2008/EK rendelet 2. cikk 3. pontjában meghatározott személy.
+- 33. Hálózat egysége: az elektronikus hírközlő hálózat létesítésére, működtetésére, módosítására és megszüntetésére vonatkozó műszaki követelményrendszernek való megfelelés, amely biztosítja az együttműködő hálózatok használatának és az ezekhez történő hozzáférésnek a zavartalanságát, továbbá a hálózatban tárolt adatok funkcionális változatlanságát.
+- 34. Hálózati hozzáférési pont: a hálózatnak más hálózat fizikai csatlakoztatására kijelölt olyan pontja, melyen keresztül a hozzáférési szolgáltatás megvalósul.
+- 35. Hálózati szerződés: hálózati szolgáltatások igénybevételére, azokhoz való hozzáférésre irányuló, szolgáltatók közötti szerződés, ideértve a hozzáférésre és összekapcsolásra irányuló szerződést.
+- 36. Hálózati szolgáltatás: hozzáférési és/vagy összekapcsolási szolgáltatás nyújtása más szolgáltató számára, illetve az ezek nyújtásához szükséges kiegészítő szolgáltatások.
+- 37. Hálózati végpont: az a fizikai és logikai csatlakozási pont vagy rádiós csatlakozási felület, amelyen keresztül a szolgáltató hozzáférést nyújt egy elektronikus hírközlő hálózathoz.
+- 38. Hangfrekvenciás tárcsázás: jogszabályban meghatározott hangfrekvenciás jelek használata.
+- 39. Harmonizált frekvenciahasználatú rádióalkalmazás: olyan rádióalkalmazás, amelyre vonatkozó rádióinterfész-előírások (beleértve a frekvenciafelosztást, a csatornaelrendezési tervet és a vonatkozó frekvenciagazdálkodási jellemzőket) az Európai Gazdasági Térségről szóló megállapodásban részes minden államban azonosak.
+- 40. Hatékony szolgáltató: az a szolgáltató, amelynek az egy termék-, illetve szolgáltatásegységre jutó költsége nemzetközi összehasonlításban elfogadható, figyelembe véve az adott piaci körülményeket, a szolgáltatás nyújtásának technológiáját és a szolgáltató méretét.
+- 41. Helyhez kötött telefon szolgáltatás: helyhez kötött előfizetői végponton keresztül igénybe vehető nyilvános telefon szolgáltatás mobil rádiótelefon szolgáltatásnak nem minősülő nyilvánosan elérhető telefon szolgáltatás.
+- 42. Helyhez kötött telefonhálózat: helyhez kötött telefon szolgáltatás igénybevételét lehetővé tevő nyilvános telefonhálózat.
+- 43. Helyi alhurok: a helyhez kötött telefonhálózatban alkalmazott helyi hurok egy olyan szakasza, amely egy előfizetői végpontot összeköt egy meghatározott köztes elérési ponttal.
+- 44. Helyi bitfolyam hozzáférés: olyan bitfolyam hozzáférés, ahol a hálózati eszköz alatt a helyhez kötött telefonhálózatban lévő, a helyi hurokhoz csatlakozó és annak forgalmát multiplexáló, illetve demultiplexáló eszköz (például DSLAM) értendő, a helyi hurkot továbbra is a kötelezett szolgáltató használhatja szolgáltatás nyújtására.
+- 45. Helyi hurok: a helyhez kötött telefonhálózatban az előfizetői hozzáférési pontot a rendezővel vagy az annak megfelelő eszközzel összekötő fizikai áramkör.
+- 46. Helyi hurok átengedése: a helyi hurok teljes átengedése és a helyi hurok részleges átengedése, amely nem vonja maga után a helyi hurok tulajdonjogának megváltozását.
+- 47. Helyi hurok részleges átengedése: a kötelezett szolgáltató tulajdonában lévő helyi hurokhoz vagy helyi alhurokhoz való hozzáférés biztosítása valamely jogosult szolgáltató számára, amelynek során a helyi huroknak vagy helyi alhuroknak az igénybejelentéskor ténylegesen szolgáltatásra igénybe vett frekvenciasávon felüli frekvenciasáv használatát engedik át; a frekvenciasáv át nem engedett részét továbbra is a kötelezett szolgáltató használja.
+- 48. Helyi hurok teljes átengedése: a kötelezett szolgáltató tulajdonában lévő helyi hurokhoz vagy helyi alhurokhoz való hozzáférés biztosítása valamely jogosult számára, amelynek során a helyi hurok vagy helyi alhurok teljes frekvenciasávjának használatát engedik át.
+- 49. Helymeghatározási adat: az elektronikus hírközlő hálózatban feldolgozott bármely adat, amely egy elektronikus hírközlési szolgáltatás felhasználója végberendezésének földrajzi helyzetét jelzi.
+- 50. Helymegosztás: erre kötelezett szolgáltató által fizikai tér és műszaki feltételek biztosítása a jogosult szolgáltató részére, annak berendezései megfelelő elhelyezése és bekapcsolása céljából fizikai, távoli, illetve virtuális helymegosztás útján.
+- 51. Híváskezdeményezés forgalmi szolgáltatás: hálózati szolgáltatás, hívás továbbítása a hívó előfizető hozzáférési pontjáról az összekapcsolási pontig.
+- 52. Híváskezdeményezéssel történő közvetítőválasztás: a közvetítőválasztás azon módja, amelyben az előfizetői hozzáférést nyújtó szolgáltató a közvetítőválasztást az előfizetővel előfizetői jogviszonyban álló közvetítő szolgáltató részére nyújtott híváskezdeményezés forgalmi szolgáltatás által biztosítja.
+- 53. Hívásvégződtetés forgalmi szolgáltatás: hálózati szolgáltatás, a hívás továbbítása az összekapcsolási pontról a hívott előfizető hozzáférési pontjára.
+- 54. Hívásvégződtetéssel történő közvetítőválasztás: a közvetítőválasztás azon módja, amelyben az előfizetői hozzáférést nyújtó szolgáltató a közvetítőválasztást az előfizető által választott, vele előfizetői jogviszonyban álló közvetítő szolgáltató által nyújtott hívásvégződtetés forgalmi szolgáltatás igénybevétele által biztosítja.
+- 55. Hosszú távú, előremutató különbözeti költségek költségszámítási módszere (LRIC): az a költségszámítási módszer, amely a szolgáltatók számviteli nyilvántartásaiban szereplő tényadatokat és a szolgáltató meglévő elektronikus hírközlési struktúráját használja fel kiindulási pontként, a tárgyi eszközökre, immateriális javakra és működési költségekre, illetve ráfordításokra vonatkozó tényleges adatokat a működésében hosszú távon feltételezett változások és hatékonysági tényezők figyelembevételével átértékeli, majd ezek mennyiségtől függő részét a közvetett költségek megtérülését biztosító felár figyelembevételével költség-meghatározó tényezők és költségmennyiség függvények segítségével tevékenységekre és termékekre allokálja.
+- 56. Hozzáférés: eszközök, illetve szolgáltatások rendelkezésre bocsátása más elektronikus hírközlési szolgáltató vagy vállalkozás részére meghatározott feltételek mellett, kizárólagos vagy nem kizárólagos jelleggel, elektronikus hírközlési szolgáltatások nyújtása céljából. A hozzáférés kiterjed többek között a hálózati elemekhez és kapcsolódó eszközökhöz történő hozzáférésre, amely magában foglalhatja – a berendezések vezetékes vagy vezeték nélküli módon történő csatlakoztatását (ez tartalmazza különösen a helyi hurokhoz és a helyi hurok révén történő szolgáltatásnyújtáshoz szükséges eszközökhöz és szolgáltatásokhoz történő hozzáférést); – az összekapcsolást; – a bitfolyam hozzáférést; – a fizikai infrastruktúrához való hozzáférést, beleértve az épületeket, alépítményeket és tornyokat; – a megfelelő szoftverrendszerekhez való hozzáférést, beleértve a működéstámogató rendszereket, a számfordításhoz vagy ezzel egyenértékű funkciót kínáló rendszerekhez való hozzáférést; – a vezetékes és mobil hálózatokhoz való hozzáférést, különösen barangoláshoz; – digitális televíziós szolgáltatások feltételes hozzáférési rendszereihez való hozzáférést.
+- 56/a. Importőr: a 765/2008/EK rendelet 2. cikk 5. pontjában meghatározott személy.
+- 57. Interfész: a jelen törvény alkalmazásában
   - a) hálózati interfész: az elektronikus hírközlő hálózat azon csatlakoztatási felülete – annak fizikai és logikai jellemzőivel együtt –, amely más elektronikus hírközlő hálózathoz való hozzáférésre vagy hálózattal való összekapcsolásra szolgál,
-  - b) előfizetői interfész: az elektronikus hírközlő hálózat azon csatlakoztatási felülete – annak fizikai és logikai jellemzőivel együtt –, amelyen keresztül a szolgáltató a felhasználónak előfizetői hozzáférést nyújt az elektronikus hírközlő hálózathoz.
-- 67. Internet-hozzáférés szolgáltatás: a nyílt internet-hozzáféréssel és az EU-n belüli szabályozott hírközlési szolgáltatásokra vonatkozó kiskereskedelmi díjakkal kapcsolatos intézkedések meghozataláról, továbbá a 2002/22/EK irányelv és az 531/2012/EU rendelet módosításáról szóló, 2015. november 25-i 2015/2120/EU európai parlamenti és tanácsi rendelet 2. cikkének 2. pontjában meghatározott szolgáltatás.
-- 68. Irányítás: a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 23. § (2) bekezdésében meghatározott kapcsolat.
-- 69. Jelenlét-ellenőrző szolgáltatás: olyan kapcsolódó szolgáltatás, amelyet az előfizető vagy felhasználó meghatározott állapotára vonatkozó adatok igénybevételével nyújtanak.
-- 70. Kapcsolódó eszközök: azok a kapcsolódó szolgáltatások, elektronikus hírközlő hálózathoz, továbbá elektronikus hírközlési szolgáltatáshoz kapcsolódó fizikai infrastruktúrák és egyéb eszközök vagy elemek, amelyek alkalmasak hálózat vagy szolgáltatás útján történő szolgáltatásnyújtásra, illetve azt lehetővé teszik vagy támogatják. Ide tartoznak többek között az épületek, az épület-hozzáférési pontok, az épületek kábelezése, az antennák, a tornyok és egyéb támszerkezetek, az alépítmények, a csőnyílások, a védőcsövek, a tartóoszlopok, a kábelaknák és a kábelszekrények, kapcsolódó információs rendszerek.
-- 71. Kapcsolódó szolgáltatások: azok az elektronikus hírközlő hálózathoz, illetve elektronikus hírközlési szolgáltatáshoz kapcsolódó szolgáltatások, amelyek alkalmasak az adott hálózaton keresztül vagy szolgáltatás útján történő, különösen automatizált szolgáltatás útján megvalósuló szolgáltatásnyújtásra, illetve azt lehetővé teszik vagy támogatják. Ide tartoznak többek között a számfordítási, és az azzal egyenértékű funkcióval rendelkező rendszerek, a feltételes hozzáférési rendszerek, az elektronikus műsortájékoztatók, valamint egyéb szolgáltatások, mint például az azonosítás szolgáltatás, a helymeghatározási szolgáltatás és a jelenlét-ellenőrző szolgáltatás.
-- 72. Kábelrendező: a helyi hurok értelmezésében olyan csatlakozásra megfelelő szerelvény, amelyben az érintett helyi hurok vagy helyi alhurok egyedi leválasztó eszközei találhatók.
-- 73. Káros zavarás: olyan zavarás, amely veszélyezteti egy rádiónavigáció szolgálat vagy más biztonsági szolgálat működését, vagy amely egyébként komolyan károsítja, akadályozza vagy ismételten megszakítja egy – a Nemzetközi Rádiószabályzatnak, illetve az alkalmazandó európai uniós vagy nemzeti szabályozásnak megfelelően használt – rádiótávközlési szolgálat működését.
-- 74. Segélyhívó szolgálat: olyan szolgálat, amely a nemzeti joggal összhangban azonnali és gyors segélynyújtást biztosít különösen olyan helyzetekben, amelyek közvetlenül veszélyeztetik az életet vagy a testi épséget, az egyének egészségét vagy biztonságát, a közegészséget, a közbiztonságot, a magán- vagy köztulajdont, illetve a környezetet.
-- 75. Készülék: a rádióberendezés és az elektronikus hírközlő végberendezés.
-- 76. Kilépési pont: a titkos információgyűjtés, illetve leplezett eszközök alkalmazása során az elektronikus hírközlési szolgáltató rendszeréből a monitoring alrendszerrel, alrendszerekkel kinyert közlések és kísérőadatok fizikai átadási pontja, pontjai a Nemzetbiztonsági Szakszolgálat felé, amelyet az elektronikus hírközlési szolgáltató a 92. § (4) bekezdésében meghatározottak szerint egyeztetetten, adott földrajzi helyen és formában, az elektronikus hírközlési szolgáltató területén biztosít.
-- 77. Kis területi lefedésű, vezeték nélküli hozzáférési pont: engedélyköteles, engedélymentes, vagy engedélyköteles és engedélymentes rádióspektrum használatával üzemelő, kis teljesítményű, kis területi lefedésű, egy vagy több csekély vizuális hatású antennával rendelkező vezeték nélküli hálózati hozzáférést megvalósító kisméretű berendezés. Működhet nyilvános elektronikus hírközlő hálózat részeként, vagy biztosíthat a felhasználók számára vezeték nélküli hozzáférést tekintet nélkül a hálózati topológiára – akár állandóhelyű, akár mobil – elektronikus hírközlő hálózathoz.
-- 78. Kizárólagos jog: egyetlen vállalkozásnak jogszabályban vagy közigazgatási határozatban biztosított olyan jog, amely alapján kizárólag az ilyen joggal rendelkező vállalkozás végezheti az adott tevékenységet egy adott földrajzi területen belül.
-- 78a. Közjogi intézmény: az a jogképes szervezet, amelyet nem ipari vagy kereskedelmi jellegű, kifejezetten közérdekű tevékenység folytatása céljából hoznak létre, vagy amely bármilyen mértékben ilyen tevékenységet lát el, feltéve, hogy irányítása a minisztérium, a Kormány által kijelölt központi beszerző szerv, a 78b. pontjában meghatározott egy vagy több szervezet, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány és az általa létesített vagy fenntartott jogi személy, az Országgyűlés vagy a Kormány közvetlen vagy közvetett felügyelete alatt áll, vagy többségi részben egy vagy több ilyen szervezet (testület) finanszírozza, vagy egy vagy több ilyen szervezet (testület) választja meg a vezető tisztségviselők, a döntéshozó szerv vagy a felügyelőbizottság tagjainak a többségét.
-- 78b. Közszférabeli szervezet:
-  - a) az állam,
-  - b) a költségvetési szerv,
-  - c) a közalapítvány,
-  - d) a helyi önkormányzat,
-  - e) a helyi és országos nemzetiségi önkormányzat,
-  - f) a helyi és nemzetiségi önkormányzatok társulása,
-  - g) a területfejlesztési önkormányzati társulás,
-  - h) a térségi fejlesztési tanács, vagy
-  - i) a közjogi intézmény.
-- 79. Közös eszközhasználat: az elektronikus hírközlési építmények, valamint az elektronikus hírközlő eszközök közös használata. A helymegosztás a közös eszközhasználat különös formája.
-- 80. Közterület: közhasználatra szolgáló minden állami vagy önkormányzati tulajdonban álló földrészlet, ideértve különösen az ingatlan-nyilvántartásban közterületként, közútként, kerékpárútként, járdaként, gyalogútként, útpadkaként, útárokként, zöldsávként, parkolóként, zöldterületként, térként, parkként nyilvántartott ingatlanokat.
-- 81. Közvetített szolgáltatás: a számvitelről szóló 2000. évi C. törvény 3. § (4) bekezdés 1. pontjában meghatározott szolgáltatás.
-- 82. Közzététel: e törvény által a Hatóság számára közzétenni rendelt információ hozzáférhetővé tétele a Hatóság internetes oldalain haladéktalanul. A közzététel időpontja az információ Hatóság internetes oldalain történő hozzáférhetővé tételének időpontja.
-- 83. Különleges jogok: korlátozott számú vállalkozásnak jogszabályban vagy közigazgatási határozatban, egy adott földrajzi területen belül biztosított jogok,
+  - b) előfizetői interfész: az elektronikus hírközlő hálózat azon csatlakoztatási felülete – annak fizikai és logikai jellemzőivel együtt –, amelyen keresztül a szolgáltató a felhasználónak előfizetői hozzáférést nyújt az elektronikus hírközlő hálózathoz,
+  - c) rádióinterfész: a rádióhullámoknak a rádióberendezések közötti átviteli útját meghatározó rádiós csatlakozási felület, valamint ennek műszaki jellemzői.
+- 58. Internet híváskezdeményezés forgalmi szolgáltatás: hálózati szolgáltatás, internet szolgáltatás elérésére irányuló hívás továbbítása a hívó előfizető hozzáférési pontjáról a közvetítő szolgáltató összekapcsolási pontjáig.
+- 59. Internet szolgáltatás telefonhálózaton keresztül történő elérése: szolgáltatás, amellyel a felhasználó a telefonhálózat végpontján csatlakoztatott végberendezésével a telefonhálózaton át csatlakozhat az internethez abból a célból, hogy az internet szolgáltatótól adatátviteli szolgáltatást vegyen igénybe.
+- 60. Irányítás: a Tpvt. 23. § (2) bekezdésében így meghatározott kapcsolat.
+- 61. Kapcsolódó eszközök: elektronikus hírközlő hálózat üzemeltetéséhez, illetve elektronikus hírközlési szolgáltatás nyújtásához kötődő, vagy ahhoz igénybe vehető eszközök, ideértve többek között a feltételes hozzáférési rendszereket és az elektronikus műsortájékoztatókat.
+- 62. Káros zavarás: olyan zavarás, amely veszélyezteti egy rádiónavigációs szolgálat vagy más biztonsági szolgálat működését, vagy amely egyébként komolyan károsítja, akadályozza vagy ismételten megszakítja egy – a Nemzetközi Rádiószabályzatnak, illetve az alkalmazandó európai uniós vagy nemzeti szabályozásnak megfelelően használt – rádiótávközlési szolgálat működését.
+- 63. Készülék: a rádióberendezés és az elektronikus hírközlő végberendezés.
+- 64. Kilépési pont: a titkos információgyűjtés, illetve titkos adatszerzés során az elektronikus hírközlési szolgáltató rendszeréből a monitoring alrendszerrel, alrendszerekkel kinyert közlések és kísérőadatok fizikai átadási pontja, pontjai a Nemzetbiztonsági Szakszolgálat felé, amelyet az elektronikus hírközlési szolgáltató a 92. § (4) bekezdésében meghatározottak szerint egyeztetetten, adott földrajzi helyen és formában, az elektronikus hírközlési szolgáltató területén biztosít.
+- 65. Kizárólagos jogok: egyetlen vállalkozásnak jogszabályban vagy közigazgatási határozatban biztosított olyan jog, amely alapján kizárólag az ilyen joggal rendelkező vállalkozás végezheti az adott tevékenységet egy adott földrajzi területen belül.
+- 66. Közös eszközhasználat: az elektronikus hírközlési építmények, valamint az elektronikus hírközlő eszközök, így többek között az információs rendszerek közös használata. A helymegosztás a közös eszközhasználat különös formája.
+- 67. Közvetítő szolgáltató: azon elektronikus hírközlési szolgáltató, amely az előfizetői hozzáférést nyújtó szolgáltatóval kötött hálózati szerződése alapján biztosítja az előfizető választása szerinti esetekben a hívott előfizető vagy szolgáltatás elérését.
+- 68. Közvetítőválasztás: az elektronikus hírközlési szolgáltató előfizetőjének az a lehetősége, hogy a hívott előfizető vagy szolgáltatás eléréséhez megválassza a közvetítő szolgáltatót, amely az előfizetői hozzáférést nyújtó szolgáltatóval összekapcsoláson keresztül nyilvánosan elérhető telefonszolgáltatást nyújt, amely az alábbi módokon vehető igénybe: Közvetítő-előválasztás: az előfizető szerződésben köti ki a közvetítő szolgáltatót és a hívás közvetítőválasztó előtét alkalmazása nélkül lehetséges. Hívásonkénti közvetítőválasztás: az előfizető egy-egy híváshoz a közvetítő szolgáltatót szolgáltató-választó előtét tárcsázásával – az esetleges előválasztástól is eltérően – határozza meg.
+- 69. Közzététel: e törvény által a hatóság számára közzétenni rendelt információ hozzáférhetővé tétele a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, az arra vonatkozó eljárás szerint, valamint a hatóság internetes oldalain haladéktalanul.
+- 70. Különleges jogok: korlátozott számú vállalkozásnak jogszabályban vagy közigazgatási határozatban, egy adott földrajzi területen belül biztosított jogok,
   - a) amelyek odaítélése során a feljogosított vállalkozások kijelölése, vagy azok számának korlátozása nem objektív, arányos és hátrányos megkülönböztetéstől mentes feltételek mellett történik, vagy
   - b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megkülönböztetéstől mentes feltételek mellett biztosítanak olyan jogszabályi vagy szabályozási előnyöket, amelyek jelentős mértékben befolyásolják más vállalkozások lehetőségét arra, hogy ugyanolyan elektronikus hírközlési tevékenységre vállalkozzanak, ugyanazon földrajzi területen belül, lényegében azonos feltételek mellett.
-- 84. Meghatalmazott képviselő: a 2019/1020/EU rendelet 3. cikk 12. pontjában meghatározott személy.
-- 85. MMS: Multimédiás üzenetküldés szolgáltatás.
-- 86. Mobil rádiótelefon-hálózat: olyan földfelszíni elektronikus hírközlő hálózat, amely a nagy területen mozgó igénybe vevők között lehetővé teszi a kétirányú kommunikációt.
-- 87. Mobil rádiótelefon-szolgáltatás: olyan nyilvánosan elérhető telefonszolgáltatás, amelynek során e szolgáltatás nagy térben mozgó bármely előfizetője – mobil rádiótelefon-hálózat hálózati végpontján csatlakoztatott berendezésről indított hívással kommunikálhat egy másik hálózati végponttal. E szolgáltatás beszédátvitelre, valamint az ehhez kapcsolódó szolgáltatásokra és egyéb szolgáltatásokra (például adatátviteli szolgáltatások, rövid szöveges üzenetküldés) szolgál.
-- 88. Műsorszórás: a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 203. § 49. pontjában meghatározott fogalom.
-- 89. Műsorterjesztés: a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 203. § 50. pontjában meghatározott fogalom.
-- 90. Nagyfrekvenciás jel: nem rádiótávközlési célra használt rádiófrekvenciás jel.
-- 91. Nagyfrekvenciás mellékhatás: olyan nagyfrekvenciás jel, amely különféle célú berendezésekben (többek között készülékekben, eszközökben, járművekben) szikrakisülés, gázkisülés vagy félvezetős szabályozás melléktermékeként keletkezik.
-- 92. Nagyfrekvenciás villamos berendezés: az elektromágneses energia kis térben való előállítására és hasznosítására szolgáló ipari, tudományos, orvosi, háztartási vagy hasonló célú, nem elektronikus hírközlő berendezés.
-- 93. Nagy sebességű elektronikus hírközlő hálózat: legalább 30 Mb/s adatátviteli sebességű, szélessávú hozzáférési szolgáltatások nyújtására képes elektronikus hírközlő hálózat.
-- 94. Nagy sebességű technológia fogadására kész, épületen belüli fizikai infrastruktúra: nagy sebességű elektronikus hírközlő hálózatok elemeinek fogadására szánt vagy ilyen hálózat működését lehetővé tevő, épületen belüli fizikai infrastruktúra.
-- 95. Nem azonosítható hívószám: az a hívószám, amely az előfizető számára kiállított tételes számlamellékletben személyes adatok védelme érdekében nem szerepel.
-- 96. Nemföldrajzi szám: a nemzeti számozási tervben meghatározott olyan szám, amely nem földrajzi szám, különösen a mobilszámok, a díjmentes és az emelt díjas szolgáltatás hívószámai, továbbá a gépek közötti szolgáltatás nyújtására használt átviteli szolgáltatások hívószámai.
-- 97. Nettó árbevétel: a szolgáltató számviteli törvény szerinti nettó árbevétele.
-- 98. Nettó elkerülhető költség: az a költség, amelyet a hatékony szolgáltató az egyetemes szolgáltatási kötelezettség hiányában el tudna kerülni. A nettó elkerülhető költség számításakor figyelembe kell venni azokat a bevételeket és egyéb (közvetett) hasznokat, amelyeket az egyetemes szolgáltatás nyújtásának megszüntetésével a szolgáltató elveszítene.
-- 99. Nyilvános adatkicserélő szolgáltatás: természetes vagy jogi személy nyilvános adatkicserélő szolgáltató által nyilvános adatkicserélő központ útján nyújtott olyan elektronikus hírközlési szolgáltatás, amelyet nyilvánosan hozzáférhető feltételrendszer szerint, megkülönböztetéstől mentesen vehetnek igénybe az elektronikus hírközlési szolgáltatók, médiaszolgáltatók és az információs társadalommal összefüggő szolgáltatást nyújtó szolgáltatók, adatforgalmaik egymásnak történő átadása céljából.
-- 100. Nyilvános adatkicserélő központ: a nyilvános adatkicserélő szolgáltatás nyújtását lehetővé tévő osztott elektronikus hírközlő hálózat.
-- 101. Nyilvános elektronikus hírközlő hálózat: teljesen vagy elsősorban nyilvános elektronikus hírközlési szolgáltatások nyújtására használt hálózati végpontok közötti információátvitelt támogató elektronikus hírközlő hálózat.
-- 102. Nyilvános elektronikus hírközlő hálózat üzemeltetője: nyilvános elektronikus hírközlő hálózat, illetve kapcsolódó eszközök feletti rendelkezési vagy használati jogot gyakorló természetes személy, jogi személy vagy egyéb szervezet.
-- 103. Nyilvánosan elérhető telefonszolgáltatás (telefonszolgáltatás vagy hangszolgáltatás): nyilvános elektronikus hírközlési szolgáltatás, amely nemzeti vagy nemzetközi számozási tervben szereplő hívószám vagy hívószámok segítségével közvetlenül vagy közvetve lehetővé teszi hívások kezdeményezését és fogadását.
-- 104. Nyilvános telefonállomás: bármely felhasználó számára nyilvánosan elérhető telefonszolgáltatás igénybevétele céljából hozzáférhetővé tett elektronikus hírközlő végberendezés. A szolgáltatás díjának kiegyenlítése történhez pénzérmével, bankkártyával, illetve egyéb készpénzt helyettesítő fizetési eszközzel.
-- 105. Nyomvonalas és nyomvonal jellegű elektronikus hírközlési építmény: olyan elektronikus hírközlési építmény, amelyet az elektronikus hírközlő hálózat vezetékes összeköttetésének burkoló, tartó, védő, jelző műtárgyai képeznek.
-- 106. Összekapcsolás: egyazon vagy különböző elektronikus hírközlési szolgáltatók által használt elektronikus hírközlő hálózatok fizikai és logikai csatlakoztatása, annak érdekében, hogy az egyik szolgáltató felhasználói információt cserélhessenek ugyanezen vagy másik szolgáltató felhasználóival, illetve elérhessenek más szolgáltatók által nyújtott szolgáltatásokat. A szolgáltatást az összekapcsolásban részes felek vagy a hálózatukhoz hozzáféréssel rendelkező más szolgáltatók nyújthatják.
-- 107. Rádióállomás: egy vagy több adó- vagy vevőberendezés vagy adó- és vevőberendezés-csoport a tartozékokkal együtt, valamely rádiótávközlési szolgálatnak vagy a rádiócsillagászati szolgálatnak egy adott helyen történő megvalósítása céljából.
-- 108. Rádióberendezés: rádiótávközlés – beleértve a rádiómeghatározást – céljából rendeltetésszerűen rádióhullámokat kibocsátó, vevő vagy kibocsátó és vevő villamos vagy elektronikus termék, vagy olyan villamos vagy elektronikus termék, amelyet tartozékokkal, például antennával kell kiegészíteni ahhoz, hogy rádiótávközlés – beleértve a rádiómeghatározást – céljából rendeltetésszerűen rádióhullámokat tudjon kibocsátani, venni vagy kibocsátani és venni.
-- 109. Rádióhullám: olyan, a térben mesterséges vezető nélkül terjedő elektromágneses hullám, amelynek frekvenciája kisebb, mint 3000 GHz.
-- 110. Rádióinterfész: a rádióspektrum szabályozott használatának specifikációja.
-- 111. Rádiós helyi hálózat: kis teljesítményű, harmonizált rádióspektrumot nem kizárólagosan használó vezeték nélküli hozzáférési rendszer, amelynek kis hatótávolsága miatt a más rádióspektrum-használók által a közelben működtetett hasonló rendszerekkel való zavarásának kockázata csekély.
-- 112. Rádióspektrum: a rádióhullámok frekvenciatartománya.
-- 113. Rádiószolgálat: a Nemzetközi Rádiószabályzattal összhangban levő jogszabályban meghatározott rádiótávközlési szolgálat, továbbá a rádiócsillagászati szolgálat.
-- 114. Rádiótávközlő hálózat: olyan elektronikus hírközlő hálózat, amelyben az információátvitel egészben vagy jelentős mértékben rádiófrekvenciás jelek adásával és vételével valósul meg.
-- 115. Referenciaajánlat: a Hatóság határozata alapján a jelentős piaci erővel rendelkező szolgáltató által kötelezően közzétett, a megajánlott hálózati szolgáltatásokat, valamint azok jogi, műszaki, pénzügyi feltételeit részletező ajánlat.
-- 116. Rendkívül nagy kapacitású hálózat: olyan elektronikus hírközlő hálózat, amely legalább a szolgáltatás igénybevételének helyén található elosztási pontig teljes mértékben optikai szálas elemekből áll, vagy olyan elektronikus hírközlő hálózat, amely a szokásos csúcsidei körülmények mellett hasonló hálózati teljesítményre képes a rendelkezésre álló le- és feltöltési sávszélesség, az ellenálló képesség, a hibával kapcsolatos paraméterek, valamint a késleltetés és a késleltetés változása tekintetében. A hálózati teljesítmény akkor is hasonlónak tekinthető, ha a hálózati végponthoz csatlakozó átviteli közeg különböző tulajdonságainak köszönhetően, a végfelhasználói élmény eltérő.
-- 117. Segélyhívás: személyközi hírközlési szolgáltatások segítségével egy végfelhasználó és a segélyszolgálati állomás között a segélyhívó szolgálatoktól veszélyhelyzeti segítség kérése és igénybevétele céljából folytatott kommunikáció, ideértve az e-segélyhívást is.
-- 118. Sikertelen hívás: minden olyan telefonhívás (beleértve a beszédalapú – akár hagyományos, akár IP-alapú – telefonálást, az üzenetrögzítővel való kapcsolatot, a konferenciahívást és az adathívást) vagy kiegészítő szolgáltatás (beleértve a hívástovábbítást és hívásátirányítást), amelynél a hálózati kapcsolat sikeresen létrejött, de a hívás megválaszolatlan maradt (nem fogadott vagy elutasított hívás), illetve hálózatkezelői beavatkozás miatt a létrejött kapcsolat automatikusan azonnali bontásra került (foglalt, kikapcsolt vagy más okból nem elérhető állomás hívása).
-- 119. SMS: rövid, szöveges üzenetszolgáltatás.
-- 120. Segélyszolgálati állomás (közbiztonsági válaszpont): konkrét helyszín, ahol segélyhívási célú közlések hatóság vagy valamely, a tagállam által elismert magánszervezet felelősségi körébe tartozó első fogadása történik.
-- 121. SIM-kártya: az előfizető mobil rádiótelefon-hálózaton belüli azonosítását szolgáló adatokat, illetve a mobil rádiótelefon-szolgáltatás igénybevételéhez szükséges információkat tartalmazó kártya vagy beépített modul. A beépített modul tartalma távolról beállítható és módosítható is lehet (eSIM).
-- 122. Számfüggő személyközi hírközlési szolgáltatás: olyan személyközi hírközlési szolgáltatás, amelynél a kapcsolat kiosztott számozási erőforrások, nemzeti vagy nemzetközi számozási tervben szereplő hívószám vagy hívószámok igénybevételével valósul meg, vagy amely kommunikációt tesz lehetővé nemzeti, illetve nemzetközi számozási tervben szereplő hívószámra vagy hívószámokra.
-- 123. Számfüggetlen személyközi hírközlési szolgáltatás: olyan személyközi hírközlési szolgáltatás, amelynél a kapcsolat nem kiosztott számozási erőforrások, nem a nemzeti vagy nemzetközi számozási tervben szereplő hívószám vagy hívószámok igénybevételével valósul meg és amely nem tesz lehetővé kommunikációt nemzeti, illetve nemzetközi számozási tervben szereplő hívószámra vagy hívószámokra.
-- 124. Személyközi hírközlési szolgáltatás: olyan, más részére általában díjazás ellenében elektronikus hírközlő hálózatokon nyújtott szolgáltatás, amely véges számú személy közötti közvetlen, interaktív információcserét tesz lehetővé, és amelyben a kommunikációt kezdeményező vagy az abban részt vevő személyek határozzák meg az információcserében résztvevő fogadót, illetve fogadókat. Nem minősülnek személyközi hírközlési szolgáltatásnak azok a szolgáltatások, amelyek a személyközi, interaktív kommunikációt egy másik szolgáltatáshoz szorosan kapcsolódó, csekély jelentőségű, csupán kiegészítő funkcióként teszik lehetővé.
-- 125. Transznacionális piac: az Európai Unióra vagy annak jelentős részére kiterjedő, a Kódex 65. cikke szerinti eljárásban meghatározott, egynél több tagállamban elhelyezkedő piac.
-- 126. Tartós adathordozó: a technológia adott fejlettségi szintjén elérhető olyan eszköz, illetve platform, amely lehetővé teszi az adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését. Ilyen eszköz különösen a papír, az USB-kulcs, a CD-ROM, a DVD-ROM, a memóriakártya, a számítógép merevlemeze, az elektronikus levél, illetve az elektronikus tárhely.
-- 127. Titkos információgyűjtés, illetve leplezett eszközök alkalmazása: az elektronikus hírközlő hálózaton és elektronikus hírközlő eszközökkel az elektronikus hírközlési tevékenység során, illetve azzal összefüggésben keletkezett, továbbított információk, adatok kiválasztása, kicsatolása, technikai eszközzel történő rögzítése és megismerése az arra jogosult szervek által.
-- 128. Továbbfejlesztett digitális vevődekóder: a digitális interaktív televíziós szolgáltatások vételére képes, televíziókészülékhez való csatlakoztatásra szánt vagy a televíziókészülékbe integrált kiegészítő egység.
-- 129. Űrszegmens: műholdas távközlési rendszer része, amely magában foglalja a műholdat és a műholdkövetési, távmérési és távvezérlési funkciókat, valamint a műholdak részére logisztikai támogatást nyújtó földi berendezéseket.
-- 130. Üzleti előfizető: olyan előfizető, aki vagy amely nem minősül egyéni előfizetőnek.
-- 131. Üzleti titok: az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdése szerinti üzleti titok.
-- 132. Vállalkozás: az a természetes vagy jogi személy, akinek vagy amelynek Magyarország területén tanúsított, vagy hatásaiban itt érvényesülő piaci magatartása részben vagy egészben Magyarország területén nyújtott elektronikus hírközlési szolgáltatáshoz kapcsolódik.
-- 133. Végfelhasználó: olyan felhasználó, aki az adott hálózati végpontot saját érdekkörében használja, és azon nem nyújt nyilvánosan elérhető elektronikus hírközlési szolgáltatást vagy nem biztosít nyilvános elektronikus hírközlő hálózatot.
-- 134. Végfelhasználói hozzáférés felett rendelkező vállalkozás: azon vállalkozás, amely a végfelhasználó valamely elektronikus hírközlő hálózathoz vagy annak részéhez történő fizikai vagy logikai csatlakoztatása felett rendelkezési jogot gyakorol.
-- 135. Virtuális helymegosztás: olyan helymegosztás, amelynek során a helymegosztásra jogosult szolgáltató megbízásából a kötelezett szolgáltató birtokolja és üzemelteti a rendezőhöz kapcsolódó azon berendezéseket, amelyek a jogosult szolgáltató igényeit elégítik ki.
-- 136. Adatváltozás-kezelési szolgáltatás: a Tkmtv. 1. § (1) bekezdés 2. pontja szerinti szolgáltatás.
+- 70/a. Meghatalmazott képviselő: a 765/2008/EK rendelet 2. cikk 4. pontjában meghatározott személy.
+- 71. Mobil rádiótelefon hálózat: olyan földfelszíni rádiótávközlő hálózat, amely a nagy területen mozgó igénybevevők között lehetővé teszi a kétirányú telefon összeköttetésének felépítését.
+- 72. Mobil rádiótelefon szolgáltatás: olyan nyilvánosan elérhető telefon szolgáltatás, amelynek során e szolgáltatás nagy térben mozgó bármely előfizetője – mobil rádiótelefon hálózat hálózati végpontján csatlakoztatott – nem helyhez kötött berendezésről indított hívással kommunikálhat egy másik hálózati végponttal, amelynek elérése az ANFT-ben meghatározott választási eljárás útján lehetséges. E szolgáltatás beszédátvitelre, valamint az ehhez kapcsolódó szolgáltatásokra és egyéb szolgáltatásokra (például adatátviteli szolgáltatások, rövid szöveges üzenetküldés, WAP, GPRS alapú szolgáltatások) szolgál.
+- 73. Multiplex technikai szolgáltató: az olyan elektronikus hírközlési szolgáltató, amely a hozzá eljuttatott rádió- és televízióműsorokból, illetve más adatjelekből egyetlen szabványos digitális jelfolyamot állít elő, és ezt digitális műsorterjesztéssel továbbítja, vagy továbbíttatja.
+- 74. Műsorelosztás: olyan műsorterjesztés, amely során az előfizető, vagy felhasználó elektronikus hírközlő végberendezése meghatározott földrajzi helyen csatlakozik a műsorterjesztő átviteli rendszerhez.
+- 75. Műsorszórás: olyan műsorterjesztés, amelynek során analóg vagy digitális rádió-, illetve televízióműsorokat a földfelszínen telepített – az elsődlegesen műholdas szolgálatra rendelt frekvenciák kivételével – rádiófrekvenciát használó, általában egyirányú adatátvitelt lehetővé tevő átviteli rendszerrel továbbítják az előfizetőhöz, vagy felhasználóhoz; műsorszórásnak minősül a digitális műsorszóró hálózat vagy műsorszóró adó segítségével végzett műsorterjesztés is.
+- 76.
+- 77. Műsorterjesztés: az 5/a. pont szerinti bármely átviteli rendszerrel megvalósuló elektronikus hírközlési szolgáltatás, amelynek során a műsorszolgáltató által előállított analóg vagy digitális műsorszolgáltatási jeleket a műsorszolgáltatótól az előfizető, vagy felhasználó vevőkészülékéhez továbbítják, függetlenül az alkalmazott átviteli rendszertől, és technológiától. Műsorterjesztésnek minősül különösen a műsorszórás, a műholddal végzett műsorterjesztés, a hibrid üvegszálas-koaxiális átviteli rendszeren végzett műsorterjesztés, emellett a műsor Internet Protokoll segítségével történő továbbítása valamely átviteli rendszeren, ha a szolgáltatás jellege, illetve feltételei megegyeznek a műsorterjesztéssel, illetve ez helyettesíti a más módon megvalósított műsorterjesztést. Műsorterjesztésnek minősül az olyan műsorterjesztés is, amelyhez az előfizető külön díj ellenében, vagy más elektronikus hírközlési szolgáltatás díjával csomagban értékesített díj ellenében férhet hozzá. A tíznél kevesebb vevőkészülék csatlakoztatására alkalmas átviteli rendszer segítségével történő jeltovábbítás nem minősül műsorterjesztésnek.
+- 78. Nagyfrekvenciás jel: nem rádiótávközlési célra használt rádiófrekvenciás jel.
+- 79. Nagyfrekvenciás mellékhatás: olyan nagyfrekvenciás jel, amely különféle célú berendezésekben (készülékekben, eszközökben, járművekben stb.) szikrakisülés, gázkisülés vagy félvezetős szabályozás melléktermékeként keletkezik.
+- 80. Nagyfrekvenciás villamos berendezés: az elektromágneses energia kis térben való előállítására és hasznosítására szolgáló ipari, tudományos, orvosi, háztartási vagy hasonló célú, nem elektronikus hírközlő berendezés.
+- 81. Nem azonosítható hívószám: az a hívószám, amely az előfizető számára kiállított tételes számlamellékletben személyes adatok védelme érdekében nem szerepel.
+- 82. Nemföldrajzi szám: az ANFT által meghatározott különleges számcsoportba tartozó telefon hívószám, amelyhez tartozó hozzáférés földrajzi helye csak számfordítással állapítható meg.
+- 83. Nemzetközi hívás: olyan hívás, amelyben a hívott előfizető vagy szolgáltatás eléréséhez nemzetközi előtétet kell tárcsázni.
+- 84. Nettó elkerülhető költség: az a költség, amelyet a hatékony szolgáltató az egyetemes szolgáltatási kötelezettség hiányában el tudna kerülni. A nettó elkerülhető költség számításakor figyelembe kell venni azokat a bevételeket és egyéb (közvetett) hasznokat, amelyeket az egyetemes szolgáltatás nyújtásának megszüntetésével a szolgáltató elveszítene.
+- 85. Nyilvános elektronikus hírközlő hálózat: teljesen vagy elsősorban a nyilvánosan elérhető elektronikus hírközlési szolgáltatások nyújtására használt elektronikus hírközlő hálózat.
+- 86. Nyilvánosan elérhető telefon szolgáltatás (telefon szolgáltatás): olyan, bárki számára rendelkezésre álló elektronikus hírközlési szolgáltatás, amely belföldi vagy nemzetközi számozási terven alapuló hívásirányítással lehetővé teszi belföldi és nemzetközi hívások kezdeményezését és fogadását, valamint minden esetben a segélyhívó szolgáltatások és – a körülményektől függően – egyéb szolgáltatások (többek között kezelői szolgáltatások, tudakozó, előfizetői névjegyzék és nyilvános telefonállomás, emelt díjas szolgáltatások, a fogyatékkal élő előfizetők részére nyújtott szolgáltatások, illetve földrajzi elhelyezkedéstől független szolgáltatások) elérését.
+- 87. Nyilvános telefonhálózat (telefonhálózat): olyan nyilvános elektronikus hírközlő hálózat, amelyen részben vagy egészben nyilvánosan elérhető telefon szolgáltatást nyújtanak, illetve amely alkalmas hálózati végpontok között beszéd, továbbá más kommunikációra, így különösen a telefax és adatkommunikációra.
+- 88. Nyilvános telefonállomás: a nagyközönség rendelkezésére álló távbeszélő végberendezés, amelynek használatára vonatkozóan a fizetőeszköz lehet pénzérme, hitelkártya, illetve előrefizetett kártya, beleértve a hívókódokkal használatos kártyákat.
+- 89. Összekapcsolás: egyazon vagy különböző elektronikus hírközlési szolgáltatók által használt elektronikus hírközlő hálózatok fizikai és logikai csatlakoztatása, annak érdekében, hogy az egyik szolgáltató felhasználói információt cserélhessenek ugyanezen vagy másik szolgáltató felhasználóival, illetve elérhessenek más szolgáltatók által nyújtott szolgáltatásokat. A szolgáltatást az összekapcsolásban részes felek vagy a hálózatukhoz hozzáféréssel rendelkező más szolgáltatók nyújthatják. Az összekapcsolás a hozzáférés sajátos fajtája, amely nyilvános elektronikus hírközlő hálózatok tulajdon- vagy használati jogával rendelkező szolgáltatók között jön létre.
+- 90. Rádióállomás: egy vagy több adó- vagy vevőberendezés vagy adó- és vevőberendezés-csoport a tartozékokkal együtt, valamely rádiótávközlési szolgálatnak vagy a rádiócsillagászati szolgálatnak egy adott helyen történő megvalósítása céljából.
+- 91. Rádióberendezés: olyan termék vagy egy termék olyan alkotórésze, amely földfelszíni rádiótávközlés vagy űrtávközlés céljára felosztott rádiófrekvenciás spektrum felhasználásával képes rádióhullámok adása, vétele vagy adása és vétele útján távközlésre.
+- 92. Rádióhullámok: olyan elektromágneses hullámok, amelyek mesterséges vezető nélkül terjednek a térben.
+- 93. Rádióspektrum: a 9 kHz és 3000 GHz közötti frekvenciatartomány.
+- 94. Rádiószolgálat: a Nemzetközi Rádiószabályzattal összhangban levő jogszabályban meghatározott rádiótávközlési szolgálatok és a rádiócsillagászati szolgálat együttese.
+- 95. Rádiótávközlő hálózat: olyan elektronikus hírközlő hálózat, amelyben az információátvitel egészben, illetőleg jelentős mértékben rádiófrekvenciás jelek adásával és vételével valósul meg.
+- 96. Ráépülő előfizetői szolgáltatás: valamely hálózati szolgáltatással összefüggő olyan előfizetői szolgáltatás, amelynek a hálózati szolgáltatást nyújtó szolgáltatótól eltérő szolgáltató általi gazdaságos nyújtásához az adott hálózati szolgáltatás igénybevétele a technika fejlettségének adott szintjén feltétlenül szükséges. A jelen meghatározás alkalmazásában valamely előfizetői szolgáltatást a felhasználási célra, az árra, a minőségre és a teljesítés feltételeire tekintettel ésszerűen helyettesítő szolgáltatásokat is figyelembe kell venni.
+- 97. Referenciaajánlat: a hatóság határozata alapján a jelentős piaci erővel rendelkező szolgáltató által kötelezően közzétett, a megajánlott hálózati szolgáltatásokat, illetőleg azok jogi, műszaki, pénzügyi feltételeit részletező ajánlat.
+- 98. Rendező: a helyi hurok értelmezésében olyan csatlakozásra megfelelő szerelvény, amelyben az érintett helyi hurok vagy helyi alhurok egyedi leválasztó eszközei találhatók.
+- 99. Segélyhívás: a rendőrség, a mentőszolgálat, a tűzoltóság sürgősségi hívása rövid hívószámmal vagy az európai harmonizált segélyhívószámmal. 99/A. Sikertelen hívás: minden olyan telefonhívás (beleértve a beszédalapú – akár hagyományos, akár IP-alapú – telefonálást, az üzenetrögzítővel való kapcsolatot, a konferenciahívást és az adathívást) vagy kiegészítő szolgáltatás (beleértve a hívástovábbítást és hívásátirányítást), amelynél a hálózati kapcsolat sikeresen létrejött, de a hívás megválaszolatlan maradt (nem fogadott vagy elutasított hívás), illetőleg hálózatkezelői beavatkozás miatt a létrejött kapcsolat automatikusan azonnali bontásra került (foglalt, kikapcsolt vagy más okból nem elérhető állomás hívása).
+- 100. Tagállamok közötti piac: az Európai Gazdasági Térség tagállamai vagy azok jelentős részére kiterjedő, az Európai Bizottság által meghatározott piac.
+- 101. Távirat: a felhasználó – az elektronikus hírközlési szolgáltató és/vagy postai szolgáltató közreműködésével – feladott szöveges közleménye, amelyet a szolgáltatók kézbesítés vagy elektronikus hírközlő végberendezés közvetítésével juttatnak el a címzetthez.
+- 102. Távoli helymegosztás: olyan helymegosztás, amely esetében a helymegosztásra jogosult berendezései az arra kötelezett szolgáltató létesítményéhez közel, de különállóan kerülnek elhelyezésre.
+- 103. Telepítés: rádióállomás, rádiótávközlő rendszer, illetőleg rádiótávközlő hálózat kiépítése, üzemeltetésre alkalmas állapotba hozatala rádiófrekvenciás jelek adását, illetve vételét megvalósító üzemmódban, üzemben tartás, illetőleg kísérleti üzemeltetés nélkül.
+- 104. Teljesen felosztott költségek költségszámítási módszere (FDC): a szolgáltató szokásos vállalkozási tevékenységével, nyújtott szolgáltatásaival kapcsolatban álló, ténylegesen felmerült költségek és ráfordítások tevékenységi alapon történő meghatározása és felosztása költségkategóriákba, tevékenységekre és szolgáltatásfajtákra. A teljesen felosztott költségek költségszámítási módszerének egy fajtája a múltbeli költségeken alapuló teljesen felosztott költségek (HCA-FDC) költségszámítási módszere.
+- 105. Titkos információgyűjtés, illetve titkos adatszerzés: az elektronikus hírközlő hálózaton és elektronikus hírközlő eszközökkel az elektronikus hírközlési tevékenység során, illetve azzal összefüggésben keletkezett, továbbított információk, adatok kiválasztása, kicsatolása, technikai eszközzel történő rögzítése és megismerése az arra külön törvényben felhatalmazott szervek által.
+- 106. Transzferár: azon szolgáltatás egységének meghatározott módszertan szerint számított ellenértéke, amelyet egy szolgáltató egyik üzletága nyújt egy másik üzletága részére.
+- 107. Űrszegmens: távközlési műholdas rendszer része, mely magában foglalja a műholdat és a műholdkövetési, távmérési és távvezérlési funkcióit, valamint a műholdak részére logisztikai támogatást nyújtó földi berendezéseket.
+- 108. Üzletág: a szolgáltató tevékenységi körén belüli, a számviteli szeparációs kimutatásokban elkülönítetten nyilvántartandó területek, amelyek úgy működnek, mintha önállóan gazdálkodó szervezetek lennének.
+- 109. Üzleti titok: a Ptk. 81. §-a szerinti üzleti titok.
+- 110. Vállalkozás: Az a természetes és a jogi személy, valamint a jogi személyiség nélküli gazdasági társaság – ideértve a külföldi székhelyű vállalkozás magyarországi fióktelepét is – amelynek a Magyar Köztársaság területén tanúsított, vagy hatásaiban itt érvényesülő piaci magatartása részben vagy egészben a Magyar Köztársaság területén nyújtott elektronikus hírközlési szolgáltatáshoz kapcsolódik.
+- 111. Virtuális helymegosztás: olyan helymegosztás, amelynek során a helymegosztásra jogosult szolgáltató megbízásából a kötelezett szolgáltató birtokolja és üzemelteti a rendezőhöz kapcsolódó azon berendezéseket, amelyek a jogosult szolgáltató igényeit elégítik ki.

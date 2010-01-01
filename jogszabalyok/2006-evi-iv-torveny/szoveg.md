@@ -20,7 +20,7 @@ Mindezek érdekében – az Európai Unió társasági jogával való harmonizá
 
 (3) Valamennyi gazdasági társaság cégnévvel rendelkezik. A jogi személyiség nélküli gazdasági társaság is jogképes cégneve alatt, jogokat szerezhet és kötelezettségeket vállalhat, így különösen tulajdont szerezhet, szerződést köthet, pert indíthat és perelhető.
 
-(4) Törvény vagy kormányrendelet közérdekből, illetve hitelezővédelmi célból előírhatja, hogy egyes gazdasági tevékenységek csak meghatározott gazdasági társasági formában végezhetők.
+(4) Törvény előírhatja, hogy egyes gazdasági tevékenységek csak meghatározott gazdasági társasági formában végezhetők.
 
 3. § (1) Gazdasági társaságot üzletszerű közös gazdasági tevékenység folytatására külföldi és belföldi természetes és jogi személyek, valamint jogi személyiség nélküli gazdasági társaságok alapíthatnak, működő társaságba tagként beléphetnek, társasági részesedést (részvényt) szerezhetnek.
 
@@ -38,18 +38,9 @@ Mindezek érdekében – az Európai Unió társasági jogával való harmonizá
 
 (4) Nonprofit gazdasági társaság más társasági formába csak nonprofit jellegének megtartásával alakulhat át, nonprofit gazdasági társasággal egyesülhet, illetve nonprofit gazdasági társaságokká válhat szét.
 
-(4a) A nonprofit gazdasági társaság külön törvényben meghatározottak szerint közhasznú jogállású lehet.
+(5) Külön törvény határozza meg, hogy a nonprofit gazdasági társaság milyen előfeltételek fennállása esetén minősül közhasznú szervezetnek, és ehhez milyen követelményeket kell teljesítenie. A közhasznú tevékenységet a társasági szerződésben (alapszabályban, alapító okiratban) meg kell határozni. A közhasznú szervezeti minőséget – a társaság alapításakor vagy később – kérelemre a cégjegyzéket vezető megyei (fővárosi) bíróság (a továbbiakban: cégbíróság) állapítja meg. A közhasznú szervezeti jelleget cégnevében a nonprofit gazdasági társaság feltüntetheti.
 
-(5) Külön törvény határozza meg, hogy a nonprofit gazdasági társaság milyen előfeltételek fennállása esetén minősül közhasznú szervezetnek, és ehhez milyen követelményeket kell teljesítenie. A közhasznú tevékenységet a társasági szerződésben (alapszabályban, alapító okiratban) meg kell határozni. A közhasznú szervezeti minőséget – a társaság alapításakor vagy később – kérelemre a cégjegyzéket vezető törvényszék (a továbbiakban: cégbíróság) állapítja meg. A közhasznú szervezeti jelleget cégnevében a nonprofit gazdasági társaság feltüntetheti.
-
-(6) Ha a közhasznú szervezetnek minősülő nonprofit gazdasági társaság jogutód nélkül megszűnik, úgy a tartozások kiegyenlítése után a társaság tagjai (részvényesei) részére csak a megszűnéskori saját tőke összege adható ki, legfeljebb a tagok (részvényesek) vagyoni hányadának teljesítéskori értéke erejéig. Az ezt meghaladó vagyont a cégbíróság a társasági szerződés (alapszabály, alapító okirat) rendelkezései szerint fordítja közcélokra. Ilyen rendelkezés hiányában a cégbíróság a megmaradt vagyont a Nemzeti Együttműködési Alap támogatására fordítja.
-
-(7) A nonprofit gazdasági társaság az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Civil tv.) 32. § (3)–(5) bekezdésétől eltérően a létrejöttét követően is kezdeményezheti közhasznú jogállásának megállapítását, amelyet a cégbíróság – a létesítő okiratban rögzített tartalmi követelmények elbírálását követően – nyilvántartásba veszi, ha
-
-- a) közszolgáltatási szerződést kötött és
-- b) a kérelmező magánokiratban vállalja a Civil tv. szerinti közhasznúsági feltételek teljesítését.
-
-(8) Ha a szervezet két lezárt üzleti év adatai alapján a (7) bekezdés b) pontja szerinti vállalása ellenére sem teljesíti a Civil tv. szerinti feltételeket, a két év vonatkozásában – vagy ha a szervezet létrejöttét követő két éven belül jogutód nélkül megszűnik, a működés teljes időtartamára – visszamenőlegesen társasági adófizetési kötelezettsége keletkezik az összes bevételre, mint adóalapra vetítve, függetlenül a bevétel forrásától. Ezen adófizetési kötelezettség, valamint az adóalap semmilyen jogcímen nem csökkenthető.
+(6) Ha a közhasznú szervezetnek minősülő nonprofit gazdasági társaság jogutód nélkül megszűnik, úgy a tartozások kiegyenlítése után a társaság tagjai (részvényesei) részére csak a megszűnéskori saját tőke összege adható ki, legfeljebb a tagok (részvényesek) vagyoni hányadának teljesítéskori értéke erejéig. Az ezt meghaladó vagyont a cégbíróság a társasági szerződés (alapszabály, alapító okirat) rendelkezései szerint fordítja közcélokra. Ilyen rendelkezés hiányában a cégbíróság a megmaradt vagyont a megszűnő nonprofit gazdasági társaság közhasznú tevékenységével azonos vagy ahhoz hasonló közérdekű célra fordítja.
 
 5. § (1) Természetes személy egyidejűleg csak egy gazdasági társaságban lehet korlátlanul felelős tag.
 
@@ -58,22 +49,6 @@ Mindezek érdekében – az Európai Unió társasági jogával való harmonizá
 (3) Közkereseti és betéti társaság nem lehet gazdasági társaság korlátlanul felelős tagja.
 
 (4) Egyszemélyes gazdasági társaság – ha törvény eltérően nem rendelkezik – újabb egyszemélyes társaságot alapíthat, gazdasági társaság egyedüli tagja (részvényese) lehet.
-
-(5) Az a személy, akinek – mint a jogutód nélkül megszűnt gazdálkodó szervezet vezető tisztségviselőjének, kizárólagos vagy többségi befolyást biztosító részesedéssel rendelkező tulajdonosának – felelősségét a jogutód nélküli megszüntetést eredményező eljárás során ki nem elégített követelésekért a bíróság a csődeljárásról és a felszámolási eljárásról szóló törvény (a továbbiakban: Cstv.) vagy a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) alapján indított eljárásban jogerősen megállapította, és a jogerős bírósági határozat szerinti helytállási kötelezettség alapján a fizetési kötelezettségeit nem teljesítette,
-
-- a) nem lehet egyszemélyes társaság egyedüli tagja;
-- b) nem szerezhet gazdasági társaságban közvetlen vagy közvetett többségi befolyást biztosító részesedést,
-- c) nem lehet közkereseti társaság tagja és betéti társaság beltagja.
-
-(6) Nem lehet közkereseti társaság tagja és betéti társaság beltagja, továbbá nem szerezhet gazdasági társaságban kizárólagos vagy többségi befolyást biztosító részesedést az a személy, aki a 104. § (1) bekezdésében foglalt helytállási kötelezettségének nem tett eleget.
-
-(7) A tilalom hatálya az (5)–(6) bekezdés szerinti esetekben a végrehajtási eljárás időtartama és az annak eredménytelenségétől számított öt év.
-
-(8) E § tekintetében eredménytelennek minősül a végrehajtási eljárás, ha a bírósági végrehajtásról szóló törvényben meghatározott végrehajtói letiltás nem vezet eredményre és az adósnak nincs a bírósági végrehajtásról szóló törvény alapján lefoglalható vagyontárgya.
-
-(9) A (8) bekezdésben foglaltak fennállásáról a végrehajtó elektronikus úton értesíti a cégbíróságot.
-
-(10) A gazdasági társaság megszüntetési eljárás során való törlését követő öt évig nem lehet más gazdasági társaság kizárólagos vagy többségi befolyást biztosító részesedéssel rendelkező tagja, valamint közkereseti társaság tagja és betéti társaság beltagja az a személy, aki a megszüntetési eljárás megindításának időpontjában, a törlés évében, vagy a törlést megelőző évben a gazdasági társaságnál vezető tisztségviselő, kizárólagos vagy többségi befolyást biztosító részesedéssel rendelkező tag volt.
 
 6. § (1) Törvény a gazdasági társaság alapítását hatósági engedélyhez (alapítási engedély) kötheti.
 
@@ -87,7 +62,7 @@ Mindezek érdekében – az Európai Unió társasági jogával való harmonizá
 
 (3) A tagok (részvényesek) a társasági szerződésben (alapszabályban, alapító okiratban) előírhatják a tagsági jogok elektronikus hírközlő eszközök igénybevételével történő gyakorlásának módját és feltételeit. Tilos ezen eszközök oly módon történő alkalmazása, amely a tagok (részvényesek) egy része számára a joggyakorlást megnehezítené vagy ellehetetlenítené.
 
-8. § (1)
+8. § (1) A gazdasági társaságnál foglalkoztatott munkavállalók jogaira és kötelezettségeire, valamint a munkaügyi kapcsolatokra a Munka Törvénykönyve rendelkezéseit kell alkalmazni.
 
 (2) A gazdasági társaság vezető állású munkavállalónak minősülő alkalmazottai feladatkörükben a társaság érdekeinek elsődlegessége alapján kötelesek eljárni.
 
@@ -118,24 +93,22 @@ Mindezek érdekében – az Európai Unió társasági jogával való harmonizá
 
 (3) A társasági szerződést közjegyző által készített közokiratba vagy ügyvéd, illetve az alapító jogtanácsosa által ellenjegyzett magánokiratba kell foglalni.
 
-(3a) A társasági szerződés elkészítése vagy ellenjegyzése során az ügyvéd az ügyvédekről szóló 1998. évi XI. törvény 27/B. § (1) bekezdésében foglalt ellenőrzést elvégzi.
-
-(4) A közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, valamint a zártkörűen működő részvénytársaság esetén a társasági szerződés a Ctv. mellékletét képező szerződésminta megfelelő kitöltésével is elkészíthető. Ez esetben a társasági szerződés tartalmát kizárólag a kitöltött szerződésmintában foglalt rendelkezések alkothatják. A szerződésmintával készült társasági szerződésre a (3)–(3a) bekezdést alkalmazni kell.
+(4) A közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, valamint a zártkörűen működő részvénytársaság esetén a társasági szerződés a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) mellékletét képező szerződésminta megfelelő kitöltésével is elkészíthető. Ez esetben a társasági szerződés tartalmát kizárólag a kitöltött szerződésmintában foglalt rendelkezések alkothatják. A szerződésmintával készült társasági szerződésre a (3) bekezdést alkalmazni kell.
 
 (5) Ha a társasági szerződés a gazdasági társaság időtartamáról nem rendelkezik, a társaságot határozatlan időre létrejöttnek kell tekinteni.
 
 12. § (1) A társasági szerződésben meg kell határozni:
 
 - a) a gazdasági társaság cégnevét és székhelyét;
-- b) a gazdasági társaság tagjait, mégpedig – ha a törvény másképp nem rendelkezik – természetes személy esetén a természetes személyazonosító adatok és lakcím, jogi személyiség nélküli gazdasági társaság vagy jogi személy esetén név (cégnév), székhely és cégjegyzékszám vagy nyilvántartási szám feltüntetésével;
-- c) a társaság főtevékenységét és valamennyi tevékenységét;
+- b) a gazdasági társaság tagjait, mégpedig – ha a törvény másképp nem rendelkezik – nevük (cégnevük) és lakóhelyük (székhelyük), jogi személy vagy jogi személyiség nélküli gazdasági társaság cégjegyzékszámának (nyilvántartási számának) feltüntetésével;
+- c) a gazdasági társaság azon tevékenységeit, amelyeket a társaság a cégjegyzékben feltüntetni kíván;
 - d) a társaság jegyzett tőkéjét, az egyes tagok vagyoni hozzájárulását, valamint a jegyzett tőke rendelkezésre bocsátásának módját és idejét;
 - e) a társaság képviseletét, ideértve a cégjegyzés módját;
 - f) a tagok (részvényesek) által kijelölt első vezető tisztségviselők, illetve – ha a társaságnál működik felügyelőbizottság, illetve könyvvizsgáló, – az első felügyelőbizottsági tagok és az első könyvvizsgáló nevét (lakóhelyét, székhelyét), továbbá jogi személy vagy jogi személyiség nélküli gazdasági társaság cégjegyzékszámát (nyilvántartási számát);
 - g) a gazdasági társaság működésének időtartamát, ha a társaságot határozott időre alapítják; valamint
 - h) mindazt, amit e törvény az egyes társasági formáknál kötelezően előír.
 
-(2) Az (1) bekezdés c) pontjának alkalmazása során – a TEÁOR nómenklatúra szerinti besorolásra való tekintet nélkül – minden olyan tevékenység megjelölhető, amit törvény nem tilt vagy nem korlátoz. A gazdasági társaság – a társasági szerződésben meghatározott tevékenységen belül – bármely gazdasági tevékenységet folytathat, amit az állami adóhatóságnak – főtevékenységként vagy más tevékenységként – bejelent. A társasági szerződésben meghatározott tevékenység változása nem igényli a társasági szerződés módosítását.
+(2) Az (1) bekezdés c) pontjának alkalmazása során – a statisztikai nómenklatúra szerinti besorolásra való tekintet nélkül – minden olyan tevékenység megjelölhető, amit törvény nem tilt vagy nem korlátoz. A gazdasági társaság – a társasági szerződésben meghatározott tevékenységen belül – bármely gazdasági tevékenységet folytathat, amit az állami adóhatóságnak – főtevékenységként vagy más tevékenységként – bejelent.
 
 (3) A társaság jogerős cégbejegyzéséig a társasági szerződés érvénytelenségére a Ptk. rendelkezéseit kell alkalmazni. A jogerős cégbejegyzés után a társasági szerződés megtámadására nincs mód, és a semmisség megállapításának is csak a Ctv.-ben szabályozott perben, a (4) bekezdésben meghatározott semmisségi okokból van helye.
 
@@ -171,9 +144,9 @@ Mindezek érdekében – az Európai Unió társasági jogával való harmonizá
 
 15. § (1) A gazdasági társaság a társasági szerződés ellenjegyzésének vagy közokiratba foglalásának napjától a létrehozni kívánt gazdasági társaság előtársaságaként működhet.
 
-(2) A létrehozni kívánt gazdasági társaságnak a társasági szerződésben kijelölt vezető tisztségviselői a létrehozni kívánt gazdasági társaság cégbejegyzéséig annak nevében és javára járnak el, az előtársasági jelleget azonban a cégbejegyzési eljárásban az adószám megállapítását követően a gazdasági társaság iratain és a megkötött jogügyletek során a társaság elnevezéséhez fűzött „bejegyzés alatt” („b.a.”) toldattal kell jelezni. Az előtársasági jelleg feltüntetésének elmulasztása esetén a megkötött jogügyletek – ha a cégbíróság a társaságot nem jegyzi be – az alapítók által együttesen megkötött ügyleteknek minősülnek.
+(2) A létrehozni kívánt gazdasági társaságnak a társasági szerződésben kijelölt vezető tisztségviselői a létrehozni kívánt gazdasági társaság cégbejegyzéséig annak nevében és javára járnak el, az előtársasági jelleget azonban a cégbejegyzési eljárás alatt a gazdasági társaság iratain és a megkötött jogügyletek során a társaság elnevezéséhez fűzött „bejegyzés alatt” („b.a.”) toldattal kell jelezni. Az előtársasági jelleg feltüntetésének elmulasztása esetén a megkötött jogügyletek – ha a cégbíróság a társaságot nem jegyzi be – az alapítók által együttesen megkötött ügyleteknek minősülnek.
 
-(3) Az előtársaság üzletszerű gazdasági tevékenységet csak a gazdasági társaság adószámának megállapítását követően folytathat azzal, hogy a cégbejegyzésig hatósági engedélyhez kötött tevékenységet nem végezhet.
+(3) Az előtársaság üzletszerű gazdasági tevékenységet csak a gazdasági társaság cégbejegyzése iránti kérelem benyújtását követően folytathat azzal, hogy a cégbejegyzésig hatósági engedélyhez kötött tevékenységet nem végezhet.
 
 16. § (1) A létrehozni kívánt gazdasági társaság cégneve alatt az előtársasági létszakaszában is jogképes. Az előtársaságra a létrehozni kívánt gazdasági társaságra irányadó szabályokat kell alkalmazni azzal az eltéréssel, hogy
 
@@ -271,27 +244,15 @@ kell alkalmazni.
 
 (2) Akit jogerős bírói ítélettel a vezető tisztség gyakorlásától eltiltottak, e tilalom hatálya alatt nem lehet vezető tisztségviselő. Akit valamely más foglalkozástól jogerős bírói ítélettel eltiltottak, az ítélet hatálya alatt az abban megjelölt tevékenységet főtevékenységként folytató gazdasági társaságban nem lehet vezető tisztségviselő.
 
-(3) A gazdasági társaság megszüntetési eljárás során való törlését követő öt évig nem lehet más gazdasági társaság vezető tisztségviselője az a személy, aki a megszüntetési eljárás megindításának időpontjában, a törlés évében, vagy a törlést megelőző évben a gazdasági társaságnál vezető tisztségviselő, kizárólagos vagy többségi befolyást biztosító részesedéssel rendelkező tag volt.
+(3) A gazdasági társaságnak megszüntetési eljárás során való törlését követő három évig nem lehet más gazdasági társaság vezető tisztségviselője az a személy, aki a törlést megelőző naptári évben a gazdasági társaságnál vezető tisztségviselő volt.
 
-(4) Nem lehet más gazdasági társaság vezető tisztségviselője az a személy, akinek – mint a jogutód nélkül megszűnt gazdálkodó szervezet vezető tisztségviselőjének, kizárólagos vagy többségi befolyást biztosító részesedéssel rendelkező tulajdonosának – felelősségét a jogutód nélküli megszüntetést eredményező eljárás során ki nem elégített követelésekért a bíróság a Cstv. vagy a Ctv. alapján indított eljárásban jogerősen megállapította, és a jogerős bírósági határozat szerinti helytállási kötelezettség alapján a fizetési kötelezettségeit nem teljesítette.
-
-(5) Nem lehet gazdasági társaság vezető tisztségviselője, akivel szemben a cégbíróság törvényességi felügyeleti eljárásban pénzbírságot szabott ki, és jogerős bírósági határozat szerinti fizetési kötelezettségét nem teljesítette.
-
-(6) Nem lehet gazdasági társaság vezető tisztségviselője az a személy, aki a 104. § (1) bekezdésében foglalt helytállási kötelezettségének nem tett eleget.
-
-(7) A tilalom hatálya a (4)–(6) bekezdés szerinti esetekben a végrehajtási eljárás időtartama és az annak eredménytelenségétől számított öt év.
-
-(8) E § tekintetében eredménytelennek minősül a végrehajtási eljárás, ha a bírósági végrehajtásról szóló törvényben meghatározott végrehajtói letiltás nem vezet eredményre és az adósnak nincs a bírósági végrehajtásról szóló törvény alapján lefoglalható vagyontárgya.
-
-(9) A (8) bekezdésben foglaltak fennállásáról a végrehajtó elektronikus úton értesíti a cégbíróságot.
+(4) Nem lehet más gazdasági társaság vezető tisztségviselője az a személy, akinek – mint a felszámolással megszűnt gazdálkodó szervezet vezető tisztségviselőjének vagy legalább többségi befolyást biztosító részesedéssel rendelkező tulajdonosának – felelősségét a felszámolás során ki nem elégített követelésekért a bíróság a csődeljárásról és a felszámolási eljárásról szóló törvény szerinti eljárásban jogerősen megállapította, és a jogerős bírósági határozat szerinti helytállási kötelezettség alapján a fizetési kötelezettségeit nem teljesítette. A tilalom hatálya a vele szemben lefolytatott végrehajtási eljárás eredménytelenségétől számított öt év.
 
 24. § (1) Ha a társasági szerződés másként nem rendelkezik, a vezető tisztségviselőket határozott időre, de legfeljebb öt évre kell megválasztani, illetve a társasági szerződésben kijelölni. Ha a társasági szerződésben a vezető tisztségviselői megbízás időtartamáról a tagok (részvényesek) nem rendelkeznek, a vezető tisztségviselőt öt évre megválasztottnak kell tekinteni, kivéve, ha a gazdasági társaság ennél rövidebb időtartamra jött létre.
 
 (2) A vezető tisztségviselői megbízás az érintett személy általi elfogadással jön létre. A vezető tisztségviselők újraválaszthatók és a társaság legfőbb szerve által bármikor, indokolási kötelezettség nélkül visszahívhatók.
 
 (3) A vezető tisztségviselő az új vezető tisztségviselői megbízás elfogadásától számított tizenöt napon belül azokat a társaságokat, ahol már vezető tisztségviselő vagy felügyelőbizottsági tag, írásban tájékoztatni köteles.
-
-(4) Külön törvényben meghatározott esetben a gazdasági társaság vezető tisztségviselőjét átmeneti időre törvényben erre feljogosított szervezet választhatja meg és hívhatja vissza. Az ilyen vezető tisztségviselő megbízása a gazdasági társaság legfőbb szerve következő üléséig tart, amelyet a törvényben meghatározott legrövidebb időn belül össze kell hívni és meg kell tartani.
 
 25. § (1) A vezető tisztségviselő – a nyilvánosan működő részvénytársaságban való részvényszerzés kivételével – nem szerezhet részesedést a gazdasági társaságéval azonos tevékenységet főtevékenységként megjelölő más gazdálkodó szervezetben [Ptk. 685. § c) pont], továbbá nem lehet vezető tisztségviselő a társaságéval azonos főtevékenységet végző más gazdasági társaságban, illetve szövetkezetben, kivéve, ha ezt az érintett gazdasági társaság társasági szerződése lehetővé teszi vagy a gazdasági társaság legfőbb szerve ehhez hozzájárul.
 
@@ -313,7 +274,9 @@ kell alkalmazni.
 
 (3) A tagok (részvényesek) (2) bekezdés szerinti joggyakorlásának rendeltetésszerűnek kell lennie és nem sértheti a gazdasági társaság méltányos üzleti érdekeit, illetve üzleti titkait.
 
-28. §
+28. § (1) A gazdasági társaság munkavállalóival szemben a munkáltatói jogokat – ha a társasági szerződés eltérően nem rendelkezik – a vezető tisztségviselő gyakorolja. Ha a társaságnál ügyvezető testület működik, a társasági szerződésben, a társasági szerződés ilyen rendelkezése hiányában pedig az ügyvezető testület ügyrendjében kell rendelkezni a munkáltatói jogok gyakorlásának a testület tagjai közti megosztásáról.
+
+(2) A társasági szerződés vagy a társaság legfőbb szervének határozata a munkáltatói jogok gyakorlását több vezető tisztségviselő esetében az egyik vezető tisztségviselőre, illetve más, a gazdasági társasággal munkaviszonyban álló személyre ruházhatja át.
 
 29. § (1) A gazdasági társaságot törvényes képviselőként a vezető tisztségviselők képviselik harmadik személyekkel szemben, valamint bíróságok és más hatóságok előtt. A vezető tisztségviselők törvényen alapuló szervezeti képviseleti jogát a társasági szerződés korlátozhatja, illetve több vezető tisztségviselő között megoszthatja. A képviseleti jog korlátozása, illetve megosztása harmadik személyekkel szemben nem hatályos.
 
@@ -325,7 +288,7 @@ kell alkalmazni.
 
 (2) A vezető tisztségviselők a gazdasági társaság ügyvezetését az ilyen tisztséget betöltő személyektől általában elvárható gondossággal – és ha e törvény kivételt nem tesz –, a gazdasági társaság érdekeinek elsődlegessége alapján kötelesek ellátni. A vezető tisztségviselők a polgári jog általános szabályai szerint felelnek a gazdasági társasággal szemben a jogszabályok, a társasági szerződés, illetve a gazdasági társaság legfőbb szerve által hozott határozatok, illetve ügyvezetési kötelezettségeik felróható megszegésével a társaságnak okozott károkért.
 
-(3) A gazdasági társaság fizetésképtelenségével fenyegető helyzet bekövetkeztét követően a vezető tisztségviselők ügyvezetési feladataikat a társaság hitelezői érdekeinek elsődlegessége alapján kötelesek ellátni. Külön törvény e követelmény felróható megszegése esetére – ha a gazdasági társaság fizetésképtelenné vált vagy külön jogszabály szerint, a fizetésképtelenség vizsgálata nélkül, jogutód nélkül megszüntették – előírhatja a vezető tisztségviselők hitelezőkkel szembeni helytállási kötelezettségét.
+(3) A gazdasági társaság fizetésképtelenségével fenyegető helyzet bekövetkeztét követően, a vezető tisztségviselők ügyvezetési feladataikat a társaság hitelezői érdekeinek elsődlegessége alapján kötelesek ellátni. Külön törvény e követelmény felróható megszegése esetére, ha a gazdasági társaság fizetésképtelenné vált, előírhatja a vezető tisztségviselők hitelezőkkel szembeni helytállási kötelezettségét.
 
 (4) Együttes képviseleti joggal rendelkező vezető tisztségviselők, illetve testületi ügyvezetés esetén a vezető tisztségviselők gazdasági társasággal szembeni kártérítési felelőssége a Ptk. közös károkozásra vonatkozó szabályai szerint egyetemleges. Ha a kárt a testületi ügyvezetés határozata okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
 
@@ -348,7 +311,7 @@ kell alkalmazni.
 
 (2) Ha a gazdasági társaság székhelyétől eltérő telephelyen vagy fióktelepen is folytat tevékenységet, az általános jogosítvánnyal rendelkező cégvezetőn, illetve cégvezetőkön kívül a telephelyeken, illetve fióktelepeknél is működhet cégvezető.
 
-(3) A cégvezetőre a 23. §-ban, a 25. §-ban, a 27. §-ban és a 30. § (3) bekezdésében foglalt előírásokat megfelelően alkalmazni kell.
+(3) A cégvezetőre a 23. §-ban, a 25. §-ban és a 27. §-ban foglalt előírásokat megfelelően alkalmazni kell.
 
 (4) A cégvezető részére a társaság legfőbb szerve általános képviseleti és önálló cégjegyzési jogot biztosíthat, valamint előírhatja a 26. §-ban foglalt feladatok ellátását. A cégvezető és a képviseletre jogosult más munkavállalók képviseleti jogukat másra nem ruházhatják át.
 
@@ -405,13 +368,13 @@ kell alkalmazni.
 
 (4) A felügyelőbizottságban részt vevő munkavállalói küldött – az üzleti titok körén kívül – tájékoztatni köteles az üzemi tanácson keresztül a munkavállalók közösségét a felügyelőbizottság tevékenységéről.
 
-39. § (1) A munkavállalói küldöttet – a munkavállalók közül, a gazdasági társaságnál képviselettel rendelkező szakszervezet véleményének meghallgatása után – az üzemi tanács jelöli.
+39. § (1) A munkavállalói képviselőket a felügyelőbizottságba az üzemi tanács jelöli a munkavállalók sorából, a gazdasági társaságnál működő szakszervezetek véleményének meghallgatása után.
 
 (2) Az üzemi tanács által jelölt személyeket a gazdasági társaság legfőbb szerve köteles a jelölést követő első ülésén a felügyelőbizottság tagjává választani, kivéve, ha a jelöltekkel szemben törvényben foglalt kizáró ok áll fenn. Ebben az esetben újabb jelölést kell kérni.
 
 (3) A felügyelőbizottságban a munkavállalói küldötteket a többi taggal azonos jogok illetik meg, és azonos kötelezettségek terhelik. Ha a munkavállalói küldöttek véleménye a felügyelőbizottság többségi álláspontjától egyhangúlag eltér, a munkavállalók kisebbségi álláspontját a gazdasági társaság legfőbb szervének ülésén ismertetni kell.
 
-(4) A munkavállalói küldött munkajogi védelmére az Mt. 260. § (3)–(5) bekezdése megfelelően irányadó. Az egyetértési jogot a munkavállalói küldöttet jelölő üzemi tanács gyakorolja.
+(4) A munkavállalói küldöttet megilleti a Munka Törvénykönyve alapján az üzemi tanács tagját megillető munkajogi védelem.
 
 (5) A munkavállalói küldött munkaviszonyának megszűnése esetén felügyelőbizottsági tagsága is megszűnik.
 
@@ -425,7 +388,7 @@ kell alkalmazni.
 
 41. § (1) Ha a számviteli törvény a gazdasági társaság számára a könyvvizsgálati szolgáltatás igénybevételét kötelezővé teszi, vagy azt a gazdasági társaság társasági szerződése egyébként előírja, a gazdasági társaság legfőbb szerve megválasztja a társaság könyvvizsgálóját és meghatározza a könyvvizsgálóval kötendő szerződés lényeges elemeinek tartalmát.
 
-(2) Az (1) bekezdésben foglaltakon kívül is kötelező a könyvvizsgáló választása, ha azt törvény – a köztulajdon, közpénzek vagy a hitelezők védelme érdekében – előírja.
+(2) Az (1) bekezdésben foglaltakon kívül is kötelező a könyvvizsgáló választása, ha azt törvény a köztulajdon védelme érdekében előírja.
 
 (3) A társaság könyvvizsgálójává az választható, aki az erre vonatkozó jogszabály szerint a könyvvizsgálók nyilvántartásában szerepel. Egyebekben a könyvvizsgálóra vonatkozó szakmai képesítési és etikai követelményeket, valamint az összeférhetetlenségi szabályokat külön törvény állapítja meg.
 
@@ -517,8 +480,6 @@ kell alkalmazni.
 
 (3) A korlátolt felelősségű társaság törzstőkéjének és a részvénytársaság alaptőkéjének veszteség folytán való csökkenése jogkövetkezményeire törvény eltérő szabályokat állapíthat meg.
 
-(4) Mentesül a gazdasági társaság az (1) bekezdés szerinti kötelezettség alól, ha a második év számviteli törvény szerinti beszámolójának elfogadásától számított három hónapon belül, három hónapnál nem régebbi mérlegfordulónapra összeállított közbenső mérleggel igazolni tudja, hogy az (1) bekezdés szerinti intézkedésekre okot adó körülmény már nem áll fenn.
-
 ### V. Fejezet — BEFOLYÁSSZERZÉS. ELISMERT VÁLLALATCSOPORT
 
 ### 1. CÍM — A minősített többséget biztosító befolyásszerzésre vonatkozó szabályok
@@ -533,7 +494,7 @@ kell alkalmazni.
 
 54. § (1) Ha a minősített befolyásszerző az ellenőrzött társaság vonatkozásában tartósan hátrányos üzletpolitikát folytat és ezáltal az ellenőrzött társaság kötelezettségeinek teljesítését jelentősen veszélyezteti, az ellenőrzött társaság bármely hitelezőjének kérelmére a cégbíróság a minősített befolyásszerzőt biztosíték adására kötelezheti, illetve vele szemben a Ctv. szerinti törvényességi felügyeleti intézkedéseket alkalmazhatja.
 
-(2) Ha az ellenőrzött társaság jogutód nélkül megszüntetésre kerül, a minősített befolyásszerző korlátlan felelősséggel tartozik a társaság minden olyan kötelezettségéért, amelynek kielégítését az eljárás során az adós ellenőrzött társaság vagyona nem fedezi, ha hitelezőinek a felszámolási eljárás során, vagy a társaság jogutód nélküli megszűnését követően, törvényben meghatározott határidőn belül benyújtott keresete alapján a bíróság – az adós társaság felé érvényesített tartósan hátrányos üzletpolitikájára figyelemmel – megállapítja a minősített befolyásszerző korlátlan és teljes felelősségét.
+(2) Ha az ellenőrzött társaság felszámolásra kerül, a minősített befolyásszerző korlátlan felelősséggel tartozik a társaság minden olyan kötelezettségéért, amelynek kielégítését a felszámolási eljárás során az adós ellenőrzött társaság vagyona nem fedezi, ha hitelezőinek a felszámolási eljárás során benyújtott keresete alapján a bíróság – az adós társaság felé érvényesített tartósan hátrányos üzletpolitikájára figyelemmel – megállapítja a minősített befolyásszerző korlátlan és teljes felelősségét.
 
 ### 2. CÍM — Az elismert vállalatcsoport
 
@@ -551,7 +512,7 @@ kell alkalmazni.
 
 - a) a vállalatcsoportban részt vevő gazdasági társaságok cégnevét, székhelyét, cégjegyzékszámát, annak feltüntetésével, hogy melyik társaság minősül a vállalatcsoport uralkodó tagjának és melyik az ellenőrzött társaságnak;
 - b) a vállalatcsoporthoz tartozó gazdasági társaságok által megvalósítani kívánt egységes üzleti koncepció érdekében szükséges együttműködés módját, és annak lényeges tartalmi elemeit, így különösen az uralkodó tagot a vállalatcsoport-szintű döntések meghozatalában és végrehajtása során megillető jogokat, az ellenőrzött társaság (társaságok) legfőbb szervének és ügyvezetésének ezzel kapcsolatos jogait és kötelezettségeit;
-- c) az ellenőrzött társaság (társaságok) tagjainak (részvényeseinek) és hitelezőinek jogai védelmében szükséges, az elismert vállalatcsoportként való működésből származó előnyök és hátrányok kiszámítható és kiegyensúlyozott megosztását biztosító rendelkezéseket, ilyen rendelkezésnek minősül különösen az uralkodó tag kötelezettségvállalása az ellenőrzött társaság veszteségeinek rendezésére, a tagok (részvényesek) osztalékának kiegészítésére, illetve üzletrészeik (részvényeik) kicserélésére vagy annak vállalása, hogy az ellenőrzött társaság esetleges jövőbeli fizetésképtelensége esetén vagy a fizetésképtelenséggel fenyegető helyzetben az uralkodó tag részt vesz az ellenőrzött társaság reorganizációjában;
+- c) az ellenőrzött társaság (társaságok) tagjainak (részvényeseinek) és hitelezőinek jogai védelmében szükséges, az elismert vállalatcsoportként való működésből származó előnyök és hátrányok kiszámítható és kiegyensúlyozott megosztását biztosító rendelkezéseket, ilyen rendelkezésnek minősül különösen az uralkodó tag kötelezettségvállalása az ellenőrzött társaság veszteségeinek rendezésére, a tagok (részvényesek) osztalékának kiegészítésére, illetve üzletrészeik (részvényeik) kicserélésére vagy annak vállalása, hogy az ellenőrzött társaság esetleges jövőbeli fizetésképtelensége esetén az uralkodó tag részt vesz az ellenőrzött társaság reorganizációjában;
 - d) azt, hogy az elismert vállalatcsoport határozott vagy határozatlan időre jön-e létre;
 - e) a szerződésszegés esetére irányadó jogkövetkezményeket.
 
@@ -567,7 +528,7 @@ kell alkalmazni.
 - b) az uralmi szerződés tervezetét;
 - c) a hitelezőknek szóló felhívást, a (4) bekezdésben foglaltak szerint.
 
-(3) Az elismert vállalatcsoport előkészítésében résztvevő gazdasági társaságoknak elhatározásukról tájékoztatniuk kell a gazdasági társaságnál működő üzemi tanácsot és konzultációt kell vele folytatniuk.
+(3) Az elismert vállalatcsoport előkészítésében részt vevő gazdasági társaságoknak elhatározásukról tájékoztatniuk kell a gazdasági társaságnál működő munkavállalói érdek-képviseleti szerveket, és azokkal konzultációt kell folytatniuk.
 
 (4) Azok a hitelezők, akiknek az elismert vállalatcsoport előkészítésében részt vevő bármely gazdasági társasággal szemben fennálló, le nem járt követelése a döntés első közzétételét megelőzően keletkezett, követelésük erejéig a döntés második közzétételét követő harmincnapos jogvesztő határidőn belül biztosítékot követelhetnek. Nem jogosult biztosítékra a hitelező, ha azzal – jogszabály vagy szerződés alapján – már rendelkezik, vagy ha a gazdasági társaság pénzügyi, vagyoni helyzetére figyelemmel a biztosítékadás indokolatlan.
 
@@ -664,9 +625,7 @@ kell alkalmazni.
 
 (3) Ha a tag (részvényes) felelőssége a gazdasági társaságot terhelő kötelezettségekért a társaság fennállása alatt korlátozott volt, a tag (részvényes) felelőssége a társaság megszűnésekor felosztott társasági vagyonból a tagnak (részvényesnek) jutó rész erejéig áll fenn a megszűnt társaságot terhelő kötelezettségekért.
 
-(4) Ha a gazdasági társaság jogutód nélkül megszűnik – a felszámolási eljárás, valamint a kényszertörlési eljárás esetét kivéve – végelszámolásnak van helye.
-
-(5) Ha a gazdasági társaság megszűnésére az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 11/A–11/F. §-a alapján kerül sor, az (1)–(4) bekezdésben foglaltak nem alkalmazandók, a jogutód nélküli megszűnés feltételei, az eljárás lefolytatása, a társaságot terhelő kötelezettségek rendezése tekintetében az Áht.-ban foglaltakat kell alkalmazni.
+(4) Ha a gazdasági társaság jogutód nélkül megszűnik – a felszámolási eljárás, valamint a Ctv. 92. § (2) bekezdése esetét kivéve – végelszámolásnak van helye.
 
 ### 3. CÍM — Az átalakulás közös szabályai
 
@@ -680,7 +639,7 @@ kell alkalmazni.
 
 (5) Az átalakulás során olyan társasági formát kell választani, amely esetében legalább a törvény által az adott társasági formára előírt legkisebb mértékű, vagy – ilyen törvényi előírás hiányában – a társaság által meghatározott jegyzett tőke követelményének a gazdasági társaság az átalakulással eleget tud tenni.
 
-70. § (1) Az átalakulással létrejövő gazdasági társaság az átalakult gazdasági társaság általános jogutódja. A jogutód gazdasági társaságot illetik meg a jogelőd gazdasági társaság jogai és terhelik a jogelőd gazdasági társaság kötelezettségei, ideértve a kollektív szerződésben foglalt jogokat és kötelezettségeket is.
+70. § (1) Az átalakulással létrejövő gazdasági társaság az átalakult gazdasági társaság általános jogutódja. A jogutód gazdasági társaságot illetik meg a jogelőd gazdasági társaság jogai, és terhelik a jogelőd gazdasági társaság kötelezettségei, ideértve a munkavállalókkal kötött kollektív szerződésben foglalt kötelezettségeket is.
 
 (2) Ha a gazdasági társaság által, hatósági engedély kiadása iránti kérelemre indított eljárás van folyamatban, a gazdasági társaság köteles az átalakulás elhatározását az engedélyt kiadó hatóságnak haladéktalanul bejelenteni.
 
@@ -740,7 +699,7 @@ kell alkalmazni.
 
 (6) A legfőbb szerv a gazdasági társaság átalakulásáról véglegesen döntő ülésén meghatározhatja azt – a Ctv. 57. §-ának (2) bekezdése szerinti feltételeknek megfelelő – időpontot, amikor az átalakuláshoz fűződő joghatások beállnak.
 
-75. § (1) Az átalakulás elhatározásáról tájékoztatni kell a gazdasági társaságnál működő üzemi tanácsot.
+75. § (1) Az átalakulás elhatározásáról tájékoztatni kell a gazdasági társaságnál működő munkavállalói érdek-képviseleti szerveket.
 
 (2) A gazdasági társaság a társasági szerződés aláírását követő nyolc napon belül köteles erről a Cégközlönynél közlemény közzétételét kezdeményezni, amelyet két egymást követő lapszámban kell közzétenni.
 
@@ -749,7 +708,7 @@ kell alkalmazni.
 - a) az átalakuló gazdasági társaság cégnevét, székhelyét és cégjegyzékszámát;
 - b) a létrejövő gazdasági társaság formáját, cégnevét és székhelyét;
 - c) a létrejövő gazdasági társaság társasági szerződése megkötésének napját;
-- d) az átalakuló és a létrejövő gazdasági társaság vagyonmérleg-tervezetének legfontosabb adatait;
+- d) az átalakuló és a létrejövő gazdasági társaság vagyonmérleg-tervezetének legfontosabb adatait, így különösen a saját tőke, illetve a jegyzett tőke összegét, valamint a mérleg főösszeget;
 - e) a létrejövő gazdasági társaság főtevékenységét;
 - f) a létrejövő gazdasági társaság vezető tisztségviselőinek nevét és lakóhelyét;
 - g)
@@ -757,14 +716,9 @@ kell alkalmazni.
 
 76. § (1) Az átalakulás az átalakuló gazdasági társasággal szemben fennálló követeléseket nem teszi lejárttá.
 
-(2) Azok a hitelezők, akiknek az átalakuló gazdasági társasággal szemben fennálló követelései az átalakulásról hozott döntés első közzétételét megelőzően keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követő harmincnapos jogvesztő határidőn belül biztosítékot követelhetnek.
+(2) Azok a hitelezők, akiknek az átalakuló gazdasági társasággal szemben fennálló, le nem járt követelései az átalakulással hozott döntés első közzétételét megelőzően keletkeztek, követeléseik erejéig az átalakuló gazdasági társaságtól a döntés második közzétételét követő harmincnapos jogvesztő határidőn belül biztosítékot követelhetnek.
 
-(3) Ha a tag (részvényes) felelőssége az átalakuló gazdasági társaság kötelezettségeiért a társaság fennállása alatt korlátozott, a (2) bekezdésben foglalt rendelkezést csak akkor kell alkalmazni, ha az átalakulás elhatározásakor
-
-- a) a jogelőd gazdasági társaságnak a saját tőke felénél magasabb összegű köztartozása van, amelyre halasztást, fizetési könnyítést nem kapott, vagy
-- b) a jogutód gazdasági társaság saját tőkéjének összege kevesebb, mint a jogelőd gazdasági társaságé volt.
-
-(4) A társaság az igénybejelentés előterjesztésére biztosított határidő lejártát követő nyolc napon belül köteles biztosítékot nyújtani, vagy a kérelem elutasítását és annak indokát a hitelező tudomására hozni. Az elutasító, illetve a hitelező által nem megfelelőnek tartott biztosíték nyújtására vonatkozó döntés felülvizsgálatát a hitelező a határozat kézhezvételétől számított nyolcnapos jogvesztő határidőn belül a cégbíróságtól kérheti. A cégbíróság – a törvényességi felügyeleti eljárásra irányadó szabályok megfelelő alkalmazásával – a kérelem előterjesztésétől számított harminc napon belül határoz. A cégbíróság az eljárás lefolytatását követően elutasítja a kérelmet, vagy a társaságot megfelelő biztosíték nyújtására kötelezi. Az átalakulás mindaddig nem jegyezhető be a cégjegyzékbe, amíg a hitelező megfelelő biztosítékot nem kapott.
+(3) Ha a tag (részvényes) felelőssége az átalakuló gazdasági társaság kötelezettségeiért a társaság fennállása alatt korlátozott, a (2) bekezdésben foglalt rendelkezést csak akkor kell alkalmazni, ha a jogutód gazdasági társaság saját tőkéjének összege kevesebb, mint a jogelőd gazdasági társaságé volt az átalakulás elhatározásakor.
 
 ### 4. CÍM — Gazdasági társaságok egyesülésére vonatkozókülön szabályok
 
@@ -796,7 +750,7 @@ kell alkalmazni.
 
 (3) Az egyesülési szerződést az azt elfogadó legfőbb szervek felhatalmazása alapján az egyesülésben részt vevő gazdasági társaságok vezető tisztségviselői írják alá.
 
-(4) Az egyesülésről az egyesülési szerződés elfogadásától számított tizenöt napon belül tájékoztatni kell a gazdasági társaságoknál működő üzemi tanácsot.
+(4) Az egyesülésről az egyesülési szerződés elfogadásától számított tizenöt napon belül tájékoztatni kell a gazdasági társaságoknál működő munkavállalói érdek-képviseleti szerveket.
 
 (5) Az egyesüléssel érintett gazdasági társaságok az egyesülés valamennyi társaságnál megtörtént végleges elhatározása esetében, az utolsó döntés meghozatalától számított nyolc napon belül kötelesek erről a Cégközlönynél közlemény közzétételét kezdeményezni, amelyet két egymást követő lapszámban kell közzétenni. A közleményben a 75. § (3) bekezdésében foglaltakon kívül meg kell jelölni az egyesülés módját is. A közzététel kezdeményezésére az az egyesüléssel érintett társaság köteles, amelyet erre az egyesülő társaságok maguk közül kijelölnek.
 
@@ -840,7 +794,7 @@ kell alkalmazni.
 
 84. § (1) A 83. §-ban meghatározott tervezetek és okiratok javaslatainak elfogadásáról a szétváló társaság legfőbb szerve dönt, egyúttal megbízza a társaság vezető tisztségviselőit, hogy a szétválási szerződés és a jogutódok társasági szerződésének (társasági szerződés-módosításának) tervezetét a szükséghez képest dolgozzák át.
 
-(2) A szétválás elhatározásáról a szétválási szerződés megkötésétől számított tizenöt napon belül a szétváló gazdasági társaságnál működő üzemi tanácsot értesíteni kell.
+(2) A szétválás elhatározásáról a szétválási szerződés megkötésétől számított tizenöt napon belül a szétváló gazdasági társaságnál működő munkavállalói érdek-képviseleti szerveket értesíteni kell.
 
 (3) A szétválási szerződést a szétváló társaság tagjai, valamint a jogutódok tagjai (leendő tagjai) kötik meg egymással, és írják alá. A jogutód társasági szerződésének aláírására csak azok a tagok jogosultak, akik az adott jogutód tagjaivá válnak majd.
 
@@ -858,7 +812,7 @@ kell alkalmazni.
 
 (3) Ha a kötelezettségről a szétválási szerződésben nem rendelkeztek, vagy az csak a megállapodást követően válik ismertté, a jogutód gazdasági társaságok (ideértve a szétválás után megmaradó társaságot is) felelőssége egyetemleges.
 
-(4) A szétválási szerződésben nevesített követelést elsősorban azzal a jogutóddal szemben kell érvényesíteni, amelyhez az adott kötelezettséget a szétválási szerződés a vagyonmegosztás folytán telepítette. Ha e kötelezettségét a jogutód a követelés esedékességekor nem teljesíti, valamennyi jogutód felelőssége egyetemleges. A jogutódok egymás közötti viszonyában az elszámolás alapja a szétválási szerződésben írt vagyonmegosztási rendelkezés, ilyen rendelkezés hiányában pedig a vagyonmegosztás aránya.
+(4) A szétválási szerződésben nevesített követelést elsősorban azzal a jogutóddal szemben kell érvényesíteni, amelyhez az adott kötelezettséget a szétválási szerződés a vagyonmegosztás folytán telepítette. Ha e kötelezettségét a jogutód nem teljesíti, valamennyi jogutód felelőssége egyetemleges. A jogutódok egymás közötti viszonyában az elszámolás alapja a szétválási szerződésben írt vagyonmegosztási rendelkezés, ilyen rendelkezés hiányában pedig a vagyonmegosztás aránya.
 
 (5) A szétváló gazdasági társaság tagjainak (volt tagjainak) a szétváló társaság tartozásaiért való felelőssége a 70. § (3)–(6) bekezdése szerint alakul.
 
@@ -987,7 +941,7 @@ kell alkalmazni.
 
 105. § (1) Ha tagsági jogviszony megszűnése folytán a társaság tagjainak száma egy főre csökken, a társaság csak akkor szűnik meg, ha hathónapos jogvesztő határidőn belül nem jelentenek be a cégbíróságnál új tagot.
 
-(2) Az új tag belépéséig, illetve a kényszertörlési eljárás megindításáig az egyedüli tagot akkor is a társaság üzletvezetésére és képviseletére jogosultnak kell tekinteni, ha korábban nem minősült annak.
+(2) Az új tag belépéséig, illetve a végelszámoló cégbíróság által történő kirendeléséig az egyedüli tagot akkor is a társaság üzletvezetésére és képviseletére jogosultnak kell tekinteni, ha korábban nem minősült annak.
 
 106. § A társaság jogutód nélküli megszűnése esetén a tartozások kiegyenlítése után fennmaradó vagyont – a társasági szerződés eltérő rendelkezése hiányában – a vagyoni hozzájárulásuk arányában kell felosztani a társaság tagjai között.
 
@@ -1015,7 +969,7 @@ kell alkalmazni.
 
 110. § (1) Ha a társaságból valamennyi beltag vagy valamennyi kültag kiválik, a társaság az utolsó beltag vagy az utolsó kültag kiválásától számított hathónapos jogvesztő határidő elteltével megszűnik, kivéve, ha a társaság e határidőn belül a társasági szerződése módosításával a betéti társaságként vagy közkereseti társaságként való működés törvényes feltételeit megteremti, és ezt a változást a cégbíróságnak bejelenti.
 
-(2) Ha a társaságnak nem maradt üzletvezetésre és képviseletre jogosult tagja, az (1) bekezdés szerinti bejelentés megtételéig, illetve a jogvesztő határidő eredménytelen eltelte esetén a kényszertörlési eljárás megindításáig a kültagot is a társaság üzletvezetésére és képviseletére jogosultnak kell tekinteni.
+(2) Ha a társaságnak nem maradt üzletvezetésre és képviseletre jogosult tagja, az (1) bekezdés szerinti bejelentés megtételéig, illetve a jogvesztő határidő eredménytelen eltelte esetén a végelszámoló kijelöléséig a kültagot is a társaság üzletvezetésére és képviseletére jogosultnak kell tekinteni.
 
 ### IX. Fejezet — A KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG
 
@@ -1040,7 +994,7 @@ kell alkalmazni.
 
 (3) Az egyes tagok nem pénzbeli hozzájárulásuk értékét maguk állapítják meg és azt a tagok fogadják el. Ha a tagok a nem pénzbeli hozzájárulás értékének megállapításánál nem vettek igénybe könyvvizsgálót vagy más szakértőt, úgy meg kell határozniuk, hogy milyen szempontok alapján történt meg a hozzájárulás értékelése. Ezen nyilatkozatukat az ügyvezető 117. § (1) bekezdése szerinti nyilatkozatához kell csatolni.
 
-(4) A tagok törzsbetétei különböző mértékűek lehetnek, az egyes törzsbetétek mértéke azonban nem lehet kevesebb százezer forintnál. A törzsbetétnek – a számviteli törvény felhatalmazása alapján devizában történő könyvvezetést alkalmazó társaság kivételével – forintban kifejezettnek és tízezerrel maradék nélkül oszthatónak kell lennie.
+(4) A tagok törzsbetétei különböző mértékűek lehetnek, az egyes törzsbetétek mértéke azonban nem lehet kevesebb százezer forintnál. A törzsbetétnek forintban kifejezettnek és tízezerrel maradék nélkül oszthatónak kell lennie.
 
 (5) Minden tagnak egy törzsbetéte van; egy törzsbetétnek azonban – a közös tulajdon szabályai szerint – több tulajdonosa is lehet.
 
@@ -1092,7 +1046,7 @@ kell alkalmazni.
 
 (3) Ha a tag a vele közölt vételi ajánlat bejelentésétől számított tizenöt napon belül nem nyilatkozik, úgy kell tekinteni, hogy az elővásárlási jogával nem kívánt élni. A társaság vagy az általa kijelölt személy esetén a határidő a bejelentéstől számított harminc nap. Ez utóbbi határidő vonatkozik a 126. §-ban megjelölt beleegyezés esetére is.
 
-124. § A tag üzletrészének bírósági végrehajtási eljárás során történő értékesítésénél a többi tagot, a társaságot vagy a taggyűlés által kijelölt személyt – ebben a sorrendben – az üzletrészre – a bírósági végrehajtási árverésen gyakorolható – elővásárlási jog illeti meg. Ennek során az elővásárlási jog gyakorlására a bírósági végrehajtási eljárás szabályai irányadóak azzal, hogy a társaságot megillető elővásárlási jogot mindkét esetben a taggyűlés gyakorolja.
+124. § A tag üzletrészének bírósági végrehajtási eljárás során történő értékesítésénél a többi tagot, a társaságot vagy a taggyűlés által kijelölt személyt – ebben a sorrendben – az üzletrészre – a bírósági végrehajtási árverésen gyakorolható – elővásárlási jog illeti meg. Ennek során az elővásárlási jog gyakorlására a 123. §-ban foglaltak irányadóak azzal, hogy a társaságot megillető elővásárlási jogot mindkét esetben a taggyűlés gyakorolja.
 
 125. § (1) Az elővásárlási jog átruházása semmis.
 
@@ -1112,7 +1066,7 @@ kell alkalmazni.
 
 128. § (1) A tag halálával vagy megszűnésével üzletrésze átszáll a jogutódra. A társasági szerződés az átszállást kizárhatja, ebben az esetben azonban rendelkeznie kell az üzletrésznek a tagok vagy a társaság által történő megváltásáról.
 
-(2) Ha a tag jogutód nélkül szűnik meg, és az üzletrészről a tag végelszámolása, felszámolása során nem rendelkeztek, a társaság köteles a tag megszűnéséről való tudomásszerzéstől számított egy hónapon belül vagyonrendezési eljárás lefolytatását kezdeményezni (Ctv. 119. §). Ha a vagyonrendezési eljárásban az üzletrészre más nem tart igényt, a jogutód nélkül megszűnt tag üzletrészét haladéktalanul be kell vonni. Ha az üzletrész olyan jogutód nélkül megszűnt tag tulajdonát képezi, amely tag székhelye a megszűnéskor nem Magyarországon volt, és a megszüntetésre irányuló eljárást nem Magyarországon folytatták le, ebben az esetben vagyonrendezési eljárás lefolytatására nem kerül sor, a társaság a megszűnt tag üzletrészére vonatkozó adatokról a Cégközlönyben közleményt tesz közzé azzal, hogy akinek az üzletrészre vonatkozóan igénye van, azt három hónapon belül jelentse be. Ha ilyen bejelentésre nem kerül sor, a megszűnt tag üzletrészét haladéktalanul be kell vonni. Amennyiben az igényt három hónapon túl jelentették be, a társaságtól csak a bevont üzletrész értékét lehet igényelni, a közzétételtől számított egyéves jogvesztő határidőn belül.
+(2) Ha a tag jogutód nélkül szűnik meg, a társaság köteles a tag megszűnéséről való tudomásszerzéstől számított három hónapon belül vagyonrendezési eljárás lefolytatását kezdeményezni (Ctv. 119. §). Ha a vagyonrendezési eljárásban az üzletrészre más nem tart igényt, a jogutód nélkül megszűnt tag üzletrészét haladéktalanul be kell vonni.
 
 129. § (1) Ha a tag az üzletrészét házastársi közös vagyonból szerezte, akkor a bíróság a házassági vagyonjogi perben a nem tag házastársnak – kérelmére – az üzletrész adásvételi szerződésen kívüli jogcímen történő átruházására vonatkozó szabályok szerint juttathat társasági részesedést.
 
@@ -1144,8 +1098,6 @@ kell alkalmazni.
 
 - a) a számviteli törvény szerinti – e célból készített – közbenső mérleg alapján megállapítható, hogy a társaság rendelkezik az osztalék fizetéséhez szükséges fedezettel; azzal, hogy a kifizetés nem haladhatja meg az utolsó számviteli törvény szerinti beszámoló szerinti üzleti év könyveinek lezárása óta keletkezett eredménynek a számviteli törvényben foglaltak alapján megállapított, illetve a szabad eredménytartalékkal kiegészített összegét és a társaságnak a számviteli törvény szerint helyesbített saját tőkéje a kifizetés folytán nem csökkenhet a törzstőke összege alá, továbbá
 - b) a tagok vállalják az osztalékelőleg visszafizetését, amennyiben utóbb a számviteli törvény szerinti beszámoló alapján – a 131. § (1) bekezdésben foglaltakra figyelemmel – az osztalékfizetésre nem lenne jogszabályi lehetőség.
-
-Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közbenső mérleg fordulónapját követő hat hónapon belül lehet figyelembe venni. Osztalékelőleg a mérleg fordulónapját követő hat hónapon belül a számviteli törvény szerinti beszámoló alapján is fizethető.
 
 134. § A 131. § (4) bekezdésben foglaltak megfelelően alkalmazandók abban az esetben is, ha a tag polgári jogi szerződés alapján, nem tagsági jogviszonyára tekintettel, olyan kifizetésben részesült, amelyre a 131. § (1) bekezdésben foglaltak egyébként nem adnának lehetőséget, és amely a felelős társasági gazdálkodás követelményével összeegyeztethetetlen.
 
@@ -1254,7 +1206,7 @@ Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közb
 - a) a társaság saját tőkéje veszteség folytán a törzstőke felére csökkent, vagy
 - b) a társaságot fizetésképtelenség fenyegeti, vagy fizetéseit megszüntette, illetve, ha vagyona tartozásait nem fedezi.
 
-(3) A (2) bekezdésben megjelölt esetekben – kivéve, ha a társaság a taggyűlés időpontját legfeljebb egy hónappal megelőző mérlegfordulónapra összeállított közbenső mérleggel igazolni tudja, hogy azok már nem állnak fenn – a tagoknak határozniuk kell különösen a pótbefizetés előírásáról vagy – ha ennek lehetőségét a társasági szerződés nem tartalmazza – a törzstőke más módon való biztosításáról, illetve a törzstőke leszállításáról, mindezek hiányában a társaságnak más társasággá történő átalakulásáról, illetve jogutód nélküli megszüntetéséről. A határozatokat legkésőbb három hónapon belül végre kell hajtani.
+(3) A (2) bekezdésben megjelölt esetekben a tagoknak határozniuk kell különösen a pótbefizetés előírásáról vagy – ha ennek lehetőségét a társasági szerződés nem tartalmazza – a törzstőke más módon való biztosításáról, illetve a törzstőke leszállításáról, mindezek hiányában a társaságnak más társasággá történő átalakulásáról, illetve jogutód nélküli megszüntetéséről. A határozatokat legkésőbb három hónapon belül végre kell hajtani.
 
 144. § (1) A taggyűlést – a társasági szerződés eltérő rendelkezése hiányában – a társaság székhelyére vagy telephelyére kell összehívni, ettől eltérni csak a tagok egyszerű szótöbbséggel hozott előzetes hozzájárulásával lehet.
 
@@ -1345,8 +1297,6 @@ Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közb
 
 (3) A törzstőke 114. § (1) bekezdésében meghatározott összeg alá történő leszállításáról is határozhat a társaság (feltételes tőkeleszállítás). Ez esetben a törzstőke leszállítása hatályosulásának előfeltétele, hogy a törzstőke leszállításával egyidejűleg elhatározott törzstőkeemelés megtörténjen és így a törzstőke legalább a 114. § (1) bekezdésében meghatározott nagyságot elérje.
 
-(4) A 114. § (4) bekezdésében foglalt, a törzsbetét legkisebb mértékére vonatkozó rendelkezéseket a törzstőke leszállítása esetében is alkalmazni kell.
-
 160. § (1) A társaság elhatározásából történő törzstőke leszállításáról döntő taggyűlési határozatban meg kell határozni a leszállított törzstőke és az egyes tagok törzsbetéteinek nagyságát, valamint azt, hogy a törzstőke-leszállításra tőkekivonás vagy veszteség rendezése érdekében, illetve a saját tőke más elemeinek – ideértve a lekötött tartalékot is – növelése céljából kerül-e sor. A törzstőke leszállítása a társasági szerződés, illetve a tőke leszállításáról döntő taggyűlési határozat eltérő rendelkezése hiányában törzsbetéteik arányában érinti a tagok üzletrészét.
 
 (2) A törzstőke tőkekivonással történő leszállításakor a tagokat megillető összeg megállapítása során számításba kell venni – a törzstőke arányában – a törzstőkén felüli vagyon összegét is. Amennyiben a saját tőke kevesebb, mint a jegyzett tőke összege, a törzstőke tőkekivonással történő leszállítása esetén először a veszteség rendezése miatti törzstőke leszállításáról kell dönteni.
@@ -1355,23 +1305,20 @@ Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közb
 
 (2) Ha a törzstőkét a 114. § (1) bekezdésében meghatározott összeg alá kellene leszállítani – ha a társaság nem él a 143. § (3) bekezdésében, illetve a 159. § (3) bekezdése nyújtotta lehetőségek valamelyikével – a társaságnak társasági formaváltásról, más társasággal való egyesüléséről, szétválásáról, avagy jogutód nélküli megszűnéséről kell döntenie. A taggyűlési határozat tartalmára a 160. § megfelelően irányadó.
 
-162. § (1) Az ügyvezető a törzstőke leszállítását elhatározó taggyűlési határozat meghozatalát követő harminc napon belül köteles a taggyűlési határozatról szóló közleményt a cégbíróságnak elektronikus úton megküldeni, egyidejűleg intézkedni a tőkeleszállításról hozott döntés Cégközlönyben történő kétszer egymás utáni közzétételéről, akként, hogy a két közzététel között legalább harminc napnak kell eltelnie.
+162. § (1) Az ügyvezető a törzstőke leszállítását elhatározó taggyűlési határozat meghozatalát követő harminc napon belül köteles a taggyűlési határozatról szóló közleményt a cégbíróságnak elektronikus úton megküldeni, egyidejűleg intézkedni a tőke leszállításról hozott döntés Cégközlönyben történő kétszer egymás utáni közzétételéről, akként, hogy a két közzététel között legalább harminc napnak kell eltelnie. A hirdetményben fel kell tüntetni a döntés tartalmát, valamint fel kell hívni a társaság hitelezőit, hogy a hirdetmény első alkalommal történt közzétételét megelőzően keletkezett és ezen időpontig esedékessé nem vált követeléseik után – a (3) bekezdés szerinti kivételekkel – biztosítékra tarthatnak igényt. Az ismert hitelezőket a társaság közvetlenül is köteles értesíteni.
 
-(2) A hirdetményben fel kell tüntetni:
+(2) A hitelezők a hirdetmény utolsó közzétételétől számított harmincnapos jogvesztő határidőn belül jogosultak bejelenteni, ha a társaság törzstőkéjének leszállításával összefüggésben biztosítékra tartanak igényt.
 
-- a) a döntés tartalmát, valamint
-- b) fel kell hívni a társaság hitelezőit, hogy a hirdetmény első alkalommal történt közzétételét megelőzően keletkezett követeléseik után – a (4) bekezdés szerinti kivételekkel – biztosítékra tarthatnak igényt. Az ismert hitelezőket a társaság közvetlenül is köteles értesíteni.
-
-(3) A hitelezők a hirdetmény utolsó közzétételétől számított harmincnapos jogvesztő határidőn belül jogosultak bejelenteni, ha a társaság törzstőkéjének leszállításával összefüggésben biztosítékra tartanak igényt.
-
-(4) Nem jogosult biztosítékra a hitelező, ha a törzstőke-leszállításhoz kapcsolódó kockázattal arányos biztosítékkal – jogszabály rendelkezése vagy szerződés alapján – már rendelkezik, vagy ha a társaság pénzügyi, vagyoni helyzetére figyelemmel a biztosítékadás indokolatlan.
+(3) Nem jogosult biztosítékra a hitelező, ha a törzstőke-leszállításhoz kapcsolódó kockázattal arányos biztosítékkal – jogszabály rendelkezése vagy szerződés alapján – már rendelkezik, vagy ha a társaság pénzügyi, vagyoni helyzetére figyelemmel a biztosítékadás indokolatlan.
 
 163. § (1) A társaság az igény bejelentés előterjesztésére biztosított határidő lejártát követő nyolc napon belül köteles biztosítékot nyújtani, vagy a kérelem elutasítását és annak indokát a hitelező tudomására hozni. Az elutasító, illetve a hitelező által nem megfelelőnek tartott biztosíték nyújtására vonatkozó döntés felülvizsgálatát a hitelező a határozat kézhezvételétől számított nyolcnapos jogvesztő határidőn belül a cégbíróságtól kérheti. A cégbíróság – a törvényességi felügyeleti eljárásra irányadó szabályok megfelelő alkalmazásával – a kérelem előterjesztésétől számított harminc napon belül határoz. A cégbíróság az eljárás lefolytatását követően elutasítja a kérelmet, vagy a társaságot megfelelő biztosíték nyújtására kötelezi. A törzstőke leszállítása mindaddig nem jegyezhető be a cégjegyzékbe, amíg a hitelező megfelelő biztosítékot nem kapott.
 
-(2) A 162. § (2) bekezdés b) pontjában, (3) bekezdésében továbbá az e § (1) bekezdésében foglaltak nem alkalmazhatók, ha a társaság törzstőkéjének leszállítására
+(2) Az (1) bekezdésben foglaltak nem alkalmazhatók, ha a társaság törzstőkéjének leszállítására
 
-- a) a társaság veszteségének rendezése végett [143. § (2) bekezdése], vagy
-- b) a számviteli törvényben meghatározott módon, a társaság törzstőkéjén felüli lekötött tartalék javára történő átcsoportosítás céljából kerül sor.
+- a) a társaság veszteségének rendezése végett [143. § (3) bekezdése], vagy
+- b) a számviteli törvényben meghatározott módon, a társaság törzstőkéjén felüli lekötött tartalék javára történő átcsoportosítás céljából
+
+kerül sor.
 
 (3) A (2) bekezdés b) pont szerinti esetben a törzstőke terhére képzett tartalék nem haladhatja meg a társaság törzstőkéjének tíz százalékát. Az így képzett lekötött tartalék kizárólag a társasági veszteségek csökkentésére vagy utóbb a társaság törzstőkéjének a felemelésére fordítható, tilos abból a tagok javára kifizetést teljesíteni.
 
@@ -1389,7 +1336,7 @@ Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közb
 
 (2) A társaság jogutód nélküli megszűnése esetében a hitelezők kielégítése után fennmaradó vagyonból először a pótbefizetéseket kell visszatéríteni, majd a további részt – a társasági szerződés eltérő rendelkezése hiányában – a törzsbetétek arányában kell felosztani a társaság tagjai között.
 
-(3) Ha a végelszámolás vagy a kényszertörlési eljárás megindításakor, illetve a felszámolás elrendelésekor a társaság törzstőkéje még nem került teljes egészében befizetésre, a végelszámoló, illetve a felszámoló jogosult a még nem teljesített befizetésekre vonatkozó kötelezettséget azonnal esedékessé tenni és annak teljesítését a tagoktól megkövetelni, ha arra a társaság tartozásainak kiegyenlítése érdekében szükség van.
+(3) Ha a végelszámolás megindításakor, illetve a felszámolás elrendelésekor a társaság törzstőkéje még nem került teljes egészében befizetésre, a végelszámoló, illetve a felszámoló jogosult a még nem teljesített befizetésekre vonatkozó kötelezettséget azonnal esedékessé tenni és annak teljesítését a tagoktól megkövetelni, ha arra a társaság tartozásainak kiegyenlítése érdekében szükség van.
 
 166. § Ha a társaság tagjainak száma egy főre csökkent, a társaság nem szűnik meg, hanem egyszemélyes társaságként tovább működik. Amennyiben a társaság legkésőbb egy éven belül nem jelent be új tagot, akkor a korábbi társasági szerződését alapító okiratra kell módosítani.
 
@@ -1574,17 +1521,11 @@ számítandó.
 
 ### Az átváltoztatható és a jegyzési jogot biztosítókötvény
 
-194. § (1) A részvénytársaság alaptőkéjének feléig forgalomba hozhat olyan névre szóló kötvényt, amelyet a kötvényes vagy a részvénytársaság igazgatósága kérésére részvénnyé kell átalakítani (átváltoztatható kötvény).
+194. § (1) A részvénytársaság alaptőkéjének feléig forgalomba hozhat olyan névre szóló kötvényt, amelyet a kötvényes kérésére részvénnyé kell átalakítani (átváltoztatható kötvény).
 
 (2) A részvénytársaság olyan névre szóló kötvény kibocsátását is elhatározhatja, amely utóbb, az alaptőke felemelésekor tulajdonosának – a részvényeseket követően – jegyzési jogot biztosít (jegyzési jogot biztosító kötvény).
 
 (3) Az átváltoztatható és a jegyzési jogot biztosító kötvényre vonatkozó rendelkezéseket az alapszabály állapítja meg. A részvénytársaság közgyűlése felhatalmazhatja az igazgatóságot átváltoztatható vagy jegyzési jogot biztosító kötvény kibocsátására.
-
-### Az átváltozó kötvény
-
-194/A. § (1) A részvénytársaság alaptőkéjének feléig forgalomba hozhat olyan névre szóló kötvényt, amely egy később bekövetkező objektív feltétel bekövetkezte esetén részvénnyé alakul át (átváltozó kötvény).
-
-(2) A részvénytársaság közgyűlése felhatalmazhatja az igazgatóságot átváltozó vagy feltételesen átváltozó kötvény kibocsátására.
 
 ### A részvényutalvány és az ideiglenes részvény
 
@@ -1636,30 +1577,28 @@ számítandó.
 
 202. § (1) A részvénytársaság igazgatósága vagy – (2) bekezdés szerinti – megbízottja a részvényesről, ideértve az ideiglenes részvény tulajdonosát is, részvénykönyvet vezet, amelyben nyilvántartja a részvényes, illetve a részvényesi meghatalmazott (a továbbiakban együtt: részvényes) – közös tulajdonban álló részvény esetén a közös képviselő – nevét (cégét) és lakóhelyét (székhelyét), részvénysorozatonként a részvényes részvényeinek, ideiglenes részvényeinek darabszámát (tulajdoni részesedésének mértékét), valamint egyéb, törvényben és a részvénytársaság alapszabályában meghatározott adatokat. A részvénykönyv törölt adatainak megállapíthatónak kell maradniuk.
 
-(2) A részvénytársaság igazgatósága a részvénykönyv vezetésére – külön törvény szerinti – elszámolóháznak, központi értéktárnak, befektetési vállalkozásnak, pénzügyi intézménynek, ügyvédnek vagy könyvvizsgálónak (ide nem értve a számviteli törvény szerinti kötelező könyvvizsgálat esetén a választott könyvvizsgálót) adhat megbízást. A megbízás tényét és a megbízott személyét a Cégközlönyben közzé kell tenni.
+(2) A részvénytársaság igazgatósága a részvénykönyv vezetésére – külön törvény szerinti – elszámolóháznak, központi értéktárnak, befektetési vállalkozásnak vagy pénzügyi intézménynek adhat megbízást. A megbízás tényét és a megbízott személyét a Cégközlönyben közzé kell tenni.
 
 (3) A részvény átruházása a részvénytársasággal szemben akkor hatályos és a részvényes a részvénytársasággal szemben részvényesi jogait csak akkor gyakorolhatja, ha a részvényest a részvénykönyvbe bejegyezték.
 
-(4) Dematerializált részvény esetén az (1) bekezdés szerinti adatoknak – ide nem értve az alapszabályban meghatározott adatokat – a részvénykönyv vezetője számára történő bejelentésére, a részvényeknek az értékpapírszámlán történő jóváírását követő két munkanapon belül, az értékpapírszámla-vezető köteles.
+(4) Dematerializált részvény esetén az (1) bekezdés szerinti adatoknak – ide nem értve az alapszabályban meghatározott adatokat – a részvénykönyv vezetője számára történő bejelentésére, a részvényeknek az értékpapírszámlán történő jóváírását követő két munkanapon belül, az értékpapírszámla-vezető köteles. Az értékpapírszámla-vezető nem jelentheti be az adatokat, ha a részvényes így rendelkezett.
 
 (5) Nyomdai úton előállított és – külön törvény szerinti – értékpapírletét-kezelőnél letétbe helyezett részvény esetén a (4) bekezdést a letétkezelőre kell megfelelően alkalmazni.
 
 (6) Nem jegyezhető be a részvénykönyvbe
 
-- a)
+- a) az, aki így rendelkezett;
 - b) az, aki részvényét törvénynek vagy az alapszabálynak a részvény átruházására vonatkozó szabályait sértő módon szerezte meg.
 
 (7) A részvénykönyv vezetője – a (6) bekezdésben meghatározott kivétellel – nem tagadhatja meg a részvénykönyvbe való haladéktalan bejegyzést.
 
-(8)
+(8) A részvénykönyv vezetője köteles a részvénykönyvből haladéktalanul törölni azt a részvényest, aki így rendelkezett.
 
 (9) Ha a részvényes tulajdonjoga az értékpapírszámlán történő terheléssel megszűnt, az értékpapírszámla-vezető köteles e tényt a részvénykönyv vezetőjének a változástól számított két munkanapon belül bejelenteni. A részvénykönyv vezetője köteles a bejelentés alapján a változást a részvénykönyvben haladéktalanul átvezetni.
 
 (10) A részvényes a részvénykönyvbe betekinthet és annak rá vonatkozó részéről az igazgatóságtól, illetve annak megbízottjától másolatot igényelhet, amelyet a részvénykönyv vezetője öt napon belül teljesíteni köteles. Harmadik személy a részvénykönyvbe betekinthet.
 
 (11) Törvény meghatározott tevékenységet folytató részvénytársaságok számára a részvénykönyv vezetésének további feltételeit határozhatja meg, ennek keretében bejelentési kötelezettséget írhat elő a részvényt átruházó, illetve az azt megszerző terhére.
-
-(12) A részvénykönyvbe történő betekintés lehetőségét a részvénykönyv-vezető székhelyén vagy központi ügyintézésének helyén – amennyiben az külföldön található, a társaság székhelyén vagy magyarországi központi ügyintézésének helyén – munkaidőben folyamatosan biztosítani kell.
 
 ### A részvényátruházás sajátos szabályai
 
@@ -1700,19 +1639,19 @@ számítandó.
 - b) az alapítók nyilatkozatát a valamennyi részvény átvételére vonatkozó kötelezettségvállalásról és a részvényeknek az alapítók közötti megoszlásáról;
 - c) az alapítás során kibocsátandó részvények számát, névértékét, illetve kibocsátási értékét, hányad részvény esetén a hányad részvények névértékét, valamint a részvények előállításának módját;
 - d) a 37. §-ban és a 247. §-ban foglalt kivételekkel az első igazgatóság tagjainak nevét (lakóhelyét);
-- e)
+- e) a részvénytársaság első könyvvizsgálójának nevét (lakóhelyét, székhelyét);
 - f) a közgyűlés összehívásának módját, továbbá a szavazati jog gyakorlásának feltételeit és módját.
 
 (2) Szükség szerint tartalmazza az alapszabály:
 
 - a) a nem pénzbeli hozzájárulás tárgyát, értékét, szolgáltatásának időpontját, az ellenében adandó részvények számát, névértékét, a hozzájárulást szolgáltató nevét (cégét), lakóhelyét (székhelyét) és a nem pénzbeli hozzájárulásnak az alapszabály szerinti értékét előzetesen felülvizsgáló könyvvizsgáló vagy szakértő nevét (cégét), székhelyét (lakóhelyét);
 - b) az egyes részvényfajtákhoz, részvényosztályokhoz, illetve részvénysorozatokhoz kapcsolódó jogokat és a részvényekhez fűződő egyes jogok esetleges korlátozását, a részvények más részvényfajtába, részvényosztályba, illetve részvénysorozatba tartozó részvényre történő átalakításának szabályait, valamint az egyes részvényfajtához, illetve részvényosztályhoz tartozó részvények számát, névértékét, illetve kibocsátási értékét részvénysorozatonként;
-- c) az átváltoztatható, jegyzési jogot biztosító vagy átváltozó kötvények sorozatát, számát, névértékét és a kötvényekre vonatkozó szabályokat;
+- c) az átváltoztatható vagy jegyzési jogot biztosító kötvények sorozatát, számát, névértékét és a kötvényekre vonatkozó szabályokat;
 - d) a részvények átruházásának korlátozását vagy annak a részvénytársaság beleegyezéséhez kötését;
 - e) a részvények kötelező bevonásával [267. § (3) bekezdés] összefüggésben szükséges rendelkezéseket;
 - f) az igazgatóság felhatalmazását – a visszaváltható részvényhez kapcsolódó jogok gyakorlásával, a saját részvény megszerzésével, osztalékelőleg fizetésével, valamint az alaptőkének az alaptőkén felüli vagyon terhére történő felemelésével kapcsolatban – közbenső mérleg elfogadására;
 - g) vezérigazgató (247. §) választása esetén az első vezérigazgató nevét (lakóhelyét);
-- h) felügyelőbizottság választása esetén az első felügyelőbizottság tagjainak nevét (lakóhelyét), könyvvizsgáló választása esetén az első könyvvizsgáló nevét (lakóhelyét, székhelyét);
+- h) felügyelőbizottság választása esetén az első felügyelőbizottság tagjainak nevét (lakóhelyét);
 - i) mindazt, amiről a részvényesek az alapszabályban rendelkezni kívánnak.
 
 209. § (1) Nem pénzbeli hozzájárulás szolgáltatása esetén – az e törvényben meghatározott esetek kivételével – az alapszabályhoz mellékelni kell a könyvvizsgáló, illetve más szakértő (a továbbiakban: könyvvizsgáló) jelentését, amely tartalmazza a nem pénzbeli hozzájárulás leírását és értékelését – ezzel összefüggésben a könyvvizsgáló arra vonatkozó megállapítását, hogy a nem pénzbeli hozzájárulásnak az alapítók által előzetesen megállapított értéke egyensúlyban van-e az ellenében adandó részvények számával, névértékével –, valamint az alkalmazott értékelési szempontok ismertetését. A részvénytársaság választott könyvvizsgálója a nem pénzbeli hozzájárulás értékének előzetes felülvizsgálatára nem jogosult.
@@ -1815,8 +1754,6 @@ számítandó.
 - a) a számviteli törvény szerint készített közbenső mérleg alapján megállapítható, hogy a részvénytársaság rendelkezik az osztalékelőleg fizetéséhez szükséges fedezettel. A kifizetés azonban nem haladhatja meg az utolsó számviteli törvény szerinti beszámoló szerinti üzleti év könyveinek lezárása óta keletkezett eredménynek a számviteli törvényben foglaltak alapján megállapított, illetve a szabad eredménytartalékkal kiegészített összegét és a részvénytársaságnak a számviteli törvény szerint helyesbített saját tőkéje a kifizetés folytán nem csökkenhet az alaptőke összege alá, továbbá
 - b) a részvényesek vállalják az osztalékelőleg visszafizetését, amennyiben utóbb a számviteli törvény szerinti beszámoló alapján – a 219. § (1) bekezdésben foglaltakra figyelemmel – az osztalékfizetésre nem lenne jogszabályi lehetőség.
 
-Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közbenső mérleg fordulónapját követő hat hónapon belül lehet figyelembe venni. Osztalékelőleg a mérleg fordulónapját követő hat hónapon belül a számviteli törvény szerinti beszámoló alapján is fizethető.
-
 (2) Az alapszabály felhatalmazhatja az igazgatóságot arra, hogy a felügyelőbizottság előzetes jóváhagyása mellett a közgyűlés helyett határozzon osztalékelőleg fizetéséről.
 
 222. § (1) A 219. § (4) bekezdésében foglaltakat megfelelően alkalmazni kell akkor is, ha a részvényes, bár nem tagsági jogviszonyára tekintettel, olyan kifizetésben részesült, amelyre a 219. § (1) bekezdésben foglaltak egyébként nem adnának lehetőséget, és amely a felelős társasági gazdálkodás követelményével összeegyeztethetetlen.
@@ -1825,13 +1762,13 @@ Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közb
 
 ### Saját részvény
 
-223. § (1) A részvénytársaság az általa kibocsátott részvényeknek (saját részvény) az alapítás során történő átvételére nem jogosult. A részvénytársaság saját részvényeit – e törvény eltérő rendelkezése hiányában – kizárólag alaptőkén felüli vagyona fedezete mellett szerezheti meg, kivéve, ha a szabályozott piacra bevezetett részvények kivezetése során a részvényes az eladási jogát gyakorolja. A részvénytársaság köteles a szabályozott piacra bevezetett részvények kivezetése során a részvényes eladási jogának gyakorlása következtében megszerzett részvényeket 2 éven belül elidegeníteni, vagy azokat bevonni.
+223. § (1) A részvénytársaság az általa kibocsátott részvényeknek (saját részvény) az alapítás során történő átvételére nem jogosult. A részvénytársaság saját részvényeit – e törvény eltérő rendelkezése hiányában – kizárólag alaptőkén felüli vagyona fedezete mellett szerezheti meg.
 
 (2)
 
 (3) Tilos azoknak a részvényeknek a megszerzése, amelyek névértékének, illetve kibocsátási értékének teljes befizetése (rendelkezésre bocsátása) nem történt meg.
 
-(4) Tilos a saját részvény megszerzése, ha az adott üzleti évben a részvénytársaság a 219. § (1) bekezdésében meghatározott feltételek hiányában nem fizethet osztalékot, kivéve a szabályozott piacra bevezetett részvények kivezetése esetén. Ennek megállapítására a számviteli törvény szerinti beszámolóban és a közbenső mérlegben foglaltakat a mérleg fordulónapját követő hat hónapon belül lehet figyelembe venni. A részvénytársaság köteles a szabályozott piacra bevezetett részvények kivezetése során a részvényes eladási jogának gyakorlása következtében megszerzett részvényeket 2 éven belül elidegeníteni, vagy azokat bevonni.
+(4) Tilos a saját részvény megszerzése, ha az adott üzleti évben a részvénytársaság a 219. § (1) bekezdésében meghatározott feltételek hiányában nem fizethet osztalékot. Ennek megállapítására a számviteli törvény szerinti beszámolóban és a közbenső mérlegben foglaltakat a mérleg fordulónapját követő hat hónapon belül lehet figyelembe venni.
 
 224. § A saját részvény megszerzésének feltétele, hogy a közgyűlés az igazgatóságot arra, a feltételek meghatározásával felhatalmazza. A felhatalmazás szólhat egyszeri alkalomra vagy legfeljebb tizennyolc hónapos időtartamra. A felhatalmazással együtt meg kell határozni különösen a megszerezhető részvények fajtáját (osztályát), számát, névértékét, visszterhes megszerzés esetében az ellenérték legalacsonyabb és legmagasabb összegét.
 
@@ -1881,7 +1818,7 @@ Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közb
 - f) döntés – ha e törvény eltérően nem rendelkezik – osztalékelőleg fizetéséről;
 - g) döntés a nyomdai úton előállított részvény dematerializált részvénnyé történő átalakításáról;
 - h) az egyes részvénysorozatokhoz fűződő jogok megváltoztatása, illetve az egyes részvényfajták, osztályok átalakítása;
-- i) döntés – ha e törvény másként nem rendelkezik – az átváltoztatható, jegyzési jogot biztosító vagy átváltozó kötvény kibocsátásáról;
+- i) döntés – ha e törvény másként nem rendelkezik – az átváltoztatható vagy jegyzési jogot biztosító kötvény kibocsátásáról;
 - j) döntés – ha e törvény másként nem rendelkezik – az alaptőke felemeléséről;
 - k) döntés – ha e törvény másként nem rendelkezik – az alaptőke leszállításáról;
 - l) döntés a jegyzési elsőbbségi jog gyakorlásának kizárásáról, illetve az igazgatóság felhatalmazásáról a jegyzési elsőbbségi jog korlátozására, illetve kizárására;
@@ -1987,7 +1924,7 @@ Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közb
 - b) saját tőkéje a 207. § (1) bekezdésében meghatározott összeg alá csökkent, vagy
 - c) a részvénytársaságot fizetésképtelenség fenyegeti, vagy fizetéseit megszüntette, illetve ha vagyona tartozásait nem fedezi.
 
-(2) Az (1) bekezdésben megjelölt esetekben – kivéve, ha a társaság a közgyűlés időpontját legfeljebb egy hónappal megelőző mérlegfordulónapra összeállított közbenső mérleggel igazolni tudja, hogy azok már nem állnak fenn – a részvényeseknek határozniuk kell az alaptőke biztosításáról, illetve annak módjáról, így különösen a részvényesek által történő befizetés előírásáról, illetve az alaptőke leszállításáról, továbbá a társaságnak más társasággá történő átalakulásáról, ezek hiányában pedig a társaság megszüntetéséről.
+(2) Az (1) bekezdésben megjelölt esetekben a részvényeseknek határozniuk kell az alaptőke biztosításáról, illetve annak módjáról, így különösen a részvényesek által történő befizetés előírásáról, illetve az alaptőke leszállításáról, továbbá a társaságnak más társasággá történő átalakulásáról, ezek hiányában pedig a társaság megszüntetéséről.
 
 246. § Ha a közgyűlés befejezését követő három hónapon belül az összehívására okot adó, a 245. § (1) bekezdésének a) pontja szerinti körülmény változatlanul fennáll, az alaptőke leszállítása kötelező.
 
@@ -2000,7 +1937,7 @@ Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közb
 - a) új részvények forgalomba hozatalával;
 - b) az alaptőkén felüli vagyon terhére;
 - c) dolgozói részvény forgalomba hozatalával; illetve
-- d) feltételes alaptőke-emelésként, átváltozó vagy átváltoztatható kötvény forgalomba hozatalával történik.
+- d) feltételes alaptőke-emelésként, átváltoztatható kötvény forgalomba hozatalával
 
 történik.
 
@@ -2092,28 +2029,25 @@ történik.
 
 (4) Dolgozói részvény forgalomba hozatala esetén az alaptőkén felüli vagyon terhére történő, valamint az új részvények zártkörű forgalomba hozatalával történő alaptőke-emelés szabályai megfelelően irányadóak.
 
-### Alaptőke-emelés átváltoztatható vagy átváltozó kötvény forgalomba hozatalával
+### Alaptőke-emelésátváltoztatható kötvény forgalomba hozatalával
 
-263. § (1) A közgyűlés vagy felhatalmazásával az igazgatóság feltételes alaptőke-emelést határozhat el átváltoztatható vagy átváltozó kötvény forgalomba hozatalával. Az átváltoztatható, ill. az átváltozó kötvény zártkörű vagy nyilvános forgalomba hozatala során az értékpapírokra vonatkozó törvényi rendelkezések alkalmazandók.
+263. § (1) A közgyűlés feltételes alaptőke-emelést határozhat el átváltoztatható kötvény forgalomba hozatalával. Az átváltoztatható kötvény zártkörű vagy nyilvános forgalomba hozatala során az értékpapírokra vonatkozó törvényi rendelkezések alkalmazandók.
 
-(2) A feltételes alaptőke-emelést elhatározó közgyűlési határozatban vagy a közgyűlés felhatalmazásával eljáró igazgatóság határozatában meg kell határozni
+(2) A feltételes alaptőke-emelést elhatározó közgyűlési határozatban meg kell határozni
 
 - a) a kötvénykibocsátás módját (zártkörű, nyilvános);
 - b) a kibocsátandó kötvények számát, névértékét, illetve kibocsátási értékét, a kötvények sorozatát (kötvény jellemzők), a jegyzés helyét és idejét;
 - c) a kötvények részvénnyé történő átalakításának feltételeit, időpontját;
-- d) átváltozó kötvény esetén a részvénnyé történő átváltozásának objektív feltételét vagy feltételeit;
-- e) a kötvény futamidejét, a kamat vagy egyéb hozam megfizetésének feltételeit;
-- f) zártkörű kötvény kibocsátása esetén a kötvények jegyzésére jogosult személyeket, és az általuk jegyezhető kötvények számát és egyéb jellemzőit.
+- d) a kötvény futamidejét, a kamat vagy egyéb hozam megfizetésének feltételeit;
+- e) zártkörű kötvény kibocsátása esetén a kötvények jegyzésére jogosult személyeket, és az általuk jegyezhető kötvények számát és egyéb jellemzőit.
 
 264. § (1) Eredményes kötvénykibocsátás esetén a közgyűlés köteles a kötvényjegyzésre rendelkezésre állt határidő lejártát követő hatvan napon belül alapszabályát módosítani.
 
 (2) Amennyiben a kötvényjegyzés eredménytelen volt, az igazgatóság köteles a kötvényjegyzés lezárásától számított harminc napon belül e tényt a cégbíróságnak elektronikus úton bejelenteni.
 
-265. § (1) Ha az átváltoztatható kötvény forgalomba hozatalára e feltétellel került sor, a tulajdonosok a kötvény futamidején belül, a közgyűlés által meghatározott időtartam alatt írásban – a kötvényeknek az igazgatóság részére történő benyújtásával – kötvényeik helyébe részvényt igényelhetnek (a kötvényes által átváltoztatható kötvény). Ha a kötvényeket a részvények névértékénél, illetve kibocsátási értékénél alacsonyabb összeggel bocsátották ki, a kötvénytulajdonos a bejelentéssel egyidejűleg köteles a kötvény és a részvény névértéke, illetve kibocsátási értéke közötti különbözetet a részvénytársaságnak megfizetni. A nyilatkozat megtételével a kötvénytulajdonos jogosulttá válik részvényutalványra.
+265. § (1) A kötvénytulajdonosok a kötvény futamidején belül, a közgyűlés által meghatározott időtartam alatt írásban – a kötvényeknek az igazgatóság részére történő benyújtásával – kötvényeik helyébe részvényt igényelhetnek. Ha a kötvényeket a részvények névértékénél, illetve kibocsátási értékénél alacsonyabb összeggel bocsátották ki, a kötvénytulajdonos a bejelentéssel egyidejűleg köteles a kötvény és a részvény névértéke, illetve kibocsátási értéke közötti különbözetet a részvénytársaságnak megfizetni. A nyilatkozat megtételével a kötvénytulajdonos jogosulttá válik részvényutalványra.
 
-(2) Ha az átváltoztatható kötvény forgalomba hozatalára e feltétellel került sor, a részvénytársaság igazgatósága a kötvény futamidején belül, a közgyűlés által meghatározott időtartam alatt az átváltoztatható kötvényeket részvénnyé változtatja át, és erről kötvény tulajdonosait tájékoztatja (az igazgatóság által átváltoztatható kötvény). Ha a kötvényeket a részvények névértékénél, illetve kibocsátási értékénél alacsonyabb összeggel bocsátották ki, a kötvénytulajdonos az igazgatóság által elhatározott átalakítással egyidejűleg köteles a kötvény és a részvény névértéke, illetve kibocsátási értéke közötti különbözetet a részvénytársaságnak megfizetni. Az igazgatóság döntésének meghozatalával a kötvénytulajdonos jogosulttá válik részvényutalványra.
-
-(3) Az átváltoztatható kötvényt kibocsátó közgyűlési határozatban foglaltaknak megfelelően az (1) bekezdés szerinti kötvényes általi bejelentés, ill. a (2) bekezdés szerinti igazgatóság általi átváltoztatás megtételére rendelkezésre álló időtartam lejártát követő első közgyűlésen vagy a közgyűlési határozatban meghatározott időpontban kell az alaptőke felemeléséről dönteni, és ennek megfelelően a részvénytársaság alapszabályát módosítani.
+(2) Az átváltoztatható kötvényt kibocsátó közgyűlési határozatban foglaltaknak megfelelően az (1) bekezdés szerinti bejelentés megtételére rendelkezésre álló időtartam lejártát követő első közgyűlésen vagy a közgyűlési határozatban meghatározott időpontban kell az alaptőke felemeléséről dönteni, és ennek megfelelően a részvénytársaság alapszabályát módosítani.
 
 ### Az alaptőke leszállítása
 
@@ -2161,24 +2095,20 @@ történik.
 
 (5) Alapszabály eltérő rendelkezése hiányában az igazgatóság a bíróság jogerős határozatáról legkésőbb a soron következő közgyűlésen köteles a részvényeseket tájékoztatni.
 
-271. § (1) Az igazgatóság az alaptőke leszállítását elhatározó közgyűlési határozat meghozatalát, illetve a jogerős bírósági határozat kézbesítését követő harminc napon belül köteles intézkedni az alaptőke leszállításról hozott döntésnek a Cégközlönyben történő, kétszer egymás utáni közzétételéről, akként, hogy a két közzététel között legalább harminc napnak kell eltelnie.
+271. § (1) Az igazgatóság az alaptőke leszállítását elhatározó közgyűlési határozat meghozatalát, illetve a jogerős bírósági határozat kézbesítését követő harminc napon belül köteles intézkedni az alaptőke leszállításról hozott döntésnek a Cégközlönyben történő, kétszer egymás utáni közzétételéről, akként, hogy a két közzététel között legalább harminc napnak kell eltelnie. A hirdetményben fel kell tüntetni, hogy az alaptőke feltételes leszállításáról a közgyűlés vagy a bíróság döntött, a hirdetménynek ezen kívül tartalmaznia kell a döntés tartalmát, valamint fel kell hívni a társaság hitelezőit, hogy a hirdetmény első alkalommal történt közzétételét megelőzően keletkezett és ezen időpontig esedékessé nem vált követeléseik után – a (3) bekezdés szerinti kivételekkel – biztosítékra tarthatnak igényt. Az ismert hitelezőket a részvénytársaság közvetlenül is köteles értesíteni.
 
-(2) A hirdetménynek tartalmaznia kell,
+(2) A társaság hitelezői a hirdetmény utolsó közzétételétől számított harmincnapos jogvesztő határidőn belül jogosultak bejelenteni, ha a részvénytársaság alaptőkéjének leszállításával összefüggésben biztosítékra tartanak igényt.
 
-- a) azt, hogy az alaptőke feltételes leszállításáról a közgyűlés vagy a bíróság döntött,
-- b) a döntés tartalmát,
-- c) a társaság hitelezőinek szóló felhívást, hogy a hirdetmény első alkalommal történt közzétételét megelőzően keletkezett követeléseik után – a (4) bekezdés szerinti kivételekkel – biztosítékra tarthatnak igényt. Az ismert hitelezőket a részvénytársaság közvetlenül is köteles értesíteni.
-
-(3) A társaság hitelezői a hirdetmény utolsó közzétételétől számított harmincnapos jogvesztő határidőn belül jogosultak bejelenteni, ha a részvénytársaság alaptőkéjének leszállításával összefüggésben biztosítékra tartanak igényt.
-
-(4) Nem jogosult biztosítékra a hitelező, ha az alaptőke-leszállításhoz kapcsolódó kockázattal arányos biztosítékkal – jogszabály vagy szerződés alapján – már rendelkezik, vagy ha a részvénytársaság pénzügyi, vagyoni helyzetére figyelemmel a biztosítékadás indokolatlan.
+(3) Nem jogosult biztosítékra a hitelező, ha az alaptőke-leszállításhoz kapcsolódó kockázattal arányos biztosítékkal – jogszabály vagy szerződés alapján – már rendelkezik, vagy ha a részvénytársaság pénzügyi, vagyoni helyzetére figyelemmel a biztosítékadás indokolatlan.
 
 272. § Az igazgatóság a kérelem előterjesztésére biztosított határidő lejártát követő nyolc napon belül köteles biztosítékot nyújtani vagy a kérelem elutasításáról indokolással ellátott határozatot a hitelezőnek kézbesíteni. Az elutasító vagy nem megfelelő biztosíték nyújtásáról szóló határozat felülvizsgálatát az érintett hitelező a határozat kézhezvételétől számított nyolc napon belül a cégbíróságtól kérheti. A cégbíróság – a törvényességi felügyeleti eljárásra irányadó szabályok megfelelő alkalmazásával – a kérelem előterjesztésétől számított harminc napon belül határoz. A cégbíróság az eljárás lefolytatását követően elutasítja a kérelmet vagy a társaságot megfelelő biztosíték nyújtására kötelezi. Az alaptőke leszállítása mindaddig nem jegyezhető be a cégjegyzékbe, amíg az arra jogosult hitelező nem kap megfelelő biztosítékot.
 
-273. § (1) A 271. § (2) bekezdés c) pontjában és (3)–(4) bekezdésében, valamint a 272. §-ban foglaltak nem alkalmazhatók, ha a részvénytársaság alaptőkéjének leszállítására
+273. § (1) A 271–272. §-ban foglaltak nem alkalmazhatók, ha a részvénytársaság alaptőkéjének leszállítására
 
-- a) a társaság 245. § a) pontjában meghatározott mértékű veszteségének rendezése, vagy
-- b) a számviteli törvényben meghatározott módon, a részvénytársaság alaptőkéjén felüli lekötött tartalék javára történő átcsoportosítás céljából kerül sor.
+- a) a társaság veszteségének rendezése végett, vagy
+- b) a számviteli törvényben meghatározott módon, a részvénytársaság alaptőkéjén felüli lekötött tartalék javára történő átcsoportosítás céljából
+
+kerül sor.
 
 (2) Az (1) bekezdés b) pont szerinti esetben az alaptőke terhére képzett tartalék nem haladhatja meg a részvénytársaság alaptőkéjének tíz százalékát. Az így képzett lekötött tartalék kizárólag a társasági veszteségek csökkentésére vagy utóbb a részvénytársaság alaptőkéjének a felemelésére fordítható, tilos abból a részvényesek javára a 175. § szerinti kifizetést teljesíteni.
 
@@ -2212,7 +2142,7 @@ történik.
 
 278. § (1) A részvénytársaság jogutód nélküli megszűnése esetében a tartozások kiegyenlítése után fennmaradó vagyont – törvény eltérő rendelkezése hiányában – a részvényesek között az általuk a részvényekre ténylegesen teljesített befizetések, illetve nem pénzbeli hozzájárulások alapján, részvényeik névértékének arányában kell felosztani. Ha a részvénytársaság likvidációs hányadhoz fűződő elsőbbséget biztosító részvényt bocsátott ki, a vagyon felosztásakor az elsőbbségi részvény biztosította jogokat figyelembe kell venni.
 
-(2) Ha a végelszámolás vagy a kényszertörlési eljárás megindításakor, illetve a felszámolás elrendelésekor a részvénytársaság alaptőkéje nem került teljes egészében befizetésre, a végelszámoló, illetve a felszámoló jogosult a még nem teljesített pénzbeli és nem pénzbeli szolgáltatásokra vonatkozó kötelezettséget azonnal esedékessé tenni és azok teljesítését a részvényesektől követelni, ha arra a részvénytársaság tartozásainak kiegyenlítése érdekében van szükség.
+(2) Ha a végelszámolás megindításakor, illetve a felszámolás elrendelésekor a részvénytársaság alaptőkéje nem került teljes egészében befizetésre, a végelszámoló, illetve a felszámoló jogosult a még nem teljesített pénzbeli és nem pénzbeli szolgáltatásokra vonatkozó kötelezettséget azonnal esedékessé tenni és azok teljesítését a részvényesektől követelni, ha arra a részvénytársaság tartozásainak kiegyenlítése érdekében van szükség.
 
 ### A részvénytársaságokátalakulására vonatkozó különös szabályok
 
@@ -2230,11 +2160,9 @@ történik.
 
 (4) A (3) bekezdésben foglaltak szerint eljáró könyvvizsgálónak vagy más, az egyesülő részvénytársaságoktól független szakértőnek a részvénytársaságok megbízása alapján készített jelentésében nyilatkoznia kell az egyesülési szerződés tervezetében és a vezető tisztségviselők írásbeli beszámolójában foglaltak megalapozottságáról. A jelentésnek tartalmaznia kell az arra vonatkozó állásfoglalást is, hogy a tervezett egyesülés veszélyezteti-e a részvénytársaságokkal szembeni hitelezői követeléseknek a kielégítését.
 
-(5) Az átváltoztatható és az átváltozó kötvény esetében az egyesüléssel létrejövő részvénytársaságnak a kötvénytulajdonosok számára olyan jogosultságokat kell biztosítania, amelyek legalább egyenértékűek azokkal a jogosultságokkal, amelyekkel a jogelőd gazdasági társaságban rendelkeztek, kivéve, ha a kötvénytulajdonosok mindegyike hozzájárul saját jogosultsága megváltoztatásához. A tulajdonos az egyesülő társaságok által kibocsátott átváltoztatható vagy jegyzési jogot biztosító kötvény visszavásárlását is igényelheti a jogutód részvénytársaságtól. E bekezdés rendelkezéseit nem kell alkalmazni, ha az értékpapír kibocsátásakor előre meghatározták e tulajdonosok helyzetét egy esetleges egyesülés esetére.
+(5) Az átváltoztatható kötvény esetében az egyesüléssel létrejövő részvénytársaságnak a kötvénytulajdonosok számára olyan jogosultságokat kell biztosítania, amelyek legalább egyenértékűek azokkal a jogosultságokkal, amelyekkel a jogelőd gazdasági társaságban rendelkeztek, kivéve, ha a kötvénytulajdonosok mindegyike hozzájárul saját jogosultsága megváltoztatásához. A tulajdonos az egyesülő társaságok által kibocsátott átváltoztatható vagy jegyzési jogot biztosító kötvény visszavásárlását is igényelheti a jogutód részvénytársaságtól. E bekezdés rendelkezéseit nem kell alkalmazni, ha az értékpapír kibocsátásakor előre meghatározták e tulajdonosok helyzetét egy esetleges egyesülés esetére.
 
-(6) Az átváltozó kötvény tulajdonosa az egyesülő társaságok által kibocsátott átváltozó kötvény visszavásárlását a jogutód részvénytársaságtól nem igényelheti.
-
-(7) Amennyiben az egyesülő részvénytársaságok valamennyi részvényese egyhangú határozattal úgy határoz, az egyesülés során a (3)–(4) bekezdések rendelkezései nem alkalmazandóak.
+(6) Amennyiben az egyesülő részvénytársaságok valamennyi részvényese egyhangú határozattal úgy határoz, az egyesülés során a (3)–(4) bekezdések rendelkezései nem alkalmazandóak.
 
 280. § (1) Az egyesüléssel érintett részvénytársaságok harminc nappal az egyesülési szerződés elfogadásáról döntő közgyűlés napja előtt kötelesek az egyesülési szerződés tervezetét, az egyesülő részvénytársaságok vezető tisztségviselői által készített írásbeli beszámolót, valamint – amennyiben készült – a könyvvizsgálónak, illetve a független szakértőnek az egyesülési szerződés tervezetére és az írásbeli beszámolóra vonatkozó álláspontját tartalmazó jelentést benyújtani az egyesülő részvénytársaságok cégjegyzékét vezető cégbírósághoz.
 
@@ -2243,8 +2171,6 @@ történik.
 (3) Ha több részvényfajta, illetve részvényosztály létezik, az egyesülést kimondó határozat meghozatala során a 237. §-t megfelelően alkalmazni kell.
 
 (4) Az egyesüléssel érintett részvénytársaságok hitelezői – a 76. § (2) bekezdésben foglalt rendelkezések megfelelő alkalmazásával – biztosítékot igényelhetnek, ha igazolják, hogy az egyesülés veszélyezteti követeléseik kielégítésének alapját, feltéve, hogy az egyesüléssel érintett részvénytársaságok korábban nem nyújtottak számukra biztosítékot.
-
-(5) Mentesül a részvénytársaság az (1) bekezdésben foglalt kötelezettség alól, amennyiben az egyesülési szerződés elfogadásáról döntő közgyűlés napja előtt harminc nappal és legalább a közgyűlés lezárásáig tartó időszak alatt a részvénytársaság saját honlapján – a Ctv. 21/A. §-ában foglaltak szerint – folyamatosan, korlátozástól mentesen és ingyenesen biztosítja az érintett dokumentumok megismerhetőségét a nyilvánosság számára, vagy a dokumentumokat a Cégközlönyben való közzététel útján hozza nyilvánosságra.
 
 281. § (1) Részvénytársaság szétválása esetében a szétválási szerződésben a 83. § (4)–(5) bekezdésében felsoroltakon kívül meg kell határozni:
 
@@ -2365,8 +2291,6 @@ történik.
 
 (3) A részvénytársaság által kezdeményezett tulajdonosi megfeleltetés esetén, ha az a következő közgyűlést megelőző részvénykönyv-lezáráshoz kapcsolódik, a részvénykönyv vezetője a részvénykönyvben szereplő, a tulajdonosi megfeleltetés időpontjában hatályos valamennyi adatot törli, és ezzel egyidejűleg a tulajdonosi megfeleltetés eredményének megfelelő adatokat a részvénykönyvbe bejegyzi.
 
-(4) Nyilvánosan működő részvénytársaság esetén nem jegyezhető be a részvénykönyvbe az, aki így rendelkezett, és az ilyen tartalmú nyilatkozatot tevő a részvényest a részvénykönyv vezetője köteles a részvénykönyvből haladéktalanul törölni. A 202. § (4) bekezdése ez esetben nem alkalmazandó.
-
 298. § (1) A közgyűlés napirendjére tűzött ügyre vonatkozóan az igazgatóság köteles minden részvényesnek a közgyűlés napja előtt legalább nyolc nappal benyújtott írásbeli kérelmére a szükséges felvilágosítást megadni.
 
 (2) Az igazgatóság csak akkor tagadhatja meg a felvilágosítást, ha álláspontja szerint az a részvénytársaság üzleti titkát sértené. Ebben az esetben is kötelező a felvilágosítás megadása, ha arra a közgyűlés határozata kötelezi az igazgatóságot. Az üzleti titkot nem tartalmazó felvilágosítás megadása nem korlátozható.
@@ -2414,9 +2338,9 @@ történik.
 
 304. § (1) A nyilvánosan működő részvénytársaság a számviteli törvény szerinti beszámoló tervezetének és az igazgatóság, valamint a felügyelőbizottság jelentésének lényeges adatait, az összehívás időpontjában meglévő részvények és szavazati jogok számára vonatkozó összesítéseket (ideértve az egyes részvényosztályokra vonatkozó külön összesítéseket), valamint a napirenden szereplő ügyekkel kapcsolatos előterjesztések összefoglalóját és a határozati javaslatokat a részvénytársaság hirdetményeinek közzétételére vonatkozó alapszabályi rendelkezések szerint, de legalább a részvénytársaság honlapján a közgyűlést legalább huszonegy nappal megelőzően nyilvánosságra hozza. Amennyiben a részvényesek éltek a 217. §-ban, valamint a 300. §-ban foglalt jogaikkal és ez a közgyűlés napirendjének módosításával jár, akkor a kiegészített napirend, illetve a részvényesek által előterjesztett határozati javaslatok közzétételének módjára e rendelkezés megfelelően irányadó.
 
-(2) A közgyűlésen részt venni szándékozó részvényes, illetve részvényesi meghatalmazott nevét a közgyűlés kezdő napját megelőző második munkanapig kell a részvénykönyvbe bejegyezni.
+(2) Az alapszabály eltérő rendelkezése hiányában a közgyűlésen részt venni szándékozó részvényes, illetve részvényesi meghatalmazott nevét a közgyűlés megkezdéséig kell a részvénykönyvbe bejegyezni. Ha az alapszabály rendelkezik arról az időpontról, ameddig a fenti bejegyzésre sor kerülhet, ez az időpont a közgyűlés kezdő napját megelőző hetedik munkanapnál nem lehet korábbi.
 
-(3) A közgyűlésen a részvényesi jogok gyakorlására az a személy jogosult, akinek nevét a közgyűlés kezdő napját megelőző második munkanapon 18 órakor a részvénykönyv tartalmazza. A részvénykönyv lezárása nem korlátozza a részvénykönyvbe bejegyzett személy jogát részvényeinek a részvénykönyv lezárását követő átruházásában. A részvénynek a közgyűlés kezdő napját megelőző átruházása nem zárja ki a részvénykönyvbe bejegyzett személynek azt a jogát, hogy a közgyűlésen részt vegyen és az őt mint részvényest megillető jogokat gyakorolja.
+(3) A közgyűlésen a részvényesi jogok gyakorlására az a személy jogosult, akinek nevét – lezárásának időpontjában – a részvénykönyv tartalmazza. A részvénykönyv lezárása nem korlátozza a részvénykönyvbe bejegyzett személy jogát részvényeinek a részvénykönyv lezárását követő átruházásában. A részvénynek a közgyűlés kezdő napját megelőző átruházása nem zárja ki a részvénykönyvbe bejegyzett személynek azt a jogát, hogy a közgyűlésen részt vegyen és az őt mint részvényest megillető jogokat gyakorolja.
 
 (4) A nyilvánosan működő részvénytársaságnál a konferencia-közgyűlésre vonatkozó szabályok (239. §) azzal alkalmazandók, hogy az igazgatóság a konferencia-közgyűlés időtartamára szavazásra meghatalmazott személyt jelöl ki, aki a konferencia-közgyűlés idején valamennyi részvényes számára elérhető. A részvényesek szavazati jogukat a szavazásra meghatalmazott útján is gyakorolhatják. A szavazásra meghatalmazott nevét, a konferencia-közgyűlés alatti elérhetőségét a közgyűlési meghívóban kell feltüntetni.
 
@@ -2465,20 +2389,16 @@ történik.
 
 311. § (1) A nyilvánosan működő részvénytársaságoknál legalább háromtagú audit bizottságot kell létrehozni, amelynek tagjait a közgyűlés az igazgatótanács, illetve ahol felügyelőbizottság működik, a felügyelőbizottság független tagjai közül választja.
 
-(2) Az audit bizottság legalább egy tagjának számviteli és/vagy könyvvizsgálói szakképzettséggel kell rendelkeznie.
-
-(3) Az audit bizottság hatáskörébe tartozik:
+(2) Az audit bizottság hatáskörébe tartozik:
 
 - a) a számviteli törvény szerinti beszámoló véleményezése;
-- b) a számviteli törvény szerinti beszámoló könyvvizsgálatának nyomon követése;
-- c) javaslattétel a könyvvizsgálóra és díjazására;
-- d) a könyvvizsgálóval megkötendő szerződés előkészítése, az alapszabály felhatalmazása alapján a részvénytársaság képviseletében a szerződés aláírása;
-- e) a könyvvizsgálóval szembeni szakmai követelmények, összeférhetetlenségi és függetlenségi előírások érvényre juttatásának figyelemmel kísérése, a könyvvizsgálóval való együttműködéssel kapcsolatos teendők ellátása, a könyvvizsgáló által a számviteli törvény szerinti beszámoló könyvvizsgálatán kívül a részvénytársaság részére nyújtott egyéb szolgáltatások figyelemmel kísérése, valamint – szükség esetén – az igazgatótanács vagy a felügyelőbizottság számára intézkedések megtételére való javaslattétel;
-- f) a pénzügyi beszámolási rendszer működésének értékelése és javaslattétel a szükséges intézkedések megtételére;
-- g) az igazgatótanács, illetve a felügyelőbizottság munkájának segítése a pénzügyi beszámolási rendszer megfelelő ellenőrzése érdekében; valamint
-- h) a belső ellenőrzési és kockázatkezelési rendszer hatékonyságának a figyelemmel kísérése.
+- b) javaslattétel a könyvvizsgáló személyére és díjazására;
+- c) a könyvvizsgálóval megkötendő szerződés előkészítése, az alapszabály felhatalmazása alapján a részvénytársaság képviseletében a szerződés aláírása;
+- d) a könyvvizsgálóval szembeni szakmai követelmények és összeférhetetlenségi előírások érvényre juttatásának figyelemmel kísérése, a könyvvizsgálóval való együttműködéssel kapcsolatos teendők ellátása, valamint – szükség esetén – az igazgatótanács vagy a felügyelőbizottság számára intézkedések megtételére való javaslattétel;
+- e) a pénzügyi beszámolási rendszer működésének értékelése és javaslattétel a szükséges intézkedések megtételére; valamint
+- f) az igazgatótanács, illetve a felügyelőbizottság munkájának segítése a pénzügyi beszámolási rendszer megfelelő ellenőrzése érdekében.
 
-(4) Az alapszabály és külön jogszabály további feladatokat utalhat az audit bizottság hatáskörébe.
+(3) Az alapszabály további feladatokat utalhat az audit bizottság hatáskörébe.
 
 312. § (1) Ha a részvénytársaság részvényei a Budapesti Értéktőzsdén bevezetésre kerültek, az igazgatóság az éves rendes közgyűlésen a számviteli törvény szerinti beszámolóval együtt terjeszti a közgyűlés elé a felelős társaságirányítási jelentést.
 
@@ -2492,7 +2412,7 @@ történik.
 
 313. § (1) Ha a nyilvánosan működő részvénytársaság eltérő részvényfajtába, illetve részvényosztályba tartozó részvényeket hozott forgalomba, az alaptőke felemelését elhatározó, illetve az arról döntő közgyűlési határozat érvényességének feltétele, hogy a tőkeemeléssel közvetlenül érintett, továbbá az alapszabály által érintettnek minősített részvényfajta, illetve részvényosztály részvényesei az alapszabályban meghatározott módon az alaptőke felemeléséhez külön hozzájáruljanak. A hozzájárulás megadásának módjára vonatkozó részletes szabályokat az alapszabályban kell megállapítani. Ez a szabály megfelelően irányadó az igazgatóságot tőkeemelésre felhatalmazó közgyűlési határozat esetén is.
 
-(2) Kivéve, ha külön törvény másként rendelkezik, ha az alaptőke felemelésére pénzbeli hozzájárulás ellenében kerül sor, a részvénytársaság részvényeseit, ezen belül első helyen a forgalomba hozott részvényekkel azonos részvénysorozatba tartozó részvénnyel rendelkező részvényeseket, majd az átváltoztatható, és velük egy sorban a jegyzési jogot biztosító kötvények tulajdonosait – ebben a sorrendben – az alapszabályban meghatározott feltételek szerint a részvények átvételére vonatkozó elsőbbségi jog illeti meg. Az átváltozó kötvény tulajdonosát elsőbbségi jog nem illeti meg.
+(2) Ha az alaptőke felemelésére pénzbeli hozzájárulás ellenében kerül sor, a részvénytársaság részvényeseit, ezen belül első helyen a forgalomba hozott részvényekkel azonos részvénysorozatba tartozó részvénnyel rendelkező részvényeseket, majd az átváltoztatható, és velük egy sorban a jegyzési jogot biztosító kötvények tulajdonosait – ebben a sorrendben – az alapszabályban meghatározott feltételek szerint a részvények átvételére vonatkozó elsőbbségi jog illeti meg.
 
 (3) A részvénytársaság köteles az alapszabályban meghatározott módon tájékoztatni a részvényeseket, illetve az átváltoztatható és a jegyzési jogot biztosító kötvények tulajdonosait a részvények átvételére vonatkozó elsőbbségi jog gyakorlásának lehetőségéről és módjáról, így a megszerezhető részvények névértékéről, illetve kibocsátási értékéről, valamint e jog érvényesítésére nyitva álló – legalább tizenöt napos – időszak kezdő és zárónapjáról.
 
@@ -2679,24 +2599,6 @@ történik.
 
 (4) Amennyiben a társasági szerződés módosítására a (2)–(3) bekezdés alapján nincs szükség, a gazdasági társaság e törvény rendelkezéseihez történő igazodását a cégbíróság felé – illeték és közzétételi költségtérítés megfizetése nélkül – bejelentéssel teljesíti. A bejelentésben a cég nyilatkozik arról, hogy a társasági szerződés (2) bekezdés szerinti módosítására nincs szükség, illetve arról, hogy a bejelentésben megjelölt időponttól e törvény rendelkezései szerint működik. Bejelentés, vagy a (2) bekezdés szerinti társasági szerződés módosítás hiányában a törvény hatálybalépése előtt a cégjegyzékbe már bejegyzett, valamint az (1) bekezdés alá tartozó gazdasági társaságoknak e törvényt 2008. július 1-jétől kell alkalmazniuk.
 
-336/A. § E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel módosított 208. §-a (1) bekezdésének e) pontját, 208. §-a (2) bekezdésének h) pontját a 2011. január 1-jét követően elfogadott alapszabályok esetében kell figyelembe venni.
-
-336/B. § A cégjegyzékbe már bejegyzett nyilvánosan működő részvénytársaságok legfőbb szervei az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 138. §-ával megállapított – 304. § (2) bekezdése hatálybalépését követő első ülésén, de legkésőbb 2011. június 30-áig kötelesek társasági szerződésüket e rendelkezéshez igazítva módosítani, és eddig az időpontig azt a cégbírósághoz benyújtani.
-
-336/C. § A szabályozott ingatlanbefektetési társaságokról szóló 2011. évi CII. törvény (a továbbiakban: Szit. tv.) 26. §-ával megállapított 202. § (2) bekezdését a Szit. tv. hatálybalépését megelőző időponttól vezetett részvénykönyvekre is alkalmazni kell, amennyiben a részvénytársaságot szabályozott ingatlanbefektetési társaságként az állami adóhatóság nyilvántartásba vette.
-
-336/D. § (1) E törvény – a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról, továbbá az ezekkel összefüggő egyes törvények módosításáról szóló 2011. évi CXCVII. törvénnyel (a továbbiakban: Módtv.) megállapított – 5. §-át, 23. §-át, 30. § (2) bekezdését és 54. § (2) bekezdését a Módtv. hatálybalépését követően kezdeményezett felszámolási, kényszertörlési, továbbá az ismeretlen cég megszüntetésére irányuló eljárásokra kell alkalmazni.
-
-(2)
-
-(3) A Módtv.-vel megállapított 76. § (3) bekezdését a Módtv. hatálybalépését követően elhatározott szétválásokra kell alkalmazni.
-
-(4) A Módtv.-vel megállapított 85. § (4) bekezdését a Módtv. hatálybalépését követően elhatározott szétválásokra kell alkalmazni.
-
-336/E. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint az azzal összefüggő egyes törvények módosításáról szóló 2009. évi LI. törvénnyel megállapított 23. § (3) és (4) bekezdésében foglaltakat a 2009. szeptember 1. és 2012. március 1. közötti időszakban indult megszüntetési eljárásokra és felszámolási eljárásokkal összefüggésben megállapított felelősségre kell alkalmazni.
-
-336/F. § Az 51. § (1) bekezdése, a 143. § (2) bekezdés a) pontja, valamint 245. § (1) bekezdés a) és b) pontja alkalmazásában a saját tőke hiányának megállapítása során a 2011-ben, valamint a 2012-ben induló üzleti évről készített számvitelről szóló 2000. évi C. törvény szerinti beszámolóban kimutatott, a külföldi pénzértékre szóló eszközök és kötelezettségek számviteli törvény 60. § (3) bekezdés a) pontja szerint elszámolt összevont árfolyamvesztesége 2014. május 31-éig figyelmen kívül hagyható.
-
 ### Jogharmonizációs záradék
 
 337. § E törvény – a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
@@ -2710,8 +2612,7 @@ történik.
 - g) az Európai Parlament és a Tanács 2006. szeptember 6-i 2006/68/EK irányelve a 77/91/EGK irányelvnek a nyilvánosan működő részvénytársaságok alapítása, valamint tőkéjük megtartása és átalakítása tekintetében történő módosításáról (1. cikk 4. bekezdés);
 - h) az Európai Parlament és a Tanács 2006/46/EK irányelve (2006. június 14.) a meghatározott jogi formájú társaságok éves beszámolójáról szóló 78/660/EGK, az összevont (konszolidált) éves beszámolóról szóló 83/349/EGK, a bankok és más pénzügyi intézmények éves beszámolójáról és konszolidált éves beszámolójáról szóló 86/635/EGK, valamint a biztosítóintézetek éves és összevont (konszolidált) éves beszámolóiról szóló 91/674/EGK tanácsi irányelv módosításáról;
 - i) az Európai Parlament és a Tanács 2007/63/EK irányelve (2007. november 13.) a Tanács 78/855/EGK és a 82/891/EGK tanácsi irányelvének a független szakértő által a részvénytársaságok egyesülése vagy szétválása alkalmával készítendő jelentésre vonatkozó követelmény tekintetében történő módosításáról,
-- j) az Európai Parlament és a Tanács 2007/36/EK irányelve (2007. július 11.) az egyes részvényesi jogok gyakorlásáról a tőzsdén jegyzett társaságokban,
-- k) az Európai Parlament és a Tanács 2009/109/EK irányelve (2009. szeptember 16.) a 77/91/EGK, a 78/855/EGK, a 82/891/EGK tanácsi irányelvnek és a 2005/56/EK irányelvnek az egyesülések és szétválások esetében alkalmazandó jelentéstételi és dokumentációs kötelezettségek tekintetében történő módosításáról.
+- j) az Európai Parlament és a Tanács 2007/36/EK irányelve (2007. július 11.) az egyes részvényesi jogok gyakorlásáról a tőzsdén jegyzett társaságokban.
 
 ### XIII. Fejezet
 
@@ -2735,10 +2636,10 @@ történik.
 - b) a gépjárműadóról szóló 1991. évi LXXXII. törvény 5. §-ának a) pontjában;
 - c) az államháztartásról szóló 1992. évi XXXVIII. törvény 104/A. §-ának (1)–(2) bekezdésében;
 - d) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 45/B. §-ának (3) bekezdésében és 67. §-ának (3) bekezdésének d) pontjában;
-- e)
+- e) a rádiózásról és a televíziózásról szóló 1996. évi I. törvény 85. §-ának (3) bekezdésében és 95. §-ának (5) bekezdésében;
 - f) a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 12. §-ának (4) bekezdésében és 16. §-ának (2)–(3) bekezdésében;
 - g) a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény 24. §-ának (3)–(5) bekezdésében;
-- h) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 47. §-ának (2) és (3) bekezdésében;
+- h) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 139. §-a (5) bekezdésének e) pontjában, valamint 176/A. §-ának (2)–(3) bekezdésében;
 - i) az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény 27. §-a (4) bekezdésében;
 - j) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 84. §-a (1) bekezdésének c) pontjában és 111. §-a (4) bekezdésének d) pontjában;
 - k) a Pénzügyi Szervezetek Állami Felügyeletéről szóló 1999. évi CXXIV. törvény 10. §-ának (2) bekezdésében;

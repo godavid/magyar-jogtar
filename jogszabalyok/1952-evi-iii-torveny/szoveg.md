@@ -16,9 +16,7 @@ a polgári perrendtartásról
 
 (2) A per befejezésének ésszerű időtartama a jogvita tárgyát és természetét, valamint az eljárás lefolytatásának egyedi körülményeit is figyelembe véve határozható meg. Nem hivatkozhat a per ésszerű időn belül történő befejezésének követelményére az a fél, aki magatartásával, illetve mulasztásával a per elhúzódásához maga is hozzájárult.
 
-(3) Az (1) bekezdésben foglaltak teljesítésének elmulasztása esetén a fél – az alapvető jogait ért sérelemre hivatkozással – sérelemdíjra tarthat igényt, feltéve hogy a sérelem a jogorvoslati eljárásban nem orvosolható. Ha az (1) bekezdésben foglaltak teljesítésének elmulasztásából eredően a fél kárt is szenved és az a jogorvoslati eljárásban nem orvosolható, a szerződésen kívül okozott károkért való felelősség szabályai szerint követelheti a jogsértőtől kárának megtérítését. A sérelemdíj iránti igény, illetve a kárigény elbírálása során a bíróság soron kívül jár el. A sérelemdíj, illetve a kártérítés megítélését nem zárja ki, ha a bíróság nevében eljárt személynek az okozott jogsértés közvetlenül nem volt felróható.
-
-(3a) A (3) bekezdésben foglalt szankciókat a bírósággal szemben kell érvényesíteni. Ha az eljárt bíróság nem jogi személy, az igényt azzal a bírósággal szemben kell érvényesíteni, amelynek elnöke a nem jogi személy bíróság bírái tekintetében az általános munkáltatói jogkört gyakorolja.
+(3) Az (1) bekezdésben foglaltak teljesítésének elmulasztása esetén a fél – az alapvető jogait ért sérelemre hivatkozással – méltányos elégtételt biztosító kártérítésre tarthat igényt, feltéve, hogy a sérelem a jogorvoslati eljárásban nem orvosolható. Az igény elbírálása során a bíróság soron kívül jár el. A kártérítés megállapítását nem zárja ki, ha a bíróság nevében eljárt személynek az okozott jogsérelem közvetlenül nem volt felróható.
 
 (4) A bíróság e törvény alkalmazása során annak rendelkezéseit, csak az ebben a fejezetben meghatározott alapelvekkel összhangban értelmezheti.
 
@@ -40,19 +38,19 @@ a polgári perrendtartásról
 
 5. § (1) A bíróság – ha törvény eltérően nem rendelkezik – a felek közötti jogvitát nyilvános tárgyaláson bírálja el.
 
-(2) A bíróság a nyilvánosságot indokolt határozatával az egész tárgyalásról vagy annak egy részéről kizárhatja, ha az minősített adat, üzleti titok vagy külön törvényben meghatározott más titok megőrzése végett feltétlenül szükséges. A bíróság a nyilvánosságot a közerkölcs védelmében, kiskorú védelmében, valamint az ügyfél kérelmére abban az esetben is kizárhatja, ha az a fél személyiségi jogainak védelme érdekében indokolt. A bíróság a nyilvánosságot különösen indokolt esetben a tárgyalásnak a tanúkihallgatással érintett részéről akkor is kizárhatja, ha a tanú adatainak zártan kezelését rendelte el, és a zárt tárgyaláson történő meghallgatás a tanú, illetve hozzátartozója életének, testi épségének a megóvása érdekében feltétlenül szükséges.
+(2) A bíróság a nyilvánosságot indokolt határozatával az egész tárgyalásról vagy annak egy részéről kizárhatja, ha az államtitok, szolgálati titok, üzleti titok vagy külön törvényben meghatározott más titok megőrzése végett feltétlenül szükséges. A bíróság a nyilvánosságot a közerkölcs védelmében, valamint az ügyfél kérelmére abban az esetben is kizárhatja, ha az a fél személyiségi jogainak védelme érdekében indokolt. A bíróság a nyilvánosságot különösen indokolt esetben a tárgyalásnak a tanúkihallgatással érintett részéről akkor is kizárhatja, ha a tanú adatainak zártan kezelését rendelte el, és a zárt tárgyaláson történő meghallgatás a tanú, illetve hozzátartozója életének, testi épségének a megóvása érdekében feltétlenül szükséges.
 
 (3) A bíróság a tárgyalás során hozott határozatát nyilvánosan hirdeti ki.
 
 6. § (1) A bírósági eljárás nyelve a magyar. A magyar nyelv nem tudása miatt senkit hátrány nem érhet.
 
-(2) A bírósági eljárásban – nemzetközi egyezményben meghatározott körben – mindenki jogosult anyanyelvét, regionális vagy nemzetiségi nyelvét használni.
+(2) A bírósági eljárásban – nemzetközi egyezményben meghatározott körben – mindenki jogosult anyanyelvét, regionális vagy kisebbségi nyelvét használni.
 
 (3) A bíróság köteles tolmácsot alkalmazni, ha az az (1)–(2) bekezdésben foglalt elvek érvényesülése érdekében szükséges.
 
 7. § (1) A bíróság – jogszabályban előírt esetekben – kérelemre segítséget nyújt ahhoz, hogy a fél jogai, illetve törvényes érdekei védelmében bírósághoz fordulhasson.
 
-(2) Az (1) bekezdésben foglaltak teljesülése érdekében a bíróság köteles a felet – ha nincs jogi képviselője – perbeli eljárási jogairól és kötelezettségeiről, a támogató perben való részvételéről, valamint a pártfogó ügyvédi képviselet engedélyezésének lehetőségéről a szükséges tájékoztatással ellátni. A bíróság jogszabályban meghatározott esetben és módon a felet – kérelmére – részben vagy egészben mentesíti a pervitellel összefüggő költségek előlegezése, illetve viselése alól.
+(2) Az (1) bekezdésben foglaltak teljesülése érdekében a bíróság köteles a felet – ha nincs jogi képviselője – perbeli eljárási jogairól és kötelezettségeiről, valamint a pártfogó ügyvédi képviselet engedélyezésének lehetőségéről a szükséges tájékoztatással ellátni. A bíróság jogszabályban meghatározott esetben és módon a felet – kérelmére – részben vagy egészben mentesíti a pervitellel összefüggő költségek előlegezése, illetve viselése alól.
 
 8. § (1) A bíróság köteles biztosítani, hogy a felek és a per többi résztvevője jogaikat rendeltetésszerűen gyakorolják és perbeli kötelességeiknek eleget tegyenek.
 
@@ -68,19 +66,17 @@ a polgári perrendtartásról
 
 (5) A bíróság azt a felet (képviselőt), aki egyes perbeli cselekményekkel indokolatlanul késedelmeskedik, valamely határidőt vagy határnapot mulaszt, vagy más módon felesleges költségeket okoz, a törvény értelmében a költségek megtérítésére való kötelezésen felül – pernyertességére vagy pervesztességére tekintet nélkül – pénzbírság megfizetésére kötelezi, továbbá a felet a törvényben meghatározott más jogkövetkezménnyel sújtja.
 
-(6) Ha a bíróság jogszabályban meghatározott esetben közvetítői eljárás igénybevételére kötelezi a feleket (a továbbiakban: kötelező közvetítői eljárás) és a közvetítő felkérése vagy az első közvetítői megbeszélés megtartása a fél önhibából eredő mulasztása miatt hiúsul meg, a bíróság a felet pénzbírsággal sújtja. Az önhiba hiányát a mulasztó félnek kell valószínűsítenie.
-
 ### Az ügyész feladatai a polgári perben
 
 9. § (1) Az ügyész a felek rendelkezési jogának tiszteletben tartása mellett keresetet indíthat, ha a jogosult jogainak védelmére bármely okból nem képes. Nem indíthat az ügyész keresetet olyan jog iránt, amelyet csak jogszabályban meghatározott személy vagy szervezet érvényesíthet.
 
-(2) Ha az ügyészt az (1) bekezdésben meghatározott keresetindítási jog illeti meg, de a perbeli részvételét megalapozó körülmények a per folyamán állnak be, az ügyész a perben felléphet. Az ügyész fellépése kötelező a 124/A. § szerint indult perben. Ha az ügyészi fellépés törvényi feltételei fennállnak, a bíróság erről az ügyészt értesíti.
+(2) Ha az ügyészt az (1) bekezdésben meghatározott keresetindítási jog illeti meg, de a perbeli részvételét megalapozó körülmények a per folyamán állnak be, az ügyész a perben felléphet. Ha az ügyészi fellépés törvényi feltételei fennállnak, a bíróság erről az ügyészt értesíti.
 
 (3) Az ügyészt az általa indított perben, illetve fellépése esetén megilletik mindazok a jogok, amelyek a felet megilletik, egyezséget azonban nem köthet, jogról nem mondhat le, illetve jogokat nem ismerhet el.
 
 (4) Abban a perben, amelynek megindítására külön törvény jogosítja fel az ügyészt, vagy amelyet ellene lehet indítani, az ügyész a fél jogait gyakorolja.
 
-(5) A bíróság előtt az ügyészségről szóló törvény szabályai szerint illetékes ügyész jár el.
+(5) A pert az az ügyész indíthatja meg, illetve a perben az az ügyész léphet fel, aki a perre illetékes bíróság területén működik.
 
 ### II. Fejezet — Bíróságok
 
@@ -88,19 +84,17 @@ a polgári perrendtartásról
 
 10. § (1) Első fokon ítélkeznek:
 
-- a) a járásbíróság,
-- b) a közigazgatási és munkaügyi bíróság és
-- c) a törvényszék.
+a helyi bíróság (városi bíróság, kerületi bíróság) és a megyei bíróság (Fővárosi Bíróság).
 
 (2) Másodfokon ítélkeznek:
 
-- a) a járásbírósághoz és a közigazgatási és munkaügyi bírósághoz tartozó ügyekben a törvényszék,
-- b) a törvényszékhez tartozó ügyekben az ítélőtábla,
-- c) az ítélőtáblához tartozó ügyekben (233/A. §), továbbá a 235. § (3) bekezdésében meghatározott esetben a Kúria.
+- a) a helyi bírósághoz (városi bírósághoz, kerületi bírósághoz) tartozó ügyekben a megyei bíróság (Fővárosi Bíróság),
+- b) a megyei bírósághoz (Fővárosi Bírósághoz) tartozó ügyekben az ítélőtábla,
+- c) az ítélőtáblához tartozó ügyekben (233/A. §), továbbá a 235. § (3) bekezdésében meghatározott esetben a Legfelsőbb Bíróság.
 
-(3) Felülvizsgálati ügyekben a Kúria jár el.
+(3) Felülvizsgálati ügyekben a Legfelsőbb Bíróság jár el.
 
-(4) Ahol a törvény járásbíróságról rendelkezik, ott ezen kerületi bíróságot is érteni kell.
+(4) Ahol a törvény helyi bíróságról rendelkezik, ott ezen városi bíróságot és kerületi bíróságot, ahol pedig megyei bíróságról rendelkezik, ott ezen a Fővárosi Bíróságot is érteni kell.
 
 ### A bíróságok összetétele
 
@@ -112,7 +106,7 @@ a polgári perrendtartásról
 
 (4) A másodfokon eljáró bírósági tanács három hivatásos bíróból áll.
 
-(5) A Kúria a felülvizsgálati eljárás során három hivatásos bíróból álló tanácsban ítélkezik. Ha az ügy különös bonyolultsága indokolja, a Kúria elrendelheti, hogy az ügyben öt hivatásos bíróból álló tanácsban járjon el.
+(5) A Legfelsőbb Bíróság a felülvizsgálati eljárás során három hivatásos bíróból álló tanácsban ítélkezik. Ha az ügy különös bonyolultsága indokolja, a Legfelsőbb Bíróság elrendelheti, hogy az ügyben öt hivatásos bíróból álló tanácsban járjon el.
 
 (6) Törvény indokolt esetben az eljáró bíróság összetételét az (1)–(5) bekezdésekben meghatározottaktól eltérően is megállapíthatja.
 
@@ -141,14 +135,14 @@ a polgári perrendtartásról
 13. § (1) Az ügy elintézéséből ki van zárva, és abban mint bíró nem vehet részt:
 
 - a) a fél, a féllel együtt jogosított vagy kötelezett személy, továbbá az, aki a per tárgyát egészen vagy részben a maga részére követeli, vagy akinek jogaira vagy kötelezettségeire a per eredménye kihatással lehet;
-- b) az a) pont alá eső személy képviselője, támogatója vagy olyan volt képviselője, volt támogatója, aki az ügyben eljárt;
+- b) az a) pont alá eső személy képviselője vagy olyan volt képviselője, aki az ügyben eljárt;
 - c) az a) vagy a b) pont alá eső személynek a (2) bekezdésben megjelölt hozzátartozója vagy volt házastársa;
 - d) az, akit a perben tanúként vagy szakértőként kihallgattak, vagy akinek tanúként vagy szakértőként való kihallgatását a bíróság elrendelte;
 - e) az, akitől az ügynek tárgyilagos megítélése egyéb okból nem várható (elfogultság).
 
-(2) Az (1) bekezdés alkalmazásában hozzátartozó az egyeneságbeli rokon és annak házastársa, az örökbefogadó-, a mostoha- és a nevelőszülő, az örökbefogadott, a mostoha- és a nevelt gyermek, a testvér, a házastárs a jegyes és az élettárs, a házastárs egyeneságbeli rokona és testvére, valamint a testvér házastársa.
+(2) Az (1) bekezdés alkalmazásában hozzátartozó az egyeneságbeli rokon és annak házastársa, az örökbe fogadó és a nevelőszülő, az örökbe fogadott és a nevelt gyermek, a testvér, a házastárs a jegyes és az élettárs, a házastárs egyeneságbeli rokona és testvére, valamint a testvér házastársa.
 
-14. § A perben az a járásbíróság, törvényszék, illetőleg ítélőtábla sem járhat el, amelynek vezetője a 13. § (1) bekezdésének a), b) vagy c) pontja értelmében ki van zárva.
+14. § A perben az a helyi bíróság, megyei bíróság, illetőleg ítélőtábla sem járhat el, amelynek vezetője a 13. § (1) bekezdésének a), b) vagy c) pontja értelmében ki van zárva.
 
 15. § (1) A per másodfokú elintézéséből ki van zárva az a bíró is, aki a per első fokú elintézésében részt vett.
 
@@ -166,7 +160,7 @@ a polgári perrendtartásról
 
 18. § (1) Ha a kizárás kérdését igazgatási ügykörben nem intézik el, a bíró kizárása felől ugyanannak a bíróságnak ugyanazon a fokon eljáró másik tanácsa tárgyaláson kívül is határozhat.
 
-(2) Ha ugyanannak a bíróságnak nincs olyan tanácsa, amelyre a kizárási ok nem vonatkozik, vagy ha a kizárási ok a 14. § értelmében az egész bíróságra kiterjed, a kizárás kérdésében a másodfokú bíróság, a törvényszéket mint másodfokú bíróságot és a közigazgatási és munkaügyi bíróságot érintő ok esetében az ítélőtábla, az ítélőtáblát mint másodfokú bíróságot érintő ok esetében a Kúria határoz.
+(2) Ha ugyanannak a bíróságnak nincs olyan tanácsa, amelyre a kizárási ok nem vonatkozik, vagy ha a kizárási ok a 14. § értelmében az egész bíróságra kiterjed, a kizárás kérdésében a másodfokú bíróság, a megyei bíróságot mint másodfokú bíróságot és a munkaügyi bíróságot érintő ok esetében az ítélőtábla, az ítélőtáblát mint másodfokú bíróságot érintő ok esetében a Legfelsőbb Bíróság határoz.
 
 (3) Ha a bejelentést nem maga a bíró tette, nyilatkozatát döntés előtt be kell szerezni.
 
@@ -184,21 +178,19 @@ a polgári perrendtartásról
 
 (3) A felülvizsgálati kérelem elbírálása során nem járhat el az a bíró, aki a felülvizsgálati kérelemmel érintett határozatok bármelyikének meghozatalában részt vett.
 
-21/A. § A kizárás kérdésében a bíróság soron kívül határoz.
-
 ### III. Fejezet — Bírósági hatáskör és illetékesség
 
 ### Hatáskör
 
-22. § (1) A járásbíróság hatáskörébe tartoznak mindazok a perek, amelyek elbírálását törvény nem utalja a törvényszék hatáskörébe.
+22. § (1) A helyi bíróság hatáskörébe tartoznak mindazok a perek, amelyek elbírálását törvény nem utalja a megyei bíróságok hatáskörébe.
 
-(2) A közigazgatási és munkaügyi bíróság hatáskörébe tartoznak a közigazgatási perek (XX. fejezet), valamint a munkaviszonyból és munkaviszony jellegű jogviszonyból származó perek (XXIII. fejezet).
+(2) A munkaügyi bíróság hatáskörébe tartoznak a 349. §-ban meghatározott munkaügyi perek.
 
-23. § (1) A törvényszék hatáskörébe tartoznak:
+23. § (1) A megyei bíróság hatáskörébe tartoznak:
 
-- a) azok a vagyonjogi perek, amelyek tárgyának értéke a harmincmillió forintot meghaladja, kivéve a házassági vagyonjogi pert, ha azt a házassági perrel együtt vagy annak folyamán indítják meg;
-- b) azok a perek, amelyeket a közhatalom gyakorlásával okozott károk megtérítése, valamint a közhatalom gyakorlása során okozott személyiségi jogsértések miatti sérelemdíj megfizetése iránt indítanak;
-- c) a szerzői és a szomszédos jogi perek – ideértve a közös jogkezelés körébe tartozó jogok és díjigények érvényesítése iránt indított pereket is –, valamint az iparjogvédelmi perek;
+- a) azok a vagyonjogi perek, amelyek tárgyának értéke az ötmillió forintot meghaladja, kivéve a házassági vagyonjogi pert, ha azt a házassági perrel együtt vagy annak folyamán indítják meg;
+- b) azok a perek, amelyeket a közigazgatási jogkörben eljáró személyek által hivatalos eljárásukban okozott károk megtérítése iránt indítanak;
+- c) a szerzői és a szomszédos jogi perek – ideértve a közös jogkezelés körébe tartozó jogok és díjigények érvényesítése iránt indított pereket is –, valamint az iparjogvédelmi perek és a Ptk. 86. § (3)–(4) bekezdésében meghatározott jogokkal kapcsolatos perek;
 - d) a nemzetközi árufuvarozási vagy szállítmányozási szerződéssel kapcsolatos perek;
 - e) a cégekkel kapcsolatos perek közül:
   - ea) a kérelemnek helyt adó cégbírósági bejegyző végzés hatályon kívül helyezése iránt indított perek,
@@ -207,22 +199,20 @@ a polgári perrendtartásról
   - ed) a cégek és tagjaik (volt tagjaik) közötti, illetve a tagok (volt tagok) egymás közti a tagsági jogviszonyon alapuló perek,
   - ee) a gazdasági társaságban történő befolyásszerzéssel kapcsolatos perek, továbbá
   - ef) a társaság tartozásaiért korlátozott felelősséggel tartozó tag (részvényes) felelősségének korlátlanná minősítése iránti perek;
-- f) a törvényszék által nyilvántartásba vett, cégnek nem minősülő szervezetekkel kapcsolatos perek közül:
-  - fa) az ilyen szervezetek ellen a törvényességi felügyeletet, törvényességi ellenőrzést gyakorló szerv által indított perek,
+- f) a megyei bíróság által nyilvántartásba vett, cégnek nem minősülő szervezetekkel kapcsolatos perek közül:
+  - fa) az ilyen szervezetek ellen a törvényességi felügyeletet gyakorló szerv által indított perek,
   - fb) az ilyen szervezetek és tagjaik (volt tagjaik) közötti, illetve a tagok (volt tagok) egymás közti a tagsági jogviszonyon alapuló perek;
-- g) a személyiségi jogok megsértésével kapcsolatos perek közül:
-  - ga) azok a perek, amelyekben felróhatóságtól független szankciók alkalmazását kérik, ideértve azokat a pereket is, amelyekben a felróhatóságtól független szankció mellett – e jogok megsértése miatt – sérelemdíj, illetve kártérítés iránti igényt is érvényesítenek,
-  - gb) a közösséghez tartozással összefüggő – a ga) pont alá nem tartozó – személyiségi jog érvényesítése iránt indított perek;
+- g) a személyhez fűződő jogok megsértése miatt keletkezett polgári jogi igények érvényesítése iránt indított perek, ideértve az e jogok megsértése miatt indított kártérítési pereket is, ha az előbbiekkel együtt vagy azok folyamán indítják meg;
 - h) az értékpapírból származó jogviszonnyal kapcsolatos perek;
-- i) a képmáshoz és a hangfelvételhez való jog érvényesítése iránt indított perek (XXI/A. fejezet);
+- i) a közigazgatási perek (XX. fejezet), a 349. § (5) bekezdésében meghatározott perek kivételével;
 - j) a sajtóhelyreigazítási perek (XXI. fejezet);
-- k) a tisztességtelen szerződési feltételek érvénytelensége tárgyában indított perek;
+- k) a tisztességtelen szerződési feltételek érvénytelensége tárgyában [Ptk. 209/A. § (1) és (2) bek., 209/B. §, 301/A. § (4)–(6) bek.] indított perek;
 - l) azok a megállapításra irányuló (123. §) perek, amelyek esetében a per tárgyának értéke – ha a marasztalás kérhető lenne – meghaladná az a) pontban meghatározott értéket;
-- m) a 2. § (3) bekezdésében meghatározott perek;
+- m) a 2. § (3) bekezdésében meghatározott kártérítési perek;
 - n) az egészségügyi szolgáltatókkal kötött finanszírozási szerződésből eredő perek;
-- o) azok a perek, amelyeket törvény a törvényszék hatáskörébe utal.
+- o) azok a perek, amelyeket törvény a megyei bíróság hatáskörébe utal.
 
-(2) Ha valamelyik pertársra a törvényszéknek hatásköre, a per a törvényszék hatáskörébe tartozik.
+(2) Ha valamelyik pertársra a megyei bíróságnak van hatásköre, a per a megyei bíróság hatáskörébe tartozik.
 
 23/A. §
 
@@ -233,7 +223,7 @@ a polgári perrendtartásról
 (2) A keresettel érvényesített követelés vagy más jog értékeként – a tényleg megállapítható összegtől függetlenül – az alábbi értéket kell számításba venni:
 
 - a) tartási vagy élelmezési követelés, egyéb járadék, más időszakos szolgáltatás vagy haszonvétel iránti perben a még teljesítendő valamennyi szolgáltatás értékét, de nem többet, mint az egy évi szolgáltatás értékét;
-- b) a munkaügyi perben – feltéve, hogy a per tárgya nem pénzkövetelés – az egyévi távolléti díjat, ha a perben maga a munkaviszony vitás, ha pedig a jogvita csak bérkülönbözettel kapcsolatos, a bérkülönbözet egyévi összegét;
+- b) a munkaügyi perben – feltéve, hogy a per tárgya nem pénzkövetelés – az egyévi átlagkereset, ha a perben maga a munkaviszony vitás, ha pedig a jogvita csak bérkülönbözettel kapcsolatos, a bérkülönbözet egyévi összegét;
 - c) bérleti vagy haszonbérleti jogviszonyra vonatkozó perben az egyévi bér, illetőleg haszonbér összegét;
 - d) számadás helyességének megállapítása iránt indított perben a vitás követelések, illetőleg tartozások összege közül a nagyobb összeget, számadási kötelezettség megállapítása iránt indított perben pedig azt az összeget, amelyet a felperes keresetében a számadás előterjesztésének elmulasztása esetére felszámít;
 - e) dologi jogi perekben a vitás dolog (rész), illetőleg dologi jog értékét;
@@ -246,7 +236,7 @@ a polgári perrendtartásról
 
 (3) Ha egy vagy több felperes ugyanabban a keresetlevélben egy vagy több alperes elleni követeléseit érvényesíti, a pertárgy értékének megállapításánál az összes követeléseket össze kell adni.
 
-(4) A főkövetelés járulékai (kamat, költség stb.) – kivéve az önállóan érvényesített kamat- és egyéb járulékkövetelést – az érték megállapításánál figyelmen kívül maradnak; a pertárgy értékébe a pénzkövetelés után járó, és azzal együtt érvényesített kamatkövetelés akkor sem számítandó be, ha e kamatköveteléssel egyidejűleg a kamatkövetelés után járó újabb kamatkövetelést is érvényesítenek.
+(4) A főkövetelés járulékai (kamat, költség stb.) az érték megállapításánál figyelmen kívül maradnak.
 
 26. § A per tárgyának értékét, a 24–25. §-ok rendelkezéseinek megfelelően, a felperesnek kell megjelölnie; ha ez az érték a köztudomással vagy a bíróság hivatalos tudomásával ellenkezik, vagy egyébként valószínűtlen, úgyszintén, ha azt az alperes vitássá teszi, a per tárgyának értékét a bíróság határozza meg.
 
@@ -272,11 +262,9 @@ a polgári perrendtartásról
 
 (2) Ha a jogi személynek belföldön nincs székhelye, belföldi jogi személy felperes által indított perben az illetékességet a felperes jogi személynek a székhelye alapítja meg. Ha a felperes belföldi természetes személy, a bíróság illetékességét a felperes lakóhelye, illetve ennek hiányában a tartózkodási helye is megalapítja.
 
-(3)
+(3) A jogi személyiséggel nem rendelkező gazdasági társaságok elleni perekben a bíróság illetékességének megállapítására az (1) és (2) bekezdések rendelkezéseit kell megfelelően alkalmazni.
 
-(4) Ha jogi személyiséggel nem rendelkező szervezetet törvény jogképesnek nyilvánít, az e szervezet elleni perben a bíróság illetékességének megállapítására az (1) és (2) bekezdésben foglalt rendelkezések megfelelően irányadóak.
-
-30/A. § A fogyasztói szerződés részévé váló tisztességtelen szerződési feltétel érvénytelensége tárgyában indított perre az a bíróság illetékes, amelynek területén a felperes belföldi lakóhelye, belföldi lakóhely hiányában belföldi tartózkodási helye, vagy – ha a felperes nem természetes személy – belföldi székhelye található. Ha a felperes belföldi lakóhellyel, tartózkodási hellyel vagy székhellyel nem rendelkezik, a bíróság illetékességét az alperes lakóhelye, ennek hiányában tartózkodási helye, vagy – ha az alperes nem természetes személy – az alperes székhelye alapítja meg.
+(4) Ha a (3) bekezdés hatálya alá nem tartozó jogi személyiséggel nem rendelkező szervezetet törvény jogképesnek nyilvánít, az e szervezet elleni perben a bíróság illetékességének megállapítására az (1) és (2) bekezdésben foglalt rendelkezések megfelelően irányadóak.
 
 ### Egyéb illetékességi okok
 
@@ -296,9 +284,7 @@ a polgári perrendtartásról
 
 34. § (1) A tartásra, járadékra és más hasonló célú időszakos szolgáltatásra kötelezés iránti per az igény érvényesítésére jogosult lakóhelye szerint illetékes bíróság előtt is megindítható.
 
-(2) A szülői felügyelet gyakorlásának rendezése és a gyermek harmadik személynél történő elhelyezésére irányuló pert a gyermek lakóhelye szerint illetékes bíróság előtt is meg lehet indítani.
-
-(3) Az örökbefogadás felbontására irányuló pert a kiskorú gyermek lakóhelye vagy tartózkodási helye szerint illetékes bíróság előtt is meg lehet indítani.
+(2) A gyermek elhelyezésére irányuló pert a gyermek lakóhelye szerint illetékes bíróság előtt is meg lehet indítani.
 
 35. § (1) Azok a perek, amelyek ingatlan tulajdonára, birtokára vagy ingatlant terhelő jogra vonatkoznak, avagy ingatlanra vonatkozó jogviszonyból erednek, az ingatlan fekvése szerint illetékes bíróság előtt is megindíthatók.
 
@@ -339,8 +325,8 @@ a polgári perrendtartásról
 
 (6) Vagyonjogi ügyek tekintetében a felek a felmerült jogvitájukra vagy a meghatározott jogviszonyból eredő jövőbeli jogvitájuk esetére nem köthetik ki
 
-- a) a törvényszék hatáskörébe tartozó ügyben a Fővárosi Törvényszék és a Budapest Környéki Törvényszék;
-- b) a járásbíróság hatáskörébe tartozó ügyben a Pesti Központi Kerületi Bíróság
+- a) a megyei bíróság hatáskörébe tartozó ügyben a Fővárosi Bíróság és a Pest Megyei Bíróság;
+- b) a helyi bíróság hatáskörébe tartozó ügyben a Pesti Központi Kerületi Bíróság
 
 illetékességét.
 
@@ -354,25 +340,23 @@ illetékességét.
 
 ### A bíróság eljárása saját területén kívül
 
-44. § (1) A bíróság rendszerint csak a saját területén vagy a székhelyén teljesítendő bírói cselekményeket foganatosíthatja közvetlenül, és más bíróság területén csak akkor járhat el, ha ez a területének határán foganatosítandó cselekmény befejezése végett szükséges, továbbá, ha a cselekmény közvetlen foganatosítását a sürgősség, kiskorú érdeke vagy más fontos érdek indokolja. Egyébként a bíróság a területén vagy székhelyén kívül teljesítendő bírói cselekményeket megkeresés útján foganatosítja.
+44. § (1) A bíróság rendszerint csak a saját területén vagy a székhelyén teljesítendő bírói cselekményeket foganatosíthatja közvetlenül, és más bíróság területén csak akkor járhat el, ha ez a területének határán foganatosítandó cselekmény befejezése végett szükséges, továbbá, ha a cselekmény közvetlen foganatosítását a sürgősség vagy más fontos érdek indokolja. Egyébként a bíróság a területén vagy székhelyén kívül teljesítendő, bírói cselekményeket megkeresés útján foganatosítja.
 
-(2) Ha a bíróság a saját területén kívül vagy székhelyén kívül jár el, erről azt a járásbíróságot, amelynek területén a cselekményt foganatosítja, előre értesíti, és ez a bíróság megkeresésére segédkezni köteles.
+(2) Ha a bíróság a saját területén kívül vagy székhelyén kívül jár el, erről azt a helyi bíróságot, amelynek területén a cselekményt foganatosítja, előre értesíti, és ez a bíróság megkeresésére segédkezni köteles.
 
 ### Az eljáró bíróság kijelölése
 
-45. § (1) Jogerős határozatok folytán felmerült hatásköri vagy illetékességi összeütközés esetében, úgyszintén akkor, ha az illetékes bíróság nem állapítható meg, vagy kizárás miatt nem járhat el, az eljáró bíróságot soron kívül ki kell jelölni.
+45. § (1) Jogerős határozatok folytán felmerült hatásköri vagy illetékességi összeütközés esetében, úgyszintén akkor, ha az illetékes bíróság nem állapítható meg, vagy kizárás miatt nem járhat el, az eljáró bíróságot ki kell jelölni.
 
 (2) A kijelölés kérdésében
 
-- a) a törvényszék határoz, ha az összeütközés a területén levő járásbíróságok között merült fel, valamint ha a területén levő járásbíróság kizárása esetén a területén levő másik járásbíróság kijelölhető;
-- b) az a) pont alá nem tartozó esetekben az ítélőtábla határoz, ha az összeütközés a területén levő járásbíróságok, törvényszékek, illetve közigazgatási és munkaügyi bíróságok között merült fel, továbbá ha a területén levő járásbíróság, törvényszék vagy közigazgatási és munkaügyi bíróság kizárása esetén a területén levő másik járásbíróság, törvényszék vagy közigazgatási és munkaügyi bíróság kijelölhető;
-- c) az a) és b) pont alá nem tartozó esetekben a Kúria dönt.
+- a) a megyei bíróság határoz, ha az összeütközés a területén levő helyi bíróságok között merült fel, valamint ha a területén levő helyi bíróság kizárása esetén a területén levő másik helyi bíróság kijelölhető;
+- b) az a) pont alá nem tartozó esetekben az ítélőtábla határoz, ha az összeütközés a területén levő helyi, megyei, illetve munkaügyi bíróságok között merült fel, továbbá ha a területén levő helyi, megyei vagy munkaügyi bíróság kizárása esetén a területén levő másik helyi, megyei vagy munkaügyi bíróság kijelölhető;
+- c) az a) és b) pont alá nem tartozó esetekben a Legfelsőbb Bíróság dönt.
 
 46. § (1) Ha az illetékes bíróság nem állapítható meg, a fél a kijelölés iránti kérelmet bármelyik bíróságnál előterjesztheti; egyébként a kijelölés iránt a perben eljárt bíróság hivatalból köteles előterjesztést tenni.
 
 (2) A kijelölés tárgyában a bíróság a felek meghallgatása nélkül is határozhat.
-
-(3) A hatásköri vagy illetékességi összeütközést megállapító és kijelölést kezdeményező határozattal szemben fellebbezésnek nincs helye.
 
 47. §
 
@@ -382,11 +366,7 @@ illetékességét.
 
 48. § A perben fél az lehet (perbeli jogképesség), akit a polgári jog szabályai szerint jogok illethetnek és kötelezettségek terhelhetnek.
 
-49. § (1) A perben mint fél személyesen vagy meghatalmazottja útján az járhat el (perbeli cselekvőképesség), aki
-
-- a) a polgári jog szabályai szerint teljes cselekvőképességgel rendelkezik,
-- b) olyan cselekvőképességében részlegesen korlátozott nagykorú, akinek a polgári jog szabályai szerinti cselekvőképessége a per tárgyára, illetve a perbeli eljárási cselekményekre kiterjedő hatállyal nincs korlátozva, vagy
-- c) aki a per tárgyáról a polgári jog szabályai szerint érvényesen rendelkezhet.
+49. § (1) A perben, mint fél személyesen vagy meghatalmazottja útján az járhat el, akinek a polgári jog szabályai szerint teljes cselekvőképessége van, illetőleg, aki a per tárgyáról a polgári jog szabályai szerint érvényesen rendelkezhetik (perbeli cselekvőképesség).
 
 (2) Ha a félnek nincs perbeli cselekvőképessége, valamint akkor is, ha a fél jogi személy, nevében törvényes képviselője jár el. Törvényes képviselője jár el annak nevében is, akinek részére a cselekvőképesség érintése nélkül rendelt gondnokot a gyámhatóság, de csak akkor, ha személyesen nem lép fel. Törvényes képviselő hiányában a fél részére a bíróság az ellenfél kérelmére ügygondnokot (74. §) rendel.
 
@@ -394,9 +374,9 @@ illetékességét.
 
 (4)
 
-50. § (1) A felek perbeli jog- és cselekvőképességét, valamint a törvényes képviselőnek és a támogatónak ezt a minőségét, ha ezek iránt kétség merül fel, a bíróság az eljárás bármely szakában hivatalból vizsgálja. A bíróság ugyancsak az eljárás bármely szakában hivatalból vizsgálja azt, hogy a törvényes képviselőnek a per viteléhez vagy az egyes perbeli cselekményekhez esetleg szükséges külön felhatalmazása igazolva van-e.
+50. § (1) A felek perbeli jog- és cselekvőképességét, valamint a törvényes képviselőnek ezt a minőségét, ha ezek iránt kétség merül fel, a bíróság az eljárás bármely szakában hivatalból vizsgálja. A bíróság ugyancsak az eljárás bármely szakában hivatalból vizsgálja azt, hogy a törvényes képviselőnek a per viteléhez vagy az egyes perbeli cselekményekhez esetleg szükséges külön felhatalmazása igazolva van-e.
 
-(2) A perbeli jog- és cselekvőképesség, a törvényes képviselet, a támogatói minőség, illetőleg a felhatalmazás igazolása nem szükséges, ha az köztudomású, vagy ha arról a bíróságnak hivatalos tudomása van.
+(2) A perbeli jog- és cselekvőképesség, a törvényes képviselet, illetőleg a felhatalmazás igazolása nem szükséges, ha az köztudomású, vagy ha arról a bíróságnak hivatalos tudomása van.
 
 ### Pertársaság
 
@@ -428,25 +408,15 @@ illetékességét.
 
 (2) Ha a per folyamán derül ki, hogy beavatkozásnak nem lett volna helye, a bíróság a beavatkozót – a felek és a beavatkozó meghallgatása után – a perből kizárja.
 
-(3) A beavatkozás tárgyában hozott határozat ellen – a (4) bekezdés szerinti beavatkozás esetét kivéve – fellebbezésnek helye nincs.
+(3) A beavatkozást megengedő határozat ellen fellebbezésnek helye nincs. A beavatkozást elutasító, valamint a beavatkozót a perből kizáró határozat ellen a beavatkozó fellebbezéssel élhet; ennek jogerős elintézéséig a beavatkozó a perben részt vehet.
 
-(4) Ha a perben hozott ítélet jogereje jogszabály alapján a beavatkozónak az ellenféllel szemben fennálló jogviszonyára is kiterjed, a beavatkozó a beavatkozást elutasító, valamint a beavatkozót a perből kizáró határozat ellen fellebbezéssel élhet; ennek jogerős elintézéséig a beavatkozó a perben részt vehet.
-
-57. § (1) A beavatkozó – az egyezséget, az elismerést és a jogról való lemondást kivéve – minden cselekményre jogosult, amelyet az általa támogatott fél megtehet, cselekményeinek azonban csak annyiban van hatálya, amennyiben a fél a cselekményt elmulasztja, illetőleg amennyiben a beavatkozó cselekményei a fél cselekményeivel nem állnak ellentétben. Ha a perben hozott ítélet jogereje jogszabály alapján a beavatkozónak az ellenféllel szemben fennálló jogviszonyára is kiterjed, a beavatkozó cselekményei akkor is hatályosak, ha azok az általa támogatott fél cselekményeivel ellentétben állnak; az ilyen ellentétes cselekmények befolyását az ügy eldöntésére a bíróság a per egyéb adatait is figyelembe véve bírálja el.
+57. § (1) A beavatkozó – az egyezséget, az elismerést és a jogról való lemondást kivéve – minden cselekményre jogosult, amelyet az általa támogatott fél megtehet, cselekményeinek azonban csak annyiban van hatálya, amennyiben a fél a cselekményt elmulasztja, illetőleg amennyiben a beavatkozó cselekményei a fél cselekményeivel nem állnak ellentétben. Ha a perben hozott ítélet jogereje a beavatkozónak az ellenféllel szemben fennálló jogviszonyára is kiterjed, a beavatkozó cselekményei akkor is hatályosak, ha azok az általa támogatott fél cselekményeivel ellentétben állnak; az ilyen ellentétes cselekmények befolyását az ügy eldöntésére a bíróság a per egyéb adatait is figyelembe véve bírálja el.
 
 (2) A féllel közlendő határozatokat és iratokat a beavatkozóval is közölni kell.
 
-58. § (1) Az a fél, aki pervesztessége esetére harmadik személy ellen kíván követelést érvényesíteni, vagy harmadik személy követelésétől tart, ezt a harmadik személyt perbe hívhatja. Perbehívással a beavatkozó és a perbehívott is élhet.
+58. § Az a fél, aki pervesztessége esetére harmadik személy ellen kíván követelést érvényesíteni, vagy harmadik személy követelésétől tart, ezt a harmadik személyt az első fokú ítélet hozatalát megelőző tárgyalás berekesztéséig perbe hívhatja. Perbehívással a beavatkozó és a perbehívott is élhet.
 
-(2) Perbehívásnak az alperes részéről legkésőbb a keresetlevél kézhezvételétől számított 30 napon belül, a felperes részéről az érdemi ellenkérelem vele való közlésétől számított 30 napon belül van helye. Ez a rendelkezés a megengedett keresetmódosítás vagy viszontkereset esetén megfelelően irányadó.
-
-(3) A perindítás hatályának beálltát követően perbe lépett személy részéről perbehívásnak a perbelépésétől számított 30 napon belül van helye.
-
-(4) A (2) és (3) bekezdésben meghatározott határidőt követően tett perbehívó nyilatkozat hatálytalan.
-
-59. § (1) A perbehívást írásban vagy a tárgyaláson szóval kell bejelenteni, egyúttal meg kell jelölni a perbehívás okát. A perbehívást a perbehívónak a perbehívottal írásban közölnie kell, abban meg kell jelölnie a perbehívás okát, és röviden elő kell adnia a per állását. A közlés perbehívott általi kézhezvételét és annak időpontját a perbehívónak a perbehívás bejelentésekor okirattal igazolnia kell.
-
-(2) Ha a perbehívó által igazolt közlést követő 30 napon belül a perbehívott a bíróság felé a perbelépésről nem nyilatkozik, úgy kell tekinteni, hogy a perbehívott a perbehívást nem fogadja el. A határidőt követően tett nyilatkozat hatálytalan.
+59. § A perbehívást írásban vagy a tárgyaláson szóval kell előterjeszteni, abban meg kell jelölni a perbehívás okát és röviden elő kell adni a per állását. A perbehívást az ellenféllel is közölni kell.
 
 60. § (1) Ha a perbehívott a perbehívást elfogadja, a perbehívóhoz beavatkozóként csatlakozhatik; ezt akár írásban, akár a tárgyaláson szóval is bejelentheti. Egyébként a perbehívóhoz való csatlakozás megengedésére és a perbehívott jogállására a beavatkozás szabályait kell megfelelően alkalmazni.
 
@@ -478,35 +448,6 @@ illetékességét.
 
 65. § A 61–63. § és a 64. § (1)–(2) bekezdése alá tartozó esetekben a perbelépés, valamint a perből való elbocsátás tárgyában hozott határozat ellen külön fellebbezésnek van helye.
 
-### A kiskorú gyermek mint érdekelt
-
-65/A. § (1) Ha a bíróság a szülői felügyelettel, a gyermek harmadik személynél történő elhelyezésével vagy az elhelyezés megváltoztatásával kapcsolatos perben a kiskorú gyermek mint érdekelt meghallgatásáról döntött, indokolt esetben egyidejűleg a kiskorú részére ügygondnokot rendel. A bíróság úgy is határozhat, hogy a kiskorút a felek és a felek képviselői távollétében hallgatja meg.
-
-(2) A bíróság a tizennegyedik életévét be nem töltött kiskorút a törvényes képviselője útján idézi meg azzal a felhívással, hogy a megjelenéséről gondoskodjék. A tizennegyedik életévét betöltött kiskorú idézéséről akkor is külön értesíti a bíróság a törvényes képviselőt, ha őt is idézte a tárgyalásra.
-
-65/B. § (1) A kiskorú meghallgatásának megfelelő légkörben, a gyermek számára érthető módon kell megtörténnie. A meghallgatás kezdetén a kiskorútól – a korától és érettségétől függően – meg kell kérdezni a nevét, születési helyét, idejét, anyja nevét, lakóhelyét, majd tájékoztatni kell arról, hogy a meghallgatás során a valóságnak megfelelő előadásokat kell tenni és arról, hogy a nyilatkozattételt, illetve az egyes kérdésekre a válaszadást megtagadhatja. Ha a bíróság a kiskorú részére ügygondnokot rendelt, tájékoztatást ad a kiskorúnak az ügygondnok eljárásban betöltött szerepéről, jogairól, kötelezettségeiről. A tájékoztatásokat és figyelmeztetéseket a kiskorú korára és érettségére figyelemmel, számára érthető módon kell közölni.
-
-(2) A kiskorút az elnök hallgatja meg. A felek a meghallgatást megelőzően indítványozhatnak kérdéseket akkor is, ha a kiskorú meghallgatására a felek távollétében kerül sor. Az ügygondnok a kiskorú meghallgatása során kérdéseket indítványozhat. Az elnök engedélyezheti, hogy az ügygondnok a kiskorúhoz közvetlenül is intézhessen kérdést. Az indítványozott vagy a kiskorúhoz közvetlenül intézett kérdések megengedhetősége felől az elnök határoz.
-
-(3) A meghallgatás végén, még a kiskorú jelenlétében a jegyzőkönyvbe vett vallomást fel kell olvasni vagy, ha a jegyzőkönyv hangfelvétel útján készül, azt a kiskorú jelenlétében kell hangszalagra rögzíteni. Ennek megtörténtét vagy mellőzését a jegyzőkönyvben fel kell tüntetni. A felolvasáskor, illetve a rögzítéskor a kiskorú az általa elmondottakat kiigazíthatja vagy kiegészítheti. A jegyzőkönyv – az elnök engedélyével – az ügygondnok vagy ha a meghallgatás a felek jelenlétében történik, a felek észrevételei alapján is kiegészíthető és módosítható. Az ügygondnok, illetve a felek erre vonatkozó kérelmét – annak elutasítása esetén – a jegyzőkönyvben fel kell tüntetni.
-
-(4) Ha a kiskorú meghallgatására a felek távollétében kerül sor, az elnök a felekkel ismerteti a meghallgatásról készült jegyzőkönyvet.
-
-### A támogató részvétele a perben
-
-65/C. § (1) Ha a fél részére a gyámhatóság támogatót rendelt ki, akkor a támogató
-
-- a) a féllel egyidejűleg a per során valamennyi eljárási cselekménynél – ideértve a nyilvánosság kizárásával megtartott tárgyalást is – jelen lehet, távolléte azonban az eljárási cselekmény teljesítésének, valamint a per folytatásának nem akadálya,
-- b) a jognyilatkozat megtételének elősegítése érdekében a féllel – a tárgyalás rendjét meg nem zavaró módon – egyeztethet.
-
-(2) A támogató az általa támogatott fél helyett nyilatkozattételre nem jogosult.
-
-(3) A bíróság az (1) és (2) bekezdésben foglaltakról a felet és a jelen lévő támogatót tájékoztatja.
-
-(4) A támogató perbeli eljárási cselekményen való részvételéről a támogatott fél gondoskodik, a bíróság ezzel kapcsolatos intézkedést nem tesz.
-
-(5) A támogató a támogatói minőségét a gyámhatóság határozatával, vagy a gyámhatóság által e célra kiadott tanúsítvánnyal igazolja. A gyámhatóság határozatát vagy tanúsítványát az első olyan eljárási cselekménynél kell a bíróságnak bemutatni, amelyen a támogatott személy a támogatóval együtt vesz részt.
-
 ### V. Fejezet — Képviselet
 
 ### Meghatalmazottak
@@ -526,17 +467,17 @@ illetékességét.
   - eb) a polgármesternek (főpolgármesternek, megyei közgyűlés elnökének, a kerületi hivatal vezetőjének) az őt e minőségében érintő pereiben: a helyi önkormányzat képviselő-testületének (közgyűlésének, a kerületi képviselő-testületnek) a tagja, a jegyző (főjegyző) és a polgármesteri hivatal (főpolgármesteri hivatal, megyei közgyűlés hivatala, kerületi hivatal) alkalmazottja;
   - ec) a jegyzőnek (főjegyzőnek) az őt e minőségében érintő pereiben: a polgármesteri hivatal (főpolgármesteri hivatal, megyei közgyűlés hivatala, kerületi hivatal) alkalmazottja;
   - ed) a helyi önkormányzat szerveinek, valamint e szervek vezetőinek az őket e minőségükben érintő pereiben: a szerv alkalmazottja, a jegyző (főjegyző) és a polgármesteri hivatal (főpolgármesteri hivatal, megyei közgyűlés hivatala, kerületi hivatal) alkalmazottja;
-  - ee) a nemzetiségi önkormányzatnak, valamint annak vezetőjének az őt e minőségében érintő pereiben: a nemzetiségi önkormányzat tagja, a nemzetiségi önkormányzat szervének vezetője és alkalmazottja;
-  - ef) a nemzetiségi önkormányzat szerveinek, valamint e szervek vezetőinek az őket e minőségükben érintő pereikben: a nemzetiségi önkormányzat tagja, a nemzetiségi önkormányzat szervének vezetője és alkalmazottja;
+  - ee) a kisebbségi önkormányzatnak, valamint annak vezetőjének az őt e minőségében érintő pereiben: a kisebbségi önkormányzat tagja, a kisebbségi önkormányzat szervének vezetője és alkalmazottja;
+  - ef) a kisebbségi önkormányzat szerveinek, valamint e szervek vezetőinek az őket e minőségükben érintő pereikben: a kisebbségi önkormányzat tagja, a kisebbségi önkormányzat szervének vezetője és alkalmazottja;
 - f) a szakszervezet a saját tagjának perében, valamint a külön jogszabályban meghatározott perekben;
 - g) az érdek-képviseleti célra alapított szervezet saját tagjának olyan perében, amelynek tárgya a szervezet alapszabályában meghatározott érdek-képviseleti célok körébe vonható;
 - h) a szövetkezet ügyintézésre jogosult tagja vagy alkalmazottja a szövetkezet pereiben;
-- i) a jogi személy és egyéb gazdálkodó szervezet alkalmazottja munkáltatójának gazdasági tevékenységével kapcsolatos pereiben, a jogi személy és egyéb gazdálkodó szervezet jogtanácsosa (jogi előadója) pedig azokban a perekben is, amelyekben külön jogszabály a képviseletre feljogosítja;
+- i) a jogi személy és egyéb gazdálkodó szervezet (396. §) alkalmazottja munkáltatójának gazdasági tevékenységével kapcsolatos pereiben, a jogi személy és egyéb gazdálkodó szervezet jogtanácsosa (jogi előadója) pedig azokban a perekben is, amelyekben külön jogszabály a képviseletre feljogosítja;
 - j) akit erre külön jogszabály feljogosít.
 
 (2) A perben a jogi személy és egyéb gazdálkodó szervezet jogtanácsosát (jogi előadóját) az ügyvéd jogállása illeti meg.
 
-(3) Ügyvédjelölt (jogi előadó) az ítélőtábla és a Kúria előtt – a 119. §-ban szabályozott esetet kivéve – nem járhat el.
+(3) Ügyvédjelölt (jogi előadó) az ítélőtábla és a Legfelsőbb Bíróság előtt – a 119. §-ban szabályozott esetet kivéve – nem járhat el.
 
 (4) Ha törvény másként nem rendelkezik, a törvényben szabályozott eljárásokban a jogi képviselet nem kötelező.
 
@@ -568,7 +509,7 @@ illetékességét.
 
 72. § A meghatalmazott képviseleti jogosultságát (67–69. §) a bíróság az eljárás bármely szakában hivatalból vizsgálja.
 
-73. § (1) Természetes és jogi személy a képviselője részére olyan meghatalmazást is adhat, amely őt perek vitelére általánosságban jogosítja fel (általános meghatalmazás).
+73. § (1) Természetes és jogi személy, jogi személyiség nélküli gazdasági társaság a képviselője részére olyan meghatalmazást is adhat, amely őt perek vitelére általánosságban jogosítja fel (általános meghatalmazás).
 
 (2) Az általános meghatalmazást nyilvántartásbavétel végett a bíróságnál be kell jelenteni. A nyilvántartásba vett általános meghatalmazás a nyilvántartást vezető bíróságnál pótolja az egyes perekre szóló külön meghatalmazást.
 
@@ -580,11 +521,8 @@ illetékességét.
 
 73/A. § (1) A jogi képviselet kötelező:
 
-- a) az ítélőtábla előtti eljárásban az ítélet, valamint az ügy érdemében hozott végzések ellen fellebbezést (csatlakozó fellebbezést), továbbá a Kúria előtti eljárásban a 235. § (3) bekezdésében meghatározott fellebbezést (csatlakozó fellebbezést) és a felülvizsgálati kérelmet (csatlakozó felülvizsgálati kérelmet) előterjesztő fél számára,
-- b) a törvényszék elsőfokú hatáskörébe tartozó perekben, a per minden szakaszában, a jogorvoslati eljárás során is, kivéve
-  - ba) a 23. § (1) bekezdés a) pontjában meghatározott vagyonjogi perek közül azokat, melyekben a per tárgyának értéke a harmincmillió forintot nem haladja meg,
-  - bb) a 23. § (1) bekezdés b), e) pontjának ec) alpontjában, f), g), j), m) és o) pontjában meghatározott pereket,
-  - bc) a 23. § (1) bekezdés l) pontjában meghatározott megállapításra irányuló perek közül azokat, amelyek esetében a per tárgyának értéke – ha a marasztalás kérhető lenne – a harmincmillió forintot nem haladná meg,
+- a) az ítélőtábla előtti eljárásban az ítélet, valamint az ügy érdemében hozott végzések ellen fellebbezést (csatlakozó fellebbezést), továbbá a Legfelsőbb Bíróság előtti eljárásban a 235. § (3) bekezdésében meghatározott fellebbezést (csatlakozó fellebbezést) és a felülvizsgálati kérelmet (csatlakozó felülvizsgálati kérelmet) előterjesztő fél számára,
+- b) a megyei bíróság elsőfokú hatáskörébe tartozó, a vállalkozások egymás közötti pereiben a vállalkozás számára a per minden szakaszában (a perorvoslati eljárás során is),
 - c) törvényben meghatározott egyéb esetben.
 
 (2) Az (1) bekezdés b) pontját a nemperes eljárásban kizárólag akkor kell alkalmazni, ha külön törvény így rendelkezik.
@@ -610,10 +548,6 @@ a bíróság a szükséges mértékben tájékoztatja, kivéve, ha a (2) bekezd�
 
 (6) Ha jogi képviselővel az alperesnek kell rendelkeznie, és a (2)–(4) bekezdés alkalmazásának nincs helye, a jogi képviselővel nem rendelkező alperes nyilatkozata hatálytalan, és az alperest úgy kell tekinteni, mint aki nyilatkozatot egyáltalán nem tesz.
 
-(7) Annak eldöntésére, hogy a perben a jogi képviselet a pertárgy értékére tekintettel kötelező-e, a 27. §-nak a bíróság hatáskörének megállapítására vonatkozó rendelkezéseit megfelelően alkalmazni kell.
-
-(8) Ha az (1) bekezdés c) pont alkalmazásának van helye, a bíróság az alperest tájékoztatja arról, hogy jogi képviselő meghatalmazásáról kell gondoskodnia; a tájékoztatásnak ki kell terjednie a jogi képviselő közreműködése nélkül való eljárás jogkövetkezményeire.
-
 73/C. § (1) A 73/A. § alkalmazásában jogi képviselőnek kell tekinteni:
 
 - a) az ügyvédet (ügyvédi irodát),
@@ -622,7 +556,7 @@ a bíróság a szükséges mértékben tájékoztatja, kivéve, ha a (2) bekezd�
 
 (2) A 73/A. § alkalmazásában – ha törvény eltérően nem rendelkezik – jogi képviselőnek kell tekinteni továbbá:
 
-- a) a természetes személy, jogi személy törvényes képviselőjét,
+- a) a természetes személy, jogi személy, jogi személyiség nélküli gazdasági társaság törvényes képviselőjét,
 - b) a 67. § (1) bekezdésének a), b), d), e) és h) pontjában meghatározottak szerint az ott megjelölt személyeket,
 - c) a 67. § (1) bekezdésének i) pontjában meghatározottak szerint a jogi személy és egyéb gazdálkodó szervezet alkalmazottját, valamint
 - d) akit a meghatalmazottként való képviseletre külön jogszabály feljogosít
@@ -647,11 +581,9 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (2) A perköltséghez hozzá kell számítani a felet képviselő ügyvéd, jogtanácsos, illetve szabadalmi ügyvivő készkiadásait és munkadíját is.
 
-(2a) Kötelező közvetítői eljárás esetén a perköltséghez – a fél kérelmére – hozzá kell számítani a közvetítő költségeit és díját, valamint a fél egyéb, a közvetítői eljárásban szükségképpen felmerült költségeit.
-
 (3) Ha a fél meghatalmazottja nem ügyvéd, vagy ha a fél személyesen jár el, a meghatalmazott, illetőleg a fél részére munkadíj nem állapítható meg, de igényt tarthat az útiköltség, valamint a bíróság előtt való megjelenéssel szükségképpen felmerült keresetkiesés megtérítésére. Az útiköltség megtérítésére a 186. § rendelkezéseit kell megfelelően alkalmazni. Ugyanez illeti meg a meghatalmazott által képviselt felet is, ha a tárgyaláson a bíróságnak személyes megjelenésre szóló idézése folytán jelent meg.
 
-(4) A támogató költségeinek megtérítésére a (3) bekezdés rendelkezéseit kell alkalmazni.
+(4)
 
 ### A költségek előlegezése
 
@@ -675,10 +607,6 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (4) A 6. §-ban meghatározott esetekben alkalmazott tolmács költségeit az állam előlegezi, illetve viseli.
 
-(4a) A 6. §-ban meghatározott esetekben felmerülő fordítások költségét az anyanyelvének, regionális vagy nemzetiségi nyelvének használatára jogosult fél helyett az állam előlegezi, míg annak viselésére – a (4b) bekezdésben meghatározott kivétellel – a perköltségviselés általános szabályai az irányadóak.
-
-(4b) A 6. §-ban meghatározott esetekben a bírósági határozatok és megkeresések fordításával felmerülő költségeket az állam viseli.
-
 (5) A feleket nem lehet kötelezni olyan költségek viselésére, amelyek a bíróság érdekkörében felmerült – egyébként elhárítható – ok következtében keletkeztek. Ezeket a költségeket – külön jogszabályban meghatározott módon – az állam viseli.
 
 79. § (1) A bíróság a perköltség összegét a fél által előadott és a szükséghez képest igazolt adatok figyelembevételével állapítja meg. A fél javára az általa felszámítottnál több perköltséget megállapítani nem lehet. Ha a fél a költségeket nem számította fel vagy nem igazolta, a bíróság a perköltséget a per egyéb adatai alapján hivatalból határozza meg.
@@ -693,13 +621,9 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (4) A közvetítői eljárásban létrejött megállapodás ellenére perlekedő fél – a per eldöntésére való tekintet nélkül – a közvetítői eljárásban a másik fél által fizetett költségeknek (a közvetítő díjának és igazolt költségeinek, a szakértői díjnak és költségtérítésnek stb.) a másik fél részére történő megtérítésére is kötelezhető. A megállapodás nem teljesítése miatt indított perben a perköltségviselés általános szabályai alkalmazandók, azonban a bíróság a megállapodás teljesítését elmulasztó felet ilyenkor is kötelezheti a közvetítői eljárásban a másik fél részéről felmerült költségek megtérítésére.
 
-(4a) A bíróság a per eldöntésére való tekintet nélkül kötelezheti a felet az ellenfél közvetítői eljárásban szükségképpen felmerült költségeinek megtérítésére, ha a kötelező közvetítői eljárásban létrejött megállapodás a jogszabályoknak megfelel és a fél e körülmény ellenére a perben nem köt egyezséget. Ha a kötelező közvetítői eljárásban létrejött megállapodás a jogszabályoknak nem felel meg és egyezségkötés hiányában a peres eljárást érdemben folytatni kell, a felek a perköltségként érvényesíteni kívánt közvetítői eljárás költségeit egymás közt egyenlő arányban viselik.
-
-(4b) Kötelező közvetítői eljárás esetén a fél a per eldöntésére való tekintet nélkül kötelezhető az ellenfél perköltségének megtérítésére, ha az ellenfél igazolja, hogy közvetítő felkérését kezdeményezte vagy az első közvetítői megbeszélésen megjelent és a közvetítő felkérése vagy a közvetítői eljárás megindítása a fél önhibából eredő mulasztása miatt hiúsult meg. Az önhiba hiányát a mulasztó félnek kell valószínűsítenie.
-
 (5) A (3) és (4) bekezdésben foglalt jogkövetkezmények megfelelően alkalmazhatók, ha a fogyasztóvédelemről szóló törvényben szabályozott békéltetőtestületi eljárásban határozattal jóváhagyott egyezség útján rendezett fogyasztói jogvita tárgyában fordul a felek bármelyike utóbb a bírósághoz, kivéve az egyezségben foglaltak nem teljesítése miatt a határozat végrehajtási záradékkal történő ellátása iránt indított eljárást.
 
-(6) A bíróság az ügy összes körülményeire figyelemmel pervesztességére tekintet nélkül kötelezheti a jogi személy gazdálkodó szervezet alperest a perben felmerült összes költség vagy egyébként a felperes által viselendő költségek egy részének a viselésére, ha az alperes a 121/A. § (1) bekezdésében meghatározott kötelezettségének indokolatlanul nem tett eleget.
+(6) A bíróság az ügy összes körülményére figyelemmel pervesztességére tekintet nélkül kötelezheti a jogi személy gazdálkodó szervezet alperest a perben felmerült összes költség vagy egyébként a felperes által viselendő költségek egy részének a viselésére, ha az alperes a 121/A. § (1) bekezdésében meghatározott kötelezettségének indokolatlanul nem tett eleget.
 
 81. § (1) Részleges pernyertesség esetében a bíróság a perköltség felől a pernyertesség arányának, valamint az egyes felek által előlegezett költségek összegének figyelembevételével határoz. Ha a pernyertesség és pervesztesség aránya, valamint az előlegezett költségek összege között nincsen számottevő különbség, a bíróság akként rendelkezik, hogy mindegyik fél maga viseli a saját költségét.
 
@@ -711,7 +635,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (3) Az ügyész, állami szerv, valamint a per megindítására, illetőleg az abban való fellépésre külön jogszabállyal feljogosított más személy vagy szervezet és a perben érvényesített igény jogosultja közül a megítélt perköltség azt illeti meg, akinél a költségek felmerültek. Pervesztesség esetében a költségek megfizetésére általában azt kell kötelezni, aki a pert megindította. Ha azonban a pert megindítónak és a perben érvényesített igény jogosultjának eljárási cselekményei nem voltak összhangban, a költség megfizetésére azt kell kötelezni, akinek a perbeli cselekménye folytán a költség felmerült.
 
-83. § (1) A beavatkozó által támogatott fél pernyertessége esetében az ellenfelet a beavatkozó költségének megfizetésére is kötelezni kell. A beavatkozó által támogatott fél pervesztessége esetében az ellenfélnek a beavatkozással felmerült költségtöbbletében a beavatkozót kell elmarasztalni; ha azonban a perben hozott ítélet jogereje jogszabály alapján a beavatkozónak az ellenféllel szemben fennálló jogviszonyára is kiterjed, a beavatkozót az általa támogatott féllel egyetemlegesen kell kötelezni az ellenfél összes költségeinek megfizetésére. A beavatkozás elutasítása esetében a beavatkozót kell elmarasztalni abban a költségben, amelyet a beavatkozás az azt ellenző feleknek okozott.
+83. § (1) A beavatkozó által támogatott fél pernyertessége esetében az ellenfelet a beavatkozó költségének megfizetésére is kötelezni kell. A beavatkozó által támogatott fél pervesztessége esetében az ellenfélnek a beavatkozással felmerült költségtöbbletében a beavatkozót kell elmarasztalni; ha azonban a perben hozott ítélet jogereje a beavatkozónak az ellenféllel szemben fennálló jogviszonyára is kiterjed, a beavatkozót az általa támogatott féllel egyetemlegesen kell kötelezni az ellenfél összes költségeinek megfizetésére. A beavatkozás elutasítása esetében a beavatkozót kell elmarasztalni abban a költségben, amelyet a beavatkozás az azt ellenző feleknek okozott.
 
 (2) Ha a perbehívott a perbehívást nem fogadja el, vagy ha a perbehívóhoz való csatlakozását, illetőleg a perbe való belépését elutasítják, a perbehívó felet kötelezni kell annak a költségnek a megfizetésére, amelyet a perbehívással az ellenfélnek okozott. Ha a perbehívott a perbehívóhoz beavatkozóként csatlakozik, a jelen § (1) bekezdése irányadó.
 
@@ -736,10 +660,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 85. § (1) Az a fél, akinek eltartásáról szülője köteles gondoskodni, vagy aki házastársával együtt él, csak akkor részesíthető költségmentességben, ha annak előfeltételei mind őrá, mindpedig szülőjére, illetőleg házastársára nézve fennállnak. A fél és szülője, illetőleg házastársa között folyó perekre ez a szabály nem terjed ki.
 
-(2) Ha a bíróság az eljárást megindító beadványt idézés kibocsátása – nemperes eljárás esetén érdemi vizsgálat – nélkül, hivatalból elutasítja,
-
-- a) költségmentesség nem engedélyezhető, és
-- b) a megfizetett mérsékelt illeték összege nem számítható be a 132. §-nak megfelelően ismételten benyújtott kérelem előterjesztésével keletkező eljárási illetékbe.
+(2)
 
 (3) Nem részesíthető költségmentességben a fél, ha perlekedése rosszhiszeműnek vagy már előre teljesen eredménytelennek látszik, úgyszintén akkor sem, ha mint engedményes lép fel, és valószínűnek mutatkozik, hogy az engedményezés a költségmentes perlés lehetővé tételét célozta.
 
@@ -812,13 +733,13 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (3) Ügyvédi képviselet esetében az ügyvédnek a beadvány minden példányát aláírásával kell ellátnia; egyébként a beadvány első példányát a 196. §-nak megfelelően kell kitölteni.
 
-94. § (1) A keresetet, valamint a per megindítását megelőző kérelmet az ügyvéd által nem képviselt fél bármely járásbíróságnál vagy a perre illetékes törvényszéknél is jegyzőkönyvbe mondhatja. A felet ilyenkor a szükséges útbaigazítással is el kell látni, és az esetleges hiányok pótlására (95. §) nyomban fel kell hívni; ha a fél a hiányok pótlását figyelmeztetés ellenére is elmulasztja, a keresetet, illetőleg a kérelmet jegyzőkönyvbe kell foglalni.
+94. § (1) A keresetet, valamint a per megindítását megelőző kérelmet az ügyvéd által nem képviselt fél bármely helyi bíróságnál vagy a perre illetékes megyei bíróságnál is jegyzőkönyvbe mondhatja. A felet ilyenkor a szükséges útbaigazítással is el kell látni, és az esetleges hiányok pótlására (95. §) nyomban fel kell hívni; ha a fél a hiányok pótlását figyelmeztetés ellenére is elmulasztja, a keresetet, illetőleg a kérelmet jegyzőkönyvbe kell foglalni.
 
 (2) A jegyzőkönyvre a 93. § megfelelően irányadó.
 
 (3) Ha a perre nem az a bíróság illetékes, amelyik a keresetet (kérelmet) jegyzőkönyvbe vette, a jegyzőkönyvet az illetékes bírósághoz kell áttenni.
 
-(4) Folyamatban levő perben szóbeli kérelmeket – feltéve, hogy a törvény másként nem rendelkezik – jegyzőkönyvbe mondani a perbíróság, továbbá a fél lakóhelye vagy munkahelye szerint illetékes járásbíróság előtt lehet; az előző bekezdések rendelkezései egyébként ilyenkor is megfelelően irányadók.
+(4) Folyamatban levő perben szóbeli kérelmeket – feltéve, hogy a törvény másként nem rendelkezik – jegyzőkönyvbe mondani a perbíróság, továbbá a fél lakóhelye vagy munkahelye szerint illetékes helyi bíróság előtt lehet; az előző bekezdések rendelkezései egyébként ilyenkor is megfelelően irányadók.
 
 ### Hiánypótlás
 
@@ -836,11 +757,11 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 96. § (1) Az idézésben fel kell tüntetni az eljáró bíróságot és a bírósági ügyszámot, a felek nevét, perbeli állását és a per tárgyát, valamint a kitűzött tárgyalás (meghallgatás) idejét és helyét.
 
-(2) Az idézésben figyelmeztetni kell a címzettet a meg nem jelenés következményeire, és őt perbeli állásához képest a megfelelő tájékoztatással egyébként is el kell látni. A kiskorú idézésében a figyelmeztetést és a tájékoztatást a korára, érettségére figyelemmel, számára érthető szövegezéssel és módon kell közölni. A meghatalmazottat abban az esetben is meg kell idézni, ha a bíróság a felet vagy annak törvényes képviselőjét személyes megjelenésre idézi.
+(2) Az idézésben figyelmeztetni kell a címzettet a meg nem jelenés következményeire, és őt perbeli állásához képest a megfelelő tájékoztatással egyébként is el kell látni. A meghatalmazottat abban az esetben is meg kell idézni, ha a bíróság a felet vagy annak törvényes képviselőjét személyes megjelenésre idézi.
 
 (3) Idézésnek sürgős esetben rövid úton – távbeszélőn, tárgyaláson szóban, illetőleg elektronikus levél vagy külön kézbesítő útján – is helye van. Az idézésnek ezt a módját az iratokban fel kell tüntetni.
 
-(4) A gyermek tartása, a szülői felügyelet gyakorlásának rendezése, a gyermek harmadik személynél történő elhelyezése, illetőleg a szüléssel kapcsolatos követelések iránti, továbbá az apaság és a származás megállapítására irányuló egyéb perekben – az ismeretlen helyen lévő alperes, anya, illetve gyermek tartózkodási helyének megállapítása érdekében – a bíróság elrendelheti az alperes, az anya, illetve a gyermek felkutatását.
+(4) A gyermek tartása, elhelyezése, illetőleg a szüléssel kapcsolatos követelések iránti, továbbá az apaság és a származás megállapítására irányuló egyéb perekben – az ismeretlen helyen lévő alperes, anya, illetve gyermek tartózkodási helyének megállapítása érdekében – a bíróság elrendelheti az alperes, az anya, illetve a gyermek felkutatását.
 
 (5) Az alperes, az anya, illetve a gyermek felkutatásának elrendeléséről hozott végzést a bíróság az illetékes rendőrkapitánysághoz küldi meg.
 
@@ -850,7 +771,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 97. § Ha a félnek a per vitelére meghatalmazottja van, a bírósági iratokat a fél helyett a meghatalmazottnak kell kézbesíttetni. Ez a rendelkezés nem terjed ki az olyan idézésre, amelyben a bíróság a felet vagy annak törvényes képviselőjét személyes megjelenésre kötelezi.
 
-98. § Ha az iratot a címzett halála vagy megszűnése miatt vagy azért nem lehet kézbesíteni, mert a címzett a bejelentett címen ismeretlen, vagy onnan ismeretlen helyre költözött, erről az érdekelt feleket értesíteni kell.
+98. § Ha az iratot a címzett halála miatt vagy azért nem lehet kézbesíteni, mert a címzett a bejelentett címen ismeretlen, vagy onnan ismeretlen helyre költözött, erről az érdekelt feleket értesíteni kell.
 
 99. § (1) A bírósági iratokat – ha a jogszabály ettől eltérően nem rendelkezik – postai szolgáltató útján kell kézbesíteni. A kézbesítés a hivatalos iratok kézbesítésére vonatkozó külön jogszabályok szerint történik.
 
@@ -858,7 +779,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (3) A bíróság a (2) bekezdésben foglalt kézbesítési vélelem beálltát nem állapítja meg, ha a kézbesítés helyettes átvevő részére történt meg és a helyettes átvevő az ellenérdekű fél volt.
 
-(4) Keresetlevél, illetve az eljárást befejező érdemi határozat kézbesítése esetében a bíróság a kézbesítési vélelem beállásáról a feleket nyolc munkanapon belül értesíti. Az értesítéshez mellékelni kell azt a hivatalos iratot, amelyre vonatkozóan a bíróság a kézbesítési vélelem beálltát megállapította. Az értesítésben – keresetlevél esetében – a bíróság tájékoztatja a felet a 128. §-ban foglaltakról is.
+(4) Keresetlevél (fizetési meghagyás), illetve az eljárást befejező érdemi határozat kézbesítése esetében a bíróság a kézbesítési vélelem beállásáról a feleket nyolc munkanapon belül értesíti. Az értesítéshez mellékelni kell azt a hivatalos iratot, amelyre vonatkozóan a bíróság a kézbesítési vélelem beálltát megállapította. Az értesítésben – keresetlevél (fizetési meghagyás) esetében – a bíróság tájékoztatja a felet a 128. §-ban foglaltakról is.
 
 (5) A címzett a neki szóló iratot – személyazonosságának igazolása mellett – a bírósági irodában is átveheti.
 
@@ -873,7 +794,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 - a) a kézbesítés a hivatalos iratok kézbesítésére vonatkozó jogszabályok megsértésével történt meg, vagy más okból nem volt szabályszerű, vagy
 - b) az iratot más, az a) pontban nem említett okból nem volt módja átvenni (pl. azért, mert a kézbesítésről önhibáján kívül nem szerzett tudomást).
 
-(4) A (3) bekezdés b) pontjában foglalt okból a kézbesítési vélelem megdöntése iránti kérelmet csak természetes személy vagy közkereseti társaság, betéti társaság, egyéni cég (a fél vagy az eljárásban részt vevő egyéb érdekelt) terjeszthet elő.
+(4) A (3) bekezdés b) pontjában foglalt okból a kézbesítési vélelem megdöntése iránti kérelmet csak természetes személy vagy jogi személyiséggel nem rendelkező gazdasági társaság (a fél vagy az eljárásban részt vevő egyéb érdekelt) terjeszthet elő.
 
 (5) A kérelemben elő kell adni azokat a tényeket, illetve körülményeket, amelyek a kézbesítés szabálytalanságát igazolják, vagy a (3) bekezdés b) pontjában meghatározott esetben a kérelmező részéről az önhiba hiányát valószínűsítik. Ha a kérelmet elkésetten terjesztették elő, azt érdemi vizsgálat nélkül el kell utasítani. A kérelem tárgyában az a bíróság határoz, amelynek eljárása alatt a kézbesítés történt. A kérelem elbírálása előtt a bíróság a kérelmezőt, illetve a feleket meghallgathatja.
 
@@ -913,7 +834,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (6) Ha a külföldi félnek a per vitelére magyarországi lakóhellyel vagy székhellyel rendelkező meghatalmazottja van, a 97. § második mondatában foglalt korlátozás nem alkalmazható. A felet vagy törvényes képviselőjét személyes megjelenésére kötelező idézés tekintetében a meghatalmazott eljárására és a kézbesítésre a (8) bekezdést kell megfelelően alkalmazni.
 
-(7) A kézbesítési megbízott magyarországi lakóhellyel, illetve székhellyel rendelkező természetes vagy jogi személy, így különösen ügyvéd (ügyvédi iroda) lehet.
+(7) A kézbesítési megbízott magyarországi lakóhellyel, illetve székhellyel rendelkező természetes vagy jogi személy (jogi személyiséggel nem rendelkező gazdasági társaság), így különösen ügyvéd (ügyvédi iroda) lehet.
 
 (8) A kézbesítési megbízott feladata, hogy az eljárásban keletkezett, a megbízó részére kézbesítendő iratokat átvegye, és azokat a megbízó részére továbbítsa; e tevékenységért a megbízóval szemben a polgári jog szabályai szerint felelős. A fél részére szóló, a kézbesítési megbízottnak szabályszerűen kézbesített iratot úgy kell tekinteni, hogy az a kézbesítést követő tizenötödik napon a fél számára ismertté vált.
 
@@ -923,20 +844,11 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 101. § (1) Ha a fél tartózkodási helye ismeretlen, vagy olyan államban van, amely a kézbesítéshez jogsegélyt nem nyújt, vagy ha a kézbesítés egyéb elháríthatatlan akadályba ütközik, illetőleg ha a kézbesítés megkísérlése már előre is eredménytelennek mutatkozik, továbbá a 100/A. § (4) bekezdésében meghatározott esetben a kézbesítést hirdetmény útján kell teljesíteni. Hirdetmény útján kell a kézbesítést teljesíteni az ismeretlen örökösök részére is.
 
-(2) Hirdetményi kézbesítést a bíróság – a 100/A. § (4) bekezdésében és a 386/C. § (3) bekezdésben meghatározott eset kivételével – csak a fél kérelmére és csak az annak alapjául szolgáló ok valószínűsítése esetében rendelhet el. Ha az előadott tények valótlannak bizonyulnak, és a fél erről tudott, vagy kellő gondosság mellett tudhatott volna, a hirdetményi kézbesítés és az azt követő eljárás érvénytelen, a felet pedig a felmerült költségben és ezen felül pénzbírságban (120. §) is el kell marasztalni. Ha az iratot a bíróság a 100/A. § vagy a 386/C. § (3)–(5) bekezdése szabályainak megsértésével kézbesítette hirdetményi úton, a hirdetményi kézbesítés és az azt követő eljárás érvénytelen. Ezeket a következményeket a bíróság az eljárást befejező határozat jogerőre emelkedését megelőzően – a felek meghallgatása után – hivatalból, egyébként pedig perorvoslat alapján mondja ki.
+(2) Hirdetményi kézbesítést a bíróság – a 100/A. § (4) bekezdésében meghatározott eset kivételével – csak a fél kérelmére és csak az annak alapjául szolgáló ok valószínűsítése esetében rendelhet el. Ha az előadott tények valótlannak bizonyulnak, és a fél erről tudott, vagy kellő gondosság mellett tudhatott volna, a hirdetményi kézbesítés és az azt követő eljárás érvénytelen, a felet pedig a felmerült költségben és ezenfelül pénzbírságban (120. §) is el kell marasztalni. Ha az iratot a bíróság a 100/A. § szabályainak megsértésével kézbesítette hirdetményi úton, a hirdetményi kézbesítés és az azt követő eljárás érvénytelen. Ezeket a következményeket a bíróság az eljárást befejező határozat jogerőre emelkedését megelőzően – a felek meghallgatása után – hivatalból, egyébként pedig perorvoslat alapján mondja ki.
 
 (3) Ha a hirdetményi kézbesítést követő eljárást – habár csak hallgatólagosan is – az ellenfél (aki részére az iratot hirdetmény útján kézbesítették) jóváhagyja, az eljárás nem válik érvénytelenné, a pénzbírságot azonban – a 100/A. § esetét ide nem értve – ilyen esetben is ki kell szabni, s a felet kötelezni kell a felmerült költségtöbblet megfizetésére.
 
-102. § (1) A hirdetményt tizenöt napra ki kell függeszteni a bíróság hirdetőtáblájára és a fél – illetőleg ismeretlen örökösök részére való kézbesítés esetében az örökhagyó – utolsó ismert lakóhelyén a polgármesteri hivatal hirdetőtáblájára, továbbá közzé kell tenni a bíróságok központi internetes honlapján (a továbbiakban: honlap).
-
-(1a) A hirdetmény tartalmazza
-
-- a) a kifüggesztés, a honlapon történő közzététel esetén pedig a közzététel napját,
-- b) az eljáró bíróság megnevezését,
-- c) a bírósági ügyszámot,
-- d) a címzett nevét és utolsó belföldi lakóhelyét (székhelyét), ennek hiányában tartózkodási helyét,
-- e) azt az okot, amelynek következtében a hirdetményi kézbesítés szükségessé vált és
-- f) a figyelemfelhívást az (5) bekezdés szerinti jogkövetkezményre és arra, hogy a címzett a kézbesítendő iratot a bíróság kezelőirodáján átveheti.
+102. § (1) A hirdetmény útján kézbesítendő iratot tizenöt napra ki kell függeszteni a bíróság hirdetőtáblájára és a fél – illetőleg ismeretlen örökösök részére való kézbesítés esetében az örökhagyó – utolsó ismert lakóhelyén a polgármesteri hivatal hirdetőtáblájára.
 
 (2) Ha a fél olyan államban lakik, amely a kézbesítéshez jogsegélyt nem nyújt, de amellyel a postai forgalom fennáll, a hirdetményt – lehetőleg ajánlott levélként – a fél ottani címére is meg kell küldeni. Ha a hirdetményi kézbesítésre a 100/A. § (4) bekezdése alapján kerül sor, és a fél olyan államban lakik, amellyel a postai forgalom fennáll, a hirdetményt ajánlott levélként a fél ottani címére is meg kell küldeni.
 
@@ -944,9 +856,9 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (4) A hirdetményi kézbesítéssel felmerülő költséget az köteles előlegezni, aki a hirdetményi kézbesítést kérte.
 
-(5) Hirdetményi kézbesítés esetén az iratot – ha a bíróság másként nem rendelkezik – a hirdetménynek a bíróság hirdetőtábláján való kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.
+(5) Hirdetményi kézbesítés esetében az iratot – amennyiben a bíróság másként nem rendelkezik – a bíróság hirdetőtábláján való kifüggesztéstől számított tizenötödik napon kell kézbesítettnek tekinteni.
 
-(6) A hirdetményi kézbesítésről az eljáró bíróság számítógépes nyilvántartást vezet, amelyben rögzíti a bíróság nevét, az ügy számát, az utolsó ismert lakóhely (székhely) megjelölésével a fél nevét, akinek részére a kézbesítés hirdetmény útján történt, továbbá azt az okot, amelynek következtében a kézbesítés szükségessé vált, illetve a kézbesítés megtörténtére vonatkozó vélelem beálltának időpontját. Az országosan összekapcsolt számítógépes közhiteles nyilvántartást az Országos Bírósági Hivatal elnöke kezeli, az abban foglalt adatokról az Országos Bírósági Hivatal elnöke jogszabályban meghatározott költségtérítés ellenében a felvilágosítást kérő személyére vonatkozóan, kérelmére felvilágosítást ad.
+(6) A hirdetményi kézbesítésről az eljáró bíróság számítógépes nyilvántartást vezet, amelyben rögzíti a bíróság nevét, az ügy számát, az utolsó ismert lakóhely (székhely) megjelölésével a fél nevét, akinek részére a kézbesítés hirdetmény útján történt, továbbá azt az okot, amelynek következtében a kézbesítés szükségessé vált, illetve a kézbesítés megtörténtére vonatkozó vélelem beálltának időpontját. Az országosan összekapcsolt számítógépes közhiteles nyilvántartást az Országos Igazságszolgáltatási Tanács Hivatala kezeli, az abban foglalt adatokról az Országos Igazságszolgáltatási Tanács Hivatala jogszabályban meghatározott költségtérítés ellenében a felvilágosítást kérő személyére vonatkozóan, kérelmére felvilágosítást ad.
 
 (7) Más személy kérelmére felvilágosítás csak akkor adható, ha az bíróság, ügyészség, nemperes eljárást lefolytató közjegyző vagy közigazgatási szerv törvényben meghatározott feladatainak teljesítéséhez, illetve a felvilágosítást kérő személynek törvényben biztosított jogai gyakorlásához szükséges. A törvényes jogcímet valószínűsíteni kell. Ilyen esetben az adatszolgáltatás tényét a számítógépes rendszerben oly módon kell rögzíteni, hogy az adatszolgáltatás időpontja, jogcíme és az adat felhasználója megállapítható maradjon. A jogellenes adatkérés és felhasználás jogkövetkezményeit a felvilágosítást kérő viseli.
 
@@ -1072,7 +984,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (2) Ha az ügyben eljáró bíróság a kifogást nem tartja alaposnak, a kifogást tartalmazó beadványt megküldi az ellenfél részére, aki észrevételeit a kézbesítéstől számított nyolc napon belül terjesztheti elő. A határidő elteltét követően a bíróság az iratokat – az esetleg benyújtott észrevételekkel együtt – nyolc napon belül felterjeszti a kifogás elbírálására hatáskörrel rendelkező bírósághoz. A felterjesztésben a bíróság számot ad arról, hogy a hiányolt eljárási cselekmény elvégzésére vagy határozat meghozatalára milyen okból nem került sor.
 
-(3) A járásbíróság mulasztásával szemben benyújtott kifogást a törvényszék három hivatásos bíróból álló tanácsa, a törvényszék mulasztásával szemben benyújtott kifogást az ítélőtábla három hivatásos bíróból álló tanácsa, az ítélőtábla mulasztásával szemben benyújtott kifogást a Kúria három hivatásos bíróból álló tanácsa, a Kúria mulasztásával szemben benyújtott kifogást a Kúria másik tanácsa az iratok felterjesztésétől számított tizenöt napon belül tárgyaláson kívül bírálja el.
+(3) A helyi bíróság mulasztásával szemben benyújtott kifogást a megyei bíróság három hivatásos bíróból álló tanácsa, a megyei bíróság mulasztásával szemben benyújtott kifogást az ítélőtábla három hivatásos bíróból álló tanácsa, az ítélőtábla mulasztásával szemben benyújtott kifogást a Legfelsőbb Bíróság három hivatásos bíróból álló tanácsa, a Legfelsőbb Bíróság mulasztásával szemben benyújtott kifogást a Legfelsőbb Bíróság másik tanácsa az iratok felterjesztésétől számított tizenöt napon belül tárgyaláson kívül bírálja el.
 
 (4) Ha a kifogást elbíráló bíróság a kifogásban foglaltaknak helyt ad, a mulasztó bíróságot határidő tűzésével a 114/A. § (2) bekezdésének a) és c) pontjában foglalt esetekben az ügy továbbviteléhez szükséges intézkedés megtételére, a 114/A. § (2) bekezdésének b) pontjában foglalt esetben pedig az adott ügyben leghatékonyabb intézkedés foganatosítására hívja fel. A felhívásban – a 114/A. § (2) bekezdésének a) pontjában foglalt esetet kivéve – a kifogást elbíráló bíróság az eljáró bíróságot meghatározott eljárási cselekmény lefolytatására nem utasíthatja. A kifogás alaptalansága esetén azt indokolt határozattal elutasítja. A határozat ellen további jogorvoslatnak nincs helye.
 
@@ -1094,7 +1006,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 - b) a felek nevét és perbeli állását, továbbá a per tárgyát;
 - c) a tárgyalás (meghallgatás vagy kihallgatás) helyét, továbbá kezdő és befejező időpontját;
 - d) a bírák, a jegyzőkönyvvezető és a tolmács nevét;
-- e) a jelenlevő feleknek és képviselőiknek nevét és perbeli állását, a jelen levő más perbeli személyek nevét;
+- e) a jelenlevő feleknek és képviselőiknek nevét és perbeli állását;
 - f) zárt tárgyalás esetén az erre való utalást.
 
 117. § (1) A jegyzőkönyvben röviden le kell írni az eljárás menetét és az annak során történteket, mégpedig úgy, hogy a jegyzőkönyv alapján azt is meg lehessen állapítani, vajon az eljárás a törvényben meghatározott alaki követelményeknek megfelel-e. Ha valamely kifejezés vagy kijelentés pontos szövege jelentős, azt szó szerint kell jegyzőkönyvbe venni.
@@ -1125,7 +1037,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 ### Az iratok megtekintése; másolatok
 
-119. § (1) A felek, az ügyész és a perben részt vevő egyéb személyek, valamint azok képviselői a per iratait – a határozatok tervezeteinek és az esetleges különvéleménynek kivételével – a per bármely szakaszában külön engedély nélkül megtekinthetik és azokról maguknak másolatokat (kivonatokat) készíthetnek. Olyan tárgyalásról készült jegyzőkönyvet azonban, amelyről a nyilvánosságot minősített adat megőrzése végett zárták ki, illetve a minősített adatot tartalmazó egyéb okiratot lemásolni vagy arról kivonatot készíteni nem szabad. Ilyen ügyben az iratok megtekintésének is csak a minősített adat védelméről szóló törvényben meghatározott engedély, valamint az abban meghatározott szabályok alapján a bíróság elnöke által megállapított feltételek mellett van helye.
+119. § (1) A felek, az ügyész és a perben részt vevő egyéb személyek, valamint azok képviselői a per iratait – a határozatok tervezeteinek és az esetleges különvéleménynek kivételével – a per bármely szakaszában külön engedély nélkül megtekinthetik és azokról maguknak másolatokat (kivonatokat) készíthetnek. Olyan tárgyalásról készült jegyzőkönyvet azonban, amelyről a nyilvánosságot államtitok vagy szolgálati titok megőrzése végett zárták ki, illetve az államtitkot vagy szolgálati titkot tartalmazó egyéb okiratot lemásolni vagy arról kivonatot készíteni nem szabad. Ilyen ügyben az iratok megtekintésének is csak az államtitokról és szolgálati titokról szóló törvényben meghatározott engedély, valamint az abban meghatározott szabályok alapján a bíróság elnöke által megállapított feltételek mellett van helye.
 
 (2) A felek, az ügyész és a perben részt vevő egyéb személyek, valamint azok képviselői az eljárás során az üzleti titkot, hivatásbeli titkot vagy a külön törvényben meghatározott, az (1) bekezdésben nem említett más titkot tartalmazó iratok esetében – a titok megtartásának kötelezettségét tartalmazó, írásba foglalt nyilatkozat megtétele mellett –, az eljáró bíró által megállapított rendben és szabályok szerint gyakorolhatják az iratbetekintési és másolatkészítési jogot. Ha azonban a titoktartás alóli felmentés megadására jogosult a 192. § (3) bekezdése alapján határidőben úgy nyilatkozott, hogy az üzleti titkot vagy hivatásbeli titkot tartalmazó irat megismeréséhez nem járul hozzá, a bíróságon és a jegyzőkönyvvezetőn (leírón) kívül az irat ezen titkot tartalmazó részét más nem tekintheti meg, azt lemásolni vagy arról kivonatot készíteni nem szabad. Ha a per tárgyát annak eldöntése képezi, hogy az okirat tartalma közérdekű adatnak minősül-e, az eljárás során ezen okiratot megismerni nem lehet, és az az eljárás jogerős befejezése után is csak a per eldöntéséhez képest tekinthető meg, illetve másolható le; e rendelkezést a bíróságra, a jegyzőkönyvvezetőre (leíróra) és arra a perbeli személyre, aki az iratot benyújtotta, nem kell alkalmazni.
 
@@ -1133,13 +1045,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (4) Az iratok megtekintése és a másolatkészítés során a 171/A. § rendelkezéseit alkalmazni kell.
 
-(5) A fél, az ügyész és a perben részt vevő egyéb személy, valamint azok képviselője írásban vagy a tárgyaláson kérheti, hogy a részére kiadható iratot elektronikus formában az általa megjelölt e-mail címre továbbítsa a bíróság, ha az irat
-
-- a) elektronikus formában,
-- b) elektronikus okiratként vagy
-- c) a papíralapú okirat elektronikus másolataként a bíróságnál rendelkezésre áll.
-
-(5a) Az (5) bekezdésben meghatározott esetben az irat továbbításáért nem kell illetéket fizetni. Az irat akkor áll elektronikus formában rendelkezésre [119. § (5) bekezdés a) pont], ha a bíróság a papír alapú iratot informatikai eszköz alkalmazásával szerkesztette meg; az elektronikus formában rendelkezésre álló irat nem hiteles kiadmány, az bizonyítékként nem használható fel.
+(5) A fél, az ügyész és a perben részt vevő egyéb személy, valamint azok képviselője kérheti, hogy az irat elektronikus másolatát az általa megjelölt e-mail címre továbbítsa a bíróság, amennyiben az iratról neki másolat adható, és az irat elektronikus okiratként, vagy a papíralapú okirat elektronikus másolataként a bíróságnál rendelkezésre áll. Ebben az esetben a másolat kiadásáért nem kell illetéket fizetni.
 
 (6) Bíróság, ügyészség, közjegyző, bírósági végrehajtó, nyomozó hatóság vagy közigazgatási hatóság megkeresésére – törvényben meghatározott feladataik ellátásához szükséges mértékben – a bíróság a per iratait vagy azok másolatát (kivonatát) megküldi, illetve azokba betekintést engedélyez.
 
@@ -1149,7 +1055,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 - a) törvény eltérő rendelkezésének hiányában az állami vagy helyi önkormányzati feladatot, valamint jogszabályban meghatározott egyéb közfeladatot ellátó személy nevét és beosztását, ha az adott személy az eljárásban közfeladatának ellátásával összefüggésben vett részt;
 - b) a meghatalmazottként eljárt jogi képviselő nevét;
-- c) az egyesület vagy alapítvány képviselőjének nevét;
+- c) a társadalmi szervezet vagy alapítvány képviselőjének nevét;
 - d) a közérdekből nyilvános adatokat.
 
 (9) Nem adható másolat a (7) bekezdés alapján az olyan határozatról, mely az (1) és (2) bekezdésben meghatározott titkot tartalmaz, továbbá azon határozatról, melyet a XV–XVIII. Fejezetben meghatározott vagy olyan perben hoztak, amelyben a bíróság a nyilvánosságot a tárgyalásról vagy annak egy részéről kizárta.
@@ -1164,7 +1070,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 ### Pénzbírság
 
-120. § E törvény rendelkezései alapján kiszabható pénzbírság legmagasabb összege ötszázezer – a kiskorúval szemben kiszabott pénzbírság legmagasabb összege háromszázezer – forint azzal, hogy az nem haladhatja meg a pertárgy értékét. A kiszabott pénzbírságot szabadságvesztésre átváltoztatni nem lehet. A pénzbírság behajtására és hovafordítására azokat a jogszabályokat kell alkalmazni, amelyek a bíróságok által büntetőügyben kiszabott pénzbüntetésekre irányadók.
+120. § E törvény rendelkezései alapján kiszabható pénzbírság legmagasabb összege ötszázezer forint azzal, hogy az nem haladhatja meg a pertárgy értékét. A kiszabott pénzbírságot szabadságvesztésre átváltoztatni nem lehet. A pénzbírság behajtására és hovafordítására azokat a jogszabályokat kell alkalmazni, amelyek a bíróságok által büntetőügyben kiszabott pénzbüntetésekre irányadók.
 
 ## MÁSODIK RÉSZ — ELSŐ FOKÚ ELJÁRÁS
 
@@ -1189,7 +1095,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (5) Ha a felperes rendelkezik telefonszámmal, faxszámmal, illetve e-mail címmel, azt a keresetlevélben fel kell tüntetnie.
 
-121/A. § (1) A jogi személy gazdálkodó szervezetek egymás közötti jogvitáiban a keresetlevél benyújtása előtt a feleknek meg kell kísérelniük a jogvita peren kívül elintézését. Ez mellőzhető, ha a felek a közöttük felmerült véleményeltérésről közös jegyzőkönyvet készítenek.
+121/A. § (1) A jogi személy gazdálkodó szervezetek egymás közötti jogvitáiban a keresetlevél benyújtása előtt e feleknek meg kell kísérelniük a jogvita peren kívül elintézését. Evégből a fél a vitás kérdésben elfoglalt jogi és ténybeli álláspontjait ezek bizonyítékainak előadásával, szükség esetén az okirati bizonyítékok csatolásával az ügyben érintett összes féllel írásban részletesen közli, akik arra a kézhezvételtől számított tizenöt nap alatt az összes felvetett jogkérdésre és a teljes tényállásra kiterjedő, az ellenbizonyítékok előadását is tartalmazó részletes írásbeli választ adnak, melyhez az okirati bizonyítékokat szükség esetén csatolni kell. Ez az eljárás mellőzhető, ha a felek a közöttük felmerült véleményeltérésről közös jegyzőkönyvet készítenek.
 
 (2) Ha a felek jogvitájukat peren kívül nem rendezik, és a felperes keresetet indít, a keresetlevélhez csatolnia kell:
 
@@ -1198,17 +1104,15 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (3) A (2) bekezdés a) pontjában meghatározott iratoknak tartalmazniuk kell különösen:
 
-- a) az előzetes levélváltás, illetőleg az előzetes tárgyalás (jegyzőkönyvkészítés) során felmerült véleményeltérés adatait,
-- b) az esetleges előzetes elszámolás eredményét, továbbá
-- c) ha az üggyel kapcsolatban bírósági vagy más hatósági határozat született, annak ügyszámát és tartalmának lényegét.
+- a) a feleknek a jogvitára vonatkozó részletes ténybeli és jogi álláspontját a bizonyítékok megjelölésével;
+- b) azt, hogy az alperes a felperesi követelésre milyen indokok alapján hogyan nyilatkozott;
+- c) azt, hogy a felek az előadott bizonyítékokat miként értékelték;
+- d) az előzetes levélváltás, illetőleg az előzetes tárgyalás (jegyzőkönyvkészítés) során felmerült véleményeltérés adatait;
+- e) az esetleges előzetes elszámolás eredményét; továbbá
+- f) az üggyel kapcsolatos korábbi bírósági vagy más hatósági határozat ügyszámát és tartalmának lényegét; valamint
+- g) a felek és képviselőik rövid úton való elérhetőségeit (telefonszám, telefaxszám, e-mail cím stb.).
 
-(4) E § rendelkezéseit nem kell alkalmazni
-
-- a) abban az esetben, ha a keresetindításra jogszabály hatvan napnál nem hosszabb határidőt állapít meg,
-- b) a Negyedik Részben meghatározott különleges eljárásokban,
-- c) a fizetési meghagyásos eljárást követő perben (315. §),
-- d) külön törvény eltérő rendelkezése hiányában a nemperes eljárásokban, vagy
-- e) az Ötödik Részben meghatározott kiemelt jelentőségű perekben.
+(4) E § rendelkezéseit nem kell alkalmazni, ha a keresetindítására jogszabály hatvan napnál nem hosszabb határidőt állapít meg, továbbá a Negyedik Részben meghatározott különleges eljárásokban, valamint a fizetési meghagyásos eljárásból perré alakult eljárásban.
 
 122. § (1) Marasztalásra irányuló kereseti kérelemnek csak lejárt követelés érvényesítése végett van helye.
 
@@ -1220,27 +1124,21 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 124. § (1) A bíróság a keresetlevelet nyomban, de legkésőbb a bírósághoz érkezésétől számított harminc napon belül megvizsgálja annak megállapítása érdekében, hogy nem kell-e azt a félnek hiánypótlásra visszaadni (95. §), nincs-e helye az ügy áttételének (129. §), illetőleg a keresetlevél idézés kibocsátása nélküli elutasításának (130. §), és a szükséges intézkedéseket megteszi.
 
-(2) A bíróság a keresetlevelet – hiánypótlási felhívás kiadását mellőzve – idézés kibocsátása nélkül elutasítja, ha
-
-- a) a jogi képviselővel eljáró fél keresetlevele nem tartalmazza a 121. § (1) bekezdésében és a 121/A. § (2) bekezdésének a) vagy b) pontjában foglaltakat vagy
-- b) a jogi képviselő nem csatolta a meghatalmazását vagy
-- c) a jogi képviselővel eljáró fél elmulasztotta az eljárási illeték megfizetésére vonatkozó kötelezettség teljesítését.
+(2) A bíróság a keresetlevelet – hiánypótlási felhívás kiadását mellőzve – idézés kibocsátása nélkül elutasítja, ha a jogi képviselővel eljáró fél keresetlevele nem tartalmazza a 121. § (1) bekezdésében és a 121/A. § (2) bekezdésének a) vagy b) pontjában foglaltakat, illetve, ha a jogi képviselő nem csatolta a meghatalmazását, vagy elmulasztották az eljárási illeték megfizetésére vonatkozó kötelezettség teljesítését.
 
 (3) Ha az (1)–(2) bekezdésben foglaltak megtételére nincs szükség, illetőleg a fél hiánypótlási kötelezettségének eleget tett és így a keresetlevél alkalmas a tárgyalás kitűzésére, a bíróság az eljárás gyorsabb lefolytatása érdekében további intézkedéseket tehet a tárgyalás előkészítésére. Ilyen intézkedéseknek a tárgyalás kitűzése előtt, valamint az eljárás során szükség esetén bármikor helye van.
 
 (4) A bíróságnak a (3) bekezdésben foglaltak szerinti intézkedései különösen a következők:
 
 - a) iratok beszerzése más hatóságtól vagy szervezettől;
-- b) a gyermek tartása, a szülői felügyelet gyakorlásának rendezése, a gyermek harmadik személynél történő elhelyezése, illetőleg a szüléssel kapcsolatos követelések iránti, továbbá az apaság és a származás megállapítására irányuló egyéb perekben – az ismeretlen helyen lévő alperes, anya, illetve gyermek tartózkodási helyének megállapítása érdekében – a bíróság elrendelheti az alperes, az anya, illetve a gyermek felkutatását [96. § (4)–(6) bek.];
+- b) a gyermek tartása, elhelyezése, illetőleg a szüléssel kapcsolatos követelések iránti, továbbá az apaság és a származás megállapítására irányuló egyéb perekben – az ismeretlen helyen lévő alperes, anya, illetve gyermek tartózkodási helyének megállapítása érdekében – a bíróság elrendelheti az alperes, az anya, illetve a gyermek felkutatását [96. § (4)–(6) bek.];
 - c) előzetes bizonyítást folytathat le (207–211. §);
 - d) ideiglenes intézkedést tehet (156. §);
 - e) elrendelheti a felek tárgyaláson kívüli, egymás jelenlétében történő előzetes meghallgatását.
 
 (5) Ha a (3)–(4) bekezdésben foglalt intézkedések megtételével egyidejűleg a tárgyalási határnap kitűzésére nem kerül sor, a bíróság – az intézkedés megtételekor – a keresetlevelet kézbesíti az ellenfél számára.
 
-(6) Ha a bíróság észleli, hogy a keresetlevél vagy az ahhoz csatolt okirat minősített adatot tartalmaz, megkeresi a minősítőt a megismerési engedély beszerzése végett. A 192/A. § rendelkezéseit ebben az esetben is megfelelően alkalmazni kell.
-
-124/A. § A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 214. § (1a) bekezdése vagy 284. § (3) bekezdése alapján a bíróságnak megküldött polgári jogi igényt keresetlevélként kell elbírálni és úgy kell tekinteni, mintha azt már eredetileg is annál a bíróságnál terjesztették volna elő, amelyhez azt megküldték.
+(6) Ha a bíróság észleli, hogy a keresetlevél vagy az ahhoz csatolt okirat államtitkot vagy szolgálati titkot tartalmaz, megkeresi a minősítőt a megismerési engedély beszerzése végett. A 192/A. § rendelkezéseit ebben az esetben is megfelelően alkalmazni kell.
 
 ### A tárgyalás kitűzése
 
@@ -1258,19 +1156,17 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 126. § (1) A bíróság a per tárgyalására megidézi azt, akinek igénye érvényesítése iránt az ügyész, illetve külön jogszabállyal erre feljogosított személy vagy szervezet pert indított.
 
-(1a) A bíróság a 141. § (1a) bekezdése szerinti személyes meghallgatásra a tizennegyedik életévét be nem töltött kiskorú felet a törvényes képviselője útján idézi meg azzal a felhívással, hogy a megjelenéséről gondoskodjék. A tizennegyedik életévét betöltött kiskorú fél idézéséről akkor is külön értesíti a bíróság a törvényes képviselőt, ha őt is idézte a tárgyalásra.
-
 (2) Az idézésben (96. §) figyelmeztetni kell a feleket, hogy a tárgyaláson – ha nem személyesen jelennek meg – csak a 67. §-ban megjelölt meghatalmazottal képviseltethetik magukat. Az első tárgyalásra szóló idézéshez csatolni kell a keresetlevél egy példányát (másolatát), ha annak kézbesítésére korábban még nem került sor.
 
-(3) A feleket az idézésben fel kell hívni, hogy az ügyre vonatkozó okiratokat a tárgyalásra hozzák magukkal, az alperest pedig arra is figyelmeztetni kell, hogy a kereseti kérelemre legkésőbb a tárgyaláson vagy a bíróság által megjelölt határidőn belül nyilatkoznia kell, s elő kell adnia a védekezésének alapjául szolgáló tényeket és ezek bizonyítékait, az ügyre vonatkozó okiratait pedig be is kell mutatnia. Az idézésben arra is utalni kell, hogy az alperes a nyilatkozatát már a kitűzött határnap előtt benyújthatja vagy jegyzőkönyvbe mondhatja [94. § (4) bekezdése]. Az írásbeli nyilatkozat másodpéldányát, illetőleg az arról készített jegyzőkönyv másolatát a bíróság a felperesnek haladéktalanul kézbesíti, ha pedig erre már nincs elegendő idő azt a tárgyaláson adja át.
+(3) A feleket az idézésben fel kell hívni, hogy az ügyre vonatkozó okiratokat a tárgyalásra hozzák magukkal, az alperest pedig arra is figyelmeztetni kell, hogy a kereseti kérelemre legkésőbb a tárgyaláson nyilatkoznia kell, s elő kell adnia a védekezésének alapjául szolgáló tényeket és ezek bizonyítékait, az ügyre vonatkozó okiratait pedig be is kell mutatnia. Az idézésben arra is utalni kell, hogy az alperes a nyilatkozatát már a kitűzött határnap előtt benyújthatja vagy jegyzőkönyvbe mondhatja [94. § (4) bek.]. Az írásbeli nyilatkozat másodpéldányát, illetőleg az arról készített jegyzőkönyv másolatát a bíróság a felperesnek haladéktalanul kézbesíti, ha pedig erre már nincs elegendő idő, azt a tárgyaláson adja át.
 
-(4) Ha az ügy körülményei azt indokolják, így ha a 124. § (3)–(4) bekezdésében foglalt intézkedés megtételére van szükség, a bíróság az idézésben a (3) bekezdésben megjelölt alperesi nyilatkozat megtételére a tárgyalás napját megelőző határidőt állapíthat meg. A határidő nem lehet kevesebb tizenöt napnál. A bíróság ezt követően – ha a tárgyalási határnapig rendelkezésre álló idő ezt lehetővé teszi – a felperest tizenöt napos határidővel az alperesi nyilatkozatban foglaltakra vonatkozó álláspontjának közlésére hívja fel.
+(4) Ha az ügy körülményei azt indokolják, így ha a 124. § (3)–(4) bekezdésében foglalt intézkedés megtételére van szükség, a bíróság az idézésben a (3) bekezdésben megjelölt alperesi nyilatkozat megtételére határidőt állapít meg. A határidő nem lehet kevesebb tizenöt napnál. A bíróság ezt követően – ha a tárgyalási határnapig rendelkezésre álló idő ezt lehetővé teszi – a felperest tizenöt napos határidővel az alperesi nyilatkozatban foglaltakra vonatkozó álláspontjának közlésére hívja fel.
 
 ### A szóbeli kereset azonnali tárgyalása. Egyezségikísérletre idézés
 
 127. § (1) Ha a kereset jegyzőkönyvbe mondása (94. §) alkalmával a felperessel együtt a bíróság előtt az alperes is megjelenik, a bíróság a felek kérelmére a tárgyalást nyomban megtartja. Ebben az esetben a keresetet a tárgyalási jegyzőkönyvbe kell foglalni, és azt a bíróság illetékességének hiánya miatt – a kizárólagos illetékesség esetét kivéve – elutasítani vagy más bírósághoz átteni nem lehet. Ha a bíróság a perre illetékes, de az alperes a kereset jegyzőkönyvbe mondása alkalmával nincs jelen, a tárgyalásra az előző rendelkezések szerint azonnal határnapot kell kitűzni, s arra a felperest szóval meg kell idézni.
 
-(2) Keresetindítás előtt a perre hatáskörrel bíró és illetékes járásbíróság előtt egyezségi kísérletre idézést lehet kérni. Az idézést kérő félnek a határnapot szóval is tudtára lehet adni. A létrejött egyezséget jegyzőkönyvbe kell foglalni, és a jóváhagyásra a 148. §-t kell alkalmazni.
+(2) Keresetindítás előtt a perre hatáskörrel bíró és illetékes helyi bíróság előtt egyezségi kísérletre idézést lehet kérni. Az idézést kérő félnek a határnapot szóval is tudtára lehet adni. A létrejött egyezséget jegyzőkönyvbe kell foglalni, és a jóváhagyásra a 148. §-t kell alkalmazni.
 
 (3) Ha mind a két fél megjelent, de az egyezség nem jött létre, a bíróság a felperes kívánságára a keresetet jegyzőkönyvbe foglalja. A további eljárásra az (1) bekezdés az irányadó.
 
@@ -1290,8 +1186,6 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (3) Az (1) bekezdés értelmében áttett keresetlevelet úgy kell tekinteni, mintha azt már eredetileg is annál a bíróságnál (hatóságnál) terjesztették volna elő, amelyhez azt áttették.
 
-(4) A bíróság az áttétel tárgyában soron kívül jár el.
-
 ### Elutasítás
 
 130. § (1) A bíróság a keresetlevelet idézés kibocsátása nélkül [125. § (1) bek.] elutasítja, ha megállapítható, hogy
@@ -1302,22 +1196,20 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 - d) a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránt – akár ugyanazon bíróság, akár más bíróság előtt – a per már folyamatban van (128. §), vagy annak tárgyában már jogerős ítéletet hoztak (229. §);
 - e) a félnek nincs perbeli jogképessége (48. §);
 - f) a felperes követelése időelőtti, vagy – az elévülés esetét ide nem értve – bírói úton nem érvényesíthető;
-- g) a pert nem a jogszabályban erre feljogosított személy indítja, vagy a per csak jogszabályban meghatározott személy ellen indítható, illetve meghatározott személyek perben állása kötelező, s a felperes e személyt (személyeket) – felhívás ellenére – nem vonta perbe, továbbá – ha jogszabály másként nem rendelkezik - a munkáltató helytállási kötelezettsége körébe tartozó személyiségi jogot sértő tevékenység, illetve károkozás miatt a pert a munkavállaló ellen indították.
+- g) a pert nem a jogszabályban erre feljogosított személy indítja, vagy a per csak jogszabályban meghatározott személy ellen indítható, illetve meghatározott személyek perben állása kötelező, s a felperes e személyt (személyeket) – felhívás ellenére – nem vonta perbe;
 - h) külön jogszabály a keresetindításra határidőt állapít meg, ezt a felperes elmulasztja, és igazolási kérelmet sem terjeszt elő, vagy azt a bíróság elutasítja;
-- i) a 124. § (2) bekezdésében foglalt ok áll fenn,
+- i) a jogi képviselő által benyújtott keresetlevél nem tartalmazza a 121. § (1) bekezdésében és a 121/A. § (2) bekezdésének a) vagy b) pontjában foglaltakat, illetve ha a jogi képviselő nem csatolta a meghatalmazását, vagy nem fizették meg az eljárási illetéket;
 - j) a felperes a hiánypótlás végett (95. §) neki visszaadott keresetlevelet a kitűzött határidő alatt nem adta be, vagy újból hiányosan adta be, és emiatt a keresetlevél nem bírálható el.
 
 (2) A keresetlevelet elutasító végzést kézbesíteni kell a feleknek, és az alperes példányához csatolni kell a keresetlevél másolatát is.
 
 (3) Ha az ügyben a fél, az ügyész, illetve a külön jogszabállyal erre feljogosított személy vagy szervezet keresete alapján a per tárgyában már jogerős ítéletet hoztak, az ezt követően ugyanabból a ténybeli alapból származó, ugyanazon jog iránt indított újabb keresetet a bíróság az (1) bekezdés d) pontja alapján elutasítja, feltéve, hogy az ítéletet annak a félnek is kézbesítették, akinek jogát a perben érvényesítették, és az vele szemben is jogerőre emelkedett (228. §).
 
-(4) Ha olyan végrehajtás megszüntetése, illetve korlátozása iránti per van folyamatban, amelyben a felperes a 369. § a) pontjában foglaltakra, érvénytelenségre alapítva hivatkozik, a bíróság az ezen felperes által a végrehajtási záradékkal ellátott okiratba foglalt szerződés vagy végrehajtási záradékkal ellátott okiratba foglalt egyoldalú kötelezettségvállaló nyilatkozat esetén az annak alapjául szolgáló szerződés érvénytelensége tárgyában külön per megindítására előterjesztett keresetlevelet az (1) bekezdés d) pontja alapján elutasítja.
-
 131. § Ha valamely bíróság hatáskörének vagy illetékességének hiányát valamely okból már jogerősen megállapította, az utóbb eljáró bíróság nem hozhat ezzel az okkal ellentétes olyan határozatot, amellyel a saját hatáskörét vagy illetékességét megtagadva, az ügyet az előbb eljárt bírósághoz utalja vissza.
 
 ### A keresetlevél beadásához fűződő jogi hatályokfenntartása
 
-132. § (1) A keresetlevélnek a 130. § alapján való elutasítása esetében a keresetlevél beadásának jogi hatályai fennmaradnak, ha a felperes az elutasító határozat jogerőre emelkedésétől számított harminc nap alatt a keresetlevelet szabályszerűen – a 121. § (1) bekezdésében foglaltak szerint, a már megfelelően becsatolt mellékletek kivételével – újra benyújtja, vagy követelését egyéb úton szabályszerűen érvényesíti.
+132. § (1) A keresetlevélnek a 130. § alapján való elutasítása esetében a keresetlevél beadásának jogi hatályai fennmaradnak, ha a felperes az elutasító határozat jogerőre emelkedésétől számított harminc nap alatt a keresetlevelet szabályszerűen újra benyújtja, vagy követelését egyéb úton szabályszerűen érvényesíti.
 
 (2) Ha a keresetlevél az alperes részére halála miatt vagy más okból nem volt kézbesíthető, a keresetlevél beadásának jogi hatályai fennmaradnak, ha a felperes a kézbesítés sikertelen megkísérlésére vonatkozó értesítés vételétől számított harminc nap alatt a kézbesítéshez szükséges adatokat bejelenti, vagy hirdetményi idézést kér.
 
@@ -1343,15 +1235,9 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (4) Az elnök a hallgatóság köréből eltávolíthatja azokat, akik állapotuk vagy megjelenésük folytán a tárgyalás méltóságát sértik.
 
-(5) A feleket és képviselőiket, más perbeli személyeket, valamint a tanúkat és a szakértőket, úgyszintén a hallgatóság tagjait, ha a tárgyalás rendjét megzavarják, az elnök rendreutasítja. Ismételt vagy súlyosabb rendzavarás esetében a bíróság pénzbírságot (120. §) szab ki. Ha a félnek vagy képviselőjének, más perbeli személynek, illetve a tanúnak vagy szakértőnek az állapota vagy megjelenése a tárgyalás méltóságát sérti, őt a bíróság pénzbírsággal sújthatja.
+(5) A feleket és képviselőiket, valamint a tanúkat és a szakértőket, úgyszintén a hallgatóság tagjait, ha a tárgyalás rendjét megzavarják, az elnök rendreutasítja. Ismételt vagy súlyosabb rendzavarás esetében a bíróság pénzbírságot (120. §) szab ki. Ha a félnek vagy képviselőjének, illetve a tanúnak vagy szakértőnek az állapota vagy megjelenése a tárgyalás méltóságát sérti, őt a bíróság pénzbírsággal sújthatja.
 
-(6) Ismételt vagy súlyosabb rendzavarás esetében – akár a pénzbírság kiszabására vonatkozó rendelkezéssel egyidejűleg, akár anélkül vagy azt követően – a bíróság a feleket és képviselőiket, más perbeli személyeket, a tanúkat és a szakértőket, valamint a hallgatókat a teremből kiutasíthatja, illetőleg kivezettetheti. Kiutasításnak, illetve kivezettetésnek van helye akkor is, ha a félnek vagy képviselőjének, más perbeli személynek, illetve a tanúnak vagy szakértőnek az állapota vagy a megjelenése a pénzbírság kiszabását követő folytatólagos tárgyalások bármelyikén sérti a tárgyalás méltóságát.
-
-(6a) Az (5) és (6) bekezdésben foglalt rendelkezéseket kiskorú fél, kiskorú érdekelt vagy kiskorú tanú vonatkozásában azzal az eltéréssel kell alkalmazni, hogy
-
-- a) a rendreutasítás módjának igazodnia kell a kiskorú korához és érettségéhez,
-- b) a tizennegyedik életévét be nem töltött kiskorúval szemben pénzbírság kiszabásának nincs helye,
-- c) a tizennegyedik életévét betöltött kiskorúval szemben – ismételt vagy súlyosabb rendzavarás esetében – a pénzbírság kiszabásának szükségességéről az elnök mérlegeléssel dönt.
+(6) Ismételt vagy súlyosabb rendzavarás esetében – akár a pénzbírság kiszabására vonatkozó rendelkezéssel egyidejűleg, akár anélkül vagy azt követően – a bíróság a feleket és képviselőiket, a tanúkat és a szakértőket, valamint a hallgatókat a teremből kiutasíthatja, illetőleg kivezettetheti. Kiutasításnak, illetve kivezettetésnek van helye akkor is, ha a félnek vagy képviselőjének, illetve a tanúnak vagy szakértőnek az állapota vagy a megjelenése a pénzbírság kiszabását követő folytatólagos tárgyalások bármelyikén sérti a tárgyalás méltóságát.
 
 (7) A bíróság a felet – kiutasítása esetében – felhívja, hogy képviseletéről a kitűzött határidő alatt gondoskodjék; ha pedig a fél képviselőjét utasította ki, felhívja a felet, hogy a tárgyaláson személyesen jelenjék meg, vagy új képviselőről gondoskodjék. A felhívás eredménytelensége esetében a féllel szemben a mulasztás következményeit kell alkalmazni. Tanú vagy szakértő kiutasítása esetében a 185. § rendelkezései megfelelően irányadók.
 
@@ -1367,7 +1253,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (3) Az ügyész kivételével a felekről és más perbeli személyekről, ezek képviselőiről, továbbá a tanúról, a szakértőről, a tolmácsról és a szemletárgy birtokosáról csak kifejezett hozzájárulása esetén készíthető kép-, illetve hangfelvétel. Szükség esetén a bíróság e személyeket a kép-, illetve hangfelvétel készítéséhez való hozzájárulásról nyilatkoztatja; ennek megtörténtét, valamint a nyilatkozat tartalmát a jegyzőkönyvben fel kell tüntetni. törvény eltérő rendelkezésének hiányában az állami vagy helyi önkormányzati feladatot, valamint jogszabályban meghatározott egyéb közfeladatot ellátó, e feladatkörében eljáró személyről hozzájárulása nélkül is készíthető kép-, illetve hangfelvétel.
 
-(4) A (3) bekezdésben meghatározott személyek személyiségi jogainak védelméről a tárgyaláson az elnök a rendfenntartás keretében gondoskodik.
+(4) A (3) bekezdésben meghatározott személyek személyhez fűződő jogainak védelméről a tárgyaláson az elnök a rendfenntartás keretében gondoskodik.
 
 ### A felek jelenléte a tárgyaláson
 
@@ -1396,7 +1282,7 @@ A mulasztás esetére megállapított következmények alkalmazásának helye va
 
 (4) Az első tárgyalásra megidézett és megjelent tanút vagy szakértőt a bíróság kihallgatja. Ha az ügy eldöntésére így kellő adat áll rendelkezésre, a bíróság az általános szabályok szerint határoz, egyébként pedig a bírósági meghagyás kibocsátása avagy újabb tárgyalás kitűzése felől dönt.
 
-136/A. § (1) A bírósági meghagyás ellen a kézbesítésétől számított tizenöt napon belül bármelyik fél szóban vagy írásban a meghagyást kibocsátó bíróságnál ellentmondással élhet. Nem tekinthető a bírósági meghagyás megtámadásának, ha az alperes a követelés összegét teljes egészében elismeri, és csak a fizetésre halasztást vagy részletben való fizetést, illetőleg csak a bírósági meghagyás kijavítását kéri. A kellő időben benyújtott ellentmondás esetében a bírósági meghagyást kibocsátó bíróság a per tárgyalására új határnapot tűz ki. Ha a jogi képviselet kötelező és az alperes az ellentmondás folytán új határnapra kitűzött tárgyaláson megjelenik vagy írásban érdemi ellenkérelmet terjeszt elő, a beszámítási kifogás és a viszontkereset szempontjából ez tekintendő az első tárgyalási napnak.
+136/A. § (1) A bírósági meghagyás ellen a kézbesítésétől számított tizenöt napon belül bármelyik fél szóban vagy írásban a meghagyást kibocsátó bíróságnál ellentmondással élhet. Nem tekinthető a bírósági meghagyás megtámadásának, ha az alperes a követelés összegét teljes egészében elismeri, és csak a fizetésre halasztást vagy részletben való fizetést, illetőleg csak a bírósági meghagyás kijavítását kéri. A kellő időben benyújtott ellentmondás esetében a bírósági meghagyást kibocsátó bíróság a per tárgyalására új határnapot tűz ki.
 
 (2) A bírósági meghagyásnak ellentmondással meg nem támadott része jogerőre emelkedik, és az új tárgyalást csak a megtámadott részre vonatkozóan kell kitűzni. Az alperest az elmulasztott első tárgyalás költségében pernyertességétől függetlenül marasztalni kell. Az ellentmondás illetékét a másik félre áthárítani nem lehet. Ha az ellentmondás csak a perköltséget sérelmezi, erről a bíróság tárgyaláson kívül, végzéssel határoz.
 
@@ -1444,16 +1330,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (3) A (2) bekezdés alapján az ügy érdemi tárgyalásának nincs helye, ha az alperes a per megszüntetését a felperes mulasztása, illetőleg elállása folytán vagy közös megállapodásra hivatkozással kéri [157. § d)–f) pontja].
 
-141. § (1) Ha a bíróság a pert nem szünteti meg, az ügyet érdemben tárgyalja, s ha a tényállás már az első tárgyaláson kideríthető, nyomban érdemben határoz. A bíróság a jelen lévő felek meghallgatása alapján megállapítja azokat az adatokat is, amelyek a végrehajtási eljárásban az érdekelt azonosságának megállapításához szükségesek (természetes személy esetében születési hely, idő, anyja neve, lakóhely, munkahely, adóazonosító jel; gazdálkodó szervezet esetében székhely, nyilvántartási szám, adószám, a fizetési számla száma és a számlát vezető pénzforgalmi szolgáltató neve). Ha a bíróságnak a személyazonosság tekintetében kétsége merül fel, a fél által
-
-- a) a személyazonosságának és lakcímének igazolása érdekében a rendelkezésre bocsátott adatai nyilvántartási adatokkal való egyezőségéről, és
-- b) a személyazonosságának igazolására alkalmas, bemutatott hatósági igazolványa és tartózkodásra jogosító okmánya nyilvántartási adatokkal való egyezőségéről és érvényességéről elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződhet.
-
-(1a) A perbeli cselekvőképességgel nem rendelkező tizennegyedik életévét betöltött kiskorú felet, továbbá a tizennegyedik életévét be nem töltött, de ítélőképessége birtokában lévő kiskorú felet a bíróság szükség esetén – kizárólag ténykérdésekre vonatkozóan – meghallgathatja.
-
-(1b) Az (1a) bekezdés szerinti meghallgatás előtt a kiskorú felet a 8. § (2) bekezdésben és az (1c) bekezdésben foglaltakról a korára, érettségére figyelemmel, számára érthető módon tájékoztatja.
-
-(1c) Az (1a) bekezdés szerinti meghallgatáskor a tizennegyedik életévét be nem töltött kiskorú fél esetében a 8. § (3) bekezdése alkalmazásának, a tizennegyedik életévét betöltött kiskorú fél esetében a 8. § (3) bekezdés c) pontja alkalmazásának nincs helye.
+141. § (1) Ha a bíróság a pert nem szünteti meg, az ügyet érdemben tárgyalja, s ha a tényállás már az első tárgyaláson kideríthető, nyomban érdemben határoz. A bíróság a jelen lévő felek meghallgatása alapján megállapítja azokat az adatokat is, amelyek a végrehajtási eljárásban az érdekelt azonosságának megállapításához szükségesek (természetes személy esetében születési hely, idő, anyja neve, lakóhely, munkahely, adóazonosító jel; gazdálkodó szervezet esetében székhely, nyilvántartási szám, adószám, a fizetési számla száma és a számlát vezető pénzforgalmi szolgáltató neve).
 
 (2) A bíróság – ha ez a tényállás megállapításához szükséges –, a feleket felhívja nyilatkozataik megtételére és lefolytatja a bizonyítási eljárást. A fél köteles a tényállításait, nyilatkozatait, bizonyítékait – a per állása szerint – a gondos és az eljárást elősegítő pervitelnek megfelelő időben előadni, illetve előterjeszteni. Ha a bizonyítás lefolytatása az első tárgyaláson ennek ellenére nem lehetséges, vagy csak részben lehetséges, a bíróság a tárgyalás elhalasztása mellett elrendelheti a per további előkészítését.
 
@@ -1497,52 +1374,21 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (4) Keresetváltoztatás esetén az alperes ellenkérelmére a 139. § rendelkezéseit kell megfelelően alkalmazni.
 
-(5) Nem keresetváltoztatás az, ha a felperes
-
-- a) a keresettel érvényesített jog megváltoztatása nélkül annak megalapozására újabb tényeket hoz fel, vagy a felhozottakat kiigazítja,
-- b) az eredetileg követelt dolog helyett, utóbb beállott változás folytán más dolgot vagy kártérítést követel,
-- c) a keresetét leszállítja, illetve az eredetileg nem követelt járulékokra vagy a követeléseknek, illetőleg járulékoknak a per folyamán esedékessé vált részleteire is kiterjeszti,
-- d) megállapítás helyett teljesítést vagy teljesítés helyett megállapítást követel (123. §).
-
-146/A. § (1) Kötelező jogi képviselet esetében az általános szabályoktól (146. §) eltérően a felperes a keresetét – a (2)–(4) bekezdésben foglalt kivétellel – az alperes érdemi ellenkérelme előadását követő 30 napon belül változtathatja meg.
-
-(2) Ha az alperes beszámítási kifogást, viszontkeresetet terjeszt elő, a felperes a beszámítási kifogás, viszontkereset közlésétől számított 30 napon belül változtathatja meg keresetét.
-
-(3) A felperes keresetét az alperes beleegyezésével bármikor megváltoztathatja.
-
-(4) A felperes legkésőbb az elsőfokú ítélet meghozatalát megelőző tárgyalás berekesztéséig megváltoztathatja keresetét, ha olyan tényre, bizonyítékra, illetve olyan jogerős bírói vagy más hatósági határozatra hivatkozik, amely önhibáján kívül az első tárgyalást követően jutott a tudomására, és ezt igazolja.
-
-(5) Keresetváltoztatásnak nincs helye, ha az alperes viszontkeresetét, beszámítási kifogását vagy azok módosítását a felperes keresetváltoztatására tekintettel terjesztette elő.
-
-(6) A bíróság végzéssel elutasítja a keresetváltoztatást, ha a felperes azt az (1)–(5) bekezdésben foglalt szabályok megsértésével terjesztette elő; e végzés ellen nincs helye külön fellebbezésnek.
-
-146/B. § A 146/A. § rendelkezéseit kettőszázmillió forintot meghaladó pertárgyértékű ügy esetén nem lehet alkalmazni.
-
 ### Viszontkereset
 
 147. § (1) Az első fokú ítélet hozatalát megelőző tárgyalás berekesztéséig az alperes a felperes ellen viszontkeresetet indíthat, ha az ekként érvényesíteni kívánt jog a felperes keresetével azonos vagy azzal összefüggő jogviszonyból ered, vagy ha a viszontkereset tárgyául szolgáló követelés a felperes kereseti követelésével szemben beszámításra alkalmas. A bíróság érdemi tárgyalás nélkül végzéssel elutasíthatja a viszontkeresetet, ha nyilvánvaló, hogy a fél azt azért terjesztette elő késedelmesen, hogy a per befejezését hátráltassa.
 
-(2) A járásbíróság előtt olyan viszontkeresetet, amely a követelés egész összegére tekintettel a törvényszék hatáskörébe tartoznék, csak akkor lehet indítani, ha e viszontkeresettel érvényesített követelés beszámításra is alkalmas, és a követelés összegének a felperes kereseti követelését meghaladó részére a járásbíróságnak hatásköre van.
+(2) A helyi bíróság előtt olyan viszontkeresetet, amely a követelés egész összegére tekintettel a megyei bíróság hatáskörébe tartoznék, csak akkor lehet indítani, ha e viszontkeresettel érvényesített követelés beszámításra is alkalmas, és a követelés összegének a felperes kereseti követelését meghaladó részére a helyi bíróságnak hatásköre van.
 
 (3) Vagyonjogi perben a per bírósága a viszontkeresetre egyéb illetékességi ok hiányában is illetékes.
 
 (4) Viszontkereset esetén a felperes ellenkérelmére a 139. §-nak az alperes ellenkérelmét szabályozó rendelkezéseit kell megfelelően alkalmazni.
 
-147/A. § (1) Kötelező jogi képviselet esetében az általános szabályoktól (147. §) eltérően az alperes viszontkeresetét és beszámítási kifogását – a (2) és (3) bekezdésben foglalt kivétellel – az első tárgyalást követő 30 napon belül terjesztheti elő.
-
-(2) Az alperes a 146/A. § (1)–(4) bekezdése szerinti keresetváltoztatás esetén a keresetváltoztatás közlésétől számított 30 napon belül terjesztheti elő viszontkeresetét és beszámítási kifogását vagy az (1) bekezdés szerint előterjesztett viszontkeresetét és beszámítási kifogását módosíthatja.
-
-(3) Ha a beszámítani kért követelés az (1) vagy (2) bekezdésben foglalt határidő leteltét követően járt le, az alperes beszámítási kifogását az (1) és (2) bekezdésben foglaltakon túlmenően e határidő lejártát követő 30 napon belül előterjesztheti.
-
-(4) A bíróság végzéssel elutasítja a viszontkeresetet és a beszámítási kifogást, ha az alperes azt az (1)–(3) bekezdésben foglalt szabályok megsértésével terjesztette elő; e végzés ellen nincs helye külön fellebbezésnek.
-
-147/B. § A 147/A. § rendelkezéseit kettőszázmillió forintot meghaladó pertárgyértékű ügy esetén nem lehet alkalmazni.
-
 ### Egyezség
 
 148. § (1) A bíróság a per bármely szakában megkísérelheti, hogy a felek a jogvitát vagy a vitás kérdések egy részét egyezséggel rendezzék.
 
-(2) A bíróság – amennyiben annak sikerére esély mutatkozik, különösen ha a felek bármelyike kéri – tájékoztatja a feleket a közvetítői eljárás lényegéről, igénybevételének lehetőségéről és ezzel összefüggésben a szünetelés szabályairól [137. § (1) bek. a) pont]. Ha a felek a közvetítői eljárás során megállapodást kötnek, azt a 137. § (3) bekezdésében meghatározott határidőn belül a bírósághoz egyezségként történő jóváhagyás végett benyújthatják, ebben az esetben a bíróság az eljárást folytatja és a (3) bekezdés szerint jár el.
+(2) A bíróság – amennyiben annak sikerére esély mutatkozik, különösen, ha a felek bármelyike kéri – tájékoztatja a feleket a közvetítői eljárás lényegéről, igénybevételének lehetőségéről, és ezzel összefüggésben a szünetelés szabályairól [137. § (1) bek. a) pont]. Ha a felek a közvetítői eljárás során egyezséget kötnek, azt a 137. § (3) bekezdésében meghatározott határidőn belül a bírósághoz jóváhagyás végett benyújthatják, ebben az esetben a bíróság az eljárást folytatja és a (3) bekezdés szerint jár el.
 
 (3) Ha az egyezség – ideértve a (2) bekezdésben meghatározott egyezséget is – megfelel a jogszabályoknak, a bíróság azt végzéssel jóváhagyja, ellenkező esetben pedig a jóváhagyást megtagadja, és az eljárást folytatja.
 
@@ -1554,7 +1400,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (2) A bíróság együttes tárgyalás és eldöntés végett elrendelheti az előtte folyamatban levő olyan perek egyesítését, amelyeknek tárgya egymással összefügg.
 
-(3) A gazdálkodó szervezetek egymás közötti pereiben az azonos hatáskörű járásbíróságok előtt folyamatban lévő perek egyesítésének is helye van; a törvényszék az előtte indított perhez a területén működő járásbíróság előtt folyamatban lévő pert is egyesítheti. Ha az egyesítést több, azonos hatáskörű járásbíróság is elrendelte, a továbbiakban az jár el, amely az egyesítésről korábban határozott.
+(3) A gazdálkodó szervezetek egymás közötti pereiben az azonos hatáskörű helyi bíróságok előtt folyamatban lévő perek egyesítésének is helye van; a megyei (fővárosi) bíróság az előtte indított perhez a területén működő helyi bíróság előtt folyamatban lévő pert is egyesítheti. Ha az egyesítést több, azonos hatáskörű helyi bíróság is elrendelte, a továbbiakban az jár el, amely az egyesítésről korábban határozott.
 
 (4) A felek közösen előterjesztett kérelmére a bíróság – ha annak feltételei fennállnak – a pereket egyesíti. A kérelmet elutasító végzés ellen fellebbezésnek van helye. Ha a bíróság a felek kérelmére a pereket egyesítette, utóbb az egyesítést nem mellőzheti.
 
@@ -1572,15 +1418,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (2) A bíróság a tárgyalást akkor is felfüggesztheti, ha a per eldöntése olyan előzetes kérdés elbírálásától függ, amelynek tárgyában más polgári per vagy a bíróság hatáskörébe tartozó más polgári eljárás már folyamatban van.
 
-(3) Ha a bíróság kötelező közvetítői eljárás igénybevételére kötelezi a feleket, ezzel egyidejűleg a per tárgyalását felfüggeszti. A bíróság a közvetítői eljárásra kötelező és tárgyalást felfüggesztő határozatában felhívja a feleket arra, hogy a bírósági közvetítés lefolytatása iránti közös kérelmüket nyolc napon belül terjesszék elő a bíróságon vagy a közvetítői eljárás igénybevételére kötelező végzés másolatát csatolják a közvetítőhöz intézendő felkéréshez. A bíróság a határozat közlésével egyidejűleg a jogi képviselő nélkül eljáró felet tájékoztatja a kötelező közvetítői eljárás kezdeményezésének törvényben meghatározott szabályairól.
-
-(4) A kötelező közvetítői eljárás megindítása érdekében felfüggesztett tárgyalást folytatni kell, ha
-
-- a) bármelyik fél igazolja, hogy a közvetítői eljárás befejeződött,
-- b) bármelyik fél igazolja, hogy az első közvetítői megbeszélésen részt vett, de a közvetítői eljárás nem indult meg, vagy
-- c) a közvetítői eljárás igénybevételére kötelező határozat közlésétől számított két hónap telt el anélkül, hogy a felek az a) és b) pontban megjelölt valamely igazolást becsatolták volna.
-
-(5) Ha a közvetítői eljárás igénybevételére kötelező bírósági határozat közlésétől számított két hónapon belül a megindított közvetítői eljárás várhatóan nem fejezhető be és a felek ennek tényét legkésőbb a határidő lejárta előtt nyolc nappal a bíróságnak közösen bejelentik, a tárgyalás mindaddig nem folytatható, amíg a közvetítői eljárás be nem fejeződik. A feleknek bejelentésükkel egyidejűleg hitelt érdemlő módon igazolniuk kell, hogy a közvetítői eljárás folyamatban van.
+(3)
 
 153. § (1) Ha a per eldöntése házasság létezésétől vagy érvényességétől, illetőleg gyermek családi jogállásának bírói megállapításától függ, és eziránt per van folyamatban, a tárgyalást annak jogerős eldöntéséig fel kell függeszteni.
 
@@ -1596,33 +1434,15 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (2) A felfüggesztés tartama alatt tett minden bírói rendelkezés, úgyszintén a felek által teljesített minden perbeli cselekmény hatálytalan, kivéve a felfüggesztéssel, illetőleg az annak megszüntetésével kapcsolatos bírói rendelkezéseket és perbeli cselekményeket.
 
-(3) Felfüggesztést elrendelő bírósági határozat ellen – a közvetítői eljárásra kötelező és tárgyalást felfüggesztő határozat kivételével – külön fellebbezésnek van helye; a bíróság az ilyen határozatot maga is megváltoztathatja.
+(3) Felfüggesztést rendelő bírósági határozat ellen külön fellebbezésnek van helye; a bíróság az ilyen határozatot maga is megváltoztathatja.
 
 ### Az Európai Bíróság előzetes döntéshozatali eljárásának kezdeményezése
 
 155/A. § (1) A bíróság az Európai Bíróság előzetes döntéshozatali eljárását az Európai Közösséget létrehozó Szerződésben foglalt szabályok szerint kezdeményezheti.
 
-(2) Az Európai Bíróság előzetes döntéshozatali eljárásának kezdeményezéséről a bíróság végzéssel határoz, egyidejűleg a per tárgyalását felfüggeszti. A bíróság a végzésben meghatározza azt a kérdést, amely az Európai Bíróság előzetes döntését igényli, valamint – a feltett kérdés megválaszolásához szükséges mértékben – ismerteti a tényállást és az érintett magyar jogszabályokat. A bíróság végzését az Európai Bíróság számára való kézbesítéssel egyidejűleg tájékoztatásul megküldi az igazságügyért felelős miniszter részére is. Ha a bíróság az előzetes döntéshozatali eljárás kezdeményezésére irányuló kérelmet elutasítja, erről végzéssel határoz. A bíróság az elutasító döntését legkésőbb az eljárást befejező érdemi határozatában megindokolni köteles.
+(2) Az Európai Bíróság előzetes döntéshozatali eljárásának kezdeményezéséről a bíróság végzéssel határoz, egyidejűleg a per tárgyalását felfüggeszti. A bíróság a végzésben meghatározza azt a kérdést, amely az Európai Bíróság előzetes döntését igényli, valamint – a feltett kérdés megválaszolásához szükséges mértékben – ismerteti a tényállást és az érintett magyar jogszabályokat. A bíróság végzését az Európai Bíróság számára való kézbesítéssel egyidejűleg tájékoztatásul megküldi az igazságügyért felelős miniszter részére is.
 
-(3) Az előzetes döntéshozatali eljárást kezdeményező végzés és az előzetes döntéshozatali eljárás kezdeményezésére irányuló kérelem elutasításáról rendelkező végzés ellen nincs helye külön fellebbezésnek.
-
-### Az Alkotmánybíróság eljárásának kezdeményezése, továbbá a Kúria eljárásának kezdeményezése önkormányzati rendelet felülvizsgálata iránt
-
-155/B. § (1) A bíróság az Alkotmánybíróságnak a jogszabály, jogszabályi rendelkezés, közjogi szervezetszabályozó eszköz vagy jogegységi határozat alaptörvény-ellenességének megállapítására, továbbá nemzetközi szerződésbe ütközésének megállapítására irányuló eljárását az Alkotmánybíróságról szóló törvényben foglalt szabályok szerint hivatalból vagy kérelemre kezdeményezheti.
-
-(2) A bíróság (1) bekezdés szerinti eljárását az a fél vagy beavatkozó kezdeményezheti, aki szerint a folyamatban lévő ügyében alkalmazandó jogszabály alaptörvény-ellenes vagy nemzetközi szerződésbe ütközik.
-
-(3) Az Alkotmánybíróság eljárásának kezdeményezéséről a bíróság végzéssel határoz, egyidejűleg a per tárgyalását felfüggeszti.
-
-(4) Az Alkotmánybíróság eljárását kezdeményező és az eljárást felfüggesztő végzés, valamint az Alkotmánybíróság eljárásának kezdeményezésére irányuló kérelem elutasítása ellen nincs helye külön fellebbezésnek.
-
-155/C. § (1) A bíróság a Kúriának az önkormányzati rendelet felülvizsgálatára vonatkozó nemperes eljárását a bíróságok szervezetéről és igazgatásáról szóló törvényben foglalt szabályok szerint hivatalból vagy kérelemre kezdeményezheti.
-
-(2) A bíróság (1) bekezdés szerinti eljárását az a fél vagy beavatkozó kezdeményezheti, aki szerint a folyamatban lévő ügyében alkalmazandó önkormányzati rendelet jogszabályba ütközik.
-
-(3) A Kúria eljárásának kezdeményezéséről a bíróság végzéssel határoz, egyidejűleg a per tárgyalását felfüggeszti.
-
-(4) A Kúria eljárását kezdeményező és az eljárást felfüggesztő végzés, valamint a Kúria eljárásának kezdeményezésére irányuló kérelem elutasítása ellen nincs helye külön fellebbezésnek.
+(3) Az előzetes döntéshozatali eljárást kezdeményező végzés és az előzetes döntéshozatali eljárás kezdeményezésére irányuló kérelem elutasítása ellen nincs helye külön fellebbezésnek.
 
 ### Ideiglenes intézkedések
 
@@ -1641,12 +1461,6 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 (7) A teljesítési határidő – ha a bíróság másként nem rendelkezik – a végzés írásbeli közlését követő napon kezdődik.
 
 (8) A végzés előzetesen végrehajtható (231–232. §). A végzés mindaddig hatályban marad, amíg azt a bíróság a felek bármelyikének kérelmére – a másik fél meghallgatása (113. §) után – hozott végzésével vagy ítéletében hatályon kívül nem helyezi. Ha az elsőfokú bíróság az ideiglenes intézkedésről szóló határozatát ítéletében (permegszüntető végzésében) nem helyezte hatályon kívül, az elsőfokú ítélet (permegszüntető végzés) jogerőre emelkedésével az ideiglenes intézkedés a hatályát veszti.
-
-(9) A Be. 214. § (1a) bekezdése vagy 284. § (3) bekezdése alapján a bíróságnak megküldött polgári jogi igény esetén az ideiglenes intézkedés elbírálása során az (1)–(8) bekezdés szabályait kell alkalmazni azzal az eltéréssel, hogy
-
-- a) az ideiglenes intézkedés elrendelése nem köthető biztosítékadáshoz, és
-- b) a bíróság az ideiglenes intézkedés elrendelésére vonatkozó végzését – hivatalból – maga is egváltoztathatja abban az esetben is, ha a nyomozást vagy a büntetőeljárást jogerősen megszüntették, vagy a terheltet a vád alól jogerősen felmentették, továbbá
-- c) az ideiglenes intézkedés hatályon kívül helyezése vagy hatályvesztése esetén rendelkezni kell az ideiglenes intézkedést megelőző birtokállapot helyreállításáról, ha az ítélet eltérően nem rendelkezik.
 
 ### A per megszüntetése
 
@@ -1719,7 +1533,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 ### Tanúk
 
-167. § (1) Ha a fél a tényállításait tanúkkal kívánja bizonyítani, meg kell jelölnie a bizonyítani kívánt tényeket és be kell jelentenie a tanúk nevét és idézhető címét. Ha a megidézni kért tanú kiskorú, a félnek be kell jelentenie a tanú életkorát, törvényes képviselője nevét és idézhető címét is.
+167. § (1) Ha a fél a tényállításait tanúkkal kívánja bizonyítani, meg kell jelölnie a bizonyítani kívánt tényeket és be kell jelentenie a tanúk nevét és idézhető címét.
 
 (2) A tanú (1) bekezdésben meghatározott adatait a keresetlevélben vagy más beadványban, illetve a tárgyaláson kell bejelenteni.
 
@@ -1731,27 +1545,13 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (6) A bíróság a bizonyító fél kérelmére az ellenfelet is kötelezheti a tanú nevének és idézhető címének a (3), illetve (4) bekezdésben meghatározott módon történő bejelentésére, ha a bizonyító fél valószínűsíti, hogy az általa nem ismert tanút az ellenfél ismeri vagy ismernie kell. Ebben az esetben a tanú személyi adatainak zártan kezelésére vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a tanú zártan kezelt személyi adatait a bizonyító fél sem ismerheti meg, és az adatok zártan történő kezelését a 172. § (4) bekezdésében meghatározott eseteken kívül csak akkor lehet megszüntetni, ha a bizonyító fél időközben egyéb úton megismerte a tanú személyi adatait.
 
-(7) Ha a perben a bírót tanúként a hivatali működése vagy azzal összefüggő ok miatt kérik megidézni, az (1)–(6) bekezdés szerinti idézhető címe a szolgálati helye szerinti bíróság címe. Ha a bíró szolgálati viszonya a per alatt megszűnik, az idézhető címére vonatkozóan az általános szabályok az irányadók.
-
-167/A. § (1) A tizennegyedik életévét be nem töltött kiskorút csak akkor lehet tanúként kihallgatni, ha a vallomásától várható bizonyíték másként nem pótolható.
-
-(2) A kiskorú tanú kihallgatásánál a törvényes képviselője jelen lehet. A kihallgatáskor a figyelmeztetéseket és tájékoztatásokat a kiskorú tanú korára, érettségére figyelemmel, számára érthető módon kell közölni. A kihallgatásnak megfelelő légkörben, a kiskorú számára érthető módon kell megtörténnie.
-
-(3) A tizennegyedik életévét be nem töltött kiskorú kihallgatása esetén a hamis tanúzás következményeire való figyelmeztetést mellőzni kell, helyette az igazmondás követelményéről kell tájékoztatást adni a tanú korára és érettségére figyelemmel, számára érthető módon. A tizennegyedik életévét be nem töltött kiskorú tanú esetében a személyi adatainak zártan kezeléséről, valamint a vallomástétel megtagadásáról a nyilatkozatot a törvényes képviselője teszi meg, valamint a vallomástételre kötelező határozat elleni fellebbezési jogot a törvényes képviselő gyakorolja.
-
-(4) Ha a kiskorú tanú és a törvényes képviselője között érdekellentét van, a bíróság megkeresésére a gyámhatóság által kirendelt eseti gyám gyakorolja a (2) és (3) bekezdésben meghatározott jogokat.
-
 168. § (1) A tanút az elnök idézi meg. Az idézésben (96. §) meg lehet jelölni azokat a körülményeket is, amelyekre a tanú kihallgatása szükségesnek mutatkozik, s a tanút fel lehet hívni, hogy meghatározott feljegyzéseit, iratait vagy a bizonyításnál felhasználható egyéb tárgyait hozza magával.
-
-(1a) A tizennegyedik életévét be nem töltött kiskorú tanút törvényes képviselője útján idézi a bíróság azzal a felhívással, hogy a tanú megjelenéséről gondoskodjék. A tizennegyedik életévét betöltött kiskorú tanú idézéséről a bíróság a törvényes képviselőjét értesíti.
-
-(1b) Ha a perben a bírót tanúként a hivatali működése vagy azzal összefüggő ok miatt kérik megidézni, a bíróság a bírót a szolgálati helye szerinti bíróság címéről idézi. Ha a bíró szolgálati viszonya a per alatt megszűnik, az idézésre az általános szabályok az irányadók.
 
 (2) Ha a tanú a fél által bejelentett adatok téves volta miatt nem volt megidézhető, a bíróságnak a tanú ismételt megidézése előtt meg kell vizsgálnia, hogy a fél téves bejelentése nem a per elhúzását célozta-e. Ezt a rendelkezést kell megfelelően alkalmazni arra az esetre is, amikor a bíróság a bizonyító fél ellenfelét kötelezte a tanú adatainak bejelentésére.
 
 169. § (1) Azt, akitől testi vagy szellemi fogyatkozása miatt helyes vallomás nem várható, tanúként kihallgatni nem lehet.
 
-(2) A tanú, ha a titoktartás alól felmentést nem kapott, nem hallgatható ki olyan kérdésről, amely minősített adatnak minősül.
+(2) A tanú, ha a titoktartás alól felmentést nem kapott, nem hallgatható ki olyan kérdésről, amely államtitoknak vagy szolgálati titoknak minősül.
 
 (3) A titoktartási kötelezettség az annak alapjául szolgáló viszony megszűnése után is fennmarad.
 
@@ -1767,15 +1567,14 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 - b) az, aki a tanúvallomás folytán magát vagy a 13. § (2) bekezdésében megjelölt hozzátartozóját bűncselekmény elkövetésével vádolná, az azzal kapcsolatos kérdésben;
 - c) az ügyvéd, az orvos és más olyan személy, aki hivatásánál fogva titoktartásra köteles, ha a tanúvallomással titoktartási kötelességét sértené meg, kivéve ha az érdekelt e kötelesség alól felmentette;
 - d) a jogvitával érintett ügyben lefolytatott közvetítői eljárásban eljárt közvetítő, szakértő;
-- e) az üzleti titok megtartására köteles személy az olyan kérdésben, amely tekintetében a tanúvallomással titoktartási kötelességét sértené meg,
-- f) a médiatartalom-szolgáltató, valamint a vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy, ha a tanúvallomásával a számára a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy kilétét felfedné, az azzal kapcsolatos kérdésben.
+- e) az üzleti titok megtartására köteles személy az olyan kérdésben, amely tekintetében a tanúvallomással titoktartási kötelességét sértené meg.
 
 (2) Ha a tanú több pertárs közül nem valamennyivel áll a 13. § (2) bekezdésében megjelölt viszonyban, a tanúságtételt a többiekre nézve csak akkor tagadhatja meg, ha a vallomás nem különíthető el.
 
 (3) Az (1) bekezdés a) és b) pontja alapján a tanúságtétel nem tagadható meg, ha a kérdés:
 
 - a) olyan jogügyletre vonatkozik, amelynél a tanú mint valamelyik fél képviselője vagy mint ügyleti tanú maga is közreműködött, vagy amelynél valamelyik fél a tanúnak képviselője volt, vagy ha a tanú a kérdéses jogviszonyban a felek valamelyikének jogelődje;
-- b) a tanú családtagjának származására, házasságára, életbenlétére, halálára, kiskorú családtagját érintő szülői felügyelet gyakorlásának rendezésére, harmadik személynél történő elhelyezésére, kiadására vagy családi viszonyon alapuló vagyonjogi ügyre vonatkozik.
+- b) a tanú családtagjának származására, házasságára, életbenlétére, halálára, kiskorú családtagjának elhelyezésére, kiadására vagy családi viszonyon alapuló vagyonjogi ügyre vonatkozik.
 
 (4) Az (1) bekezdés e) pontja alapján a tanúságtétel nem tagadható meg, ha:
 
@@ -1783,11 +1582,9 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 - b) ha a kérdés a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó külön törvényi rendelkezések alapján nem minősül üzleti titoknak, vagy
 - c) ha a per tárgyát annak eldöntése képezi, hogy az érintett adat közérdekű adatnak minősül-e.
 
-(5) Az (1) bekezdés a) és c)–f) pontja esetében a tanút mentességére kihallgatása előtt, illetőleg mihelyt a mentesség kiderül, figyelmeztetni kell. Ennek megtörténtét, valamint a tanúnak a figyelmeztetésre adott válaszát a jegyzőkönyvbe fel kell venni.
+(5) Az (1) bekezdés a) és c)–e) pontja esetében a tanút mentességére kihallgatása előtt, illetőleg mihelyt a mentesség kiderül, figyelmeztetni kell. Ennek megtörténtét, valamint a tanúnak a figyelmeztetésre adott válaszát a jegyzőkönyvbe fel kell venni.
 
 (6) Az (1) bekezdés c)–e) pontjában meghatározott titoktartási kötelezettség az annak alapjául szolgáló viszony megszűnése után is fennmarad.
-
-(6a) Az (1) bekezdés f) pontjában foglalt mentesség az annak alapjául szolgáló jogviszony megszűnése után is fennmarad.
 
 (7) Ha a tanút a jelen § esetében a mentességre való alapos hivatkozása ellenére vallomásra kötelezik, vagy az (5) bekezdésben foglalt rendelkezést nem tartják meg, a tanú vallomása bizonyítékként figyelembe nem vehető.
 
@@ -1815,14 +1612,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (6) A tanú személyi adatai zártan történő kezelése tárgyában a kihallgatást foganatosító bíróság a felek meghallgatása nélkül dönt, külön határozatot hoznia azonban nem kell, a jegyzőkönyvben elegendő a (3)–(5) bekezdésben foglaltak megtörténtére utalni.
 
-173. § (1) A kihallgatás kezdetén a tanútól meg kell kérdezni a nevét, születési helyét, idejét, anyja nevét, lakóhelyét, valamint azt, hogy a felekkel milyen viszonyban van, s hogy ennek folytán vagy más okból nem elfogult-e. Ezekre a kérdésekre a tanú akkor is köteles válaszolni, ha egyébként a vallomástétel megtagadására jogosult. Ha a bíróság a tanú személyi adatainak zártan kezelését nem szüntette meg, vagy a tanú kérelmére azokat zártan kezeli, a tanú személyi adatait a személyazonosításra alkalmas iratok megtekintésével állapítja meg, írásban rögzíti és zártan kezeli. Ha a bíróságnak a személyazonosság tekintetében kétsége merül fel, a tanú által
-
-- a) a személyazonosságának és lakcímének igazolása érdekében a rendelkezésre bocsátott adatai nyilvántartási adatokkal való egyezőségéről, és
-- b) a személyazonosságának igazolására alkalmas, bemutatott hatósági igazolványa, és tartózkodásra jogosító okmánya nyilvántartási adatokkal való egyezőségéről és érvényességéről
-
-elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződhet.
-
-(1a) Ha a perben a bírót tanúként a hivatali működése vagy azzal összefüggő ok miatt hallgatja ki a bíróság, a meghallgatása előtt személyazonosságát a nevének, feladatkörének, munkakörének, vezetői megbízásának, a szolgálati helye szerinti bíróság nevének és címének a rögzítésével kell megállapítani. A bíró személyazonosságának megállapítását követően a kihallgatására az (1) bekezdésében foglaltak megfelelően irányadóak. Ha a bíró szolgálati viszonya a per alatt megszűnik, a válaszadási kötelezettségére vonatkozóan az általános szabályok az irányadók.
+173. § (1) A kihallgatás kezdetén a tanútól meg kell kérdezni a nevét, születési helyét, idejét, anyja nevét, lakóhelyét, valamint azt, hogy a felekkel milyen viszonyban van, s hogy ennek folytán vagy más okból nem elfogult-e. Ezekre a kérdésekre a tanú akkor is köteles válaszolni, ha egyébként a vallomástétel megtagadására jogosult. Ha a bíróság a tanú személyi adatainak zártan kezelését nem szüntette meg, vagy a tanú kérelmére azokat zártan kezeli, a tanú személyi adatait a személyazonosításra alkalmas iratok megtekintésével állapítja meg, írásban rögzíti és zártan kezeli.
 
 (2) Ezután a tanút részletesen ki kell hallgatni, tisztázva azt is, hogy az általa előadottakról miként szerzett tudomást.
 
@@ -1904,7 +1694,7 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 184. § (1) Ha a perben meghallgatandó személy magyarul nem beszél, és az általa használt nyelvben az eljáró bíróságnak nincs kellő jártassága, a meghallgatásnál tolmácsot kell alkalmazni.
 
-(2) A hallássérült személyt kérésére jelnyelvi tolmács közreműködésével kell meghallgatni, illetve kihallgatni, vagy a meghallgatás, illetve kihallgatás helyett írásban is nyilatkozatot tehet. Ha a meghallgatandó személy siketvak, kérésére jelnyelvi tolmács közreműködésével kell meghallgatni, illetve kihallgatni. A beszédfogyatékos személy kérésére a meghallgatás, illetve kihallgatás helyett írásban tehet nyilatkozatot.
+(2) Tolmácsot kell alkalmazni akkor is, ha a süket vagy néma személy meghallgatása írásbeli érintkezés útján nem lehetséges.
 
 (3) A tolmácsra a törvénynek a szakértőkre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
@@ -1914,19 +1704,17 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 - a) azt a tanút, illetve szakértőt, aki szabályszerű idézés (kirendelés) ellenére nem jelent meg, és elmaradását alapos okkal előzetesen ki nem mentette, vagy engedély nélkül eltávozott,
 - b) azt a tanút, aki a vallomástételt, illetve a közreműködést, továbbá azt a szakértőt, aki a véleménynyilvánítást az ok előadása nélkül vagy a bíróság jogerős határozata ellenére, a következményekre történt figyelmeztetés után megtagadja,
-- c) azt a szakértőt, aki a véleménynyilvánítással alapos ok nélkül késlekedik, illetve a véleménynyilvánításának várható késedelméről a részére nyitva álló határidő lejártát megelőzően a bíróságot nem értesíti, az okozott költségek megtérítésére kötelezi, s egyben pénzbírsággal sújtja. A bíróság egyúttal elrendelheti a meg nem jelent (eltávozott) tanú vagy szakértő elővezetését is. A tanú, illetve szakértő elővezetését el kell rendelni, ha a tanú, illetve a szakértő a szabályszerű idézés (kirendelés) ellenére ismételten nem jelent meg, és elmaradását alapos okkal előzetesen ki nem mentette vagy engedély nélkül eltávozott.
+- c) azt a szakértőt, aki a véleménynyilvánítással alapos ok nélkül késlekedik, illetve a véleménynyilvánításának várható késedelméről a részére nyitva álló határidő lejártát megelőzően a bíróságot nem értesíti,
 
-(1a) A tizennegyedik életévét be nem töltött kiskorúval szemben az (1) bekezdésben meghatározott kényszerítő eszközök nem alkalmazhatók. Ha a tanúként idézett tizennegyedik életévét be nem töltött kiskorú szabályszerű idézés ellenére nem jelent meg vagy engedély nélkül eltávozott, és a törvényes képviselője nem igazolja, hogy vétlen a kiskorú meg nem jelenésében, illetve eltávozásában, a törvényes képviselő pénzbírsággal sújtható és az okozott költség megtérítésére kötelezhető.
-
-(1b) A bíró elővezetésének elrendeléséről az elővezetendő bíró szolgálati helye szerinti bíróság elnökét, a bíróság elnöke elővezetésének elrendeléséről a kinevezőjét is értesíteni kell. Ha a bíró szolgálati viszonya a per alatt megszűnik, az elővezetésre vonatkozóan az általános szabályok az irányadók.
+az okozott költségek megtérítésére kötelezi, s egyben pénzbírsággal sújthatja. A bíróság egyúttal elrendelheti a meg nem jelent (eltávozott) tanú vagy szakértő elővezetését is.
 
 (2) Az eljáró bíróság annak a szakértőnek a munkadíját, aki a véleménynyilvánítással alapos ok nélkül késlekedik és a véleménynyilvánításra nyitva álló határidő alatt a határidő meghosszabbítását nem kéri (104. §), illetve a meghosszabbított határidő alatt sem nyilvánít véleményt, a határidő lejártát követő naptól kezdve naponta egy százalékkal csökkenti.
 
 (3) Ha a tanú vagy a szakértő az elmaradását (eltávozását), illetve a szakértő a késedelmét az (1) és (2) bekezdésben említett intézkedések alkalmazása után alapos okkal kimenti, a vele szemben tett intézkedéseket hatályon kívül kell helyezni. A bíróság az (1) bekezdés szerinti intézkedést akkor is hatályon kívül helyezheti, ha a megtagadást követően a tanú vallomást tesz, illetve a szakértő a feladatát teljesíti.
 
-(4) Az (1) és (2) bekezdés alapján hozott határozat ellen, továbbá az olyan határozat ellen, amely az (1) és (2) bekezdés alapján hozott határozat hatályon kívül helyezése iránt előterjesztett kérelmet elutasítja, a tanú, illetve a szakértő fellebbezéssel élhet. Az (1a) bekezdés alapján hozott határozat ellen a törvényes képviselő fellebbezéssel élhet.
+(4) Az (1) és (2) bekezdés alapján hozott határozat ellen, továbbá az olyan határozat ellen, amely az (1) és (2) bekezdés alapján hozott határozat hatályon kívül helyezése iránt előterjesztett kérelmet elutasítja, a tanú, illetve a szakértő fellebbezéssel élhet.
 
-(5) Ha a Magyar Honvédség vagy a rendvédelmi szervek tagjával, illetve a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjával szemben kellene pénzbírságot alkalmazni, vagy ilyen személy elővezetését kellene elrendelni, a fegyelmi eljárás lefolytatása végett a bíróság a tanú, illetőleg a szakértő elöljárójához fordul.
+(5) Ha a Magyar Honvédség vagy a rendvédelmi szervek tagjával szemben kellene pénzbírságot alkalmazni, vagy ilyen személy elővezetését kellene elrendelni, a fegyelmi eljárás lefolytatása végett a bíróság a tanú, illetőleg a szakértő elöljárójához fordul.
 
 ### A tanúk és a szakértők díjazása
 
@@ -1976,7 +1764,7 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 192. § (1) Bíróságnál, más hatóságnál, közjegyzőnél vagy valamely szervezetnél lévő irat beszerzése iránt a fél kérelmére a bíróság intézkedik, ha az irat kiadását a fél közvetlenül nem kérheti. Az eredeti okirat beszerzése mellőzhető, ha az eredeti okirat megtekintésére nincs szükség és a fél a tárgyaláson annak hiteles vagy egyszerű másolatát bemutatja [191. § (1) bek].
 
-(2) Az okirat megküldése csak akkor tagadható meg, ha az minősített adatot tartalmaz; a titoktartás alóli felmentésre a 169. §-t kell megfelelően alkalmazni.
+(2) Az okirat megküldése csak akkor tagadható meg, ha az államtitkot vagy szolgálati titkot tartalmaz; a titoktartás alóli felmentésre a 169. §-t kell megfelelően alkalmazni.
 
 (3) Ha a perbíróság megítélése szerint a megküldött okirat tartalma üzleti titoknak vagy hivatásbeli titoknak minősül, a bíróság megkeresi a titoktartás alóli felmentés megadására jogosultat (titokgazda) a titok megismerésének engedélyezése céljából. Ha a titokgazda a megkeresés kézhezvételétől számított nyolc napon belül nem nyilatkozik, az engedélyt megadottnak kell tekinteni; erre a titokgazdát a megkeresésben figyelmeztetni kell. Egyebekben a 170. §-t megfelelően alkalmazni kell. Ha a titokgazda határidőn belül úgy nyilatkozik, hogy az üzleti vagy hivatásbeli titok felek által történő megismeréséhez nem járul hozzá, az okirat ezen része bizonyítékként nem használható fel.
 
@@ -1984,9 +1772,9 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 (5) A bíróság az iratok, valamint a titokgazda nyilatkozatának beérkezéséről, illetve ennek elmaradásáról a feleket tájékoztatja.
 
-192/A. § (1) A perben bizonyítékként nem használható fel a minősített adatot tartalmazó okirat (az okirat ilyen titkot tartalmazó része), melynek a fél általi megismeréséhez a minősítő nem járult hozzá.
+192/A. § (1) A perben bizonyítékként nem használható fel az államtitkot vagy szolgálati titkot tartalmazó okirat (az okirat ilyen titkot tartalmazó része), melynek a fél általi megismeréséhez a minősítő nem járult hozzá.
 
-(2) Az (1) bekezdés nem alkalmazható, ha a pert a megismerési kérelem megtagadása miatt indították, vagy a per tárgyát annak eldöntése képezi, hogy az okirat tartalma minősített adatnak minősül-e. Az ilyen perben a felperes, a felperes oldalán beavatkozó személy és ezek képviselője a minősített adatot az eljárás során nem ismerheti meg. A perben résztvevő egyéb személyek, valamint azok képviselői a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzésüket elvégezték.
+(2) Az (1) bekezdés nem alkalmazható, ha a pert a megismerési kérelem megtagadása miatt indították, vagy a per tárgyát annak eldöntése képezi, hogy az okirat tartalma államtitoknak vagy szolgálati titoknak minősül-e. Az ilyen perben a felperes, a felperes oldalán beavatkozó személy és ezek képviselője az államtitkot, szolgálati titkot az eljárás során nem ismerheti meg. A perben résztvevő egyéb személyek, valamint azok képviselői az államtitkot, szolgálati titkot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti legmagasabb szintű nemzetbiztonsági ellenőrzésüket elvégezték.
 
 193. § Olyan tényállásra vonatkozóan, amely okirattal bizonyítható, a bíróság az egyéb bizonyítást mellőzheti.
 
@@ -1998,11 +1786,11 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 (2) Az eredeti papír alapú közokiratéval azonos bizonyító ereje van a közokiratról – általában műszaki vagy vegyi úton – készült felvételnek (fénykép-, film-, hang- stb.), úgyszintén az eredeti okiratról bármely adathordozó útján készült okiratnak, ha a felvételt, illetve az adathordozóról az okiratot bíróság, közjegyző vagy más hatóság, továbbá közigazgatási szerv vagy ezek ellenőrzése mellett más szervezet készítette. Ugyanilyen bizonyító ereje van az okirat megőrzésére hivatott szerv (pl. levéltár) által vagy ellenőrzése mellett készített felvételnek vagy okiratnak, továbbá a közokiratot kiállító vagy őrzésére hivatott szerv által a felvétel vagy adathordozó útján nyert adatok alapján készített okiratnak.
 
-(3) Az eredeti papír alapú vagy elektronikus közokiratéval azonos bizonyító ereje van annak a közokiratról készített elektronikus okiratnak, amelyet a közokirat kiállítására jogosult ügykörén belül, a megszabott alakban készített el, és amelyen minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírást vagy bélyegzőt, valamint – ha jogszabály így rendelkezik – időbélyegzőt helyezett el. Az eredeti közokiratéval azonos bizonyító ereje van annak az elektronikus okiratnak is, amelyet a közokirat kiállítására jogosult külön jogszabályban meghatározott eljárási rend szerint készített el, illetve amelyet törvény elektronikus közokiratnak nyilvánít.
+(3) Az eredeti papír alapú vagy elektronikus közokiratéval azonos bizonyító ereje van annak a közokiratról készített elektronikus okiratnak, amelyet a közokirat kiállítására jogosult ügykörén belül, a megszabott alakban készített el, és amelyen minősített elektronikus aláírást, valamint – ha jogszabály így rendelkezik – időbélyegzőt helyezett el. Az eredeti közokiratéval azonos bizonyító ereje van annak az elektronikus okiratnak is, amelyet a közokirat kiállítására jogosult külön jogszabályban meghatározott eljárási rend szerint készített el, illetve amelyet törvény elektronikus közokiratnak nyilvánít.
 
 (4) Az eredeti elektronikus közokiratéval azonos bizonyító ereje van annak az elektronikus közokiratról készített papír alapú okiratnak, amelyet a közokirat kiállítására jogosult ügykörén belül, a megszabott alakban vagy külön jogszabályban meghatározott eljárási rend szerint készített el. Ugyanilyen bizonyító ereje van az elektronikus közokirat megőrzésére hivatott szerv által vagy ellenőrzése mellett készített papír alapú okiratnak, továbbá a közokiratot kiállító vagy őrzésére hivatott szerv által az elektronikus közokiratot tároló adathordozó útján nyert adatok alapján készített papír alapú okiratnak.
 
-(5) A magánokiratról a közokirat kiállítására jogosult által ügykörén belül, a megszabott közokirati alakban készített okirat – ideértve az elektronikus okiratot, valamint az elektronikus magánokiratról készített papír alapú okiratot is – teljesen bizonyítja, hogy annak tartalma az eredeti okiratéval megegyezik. Elektronikus okirat esetében e bizonyító erő megállapításának feltétele az is, hogy a közokirat kiállítására jogosult az okiratot minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással vagy bélyegzővel, és – ha jogszabály így rendelkezik – időbélyegzővel lássa el, vagy azt külön jogszabály által meghatározott eljárás szerint készítse el. A magánokiratról közokirati alakban készített okirat bizonyító ereje – a magánokirat tartalmát illetően – megegyezik az eredeti okiratéval.
+(5) A magánokiratról a közokirat kiállítására jogosult által ügykörén belül, a megszabott közokirati alakban készített okirat – ideértve az elektronikus okiratot, valamint az elektronikus magánokiratról készített papír alapú okiratot is – teljesen bizonyítja, hogy annak tartalma az eredeti okiratéval megegyezik. Elektronikus okirat esetében e bizonyító erő megállapításának feltétele az is, hogy a közokirat kiállítására jogosult az okiratot minősített elektronikus aláírással és – ha jogszabály így rendelkezik – időbélyegzővel lássa el, vagy azt külön jogszabály által meghatározott eljárás szerint készítse el. A magánokiratról közokirati alakban készített okirat bizonyító ereje – a magánokirat tartalmát illetően – megegyezik az eredeti okiratéval.
 
 (6) Ellenbizonyításnak a közokirattal szemben is helye van, de csak annyiban, amennyiben azt a törvény ki nem zárja vagy nem korlátozza.
 
@@ -2016,11 +1804,10 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 - b) két tanú az okiraton aláírásával igazolja, hogy a kiállító a nem általa írt okiratot előttük írta alá, vagy aláírását előttük saját kezű aláírásának ismerte el; az okiraton a tanúk lakóhelyét (címét) is fel kell tüntetni;
 - c) a kiállító aláírása vagy kézjegye az okiraton bíróilag vagy közjegyzőileg hitelesítve van;
 - d) a gazdálkodó szervezet által üzleti körében kiállított okiratot szabályszerűen aláírták;
-- e) ügyvéd (jogtanácsos) az általa készített okirat szabályszerű ellenjegyzésével bizonyítja, hogy a kiállító a nem általa írt okiratot előtte írta alá vagy aláírását előtte saját kezű aláírásának ismerte el, illetőleg a kiállító minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírásával aláírt vagy minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus bélyegzővel ellátott elektronikus okirat tartalma az ügyvéd által készített elektronikus okiratéval megegyezik;
-- f) az elektronikus okiraton kiállítója minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírást, minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus bélyegzőt helyezett el;
-- g) olyan, törvényben vagy kormányrendeletben meghatározott szolgáltatás keretében jött létre, ahol a szolgáltató az okiratot a kiállító azonosításán keresztül a kiállító személyéhez rendeli, és a személyhez rendelést a kiállító saját kezű aláírására egyértelműen visszavezethető adattal együtt vagy az alapján hitelesen igazolja; továbbá a szolgáltató az egyértelmű személyhez rendelésről kiállított igazolást elektronikus dokumentumba kapcsolt, elválaszthatatlan záradékba foglalja és azt az okirattal együtt legalább fokozott biztonságú elektronikus bélyegzővel és legalább fokozott biztonságú időbélyegzővel látja el.
+- e) ügyvéd (jogtanácsos) az általa készített okirat szabályszerű ellenjegyzésével bizonyítja, hogy a kiállító a nem általa írt okiratot előtte írta alá, vagy aláírását előtte saját kezű aláírásának ismerte el, illetőleg a kiállító minősített elektronikus aláírásával aláírt elektronikus okirat tartalma az ügyvéd által készített elektronikus okiratéval megegyezik;
+- f) az elektronikus okiraton kiállítója minősített elektronikus aláírást helyezett el.
 
-(2) Gazdálkodó szervezet által kiállított vagy őrzött okiratról készült felvétel [195. § (2) bek.], továbbá bármilyen adathordozó útján készített okirat – értve ezalatt az elektronikus okiratról készített papír alapú okiratot is – teljes bizonyító erővel bizonyítja, hogy tartalma megegyezik az eredeti okiratéval, feltéve, hogy a gazdálkodó szervezet, amely a felvételt készítette vagy az okiratot kiállította, illetve őrzi, a felvétel vagy az okirat azonosságát szabályszerűen igazolta. Gazdálkodó szervezet által kiállított vagy őrzött okiratról készült elektronikus okirat akkor bizonyítja teljes bizonyító erővel azt, hogy tartalma megegyezik az eredeti okiratéval, ha az okiratról elektronikus okiratot készítő azt minősített elektronikus aláírással vagy bélyegzővel, vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással vagy bélyegzővel, és – ha jogszabály így rendelkezik – minősített bizalmi szolgáltatás keretében kibocsátott időbélyegzővel látta el, illetve külön jogszabály által meghatározott eljárás szerint készítette el. Gazdálkodó szervezet által kiállított vagy őrzött okiratról készült okirat bizonyító ereje – az okirat tartalmát illetően – az eredeti okiratéval, közokiratról készült okirat esetében pedig a teljes bizonyító erejű magánokiratéval azonos.
+(2) Gazdálkodó szervezet által kiállított vagy őrzött okiratról készült felvétel [195. § (2) bek.], továbbá bármilyen adathordozó útján készített okirat – értve ezalatt az elektronikus okiratról készített papír alapú okiratot is – teljes bizonyító erővel bizonyítja, hogy tartalma megegyezik az eredeti okiratéval, feltéve, hogy a gazdálkodó szervezet, amely a felvételt készítette vagy az okiratot kiállította, illetve őrzi, a felvétel vagy az okirat azonosságát szabályszerűen igazolta. Gazdálkodó szervezet által kiállított vagy őrzött okiratról készült elektronikus okirat akkor bizonyítja teljes bizonyító erővel azt, hogy tartalma megegyezik az eredeti okiratéval, ha az okiratról elektronikus okiratot készítő azt minősített elektronikus aláírással és – ha jogszabály így rendelkezik – időbélyegzővel látta el, illetve külön jogszabály által meghatározott eljárás szerint készítette el. Gazdálkodó szervezet által kiállított vagy őrzött okiratról készült okirat bizonyító ereje – az okirat tartalmát illetően – az eredeti okiratéval, közokiratról készült okirat esetében pedig a teljes bizonyító erejű magánokiratéval azonos.
 
 (3) Ha az okirat kiállítója olvasni nem tud, vagy nem érti azt a nyelvet, amelyen az okirat készült, az (1) bekezdés rendelkezése alá eső okiratnak csak akkor van teljes bizonyító ereje, ha magából az okiratból kitűnik, hogy annak tartalmát a tanúk egyike vagy a hitelesítő személy a kiállítónak megmagyarázta.
 
@@ -2028,21 +1815,13 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 197. § (1) A magánokirat valódiságát csak akkor kell bizonyítani, ha azt az ellenfél kétségbe vonja, vagy a valódiság bizonyítását a bíróság szükségesnek találja.
 
-(2) Ha a magánokiraton levő aláírás valódisága nem vitás vagy bizonyított, illetve a legalább fokozott biztonságú elektronikus aláírás vagy bélyegző vagy zárt rendszerben alkalmazott bizalmi szolgáltatás keretében a kiállító saját kezű aláírására egyértelműen visszavezethető adatok ellenőrzésének eredményéből más nem következik, az aláírást vagy bélyegzőt megelőző szöveget – elektronikus okirat esetén az aláírt vagy bélyegzővel ellátott adatokat – az ellenkező bizonyításáig meg nem hamisítottnak kell tekinteni, kivéve, ha az okirat rendellenességei vagy hiányai ezt a vélelmet megdöntik.
+(2) Ha a magánokiraton levő aláírás valódisága nem vitás, vagy bizonyított, illetve a legalább fokozott biztonságú elektronikus aláírás ellenőrzésének eredményéből más nem következik, az aláírást megelőző szöveget – elektronikus okirat esetén az aláírt adatokat – az ellenkező bizonyításáig meg nem hamisítottnak kell tekinteni, kivéve, ha az okirat rendellenességei vagy hiányai ezt a vélelmet megdöntik.
 
 (3) A magánokiraton levő aláírás valódiságát vagy a szöveg meg nem hamisított voltát – kétség esetében – más olyan írással való összehasonlítás útján is meg lehet állapítani, amelynek valódisága nem kétséges. A bíróság evégből íráspróbát rendelhet el, s azt a szükséghez képest írásszakértővel is megvizsgáltathatja.
 
-(4) Ha a legalább fokozott biztonságú elektronikus aláírással vagy bélyegzővel ellátott elektronikus okirat aláírójának vagy bélyegző létrehozójának azonossága, illetve az okirat hamisítatlansága kétséges, ezek megállapítása érdekében a bíróság elsősorban az elektronikus aláíráshoz vagy bélyegzőhöz tartozó tanúsítványt kibocsátó bizalmi szolgáltatót keresi meg. Az elektronikus okirathoz kapcsolt időbélyegző által igazolt adatokkal kapcsolatos kétség esetén a bíróság elsősorban az időbélyegzést végző bizalmi szolgáltatót keresi meg. Az olyan zárt rendszerben alkalmazott bizalmi szolgáltatás keretében kiállított elektronikus okirat esetében, ahol a szolgáltató az okiratot a kiállító személyéhez rendeli és a személyhez rendelést a kiállító saját kezű aláírására egyértelműen visszavezethető adatokkal együtt hitelesen igazolja, a bíróság elsősorban a zárt rendszer bizalmi szolgáltatóját keresi meg.
+(4) Ha a legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus okirat aláírójának azonossága, illetve az okirat hamisítatlansága kétséges, ezek megállapítása érdekében a bíróság elsősorban az elektronikus aláíráshoz tartozó tanúsítványt kibocsátó hitelesítés-szolgáltatót keresi meg. Az elektronikus okirathoz kapcsolt időbélyegző által igazolt adatokkal kapcsolatos kétség esetén a bíróság elsősorban az időbélyegzést végző szolgáltatót keresi meg.
 
 (5) A bíróság a 8. § megfelelő alkalmazásával pénzbírsággal sújtja azt a felet vagy képviselőt, aki a saját, illetőleg az általa képviselt fél aláírásának valódiságát jobb tudomása ellenére vagy nagyfokú gondatlanságból tagadta.
-
-(6) Az elektronikus okirat esetén az aláírt vagy bélyegzővel ellátott adatokat az ellenkező bizonyításáig meg nem hamisítottnak kell tekinteni a tárolást végző szolgáltató igazolása alapján, ha a szolgáltató
-
-- a) a tárolásra átvételkor meggyőződött az elektronikus dokumentum hitelesítésének érvényességéről,
-- b) a tárolást a Kormány rendeletében meghatározott feltételeknek megfelelő, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti minősített archiválási szolgáltatás vagy elektronikus dokumentumtárolás központi elektronikus ügyintézési szolgáltatás keretében végzi, és
-- c) a Kormány rendeletében meghatározottak szerint igazolja az elektronikus okirat hitelességét.
-
-(7)
 
 198. § A 196. és 197. §-ok rendelkezéseit a külföldön kiállított magánokiratokra is alkalmazni kell azzal, hogy
 
@@ -2057,9 +1836,9 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 ### A bizonyítási eljárás lefolyása
 
-201. § (1) A bizonyítási eljárást a perbíróság rendszerint tárgyaláson folytatja le. Ha azonban ez jelentős nehézséggel vagy aránytalanul nagy költségtöbblettel járna, a bíróság azt a járásbíróságot keresi meg, amelynek területén a kihallgatandó személyek laknak, illetőleg amelynek területén a bizonyítás a legcélszerűbben eszközölhető. A Budapest területén foganatosítandó bírói cselekmények teljesítésére az igazságügyért felelős miniszter rendeletével kijelölt bíróságot kell megkeresni.
+201. § (1) A bizonyítási eljárást a perbíróság rendszerint tárgyaláson folytatja le. Ha azonban ez jelentős nehézséggel vagy aránytalanul nagy költségtöbblettel járna, a bíróság azt a helyi bíróságot keresi meg, amelynek területén a kihallgatandó személyek laknak, illetőleg amelynek területén a bizonyítás a legcélszerűbben eszközölhető. A Budapest területén foganatosítandó bírói cselekmények teljesítésére az igazságügyért felelős miniszter rendeletével kijelölt bíróságot kell megkeresni.
 
-(2) A perbíróság székhelyén működő járásbíróságot a bizonyítás lefolytatása végett megkeresni nem lehet.
+(2) A perbíróság székhelyén működő helyi bíróságot a bizonyítás lefolytatása végett megkeresni nem lehet.
 
 (3) A bizonyítást a perbíróság, illetőleg a megkeresett bíróság a szabályszerűen idézett felek távollétében is lefolytatja. Igazolásnak ilyenkor helye nincs, azonban a felek bármelyike kérheti a bizonyítás megismétlését, ha ahhoz lényeges érdeke fűződik, és az azzal felmerülő újabb költségeket előlegezi; a kérelem tárgyában az eset összes körülményeinek mérlegelésével akkor is a perbíróság határoz, ha a bizonyítást megkeresett bíróság folytatta le.
 
@@ -2100,7 +1879,7 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 - c) valamely dolog hiányaiért a felet szavatosság terheli;
 - d) a bizonyítás előzetes lefolytatását külön jogszabály megengedi.
 
-208. § (1) Az előzetes bizonyítást a per bíróságánál kell kérni. Ha a per még nem indult meg, az előzetes bizonyítást a kérelmező lakóhelye szerint illetékes járásbíróságnál vagy annál a járásbíróságnál lehet kérni, amelynek területén a bizonyítás a legcélszerűbben folytatható le.
+208. § (1) Az előzetes bizonyítást a per bíróságánál kell kérni. Ha a per még nem indult meg, az előzetes bizonyítást a kérelmező lakóhelye szerint illetékes helyi bíróságnál vagy annál a helyi bíróságnál lehet kérni, amelynek területén a bizonyítás a legcélszerűbben folytatható le.
 
 (2) A kérelemben meg kell jelölni:
 
@@ -2130,7 +1909,7 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 212. § (1) A bíróság a per érdemében ítélettel, a per során felmerült minden más kérdésben – ideértve a per megszüntetését is – végzéssel határoz.
 
-(2)
+(2) A bíróság ítéletét „A Magyar Köztársaság nevében” hozza.
 
 ### Ítélet
 
@@ -2144,7 +1923,7 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 214. § (1) A bíróság a határozatát – ha tanácsban jár el – zárt tanácskozás után szavazással hozza meg. Egyhangúság hiányában a határozatot szavazattöbbséggel dönti el.
 
-(2) A fiatalabb bíró az idősebbet megelőzően szavaz, az elnök utolsónak adja le szavazatát. A szavazásnál kisebbségben maradó bíró jogosult írásba foglalt különvéleményét zárt borítékban az okirathoz csatolni. A tanácskozásról készült jegyzőkönyvet és a különvéleményt csak a perorvoslat tárgyában eljáró bíróság, a fegyelmi eljárás kezdeményezésére jogosult személy, – fegyelmi eljárás során – a fegyelmi bíróság, valamint a Kúria jogegységi eljárás kezdeményezésére jogosult, illetve a jogegységi eljárást lefolytató tanácsa tekintheti meg.
+(2) A fiatalabb bíró az idősebbet megelőzően szavaz, az elnök utolsónak adja le szavazatát. A szavazásnál kisebbségben maradó bíró jogosult írásba foglalt különvéleményét zárt borítékban az okirathoz csatolni. A tanácskozásról készült jegyzőkönyvet és a különvéleményt csak a perorvoslat tárgyában eljáró bíróság, a fegyelmi eljárás kezdeményezésére jogosult személy, – fegyelmi eljárás során – a fegyelmi bíróság, valamint a Legfelsőbb Bíróság jogegységi eljárás kezdeményezésére jogosult, illetve a jogegységi eljárást lefolytató tanácsa tekintheti meg.
 
 ### Az érdemi döntés korlátai
 
@@ -2217,9 +1996,7 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 (3) Ha az ügy ténybeli és jogi megítélése egyszerű, az ítélet indokolásának csak a megállapított tényállás rövid leírását kell tartalmaznia, valamint – utalásként – az alkalmazott jogszabályokat kell feltüntetnie.
 
-(4) Ha a felek ahhoz hozzájárulnak, az ítélet indokolásának csak a (3) bekezdésben foglaltakat kell tartalmaznia.
-
-(5) A (3) bekezdésben foglaltak az irányadók abban az esetben is, ha a fellebbezésre jogosultak e jogukról valamennyien lemondtak.
+(4) A (3) bekezdésben foglaltak az irányadók abban az esetben is, ha a fellebbezésre jogosultak e jogukról valamennyien lemondtak.
 
 222. § (1) A végzésekre a 220. § megfelelően irányadó azzal, hogy a feleknek és képviselőiknek lakóhelyét a végzésben csak a szükséghez képest kell feltüntetni, továbbá hogy megindokolni csak olyan végzést kell, amely külön fellebbezéssel megtámadható. Az egyezséget jóváhagyó végzést nem kell megindokolni.
 
@@ -2342,9 +2119,9 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 (2) Ha a fellebbezés nem felel meg a törvény rendelkezéseinek, vagy más okból kiegészítésre vagy kijavításra szorul, a 95. §-ban az elnök hatáskörébe utalt intézkedéseket az első fokon eljárt tanács elnöke teszi meg.
 
-(3) Ha a határozatot első fokon a törvényszék hozta, a jogi képviselővel eljáró felek a határozat ellen benyújtott fellebbezéshez mellékelt közös kérelemben indítványozhatják, hogy az anyagi jogszabály megsértésére alapított fellebbezést közvetlenül a Kúria bírálja el. Vagyonjogi ügyben a felek akkor indítványozhatják a Kúria eljárását, ha a fellebbezésben vitatott érték (illetve annak a 24. § alapján megállapított értéke) az ötszázezer forintot meghaladja.
+(3) Ha a határozatot első fokon a megyei bíróság hozta, a jogi képviselővel eljáró felek a határozat ellen benyújtott fellebbezéshez mellékelt közös kérelemben indítványozhatják, hogy az anyagi jogszabály megsértésére alapított fellebbezést közvetlenül a Legfelsőbb Bíróság bírálja el. Vagyonjogi ügyben a felek akkor indítványozhatják a Legfelsőbb Bíróság eljárását, ha a fellebbezésben vitatott érték (illetve annak a 24. § alapján megállapított értéke) az ötszázezer forintot meghaladja.
 
-(4) A (3) bekezdésben meghatározott fellebbezésben új tényre, illetve új bizonyítékra hivatkozni nem lehet. A fellebbezés elbírálása tárgyaláson kívül, a felülvizsgálati eljárásra irányadó szabályok megfelelő alkalmazásával történik, így a fellebbezés elbírálása során a Kúria a rendelkezésre álló iratok alapján dönt. A határozat ellen felülvizsgálatnak nincs helye.
+(4) A (3) bekezdésben meghatározott fellebbezésben új tényre, illetve új bizonyítékra hivatkozni nem lehet. A fellebbezés elbírálása tárgyaláson kívül, a felülvizsgálati eljárásra irányadó szabályok megfelelő alkalmazásával történik, így a fellebbezés elbírálása során a Legfelsőbb Bíróság a rendelkezésre álló iratok alapján dönt. A határozat ellen felülvizsgálatnak nincs helye.
 
 236. § A fellebbezésnek a határozat végrehajtására halasztó hatálya van, kivéve ha a törvény vagy a törvény alapján a bíróság másként rendelkezik.
 
@@ -2404,13 +2181,17 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 ### A fellebbezési tárgyalás lefolytatása
 
-246. § (1) A fellebbezési tárgyalás megnyitása után az elnök vagy az általa kijelölt bíró az elsőfokú bíróság ítéletében foglaltakat ismerteti.
+246. § (1) A fellebbezési tárgyalás megnyitása után az elnök vagy az általa kijelölt bíró ismerteti az elsőfokú eljárásban előterjesztett keresetet és ellenkérelmet, valamint a bizonyítás eredményét és a per eldöntése szempontjából lényeges egyéb adatokat. Az elsőfokú bíróság ítéletének rendelkező részét fel kell olvasni, és ismertetni kell az indokolást is.
 
-(2) Az elsőfokú bíróság ítéletében foglaltak ismertetését követően a fellebbező fél vagy az elnök, illetőleg az általa kijelölt bíró ismerteti a fellebbezésben foglaltakat. Ezt követően a bíróság tagjai, valamint a felek az iratokból további ismertetést kérhetnek. Ezután a fellebbező fél az írásbeli fellebbezését módosíthatja vagy kiegészítheti [146. § (5) bekezdés].
+(2) Az ügy ismertetése után a fellebbező fél vagy az elnök, illetőleg az általa kijelölt bíró ismerteti a fellebbezést. Az ügy ismertetésének befejezése után a bíróság tagjai, valamint a felek az iratokból további ismertetést kérhetnek. Ezután a fellebbező fél az írásbeli fellebbezést a 247. § korlátai között módosíthatja vagy kiegészítheti.
 
 (3) A fellebbezés előadása után az ellenfél terjeszti elő a fellebbezési ellenkérelmét. Az írásban már előterjesztett fellebbezési ellenkérelmet, illetőleg a csatlakozó fellebbezést csupán ismertetni kell, és csak az azoktól való eltéréseket (247. §) kell külön előterjeszteni.
 
-247. § (1) A másodfokú eljárásban a keresetet megváltoztatni nem lehet. A 146. § (5) bekezdés a) pontjában foglalt nyilatkozat akkor tehető, ha annak a 235. § (1) bekezdése alapján helye van.
+247. § (1) A másodfokú eljárásban a keresetet megváltoztatni nem lehet. Ez a rendelkezés nem zárja ki, hogy a fél
+
+- a) az eredetileg követelt dolog helyett utóbb beállott változás folytán más dolgot vagy kártérítést követelhessen;
+- b) a keresetét felemelhesse vagy leszállíthassa, illetőleg az eredetileg nem követelt járulékokra vagy a követeléseknek, illetőleg járulékoknak a per folyamán esedékessé vált részleteire is kiterjeszthesse;
+- c) megállapítás helyett teljesítést vagy teljesítés helyett megállapítást követelhessen (123. §).
 
 (2) A fellebbezési, illetőleg a csatlakozó fellebbezési kérelmet az elsőfokú ítéletnek fellebbezéssel, illetőleg csatlakozó fellebbezéssel nem érintett részére nem lehet kiterjeszteni. Egyébként a fellebbezési, illetőleg a csatlakozó fellebbezési kérelmet – a tárgyalás bezárásáig – meg lehet változtatni.
 
@@ -2420,7 +2201,7 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 249. § (1) A fellebbezési tárgyaláson előterjeszthető tényállítások és bizonyítási indítványok tekintetében a 235. § rendelkezései megfelelően irányadók.
 
-(2) Ha a másodfokú bíróság akár a fellebbezési (csatlakozó fellebbezési) kérelem vagy a fellebbezési ellenkérelem folytán, bizonyítást rendel el, ezt közvetlenül vagy megkeresés útján foganatosítja. Az eljárásra a 201. § azzal az eltéréssel irányadó, hogy az ítélőtábla a bizonyítási eljárás lefolytatása végett az elsőfokon eljárt törvényszéket, illetőleg ennek a székhelyén levő járásbíróságot is megkeresheti.
+(2) Ha a másodfokú bíróság akár a fellebbezési (csatlakozó fellebbezési) kérelem vagy a fellebbezési ellenkérelem folytán, bizonyítást rendel el, ezt közvetlenül vagy megkeresés útján foganatosítja. Az eljárásra a 201. § azzal az eltéréssel irányadó, hogy az ítélőtábla a bizonyítási eljárás lefolytatása végett az elsőfokon eljárt megyei bíróságot, illetőleg ennek a székhelyén levő helyi bíróságot is megkeresheti.
 
 (3) Azokban az esetekben, amikor bizonyítást a törvény szerint az elsőfokú bíróság helyett az elnök is lefolytathat, a másodfokú bíróság a bizonyítás lefolytatásával a tanács bármely tagját megbízhatja.
 
@@ -2499,7 +2280,7 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 257. § (1) Ha az elsőfokú bíróság a fellebbezéssel megtámadott végzéshez nincs kötve (227. §), a fellebbezésnek maga is eleget tehet. Egyébként a végzés ellen beadott fellebbezés tárgyában a másodfokú bíróság tárgyaláson kívül határoz. A fellebbezés másodpéldányát az elsőfokú bíróság azzal a figyelmeztetéssel kézbesíti a fellebbező fél ellenfelének, hogy a fellebbezés kézhezvételétől számított nyolc nap alatt az elsőfokú bíróságnál észrevételeket terjeszthet elő. Csatlakozó fellebbezés előterjesztésének nincs helye. A határidő indokolt esetben megrövidíthető. A határidő eltelte után az elsőfokú bíróság az iratokat – az esetleg benyújtott észrevételekkel együtt – felterjeszti. A másodfokú bíróság a feleket a szükséghez képest meghallgatja (113. §).
 
-(2) A beavatkozást elutasító vagy a beavatkozót a perből kizáró határozat ellen előterjesztett fellebbezést, ha a fellebbezési, illetve észrevételezési határidő valamennyi féllel szemben lejárt, illetve ha a fellebbezést, észrevételt valamennyi fél hiánytalanul benyújtotta, az elsőfokú bíróság a szükséges periratokkal együtt legkésőbb nyolc napon belül felterjeszti a másodfokú bírósághoz, és arról a másodfokú tanács annak érkezésétől számított tizenöt napon belül tárgyalás tartása nélkül határoz.
+(2)
 
 258. § (1) Ha a fellebbezéssel megtámadott végzés jogszabályt sért, a megváltoztatáshoz szükséges adatok pedig nem állapíthatók meg, a másodfokú bíróság a végzést hatályon kívül helyezi, és az elsőfokú bíróságot új határozat hozatalára utasítja.
 
@@ -2538,7 +2319,7 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 262. § Az ítélet elleni perújításra vonatkozó rendelkezések megfelelő alkalmazásával perújításnak a bíróság által jóváhagyott egyezség ellen is helye van, a 260. § (1) bekezdésének a) pontja alapján azonban csak akkor, ha a perújító fél a perújítás alapjául szolgáló tényről vagy bizonyítékról (ítéletről, határozatról) az egyezség megkötésekor nem tudott.
 
-262/A. § A jogerős ítélet ellen a Kúria határozata alapján a XXIV. Fejezetben meghatározottak szerint perújításnak van helye a 361. § a) pontja szerinti esetben.
+262/A. § A jogerős ítélet ellen a Legfelsőbb Bíróság határozata alapján a XXIV. Fejezetben meghatározottak szerint perújításnak van helye, ha az Alkotmánybíróság az alkotmányellenessé nyilvánított jogszabálynak a konkrét esetben történő alkalmazhatósága visszamenőleges kizárásával ad helyt alkotmányjogi panasznak.
 
 ### A perújítási kérelem előterjesztése és elbírálása
 
@@ -2570,67 +2351,60 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 ### XIV. Fejezet — Felülvizsgálat
 
-270. § (1) Ha törvény másként nem rendelkezik, a felülvizsgálati eljárás során a Kúria az általános szabályok megfelelő alkalmazásával jár el.
+270. § (1) Ha törvény másként nem rendelkezik, a felülvizsgálati eljárás során a Legfelsőbb Bíróság az általános szabályok megfelelő alkalmazásával jár el.
 
-(2) A jogerős ítélet vagy az ügy érdemében hozott jogerős végzés felülvizsgálatát a Kúriától – jogszabálysértésre hivatkozással – a fél, a beavatkozó, valamint a rendelkezés reá vonatkozó része ellen az kérheti, akire a határozat rendelkezést tartalmaz.
+(2) A jogerős ítélet vagy az ügy érdemében hozott jogerős végzés felülvizsgálatát a Legfelsőbb Bíróságtól – jogszabálysértésre hivatkozással – a fél, a beavatkozó, valamint a rendelkezés reá vonatkozó része ellen az kérheti, akire a határozat rendelkezést tartalmaz.
 
-(3) A (2) bekezdésben foglaltak megfelelő alkalmazásával van helye felülvizsgálati kérelemnek a keresetlevelet a 130. § (1) bekezdésének a)–h) pontjai alapján idézés kibocsátása nélkül elutasító és a pert a 157. § a) és g) pontja, valamint 157/A. § (1) bekezdése szerint megszüntető jogerős végzés ellen.
+(3) A (2) bekezdésben foglaltak megfelelő alkalmazásával van helye felülvizsgálati kérelemnek a keresetlevelet (fizetési meghagyást) a 130. § (1) bekezdésének a)–h) pontjai alapján idézés kibocsátása nélkül elutasító és a pert a 157. § a) és g) pontja szerint megszüntető jogerős végzés ellen.
 
 271. § (1) Nincs helye felülvizsgálatnak
 
 - a) az első fokon jogerőre emelkedett határozat ellen, kivéve, ha azt törvény lehetővé teszi;
 - b) ha a fél a fellebbezési jogával nem élt és a másik fél fellebbezése alapján a másodfokú bíróság az elsőfokú határozatot helybenhagyta;
-- c) a jogerős határozatnak csupán a kamatfizetésre, illetve a perköltségre vonatkozó rendelkezései ellen,
-- d) a jogerős határozatnak csupán a teljesítési határidőre, a részletfizetésre vonatkozó rendelkezései ellen vagy a jogerős határozatnak csupán az indokolása ellen,
-- e) ha a határozatot a Kúria hozta;
+- c) a jogerős határozatnak csupán a kamatfizetésre, illetve a perköltségre vonatkozó rendelkezései ellen, kivéve ha a fellebbezés is kizárólag az elsőfokú határozat e rendelkezései ellen irányult;
+- d) a jogerős határozatnak csupán a teljesítési határidőre, illetve a részletfizetésre vonatkozó rendelkezései ellen;
+- e) ha a határozatot a Legfelsőbb Bíróság hozta;
 - f) a házasságot érvénytelenítő vagy felbontó ítélet ellen az érvénytelenítés vagy a felbontás kérdésében;
-- g) az apaság vélelmét megdöntő ítélet ellen – az apaság vélelmét megdöntő részében –, ha az apaság vélelmének megdöntését követően a gyermeket valamely személy teljes hatályú apai elismeréssel a magáénak ismerte el, vagy az apaságot jogerős bírói ítélet állapította meg;
+- g) az apaság vélelmét megdöntő ítélet ellen – az apaság vélelmét megdöntő részében –, ha az apaság vélelmének megdöntését követően a gyermeket valamely személy teljes hatályú apai elismeréssel a magáénak ismerte el, vagy az apaságot jogerős bírói ítélet állapította meg, illetve ha a gyermek anyjának utólagos házasságkötése folytán az anya férjét kell a gyermek apjának tekinteni;
 - h) az egyezséget jóváhagyó végzés ellen;
-- i) a birtokvédelmi eljárást követő birtokvédelmi perben hozott ítélet ellen,
+- i) a hagyaték átadása tárgyában hozott végzés ellen;
 - j) a helyi önkormányzat ellen indult adósságrendezési eljárásban az adósságrendezés elrendelése tárgyában hozott végzés ellen;
 - k) a vízumkiadás tárgyában hozott bírósági határozat ellen;
 - l) ha azt törvény kizárja.
 
-(2) Nincs helye felülvizsgálatnak olyan vagyonjogi ügyekben, amelyben a felülvizsgálati kérelemben vitatott érték, illetve annak a 24. §, valamint 25. § (3) és (4) bekezdése alapján, továbbá a 25. § (3) bekezdésének az egyesített perekre történő megfelelő alkalmazásával megállapított értéke a hárommillió forintot nem haladja meg. Ez az értékhatártól függő kizárás nem vonatkozik a sérelemdíj iránt indított perekre, a 23. § (1) bekezdés b) pontjában, valamint a 24. § (2) bekezdés a) pontjában meghatározott ügyekre, valamint azokra az ügyekre, amelyek ingatlan tulajdonára vagy ingatlant terhelő jogra vonatkoznak, vagy ingatlanra vonatkozó jogviszonyból erednek, továbbá valamennyi olyan ügyre, amely megállapításra irányul.
+(2) Nincs helye felülvizsgálatnak olyan vagyonjogi ügyben, amelyben a felülvizsgálati kérelemben vitatott érték, illetve annak a 24. §, valamint a 25. § (3) és (4) bekezdése alapján, továbbá a 25. § (3) bekezdésének az egyesített perekre történő megfelelő alkalmazásával megállapított értéke az egymillió forintot nem haladja meg. Ez az értékhatártól függő kizárás nem vonatkozik a 23. § (1) bekezdésének b) és h) pontjában, valamint a 24. § (2) bekezdésének a) pontjában meghatározott ügyekre, továbbá a munkaügyi perekben előterjesztett pénzkövetelésre.
 
 (3) Nincs helye a felülvizsgálatnak, ha az elsőfokú bíróság ítéletét a másodfokú bíróság helybenhagyta
 
 - a) a szomszédjogok megsértéséből eredő, valamint a birtokvédelmi, továbbá a közös tulajdonban álló dolog birtoklásával és használatával kapcsolatos perekben;
 - b) a XXV. fejezetben meghatározott végrehajtási perekben, kivéve a végrehajtás megszüntetése, illetve korlátozása iránti ügyeket, ha a végrehajtás végrehajtási záradékkal ellátott okirat alapján indult;
-- c) a szülői felügyelet gyakorlásának rendezése, megváltoztatása, a gyermek harmadik személynél történő elhelyezése, elhelyezésének a megváltoztatása, továbbá a gyermekkel való kapcsolattartás szabályozása iránti ügyekben.
+- c) a gyermek elhelyezése, elhelyezésének a megváltoztatása, továbbá a gyermekkel való kapcsolattartás szabályozása iránti ügyekben.
 
-(4) Nincs helye felülvizsgálatnak, ha az elsőfokú bíróság ítéletét a másodfokú bíróság azonos jogszabályi rendelkezésre utalással hagyta helyben
+272. § (1) A felülvizsgálati kérelmet az elsőfokú határozatot hozó bíróságnál a határozat közlésétől számított hatvan napon belül kell benyújtani vagy ajánlott küldeményként postára adni kettővel több példányban, mint ahány fél a perben érdekelve van. A felülvizsgálati kérelem benyújtására előírt határidő elmulasztása esetén az elmulasztott határidő utolsó napjától számított harminc nap elteltével igazolásnak akkor sincs helye, ha a mulasztás csak később jutott a fél tudomására, vagy az akadály csak később szűnt meg.
 
-- a) a 23. § (1) bekezdés ec) pontjában foglalt perekben és
-- b) a társasház tulajdonostársai közösségének szervei által hozott határozatok tárgyában hozott döntéssel szemben.
+(2) A felülvizsgálati kérelemben meg kell jelölni azt a határozatot, amely ellen a felülvizsgálati kérelem irányul, továbbá elő kell adni – a jogszabálysértés megjelölése mellett –, hogy a fél a határozat megváltoztatását mennyiben és milyen okból kívánja.
 
-272. § (1) A felülvizsgálati kérelmet az elsőfokú határozatot hozó bíróságnál a határozat közlésétől számított hatvan napon belül kell benyújtani vagy ajánlott küldeményként postára adni kettővel több példányban, mint ahány fél a perben érdekelve van.
+(3) A felülvizsgálati kérelemhez – ha arra korábban nem került sor – csatolni kell a jogi képviselő meghatalmazását is.
 
-(2) A felülvizsgálati kérelemben meg kell jelölni azt a határozatot, amely ellen a felülvizsgálati kérelem irányul, azt, hogy a fél milyen tartalmú határozat meghozatalát kívánja, továbbá elő kell adni – a jogszabálysértés és a megsértett jogszabályhely megjelölése mellett –, hogy a fél a határozat megváltoztatását milyen okból kívánja.
+(4) Ha a felülvizsgálati kérelem benyújtására nyitva álló határidő valamennyi féllel szemben lejárt, illetve ha a felülvizsgálati kérelmet valamennyi fél benyújtotta, az elsőfokú határozatot hozó bíróság azt az ügy irataival együtt haladéktalanul felterjeszti a Legfelsőbb Bírósághoz, a jogerős határozatot hozó bíróságot pedig a felülvizsgálati kérelem másolatának megküldésével értesíti az eljárás megindításáról. Ha a végrehajtás elrendelése már megtörtént, illetve ha végrehajtás felfüggesztése iránti kérelmet terjesztettek elő, a felülvizsgálati kérelmet a beérkezését követően haladéktalanul fel kell terjeszteni.
 
-(3) Ha a felülvizsgálati kérelemben tartalmilag helyesen történik hivatkozás a jogszabálysértés tényére, de a megsértett jogszabályhely megjelölése téves, ezen okból a felülvizsgálati kérelem nem utasítható el.
+273. § (1) A Legfelsőbb Bíróság a jogi képviselő által előterjesztett felülvizsgálati kérelmet hivatalból elutasítja, ha az nem felel meg a 272. § (2) bekezdésében előírtaknak, vagy ha ennek megfelelő kiegészítése a kérelem benyújtására biztosított törvényes határidőn belül nem történt meg.
 
-(4) A felülvizsgálati kérelemhez – ha arra korábban nem került sor – csatolni kell a jogi képviselő meghatalmazását is.
-
-(5) Ha a felülvizsgálati kérelem benyújtására nyitva álló határidő valamennyi féllel szemben lejárt, illetve ha a felülvizsgálati kérelmet valamennyi fél benyújtotta, az elsőfokú határozatot hozó bíróság azt az ügy irataival együtt haladéktalanul felterjeszti a Kúriához, a jogerős határozatot hozó bíróságot pedig a felülvizsgálati kérelem másolatának megküldésével értesíti az eljárás megindításáról. Ha a végrehajtás elrendelése már megtörtént, illetve ha végrehajtás felfüggesztése iránti kérelmet terjesztettek elő, a felülvizsgálati kérelmet a beérkezését követően haladéktalanul fel kell terjeszteni.
-
-273. § (1) A Kúria a jogi képviselő által előterjesztett felülvizsgálati kérelmet hivatalból elutasítja, ha az nem felel meg a 272. § (2) bekezdésében előírtaknak, vagy ha ennek megfelelő kiegészítése a kérelem benyújtására biztosított törvényes határidőn belül nem történt meg.
-
-(2) A felülvizsgálati kérelmet a Kúria az eljárás bármely szakában akkor is hivatalból elutasítja, ha
+(2) A felülvizsgálati kérelmet a Legfelsőbb Bíróság az eljárás bármely szakában akkor is hivatalból elutasítja, ha
 
 - a) felülvizsgálati kérelemnek nincs helye,
 - b) azt nem az arra jogosult nyújtotta be, vagy
 - c) a kérelmet előterjesztő fél megadott lakóhelyéről (székhelyéről) nem idézhető, illetve onnan ismeretlen helyre költözött.
 
-(3) A felülvizsgálati kérelem benyújtásának a határozat végrehajtására nincs halasztó hatálya, de a határozat végrehajtását a Kúria kérelemre kivételesen felfüggesztheti. A végrehajtás felfüggesztéséről szóló végzés meghozatala során a bíróságnak különösen arra kell figyelemmel lennie, hogy a végrehajtást követően az eredeti állapot helyreállítható-e, vagy hogy a végrehajtás elmaradása nem okoz-e súlyosabb károsodást, mint amilyennel a végrehajtás felfüggesztésének elmaradása járna. A fél kérelmére – ha annak jogszabályi feltételei fennállnak – a felülvizsgálati kérelem benyújtásáról a Kúria értesíti az ingatlanügyi hatóságot.
+(3) A felülvizsgálati kérelem benyújtásának a határozat végrehajtására nincs halasztó hatálya, de a határozat végrehajtását a Legfelsőbb Bíróság kérelemre kivételesen felfüggesztheti. A végrehajtás felfüggesztéséről szóló végzés meghozatala során a bíróságnak különösen arra kell figyelemmel lennie, hogy a végrehajtást követően az eredeti állapot helyreállítható-e, vagy hogy a végrehajtás elmaradása nem okoz-e súlyosabb károsodást, mint amilyennel a végrehajtás felfüggesztésének elmaradása járna. A fél kérelmére – ha annak jogszabályi feltételei fennállnak – a felülvizsgálati kérelem benyújtásáról a Legfelsőbb Bíróság értesíti az ingatlanügyi hatóságot.
 
-(4) Közbenső ítélet elleni felülvizsgálati kérelem esetében – ha annak sikere valószínűnek mutatkozik – a Kúria a per tárgyalásának folytatását hivatalból is felfüggesztheti. A bíróság a felfüggesztés tárgyában hozott határozatát utóbb megváltoztathatja.
+(4) Közbenső ítélet elleni felülvizsgálati kérelem esetében – ha annak sikere valószínűnek mutatkozik – a Legfelsőbb Bíróság a per tárgyalásának folytatását hivatalból is felfüggesztheti. A bíróság a felfüggesztés tárgyában hozott határozatát utóbb megváltoztathatja.
 
-(5) A felülvizsgálati kérelmet nem lehet megváltoztatni; a kérelem mindaddig visszavonható, amíg a Kúria a határozatát meg nem hozta, illetve – tárgyalás tartása esetén – a határozathozatal céljából vissza nem vonult. Az ezzel kapcsolatban felmerült költségek viseléséről a Kúria határoz.
+(5) A felülvizsgálati kérelmet nem lehet megváltoztatni; a kérelem mindaddig visszavonható, amíg a Legfelsőbb Bíróság a határozatát meg nem hozta, illetve – tárgyalás tartása esetén – a határozathozatal céljából vissza nem vonult. Az ezzel kapcsolatban felmerült költségek viseléséről a Legfelsőbb Bíróság határoz.
 
 (6) A csatlakozó felülvizsgálati kérelem és az ellenkérelem előterjesztésére a 244. § és a 257. § rendelkezéseit megfelelően alkalmazni kell. Csatlakozó felülvizsgálati kérelmet a fél csak akkor terjeszthet elő, ha maga is jogosult lett volna felülvizsgálatot kérni.
 
-274. § (1) A Kúria a felülvizsgálati kérelmet tárgyaláson kívül bírálja el, kivéve ha a felek bármelyike tárgyalás tartását kéri, vagy a Kúria a tárgyaláson való elbírálást szükségesnek tartja. Végzés ellen benyújtott felülvizsgálati kérelem esetében tárgyalás tartása nem kérhető.
+274. § (1) A Legfelsőbb Bíróság a felülvizsgálati kérelmet tárgyaláson kívül bírálja el, kivéve ha a felek bármelyike tárgyalás tartását kéri, vagy a Legfelsőbb Bíróság a tárgyaláson való elbírálást szükségesnek tartja. Végzés ellen benyújtott felülvizsgálati kérelem esetében tárgyalás tartása nem kérhető.
 
 (2) Tárgyalás tartását a felülvizsgálati kérelmet előterjesztő fél a felülvizsgálati kérelmében, illetve az ellenfél csatlakozó felülvizsgálati kérelmének kézhezvételétől számított nyolc napon belül, az ellenfél pedig a felülvizsgálati kérelem kézhezvételétől számított nyolc napon belül kérheti. A határidő elmulasztása miatt igazolásnak nincs helye.
 
@@ -2640,25 +2414,19 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 (5) Ha a felülvizsgálati kérelem elbírálása során az eljáró tanács jogegységi eljárást kezdeményez [Bsz. 29. § (2) bekezdés b) pont], ezzel egyidejűleg az ügy elbírálását a jogegységi eljárás befejezéséig felfüggeszti. A jogegységi eljárás befejezése után a bíróság a jogkérdést elvi jelleggel eldöntő jogegységi határozatnak megfelelő határozatot hoz.
 
-(6) A tanács elnöke jogkérdésben az iratok megküldése mellett, határidő tűzésével a legfőbb ügyészt álláspontjának kifejtésére hívhatja fel.
+275. § (1) A felülvizsgálati eljárásban bizonyítás felvételének helye nincs. A Legfelsőbb Bíróság a felülvizsgálati kérelem elbírálása során a rendelkezésre álló iratok alapján dönt.
 
-(7) A legfőbb ügyész álláspontját a felekkel közölni kell, és arra a tanács elnöke által tűzött határidőn belül észrevételt tehetnek. Ezt a szabályt kell alkalmazni akkor is, ha a legfőbb ügyész nem a tanács elnökének kezdeményezésére fejti ki álláspontját.
+(2) A Legfelsőbb Bíróság a jogerős határozatot csak a felülvizsgálati kérelem és a csatlakozó felülvizsgálati kérelem keretei között vizsgálhatja felül, kivéve, ha a pert hivatalból megszünteti, vagy ha a határozatot hozó bíróság nem volt szabályszerűen megalakítva, illetve a határozat meghozatalában olyan bíró vett részt, akivel szemben a törvény értelmében kizáró ok áll fenn.
 
-(8) Abban az eljárásban, amelyben a legfőbb ügyész álláspontját kifejtette, részére a Kúria felülvizsgálati határozatát meg kell küldeni.
+(3) Ha a felülvizsgálni kért határozat a jogszabályoknak megfelel, vagy olyan eljárási szabálysértés történt, amelynek az ügy érdemi elbírálására lényeges kihatása nem volt, a Legfelsőbb Bíróság a megtámadott határozatot hatályában fenntartja.
 
-275. § (1) A felülvizsgálati eljárásban bizonyítás felvételének helye nincs. A Kúria a felülvizsgálati kérelem elbírálása során a rendelkezésre álló iratok alapján dönt.
+(4) Ha a határozat – a (3) bekezdésben foglalt eljárási szabály megsértésének kivételével – jogszabályt sért, a Legfelsőbb Bíróság a jogszabálysértő határozatot egészben vagy részben hatályon kívül helyezi, és ha a döntéshez szükséges tények megállapíthatók, helyette a jogszabályoknak megfelelő új határozatot hoz, egyébként az ügyben eljárt első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja.
 
-(2) A Kúria a jogerős határozatot csak a felülvizsgálati kérelem és a csatlakozó felülvizsgálati kérelem keretei között vizsgálhatja felül, kivéve, ha a pert hivatalból megszünteti, vagy ha a határozatot hozó bíróság nem volt szabályszerűen megalakítva, illetve a határozat meghozatalában olyan bíró vett részt, akivel szemben a törvény értelmében kizáró ok áll fenn.
+(5) Ha a Legfelsőbb Bíróság az első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja, a hatályon kívül helyező végzésben az új eljárás lefolytatására vonatkozóan kötelező utasításokat ad. Ebben az esetben csak a felülvizsgálati eljárásban felmerült költség összegét állapítja meg, annak viseléséről az új határozatot hozó bíróság dönt.
 
-(3) Ha a felülvizsgálni kért határozat a jogszabályoknak megfelel, vagy olyan eljárási szabálysértés történt, amelynek az ügy érdemi elbírálására lényeges kihatása nem volt, a Kúria a megtámadott határozatot hatályában fenntartja.
+(6) Ha a Legfelsőbb Bíróság a másodfokú bíróságot utasítja új eljárásra, határozatát a másodfokú bíróság, egyébként pedig az elsőfokú bíróság közli a felekkel, és intézkedik – a határozathoz képest – a végrehajtásnak vagy a végrehajtás felfüggesztésének megszüntetése, illetve korlátozása iránt.
 
-(4) Ha a határozat – a (3) bekezdésben foglalt eljárási szabály megsértésének kivételével – jogszabályt sért, a Kúria a jogerős határozatot egészben vagy részben hatályon kívül helyezi, és ha a döntéshez szükséges tények megállapíthatók, helyette, illetve az első fokú határozat helyett a jogszabályoknak megfelelő új határozatot hoz, egyébként az ügyben eljárt első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja.
-
-(5) Ha a Kúria az első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja, a hatályon kívül helyező végzésben az új eljárás lefolytatására vonatkozóan kötelező utasításokat ad. Ebben az esetben csak a felülvizsgálati eljárásban felmerült költség összegét állapítja meg, annak viseléséről az új határozatot hozó bíróság dönt.
-
-(6) Ha a Kúria a másodfokú bíróságot utasítja új eljárásra, határozatát a másodfokú bíróság, egyébként pedig az elsőfokú bíróság közli a felekkel, és intézkedik – a határozathoz képest – a végrehajtásnak vagy a végrehajtás felfüggesztésének megszüntetése, illetve korlátozása iránt.
-
-(7) Új eljárásra utasítás esetében a tárgyalás a Kúria határozatának ismertetésével kezdődik; a bíróság a továbbiakban a reá nézve irányadó szabályok szerint folytatja le az eljárást.
+(7) Új eljárásra utasítás esetében a tárgyalás a Legfelsőbb Bíróság határozatának ismertetésével kezdődik; a bíróság a továbbiakban a reá nézve irányadó szabályok szerint folytatja le az eljárást.
 
 ## NEGYEDIK RÉSZ — KÜLÖNLEGES ELJÁRÁSOK
 
@@ -2692,17 +2460,17 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 (3) Házassági perben a nem ügyvédi iroda (ügyvéd) részére adott és aláírt, továbbá a bárki részére adott és kézjeggyel ellátott meghatalmazáson a fél aláírását, illetőleg kézjegyét közjegyző által hitelesíttetni kell.
 
-(4)
+(4) Ha a bíróság a perben a Családjogi törvény 74. §-a alapján a házastársak kiskorú gyermekének, mint érdekeltnek a meghallgatásáról döntött, indokolt esetben egyidejűleg a gyermek részére ügygondnokot rendel. A bíróság úgy is határozhat, hogy a gyermeket a házastársak távollétében hallgatja meg. E szabályok vonatkoznak a gyermek elhelyezésével kapcsolatos perekre is.
 
 280. §
 
 ### Keresetindítás
 
-281. § (1) Ha a félnek nincs perbeli cselekvőképessége és közte, valamint törvényes képviselője között érdekellentét áll fenn, a bíróság a fél képviseletére ügygondnokot rendel ki.
+281. § (1) Az érvénytelenítési pert a házastársnak a másik házastárs ellen, az ügyésznek, valamint a per megindítására jogosult harmadik személynek pedig mindkét házastárs ellen kell indítania. Ha az a fél, aki ellen a keresetet meg kellene indítani, már nem él, a keresetet a bíróság által kirendelt ügygondnok ellen kell megindítani. Ha a félnek nincs perbeli cselekvőképessége és közte, valamint törvényes képviselője között érdekellentét áll fenn, a bíróság a fél képviseletére ügygondnokot rendel ki.
 
 (2) Házassági perekben a 127. § alkalmazásának helye nincs.
 
-282. § A házassági per bírósága előtt a keresettel csak az ugyanarra a házasságra vonatkozó más érvénytelenítési vagy bontókeresetet, továbbá a házasfelek gyermekének származására, tartására és a gyermeket érintő szülői felügyelet gyakorlásának rendezésére, a gyermek harmadik személynél történő elhelyezésére vonatkozó keresetet, valamint a házassági vagyonjogi keresetet (292. §) lehet összekapcsolni.
+282. § A házassági per bírósága előtt a keresettel csak az ugyanarra a házasságra vonatkozó más érvénytelenítési vagy bontókeresetet, továbbá a házasfelek gyermekének származására, elhelyezésére és tartására vonatkozó keresetet, valamint a házassági vagyonjogi keresetet (292. §) lehet összekapcsolni.
 
 283. § (1) Házassági perben a keresetlevélben elő kell adni a házasság megkötésére és a házasságból származott, életben levő gyermekek születésére vonatkozó adatokat, valamint a szükséghez képest azokat az adatokat is, amelyekből a keresetindításra való jogosultság megállapítható. A keresetlevélhez az előadott adatokat igazoló okiratokat mellékelni kell, kivéve ha az adatok személyi igazolvánnyal igazolhatók; erre a keresetlevélben azonban utalni kell.
 
@@ -2720,7 +2488,7 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 (3) Házassági perben – ha e törvény kivételt nem tesz – a bíróság köteles a házastársakat személyesen meghallgatni; a bíróság akként is rendelkezhet, hogy az egyik házastárs a másik meghallgatásánál ne legyen jelen.
 
-285. § (1) A bontóperben tartott első tárgyaláson a bíróság a személyesen megjelent feleket meghallgatja. Ha valamelyik házastárs cselekvőképességet teljesen korlátozó gondnokság alatt áll, vagy ismeretlen helyen tartózkodik, továbbá ha a bíróság előtt való megjelenése más elháríthatatlan akadályba ütközik, a személyes meghallgatás nem kötelező.
+285. § (1) A bontóperben tartott első tárgyaláson a bíróság a személyesen megjelent feleket meghallgatja. Ha valamelyik házastárs cselekvőképességet kizáró gondnokság alatt áll, vagy ismeretlen helyen tartózkodik, továbbá ha a bíróság előtt való megjelenése más elháríthatatlan akadályba ütközik, a személyes meghallgatás nem kötelező.
 
 (2) Ha a felperes – az (1) bekezdésben meghatározott eseteket kivéve – az első tárgyaláson személyesen nem jelenik meg, a pert meg kell szüntetni.
 
@@ -2728,7 +2496,7 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 (4) Ha a bontóperben tartott első tárgyaláson a felek nem békülnek ki, az (5) bekezdésben meghatározott kivétellel a bíróság a tárgyalást elhalasztja, egyben felhívja a feleket, hogy három hónapon belül írásban kérhetik az eljárás folytatását, ellenkező esetben a per megszűnik. A bíróság a tárgyalás folytatására csak a kérelem benyújtását követő 30 nap eltelte után tűzhet határnapot.
 
-(5) Az (1) bekezdésben meghatározott esetekben, vagy ha a feleknek nincsen közös kiskorú gyermeke, a pert már az első tárgyaláson érdemben kell tárgyalni.
+(5) Az (1) bekezdésben meghatározott esetekben, illetve, ha a felek a házasság felbontását a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény (Csjt.) 18. §-a (2) bekezdésének b) pontja alapján kérték, vagy a feleknek nincsen közös kiskorú gyermeke, a pert már az első tárgyaláson érdemben kell tárgyalni.
 
 286. § (1) A bíróság az általa szükségesnek talált bizonyítást hivatalból is elrendelheti.
 
@@ -2736,7 +2504,7 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 287. § A bíróság a házassági perben a tárgyalás elhalasztása esetében a szükségeshez képest hivatalból is határoz ideiglenesen
 
-- a) a kiskorú gyermek tartása és tartózkodási helyének valamelyik szülőnél vagy harmadik személynél történő kijelölése,
+- a) a kiskorú gyermek elhelyezése és tartása,
 - b) a szülői felügyeleti jogok bővítése vagy korlátozása,
 - c) a szülő és gyermek közötti kapcsolattartás, illetve
 - d) a házastársak lakáshasználatának
@@ -2753,9 +2521,9 @@ kérdésében.
 
 ### Határozatok
 
-290. § (1) A házasság érvénytelenítése vagy felbontása esetében a bíróságnak a közös kiskorú gyermek tartása, a szülői felügyelet gyakorlásának rendezése vagy a gyermek harmadik személynél történő elhelyezése felől – szükség esetén – erre irányuló kereseti kérelem hiányában is határoznia kell.
+290. § (1) A házasság érvénytelenítése vagy felbontása esetében a bíróságnak a közös kiskorú gyermekek elhelyezése és tartása felől – szükség esetében – erre irányuló kereseti kérelem hiányában is határoznia kell.
 
-(2) A bíróság a házasság felbontása felől – ha a felek a házasság felbontását a Ptk. 4:21. § (2) és (3) bekezdése alapján kérték egyező akaratnyilvánítással – addig nem dönthet, míg az ott meghatározott valamennyi kérdésben egyezség nem jött létre, és azt a bíróság jogerős végzésével jóvá nem hagyta. Ha a házassági perben a névviseléstől való eltiltás iránti kérelmet is előterjesztettek, arról a bíróság a házasság felbontásával (érvénytelenné nyilvánításával) egyidejűleg dönt. Részítélet hozatalának egyik kérdésben sincs helye.
+(2) A bíróság a házasság felbontása felől – ha a felek a házasság felbontását a Csjt. 18. §-a (2) bekezdésének a) pontja alapján kérték egyező akaratnyilvánítással – addig nem dönthet, míg az ott meghatározott valamennyi kérdésben egyezség nem jött létre, és azt a bíróság jogerős végzésével jóvá nem hagyta. Ha a házassági perben a névviseléstől való eltiltás iránti kérelmet is előterjesztettek, arról a bíróság a házasság felbontásával (érvénytelenné nyilvánításával) egyidejűleg dönt. Részítélet hozatalának egyik kérdésben sincs helye.
 
 (3) A házassági bontóperben a bíróságnak az egyezség jóváhagyása során, illetve ítéletében a felek közös kiskorú gyermekének érdekére figyelemmel kell lennie.
 
@@ -2765,7 +2533,7 @@ kérdésében.
 
 (6) Az első fokú bíróságnak fellebbezéssel meg nem támadott ítélete csak a fellebbezési határidő utolsó napjától számított tizenötödik nap elteltével emelkedik jogerőre.
 
-(7) Az elsőfokú bíróság a keresetnek helyt adó ítélet jogerőre emelkedése után a statisztikai jogszabályok szerinti népmozgalmi adatokat tartalmazó adatlapot közli az illetékes anyakönyvvezetővel.
+(7) Az első fokú bíróság a keresetnek helytadó ítéletet – jogerőre emelkedése után – közli az illetékes anyakönyvvezetővel.
 
 (8) A házasságot felbontó vagy az érvénytelenséget megállapító rendelkezés részjogerejét az első fokon eljárt tanács elnöke az iratoknak a másodfokú bírósághoz történő felterjesztése előtt köteles megállapítani.
 
@@ -2789,21 +2557,21 @@ kérdésében.
 
 293. § (1) Az apasági és a származás megállapítása iránt indított egyéb perekre – a 277. § (2) bekezdése, a 285. §, a 288. § (2) bekezdése, a 289. §, a 290. § (2) és (5) bekezdése, végül a 291. § kivételével, valamint a jelen fejezetben foglalt eltérésekkel – a XV. fejezet rendelkezéseit kell megfelelően alkalmazni.
 
-(2) Az apaság vélelmét megdöntő ítélet ellen – az apaság vélelmét megdöntő részében – perújításnak nincs helye, ha az apaság vélelmének megdöntését követően a gyermeket valamely személy teljes hatályú apai elismeréssel a magáénak ismerte el, vagy az apaságot jogerős bírói ítélet állapította meg.
+(2) Az apaság vélelmét megdöntő ítélet ellen – az apaság vélelmét megdöntő részében – perújításnak nincs helye, ha az apaság vélelmének megdöntését követően a gyermeket valamely személy teljes hatályú apai elismeréssel a magáénak ismerte el, vagy az apaságot jogerős bírói ítélet állapította meg, illetőleg a gyermek anyjának utólagos házasságkötése folytán az anya férjét kell a gyermek apjának tekinteni.
 
 (3) Az apaság vélelmének megdöntése iránti perben az alperest – a vértulajdonság-vizsgálat és a származás megállapításához szükséges más orvosszakértői (élettani) vizsgálat költségei kivételével – a perköltségek megfizetésére kötelezni nem lehet; a pernek a felperesre nem hárítható költségét az állam viseli.
 
 294. § Az anya beavatkozóként bármelyik félhez csatlakozhat.
 
-294/A. § Az apaság és a származás megállapítása iránti egyéb pert a kiskorú gyermek lakóhelye vagy tartózkodási helye szerint illetékes bíróság előtt is meg lehet indítani.
-
 ### Keresetindítás
 
-295. § (1)–(2)
+295. § (1) Az apaság megállapítására irányuló keresetet az apa ellen, az apának pedig a gyermek ellen kell megindítania.
 
-(3) Ha az apaság megállapítása iránti pert vagy az apasági vélelem megdöntése iránti pert a bíróság által kirendelt ügygondnok ellen kell indítani, az egyenesági rokon beavatkozóként bármelyik félhez csatlakozhat. Az ügygondnok kirendeléséről a bíróság értesíti a gyámhatóságot, és tájékoztatja a per adatai szerint ismert helyen lakó egyenesági rokonokat a beavatkozás lehetőségeiről.
+(2) Az apaság vélelmének megdöntésére irányuló keresetet a gyermeknek az apa ellen, az apának a gyermek ellen, más jogosultnak pedig a gyermek és az apa ellen kell indítania; a keresetet – a gyermek által indított kereset kivételével – az anya ellen is meg kell indítani, kivéve ha ez halála folytán nem lehetséges. Ha a gyermek az anya újabb házasságának fennállása alatt, de az anya korábbi házasságának megszűnésétől számított 300 napon belül született, a keresetet az anya korábbi férje ellen is meg kell indítani.
 
-(4) Keresetindításnak a gyermek születése előtt is helye van, ítélet azonban csak a gyermek megszületése után hozható.
+(3) Ha az apa, illetőleg a korábbi férj vagy az a személy, aki ellen a keresetet meg kellene indítani, nem él, vagy ismeretlen helyen tartózkodik, az (1), illetőleg a (2) bekezdés esetében a keresetet a bíróság által kirendelt ügygondnok (74. §) ellen kell indítani. Az egyenesági rokon ilyen esetben beavatkozóként bármelyik félhez csatlakozhat. Az ügygondnok kirendeléséről a bíróság értesíti a gyámhatóságot, és tájékoztatja a per adatai szerint ismert helyen lakó egyenesági rokonokat a beavatkozás lehetőségeiről.
+
+(4) A jelen § eseteiben keresetindításnak a gyermek születése előtt is helye van, ítélet azonban csak a gyermek születése után hozható.
 
 296. § Az apaság megállapítására irányuló kereset – annak bírósága előtt – összekapcsolható a gyermek tartására irányuló keresettel is, illetőleg az apaság megállapítása iránt az első fokú bíróság előtt folyamatban levő perben a gyermek tartására irányuló kereseti kérelem utóbb is előterjeszthető.
 
@@ -2827,7 +2595,7 @@ kérdésében.
 
 (2) A gyermek anyját, ha a perben félként vagy beavatkozóként nem vesz részt, tanúként kell kihallgatni; kihallgatása csak akkor mellőzhető, ha cselekvőképtelen, vagy kihallgatásának más elháríthatatlan akadálya van.
 
-(3) Ha a tárgyaláson a kiskorú felperesnek a gyámhatóság által kirendelt eseti gyámja nem jelenik meg, a per megszüntetésének nincs helye. Ilyen esetben a bíróság felhívja a gyámhatóságot a szükséges intézkedések megtételére, illetőleg új eseti gyám kirendelésére.
+(3) Ha a tárgyaláson a kiskorú felperesnek a gyámhatóság által kirendelt eseti gondnoka nem jelenik meg, a per megszüntetésének nincs helye. Ilyen esetben a bíróság felhívja a gyámhatóságot a szükséges intézkedések megtételére, illetőleg új eseti gondnok kirendelésére.
 
 300. § (1) Ha a bíróság vértulajdonság vizsgálatot vagy a származás megállapításához szükséges más orvosszakértői (élettani) vizsgálatot rendel el, a vizsgálat tűrésére bármelyik érdekeltet kötelezheti. Ha a bíróság a vizsgálatra az anya férjét, vagy olyan tanút kötelez, aki a per adatai szerint az anyával a fogamzási időben nemileg érintkezett, ezt a személyt a bíróság végzésének közlésétől kezdődően a fél jogállása illeti meg.
 
@@ -2837,67 +2605,19 @@ kérdésében.
 
 301. § Előzetes bizonyításnak a 207. §-ban meghatározott előfeltételek hiányában is helye van.
 
-### XVI/A. Fejezet — AZ APASÁG VÉLELMÉNEK MEGDÖNTÉSE NEMPERES ELJÁRÁSBAN
-
-301/A. § (1) Ha e fejezet másként nem rendelkezik, az eljárásra a polgári peres eljárásra vonatkozó szabályokat – a polgári nemperes eljárás sajátosságaiból fakadó eltérésekkel – kell megfelelően alkalmazni.
-
-(2) Az apaság vélelmének megdöntése iránti kérelmet más kérelemmel összekapcsolni nem lehet.
-
-(3) Az eljárásban szünetelésnek nincs helye.
-
-301/B. § (1) Az eljárás lefolytatására az a bíróság illetékes, amelynek területén a gyermek belföldi lakóhelye, belföldi lakóhely hiányában belföldi tartózkodási helye található. Az eljárásra az a bíróság is illetékes, amelynek területén az anya belföldi lakóhelye vagy belföldi lakóhely hiányában belföldi tartózkodási helye található.
-
-(2) Ha az illetékes bíróság az (1) bekezdés rendelkezései alapján nem állapítható meg, az eljárásra a Budai Központi Kerületi Bíróság illetékes.
-
-301/C. § (1) Az apaság vélelmének megdöntése iránti kérelemben fel kell tüntetni:
-
-- a) az eljáró bíróságot és azokat az adatokat, amelyekből a bíróság illetékessége megállapítható;
-- b) a kérelmezők, valamint a kérelmezők képviselőinek nevét, lakóhelyét, valamint a kérelem előterjesztésére való jogosultság jogcímét;
-- c) ha a gyermek a kérelem beadásának időpontjában már megszületett, a gyermek nevét, lakóhelyét, születési idejét, ha van törvényes képviselője, annak nevét és lakóhelyét;
-- d) a gyermeket teljes hatályú apai elismerő nyilatkozattal magáénak elismerni kívánó férfi születési idejét;
-- e) a fennálló apasági vélelmet megalapozó házasság létrejöttének időpontját, valamint annak időpontját, hogy a házastársak életközössége mikor szűnt meg;
-- f) a bíróság döntésére irányuló határozott kérelmet.
-
-(2) A kérelemhez csatolni kell a gyermek eredeti vagy hitelesített születési anyakönyvi kivonatát, a fennálló apasági vélelmet megalapozó házasság anyakönyvi kivonatát, valamint azokat az okiratokat, amelyek a kérelem elbírálásának alapjául szolgáló körülmények igazolásához szükségesek, kivéve ha az adatokat személyazonosító igazolvánnyal is lehet igazolni. Ha az apaság vélelmét megalapozó házasság a kérelem beadásának időpontjában már megszűnt, a kérelemhez csatolni kell a házasság megszűnését igazoló okiratot. Ha a gyermek a kérelem beadásának időpontjában még nem született meg, a kérelemhez szakorvosi igazolást kell csatolni a születés várható időpontjáról.
-
-301/D. § (1) A bíróság a kérelmezőket és mindazon személyeket, akiknek hozzájárulása az apai elismerő nyilatkozat teljes hatályához szükséges, együttesen hallgatja meg.
-
-(2) Az idézésben a bíróság tájékoztatja az érintetteket a 301/E. §–ban meghatározott feltételekről és jogkövetkezményekről.
-
-(3) A bíróság eljárása során megvizsgálja az apaság vélelmének megdöntéséhez, az apai elismerő nyilatkozat megtételéhez és teljes hatályához szükséges feltételek fennállását, valamint megállapítja azokat az adatokat, amelyek a személyállapot-változás anyakönyvi bejegyzéshez szükségesek.
-
-301/E. § (1) A bíróság végzésben állapítja meg, hogy a gyermeknek nem az anya férje vagy volt férje az apja, ha
-
-- a) a kitűzött meghallgatáson a kérelmezők és mindazon személyek, akiknek a hozzájárulása az apai elismerő nyilatkozat teljes hatályához szükséges, együttesen jelen vannak és
-- b) az apaság vélelmének megdöntéséhez, az apai elismerő nyilatkozat megtételéhez és teljes hatályához szükséges feltételek fennállnak.
-
-(2) Ha az (1) bekezdésben meghatározott feltételek valamelyike nem áll fenn, akkor a bíróság az apaság vélelmének megdöntése iránti kérelmet elutasítja.
-
-(3) Ha a bíróság az apaság vélelemének megdöntése iránti kérelmet jogerősen elutasítja, e határozatának jogereje nem zárja ki, hogy a kérelmezők igényüket – a körülmények megváltozása esetén – újból nem peres eljárásban érvényesítsék. A kérelmet elutasító határozat jogereje azt sem zárja ki, hogy a perindításra jogosult személyek igényüket – a Polgári Törvénykönyvben meghatározott szabályok szerint – peres eljárásban érvényesítsék.
-
-301/F. § (1) A bíróság az apai elismerő nyilatkozatot és az annak teljes hatályához szükséges hozzájáruló nyilatkozatokat külön jegyzőkönyvben rögzíti.
-
-(2) Az apaság vélelmének megdöntését megállapító határozat ellen külön fellebbezésnek van helye. Ha az apaság vélelmének megdöntését megállapító határozat nem emelkedik jogerőre, az eljárás során tett apai elismerő nyilatkozat hatálytalan.
-
-301/G. § Az elsőfokú bíróság az apaság vélelmének megdöntését megállapító jogerős határozatot, valamint a külön jegyzőkönyvbe foglalt – teljes hatályú apai elismerés tárgyában tett – nyilatkozatokat közli az illetékes anyakönyvvezetővel.
-
-301/H. § A bíróság az eljárási költségek viseléséről a rendelkezésre álló adatok mérlegelése alapján határoz.
-
 ### XVII. Fejezet — A szülői felügyelet megszüntetése
 
 302. § (1) A szülői felügyelet megszüntetésére irányuló perre a XV. fejezet rendelkezései irányadók a 277. § (2) bekezdése, a 285. §, a 288. § (2) bekezdése és a 289–291. §-ok kivételével és az alábbi eltérésekkel:
 
 - a) a szülő bármelyik félhez beavatkozóként is csatlakozhat;
-- b) a szülői felügyelet megszüntetésére irányuló kereset – annak bírósága előtt – összekapcsolható az ugyanazon szülő más gyermeke feletti szülői felügyelet megszüntetésére irányuló keresettel, a gyermek tartására, a szülői felügyelet gyakorlásának rendezésére, a gyermek harmadik személynél történő elhelyezésére irányuló keresettel vagy a szülő gondnokság alá helyezésére irányuló keresettel is; más keresetet a szülői felügyelet megszüntetésére irányuló keresettel összekapcsolni nem lehet;
+- b) a szülői felügyelet megszüntetésére irányuló kereset – annak bírósága előtt – összekapcsolható az ugyanazon szülő más gyermeke feletti szülői felügyelet megszüntetésére irányuló keresettel, a gyermek elhelyezésére és tartására irányuló keresettel vagy a szülő gondnokság alá helyezésére irányuló keresettel is; más keresetet a szülői felügyelet megszüntetésére irányuló keresettel összekapcsolni nem lehet;
 - c) a tárgyalás kitűzéséről a perben félként részt nem vevő szülőt a keresetlevél egy példányának megküldésével értesíteni kell, és egyben figyelmeztetni kell beavatkozási jogára.
-
-(1a) A szülői felügyeleti jog megszüntetése iránti pert a kiskorú gyermek lakóhelye vagy tartózkodási helye szerint illetékes bíróság előtt is meg lehet indítani.
 
 (2) A szülői felügyeleti jog megszüntetése iránti perben a bíróság soron kívül jár el. A tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek a bírósághoz érkezésétől számított nyolcadik napra kell kitűzni.
 
 (3) Ha a gyermek súlyos veszélyeztetése miatt a szülői felügyelet sürgős megszüntetése szükséges, arról a bíróság a szülői felügyelet megszüntetése iránti perben ideiglenesen hivatalból is határozhat.
 
-(4) Ha a szülői felügyelet visszaállítása iránt nem az a szülő indít keresetet, akinek felügyeleti jogát megszüntették, ezt a szülőt a perben külön bejelentés nélkül is a felperes melletti beavatkozó jogállása illeti meg. A bíróság azonban akkor is köteles őt személyesen meghallgatni, ha beavatkozóként a perben nem kíván részt venni.
+(4) A szülői felügyelet megszüntetése iránt a keresetet az ellen a szülő ellen kell megindítani, akinek szülői felügyeletét megszüntetni kívánják. A szülői felügyelet visszaállítása iránt az ellen kell pert indítani, akinek keresete folytán a bíróság a szülői felügyelet megszüntetését kimondotta; ha ez már nem él, a pert a bíróság által kirendelendő ügygondnok ellen kell megindítani. Ha a visszaállítás iránt nem az a szülő indít keresetet, akinek felügyeleti jogát megszüntették, ezt a szülőt a perben külön bejelentés nélkül is a felperes melletti beavatkozó jogállása illeti meg. A bíróság azonban akkor is köteles őt személyesen meghallgatni, ha beavatkozóként a perben nem kíván részt venni.
 
 303. § A szülői felügyeletet megszüntető határozat hatályon kívül helyezésére irányuló perre a 302. § rendelkezéseit kell alkalmazni azzal, hogy a perre kizárólag az a bíróság illetékes, amely a megtámadott határozatot hozta.
 
@@ -2923,9 +2643,7 @@ kérdésében.
 
 307. § (1) A gondnokság alá helyezés iránti keresetlevélben a 121. §-ban meghatározott adatokon kívül fel kell tüntetni azokat az adatokat is, amelyekből a keresetindításra való jogosultság megállapítható, illetve az alperes ingatlanvagyonára vonatkozó adatokat.
 
-(1a) A keresetlevélben – ha arról a felperesnek tudomása van – fel kell tüntetni az alperes előzetes jognyilatkozatára vonatkozó adatokat. A gondnokság alá helyezési perben a bíróságnak az előzetes jognyilatkozat alkalmazása felől, erre irányuló kereseti kérelem hiányában is határoznia kell.
-
-(2) A keresetlevélhez az előadott adatokat igazoló okiratokat mellékelni kell, így különösen az alperes tulajdonában álló ingatlanok, valamint azon ingatlanok tulajdoni lapját, amelyeken az alperesnek haszonélvezeti joga áll fenn, vagy amelyekre az alperest érintő egyéb jog vagy tény van bejegyezve, feljegyezve. Ha a gyámhatóság a felperes, a keresetlevélhez csatolnia kell az alperes elmeállapotára vonatkozó szakorvosi véleményt, az alperes lakóhelyén készített környezettanulmányt, ideiglenes gondnokrendelés, illetve zárlat elrendelése esetén pedig az erre vonatkozó határozatot is.
+(2) A keresetlevélhez az előadott adatokat igazoló okiratokat mellékelni kell, így különösen az alperes ingatlanainak tulajdoni lapját. Ha a gyámhatóság a felperes, a keresetlevélhez csatolnia kell az alperes elmeállapotára vonatkozó szakorvosi véleményt, az alperes lakóhelyén készített környezettanulmányt, ideiglenes gondnokrendelés, illetve zárlat elrendelése esetén pedig az erre vonatkozó határozatot is.
 
 307/A. § (1) A gondnokság alá helyezési perben a 127. § alkalmazásának nincs helye.
 
@@ -2933,13 +2651,13 @@ kérdésében.
 
 308. § (1) A gondnokság alá helyezési perben az alperes részére a tárgyalás kitűzésével egyidejűleg ügygondnokot kell kirendelni.
 
-(2) Ha a gyámhatóság a felperes és a perindítást megelőzően az alperes vagyonára zárlatot rendelt el, vagy az alperes számára ideiglenes gondnokot rendelt, a bíróság a keresetlevél kézhezvételétől számított 30 napon belül megvizsgálja a gyámhatóság által hozott intézkedések fenntartásának szükségességét. Ennek során a 207. §-ban meghatározott előfeltételek hiányában is előzetes bizonyítást rendelhet el, így különösen az alperes igazságügyi elmeorvosszakértővel történő megvizsgálását.
+(2) Ha a gyámhatóság a felperes és a perindítást megelőzően az alperes vagyonára zárlatot rendelt el, vagy az alperes számára ideiglenes gondnokot rendelt (Ptk. 18–18/A. §-ok), a bíróság a keresetlevél kézhezvételétől számított 30 napon belül megvizsgálja a gyámhatóság által hozott intézkedések fenntartásának szükségességét. Ennek során a 207. §-ban meghatározott előfeltételek hiányában is előzetes bizonyítást rendelhet el, így különösen az alperes igazságügyi elmeorvosszakértővel történő megvizsgálását.
 
 (3) Ha az előzetes bizonyítás 30 napon belül nem fejeződik be, a bíróság a zárlatot, illetve az ideiglenes gondnokrendelést legfeljebb 30 nappal meghosszabbíthatja.
 
 (4) A (2) bekezdés szerinti vizsgálat eredményeként a bíróság a zárlatot, illetve ideiglenes gondnokrendelést a per jogerős befejezéséig hatályában fenntartja, vagy a gyámhatóság döntését megváltoztatva a zárlatot, illetve ideiglenes gondnokságot megszünteti és erről a feleket haladéktalanul értesíti.
 
-308/A. § Ha a gondnokság alá helyezés szükségessége valószínű és az alperes érdekének védelme ezt indokolja, a Ptk. 2:25. §-ában és 2:26. §-ában meghatározott zárlatot, illetve ideiglenes gondnokrendelést a bíróság is elrendelheti ideiglenes intézkedéssel a tárgyalást megelőzően, a 308. § (2) bekezdés előzetes bizonyításra vonatkozó rendelkezésének megfelelő alkalmazásával, illetve a tárgyalás elhalasztása esetén. Az ideiglenes intézkedésre hivatalból is sor kerülhet. A zárlatra, illetve az ideiglenes gondnokrendelésre vonatkozó végzését a bíróság a szükséges intézkedések megtétele, így az ideiglenes gondnok kirendelése érdekében megküldi a gyámhatóságnak.
+308/A. § Ha a gondnokság alá helyezés szükségessége valószínű és az alperes érdekének védelme ezt indokolja, a Ptk. 18. §-ában és 18/A. §-ában meghatározott zárlatot, illetve ideiglenes gondnokrendelést a bíróság is elrendelheti ideiglenes intézkedéssel a tárgyalást megelőzően, a 308. § (2) bekezdés előzetes bizonyításra vonatkozó rendelkezésének megfelelő alkalmazásával, illetve a tárgyalás elhalasztása esetén. Az ideiglenes intézkedésre hivatalból is sor kerülhet. A zárlatra, illetve az ideiglenes gondnokrendelésre vonatkozó végzését a bíróság a szükséges intézkedések megtétele, így az ideiglenes gondnok kirendelése érdekében megküldi a gyámhatóságnak.
 
 308/B. § A zárlat, illetve az ideiglenes gondnokrendelés fenntartására, valamint elrendelésére vonatkozó határozat ellen külön fellebbezésnek van helye, de azt a bíróság előzetesen végrehajthatónak nyilváníthatja.
 
@@ -2957,9 +2675,9 @@ kérdésében.
 
 (5) Az eljárás szünetelésének a 137. § (1) bekezdésének c) és d) pontja esetében van helye.
 
-310. § (1) A gondnokság alá helyezés iránti perben a bíróság az általa szükségesnek talált bizonyítást hivatalból is elrendelheti. A gondnokság alá helyezés iránti perben a bíróság a külön törvény szerinti nyilvántartás adatait megtekinti, e körben hiánypótlás elrendelésének nincs helye.
+310. § (1) A gondnokság alá helyezés iránti perben a bíróság az általa szükségesnek talált bizonyítást hivatalból is elrendelheti.
 
-(2) A bíróság az alperes elmeállapotának vizsgálatára, valamint a választási eljárásról szóló 2013. évi XXXVI. törvény 13/A. §-ában meghatározott kérdés megítélésére igazságügyi elmeorvosszakértőt rendel ki. Az elmeorvosszakértő kirendelése csak a 309. § (3) bekezdésében meghatározott okból mellőzhető. Ha a szakértői vizsgálattal kapcsolatban az alperes hosszabb ideig tartó megfigyelésére van szükség, vagy az alperes a szakértői vizsgálaton ismételt idézés ellenére sem jelenik meg, a bíróság elrendelheti az alperes megfelelő fekvőbeteg-gyógyintézetben való – legfeljebb harminc nap időtartamú – elhelyezését. Az erre vonatkozó határozat ellen külön fellebbezésnek van helye.
+(2) A bíróság az alperes elmeállapotának vizsgálatára igazságügyi elmeorvosszakértőt rendel ki. A szakértő kirendelése csak a 309. § (3) bekezdésében meghatározott okokból mellőzhető. Ha a szakértői vizsgálattal kapcsolatban az alperes hosszabb ideig tartó megfigyelésére van szükség, vagy az alperes a szakértői vizsgálaton ismételt idézés ellenére sem jelenik meg, a bíróság elrendelheti az alperes megfelelő fekvőbeteg-gyógyintézetben való – legfeljebb harminc nap időtartamú – elhelyezését. Az erre vonatkozó határozat ellen külön fellebbezésnek van helye.
 
 (3) A perben a tanú a 170. § (1) bekezdésének a) pontja alapján, a tanúként kihallgatott orvos pedig ugyanezen rendelkezés c) pontja alapján a tanúvallomást nem tagadhatja meg.
 
@@ -2967,124 +2685,117 @@ kérdésében.
 
 ### Határozat a gondnokság alá helyezésről
 
-311. § (1) A gondnokság alá helyezés, valamint a választójogból való kizárás hatálya a gondnokság alá helyezésről rendelkező ítélet jogerőre emelkedését követő napon kezdődik. Az ítélet mindenkivel szemben hatályos.
+311. § (1) A gondnokság alá helyezés hatálya a gondnokság alá helyezésről rendelkező ítélet jogerőre emelkedését követő napon kezdődik. Az ítélet mindenkivel szemben hatályos.
 
 (2) Az alperes gondnokság alá helyezését elrendelő jogerős ítéletet az elsőfokú bíróság a gondnok kirendelése és az esetleg szükséges egyéb intézkedések megtétele végett közli a gyámhatósággal.
 
-(3) Ha az alperesnek ingatlana van, vagy ingatlanon haszonélvezeti joga áll fenn, továbbá ha ingatlanra az alperest érintő egyéb jog vagy tény van bejegyezve, feljegyezve, az elsőfokú bíróság hivatalból intézkedik a gondnokság alá helyezésnek az ingatlan-nyilvántartásba való feljegyzése iránt, kivéve ha az ingatlannal való rendelkezés tekintetében a bíróság az alperes teljes cselekvőképességét fenntartotta.
+(3) Ha az alperesnek ingatlana van, vagy ingatlanon haszonélvezeti joga áll fenn, az elsőfokú bíróság hivatalból intézkedik a gondnokság alá helyezésnek az ingatlan-nyilvántartásba való feljegyzése iránt, kivéve, ha az ingatlannal való rendelkezés tekintetében a bíróság az alperes teljes cselekvőképességét fenntartotta.
 
-(4) A gondnokság alá helyezést, valamint a választójogból való kizárást be kell vezetni a gondnokoltakról a bíróság által vezetett nyilvántartásba.
+(4) A gondnokság alá helyezést be kell vezetni a gondnokoltakról a bíróság által vezetett névjegyzékbe. Cselekvőképességet korlátozó gondnokság alá helyezés esetén a névjegyzékben fel kell tüntetni, ha a bíróság csak egyes ügycsoportok tekintetében korlátozta a gondnokság alá helyezett személy cselekvőképességét. Ha az ítélet erről rendelkezik, a névjegyzéknek tartalmaznia kell a gondnokság alá helyezés felülvizsgálatának bíróság által megállapított időpontját is. A névjegyzék adatairól csak azok kaphatnak felvilágosítást, akik az ehhez fűződő jogi érdeküket igazolják.
 
-(5) A bíróság a gondnokság alá helyezettek – a gondnokoltak nyilvántartására vonatkozó törvényben meghatározott – adatairól számítógépes nyilvántartást vezet.
+(5) A bíróság a gondnokság alá helyezettek névjegyzékének adatairól számítógépes nyilvántartást vezet. Az országosan összekapcsolt számítógépes közhiteles nyilvántartást az Országos Igazságszolgáltatási Tanács Hivatala kezeli. A Hivatal jogszabályban meghatározott költségtérítés ellenében az országos névjegyzék adatairól – a (4) bekezdésben meghatározottak szerint – felvilágosítást ad. Az adatszolgáltatás tényét a számítógépes rendszerben olyan módon kell rögzíteni, hogy az adatszolgáltatás időpontja, jogcíme és az adatkérő személye megállapítható maradjon. A jogellenes adatkérés, illetve adatfelhasználás jogkövetkezményeit a felvilágosítást kérő viseli.
 
 (6) A gondnokság alá helyezés iránti perben a feleket jövedelmi és vagyoni viszonyaikra tekintet nélkül teljes költségmentesség (84. §) illeti meg.
 
 ### A gondnokság alá helyezés módosítása, illetve megszüntetése
 
-312. § (1) A gondnokság alá helyezés megszüntetése, a cselekvőképességet részlegesen korlátozó gondnokság cselekvőképességet teljesen korlátozó gondnokságra változtatása, a cselekvőképességet teljesen korlátozó gondnokság cselekvőképességet részlegesen korlátozó gondnokság alá helyezésre módosítása, a cselekvőképességet részlegesen korlátozó gondnokság esetén a gondnokolt által önállóan nem gyakorolható ügycsoportok módosítása, a választójogból való kizárás, valamint a választójogból való kizárás megszüntetése iránt a keresetet az ellen kell megindítani, akinek keresete folytán a bíróság a gondnokságot elrendelte, ha pedig a gondnokság megszüntetését vagy módosítását, a választójogból való kizárást vagy a választójogból való kizárás megszüntetését az kéri, a gondnokolt ellen. Ha az, akinek keresete folytán a bíróság a gondnokságot elrendelte, meghalt vagy ismeretlen helyen, illetve külföldön tartózkodik, a keresetet a bíróság által kirendelt ügygondnok ellen kell megindítani.
+312. § (1) A gondnokság alá helyezés megszüntetése, cselekvőképességet korlátozó gondnokság esetén azon ügycsoportok módosítása, amelyek vonatkozásában a bíróság a gondnokolt cselekvőképességét korlátozta, a cselekvőképességet korlátozó gondnokság cselekvőképességet kizáró gondnoksággá változtatása, valamint a cselekvőképességet kizáró gondnokság cselekvőképességet korlátozó gondnokság alá helyezésre módosítása iránt a keresetet az ellen kell megindítani, akinek keresete folytán a bíróság a gondnokságot elrendelte, ha pedig a gondnokság megszüntetését vagy módosítását az kéri, a gondnokolt ellen. Ha az, akinek keresete folytán a bíróság a gondnokságot elrendelte, meghalt vagy ismeretlen helyen, illetve külföldön tartózkodik, a keresetet a bíróság által kirendelt ügygondnok ellen kell megindítani.
 
-(2) A gondnokság alá helyezés kötelező felülvizsgálata esetén a gyámhatóság keresete az (1) bekezdésben meghatározottakon kívül a gondnokság alá helyezés fenntartására is irányulhat.
+(2) Ha a bíróság a gondnokság alá helyezésről rendelkező ítéletében a gondnokság alá helyezés kötelező felülvizsgálatát írta elő a Ptk. 14/A. §-ának megfelelően, a gyámhatóság keresete az (1) bekezdésben meghatározottakon kívül a gondnokság alá helyezés fenntartására is irányulhat.
 
 (3) Az eljárásra a 304–311. §-ok rendelkezései megfelelően irányadók. A gondnokság alá helyezett a perben teljes perbeli cselekvőképességgel rendelkezik.
 
-(4) Ha a bíróság a gondnokság alá helyezést módosítja, megszünteti, a választójogból kizár, vagy a választójogból való kizárást megszünteti, a gondnokoltak nyilvántartásában az alperesre vonatkozó adatokat az ítéletnek megfelelően módosítani kell.
+(4) Ha a bíróság a gondnokság alá helyezést módosítja, illetve megszünteti, a gondnokoltak névjegyzékében az alperesre vonatkozó adatokat az ítéletnek megfelelően módosítani kell.
 
-(5) A gondnokság alá helyezés hatályában való fenntartása, módosítása, megszüntetése, a választójogból való kizárás, a választójogból való kizárás megszüntetése, valamint a gondnokság alá helyezés kötelező felülvizsgálata iránt indított perben a feleket jövedelmi és vagyoni viszonyaikra tekintet nélkül teljes költségmentesség (84. §) illeti meg.
+(5) A gondnokság alá helyezés hatályában való fenntartása, módosítása és megszüntetése, valamint a gondnokság alá helyezés kötelező felülvizsgálata iránt indított perben a feleket jövedelmi és vagyoni viszonyaikra tekintet nélkül teljes költségmentesség (84. §) illeti meg.
 
-### Határozat az előzetes jognyilatkozat alkalmazásáról
+### XIX. Fejezet — Fizetési meghagyásos eljárás
 
-312/A. § (1) Ha a gondnokság alá helyezési perben a bíróság az alperes gondnokság alá helyezéséről dönt, és az előzetes jognyilatkozat ítélettel érintett részének alkalmazása indokolt, akkor a bíróság erről ítéletének rendelkező részében határoz.
+### A fizetési meghagyás kibocsátásának esetei
 
-(2) Az előzetes jognyilatkozat teljes vagy részleges alkalmazását elrendelő, valamint az előzetes jognyilatkozatok nyilvántartásának adatait érintő egyéb jogerős határozatnak az előzetes jognyilatkozatok nyilvántartására vonatkozó törvényben meghatározott adatait, valamint azok változásait az elsőfokú bíróság bevezeti az előzetes jognyilatkozatok nyilvántartásába, illetve szükség esetén törli onnan.
+313. § (1) A pénz fizetésére vagy ingó dolog kiadására irányuló lejárt követelés fizetési meghagyás útján is érvényesíthető.
 
-### XIX. Fejezet — A BÍRÓSÁG FIZETÉSI MEGHAGYÁSOS ELJÁRÁSSAL ÖSSZEFÜGGŐ FELADATAI
+(2) Kizárólag fizetési meghagyás útján érvényesíthető a pénz fizetésére irányuló olyan lejárt követelés, amelynek a 24. és 25. § szerint számított összege az egymillió forintot nem haladja meg, feltéve, ha van olyan bíróság, amely a fizetési meghagyás kibocsátására illetékes.
 
-### A bíróság feladatai a fizetési meghagyásos eljárás megindítása előtt
+(3) Fizetési meghagyást nem lehet kibocsátani, ha a kötelezettnek nincs belföldön ismert lakóhelye (tartózkodási helye vagy székhelye).
 
-313. § A pénz fizetésére irányuló lejárt követelés a közjegyző hatáskörébe tartozó, külön törvényben szabályozott fizetési meghagyásos eljárás útján is érvényesíthető.
+314. § (1) A fizetési meghagyásos eljárásban bírósági titkár, fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal járhat el.
 
-314. § (1) Csak a 313. §-ban meghatározott fizetési meghagyásos eljárás útján vagy a 127. §-ban meghatározott módon vagy a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított perben érvényesíthető a kizárólag pénz fizetésére irányuló olyan lejárt követelés, amelynek a 24. és 25. § szerint számított összege az egymillió forintot nem haladja meg, feltéve, ha a kötelezettnek van ismert belföldi lakóhelye vagy tartózkodási helye, illetve székhelye vagy képviselete (a továbbiakban együtt: idézési cím), és ha a pénzkövetelés nem munkaviszonyból, közalkalmazotti jogviszonyból, közszolgálati jogviszonyból, állami szolgálati jogviszonyból, szolgálati jogviszonyból, szövetkezeti tag munkaviszony jellegű jogviszonyából és a bedolgozói jogviszonyból ered.
+(2) A fizetési meghagyásos eljárásban – a kifejezetten emberi közreműködést nem igénylő eljárási cselekmények tekintetében – a bíróság gépi adatfeldolgozással, számítástechnikai eszköz útján is eljárhat (automatizált fizetési meghagyásos eljárás).
 
-(2) Ha a felperes a keresetével kizárólag olyan követelést érvényesít, amelyet az (1) bekezdés alapján csak fizetési meghagyásos eljárás útján lehet érvényesíteni, a keresetlevél idézés kibocsátása nélküli elutasításával [130. § (1) bek. c) pont] egyidejűleg a bíróság tájékoztatja őt a fizetési meghagyásos eljárás megindításának lehetőségéről és módjairól.
+### A fizetési meghagyás kibocsátásárairányuló kérelem
 
-(3) Az (1) bekezdés nem zárja ki, hogy a fél igényét az Európai Parlamentnek és a Tanácsnak a kis értékű követelések európai eljárásának bevezetéséről szóló 861/2007/EK rendeletében meghatározott eljárásban vagy választottbírósági eljárásban érvényesítse.
+315. § (1) A fizetési meghagyás iránti kérelmet az igazságügyért felelős miniszter rendeletében meghatározott űrlapon kell előterjeszteni; e rendelet a beadványok példányszámát a 93. §-tól eltérően is meghatározhatja. A kérelemre egyebekben – ha e fejezet másként nem rendelkezik – a 93., 94. és 121. § rendelkezései megfelelően irányadók. Azt az okiratot (annak másolatát, kivonatát), amelyre a fél bizonyítékként hivatkozik, csak akkor kell csatolni, ha az a követelés kötelezett által való beazonosításához szükségesnek tűnik. Ingó dolog kiadása iránti követelés esetében a kérelemben azt a pénzösszeget is meg kell jelölni, amelyet a jogosult a dolog helyett elfogadni hajlandó.
 
-### A fizetési meghagyásos eljárást követő peres eljárás
+(2) A kérelemben megjelölhető a természetes személy kötelezett születési helye, ideje, anyja neve, illetve adóazonosító jele; jogi személy, jogi személyiség nélküli szervezet (e fejezetben együtt: jogi személy) kötelezett nyilvántartási száma, illetve adószáma. Az űrlapon a jogosultat erről akként kell tájékoztatni, hogy ezen adatok a követelés későbbi végrehajtását segítik elő.
 
-315. § (1) A fizetési meghagyásos eljárás a kötelezett által előterjesztett ellentmondás folytán – az ellentmondással érintett részben – perré alakul.
+(3) A kérelem a kötelezett ellen fennálló több követelés tekintetében, valamint több kötelezett ellen fennálló azonos követelés tekintetében együttesen is előterjeszthető. Több kötelezett ellen fennálló követelés esetében az egyes kötelezetteket terhelő összegeket határozottan meg kell jelölni, egyetemleges kötelezettség esetében pedig a kérelemben ezt kell feltüntetni. E rendelkezéseket megfelelően kell alkalmazni arra az esetre, ha a kérelmet több jogosult terjeszti elő.
 
-(2) A fizetési meghagyásos eljárást az (1) bekezdésben meghatározott eseten kívül akkor is per követi, ha
+(5) A jogosult köteles az űrlapnak mind a kérelem előterjesztésére, mind a meghagyás kibocsátására szolgáló részét a 121. §, illetve a 317. § (3) bekezdésének megfelelően kiállítani azzal, hogy a 167. § (3) bekezdésének alkalmazása esetén a tanú személyi adatait külön lapon sem kell bejelenteni. Ha a jogosult a kérelmet nem az arra rendszeresített űrlapon terjesztette elő – ideértve a 316. § (3) bekezdésében foglalt esetet is –, vagy ha a fél az űrlapot nem megfelelően töltötte ki, illetve nem csatolta a szükséges példányszámban, őt a bíróság a hiányok pótlására hívja fel. A 124. § (2) bekezdését a fizetési meghagyásos eljárásban is megfelelően alkalmazni kell azzal az eltéréssel, hogy a 121/A. § (2) bekezdésében meghatározott iratokat nem kell csatolni.
 
-- a) a fizetési meghagyás kibocsátása iránti kérelmet a közjegyző hivatalból elutasítja, és ezt követően a jogosult a követelés érvényesítése végett a bíróságnál keresetet indít;
-- b) a fizetési meghagyásos eljárást a közjegyző végzéssel megszünteti, és ezt követően a jogosult a követelés érvényesítése végett a bíróságnál keresetet indít.
+(6) A fizetési meghagyás kibocsátása iránti kérelem előterjesztésének ugyanaz a hatálya, mint a keresetlevél beadásának.
 
-(3) A (2) bekezdésben meghatározott esetekben a fizetési meghagyás kibocsátása iránti kérelem beadásának joghatályai – a (2) bekezdés b) pontja esetén a meghagyás kötelezett részére történő kézbesítésének joghatályai is – fennmaradnak, ha a keresetlevelet az elutasító vagy megszüntető végzés jogerőre emelkedését követő harminc napon belül a jogosult a bírósághoz
+316. § (1) A fizetési meghagyás iránti kérelem elintézésére a 95. §, a 125. § (4) bekezdése, valamint a 129. §, 130. § és 132. § rendelkezései megfelelően irányadók; ugyanezeket a rendelkezéseket kell megfelelően alkalmazni a 315. §-ban meghatározott előfeltételek hiánya esetében is.
 
-- a) benyújtja vagy annak címére ajánlott küldeményként postára adja,
-- b)
+(2) A fizetési meghagyást – a jogosult külön kérelme hiányában – csak a kötelezett részére kell kézbesíteni. A bíróság a fizetési meghagyást a jogosultnak is kézbesítteti, ha a fizetési meghagyást a (3) bekezdés alapján bocsátja ki.
 
-(4) A (3) bekezdés szerinti határidő elmulasztása esetén igazolásnak nincs helye. A keresetlevélhez mellékelni kell a kérelmet elutasító, illetve az eljárást megszüntető végzést.
+(3) A 313. § (2) bekezdése alá tartozó esetben beadott keresetlevelet fizetési meghagyás kibocsátására irányuló kérelemként kell elintézni.
 
-(5) A fizetési meghagyás kibocsátása iránti kérelem előterjesztésének ugyanaz a hatálya, mint a keresetlevél beadásának. A fizetési meghagyás kézbesítésének ugyanaz a hatálya, mint a keresetlevél kézbesítésének (128. §).
+(4) Ha a fizetési meghagyás kibocsátásának a 313. § alapján nincs helye, a kérelmet – a fizetési meghagyás kibocsátása nélkül – keresetlevélként az általános szabályok szerint kell elintézni. Ilyen esetben a bíróság felhívja a jogosultat, hogy – amennyiben azt még nem tette meg – nyolc nap alatt az illetéket a peres eljárás illetékére egészítse ki, az ügyre vonatkozó részletes tényállításait adja elő, és bizonyítékait terjessze elő, különben az eljárást megszünteti. Ha a jogosult a kérelemben a 167. § (3) bekezdésének alkalmazásával jelölt meg tanút, a bíróság arra is felhívja a jogosultat, hogy a tanú nevét és idézhető címét – amennyiben az szükséges, egyéb személyi adatait – az ott meghatározott módon jelentse be. Ha a jogosult a bíróság felhívásának eleget tesz, az elnök az ügy tárgyalására tűz ki határnapot.
 
-(6) A (2) bekezdésben meghatározott esetekben a 314. § (1) és (2) bekezdése alkalmazásának nincs helye.
+317. § (1) A bíróság a fizetési meghagyást az ellenfél meghallgatása nélkül, legkésőbb a kérelem beérkezésétől számított tizenöt napon belül bocsátja ki.
 
-316. § A fizetési meghagyásos eljárást követő per elintézéséből ki van zárva, és abban, mint bíró, nem vehet részt az ügyben korábban eljáró közjegyző (az őt alkalmazó közjegyző nevében eljáró közjegyzőhelyettes) és az ő 13. § (2) bekezdésében megjelölt hozzátartozója és volt házastársa.
+(3) A fizetési meghagyásnak tartalmaznia kell:
 
-317. § (1) A 315. § (1) bekezdésében, valamint – a 315. § (3) bekezdésében meghatározott feltételek fennállása esetén – a 315. § (2) bekezdésében meghatározott perben a fizetési meghagyásos eljárás díja és a fél célszerű és jóhiszemű eljárása keretében a fizetési meghagyásos eljárásban felmerült másolati díj (e §-ban együtt: díj) a perköltség részét képezi.
+- a) az eljáró bíróságot és a bírósági ügyszámot;
+- b) a feleknek és képviselőiknek nevét és lakóhelyét (tartózkodási helyét vagy székhelyét);
+- c) a követelés jogalapját, valamint a követelésnek és járulékainak összegét, ingó dolog kiadására irányuló követelés esetében pedig a dolognak, valamint annak a pénzösszegnek megjelölését, amelyet a jogosult a dolog helyett elfogadni hajlandó;
+- d) azt a meghagyást, hogy a kötelezett a követelésnek a meghagyás kézbesítésétől számított tizenöt nap – váltón alapuló követelés esetében három nap – alatt tegyen eleget és az összegszerűen meghatározott eljárási költségeket is fizesse meg;
+- e) azt a tájékoztatást, hogy a bíróság a meghagyással érvényesített követelés jogalapját és az annak bizonyítására szolgáló tényeket érdemben nem vizsgálta, és a meghagyás akkor válik jogerőssé és végrehajthatóvá, ha a kötelezett határidőben nem mond ellent;
+- f) azt a figyelmeztetést, hogy a kötelezett – ha a követelést alaptalannak tartja – a meghagyás ellen a 319., illetve 320. § szerint ellentmondással élhet;
+- g) azt a figyelmeztetést, hogy ha a meghagyás kézhezvétele után a kötelezett a követelést teljesíti, az elismerésnek minősül, és ebben az esetben a meghagyás az ellentmondásra nyitva álló határidő utolsó napját követő napon jogerőre emelkedik.
 
-(2) A közjegyzőnek a felet költségkedvezményben részesítő jogerős végzése a peres eljárásra is hatályos, azonban a perben eljáró bíróság a végzést hatályon kívül helyezheti vagy megváltoztathatja. Ha a közjegyző a felet költségkedvezményben részesítette, a fél részben vagy egészben mentes a 315. § (1) bekezdésében foglalt esetben a peres eljárás illetékének viselése alól.
+(4) A meghagyás a természetes személy adós születési helyét, idejét, anyja nevét, illetve adóazonosító jelét; jogi személy adós adószámát és nyilvántartási számát annyiban tartalmazza, amennyiben azokat a jogosult a kérelemben megjelölte. Ha azonban a jogi személyt bíróság elektronikus adatbázisban tartja nyilván, az eljáró bíróság a nyilvántartási számot hivatalból beszerzi, és azt a meghagyáson feltünteti.
 
-(3) Ha a felet a közjegyző a fizetési meghagyásos eljárás során költségkedvezményben részesítette, a díj megfizetéséről és viseléséről a 315. § (1) bekezdésében foglalt esetben a bíróság határoz és kötelezi a felet a költségkedvezmény folytán meg nem fizetett díjnak a Magyar Országos Közjegyzői Kamara (a továbbiakban: MOKK) részére való megfizetésére. E határozatát a bíróság a MOKK-nak is kézbesíti. Ha a fél a per során költségkedvezményben részesül, ez a díj megfizetése alól őt nem mentesíti.
+318. § (1) A fizetési meghagyás kézbesítésének ugyanaz a hatálya, mint a keresetlevél kézbesítésének (128. §).
 
-(4) A díj tekintetében igénybe vehető kedvezményre a fizetési meghagyásos eljárásról szóló külön törvényt, valamint a felhatalmazása alapján kiadott külön jogszabályt, a peres eljárás során igénybe vehető további kedvezményekre e törvényt, valamint az e törvény felhatalmazása alapján kiadott külön jogszabályt kell alkalmazni.
+(2) A fizetési meghagyás hirdetmény útján nem kézbesíthető. Ha a 132. § (2) bekezdése alapján a jogosult hirdetményi kézbesítést kér, a fizetési meghagyás kibocsátása iránti kérelmet a 316. § (4) bekezdésének megfelelő alkalmazásával keresetlevélként kell elintézni.
 
-318. § (1) A bíróság a 315. § (1) bekezdésében meghatározott pert megszünteti, ha a jogosult az illetékfizetési, továbbá
+### Ellentmondás, tárgyalás
 
-- a) tényállás-előadási és bizonyíték-előterjesztési kötelezettségét,
-- b)
+319. § (1) A fizetési meghagyás ellen a kötelezett annak kézbesítésétől számított tizenöt nap – váltón alapuló követelés esetében három nap – alatt a fizetési meghagyást kibocsátó bíróságnál írásban ellentmondással élhet. Az ellentmondást az igazságügyért felelős miniszter rendeletében meghatározott űrlapon is elő lehet terjeszteni. Ha az ellentmondás a fizetési meghagyásnak csak valamely része vagy rendelkezése ellen irányul, a fizetési meghagyásnak az ellentmondással nem érintett része (rendelkezése) jogerőre emelkedik.
 
-a közjegyző felhívásának kézbesítésétől számított tizenöt napon belül nem teljesítette.
+(2) A kötelezettnek a követelésre az ellentmondásban nyilatkoznia kell. A kötelezett előadhatja a védekezésének alapjául szolgáló tényeket, valamint ezek bizonyítékait; okirati bizonyítékait eredetiben vagy másolatban csatolhatja.
 
-(2) Ha a jogosult a fizetési meghagyás kibocsátása iránti kérelmében a perré alakulás esetére illetékes bíróságként nem a hatáskörrel és illetékességgel rendelkező bíróságot jelölte meg, vagy az aktanyomatot a közjegyző egyéb okból nem ez utóbbi bíróságnak küldte meg, az ügyet át kell tenni a hatáskörrel rendelkező illetékes bírósághoz, kivéve, ha a bíróság, amelyikhez az aktanyomat érkezett, a pert az (1) bekezdésben foglaltak alapján megszünteti.
+(3) Ha az ellentmondásban a kötelezett a követelésre érdemben nem nyilatkozik, vagy az ellentmondás egyébként kiegészítésre szorul, az ellentmondás elutasításának ebből az okból nincs helye, az elnök azonban a 124. § alapján intézkedéseket tehet a tárgyalás előkészítésére.
 
-319. § (1) Ha a jogosult a 318. § (1) bekezdésben foglalt kötelezettségeit teljesíti, az iratok megérkezésétől – ideértve a közjegyzői aktanyomat megérkezését is – számított harminc napon – az Ötödik Rész alkalmazása esetén tizenöt napon – belül a bíróság az ügy tárgyalására határnapot tűz ki, és arra a jogosultat felperesként, a kötelezettet pedig alperesként megidézi.
+(4) Nem tekinthető a fizetési meghagyás megtámadásának, ha a kötelezett a követelés összegét teljes egészében elismeri, és csak a fizetésre halasztásnak vagy az összeg részletekben való megfizetésének engedélyezését kéri. Ebben az esetben a 217. § (3) bekezdését kell megfelelően alkalmazni. Nem minősül a fizetési meghagyás megtámadásának a kijavításra irányuló kérelem sem.
 
-(2) A perbehívásra rendelkezésre álló határidőt – az alperes vonatkozásában – a felperes 318. § (1) bekezdésében foglalt kötelezettsége alapján benyújtott előkészítő iratnak az alperes részére történő kézbesítésétől kell számítani.
+(5) Ha a kötelezett az ellentmondásban okirati bizonyítékkal valószínűvé teszi, hogy az érvényesített követelést a fizetési meghagyás kézhezvételét megelőzően már teljesítette, a bíróság az okirati bizonyíték másolatának csatolásával felhívja a jogosultat, hogy tizenöt napon belül nyilatkozzék a követelés fennállásáról. Ha a jogosult a kötelezett állítását elismeri, vagy a felhívásra nem nyilatkozik, a bíróság a pert megszünteti, egyébként pedig a 322. § rendelkezései szerint jár el. Ha a jogosult a kötelezett nyilatkozata alapján a fizetési meghagyásban érvényesített követelését leszállítja, tárgyalást csak erre a követelésre kell kitűzni.
 
-320. § (1) Az ellentmondás folytán kitűzött tárgyalásra a keresetlevél alapján kitűzött első tárgyalás szabályait, a további eljárásra pedig az elsőfokú eljárásra vonatkozó általános rendelkezéseket – vagy ha annak a 387. § alapján helye van, a Hatodik Rész rendelkezéseit – kell megfelelően alkalmazni. Az első tárgyalási nap időpontjára vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a határidőt a 318. § (1) bekezdésében meghatározott, a jogosult által beadott iratoknak – illetőleg az aktanyomatnak, ha ez utóbbi később érkezik meg – a bírósághoz való érkezésétől kell számítani.
+(6) Nem tekinthető a fizetési meghagyás megtámadásának, ha a kötelezett arra hivatkozik, hogy az érvényesített követelést a fizetési meghagyás kézhezvételét követően teljesítette; ebben az esetben a meghagyás az ellentmondásra nyitva álló határidő utolsó napját követő napon jogerőre emelkedik. Ha a kötelezett a teljesítést okirati bizonyítékkal valószínűvé teszi, a bíróság az okirati bizonyíték másolatának csatolásával felhívja a jogosultat, hogy tizenöt napon belül nyilatkozzék a követelés fennállásáról. Ha a jogosult a kötelezett állítását elismeri, vagy a felhívásra nem nyilatkozik, a bíróság a 321. § (2) bekezdésében meghatározott záradékban feltünteti, hogy a követelés tárgyában végrehajtásnak nincs helye.
 
-(2) A bíróság a végrehajtható okiratnak a kézbesítése vagy a meghagyás végrehajtói kézbesítése után előterjesztett ellentmondás folytán perré alakult eljárásban az alperest legkésőbb az eljárást befejező határozatában pénzbírsággal sújtja, ha az alperes a jóhiszemű joggyakorlás követelményeivel ellentétesen vagy egyébként nyilvánvalóan alaptalanul terjesztett elő ellentmondást kivéve, ha a fizetési meghagyás kézbesítésének vélelmét megdönti.
+(7) Ha több kötelezett ellen kibocsátott fizetési meghagyás esetében a kötelezettek egyike terjeszt elő ellentmondást, ennek hatályára az 52. és 53. § megfelelően irányadó.
 
-321. § (1) A fizetési meghagyásos eljárást követő perben a 130. § (1) bekezdésének a)–h) pontjára tekintettel helye lehet a per megszüntetésének, illetve a 315. § (2) bekezdésének a) pontjában meghatározott esetben – ha a 128. § szerinti joghatályok nem maradnak fenn, akkor a 315. § (2) bekezdésének b) pontjában meghatározott esetben is – a keresetlevél idézés kibocsátása nélküli elutasításának is.
+320. § (1) Ha a fizetési meghagyást a kötelezett nem vette át, és ezért azt a 99. § (2) bekezdése alapján kézbesítettnek kell tekinteni, a végrehajtható okirat kézbesítésétől számított tizenöt nap – váltón alapuló követelés esetében három nap – alatt a kötelezett a fizetési meghagyást kibocsátó bíróságnál írásban ellentmondással élhet. Az ellentmondás előterjesztésével egyidejűleg a kötelezett köteles a végrehajtás során felmerült, a jogosult által előlegezett költségeket a jogosultnak megfizetni vagy bírói letétbe helyezni. Ha ezt a kötelezett nem igazolja, a bíróság az ellentmondást érdemi vizsgálat nélkül elutasítja, ellenkező esetben a végrehajtási eljárást felfüggeszti. A végrehajtás során az ellentmondás előterjesztéséig felmerült költségeket a kötelezett viseli, kivéve ha a kézbesítési vélelmet megdönti.
 
-(2) A 157/A. § alkalmazása során nem tekinthető írásbeli védekezésnek a fizetési meghagyással szemben előterjesztett ellentmondás.
+(2) Ha a fizetési meghagyást tartalmazó iratot a bírósági végrehajtásról szóló 1994. évi LIII. törvény 31/D. §-a szerint végrehajtói kézbesítés útján kézbesítették, az (1) bekezdés szabályait azzal az eltéréssel kell alkalmazni, hogy az ellentmondás előterjesztésre nyitva álló határidőt attól az időponttól kell számítani, amikor a fizetési meghagyást tartalmazó irat végrehajtói kézbesítése a külön jogszabály szerint eredményesen megtörtént.
 
-321/A. § (1) A XXVIII. Fejezet rendelkezéseit a fizetési meghagyásos eljárást követő peres eljárásban 2016. január 1. napjától ezen §-ban foglalt eltérésekkel kell alkalmazni.
+321. § (1) Ha a fizetési meghagyást ellentmondással a 319. § (1) bekezdésében meghatározott határidőn belül nem támadták meg, annak ugyanolyan hatálya van, mint a jogerős ítéletnek, s ellene a XIII. fejezet megfelelő alkalmazásával perújításnak van helye.
 
-(2) A kötelezett ellentmondását követően
+(2) Ha a kötelezett a fizetési meghagyást kellő időben ellentmondással nem támadja meg, a bíróság a meghagyásnak a kérelem előterjesztésével egyidejűleg evégből benyújtott példányát jogerősítési záradékkal látja el, és így kézbesítteti a jogosultnak. Ha a fizetési meghagyást a kötelezett nem vette át, és ezért azt a 99. § (2) bekezdése alapján kell a részére kézbesítettnek tekinteni, a bíróság tájékoztatja a jogosultat a 320. §-ban, valamint a Vht. 31/D. §-ában foglaltakról.
 
-- a) az elektronikus kapcsolattartást választó jogosult vagy képviselője,
-- b) a belföldi székhellyel rendelkező gazdálkodó szervezet jogosult,
-- c) a jogi képviselővel eljáró jogosult a jogi képviselő útján az ügyre vonatkozó részletes tényállításait és okirati bizonyítékait, továbbá minden egyéb beadványt kizárólag elektronikusan, a XXVIII. Fejezetben meghatározottak szerint terjeszthet elő.
+(3) Ha a jogerős fizetési meghagyást a 320. §-ban meghatározott határidőn belül ellentmondással megtámadják, a meghagyás hatályát veszti, feltéve, ha az ellentmondást a bíróság hivatalból nem utasítja el.
 
-(3) Ha a fizetési meghagyásos eljárást követő peres eljárásban a kapcsolattartás a jogosult részéről elektronikus úton történik, és a jogosult az ellentmondás előterjesztését követően az ügyre vonatkozó részletes tényállításait és okirati bizonyítékait a bíróság részére nem elektronikus úton terjeszti elő, a bíróság a pert megszünteti.
+(4) Ha az ellentmondás elkésett, vagy az nem az ellentmondás előterjesztésére jogosulttól származik, a bíróság azt hivatalból elutasítja.
 
-322. § (1) A jogerős fizetési meghagyás ellen a XIII. Fejezet szabályai szerint perújításnak van helye. A perújítási eljárás lefolytatására az a bíróság rendelkezik hatáskörrel és illetékességgel, amelyik – ellentmondás esetén – elsőfokú bíróságként a perré alakult eljárás lefolytatására hatáskörrel és illetékességgel rendelkezett volna.
+322. § (1) A kellő időben [319. § (1) bek., 320. §] előterjesztett ellentmondás folytán a fizetési meghagyásos eljárás perré alakul át. A bíróság az ellentmondás kézbesíttetésével egyidejűleg felhívja a jogosultat, hogy – amennyiben azt még nem tette meg – az illetéket nyolc napon belül a peres eljárás illetékének összegére egészítse ki, az ügyre vonatkozó részletes tényállításait adja elő, és bizonyítékait terjessze elő. Ezek elmulasztása esetében a bíróság a pert megszünteti. Ha a jogosult a kérelemben a 167. § (3) bekezdésének alkalmazásával jelölt meg tanút, az ellentmondás kézbesíttetésével egyidejűleg a bíróság arra is felhívja a jogosultat, hogy a tanú nevét és idézhető címét – amennyiben az szükséges, egyéb személyi adatait – az ott meghatározott módon jelentse be. Ha a kötelezett a követelésre vonatkozó nyilatkozatát az ellentmondással együtt már benyújtotta, annak másodpéldányát az ellentmondással kézbesíttetni kell a felperesnek.
 
-(2) A 260. § (1) bekezdésének d) pontját a jogerős fizetési meghagyással szemben előterjesztett perújítás esetén úgy kell alkalmazni, hogy perújításnak akkor van helye, ha törvény ellenére a kötelezettnek a meghagyást hirdetményi úton kézbesítették. A 260. § (4) bekezdése ebben az esetben is megfelelően irányadó.
+(2) Ha a jogosult a (1) bekezdésben foglalt kötelezettségeit teljesíti, az iratok megérkezésétől számított harminc napon belül a bíróság az ügy tárgyalására határnapot tűz ki, és arra a jogosultat felperesként, a kötelezettet pedig alperesként megidézi. Ha a bíróság a meghagyást a 316. § (2) bekezdése alapján a jogosultnak még nem kézbesíttette, az ellentmondás folytán kitűzött tárgyalásra szóló idézéssel együtt a jogosultnak az ellentmondással megtámadott meghagyás egy példányát is kézbesítteti.
 
-### Az európai fizetési meghagyásos eljárással összefüggő eltérő rendelkezések
+323. § (1) Az ellentmondás folytán kitűzött tárgyalásra a keresetlevél alapján kitűzött első tárgyalás szabályait, a további eljárásra pedig az elsőfokú eljárásra vonatkozó általános rendelkezéseket – vagy ha annak a 387. § alapján helye van, az Ötödik Rész rendelkezéseit – kell megfelelően alkalmazni. Az első tárgyalási nap időpontjára vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a határidőt a 322. § (1) bekezdésében meghatározott, a jogosult által beadott iratoknak a bírósághoz való érkezésétől kell számítani.
 
-323. § (1) Az Európai Parlament és a Tanács 1896/2006/EK rendeletében (e §-ban a továbbiakban: rendelet) meghatározott európai fizetési meghagyásos eljárásból perré alakult eljárásra e törvény rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
-
-(2) A 314. § alkalmazása esetén fizetési meghagyáson európai fizetési meghagyást is érteni kell.
-
-(3) A kérelemnek a rendelet 11. cikke szerint történő elutasítása esetén a jogosult a bíróságnál keresetet indíthat, ebben az esetben a 315. § (2)–(5) bekezdését megfelelően alkalmazni kell.
-
-(4) Az ellentmondás folytán perré alakuló európai fizetési meghagyásos eljárásban a felperest a bíróság hívja föl arra, hogy harminc napon belül a peres eljárás illetékét rója le, az ügyre vonatkozó részletes tényállításait adja elő, és bizonyítékait terjessze elő. A bíróság a felhívást azzal a figyelmeztetéssel látja el, hogy az abban foglaltak elmulasztása esetében a pert megszünteti. Ha a felperes jogosultként az európai fizetési meghagyás kibocsátása iránti kérelmében a 167. §-ának (3) bekezdése alkalmazásával jelölt meg tanút, a bíróság arra is felhívja a felperest, hogy a tanú nevét és idézhető címét – amennyiben az szükséges, egyéb személyi adatait – az ott meghatározott módon jelentse be.
-
-(5) Ha a rendelet szabályaiból más nem következik, a rendelet 20. cikkének (2) bekezdésében meghatározott felülvizsgálatra a perújítás megengedhetőségének vizsgálatára vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+(2) A bíróság a 320. § rendelkezései szerint előterjesztett ellentmondás folytán perré alakult eljárásban az alperest legkésőbb az eljárást befejező határozatában pénzbírsággal sújtja, ha az alperes a jóhiszemű joggyakorlás követelményeivel ellentétesen vagy egyébként nyilvánvalóan alaptalanul terjesztett elő ellentmondást, kivéve ha a fizetési meghagyás kézbesítésének vélelmét megdönti.
 
 ### XX. Fejezet — A közigazgatási perek
 
@@ -3094,7 +2805,7 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 
 (2) E fejezet alkalmazásában közigazgatási határozat
 
-- a) a közigazgatási hatósági eljárás általános szabályairól szóló törvényben (a továbbiakban: Ket.) meghatározott közigazgatási hatóság vagy vezetője által hatósági ügyben hozott határozat, valamint a hatósági szerződésben foglalt kötelezettség megszegése miatt végrehajtást elrendelő végzés,
+- a) a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott közigazgatási hatóság vagy vezetője által hatósági ügyben hozott határozat, valamint a hatósági szerződésben foglalt kötelezettség megszegése miatt végrehajtást elrendelő végzés,
 - b) a helyi önkormányzat törvényben meghatározott határozata,
 - c) más szervnek, szervezetnek vagy személynek az a határozata, amely nem tartozik az a) pont hatálya alá, de felülvizsgálatára vonatkozóan külön törvény e fejezet alkalmazását rendeli.
 
@@ -3106,13 +2817,6 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 (4) Ha az ügy különös bonyolultsága indokolja, az elsőfokú bíróság a tárgyalás megkezdése előtt elrendelheti, hogy az ügyben három hivatásos bíróból álló tanács járjon el. Ha a bíróság az ügy tanács elé utalásáról rendelkezett, utóbb az ügyben egyesbíró nem járhat el.
 
 324/A. § A hatósági szerződés módosításával és a hatósági szerződés hatóság általi megszegésével kapcsolatban felmerült jogviták elbírálására az I–XIV. fejezet rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy az eljárásra a 325. §-ban, a 326. § (2) és (3) bekezdésében, a 327. § (4) bekezdésében, a 329. §-ban és a 336/B. § (2) bekezdésében foglalt rendelkezések megfelelően irányadók.
-
-324/B. § (1) A perben – a (2) bekezdésben meghatározott kivétellel – szünetelésnek csak egyszer van helye.
-
-(2) A perben nincs helye szünetelésnek, ha a bíróság
-
-- a) a keresetlevélben előterjesztett végrehajtás felfüggesztése iránti kérelemről még nem döntött vagy
-- b) a végrehajtás felfüggesztése iránti kérelemnek helyt adott.
 
 ### A bírák kizárása
 
@@ -3137,15 +2841,15 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 
 (5) Ha az első fokon eljárt közigazgatási szerv illetékességi területe több megyére terjed ki (megye alatt értve a fővárost is), de a felperesnek nincsen belföldi lakóhelye, tartózkodási helye, illetve székhelye, és az illetékes bíróság a (3) és (4) bekezdés alapján sem állapítható meg, a perben az első fokon eljárt közigazgatási szerv székhelye szerint illetékes bíróság jár el.
 
-(6) A Magyarország területére történő beutazásra és az ott való tartózkodásra vonatkozó ügyekben hozott közigazgatási határozatok felülvizsgálata iránti perekben az illetékességet az első fokon eljárt közigazgatási szerv székhelye alapozza meg. Ha az eljárt hatóság székhelye alapján az illetékesség nem állapítható meg, a perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(6) A Magyar Köztársaság területére történő beutazásra és az ott való tartózkodásra vonatkozó ügyekben hozott közigazgatási határozatok felülvizsgálata iránti perekben az illetékességet az első fokon eljárt közigazgatási szerv székhelye alapozza meg. Ha az eljárt hatóság székhelye alapján az illetékesség nem állapítható meg, a perre a Fővárosi Bíróság kizárólagosan illetékes.
 
-(7) Ha az első fokon eljárt közigazgatási szerv illetékessége az egész országra kiterjed – a (12)–(14) bekezdésben foglalt kivétellel – a perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(7) Ha az első fokon eljárt közigazgatási szerv illetékessége az egész országra kiterjed – a (12) bekezdésben foglalt kivétellel – a perre a Fővárosi Bíróság kizárólagosan illetékes.
 
 (8) Ha ugyanazon közigazgatási határozat felülvizsgálata iránt több bíróság előtt indítanak pert, az az illetékes bíróság jár el, amelyhez a keresetlevelet elsőként továbbították. A közigazgatási szerv az utóbb továbbított keresetlevélre a 330. § (2) bekezdése szerint megtett nyilatkozatában felhívja a bíróság figyelmét arra, hogy korábban az adott határozat ellen másik keresetlevelet nyújtottak be, és azt az abban megjelölt másik illetékes bírósághoz továbbították. Az a bíróság, amelynek a közigazgatási szerv utóbb továbbított keresetlevelet, a 129. § szerint jár el.
 
-(9)
+(9) Közigazgatási perekben a megyei bíróság által első fokon hozott határozatok tekintetében – ha törvény a fellebbezést megengedi – a másodfokú eljárásra a Fővárosi Ítélőtábla kizárólagosan illetékes.
 
-(10) A közigazgatási perekben jogerős határozatok folytán felmerült hatásköri vagy illetékességi összeütközés esetében, továbbá ha az illetékes bíróság nem állapítható meg, vagy kizárás miatt nem járhat el, az eljáró bíróságot a Kúria jelöli ki.
+(10) A közigazgatási perekben jogerős határozatok folytán felmerült hatásköri vagy illetékességi összeütközés esetében, továbbá ha az illetékes bíróság nem állapítható meg, vagy kizárás miatt nem járhat el, az eljáró bíróságot a Fővárosi Ítélőtábla jelöli ki.
 
 (11) E fejezet alkalmazásában:
 
@@ -3161,35 +2865,15 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 - e) az államháztartásról szóló törvény,
 - f) a területfejlesztésről és a területrendezésről szóló törvény,
 - g) az Országos Területrendezési Tervről szóló törvény,
-- h) az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény,
+- h) a Nemzeti Civil Alapprogramról szóló törvény,
 - i) az árak megállapításáról szóló törvény,
 - j) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény,
-- k)
-- l) a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény,
+- k) a Nemzeti Akkreditáló Testület szervezetéről, feladat- és hatásköréről, valamint eljárásáról szóló törvény,
+- l) a Magyar Köztársaság nemzeti jelképeinek és a Magyar Köztársaságra utaló elnevezésnek a használatáról szóló törvény,
 - m) a külföldre utazásról szóló törvény,
-- n) a nemzeti köznevelés tankönyvellátásáról szóló törvény,
+- n) a tankönyvpiac rendjéről szóló törvény,
 - o) a szomszédos államokban élő magyarokról szóló törvény,
-- p) a bírósági végrehajtásról szóló törvény,
-- q) a közúti közlekedésről szóló törvény,
-- r)
-- s) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló törvény.
-
-(13) A menedékjogról szóló törvény, valamint a végrehajtásáról szóló kormányrendelet alapján indult felülvizsgálati eljárásokban – a (14) bekezdésben foglalt kivétellel – a felperes belföldi lakóhelye, ha lakóhelye nincs, tartózkodási helye, ezek hiányában – a menekültügyi nyilvántartás szerinti – szálláshelye szerint illetékes ítélőtábla székhelye szerinti közigazgatási és munkaügyi bíróság – a Fővárosi Ítélőtábla esetében a Fővárosi Közigazgatási és Munkaügyi Bíróság – jár el. Ha a felperesnek – a (14) bekezdésben foglalt kivétellel – nincs belföldi lakóhelye, tartózkodási helye, illetve szálláshelye, az utolsó belföldi lakóhelye, ha lakóhelye nem volt, utolsó tartózkodási helye, ennek hiányában – a menekültügyi nyilvántartás szerinti – utolsó szálláshelye szerint illetékes ítélőtábla székhelye szerinti közigazgatási és munkaügyi bíróság – a Fővárosi Ítélőtábla esetében a Fővárosi Közigazgatási és Munkaügyi Bíróság – jár el.
-
-(14) A menedékjogról szóló törvény szerinti határon lefolytatott eljárások eredményeként az elfogadhatatlanság tárgyában hozott menekültügyi határozat bírósági felülvizsgálati eljárására
-
-- a) a – b) és c) pontban meghatározott kivétellel – Szegedi Közigazgatási és Munkaügyi Bíróság,
-- b) a Barcsi Járásbíróság illetékességi területéhez tartozó települések területén és Baranya megye területén benyújtott kérelmek tekintetében a Pécsi Közigazgatási és Munkaügyi Bíróság,
-- c) a Zala megye és Somogy megye – a Barcsi Járásbíróság illetékességi területéhez tartozó települések területének kivételével – területén benyújtott kérelmek tekintetében a Zalaegerszegi Közigazgatási és Munkaügyi Bíróság
-
-illetékes.
-
-(14) A közbeszerzésekről szóló törvény alapján indult közigazgatási perekben kizárólagosan illetékes
-
-- a) a Kecskeméti Közigazgatási és Munkaügyi Bíróság, ha az ajánlatkérő székhelye Bács-Kiskun megye, Békés megye, Borsod-Abaúj-Zemplén megye, Csongrád megye, Hajdú-Bihar megye, Heves megye, Jász-Nagykun-Szolnok megye, Nógrád megye vagy Szabolcs-Szatmár-Bereg megye területén; illetve
-- b) a Székesfehérvári Közigazgatási és Munkaügyi Bíróság, ha az ajánlatkérő székhelye Budapesten, valamint Baranya megye, Fejér megye, Győr-Moson-Sopron megye, Komárom-Esztergom megye, Pest megye, Somogy megye, Tolna megye, Vas megye, Veszprém megye vagy Zala megye területén található.
-
-(15) A védelmi és biztonsági célú beszerzésekről szóló törvény alapján indult közigazgatási perekre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+- p) a bírósági végrehajtásról szóló törvény.
 
 ### Felek
 
@@ -3204,13 +2888,13 @@ illetékes.
 
 (4) A perben fél lehet az is, akit a közigazgatási jog szabályai szerint jogok illethetnek és kötelezettségek terhelhetnek, továbbá az a közigazgatási szerv is, amelynek egyébként nincs perbeli jogképessége.
 
-327/A. § (1) Az ügyész akkor kérheti a közigazgatási határozat bírósági felülvizsgálatát, ha a határozat az ügyészségről szóló törvény szerinti ügyészi felhívásban (a továbbiakban: ügyészi felhívás) a törvénysértés orvoslására megállapított határidő elteltét követően sem felel meg a jogszabályok rendelkezéseinek.
+327/A. § (1) Az ügyész akkor kérheti a közigazgatási határozat bírósági felülvizsgálatát, ha az ügyészi óvás folytán hozott határozat továbbra sem felel meg a jogszabályok rendelkezéseinek.
 
 (2) Az (1) bekezdés alapján indult eljárás során a 332/A. § b) pontját nem lehet alkalmazni.
 
 328. § (1) Ha a közigazgatási szerv, amely a határozatot hozta, megszűnik, vagy az ügy időközben más közigazgatási szerv hatáskörébe került, azt a közigazgatási szervet kell alperesként perbe vonni, amelynek hatáskörébe az új rendelkezés szerint a közigazgatási határozat meghozatala tartozik.
 
-(2) Ha nem állapítható meg, hogy melyik közigazgatási szervet kell perbe vonni, a fél ennek megállapítására irányuló kérelmét – a per megindítása előtt – bármelyik közigazgatási és munkaügyi bíróságnál előterjesztheti (94. §). A kérelemhez csatolni kell a keresetlevelet. Ha a fél a kérelmet nem az illetékes bíróságnál terjesztette elő, az a bíróság, amelynél a kérelmet benyújtotta, köteles azt a keresetlevéllel együtt az illetékes bírósághoz továbbítani.
+(2) Ha nem állapítható meg, hogy melyik közigazgatási szervet kell perbe vonni, a fél ennek megállapítására irányuló kérelmét – a per megindítása előtt – bármelyik megyei bíróságnál előterjesztheti (94. §). A kérelemhez csatolni kell a keresetlevelet. Ha a fél a kérelmet nem az illetékes bíróságnál terjesztette elő, az a bíróság, amelynél a kérelmet benyújtotta, köteles azt a keresetlevéllel együtt az illetékes bírósághoz továbbítani.
 
 (3) A bíróság a felügyeleti szervet keresi meg annak közlése iránt, hogy a határozat meghozatala melyik közigazgatási szerv hatáskörébe tartozik. Ha ilyen közigazgatási szerv nincs, a felügyeleti szerv kijelöli az alperesként perbe vonható közigazgatási szervet.
 
@@ -3228,7 +2912,7 @@ illetékes.
 - b) a határozatról való tudomásszerzés módját és idejét, valamint
 - c) ha a közigazgatási eljárásban a jogi képviselő olyan meghatalmazást csatolt, mely a per vitelére is vonatkozik, az erre való utalást.
 
-(2) A keresetlevelet jogszabálysértésre hivatkozással az elsőfokú közigazgatási határozatot hozó szervnél a felülvizsgálni kért határozat közlésétől számított harminc napon belül kell benyújtani vagy ajánlott küldeményként postára adni. Az elsőfokú közigazgatási szerv a keresetlevelet az ügy irataival együtt öt napon belül felterjeszti a másodfokú közigazgatási határozatot hozó szervhez, amely azokat – a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt – tizenöt napon belül továbbítja a bírósághoz. Ha a keresetlevél a végrehajtás felfüggesztésére irányuló kérelmet is tartalmaz, a keresetlevelet és az ügy iratait az első fokon eljáró közigazgatási szerv három napon belül terjeszti fel a másodfokon eljáró közigazgatási szervnek, amely azt nyolc napon belül továbbítja a bírósághoz.
+(2) A keresetlevelet az elsőfokú közigazgatási határozatot hozó szervnél a felülvizsgálni kért határozat közlésétől számított harminc napon belül kell benyújtani vagy ajánlott küldeményként postára adni. Az elsőfokú közigazgatási szerv a keresetlevelet az ügy irataival együtt öt napon belül felterjeszti a másodfokú közigazgatási határozatot hozó szervhez, amely azokat – a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt – tizenöt napon belül továbbítja a bírósághoz. Ha a keresetlevél a végrehajtás felfüggesztésére irányuló kérelmet is tartalmaz, a keresetlevelet és az ügy iratait az első fokon eljáró közigazgatási szerv három napon belül terjeszti fel a másodfokon eljáró közigazgatási szervnek, amely azt nyolc napon belül továbbítja a bírósághoz.
 
 (3) Ha a keresetet az első fokon eljáró közigazgatási szerv ellen kell megindítani, a (2) bekezdés alkalmazása során rá a másodfokú szervre vonatkozó rendelkezések irányadók.
 
@@ -3250,25 +2934,13 @@ illetékes.
 - c) írásban közli a közigazgatási szerv nyilatkozatát a felperessel;
 - d) az alperes kérelmére elrendeli a keresettel megtámadott környezetvédelmi bírság bírói letétbe helyezését.
 
-(2) Ha a keresettel felülvizsgálni kért határozatot a közigazgatási szerv ügyészi felhívás folytán hozta, a bíróság a perről az ügyészt értesíti.
+(2) Ha a keresettel felülvizsgálni kért határozatot a közigazgatási szerv ügyészi óvás folytán hozta, a bíróság a perről az ügyészt értesíti.
 
-(2a) A keresetlevél benyújtásának a végrehajtásra nincs halasztó hatálya, a felperes azonban a keresetlevélben a végrehajtás felfüggesztését kérheti. A kérelemben valószínűsíteni kell a (3) bekezdés utolsó mondata szerinti feltételeket, és az ezt alátámasztó bizonyítékokat a keresetlevélhez csatolni kell. E kötelezettség elmulasztása esetén a bíróság a végrehajtás felfüggesztése iránti kérelmet – hiánypótlási felhívás kiadását mellőzve – hivatalból elutasítja. A végrehajtás a kérelemnek a végrehajtást foganatosító szerv tudomására jutásától annak elbírálásáig, de legkésőbb az elbírálásra nyitva álló határidő elteltéig nem foganatosítható, kivéve, ha a hatóság a határozatot végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatónak nyilvánította.
+(3) Ha a keresetlevél a közigazgatási határozat végrehajtásának felfüggesztésére irányuló kérelmet tartalmaz, a bíróság annak tárgyában az iratoknak a bírósághoz való érkezését követő nyolc napon belül határoz. A későbbiek során a bíróság a közigazgatási határozat végrehajtásának felfüggesztését – már a tárgyalás kitűzése előtt is – kérelemre bármikor elrendelheti. A végrehajtás felfüggesztéséről szóló végzés meghozatala során a bíróságnak figyelemmel kell lennie arra, hogy a végrehajtást követően az eredeti állapot helyreállítható-e, vagy hogy a végrehajtás elmaradása nem okoz-e súlyosabb károsodást, mint amilyennel a végrehajtás felfüggesztésének elmaradása járna.
 
-(2b) A végrehajtás felfüggesztésének hatálya kiterjed a határozaton alapuló jogok gyakorlására is.
+(4) A végrehajtás felfüggesztése tárgyában hozott végzés ellen külön fellebbezésnek van helye. A bíróságnak a végrehajtás felfüggesztését elrendelő végzése fellebbezésre tekintet nélkül végrehajtható.
 
-(2c) Nincs helye a végrehajtás felfüggesztésének, ha a határozat
-
-- a) a polgári védelmi szolgálat ellátásával kapcsolatos kötelezettséget állapít meg,
-- b) jogerős bírósági döntés végrehajtását szolgálja,
-- c) a honvédelmi kötelezettségek részét képező gazdasági és anyagi szolgáltatással kapcsolatos kötelezettséget állapít meg,
-- d) a honvédelmi és katonai célú építmények, ingatlanok építésügyi hatósági engedélyezésére, illetve működési és védőterületeik kijelölésére vonatkozik,
-- e) végrehajtása felfüggesztésének törvényben meghatározott feltételei nem teljesülnek, vagy azt törvény kizárja.
-
-(3) Ha a keresetlevél a közigazgatási határozat végrehajtásának felfüggesztésére irányuló kérelmet tartalmaz, a bíróság annak tárgyában az iratoknak a bírósághoz való érkezését követő nyolc napon belül határoz. A későbbiek során a bíróság a közigazgatási határozat végrehajtásának felfüggesztését – már a tárgyalás kitűzése előtt is – kérelemre bármikor elrendelheti. A bíróság a végrehajtást foganatosító szervet haladéktalanul értesíti a végrehajtás felfüggesztéséről. A végrehajtás felfüggesztéséről szóló végzés meghozatala során a bíróságnak figyelemmel kell lennie arra, hogy a végrehajtást követően az eredeti állapot helyreállítható-e, vagy hogy a végrehajtás elmaradása nem okoz-e súlyosabb károsodást, mint amilyennel a végrehajtás felfüggesztésének elmaradása járna.
-
-(4) A végrehajtás felfüggesztése tárgyában hozott végzés ellen külön fellebbezésnek van helye. Ha a fél a végrehajtás felfüggesztése iránti kérelme elutasítását követően ismételten – azonos ténybeli és jogi alapon – nyújt be végrehajtás felfüggesztése iránti kérelmet, a végrehajtás felfüggesztését megtagadó végzés ellen külön fellebbezésnek nincs helye. A bíróságnak a végrehajtás felfüggesztését elrendelő végzése fellebbezésre tekintet nélkül végrehajtható.
-
-(5) Ha a közigazgatási eljárásban ellenérdekű ügyfél szerepelt, a bíróság értesíti őt a beavatkozás lehetőségéről.
+(5) Ha a közigazgatási eljárásban ellenérdekű fél is szerepelt, a bíróság értesíti őt a beavatkozás lehetőségéről.
 
 (6) Ha a közigazgatási határozat meghozatalára szakhatósági állásfoglalás alapulvételével került sor, az alperes a szakhatóságot perbe hívhatja, amely a perbehívást nem utasíthatja vissza.
 
@@ -3283,19 +2955,19 @@ illetékes.
 
 ### Soronkívüliség
 
-333. § (1) Kiskorú felperes által indított közigazgatási perben, valamint a helyi illetékességgel eljáró gyámhatóság által hozott olyan határozat felülvizsgálata iránt indított perben, amelyben a gyermek védelme érdekében a gyámhatóság
+333. § (1) Kiskorú felperes által indított közigazgatási perben, valamint a helyi illetékességgel eljáró gyámhivatal által hozott olyan határozat felülvizsgálata iránt indított perben, amelyben a gyermek védelme érdekében a gyámhatóság
 
 - a) elhelyezi a gyermeket a különélő másik szülőnél, más hozzátartozónál vagy arra alkalmas más személynél, illetve nevelőszülőnél – ha ezekre nincs mód –, gyermekotthonban vagy más bentlakásos intézményben,
 - b) megállapítja a szülői felügyeleti jog feléledését,
 - c) dönt a más szerv által alkalmazott ideiglenes hatályú elhelyezés megszüntetéséről vagy megváltoztatásáról,
-- d) nevelésbe veszi a gyermeket és egyidejűleg gyámot (hivatásos gyámot) rendel,
-- e)
-- f) dönt a nevelésbe vett gyermek kapcsolattartásáról,
-- g) dönt a gyermek nevelésbe vételének megszüntetéséről,
+- d) átmeneti nevelésbe veszi a gyermeket és egyidejűleg gyámot (hivatásos gyámot) rendel,
+- e) tartós nevelésbe veszi a gyermeket és egyidejűleg gyámot (hivatásos gyámot) rendel,
+- f) dönt átmeneti vagy tartós nevelésbe vett gyermek kapcsolattartásáról,
+- g) dönt a gyermek átmeneti vagy tartós nevelésbe vételének megszüntetéséről,
 
 a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül jár el.
 
-(2) Az (1) bekezdésben meghatározott ügyekben a gyámhatóság által indított perben, valamint ha külön törvény a soron kívül történő eljárásról rendelkezik, a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül jár el.
+(2) Az (1) bekezdésben meghatározott ügyekben a gyámhivatal által indított perben, valamint ha külön törvény a soron kívül történő eljárásról rendelkezik, a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül jár el.
 
 (3) A bíróság a keresetlevelet nyomban megvizsgálja és nyolc napon belül intézkedik a tárgyalás kitűzése iránt. Amennyiben a 124. §-ban, illetve a 332. §-ban foglalt intézkedések megtételére nincs szükség, a bíróság az első tárgyalást a keresetlevél beérkezésétől számított harminc napon belüli időpontra tűzi ki.
 
@@ -3317,9 +2989,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 ### Egyesítés
 
-335/B. § (1) A közigazgatási perekben az azonos hatáskörű bíróságok előtt folyamatban lévő perek egyesítésének is helye van. Ha az egyesítést több, azonos hatáskörű bíróság is elrendelte, a továbbiakban az jár el, amely az egyesítésről korábban határozott.
-
-(2)
+335/B. § A közigazgatási perekben az azonos hatáskörű bíróságok előtt folyamatban lévő perek egyesítésének is helye van. Ha az egyesítést több, azonos hatáskörű bíróság is elrendelte, a továbbiakban az jár el, amely az egyesítésről korábban határozott.
 
 ### Viszontkereset
 
@@ -3339,33 +3009,29 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (2) Közigazgatási perben szakértőként nem járhat el az a személy sem, akivel szemben a 325. § (1) bekezdésének a), b) és c) pontjában felsorolt kizáró ok áll fenn.
 
-### Eljárás ügyészi felhívás, illetve felügyeleti intézkedés esetében
+### Eljárás óvás, illetőleg felügyeleti intézkedés esetén
 
-337. § (1) Ha a bíróság tudomást szerez arról, hogy a közigazgatási szerv felülvizsgálni kért határozata ellen az ügyész felhívással élt, vagy pedig a felettes közigazgatási szerv a határozatnak felügyeleti úton való felülvizsgálata iránt intézkedett, a tárgyalást az ügyészi felhívás elbírálásáig, illetve a felügyeleti intézkedéssel elrendelt újabb határozat meghozataláig – legfeljebb azonban harminc napra – felfüggeszti. A harminc nap eltelte után a tárgyalást akkor is folytatni kell, ha a közigazgatási szerv érdemi határozatot még nem hozott.
+337. § (1) Ha a bíróság tudomást szerez arról, hogy a közigazgatási szerv felülvizsgálni kért határozata ellen az ügyész óvást nyújtott be, vagy pedig a felettes közigazgatási szerv a határozatnak felügyeleti úton való felülvizsgálata iránt intézkedett, a tárgyalást az óvás elbírálásáig, illetőleg a felügyeleti intézkedéssel elrendelt újabb határozat meghozataláig – legfeljebb azonban harminc napra – felfüggeszti. A harminc nap eltelte után a tárgyalást akkor is folytatni kell, ha a közigazgatási szerv érdemi határozatot még nem hozott.
 
-(2) Ha az ügyészi felhívás vagy a felügyeleti intézkedés, illetőleg a határozatnak hivatalból vagy kérelemre történt visszavonása vagy módosítása folytán hozott új közigazgatási határozat a kereseti kérelemben foglaltaknak eleget tesz, a bíróság a pert megszünteti, és a közigazgatási szervet a perköltség megfizetésére kötelezi.
+(2) Ha az óvás vagy a felügyeleti intézkedés, illetőleg a határozatnak hivatalból vagy kérelemre történt visszavonása vagy módosítása folytán hozott új közigazgatási határozat a kereseti kérelemben foglaltaknak eleget tesz, a bíróság a pert megszünteti, és a közigazgatási szervet a perköltség megfizetésére kötelezi.
 
-(3) Ha az ügyészi felhívás vagy a felügyeleti intézkedés folytán hozott új közigazgatási határozat a kereseti kérelemben foglaltak egy részének tesz csak eleget, a bíróság a pert csak ebben a részben szünteti meg, a tárgyalást pedig folytatja azokra a kereseti kérelmekre vonatkozóan, amelyek felől az új közigazgatási határozat egyáltalán nem, vagy nem a kereseti kérelemnek megfelelően döntött. A felperes a keresetét az új közigazgatási határozatra tekintettel megváltoztathatja. A per részben való megszüntetése folytán a közigazgatási szervet terhelő költségek megfizetéséről a bíróság az eljárást befejező határozatában dönt.
+(3) Ha az óvás vagy a felügyeleti intézkedés folytán hozott új közigazgatási határozat a kereseti kérelemben foglaltak egy részének tesz csak eleget, a bíróság a pert csak ebben a részben szünteti meg, a tárgyalást pedig folytatja azokra a kereseti kérelmekre vonatkozóan, amelyek felől az új közigazgatási határozat egyáltalán nem, vagy nem a kereseti kérelemnek megfelelően döntött. A felperes a keresetét az új közigazgatási határozatra tekintettel megváltoztathatja. A per részben való megszüntetése folytán a közigazgatási szervet terhelő költségek megfizetéséről a bíróság az eljárást befejező határozatában dönt.
 
-(4)
+(4) Ha a közigazgatási szerv az ügyészi óvással nem ért egyet, az ügyész az erre vonatkozó határozat közlésétől számított harminc napon belül keresettel fordulhat a bírósághoz.
 
 ### A per elbírálása tárgyaláson kívül
 
-338. § (1) A bíróság a pert tárgyaláson kívül bírálja el, a felek bármelyikének kérelmére azonban tárgyalást tart.
+338. § (1) A bíróság a pert tárgyaláson kívül bírálja el, ha a felperes a keresetlevélben ezt kéri, és a közigazgatási szerv a 330. § (2) bekezdése szerint tett nyilatkozatában ehhez hozzájárul.
 
-(2) Tárgyalás tartását az ügyfél – a (8) bekezdés b) pontját ide nem értve – a keresetlevélben, a közigazgatási szerv a keresetlevélben foglaltakra vonatkozó nyilatkozatában kérheti. Ennek elmulasztása miatt igazolásnak nincs helye.
+(2) A közigazgatási eljárásban szerepelt ellenérdekű felet a bíróság a 332. § (5) bekezdése szerint megküldött értesítésben figyelmezteti, hogy annak kézhezvételétől számított nyolc napon belül írásban tárgyalás tartását kérheti. A tárgyalás tartása iránti kérelem a beavatkozás bejelentésének minősül.
 
-(3) A közigazgatási eljárásban szerepelt ellenérdekű felet a bíróság a 332. § (5) bekezdése szerint megküldött értesítésben figyelmezteti, hogy annak kézhezvételétől számított nyolc napon belül írásban tárgyalás tartását kérheti. A tárgyalás tartása iránti kérelem a beavatkozás bejelentésének minősül.
+(3) Nem lehet a pert tárgyaláson kívül elbírálni, ha – az okirati bizonyítást ide nem értve – bizonyítást kell lefolytatni. Ha a bizonyítás lefolytatásának szükségessége a tárgyaláson kívüli elbírálás során merül fel, a per elbírálására a bíróság tárgyalást tűz ki.
 
-(4) A bíróság dönthet a per tárgyaláson történő elbírálásáról.
+(4) A per tárgyaláson kívül történő elbírálásának határidejére a 332/B. §-ban foglaltakat megfelelően alkalmazni kell.
 
-(5) Nem lehet a pert tárgyaláson kívül elbírálni, ha – az okirati bizonyítást ide nem értve – bizonyítást kell lefolytatni. Ha a bizonyítás lefolytatásának szükségessége a tárgyaláson kívüli elbírálás során merül fel, a per elbírálására a bíróság tárgyalást tűz ki.
+(5) A per tárgyaláson kívül történő elbírálásának időpontjáról a feleket értesíteni és az eljárásról jegyzőkönyvet készíteni nem kell. A tárgyaláson kívül hozott határozatokra a 339. §-ban foglaltakat kell megfelelően alkalmazni.
 
-(6) A per tárgyaláson kívül történő elbírálásának határidejére a 332/B. §-ban foglaltakat megfelelően alkalmazni kell.
-
-(7) A per tárgyaláson kívül történő elbírálásának időpontjáról a feleket értesíteni és az eljárásról jegyzőkönyvet készíteni nem kell. A tárgyaláson kívül hozott határozatokra a 339. §-ban foglaltakat kell megfelelően alkalmazni.
-
-(8) Nem lehet a pert tárgyaláson kívül elbírálni:
+(6) Nem lehet a pert tárgyaláson kívül elbírálni:
 
 - a) a 333. és a 337. §-ban foglaltak alkalmazása esetén,
 - b) ha a felperes az alperes kereseti ellenkérelmének kézhezvételétől számított nyolc napon belül írásban tárgyalás tartását kéri, illetve
@@ -3373,7 +3039,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 ### Határozat
 
-339. § (1) Ha törvény ettől eltérően nem rendelkezik, a bíróság – az ügy érdemére ki nem ható eljárási szabály megsértésének kivételével – a jogszabálysértő közigazgatási határozatot hatályon kívül helyezi, és szükség esetén a közigazgatási határozatot hozó szervet új eljárásra kötelezi.
+339. § (1) Ha törvény ettől eltérően nem rendelkezik, a bíróság a jogszabálysértő közigazgatási határozatot hatályon kívül helyezi és – szükség esetén – a közigazgatási határozatot hozó szervet új eljárásra kötelezi.
 
 (2) A bíróság a közigazgatási határozatot megváltoztathatja:
 
@@ -3386,12 +3052,12 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 - g) az adó-, vagy illetékkötelezettség megállapításáról vagy a külön jogszabály szerint ezzel egy tekintet alá eső más fizetési kötelezettségről és az ezekhez kapcsolódó egyéb befizetésekről hozott,
 - h) a levéltári anyag általános levéltárban történő elhelyezését elrendelő,
 - i)
-- j)
+- j) a menekültként való elismeréssel kapcsolatban hozott,
 - k)
 - l)
 - m) az internálásban, a kitelepítésben, az őrizetbevételben, valamint a közbiztonsági őrizetben, illetve a Szovjetunióban fogvatartásban töltött időnek az igazolásával, továbbá a 74/1991. (VI. 10.) Korm. rendelet 1. §-ának (1) bekezdésében felsorolt, valamint a 174/1992. (XII. 29.) Korm. rendelet 1. §-ában meghatározott személyek személyes szabadsága korlátozásának az igazolásával kapcsolatos rendelkezést tartalmazó,
 - n) a családtámogatási ellátásról rendelkező, illetve a társadalombiztosítási,
-- o) a vagyonátadó bizottságnak, illetve a fővárosi és megyei kormányhivatalnak a vagyonátadás és a használat tárgyában hozott határozatát,
+- o) a vagyonátadó bizottságnak a vagyonátadás tárgyában hozott,
 - p) lakás vagy lakrész igénybevételét elrendelő határozat bírósági felülvizsgálata során, továbbá
 - q) ha törvény azt megengedi.
 
@@ -3399,7 +3065,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (4)
 
-339/A. § A bíróság a közigazgatási határozatot – jogszabály eltérő rendelkezése hiányában – a meghozatalakor alkalmazandó jogszabályok és fennálló tények alapján vizsgálja felül.
+339/A. § A bíróság a közigazgatási határozatot – jogszabály eltérő rendelkezése hiányában – a meghozatalakor hatályban volt jogszabályok és fennálló tények alapján vizsgálja felül.
 
 339/B. § Mérlegelési jogkörben hozott közigazgatási határozat akkor tekintendő jogszerűnek, ha a közigazgatási szerv a tényállást kellő mértékben feltárta, az eljárási szabályokat betartotta, a mérlegelés szempontjai megállapíthatóak, és a határozat indokolásából a bizonyítékok mérlegelésének okszerűsége kitűnik.
 
@@ -3409,7 +3075,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 340. § (1) A bíróság ítélete ellen fellebbezésnek – a (2) bekezdésben meghatározott kivétellel – nincs helye.
 
-(2) A bíróság ítélete ellen fellebbezésnek van helye, ha a közigazgatási pert olyan elsőfokú határozat bírósági felülvizsgálata iránt indították, amely ellen közigazgatási úton nincs helye fellebbezésnek és e határozatot a bíróság törvény alapján megváltoztathatja. E rendelkezést közbeszerzési ügyekben a közbeszerzésekről szóló törvényben foglalt eltérésekkel kell alkalmazni.
+(2) A bíróság ítélete ellen fellebbezésnek van helye, ha a közigazgatási pert olyan elsőfokú határozat bírósági felülvizsgálata iránt indították, amely ellen közigazgatási úton nincs helye fellebbezésnek és e határozatot a bíróság törvény alapján megváltoztathatja. E rendelkezés nem vonatkozik a menekültügyi per tárgyában hozott bírósági döntésre.
 
 (3)
 
@@ -3419,46 +3085,13 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (6) Tárgyalás tartását a fellebbező fél a fellebbezésében, illetve az ellenfél csatlakozó fellebbezésének (fellebbezési ellenkérelmének) kézhezvételétől számított nyolc napon belül, a fellebbező fél ellenfele pedig a fellebbezés kézhezvételétől számított nyolc napon belül kérheti. A határidő elmulasztása miatt igazolásnak nincs helye.
 
-340/A. § (1) A 271. § (1) bekezdés a) pontja közigazgatási perben nem alkalmazható, ha az ítélet ellen a 340. § alapján fellebbezésnek nincs helye.
+340/A. § (1) A 271. § (1) bekezdésének a) pontja közigazgatási perben nem alkalmazható, ha az ítélet ellen a 340. § alapján fellebbezésnek nincs helye.
 
-(2) Nincs helye felülvizsgálatnak
+(2) A Legfelsőbb Bíróság a felülvizsgálati kérelem tárgyában a kérelemnek a Legfelsőbb Bírósághoz való beérkezésétől számított százhúsz napon belül dönt.
 
-- a) az adóhatóságnál fennálló, továbbá az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettséget megállapító,
-- b) a bírságot kiszabó és
-- c) a kisajátítási
+(3) Ha a jogerős határozat ellen a fél perújítással élt, az első fokú bíróság, ha pedig a határozat ellen felülvizsgálati kérelmet nyújtottak be, a Legfelsőbb Bíróság erről – az eljárás felfüggesztéséről való döntés érdekében – értesíti az eljáró közigazgatási szervet.
 
-ügyekben, ha a közigazgatási hatósági ügyben vagy a bírságot kiszabó határozatban megállapított fizetési kötelezettség, illetőleg kártalanítási összeg az egymillió forintot nem haladja meg.
-
-(3) A Kúria a felülvizsgálati kérelem tárgyában a kérelemnek a Kúriához való beérkezésétől számított százhúsz napon belül dönt.
-
-(4) Ha a jogerős határozat ellen a fél perújítással élt, az első fokú bíróság, ha pedig a határozat ellen felülvizsgálati kérelmet nyújtottak be, a Kúria erről – az eljárás felfüggesztéséről való döntés érdekében – értesíti az eljáró közigazgatási szervet.
-
-(5) A perújítás, illetve a felülvizsgálati kérelem elbírálását követően, ha a bíróság a határozatot megváltoztatta, a közigazgatási szerv a határozatnak megfelelően a közigazgatási eljárást tovább folytatja, vagy megszünteti.
-
-### Az elektronikus kapcsolattartás szabályai
-
-340/B. § (1) A XXVIII. Fejezet rendelkezéseit a közigazgatási határozat bírósági felülvizsgálata iránti perekben 2016. január 1. napjától ezen alcímben foglalt eltérésekkel kell alkalmazni.
-
-(2) A jogi képviselővel eljáró fél, valamint a belföldi székhellyel rendelkező gazdálkodó szervezet az űrlapbenyújtás támogatási szolgáltatás igénybevételével köteles benyújtani a keresetlevelet a 330. § (2) bekezdésében foglaltak szerint az elsőfokú közigazgatási határozatot hozó szervnél. A jogi képviselővel eljáró fél és a belföldi székhellyel rendelkező gazdálkodó szervezet – ha nem ügyvédi képviselettel jár el – az elektronikus benyújtás során a képviseletét ellátó személy teljes körű azonosítását biztosító és az űrlapbenyújtás támogatási szolgáltatás igénybevételével is eljárhat, ha azzal rendelkezik. Ebben az esetben a per folyamatban léte alatt, az elektronikus kapcsolattartás során ezt kell alkalmaznia.
-
-(3) A közigazgatási perben a közigazgatási szerv a 330. § (2) bekezdése szerinti iratokat, továbbá minden egyéb beadványt, okirati bizonyítékot kizárólag elektronikusan nyújthat be a bírósághoz, ha a közigazgatási eljárás kizárólag elektronikus úton zajlott és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti a közigazgatási szervnek. A közigazgatási szerv – ha nem ügyvédi képviselettel jár el – az elektronikus benyújtás során a közigazgatási szerv azonosítását biztosító és az űrlapbenyújtás támogatási szolgáltatás igénybevételével jár el, ha azzal rendelkezik. Ebben az esetben a per folyamatban léte alatt, az elektronikus kapcsolattartás során ezt kell alkalmaznia.
-
-(3a) Ha a közigazgatási eljárás nem kizárólag elektronikus úton zajlott, a közigazgatási szerv a hozzá elektronikus úton benyújtott iratokat elektronikus úton köteles továbbítani, az ügy egyéb iratait papír alapon is továbbíthatja. Az űrlapon köteles megjelölni a felek és képviselőik adatait, a per tárgyát, valamint köteles jelezni az ügy iratainak papír alapú benyújtását. Az ügy iratait legkésőbb az űrlap bírósághoz érkezéséről kapott, a 394/H. § (2) bekezdése szerinti befogadás-visszaigazolásnak a közigazgatási szervhez érkezését követő három munkanapon belül kell továbbítani a bírósághoz. A közigazgatási szerv köteles feltüntetni a beadvány kézbesítési rendszer útján kapott érkeztetési számát. Az ügy iratainak beérkezéséről a bíróság a kézbesítési rendszer útján automatikusan értesítést küld a közigazgatási szervnek. Az értesítésben megjelölt időpontban a beadványt a bírósághoz megérkezettnek kell tekinteni.
-
-(4) Az elsőfokú közigazgatási határozatot hozó szerv köteles gondoskodni
-
-- a)
-- b) a hozzá benyújtott keresetlevél és a mellékleteit képező papír alapú okiratok digitalizálásáról, valamint a papír alapú okiratok megőrzéséről, ha a keresetlevél papír alapon került előterjesztésre.
-
-(5) A bíróság a felperessel való első kapcsolatfelvétel során papír alapon kézbesít. A kézbesítéssel egyidejűleg a bíróság felhívja a felperest arra, hogy ha elektronikus útra kötelezett, beadványait, okirati bizonyítékait kizárólag elektronikus úton nyújthatja be, és tájékoztatja a nem elektronikus úton történő benyújtás jogkövetkezményeiről.
-
-(6) A közigazgatási határozat bírósági felülvizsgálata iránti eljárás során a közigazgatási szerv a 330. § (2) bekezdése szerinti iratokat, továbbá minden egyéb beadványt, okirati bizonyítékot megküldés helyett elektronikusan hozzáférhetővé teszi a bíróság számára, ha az ehhez szükséges informatikai feltételek rendelkezésre állnak.
-
-### A zártcélú távközlő hálózat útján történő meghallgatás szabályai
-
-340/C. § (1) A XXVIII/A. Fejezet rendelkezéseit a menedékjogról szóló törvény, valamint a végrehajtásáról szóló kormányrendelet alapján indult bírósági felülvizsgálati eljárásokban ezen alcímben foglalt eltérésekkel kell alkalmazni.
-
-(2) Ha az ügy sajátos körülményeire tekintettel a meghallgatásra kerülő félnek a személyazonossága igazolására alkalmas hatósági igazolványa vagy tartózkodásra jogosító okmánya nincs, a tárgyalás kitűzött helyszínén tartózkodó, tárgyalást vezető elnök (bíró), illetve személyes meghallgatást lefolytató elnök (bíró), illetve bírósági titkár a meghallgatás kezdetén és a meghallgatás befejezésekor rögzíti a zártcélú távközlő hálózat útján meghallgatásra kerülő fél személyazonosságának igazolása érdekében közölt nevét, születési helyét, születési idejét és anyja nevét. A személyazonosítás részeként a közölt adatokat a bíróság összeveti a hatósági eljárásban közölt adatokkal.
+(4) A perújítás, illetve a felülvizsgálati kérelem elbírálását követően, ha a bíróság a határozatot megváltoztatta, a közigazgatási szerv a határozatnak megfelelően a közigazgatási eljárást tovább folytatja, vagy megszünteti.
 
 ### Társadalombiztosítási határozat bírósági felülvizsgálata
 
@@ -3467,185 +3100,67 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 - a)
 - b) a keresetet az első fokú határozatot hozó szerv ellen kell megindítani akkor is, ha a felülvizsgálandó határozatot nem ez a szerv hozta,
 - c) az egészségbiztosítás pénzbeli ellátásaival – ideértve a baleseti táppénzt és a baleseti járadékot is – kapcsolatos keresetet a munkáltató székhelye (telephelye) szerint illetékes egészségbiztosítási szerv vagy nyugdíjbiztosítási igazgatási szerv ellen kell megindítani akkor is, ha az elsőfokú határozatot nem ez a szerv hozta,
-- d) illetékes az a közigazgatási és munkaügyi bíróság, amelynek területén a felperes belföldi lakóhelye, ennek hiányában tartózkodási helye – jogi személy, illetve jogi személyiséggel nem rendelkező szervezet esetében a szervezet székhelye – található,
-- e) ha az elsőfokú határozatot hozó közigazgatási szerv illetékessége az egész országra kiterjed, továbbá ha az ügyben a fővárosi székhelyű közigazgatási szerv kizárólagos illetékességgel jár el, a perre – törvény eltérő rendelkezése hiányában – a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes,
+- d) illetékes az a munkaügyi bíróság, amelynek területén a felperes belföldi lakóhelye, ennek hiányában tartózkodási helye – jogi személy, illetve jogi személyiséggel nem rendelkező szervezet esetében a szervezet székhelye – található,
+- e) ha az elsőfokú határozatot hozó közigazgatási szerv illetékessége az egész országra kiterjed, továbbá ha az ügyben a fővárosi székhelyű közigazgatási szerv kizárólagos illetékességgel jár el, a perre a Fővárosi Munkaügyi Bíróság kizárólagosan illetékes,
 - f) a bíróság a társadalombiztosítási határozatot – a méltányossági jogkörben hozott határozat kivételével – megváltoztathatja,
 - g)
 
-### Az önkormányzat határozathozatali és feladat-ellátási kötelezettsége elmulasztásának megállapítása iránti per
+### XXI. Fejezet — A sajtóhelyreigazítási eljárás
 
-341/A. § Az önkormányzat határozathozatali és feladat-ellátási kötelezettsége elmulasztásának megállapítása iránt indított perekre ennek a fejezetnek a rendelkezéseit a következő eltérésekkel kell alkalmazni:
+342. § (1) Sajtóhelyreigazítást [Ptk. 79. §] az érintett személy a közlemény megjelenésétől, illetőleg a közvetítéstől számított harminc napon belül írásban kérheti a sajtótól. A helyreigazítást az érintett személyen kívül, de az ő hozzájárulásával a feladatkörében érintett miniszter – bíró és bírósági dolgozó hivatalos működésével összefüggően az Országos Igazságszolgáltatási Tanács elnöke – is kérheti, ha a valótlan tartalmú közlemény a közérdeket sérti.
 
-- a) a perre az a bíróság illetékes, amelynek területén a kötelezettséget elmulasztó helyi önkormányzat székhelye található,
-- b) a keresetlevelet az illetékességgel rendelkező bíróságnál kell benyújtani,
-- c) a keresetlevélnek a 121. §-ban meghatározottakon túl a Magyarország helyi önkormányzatairól szóló törvényben foglaltakat kell tartalmaznia,
-- d) a bíróság a keresetlevelet 30 napos határidő tűzésével megküldi a helyi önkormányzatnak a keresetlevélben foglaltakra vonatkozó nyilatkozata beszerzése céljából,
-- e) a perindítás hatályai a keresetnek az alperessel való közlésével állnak be,
-- f) tárgyalás tartását a felperes – a 338. § (8) bekezdés b) pontját ide nem értve – a keresetlevélben, az alperes a keresetlevélben foglaltakra vonatkozó nyilatkozatában kérheti; ennek elmulasztása miatt igazolásnak nincs helye,
-- g) a bíróság ítélete ellen fellebbezésnek van helye.
+(2) A határidőben kért helyreigazítás közlését csak akkor lehet megtagadni, ha a helyreigazítási kérelemben előadottak valósága nyomban megcáfolható.
 
-### XX/A. Fejezet — A JEGYZŐ BIRTOKVÉDELMI ÜGYBEN HOZOTT HATÁROZATÁNAK MEGVÁLTOZTATÁSA IRÁNTI PER
+(3)–(4)
 
-341/B. § Az I–XIV. Fejezet rendelkezéseit a jegyző birtokvédelmi ügyben hozott határozatának (a továbbiakban e fejezet alkalmazásában: birtokvédelmi határozat) megváltoztatása iránti perekben e fejezetben foglalt eltérésekkel kell alkalmazni.
+343. § (1) Ha a sajtó a helyreigazítási kötelezettségét határidőben nem teljesíti, a helyreigazítást igénylő fél az időszaki lap szerkesztősége, a rádiózásról és televíziózásról szóló törvény szerinti műsorszolgáltató, illetőleg a Magyar Távirati Iroda ellen keresetet indíthat.
 
-341/C. § (1) A per elintézéséből – a 13–15. §, valamint a 21. §-ban foglalt eseteken kívül – ki van zárva, és abban mint bíró nem vehet részt:
-
-- a) az, aki mint ügyintéző a birtokvédelmi határozat meghozatalában részt vett,
-- b) az a) pont alá eső személynek a 13. § (2) bekezdésében megjelölt hozzátartozója vagy volt házastársa,
-- c) a birtokvédelmi határozatot hozó jegyző által vezetett hivatal volt dolgozója a munkaviszonya megszűnését követő két évig,
-- d) az, akit a birtokvédelmi határozat meghozatala iránti eljárásban tanúként vagy szakértőként kihallgattak.
-
-(2) Az (1) bekezdés rendelkezéseit a jegyzőkönyvvezető kizárására is megfelelően alkalmazni kell.
-
-341/D. § A birtokvédelmi határozat megváltoztatása iránti perben szakértőként nem járhat el az a személy sem, akivel szemben a 341/C. § (1) bekezdés a)–c) pontjában foglalt kizáró ok áll fenn.
-
-341/E. § A perre a birtokvédelmi határozatot hozó jegyző székhelye szerinti bíróság illetékes.
-
-341/F. § (1) A keresetlevélnek a 121. §-ban meghatározottakon túl tartalmaznia kell:
-
-- a) a megváltoztatni kért birtokvédelmi határozatot hozó jegyző által vezetett hivatal megnevezését és a birtokvédelmi határozat számát,
-- b) az arra való utalást, ha a birtokvédelmi határozat meghozatala iránti eljárásban a jogi képviselő olyan meghatalmazást csatolt, amely a per vitelére is vonatkozik.
-
-(2) A keresetlevelet a birtokvédelmi határozatot hozó jegyzőhöz kell benyújtani. A jegyző a keresetlevelet az ügy irataival együtt nyolc napon belül a bírósághoz felterjeszti.
-
-(3) Ha a fél a keresetlevél benyújtására megállapított határidőt elmulasztotta, igazolással élhet (106–110. §). Az igazolási kérelem tárgyában a bíróság határoz. A jegyző a hozzá elkésetten benyújtott keresetlevelet nem utasíthatja el, hanem azt a bírósághoz kell felterjesztenie, abban az esetben is, ha a fél igazolási kérelmet nem terjesztett elő.
-
-(4) Ha a fél a keresetlevelet a perre hatáskörrel és illetékességgel rendelkező bírósághoz nyújtja be és a birtokvédelmi eljárás azonosításához szükséges adatok rendelkezésre állnak, a bíróság a keresetlevél beérkezésétől számított nyolc napon belül megkeresi az ügyben eljárt jegyzőt az iratok felterjesztése iránt. A jegyző a bíróság megkeresésének nyolc napon belül köteles eleget tenni. A keresetlevelet határidőben benyújtottnak kell tekinteni, ha azt a Polgári Törvénykönyvben meghatározott keresetindítási határidő alatt a bírósághoz benyújtották. Ha a fél a keresetlevelet nem a perre hatáskörrel és illetékességgel rendelkező bírósághoz nyújtja be, a bíróság a 129. § szerint jár el.
-
-341/G. § (1) A birtokvédelmi határozat végrehajtásának felfüggesztése iránti kérelemről a bíróság soron kívül határoz, szükség esetén a feleket meghallgatja.
-
-(2) A végrehajtás felfüggesztése tárgyában hozott végzés ellen külön fellebbezésnek van helye. A bíróságnak a végrehajtás felfüggesztését elrendelő végzése fellebbezésre tekintet nélkül végrehajtható.
-
-(3) A bíróság a végrehajtás felfüggesztését elrendelő végzését haladéktalanul megküldi a jegyzőnek.
-
-341/H. § A birtokvédelmi határozat megváltoztatása iránti perben bírósági meghagyás kibocsátásának nincs helye.
-
-341/I. § (1) Ha a birtokvédelmi határozat érdemben helyes, a bíróság a keresetet elutasítja, ellenkező esetben a birtokvédelmi határozatot egészben vagy részben megváltoztatja.
-
-(2) Ha a bíróság a birtokvédelmi határozatot megváltoztatja, a birtokvédelmi határozattal elbírált hasznok, károk és költségek tekintetében akkor is határoznia kell, ha az érdekelt fél csak a birtoklás kérdésében terjeszt elő keresetet.
-
-341/J. § (1) A XXVIII. Fejezet rendelkezéseit a birtokvédelmi határozat megváltoztatása iránti perben 2016. január 1. napjától az e §-ban foglalt eltérésekkel kell alkalmazni.
-
-(2) Ha a jogi képviselővel eljáró fél, illetve a belföldi székhellyel rendelkező gazdálkodó szervezet a 341/F. § (2) bekezdése szerint jár el, a jogi képviselővel eljáró fél, valamint a belföldi székhellyel rendelkező gazdálkodó szervezet az űrlapbenyújtás támogatási szolgáltatás igénybevételével köteles benyújtani a keresetlevelet a jegyzőnél. A jogi képviselővel eljáró fél és a belföldi székhellyel rendelkező gazdálkodó szervezet – ha nem ügyvédi képviselettel jár el – az elektronikus benyújtás során a képviseletét ellátó személy teljes körű azonosítását biztosító és az űrlapbenyújtás támogatási szolgáltatás igénybevételével is eljárhat, ha azzal rendelkezik. Ebben az esetben a per folyamatban léte alatt, az elektronikus kapcsolattartás során ezt kell alkalmaznia.
-
-(3) Ha a felperes a keresetlevelet a 341/F. § (2) bekezdése szerint a birtokvédelmi határozatot hozó jegyzőnél terjeszti elő, a birtokvédelmi határozatot hozó jegyző köteles gondoskodni
-
-- a) a határozat alapjául szolgáló ügy iratainak digitalizálásáról, ha a keresetlevél elektronikusan került előterjesztésre, és
-- b) a hozzá benyújtott keresetlevél és a mellékleteit képező papír alapú okiratok digitalizálásáról, valamint a papír alapú okiratok megőrzéséről, továbbá a határozat alapjául szolgáló ügy iratainak digitalizálásáról, ha a keresetlevél papír alapon került előterjesztésre.
-
-(4) Ha a felperes a keresetlevelet a perre hatáskörrel és illetékességgel rendelkező bírósághoz nyújtja be, a bíróság a 341/F. § (4) bekezdésében foglaltak szerinti eljárása során hívja fel a birtokvédelmi határozatot hozó jegyzőt, hogy az iratokat digitalizált formában terjessze fel.
-
-(5) A (3) bekezdésben meghatározott esetben a bíróság a felperessel való első kapcsolatfelvétel során papír alapon kézbesít. A kézbesítéssel egyidejűleg a bíróság felhívja a felperest arra, hogy ha elektronikus útra kötelezett, beadványait, okirati bizonyítékait kizárólag elektronikus úton nyújthatja be, és tájékoztatja a nem elektronikus úton történő benyújtás jogkövetkezményeiről.
-
-### XXI. Fejezet — A sajtó-helyreigazítási eljárás
-
-342. § (1) Helyreigazításának – a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti – közzétételét az érintett személy vagy szervezet az általa vitatott közlemény közzétételétől számított harminc napon belül írásban kérheti a médiaszolgáltatótól, a sajtótermék szerkesztőségétől vagy a hírügynökségtől.
-
-(2) A határidőben kért helyreigazítás közzétételét csak akkor lehet megtagadni, ha a kérelemben előadottak valósága nyomban megcáfolható.
-
-343. § (1) Ha a médiaszolgáltató, a sajtótermék szerkesztősége vagy a hírügynökség a helyreigazítás közzétételére irányuló kötelezettségét határidőben nem teljesíti, az azt igénylő fél ellene keresetet indíthat.
-
-(2) Az I–XIV. fejezet rendelkezéseit a sajtó-helyreigazítási eljárásokban az e fejezetben foglalt eltérésekkel kell alkalmazni. A sajtó-helyreigazításra irányuló keresetet más keresettel összekapcsolni vagy egyesíteni nem lehet.
+(2) Az I–XIV. fejezet rendelkezéseit a sajtóhelyreigazítási perekben az e fejezetben foglalt eltérésekkel kell alkalmazni. A sajtóhelyreigazításra irányuló keresetet más keresettel összekapcsolni vagy egyesíteni nem lehet.
 
 (3) A keresetet a közlési kötelezettség utolsó napjától számított tizenöt nap alatt kell megindítani. A határidő elmulasztása esetén igazolásnak (106–110. §) van helye. Az (1) bekezdésben megjelölt szerv félként jár el akkor is, ha egyébként nincs perbeli jogképessége (48. §).
 
-(4) A keresetlevélben határozottan meg kell jelölni az igényelt helyreigazító nyilatkozat tartalmát, igazolni kell, hogy a felperes a helyreigazítást törvényes határidőben igényelte, és napilap, folyóirat, időszaki lap esetében a kifogásolt közleményt tartalmazó lappéldányt, internetes sajtótermék esetében a kifogásolt közlemény kinyomtatott változatát – amennyiben azok rendelkezésre állnak – csatolni kell.
+(4) A keresetlevélben határozottan meg kell jelölni az igényelt helyreigazító nyilatkozat tartalmát, igazolni kell, hogy a felperes a helyreigazítást törvényes határidőben igényelte, és a napilap, folyóirat (időszaki lap) esetében – amennyiben az rendelkezésre áll – csatolni kell a kifogásolt közleményt tartalmazó lappéldányt.
 
-344. § (1) A perre az a bíróság illetékes, amelynek területén a sajtótermék szerkesztősége, a hírügynökség vagy a médiaszolgáltató székhelye, illetve lakhelye található. A bíróság illetékességét a médiaszolgáltató helyi stúdiójának székhelye is megalapozza.
+344. § (1) A perre az a bíróság illetékes, amelynek területén az időszaki lap szerkesztősége, a hírügynökség vagy a rádió-, illetve a televízió társaság székhelye található. A bíróság illetékességét a rádió vagy televízió társaság helyi stúdiójának székhelye is megalapítja.
 
 (2) A bíróság a sajtó-helyreigazítási perben soron kívül jár el. Az elnök legkésőbb a keresetlevél benyújtásától számított nyolcadik napra tárgyalást tűz ki, kivéve, ha a keresetlevél benyújtása elkésett, ez utóbbi esetben az elnök a keresetlevelet idézés kibocsátása nélkül elutasítja.
 
 (3) A perben igazolásnak, viszontkeresetnek és szünetelésnek nincs helye.
 
-345. § (1) Az első tárgyalás megtartásának nem akadálya az, ha a felperes vagy az alperes nem jelenik meg. Ha azonban egyik fél sem jelenik meg az első tárgyaláson, az eljárást meg kell szüntetni. Sajtó-helyreigazítási perben bírósági meghagyást nem lehet kibocsátani.
+345. § (1) Az első tárgyalás megtartásának nem akadálya az, ha a felperes vagy az alperes nem jelenik meg. Ha azonban egyik fél sem jelenik meg az első tárgyaláson, az eljárást meg kell szüntetni. Sajtóhelyreigazítási perben bírósági meghagyást nem lehet kibocsátani.
 
-(2) Bizonyítás felvételének csak olyan bizonyítékokra vonatkozóan van helye, amelyek a tárgyaláson rendelkezésre állnak, és amelyek alkalmasak lehetnek arra, hogy a közlemény kifogásolt tényállításainak valóságát nyomban igazolják, vagy a keresetben előadottakat nyomban megcáfolják. Bizonyítás felvételének helye lehet a felperes által nyomban felajánlott bizonyítékokra is. A tárgyalást – legfeljebb nyolc napra – csak akkor lehet elhalasztani, ha ezt a felperes kéri, vagy a már feltárt bizonyítékok a bizonyítás eredményességét valószínűsítik.
+(2) Bizonyítás felvételének csak olyan bizonyítékokra vonatkozóan van helye, amelyek a tárgyaláson rendelkezésre állanak, és amelyek alkalmasak lehetnek arra, hogy a közlemény kifogásolt tényállításainak valóságát nyomban igazolják, vagy a keresetben előadottakat nyomban megcáfolják. Bizonyítás felvételének helye lehet a felperes által nyomban felajánlott bizonyítékokra is. A tárgyalást – legfeljebb nyolc napra – csak akkor lehet elhalasztani, ha ezt a felperes kéri, vagy a már feltárt bizonyítékok a bizonyítás eredményességét valószínűsítik.
 
-(3) Ha a bíróság a keresetnek helyt ad, ítéletében az alperest határidő kitűzésével a bíróság által megállapított szövegű helyreigazító közlemény közlésére és a felmerült költségek viselésére kötelezi.
+(3) Ha a bíróság a keresetnek helyt ad, ítéletében az alperest határidő kitűzésével a bíróság által megállapított szövegű helyreigazítás közlésére és a felmerült költségek viselésére kötelezi.
 
 346. § (1) A másodfokú bíróság a fellebbezést legkésőbb az iratok beérkezésétől számított nyolc napon belül köteles tárgyalni.
 
-(2) A sajtó-helyreigazítási perben hozott ítélet ellen perújításnak nincs helye.
+(2) A sajtóhelyreigazítási perben hozott ítélet ellen perújításnak nincs helye.
 
-### XXI/A. Fejezet — A KÉPMÁSHOZ ÉS A HANGFELVÉTELHEZ VALÓ JOG ÉRVÉNYESÍTÉSE IRÁNT INDÍTOTT PER
+### XXII. Fejezet
 
-346/A. § (1) Akiről hozzájárulása nélkül képmás vagy hangfelvétel készül, illetve kerül felhasználásra, a készítésről, illetve a felhasználásról történt tudomásszerzés időpontjától számított harminc napon belül írásban a sérelem orvoslása iránti kérelmében kérheti a készítőtől, illetve a felhasználótól
-
-- a) a jogsértés abbahagyását,
-- b) azt, hogy adjon megfelelő elégtételt, és ennek biztosítson saját költségén megfelelő nyilvánosságot,
-- c) a sérelmes helyzet megszüntetését, a jogsértést megelőző állapot helyreállítását és a jogsértéssel előállított dolog megsemmisítését vagy jogsértő mivoltától való megfosztását.
-
-(2) A képmás vagy hangfelvétel készítésének, illetve felhasználásának időpontjától számított hat hónap eltelte után a sérelem orvoslása iránti kérelem előterjesztésének nincs helye.
-
-(3) A határidőben előterjesztett, a sérelem orvoslása iránti kérelem teljesítését csak akkor lehet megtagadni, ha a kérelemben előadottak valósága nyomban megcáfolható.
-
-346/B. § (1) Ha a képmás vagy hangfelvétel készítője, illetve felhasználója a sérelem orvoslása iránti kérelemben foglaltakat nem teljesíti az arra biztosított, napokban megállapított határidőben, a kérelmet előterjesztő fél ellene az e fejezetben foglaltak szerint keresetet indíthat. A keresetben a felperes a Ptk. 2:51. § (1) bekezdés a)–d) pontjában foglaltak alkalmazását kérheti. A személyiségi jogok megsértése egyéb szankcióinak alkalmazása iránt külön per indítható.
-
-(2) Az I–XIV. fejezet rendelkezéseit a képmáshoz és a hangfelvételhez való jog érvényesítése iránt indított eljárásokban az e fejezetben foglalt eltérésekkel kell alkalmazni. A képmáshoz és a hangfelvételhez való jog érvényesítése iránt indított keresetet más keresettel összekapcsolni vagy egyesíteni nem lehet.
-
-(3) A keresetet a sérelem orvoslása iránti kérelemben foglaltak teljesítésére rendelkezésre álló határidő utolsó napjától számított tizenöt nap alatt kell megindítani. A határidő elmulasztása esetén igazolásnak (106–110. §) van helye. Ha az, aki a képmás vagy hangfelvétel készítőjének, illetve felhasználójának minősül, nem természetes személy, félként jár el akkor is, ha egyébként nincs perbeli jogképessége (48. §).
-
-(4) A keresetlevélben határozottan meg kell jelölni azt is, hogy a felperes a Ptk. 2:51. § (1) bekezdés a)–d) pontjában foglalt szankciók közül melynek az alkalmazását kéri, továbbá igazolni kell, hogy a felperes a sérelem orvoslása iránti kérelmet törvényes határidőben igényelte. A keresetlevélhez csatolni kell – amennyiben az rendelkezésre áll – a képmást, illetve a hangfelvételt, felhasználás esetén a megjelenési formától függő okirati bizonyítékot.
-
-346/C. § (1) A bíróság a perben soron kívül jár el. Az elnök legkésőbb a keresetlevél benyújtásától számított nyolcadik napra tárgyalást tűz ki, kivéve ha a keresetlevél benyújtása elkésett, ez utóbbi esetben az elnök a keresetlevelet idézés kibocsátása nélkül elutasítja.
-
-(2) A perben igazolásnak, viszontkeresetnek és szünetelésnek nincs helye.
-
-346/D. § (1) Az első tárgyalás megtartásának nem akadálya az, ha a felperes vagy az alperes nem jelenik meg. Ha egyik fél sem jelenik meg az első tárgyaláson, az eljárást meg kell szüntetni. A perben bírósági meghagyást nem lehet kibocsátani.
-
-(2) Bizonyítás felvételének csak olyan bizonyítékokra vonatkozóan van helye, amelyek alkalmasak lehetnek arra, hogy azokkal a felperes bizonyítsa, hogy a képmás vagy a hangfelvétel elkészült, illetve azt felhasználták, illetve, hogy azokkal az alperes bizonyítsa, hogy a felperes az elkészítéséhez, illetve a felhasználásához hozzájárult, vagy a felperes hozzájárulására törvény alapján nincs szükség. Bizonyítás felvételének van helye továbbá, ha az az objektív jogkövetkezmények alkalmazása körében szükséges; e tényeket annak a félnek kell bizonyítania, akinek érdekében áll, hogy azokat a bíróság valónak fogadja el. Bizonyítás felvételének olyan bizonyítékokra vonatkozóan van helye, amelyek a tárgyaláson rendelkezésre állnak vagy amelyeket a felek nyomban felajánlanak.
-
-(3) A tárgyalást – legfeljebb nyolc napra – csak akkor lehet elhalasztani, ha ezt valamely fél kéri és valószínűsíti az általa felajánlott bizonyítás eredményességét.
-
-346/E. § (1) A másodfokú bíróság a fellebbezést legkésőbb az iratok beérkezésétől számított nyolc napon belül köteles tárgyalni.
-
-(2) A perben hozott ítélet ellen perújításnak nincs helye.
-
-346/F. § Ha az, akiről hozzájárulása nélkül képmás vagy hangfelvétel készül, illetve kerül felhasználásra, e fejezet rendelkezései alapján nem él keresettel, az általános szabályok szerint pert indíthat a személyiségi jog védelme iránt.
-
-### XXII. Fejezet — A KÖZÖSSÉGHEZ TARTOZÁSSAL ÖSSZEFÜGGŐ SZEMÉLYISÉGI JOG ÉRVÉNYESÍTÉSE IRÁNT INDÍTOTT PEREK
-
-347. § A közösséghez tartozással összefüggő személyiségi jog érvényesítése [Ptk. 2:54. § (5) bek.] iránt indított perekben az I–XIV. Fejezet rendelkezéseit e Fejezetben foglalt eltérésekkel kell alkalmazni.
-
-348. § (1) A perre az a bíróság illetékes, amelynek területén az alperes belföldi lakóhelye, belföldi lakóhely hiányában belföldi tartózkodási helye, vagy – ha az alperes nem természetes személy – belföldi székhelye található.
-
-(2) Ha az (1) bekezdés alapján az illetékes bíróság nem állapítható meg, a perre a Fővárosi Törvényszék illetékes.
-
-348/A. § (1) A keresetet csak ugyanabból a ténybeli alapból származó közösséghez tartozással összefüggő személyiségi jog érvényesítésére vonatkozó keresettel lehet összekapcsolni. A perben viszontkereset előterjesztésének, beavatkozásnak nincs helye.
-
-(2) A keresetlevélben meg kell jelölni a jogsértés megtörténtének időpontját, valamint – ha rendelkezésre áll – az azt alátámasztó bizonyítékot is csatolni kell. A keresetlevélben a felperesnek nyilatkoznia kell arról, hogy a jogsérelemmel érintett közösséghez tartozik-e.
-
-348/B. § (1) A per minden szakaszában kötelező a jogi képviselet.
-
-(2) A bíróság elrendeli az előtte folyamatban lévő olyan perek egyesítését, amelyeknek tárgya a közösséghez tartozással összefüggő személyiségi jog érvényesítése, ha az igények ugyanabból a ténybeli alapból származó jogsérelemmel függnek össze. Azonos ténybeli alap esetén az azonos hatáskörű bíróságok előtt folyamatban lévő pereket is egyesíteni kell azzal, hogy a továbbiakban az a bíróság jár el, amelyhez a legkorábban érkeztetett keresetlevelet benyújtották.
-
-(3) Ha a (2) bekezdés alapján egyesített perben a felperes a közösséghez tartozással összefüggő személyiségi jogsértésből eredő kár megtérítése iránti követelést is érvényesít, a bíróság elrendeli annak önálló ügyként történő tárgyalását, és azt a per jogerős elbírálásáig felfüggeszti. A bíróság a felfüggesztés megszüntetését követően a pert az általános szabályok szerint tárgyalja.
-
-(4) A felperes a keresetlevélben foglalt nyilatkozatával igazolja, hogy a jogsérelemmel érintett közösséghez tartozik.
-
-(5) A bíróság a személyiség lényeges vonásának minősülő, a közösséghez tartozással összefüggő személyiségjegy vonatkozásában azt vizsgálja, hogy a közösséget bántó jogsérelem alkalmas lehet-e arra, hogy általában véve a közösséghez tartozó személy személyiségi jogának a sérelmét is okozza.
-
-(6) A jogsértés körülményeire – különösen a jogsértés súlyára, ismétlődő jellegére, a felróhatóság mértékére, a jogsértés közösségre gyakorolt hatására – tekintettel megállapított sérelemdíjat egy összegben kell megítélni, ami a sérelemdíj iránti igényt érvényesítő felpereseket egyetemlegesen illeti meg.
+347–348. §
 
 ### XXIII. Fejezet — A MUNKAVISZONYBÓL ÉS A MUNKAVISZONY JELLEGŰ JOGVISZONYBÓL SZÁRMAZÓ PEREK
 
 ### Az eljárás megindítása
 
-349. § (1) Az I–XIV. fejezet rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni
+349. § (1) A munkaviszonyból, közalkalmazotti jogviszonyból, közszolgálati jogviszonyból, szolgálati jogviszonyból, szövetkezeti tag munkaviszony jellegű jogviszonyából és a bedolgozói jogviszonyból (a továbbiakban: munkaviszony) származó perekben (munkaügyi perek) az I–XIV. fejezet rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
-- a) a munkajogi igény [Mt. 285. § (1) bekezdés] érvényesítésével kapcsolatos, továbbá
-- b) a közalkalmazotti,
-- c) kormányzati szolgálati, állami szolgálati és közszolgálati,
-- d) a szolgálati és
-- e) a munkavégzési kötelezettséggel járó szövetkezeti tagsági jogviszonyból (a továbbiakban: munkaviszony) származó perben (a továbbiakban: munkaügyi per).
+(2) Az (1) bekezdés szerinti munkaügyi pernek minősül:
 
-(2) Törvény az (1) bekezdésben foglaltakon túl más ügyekben is a munkaügyi perre vonatkozó szabályok alkalmazását írhatja elő.
+- a) a munkaszerződés megkötését megelőző tárgyalásra, a munkaviszony megszűnését követően a munkaviszonyból eredő jogra,
+- b) a kollektív szerződés kötésére jogosult felek, illetve ezek és harmadik személy között, a kollektív szerződés fennállására, továbbá a kollektív szerződésből eredő jogra,
+- c) a sztrájkkal, egyéb munkaharccal vagy a szervezkedési szabadsággal kapcsolatos jogellenes magatartásra,
+- d) az európai részvénytársaságban, valamint az európai szövetkezetben a munkavállalók döntéshozatalba történő bevonására vonatkozó szabályok megsértésére
 
-(3) A munkavállaló és a munkáltató közötti, a munkaviszonnyal közvetlen kapcsolatban lévő jogra alapított igény az (1) bekezdésben meghatározott munkaügyi perben is érvényesíthető.
+alapított igény érvényesítése.
 
-(4) A közigazgatási és munkaügyi bíróság hatáskörébe tartozik a munkaügyi és a munkavédelemi ellenőrzés keretében hozott közigazgatási határozat, az ágazati párbeszéd bizottság létrejöttével kapcsolatos, az abban való részvétel, illetve a gyakorolt jogosultságok tárgyában hozott határozat, a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján az állami foglalkoztatási szerv által hozott közigazgatási határozat, valamint a társadalombiztosítási határozat bírósági felülvizsgálata. Ennek során a közigazgatási és munkaügyi bíróság a XX. fejezet szabályai szerint jár el.
+(3) A munkavállaló és a munkáltató közötti, a munkaviszonnyal közvetlen kapcsolatban lévő jogra alapított igény az (1)–(2) bekezdésekben meghatározott munkaügyi perben is érvényesíthető.
 
-(5) A fél a pénzkövetelés iránti igényét fizetési meghagyás útján is érvényesítheti, kivéve, ha a per tárgya a jogviszony keletkezése, módosítása (módosulása), megszűnése vagy a munkaviszonyból származó kötelezettségeknek a munkavállaló által történt vétkes megszegése, illetve fegyelmi vétség miatt alkalmazott jogkövetkezmény.
+(4) A fél a pénzkövetelés iránti igényét fizetési meghagyás útján is érvényesítheti, kivéve, ha a per tárgya a jogviszony keletkezése, módosulása, megszűnése vagy a munkaviszonyból származó kötelezettségeknek a munkavállaló által történt vétkes megszegése miatt alkalmazott jogkövetkezmény, illetve fegyelmi vétség miatt alkalmazott jogkövetkezmény.
+
+(5) A munkaügyi bíróság hatáskörébe tartozik a munkaügyi ellenőrzés, a munkavédelem keretében hozott közigazgatási határozat, a kollektív szerződés ágazatra történő kiterjesztésével kapcsolatosan hozott határozat, az Országos Érdekegyeztető Tanács, illetve az ágazati párbeszéd bizottság létrejöttével, az abban való részvétel, illetve gyakorolt jogosultságok tárgyában hozott határozat, a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján az állami foglalkoztatási szerv által hozott közigazgatási határozat, valamint a társadalombiztosítási határozat bírósági felülvizsgálata; ennek során a munkaügyi bíróság a XX. fejezet szabályai szerint jár el.
 
 ### Bíróságok
 
@@ -3655,7 +3170,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 349/B. § (1) A pertárgy értékének megállapításánál a végkielégítést figyelmen kívül kell hagyni, kivéve, ha a kereset kizárólag végkielégítés megfizetésére irányul.
 
-(2) Munkaügyi perre kizárólag a munkáltató székhelye szerinti, illetőleg a munkáltató azon telephelye szerinti közigazgatási és munkaügyi illetékes, ahol a munkavállaló munkaszerződése alapján munkát végez, vagy végzett.
+(2) Munkaügyi perre kizárólag a munkáltató székhelye szerinti, illetőleg a munkáltató azon telephelye szerinti munkaügyi bíróság illetékes, ahol a munkavállaló munkaszerződése alapján munkát végez, vagy végzett.
 
 (3)
 
@@ -3687,11 +3202,11 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (4) A megszüntetett munkaviszony helyreállítására irányuló perben a bíróság soron kívül jár el.
 
-354. § A bíróság indokolt esetben a tárgyalást a székhelyén kívül, a járásbíróság hivatalos helyiségébe tűzi ki.
+354. § A bíróság indokolt esetben a tárgyalást a székhelyén kívül, a helyi bíróság hivatalos helyiségébe tűzi ki.
 
 ### Tárgyalás
 
-355. § (1) Ha a tárgyaláson a felek személyesen vagy képviselőik útján megjelentek, a tárgyalás a felek megegyezésére irányuló egyeztetéssel kezdődik. Ebből a célból az elnök a jogvita egészét – az összes körülmény szabad mérlegelésével – a felekkel megtárgyalja.
+355. § (1) Ha a tárgyaláson a felek személyesen vagy képviselőik útján megjelentek, a tárgyalás – a Munka Törvénykönyvének 109. §-a alapján alkalmazott jogkövetkezmény tekintetében vagy a fegyelmi felelősség alapján indult per kivételével – a felek megegyezésére irányuló egyeztetéssel kezdődik. Evégett az elnök a jogvita egészét az összes körülmény szabad mérlegelésével a felekkel megvitatja.
 
 (2) Ha az (1) bekezdésben szabályozott egyeztetés eredménytelenül végződött, a bíróság a tárgyalást nyomban megtartja.
 
@@ -3701,85 +3216,38 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 ### Fellebbezés, felülvizsgálat
 
-358. § (1) A fellebbezést a közigazgatási és munkaügyi székhelye szerint illetékes törvényszék bírálja el.
+358. § (1) A fellebbezést a munkaügyi bíróság székhelye szerint illetékes megyei bíróság bírálja el.
 
-(2) Nincs helye felülvizsgálatnak – a (3) bekezdésben foglalt kivétellel – ha a felülvizsgálati kérelemben vitatott érték, illetve annak a 24. §, valamint a 25. § (3) és (4) bekezdése alapján, továbbá a 25. § (3) bekezdésének az egyesített perekre történő megfelelő alkalmazásával megállapított értéke a teljes munkaidőre megállapított kötelező legkisebb havi munkabér (minimálbér) ötszörösét nem haladja meg.
-
-(3) A (2) bekezdésben meghatározott értékhatár alatt is helye van felülvizsgálatnak, ha
-
-- a) a jogviszony keletkezésének, módosulásának, megszüntetésének jogszerűsége, valamint a kártérítés, illetve a sérelemdíj iránti igény vitás,
-- b) a munkaviszonyból származó kötelezettségeknek a munkavállaló által történt vétkes megszegése miatt alkalmazott jogkövetkezmény vitás vagy
-- c) a fegyelmi vétség miatt vagy a méltatlansági eljárásban alkalmazott jogkövetkezmény vitás.
+(2)
 
 ### Perújítás
 
-358/A. § (1) A közigazgatási és munkaügyi bíróság munkaügyi perben hozott jogerős ítélete vagy a jogerős végzésével jóváhagyott egyezség ellen az általános szabályok szerint perújításnak van helye.
+359. § (1) A munkaügyi bíróság jogerős ítélete vagy a jogerős végzésével jóváhagyott egyezség ellen az általános szabályok szerint perújításnak van helye.
 
 (2) A munkaviszony megszüntetése ellen a perújításnak hat hónap utáni megindítása (kezdeményezése) esetén a munkavállaló nem követelheti munkaviszonyának helyreállítását és az eredeti munkakörben vagy munkahelyen történő továbbfoglalkoztatását. Ugyanebben az esetben a munkavállaló a perújítás iránti kérelem benyújtását megelőző hat hónapon túli időre munkabérkövetelést sem támaszthat.
 
 ### Munkavállalói költségkedvezmény
 
-358/B. § Ha a munkaügyi per által érintett munkaviszonyból származó távolléti díj nem haladja meg a külön jogszabályban meghatározott mértéket, a perben félként részt vevő munkavállaló munkavállalói költségkedvezményre jogosult. A felet a munkavállalói költségkedvezmény alapján – jogszabály eltérő rendelkezése hiányában – a keresetlevél előterjesztésétől kezdve, a per egész tartamára, valamint a végrehajtási eljárásra is kiterjedően teljes költségmentesség illeti meg. A munkavállalói költségkedvezményre vonatkozó adatokat a keresetlevélben fel kell tüntetni, illetve ahhoz csatolni kell a szükséges iratokat. A fél jogosultságát a bíróság a csatolt iratok alapján hivatalból vizsgálja.
+359/A. § Ha a munkaügyi per által érintett munkaviszonyból származó átlagkereset nem haladja meg a külön jogszabályban meghatározott mértéket, a perben félként résztvevő munkavállaló munkavállalói költségkedvezményre jogosult. A felet a munkavállalói költségkedvezmény alapján – jogszabály eltérő rendelkezése hiányában – a keresetlevél előterjesztésétől kezdve, a per egész tartamára, valamint a végrehajtási eljárásra is kiterjedően teljes költségmentesség illeti meg. A munkavállalói költségkedvezményre vonatkozó adatokat a keresetlevélben fel kell tüntetni, illetve ahhoz csatolni kell a szükséges iratokat. A fél jogosultságát a bíróság a csatolt iratok alapján hivatalból vizsgálja.
 
-### A Közszolgálati Döntőbizottság határozatának felülvizsgálata iránti per
+### XXIV. Fejezet — Alkotmányjogi panasz alapján alkotmányellenessé nyilvánított jogszabály konkrét esetben történő alkalmazhatóságának visszamenőleges kizárására irányuló eljárás
 
-358/C. § A Közszolgálati Döntőbizottság (a továbbiakban: Döntőbizottság) határozatának felülvizsgálata iránti perben e Fejezet rendelkezései irányadók a jelen alcímben foglalt eltérésekkel.
+360. § Ha az Alkotmánybíróság az alkotmányellenessé nyilvánított jogszabálynak a konkrét esetben történő alkalmazhatósága visszamenőleges kizárásával ad helyt alkotmányjogi panasznak, az alkotmányjogi panasz orvoslásának eljárási eszközét – az Alkotmánybíróság határozata alapján és a vonatkozó eljárási szabályok megfelelő alkalmazásával – a Legfelsőbb Bíróság állapítja meg.
 
-359. § (1) A keresetlevelet az ellenérdekű féllel szemben, a Döntőbizottsághoz benyújtva kell előterjeszteni. A keresetlevél benyújtásának a Döntőbizottság határozata végrehajtására halasztó hatálya van.
-
-(2) A keresetlevélnek a 121. §-ban meghatározottakon túl tartalmaznia kell:
-
-- a) a Döntőbizottság határozatának a számát,
-- b) a határozatról való tudomásszerzés módját és idejét, valamint
-- c) ha a Döntőbizottsági eljárásban a jogi képviselő olyan meghatalmazást csatolt, amely a per vitelére is vonatkozik, az erre való utalást.
-
-(3) A Döntőbizottság a keresetlevelet az ügy irataival együtt 15 napon belül továbbítja a bírósághoz.
-
-(4) Ha a fél a keresetlevél benyújtására megállapított határidőt elmulasztotta, igazolással élhet (106–110. §). A Döntőbizottság a hozzá elkésetten benyújtott keresetlevelet nem utasíthatja el, hanem köteles azt a bírósághoz továbbítani abban az esetben is, ha a fél igazolási kérelmet nem terjesztett elő.
-
-(5) A per elintézéséből – a 350. § (1) bekezdésében meghatározottakon felül – ki van zárva és abban bíróként nem vehet részt az sem, aki a Döntőbizottság határozatának meghozatalában részt vett, vagy akit a Döntőbizottság határozatának alapjául szolgáló eljárásban tanúként vagy szakértőként kihallgattak.
-
-359/A. § (1) A közigazgatási és munkaügyi bíróság a Döntőbizottság határozatát végzéssel teljes egészében hatályon kívül helyezi, és a Döntőbizottságot új eljárásra utasítja, ha nem volt szabályszerűen megalakítva, vagy a határozat meghozatalában kizárt személy vett részt. Ha a Döntőbizottság a hatáskörét túllépve járt el, vagy hatáskörének hiányát jogszabálysértéssel állapította meg, a határozatot a közigazgatási és munkaügyi bíróság ebben a részében helyezi hatályon kívül.
-
-(2) Az (1) bekezdésben meghatározott esetek kivételével a közigazgatási és munkaügyi bíróság a Döntőbizottságot nem utasíthatja újabb eljárásra, hanem érdemben dönt, és a megtámadott határozatot egészben vagy részben megváltoztatja, vagy a keresetet elutasítja. Ha a felek között egyezség jött lére, a közigazgatási és munkaügyi bíróság az egyezséget jóváhagyó végzésében a határozatot hatályon kívül helyezi.
-
-### XXIV. Fejezet — Az alkotmányjogi panasz esetén követendő eljárás
-
-359/B. § (1) Ha a fél az Alkotmánybíróságról szóló törvényben foglaltak szerint alkotmányjogi panaszt terjeszt elő, azt az elsőfokú bíróság haladéktalanul továbbítja az Alkotmánybírósághoz.
-
-(2) Ha a bíróság a 213. § (2) bekezdése alapján részítéletet hozott és a fél alkotmányjogi panaszt terjesztett elő, a bíróság a részítélettel el nem bírált kereseti kérelem, illetve keresetrész tárgyalását – ha az ügy körülményei indokolják – az Alkotmánybíróság eljárásának befejezéséig felfüggesztheti.
-
-(3) Ha a bíróság a 213. § (3) bekezdése alapján közbenső ítéletet hozott és a fél alkotmányjogi panaszt terjesztett elő, a bíróság a per tárgyalását a követelés összegére (mennyiségére) vonatkozóan – ha az ügy körülményei indokolják – az Alkotmánybíróság eljárásának befejezéséig felfüggesztheti.
-
-(4) A felfüggesztést rendelő bírósági határozat ellen külön fellebbezésnek van helye; a bíróság e határozatot maga is megváltoztathatja.
-
-359/C. § (1) Az első fokon eljárt bíróság az alkotmányjogi panaszban támadott határozat végrehajtását az Alkotmánybíróság eljárásának befejezéséig felfüggesztheti, e határozat ellen külön fellebbezésnek van helye.
-
-(2) Az első fokon eljárt bíróság az alkotmányjogi panaszban támadott határozat végrehajtását az Alkotmánybíróság eljárásának befejezéséig felfüggeszti, ha az Alkotmánybíróság erre hívja fel a bíróságot. E határozat ellen fellebbezésnek nincs helye.
-
-(3) A bíróság a felfüggesztésről szóló jogerős végzést megküldi az Alkotmánybíróságnak.
-
-360. § Ha az Alkotmánybíróság
-
-- a) alkotmányjogi panasz eljárásban a jogszabályt vagy jogszabályi rendelkezést megsemmisíti, és ezért az – az Alkotmánybíróság eltérő döntése hiányában – az Alkotmánybíróság eljárására okot adó ügyben nem alkalmazható, vagy
-- b) megállapítja a bírói döntés alaptörvény-ellenességét és a bírósági határozatot megsemmisíti, az alkotmányjogi panasz orvoslásának eljárási eszközét – az Alkotmánybíróság határozata alapján és a vonatkozó eljárási szabályok megfelelő alkalmazásával – a Kúria állapítja meg.
-
-361. § A Kúria az alkotmányjogi panasz orvoslása érdekében az alábbiak szerint határoz:
+361. § A Legfelsőbb Bíróság az alkotmányjogi panasz orvoslása érdekében az alábbiak szerint határoz:
 
 - a) ha az Alkotmánybíróság anyagi jogszabályt vagy rendelkezést semmisített meg, és az ügyben kizárólag per (vagy nemperes eljárás) volt folyamatban, értesíti a panasz indítványozóját, hogy harminc napon belül perújítási kérelmet terjeszthet elő a perben eljárt elsőfokú bíróságnál;
-- b) ha az Alkotmánybíróság eljárási jogszabályt vagy rendelkezést semmisített meg, megállapítja az Alkotmánybíróság határozatából következő eljárási jog gyakorolhatóságát a vonatkozó eljárási szabályok megfelelő alkalmazásával, s szükség esetén az eljárás azon szakaszának újbóli lefolytatását rendeli el az azt befejező határozat egyidejű hatályon kívül helyezésével, melynek kimenetelére az alaptörvény-ellenes jogszabály alkalmazása hatással lehetett;
-- c) ha az Alkotmánybíróság a bíróság határozatát megsemmisítette, az Alkotmánybíróság határozatából következően – a d) pontban foglalt kivétellel – az első vagy a másodfokon eljárt bíróságot új eljárásra és új határozat hozatalára utasítja, vagy a felülvizsgálati kérelem tárgyában új határozat hozatalát rendeli el;
-- d) ha az Alkotmánybíróság a bíróság határozatának megsemmisítése esetén a bírósági határozattal felülvizsgált más hatóság által hozott döntést is megsemmisítette, a megsemmisített döntést hozó hatóságot értesíti a szükséges intézkedések megtétele érdekében az Alkotmánybíróság határozatának egyidejű megküldése mellett, és erről a panasz indítványozóját is tájékoztatja.
+- b) ha az Alkotmánybíróság eljárási jogszabályt vagy rendelkezést semmisített meg, megállapítja az Alkotmánybíróság határozatából következő eljárási jog gyakorolhatóságát a vonatkozó eljárási szabályok megfelelő alkalmazásával, s szükség esetén az eljárás azon szakaszának újbóli lefolytatását rendeli el az azt befejező határozat egyidejű hatályon kívül helyezésével, melynek kimenetelére az alkotmányellenes jogszabály alkalmazása hatással lehetett.
 
-362. § (1) Az eljárás a 361. § a) és b) pontjában meghatározott esetben az indítványozó – az Alkotmánybíróság határozatának részére történő kézbesítésétől számított harminc napon belül előterjeszthető – kérelmére, a 361. § c) és d) pontjában meghatározott esetben hivatalból indul. A 361. § c) és d) pontjában meghatározott esetben az elsőfokú határozatot hozó bíróság az Alkotmánybíróság döntését az ügy irataival együtt haladéktalanul felterjeszti a Kúriához. A Kúria nemperes eljárásban határoz.
+362. § (1) Az eljárás az indítványozó – az Alkotmánybíróság határozatának részére történő kézbesítésétől számított harminc napon belül előterjeszthető – kérelmére indul. A Legfelsőbb Bíróság nemperes eljárásban határoz.
 
-(2) A Kúria indokolt esetben az alkotmányjogi panasz indítványozóját, illetve az Alkotmánybíróság határozatában megjelölt ügyben lefolytatott eljárásban részt vevő ellenérdekű felet meghallgatja. A szabályszerűen megidézettek vagy valamelyikük elmaradása az ügy elintézését nem gátolja.
+(2) A Legfelsőbb Bíróság indokolt esetben az alkotmányjogi panasz indítványozóját, illetve az Alkotmánybíróság határozatában megjelölt ügyben lefolytatott eljárásban részt vevő ellenérdekű felet meghallgatja. A szabályszerűen megidézettek vagy valamelyikük elmaradása az ügy elintézését nem gátolja.
 
-(3) A Kúria határozata ellen jogorvoslatnak nincs helye.
+(3) A Legfelsőbb Bíróság határozata ellen jogorvoslatnak nincs helye.
 
 363. § (1) Az eredményes alkotmányjogi panasz alapján indított eljárásokat soron kívül kell lefolytatni.
 
-(2) Ha e Fejezet másként nem rendelkezik, eljárása során a Kúria az általános szabályok megfelelő alkalmazásával jár el.
+(2) Ha e Fejezet másként nem rendelkezik, eljárása során a Legfelsőbb Bíróság az általános szabályok megfelelő alkalmazásával jár el.
 
 364. §
 
@@ -3791,7 +3259,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 366. § Ha a végrehajtás megszüntetésére, illetőleg korlátozására a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 41. vagy 56. §-a szerint a bírósági végrehajtási eljárás keretében nincs lehetőség, az az adós, aki a végrehajtást sérelmesnek tartja, végrehajtás megszüntetési, illetőleg korlátozási pert indíthat a végrehajtást kérő ellen.
 
-367. § A végrehajtás megszüntetési, illetőleg korlátozási perre kizárólag az a bíróság illetékes, amely a végrehajtási eljárást elrendelte; ha pedig a végrehajtási eljárást a törvényszék vagy a közigazgatási és munkaügyi bíróság, illetve a közjegyző rendelte el, kizárólag az adós lakóhelye szerinti járásbíróság illetékes.
+367. § A végrehajtás megszüntetési, illetőleg korlátozási perre kizárólag az a bíróság illetékes, amely a végrehajtási eljárást elrendelte; ha pedig a végrehajtási eljárást a megyei bíróság vagy a munkaügyi bíróság rendelte el, kizárólag az adós lakóhelye szerinti helyi bíróság illetékes.
 
 368. § A végrehajtási lappal és a vele egy tekintet alá eső végrehajtható okirattal elrendelt végrehajtás megszüntetése és korlátozása iránt pert akkor lehet indítani, ha a perben közölni kívánt tény
 
@@ -3811,8 +3279,6 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (2) Az első tárgyalás megtartásának nem akadálya az, ha a felperes vagy az alperes nem jelent meg, ha azonban egyik fél sem jelent meg az első tárgyaláson, az eljárást meg kell szüntetni.
 
-(2a) Ha a kereseti kérelem a végrehajtás megszüntetésére irányul, de korlátozásnak is helye lehet, a bíróság erre a feleket figyelmezteti és lehetőséget biztosít, hogy a felek ezzel összefüggésben az érdemi nyilatkozataikat megtegyék.
-
 (3) Bizonyítás felvételének csak olyan bizonyítékokra vonatkozóan van helye, amelyek a tárgyaláson rendelkezésre állnak, és amelyek alkalmasak lehetnek arra, hogy a keresetlevélben előadottakat vagy az alperes védekezését igazolják. Bizonyítás felvételének helye van a felek által nyomban felajánlott bizonyítékokra is.
 
 (4) A tárgyalást – legfeljebb 8 napra – csak akkor lehet elhalasztani, ha ez a felek által felajánlott bizonyítás lefolytatása érdekében szükséges.
@@ -3820,21 +3286,6 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 (5) A bíróság a keresetlevelet azzal küldi meg az ügyben eljárt végrehajtónak, hogy nyilatkozzon az eljárással kapcsolatban felmerült költségeiről, díjáról, valamint az azokat megalapozó körülményekről és az általa lefolytatott eljárási cselekményéről. A végrehajtót a tárgyalás napjáról értesíteni kell.
 
 (6) Ha a végrehajtó az (5) bekezdés szerinti nyilatkozatot a perben előterjesztette, a bíróságnak a végrehajtást megszüntető határozatában a végrehajtási költségek viseléséről is döntenie kell. A bíróság határozata ellen a végrehajtási költségek tekintetében a végrehajtó is fellebbezhet.
-
-370/B. § (1) Ha a felperes a végrehajtás megszüntetése, illetve korlátozása iránti perben a 369. § a) pontjában foglaltakra, érvénytelenségre alapítva hivatkozik, ebben a perben a végrehajtási záradékkal ellátott okiratba foglalt szerződés vagy végrehajtási záradékkal ellátott okiratba foglalt egyoldalú kötelezettségvállaló nyilatkozat esetén az annak alapjául szolgáló szerződés érvénytelensége tárgyában is keresetet kell előterjesztenie.
-
-(2) Az (1) bekezdés szerinti esetben, ha a felperes – hiánypótlási felhívás ellenére – nem terjeszti elő a végrehajtási záradékkal ellátott okiratba foglalt szerződés vagy végrehajtási záradékkal ellátott okiratba foglalt egyoldalú kötelezettségvállaló nyilatkozat esetén az annak alapjául szolgáló szerződés érvénytelensége tárgyában a keresetet, a kizárólag a 369. § a) pontjában foglaltakra alapított kereset esetén a keresetlevelet idézés kibocsátása nélkül el kell utasítani, vagy ha a keresetlevél idézés kibocsátása nélküli elutasításának már nincs helye, a pert meg kell szüntetni. Nincs helye a keresetlevél idézés kibocsátása nélküli elutasításának vagy a per megszüntetésének, ha a felperes a 369. § a) pontja mellett a végrehajtás megszüntetését, illetve korlátozását más okra alapítottan is kéri; ebben az esetben úgy kell tekinteni, hogy a 369. § a) pontjára alapított kereseti kérelmet nem tartja fenn.
-
-(3) Az (1) bekezdés szerinti esetben a végrehajtási záradékkal ellátott okiratba foglalt szerződés vagy végrehajtási záradékkal ellátott okiratba foglalt egyoldalú kötelezettségvállaló nyilatkozat esetén az annak alapjául szolgáló szerződés érvénytelensége tárgyában a keresetet mindazokkal szemben elő kell terjeszteni, akiknek egyébként perben kellene állnia a szerződés érvénytelensége tárgyában indított perben.
-
-(4) Az (1) bekezdés szerinti esetben a perben a végrehajtás megszüntetése, illetve korlátozása iránti perre hatáskörrel és illetékességgel rendelkező bíróság jár el akkor is, ha a végrehajtási záradékkal ellátott okiratba foglalt szerződés vagy végrehajtási záradékkal ellátott okiratba foglalt egyoldalú kötelezettségvállaló nyilatkozat esetén az annak alapjául szolgáló szerződés érvénytelensége tárgyában indított per más bíróság hatáskörébe és illetékességébe tartozna.
-
-(5) Azt a végrehajtás megszüntetése, illetve korlátozása iránti pert, amelyben a felperes a 369. § a) pontjára, érvénytelenségre alapítva hivatkozik, a bíróság felfüggeszti a végrehajtási záradékkal ellátott okiratba foglalt szerződés vagy végrehajtási záradékkal ellátott okiratba foglalt egyoldalú kötelezettségvállaló nyilatkozat esetén az annak alapjául szolgáló szerződés érvénytelensége tárgyában folyamatban lévő per jogerős elbírálásáig, ha
-
-- a) az érvénytelenség iránti per korábban került megindításra, mint a 369. § a) pontjára alapított per, vagy
-- b) az érvénytelenség iránti pert a 369. § a) pontjára alapított per felperesétől eltérő személy indította.
-
-(6) Az (1) bekezdés szerinti esetben a 370/A. § (3) és (4) bekezdése nem alkalmazható.
 
 ### Igényper
 
@@ -3848,11 +3299,11 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (2) Ha a vagyontárgyat több végrehajtást kérő követelésének végrehajtása végett foglalták le, az igénypert mindegyik végrehajtást kérő ellen meg kell indítani.
 
-(3) A Vht. 10. § d) pontjában felsorolt bűnügyi követelés végrehajtása esetén – ideértve az ilyen követelés biztosítására elrendelt bűnügyi zárlatot is – az igénypert az állam nevében a követelés jogosultjaként eljárni jogosult ellen kell megindítani.
+(3) A Vht. 10. §-ának d) pontjában felsorolt bűnügyi követelés végrehajtása esetén – ideértve az ilyen követelés biztosítására elrendelt bűnügyi zárlatot is – az igénypert az igazságügyért felelős miniszter ellen kell megindítani.
 
 (4) Ha a bűnügyi zárlatot polgári jogi igény biztosítására rendelték el, az igénypert a sértett (magánfél) ellen kell megindítani.
 
-373. § A végrehajtási igényperre kizárólag az a járásbíróság illetékes, amelynek területén a foglalás történt.
+373. § A végrehajtási igényperre kizárólag az a helyi bíróság illetékes, amelynek területén a foglalás történt.
 
 374. § (1) Az igényperben eljáró bíróság az ügyben a végrehajtást felfüggesztheti.
 
@@ -3918,144 +3369,15 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (6) A bíróság a végrehajtást a kereset elbírálásáig felfüggesztheti, erről a bírósági végrehajtót tájékoztatnia kell. A felfüggesztés hatályára a Vht. 50. §-ának (4) bekezdésében foglalt rendelkezés megfelelően irányadó.
 
-## ÖTÖDIK RÉSZ — KIEMELT JELENTŐSÉGŰ PEREK
+#### ÖTÖDIK RÉSZ [HATODIK RÉSZ]
 
-### XXVI. Fejezet
+### KISÉRTÉKŰ PEREK
 
-386/A. § (1) Az I–XIV. fejezet szabályait az e Részben foglalt eltérésekkel kell alkalmazni a törvényszék hatáskörébe tartozó
+#### XXVI. Fejezet [XXVII. Fejezet]
 
-- a) a 23. § (1) bekezdés a) pontja szerinti – a 24. § és 25. § rendelkezései szerint számítva 400 millió forintot meghaladó – követelések érvényesítésére indított perekben,
-- b) azokban a megállapításra irányuló perekben (123. §), amelyek esetében a per tárgyának értéke – ha marasztalás kérhető lenne – meghaladná az a) pontban meghatározott értéket,
-- c) az államháztartásról szóló 2011. évi CXCV. törvény 67. §-ában foglaltak alapján indított perekben.
+### Az általános szabályok alkalmazása
 
-(2) Az e Részben foglaltakat a XV–XXV. fejezet szerinti különleges eljárásokban nem kell alkalmazni.
-
-(3) A jelen fejezet rendelkezései alapján zajló perekben a jogi képviselet kötelező.
-
-386/B. § A jelen fejezet szerinti kiemelt jelentőségű pereknél az elsőfokú bíróság köteles erre irányuló kérelem hiányában is elrendelni az ügyek soron kívüli intézését. Az elsőfokú bíróság által elrendelt soronkívüliség az eljárás minden szakaszára, a rendes és rendkívüli perorvoslatokra is kiterjed.
-
-386/C. § (1) A kiemelt jelentőségű perekben a bíróság a keresetlevelet nyomban, de legkésőbb a bírósághoz érkezéstől számított nyolc napon belül megvizsgálja annak megállapítása érdekében, hogy nem kell-e azt a félnek hiánypótlásra visszaadni (95. §), nincs-e helye az ügy áttételének (129. §), illetőleg a keresetlevél idézés kibocsátása nélküli elutasításának (130. §), és a szükséges intézkedéseket megteszi. A bíróság a keresetlevél érkezésétől számított 60 napon belülre köteles a per első tárgyalását kitűzni, kivéve, ha a törvény a határidő kezdő időpontját illetően korábbi időpontot határoz meg. A tárgyalási időpontra vonatkozó rendelkezéseket nem kell alkalmazni, ha a fél részére a tárgyalásra szóló idézést külföldre kell kézbesíteni és a kézbesítéshez szükséges idő a tárgyalás határidőn belüli megtartását nem teszi lehetővé.
-
-(2) A folytatólagos tárgyalást az elhalasztott tárgyalás napját követő két hónapon belülre kell kitűzni, kivéve
-
-- a) ha a szakértői bizonyítás következtében ennél hosszabb tárgyalási időköz szükséges, vagy
-- b) ha a személyes megjelenésre kötelezett fél részére a tárgyalásra szóló idézést külföldre kell kézbesíteni, és jogszabály kötelezően ennél hosszabb kézbesítési határidőt állapít meg.
-
-(3) Amennyiben a belföldi lakóhellyel nem rendelkező
-
-- a) felperes a keresetét szabályszerűen előterjesztette és a per első tárgyalásán megjelent vagy annak távollétében való megtartását kérte, vagy
-- b) alperes érdemi ellenkérelmét a 139. § szerint a per első tárgyalásán vagy azt megelőzően írásban előterjesztette, de kézbesítési megbízottat bármely okból nem állított vagy annak megbízatása megszűnt, és a peres fél a korábban megjelölt idézhető lakcíméről a folytatólagos tárgyalásra nem idézhető vagy az idézés szabályszerű kiküldése ellenére az idézés kiküldésétől számított 30 nap elteltével nem állapítható meg, hogy a fél idézése szabályszerűen megtörtént-e, úgy az iratot hirdetmény útján kell kézbesíteni.
-
-(4) A bíróság a (3) bekezdés szerinti esetben az ellenérdekű fél kérelmére a belföldi lakóhellyel nem rendelkező peres fél részére akkor is ügygondnokot rendel, ha az ügygondnok kirendelésének a 102. § (3) bekezdésében foglalt feltétele nem áll fenn. Ügygondnoknak csak jogi képviselet ellátására alkalmas személy jelölhető ki.
-
-(5) A (3) bekezdés irányadó a fél személyes meghallgatásra történő idézése esetén is.
-
-386/D. § A bíróság a 177. § szerint elrendelt szakértői bizonyítás során, a szakvélemény elkészítésére legfeljebb 30 napos, különösen bonyolult ügyekben legfeljebb 60 napos határidőt engedhet. A határidő különösen indokolt esetben egyszer és legfeljebb az eredetileg meghatározott napok számával meghosszabbítható, kizárólag a szakértő indokolt kérelmére.
-
-386/E. § A bíróság a kiemelt jelentőségű perek elbírálása érdekében szükség szerint egymást követő tárgyalási napokra is tűzhet tárgyalást, amennyiben a per körülményei ezt lehetővé és indokolttá teszik.
-
-386/F. § Az elsőfokú határozatot – kivéve, ha annak kihirdetését a bíróság elhalasztotta [218. § (1) bek.] – annak meghozatalától számított legkésőbb nyolc napon belül kell írásba foglalni és az írásba foglalást követő három napon belül kézbesíteni kell. Ha az ítélet kihirdetését a bíróság elhalasztotta, a kihirdetéskor jelen lévő feleknek a bíróság az írásba foglalt ítéletet nyomban kézbesíti, és ezt a jegyzőkönyvben is feltünteti, a meg nem jelent feleknek pedig három napon belül kézbesíti.
-
-386/G. § A másodfokú eljárás befejezése után az iratokat a bíróság legkésőbb tizenöt napon belül megküldi az elsőfokú bíróságnak. A másodfokú eljárást befejező határozatot a felekkel kézbesítés útján az elsőfokú bíróság közli az iratoknak az elsőfokú bírósághoz való érkezését követő legkésőbb nyolc napon belül. Ha a másodfokú bíróság a határozata kihirdetését elhalasztotta [218. § (1) bek.], a már írásba foglalt határozatát a jelenlévő feleknek nyomban kézbesíti és ezt a jegyzőkönyvben is feltünteti.
-
-386/H. § (1) A bíróság a 213. § (2), illetve (3) bekezdés szerinti feltételek fennállása esetén köteles rész vagy közbenső ítéletet hozni, amennyiben ezt bármelyik fél indítványozza és e körben a feleknek további, a bíróság által elrendelt bizonyítási indítványa nincsen. A bíróság a rész vagy közbenső ítélet meghozatalára irányuló indítványt kizárólag abban az esetben utasíthatja el, ha a 213. § (2), illetve (3) bekezdésben foglalt eljárásjogi feltételek nem állnak fenn.
-
-(2) A bíróság a kérelem tárgyában legkésőbb a rész- vagy közbenső ítélet hozatalára irányuló indítványt követő tárgyaláson határoz. A kérelemnek helyt adó döntésről a bíróság külön, alakszerű határozatot nem hoz. A kérelem elutasításáról a bíróság külön végzést hoz, mely ellen külön fellebbezésnek van helye, azzal, hogy az elutasító végzés ellen csatlakozó fellebbezés nem nyújtható be. Az elsőfokú bíróság a végzés elleni fellebbezést az elbíráláshoz szükséges periratokkal együtt a másodfokú bírósághoz a fellebbezési határidő lejártától számított nyolc napon belül felterjeszti, és arról a másodfokú tanács annak érkezésétől számított tizenöt napon belül tárgyalás tartása nélkül határoz.
-
-(3) A bíróság a részítélettel el nem bírált kereseti kérelem, illetve keresetrész tárgyalását – ha az ügy körülményei indokolttá teszik – a részítélet jogerős eldöntéséig felfüggesztheti. A felfüggesztés tárgyában egyebekben a 155. § rendelkezéseit kell alkalmazni.
-
-(4) Ha a fél nyilvánvalóan alaptalanul tesz az (1) bekezdése szerint indítványt, vagy ugyanabban a perben ismételten alaptalan indítványt tesz, őt a rész- vagy közbenső ítélet hozatalát elutasító határozatban pénzbírsággal kell sújtani.
-
-386/I. § A kiemelt jelentőségű perekben a 272. § (1) bekezdés alapján benyújtott felülvizsgálati kérelmet az elsőfokú határozatot hozó bíróságnál a határozat közlésétől számított harminc napon belül kell benyújtani vagy ajánlott küldeményként postára adni kettővel több példányban, mint ahány fél a perben érdekelve van. A felülvizsgálati kérelem benyújtására előírt határidő elmulasztása esetén az elmulasztott határidő utolsó napjától számított harminc nap elteltével igazolásnak akkor sincs helye, ha a mulasztás csak később jutott a fél tudomására, vagy az akadály csak később szűnt meg.
-
-386/J. § A kiemelt jelentőségű perekben a bíróság nem köteles a jogvita eldöntése érdekében a bizonyításra szoruló tényekről, a bizonyítási teherről, illetve a bizonyítás sikertelenségének következményeiről a feleket előzetesen tájékoztatni.
-
-386/K. § Az e fejezet rendelkezései alapján zajló perekben kiszabható pénzbírság legmagasabb összege ötmillió forint.
-
-386/L. §
-
-386/M. § A 173. § rendelkezései helyett a kiemelt jelentőségű perek tekintetében az alábbi rendelkezések irányadóak:
-
-(1) A kihallgatás kezdetén a tanútól meg kell kérdezni a nevét, születési helyét, idejét, anyja nevét, lakóhelyét, valamint azt, hogy a felekkel milyen viszonyban van, s hogy ennek folytán vagy más okból nem elfogult-e. Ezekre a kérdésekre a tanú akkor is köteles válaszolni, ha egyébként a vallomástétel megtagadására jogosult. Ha a bíróság a tanú személyi adatainak zártan kezelését nem szüntette meg, vagy a tanú kérelmére azokat zártan kezeli, a tanú személyi adatait a személyazonosításra alkalmas iratok megtekintésével állapítja meg, írásban rögzíti és zártan kezeli.
-
-(2) Ezután a tanút a (3) bekezdésben foglaltak szerint részletesen ki kell hallgatni, tisztázva azt is, hogy az általa előadottakról miként szerzett tudomást.
-
-(3) A kihallgatást az elnök vezeti. A tanú kihallgatását kezdeményező fél indítványa esetén a tanúhoz először a tanúkihallgatást indítványozó fél intézhet közvetlenül kérdéseket, majd – az ellenérdekű fél ilyen tartalmú indítványa esetén – az ellenérdekű fél. A feleket követően az elnök, valamint a bíróság többi tagja jogosult a tanúhoz kérdéseket intézni.
-
-(4) Amennyiben az egyik fél sem él a (3) bekezdés szerinti indítványtételi joggal a tanút elsőként az elnök hallgatja ki, illetve a bíróság többi tagja is jogosult a tanúhoz kérdéseket intézni. Ezt követően a tanúkihallgatást indítványozó, majd az ellenérdekű fél intézhet közvetlenül kérdéseket a tanúhoz.
-
-(5) A fél részéről a tanúhoz intézett
-
-- a) a tanú befolyásolására alkalmas, illetőleg a választ magában foglaló,
-- b) az ügyre nem tartozó,
-- c) indokolatlanul ismételten ugyanarra a tényre irányuló kérdés esetén az ellenérdekű fél tiltakozást jelenthet be. Tiltakozással érintett kérdés megengedhetősége felől az elnök határoz.
-
-(6) Ha a tanú vallomása más tanúnak vagy személyesen meghallgatott félnek előadásával ellentétben áll, az ellentét tisztázását szükség esetén szembesítéssel kell megkísérelni.
-
-386/N. § A kiemelt jelentőségű perekben a perbehívásra és a perbehívott nyilatkozatára (58–59. §) meghatározott határidő 15 nap.
-
-### XXVI/A. Fejezet — A Teljesítésigazolási Szakértői Szerv szakvéleményére alapított per
-
-### A kiemelt jelentőségű perek szabályainak alkalmazása
-
-386/O. § A pertárgy értékétől függetlenül kiemelt jelentőségű pernek minősül a tervezési, építési, kivitelezési szerződés teljesítéséből eredő díjkövetelés érvényesítése iránt – hatáskörtől függően járásbíróság vagy törvényszék előtt – indított olyan per, amelyben a felperes az érvényesíteni kívánt jog alapjául a Teljesítésigazolási Szakértői Szerv szakvéleményére hivatkozik. E perekre a XXVI. fejezet rendelkezéseit a jelen fejezetben foglalt eltérésekkel kell alkalmazni.
-
-### Keresetindítás
-
-386/P. § (1) A keresetlevelet a szakvélemény kézbesítésétől számított hatvan napon belül kell benyújtani.
-
-(2) A keresetlevélhez csatolni kell a Teljesítésigazolási Szakértői Szerv szakvéleményét, valamint az annak kézbesítési időpontját igazoló okirati bizonyítékot. Ezek pótlására hiánypótlási felhívás nem adható ki.
-
-(3) A 121/A. § rendelkezéseit a felek személyétől függetlenül alkalmazni kell. A keresetlevélhez olyan iratot kell csatolni, amely a Teljesítésigazolási Szakértői Szerv szakvéleményére alapítva tartalmazza a felek írásbeli nyilatkozatait vagy a jogvita peren kívüli elintézésének megkísérlését. Ezek pótlására hiánypótlási felhívás nem adható ki.
-
-(4) Az (1)–(3) bekezdésben foglaltak elmulasztása esetén igazolásnak nincs helye, és a pert az általános szabályok szerint kell lefolytatni. A 386/R. § rendelkezéseit ebben az esetben is alkalmazni kell.
-
-### Ideiglenes intézkedések
-
-386/Q. § (1) A bíróság a (2) bekezdésben foglalt feltételek teljesítése esetén, kérelemre ideiglenes intézkedéssel elrendeli a kereseti kérelemben (viszontkeresetben), illetve az ideiglenes intézkedés iránti kérelemben foglalt azon – 400 millió forintot meg nem haladó összegű – követelés teljesítését, amely a Teljesítésigazolási Szakértői Szerv szakvéleménye szerint a teljes bizonyossággal megállapíthatóan teljesített tervezési, építési és kivitelezési munkák szerződés szerinti értéke.
-
-(2) A kérelem akkor teljesíthető, ha a kérelmező igazolja, hogy az ideiglenes intézkedés hatályvesztése vagy az ideiglenes intézkedést elrendelő végzés hatályon kívül helyezése esetére
-
-- a) a követelés összegének visszatérítésére alkalmas biztosítással vagy hitelintézet vagy pénzügyi vállalkozás által nyújtott garanciával rendelkezik, vagy
-- b) a követelés összegének megfelelő összeget bírósági elnöki letétbe helyezte.
-
-(3) A bíróság az ideiglenes intézkedés iránti kérelemről a rendelkezésre álló iratok alapján, a felek meghallgatása nélkül dönt. A kérelemhez csatolni kell a (2) bekezdésben foglaltakat igazoló okirati bizonyítékot. Ennek pótlására hiánypótlási felhívás nem adható ki. A mulasztás igazolásának nincs helye.
-
-(4) A bíróság a (2) bekezdésben foglalt biztosítás vagy garancia meglétét az eljárás bármely szakaszában hivatalból vizsgálja. A bíróság az ideiglenes intézkedést elrendelő végzését hatályon kívül helyezi, ha a feltételek fennállását a fél felhívásra nem igazolja.
-
-(5) Ha az ideiglenes intézkedés hatályát veszti vagy a bíróság az ideiglenes intézkedést elrendelő végzést hatályon kívül helyezi, a letétbe helyezett összeg kifizetéséről rendelkezni kell.
-
-### Szakértők
-
-386/R. § (1) A perben felmerülő szakkérdésben a Teljesítésigazolási Szakértői Szerv szakvéleménye ugyanolyan bizonyítási eszköznek minősül, mintha a szakvéleményt a perben kirendelt szakértő terjesztette volna elő.
-
-(2) A bíróság a szakértői tanács elnökét megidézheti, meghallgatására a 180. § (1) bekezdése és a 182. § megfelelően irányadó. A fél – ha a bizonyítás szempontjából szükségesnek látszik – a perben más szakértő kirendelését is indítványozhatja.
-
-(3) A szakértőnek a perben felmerülő költségei viselésére a 187. § megfelelően irányadó.
-
-(4) A perben más szakértőként az sem járhat el, aki a jogvitával érintett ügyben a Teljesítésigazolási Szakértői Szerv szakértői tanácsának tagjaként szakvéleményt adott vagy a szakvélemény adásával kapcsolatban ellátta a Teljesítésigazolási Szakértői Szerv vezetőjének feladatait.
-
-### Keresetváltoztatás és viszontkereset
-
-386/S. § A 146/A. § és 147/A. § rendelkezéseit a pertárgy értékétől függetlenül alkalmazni kell.
-
-### Előzetes végrehajthatóság
-
-386/T. § Az ítéletet fellebbezésre tekintet nélkül végrehajthatónak kell nyilvánítani a tervezési, építési, kivitelezési szerződés teljesítéséből eredő díjkövetelés megfizetésére kötelező – 400 millió forintot meg nem haladó összegű – részében, ha az a Teljesítésigazolási Szakértői Szerv szakvéleményében meghatározott összeget (részben vagy egészben) mint pénzbeli marasztalást tartalmazza.
-
-### Elektronikus kapcsolattartás
-
-386/U. § (1) A perben a beadványokat és azok okiratnak minősülő mellékleteit elektronikus úton kell benyújtani. A nem elektronikus úton benyújtott beadványban és mellékletében foglalt nyilatkozat hatálytalan.
-
-(2) A perben az elektronikus kapcsolattartásra a 394/C–394/M. §-t kell alkalmazni.
-
-(3) Ha a pert a 386/P. § (4) bekezdése alapján az általános szabályok szerint kell lefolytatni, az elektronikus kapcsolattartásra a XXVIII. Fejezet rendelkezéseit kell alkalmazni.
-
-## HATODIK RÉSZ — KISÉRTÉKŰ PEREK
-
-### XXVII. Fejezet — Az általános szabályok alkalmazása
-
-387. § (1) Az I–XIV. Fejezet szabályait az e Részben foglalt eltérésekkel kell alkalmazni a járásbíróság hatáskörébe tartozó, a 24. és 25. § rendelkezései szerint számítva az egymillió forintot meg nem haladó, kizárólag pénz fizetésére irányuló követelések érvényesítésére indított perekben – a 349. § (4) bekezdésében meghatározott pereket ide nem értve –, amelyekben az eljárás fizetési meghagyással szemben előterjesztett ellentmondás folytán alakult perré, vagy amelyek egyébként a 315. § (2) bekezdése alapján fizetési meghagyásos eljárást követnek (kisértékű perek).
+387. § (1) Az I–XIV. Fejezet szabályait az e Részben foglalt eltérésekkel kell alkalmazni a helyi bíróság hatáskörébe tartozó, a 24. és 25. § rendelkezései szerint számítva az egymillió forintot meg nem haladó, pénz fizetésére irányuló követelések érvényesítésére indított perekben, amelyekben az eljárás fizetési meghagyással szemben előterjesztett ellentmondás folytán alakult perré [313. § (2) bek.] (kisértékű perek).
 
 (2) A kisértékű perek szabályainak alkalmazhatósága tekintetében a per tárgyának a fizetési meghagyás iránti kérelem beadásakor fennálló értéke irányadó.
 
@@ -4065,11 +3387,9 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 ### Tárgyalás
 
-388. § (1) A bíróság az ellentmondás folytán perré alakult eljárásban a felperes részletes tényelőadását és bizonyítékait [318. § (1) bek.] legkésőbb a tárgyalásra szóló idézésben közli az alperessel. A bíróság a feleket a tárgyalásra szóló idézésben tájékoztatja arról, hogy a pert ezen Rész rendelkezései szerint bírálja el. A tájékoztatásnak ki kell terjednie arra, hogy a feleknek megjelenési és nyilatkozattételi kötelezettségük van, ezek, valamint az egyes eljárási – különösen a bizonyítási indítványok előterjesztésére, a keresetváltoztatásra, a viszontkereset-indításra és a beszámítási kifogás előterjesztésére vonatkozó – határidők elmulasztása milyen jogkövetkezménnyel jár.
+388. § (1) A bíróság a felperes részletes tényelőadását és bizonyítékait [322. § (1) bek.] legkésőbb a tárgyalásra szóló idézésben közli az alperessel. A bíróság a feleket a tárgyalásra szóló idézésben tájékoztatja arról, hogy a pert ezen Rész rendelkezései szerint bírálja el. A tájékoztatásnak ki kell terjednie arra, hogy a feleknek megjelenési és nyilatkozattételi kötelezettségük van, ezek, valamint az egyes eljárási – különösen a bizonyítási indítványok előterjesztésére, a keresetváltoztatásra, a viszontkereset-indításra és a beszámítási kifogás előterjesztésére vonatkozó – határidők elmulasztása milyen jogkövetkezménnyel jár.
 
-(2) A bíróságnak a tárgyalást úgy kell kitűznie, hogy az első tárgyalási nap az ellentmondás folytán perré alakult eljárásban a 318. § (1) bekezdésében meghatározott, a jogosult által beadott iratoknak, ha pedig a közjegyzői aktanyomat később érkezett meg a bírósághoz, akkor az aktanyomatnak a bírósághoz való érkezését követő legkésőbb negyvenöt – a 315. § (2) bekezdésében meghatározott perekben a keresetlevélnek a bírósághoz való érkezését követő legkésőbb hatvan – napon belül megtartható legyen.
-
-(3) A kisértékű perekben a perbehívásra és a perbehívott nyilatkozatára (58. és 59. §) meghatározott határidő nyolc nap.
+(2) A bíróságnak a tárgyalást úgy kell kitűznie, hogy az első tárgyalási nap a 322. § (1) bekezdésében meghatározott, a jogosult által beadott iratoknak a bírósághoz való érkezését követő legkésőbb negyvenöt napon belül megtartható legyen.
 
 389. § (1) Első tárgyalási napnak kell tekinteni azt a tárgyalási határnapot is, amelyre az alperes érdemi ellenkérelmének (139. §) előadása előtt a bíróság a tárgyalást elhalasztotta.
 
@@ -4151,9 +3471,9 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (3) Az elmulasztott fellebbezési határidő utolsó napjától számított hatvan nap elteltével igazolási kérelem akkor sem terjeszthető elő, ha a mulasztás csak később jutott a fél tudomására, vagy az akadály csak később szűnt meg.
 
-(4) A másodfokú eljárásban a 146. § (5) bekezdés a) pontjában foglaltaknak, illetve új bizonyítékok előterjesztésének helye nincs. E tilalom nem érvényesül, ha a 146. § (5) bekezdés a) pontjában foglaltakra, illetve a bizonyítékok előterjesztésére az elsőfokú eljárásban a bíróság eljárási szabálysértése vagy téves jogalkalmazása miatt nem kerülhetett sor.
+(4) A másodfokú eljárásban új tények állításának, illetve új bizonyítékok előterjesztésének helye nincs. E tilalom nem érvényesül, ha a tények előadására, illetve bizonyítékok előterjesztésére az elsőfokú eljárásban a bíróság eljárási szabálysértése vagy téves jogalkalmazása miatt nem kerülhetett sor.
 
-(5) A másodfokú eljárásban a 146. § (5) bekezdés b)–d) pontjában foglaltaknak – ha azok bizonyítási eljárás lefolytatását tennék szükségessé – csak akkor van helyük, ha az azokra okot adó körülmények a tárgyalás berekesztését követően álltak be. E tilalom nem érvényesül, ha a (4) bekezdés alapján a bizonyítási eljárás folytatásának egyébként is helye van.
+(5) A másodfokú eljárásban a 247. § a)–c) pontja alkalmazásának – ha az bizonyítási eljárás lefolytatását tenné szükségessé – csak akkor van helye, ha a keresetváltoztatásra okot adó körülmények a tárgyalás berekesztését követően álltak be. E tilalom nem érvényesül, ha a (4) bekezdés alapján a bizonyítási eljárás folytatásának egyébként is helye van.
 
 (6) Ha a beszámítási kifogás előterjeszthető, a (4) bekezdésben foglalt tilalom annak elbírálása során nem alkalmazható.
 
@@ -4171,246 +3491,80 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 394/A. § A 392–394. § rendelkezései nem alkalmazhatók a végzés elleni fellebbezés esetében. A 392–394. § rendelkezései nem alkalmazhatók az ítélet elleni fellebbezés esetén sem, ha a per tárgya tartási vagy egyéb járadék jellegű követelés.
 
-## HETEDIK RÉSZ — Az elektronikus kapcsolattartás alkalmazása és zártcélú távközlő hálózat igénybevétele a polgári perben
+## HATODIK RÉSZ — [HETEDIK RÉSZ]
 
-### XXVIII. Fejezet — Az elektronikus kapcsolattartás szabályai
+### ELEKTRONIKUS KOMMUNIKÁCIÓ A POLGÁRI PERBEN
 
-### Elektronikus kapcsolattartás a féllel
+### XXVII. Fejezet — [XXVIII. FEJEZET]
 
-394/B. § (1) A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja, ezen eljárásokban is – a fél vagy a képviselője – a (3) bekezdésben foglalt kivétellel – a keresetlevelet, továbbá minden egyéb beadványt, okirati bizonyítékot és ezek mellékletét (e fejezet alkalmazásában, a továbbiakban együtt: beadvány) választása szerint elektronikus úton is benyújthatja. Ha e törvény lehetővé teszi a beadvány adathordozón történő benyújtását, az e fejezet alkalmazásában elektronikus úton benyújtott beadványnak minősül.
+394/B. § (1) A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2010. július 1. és 2011. június 30. napja között a következő rendelkezéseket kell alkalmazni:
 
-(2) Az (1) bekezdés szerinti elektronikus út választása esetében az eljárás folyamán – ideértve az eljárás minden szakaszát és a rendkívüli perorvoslatot is – a félnek vagy képviselőjének a bírósággal a kapcsolatot elektronikus úton kell tartania és a bíróság is valamennyi bírósági iratot elektronikusan kézbesít a részére. A beadvány elektronikus úton történő benyújtását az (1) bekezdés szerinti elektronikus út vállalásának kell tekintetni. Az elektronikus úton történő kapcsolattartásra vonatkozó bejelentést a fél vagy a jogi képviselő az eljárás bármely szakaszában megteheti az eljáró bíróságnál.
+- a) ha a vállalkozások közötti perben kötelező a jogi képviselet, a keresetlevél és minden egyéb beadvány, okirati bizonyíték benyújtására kizárólag elektronikus úton, a jogi képviselő hivatali kapuján keresztül kerülhet sor, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti; az elektronikus úton benyújtott keresetlevelet a bíróság az alperes részére papír alapú okiratként kézbesíti azzal a kiegészítő tájékoztatással, hogy az eljárásban kötelező a jogi képviselet, ezért védekezését, nyilatkozatát jogi képviselővel eljárva, kizárólag elektronikus úton nyújthatja be;
+- b) kötelező jogi képviselet esetén az eredetileg papír alapú okirati bizonyítékok elektronikus benyújtása alóli kivételt jelenti, ha a bizonyítási eljárásban az okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás; a papír alapú benyújtást a bíróság hivatalból és a fél indítványára is elrendelheti;
+- c) kötelező jogi képviselet esetén, ha a fél – bármely okból – nem rendelkezik jogi képviselővel, akkor a bíróság a jogi képviselő képviseleti jogosultságának igazolásáig a félnek papír alapon kézbesíti a hivatalos iratokat;
+- d) a megyei bíróság elsőfokú hatáskörébe tartozó ügyekben a fél, illetve a jogi képviselő az elektronikus kézbesítést vállalhatja akkor is, ha nem kötelező a jogi képviselet; ha jogi képviselő nélkül eljáró fél vállalta az elektronikus kézbesítést, indokolt kérelmében az eljárás során egy alkalommal kérheti a papír alapú kézbesítésre való áttérést; a fél e jogát nem gyakorolhatja visszaélésszerűen;
+- e) ha az eljárásban nem kötelező az elektronikus kézbesítés, akkor a fél jogutódjára nem vonatkozik az, hogy a jogelőd az elektronikus kézbesítést vállalta, kivéve, ha a jogi képviselő vállalta az elektronikus kézbesítést, és a jogi képviselő személye nem változott;
+- f) ha a fél, illetve a jogi képviselő – a kötelező jogi képviselet esetét nem számítva – nem vállalja az elektronikus kézbesítést, de az elektronikus kézbesítést a másik fél, illetve jogi képviselője vállalta, akkor a bíróság a papír alapú okiratot benyújtó fél hivatalos iratait papír alapon kézbesíti a másik fél, illetve jogi képviselője számára.
 
-(3) A bíróság a fél részére papír alapon kézbesíti a bírósági iratot, ha a fél az eljárásban képviselője útján jár el és az iratot nem a képviselő, hanem a fél részére kell kézbesíteni, vagy a képviselő részére nem lehet kézbesíteni. A bíróság a felet tájékoztatja arról, hogy a bírósággal a kapcsolatot elektronikus úton is tarthatja. Ha a fél nem vállalja az elektronikus kézbesítést, de az elektronikus kézbesítés a másik fél számára kötelező vagy azt vállalta, akkor a bíróság a papír alapú okiratot benyújtó fél hivatalos iratait digitalizálja és elektronikusan kézbesíti a másik fél számára.
+(2) Az általános meghatalmazottal kapcsolatban 2010. július 1. napja és 2011. június 30. napja között a következő rendelkezéseket kell alkalmazni:
 
-(4)
+- a) ha a fél általános meghatalmazottal rendelkezik, akkor a meghatalmazott bejelentheti a bíróságnál, hogy ezen fél tekintetében vállalja a hivatalos iratok elektronikus kézbesítését; ebben az esetben a bíróság a meghatalmazott – mint az alperes, illetve a kötelezett képviselője – részére elektronikusan kézbesíti a hivatalos iratokat (a keresetlevelet is);
+- b) az elektronikus vagy papír alapú okiratban tett bejelentésnek tartalmaznia kell a jogi képviselő természetes személyazonosító adatait (név, születési hely és idő, anyja neve);
+- c) a bejelentés megtételekor nem kell illetéket leróni abban az esetben, ha a bejelentést a korábban benyújtott általános meghatalmazás kiegészítéseként teszik meg; ekkor a bejelentést a korábban benyújtott általános meghatalmazáshoz kell csatolni.
 
-(5) A bíróság az elektronikus úton benyújtott keresetlevél jogszabályban meghatározott módon készített papír alapú másolatát kézbesíti az alperes részére. A bíróság az alperest tájékoztatja arról, hogy ellenkérelmét, viszontkeresetét vagy egyéb nyilatkozatát elektronikus úton is benyújthatja, vagy – ha arra köteles – elektronikus úton köteles benyújtani.
+394/C. § A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2011. július 1. napjától a következő rendelkezéseket kell alkalmazni:
 
-(6) Ha a fél az elektronikus úton való kapcsolattartást választotta, az elektronikus benyújtás alóli kivételt jelenti, ha a bizonyítási eljárásban az okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás. A papír alapú benyújtást a bíróság hivatalból és a fél indítványára is elrendelheti.
+- a) a vállalkozás az Állami Elektronikus Kézbesítési Szolgáltatónál kézbesítési tárhellyel rendelkezik; a keresetlevelet, továbbá minden egyéb beadványát, okirati bizonyítékát kizárólag elektronikusan nyújtja be a bírósághoz, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti;
+- b) ha a vállalkozás az eljárásban alperesként (illetve kötelezettként, adósként) vesz részt, részére a bíróság elektronikusan kézbesít, és a vállalkozás a beadványait, okirati bizonyítékait kizárólag elektronikusan nyújthatja be;
+- c) ha a fél jogi képviselővel jár el, akkor a jogi képviselő a keresetlevelet, továbbá minden egyéb beadványt, okirati bizonyítékot kizárólag elektronikusan, hivatali kapuján keresztül nyújthatja be a bírósághoz, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti a jogi képviselő részére;
+- d) az eredetileg papír alapú okirati bizonyítékok elektronikus benyújtása alóli kivételt jelenti, ha a bizonyítási eljárásban az okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás; a papír alapú benyújtást a bíróság hivatalból és a fél indítványára is elrendelheti;
+- e) a jogi képviselő nélkül eljáró fél az elektronikus kézbesítést vállalhatja polgári perben; ha az eljárásban nem kötelező az elektronikus kézbesítés, akkor a fél jogutódjára nem vonatkozik az, hogy a jogelőd az elektronikus kézbesítést vállalta, vagy a papír alapú kézbesítésre való áttérés megtörtént;
+- f) az elektronikus úton benyújtott keresetlevél vagy egyéb beadvány a fél vagy a jogi képviselő utaló magatartása arra vonatkozóan, hogy abban az eljárásban vállalja az elektronikus kézbesítést, továbbá beadványait kizárólag elektronikus úton nyújtja be; az elektronikus kézbesítés vállalására vonatkozó bejelentést a fél vagy a jogi képviselő az eljárás bármely szakaszában megteheti az eljáró bíróságnál;
+- g) ha a jogi képviselő nélkül eljáró fél nem vállalja az elektronikus kézbesítést, de az elektronikus kézbesítés a másik fél számára kötelező vagy azt vállalta, akkor a bíróság a papír alapú okiratot benyújtó fél hivatalos iratait papír alapon kézbesíti a másik fél számára.
 
-(7) Ha jogi képviselő nélkül eljáró fél vállalta, hogy a bírósággal a kapcsolatot elektronikus úton tartja, utóbb, a beadvány papír alapú benyújtásával egyidejűleg kérheti a bíróságtól a papír alapú eljárásra való áttérés engedélyezését. A jogi képviselő nélkül eljáró félnek a kérelemben valószínűsítenie kell, hogy körülményeiben olyan változás következett be, amely miatt az elektronikus úton történő eljárás a továbbiakban számára aránytalan megterhelést jelentene.
+### Elektronikus kommunikáció a szakértővel
 
-(8) A papír alapú kapcsolattartásra való áttérés engedélyezése esetén erről külön végzést hozni nem kell, az áttérés iránti kérelem elutasításáról a bíróság végzéssel határoz, az áttérés iránti kérelem elutasítását a féllel papír alapon közli. A papír alapon benyújtott, a (7) bekezdés szerinti beadványt az áttérés iránti kérelem elutasítása esetén is szabályszerűen benyújtott beadványnak kell tekinteni, azt elektronikus úton benyújtani nem kell.
+394/D. § (1) E § rendelkezéseit 2011. június 30-ig csak a megyei bíróságok első fokú hatáskörébe tartozó, 2010. január 1. napját követően indult polgári perekben kell alkalmazni. A § rendelkezéseit 2011. július 1. napjától az ezen időpont után indult, a helyi bíróságok előtti polgári perekben is alkalmazni kell.
 
-(9) A papír alapú kapcsolattartásra való áttérés iránti kérelem elutasítása esetén azonos okból ismételten áttérés iránti kérelmet nem lehet benyújtani, az ennek ellenére benyújtott áttérés iránti kérelmet a bíróság érdemi vizsgálat nélkül elutasítja. Ha a jogi képviselő nélkül eljáró fél nyilvánvalóan alaptalanul terjeszt elő áttérés iránti kérelmet, őt az áttérést megtagadó határozatban pénzbírsággal (120. §) lehet sújtani.
+(2) Ha a szakértő az igazságügyi szakértői névjegyzék adatai alapján az elektronikus kézbesítést vállalja, a polgári perben a hivatalos és egyéb iratokat, ide értve a szakvéleményt, az előzetes munkatervet és a díjjegyzéket is, – a (3) bekezdésben foglalt kivétellel – elektronikusan kézbesíti a bíróság részére, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti a szakértőnek. A szakértő ebben az esetben nem kötelezhető arra, hogy a bírósághoz benyújtott hivatalos és egyéb iratot a felek és más perbeli személyek számára papír alapon megküldje.
 
-(10) A jogi képviselő nélkül eljáró jogutód félre nem vonatkozik az, hogy a jogelőd az elektronikus kézbesítést vállalta, vagy a papír alapú kézbesítésre való áttérés megtörtént.
+(3) A bíróság – kivételes jelleggel – indokolt kérelemre az elektronikus kézbesítési szabályok alkalmazása esetén is engedélyt adhat a szakértőnek a szakvélemény (vagy annak egy részének) papír alapú benyújtására.
 
-394/C. § (1) A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2016. január 1. napjától a következő rendelkezéseket kell alkalmazni.
+(4) A bíróság papír alapon vagy egyéb adathordozón bocsátja rendelkezésre a szakértő részére a hivatalos irat mellékletét, ha annak nagy mennyisége miatt vagy az adathordozó jellegéből adódóan a digitalizálás aránytalan nehézséggel járna vagy lehetetlen, valamint ha a papír alapú okirat valódisága vitás.
 
-(2) A (10)–(12) bekezdésben foglalt kivétellel
+(5) Ha a bíróság által megküldött hivatalos irathoz a (4) bekezdés szerinti melléklet kapcsolódik, a határidő számításának alapja a melléklet kézhezvételének időpontja.
 
-- a) a belföldi székhellyel rendelkező gazdálkodó szervezet (e fejezet alkalmazásában a továbbiakban: belföldi gazdálkodó szervezet) a keresetlevelet, továbbá minden egyéb beadványát, okirati bizonyítékát kizárólag elektronikusan, az űrlapbenyújtás támogatási szolgáltatás igénybevételével nyújthatja be a bírósághoz, és a belföldi gazdálkodó szervezet részére a bíróság is elektronikusan kézbesít;
-- b) ha a belföldi gazdálkodó szervezet az eljárásban alperesként vesz részt, részére a bíróság elektronikusan kézbesít, és a belföldi gazdálkodó szervezet a beadványait, okirati bizonyítékait kizárólag elektronikusan, az űrlapbenyújtás támogatási szolgáltatás igénybevételével nyújthatja be;
-- c) ha a fél jogi képviselővel jár el, a jogi képviselő a keresetlevelet, továbbá minden egyéb beadványt, okirati bizonyítékot kizárólag elektronikusan az űrlapbenyújtás támogatási szolgáltatás igénybevételével nyújthatja be a bírósághoz, és a bíróság is elektronikusan kézbesít a jogi képviselő részére.
+(6) A fél – kivéve ha számára e törvény szerint az elektronikus kézbesítés kötelező – papír alapon vagy elektronikus adathordozón a szakértő rendelkezésére bocsáthatja a hivatalos irat mellékletét. A szakértőnek, ha az elektronikus kézbesítést vállalta és ennek technikai lehetőségei adottak, a szakvélemény részévé tett mellékleteket digitalizálnia kell. Ha a fél számára az elektronikus kézbesítés kötelező és a szakértő az elektronikus kézbesítést vállalta, a fél a mellékletet a szakértő részére elektronikusan küldi meg.
 
-(3) A belföldi gazdálkodó szervezet – ha nem ügyvédi képviselettel jár el – a keresetlevelet, továbbá minden egyéb beadványt, okirati bizonyítékot a képviselő személyének teljes körű azonosítását biztosító és az űrlapbenyújtás támogatási szolgáltatás igénybevételével is benyújthatja, ha azzal rendelkezik. Ebben az esetben, a per folyamatban léte alatt, az elektronikus kapcsolattartás során ezt kell alkalmaznia.
+(7) Ha a szakértő az elektronikus kézbesítést nem vállalja, részére az iratokat papír alapon kell kézbesíteni.
 
-(4) A közigazgatási szerv – akkor is, ha nem minősül belföldi gazdálkodó szervezetnek, és ha nem közigazgatási perben jár el –, a keresetlevelet, továbbá minden egyéb beadványt, okirati bizonyítékot kizárólag elektronikusan nyújthat be a bírósághoz, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti a közigazgatási szervnek. A közigazgatási szerv – ha nem ügyvédi képviselettel jár el – az elektronikus benyújtás során a közigazgatási szerv teljes körű azonosítását biztosító és az űrlapbenyújtás támogatási szolgáltatás igénybevételével jár el. Ebben az esetben, a per folyamatban léte alatt, az elektronikus kapcsolattartás során ezt kell alkalmaznia.
+(8) A (7) bekezdésben foglalt esetben a szakértőnek a papír alapú szakvélemény benyújtásával együtt a szakvéleményt elektronikus adathordozón is be kell nyújtania. A szakértő felel azért, hogy a papír alapú szakvélemény tartalma megegyezik az elektronikus adathordozón benyújtott dokumentum tartalmával. Az adathordozót a bíróság nem köteles visszaszolgáltatni. A bíróság az elektronikus adathordozón benyújtott szakvéleményt az elektronikus kézbesítést vállaló fél számára elektronikusan kézbesíti.
 
-(5) Az ügyész az e törvény szerinti, valamint azokban a perekben, amelyeket külön törvény alapján indít, vagy ellene indítanak, a keresetlevelet, továbbá minden egyéb beadványt, okirati bizonyítékot a Legfőbb Ügyészség azonosítását biztosító és az űrlap benyújtás támogatási szolgáltatás igénybevételével nyújtja be a bírósághoz, és a bíróság is elektronikusan kézbesít az ügyész részére.
+### A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kommunikációja
 
-(6) E fejezet alkalmazásában jogi képviselőnek kell tekinteni a 73/C. § (1) és (2) bekezdésében meghatározott személyeket.
+394/E. § (1) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kommunikációjára 2010. január 1. napja és 2011. június 30. napja között a következő rendelkezéseket kell alkalmazni:
 
-(7) E fejezet alkalmazásában a belföldi gazdálkodó szervezet képviselője a jogi képviselő. Ha a belföldi gazdálkodó szervezet nem jogi képviselővel jár el, a képviselő a törvényes vagy a szervezeti képviselő, egyéni vállalkozó esetében képviselőnek kell tekinteni magát az egyéni vállalkozót.
+- a) A bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére elektronikus úton is kézbesíttetheti;
+- b) Az elektronikus úton megkeresett másik bíróság, közigazgatási szerv vagy hatóság a megkereső bíróságnak elektronikus úton válaszol a megkeresésre.
 
-(8) Ha a belföldi gazdálkodó szervezet képviselőjének képviseleti joga megszűnik, a belföldi gazdálkodó szervezet új képviselője az első beadványa benyújtásával egyidejűleg igazolja képviseleti jogosultságát.
+(2) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kommunikációjára 2011. június 30. napját követően a bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére kizárólag elektronikus úton kézbesíttetheti. Az elektronikus kézbesíttetés alóli kivételt jelenti, ha a bíróság által kézbesíttetni rendelt okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás.]
 
-(9) A fél, aki egyébként saját személyében elektronikus útra nem köteles a jogi képviselet visszavonására irányuló nyilatkozatát elektronikusan és papír alapon is bejelentheti. Ha a fél a jogi képviselet visszavonását elektronikus úton jelenti be, úgy kell tekinteni, hogy a fél a 394/B. § (1) bekezdése szerinti elektronikus kapcsolattartást vállalja, akkor is, ha a továbbiakban nem kíván jogi képviselővel eljárni.
+## HETEDIK RÉSZ — VEGYES RENDELKEZÉSEK
 
-(10) A jogi képviselővel eljáró, de egyébként saját személyében elektronikus útra nem köteles fél a jogi képviselet visszavonására irányuló nyilatkozatát papír alapon is benyújthatja. A jogi képviselet visszavonásával egyidejűleg a fél nyilatkozik arról, hogy a nyilatkozat benyújtását követően jogi képviselő igénybevételével vagy jogi képviselő nélkül jár el. Ha a fél a jogi képviselet visszavonását követően jogi képviselő igénybevételével jár el, a jogi képviselet visszavonásával egyidejűleg a fél a nyilatkozat benyújtását követően eljáró új jogi képviselő meghatalmazását csatolja. Az új jogi képviselő elektronikus elérhetőségének biztosítása érdekében – a fél nyilatkozatának a bírósághoz érkezését követő tizenöt napon belül – köteles a bírósággal a kapcsolatot elektronikus úton felvenni, amelynek során digitalizált meghatalmazását csatolja. A kapcsolatfelvétel elmulasztása esetén a bíróság az új jogi képviselőt pénzbírsággal sújtja.
-
-(11) A bíróság a keresetlevelet az alperesnek papír alapon kézbesíti. A keresetlevél kézbesítésével egyidejűleg a bíróság felhívja az alperest arra, hogy ha elektronikus útra kötelezett, beadványait, okirati bizonyítékait kizárólag elektronikus úton nyújthatja be, és tájékoztatja a nem elektronikus úton történő benyújtás jogkövetkezményeiről. Az 58. § (1) bekezdésében szabályozott esetben a fenti kötelezettségről való tájékoztatás a perbehívót terheli a perbehívott irányába.
-
-(12) Az eredetileg papír alapú okirati bizonyítékok elektronikus benyújtása alól kivételt jelent, ha a bizonyítási eljárásban az okirat papír alapú bemutatása, megtekintése szükséges. Erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége vagy sajátos alakja miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás. A papír alapú benyújtást a bíróság hivatalból és a fél indítványára is elrendelheti.
-
-### Elektronikus kapcsolattartás a szakértővel
-
-394/D. § (1) E § rendelkezéseit 2015. június 30-ig csak a törvényszékek első fokú hatáskörébe tartozó, 2013. január 1. napját követően indult polgári perekben kell alkalmazni. A § rendelkezéseit 2015. július 1. napjától az ezen időpont után indult, a járásbíróságok előtti polgári perekben is alkalmazni kell.
-
-(2) Ha a szakértő az igazságügyi szakértői névjegyzékbe bejelentette, hogy az elektronikus kapcsolattartást vállalja, erre szolgáló elérhetőségét az Országos Bírósági Hivatal részére meg kell küldenie, és arról is értesítenie kell az Országos Bírósági Hivatalt, hogy a továbbiakban nem vállalja az elektronikus kapcsolattartást.
-
-(2a) Az igazságügyi szakértői névjegyzékben nem szereplő, szakértői tevékenységre külön jogszabályban feljogosított állami szerv, intézmény vagy szervezet az elektronikus kapcsolattartást vállalhatja az erre szolgáló elérhetőségének az Országos Bírósági Hivatal részére történő megküldésével. Ha a névjegyzékben nem szereplő, szakértői tevékenységre külön jogszabályban feljogosított állami szerv, intézmény, szervezet az elektronikus kapcsolattartást vállalja, elektronikus kapcsolattartása során az e fejezet szakértőkre vonatkozó rendelkezéseit kell alkalmazni.
-
-(3) Ha a szakértő az elektronikus kapcsolattartást vállalta, a polgári perben a beadványokat, ide értve a szakvéleményt, az előzetes munkatervet és a díjjegyzéket is, – a (4) bekezdésben foglalt kivétellel – elektronikusan küldi meg a bíróság részére. A szakértőnek, ha az elektronikus kapcsolattartást vállalta és ennek technikai lehetőségei adottak, a szakvélemény részévé tett mellékleteket digitalizálnia kell. A szakértő ebben az esetben nem kötelezhető arra, hogy a bírósághoz benyújtott beadványt a felek és más perbeli személyek számára papír alapon megküldje.
-
-(4) A bíróság – kivételes jelleggel – indokolt kérelemre elektronikus kapcsolattartás esetén is engedélyt adhat a szakértőnek a szakvélemény (vagy annak egy részének) papír alapú benyújtására.
-
-(5) A bíróság, ha a perben mindkét fél elektronikus kapcsolattartással jár el – a (6) bekezdésben foglalt kivétellel –, valamennyi bírósági iratot elektronikusan kézbesít a (2) bekezdés szerint eljáró szakértőnek. Ha a perben mindkét fél vagy az egyik fél papír alapú kapcsolattartással jár el, a bíróság papír alapon és elektronikus úton is kézbesíthet a szakértő részére.
-
-(6) A bíróság papír alapon vagy adathordozón bocsátja rendelkezésre a szakértő részére a bírósági irat mellékletét, ha annak nagy mennyisége miatt vagy az adathordozó jellegéből adódóan a digitalizálás aránytalan nehézséggel járna vagy lehetetlen, valamint ha a papír alapú okirat valódisága vitás. Ha a bíróság által elektronikus úton megküldött bírósági irathoz e bekezdés szerinti melléklet kapcsolódik, a határidő számításának alapja a melléklet kézhezvételének időpontja.
-
-(7) A bíróság felhívhatja a papír alapú kapcsolattartással eljáró szakértőt arra, hogy a szakvéleményt adathordozón is benyújtsa, ha azt elektronikus kapcsolattartással eljáró fél részére kell kézbesítenie. A szakértő felel azért, hogy a papír alapú szakvélemény tartalma megegyezik az adathordozón benyújtott dokumentum tartalmával. Ha a papír alapú kapcsolattartással eljáró szakértőt a bíróság hívja fel a szakvélemény adathordozón történő benyújtására, úgy a 394/G. § (7) bekezdése nem alkalmazandó.
-
-### A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kapcsolattartása
-
-394/E. § (1) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kapcsolattartására 2011. január 1. napja és 2015. december 31. napja között a következő rendelkezéseket kell alkalmazni:
-
-- a) a bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére elektronikus úton is kézbesíttetheti,
-- b) az elektronikus úton megkeresett másik bíróság, közigazgatási szerv vagy hatóság a megkereső bíróságnak elektronikus úton válaszolhat a megkeresésre.
-
-(2) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kapcsolattartása során 2016. január 1. napjától úgy kell eljárni, hogy a bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére kizárólag elektronikus úton kézbesíttetheti és a másik bíróság, a közigazgatási szerv és más hatóság is elektronikusan kézbesít az azonosítását biztosító és az űrlap benyújtás támogatási szolgáltatás igénybevételével. Az elektronikus kézbesíttetés alóli kivételt jelenti, ha a bíróság által kézbesíttetni rendelt okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás.
-
-### Az elektronikus kapcsolattartás szabályai
-
-394/F. § (1) A bíróság az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) és a végrehajtására kiadott kormányrendelet szerinti szabályozott vagy központi elektronikus ügyintézési szolgáltatásokat nyújthatja az ott meghatározott szabályok szerint, valamint az E-ügyintézési tv. és a végrehajtására kiadott kormányrendelet szerinti szabályozott és központi elektronikus ügyintézési szolgáltatásokat veheti igénybe az ott meghatározott, az Elektronikus Ügyintézési Felügyelet által nyilvántartásba vett szolgáltatótól.
-
-(2) Az elektronikus kapcsolattartás tekintetében 2017. december 31-ig az E-ügyintézési tv. 12., 20., és 57. §-át, a 101–103. §-át, valamint a VII., VIII. és XIV. Fejezetét kell alkalmazni.
-
-394/G. § (1) Ha a polgári perben a kapcsolattartás elektronikus úton történik (321/A. §, 340/B. §, 341/J. §, 394/B–394/E. §), úgy arra a (2)–(10) bekezdésben és a 394/H–394/M. §-ban foglalt szabályokat is alkalmazni kell.
-
-(2) Az Országos Bírósági Hivatal az erre szolgáló informatikai rendszer (a továbbiakban: az Országos Bírósági Hivatal rendszere) alkalmazásával biztosítja, hogy a bírósággal kézbesítési szolgáltatást nyújtó rendszer (a továbbiakban: kézbesítési rendszer) útján folyamatosan lehessen kapcsolatot tartani, és a bíróság, valamint
-
-- a) ha az elektronikus kapcsolattartás kötelező, a jogi képviselő, a belföldi gazdálkodó szervezet, a közigazgatási szerv, az ügyész, továbbá a jegyző,
-- b) ha az elektronikus kapcsolattartás választható és azt a fél, annak képviselője vagy a szakértő választja, a fél vagy képviselője, valamint a szakértő
-
-[az a) és b) pont a továbbiakban együtt: elektronikus úton kapcsolatot tartó] közötti kapcsolattartás biztosítása céljából az Országos Bírósági Hivatal és a bíróság jogosult a hozzá érkezett adatok kezelésére.
-
-(3) A bírósági iratot a bíróság az Országos Bírósági Hivatalon keresztül, a kézbesítési rendszer útján kézbesíti az elektronikus úton kapcsolatot tartó részére.
-
-(4) A bíróságnak a kézbesítési rendszer útján megküldött bírósági iratot a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU rendelet szerinti elektronikus bélyegzővel kell ellátnia. A bíróság által készített, elektronikus bélyegzővel ellátott irat közokirat.
-
-(5) A bíróság részére a beadványt és mellékletét a kézbesítési rendszer alkalmazásával az Országos Bírósági Hivatal útján kell benyújtani. Az elektronikus úton kapcsolatot tartónak a beadványt és mellékletét minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással vagy bélyegzővel ellátva, vagy az azonosításra visszavezetett dokumentumhitelesítés szolgáltatás útján hitelesítve kell a kézbesítési rendszer útján megküldenie a bíróság részére. Az elektronikus úton kapcsolatot tartó beadványát a bíróság által közzétett titkosító kulccsal titkosítva küldheti meg a bíróság részére. Az elektronikus úton kapcsolatot tartó beadványa részeként a bíróság részére megküldheti titkosító kulcsát, ebben az esetben a bíróság a bírósági iratot az elektronikus úton kapcsolatot tartó titkosító kulcsával titkosítva kézbesíti az elektronikus úton kapcsolatot tartó részére.
-
-(6) Az elektronikus úton kapcsolatot tartónak a beadványt – ha a beadvány előterjesztésére az Országos Bírósági Hivatal elnöke űrlapot rendszeresít – űrlapon kell előterjesztenie. Ha a beadvány vagy a melléklete előterjesztésére űrlap nem kerül rendszeresítésre, az elektronikus úton kapcsolatot tartónak a beadványt és mellékletét az Országos Bírósági Hivatal elnöke által elfogadott fájlformátumok valamelyikén kell benyújtania. Az Országos Bírósági Hivatal elnöke a honlapon közzéteszi az elfogadott fájlformátumokat.
-
-(7) Az Országos Bírósági Hivatal elnöke a beadvány adathordozón történő benyújtására űrlapot rendszeresít. Az elektronikus úton kapcsolatot tartó az űrlapon köteles megjelölni a felek és képviselőik adatait, a per tárgyát, valamint a benyújtandó adathordozó formátumát és darabszámát. Az adathordozót legkésőbb az űrlap bírósághoz érkezéséről a 394/H. § (2) bekezdése alapján kapott befogadás-visszaigazolásnak az elektronikus úton kapcsolatot tartóhoz érkezését követő három munkanapon belül kell benyújtani a bíróság részére személyesen vagy postai úton. A fél vagy képviselője köteles az adathordozón minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírását vagy elektronikus bélyegzőjét elhelyezni vagy az azon szereplő dokumentumokat azonosításra visszavezetett dokumentumhitelesítés szolgáltatás igénybevételével hitelesíteni. Az elektronikus úton kapcsolatot tartó az adathordozón elhelyezett fájlban köteles hivatkozni a beadvány kézbesítési rendszer útján kapott érkeztetési számára. Az adathordozó beérkezéséről a bíróság a kézbesítési rendszer útján automatikusan értesítést küld az elektronikus úton kapcsolatot tartónak. Az űrlap bírósághoz érkezéséről kapott értesítésben megjelölt időpontban a beadványt a bírósághoz megérkezettnek kell tekinteni. Ha az adathordozó benyújtására a fentiek megsértésével kerül sor, az adathordozón megtett jognyilatkozat vagy teljesített eljárási cselekmény hatálytalan.
-
-(8) Az Országos Bírósági Hivatal az űrlapokat a honlapon közzéteszi. A honlapon fel kell tüntetni az űrlapok közzétételének időpontját. A közzététel időpontjától az űrlap alkalmazása kötelező.
-
-(9) Ha az űrlap módosítására kerül sor, az Országos Bírósági Hivatal e tényről a honlapon a módosított űrlap közzététele előtt harminc nappal tájékoztatást ad. Az Országos Bírósági Hivatal a módosított űrlap közzétételét követően a honlapon tizennégy napon keresztül jelzi annak tényét, hogy az űrlap megváltozott. A honlapot el kell látni a nem rendszeresített űrlapok előterjesztésének jogkövetkezményeire, valamint az űrlap kitöltésének módjára vonatkozó tájékoztatással. Ha az űrlap nem felel meg a jogszabályoknak, az Országos Bírósági Hivatal az űrlapot haladéktalanul módosítja vagy új űrlapot rendszeresít. A fél a módosított űrlap közzétételét követően a beadványát lejárt űrlapon nem nyújthatja be. Az Országos Bírósági Hivatal az ilyen beadványt nem fogadja be, erről a felet automatikus hibaüzenettel értesíti. A lejárt űrlapon benyújtott kérelmet be nem nyújtottnak kell tekinteni.
-
-(10) A törvény, illetve a bíróság által meghatározott határidőbe nem számít bele az a nap, amely során legalább négy órán át nem üzemelt a kézbesítési rendszer vagy az Országos Bírósági Hivatal rendszere.
-
-394/H. § (1) Elektronikus kapcsolattartás esetén a kézbesítésre e § rendelkezéseit kell alkalmazni.
-
-(2) A kézbesítési rendszer útján az elektronikus úton kapcsolatot tartó beadványa informatikai szempontból ellenőrzésre kerül. Ha a beadvány nem felel meg az informatikai követelményeknek, az elektronikus úton kapcsolatot tartó erről a benyújtási folyamat részeként közvetlenül értesítést kap. Ha az elektronikus úton kapcsolatot tartó beadványa megfelel az informatikai követelményeknek, erről az elektronikus úton kapcsolatot tartó a kézbesítési rendszer útján értesítést (a továbbiakban: befogadás-visszaigazolás) kap. A befogadás-visszaigazolás a következő adatokat tartalmazza:
-
-- a) a feladó neve,
-- b) a beadvány kézbesítési rendszer útján kapott érkeztetési száma,
-- c) a befogadás időpontja és
-- d) a beadvány azonosítására alkalmas információ.
-
-(3) A befogadás-visszaigazolásban megjelölt időpontban a beadványt a bírósághoz megérkezettnek kell tekinteni.
-
-(4) A bíróság a hozzá érkezett beadványról az elektronikus úton kapcsolatot tartó részére – automatizáltan – a kézbesítési rendszer útján érkeztetési igazolást küld, amely tartalmazza:
-
-- a) a beadvány kézbesítési rendszer útján kapott érkeztetési számát,
-- b) a beadvány fél általi megnevezését,
-- c) a beadvány érkeztetésének időpontját – nap, óra, perc pontossággal meghatározva – és a beadvány bírósági érkeztetési azonosító számát,
-- d) a beadványt érkeztető bíróság elnevezését,
-- e) azt a figyelmeztetést, hogy az értesítés nem igazolja a beadvány lajstromozását,
-- f) azt a tájékoztatást, hogy az illetéket hogyan kell megfizetni,
-- g) – ha a beadványnak másik bíróságon előzménye van és a beadvány adatai alapján megállapítható, hogy abban a bíróság tévesen került megnevezésre, azonban a beadvány egyéb adataiból megállapítható, hogy az elektronikus úton kapcsolatot tartó a beadványt mely bírósághoz kívánta benyújtani – az arról való tájékoztatást, hogy az ügyben eljáró bíróság mikor érkeztette a beadványt, továbbá az új érkeztetési azonosítót.
-
-(5) A beadvány elektronikus úton való benyújtása esetén az illetéket jogszabályban foglalt módon kell megfizetni, a 95. § (3) bekezdése és a 124. § (2) bekezdés c) pontja alkalmazásának pedig a beadvány érkeztetését követő három munkanapon belül helye nincs.
-
-(6) Az elektronikus úton kapcsolatot tartó a bírósági irat kézbesítéséről, annak az elektronikus kézbesítési tárhelyén történő elhelyezéséről a kézbesítési rendszer útján az általa megadott elektronikus levélcímére – az érkezést követően haladéktalanul, majd három nap elteltével ismételten – értesítést kap.
-
-(7) Az elektronikus úton kapcsolatot tartó az iratot az iratra mutató internetes hivatkozás megnyitásával veheti át. Az internetes hivatkozás megnyitásával elektronikus tértivevény jön létre, amely automatikusan megküldésre kerül a bíróság részére; az elektronikus tértivevény igazolja, hogy az iratot átvették. Az internetes hivatkozás megnyitását megelőzően a kézbesítési rendszer útján az elektronikus úton kapcsolatot tartó számára megismerhetővé kell tenni legalább a bíróság és a felek nevét, az ügy tárgyát, a bírósági irat érkezésének időpontját, és az ügy számát.
-
-(8) Ha a kézbesítési rendszer a bíróság részére azt igazolja vissza, hogy a bíróság által megküldött bírósági iratot az elektronikus úton kapcsolatot tartó kétszeri értesítése ellenére nem vette át, a második értesítésigazolásban feltüntetett időpontot követő ötödik munkanapon a bírósági iratot kézbesítettnek kell tekinteni (kézbesítési vélelem). Ha a kézbesítési vélelem beállta megállapításának van helye, a bíróság és az elektronikus úton kapcsolatot tartó a kézbesítési rendszer útján automatikus tájékoztatást kap.
-
-(8a) A (8) bekezdésben szabályozott kézbesítési vélelem megdöntésére irányuló kérelem a 99/A. § (1) bekezdésében meghatározott határidőkön belül arra hivatkozással terjeszthető elő, hogy a kérelmező a kézbesítési tárhelyhez való kizárólagos hozzáférési jogosultságát önhibáján kívüli okból nem tudta gyakorolni.
-
-(9) Ha az iratot azért nem lehetett kézbesíteni, mert az elektronikus úton kapcsolatot tartó a kézbesítési rendszer azon szolgáltatását nem hozta létre vagy megszüntette, melyen keresztül a részére a bírósági iratok kézbesítésre kerülhetnek, az elektronikus úton kapcsolatot tartót a bíróság pénzbírsággal (120. §) sújtja és a bírósági iratot papír alapon kézbesíti.
-
-(10) A kézbesítésre a 99. § (5) bekezdését nem lehet alkalmazni.
-
-(11)
-
-394/I. § (1) Ha a polgári perben a kapcsolattartás valamely fél részéről elektronikus úton történik, és az elektronikus úton kapcsolatot tartó beadványát nem elektronikus úton terjeszti elő, amennyiben e törvény másként nem rendelkezik,
-
-- a) a bíróság a keresetlevelet idézés kibocsátása nélkül elutasítja,
-- b) az egyéb beadványban foglalt nyilatkozat hatálytalan és úgy kell tekinteni, hogy az elektronikus úton kapcsolatot tartó nyilatkozatot egyáltalán nem tesz.
-
-(2) Ha a perben a kapcsolattartás elektronikus úton történik és az elektronikus úton kapcsolatot tartó a beadványát nem elektronikus úton terjeszti elő, az (1) bekezdés b) pontjában foglalt jogkövetkezményen felül a bíróság az elektronikus úton kapcsolatot tartót pénzbírsággal sújtja és számára a bírósági iratot papír alapon kézbesíti.
-
-394/J. § (1) Az elektronikus úton kapcsolatot tartó köteles gondoskodni a keresetlevél és a beadvány mellékleteit képező papír alapú okiratok digitalizálásáról és a papír alapú okiratok megőrzéséről.
-
-(2) A jogi képviselő elektronikus kapcsolattartás esetén a keresetlevél vagy az első, a bírósághoz benyújtott beadvány mellékleteként csatolja az általa elektronikus formába átalakított meghatalmazást. A bíróság az eredeti meghatalmazás bemutatására hívja fel a jogi képviselőt az egyezőség megállapítása érdekében, ha e tekintetben alapos kétsége merül fel.
-
-(3) E § alkalmazásában az okirat akkor tekinthető elektronikus okirati formába átalakítottnak, ha az okirat elektronikus másolatának képe megegyezik a papír alapú okiratéval.
-
-(4) Azt, hogy a keresetlevél és a beadvány elektronikus benyújtására szolgáló, e törvényben és külön jogszabályban meghatározott módokat és technikai eszközöket jogszerűen alkalmazzák, vélelmezni kell.
-
-(5) Ha a perben a kapcsolattartás elektronikus úton történik, a határidő elmulasztásának következményeit nem lehet alkalmazni, ha a bírósághoz intézett beadványt legkésőbb a határidő utolsó napján elektronikus úton az informatikai követelményeknek megfelelően benyújtották. A határidő számítása szempontjából benyújtottnak az a beadvány tekintendő, amelyről a bíróság informatikai rendszere befogadás-visszaigazolást küldött, és adathordozón történő benyújtás esetén a 394/G. § (7) bekezdése szerinti határidő is betartásra került.
-
-394/K. § A papír alapú okiratok – jogszabályban meghatározott módon történő – digitalizálására a bíróságnak öt munkanap áll rendelkezésére. Az iratok digitalizálásához szükséges időt – legfeljebb azonban öt munkanapot – a határidő számítása szempontjából figyelmen kívül kell hagyni.
-
-394/L. § Ha a képviselet ellátására jogszabály szerint több személy is jogosult – és az elektronikus kapcsolattartás nem a belföldi gazdálkodó szervezet, illetve közigazgatási szerv azonosítását biztosító és az űrlap benyújtás támogatási szolgáltatás igénybevételével történik – a keresetlevélhez, illetve az első elektronikus úton benyújtott beadványhoz csatolni kell valamennyi személy közös nyilatkozatát arról, hogy
-
-- a) hozzájárul, hogy a keresetlevelet, illetve a beadványt a benyújtó személy teljes körű azonosítását biztosító és az űrlap benyújtás támogatási szolgáltatás igénybevételével nyújtják be,
-- b) tudomásul veszi, hogy szabályszerű kézbesítésnek minősül a bírósági iratnak a benyújtó személy kézbesítési tárhelyére történő kézbesítése.
-
-394/M. § (1) A keresetlevelet, a beadványt, valamint az okirati bizonyítékot a kézbesítési rendszer által befogadható méretben kell benyújtani. A befogadható méretre vonatkozó adatokat az Országos Bírósági Hivatal a honlapon közzéteszi.
-
-(2) Ha a keresetlevél, az egyéb beadvány vagy az okirati bizonyíték, illetve ezek együttes mérete a kézbesítési rendszer által befogadható méretet meghaladja, a beadvány adathordozón is benyújtható. Az adathordozót eggyel több példányban kell benyújtani, mint ahány fél a perben érdekelve van. Az adathordozót a bíróság – az adathordozón szereplő fájlok nyomtatása nélkül – postai úton kézbesíti a felek és képviselőik részére. A kézbesítési rendszer által befogadható mérethatárt az Országos Bírósági Hivatal a honlapon közzéteszi. A befogadható mérethatárt el nem érő nagyságú, adathordozón benyújtott jognyilatkozat vagy teljesített eljárási cselekmény hatálytalan.
-
-(3)
-
-### XXVIII/A. Fejezet — A ZÁRTCÉLÚ TÁVKÖZLŐ HÁLÓZAT IGÉNYBEVÉTELÉNEK SZABÁLYAI
-
-394/N. § (1) A bíróság a fél indítványára vagy hivatalból végzéssel elrendelheti, hogy a fél és más perbeli személy, valamint a szakértő meghallgatására, illetve a tanú kihallgatására zártcélú távközlő hálózat útján kerüljön sor, ha célszerűnek látszik – különösen, ha az az eljárás lefolytatását meggyorsítja –, vagy a meghallgatás, illetve a kihallgatás (e fejezetben a továbbiakban együtt: meghallgatás) a tárgyalás, illetve a személyes meghallgatás kitűzött helyszínén jelentős nehézséggel vagy aránytalanul nagy költségtöbblettel járna.
-
-(2) A zártcélú távközlő hálózat útján történő meghallgatás során a tárgyalás, illetve a személyes meghallgatás kitűzött helyszíne és a zártcélú távközlő hálózat útján történő meghallgatás helyszíne között az összeköttetés közvetlenségét a mozgóképet és a hangot egyidejűleg továbbító készülék biztosítja. A zártcélú távközlő hálózat útján történő meghallgatásra sor kerülhet a tárgyalás, illetve a személyes meghallgatás kitűzött helyszíne és több egyéb zártcélú távközlő hálózat útján történő meghallgatási helyszín igénybevételével is, ha azok közvetlen összeköttetése biztosítható. A zártcélú távközlő hálózat útján történő meghallgatáshoz a helyiséget bíróság vagy egyéb – a zártcélú távközlő hálózat működésének biztosításához szükséges feltételekkel rendelkező – szerv bocsátja rendelkezésre.
-
-(3) A zártcélú távközlő hálózat útján történő meghallgatás iránti kérelem tárgyában hozott végzéssel szemben nincs helye fellebbezésnek. A zártcélú távközlő hálózat útján történő meghallgatást elrendelő végzést a bíróság a tárgyalásra, illetve a személyes meghallgatásra szóló idézéssel együtt kézbesíti azoknak, akik a tárgyalásra, illetve a személyes meghallgatásra megidézésre kerülnek. A zártcélú távközlő hálózat útján történő meghallgatást elrendelő végzést a bíróság haladéktalanul megküldi a zártcélú távközlő hálózat útján történő meghallgatáshoz elkülönített helyiséget biztosító bíróságnak, illetve egyéb szervnek.
-
-394/O. § (1) A zártcélú távközlő hálózat útján meghallgatásra kerülő személynek – a bíróság vagy az egyéb szerv épületében – az erre a célra kialakított helyiségben kell megjelennie és a meghallgatás ideje alatt jelen lennie.
-
-(2) A zártcélú távközlő hálózat útján történő meghallgatás esetén a tárgyalás nyilvánosságára vonatkozó rendelkezéseket azzal kell alkalmazni, hogy a nyilvánosságot a tárgyalás kitűzött helyszínén kell biztosítani. A zártcélú távközlő hálózat útján történő meghallgatásra kialakított helyiségben
-
-- a) a meghallgatásra kerülő személy,
-- b) az, akinek a jelenlétét a meghallgatott személyéhez kapcsolódóan a tárgyaláson, illetve a személyes meghallgatáson a törvény lehetővé, illetve kötelezővé teszi (különösen a képviselő, az ügygondnok, a törvényes képviselő, a tolmács),
-- c) a zártcélú távközlő hálózat útján történő meghallgatást biztosító technikai eszközök működését biztosító, kezelő személy
-
-lehet jelen.
-
-(3) A zártcélú távközlő hálózat útján meghallgatásra kerülő személy személyazonosságát a tárgyalást vezető elnök (bíró), illetve a személyes meghallgatást lefolytató elnök (bíró) – ha a személyes meghallgatást bírósági titkár folytatja le, úgy a bírósági titkár – állapítja meg. Az elnök (bíró), illetve bírósági titkár állapítja meg azt is, hogy a zártcélú távközlő hálózat útján történő meghallgatásra kialakított helyiségben csak olyan személyek tartózkodnak, akiknek a jelenlétét a törvény lehetővé teszi, továbbá, hogy a meghallgatott személy nincs korlátozva eljárási jogainak gyakorlásában.
-
-(4) A zártcélú távközlő hálózat útján meghallgatásra kerülő személy személyazonosságának igazolása az általa
-
-- a) a személyazonosságának és lakcímének igazolása érdekében rendelkezésre bocsátott adatai alapján és
-- b) a személyazonosságának igazolására alkalmas hatósági igazolványa vagy tartózkodásra jogosító okmánya képi adatátvitellel történő bemutatásával
-
-történik.
-
-(5) A bíróság a zártcélú távközlő hálózat útján meghallgatásra kerülő személy által
-
-- a) a személyazonosságának és lakcímének igazolása érdekében a rendelkezésre bocsátott adatai nyilvántartási adatokkal való egyezőségéről, és
-- b) a személyazonosságának igazolására alkalmas, bemutatott hatósági igazolványa és tartózkodásra jogosító okmánya nyilvántartási adatokkal való egyezőségéről és érvényességéről
-
-elektronikus úton, vagy az adatbázisok közvetlen elérésével is meggyőződik.
-
-(6) A meghallgatás megkezdésekor az elnök (bíró), illetve ha a személyes meghallgatást bírósági titkár folytatja le, a bírósági titkár tájékoztatja a zártcélú távközlő hálózat útján meghallgatott személyt, hogy a meghallgatására zártcélú távközlő hálózat útján kerül sor.
-
-(7) A zártcélú távközlő hálózat útján történő meghallgatás során biztosítani kell, hogy a tárgyalás, illetve a személyes meghallgatás kitűzött helyszínén jelen lévő résztvevők láthassák a zártcélú távközlő hálózat útján történő meghallgatásra kialakított helyiségben a meghallgatott személyt, valamint a meghallgatott személlyel egyidejűleg ott-tartózkodó valamennyi személyt. Biztosítani kell továbbá, hogy a zártcélú távközlő hálózat útján történő meghallgatásra kialakított helyiségnek minden pontja látható legyen a tárgyalás, illetve a személyes meghallgatás kitűzött helyszínén jelenlévő elnök (bíró), illetve bírósági titkár számára. A zártcélú távközlő hálózat útján történő meghallgatásra kialakított helyiségben tartózkodó meghallgatott személy részére is biztosítani kell, hogy követhesse a tárgyalás menetét.
-
-394/P. § A zártcélú távközlő hálózat útján történő meghallgatás esetén a tárgyalásról, illetve személyes meghallgatásról készült jegyzőkönyvnek ki kell terjednie a zártcélú távközlő hálózat útján történt meghallgatás lefolytatásának körülményei rögzítésére, feltüntetve a zártcélú távközlő hálózat útján történő meghallgatásra kialakított helyiségben jelen lévő személyeket.
-
-## NYOLCADIK RÉSZ — VEGYES RENDELKEZÉSEK
-
-### XXIX. Fejezet — A törvény hatálya, felhatalmazások
+### XXVIII. Fejezet — A törvény hatálya, felhatalmazások
 
 395. § (1) Ez a törvény nem érinti a diplomáciai és egyéb mentesség hatályát, valamint a diplomáciai és egyéb mentességgel kapcsolatban fennálló különös eljárási szabályokat.
 
 (2) A peres és nem peres eljárás során felvett és nyilvántartott adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
 
-(3) Felhatalmazást kap a Kormány, hogy
-
-- a) a bírósági ügyintéző által peres és nemperes eljárásban ellátható feladatokat;
-- b) a bíróságokkal történő elektronikus kapcsolattartás során alkalmazandó szabályozott elektronikus ügyintézési szolgáltatásokra vonatkozó részletes szabályokat
-
-rendeletben állapítsa meg.
+(3) Felhatalmazást kap a Kormány, hogy a bírósági ügyintéző által peres és nemperes eljárásban ellátható feladatokat rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
-- a) a bírósági ügyvitel rendjét az Országos Bírósági Hivatal elnöke véleményének kikérésével;
+- a) a bírósági ügyvitel rendjét az Országos Igazságszolgáltatási Tanáccsal egyetértésben;
 - b) az ügygondnok részére járó díjazást az adópolitikáért felelős miniszterrel egyetértésben;
 - c) a bírósági letétkezelés szabályait;
-- d)
+- d) a gondnokság alá helyezettek névjegyzékének adatairól vezetett számítógépes nyilvántartás igénybevételének részletes szabályait, illetve a költségtérítés összegét;
 - e) azon perek körét, amelyekben a felet tárgyi költségfeljegyzési jog illeti meg, és e perekben azokat a költségeket, amelyeket a fél a tárgyi költségfeljegyzési jog ellenére is köteles előlegezni, illetve viselni, az adópolitikáért felelős miniszterrel egyetértésben;
 - f) a költségmentesség, a tárgyi költségfeljegyzési jog és az illetékfeljegyzési jog előfeltételeire, engedélyezésére, megvonására, valamint a költségek előlegezésére, illetve az előlegezett költségek megfizetésére és behajtására vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben;
 - g) a tanú által a peres és nemperes eljárásban felszámítható költségekre vonatkozó részletes szabályokat az államháztartásért felelős miniszterrel egyetértésben;
@@ -4418,103 +3572,23 @@ rendeletben állapítsa meg.
 - i) a 185. § szerinti elővezetés végrehajtásával felmerült költség mértékét, valamint megtérítésének részletes szabályait az államháztartásért felelős miniszterrel egyetértésben;
 - j) a munkavállalói költségkedvezmény vonatkozásában a 359/A. §-ban meghatározott mértéket, valamint a költségkedvezmény érvényesítésének eljárási szabályait az államháztartásért felelős miniszterrel, valamint a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg,
 - j) a polgári peres eljárás elektronikus beadványai formanyomtatványának tartalmát – az informatikáért felelős miniszterrel egyetértésben – rendeletben szabályozza,
-- k) a polgári eljárásban a tárgyalás (meghallgatás, kihallgatás) zártcélú távközlő hálózat útján történő megtartásának részletes szabályait – az informatikáért felelős miniszterrel egyetértésben és az Országos Bírósági Hivatal elnöke véleményének kikérésével – rendeletben határozza meg,
-- l) a polgári peres eljárás elektronikus beadványai űrlapjának adatait, tartalmi és formai kellékeit, valamint az űrlaphoz csatolható mellékleteket rendeletben szabályozza,
-- m) az ügyész polgári eljárásbeli részvételével kapcsolatos költség előlegezésének és viselésének részletes szabályait az államháztartásért és az állami vagyon felügyeletéért felelős miniszterrel egyetértésben rendeletben szabályozza,
-- n) az elektronikus bírósági iratkezelés részletes szabályait rendeletben állapítsa meg.
 
 (5)
 
 (6)
 
-396. § E törvény alkalmazásában gazdálkodó szervezet a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi társulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, továbbá az egyéni vállalkozó. Az állam, a helyi önkormányzat, a költségvetési szerv, az egyesület, a köztestület, valamint az alapítvány gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataira is a gazdálkodó szervezetre vonatkozó rendelkezéseket kell alkalmazni.
-
-396/A. § E törvény alkalmazásában médiatartalom-szolgáltató a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató.
+396. § E törvény alkalmazásában vállalkozás az olyan – a cégnyilvántartásban nyilvántartott – jogi személy vagy jogi személyiség nélküli jogalany, amely elsődlegesen üzletszerű gazdasági tevékenység folytatása céljából jött létre.
 
 397. § E törvény hatálybalépéséről és a szükséges átmeneti szabályok megállapításáról külön jogszabály rendelkezik.
 
-397/A. § Az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvénnyel megállapított 386/A. § (1) bekezdés c) pontot az egyes törvényeknek a kormányzati ellenőrzéssel összefüggő módosításáról szóló 2012. évi CLXXXIX. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+398. § E törvény 313–323. §-a összeegyeztethető szabályozást tartalmaz az Európai Parlament és a Tanács a kereskedelmi ügyletekhez kapcsolódó fizetési késedelem leküzdéséről szóló 2000/35/EK irányelvének 5. cikkével.
 
-397/B. § (1) A közigazgatási ügyekben 2012. december 31. napjáig a törvényszék mint elsőfokú bíróság által meghozott határozattal szemben előterjesztett fellebbezést 2013. január 1-jét követően a törvényszék egy másik tanácsa mint másodfokú bíróság bírálja el.
+399. § (1) Az Európai Parlamentnek és a Tanácsnak az európai fizetési meghagyásos eljárás létrehozásáról szóló 1896/2006/EK rendeletében (e §-ban: rendelet) meghatározott európai fizetési meghagyás kibocsátására a 22. § (1) bekezdésében és a 23. §-ban meghatározott bíróság rendelkezik hatáskörrel. Ha a rendelet eltérően nem rendelkezik, az európai fizetési meghagyásos eljárásra megfelelően alkalmazni kell a XIX. Fejezet szabályait.
 
-(2) A 2012. december 31-én első fokon folyamatban lévő közigazgatási ügyeket, továbbá azokat az első fokon befejezett ügyeket, amelyekben az elsőfokú bíróság hatáskörébe tartozó további intézkedéseket kell tenni, a törvényszék 2013. január 1. napját követően haladéktalanul megküldi az illetékes közigazgatási és munkaügyi bíróságnak.
+(2) Ha a rendelet szabályaiból más nem következik,
 
-(3) A 2012. december 31-én másodfokon folyamatban lévő közigazgatási ügyeket az ítélőtábla legkésőbb 2013. február 1-jéig megküldi az illetékes törvényszéknek mint másodfokú bíróságnak.
+- a) a rendelet 20. cikke (1) bekezdésének a) pontjában meghatározott felülvizsgálatra e törvénynek a kézbesítési vélelem megdöntésére,
+- b) a rendelet 20. cikke (1) bekezdésének b) pontjában meghatározott felülvizsgálatra e törvénynek a mulasztás igazolására,
+- c) a rendelet 20. cikkének (2) bekezdésében meghatározott felülvizsgálatra e törvénynek a perújítás megengedhetőségének vizsgálatára
 
-(4) Az ügyek (2) és (3) bekezdés szerinti megküldése során a 129. § és a 158. § (2) bekezdés rendelkezéseit nem kell alkalmazni.
-
-397/C. § (1) E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény módosításáról szóló 2013. évi LXIX. törvénnyel megállapított 56. § (3) és (4) bekezdésének, 57. § (1) bekezdésének és 83. § (1) bekezdésének rendelkezéseit a polgári perrendtartásról szóló 1952. évi III. törvény módosításáról szóló 2013. évi LXIX. törvény hatálybalépését követően bejelentett beavatkozásokra kell alkalmazni.
-
-(2) E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény módosításáról szóló 2013. évi LXIX. törvénnyel megállapított 130. § (1) bekezdés g) pontjának, 167. § (7) bekezdésének, 168. § (1b) bekezdésének, 173. § (1a) bekezdésének, 185. § (1b) bekezdésének, 257. § (2) bekezdésének és 271. § (2) bekezdésének rendelkezéseit a polgári perrendtartásról szóló 1952. évi III. törvény módosításáról szóló 2013. évi LXIX. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
-
-397/D. § A Teljesítésigazolási Szakértői Szerv 2013. július 1. és 2013. szeptember 1. napja között kézbesített szakvéleményére alapított perben a keresetlevél 2013. szeptember 15. napjáig akkor is előterjeszthető, ha a szakvélemény kézbesítésétől számított hatvan nap eltelt. E határidő elmulasztása esetén igazolásnak nincs helye, és a pert az általános szabályok szerint kell lefolytatni. A 386/R. § rendelkezéseit ebben az esetben is alkalmazni kell.
-
-397/E. § E törvénynek az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvénnyel megállapított 386/U. §-át a hatálybalépését követően indult ügyekben kell alkalmazni.
-
-397/F. § (1) E törvénynek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel (a továbbiakban e § alkalmazásában: Módosító Törvény) megállapított rendelkezéseit – a (2)–(5) bekezdésben foglalt eltérésekkel – a 2014. március 15. napján folyamatban lévő ügyekben a 2014. március 15. napját követően megkezdett eljárási cselekményekre is alkalmazni kell.
-
-(2) E törvénynek a személyiségi jog, valamint a szerződésen kívül okozott kár érvényesítésére vonatkozó, a Módosító Törvénnyel megállapított rendelkezéseit azokban az ügyekben kell alkalmazni, amelyekben 2014. március 15. napján vagy azt követően kezdődik meg a jogsértés.
-
-(3) E törvénynek
-
-- a) a perbeli cselekvőképességre,
-- b) az apaság vélelmének nemperes eljárásban történő megdöntésére,
-- c) a jegyző birtokvédelmi ügyben hozott határozatának megváltoztatása iránti perre, valamint
-- d) a gazdálkodó szervezet fogalmára
-
-vonatkozó, a Módosító Törvénnyel megállapított rendelkezéseit a 2014. március 15. napját követően indult ügyekben kell alkalmazni.
-
-(4) E törvénynek a Módosító Törvénnyel megállapított 80. § (6) bekezdését, 121/A. § (1) bekezdését, 285. § (5) bekezdését, valamint 394/C. § a) és b) pontját a 2014. március 15. napját követően indult ügyekben kell alkalmazni.
-
-(5) Ha 2014. március 15. napján folyamatban lévő gondnokság alá helyezési per folyamán az alperes előzetes jognyilatkozatot tesz, ennek tényét haladéktalanul be kell jelentenie az eljáró bíróság részére.
-
-397/G. § E törvénynek a közbeszerzésekről szóló 2015. évi CXLIII. törvénnyel megállapított 326. § (7) bekezdését, 326. § (14) bekezdését a hatálybalépését követően, a közbeszerzésekről szóló törvény alapján indult közigazgatási perekre kell alkalmazni. E törvénynek a közbeszerzésekről szóló 2015. évi CXLIII. törvénnyel hatályon kívül helyezett 326. § (12) bekezdés r) pontját a hatályon kívül helyezését megelőzően, a közbeszerzésekről szóló törvény alapján indult közigazgatási perekre alkalmazni kell.
-
-397/H. § (1) E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvénnyel megállapított rendelkezéseit – a (2) bekezdésben foglalt kivétellel – a folyamatban lévő ügyekben is alkalmazni kell.
-
-(2) E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvénnyel megállapított
-
-- a) 23. § (1) bekezdés b) pontját, a polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvény 23. § a) pontjának hatálybalépését követően indult perekben,
-- b) 321/A. §-át a 2016. január 1. napján és az azt követően indult fizetési meghagyásos eljárást követően perré alakult eljárásban,
-- c) 340/B. §-át a 2016. január 1. napján és az azt követően indult közigazgatási eljárás során hozott határozat bírósági felülvizsgálata iránti perekben,
-- d) 341/J. §-át a 2016. január 1. napján és az azt követően indult jegyző előtti birtokvédelmi eljárás során hozott birtokvédelmi határozat megváltoztatása iránti perekben,
-- e) 386/U. §-át a 2016. január 1. napján és az azt követően indult perekben,
-- f) 394/C. §-át a 2016. január 1. napján és az azt követően indult perekben
-
-kell alkalmazni.
-
-397/I. § (1) 2016. június 30. napjáig e törvény azon rendelkezéseit, amelyek kötelező, illetve kizárólagos elektronikus kapcsolattartásról rendelkeznek, akkor kell alkalmazni, ha a fél vagy képviselője, illetve az elektronikus kapcsolattartással egyébként érintett az elektronikus kapcsolattartást választja.
-
-(2) 2016. július 1-jétől a kötelező elektronikus kapcsolattartás tekintetében e törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvénnyel megállapított
-
-- a) 321/A. §-át a 2016. július 1. napján és az azt követően indult fizetési meghagyásos eljárást követően perré alakult eljárásban,
-- b) 340/B. §-át a 2016. július 1. napján és az azt követően indult közigazgatási eljárás során hozott határozat bírósági felülvizsgálata iránti perekben,
-- c) 341/J. §-át a 2016. július 1. napján és az azt követően indult jegyző előtti birtokvédelmi eljárás során hozott birtokvédelmi határozat megváltoztatása iránti perekben,
-- d) 386/U. §-át a 2016. július 1. napján és az azt követően indult perekben,
-- e) 394/C. §-át a 2016. július 1. napján és az azt követően indult perekben
-
-kell alkalmazni.
-
-397/J. § 2016. július 1. napjától a kötelező elektronikus kapcsolattartás tekintetében e törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény módosításáról szóló 2016. évi XL. törvénnyel megállapított
-
-- a) 321/A. § (2)–(3) bekezdését a 2016. július 1. napján és az azt követően indult fizetési meghagyásos eljárást követően perré alakult eljárásban,
-- b) 340/B. § (2) bekezdését a 2016. július 1. napján és az azt követően indult közigazgatási eljárás során hozott határozat bírósági felülvizsgálata iránti perekben,
-- c) 341/J. § (2) bekezdését a 2016. július 1. napján és az azt követően indult jegyző előtti birtokvédelmi eljárás során hozott birtokvédelmi határozat megváltoztatása iránti perekben,
-- d) 386/U. § (1) bekezdését a 2016. július 1. napján és az azt követően indult perekben,
-- e) 394/C. § (2) bekezdését a 2016. július 1. napján és az azt követően indult perekben
-
-kell alkalmazni.
-
-397/K. § A polgári perrendtartásról szóló 1952. évi III. törvény, valamint a nemzeti akkreditálásról szóló 2015. évi CXXIV. törvény módosításáról szóló 2016. évi CXXXIV. törvény (a továbbiakban: Módtv.) hatálybalépését megelőzően indult eljárásokban a 326. § (12) bekezdés Módtv. hatálybalépését megelőző napon hatályos k) pontját alkalmazni kell.
-
-397/L. § (1) E törvénynek a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény és egyes törvények eljárásjogi kérdésekkel összefüggő módosításáról szóló 2016. évi CLVIII. törvénnyel megállapított rendelkezéseit – a (2)–(5) bekezdésben foglalt kivétellel – a 2017. január 1-jén és az azt követően indult ügyekben kell alkalmazni.
-
-(2) Ha a 2017. január 1-jén folyamatban lévő végrehajtás megszüntetése, illetve korlátozása iránti perben a felperes 2017. január 1-jén vagy azt követően terjeszt elő a 369. § a) pontja szerinti kérelmet, e törvénynek a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény és egyes törvények eljárásjogi kérdésekkel összefüggő módosításáról szóló 2016. évi CLVIII. törvénnyel megállapított rendelkezéseit a 2017. január 1-jén folyamatban lévő ügyben is alkalmazni kell.
-
-(3) E törvénynek a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény és egyes törvények eljárásjogi kérdésekkel összefüggő módosításáról szóló 2016. évi CLVIII. törvénnyel megállapított 370/A. § (2a) bekezdését azokban a (2) bekezdés hatálya alá nem tartozó, 2017. január 1-jén folyamatban lévő ügyekben is alkalmazni kell, amelyekben az elsőfokú ítélet meghozatalát megelőző tárgyalás berekesztésére még nem került sor.
-
-(4) Ha 2017. január 1-jén a 369. § a) pontja szerinti, érvénytelenségre alapított végrehajtás megszüntetése, illetve korlátozása iránti per, valamint a végrehajtási záradékkal ellátott okiratba foglalt szerződés vagy végrehajtási záradékkal ellátott okiratba foglalt egyoldalú kötelezettségvállaló nyilatkozat esetén az annak alapjául szolgáló szerződés érvénytelensége tárgyában indított per is folyamatban van, a 369. § a) pontján alapuló perben eljáró bíróság az eljárást felfüggeszti a végrehajtási záradékkal ellátott okiratba foglalt szerződés vagy végrehajtási záradékkal ellátott okiratba foglalt egyoldalú kötelezettségvállaló nyilatkozat esetén az annak alapjául szolgáló szerződés érvénytelensége tárgyában folyamatban lévő per jogerős elbírálásáig.
-
-398. § E törvény 313–323. §-a összeegyeztethető szabályozást tartalmaz az Európai Parlament és a Tanács a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011/7/EU irányelvének 10. cikkével.
-
-399. § E törvény 323. §-a az európai fizetési meghagyásos eljárás létrehozásáról szóló 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet végrehajtását szolgálja.
+vonatkozó rendelkezéseit kell megfelelően alkalmazni.

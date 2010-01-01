@@ -22,7 +22,7 @@ Az Országgyűlés a mezőgazdaságot sújtó elemi károk hatásának enyhíté
 - b) mezőgazdasági termelő: az a természetes személy, jogi személy, jogi személyiség nélküli szervezet 1. aki (amely) a mezőgazdasági tevékenységet, az ahhoz kapcsolódó jog gyakorlását, illetve kötelezettség teljesítését saját nevében és kockázatára végzi, és 2. akit (amelyet) legkésőbb a támogatási kérelmével egyidejűleg az eljárási törvény szerint nyilvántartásba vesznek;
 - c) kis- és középvállalkozás: az EK-Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló, 2008. augusztus 6-i 800/2008/EK bizottsági rendelet I. melléklete szerinti kis- és középvállalkozás;
 - d) gazdálkodó szervezet: a kis- és középvállalkozásnak minősülő jogi személy, vagy jogi személyiséggel nem rendelkező szervezet;
-- e) egyéni vállalkozónak minősülő mezőgazdasági termelő: az egyéni vállalkozóról és az egyéni cégről szóló törvényben ekként meghatározott olyan kis- és középvállalkozásnak minősülő természetes személy, aki az eljárási tv. szerinti Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben az egységes kérelemre vonatkozó jogszabályban meghatározott benyújtási határidő utolsó napján egyéni vállalkozóként szerepel;
+- e) egyéni vállalkozó: az egyéni vállalkozóról szóló törvényben ekként meghatározott természetes személy;
 - f) mezőgazdasági őstermelő: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 18–19. pontja szerinti magánszemély;
 - g) termőföld: közösségi jogi aktusban foglaltak alapján föld használatához kötött támogatás igénybevételére jogosító, jogszabályban meghatározott terület;
 - h) egységes kérelem: a közös agrárpolitika keretébe tartozó közvetlen támogatási rendszer részét képező közösségi jogi aktusban meghatározottak szerinti közvetlen kifizetés iránti kérelem;
@@ -64,11 +64,9 @@ Az Országgyűlés a mezőgazdaságot sújtó elemi károk hatásának enyhíté
 - a) szőlő és gyümölcs ültetvényterület után évenként és hektáronként 2000 forint,
 - b) egyéb termőföldterület után évenként és hektáronként 800 forint.
 
-(2) A kárenyhítési hozzájárulás fizetésére kötelezett mezőgazdasági termelő a kárenyhítési hozzájárulás (1) bekezdés szerint kiszámított összegét átutalással, a befizető azonosítására alkalmas módon, a regisztrációs szám és az adószám vagy az adóazonosító jel megadásával köteles befizetni az agrárkár-enyhítési szerv – a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott – számlájára. A mezőgazdasági termelő az átutalásról úgy köteles gondoskodni, hogy a kárenyhítési hozzájárulás az agrárkár-enyhítési szerv számláján tárgyév június 30-áig jóváírásra kerüljön. Határidőben történő befizetésnek kizárólag az agrárkár-enyhítési szerv számláján tárgyév június 30-áig jóváírt összeg tekinthető.
+(2) A kárenyhítési hozzájárulás fizetésére kötelezett mezőgazdasági termelő a kárenyhítési hozzájárulás (1) bekezdés szerint kiszámított összegét a tárgyév június 30-áig átutalással, a befizető azonosítására alkalmas módon, a regisztrációs szám és az adószám vagy az adóazonosító jel megadásával köteles befizetni az agrárkár-enyhítési szerv – a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott – számlájára. Határidőben történő befizetésnek kizárólag az agrárkár-enyhítési szerv számláján tárgyév június 30-áig jóváírt összeg tekinthető.
 
 (3) A meg nem fizetett kárenyhítési hozzájárulás adók módjára behajtandó köztartozásnak minősül. A kárenyhítési hozzájárulás megfizetésének elmulasztása esetén az eljárási tv. 58–62. §-ában foglaltakat kell alkalmazni.
-
-(4) A kárenyhítési hozzájárulás fizetésére kötelezett mezőgazdasági termelő a kárenyhítési hozzájárulás (1) bekezdés szerint kiszámított összegét 2010-ben a (2) bekezdésben meghatározott módon úgy kell teljesítenie, hogy a kárenyhítési hozzájárulás az agrárkár-enyhítési szerv számláján 2010-ben szeptember 30-áig jóváírásra kerüljön. Határidőben történő befizetésnek kizárólag az agrárkár-enyhítési szerv számláján 2010. szeptember 30-ig jóváírt összeg tekinthető. E rendelkezést akkor kell alkalmazni, ha a kárenyhítési hozzájárulásnak jóváírására 2010. június 30-ig az agrárkár-enyhítési szerv számláján nem került sor.
 
 ### A kárenyhítő juttatás pénzügyi forrásai
 
@@ -89,7 +87,7 @@ Az Országgyűlés a mezőgazdaságot sújtó elemi károk hatásának enyhíté
 9. § (1) A kárenyhítő juttatásra a kárenyhítési hozzájárulás fizetésére kötelezett mezőgazdasági termelő abban az esetben jogosult, amennyiben
 
 - a) a részére megállapított kárenyhítési hozzájárulást határidőre maradéktalanul befizette, és
-- b) a használatában levő termőföldön bekövetkezett jégeső-, belvíz- és fagykárt a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározottak szerint az agrárkár-megállapító szervhez a káresemény bekövetkezésétől számított tizenöt napon belül bejelentette, és
+- b) a használatában levő termőföldön bekövetkezett jégeső-, belvíz- és fagykárt a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározottak szerint az agrárkár-megállapító szervhez a káresemény bekövetkezésétől számított tíz napon belül bejelentette, és
 - c) a használatában lévő termőföldön elemi csapás következett be és kárenyhítő juttatásra vonatkozó kérelme az agrárkár-megállapító szervhez a tárgyév október 20-áig beérkezett, illetve
 - d) az agrárkár-megállapító szerv által felülvizsgált kárenyhítő juttatásra vonatkozó igénye az agrárkár-megállapító szervtől legkésőbb a tárgyév november 10-éig beérkezett az agrárkár-enyhítési szervhez, illetve
 - e) aszály esetén a miniszter az aszályhelyzet fennállásáról közleményt ad ki.
@@ -105,10 +103,6 @@ Az Országgyűlés a mezőgazdaságot sújtó elemi károk hatásának enyhíté
 11. § (1) A kárenyhítési hozzájárulás fizetésére kötelezett mezőgazdasági termelő elemi csapás esetén legfeljebb a hozamérték-csökkenés alapján kiszámított kárenyhítő juttatási igényének az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló, 2006. december 15-i 1857/2006/EK bizottsági rendelet 11. cikk (2) bekezdésében meghatározott 80%-os, kedvezőtlen adottságú területeken 90%-os mértéke szerinti kárenyhítő juttatásra jogosult. Amennyiben a rendelkezésre álló összes kárenyhítési hozzájárulás és költségvetési támogatás együttes összege nem fedezi a tárgyévben maximálisan adható összes kárenyhítő juttatás összegét, úgy a kárenyhítő juttatás mértékét az adott évben valamennyi kárenyhítő juttatást kérelmező termelőnél arányosan csökkenteni kell.
 
 (2) Az agrárkár-enyhítési szerv kárenyhítési kötelezettsége legfeljebb az (1) bekezdés szerinti juttatásnak a biztosító által – a 9. § (4) bekezdése szerinti biztosítási szerződés alapján – nem fedezett részére terjed ki.
-
-(3) A kárenyhítő juttatás iránti kérelemhez kapcsolódó eljárásban hiánypótlásra, illetve az eljárás ügyfél kérelmére történő felfüggesztésére nincs lehetőség.
-
-(4) Amennyiben az (1) bekezdés szerinti arányos csökkentést alkalmazni kell, úgy a kizárólag ezen indokkal csökkentett juttatásról szóló döntések tekintetében az arányos csökkentésre vonatkozóan fellebbezésnek helye nincs.
 
 12. § (1) Elemi csapás esetén a termelőket megillető kárenyhítő juttatás összegére az agrárkár-enyhítési szerv évenként egyszer, jogszabályban meghatározott határidőn belül, a kárenyhítő juttatásra vonatkozó kifizetési tervben (a továbbiakban: kifizetési terv) tesz javaslatot a miniszternek.
 
@@ -148,10 +142,7 @@ Az Országgyűlés a mezőgazdaságot sújtó elemi károk hatásának enyhíté
 
 (8) A 2006. évi LXXXVIII. törvény alapján képzett előirányzat maradványa nem vonható el, az az e törvény alapján képzendő előirányzat bevételét képezi.
 
-(9) A kárenyhítési juttatás formájában nyújtott támogatásokat
-
-- a) 2010-ben az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló, 2006. december 15-i 1857/2006/EK bizottsági rendelet (a továbbiakban: 1857/2006/EK bizottsági rendelet) 11. cikk (8) bekezdésében,
-- b) 2011. január 1-je után az 1857/2006/EK bizottsági rendelet 11. cikk (8) és (9) bekezdésében foglaltak megfelelő alkalmazásával kell megállapítani.
+(9) A kárenyhítési juttatás formájában nyújtott támogatásokra 2010. január 1. után az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló, 2006. december 15-i 1857/2006/EK bizottsági rendelet 11. cikk (8) bekezdésében foglaltakat kell alkalmazni.
 
 (10) Felhatalmazást kap a Kormány, hogy
 

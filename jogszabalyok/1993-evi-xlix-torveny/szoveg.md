@@ -4,11 +4,11 @@ a behozott kőolaj és kőolajtermékek biztonsági készletezéséről
 
 ### I. Fejezet — A törvény célja
 
-1. § A törvény célja, hogy az ország folyamatos és biztonságos energiaellátása érdekében szabályozza a behozott kőolaj és kőolajtermékek biztonsági készletezésének versenysemleges rendszerét, továbbá a tagi hozzájárulás mértékének megalapozott számításához szükséges belföldi fogyasztás ellenőrzésével, valamint a szabad forgalomba bocsátott, behozott és felhasznált kőolaj termékek megjelölésével és ellenőrzésével hozzájáruljon a szabályozott és tiszta piaci viszonyok kialakulásához.
+1. § A törvény célja, hogy az ország folyamatos és biztonságos energiaellátása érdekében szabályozza a behozott kőolaj és kőolajtermékek biztonsági készletezésének versenysemleges rendszerét.
 
 ### A törvény hatálya
 
-2. § (1) A törvény hatálya kiterjed a kőolajterméket forgalmazó, valamint az Európai Unió másik tagállamából (a továbbiakban: tagállam) vagy harmadik országból saját felhasználás céljából behozó – a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvényben (a továbbiakban: jövedéki adótörvény) meghatározott – adóraktári engedélyesre, adómentes felhasználóra, felhasználói engedélyesre, bejegyzett kereskedőre, bejegyzett feladóra, közösségi jövedéki engedélyes kereskedőre, valamint jövedéki engedélyes importálóra (a továbbiakban: engedélyes).
+2. § (1) A törvény hatálya kiterjed a kőolajterméket az Európai Unió másik tagállamából (a továbbiakban: tagállam) vagy harmadik országból belföldi feldolgozás, felhasználás vagy továbbforgalmazás céljából behozó – a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvényben (a továbbiakban: jövedéki adótörvény) meghatározott – adóraktári engedélyesre, adómentes felhasználóra, felhasználói engedélyesre, bejegyzett és nem bejegyzett kereskedőre, közösségi jövedéki engedélyes kereskedőre, valamint jövedéki engedélyes importőrre, továbbá azokra a jogi személyekre, jogi személyiséggel nem rendelkező gazdasági társaságokra, egyéni cégekre és egyéni vállalkozókra, akik (amelyek) tagállamból vagy harmadik országból kőolajat hoznak be.
 
 (2) E törvény alkalmazásában kőolaj és kőolajterméknek minősülnek a Tanács a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 2658/87/EGK rendeletének a Bizottság 2031/2001/EK rendeletével módosított, 2002. január 1-jén hatályos 1. számú mellékletében meghatározott Kombinált Nómenklatúrával megegyező tartalmú, külön jogszabályban megjelölt 2709 és 2710 áruazonosító számok alá tartozó termékek.
 
@@ -53,7 +53,7 @@ a behozott kőolaj és kőolajtermékek biztonsági készletezéséről
 
 - a) amelyet a Magyar Honvédség használ fel vagy saját felhasználásra tartalékol,
 - b) azon mennyiség után, amelyet az e törvényben előírt készletezési kötelezettség teljesítése céljából hoznak be,
-- c) amelyet más állam készletezési céllal Magyarország területén tárol,
+- c) amelyet más állam készletezési céllal a Magyar Köztársaság területén tárol,
 - d) amelyet az Észak-atlanti Szerződés tagállamai és az 1995. évi CII. törvényben kihirdetett Békepartnerség más részt vevő államai Magyarországon tartózkodó fegyveres erői és polgári állománya által a szolgálati járművek, légijárművek és hajók üzemanyagaként használnak fel vagy saját felhasználásra tartalékolnak,
 - e) továbbá azon kőolajtermék mennyiség után, amelyet vegyipari, kenéstechnikai, korrózióvédelmi célra hoztak be kiskereskedelmi forgalom számára kiszerelve, 200 kg-ot nem meghaladó egyedi tömegben.
 
@@ -80,11 +80,11 @@ a behozott kőolaj és kőolajtermékek biztonsági készletezéséről
 
 7. § (1) A biztonsági készletet működésre engedélyezett, műszakilag ellenőrzött, a biztonságtechnikai és környezetvédelmi jogszabályok előírásainak megfelelő, olyan tárolótérben kell raktározni, amely alkalmas arra, hogy a készletezett kőolaj, illetve kőolajtermék minőségét megőrizze.
 
-(2) A Szövetség kormányközi megállapodás alapján biztonsági készletet tárolhat más tagállam területén, illetve más állam szervezetei biztonsági készletet tárolhatnak Magyarország területén.
+(2) A Szövetség kormányközi megállapodás alapján biztonsági készletet tárolhat más tagállam területén, illetve más állam szervezetei biztonsági készletet tárolhatnak a Magyar Köztársaság területén.
 
-(3) Magyarország területén más állam által tárolt biztonsági készletek felett az adott állam készletező szervezeteinek rendelkezési joga érvényesül.
+(3) A Magyar Köztársaság területén más állam által tárolt biztonsági készletek felett az adott állam készletező szervezeteinek rendelkezési joga érvényesül.
 
-8. § (1) Abban az esetben, ha a kőolaj- és kőolajtermék ellátás és a fogyasztás egyensúlya felbomlik, a felhasználási igények meghaladják a beszerzés lehetőségeit, az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) a szabályozásban érdekelt miniszterekkel egyetértésben kiadott rendeletben fogyasztást korlátozó intézkedéseket rendelhet el.
+8. § (1) Abban az esetben, ha a kőolaj- és kőolajtermék ellátás és a fogyasztás egyensúlya felbomlik, a felhasználási igények meghaladják a beszerzés lehetőségeit, az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) a szabályozásban érdekelt miniszterekkel együttesen kiadott rendeletben fogyasztást korlátozó intézkedéseket rendelhet el.
 
 (2) A biztonsági készletet a 41. § (3) bekezdése szerinti kőolaj- és kőolajtermék-ellátási válsághelyzetben vagy tüzelőanyag (tüzelőolaj, fűtőolaj, földgáz) ellátási nehézség, különösen földgázellátási válsághelyzet esetén a miniszter engedélye alapján szabad felhasználni.
 
@@ -118,22 +118,11 @@ a behozott kőolaj és kőolajtermékek biztonsági készletezéséről
 
 (4) A Szövetség szervezete kőolaj és kőolajtermék-készletezési szekcióból és földgázkészletezési szekcióból áll.
 
-10. § (1) E törvény alapján kötelezően a Szövetség tagjává válnak azok az engedélyesek, akik (amelyek)
-
-- a) a 3. § (2) bekezdésében felsorolt kőolajterméket a jövedéki adótörvény rendelkezései szerint szabad forgalomba bocsátanak,
-- b) a 3. § (2) bekezdésében felsorolt kőolajterméket szabad forgalomba bocsátás nélkül adómentes felhasználónak tárolnak ki,
-- c) a 3. § (2) bekezdésében felsorolt, harmadik országból behozott kőolajterméket adófelfüggesztéssel adómentes felhasználó vagy felhasználói engedélyes részére feladnak,
-- d) a 3. § (2) bekezdésében felsorolt kőolajterméket harmadik országból adómentes felhasználóként, illetve felhasználó engedélyesként behoznak,
-- e) más tagállamban szabad forgalomba bocsátott, a 3. § (2) bekezdésében felsorolt kőolajterméket más tagállamból beszereznek,
-- f) a 3. § (2) bekezdésében felsorolt kőolajterméket a 37. § (2) bekezdés f) pontja szerint felhasználnak.
+10. § (1) E törvény alapján kötelezően a Szövetség tagjává válnak azok, akik (amelyek) készletezési kötelezettség alá eső kőolajat, illetve kőolajterméket hoznak be belföldi feldolgozás, értékesítés, felhasználás céljából.
 
 (2) A szövetségi tagság az (1) bekezdésben meghatározott feltétel bekövetkeztének időpontjában jön létre. A szövetségi tagság megszűnik, ha a tag a készletezési kötelezettséggel járó tevékenységet legalább egy évig nem folytatja.
 
-11. § (1) A Szövetség feladata a 3. § (2) bekezdésben és a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvényben (a továbbiakban: Fbkt.) meghatározott mértékű biztonsági készletképzés feltételeinek megteremtése és fenntartásának biztosítása, valamint az ehhez szükséges tárolók létesítése, működtetése és fejlesztése.
-
-(2) A Szövetség feladata, hogy a 3. § (2) bekezdés szerinti biztonsági készlet, illetve a tagi hozzájárulás mértékének megalapozott számítása érdekében olyan ellenőrző és jelölő rendszert működtessen, amely folyamatosan lehetővé teszi a szabad forgalomba bocsátott, behozott és felhasznált kőolajtermékek megfigyelését. E feladatának teljesítése során folyamatosan együttműködik az adó- és vámhatósággal, s az ellenőrzés során szerzett minden adatot az adó- és vámhatóság részére is átad.
-
-(3) A Szövetség nem alanya a társasági adónak.
+11. § A Szövetség feladata a 3. § (2) bekezdésében és a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvényben (a továbbiakban: Fbkt.) meghatározott mértékű biztonsági készletképzés feltételeinek megteremtése és fenntartásának biztosítása, valamint az ehhez szükséges tárolók létesítése, működtetése és fejlesztése. A Szövetség nem alanya a társasági adónak.
 
 12. §
 
@@ -141,7 +130,7 @@ a behozott kőolaj és kőolajtermékek biztonsági készletezéséről
 
 (2) A felszabadított és eladott készlet felhasználásának, értékesítésének az engedélyben meghatározott feltételeiről a felhasználót, illetve a tagot tájékoztatni kell. Az átadott készletet az engedélyben meghatározott feltételek szerint szabad felhasználni, értékesíteni.
 
-14. § A Szövetség az e törvényben és az Fbkt.-ben előírt tevékenységen kívül, csak az azzal összefüggő – az alapszabályban meghatározott – tevékenységek gyakorlására jogosult. A bevételeket a készletezési, a jelölési és az ellenőrzési költségek fedezésére, az ezt meghaladó bevételeit különösen kőolaj-, illetve gáztároló létesítésére, fejlesztésére, a tároló parkokban való tulajdonszerzésre és a készletfinanszírozó hitelek törlesztésére, valamint a Szövetség működésére fordíthatja.
+14. § A Szövetség az e törvényben és az Fbkt.-ben előírt földgáz biztonsági készletezési tevékenységen kívül csak az azzal összefüggő – az alapszabályban meghatározott – tevékenységek gyakorlására jogosult. A bevételeket a készletezési költségek fedezésére, az ezt meghaladó bevételeit különösen kőolaj-, illetve gáztároló létesítésére, fejlesztésére, a tároló parkokban való tulajdonszerzésre és a készletfinanszírozó hitelek törlesztésére, valamint a Szövetség működésére fordíthatja.
 
 15. § (1) A Szövetség a miniszter által jóváhagyott Alapszabály alapján működik.
 
@@ -205,12 +194,9 @@ a behozott kőolaj és kőolajtermékek biztonsági készletezéséről
 - f) felügyeli az igazgatóság tevékenységét;
 - g) megbízást ad az e törvényben meghatározott ellenőrzés folytatására;
 - h) megvitat minden olyan kérdést, amelyet az igazgatóság számára előterjeszt;
-- i) javaslatot tesz a miniszternek az e törvény 8. §-a szerinti eljárás kezdeményezésére;
-- j) javaslatot tesz az igazgató és az igazgatóhelyettes személyére.
+- i) javaslatot tesz a miniszternek az e törvény 8. §-a szerinti eljárás kezdeményezésére.
 
 (2) Az igazgató tanács az igazgatóságtól jelentést kérhet, továbbá számára utasítást adhat.
-
-(3) Az igazgató tanács csak olyan személyt javasolhat igazgatónak vagy igazgatóhelyettesnek, akit a miniszter, az államháztartásért felelős miniszter és a Magyar Energia Hivatal Elnökének képviselői közül legalább három támogat.
 
 23. § Az igazgató tanács tizennégy tagból áll. Hat tagot a kőolaj- és kőolajtermék-készletezési szekcióból, négy tagot a földgázkészletezési szekcióból a közgyűlés választ három évre. A további négy tagja közül kettő a miniszter, egy az államháztartásért felelős miniszter, egy a Magyar Energia Hivatal Elnökének képviselője.
 
@@ -248,9 +234,9 @@ Amennyiben a Szövetség tevékenysége jogszabályba, a Szövetség Alapszabál
 
 ### Igazgatóság
 
-27. § (1) Az igazgató tanács javaslata alapján a közgyűlés választja meg a Szövetség igazgatóját és igazgatóhelyettesét. A Szövetség munkaszervezetének (igazgatóságának) ügyvezetője az igazgató, akit akadályoztatása esetén az igazgatóhelyettes teljes jogkörrel helyettesít. Az igazgatót és az igazgatóhelyettest a közgyűlés határozatlan időre választja meg.
+27. § (1) A közgyűlés választja meg a Szövetség igazgatóját és igazgatóhelyettesét. A Szövetség munkaszervezetének (igazgatóságának) ügyvezetője az igazgató, akit akadályoztatása esetén az igazgatóhelyettes teljes jogkörrel helyettesít. Az igazgatót és az igazgatóhelyettest öt évre választják meg. Az igazgató és az igazgatóhelyettes újraválasztható.
 
-(2) A közgyűlés az igazgatóság bármelyik tagját hivatali idejének lejárta előtt, a Szövetség Alapszabályában meghatározott okból felmentheti. Ha az igazgatóság bármely tagjának megbízatása az (1) bekezdésben meghatározott időtartam lejárta előtt megszűnik, az igazgató tanács jogosult az új igazgatósági tagot kijelölni, akit a közgyűlés a következő ülésén tisztségében megerősít vagy új tagot választ.
+(2) A közgyűlés az igazgatóság bármelyik tagját hivatali idejének lejárta előtt, a Szövetség Alapszabályában meghatározott okból visszahívhatja. Ha az igazgatóság bármely tagjának megbízatása az (1) bekezdésben meghatározott időtartam lejárta előtt megszűnik, az igazgató tanács jogosult az új igazgatósági tagot kijelölni, akit a közgyűlés a következő ülésén tisztségében megerősít vagy új tagot választ.
 
 28. § Az igazgató
 
@@ -258,10 +244,7 @@ Amennyiben a Szövetség tevékenysége jogszabályba, a Szövetség Alapszabál
 - b) elkészíti a Szövetség éves költségvetésének, és annak végrehajtásáról szóló beszámoló tervezetét, és azt az igazgató tanács elé terjeszti;
 - c) határoz a Szövetség azon ügyeiben, melyek más szerv hatáskörébe nem tartoznak;
 - d) megküldi a miniszternek a közgyűlés határozatát, valamint a miniszternek és az államháztartásért felelős miniszternek a Szövetség éves költségvetését és annak végrehajtásáról szóló beszámolót;
-- e) ha e törvény másképpen nem rendelkezik, képviseli a Szövetséget;
-- f) szerződést köt a 11. § (2) bekezdésében meghatározott feladat ellátására.
-
-28/A. § Az igazgató csak olyan szervezettel köthet szerződést a 11. § (2) bekezdésében meghatározott feladat ellátására, amely szervezetet a miniszter, az államháztartásért felelős miniszter és a Magyar Energia Hivatal Elnökének képviselői közül legalább három támogat.
+- e) ha e törvény másképpen nem rendelkezik, képviseli a Szövetséget.
 
 ### A Szövetség gazdálkodása
 
@@ -271,13 +254,11 @@ Amennyiben a Szövetség tevékenysége jogszabályba, a Szövetség Alapszabál
 
 (3) A Szövetség köteles eszközeit és forrásait, bevételeit és ráfordításait a kőolaj és kőolajtermék-készletezési, valamint a földgáz-készletezési tevékenységenként, illetve azokat a nem készletezési tevékenységeitől belső számvitelében elkülöníteni, valamint azokat az éves beszámoló kiegészítő mellékletében, készletezési tevékenységenként készített mérlegben és eredmény-kimutatásban oly módon bemutatni, mintha az egyes tevékenységeket önálló gazdálkodó szervezetek végeznék. A kőolaj és kőolajtermék készletezésre, illetve a földgázkészletezésre, valamint a nem készletezési tevékenységre fel nem osztható költségeket, ráfordításokat az egyes tevékenységekkel kapcsolatosan felmerült költségek, ráfordítások arányában kell elszámolni.
 
-30. § (1) A Szövetség feladatai ellátásához és működéséhez szükséges eszközöket – az éves költségvetés alapján – a tagok pénzbeli hozzájárulás formájában bocsátják a Szövetség rendelkezésére.
+30. § (1) A készletezéshez, a készletnöveléshez, továbbá a Szövetség működéséhez szükséges eszközöket – az éves költségvetés alapján – a tagok pénzbeli hozzájárulás formájában bocsátják a Szövetség rendelkezésére.
 
 (2) A Szövetség éves költségvetésében megtervezi a készletek értékesítésének várható bevételeit, az egyéb bevételeket, illetve az értékesítés ráfordításait, a működés költségeit, a készletnövelés miatti tőkefeltöltés pénzszükségletét, valamint a bevételek és a ráfordítások különbözeteként a tagok hozzájárulásának összegét. A költségvetéshez mellékelni kell a biztonsági készletek alakulásának mérlegszerű összeállítását, amely tartalmazza a készletek nyitó értékét — a készletnövekedés értékét — a készletcsökkenés összegét, és ezek eredőjeként a zárókészlet értékét, valamint a záró és nyitó készletérték különbözetét, mint a készletezés tagok általi hozzájárulásának egyik összetevőjét.
 
-(3) A Szövetség az éves költségvetés alapján határozza meg a termékcsoportonkénti egységnyi hozzájárulás mértékét, figyelembe véve a (4) bekezdésben meghatározottak szerint számított, és a 11. § (2) bekezdésben előírt feladat költségeinek finanszírozását biztosító termékcsoportonkénti egységnyi tagi hozzájárulás mértékét.
-
-(4) A Szövetség a 11. § (2) bekezdésben meghatározott feladat ellátását biztosító bevételhez szükséges tagi hozzájárulás termékcsoportonkénti egységnyi mértéke, a költségvetés közgyűlés általi elfogadása évének az első hat havi termékcsoportonkénti nagykereskedelmi napi átlagárának legalább 1%-a.
+(3) A Szövetség az éves költségvetés alapján határozza meg a termékcsoportonkénti egységnyi hozzájárulás értékét.
 
 31. § (1) A következő évi költségvetést az igazgatóság október 31-ig készíti el, amelyet a közgyűlés hagy jóvá.
 
@@ -325,38 +306,34 @@ Amennyiben a Szövetség tevékenysége jogszabályba, a Szövetség Alapszabál
 
 ### A tag jogai és kötelezettségei
 
-37. § (1) A tag a kőolajtermék forgalmazási tevékenységével összefüggésben, illetve a saját felhasználásra történő behozatali tevékenysége után a Szövetség részére tagi hozzájárulást fizet, amelynek termékcsoportonkénti egységnyi mértékét a 30. § (3) és (4) bekezdéseiben előírtak szerint kell meghatározni.
+37. § (1) A tag az általa behozott kőolaj és kőolajtermék mennyiségének arányában — az éves költségvetés alapján — a Szövetség részére tagi hozzájárulást fizet.
 
-(2) Tagi hozzájárulást kell fizetni a 4. §-ban foglalt eltérésekkel a 3. § (2) bekezdésében felsorolt kőolajtermékek mennyisége után, ha
+(2) Nem kell hozzájárulást fizetni azután a mennyiség után, amely a 4. § alapján mentes a biztonsági készletképzési kötelezettség alól.
 
-- a) az adóraktár-engedélyes, a bejegyzett kereskedő, illetve a jövedéki engedélyes importáló a kőolajterméket a jövedéki adótörvény rendelkezései szerint szabad forgalomba bocsátja;
-- b) az adóraktár-engedélyes a kőolajterméket adófelfüggesztéssel adómentes felhasználónak kitárolja;
-- c) az adómentes felhasználó, illetve a felhasználói engedélyes a kőolajterméket adófelfüggesztéssel harmadik országból behozza;
-- d) a bejegyzett feladó a harmadik országból behozott kőolajterméket adófelfüggesztéssel adómentes felhasználó vagy felhasználói engedélyes részére a jövedéki törvény szerint feladja;
-- e) a közösségi kereskedelmi tevékenységet végző jövedéki engedélyes kereskedő, az adóraktár-engedélyes, illetve a felhasználói engedélyes más tagállamban szabad forgalomba bocsátott kőolajterméket más tagállamból beszerez;
-- f) az adóraktár-engedélyes a kőolajterméket az adóraktáron belül felhasználja, kivéve a jövedéki termék előállításához történő felhasználást.
+(3)
 
-(3) A tagi hozzájárulás alapja a (2) bekezdés a) pontja esetén a jövedéki adótörvény szerint szabadforgalomba hozott, b) pontja esetén a kitárolt, c) pontja esetén a behozott, d) pontja esetén a feladott, e) pontja esetén a beszerzett, f) pontja esetén a felhasznált hozzájárulás-köteles kőolajtermék mennyisége.
+(4) A tag az (1) bekezdés szerinti hozzájárulást az egyéb ráfordítások között köteles elszámolni.
 
-(4) A tagi hozzájárulás megfizetése a (2) bekezdés a), c), e) és f) pontja szerinti esetben az ott megnevezett engedélyest, a (2) bekezdés b) pontja szerinti esetben az adóraktár-engedélyest, a (2) bekezdés d) pontja szerinti esetben a bejegyzett feladót terheli.
+38. § (1) A tag minden hónap 15. napjáig köteles a Szövetségnek nyilatkozni arról, hogy a megelőző hónapban milyen mennyiségű kőolajat, kőolajterméket hozott be, illetve helyezett belföldi forgalomba. Aki a jövedéki adótörvény rendelkezése szerint meghatározott nyilvántartás adatai alapján havi összesítést készít, annak a nyilatkozathoz mellékelnie kell a havi összesítés vámhatóságnak benyújtott, a vámhatóság által ellenjegyzett másolati példányát is. A Szövetség felhívására a tag köteles minden olyan adatot, dokumentációt haladéktalanul benyújtani, mely a tagi hozzájárulás teljesítésének ellenőrzéséhez szükséges.
 
-(5) A tag az (1) bekezdés szerinti hozzájárulást az egyéb ráfordítások között köteles elszámolni.
+(2) Az (1) bekezdés szerinti havi nyilatkozatban közölt adatok alapján a tag kiszámítja az esedékes tagi hozzájárulás-fizetési kötelezettség összegét, és azt a behozatalt követő hónap utolsó munkanapjáig köteles a Szövetség pénzforgalmi számlájára átutalni.
 
-38. § (1) A tag minden hónap utolsó munkanapjáig köteles a Szövetségnek nyilatkozni arról, hogy a megelőző hónapban mennyi volt az e törvény hatálya alá tartozó, a tagi hozzájárulás fizetése alapjául szolgáló szabad forgalomba bocsátott, kitárolt, behozott, feladott, beszerzett, illetve felhasznált kőolajtermék mennyisége. A Szövetség felhívására a tag köteles minden olyan adatot, dokumentációt haladéktalanul benyújtani, amely a tagi hozzájárulás teljesítésének ellenőrzéséhez szükséges.
+(3) A tagi hozzájárulás befizetésétől számított 90 napon belül a Szövetségtől visszaigényelhető a hozzájárulásnak az a része, amelyet a tag a törvény 4. § (1) bekezdésének a)–d) pontjaiban és a (2)–(3) bekezdéseiben meghatározott célra értékesített kőolaj és kőolajtermék mennyisége után fizetett be. A behozott kőolaj feldolgozásából származó – e törvény hatálya alá tartozó – kőolajtermék értékesítése esetén a visszaigényelhető tagi hozzájárulást a kőolajtermékre megállapított tagi hozzájárulás alapján kell elszámolni. A Szövetség a visszautalást az igénylésnek és a felhasználás könyvelésen alapuló igazolásának a Szövetséghez történő beérkezésétől számított 15 napon belül köteles teljesíteni.
 
-(2) Az (1) bekezdés szerinti havi nyilatkozatban közölt adatok alapján a tag kiszámítja az esedékes tagi hozzájárulás-fizetési kötelezettség összegét, és azt a hónap utolsó munkanapjáig köteles a Szövetség pénzforgalmi számlájára átutalni.
-
-(3) A tagi hozzájárulás befizetésétől számított 90 napon belül a Szövetségtől visszaigényelhető a hozzájárulásnak az a része, amelyet a tag a törvény 4. § (1) bekezdésének a)–d) pontjaiban és a (2)–(3) bekezdéseiben meghatározott célra értékesített vagy felhasznált kőolajtermék mennyisége után fizetett be. A Szövetség a visszautalást az igénylésnek és a felhasználás könyvelésen alapuló igazolásának a Szövetséghez történő beérkezésétől számított 15 napon belül köteles teljesíteni.
-
-(4) A tag az esedékessé vált tagi hozzájárulásból a kiviteltől számított 90 napon belül levonhatja az olyan kőolajtermék mennyiség utáni befizetését, amelyet külföldön értékesített.
+(4) A tag az esedékessé vált tagi hozzájárulásból a kiviteltől számított 90 napon belül levonhatja az olyan behozott kőolaj és kőolajtermék mennyiség utáni befizetését, amelyet külföldön értékesített. A behozott kőolaj feldolgozásából származó – e törvény hatálya alá tartozó – kőolajtermék külföldön történt értékesítése esetén a levonható tagi hozzájárulást a kőolajtermékre megállapított tagi hozzájárulás alapján kell elszámolni.
 
 (5) A tagi hozzájárulás visszaigénylésének, illetve levonásának jogosságát a tag az erre vonatkozó okiratok, nyilvántartások benyújtásával hitelt érdemlően köteles igazolni. A visszaigénylés és a levonás együttes összege éves szinten nem haladhatja meg a tag által befizetett tagi hozzájárulás összegét. A (2)–(5) bekezdésekben nem rendezett további szabályokat a 15. § (2) bekezdés g) pontja alapján az Alapszabályban kell meghatározni.
 
-(6) Az (1) bekezdés szerinti nyilatkozatot a tag köteles – annak a Szövetséghez történő benyújtása előtt – a vámhatósággal az abban foglalt adatok helytállóságát illetően záradékoltatni.
-
 39. §
 
-40. § A Szövetség a tagok részére igazolást állít ki a Szövetség felé fennálló nyilatkozattételi, valamint tagi hozzájárulás-fizetési kötelezettség teljesítéséről. Erről tájékoztatja az adóhatóságot és a vámhatóságot.
+40. § (1) A Szövetség a tagok részére igazolást állít ki a Szövetség felé fennálló nyilatkozattételi, valamint tagi hozzájárulás-fizetési kötelezettség teljesítéséről. Kizárólag ezen igazolás alapján lehet
+
+- a) a harmadik országból behozott kőolajat és kőolajterméket belföldi rendeltetéssel vámkezeltetni,
+- b) a tagállamból, illetőleg tagállamon keresztül a harmadik országból behozott kőolaj és kőolajtermék szállítása során a külön jogszabály szerint alkalmazott árukísérő okmányt az illetékes vámhatóságnak ellenjegyeznie.
+
+(2) Az igazolás kiadását a Szövetség vagyoni biztosíték adásához köti, ha a behozni kívánt kőolaj, kőolajtermék után fizetendő tagi hozzájárulás összege ezt indokolja (pl. a tag alaptőkéjét, illetve törzstőkéjét meghaladja). A vagyoni biztosíték mértékét úgy kell megállapítani, hogy a biztosíték az igazolás alapján behozható kőolaj vagy kőolajtermék után fizetendő tagi hozzájárulás összegét fedezze.
+
+(3) A vagyoni biztosíték adásának, kezelésének és az erre vezetett behajtás részletes szabályait a 15. § (2) bekezdés d) pontja alapján az Alapszabályban kell megállapítani.
 
 ### Együttműködés az állami adóhatósággalés a vámhatósággal
 
@@ -365,7 +342,7 @@ Amennyiben a Szövetség tevékenysége jogszabályba, a Szövetség Alapszabál
 - a) a készletezési kötelezettség ellenőrzéséhez,
 - b) a Szövetség adatszolgáltatási kötelezettségének teljesítéséhez
 
-az e törvény személyi hatálya alá tartozó személyek által szabad forgalomba bocsátott, kitárolt, behozott, feladott, beszerzett, illetve felhasznált – a törvény hatálya alá tartozó termékkörbe tartozó – termékek mennyiségéről és értékéről.
+az e törvény személyi hatálya alá tartozó személyek által beszerzett és értékesített – a törvény hatálya alá tartozó termékkörbe tartozó – termékek mennyiségéről és értékéről.
 
 ### A Szövetség felügyelete, ellenőrzés
 
@@ -392,7 +369,7 @@ az e törvény személyi hatálya alá tartozó személyek által szabad forgalo
 
 (2) Az ellenőr jogosult a tag üzemi ingatlanába, üzlethelyiségébe belépni, ott az (1) bekezdésben meghatározott ellenőrzési tevékenység tárgyával kapcsolatos okiratokba betekinteni, vizsgálatot folytatni és felvilágosítást kérni.
 
-43. § (1) A miniszter, valamint a Szövetség megbízott ellenőrök útján ellenőrzi, hogy a jogi személyek, a jogi személyiséggel nem rendelkező gazdasági társaságok, egyéni cégek és egyéni vállalkozók a törvény rendelkezéseinek megfelelően folytatják-e a kőolajtermék behozatali, forgalmazási és felhasználási tevékenységüket, illetve földgáz-értékesítő tevékenységüket.
+43. § (1) A miniszter, valamint a Szövetség megbízott ellenőrök útján ellenőrzi, hogy a jogi személyek, a jogi személyiséggel nem rendelkező gazdasági társaságok, egyéni cégek és egyéni vállalkozók a törvény rendelkezéseinek megfelelően folytatják-e a kőolaj és a kőolajtermék behozatali, forgalmazási és felhasználási tevékenységüket, illetve földgáz-értékesítő tevékenységüket.
 
 (2) Az (1) bekezdésben meghatározott ellenőrzés során az ellenőrzött személy köteles megadni minden adatot, információt és dokumentációt, amely a tevékenység gyakorlásához, illetve a tagsági viszony ellenőrzéséhez szükségesek.
 
@@ -426,13 +403,9 @@ az e törvény személyi hatálya alá tartozó személyek által szabad forgalo
 
 47. § A törvény 9. §-ában előírt kötelezettség azokra a jogi és természetes személyekre terjed ki, akik (amelyek) 1992. évben biztonsági tartalék képzési kötelezettséggel járó kőolajat vagy kőolajterméket hoztak be.
 
-47/A. § A 11. § (2) bekezdésében meghatározott feladat ellátásához szükséges ellenőrző és jelölő rendszert a Szövetségnek 2013. július 1. napjáig kell kialakítania.
-
-47/B. § A földgáz biztonsági készletezéssel összefüggésben egyes törvények módosításáról szóló 2012. évi CCXVIII. törvény hatálybalépésekor (a továbbiakban: Mód. Tv.) a Szövetség igazgatójának és igazgatóhelyettesének megbízatása – a Mód. Tv hatálybalépésének napján – határozatlan idejű megbízatásra módosul.
-
 ### Felhatalmazó rendelkezések
 
-48. § (1) Felhatalmazást kap a miniszter, hogy a 8. § (1) bekezdés értelmében a fogyasztást korlátozó intézkedéseket a szabályozásban érdekelt miniszterekkel egyetértésben kiadott rendeletben szabályozza.
+48. § (1) Felhatalmazást kap a miniszter, hogy a 8. § (1) bekezdés értelmében a fogyasztást korlátozó intézkedéseket rendeletben szabályozza.
 
 (2) Felhatalmazást kap a miniszter, hogy az adatszolgáltatásra vonatkozó részletes szabályokat az e törvényben foglaltak szerint és a nemzetközi kötelezettségvállalásoknak megfelelően rendeletben szabályozza.
 

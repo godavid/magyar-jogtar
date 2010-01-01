@@ -2,13 +2,13 @@
 
 a felsőoktatásról
 
-Az Országgyűlés annak érdekében, hogy Magyarország Európai Unióhoz történő csatlakozásával a magyar felsőoktatás az Európai Gazdasági Térség felsőoktatási rendszerének részeként a megváltozott körülmények között úgy legyen képes ellátni a korszerű ismeretek létrehozásában, közvetítésében és átadásában, a társadalmi kohézió, a fenntartható fejlődés érdekében, a nemzetközi versenyképesség, a technológiai innováció kívánatos mértékének fenntartásában kijelölt feladatait, hogy – hagyományai és az európai egyetemek Magna Chartájában rögzített szellemi értékek megőrzése mellett – javuljon versenyképessége, erősödjék az oktatással, a kutatással és a gazdasággal való együttműködésének hatékonysága, a képzés minősége, a társadalom, a gazdaság és a környezeti fenntarthatóság igényeihez, a költségvetés feltételeihez való alkalmazkodás képessége, megvalósuljon a hallgatói és oktatói mobilitás, növekedjék a hallgatói esélyegyenlőség, továbbá, hogy a felsőoktatási rendszer és az egyes intézmények működésében a tanulás, tanítás, tudományos kutatás szabadsága, valamint a minőségre való törekvés folyamatosan és egyre fokozottabban érvényesüljön, a következő törvényt alkotja:
+Az Országgyűlés annak érdekében, hogy a Magyar Köztársaság Európai Unióhoz történő csatlakozásával a magyar felsőoktatás az Európai Gazdasági Térség felsőoktatási rendszerének részeként a megváltozott körülmények között úgy legyen képes ellátni a korszerű ismeretek létrehozásában, közvetítésében és átadásában, a társadalmi kohézió, a fenntartható fejlődés érdekében, a nemzetközi versenyképesség, a technológiai innováció kívánatos mértékének fenntartásában kijelölt feladatait, hogy – hagyományai és az európai egyetemek Magna Chartájában rögzített szellemi értékek megőrzése mellett – javuljon versenyképessége, erősödjék az oktatással, a kutatással és a gazdasággal való együttműködésének hatékonysága, a képzés minősége, a társadalom, a gazdaság és a környezeti fenntarthatóság igényeihez, a költségvetés feltételeihez való alkalmazkodás képessége, megvalósuljon a hallgatói és oktatói mobilitás, növekedjék a hallgatói esélyegyenlőség, továbbá, hogy a felsőoktatási rendszer és az egyes intézmények működésében a tanulás, tanítás, tudományos kutatás szabadsága, valamint a minőségre való törekvés folyamatosan és egyre fokozottabban érvényesüljön, a következő törvényt alkotja:
 
 ## ELSŐ RÉSZ — ÁLTALÁNOS RENDELKEZÉSEK
 
 ### A TÖRVÉNY CÉLJA
 
-1. § (1) E törvény célja a tanítás és a tanulás alkotmányos jogának érvényesüléséhez szükséges jogi garanciák megteremtése. A tanuláshoz való jog alapján Magyarország minden állampolgárának joga, hogy igénybe vegye a felsőoktatás által nyújtott szolgáltatásokat, feltéve, hogy képességei alkalmassá teszik a felsőfokú tanulmányokra. A tanítás, a kutatás és a művészeti élet szabadsága a felsőoktatásban a felsőoktatási intézmények autonómiáján keresztül valósul meg.
+1. § (1) E törvény célja a tanítás és a tanulás alkotmányos jogának érvényesüléséhez szükséges jogi garanciák megteremtése. A tanuláshoz való jog alapján a Magyar Köztársaság minden állampolgárának joga, hogy igénybe vegye a felsőoktatás által nyújtott szolgáltatásokat, feltéve, hogy képességei alkalmassá teszik a felsőfokú tanulmányokra. A tanítás, a kutatás és a művészeti élet szabadsága a felsőoktatásban a felsőoktatási intézmények autonómiáján keresztül valósul meg.
 
 (2) E törvény célja megteremteni a jogi feltételeket ahhoz, hogy a felsőoktatási intézmény az e törvényben biztosított autonómia szerint működhessék, azzal élhessen, továbbá biztosítsa az autonómia gyakorlásában való részvételt az oktatók, a kutatók és a hallgatók számára. Az autonómia (3) bekezdésben felsorolt elemeit a törvények által meghatározott keretben lehet gyakorolni. Az autonómiát érintő rendelkezéseket csak törvényben vagy törvény felhatalmazása alapján lehet szabályozni. Az autonómia gyakorlásánál figyelembe kell venni a felsőoktatási intézmény szabályzataiban foglaltakat is.
 
@@ -49,14 +49,14 @@ Az Országgyűlés annak érdekében, hogy Magyarország Európai Unióhoz tört
 - h) az egyenlő bánásmód követelményének és az esélyegyenlőség szempontjainak érvényesítése a felsőoktatásban,
 - i) a felsőoktatás képzési szerkezetének átalakításával lehetővé tenni a – hallgató munkaerő-piaci megjelenését biztosító – szakképzettség rövid képzési idő alatt történő megszerzését, a kimagasló képességűek részére a magasabb szintű tanulmányok folytatását, további végzettség, újabb szakképzettség megszerzését,
 - j) a felsőoktatás rendszerének, az egyes felsőoktatási intézmények szakszerű, hatékony, törvényes működéséhez, gazdasági önállóságához szükséges jogi feltételek meghatározása, a társadalom és a gazdaság, valamint a környezeti fenntarthatóság igényeihez való alkalmazkodási, együttműködési képességének erősítése,
-- k) a felsőoktatás finanszírozási rendszerének szabályozása oly módon, hogy az elősegítse az intézményrendszer és az egyes intézmények ésszerű, a leghatékonyabb működést biztosító, finanszírozható átalakulását, a versenyképes, magas színvonalú képzés érdekében a felsőoktatási intézmények hatékony működését, a központi költségvetés mellett külső források bevonását,
+- k) a felsőoktatás finanszírozási rendszerének szabályozása oly módon, hogy az elősegítse az intézményrendszer és az egyes intézmények ésszerű, a leghatékonyabb működést biztosító, finanszírozható átalakulását, a versenyképes, magas színvonalú képzés érdekében a felsőoktatási intézmények hatékony működését, az állami költségvetés mellett külső források bevonását,
 - l) a felsőoktatási intézmény minőségbiztosítási és minőséghitelesítési rendszerének fejlesztésével annak biztosítása, hogy a felsőoktatási intézmények a hazai és a nemzetközi munkaerőpiacon hasznosítható, magas színvonalú és továbbfejleszthető ismereteket közvetítsenek hallgatóik részére.
 
 (2) A magyar felsőoktatás – az intézményeiben folyó kutató-, alkotó művészeti munka, az új tudományos eredmények és alkotások létrehozása, a korszerű ismeretek átvétele és továbbadása, továbbá a kiemelkedő képességű tehetségek tudományos szintű felkészítése révén – hozzájárul az egyetemes tudomány fejlődéséhez.
 
 ### A TÖRVÉNY HATÁLYA
 
-3. § E törvény hatálya kiterjed a Magyarország területén folytatott felsőoktatási, a felsőoktatással összefüggő szolgáltató és igazgatási tevékenységre, a feladatellátásban közreműködő szervezetekre, intézményekre, azok alapítóira és fenntartóira, a felsőoktatás feladataiban közreműködő oktatókra, tudományos kutatókra és más, a felsőoktatásban alkalmazottakra, a felsőoktatásba jelentkezőkre és a hallgatókra, továbbá a felsőoktatás támogatóira, valamint arra a felsőoktatási tevékenységre is, amelyet a magyar felsőoktatási intézmények Magyarország területén kívül folytatnak.
+3. § E törvény hatálya kiterjed a Magyar Köztársaság területén folytatott felsőoktatási, a felsőoktatással összefüggő szolgáltató és igazgatási tevékenységre, a feladatellátásban közreműködő szervezetekre, intézményekre, azok alapítóira és fenntartóira, a felsőoktatás feladataiban közreműködő oktatókra, tudományos kutatókra és más, a felsőoktatásban alkalmazottakra, a felsőoktatásba jelentkezőkre és a hallgatókra, továbbá a felsőoktatás támogatóira, valamint arra a felsőoktatási tevékenységre is, amelyet a magyar felsőoktatási intézmények a Magyar Köztársaság területén kívül folytatnak.
 
 ### A TÖRVÉNY ALAPELVEI
 
@@ -74,11 +74,11 @@ Az Országgyűlés annak érdekében, hogy Magyarország Európai Unióhoz tört
 
 (5) A felsőoktatási intézményekben folytatott kutatásokhoz – pályázati rendszerben – hozzájárul az Országos Tudományos Kutatási Alapprogram és a Kutatási és Technológiai Innovációs Alap is.
 
-(6)
+(6) A kiemelkedő színvonalú képzést nyújtó, a tudományos életben elismert, az Európai Kutatási Térségkutatási tevékenységéhez kapcsolódó egyetem – a Magyar Köztársaság Kormánya (a továbbiakban: Kormány) által meghatározott feltételekkel – „kutatóegyetem” minősítést kaphat. A „kutatóegyetem” jelentős hazai és nemzetközi kutatás-fejlesztési és innovációs tevékenységet végez, amelynek eredményét az oktatásba közvetíti, a tehetséggondozást a képzés minden szintjén kiemelt feladatként végzi, kiemelkedő teljesítményt nyújt a doktori képzés területén, valamint mind a kutatás, mind a képzés területén széles körű nemzetközi együttműködéssel rendelkezik, továbbá országos, illetve regionális vezető szerepet lát el.
 
 (7) A felsőoktatási intézmény a kutatási-fejlesztési feladatainak ellátása során együttműködhet a Magyar Tudományos Akadémiával és annak intézményeivel. Ennek keretei között különösen támogatott kutatócsoportot hozhatnak létre és tarthatnak fenn. A kutatócsoport és az akadémiai intézet felsőoktatási intézménybe kihelyezett szervezeti egysége tanszékként működhet, továbbá részt vehet a doktori képzésben.
 
-6. § (1) A felsőoktatási intézménynek biztosítania kell az ismeretek, információk tárgyilagos és többoldalú közvetítését. Az állami, a helyi és az országos nemzetiségi önkormányzati felsőoktatási intézmény nem lehet elkötelezett egyetlen vallás vagy világnézet mellett sem. Ha az állami, a helyi és az országos kisebbségi önkormányzati felsőoktatási intézmény vallási, illetve világnézeti információkat ad át, biztosítania kell azok tárgyilagos és többoldalú közvetítését. Az állami, a helyi és az országos kisebbségi önkormányzati felsőoktatási intézmény működése, tevékenysége és irányítása vallási és világnézeti tanítások igazságáról nem foglalhat állást, vallási és világnézeti kérdésekben semlegesnek kell maradnia.
+6. § (1) A felsőoktatási intézménynek biztosítania kell az ismeretek, információk tárgyilagos és többoldalú közvetítését. Az állami, a helyi és az országos kisebbségi önkormányzati felsőoktatási intézmény nem lehet elkötelezett egyetlen vallás vagy világnézet mellett sem. Ha az állami, a helyi és az országos kisebbségi önkormányzati felsőoktatási intézmény vallási, illetve világnézeti információkat ad át, biztosítania kell azok tárgyilagos és többoldalú közvetítését. Az állami, a helyi és az országos kisebbségi önkormányzati felsőoktatási intézmény működése, tevékenysége és irányítása vallási és világnézeti tanítások igazságáról nem foglalhat állást, vallási és világnézeti kérdésekben semlegesnek kell maradnia.
 
 (2) A felsőoktatási intézmény szervezete és működése pártoktól független, azoknak anyagi támogatást nem nyújthat. A felsőoktatási intézmény helyiségeit politikai célú szervezet, mozgalom vagy ezekhez kötődő szervezet részére működési célra nem engedheti át.
 
@@ -86,10 +86,10 @@ Az Országgyűlés annak érdekében, hogy Magyarország Európai Unióhoz tört
 
 7. § (1) Felsőoktatási intézményt önállóan vagy más jogosulttal együttesen
 
-- a) a magyar állam, helyi önkormányzat, országos nemzetiségi önkormányzat,
-- b) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerint nyilvántartásba vett egyház és annak belső egyházi jogi személye (a továbbiakban együtt: egyházi jogi személy),
-- c) a Magyarország területén székhellyel rendelkező gazdálkodó szervezet [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § c) pont],
-- d) a Magyarországon nyilvántartásba vett alapítvány vagy közalapítvány
+- a) a magyar állam, helyi önkormányzat, országos kisebbségi önkormányzat,
+- b) a Magyar Köztársaságban nyilvántartásba vett egyházi jogi személy, beleértve a jogi személyiséggel rendelkező szervezeti egységét is (a továbbiakban: egyházi jogi személy),
+- c) a Magyar Köztársaság területén székhellyel rendelkező gazdálkodó szervezet [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § c) pont],
+- d) a Magyar Köztársaságban nyilvántartásba vett alapítvány vagy közalapítvány
 
 alapíthat.
 
@@ -105,11 +105,11 @@ alapíthat.
 
 (7) A fenntartó felelőssége, hogy – az e törvényben meghatározottak szerint, költségvetési szervként működő felsőoktatási intézmény esetén az államháztartás működésének követelményeit érvényesítve – biztosítsa az intézmény autonóm működésének tárgyi, pénzügyi, személyi feltételeit.
 
-(8)
+(8) Költségvetési szervként működő felsőoktatási intézmény vállalkozó közintézet költségvetési szervként történő átsorolását – az államháztartásról szóló törvényben és e törvényben foglalt feltételek teljesülése esetén – az intézmény kezdeményezheti.
 
 8. § (1) A felsőoktatás által nyújtott képzésbe állampolgárságára való tekintet nélkül mindenki bekapcsolódhat, és szabadon választhatja meg azt a felsőoktatási intézményt, amelyben tanulmányokat kíván folytatni.
 
-(2) A felsőoktatásban folyó képzés nyelve a magyar. A nemzetiséghez tartozó hallgató – az e törvényben meghatározottak szerint – anyanyelvén, illetőleg anyanyelvén és magyarul vagy magyar nyelven folytathatja tanulmányait. A felsőoktatásban a képzés – részben vagy egészben – nem magyar nyelven is folyhat.
+(2) A felsőoktatásban folyó képzés nyelve a magyar. A nemzeti vagy etnikai kisebbséghez tartozó hallgató – az e törvényben meghatározottak szerint – anyanyelvén, illetőleg anyanyelvén és magyarul vagy magyar nyelven folytathatja tanulmányait. A felsőoktatásban a képzés – részben vagy egészben – nem magyar nyelven is folyhat.
 
 9. § (1) A felsőoktatás szervezésében, irányításában, működtetésében, feladatainak végrehajtásában közreműködők a hallgatókkal, az oktatókkal és a felsőoktatásban dolgozókkal kapcsolatos döntéseik, intézkedéseik meghozatalakor az egyenlő bánásmód követelményét kötelesek megtartani.
 
@@ -121,7 +121,7 @@ alapíthat.
 
 10. § (1) A felsőoktatási intézmény a Ptk. 29. §-ának (1) bekezdése alapján, az e törvényben meghatározottak szerint létrehozott és működő jogi személy. A felsőoktatási intézmény – a fenntartó személyétől függően – a költségvetési gazdálkodás rendje szerint, az egyházi gazdálkodás rendje szerint vagy a magán felsőoktatási intézmény gazdálkodási rendje szerint működik.
 
-(2) Az állami felsőoktatási intézmény tekintetében az államháztartásról szóló 2011. évi CXCV. törvényt (a továbbiakban: államháztartásról szóló törvény), az állami vagyonról szóló 2007. évi CVI. törvényt (a továbbiakban: az állami vagyonról szóló törvény), valamint a költségvetési szervként működő felsőoktatási intézmények tekintetében a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvényt (a továbbiakban: közalkalmazottak jogállásáról szóló törvény) az e törvényben meghatározott eltérésekkel kell alkalmazni.
+(2) Az állami felsőoktatási intézmény tekintetében az államháztartásról szóló 1992. évi XXXVIII. törvényt (a továbbiakban: államháztartásról szóló törvény), az állami vagyonról szóló 2007. évi CVI. törvényt (a továbbiakban: az állami vagyonról szóló törvény), valamint a költségvetési szervként működő felsőoktatási intézmények tekintetében a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvényt (a továbbiakban: közalkalmazottak jogállásáról szóló törvény) az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 (3) A felsőoktatási intézmény a fenntartó által biztosított és az államháztartás alrendszereiből származó támogatás, átvett pénzeszköz, valamint államháztartáson kívüli forrásból származó bevételei felhasználásával látja el feladatait.
 
@@ -150,7 +150,7 @@ is szervezhető.
 
 ### A FELSŐOKTATÁSI INTÉZMÉNY LÉTESÍTÉSE
 
-12. § (1) Felsőoktatási intézményként az az intézmény működhet, amelyet az e törvényben meghatározott felsőoktatási feladatok ellátására létesítettek, és az Országgyűléstől megkapta az állami elismerést.
+12. § (1) Felsőoktatási intézményként az az intézmény működhet, amelyet az e törvényben meghatározott felsőoktatási feladatok ellátására létesítettek, és a Magyar Köztársaság Országgyűlésétől megkapta az állami elismerést.
 
 (2) Állami elismerést az a felsőoktatási intézmény kaphat, amelyik rendelkezik a feladatai ellátásához szükséges feltételekkel, és az a)–d) pontok szerint választható képzési szerkezetben, legalább egy képzési, illetve tudományterületen több szakon
 
@@ -211,11 +211,11 @@ folytat.
 
 (12) A Kormány határozza meg a felsőoktatási intézmény, a diákotthon létesítésének és működésének minimális (kötelező) feltételeit, az alapításhoz szükséges kérelem mellékleteit, a kérelem elbírálásának szabályait. A felsőoktatási intézményre vonatkozóan minimális (kötelező) feltételként elő kell írni a feladatellátáshoz szükséges oktatói, kutatói létszám, az oktatáshoz, kutatáshoz szükséges helyiségek, szociális helyiségek, szabadidős létesítmények, informatikai háttér, eszközök, könyvtár, felszerelések, a működés fedezetét tükröző költségvetés, az intézményi dokumentumok meglétét.
 
-16. § (1) A felsőoktatási intézmény alapító okirata tartalmazza az intézmény hivatalos nevét, a fenntartójának nevét és címét, az alaptevékenységét, az alaptevékenységéhez kapcsolódó egyéb feladatokat, azokat a képzési területeket, tudományterületeket, képzési szinteket, amelyeken a felsőoktatási intézmény képzést folytat, illetve folytathat, feltüntetve a székhelyen kívüli képzést is, a felsőfokú szakképzés szakmacsoportjait, az ellátott közoktatási, közművelődési, közgyűjteményi, egészségügyi, agrár- és vidékfejlesztési, továbbá más feladatokat, a vállalkozási tevékenység megjelölését, az intézmény székhelyének és valamennyi telephelyének címét, a székhelyen kívüli képzés címét, a regionális központot, az intézmény szervezeti tagolását, a felsőoktatási intézmény rendelkezésére bocsátott ingatlanvagyont, a vagyon feletti rendelkezés jogát, a maximális hallgatói létszámot.
+16. § (1) A felsőoktatási intézmény alapító okirata tartalmazza az intézmény hivatalos nevét, a fenntartójának nevét és címét, az alap- és kiegészítő tevékenységét, az alaptevékenységéhez kapcsolódó egyéb feladatokat, azokat a képzési területeket, tudományterületeket, képzési szinteket, amelyeken a felsőoktatási intézmény képzést folytat, illetve folytathat, feltüntetve a székhelyen kívüli képzést is, a felsőfokú szakképzés szakmacsoportjait, az ellátott közoktatási, közművelődési, közgyűjteményi, egészségügyi, agrár- és vidékfejlesztési, továbbá más feladatokat, a vállalkozási tevékenység megjelölését, az intézmény székhelyének és valamennyi telephelyének címét, a székhelyen kívüli képzés címét, a regionális központot, az intézmény szervezeti tagolását, a felsőoktatási intézmény rendelkezésére bocsátott ingatlanvagyont, a vagyon feletti rendelkezés jogát, a maximális hallgatói létszámot.
 
 (2) A regisztrációs központ központi nyilvántartás keretében nyilvántartja az alapító okiratban, valamint a 2. számú melléklet II/A. részében megjelölt adatokat. A bejegyzett adatokban bekövetkezett változásokat be kell jelenteni. Az adatokban bekövetkező változás esetén a változások tekintetében a 15. §-ban szabályozott eljárásokat le kell folytatni. A nyilvántartásban szereplő adatok közérdekből nyilvánosak.
 
-(3) A költségvetési szervként működő felsőoktatási intézmény alapító okirata tartalmazza az intézmény vállalkozási tevékenységének felső határát.
+(3) A költségvetési szervként működő felsőoktatási intézmény alapító okirata az intézmény bevételeinek arányában meghatározva tartalmazza az intézmény kisegítő és vállalkozási tevékenységének felső határát. A költségvetési szerv megszüntetésével, átalakításával kapcsolatos feltételek szempontjából a kisegítő és vállalkozási tevékenységek előírt arányainak teljesülését három év vonatkozásában kell vizsgálni. A költségvetési szervek jogállásáról és gazdálkodásáról szóló 2008. évi CV. törvény (a továbbiakban: költségvetési szervek jogállásáról szóló törvény) 14. §-ától eltérően a költségvetési szervként működő felsőoktatási intézmény alapító okirata az intézmény – e törvényben meghatározott típusú – szervezeti egységét ruházhatja fel jogi személyiséggel.
 
 17. § (1) A nem állami felsőoktatási intézmény fenntartói joga megállapodással másik, a fenntartói jog gyakorlására jogosultnak átadható. Ha a felsőoktatási intézmény fenntartójának személyében következik be változás anélkül, hogy az érintené a felsőoktatási intézmény tevékenységét és működését, a regisztrációs központ azt vizsgálja, hogy az új fenntartó rendelkezik-e a felsőoktatási intézmény folyamatos működtetéséhez szükséges feltételekkel. A fenntartói jog átadása tárgyában kötött megállapodás a regisztrációs központ határozatának jogerőre emelkedésével jön létre.
 
@@ -225,7 +225,7 @@ folytat.
 
 18. § (1) A felsőoktatási intézmény egyetem vagy főiskola lehet.
 
-(2) Az „egyetem” vagy „főiskola” elnevezés, valamint ezek idegen nyelvű megfelelői használatára csak az e törvény 1. számú melléklete szerinti – továbbá az e törvény alapján a Magyarország területén működő külföldi – felsőoktatási intézmény jogosult.
+(2) Az „egyetem” vagy „főiskola” elnevezés, valamint ezek idegen nyelvű megfelelői használatára csak az e törvény 1. számú melléklete szerinti – továbbá az e törvény alapján a Magyar Köztársaság területén működő külföldi – felsőoktatási intézmény jogosult.
 
 (3) Egyetem az a felsőoktatási intézmény, amelyik legalább két képzési területen jogosult mesterképzésre, valamint legalább egy tudományterületen doktori képzésre és doktori fokozat odaítélésére, feltéve, hogy a felsőoktatási intézmény munkaviszony, illetve közalkalmazotti jogviszony keretében foglalkoztatott oktatóinak, kutatóinak legalább egyharmada tudományos fokozattal rendelkezik.
 
@@ -277,7 +277,7 @@ folytat.
 
 (5) A szervezeti és működési szabályzat kérdéskörei a szervezeti és működési szabályzat mellékleteként is szabályozhatók.
 
-(6) A felsőoktatási intézmény e törvényben meghatározott intézményfejlesztési terv, kutatási-fejlesztési-innovációs stratégia alapján minőségfejlesztési programot készít. Az intézményi minőségfejlesztési programban kell meghatározni a képzési program, a tudományos kutatás, művészeti alkotótevékenység, a hallgatók értékelésének, az oktatás személyi és infrastrukturális feltételei, a tanulástámogatás eszközei, a hallgatói szolgáltatások, a belső információs rendszer és a nyilvánosság fejlesztésére irányuló célokat. A felsőoktatási intézmény évente áttekinti az intézményi minőségfejlesztési program végrehajtását, és megállapításait – az erről szóló jelentés elfogadásától számított legfeljebb harminc napon belül – az intézmény honlapján, továbbá a helyben szokásos módon nyilvánosságra hozza.
+(6) A felsőoktatási intézmény e törvényben meghatározott intézményfejlesztési terv, kutatási-fejlesztési-innovációs stratégia, állami felsőoktatási intézményekben a fenntartói megállapodásban vállalt teljesítménykövetelmények alapján minőségfejlesztési programot készít. Az intézményi minőségfejlesztési programban kell meghatározni a képzési program, a tudományos kutatás, művészeti alkotótevékenység, a hallgatók értékelésének, az oktatás személyi és infrastrukturális feltételei, a tanulástámogatás eszközei, a hallgatói szolgáltatások, a belső információs rendszer és a nyilvánosság fejlesztésére irányuló célokat. A felsőoktatási intézmény évente áttekinti az intézményi minőségfejlesztési program végrehajtását, és megállapításait – az erről szóló jelentés elfogadásától számított legfeljebb harminc napon belül – az intézmény honlapján, továbbá a helyben szokásos módon nyilvánosságra hozza.
 
 (7) A szervezeti és működési szabályzatot a helyben szokásos módon nyilvánosságra kell hozni, és a hallgatók részére hozzáférhetővé kell tenni.
 
@@ -299,37 +299,32 @@ folytat.
 
 23. § (1) A gazdasági tanács a felsőoktatási intézmény feladatainak végrehajtása megalapozásában, a rendelkezésére bocsátott források, eszközök, a közpénz, a közvagyon hatékony és felelős használatát segítő gazdasági stratégiai döntéseket előkészítő és végrehajtásuk ellenőrzésében részt vevő, a fenntartói döntések előkészítésében – e törvényben meghatározottak szerint – közreműködő testület.
 
-(2) Az állami fenntartású felsőoktatási intézményben a gazdasági tanácsot létre kell hozni, a nem állami felsőoktatási intézményekben – az alapító okiratban meghatározottak szerint – a gazdasági tanács létrehozható.
+(2) Az állami fenntartású felsőoktatási intézményben a gazdasági tanácsot létre kell hozni, a nem állami felsőoktatási intézményekben – az alapító okiratban meghatározottak szerint – a gazdasági tanács létrehozható. Ha az államháztartásról szóló törvény és annak végrehajtási rendelete a költségvetési szervek felépítésével, működésével kapcsolatosan felügyelő testületet említ, azon az állami felsőoktatási intézmények vonatkozásában az e törvény által meghatározott gazdasági tanácsot kell érteni.
 
-(3) A gazdasági tanácsnak kilenc tagja van. A gazdasági tanács tagja az lehet, aki felsőfokú végzettséggel rendelkezik. A gazdasági tanács tagjainak a megbízatása öt évre szól, amely legfeljebb egy alkalommal meghosszabbítható.
+(3) A gazdasági tanácsnak hét vagy kilenc tagja van. A gazdasági tanács létszámát a működés megkezdéséhez szükséges engedélyben meghatározott hallgatói létszám adatai alapján kell meghatározni a következők szerint: ha a felsőoktatási intézmény maximális hallgatói létszáma
 
-(4) A gazdasági tanácsba három főt delegál a szenátus, ebből egy tagot a hallgatói önkormányzat javaslata alapján. A gazdasági tanácsnak – a delegált tagokon felül – hivatalból tagja a rektor és a gazdasági főigazgató, ennek hiányában a gazdasági igazgató. A szenátus által delegált tagok egyike
+- a) nem éri el a tizenötezret, hét,
+- b) eléri a tizenötezret, kilenc
 
-- a) jogász, vagy a gazdaságtudományok képzési területen mesterképzésben szerzett, vagy azzal egyenértékű szakképzettséggel kell hogy rendelkezzen,
-- b) nem állhat a felsőoktatási intézménnyel foglalkoztatásra irányuló jogviszonyban.
+tagból áll. A gazdasági tanács tagja az lehet, aki felsőfokú végzettséggel rendelkezik. A gazdasági tanács tagjainak a megbízatása öt évre szól, amely legfeljebb egy alkalommal meghosszabbítható.
 
-(5) A gazdasági tanácsba egy-egy tagot delegál
+(4) A gazdasági tanácsba – a (3) bekezdésben meghatározott sorrend szerint – három, illetve négy főt delegál a szenátus, ebből egy tagot a hallgatói önkormányzat javaslata alapján. A gazdasági tanácsnak – a delegált tagokon felül – hivatalból tagja a rektor és a gazdasági főigazgató, ennek hiányában gazdasági igazgató. A szenátus által delegáltak közül legalább egy tagnak jogász, vagy a gazdaságtudományok képzési területen mesterképzésben szerzett, vagy azzal egyenértékű szakképzettséggel kell rendelkeznie. A szenátus által delegált tagok legalább fele nem állhat a felsőoktatási intézménnyel foglalkoztatásra irányuló jogviszonyban.
 
-- a) a miniszter,
-- b) a kormányzati tevékenység összehangolásáért felelős miniszter,
-- c) az állami vagyon felügyeletéért felelős miniszter,
-- d) az államháztartásért felelős miniszter.
+(5) A miniszter – a (3) bekezdésben meghatározott sorrend szerint – a gazdasági tanácsba két, illetve három főt, ebből egy tagot az államháztartásért felelős miniszter javaslata alapján delegál. A miniszter által delegált tagok közül legalább egynek a felsőoktatási intézmény oktatási, tudományos kutatási, művészeti tevékenységének megfelelő felsőfokú végzettséggel, továbbá a szakképzettségének megfelelő területen szerzett legalább öt év vezetői gyakorlattal kell rendelkeznie.
 
-(6) A gazdasági tanács tagjai részére a delegálók utasítást nem adhatnak. A gazdasági tanács 23. § (5) bekezdése szerint delegált tagjai tevékenységükért díjazásra nem jogosultak. 2010. január 1-jétől kezdődően a (4)–(5) bekezdés alapján történő delegálás, megismételt delegálás esetén a gazdasági tanács tagjával a felsőoktatási intézmény létesít megbízási jogviszonyt.
+(6) A gazdasági tanács tagjai részére a delegálók utasítást nem adhatnak. 2010. január 1-jétől kezdődően a (4) és (5) bekezdés alapján történő delegálás, megismételt delegálás esetén a gazdasági tanács tagjával a felsőoktatási intézmény létesít megbízási jogviszonyt.
 
 (7) Nem lehet tagja a gazdasági tanácsnak az, aki
 
 - a) büntetett előéletű,
-- b) polgármesteri tisztséget tölt be,
-- c) a központi államigazgatási szervekről, valamint a Kormány tagja és az államtitkárok jogállásáról szóló törvény szerint politikai vezetőnek minősülő állami vezetői tisztséget tölt be,
+- b) köztisztviselő, vagy polgármesteri tisztséget tölt be,
+- c) a Kormány tagjai és az államtitkárok jogállásáról és felelősségéről szóló törvény hatálya alá tartozik,
 - d) politikai pártban tisztséget tölt, illetve töltött be, fizetett pártalkalmazottként foglalkoztatták vagy foglalkoztatják, feltéve, hogy a kizáró ok megszűnése óta még nem telt el legalább öt év,
 - e) önkormányzati, országgyűlési vagy európai parlamenti képviselő,
 - f) tagja a szenátusnak,
-- g) tagja – a 23. § (5) bekezdés szerint delegált tagok kivételével – más felsőoktatási intézmény gazdasági tanácsának,
+- g) tagja más felsőoktatási intézmény gazdasági tanácsának,
 - h) az állami felsőoktatási intézmények kivételével, a miniszter felügyelete alatt álló költségvetési szervvel közalkalmazotti jogviszonyban áll,
-- i) betöltötte a hetvenedik életévét,
-- j) más felsőoktatási intézmény szenátusának a tagja,
-- k) más felsőoktatási intézmény vezető beosztású alkalmazottja.
+- i) betöltötte a hetvenedik életévét.
 
 (8) A rektor tekintetében – az a) és a g)–i) pont kivételével – a (7) bekezdésben foglaltakat nem kell alkalmazni.
 
@@ -352,10 +347,10 @@ folytat.
 
 24. § (1) A gazdasági tanács – a szervezeti és működési szabályzat keretei között – dönt működésének rendjéről, azzal a megkötéssel, hogy
 
-- a) szükség szerint, de legalább kéthavonta ülésezik,
-- b) határozatképes, ha azon 7 tag jelen van,
+- a) szükség szerint, de félévente legalább két alkalommal ülésezik,
+- b) határozatképes, ha azon – a 23. § (3) bekezdésben meghatározott sorrend szerint – 5, illetve 7 tag jelen van,
 - c) a gazdasági tanács döntéseihez a jelenlévő szavazásra jogosult tagok többségének támogatásával hozott döntése szükséges,
-- d) a gazdasági tanács vezetőjének megbízásával kapcsolatos döntéshez öt támogató szavazatra van szükség. Nem vehet részt a szavazásban az, akinek jogaira vagy kötelezettségeire a döntés kihatással lehet, illetve az, akitől az ügynek tárgyilagos megítélése egyéb okból nem várható (elfogultság).
+- d) a gazdasági tanács vezetőjének megbízásával kapcsolatos döntéshez – a 23. § (3) bekezdésben meghatározott sorrend szerint – legalább négy, illetve öt támogató szavazatra van szükség. Nem vehet részt a szavazásban az, akinek jogaira vagy kötelezettségeire a döntés kihatással lehet, illetve az, akitől az ügynek tárgyilagos megítélése egyéb okból nem várható (elfogultság).
 
 (2) A gazdasági tanács megalakulását a rektor készíti elő. A gazdasági tanács ülésére a 28. § (1) bekezdés c) pontja szerinti szakszervezeti képviselőt – több szakszervezeti képviselő esetén a szakszervezet, vagy szakszervezetek által kiválasztott egy szakszervezeti képviselőt – tanácskozási joggal meg kell hívni, ha a szakszervezeti tagok létszáma az oktatók és kutatók együttes létszámának egyharmadát eléri.
 
@@ -372,22 +367,23 @@ folytat.
   - ah) a felsőoktatási intézmény rendelkezésére bocsátott, valamint a tulajdonában lévő ingó – ideértve a szellemi terméket, más vagyoni értékű jogokat – és ingatlanvagyon hasznosítását, elidegenítését,
   - ai) együttműködési megállapodás megkötését,
   - aj) a felsőoktatási intézmény szervezete, szervezeti egysége létesítését, átalakítását, megszüntetését,
-  - ak)
-  - al)
-  - ba) a felsőoktatási intézmény vagy az intézmény tulajdonában álló, vagy többségi részesedésével működő jogi személyek által készített, egymilliárd forintot meghaladó támogatási igényű, illetve az intézmény költségvetését önrész biztosításával terhelő pályázatokat,
+  - ak) a költségvetési szervként működő felsőoktatási intézmény 30. § (3) bekezdés szerinti szervezeti egységének jogi személyiséggel történő felruházásával kapcsolatos kezdeményezést,
+  - al) az intézmény 7. § (8) bekezdés szerinti átsorolását;
+- b) gazdasági szempontból véleményezi
+  - ba) a felsőoktatási intézmény által készített, egy milliárd forintot meghaladó támogatási igényű, illetve az intézmény költségvetését önrész biztosításával terhelő pályázatokat,
   - bb) a felsőoktatási intézmény kutatási-fejlesztési-innovációs stratégiáját,
   - bc) a felsőoktatási intézmény kutatási programját;
 - c) dönt azokban az ügyekben, amelyek ellátására a szenátus felhatalmazta.
 
 (2) A gazdasági tanács figyelemmel kíséri a felsőoktatási intézmény gazdálkodásában a szakmai hatékonyság és a gazdaságosság követelményeinek érvényesítését. Rendszeresen – de évente legalább két alkalommal – áttekinti a felsőoktatási intézmény működését, gazdálkodását, az alapító okiratában meghatározott feladatok végrehajtását. Figyelemmel kíséri, hogy a felsőoktatási intézmény szervezeti rendje igazodik-e a feladatok hatékony ellátásához.
 
-(3) A gazdasági tanács a szenátusnál, annak eredménytelensége esetén a fenntartónál köteles jelezni, ha megítélése szerint a felsőoktatási intézmény a gazdálkodásával, a rendelkezésére bocsátott vagy tulajdonában lévő ingatlanvagyon működtetésével, hasznosításával, elidegenítésével kapcsolatosan hozott döntésével veszélyezteti a felsőoktatási intézmény működését. Állami felsőoktatási intézmény esetében e bekezdés vonatkozásában fenntartón az állami vagyon felügyeletéért felelős minisztert kell érteni.
+(3) A gazdasági tanács a szenátusnál, annak eredménytelensége esetén a fenntartónál jelzéssel élhet, ha megítélése szerint a felsőoktatási intézmény a gazdálkodásával, a rendelkezésére bocsátott vagy tulajdonában lévő ingatlanvagyon működtetésével, hasznosításával, elidegenítésével kapcsolatosan hozott döntésével veszélyezteti a felsőoktatási intézmény működését.
 
 (4) A szervezeti és működési szabályzatban meg kell határozni azt az összeget, amely felett a gazdasági tanács véleményét a kötelezettségvállaláshoz be kell szerezni.
 
 (5)
 
-26. § (1) A gazdasági tanácsi tagság megszűnik a megbízatás lejártával, a tag lemondásával, illetőleg visszahívásával. A gazdasági tanácsba delegálási joggal rendelkező jogosult az általa delegált tagot visszahívni. A lemondás elfogadása, illetve a visszahívás – a (3) bekezdésben meghatározott eset kivételével – a delegáló hatáskörébe tartozik.
+26. § (1) A gazdasági tanácsi tagság megszűnik a megbízatás lejártával, a tag lemondásával, illetőleg – a (2) és (3) bekezdésben meghatározott okok esetében – visszahívásával. A lemondás elfogadása, illetve a visszahívás – a (3) bekezdésben meghatározott eset kivételével – a delegáló hatáskörébe tartozik.
 
 (2) A gazdasági tanács elnökének – az elnök esetén a tanács tagjának – kezdeményezésére vissza kell hívni azt a tagot,
 
@@ -402,7 +398,7 @@ folytat.
 
 (4) Lemondás és visszahívás esetén az, aki az érintett tagot delegálta, harminc napon belül új tagot köteles delegálni. Az eljárásra alkalmazni kell a 23. §-ban meghatározottakat. Az újonnan megválasztott tag megbízatása öt évre szól függetlenül attól, hogy a lemondott, illetve visszahívott tag megbízatásából mennyi idő telt el.
 
-(5) Ha a nem állami felsőoktatási intézményben hoznak létre gazdasági tanácsot, a miniszter, a kormányzati tevékenység összehangolásáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, az államháztartásért felelős miniszter 23. §-ban és 26. §-ban meghatározott jogait és kötelességeit a fenntartó gyakorolja. A kincstár képviselőjére vonatkozó rendelkezéseket nem kell alkalmazni.
+(5) Ha a nem állami felsőoktatási intézményben hoznak létre gazdasági tanácsot, a miniszter jogait és kötelességeit a fenntartó gyakorolja. A kincstár képviselőjére vonatkozó rendelkezéseket nem kell alkalmazni.
 
 ### A szenátus
 
@@ -429,7 +425,7 @@ folytat.
 - a) a hallgatói tanácsadás rendszerét,
 - b) az oktatói munka hallgatói véleményezési rendszerét.
 
-(8) A szenátus az a)-m) pont tekintetében dönt, illetve az n)-q) pont tekintetében dönthet
+(8) A szenátus az a)–m) és r)–s) pont tekintetében dönt, illetve az n)–q) pont tekintetében dönthet
 
 - a) fejlesztés indításáról,
 - b) gazdálkodó szervezet alapításáról, gazdálkodó szervezetben részesedés szerzéséről [121. §], gazdálkodó szervezettel történő együttműködésről, feltéve, ha azt a gazdasági tanács tagjai legalább kétharmadának igenlő szavazatával meghozott véleménye támogatja,
@@ -450,8 +446,8 @@ folytat.
 - o) a doktori iskola létesítéséről, megszüntetéséről és a doktori képzés indításáról,
 - p) a habilitációs eljárás szabályozásáról,
 - q) címek és kitüntetések adományozásáról,
-- r)
-- s)
+- r) a költségvetési szervként működő felsőoktatási intézmény 30. § (3) bekezdés szerinti szervezeti egységének jogi személyiséggel történő felruházásával kapcsolatos kezdeményezésről,
+- s) az e törvény 7. §-ának (8) bekezdése szerinti átsorolás kezdeményezéséről.
 
 (9) A szenátus hatáskörébe tartozik továbbá
 
@@ -475,7 +471,7 @@ folytat.
 
 28. § (1) Az állami felsőoktatási intézményben a szenátus tagjai – a rektor kivételével – választás útján nyerik el megbízatásukat. A szenátus létrehozásával, működésével, tagjai megbízatásának megszűnésével, a megbízás, a delegálás jogszerűségének vizsgálatával, a kapcsolódó jogorvoslattal, a szenátus napirendjének előkészítésével kapcsolatos kérdéseket a felsőoktatási intézmény szervezeti és működési szabályzatában kell meghatározni, a következők figyelembevételével:
 
-- a) a szenátus létszáma nem lehet kevesebb kilenc főnél, továbbá az oktatók és kutatók által választott tagoknak – az elnökkel együtt – a testület tagjainak többségét kell alkotniuk,
+- a) a szenátus létszáma – a 23. § (3) bekezdésében meghatározottak figyelembevételével – nem lehet kevesebb hét, illetve kilenc főnél, továbbá az oktatók és kutatók által választott tagoknak – az elnökkel együtt – a testület tagjainak többségét kell alkotniuk,
 - b) a hallgatói önkormányzat a 78. § (4) bekezdésében meghatározottak szerint delegálja képviselőit,
 - c) az egyéb munkakörben foglalkoztatott tagok, a reprezentatív szakszervezetek képviselőinek létszáma nem lehet kevesebb, mint a szenátus létszámának öt-öt százaléka, de legalább egy-egy fő,
 - d) a szenátus tagjainak megbízatása legalább három és legfeljebb öt év, a hallgatói önkormányzat képviselője esetében legalább egy és legfeljebb három év lehet,
@@ -488,7 +484,7 @@ folytat.
 
 (2) A szenátus a feladatkörébe tartozó ügyek előkészítésére, meghatározott időre vagy alkalmilag bizottságot hozhat létre.
 
-(3) A szenátus döntéseinek meghozatalát és végrehajtását átruházhatja a felsőoktatási intézmény egyes szervezeti egységeire, illetve a szervezeti egységekben foglalkoztatott oktatók és hallgatók közösségére, a szervezeti egységekben létrehozott testületekre. Nem ruházhatók át a 27. § (3)–(4) és (6)–(7) bekezdésében, a (8) bekezdés a)–i) pontjában, valamint a k)–l) pontjában és az o)–p) pontjában, a (9) bekezdés a)–b) és d) pontjában meghatározott jogkörök. A hallgatói önkormányzat részvételét a döntéshozatali eljárásban – az (1) bekezdés b) pontjában és a 27. § (11) bekezdésében meghatározottak szerint – biztosítani kell akkor is, ha a szenátus döntésének meghozatalát átruházta.
+(3) A szenátus döntéseinek meghozatalát és végrehajtását átruházhatja a felsőoktatási intézmény egyes szervezeti egységeire, illetve a szervezeti egységekben foglalkoztatott oktatók és hallgatók közösségére, a szervezeti egységekben létrehozott testületekre. Nem ruházhatók át a 27. § (3)–(4) és (6)–(7) bekezdésében, a (8) bekezdés a)–i) pontjában, valamint a k)–l) pontjában és az o)–p), r)–s) pontjában, a (9) bekezdés a)–b) és d) pontjában meghatározott jogkörök. A hallgatói önkormányzat részvételét a döntéshozatali eljárásban – az (1) bekezdés b) pontjában és a 27. § (11) bekezdésében meghatározottak szerint – biztosítani kell akkor is, ha a szenátus döntésének meghozatalát átruházta.
 
 (4) A 25. § (1) bekezdésben meghatározott kérdésekben – a szenátus, vagy a szenátus felhatalmazása alapján más szervezeti egység, közösség, testület által – hozott döntések előkészítése során a döntési javaslathoz a gazdasági tanács által megfogalmazott írásos véleményt is mellékelni kell.
 
@@ -518,11 +514,11 @@ folytat.
 - b) szolgáltató,
 - c) funkcionális
 
-szervezeti egységeket hozhat létre és működtethet oly módon, hogy ne keletkezzen indokolatlan párhuzamosság a feladatellátás megszervezésekor.
+szervezeti egységeket hozhat létre és működtethet oly módon, hogy ne keletkezzen indokolatlan párhuzamosság a feladatellátás megszervezésekor. A felsőoktatási intézmény oktatási alaptevékenységének körébe tartozó feladatot ellátó szervezeti egysége jogi személyiségű szervezeti egység formájában nem működtethető.
 
 (2) A felsőoktatási intézmény oktatási és tudományos kutatási szervezeti egységei különösen: a kar, a tanszék, az intézet, a botanikuskert, a klinika, a kutatóintézet, a kutatócsoport, a tangazdaság. Ha a felsőoktatási intézmény több telephelyén indít alap- vagy mesterképzést, az intézmény képzési programjában kell meghatározni, hogy melyik oktatási szervezeti egység felel a képzésért. Egy szak képzésért egy oktatási szervezeti egység lehet a felelős. Ha a felvételi jelentkezések csökkenése miatt, illetve más okból az adott szakot az intézmény a továbbiakban nem indítja, az indításra vonatkozó jogosultsági bejegyzést a regisztrációs központ a nyilvántartásából törölte, a szenátusnak az intézményfejlesztési terv, valamint a képzési program felülvizsgálatával egyidejűleg a 27. § (8) bekezdés f) pontjában meghatározott jogkörében kell döntést hoznia.
 
-(3) A felsőoktatási intézményben kollégiumi, informatikai, szociális, kulturális, sport, könyvtári, levéltári, múzeumi, egészségügyi szolgáltató és egyéb (például: közoktatási, gyakorlati képzést biztosító tanműhely, művészeti gyakorlóhely, valamint termelő) feladatot ellátó szervezeti egység hozható létre.
+(3) A felsőoktatási intézményben kollégiumi, informatikai, szociális, kulturális, sport, könyvtári, levéltári, múzeumi, egészségügyi szolgáltató és egyéb (például: közoktatási, gyakorlati képzést biztosító tanműhely, művészeti gyakorlóhely, valamit termelő) feladatot ellátó szervezeti egység hozható létre. Jogi személyiségű szervezeti egységként különösen az egészségügyi szolgáltató tevékenységet ellátó szervezeti egység működhet. A jogi személyiségű szervezeti egység a 36/C. §-ban, a 36/G. §-ban, a 136/B. §-ban és a 142/A. §-ban meghatározott szabályok szerint működtethető.
 
 (4) A felsőoktatási intézmény működtetési feladatainak ellátásához gazdasági, továbbá belső ellenőrzési feladatot ellátó funkcionális szervezeti egységet hoz létre, valamint igazgatási, szervezési (a továbbiakban: igazgatási feladatot ellátó hivatal), műszaki szolgáltató és más, a működést biztosító funkcionális szervezeti egységet hozhat létre. A gazdasági és ellenőrzési szervezet irányítását a rektor látja el.
 
@@ -559,7 +555,7 @@ szervezeti egységeket hozhat létre és működtethet oly módon, hogy ne kelet
 
 (5) Az alapképzésben alapfokozat (baccalaureus, bachelor) és szakképzettség szerezhető. Az alapfokozat az első felsőfokú végzettségi szint, amely feljogosít a mesterképzés megkezdésére. Az alapképzésben szerzett szakképzettség jogszabályban meghatározottak szerinti munkakör betöltésére jogosít. Az alapképzés képzési és kimeneti követelményei határozzák meg, hogy milyen szakképzettséget lehet szerezni az alapképzésben. A gyakorlatigényes alapképzési szakokban egy félévig tartó szakmai gyakorlatot (a továbbiakban: szakmai gyakorlat) kell szervezni. A szakmai gyakorlat teljesítése feltétele a záróvizsgára bocsátásnak. Az alapképzésben legalább száznyolcvan kreditet – szakmai gyakorlat esetén legalább kettőszáztíz kreditet – kell és legfeljebb kétszáznegyven kreditet lehet teljesíteni. A képzési idő legalább hat, legfeljebb nyolc félév.
 
-(6) A mesterképzésben mesterfokozat (magister, master) és szakképzettség szerezhető. A mesterfokozat a második felsőfokú végzettségi szint. A mesterképzés képzési és kimeneti követelményei határozzák meg, hogy milyen szakképzettség szerezhető a mesterképzésben. A mesterképzésben szerzett szakképzettség jogszabályban meghatározottak szerinti munkakör betöltésére jogosít. A mesterképzésben – figyelembe véve a (7) bekezdésben meghatározottakat – legalább hatvan kreditet kell és legfeljebb százhúsz kreditet lehet megszerezni. A képzési idő legalább két, legfeljebb négy félév. A mesterfokozatot eredményező képzésre épülő mesterképzésben hatvan kreditet lehet megszerezni, a képzési idő két félév.
+(6) A mesterképzésben mesterfokozat (magister, master) és szakképzettség szerezhető. A mesterfokozat a második felsőfokú végzettségi szint. A mesterképzés képzési és kimeneti követelményei határozzák meg, hogy milyen szakképzettség szerezhető a mesterképzésben. A mesterképzésben szerzett szakképzettség jogszabályban meghatározottak szerinti munkakör betöltésére jogosít. A mesterképzésben – figyelembe véve a (7) bekezdésben meghatározottakat – legalább hatvan kreditet kell és legfeljebb százhúsz kreditet lehet megszerezni. A képzési idő legalább két, legfeljebb négy félév.
 
 (7) Az egységes, osztatlan képzésben legalább háromszáz kreditet kell és legfeljebb háromszázhatvan kreditet lehet megszerezni. A képzési idő legalább tíz és legfeljebb tizenkét félév.
 
@@ -567,7 +563,7 @@ szervezeti egységeket hozhat létre és működtethet oly módon, hogy ne kelet
 
 (9) A képzési program része a doktori képzés, amely a mesterfokozat megszerzését követő képzésben a doktori fokozat megszerzésére készít fel. Doktori képzésben legalább száznyolcvan kreditet kell szerezni. A képzési idő hat félév.
 
-(10) Az alap- és mesterszak indításával kapcsolatos dokumentációt, illetve a doktori iskola szabályzatát a rektor megküldi a Magyar Felsőoktatási Akkreditációs Bizottságnak. A képzés akkor indítható, ha azt a Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleményében támogatta, továbbá az indítás tényét a felsőoktatási intézmény a regisztrációs központnak bejelentette. A Magyar Felsőoktatási Akkreditációs Bizottság támogatásának hiányában képzés akkor indítható, ha ahhoz a felsőoktatási intézmény a 106. §-ban meghatározott eljárásban az engedélyt megkapta. A felsőoktatási intézmény Magyarország területén csak székhelyén vagy telephelyén indíthat alap- vagy mesterképzést.
+(10) Az alap- és mesterszak indításával kapcsolatos dokumentációt, illetve a doktori iskola szabályzatát a rektor megküldi a Magyar Felsőoktatási Akkreditációs Bizottságnak. A képzés akkor indítható, ha azt a Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleményében támogatta, továbbá az indítás tényét a felsőoktatási intézmény a regisztrációs központnak bejelentette. A Magyar Felsőoktatási Akkreditációs Bizottság támogatásának hiányában képzés akkor indítható, ha ahhoz a felsőoktatási intézmény a 106. §-ban meghatározott eljárásban az engedélyt megkapta. A felsőoktatási intézmény a Magyar Köztársaság területén csak székhelyén vagy telephelyén indíthat alap- vagy mesterképzést.
 
 (11) A Kormány határozza meg
 
@@ -603,23 +599,13 @@ szervezeti egységeket hozhat létre és működtethet oly módon, hogy ne kelet
 
 (2) A felsőoktatási információs rendszerbe – kormányrendeletben meghatározottak szerint – kötelesek adatot szolgáltatni az intézményfenntartók, illetve a felsőoktatási intézmények. A felsőoktatási intézmény a felsőoktatási alaptevékenységének megkezdését követő harminc napon belül köteles bejelentkezni a felsőoktatási információs rendszerbe. A felsőoktatási információs rendszer működéséért felelős szerv a bejelentkezéstől számított tizenöt napon belül intézményi azonosító (a továbbiakban: OM-azonosító) számot ad a felsőoktatási intézménynek.
 
-(2a) A felsőoktatási információs rendszer működéséért felelős szerv a felsőoktatási információs rendszerben nyilvántartott személyek természetes személyazonosító adatairól és lakcíméről – azonosítás céljából – térítésmentesen, elektronikus úton adatot igényelhet a személyiadat- és lakcímnyilvántartásból.
-
 (3) A felsőoktatási információs rendszer működéséért felelős szerv annak, akit oktatói, kutatói, illetve tanári munkakörben foglalkoztatnak, oktatói azonosító számot ad ki. Az azonosító szám a tanári, az oktatói, illetve a kutatói munkakörben történő foglalkoztatás figyelemmel kísérésére szolgál. A felsőoktatási információs rendszer tartalmazza azoknak a nyilvántartását, akik azonosító számmal rendelkeznek, továbbá azokét, akik a 83. § (4) bekezdése szerint megbízási jogviszonyban oktatói feladatot látnak el. A nyilvántartás a 2. számú mellékletben meghatározott adatokat tartalmazza. A nyilvántartásból személyes adat – az érintetten kívül – csak az egyes, a foglalkoztatáshoz kapcsolódó juttatások jogszerű igénybevételének megállapítása céljából továbbítható, a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére. Az információs rendszerben adatot az érintett foglalkoztatásának megszűnésére vonatkozó bejelentéstől számított öt évig lehet kezelni, kivéve, ha ez alatt az idő alatt az érintettet ismét bejelentik a nyilvántartásba.
 
 (4) A felsőoktatási információs rendszer működéséért felelős szerv a hallgatóknak hallgatói azonosító számot ad ki. Az azonosító szám a hallgatói jogviszonnyal összefüggő jogok és kötelezettségek érvényesülésének figyelemmel kísérésére szolgál. Nem kell új azonosító számot adni annak, aki a közoktatásban kapott tanulói azonosító számot. A felsőoktatás információs rendszere tartalmazza a hallgatói nyilvántartást. A hallgatói nyilvántartás a 2. számú mellékletben meghatározott adatokat tartalmazza. A hallgatói nyilvántartásból személyes adat – az érintetten kívül – csak hallgatói jogviszonyhoz kapcsolódó juttatás, illetőleg a hallgatói hitel jogszerű igénybevételének megállapítása céljából továbbítható a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére. A hallgatói nyilvántartásban adatot a hallgatói jogviszony megszűnésére vonatkozó bejelentéstől számított nyolcvan évig lehet kezelni.
 
-(5) A munkáltató a munkaviszonyban, közalkalmazotti jogviszonyban foglalkoztatott tanárnak, oktatónak, kutatónak – kérelemre – oktatói, kutatói, tanári igazolványt (a továbbiakban: oktatói igazolvány) ad ki. Az oktatói igazolványt a felsőoktatási információs rendszer működéséért felelős szerv készítteti el, és küldi meg a munkáltatón keresztül a jogosult részére. Az oktatói igazolvány tartalmazza az igazolvány számát, a jogosult nevét, anyja nevét, születési helyétés idejét, a felsőoktatási intézmény nevét, címét és OM-azonosítóját, a jogosult fényképét és aláírását. Az oktatói igazolványt jogszabályban meghatározottak szerint kell igényelni. Az igényléshez szükséges adatok továbbíthatók. Az oktatói igazolvány elkészítője az adatokat az igazolvány érvényességének megszűnését követő öt évig kezelheti.
+(5) A munkáltató a munkaviszonyban, közalkalmazotti jogviszonyban foglalkoztatott tanárnak, oktatónak, kutatónak – kérelemre – oktatói, kutatói, tanári igazolványt (a továbbiakban: oktatói igazolvány) ad ki. Az oktatói igazolványt a felsőoktatási információs rendszer működéséért felelős szerv készítteti el, és küldi meg a munkáltatón keresztül a jogosult részére. Az oktatói igazolvány tartalmazza az igazolvány számát, a jogosult nevét, anyja nevét, születési helyét és idejét, a felsőoktatási intézmény nevét, címét és OM-azonosítóját, a jogosult fényképét és aláírását. Az oktatói igazolványt jogszabályban meghatározottak szerint kell igényelni. Az igényléshez szükséges adatok továbbíthatók. Az oktatói igazolvány elkészítője az adatokat az igazolvány érvényességének megszűnését követő öt évig kezelheti.
 
-(6) A hallgató vagy a hallgató kérelmére a felsőoktatási intézmény diákigazolvány kiadását kezdeményezi a felsőoktatási információs rendszer működéséért felelős szervnél. A diákigazolvány elkészítéséről a felsőoktatási információs rendszer működéséért felelős szerv gondoskodik, amelyet az adatfeldolgozó útján küld meg a jogosult részére.
-
-(6a) A diákigazolvány tartalmazza a diákigazolvány számát, a hallgató nevét, születési helyét és idejét, lakcímét és aláírását. A diákigazolvány tartalmazza továbbá a hallgató fényképét, azonosító számát, a felsőoktatási intézmény nevét és címét, a diákigazolvány lejáratának időpontját, az érvényességére vonatkozó adatot és típusának megjelölését. A felsőoktatási információs rendszer működéséért felelős szerv a diákigazolvány elkészítése körében tudomására jutott személyes adatot a diákigazolvány hatályának megszűnését követő öt évig kezelheti.
-
-(6b) A diákigazolvány elkészítésére irányuló eljárásban – ha jogszabály másként nem rendelkezik – a hallgató vagy a felsőoktatási intézmény elektronikus úton terjeszti elő a diákigazolvány elkészítésére irányuló kérelmét, és tesz jogszabályban meghatározott más eljárási cselekményeket. A felsőoktatási információs rendszer működéséért felelős szerv az eljárás során – ha jogszabály másként nem rendelkezik – elektronikus úton tart kapcsolatot a hallgatóval és a felsőoktatási intézménnyel.
-
-(6c) A diákigazolvány igénylésének további szabályait jogszabály határozza meg.
-
-(6d) A felsőoktatási információs rendszer működéséért felelős szerv a diákigazolvány igényléséhez és előállításához szükséges személyes adatokat, a diákigazolvány egyedi azonosítóját, a kiadott érvényesítő matrica sorszámát, valamint a jogosultság ellenőrzéséhez és nyilvántartásához szükséges további, személyes adatnak nem minősülő adatot tartalmazó nyilvántartást vezet.
+(6) A felsőoktatási intézmény a hallgató kérelmére diákigazolványt ad ki. A diákigazolványt a felsőoktatási információs rendszer működéséért felelős szerv készítteti el, és küldi meg a felsőoktatási intézményen keresztül a jogosult részére. A diákigazolvány tartalmazza a diákigazolvány magyar és angol nyelvű megnevezését, a hallgató nevét, anyja nevét, születési helyét és idejét, lakcímét, tartózkodási helyét, állampolgárságát, a hallgató aláírását. A diákigazolvány tartalmazza továbbá a hallgató fényképét, azonosító számát, a felsőoktatási intézmény nevét, címét és OM-azonosítóját. A diákigazolványon a kedvezmények igénybevételéhez szükséges további – nem személyes adatok – is feltüntethetők. A diákigazolványt a jogszabályban meghatározottak szerint kell igényelni. Az elkészítéshez szükséges adatok a diákigazolvány elkészítőjéhez továbbíthatók. A diákigazolvány elkészítője az adatokat az igazolvány érvényességének megszűnését követő öt évig kezelheti.
 
 (7) A felsőoktatási információs rendszer működéséért felelős szerv kezelheti a felsőoktatási intézmények felvételi eljárásával összefüggő adatokat. A közoktatás információs rendszere szolgáltathatja a felsőoktatási információs rendszer működéséért felelős szerv részére a felvételi kérelmek elbírálásához szükséges érettségi adatokat. Ehhez kapcsolódóan megküldi a tanulói azonosító számot is. A felvételi eljárással kapcsolatos személyes és különleges adatot – ha az eljárás eredményeként hallgatói jogviszony létesítésére nem kerül sor – a felvételi jelentkezési lap benyújtásától számított egy évig lehet kezelni.
 
@@ -659,7 +645,95 @@ szervezeti egységeket hozhat létre és működtethet oly módon, hogy ne kelet
 
 (10) Költségvetési szervként működő felsőoktatási intézmény költségvetési szervvel egyesülhet, költségvetési szervhez csatlakozhat és költségvetési szervvel olvadhat össze.
 
-36/A–36/G. §
+### A FELSŐOKTATÁSI INTÉZMÉNYEK ÁTSOROLÁSA
+
+### Az átsorolás szabályai
+
+36/A. § (1) A költségvetési szervként működő közintézetként besorolt felsőoktatási intézmény, vállalkozó közintézetté történő átsorolását akkor kezdeményezheti a fenntartójánál, ha teljesíti a költségvetési szervek jogállásáról szóló törvényben és a (2)–(4) bekezdésben meghatározott feltételeket. Az átsorolás kezdeményezésének feltétele továbbá, hogy a felsőoktatási intézmény eleget tegyen a vezető testület e törvényben meghatározottak szerinti felállításához és működtetéséhez szükséges feltételeknek.
+
+(2) A közintézetként besorolt felsőoktatási intézmény vállalkozó közintézetté történő átsorolását kezdeményezheti, ha az intézmény és annak jogi személyiségű szervezeti egysége
+
+- a) köztartozással nem rendelkezik,
+- b) hatvan napon túli lejárt esedékességű adósságállománnyal
+  - ba) nem rendelkezik, vagy
+  - bb) rendelkezik, de az, az átsorolás kezdeményezését megelőző tizennyolc hónapban folyamatos csökkenés mellett kevesebb, mint felére mérséklődött,
+- c) harminc napon túli lejárt esedékességű adósságállománnyal
+  - ca) nem rendelkezik, vagy
+  - cb) rendelkezik, de az, az átsorolás kezdeményezését megelőző tizennyolc hónapban folyamatos csökkenés mellett legfeljebb a hatvan napon túli lejárt adósságállomány másfélszeresének megfelelő összegre – hatvan napon túli lejárt adósságállomány hiányában – ötszázmillió forintra mérséklődött,
+- d) a (6) bekezdésben meghatározott mértékű saját vagyonnal rendelkezik,
+- e) kutatási, fejlesztési és innovációs feladataiból a megrendelőktől származó közszolgáltatási és vállalkozási, valamint az államháztartáson kívülről átvett pénzeszközeinek éves bevétele eléri az éves kiadásainak húsz százalékát.
+
+(3) A közintézetként besorolt felsőoktatási intézmény vállalkozó közintézetté történő átsorolását kezdeményezheti, ha – a (2) bekezdésben foglaltakon túl – az intézmény
+
+- a) rendelkezik intézményi társasággal, és az általa alapított vagy részvételével működő intézményi társaságnak az éves bevétele eléri az éves intézményi kiadások húsz százalékát,
+- b) költségtérítéses képzésben részt vevő hallgatóinak aránya eléri az intézményi hallgatói létszám ötven százalékát és a költségtérítéses hallgatók legalább tíz százaléka külföldi állampolgárságú hallgató.
+
+(4) A közintézetként besorolt felsőoktatási intézmény a vállalkozó közintézetté történő átsorolását kezdeményező megkeresése részeként hatástanulmányt készít a következők bemutatásával:
+
+- a) vállalkozó közintézetként való működés várt előnyei, a gazdálkodásra gyakorolt hatása,
+- b) a szükségessé váló ügyviteli, gazdálkodási és szervezeti változások, ezek költségigénye és forrása,
+- c) a harminc, hatvan napon túli lejárt esedékességű adósságállomány megszüntetését célzó intézkedések, azok ütemezése az intézmény egészére és annak jogi személyiségű szervezeti egységére egyaránt,
+- d) a c) pontban meghatározott adósságállomány kialakulásának, illetve újbóli keletkezésének megakadályozását szolgáló intézkedések,
+- e) saját vagyonának könyv szerinti és piaci értéke,
+- f) hosszú távú kötelezettségvállalásainak állománya, az azokból következő éves fizetési kötelezettségek a teljes futamidő alatt.
+
+(5) A felsőoktatási intézmény a (4) bekezdés szerinti megkereséshez csatolja az intézményfejlesztési tervnek a besorolás változásának megfelelően átdolgozott, annak hatásait tükröző tervezetét.
+
+(6) A közintézetként besorolt felsőoktatási intézmény akkor rendelkezik a vállalkozó közintézetté történő átsorolás feltételéül szabott megfelelő mértékű saját vagyonnal, ha az átsorolás kezdeményezésének évét megelőző év december 31-én a saját vagyonának könyvvizsgáló által ellenőrzött piaci értéke legalább kétszerese az intézmény hosszú távú kötelezettségvállalásai és éven túli kötelezettségvállalásai jelenértéke együttes összegének.
+
+36/B. § (1) A költségvetési szervek jogállásáról szóló törvényben meghatározottakon túl a vállalkozó közintézetként besorolt felsőoktatási intézmény besorolását meg kell változtatni, és a felsőoktatási intézményt közintézetté kell átsorolni, ha
+
+- a) a 36/A. § (2) bekezdés bb), illetve cb) pontja alapján történő átsorolás esetén a vállalkozó közintézetté történő átsorolást követő kettő éven belül a lejárt esedékességű adósságállománya nem szűnt meg,
+- b) 36/A. § (2) bekezdés ba), illetve ca) pontja alapján történő átsorolás esetén
+  - ba) hatvan napon túli lejárt adósságállománya keletkezett, vagy
+  - bb) legalább három hónapon át fennálló, háromszázmillió forintot, vagy saját vagyona értékének – ide értve intézményi társaságában meglévő részesedése értékét is – egyharmad részét meghaladó, harminc napon túli lejárt adósságállománya keletkezett.
+
+(2) A vállalkozó közintézetként besorolt felsőoktatási intézmény besorolásának megváltoztatását megelőzően az (1) bekezdés szerinti adósságállománnyal kapcsolatos valamennyi követelést ki kell elégíteni.
+
+36/C. § (1) A 36/A–36/B. §-ban meghatározottakat a költségvetési szervként működő felsőoktatási intézmény jogi személyiségű szervezeti egységére megfelelően alkalmazni kell.
+
+(2) A vállalkozó közintézetként besorolt felsőoktatási intézménynek, jogi személyiségű szervezeti egységének, valamint a közintézetként besorolt felsőoktatási intézmény vállalkozó közintézetté történő besorolás feltételeit teljesítő jogi személyiségű szervezeti egységének más költségvetési szervvel, illetve jóhiszemű harmadik személy irányában fennálló, lejárt, elismert, hatvan napot meghaladó ki nem elégített és be nem hajtható tartozásaiért a felsőoktatási intézmény az államháztartásról szóló törvény 87. § (3) bekezdés c) és e) pontja és (4) bekezdés c)–d) pontja szerinti forrásai, 100/J. § (8) bekezdés szerinti tartaléka, a 87. § (3) bekezdés c) és e) pontja szerinti források maradványa, valamint a saját vagyona terhére tartozik helytállni. A közintézetként besorolt felsőoktatási intézmény vállalkozó közintézet jogi személyiségű szervezeti egységének tartozásaiért, továbbá a felsőoktatási intézmény forrásait és saját vagyonát a fentiek szerint terhelő helytállási kötelezettség teljesítéséért a felügyeleti szerv nem tartozik mögöttes felelősséggel.
+
+### A vezető testület
+
+36/D. § (1) A költségvetési szervként működő közintézetként besorolt felsőoktatási intézmény, vállalkozó közintézetté történő átsorolásával egyidejűleg vezető testületet kell létrehozni.
+
+(2) A vezető testület létrehozásával, működésével, tagjai megbízatásának megszűnésével, napirendjének előkészítésével kapcsolatos kérdéseket a felsőoktatási intézmény szervezeti és működési szabályzatában kell meghatározni a következők figyelembevételével:
+
+- a) a vezető testületnek öt – a szenátus által választott – tagja van,
+- b) a vezető testület tagja az lehet, aki felsőfokú végzettséggel és a gazdaságtudományok képzési területen mesterképzésben szerzett vagy azzal egyenértékű szakképzettséggel rendelkezik,
+- c) nem lehet a vezető testület tagja,
+  - ca) akivel kapcsolatosan a 23. § (7) bekezdésében meghatározott összeférhetetlenségi ok állapítható meg,
+  - cb) aki tagja az intézmény gazdasági tanácsának, illetve más költségvetési szervként működő vállalkozó közintézetként besorolt felsőoktatási intézmény vezető testületének,
+  - cc) a felsőoktatási intézményben magasabb vezetőként, illetve vezetőként foglalkoztatott személy,
+  - cd) aki nem teljesítette vagyonnyilatkozat-tételi kötelezettségét,
+- d) a vezető testület
+  - da) tagjai maguk közül választanak elnököt,
+  - db) szükség szerint – de havonta legalább egy alkalommal – tart ülést,
+  - dc) ülései a felsőoktatási intézmény alkalmazottai, hallgatói, a szenátus és a gazdasági tanács tagjai számára nyilvánosak,
+  - dd) határozatképes, ha az ülésen legalább három tag jelen van, döntéseit – ha törvény vagy a szervezeti és működési szabályzat magasabb szavazati arányt nem ír elő – a jelen lévő tagok többségének szavazatával hozza, szavazategyenlőség esetén az elnök szavazata dönt,
+  - de) jelen lévő tagjai több mint ötven százalékának kérésére zárt ülést, titkos szavazást kell tartani,
+  - df) üléseiről jegyzőkönyvet kell készíteni, döntéseit határozatba kell foglalni, és a szervezeti és működési szabályzatban meghatározottak szerint nyilvánosságra kell hozni.
+
+(3) A vezető testület tagjai az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvénynek a közszolgálatban álló személyekre vonatkozó szabályai szerint kétévenként kötelesek vagyonnyilatkozatot tenni. A vagyonnyilatkozat őrzéséért a rektor felel.
+
+36/E. § (1) A költségvetési szervként működő vállalkozó közintézetként átsorolt felsőoktatási intézmény szenátusa vezetési-szervezési, pénzügyi-gazdasági döntéseit a vezető testület egyetértésével hozza. E körben a vezető testület egyetértése szükséges különösen a 25. § (1) bekezdés a)–b) pontjában, a 27. § (6) bekezdés c)–e) pontjában, (8) bekezdés a)–g) pontjában meghatározott kérdésekben hozott vezetési-szervezési, pénzügyi-gazdasági döntésekhez.
+
+(2) A vezető testület tagjainak felelősségére az államháztartásról szóló törvény rendelkezéseit kell alkalmazni.
+
+36/F. § (1) Megszűnik a vezető testület – és tagjainak megbízatása – a költségvetési szervként működő vállalkozó közintézetként besorolt felsőoktatási intézmény közintézetté történő átsorolásával. A vezető testületi tagság megszűnik továbbá a megbízatás lejártával, illetőleg visszahívással. A lemondás elfogadása a szenátus hatáskörébe tartozik.
+
+(2) A vezető testület elnökének – az elnök esetén a testület tagjának – kezdeményezésére vissza kell hívni azt a tagot, aki
+
+- a) egymást követő három ülésen nem vett részt, és mulasztását nem tudta megfelelő módon igazolni,
+- b) a tagságból eredő feladatait – bármilyen okból kifolyólag – több mint fél éven keresztül nem tudja ellátni,
+- c) utóbb bekövetkezett – a 36/D. § (2) bekezdésének c) pontjában meghatározott – körülmény miatt a vezető testületnek nem lehet tagja.
+
+(3) Lemondás és visszahívás esetén a szenátusnak hatvan napon belül újabb tagot kell választania.
+
+36/G. § (1) A költségvetési szerv felsőoktatási intézmény vállalkozó közintézetre vonatkozó szabályok szerint működő jogi személyiségű szervezeti egységében a 36/D. §, 36/E. § (2) bekezdése, 36/F. § rendelkezései alapján kell vezető testületet létrehozni, illetve működtetni.
+
+(2) A jogi személyiségű szervezeti egység vezetője a szervezeti egységet illetően a felsőoktatási intézmény alapító okiratában, szervezeti és működési szabályzatában, éves költségvetésében, illetve a 136/B. § (2)–(4) bekezdése szerinti szabályzatban meghatározott körben a vezető testület egyetértésével jogosult döntést hozni.
 
 ### A FELSŐOKTATÁSI INTÉZMÉNY MEGSZŰNÉSE
 
@@ -697,7 +771,7 @@ szervezeti egységeket hozhat létre és működtethet oly módon, hogy ne kelet
 
 (2) A regisztrációs központ jogerős határozatának egy példányát megküldi a felsőoktatási információs rendszer részére is.
 
-(3) A regisztrációs központ a Magyarország területén engedéllyel működő külföldi felsőoktatási intézményekről nyilvántartást vezet, melyet évente – december hónapban – közzé kell tenni Magyarország hivatalos lapjában, valamint a miniszter által vezetett minisztérium honlapján nyilvánosságra kell hozni.
+(3) A regisztrációs központ a Magyar Köztársaság területén engedéllyel működő külföldi felsőoktatási intézményekről nyilvántartást vezet, melyet évente – december hónapban – közzé kell tenni a Magyar Köztársaság hivatalos lapjában, valamint a miniszter által vezetett minisztérium honlapján nyilvánosságra kell hozni.
 
 ## HARMADIK RÉSZ — A HALLGATÓ
 
@@ -706,10 +780,9 @@ szervezeti egységeket hozhat létre és működtethet oly módon, hogy ne kelet
 39. § (1) Minden magyar állampolgárnak joga, hogy az e törvényben meghatározott feltételek szerint felsőoktatási intézményben tanulmányokat folytasson, államilag támogatott vagy költségtérítéses képzésben. Ez a jog megilleti
 
 - a) a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyeket,
-- b) az a) pont hatálya alá nem tartozó, Magyarország területén élő menekültet, menedékest, befogadottat, bevándoroltat, letelepedettet,
+- b) az a) pont hatálya alá nem tartozó a Magyar Köztársaság területén élő menekültet, menedékest, befogadottat, bevándoroltat, letelepedettet,
 - c) nemzetközi megállapodás alapján a magyar állampolgárokkal azonos elbírálás alá eső külföldit,
-- d) azoknak az országoknak az állampolgárait, amelyekben a magyar állampolgár a viszonosság elve alapján igénybe veheti az adott állam felsőoktatási szolgáltatásait,
-- e) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgárt.
+- d) azoknak az országoknak az állampolgárait, amelyekben a magyar állampolgár a viszonosság elve alapján igénybe veheti az adott állam felsőoktatási szolgáltatásait.
 
 (2) Aki nem tartozik az (1) bekezdésben meghatározottak hatálya alá, tanulmányait kizárólag költségtérítéses formában folytathatja.
 
@@ -756,7 +829,7 @@ részére azzal, hogy az előnyben részesítés kizárólag az előnyben része
 
 (7) A pályaalkalmassági követelmények és az egészségügyi követelmények meghatározására, megállapítására a szakképzésre vonatkozó rendelkezéseket kell alkalmazni.
 
-42. § (1) Alapképzésre történő felvétel feltétele az érettségi vizsga sikeres teljesítése. A felvételi eljárást megelőzően legalább két évvel a Kormány rendeletben határozza meg, hogy a felsőoktatási intézménybe történő felvételhez egyes alapszakok esetében az érettségi vizsga mely vizsgatárgyából vagy vizsgatárgyaiból kell emelt szintű vizsgát teljesíteni.
+42. § (1) Alapképzésre történő felvétel feltétele az érettségi vizsga sikeres teljesítése.
 
 (2) Alapképzésre történő jelentkezéshez az adott képzési területen képzést folytató felsőoktatási intézmények – a felvételi eljárást megelőzően legalább két évvel a Kormány által meghatározott érettségi vizsgatárgyak közül választva – közösen döntenek arról, hogy mely vizsgatantárgyakból szükséges az emelt szintű érettségi vizsga letétele. A felsőoktatási intézmény határozza meg, hogy milyen érettségi vizsga-eredményre és milyen középiskolai tanulmányi eredmény elérésére van szükség a felvételi kérelem teljesítéséhez. Ha az alapvető tanulmányi követelmények teljesítéséhez egészségügyi, pályaalkalmassági követelményeknek kell megfelelni, alkalmazni kell a 41. § (3) és (6) bekezdésében foglaltakat. A Kormány határozza meg, hogy mely esetben lehet megkövetelni az egészségügyi, illetve a pályaalkalmassági vizsgálaton való részvételt, azokat az érettségi vizsgatárgyakat, amelyekből a felsőoktatási intézmények választhatnak, továbbá a kétszintű érettségi vizsgarendszer bevezetését megelőzően tett, illetőleg a külföldi, külföldi rendszerű érettségi vizsgával jelentkezők eredményeinek megfeleltetését az emelt szintű érettségi vizsgaeredményekkel.
 
@@ -766,7 +839,7 @@ részére azzal, hogy az előnyben részesítés kizárólag az előnyben része
 
 (5) A Kormány határozza meg, hogy a felsőoktatási felvételi kérelmek rangsorolásánál a középiskolai tanulmányi versenyeken vagy más tudományos célú versenyen elért eredményeket, illetve a kiemelkedő sporteredményeket milyen módon és milyen feltételek mellett lehet figyelembe venni, továbbá, hogy mely esetben lehet szakmai alkalmassági, illetve gyakorlati vizsgát tartani.
 
-43. § (1) Alapszakhoz kapcsolódó mesterképzésre az vehető fel, aki alapképzésben fokozatot és szakképzettséget tanúsító oklevelet szerzett. Mesterfokozatot eredményező képzésre épülő mesterképzésre az vehető fel, aki mesterképzésben fokozatot és szakképzettséget tanúsító oklevelet szerzett.
+43. § (1) Mesterképzésre az vehető fel, aki alapképzésben fokozatot és szakképzettséget tanúsító oklevelet szerzett.
 
 (2) Szakirányú továbbképzésre az vehető fel, aki alapképzésben vagy mesterképzésben szerzett fokozattal és szakképzettséggel rendelkezik. Szakirányú továbbképzés esetében felvételi előfeltételként meghatározott munkakör betöltése, meghatározott időtartamú szakmai gyakorlat, további szakképzettség megléte is kiköthető.
 
@@ -776,7 +849,7 @@ részére azzal, hogy az előnyben részesítés kizárólag az előnyben része
 
 44. § (1) Ha a felsőoktatási intézmény a felvételi kérelem elbírálásához e törvény felhatalmazása alapján vizsgán való részvételt ír elő, fogyatékossággal élő jelentkező esetén a középiskolai tanulmányok során nyújtott mentesítést, a vizsgázás sajátos formáját biztosítani kell. Megilleti ez a jog azt is, akinek a középiskolai tanulmányai során nem biztosítottak ilyen lehetőségeket, de igazolja, hogy fogyatékossággal élő.
 
-(2) A felvételi eljárásban a nemzetiséghez tartozó jelentkező használhatja anyanyelvét, amennyiben a középiskolai tanulmányait az adott nyelven folyó vagy két tanítási nyelvű nemzetiségi oktatásban végezte, és az érettségi vizsgán az anyanyelvén vizsgázott.
+(2) A felvételi eljárásban a nemzeti vagy etnikai kisebbséghez tartozó jelentkező használhatja anyanyelvét, amennyiben a középiskolai tanulmányait az adott nyelven folyó vagy két tanítási nyelvű kisebbségi oktatásban végezte, és az érettségi vizsgán az anyanyelvén vizsgázott.
 
 (3) A fogyatékosság megállapításának és igazolásának rendjét a Kormány határozza meg.
 
@@ -805,7 +878,7 @@ részére azzal, hogy az előnyben részesítés kizárólag az előnyben része
 - c) tájékoztatást kapjon a személyét és tanulmányait érintő kérdésekről,
 - d) javaslattal éljen, kérdést intézzen a felsőoktatási intézmény, illetve a kollégium vezetőihez, oktatóihoz, és arra legkésőbb a megkereséstől számított harminc napon belül érdemi választ kapjon,
 - e) véleményezze az oktatói munkát,
-- f) vallási, világnézeti vagy más meggyőződését, nemzetiséghez tartozását tiszteletben tartsák, és azt kifejezésre juttassa, feltéve, hogy e jogának gyakorlása nem ütközik jogszabályba, nem sérti mások hasonló jogát és nem korlátozza társai tanuláshoz való jogának érvényesülését,
+- f) vallási, világnézeti vagy más meggyőződését, nemzeti vagy etnikai kisebbséghez tartozását tiszteletben tartsák, és azt kifejezésre juttassa, feltéve, hogy e jogának gyakorlása nem ütközik jogszabályba, nem sérti mások hasonló jogát és nem korlátozza társai tanuláshoz való jogának érvényesülését,
 - g) levelezéshez, továbbá a kollégiumban a lakhatáshoz való jogát tiszteletben tartsák, feltéve, hogy e jogának gyakorlása nem sérti másoknak hasonló jogát és nem korlátozza társai tanuláshoz való jogának gyakorlását.
 
 (3) A hallgató joga, hogy a felsőoktatási intézményben biztonságban, egészséges környezetben folytathassa tanulmányait, továbbá tehetségétől, képességétől, érdeklődésétől függően segítséget kapjon a tanulmányaihoz, a pályakezdéshez, e körben különösen, hogy
@@ -836,7 +909,7 @@ részére azzal, hogy az előnyben részesítés kizárólag az előnyben része
 - f) a felsőoktatási intézmény által létrehozott, illetve támogatott gazdasági társaság tagja legyen, illetve abban munkát végezzen, és ennek ellenértékeként hallgatói munkadíj illesse meg,
 - g) jogszabályban meghatározottak szerint tanulmányi szerződést, hallgatói szerződést kössön, munkavégzés melletti tanulmányok esetén igénybe vegye a tanulmányi szabadságot.
 
-(6)
+(6) Az (5) bekezdés e)–f) pontjában meghatározott hallgatói munkadíj – külön törvényben meghatározottak szerint – mentes a közterhektől, a mindenkori legkisebb kötelező munkabér (minimálbér) mértékéig.
 
 (7) A hallgatót megilleti az érdekérvényesítés és a jogorvoslat joga, e körben különösen, hogy
 
@@ -851,9 +924,9 @@ részére azzal, hogy az előnyben részesítés kizárólag az előnyben része
 
 (9) A felsőoktatási intézmény a szervezeti és működési szabályzatában jogszabály alapján nem kötelező hallgatói juttatás igénybevételének lehetőségét közösségi célú tevékenységben való részvételhez kötheti.
 
-(10) A hallgató hallgatói munkadíj ellenében akkor végezhet munkát, ha hallgatói munkaszerződést kötöttek vele. A hallgatói munkaszerződés alapján munkát végző hallgató foglalkoztatására a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit megfelelően alkalmazni kell.
+(10) A hallgató hallgatói munkadíj ellenében akkor végezhet munkát, ha hallgatói munkaszerződést kötöttek vele. A hallgatói munkaszerződés alapján munkát végző hallgató foglalkoztatására a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Munka Törvénykönyve) rendelkezéseit megfelelően alkalmazni kell.
 
-47. § (1) Az alapképzésben, szakirányú továbbképzésben, felsőfokú szakképzésben folyó gyakorlati képzés tekintetében az érdekvédelem és a munkavédelem tekintetében a hallgatót megilletik mindazok a jogok, amelyeket az Mt. biztosít a munkavállalók részére [Mt. 51. § (1) és (4) bekezdés, 231. § (3) bekezdés, 233. §, 270. §, 272. § (2)–(7) bekezdés, 271. §]. A hallgató foglalkoztatására – a szakképzésről szóló törvény eltérő rendelkezésének hiányában – alkalmazni kell a Munka Törvénykönyve 104. §-ának (1)–(4) bekezdését, 124. §-ának (1) bekezdését, 125. §-ának (1)–(2) bekezdését, valamint a munkavédelemre vonatkozó jogszabályokat. A hallgató a gyakorlati képzéssel kapcsolatos igényeinek érvényesítése érdekében – a munkaügyi jogvitára vonatkozó rendelkezések szerint – jogvitát kezdeményezhet. E rendelkezések alkalmazásában a munkavállalón a hallgatót, munkáltatón a gyakorlati képzés szervezőjét, munkaviszonyon a hallgatói jogviszonyt kell érteni.
+47. § (1) Az alapképzésben, szakirányú továbbképzésben, felsőfokú szakképzésben folyó gyakorlati képzés tekintetében az érdekvédelem és a munkavédelem tekintetében a hallgatót megilletik mindazok a jogok, amelyeket a Munka Törvénykönyve biztosít a munkavállalók részére [Mt. 18. §, 19. §, 21. §, 22. § (1)–(2) bekezdés, 24. § (1) bekezdés, 26–27. §, 102. § (2) bekezdés és a (3) bekezdésének b)–c) pontja]. A hallgató foglalkoztatására – a szakképzésről szóló törvény eltérő rendelkezésének hiányában – alkalmazni kell a Munka Törvénykönyve 104. §-ának (1)–(4) bekezdését, 124. §-ának (1) bekezdését, 125. §-ának (1)–(2) bekezdését, valamint a munkavédelemre vonatkozó jogszabályokat. A hallgató a gyakorlati képzéssel kapcsolatos igényeinek érvényesítése érdekében – a munkaügyi jogvitára vonatkozó rendelkezések szerint – jogvitát kezdeményezhet. E rendelkezések alkalmazásában a munkavállalón a hallgatót, munkáltatón a gyakorlati képzés szervezőjét, munkaviszonyon a hallgatói jogviszonyt kell érteni.
 
 (2) A felsőfokú szakképzésben részt vevő hallgató a szakképzésre vonatkozó jogszabályok szerint jogosult juttatásokra és kedvezményekre. A juttatásokat és kedvezményeket a gyakorlati képzés szervezője köteles biztosítani.
 
@@ -889,11 +962,11 @@ részére azzal, hogy az előnyben részesítés kizárólag az előnyben része
 
 (3) A Kormány határozza meg
 
-- a) a központi költségvetés terhére biztosított hallgatói juttatásokhoz való hozzáférés feltételeit, ennek során a kedvezményeket, támogatásokat ahhoz a feltételhez kötheti, hogy a hallgató a nappali oktatás munkarendje szerint készüljön fel, vagy államilag támogatott képzésben vegyen részt,
+- a) az állami költségvetés terhére biztosított hallgatói juttatásokhoz való hozzáférés feltételeit, ennek során a kedvezményeket, támogatásokat ahhoz a feltételhez kötheti, hogy a hallgató a nappali oktatás munkarendje szerint készüljön fel, vagy államilag támogatott képzésben vegyen részt,
 - b) a diákigazolvány kiadásával, a kollégiumi ellátás igénybevételével és a lakhatási támogatással, az egyes tanulmányi ösztöndíjak igénybevételével kapcsolatos feltételeket, továbbá egyes, a felsőoktatási intézmények által nyújtott szolgáltatásokért való fizetés elveit,
 - c) a rászorultsági alapon adható juttatásokat.
 
-(4) A felsőoktatási intézmény szervezeti és működési szabályzata határozza meg, hogy a hallgatói jogokat és kötelezettségeket milyen módon lehet gyakorolni, illetve végrehajtani. A szervezeti és működési szabályzat – a központi költségvetés terhére biztosított hallgatói juttatások tekintetében – kormányrendeletben meghatározott keretek között meghatározza az egyes juttatásokhoz való hozzájutás feltételeit, valamint a hallgatók részére további jogokat és kötelezettségeket állapíthat meg.
+(4) A felsőoktatási intézmény szervezeti és működési szabályzata határozza meg, hogy a hallgatói jogokat és kötelezettségeket milyen módon lehet gyakorolni, illetve végrehajtani. A szervezeti és működési szabályzat – az állami költségvetés terhére biztosított hallgatói juttatások tekintetében – kormányrendeletben meghatározott keretek között meghatározza az egyes juttatásokhoz való hozzájutás feltételeit, valamint a hallgatók részére további jogokat és kötelezettségeket állapíthat meg.
 
 ### A KOLLÉGIUMI ELHELYEZÉS
 
@@ -919,7 +992,7 @@ részére azzal, hogy az előnyben részesítés kizárólag az előnyben része
 
 ### AZ ÁLLAMILAG TÁMOGATOTT ÉS A KÖLTSÉGTÉRÍTÉSES KÉPZÉS
 
-53. § (1) A felsőoktatási intézményben folyó képzés lehet államilag támogatott vagy költségtérítéses képzés. Az államilag támogatott képzés költségeit – ha e törvény másképp nem rendelkezik – az a központi költségvetés, a költségtérítéses képzés költségeit a hallgató viseli.
+53. § (1) A felsőoktatási intézményben folyó képzés lehet államilag támogatott vagy költségtérítéses képzés. Az államilag támogatott képzés költségeit – ha e törvény másképp nem rendelkezik – az állami költségvetés, a költségtérítéses képzés költségeit a hallgató viseli.
 
 (2) Bármely képzési ciklusban, felsőfokú szakképzésben, szakirányú továbbképzésben folyó képzés lehet államilag támogatott, függetlenül annak munkarendjétől. A további (párhuzamos) hallgatói jogviszony is lehet államilag támogatott képzés.
 
@@ -933,9 +1006,7 @@ részére azzal, hogy az előnyben részesítés kizárólag az előnyben része
 
 (7) Nem kell a (6) bekezdés szerinti létszámkorlátozást alkalmazni, amennyiben a döntéshozatal évében benyújtott jelentkezések számának előző évhez viszonyított változása meghaladja a tíz százalékot. A Kormány a mesterképzésre, a szakirányú továbbképzésre és a doktori képzésre együttesen rendelkezésre álló kereten belül, a meghatározott arányoktól egy-tíz százalékkal eltérést engedélyezhet.
 
-(8) A miniszter határozza meg az új belépők létszámkeretének intézmények közötti elosztását, az intézményi keretszámokat.
-
-54. § (1) Az alap-, az egységes osztatlan képzésben, és a felsőfokú szakképzésben az államilag támogatott hallgatói helyeket a felvételi jelentkezések rangsora, a felvételi jelentkezési lapokon felállított intézményi rangsorok és az intézményi keretszámok alapján kell elosztani. Az adott felsőoktatási intézmény az alapító okiratában meghatározott maximális hallgatói létszám mértékéig annyi államilag támogatott hallgatót fogadhat, ahány felvételi kérelem teljesítése az adott intézményi keretszámon belül az intézményre jut.
+54. § (1) Az alapképzésben és a felsőfokú szakképzésben az államilag támogatott hallgatói helyeket a felvételi jelentkezések rangsora és a jelentkezési lapokon felállított intézményi rangsorok alapján kell elosztani. Az adott felsőoktatási intézmény az alapító okiratában meghatározott maximális hallgatói létszám mértékéig annyi államilag támogatott hallgatót fogadhat, ahány felvételi kérelem teljesítése az adott felsőoktatási intézményre jut.
 
 (2) A mesterképzésben, a szakirányú továbbképzésben és a doktori képzésben a felsőoktatási intézmény bírálja el és rangsorolja a felvételi kérelmeket. A miniszter – pályázati eljárás alapján – határozza meg, hogy e körben hány államilag támogatott hallgatói hellyel rendelkezik a felsőoktatási intézmény. A miniszter
 
@@ -1050,15 +1121,15 @@ részére azzal, hogy az előnyben részesítés kizárólag az előnyben része
 
 (4) Oklevél kiállítására csak az e törvény hatálya alá tartozó felsőoktatási intézmény jogosult. Az oklevél megnevezést csak a felsőoktatási intézmények által e törvény alapján kiállított, végzettségi szintet és szakképzettséget igazoló okiratra lehet használni.
 
-(5) Az oklevél Magyarország címerével ellátott közokirat, amely tartalmazza a kibocsátó felsőoktatási intézmény nevét, OM-azonosítóját, az oklevél sorszámát, az oklevél tulajdonosának nevét, születési nevét, születésének helyét és idejét, a végzettségi szint, illetve az odaítélt fokozat és a szak, szakképzettség, szakirány megnevezését, a kibocsátás helyét, évét, hónapját és napját. Tartalmaznia kell továbbá a felsőoktatási intézmény vezetőjének (illetve a tanulmányi és vizsgaszabályzatban meghatározott vezetőnek) és a záróvizsga-bizottság elnökének eredeti aláírását, a felsőoktatási intézmény bélyegzőjének lenyomatát. Ha a záróvizsga időszakában a hallgató nem rendelkezik nyelvvizsgát igazoló okirattal, és ezért az oklevél kiállítására a záróvizsga vizsgaidőszakát követően kerül sor, a záróvizsga-bizottság elnöke helyett a tanulmányi és vizsgaszabályzatban meghatározott vezető is aláírhatja az oklevelet. A felsőoktatási intézmény tanulmányi és vizsgaszabályzata további – a személyes adatok körébe nem tartozó – adatok feltüntetését írhatja elő. A kiadott oklevelekről központi nyilvántartást kell vezetni.
+(5) Az oklevél a Magyar Köztársaság címerével ellátott közokirat, amely tartalmazza a kibocsátó felsőoktatási intézmény nevét, OM-azonosítóját, az oklevél sorszámát, az oklevél tulajdonosának nevét, születési nevét, születésének helyét és idejét, a végzettségi szint, illetve az odaítélt fokozat és a szak, szakképzettség, szakirány megnevezését, a kibocsátás helyét, évét, hónapját és napját. Tartalmaznia kell továbbá a felsőoktatási intézmény vezetőjének (illetőleg a tanulmányi és vizsgaszabályzatban meghatározott vezetőnek) és a záróvizsga-bizottság elnökének eredeti aláírását, a felsőoktatási intézmény bélyegzőjének lenyomatát. Ha a záróvizsga időszakában a hallgató nem rendelkezik nyelvvizsgát igazoló okirattal, és ezért az oklevél kiállítására a záróvizsga vizsgaidőszakát követően kerül sor, a záróvizsga-bizottság elnöke helyett a tanulmányi és vizsgaszabályzatban meghatározott vezető is aláírhatja az oklevelet. A felsőoktatási intézmény tanulmányi és vizsgaszabályzata további – a személyes adatok körébe nem tartozó – adatok feltüntetését írhatja elő. A kiadott oklevelekről központi nyilvántartást kell vezetni.
 
 (6) Az oklevél formáját a Kormány határozza meg. Ha a felsőoktatási intézmény szétválás vagy kiválás útján jött létre, az érintett hallgatók oklevelében – a hallgató kérelmére a jogelőd felsőoktatási intézményt fel kell tüntetni. A felsőoktatási intézmény hagyományainak megfelelő formában az oklevélről másolatot is kiadhat.
 
 (7) Ha az oklevél kiadására azért nincs lehetőség, mert a nyelvvizsga-bizonyítványt nem tudták bemutatni, a felsőoktatási intézmény igazolást állít ki. Az igazolás végzettséget és szakképzettséget nem igazol, tanúsítja a záróvizsga eredményes letételét. A kiadott igazolásokról központi nyilvántartást kell vezetni.
 
-63. § (1) Az oklevelet magyar és angol nyelven vagy magyar és latin nyelven, nemzetiségi képzés esetében magyar nyelven és a nemzetiség nyelvén, nem magyar nyelven folyó képzés esetén magyar nyelven és a képzés nyelvén kell kiadni. Az oklevél a hallgató kérésére és költségére más nyelven is kiadható.
+63. § (1) Az oklevelet magyar és angol nyelven vagy magyar és latin nyelven, nemzeti és etnikai kisebbségi képzés esetében magyar nyelven és a nemzeti vagy etnikai kisebbség nyelvén, nem magyar nyelven folyó képzés esetén magyar nyelven és a képzés nyelvén kell kiadni. Az oklevél a hallgató kérésére és költségére más nyelven is kiadható.
 
-(2) Az alapképzésben és mesterképzésben szerzett oklevél mellé ki kell adni az Európai Bizottság és az Európa Tanács által meghatározott oklevélmellékletet magyar és angol nyelven, valamint nemzetiségi képzés esetében – a hallgató kérésére – az érintett nemzetiség nyelvén. Az oklevélmelléklet közokirat.
+(2) Az alapképzésben és mesterképzésben szerzett oklevél mellé ki kell adni az Európai Bizottság és az Európa Tanács által meghatározott oklevélmellékletet magyar és angol nyelven, valamint nemzeti vagy etnikai kisebbségi képzés esetében – a hallgató kérésére – az érintett kisebbség nyelvén. Az oklevélmelléklet közokirat.
 
 (3) Az alapképzésben és mesterképzésben, illetve az egységes, osztatlan képzésben, szakirányú továbbképzésben kiállított oklevél – jogszabályban meghatározottak szerint – munkakör betöltésére, tevékenység folytatására jogosít.
 
@@ -1071,7 +1142,7 @@ részére azzal, hogy az előnyben részesítés kizárólag az előnyben része
 
 (6) Az orvosok, a fogorvosok, a gyógyszerészek, az állatorvosok, a jogászok oklevele doktori címet tanúsít. Ezek rövidített jelölése: dr. med., dr. med. dent., dr. pharm., dr. vet., dr. jur.
 
-64. § (1) A felsőfokú szakképzésben tett sikeres szakmai vizsga alapján a felsőoktatási intézmény az Országos Képzési Jegyzékben meghatározott szakképesítést igazoló bizonyítványt – továbbá a hallgató kérésére bizonyítvány kiegészítő lapot – ad ki. A kiállított bizonyítvány – jogszabályban meghatározottak szerint – munkakör betöltésére, tevékenység folytatására jogosít. A bizonyítvány elkészítésére, kiállítására, tartalmára, a kiadott bizonyítványok nyilvántartására a szakképzésre vonatkozó jogszabályokat kell alkalmazni. A szakmai vizsga vizsgabizottsága Magyarország címerét tartalmazó körbélyegzőt használ.
+64. § (1) A felsőfokú szakképzésben tett sikeres szakmai vizsga alapján a felsőoktatási intézmény az Országos Képzési Jegyzékben meghatározott szakképesítést igazoló bizonyítványt – továbbá a hallgató kérésére bizonyítvány kiegészítő lapot – ad ki. A kiállított bizonyítvány – jogszabályban meghatározottak szerint – munkakör betöltésére, tevékenység folytatására jogosít. A bizonyítvány elkészítésére, kiállítására, tartalmára, a kiadott bizonyítványok nyilvántartására a szakképzésre vonatkozó jogszabályokat kell alkalmazni. A szakmai vizsga vizsgabizottsága a Magyar Köztársaság címerét tartalmazó körbélyegzőt használ.
 
 (2) A felsőfokú szakképzésben a bizonyítvány kiadásának előfeltételeként a szakmai és vizsgakövetelmény, illetve a szakképzési program előírhatja a nyelvvizsga letételét. A kiadott bizonyítványokról központi nyilvántartást kell vezetni.
 
@@ -1089,13 +1160,29 @@ részére azzal, hogy az előnyben részesítés kizárólag az előnyben része
 
 (3) A tudományos diákkör a kötelező tananyaggal kapcsolatos tudományos és művészeti ismeretek elmélyítését, bővítését, a hallgatók kutatómunkáját, illetve alkotótevékenységét szolgálja.
 
-(4)–(6)
+(4) A szakkollégium célja, hogy saját szakmai program kidolgozásával magas szintű, minőségi szakmai képzést nyújtson, segítve a kiemelkedő képességű hallgatók tehetséggondozását, közéleti szerepvállalását, az értelmiségi feladatokra történő felkészülés tárgyi és személyi feltételeinek megteremtését, a társadalmi problémákra érzékeny, szakmailag igényes értelmiség nevelését. A szakkollégium az önkormányzatiság elvére és a szakkollégisták öntevékenységére épül, a szakkollégium tagsága dönt különösen a kollégiumi tagsági jogviszony keletkezéséről vagy megszűnéséről, az önálló szakkollégium szervezeti és működési szabályzatának elfogadásáról, a szakkollégium szakmai programjáról és az ahhoz kötődő szakmai teljesítményekre vonatkozó követelményekről.
+
+(5) Ha a kollégiumot azzal a céllal hozzák létre, hogy a (4) bekezdésben foglalt feltételek szerint részt vegyen a tehetséggondozásban, szakkollégiumként működik. A szakkollégium kollégium és diákotthon részeként is működhet, ha megfelel a (4) bekezdésben foglaltaknak. A szakkollégiumban tudományos diákkör is működhet. A szakkollégium szolgáltatásait igénybe veheti az a hallgató is, aki nem rendelkezik kollégiumi tagsági viszonnyal.
+
+(6) Ha a szakkollégium felsőoktatási intézmény részeként működik, feladatait a felsőoktatási intézmény költségvetésében meghatározott keretek között láthatja el.
 
 (7) A felsőoktatási intézmény mentorprogram keretében nyújt segítséget a hátrányos helyzetű hallgató tehetségének kibontakoztatásához. A mentorprogram megszervezésének elveit a Kormány határozza meg.
 
 (8) Az e §-ban meghatározott feladatokban a diákotthon a felsőoktatási intézménnyel kötött megállapodás alapján közreműködhet.
 
-66/A. §
+66/A. § (1) A miniszter a szakkollégiumi tehetséggondozás támogatására – pályázat útján – Szakkollégiumi Kiválósági Központ címet adományoz.
+
+(2) A cím olyan szakkollégiumnak adományozható, amely
+
+- a) a 66. § (3) bekezdésében meghatározott követelményeket magas színvonalon teljesíti, és elsődleges feladatának a tudásalapú elitképzést tekinti,
+- b) rendelkezik önálló, a felsőoktatási képzés magas színvonalú kiegészítéseként működtetett képzési rendszerrel,
+- c) tagjai külön szakmai felvételi eljárással kerülnek a szakkollégiumba,
+- d) szakmai programja keretében olyan képzést nyújt, amely programjában a kiscsoportos és az egyéni képzési forma, a több tudományterületet érintő ismeretszerzés a meghatározó,
+- e) szakkollégista tagjainak a tudományos diákköri munkában való részvételével, az eredményeket bemutató – magyar és nemzetközi – tevékenységével járul hozzá az egyéni szakmai tudományos életpályához, a doktori fokozat megszerzéséhez és a közéleti szerepvállaláshoz,
+- f) megállapodás keretében képzési és kutatási kapcsolatot tart fenn felsőoktatási intézménnyel, a Magyar Tudományos Akadémiával, annak intézeteivel, továbbá a közoktatásban tevékenykedő tehetségsegítő tudományos műhelyekkel és szervezetekkel,
+- g) szakmai programjának megvalósításában közreműködő oktatóinak legalább nyolcvan százaléka tudományos fokozattal rendelkezik, illetve amelynek b) pont szerinti képzései során a felsőoktatási intézmény doktoranduszai is közreműködnek.
+
+(3) A címet a miniszter ötéves időtartamra adományozza. Az adományozás az (1)–(2) bekezdésben előírt feltételek teljesítése, további fennállása esetén megismételhető. A miniszter a címet megvonja, ha a (2) bekezdésben előírt adományozási feltételek már nem állnak fenn.
 
 ### A DOKTORI KÉPZÉSRE VONATKOZÓ KÜLÖN SZABÁLYOK
 
@@ -1287,7 +1374,7 @@ feltéve minden esetben, hogy a hallgatót – legalább két alkalommal – ír
 
 (5) A hallgatói önkormányzat az e törvényben meghatározott jogainak megsértése esetén – beleértve azt is, ha az alapszabályának jóváhagyását megtagadják – a közléstől számított harminc napon belül jogszabálysértésre vagy intézményi szabályzatban foglaltakba ütközésre hivatkozással bírósághoz fordulhat.
 
-(6) A bíróság nemperes eljárásban, soron kívül határoz. A határidő jogvesztő. A bíróság a döntést megváltoztathatja. Az eljárásra a Fővárosi Törvényszék az illetékes. A kérelem benyújtásának a döntés végrehajtására halasztó hatálya van.
+(6) A bíróság nemperes eljárásban, soron kívül határoz. A határidő jogvesztő. A bíróság a döntést megváltoztathatja. Az eljárásra a Fővárosi Bíróság az illetékes. A kérelem benyújtásának a döntés végrehajtására halasztó hatálya van.
 
 78. § (1) A hallgatói önkormányzat egyetértési jogot gyakorol a szervezeti és működési szabályzat elfogadásakor és módosításakor, az alábbi körben:
 
@@ -1320,7 +1407,7 @@ feltéve minden esetben, hogy a hallgatót – legalább két alkalommal – ír
 
 79. § (1) A hallgatók országos képviseletét – a (4)–(6) bekezdésben meghatározott kivétellel – a Hallgatói Önkormányzatok Országos Konferenciája látja el, amely véleményt nyilváníthat, illetve javaslatot tehet a felsőoktatást érintő bármely kérdésben. A Hallgatói Önkormányzatok Országos Konferenciája ellátja a hallgatók képviseletét a felsőoktatás országos szervezeteiben.
 
-(2) A Hallgatói Önkormányzatok Országos Konferenciája jogi személy, székhelye Budapest, képviseletére az elnök jogosult. A Hallgatói Önkormányzatok Országos Konferenciája jogosult Magyarország címerének használatára. A Hallgatói Önkormányzatok Országos Konferenciáját a regisztrációs központ veszi nyilvántartásba. A Hallgatói Önkormányzatok Országos Konferenciája felett az ügyészség gyakorol törvényességi ellenőrzést. A Hallgatói Önkormányzatok Országos Konferenciája beszámolási és könyvvezetési kötelezettségére az egyéb szervezetekre vonatkozó szabályokat kell alkalmazni.
+(2) A Hallgatói Önkormányzatok Országos Konferenciája jogi személy, székhelye Budapest, képviseletére az elnök jogosult. A Hallgatói Önkormányzatok Országos Konferenciája jogosult a Magyar Köztársaság címerének használatára. A Hallgatói Önkormányzatok Országos Konferenciáját a regisztrációs központ veszi nyilvántartásba. A Hallgatói Önkormányzatok Országos Konferenciája felett az ügyészség gyakorol törvényességi felügyeletet. A Hallgatói Önkormányzatok Országos Konferenciája beszámolási és könyvvezetési kötelezettségére az egyéb szervezetekre vonatkozó szabályokat kell alkalmazni.
 
 (3) A Hallgatói Önkormányzatok Országos Konferenciája a hallgatói önkormányzatokból álló testület, amely elfogadja alapszabályát. A Hallgatói Önkormányzatok Országos Konferenciájának alapszabálya határozza meg azt a rendet, amely alapján a hallgatói önkormányzatok képviseltetik magukat a Hallgatói Önkormányzatok Országos Konferenciáján.
 
@@ -1494,8 +1581,7 @@ betöltéséhez szükséges feltételeket nem teljesítette. Nem foglalkoztathat
 
 - a) nem teljesítette a foglalkoztatási követelményrendszerben meghatározottakat,
 - b) részére a tanítási időre eső munkavégzést – két félév átlagában – legalább ötven százalékában nem tudja biztosítani,
-- c) nem teljesítette azokat a munkakör betöltéséhez szükséges feltételeket, amelyeket a munkáltató – megfelelő határidő biztosításával – a munkaszerződésben, illetve a kinevezési okmányban előírt,
-- d) a 84. § (5) bekezdés szerinti nyilatkozata alapján az intézmény működési feltételeinek mérlegelése során, illetve a felsőoktatási intézmény költségvetési támogatásának megállapítása során az intézményben nem vehető figyelembe.
+- c) nem teljesítette azokat a munkakör betöltéséhez szükséges feltételeket, amelyeket a munkáltató – megfelelő határidő biztosításával – a munkaszerződésben, illetve a kinevezési okmányban előírt, [d) a 84. § (5) bekezdés szerinti nyilatkozata alapján az intézmény működési feltételeinek mérlegelése során, illetve a felsőoktatási intézmény költségvetési támogatásának megállapítása során az intézményben nem vehető figyelembe.]
 
 (3) E törvény erejénél fogva megszűnik a főiskolai tanári, illetve az egyetemi tanári munkakörben történő foglalkoztatás, ha a miniszterelnök a főiskolai tanárt, a köztársasági elnök az egyetemi tanárt – a munkaköri címhez fűződő jogát megvonva – felmentette. A főiskolai tanár, illetve az egyetemi tanár felmentését a 89. §-ban meghatározott eljárás szerint a rektor kezdeményezi. A rektor köteles kezdeményezni a főiskolai tanár, illetve az egyetemi tanár felmentését, ha azt az érintett kéri, a főiskolai tanárral, illetve az egyetemi tanárral szemben jogerősen elbocsátás fegyelmi büntetést szabtak ki, a foglalkozás gyakorlásától a bíróság jogerősen eltiltotta, vagy az érintettet szándékos bűncselekmény miatt jogerősen végrehajtandó szabadságvesztésre ítélték. Ha a főiskolai tanár, illetve az egyetemi tanár cím viselésére jogosult nem áll felsőoktatási intézménnyel foglalkoztatási jogviszonyban, a felmentés kezdeményezésére a miniszter jogosult.
 
@@ -1598,7 +1684,7 @@ címet adományozhat.
 
 (8) A magasabb vezetői és vezetői megbízásokra benyújtott pályázatok rangsorolásáról a szenátus dönt. Döntését a (7) bekezdésben meghatározott kivétellel megküldi a rektornak. A rektor a szenátus véleményének mérlegelésével dönt a vezetői megbízás kiadásáról.
 
-(9) A magasabb vezető a vezetői tevékenységének keretében gondatlanul okozott károkért teljes mértékben felel. A magasabb vezető által a vezetői tevékenység keretében szándékosan okozott kárért, illetve a nem vezetői tevékenysége keretében okozott kárért az általános felelősségi szabályok (Mt. XIV. fejezet) az irányadóak azzal az eltéréssel, hogy gondatlan károkozás esetén a felelősség mértéke a vezető tizenkét havi átlagkeresetéig terjedhet.
+(9) A magasabb vezető a vezetői tevékenységének keretében gondatlanul okozott károkért teljes mértékben felel. A magasabb vezető által a vezetői tevékenység keretében szándékosan okozott kárért, illetve a nem vezetői tevékenysége keretében okozott kárért az általános felelősségi szabályok (Munka Törvénykönyve Harmadik Rész, VIII. fejezet) az irányadóak azzal az eltéréssel, hogy gondatlan károkozás esetén a felelősség mértéke a vezető tizenkét havi átlagkeresetéig terjedhet.
 
 (10) A magasabb vezetői és a vezetői megbízás – ha e törvény eltérően nem rendelkezik – a hatvanötödik életév betöltéséig szólhat. Ha a magasabb vezetői megbízás időtartama – részben, vagy teljes egészében – a hatvanötödik életév betöltését követően kerülne kitöltésre, a megbízás a szenátus tagjai kétharmadának igenlő szavazatával meghozott döntésével – legfeljebb a hetvenedik életév betöltéséig terjedő időszakra – adható meg.
 
@@ -1615,8 +1701,6 @@ címet adományozhat.
 (3) A (2) bekezdésben meghatározott keretösszeg terhére a munkáltató megemelheti az oktató, illetve a kutató havi rendszeres járandóságának összegét, illetve határozott időre, legalább egy, legfeljebb négy évre szóló keresetkiegészítést állapíthat meg (a továbbiakban: többletjárandóság). Az egy személynek e bekezdés alapján adható havi többletjárandóság összege nem lehet kevesebb, mint a számítási alap háromszorosa.
 
 (4) A költségvetési támogatás és más források terhére fizetett többletjárandóság megítélésének oktatói és tudományos tevékenységekre vonatkozó rendjét az intézmény szervezeti és működési szabályzatában kell megállapítani.
-
-(5) A költségvetési szervként működő felsőoktatási intézmény alkalmazottjának – ideértve a gazdasági tanács tagját is – tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi járandósága (munkabére, illetménye), beleértve a (3) bekezdés szerinti járandóságot is, nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
 ### A MUNKAVÁLLALÓK SZERVEZETEI, EGYÉNI ÉS KOLLEKTÍV JOGOK, ÉRDEKVÉDELEM, ÉRDEKEGYEZTETÉS
 
@@ -1638,7 +1722,7 @@ címet adományozhat.
 
 ### A köztársasági elnök hatáskörei
 
-100. § A köztársasági elnök
+100. § A Magyar Köztársaság elnöke
 
 - a) megbízza és felmenti az egyetem rektorát,
 - b) az egyetemi tanári munkakör betöltéséhez szükséges munkaköri címről hozott döntésével kinevezi és felmenti az egyetemi tanárt,
@@ -1646,7 +1730,7 @@ címet adományozhat.
 
 ### A Kormány és a miniszterelnök hatáskörei
 
-101. § (1) A Kormány
+101. § (1) A Magyar Köztársaság Kormánya
 
 - a) benyújtja az Országgyűlés részére a felsőoktatást érintő törvényjavaslatokat és országgyűlési határozati javaslatokat, a felsőoktatás középtávú – legalább hat évre szóló – fejlesztési tervét és a végrehajtásáról szóló beszámolót,
 - b) határozatban megállapítja az adott évben államilag támogatott képzésbe felvehető hallgatói létszámot, továbbá elosztja a képzési területek, a képzés munkarendje és a képzés szintje szerint,
@@ -1654,7 +1738,7 @@ címet adományozhat.
 
 (2) Az államilag támogatott képzésbe felvehető hallgatói létszám megállapításával kapcsolatos kormány-előterjesztést véleményezi az Országos Érdekegyeztető Tanács. Álláspontjáról, továbbá a gazdasági kamarák e tárgykörben adott véleményéről a Kormányt tájékoztatni kell.
 
-(3) A miniszterelnök
+(3) A Magyar Köztársaság miniszterelnöke
 
 - a) megbízza és felmenti a főiskola rektorát,
 - b) a főiskolai tanári munkakör betöltéséhez szükséges munkaköri címről hozott döntésével kinevezi és felmenti a főiskolai tanárt,
@@ -1672,7 +1756,7 @@ címet adományozhat.
 
 (5) A miniszter döntéseihez – az e törvényben meghatározott esetekben – beszerzi a Magyar Felsőoktatási Akkreditációs Bizottság, illetve a Felsőoktatási és Tudományos Tanács véleményét.
 
-(6) A miniszter a nemzetiségi képzés tekintetében hozott döntéseihez beszerzi az Országos Nemzetiségi Bizottság véleményét.
+(6) A miniszter a nemzeti vagy etnikai kisebbségi képzés tekintetében hozott döntéseihez beszerzi az Országos Kisebbségi Bizottság véleményét.
 
 103. § (1) A miniszter felsőoktatás-szervezési feladatai:
 
@@ -1687,8 +1771,7 @@ címet adományozhat.
 - e) javaslatot tesz statisztikai adatszolgáltatásra;
 - f) gyakorolja a törvényességi ellenőrzés jogkörét;
 - g) gyakorolja a fejezet belső ellenőrzési jogkörét.
-- h) az 54. § (2) bekezdésében meghatározott feltételek szerinti pályázati eljárásban meghatározza az államilag támogatott mester- és doktori képzésre, valamint a szakirányú továbbképzésre felvehető hallgatói létszám intézmények közötti elosztását;
-- i) a 101. § (1) bekezdésének b) pontjában, valamint a 139. § (7) bekezdésében foglalt keretek között az 53. § (8) bekezdése szerint határozattal állapítja meg az alap-, az egységes, osztatlan képzésekre, és a felsőfokú szakképzésekre felvehető államilag támogatott hallgatói létszám intézmények közötti elosztását.
+- h) az 54. § (2) bekezdésében meghatározott feltételek szerinti pályázati eljárásban meghatározza az államilag támogatott mester- és doktori képzésre, valamint a szakirányú továbbképzésre felvehető hallgatói létszám intézmények közötti elosztását.
 
 (2) A Magyar Felsőoktatási Akkreditációs Bizottság indítványára a miniszter a bíróságnál – a 105. §-ban meghatározottak szerint – kezdeményezi a felsőoktatási intézmény által megszervezett vizsga eredményének, a kiállított bizonyítványnak, oklevélnek érvénytelenné nyilvánítását.
 
@@ -1707,7 +1790,7 @@ címet adományozhat.
 
 (3) Az oktatásügyi közvetítői szolgálat célja, hogy elősegítse az e törvényben meghatározott jogokkal kapcsolatban keletkezett vitás ügyek rendezését, feltéve, hogy a vitás ügy rendezése nem tartozik más külön törvényben szabályozott közvetítői vagy békéltetői eljárásra. A közvetítés olyan sajátos konfliktuskezelő, vitarendező eljárás, amelynek célja a felek közötti vita rendezésének megoldását tartalmazó írásbeli megállapodás létrehozása. Az eljárásban közvetítő vesz részt. A közvetítő feladata, hogy pártatlanul, lelkiismeretesen, legjobb tudása szerint közreműködjék a felek közötti vitát lezáró megállapodás létrehozásában.
 
-(4) Ha a nemzetiségek jogairól szóló törvény alapján az országos nemzetiségi önkormányzat kezdeményezi az anyanyelvű vagy anyanyelvi felsőfokú oktatás feltételeinek a megteremtését, a miniszter – az igények mérlegelése után – nemzetközi megállapodás megkötésének kezdeményezésével, munkaterv megkötésével, illetve az anyaországban folytatott felsőfokú tanulmányokban való részvételre vagy hazai felsőoktatási intézményekben a szükséges feltételek biztosítására kiírt pályázattal biztosítja a feltételeket.
+(4) Ha a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény 18. §-a (3) bekezdésének a) pontja alapján az országos kisebbségi önkormányzat kezdeményezi az anyanyelvű vagy anyanyelvi felsőfokú oktatás feltételeinek a megteremtését, a miniszter – az igények mérlegelése után – nemzetközi megállapodás megkötésének kezdeményezésével, munkaterv megkötésével, illetve az anyaországban folytatott felsőfokú tanulmányokban való részvételre vagy hazai felsőoktatási intézményekben a szükséges feltételek biztosítására kiírt pályázattal biztosítja a feltételeket.
 
 (5) A miniszter a szenátus kezdeményezésére köztársasági ösztöndíjat adományoz a kimagasló teljesítményt nyújtó hallgatók részére. Az ösztöndíj adományozásának rendjét és feltételeit a Kormány határozza meg.
 
@@ -1723,9 +1806,9 @@ címet adományozhat.
 
 (5) A miniszter törvényességi ellenőrzési joga nem érinti a más jogszabályok alapján gyakorolt ellenőrzési, felügyeleti jogosítványokat.
 
-105/A. § (1) A miniszter törvényességi ellenőrzést gyakorol a Magyarország területén természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet által – az e törvényben meghatározott (engedélyezési, működési) feltételek hiányában – folytatott felsőoktatási oktatási alaptevékenység körébe tartozó tevékenység felett. Az ellenőrzésben miniszteri döntés alapján a regisztrációs központ közreműködik.
+105/A. § (1) A miniszter törvényességi ellenőrzést gyakorol a Magyar Köztársaság területén természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet által – az e törvényben meghatározott (engedélyezési, működési) feltételek hiányában – folytatott felsőoktatási oktatási alaptevékenység körébe tartozó tevékenység felett. Az ellenőrzésben miniszteri döntés alapján a regisztrációs központ közreműködik.
 
-(2) Az engedély nélküli felsőoktatási tevékenységet folytatókat a miniszter e tevékenységüktől eltiltja és – az eltiltásról szóló döntés közzététele mellett – ötszázezer forinttól huszonötmillió forintig terjedő bírsággal sújthatja.
+(2) Az engedély nélküli felsőoktatási tevékenységet folytatókat a miniszter e tevékenységtől eltiltja és – az eltiltásról szóló döntés közzététele mellett – ötszázezer forinttól huszonötmillió forintig terjedő bírsággal sújthatja. A határidőre meg nem fizetett bírság adók módjára behajtandó köztartozásnak minősül.
 
 (3) A miniszter döntésének meghozatala, a bírság mértékének megállapítása során különösen az (1) bekezdés szerinti
 
@@ -1737,7 +1820,7 @@ címet adományozhat.
 
 ### A felsőoktatási intézmények működésével kapcsolatos eljárások
 
-106. § (1) A felsőoktatási intézmény létesítésével, átalakulásával kapcsolatos ügyekben első fokon a regisztrációs központ jár el. Döntése előtt beszerzi a Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleményét. A regisztrációs központ határozata ellen benyújtott fellebbezést a miniszter bírálja el. A miniszter döntése előtt beszerzi a Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleményét. A miniszter a szakértői véleményhez kötve van, ha az abban foglaltak az elsőfokú eljárásban készített szakértői véleménnyel megegyeznek. E bekezdésben foglaltakat kell alkalmazni akkor is, ha a magyar felsőoktatási intézmény Magyarország területén kívül kíván székhelyen kívüli képzést folytatni.
+106. § (1) A felsőoktatási intézmény létesítésével, átalakulásával kapcsolatos ügyekben első fokon a regisztrációs központ jár el. Döntése előtt beszerzi a Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleményét. A regisztrációs központ határozata ellen benyújtott fellebbezést a miniszter bírálja el. A miniszter döntése előtt beszerzi a Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleményét. A miniszter a szakértői véleményhez kötve van, ha az abban foglaltak az elsőfokú eljárásban készített szakértői véleménnyel megegyeznek. E bekezdésben foglaltakat kell alkalmazni akkor is, ha a magyar felsőoktatási intézmény a Magyar Köztársaság területén kívül kíván székhelyen kívüli képzést folytatni.
 
 (2) A felsőoktatási intézmény alap- és mesterképzésben szakindítás előtt, beszerzi a Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleményét. Ha a szakértői véleményben foglaltakkal a felsőoktatási intézmény nem ért egyet, a regisztrációs központnál eljárást kezdeményezhet. A regisztrációs központ – a Magyar Felsőoktatási Akkreditációs Bizottság újabb szakértői véleményének beszerzése után – első fokon dönt. A regisztrációs központ a Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleményéhez kötve van. A regisztrációs központ határozata ellen benyújtott fellebbezést a miniszter bírálja el. A miniszter a Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleményétől eltérhet.
 
@@ -1766,7 +1849,7 @@ címet adományozhat.
 - a) hatósági ellenőrzés keretében vizsgálja a nyilvántartásában szereplő felsőoktatási intézmények működésének jogszerűségét,
 - b) részt vesz a miniszter törvényességi ellenőrzési vizsgálatának lefolytatásában.
 
-(4)
+(4) A regisztrációs központ az országgyűlési biztos megkeresésére vizsgálatot folytat.
 
 (5) A regisztrációs központ a (3) bekezdés a) pontjában meghatározott hatósági ellenőrzése eredményeként
 
@@ -1775,7 +1858,7 @@ címet adományozhat.
 - c) ötvenezer forinttól hárommillió forintig terjedő mértékű felügyeleti bírságot szabhat ki,
 - d) külföldi felsőoktatási intézmények esetében ellenőrzésének eredményéről tájékoztatja az intézmény honos országának illetékes szerveit.
 
-(6) A regisztrációs központ közhiteles nyilvántartást vezet a felsőoktatási intézményekről, továbbá – a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvény rendelkezései szerint – dönt a nem költségvetési szervként működő felsőoktatási intézmény közhasznúsági nyilvántartásba vételéről. A regisztrációs központ veszi nyilvántartásba az e törvénnyel létrehozott jogi személy Hallgatói Önkormányzatok Országos Konferenciáját, a Magyar Felsőoktatási Akkreditációs Bizottságot, a Felsőoktatási és Tudományos Tanácsot és a Magyar Rektori Konferenciát.
+(6) A regisztrációs központ közhiteles nyilvántartást vezet a felsőoktatási intézményekről, továbbá dönt a nem költségvetési szervként működő felsőoktatási intézmény közhasznúsági nyilvántartásba vételéről. A regisztrációs központ veszi nyilvántartásba az e törvénnyel létrehozott jogi személy Hallgatói Önkormányzatok Országos Konferenciáját, a Magyar Felsőoktatási Akkreditációs Bizottságot, a Felsőoktatási és Tudományos Tanácsot és a Magyar Rektori Konferenciát.
 
 (7) A magyarországi felsőoktatási intézmények által kötelezően használt nyomtatványok előállítását és forgalomba hozatalát – ide értve annak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti határon átnyúló szolgáltatásnyújtás keretében történő megvalósulását is – a regisztrációs központ engedélyezi. Az engedély a jogszabályi előírásoknak történő megfelelés hiányában tagadható meg.
 
@@ -1801,11 +1884,104 @@ címet adományozhat.
 
 ### A Magyar Felsőoktatási Akkreditációs Bizottság
 
-109–111. §
+109. § (1) A Magyar Felsőoktatási Akkreditációs Bizottság az intézmény és programakkreditáció keretében a felsőoktatásban folyó képzés, tudományos kutatás, művészeti alkotótevékenység minőségének értékelésére, valamint az intézményi minőségfejlesztési program fejlesztése érdekében tett intézkedések megvalósulásának külső értékelésére és nyomon követésére létrehozott független, országos szakértői testület.
+
+(2) A Magyar Felsőoktatási Akkreditációs Bizottság ellátja az e törvényben meghatározott feladatait, így különösen:
+
+- a) közreműködik a felsőoktatás fejlesztésével összefüggő tervek, az ágazati minőségpolitika elveinek elkészítésében és megvalósulásának figyelemmel kísérésében,
+- b) figyelemmel kíséri a felsőoktatás minőségfejlesztési tevékenységének és az Európai Felsőoktatási Térség fejlesztése irányelveinek harmonizációját,
+- c) részt vesz a felsőoktatási képzés és tudományos kutatói, művészeti alkotótevékenység ágazati szintű értékelésében,
+- d) e törvényben szabályozott módon közreműködik a felsőoktatási intézményekkel kapcsolatos eljárásokban,
+- e) ötévenként, munkaterve szerint értékeli
+  - ea) a felsőoktatási intézményben folyó képzési, tudományos kutatási, művészeti alkotótevékenységet, azt, hogy a felsőoktatási intézmény mely képzési, illetve tudományterületen, képzési szinten rendelkezik a szükséges feltételekkel, valamint
+  - eb) a képzési, tudományos kutatási, művészeti alkotótevékenység fejlesztésére a minőségfejlesztési programban meghatározott intézkedések megvalósulását,
+- f) a felsőoktatási intézmény megkeresésére
+  - fa) szakértői véleményt ad az alap- és mesterképzésben képzés indításáról, a doktori iskola létesítéséről,
+  - fb) véleményt nyilvánít képzési, tudományos kutatási és művészeti alkotótevékenységről.
+
+(3) A Magyar Felsőoktatási Akkreditációs Bizottság véleményezi a felsőoktatásról szóló törvény és végrehajtási rendeleteinek tervezeteit.
+
+(4) A Magyar Felsőoktatási Akkreditációs Bizottság az e törvény felhatalmazása alapján, az e törvényben megjelölt tárgykörben alkotott jogszabályhoz társuló egyetértési jogát [153. § (3) bekezdés b) pont] a jogi szabályozással érintett tudományos és ehhez kapcsolódó oktatási, kutatási kérdések tekintetében gyakorolja. Ha a Magyar Felsőoktatási Akkreditációs Bizottság a jogszabály tervezetével kapcsolatosan a beérkezéstől számított harminc napon belül nem nyilatkozik, egyetértését vélelmezni kell.
+
+110. § (1)
+
+(2) Ha a Magyar Felsőoktatási Akkreditációs Bizottság nemzeti vagy etnikai kisebbségi képzést érintő kérdésekben foglal állást, előtte beszerzi az érintett országos kisebbségi önkormányzat véleményét.
+
+(3)
+
+(4) A Magyar Felsőoktatási Akkreditációs Bizottság kezdeményezheti a miniszternél, hogy gyakorolja a 105. §-ban meghatározott jogkörét.
+
+(5) Ha egy ügyben a Magyar Felsőoktatási Akkreditációs Bizottságnak több alkalommal kell állást foglalnia, a különböző eljárásokban a szakértői vélemények elkészítése során biztosítani kell, hogy az eljárásban ne vegyen részt olyan személy, aki a korábbi szakértői vélemény elkészítésében közreműködött. A szakértői vélemények elkészítésére százhúsz nap áll rendelkezésre, amely határidő az eljárás kezdeményezőjének egyidejű értesítésével egy alkalommal, legfeljebb harminc nappal meghosszabbítható. Az egyetemi tanári munkaköri címre vonatkozó kinevezési javaslat esetében a pályázóval kapcsolatos szakértői vélemény elkészítésére – a kinevezési javaslatnak a Magyar Felsőoktatási Akkreditációs Bizottsághoz való beérkezésétől számított – hatvan nap áll rendelkezésre.
+
+(6) A miniszter által elrendelt hatósági ellenőrzés keretében kért szakértői véleményét a Magyar Felsőoktatási Akkreditációs Bizottság harminc napon belül adja meg.
+
+(7) A Magyar Felsőoktatási Akkreditációs Bizottság a feladatainak ellátásához szükséges intézményi dokumentumokat bekérheti, illetve a helyszínen megtekintheti azokat.
+
+(8) A Magyar Felsőoktatási Akkreditációs Bizottság állásfoglalását, javaslatát a Kormány által meghatározottak szerint, továbbá – a Bizottság kezdeményezésére – a Magyar Köztársaság hivatalos lapjában és a miniszter által vezetett minisztérium honlapján közzé kell tenni.
+
+(9) A Magyar Felsőoktatási Akkreditációs Bizottságnak a döntés-előkészítő és döntéshozatali tevékenységei minden szintjén biztosítania kell az elfogulatlan, pártatlan, objektív szempontokon alapuló szakmai álláspont kialakításának feltételeit. A Magyar Felsőoktatási Akkreditációs Bizottság szervezeti és működési rendjét – a Kormány által meghatározott keretek között – úgy alakítja ki, hogy az a személyi összeférhetetlenség kizárását szolgálja.
+
+(10) A Magyar Felsőoktatási Akkreditációs Bizottságnak biztosítania kell a közérdekből nyilvános adatnak minősülő, az általa elfogadott szakértői vélemények és állásfoglalások tartalmának megismerhetőségét az érintettek kérésére.
+
+111. § (1) Magyar Felsőoktatási Akkreditációs Bizottságnak tizenkilenc tagja van. Tizenegy tagot (közülük egy fő nemzetközi szakértőt) delegál a Magyar Rektori Konferencia, három tagot a Magyar Tudományos Akadémia és a kutatóintézetek, kettő tagot a felsőoktatás működésében érdekelt kamarák, országos szakmai szervezetek, egy tagot a Hallgatói Önkormányzatok Országos Konferenciája, egy tagot az Országos Köznevelési Tanács, egy tagot az Országos Kisebbségi Bizottság. Nem lehet a Magyar Felsőoktatási Akkreditációs Bizottság tagja, aki a Felsőoktatási és Tudományos Tanács tagja, rektor, gazdasági tanács tagja vagy köztisztviselő. A Magyar Felsőoktatási Akkreditációs Bizottság tagjai közül megválasztja elnökét és más tisztségviselőit, valamint meghatározza működésének rendjét.
+
+(2) A delegált tagokat és az elnököt – a miniszter előterjesztésére – a miniszterelnök bízza meg három évre. A megbízás egy alkalommal meghosszabbítható. A Magyar Felsőoktatási Akkreditációs Bizottság elnökének és tagjainak a névsorát a Magyar Köztársaság hivatalos lapjában, továbbá a miniszter által vezetett minisztérium honlapján közzé kell tenni.
+
+(3) A Magyar Felsőoktatási Akkreditációs Bizottság feladatainak ellátásához állandó bizottságként működteti a tudományterületenként létrehozott képzési bizottságokat, a minőségfejlesztési bizottságot, a pedagógusképzési bizottságot és a 139. § (12) bekezdése szerint létrehozott hittudományi bizottságot. A Magyar Felsőoktatási Akkreditációs Bizottság továbbá működtethet a szervezeti és működési szabályzatában meghatározott eseti szakértői bizottságokat, valamint tanácsadó testületeket.
+
+(4) A Magyar Felsőoktatási Akkreditációs Bizottság – a 106. § (5) bekezdésében meghatározottak szerint kialakított – szakmai bírálati szempontrendszerét a Magyar Köztársaság hivatalos lapjában és a miniszter által vezetett minisztérium honlapján közzé kell tenni. Az új, illetve módosított szempontrendszert a hivatalos lapban történő közzététel időpontja után egy évvel benyújtott kérelmek, illetve szakértői vélemények tekintetében lehet alkalmazni.
+
+(5) A Magyar Felsőoktatási Akkreditációs Bizottság – hazai és külföldi – szakértőket vehet igénybe.
+
+(6) A Magyar Felsőoktatási Akkreditációs Bizottság jogi személy, amely az (1) bekezdés alapján létrehozott testületből és titkárságból áll. A Magyar Felsőoktatási Akkreditációs Bizottság székhelye Budapest, képviseletére az elnök jogosult. A Magyar Felsőoktatási Akkreditációs Bizottság – közhasznúsági nyilvántartásba vétel nélkül – kiemelkedően közhasznú szervezet. A titkárságban foglalkoztatottakkal kapcsolatos munkáltatói jogokat a Magyar Felsőoktatási Akkreditációs Bizottság elnöke gyakorolja. A titkárság élén főtitkár áll, akire a Magyar Felsőoktatási Akkreditációs Bizottság elnöke átruházhatja egyes hatásköreit. A Magyar Felsőoktatási Akkreditációs Bizottság titkárságán foglalkoztatottak juttatásaira és szabadságára a közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni. A Magyar Felsőoktatási Akkreditációs Bizottság működéséhez szükséges fedezetet a miniszter által vezetett minisztérium költségvetésében elkülönítetten kell megtervezni. A Magyar Felsőoktatási Akkreditációs Bizottság költségvetése felett a rendelkezési jog a Magyar Felsőoktatási Akkreditációs Bizottság elnökét illeti meg. A Magyar Felsőoktatási Akkreditációs Bizottság feladatainak ellátásában, gazdálkodásában nem utasítható. A Magyar Felsőoktatási Akkreditációs Bizottság feladataival összhangban részt vehet a nyilvános pályázatokon.
+
+(7) A Magyar Felsőoktatási Akkreditációs Bizottságot a regisztrációs központ veszi nyilvántartásba, alapító okiratát a miniszter adja ki. A Magyar Felsőoktatási Akkreditációs Bizottság szervezeti és működési szabályzatot készít, amelyet a miniszter hagy jóvá.
+
+(8) A Magyar Felsőoktatási Akkreditációs Bizottság Felülvizsgálati Bizottságot hoz létre, a 106. § (8) bekezdésében meghatározott, megismételt szakértői vélemény elkészítésével kapcsolatos feladatok ellátására. A Felülvizsgálati Bizottság három tagból áll. Két tagját a Magyar Rektori Konferencia, egy tagját a Magyar Felsőoktatási Akkreditációs Bizottság testülete jelöli hároméves időtartamra. A Felülvizsgálati Bizottság tagja olyan személy lehet, aki legalább három évig a Magyar Felsőoktatási Akkreditációs Bizottságnak vagy valamely szakbizottságának nem volt tagja. A Felülvizsgálati Bizottság tagjaira az (1) bekezdésben megfogalmazott összeférhetetlenségi szabályokat is alkalmazni kell.
+
+(9) A Magyar Felsőoktatási Akkreditációs Bizottság megalakításával, a tagsággal kapcsolatos összeférhetetlenséggel, a tagság megszűnésével, a Magyar Felsőoktatási Akkreditációs Bizottság működésével, feladatainak ellátásával összefüggő kérdéseket a Kormány határozza meg, azzal a megkötéssel, hogy a Magyar Felsőoktatási Akkreditációs Bizottság ülésein, a doktori képzéssel kapcsolatos napirendi pont tárgyalása esetén, tanácskozási joggal a Doktoranduszok Országos Szövetségének képviselője is részt vehet. A Magyar Felsőoktatási Akkreditációs Bizottság felett a miniszter gyakorol – a Kormány által meghatározottak szerint – törvényességi ellenőrzést.
 
 ### A Felsőoktatási és Tudományos Tanács
 
-112–113. §
+112. § (1) A Felsőoktatási és Tudományos Tanács a miniszter – a felsőoktatás fejlesztési, finanszírozási és kutatás-fejlesztési kérdéseiben – döntés-előkészítő, véleményező és javaslattevő független szakértői testülete.
+
+(2) A Felsőoktatási és Tudományos Tanács a felsőoktatás képzési és kutatási rendszerének társadalmi-gazdasági beágyazottságával, a rendszer fejlesztésével és finanszírozásával kapcsolatos döntések előkészítésében vesz részt, és azok végrehajtásának figyelemmel kísérésében működik közre.
+
+(3) A Felsőoktatási és Tudományos Tanács figyelemmel kíséri és elemzi a felsőoktatás és a társadalom kapcsolatát, különösen a munkaerőpiac felsőfokú szakemberigényét. Javaslatot tesz az államilag támogatott képzésbe felvehető éves hallgatói létszámkeretre, annak képzési területek és képzési szintek szerinti elosztására. Állást foglal a felsőoktatás és a munkaerőpiac kapcsolatával összefüggő oktatáspolitikai kérdésekben, prognózisokat készít a várható munkaerő-piaci változásokról, és ezzel kapcsolatban javaslatokat tesz a képzési rendszer korszerűsítésére.
+
+(4) A Felsőoktatási és Tudományos Tanács véleményezi a felsőoktatási rendszer éves költségvetési tervezetét, és állást foglal az éves költségvetési beszámolóról. A felsőoktatás költségvetése tekintetében elemzéseket, javaslatokat készít.
+
+(5) A Felsőoktatási és Tudományos Tanács véleményezi a felsőoktatásról szóló törvény és annak végrehajtási rendeletei, illetve a felsőoktatást szabályozó miniszteri rendeletek tervezeteit.
+
+(6) A Felsőoktatási és Tudományos Tanács a miniszter felkérésére bármely, a felsőoktatást érintő kérdésben kialakítja véleményét, állásfoglalását, javaslatát.
+
+(7) A Felsőoktatási és Tudományos Tanács
+
+- a) felkérésre véleményezi
+  - aa) az intézményi fejlesztési tervekhez kapcsolódó pályázatokat,
+  - ab) a megállapodás alapján nyújtható támogatás iránti kérelmeket,
+- b) javaslatot dolgozhat ki a felsőoktatással kapcsolatos bármely kérdésben,
+- c) ajánlást dolgozhat ki a felsőoktatási intézmények részére a kormányzati szervek vagy felsőoktatási intézmények kezdeményezésére.
+
+(8) A Felsőoktatási és Tudományos Tanács a (7) bekezdésben meghatározottak alapján elkészített javaslatához, véleményéhez beszerzi az adott kérdésben érdekelt minisztérium véleményét.
+
+(9) A Felsőoktatási és Tudományos Tanács véleményt nyilvánít az oktatási jogok biztosának megbízása, illetve felmentése előtt.
+
+113. § (1) A Felsőoktatási Tudományos Tanácsnak tizenkilenc tagja van. Négy tagot delegálnak a kamarák, egy-egy tagot az Országos Érdekegyeztető Tanács munkáltatói, illetve munkavállalói oldala, hármat a Magyar Rektori Konferencia, kettőt a Magyar Tudományos Akadémia, kettőt a miniszter, egyet-egyet a Hallgatói Önkormányzatok Országos Konferenciája, a Doktoranduszok Országos Szövetsége, a Felsőoktatási Dolgozók Szakszervezete, a foglalkoztatáspolitikáért felelős miniszter, az agrárpolitikáért felelős miniszter, valamint a gazdaságpolitikáért felelős miniszter. Nem lehet a Felsőoktatási és Tudományos Tanács tagja, aki a Magyar Felsőoktatási Akkreditációs Bizottság tagja, rektor, gazdasági tanács tagja vagy köztisztviselő. A Felsőoktatási és Tudományos Tanács tagjai közül megválasztja elnökét és más tisztségviselőit, valamint meghatározza működési rendjét.
+
+(2) A Felsőoktatási és Tudományos Tanács tagjait és elnökét – a miniszter előterjesztésére – a miniszterelnök bízza meg három évre. A megbízás egy alkalommal meghosszabbítható. A Felsőoktatási és Tudományos Tanács elnökének és tagjainak a névsorát a Magyar Köztársaság hivatalos lapjában, továbbá a miniszter által vezetett minisztérium honlapján közzé kell tenni.
+
+(3) A Felsőoktatási és Tudományos Tanács mellett állandó és ideiglenes szakmai és szakértői bizottságok működhetnek. A szakértői bizottságok munkájában részt vesznek a képzésben érdekelt miniszterek, az Országos Érdekegyeztető Tanács munkaadói oldalának egy-egy képviselője, valamint az országos kisebbségi önkormányzatok által delegált egy személy.
+
+(4) A Felsőoktatási és Tudományos Tanács magyar és külföldi szakértőket alkalmazhat.
+
+(5) A Felsőoktatási és Tudományos Tanács jogi személy, amely az (1) bekezdés alapján létrehozott testületből és titkárságból áll. A Felsőoktatási és Tudományos Tanács székhelye Budapest, képviseletére az elnök jogosult. A Felsőoktatási és Tudományos Tanács – közhasznúsági nyilvántartásba vétel nélkül – kiemelkedően közhasznú szervezet. A titkárságban foglalkoztatottakkal kapcsolatos munkáltatói jogokat a Felsőoktatási és Tudományos Tanács elnöke gyakorolja. A Felsőoktatási és Tudományos Tanács titkárságán foglalkoztatottak juttatásaira és szabadságára a közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni. A Felsőoktatási és Tudományos Tanács működéséhez szükséges fedezetet a miniszter által vezetett minisztérium költségvetésében elkülönítetten kell megtervezni. A Felsőoktatási és Tudományos Tanács költségvetése felett a rendelkezési jog a Felsőoktatási és Tudományos Tanács elnökét illeti meg, aki e körben nem utasítható. A Felsőoktatási és Tudományos Tanács feladataival összhangban részt vehet a nyilvános pályázatokon. A titkárságot a főtitkár vezeti. A Felsőoktatási és Tudományos Tanács elnöke egyes hatásköreit a főtitkárra átruházhatja.
+
+(6)
+
+(7) A Felsőoktatási és Tudományos Tanács alapító okiratát a miniszter adja ki, a Tanácsot a regisztrációs központ veszi nyilvántartásba. A Felsőoktatási és Tudományos Tanács szervezeti és működési szabályzatot készít, melyet a miniszter hagy jóvá.
+
+(8) A Felsőoktatási és Tudományos Tanács megalakításával, a tagsággal kapcsolatos összeférhetetlenséggel, a tagság megszűnésével, a Felsőoktatási és Tudományos Tanács működésével, feladatainak ellátásával, titkárságának működésével összefüggő kérdéseket a Kormány rendeletben határozza meg. A Felsőoktatási és Tudományos Tanács felett a miniszter gyakorol – a Kormány által meghatározottak szerint – törvényességi ellenőrzést.
 
 ### A felsőoktatási intézmények vezetőinek testületei
 
@@ -1813,7 +1989,7 @@ címet adományozhat.
 
 (2) A Magyar Rektori Konferencia tagjai a felsőoktatási intézmények rektorai. A Magyar Rektori Konferencia ülésein tanácskozási joggal részt vehet a Hallgatói Önkormányzatok Országos Konferenciájának, a Doktoranduszok Országos Szövetségének, valamint a Felsőoktatási Dolgozók Szakszervezetének egy-egy képviselője.
 
-(3) A Magyar Rektori Konferencia – alapszabályában – meghatározza működésének rendjét, megválasztja tisztségviselőit és a képviseletére jogosultakat. A Magyar Rektori Konferencia jogosult Magyarország címerének használatára.
+(3) A Magyar Rektori Konferencia – alapszabályában – meghatározza működésének rendjét, megválasztja tisztségviselőit és a képviseletére jogosultakat. A Magyar Rektori Konferencia jogosult a Magyar Köztársaság címerének használatára.
 
 (4) A Magyar Rektori Konferencia az e törvény felhatalmazása alapján, az e törvényben megjelölt tárgykörben alkotott jogszabályhoz társuló egyetértési jogát [153. § (3) bekezdés a) pont, 153. § (4) bekezdés] a jogi szabályozással érintett tudományos és ehhez kapcsolódó oktatási, kutatási kérdések tekintetében gyakorolja. Ha a Magyar Rektori Konferencia a jogszabály tervezetével kapcsolatosan a beérkezéstől számított harminc napon belül nem nyilatkozik, egyetértését vélelmezni kell.
 
@@ -1830,7 +2006,7 @@ címet adományozhat.
 (2) A fenntartó
 
 - a) kezdeményezi a regisztrációs központnál a felsőoktatási intézmény állami elismerésre, illetve állami elismerésének visszavonására irányuló eljárást;
-- b) saját hatáskörben kiadja, illetve módosítja a felsőoktatási intézmény alapító okiratát,
+- b) saját hatáskörben – állami felsőoktatási intézmény esetén a költségvetési szervek jogállásáról szóló törvény 3. § (2) bekezdésében előírt egyetértéshez, hozzájáruláshoz nem kötött intézkedésével – kiadja, illetve módosítja a felsőoktatási intézmény alapító okiratát,
 - c) közli a felsőoktatási intézmény költségvetésének kereteit (főösszegeit) és értékeli a számviteli rendelkezések alapján elkészített éves beszámolóját;
 - d) megvizsgálja
   - da) a felsőoktatási intézmény szervezeti és működési szabályzatát,
@@ -1840,9 +2016,9 @@ címet adományozhat.
   - ea) a felsőoktatási intézmény gazdálkodását, működésének törvényességét, hatékonyságát,
   - eb) a szakmai munka eredményességét;
 - f) kezdeményezi a rektor megbízását és felmentését, továbbá gyakorolja felette a munkáltatói jogokat;
-- g) a rektor – valamennyi alkalmasnak talált pályázó felsorolását tartalmazó javaslatának figyelembevételével – javaslatára megbízza a gazdasági vezetőt – költségvetési szervként működő felsőoktatási intézmény esetén a belső ellenőrzési egység vezetőjét –, illetve a rektor, a gazdasági tanács vagy saját kezdeményezésére visszavonhatja a megbízását. Állami felsőoktatási intézmény esetében e pont vonatkozásában fenntartón az állami vagyon felügyeletéért felelős minisztert kell érteni;
-- h) gondoskodik a költségvetési szervként működő felsőoktatási intézmény éves elemi költségvetési beszámolójának ellenőrzéséről.
-- i)
+- g) a rektor javaslatára megbízza a gazdasági vezetőt – költségvetési szervként működő felsőoktatási intézmény esetén a belső ellenőrzési egység vezetőjét –, illetve a rektor, a gazdasági tanács vagy saját kezdeményezésére visszavonja a megbízását;
+- h) gondoskodik a költségvetési szervként működő felsőoktatási intézmény éves elemi költségvetési beszámolójának ellenőrzéséről;
+- i) az államháztartásról szóló törvényben foglaltak szerint vizsgálja, hatásvizsgálat keretében bemutatja a költségvetési szervként működő felsőoktatási intézményi tevékenység keretében ellátott közfeladat-ellátási igény meglétét, a közfeladat-ellátás más megoldási módokkal, más szervezeti megoldásokkal szembeni előnyét.
 
 (3) A fenntartó a szervezeti és működési szabályzat egységességét, teljességét, törvényességét, hatékonyságnak való megfelelőségét vizsgálja.
 
@@ -1852,13 +2028,13 @@ címet adományozhat.
 
 (6) A fenntartó a szakmai munka eredményességét és az intézmény működésének hatékonyságát a felsőoktatási intézmény által az éves gazdálkodásáról – a számviteli rendelkezések szerint – készített beszámoló és az intézményi minőségfejlesztési program végrehajtásáról szóló beszámoló alapján értékeli és indokolt esetben – megfelelő határidő tűzésével – intézkedést kezdeményez.
 
-(7) A felsőoktatási intézmény a szervezeti és működési szabályzatát, intézményfejlesztési tervét, költségvetését, kötelezettségvállalási tervét, és végrehajtásának ütemtervét, valamint ezek módosítását a szenátus döntésétől számított tizenöt napon belül megküldi a fenntartónak. Ha a felsőoktatási intézmény a költségvetésétől, a kötelezettségvállalási tervétől eltérő döntést kíván hozni, azt előzetesen meg kell küldenie a fenntartónak. A fenntartó a szenátus által hozott egyéb döntések megküldését is kérheti. Az állami felsőoktatási intézmény esetén az intézményfejlesztési tervet, költségvetést, kötelezettségvállalási tervet, és végrehajtásának ütemtervét, valamint ezek módosítását tájékoztatás céljából az állami vagyon felügyeletéért felelős miniszternek, valamint az államháztartásért felelős miniszternek is meg kell küldeni.
+(7) A felsőoktatási intézmény a szervezeti és működési szabályzatát, intézményfejlesztési tervét, költségvetését, kötelezettségvállalási tervét, és végrehajtásának ütemtervét, valamint ezek módosítását a szenátus döntésétől számított tizenöt napon belül megküldi a fenntartónak. Ha a felsőoktatási intézmény a költségvetésétől, a kötelezettségvállalási tervétől eltérő döntést kíván hozni, azt előzetesen meg kell küldenie a fenntartónak. A fenntartó a szenátus által hozott egyéb döntések megküldését is kérheti.
 
 (8) A fenntartó a felsőoktatási intézmény költségvetésével, kötelezettségvállalási tervével, a költségvetés végrehajtásának ütemtervével kapcsolatos észrevételeit a megküldéstől számított harminc napon belül, a szervezeti és működési szabályzattal kapcsolatos észrevételeit a megküldéstől számított hatvan napon belül, az intézményfejlesztési tervvel kapcsolatos észrevételeit kilencven napon belül közölheti a felsőoktatási intézménnyel. Ez a határidő egy alkalommal, legfeljebb harminc nappal meghosszabbítható. Ha a fenntartó a felsőoktatási intézmény költségvetésével, kötelezettségvállalási tervével, és végrehajtásának ütemtervével, vagy a szervezeti és működési szabályzatban, illetve az intézményfejlesztési tervben foglaltakkal nem ért egyet – egy alkalommal, megfelelő határidő tűzésével – visszaküldi azt a felsőoktatási intézménynek, kezdeményezve annak átdolgozását.
 
 (9) A fenntartó bírósági eljárást kezdeményezhet, ha a felsőoktatási intézmény az (5)–(8) bekezdésben meghatározott felhívásnak nem tesz eleget.
 
-(10) A bírósági eljárás a megszabott határidő lejártától számított harminc napon belül indítható meg. A bíróság nemperes eljárásban, soron kívül határoz. A határidő jogvesztő. A bíróság a fenntartó kérésére a felsőoktatási intézmény döntését megváltoztathatja, illetve elrendelheti, hogy a felsőoktatási intézmény részben vagy egészben tegyen eleget a fenntartó felhívásában foglaltaknak. Az eljárásra a Fővárosi Törvényszék az illetékes. A kérelem benyújtásának a döntés végrehajtására halasztó hatálya van.
+(10) A bírósági eljárás a megszabott határidő lejártától számított harminc napon belül indítható meg. A bíróság nemperes eljárásban, soron kívül határoz. A határidő jogvesztő. A bíróság a fenntartó kérésére a felsőoktatási intézmény döntését megváltoztathatja, illetve elrendelheti, hogy a felsőoktatási intézmény részben vagy egészben tegyen eleget a fenntartó felhívásában foglaltaknak. Az eljárásra a Fővárosi Bíróság az illetékes. A kérelem benyújtásának a döntés végrehajtására halasztó hatálya van.
 
 (11) Ha a felsőoktatási intézmény a költségvetésétől, a kötelezettségvállalási tervétől eltérő döntést kíván hozni, a fenntartónak kifogásait a megküldéstől számított tizenöt napon belül közölnie kell. A felsőoktatási intézmény a fenntartó által közölt kifogásba ütköző döntést a szenátus valamennyi tagjának egyhangú szavazatával hozhatja meg.
 
@@ -1874,27 +2050,27 @@ címet adományozhat.
 - a) a fenntartó a rektorjelölt személyével kapcsolatos szenátusi döntés megküldését a köztársasági elnök, illetve a miniszterelnök részére akkor tagadhatja meg, ha a jelölt nem felel meg az előírt feltételeknek, illetve a szenátus döntéshozatali eljárása nem volt jogszerű,
 - b) a regisztrációs központ határozata ellen a 106. § (1) bekezdésében felsorolt ügyekben fellebbezésnek nincs helye.
 
-(14) A fenntartói irányítás nem sértheti a felsőoktatási intézmény e törvényben biztosított önállóságát, az intézmény döntési hatásköreit. A felsőoktatási intézmény szenátusának döntése alapján a rektor a fenntartói intézkedéssel szemben – ide nem értve a (8) bekezdés szerinti fenntartói észrevételt, visszaküldést, illetőleg a (11) bekezdés szerinti fenntartói kifogást – a közléstől számított harminc napon belül bírósági eljárást kezdeményezhet, kérve annak megállapítását, hogy a fenntartó döntése sérti a felsőoktatási intézmény e törvényben biztosított önállóságát. A bíróság nemperes eljárásban, soron kívül határoz. A határidő jogvesztő. A bíróság a fenntartó döntését megváltoztathatja. Az eljárásra a Fővárosi Törvényszék az illetékes. A kérelem benyújtásának a döntés végrehajtására halasztó hatálya van.
+(14) A fenntartói irányítás nem sértheti a felsőoktatási intézmény e törvényben biztosított önállóságát, az intézmény döntési hatásköreit. A felsőoktatási intézmény szenátusának döntése alapján a rektor a fenntartói intézkedéssel szemben – ide nem értve a (8) bekezdés szerinti fenntartói észrevételt, visszaküldést, illetőleg a (11) bekezdés szerinti fenntartói kifogást – a közléstől számított harminc napon belül bírósági eljárást kezdeményezhet, kérve annak megállapítását, hogy a fenntartó döntése sérti a felsőoktatási intézmény e törvényben biztosított önállóságát. A bíróság nemperes eljárásban, soron kívül határoz. A határidő jogvesztő. A bíróság a fenntartó döntését megváltoztathatja. Az eljárásra a Fővárosi Bíróság az illetékes. A kérelem benyújtásának a döntés végrehajtására halasztó hatálya van.
 
 ## HATODIK RÉSZ — NEMZETKÖZI VONATKOZÁSÚRENDELKEZÉSEK
 
 ### KÜLFÖLDI FELSŐOKTATÁSI INTÉZMÉNYEK MAGYARORSZÁGON, MAGYAR FELSŐOKTATÁSI INTÉZMÉNYEK KÜLFÖLDÖN
 
-116. § (1) Magyarország területén külföldi felsőoktatási intézmény akkor működhet, illetve akkor adhat ki külföldi oklevelet, ha abban az államban, ahonnan származik, az intézményt felsőoktatási intézménynek, az általa kiadott oklevelet pedig az ilyen felsőoktatási intézménynek megfelelő oklevélnek jogszerűen elismerik, s az elismerést hitelt érdemlően bizonyították, továbbá a működés megkezdéséhez szükséges engedélyt a regisztrációs központ kiadta. Ha törvény eltérően nem rendelkezik, a külföldi felsőoktatási intézmény alapítására, az intézményben folyó oktató és kutató munkára, valamint annak ellenőrzésére, az intézmény működésére, a felvételi feltételek meghatározására annak az államnak az előírásait kell alkalmazni, amelyik a felsőoktatási intézményt sajátjának elismerte.
+116. § (1) A Magyar Köztársaság területén külföldi felsőoktatási intézmény akkor működhet, illetve akkor adhat ki külföldi oklevelet, ha abban az államban, ahonnan származik, az intézményt felsőoktatási intézménynek, az általa kiadott oklevelet pedig az ilyen felsőoktatási intézménynek megfelelő oklevélnek jogszerűen elismerik, s az elismerést hitelt érdemlően bizonyították, továbbá a működés megkezdéséhez szükséges engedélyt a regisztrációs központ kiadta. Ha törvény eltérően nem rendelkezik, a külföldi felsőoktatási intézmény alapítására, az intézményben folyó oktató és kutató munkára, valamint annak ellenőrzésére, az intézmény működésére, a felvételi feltételek meghatározására annak az államnak az előírásait kell alkalmazni, amelyik a felsőoktatási intézményt sajátjának elismerte.
 
 (2) Ha a regisztrációs központ az (1) bekezdésben meghatározott feltételek meglétét megállapította, a fenntartónak a működés megkezdéséhez szükséges engedélyt – határozatlan időre – megadja. A működés megkezdéséhez szükséges engedély kiadása – a (6) bekezdés kivételével – megtagadható, ha a külföldi oklevél végzettségi szintjének a magyarországi elismerésére nincs lehetőség. A külföldi felsőoktatási intézményt a regisztrációs központ veszi nyilvántartásba. A külföldi felsőoktatási intézmények működése felett a miniszter gyakorolja a 105. §-ban meghatározott jogkörét, ennek keretei között – legalább nyolcévenként – kérheti, hogy igazolják az (1) bekezdésben meghatározott feltételek fennállását. A regisztrációs központ az engedélyezési eljárásban és a 105. § (4) bekezdésében meghatározott közreműködése során, valamint a miniszter a 105. §-ban meghatározott jogköre gyakorlása során kérheti, hogy a külföldi felsőoktatási intézmény az (1)–(2) bekezdésben meghatározott feltételek fennállását igazoló okiratokat hiteles másolatban, illetve hiteles magyar fordításban nyújtsa be. A regisztrációs központ a honlapján közzéteszi azon nyelvek listáját, amelyek vonatkozásában az okiratok nem hiteles magyar fordítását is elfogadja.
 
 (3) Az (1) bekezdésben megjelölt, külföldi oklevelet kibocsátó felsőoktatási intézmény Magyarországon nemzetközi szerződés alapján is létrejöhet és működhet. A nemzetközi szerződés alapján létrejött és működő felsőoktatási intézményeket a regisztrációs központ hivatalból felveszi a (2) bekezdésben szabályozott nyilvántartásba. A nemzetközi szerződés alapján létrejött és működő felsőoktatási intézményeknek – a (2) bekezdésben meghatározott – törvényességi ellenőrzésére vonatkozó rendelkezéseket a törvényben kihirdetett nemzetközi szerződés eltérő rendelkezésének hiányában kell alkalmazni.
 
-(4) Magyarország területén működő külföldi felsőoktatási intézmény részére – ha törvényben kihirdetett nemzetközi szerződés másképp nem rendelkezik – államilag támogatott hallgatói hely nem biztosítható.
+(4) A Magyar Köztársaság területén működő külföldi felsőoktatási intézmény részére – ha törvényben kihirdetett nemzetközi szerződés másképp nem rendelkezik – államilag támogatott hallgatói hely nem biztosítható.
 
 (5) Az e §-ban szabályozott felsőoktatási intézmények kötelesek bejelentkezni és adatot szolgáltatni a felsőoktatás információs rendszerének.
 
 (6) A más EGT-államban székhellyel rendelkező felsőoktatási intézmény működésének megkezdéséhez szükséges engedély kiadása nem tagadható meg arra hivatkozással, hogy az intézmény által kibocsátott külföldi oklevél végzettségi szintjének magyarországi elismerésére nincs lehetőség. A regisztrációs központ az (1)–(2) bekezdésben meghatározott engedélyezési eljárásban hivatalból vizsgálja, hogy a más EGT-államban székhellyel rendelkező felsőoktatási intézmény által kibocsátott külföldi oklevél végzettségi szintjének magyarországi elismerésére van-e lehetőség. Ez az adat a (2) bekezdésben meghatározott nyilvántartás részét képezi. Ha a más EGT-államban székhellyel rendelkező felsőoktatási intézmény által kibocsátott külföldi oklevél végzettségi szintjének magyarországi elismerésére nincs lehetőség, akkor erre az intézménynek egyértelműen és igazolhatóan fel kell hívnia a képzésre jelentkező figyelmét, amelynek teljesülését a regisztrációs központ ellenőrzi.
 
-(7) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató Magyarország területén végzett határon átnyúló szolgáltatásnyújtás keretében történő felsőoktatási tevékenységének folytatására irányuló szándékát köteles a regisztrációs központnak bejelenteni. A szabad szolgáltatásnyújtás jogával rendelkező szolgáltatót a regisztrációs központ akkor veszi nyilvántartásba, ha abban az államban, ahonnan származik, az intézményt felsőoktatási intézménynek, az általa kiadott oklevelet pedig ilyen felsőoktatási intézménynek megfelelő oklevélnek jogszerűen elismerik. A szabad szolgáltatásnyújtás jogával rendelkező szolgáltató felett a miniszter gyakorolja a 105. §-ban meghatározott jogkörét, ennek keretei között a miniszter, valamint az ellenőrzésben közreműködő regisztrációs központ kérheti, hogy működése jogszerű feltételeinek fennállását hiteles másolatban, illetve hiteles magyar fordításban benyújtott okiratok alapján igazolja. A regisztrációs központ a honlapján közzéteszi azon nyelvek listáját, amelyek vonatkozásában az okiratok nem hiteles magyar fordítását is elfogadja.
+(7) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a Magyar Köztársaság területén végzett határon átnyúló szolgáltatásnyújtás keretében történő felsőoktatási tevékenységének folytatására irányuló szándékát köteles a regisztrációs központnak bejelenteni. A szabad szolgáltatásnyújtás jogával rendelkező szolgáltatót a regisztrációs központ akkor veszi nyilvántartásba, ha abban az államban, ahonnan származik, az intézményt felsőoktatási intézménynek, az általa kiadott oklevelet pedig ilyen felsőoktatási intézménynek megfelelő oklevélnek jogszerűen elismerik. A szabad szolgáltatásnyújtás jogával rendelkező szolgáltató felett a miniszter gyakorolja a 105. §-ban meghatározott jogkörét, ennek keretei között a miniszter, valamint az ellenőrzésben közreműködő regisztrációs központ kérheti, hogy működése jogszerű feltételeinek fennállását hiteles másolatban, illetve hiteles magyar fordításban benyújtott okiratok alapján igazolja. A regisztrációs központ a honlapján közzéteszi azon nyelvek listáját, amelyek vonatkozásában az okiratok nem hiteles magyar fordítását is elfogadja.
 
-117. § (1) Magyar felsőoktatási intézmény – ha az adott ország jogrendje lehetővé teszi – Magyarország területén kívül székhelyen kívüli képzést szervezhet.
+117. § (1) Magyar felsőoktatási intézmény – ha az adott ország jogrendje lehetővé teszi – a Magyar Köztársaság területén kívül székhelyen kívüli képzést szervezhet.
 
 (2)
 
@@ -1916,13 +2092,13 @@ címet adományozhat.
 
 (2) Magyar állampolgár államilag elismert, külföldi felsőoktatási intézményben folytatott képzéséhez a miniszter által vezetett minisztérium – pályázati úton elnyerhető – ösztöndíjjal nyújthat segítséget.
 
-(3) Ha a magyar állampolgár nemzetiséghez tartozik, a miniszter által vezetett minisztérium – pályázati úton elnyerhető – ösztöndíjjal nyújt segítséget az anyanyelven folytatott felsőfokú tanulmányokban való részvételhez.
+(3) Ha a magyar állampolgár nemzeti vagy etnikai kisebbséghez tartozik, a miniszter által vezetett minisztérium – pályázati úton elnyerhető – ösztöndíjjal nyújt segítséget az anyanyelven folytatott felsőfokú tanulmányokban való részvételhez.
 
 (4) A magyar állampolgár – ha valamely EGT-államban, államilag elismert felsőoktatási intézményben oklevél megszerzésére irányuló képzésben vesz részt – hallgatói hitelt vehet igénybe.
 
 (5) Az e §-ban meghatározottak alapján folytatott külföldi tanulmányokban résztvevők jogosultak a diákigazolványra.
 
-(6) A (2)–(3) bekezdés szerinti pályázatok kiírásának és elbírálásának rendjét, a hallgatói hitel igénylését, folyósítását és elszámolását, a diákigazolvány igénylését és kiadását a Kormány határozza meg, azzal a megkötéssel, hogy a (3) bekezdésben meghatározott pályázatokat az országos nemzetiségi önkormányzat egyetértésével kell kiírni és elbírálni.
+(6) A (2)–(3) bekezdés szerinti pályázatok kiírásának és elbírálásának rendjét, a hallgatói hitel igénylését, folyósítását és elszámolását, a diákigazolvány igénylését és kiadását a Kormány határozza meg, azzal a megkötéssel, hogy a (3) bekezdésben meghatározott pályázatokat az országos kisebbségi önkormányzat egyetértésével kell kiírni és elbírálni.
 
 ### A NEM MAGYAR ÁLLAMPOLGÁROK MAGYARORSZÁGI TANULMÁNYAI
 
@@ -1948,7 +2124,7 @@ címet adományozhat.
 
 (3) A felsőoktatási intézmény a rendelkezésére bocsátott pénzeszközökkel, valamint a saját bevételével – az ésszerű és takarékos gazdálkodás követelményeivel összhangban – önállóan gazdálkodhat, az nem vonható el tőle. A felsőoktatási intézmény a saját bevételéből és előző évi bevételi előirányzat maradványaiból átmenetileg szabad pénzeszközeit – amennyiben nincs lejárt kötelezettsége – a kincstár hálózatában értékesített állampapírba fektetheti. A költségvetési szervként működő felsőoktatási intézmény a költségvetési év végén keletkezett előirányzat-maradványt vagy pénzmaradványt – jogosultsági elszámolást követően – a következő években az intézményi feladatok teljesítésére felhasználhatja. A költségvetési szervként működő felsőoktatási intézmény az éves költségvetési törvényben meghatározott bevételeit terhelő befizetési kötelezettség teljesítése alól mentesül, ha azt a 122. § (2) bekezdésében meghatározott felújítási, illetve beruházási célra használja fel.
 
-(4) A felsőoktatási intézmény vállalkozási tevékenységet folytathat, feltéve, hogy az alapfeladatainak ellátását nem veszélyezteti. A költségvetési szervként működő felsőoktatási intézményt bevétele után állami befizetési kötelezettség nem terheli.
+(4) A felsőoktatási intézmény az alaptevékenységéhez kapcsolódó kiegészítő tevékenységként is elláthatja a 4. § (1)–(2) bekezdésében szabályozott tevékenységet, továbbá vállalkozási tevékenységet is folytathat, feltéve, hogy az alapfeladatainak ellátását nem veszélyezteti. A költségvetési szervként működő felsőoktatási intézményt bevétele után állami befizetési kötelezettség nem terheli.
 
 (5) A költségvetési szervként működő felsőoktatási intézményt vállalkozási tevékenységéből származó eredménye után állami befizetési kötelezettség abban az esetben nem terheli, ha azt
 
@@ -1961,7 +2137,7 @@ címet adományozhat.
 
 (8) A költségvetési szervként működő felsőoktatási intézmény negyedévenként mérlegjelentést készít, amelyet megküld a fenntartó részére.
 
-(9)
+(9) A vállalkozó közintézetként besorolt költségvetési szerv, valamint a közintézet költségvetési szerv vállalkozó közintézetté történő besorolás feltételeit teljesítő jogi személyiségű szervezeti egységgel rendelkező közintézet költségvetési szerv a számvitelről szóló törvény szerinti üzemgazdasági (eredmény-) szemléletű könyvvezetésre és beszámolásra köteles.
 
 120/A. § A költségvetési szervként működő felsőoktatási intézmény vezetője a kiemelt előirányzatok között év közben, saját hatáskörben a feladatellátáshoz szükséges mértékben – a kincstár és a fenntartó egyidejű értesítése mellett – átcsoportosítást hajthat végre.
 
@@ -1998,31 +2174,31 @@ címet adományozhat.
 - a) látja el fejlesztési feladatait,
 - b) beruházást indíthat, illetve a rendelkezésére bocsátott, továbbá a tulajdonában lévő vagyonnal részt vehet beruházás közös megvalósításában.
 
-(2) Az állami felsőoktatási intézmény a vagyonkezelésében lévő állami vagyon tulajdonjogát saját hatáskörben, a Magyar Állam nevében eljárva átruházhatja, ami
+(2) Az állami felsőoktatási intézmény a vagyonkezelésében lévő állami vagyon tulajdonjogát saját hatáskörben, a Magyar Állam nevében eljárva átruházhatja. Az értékesítés
 
-- a) az állami vagyon értékesítésére vonatkozó általános rendelkezések betartásával,
-- b) a vagyon valós piaci értékének megfelelő ellenértéke fejében,
-- c) az állami vagyon felügyeletéért felelős miniszter előzetes hozzájárulásával,
-- d) a miniszter előzetes értesítése mellett,
+- a) az állami vagyon értékesítésére vonatkozó általános rendelkezések figyelembevételével,
+- b) a vagyon valós piaci értékének ellenértéke fejében,
+- c) a miniszter előzetes egyetértésével,
+- d) a Magyar Nemzeti Vagyonkezelő Zrt. értékesítést megelőző értesítése mellett,
 - e) ingatlan esetén az ingatlan fekvése szerinti települési – fővárosban az ingatlan fekvése szerinti kerületi – önkormányzat elővásárlási jogának biztosításával
 
 történhet.
 
-(3) Az átruházásról szóló kérelmet a felsőoktatási intézmény részletesen indokolja. Az állami vagyon felügyeletéért felelős miniszter hozzájárulásáról az átruházási szándék írásbeli bejelentésétől számított hatvan napon belül dönt. A hozzájárulás száznyolcvan napig érvényes. Az állami vagyon felügyeletéért felelős miniszter döntéséhez – amennyiben az értékesíteni kívánt vagyon ingatlan – kikéri a Magyar Nemzeti Vagyonkezelő Zrt. tájékoztatását abban a tekintetben, hogy az ingatlan szükséges-e valamely állami szerv, költségvetési szerv elhelyezésére vonatkozó, az állami vagyon felügyeletéért felelős miniszter hozzájárulása iránti kérelem beérkezésekor a Magyar Nemzeti Vagyonkezelő Zrt.-hez már bejelentett igényének kielégítéséhez.
+(3) A miniszter hozzájárulásáról az értékesítési szándék írásbeli bejelentésétől számított harminc napon belül dönt, amennyiben ezen időpontig döntést nem hozott, úgy az egyetértést megadottnak kell tekinteni. Nem szükséges az előzetes egyetértés abban az esetben ha ingatlan értékesítésére azért kerül sor, mert az intézmény legkésőbb az intézményfejlesztési tervében meghatározott időtartamon belül az értékesítendő ingatlannal azonos településen másik ingatlant kíván vásárolni. A minisztert az értékesítés megkezdését megelőzően erről tájékoztatni kell.
 
-(4)
+(4) Az értesítést követően a Magyar Nemzeti Vagyonkezelő Zrt. az értékesítés ellen a kézhezvételtől számított harminc napon belül kifogást emelhet, ha az értékesítendő vagyon társasági részesedés, illetve olyan ingatlan, amely szükséges valamely állami szerv, költségvetési intézmény elhelyezésre vonatkozó, a Magyar Nemzeti Vagyonkezelő Zrt.-hez az értesítés kézhezvételekor már bejelentett igényének kielégítéséhez. A kifogás bejelentését követően az értékesítési eljárás nem kezdhető meg. Kifogás nem emelhető, ha az ingatlan értékesítéséből származó bevételt a felsőoktatási intézmény alapfeladataihoz kapcsolódó felújítási, beruházási és egyéb fejlesztési célra fordítják, kivéve, ha a Magyar Nemzeti Vagyonkezelő Zrt. egyúttal nyilatkozik arról, hogy ezen felújítási, beruházási és egyéb fejlesztési célok megvalósításának forrását az ingatlan értékének erejéig – az állami vagyonról szóló 2007. évi CVI. törvény 22. § (7) bekezdésére figyelemmel – az intézményfejlesztési tervben megjelölt időpontig biztosítja.
 
-(5) Az átruházási eljárás befejezését követő harminc napon belül az intézmény a nyilvántartásba vétel és elszámolás végett megküldi a szerződést, illetve az eljárás során keletkezett iratokat az állami vagyon felügyeletéért felelős miniszter és tájékoztatásul a miniszter részére. A (2)–(3) bekezdésben foglalt rendelkezések megsértésével kötött szerződés semmis.
+(5) Az értékesítési eljárás befejezését követő harminc napon belül az intézmény a nyilvántartásba vétel és elszámolás végett megküldi a szerződést, illetve az eljárás jogszerűségének vizsgálatához szükséges iratokat a Magyar Nemzeti Vagyonkezelő Zrt. részére. A (2)–(4) bekezdésben foglalt rendelkezések megsértésével kötött szerződés semmis.
 
-(6) Az állami felsőoktatási intézmények kezelésében lévő állami vagyonba tartozó ingatlanok átruházásából származó bevételnek a köztartozások és az átruházás költségeinek kiegyenlítését követően fennmaradó része a (3) bekezdés szerinti jóváhagyással a felsőoktatási intézmény az állami vagyonról szóló törvény 27. § (2) bekezdése szerinti kötelezettsége teljesítésére, illetve alapfeladataihoz kapcsolódó felújítási, beruházási – beleértve a PPP (az állami és a magánszektor közötti fejlesztési, illetve szolgáltatási együttműködés, Public Private Partnership program) keretében megvalósuló fejlesztéseket is – célra használható fel.
+(6) Az állami felsőoktatási intézmények kezelésében lévő állami vagyonba tartozó ingatlanok értékesítéséből származó bevételnek a köztartozások és az ingatlan-elidegenítés költségeinek kiegyenlítését követően fennmaradó része a felsőoktatási intézmény alapfeladataihoz kapcsolódó felújítási, beruházási – beleértve a PPP (az állami és a magánszektor közötti fejlesztési, illetve szolgáltatási együttműködés, Public Private Partnership program) keretében megvalósuló fejlesztések törlesztő részleteit is – célra használható fel.
 
-(7) Ha az intézményfejlesztési tervben megjelölt cél az állami vagyon felügyeletéért felelős miniszter jóváhagyásában megjelölt időpontig nem valósul meg, az értékesítés ellenértékét az állami felsőoktatási intézmény köteles a Magyar Nemzeti Vagyonkezelő Zrt. részére megfizetni.
+(7) Ha az intézményfejlesztési tervben megjelölt cél a felsőoktatási intézmény értékesítési javaslatában megjelölt időpontig nem valósul meg, az értékesítés ellenértékét az állami felsőoktatási intézmény köteles a Magyar Nemzeti Vagyonkezelő Zrt. részére megfizetni.
 
-(8)
+(8) Az állami felsőoktatási intézmény az állami vagyonról szóló törvény 27. § (2) bekezdése szerinti kötelezettsége teljesítésére a hároméves fenntartói megállapodásban meghatározott összeget köteles a vagyon állagának megóvására, karbantartására és felújítására fordítani.
 
 122/A. § (1) Az állami felsőoktatási intézmény kincstári körbe nem tartozó befektetővel végzett közös beruházás esetén jogosult a vagyonkezelésében lévő ingatlant – versenyeztetés nélkül – a befektető használatába adni, vagy arra vonatkozóan földhasználati jogot biztosítani számára. A használati, földhasználati jog átengedése a befektetővel kötött megállapodásban foglalt feltételek szerint, akár ellenérték nélkül is történhet, időtartama azonban a húsz évet nem haladhatja meg.
 
-(2) Az állami felsőoktatási intézmények a költségvetésük terhére – a 122. § (3) bekezdésnek megfelelő hozzájárulás esetén – hosszú távú (legfeljebb húszéves) kötelezettséget vállalhatnak felhalmozási célokra vagy beruházást helyettesítő szolgáltatás vásárlására. Az ebből származó éves fizetési kötelezettségek együttes összege egyik évben sem haladhatja meg az éves költségvetésük dologi és felhalmozási célú előirányzatának tíz százalékát. Amennyiben az éves fizetési kötelezettségek együttes összege e határt a felsőoktatási intézmény tárgyévi költségvetésének csökkenése miatt haladja meg, új kötelezettség nem vállalható mindaddig, amíg az arány helyre nem áll. A hosszú távú kötelezettségekről évente kimutatást kell készíteni, amely az éves költségvetés és beszámoló részét képezi. A felsőoktatási intézmények kötelezettségvállalásának ötven százalékát az állami vagyon felügyeletéért felelős miniszter által vezetett minisztérium a jóváhagyott éves fejezeti kezelésű előirányzatai terhére megállapodásban átvállalhatja.
+(2) Az állami felsőoktatási intézmények a költségvetésük terhére hosszú távú (legfeljebb húszéves) kötelezettséget vállalhatnak felhalmozási célokra vagy beruházást helyettesítő szolgáltatás vásárlására. Az ebből származó éves fizetési kötelezettségek együttes összege egyik évben sem haladhatja meg az éves költségvetésük dologi és felhalmozási célú előirányzatának tíz százalékát. Amennyiben az éves fizetési kötelezettségek együttes összege e határt a felsőoktatási intézmény tárgyévi költségvetésének csökkenése miatt haladja meg, új kötelezettség nem vállalható mindaddig, amíg az arány helyre nem áll. A hosszú távú kötelezettségekről évente kimutatást kell készíteni, amely az éves költségvetés és beszámoló részét képezi. A felsőoktatási intézmények kötelezettségvállalásának ötven százalékát a miniszter által vezetett minisztérium a jóváhagyott éves fejezeti kezelésű előirányzatai terhére átvállalhatja. Az átvállalások együttes összege nem haladhatja meg a miniszter által vezetett minisztérium adott évre jóváhagyott központi beruházási előirányzatai harminchárom százalékának megfelelő mértéket. Az ezt meghaladó átvállaláshoz az államháztartásért felelős miniszter egyetértése szükséges.
 
 123. § (1) Az állami felsőoktatási intézmény saját tulajdonra
 
@@ -2038,7 +2214,10 @@ tehet szert.
 
 (2) A költségvetési szervként működő felsőoktatási intézmény saját vagyonra – az (1) bekezdés d)–g) pontja kivételével – akkor tehet szert, ha a rendelkezésre bocsátott vagyon állagának megóvásáról, pótlásáról gondoskodott.
 
-(3)
+(3) A vállalkozó közintézetként átsorolt állami felsőoktatási intézmény fejlesztési hitelt
+
+- a) pályázatokhoz szükséges önrész biztosításához,
+- b) az intézményfejlesztési tervben meghatározott fejlesztési feladatai megvalósításához a Kormány által meghatározottak szerint kiírt nyilvános pályázati eljárás alapján vehet igénybe. A hitel fedezete a felsőoktatási intézmény saját tulajdonában lévő vagyona, vállalkozási tevékenységének eredménye, a fejlesztés eredményeképpen megvalósuló beruházás vagyona, valamint a felsőoktatási intézmény által létrehozott intézményi társaság eredménye. A vállalkozó közintézetként átsorolt állami felsőoktatási intézmények által egy adott évben együttesen igénybe vehető fejlesztési hitelkeretet az éves költségvetésről szóló törvény határozza meg.
 
 (4) Ha e törvény másként nem rendelkezik,
 
@@ -2051,7 +2230,7 @@ tehet szert.
 
 (7) Az állami felsőoktatási intézmény saját tulajdonában lévő, (1) bekezdés szerinti vagyont az állami vagyonról vezetett vagyonnyilvántartásban az állami vagyonra előírt módon nyilván kell tartani, ennek érdekében a felsőoktatási intézményt külön jogszabályban meghatározott adatszolgáltatási kötelezettség terheli. Az ilyen vagyon értékesítésére a fenntartó által jóváhagyott versenyeztetési szabályzatban foglaltaknak megfelelően kerülhet sor.
 
-124. §
+124. § Az állami felsőoktatási intézmények tekintetében az államháztartásról szóló törvény 100/I. § (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy a működés pénzügyi keretében a költségvetési támogatás arányának számítása során a 130. § szerinti képzési támogatásnak és a 132. § szerinti fenntartói támogatásnak a hallgatói létszám alapján meghatározott éves intézményi összege nem vehető figyelembe. Az állami felsőoktatási intézmények intézményi társaságai tekintetében az államháztartásról szóló törvény 100/L. §-ának (1)–(7) bekezdésében foglaltakat és 100/M. §-át nem kell alkalmazni. Az állami felsőoktatási intézményekre az államháztartásról szóló törvény 100/I. § (1) bekezdésének b) pontját, 100/J. § (2) bekezdésének c) pontját és (4) bekezdését az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 ### AZ INGYENESEN ÉS A TÉRÍTÉSI DÍJÉRT IGÉNYBE VEHETŐ SZOLGÁLTATÁSOK
 
@@ -2099,7 +2278,7 @@ tehet szert.
 
 127. § (1) A felsőoktatási intézmény működéséhez szükséges fedezetet a fenntartó által biztosított és az államháztartás alrendszereiből származó támogatás, átvett pénzeszköz és államháztartáson kívüli forrásból származó bevételei biztosítják. A felsőoktatás költségeihez hozzájárulhat a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény alapján a szakképzési hozzájárulásra kötelezett.
 
-(2) Az éves költségvetésről szóló törvény állapítja meg a felsőoktatás támogatását azzal, hogy annak mértéke – a Nemzeti Közszolgálati Egyetem támogatását ide nem értve – nem lehet kevesebb, mint a 2007. évi költségvetésről szóló törvényben a miniszter által vezetett minisztérium költségvetési fejezetében a felsőoktatás támogatására – az állami és nem állami felsőoktatási intézmények feladatvállalásával arányos megosztásban – megállapított támogatási összeg. A költségvetés az éves felsőoktatási támogatási összeget – az előző évi támogatáshoz képest – legalább a költségvetés tervezésénél alkalmazott inflációs index mértékével növelten állapítja meg. A Kormány meghatározza a felsőoktatási intézmények működéséhez biztosított normatív támogatás rendszerét. A felsőoktatási intézmény részére pályázati úton, valamint megállapodás alapján is adható támogatás.
+(2) Az éves költségvetésről szóló törvény állapítja meg a felsőoktatás támogatását azzal, hogy annak mértéke – a katonai és rendvédelmi felsőoktatási intézmények támogatását ide nem értve – nem lehet kevesebb, mint a 2007. évi költségvetésről szóló törvényben a miniszter által vezetett minisztérium költségvetési fejezetében a felsőoktatás támogatására – az állami és nem állami felsőoktatási intézmények feladatvállalásával arányos megosztásban – megállapított támogatási összeg. A költségvetés az éves felsőoktatási támogatási összeget – az előző évi támogatáshoz képest – legalább a költségvetés tervezésénél alkalmazott inflációs index mértékével növelten állapítja meg. A Kormány meghatározza a felsőoktatási intézmények működéséhez biztosított normatív támogatás rendszerét. A felsőoktatási intézmény részére pályázati úton, valamint megállapodás alapján is adható támogatás.
 
 (3) A normatív költségvetési támogatás lehet
 
@@ -2119,7 +2298,7 @@ támogatás. A központi költségvetésből biztosított normatív költségvet
 - b) kutatási, fejlesztési feladatok végrehajtásához, a kutatási eredmények hasznosításához,
 - c) felhalmozási (beruházási, felújítási) célok megvalósításához,
 - d) a „minőségi díj” nyerteseinek elismeréséhez,
-- e) európai közösségi célok végrehajtásához, nemzetközi oktatási és kutatási kapcsolatokhoz, Magyarország területén költségtérítéses képzésben nem magyar állampolgár részére alap- és mesterképzést, doktori képzést biztosító felsőoktatási intézmény tevékenységének támogatásához,
+- e) európai közösségi célok végrehajtásához, nemzetközi oktatási és kutatási kapcsolatokhoz, a Magyar Köztársaság területén költségtérítéses képzésben nem magyar állampolgár részére alap- és mesterképzést, doktori képzést biztosító felsőoktatási intézmény tevékenységének támogatásához,
 - f) a határon túli kihelyezett magyar nyelvű képzéshez,
 - g) az esélyegyenlőség előmozdítására,
 - h) a kis létszámú szak indításához, fenntartásához,
@@ -2130,10 +2309,9 @@ támogatás. A központi költségvetésből biztosított normatív költségvet
 - m) a hallgatói (doktorandusz) önkormányzat tevékenységéhez,
 - n) hungarológiai vonatkozású képzéshez,
 - o) tehetséggondozó tevékenységhez,
-- p) Magyarország területén kívül képzés indítása során, a képzés helye szerinti állam jogrendje szerinti engedélyezési, vagy más, a képzés indításának feltételéül meghatározott eljárás költségeihez,
-- q) a minősített kutatóegyetem oktatási és kutatási tevékenységének előmozdítására
+- p) a Magyar Köztársaság területén kívül képzés indítása során, a képzés helye szerinti állam jogrendje szerinti engedélyezési, vagy más, a képzés indításának feltételéül meghatározott eljárás költségeihez,
 
-nyújtott támogatás. Az e bekezdésben szabályozott költségvetési hozzájárulás elosztása pályázat útján történik. A pályázatot a felsőoktatási intézmény vezetője vagy a diákotthon fenntartója nyújthatja be. A k)–l) és o) pont alatt meghatározott feladatokhoz kiírt pályázaton részt vehetnek az egyesületek és az alapítványok, közalapítványok is.
+nyújtott támogatás. Az e bekezdésben szabályozott költségvetési hozzájárulás elosztása pályázat útján történik. A pályázatot a felsőoktatási intézmény vezetője vagy a diákotthon fenntartója nyújthatja be. A k)–l) és o) pont alatt meghatározott feladatokhoz kiírt pályázaton részt vehetnek a társadalmi szervezetek és az alapítványok, közalapítványok is.
 
 (2) A miniszter megállapodás alapján támogatást adhat különösen
 
@@ -2157,7 +2335,7 @@ nyújtott támogatás. Az e bekezdésben szabályozott költségvetési hozzáj�
 
 (6) Az e §-ban szabályozott pályázatok benyújtásának feltételeit és rendjét a Kormány határozza meg, azzal a megkötéssel, hogy a kis létszámú szakokra járó hallgatók együttes létszáma nem haladhatja meg a felsőoktatási intézmények hallgatói létszámának öt százalékát. A kis létszámú szakokra a költségvetési hozzájárulásra való jogosultságot adott felsőoktatási intézmény tekintetében öt–nyolc évre kell biztosítani.
 
-(7) Az e §-ban meghatározott hozzájárulások, támogatások fedezetét a miniszter által vezetett minisztérium fejezetében megtervezett előirányzat biztosítja. A normatív költségvetési támogatások mértékét az éves költségvetésről szóló törvény állapítja meg.
+(7) Az e §-ban meghatározott hozzájárulások, támogatások fedezetét a miniszter által vezetett minisztérium fejezetében kell megtervezni. [Az e §-ban meghatározott hozzájárulások, támogatások fedezetét a miniszter által vezetett minisztérium fejezetében megtervezett előirányzat biztosítja.] A normatív költségvetési támogatások mértékét az éves költségvetésről szóló törvény állapítja meg.
 
 129. § (1) Az e törvényben meghatározott hallgatói juttatások fedezete a hallgatói juttatásokhoz nyújtott támogatás.
 
@@ -2217,21 +2395,45 @@ nyújtott támogatás. Az e bekezdésben szabályozott költségvetési hozzáj�
 
 (3) A Kormány határozza meg a fenntartói támogatás számításának, elosztásának, igénylésének a rendjét.
 
-132/A. §
+132/A. § A vállalkozó közintézeti feltételek meglétének vizsgálatakor figyelembe veendő teljesítményarányosan megállapított működési támogatás az állami felsőoktatási intézmények esetében a 130. § szerinti képzési támogatásnak és a 132. § szerinti fenntartói támogatásnak a hallgatói létszám alapján meghatározott éves intézményi összege.
 
 133. § (1) A felsőoktatási intézményben működő hallgatói önkormányzat tevékenységét a költségvetés az intézmény részére biztosított hallgatói normatív juttatás részeként normatív támogatással segíti. A normatíva összege a hallgatói normatíva egy százaléka.
 
 (2) A hallgatói önkormányzat tevékenységét segítő normatív támogatás számításának, elosztásának, igénylésének rendjét a Kormány határozza meg.
 
-133/A. §
+133/A. § (1) Az állami felsőoktatási intézmények központi költségvetési támogatására három éves fenntartói megállapodást kell kötni az állami felsőoktatási intézmény és a fenntartó [7. § (4) bekezdés] között. A fenntartói megállapodás tartalmazza a felsőoktatási intézmény által meghatározott hároméves időszakra vállalt teljesítménykövetelményeket, továbbá az állandó jellegű támogatási részeket, valamint a változó jellegű támogatások megállapításának jogcímeit. A változó elemű támogatás évenkénti elszámolási kötelezettséggel kerül meghatározásra.
+
+(2) A fenntartói megállapodásban rögzített állandó jellegű támogatás elemei a következők:
+
+- a) a fenntartói normatíva [132. §],
+- b) beruházásokkal összefüggő szolgáltatás vásárlásához biztosított minisztériumi hozzájárulás,
+- c) a normatívákhoz nem köthető intézményi feladattámogatások.
+
+(3) A változó jellegű támogatások a következők:
+
+- a) hallgatói juttatásokhoz nyújtott támogatások [129. § (1)–(3) bekezdés],
+- b) képzési támogatás [130. §],
+- c) az intézmény működését támogató tudományos normatíva [131. § (1) bekezdés],
+- d) közoktatási feladatellátás támogatása,
+- e) az egyes speciális feladatokhoz nyújtott támogatás.
+
+(4) A teljesítménykövetelményeket a fenntartói megállapodás megkötésekor hatályos intézményi fejlesztési terv alapján az oktatás, a kutatás, a gazdálkodás (pénzügyi egyensúly fenntartása, illetve megteremtése, kapacitások kihasználtsága, az államilag támogatott hallgatói létszámon belüli részesedés megtartása), az irányítási, szervezeti hatékonyság; más hazai és külföldi felsőoktatási intézményekkel, továbbá társadalmi és gazdasági szereplőkkel folytatott nemzetközi, regionális együttműködés bontásban, az adott területre jellemző mutatókkal kell meghatározni.
+
+(5) A 115. § szerinti fenntartói értékelés, vizsgálat és ellenőrzés kiterjed a fenntartói megállapodásban foglaltak időarányos teljesítésére is.
+
+(6) A fenntartói megállapodás, illetve az abban vállalt teljesítménykövetelmények nem, vagy nem megfelelő teljesülése esetén a fenntartó jogosult a 36. § (10) bekezdés szerinti intézkedéssel is élni. Ha a fenntartói megállapodásban foglaltak teljesítését a felek vitatják, azt – ilyen irányú kezdeményezés esetén, a 115. §-ban meghatározott eljárás keretében – a bíróság állapítja meg.
+
+(7) A nem állami felsőoktatási intézmények központi költségvetési támogatására a miniszter és a felsőoktatási intézmény fenntartója között – a 137–139. §-okban foglaltak szerint és e § (4)–(5) bekezdésében foglaltak alkalmazásával – a nem állami intézmény fenntartójának kezdeményezésére három éves keretmegállapodás köthető.
 
 ### A FINANSZÍROZÁS EGYÉB KÉRDÉSEI
 
-134. §
+134. § (1) A Kormány a képzés és kutatás minőségének emelése céljából a hallgatók, az oktatók és a kutatók támogatására ösztöndíjat alapíthat. A Kormány által alapított ösztöndíj – külön törvény szerint – mentes a közterhektől.
+
+(2) Az ösztöndíj pályázati feltételeit, pályázati rendjét a Kormány határozza meg.
 
 135. § (1) A felsőoktatási intézmények a 4. §-ban meghatározott feladataikkal összefüggő beruházási, fejlesztési, képzési kockázatfedezeti alapot hozhatnak létre. A kockázatfedezeti alap akkor jön létre, ha legalább tíz felsőoktatási intézmény elhatározza részvételét, és elfogadja az alap alapító okiratát. Az alapot közbeszerzési eljárás során kiválasztott pénzintézet működteti. A kockázatfedezeti alap szabályzata határozza meg, hogy e törvény rendelkezései alapján mely esetben, milyen feltétellel és mértékben vállal kockázatot.
 
-(2) A kockázatfedezeti alapba bármelyik felsőoktatási intézmény beléphet, ha vállalja, hogy az alapba legalább az éves működési költségvetése egy százalékának megfelelő összeget befizeti. A befizetés költségvetési szervként működő felsőoktatási intézmény esetén a saját bevétel terhére teljesíthető. Ha a felsőoktatási intézmény nem költségvetési szervként működik, a kockázatfedezeti alapba történő befizetés közérdekű kötelezettségvállalásnak minősül. A felsőoktatási intézmény befizetési kötelezettségét csökkenteni kell az általa létrehozott, illetve részvételével működő gazdálkodó szervezet által a kockázatfedezeti alap részére nyújtott támogatás összegével.
+(2) A kockázatfedezeti alapba bármelyik felsőoktatási intézmény beléphet, ha vállalja, hogy az alapba legalább az éves működési költségvetése egy százalékának megfelelő összeget befizeti. A befizetés költségvetési szervként működő felsőoktatási intézmény esetén a saját bevétel terhére teljesíthető. Ha a felsőoktatási intézmény nem költségvetési szervként működik, a kockázatfedezeti alapba történő befizetés közérdekű kötelezettségvállalásnak minősül. A felsőoktatási intézmény befizetési kötelezettségét csökkenteni kell az általa létrehozott, illetve részvételével működő gazdálkodó szervezet által a kockázatfedezeti alap részére nyújtott támogatás összegével. Vállalkozó közintézetként átsorolt állami felsőoktatási intézmény által a kockázatfedezeti alapba teljesített befizetés az államháztartásról szóló törvény 100/J. § (8) bekezdésében meghatározott tartalékképzésnek minősül.
 
 (3) A kockázatfedezeti alap támogatást nyújthat a felsőoktatási intézmény fejlesztéséhez, beruházáshoz, felújításához. A támogatás lehet: részben vagy egészben visszatérítendő támogatás, kamatmentes támogatás, kedvezményes kamatozású támogatás, üzleti alapon nyújtott támogatás.
 
@@ -2247,11 +2449,17 @@ nyújtott támogatás. Az e bekezdésben szabályozott költségvetési hozzáj�
 
 (5) A kockázatfedezeti alap működtetésére legfeljebb a befizetett összeg négy százaléka használható fel.
 
-(6) A kockázatfedezeti alapba történő befizetés tekintetében az államháztartásról szóló törvény 79. § (1) bekezdésében foglaltakat nem kell alkalmazni.
+(6) A kockázatfedezeti alapba történő befizetés tekintetében az államháztartásról szóló törvény 18/C. §-ának (5) bekezdésében, valamint 100. §-ának (1) bekezdésében foglaltakat nem kell alkalmazni.
 
 136/A. § A szakképzési hozzájárulásra jogosultság tekintetében gyakorlatigényesnek minősül a Kormány által a többciklusú képzés rendjét, a képzés indításának eljárását meghatározó jogszabályban megjelölt – képzési és kimeneti követelményei alapján legalább hat hétig tartó szakmai gyakorlatot is tartalmazó – alapképzési szak.
 
-136/B. §
+136/B. § (1) A felsőoktatási intézmény és jogi személyiségű szervezeti egysége forrásainak és ráfordításainak elkülönített tervezéséről gondoskodni kell. Az egészségügyi szolgáltató jogi személyiségű szervezeti egység számára biztosított kiadási részelőirányzatok közvetlen forrásaként nem szolgálhatnak a 127. § (3) bekezdésének a)–d) pontjában felsorolt normatív támogatások. A 127. § (3) bekezdésének b)–d) pontjában meghatározott normatív támogatások az egészségügyi szolgáltató jogi személyiségű szervezeti egység részelőirányzatai forrásaként figyelembe vehetőek, amennyiben a (3) bekezdés szerinti szabályzat alapján azok az egészségügyi képzés érdekében felmerülő költségek fedezetét szolgálják.
+
+(2) Központi költségvetési szervként működő felsőoktatási intézmény esetén a személyi, tárgyi és pénzügyi feltételek fennállását a jogi személyiségű szervezeti egység vonatkozásában is külön vizsgálni kell. A személyi és tárgyi feltételek fennállásában az intézmény szellemi és anyagi kapacitásai csak abban az esetben vehetőek figyelembe, ha annak igénybevétele feltételeit a felsőoktatási intézmény a jogi személyiségű szervezeti egysége vezetőjének egyetértésével kiadott belső szabályzatában rögzíti.
+
+(3) A szabályzat tartalmazza a felsőoktatási intézménytől és a jogi személyiségű szervezeti egységétől, illetve harmadik féltől igénybe vett, valamint a harmadik fél részére nyújtott szolgáltatások meghatározását az egymás közti elszámolás szabályainak rögzítése mellett. E kapacitások igénybevételéhez kapcsolódó költségek, kiadások fedezetét a jogi személyiségű szervezeti egység gazdálkodása keretéül szolgáló elkülönített részelőirányzatok biztosítják, amelyek felett kötelezettségvállalási és teljesítésigazolási joggal és felelősséggel bír.
+
+(4) A jogi személyiségű szervezeti egységre az intézményi dokumentumok kötelezően alkalmazandóak, azzal, hogy a jogi személyiségű szervezeti egység gazdálkodásának speciális – különösen a közintézetként besorolt felsőoktatási intézménynek a vállalkozó közintézetté történő besorolás feltételeit teljesítő jogi személyiségű szervezeti egységére egyedi előzetes engedéllyel alkalmazott – szabályait az intézmény gazdálkodásáról szóló belső szabályzat elkülönítve tartalmazza.
 
 ## NYOLCADIK RÉSZ — VEGYES RENDELKEZÉSEK
 
@@ -2259,13 +2467,13 @@ nyújtott támogatás. Az e bekezdésben szabályozott költségvetési hozzáj�
 
 ### A magán felsőoktatási intézmények
 
-137. § (1) Ha a felsőoktatási intézményt nem az állam, illetve nem a helyi önkormányzat, továbbá nem országos nemzetiségi önkormányzat tartja fenn (a továbbiakban az e bekezdésben felsoroltak – az egyházi jogi személy által fenntartott felsőoktatási intézmény kivételével – együtt: magán felsőoktatási intézmények), vallási, illetve világnézeti tekintetben elkötelezett intézményként is működhet, és a képzési programjába beépítheti a vallási, világnézeti elkötelezettségnek megfelelő filozófiai, etikai, kulturális ismereteket. A magán felsőoktatási intézmény – feltéve, hogy a képzéshez nem vesz igénybe költségvetési támogatást – a jelentkezés elfogadásának előfeltételeként kikötheti valamely vallás, világnézet elfogadását és annak igazolását.
+137. § (1) Ha a felsőoktatási intézményt nem az állam, illetve nem a helyi önkormányzat, továbbá nem országos kisebbségi önkormányzat tartja fenn (a továbbiakban az e bekezdésben felsoroltak – az egyházi jogi személy által fenntartott felsőoktatási intézmény kivételével – együtt: magán felsőoktatási intézmények), vallási, illetve világnézeti tekintetben elkötelezett intézményként is működhet, és a képzési programjába beépítheti a vallási, világnézeti elkötelezettségnek megfelelő filozófiai, etikai, kulturális ismereteket. A magán felsőoktatási intézmény – feltéve, hogy a képzéshez nem vesz igénybe költségvetési támogatást – a jelentkezés elfogadásának előfeltételeként kikötheti valamely vallás, világnézet elfogadását és annak igazolását.
 
 (2) A magán felsőoktatási intézmények a 28. §-ban – a közhasznú szervezetként működő intézmények az e törvény 139/C. §-ában írtakra is figyelemmel –, a 88. § (1) bekezdésében, a 96. § (3), valamint (5)–(6) és (10) bekezdésében, a 126. § (1)–(2) bekezdésében és (4) bekezdésében foglalt rendelkezésektől, kivéve a (2) bekezdés harmadik mondatát, a szervezeti és működési szabályzatukban eltérhetnek. Nem kell továbbá alkalmazniuk a 97. § (2)–(3) bekezdésében foglaltakat, feltéve, hogy az államilag támogatott képzésben részt vevő hallgatók létszáma – öt év átlagában – nem éri el a felsőoktatási intézménybe felvett összes hallgatói létszám ötven százalékát.
 
 (3) A magán felsőoktatási intézmények az állami felsőoktatási intézményekkel azonos feltételek mellett jogosultak a 127. § (3) bekezdésének a)–c) pontjában, valamint e) pontjában meghatározott támogatásokra. A magán felsőoktatási intézmény az állami felsőoktatási intézményekkel azonos módon és feltételekkel vehet részt a 128. § (1) bekezdésében meghatározott pályázatokon, továbbá a 128. § (2) bekezdése alapján az állami felsőoktatási intézményekkel azonos módon és feltételekkel köthető vele megállapodás.
 
-(4) A (3) bekezdésben foglaltakat a helyi önkormányzat, illetve az országos nemzetiségi önkormányzat által fenntartott felsőoktatási intézmény tekintetében is alkalmazni kell.
+(4) A (3) bekezdésben foglaltakat a helyi önkormányzat, illetve az országos kisebbségi önkormányzat által fenntartott felsőoktatási intézmény tekintetében is alkalmazni kell.
 
 138. § (1) A magán felsőoktatási intézmény a 4. §-ban meghatározott feladatok szerinti tevékenységet folytathat, ennek megvalósítása érdekében – e törvényben és a Kormány által meghatározottak szerint – gazdálkodik (a továbbiakban: magán felsőoktatási intézmény gazdálkodási rendje). A magán felsőoktatási intézmény alapító okiratában fel kell tüntetni, hogy tevékenységét közhasznú szervezetként működő felsőoktatási intézményként vagy vállalkozásként végzi. Ha a magán felsőoktatási intézmény megfelel a 137. § (2) bekezdésében meghatározott feltételnek, a 115. §-ának (2) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy a fenntartó hagyja jóvá a felsőoktatási intézmény költségvetését, a számviteli rendelkezések alapján elkészített éves beszámolóját, szervezeti és működési szabályzatát, intézményfejlesztési tervét. A felsőoktatási intézmény pedig a 115. § (14) bekezdése szerint jogosult bírósági eljárást kezdeményezni.
 
@@ -2319,7 +2527,7 @@ határozhatja meg.
 
 (4) A nemzetközi jellegű felsőoktatási intézményben nem szükséges munkavállalási engedély a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben meghatározott harmadik országbeli állampolgárok által folytatott oktatási, tudományos kutatói, vagy művészeti alkotó tevékenységhez.
 
-(5) Nemzetközi jellegű felsőoktatási intézmény fenntartására a 7. § (1) bekezdésében meghatározottakon túl külföldi állam, illetve külföldi jogi személyiséggel rendelkező szervezet is jogosult. E szervezetek fenntartói tevékenységével kapcsolatosan a magyar jog alkalmazandó, a felsőoktatási intézményt fenntartó külföldi állam, vagy állami szerv, jogi személy a magyar joghatóság alól nem mentesülhet, ügyében Magyarország területén a magyar hatóság jár el.
+(5) Nemzetközi jellegű felsőoktatási intézmény fenntartására a 7. § (1) bekezdésében meghatározottakon túl külföldi állam, illetve külföldi jogi személyiséggel rendelkező szervezet is jogosult. E szervezetek fenntartói tevékenységével kapcsolatosan a Magyar Köztársaság joga az alkalmazandó, a felsőoktatási intézményt fenntartó külföldi állam, vagy állami szerv, jogi személy a magyar joghatóság alól nem mentesülhet, ügyében a Magyar Köztársaság területén a magyar hatóság jár el.
 
 (6) Az Európai Gazdasági Térségről szóló, illetve a Gazdasági Együttműködési és Fejlesztési Szervezetről (OECD) szóló szerződésben részes államban hitelesített, vagy az adott állam által a felsőoktatási rendszerébe tartozónak elismert alap-, mester-, illetve azzal egyenértékű – közös képzésnek nem minősülő – osztott képzés nemzetközi jellegű felsőoktatási intézmény általi indításakor a regisztrációs központ – a Kormány által rendeletben meghatározott indítási eljárás szerint – a Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleménye nélkül dönt. A regisztrációs központ az indítási engedélyt megadja – és az intézmény e képzésére tekintettel a 62. § szerinti oklevél kiállítására jogosult – ha a nemzetközi jellegű felsőoktatási intézmény által kezdeményezett képzés a magyar végzettségi szintnek megfeleltethető. Az ilyen módon megszerzett oklevél szakképzettséget akkor tanúsít, ha a regisztrációs központ az indítási engedélyben megállapítja, hogy a nemzetközi jellegű felsőoktatási intézmény által kezdeményezett képzés az oklevél által tanúsított végzettségi szinthez kapcsolódó magyar szakképzettségnek megfeleltethető.
 
@@ -2342,7 +2550,7 @@ határozhatja meg.
 
 (4) A hitéleti képzés tartalmának meghatározása, a képzésben részt vevő oktatókkal, tanárokkal kapcsolatos követelmények meghatározása az egyházi felsőoktatási intézmény joga. A hitéleti képzés tekintetében a 15. §-ban szabályozott eljárásban csak azt kell vizsgálni, hogy biztosítottak-e a képzés tárgyi feltételei. A felsőoktatási intézmény határozza meg továbbá a felvételi eljárás rendjét és – az érettségi vizsga meglétét kivéve – a felvétel követelményeit.
 
-(5) Magyarország és az Apostoli Szentszék között létrejött megállapodás alapján a Magyar Katolikus Egyház, továbbá a Kormánnyal a felsőoktatási feladatok ellátására megállapodást kötő egyház által fenntartott felsőoktatási intézmény jogosult a 127. § (3) bekezdésének d) pontjában meghatározott normatív költségvetési támogatásra is, valamint eseti és egyedi támogatásokra.
+(5) A Magyar Köztársaság és az Apostoli Szentszék között létrejött megállapodás alapján a Magyar Katolikus Egyház, továbbá a Kormánnyal a felsőoktatási feladatok ellátására megállapodást kötő egyház által fenntartott felsőoktatási intézmény jogosult a 127. § (3) bekezdésének d) pontjában meghatározott normatív költségvetési támogatásra is, valamint eseti és egyedi támogatásokra.
 
 (6) Az (5) bekezdésben meghatározott normatív költségvetési támogatásra jogosulttá válhat az az egyház által fenntartott felsőoktatási intézmény is, amelynek fenntartójával a miniszter felsőoktatási feladatok ellátására megállapodást köt.
 
@@ -2351,7 +2559,7 @@ határozhatja meg.
 (8) A hitéleti képzéssel összefüggésben
 
 - a) a jelentkezés elfogadása előfeltételeként kiköthető valamely vallás, világnézet elfogadása és annak igazolása,
-- b) az egyházi felsőoktatási intézmény szervezeti és működési szabályzata a 20. § (4) bekezdésében, a 21. § (3) és (6) bekezdésében, – a politikai meggyőződésre vonatkozó kivétellel – a 22. § (4) és (5) bekezdésében, a 27–28. §-ban, a 29. § (2)–(8) bekezdésében, a 30. § (4) bekezdésében, – a nemzetiséghez tartozás kivételével – a 46. § (2) bekezdésének f) pontjában foglaltaktól eltérő rendelkezéseket állapíthat meg,
+- b) az egyházi felsőoktatási intézmény szervezeti és működési szabályzata a 20. § (4) bekezdésében, a 21. § (3) és (6) bekezdésében, – a politikai meggyőződésre vonatkozó kivétellel – a 22. § (4) és (5) bekezdésében, a 27–28. §-ban, a 29. § (2)–(8) bekezdésében, a 30. § (4) bekezdésében, – a nemzeti vagy etnikai kisebbséghez tartozás kivételével – a 46. § (2) bekezdésének f) pontjában foglaltaktól eltérő rendelkezéseket állapíthat meg,
 - c) az egyházi felsőoktatási intézmény a 12. § (2) bekezdésében foglaltaktól eltérően akkor is kaphat elismerést, ha csak egy szakon folytat képzést,
 - d) a munkakörök létesítését, a munkáltatói jogok gyakorlását, a főiskolai és az egyetemi tanár kivételével a munkaköri és egyéb cím adományozását, továbbá az 52. § (3) bekezdésében szabályozott alapszolgáltatás rendjének meghatározását a fenntartó magához vonhatja,
 - e) a 15. § (8) bekezdésében – a gyakorló közoktatási intézmény kivételével –, a 84. § (5) bekezdésében, továbbá a 105. § (3) bekezdésében és a 108. §-ban foglaltakat, továbbá az intézményfejlesztési tervre vonatkozó rendelkezéseket nem kell alkalmazni, az állami elismerésről szóló szabályokat azonban meg kell tartani,
@@ -2368,7 +2576,7 @@ határozhatja meg.
 
 (13) Az egyházi jogi személyek által fenntartott felsőoktatási intézmények tekintetében a felsőoktatási intézményekre vonatkozó általános szabályokat az e §-ba foglalt eltérésekkel kell alkalmazni. Az egyházi felsőoktatási intézmények működésére
 
-- a) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseit,
+- a) a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény vonatkozó rendelkezéseit,
 - b) a 137. § (2)–(4) bekezdésében és a 138. § (3) és (9) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 
 (14) A kizárólag hitéleti képzést folytató felsőoktatási intézmény jogosult működésének szüneteltetésére. A szüneteltetésre csak akkor kerülhet sor, ha az intézménynek nincsen hallgatója. A szüneteltetésre és annak megszüntetésére a fenntartó bejelentése alapján a regisztrációs központ által történő nyilvántartásba vétel időpontjától kerül sor. Az öt évet meghaladó időtartamú szünetelés esetén, a tevékenység újraindítását megelőzően, a regisztrációs központ hatósági ellenőrzés keretében vizsgálja a működési engedélyben foglalt feltételek teljesülését.
@@ -2383,7 +2591,7 @@ határozhatja meg.
 
 (4) A közhasznú szervezetként működő felsőoktatási intézmény vállalkozási tevékenységet is folytathat.
 
-(5) A cél szerinti tevékenység és a vállalkozási tevékenység tekintetében a közhasznú szervezetként működő felsőoktatási intézményt megilletik mindazok a kedvezmények, amelyet az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény 36. § (2) bekezdés meghatároz.
+(5) A cél szerinti tevékenység és a vállalkozási tevékenység tekintetében a közhasznú szervezetként működő felsőoktatási intézményt megilletik mindazok a kedvezmények, amelyet a közhasznú szervezetekről szóló 1997. évi CLVI. törvény (a továbbiakban: a közhasznú szervezetekről szóló törvény) 6. §-a meghatároz.
 
 139/B. § (1) A felsőoktatási intézmény közhasznú szervezetté minősítése, illetve a közhasznú nyilvántartásból való törlés iránti kérelmet az intézmény fenntartója a regisztrációs központnál jogosult benyújtani.
 
@@ -2393,14 +2601,39 @@ határozhatja meg.
 
 (2) A közhasznú szervezetként működő felsőoktatási intézmény működése nyilvános, a szenátus ülései – ha törvény eltérően nem rendelkezik – nyilvánosak. A nyilvánosság az intézmény szabályzatában foglaltak szerint korlátozható, ha az a személyiségi jogokat, az intézmény vállalkozási (nem közhasznú) tevékenységével kapcsolatos üzleti titkokat, illetve a szellemi alkotásokhoz fűződő jogos érdekeket veszélyezteti vagy sérti.
 
-(3) Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (továbbiakban Civil tv.) közhasznú szervezetekre vonatkozó rendelkezéseit a közhasznú szervezetként működő felsőoktatási intézményekre a következő eltérésekkel kell alkalmazni:
+(3) A közhasznú szervezetekről szóló törvény rendelkezéseit a közhasznú szervezetként működő felsőoktatási intézményekre a következő eltérésekkel kell alkalmazni,
 
-- a) a Civil tv. 37. § (2) bekezdésének a)–b) és d) pontjában, valamint 37. § (3) bekezdésének a)–d) pontjaiban foglalt rendelkezéseket a felsőoktatási intézmény szervezeti és működési szabályzatában kell rögzíteni, azzal, hogy a szenátus legalább évi két alkalommal tart ülést,
-- b) a Civil tv. 37. § (2) bekezdésének c) pontja esetében a felügyelő szerv működésére, hatáskörére vonatkozó szabályokat a fenntartó határozza meg az intézmény alapító okiratában, ahol kötelező gondoskodnia a felügyelő szerv létrehozásáról is.
+- a) a közhasznú szervezetekről szóló törvény 7. § (2) bekezdésének a)–b) és d) pontjában, valamint 7. § (3) bekezdésének a)–d) pontjaiban foglalt rendelkezéseket a felsőoktatási intézmény szervezeti és működési szabályzatában kell rögzíteni, azzal, hogy a szenátus legalább évi két alkalommal tart ülést,
+- b) a közhasznú szervezetekről szóló törvény 7. § (2) bekezdésének c) pontja esetében a felügyelő szerv működésére, hatáskörére vonatkozó szabályokat a fenntartó határozza meg az intézmény alapító okiratában, ahol kötelező gondoskodnia a felügyelő szerv létrehozásáról is.
 
 (4) A közhasznú jogállás megszerzését követően a szervezeti és működési szabályzat valamennyi módosítását a rektor küldi meg a regisztrációs központnak. Az alapító okirat módosításai akkor lépnek hatályba, ha az abban foglaltakat a regisztrációs központ jogerős határozatával nyilvántartásba vette.
 
-140. §
+### A KATONAI ÉS RENDVÉDELMIFELSŐOKTATÁSI INTÉZMÉNYEKRE VONATKOZÓ KÜLÖN RENDELKEZÉSEK
+
+140. § (1) A katonai és a rendvédelmi felsőoktatási intézményekben a gazdasági tanács létrehozása nem kötelező. A fenntartót megillető jogosítványokat a honvédelemért felelős miniszter, illetve a rendészetért felelős miniszter gyakorolja. Ha a katonai és rendvédelmi felsőoktatási intézményben létrehozzák a gazdasági tanácsot, a 23. § (5) bekezdésében meghatározott delegálás joga a honvédelemért felelős minisztert, illetve a rendészetért felelős minisztert illeti meg. A katonai és a rendvédelmi felsőoktatási intézmények költségvetési támogatását a honvédelemért felelős miniszter által vezetett minisztérium, illetve a rendészetért felelős miniszter által vezetett minisztérium költségvetésében kell megtervezni.
+
+(2) Az (1) bekezdésben meghatározott felsőoktatási intézmények tekintetében törvény eltérő rendelkezéseket állapíthat meg
+
+- a) a vagyonkezelői jogok gyakorlására, a gazdálkodásra,
+- b) a szervezeti egységek létesítésének és működésének rendjére,
+- c) a foglalkoztatásra, illetve az intézményi vezetők kinevezésére és jogállására,
+- d) a felvételi követelmények meghatározására, a hallgatók jogállására, juttatásaira, az általuk fizetett díjakra.
+
+(3) A honvédelemért felelős miniszter, illetve a rendészetért felelős miniszter szabályozza az (1) bekezdésben meghatározott felsőoktatási intézményben
+
+- a) az évenként felvehető hallgatók számát és a felvétel különös feltételeit,
+- b) a külföldi hallgatók felvételének, jogállásának és tanulmányainak részletes szabályait, a juttatásoknak és a díjfizetésnek a rendjét.
+
+(4) A honvédelemért felelős miniszter, illetve a rendészetért felelős miniszter az (1) bekezdésben meghatározott felsőoktatási intézmények tekintetében
+
+- a) benyújtja a Kormányhoz az éves költségvetési beszámolót és a támogatási tervet,
+- b) ellenőrzi az állam által rendelkezésre bocsátott eszközök felhasználásának hatékonyságát és jogszerűségét,
+- c) gyakorolja a 105. § (1) bekezdésében meghatározott jogköröket,
+- d) meghatározza gazdálkodás és finanszírozás – e törvénytől eltérő – speciális szabályait.
+
+(5) A katonai felsőoktatási intézmény és a rendvédelmi felsőoktatási intézmény olyan képzést is folytathat, amelyik nem tartozik a katonai, illetve a rendvédelmi felsőoktatás körébe. E képzések tekintetében a (2) bekezdés d) pontjában, a (3) bekezdés a–b) pontjában, a (4) bekezdés b)–c) pontjában foglaltak nem alkalmazhatók. E képzések tekintetében e törvény rendelkezéseit kell alkalmazni, beleértve az államilag támogatott hallgatói helyek biztosítására és finanszírozására vonatkozó rendelkezéseket is.
+
+(6) Katonai és rendvédelmi felsőoktatási intézmény alapításához, valamint képzés folytatásához a honvédelemért felelős miniszter, illetve a rendészetért felelős miniszter előzetes engedélye szükséges.
 
 ### AZ ORVOS- ÉS EGÉSZSÉGTUDOMÁNYI KÉPZÉST FOLYTATÓ FELSŐOKTATÁSI INTÉZMÉNYEKRE VONATKOZÓ KÜLÖN RENDELKEZÉSEK
 
@@ -2428,7 +2661,7 @@ határozhatja meg.
 
 (2) Az egészségtudományi centrum élén elnök áll, aki magasabb vezetői megbízás keretében végzi munkáját. Az elnök megválasztásának rendjét a szervezeti és működési szabályzatban kell meghatározni. A centrum vezetője ellátja a 141. § (8) bekezdésében meghatározott vezetői feladatait is. Az egészségügyi centrumot illetően az egyetemet a centrum vezetője képviseli. A centrum vezetője tanácskozási joggal részt vehet a gazdasági tanács ülésén. A centrum vezetője gyakorolja a 141. § (2), (5)–(6) bekezdésében meghatározott feladatok ellátását szolgáló előirányzatok felett a rendelkezési jogot.
 
-142/A. §
+142/A. § Az egészségügyi szolgáltató tevékenységet ellátó 36/C. § (2) bekezdés szerinti jogi személyiségű szervezeti egység tartozásaiért a felsőoktatási intézmény a 36/C. § (2) bekezdésében megjelölt forrásokon és vagyonon felül a 141. § (3) bekezdése szerinti finanszírozási szerződés alapján biztosított összeg terhére is helytállni tartozik. Ha a jogi személyiségű szervezeti egység működéséhez szükséges fedezet legalább egy éven keresztül nem teremthető meg, a felsőoktatási intézmény az oktatásért felelős miniszteren keresztül egyeztetést kezdeményez az egészségügyért felelős miniszterrel a költségvetési szervek jogállásáról szóló törvény 12. § (1) bekezdés f) pontján alapuló megszüntetés elkerülése érdekében meghozható finanszírozási és más intézkedésekről.
 
 ### AZ AGRÁRTUDOMÁNYI KÉPZÉST FOLYTATÓ FELSŐOKTATÁSI INTÉZMÉNYEKRE VONATKOZÓ KÜLÖN RENDELKEZÉSEK
 
@@ -2446,7 +2679,7 @@ határozhatja meg.
 
 (2) A művészeti felsőoktatási intézmény művészeti gyakorlóhelyet létesíthet és tarthat fenn.
 
-(3) A táncművészeti képzési ágban a felsőfokú tanulmányok a középiskolában folytatott tanulmányok alatt, az érettségi vizsgát megelőzően is megkezdhetők oly módon, hogy a tanulói jogviszony mellett a felsőoktatási intézménnyel hallgatói jogviszony jön létre. A hallgató egyidejűleg sajátítja el az érettségi vizsga letételéhez szükséges követelményeket és a művészeti képzés követelményeit. Az e bekezdésben szabályozott hallgatók tekintetében alkalmazni kell az Mt. 114. § (1) és (3)–(4) bekezdését is.
+(3) A táncművészeti képzési ágban a felsőfokú tanulmányok a középiskolában folytatott tanulmányok alatt, az érettségi vizsgát megelőzően is megkezdhetők oly módon, hogy a tanulói jogviszony mellett a felsőoktatási intézménnyel hallgatói jogviszony jön létre. A hallgató egyidejűleg sajátítja el az érettségi vizsga letételéhez szükséges követelményeket és a művészeti képzés követelményeit. Az e bekezdésben szabályozott hallgatók tekintetében alkalmazni kell a Munka Törvénykönyve 129/A. §-ának (2)–(6) bekezdését is.
 
 (4) A művészeti felsőoktatási intézmény az egyetem elnevezést akkor is használhatja, ha egy képzési területen jogosult mesterképzésre, valamint egy tudományterületen doktori képzésre és doktori fokozat odaítélésére.
 
@@ -2476,15 +2709,15 @@ határozhatja meg.
 
 (8) A Magyar Felsőoktatási Akkreditációs Bizottságban a pedagógusképzéssel kapcsolatos feladatokat ellátó állandó szakmai és szakértői bizottság működik.
 
-146. § (1) Ha a felsőoktatási intézményben – alapító okirata szerint – nemzetiségi pedagógusképzés folyhat, a felvételi követelményeknek megfelelő jelentkező esetén a képzést meg kell szervezni.
+146. § (1) Ha a felsőoktatási intézményben – alapító okirata szerint – nemzeti vagy etnikai kisebbségi pedagógusképzés folyhat, a felvételi követelményeknek megfelelő jelentkező esetén a képzést meg kell szervezni.
 
-(2) A nemzetiségi pedagógusképzésre jelentkezők közül előnyben kell részesíteni azt, aki az adott nemzetiséghez tartozik. A nemzetiséghez tartozást a nemzetiségi nyelvből tett érettségi vizsga igazolja.
+(2) A nemzeti vagy etnikai kisebbségi pedagógusképzésre jelentkezők közül előnyben kell részesíteni azt, aki az adott kisebbséghez tartozik. A kisebbséghez tartozást a kisebbségi nyelvből tett érettségi vizsga igazolja.
 
-(3) A nemzetiségi pedagógusképzésben a nemzetiség nyelvét a képzés teljes időtartama alatt oktatni kell.
+(3) A nemzeti vagy etnikai kisebbségi pedagógusképzésben a kisebbség nyelvét a képzés teljes időtartama alatt oktatni kell.
 
-(4) A nemzetiségi pedagógusképzés a finanszírozás szempontjából kis létszámú szaknak minősül.
+(4) A nemzeti vagy etnikai kisebbségi pedagógusképzés a finanszírozás szempontjából kis létszámú szaknak minősül.
 
-(5) Ha a Magyar Felsőoktatási Akkreditációs Bizottság nemzetiségi pedagógusképzés tekintetében készít szakvéleményt, munkájába bevonja az érintett országos nemzetiségi önkormányzat által delegált szakértőt.
+(5) Ha a Magyar Felsőoktatási Akkreditációs Bizottság nemzeti vagy etnikai pedagógusképzés tekintetében készít szakvéleményt, munkájába bevonja az érintett országos kisebbségi önkormányzat által delegált szakértőt.
 
 ### ÉRTELMEZŐ RENDELKEZÉSEK
 
@@ -2518,7 +2751,7 @@ határozhatja meg.
 tartalmazza, a képzés részletes szabályaival, így különösen a tantervvel, illetve az oktatási programmal és a tantárgyi programokkal, valamint az értékelési és ellenőrzési módszerekkel, eljárásokkal és szabályokkal együtt,
 
 - 22. képzési terület: azoknak a szakoknak és képzési ágaknak kormányrendeletben meghatározott összessége, amelyek hasonló vagy részben megegyező képzési tartalommal rendelkeznek, 22/A. kiemelkedő tanulmányi teljesítményű hallgató: a felsőoktatási intézmény szabályzatában meghatározott ismérvek szerint, az átlagos mértéket meghaladó tanulmányi teljesítményt nyújtó hallgató,
-- 23. kis létszámú szak: nemzetközi kötelezettségvállalás, kultúr- és oktatáspolitikai érdekek alapján indított képzés, amelynek éves, államilag támogatott felvehető létszáma országosan nem haladja meg a húsz főt, továbbá a nemzetiségi képzés,
+- 23. kis létszámú szak: nemzetközi kötelezettségvállalás, kultúr- és oktatáspolitikai érdekek alapján indított képzés, amelynek éves, államilag támogatott felvehető létszáma országosan nem haladja meg a húsz főt, továbbá a nemzeti és etnikai kisebbségi képzés,
 - 24. klinika: az az egészségügyi szolgáltató, amely közreműködik az orvosképzéssel összefüggő képzési és kutatási feladatok ellátásában,
 - 25. konzultáció: a felsőoktatási intézmény oktatója által a hallgató részére biztosított, a hallgató tanulmányaival kapcsolatos személyes megbeszélés lehetősége a felsőoktatási intézmény által meghatározott helyen, 25/A. közeli hozzátartozó: a házastárs, a bejegyzett élettárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és neveltgyermek, az örökbefogadó-, a mostoha- és a nevelőszülő, valamint a testvér,
 - 26. kredit: a hallgatói tanulmányi munka mértékegysége, amely a tantárgy, illetve a tantervi egység vonatkozásában kifejezi azt a becsült időt, amely meghatározott ismeretek elsajátításához, a követelmények teljesítéséhez szükséges; egy kredit harminc tanulmányi munkaórát jelent, 26/A. levelező képzés munkarendje: olyan oktatásszervezési rend, mely szerint – az érintett hallgatókkal kötött eltérő megállapodás hiányában – a hallgatók tanóráira tömbösítve, legfeljebb kettő hetenként munkanapokon, vagy a heti pihenőnapon kerül sor,
@@ -2526,7 +2759,7 @@ tartalmazza, a képzés részletes szabályaival, így különösen a tantervvel
 - 28. pályaalkalmassági vizsgálat: olyan képességvizsgálat, amelynek keretei között megállapítják, hogy a jelentkező rendelkezik-e azokkal az egyéni képességekkel, tulajdonságokkal, amelyek alkalmassá teszik a képzésben való részvételre, a megszerzett szakképzettségnek, szakképesítésnek megfelelő tevékenység ellátására,
 - 29. regionális központ: az egyesüléssel e törvényben meghatározottak szerint létrehozott felsőoktatási intézménynek a székhelyén kívül – a jogelőd felsőoktatási intézmény székhelyén működő – a felsőoktatási intézmény szervezeti egységeinek működését integráló egység,
 - 30. résztanulmányok folytatása: ha a hallgató másik felsőoktatási intézményben vendéghallgatói jogviszony keretében szerez kreditet,
-- 31. saját bevétel: az államháztartáson kívüli források – beleértve minden olyan, az Európai Uniótól származó támogatást, amelyhez nem a központi költségvetésen keresztül jut a felsőoktatási intézmény, továbbá a szakképzési hozzájárulási fizetési kötelezettség teljesítéseként elszámolt forrásokat is, ide nem értve az állami vagyon értékesítésének ellenértékét – valamint a Kutatási és Technológiai Innovációs Alapból származó bevételek,
+- 31. saját bevétel: az államháztartáson kívüli források – beleértve minden olyan, az Európai Uniótól származó támogatást, amelyhez nem az állami költségvetésen keresztül jut a felsőoktatási intézmény, továbbá a szakképzési hozzájárulási fizetési kötelezettség teljesítéseként elszámolt forrásokat is, ide nem értve az állami vagyon értékesítésének ellenértékét – valamint a Kutatási és Technológiai Innovációs Alapból származó bevételek,
 - 32. szak: valamely szakképzettség megszerzéséhez szükséges képzési tartalom (ismeretek, jártasságok, készségek) egységes rendszerét tartalmazó képzés,
 - 33. szakirány: a szakképzettség részeként megszerezhető, speciális szaktudást biztosító képzés,
 - 34. szakképzettség: alapfokozattal vagy mesterfokozattal egyidejűleg megszerezhető, a szak és a szakirány tartalmával meghatározott, a szakma gyakorlására felkészítő szaktudás oklevélben történő elismerése,
@@ -2547,13 +2780,13 @@ tartalmazza, a képzés részletes szabályaival, így különösen a tantervvel
 
 148. § (1) Azokat a kérdéseket, amelyeket e törvény alapján a foglalkoztatási követelményrendszerben kell szabályozni, a felsőoktatási intézmény kollektív szerződése is szabályozhatja.
 
-(2) Magyarország címere elhelyezhető a felsőoktatási intézmény alapfeladatának ellátását szolgáló helyiségekben, címtábláján, épületeinek homlokzatán, továbbá feltüntethető a körbélyegzőjén és a felsőoktatási intézmény által kiadott okleveleken, oklevélmellékleteken.
+(2) A Magyar Köztársaság címere elhelyezhető a felsőoktatási intézmény alapfeladatának ellátását szolgáló helyiségekben, címtábláján, épületeinek homlokzatán, továbbá feltüntethető a körbélyegzőjén és a felsőoktatási intézmény által kiadott okleveleken, oklevélmellékleteken.
 
-(3) Az Idegennyelvi Továbbképző Központ, az Eötvös Loránd Tudományegyetem Jogi és Továbbképző Intézete és a Budapesti Corvinus Egyetem Közgazdasági Továbbképző Intézete a felsőoktatási intézmény részeként működnek. A továbbképző intézetek a felsőoktatási intézménnyel kötött megállapodás alapján részt vehetnek idegennyelvi képzésben és vizsgáztatásban, szakirányú továbbképzés és iskolarendszeren kívüli képzések szervezésében.
+(3) Az Idegennyelvi Továbbképző Központ, az Eötvös Loránd Tudományegyetem Jogi és Továbbképző Intézete és a Budapesti Corvinus Egyetem Közgazdasági Továbbképző Intézete a felsőoktatási intézmény részeként működnek. A továbbképző intézetek a felsőoktatási intézménnyel kötött megállapodás alapján részt vehetnek idegennyelvi képzésben és vizsgáztatásban, szakirányú továbbképzés és iskolarendszeren kívüli képzések szervezésében. A továbbképző intézetek a felsőoktatási intézmény keretei között önálló jogi személyként működnek részjogkörű költségvetési egységként.
 
-(4) A Mozgássérültek Pető András Nevelőképző és Nevelőintézete főiskolaként működő felsőoktatási intézmény.
+(4) A Mozgássérültek Pető András Nevelőképző és Nevelőintézete 2010. december 31-ig főiskolaként működhet tovább oly módon, hogy legalább egy képzési területen, egy szakon folytathat képzést. A főiskola 2011. január 1-jétől e törvény rendelkezései alapján folytatja működését. Ha a főiskola e feltételnek nem tesz eleget, a 2011. szeptember 1-jén induló tanévben nem vehet fel hallgatót az első évfolyamra. Az előző években felvett hallgatók tanulmányaikat változatlan feltételek mellett befejezhetik.
 
-(5)
+(5) A Zrínyi Miklós Nemzetvédelmi Egyetem akkor is használhatja az egyetem elnevezést, ha egy képzési területen jogosult mesterképzés folytatására, valamint legalább egy tudományterületen doktori képzésre, illetve doktori fokozat odaítélésére.
 
 (6) E törvény hatálybalépése nem érinti a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 63. §-a alapján nyilvános könyvtári feladatokat ellátó állami egyetemi könyvtárak feladatait. Azok továbbra is ellátják a nyilvános könyvtári, a szak- és felsőoktatási könyvtári feladatokat. Az egyetemi könyvtárak az Országos Dokumentum-ellátási Rendszerből – jogszabályban meghatározottak szerint – támogatást kapnak.
 
@@ -2634,7 +2867,9 @@ annak tekintetében, aki a díj, a helyezés, a szakképzettség, az elismerés 
 
 (3)
 
-(4) Hatályát veszti az Andrássy Gyula Budapesti Német Nyelvű Egyetem állami elismeréséről szóló 2001. évi LXVI. törvény, valamint a Közép-európai Egyetem állami elismeréséről szóló 2004. évi LXI. törvény.
+(4) 2010. december 31-én hatályát veszti az Andrássy Gyula Budapesti Német Nyelvű Egyetem állami elismeréséről szóló 2001. évi LXVI. törvény, valamint a Közép-európai Egyetem állami elismeréséről szóló 2004. évi LXI. törvény. Az Andrássy Gyula Budapesti Német Nyelvű Egyetem, valamint a Közép-európai Egyetem 2011. január 1-jétől e törvény rendelkezései, vagy a – külön törvényben meghatározott – nemzetközi jellegű felsőoktatási intézményre vonatkozó rendelkezések alapján folytatja működését. Abban az esetben, ha az egyetemek e feltételnek nem tesznek eleget, a 2011. szeptember 1-jén induló tanévben nem vehetnek fel hallgatót az első évfolyamra. Az előző években felvett hallgatók tanulmányaikat változatlan feltételek mellett befejezhetik. A miniszter lefolytatja a 105. §-ban szabályozott eljárást.
+
+[(4) Hatályát veszti az Andrássy Gyula Budapesti Német Nyelvű Egyetem állami elismeréséről szóló 2001. évi LXVI. törvény, valamint a Közép-európai Egyetem állami elismeréséről szóló 2004. évi LXI. törvény.]
 
 (5) Az 1993. évi felsőoktatásról szóló törvény alapján megkötött intézményi megállapodások érvényességét e törvény hatálybalépése nem érinti. Az abban foglaltakat azonban 2006. szeptember 1-jéig felül kell vizsgálni, és 2006. december 31-ig kell elkészíteni az intézményfejlesztési tervet. Az e törvénnyel ellentétes képzésre kötött megállapodások felülvizsgálat hiányában az említett időpontban érvényüket vesztik, oly módon, hogy a megállapodásban foglaltak alapján megkezdett képzéseket be kell fejezni.
 
@@ -2652,13 +2887,7 @@ annak tekintetében, aki a díj, a helyezés, a szakképzettség, az elismerés 
 
 (5) Az 1993. évi felsőoktatásról szóló törvény 10/A. §-a és 10/B. §-a rendelkezései alapján utoljára 2006-ban lehet ösztöndíjat odaítélni, a már megállapított ösztöndíjakat e törvény hatálybalépése nem érinti, azokat az ösztöndíjas jogviszony kezdetekor hatályos rendelkezések szerint kell az ösztöndíj tartamának megfelelően folyósítani.
 
-(6)
-
-152/A. § (1)–(4)
-
-(5) E törvény 2011. január 1-jétől hatályos 122. § (2)–(3) és (5)–(7) bekezdésében foglaltakat e törvény hatálybalépését követően benyújtott intézményi átruházási kérelem, valamint az ahhoz kapcsolódó miniszteri hozzájárulás tekintetében kell alkalmazni. Az e törvény hatálybalépését megelőzően megszerzett azon hozzájárulások, amelyek alapján az ingatlan átruházása nem történt meg, 2011. január 31-ig érvényesek.
-
-(6) E § (1)–(4) bekezdése 2011. február 28-án hatályát veszti.
+(6) A felsőoktatási ösztöndíjak odaítélésének rendjét, mértékét, az ösztöndíjra jogosultak körét, valamint e törvény bevezetésével összefüggésben további átmeneti szabályokat a Kormány határozza meg.
 
 ### FELHATALMAZÓ RENDELKEZÉSEK
 
@@ -2670,7 +2899,7 @@ annak tekintetében, aki a díj, a helyezés, a szakképzettség, az elismerés 
 - 4. a minőségi díj alapítását [108. § (4) bekezdés],
 - 5. a többciklusú képzés rendjét, a képesítési keretet, a képzés indításának eljárását, a doktori képzés szabályait [32. § (11) bekezdés a) és c) pont, 145. § (7) bekezdés],
 - 6. az államilag elismert nyelvvizsgáztatás rendjét [150. § (2) bekezdés],
-- 7. a felsőoktatási információs rendszer működtetésével, az adattovábbítással, továbbá a diákigazolvánnyal, az oktatói igazolvánnyal, az oktatói azonosító számmal és a hallgatói azonosító számmal kapcsolatos eljárási szabályokat, a diákigazolvány és az oktatói igazolvány kibocsátásához kapcsolódó igazgatási szolgáltatási díjakat és azok mértékét, a felsőoktatási intézmények által kötelezően használt nyomtatványok tartalmi és formai követelményeit, a támogatási idő nyilvántartásának, az államilag támogatott és a költségtérítéses képzés közötti átsorolásnak a rendjét,
+- 7. a felsőoktatási információs rendszer működtetésével, az adattovábbítással, továbbá a diákigazolvánnyal, az oktatói igazolvánnyal, az oktatói azonosító számmal és a hallgatói azonosító számmal kapcsolatos eljárási kérdéseket, a felsőoktatási intézmények által kötelezően használt nyomtatványok tartalmi és formai követelményeit, a támogatási idő nyilvántartásának, az államilag támogatott és a költségtérítéses képzés közötti átsorolásnak a rendjét [35. § (2) és (11) bekezdés, 55. § (6) bekezdés, 73. § (1) bekezdés],
 - 8. a felsőfokú szakképzés rendjét [32. § (11) bekezdés b) pont],
 - 9. az érettségi vizsgatárgyakat, a jelentkezők eredményeinek megfeleltetését, a jelentkezések elbírálási rendjét, a jelentkezők tájékoztatásának rendjét, a felvétel feltételeit, az eljárási díj összegét [39. § (6) bekezdés, 42. § (2) és (5) bekezdés, 116. § (6) bekezdés],
 - 10. a jelentkezők, hallgatók esélyegyenlőségének előmozdítása érdekében az előnyben részesítés követelményeit; a mentorprogram megszervezésének szabályait [39. § (7) bekezdés, 66. § (6) bekezdés],
@@ -2682,18 +2911,18 @@ annak tekintetében, aki a díj, a helyezés, a szakképzettség, az elismerés 
 - 16. a foglalkoztatással összefüggő pályázati rendszert [88. § (3) bekezdés],
 - 17. a foglalkoztatással, kedvezményekkel, vezetői megbízással kapcsolatos szabályokat [80. § (3) bekezdés, 93. § (4) bekezdés, 94. § (3) bekezdés, 95. § (6) bekezdés, 96. § (6) bekezdés],
 - 18. a felsőoktatási intézmények nyilvántartását vezető szerv vagy szervek eljárását, működési, felügyeleti rendjét [107. §],
-- 19. a az Országos Kredittanács működésével kapcsolatos kérdéseket [, 114. § (7) bekezdés],
+- 19. a Magyar Felsőoktatási Akkreditációs Bizottság, a Felsőoktatási és Tudományos Tanács, valamint az Országos Kredittanács működésével kapcsolatos kérdéseket [110. § (8) bekezdés, 113. § (8) bekezdés, 114. § (7) bekezdés],
 - 20. a felsőoktatási intézmény finanszírozásával, gazdálkodásával kapcsolatos kérdéseket [127. § (2) bekezdés, 128. § (6) bekezdés, 129. § (2) bekezdés, 130. § (7) bekezdés, 131. § (4) bekezdés, 132. § (3) bekezdés, 133. § (2) bekezdés, 141. § (9) bekezdés, 143. § (4) bekezdés], a magán intézmények gazdálkodásával kapcsolatos kérdéseket [138. § (1) bekezdés],
-- 21.
+- 21. felsőoktatási ösztöndíjak alapítását [134. § (1)–(2) bekezdés, 152. § (6) bekezdés],
 - 22.
 - 23.
 
-(2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
+(2) A miniszter rendeletben szabályozza
 
 - a) az oktatási jogok biztosa hivatalának feladatait és működésének szabályait,
 - b) az alapképzés és a mesterképzés képzési és kimeneti követelményeit,
 - c) a szakirányú továbbképzés szervezésének általános feltételeit,
-- d) az oktatásügyi közvetítői szolgálatra, a közvetítői névjegyzék elkészítésére és kiadására vonatkozó szabályokat, továbbá az ezekhez és az államilag elismert nyelvvizsgáztatáshoz és a felsőoktatási információs rendszer működtetéséhez kapcsolódó igazgatási szolgáltatási díj körét, mértékét, megfizetésének szabályait, nyilvántartását, elszámolását és felhasználását.
+- d) az oktatásügyi közvetítői szolgálatot, a közvetítői névjegyzék elkészítését, kiadását és az ehhez kapcsolódó igazgatási szolgáltatási díjat, valamint annak mértékét, az államilag elismert nyelvvizsgáztatáshoz, a diákigazolvány kibocsátásához, a felsőoktatási információs rendszer működtetéséhez kapcsolódó igazgatási szolgáltatási díjakat és azok mértékét, valamint a felsőoktatási hatósági eljárási díjakat és azok mértékét.
 
 (3) A Kormány
 
@@ -2800,9 +3029,9 @@ rendeletben jelölje ki.
 
 163. § Az e törvény hatálybalépésekor működő nem állami felsőoktatási intézmények az állandó oktatói, kutatói karra vonatkozó rendelkezések szerinti működésre 2008. szeptember 1-jétől kezdődően kötelesek.
 
-163/A. § (1) A 2012. évben a költségvetési évre vonatkozóan a 127. § (2) bekezdésében meghatározott rendelkezés a felsőoktatás támogatási összegének megállapítására, éves növekményére vonatkozóan nem alkalmazható.
+163/A. § (1) A 2010. évi költségvetési évre vonatkozóan a 127. § (2) bekezdésében meghatározott rendelkezés a felsőoktatás támogatási összegének megállapítására, éves növekményére vonatkozóan nem alkalmazható.
 
-(2) 2012-ben a képzési normatíva éves összegének megállapításakor a 130. § (3) bekezdés rendelkezéseitől, valamint a 3. számú mellékletben foglaltaktól eltérve az egyes finanszírozási csoportok szorzószámait – az alapképzés első finanszírozási csoportjának kivételével – a Kormány legfeljebb húsz százalékos mértékben módosíthatja.
+(2) 2010-ben a képzési normatíva éves összegének megállapításakor a 130. § (3) bekezdés rendelkezéseitől, illetve a 3. számú mellékletben foglaltaktól eltérve az egyes finanszírozási csoportok szorzószámait – az alapképzés első finanszírozási csoportjának kivételével – a Kormány legfeljebb húsz százalékos mértékben módosíthatja.
 
 ### Az új engedélyezési rendszer bevezetése
 
@@ -2816,11 +3045,10 @@ rendeletben jelölje ki.
 
 - a) a Tanács 2003/109/EK tanácsi irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 11. cikk (1) bekezdés b) pont és 21. cikk;
 - b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.
-- c) A Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés c) pont.
 
 ### 1. számú melléklet a 2005. évi CXXXIX. törvényhez
 
-Magyarország államilag elismertfelsőoktatási intézményei
+A Magyar Köztársaság államilag elismertfelsőoktatási intézményei
 
 Állami egyetemek
 
@@ -2842,8 +3070,6 @@ Miskolci Egyetem, Miskolc
 
 Moholy-Nagy Művészeti Egyetem, Budapest
 
-Nemzeti Közszolgálati Egyetem, Budapest
-
 Nyugat-magyarországi Egyetem, Sopron
 
 Óbudai Egyetem, Budapest
@@ -2861,6 +3087,8 @@ Szent István Egyetem, Gödöllő
 Széchenyi István Egyetem, Győr
 
 Színház- és Filmművészeti Egyetem, Budapest
+
+Zrínyi Miklós Nemzetvédelmi Egyetem, Budapest
 
 Nem állami egyetemek
 
@@ -2896,6 +3124,8 @@ Magyar Táncművészeti Főiskola, Budapest
 
 Nyíregyházi Főiskola, Nyíregyháza
 
+Rendőrtiszti Főiskola, Budapest
+
 Szolnoki Főiskola, Szolnok
 
 Nem állami főiskolák
@@ -2916,8 +3146,6 @@ Budapest Kortárstánc Főiskola, Budapest
 
 Budapesti Kommunikációs és Üzleti Főiskola, Budapest
 
-Edutus Főiskola, Tatabánya
-
 Egri Hittudományi Főiskola, Eger
 
 Esztergomi Hittudományi Főiskola, Esztergom
@@ -2930,9 +3158,15 @@ Golgota Teológiai Főiskola, Vajta
 
 Győri Hittudományi Főiskola, Győr
 
+Harsányi János Főiskola, Budapest
+
 IBS Nemzetközi Üzleti Főiskola, Budapest
 
 Kodolányi János Főiskola, Székesfehérvár
+
+Kölcsey Ferenc Református Tanítóképző Főiskola, Debrecen
+
+Modern Üzleti Tudományok Főiskolája, Tatabánya
 
 Mozgássérültek Pető András Nevelőképző és Nevelőintézete, Budapest
 
@@ -3018,7 +3252,7 @@ I/B. A hallgatók adatai
 
 a) felvétellel összefüggő adatok:
 
-aa) a jelentkező neve, neme, születési neve, anyja neve, születési helye és ideje, állampolgársága, állandó lakásának és tartózkodási helyének címe és telefonszáma, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
+aa) a jelentkező neve, neme, születési neve, anyja neve, születési helye és ideje, állampolgársága, állandó lakásának és tartózkodási helyének címe és telefonszáma, nem magyar állampolgár esetén a Magyar Köztársaság területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
 
 ab) az érettségi vizsga adatai,
 
@@ -3030,7 +3264,7 @@ ae) a felvételi eljárás adatai;
 
 b) a hallgatói (kollégiumi tagsági, doktorjelölt) jogviszonnyal összefüggő adatok:
 
-ba) a hallgató neve, születési neve, anyja neve, születési helye és ideje, állampolgársága, bejelentett lakóhelyének, tartózkodási helyének címe, értesítési címe és telefonszáma, elektronikus levélcíme, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
+ba) a hallgató neve, születési neve, anyja neve, születési helye és ideje, állampolgársága, bejelentett lakóhelyének, tartózkodási helyének címe, értesítési címe és telefonszáma, elektronikus levélcíme, nem magyar állampolgár esetén a Magyar Köztársaság területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
 
 bb) a hallgatói (kollégiumi tagsági, doktorjelölti, vendéghallgatói) jogviszonya keletkezésének és megszűnésének időpontja és módja, a hallgató által folytatott képzés megnevezése, állami támogatottsága és munkarendje, a hallgató tanulmányainak értékelése, vizsgaadatok, megkezdett félévek, igénybe vett támogatási idő, a hallgatói jogviszony szünetelésének ideje,
 
@@ -3132,19 +3366,7 @@ d) az adatokat igazoló okiratok azonosítására szolgáló adatok.
 
 2. A többi adat az érintett hozzájárulásával tartható nyilván.
 
-3. Az 1. pontban meghatározott személyes adatok közül
-
-a) az illetmény, a munkabér vagy más juttatás, jogosultság megállapításához, igénybevételéhez szükséges adat a társadalombiztosítási kifizetőhelynek, illetve az illetmény, munkabér vagy más juttatás kifizetőhelyének;
-
-b) valamennyi adat a nemzetbiztonsági szolgálatnak,
-
-c) a megkeresés teljesítéséhez szükséges személyes adat a bíróságnak, ügyészségnek, rendőrségnek, az államigazgatási szervnek, a bírósági végrehajtónak;
-
-d) a felsőoktatási intézménnyel jogviszonyban álló személy valamennyi adata a felsőoktatási intézménynek;
-
-e) – annak biztosítása érdekében, hogy egy személynek csak egy azonosító száma legyen – az 1. pont a) és b) pontja szerinti adat a közoktatási információs rendszer felé
-
-továbbítható.
+3. Az 1. pontban felsorolt adatok továbbíthatók: a társadalombiztosítási, illetmény és munkabér vagy más juttatás kifizetőhelyének minden olyan adat, amely az illetmény, munkabér vagy más juttatás, jogosultság megállapításához, igénybevételéhez szükséges; a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek a konkrét ügy eldöntéséhez szükséges adatok; a nemzetbiztonsági szolgálatnak valamennyi adat, a felsőoktatási intézménynek az alkalmazottjával kapcsolatos minden adat.
 
 II/C. A hallgatói, doktorjelölti személyi törzs
 
@@ -3154,7 +3376,7 @@ a) a hallgatói (doktorjelölti) jogviszonnyal összefüggő adatok:
 
 aa) a hallgató (doktorjelölt) neve, születési neve, anyja neve, születési helye és ideje, állampolgársága, neme, lakóhelye, tartózkodási helye, értesítési címe,
 
-ab) nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
+ab) nem magyar állampolgár esetén a Magyar Köztársaság területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
 
 ac) a jogviszony keletkezésének és megszűnésének időpontja és módja,
 
@@ -3208,21 +3430,7 @@ d) az adatokat igazoló okiratok azonosítására szolgáló adatok.
 
 2. A többi adat az érintett hozzájárulásával tartható nyilván.
 
-3. Az 1. pontban meghatározott személyes adatok közül:
-
-a) valamennyi adat a nemzetbiztonsági szolgálatnak;
-
-b) a megkeresés teljesítéséhez szükséges személyes adat a bíróságnak, ügyészségnek, rendőrségnek, az államigazgatási szervnek, bírósági végrehajtónak;
-
-c) a tanulmányok folytatásával összefüggő adat a Diákhitel Központnak;
-
-d) a társadalombiztosítási ellátásra való jogosultságot meghatározó adatok a társadalombiztosítási szervnek;
-
-e) a felsőoktatási intézménybe jelentkező és a felsőoktatási intézménnyel hallgatói jogviszonyban álló személy valamennyi adata a felsőoktatási intézménynek,
-
-f) – a 35. § (4) bekezdésében foglaltak biztosítása érdekében – az 1. pont a) pont aa) alpontja szerinti adat a közoktatási információs rendszer felé
-
-továbbítható.
+3. Az adatok továbbíthatók: a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek a konkrét ügy eldöntéséhez szükséges adat; a nemzetbiztonsági szolgálat részére valamennyi adat; a Diákhitel Központnak a tanulmányok folytatásával összefüggő adatok; a társadalombiztosítási hatóságnak a társadalombiztosítási ellátásra való jogosultságot meghatározó adatok; a felsőoktatási intézménynek a hozzá jelentkező és vele hallgatói (kollégiumi tagsági, doktorjelölti) jogviszonyban álló személyre vonatkozó valamennyi adat; a felsőoktatási intézménynek a hozzá felvételre került személyekre vonatkozó valamennyi adat, a közoktatási információs rendszer felé a tanulói jogviszonnyal rendelkező személyekre vonatkozó valamennyi adat.
 
 II/D. Felvételi személyi törzs
 
@@ -3230,7 +3438,7 @@ II/D. Felvételi személyi törzs
 
 a) felvétellel összefüggő adatok:
 
-aa) a jelentkező neve, születési neve, anyja neve, születési helye és ideje, neme, állampolgársága, lakóhelye és tartózkodási helye, értesítési címe; nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
+aa) a jelentkező neve, születési neve, anyja neve, születési helye és ideje, neme, állampolgársága, lakóhelye és tartózkodási helye, értesítési címe; nem magyar állampolgár esetén a Magyar Köztársaság területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
 
 ab) az érettségi vizsga adatai,
 

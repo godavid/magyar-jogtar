@@ -8,11 +8,11 @@ Az Országgyűlés az egyszerűsített adómegállapítási és beszedési szab�
 
 ### Az egyszerűsített vállalkozói adó
 
-1. § (1) Magyarországon egyes személyek vállalkozási (gazdasági) tevékenységből származó bevételét az e törvényben meghatározott egyszerűsített vállalkozói adó (a továbbiakban: eva) terheli.
+1. § (1) A Magyar Köztársaságban egyes személyek vállalkozási (gazdasági) tevékenységből származó bevételét az e törvényben meghatározott egyszerűsített vállalkozói adó (a továbbiakban: eva) terheli.
 
 (2) Az evából származó bevétel a központi költségvetést illeti meg.
 
-(3) Az adózó az evával összefüggő adókötelezettségeit e törvény, valamint az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezései szerint teljesíti.
+(3) Az adózó az evával összefüggő adókötelezettségeit e törvény, valamint az adózás rendjéről szóló törvény rendelkezései szerint teljesíti.
 
 (4) Az evával összefüggő hatósági ügyben az eljárás az állami adóhatóság hatáskörébe tartozik.
 
@@ -40,41 +40,39 @@ Az Országgyűlés az egyszerűsített adómegállapítási és beszedési szab�
 
 (3) A (2) bekezdésben meghatározott személy az adóévben akkor lehet adóalany, ha az adóévet megelőző naptári évben és az azt megelőző adóévben
 
-- a) a magánszemély egyéni vállalkozóként tevékenységét folyamatosan végezte, a jogi személy és az egyéni cég nem alakult át (ideértve különösen a kiválást és a beolvadást is), valamint a jogi személyben, egyéni cégben (az öröklést kivéve) új tag nem szerzett (új tagok nem szereztek összesen) 50 százalékot meghaladó szavazati jogot biztosító részesedést;
-- b) állami adó- és vámhatóság nem rendelte el véglegesen számla- vagy nyugtaadási kötelezettség ismételt elmulasztása miatt mulasztási bírság kiszabását;
+- a) a magánszemély egyéni vállalkozóként tevékenységét folyamatosan végezte, a jogi személy, a jogi személyiség nélküli gazdasági társaság és az egyéni cég nem alakult át (ideértve különösen a kiválást és a beolvadást is), valamint a jogi személyben, a jogi személyiség nélküli gazdasági társaságban, egyéni cégben (az öröklést kivéve) új tag nem szerzett (új tagok nem szereztek összesen) 50 százalékot meghaladó szavazati jogot biztosító részesedést;
+- b) az adóhatóság nem rendelte el jogerősen számla- vagy nyugtaadási kötelezettség ismételt elmulasztása miatt mulasztási bírság kiszabását;
 - c) az általános forgalmi adóról szóló törvény szerint nem volt kötelezett a használt ingóságokra, műalkotásokra, gyűjteménydarabokra és régiségekre vonatkozó vagy az utazásszervezési szolgáltatásra vonatkozó különös adózási szabályok alkalmazására;
 - d) nem állt végelszámolás, bíróság által jogerősen elrendelt felszámolás hatálya alatt;
-- e) a magánszemély az általa végzett termékértékesítés vagy szolgáltatásnyújtás alapján vállalkozói bevételt, a jogi személy és az egyéni cég a számvitelről szóló törvény előírásainak megfelelően árbevételt (az adóalany annak megfelelő bevételt) számolt el.
+- e) a magánszemély az általa végzett termékértékesítés vagy szolgáltatásnyújtás alapján vállalkozói bevételt, a jogi személy, a jogi személyiség nélküli gazdasági társaság és az egyéni cég a számvitelről szóló törvény előírásainak megfelelően árbevételt (az adóalany annak megfelelő bevételt) számolt el.
 
 (4) A (2) bekezdésben meghatározott személy az adóévben akkor lehet adóalany, ha
 
-- a) az adóévet megelőző második adóévben (üzleti évben) – ha előtársasági működésének kezdő napja az adóévet megelőző második naptári évben, utolsó napja az adóévet megelőző naptári évben volt, akkor előtársasági működése adóévében – éves szintre átszámított összes bevétele a 30 millió forintot nem haladta meg,
-- b) az adóévet megelőző adóévben (üzleti évben) ésszerűen várható éves szintre átszámított összes bevétele a 30 millió forintot nem haladja meg azzal, hogy az a)–b) pont alkalmazásában
+- a) az adóévet megelőző második adóévben (üzleti évben) – ha előtársasági működésének kezdő napja az adóévet megelőző második naptári évben, utolsó napja az adóévet megelőző naptári évben volt, akkor előtársasági működése adóévében – éves szintre átszámított összes bevétele a 25 millió forintot nem haladta meg,
+- b) az adóévet megelőző adóévben (üzleti évben) ésszerűen várható éves szintre átszámított összes bevétele a 25 millió forintot nem haladja meg azzal, hogy az a)–b) pont alkalmazásában
 - c) bevétel:
   - ca) nem adóalany egyéni vállalkozónál a személyi jövedelemadóról szóló törvény szerint meghatározott vállalkozói bevétel, növelve az – ahhoz kapcsolódóan az általános forgalmi adóról szóló törvény előírásainak megfelelően áthárított – általános forgalmi adóval,
-  - cb) nem adóalany jogi személynél és az egyéni cégnél a számvitelről szóló törvény előírásainak megfelelően az eredménykimutatásban kimutatott árbevétel, bevétel, vagy az eredménylevezetésben kimutatott adóköteles bevétel, növelve az – ahhoz kapcsolódóan az általános forgalmi adóról szóló törvény előírásainak megfelelően áthárított – általános forgalmi adóval,
+  - cb) nem adóalany jogi személynél, jogi személyiség nélküli gazdasági társaságnál és az egyéni cégnél a számvitelről szóló törvény előírásainak megfelelően az eredménykimutatásban kimutatott árbevétel, bevétel, vagy az eredménylevezetésben kimutatott adóköteles bevétel, növelve az – ahhoz kapcsolódóan az általános forgalmi adóról szóló törvény előírásainak megfelelően áthárított – általános forgalmi adóval,
   - cc) adóalanynál az e törvény előírásainak megfelelően meghatározott, a 6. § (1) bekezdése és 20. § (1) bekezdése szerinti bevétel.
 
 (5) A (2) bekezdésben meghatározott személy az adóévben akkor lehet adóalany, ha
 
-- a) az adóévre ésszerűen várható, e törvény előírásainak megfelelően meghatározott, a 6. § (1) bekezdése és 20. § (1) bekezdése szerinti bevétele a 30 millió forintot nem haladja meg;
-- b) az adóévben nem folytat a jövedéki adóról szóló törvény hatálya alá tartozó tevékenységet;
+- a) az adóévre ésszerűen várható, e törvény előírásainak megfelelően meghatározott, a 6. § (1) bekezdése és 20. § (1) bekezdése szerinti bevétele a 25 millió forintot nem haladja meg;
+- b) az adóévben nem folytat a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény hatálya alá tartozó tevékenységet;
 - c) az adóévben nem folytat a vámjogszabályokban meghatározott közvetett képviselői tevékenységet;
 - d)
 - e) belföldi pénzforgalmi számlával rendelkezik.
 
 (6)
 
-(7) A (2) bekezdésben meghatározott jogi személy és az egyéni cég az adóévben – a (3)–(5) bekezdésekben foglaltakon túl – akkor lehet adóalany, ha az adóévben
+(7) A (2) bekezdésben meghatározott jogi személy, jogi személyiség nélküli gazdasági társaság és az egyéni cég az adóévben – a (3)–(5) bekezdésekben foglaltakon túl – akkor lehet adóalany, ha az adóévben
 
 - a) valamennyi tagja magánszemély (ideértve a Munkavállalói Résztulajdonosi Program szervezetét is),
-- b) más jogi személyben nem rendelkezik részesedéssel (kivéve, ha az szövetkezeti hitelintézet által kibocsátott szövetkezeti részesedés vagy nyilvánosan működő részvénytársaság nyilvánosan forgalomba hozott részvénye),
+- b) más jogi személyben, jogi személyiség nélküli gazdasági társaságban nem rendelkezik részesedéssel (kivéve, ha az szövetkezeti hitelintézet által kibocsátott részjegy vagy nyilvánosan működő részvénytársaság nyilvánosan forgalomba hozott részvénye),
 
 azzal, hogy az a) pontban meghatározott feltétel teljesülését nem érinti az adózó tulajdonában lévő saját üzletrész.
 
-(8) A (3) bekezdés a) pontja szerinti folyamatos tevékenység végzésére, az e) pontban meghatározott bevétel elérésére, valamint – feltéve, hogy más e törvény szerinti adóalanyiságot eredményező tevékenységet nem folytat – az (5) bekezdés e) pontjában meghatározott kötelezettség teljesítésére irányuló feltétel nem vonatkozik arra az egyéni vállalkozóra, aki tevékenységét szünetelteti, továbbá arra, aki a családok támogatásáról szóló törvényben meghatározott gyermekgondozást segítő ellátásban, gyermekgondozási segélyben vagy a kötelező egészségbiztosítás ellátásairól szóló törvényben meghatározott gyermekgondozási díjban részesül.
-
-(9) Az adózó a szünetelést – a jogállását szabályozó külön törvény szerint történő bejelentéssel egyidejűleg – az egyéni vállalkozói tevékenységére tekintettel pénzforgalmi bankszámlát vezető hitelintézet(ek)nek is bejelenti, azzal, hogy a bejelentés elmulasztásának minden adójogi következménye a magánszemélyt terheli.
+(8) A (3) bekezdés a) pontja szerinti folyamatos tevékenység végzésére és az e) pontban meghatározott bevétel elérésére irányuló feltétel nem vonatkozik arra a magánszemély egyéni vállalkozóra, aki tevékenységét vagy szolgálatát szünetelteti, továbbá arra, aki a családok támogatásáról szóló törvényben meghatározott gyermekgondozási segélyben vagy a kötelező egészségbiztosítás ellátásairól szóló törvényben meghatározott gyermekgondozási díjban részesül.
 
 ### Az adóalanyiság megszűnése
 
@@ -83,16 +81,14 @@ azzal, hogy az a) pontban meghatározott feltétel teljesülését nem érinti a
 - a) a naptári év utolsó napjával, ha a naptári évet követő adóévre bejelentette, hogy adókötelezettségeit nem e törvény rendelkezései szerint teljesíti, vagy e bejelentését jogszerűtlenül nem tette meg;
 - b) a változás bekövetkezésének napját megelőző nappal, ha a változás révén már nem felel meg az adóalanyiságra előírt bármely feltételnek;
 - c) az adóalanyiság választására jogosító értékhatár meghaladásának napját követő nappal;
-- d) a kapott előlegről kibocsátott utolsó bizonylat kibocsátásának napját megelőző nappal, ha a naptári évben összesen 30 millió forintot meghaladó előlegről bocsátott ki bizonylatot;
-- e) az állami adó- és vámhatóság határozata véglegessé válásának napjával, ha terhére az adóhatóság számla- vagy nyugtaadási kötelezettség elmulasztása, vagy az ellenőrzés akadályozása miatt mulasztási bírságot állapított meg;
+- d) a kapott előlegről kibocsátott utolsó bizonylat kibocsátásának napját megelőző nappal, ha a naptári évben összesen 25 millió forintot meghaladó előlegről bocsátott ki bizonylatot;
+- e) az adóhatóság határozata jogerőre emelkedésének napjával, ha terhére az adóhatóság számla- vagy nyugtaadási kötelezettség elmulasztása, vagy az ellenőrzés akadályozása miatt mulasztási bírságot állapított meg;
 - f) a magánszemély adóalany egyéni vállalkozói jogállása megszűnésének napjával;
-- g) a végelszámolás, a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal, egyébként a megszűnés napjával;
-- h) a részesedés megszerzésének napját megelőző nappal, ha a jogi személyben egyéni cégben 50 százalékot meghaladó szavazati jogot biztosító részesedést szerez olyan magánszemély (összesen 50 százalékot meghaladó szavazati jogot biztosító részesedést szereznek olyan magánszemélyek), akivel (akikkel) a naptári évben korábban nem állt tagi jogviszonyban; az öröklés esetére e rendelkezést nem kell alkalmazni;
-- i)
-- j) a kisadózó vállalkozások tételes adója szerinti adóalanyiság létrejötte napját megelőző nappal;
-- k) a kisvállalati adó szerinti adóalanyiság létrejötte napját megelőző nappal.
+- g) a végelszámolás, a felszámolás kezdő időpontját megelőző nappal, egyébként a megszűnés napjával;
+- h) a részesedés megszerzésének napját megelőző nappal, ha a jogi személyben, jogi személyiség nélküli gazdasági társaságban, egyéni cégben 50 százalékot meghaladó szavazati jogot biztosító részesedést szerez olyan magánszemély (összesen 50 százalékot meghaladó szavazati jogot biztosító részesedést szereznek olyan magánszemélyek), akivel (akikkel) a naptári évben korábban nem állt tagi jogviszonyban; az öröklés esetére e rendelkezést nem kell alkalmazni;
+- i) a változás bekövetkezésének napját megelőző nappal, ha az egyéni cég tagjának korlátlan mögöttes felelőssége korlátolttá válik.
 
-(2) Az adóalanyiság nem szűnik meg, ha az egyéni vállalkozónak minősülő magánszemély adóalany tevékenységét cselekvőképességének korlátozását vagy elvesztését követően a nevében és javára törvényes képviselője folytatja. Az egyéni vállalkozónak minősülő magánszemély adóalany tevékenységét halála után özvegye vagy örököse folytathatja, feltéve, hogy az özvegy vagy az örökös e szándékát az adóalany halála napját követő 90 napon belül bejelenti az adóhatóságnak. Az özvegy vagy az örökös e bejelentéssel egyidejűleg választhatja az e törvény szerinti adóalanyiságot vagy a személyi jövedelemadóról szóló törvényben az egyéni vállalkozóra előírt adózási módot. Az adóalanyiság bejelentése jogszerűségének nem feltétele a 2. § (3) bekezdésének a) és e) pontjában, valamint a 2. § (4) bekezdésének a) pontjában foglaltaknak való megfelelés, de a bejelentésre egyebekben az e törvény szerinti bejelentésre irányadó rendelkezéseket kell alkalmazni. Ha a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozó özvegy vagy örökös nem az e törvény szerinti adóalanyiságot választja, akkor
+(2) Az adóalanyiság nem szűnik meg, ha az egyéni vállalkozónak minősülő magánszemély adóalany tevékenységét cselekvőképességének elvesztését követően a nevében és javára törvényes képviselője folytatja. Az egyéni vállalkozónak minősülő magánszemély adóalany tevékenységét halála után özvegye vagy örököse folytathatja, feltéve, hogy az özvegy vagy az örökös e szándékát az adóalany halála napját követő 90 napon belül bejelenti az adóhatóságnak. Az özvegy vagy az örökös e bejelentéssel egyidejűleg választhatja az e törvény szerinti adóalanyiságot vagy a személyi jövedelemadóról szóló törvényben az egyéni vállalkozóra előírt adózási módot. Az adóalanyiság bejelentése jogszerűségének nem feltétele a 2. § (3) bekezdésének a) és e) pontjában, valamint a 2. § (4) bekezdésének a) pontjában foglaltaknak való megfelelés, de a bejelentésre egyebekben az e törvény szerinti bejelentésre irányadó rendelkezéseket kell alkalmazni. Ha a személyi jövedelemadóról szóló törvény hatálya alá tartozó egyéni vállalkozó özvegy vagy örökös nem az e törvény szerinti adóalanyiságot választja, akkor
 
 - a) értelemszerűen alkalmazza az egyéni vállalkozónak minősülő elhunyt magánszemély adóalanyiságának (tevékenység megszüntetése nélküli) megszűnésére e törvényben előírt rendelkezéseket,
 - b) az elhunyt adóalany adókötelezettségét az adóhatóság a tevékenység megszüntetésére irányadó rendelkezések figyelmen kívül hagyásával állapítja meg.
@@ -107,9 +103,9 @@ azzal, hogy az a) pontban meghatározott feltétel teljesülését nem érinti a
 
 4. § (1) Az egyéni vállalkozó az evával összefüggő nyilvántartási kötelezettségeit a (4)–(6) bekezdésben foglaltak szerint teljesíti.
 
-(2) A korlátolt felelősségű társaság, a szövetkezet, a lakásszövetkezet, az erdőbirtokossági társulat, a végrehajtói iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, és a közjegyzői iroda az evával összefüggő nyilvántartási kötelezettségeit a számvitelről szóló törvény előírásai szerinti kettős könyvvitel rendszerében teljesíti.
+(2) A korlátolt felelősségű társaság, a korlátolt mögöttes felelősséggel működő egyéni cég, a szövetkezet, a lakásszövetkezet, az erdőbirtokossági társulat, a végrehajtói iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda és a közjegyzői iroda az evával összefüggő nyilvántartási kötelezettségeit a számvitelről szóló törvény előírásai szerinti kettős könyvvitel rendszerében teljesíti.
 
-(3) A közkereseti társaság, a betéti társaság, valamint az egyéni cég az evával összefüggő nyilvántartási kötelezettségeit – választásának megfelelően – vagy a (4)–(6) bekezdésben foglaltak vagy a számvitelről szóló törvény előírásai szerint, a kettős könyvvitel rendszerében teljesíti. Az adózó e választásáról az e törvény előírásai szerint tett első bejelentésével egyidejűleg, az adóhatóság által rendszeresített nyomtatványon nyilatkozik; a nyilatkozatot az adózó később nem változtathatja meg és nem vonhatja vissza.
+(3) A közkereseti társaság, a betéti társaság és a korlátlan mögöttes felelősséggel működő egyéni cég az evával összefüggő nyilvántartási kötelezettségeit – választásának megfelelően – vagy a (4)–(6) bekezdésben foglaltak, vagy a számvitelről szóló törvény előírásai szerint, a kettős könyvvitel rendszerében teljesíti. Az adózó e választásáról az e törvény előírásai szerint tett első bejelentésével egyidejűleg, az adóhatóság által rendszeresített nyomtatványon nyilatkozik; a nyilatkozatot az adózó később nem változtathatja meg, és nem vonhatja vissza.
 
 (4) Az adóalany időrendben, folyamatosan, ellenőrizhető módon, a melléklet előírásainak megfelelően nyilvántart és rögzít minden olyan adatot, amely adókötelezettsége teljesítéséhez és a teljesítés ellenőrzéséhez szükséges.
 
@@ -137,7 +133,7 @@ azzal, hogy az a) pontban meghatározott feltétel teljesülését nem érinti a
 - a) növeli az adóévben (üzleti évben) megszerzett összes kapott előleg;
 - b) csökkenti az eva alapjának megállapításakor az a) pont alapján a megszerzett összes bevétel növeléseként elszámolt kapott előlegből az adóévben a teljesítésre tekintettel elszámolt vagy visszafizetett összeg.
 
-(5) Az eva alapját csökkenti jogszabály vagy jogerős bírósági, illetve hatósági határozat alapján kapott kártérítés, kártalanítás, sérelemdíj, továbbá az adóalany vállalkozási (gazdasági) tevékenységéhez használt vagyontárgy károsodására vagy megsemmisülésére tekintettel a károkozótól, annak felelősségbiztosítójától vagy harmadik személytől a káreseménnyel kapcsolatosan kapott bevétel, továbbá az adóalany biztosítójától elemi kárra tekintettel kapott bevételként elszámolt kártérítés, továbbá a költségek fedezetére vagy fejlesztési célra folyósított támogatás összege.
+(5) Az eva alapját csökkenti jogszabály vagy jogerős bírósági, illetve hatósági határozat alapján kapott kártérítés, kártalanítás, továbbá az adóalany vállalkozási (gazdasági) tevékenységéhez használt vagyontárgy károsodására vagy megsemmisülésére tekintettel a károkozótól, annak felelősségbiztosítójától vagy harmadik személytől a káreseménnyel kapcsolatosan kapott bevétel, továbbá az adóalany biztosítójától elemi kárra tekintettel kapott bevételként elszámolt kártérítés összege.
 
 (6)–(9)
 
@@ -164,7 +160,7 @@ azzal, hogy az a) pontban meghatározott feltétel teljesülését nem érinti a
 
 (8) Ha a bevételt külföldi fizetőeszközben fejezték ki, akkor az átszámításhoz azt az utolsó, a bizonylat kibocsátásának napján – más esetben a bevétel megszerzésének a napján – érvényes, az adott külföldi pénznem valamely egységének forintban kifejezett eladási árát kell alkalmazni, amelyet belföldön pénzváltási engedéllyel rendelkező hitelintézet devizában jegyez. Abban az esetben, ha az adott külföldi pénznemnek ilyen jegyzése nincs, a forintra történő átszámításhoz azt az adott külföldi pénznem valamely egységének euróban kifejezett értékét kell alapul venni, amelyet a Magyar Nemzeti Bank a bizonylat kibocsátásának napját – más esetben a bevétel megszerzésének a napját – megelőző naptári negyedévre vonatkozóan tesz közzé.
 
-(9)
+(9) A (2) bekezdés szerinti bevétel csökkenthető a jogszabályi kötelezettség alapján tárgyévben visszafizetett támogatás összegével.
 
 ### A bevétel megszerzésének időpontja
 
@@ -184,12 +180,12 @@ azzal, hogy az a) pontban meghatározott feltétel teljesülését nem érinti a
 
 ### Az eva alapja megállapításának különös szabályai
 
-8. § (1) A számvitelről szóló törvény hatálya alá nem tartozó betéti társaság, közkereseti társaság és egyéni cég adóalany esetében az eva alapjának megállapításakor az összes bevételt csökkenti az adóévben megszerzett olyan bevétel, amelyet
+8. § (1) A számvitelről szóló törvény hatálya alá nem tartozó jogi személyiség nélküli gazdasági társaság és korlátlan mögöttes felelősséggel működő egyéni cég adóalany esetében az eva alapjának megállapításakor az összes bevételt csökkenti az adóévben megszerzett olyan bevétel, amelyet
 
 - a) az adóévet megelőző bármely üzleti évre vonatkozóan a számvitelről szóló törvény rendelkezései szerint a mérlegben az aktív időbeli elhatárolások között mutatott ki;
 - b) a bejelentés üzleti évére (adóévére) vonatkozóan a számvitelről szóló törvény rendelkezései szerint az egyszerűsített mérlegben kimutatott vevőkkel szembeni követelés alapján számolt el.
 
-(2) A számvitelről szóló törvény hatálya alá nem tartozó betéti társaság, közkereseti társaság és egyéni cég adóalany esetében a bejelentés adóévét követő első adóévben az eva alapjának megállapításakor az összes bevételt növeli az a bevétel, amelyet az adóévet megelőző üzleti évre vonatkozóan a számvitelről szóló törvény rendelkezései szerint készített beszámoló
+(2) A számvitelről szóló törvény hatálya alá nem tartozó jogi személyiség nélküli gazdasági társaság és korlátlan mögöttes felelősséggel működő egyéni cég adóalany esetében a bejelentés adóévét követő első adóévben az eva alapjának megállapításakor az összes bevételt növeli az a bevétel, amelyet az adóévet megelőző üzleti évre vonatkozóan a számvitelről szóló törvény rendelkezései szerint készített beszámoló
 
 - a) mérlegében a passzív időbeli elhatárolások között,
 - b) egyszerűsített mérlegében a tevékenységhez jogszabály vagy államközi megállapodás alapján kapott vissza nem térítendő támogatás alapján a kötelezettségek között
@@ -202,27 +198,27 @@ mutatott ki.
 
 (5) A számvitelről szóló törvény hatálya alá tartozó adóalany esetében az eva alapjának megállapításakor az összes bevételt csökkenti az az adóévi bevétel, amelyet a számvitelről szóló törvény rendelkezései szerint az egyszeres könyvvitelről a kettős könyvvitelre való áttérés miatt nyitást követő korrekciós tételként számolt el.
 
-(6) Ha az adóalany – az (1)–(5) bekezdésben foglaltakon túlmenően – az adóévben olyan bevételt szerzett (mutatott ki), amelynek alapján személyi jövedelemadó, társasági adó, kisadózó vállalkozások tételes adója vagy általános forgalmi adó megállapítására (volt) kötelezett, az eva alapját csökkentheti a bevétel azon részével, amelyre az említett adót megállapította.
+(6) Ha az adóalany – az (1)–(5) bekezdésben foglaltakon túlmenően – az adóévben olyan bevételt szerzett (mutatott ki), amelynek alapján személyi jövedelemadó, társasági adó vagy általános forgalmi adó megállapítására (volt) kötelezett, az eva alapját csökkentheti a bevétel azon részével, amelyre az említett adót megállapította.
 
 (7) A számvitelről szóló törvény hatálya alá nem tartozó adóalany esetében az eva alapjának megállapításakor az összes bevételt növeli az az összeg, amelyet az adóalany az általa kibocsátott bizonylat alapján az adóalanyisága megszűnése napjáig még nem szerzett meg, illetve az a 7. § (7) bekezdése alapján sem minősült eddig bevételnek.
 
 ### Az eva mértéke
 
-9. § (1) Az eva a pozitív adóalap 37 százaléka.
+9. § (1) Az eva a pozitív adóalap 30 százaléka.
 
-(2) Ha az adóalany bevétele és a 8. § (7) bekezdés alapján az összes bevételt növelő összeg együttesen meghaladja az adóalanyiság választására jogosító értékhatárt, az adóalanyiság választására jogosító értékhatárt meghaladó rész után az eva mértéke 50 százalék.
+(2) Ha az adóalany bevétele és a 8. § (7) bekezdés alapján az összes bevételt növelő összeg együttesen meghaladja az adóalanyiság választására jogosító értékhatárt, a bevételnek az értékhatárt meghaladó része után az eva mértéke 50 százalék.
 
 ### III. Fejezet — ELJÁRÁSI SZABÁLYOK
 
 ### Bejelentés
 
-10. § (1)
+10. § (1) Az adóalanynak nem minősülő adózó az adóévet megelőző év decemberében, a hónap 20. napjáig az erre a célra rendszeresített nyomtatványon bejelenti az állami adóhatóságnak, hogy az adóévben e törvény rendelkezései szerint teljesíti adókötelezettségeit azzal, hogy e bejelentését az adózó az említett időpontig írásban visszavonhatja. A bejelentésre, illetve a visszavonásra nyitva álló határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
-(2)
+(2) Az adóalanynak nem minősülő adózó az (1) bekezdés szerinti bejelentést akkor teheti meg, ha már a bejelentés időpontjában megfelel az e törvényben meghatározott valamennyi feltételnek (ideértve az adóalanyiság adóévére meghatározott feltételeket is), valamint nincs állami adóhatóságnál, vámhatóságnál, önkormányzati adóhatóságnál nyilvántartott adótartozása. E tényekről az adózó a bejelentésre rendszeresített nyomtatványon nyilatkozik.
 
 (3) Az adóalany december 20-áig az erre a célra rendszeresített nyomtatványon jelentheti be az állami adóhatóságnak, hogy a következő adóévben adókötelezettségeit már nem az adóalanyra vonatkozó rendelkezések szerint kívánja teljesíteni, azzal, hogy e bejelentését az adózó az említett időpontig írásban visszavonhatja.
 
-(4) Az adóalany köteles a (3) bekezdés szerinti bejelentést megtenni, ha december 20-án nem felel meg az e törvényben meghatározott bármely feltételnek, vagy állami adóhatóságnál, vámhatóságnál, önkormányzati adóhatóságnál ezer forintot meghaladó nyilvántartott adótartozása van.
+(4) Az adóalany köteles a (3) bekezdés szerinti bejelentést megtenni, ha december 20-án nem felel meg az e törvényben meghatározott bármely feltételnek, vagy állami adóhatóságnál, vámhatóságnál, önkormányzati adóhatóságnál nyilvántartott adótartozása van.
 
 (5) Az állami adóhatóság az adóalanyt a (3)–(4) bekezdés szerinti bejelentés hiányában az adóévet követő adóévre is adóalanyként tartja nyilván.
 
@@ -237,11 +233,11 @@ mutatott ki.
 (3) A bevallás benyújtásának határideje:
 
 - a) a számvitelről szóló törvény hatálya alá nem tartozó adóalany esetében az adóévet követő év február 25., ha azonban az adóalanyiság év közben szűnt meg, akkor az adóalanyiság megszűnését követő 30. nap;
-- b) a számvitelről szóló törvény hatálya alá tartozó adóalany esetében az adóévet követő év május 31., ha azonban az adóalanyiság év közben szűnt meg, akkor az adóalanyiság megszűnésének hónapját követő ötödik hónap utolsó napja.
+- b) a számvitelről szóló törvény hatálya alá tartozó adóalany esetében az adóévet követő év május 31., ha azonban az adóalanyiság év közben szűnt meg, akkor az adóalanyiság megszűnését követő 150. nap.
 
-(4) Az adóalany az adóév első három negyedévére negyedévenként az adóelőleget megállapítja, valamint az egyes negyedévekre megállapított adóelőleget, valamint a 12. § (4) bekezdése szerinti adóelőleg kiegészítést az adóévre vonatkozó bevallásában bevallja. Az egyéni vállalkozó adóalanynak a bevallásában az adatokat forintban kell feltüntetnie, a jogi személy és az egyéni cég bevallásában az adatokat az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény előírásainak megfelelően szerepelteti.
+(4) Az adóalany az adóév első három negyedévére negyedévenként az adóelőleget megállapítja, valamint az egyes negyedévekre megállapított adóelőleget, valamint a 12. § (4) bekezdése szerinti adóelőleg kiegészítést az adóévre vonatkozó bevallásában bevallja. Az egyéni vállalkozó adóalanynak a bevallásában az adatokat forintban kell feltüntetnie, a jogi személy, a jogi személyiség nélküli gazdasági társaság és az egyéni cég bevallásában az adatokat az adózás rendjéről szóló törvény előírásainak megfelelően szerepelteti.
 
-(5) Az (1) bekezdésben foglaltaktól eltérően, az állami adó- és vámhatóság az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény előírásai szerinti becsléssel állapítja meg az eva alapját és összegét az adóév első napjától a mulasztási bírságot megállapító határozat véglegessé válásának napjáig terjedő időszakra vonatkozóan, ha az adózó adóalanyisága mulasztási bírság kiszabása miatt szűnt meg. A becslésre irányuló eljárást az adóhatóság a mulasztási bírságot megállapító határozat jogerőre emelkedésének napját követő 15 napon belül megindítja.
+(5) Az (1) bekezdésben foglaltaktól eltérően, az állami adóhatóság az adózás rendjéről szóló törvény előírásai szerinti becsléssel állapítja meg az eva alapját és összegét az adóév első napjától a mulasztási bírságot megállapító határozat jogerőre emelkedésének napjáig terjedő időszakra vonatkozóan, ha az adózó adóalanyisága mulasztási bírság kiszabása miatt szűnt meg. A becslésre irányuló eljárást az adóhatóság a mulasztási bírságot megállapító határozat jogerőre emelkedésének napját követő 15 napon belül megindítja.
 
 ### Adóelőleg- és adófizetés
 
@@ -292,7 +288,7 @@ mutatott ki.
 
 (3) Az adóalany a (2) bekezdés c) pontja alapján fizetendő általános forgalmi adót, feltéve, hogy a szolgáltatást a Közösségen kívül letelepedett adóalanytól vette igénybe, és a (2) bekezdés d) pontja alapján fizetendő általános forgalmi adót az adóévre vonatkozó evabevallásában megállapítja és bevallja, valamint a bevallás benyújtására előírt határidőig megfizeti.
 
-(4) Az adóalany a Közösség másik tagállamából történő beszerzései tekintetében az általános forgalmi adóról szóló törvény 20. § (1) bekezdés d) pontjában meghatározott személyekkel, szervezetekkel, a 36–49. §-ának, 140. §-ának és a 142. § (3) bekezdés a) pontjának alkalmazása tekintetében pedig a belföldön nyilvántartásba vett adóalanyokkal esik egy tekintet alá. A közösségi adószámra és az összesítő nyilatkozatra vonatkozó rendelkezések tekintetében az adóalany az általános forgalmi adóról szóló törvény szerint alanyi adómentességet választott adóalanyokkal esik egy tekintet alá.
+(4) Az adóalany a Közösség másik tagállamából történő beszerzései tekintetében az általános forgalmi adóról szóló törvény 20. §-a (1) bekezdésének d) pontjában meghatározott személyekkel, szervezetekkel, a 36–49. §-ainak, 140. §-ának és a 142. § (3) bekezdése a) pontjának alkalmazása tekintetében pedig a belföldön nyilvántartásba vett áfaalanyokkal esik egy tekintet alá.
 
 (5) Az adóalany az általános forgalmi adóról szóló törvény szerint a külföldi utasnak visszatérített általános forgalmi adót előzetesen felszámított adóként nem veheti figyelembe.
 
@@ -302,11 +298,9 @@ mutatott ki.
 
 (8) Az általános forgalmi adó alanya az adóalanyként lezárt adóévben beszerzett termék, igénybevett szolgáltatás tekintetében előzetesen felszámított adólevonási jogot nem gyakorolhat.
 
-(9) Az adóalany az általa kibocsátott számlák tekintetében az adatszolgáltatási kötelezettséget az általános forgalmi adóról szóló törvényben meghatározott rendelkezéseknek megfelelően teljesíti.
-
 ### Szakképzési hozzájárulás
 
-16/A. § (1) Az adóalany az általa munkaviszony keretében foglalkoztatott minden magánszemély (ide nem értve különösen a tevékenységében személyesen közreműködő tagját, valamint az egyszerűsített foglalkoztatásról szóló törvény alapján alkalmi munka keretében foglalkoztatott személyt) után, a foglalkoztatás időszakának minden megkezdett hónapjára szakképzési hozzájárulás fizetésére köteles.
+16/A. § (1) Az adóalany az általa munkaviszony keretében foglalkoztatott minden magánszemély (ide nem értve különösen a tevékenységében személyesen közreműködő tagját, valamint az alkalmi munkavállalói könyvvel foglalkoztatott személyt) után, a foglalkoztatás időszakának minden megkezdett hónapjára szakképzési hozzájárulás fizetésére köteles.
 
 (2) A szakképzési hozzájárulás mértéke magánszemélyenként havonta a tárgyhónap első napján érvényes minimálbér kétszeresének 1,5 százaléka.
 
@@ -352,39 +346,39 @@ mutatott ki.
 
 (12) Az adóalanyként lezárt adóévet figyelembe kell venni az olyan bevételt csökkentő kedvezmény, valamint adókedvezmény tekintetében, amelyet az adózó a személyi jövedelemadóról szóló törvény rendelkezései szerint meghatározott számú adóévben vehet igénybe.
 
-18. § (1) A közkereseti társaság, a betéti társaság és a egyéni cég az üzleti évre vonatkozó beszámoló alapján, a beszámoló letétbe helyezésére előírt határidőig megállapítja a (2) bekezdés szerinti összeget, ha az üzleti évben először tesz e törvény szerinti bejelentést, és ezzel egyidejűleg nyilatkozik arról, hogy az üzleti évet követő adóévben az evával összefüggő nyilvántartási kötelezettségeit nem a számvitelről szóló törvény rendelkezései szerint teljesíti.
+18. § (1) A közkereseti társaság, a betéti társaság és a korlátlan mögöttes felelősséggel működő egyéni cég az üzleti évre vonatkozó beszámoló alapján, a beszámoló letétbe helyezésére előírt határidőig megállapítja a (2) bekezdés szerinti összeget, ha az üzleti évben először tesz e törvény szerinti bejelentést, és ezzel egyidejűleg nyilatkozik arról, hogy az üzleti évet követő adóévben az evával összefüggő nyilvántartási kötelezettségeit nem a számvitelről szóló törvény rendelkezései szerint teljesíti.
 
 (2) Az (1) bekezdés szerinti összeg a beszámoló
 
-- a) mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, adózott eredmény és – a jóváhagyott osztalék, részesedés alapján a taggal szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja a mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök (ide nem értve az immateriális javak és a tárgyi eszközök értékhelyesbítését) együttes könyv szerinti értékét;
-- b) egyszerűsített mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, adózott eredmény, tartalék és – a jóváhagyott osztalék, részesedés alapján tagjával szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja az egyszerűsített mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök együttes könyv szerinti értékét; csökkentve a mérlegben kimutatott osztalékelőleg követelés könyv szerinti értékével, feltéve, hogy az előleget a beszámoló elfogadásakor osztalékként jóváhagyták.
+- a) mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, mérleg szerinti eredmény és – a jóváhagyott osztalék, részesedés alapján a taggal szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja a mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök (ide nem értve az immateriális javak és a tárgyi eszközök értékhelyesbítését) együttes könyv szerinti értékét;
+- b) egyszerűsített mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, mérleg szerinti eredmény, tartalék és – a jóváhagyott osztalék, részesedés alapján tagjával szemben fennálló – kötelezettség együttes összegéből az a rész, amely meghaladja az egyszerűsített mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök együttes könyv szerinti értékét.
 
-(3) A (2) bekezdés szerinti összeg után a közkereseti társaság, a betéti társaság és a egyéni cég adót (a továbbiakban: az osztalék utáni adót kiváltó adó) fizet. Az osztalék utáni adót kiváltó adó a (2) bekezdés szerinti összeg 15 százaléka, amelyet az adózó az üzleti évre vonatkozó társaságiadó-bevallásában vagy kisvállalatiadó-bevallásában elkülönítetten vall be. A bevallott összeget három egyenlő részletben, az üzleti évre és az üzleti évet követő két adóévre – de legkésőbb az e törvény szerinti adóalanyiságának utolsó adóévére – vonatkozó társaságiadó-bevallás, kisvállalatiadó-bevallás illetve eva-bevallás benyújtásával egyidejűleg fizet meg.
+(3) A (2) bekezdés szerinti összeg után a közkereseti társaság, a betéti társaság és a korlátlan mögöttes felelősséggel működő egyéni cég adót (az osztalék utáni adót kiváltó adó) fizet. Az osztalék utáni adót kiváltó adó a (2) bekezdés szerinti összeg 25 százaléka, amelyet az adózó az üzleti évre vonatkozó társaságiadó-bevallásában elkülönítetten bevall, és három egyenlő részletben, az üzleti évre és az üzleti évet követő két adóévre – de legkésőbb az e törvény szerinti adóalanyiságának utolsó adóévére – vonatkozó társaságiadó-bevallás, illetve evabevallás benyújtásával egyidejűleg megfizet.
 
-(4) A jogi személy és az egyéni cég adóalanyt, továbbá magánszemély tagját, volt tagját (örökösét) az adóévben nem terheli – a jogi személy és az egyéni cég adóalany által juttatott bevétel alapján – az osztalék utáni személyi jövedelemadóval és a vállalkozásból kivont jövedelem utáni személyi jövedelemadóval összefüggésben adókötelezettség.
+(4) A jogi személy, a jogi személyiség nélküli gazdasági társaság és az egyéni cég adóalanyt, továbbá magánszemély tagját, volt tagját (örökösét) az adóévben nem terheli – a jogi személy, a jogi személyiség nélküli gazdasági társaság és az egyéni cég adóalany által juttatott bevétel alapján – az osztalék utáni személyi jövedelemadóval és a vállalkozásból kivont jövedelem utáni személyi jövedelemadóval összefüggésben adókötelezettség.
 
-(5) A jogi személy és az egyéni cég adóalany által a tagja, volt tagja (örököse) részére tagi jogviszonyára tekintettel juttatott bevételt a tag, a volt tag (örököse) jövedelmének meghatározásakor nem kell figyelembe venni. E rendelkezés nem vonatkozik a tag személyes közreműködésének és a tag által teljesített mellékszolgáltatásnak a díjára, amelyet a személyi jövedelemadóról szóló törvény alkalmazásában nem önálló tevékenységből származó jövedelemnek kell tekinteni.
+(5) A jogi személy, a jogi személyiség nélküli gazdasági társaság és az egyéni cég adóalany által a tagja, volt tagja (örököse) részére tagi jogviszonyára tekintettel juttatott bevételt a tag, a volt tag (örököse) jövedelmének meghatározásakor nem kell figyelembe venni. E rendelkezés nem vonatkozik a tag személyes közreműködésének és a tag által teljesített mellékszolgáltatásnak a díjára, amelyet a személyi jövedelemadóról szóló törvény alkalmazásában nem önálló tevékenységből származó jövedelemnek kell tekinteni.
 
-(6) A betéti társaság, közkereseti társaság és a egyéni cég, ha olyan immateriális jószágot vagy tárgyi eszközt ad ingyenesen vagy kedvezményesen magánszemély részére, amely eszköz könyv szerinti értéke alapján az osztalék utáni adót kiváltó adó alapját csökkentette, akkor az ezen juttatás könyv szerinti értékének megfelelő jövedelemre – a személyi jövedelemadóról szóló törvénynek és az adózás rendjéről szóló törvénynek egyes, a kifizetőt terhelő adó mellett adható juttatásokra vonatkozó rendelkezései szerint – a személyi jövedelemadót megállapítja, megfizeti és bevallja.
+(6) A jogi személyiség nélküli gazdasági társaság és a korlátlan mögöttes felelősséggel működő egyéni cég, ha olyan immateriális jószágot vagy tárgyi eszközt ad ingyenesen vagy kedvezményesen magánszemély részére, amely eszköz könyv szerinti értéke alapján az osztalék utáni adót kiváltó adó alapját csökkentette, akkor az ezen juttatás könyv szerinti értékének megfelelő jövedelemre – a személyi jövedelemadóról szóló törvénynek és az adózás rendjéről szóló törvénynek a természetbeni juttatásokra vonatkozó rendelkezései szerint – a személyi jövedelemadót 44 százalékos mértékkel megállapítja, megfizeti és bevallja.
 
-(7) A számvitelről szóló törvény hatálya alá tartozó jogi személy és egyéni cég adóalany – a (4)–(6) bekezdésben foglaltaktól eltérően, a juttatás jogcímének megfelelően – a személyi jövedelemadóról szóló törvénynek és az adózás rendjéről szóló törvénynek az osztalékból (osztalékelőlegből) származó jövedelemre vagy a vállalkozásból kivont jövedelemre vonatkozó rendelkezéseit alkalmazza, ha adóalanyisága időszaka alatt az adóalanyisága első üzleti évének nyitó adatai között kimutatott saját tőke terhére juttat bevételt tagja, volt tagja (örököse) részére. E rendelkezés alkalmazásában a saját tőke terhére juttatott bevétellel esik egy tekintet alá az adóalany által a jóváhagyott osztalék, részesedés, a jegyzett tőke leszállítása vagy a tagi jogviszony megszűnésére tekintettel tagjával, volt tagjával (örökösével) szemben az adóalanyisága első üzleti évének nyitó adatai között kimutatott kötelezettség is.
+(7) A számvitelről szóló törvény hatálya alá tartozó jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni cég adóalany – a (4)–(6) bekezdésben foglaltaktól eltérően, a juttatás jogcímének megfelelően – a személyi jövedelemadóról szóló törvénynek és az adózás rendjéről szóló törvénynek az osztalékból (osztalékelőlegből) származó jövedelemre vagy a vállalkozásból kivont jövedelemre vonatkozó rendelkezéseit alkalmazza, ha adóalanyisága időszaka alatt az adóalanyisága első üzleti évének nyitó adatai között kimutatott saját tőke terhére juttat bevételt tagja, volt tagja (örököse) részére. E rendelkezés alkalmazásában a saját tőke terhére juttatott bevétellel esik egy tekintet alá az adóalany által a jóváhagyott osztalék, részesedés, a jegyzett tőke leszállítása vagy a tagi jogviszony megszűnésére tekintettel tagjával, volt tagjával (örökösével) szemben az adóalanyisága első üzleti évének nyitó adatai között kimutatott kötelezettség is.
 
-(8) A (7) bekezdésben említett forrásokat és a források változását az adózó elkülönítetten tartja nyilván. E nyilvántartásban az adóalany az adóalanyiság időszaka alatt az adózott eredményt, ha az veszteség, az adóalanyiság időszaka alatt keletkezett eredménytartalék terhére, ha az erre már nem nyújt fedezetet, akkor a korábban keletkezett eredménytartalék terhére számolja el. Ha az adóalany tagja, volt tagja (örököse) részére tagi jogviszonyára tekintettel juttat bevételt (ide nem értve a tag személyes közreműködésének és a tag által teljesített mellékszolgáltatásnak a díját), akkor az adózó választhat, hogy azt az adóalanyiság időszaka alatt keletkezett eredménytartalék terhére, vagy a korábban keletkezett eredménytartalék terhére számolja el.
+(8) A (7) bekezdésben említett forrásokat és a források változását az adózó elkülönítetten tartja nyilván. E nyilvántartásban az adóalany az adóalanyiság időszaka alatt keletkezett mérleg szerinti veszteséget az adóalanyiság időszaka alatt keletkezett eredménytartalék terhére, ha az erre már nem nyújt fedezetet, akkor a korábban keletkezett eredménytartalék terhére számolja el. Ha az adóalany tagja, volt tagja (örököse) részére tagi jogviszonyára tekintettel juttat bevételt (ide nem értve a tag személyes közreműködésének és a tag által teljesített mellékszolgáltatásnak a díját) a külön nyilvántartott források megszűnéséig azt kell feltételezni, hogy az adóalany azt e források terhére juttatta. Az adóalanyiság időszaka előtt keletkezett eredménytartalékot csak akkor kell figyelembe venni, ha annak a tárgyévi adózott eredmény kiegészítéseként osztalékra, részesedésre történő igénybevételéről az adóalany döntött.
 
-(9) A számvitelről szóló törvény hatálya alól kikerülő betéti társaság, közkereseti társaság és egyéni cég adóalany utolsó üzleti éve beszámolójának mérlegében kimutatott, tagi jogviszony megszűnésére tekintettel fennálló kötelezettség alapján a volt tagnak (örökösének) juttatott bevételre – az (5) bekezdésben foglaltaktól eltérően – a személyi jövedelemadóról szóló törvénynek és az adózás rendjéről szóló törvénynek a vállalkozásból kivont jövedelemre vonatkozó rendelkezéseit kell alkalmazni.
+(9) A számvitelről szóló törvény hatálya alól kikerülő jogi személyiség nélküli gazdasági társaság és korlátlan mögöttes felelősséggel működő egyéni cég adóalany utolsó üzleti éve beszámolójának mérlegében kimutatott, tagi jogviszony megszűnésére tekintettel fennálló kötelezettség alapján a volt tagnak (örökösének) juttatott bevételre – az (5) bekezdésben foglaltaktól eltérően – a személyi jövedelemadóról szóló törvénynek és az adózás rendjéről szóló törvénynek a vállalkozásból kivont jövedelemre vonatkozó rendelkezéseit kell alkalmazni.
 
-(10) Ha a jogi személy és az egyéni cég adóalanyisága az adóévet követő üzleti évtől nem áll fenn, az adóév utolsó napján vele tagi jogviszonyban álló magánszemélynél az osztalékból származó jövedelem, a vállalkozásból kivont jövedelem, valamint az árfolyamnyereségből származó jövedelem meghatározásakor a (11) bekezdés szerint meghatározott összegből a magánszemélyre részesedése alapján arányosan jutó részt a magánszemély adózott vagyonából a vállalkozásba befektetett összegnek kell tekinteni.
+(10) Ha a jogi személy, a jogi személyiség nélküli gazdasági társaság és az egyéni cég adóalanyisága az adóévet követő üzleti évtől nem áll fenn, az adóév utolsó napján vele tagi jogviszonyban álló magánszemélynél az osztalékból származó jövedelem, a vállalkozásból kivont jövedelem, valamint az árfolyamnyereségből származó jövedelem meghatározásakor a (11) bekezdés szerint meghatározott összegből a magánszemélyre részesedése alapján arányosan jutó részt a magánszemély adózott vagyonából a vállalkozásba befektetett összegnek kell tekinteni.
 
 (11) A (10) bekezdés alkalmazásakor a magánszemély adózott vagyonából a vállalkozásba befektetett összegnek kell tekinteni:
 
 - a) az adóalanyiság időszaka alatt keletkezett eredménytartalékot és mérleg szerinti eredményt, ha az adóalanyiság időszaka alatt az evával összefüggő nyilvántartási kötelezettségeit a számvitelről szóló törvény előírásai szerint teljesítette;
-- b) az adóalanyiság utolsó adóévét követő üzleti év nyitó mérlegében kimutatott saját tőkét – levonva belőle a nyitó mérlegben kimutatott értékelési tartalékot és a (2) bekezdés szerint az osztalék utáni adót kiváltó adó alapját csökkentő tételként elszámolt értékének egyes, a kifizetőt terhelő adó mellett adható juttatásként ingyenesen vagy kedvezményesen magánszemély részére átadott immateriális jószág és tárgyi eszköz (6) bekezdés szerinti adóalapot képező könyv szerinti értékét meghaladó részét –, ha az adóalanyiság időszaka alatt az evával összefüggő nyilvántartási kötelezettségeit nem a számvitelről szóló törvény előírásai szerint teljesítette.
+- b) az adóalanyiság utolsó adóévét követő üzleti év nyitó mérlegében kimutatott saját tőkét – levonva belőle a nyitó mérlegben kimutatott értékelési tartalékot és a (2) bekezdés szerint az osztalék utáni adót kiváltó adó alapját csökkentő tételként elszámolt értékének a természetbeni juttatásként ingyenesen vagy kedvezményesen magánszemély részére átadott immateriális jószág és tárgyi eszköz (6) bekezdés szerinti adóalapot képező könyv szerinti értékét meghaladó részét –, ha az adóalanyiság időszaka alatt az evával összefüggő nyilvántartási kötelezettségeit nem a számvitelről szóló törvény előírásai szerint teljesítette.
 
 ### Társasági adó
 
-19. § (1) A jogi személy és az egyéni cég a társasági adóról és az osztalékadóról szóló törvénynek a jogutód nélküli megszűnésre irányadó rendelkezéseit alkalmazza, ha az adóévben bejelenti, hogy a következő adóévben adókötelezettségeit e törvény rendelkezései szerint teljesíti. Az adózó azonban – választása szerint – nem alkalmazza a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao.) 8. § (1) bekezdése u) és v) pontjaiban, a 7. § (15) bekezdésében, a 16. §-a (1) bekezdésének b) pontjában, c) pontjának cf), ch) alpontjában, a (16) bekezdés a)–d) pontjában és – a 2010. június 30-án hatályos – 19. § (5) bekezdésében foglaltakat, ha adóalanyisága időszaka alatt a Tao. rendelkezéseinek megfelelő alkalmazásával nem terhelné az adózás előtti eredmény növelésének, illetve az adó megfizetésének kötelezettsége. Az az adózó, aki e bekezdés szerinti lehetőséggel élt, de a feltételeknek nem felel meg, a társasági adót az adókötelezettség keletkezését kiváltó eseményt követő első eva bevallásában vallja be.
+19. § (1) A jogi személy, a jogi személyiség nélküli gazdasági társaság és az egyéni cég a társasági adóról és az osztalékadóról szóló törvénynek a jogutód nélküli megszűnésre irányadó rendelkezéseit alkalmazza, ha az adóévben bejelenti, hogy a következő adóévben adókötelezettségeit e törvény rendelkezései szerint teljesíti. Az adózó azonban – választása szerint – nem alkalmazza a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao.) 8. § (1) bekezdése u) és v) pontjaiban, a 7. § (15) bekezdésében, a 16. §-a (1) bekezdésének b) pontjában, c) pontjának cf), ch) alpontjában, a (16) bekezdés a)–d) pontjában és a 19. § (5) bekezdésében foglaltakat, ha adóalanyisága időszaka alatt a Tao. rendelkezéseinek megfelelő alkalmazásával nem terhelné az adózás előtti eredmény növelésének, illetve az adó megfizetésének kötelezettsége. Az az adózó, aki e bekezdés szerinti lehetőséggel élt, de a feltételeknek nem felel meg, a társasági adót az adókötelezettség keletkezését kiváltó eseményt követő első eva bevallásában vallja be.
 
-(2) A jogi személy és az egyéni cég a bejelentés adóévére vonatkozó társaságiadóbevallásában adóelőleget nem vall be és a bejelentést követő adóévre társaságiadó-előleget nem fizet, ha azonban az adóévre vonatkozó bejelentését jogszerűen nem tehette volna meg, nem mentesül az adóelőleg-fizetés elmulasztásának jogkövetkezményei alól.
+(2) A jogi személy, a jogi személyiség nélküli gazdasági társaság és az egyéni cég a bejelentés adóévére vonatkozó társaságiadóbevallásában adóelőleget nem vall be és a bejelentést követő adóévre társaságiadó-előleget nem fizet, ha azonban az adóévre vonatkozó bejelentését jogszerűen nem tehette volna meg, nem mentesül az adóelőleg-fizetés elmulasztásának jogkövetkezményei alól.
 
 (3) Az adóalany a Tao. 16. §-a (16) bekezdése e) pontját és 22/A. §-ának (5) bekezdését alkalmazza, ha az e törvény szerinti adóalanyiság bejelentésének adóévében vagy azt megelőzően igénybe vette a kis- és középvállalkozások adókedvezményét.
 
@@ -400,13 +394,13 @@ mutatott ki.
 
 (7) Az adóalanyként lezárt adóévet figyelembe kell venni az olyan adókedvezmény tekintetében, amelyet az adózó a társasági adóról és az osztalékadóról szóló törvény rendelkezései szerint meghatározott számú adóévben vehet igénybe.
 
-(8)
+(8) A jogi személy, a jogi személyiség nélküli gazdasági társaság és az egyéni cég az e törvény szerinti adóalanyisága megszűnését követő adóévre vonatkozó bevallása alapján fizet először társaságiadó-előleget.
 
 (9) Az e törvény szerinti adóalanyiság megszűnésének adóévét követő első adóévben a társaságiadó-alap megállapításakor az adózás előtti eredményt
 
-- a) növeli az adóalanyiság időszaka alatt a számvitelről szóló törvény hatálya alá nem tartozó betéti társaság, közkereseti társaság és egyéni cég nyitó mérlegében, más adóalanynál az adóalanyiság megszűnésének adóévéről készített beszámoló mérlegében kimutatott vásárolt készlet értékéből a kiegyenlített, nem beruházási célra beszerzett készlet értéke, valamint a saját termelésű készlet értéke;
-- b) növeli az adóalanyiság időszaka alatt a számvitelről szóló törvény hatálya alá nem tartozó betéti társaság, közkereseti társaság és egyéni cég nyitó mérlegében, más adóalanynál az adóalanyiság megszűnésének adóévéről készített beszámoló mérlegében kimutatott, a várható kötelezettségekre és a jövőbeni költségekre képzett céltartaléknak az adóalanyiság keletkezését megelőző adóév (üzleti év) beszámolójában kimutatott értéket meghaladó része;
-- c) csökkenti az adóalanyiság időszaka alatt a számvitelről szóló törvény hatálya alá nem tartozó betéti társaság, közkereseti társaság és egyéni cég esetében az az adóévi árbevétel, bevétel, amelyet az e törvény szerinti adóalanyiság időszakában megszerzett bevételként számolt el;
+- a) növeli az adóalanyiság időszaka alatt a számvitelről szóló törvény hatálya alá nem tartozó jogi személyiség nélküli gazdasági társaság és korlátlan mögöttes felelősséggel működő egyéni cég nyitó mérlegében, más adóalanynál az adóalanyiság megszűnésének adóévéről készített beszámoló mérlegében kimutatott vásárolt készlet értékéből a kiegyenlített, nem beruházási célra beszerzett készlet értéke, valamint a saját termelésű készlet értéke;
+- b) növeli az adóalanyiság időszaka alatt a számvitelről szóló törvény hatálya alá nem tartozó jogi személyiség nélküli gazdasági társaság és korlátlan mögöttes felelősséggel működő egyéni cég nyitó mérlegében, más adóalanynál az adóalanyiság megszűnésének adóévéről készített beszámoló mérlegében kimutatott, a várható kötelezettségekre és a jövőbeni költségekre képzett céltartaléknak az adóalanyiság keletkezését megelőző adóév (üzleti év) beszámolójában kimutatott értéket meghaladó része;
+- c) csökkenti az adóalanyiság időszaka alatt a számvitelről szóló törvény hatálya alá nem tartozó jogi személyiség nélküli gazdasági társaság és korlátlan mögöttes felelősséggel működő egyéni cég esetében az az adóévi árbevétel, bevétel, amelyet az e törvény szerinti adóalanyiság időszakában megszerzett bevételként számolt el;
 - d) csökkenti az adóalanyiság időszaka alatt a számvitelről szóló törvény hatálya alá tartozó adóalany esetében az az adóévi árbevétel, bevétel, amelyet az e törvény szerinti adóalanyiság időszakában az eva alapjának megállapításakor a kapott előlegre tekintettel bevételként oly módon számolt el, hogy azzal összefüggésben nem alkalmazta a törvény 5. § (4) bekezdés b) pontját.
 
 ### Számviteli kötelezettségek
@@ -415,9 +409,9 @@ mutatott ki.
 
 (2) A számvitelről szóló törvény hatálya alá tartozó adóalany az üzleti év beszámolójának eredménykimutatásában – a társasági adó helyett – a fizetendő eva összegét szerepelteti adófizetési kötelezettségként.
 
-(3) A számvitelről szóló törvény hatálya alá tartozó adóalany az adóalanyiság megszűnésének napjával, mint mérlegfordulónappal köteles – a számvitelről szóló törvény szerinti – beszámolót a mérlegfordulónapot követő ötödik hónap utolsó napjáig elkészíteni, valamint – ha egyébként a számvitelről szóló törvény szerint erre kötelezett – letétbe helyezni. Ez esetben a naptári év első napjától az adóalanyiság megszűnésének napjáig terjedő időszak a számvitelről szóló törvény alkalmazásában egy üzleti évnek minősül.
+(3) A számvitelről szóló törvény hatálya alá tartozó adóalany az adóalanyiság megszűnésének napjával, mint mérlegfordulónappal köteles – a számvitelről szóló törvény szerinti – beszámolót a mérlegfordulónapot követő 150. napon belül elkészíteni, valamint – ha egyébként a számvitelről szóló törvény szerint erre kötelezett – letétbe helyezni. Ez esetben a naptári év első napjától az adóalanyiság megszűnésének napjáig terjedő időszak a számvitelről szóló törvény alkalmazásában egy üzleti évnek minősül.
 
-(4) A számvitelről szóló törvény hatálya alá nem tartozó betéti társaság, közkereseti társaság és egyéni cég felszámolása, végelszámolása esetén a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló törvény szerinti, a felszámolás, a végelszámolás kezdő időpontját megelőző nappal készítendő záróleltárt és zárómérleget a számvitelről szóló 2000. évi C. törvény 2/A. §-ának (4) bekezdése előírásának figyelembevételével készíti el azzal, hogy azt könyvvizsgálóval nem kell ellenőriztetni.
+(4) A számvitelről szóló törvény hatálya alá nem tartozó jogi személyiség nélküli gazdasági társaság és korlátlan mögöttes felelősséggel működő egyéni cég felszámolása, végelszámolása esetén a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló törvény szerinti, a felszámolás, a végelszámolás kezdő időpontját megelőző nappal készítendő záróleltárt és zárómérleget a számvitelről szóló 2000. évi C. törvény 2/A. §-ának (4) bekezdése előírásának figyelembevételével készíti el azzal, hogy azt könyvvizsgálóval nem kell ellenőriztetni.
 
 ### V. Fejezet — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
@@ -431,7 +425,7 @@ mutatott ki.
   - c) az önálló bírósági végrehajtó,
   - d) az egyéni szabadalmi ügyvivő,
   - e) az ügyvéd (kivéve, amennyiben az ügyvédi tevékenységet ügyvédi iroda tagjaként vagy alkalmazott ügyvédként folytatja),
-  - f) a szolgáltató állatorvosi tevékenység gyakorlására jogosító igazolvánnyal rendelkező magánszemély,
+  - f) a magán-állatorvosi tevékenység gyakorlására jogosító igazolvánnyal rendelkező magánszemély,
   - g)
   - h)
 - 2. kapott előleg: az adóalany által a termékértékesítés vagy a szolgáltatásnyújtás teljesítését megelőzően megszerzett, az ellenértékbe beszámítható, általános forgalmi adót is tartalmazó pénzösszeg;
@@ -443,16 +437,16 @@ mutatott ki.
 
 ### Vegyes rendelkezések
 
-22. § (1) A számvitelről szóló törvény hatálya alá nem tartozó betéti társaság, közkereseti társaság és egyéni cég adóalanyra, a gazdasági társaságokra vonatkozóan más jogszabályban meghatározott, a számvitelről szóló törvény szerinti beszámolóval, mérleggel, vagyonnal, saját tőkével, eredménnyel, valamint az osztalékkal kapcsolatos előírások nem vonatkoznak.
+22. § (1) A számvitelről szóló törvény hatálya alá nem tartozó jogi személyiség nélküli gazdasági társaság és korlátlan mögöttes felelősséggel működő egyéni cég adóalanyra, a gazdasági társaságokra vonatkozóan más jogszabályban meghatározott, a számvitelről szóló törvény szerinti beszámolóval, mérleggel, vagyonnal, saját tőkével, eredménnyel, valamint az osztalékkal kapcsolatos előírások nem vonatkoznak.
 
 (2) Az adóalany nem határozhatja el átalakulását, egyesülését és szétválását, valamint jegyzett tőkéjének a jegyzett tőkén felüli saját tőke terhére történő felemelését.
 
 (3) Az adóhatóság az adózó részére kiállított, az adóalanyiság adóévére vonatkozó jövedelemigazoláson feltünteti azt a tényt, hogy az adózó az eva alanya volt, továbbá az adóalany által az adóévben megszerzett összes bevételt és az adóévre megállapított adót (evát). A magánszemély adóalany által megszerzett olyan bevétel (jövedelem) tekintetében, amely nem képezi az eva alapját, az adóhatóság az erre egyébként irányadó szabályok szerint állítja ki a jövedelemigazolást.
 
-(4) Ha az adózó az adómegállapítási időszakot tartalmazó adóévre vonatkozó e törvény szerinti bejelentését [10. § (1) és (4) bekezdés] jogszerűen nem tehette volna meg, illetve jogszerűtlenül nem tette meg, akkor az állami adóhatóság az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény előírásai szerinti becsléssel állapítja meg az adónemenkénti adókötelezettséget
+(4) Ha az adózó az adómegállapítási időszakot tartalmazó adóévre vonatkozó e törvény szerinti bejelentését [10. § (1) és (4) bekezdés] jogszerűen nem tehette volna meg, illetve jogszerűtlenül nem tette meg, akkor az állami adóhatóság az adózás rendjéről szóló törvény előírásai szerinti becsléssel állapítja meg az adónemenkénti adókötelezettséget
 
 - a) a bejelentés jogszerűtlenségére, illetve mulasztására vonatkozó nyilatkozat megtételének napjáig, vagy
-- b) a bejelentés jogszerűtlenségét, illetve mulasztását megállapító határozata véglegessé válásának napjáig, ha az a) pont szerinti nyilatkozattétel nem történt meg. Ha a jogi személy és az egyéni cég az adómegállapítási időszakot tartalmazó adóévre vonatkozó bejelentését [10. § (1) bekezdés] jogszerűen nem tehette volna meg, akkor az a)–b) pontban foglalt határidőt követő 30 napon belül köteles a bejelentés adóévére vonatkozóan a társasági adóról és az osztalékadóról – a társasági adóról és az osztalékadóról szóló törvény előírásainak megfelelő – adóbevallást benyújtani.
+- b) a bejelentés jogszerűtlenségét, illetve mulasztását megállapító határozata jogerőre emelkedésének napjáig, ha az a) pont szerinti nyilatkozattétel nem történt meg. Ha a jogi személy, a jogi személyiség nélküli gazdasági társaság és az egyéni cég az adómegállapítási időszakot tartalmazó adóévre vonatkozó bejelentését [10. § (1) bekezdés] jogszerűen nem tehette volna meg, akkor az a)–b) pontban foglalt határidőt követő 30 napon belül köteles a bejelentés adóévére vonatkozóan a társasági adóról és az osztalékadóról – a társasági adóról és az osztalékadóról szóló törvény előírásainak megfelelő – adóbevallást benyújtani.
 
 (5) Az adóhatóság a becslés során
 
@@ -463,11 +457,11 @@ mutatott ki.
 
 (7) A 2. § (3) bekezdése a) pontjában foglalt feltétel teljesülése szempontjából egyéni vállalkozónak kell tekinteni azt a magánszemélyt is, aki az adott tevékenységével összefüggő adókötelezettségének 2001-ben vagy 2002-ben a személyi jövedelemadóról szóló törvénynek az egyéni vállalkozókra vonatkozó rendelkezései szerint tett eleget.
 
-(8) Az egyszerűsített vállalkozói adó szabályai szerint adózó biztosított egyéni vállalkozó a Tbj. 29/A. §-ának (1)–(3) bekezdésében meghatározott járulékalap után fizetendő járulékot havonta a tárgyhónapot követő hónap 12. napjáig fizeti meg és a havi adó- és járulék bevallásra vonatkozóan az adózás rendjéről szóló törvényben meghatározott adattartalommal a tárgyhónapot követő hónap 12-éig vallja be. A Tbj. 31. §-ának (4) bekezdésében említett egyéni vállalkozó az evaalap 4 százaléka után fizetendő járulékot negyedévente, a negyedévet követő hónap 12. napjáig fizeti meg és a havi adó- és járulék bevallásra vonatkozóan az adózás rendjéről szóló törvényben meghatározott adattartalommal a tárgynegyedév utolsó hónapjának kötelezettségeként vallja be. A kiegészítő tevékenységet folytató egyéni vállalkozó a Tbj. 19. § (4) bekezdése szerinti egészségügyi szolgáltatási járulékot és az evaalap 10 százaléka után megállapított nyugdíjjárulékot évente, az adóévet követő hónap 12. napjáig fizeti meg és az éves eva-bevallásában vallja be.
+(8) Az egyszerűsített vállalkozói adó szabályai szerint adózó biztosított egyéni vállalkozó a Tbj. 29/A. §-ának (1)–(3) bekezdésében meghatározott járulékalap után fizetendő járulékot havonta a tárgyhónapot követő hónap 12. napjáig fizeti meg és az adózás rendjéről szóló törvény 31. §-ának (2) bekezdésében meghatározott adattartalommal a tárgyhónapot követő hónap 12-éig vallja be. A Tbj. 31. §-ának (4) bekezdésében említett egyéni vállalkozó az evaalap 4 százaléka után fizetendő járulékot negyedévente, a negyedévet követő hónap 12. napjáig fizeti meg és az adózás rendjéről szóló törvény 31. §-ának (2) bekezdésében meghatározott adattartalommal a tárgynegyedév utolsó hónapjának kötelezettségeként vallja be. A kiegészítő tevékenységet folytató egyéni vállalkozó a Tbj. 19. § (4) bekezdése szerinti egészségügyi szolgáltatási járulékot és az evaalap 10 százaléka után megállapított nyugdíjjárulékot évente, az adóévet követő hónap 12. napjáig fizeti meg és az éves eva-bevallásában vallja be.
 
 (9) Az adóalanyiságnak a 2004. évre történő választásakor a feltételeknek való megfelelést – a (10) bekezdésben meghatározott kivétellel – a 2. § (3)–(7) bekezdésének 2004. január 1-jén hatályos rendelkezései szerint kell meghatározni.
 
-(10) Ha a jogi személy a 2003. évre történő bejelentéskor az új tag (új tagok) szavazati jogot biztosító részesedése tekintetében megfelelt a 2. § (3) bekezdés a) pontja 2003. január 1-jén hatályos rendelkezésében meghatározott feltételnek, a 2005. évre – az egyéb feltételeknek való megfelelés esetén – akkor is jogosult az adóalanyra vonatkozó rendelkezések alkalmazását választani, ha e tekintetben nem felel meg az említett pont 2005. január 1-jén hatályos rendelkezésében foglalt feltételnek.
+(10) Ha a jogi személy, a jogi személyiség nélküli gazdasági társaság a 2003. évre történő bejelentéskor az új tag (új tagok) szavazati jogot biztosító részesedése tekintetében megfelelt a 2. § (3) bekezdés a) pontja 2003. január 1-jén hatályos rendelkezésében meghatározott feltételnek, a 2005. évre – az egyéb feltételeknek való megfelelés esetén – akkor is jogosult az adóalanyra vonatkozó rendelkezések alkalmazását választani, ha e tekintetben nem felel meg az említett pont 2005. január 1-jén hatályos rendelkezésében foglalt feltételnek.
 
 (11) Ha a 2003. évben az Eva tv. hatálya alá tartozó adózó a 2004. adóévre az Eva tv. 2. § (5) bekezdésének e) pontjában foglalt feltétel miatt veszítette el adóalanyiságát, az Eva tv. 3. § (3) bekezdésében foglaltaktól eltérően, az erre a célra rendszeresített nyomtatványon bejelentheti az állami adóhatóságnak, hogy a 2005. adóévben adókötelezettségeit az adóalanyra vonatkozó rendelkezések szerint teljesíti, ha a bejelentkezés időpontjában megfelel az e törvényben meghatározott valamennyi feltételnek.
 
@@ -481,25 +475,7 @@ mutatott ki.
 
 (3) A 16. § (1) bekezdésének c) pontja szerinti kötelezettséget a 2002. szeptember 30-át követően beszerzett tárgyi eszköz esetében kell első ízben alkalmazni.
 
-(4) E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel beiktatott, 2011. január 1-jétől hatályos rendelkezéseit első ízben a 2011. adóévi adókötelezettségre kell alkalmazni.
-
-(5) A jogszabályi kötelezettség alapján tárgyévben visszafizetett támogatás összege az egyszerűsített vállalkozói adó alapját csökkenti, ha az a támogatás folyósításakor az egyszerűsített vállalkozó adó alapját képezte.
-
-(6) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 18. § (2) bekezdését a 2017-ben kezdődő adóévben is alkalmazni kell.
-
-(7) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 18. § (8) bekezdését az adózó a 2018-ban kezdődő adóévben választása szerint alkalmazza.
-
-24. § Az e törvény szerinti adóalanyiság utoljára 2018. december 20-ig választható.
-
-25. §
-
-26. §
-
-27. §
-
-28. §
-
-29. §
+24–29. §
 
 ### Melléklet a 2002. évi XLIII. törvényhez
 

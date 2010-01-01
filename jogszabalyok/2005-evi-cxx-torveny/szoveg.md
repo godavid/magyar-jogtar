@@ -2,15 +2,15 @@
 
 az egyszerűsített közteherviselési hozzájárulásról
 
-Az Országgyűlés azon kötelezettségére tekintettel, hogy a közügyek szabad megvitatását, a közügyekkel összefüggő információhoz való hozzájutást, a művészeti alkotás szabadságának megvalósulását és a testkultúra, különösen a sport fejlődését előmozdítsa, figyelemmel arra, hogy mint törvényalkotó egyes alkotmányos és társadalompolitikai célkitűzéseinek érvényesítése érdekében a közterhek vonatkozásában kedvezményeket állapíthat meg, elismerve azon személyek tevékenységének sajátosságait, akik e célok elérésében közreműködnek, a következő törvényt alkotja:
+Az Országgyűlés azon kötelezettségére tekintettel, hogy a közügyek szabad megvitatását, a közügyekkel összefüggő információhoz való hozzájutást, továbbá a művészeti élet szabadságának megvalósulását előmozdítsa, figyelemmel arra, hogy mint törvényalkotó egyes alkotmányos és társadalompolitikai célkitűzéseinek érvényesítése érdekében a közterhek vonatkozásában kedvezményeket állapíthat meg, elismerve azon személyek tevékenységének sajátosságait, akik e célok elérésében közreműködnek, a következő törvényt alkotja:
 
 ### A törvény hatálya
 
-1. § (1) Magyarországon egyes, az e törvényben meghatározott foglalkozásnak megfelelő tevékenységet munkaviszonyban vagy vállalkozási, megbízási szerződés alapján folytató magánszemély és a magánszeméllyel e szerződéses kapcsolatban álló munkáltató, kifizető (a továbbiakban: kifizető) – a magánszemély erre vonatkozó nyilatkozatával tett választása alapján – az említett tevékenység ellenértékeként fizetett bevétel után a közteherviselési kötelezettségeit e törvény szerint egyszerűsített közteherviselési hozzájárulás (a továbbiakban: ekho) által teljesíti.
+1. § (1) A Magyar Köztársaságban egyes, az e törvényben meghatározott foglalkozásnak megfelelő tevékenységet munkaviszonyban vagy vállalkozási, megbízási szerződés alapján folytató magánszemély és a magánszeméllyel e szerződéses kapcsolatban álló munkáltató, kifizető (a továbbiakban: kifizető) – a magánszemély erre vonatkozó nyilatkozatával tett választása alapján – az említett tevékenység ellenértékeként fizetett bevétel után a közteherviselési kötelezettségeit e törvény szerint egyszerűsített közteherviselési hozzájárulás (a továbbiakban: ekho) által teljesíti.
 
 (2) Az ekho az e törvényben meghatározott megoszlásban a központi költségvetést és a társadalombiztosítás pénzügyi alapjait – magánnyugdíjpénztár-tag magánszemély esetében a magánszemély javára a magánnyugdíjpénztárát is – illeti meg.
 
-(3) A kifizető és a magánszemély az ekhóval összefüggő adókötelezettségeit e törvény, a személyi jövedelemadóról szóló törvény (a továbbiakban: Szja tv.) és az adózás rendjéről szóló törvény (a továbbiakban: Art.) rendelkezései szerint teljesíti.
+(3) A kifizető és a magánszemély az ekhóval összefüggő adókötelezettségeit e törvény, valamint az adózás rendjéről szóló törvény (a továbbiakban: Art.) rendelkezései szerint teljesíti.
 
 (4) Az ekhóval összefüggő adóztatási feladatok az állami adóhatóság hatáskörébe tartoznak.
 
@@ -19,28 +19,27 @@ Az Országgyűlés azon kötelezettségére tekintettel, hogy a közügyek szaba
 2. § E törvény alkalmazásában
 
 - a) munkaviszony: az Art. szerinti munkaviszony;
-- b) vállalkozási szerződés: a magánszemély által a Polgári Törvénykönyv szabályai szerint kötött vállalkozási szerződés;
+- b) vállalkozási szerződés: a magánszemély által a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) szabályai szerint kötött vállalkozási szerződés;
 - c) megbízási szerződés: a magánszemély által kötött, a Ptk. szerinti megbízási szerződés, ideértve a felhasználási szerződést is;
-- d) nyugdíjas: a sajátjogú nyugdíjas vagy az olyan özvegyi nyugdíjas, aki betöltötte a rá irányadó öregségi nyugdíjkorhatárt, a 3. § (1) bekezdésének b) alpontja, valamint a 3. § (4) bekezdésének c) alpontja alkalmazásában mindkét esetben csak akkor, ha az adóévben legalább 183 napig nyugdíjas;
-- e) FEOR-számmal azonosított foglalkozás: a Központi Statisztikai Hivatal elnökének 7/2010. (IV. 23.) számú közleményével kiadott Foglalkozások Egységes Osztályozási Rendszere (a továbbiakban: FEOR-08) alapján meghatározott foglalkozás, azzal, hogy e törvény alkalmazásában a FEOR-08 2011. december 31-én hatályos besorolási rendjét és osztályozási szempontjait kell irányadónak tekinteni.
+- d) nyugdíjas: a sajátjogú nyugdíjas vagy az olyan özvegyi nyugdíjas, aki betöltötte a rá irányadó öregségi nyugdíjkorhatárt, a 3. § (1) bekezdésének b) alpontja, valamint a 3. § (4) bekezdésének c) alpontja alkalmazásában mindkét esetben csak akkor, ha az adóévben legalább 183 napig nyugdíjas.
 
 ### Az ekho választásának feltételei
 
-3. § (1) Ekhoval teljesíthető a közterhek megfizetése, ha a magánszemély – ideértve az EGT-állam olyan polgárát is, aki a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek alapján nem tartozik a magyar társadalombiztosítási jogszabályok hatálya alá, de biztosított személy valamely EGT-államban és rendelkezik az illetékes hatóság erre vonatkozó igazolásával (a továbbiakban: EGT-államban biztosított személy) –
+3. § (1) Ekhoval teljesíthető a közterhek megfizetése, ha a magánszemély – ideértve az EGT-állam olyan polgárát is, aki a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK rendelet alapján nem tartozik a magyar társadalombiztosítási jogszabályok hatálya alá, de biztosított személy valamely EGT-államban és rendelkezik az illetékes hatóság erre vonatkozó igazolásával (a továbbiakban: EGT-államban biztosított személy) –
 
 - a) az adóévben bármely tevékenységgel összefüggésben
   - aa) munkaviszonyból származó,
   - ab) egyéni vállalkozóként vállalkozói kivét címén,
   - ac) társas vállalkozás tagjaként személyes közreműködés ellenértéke címén,
-  - ad) vállalkozási, megbízási szerződés alapján az Szja tv. szerint egyéni vállalkozónak nem minősülő magánszemélyként
+  - ad) vállalkozási, megbízási szerződés alapján a személyi jövedelemadóról szóló törvény (a továbbiakban: Szja tv.) szerint egyéni vállalkozónak nem minősülő magánszemélyként
 
 olyan jövedelmet szerez, amely után a közteherviselési kötelezettségek (EGT-államban biztosított személy esetében a személyi jövedelemadó fizetési kötelezettség) teljesítése az általános szabályok szerint történik, vagy
 
 - b) nyugdíjas és
-- c) a tevékenysége alapján a (3) és (3c) bekezdésben meghatározott foglalkozásúnak minősül, valamint
+- c) a tevékenysége alapján a (3) bekezdésben meghatározott foglalkozásúnak minősül, valamint
 - d) – figyelemmel a (2)–(5) bekezdés rendelkezéseire is – a kifizetőnek írásban nyilatkozik arról, hogy a c) pont szerinti tevékenysége alapján számára kifizetett bevételt, vagy annak a nyilatkozatában meghatározott részét terhelő közterhek megfizetésére az e törvény rendelkezéseinek alkalmazását választja.
 
-(2) A közterhek e törvény szerinti megfizetését a (3) és (3c) bekezdésben említett foglalkozású magánszemély azon bevételére választhatja, amely az adóévben Magyarország törvényes fizetőeszközében történő kifizetéssel (folyósítással)
+(2) A közterhek e törvény szerinti megfizetését a (3) bekezdésben említett foglalkozású magánszemély azon bevételére választhatja, amely az adóévben a Magyar Köztársaság törvényes fizetőeszközében történő kifizetéssel (folyósítással)
 
 - a) – a (7) bekezdés rendelkezéseiben foglalt korlátozással – munkaviszonyban, vagy társas vállalkozás személyesen közreműködő tagjaként illeti meg, feltéve, hogy e bevételt eredményező jogviszonyában kizárólag a foglalkozása szerinti tevékenységet folytat, és/vagy
 - b) a foglalkozása szerinti tevékenységére kötött
@@ -51,65 +50,104 @@ alapján illeti meg,
 
 és az a)–b) pontban említett esetekben külön-külön és együttesen sem haladja meg az adóévben a (4) bekezdésben meghatározott összeghatárt.
 
-(2a)
+(3) Az (1) bekezdés c), valamint a (2) bekezdés a) és b) pontjában említett, FEOR-számmal azonosított foglalkozás:
 
-(3) Az (1) bekezdés c), valamint a (2) bekezdés a) és b) pontjában említett, FEOR-számmal azonosított foglalkozás:2123 Telekommunikációs mérnök foglalkozásbólAkusztikus mérnökAudiotechnikai mérnökHangmérnökTelevíziós műszaki adásrendező2136 Grafikus és multimédia-tervező2627 Nyelvész, fordító, tolmács foglalkozásbólFilmszöveg fordítóLírai művek fordítójaMűfordítóPrózai és drámai művek fordítója2714 Kulturális szervező foglalkozásbólProducer (kulturális)Produkciós menedzser (szórakoztatóipar)2715 Könyv- és lapkiadó szerkesztője2716 Újságíró, rádióműsor-, televízióműsor-szerkesztő2719 Egyéb kulturális és sportfoglalkozású (felsőfokú képzettséghez kapcsolódó) foglalkozásbólMűvészeti tanácsadóZenei konzulens, tanácsadó2721 Író (újságíró nélkül)2722 Képzőművész2723 Iparművész, gyártmány- és ruhatervező2724 Zeneszerző, zenész, énekes2725 Rendező, operatőr2726 Színész, bábművész2727 Táncművész, koreográfus2728 Cirkuszi és hasonló előadóművész2729 Egyéb alkotó- és előadó-művészi foglalkozású (felsőfokú végzettséghez kapcsolódó)3122 Villamosipari technikus (elektronikai technikus) foglalkozásbólKoncert-fénytechnikusKoncert-színpadtechnikus3145 Műsorszóró és audiovizuális technikus foglalkozásbólFilmstúdió technikusHangmesterHangrestaurációs technikusHangstúdió-technikusHangtechnikusKéptechnikusRögzítéstechnikai technikusStúdiótechnikusVideótechnikusZenei technikus3711 Segédszínész, statiszta3712 Segédrendező3714 Díszletező, díszítő3715 Kiegészítő filmgyártási és színházi foglalkozású3719 Egyéb művészeti és kulturális foglalkozású5211 Fodrász foglalkozásbólSzínházi fodrászSzínházi parókakészítő5212 Kozmetikus foglalkozásbólMaszkmesterSminkesSminkmesterSzínházi kikészítő7212 Szabó, varró foglalkozásbólJelmez- és alkalmiruha-készítőSzínházi varró7213 Kalapos, kesztyűs foglalkozásbólSzínházi fejdíszkészítő7217 Cipész, cipőkészítő, -javító foglalkozásbólSzínházi cipész
+2615 Könyv- és lapkiadó szerkesztője
 
-(3a) Elnevezésétől függetlenül is az ekho választására jogosít az a tevékenység, amely a FEOR-08 osztályozási szempontjai szerint tartalma alapján megfelel a (3) bekezdés szerinti foglalkozásoknak, munkaköröknek.
+2616 Újságíró
 
-(3b) A (3) bekezdés szerinti foglalkozásúnak minősülő magánszemély – munkakörének elnevezésétől függetlenül – akkor választhatja az ekhot, ha tevékenysége alapján a mű elkészítésének folyamatában alkotó jelleggel vesz részt.
+2617 Rádióműsor-, televízióműsor-szerkesztő
 
-(3c) Az (1) bekezdés c), valamint a (2) bekezdés a) és b) pontjában említett foglalkozásúnak minősül:
+2619 Egyéb magasabb képzettséget igénylő kulturális foglalkozások
 
-a) a szakképzett edző, sportszervező, -irányító (FEOR-08 2717), feltéve, hogy rendelkezik a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott képesítéssel, szakképzettséggel;
+2621 Író (újságíró nélkül)
 
-b) a hivatásos sportoló, sportmunkatárs, valamint a sportról szóló 2004. évi I. törvény (a továbbiakban: sportról szóló törvény) 11/A. §-ában meghatározott sportszakember, feltéve, hogy a magánszemély sportszervezettel vagy a sportról szóló törvény 19. § (3) bekezdése szerinti sportszövetséggel fennálló jogviszonya keretében sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, és a sportszövetség szabályzata szerint sportszakembernek minősül, vagy a sportszövetség vagy a sportszervezet főállású munkavállalója, a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott tevékenységek esetén feltéve, hogy a sportmunkatárs, sportszakember rendelkezik a jegyzékben meghatározott képesítéssel, szakképzettséggel;
+2622 Műfordító
 
-c) a sportról szóló törvény szerint Magyarországon nyilvántartásba vett nemzetközi sportszövetség által foglalkoztatott magánszemély (a továbbiakban: nemzetközi sportszövetség munkavállalója).
+2623 Képzőművész
 
-(3d) A (2) bekezdésben előírt szabályoktól függetlenül a nemzetközi sportszövetség munkavállalója a külföldi pénznemben megszerzett bevételére is alkalmazhatja e törvény előírásait, feltéve, hogy tevékenységét nem kizárólag belföldön látja el. A külföldi pénznemben megszerzett bevétel forintra történő átszámítására az Szja tv. 5. és 6. §-ában foglalt szabályokat kell alkalmazni.
+2624 Iparművész
+
+2625 Zeneszerző
+
+2626 Rendező
+
+2627 Operatőr, fotóművész
+
+2629 Egyéb alkotóművész foglalkozások (díszlettervező, jelmeztervező, dramaturg)
+
+2631 Színész, előadóművész, bábművész
+
+2632 Zenész, énekes
+
+2633 Koreográfus, táncművész
+
+3714 Rádióműsor-, televízióműsor-szerkesztő munkatárs
+
+3715 Könyv- és lapkiadó-szerkesztő munkatárs
+
+3721 Segédszínész
+
+3722 Segédrendező
+
+3723 Népzenész
+
+3725 Cirkuszművész
+
+3729 Egyéb művészeti foglalkozások
+
+5311 Színházi fodrász
+
+5312 Színházi kikészítő
+
+5341 Fényképész, fotó- és mozgófilmlaboráns
+
+5342 Világosító és egyéb filmgyártási foglalkozású
+
+5343 Díszletező, díszítő
+
+5349 Egyéb kulturális, sport-, szórakoztatási szolgáltatási foglalkozások, feltéve, hogy azok a mű elkészítésének folyamatában alkotó jelleggel, attól elválaszthatatlan módon vesznek részt. Ilyen foglalkozás különösen a fotóriporter, a korrektor, a designer, képszerkesztő, művészeti vezető, a hangmérnök, továbbá a népi iparművész igazolvánnyal rendelkező magánszemély az igazolványban feltüntetett tevékenysége tekintetében
+
+5349 Színházi öltöztető
+
+7321 Színházi jelmezkészítő
+
+7323 Színházi fejdíszkészítő
+
+7335 Színházi lábbeli készítő.
 
 (4) A (2) bekezdésben említett összeghatár
 
-a) évi 60 millió forint, feltéve, hogy a magánszemély (1) bekezdés a) pontjában említett jövedelme az adóévben eléri az év első napján érvényes havi minimálbér 12-szeresét,
+- a) évi 25 millió forint, feltéve, hogy a magánszemély (1) bekezdés a) pontjában említett jövedelme az adóévben eléri az év első napján érvényes havi minimálbér 12-szeresét,
+- b) az a) pontban meghatározott feltétel hiányában az évi 25 millió forintnak olyan hányada, amilyen arányt az (1) bekezdés a) pontjában említett jövedelem összege az év első napján érvényes havi minimálbér 12-szereséhez viszonyítva képvisel,
+- c) nyugdíjas esetében – az a)–b) pontokban foglaltaktól függetlenül – évi 25 millió forint,
 
-b) az a) pontban meghatározott feltétel hiányában az évi 60 millió forintnak olyan hányada, amilyen arányt az (1) bekezdés a) pontjában említett jövedelem összege az év első napján érvényes havi minimálbér 12-szereséhez viszonyítva képvisel,
+azzal, hogy, ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
 
-c) nyugdíjas esetében – az a)–b) pontokban foglaltaktól függetlenül – évi 60 millió forint,
+(5) A (4) bekezdés szerinti bevételi határt csökkenti az a bevétel,
 
-d) az a)–b) pontban említett összeghatár helyett
+- a) amelyet az adóévben az egyszerűsített vállalkozói adóról szóló törvény (a továbbiakban: eva) hatálya alá tartozó egyéni vállalkozói tevékenységet (is) folytató magánszemélynek az eva alapjába tartozó bevételként kell figyelembe vennie, azzal, hogy a (2) bekezdés rendelkezése nem alkalmazható az eva hatálya alá tartozó egyéni vállalkozót a (2) bekezdés ba) pontjában említett vállalkozói szerződés alapján megillető bevételre, amelyet az eva alapjába tartozó bevételként kell figyelembe vennie,
+- b) amely az eva hatálya alá tartozó társas vállalkozás bevételéből a társas vállalkozás ekhót választó tagjára (tulajdonosára) a társasági szerződésben az adózott eredményből való részesedésére előírt mérték, ennek hiányában a jegyzett tőkéből való részesedése arányában jut.
 
-da) évi 500 millió forint, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója,
-
-db) évi 250 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya), vagy a nemzetközi sportszövetség munkavállalója
-
-azzal, hogy ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
-
-(5)
-
-(6) Nem tehet az adóévben az ekho választására vonatkozó nyilatkozatot a magánszemély azt követően, hogy a (4) bekezdés szerinti összeghatárt már elérte.
+(6) Nem tehet az adóévben az ekho választására vonatkozó nyilatkozatot a magánszemély azt követően, hogy a 25 millió forint bevételi határt már elérte.
 
 (7) Ha a magánszemély munkaviszonyban folytat ekho választására jogosító tevékenységet, az ellenértéket kifizető munkáltató a tevékenység adott havi ellenértékeként kifizetett összegnek a hónap első napján érvényes havi minimálbért meghaladó részére veszi figyelembe a magánszemély ekho választására vonatkozó nyilatkozatát. Nem kell e rendelkezést alkalmazni, ha
 
-a) a magánszemély nyugdíjas;
-
-b) a magánszemélynek a munkáltatóval fennálló más jogviszonyában legalább a hónap első napján érvényes havi minimálbér alapulvételével a közteherviselési kötelezettség teljesítése az általános szabályok szerint megtörténik;
-
-c) a magánszemély igazolja, hogy az (1) bekezdés a) pontjában említett címen az adott hónapban legalább a havi minimálbérnek megfelelő olyan jövedelmet szerzett, amely után a közteherviselési kötelezettség teljesítése az általános szabályok szerint történik.
+- a) a magánszemély nyugdíjas;
+- b) a magánszemélynek a munkáltatóval fennálló más jogviszonyában legalább a hónap első napján érvényes havi minimálbér alapulvételével a közteherviselési kötelezettség teljesítése az általános szabályok szerint megtörténik;
+- c) a magánszemély igazolja, hogy az (1) bekezdés a) pontjában említett címen az adott hónapban legalább a havi minimálbérnek megfelelő olyan jövedelmet szerzett, amely után a közteherviselési kötelezettség teljesítése az általános szabályok szerint történik.
 
 ### Az ekho alapja, mértéke és megállapítása
 
 4. § (1) Az ekho alapja a 3. § (2) bekezdésének rendelkezésében meghatározott bevétel, csökkentve – ha a magánszemély általános forgalmi adó fizetésére kötelezett – az általános forgalmi adóval.
 
-(2) A magánszemély az (1) bekezdésben meghatározott ekhoalap összegéből 15 százalék ekhót fizet. Ettől eltérően, ha a magánszemély az adóév 183 napját meghaladóan a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) szerint saját jogú nyugdíjas, az ekho mértéke 9,5 százalék. Ha a magánszemély nyugdíjas, e körülményről a kifizetést megelőzően nyilatkozhat.
+(2) A magánszemély az (1) bekezdésben meghatározott ekhoalap összegéből 15 százalék ekhot fizet; ha azonban a magánszemély a kifizetést megelőzően nyilatkozik arról, hogy nyugdíjas, vagy az adóévben – minden más járulékalapot képező jövedelmét, valamint minden olyan ekhoalapot képező bevételét, amely után 15 százalék mértékű ekhot fizetett figyelembe véve – a nyugdíjjárulékot (magán-nyugdíjpénztári tagdíjat) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) előírása szerint a járulékfizetés felső határáig megfizette, az ekho mértéke 11,1 százalék. Ha a magánszemély az adott kifizetéssel lépi át a járulékfizetés felső határát, a nyilatkozatban a magánszemély megjelölheti az ekhoalapnak a járulékfizetés felső határa eléréséhez szükséges részét, ebben az esetben az ekhoalap fennmaradó részére alkalmazható a 11,1 százalékos ekhomérték. Szintén 11,1 százalék az ekho mértéke az ekhoalap azon része után, amely meghaladja az adott jogviszonyban a Tbj. szerint biztosítási kötelezettség időtartamaként figyelembe vehető napok és a kifizetés napján érvényes járulékfizetési felső határ napi összegének szorzatát.
 
-(3)
+(3) A kifizető az (1) bekezdésben meghatározott ekhoalap összege után 20 százalék ekhót fizet.
 
 (4) A kifizető a magánszemélyt terhelő ekhot levonással állapítja meg, ideértve azt az esetet is, ha a kifizetést számla alapján – akár egyéni vállalkozónak, akár más magánszemélynek – teljesíti, kivéve, ha a magánszemély az 5. § (3) bekezdése szerinti nyilatkozatot tesz.
 
 (5) Az (1)–(4) bekezdés rendelkezésétől eltérően az EGT-államban biztosított személy esetében a kifizető ekhot nem fizet, a magánszemélynek juttatott ekho alapul szolgáló bevételből 9,5 százalék ekhot állapít meg és von le.
-
-(6)
 
 ### Az ekho választására vonatkozó nyilatkozat
 
@@ -117,9 +155,9 @@ c) a magánszemély igazolja, hogy az (1) bekezdés a) pontjában említett cím
 
 (2) Az (1) bekezdésben említett magánszemélynek a számfejtést megelőzően az adóévben esedékes további kifizetések tekintetében vissza kell vonnia az ekho választására tett nyilatkozatát, ha az esedékes bevételére (vagy annak egy részére) a bevétel nagysága alapján a továbbiakban az ekho már nem alkalmazható az adóévben.
 
-(3) Ha a magánszemély az olyan tevékenységét, amely alapján a 3. § (3) és (3c) bekezdése szerinti foglalkozásúnak minősül, vállalkozási szerződés vagy eseti megbízási szerződés alapján végzi, az ekho választásáról az őt megillető bevétel kifizetése előtt nyilatkozik, ekkor nyilatkozhat arról is, hogy a kifizetőt és az őt terhelő ekho megállapítását, bevallását és megfizetését átvállalja a kifizetőtől.
+(3) Ha a magánszemély az olyan tevékenységét, amely alapján a 3. § (3) bekezdése szerinti foglalkozásúnak minősül, vállalkozási szerződés vagy eseti megbízási szerződés alapján végzi, az ekho választásáról az őt megillető bevétel kifizetése előtt nyilatkozik, ekkor nyilatkozhat arról is, hogy a kifizetőt és az őt terhelő ekho megállapítását, bevallását és megfizetését átvállalja a kifizetőtől.
 
-(4) A kifizető a magánszemély nyilatkozata ellenére, vagy annak visszavonása hiányában sem alkalmazhatja a továbbiakban az ekhót, ha a magánszemély tőle származó olyan bevétele, amely után ekhót fizetett, az adóévben a 3. § (4) bekezdése szerinti összeghatárt meghaladja.
+(4) A kifizető a magánszemély nyilatkozata ellenére, vagy annak visszavonása hiányában sem alkalmazhatja a továbbiakban az ekhót, ha a magánszemély tőle származó olyan bevétele, amely után ekhót fizetett, az adóévben a 25 millió forintot meghaladja.
 
 ### Az ekho jogosulatlan választása
 
@@ -132,35 +170,39 @@ köteles adóbevallásában feltüntetni és a bevallás benyújtására előír
 
 (2) A magánszemély az (1) bekezdés b) pontjának rendelkezésétől eltérően 18 százalék különadót köteles megfizetni azon ekhoalap után,
 
-- a) amely az adóévben a 3. § (4) bekezdése szerinti összeghatárt meghaladja, és/vagy
+- a) amely az adóévben a 25 millió forintot meghaladja, és/vagy
 - b) amelyre az ekho választására vonatkozó nyilatkozatát a tevékenységére tekintettel nem tehette volna meg.
 
 ### A magánszemélyt terhelő ekho mértékének helyesbítése
 
-7. § A nyugdíjas magánszemély az őt terhelő ekho tartozatlanul megfizetett részét a személyi jövedelemadó bevallásában igényli vissza.
+7. § Ha a magánszemély a 4. § (2) bekezdése szerinti nyilatkozattételi lehetőségével – annak feltételei fennállta ellenére – nem élt, illetőleg nyugdíjjárulék (magánnyugdíjpénztári tagdíj) fizetésére a Tbj. rendelkezései szerint nem volt kötelezett, a magánszemélyt terhelő ekho nyugdíjjáruléknak, magán-nyugdíjpénztári tagdíjnak minősülő részének megfelelő különbözetet a Tbj.-nek és Art.-nak a nyugdíjjárulék (magánnyugdíjpénztári tagdíj) különbözet visszaigénylésére vonatkozó szabályai alkalmazásával igényli vissza.
 
 ### Az ekhóval teljesített közterhek
 
 8. § A jogszerűen ekhoalapként figyelembe vett bevétel után a közterhek e törvényben szabályozott megfizetésével teljesülnek
 
-- a) a szociális hozzájárulási adóra vonatkozó törvényi rendelkezésekben meghatározott, a kifizetőt terhelő közterheket,
-- b) a Tbj.-ben meghatározott biztosítottat terhelő járulékot érintő befizetési, illetve levonási, továbbá
-- c) a kifizetőt és a magánszemélyt terhelő személyi jövedelemadózási kötelezettségek.
+- a) a Tbj.-ben meghatározott, a foglalkoztatót terhelő társadalombiztosítási járulék,
+- b) a Tbj.-ben meghatározott, a biztosítottat terhelő nyugdíjjárulék (magánnyugdíjpénztári tagdíj), befizetési, illetve levonási, továbbá
+- c) a kifizetőt és a magánszemélyt terhelő személyi jövedelemadózási
+
+kötelezettségek.
 
 ### Az ekho megoszlása
 
-9. § (1) A 15 százalékos mértékkel levont, magánszemélyt terhelő ekhoból az ekhoalap
+9. § (1) A 4. § (2) bekezdése szerinti, a magánszemélyt terhelő ekhoból az ekhoalap
 
-- a) 9,5 százaléka személyi jövedelemadónak,
-- b) 5,5 százaléka társadalombiztosítási járuléknak
+- a) 1,6 százaléka természetbeni egészségbiztosítási járuléknak,
+- b) 9,5 százaléka személyi jövedelemadónak,
+- c) 3,9 százaléka – kivéve, ha a magánszemély nyugdíjas, vagy az adóévben a nyugdíjjárulékot a járulékfizetés felső határáig megfizette – nyugdíjjáruléknak; magánnyugdíjpénztár-tag magánszemély esetében az ekhoalap 0,1 százaléka nyugdíjjáruléknak, az ekhoalap 3,8 százaléka magán-nyugdíjpénztári tagdíjnak
 
 minősül.
 
-(1a) A 9,5 százalékos mértékkel levont, magánszemélyt terhelő ekho személyi jövedelemadónak minősül.
+(2) A 4. § (3) bekezdése szerint a kifizetőt terhelő ekhoból az ekhoalap
 
-(2) A 6. § szerint a magánszemélyt terhelő különadó szociális hozzájárulási adónak minősül.
+- a) 1,2 százaléka egészségbiztosítási járuléknak,
+- b) 18,8 százaléka nyugdíjbiztosítási járuléknak
 
-(3) A 2010. november 1-je és 2011. december 31-e közötti időszakban esedékes, a magán-nyugdíjpénztári tag magánszemélyt terhelő ekhoból – az (1) bekezdés c) pontjától eltérően – az ekhoalap 3,9 százaléka nyugdíjjáruléknak minősül.
+minősül.
 
 ### Az ekho megfizetése, bevallása
 
@@ -170,13 +212,28 @@ minősül.
 
 ### Az ekhóval teljesített közterhek nyilvántartása, átutalása
 
-11. § Az állami adóhatóság a magánszemélyt terhelő 9,5 százalékos mértékkel levont ekho megfizetett összegét személyi jövedelemadóként tartja nyilván. A magánszemélyt terhelő 15 százalékos mértékkel levont ekho megfizetett összegéből az állami adóhatóság 63,3 százalékot személyi jövedelemadóként tart nyilván, 26 százalékot a Nyugdíjbiztosítási Alapnak, 10,7 százalékot az Egészségbiztosítási Alapnak utal át.
+11. § (1) Az állami adóhatóság a magánszemélyt terhelő 11,1 százalékos mértékkel levont ekho megfizetett összegéből 85,6 százalékot személyi jövedelemadóként tart nyilván, 14,4 százalékot természetbeni egészségbiztosítási járulékként az Egészségbiztosítási Alapnak utal át. Az EGT-államban biztosított személyt terhelő 9,5 százalékos mértékkel levont ekhot személyi jövedelemadóként tartja nyilván. A magánszemélyt terhelő 15 százalékos mértékkel levont ekho megfizetett összegéből az állami adóhatóság
+
+- a) 63,3 százalékot személyi jövedelemadóként tart nyilván, 26 százalékot a Nyugdíjbiztosítási Alapnak, 10,7 százalékot az Egészségbiztosítási Alapnak utal át,
+- b) a magánszemély magánnyugdíjpénztári tagsága esetén 63,3 százalékot személyi jövedelemadóként tart nyilván, 10,7 százalékot az Egészségbiztosítási Alapnak, 0,7 százalékot a Nyugdíjbiztosítási Alapnak, 25,3 százalékot a magánszemély magánnyugdíjpénztárának utal át.
+
+(2) Az állami adóhatóság a kifizetőt terhelő, megfizetett ekho összegéből
+
+- a) 94 százalék nyugdíjbiztosítási járulékot a Nyugdíjbiztosítási Alapnak,
+- b) 6 százalék egészségbiztosítási járulékot az Egészségbiztosítási Alapnak
+
+utal át.
+
+(3) Az állami adóhatóság a különadó megfizetett összegéből
+
+- a) 94 százalékot a Nyugdíjbiztosítási Alapnak,
+- b) 6 százalékot az Egészségbiztosítási Alapnak
+
+utal át.
 
 ### A magánszemélyt megillető társadalombiztosítási ellátások
 
-12. § Az állami költségvetésbe fizetett 15 százalékos mértékű ekho alapján a magánszemély egészségügyi szolgáltatásra, baleseti egészségügyi szolgáltatásra, baleseti járadékra és nyugdíjbiztosítási ellátásra jogosult.
-
-12/A. § Az a bevétel, ellenérték, amely az ekho szabályai szerint adózik, a pénzbeli egészségbiztosítási ellátások [Tbj. 5. § (2) bekezdés b) pont] számítása során nem vehető figyelembe.
+12. § A befizetett ekho alapján a magánszemély egészségügyi szolgáltatásra, baleseti egészségügyi szolgáltatásra, baleseti járadékra és nyugdíjbiztosítási ellátásra jogosult.
 
 ### Vegyes rendelkezések
 
@@ -188,13 +245,13 @@ minősül.
 
 (4) A vállalkozói szerződés alapján elért bevétele után ekhót fizető egyéni vállalkozó magánszemély az Szja tv. költségelszámolásra vonatkozó rendelkezéseit azzal az eltéréssel alkalmazhatja, hogy az adóévben felmerült vállalkozói költségeit (az értékcsökkenési leírást is ideértve) olyan arányban számolhatja el, amilyen arányt a vállalkozói bevétele és a jogszerűen figyelembe vett ekhóalap adóévi együttes összegében a vállalkozói bevétel képvisel.
 
-(5)
+(5) A (3) bekezdés rendelkezésétől függetlenül a magánszemély jogszerűen ekhóalapként figyelembe vett bevétele egészét az Szja tv. 3. §-ának 75. pontja szerinti éves összes jövedelme megállapításánál beszámítja.
 
 (6) A kifizető az ekhóalapjaként figyelembe vett kifizetésről, a levont, megfizetett ekhóról a magánszemély részére a kifizetéssel egyidejűleg igazolást ad. Az 5. § (3) bekezdése szerinti nyilatkozat esetén a kifizető az adóévet követő január 31-ig a magánszemély adóazonosító jelének feltüntetésével adatot szolgáltat az adóhatósághoz a magánszemély részére az adóévben juttatott ekhoalapot képező bevételről.
 
 (7) Az ekhót fizető magánszemély biztosítási jogviszonyára és e jogviszonyával összefüggő nyilvántartási, adatszolgáltatási, a járulékfizetési kötelezettség teljesítésére, valamint jogosultságaira az e törvényben meghatározott eltéréssel a Tbj. rendelkezéseit megfelelően alkalmazni kell.
 
-(8) Az ekhót választó magánszemély önadózóként az adóévről az adóhatóság közreműködése nélkül elkészített bevallás benyújtásával vagy az állami adóhatóság által összeállított adóbevallási tervezettel teljesíti bevallási kötelezettségét, amelyben feltünteti a jogszerűen ekhoalapként figyelembe vett bevételét és az abból levont ekho összegét. Az 5. § (3) bekezdése szerinti nyilatkozat esetén a magánszemély az általa megállapított ekhot negyedévente, a negyedévet követő hó 12. napjáig fizeti meg, az e nyilatkozat szerinti ekho alapját és fizetendő összegét – a kifizetőtől átvállalt és a magánszemélyt terhelő összegek szerint külön – negyedéves bontásban a negyedév utolsó hónapjának kötelezettségeként az éves személyi jövedelemadó bevallásában vagy az állami adóhatóság által összeállított adóbevallási tervezet felhasználásával elkészített bevallásban vallja be.
+(8) Az ekhót választó magánszemély önadózóként az adóévről személyi jövedelemadó bevallást nyújt be, amelyben feltünteti a jogszerűen ekhóalapként figyelembe vett bevételét és az abból levont ekho összegét. Az 5. § (3) bekezdése szerinti nyilatkozat esetén a magánszemély az általa megállapított ekhot negyedévente, a negyedévet követő hó 12. napjáig fizeti meg, az e nyilatkozat szerinti ekho alapját és fizetendő összegét – a kifizetőtől átvállalt és a magánszemélyt terhelő összegek szerint külön – negyedéves bontásban a negyedév utolsó hónapjának kötelezettségeként az éves személyi jövedelemadó bevallásában vallja be.
 
 (9) A kifizetőt és a magánszemélyt az ekho alapját képező bevétellel összefüggésben az e törvényben szabályozott kötelezettségeken túlmenően – ide nem értve a kifizető e törvényben szabályozott kötelezettségei megsértésével összefüggő, az Art. szerint kiszabható mulasztási bírságot – egyéb adóval és más közteherrel összefüggő fizetési kötelezettség nem terheli.
 
@@ -206,24 +263,4 @@ minősül.
 
 14. § (1) E törvény 2006. január 1-jén lép hatályba, rendelkezéseit az ezt követő időponttól megszerzett bevételre és az azzal összefüggő kötelezettségekre kell alkalmazni.
 
-(2)
-
-(3)
-
-14/A. § Az Ekho. tv. 3. § (3)–(4) és (6) bekezdésének, 5. § (4) bekezdésének, és 6. § (2) bekezdés a) pontjának a sporttal összefüggő egyes törvények módosításáról szóló 2010. évi LXXXIII. törvénnyel megállapított rendelkezéseit a hatálybalépésük napját követően megszerzett bevételre kell alkalmazni.
-
-14/B. § (1) E törvénynek a sport támogatásával összefüggő egyes törvények módosításáról szóló 2011. évi LXXXII. törvénnyel módosított rendelkezéseit – a (2) bekezdésben említett kivétellel – a hatálybalépés napját követően megszerzett bevételekre kell alkalmazni.
-
-(2) A 3. § (4) bekezdés db) alpontjának a sport támogatásával összefüggő egyes törvények módosításáról szóló 2011. évi LXXXII. törvénnyel megállapított rendelkezését a 2011. január 1-jétől megszerzett bevételekre kell alkalmazni.
-
-14/C. § E törvény 2012. december 31-én hatályos 4. § (2) bekezdését kell alkalmazni a 2013. január 10-éig megszerzett, 2012. decemberi ekho alapot képező olyan jövedelmekre, amelyeket a 2012. december hónapra vonatkozóan benyújtott bevallásban kell bevallani.
-
-14/D. § E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 7. §-a a 2016. évi adókötelezettség megállapításánál is alkalmazható.
-
-14/E. § Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 3. § (4) bekezdés d) pontját a 2017. január 1-jétől megszerzett bevételekre kell alkalmazni.
-
-14/F. § (1) E törvénynek a sportvállalkozásokat érintő egyes adózási tárgyú törvények módosításáról szóló 2017. évi CLXIII. törvénnyel megállapított 4. § (6) bekezdése – a (2) bekezdésben foglaltak figyelembevételével – a 2017. szeptember 1-jét követően kifizetett jövedelmekre is alkalmazható.
-
-(2) A 2017. szeptember 1-jét követően kifizetett jövedelmekre a sportvállalkozásokat érintő egyes adózási tárgyú törvények módosításáról szóló 2017. évi CLXIII. törvény hatálybalépését megelőzően megállapított egyszerűsített közteherviselési hozzájárulási kötelezettség az önellenőrzésre vonatkozó szabályok szerint helyesbíthető.
-
-14/G. § A nemzetközi sportszövetség munkavállalója a sportról szóló törvény 30/B. § (3) bekezdése szerinti kérelem benyújtásától kezdődően megszerzett bevételére választhatja e törvény előírásait azzal, hogy a kérelem benyújtásának időpontjától a nemzetközi sportszövetség adószámának kiadásáig terjedő időszakban a nemzetközi sportszövetség által juttatott bevételek utáni adókötelezettségeket a nemzetközi sportszövetség adószámának megállapítása hónapjának kötelezettségeként kell teljesíteni.
+(2)–(3)

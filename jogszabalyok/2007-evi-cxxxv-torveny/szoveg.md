@@ -46,7 +46,7 @@ Mindezek érdekében az Országgyűlés – az Európai Unió joganyagával öss
 
 (6) A Felügyelet tagja a 2009/77/EK bizottsági határozattal létrehozott Európai Értékpapír-piaci Szabályozók Bizottságának, a 2009/78/EK bizottsági határozattal létrehozott Európai Bankfelügyelők Bizottságának és a 2009/79/EK bizottsági határozattal létrehozott Európai Biztosítás és a Foglalkoztatói-nyugdíj Felügyeletek Bizottságának.
 
-4. § (1) Ha törvény eltérően nem rendelkezik, a Felügyelet látja el
+4. § Ha törvény eltérően nem rendelkezik, a Felügyelet látja el
 
 - a) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény,
 - b) a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény,
@@ -67,11 +67,9 @@ Mindezek érdekében az Országgyűlés – az Európai Unió joganyagával öss
 
 hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.
 
-(2) A Felügyelet látja el a kereskedelmi kölcsönt nyújtó hitelező felügyeletét a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény hatálya alá tartozó tevékenysége tekintetében.
-
 5. § (1) A Felügyelet látja el a feladatkörében a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását
 
-- a) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2008/48/EK európai parlamenti és tanácsi irányelvet,
+- a) a fogyasztói hitelre vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről szóló – a 90/88/EGK tanácsi irányelvvel, továbbá a 98/7/EK európai parlamenti és tanácsi irányelvvel módosított – 87/102/EGK tanácsi irányelvet,
 - b) a fogyasztókkal kötött szerződésekben alkalmazott tisztességtelen feltételekről szóló 93/13/EGK tanácsi irányelvet,
 - c) a fogyasztói pénzügyi szolgáltatások távértékesítéssel történő forgalmazásáról szóló 2002/65/EK európai parlamenti és tanácsi irányelvet, valamint
 - d) – az általa felügyelt tevékenységekkel összefüggő kereskedelmi gyakorlatok tekintetében – a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól szóló 2005/29/EK európai parlamenti és tanácsi irányelvet
@@ -87,8 +85,6 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 (3) A Felügyelet látja el a Tpt.-ben meghatározott feladatkörében a 809/2004/EK bizottsági rendelet végrehajtását.
 
 (4) A Felügyelet látja el a 924/2009/EK európai parlamenti és tanácsi rendelet végrehajtását.
-
-(5) Az 1060/2009/EK európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdése szerinti illetékes hatóságként a Felügyelet látja el az 1060/2009/EK európai parlamenti és tanácsi rendelet végrehajtását.
 
 7. § A Felügyelet feladata:
 
@@ -131,8 +127,7 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 - n) a 2. § (3) bekezdés szerinti kockázati jelentést,
 - o) a 15. § (5) bekezdés szerinti összefoglalót,
 - p) a 44/C. §-ban meghatározott határozat meghozatalával egyidejűleg a tevékenység végzésével kapcsolatos azon kockázatokat, amelyek a pénzügyi közvetítőrendszer stabilitását veszélyeztetik,
-- q) azon – az Európai Unió kötelező jogi aktusának átültetése céljából elfogadott – jogszabályi rendelkezések felsorolását, amelyek alapján a fogyasztó a termék értékesítésére vagy szolgáltatás nyújtására vonatkozó szerződéstől elállhat,
-- r) azon információkat, amelyek nyilvánosságra hozatalát jogszabály elrendeli.
+- q) azon információkat, amelyek nyilvánosságra hozatalát jogszabály elrendeli.
 
 (2) A Felügyelet az (1) bekezdés g) pontja szerinti közzétételi kötelezettségének legalább féléves gyakorisággal tesz eleget.
 
@@ -186,15 +181,13 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (3) A Felügyelet két alelnöke a szervezeti és működési szabályzatban meghatározottak szerint, az elnök irányításával közreműködik a Felügyelet vezetésében. A Felügyelet egyik alelnökét a miniszterelnök a Felügyelet elnökének javaslatára megbízza a fogyasztóvédelemmel kapcsolatos feladatok ellátásával.
 
-(4)
+(4) A Felügyelet elnöke véleményezésre megküldi az Országgyűlés feladatkörrel rendelkező bizottságának a Felügyelet szervezeti és működési szabályzatára vonatkozó utasítás tervezetét. A bizottság a tervezetről véleményt nyilvánít, amelyet a Felügyelet elnöke részére a tervezet kézhezvételétől számított harminc napon belül megküld. A Felügyelet elnöke az utasítást a bizottság véleményének ismeretében, illetve e határidő eredménytelen elteltét követően adhatja ki.
 
-(5) A Felügyelet elnökének közszolgálati jogviszonyával összefüggő munkáltatói intézkedéseket – a 12–13. §-ban meghatározott esetekben az ott megjelölt döntés alapján – a helyettesítésére kijelölt alelnök teszi meg. A Felügyelet alelnöke felett a munkáltatói jogokat – a kinevezés kivételével – a Felügyelet elnöke gyakorolja.
+(5) A Felügyelet elnöke felett a munkáltatói jogokat – a 12–13. §-ban meghatározott kivételekkel – a köztársasági elnök gyakorolja. A Felügyelet alelnöke felett a munkáltatói jogokat – a kinevezés kivételével – a Felügyelet elnöke gyakorolja.
 
-(6) A Felügyelet elnökének tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó, a Felügyelettől származó havi keresete a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszerese. A Felügyelet alelnökének tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított, a Felügyelettől származó havi keresete a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset kilencszerese.
+(6) A Felügyelet elnökének a Felügyelettől származó tárgyévi összes jövedelme az MNB elnökének az MNB-től származó tárgyévi összes jövedelmének ötven százaléka.A Felügyelet alelnökének a Felügyelettől származó tárgyévi összes jövedelme az MNB elnökének az MNB-től származó tárgyévi összes jövedelmének huszonöt százaléka.
 
 (7) A Felügyelet elnökét annak akadályoztatása esetén az általa kijelölt alelnök helyettesíti, illetve az új elnök kinevezéséig a Felügyelet elnöke által a helyettesítésére kijelölt alelnök gyakorolja az elnök hatáskörét, ha az elnöki tisztség nincsen betöltve. A helyettesítésre kijelölt alelnök a (2) bekezdés a) pontja szerinti jogkört nem gyakorolhatja.
-
-(8) A Felügyelet elnökét a miniszterrel, a Felügyelet alelnökét a közigazgatási államtitkárral azonos juttatások illetik meg. A Felügyelet elnökét és alelnökét naptári évenként negyven-negyven munkanap szabadság illeti meg.
 
 12. § (1) A Felügyelet elnökét a miniszterelnök javaslatára a köztársasági elnök hat évre nevezi ki. A Felügyelet két alelnökét a Felügyelet elnökének javaslatára a miniszterelnök hat évre nevezi ki.
 
@@ -242,7 +235,7 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (12) A foglalkoztatást kizáró okok vizsgálatával kapcsolatos, az igazolásra való felhívással összefüggő jogkör gyakorlója a Felügyelet elnöke tekintetében a miniszterelnök.
 
-(13) A Felügyelet elnöke, illetve alelnöke megbízatásának megszűnése esetén végkielégítésre, felmentési időre nem jogosult.
+(13) A Felügyelet elnöke, illetve alelnöke megbízatásának megszűnése esetén végkielégítésre, felmentési időre és a 21. § (7) bekezdésében meghatározott juttatásra nem jogosult.
 
 (14) Ha a Felügyelet elnökének, illetve alelnökének megbízatása az (1) bekezdés a)–c) pontjában meghatározott okból vagy törvény egyedi rendelkezése alapján szűnik meg, a megbízatás megszűnésétől számított tizenöt napon belül egy összegben hathavi illetményével megegyező összegű juttatásra jogosult.
 
@@ -323,9 +316,7 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (5) A Felügyelet elnöke a Felügyelet köztisztviselőjének alapilletményét – munkájának értékelésétől függően – át nem ruházható hatáskörében legfeljebb ötven százalékkal megemelheti, vagy legfeljebb harminchárom százalékkal csökkentett mértékben állapíthatja meg.
 
-(6)
-
-(7) A Felügyeleten ügyvezető igazgatói megbízás is adható azzal, hogy az ügyvezető igazgató olyan főosztályvezetői besorolással rendelkező személy, aki több főosztály vezetését látja el.
+(6) A Felügyelettel közszolgálati jogviszonyban álló személyt e jogviszonyának megszűnése esetén – feltéve, hogy a jogviszony nem a próbaidő alatt, illetve hivatalvesztés fegyelmi büntetéssel szűnt meg – a 22. § (5) bekezdésben meghatározott kötelezettség ellenértékeként hathavi átlagkeresetével megegyező összegű juttatás illeti meg. Amennyiben az érintett köztisztviselő a 22. § (5) bekezdésében meghatározott kötelezettségét megszegi, felelősségét és a jogkövetkezményeket a polgári jog szabályai alapján kell megállapítani.
 
 ### Összeférhetetlenség
 
@@ -342,7 +333,14 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 nem szerezhet.
 
-(5)–(6)
+(5) A Felügyelettel közszolgálati jogviszonyban álló személy e megbízatásának megszűnése után vezetői megbízással vagy kinevezéssel rendelkező személy esetében egy éven át, egyéb személy esetében hat hónapon át
+
+- a) nem létesíthet munka-, munkavégzésre irányuló egyéb jogviszonyt olyan vállalkozással,
+- b) nem létesíthet rendszeres gazdasági kapcsolatot vállalkozás vezető tisztségviselőjeként vagy tulajdonosaként olyan vállalkozással,
+- c) nem létesíthet számára vagyoni előnyt biztosító jogviszonyt olyan vállalkozással, illetve
+- d) nyilvánosan működő részvénytársaság kivételével nem szerezhet részesedést olyan vállalkozásban, amelynek jogát vagy jogos érdekét a Felügyelet döntése a megbízatás megszűnését megelőző három évben érintette.
+
+(6) Az (5) bekezdés rendelkezését nem kell alkalmazni, ha a jogviszony törvény egyedi rendelkezése alapján szűnik meg.
 
 23. § (1) A Felügyelet köztisztviselője a 4. §-ban meghatározott szervezetben tagsági vagy részvényesi jogviszonyt nem létesíthet, kinevezésekor vagy megválasztásakor nyilatkozik a munkáltatói jogkör gyakorlójának a fennálló tagsági vagy részesedési jogviszonyáról, továbbá a tulajdonában lévő minden olyan pénzügyi eszközről, amelyet kinevezése vagy megválasztása után nem szerezhet.
 
@@ -845,7 +843,6 @@ kapcsolatos személyes adat (családi és utónév, születési név, lakóhely,
 - a) (1) bekezdése a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i 1781/2006/EK európai parlamenti és tanácsi rendelet 15. cikke (3) bekezdésének,
 - b) (2) bekezdése a 2004/39/EK európai parlamenti és tanácsi rendeletnek a befektetési vállalkozások nyilvántartás-vezetési kötelezettségei, az ügyletek bejelentése, a piac átláthatósága, a pénzügyi eszközök piaci bevezetése, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról szóló, 2006. augusztus 10-i 1287/2006/EK bizottsági rendelet,
 - c) (3) bekezdése a 2003/71/EK európai parlamenti és tanácsi irányelvnek a tájékoztatókban foglalt információk formátuma, az információk hivatkozással történő beépítése, a tájékoztatók közzététele és a reklámok terjesztése tekintetében történő végrehajtásáról szóló, 2004. április 29-i 809/2004/EK bizottsági rendelet,
-- d) (4) bekezdése a Közösségben történő határokon átnyúló fizetésekről és a 2560/2001/EK rendelet hatályon kívül helyezéséről szóló, 2009. szeptember 16-i 924/2009/EK európai parlamenti és tanácsi rendelet 9., 10., 12. és 13. cikkének,
-- e) (5) bekezdése a hitelminősítő intézetekről szóló 2009. szeptember 16-i 1060/2009/EK európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdése
+- d) (4) bekezdése a Közösségben történő határokon átnyúló fizetésekről és a 2560/2001/EK rendelet hatályon kívül helyezéséről szóló, 2009. szeptember 16-i 924/2009/EK európai parlamenti és tanácsi rendelet 9., 10., 12. és 13. cikkének
 
 végrehajtásához szükséges rendelkezéseket állapít meg a Felügyelet feladatkörében és eljárásában.

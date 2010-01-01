@@ -6,13 +6,13 @@ Az Országgyűlés a polgárok, így különösen a fiatalkorúak egészségéne
 
 ### Általános rendelkezések
 
-1. § (1) E törvény hatálya a reklámozóként, reklámszolgáltatóként vagy reklám közzétevőjeként végzett gazdasági reklámtevékenységre, a szponzorálásra, a reklámközvetítésre, a médiahirdetési felületek (reklámhelyek) értékesítésére, valamint az ezek tekintetében alkalmazott magatartási kódexekre terjed ki.
+1. § (1) E törvény hatálya a reklámozóként, reklámszolgáltatóként vagy reklám közzétevőként végzett gazdasági reklámtevékenységre, a szponzorálásra, valamint az ezek tekintetében alkalmazott magatartási kódexekre terjed ki.
 
 (2) Törvény vagy az annak végrehajtására kiadott jogszabály az egyes árukra vonatkozó vagy az egyes kommunikációs eszközök útján megvalósuló gazdasági reklámtevékenységre külön szabályokat állapíthat meg. Ha a külön törvény eltérően nem rendelkezik, az ilyen szabályok megsértésére e törvény rendelkezéseit megfelelően alkalmazni kell.
 
-(3) Az audiovizuális és rádiós médiaszolgáltatásban közzétett reklámra a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvényt, valamint a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvényt is alkalmazni kell.
+(3) A rádió és televízió műsorszolgáltatásában közzétett reklámra – ha e törvénytől eltérő követelményeket állapít meg – a rádiózásról és televíziózásról szóló 1996. évi I. törvényben foglalt rendelkezéseket kell alkalmazni.
 
-#### 2. §
+2. § E törvénynek a megtévesztő reklámra vonatkozó rendelkezéseit csak annyiban kell alkalmazni, amennyiben a reklám címzettje kizárólag vállalkozás vagy önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró nem természetes személy.
 
 3. § E törvény alkalmazásában
 
@@ -23,83 +23,27 @@ Az Országgyűlés a polgárok, így különösen a fiatalkorúak egészségéne
 - e) gyermekkorú: aki a tizennegyedik életévét nem töltötte be,
 - f) közzététel: a reklám megismerhetővé tétele, akár nagyobb nyilvánosság, akár egyedi címzett számára,
 - g) magatartási kódex: olyan – piaci önszabályozás keretében létrehozott – megállapodás vagy szabályegyüttes, amely valamely kereskedelmi gyakorlat vagy tevékenységi ágazat vonatkozásában követendő magatartási szabályokat határoz meg azon vállalkozások számára, amelyek a kódexet magukra nézve kötelezőnek ismerik el,
-- h) reklámközvetítés: reklámozóval kötött közvetítői szerződés alapján, a reklám közzétételére irányuló szerződés megkötésének elősegítésére irányuló tevékenység, ide nem értve a reklámszolgáltatási tevékenységet,
-- i) reklámközvetítő: reklámközvetítést végző természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet,
+- h) megtévesztő reklám: minden olyan reklám, amely bármilyen módon – beleértve a megjelenítését is – megtéveszti vagy megtévesztheti azokat a személyeket, akik felé irányul, vagy akiknek a tudomására juthat, és megtévesztő jellege miatt befolyásolhatja e személyek gazdasági magatartását, vagy ebből eredően a reklámozóéval azonos vagy ahhoz hasonló tevékenységet folytató más vállalkozás jogait sérti vagy sértheti,
+- i) összehasonlító reklám: olyan reklám, amely közvetve vagy közvetlenül felismerhetővé tesz más, a reklámozóéval azonos vagy ahhoz hasonló tevékenységet folytató vállalkozást vagy ilyen vállalkozás által előállított, forgalmazott vagy bemutatott, a reklámban szereplő áruval azonos vagy ahhoz hasonló rendeltetésű árut,
 - j) reklám címzettje: aki felé a reklám irányul, illetve akihez a reklám eljut,
 - k) reklám közzétevője: aki a reklám közzétételére alkalmas eszközökkel rendelkezik és ezek segítségével a reklámot megismerhetővé teszi,
 - l) reklámozó: akinek érdekében a reklámot közzéteszik, illetve aki a reklámot megrendeli,
 - m) reklámszolgáltató: aki önálló gazdasági tevékenysége körében a reklámot megalkotja, létrehozza, illetve ezzel összefüggésben egyéb szolgáltatást nyújt,
-- n) sajtótermék: a napilap és más időszaki lap egyes számai, valamint az internetes újság vagy hírportál, amelynek tartalmáért valamely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság szerkesztői felelősséget visel, és amelynek elsődleges célja szövegből, illetve képekből álló tartalmaknak a nyilvánossághoz való eljuttatása tájékoztatás, szórakoztatás vagy oktatás céljából, nyomtatott formátumban vagy valamely elektronikus hírközlő hálózaton keresztül.
+- n) sajtótermék: az időszaki lap egyes lapszámai, a rádió- és televízió-műsor, a könyv, a röplap és az egyéb szöveges kiadvány – ide nem értve a bankjegyet és az értékpapírt –, a zeneművet, grafikát, rajzot vagy fotót tartalmazó kiadvány, a térkép, a nyilvános közlésre szánt műsoros filmszalag, videokazetta, videolemez, hangszalag és hanglemez, továbbá bármely más tájékoztatást vagy műsort tartalmazó, nyilvános közlésre szánt technikai eszköz,
 - o) szabadtéri reklámhordozó: reklám közzététele céljából építményen kívül elhelyezett eszköz,
 - p) szponzorálás: minden olyan hozzájárulás valamely rendezvényhez, tevékenységhez, továbbá – rendezvénnyel vagy tevékenységgel összefüggésben – valamely személy számára, amelynek célja, illetve közvetlen vagy közvetett hatása valamely áru vásárlásának vagy igénybevételének ösztönzése,
 - q) tudatosan nem észlelhető reklám: olyan reklám, amelynek közzétételekor – az időtartam rövidsége vagy más ok következtében – a reklám címzettjére lélektani értelemben a tudatos észleléshez szükséges ingerküszöbnél kisebb erősségű látvány, hang- vagy egyéb hatás keltette inger hat,
-- r) vállalkozás: aki önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében jár el,
-- s) médiahirdetésifelület-értékesítő: a reklám közzétevőjének megbízása alapján eljáró természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, amely a reklám közzétevője nevében hirdetési felületet értékesít a reklámközvetítő, illetve a reklámozó felé.
+- r) vállalkozás: aki önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében jár el.
 
 4. § Magatartási kódex nem ösztönözhet olyan magatartásra, amely e törvény rendelkezéseibe ütközik.
 
-5. § (1) Reklám akkor tehető közzé, ha a reklámozó a reklám megrendelésekor a reklámszolgáltató – ennek hiányában a reklám közzétételének megrendelésekor a reklám közzétevője – részére megadja a cégnevét, illetve nevét, a székhelyét, ennek hiányában lakóhelyét, továbbá az adószámát és a szerencsejátékot népszerűsítő reklám esetén a Szabályozott Tevékenységek Felügyeleti Hatósága által szerencsejáték szervezésére jogosító engedélyt.
+5. § (1) Reklám akkor tehető közzé, ha a reklámozó a reklám megrendelésekor a reklámszolgáltató – ennek hiányában a reklám közzétételének megrendelésekor a reklám közzétevője – részére megadja a cégnevét, illetve nevét, a székhelyét, ennek hiányában lakóhelyét, továbbá az adószámát.
 
 (2) A külön jogszabályban meghatározott előzetes minőségvizsgálati vagy megfelelőségtanúsítási kötelezettség alá tartozó termékre vonatkozó reklám esetén a reklámozó köteles a reklámszolgáltatónak – ennek mellőzése esetén a reklám közzétevőjének – nyilatkozni arról, hogy a vizsgálatot elvégezték és annak alapján a termék forgalomba hozható. Ha a termék nem tartozik előzetes minőségvizsgálati vagy megfelelőségtanúsítási kötelezettség alá, a nyilatkozatnak ezt kell tartalmaznia. Ilyen nyilatkozat hiányában a reklám nem tehető közzé.
 
-(3) A reklámszolgáltató, illetve a reklám közzétevője köteles az (1) bekezdésben meghatározott adatokról, valamint a (2) bekezdés szerinti nyilatkozatokról nyilvántartást vezetni, és azt a reklám közzétételétől számított három évig megőrizni.
-
-(3a) A (3) bekezdéstől eltérően a növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény hatálya alá tartozó tevékenységek esetén az (1) bekezdésben meghatározott adatokat, valamint a (2) bekezdés szerinti nyilatkozatokat a reklámszolgáltató, illetve a reklám közzétevője öt évig köteles megőrizni.
+(3) A reklámszolgáltató, illetve a reklám közzétevője köteles az (1) bekezdésben meghatározott adatokról, valamint a (2) bekezdés szerinti nyilatkozatokról nyilvántartást vezetni, és azt a reklám közzétételétől számított öt évig megőrizni.
 
 (4) A szabadtéri reklámhordozón a reklám közzétevője köteles azonosítható módon feltüntetni a cégnevét, illetve nevét, továbbá a székhelyét, illetve lakóhelyét.
-
-5/A. § A reklámközvetítői szerződésekre a Polgári Törvénykönyvről szóló törvény közvetítői szerződésre vonatkozó rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
-
-5/B. § (1) A reklámközvetítésre vonatkozó szerződést és a reklám közzétételére irányuló szerződést írásba kell foglalni. E törvény alkalmazásában írásbeli szerződésnek minősül az elektronikus úton kötött szerződés abban az esetben is, ha azt a felek nem látták el elektronikus aláírással.
-
-(2) A reklámközvetítő és a reklámozó a reklámközvetítésre vonatkozó szerződésben megállapodhatnak abban, hogy a reklámközvetítő képviseleti joga a reklám közzétételére irányuló szerződésnek a reklámozó nevében történő megkötésére, annak módosítására és a teljesítés elfogadására is kiterjed.
-
-(3) A reklám közzétevője vagy a nevében eljáró médiahirdetésifelület-értékesítő legkésőbb a reklám közzétételére irányuló szerződés megkötését követő hónap utolsó napjáig a reklámozó felhívására beszámol a reklámozónak a reklám közzétételének körülményeiről. Ha a reklám terjesztési feltételeinek módosítására van szükség, a reklám közzétevője vagy a nevében eljáró médiahirdetésifelület-értékesítő előzetesen értesíti a reklámozót. A reklám terjesztési feltételeinek módosításához a reklámozó beleegyezése szükséges. A reklám közzétevője vagy a médiahirdetésifelület-értékesítő a végrehajtott változtatásokról beszámol a reklámozónak.
-
-(4) Ha a reklám közzétételére vonatkozó szerződés a reklámközvetítő közvetítésével került megkötésre, a reklám közzétevője vagy a nevében eljáró médiahirdetésifelület-értékesítő a (3) bekezdés szerinti értesítési és beszámolási kötelezettségének a reklámközvetítő értesítésével vagy a reklámközvetítő számára történő beszámolással is eleget tehet.
-
-(5) A reklám közzétevője vagy a nevében eljáró médiahirdetésifelület-értékesítő a szolgáltatásról kiállított számlát a vele a reklám közzétételére szerződő fél nevére állítja ki. A számlán valamennyi alkalmazott árengedményt fel kell tüntetni. A pénzügyi teljesítés határideje a számla kézhezvételét követő harmincadik nap.
-
-5/C. § (1) A reklámközvetítő a reklám közzétevőjétől vagy más személytől a reklámközvetítés során vagy a reklámközvetítési tevékenységével összefüggésben közvetve vagy közvetlenül – a reklámközvetítési tevékenységre vonatkozó díjon felül – ajándékot, a reklám közzétevőjétől vagy a nevében eljáró médiahirdetésifelület-értékesítőtől kapott árengedmény kivételével vagyoni előnyt vagy más juttatást nem fogadhat el. A reklám közzétevője vagy a nevében eljáró médiahirdetésifelület-értékesítő a reklámközvetítő részére árengedmény kivételével vagyoni előnyt vagy más juttatást nem adhat.
-
-(2) A kapott árengedményt
-
-- a) a médiahirdetésifelület-értékesítő a reklámközvetítő és a reklámozó javára,
-- b) a reklámközvetítő a reklámozó javára
-
-köteles teljes mértékben érvényesíteni.
-
-(3) A reklámközvetítő a reklámozótól díjra jogosult, amelynek mértéke a reklám közzétételi díjának 15%-a.
-
-5/D. § (1) Az a reklámszolgáltató, aki a reklám közzététele tekintetében tervezési, tanácsadási vagy a reklám közzétételére alkalmas eszköz kiválasztására – ide nem értve a reklámközvetítést – vonatkozó szolgáltatást nyújt, a reklám közzétételére alkalmas eszközzel rendelkező személytől vagy a nevében eljáró médiahirdetésifelület-értékesítőtől ajándékot, árengedményt, kedvezményt, vagyoni előnyt vagy más juttatást nem fogadhat el. A reklám közzétételére alkalmas eszközzel rendelkező személy vagy a nevében eljáró médiahirdetésifelület-értékesítő a reklám közzététele tekintetében tervezési, tanácsadási vagy a reklám közzétételére alkalmas eszköz kiválasztására – ide nem értve a reklámközvetítést – vonatkozó szolgáltatást nyújtó reklámszolgáltató részére árengedményt, kedvezményt, vagyoni előnyt vagy más juttatást nem adhat.
-
-(2) Az (1) bekezdés szerinti reklámszolgáltató és a reklámközvetítő köteles tájékoztatni az általa nyújtott szolgáltatás igénybevevőjét arról, ha
-
-- a) a reklámszolgáltató, illetve a reklámközvetítő vagy a többségi befolyása alatt álló gazdálkodó szervezet tulajdoni részesedéssel rendelkezik a reklám közzétételére alkalmas eszközzel rendelkező gazdálkodó szervezetben vagy a nevében eljáró médiahirdetésifelület-értékesítőben vagy
-- b) a reklám közzétételére alkalmas eszközzel rendelkező gazdálkodó szervezet vagy a nevében eljáró médiahirdetésifelület-értékesítő rendelkezik tulajdoni részesedéssel az (1) bekezdés szerinti reklámszolgáltatóban vagy reklámközvetítőben.
-
-(3) A (2) bekezdés szerinti tájékoztatásnak ki kell terjednie
-
-- a) annak a gazdálkodó szervezetnek vagy a nevében eljáró médiahirdetésifelület-értékesítőnek a nevére, amelyben az (1) bekezdés szerinti reklámszolgáltató, reklámközvetítő tulajdoni részesedéssel rendelkezik, vagy
-- b) annak a reklám közzétételére alkalmas eszközzel rendelkező gazdálkodó szervezetnek vagy a nevében eljáró médiahirdetésifelület-értékesítőnek a nevére, amely az (1) bekezdés szerinti reklámszolgáltatóban, reklámközvetítőben tulajdoni részesedéssel rendelkezik, és
-- c) a tulajdoni részesedés mértékére.
-
-(4) A reklámközvetítő nem működhet közre olyan, a reklám közzétételére irányuló szerződés megkötésében, amelyben olyan médiahirdetésifelület-értékesítő is közreműködik,
-
-- a) amelyben a reklámközvetítő vagy
-- b) amely a reklámközvetítőben
-
-közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
-
-5/E. § A reklámközvetítő nem minősül a kereskedelemről szóló 2005. évi CLXIV. törvény szerinti kereskedelmi ügynöknek.
-
-5/F. § (1) Az 5/C. § és az 5/D. § (1) és (4) bekezdésének megsértése esetén a fogyasztóvédelmi hatóság jár el. A fogyasztóvédelmi bírság összege az elért vagyoni előny ötvenszerese. A fogyasztóvédelmi bírságot azzal szemben kell kiszabni, akinél a vagyoni előny jelentkezik, illetve aki a vagyoni előnyt nyújtja.
-
-(2) Amennyiben az állami adóhatóságnak az 5/C. § és az 5/D. § (1) és (4) bekezdésében foglaltak megsértésére utaló körülmény jut tudomására, abban az esetben köteles ezt haladéktalanul a fogyasztóvédelmi hatóság tudomására juttatni.
-
-(3) A reklámközvetítésre vonatkozó szerződésnek, illetve a reklám közzétételére irányuló szerződésnek az 5/C. § és az 5/D. § (1) bekezdésébe ütköző rendelkezése semmis.
-
-#### 5/G. §
 
 6. § (1) Ha külön törvény eltérően nem rendelkezik, reklám természetes személynek mint reklám címzettjének közvetlen megkeresése módszerével (a továbbiakban: közvetlen üzletszerzés), így különösen elektronikus levelezés vagy azzal egyenértékű más egyéni kommunikációs eszköz útján – a (4) bekezdésben meghatározott kivétellel – kizárólag akkor közölhető, ha ahhoz a reklám címzettje előzetesen egyértelműen és kifejezetten hozzájárult.
 
@@ -107,7 +51,7 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 
 (3) Az (1) bekezdés szerinti hozzájáruló nyilatkozat bármikor korlátozás és indokolás nélkül, ingyenesen visszavonható. Ebben az esetben a nyilatkozó nevét és minden egyéb személyes adatát az (5) bekezdésben meghatározott nyilvántartásból haladéktalanul törölni kell, és részére reklám az (1) bekezdésben meghatározott módon a továbbiakban nem közölhető.
 
-(4) Címzett reklámküldemény természetes személy mint a reklám címzettje részére közvetlen üzletszerzés útján a címzett előzetes és kifejezett hozzájárulásának hiányában is küldhető, a reklámozó és a reklámszolgáltató azonban köteles biztosítani, hogy a reklám címzettje a reklám küldését bármikor ingyenesen és korlátozás nélkül megtilthassa. Megtiltás esetén az érintett személy részére reklám közvetlen üzletszerzés útján a továbbiakban nem küldhető.
+(4) A postáról szóló 2003. évi CI. törvényben meghatározott címzett reklámküldeményben reklám természetes személy mint a reklám címzettje részére közvetlen üzletszerzés útján a címzett előzetes és kifejezett hozzájárulásának hiányában is küldhető, a reklámozó és a reklámszolgáltató azonban köteles biztosítani, hogy a reklám címzettje a reklám küldését bármikor ingyenesen és korlátozás nélkül megtilthassa. Megtiltás esetén az érintett személy részére reklám közvetlen üzletszerzés útján a továbbiakban nem küldhető.
 
 (5) A reklámozó, a reklámszolgáltató, illetve a reklám közzétevője – az (1) bekezdés szerinti hozzájárulásban meghatározott körben – a náluk hozzájáruló nyilatkozatot tevő személyek személyes adatairól nyilvántartást vezet. Az ebben a nyilvántartásban rögzített – a reklám címzettjére vonatkozó – adat csak a hozzájáruló nyilatkozatban foglaltaknak megfelelően, annak visszavonásáig kezelhető, és harmadik fél számára kizárólag az érintett személy előzetes hozzájárulásával adható át.
 
@@ -117,8 +61,6 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 
 (8) Az (1) bekezdés szerinti hozzájáruló nyilatkozat kérésére vonatkozó közvetlen megkeresés reklámot nem tartalmazhat, ide nem értve a vállalkozás nevét és megjelölését.
 
-(9) E § alkalmazásában címzett reklámküldemény: kizárólag hirdetést, üzletszerzési vagy reklámanyagot tartalmazó – egyszerre legalább 500 címzett részére feladott, a címzett neve, címe, és az üzenet jellegét nem módosító adat kivételével azonos tartalmú – a postai szolgáltatásokról szóló törvény szerinti, ott önállóan nem nevesített postai küldemény.
-
 ### Általános reklámtilalmak és reklámkorlátozások
 
 7. § (1) Tilos az olyan reklám, amely erőszakos, illetve a személyes vagy a közbiztonságot veszélyeztető magatartásra ösztönöz.
@@ -127,15 +69,11 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 
 8. § (1) Tilos az olyan reklám, amely a gyermek- és fiatalkorúak fizikai, szellemi, érzelmi vagy erkölcsi fejlődését károsíthatja.
 
-(1a) Tilos az olyan reklámot tizennyolc éven aluliak számára elérhetővé tenni, amely a szexualitást öncélúan ábrázolja, illetve a születési nemnek megfelelő önazonosságtól való eltérést, a nem megváltoztatását, valamint a homoszexualitást népszerűsíti, jeleníti meg.
-
 (2) Tilos az olyan gyermek-, illetve fiatalkorúaknak szóló reklám, amely alkalmas a gyermek-, illetve fiatalkorúak fizikai, szellemi, érzelmi vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy erőszakra, szexualitásra utal vagy azt ábrázol, vagy témájának meghatározó eleme az erőszakos módon megoldott konfliktus.
 
 (3) Tilos az olyan reklám, amely gyermek- vagy fiatalkorút veszélyes, erőszakos vagy a szexualitást hangsúlyozó helyzetben mutat be.
 
-(4) Gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó intézményben, óvodában, általános iskolában, hat vagy nyolc évfolyammal működő gimnáziumban és általános iskolai tanulókat, valamint hat vagy nyolc évfolyammal működő gimnáziumi tanulókat fogadó kollégiumban tilos a reklámtevékenység. E tilalom nem vonatkozik az egészséges életmódra és a környezet védelmére neveléssel összefüggő, továbbá a közéleti és kulturális tevékenység vagy esemény, valamint az oktatási tevékenység reklámjára, valamint az ilyen tevékenységet folytató, illetve ilyen eseményt szervező vagy annak megvalósulásához bármilyen formában hozzájárulást nyújtó vállalkozás nevének, védjegyének vagy egyéb megjelölésének az adott tevékenységgel, eseménnyel közvetlenül összefüggő megjelenítésére.
-
-(5) Tilos az olyan gyermek-, illetve fiatalkorúaknak szóló reklám, amely árut vagy annak használatát, igénybevételét életet, egészséget vagy testi épséget sértő vagy veszélyeztető módon mutat be.
+(4) Gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó intézményben, óvodában, általános iskolában és általános iskolai tanulókat fogadó kollégiumban tilos a reklámtevékenység. E tilalom nem vonatkozik az egészséges életmódra és a környezet védelmére neveléssel összefüggő, továbbá a közéleti és kulturális tevékenység vagy esemény, valamint az oktatási tevékenység reklámjára, valamint az ilyen tevékenységet folytató, illetve ilyen eseményt szervező vagy annak megvalósulásához bármilyen formában hozzájárulást nyújtó vállalkozás nevének, védjegyének vagy egyéb megjelölésének az adott tevékenységgel, eseménnyel közvetlenül összefüggő megjelenítésére.
 
 9. § (1) Tilos az olyan reklám, amely a nemiséget súlyosan szeméremsértő nyíltsággal ábrázolja, különösen amelyik nemi aktust vagy nemi szervet nyíltan ábrázol (pornográf reklám).
 
@@ -149,9 +87,35 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 
 11. § Tilos a tudatosan nem észlelhető reklám.
 
-12. § Tilos a kereskedelemről szóló törvényben meghatározott, árubemutatóval egybekötött termékértékesítéshez kapcsolódóan ajándék juttatás, árengedmény, kedvezmény, vagyoni előny és ajándéksorsolás reklámja.
+### Megtévesztő reklám és az összehasonlító reklám
 
-#### 13. §
+12. § (1) Tilos a megtévesztő reklám.
+
+(2) A reklám megtévesztő jellegének megállapításakor figyelembe kell venni különösen a reklámban foglalt azokat a tájékoztatásokat, közléseket, amelyek
+
+- a) az áru jellemző tulajdonságaira,
+- b) az áru árára vagy az ár megállapításának módjára, valamint az áru megvételének, illetve igénybevételének egyéb szerződéses feltételeire, továbbá
+- c) a reklámozó megítélésére, így a reklámozó jellemzőire, az őt megillető jogokra, vagyonára, minősítésére, elnyert díjaira
+
+vonatkoznak.
+
+(3) A (2) bekezdés a) pontja alkalmazásában az áru jellemző tulajdonsága különösen az áru kivitelezése, összetétele, műszaki jellemzői, mennyisége, származási helye, eredete, előállításának vagy szolgáltatásának módja és időpontja, beszerezhetősége, szállítása, alkalmazása, a használatához, fenntartásához szükséges ismeretek, adott célra való alkalmassága, a használatától várható eredmények, veszélyessége, kockázatai, egészségre gyakorolt hatásai, környezeti hatásai, energiafelhasználási ismérvei, tesztelése, ellenőrzöttsége vagy annak eredménye.
+
+13. § (1) Az összehasonlító reklám
+
+- a) nem sértheti más vállalkozás vagy annak cégneve, áruja, árujelzője vagy egyéb megjelölése jó hírnevét,
+- b) nem vezethet összetévesztésre a reklámozó és az azonos vagy hasonló tevékenységet folytató más vállalkozás, illetve annak cégneve, áruja, árujelzője vagy egyéb megjelölése között,
+- c) nem vezethet más vállalkozás vagy annak cégneve, áruja, árujelzője vagy egyéb megjelölése jó hírnevéből adódó tisztességtelen előnyszerzésre, és
+- d) nem sértheti más vállalkozás áruja, illetve annak a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 6. §-ában rögzített jellemzői utánzásának tilalmát.
+
+(2) Az összehasonlító reklám
+
+- a) kizárólag azonos rendeltetésű vagy azonos szükségleteket kielégítő árukat hasonlíthat össze,
+- b) tárgyilagosan köteles összehasonlítani az áruk egy vagy több lényeges, meghatározó, jellemző és ellenőrizhető tulajdonságát,
+- c) ha tartalmazza az áruk árainak összehasonlítását, köteles azt tárgyilagosan bemutatni,
+- d) eredetmegjelöléssel rendelkező termékek összehasonlítása esetén kizárólag azonos eredetmegjelölésű termékekre vonatkozhat.
+
+(3) Jogszerű összehasonlító reklám esetében a védjegyjogosult kizárólagos használati joga alapján nem léphet fel védjegyének az összehasonlító reklámban történő – a célnak megfelelő módon megvalósuló – használatával szemben, feltéve, hogy a védjegy használata elengedhetetlen az összehasonlításhoz és nem haladja meg a feltétlenül szükséges mértéket.
 
 ### Az egyes áruk reklámozására és az azokkal összefüggésben történő szponzorálásra vonatkozó tilalmak és korlátozások
 
@@ -182,11 +146,10 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 
 (2) Tilos közzétenni alkoholtartalmú ital reklámját
 
-- a) sajtótermék első borítólapjának külső oldalán, illetve − honlap esetén − a nyitó oldalon,
-- b) színházban vagy moziban 20 óra előtt,
-- c) gyermek-, illetve fiatalkorúak számára készült műsorszámot közvetlenül megelőzően, annak teljes időtartama alatt és közvetlenül azt követően,
-- d) egyértelműen játék céljára szánt terméken és annak csomagolásán, vagy
-- e) köznevelési és egészségügyi intézményben, továbbá ilyen intézmény bármely bejáratától számított kétszáz méteres közúti, illetve közterületi távolságon belül szabadtéri reklámhordozón, kirakatban vagy közterületről egyébként látható helyen.
+- a) sajtótermék első borítólapjának külső oldalán, illetve – honlap esetén – a nyitó oldalon,
+- b) színházban vagy moziban 20 óra előtt, illetve gyermek-, illetve fiatalkorúak számára készült műsorszámot közvetlenül megelőzően, annak teljes időtartama alatt és közvetlenül azt követően,
+- c) egyértelműen játék céljára szánt terméken és annak csomagolásán, és
+- d) közoktatási és egészségügyi intézményben, továbbá ilyen intézmény bejáratától légvonalban mért kétszáz méteres távolságon belül szabadtéri reklámhordozón.
 
 19. § (1) Tilos a dohánytermék reklámja.
 
@@ -194,32 +157,27 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 
 - a) a dohányterméket közvetlenül nem jelöli meg, de a dohánytermékkel összefüggésbe hozható bármely más megjelölés vagy árujelző használatával alkalmas a dohánytermék reklámozására,
 - b) a dohányterméket más áru elnevezésével, megjelölésével vagy árujelzőjével mutatja be, vagy
-- c) más árut dohánytermék elnevezésével, megjelölésével vagy árujelzőjével mutat be,
-- d) az (5) bekezdésben meghatározott terméket jogszabály által biztosított felhatalmazás nélkül akként mutat be, hogy – különösen annak többszörös vagy kiemelt megjelenítésével – az adott termék(csoport) láthatóságát növeli, és e termék elnevezése vagy árujelzője dohánytermék elnevezésétől vagy árujelzőjétől egyértelműen nem különíthető el.
+- c) más árut dohánytermék elnevezésével, megjelölésével vagy árujelzőjével mutat be.
 
 (3) Nem minősül dohánytermék reklámjának az olyan áru reklámozása, amelynek elnevezése, megjelölése vagy árujelzője valamely dohánytermékével megegyezik, ha az áru elnevezése, megjelölése vagy árujelzője egyértelműen elkülöníthető a dohánytermékétől.
 
 (4) Nem kell alkalmazni az (1) bekezdésben foglalt tilalmat
 
 - a) a kizárólag a dohánytermék forgalmazóinak szóló szakmai célú reklámra,
-- b) arra a sajtótermékre, amelyet nem az Európai Gazdasági Térségről szóló megállapodásban részes államok (a továbbiakban: az Európai Gazdasági Térség államai) területén nyomtattak és adtak ki, és elsődlegesen nem az Európai Gazdasági Térség államainak területén való forgalmazásra állítottak elő.
+- b) arra a sajtótermékre, amelyet nem az Európai Gazdasági Térségről szóló megállapodásban részes államok (a továbbiakban: az Európai Gazdasági Térség államai) területén nyomtattak és adtak ki, és elsődlegesen nem az Európai Gazdasági Térség államainak területén való forgalmazásra állítottak elő,
+- c) az üzletben a dohánytermékek forgalmazására vonatkozó külön jogszabály szerint a dohánytermék forgalmazására szolgáló elkülönített helyen elhelyezett, kizárólag a dohányáru megnevezését, illetve árát megjelenítő olyan reklámra, amely dohánytermék-márkanevenként nem haladja meg az A/5 (148 x 210 mm) méretet, és összességében a dohánytermék forgalmazására szolgáló elkülönített hely dohánytermékhez való hozzáférés lehetőségét biztosító homlokzati felületének húsz százalékát, de legfeljebb üzletenként az A/1 (594 x 841 mm) méretet.
 
-(5) Ha jogszabály másként nem rendelkezik az (1)–(4) bekezdésben foglaltakat a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvényben meghatározott
+(5) A (4) bekezdés c) pontja szerinti reklámnak tartalmaznia kell az „A dohányzás súlyosan károsítja az Ön és a környezetében élők egészségét!” szövegű általános egészségvédő figyelmeztetést, valamint a cigaretta főfüst egységnyi mennyiségében lévő kátrány-, nikotin- és szén- monoxid-tartalom számszerű értékét. A figyelmeztetés szövegét és a kátrány-, nikotin- és szén-monoxid-tartalomra vonatkozó adatokat jól olvashatóan, jól látható helyen, vízszintesen nyomtatva, a háttérből kiemelve kell feltüntetni. A figyelmeztetés szövegének le kell fednie a reklám felületének legalább harminc százalékát.
 
-- a) dohányterméket kiegészítő termékek közül
-  - aa) a cigarettahüvelyre és cigarettapapírra,
-  - ab) a pipára és a vízipipára,
-  - ac) a dohánylevél-töltőre,
-- b) elektronikus cigarettára,
-- c) utántöltő flakonra, patronra, nikotinmentes utántöltő flakonra,
-- d) dohányzást imitáló elektronikus eszközre,
-- e) dohányzást helyettesítő nikotintartalmú termékre,
-- f) az új dohánytermék-kategóriák kiegészítő termékeire, valamint
-- g) a dohányzási célú gyógynövénytermékre
+(6) A (4) bekezdés c) pontja szerinti reklám
 
-is megfelelően alkalmazni kell.
-
-(6)
+- a) nem szólhat gyermek-, illetve fiatalkorúaknak,
+- b) nem mutathat be gyermek-, illetve fiatalkorút,
+- c) nem hívhat fel túlzott dohányfogyasztásra,
+- d) nem tüntetheti fel a dohányzást egészséges tevékenységként,
+- e) nem ábrázolhat dohányzó személyt,
+- f) nem használhatja fel ismert személyiség képét vagy nyilatkozatát, és
+- g) nem tartalmazhat mozgóképet, hang- vagy szaghatást.
 
 20. § (1) Nem nyújtható szponzorálás dohánytermékre vonatkozóan
 
@@ -232,10 +190,6 @@ is megfelelően alkalmazni kell.
 21. § (1) Tilos a gyermek-, illetve fiatalkorúak szerencsejátékban való részvételére felszólító reklám.
 
 (2) Tilos közzétenni szerencsejátékhoz kapcsolódó reklámot olyan sajtótermékben, amely alapvetően gyermek-, illetve fiatalkorúakhoz szól.
-
-(3) Tilos közzétenni olyan reklámot, amely a Szabályozott Tevékenységek Felügyeleti Hatósága engedélye nélkül szervezett szerencsejátékot népszerűsíti.
-
-(4) Tilos olyan reklámban szerepelni, amely a Szabályozott Tevékenységek Felügyeleti Hatósága engedélye nélkül Magyarország területén szervezett szerencsejátékot népszerűsít.
 
 22. § (1) Tilos közzétenni temetkezési szolgáltatás reklámját egészségügyi intézmény területén, épületének falán és kerítésén, valamint – az erre a célra kijelölt hely kivételével – temető területén. E korlátozás nem vonatkozik a temetkezési szolgáltatók nevét és telephelyének címét, elérhetőségét, valamint a nyújtott szolgáltatás teljeskörűségére utaló megjegyzést az egyes szolgáltatók megkülönböztetése nélkül, ábécésorrendben tartalmazó, az egészségügyi intézmény információs irodájában elhelyezett tájékoztatóra.
 
@@ -257,63 +211,63 @@ is megfelelően alkalmazni kell.
 
 (5) Az 5. § (4) bekezdésében meghatározott kötelezettség megsértéséért a reklám közzétevője felel.
 
-(6)
+(6) A 12. §-ban és a 13. §-ban foglalt rendelkezések megsértéséért a reklámszolgáltató, illetve a reklám közzétevője csak annyiban felel, amennyiben a jogsértés a reklám megjelenítési módjával összefüggő olyan okból ered, amely nem a reklámozó kifejezett utasítása végrehajtásának a következménye.
 
 (7) A 20. §-ban foglalt rendelkezések megsértéséért a szponzorálást nyújtó és a szponzorálást elfogadó vállalkozás egyaránt felelős.
 
-(8) A 21. § (4) bekezdésében foglalt rendelkezés megsértéséért a reklámban szerepet vállaló személy felelős.
-
 ### Eljárás a törvény rendelkezéseinek megsértése esetén
 
-24. § (1) A gazdasági reklámtevékenységre, továbbá a tiltott szponzorálásra vonatkozó rendelkezések megsértése esetén – a (4) bekezdésben foglalt kivétellel – a fogyasztóvédelmi hatóság vagy – a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) által felügyelt tevékenység reklámja és az erre vonatkozó magatartási kódex tekintetében – a Felügyelet jár el.
+24. § (1) A gazdasági reklámtevékenységre, továbbá a tiltott szponzorálásra vonatkozó rendelkezések megsértése esetén – a (2)–(4) bekezdésben foglalt kivétellel – a fogyasztóvédelmi hatóság vagy – a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény és az abban meghatározott törvények alapján a Pénzügyi Szervezetek Állami Felügyelete által felügyelt tevékenység reklámja és az erre vonatkozó magatartási kódex tekintetében – a Pénzügyi Szervezetek Állami Felügyelete jár el.
 
-(2) Az 5. § (1) bekezdésében és a 21. §-ban foglalt rendelkezések megsértése esetén fogyasztóvédelmi hatóságként a Szabályozott Tevékenységek Felügyeleti Hatósága jár el.
+(2) A 12. §-ban és a 13. §-ban foglaltakba ütköző reklám, valamint az e rendelkezésekbe ütköző magatartásra ösztönző magatartási kódex esetén a Gazdasági Versenyhivatal vagy a bíróság jár el a (3) bekezdésben meghatározottak szerint.
 
-(3)
+(3) A 12. §-ban és a 13. § (2) bekezdésében foglaltak megsértésének, valamint a magatartási kódex e rendelkezésekbe ütköző magatartásra ösztönző voltának megállapítása a Gazdasági Versenyhivatal, a 13. § (1) bekezdésében foglaltak megsértésének, valamint a magatartási kódex e rendelkezésekbe ütköző magatartásra ösztönző voltának megállapítása a bíróság hatáskörébe tartozik.
 
-(4) Az információs társadalommal összefüggő szolgáltatás és – a beszédcélú telefonhívás kivételével – elektronikus hírközlés útján megvalósuló reklám tekintetében a 6. §-ban foglalt rendelkezések megsértése esetén a Nemzeti Média- és Hírközlési Hatóság jár el az Ektv.-ben meghatározottak szerint.
+(4) Az információs társadalommal összefüggő szolgáltatás és – a beszédcélú telefonhívás kivételével – elektronikus hírközlés útján megvalósuló reklám tekintetében a 6. §-ban foglalt rendelkezések megsértése esetén a Nemzeti Hírközlési Hatóság jár el az Ektv.-ben meghatározottak szerint.
 
 (5) Az e törvény szerinti eljárás lefolytatása nem zárja ki azt, hogy a sérelmet szenvedett fél az e törvény rendelkezéseinek megsértésére alapított polgári jogi igényét közvetlenül a bíróság előtt érvényesítse.
 
-25. § Az eljárás a jogsértés bekövetkezését követő három éven túl nem indítható meg. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
+25. § Az eljárás a gazdasági reklámtevékenységre vonatkozó rendelkezéseket megsértő reklám közzétételét, a tiltott szponzorálást megvalósító rendezvény vagy tevékenység befejeztét, illetve a magatartási kódex jogsértő rendelkezése alkalmazásának megszűnését követő három éven túl nem indítható meg.
 
 26. § (1) A fogyasztóvédelmi hatóság eljárására az e törvényben meghatározott eltérésekkel a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) rendelkezéseit kell alkalmazni.
 
-(2) A dohánytermék reklámjára, valamint a dohánytermékkel összefüggő szponzorálásra vonatkozó rendelkezések megsértése miatti eljárásban a nemdohányzók védelmét ellátó egyesületet az ügyfél jogai illetik meg.
+(2) A dohánytermék reklámjára, valamint a dohánytermékkel összefüggő szponzorálásra vonatkozó rendelkezések megsértése miatti eljárásban a nemdohányzók védelmét ellátó társadalmi szervezetet az ügyfél jogai illetik meg.
 
 (3) Az eljáró hatóság ellenőrzése keretében kérheti az 5. § (3) bekezdése, valamint a 6. § (5) bekezdése szerinti nyilvántartás bemutatását.
 
-(4) E törvény rendelkezései – a 24. § (4) bekezdésében meghatározottak kivételével – az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
+(4) E törvény rendelkezései – a 24. § (2) és (4) bekezdésében meghatározottak kivételével – az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
-(5)
+(5) A műsorszolgáltatóval szemben kiszabott bírságot a Műsorszolgáltatási Alapba kell befizetni.
 
-26/A. § (1) A Felügyelet eljárására az e törvényben meghatározott eltérésekkel a Magyar Nemzeti Bankról szóló törvény rendelkezéseit kell alkalmazni.
+26/A. § (1) A Pénzügyi Szervezetek Állami Felügyelete eljárására az e törvényben meghatározott eltérésekkel a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény rendelkezéseit kell alkalmazni.
 
 (2) Az eljáró hatóság ellenőrzése keretében kérheti az 5. § (3) bekezdése, valamint a 6. § (5) bekezdése szerinti nyilvántartás bemutatását.
 
-#### 27. §
+27. § Az eljáró hatóság, illetve a bíróság a még közzé nem tett reklám közzétételét megtiltja, ha megállapítja, hogy a reklám – közzététele esetén – a gazdasági reklámtevékenységre vonatkozó rendelkezésbe ütközne. A közzététel megtiltása mellett bírság kiszabásának nincs helye.
 
-#### 28. §
+28. § (1) Ha a Gazdasági Versenyhivatal a 24. § (2) és (3) bekezdése, illetve a 31. § alapján jár el, eljárására a Tpvt.-nek a Tpvt. III. fejezetének rendelkezéseibe ütköző magatartásokkal szembeni eljárásra vonatkozó rendelkezéseit kell megfelelően alkalmazni a 29. § (1) bekezdésében, a 30. §-ban, továbbá a 27. §-ban foglalt eltérésekkel.
 
-#### 29. §
+(2) Ha a bíróság a 24. § (2) és (3) bekezdése alapján jár el, eljárására alkalmazni kell a Tpvt. 86–88. §-át, valamint a 29. § (2) bekezdésében, a 30. § (4) bekezdésében, továbbá a 27. §-ban foglalt rendelkezéseket is.
 
-#### 30. §
+29. § (1) A reklámozó az eljáró hatóság felhívására a reklám részét képező tényállítás valóságát igazolni köteles. Ha a reklámozó nem tesz eleget ennek a kötelezettségnek, úgy kell tekinteni, hogy a tényállítás nem felelt meg a valóságnak. Erre a reklámozót a hatóság felhívásában figyelmeztetni kell.
 
-#### 31. §
+(2) A bíróság a 24. § (3) és (5) bekezdése szerinti eljárásában a reklám részét képező tényállítás valóságának bizonyítása a reklámozót terheli.
 
-#### 32. §
+30. § (1) A Tpvt. 70. §-ának (1) bekezdésétől eltérően, a vizsgáló végzéssel vizsgálatot rendel el minden olyan esetben, amikor e törvény azon rendelkezéseinek megsértése valószínűsíthető, amelyek alkalmazása a Gazdasági Versenyhivatal hatáskörébe tartozik.
 
-#### 33. §
+(2) A Tpvt. 72. §-a (1) bekezdése c) pontjának alkalmazásával a 27. § szerinti intézkedés is elrendelhető.
 
-#### 34. §
+(3) A Tpvt. 75. §-a szerinti kötelezettségvállalás alkalmazásának akkor is helye lehet, ha az ügyfél a vizsgált magatartással időközben felhagyott. Ilyen esetben a magatartás megismétlésétől való tartózkodásra vállalható kötelezettség.
 
-#### 35. §
+(4) A Tpvt. 88/B. §-ának (1)–(6) bekezdését a 24. § (5) bekezdése szerinti perekben is megfelelően alkalmazni kell, ha a 24. § (3) bekezdése szerint az eljárás a Gazdasági Versenyhivatal hatáskörébe tartozna.
 
-#### 36. §
+31. § (1) A 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a 2006/114/EK európai parlamenti és tanácsi irányelvet átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében a Gazdasági Versenyhivatal látja el.
 
-#### 37. §
+(2) A kölcsönös jogsegély során a Gazdasági Versenyhivatal a – 2008/282/EK bizottsági határozattal módosított – 2007/76/EK bizottsági határozatnak megfelelően jár el.
 
-#### 38. §
+(3) Az igazságügyért felelős miniszter az általa vezetett minisztérium honlapján tájékoztató jelleggel közli a 2006/114/EK európai parlamenti és tanácsi irányelvet átültető jogszabályi rendelkezések felsorolását.
+
+32–38. §
 
 ### Záró rendelkezések
 
@@ -321,20 +275,22 @@ is megfelelően alkalmazni kell.
 
 (2) A 3. § a) pontja, az 5. § (4) bekezdése, a 19. §, a 23. § (5) bekezdése, valamint a 42. § 2009. március 1-jén lép hatályba.
 
-40. § A Magyarország 2016. évi központi költségvetésének megalapozásáról szóló 2015. évi LXXII. törvény (a továbbiakban: Módtv.) hatálybalépésekor fennálló szerződéseket legkésőbb 2015. szeptember 30-áig kell az e törvénynek a Módtv.-nyel megállapított rendelkezései szerint módosítani.
+40. §
 
-#### 41. §
+41–42. §
 
-#### 42. §
+43. §
 
-#### 43. §
-
-#### 44. §
+44. §
 
 45. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a)
+- a) az Európai Parlament és a Tanács 2006/114/EK irányelve (2006. december 12.) a megtévesztő és összehasonlító reklámról (kodifikált változat) [a 2. §, a 3. § d), g)–i) és r) pont, a 12. §, a 13. § (1) és (2) bek., a 23. § (3) és (6) bek., a 24. § (2) és (3) bek., és a 27–29. §, valamint a 30. § (1) és (4) bek.],
 - b) az Európai Parlament és a Tanács 2003/33/EK irányelve (2003. május 26.) a tagállamok dohánytermékek reklámozására és szponzorálására vonatkozó törvényi, rendeleti és közigazgatási rendelkezéseinek közelítéséről, az 5. cikk (2) bekezdése kivételével [a 3. § a) és p) pont, a 19. § (1) és (2) bek., (4) bek. a) és b) pont, a 20. §, a 23. § (7) bek. és a 26. § (2) bek.],
 - c) az Európai Parlament és a Tanács – a 97/36/EK és a 2007/65/EK irányelvekkel módosított – 89/552/EGK irányelve (1989. október 3.) a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról, 3e. cikk (1) bekezdés e) pontja és 15. cikk [a 18. § (1) bek.].
 
-(2) E törvény 8. § (5) bekezdése, 18. § (2) bekezdés d) pontja tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535. európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+(2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Gazdasági Versenyhivatal feladatkörében és eljárásában:
+
+- a) az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről, 4. cikk (1) és (6) bekezdés [a 28. § (1) bek., a 30. § (3) bek. és a 31. § (1) bek.],
+- b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról [a 31. § (2) bek.],
+- c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról [a 31. § (2) bek.].

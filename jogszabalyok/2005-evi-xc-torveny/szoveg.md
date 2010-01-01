@@ -26,7 +26,7 @@ Az Országgyűlés az Alkotmány 2. § (1) bekezdésében biztosított jogállam
 
 3. § (1) A 6. § szerinti közzétételi listákon meghatározott adatait saját honlapján – ha törvény másként nem rendelkezik – közzéteszi
 
-- a) a Köztársasági Elnök Hivatala, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, az Országgyűlési Biztos Hivatala, az Állami Számvevőszék, a Pénzügyi Szervezetek Állami Felügyelete, az Országos Igazságszolgáltatási Tanács Hivatala, a Legfőbb Ügyészség, a Magyar Tudományos Akadémia,
+- a) a Köztársasági Elnök Hivatala, az Országgyűlés Hivatala, az Alkotmánybíróság hivatala, az Országgyűlési Biztos Hivatala, az Állami Számvevőszék, az Országos Igazságszolgáltatási Tanács Hivatala, a Legfőbb Ügyészség, a Magyar Tudományos Akadémia,
 - b) a központi államigazgatási szerv a kormánybizottság kivételével, továbbá az országos kamara, valamint
 - c) a Kormány általános hatáskörű területi államigazgatási szerve.
 
@@ -62,7 +62,7 @@ Az Országgyűlés az Alkotmány 2. § (1) bekezdésében biztosított jogállam
 
 (3) A közfeladatot ellátó szerv vezetője – az adatvédelmi biztos véleményének kikérésével –, valamint jogszabály a közfeladatot ellátó szervre, azok irányítása, felügyelete alá tartozó szervekre vagy azok egy részére kiterjedő hatállyal további kötelezően közzéteendő adatkört határozhat meg (egyedi közzétételi lista).
 
-(4) A polgári nemzetbiztonsági szolgálatok által közzéteendő adatok körét a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter és a polgári hírszerzési tevékenység irányításáért felelős miniszter az adatvédelmi biztos véleményének előzetes kikérésével e törvénytől eltérően szabályozhatja.
+(4) A polgári nemzetbiztonsági szolgálatok által közzéteendő adatok körét a polgári nemzetbiztonsági szolgálatokat irányító miniszter az adatvédelmi biztos véleményének előzetes kikérésével e törvénytől eltérően szabályozhatja.
 
 (5) Testületi szervként működő közfeladatot ellátó szerv esetén az egyedi közzétételi lista megállapítása és módosítása – az adatvédelmi biztos véleményének kikérésével – a testület hatáskörébe tartozik.
 
@@ -74,9 +74,9 @@ Az Országgyűlés az Alkotmány 2. § (1) bekezdésében biztosított jogállam
 
 ### A közérdekű adatok központi elektronikus jegyzékeés az egységes közadatkereső rendszer
 
-7. § (1) Az elektronikusan közzétett adatok egyszerű és gyors elérhetősége érdekében a törvény hatálya alá tartozó szervek közérdekű adatokat tartalmazó honlapjaira, valamint az általuk fenntartott adatbázisokra, illetve nyilvántartásokra vonatkozó leíró adatokat az erre a célra létrehozott és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter által működtetett központi elektronikus jegyzék összesítve tartalmazza. A jegyzéket a működtető az erre a célra fenntartott honlapon közzéteszi.
+7. § (1) Az elektronikusan közzétett adatok egyszerű és gyors elérhetősége érdekében a törvény hatálya alá tartozó szervek közérdekű adatokat tartalmazó honlapjaira, valamint az általuk fenntartott adatbázisokra, illetve nyilvántartásokra vonatkozó leíró adatokat az erre a célra létrehozott és az informatikáért felelős miniszter által működtetett központi elektronikus jegyzék összesítve tartalmazza. A jegyzéket a működtető az erre a célra fenntartott honlapon közzéteszi.
 
-(2) Az e törvény hatálya alá tartozó szervek közérdekű adataihoz való egységes szempontok szerinti elektronikus hozzáférést és az adatok közötti keresés lehetőségét a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter által működtetett egységes közadatkereső rendszer biztosítja.
+(2) Az e törvény hatálya alá tartozó szervek közérdekű adataihoz való egységes szempontok szerinti elektronikus hozzáférést és az adatok közötti keresés lehetőségét az informatikáért felelős miniszter által működtetett egységes közadatkereső rendszer biztosítja.
 
 8. § (1) Az adatfelelős gondoskodik a kezelésében lévő, közérdekű adatokat tartalmazó honlapok, adatbázisok, illetve nyilvántartások leíró adatainak a központi elektronikus jegyzék működtetőjének történő továbbításáról és a továbbított adatok rendszeres frissítéséről. Ugyancsak felel az egységes közadatkereső rendszerbe továbbított közérdekű adatok tartalmáért és a továbbított adatok rendszeres frissítéséért is.
 
@@ -84,7 +84,41 @@ Az Országgyűlés az Alkotmány 2. § (1) bekezdésében biztosított jogállam
 
 ## HARMADIK RÉSZ — A JOGALKOTÁS NYILVÁNOSSÁGA
 
-9–10. §
+### A jogszabály-előkészítés nyilvánossága
+
+9. § (1) Közzé kell tenni a jogszabályt előkészítő miniszter által vezetett minisztérium, tárca nélküli miniszter esetén a Miniszterelnöki Hivatal (a továbbiakban együtt: minisztérium) honlapján az egyeztetés állapotának megjelölésével
+
+- a) a jogalkotásról szóló törvény, valamint a kormány ügyrendje alapján véleményezésre bocsátott jogszabályalkotásra irányuló koncepciókat, jogszabálytervezeteket,
+- b) a miniszteri rendeletek tervezeteit, valamint
+- c) az a)–b) pontban megjelölt tervezetekhez kapcsolódó előterjesztéseket vagy szakmai indokolásokat.
+
+(2) Ha az (1) bekezdés szerint közzétett törvénytervezet más törvény rendelkezéseinek legalább egyötöd terjedelmű módosítására irányul, a módosítani kívánt törvényt a honlapon a tervezett módosításokkal egységes szerkezetben, a tervezett módosításokat külön is megjelölve közzé kell tenni.
+
+(3) Nem kell közzétenni
+
+- a) az Alkotmány 28/C. § (5) bekezdése alapján országos népszavazásra nem bocsátható tartalmú,
+- b) a fizetési kötelezettségekről,
+- c) az ármegállapításról,
+- d) az állami támogatásról, valamint
+- e) a szervezetalapításról
+
+szóló jogszabályok tervezeteit.
+
+(4) Nem kell közzétenni a tervezetet, ha az a Magyar Köztársaság különösen fontos honvédelmi, nemzetbiztonsági, pénzügyi, külügyi, természetvédelmi vagy örökségvédelmi érdekeinek védelmét veszélyeztetné, vagy ha a jogszabály különösen gyors elfogadásához kiemelkedő társadalmi érdek fűződik.
+
+(5)
+
+(6) Az (1) bekezdés szerint közzétett jogszabálytervezet, valamint ahhoz kapcsolódó egyéb dokumentumok a jogszabály elfogadását követő egy évig a minisztérium honlapjáról nem távolíthatóak el. A szerv megszűnése esetén a közzététel kötelezettsége a szerv jogutódját terheli.
+
+(7) A közzétett jogszabálytervezetek elérhetőségét tartalmazó közös adatbázis a kormányzati portálon működik.
+
+10. § (1) A jogszabályok előkészítése során – a jogi szabályozás sokoldalú megalapozása és ezzel összefüggésben az önkéntes jogkövetés elősegítése érdekében – a jogszabály előkészítője a (2) bekezdés szerint biztosítja, hogy bárki véleményt nyilváníthasson, illetve javaslatokat tehessen a jogszabályok tervezetével kapcsolatban.
+
+(2) A minisztérium honlapján a vélemények, javaslatok fogadásának lehetőségét meg kell teremteni, továbbá meg kell jelölni a véleményadásra nyitva álló határidőt.
+
+(3) A véleményezési határidő a tervezet közzétételétől számított legalább tizenöt nap, sürgős esetben azonos a közigazgatási egyeztetés során megállapított határidővel.
+
+(4) A jogszabály előkészítője mérlegeli a véleményezők észrevételeit, és az észrevételekről, valamint az elutasított észrevételek esetében – a nyilvánvalóan alaptalan észrevételek kivételével – az elutasítás indokairól összefoglalót készít, amelyet honlapján közzétesz. Az előkészítőt egyedi válaszadási kötelezettség nem terheli.
 
 ### A törvényalkotás nyilvánossága
 
@@ -99,51 +133,45 @@ Az Országgyűlés az Alkotmány 2. § (1) bekezdésében biztosított jogállam
 
 (3) Az (1) bekezdés c) és d) pontja a zárt ülésen készült jegyzőkönyvekre nem alkalmazható.
 
-### Egyes jogi aktusok nyilvánossága
+### A jogszabályok és más jogi aktusok nyilvánossága
 
-12. § (1) A Magyar Közlöny kiadása során a Magyar Közlöny felelős szerkesztője az elektronikus dokumentumot minősített elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel látja el, amely e szolgáltatást minősített szolgáltatóként nyújtja. A Magyar Közlöny és a mellékleteként megjelenő külön sorozatának egyes lapszámain a megjelenés dátumát fel kell tüntetni, amely nem lehet korábbi, mint az időbélyegzőben szereplő naptári nap.
+12. § (1) A Magyar Közlönyt a kormányzati portálon történő, olyan elektronikus dokumentumként való közzététellel kell kiadni, amelyet a Magyar Közlöny felelős szerkesztője a minősített elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel lát el, amely e szolgáltatást minősített szolgáltatóként nyújtja. A Magyar Közlöny egyes lapszámain a megjelenés dátumát fel kell tüntetni, amely nem lehet korábbi, mint az időbélyegzőben szereplő naptári nap. Ha az időbélyegzőben szereplő naptári nap és a megjelenés dátuma egybeesik, az adott lapszámban kihirdetett, a kihirdetés napján hatályba lépő jogszabály hatálybalépésének időpontját a kihirdetés napjának órájában kell meghatározni.
 
 (2) Az (1) bekezdésben meghatározott elektronikus aláírás ellenőrzéséhez a felelős szerkesztő és a helyettesítésére jogosult személy aláírásaihoz tartozó nyilvános kulcsok a kormányzati portálnak a Magyar Közlöny közzétételére szolgáló oldalán érhetőek el.
 
-(3) A Magyar Közlöny a jogalkotásról szóló törvényben meghatározottak mellett tartalmazza
-
-- a) az Alkotmánybíróság azon határozatait és végzéseit, amelyeknek a Magyar Közlönyben való közzétételét az Alkotmánybíróság elrendelte,
-- b) a jogegységi határozatokat,
-- c) az Országos Választási Bizottság állásfoglalásait,
-- d) a minősített adatot tartalmazó, valamint az érintetteknek közvetlenül megküldött határozatok kivételével az Országgyűlés, a köztársasági elnök, a Kormány, a miniszterelnök és az Országos Választási Bizottság nem normatív határozatait, és
-- e) a miniszterek azon nem normatív határozatait, amelyeknek hivatalos lapban való közzétételét jogszabály elrendeli.
+(3) A Magyar Közlöny tartalmazza a helyi önkormányzat képviselő-testülete által alkotott rendeletek kivételével a jogszabályokat, az Alkotmánybíróság azon határozatait és végzéseit, amelyeknek a Magyar Közlönyben való közzétételét jogszabály vagy az Alkotmánybíróság elrendelte, a jogegységi határozatokat, az Országos Választási Bizottság állásfoglalásait, továbbá a 12/A. § szerinti mellékleteket.
 
 (4) A Magyar Közlöny közzétett számai a honlapról nem távolíthatóak el, azok archiválására az elektronikus archiválásról szóló jogszabály rendelkezéseit kell alkalmazni.
 
 (5) A szerkesztő a Magyar Közlöny oldalhű másolatát papíron megküldi a köztársasági elnöknek, az Országgyűlés elnökének, az Alkotmánybíróság elnökének, a Legfelsőbb Bíróság elnökének, az Országos Széchényi Könyvtárnak és az Országgyűlési Könyvtárnak.
 
-(6) A Magyar Közlöny oldalhű másolata papíron, illetve digitális adathordozón is terjeszthető.
+(6) A Magyar Közlöny oldalhű másolata papíron, illetve digitális adathordozón is terjeszthető azzal, hogy ha az (1) bekezdés szerint közzétett és a papíron, illetve digitális adathordozón terjesztett változat szövege egymástól eltér, az (1) bekezdés szerint közzétett változat szövegét kell hitelesnek tekinteni.
 
 (7) A Kormány által rendeletben kijelölt szerv kérelemre, igazgatási szolgáltatási díj ellenében a Magyar Közlönyről vagy annak egy részéről papírra oldalhű másolatot készít.
 
-12/A. § (1) A Hivatalos Értesítő a jogalkotásról szóló törvényben meghatározottak mellett tartalmazza azokat a közleményeket, amelyeknek a Magyar Közlönyben, illetve más hivatalos lapban való közzétételét jogszabály elrendeli vagy a közzététel kezdeményezésére jogszabály által feljogosított személy kezdeményezi.
+12/A. § (1) A Határozatok Tárát és a Hivatalos Értesítőt a Magyar Közlöny mellékleteként történő közzététellel, a 12. § alkalmazásával kell kiadni.
 
-(2)–(3)
+(2) A Határozatok Tára tartalmazza – a minősített adatot tartalmazó, valamint az érintetteknek közvetlenül megküldött határozatok kivételével – az Országgyűlés, a köztársasági elnök, a Kormány, a miniszterelnök és az Országos Választási Bizottság határozatait, valamint a miniszterek azon határozatait, amelyeknek hivatalos lapban való közzétételét jogszabály elrendeli vagy a miniszter kezdeményezi.
 
-(4) Az (1) bekezdést a 12. § (3) bekezdésében meghatározott jogi aktusokra, valamint a Közbeszerzési Értesítőben, a Cégközlönyben és a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában közzétenni rendelt közleményekre nem kell alkalmazni.
+(3) A Hivatalos Értesítő tartalmazza a jogalkotásról szóló törvény szerinti utasítások és jogi iránymutatások szövegét, valamint azokat a közleményeket, amelyeknek a Magyar Közlönyben, illetve más hivatalos lapban való közzétételét jogszabály elrendeli vagy miniszter, illetve a közzététel kezdeményezésére jogszabály által kötelezett személy kezdeményezi.
 
-13. § (1) A 12–12/A. §-ban nem említett hivatalos lapokat a minisztérium, az autonóm államigazgatási szerv, a Pénzügyi Szervezetek Állami Felügyelete és a kormányhivatal a honlapján történő közzététellel adja ki.
+(4) A (3) bekezdést a 12. § (3) bekezdésében és a 12/A. § (2) bekezdésében meghatározott jogi aktusokra, valamint a Közbeszerzési Értesítőben, a Cégközlönyben és a Magyar Szabadalmi Hivatal hivatalos lapjában közzétenni rendelt közleményekre nem kell alkalmazni.
 
-(2) Az (1) bekezdésben meghatározott hivatalos lapban jogszabály, közjogi szervezetszabályozó eszköz és olyan közlemény tehető közzé,
+13. § (1) A 12–12/A. §-ban nem említett hivatalos lapokat a minisztérium, az autonóm államigazgatási szerv és a kormányhivatal a honlapján történő közzététellel adja ki.
 
-- a) amely megjelent a Magyar Közlönyben,
-- b) amelynek az (1) bekezdésben meghatározott hivatalos lapban történő megjelenését jogszabály elrendeli, vagy
-- c) amely a minisztérium, az autonóm államigazgatási szerv, a kormányhivatal, illetve a miniszter által irányított központi államigazgatási szerv munkája szempontjából fontos.
+(2) Az (1) bekezdésben meghatározott hivatalos lapban olyan közlemény tehető közzé, amely a Magyar Közlönyben megjelent.
 
-(3) Egy központi államigazgatási szerv az (1) bekezdés alapján több hivatalos lapot is kiadhat, ha azt ágazati jellege indokolja.
+(3) Egy központi államigazgatási szerv az (1) bekezdés alapján egy hivatalos lapot adhat ki.
 
 (4) Az (1) bekezdésben meghatározott hivatalos lap oldalhű másolata nyomtatott formában akkor terjeszthető, ha a tárgyévet megelőző év június 30-án a lap a központi költségvetéshez tartozó szerveken kívüli előfizetőinek száma a külön jogszabályban meghatározott számot meghaladja.
 
 (5) Az (1) bekezdés szerint kiadott lap az azt kiadó szerv honlapjáról nem távolítható el. A szerv megszűnése esetén a közzététel kötelezettsége a szerv jogutódját terheli.
 
-13/A. §
+13/A. § (1) A Törvények és Rendeletek Hivatalos Gyűjteményét és a Hatályos Jogszabályok Gyűjteményét azok szerkesztőjének legalább fokozott biztonságú elektronikus aláírásával ellátott, elektronikus dokumentumként a kormányzati portálon való közzététellel kell kiadni.
 
-14. § (1) A Hatályos Jogszabályok Elektronikus Gyűjteményében (a továbbiakban: jogszabálygyűjtemény) a kormányzati tevékenység összehangolásáért felelős miniszter és az igazságügyért felelős miniszter gondoskodik
+(2) A Törvények és Rendeletek Hivatalos Gyűjteménye és a Hatályos Jogszabályok Gyűjteménye digitális adathordozón is terjeszthető.
+
+14. § (1) A Hatályos Jogszabályok Elektronikus Gyűjteményében (a továbbiakban: jogszabálygyűjtemény) a Miniszterelnöki Hivatalt vezető miniszter és az igazságügyért felelős miniszter gondoskodik
 
 - a) az önkormányzati rendeletek kivételével az adott naptári napon hatályos valamennyi jogszabály hatályos szövegének az esetleges módosításokkal egységes szerkezetben, továbbá
 - b) az állami irányítás a Magyar Közlönyben közzétett egyéb jogi eszköze hatályos szövegének az esetleges módosításokkal egységes szerkezetben
@@ -152,9 +180,9 @@ történő közzétételéről.
 
 (2) A jogszabálygyűjtemény biztosítja a jogszabályok, illetve az állami irányítás egyéb jogi eszközei számára, címére, valamint szövegében történő keresés lehetőségét.
 
-15. § (1) A helyi önkormányzat jegyzője az önkormányzat rendeletét annak kiadmányozását követően haladéktalanul, elektronikusan, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerven keresztül a helyi önkormányzatok törvényességi ellenőrzéséért felelős miniszternek megküldi.
+15. § (1) A helyi önkormányzat jegyzője az önkormányzat rendeletét annak kiadmányozását követően haladéktalanul, elektronikusan, a Kormány által rendeletben kijelölt szerven keresztül a helyi önkormányzatokért felelős miniszternek megküldi.
 
-(2) A helyi önkormányzatok törvényességi ellenőrzéséért felelős miniszter gondoskodik az önkormányzati rendeleteknek az erre a célra fenntartott honlapon történő közzétételéről.
+(2) A helyi önkormányzatokért felelős miniszter gondoskodik az önkormányzati rendeleteknek az erre a célra fenntartott honlapon történő közzétételéről.
 
 ## NEGYEDIK RÉSZ — A BÍRÓSÁGI HATÁROZATOK NYILVÁNOSSÁGA
 
@@ -187,14 +215,14 @@ történő közzétételéről.
 - a) az állami vagy helyi önkormányzati feladatot, valamint jogszabályban meghatározott egyéb közfeladatot ellátó szerv és – ha törvény kivételt nem tesz – az e minőségében eljáró személy családi és utónevét, illetve neveit (a továbbiakban együtt: nevét), továbbá beosztását, ha az adott személy az eljárásban közfeladatának ellátásával összefüggésben vett részt;
 - b) a meghatalmazottként vagy védőként eljárt ügyvéd nevét;
 - c) az alperesként pervesztes természetes személy nevét, továbbá jogi személy vagy jogi személyiséggel nem rendelkező szervezet nevét és székhelyét, amennyiben a határozatot olyan ügyben hozták, amelyben jogszabály alapján közérdekű igényérvényesítésnek helye van;
-- d) az egyesület vagy alapítvány nevét, székhelyét és képviselőjének nevét;
+- d) a társadalmi szervezet vagy alapítvány nevét, székhelyét és képviselőjének nevét;
 - e) a közérdekből nyilvános adatokat.
 
 (3) Amennyiben a nyilvánosságot a tárgyalás egészéről vagy egy részéről kizárták, és a nyilvánosság kizárását megalapozó, törvényben meghatározott érdek védelme másképpen nem biztosítható, a határozat egyes részeinek vagy a határozat egészének a gyűjteményben való megjelentetését mellőzni, illetve a közzétett határozat egyes részeit vagy a határozat egészét a gyűjteményből törölni kell.
 
 (4) Egy részében vagy egészében zárt tárgyalás alapján hozott határozatnak a gyűjteményből való törlését vagy a közzététel mellőzését polgári eljárásban a fél, büntetőeljárásban a sértett kérheti. A kérelmet az érintett legkésőbb a határozat közzétételét követő egy évig az Országos Igazságszolgáltatási Tanács Hivatalának vezetőjéhez terjesztheti elő, aki haladéktalanul, de legkésőbb a kérelem kézhezvételétől számított öt munkanapon belül gondoskodik a kérelem teljesítéséről.
 
-(5) A minősített adat védelmét a bírósági határozatok közzétételekor is biztosítani kell.
+(5) Az állam- és a szolgálati titok védelmét a bírósági határozatok közzétételekor is biztosítani kell.
 
 (6) A határozat szövegében az e §-ban meghatározottakon túl további szerkesztés nem végezhető.
 
@@ -208,6 +236,8 @@ történő közzétételéről.
 
 (3) A működtető biztosítja, hogy a gyűjteményben a határozatok szövegére és a megjelölt jogszabályhelyekre keresni lehessen.
 
+[20/A. § Az e törvényben megjelölt bírósági határozatoknak a gyűjteményben történő közzétételén túl – külön törvényben meghatározottak szerint – a bíróság közzéteszi a Pp. XXVI. fejezete szerinti vállalkozások egymás közötti pereiben meghozott jogerős ítélet rendelkező részét, illetve a pert befejező egyéb jogerős határozat rendelkező részét.]
+
 ## ÖTÖDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
 ### Hatálybalépés
@@ -216,7 +246,7 @@ történő közzétételéről.
 
 (2) E törvény negyedik része 2007. július 1-jén lép hatályba.
 
-(3)
+(3) E törvény rendelkezéseit a megyei önkormányzatok és az 50 000-nél nagyobb lakónépességű városok vonatkozásában 2007. január 1-jétől, az egyéb helyi önkormányzatok, továbbá az egyéb közfeladatot ellátó szervek vonatkozásában legkésőbb 2008. július 1-jétől kell alkalmazni.
 
 ### Felhatalmazó rendelkezések
 
@@ -229,11 +259,11 @@ történő közzétételéről.
 (2) Felhatalmazást kap
 
 - a) az ágazati miniszter, hogy rendeletben adja ki a 6. § (2) bekezdésében foglalt különös közzétételi listát,
-- b) a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter, hogy rendeletben állapítsa meg a közzétételi listákon szereplő adatok közzétételéhez szükséges közzétételi mintákat,
-- c) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy rendeletben állapítsa meg az irányítása alá tartozó polgári nemzetbiztonsági szolgálatok által közzéteendő adatok körét,
-- d) az igazságügyért felelős miniszter, hogy az Országos Igazságszolgáltatási Tanács véleményének kikérésével rendeletben határozza meg az e törvény alapján közzétett bírósági határozatoknak a gyűjteményben történő megjelölésének szabályait,
-- e) a kormányzati tevékenység összehangolásáért felelős miniszter, hogy az előfizetőknek a 13. § (4) bekezdése szerinti számát rendeletben állapítsa meg,
-- f) a kormányzati tevékenység összehangolásáért felelős miniszter, hogy a 12. § (7) bekezdésében meghatározott igazgatási szolgáltatási díjat rendeletben állapítsa meg.
+- b) az informatikáért felelős miniszter, hogy rendeletben állapítsa meg a közzétételi listákon szereplő adatok közzétételéhez szükséges közzétételi mintákat,
+- c) a polgári nemzetbiztonsági szolgálatokat irányító miniszter, hogy rendeletben állapítsa meg a polgári nemzetbiztonsági szolgálatok által közzéteendő adatok körét,
+- d) az igazságügyért felelős miniszter, hogy az Országos Igazságszolgáltatási Tanáccsal egyetértésben rendeletben határozza meg az e törvény alapján közzétett bírósági határozatoknak a gyűjteményben történő megjelölésének szabályait,
+- e) a Miniszterelnöki Hivatalt vezető miniszter, hogy az előfizetőknek a 13. § (4) bekezdése szerinti számát rendeletben állapítsa meg,
+- f) a Miniszterelnöki Hivatalt vezető miniszter, hogy a 12. § (7) bekezdésében meghatározott igazgatási szolgáltatási díjat rendeletben állapítsa meg.
 
 ### Az Európai Unió jogának való megfelelés
 

@@ -8,7 +8,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 1. § (1) E törvényt kell alkalmazni
 
-- a) az elektronikus aláírással kapcsolatos szolgáltatást végző természetes, illetve jogi személyre vagy jogi személyiség nélküli szervezetre;
+- a) az elektronikus aláírással kapcsolatos szolgáltatást végző természetes, illetve jogi személyre vagy jogi személyiség nélküli szervezetre, gazdálkodó szervezetre;
 - b) az elektronikus aláírással kapcsolatos szolgáltatást igénybe vevő, illetőleg elektronikus aláírást felhasználó természetes, illetve jogi személyre vagy jogi személyiség nélküli szervezetre;
 - c) az elektronikus aláírással kapcsolatos szolgáltatásra és az elektronikus aláírás felhasználásának egyes kérdéseire.
 
@@ -21,9 +21,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 - 1. Aláírás-létrehozó adat: olyan egyedi adat (jellemzően kriptográfiai magánkulcs), melyet az aláíró az elektronikus aláírás létrehozásához használ.
 - 2. Aláírás-ellenőrző adat: olyan egyedi adat (jellemzően kriptográfiai nyilvános kulcs), melyet az elektronikusan aláírt elektronikus dokumentumot megismerő személy az elektronikus aláírás ellenőrzésére használ.
 - 3. Aláírás-létrehozó eszköz: olyan hardver, illetve szoftver eszköz, melynek segítségével az aláíró az aláírás-létrehozó adatok felhasználásával az elektronikus aláírást létrehozza.
-- 4. Aláíró: a) a természetes személy, aki az aláírás-létrehozó eszközt birtokolja vagy aki a szolgáltató által üzemeltetett aláírás-létrehozó eszközön lévő aláírás-létrehozó adathoz kizárólagosan hozzáfér, és a saját vagy más személy nevében aláírásra jogosult,
-  - b) a jogi személy vagy közhiteles nyilvántartásban szereplő jogi személyiség nélküli szervezet, amely az aláírás-létrehozó eszközt birtokolja vagy aki a szolgáltató által üzemeltetett aláírás-létrehozó eszközön lévő aláírás-létrehozó adathoz kizárólagosan hozzáfér, és akinek a nevében az őt képviselő természetes személy az elektronikus aláírást az elektronikus dokumentumon elhelyezi, valamint
-  - c) aki meghatározza, hogy a nevében jogszabályban meghatározott feltételeknek megfelelő informatikai eszköz elektronikus aláírást elektronikusan dokumentumon elhelyezzen.
+- 4. Aláíró: Az a természetes személy, aki az aláírás-létrehozó eszközt birtokolja és a saját vagy más személy nevében aláírásra jogosult.
 - 5. Biztonságos aláírás-létrehozó eszköz: az e törvény 1. számú mellékletében foglalt követelményeknek eleget tevő aláírás-létrehozó eszköz.
 - 6. Elektronikus aláírás: elektronikusan aláírt elektronikus dokumentumhoz azonosítás céljából logikailag hozzárendelt vagy azzal elválaszthatatlanul összekapcsolt elektronikus adat.
 - 7. Elektronikus aláírás ellenőrzése: az elektronikusan aláírt elektronikus dokumentum aláíráskori, illetve ellenőrzéskori tartalmának összevetése, továbbá az aláíró személyének azonosítása a dokumentumon szereplő, illetve a hitelesítés-szolgáltató által közzétett aláírás-ellenőrző adat, tanúsítvány visszavonási információk, valamint a tanúsítvány felhasználásával.
@@ -58,7 +56,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 3. § (1) Elektronikus aláírás, illetve dokumentum elfogadását – beleértve a bizonyítási eszközként történő alkalmazást – megtagadni, jognyilatkozat tételére, illetve joghatás kiváltására való alkalmasságát kétségbe vonni – a (2) bekezdés szerinti korlátozással – nem lehet kizárólag amiatt, hogy az aláírás, illetve dokumentum elektronikus formában létezik.
 
-(2) A Polgári Törvénykönyvben szabályozott családjogi, élettársi kapcsolati, valamint öröklésjogi jogviszonyokban nem lehet az elektronikus formán kívüli dokumentumokat mellőzve, csak elektronikus aláírást felhasználni, illetve elektronikusan aláírt elektronikus dokumentumot készíteni.
+(2) A Magyar Köztársaság Polgári Törvénykönyvének 598–684. §-aiban szereplő, illetve a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény szerinti jogviszonyokban nem lehet az elektronikus formán kívüli dokumentumokat mellőzve, csak elektronikus aláírást felhasználni, illetve elektronikusan aláírt elektronikus dokumentumot készíteni.
 
 (3) A bírósági eljárások különböző típusaiban – az (1) bekezdésben előírt, bizonyítási eszközkénti felhasználáson túlmenően – eljárási cselekményeket akkor lehet az elektronikus formán kívüli dokumentumokat mellőzve, csak elektronikusan aláírt elektronikus dokumentum, illetve elektronikus aláírás használatával foganatosítani, ha ezt az eljárás-típusra vonatkozó jogszabály kifejezetten lehetővé teszi.
 
@@ -68,7 +66,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (6) A kormány a közigazgatási hatósági eljárásokban és szolgáltatásokban felhasználható elektronikus aláírásokra, az elektronikus aláíráshoz tartozó tanúsítványokra, illetve az azokkal összefüggésben nyújtott elektronikus aláírással kapcsolatos szolgáltatásokra rendeletben – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglalt rendelkezések érvényesítése érdekében – sajátos követelményeket írhat elő.
 
-(7) Az adókötelezettség teljesítésének módját megállapító törvény, a bírósági cégeljárás szabályait megállapító törvény, a jogügyletek biztonságának erősítéséről szóló törvénymódosításokról szóló törvény és a pénzügyi közvetítőrendszer felügyeletét ellátó szerv részére történő adatszolgáltatás teljesítésének módját megállapító jogszabály kivételével jogszabály nem teheti kötelezővé az elektronikus aláírás felhasználását az ügyfél részére.
+(7) Jogszabály – az adókötelezettség teljesítésének módját megállapító törvény, a bírósági cégeljárás szabályait megállapító törvény és a jogügyletek biztonságának erősítéséről szóló törvénymódosításokról szóló törvény és a Pénzügyi Szervezetek Állami Felügyelete részére történő adatszolgáltatás teljesítésének módját megállapító jogszabály kivételével – nem teheti elektronikus aláírás felhasználását ügyfél részére kötelezővé.
 
 (8) Minősített tanúsítványt bármely – a (3)–(4) bekezdés szerinti – bírósági vagy államigazgatási eljárásban el kell fogadni.
 
@@ -78,7 +76,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (2) Ha az elektronikusan aláírt elektronikus dokumentumon minősített elektronikus aláírás szerepel és az aláírás ellenőrzésének eredményéből más nem következik, vélelmezni kell, hogy a dokumentum tartalma az aláírás óta nem változott.
 
-(3)
+(3) A fokozott biztonságú, illetve minősített elektronikus aláírással ellátott elektronikusan aláírt elektronikus dokumentum kinyomtatott változatához nem fűződnek az ugyanezen dokumentum elektronikus változatának bizonyító ereje tekintetében előírt szabályok.
 
 (4) Amennyiben az elektronikus aláírási termék rendelkezik az informatikáért felelős miniszter (a továbbiakban: miniszter) által kijelölt, illetve a laboratóriumok, a tanúsító és ellenőrző szervezetek akkreditálásáról szóló 1995. évi XXIX. törvény szerinti szakmai akkreditáló bizottságok által akkreditált és tanúsításra jogosult szervezetek, illetőleg a 7. § (3) bekezdése szerinti tanúsító szervezet által kiadott igazolással, az ellenkező bizonyításáig vélelmezni kell, hogy az elektronikus aláírási termék biztonságos, továbbá megfelel az igazolásban megjelölt egyéb követelményeknek.
 
@@ -109,9 +107,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (5) A (4) bekezdés szerinti felelősségvállalás úgy is történhet, hogy a belföldi hitelesítés-szolgáltató tanúsítványt bocsát a külföldi hitelesítés-szolgáltató rendelkezésére (a továbbiakban: felülhitelesítés), melyet a külföldi hitelesítés-szolgáltató a saját maga által kibocsátott tanúsítványhoz csatolhat.
 
-(6) A hitelesítés-szolgáltató a felelősségvállalást vagy a felülhitelesítést haladéktalanul köteles bejelenteni a Nemzeti Média- és Hírközlési Hatóságnak (a továbbiakban: Hatóság), amely jegyzéket tesz közzé a felelősségvállalások tényéről, módjáról, korlátairól és az azokkal érintett külföldi hitelesítés-szolgáltatókról, valamint arról, hogy a felelősséget vállaló belföldi hitelesítésszolgáltató a 7. § (1) bekezdés vagy a 8. § (1) bekezdés rendelkezéseinek felel-e meg.
-
-(6a) A Hatóság által a (6) bekezdés alapján vezetett jegyzék – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(6) A hitelesítés-szolgáltató a felelősségvállalást, illetőleg felülhitelesítést haladéktalanul köteles bejelenteni a Nemzeti Hírközlési Hatóságnak (a továbbiakban: Hatóság), amely jegyzéket tesz közzé a felelősségvállalások tényéről, módjáról, korlátairól és az azokkal érintett külföldi hitelesítés-szolgáltatókról, valamint arról, hogy a felelősséget vállaló belföldi hitelesítés-szolgáltató a 7. § (1) bekezdés vagy a 8. § (1) bekezdés rendelkezéseinek felel-e meg.
 
 (7) Az (1)–(2) bekezdésben foglaltakon kívüli külföldi székhelyű hitelesítés-szolgáltató által hitelesített tanúsítványhoz a 3. § (1) bekezdése szerinti jogkövetkezmények fűződnek.
 
@@ -208,18 +204,13 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (8) A hitelesítés-szolgáltató tevékenységi köréből csak az új tanúsítvány kibocsátást szüneteltetheti.
 
-10. § (1) Elektronikus aláírás tanúsítványa kibocsátható olyan céllal is, hogy az az aláírót más személy (szervezet) képviseletében történő aláírásra jogosítsa fel. Ebben az esetben a hitelesítés-szolgáltatás igénybe vevőjére vonatkozó szabályokat a képviselőre kell alkalmazni.
+10. § (1) Elektronikus aláírás tanúsítványa kibocsátható olyan céllal is, hogy az az aláírót más személy (szervezet) képviseletében történő aláírásra jogosítsa fel. Ebben az esetben a hitelesítés-szolgáltatás igénybevevőjére, illetve az aláíróra vonatkozó szabályokat a képviselőre kell alkalmazni.
 
 (2) Az (1) bekezdés szerinti tanúsítvány akkor bocsátható ki, ha a képviseleti jogosultságot igazolják. A képviseleti jogosultság meglétét a hitelesítés-szolgáltató köteles ellenőrizni. A kibocsátásról a képviselt személyt (szervezetet) haladéktalanul tájékoztatni kell.
 
 (3) A képviseleti jogosultság megszűnése esetén a képviselt, illetve a képviselő személy (szervezet) kérelmére a hitelesítés-szolgáltató köteles a jogosultság tényét feltüntető tanúsítványt visszavonni.
 
 (4) Az (1) bekezdés szerinti tanúsítványban kizárólag a képviselt hozzájárulása esetén tüntethető fel álnév.
-
-10/A. § Elektronikus aláírás tanúsítványa – beleértve a minősített tanúsítványt is – kibocsátható az alábbi célokra is:
-
-- a) az aláíró természetes személy az elektronikus aláírást jogszabályban meghatározott feltételeknek megfelelő informatikai eszköz útján automatikusan, közvetlen személyi felügyelet nélkül helyezi el az aláíróhoz rendelendő elektronikus dokumentumon,
-- b) az aláíró jogi személy vagy más jogi személyiség nélküli szervezet az elektronikus aláírást jogszabályban meghatározott feltételeknek megfelelő informatikai eszköz útján automatikusan, közvetlen személyi felügyelet nélkül helyezi el az aláíróhoz rendelendő elektronikus dokumentumon.
 
 ### A hitelesítés-szolgáltató adatkezelése
 
@@ -251,13 +242,13 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (2) Ha az aláíró elmulasztotta teljesíteni az (1) bekezdés szerinti kötelezettségét, az ebből eredő kárért felel.
 
-(3) Az aláíró, illetve a 10. § szerinti képviselt személy, szervezet kérheti a tanúsítvány visszavonását, illetve ha a hitelesítésszolgáltató ennek lehetőségét biztosítja, a tanúsítvány felfüggesztését.
+(3) Az aláíró, illetve a 10. § szerinti képviselt személy (szervezet) kérheti a tanúsítvány felfüggesztését, illetve visszavonását.
 
-(4) Az aláíró az aláírás-létrehozó adatot kizárólag az aláírás létrehozására használhatja, betartva a tanúsítványban jelzett esetleges egyéb korlátozásokat is. A minősített tanúsítvány felhasználható fokozott biztonságú elektronikus aláírás létrehozására is.
+(4) Az aláíró az aláírás-létrehozó adatot kizárólag az aláírás létrehozására használhatja, betartva a tanúsítványban jelzett esetleges egyéb korlátozásokat is.
 
 ### A tanúsítvány érvényességének felfüggesztése, illetve visszavonása a szolgáltató részéről
 
-14. § (1) Ha a hitelesítésszolgáltató a szolgáltatás kapcsán biztosítja a tanúsítvány felfüggesztésének lehetőségét, a tanúsítvány érvényességét felfüggeszti és ezt nyilvántartásában haladéktalanul közzéteszi, ha
+14. § (1) A hitelesítés-szolgáltató felfüggeszti a tanúsítvány érvényességét és ezt nyilvántartásában haladéktalanul közzéteszi, ha
 
 - a) az aláíró, illetve a képviselt személy (szervezet) kéri;
 - b) a szolgáltatással kapcsolatos – jogszabályban, a szolgáltatási szabályzatban vagy az általános szerződési feltételekben meghatározott – rendellenességről szerez tudomást;
@@ -279,7 +270,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 ### A hitelesítés-szolgáltató felelőssége
 
-15. § (1) A hitelesítés-szolgáltató a vele szerződéses jogviszonyban nem álló harmadik személlyel szemben a Polgári Törvénykönyv általános felelősségi szabálya szerint, az aláíróval szemben pedig a szerződésszegésért való felelősség szabályai szerint felelős a minősített elektronikus aláírással vagy időbélyegzővel, illetve az ezzel ellátott elektronikusan aláírt elektronikus dokumentummal okozott kárért, ha a 7. § (2) bekezdésében, illetve a 9–11. §-ban vagy a 14. §-ban foglaltakat megszegte. E szabályok megtartását kétség esetén a szolgáltatónak kell bizonyítania.
+15. § (1) A hitelesítés-szolgáltató a vele szerződéses jogviszonyban nem álló harmadik személlyel szemben a Magyar Köztársaság Polgári Törvénykönyvéről szóló 1959. évi IV. törvény 339. §-a szerint, az aláíróval szemben pedig a szerződésszegésért való felelősség szabályai szerint felelős a minősített elektronikus aláírással vagy időbélyegzővel, illetve az ezzel ellátott elektronikusan aláírt elektronikus dokumentummal okozott kárért, ha a 7. § (2) bekezdésében, illetve a 9–11. §-okban vagy a 14. §-ban foglaltakat megszegte. E szabályok megtartását kétség esetén a szolgáltatónak kell bizonyítania.
 
 (2) A 9. § (2) bekezdése szerinti korlátokat meghaladó ügyletekben kibocsátott és aláírt elektronikus dokumentumból származó követelésekért, illetve az így okozott kárért a hitelesítés-szolgáltató nem felel.
 
@@ -355,7 +346,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 ### Az archiválási szolgáltató adatkezelése
 
-16/K. § A szolgáltatási szerződést oly módon kell megkötni, hogy a szerződés tartalma az elektronikusan aláírt elektronikus dokumentumokban szereplő személyes adatok vonatkozásában kielégítse az információs önrendelkezési jogról és az információszabadságról szóló törvény által az adatfeldolgozás vonatkozásában meghatározott feltételeket.
+16/K. § A szolgáltatási szerződést oly módon kell megkötni, hogy a szerződés tartalma az elektronikusan aláírt elektronikus dokumentumokban szereplő személyes adatok vonatkozásában kielégítse a személyes adatok védelméről szóló törvény által az adatfeldolgozás vonatkozásában meghatározott feltételeket.
 
 ### Az igénybe vevő kötelezettségei
 
@@ -383,32 +374,28 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 17. § (1) A Hatóság
 
-- a) nyilvántartásba veszi a 7. § (1) bekezdése, illetve a 8. § (1) bekezdése szerinti szolgáltatókat, a 7. § (5) bekezdése szerinti személyeket (szervezeteket);
+- a) nyilvántartásba veszi a 7. § (1) bekezdése, illetve a 8. § (1) bekezdése szerinti szolgáltatókat, a 7. § (2) bekezdése szerinti személyeket (szervezeteket);
 - b) a szolgáltatók működésének időtartama alatt vizsgálja, illetőleg ellenőrzi, hogy a szolgáltatók megfelelnek-e az e törvény, a felhatalmazása alapján kiadott jogszabályok, a szolgáltatási szabályzat, illetve az általános szerződési feltételek előírásainak;
 - c) a b) pontban foglalt követelmények nem teljesítése esetén a 21–23. § szerinti intézkedéseket és szankciókat alkalmazza;
 - d) nyilvántartásokat vezet, és ezeket közcélú távközlő hálózatok segítségével bárki számára hozzáférhető és folyamatosan elérhető módon közzéteszi.
-
-(1a) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A Hatóság eljárásaira a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényt kell alkalmazni.
 
 (3)
 
-(4) A Hatóság ügyintézési határideje negyvenöt nap.
+(4) A Hatóság az érdemi döntést a kérelem előterjesztésétől számított 45 munkanapon belül köteles meghozni.
 
-(5) A Hatóság Hivatalának első fokú határozata ellen a Hatóság elnökéhez lehet fellebbezni.
+(5) A Nemzeti Hírközlési Hatóság Hivatalának elsőfokú határozata ellen a Hatóság Tanácsának elnökéhez lehet fellebbezni.
 
 (6) A Hatóság eljárása során szakértőként igazságügyi szakértőt, vagy elektronikus aláírás szolgáltatási szakértőt is igénybe vehet.
 
-(7) A Hatóságnak a nyilvántartással kapcsolatos tevékenységéért igazgatási szolgáltatási díjat kell fizetni, amely a Hatóság bevételét képezi.
+(7) A Hatóságnak a nyilvántartással kapcsolatos tevékenységéért igazgatási szolgáltatási díjat kell fizetni, mely a Hatóság bevételét képezi. Az e törvény szerinti bírságok a központi költségvetés bevételét képezik.
 
 17/A. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály elektronikus aláírási szolgáltatási szakértő igénybevételét írja elő, vagy e szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll az elektronikus aláírási szolgáltatási szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, rendelkezik az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
 (2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a Hatóságnak bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
 (3) A Hatóság a szakértői tevékenység végzésére jogosult, (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
-
-(3a) A (3) bekezdés szerinti nyilvántartás az engedélyezett szakértői tevékenység tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (4) A Hatóság az elektronikus aláírási szolgáltatási szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű-e, és nem áll-e a szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a Hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint, hogy az elektronikus aláírási szolgáltatási szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
@@ -420,16 +407,14 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 ### Nyilvántartások
 
-19. § (1) A Hatóság nyilvántartást vezet és tesz közzé
+19. § A Hatóság nyilvántartást vezet és tesz közzé
 
 - a) a 7. § (1) bekezdése alapján bejelentett szolgáltatókról, amely tartalmazza a szolgáltató nevét, székhelyét (lakóhelyét, telephelyét, működési helyét), az általa végzett szolgáltatás megjelölését, valamint azt a tényt, hogy a szolgáltató az adott szolgáltatás vonatkozásában minősített szolgáltató, továbbá az általa szolgáltatott aláírás-létrehozó eszköz azonosító jelét és jogszabályban meghatározott egyéb adatokat;
-- b) a 7. § (5) bekezdése szerinti aláírás-létrehozó eszközökről és egyéb elektronikus aláírási termékekről, amelyeknek a nyilvántartásba vétellel egyidejűleg azonosító jelet is ad;
-- c) a fokozott biztonságú, illetve minősített elektronikus aláírás előállításához felhasználható aláírás-létrehozó eszköz és egyéb elektronikus aláírási termék tanúsítására kijelölt szervezetekről, amely tartalmazza a szervezet nevét, elérhetőségét, szakterületét, valamint jogszabályban meghatározott egyéb adatokat;
-- d) a minősített hitelesítés-szolgáltató által kibocsátott hitelesítési és időbélyegzési rend megnevezéséről, amelyeknek a nyilvántartásba vétellel egyidejűleg azonosító jelet is ad;
+- b) a 7. § (2) bekezdése szerinti aláírás-létrehozó eszközökről és egyéb elektronikus aláírási termékekről, melyeknek a nyilvántartásba vétellel egyidejűleg azonosító jelet is ad;
+- c) a fokozott biztonságú, illetve minősített elektronikus aláírás előállításához felhasználható aláírás-létrehozó eszköz és egyéb elektronikus aláírási termék tanúsítására kijelölt szervezetekről, mely tartalmazza a szervezet nevét, elérhetőségét, szakterületét, valamint jogszabályban meghatározott egyéb adatokat;
+- d) a minősített hitelesítés-szolgáltató által kibocsátott hitelesítési és időbélyegzési rend megnevezéséről, melyeknek a nyilvántartásba vétellel egyidejűleg azonosító jelet is ad;
 - e) a 16/B. § szerinti önkéntes akkreditációs rendszerekről és az azok működtetéséért felelős szervezetekről, amely tartalmazza az önkéntes akkreditációs rendszer elnevezését, a működtetésért felelős személy vagy szervezet nevét és székhelyét (lakóhelyét, telephelyét vagy működési helyét);
 - f) a 16/B. § szerinti önkéntes akkreditációs rendszerek keretében tanúsított szolgáltatókról, amely tartalmazza a tanúsított szolgáltató nevét, székhelyét (lakóhelyét, telephelyét, működési helyét), a tanúsító önkéntes akkreditációs rendszer elnevezését és a tanúsítás érvényességi időtartamát.
-
-(2) Az (1) bekezdés b), c), e) és f) pontjában foglalt nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 ### A szolgáltatók ellenőrzése, intézkedések
 
@@ -437,7 +422,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (2)
 
-(3) A Hatóság a szolgáltatás nyújtásának megkezdését követő harminc napon belül a minősített szolgáltatónál felügyeleti ellenőrzést végez a következő területeken:
+(3) A Hatóság a szolgáltatás nyújtásának megkezdését követő 22 munkanapon belül a minősített szolgáltatónál felügyeleti ellenőrzést végez a következő területeken:
 
 - a) a technikai, biztonsági és egyéb működési feltételek, illetve személyi feltételek – így különösen a büntetlen előéletre, a szolgáltatás végzését kizáró foglalkozástól eltiltás hiányára és a szakképzettségre vonatkozó feltételek – megléte és folyamatos biztosítása;
 - b) a működés jogszabályoknak és a hitelesítési rendnek, időbélyegzési rendnek, szolgáltatási szabályzatnak, továbbá az általános szerződési feltételeknek való megfelelése.
@@ -495,8 +480,6 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (2) A kijelölt, illetőleg a laboratóriumok, a tanúsító és az ellenőrző szervezetek akkreditálásáról szóló 1995. évi XXIX. törvény szerinti szakmai akkreditáló bizottságok által az (1) bekezdés szerinti tevékenységre akkreditált szervezeteket a Hatóság nyilvántartásba veszi.
 
-(2a) A (2) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
-
 (3) Tanúsító szervezet az aláíró eszközök és az egyéb elektronikus aláírási termékek tanúsítását külső befolyástól mentesen köteles végezni.
 
 (4) A kijelölést, illetve az akkreditációt vissza kell vonni és a tanúsító szervezeteket törölni kell a nyilvántartásból, ha nem rendelkeznek a szükséges feltételekkel, vagy ha a tanúsító szervezet nem a jogszabályoknak megfelelően végzi tevékenységét. Ha a Hatóság a (2) bekezdés szerinti szervezet tekintetében észleli e jelenségeket, jelzéssel él a kijelölő miniszter, illetőleg a szakmai akkreditáló bizottság felé.
@@ -512,7 +495,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 26. § (1) Ez a törvény – a (2)–(3) bekezdésben foglaltak kivételével – a kihirdetését követő harmadik hónap első napján lép hatályba, rendelkezéseit a hatálybalépését követően keletkezett elektronikusan aláírt elektronikus dokumentumokra és az ezeken szereplő elektronikus aláírásokra kell alkalmazni. A 3. § (1) bekezdését és az 5. § (7) bekezdését a hatálybalépését megelőzően keletkezett elektronikusan aláírt elektronikus dokumentumokra és aláírásokra is alkalmazni kell.
 
-(2) A 4. § (4) bekezdésében a 7. § (3) bekezdésére való hivatkozás, az 5. § (1) bekezdésének c) pontja, az 5. § (2) bekezdése, az 5. § (7) bekezdésében az 5. § (2) bekezdésére való hivatkozás, valamint a 7. § (3) bekezdése a 2003. évi uniós csatlakozási szerződést kihirdető törvény hatálybalépésével egyidejűleg lép hatályba.
+(2) A 4. § (4) bekezdésében a 7. § (3) bekezdésére való hivatkozás, az 5. § (1) bekezdésének c) pontja, az 5. § (2) bekezdése, az 5. § (7) bekezdésében az 5. § (2) bekezdésére való hivatkozás, valamint a 7. § (3) bekezdése a Magyar Köztársaságnak az Európai Unióhoz való csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésével egyidejűleg lép hatályba.
 
 (3) A 27. § (2) bekezdésének b) pontja a kihirdetést követő 8. napon lép hatályba.
 
@@ -526,7 +509,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 - a) az elektronikus aláírással kapcsolatos szolgáltatásokra és ezek szolgáltatóira vonatkozó részletes követelményeket;
 - b) a fokozott biztonságú, illetve minősített elektronikus aláírás előállításához felhasználható aláírás-létrehozó eszköz és egyéb elektronikus aláírási termék minősítésére jogosult tanúsító szervezetekre, illetve kijelölésükre vonatkozó szabályokat;
 - c) a Hatóságnak e törvény alapján járó igazgatási szolgáltatási díjak mértékét, az adópolitikáért felelős miniszterrel egyetértésben;
-- d) az e-közigazgatásért felelős miniszterrel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel, a köziratok kezelésének szakmai irányításáért felelős miniszterrel, az igazságügyért felelős miniszterrel és a kultúráért felelős miniszterrel egyetértésben a 4. § (8) bekezdése szerinti elektronikus úton történő másolat készítésének szabályait;
+- d) a közigazgatási informatikáért felelős miniszterrel, a köziratok kezelésének szakmai irányításáért felelős miniszterrel, az igazságügyért felelős miniszterrel és a kultúráért felelős miniszterrel egyetértésben a 4. § (8) bekezdése szerinti elektronikus úton történő másolat készítésének szabályait;
 - e) az e törvény szerinti elektronikus aláírási szolgáltatási szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket.
 
 (3) Felhatalmazást kapnak a miniszterek, hogy az informatikáért felelős miniszterrel egyetértésben a hatáskörükkel érintett ágazat tekintetében rendelettel szabályozzák
@@ -534,7 +517,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 - a) azoknak a jogviszonyoknak a körét, melyekkel kapcsolatos államigazgatási eljárásokban mód van kizárólag elektronikusan aláírt elektronikus dokumentumok használatára;
 - b) az elektronikusan aláírt elektronikus dokumentumok és elektronikus aláírás alkalmazásával történő ügyintézés sajátos szabályait.
 
-(4)
+(4) Felhatalmazást kap a közigazgatási informatikáért felelős miniszter, hogy rendelettel szabályozza a kormányzati elektronikus aláírás-rendszer megvalósítására és üzemeltetésére vonatkozó részletes követelményeket.
 
 (5) Felhatalmazást kapnak a helyi önkormányzatok, hogy rendeletben szabályozzák azoknak a lakossági szolgáltatásoknak a körét, illetve azoknak az államigazgatási eljárásoknak a körét, amelyekben – az eljárásra irányadó magasabb szintű jogszabályban foglaltak figyelembevételével – illetékességi körükben lehetőséget adnak a kizárólag elektronikusan aláírt elektronikus dokumentumokkal történő ügyintézésre.
 
@@ -568,7 +551,7 @@ a) annak megjelölését, hogy a tanúsítvány minősített tanúsítvány,
 
 b) a hitelesítés-szolgáltató és székhelyének (ország-) azonosítóját,
 
-c) az aláíró nevét (jogi személy vagy jogi személyiség nélküli szervezet esetében elnevezését) vagy egy álnevet, ennek jelzésével,
+c) az aláíró nevét vagy egy álnevet, ennek jelzésével,
 
 d) az aláírónak külön jogszabályban, illetve a szolgáltatási szabályzatban, illetőleg az általános szerződési feltételekben meghatározott speciális jellemzőit, a tanúsítvány szándékolt felhasználásától függően,
 

@@ -40,15 +40,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 7. § (1) A Magyar Köztársaság jogrendszere elfogadja a nemzetközi jog általánosan elismert szabályait, biztosítja továbbá a vállalt nemzetközi jogi kötelezettségek és a belső jog összhangját.
 
-(2)
-
-7/A. § (1) Általánosan kötelező magatartási szabályt az Alkotmányban megjelölt, jogalkotó hatáskörrel rendelkező szerv által kiadott jogszabály állapíthat meg.
-
-(2) Jogszabály a törvény, a kormányrendelet, a Magyar Nemzeti Bank elnökének rendelete, a miniszterelnöki rendelet, a miniszteri rendelet, a Pénzügyi Szervezetek Állami Felügyelete elnökének rendelete, a Nemzeti Média- és Hírközlési Hatóság elnökének rendelete és az önkormányzati rendelet. Jogszabály továbbá a Honvédelmi Tanács rendkívüli állapot idején és a köztársasági elnök szükségállapot idején kibocsátott rendelete.
-
-(3) A jogszabályt a Magyar Köztársaság hivatalos lapjában ki kell hirdetni. Az önkormányzati rendelet, a Honvédelmi Tanács, a köztársasági elnök és a Kormány 35. § (3) bekezdés szerinti rendelete kihirdetésének szabályait a jelenlévő országgyűlési képviselők kétharmadának szavazatával elfogadott törvény eltérően is megállapíthatja.
-
-(4) A jogalkotásról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
+(2) A jogalkotás rendjét törvény szabályozza, amelynek elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
 8. § (1) A Magyar Köztársaság elismeri az ember sérthetetlen és elidegeníthetetlen alapvető jogait, ezek tiszteletben tartása és védelme az állam elsőrendű kötelessége.
 
@@ -70,7 +62,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 12. § (1) Az állam támogatja az önkéntes társuláson alapuló szövetkezeteket, elismeri a szövetkezetek önállóságát.
 
-(2) Helyi önkormányzati tulajdonnak az állam vagy helyi önkormányzat részére történő ingyenes átadásáról törvény rendelkezhet.
+(2) Az állam tiszteletben tartja az önkormányzatok tulajdonát.
 
 13. § (1) A Magyar Köztársaság biztosítja a tulajdonhoz való jogot.
 
@@ -169,7 +161,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (4) Az országgyűlési képviselőt a függetlenségét biztosító javadalmazás illeti meg. Az országgyűlési képviselők javadalmazásáról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
-(5) A képviselő nem lehet köztársasági elnök, az Alkotmánybíróság tagja, az állampolgári jogok országgyűlési biztosa, az Állami Számvevőszék elnöke, alelnöke és számvevője, bíró, ügyész, közigazgatási szerv alkalmazottja – a Kormány tagja, az államtitkár és a kormánymegbízott kivételével –, továbbá a Magyar Honvédség és a rendvédelmi szervek hivatásos állományú tagja. Törvény az összeférhetetlenség egyéb eseteit is megállapíthatja.
+(5) A képviselő nem lehet köztársasági elnök, az Alkotmánybíróság tagja, az állampolgári jogok országgyűlési biztosa, az Állami Számvevőszék elnöke, alelnöke és számvevője, bíró, ügyész, közigazgatási szerv alkalmazottja – a Kormány tagja és az államtitkár kivételével –, továbbá a Magyar Honvédség és a rendvédelmi szervek hivatásos állományú tagja. Törvény az összeférhetetlenség egyéb eseteit is megállapíthatja.
 
 (6) Az országgyűlési képviselők jogállásáról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
@@ -211,7 +203,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (4) Az Országgyűlés a jelenlévő országgyűlési képviselők kétharmadának szavazatával elfogadott Házszabályban állapítja meg működésének szabályait és tárgyalási rendjét.
 
-(5) A Magyarország Alaptörvénye (a továbbiakban: Alaptörvény) végrehajtásához szükséges törvényeket az Országgyűlés az Alaptörvényben meghatározott szavazataránnyal fogadja el.
+(5)
 
 25. § (1) Törvényt a köztársasági elnök, a Kormány, minden országgyűlési bizottság és bármely országgyűlési képviselő kezdeményezhet.
 
@@ -219,19 +211,19 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (3) Az Országgyűlés által elfogadott törvényt az Országgyűlés elnöke aláírja, majd megküldi a köztársasági elnöknek.
 
-26. § (1) A köztársasági elnök a megküldött törvényt annak kézhezvételétől számított tizenöt napon – az Országgyűlés elnökének sürgősségi kérelmére öt napon – belül aláírja, és elrendeli annak kihirdetését.
+26. § (1) A törvény kihirdetéséről, annak kézhezvételétől számított tizenöt napon — az Országgyűlés elnökének sürgősségi kérelmére öt napon — belül a köztársasági elnök gondoskodik. A kihirdetésre megküldött törvényt aláírja. A törvényt a hivatalos lapban ki kell hirdetni.
 
 (2) Ha a köztársasági elnök a törvénnyel vagy annak valamelyik rendelkezésével nem ért egyet, azt aláírás előtt az (1) bekezdésben említett határidőn belül megfontolás végett, észrevételeinek közlésével visszaküldheti az Országgyűlésnek.
 
-(3) Az Országgyűlés a törvényt újra megtárgyalja és elfogadásáról ismét határoz. Az Országgyűlés elnöke által ezt követően megküldött törvényt a köztársasági elnök öt napon belül köteles aláírni és elrendelni annak kihirdetését.
+(3) Az Országgyűlés a törvényt újra megtárgyalja, és elfogadásáról ismét határoz. Az Országgyűlés elnöke által ezt követően megküldött törvényt a köztársasági elnök köteles aláírni és öt napon belül kihirdetni.
 
 (4) A köztársasági elnök a törvényt aláírás előtt az (1) bekezdésben említett határidőn belül véleményezésre megküldi az Alkotmánybíróságnak, ha annak valamelyik rendelkezését alkotmányellenesnek tartja.
 
-(5) Ha az Alkotmánybíróság – soron kívüli eljárásban – az alkotmányellenességet megállapítja, a köztársasági elnök a törvényt az Országgyűlésnek visszaküldi, egyébként öt napon belül köteles a törvényt aláírni és elrendelni annak kihirdetését.
+(5) Ha az Alkotmánybíróság — soron kívüli eljárásban — az alkotmányellenességet megállapítja, a köztársasági elnök a törvényt az Országgyűlésnek visszaküldi, egyébként köteles a törvényt aláírni és öt napon belül kihirdetni.
 
 (6) A népszavazásra bocsátott törvényt a köztársasági elnök csak akkor írja alá, ha azt a népszavazás megerősítette.
 
-27. § Az Országgyűlés tagjai az állampolgári, valamint a nemzeti és etnikai kisebbségi jogok országgyűlési biztosaihoz, az Állami Számvevőszék elnökéhez, a legfőbb ügyészhez és a Magyar Nemzeti Bank elnökéhez kérdést, a Kormányhoz és a Kormány bármely tagjához interpellációt és kérdést intézhetnek a feladatkörükbe tartozó minden ügyben.
+27. § Az Országgyűlés tagjai az állampolgári, valamint a nemzeti és etnikai kisebbségi jogok országgyűlési biztosaihoz, az Állami Számvevőszék elnökéhez és a Magyar Nemzeti Bank elnökéhez kérdést, a Kormányhoz, a Kormány bármely tagjához és a legfőbb ügyészhez interpellációt és kérdést intézhetnek a feladatkörükbe tartozó minden ügyben.
 
 28. § (1) Az Országgyűlés megbízatása az alakuló ülésével kezdődik.
 
@@ -333,7 +325,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 - f) javaslatot tehet az Országgyűlésnek intézkedés megtételére,
 - g) népszavazást kezdeményezhet,
 - h)
-- i) külön törvényben meghatározott személy vagy szervek javaslatára kinevezi és felmenti a Magyar Nemzeti Bank elnökét, alelnökeit, a Pénzügyi Szervezetek Állami Felügyeletének elnökét és az egyetemi tanárokat; megbízza és felmenti az egyetemek rektorait; kinevezi és előlépteti a tábornokokat; megerősíti tisztségében a Magyar Tudományos Akadémia elnökét,
+- i) külön törvényben meghatározott személy vagy szervek javaslatára kinevezi és felmenti a Magyar Nemzeti Bank elnökét, alelnökeit és az egyetemi tanárokat; megbízza és felmenti az egyetemek rektorait; kinevezi és előlépteti a tábornokokat; megerősíti tisztségében a Magyar Tudományos Akadémia elnökét,
 - j) adományozza a törvényben meghatározott címeket, érdemrendeket, kitüntetéseket és engedélyezi viselésüket,
 - k) gyakorolja az egyéni kegyelmezés jogát,
 - l) dönt az állampolgársági ügyekben,
@@ -380,19 +372,17 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 ### IV. Fejezet — AZ ALKOTMÁNYBÍRÓSÁG
 
-32/A. § (1) Az Alkotmánybíróság az Alkotmányban meghatározott esetek kivételével felülvizsgálja a jogszabályok alkotmányosságát, illetőleg ellátja a törvénnyel hatáskörébe utalt feladatokat.
+32/A. § (1) Az Alkotmánybíróság felülvizsgálja a jogszabályok alkotmányosságát, illetőleg ellátja a törvénnyel hatáskörébe utalt feladatokat.
 
-(2) A költségvetésről, a költségvetés végrehajtásáról, a központi adónemekről, illetékekről és járulékokról, a vámokról, valamint a helyi adók központi feltételeiről szóló törvényeket az Alkotmánybíróság akkor vizsgálhatja felül, ha az erre irányuló indítvány az alkotmányellenesség okaként kizárólag az élethez és emberi méltósághoz való jog, a személyes adatok védelméhez való jog, a gondolat, lelkiismeret és vallás szabadsága, vagy a magyar állampolgársághoz kapcsolódó 69. § szerinti jogok sérelmét jelöli meg, és nem tartalmaz egyéb okot.
+(2) Az Alkotmánybíróság alkotmányellenesség megállapítása esetén megsemmisíti a törvényeket és más jogszabályokat.
 
-(3) Az Alkotmánybíróság alkotmányellenesség megállapítása esetén megsemmisíti a törvényeket és más jogszabályokat. A költségvetésről, a költségvetés végrehajtásáról, a központi adónemekről, illetékekről és járulékokról, a vámokról, valamint a helyi adók központi feltételeiről szóló törvényeket az Alkotmánybíróság akkor semmisíti meg, ha azok tartalma az élethez és emberi méltósághoz való jogot, a személyes adatok védelméhez való jogot, a gondolat, lelkiismeret és vallás szabadságát, vagy a magyar állampolgársághoz kapcsolódó 69. § szerinti jogokat sérti.
+(3) Az Alkotmánybíróság eljárását törvényben meghatározott esetekben bárki kezdeményezheti.
 
-(4) Az Alkotmánybíróság eljárását törvényben meghatározott esetekben bárki kezdeményezheti.
+(4) Az Alkotmánybíróság tizenegy tagját az Országgyűlés választja. Az Alkotmánybíróság tagjaira az Országgyűlésben képviselettel rendelkező pártok képviselőcsoportjainak egy-egy tagjából álló jelölőbizottság tesz javaslatot. Az Alkotmánybíróság tagjainak megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
 
-(5) Az Alkotmánybíróság tizenöt tagját az Országgyűlés választja. Az Alkotmánybíróság tagjaira – a képviselőcsoportok közötti létszámarányokat is figyelembe véve – az Országgyűlésben képviselettel rendelkező pártok képviselőcsoportjainak tagjaiból álló jelölő bizottság tesz javaslatot. Az Alkotmánybíróság tagjainak megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
+(5) Az Alkotmánybíróság tagjai nem lehetnek tagjai pártnak, és az Alkotmánybíróság hatásköréből adódó feladatokon kívül politikai tevékenységet nem folytathatnak.
 
-(6) Az Alkotmánybíróság tagjai nem lehetnek tagjai pártnak, és az Alkotmánybíróság hatásköréből adódó feladatokon kívül politikai tevékenységet nem folytathatnak.
-
-(7) Az Alkotmánybíróság szervezetéről és működéséről szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
+(6) Az Alkotmánybíróság szervezetéről és működéséről szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
 ### V. Fejezet — AZ ÁLLAMPOLGÁRI JOGOK ORSZÁGGYŰLÉSI BIZTOSA ÉS A NEMZETI ÉS ETNIKAI KISEBBSÉGI JOGOK ORSZÁGGYŰLÉSI BIZTOSA
 
@@ -426,7 +416,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (3) A Magyar Nemzeti Bank elnöke a bank tevékenységéről évente beszámol az Országgyűlésnek.
 
-(4) A Magyar Nemzeti Bank elnöke külön törvényben meghatározott feladatkörében rendeletet bocsát ki, amely törvénnyel nem lehet ellentétes. A Magyar Nemzeti Bank elnökét rendelet kiadásában az általa rendeletben kijelölt alelnök helyettesítheti.
+(4) A Magyar Nemzeti Bank elnöke külön törvényben meghatározott feladatkörében rendeletet bocsát ki, amely törvénnyel nem lehet ellentétes. A rendeletet a hivatalos lapban ki kell hirdetni.
 
 ### VII. Fejezet — A KORMÁNY
 
@@ -435,7 +425,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 - a) a miniszterelnökből és
 - b) a miniszterekből áll.
 
-(2) A miniszterelnök a miniszterek közül rendeletben miniszterelnök-helyettest jelöl ki.
+(2) A miniszterelnököt az általa kijelölt miniszter helyettesíti.
 
 (3) A miniszterelnököt a köztársasági elnök javaslatára az Országgyűlés tagjai többségének szavazatával választja. A miniszterelnök megválasztásáról, továbbá a Kormány programjának elfogadásáról az Országgyűlés egyszerre határoz.
 
@@ -481,7 +471,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 - l) ellátja mindazokat a feladatokat, amelyeket törvény a hatáskörébe utal;
 - m) a megelőző védelmi helyzet kihirdetésének kezdeményezését követően a közigazgatás, a Magyar Honvédség és a rendvédelmi szervek működését érintő törvényektől eltérő intézkedéseket vezethet be; az így bevezetett intézkedések hatálya az Országgyűlés döntéséig, de legfeljebb 60 napig tart, azokról a Kormány a köztársasági elnököt és az Országgyűlés illetékes bizottságait folyamatosan tájékoztatja.
 
-(2) A Kormány a feladatkörében rendeletet bocsát ki és határozatot hoz, amelyek törvénnyel nem lehetnek ellentétesek.
+(2) A Kormány a maga feladatkörében rendeleteket bocsát ki, és határozatokat hoz. Ezeket a miniszterelnök írja alá. A Kormány rendelete és határozata törvénnyel nem lehet ellentétes. A Kormány rendeleteit a hivatalos lapban ki kell hirdetni.
 
 (3) Veszélyhelyzetben és megelőző védelmi helyzetben a Kormány az Országgyűlés felhatalmazása alapján egyes törvények rendelkezéseitől eltérő rendeleteket és intézkedéseket hozhat. A veszélyhelyzetben és a megelőző védelmi helyzetben alkalmazható szabályokról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
@@ -497,13 +487,13 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (2) A miniszterek a jogszabályok rendelkezéseinek és a Kormány határozatainak megfelelően vezetik az államigazgatásnak feladatkörükbe tartozó ágait, és irányítják az alájuk rendelt szerveket. A tárca nélküli miniszterek ellátják a Kormány által meghatározott feladataikat.
 
-(3) A Kormány tagja törvényben vagy kormányrendeletben kapott felhatalmazás alapján feladatkörében eljárva, önállóan vagy más miniszter egyetértésével rendeletet ad ki, amely törvénnyel és kormányrendelettel nem lehet ellentétes.
+(3) A Kormány tagjai törvényben vagy kormányrendeletben kapott felhatalmazás alapján feladatkörükben eljárva rendeletet adnak ki, amelyek törvénnyel és kormányrendelettel nem lehetnek ellentétesek. A rendeleteket a hivatalos lapban ki kell hirdetni.
 
 38. §
 
 39. § (1) Működéséért a Kormány az Országgyűlésnek felelős. Munkájáról az Országgyűlésnek rendszeresen köteles beszámolni.
 
-(2) A Kormány tagjai a Kormánynak és az Országgyűlésnek felelősek, tevékenységükről kötelesek a Kormánynak és az Országgyűlésnek beszámolni. A Kormány tagjai, az államtitkárok és a kormánymegbízottak jogállását, díjazását, továbbá felelősségre vonásuk módját törvény szabályozza.
+(2) A Kormány tagjai a Kormánynak és az Országgyűlésnek felelősek, tevékenységükről kötelesek a Kormánynak és az Országgyűlésnek beszámolni. A Kormány tagjai és az államtitkárok jogállását, díjazását, továbbá felelősségre vonásuk módját törvény szabályozza.
 
 (3) A Kormány tagjai részt vehetnek és felszólalhatnak az Országgyűlés ülésein.
 
@@ -521,13 +511,13 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 39/C. § (1) Ha a miniszterelnök megbízatása az újonnan megválasztott Országgyűlés megalakulásával vagy a miniszterelnök, illetőleg a Kormány lemondásával szűnt meg, a miniszterelnök az új miniszterelnök megválasztásáig ügyvezető miniszterelnökként gyakorolja a hatáskörét, de új miniszter kinevezésére, illetőleg miniszter felmentésére javaslatot nem tehet, és rendeletet csak törvény kifejezett felhatalmazása alapján halaszthatatlan esetben alkothat.
 
-(2) Ha a miniszterelnök megbízatása halála, választójogának elvesztése, illetőleg összeférhetetlenségének megállapítása miatt szűnik meg, az új miniszterelnök megválasztásáig a miniszterelnök hatáskörét – az (1) bekezdésben írt korlátozásokkal – a miniszterelnök-helyettes gyakorolja; több miniszterelnök-helyettes esetén pedig az első helyen kijelölt miniszterelnök-helyettes.
+(2) Ha a miniszterelnök megbízatása halála, választójogának elvesztése, illetőleg összeférhetetlenségének megállapítása miatt szűnik meg, az új miniszterelnök megválasztásáig az a miniszter gyakorolja – az (1) bekezdésben írt korlátozásokkal – a miniszterelnök hatáskörét, akit a miniszterelnök a helyettesítésére kijelölt; ha pedig több miniszter lett kijelölve, az első helyen kijelölt miniszter.
 
 40. § (1) A Kormány meghatározott feladatkörök ellátására kormánybizottságokat alakíthat.
 
-(2) A Kormány jogosult az államigazgatás bármely ágát közvetlenül felügyelete alá vonni, és erre külön szerveket létesíteni.
+(2)
 
-(3) A minisztériumok és a Kormány alá rendelt szervek alkalmazottainak jogállását, díjazását, továbbá felelősségre vonásuk módját külön törvény szabályozza.
+(3) A Kormány jogosult az államigazgatás bármely ágát közvetlenül felügyelete alá vonni, és erre külön szerveket létesíteni.
 
 ### VIII. Fejezet — A Magyar Honvédség és egyes rendvédelmi szervek
 
@@ -545,33 +535,13 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (3) A Magyar Honvédség irányítására – ha nemzetközi szerződés másként nem rendelkezik – az Alkotmányban meghatározott keretek között kizárólag az Országgyűlés, a köztársasági elnök, a Honvédelmi Tanács, a Kormány és az illetékes miniszter jogosult.
 
-(4) A Magyar Honvédség, a Rendőrség és a nemzetbiztonsági szolgálatok hivatásos állományú tagjai nem lehetnek tagjai pártnak, politikai tevékenységet nem folytathatnak, továbbá szolgálati jogviszonyuk fennállása alatt és annak megszűnését vagy megszüntetését követő három évig nem indulhatnak jelöltként az országgyűlési képviselők választásán, az európai parlamenti választáson, a helyi önkormányzati képviselők és a polgármesterek, valamint a kisebbségi önkormányzati képviselők választásán.
+(4) A Magyar Honvédség, a Rendőrség és a nemzetbiztonsági szolgálatok hivatásos állományú tagjai nem lehetnek tagjai pártnak, és politikai tevékenységet nem folytathatnak.
 
 (5) A Magyar Honvédség nem hivatásos katonai állományú tagjának pártban való tevékenységére a jelenlévő országgyűlési képviselők kétharmadának szavazatával elfogadott törvény korlátokat állapíthat meg.
 
 40/C. § (1) A Kormány engedélyezi a Magyar Honvédség, illetve külföldi fegyveres erők 19. § (3) bekezdés j) pontja szerinti, az Európai Unió vagy az Észak-Atlanti Szerződés Szervezete döntésén alapuló alkalmazását, valamint más csapatmozgásait.
 
 (2) A Kormány az (1) bekezdés alapján, valamint a Magyar Honvédség békefenntartásban való részvételének vagy a külföldi hadműveleti területen végzett humanitárius tevékenységének engedélyezése tárgyában hozott döntéséről haladéktalanul beszámol az Országgyűlésnek a köztársasági elnök egyidejű tájékoztatása mellett.
-
-### VIII/A. Fejezet — A Pénzügyi Szervezetek Állami Felügyelete
-
-40/D. § (1) A Pénzügyi Szervezetek Állami Felügyelete a Magyar Köztársaság pénzügyi közvetítő rendszert felügyelő, ellenőrző és szabályozó szerve. A Pénzügyi Szervezetek Állami Felügyelete törvényben meghatározott módon felelős a pénzügyi közvetítő rendszer zavartalan működéséért.
-
-(2) A Pénzügyi Szervezetek Állami Felügyeletének elnökét a köztársasági elnök nevezi ki hat évre, alelnökeit a miniszterelnök nevezi ki hat évre.
-
-(3) A Pénzügyi Szervezetek Állami Felügyeletének elnöke a Felügyelet tevékenységéről évente beszámol az Országgyűlésnek.
-
-(4) A Pénzügyi Szervezetek Állami Felügyeletének elnöke törvényben meghatározott feladatkörében, törvényben kapott felhatalmazás alapján rendeletet bocsát ki, amely törvénnyel, kormányrendelettel és a Magyar Nemzeti Bank elnökének rendeletével nem lehet ellentétes. A Pénzügyi Szervezetek Állami Felügyeletének elnökét rendelet kiadásában az általa rendeletben kijelölt alelnök helyettesítheti.
-
-### VIII/B. Fejezet — A Nemzeti Média- és Hírközlési Hatóság
-
-40/E. § (1) A Nemzeti Média- és Hírközlési Hatóság a Magyar Köztársaság elektronikus hírközlési piac felügyelő és ellenőrző szerve. A Nemzeti Média- és Hírközlési Hatóság felelős az elektronikus hírközlési piac zavartalan működéséért.
-
-(2) A Nemzeti Média- és Hírközlési Hatóság elnökét a miniszterelnök nevezi ki 9 évre.
-
-(3) A Nemzeti Média- és Hírközlési Hatóság tevékenységéről évente beszámol az Országgyűlésnek.
-
-(4) A Nemzeti Média- és Hírközlési Hatóság elnöke törvényben meghatározott feladatkörében, törvényben kapott felhatalmazás alapján rendeletet bocsát ki, amely más jogszabállyal nem lehet ellentétes.
 
 ### IX. Fejezet — A HELYI ÖNKORMÁNYZATOK
 
@@ -604,15 +574,13 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 - g) a helyi közösséget érintő közügyekben kezdeményezéssel fordulhat a döntésre jogosult szervhez,
 - h) szabadon társulhat más helyi képviselőtestülettel, érdekeinek képviseletére önkormányzati érdekszövetséget hozhat létre, feladatkörében együttműködhet más országok helyi önkormányzatával, és tagja lehet nemzetközi önkormányzati szervezetnek.
 
-(2) A helyi képviselő-testület a feladatkörében rendeletet alkothat, amely nem lehet ellentétes más jogszabállyal.
+(2) A helyi képviselőtestület a feladatkörében rendeletet alkothat, amely nem lehet ellentétes a magasabb szintű jogszabállyal.
 
-44/B. § (1) A helyi képviselőtestület elnöke a polgármester. A képviselőtestület a polgármester helyettesítésére alpolgármestert választhat. Alpolgármesternek olyan személy is megválasztható, aki nem tagja a képviselőtestületnek, de a polgármestert a képviselőtestület elnökeként csak olyan alpolgármester helyettesítheti, aki a képviselőtestület tagja.
+44/B. § (1) A helyi képviselőtestület elnöke a polgármester. A képviselőtestület bizottságot választhat, és hivatalt hoz létre.
 
-(2) A képviselőtestület bizottságot választ, és hivatalt hoz létre.
+(2) A polgármester az önkormányzati feladatain kívül törvény vagy törvényi felhatalmazáson alapuló kormányrendelet alapján kivételesen államigazgatási feladatokat és hatásköröket is elláthat.
 
-(3) A polgármester az önkormányzati feladatain kívül törvény vagy törvényi felhatalmazáson alapuló kormányrendelet alapján kivételesen államigazgatási feladatokat és hatásköröket is elláthat.
-
-(4) Törvény vagy kormányrendelet államigazgatási feladatot, hatósági hatáskört állapíthat meg a jegyzőnek, és kivételesen a képviselőtestület hivatala ügyintézőjének is.
+(3) Törvény vagy kormányrendelet államigazgatási feladatot, hatósági hatáskört állapíthat meg a jegyzőnek, és kivételesen a képviselőtestület hivatala ügyintézőjének is.
 
 44/C. § A helyi önkormányzatokról szóló törvény elfogadásához a jelenlevő országgyűlési képviselők kétharmadának szavazata szükséges. Ugyanilyen szavazataránnyal elfogadott törvényben korlátozhatók az önkormányzatok alapjogai.
 
@@ -626,7 +594,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (2) A törvény által meghatározott ügyekben és módon nem hivatásos bírák is részt vesznek az ítélkezésben.
 
-(3) Egyesbíróként és a tanács elnökeként csak hivatásos bíró járhat el. Helyi bíróság hatáskörébe tartozó, törvény által meghatározott ügyben, egyesbíró hatáskörében bírósági titkár is eljárhat, aki e tevékenysége során független, csak a törvénynek van alárendelve.
+(3) Egyesbíróként és a tanács elnökeként csak hivatásos bíró járhat el.
 
 47. § (1) A Legfelsőbb Bíróság a Magyar Köztársaság legfőbb bírósági szerve.
 
@@ -658,7 +626,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (3) Az ügyészség közreműködik annak biztosításában, hogy mindenki megtartsa a törvényeket. Törvénysértés esetén — törvényben meghatározott esetekben és módon — fellép a törvényesség védelmében.
 
-52. § (1) A Magyar Köztársaság legfőbb ügyészét a köztársasági elnök javaslatára az Országgyűlés választja, a legfőbb ügyész helyetteseit a legfőbb ügyész javaslatára a köztársasági elnök nevezi ki. A legfőbb ügyész megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
+52. § (1) A Magyar Köztársaság legfőbb ügyészét a köztársasági elnök javaslatára az Országgyűlés választja, a legfőbb ügyész helyetteseit a legfőbb ügyész javaslatára a köztársasági elnök nevezi ki.
 
 (2) A legfőbb ügyész az Országgyűlésnek felelős, és működéséről köteles beszámolni.
 
@@ -668,7 +636,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (3) Az ügyészi szervezetet a legfőbb ügyész vezeti és irányítja.
 
-(4) Az ügyészségről, valamint az ügyészek szolgálati viszonyáról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
+(4) Az ügyészségre vonatkozó szabályokat törvény állapítja meg.
 
 ### XII. Fejezet — ALAPVETŐ JOGOK ÉS KÖTELESSÉGEK
 
@@ -712,15 +680,13 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (4) A lelkiismereti és vallásszabadságról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
-61. § (1) A Magyar Köztársaságban mindenkinek joga van a véleménynyilvánítás és a szólás szabadságához, továbbá a közérdekű adatok megismeréséhez, valamint terjesztéséhez.
+61. § (1) A Magyar Köztársaságban mindenkinek joga van a szabad véleménynyilvánításra, továbbá arra, hogy a közérdekű adatokat megismerje, illetőleg terjessze.
 
-(2) A Magyar Köztársaság elismeri és védi a sajtó szabadságát és sokszínűségét.
+(2) A Magyar Köztársaság elismeri és védi a sajtó szabadságát.
 
-(3) A demokratikus közvélemény kialakítása érdekében mindenkinek joga van a megfelelő tájékoztatáshoz a közügyek tekintetében.
+(3) A közérdekű adatok nyilvánosságáról szóló törvény, valamint a sajtószabadságról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
-(4) A Magyar Köztársaságban közszolgálati médiaszolgáltatás működik közre a nemzeti önazonosság és az európai identitás, a magyar, valamint a kisebbségi nyelvek és kultúra ápolásában, gazdagításában, a nemzeti összetartozás megerősítésében, illetőleg a nemzeti, etnikai, családi, vallási közösségek igényeinek kielégítésében. A közszolgálati médiaszolgáltatást az Országgyűlés által választott tagokkal működő autonóm közigazgatási hatóság és független tulajdonosi testület felügyeli, céljainak megvalósulása felett pedig az állampolgárok egyes, törvényben meghatározott közösségei őrködnek.
-
-(5) A közérdekű adatok nyilvánosságáról szóló törvény, valamint a sajtószabadságról és a médiatartalmak alapvető szabályairól rendelkező törvény, továbbá a médiaszolgáltatások felügyeletéről szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
+(4) A közszolgálati rádió, televízió és hírügynökség felügyeletéről, valamint vezetőinek kinevezéséről, továbbá a kereskedelmi rádió és televízió engedélyezéséről, illetőleg a tájékoztatási monopóliumok megakadályozásáról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
 62. § (1) A Magyar Köztársaság elismeri a békés gyülekezés jogát és biztosítja annak szabad gyakorlását.
 
@@ -808,8 +774,6 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (2) A Magyar Köztársaság az ellátáshoz való jogot a társadalombiztosítás útján és a szociális intézmények rendszerével valósítja meg.
 
-(3) Az ellátáshoz való jog a nyugellátás tekintetében az általános öregségi nyugdíjkorhatárt betöltött, a nyugellátás törvényi feltételeinek megfelelő személyre terjed ki. Törvény az e korhatárt be nem töltött személynek is nyugellátást állapíthat meg. Az általános öregségi nyugdíjkorhatár betöltését megelőzően folyósított nyugellátás törvényben meghatározottak szerint csökkenthető és szociális ellátássá alakítható, munkavégzésre való képesség esetén megszüntethető.
-
 70/F. § (1) A Magyar Köztársaság biztosítja az állampolgárok számára a művelődéshez való jogot.
 
 (2) A Magyar Köztársaság ezt a jogot a közművelődés kiterjesztésével és általánossá tételével, az ingyenes és kötelező általános iskolával, képességei alapján mindenki számára hozzáférhető közép- és felsőfokú oktatással, továbbá az oktatásban részesülők anyagi támogatásával valósítja meg.
@@ -828,9 +792,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (5) A honvédelmi kötelezettségről szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
-70/I. § (1) Minden természetes személy, jogi személy és jogi személyiséggel nem rendelkező szervezet köteles jövedelmi és vagyoni viszonyainak megfelelően a közterhekhez hozzájárulni.
-
-(2) A közterhek viselésére szolgáló forrásokból, valamint az állami vagyonnal gazdálkodó, illetve az állam többségi tulajdonában vagy irányítása alatt álló szervezetek részéről juttatott jövedelemre, az adott adóévet megelőző ötödik adóévtől kezdődően, törvény a jövedelem mértékét el nem érő kötelezettséget állapíthat meg.
+70/I. § Minden természetes személy, jogi személy és jogi személyiséggel nem rendelkező szervezet köteles jövedelmi és vagyoni viszonyainak megfelelően a közterhekhez hozzájárulni.
 
 70/J. § A Magyar Köztársaságban a szülők, gondviselők kötelesek kiskorú gyermekük taníttatásáról gondoskodni.
 
@@ -874,4 +836,4 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (2) A Kormány köteles az Alkotmány végrehajtásához szükséges törvényjavaslatokat az Országgyűlés elé terjeszteni.
 
-79. § Az Országgyűlés az Alaptörvény 26. cikk (3) bekezdésében meghatározottak szerint 2011. december 31-ig megválasztja a Kúria elnökét.
+79. §

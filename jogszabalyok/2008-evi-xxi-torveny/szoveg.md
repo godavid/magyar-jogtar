@@ -2,9 +2,7 @@
 
 a humángenetikai adatok védelméről, a humángenetikai vizsgálatok és kutatások, valamint a biobankok működésének szabályairól
 
-Az Országgyűlés
-
-felismerve, hogy az egyén veleszületett, életre szóló genetikai jellemzőinek speciális és fokozott védelme szükséges, figyelemmel arra, hogy a humánbiológiai anyagmintán végzett genetikai kutatás a betegségek hátterének megértése és kezelési lehetőségek feltárása útján komoly tudományos jelentőséggel bír, tekintettel arra, hogy a genetikai kutatások során az emberi méltóság fokozott védelme indokolt, figyelembe véve a 2002. évi VI. törvénnyel kihirdetett, az Európa Tanácsnak az emberi lény emberi jogainak és méltóságának a biológia és az orvostudomány alkalmazására tekintettel történő védelméről szóló, Oviedóban, 1997. április 4-én kelt Egyezménye: Az emberi jogokról és a biomedicináról szóló Egyezményt
+Az Országgyűlésfelismerve, hogy az egyén veleszületett, életre szóló genetikai jellemzőinek speciális és fokozott védelme szükséges, figyelemmel arra, hogy a humánbiológiai anyagmintán végzett genetikai kutatás a betegségek hátterének megértése és kezelési lehetőségek feltárása útján komoly tudományos jelentőséggel bír, tekintettel arra, hogy a genetikai kutatások során az emberi méltóság fokozott védelme indokolt, figyelembe véve a 2002. évi VI. törvénnyel kihirdetett, az Európa Tanácsnak az emberi lény emberi jogainak és méltóságának a biológia és az orvostudomány alkalmazására tekintettel történő védelméről szóló, Oviedóban, 1997. április 4-én kelt Egyezménye: Az emberi jogokról és a biomedicináról szóló Egyezményt
 
 a következő törvényt alkotja:
 
@@ -14,17 +12,9 @@ a következő törvényt alkotja:
 
 1. § E törvény célja, hogy meghatározza a humángenetikai vizsgálatra és humángenetikai kutatásra vonatkozó szabályokat, a genetikai adatok kezelésének feltételeit és céljait, valamint a biobankokra vonatkozó szabályokat.
 
-### Alapelvek
-
-1/A. § (1) Olyan humángenetikai kutatás, amely az érintett viselkedésbeli jellemzőit kutatja, illetve egyes népcsoportok közötti különbségek elemzését célozza, kizárólag megfelelő garanciák – így különösen a széles körű tájékoztatás, a személyiség genetikán kívüli jellemzőit is tiszteletben tartó kutatási eljárás, a népcsoportot érintő kutatás esetében a kollektív konzultáció lehetőségének biztosítása – mellett végezhető.
-
-(2) Tilos bármely személy jogait korlátozni DNS-struktúrája és az abból levezethető genetikai kockázatok miatt.
-
-(3) Az érintett személyek egészségügyi ellátásának feltételéül nem szabható a genetikai mintáik, illetve genetikai adataik kutatásban történő felhasználásához, archiválásához történő hozzájárulás.
-
 ### A törvény hatálya
 
-2. § (1) E törvény rendelkezéseit – a 27. § (2) bekezdésében foglalt eltéréssel – a Magyarország területén végzett, e törvény szerinti humángenetikai vizsgálat, illetve humángenetikai kutatás céljából történő genetikai mintavételre, a mintavétel helyétől függetlenül a genetikai adat kezelésére, feldolgozására, továbbá humángenetikai vizsgálatra és humángenetikai kutatásra, valamint a biobankokra kell alkalmazni.
+2. § (1) E törvény rendelkezéseit – a 27. § (2) bekezdésében foglalt eltéréssel – a Magyar Köztársaság területén végzett, e törvény szerinti humángenetikai vizsgálat, illetve humángenetikai kutatás céljából történő genetikai mintavételre, a mintavétel helyétől függetlenül a genetikai adat kezelésére, feldolgozására, továbbá genetikai teszt- és szűrővizsgálatra és humángenetikai kutatásra, valamint a biobankokra kell alkalmazni.
 
 (2) E törvényt a teljesen vagy részben automatizált eszközzel, valamint a manuális módon végzett adatkezelésre és adatfeldolgozásra egyaránt alkalmazni kell.
 
@@ -34,42 +24,44 @@ a következő törvényt alkotja:
 
 3. § (1) E törvény alkalmazásában
 
-- 1. érintett: genetikai mintát szolgáltató, az e törvény szerinti adatkezelővel kapcsolatba került vagy kerülő természetes személy;
-- 2. genetikai minta: minden, e törvény szerinti humángenetikai vizsgálat, illetve humángenetikai kutatás céljából levett vagy e törvény keretei között e célra egyébként felhasználni kívánt, emberből származó biológiai anyagminta;
-- 3.
-- 4. kódolt genetikai minta vagy adat: olyan genetikai minta vagy adat, amely mellett a mintát szolgáltató személyre vonatkozó összes személyazonosító adatot kóddal helyettesítették;
-- 5. pszeudonimizált genetikai minta vagy adat: olyan kódolt genetikai minta vagy adat, amelynél a személyazonosító adatot helyettesítő kódot az érintett személy kizárólagos rendelkezésére bocsátották;
-- 6. anonimizált genetikai minta vagy adat: olyan genetikai minta vagy adat, amellyel kapcsolatban az érintettre vonatkozó összes személyazonosító adatot személyazonosításra alkalmatlanná tettek;
-- 7. biobank: genetikai mintát és az ehhez kapcsolódó genetikai és személyazonosító adatokat az e törvény szerinti humángenetikai vizsgálat, illetve humángenetikai kutatás céljából tartalmazó – jogszabályban meghatározott működési, illetve kutatási engedéllyel rendelkező – mintagyűjtemény, ide nem értve az egészségügyi ellátás vagy orvostudományi kutatás céljából levett, vagy valamilyen egészségügyi ellátás, beavatkozás során másodlagosan keletkezett biológiai sejt- és szövetmintákat, valamint e mintákhoz kapcsolódó személyazonosító és egyéb egészségügyi adatokat tartalmazó mintagyűjteményt;
-- 8. humángenetikai kutatás: az egyének genetikai identitását meghatározó genom (gének, kromoszómák) szerkezeti felépítésével, ennek rendellenességeivel és variánsaival, továbbá génekben kódolt program testi, szellemi, viselkedésbeli jellemzőkben való megnyilvánulásával, illetve a génekben kódolt program szülőktől az utódokba való átjutásának törvényszerűségeivel, e folyamatok rendellenességeinek feltárásával foglalkozó kutatás, amely e törvény szerinti kutatási célú genetikai vizsgálatot alkalmaz céljai elérésére;
-- 9. archivált gyűjtemény: olyan biológiai mintagyűjtemény, amely esetében a mintavétel eredeti célja már megvalósult, és amelyben a tárolt minták klinikai genetikai vizsgálatára vagy genetikai szűrővizsgálatára kizárólag a mintát szolgáltató személy beleegyezése esetén, továbbá kutatási célú genetikai vizsgálatra engedélyezett orvostudományi kutatás keretében kerülhet sor;
-- 10.
-- 11. humángenetikai vizsgálat: az egészséget károsan befolyásoló hatásokkal társuló vagy azokat előre jelző, csírasejt eredetű (örökölt) vagy a magzati élet korai szakaszában kialakult, a genom (gének, kromoszómák) veleszületett – genetikai betegséget okozó vagy arra hajlamosító – variánsainak kimutatására irányuló, genetikai mintán végzett laboratóriumi analízis, amely a vizsgálat célja szerint lehet klinikai genetikai vizsgálat genetikai szűrővizsgálat és kutatási célú genetikai vizsgálat;
-- 12. klinikai genetikai vizsgálat: olyan humángenetikai vizsgálat, amelynél a genetikai mintát szolgáltató érintett személy betegség tüneteit mutatja (diagnosztikus genetikai teszt), vagy amelynél a genetikai mintát szolgáltató tünetmentes személy vér szerinti rokona genetikai betegségben szenved és a személy saját egészsége, illetve gyermekvállalása szempontjából fokozott kockázatnak van kitéve;
-- 13. genetikai szűrővizsgálat: meghatározott populáció tagjainak válogatás nélküli, szűrőprogram keretében végzett humángenetikai vizsgálata, amelynek célja a genetikai mintát szolgáltató tünetmentes személyek köréből a veszélyeztetettek beazonosítása genetikai jellemzőik feltárásával;
-- 14. kutatási célú genetikai vizsgálat: olyan humángenetikai vizsgálat, amelynél a genetikai mintát szolgáltató egyén tünetmentes vagy olyan beteg, akinek betegségét klinikai diagnosztikus genetikai teszttel már megállapították, és az engedélyezett kutatási terv keretében végzett kutatás célja emberi betegségek genetikai hátterének vagy kezelési lehetőségeinek jobb megismerése;
-- 15. genetikai tanácsadás: olyan konzultációs eljárás, amely során erre jogszabály alapján jogosult személy tájékoztatást ad a klinikai genetikai vizsgálatok előnyeiről vagy kockázatairól, feltárja a humángenetikai vizsgálatok eredményeinek lehetséges következményeit, és segíti a betegség természetének megértését;
-- 16. harmadik ország: minden olyan ország, amely nem EGT-állam;
-- 17. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
-- 18. közeli hozzátartozó: a házastárs, az egyeneságbeli rokon, a testvér, a bejegyzett élettárs, az élettárs, az egyeneságbeli rokon házastársa, valamint a testvér házastársa és leszármazója.
+- a) érintett: genetikai mintát szolgáltató, az e törvény szerinti adatkezelővel kapcsolatba került vagy kerülő természetes személy;
+- b) genetikai minta: minden, e törvény szerinti humángenetikai vizsgálat, illetve humángenetikai kutatás céljából levett, vagy e törvény keretei között e célra egyébként felhasználni kívánt, emberből származó biológiai anyagminta (szövet-, sejt-, testnedvminta, transzformált sejtvonal vagy sejtekből kivont DNS, RNS);
+- c) genetikai adat: meghatározott érintett személy örökletes tulajdonságaira vonatkozó olyan információ, amely genetikai minta feldolgozásából, illetve az egészségügyi dokumentációból származik, és amely az egyén genetikai eredetű betegségekkel kapcsolatos kockázatára, örökölt hajlamára, testi vagy viselkedésbeli jellemzőire utal, és alkalmas lehet arra, hogy az egyén azonosítható legyen;
+- d) kódolt genetikai minta vagy adat: olyan genetikai minta vagy adat, amely mellett a mintát szolgáltató személyre vonatkozó összes személyazonosító adatot kóddal helyettesítették;
+- e) pszeudonimizált genetikai minta vagy adat: olyan kódolt genetikai minta vagy adat, amelynél a személyazonosító adatot helyettesítő kódot az érintett személy kizárólagos rendelkezésére bocsátották;
+- f) anonimizált genetikai minta vagy adat: olyan genetikai minta vagy adat, amellyel kapcsolatban az érintettre vonatkozó összes személyazonosító adatot személyazonosításra alkalmatlanná tettek;
+- g) biobank: genetikai mintát és az ehhez kapcsolódó genetikai és személyazonosító adatokat az e törvény szerinti humángenetikai vizsgálat, illetve humángenetikai kutatás céljából tartalmazó mintagyűjtemény;
+- h) humángenetikai kutatás: az egyének genetikai identitását meghatározó, genetikai anyag (gének, kromoszómák) szerkezeti felépítésével, ennek rendellenességeivel, továbbá génekben kódolt program testi, szellemi, viselkedésbeli jellemzőkben való megnyilvánulásával, illetve a génekben kódolt program szülőktől az utódokba való átjutásának törvényszerűségeivel, e folyamatok rendellenességeinek feltárásával foglalkozó kutatás;
+- i) archivált gyűjtemények: biobankban elkülönítetten tárolt genetikai mintákat és adatokat tartalmazó olyan gyűjtemények, amelyek esetében a mintavétel eredeti célja már megvalósult;
+- j) genetikai teszt: diagnosztikus, preszimptómás, prediktív vizsgálatok, heterozigóta, prenatális, preimplantációs, farmakogenetikai laboratóriumi vizsgálatok, amelyek olyan csírasejt eredetű DNS-, illetve kromoszómavariánsok, RNS, valamint ezek specifikus fehérjetermékeinek kimutatására irányulnak, amelyek az ember egészségét károsan befolyásoló hatásokkal társulnak vagy azokat előre jelzik;
+- k) genetikai szűrés: széles körű, programszerű genetikai vizsgálat, amelyet egy populáció vagy ennek egy csoportján végeznek azzal a céllal, hogy egyes genetikai jellemzőket azonosítsanak tünetmentes személyeknél;
+- l) humángenetikai vizsgálat: j) és k) pontok alatt meghatározottak együttesen;
+- m) genetikai tanácsadás: olyan konzultációs eljárás, amely során külön jogszabály szerint erre jogosult személy tájékoztatást ad a humángenetikai vizsgálatok előnyeiről vagy kockázatairól, feltárja a genetikai vizsgálatok eredményeinek lehetséges következményeit, és segíti a betegség természetének megértését;
+- n) harmadik ország: minden olyan ország, amely nem EGT-állam;
+- o) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
+- p)
+- q) közeli hozzátartozó: a házastárs, az egyeneságbeli rokon, a testvér, a bejegyzett élettárs, az élettárs, az egyeneságbeli rokon házastársa, valamint a testvér házastársa és leszármazója.
 
-(2) Az (1) bekezdésben foglaltakon túl e törvény alkalmazásában az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.), az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.), valamint a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) értelmező rendelkezéseit kell figyelembe venni.
-
-(3) Az általános adatvédelmi rendelet 4. cikk 13. pontjában meghatározott genetikai adat e törvény alkalmazásában a humángenetikai vizsgálat és a humángenetikai kutatás céljából kezelhető.
+(2) Az (1) bekezdésben foglaltakon túl e törvény alkalmazásában az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.), valamint az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) értelmező rendelkezéseit kell figyelembe venni.
 
 ### II. Fejezet — ÁLTALÁNOS SZABÁLYOK
 
 ### A genetikai adat kezelése
 
-4. § (1)
+4. § (1) A genetikai adat
+
+- a) genetikai vizsgálat, illetve
+- b) humángenetikai kutatás
+
+céljából kezelhető.
 
 (2) Genetikai adatot az e törvényben foglalt feltételek fennállása esetén
 
-- a) humángenetikai vizsgálat céljából
-  - aa) a humángenetikai vizsgálatot végző intézmény,
-  - ab) a humángenetikai vizsgálatot végző személy,
+- a) az (1) bekezdés a) pontja szerinti célból
+  - aa) a genetikai vizsgálatot végző intézmény,
+  - ab) a genetikai vizsgálatot végző személy,
   - ac) a 14. § szerinti orvos,
-- b) humángenetikai kutatás céljából
+- b) az (1) bekezdés b) pontja szerinti célból
   - ba) a kutatást végző intézmény,
   - bb) a kutatás végzésében részt vevő egyéb személy
 
@@ -78,7 +70,7 @@ kezelhet.
 5. § (1) Genetikai adatot
 
 - a) a 25. § szerinti felelős személy e törvény szerinti feladatkörében,
-- b) az adatvédelmi tisztviselő az Eüak. szerinti feladatkörében eljárva kezelhet.
+- b) az adatvédelmi felelős az Eüak. szerinti feladatkörében eljárva kezelhet.
 
 (2) A genetikai adatok megismerésére jogosult az érintett által a 7. § (2) bekezdése szerint megnevezett személy és az érintett közeli hozzátartozója a 7. § (3) bekezdésére és a 10. § (3) bekezdésére figyelemmel.
 
@@ -90,15 +82,9 @@ kezelhet.
 
 (2) A humángenetikai vizsgálat céljából történő mintavétel előtt az érintettet genetikai tanácsadás keretében tájékoztatni kell a mintavétel céljáról, a vizsgálat elvégzésének vagy elmaradásának előnyeiről és kockázatairól, a lehetséges eredménynek az érintettet és közeli hozzátartozóit érintő esetleges következményeiről, a genetikai minta és adat tárolásának módjairól, a különböző formában tárolt genetikai minták, továbbá adatok azonosíthatóságának lehetőségeiről.
 
-(2a) A humángenetikai vizsgálat típusától függően az érintettet a (2) bekezdésben foglaltakon túlmenően tájékoztatni kell:
-
-- a) klinikai genetikai vizsgálat esetén az elvégzett genetikai teszt eredményéről, annak lehetséges következményeiről, valamint az érintettet és közeli hozzátartozóit érintő genetikai kockázatról, és a betegség természetéről;
-- b) genetikai szűrővizsgálat esetén az adott betegség lényegéről, a pozitív és negatív eredmény jelentéstartalmáról, valamint a megerősítő teszt jelentőségéről;
-- c) kutatási célú genetikai vizsgálat esetén a kutatás lényegéről, valamint arról, hogy az érintett kérheti a kutatási eredmény megismerését.
-
 (3) Ha a genetikai minta kutatási célra felhasználásra kerül, a 8. § (1) bekezdés szerinti beleegyező nyilatkozat aláírása előtt az érintettet tájékoztatni kell az Eütv. 159. §-ának (3) bekezdésében foglaltakról, a genetikai minta és adat tárolásának módjairól, a különböző formában tárolt genetikai minták, illetve adatok azonosíthatóságának lehetőségeiről, valamint az érintett egyéb nyilatkozata hiányában a genetikai minta archivált gyűjteménybe való bekerüléséről, a tárolt genetikai minták esetleges továbbításáról.
 
-(4) Az érintett jogosult arra, hogy a klinikai genetikai vizsgálat eredményéről számára egyéniesített formában, genetikai tanácsadás keretében kapjon tájékoztatást. A tájékoztatásnak segítenie kell az érintettet az eredmény lehetséges következményeinek hosszú távú feldolgozásában és az optimális kezelési lehetőségek kiválasztásában.
+(4) Az érintett jogosult arra, hogy a humángenetikai vizsgálat eredményéről számára egyéniesített formában, genetikai tanácsadás keretében kapjon tájékoztatást. A tájékoztatásnak segítenie kell az érintettet az eredmény lehetséges következményeinek hosszú távú feldolgozásában és az optimális kezelési lehetőségek kiválasztásában.
 
 (5) A (2) és (4) bekezdésben foglaltakon kívül genetikai tanácsadás az érintett egyéni kérelmére is nyújtható.
 
@@ -116,7 +102,7 @@ kezelhet.
 
 8. § (1) A genetikai mintavétel előtt – függetlenül a genetikai adat kezelésének céljától – a rendelkezésre jogosult részletes tájékoztatáson alapuló, írásban rögzített beleegyezése szükséges.
 
-(2) A korlátozottan cselekvőképes kiskorú és az a nagykorú személy, akinek cselekvőképességét a bíróság részlegesen úgy korlátozta, hogy a korlátozás kiterjed az egészségügyi ellátással összefüggő jogainak és a személyiségi jogainak gyakorlására, törvényes képviselője beleegyezésével vagy utólagos jóváhagyásával tehet az (1) bekezdés szerinti beleegyező nyilatkozatot. Az utólagos jóváhagyás megtörténtéig genetikai mintavételre nem kerülhet sor. Cselekvőképtelen személy helyett törvényes képviselője nyilatkozhat, figyelemmel a 13. § (3) és (4) bekezdéseire.
+(2) A korlátozottan cselekvőképes személy törvényes képviselője beleegyezésével vagy utólagos jóváhagyásával tehet az (1) bekezdés szerinti beleegyező nyilatkozatot. Az utólagos jóváhagyás megtörténtéig genetikai mintavételre nem kerülhet sor. Cselekvőképtelen személy helyett törvényes képviselője nyilatkozhat, figyelemmel a 13. § (3) és (4) bekezdéseire.
 
 (3) Az (1) bekezdés szerinti beleegyező nyilatkozat az alábbiakat tartalmazza:
 
@@ -142,7 +128,7 @@ járul hozzá;
 
 (7) Az érintett az (1)–(3) bekezdés szerinti beleegyezését visszavonhatja. A mintavételt követően visszavont beleegyezés esetén a 10. §-ban foglaltaknak megfelelően kell eljárni.
 
-(8) A korlátozottan cselekvőképes kiskorú és az a nagykorú személy, akinek cselekvőképességét a bíróság részlegesen úgy korlátozta, hogy a korlátozás kiterjed az egészségügyi ellátással összefüggő jogainak és a személyiségi jogainak gyakorlására, törvényes képviselője beleegyezésével vagy utólagos jóváhagyásával vonhatja vissza beleegyező nyilatkozatát. Cselekvőképtelen személy helyett törvényes képviselője nyilatkozhat.
+(8) A korlátozottan cselekvőképes személy törvényes képviselője beleegyezésével vagy utólagos jóváhagyásával vonhatja vissza beleegyező nyilatkozatát. Cselekvőképtelen személy helyett törvényes képviselője nyilatkozhat.
 
 9. § (1) Elhunyt személyből genetikai minta levételére, a levett, személyazonosító adatokkal együttesen tárolt vagy kódolt genetikai minta vizsgálatára, humángenetikai kutatás céljából történő igénybevételére vagy a belőle származó genetikai adat felhasználására akkor kerülhet sor, ha az elhunyt ez ellen életében nem tett tiltakozó nyilatkozatot.
 
@@ -150,7 +136,7 @@ járul hozzá;
 
 (3) Az (1) és (2) bekezdés szerinti tiltakozó vagy korlátozó nyilatkozatot a cselekvőképes személy közokiratban, teljes bizonyító erejű magánokiratban vagy – amennyiben írásbeli nyilatkozatot egyáltalán nem vagy csak jelentékeny nehézséggel tudna tenni – két tanú együttes jelenlétében szóban tehet.
 
-(4) Korlátozottan cselekvőképes kiskorú és az a nagykorú személy, akinek cselekvőképességét a bíróság részlegesen úgy korlátozta, hogy a korlátozás kiterjed az egészségügyi ellátással összefüggő jogainak és a személyiségi jogainak gyakorlására, saját genetikai mintái levételének, illetve felhasználásának megtiltásáról, korlátozásáról törvényes képviselőjének közreműködése nélkül is nyilatkozhat a (3) bekezdésben foglaltak szerint.
+(4) Korlátozottan cselekvőképes személy saját genetikai mintái levételének, illetve felhasználásának megtiltásáról, korlátozásáról törvényes képviselőjének közreműködése nélkül is nyilatkozhat a (3) bekezdésben foglaltak szerint.
 
 (5) A cselekvőképtelen személy helyett törvényes képviselője nyilatkozhat a (3) bekezdésben foglaltak szerint.
 
@@ -160,25 +146,23 @@ járul hozzá;
 
 (2) A genetikai minta és adatok megsemmisítését kizárólag humángenetikai kutatási célból felhasznált minta és adatok esetén haladéktalanul, legkésőbb 8 napon belül, genetikai vizsgálat céljából tárolt minta és adatok esetén a kérelem előterjesztésétől számított 30. napot követően, a kérelemtől számított 45 napon belül kell elvégezni a (3) bekezdésben foglaltak figyelembevételével. A kérelem beérkeztétől a genetikai minták és adatok kizárólag a közeli hozzátartozó érdekében kezelhetőek.
 
-(3) A közeli hozzátartozó betegsége megelőzése, betegsége természetének megismerése, gyógykezelése, valamint utódaira vonatkozó betegségkockázat megítélése érdekében a genetikai adatok megismerésére jogosult. Ennek érdekében – az érintett hozzájárulása esetén – a kezelőorvos kezdeményezi a közeli hozzátartozók genetikai tanácsadásba történő bevonását.
+(3) A közeli hozzátartozó betegsége megelőzése, betegsége természetének megismerése, gyógykezelése, valamint utódaira vonatkozó betegségkockázat megítélése érdekében a genetikai adatok megismerésére jogosult. Ennek érdekében a kezelőorvos az általa ismert közeli hozzátartozót közvetlenül is felhívja a genetikai adatok genetikai tanácsadás keretében történő megismerésének szükségességére, vagy kezdeményezi az érintett személynél közvetlen hozzátartozójának genetikai tanácsadásba történő bevonását.
 
 11. § E fejezetben foglalt rendelkezések alkalmazása során az Eütv. 13. és 14. §-ának a tájékoztatáshoz való jogra és 16. §-ának a beleegyező nyilatkozatra vonatkozó szabályai is megfelelően irányadóak.
 
-### III. Fejezet — A HUMÁNGENETIKAI VIZSGÁLATRA
+### III. Fejezet — A HUMÁNGENETIKAI VIZSGÁLATRA VONATKOZÓ SZABÁLYOK
 
-VONATKOZÓ SZABÁLYOK
+12. § (1) Humángenetikai vizsgálat csak a külön jogszabály szerint felszerelt, szakképzett személyi háttérrel rendelkező egészségügyi szolgáltatónál végezhető.
 
-12. § (1) Humángenetikai vizsgálat csak az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló rendelet szerint felszerelt, szakképzett személyi háttérrel és működési engedéllyel rendelkező egészségügyi szolgáltatónál végezhető.
+(2) A humángenetikai vizsgálatot végző egészségügyi szolgáltatónak meg kell felelnie a genetikai minták és adatok tárolása e törvény és külön jogszabály szerinti feltételeinek.
 
-(2) A humángenetikai vizsgálatot végző egészségügyi szolgáltatónak meg kell felelnie a genetikai minták és adatok tárolása e törvény és az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló rendelet feltételeinek. Az egészségügyi államigazgatási szerv ellenőrzése során az Egészségügyi Tudományos Tanács Humánreprodukciós Bizottsága (a továbbiakban: ETT HRB) – kirendelése esetén – szakértőként jár el.
-
-13. § (1) Humángenetikai vizsgálat megelőzési, diagnosztikai, terápiás, rehabilitációs vagy kutatási célból és kizárólag egészségügyi érdek alapján végezhető.
+13. § (1) Humángenetikai vizsgálat megelőzési, diagnosztikai, terápiás vagy rehabilitációs célból és kizárólag egészségügyi érdek alapján végezhető.
 
 (2) Humángenetikai vizsgálat elvégzéséhez az érintett 8. § (1) bekezdés szerinti beleegyezése szükséges.
 
-(3) Nem végezhető humángenetikai vizsgálat cselekvőképtelen személyen, kivéve ha a vizsgálat eredményének ismeretében olyan intézkedés hozható, amely megakadályozza a vizsgálattal érintett személy betegségének kialakulását, késlelteti annak kezdetét, korlátozza a súlyosságát, fogyatékosságot előzhet meg, elősegíti egészségének helyreállítását, illetve a már megkezdett vizsgálat folytatása irányának meghatározásához szükséges.
+(3) Nem végezhető humángenetikai vizsgálat cselekvőképtelen személyen, kivéve, ha a vizsgálat eredményének ismeretében olyan intézkedés hozható, amely megakadályozza a cselekvőképtelen személy betegségének kialakulását, késlelteti annak kezdetét, korlátozza a súlyosságát, fogyatékosságot előzhet meg, elősegíti egészségének helyreállítását, illetve a már megkezdett vizsgálat folytatása irányának meghatározásához szükséges.
 
-(4) A humángenetikai vizsgálat kivételesen a közeli hozzátartozó érdekében is elvégezhető a (3) bekezdés szerinti célok keretei között a cselekvőképtelen személyen, ha a vizsgálat elvégzése más vizsgálattal nem pótolható, a vizsgálattal elérhető előnyök meghaladják az azzal járó esetleges kockázatokat és hátrányokat vagy a vizsgálat természete feltétlenül indokolja, hogy a vizsgálatot ilyen személyen végezzék el.
+(4) A humángenetikai vizsgálat kivételesen a közeli hozzátartozó érdekében is elvégezhető a (3) bekezdés szerinti célok keretei között a cselekvőképtelen személyen, ha a vizsgálat elvégzése más vizsgálattal nem pótolható, a vizsgálattal elérhető előnyök meghaladják az azzal járó esetleges kockázatokat és hátrányokat, vagy a vizsgálat természete feltétlenül indokolja, hogy a vizsgálatot cselekvőképtelen személyen végezzék el.
 
 14. § A humángenetikai vizsgálat eredményét közölni kell azzal a kezelést végző orvossal, aki a vizsgálatot kezdeményezte.
 
@@ -188,7 +172,7 @@ VONATKOZÓ SZABÁLYOK
 
 16. § (1) Genetikai minták, illetve adatok humángenetikai kutatás céljából e törvény rendelkezései szerint használhatók fel.
 
-(2) Humángenetikai kutatás esetén az Eütv. 157–164/D. §-ában foglalt rendelkezéseket is alkalmazni kell.
+(2) Humángenetikai kutatás esetén az Eütv. 157–164/A. §-ában foglalt rendelkezéseket is alkalmazni kell.
 
 (3) Humángenetikai kutatás csak olyan intézményben végezhető, ahol a genetikai minták és adatok tárolásának e törvény és külön jogszabály szerinti feltételei rendelkezésre állnak. Ennek hiányában a kutatási terv nem engedélyezhető.
 
@@ -212,15 +196,13 @@ VONATKOZÓ SZABÁLYOK
 
 21. § Biobankban elhelyezett genetikai minta és ahhoz kapcsolódó személyes adatok kezelése, tárolása tekintetében az érintett 8. § (1) bekezdése szerinti nyilatkozata az irányadó.
 
-22. § (1) Biobankot humángenetikai vizsgálatokra, illetve meghatározott orvostudományi kutatások végzésére jogosult egészségügyi szolgáltató az egészségügyi államigazgatási szerv engedélyével létesíthet és tarthat fenn.
-
-(1a) A biobankban kódolt formában, elkülönítve kell tárolni az Eütv.-ben meghatározott széles körű beleegyezés alapján gyűjtött biológiai mintákat és adatokat.
+22. § (1) Biobankot genetikai vizsgálatokra, illetve meghatározott orvostudományi kutatások végzésére jogosult egészségügyi szolgáltató az egészségügyi államigazgatási szerv engedélyével létesíthet és tarthat fenn.
 
 (2) Humángenetikai kutatást végző egyéb intézmény az (1) bekezdés szerinti engedély hiányában, engedélyezett egyedi kutatási terv alapján, az abban foglalt keretek között működtethet biobankot a kutatás elvégzéséhez szükséges genetikai minták és adatok tárolására, kezelésére a kutatás időtartamára.
 
 (3) A kutatási terv abban az esetben engedélyezhető, ha a humángenetikai kutatást végző intézmény rendelkezik biobankkal vagy a biobank létesítésére és fenntartására vonatkozó, e törvény és külön jogszabály szerinti feltételekkel.
 
-(4)
+(4) Genetikai vizsgálatokat is végző egészségügyi szolgáltató működése abban az esetben engedélyezhető, ha az egészségügyi szolgáltató rendelkezik biobankkal vagy a biobank létesítésére és fenntartására vonatkozó, e törvény és külön jogszabály szerinti feltételekkel.
 
 23. § (1) A genetikai minta, illetve adat tárolása során biztosítani kell a genetikai minta, illetve adat védelmét megsemmisítéssel, megsemmisüléssel, megváltoztatással, károsodással, nyilvánosságra kerüléssel, továbbá illetéktelen személy hozzáférésével szemben.
 
@@ -248,7 +230,7 @@ VONATKOZÓ SZABÁLYOK
 - a) érvényesíti a genetikai minták és adatok gyűjtésére, tárolására és feldolgozására, valamint az adatvédelmi követelményekre vonatkozó jogszabályi előírásokat és intézményi szabályokat;
 - b) rendszeresen értékeli az intézményben működő biobank tevékenységének jogszerűségét és szakszerűségét, és az értékelés eredményéről tájékoztatja az intézmény vezetőjét;
 - c) a jogszabályoknak, illetve szakmai szabályoknak nem megfelelő működés esetén kezdeményezi az intézmény vezetőjénél a jogszerű, illetve szakszerű működés helyreállítása érdekében szükséges intézkedés megtételét, szükség szerint a tárolt genetikai mintákkal vagy anyagokkal végzett tevékenység felfüggesztését;
-- d) a biobank működésének ellenőrzését végző hatóságokat tájékoztatja a működéssel összefüggő, az ellenőrzéshez szükséges adatokról és éves beszámolót készít a biobank működéséről, melyet a tárgyévet követő február 15-ig – a 26. § (7) bekezdése szerinti jelentés elkészítéséhez – megküld az egészségügyi államigazgatási szervnek.
+- d) a biobank működésének ellenőrzését végző hatóságokat tájékoztatja a működéssel összefüggő, az ellenőrzéshez nélkülözhetetlen adatokról.
 
 (4) A biobankot létesítő egészségügyi szolgáltató és más intézmény tájékoztatja az egészségügyi államigazgatási szervet az (1) bekezdésben említett felelős személy nevéről a felelősségi körébe tartozó konkrét intézményi feladatok megjelölésével.
 
@@ -256,23 +238,19 @@ VONATKOZÓ SZABÁLYOK
 
 (2) A nyilvántartás tartalmazza a gyűjtött, vizsgált, tárolt, feldolgozott és elosztott, illetve egyéb módon felhasználásra került genetikai minták típusát, mennyiségét, eredetét és rendeltetési célját, valamint az ezekből kialakított genetikai adatokat.
 
-(2a) Az egészségügyi államigazgatási szerv az (1) bekezdés szerinti nyilvántartás szabályszerű vezetését, valamint a nyilvántartás (2) bekezdésben foglaltaknak való megfelelését – amennyiben szükséges, az ETT HRB szakértőkénti bevonásával – ellenőrzi.
-
 (3) A biobank további genetikai vizsgálat, illetve humángenetikai kutatás céljából nem anonimizált módon csak az érintett 8. § (1) bekezdése szerinti nyilatkozata keretei között továbbíthat genetikai adatot.
 
 (4) Minden további, a 8. § (1) bekezdése szerinti beleegyező nyilatkozat kereteit meghaladó adattovábbításhoz az érintett beleegyezésének ismételt beszerzése szükséges.
 
 (5) A biobank a biobankot létesítő intézmény tevékenységi körén kívül e törvény szerinti célból csak más biobank, illetve megfelelő kutatási engedéllyel rendelkező számára adhat át genetikai mintát, illetve adatot.
 
-(6) Az egészségügyi államigazgatási szerv nyilvántartást vezet a biobankokról, illetve érvényes kutatási engedély alapján genetikai mintát, adatot tároló intézményekről, amely nyilvánosan hozzáférhető. A nyilvántartás vezetéséhez szükséges adatokat a működést, illetve a kutatási tervet engedélyező hatóságok, illetve személyek az engedély kiadását követően haladéktalanul átadják a nyilvántartásnak. A nyilvántartás genetikai adatokat nem tartalmazhat.
-
-(7) Az egészségügyi államigazgatási szerv a (6) bekezdés szerinti nyilvántartás, valamint a 25. § (3) bekezdés d) pontja szerinti beszámoló alapján éves jelentést készít a biobankok működéséről, melyet megküld az ETT HRB részére.
+(6) Az egészségügyi államigazgatási szerv az egészségügyi szolgáltatók nyilvántartásától elkülönített nyilvántartást vezet a biobankokról, illetve érvényes kutatási engedély alapján genetikai mintát, adatot tároló intézményekről, amely nyilvánosan hozzáférhető. A nyilvántartás vezetéséhez szükséges adatokat a működést, illetve a kutatási tervet engedélyező hatóságok, illetve személyek az engedély kiadását követően haladéktalanul átadják a nyilvántartásnak. A nyilvántartás genetikai adatokat nem tartalmazhat.
 
 27. § (1) A biobankra vonatkozó szabályokat minden, e törvény hatálybalépése előtt humángenetikai vizsgálat, valamint humángenetikai kutatás céljából létrejött, sejt-, szövetmintát vagy más, humánbiológiai anyagot tartalmazó gyűjteményre is – ide nem értve az átültetés céljából létrehozott szövetbankot, valamint az ivarsejt-adományozás és -letét céljából létrehozott ivarsejtbankot – alkalmazni kell.
 
 (2) E törvény hatálybalépése előtt létrejött, kizárólag humángenetikai kutatási célból felhasználni kívánt sejt-, szövetmintát vagy más, humánbiológiai anyagot tartalmazó gyűjteményre – ide nem értve az átültetés céljából létrehozott szövetbankot, valamint az ivarsejt-adományozás és -letét céljából létrehozott ivarsejtbankot – a 19. § rendelkezéseit a (4) bekezdésben foglalt eltéréssel kell alkalmazni.
 
-(3)
+(3) Az e törvény hatálybalépése előtt gyűjtött, kizárólag humángenetikai kutatási célból felhasználni kívánt genetikai minta, illetve adat további kezelése céljából az érintetteket a törvény hatálybalépését követő hat hónapos határidő tűzésével fel kell hívni a 8. § (1) bekezdése szerinti beleegyező nyilatkozat megtételére. A beleegyező nyilatkozatok beszerzése érdekében az adatkezelőnek legalább az egészségügyért felelős miniszter által vezetett minisztérium honlapján felhívást kell közzétenni, mely tartalmazza az érintettek megfelelő tájékoztatásához szükséges információkat.
 
 (4) Amennyiben az (1) bekezdés szerinti beleegyezés nem szerezhető be, a genetikai mintát, illetve adatot a további kezelést megelőzően anonimizálni kell e törvény előírásainak megfelelően.
 
@@ -282,37 +260,37 @@ VONATKOZÓ SZABÁLYOK
 
 ### VI. Fejezet — GENETIKAI ADATOK ÉS MINTÁK KÜLFÖLDRE TÖRTÉNŐ TOVÁBBÍTÁSA
 
-28. § (1) Humángenetikai kutatás céljából az EGT-államokba irányuló adattovábbítást úgy kell tekinteni, mintha a Magyarország területén belüli adattovábbításra kerülne sor.
+28. § (1) Humángenetikai kutatás céljából az EGT-államokba irányuló adattovábbítást úgy kell tekinteni, mintha a Magyar Köztársaság területén belüli adattovábbításra kerülne sor.
 
-(2) Humángenetikai kutatás céljából csak anonimizált, kódolt vagy pszeudonimizált genetikai minta, illetve adat továbbítható harmadik országba, és csak abban az esetben, ha az adott ország joga legalább az e törvényben, továbbá az általános adatvédelmi rendelet V. fejezetében meghatározott adatvédelmet biztosítja. Kódolt genetikai minta és adat harmadik országba történő továbbítása során a személyazonosításra alkalmassá tételhez szükséges kódkulcs nem továbbítható.
+(2) Humángenetikai kutatás céljából csak anonimizált, kódolt vagy pszeudonimizált genetikai minta, illetve adat továbbítható harmadik országba, és csak abban az esetben, ha az adott ország joga legalább az e törvény, illetőleg a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény (a továbbiakban: Avtv.) szerinti adatvédelmet biztosítja. Kódolt genetikai minta és adat harmadik országba történő továbbítása során a személyazonosításra alkalmassá tételhez szükséges kódkulcs nem továbbítható.
 
 (3) Humángenetikai vizsgálat céljából csak kódolt genetikai minta továbbítható harmadik országba. Az adatvédelem (2) bekezdés szerinti szintjét ebben az esetben is biztosítani kell.
 
-(4) Genetikai minta, illetve adat csak olyan harmadik országból hozható be, ahol az e törvény, illetve a (2) bekezdésben meghatározott követelmények biztosítottak.
+(4) Genetikai minta, illetve adat csak olyan harmadik országból hozható be, ahol az e törvény, illetve az Avtv. szerinti követelmények biztosítottak.
 
-(5) A genetikai minták és adatok (2) és (3) bekezdésekben foglalt továbbítását az egészségügyi államigazgatási szerv részére a továbbítást megelőzően, személyazonosításra alkalmatlan módon be kell jelenteni. A bejelentés során meg kell jelölni, hogy a harmadik országba történő adattovábbítás feltételei a személyes adatok megfelelő szintű védelme tekintetében mely jogcím alapján kerültek meghatározásra.
+(5) A genetikai minták és adatok (2) és (3) bekezdésekben foglalt továbbítását az egészségügyi államigazgatási szerv részére a továbbítást megelőzően, személyazonosításra alkalmatlan módon be kell jelenteni. A bejelentés során meg kell jelölni, hogy a harmadik országba történő adattovábbítás feltételei a személyes adatok megfelelő szintű védelme tekintetében mely, az Avtv.-ben meghatározott jogcím alapján kerültek meghatározásra.
 
 ### VII. Fejezet — ZÁRÓ ÉS ÁTMENETI RENDELKEZÉSEK
 
-#### 29. §
+29. § Az e törvény által nem szabályozott kérdésekben az Avtv. és az Eüak. rendelkezéseit kell alkalmazni.
 
 30. § (1) Ez a törvény 2008. július 1-jén lép hatályba.
 
 (2)
 
-(3)
+(3) Az e törvény hatálybalépése előtt a 4. § (1) bekezdése szerinti célokból létrejött sejt-, szövetmintát vagy más, humánbiológiai anyagot tartalmazó gyűjteményeknek – ide nem értve az átültetés céljából létrehozott szövetbankot, valamint az ivarsejt-adományozás és -letét céljából létrehozott ivarsejtbankot – 2009. október 1. napjáig kell megfelelniük e törvény biobankra vonatkozó szabályainak.
 
 (4) Az e törvény hatálybalépése előtt a törvény előírásainak is megfelelően anonimizált genetikai minták és adatok humángenetikai kutatás és vizsgálat céljából az e törvényben foglaltaknak megfelelően kezelhetők.
 
 31. § Felhatalmazást kap az egészségügyért felelős miniszter, hogy
 
-- a) a humángenetikai vizsgálat részletes szabályait,
-- b) a humángenetikai vizsgálatokat végző laboratóriumok működésének minimumfeltételeit,
-- c) a humángenetikai vizsgálatokat végző laboratóriumokkal szembeni akkreditációs, minőség-ellenőrzési követelményeket,
+- a) a genetikai teszt- és szűrővizsgálatok részletes szabályait,
+- b) a genetikai teszt- és szűrővizsgálatokat végző laboratóriumok működésének minimumfeltételeit,
+- c) a genetikai teszt- és szűrővizsgálatokat végző laboratóriumokkal szembeni akkreditációs, minőség-ellenőrzési követelményeket,
 - d) a genetikai minta és a genetikai adat tárolásának, kezelésének, feldolgozásának, a genetikai adatok kódolásának részletes szabályait,
 - e) a biobank működésének szakmai minimumfeltételeit, az engedélyezés szempontjait,
 - f) a beleegyező nyilatkozat formai követelményeit
 
 rendeletben meghatározza.
 
-#### 32. §
+32. § A Kormány évente beszámol az Országgyűlés előtt e törvény alkalmazásának tapasztalatairól és megvizsgálja a törvény módosításának szükségességét.

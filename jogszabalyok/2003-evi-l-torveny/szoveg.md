@@ -30,7 +30,7 @@ Az Országgyűlés elismeri a társadalmi szervezetek és alapítványok működ
 
 (2) Az Alapprogram bevételei:
 
-- a) a központi költségvetésről szóló törvényben meghatározott összeg;
+- a) 2011. évtől kezdődően a központi költségvetési támogatás összege a magánszemélyek jövedelemadójaként ténylegesen befizetett összeg 1%-ából a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény 4. §-ában megjelölt kedvezményezetteknek a tárgyévet megelőző harmadik évben benyújtott, érvényes rendelkező nyilatkozatok alapján ténylegesen kiutalt jövedelemadó-hányaddal megegyező összeg. Az Alapprogram központi költségvetési támogatási összege 2010. évben 7000 millió forint;
 - b) jogi személyek, jogi személyiség nélküli szervezetek és természetes személyek önkéntes befizetései, adományai;
 - c) költségvetési céltámogatások;
 - d) jogszabályban meghatározott egyéb bevételek.
@@ -45,15 +45,27 @@ Az Országgyűlés elismeri a társadalmi szervezetek és alapítványok működ
 
 (2) Az 1. § (2) bekezdésének a) és j) pontjában megjelölt célok kivételével csak a közhasznú szervezetekről szóló 1997. évi CLVI. törvény alapján közhasznú jogállást jogerősen megszerzett civil szervezet jogosult az Alapprogram támogatására.
 
-(3) Nem jogosult az Alapprogramból működési támogatásra az a civil szervezet, amely a pályázat kiírásának évében a költségvetési törvényben nevesítve részesül támogatásban a központi költségvetésből,.
+(3) Nem jogosult az Alapprogramból működési támogatásra az a civil szervezet, amely a pályázat kiírásának évében a költségvetési törvényben nevesítve részesül támogatásban a központi költségvetésből, és a támogatást az erről szóló támogatási szerződés szerint működési célra kapja.
 
 ### Az Alapprogram szervezete
 
-4. § A Tanács az Alapprogram elvi irányító testülete. Jogszabály által nem szabályozott kérdésben a Tanács jogosult meghatározni az Alapprogram támogatási rendszere működésének alapvető szabályait, az Alapprogramból nyújtható támogatások rendező elveit, így különösen az egy civil szervezet számára egy költségvetési évben nyújtható támogatás maximális összegét, a Kollégiumok közötti forrásmegosztás arányait; valamint ellátja az e törvényben ráruházott egyéb feladatokat. A Tanács a Nemzeti Gazdasági és Társadalmi Tanácsban civil szervezetek képviseletét ellátó öt személy delegálásáról a tagok legalább kétharmadának egyetértésével hoz döntést. Az öt személy delegálásáról szóló döntés során a Tanács figyelembe veszi e törvény 12. § (1) bekezdés a)–e) pontja szerinti öt tevékenységi területet.
+4. § (1) A Tanács az Alapprogram elvi irányító testülete. Jogszabály által nem szabályozott kérdésben a Tanács jogosult meghatározni az Alapprogram támogatási rendszere működésének alapvető szabályait, az Alapprogramból nyújtható támogatások rendező elveit, így különösen az egy civil szervezet számára egy költségvetési évben nyújtható támogatás maximális összegét, a Kollégiumok közötti forrásmegosztás arányait; valamint ellátja az e törvényben ráruházott egyéb feladatokat.
+
+(2) A Tanács tizenhét tagból áll, amelynek két tagját az Országgyűlés illetékes szakbizottsága (a továbbiakban: Bizottság) jelöli ki, és a miniszter bízza meg, három tagját pedig a miniszter saját hatáskörben jelöli ki és bízza meg. A Tanács tizenkét tagját a civil jelöltállítási rendszer az e törvény 12–13. §-ában meghatározott módon választja. A Tanács elnökét a miniszter a Bizottság egyetértésével, a Tanács javaslata alapján a Tanács tagjai közül kéri fel.
+
+(3) A Tanács valamennyi tagjának kijelölése és megbízása után kezdi meg működését. A Tanács első ülését a miniszter hívja össze.
+
+(4) A szabályszerűen összehívott ülésen a Tanács akkor határozatképes, ha a tagok több mint fele a szavazásban részt vesz. A Tanács minden tagjának egy szavazata van. A Tanács a döntéseit a jelen lévő tagok többségének egyetértésével hozza meg.
+
+(5) A Tanács működésének részletes szabályait ügyrend határozza meg, amelynek szövegére a Tanács elnöke tesz a miniszterrel egyeztetett javaslatot. A Tanács az ügyrendjét, illetve annak módosítását a tagok legalább kétharmadának az egyetértésével fogadja el.
+
+(6) A Tanács tagja a Tanács döntése ellen – az 5. § (6) bekezdésében foglalt tanácsi döntés kivételével – a döntés közzétételétől számított 30 napon belül jogszabálysértésre hivatkozással kifogást nyújthat be a miniszterhez. E határidő elmulasztása esetén igazolásnak nincs helye.
+
+(7) A miniszter a Tanácsot – amennyiben úgy ítéli meg, hogy a Tanács döntése jogszabályt sért – a kifogás benyújtását követő 30 napon belül felhívja a jogszabálysértés megszüntetésére, ellenkező esetben a kifogást elutasítja. Ha a Tanács a felhívásnak a felhívás kézhezvételétől számított 30 napon belül nem tesz eleget, a miniszter a Tanács döntését e határidő leteltét követő 30 napon belül megsemmisíti. A Tanács köteles a megsemmisítést követő 30 napon belül a kérdésben új döntést hozni.
 
 5. § (1) A Kollégiumok az Alapprogram regionális és civil szakmai szempontok alapján szerveződő operatív döntéshozó szervei. A Kollégiumok a Tanács által meghatározott támogatási elvek, módok, arányok szerint döntenek a kedvezményezettek támogatásáról vagy pályázatok kiírásáról, illetve azok elbírálásáról.
 
-(2) A miniszter a legalább 5, de legfeljebb 11 tagú Kollégiumokat a 13. § (1) bekezdés szerinti választást követően alakítja meg. A miniszter jogosult valamely Kollégiumot megszüntetni, új Kollégiumot létrehozni, továbbá meglévő Kollégium elnevezését megváltoztatni. A kollégiumi tagok létszámát, és azt, hogy a Kollégiumok civil delegáltjainak megválasztásában az e törvény 12. § (6) bekezdése szerinti elektori gyűlések közül melyek vesznek részt, a miniszter határozza meg. A Kollégium egy tagját a miniszter saját hatáskörében bízza meg. A Kollégium többi tagját a civil jelöltállítási rendszer az e törvény 12–13. §-ában meghatározott módon választja. A Kollégiumok elnökeit a Kollégiumok tagjai közül, a Kollégium javaslata alapján a miniszter jelöli ki.
+(2) A miniszter a legalább 5, de legfeljebb 11 tagú Kollégiumokat 3 évente a 13. § (1) bekezdés szerinti választást követően a Tanács javaslata alapján alakítja meg; ennek keretében a miniszter jogosult a Tanács javaslatára valamely Kollégiumot megszüntetni és új Kollégiumot létrehozni. A kollégiumi tagok létszámát, és azt, hogy a Kollégiumok civil delegáltjainak megválasztásában az e törvény 12. § (6) bekezdése szerinti elektori gyűlések közül melyek vesznek részt, a miniszter a Tanács javaslata alapján határozza meg. A Kollégium egy tagját a miniszter saját hatáskörében bízza meg. A Kollégium többi tagját a civil jelöltállítási rendszer az e törvény 12–13. §-ában meghatározott módon választja. A Kollégiumok elnökeit a Kollégiumok tagjai közül, a Kollégium javaslata alapján, a Tanács egyetértésével a miniszter jelöli ki.
 
 (3) A Kollégium akkor határozatképes, ha a tagjainak több mint fele a szavazásban részt vesz. A Kollégium minden tagjának egy szavazata van. A Kollégium a döntéseit a tagok legalább felének egyetértésével hozza meg. Szavazategyenlőség esetén a Kollégium elnökének szavazata dönt.
 
@@ -69,7 +81,7 @@ Az Országgyűlés elismeri a társadalmi szervezetek és alapítványok működ
 
 (2) A Tanácsban, Kollégiumban a jelölést, illetve választást megelőző 3 év során tagi tisztséget betöltő személy akkor jelölhető, illetve választható újra, ha megbízása kezdetét megelőző 3 évben az Alapprogram egyik testületének sem volt tagja.
 
-(3) A Tanács és a Kollégiumok tagjainak költségtérítését a miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza. A költségtérítés egy hónapra járó összege a mindenkori kötelező legkisebb munkabér havi összegének felét nem haladhatja meg.
+(3) A Tanács és a Kollégiumok tagjainak díjazását a miniszter rendeletben szabályozza. A díj egy hónapra járó összege nem lehet kevesebb a mindenkori kötelező legkisebb munkabér havi összegénél, a díjazás kifizetése a testületi döntésekben történő részvétel figyelembevételével történik.
 
 7. § (1) Nem lehet a Tanács, illetve a Kollégium tagja
 
@@ -96,20 +108,12 @@ Az Országgyűlés elismeri a társadalmi szervezetek és alapítványok működ
 
 (4) A (3) bekezdésben foglaltak megsértésével kötött támogatási szerződésre a Knyt. 15. §-ában foglaltakat kell alkalmazni azzal, hogy a (3) bekezdésben foglaltak megsértését a miniszterhez is be kell jelenteni. A bejelentés megalapozottsága esetén a miniszter az érintett kollégiumi tag megbízását a bejelentést követő 15 napon belül visszavonja.
 
-8. § (1) A Tanács, tagjának megbízása megszűnik
+8. § (1) A Tanács, illetve Kollégium tagjának megbízása megszűnik
 
 - a) a megbízás időtartamának lejártával, illetve a (2) bekezdésben foglalt esetben,
 - b) a tisztségről történő lemondással,
 - c) a tag halálával, vagy
 - d) a megbízás visszavonásával.
-
-(1a) A Kollégium tagjának megbízása megszűnik
-
-- a) a megbízás időtartamának lejártával, illetve a (2) bekezdésben foglalt esetben,
-- b) a tisztségről történő lemondással,
-- c) a tag halálával,
-- d) a megbízás visszavonásával,
-- e) a Kollégium 5. § (2) bekezdése szerinti megszűnése esetén.
 
 (2) A civil jelöltállítási rendszerben újra nem választott tanácsi, kollégiumi tagok megbízatása megszűnik a testület új tagjainak a 13. § (1) bekezdése szerinti megválasztását követő megbízása napján.
 
@@ -222,8 +226,8 @@ területén működő civil szervezetek.
 (4) Felhatalmazást kap a miniszter, hogy
 
 - a) az Alapprogram működésével kapcsolatos beszámolók tartalmi elemeit, a beszámolás rendjét, az Alapprogram nyilvánosságával kapcsolatos részletes szabályokat,
-- b) a Tanács és a Kollégium tagjai a költségtérítése elszámolása szabályait az államháztartásért felelős miniszterrel egyetértésben
+- b) a Tanács és a Kollégium tagjai díjazásának szabályait az államháztartásért felelős miniszterrel egyetértésben
 
 rendeletben állapítsa meg.
 
-16. §
+16. § A 3. § (1) bekezdésének rendelkezéséről eltérően a Magyar Köztársaság 2010. évi költségvetéséről szóló törvény által az Alapprogram számára biztosított forrásból az a civil szervezet jogosult támogatásra, amelyet a bíróság 2008. december 31-éig nyilvántartásba vett, és a létesítő okiratban foglalt tevékenységet ténylegesen folytatja.

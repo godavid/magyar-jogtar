@@ -50,33 +50,24 @@ Az Országgyűlés annak érdekében, hogy elősegítse a magyar gazdaság verse
 
 4. § E törvény alkalmazásában
 
-- 1. a) alapkutatás: kísérleti vagy elméleti munka, amelyet elsősorban a jelenségek vagy megfigyelhető tények hátterével kapcsolatos új ismeretek megszerzésének érdekében folytatnak, anélkül, hogy kilátásba helyeznék azok gyakorlati alkalmazását vagy felhasználását;
-  - b) alkalmazott kutatás: tervezett kutatás vagy kritikus vizsgálat, amelynek célja új ismeretek és szakértelem megszerzése új termékek, eljárások vagy szolgáltatások kifejlesztéséhez, vagy a létező termékek, eljárások vagy szolgáltatások jelentős mértékű fejlesztésének elősegítéséhez. Magában foglalja az alkalmazott kutatáshoz – különösen a generikus technológiák ellenőrzéséhez – szükséges komplex rendszerek összetevőinek létrehozását is, a prototípusok kivételével;
-  - c) kísérleti fejlesztés: a meglévő tudományos, technológiai, üzleti és egyéb, vonatkozó ismeretek és szakértelem megszerzése, összesítése, megosztása és felhasználása új, módosított vagy javított termékek, eljárások vagy szolgáltatások terveinek és szabályainak létrehozása vagy megtervezése céljából. Kísérleti fejlesztésnek minősülhetnek: ca) az új termékek, eljárások és szolgáltatások fogalmi meghatározását, megtervezését és dokumentálását célzó tevékenységek; cb) olyan tevékenységek melyek magukban foglalják tervezetek, tervrajzok, tervek és egyéb dokumentációk előállítását is, feltéve, hogy azokat nem kereskedelmi felhasználásra szánják; cc) a kereskedelmi felhasználásra nem kerülő prototípusok elkészítése; cd) a kereskedelmileg felhasználható prototípusok és kísérleti projektek kifejlesztése abban az esetben, ha a prototípus szükségszerűen maga a kereskedelmi végtermék, és előállítása túlságosan költséges ahhoz, hogy az kizárólag demonstrációs és hitelesítési céllal történjen; ce) a termékek, eljárások és szolgáltatások kísérleti gyártása és tesztelése, feltéve hogy azokat nem lehet felhasználni vagy átalakítani úgy, hogy azok ipari alkalmazásokban vagy kereskedelmileg hasznosíthatóak legyenek. A kísérleti fejlesztésbe még akkor sem tartoznak bele azok a szokásos, időszakos vagy rutinszerű változtatások, amelyeket termékeken, gyártósorokon, előállítási eljárásokon, létező szolgáltatásokon és egyéb folyamatban lévő műveleteken végeznek, ha e változtatások fejlesztésnek minősülnek, illetve ha e változtatások az adott termék, eljárás, folyamat vagy szolgáltatás fejlődését is eredményezik;
+- 1. a) alapkutatás: elsődlegesen a jelenségek lényegére és a megfigyelhető tényekre vonatkozó tudományos ismeretek bővítését célzó kísérleti, tapasztalati, rendszerező vagy elméleti munka, amely lehet aa) tiszta alapkutatás: a tudományos ismeretek bővítésére irányuló kutatás, amelynek nem célja a közvetlen társadalmi vagy gazdasági haszon elérése vagy az eredmények gyakorlati problémák megoldására történő alkalmazása; ab) célzott alapkutatás: a tudományos ismeretek bővítésére irányuló olyan kutatás, amelyről valószínűsíthető, hogy a felismert vagy várható, jelenlegi vagy jövőbeli problémák megoldására alapul szolgál;
+  - b) alkalmazott (vagy ipari) kutatás: új ismeret szerzésére elsődlegesen meghatározott gyakorlati cél érdekében végzett eredeti vizsgálat (a továbbiakban: alkalmazott kutatás);
+  - c) kísérleti (vagy pre-kompetitív) fejlesztés: a kutatásból és/vagy a gyakorlati tapasztalatokból nyert, már létező tudásra támaszkodó tevékenység, amelynek célja új anyagok, termékek, eljárások, rendszerek, szolgáltatások létrehozása, vagy a már meglévők lényeges továbbfejlesztése (a továbbiakban: kísérleti fejlesztés);
   - d) kutatás-fejlesztés: magában foglalja az alapkutatást, az alkalmazott kutatást és a kísérleti fejlesztést;
   - e) a kutatás-fejlesztési és technológiai innovációs eredmények hasznosítása: ide tartozik mind a vállalkozások keretében, üzleti céllal, gazdasági eredmény reményében történő felhasználás, mind az olyan közösségi célú felhasználás, amelynek eredménye a lakosság életminőségének és a közszolgáltatások minőségének javítása, a természeti és épített környezet védelme, az ország fenntartható fejlődése, valamint védelmi képességének és biztonsági helyzetének javítása (a továbbiakban: hasznosítás);
 - 2. technológiai innováció: a gazdasági tevékenység hatékonyságának, jövedelmezőségének javítása, illetve kedvező társadalmi és környezeti hatások elérése érdekében végzett tudományos, műszaki, szervezési, gazdálkodási, kereskedelmi műveletek összessége, amelyek eredményeként új vagy lényegesen módosított termékek, eljárások, szolgáltatások jönnek létre, új vagy lényegesen módosított eljárások, technológiák alkalmazására, piaci bevezetésére kerül sor, beleértve azokat a változásokat, amelyek csak adott ágazatban vagy adott szervezetnél minősülnek újdonságnak;
 - 3. nemzeti innovációs rendszer: az országon belül azoknak az intézményeknek, vállalkozásoknak és egyéb szervezeteknek, valamint azoknak az erőforrásoknak, szabályoknak, feltételeknek és intézkedéseknek az összessége, amelyek az új tudás és technológia létrehozását, átadását, terjedését és hasznosítását befolyásolják;
 - 4. a) kutatóhely: alap-, illetve főtevékenységként vagy ahhoz kapcsolódóan kutatás-fejlesztési tevékenységet folytató szervezet, szervezeti egység vagy egyéni vállalkozó;
   - b) költségvetési kutatóhely: költségvetési gazdálkodási rendben működő, alap-, illetve főtevékenységként vagy ahhoz kapcsolódóan kutatás-fejlesztési tevékenységet folytató szervezet vagy szervezeti egység;
-  - c) non-profit kutatóhely: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvényben (a továbbiakban: Civiltv.) meghatározott közhasznú szervezetként, illetve annak keretében működő kutatóhely;
+  - c) non-profit kutatóhely: a közhasznú szervezetekről szóló törvényben meghatározott közhasznú szervezetként, illetve annak keretében működő kutatóhely;
   - d) kutató, fejlesztő: az a természetes személy, aki új ismeret, szellemi alkotás, termék, szolgáltatás, eljárás, módszer, rendszer létrehozásával vagy fejlesztésével, valamint az ezt célzó projektek megvalósításának irányításával foglalkozik (a továbbiakban: kutató);
 - 5. konzorcium: a részes felek (tagok) polgári jogi szerződésben szabályozott munkamegosztásán alapuló együttműködés kutatás-fejlesztési, technológiai innovációs tevékenység közös folytatása vagy egy kutatás-fejlesztési, technológiai innovációs projekt közös megvalósítása céljából;
 - 6. a) vállalkozás: az egyéni vállalkozó, az egyéni cég, a gazdasági társaság, a szövetkezet, a vízi társulat, vízi-közmű társulat, továbbá az erdőbirtokossági társulat;
   - b) hasznosító vállalkozás: költségvetési kutatóhelyen – a 20. § alkalmazásában non-profit kutatóhelyen is – létrejött szellemi alkotások üzleti hasznosítása céljából az ilyen kutatóhely által alapított, illetve részvételével vagy részesedésével működő gazdasági társaság;
-- 7. közfinanszírozású támogatás: az államháztartás alrendszereiből nyújtott támogatás az Európai Unióból (a továbbiakban: EU) származó forrásokat is, továbbá a a megyei (fővárosi) önkormányzat és a térségi fejlesztési tanácsok rendelkezési jogkörébe utalt támogatás és az állami, illetve önkormányzati részvétellel létrejött nemzetközi szerződések alapján kapott külföldi támogatás;
+- 7. közfinanszírozású támogatás: az államháztartás alrendszereiből nyújtott támogatás, ideértve az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 13/A. § szerinti, az Európai Unióból (a továbbiakban: EU) származó forrásokat is, továbbá a területfejlesztési tanácsok rendelkezési jogkörébe utalt támogatás és az állami, illetve önkormányzati részvétellel létrejött nemzetközi szerződések alapján kapott külföldi támogatás;
 - 8. a) kutatás-fejlesztési és technológiai innovációs program: közfinanszírozású támogatási forrás kezelője által meghatározott cél elérését szolgáló, vagy meghatározott témakörbe csoportosítható kutatás-fejlesztési vagy technológiai innovációs projektek megvalósításának támogatására kiírt pályázat, illetve pályázatok időben megismételt sorozata (a továbbiakban: program);
   - b) projekt: meghatározott kutatás-fejlesztési feladat, technológiai innovációs folyamat végrehajtására irányuló tevékenység az abban érdekeltek által meghatározott terv alapján;
-- 9. civil szervezet: a Civiltv. 2. § 6. pontjában meghatározott civil szervezet;
-- 10. kutatás-fejlesztési megállapodás: két vagy több vállalkozás, illetve vállalkozás és kutatóhely (e pontban a továbbiakban: felek) között létrejött olyan megállapodás, amelynek tárgya
-  - a) a megállapodás szerinti termékre, eljárásra vagy szolgáltatásra vonatkozó közös kutatás-fejlesztés, valamint az ilyen kutatás-fejlesztés eredményeinek közös hasznosítása,
-  - b) ugyanazon részt vevő felek közötti korábbi megállapodás alapján végzett, a megállapodás szerinti termékre, eljárásra vagy szolgáltatásra vonatkozó közös kutatás-fejlesztés eredményeinek közös hasznosítása,
-  - c) a megállapodás szerinti termékre, eljárásra vagy szolgáltatásra vonatkozó közös kutatás-fejlesztés, az ebből származó eredmény közös hasznosítása nélkül,
-  - d) a megállapodás szerinti termékre, eljárásra vagy szolgáltatásra vonatkozó fizetett kutatás-fejlesztés, valamint az ilyen kutatás-fejlesztés eredményeinek közös hasznosítása,
-  - e) ugyanazon részt vevő felek közötti korábbi megállapodás alapján végzett, a megállapodás szerinti termékre, eljárásra vagy szolgáltatásra vonatkozó fizetett kutatás-fejlesztés eredményeinek közös hasznosítása, vagy
-  - f) a megállapodás szerinti termékre, eljárásra vagy szolgáltatásra vonatkozó fizetett kutatás-fejlesztés, az ebből származó eredmény közös hasznosítása nélkül; e pont alkalmazásában fizetett kutatás-fejlesztésnek minősül az egyik fél által végzett és egy finanszírozó fél által finanszírozott kutatás-fejlesztés, ahol a finanszírozó fél maga nem végez kutatás-fejlesztési tevékenységet;
-- 11. a) szellemi tulajdon: a szellemi alkotások és egyes teljesítmények, az árujelzők (védjegyek és földrajzi árujelzők), valamint a nyilvánosságra még nem jutott ismeretek tekintetében a vonatkozó törvények, az Európai Unió közvetlenül alkalmazandó jogi aktusai és nemzetközi egyezmények által biztosított jogi oltalom;
-  - b) szellemi alkotások: azok az alkotások, műszaki megoldások, amelyek alkalmasak arra, hogy iparjogvédelmi oltalom (szabadalom, használati mintaoltalom, növényfajta-oltalom, formatervezési mintaoltalom, topográfiaoltalom) tárgyát képezzék, vagy amelyek jogszabály erejénél fogva szerzői jogi védelem alatt állnak, ideértve azt is, amikor a hasznosítási célok, lehetőségek függvényében a megfelelő oltalom megszerzése helyett e megoldások titokban tartása célszerű;
+- 9. civil szervezet: az egyesülési jogról szóló 1989. évi II. törvény alapján létrejött társadalmi szervezet, szövetség (kivéve a pártot, a munkaadói és munkavállalói érdekképviseleti szervezetet, a biztosító egyesületet, valamint az egyházat) és a Polgári Törvénykönyvről szóló 1959. évi IV. törvény alapján létrejött alapítvány (ide nem értve a közalapítványt).
 
 ### III. Fejezet — A KUTATÁS-FEJLESZTÉS ÉS A TECHNOLÓGIAI INNOVÁCIÓ KORMÁNYZATI FELADATAI
 
@@ -84,7 +75,7 @@ Az Országgyűlés annak érdekében, hogy elősegítse a magyar gazdaság verse
 
 - a) megalkotja, és szükség szerint megújítja középtávú tudomány-, technológia- és innováció-politikai (a továbbiakban: TTI) stratégiáját;
 - b) a TTI stratégia megvalósításáról kétévente beszámol az Országgyűlésnek;
-- c) a központi költségvetésről szóló törvény előkészítése során – az államháztartás forrásaival és egyéb kötelezettségeivel összhangban – javaslatot tesz a TTI stratégia időarányos céljainak megvalósításához szükséges feltételekre és forrásokra;
+- c) az állami költségvetés előkészítése során – az államháztartás forrásaival és egyéb kötelezettségeivel összhangban – javaslatot tesz a TTI stratégia időarányos céljainak megvalósításához szükséges feltételekre és forrásokra;
 - d) támogatja az EU programjaiban és más nemzetközi tudományos és technológiai együttműködésekben történő magyar részvételt;
 - e) támogatja és ösztönzi a vállalkozásokat annak érdekében, hogy hasznosítsák a hazai kutatás-fejlesztés eredményeit, valamint a külföldön létrejött tudást és technológiát;
 - f) tudomány- és gazdaságdiplomáciai eszközökkel és a fejlett technológia kereskedelmének ösztönzésével elősegíti a Magyarországon létrehozott szellemi alkotások és technológia hazai érdekekkel összhangban álló külföldi hasznosítását;
@@ -183,7 +174,7 @@ Az Országgyűlés annak érdekében, hogy elősegítse a magyar gazdaság verse
 
 (6) A projekt támogatására vonatkozó szerződésben meg kell határozni a projekt értékeléséhez szükséges információk körét és az információ-szolgáltatásnak a projekt befejezésétől számított időpontját, illetve gyakoriságát.
 
-(7) A projektértékelés és a nyilvánossá tétel szempontrendszerét, valamint az ehhez kapcsolódó adatszolgáltatási kötelezettséget a pályázati kiírás tartalmazza.
+(7) A projektértékelés és a nyilvánossá tétel szempontrendszerét, valamint az ehhez kapcsolódó adatszolgáltatási kötelezettséget – a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény szabályainak megfelelően – a pályázati kiírás tartalmazza.
 
 15. § (1) A közfinanszírozású támogatással megvalósuló kutatás-fejlesztési és technológiai innovációs projektek (témák) nyilvántartása, ennek révén az átláthatóság növelése, a párhuzamos, illetve halmozott pénzügyi támogatások azonosítása, a tudományos és szakmai együttműködés megkönnyítése, valamint a hasznosítás elősegítése céljából Nemzeti Kutatás-nyilvántartási Rendszert (a továbbiakban: NKR) kell működtetni.
 
@@ -251,7 +242,7 @@ Az Országgyűlés annak érdekében, hogy elősegítse a magyar gazdaság verse
 
 (8) A költségvetési szerv évente jelentést készít felügyeleti szerve részére arról, hogy az általa alapított, vagy részvételével működő hasznosító vállalkozásokban hogyan valósultak meg a hasznosítási célok.
 
-(9) A (4) és (6) bekezdés értelemszerűen irányadó a költségvetési szerv által létrehozott, vagy részesedésével működő hasznosító vállalkozás általi további, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet alapítása, illetve gazdálkodó szervezetben történő részesedés szerzése esetén is, továbbá mindazon esetekben, amikor a hasznosító vállalkozás közvetett részesedésével működő gazdálkodó szervezet alapít gazdálkodó szervezetet vagy szerez gazdálkodó szervezetben részesedést.
+(9) A (4) és (6) bekezdés értelemszerűen irányadó a költségvetési szerv által létrehozott, vagy részesedésével működő hasznosító vállalkozás általi további gazdálkodó szervezet alapítása, illetve gazdálkodó szervezetben történő részesedés szerzése esetén is, továbbá mindazon esetekben, amikor a hasznosító vállalkozás közvetett részesedésével működő gazdálkodó szervezet alapít gazdálkodó szervezetet vagy szerez gazdálkodó szervezetben részesedést.
 
 (10) Hasznosító vállalkozás az (1) bekezdés szerinti szellemi alkotást nem apportálhatja.
 
@@ -303,7 +294,7 @@ Az Országgyűlés annak érdekében, hogy elősegítse a magyar gazdaság verse
 
 27. § (1) A 26. §-ban megjelölt szolgáltatásokat úgy kell fejleszteni, hogy azok az igénybevevők számára a saját régiójukban elérhetők legyenek.
 
-(2) A területfejlesztésért felelős miniszter és az érintett megyei önkormányzatok, a főváros esetében a fővárosi önkormányzat gondoskodnak arról, hogy a regionális fejlesztési ügynökségek vagy a régióban működő más szervezetek alkalmasak legyenek a regionális innovációs funkciók fejlesztésének és az e körbe tartozó tevékenységek koordinálására, beleértve a szolgáltatást nyújtó szervezetek hálózatszerű együttműködésének elősegítését is.
+(2) A regionális fejlesztési tanácsok gondoskodnak arról, hogy a regionális fejlesztési ügynökségek vagy a régióban működő más szervezetek alkalmasak legyenek a regionális innovációs funkciók fejlesztésének és az e körbe tartozó tevékenységek koordinálására, beleértve a szolgáltatást nyújtó szervezetek hálózatszerű együttműködésének elősegítését is.
 
 28. § (1) A szellemi alkotások kis- és középvállalkozások által történő üzleti hasznosítását állami résztulajdonnal működő pénzügyi vállalkozás (garancia intézmény) segítheti.
 
@@ -324,118 +315,13 @@ Az Országgyűlés annak érdekében, hogy elősegítse a magyar gazdaság verse
 - c) kutatásetikai kódex kidolgozását;
 - d) a kutatás-fejlesztés és a technológiai innováció, valamint a társadalom más szereplői közötti párbeszéd erősítését.
 
-### VIII/A. Fejezet — KUTATÁS-FEJLESZTÉSI TEVÉKENYSÉG MINŐSÍTÉSE
-
-30/A. § (1) A Szellemi Tulajdon Nemzeti Hivatala hatósági jogkörében, kérelemre minősíti a kérelemben megjelölt projektet abból a szempontból, hogy az annak tartalmát képező tevékenységek a 4. § 1. pont a)–d) alpontja szerint kutatás-fejlesztési tevékenységnek tekinthetők-e.
-
-(2) A minősítési eljárás keretében hozott határozat
-
-- a) a kutatás-fejlesztési tevékenységhez kapcsolódó adó- és járulékkedvezmények érvényesítéséhez, valamint
-- b) a kutatás-fejlesztési támogatási rendszerben a támogatás iránti kérelemben megjelölt kutatás-fejlesztési projekt kutatás-fejlesztési tartalmának igazolására használható fel.
-
-30/B. § (1) A minősítési eljárás tárgyát időtartamában pontosan meghatározott és a kérelem benyújtását követően megkezdett projekt vagy projektrész képezheti.
-
-(2) Az (1) bekezdés alkalmazásában a minősítés akkor kérelmezhető egy adott projekt egyes részeire, ha azok egyértelműen elválaszthatóak egymástól.
-
-30/C. § (1) Ha a projekt kutatás-fejlesztésnek minősül, a minősítés – kérelemre – kiterjed arra is, hogy
-
-- a) meghatározza a projekt alapkutatási, alkalmazott kutatási vagy kísérleti fejlesztési tevékenységeinek arányát;
-- b) az adott tevékenységet a kérelmező a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 32. pontja szerinti saját tevékenységi körében végzi-e.
-
-(2) A Szellemi Tulajdon Nemzeti Hivatala által jogerős határozatban kutatás-fejlesztési tevékenységnek minősített projektet más hatóságnak is ilyennek kell tekintenie.
-
-(3) A minősítési eljárás keretében hozott határozat a hatóságra csak a projektnek a kérelemben foglaltakhoz képest változatlan megvalósítása mellett kötelező. Ha a projekt a kérelemben foglaltakhoz képest másképp valósul meg, a tevékenység a 30/A. § (2) bekezdés a) pont szerinti kedvezmények érvényesítése szempontjából új projektnek minősül, a minősítés hatálya pedig nem terjed ki rá.
-
-30/D. § (1) A Szellemi Tulajdon Nemzeti Hivatalának e fejezetben szabályozott eljárására a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit a következő eltérésekkel kell alkalmazni:
-
-- a) nem alkalmazhatók a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek azok a rendelkezései, amelyek az eljárás megindításával kapcsolatos – hivatalból vagy kérelemre történő – értesítésre vonatkoznak;
-- b) a kérelmet csak írásban, az e célra rendszeresített formanyomtatványon vagy elektronikus űrlapon, a Szellemi Tulajdon Nemzeti Hivatalánál lehet előterjeszteni;
-- c) a Szellemi Tulajdon Nemzeti Hivatala a tényeket a kérelem keretei között, az ügyfél nyilatkozatai és állításai alapján vizsgálja;
-- d) nem alkalmazhatók a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a közvetítő igénybevételére, a határozat közzétételére, az ügygondnokra, a költségmentességre és a végrehajtásra vonatkozó rendelkezései;
-- e) nincs helye tárgyalás tartásának és közmeghallgatásnak;
-- f) az eljárásban rövid szöveges üzenet útján nincs helye kapcsolattartásnak, elektronikus úton írásban csak a 30/F. §-ban meghatározott esetben, a b) pont szerinti elektronikus űrlap benyújtásakor van helye kapcsolattartásnak.
-
-(2) A Szellemi Tulajdon Nemzeti Hivatala döntéseivel szemben nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi felhívásnak; a Szellemi Tulajdon Nemzeti Hivatalának a 30/A. § (1) bekezdésében és a 30/C. §-ban felsorolt kérdésekben hozott határozatait a Fővárosi Törvényszék – a 30/E. §-ban foglaltak szerint – nemperes eljárásban vizsgálja felül.
-
-(2a) A Szellemi Tulajdon Nemzeti Hivatala a 30/A. § (1) bekezdésében és a 30/C. § (1) bekezdésében felsorolt kérdésekben hozott döntését megváltoztatási kérelem alapján, annak a bírósághoz történő továbbításáig visszavonhatja vagy a megváltoztatási kérelemben foglaltaknak megfelelően módosíthatja, ha megállapítja, hogy döntése jogszabályt sért vagy ha a megváltoztatási kérelemben foglaltakkal egyetért. A módosító döntés ellen ugyanolyan jogorvoslatnak van helye, mint amilyen a módosított döntés ellen volt.
-
-(3) A 30/A. § (1) bekezdése és a 30/C. § (1) bekezdése szerinti kérelemért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
-
-(4) A kutatás-fejlesztési minősítési eljárások magyar nyelven folynak, a kérelmet magyar nyelven kell benyújtani. A kérelem mellékleteként idegen nyelvű beadványokat is be lehet nyújtani, a Szellemi Tulajdon Nemzeti Hivatala azonban – határidő tűzésével – magyar nyelvű fordítás benyújtását írhatja elő. Hitelesített fordítás benyújtása csak akkor írható elő, ha alappal vonható kétségbe a fordítás pontossága vagy a külföldi okiratban foglaltak valódisága.
-
-(5) Az (1) bekezdés a) pontjától eltérően, ha a minősítési eljárás megindítására irányuló kérelmet benyújtó ügyfél kéri, a kérelem beérkezését követő naptól számított nyolc napon belül a Szellemi Tulajdon Nemzeti Hivatala a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott szabályok szerint értesíti
-
-- a) az ügy iktatási számáról, az ügyintéző nevéről és hivatali elérhetőségéről,
-- b) az eljárás megindításának napjáról, az ügyintézési határidőről, az ügyintézési határidőbe nem számító időtartamokról, a Szellemi Tulajdon Nemzeti Hivatala eljárási kötelezettségének elmulasztása esetén követendő eljárásról,
-- c) az iratokba való betekintés és nyilatkozattétel lehetőségéről, valamint
-- d) arról, hogy kérelme a szükséges adatainak kezeléséhez és belföldi jogsegély céljából történő továbbításához való hozzájárulásnak minősül.
-
-30/E. § (1) A bíróság kérelemre megváltoztathatja a Szellemi Tulajdon Nemzeti Hivatalának
-
-- a) a 30/A. § (1) bekezdése szerinti kérelemben megjelölt projekt kutatás-fejlesztési tevékenységnek való minősítése tárgyában hozott határozatát, ideértve a 30/C. § (1) bekezdése szerinti döntéseket is;
-- b) az eljárást felfüggesztő végzését;
-- c) a kérelmet érdemi vizsgálat nélkül elutasító és az eljárást megszüntető végzését;
-- d) az iratbetekintést kizáró vagy azt korlátozó azt a végzését, amellyel szemben a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint önálló jogorvoslatnak van helye;
-- e) az iratbetekintési jog korlátozására irányuló kérelem tárgyában hozott végzését.
-
-(2) A Szellemi Tulajdon Nemzeti Hivatalának az (1) bekezdésben nem említett végzése csak az (1) bekezdésben felsorolt döntésekkel szemben előterjesztett megváltoztatási kérelemben támadható meg.
-
-(3) A döntés megváltoztatását a kérelmező, illetve az kérheti, akit az iratbetekintésből kizártak vagy abban korlátoztak.
-
-(4) A 30/D. § (2) bekezdése szerinti nemperes eljárás megindítására irányuló kérelmet a döntés közlésétől számított harminc napon belül a Szellemi Tulajdon Nemzeti Hivatalánál kell benyújtani vagy részére ajánlott küldeményként postára adni. A Szellemi Tulajdon Nemzeti Hivatala a megváltoztatási kérelmet az ügy irataival együtt – az (5) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz.
-
-(5) Ha a megváltoztatási kérelem elvi jelentőségű jogkérdést vet fel, a Szellemi Tulajdon Nemzeti Hivatala e kérdésben írásbeli nyilatkozatot tehet, és azt a megváltoztatási kérelemmel, valamint az ügy irataival együtt harminc napon belül továbbítja a bírósághoz.
-
-(6) Az (1) bekezdés szerinti kérelem kellékeire a keresetlevélre vonatkozó szabályok megfelelően irányadók.
-
-(7) Ha az (1) bekezdés szerinti kérelmet elkésetten nyújtották be, az igazolási kérelem tárgyában a bíróság határoz.
-
-(8) A 30/D. § (2) bekezdése szerinti nemperes eljárásra a polgári perrendtartásról szóló törvény általános szabályait – a nemperes eljárás sajátosságaiból fakadó, valamint a (9)–(12) bekezdésben foglalt eltérésekkel – kell alkalmazni.
-
-(9) Ha az ügy az iratok alapján elbírálható, a bíróság személyes meghallgatás nélkül is hozhat határozatot, ha a fél azt külön nem kéri.
-
-(10) A bíróság mind az ügy érdemében, mind egyéb esetben végzéssel határoz.
-
-(11) Ha a bíróság a Szellemi Tulajdon Nemzeti Hivatalának döntését megváltoztatja, végzése a Szellemi Tulajdon Nemzeti Hivatala döntésének helyébe lép.
-
-(12) A bíróság a Szellemi Tulajdon Nemzeti Hivatalának döntését hatályon kívül helyezi, és a Szellemi Tulajdon Nemzeti Hivatalát új eljárásra utasítja, ha
-
-- a) a döntés meghozatalában olyan személy vett részt, akivel szemben kizáró ok állt fenn;
-- b) a Szellemi Tulajdon Nemzeti Hivatala előtti eljárásban olyan lényeges egyéb eljárási szabálysértés történt, amely a bírósági eljárásban nem orvosolható.
-
-30/F. § (1) A minősítési eljárásban az ügyfél – a (2) bekezdésben meghatározott eset kivételével – nem jogosult a Szellemi Tulajdon Nemzeti Hivatalával, a Szellemi Tulajdon Nemzeti Hivatala pedig nem köteles az ügyféllel elektronikus úton írásban kapcsolatot tartani.
-
-(2) A 30/A. § (1) bekezdése, valamint a 30/C. § (1) bekezdése szerinti kérelmet – a Szellemi Tulajdon Nemzeti Hivatala által erre rendszeresített elektronikus űrlap használatával – elektronikus úton is be lehet nyújtani.
-
-(3) A (2) bekezdésben meghatározott, elektronikus úton benyújtott kérelem megérkezéséről a Szellemi Tulajdon Nemzeti Hivatala – jogszabályban meghatározott módon – elektronikus érkeztető számot tartalmazó automatikus értesítést küld a kérelmezőnek.
-
-(4) A Szellemi Tulajdon Nemzeti Hivatala az elektronikus úton benyújtott kérelem megérkezését követően haladéktalanul megvizsgálja, hogy az megfelel-e az elektronikus úton történő kapcsolattartásra vonatkozó jogszabályi követelményeknek.
-
-(5) Elektronikus benyújtás esetén az elektronikus úton benyújtott kérelem az elektronikus érkeztetésről szóló automatikus visszaigazolásnak a kérelmező részére történő elküldésével tekintendő benyújtottnak, kivéve, ha a Szellemi Tulajdon Nemzeti Hivatala a benyújtott dokumentum értelmezhetetlenségét állapítja meg, és erről az ügyfelet elektronikus levélben értesíti.
-
-(6) Az értelmezhetetlen dokumentumot beküldő ügyfél az (5) bekezdés szerinti értesítés visszaigazolására köteles. Ha az ügyfél az értesítés átvételét tizenöt napon belül nem igazolja vissza, a Szellemi Tulajdon Nemzeti Hivatala postai úton továbbítja számára az értesítést.
-
-30/G. § (1) Az adóhatóság az ellenőrzése során – az adózás rendjéről szóló törvény rendelkezései alapján – szakértőként megkeresheti a Szellemi Tulajdon Nemzeti Hivatalát. Ebben az esetben a Szellemi Tulajdon Nemzeti Hivatala szakértői eljárásának időtartama 45 nap, amely határidő nem hosszabbítható meg.
-
-(2) Az (1) bekezdés szerinti eljárásban a Szellemi Tulajdon Nemzeti Hivatala szakértői díjazásra nem tarthat igényt.
-
-(3) Más hatóság vagy bíróság általi megkeresés alapján a Szellemi Tulajdon Nemzeti Hivatala szakértői véleményt ad a megkeresésben megjelölt tevékenységek kutatás-fejlesztési szempontú minősítése, valamint a megkeresésben megjelölt költségeknek a kutatás-fejlesztési tevékenységhez való hozzárendelhetősége kérdésében.
-
-(4) Az (1) és a (3) bekezdés szerinti eljárásban a Szellemi Tulajdon Nemzeti Hivatala a feltett kérdések és benyújtott iratok alapján alakítja ki a szakértői véleményt, a tények megállapítására nem végez külön bizonyítást és nem tart helyszíni szemlét. Szükség esetén azonban a Szellemi Tulajdon Nemzeti Hivatala további adatok szolgáltatását kérheti a megkereső bíróságtól vagy hatóságtól.
-
-(5) Ha az (1) és a (3) bekezdés szerinti eljárásban a szakértői vélemény kialakításához olyan különleges szakismeretre is szükség van, amellyel a Szellemi Tulajdon Nemzeti Hivatala nem rendelkezik, a Szellemi Tulajdon Nemzeti Hivatala megfelelő szakértelemmel bíró harmadik személy közreműködését is igénybe veheti.
-
-(6) A (3) bekezdés szerinti eljárásban a Szellemi Tulajdon Nemzeti Hivatala díjazására az igazságügyi szakértői tevékenységet végzők díjazására vonatkozó szabályokat kell alkalmazni.
-
 ### IX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 31. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – 2005. január 1-jén lép hatályba.
 
 (2) E törvény 12. §-ának g) pontja, valamint a 20. § (2) bekezdése 2006. január 1-jén lép hatályba, a rendelkezést az azt követően kiírt pályázatokon elnyert támogatásokról megkötendő szerződések esetén kell alkalmazni.
 
-(3) E törvénynek a Magyar Köztársaság 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 30/A–30/F. §-ait a 2012. február 1-jét követően megkezdett projektekre kell alkalmazni azzal, hogy az ezt követően, de 2012. március 1-jét megelőzően benyújtott kérelmekkel kapcsolatban az ügyintézési határidőt úgy kell megállapítani, mintha a kérelmet 2012. március 1-jén nyújtották volna be.
-
-32. §
+32. § Hasznosító vállalkozás költségvetési szerv által történő alapítása vagy gazdasági társaságban e célból történő tagsági (részvényesi) jogviszony létesítése, részesedés szerzése tekintetében az államháztartásról szóló 1992. évi XXXVIII. törvény 100/K–L. §-ában foglaltak nem alkalmazandók.
 
 33. § (1)
 
@@ -449,10 +335,7 @@ Az Országgyűlés annak érdekében, hogy elősegítse a magyar gazdaság verse
 - d) a kis- és középvállalkozások hasznosítási tevékenységét segítő garancia intézmény működését;
 - e) a hasznosítás érdekében a kutatóhelyeken foglalkoztatott közalkalmazottaknak a vállalkozásoknál, a vállalkozások alkalmazottainak a költségvetési kutatóhelyeken ideiglenes jelleggel végzett kutatási tevékenységének pénzügyi támogatására irányuló rendelkezéseket;
 - f) a kutatás-fejlesztésért és technológiai innovációért felelős szerv vagy szervek kijelölését;
-- g) a harmadik országbeli kutatókat fogadó kutatószervezetek akkreditációját, valamint a kutatási megállapodásra vonatkozó követelményeket;
-- h) az egyes tevékenységek kutatás-fejlesztési szempontú minősítése iránti eljárás részletes szabályait.
-
-34/A. § Felhatalmazást kap a Szellemi Tulajdon Nemzeti Hivatala felügyeletét ellátó miniszter, hogy – az adópolitikáért és a kutatás-fejlesztésért és technológiai innovációért felelős miniszterrel egyetértésben, a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével – rendeletben állapítsa meg a kutatás-fejlesztési tevékenység minősítése iránti eljárásban fizetendő igazgatási szolgáltatási díjak mértékét, valamint az igazgatási szolgáltatási díjak kezelésére, felhasználására, nyilvántartására, visszafizetésére, továbbá a megfizetésük módjára vonatkozó részletes szabályokat.
+- g) a harmadik országbeli kutatókat fogadó kutatószervezetek akkreditációját, valamint a kutatási megállapodásra vonatkozó követelményeket.
 
 ### Melléklet a 2004. évi CXXXIV. törvényhez
 

@@ -15,11 +15,11 @@ a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormán
 
 (4) A polgármestert kérésére — foglalkoztatási jogviszonyának időtartamára — a megválasztásakor fennálló munkaviszonya, közalkalmazotti jogviszonya szerinti munkáltatója — közalkalmazottak esetében az intézményvezetői megbízás egyidejű visszavonásával — köteles fizetés nélküli szabadságban részesíteni. E rendelkezést a szövetkezet és tagja között létrejött munkaviszony jellegű jogviszonyra is alkalmazni kell.
 
-(5) Ha a polgármester megválasztása előtt ügyész, köztisztviselő, a Magyar Honvédség, a rendvédelmi szervek, illetve a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja volt, a polgármesteri tisztség megszűnésétől számított 30 napon belül benyújtott írásbeli kérelmére őt közszolgálati, illetve hivatásos szolgálati viszonyába vissza kell helyezni.
+(5) Ha a polgármester megválasztása előtt ügyész, köztisztviselő, a Magyar Honvédség, a rendvédelmi szervek hivatásos állományú tagja volt, a polgármesteri tisztség megszűnésétől számított 30 napon belül benyújtott írásbeli kérelmére őt közszolgálati, illetve hivatásos szolgálati viszonyába vissza kell helyezni.
 
 (6) A polgármesteri foglalkoztatási jogviszonyban töltött időtartam közszolgálati, illetve hivatásos szolgálati jogviszonyban töltött időnek, illetőleg nyugdíjra jogosító szolgálati időnek számít.
 
-(7)
+(7) A polgármester a megválasztását követően a képviselő-testület előtt a melléklet szerinti szöveggel esküt vagy fogadalmat tesz, és erről okmányt ír alá.
 
 2. § (1) A polgármester e tisztsége megszűnik:
 
@@ -30,16 +30,15 @@ a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormán
 - e) a tisztségről történő lemondással,
 - f) az összeférhetetlenség kimondásával,
 - g) sorozatosan törvénysértő tevékenysége, mulasztása miatti jogi felelősségének jogerős bírósági ítéletben történő megállapításával, az ítélet jogerőre emelkedésének a napjával,
-- h) ha a helyi önkormányzati képviselők és polgármesterek választásán már nem válaszható,
-- i)
+- h) választójoga elvesztésével,
+- i) a polgármesternek e tisztségével összefüggő bűncselekménye miatt, a büntetőjogi felelősség jogerős megállapításával, az ítélet jogerőre emelkedésének a napjával,
 - j)
 
 (2) Az alpolgármester e tisztsége megszűnik:
 
 - a) az önkormányzati választás napján, ha nem választották meg önkormányzati képviselőnek,
-- b) amennyiben önkormányzati képviselőnek megválasztották, akkor a képviselő-testület alakuló ülésének napján,
-- c) továbbá az (1) bekezdés b), d)–j) pontjaiban foglalt esetekben,
-- d) ha a képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel megbízását visszavonja.
+- b) amennyiben önkormányzati képviselőnek megválasztották, akkor a képviselő-testület alakuló ülésén új alpolgármester megválasztásával,
+- c) továbbá az (1) bekezdés b), d–j) pontjaiban foglalt esetekben.
 
 (3) A polgármester foglalkoztatási jogviszonya megszűnik:
 
@@ -52,13 +51,11 @@ a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormán
 
 (6) Ha az alpolgármestert a képviselő-testület az alakuló ülésén nem választja meg alpolgármesternek, de az azt követő három hónapon belül megválasztják, akkor az (5) bekezdés szerinti juttatás időarányos részét vissza kell fizetnie, és a kiesett időtartam közszolgálati jogviszonyban töltött időnek számít.
 
-2/A. § Ha a képviselő-testület az alpolgármester megbízását a 2. § (2) bekezdés d) pontja alapján nem vonja vissza és a polgármester az alpolgármester feladatait írásban, teljes körűen megvonja, a feladatkör megvonását követően az alpolgármester a helyi önkormányzati képviselők tiszteletdíjával azonos mértékű illetményre – társadalmi megbízatású alpolgármester esetén tiszteletdíjra – jogosult.
-
 ### Díjazás
 
 3. § (1) A képviselő-testület a polgármester illetményéről alakuló ülésén, illetőleg a polgármester megválasztását követő első ülésen dönt.
 
-(2) A képviselő-testület a polgármester illetményét a közszolgálati tisztviselőkről szóló törvény (a továbbiakban: Kttv.) szerint megállapított illetményalap és az alábbi keretek között meghatározott szorzószám szorzataként, összegszerűen száz forintra kerekítve állapítja meg:
+(2) A képviselő-testület a polgármester illetményét a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 43. §-ának (1) bekezdése szerint megállapított illetményalap és az alábbi keretek között meghatározott szorzószám szorzataként, összegszerűen állapítja meg:
 
 Szorzószám
 
@@ -68,13 +65,15 @@ Szorzószám
 
 – 3000–10 000 lakosú település esetén 11,0–12,5
 
-– 10 000-nél több lakosú település önkormányzat esetén 12,5–13,5
+– 10 000-nél több lakosú település, valamint körzetközponti feladatot ellátó önkormányzat esetén 12,5–13,5
 
 – a fővárosi kerületi önkormányzat esetén 13,5–14,5
 
 – a megyei jogú városi önkormányzat és megyei önkormányzat esetén 14,0–15,0
 
-(3) Az (1)–(2) bekezdésben, a (4) bekezdésben, valamint a 18. §-ban foglaltaktól eltérően a főpolgármester illetményére és költségtérítésére vonatkozó szabályokról a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény rendelkezik.
+– a fővárosi önkormányzat esetén 15,0–16,5
+
+(3)
 
 (4) A polgármester illetményének emelését — a száznál kevesebb lakosú község kivételével a szervezeti és működési szabályzatban meghatározott bizottság javaslatára — a képviselő-testület állapítja meg.
 
@@ -103,7 +102,7 @@ Szorzószám
 
 (2) Amennyiben a polgármester foglalkoztatási jogviszonya, illetőleg társadalmi megbízatása év közben keletkezik, vagy szűnik meg, az (1) bekezdésben meghatározott jutalom időarányos része állapítható meg.
 
-(3)
+(3) A polgármester illetményének, tiszteletdíjának a választást követően megállapított összege a megválasztását megelőző polgármesteri illetménye, tiszteletdíja összegénél – a 4. § (3) bekezdésében foglalt kivétellel – nem lehet kevesebb.
 
 ### Pihenőidő
 
@@ -121,13 +120,13 @@ Szorzószám
 
 (3) A kedvezmények és juttatások csökkentése, illetőleg megvonása, valamint az illetménynek és tiszteletdíjnak a csökkentése egy évnél hosszabb időszakra nem vonatkozhat.
 
-7. § (1) A polgármester ellen a fegyelmi eljárást a képviselő-testület rendeli el. A fegyelmi eljárás kezdeményezésére a képviselő-testület tagja, bizottsága és a fővárosi és megyei kormányhivatal jogosult.
+7. § (1) A polgármester ellen a fegyelmi eljárást a képviselő-testület rendeli el. A fegyelmi eljárás kezdeményezésére a képviselő-testület tagja, bizottsága és a közigazgatási hivatal jogosult.
 
 (2) A fegyelmi eljárás során vizsgálatot kell tartani, amelynek lefolytatására a képviselő-testület tagjai közül háromtagú vizsgáló bizottságot kell megbízni. A száznál kevesebb lakosú községekben a fegyelmi vizsgálatot a képviselő-testület folytatja le.
 
 (3) A vizsgálóbizottság a megbízását követő harminc napon belül köteles lefolytatni a vizsgálatot, ennek keretében meghallgatni a polgármestert. A vizsgálóbizottság a vizsgálat lezárását követő nyolc napon belül elkészíti a jelentését és a vizsgálóbizottság elnöke soron kívül, a jelentés elkészítését követő 15 napon belüli időpontra – a jelentés egyidejű megküldésével – összehívja a képviselő-testület ülését. A képviselő-testület a jelentés alapján a vizsgálóbizottság elnöke által összehívott ülésen, de legkésőbb az azt követő nyolc napon belül érdemben dönt a polgármester fegyelmi ügyében. E napirend tárgyalásának levezetésére a képviselő-testület a tagjai sorából elnököt választ.
 
-(4) A polgármester foglalkoztatási jogviszonya a fegyelmi eljárás ideje alatt felfüggeszthető. A felfüggesztő határozat ellen a polgármester nyolc napon belül a felfüggesztés megszüntetése iránt eljárást kezdeményezhet a közigazgatási és munkaügyi bíróságnál.
+(4) A polgármester foglalkoztatási jogviszonya a fegyelmi eljárás ideje alatt felfüggeszthető. A felfüggesztő határozat ellen a polgármester nyolc napon belül a felfüggesztés megszüntetése iránt eljárást kezdeményezhet a megyei (fővárosi) bíróságnál.
 
 A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fenntartásáról vagy megszüntetéséről. A bíróság határozata ellen külön fellebbezésnek nincs helye.
 
@@ -152,37 +151,27 @@ A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fe
 
 12. § A jegyző, körjegyző, főjegyző kezeli a polgármester személyi anyagát, továbbá ellátja foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat.
 
-13. § (1) A polgármesteri foglalkoztatási jogviszonyra megfelelően alkalmazni kell a Kttv. következő rendelkezéseit: 6. § 10 és 24 pontját; 9. § (1)–(3) bekezdését; 10–13. §-át; 15. §-át; 17. §-át; 19. §-át; 21–24. §-át; 25. § (1), (3)–(4) és (6) bekezdését; 74. § (1) bekezdés második mondatát és (2) bekezdését; 75. § (1) bekezdés a)–b) és f)–h) pontját; 76. § (1) bekezdését; 79. §-át; 81. § (3)–(5) bekezdését; 89. § (1) bekezdését; 93. § (1)–(2) bekezdését; 94. § (1) bekezdését; 102–107. §-át; 109–114. §-át; 132. §-át; 141. § (1)–(9) bekezdését; 144. § (3) bekezdés a)–b) és d) pontját és (4) bekezdését; 145. §-át; 146. § (1) és (3)–(7) bekezdését; 147-153. §-át; 156. § (1) és (3)–(4) bekezdését; 157. § (2) bekezdését, (3) bekezdés első mondatát és (4) bekezdését; 159. §-át; 160. § (1)–(2) és (5) bekezdését; 165–175. §; 189. §-át; 192. §-át.
+13. § (1) A polgármesteri foglalkoztatási jogviszonyra – a (2)–(3) bekezdés kivételével – megfelelően alkalmazni kell a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (Ktv.) következő rendelkezéseit: 37. §-át; 39. § (1)–(3), (5) bekezdését; 47. § (1)–(2), (4) bekezdését; 48. §-át; 49. §-át; 49/A. §-át; 49/C. §-át; 49/E–49/H. §-át; 51. § (1)–(4) bekezdését; 51/A. § (2)–(6) bekezdését; 52. § (1)–(2) bekezdését (az 51–51/A. § és az 52. § alkalmazásánál a vizsgálóbiztos helyett vizsgálóbizottság jár el); 54–55. §-át; 55/A. § (1) bekezdését [az 54. és 55/A. § (1) bekezdés alkalmazásánál a fegyelmi tanácson képviselő-testület értendő]; 56. § (1) bekezdését; 58. §-át; 59. § (1)–(4) bekezdését; 71. § (2) bekezdését, kivéve a Munka Törvénykönyvéről szóló 1992. évi XXII. törvénynek a bekezdésben felsorolt következő rendelkezéseit: 85. §-át; 90. §-ának (1)–(2) bekezdését; 105–106. §-át; 132. § (1) bekezdését; 140. §-át; 167–168. §-át.
 
-(2) A Kttv. következő rendelkezéseit a polgármester foglalkoztatási jogviszonyára az alábbi eltérésekkel kell alkalmazni:
-
-- a) 18. § (1) bekezdését azzal, hogy a polgármester a munkavégzéssel összefüggő jognyilatkozatát csak személyesen teheti meg,
-- b) 69. §-át azzal, hogy a foglalkoztatási jogviszonyban álló polgármester esetében a (2) bekezdésben meghatározott végkielégítés tisztségének megszűnése napján illeti meg,
-- c) 78. § (1)–(4) bekezdését azzal, hogy felettes szerv alatt a képviselő-testületet kell érteni,
-- d) 115. § (1) bekezdésének a) és c)–d) pontját azzal, hogy munkáltató alatt a jegyzőt kell érteni,
-- e) 143. §-át azzal, hogy az (1) bekezdésben „az e törvény 131–142. §-a alapján” szövegrész nem alkalmazható,
-- f) 158. §-át azzal, hogy a fegyelmi eljárást a képviselő-testület szünteti meg,
-- g) 176. § (1) bekezdését azzal, hogy munkáltató alatt a jegyzőt kell érteni, továbbá a (3) bekezdést,
-- h) 184. § (2) bekezdését azzal, hogy a polgármester személyi anyagába történő betekintésre a 180. § (1) bekezdés c) és l) pontja nem alkalmazható, a 180. § (1) bekezdés b) pontjában meghatározott felettes alatt a képviselő-testületet kell érteni,
-- i) 184. § (3) bekezdését azzal, hogy a polgármester személyi anyagát a jegyző kéri meg.
-
-(2a) A felsőfokú iskolai végzettségű, foglalkoztatási jogviszonyban álló polgármester esetében a Kttv. 118. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a polgármester – megválasztását követően legalább egy év foglalkoztatási jogviszony eltöltése után – közigazgatási alapvizsgát tehet.
-
-(2b) A polgármester a foglalkoztatási jogviszonyból származó igényének érvényesítése érdekében közvetlenül a közigazgatási és munkaügyi bírósághoz fordulhat.
-
-(2c) A polgármester a munkáltatói intézkedésről szóló irat kézbesítésétől számított harminc napon belül, egyéb esetekben az igény érvényesítésére vonatkozó elévülési időn belül fordulhat a bírósághoz.
-
-(2d) A keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a bírósághoz intézett keresetlevelet legkésőbb a határidő utolsó napján postára adták. Ha a fél a keresetlevél beadására megállapított határidőt elmulasztja, igazolással élhet.
+(2) A felsőfokú iskolai végzettségű, foglalkoztatási jogviszonyban álló polgármester esetében a Ktv. 25. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a polgármester – megválasztását követően legalább egy év foglalkoztatási jogviszony eltöltése után – közigazgatási alapvizsgát tehet.
 
 (3) A társadalmi megbízatású polgármester nem jogosult jubileumi jutalomra, napidíjra, közszolgálati járadékra, valamint az egyéb juttatásokra.
 
 (4) Ahol jogszabály munkaviszonyt említ, ott — eltérő rendelkezés hiányában — a foglalkoztatási jogviszonyt is érteni kell.
 
-(5) A polgármester tisztségének megszűnése esetén, a tisztség megszűnését követően nyolc munkanapon belül írásba foglaltan átadja munkakörét az új polgármesternek, ennek hiányában az alpolgármesternek, illetve a szervezeti és működési szabályzatban meghatározott személynek. A munkakör-átadási jegyzőkönyvet az előző és az új polgármester, a jegyző, valamint a fővárosi és megyei kormányhivatal vezetője írja alá. A 2. § (5) bekezdése szerinti összeg akkor fizethető ki, ha a munkakör átadása nyolc munkanapon belül megtörtént. A nyolc munkanapon túli átadás esetén a polgármester a kifizetést akkor engedélyezi, ha a mulasztásnak alapos oka volt, s a munkaköri átadás megtörtént. Vita esetén az érintett a közigazgatási és munkaügyi bírósághoz fordulhat.
+(5) A polgármester tisztségének megszűnése esetén, a tisztség megszűnését követően nyolc munkanapon belül írásba foglaltan átadja munkakörét az új polgármesternek, ennek hiányában az alpolgármesternek, illetve a szervezeti és működési szabályzatban meghatározott személynek. A munkakör-átadási jegyzőkönyvet az előző és az új polgármester, a jegyző, valamint a közigazgatási hivatal vezetője írja alá, a jegyzőkönyv tartalmát a helyi önkormányzatokért felelős miniszter rendeletben határozza meg. A 2. § (5) bekezdése szerinti összeg akkor fizethető ki, ha a munkakör átadása nyolc munkanapon belül megtörtént. A nyolc munkanapon túli átadás esetén a polgármester a kifizetést akkor engedélyezi, ha a mulasztásnak alapos oka volt, s a munkaköri átadás megtörtént. Vita esetén az érintett a munkaügyi bírósághoz fordulhat.
 
-13/A. §
+13/A. § (1) Öregségi nyugdíjra jogosult az a polgármester – az egyéb jogosultsági feltételek esetén –, akinek a megbízatása a 2. § (1) bekezdés a) pontja szerint szűnik meg, feltéve, hogy
 
-13/B. § (1) Közszolgálati járadékra jogosult az a foglalkoztatási jogviszonyban álló polgármester, akinek a megbízatása a 2. § (1) bekezdés a) vagy c) pontja szerint szűnik meg, feltéve, hogy legalább három választási ciklus – de legalább tizenegy év – során foglalkoztatási jogviszonyban polgármesteri vagy foglalkoztatási jogviszonyban alpolgármesteri tisztséget tölt be, és a foglalkoztatási jogviszonyának megszűnését követő tizenkettedik naptári év végéig a Tny.-ben meghatározott öregségi nyugdíjkorhatárt, eléri, s megfelel a Tny. egyéb jogosultsági feltételeinek, továbbá öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, rokkantsági ellátásban és rehabilitációs ellátásban nem részesül.
+- a) folyamatosan legalább három éve polgármesteri tisztséget tölt be, és a tisztségének megszűnését követő harmadik naptári év végéig a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényben (a továbbiakban: Tny.) meghatározott öregségi nyugdíjkorhatárt, illetve a korkedvezménnyel csökkentett, reá irányadó korhatárt eléri,
+- b) két választási ciklus – de legalább hét év – során polgármesteri vagy alpolgármesteri tisztséget tölt be, és a tisztségének megszűnését követő ötödik naptári év végéig az a) pontban meghatározott öregségi nyugdíjkorhatárt, illetve a korkedvezménnyel csökkentett, reá irányadó korhatárt eléri,
+- c) három vagy ennél több választási ciklus – de legalább tizenegy év – során polgármesteri vagy alpolgármesteri tisztséget tölt be, és a tisztségének megszűnését követő hetedik naptári év végéig az a) pontban meghatározott öregségi nyugdíjkorhatárt, illetve a korkedvezménnyel csökkentett, reá irányadó korhatárt eléri.
+
+(2) Az (1) bekezdésben foglalt jogosultság igénybevételéről a polgármester a tisztségének megszűnésétől számított három hónapon belül dönthet.
+
+(3) Az (1) bekezdés szerinti nyugdíjkorhatár eléréséig a polgármester nyugdíjának megfelelő összeget a központi költségvetés biztosítja.
+
+13/B. § (1) Közszolgálati járadékra jogosult az a foglalkoztatási jogviszonyban álló polgármester, akinek a megbízatása a 2. § (1) bekezdés a) pontja szerint szűnik meg, feltéve, hogy legalább három választási ciklus – de legalább tizenegy év – során foglalkoztatási jogviszonyban polgármesteri vagy foglalkoztatási jogviszonyban alpolgármesteri tisztséget tölt be, és a foglalkoztatási jogviszonyának megszűnését követő tizenkettedik naptári év végéig a Tny.-ben meghatározott öregségi nyugdíjkorhatárt, illetve a korkedvezménnyel csökkentett, reá irányadó korhatárt eléri, s megfelel a Tny. egyéb jogosultsági feltételeinek.
 
 (2) A közszolgálati járadék összege:
 
@@ -195,7 +184,7 @@ A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fe
 (4) A közszolgálati járadék folyósítását meg kell szüntetni, ha a volt polgármester
 
 - a) bármilyen munkavégzésre irányuló jogviszonyt létesít, vagy
-- b) öregségi nyugdíjban részesül.
+- b) öregségi, rokkantsági (baleseti rokkantsági) nyugdíjban részesül.
 
 (5) Az (1) bekezdésben foglalt jogosultság igénybevételéről a polgármester a tisztségének megszűnésétől számított három hónapon belül dönthet.
 
@@ -209,7 +198,7 @@ A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fe
 
 (3) A polgármester képviselőként tiszteletdíjat nem kaphat.
 
-15. § (1) A képviselő havi tiszteletdíja (alapdíj) nem haladhatja meg a Kttv. szerint megállapított illetményalap, és az alább meghatározott szorzószám száz forintra kerekített szorzatát:
+15. § (1) A képviselő havi tiszteletdíja (alapdíj) nem haladhatja meg a Ktv. 43. § (1) bekezdése szerint megállapított illetményalap, és az alább meghatározott szorzószám szorzatát:
 
 – 1000-nél kevesebb lakosú település esetén 1,0
 
@@ -217,7 +206,7 @@ A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fe
 
 – 3000–10 000 lakosú település esetén 1,8
 
-– 10 000-nél több lakosú település esetén 2,2
+– 10 000-nél több lakosú település, valamint körzetközponti feladatot ellátó önkormányzat esetén 2,2
 
 – fővárosi kerületi önkormányzat esetén 2,5
 
@@ -251,10 +240,16 @@ A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fe
 
 19. § (1) E törvény a helyi önkormányzati képviselők és polgármesterek 1994. évi általános választásának napján lép hatályba. Rendelkezéseit az 1994. évi önkormányzati általános választásokon és azt követő választásokon megválasztottakra kell alkalmazni.
 
-(2) Felhatalmazást kap a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter, hogy a polgármester tisztségének megszűnése esetére a munkakör-átadási jegyzőkönyv tartalmára vonatkozó szabályokat rendeletben állapítsa meg.
+(2)
 
-(3) Felhatalmazást kap a Kormány, hogy a polgármester közszolgálati járadéka megállapításának és folyósításának részletes szabályait rendeletben állapítsa meg.
-
-20. § Ha a települési képviselő 2013. január 1-je előtt körzetközponti feladatot ellátó önkormányzat képviselő-testületének tagja volt, úgy a megállapított tiszteletdíja – a képviselő-testület ellenkező döntéséig – 2013. január 1-jét követően nem változik.
+(3) Felhatalmazást kap a Kormány, hogy a polgármester öregségi nyugdíja, valamint közszolgálati járadéka megállapításának és folyósításának részletes szabályait rendeletben állapítsa meg.
 
 ### Melléklet a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvényhez
+
+A polgármester esküjének és fogadalmának szövege
+
+„Én, (a polgármester neve) esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek; az Alkotmányt a többi jogszabállyal együtt megtartom és megtartatom; a tudomásomra jutott titkot megőrzöm; (a tisztség megnevezése) tisztségemből eredő feladataimat a (megye/település/kerület) fejlődésének előmozdítása és az Alkotmány érvényesülése érdekében lelkiismeretesen teljesítem.
+
+(A megválasztott önkormányzati tisztségviselő meggyőződése szerint)
+
+Isten engem úgy segéljen!”

@@ -1378,7 +1378,51 @@ gyámhatósági fenntartásos betétben vagy folyószámlán helyezi el. A szoci
 
 „da) amely alap- és középfokú végzettséggel rendelkező vagy végzettséggel nem rendelkező pályakezdő fiatal START-kártyája esetén két év, a felsőfokú végzettségű pályakezdő fiatal START-kártyája esetén egy év, de legfeljebb a kiállítás keltétől az igénylő huszonötödik életévének, felsőfokú végzettséggel rendelkező igénylő esetén a harmincadik életévének betöltéséig terjedő időszak,”
 
-30. §
+### Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény módosítása
+
+30. § Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény (a továbbiakban: Ebktv.) a következő új 63/A. §-sal egészül ki:
+
+„63/A. § (1) A helyi önkormányzat, valamint a többcélú kistérségi társulás – a külön jogszabályban meghatározott szempontok figyelembevételével – öt évre szóló helyi esélyegyenlőségi programot fogad el.
+
+(2) A helyi esélyegyenlőségi programban helyzetelemzést kell készíteni a hátrányos helyzetű társadalmi csoportok oktatási, lakhatási, foglalkoztatási, egészségügyi és szociális helyzetéről, illetve meg kell határozni a helyzetelemzés során feltárt problémák komplex kezelése érdekében szükséges intézkedéseket. A programalkotás során gondoskodni kell a helyi esélyegyenlőségi program és a helyi önkormányzat által készítendő egyéb fejlesztési tervek, koncepciók, továbbá a közoktatási esélyegyenlőségi terv összhangjáról.
+
+(3) A helyi esélyegyenlőségi program elkészítése során kiemelt figyelmet kell fordítani
+
+a) az egyenlő bánásmód követelményének érvényesülését segítő intézkedésekre,
+
+b) az oktatás és a képzés területén a jogellenes elkülönítés megelőzésére, illetve az azzal szembeni fellépésre, továbbá az egyenlő esélyű hozzáférés biztosításához szükséges intézkedésekre,
+
+c) a közszolgáltatásokhoz, valamint az egészségügyi szolgáltatásokhoz való egyenlő esélyű hozzáférés biztosításához szükséges intézkedésekre,
+
+d) olyan intézkedésekre, amelyek csökkentik a hátrányos helyzetűek munkaerő-piaci hátrányait, illetve javítják foglalkoztatási esélyeiket.
+
+(4) A helyi esélyegyenlőségi program időarányos megvalósulását, illetve a (2) bekezdésben meghatározott helyzet esetleges megváltozását kétévente át kell tekinteni, az áttekintés alapján szükség esetén a helyi esélyegyenlőségi programot felül kell vizsgálni.
+
+(5) A helyi esélyegyenlőségi program előkészítésébe, illetve (4) bekezdés szerinti áttekintésébe, valamint felülvizsgálatába a külön jogszabály szerinti esélyegyenlőségi szakértőt be kell vonni. Az elfogadott helyi esélyegyenlőségi programhoz, annak (4) bekezdés szerinti áttekintéséhez, valamint felülvizsgálatához csatolni kell az előkészítésben részt vevő esélyegyenlőségi szakértő véleményét. A véleményt a (8) bekezdés szerinti kérelemhez csatolni kell.
+
+(6) A helyi önkormányzat, valamint a többcélú kistérségi társulás az államháztartás alrendszereiből, az európai uniós forrásokból, illetve a nemzetközi megállapodás alapján finanszírozott egyéb programokból származó, egyedi döntés alapján nyújtott, pályázati úton odaítélt támogatásban csak akkor részesülhet, ha az e törvény rendelkezéseinek megfelelő, hatályos helyi esélyegyenlőségi programmal rendelkezik.
+
+(7) A helyi önkormányzatok jogi személyiséggel rendelkező társulása az államháztartás alrendszereiből, az európai uniós forrásokból, illetve a nemzetközi megállapodás alapján finanszírozott egyéb programokból származó, egyedi döntés alapján nyújtott, pályázati úton odaítélt támogatásban csak akkor részesülhet, ha a társulást alkotó helyi önkormányzatok mindegyike az e törvény rendelkezéseinek megfelelő, hatályos helyi esélyegyenlőségi programmal rendelkezik.
+
+(8) A hatóság a polgármester, a megyei közgyűlés elnöke, illetve a többcélú kistérségi társulás esetében a társulási tanács elnökének kérelmére megvizsgálja, hogy a helyi önkormányzat, illetve a többcélú kistérségi társulás rendelkezik-e az e törvény rendelkezéseinek megfelelő, hatályos helyi esélyegyenlőségi programmal, és ezt a tényt a kérelem beérkezését követő negyvenöt munkanapon belül hatósági bizonyítvánnyal igazolja. A hatóság a hatósági bizonyítványokat a honlapján közzéteszi.
+
+(9) A Kormány által rendeletben kijelölt szerv az esélyegyenlőségi szakértőkről névjegyzéket vezet, amely tartalmazza a szakértő
+
+a) családi és utónevét,
+
+b) születési helyét, idejét, anyja nevét,
+
+c) a szakértői névjegyzékbe vételhez szükséges végzettséget igazoló irat kiállítóját, számát, keltét,
+
+d) névjegyzékbe vételének és az onnan való törlésének időpontját, a határozat számát,
+
+e) szakértői tevékenysége szünetelésének időpontját,
+
+f) elérhetőségi címét (postacímét, telefon-, telefaxszámát, e-mail címét).
+
+(10) A névjegyzéket vezető szerv a (9) bekezdésben meghatározott személyes adatokat a névjegyzékből való törlést követő öt teljes naptári évig kezelheti.
+
+(11) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az (1) bekezdésben meghatározott szempontokat, az esélyegyenlőségi szakértő képesítési követelményeit, a névjegyzékbe vétel, illetve a névjegyzékből való törlés szabályait, a szakértői tevékenység szünetelésére vonatkozó szabályokat, valamint a névjegyzéket vezető szerv kijelölését.”
 
 ### A közbeszerzésekről szóló 2003. évi CXXIX. törvény módosítása
 
@@ -1763,7 +1807,10 @@ rendeletben állapítsa meg.”
 
 (7) A Ktv. 31. §-a (2) bekezdésének e törvény 1. §-ával történő módosítása 2012. szeptember 1-jén lép hatályba.
 
-(8)
+(8) E törvény 30. §-a és 51. § (10) bekezdése 2010. május 1-jén lép hatályba, azzal, hogy
+
+- a) az Ebktv. 63/A. § (5) bekezdését a külön jogszabály szerint leghátrányosabb helyzetű kistérségekben levő, valamint a húszezer lakos feletti települések esetében 2010. május 1-től, egyéb települések esetében 2011. január 1-től kell alkalmazni,
+- b) az Ebktv. 63/A. § (6)–(7) bekezdését a 2010. július 1-jét követően meghirdetett pályázatokra kell alkalmazni.
 
 (9) E törvény 4. § (3) bekezdése, valamint 55. § (2)–(3) bekezdése 2009. november 15-én lép hatályba.
 
@@ -1841,7 +1888,7 @@ rendeletben állapítsa meg.”
 
 (9) Hatályát veszti a Ktv. 21. § (4) bekezdése, 30/B. § (1) bekezdésében a „ , valamint a (3) bekezdésben meghatározott címadományozási juttatás kifizetésére” szövegrész, (5) bekezdésében az „és a címadományozási juttatásra” szövegrész, (6) bekezdésében az „és az a) pontban foglalt esetet kivéve a (3) bekezdésben meghatározott címadományozási juttatásra jogosult” szövegrész, (11) bekezdése, a 71. § (2) bekezdés a) pontjában a „119/A. §-át,” szövegrész, 80. § (8) bekezdésében az „ , illetve az ideiglenes külföldi kiküldetésen lévő köztisztviselők napidíjának összegét és azok” szövegrész, 3. számú melléklet IX. pontjában az „(a köztisztviselő bejelentése gazdasági társaságnál vezető tisztségviselői, illetve felügyelő bizottsági tagságával kapcsolatos megbízásáról)” szövegrész.
 
-(10)
+(10) 2010. május 1-jén hatályát veszti az Ebktv. 63. §-ának (5) bekezdése.
 
 (11) Az Áfa tv. e törvény 42. §-ával és 3. számú mellékletével megállapított rendelkezéseinek hatálybalépésével egyidejűleg az Áfa tv. 3/A. számú melléklete II. részének 1. pontja hatályát veszti, egyidejűleg a 2. pont számozása 1. pontra változik.
 
@@ -1901,9 +1948,13 @@ rendeletben állapítsa meg.”
 
 (10) A Ktv. 49/H. §-ának (3) bekezdésében az „A (2) bekezdésben foglalt korlátozás figyelembevételével a” szövegrész helyébe az „Az (1) bekezdésben foglalt” szöveg lép.
 
-(11)
+(11) E törvény hatálybalépésével egyidejűleg az elektronikus információszabadságról szóló 2005. évi XC. törvény III. melléklet Gazdálkodási adatok 3. és 4. pontjának Frissítés oszlopában a „Negyedévente” szövegrész helyébe a „A döntés meghozatalát követő hatvanadik napig” szövegrész lép.
 
-(12)
+(12) E törvény hatálybalépésével egyidejűleg a Tny.:
+
+- a) 54. §-ának (3) bekezdésében az „unokának” szövegrész helyébe az „unokának (ideértve a dédunokát és ükunokát is)” szövegrész;
+- b) 81. §-ának (2) bekezdésében „a 88. § szerint megtérítésre kötelezett” szövegrész helyébe „a 88. § szerint megtérítésre kötelezett, tovább a 91. § szerinti mulasztási bírságra kötelezett” szövegrész;
+- c) 101. §-a (1) bekezdésének c) pontjában a „szolgálati időre és a nyugdíj alapját képező havi átlagkereset meghatározására, továbbá a rokkantsági nyugdíj” szövegrész helyébe „nyugellátás” szövegrész lép.
 
 (13) E törvény kihirdetésével egyidejűleg a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 71. §-ának (3) bekezdésében „a nyugdíj-biztosítási igazgatási szerv” szövegrész helyébe „az egészségbiztosító” szövegrész lép.
 
@@ -1913,7 +1964,7 @@ rendeletben állapítsa meg.”
 
 (16) E törvény hatálybalépésével egyidejűleg az Áht.-nak a takarékos állami gazdálkodásról és a költségvetési felelősségről szóló 2008. évi LXXV. törvénnyel megállapított 8/B. §-ának jelölése 8/C. §-ra változik.
 
-(17)
+(17) E törvény hatálybalépésével egyidejűleg a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosításáról szóló 2009. évi XL. törvény 8. §-ának (5) bekezdése a „A polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvény 13/A-B. §-ának, illetve az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény 10. §-ának alkalmazása során 2010. december 31-ig a Tny.-nek az e törvény 8. § (2) bekezdésében meghatározott időpontig hatályos rendelkezéseit kell alkalmazni, illetve öregségi nyugdíjra jogosító korhatárnak a Tny.-ben meghatározott öregségi nyugdíjkorhatárt, illetve az előrehozott, valamint a korkedvezménnyel csökkentett, az érintettre irányadó korhatárt kell tekinteni.” szövegrésszel egészül ki.
 
 (18) E törvény hatálybalépésével egyidejűleg a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 41/A. §-ának (2) bekezdésében a „közhasznú” szövegrész helyébe a „közhasznú és a közcélú” szöveg lép.
 
@@ -1943,7 +1994,9 @@ rendeletben állapítsa meg.”
 
 (28) A bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény 119/A. §-ának (1) bekezdésében szereplő „– a lakáscélú állami támogatásokról szóló jogszabály szerint kamattámogatott – ”szövegrész helyébe az „állami kamattámogatású” szövegrész lép.
 
-53. §
+53. § (1) A közteherviselés rendszerének átalakítását célzó törvénymódosításokról szóló 2009. évi LXXVII. törvény 226. §-ának (1) bekezdésében az „e törvény hatálybalépését megelőzően” szövegrész helyébe a „2009. december 31-éig” szövegrész; a „2009. december 31-éig kérheti” szövegrész helyébe a „2009. december 31-éig, illetve a társadalombiztosítási nyugellátást 2010. január 1-jét megelőző hatállyal megállapító első fokú határozat 2009. december 15-ét követő kézhezvétele esetén legkésőbb a határozat kézhezvételétől számított 15 napon belül kérheti” szövegrész lép.
+
+(2) E törvény kihirdetését követő napon hatályát veszti a közteherviselés rendszerének átalakítását célzó törvénymódosításokról szóló 2009. évi LXXVII. törvény 226. §-ának (2) bekezdése.
 
 54. § (1) A bányászatról szóló 1993. évi XLVIII. törvény 46. § (2) bekezdésében az „az illetékes önkormányzat jegyzője” szövegrész helyébe az „a Kormány által rendeletben kijelölt szerv” szöveg lép.
 
@@ -2007,7 +2060,7 @@ Az e törvény 3. §-ával megállapított Cct. 13/A. §-ának, 11. § (5) bekez
 
 (18) Az e törvény 4. §-ával megállapított Szt. 127/A. §-ának és 15. §-ával megállapított Gyvt. 145/A. §-ának rendelkezéseit abban az esetben kell alkalmazni, ha a fenntartóváltozás, illetve az egyházi fenntartású szolgáltató, intézmény engedélyezése iránti kérelmet e törvény hatálybalépését követően nyújtották be.
 
-(19)
+(19) A Ktv. 62. § (1) bekezdésében meghatározott adatszolgáltatás helyett 2010-ben egyszerűsített adatszolgáltatásra kerül sor. Az egyszerűsített adatszolgáltatás a közigazgatási szerv szervezeti adataira, valamint a közszolgálati jogviszonyban állók létszámára, munkaidejére, besorolására és vezetői beosztására a Ktv. 21. § (6) bekezdés c) pontjában foglaltakkal összefüggő adatokra, valamint a közszolgálati jogviszony létesítésére és megszűnésére vonatkozó adatokra terjed ki, azzal, hogy azt a 2010. január 1-jei állapotnak megfelelően 2010. február 28-áig – a központi közszolgálati hatóság által meghatározott módon – kell teljesíteni. A központi létszám- és bérgazdálkodási statisztikai információs rendszer a Ktv. 62. § (2) bekezdése alapján a 2009. szeptember 1-jei állapotra vonatkozó adatok helyett a 2010. január 1-jei állapotra vonatkozó adatokat adja át a központi közszolgálati nyilvántartás számára.
 
 (20) Mentesül a közigazgatási felsővezetői képzés és vizsga alól az, aki 2012. szeptember 1-jét megelőzően állami vezetői megbízatással, illetve a 31. § (10) bekezdésében meghatározott vezetői megbízással, kinevezéssel legalább egy évig rendelkezett.
 
@@ -2019,9 +2072,9 @@ Az e törvény 3. §-ával megállapított Cct. 13/A. §-ának, 11. § (5) bekez
 
 (24) A Ket. e törvény 35. §-ával megállapított 94. §-ának rendelkezéseit a felügyeleti eljárás során az e törvény hatálybalépése előtt meghozott döntésekre is alkalmazni kell.
 
-(25)
+(25) Az e törvény hatálybalépésekor fennálló, a Ktv. e törvénnyel módosított 21. § (2) és (3) bekezdése alapján bejelentéshez, illetve engedélyhez kötötté váló jogviszonyokat e törvény hatálybalépésétől számított 15 napon belül a munkáltatói jogkör gyakorlójának írásban be kell jelenteni.
 
-(26)
+(26) Felhatalmazást kap a Kormány, hogy a Ktv. 61. § (6)–(8) bekezdésében, valamint 63. § (6)–(8) bekezdésében a szolgáltató központ számára megállapított hatáskörök 2010. július 1-jéig történő gyakorlására más szervet vagy szerveket jelöljön ki.
 
 (27) A VET e törvény 40. §-ával megállapított 142. § (14) bekezdésében foglalt rendelkezés hatálybalépését követően az átviteli rendszerirányító köteles e bekezdés szerint végezni az éves beszámoló zárását akkor is, ha a beszámoló a hatálybalépést megelőző tárgyévre vonatkozik.
 

@@ -8,7 +8,7 @@ a statisztikáról
 
 ### A törvény célja
 
-Stt.1. § A statisztika feladata és célja, hogy valósághű, tárgyilagos képet adjon a társadalom, a gazdaság, a tulajdonviszonyok, a környezet állapotáról és változásairól az államhatalmi és a közigazgatási szervek, valamint a társadalom szervezetei és tagjai számára. A cél elérése érdekében e törvény az adatok statisztikai módszerekkel történő felvételével, feldolgozásával, tárolásával, átadásával, átvételével, elemzésével, szolgáltatásával, közlésével, valamint közzétételével kapcsolatos közhatalmi és egyéb tevékenységet (a továbbiakban: statisztikai tevékenység) szabályozza.
+Stt.1. § A statisztika feladata és célja, hogy valósághű, tárgyilagos képet adjon a társadalom, a gazdaság, a tulajdonviszonyok, a környezet állapotáról és változásairól az államhatalmi és a közigazgatási szervek, valamint a társadalom szervezetei és tagjai számára. A cél elérése érdekében e törvény — összhangban a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvénnyel — az adatok statisztikai módszerekkel történő felvételét, feldolgozását, tárolását, átadását, átvételét, elemzését, szolgáltatását, közlését, valamint közzétételét (a továbbiakban: statisztikai tevékenység) szabályozza.
 
 ### A törvény hatálya
 
@@ -24,16 +24,16 @@ Stt.3. § (1) E törvényben meghatározott statisztikai tevékenység ellátás
 (2) A hivatalos statisztikai szolgálathoz tartozó szervek:
 
 - a) a Központi Statisztikai Hivatal;
-- b) a minisztériumok;
-- c) Az Országos Bírósági Hivatal elnöke,
+- b) a minisztériumok és a Miniszterelnöki Hivatal;
+- c) Az Országos Igazságszolgáltatási Tanács Hivatala,
 - d) a Legfőbb Ügyészség;
 - e) a Magyar Nemzeti Bank;
 - f) a Gazdasági Versenyhivatal;
-- g) a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal;
-- h) a Magyar Energetikai és Közmű-szabályozási Hivatal;
-- i) az agrárpolitikáért felelős miniszter irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézet.
+- g) az Országos Műszaki Fejlesztési Bizottság;
+- h)
+- i) a Pénzügyi Szervezetek Állami Felügyelete.
 
-(3) A Központi Statisztikai Hivatal a 6. § b) és e) pontjában meghatározott feladatainak teljesítése érdekében a (2) bekezdés b)–g) pontjában felsorolt szervektől tájékoztatást kérhet statisztikai tevékenységükről, az országos statisztikai adatgyűjtési program végrehajtásáról. E szervek a kért tájékoztatást kötelesek megadni.
+(3) A Központi Statisztikai Hivatal a 6. § b) és e) pontjában meghatározott feladatainak teljesítése érdekében a (2) bekezdés b)—h) pontjában felsorolt szervektől tájékoztatást kérhet statisztikai tevékenységükről, az országos statisztikai adatgyűjtési program végrehajtásáról. E szervek a kért tájékoztatást kötelesek megadni.
 
 Vhr.1. § Az Stt. 3. §-ának (2) bekezdése b)—h) pontjaiban felsorolt szervek a Központi Statisztikai Hivatal (a továbbiakban: KSH) részére az Stt. 3. §-ának (3) bekezdése szerint kért tájékoztatást 30 napon belül adják meg, és további munkájuk során a KSH ezzel kapcsolatos szakmai állásfoglalását figyelembe veszik.
 
@@ -61,8 +61,8 @@ Stt.6. § (1) A KSH feladata:
 - f) az Országos Statisztikai Tanács bevonásával a statisztikai módszerek, fogalmak, osztályozások kialakítása, a számjelek meghatározása, készítése, nyilvánosságra hozatala, valamint használatuk kötelezővé tétele, statisztikai regiszter működtetése és ennek alapján névjegyzék készítése,
 - g) más információrendszerek, a nyilvános, a közhitelű és egyéb nyilvántartások, valamint a hatósági ellenőrzési, gazdasági vagy egyéb tevékenységgel járó adatgyűjtések fogalmi és osztályozási rendszerének kialakításában való közreműködés;
 - h) az Országgyűlés és a Kormány évenkénti tájékoztatása az ország társadalmi, gazdasági, népesedési adatairól;
-- i) statisztikai adatok szolgáltatása az államhatalom és a közigazgatás szervei, az egyesületek, az érdekképviseletek, a helyi önkormányzatok, a köztestületek, a tudományos, a gazdasági szervezetek, a lakosság és a hírközlő szervek, valamint a nemzetközi szervezetek részére;
-- j) a Magyarország Közigazgatási Helynévkönyvének vezetése, a Magyarország Helységnévtárának kiadása;
+- i) statisztikai adatok szolgáltatása az államhatalom és a közigazgatás szervei, a társadalmi szervezetek, az érdekképviseletek, a helyi önkormányzatok, a köztestületek, a tudományos, a gazdasági szervezetek, a lakosság és a hírközlő szervek, valamint a nemzetközi szervezetek részére;
+- j) a Magyar Köztársaság Közigazgatási Helynévkönyvének vezetése, a Magyar Köztársaság Helységnévtárának kiadása;
 - k) részvétel nemzetközi szervezetek statisztikai munkájában, valamint kapcsolattartás külföldi nemzeti statisztikai hivatalokkal;
 - l) kötelespéldányra jogosult országos feladatkörű tudományos szakkönyvtár fenntartása, üzemeltetése;
 - m) részvétel a statisztikával összefüggő jogszabályok előkészítésében.
@@ -71,9 +71,7 @@ Stt.6. § (1) A KSH feladata:
 
 (3) A statisztikai regiszter (2) bekezdés szerinti tartalma – a csoportképzés alapjául szolgáló alapadatok kivételével – nyilvános. A hivatalos statisztikai szolgálathoz tartozó szervek részére – az országos statisztikai adatgyűjtési programban szereplő adatgyűjtéseik megszervezése érdekében – a regiszter tartalma az ehhez szükséges mértékben kiegészíthető.
 
-Stt.6/A. § (1) A KSH az adatok gyűjtéséhez, az adatok feldolgozásához, és az adatok közzétételéhez kapcsolódó közhatalmi feladatait a KSH elnöke által alapított, a magyar állam 100%-os tulajdonában álló Statisztikai Elemző Központ Korlátolt Felelősségű Társaság bevonásával látja el.
-
-(2) A gazdasági társaság felett a tulajdonosi jogokat a magyar állam nevében a KSH elnöke gyakorolja.
+Stt.6/A. § A KSH kiegészítő tevékenységet végezhet.
 
 Vhr.2. § (1) A KSH feladatainak ellátásához kapcsolódóan a Kormány részére javaslatot tesz
 
@@ -95,7 +93,7 @@ Stt.7. § (1) A hivatalos statisztikai szolgálat működésének, munkája öss
 - b) a munkáltatók érdekképviseletei által kijelölt két, az országos gazdasági kamarák által kijelölt egy-egy, a munkavállalók érdekképviseletei által kijelölt egy, valamint a helyi önkormányzatok képviseletei által kijelölt három tag; c) a társadalombiztosítás szervei által kijelölt egy tag, továbbá
 - d) a tudományos élet képviselői közül, a Magyar Tudományos Akadémia Statisztikai Bizottsága által javasolt és a KSH elnöke által felkért legfeljebb öt szakember.
 
-(3) Az OST ülésein a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke állandó meghívottként vesz részt.
+(3) Az OST ülésein az adatvédelmi biztos állandó meghívottként vesz részt.
 
 (4) A tagokat és az elnököt határozott időtartamra a miniszterelnök bízza meg. A megbízásra az előterjesztést – a KSH elnökének javaslata alapján – a KSH felett felügyeletet gyakorló miniszter teszi meg.
 
@@ -193,35 +191,11 @@ Stt.8. § (1) Statisztikai adatgyűjtéseket
 
 (6) A jogi személy, valamint a gazdasági tevékenységére vonatkozóan a gazdasági tevékenységet folytató természetes személy és jogi személyiséggel nem rendelkező szervezet statisztikai adatszolgáltatási kötelezettségének részletes szabályait, az OST állásfoglalásának figyelembevételével, kormányrendelet állapítja meg.
 
-Vhr.6. § (1) Az adatszolgáltatási kötelezettséggel járó statisztikai adatgyűjtés kérdőívének címoldalán és az adatgyűjtést szolgáló egyéb anyagon fel kell tüntetni:
+Vhr.6. § (1) Az adatszolgáltatási kötelezettséggel járó statisztikai adatgyűjtés kérdőívének címoldalán és az adatgyűjtést szolgáló egyéb anyagon, számítógépes adatfelvétel esetén annak kísérőjegyzékén, fel kell tüntetni az adatgyűjtő szervezet megnevezését, az adatgyűjtés végrehajtását elrendelő jogszabály számát, ''Az adatszolgáltatás kötelező! Az adatszolgáltatás statisztikai célra történik!'' szövegét, az adatgyűjtés címét, az adatszolgáltatók körét, az adatszolgáltatás gyakoriságát és határidejét és a szerv feltüntetését, amelyhez a kérdőívet továbbítani kell, ,,Az adatszolgáltatás megtagadása, valótlan adatok közlése, valamint a késedelmes adatszolgáltatás büntető, illetőleg szabálysértési eljárást von maga után!'' szöveget, az adatszolgáltatás időpontjának és az adatszolgáltató aláírásának helyét.
 
-a) az adatgyűjtő szervezet megnevezését,
+(2) Az adatszolgáltatási kötelezettség kizárólag az (1) bekezdésben előírt kérdőíven, illetőleg az annak megfelelő kísérőjegyzékkel ellátott számítógépes adathordozón teljesíthető.
 
-b) az adatgyűjtés végrehajtását elrendelő jogszabály számát, és ennek alapján annak kötelező jellegét,
-
-c) az adatgyűjtés nyilvántartási számát,
-
-d) az adatgyűjtés címét,
-
-e) az adatszolgáltatók meghatározását,
-
-f) “Az adatszolgáltatás statisztikai célra történik!” szöveget,
-
-g) “Az adatszolgáltatás megtagadása, valótlan adatok közlése, valamint a késedelmes adatszolgáltatás közigazgatási hatósági, szabálysértési eljárást von maga után!” szöveget,
-
-h) a kapcsolódó uniós jogi aktus számát,
-
-i) az adatszolgáltatás határidejét,
-
-j) a szerv feltüntetését, amelyhez a kérdőívet továbbítani kell,
-
-k) az adatszolgáltatók azonosítóit, a kérdőívet kitöltő és jóváhagyó azonosító adatait,
-
-l) az adatszolgáltatás időpontját és
-
-m) papír alapú kérdőív esetén az adatszolgáltató aláírásának helyét.
-
-(2) Az adatszolgáltatási kötelezettség kizárólag az (1) bekezdésben előírt kérdőíven, vagy a 7/A. §-ban meghatározott módon, elektronikus úton teljesíthető.
+(3)
 
 Stt.8/A. § (1) A jogi személynek, valamint a gazdasági tevékenységet folytató természetes személynek és jogi személyiséggel nem rendelkező szervezetnek statisztikai számjel kiadása céljából be kell jelentkeznie a KSH-nál. A statisztikai számjel a 6. § (2) bekezdése szerinti statisztikai azonosítóból és statisztikai csoportképző adatok kódjából áll.
 
@@ -229,16 +203,13 @@ Stt.8/A. § (1) A jogi személynek, valamint a gazdasági tevékenységet folyta
 
 - a) egyéni vállalkozói tevékenység esetében a tevékenység megkezdéséről szóló bejelentés az illetékes hatósághoz történő benyújtásával;
 - b) ha üzletszerű gazdasági tevékenységet csak a cégbejegyzés iránti kérelem benyújtását követően folytathat, az illetékes cégbírósághoz intézett cégbejegyzés iránti kérelem benyújtásával;
-- c) – a civil és az egyéb cégnek nem minősülő szervezetek nyilvántartásában szereplő szervezet – a civil és egyéb cégnek nem minősülő szervezetek nyilvántartásába történő bejegyzése iránti kérelem, illetve változásbejegyzési kérelem benyújtásával,
-- d) az a)–c) pont alá nem tartozó esetben az állami adó- és vámhatóságnál történő bejelentkezési kötelezettség teljesítésével egyidejűleg a statisztikai számjel megállapítása céljára rendszeresített adatgyűjtési nyomtatvány kitöltésével.
+- c) az a)–b) pont alá nem tartozó esetben az állami adóhatóságnál történő bejelentkezési kötelezettség teljesítésével egyidejűleg a statisztikai számjel megállapítása céljára rendszeresített adatgyűjtési nyomtatvány kitöltésével.
 
-(3) Az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóság, a cégbíróság, illetve a civil és egyéb cégnek nem minősülő szervezetek nyilvántartását vezető bíróság az erre a célra szolgáló számítógépes rendszer útján közli a KSH-val a statisztikai számjel megállapításához szükséges, az egyéni vállalkozói tevékenység bejelentése, a cégbejegyzés, illetve a civil és egyéb cégnek nem minősülő szervezetek bejegyzése érdekében kitöltött nyomtatványon rendelkezésre álló adatok közül az érintett nevét (cégnevét), valamint címét (székhelyét) és ezen túlmenően a főtevékenységét is.
+(3) Az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóság, illetve a cégbíróság az erre a célra szolgáló számítógépes rendszer útján közli a KSH-val a statisztikai számjel megállapításához szükséges, az egyéni vállalkozói tevékenység bejelentése, illetve a cégbejegyzés érdekében kitöltött nyomtatványon rendelkezésre álló adatok közül az érintett nevét (cégnevét), valamint címét (székhelyét) és ezen túlmenően a főtevékenységét is.
 
-(4) A KSH a (3) bekezdésben meghatározott adatok alapján, az erre a célra szolgáló számítógépes rendszer útján haladéktalanul közli a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalával (a továbbiakban: járási hivatal), a cégbírósággal, a civil és egyéb cégnek nem minősülő szervezetek nyilvántartását vezető bírósággal, valamint az állami adóhatósággal a (2) bekezdés a)–c) pontjában meghatározottak statisztikai számjelét, illetve az ok megjelölésével értesíti a megkereső szervezetet a statisztikai számjel megállapításának megtagadásáról. A (2) bekezdés d) pontjában meghatározottak statisztikai számjelükről – kérésükre – írásban kapnak értesítést.
+(4) A KSH a (3) bekezdésben meghatározott adatok alapján, az erre a célra szolgáló számítógépes rendszer útján haladéktalanul közli a körzetközponti jegyzővel, a cégbírósággal, valamint az állami adóhatósággal a (2) bekezdés a) és b) pontjában meghatározottak statisztikai számjelét, illetve az ok megjelölésével értesíti a megkereső szervezetet a statisztikai számjel megállapításának megtagadásáról. A (2) bekezdés c) pontjában meghatározottak statisztikai számjelükről – kérésükre – írásban kapnak értesítést.
 
-(5) A statisztikai számjel megállapításához szükséges adatokban bekövetkezett változást – amennyiben azt a járási hivatalhoz, a cégbírósághoz, illetve a civil és egyéb cégnek nem minősülő szervezetek nyilvántartását vezető bírósággal nem kell bejelenteni – és a főtevékenység változását az érintettek az adat változását követő 15 napon belül kötelesek közölni a KSH-val.
-
-(6) Azoknak a szervezeteknek, amelyeknek nincs bírósági, cégbírósági, egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatósági, adóhatósági bejelentési kötelezettségük, közvetlenül a KSH-nak kell bejelenteniük az e célra rendszeresített adatgyűjtési nyomtatvány kitöltésével a statisztikai regiszter 6. § (2) szerinti és a statisztikai számjel megállapításához szükséges adatokat és az azokban bekövetkezett változást a változást követő 15 napon belül.
+(5) A statisztikai számjel megállapításához szükséges adatokban bekövetkezett változást – amennyiben azt a körzetközponti jegyzőhöz, illetve a cégbírósághoz nem kell bejelenteni – és a főtevékenység változását az érintettek az adat változását követő 15 napon belül kötelesek közölni a KSH-val.
 
 Stt.9. § (1) Az adatszolgáltatásra kötelezett az előírt adatokat a valóságnak megfelelő tartalommal, megszabott határidőben és meghatározott módon, térítésmentesen köteles szolgáltatni.
 
@@ -247,20 +218,6 @@ Stt.9. § (1) Az adatszolgáltatásra kötelezett az előírt adatokat a valós�
 (3) Az országos statisztikai adatgyűjtési programba felvett adatgyűjtéseket végrehajtó szervek, a szolgáltatott adatok valódiságának ellenőrzése céljából, a szolgáltatott adatokkal összefüggő nyilvántartásokba, iratokba — előzetes értesítés alapján — az adatszolgáltatónál betekinthetnek. Az ellenőrzés során tudomásra jutott adatok védelmére a 17. § (2) bekezdését kell alkalmazni.
 
 (4) Az ellenőrzés során figyelemmel kell lenni az ellenőrzött szerv munkájára. Az ellenőrzést úgy kell megszervezni, hogy az a folyamatos működést ne akadályozza.
-
-Stt.9/A. § (1) A megyei, fővárosi kormányhivatal az adatgyűjtést végrehajtó szerv kezdeményezésére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94/A. §-a alapján közigazgatási bírsággal sújtja azt a jogi személyt vagy jogi személyiséggel nem rendelkező szervezetet, amely a valóságnak nem megfelelő adatot szolgáltat, vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad.
-
-(2) A közigazgatási bírság összege 200 000 forinttól 2 000 000 forintig terjedhet. A bírság kiszabása a jogszabálysértéssel érintett adatszolgáltatásonként történik.
-
-Stt.9/B. § (1) A megyei, fővárosi kormányhivatal az adatgyűjtést végrehajtó szerv kezdeményezésére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94/A. §-a alapján közigazgatási bírsággal sújtja azt, aki vagy amely
-
-- a) jogosulatlanul vagy jogszabályban előírt eljárási szabályok megszegésével adatszolgáltatási kötelezettséggel járó statisztikai adatszolgáltatást rendel el, illetve hajt végre,
-- b) a szabályszerűen elrendelt kötelező statisztikai adatszolgáltatást nem az előírt határidőre teljesíti,
-- c) a statisztikai adatok közlésére, közzétételére vagy a statisztikai célú adatátvételre, adatátadásra vonatkozó jogszabályokat megszegi,
-- d) a személyes adatok statisztikai célú feldolgozásánál előírt nyilvántartás vezetését elmulasztja,
-- e) a statisztikai adatszolgáltatás ellenőrzését akadályozza, az ellenőrzés során kért felvilágosítás megadását megtagadja, illetve megőrzési kötelezettségének nem tesz eleget.
-
-(2) A közigazgatási bírság összege természetes személy esetében 200 000 forintig, jogi személy és jogi személyiséggel nem rendelkező szervezet esetében 100 000 forinttól 2 000 000 forintig terjedhet. A bírság kiszabása az (1) bekezdés a) és b) pontjában foglaltak megvalósulása esetén a jogszabálysértéssel érintett adatszolgáltatásonként történik.
 
 Vhr.7. § (1) A helyi önkormányzatot terhelő adatszolgáltatás teljesítéséért a jegyző (főjegyző, körjegyző) a felelős.
 
@@ -274,43 +231,25 @@ Vhr.7. § (1) A helyi önkormányzatot terhelő adatszolgáltatás teljesítés�
 
 (6) A nemzetbiztonsági szolgálatok statisztikai ellenőrzéséhez az adott szolgálat főigazgatójának előzetes, a tartózkodási feltételek részletes meghatározását tartalmazó eseti hozzájárulása szükséges.
 
-Vhr.7/A. § (1) A hivatalos statisztikai szolgálat adatgyűjtés végrehajtásáért felelős tagja az Országos Statisztikai Adatgyűjtési Programról szóló kormányrendeletben (a továbbiakban: OSAP) meghatározott egyes adatgyűjtésekhez kapcsolódó adatszolgáltatási kötelezettség elektronikus úton történő teljesítéséhez informatikai rendszert működtet (a továbbiakban: Rendszer).
-
-(2) A Rendszer használatának feltétele, hogy az adatszolgáltató vagy az adatszolgáltatásra általa felhatalmazott szervezet (a továbbiakban: adatbenyújtó) a Rendszerben elektronikus úton regisztráljon.
-
-Vhr.7/B. § (1) A Rendszerben kitöltött kérdőíven megjelölt adatokat az adatszolgáltatón kívül csak a hivatalos statisztikai szolgálat adatgyűjtés végrehajtásáért felelős tagja és a részére adatfeldolgozást végző szerv ismerheti meg.
-
-(2) A Rendszer rögzíti és visszaigazolja a kérdőív beküldési időpontját, amely egyben az adatszolgáltatási kötelezettség teljesítésének időpontja.
-
-Vhr.7/C. § (1) Amennyiben a Rendszerben üzemzavar történik, a hivatalos statisztikai szolgálat adatgyűjtés végrehajtásáért felelős tagja az üzemzavarról, és az üzemzavar elhárítását követően annak kezdő és megszűnési időpontjáról haladéktalanul közleményt tesz közzé a saját honlapján.
-
-(2) Amennyiben a Rendszer működése karbantartás miatt szünetel, a karbantartás tényéről a Rendszer nyitólapján üzenetet kell megjeleníteni, a karbantartás tervezett időpontját megelőző legalább nyolcadik naptól a karbantartás befejezéséig.
-
 ### Népmozgalmi statisztikai adatgyűjtés
 
 Stt.10. § (1) A népmozgalmi statisztika körében megfigyelésre kerül minden Magyarországon bekövetkezett születés, haláleset, házasságkötés, bejegyzett élettársi kapcsolat létesítése, élettársi nyilatkozat nyilvántartásba vétele, házasság felbontása, valamint érvénytelenné nyilvánítása, bejegyzett élettársi kapcsolat felbontása, megszüntetése, a nyilvántartott élettársi kapcsolat megszűnése (a továbbiakban együtt: népmozgalmi esemény), valamint lakcímváltozás.
 
-(1a) A népmozgalmi események körében kell megfigyelni a magyarországi lakcímmel rendelkező személyek külföldön bekövetkezett halálozását, valamint a magyarországi lakcímmel rendelkező anyák külföldön történt szülését, amennyiben az esemény anyakönyvezésére Magyarországon is sor kerül.
+(2) A népmozgalmi események statisztikai felmérése céljából a KSH a következő személyes adatokat gyűjti: név, lakcím, állampolgárság, születési hely és idő, nem, családi állapot, iskolai végzettség, gazdasági aktivitás, foglalkozás, munkahely, gyermekek száma, a népmozgalmi eseménnyel összefüggő egészségi állapot, az anyakönyvezés helye, az anyakönyvi bejegyzés folyószáma, a népmozgalmi esemény és a kapcsolódó népmozgalmi események helye és ideje.
 
-(2) A népmozgalmi események felmérése a következő adatkörökre terjed ki: név, lakcím, társadalombiztosítási azonosító jel, állampolgárság, születési hely és idő, nem, családi állapot, iskolai végzettség, gazdasági aktivitás, foglalkozás, gyermekek száma, a születéssel, illetve halálozással mint népmozgalmi eseménnyel összefüggő egészségi állapot, az anyakönyvezés helye, a bejegyzés egyedi elektronikus anyakönyvi azonosítója, a népmozgalmi esemény helye és ideje.
+(3) A népmozgalmi eseménnyel, valamint a lakcímváltozással kapcsolatban gyűjtött adatok közül a nevet és a lakcímet az adatok teljessége és összefüggése ellenőrzésének befejezését követő nyolc napon belül törölni kell.
 
-(3) A népmozgalmi eseménnyel, valamint a lakcímváltozással kapcsolatban gyűjtött adatok közül a nevet, a lakcímet és a társadalombiztosítási azonosító jelet az adatok teljessége és összefüggése ellenőrzésének befejezését követő nyolc napon belül törölni kell.
+(4) A (2) bekezdés szerinti adatokat a népmozgalmi esemény helye szerint illetékes anyakönyvvezetők, egészségügyi szervek, bíróságok és a közjegyzők kötelesek szolgáltatni. A lakcím adatokat a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a reá vonatkozó szabályok szerint szolgáltatja.
 
-(4) A (2) bekezdés szerinti adatkörökbe tartozó, rendelkezésre álló adatokat a népmozgalmi esemény helye szerint illetékes anyakönyvvezetők, egészségügyi szervek, a halottvizsgálati bizonyítvány kiállítására jogosult orvos, a bíróságok és a közjegyzők, valamint – a külföldön történt események esetén – a hazai anyakönyvezést végző hatóságok kötelesek szolgáltatni. A lakcímadatokat a személyiadat- és lakcímnyilvántartást kezelő központi szerv a rá vonatkozó szabályok szerint szolgáltatja.
+Vhr.8. § (1) A születés és haláleset statisztikai számbevételénél az 1. számú, illetőleg a 2. számú melléklet szerinti adattartalmú adatszolgáltató lapot az egészségügyi szerv, valamint az anyakönyvvezető tölti ki, és továbbítja az illetékes KSH igazgatóságnak.
 
-(5) A KSH a halottvizsgálattal kapcsolatos eljárásra vonatkozó külön jogszabályok szerint jogosult a halottvizsgálattal kapcsolatos adatokat egyedi azonosításra alkalmas módon átvenni és kezelni.
+(2) A házasságkötés statisztikai számbavételénél a 3. számú melléklet szerinti adattartalmú adatszolgáltató lapot az anyakönyvvezető tölti ki, és azt megküldi az illetékes KSH-igazgatóságnak.
 
-Vhr.8. § (1) A születés és haláleset statisztikai számbavételénél az 1., illetőleg a 2. melléklet szerinti adattartalmú adatszolgáltató lapot az egészségügyi szerv, illetve a halottvizsgálati bizonyítvány kiállítására jogosult orvos, valamint az anyakönyvvezető, illetve – a külföldön történt események esetén – a hazai anyakönyvezést végző hatóság tölti ki, és továbbítja a KSH-nak.
+(3) A válás statisztikai számbavételénél a kötelék felbontása kérdésében ítéletet hozó bíróság az ítélet jogerőre emelkedését követően a 4. számú melléklet szerinti adattartalmú adatszolgáltató lapot tölti ki és megküldi a házasságkötés helye szerint illetékes anyakönyvvezetőnek, aki azt – kiegészítés után – továbbítja az illetékes KSH-igazgatósághoz.
 
-(2) A házasságkötés statisztikai számbavételénél a 3. melléklet szerinti adattartalmú adatszolgáltató lapot az anyakönyvvezető tölti ki, és azt megküldi a KSH-nak.
+(4) Az (1)—(2) bekezdés esetében az adatszolgáltatást a tárgyhónapot követő hónap 5-ig, a (3) bekezdés esetében az ítélet jogerősítési záradékkal történő ellátását követő hét napon belül kell teljesíteni.
 
-(3) A házasság felbontásának, valamint érvénytelenné nyilvánításának statisztikai számbavételénél a házassági perben ítéletet hozó bíróság az ítélet jogerőre emelkedését követően a 4. melléklet szerinti adattartalmú adatszolgáltató lapot tölti ki és megküldi a házasságkötés helye szerint illetékes anyakönyvvezetőnek, aki azt – az anyakönyvi bejegyzésre vonatkozó kiegészítés után – továbbítja a KSH-nak.
-
-(4) Az (1) bekezdés esetében – az (5) bekezdésben foglalt kivétellel –, valamint a (2) bekezdés esetében az adatszolgáltatást az anyakönyvi bejegyzést követő hónap ötödik napjáig, a (3) bekezdés esetében az ítélet jogerősítési záradékkal történő ellátását követő hét napon belül kell teljesíteni.
-
-(5) A külföldön történt népmozgalmi események esetében az 1., illetőleg a 2. melléklet szerinti tartalmú adatszolgáltatást a tárgyévben bekövetkezett események vonatkozásában a hazai anyakönyvezést végző hatóság a tárgyévet követő év március 31-ig teljesíti a KSH felé.
-
-(6) A lakcímváltozásokról a személyiadat- és lakcímnyilvántartást kezelő központi szerv a nyilvántartásba vételt követő második hónap hetedik napjáig szolgáltat adatot a KSH-nak az 5. melléklet szerinti adattartalommal.
+(5) A lakcímváltozásokról a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala a tárgyhónapot követő második hónap hetedik napjáig szolgáltat adatot a KSH-nak az 5. számú melléklet szerinti adattartalommal.
 
 ### Országos statisztikai adatgyűjtési program
 
@@ -360,11 +299,11 @@ Vhr.15. § (1) Az adatszolgáltatás önkéntességére ,,Az adatszolgáltatás 
 
 Stt.17. § (1) A hivatalos statisztikai szolgálathoz tartozó szervek által végrehajtott adatgyűjtések eredményei — a (2) bekezdésben foglalt kivétellel — nyilvánosak. A nyilvánosságra hozásról e szervek saját hatáskörükben gondoskodnak.
 
-(2) Nem lehet nyilvánosságra hozni a minősített adatokat, valamint — a 18. §-ban foglaltak kivételével — a statisztikai célt szolgáló, a természetes és a jogi személy, valamint a jogi személyiséggel nem rendelkező adatszolgáltatóval kapcsolatba hozható adatot (a továbbiakban: egyedi adat).
+(2) Nem lehet nyilvánosságra hozni az államtitoknak vagy szolgálati titoknak minősített adatokat, valamint — a 18. §-ban foglaltak kivételével — a statisztikai célt szolgáló, a természetes és a jogi személy, valamint a jogi személyiséggel nem rendelkező adatszolgáltatóval kapcsolatba hozható adatot (a továbbiakban: egyedi adat).
 
 Stt.18. § (1) Egyedi adat csak statisztikai célra használható, mással csak akkor közölhető, és abban az esetben adható át, valamint hozható nyilvánosságra, ha ehhez az adatszolgáltató előzetesen írásban hozzájárult. Ez a korlátozás nem vonatkozik az azonos szerven belül statisztikai tevékenységet végző személyek egymás közötti adatközlésére.
 
-(2) Közérdekű feladatot ellátó szerv, illetőleg egyesület, valamint a költségvetési szerv ezen tevékenységére vonatkozó egyedi adat az adatszolgáltató írásbeli hozzájárulása nélkül is nyilvánosságra hozható.
+(2) Közérdekű feladatot ellátó szerv, illetőleg társadalmi szervezet, valamint a költségvetési szerv ezen tevékenységére vonatkozó egyedi adat az adatszolgáltató írásbeli hozzájárulása nélkül is nyilvánosságra hozható.
 
 (3) Egyedi adat – az (1) bekezdésben foglaltakon túlmenően – csak statisztikai célból, statisztikai tevékenységgel foglalkozó nemzetközi szervezetnek, jogszabályban meghatározott nemzetközi kötelezettség teljesítése érdekében adható át az adatszolgáltató írásbeli hozzájárulása nélkül.
 
@@ -374,7 +313,7 @@ Stt.19. § (1) A természetes személy személyére vonatkozó adatgyűjtésnél
 
 (2) Az (1) bekezdés szerinti adatokat érintő, egy évnél hosszabb időszakra vonatkozó idősoros vizsgálatok esetében az adatállományt belső azonosítóval kell ellátni, amelyből az érintett személyazonossága nem állapítható meg. Az érintett személyazonosító adatait az adatállománytól elkülönítetten kell kezelni. Az adatok feldolgozásáról, annak áttekinthetőségének biztosítására az adatkezelő részletes nyilvántartást vezet.
 
-(3) Új adatoknak az adatállományhoz csatolása, valamint az azonos célú statisztikai adatgyűjtés céljából történt mintavételes eljárás végrehajtásának idejére, a személyazonosító adatok az adatállománnyal ideiglenesen összekapcsolhatók. Az összekapcsolás szabályait a Nemzeti Adatvédelmi és Információszabadság Hatóság állásfoglalásának figyelembevételével kell meghatározni, és véleményezésre az OST elé kell terjeszteni.
+(3) Új adatoknak az adatállományhoz csatolása, valamint az azonos célú statisztikai adatgyűjtés céljából történt mintavételes eljárás végrehajtásának idejére, a személyazonosító adatok az adatállománnyal ideiglenesen összekapcsolhatók. Az összekapcsolás szabályait az adatvédelmi biztos állásfoglalásának figyelembevételével kell meghatározni, és véleményezésre az OST elé kell terjeszteni.
 
 (4) A (2) és (3) bekezdésben foglaltak külön törvény szerint alkalmazhatók a lakosság egészére kiterjedő adatszolgáltatásnál.
 
@@ -459,25 +398,7 @@ Stt.26. § (1) Ez a törvény 1993. május 15-én lép hatályba.
 - e)
 - f) a népmozgalmi statisztikai adatgyűjtés részletes szabályait.
 
-(4) Felhatalmazást kap a KSH felett felügyeletet gyakorló miniszter, hogy
-
-- a) a kötelező statisztikai fogalmakat, módszereket, osztályozásokat, névjegyzékeket és számjeleket rendeletben szabályozza, és
-- b) rendeletében statisztikai közleményt hatályon kívül helyezzen.
-
-Stt.26/A. § A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 9/B. § (2) bekezdést a 2015. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
-
-### Az Európai Unió jogának való megfelelés
-
-Stt.27. § Ez a törvény
-
-- a) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet,
-- b) a népegészségre és a munkahelyi egészségre és biztonságra vonatkozó közösségi statisztikáról szóló 2008. december 16-i 1338/2008/EK európai parlamenti és tanácsi rendelet,
-- c) a népegészségre és a munkahelyi egészségre és biztonságra vonatkozó közösségi statisztikáról szóló 1338/2008/EK európai parlamenti és tanácsi rendeletnek a halálokok statisztikája tekintetében történő végrehajtásáról szóló 2011. április 5-i 328/2011/EU bizottsági rendelet,
-- d) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról, valamint a külföldi állampolgárságú munkavállalókra vonatkozó statisztikák összeállításáról szóló 311/76/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2007. július 11-i 862/2007/EK európai parlamenti és tanácsi rendelet
-
-végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Stt.28. §
+Stt.27–28. §
 
 Vhr.23. §
 
@@ -485,241 +406,241 @@ Vhr.23. §
 
 Vhr.24. § Ez a rendelet 1994. január 1-jén lép hatályba.
 
-Vhr.25. § Ez a rendelet
-
-a) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet,
-
-b) a népegészségre és a munkahelyi egészségre és biztonságra vonatkozó közösségi statisztikáról szóló 2008. december 16-i 1338/2008/EK európai parlamenti és tanácsi rendelet,
-
-c) a népegészségre és a munkahelyi egészségre és biztonságra vonatkozó közösségi statisztikáról szóló 1338/2008/EK európai parlamenti és tanácsi rendeletnek a halálokok statisztikája tekintetében történő végrehajtásáról szóló 2011. április 5-i 328/2011/EU bizottsági rendelet,
-
-d) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról, valamint a külföldi állampolgárságú munkavállalókra vonatkozó statisztikák összeállításáról szóló 311/76/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2007. július 11-i 862/2007/EK európai parlamenti és tanácsi rendelet
-
-végrehajtásához szükséges rendelkezéseket állapít meg.
-
-### 1. melléklet a 170/1993. (XII. 3.) Korm. rendelethez
+### 1. számú melléklet a 170/1993. (XII. 3.) Korm. rendelethez
 
 Az élveszületési lap adattartalma
 
-1. Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
+Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
 
-2. A gyermek:
+A gyermek születésének
 
-2.1. neve
+helye
 
-2.2. születésének helye, időpontja
+ideje
 
-2.3. neme
+neme
 
-2.4. állampolgársága
+Az anya családi állapota
 
-3. Az anya:
+A szülők házasságkötésének időpontja
 
-3.1. neve
+születésének időpontja
 
-3.2. családi állapota
+lakcíme
 
-4. A szülők:
+iskolai végzettsége
 
-4.1. házasságkötésének időpontja
+gazdasági aktivitása
 
-4.2. születésének helye, időpontja
+foglalkozása, munkaköre
 
-4.3. lakcíme
+foglalkozási viszonya
 
-4.4. állampolgársága
+állománycsoportja, beosztása
 
-4.5. iskolai végzettsége
+munkáltatójának, munkahelyének megnevezése
 
-4.6. gazdasági aktivitása
+Többes szülés esetén a többes szülés száma és a születés sorszáma
 
-4.7. foglalkozása, munkaköre, foglalkozási viszonya
+A gyermek hányadik terhességből származik
 
-5. Többes szülés esetén a többes szülés száma és a születés sorszáma
+Az anyának hány gyermeke született élve élete folyamán és a jelenlegi házasságából
 
-6. A gyermek hányadik terhességből származik
+Az anya életben lévő gyermekeinek száma, ebből a jelenlegi házasságából születettek száma
 
-7. Az anyának hány gyermeke született élve élete folyamán és a jelenlegi házasságából
+Az anya jelenlegi terhességét megelőző élveszülésének késői magzati halálozásának ideje
 
-8. Az anya életben lévő gyermekeinek száma, ebből a jelenlegi házasságából születettek száma
+Egyéb szülészeti események száma (magzati halálozások, terhességmegszakítás, méhen kívüli terhesség)
 
-9. A jelenlegi terhességet megelőző élveszülés, késői magzati halálozás ideje
+Hol történt a szülés, a szülésnél ki segédkezett
 
-10. Magzati halálozások, terhességmegszakítások, méhen kívüli terhességek száma
+A terhesség időtartama
 
-11. Hol történt a szülés, a szülésnél ki segédkezett
+A gyermek súlya, hossza és 5 perces Apgár-értéke
 
-12. A terhesség időtartama
+fejlődési rendellenessége
 
-13. A gyermek súlya, hossza és 5 perces Apgár-értéke, fejlődési rendellenessége
-
-### 2. melléklet a 170/1993. (XII. 3.) Korm. rendelethez
+### 2. számú melléklet a 170/1993. (XII. 3.) Korm. rendelethez
 
 A halálesettel összefüggő adatfelvételi lapok adattartalma
 
-1. Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
+Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
 
-2. A haláleset helye, időpontja
+A haláleset
 
-3. Az elhalt:
+helye:
 
-3.1. neme
+időpontja:
 
-3.2. családi állapota
+Az elhalt
 
-3.3. neve
+neme:
 
-3.4. születésének helye, időpontja
+családi állapota:
 
-3.5. lakcíme
+neve:
 
-3.6. állampolgársága
+születési ideje:
 
-3.7. iskolai végzettsége
+lakcíme:
 
-3.8. halála előtti gazdasági aktivitása
+iskolai végzettsége:
 
-3.9. foglalkozása, munkaköre, foglalkozási viszonya
+halála előtti gazdasági aktivitása:
 
-3.10. utolsó házasságkötésének ideje
+foglalkozása, munkaköre:
 
-4. Életben lévő házastárs:
+foglalkozási viszonya:
 
-4.1. születésének helye, időpontja
+állománycsoportja, beosztása:
 
-4.2. lakcíme
+a munkáltatójának, munkahelyének megnevezése:
 
-4.3. állampolgársága
+utolsó házasságkötésének ideje:
 
-5. Az elhalt nőnek, illetőleg az elhalt férfi életben lévő házastársának hány gyermeke született élete folyamán és az utolsó házasságából, ebből élve született, életben van
+Életben lévő házastárs születési ideje:
 
-6. A haláleset közelebbi helye
+Az elhalt nőnek, illetőleg az elhalt férfi életben lévő házastársának hány gyermeke született élete folyamán és az utolsó házasságából, ebből élve született, életben van:
 
-7. Csecsemőhalálozás esetén még:
+A haláleset közelebbi helye:
 
-7.1. az élveszületés helye
+A halál okának megállapítója és arra vonatkozó adatok, hogy a halott részesült-e orvosi kezelésben vagy sem:
 
-7.2. többes szülés esetén hányas szülés, hányadik szülött
+A halálhoz vezető betegség(ek), állapot(ok) és azok időtartama:
 
-7.3. az anya családi állapota
+Erőszakos halálesetnél annak helye, módja, oka, körülményei és időpontja:
 
-7.4. az anya házasságkötésének időpontja
+Csecsemőhalálozás esetén még:
 
-8. A halottvizsgálati bizonyítvány és annak módosításáról szóló értesítő adatai, a perinatális halottvizsgálati bizonyítvány, perinatális halálozási (kórszövettani) értesítő adatai
+az élveszülés helye:
 
-### 3. melléklet a 170/1993. (XII. 3.) Korm. rendelethez
+többes szülés esetén hányas szülés, hányadik szülött:
+
+az anya családi állapota:
+
+mikor kötött házasságot:
+
+### 3. számú melléklet a 170/1993. (XII. 3.) Korm. rendelethez
 
 A házassági lap adattartalma
 
-1. Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
+Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
 
-2. A házasságkötés helye, időpontja
+A házasságkötés
 
-3. A férj és a feleség adatai:
+helye
 
-3.1. házassági családi és utóneve
+időpontja
 
-3.2. születési családi és utóneve
+A férj és a feleség adatai:
 
-3.3. születésének helye, időpontja
+Házasságkötés előtti családi és utónév
 
-3.4. családi állapota a házasságkötés előtt
+A születés időpontja
 
-3.5. lakcíme
+Családi állapot a házasságkötés előtt
 
-3.6. állampolgársága
+Lakcím
 
-3.7. hányadik házassága a jelenlegi
+Hányadik házasság a jelenlegi
 
-3.8. az előző házasság megszűnésének időpontja
+Az előző házasság megszűnésének időpontja
 
-3.9. élve született és életben lévő gyermekek száma
+Élve született és életben lévő gyermekek száma
 
-3.10. iskolai végzettsége
+Iskolai végzettség
 
-3.11. gazdasági aktivitása
+Gazdasági aktivitás a házasságkötéskor
 
-3.12. foglalkozása, munkaköre, foglalkozási viszonya
+Foglalkozás, munkakör a házasságkötéskor
 
-### 4. melléklet a 170/1993. (XII. 3.) Korm. rendelethez
+Foglalkozási viszony
 
-A házasság felbontásáról, valamint érvénytelenné nyilvánításáról szóló lap adattartalma
+Állománycsoport, beosztás
 
-1. Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
+A munkáltató megnevezése
 
-2. A házasságkötés helye, időpontja
+### 4. számú melléklet a 170/1993. (XII. 3.) Korm. rendelethez
 
-3. A házasságot jogerősen felbontó bíróság megnevezése
+A válási lap adattartalma
 
-4. A jogerős ítélet ügyszáma
+Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
 
-5. Az ítélet jogerőre emelkedésének ideje
+A házasságkötés
 
-6. A férj és a feleség adatai:
+helye
 
-6.1. családi és utóneve
+ideje
 
-6.2. a házasságkötés előtti családi állapota
+A házasságot jogerősen felbontó bíróság megnevezése
 
-6.3. születésének helye, időpontja
+A jogerős ítélet ügyszáma
 
-6.4. lakcíme
+Az ítélet jogerőre emelkedésének ideje
 
-6.5. állampolgársága
+A férj és a feleség adatai:
 
-6.6. a jelenlegi válás hányadik válás
+Családi és utónév
 
-6.7. az összes élveszületett és életben lévő gyermek száma
+A házasságkötés előtti családi állapot
 
-6.8. iskolai végzettsége
+A születés időpontja
 
-6.9. gazdasági aktivitása
+Lakcím a kereset beadásakor
 
-6.10. foglalkozása, munkaköre, foglalkozási viszonya
+A jelenlegi válás hányadik válás
 
-7. A felek közös, életben lévő gyermekeinek száma, életkora
+Az összes élveszületett és életben lévő gyermek száma
 
-8. A perben a gyermek elhelyezéséről döntöttek-e, hol helyezték el
+A felek közös, életben lévő gyermekeinek száma, életkora
 
-9. A bíróság tartási kötelezettséget megállapított-e, kinek a javára
+A perben a gyermek elhelyezéséről döntöttek-e, hol helyezték el
 
-10. A házasság felbontására közös megegyezéssel vagy egyéb módon került-e sor, a keresetet elutasította-e a bíróság, illetőleg érvénytelenítette-e a házasságot.
+A bíróság tartási kötelezettséget megállapított-e, kinek a javára
 
-11. A keresetet indító fél
+Iskolai végzettség
 
-12. A kereset beadásának ideje
+Gazdasági aktivitás a kereset beadásakor
 
-13. A kötelék kérdésében hozott jogerős ítélet kelte
+Foglalkozás, munkakör a kereset beadásakor
 
-14. A bíróság a közös lakás használatával kapcsolatos igényről döntött-e, ha igen, akkor kinek a javára
+Foglalkozási viszony
 
-15. A házassági perben házassági vagyonjogi igényt érvényesítettek-e
+Állománycsoport, beosztás
 
-### 5. melléklet a 170/1993. (XII. 3.) Korm. rendelethez
+A munkáltató, munkahely megnevezése
+
+A házasság felbontására közös megegyezéssel vagy egyéb módon került-e sor, a keresetet elutasította-e a bíróság, illetőleg érvénytelenítette-e a házasságot. A keresetet indító fél
+
+A kereset beadásának ideje
+
+A kötelék kérdésében hozott jogerős ítélet kelte
+
+A bíróság a közös lakás használatával kapcsolatos igényről döntött-e, ha igen, akkor kinek a javára
+
+A házassági perben házassági vagyonjogi igényt érvényesítettek-e
+
+### 5. számú melléklet a 170/1993. (XII. 3.) Korm. rendelethez
 
 A lakcímváltozásokról szóló adatszolgáltatás adattartalma
 
-1. A lakcímet változtató személy:
+A lakcímet változtató személy
 
-1.1. neme
+neme
 
-1.2. születésének helye, időpontja
+születési dátuma
 
-1.3. lakóhelye
+lakóhelye
 
-1.4. tartózkodási helye
+tartózkodási helye
 
-1.5. családi állapota
+családi állapota
 
-1.6. állampolgársága
+A település
 
-2. A lakcímváltoztatás időpontja
+amelyikből elköltözik
 
-3. A lakcím:
-
-3.1. ahonnan elköltözik
-
-3.2. ahová beköltözik
+ahová beköltözik
 
 ### 6. számú melléklet a 170/1993. (XII. 3.) Korm. rendelethez
 

@@ -79,7 +79,7 @@ a környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédel
 
 (4) Termékdíjjal kapcsolatos ügyekben nem kell alkalmazni a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a kérelemre indult eljárásban az ügyfél által az eljárás megindulásáról kért értesítésre, továbbá az újrafelvételi eljárásra vonatkozó szabályokat.
 
-(5) Amennyiben jogszabály másként nem rendelkezik, a vámhatóság jár el a termékdíj bevallása, befizetése, kiszabása, visszaigénylése, ellenőrzése során.
+(5) Amennyiben jogszabály másként nem rendelkezik, a vámhatóság jár el a termékdíj bevallása, befizetése, kiszabása, visszaigénylése, ellenőrzése során. A termékdíj adók módjára behajtható köztartozás.
 
 (6) A kötelezett a termékdíjköteles termékkel végzett tevékenységét a Kt. végrehajtásáról szóló külön jogszabály szerint köteles a vámhatóságnál bejelenteni és nyilvántartásba vételét kérni.
 
@@ -165,14 +165,14 @@ a környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédel
 
 - a) passzív módon akadályozza, a vámhatóság a termékdíjköteles terméket és/vagy a területet, ahol előzetes információk alapján vagy feltételezhetően termékdíjköteles termék található – az ellenőrzés alá vont személy, annak képviselője, meghatalmazottja, ezek hiányában két hatósági tanú jelenlétében – zár alá veszi és az akadályoztatás elhárulását követően az ellenőrzést lefolytatja;
 - b) passzív módon akadályozza és felmerül a termékdíjköteles termék intézkedés alóli kivonásának lehetősége, a vámhatóság jogosult az akadályozó körülmény – az ellenőrzés alá vont személy költségére és felelősségére történő – elhárítására és az ellenőrzés lefolytatására, ennek keretében az Art. helyszíni ellenőrzésre vonatkozó rendelkezései szerint jogosult belépni és ellenőrzést folytatni olyan helyiségben, ahol azonosított és ellenőrzött forrásból származó adatok alapján valószínűsíthetően a környezetvédelmi termékdíjas jogszabályok megsértésével termékdíjköteles terméket tartanak, tárolnak, illetve állítanak elő;
-- c) aktív módon akadályozza, a vámhatóság a Nemzeti Adó- és Vámhivatalról szóló törvény rendelkezéseinek megfelelően kényszerítő eszközöket alkalmazhat.
+- c) aktív módon akadályozza, a vámhatóság a Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény rendelkezéseinek megfelelően kényszerítő eszközöket alkalmazhat.
 
 (5) A vámhatóság az e törvény 3. §-ának (5) bekezdésében foglalt feladatainak ellátása céljából, valamint a birtokába került adatok ellenőrzéséhez, a személy és az áru azonosítása érdekében a következő nyilvántartásokból igényelhet adatot:
 
 - a) a személy azonosítása érdekében a természetes személy adatainak és lakcímének nyilvántartásából, útlevélszám alapján az útlevél-nyilvántartásból, valamint a cégbírósági nyilvántartásból,
 - b) az áru és gépjármű azonosításához a gépjármű-nyilvántartásból,
 - c)
-- d)
+- d) az állami adóhatóság adósnyilvántartásából,
 - e) törvényi felhatalmazás alapján az abban meghatározott nyilvántartásokból.
 
 (6) A vámhatóság megkeresésére a hitelintézet a bevallott termékdíj meghatározása jogszerűségének, a termékdíjtartozás, valamint a nem közösségi adók és díjak befizetésének ellenőrzéséhez pénzforgalmi adatokat térítésmentesen szolgáltat.
@@ -226,7 +226,7 @@ esetén.
 
 ### Lefoglalás és elkobzás
 
-4/H. § (1) A vámhatóság a termékdíjköteles termékhez kapcsolódó eljárása során (tényállás tisztázása), továbbá az e törvény szerinti elkobzás érvényesítése érdekében lefoglalást rendelhet el. A lefoglalásnál a kötelezett jelenlétét biztosítani kell. Ha kötelezett nem kíván jelen lenni vagy ebben akadályozott, és megfelelő képviseletről nem gondoskodik, a vámhatóság a lefoglalást két hatósági tanú jelenlétében foganatosítja. A lefoglalásról a vámhatóság a kötelezett, annak képviselője, meghatalmazottja, ezek hiányában két hatósági tanú jelenlétében jegyzőkönyvet vesz fel, a lefoglalt termékdíjköteles terméket és ha a termékdíjköteles termék más termékkel együtt képez egységet, más termék része vagy összetevője akkor a termékkel együtt (a továbbiakban: lefoglalt termék) zár alá veszi vagy a kötelezett költségére elszállíttatja és megőrzi.
+4/H. § (1) A vámhatóság a termékdíjköteles termékhez kapcsolódó eljárása során (tényállás tisztázása), továbbá az e törvény szerinti elkobzás érvényesítése érdekében lefoglalást rendelhet el. A lefoglalásnál a kötelezett jelenlétét biztosítani kell. Ha kötelezett nem kíván jelen lenni vagy ebben akadályozott, és megfelelő képviseletről nem gondoskodik, az adóhatóság a lefoglalást két hatósági tanú jelenlétében foganatosítja. A lefoglalásról a vámhatóság a kötelezett, annak képviselője, meghatalmazottja, ezek hiányában két hatósági tanú jelenlétében jegyzőkönyvet vesz fel, a lefoglalt termékdíjköteles terméket és ha a termékdíjköteles termék más termékkel együtt képez egységet, más termék része vagy összetevője akkor a termékkel együtt (a továbbiakban: lefoglalt termék) zár alá veszi vagy a kötelezett költségére elszállíttatja és megőrzi.
 
 (2) A vámhatóság, amennyiben a termékdíjköteles termék birtokosa – ideértve a természetes személyt, aki kereskedelmi jellegű termékdíjköteles terméket birtokol – a termékdíjköteles termék eredetét vagy felhasználásának célját nem igazolja, és az eljárás során felmerül
 
@@ -262,14 +262,14 @@ illetve szükséges a tényállás tisztázása érdekében a termékdíjkötele
 - b) a szellemi alkotáson fennálló jog jogosultja hozzájárulásával karitatív tevékenységet végző szervezet vezetőjének az egyes elkobzott dolgok közérdekű felhasználására vonatkozó külön jogszabály rendelkezései szerint,
 - c) az anyagában vagy energetikai célra hasznosítható termékdíjköteles termék esetében hasznosítási céllal a hasznosító üzem vezetőjének,
 
-a Nemzeti Adó- és Vámhivatal vezetőjének jóváhagyásával átadja.
+a vámhatóság vezetőjének jóváhagyásával átadja.
 
 (3) Az elkobzott termékek közül meg kell semmisíteni:
 
 - a) az élelmiszerekről szóló 2003. évi LXXXII. törvény hatálya alá tartozó terméket, ha a külön jogszabály szerinti szakhatóság nem járul hozzá a megsemmisítés mellőzéséhez;
 - b) azokat a termékeket, amelyek értékesítése valamely szellemi alkotáson fennálló tulajdonjogot sértene és a szellemi alkotáson fennálló jog jogosultja nem járul hozzá a megsemmisítés mellőzéséhez.
 
-(4) Nem kobozható el az áru, ha a 4/H. § (2) bekezdés c) pontja szerinti lefoglalás esetében részletfizetést vagy fizetési halasztást – a fizetési kötelezettség esedékességétől számított nyolc napon belül benyújtott kérelem alapján – engedélyeztek. Egyéb jogcím alapján történő lefoglalás esetében részletfizetés vagy fizetési halasztás nem adható.
+(4) Nem kobozható el az áru, ha a 4/H. § (2) bekezdés c) pontja szerinti lefoglalás esetében részletfizetést vagy fizetési halasztást – a fizetési kötelezettség esedékességétől számított öt munkanapon belül benyújtott kérelem alapján – engedélyeztek. Egyéb jogcím alapján történő lefoglalás esetében részletfizetés vagy fizetési halasztás nem adható.
 
 (5) A vámhatóság az elkobzásról rendelkező döntést követően, de annak jogerőre emelkedését megelőzően jogosult a lefoglalt termék előzetes megsemmisítésére, ha az gyors romlásnak van kitéve, huzamosabb tárolásra alkalmatlan vagy annak kezelése, tárolása, illetve őrzése – különösen a termék értékére vagy az előreláthatólag hosszú ideig tartó tárolására tekintettel – aránytalan és jelentős költséggel járna.
 
@@ -485,13 +485,12 @@ a Nemzeti Adó- és Vámhivatal vezetőjének jóváhagyásával átadja.
 - 17. lakossági szelektív hulladékgyűjtés: a települési hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló külön jogszabályban meghatározott települési szilárd hulladék egyes összetevőinek az újrafeldolgozás, a visszanyerés vagy az energetikai hasznosítás érdekében végzett elkülönített (szelektív) begyűjtése, amelyet közszolgáltató végez;
 - 18. műanyag (bevásárló-reklám) táska: a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól szóló külön jogszabály szerinti fogyasztói vagy gyűjtőcsomagolt, illetve csomagolatlanul forgalmazott kiskereskedelmi termékek, áruk, reklámanyagok szállítására szolgáló hajlékonyfalú műanyag hordtasak vagy hordtáska-csomagolás;
 - 19. nem kereskedelmi jellegű termék: olyan termékdíjköteles termék, amelynek sem a jellege, sem a mennyisége nem utal kereskedelmi célra, illetve amelynek behozatala alkalmi jellegű, és a termék birtokosa, annak közeli hozzátartozója személyes használatára vagy ajándékozás céljára szolgál;
-- 20. reklámhordozó papír: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklámot tartalmazó, a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény és a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény által meghatározott nyomtatott sajtótermékek, valamint a röplap és az egyéb szöveges kiadvány, a grafikát, rajzot vagy fotót tartalmazó kiadvány, továbbá a térkép, ide nem értve a bankjegyet, az értékpapírt, az ISSN számmal rendelkező kiadványokat, továbbá a könyvet és tankönyvet;
+- 20. reklámhordozó papír: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklámot tartalmazó, a sajtóról szóló külön törvény által meghatározott sajtótermékek közül az időszaki lap egyes lapszámai, a röplap és az egyéb szöveges kiadvány, a grafikát, rajzot vagy fotót tartalmazó kiadvány, továbbá a térkép, ide nem értve a bankjegyet, az értékpapírt, az ISSN számmal rendelkező kiadványokat, továbbá a könyvet és tankönyvet;
 - 21. rétegzett italcsomagolás: az a legalább 75%-ban papír alapanyagú (karton) csomagolás, amely aszeptikus technológiával töltött folyékony élelmiszer tárolására szolgál;
 - 22. termelői szerveződés: a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről szóló 2007. október 22-i 1234/2007/EK tanácsi rendelet 122. cikkének a) pont (iii) pontjában meghatározott, valamint a 122. cikk b) és c) pontjában foglaltak szerint létrejött, és a 125. b, 125. c, és 125. e, cikkében meghatározott feltételekkel elismert szervezet, valamint az agrárpolitikáért felelős miniszter által jogerősen elismert termelői csoport;
 - 23. termelői szerveződésen keresztüli forgalomba hozatal: a 73/2009/EK tanácsi rendelet szerinti mezőgazdasági termelő és a termelői szerveződés között kötött értékesítési szerződés alapján, a termelői szerveződés által végzett forgalomba hozatal;
 - 24. újrahasználat: a terméknek az eredeti célra történő ismételt felhasználása, mely során a többször felhasználható, újratölthető termék a forgási ciklusból történő kilépésekor válik hulladékká;
-- 25. visszagyűjtés: használt vagy hulladékká vált termék – veszélyes hulladék esetén a veszélyes hulladékokra vonatkozó jogszabály szerinti – termelőtől, kereskedőtől, a lakosságtól, valamint egyéb szervezettől történő begyűjtése vagy szállítása előkezelésre vagy hasznosításra,
-- 26. vámhatóság: a Nemzeti Adó- és Vámhivatal vámszerve,
+- 25. visszagyűjtés: használt vagy hulladékká vált termék – veszélyes hulladék esetén a veszélyes hulladékokra vonatkozó jogszabály szerinti – termelőtől, kereskedőtől, a lakosságtól, valamint egyéb szervezettől történő begyűjtése vagy szállítása előkezelésre vagy hasznosításra.
 
 21. § (1) Felhatalmazást kap a környezetvédelemért felelős miniszter, hogy a termékdíjköteles termékek körének lehatárolásáról, besorolásáról és vámtarifaszámainak közzétételéről, a termékdíjfizetés, a bírságfizetés, a kedvezmény nyújtásának, valamint a szolgáltatás-megrendelés teljesítésének ellenőrzéséről, a bejelentési és bevallási kötelezettségről, a nyilvántartási követelményekről, valamint az ezek alapjául szolgáló adatok ellenőrzéséről, a termékdíj felhasználásáról szóló szabályokat az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 

@@ -184,11 +184,11 @@ illetően.
 
 ### III. Fejezet — AZ ÜGYÉSZSÉGI SZOLGÁLATI VISZONY LÉTESÍTÉSE, MÓDOSÍTÁSA, A VEZETŐK MEGBÍZATÁSA, KINEVEZÉSE, A VEZETŐI MEGBÍZATÁS, KINEVEZÉS MEGSZŰNÉSE
 
-14. § (1) Ügyésszé azt a választójoggal rendelkező magyar állampolgárt lehet kinevezni, akinek egyetemi jogi végzettsége van, és külön jogszabály szerint jogi szakvizsgával rendelkezik. A katonai ügyészi kinevezés további feltétele, hogy a kinevezendő személy a Magyar Honvédség hivatásos állományú tisztje legyen.
+14. § (1) Ügyésszé azt a választójoggal rendelkező magyar állampolgárt lehet kinevezni, illetőleg legfőbb ügyésszé megválasztani, akinek egyetemi jogi végzettsége van, és külön jogszabály szerint jogi szakvizsgával rendelkezik. A katonai ügyészi kinevezés további feltétele, hogy a kinevezendő személy a Magyar Honvédség hivatásos állományú tisztje legyen.
 
-(2) A legfőbb ügyészt a köztársasági elnök javaslatára az Országgyűlés kilenc évre választja a határozatlan időre kinevezett ügyészek közül.
+(2) A legfőbb ügyészt a köztársasági elnök javaslatára az Országgyűlés hat évre választja.
 
-(3) A legfőbb ügyész helyettest a legfőbb ügyész javaslatára a köztársasági elnök határozatlan időre nevezi ki a határozatlan időre kinevezett ügyészek közül.
+(3) A legfőbb ügyész helyettest a legfőbb ügyész javaslatára a köztársasági elnök határozatlan időre nevezi ki.
 
 (4) A legfőbb ügyész az ügyészt első alkalommal (első ügyészi kinevezés) három évre, azt követően pedig – a 14/D. § (4) bekezdésében meghatározott eset kivételével – határozatlan időre nevezi ki. Nyugdíjas, illetőleg nyugdíjkorhatárt betöltött személy kinevezése ettől eltérő határozott időre, illetőleg határozatlan időre is szólhat. Az ügyész első kinevezése határozatlan időre szól, ha
 
@@ -258,7 +258,7 @@ illetően.
 
 (3) Az eskü szövege a következő:
 
-,,Én ………………………… ügyész esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek, az Alkotmányt és a jogszabályokat megtartom, és ügyészi munkám során megtartatom, hivatali kötelezettségemnek legjobb tudásom szerint eleget teszek. A minősített adatot megőrzöm. Törvényes kötelezettségeim teljesítése során elfogulatlanul és részrehajlás nélkül járok el. (Az eskütevő meggyőződése szerint) Isten engem úgy segéljen!''
+,,Én ………………………… ügyész esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek, az Alkotmányt és a jogszabályokat megtartom, és ügyészi munkám során megtartatom, hivatali kötelezettségemnek legjobb tudásom szerint eleget teszek. Az állami és szolgálati titkot megőrzöm. Törvényes kötelezettségeim teljesítése során elfogulatlanul és részrehajlás nélkül járok el. (Az eskütevő meggyőződése szerint) Isten engem úgy segéljen!''
 
 (4) A legfőbb ügyész helyettes a köztársasági elnök előtt, a többi ügyész pedig a munkáltatói jogkör gyakorlója előtt tesz esküt.
 
@@ -323,19 +323,14 @@ illetően.
 - b) felmentésével;
 - c) lemondásával;
 - d) összeférhetetlenségének megállapításával [39. § (2) bekezdés a) pont];
-- e) országgyűlési, helyi önkormányzati képviselővé, illetőleg polgármesterré történő megválasztásával [40. § (2) bekezdés], továbbá a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetővé (a továbbiakban: állami vezető) történő megválasztásával vagy kinevezésével;
+- e) országgyűlési, helyi önkormányzati képviselővé, illetőleg polgármesterré történő megválasztásával [40. § (2) bekezdés], továbbá a Kormány tagjai és az államtitkárok jogállásáról és felelősségéről szóló törvény hatálya alá tartozó állami vezetővé (a továbbiakban: állami vezető) történő megválasztásával vagy kinevezésével;
 - f) hivatalvesztése kimondásával;
 - g) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát, illetőleg közügyektől eltiltást kiszabó jogerős határozatával, továbbá, ha büntetőeljárás során jogerős határozattal kényszergyógykezelését rendelték el;
 - h) hetvenedik életévének a betöltésével;
 - i) halálával;
 - j) választójogának elvesztésével.
 
-(1a) Ha a legfőbb ügyész megbízatása
-
-- a) az (1) bekezdés a) pontja vagy
-- b) az (1) bekezdés h) pontja alapján szűnt meg, a legfőbb ügyészi jogköröket az új legfőbb ügyész megbízatása kezdetéig gyakorolja.
-
-(2) A megbízatási időtartam leteltét követő nappal a volt legfőbb ügyészt – ha ehhez hozzájárul – más ügyészi munkakörbe kell áthelyezni. Ha a volt legfőbb ügyész az áthelyezéséhez nem járul hozzá, ügyészségi szolgálati viszonya a megbízatási időtartam leteltének időpontjában megszűnik. Az (1a) bekezdés a) pontja szerinti esetben a megbízatási időtartam letelte időpontjának az új legfőbb ügyész megbízatása kezdetét kell tekinteni.
+(2) A megbízatási időtartam leteltét követő nappal a volt legfőbb ügyészt — ha ehhez hozzájárul — más ügyészi munkakörbe kell áthelyezni. Ha a volt legfőbb ügyész az áthelyezéséhez nem járul hozzá, ügyészségi szolgálati viszonya a megbízatási időtartam leteltének időpontjában megszűnik.
 
 (3) A köztársasági elnök javaslatára az Országgyűlés határozatával felmentheti a legfőbb ügyészt megbízatása alól, ha a legfőbb ügyész neki fel nem róható okból nem képes eleget tenni a megbízatásából adódó feladatainak.
 
@@ -351,7 +346,7 @@ illetően.
 
 (9) Az (1) bekezdés h) pontjában említett esetben a legfőbb ügyészt hat havi átlagilletményének megfelelő összeg illeti meg.
 
-(10) Az (1) bekezdés d)–j) pontjaiban meghatározott esetekben a legfőbb ügyész ügyészségi szolgálati viszonya is megszűnik. A hetvenedik életévét betöltött legfőbb ügyész ügyészségi szolgálati viszonya az (1a) bekezdés b) pontja szerinti esetben az új legfőbb ügyész megbízatása kezdetén szűnik meg.
+(10) Az (1) bekezdés d)—j) pontjaiban meghatározott esetekben a legfőbb ügyész ügyészségi szolgálati viszonya is megszűnik.
 
 (11) Ha a legfőbb ügyész megbízatása az (1) bekezdés j) pontja alapján szűnik meg, ennek tényét a köztársasági elnök állapítja meg.
 
@@ -473,7 +468,7 @@ illetően.
 - e) országgyűlési, helyi önkormányzati képviselővé, illetőleg polgármesterré történő megválasztásával (40. §), továbbá állami vezetővé történő megválasztásával vagy kinevezésével, ;
 - f) hivatalvesztése kimondásával [20. § (8) bekezdés];
 - g) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát, illetőleg közügyektől eltiltást kiszabó jogerős határozatával, továbbá, ha büntetőeljárás során jogerős határozattal kényszergyógykezelését rendelték el;
-- h) hetvenedik életévének betöltésével vagy – a 20. § (1a) bekezdés b) pontja szerinti esetben – a 20. § (10) bekezdése szerinti időpontban;
+- h) hetvenedik életévének betöltésével;
 - i) halálával;
 - j) választójogának elvesztésével.
 
@@ -517,11 +512,7 @@ illetően.
 - a) megszűnt az ügyészségnek az a tevékenysége, amelynek körében az ügyészt foglalkoztatták;
 - b) átszervezés, létszámcsökkentés következtében az ügyész munkaköre feleslegessé vált;
 - c) az ügyész feladatai ellátására tartósan alkalmatlan, illetőleg a 41. § (8) bekezdésében említett vizsgálatnak nem vetette alá magát;
-- d) az ügyész
-  - da) rokkantsági (baleseti rokkantsági) nyugdíjban részesül, vagy
-  - db) a 65. életévét betöltötte, vagy
-  - dc) az általános öregségi nyugdíjkorhatárt betöltötte és felmentését e jogcímre hivatkozással maga kéri, vagy
-  - de) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 18. § (2a) bekezdésében foglalt feltételek fennállására hivatkozással felmentését maga kéri;
+- d) az ügyész rokkantsági (baleseti rokkantsági) nyugdíjban részesül, vagy a 70. életévét még nem töltötte be, de az általános öregségi nyugdíjkorhatárt betöltött ügyész felmentését e jogcímre hivatkozással maga kéri;
 - e) az ügyész felmentése a 22. § (3) bekezdésében meghatározott okból válik szükségessé.
 
 (2) Az (1) bekezdés a)—c) pontjaiban meghatározott esetben sem szüntethető meg az ügyész ügyészségi szolgálati viszonya felmentéssel, ha fennállnak a Munka Törvénykönyvében meghatározott felmondási tilalmak.
@@ -539,9 +530,7 @@ illetően.
 
 (7) Az ügyész felmentési ideje hat hónap. Az ügyészt a felmentés időtartamának legalább a felére a munkavégzési kötelezettség alól mentesíteni kell.
 
-(8) Az öregségi nyugdíjra jogosult vagy a felmentését a Tny. 18. § (2a) bekezdésében foglalt feltételek fennállására hivatkozással kérő, továbbá a rokkantsági (baleseti rokkantsági) nyugdíjban részesülő ügyészt, ha e jogcímen felmentését kezdeményezi, a legfőbb ügyész köteles – az ügyészi tanács véleményének kikérése nélkül – az (1) bekezdés d) pontja alapján felmenteni. E jogcímen az ügyész kezdeményezésére csak egy alkalommal kötelező a felmentés.
-
-(9) A Tny. 18. § (2a) bekezdésében foglalt feltételek fennállására hivatkozással akkor kérhető a felmentés, ha a feltételekkel legkésőbb a felmentési idő utolsó napján rendelkezik az ügyész.
+(8) Az öregségi nyugdíjra jogosult vagy rokkantsági (baleseti rokkantsági) nyugdíjban részesülő ügyészt, ha e jogcímen felmentését kezdeményezi, a legfőbb ügyész köteles – az ügyészi tanács véleményének kikérése nélkül – az (1) bekezdés d) pontja alapján felmenteni. E jogcímen az ügyész kezdeményezésére csak egy alkalommal kötelező a felmentés.
 
 29. § (1) Az ügyész a legfőbb ügyészhez intézett nyilatkozatával az ügyészségi szolgálati viszonyáról lemondhat.
 
@@ -790,7 +779,7 @@ történő rendelkezésre állás. Az ügyelet és a készenlét időtartama ala
 - b)
 - c) egyéb javadalmazásra, kedvezményre és költségtérítésre jogosult.
 
-(2) A tisztségéhez fűződő, e törvényben nem szabályozott egyéb jogosultságok tekintetében a legfőbb ügyész a miniszterrel, a legfőbb ügyész helyettes pedig a közigazgatási államtitkárral azonos beosztásúnak minősül.
+(2) A tisztségéhez fűződő, e törvényben nem szabályozott egyéb jogosultságok tekintetében a legfőbb ügyész a miniszterrel, a legfőbb ügyész helyettes pedig az államtitkárral azonos beosztásúnak minősül.
 
 46/C. § Az ügyész illetménye alapilletményből, továbbá az e törvényben meghatározott pótlékból tevődik össze. A beosztási pótlék, a vezetői pótlék és a címpótlék alapilletmény jellegű.
 
@@ -889,7 +878,7 @@ illetménynek megfelelő összeg.
 
 (4) Ha az ügyész ügyészségi szolgálati viszonya az ügyész halála miatt szűnik meg, a jubileumi jutalmat — a (3) bekezdésben foglalt szabály alkalmazásával — az örökösének kell kifizetni.
 
-50/A. § (1) Az ügyész cafetéria-juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjaiban, továbbá (3) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig jogosult. A legfőbb ügyész utasításban további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
+50/A. § (1) Az ügyész cafetéria-juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 70. § (2) bekezdés a) és b), valamint d) és e) pontjaiban, továbbá (5) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig, valamint az ingyenes vagy kedvezményes internethasználatra jogosult. A legfőbb ügyész utasításban további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
 
 (2) Nem jogosult cafetéria-juttatásra a tartós külszolgálaton lévő ügyész, valamint az ügyész azon időtartam vonatkozásában, amelyre illetményre vagy átlagkeresetre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot.
 
@@ -1207,7 +1196,7 @@ irányadó összeggel azonos.
 
 (3) Az eskü szövege a következő:
 
-,,Én…………………… esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek; az Alkotmányt, a jogszabályokat megtartom; a minősített adatot megőrzöm; a hatáskörömbe tartozó ügyekben részrehajlás nélkül, lelkiismeretesen, kizárólag a törvényeknek megfelelően járok el; hivatali kötelességeimet pontosan, lelkiismeretesen és a nemzet érdekeinek szolgálatával teljesítem. (Az eskütevő meggyőződése szerint) Isten engem úgy segéljen!''
+,,Én…………………… esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek; az Alkotmányt, a jogszabályokat megtartom; az állami és szolgálati titkot megőrzöm; a hatáskörömbe tartozó ügyekben részrehajlás nélkül, lelkiismeretesen, kizárólag a törvényeknek megfelelően járok el; hivatali kötelességeimet pontosan, lelkiismeretesen és a nemzet érdekeinek szolgálatával teljesítem. (Az eskütevő meggyőződése szerint) Isten engem úgy segéljen!''
 
 80/A. § Az ügyészségi titkár, fogalmazó és nyomozó kirendelésére az ügyész kirendelésére vonatkozó szabályokat kell megfelelően alkalmazni, azzal az eltéréssel, hogy a kirendelésük esetén a napidíj összegét a 81/B. § szerint kell megállapítani.
 
@@ -1319,7 +1308,7 @@ ha a feladatkör ellátásához szükséges mértékű magyar nyelvismerettel é
 
 (2) Az eskü szövege a következő:
 
-,,Én…………………… esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek; az Alkotmányt, a jogszabályokat megtartom; a minősített adatot megőrzöm; a hatáskörömbe tartozó ügyekben részrehajlás nélkül, lelkiismeretesen, kizárólag a törvényeknek megfelelően járok el; hivatali kötelességeimet pontosan, lelkiismeretesen és a nemzet érdekeinek szolgálatával teljesítem. (Az eskütevő meggyőződése szerint) Isten engem úgy segéljen!''
+,,Én…………………… esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek; az Alkotmányt, a jogszabályokat megtartom; az állami és szolgálati titkot megőrzöm; a hatáskörömbe tartozó ügyekben részrehajlás nélkül, lelkiismeretesen, kizárólag a törvényeknek megfelelően járok el; hivatali kötelességeimet pontosan, lelkiismeretesen és a nemzet érdekeinek szolgálatával teljesítem. (Az eskütevő meggyőződése szerint) Isten engem úgy segéljen!''
 
 85. § A tisztviselői munkakör betöltésére a munkáltatói jogkör gyakorlója pályázatot írhat ki. A pályázatra egyebekben a törvénynek az ügyészek pályázatára vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
@@ -1485,16 +1474,14 @@ ha a feladatkör ellátásához szükséges mértékű magyar nyelvismerettel é
 - a) a tisztviselővel, az írnokkal és a fizikai alkalmazottal szemben a munkáltatói jogkör gyakorlója jogosult kártérítési határozatot hozni, és
 - b) az eljárás alá vont a kártérítési határozat ellen, annak közlését követő tizenöt napon belül közvetlenül a bírósághoz fordulhat.
 
-93. § A tisztviselő, az írnok és a fizikai alkalmazott ügyészségi szolgálati viszonyára az ügyészek ügyészségi szolgálati viszonyára vonatkozó rendelkezései közül megfelelően alkalmazni kell a következő rendelkezéseket is:
+93. § A tisztviselő, az írnok és a fizikai alkalmazott ügyészségi szolgálati viszonyára a törvénynek az ügyészek ügyészségi szolgálati viszonyára vonatkozó rendelkezései közül megfelelően alkalmazni kell a következő rendelkezéseket is:
 
-- a) a 14. § (7) bekezdés a) pontját,
-- b) a büntetlen előéletre vonatkozó feltétel tekintetében a 14/A. §-t,
-- c) a 23. §-t,
-- d) a 40/B. §-t,
-- e) a hivatásos és szerződéses katona kivételével a 44/A. §-t,
-- f) a 47. §-t,
-- g) a 49–50. §-t,
-- h) a 75–78. §-t.
+- a) a 23. §-t,
+- b) a hivatásos és szerződéses katona kivételével a 44/A. §-t,
+- c) a 47. §-t,
+- d) a 49–50. §-t,
+- e)
+- f) a 75–78. §-t.
 
 ### XVI. Fejezet — AZ ÜGYÉSZSÉGI SZOLGÁLATI VISZONYRA VONATKOZÓ EGYÉB RENDELKEZÉSEK
 
@@ -1611,12 +1598,12 @@ a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Kt
 
 100. § (1) Az ügyész, ügyészségi titkár, fogalmazó, nyomozó és ügyészségi ügyintéző — törvényben szabályozott feladatainak ellátásához — az ügyészi szervezetben, illetőleg más szervek körében kezelt, személyes és különleges adatokat törvényben szabályozott megszorításokkal felhasználhat.
 
-(2) Az ügyész, ügyészségi titkár, fogalmazó, nyomozó és ügyészségi ügyintéző a hivatala gyakorlása során a tudomására jutott adatokat köteles a minősített adat védelmére, a magántitokra és a személyes adatok védelmére, továbbá a statisztikára, valamint a közérdekű adatok nyilvánosságára vonatkozó szabályok szerint — az e törvényben meghatározott eltérésekkel — kezelni.
+(2) Az ügyész, ügyészségi titkár, fogalmazó, nyomozó és ügyészségi ügyintéző a hivatala gyakorlása során a tudomására jutott adatokat köteles az államtitokra, a szolgálati titokra, a magántitokra és a személyes adatok védelmére, továbbá a statisztikára, valamint a közérdekű adatok nyilvánosságára vonatkozó szabályok szerint — az e törvényben meghatározott eltérésekkel — kezelni.
 
 (3) Az ügyész, ügyészségi titkár, fogalmazó, nyomozó és ügyészségi ügyintéző közvetlenül vagy az ügyészségi informatikai eszközök felhasználásával – ha törvény eltérően nem rendelkezik – a feladatkörének ellátása során jogosult arra, hogy
 
 - a) a büntetőeljárásról szóló 1998. évi XIX. törvényben, illetve a Magyar Köztársaság ügyészségéről szóló 1972. évi V. törvényben meghatározott feladatai teljesítése érdekében szükség szerint – az általános munkarend korlátaitól függetlenül – térítés nélkül igénybe vegye a személyiadat- és lakcímnyilvántartás, az Országos Gépjármű Alapnyilvántartás, a külföldre utazásban korlátozottakra és az útlevélre vonatkozó nyilvántartások, a külön törvény szerinti bűnügyi nyilvántartási rendszerből és a bűnügyi és rendészeti biometrikus adatok nyilvántartásából, a személy- és tárgykörözések nyilvántartása, a cégnyilvántartás, az ingatlan-nyilvántartás, a büntetés-végrehajtási intézetekben fogvatartottak nyilvántartása, a határregisztrációs rendszer, a vámregisztrációs és vámáru-nyilatkozat feldolgozó rendszer, továbbá az egyes nyomozó szervek nyomozást támogató informatikai rendszereinek adatszolgáltatását; az erre irányuló adatkéréseket hiányos és töredék adatok esetén is teljesíteni kell;
-- b) az általa beszerzett, illetőleg az eljárása során keletkezett személyes adatokat törvény által megállapított részletes szabályok szerint kezelje; a minősített adat az ügyészt, ügyészségi titkárt, fogalmazót, nyomozót — a nemzetbiztonsági szervek minősített adatkezelését kivéve — nem akadályozhatja, de a minősített adat megtartására vonatkozó rendelkezések rá nézve is kötelezőek;
+- b) az általa beszerzett, illetőleg az eljárása során keletkezett személyes adatokat törvény által megállapított részletes szabályok szerint kezelje; az államtitok és a szolgálati titok az ügyészt, ügyészségi titkárt, fogalmazót, nyomozót — a nemzetbiztonsági szervek titkos adatkezelését kivéve — nem akadályozhatja, de a titok megtartására vonatkozó rendelkezések rá nézve is kötelezőek;
 - c) a legfőbb ügyész — vagy az általa feljogosított ügyészségi vezető — engedélyével közérdekből az ügykörébe tartozó személyes adatok közül az érintett nevét és az ügykapcsolatot nyilvánosságra hozza.
 
 (4) Az (1)—(3) bekezdésben foglalt adatkezelési szabályokat a tisztviselő, az ügykezelő is köteles betartani. Adatkezelésük részletes szabályait a munkáltatói jogkör gyakorlója személyre szólóan írja elő.
@@ -1674,22 +1661,31 @@ Az ügyész alapilletmény táblázata
 
 A legalacsonyabb ügyészi alapilletmény = 1
 
-| Fizetési fokozatok | Szorzószámok |
-| --- | --- |
-| 1. | 1,00 |
-| 2. | 1,10 |
-| 3. | 1,20 |
-| 4. | 1,25 |
-| 5. | 1,30 |
-| 6. | 1,35 |
-| 7. | 1,40 |
-| 8. | 1,45 |
-| 9. | 1,50 |
-| 10. | 1,55 |
-| 11. | 1,60 |
-| 12. | 1,65 |
-| 13. | 1,70 |
-| 14. | 1,75 |
+----------------------
+
+Fizetési fokozatok Szorzószámok
+
+----------------------
+
+1. 1,00
+
+2. 1,10
+
+3. 1,20
+
+4. 1,25
+
+5. 1,30
+
+6. 1,35
+
+7. 1,40
+
+8. 1,45
+
+9. 1,50
+
+10. 1,55''
 
 ### 2. számú melléklet az 1994. évi LXXX. törvényhez
 
@@ -2083,7 +2079,7 @@ c) Vegyes ügyek:
 
 — elfogultsági bejelentések;
 
-— titoktartási kötelezettség alóli felmentés;
+— szolgálati titoktartás alóli felmentés;
 
 — szakértői ügyek;
 

@@ -14,7 +14,7 @@ Az energiagazdálkodás és a környezetvédelem céljainak figyelembevételéve
 
 2. § E törvény alkalmazásában:
 
-- 1. ásványtani folyamat: a gazdasági tevékenységek statisztikai osztályozásáról szóló 1990. október 9-i 3037/90/EGK tanácsi rendelet DI 26 „egyéb nemfém ásványi termék gyártása” kód alá besorolt folyamat; 1/A. átviteli hálózat: a villamos energia átvitelére szolgáló vezetékrendszer;
+- 1. átviteli hálózat: a villamos energia átvitelére szolgáló vezetékrendszer;
 - 2. elektrolitikus folyamat: minden olyan folyamat, amelynél elektromos energia felhasználása mellett oxidáció és redukció megy végbe az elektrolitoldat és az elektródok érintkezési felületén;
 - 3. elosztó hálózat: a villamos energia elosztására és a felhasználói csatlakozási pontra való eljuttatás céljára szolgáló vezetékrendszer – beleértve a tartószerkezeteket is –, a hozzá tartozó átalakító- és kapcsolóberendezésekkel együtt;
 - 4. energia: a földgáz, a villamos energia és a szén;
@@ -50,38 +50,31 @@ Az energiagazdálkodás és a környezetvédelem céljainak figyelembevételéve
 - e) a felhasználó közvetlenül az Európai Unión kívüli országból energiát vásárol, kivéve a lakossági fogyasztó általi vásárlást,
 - f) a személy saját felhasználásra termel energiát, kivéve, ha a termelt villamos energiát megújuló energiaforrásból állítja elő, vagy a termelt energia felhasználása a 6. § (1) bekezdésében megjelölt célra történik, vagy a termelt villamos energiát adóval terhelt energia felhasználásával és 50 megawatt alatti teljesítményű erőműben állítja elő, feltéve, hogy nem él a 6. § (1) bekezdés b) és f) pontja szerinti adó-visszaigénylési jogosultságával,
 - g) az energiakereskedő saját célra használ fel energiát,
-- h) a felhasználó az a)–g) pontban nem említett esetben energiaadóval nem terhelt energiát vásárol vagy használ fel,
+- h) a felhasználó az a)–g) pontban nem említett esetben energiaadóval nem terhelt energiát vásárol,
 - i) a felhasználó a szén vásárlásakor valótlan nyilatkozatot tesz az energiakereskedőnek arról, hogy lakossági fogyasztó.
 
-(2) Az adó alanya az (1) bekezdés b) pontja esetében az energiakereskedő, az (1) bekezdés c)–e) pontja esetében a felhasználó, az (1) bekezdés f) pontja esetében az előállító, az (1) bekezdés g) pontja esetében az energiakereskedő, az (1) bekezdés h) és i) pontja esetében a felhasználó (a továbbiakban együtt: adóalany).
+(2) Az adó alanya az (1) bekezdés b) pontja esetében az energiakereskedő, az (1) bekezdés c)–e) pontja esetében a felhasználó, az (1) bekezdés f) pontja esetében az előállító, az (1) bekezdés g) pontja esetében az energiakereskedő, illetve a hálózati engedélyes, az (1) bekezdés h) és i) pontja esetében a felhasználó (a továbbiakban együtt: adóalany).
 
 4. § (1) Az adó alapja
 
 - a) a villamos energia mennyisége, megawattórában mérve,
-- b) a földgáz mennyisége, kWh-ban mérve,
+- b) a földgáz mennyisége, gigajoule-ban mérve,
 - c) a szén mennyisége ezer kg-ban mérve.
 
 (2) Az adó mértéke
 
-- a) villamos energiára megawattóránként 310,50 forint,
-- b) a földgázra kWh-nként 0,3038 forint,
-- c) a szénre ezer kg-onként 2516 forint.
+- a) villamos energiára megawattóránként 295 forint,
+- b) a földgázra gigajoule-onként 88,50 forint,
+- c) a szénre ezer kg-onként 2390 forint.
 
-5. § (1) Az adófizetési kötelezettség
+5. § Az adófizetési kötelezettség
 
-- a) a 3. § (1) bekezdés b) és c) pontja esetében az általános forgalmi adóról szóló törvény szerinti teljesítés időpontjában, az ellenérték, illetve a részkifizetések alapjául szolgáló mennyiségre,
+- a) a 3. § (1) bekezdés b)–c) és h) pontja esetében az általános forgalmi adóról szóló törvény szerinti teljesítés időpontjában, az ellenérték, illetve a részkifizetések alapjául szolgáló mennyiségre,
 - b) a 3. § (1) bekezdés d) pontja esetében az adóbevallási időszak utolsó napján, az adóbevallási időszakban beszerzett energia mennyiségre,
 - c) a 3. § (1) bekezdés e) pontja esetében a vámjogi szabadforgalomba bocsátáskor, a vámjogi szabadforgalomba bocsátott mennyiségre,
-- d) a 3. § (1) bekezdés f) és g) pontja esetében a felhasználás időpontjában, a saját célra felhasznált energiamennyiségre,
-- e) a 3. § (1) bekezdés i) pontja esetében a vásárláskor, a vásárolt szén mennyiségére,
-- f) a 3. § (1) bekezdés h) pontja esetében az általános forgalmi adóról szóló törvény szerinti teljesítés időpontjában, az ellenérték, illetve a részkifizetések alapjául szolgáló mennyiségre, saját célra felhasznált energia esetében a felhasználás időpontjában, a saját célra felhasznált energiamennyiségre
+- d) a 3. § (1) bekezdés f)–g) pontja esetében a felhasználás időpontjában, a saját célra felhasznált energiamennyiségre
 
 keletkezik.
-
-(2) A fizetendő adó megállapítására
-
-- a) az adófizetési kötelezettség keletkezésekor érvényes adómértéket kell alkalmazni,
-- b) az (1) bekezdés rendelkezésétől eltérően az általános forgalmi adóról szóló törvény 58. §-a szerinti ügyletnél az időszak első napján hatályos adómértéket kell alkalmazni.
 
 ### Adóvisszaigénylés
 
@@ -90,18 +83,17 @@ keletkezik.
 - a) az a személy, aki elosztó vagy átviteli hálózatra betáplált villamos energia előállításához használ fel energiát;
 - b) az erőművet vagy távhőtermelő létesítményt üzemeltető személy, aki energiát kapcsolt hő- és villamos energia előállítására használ fel;
 - c) az a távhőtermelő létesítményt üzemeltető személy (ideértve a külön rendelet szerint központi fűtést és melegvíz-szolgáltatást végző személyt is), aki lakosságnak szolgáltatott hő előállítására energiát használ fel;
-- d) az a személy, aki kémiai redukcióban, ásványtani, elektrolitikus és kohászati folyamatban energiát használ fel;
+- d) az a személy, aki kémiai redukcióban, elektrolitikus és kohászati folyamatban energiát használ fel;
 - e) az a személy, aki vegyipari alapanyagként használ fel földgázt;
 - f) az a személy, aki saját felhasználásra előállított villamos energia termelésére energiát használt fel;
 - g) az a személy, aki a párnagázkészlet feltöltésére vagy szinten tartására a föld alatti gáztárolóba, illetve a szállító- vagy elosztóvezeték feltöltése céljából a szállító- vagy elosztóvezetékbe földgázt tárol be;
-- h) az a személy, aki hálózati engedélyesként a hálózati veszteség pótlása céljából használ fel energiát;
-- i) az a személy, aki nem tüzelő-, vagy fűtőanyagként használ fel szenet.
+- h) az a személy, aki hálózati engedélyesként a hálózati veszteség pótlása céljából használ fel energiát.
 
 (2) Az adó-visszaigénylésre (adólevonásra) jogosult személy az (1) bekezdésben megjelölt célra ténylegesen felhasznált mennyiség után,
 
 - a) a vételárban megfizetett adót,
 - b) kivetéses adózás esetén a kivetett és megfizetett adót,
-- c) a 3. § (1) bekezdés c), d) és h) pontja szerint megállapított adó esetében a bevallott adót
+- c) a 3. § (1) bekezdés c) és d) pontja szerint megállapított adó esetében a bevallott adót
 
 igényelheti vissza vagy helyezheti levonásba.
 
@@ -117,20 +109,18 @@ napján nyílik meg. A vételár megfizetésének napja a kötelezett bankszáml
 
 (5) Az adóvisszaigénylési (adólevonási) jogosultság érvényesítéséhez
 
-- a) az energia beszerzéséről kiállított, – a (2) bekezdés c) pontja szerinti esetet kivéve – az adó feltüntetését is tartalmazó számlával, illetve kivetéses adózás esetén a vámhatóság adót megállapító határozatával,
+- a) az energia beszerzéséről kiállított, az adó feltüntetését is tartalmazó számlával, illetve kivetéses adózás esetén a vámhatóság adót megállapító határozatával,
 - b) az energia (1) bekezdésben megjelölt célra történt felhasználását igazoló belső számviteli bizonylattal,
 - c) az összesen beszerzett energiának adóvisszaigénylésre, adólevonásra jogosító és adóvisszaigénylésre, adólevonásra nem jogosító felhasználásonkénti elszámolásával,
 - d) a (3) bekezdés szerinti esetben továbbá az adóvisszaigénylés, adólevonás alapjául szolgáló mennyiség levezetésével
 
 kell rendelkezni.
 
-(6) Az (5) bekezdés a) pontja szerinti számlaként olyan számla is elfogadható, amelyet az e törvény szerint adózottan beszerzett, és a külön jogszabály szerint jogszerűen, illetve szerződésszegésnek nem minősülő módon továbbadott energiáról állított ki a továbbadást végző felhasználó, és amelynek mellékletét képezi a továbbadást végző nevére kiállított, a továbbadott energia adóalanytól történt beszerzéséről szóló számla másolata.
+(6) Az (5) bekezdés a) pontja szerinti számlaként olyan számla is elfogadható, amelyet az e törvény szerint adózottan beszerzett, és a külön jogszabály szerint jogszerűen, illetve szerződésszegésnek nem minősülő módon továbbadott energiáról állított ki a továbbadást végző közüzemi fogyasztó, feljogosított fogyasztó vagy felhasználó, és amelynek mellékletét képezi a továbbadást végző nevére kiállított, a továbbadott energia adóalanytól történt beszerzéséről szóló számla másolata.
 
 ### Egyes eljárási szabályok
 
-7. § (1) Az energiaadóval kapcsolatos adóztatási feladatokat az állami adóhatóság, a kivetéses adózással kapcsolatos adóztatási feladatokat a vámhatóság látja el.
-
-(1a) Kivetéses adózás esetén a vámazonosító szám megállapításával, ezzel összefüggő nyilvántartással kapcsolatos ügyben az állami adó- és vámhatóság jár el. A nyilvántartásra vonatkozó részletes szabályokat az uniós vámjog végrehajtásáról szóló törvény tartalmazza.
+7. § (1) Az energiaadóval kapcsolatos adóztatási feladatokat a vámhatóság látja el.
 
 (2) Az adóalany, illetve az adóvisszaigénylésre jogosult személy az adót – a (3) bekezdésben foglalt eltéréssel – maga köteles megállapítani, bevallani és megfizetni, jogosult a megállapított adójából levonni (visszaigényelni), illetve jogosult visszaigényelni (önadózás).
 
@@ -138,9 +128,9 @@ kell rendelkezni.
 
 (4) Az adóalany, illetve az adó-visszaigénylésre jogosult személy köteles az adó megállapítására, bevallására és elszámolására alkalmas nyilvántartást vezetni. A 3. § (1) bekezdés b) pontja szerinti adóalany a szén értékesítése esetén a lakossági fogyasztónak történt értékesítést a 2. § 14. pontjában említett nyilatkozattal köteles dokumentálni.
 
-(5) Az adóalany az 5. § szerint keletkezett adófizetési kötelezettsége és a 6. § szerinti adó-visszaigénylési jogosultsága különbözeteként megállapított nettó adót havonta, a tárgyhó első napjától a tárgyhó utolsó napjáig terjedő adómegállapítási időszakra, a tárgyhót követő hó 20. napjáig köteles bevallani és megfizetni, illetve jogosult visszaigényelni. Az adómegállapítási időszakra vonatkozóan vissza nem igényelt adó az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) szerinti elévülési időn belül későbbi adómegállapítási időszakban is levonható, visszaigényelhető.
+(5) Az adóalany az 5. § szerint keltezett adófizetési kötelezettsége és a 6. § szerinti adó-visszaigénylési jogosultsága különbözeteként megállapított nettó adót havonta, a tárgyhó első napjától a tárgyhó utolsó napjáig terjedő adómegállapítási időszakra, a tárgyhót követő hó 20. napjáig köteles bevallani és megfizetni, illetve jogosult visszaigényelni.
 
-(6) Az adó-visszaigénylésre jogosult, a 6. § (1) bekezdésében felsorolt személyek közül a nem adóalany személy az (5) bekezdésben meghatározott adómegállapítási időszakra a visszaigényelhető adót – a (7) bekezdésben foglalt eltéréssel – havonta, a tárgyhót követő hó 20. napjától igényelheti vissza az Art. költségvetési támogatásokra vonatkozó szabályainak alkalmazásával.
+(6) Az adó-visszaigénylésre jogosult, a 6. § (1) bekezdésben felsorolt személyek közül a nem adóalany személy az (5) bekezdésben meghatározott adómegállapítási időszakra a visszaigényelhető adót – a (7) bekezdésben foglalt eltéréssel – havonta, a tárgyhót követő hó 20. napjától igényelheti vissza, az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) költségvetési támogatásokra vonatkozó szabályainak alkalmazásával.
 
 (7) A 6. § (1) bekezdés d) és e) pontja alapján történő visszaigénylés esetén a tárgyhó 15. napjáig felhasznált energia utáni adó a tárgyhó utolsó napjától visszaigényelhető, amennyiben az adó összege elérte a 10 millió forintot. Az e bekezdés szerinti adóvisszaigénylés érvényesítésétől függetlenül az adóbevallást a (6) bekezdés szerint kell benyújtani.
 
@@ -150,7 +140,7 @@ kell rendelkezni.
 
 (10)
 
-(11) A 2. § 14. pontjában említett nyilatkozatban a lakossági fogyasztó nevét, címét és adóazonosító jelét is fel kell tüntetni. Az energiakereskedő a személyes adatokat tartalmazó nyilatkozatot kizárólag az állami adó- és vámhatóság részére, ellenőrzés céljából adhatja át.
+(11) A 2. § 14. pontjában említett nyilatkozatban a lakossági fogyasztó nevét, címét és adóazonosító jelét is fel kell tüntetni. Az energiakereskedő a személyes adatokat tartalmazó nyilatkozatot kizárólag a vámhatóság részére, ellenőrzés céljából adhatja át.
 
 (12) A szenet továbbforgalmazási céllal beszerző energiakereskedő beszerzése ezen céljáról az értékesítést végző energiakereskedőnek köteles írásban nyilatkozatot adni, melyben nevét, címét és adószámát is fel kell tüntetnie.
 
@@ -172,11 +162,3 @@ kell rendelkezni.
 
 - a) a Tanács 2003/96/EK irányelve (2003. október 27.) az energiatermékek és a villamos energia közösségi adóztatási keretének átszervezéséről,
 - b) a Tanács 2004/74/EK irányelve (2004. április 29.) a 2003/96/EK irányelvnek az energiatermékek és a villamos energia vonatkozásában egyes tagállamok részére az ideiglenes adómentesség vagy kedvezményes adómérték alkalmazásának lehetősége tekintetében történő módosításáról.
-
-### Átmeneti rendelkezések
-
-12. § (1) E törvény 7. § (1) bekezdésében foglaltaktól eltérően a 2013. január 1-jét megelőző időszakra vonatkozó energiaadó bevallásokat (ideértve a bevalláspótlást és az önellenőrzést is) 2013. február 14-éig a vámhatósághoz kell benyújtani, melyekkel kapcsolatos nyilvántartási, javítási feladatokat a vámhatóság látja el. 2013. február 14-éig a befizetéseket a vámhatósághoz kell teljesíteni.
-
-(2) 2013. február 14-ét követően az energiaadó bevallásokat (bevalláspótlást, önellenőrzést) az állami adóhatósághoz kell benyújtani, melyekkel kapcsolatos nyilvántartási, javítási feladatokat az állami adóhatóság látja el. 2013. február 14-ét követően a befizetéseket az állami adóhatósághoz kell teljesíteni.
-
-(3) 2013. január 1-jét megelőzően a vámhatóság által indított eljárásokat – az egyes adókötelezettségek ellenőrzése, az adatgyűjtésre irányuló ellenőrzés, a 2013. február 14-éig benyújtott bevallások feldolgozásával, javításával kapcsolatos eljárások kivételével – az állami adóhatóság folytatja le. Az elsőfokú vámhatóság döntése – ide nem értve az egyes adókötelezettségek ellenőrzése, az adatgyűjtésre irányuló ellenőrzés során hozott döntéseket – ellen benyújtott jogorvoslati kérelmet (fellebbezést, felügyeleti intézkedés iránti kérelmet) a kérelem benyújtásakor az adózó adóügyeiben illetékes adóigazgatóság felettes szerve bírálja el, illetve jár el a hivatalból indult jogorvoslati eljárások és a bírósági eljárások során. Amennyiben az adózó adóügyeiben illetékes adóigazgatóság felettes szerve új eljárásra utasító döntést hoz, az új eljárás lefolytatására az adózó adóügyeiben illetékes adóigazgatóságot utasítja. A vámhatóság által folytatott ellenőrzés esetében felülellenőrzés lefolytatására az adózó adóügyeiben illetékes adóigazgatóság felettes szerve jogosult. Az eljárás alanyának változását az illetékes bíróságnak az állami adóhatóság köteles bejelenteni.

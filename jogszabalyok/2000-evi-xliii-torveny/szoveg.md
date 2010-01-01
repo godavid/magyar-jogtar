@@ -2,7 +2,7 @@
 
 a hulladékgazdálkodásról
 
-Az Országgyűlés a környezet védelme érdekében, különös tekintettel Magyarországnak az Európai Unióval fennálló és más nemzetközi megállapodásokból adódó kötelezettségeire,
+Az Országgyűlés a környezet védelme érdekében, különös tekintettel a Magyar Köztársaságnak az Európai Unióval fennálló és más nemzetközi megállapodásokból adódó kötelezettségeire,
 
 – a fenntartható fejlődés, a jövő generációk létfeltételeinek, lehetőségeinek biztosítása,
 
@@ -10,7 +10,7 @@ Az Országgyűlés a környezet védelme érdekében, különös tekintettel Mag
 
 – az emberi egészség, a természeti és épített környezet, hulladék okozta terhelésének mérséklése
 
-érdekében – az Alaptörvénnyel összhangban – a következő törvényt alkotja:
+érdekében – az Alkotmánnyal összhangban – a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -52,7 +52,7 @@ csak annyiban terjed ki, amennyiben azokról jogszabály másképp nem rendelkez
 - b) veszélyes hulladék: a 2. számú mellékletben felsorolt tulajdonságok közül eggyel vagy többel rendelkező, illetve ilyen anyagokat vagy összetevőket tartalmazó, eredete, összetétele, koncentrációja miatt az egészségre, a környezetre kockázatot jelentő hulladék;
 - c) települési hulladék: a háztartásokból származó szilárd vagy folyékony hulladék, illetőleg a háztartási hulladékhoz hasonló jellegű és összetételű, azzal együtt kezelhető más hulladék;
 - d) folyékony hulladék: az a hulladékká vált folyadék, amelyet nem vezetnek el, és nem bocsátanak ki szennyvízelvezető hálózaton, illetve szennyvíztisztító telepen keresztül;
-- e) gyártó: a termék előállítója, nem Magyarország területén történő előállítás esetén az, aki a terméket gazdasági tevékenysége keretében Magyarország területére behozza;
+- e) gyártó: a termék előállítója, nem a Magyar Köztársaság területén történő előállítás esetén az, aki a terméket gazdasági tevékenysége keretében a Magyar Köztársaság területére behozza;
 - f) termelő: akinek a tevékenysége során a hulladék keletkezik vagy tevékenysége következtében a hulladék jellege és összetétele megváltozik;
 - g) hulladékkezelő: aki a hulladékot gazdasági tevékenysége körében a hulladék birtokosától átveszi, kezeli;
 - h) hulladékgazdálkodás: a hulladékkal összefüggő tevékenységek rendszere, beleértve a hulladék keletkezésének megelőzését, mennyiségének és veszélyességének csökkentését, kezelését, ezek tervezését és ellenőrzését, a kezelő berendezések és létesítmények üzemeltetését, bezárását, utógondozását, a működés felhagyását követő vizsgálatokat, valamint az ezekhez kapcsolódó szaktanácsadást és oktatást;
@@ -157,18 +157,11 @@ csak annyiban terjed ki, amennyiben azokról jogszabály másképp nem rendelkez
 
 ### A gyártóra és a forgalmazóra vonatkozóközös szabályok
 
-11. § (1) A gyártók és a forgalmazók a 6–10. §-ban foglalt kötelezettségeik ellátása érdekében – a (2) bekezdésben meghatározott kivétellel – önálló koordináló szervezetet hozhatnak létre vagy ilyen koordináló szervezetet bízhatnak meg, amely a kötelezettségeket a gyártóktól és forgalmazóktól díjfizetés ellenében, szerződésben rögzített feltételek mellett átvállalja, és a tevékenységi körébe tartozó hulladékok begyűjtését és hasznosítását vagy ártalmatlanítását szervezi és koordinálja.
+11. § (1) A gyártók és a forgalmazók a 6–10. §-ban foglalt kötelezettségeik ellátása érdekében önálló koordináló szervezetet hozhatnak létre vagy ilyen koordináló szervezetet bízhatnak meg, amely szervezet a kötelezettségeket a gyártóktól és forgalmazóktól díjfizetés ellenében, szerződésben rögzített feltételek mellett átvállalja, és a tevékenységi körébe tartozó hulladékok begyűjtését és hasznosítását vagy ártalmatlanítását szervezi és koordinálja.
 
-(2) A gyártó a 6–10. §-ban foglalt kötelezettségét a környezetvédelmi termékdíjról szóló törvény (a továbbiakban: Ktdt.) hatálya alá tartozó termékdíjköteles termékből képződött hulladékok tekintetében
+(2) Az (1) bekezdés szerinti hulladékkezelési kötelezettség ellátására létrehozott koordináló szervezet tevékenységének folytatásához a környezetvédelmi hatóság engedélye szükséges.
 
-- a) a Ktdt.-ben meghatározott egyéni teljesítéssel, vagy
-- b) a Ktdt.-ben meghatározott termékdíjtétel megfizetésével az Országos Hulladékgazdálkodási Ügynökség kollektív teljesítésével
-
-teljesítheti.
-
-(3) Az (1) bekezdés szerinti hulladékkezelési kötelezettség ellátására létrehozott koordináló szervezet tevékenységének folytatásához a környezetvédelmi hatóság engedélye szükséges.
-
-(4) A környezetvédelmi hatóság az engedéllyel rendelkező koordináló szervezetekről nyilvántartást vezet.
+(3) A környezetvédelmi hatóság az engedéllyel rendelkező koordináló szervezetekről nyilvántartást vezet.
 
 ### A felhasználó kötelezettségei
 
@@ -468,11 +461,11 @@ ha az (1)–(2) bekezdésben foglalt kötelezettséget önként nem teljesítik.
 
 33. § Az Országgyűlés a hulladékgazdálkodás stratégiai célkitűzéseinek, továbbá az e törvényben megállapított célok elérésének és az alapvető hulladékgazdálkodási elvek érvényesítésének érdekében a Nemzeti Környezetvédelmi Program részeként Országos Hulladékgazdálkodási Tervet (a továbbiakban: országos terv) fogad el.
 
-34. § (1) Az országos terv alapján a környezetvédelmi igazgatási szervek (a továbbiakban: igazgatóság) a külön jogszabályban megjelölt területre a vonatkozó területrendezési és területfejlesztési tervekben foglaltakkal összhangban területi hulladékgazdálkodási tervet készítenek a területen lévő, illetve működő helyi önkormányzatok, érintett más hatóságok, érdekképviseleti és környezetvédelmi egyesületek bevonásával.
+34. § (1) Az országos terv alapján a környezetvédelmi igazgatási szervek (a továbbiakban: igazgatóság) a külön jogszabályban megjelölt területre a vonatkozó területrendezési és területfejlesztési tervekben foglaltakkal összhangban területi hulladékgazdálkodási tervet készítenek a területen lévő, illetve működő helyi önkormányzatok, érintett más hatóságok, érdekképviseleti és környezetvédelmi társadalmi szervezetek bevonásával.
 
 (2) A területi hulladékgazdálkodási terv előkészítésének megkezdéséről az (1) bekezdés szerinti részvétel biztosítása érdekében az igazgatóság írásban értesíti az érintett helyi önkormányzatokat, hatóságokat és érdekképviseleti szervezeteket.
 
-(3) A környezetvédelmi egyesületek bevonása érdekében az igazgatóság hivatalos helyiségeiben és legalább egy regionális napilapban hirdetményt tesz közzé a területi hulladékgazdálkodási terv előkészítő eljárásának megkezdéséről. A hirdetményben felhívja az érintettek figyelmét a tervezés megkezdésére és a megjelenést követő 15 napon belül jelentkező egyesületek által együttesen delegált legfeljebb 5 személyt bevon a tervezésbe.
+(3) A környezetvédelmi társadalmi szervezetek bevonása érdekében az igazgatóság hivatalos helyiségeiben és legalább egy regionális napilapban hirdetményt tesz közzé a területi hulladékgazdálkodási terv előkészítő eljárásának megkezdéséről. A hirdetményben felhívja az érintettek figyelmét a tervezés megkezdésére és a megjelenést követő 15 napon belül jelentkező társadalmi szervezetek által együttesen delegált legfeljebb 5 személyt bevon a tervezésbe.
 
 (4) A tervezési területen működő gazdálkodó szervezetek érdekképviseletei szervezeteik útján vehetnek részt a terv előkészítésében.
 
@@ -531,7 +524,7 @@ ha az (1)–(2) bekezdésben foglalt kötelezettséget önként nem teljesítik.
 
 (4) A települési önkormányzat a (3) bekezdés szerinti feladathoz kötött támogatásra csak akkor jogosult, ha a közszolgáltatás ellátására vonatkozó – e törvényben és más jogszabályokban meghatározott – kötelezettségeinek maradéktalanul eleget tesz.
 
-(5) Amennyiben a települési önkormányzat a közszolgáltatás ellátására vonatkozó kötelezettségének nem tesz eleget, a fővárosi és megyei kormányhivatal kezdeményezi, hogy a (3) bekezdés szerinti feladathoz kötött költségvetési támogatást az azt folyósító szervezet a közszolgáltatás megszervezéséig visszatartsa, illetve zárolja.
+(5) Amennyiben a települési önkormányzat a közszolgáltatás ellátására vonatkozó kötelezettségének nem tesz eleget, a közigazgatási hivatal kezdeményezi, hogy a (3) bekezdés szerinti feladathoz kötött költségvetési támogatást az azt folyósító szervezet a közszolgáltatás megszervezéséig visszatartsa, illetve zárolja.
 
 (6) A több települési önkormányzat feladatait megvalósító, illetőleg térségi feladatokat ellátó hulladékkezelési létesítmények beruházásai, valamint a betelt hulladéklerakók felülvizsgálatot követő lezárása, területének újrahasznosításra alkalmassá tétele, természeti környezetbe illesztése (rekultivációja) – külön jogszabály szerint – állami támogatásban részesíthető.
 
@@ -692,14 +685,7 @@ kell csökkenteni.
 
 (11) A (9)–(10) bekezdésekben meghatározottak a törvény kihirdetése és hatálybalépése között létrejött szerződésekre nem alkalmazhatóak.
 
-57. § (1) A hulladékkezelési közszolgáltatási díjként fizetendő egyszeri ürítési díj mértéke 2012. évre, ha 2011. évre az egyszeri ürítési díj mértéke
-
-- a) meghaladta a 120 l méretű tárolóedény esetében a nettó 650 Ft-ot, vagy ennek más űrmértékű tárolóedényhez viszonyított arányos összegét, nem haladhatja meg a 2011. évre megállapított egyszeri ürítési díj mértékét,
-- b) nem haladta meg a 120 l méretű tárolóedény esetében a nettó 650 Ft-ot, vagy ennek más űrmértékű tárolóedényhez viszonyított arányos összegét, legfeljebb 650 Ft-ig, vagy ennek arányos mértékéig emelhető.
-
-(2) Ha 2012. évre a közszolgáltatási díj alapdíj (rendelkezésre állási díj) és ürítési díj megállapításával történik, a közszolgáltatási díj egyszeri ürítésre eső mértéke nem haladhatja meg az (1) bekezdésben meghatározott összeget.
-
-58. § Az 57. §-ban meghatározott rendelkezéseket a 2012. április 15-től fizetendő közszolgáltatási díjak tekintetében kell alkalmazni.
+57–58. §
 
 ### Felhatalmazó rendelkezések
 
@@ -744,11 +730,11 @@ kell csökkenteni.
 - a) az élelmiszerlánc-felügyeletért felelős miniszter, hogy
   - aa) az állati gyógyszerek és csomagolásuk hulladékai kezelésének részletes szabályait,
   - ab) a mezőgazdasági nem veszélyes hulladékok kezelésének részletes szabályait;
-- b) az egészségügyért felelős miniszter, hogy
+- b) az egészségügyi feladatok ellátásáért felelős miniszter, hogy
   - ba) a humán gyógyszerek és csomagolásuk hulladékai kezelésének részletes szabályait,
   - bb) az egészségügyi hulladék kezelésének részletes szabályait,
   - bc) a települési szilárd és folyékony hulladékkal kapcsolatos közegészségügyi követelményeket;
-- c)
+- c) a bányászatért felelős miniszter, hogy az ásványi alapanyagok kitermeléséből származó hulladék kezelésének részletes szabályait;
 - d)
 
 rendeletben állapítsa meg.

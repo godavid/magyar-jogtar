@@ -61,7 +61,7 @@ a földmérési és térképészeti tevékenységről
 - c) az alapponthálózatok létesítése és fenntartása, valamint
 - d) az államhatár földmérési munkái.
 
-(4) Az állami földmérési alaptérképek, állami topográfiai térképek, alapponthálózatok, az államhatár földmérési munkarészei, valamint a magyarországi hivatalos földrajzi nevek nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával az adatkezelő csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+(4)
 
 ### Az állami alapadatok
 
@@ -83,8 +83,6 @@ a földmérési és térképészeti tevékenységről
 
 7. § (1) Az állami alapadatokba, ideértve a hivatalos földrajzi neveket is, – a (3) és (5) bekezdésben foglaltak kivételével – bárki betekinthet, azokról másolatot igényelhet. Az állami alapadatokat kezelő szervek az e törvény végrehajtási jogszabályában meghatározott díj ellenében szolgáltatnak adatot. Az adatszolgáltatási díj az adat egyszeri és egy eljárásban való felhasználásának jogát foglalja magában.
 
-(1a) Az ingatlan-nyilvántartási térképről elektronikus formában szolgáltatott másolat olyan elektronikus okirat, amelyet hitelesítési záradékkal láttak el, és amelyet a földmérési és térinformatikai államigazgatási szerv fokozott biztonságú elektronikus intézményi aláírással és időbélyegzővel hitelesített.
-
 (2) Az állami térképek térinformatikai célú felhasználása az adatszolgáltatóval kötött megállapodás alapján – külön díj meghatározásával – történhet.
 
 (3) Az állami alapadatok katonai érdekből készült változatának felhasználását jogszabály a Magyar Honvédségre korlátozhatja.
@@ -92,8 +90,6 @@ a földmérési és térképészeti tevékenységről
 (4) Hatósági eljárásban csak a 6. § (2) és (3) bekezdésében meghatározott szervek (a továbbiakban: állami alapadatok kezelésére jogosult szervek) által szolgáltatott hiteles állami alapadatok használhatók fel.
 
 (5) Az állami alapadatok előállításakor készült mérési és számítási adatokba, vázlatokba, továbbá egyéb munkarészekbe és a forgalomból kivont állami alapadatokba kizárólag földmérési, illetve térképészeti tevékenység végzésére jogosultsággal rendelkező személy tekinthet be és igényelhet másolatot. Ez a jog megilleti a műszaki szakhatóságot, a bíróságot, az ügyészséget, valamint a nyomozó hatóságot is.
-
-(6) A katasztrófavédelmi feladatok ellátásához szükséges földmérési és térképészeti állami alapadatokat, illetve termékeket az adatok kezelője, illetve előállítója a külön jogszabályban foglaltak szerint biztosítja a katasztrófavédelemben részt vevők számára.
 
 ### Alapponthálózatok létesítése és fenntartása
 
@@ -352,7 +348,7 @@ a földmérési és térképészeti tevékenységről
 
 ### VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
-29. § (1) Felhatalmazást kap a miniszter, hogy a honvédelemért felelős miniszter egyetértésével kiadott rendeletben szabályozza
+29. § (1) Felhatalmazást kap a miniszter és a honvédelemért felelős miniszter, hogy együttes rendeletben szabályozza
 
 - a) az ingatlanrendező földmérői tevékenység folytatásának részletes feltételeit, az ingatlanrendező földmérői minősítést adó engedély kiadásának feltételeit, az engedélyezési eljárás részletes szabályait, a nyilvántartás személyes adatot nem tartalmazó adattartalmát és a vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
 - b) a földmérési és térképészeti tevékenységhez kapcsolódó együttműködés rendjét,
@@ -375,7 +371,7 @@ a földmérési és térképészeti tevékenységről
 - b) a honvédelmi célú térképellátást,
 - c) a levegőből végzett távérzékelés engedélyezésének és használatának rendjét.
 
-(4) Felhatalmazást kap a miniszter, hogy, a honvédelemért felelős miniszter és az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben szabályozza a földmérési és térképészeti állami alapadatok kezelésének, szolgáltatásának rendjét és díját, a 7. § (2) bekezdése szerinti külön díjat, valamint a 12. § (5) bekezdésében foglalt, az ingatlanügyi hatóság által elrendelt bemérés díját.
+(4) Felhatalmazást kap a miniszter, a honvédelemért felelős miniszter és az adópolitikáért felelős miniszter, hogy együttes rendeletben szabályozza a földmérési és térképészeti állami alapadatok kezelésének, szolgáltatásának rendjét és díját, a 7. § (2) bekezdése szerinti külön díjat, valamint a 12. § (5) bekezdésében foglalt, az ingatlanügyi hatóság által elrendelt bemérés díját.
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben
 

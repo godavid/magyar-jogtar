@@ -7,7 +7,7 @@ a Schengeni Végrehajtási Egyezmény keretében történő együttműködésrő
 2. § E törvény alkalmazásában:
 
 - a) Schengeni Információs Rendszer (SIS): a Benelux Gazdasági Unió államai, a Németországi Szövetségi Köztársaság és a Francia Köztársaság kormányai között a közös határaikon történő ellenőrzések fokozatos megszüntetéséről szóló, 1985. június 14-i schengeni megállapodás végrehajtásáról Schengenben 1990. június 19-én aláírt egyezmény (a továbbiakban: Schengeni Végrehajtási Egyezmény) IV. címe szerinti információs rendszer,
-- b) a SIS nemzeti része (N.SIS): olyan információs rendszer, amelynek adattartalma megegyezik a Központi SIS, valamint a SIS-ben részt vevő valamennyi állam adatállományával, amely Magyarország területén történő lekérdezés céljára szolgál,
+- b) a SIS nemzeti része (N.SIS): olyan információs rendszer, amelynek adattartalma megegyezik a Központi SIS, valamint a SIS-ben részt vevő valamennyi állam adatállományával, amely a Magyar Köztársaság területén történő lekérdezés céljára szolgál,
 - c) figyelmeztető jelzés: az a SIS-ben elhelyezett adat, amely lehetővé teszi, hogy az elrendelt intézkedés céljából valamely személy vagy tárgy azonosítható legyen,
 - d) kiegészítő információ: a figyelmeztető jelzéssel összefüggő, a SIS-ben nem szereplő adat, amely a személy vagy tárgy azonosítását, illetve az elrendelt intézkedés végrehajtását segíti elő,
 - e) SIRENE Iroda: a Schengeni Információs Rendszer Kiegészítő Információinak Cseréjét Biztosító Nemzeti Hatóság,
@@ -23,8 +23,6 @@ a Schengeni Végrehajtási Egyezmény keretében történő együttműködésrő
 - e) az általa végzett N.SIS-be történő adattovábbítás során felmerülő többszörös jelzéselhelyezés kezdeményezéséről – az adatelhelyezést kezdeményező szerv mellett – haladéktalanul értesíti a SIRENE Irodát,
 - f) gondoskodik a tevékenységével összefüggő adatbiztonsági, adatvédelmi követelmények betartásáról.
 
-3/A. § Az N.SIS Hivatal az N.SIS-szel kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
-
 4. § (1) A SIRENE Iroda e törvényben és az Európai Unió jogi aktusában meghatározott feladatait a Nemzetközi Bűnügyi Együttműködési Központ (NEBEK) látja el.
 
 (2) A SIRENE Iroda biztosítja a kiegészítő információk cseréjét, végzi az N.SIS-ben elhelyezett adatok minőségének ellenőrzését, és szükség esetén megkeresi az adatot megküldő szervet az adat helyesbítése vagy további adat közlése céljából.
@@ -33,20 +31,18 @@ a Schengeni Végrehajtási Egyezmény keretében történő együttműködésrő
 
 (4) A SIRENE Iroda nyilvántartást vezet a kiegészítő információk beszerzéséről, továbbításáról és az ahhoz történő hozzáférési jogosultságokról.
 
-(5) A SIRENE Iroda a (2)–(4) bekezdésben meghatározott feladatokkal érintett személyes adatok tekintetében adatkezelő.
-
 5. § (1) A SIS-be figyelmeztető jelzést kell elhelyezni:
 
 - a) arról, akivel szemben átadás céljából európai elfogatóparancsot vagy kiadatás céljából nemzetközi elfogatóparancsot bocsátottak ki,
 - b) arról, akit a rendőrségről szóló törvény szerinti eltűnt személynek kell tekinteni, és emiatt körözését rendelték el,
 - c) arról, akit a büntetőeljárásban terheltként vagy tanúként kívánnak idézni, de lakó- vagy tartózkodási helye ismeretlen és emiatt körözését rendelték el,
 - d) arról, aki szabadságvesztés büntetésének letöltését, vagy a vele szemben elrendelt kényszergyógykezelés végrehajtását nem kezdte meg, és emiatt körözését rendelték el, de az európai elfogatóparancs vagy a nemzetközi elfogatóparancs kibocsátásának törvényi feltételei nem állnak fenn,
-- e) arról a nem EGT-állampolgár külföldiről, aki beutazási és tartózkodási tilalom hatálya alatt áll, kivéve, ha a beutazási és tartózkodási tilalom elrendelésére a magyar állam által megtérítési kötelezettséggel megelőlegezett költség vissza nem térítése vagy a kiszabott, de meg nem fizetett helyszíni bírság vagy szabálysértési bírság végrehajtásának eredménytelensége miatt került sor,
-- f) arról a személyről vagy gépjárműről, akivel vagy amellyel kapcsolatban a Rendőrség vagy a Vám- és Pénzügyőrség leplezett figyelést rendelt el,
+- e) arról a nem EGT-állampolgár külföldiről, aki beutazási és tartózkodási tilalom hatálya alatt áll, kivéve, ha a beutazási és tartózkodási tilalom elrendelésére a kiszabott, de meg nem fizetett helyszíni bírság vagy szabálysértési bírság végrehajtásának eredménytelensége miatt került sor,
+- f) arról a személyről vagy gépjárműről, akivel avagy amellyel kapcsolatban az eljárás jellegének leplezésével (puhatolás) vagy a kilétét leplező fedett nyomozó igénybevételével a Rendőrség vagy a Vám- és Pénzügyőrség információgyűjtést vagy adatellenőrzést végez,
 - g) arról a 6. § (3) bekezdésében meghatározott tárgyról, amelynek körözését rendelték el,
 - h) arról az okmányról, illetve annak a gépjárműnek a hatósági jelzéséről, amelynek elvesztését, eltulajdonítását, megsemmisülését az okmányra vonatkozó központi hatósági nyilvántartásba bejegyezték.
 
-(2) A SIRENE Iroda – ha ezt a SIS lehetővé teszi – a figyelmeztető jelzéshez megjelölés csatolását kezdeményezi, ha észleli, hogy a SIS-t alkalmazó külföldi állam figyelmeztető jelzése alapján elrendelt intézkedés a magyar joggal, Magyarország nemzetközi kötelezettségeivel vagy alapvető nemzeti érdekeivel nem egyeztethető össze, és emiatt az nem hajtható végre.
+(2) A SIRENE Iroda – ha ezt a SIS lehetővé teszi – a figyelmeztető jelzéshez megjelölés csatolását kezdeményezi, ha észleli, hogy a SIS-t alkalmazó külföldi állam figyelmeztető jelzése alapján elrendelt intézkedés a magyar joggal, a Magyar Köztársaság nemzetközi kötelezettségeivel vagy alapvető nemzeti érdekeivel nem egyeztethető össze, és emiatt az nem hajtható végre.
 
 (3) A megjelölés SIS-be történő felvétele érdekében a SIRENE Iroda a SIS-t alkalmazó külföldi állam SIRENE Irodáját keresi meg.
 
@@ -75,7 +71,13 @@ a Schengeni Végrehajtási Egyezmény keretében történő együttműködésrő
 
 7. § (1) Az 5. § (1) bekezdésének f) pontja alapján figyelmeztető jelzés elhelyezésére abban az esetben van lehetőség, ha megalapozottan feltehető, hogy az információgyűjtéssel vagy adatellenőrzéssel érintett személy öt évi vagy azt meghaladó szabadságvesztéssel büntetendő bűntettet fog elkövetni (készít elő) a SIS-t alkalmazó állam területén, abban az esetben is, ha a magyar törvény szerint az előkészület nem büntetendő.
 
-(2) Az 5. § (1) bekezdés f) pontja alapján a Rendőrség figyelmeztető jelzést helyez el a polgári nemzetbiztonsági szolgálatok megkeresésére is abban az esetben, ha Magyarország vagy más, SIS-t alkalmazó külföldi állam nemzetbiztonságát sértő vagy veszélyeztető tevékenység elhárítása érdekében az indokolt.
+(2) A SIS-t alkalmazó külföldi állam figyelmeztető jelzése alapján végzett – az 5. § (1) bekezdésének f) pontja szerinti – információgyűjtés vagy adatellenőrzés eredményeként a Rendőrség, illetve a Vám- és Pénzügyőrség a következő adatot továbbíthatja a SIRENE Irodán keresztül az adott figyelmeztető jelzést kibocsátó külföldi hatóságnak:
+
+- a) a figyelmeztető jelzéssel érintett személy vagy jármű megtalálásának ténye, körülményei,
+- b) az intézkedés helye, ideje, indoka,
+- c) az útvonal és az úti cél,
+- d) a használt jármű azonosításához szükséges adatok,
+- e) a szállított tárgyakra vonatkozó adatok.
 
 8. § Az 5. § (1) bekezdésének a) pontja esetén a 6. § (1) bekezdése és a 14. § szerinti adatokat az európai vagy nemzetközi elfogatóparancsot kibocsátó bíróság megküldi a SIRENE Irodának, amely továbbítja az N.SIS Hivatalnak a figyelmeztető jelzés N.SIS-be történő elhelyezése céljából.
 
@@ -171,7 +173,7 @@ továbbítja az N.SIS Hivatalnak a figyelmeztető jelzés N.SIS-be történő el
 
 (5) A (3) bekezdés szerinti adattovábbítási nyilvántartás alapján – ha törvény eltérően nem rendelkezik – az érintett jogosult megismerni, hogy adatszolgáltatás alanya volt-e.
 
-(6) A (2) és (3) bekezdés szerinti nyilvántartásba csak a figyelmeztető jelzés elhelyezése céljából adatot továbbító szerv az általa továbbított adat tekintetében, továbbá a SIRENE Iroda és a Nemzeti Adatvédelmi és Információszabadság Hatóság tekinthet be.
+(6) A (2) és (3) bekezdés szerinti nyilvántartásba csak a figyelmeztető jelzés elhelyezése céljából adatot továbbító szerv az általa továbbított adat tekintetében, továbbá a SIRENE Iroda és az adatvédelmi biztos tekinthet be.
 
 (7) A (2) és (3) bekezdés szerinti nyilvántartás adatait három évig meg kell őrizni.
 
@@ -179,9 +181,9 @@ továbbítja az N.SIS Hivatalnak a figyelmeztető jelzés N.SIS-be történő el
 
 (2) Ha az érintett olyan adatokról kér tájékoztatást, amelyet más, SIS-t alkalmazó állam helyezett el a SIS-ben, akkor a kérelmet – válaszadás céljából – az érintett állam központi hatóságának kell megküldeni.
 
-20. § (1) A SIS-sel összefüggésben végzett adatkezelés jogszerűségét, illetőleg az adatkezelés jogszerűségét kifogásoló bejelentéseket a Nemzeti Adatvédelmi és Információszabadság Hatóság ellenőrzi, illetőleg vizsgálja ki.
+20. § (1) A SIS-sel összefüggésben végzett adatkezelés jogszerűségét, illetőleg az adatkezelés jogszerűségét kifogásoló bejelentéseket a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben foglaltak alapján az adatvédelmi biztos ellenőrzi, illetőleg vizsgálja ki.
 
-(2) Ha a bejelentéssel érintett adatokat más, SIS-t alkalmazó állam illetékes hatósága helyezte el a SIS-be, a Nemzeti Adatvédelmi és Információszabadság Hatóság a bejelentést az érintett tagország ellenőrző hatóságának bevonásával vizsgálja ki.
+(2) Ha a bejelentéssel érintett adatokat más, SIS-t alkalmazó állam illetékes hatósága helyezte el a SIS-be, az adatvédelmi biztos a bejelentést az érintett tagország ellenőrző hatóságának bevonásával vizsgálja ki.
 
 21. § (1) A figyelmeztető jelzés elhelyezésének elrendelése, valamint visszavonása és visszavonásának elmulasztása, a figyelmeztető jelzés adattartalmának módosítása miatti jogorvoslatra a figyelmeztető jelzés elhelyezését elrendelő bíróság, hatóság vagy szerv eljárására vonatkozó törvényt kell alkalmazni.
 
@@ -413,13 +415,15 @@ a) a körözött személy]
 
 „(6) A (2)–(4) bekezdés rendelkezéseit értelemszerűen alkalmazni kell arra a tárgyra, okmányra vagy hatósági jelzésre is, amelyre nem követtek el bűncselekményt, de külön törvény, illetve az Európai Unió jogi aktusa alapján a Schengeni Információs Rendszerben elhelyezett figyelmeztető jelzés eredményeként találták meg. Az így megtalált tárgyat, okmányt vagy hatósági jelzést a NEBEK-en keresztül, a Schengeni Információs Rendszert alkalmazó állam figyelmeztető jelzés kibocsátását elrendelő hatóságának kell átadni.”
 
-42. §
+42. § A Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény 7. §-ának helyébe a következő rendelkezés lép:
+
+7. § „A Vám- és Pénzügyőrség a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény, az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény, a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló törvény, valamint a vonatkozó nemzetközi szerződések és az Európai Unió jogi aktusai alapján együttműködik a külföldi és a nemzetközi rendvédelmi szervekkel.”
 
 43. § (1) E törvény – a (2) és (3) bekezdésben foglalt kivételekkel – a kihirdetését követő harmincadik napon lép hatályba.
 
 (2) E törvény 3. §-ának c) pontjából az „és ezzel egyidejűleg megküldi azokat a Központi SIS-nek,” szövegrész, 13–14. §-a, 15. §-ának a)–b), e)–j) pontja, 17. §-ának a) és b), valamint d) pontja és 44. §-a (1) bekezdésének d) pontja az Európai Unió Tanácsának a Schengeni Információs Rendszer alkalmazását a Magyar Köztársaság számára lehetővé tevő határozatában meghatározott napon lép hatályba.
 
-(3) E törvény 5. §-a (1) bekezdésének e) pontja, 10. §-a, 11. §-ának d) pontja, 15. §-ának c) és d) pontja, valamint 17. §-ának c) pontja azon a napon lép hatályba, amelytől kezdve az Európai Unió Tanácsának határozata Magyarországot a schengeni vívmányok teljes körű alkalmazására feljogosítja.
+(3) E törvény 5. §-a (1) bekezdésének e) pontja, 10. §-a, 11. §-ának d) pontja, 15. §-ának c) és d) pontja, valamint 17. §-ának c) pontja azon a napon lép hatályba, amelytől kezdve az Európai Unió Tanácsának határozata a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására feljogosítja.
 
 (4) E törvény hatálybalépésével egyidejűleg
 
@@ -445,7 +449,7 @@ lép.
 - a) kijelölje az N.SIS informatikai központ feladatait ellátó szervet,
 - b) rendeletben szabályozza a SIS-be történő adatbevitel elrendelésének és végrehajtásának, valamint az N.SIS Hivatal és a SIRENE Iroda technikai és adminisztratív feladatai ellátásának részletes szabályait.
 
-(2) Felhatalmazást kap a rendészetért felelős miniszter, hogy a határrendészetért felelős miniszter egyetértésével kiadott rendeletben szabályozza a SIS-be történő adatbevitel elrendeléséhez felhasználandó iratmintákat.
+(2) Felhatalmazást kap a rendészetért és határrendészetért felelős miniszter, hogy rendeletben szabályozza a SIS-be történő adatbevitel elrendeléséhez felhasználandó iratmintákat.
 
 46. § Ha az 5. § (1) bekezdése szerinti figyelmeztető jelzés alapjául szolgáló intézkedés elrendelésére e törvény hatálybalépése előtt került sor, az elrendelő bíróság vagy hatóság az e törvény hatálybalépését követő három hónapon belül – a figyelmeztető jelzés alapjául szolgáló intézkedés jogszerűségének és időszerűségének felülvizsgálatát követően – intézkedik a figyelmeztető jelzés elhelyezése céljából a SIS-be történő adattovábbítás érdekében.
 

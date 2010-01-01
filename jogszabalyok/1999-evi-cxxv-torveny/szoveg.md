@@ -1173,7 +1173,11 @@ h) az a)–f) pont szerint kell a gyermek, tanuló létszámát figyelembe venni
 
 #### 1989. évi XXXVIII. törvény módosítása
 
-74. §
+74. § Az Állami Számvevőszékről szóló – módosított – 1989. évi XXXVIII. törvény 10. §-ának (1)–(2) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az Állami Számvevőszék elnöki, elnökhelyettesi, vezetői és számvevői tisztségei összeegyeztethetetlenek minden olyan szervnél betöltött tisztséggel, amely szerv állami költségvetési támogatásban részesül, továbbá az Állami Számvevőszéknél történő alkalmazásuk idején nem lehetnek tagjai az Országgyűlésnek, és nem tölthetnek be érdekképviseleti szervnél vezetői tisztséget.
+
+(2) Az Állami Számvevőszék elnöke, elnökhelyettesei, vezetői és számvevői – tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység kivételével – más megbízást vagy kereső foglalkozást nem folytathatnak, díjazást nem fogadhatnak el.”
 
 ### Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló1996. évi LXXXV. törvény módosítása
 
@@ -1429,7 +1433,7 @@ b) a 94. § (4) bekezdésében meghatározott képzés támogatására a (2) bek
 - b) rendeletben állapítsa meg a gazdálkodó szervezetek 2000. évi egyedi termelési támogatásait és annak felhasználási szabályait,
 - c) rendeletben állapítsa meg a felszámolási eljárás alatt lévő vállalkozások vagyonának megvásárlását elősegítő támogatás szabályait,
 - d) rendeletben állapítsa meg az e törvény 31. §-a (12) bekezdésében megállapított tartalékalap képzésének és felhasználásának részletes szabályait,
-- e)
+- e) rendeletben állapítsa meg a fiatal házasok, a többgyermekes családok és más arra rászorultak méltányolható igényű otthonhoz jutásához szükséges támogatás, valamint hitelek kamattámogatásának módját, továbbá ezek részletes szabályait,
 - f) rendeletben állapítsa meg a 36. § szerint vállalható agrárkezesség felhasználásának szabályait.
 
 (2) Felhatalmazást kap a pénzügyminiszter, hogy

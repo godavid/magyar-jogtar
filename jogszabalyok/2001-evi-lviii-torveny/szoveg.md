@@ -154,7 +154,7 @@ Az Országgyűlés törvényt alkot a Magyar Nemzeti Bankról, annak elsődleges
 
 28. § (1) A 4. § (1)–(7) bekezdéseiben meghatározott feladatai ellátásához – ideértve a monetáris, a fizetési mérleg és a kapcsolódó állományi, az értékpapír, a pénzügyi számla, a pénzügyi stabilitási, a pénzforgalmi, a fizetési rendszer statisztikák összeállítását – az MNB jegybanki információs rendszert működtet, amelyhez a jogszabályban meghatározott szervezetek és természetes személyek az MNB által előírt – személyes adatnak nem minősülő – információkat kötelesek szolgáltatni. A jegybanki információs rendszer működtetése során az MNB jogosult a hivatalos statisztikai szolgálathoz tartozó szervtől a rendelkezésre álló, személyes adatnak nem minősülő adatokat egyedi azonosításra alkalmas módon is átvenni. A jegybanki információs rendszer részeként működtetett statisztikai információs rendszer szakmai tartalmát és módszertanát az MNB – az államháztartásért felelős miniszter (a továbbiakban: miniszter), illetőleg a Felügyelet véleményét kikérve – a Központi Statisztikai Hivatallal egyetértésben alakítja ki.
 
-(2) Az MNB nyilvánosságra hozza a hitelintézeti rendszer működésére és az ország pénzügyi helyzetére vonatkozó összes fontos információt, illetőleg ezek részletes adatait rendszeresen az Országgyűlés, a Kormány és a minisztériumok (központi államigazgatási szervek), valamint a Pénzügyi Szervezetek Állami Felügyelete rendelkezésére bocsátja.
+(2) Az MNB nyilvánosságra hozza a hitelintézeti rendszer működésére és az ország pénzügyi helyzetére vonatkozó összes fontos információt, illetőleg ezek részletes adatait rendszeresen az Országgyűlés, a Kormány és a minisztériumok (központi államigazgatási szervek) rendelkezésére bocsátja.
 
 (3) Az adatokat csak olyan formában lehet nyilvánosságra hozni, hogy azokból az egyedi adatszolgáltatókra vonatkozó információk ne legyenek megállapíthatók.
 
@@ -224,7 +224,7 @@ során.
 
 (5) A 29/A. § d) pontjában meghatározott ügyekben az ügyintézési határidő három hónap.
 
-(6) A hiánypótlási felhívás kibocsátásának határideje a kérelem beérkezésétől számított tizenöt nap.
+(6) A hiánypótlási felhívás kibocsátásának határideje a kérelem beérkezésétől számított tíz munkanap.
 
 (7) Az MNB az eljárásában a határozat vagy az eljárást megszüntető végzés meghozataláig terjedő időtartamra végzésben megtilthatja a jogsértő magatartás további folytatását, továbbá elrendelheti a jogsértő állapot megszüntetését, ha erre – a 4. § (1)–(7) bekezdésében meghatározott alapvető feladatai ellátása érdekében, a késedelemmel járó jelentős vagy helyrehozhatatlan kár veszélye miatt – halaszthatatlanul szükség van. Az MNB e végzését soron kívül hozza meg.
 
@@ -334,15 +334,7 @@ során.
 
 (4) A Kormány felkérése alapján az MNB elláthatja a nemzetközi pénzügyi szervezetekben a Kormányra háruló feladatokat, amennyiben erről törvény eltérően nem rendelkezik.
 
-42. § A Kormány, a minisztériumok (központi államigazgatási szervek), illetve a Pénzügyi Szervezetek Állami Felügyelete az MNB kérésére tevékenységükkel kapcsolatban információt nyújtanak.
-
-42/A. § (1) A Nemzetközi Valutaalap által a Magyar Köztársaság tagságát illetően hozott határozat, valamint az alapokmány értelmében a Nemzetközi Valutaalapnak időszakonként fizetendő összegeket jogszabályban vagy az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott megfelelő forrásokból a Magyar Köztársaság nevében kifizetést teljesítő szerv az MNB, beleértve a Nemzetközi Valutaalap Különleges Lehívási Jogok Főosztályában való részvétellel kapcsolatos fizetések teljesítését is.
-
-(2) Az MNB a Nemzetközi Valutaalap alapokmányával összhangban, a Magyar Köztársaság tagságával összefüggésben, át nem ruházható, kamatfizetési kötelezettséget nem tartalmazó váltókat állíthat ki a Nemzetközi Valutaalap javára.
-
-(3) A Nemzetközi Valutaalap alapokmánya által megkívánt pénzügyi szerv feladatát a Magyar Köztársaság részéről az MNB látja el. Ezzel összefüggésben az MNB a felhatalmazott szerv arra, hogy a Magyar Köztársaság nevében a Nemzetközi Valutaalap alapokmányának rendelkezései alapján végrehajtható valamennyi műveletet és ügyletet létrehozza és lebonyolítsa, ideértve azt is, hogy a Nemzetközi Valutaalap alapokmányának rendelkezései alapján a Magyar Köztársaságnak átutalt vagy fizetett bármilyen összeg tekintetében a pénzügyi szerv minőségében jogosultként járjon el.
-
-(4) A Nemzetközi Valutaalapnak a Magyar Köztársaságban tartott valutakészleteit kijelölt letéteményesként az MNB őrzi.
+42. § A Kormány, illetve a minisztériumok (központi államigazgatási szervek) az MNB kérésére tevékenységükkel kapcsolatban információt nyújtanak.
 
 ### Kapcsolata Pénzügyi Szervezetek Állami Felügyeletével
 
@@ -358,7 +350,7 @@ során.
 
 45. § (1)
 
-(2)
+(2) Az Állami Számvevőszéknek az MNB feletti ellenőrzési jogköréről az Állami Számvevőszékről szóló törvény rendelkezik.
 
 (3) Az MNB könyvvizsgálójának megválasztását, illetve visszahívásának kezdeményezését megelőzően az Állami Számvevőszék elnökének a véleményét ki kell kérni.
 
@@ -405,13 +397,13 @@ során.
 
 - a) az MNB elnöke, mint a monetáris tanács elnöke;
 - b) az MNB alelnökei;
-- c) további legfeljebb négy tag, akiket hat évre az Országgyűlés választ.
+- c) további legfeljebb négy tag, akiket hat évre a köztársasági elnök nevez ki.
 
-(5) A monetáris tanács tagja az a magyar állampolgár lehet, aki monetáris, pénzügyi, illetőleg a hitelintézeti tevékenységgel kapcsolatos kérdésekben kiemelkedő elméleti, illetőleg gyakorlati szakmai ismeretekkel rendelkezik.
+(5) A monetáris tanács tagjává az a magyar állampolgár nevezhető ki, aki monetáris, pénzügyi, illetőleg a hitelintézeti tevékenységgel kapcsolatos kérdésekben kiemelkedő elméleti, illetőleg gyakorlati szakmai ismeretekkel rendelkezik.
 
-(6) A (4) bekezdés a) és b) pontja szerinti tagnak javasolt személyt az Országgyűlés illetékes bizottsága meghallgatja.
+(6) A javasolt személyt az Országgyűlés illetékes bizottsága meghallgatja.
 
-(7) A monetáris tanács (4) bekezdés a) és b) pontja szerinti tagja a kinevezésében megjelölt időpontban, ennek hiányában kinevezésével, (4) bekezdés c) pontja szerinti tagja megválasztásával hivatalba lép. A monetáris tanács (4) bekezdés a) és b) pontja szerinti tagja a köztársasági elnök előtt, (4) bekezdés c) pontja szerinti tagja az Országgyűlés előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt vagy fogadalmat tesz és okmányt ír alá.
+(7) A monetáris tanács tagja a kinevezésében megjelölt időpontban, ennek hiányában kinevezésével hivatalba lép. A monetáris tanács tagja a köztársasági elnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt vagy fogadalmat tesz és okmányt ír alá.
 
 (8) A monetáris tanács tagjának megbízatása megszűnik:
 
@@ -420,15 +412,15 @@ során.
 - c) felmentéssel;
 - d) halállal.
 
-(9) A lemondást írásban kell közölni a (4) bekezdés a) és b) pontja szerinti tagnak a köztársasági elnökkel és a miniszterelnökkel, a (4) bekezdés c) pontja szerinti tagnak az Országgyűlés elnökével.
+(9) A lemondást írásban kell közölni a köztársasági elnökkel és a miniszterelnökkel.
 
-(10) A monetáris tanács (4) bekezdés a) és b) pontja szerinti tagjait a köztársasági elnök, (4) bekezdés c) pontja szerinti tagjait az Országgyűlés kizárólag abban az esetben mentheti fel, ha a monetáris tanács tagja nem felel meg a feladatai ellátásához szükséges feltételeknek, illetve súlyos kötelezettségszegést követ el.
+(10) A monetáris tanács tagjait a köztársasági elnök kizárólag abban az esetben mentheti fel, ha a monetáris tanács tagja nem felel meg a feladatai ellátásához szükséges feltételeknek, illetve súlyos kötelezettségszegést követ el.
 
-(11) A (4) bekezdés c) pontja szerinti tagok kinevezésére, illetve felmentésére az Országgyűlés Gazdasági és Informatikai Bizottsága teszi meg a javaslatot az Országgyűlés számára.
+(11) A (4) bekezdés c) pontja szerinti tagok közül két fő kinevezésére, illetve felmentésére a javaslatot az MNB elnöke teszi meg, amelyet – egyetértése esetén – a miniszterelnök terjeszt a köztársasági elnök elé. További két tag kinevezésére és felmentésére a miniszterelnök az MNB elnöke véleményének kikérésével tesz javaslatot a köztársasági elnöknek. A (4) bekezdés c) pontja szerinti tagokat a miniszterelnök és az MNB elnöke felváltva jelöli.
 
 (12) A (11) bekezdés szerinti felmentési javaslatot a monetáris tanács érintett tagja részére meg kell küldeni, aki a Munka Törvénykönyve (a továbbiakban: Mt.) szabályai szerint munkaügyi bírósághoz fordulhat.
 
-(13) A (11) bekezdés szerinti felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság döntésének jogerőre emelkedését követően terjeszthető az Országgyűlés elé.
+(13) A (11) bekezdés szerinti felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság döntésének jogerőre emelkedését követően terjeszthető a köztársasági elnök elé.
 
 (14)
 
@@ -438,7 +430,7 @@ során.
 
 (17) A monetáris tanács évente az első ülésen a jelenlevők egyszerű szótöbbségével megválasztja a monetáris tanács elnökhelyettesét. Az elnökhelyettes megbízatásának megszűnése esetén a monetáris tanács a soron következő ülésén új elnökhelyettest választ.
 
-(18) A monetáris tanács tagjai – ideértve az MNB elnökét és alelnökeit –, valamint a felügyelő bizottság tagjai megbízatásuk megszűnését követő 3 éven belül monetáris tanácsi tagságot nem viselhetnek.
+(18) A monetáris tanács tagjai – ideértve az MNB elnökét és alelnökeit –, valamint a felügyelő bizottság tagjai megbízatásuk megszűnését követő 3 éven belül monetáris tanácsi tagságra nem jelölhetők.
 
 (19) Az Európai Közösséget létrehozó Szerződés 122. cikke szerinti eltérés Tanács döntésével történő megszüntetése hatálybalépésének napján a monetáris tanács megszűnik, tagjainak a monetáris tanácsban betöltött megbízatása e nappal lejár.
 
@@ -465,7 +457,7 @@ során.
 
 (8) Az elnök (1) bekezdés szerinti hatásköreit az alelnökökre átruházhatja.
 
-(9) A 49. § (5) és (8) bekezdéseit az MNB elnöke tekintetében is alkalmazni kell.
+(9) A 49. § (5)–(10) bekezdéseit az MNB elnöke tekintetében is alkalmazni kell.
 
 ### Az MNB alelnökei
 
@@ -473,13 +465,7 @@ során.
 
 (2) Az MNB alelnökeinek megbízatása hat évre szól.
 
-(3) A 49. § (5) és (8) bekezdéseit az MNB alelnökei tekintetében is alkalmazni kell.
-
-(4) Az MNB alelnökét a 49. § (10) bekezdésében foglaltaknak megfelelően a köztársasági elnök menti fel a miniszterelnök és az MNB elnök (1) bekezdés szerint tett javaslatára.
-
-(5) A (4) bekezdés szerinti felmentési javaslatot az MNB alelnöke részére meg kell küldeni, aki az Mt. szabályai szerint munkaügyi bírósághoz fordulhat.
-
-(6) A felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság döntésének jogerőre emelkedését követően terjeszthető a köztársasági elnök elé.
+(3) A 49. § (5)–(10) és (12)–(13) bekezdéseit az MNB alelnökei tekintetében is alkalmazni kell.
 
 52. §
 
@@ -514,7 +500,7 @@ során.
 
 ### Az elnök, az alelnökök, a monetáris tanács és a felügyelő bizottság tagjainak díjazása
 
-53. § (1) Az elnök tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó, MNB-től származó havi keresete a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszerese.
+53. § (1) Az elnök MNB-től származó tárgyévi összes keresete az elnök részére előző évre megállapított összes keresetnek az Európai Unió Bizottságának a tárgyévet megelőző évben benyújtott konvergencia programban a tárgyévre vonatkozó várható fogyasztói árindex értékével megemelt összege.
 
 (2) Az 50. § (7) bekezdése szerinti alelnök MNB-től származó keresete az elnök keresetének 80%-a.
 
@@ -522,9 +508,9 @@ során.
 
 (4) A monetáris tanács 49. § (4) bekezdésének c) pontjában meghatározott tagjainak MNB-től származó keresete az elnök keresetének 35%-a.
 
-(5) A felügyelő bizottság elnökének tiszteletdíja e törvény által meghatározott fix összeg. A tiszteletdíj mértéke havi bruttó 1 200 000 forint.
+(5) A felügyelő bizottság elnökének tiszteletdíja az MNB elnöke MNB-től származó keresetének 15%-a.
 
-(6) A felügyelő bizottság további tagjainak tiszteletdíja e törvény által meghatározott fix összeg. A tiszteletdíj mértéke havi bruttó 800 000 forint.
+(6) A felügyelő bizottság további tagjainak tiszteletdíja az MNB elnöke MNB-től származó keresetének 10%-a.
 
 (7) Az MNB elnökét és alelnökeit a monetáris tanácsi tagságért külön díjazás nem illeti meg.
 
@@ -532,7 +518,7 @@ során.
 
 ### Titoktartási kötelezettség és az alkalmazottakjogállása
 
-54. § (1) Az MNB alkalmazottai és felügyelő bizottsági tagjai kötelesek a feladatkörük ellátása során tudomásukra jutott minősített adatot, banktitkot, fizetési titkot, értékpapírtitkot és üzleti titkot megőrizni. Ez a kötelezettség a megbízatás megszűnését követően is fennmarad.
+54. § (1) Az MNB alkalmazottai és felügyelő bizottsági tagjai kötelesek a feladatkörük ellátása során tudomásukra jutott államtitkot, banktitkot, fizetési titkot, értékpapírtitkot és üzleti titkot megőrizni. Ez a kötelezettség a megbízatás megszűnését követően is fennmarad.
 
 (2) A banktitok, fizetési titok, az értékpapír titok és az üzleti titok fogalmára, és azok megtartásának kötelezettségére az ezt szabályozó törvények rendelkezései az irányadók.
 
@@ -595,7 +581,7 @@ pénzügyi intézményben, kiegészítő pénzügyi szolgáltatást végző jogi
 
 (5) A monetáris tanács tagjai létesíthetnek tudományos, oktatási, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenységet jelentő munkavégzésre irányuló egyéb jogviszonyt, amelyet annak létesítése előtt kötelesek bejelenteni.
 
-(6) Az MNB monetáris tanácsának 49. § (4) bekezdés a) és b) pontja szerinti tagja az 57. §-ban és az 58. § (4) és (5) bekezdésében foglalt bejelentési, illetőleg nyilatkozattételi kötelezettségének a köztársasági elnöknél, 49. § (4) bekezdés c) pontja szerinti tagja e kötelezettségének az Országgyűlés elnökénél tesz eleget.
+(6) Az MNB monetáris tanácsának tagja az 57. §-ban és az 58. § (4) és (5) bekezdésében foglalt bejelentési, illetőleg nyilatkozattételi kötelezettségének a köztársasági elnöknél tesz eleget.
 
 (7) Az MNB monetáris tanácsának tagjára nézve az 57. § (1) bekezdésben foglalt összeférhetetlenségi szabályokat az MNB-vel fennálló munkaviszonyuk megszűnését követően is, 6 hónapig alkalmazni kell.
 
@@ -766,10 +752,10 @@ szervezetben.
 
 (4)
 
-73. § (1)
+73. § (1) A közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az elektronikus kapcsolattartásra vonatkozó szabályait az MNB hatósági eljárásaira 2011. június 30-ig nem kell alkalmazni. Ez a bekezdés 2011. július 1-jén hatályát veszti.
 
 (2) A 2009. október 1-jét megelőzően elkövetett jogszabálysértés esetén intézkedést csak az elkövetés időpontjában hatályos rendelkezések alapján lehet alkalmazni.
 
-74. § E törvénynek a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény módosításáról szóló 2011. évi I. törvény (a továbbiakban: 2011. évi I. törvény) 1. §-ával megállapított 49. § (4)–(13) bekezdését a monetáris tanács a 2011. évi I. törvény hatálybalépését követően az Országgyűlés által választandó tagjainak tekintetében kell alkalmazni. A 2011. évi I. törvény hatálybalépésekor a monetáris tanács hivatalban lévő tagja megbízatása megszűnéséig megőrzi monetáris tanácsi tagságát, rá megbízatásának megszűnéséig a 49. § a 2011. évi I. törvény hatálybalépését megelőző napon hatályos (4)–(13) bekezdését kell alkalmazni.
+74. §
 
 75. §

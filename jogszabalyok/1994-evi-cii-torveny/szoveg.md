@@ -68,11 +68,11 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 
 ### Nyilvántartásba vétel
 
-10. § (1) Az alapszabály elfogadását követően a hegyközség székhelye szerint illetékes törvényszéknél kérni kell a hegyközség nyilvántartásba vételét. A hegyközség a bírósági nyilvántartásba vétellel jön létre, az alapszabály elfogadásának napjára visszaható hatállyal.
+10. § (1) Az alapszabály elfogadását követően a hegyközség székhelye szerint illetékes megyei bíróságnál kérni kell a hegyközség nyilvántartásba vételét. A hegyközség a bírósági nyilvántartásba vétellel jön létre, az alapszabály elfogadásának napjára visszaható hatállyal.
 
 (2) A bíróság a hegyközség nyilvántartásba vételéről szóló határozatát az agrárpolitikáért felelős miniszterrel is közli.
 
-(3) A hegyközség nyilvántartásba vételére egyebekben az egyesületekre irányadó szabályokat kell alkalmazni.
+(3) A hegyközség nyilvántartásba vételére egyebekben a társadalmi szervezetekre irányadó szabályokat kell alkalmazni.
 
 ### Az alapszabály
 
@@ -286,7 +286,7 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 - b) tisztséget viseljen a hegyközségben;
 - c) igénybe vegye a hegyközség által nyújtott szolgáltatásokat.
 
-(2) Természetes személy az (1) bekezdés a) és b) pontjában meghatározott tagsági viszonyból eredő jogait csak személyesen gyakorolhatja. Az (1) bekezdés c) pontjában meghatározott jog képviselő útján is gyakorolható.
+(2) A tagsági viszonyból eredő jogok képviselő útján is gyakorolhatók, a képviselő azonban csak egy tag nevében járhat el. Természetes személy az (1) bekezdés b) pontjában meghatározott jogot csak személyesen gyakorolhatja.
 
 (3) Aki több hegyközségnek is tagja, tisztséget – a hegybíró kivételével – csak egy hegyközségben viselhet.
 
@@ -392,7 +392,7 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 
 (2)
 
-44. § A hegybíró a műveletlenül hagyott ültetvény használóját megfelelő határidő biztosításával felszólítja, hogy a szükséges talaj- és növényvédelmi munkákat végezze el, illetve a szőlőt művelje meg. Ha a felszólítás eredménytelen, a hegybíró a határidő lejártát követő nyolc napon belül köteles erről tájékoztatni az ingatlanügyi hatóságot.
+44. § A hegybíró a műveletlenül hagyott ültetvény használóját megfelelő határidő biztosításával felszólítja, hogy a szükséges talaj- és növényvédelmi munkákat végezze el, illetve a szőlőt művelje meg. Ha a felszólítás eredménytelen, a hegybíró a határidő lejártát követő öt munkanapon belül köteles erről tájékoztatni az ingatlanügyi hatóságot.
 
 45. § (1)
 
@@ -583,7 +583,7 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 - a) a helyi önkormányzatokért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a hegyközségek megalakulásához nyújtott költségvetési támogatás igénybevétele feltételei és elszámolása,
 - b) a hegyközségi tagok, a hegyközségek és a hegyközségi tanácsok adatszolgáltatása,
 - c) a származási bizonyítvány kiadása, valamint
-- d) a helyi önkormányzatokért felelős miniszter egyetértésével kiadott rendeletben a törvény által meghatározott közigazgatási feladatoknak a hegyközségek részére történő átadása rendjét szabályozza,
+- d) a helyi önkormányzatokért felelős miniszterrel együttes rendeletben a törvény által meghatározott közigazgatási feladatoknak a hegyközségek részére történő átadása rendjét szabályozza,
 - e) az adópolitikáért felelős miniszterrel egyetértésben a hegyközségi szervezetek által lefolytatott egyes eljárások igazgatási szolgáltatási díjainak mértékét és megfizetésének rendjét rendeletben állapítsa meg.
 
 ### Hatálybalépés

@@ -41,9 +41,7 @@ Az Országgyűlés az állam szolgáltató jellegének erősítése, az állampo
 
 (2) A központi rendszer minden szolgáltatása elektronikus közszolgáltatásnak minősül.
 
-(3) A központi rendszerben kezelt adatok adatkezelőjének vezetője feladat és hatáskörében minősítésre jogosult.
-
-(4) Az elektronikus közszolgáltatások bárki számára elérhetőek.
+(3) Az elektronikus közszolgáltatások bárki számára elérhetőek.
 
 ### Az elektronikus közszolgáltatás alapelvei
 
@@ -56,7 +54,7 @@ Az Országgyűlés az állam szolgáltató jellegének erősítése, az állampo
 - e) az üzemeltetés folytonosságát,
 - f) az egyenlő bánásmód követelményének érvényesítését.
 
-(2) A központi rendszeren továbbított adatokból személyi profil (felhasználói szokások elemzése, közvetlen személyes adatokhoz és érdemi ügyadatokhoz való hozzáférés) nem képezhető. Ennek betartását a központi rendszer létrehozásáért, működtetéséért, üzemeltetéséért és fejlesztéséért felelős jogi személy vagy más szervezet (a továbbiakban: a központi rendszer működtetője) technikai megoldással biztosítja.
+(2) A központi rendszeren továbbított adatokból személyi profil (felhasználói szokások elemzése, közvetlen személyes adatokhoz és érdemi ügyadatokhoz való hozzáférés) nem képezhető. Ennek betartását a központi rendszer üzemeltetője technikai megoldással biztosítja.
 
 (3) Az elektronikus közszolgáltatások fejlesztése során biztosítani kell, hogy költségvetési vagy EU forrásokból létrehozott szoftverek, eljárási rendek, illetve más immateriális javak korlátlan felhasználási jogával az állam rendelkezzen, és a fejlesztések eredményei minden közigazgatási és közfeladatot ellátó szerv számára külön térítés nélkül hozzáférhetőek legyenek.
 
@@ -99,7 +97,7 @@ a központi rendszer útján kell tartani.
 
 (2) A csatlakozásra kötelezett szervezetet a csatlakozási előfeltételek meglétével kapcsolatos külön jogszabály szerinti feltételek hiánya a szolgáltatási kötelezettség teljesítése alól nem mentesíti.
 
-(3) A központi rendszeren elérhető szolgáltatásokkal szemben támasztott hitelességi, minőségi, biztonsági és fejlesztési követelmények érvényesülését a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter ellenőrzi.
+(3) A központi rendszeren elérhető szolgáltatásokkal szemben támasztott hitelességi, minőségi, biztonsági és fejlesztési követelmények érvényesülését a közigazgatási informatikáért felelős miniszter ellenőrzi.
 
 (4) A központi rendszer üzemeltetésének és fejlesztésének költségeit az éves költségvetésben részletesen tervezni kell.
 
@@ -238,15 +236,15 @@ az elektronikus közszolgáltatást nyújtónak biztosítania kell.
 - a) kizárólag olyan informatikai és kommunikációs rendszer alkalmazható, amely biztosítja a szolgáltatásokat igénybe vevőkkel való biztonságos kapcsolatot és a központi rendszer folyamatos – előzetesen bejelentett, a legkisebb terhelésű időszakokban megvalósuló karbantartási üzemszünetekkel korlátozható – elérhetőségét;
 - b) a szolgáltatás nyújtásához kizárólag olyan, a vonatkozó szabványoknak és műszaki előírásoknak megfelelő, megbízható és a külön jogszabály szerint tanúsított informatikai rendszerek és termékek használhatók, amelyek lehetővé teszik a hiteles iratcserét, biztosítják az elektronikus iratok sértetlenségét és védettségét, valamint az informatikai rendszerekben tárolt adatok hiteles archiválását.
 
-(3) A központi rendszerben a továbbított üzenetekről vezetett naplófájlokat úgy kell megőrizni, hogy azokhoz csak a küldő, illetve a címzett írásos megbízásából, valamint az erre törvényben feljogosított szervezeteknek kizárólag olvasási joggal lehessen hozzáférni. A naplófájlokat a működtető öt évig őrzi meg. Folyamatban levő eljárás esetén az eljárás bármely résztvevőjének kérésére a tárolást az ügy lezártáig meg kell hosszabbítani.
+(3) A központi rendszerben a továbbított üzenetekről vezetett naplófájlokat úgy kell megőrizni, hogy azokhoz csak a küldő, illetve a címzett írásos megbízásából, valamint az erre törvényben feljogosított szervezeteknek kizárólag olvasási joggal lehessen hozzáférni. A naplófájlokat az üzemeltető öt évig őrzi meg. Folyamatban levő eljárás esetén az eljárás bármely résztvevőjének kérésére a tárolást az ügy lezártáig meg kell hosszabbítani.
 
-(4) Az elektronikus közszolgáltatás nyújtója, valamint a központi rendszer működtetője köteles biztosítani, hogy az érintettek személyes, valamint az elektronikus tárhelyen elhelyezett adataik sorsát a közhasznúság követelményeinek megfelelő kapun keresztül nyomon tudják követni.
+(4) Az elektronikus közszolgáltatás nyújtója, valamint a központi rendszer üzemeltetője köteles biztosítani, hogy az érintettek személyes, valamint az elektronikus tárhelyen elhelyezett adataik sorsát a közhasznúság követelményeinek megfelelő kapun keresztül nyomon tudják követni.
 
 (5) Amennyiben a központi rendszer használója igényli, és ehhez a nyilvános titkosító kulcsát a központi rendszer kulcstárában elhelyezte, az elektronikus közszolgáltatást nyújtó szervezet köteles a szolgáltatott információt titkosítottan megküldeni. Törvény egyes elektronikus szolgáltatások nyújtásának feltételévé teheti a nyilvános titkosító kulcs kulcstárba helyezését.
 
-(6) A központi rendszer működtetését és fejlesztését a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter felügyeli. A miniszter évente beszámol a központi rendszer működéséről az Országgyűlés illetékes bizottságának, illetve a koncepcionálisan új szolgáltatások indítása előtt tájékoztatást ad a fejlesztés irányairól.
+(6) A központi rendszer működtetését és fejlesztését a közigazgatási informatikáért felelős miniszter felügyeli. A miniszter évente beszámol a központi rendszer működéséről az Országgyűlés illetékes bizottságának, illetve a koncepcionálisan új szolgáltatások indítása előtt tájékoztatást ad a fejlesztés irányairól.
 
-(7) A központi rendszert a Kormány által rendeletben kijelölt államigazgatási szerv vagy kizárólagos állami tulajdonú gazdálkodó szervezet működteti.
+(7) A központi rendszert a Kormány által kijelölt közigazgatási szerv működteti, ehhez – a közigazgatási informatikáért felelős miniszter előzetes hozzájárulásával – más szolgáltató vagy szervezet közreműködését is igénybe veheti.
 
 20. § (1) A Kormány e törvényben meghatározott módon biztosítja és fejleszti az elektronikus közszolgáltatások igénybevételéhez szükséges feltételeket, így
 
@@ -335,13 +333,13 @@ az elektronikus közszolgáltatást nyújtónak biztosítania kell.
 
 ### Tanúsítás
 
-30. § (1) A központi rendszerhez való csatlakozás a szolgáltatás jellege szerint differenciált követelményeinek teljesítését a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) regisztrálja.
+30. § (1) A központi rendszerhez való csatlakozás a szolgáltatás jellege szerint differenciált követelményeinek teljesítését a Nemzeti Hírközlési Hatóság (a továbbiakban: NHH) regisztrálja.
 
 (2) A tanúsítást a csatlakozást megelőzően és utána rendszeresen el kell végezni.
 
-(3) A csatlakozás csak az NMHH által elvégzett regisztráció után hajtható végre.
+(3) A csatlakozás csak az NHH által elvégzett regisztráció után hajtható végre.
 
-(4) Ha a csatlakozás megtörténte után a felülvizsgálat során az erre feljogosított szakértő a feltételek hiányát érzékeli, az NMHH-hoz fordul a regisztráció visszavonása érdekében.
+(4) Ha a csatlakozás megtörténte után a felülvizsgálat során az erre feljogosított szakértő a feltételek hiányát érzékeli, az NHH-hoz fordul a regisztráció visszavonása érdekében.
 
 ### VI. Fejezet — Záró rendelkezések
 
@@ -365,7 +363,7 @@ az elektronikus közszolgáltatást nyújtónak biztosítania kell.
 
 (3) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje azokat a közigazgatási hatóságokat, amelyek elektronikus közszolgáltatásaikat – átmenetileg, az államháztartás vagy az európai uniós források terhére nyújtott támogatások vagy egyéb kifizetések zavartalan megállapítása és folyósítása feltételeinek megteremtéséig terjedő, a rendeletben meghatározott közigazgatási hatósági ügyekben és egyéb eljárásokban, a rendeletben meghatározott időszakban – nem a központi rendszer igénybevételével nyújtják.
 
-(4) Felhatalmazást kap a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel és az e-közigazgatásért felelős miniszterrel egyetértésben – az egyes elektronikus közszolgáltatásokért, valamint a regisztráció díjköteles eljárási cselekményeiért fizetendő igazgatási szolgáltatási díjat rendeletben állapítsa meg.
+(4) Felhatalmazást kap a közigazgatási informatikáért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – az egyes elektronikus közszolgáltatásokért, valamint a regisztráció díjköteles eljárási cselekményeiért fizetendő igazgatási szolgáltatási díjat rendeletben állapítsa meg.
 
 32. § (1) A közhasznú szervezetekről szóló 1997. évi CLVI. törvény 26. § c) pontja a következő 24. ponttal egészül ki:
 

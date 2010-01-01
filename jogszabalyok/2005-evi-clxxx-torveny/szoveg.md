@@ -35,7 +35,7 @@ megfizetése alól.
 
 - a) álláskereső foglalkoztatása: a legalább négyórás részmunkaidőt előíró, határozatlan időre szóló munkaszerződés kötése és ez alapján legalább kétéves időtartamú foglalkoztatás;
 - b) négy órát elérő részmunkaidő: a napi négy órát, illetve – munkaidőkeret megállapítása esetén a munkaidőkeret átlagában – a heti húsz órát elérő munkaidő;
-- c) csoportos létszámcsökkentés: a jogviszonynak az Mt. 94/C. § (4) bekezdésében, illetve a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 38/A. § (2) bekezdés a) pontjában meghatározott módon történő megszűnése.
+- c) csoportos létszámcsökkentés: a jogviszonynak az Mt. 94/C. § (4) bekezdésében, a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 17/B. § (1) bekezdésében, illetve a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 38/A. § (2) bekezdés a) pontjában meghatározott módon történő megszűnése.
 
 (6) Az állami foglalkoztatási szerv igazolja, hogy az álláskereső
 
@@ -43,9 +43,7 @@ megfizetése alól.
 - b) a foglalkoztatás megkezdését megelőző 365 napban keresőtevékenységet nem folytatott, illetve
 - c) a foglalkoztatás megkezdését megelőző három hónapban csoportos létszámcsökkentéssel érintett volt.
 
-(7) Az (1) bekezdésben meghatározott kedvezmény – az e törvényben megállapítottak szerint – akkor is megilleti a munkáltatót, ha az álláskereső jogviszonya a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 17/B. §-ában, a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény 10. § (4) és (5) bekezdésében meghatározottak szerint szűnt meg.
-
-(8)–(11)
+(7)–(11)
 
 3. § (1) Az állami adóhatóság az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 31. § (2) bekezdésében meghatározott bevallás benyújtására előírt határidőt követő harmadik hónap utolsó napjáig az államháztartás alrendszerei közötti elszámolás céljából, havi bontásban adatot szolgáltat a Munkaerőpiaci Alap részére a kedvezménnyel érintett foglalkoztatottak számáról. A Munkaerőpiaci Alap a társadalombiztosítás pénzügyi alapjai részére a kedvezménnyel érintett foglalkoztatottak után – az állami adóhatóság által szolgáltatott adatok alapján – személyenként és havonta külön jogszabályban meghatározott összeget utal át, melynek forrása a „Aktív támogatások” cím, „Járulékkedvezmény megtérítés” alcím előirányzata.
 
