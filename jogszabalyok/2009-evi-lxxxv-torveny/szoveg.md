@@ -1,0 +1,1299 @@
+# 2009. évi LXXXV. törvény
+
+a pénzforgalmi szolgáltatás nyújtásáról
+
+### I. Fejezet — BEVEZETŐ RENDELKEZÉSEK
+
+### A törvény hatálya
+
+1. § (1) E törvény rendelkezéseit kell alkalmazni a Magyar Köztársaság területén nyújtott pénzforgalmi szolgáltatásra.
+
+(2) E törvény rendelkezései a Magyar Nemzeti Bankra kizárólag a monetáris politika megvalósításán, valamint a kincstári egységes számla vezetésén kívül végzett pénzforgalmi szolgáltatása tekintetében terjednek ki.
+
+(3) A Magyar Nemzeti Bank által vezetett a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény (a továbbiakban: MNBtv.) 15. § (1) bekezdés b) pontjában meghatározott pénzforgalmi számla tekintetében e törvénynek kizárólag a hatósági átutalás és az átutalási végzés alapján történő átutalás lebonyolítására vonatkozó szabályait kell alkalmazni.
+
+(4) A kincstár által az államháztartásról szóló 1992. évi XXXVIII. törvényben (a továbbiakban: Áht.) meghatározott kincstári körben végzett pénzforgalmi szolgáltatása tekintetében e törvénynek kizárólag a hatósági átutalás és az átutalási végzés alapján történő átutalás lebonyolítására vonatkozó szabályait kell alkalmazni.
+
+### Értelmező rendelkezések
+
+2. § E törvény alkalmazásában
+
+- 1. átutalás: a fizető fél rendelkezése alapján végzett olyan pénzforgalmi szolgáltatás, amelynek során a fizető fél fizetési számláját a kedvezményezett javára megterhelik, valamint a hatósági átutalás és az átutalási végzés alapján történő átutalás,
+- 2. beszedés: a kedvezményezett rendelkezése alapján végzett olyan pénzforgalmi szolgáltatás, amelynek során a fizető fél fizetési számlájának a kedvezményezett javára történő megterhelése a fizető fél által a kedvezményezettnek, a kedvezményezett pénzforgalmi szolgáltatójának vagy a fizető fél saját pénzforgalmi szolgáltatójának adott hozzájárulás alapján történik,
+- 3. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam,
+- 4. egyedi azonosító: a fizetési számla, vagy fizetési számla hiányában a kedvezményezett egyértelmű azonosítása céljából a pénzforgalmi szolgáltató által az ügyfél számára meghatározott betű-, számjegy- vagy jelkombináció,
+- 5. értéknap: az a nap, amelyet a pénzforgalmi szolgáltató a fizetési számla javára vagy a fizetési számla terhére elszámolt pénzösszeg utáni kamatszámítás szempontjából figyelembe vesz,
+- 6. fizetési megbízás: a fizető félnek vagy a kedvezményezettnek a saját pénzforgalmi szolgáltatója részére fizetési művelet teljesítésére adott megbízása, valamint a hatósági átutalási megbízás és az átutalási végzés,
+- 7. fizetési művelet: a fizető fél, a kedvezményezett, a hatósági átutalási megbízás adására jogosult és az átutalási végzést kibocsátó által kezdeményezett megbízás – valamely fizetési mód szerinti – lebonyolítása, függetlenül a fizető fél és a kedvezményezett közötti jogviszonytól,
+- 8. fizetési számla: fizetési műveletek teljesítésére szolgáló, a pénzforgalmi szolgáltató egy vagy több ügyfele nevére megnyitott számla, ideértve a bankszámlát is,
+- 9. fizető fél: az a jogalany,
+  - a) aki a fizetési számla tulajdonosaként fizetési számlájáról fizetési megbízást hagy jóvá, vagy
+  - b) aki a fizetési számla hiányában fizetési megbízást ad, vagy
+  - c) akinek a fizetési számláját hatósági átutalási megbízás vagy átutalási végzés alapján megterhelik,
+- 10. fogyasztó: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben (a továbbiakban: Hpt.) meghatározott fogyasztó,
+- 11. hitelesítés: olyan eljárás, amely lehetővé teszi, hogy a pénzforgalmi szolgáltató ellenőrizze a készpénz-helyettesítő fizetési eszköz használatát, ideértve annak személyes biztonsági elemeit is,
+- 12. kedvezményezett: az a jogalany, aki a fizetési művelet tárgyát képező pénz jogosultja,
+- 13. keretszerződés: a pénzforgalmi szolgáltató és az ügyfél között létrejött olyan a pénzforgalmi szolgáltatás nyújtására vonatkozó megállapodás, amely egy adott időszakra vonatkozóan meghatározza a keretszerződésen alapuló fizetési megbízások, illetve fizetési műveletek lényeges feltételeit, ideértve a fizetési számla megnyitását is,
+- 14. készpénzátutalás: a Hpt.-ben meghatározott készpénzátutalás,
+- 15. készpénz-helyettesítő fizetési eszköz: a Hpt.-ben meghatározott készpénz-helyettesítő fizetési eszköz,
+- 16. kis összegű készpénz-helyettesítő fizetési eszköz: olyan készpénz-helyettesítő fizetési eszköz, amely kizárólag kilencezer forintot meg nem haladó fizetési műveletre használható, vagy amelyen a rendelkezésre bocsátott vagy tárolt pénzérték nem haladja meg a negyvenötezer forintot,
+- 17. mikrovállalkozás: az a vállalkozás, amelynek – a keretszerződés vagy az egyszeri fizetési megbízási szerződés megkötésének időpontjában – az összes foglalkoztatotti létszáma 10 főnél kevesebb, és a szerződés megkötését megelőző üzleti évben éves árbevétele vagy mérlegfőösszege legfeljebb 2 millió euró vagy a szerződés megkötését megelőző üzleti év utolsó napján érvényes Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon számítva az ennek megfelelő forintösszeg,
+- 18. munkanap: az a nap, amelyen az ügyfél pénzforgalmi szolgáltatója fizetési művelet teljesítése céljából nyitva tart,
+- 19. pénz: bankjegy, érme, számlapénz, és az elektronikus pénz,
+- 20. pénzforgalmi számla: az a fizetési számla, amelyet a számlatulajdonos rendszeres gazdasági tevékenysége körében pénzforgalmának lebonyolítása céljából törvényben megállapított kötelezettség alapján nyit, illetve nyitott,
+- 21. pénzforgalmi szolgáltatás: a Hpt. meghatározott pénzforgalmi szolgáltatás,
+- 22. pénzforgalmi szolgáltató: az a hitelintézet, elektronikus pénzt kibocsátó szakosított hitelintézet, Posta Elszámoló Központot működtető intézmény, pénzforgalmi intézmény, Magyar Nemzeti Bank és kincstár, amely pénzforgalmi szolgáltatási tevékenységet végez,
+- 23. referencia-árfolyam: pénzforgalmi szolgáltató által közzétett vagy a nyilvánosság számára hozzáférhető pénznemek közötti mindenkori átváltási árfolyam,
+- 24. referencia-kamatláb: bármilyen alkalmazandó kamat számításának alapjául szolgáló, a nyilvánosság számára hozzáférhető mindenkori kamatláb,
+- 25. sorbaállítás: a pénzforgalmi szolgáltató által vezetett fizetési számlára érkező fizetési megbízás fedezethiány miatt történő nem teljesítése (függőben tartása) és várakozási sorba helyezése a jövőbeni teljesítés céljából, ide nem értve azt az esetet, amikor a fizető fél az ütemezett fizetések céljából, a beérkezett fizetési műveletek tervszerű teljesítése érdekében sorba helyezésről állapodik meg a pénzforgalmi szolgáltatóval,
+- 26. tartós adathordozó: olyan eszköz, amely az ügyfél számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését,
+- 27. távközlő eszköz: bármely eszköz, amely alkalmas a felek távollétében – a keretszerződés megkötése, valamint az egyszeri fizetési megbízási szerződés érdekében – szerződési nyilatkozat megtételére,
+- 28. ügyfél: a fizető fél és a kedvezményezett,
+- 29. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat.
+
+### II. Fejezet — AZ ÜGYFELEK TÁJÉKOZTATÁSÁNAK, SZERZŐDÉSKÖTÉSÉNEKÉS SZERZŐDÉSMÓDOSÍTÁSÁNAKKÖZÖS SZABÁLYAI
+
+3. § (1) A II–VI. Fejezet rendelkezései a pénzforgalmi szolgáltatás nyújtására irányuló
+
+- a) keretszerződésre,
+- b) keretszerződésen alapuló fizetési megbízásra, valamint
+- c) nem keretszerződésen alapuló, egyszeri fizetési megbízásra (a továbbiakban: egyszeri fizetési megbízás)
+
+vonatkoznak.
+
+(2) Ha az ügyfél fogyasztó vagy mikrovállalkozás, a II–III. és V–VI. Fejezet rendelkezéseitől hátrányukra eltérni nem lehet.
+
+(3) A felek a IV. Fejezet rendelkezéseitől nem térhetnek el.
+
+4. § (1) A pénzforgalmi szolgáltató a II–III. és V–VI. Fejezetben előírt kötelező tájékoztatási kötelezettségének teljesítéséért az ügyfél terhére nem számíthat fel külön díjat, költséget vagy egyéb fizetési kötelezettséget.
+
+(2) A felek a szerződésben kiköthetik, hogy a pénzforgalmi szolgáltató az ügyfél kérésére történő, a 24. §-ban és a 27. §-ban meghatározottnál gyakoribb, részletesebb vagy a keretszerződésben meghatározottól eltérő távközlő eszköz használatával való tájékoztatás nyújtásáért ellenértékre jogosult. Az ellenérték a pénzforgalmi szolgáltató tájékoztatása nyújtásának tényleges és közvetlenül felmerülő költségeinek felel meg.
+
+5. § A tájékoztatásra vonatkozó kötelezettség teljesítése tekintetében a bizonyítás a pénzforgalmi szolgáltatót terheli.
+
+6. § (1) Ha a fizetési művelethez kapcsolódó pénznemek közötti átváltásra a fizetési megbízás megadása előtt kerül sor, és a pénznemek közötti átváltás a fizetés helyén vagy a kedvezményezett által történik, a pénznemek közötti átváltást végző köteles tájékoztatni a fizető felet a fizetési megbízásra irányuló jognyilatkozatát megelőzően az alkalmazandó átváltási árfolyamról és valamennyi ehhez kapcsolódó díjról, költségről vagy egyéb fizetési kötelezettségről.
+
+(2) Az (1) bekezdés szerinti tájékoztatást követően a pénznemek közötti átváltást a fizető félnek jóvá kell hagynia.
+
+7. § (1) Ha a kedvezményezett a készpénz-helyettesítő fizetési eszköz használatáért díjat, költséget vagy egyéb fizetési kötelezettséget számít fel vagy kedvezményt nyújt, köteles erről a fizető felet a fizetési megbízásra irányuló jognyilatkozatát megelőzően tájékoztatni.
+
+(2) Ha a pénzforgalmi szolgáltató vagy harmadik személy a készpénz-helyettesítő fizetési eszköz használatáért külön díjat, költséget vagy egyéb fizetési kötelezettséget számít fel, köteles erről az ügyfelet a fizetési megbízásra irányuló jognyilatkozatát megelőzően tájékoztatni.
+
+### III. Fejezet — KERETSZERZŐDÉS
+
+### Szerződéskötést megelőző tájékoztatás
+
+8. § (1) A pénzforgalmi szolgáltató az ügyfelet az ügyfél keretszerződés-kötésre irányuló jognyilatkozatát megelőzően, kellő időben köteles papíron vagy tartós adathordozón a 10. §-ban foglaltakról tájékoztatni.
+
+(2) A pénzforgalmi szolgáltató e tájékoztatási kötelezettségének egyértelműen, közérthetően és pontosan, a magyar nyelven vagy az ügyféllel történt megállapodásban kikötött más nyelven tesz eleget.
+
+(3) A pénzforgalmi szolgáltató e tájékoztatási kötelezettségének a keretszerződés egy példányának átadásával is eleget tehet, ha az tartalmazza a 10. §-ban meghatározott adatokat.
+
+9. § Ha a keretszerződés megkötése az ügyfél kérése alapján olyan távközlő eszköz útján történik, amely az előzetes tájékoztatást nem teszi lehetővé, a pénzforgalmi szolgáltató a keretszerződés megkötését követően haladéktalanul köteles a 8. § szerinti tájékoztatást megadni.
+
+10. § (1) A pénzforgalmi szolgáltató a következő adatokról tájékoztatja az ügyfelet:
+
+- a) a szolgáltatóra vonatkozóan:
+  - aa) a szolgáltató cégnevéről és székhelyéről,
+  - ab) a szolgáltató – az ügyfél lakóhelye vagy székhelye szerinti EGT-államban székhellyel rendelkező – fióktelepének vagy közvetítőjének címéről,
+  - ac) ügyféllel való egyéb kapcsolattartás (ideértve az elektronikus levelezést) címéről, valamint
+  - ad) a szolgáltató cégjegyzékszámáról vagy bírósági nyilvántartásba vételi számáról, és a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) által kiadott tevékenységi engedély számáról, vagy törzskönyvi nyilvántartási számáról;
+- b) a szolgáltatásra vonatkozóan:
+  - ba) a szolgáltatás lényeges jellemzőiről,
+  - bb) azokról az adatokról vagy egyedi azonosítóról, amelyek a fizetési megbízás teljesítéséhez szükségesek,
+  - bc) a fizetési művelet teljesítéséhez szükséges jóváhagyásnak és a jóváhagyás visszavonásának módjáról,
+  - bd) a fizetési megbízás átvételének időpontjáról és esetlegesen a szolgáltató általi tárgynapi teljesítésre történő befogadás végső időpontjáról,
+  - be) a szolgáltatás teljesítésének időtartamáról, valamint
+  - bf) a készpénz-helyettesítő fizetési eszköz használatára vonatkozó fizetési műveleti értékhatár lehetőségeiről;
+- c) az ellenszolgáltatásra vonatkozóan:
+  - ca) tételesen a szolgáltató részére fizetendő valamennyi jutalékról, díjról, költségről vagy egyéb fizetési kötelezettségről,
+  - cb) a szolgáltató által, a fizetési művelet teljesítése során alkalmazandó kamatlábakról és átváltási árfolyamokról, vagy referencia-kamatláb és referencia-árfolyam alkalmazása esetén a tényleges kamat kiszámításának módjáról, és a referencia-kamatláb vagy átváltási árfolyam megállapításának időpontjáról, indexéről vagy alapjáról, valamint
+  - cc) erre vonatkozó megállapodás esetén – a 15. § (4) bekezdésével összhangban – a referencia-kamatláb vagy referencia-árfolyam változásának azonnali alkalmazásáról és az ehhez kapcsolódó tájékoztatási kötelezettségéről;
+- d) a kapcsolattartásra vonatkozóan:
+  - da) a kapcsolattartás módjáról, ideértve az ügyfél által használt azon eszközök műszaki követelményeit is, amely útján a szolgáltató tájékoztatási kötelezettségének eleget tesz,
+  - db) a szolgáltató tájékoztatási kötelezettségének és a szerződési feltételek rendelkezésre bocsátásának módjáról és gyakoriságáról,
+  - dc) a szerződéskötés és a szerződés fennállása alatti kapcsolattartás nyelvéről, valamint
+  - dd) az ügyfelet megillető, a 11. §-ban meghatározott tájékoztatáshoz való jogáról;
+- e) a biztonsági intézkedésre és a felelősségre vonatkozóan:
+  - ea) az ügyfélnek a 40. §-ban meghatározott bejelentési kötelezettségéről és a készpénz-helyettesítő fizetési eszköz biztonságos kezelésére vonatkozó kötelezettségeiről,
+  - eb) erre vonatkozó megállapodás esetén a szolgáltatót megillető, a készpénz-helyettesítő fizetési eszközre vonatkozó zárolási lehetőségéről,
+  - ec) a fizető felet terhelő, a 45. §-ban meghatározott felelősségi szabályokról,
+  - ed) az ügyfelet terhelő, a 42. § (1) bekezdésében meghatározott, jóvá nem hagyott vagy hibásan teljesített fizetési műveletre vonatkozó tájékoztatási kötelezettségéről és a jóvá nem hagyott fizetési műveletekre vonatkozó szolgáltatói felelősségről,
+  - ee) a szolgáltatónak a fizetési művelet teljesítéséért a 49–51. §-ban meghatározott felelősségéről, valamint
+  - ef) a 45. §-ban és a 46. §-ban meghatározott visszafizetési feltételekről;
+- f) a keretszerződés módosítására és megszüntetésére vonatkozóan:
+  - fa) arról, hogy a 15. § szerinti szerződésmódosítást az ügyfél részéről csak akkor lehet elfogadottnak tekinteni, ha annak hatálybalépése előtt a szolgáltatót nem tájékoztatta arról, hogy a módosítást nem fogadja el,
+  - fb) a szerződés időtartamáról, valamint
+  - fc) az ügyfelet megillető, a keretszerződésre vonatkozó felmondási jogról és annak következményeiről;
+- g) a jogorvoslatra vonatkozóan:
+  - ga) a jogválasztásról, a kizárólagos hatáskör és illetékesség kikötéséről, valamint
+  - gb) a szerződésből eredő jogviták peren kívüli elintézésére rendelkezésre álló fórumokról.
+
+(2) A pénzforgalmi szolgáltató nem köteles az (1) bekezdés b) pontjának be) alpontja és c) pontjának ca) alpontja szerinti tájékoztatást megadni, ha
+
+- a) a kedvezményezett pénzforgalmi szolgáltatójának székhelye nem EGT-állam területén található, vagy a fizetési művelet teljesítése nem EGT-állam pénznemében történik, és
+- b) az adatok nem állnak a pénzforgalmi szolgáltató részére rendelkezésre.
+
+11. § A szerződés fennállása alatt az ügyfél kérésére a pénzforgalmi szolgáltató bármikor köteles a szerződési feltételeket és a 10. § szerinti adatokat papíron vagy tartós adathordozón rendelkezésre bocsátani.
+
+12. § (1) Kis összegű készpénz-helyettesítő fizetési eszközre vonatkozó keretszerződés alapján a felek megállapodhatnak arról, hogy a pénzforgalmi szolgáltató a 8–10. §-ban és a 22. §-ban meghatározott tájékoztatástól eltérően az ügyfelet a következő adatokról tájékoztatja:
+
+- a) a szolgáltatás lényeges jellemzőiről, ideértve a készpénz-helyettesítő fizetési eszköz használatának módjáról,
+- b) tételesen a szolgáltató részére fizetendő valamennyi díjról, költségről vagy egyéb fizetési kötelezettségről,
+- c) minden olyan adatról, amely a megalapozott döntéshozatalhoz szükséges, valamint
+- d) a 10. §-ban meghatározott adatok honlapon és az ügyfelek számára nyitva álló helységben való kifüggesztéssel való hozzáférhetővé tételéről.
+
+(2) A pénzforgalmi szolgáltató nem köteles az (1) bekezdés b) pontja szerinti tájékoztatást megadni, ha
+
+- a) a kedvezményezett pénzforgalmi szolgáltatójának székhelye nem EGT-állam területén található, vagy a kis összegű készpénz-helyettesítő fizetési eszközzel teljesített fizetési művelet nem EGT-állam pénznemében történik, és
+- b) az adatok nem állnak a pénzforgalmi szolgáltató részére rendelkezésre.
+
+### Szerződés formai és tartalmi követelményei
+
+13. § A pénzforgalmi szolgáltatási keretszerződést írásban kell megkötni.
+
+14. § (1) A pénzforgalmi szolgáltatási keretszerződés tartalmazza
+
+- a) a szolgáltató cégnevét, székhelyét és az ügyfél lakóhelye vagy székhelye szerinti EGT-államban székhellyel rendelkező fióktelepének vagy közvetítőjének címét, valamint az ügyféllel való egyéb kapcsolattartás (ideértve az elektronikus levelezést) címét,
+- b) a szolgáltató cégjegyzékszámát vagy bírósági nyilvántartásba vételi számát, és a Felügyelet által kiadott tevékenységi engedély számát vagy törzskönyvi nyilvántartási számát,
+- c) a szolgáltatás lényeges jellemzőit és teljesítésének időtartamát,
+- d) azokat az adatokat vagy egyedi azonosítót, amelyek a fizetési megbízás teljesítéséhez szükségesek,
+- e) a fizetési művelet teljesítéséhez szükséges jóváhagyásnak és a jóváhagyás visszavonásának módját,
+- f) a fizetési megbízás átvételének időpontját és esetlegesen a szolgáltató általi tárgynapi teljesítésre történő befogadás végső időpontját,
+- g) a készpénz-helyettesítő fizetési eszköz használatát és a használatára vonatkozó fizetési műveleti értékhatár lehetőségét,
+- h) tételesen a szolgáltató részére fizetendő valamennyi jutalékot, díjat, költséget vagy egyéb fizetési kötelezettséget,
+- i) a szolgáltató által, a fizetési művelet teljesítése során alkalmazott kamatlábakat és átváltási árfolyamokat, vagy referencia-kamatláb és referencia-árfolyam alkalmazása esetén a tényleges kamat kiszámításának módját, és a referencia-kamatláb vagy átváltási árfolyam megállapításának időpontját, indexét vagy alapját és nyilvánosságra hozatalának helyét; valamint erre vonatkozó megállapodás esetén – a 15. § (4) bekezdésével összhangban – a referencia-kamatláb vagy referencia-árfolyam változásának azonnali alkalmazását és az ehhez kapcsolódó tájékoztatási kötelezettséget,
+- j) a kapcsolattartás módját, ideértve az ügyfél által használt azon eszközök műszaki követelményeit is, amelyek útján a szolgáltató tájékoztatási kötelezettségének eleget tesz,
+- k) a szolgáltató tájékoztatási kötelezettségének és a szerződési feltételek rendelkezésre bocsátásának módját és gyakoriságát, valamint az ügyfelet megillető, a 11. § szerinti és a 22. § szerinti tájékoztatáshoz való jogát,
+- l) a szerződéskötés és a szerződés fennállása alatti kapcsolattartás nyelvét,
+- m) az ügyfél a 40. § (2) bekezdésében meghatározott bejelentési kötelezettségét és a készpénz-helyettesítő fizetési eszköz biztonságos kezelésére vonatkozó kötelezettségeket,
+- n) a szolgáltató készpénz-helyettesítő fizetési eszközre vonatkozó zárolási lehetőségét, ha a felek erről megállapodtak,
+- o) a fizető felet terhelő, a 45. §-ban meghatározott felelősségi szabályokat,
+- p) az ügyfelet terhelő, a 42. § (1) bekezdésében meghatározott, a jóvá nem hagyott vagy hibásan teljesített fizetési műveletre vonatkozó tájékoztatási kötelezettséget, és a jóvá nem hagyott fizetési műveletekre vonatkozó szolgáltatói felelősséget, valamint a szolgáltatónak a fizetési művelet teljesítéséért a 44. §-ban és a 49–51. §-ban meghatározott felelősségét, és a 46. §-ban és a 47. §-ban meghatározott visszafizetési feltételeket,
+- q) a szolgáltató által kezdeményezett szerződésmódosítás hatálybalépésének feltételeit, ideértve a módosítás elfogadásával kapcsolatos szabályokat is,
+- r) a szerződés időtartamát,
+- s) az ügyfelet megillető, a keretszerződésre vonatkozó felmondási jogot és annak következményeit,
+- t) a jogválasztást, a kizárólagos hatáskör és illetékesség kikötését,
+- u) a szerződésből eredő jogviták peren kívüli elintézésére rendelkezésre álló fórumokat, valamint
+- v) a szolgáltató adatkezelési és adattovábbítási jogosultságát a fizetéssel kapcsolatos csalások valamint a készpénz-helyettesítő fizetési eszközzel történő visszaélések megelőzése, vizsgálata és felderítése céljából, és ennek szabályait.
+
+(2) A pénzforgalmi szolgáltatási keretszerződés nem tartalmazza a szolgáltatás teljesítésének időtartamát és tételesen a szolgáltató részére fizetendő valamennyi jutalékot, díjat, költséget vagy egyéb fizetési kötelezettséget, ha
+
+- a) a kedvezményezett pénzforgalmi szolgáltatójának székhelye nem EGT-állam területén található, vagy a fizetési művelet teljesítése nem EGT-állam pénznemében történik, és
+- b) az adatok nem állnak a pénzforgalmi szolgáltató részére rendelkezésre.
+
+### Szerződés módosítása és megszüntetése
+
+15. § (1) A keretszerződés módosítását a pénzforgalmi szolgáltató kizárólag a 8. §-ban meghatározott módon kezdeményezheti a módosítás hatálybalépését megelőzően legalább két hónappal.
+
+(2) Az (1) bekezdésben meghatározott határidő azon a napon jár le, amely számánál fogva a kezdőnapnak megfelel, ha pedig ez a nap a lejárat hónapjában hiányzik, a hó utolsó napján.
+
+(3) A keretszerződés módosításának kezdeményezése esetén a pénzforgalmi szolgáltató köteles az ügyfelet tájékoztatni arról, hogy a módosítást az ügyfél részéről akkor lehet elfogadottnak tekinteni, ha annak hatálybalépése előtt a szolgáltatót nem tájékoztatta arról, hogy a módosítást nem fogadja el. A tájékoztatásnak arra is ki kell terjednie, hogy a módosítás hatálybalépése előtti napig az ügyfél jogosult a keretszerződés azonnali és díj-, költség- vagy egyéb fizetési kötelezettségmentes felmondására.
+
+(4) A kamatláb vagy átváltási árfolyam módosítására a (2) bekezdés szerinti értesítés nélkül és azonnal is sor kerülhet, ha a felek ezt a lehetőséget a keretszerződésben kikötötték, és a változások a 10. § c) pontjának cb) pontjában meghatározott referencia-kamatlábon vagy referencia-árfolyamon alapulnak.
+
+(5) A pénzforgalmi szolgáltató a kamatláb változásáról az ügyfelet a 8. §-ban és a 9. §-ban meghatározott módon köteles tájékoztatni kivéve, ha a keretszerződés szerint abban állapodtak meg, hogy a pénzforgalmi szolgáltató a tájékoztatást az ügyfél részére meghatározott gyakorisággal és módon adja meg. A kamat vagy árfolyam ügyfél számára előnyös változása esetén a pénzforgalmi szolgáltatót tájékoztatási kötelezettség nem terheli.
+
+16. § Kis összegű készpénz-helyettesítő fizetési eszközre vonatkozó keretszerződés alapján a felek megállapodhatnak arról, hogy a pénzforgalmi szolgáltató nem köteles a keretszerződés módosítását a 8. §-ban meghatározott módon kezdeményezni.
+
+17. § (1) Felmondási idő kikötésének hiányában az ügyfél a keretszerződést bármikor, azonnali hatállyal felmondhatja. Egy hónapnál hosszabb felmondási idő kikötése semmis.
+
+(2) Ha a keretszerződés határozatlan idejű vagy egy évet meghaladó időtartamra szól, a keretszerződést az ügyfél az első év elteltével díj-, költség- vagy egyéb fizetési kötelezettségmentesen felmondhatja.
+
+(3) A (2) bekezdésen kívül az ügyfél felmondása esetén a pénzforgalmi szolgáltató az ügyféltől ellenértékre jogosult. Az ellenérték nem haladhatja meg a felmondás tényleges és közvetlenül felmerülő költségeit. E tekintetben a pénzforgalmi szolgáltatónak az ügyfél felé elszámolási kötelezettsége áll fenn.
+
+(4) A felek a keretszerződésben kiköthetik, hogy a határozatlan idejű keretszerződést a pénzforgalmi szolgáltató a 8. §-ban meghatározott módon felmondhatja. Két hónapnál rövidebb felmondási idő kikötése semmis kivéve, ha az ügyfél a keretszerződésben foglalt kötelezettségét súlyosan vagy ismételten megszegte.
+
+(5) A keretszerződés felmondása, megszűnése esetén a felek kötelesek egymással elszámolni.
+
+(6) A keretszerződés felmondása, megszűnése esetén a pénzforgalmi szolgáltató kizárólag a keretszerződésnek megfelelően, ténylegesen teljesített szolgáltatás arányos ellenértékére jogosult.
+
+(7) Az elszámolás a felmondással egyidejűleg, vagy ha a felek a keretszerződésben felmondási időt kötöttek ki, a felmondási idő utolsó napjáig történik.
+
+### IV. Fejezet — FIZETÉSI SZÁMLA MEGNYITÁSA,FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
+
+18. § (1) Pénzforgalmi számlát a pénzforgalmi szolgáltató akkor nyithat, ha
+
+- a) jogi személy és a jogi személyiséggel nem rendelkező gazdasági társaság létrejöttéhez szükséges nyilvántartásba (a továbbiakban: nyilvántartás) már bejegyzett vállalkozás a nyilvántartást vezető szervezettől származó, harminc napnál nem régebbi okirattal igazolta, hogy a nyilvántartásban szerepel, valamint adószámát és statisztikai számjelét közölte,
+- b) a nyilvántartásba még be nem jegyzett jogi személy és a jogi személyiséggel nem rendelkező gazdasági társaság létesítő okiratát (társasági szerződését) egy másolati példányban átadta, valamint – ha cégbejegyzésre kötelezett és a pénzforgalmi számla megnyitása nem feltétele a cégbejegyzési kérelem benyújtásának – csatolta a cégbejegyzési kérelem benyújtása során a cégbíróságtól kapott elektronikus tanúsítványt vagy annak hiteles papír alapú másolatát,
+- c) az általános forgalmi adó fizetésére kötelezett természetes személy, illetve az általános forgalmi adó fizetésére kötelezett egyéni vállalkozó az Adó- és Pénzügyi Ellenőrzési Hivatalnál történt nyilvántartásba vételéről szóló okirat másolati példányát átadta, egyéni vállalkozó az egyéni vállalkozói, illetőleg a tevékenység végzéséhez szükséges más igazolvány másolatát csatolta.
+
+(2) Fizetési számlát a pénzforgalmi szolgáltató akkor nyithat, ha a pénzforgalmi számla nyitására nem kötelezett – a jogi formájára vonatkozó előírások szerint – a létrejöttére, illetve nyilvántartásba vételére vonatkozó okmányokat, iratokat bemutatta.
+
+(3) A pénzforgalmi számlát a pénzforgalmi szolgáltató azonnali hatállyal megszünteti, ha a számla megnyitását követő kilencven napon belül a pénzforgalmi számlanyitásra kötelezett szervezet a nyilvántartást vezető szervezettől származó, harminc napnál nem régebbi okirattal nem igazolja, hogy a nyilvántartásban szerepel.
+
+(4) Az (1) bekezdés b) pontja alapján:
+
+- a) gazdasági társaság és szövetkezet részére megnyitott pénzforgalmi számla terhére, illetve – az alapítói vagyon kivételével – javára fizetési megbízást teljesíteni mindaddig nem lehet, amíg a számlatulajdonos nem igazolta, hogy nyilvántartásba történő bejegyzése iránti kérelmét benyújtotta, valamint adószámát és statisztikai számjelét nem közölte,
+- b) nyilvántartásba vétellel létrejövő egyéb jogi személyek részére megnyitott pénzforgalmi számla terhére, illetve – az alapítói vagyon kivételével – javára fizetési megbízást teljesíteni az a) pontban meghatározott feltételek teljesítése esetén is kizárólag a nyilvántartásba vétel megtörténtének igazolását követően lehet.
+
+19. § (1) A fizetési számla felett természetes személy számlatulajdonos a fizetési számlaszerződésben meghatározott módon, önállóan vagy más személlyel együttesen vagy külön-külön rendelkezhet.
+
+(2) Jogi személy és a jogi személyiséggel nem rendelkező gazdasági társaság a pénzforgalmi számla feletti rendelkezéséhez a nyilvántartásba bejegyzett, illetőleg bejegyzésre bejelentett teljes vagy rövidített nevének (cégnevének) betű szerinti használata, valamint a számlatulajdonos által a pénzforgalmi számla feletti rendelkezésre bejelentett személy vagy személyek aláírása szükséges. Az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) szerinti egyéb szervezet a létesítő okiratában, ennek hiányában a fizetési számlaszerződésben meghatározott módon rendelkezhet fizetési számlája felett.
+
+(3) A számlatulajdonos vagy a képviseletében jogszabály alapján eljárni jogosult személy által feljogosított rendelkezésre jogosult rendelkezési joga bármikor visszavonható vagy – a fizetési számlaszerződésben meghatározott esetben és módon – korlátozható.
+
+(4) A pénzforgalmi szolgáltató a tőle elvárható gondossággal köteles biztosítani, hogy a rendelkezési jogosultságot csak a számlatulajdonos és az általa feljogosított gyakorolhassa.
+
+(5) A rendelkezési jog gyakorlása során a pénzforgalmi szolgáltató a tőle elvárható gondossággal köteles ellenőrizni, hogy a megbízáson feltüntetett aláírás [ideértve személyazonosító kódot (PIN kód) vagy egyéb kódot] megegyezik-e a rendelkezésre jogosult pénzforgalmi szolgáltató bejelentett aláírásával [személyazonosító kódjával (PIN kód) vagy egyéb kódjával].
+
+20. § (1) A számlatulajdonos szervezet jogi formáját szabályozó jogszabályban a szervezet képviseletére jogszabály erejénél fogva jogosultként meghatározott személy (e § alkalmazásában a továbbiakban: vezető) – a pénzforgalmi szolgáltató által rendszeresített módon – írásban jelenti be (e § alkalmazásában a továbbiakban: bejelentés) a fizetési számla felett rendelkezni jogosultat. A pénzforgalmi szolgáltató nem vizsgálja, hogy a számlatulajdonos, illetve a vezető által a fizetési számla feletti rendelkezésre bejelentett személy az egyéb jogszabályokban előírt feltételeknek megfelel-e.
+
+(2) A vezető bejelentési, illetve rendelkezési jogosultságát abban az esetben gyakorolhatja, ha a megválasztását (kinevezését), valamint aláírását – a szervezet jogi formájára vonatkozó sajátosságok figyelembevételével – hitelt érdemlő módon (pl. illetékes cégbíróság által érkeztetett bejegyzési vagy változásbejegyzési kérelemmel és aláírási címpéldánnyal) igazolja. A pénzforgalmi szolgáltató nem felel a változásbejegyzési kérelem utóbb történő elutasítása esetén a számlatulajdonosnál bekövetkező károkért. Ha a vezető megbízatása megszűnik, az általa bejelentett aláírók rendelkezési joga mindaddig érvényes, amíg az új vagy más vezető másként nem rendelkezik.
+
+(3) Ha a számlatulajdonos szervezet jogi formáját szabályozó jogszabályból következően a szervezetnek több, önálló képviseleti joggal rendelkező vezetője van, bármelyik vezető bejelentése érvényes. Ha a számlatulajdonos szervezet létesítő okirata alapján a vezetők közül egy vagy több személy kizárólagosan jogosult a bejelentésre, akkor az általuk tett bejelentés az érvényes. Több egymásnak ellentmondó bejelentés közül a legutolsó bejelentés az érvényes. Együttes képviseleti jog esetében a jogosultak a bejelentést csak együttesen tehetik meg.
+
+(4) Ha vitatott a bejelentő jogosultsága a szervezet képviseletére, a pénzforgalmi szolgáltató a bejelentés szempontjából a szervezet képviseletére jogosultnak tekinti a bejelentőt mindaddig, amíg a szervezet nyilvántartására vonatkozó jogszabályok szerint a szervezet képviseletére jogosult.
+
+21. § (1) A számlatulajdonos a fizetési számlája felett – a (2) bekezdésben meghatározott kivétellel – szabadon rendelkezik.
+
+(2) A meghatározott célból elkülönített, a számlatulajdonos szabad rendelkezése alól kikerült pénzeszközök az elkülönítés tartama alatt csak a meghatározott célra használhatók fel.
+
+(3) A fizetési számlaszerződésre a Polgári Törvénykönyvben foglalt bankszámlaszerződésre vonatkozó szabályokat kell alkalmazni azzal, hogy a hitelintézetnek nem minősülő pénzforgalmi szolgáltató a fizetési számlára befolyó pénzeszközöket nem használhatja.
+
+### V. Fejezet — KERETSZERZŐDÉSEN ALAPULÓ FIZETÉSI MEGBÍZÁS
+
+### Előzetes tájékoztatás
+
+22. § (1) A pénzforgalmi szolgáltató – a fizető fél kérésére – a fizető fél keretszerződésen alapuló fizetési megbízásra irányuló jognyilatkozatát megelőzően a következő adatokról köteles a fizető felet tájékoztatni:
+
+- a) a szolgáltatás teljesítésének időtartamáról, és
+- b) tételesen a szolgáltató részére fizetendő valamennyi díjról, költségről vagy fizetési kötelezettségről.
+
+(2) A pénzforgalmi szolgáltató nem köteles az (1) bekezdés szerinti tájékoztatást megadni, ha
+
+- a) a kedvezményezett pénzforgalmi szolgáltatójának székhelye nem EGT-állam területén található, vagy a fizetési művelet teljesítése nem EGT-állam pénznemében történik, és
+- b) az adatok nem állnak a pénzforgalmi szolgáltató részére rendelkezésre.
+
+### Utólagos tájékoztatás
+
+23. § (1) A pénzforgalmi szolgáltató a keretszerződésen alapuló fizetési megbízás alapján a fizető fél számlájának megterhelését követően, vagy ha a fizető fél a fizetést nem a fizetési számlán keresztül bonyolítja, a fizetési megbízás átvételét követően a következő adatokról köteles a fizető felet haladéktalanul tájékoztatni:
+
+- a) a fizetési művelet azonosítását lehetővé tevő hivatkozásról, és esetlegesen a kedvezményezett adatairól,
+- b) a fizetési művelet fizetési megbízásban meghatározott devizanemben számított összegéről,
+- c) tételesen a fizető fél által a pénzforgalmi szolgáltató részére fizetendő valamennyi díjról, költségről vagy egyéb fizetési kötelezettségről,
+- d) a pénzforgalmi szolgáltató által, a fizetési művelet teljesítése során alkalmazott átváltási árfolyamról és az átváltást megelőző összegről, valamint
+- e) a fizetési megbízás átvételének napjáról vagy a terhelés értéknapjáról.
+
+(2) A pénzforgalmi szolgáltató az (1) bekezdésben meghatározott tájékoztatást a 8. § (1) és (2) bekezdésében meghatározott módon köteles a fizető fél rendelkezésére bocsátani.
+
+24. § (1) A felek a keretszerződésben megállapodhatnak arról, hogy – a 23. §-ban foglalt haladéktalan tájékoztatástól eltérően – a 23. § (1) bekezdésének a)–e) pontjában meghatározott tájékoztatást a pénzforgalmi szolgáltató a fizető fél részére legalább havonta egy alkalommal átadja vagy rendelkezésre bocsátja, oly módon, hogy a fizető fél az adatokat az adatok céljának megfelelő ideig tartósan tárolhassa, és a tárolt adatokat változatlan formában és tartalommal megjeleníthesse.
+
+(2) Ha a fizető fél fogyasztó, kérelmére a pénzforgalmi szolgáltató a fizető fél részére havonta legalább egy alkalommal papíron díj-, költség- vagy egyéb fizetési kötelezettségmentesen átadja a 23. §-ban meghatározott adatokat.
+
+25. § (1) Kis összegű készpénz-helyettesítő fizetési eszközre vonatkozó keretszerződés alapján a felek megállapodhatnak arról, hogy a pénzforgalmi szolgáltató a 23. §-ban és a 24. §-ban, valamint a 26. §-ban és a 27. §-ban foglalt tájékoztatási szabályoktól eltérően olyan eljárást biztosít az ügyfél számára, amely segítségével az ügyfél a következő adatok birtokába jut:
+
+- a) a teljesített fizetési művelet azonosítását lehetővé tevő hivatkozás és a fizetési művelet összege,
+- b) a szolgáltató részére fizetendő valamennyi díj, költség vagy egyéb fizetési kötelezettség,
+- c) azonos kedvezményezett részére történő többszöri vagy azonos típusú fizetés esetén a fizetési műveletek összege, valamint
+- d) a szolgáltató részére, a c) pont esetében fizetendő összesített díj, költség vagy egyéb fizetési kötelezettség.
+
+(2) Ha az ügyfél olyan kis összegű készpénz-helyettesítő fizetési eszközt használ, amely az ügyfél beazonosíthatóságát nem teszi lehetővé vagy a pénzforgalmi szolgáltató a név szerinti azonosítást műszaki okból nem tudja elvégezni, a pénzforgalmi szolgáltató az (1) bekezdésben foglalt tájékoztatást sem köteles az ügyfél rendelkezésére bocsátani.
+
+(3) A pénzforgalmi szolgáltató bármikor köteles a fizető fél részére lehetővé tenni a készpénz-helyettesítő fizetési eszközön tárolt vagy rendelkezésre bocsátott pénzösszeg nagyságának ellenőrzését.
+
+### Kedvezményezett tájékoztatása
+
+26. § (1) A kedvezményezett pénzforgalmi szolgáltatója a keretszerződésen alapuló fizetési művelet teljesítését követően a következő adatokról köteles a kedvezményezettet haladéktalanul tájékoztatni:
+
+- a) a fizetési művelet és a fizető fél kedvezményezett általi beazonosíthatóságát lehetővé tevő hivatkozásról, valamint a fizetési művelettel továbbított egyéb információkról,
+- b) a fizetési műveletnek a kedvezményezett fizetési számláján jóváírt devizanemben meghatározott összegéről,
+- c) tételesen a kedvezményezett által a kedvezményezett pénzforgalmi szolgáltatója részére fizetendő valamennyi díjról, költségről vagy egyéb fizetési kötelezettségről,
+- d) a kedvezményezett pénzforgalmi szolgáltatója által, a fizetési művelet teljesítése során alkalmazott átváltási árfolyamról és az átváltást megelőző összegről, valamint
+- e) a fizetési számlán történő jóváírás értéknapjáról.
+
+(2) A kedvezményezett pénzforgalmi szolgáltatója az (1) bekezdésben meghatározott tájékoztatást a 8. § (1) és (2) bekezdésében meghatározott módon köteles a kedvezményezett rendelkezésére bocsátani.
+
+27. § (1) A felek a keretszerződésben megállapodhatnak arról, hogy – a 26. §-ban foglalt haladéktalan tájékoztatástól eltérően – a 26. § (1) bekezdésének a)–e) pontjában meghatározott tájékoztatást a pénzforgalmi szolgáltató a kedvezményezett részére legalább havonta egy alkalommal átadja vagy rendelkezésre bocsátja, oly módon, hogy a kedvezményezett az adatokat az adatok céljának megfelelő ideig tartósan tárolhassa, és a tárolt adatokat változatlan formában és tartalommal megjeleníthesse.
+
+(2) Ha a kedvezményezett fogyasztó, kérelmére a kedvezményezett pénzforgalmi szolgáltatója a kedvezményezett részére havonta legalább egy alkalommal papíron díj-, költség- vagy egyéb fizetési kötelezettségmentesen átadja a 26. §-ban meghatározott adatokat.
+
+### VI. Fejezet — EGYSZERI FIZETÉSI MEGBÍZÁS
+
+28. § A pénzforgalmi szolgáltató nem köteles olyan adatokról tájékoztatni az ügyfelet, amelyeket az ügyfél egy másik pénzforgalmi szolgáltatóval kötött keretszerződés alapján – annak jogszabályon alapuló tájékoztatási kötelezettségének teljesítése alapján – már megkapott vagy a keretszerződés szerint meg fog kapni, ha az egyszeri fizetési megbízásra e keretszerződésben meghatározott készpénz-helyettesítő fizetési eszközzel kerül sor.
+
+### Előzetes tájékoztatás
+
+29. § (1) A pénzforgalmi szolgáltató az ügyfelet az ügyfél egyszeri fizetési megbízásra irányuló jognyilatkozatát megelőzően köteles a 31. §-ban foglaltakról honlapján és az ügyfelek számára nyitva álló helységben kifüggesztve tájékoztatni.
+
+(2) A pénzforgalmi szolgáltató e tájékoztatási kötelezettségének egyértelműen, közérthetően és pontosan, magyar nyelven vagy az ügyféllel történt megállapodásban kikötött más nyelven tesz eleget.
+
+(3) A pénzforgalmi szolgáltató e tájékoztatási kötelezettségének az egyszeri fizetési megbízási szerződés egy példányának rendelkezésre bocsátásával is eleget tehet, ha az tartalmazza a 31. §-ban meghatározott adatokat.
+
+(4) Az ügyfél kérésére a pénzforgalmi szolgáltató köteles a tájékoztatást és a szerződési feltételeket papíron vagy tartós adathordozón átadni.
+
+30. § Ha az egyszeri fizetési megbízás az ügyfél kérése alapján olyan távközlő eszköz útján történik, amely az előzetes tájékoztatást nem teszi lehetővé, a pénzforgalmi szolgáltató a fizetési megbízás teljesítését követően haladéktalanul köteles a 31. § szerinti tájékoztatást megadni.
+
+31. § (1) A pénzforgalmi szolgáltató a következő adatokról köteles az ügyfelet tájékoztatni:
+
+- a) azokról az adatokról vagy egyedi azonosítóról, amelyek a fizetési megbízás teljesítéséhez szükségesek,
+- b) a pénzforgalmi szolgáltatás teljesítésének időpontjáról,
+- c) tételesen az ügyfél által a pénzforgalmi szolgáltató részére fizetendő valamennyi díjról, költségről vagy egyéb fizetési kötelezettségről, és
+- d) a pénzforgalmi szolgáltató által a fizetési művelet teljesítése során alkalmazandó tényleges vagy referencia-árfolyamról.
+
+(2) Az (1) bekezdésben meghatározott adatokon túl a pénzforgalmi szolgáltató köteles a 10. §-ban meghatározott adatokról az ügyfelet honlapján és az ügyfelek számára nyitva álló helységben kifüggesztve tájékoztatni.
+
+(3) A pénzforgalmi szolgáltató nem köteles az (1) bekezdés b) és c) pontja szerinti tájékoztatást megadni, ha
+
+- a) a kedvezményezett pénzforgalmi szolgáltatójának székhelye nem EGT-állam területén található, vagy a fizetési művelet teljesítése nem EGT-állam pénznemében történik, és
+- b) az adatok nem állnak a pénzforgalmi szolgáltató részére rendelkezésre.
+
+### Utólagos tájékoztatás
+
+32. § (1) A pénzforgalmi szolgáltató az egyszeri fizetési megbízás átvételét követően a következő adatokról köteles a fizető felet haladéktalanul tájékoztatni:
+
+- a) a fizetési művelet azonosítását lehetővé tevő hivatkozásról, és esetlegesen a kedvezményezett adatairól,
+- b) a fizetési művelet fizetési megbízásban meghatározott devizanemben számított összegéről,
+- c) tételesen a fizető fél által a pénzforgalmi szolgáltató részére fizetendő valamennyi díjról, költségről vagy egyéb fizetési kötelezettségről,
+- d) a pénzforgalmi szolgáltató által a fizetési művelet teljesítése során alkalmazott átváltási árfolyamról és az átváltást megelőző összegről, valamint
+- e) a fizetési megbízás átvételének napjáról.
+
+(2) A pénzforgalmi szolgáltató az (1) bekezdésben meghatározott tájékoztatást a 29. §-ban meghatározott módon köteles rendelkezésre bocsátani.
+
+### Kedvezményezett tájékoztatása
+
+33. § (1) A kedvezményezett pénzforgalmi szolgáltatója a fizetési művelet teljesítését követően a következő adatokról köteles a kedvezményezettet haladéktalanul tájékoztatni:
+
+- a) a fizetési művelet és a fizető fél kedvezményezett általi beazonosíthatóságát lehetővé tevő hivatkozásról, valamint a fizetési művelettel továbbított egyéb információkról,
+- b) a fizetési műveletnek a kedvezményezett fizetési számláján jóváírt devizanemben meghatározott összegéről,
+- c) tételesen a kedvezményezett által a kedvezményezett pénzforgalmi szolgáltatója részére fizetendő valamennyi díjról, költségről vagy egyéb fizetési kötelezettségről,
+- d) a kedvezményezett pénzforgalmi szolgáltatója által a fizetési művelet teljesítése során alkalmazott átváltási árfolyamról és az átváltást megelőző összegről, valamint
+- e) a fizetési számlán történő jóváírás értéknapjáról.
+
+(2) A kedvezményezett pénzforgalmi szolgáltatója az (1) bekezdésben meghatározott tájékoztatást a 29. §-ban meghatározott módon köteles a kedvezményezett rendelkezésére bocsátani.
+
+### VII. Fejezet — A PÉNZFORGALMI SZOLGÁLTATÁS LEBONYOLÍTÁSÁNAK KÖZÖS SZABÁLYAI
+
+34. § Ha az ügyfél nem fogyasztó vagy mikrovállalkozás, a szerződő felek a 35. §-tól, a 36. § (1) bekezdésétől, a 37. § (3) bekezdésétől, a 38. § (1)–(6) bekezdésétől, a 43. § (1) és (2) bekezdésétől, a 45. § (1)–(5) bekezdésétől, a 46. §-tól, a 47. §-tól, a 49. §-tól és az 50. §-tól eltérően is megállapodhatnak.
+
+35. § (1) A pénzforgalmi szolgáltató a VII–IX. Fejezetben előírt tájékoztatási és egyéb kötelezettsége teljesítéséért – ide nem értve a 38. § (6) bekezdésében és a 48. § (6) bekezdésében foglaltakat – külön díjat, költséget vagy egyéb fizetési kötelezettséget az ügyfél terhére nem számíthat fel.
+
+(2) A felek a pénzforgalmi szolgáltató a 38. § (6) bekezdése és a 48. § (6) bekezdése szerinti intézkedésének ellenértékéről szerződésben állapodnak meg. Az ellenérték nem haladhatja meg az intézkedés tényleges és közvetlenül felmerült költségeit.
+
+36. § (1) A fizetési műveletet a felek által megállapított devizanemben kell teljesíteni.
+
+(2) A fizető felet és a kedvezményezettet kizárólag a saját pénzforgalmi szolgáltatója által meghatározott díj, költség vagy egyéb fizetési kötelezettség terheli, ha a fizetési művelethez nem kapcsolódik pénznemek közötti átváltás.
+
+(3) A (2) bekezdésben foglaltakat nem kell alkalmazni, ha a kedvezményezett pénzforgalmi szolgáltatójának székhelye nem EGT-állam területén található, vagy a fizetési művelet teljesítése nem EGT-állam pénznemében történik.
+
+(4) A kedvezményezett készpénz-helyettesítő fizetési eszköz használatáért díjat, költséget vagy egyéb fizetési kötelezettséget számíthat fel, vagy kedvezményt nyújthat.
+
+### VIII. Fejezet — FIZETÉSI MŰVELETEK JÓVÁHAGYÁSA
+
+37. § (1) Fizetési művelet teljesítésére – a hatósági átutalás és az átutalási végzés alapján végzett átutalás kivételével – akkor kerülhet sor, ha azt a fizető fél előzetesen jóváhagyta. A felek a keretszerződésben megállapodhatnak arról, hogy a jóváhagyás utólagos is lehet.
+
+(2) Fizetési művelet teljesítésének jóváhagyására vagy több fizetési művelet teljesítésére vonatkozó együttes jóváhagyására csak a szerződésben meghatározott módon kerülhet sor.
+
+(3) A fizető fél a jóváhagyást a 38. § (1)–(5) bekezdésében meghatározott időpontig visszavonhatja. Több fizetési művelet teljesítésére vonatkozó együttes jóváhagyás visszavonása esetén a kapcsolódó jövőbeli fizetési műveletek sem minősülnek jóváhagyottnak.
+
+(4) Az (1) és (2) bekezdésben meghatározott jóváhagyás hiányában a fizetési művelet jóvá nem hagyottnak minősül.
+
+38. § (1) A fizetési megbízásnak a fizető fél pénzforgalmi szolgáltatója által történt átvételét követően az ügyfél a fizetési megbízást nem vonhatja vissza.
+
+(2) Ha a fizetési megbízást a kedvezményezett kezdeményezte, vagy rajta keresztül kezdeményezték, a fizetési megbízásnak vagy a fizetési művelet teljesítése jóváhagyásának a kedvezményezett részére való átadását követően a fizető fél a fizetési megbízást nem vonhatja vissza.
+
+(3) Beszedés esetében a fizető fél a fizetési megbízást – a visszatérítéshez való jog sérelme nélkül – a terhelést megelőző munkanapig vonhatja vissza.
+
+(4) A terhelési naphoz kötött fizetési megbízás esetén az ügyfél a fizetési megbízást a felek által megállapított terhelési napot megelőző munkanap végéig vonhatja vissza.
+
+(5) Az (1)–(4) bekezdésben megállapított határidőt követően a fizetési megbízást akkor lehet visszavonni, ha arról az ügyfél és a pénzforgalmi szolgáltató megállapodott. Olyan fizetési megbízás esetén, amelyet a kedvezményezett kezdeményezett, vagy rajta keresztül kezdeményezték, a fizetési megbízás visszavonásához a kedvezményezett hozzájárulása szükséges.
+
+(6) A felek a keretszerződésben megállapodhatnak arról, hogy az (5) bekezdésben meghatározott esetben a pénzforgalmi szolgáltató a visszavonásért külön díjat, költséget vagy egyéb fizetési kötelezettséget számíthat fel.
+
+(7) Kis összegű készpénz-helyettesítő fizetési eszközre vonatkozó keretszerződés alapján a felek megállapodhatnak arról, hogy az (1)–(6) bekezdéstől eltérően a fizetési megbízásnak a kedvezményezett részére való átadását vagy a fizetési művelet teljesítése jóváhagyását követően az ügyfél a fizetési megbízást nem vonhatja vissza.
+
+39. § (1) Ha a fizetési művelet jóváhagyása készpénz-helyettesítő fizetési eszközzel történik, a felek a keretszerződésben a készpénz-helyettesítő fizetési eszközhöz kapcsolódóan fizetési műveleti értékhatárt határozhatnak meg.
+
+(2) A pénzforgalmi szolgáltató a keretszerződésben fenntarthatja magának a jogot a készpénz-helyettesítő fizetési eszköz letiltására a készpénz-helyettesítő fizetési eszköz jogosulatlan vagy csalárd módon történő használatának gyanúja esetén, vagy a készpénz-helyettesítő fizetési eszköz biztonsága érdekében.
+
+(3) Olyan készpénz-helyettesítő fizetési eszköz esetén, amelyhez hitelkeret kapcsolódik, a (2) bekezdésben meghatározott letiltás jogát a pénzforgalmi szolgáltató akkor is fenntarthatja, ha jelentős mértékben megnövekszik annak kockázata, hogy a fizető fél szolgáltató felé fennálló fizetési kötelezettségét nem képes teljesíteni.
+
+(4) A pénzforgalmi szolgáltatót terheli annak bizonyítása, hogy a készpénz-helyettesítő fizetési eszköz letiltásának feltételei fennállnak.
+
+(5) Készpénz-helyettesítő fizetési eszköz letiltása esetén a pénzforgalmi szolgáltató a letiltást megelőzően, de legkésőbb a letiltást követően haladéktalanul a keretszerződésben meghatározott módon tájékoztatja a fizető felet a letiltás tényéről és annak okairól.
+
+(6) A pénzforgalmi szolgáltatót nem terheli az (5) bekezdés szerinti tájékoztatási kötelezettség, ha az veszélyezteti a pénzforgalmi szolgáltató működésének biztonságát, vagy ha a tájékoztatási kötelezettség teljesítését jogszabály kizárja.
+
+(7) Ha a készpénz-helyettesítő fizetési eszköz letiltásának oka megszűnik, a pénzforgalmi szolgáltató a készpénz-helyettesítő fizetési eszköz letiltását haladéktalanul megszünteti, vagy új készpénz-helyettesítő fizetési eszközt bocsát a fizető fél rendelkezésére.
+
+40. § (1) Az ügyfél köteles a készpénz-helyettesítő fizetési eszközt a keretszerződésben foglaltak szerint használni, és a készpénz-helyettesítő fizetési eszköz és annak használatához szükséges személyes biztonsági elemek – így a személyazonosító kód (PIN kód) vagy egyéb kód – biztonságban tartása érdekében az adott helyzetben általában elvárható magatartást tanúsítani.
+
+(2) Az ügyfél a pénzforgalmi szolgáltatónak vagy az általa megjelölt harmadik félnek haladéktalanul köteles bejelenteni, ha észleli a készpénz-helyettesítő fizetési eszköz birtokából történő kikerülését, ellopását, valamint jogosulatlan vagy jóvá nem hagyott használatát.
+
+(3) Kis összegű készpénz-helyettesítő fizetési eszközre vonatkozó keretszerződés alapján a felek megállapodhatnak arról, hogy az ügyfél nem köteles a (2) bekezdés szerinti bejelentést megtenni, ha a készpénz-helyettesítő fizetési eszköz letiltása vagy további használatának megakadályozása nem lehetséges.
+
+41. § (1) A pénzforgalmi szolgáltató kizárólag az ügyfél kifejezett kérelme esetén bocsáthat rendelkezésére készpénz-helyettesítő fizetési eszközt, ide nem értve a már meglévő készpénz-helyettesítő fizetési eszköz cseréjét.
+
+(2) A pénzforgalmi szolgáltató a készpénz-helyettesítő fizetési eszközt és annak használatához szükséges személyes biztonsági elemeket – a keretszerződésben meghatározott módon – kizárólag ügyfél részére adhatja át.
+
+(3) A pénzforgalmi szolgáltató gondoskodik arról, hogy az ügyfél bármikor megtehesse a 40. § (2) bekezdése szerinti bejelentését, vagy kérelmezhesse a 39. § szerinti letiltás megszüntetését.
+
+(4) A pénzforgalmi szolgáltató a 40. § (2) bekezdése szerinti bejelentésekről olyan nyilvántartást vezet, amely tizennyolc hónapig biztosítja a bejelentések időpontjának és tartalmának bizonyítását.
+
+(5) A pénzforgalmi szolgáltató a (3) bekezdésben meghatározott bejelentést követően a készpénz-helyettesítő fizetési eszközzel adott fizetési megbízás alapján fizetési műveletet nem teljesíthet.
+
+(6) Kis összegű készpénz-helyettesítő fizetési eszközre vonatkozó keretszerződés alapján a felek megállapodhatnak arról, hogy a pénzforgalmi szolgáltatót a (3) és (5) bekezdés szerinti kötelezettségek nem terhelik, ha a készpénz-helyettesítő fizetési eszköz letiltása vagy további használatának megakadályozása nem lehetséges.
+
+### IX. Fejezet — FIZETÉSI MŰVELETEK HELYESBÍTÉSE,A FELELŐSSÉGI ÉS KÁRVISELÉSI SZABÁLYOK
+
+42. § (1) Az ügyfél a fizetési megbízás teljesítését követően haladéktalanul, de legfeljebb a fizetési művelet teljesítését követő tizenharmadik hónapnak a fizetési számla megterhelésének napjával megegyező napjáig kezdeményezheti a jóvá nem hagyott vagy a jóváhagyott, de hibásan teljesített fizetési művelet helyesbítését. Ha a lejárat hónapjában nincs a terhelés napjának megfelelő naptári nap, akkor a határidő lejárta a hónap utolsó napja.
+
+(2) A felek a keretszerződésben az (1) bekezdésben meghatározott időtartamtól rövidebb időtartamban is megállapodhatnak, azzal, hogy az ügyfél helyesbítéséhez való jogát nem zárhatják ki.
+
+(3) Az (1) bekezdés szerinti határidő nem vonatkozik arra az esetre, ha a pénzforgalmi szolgáltató a fizetési megbízást követően előírt utólagos tájékoztatási kötelezettségének nem tett eleget.
+
+(4) A pénzforgalmi szolgáltató a helyesbítésre vonatkozó kérelem megvizsgálását követően haladéktalanul köteles a helyesbítés iránti kérelemnek eleget tenni.
+
+43. § (1) A jóvá nem hagyott vagy a jóváhagyott, de hibásan teljesített fizetési művelet helyesbítése iránti kérelem esetén a pénzforgalmi szolgáltató köteles bizonyítani – adott esetben a hitelesítés által –, hogy a kifogásolt fizetési műveletet a fizető fél jóváhagyta, a fizetési művelet megfelelően került rögzítésre, és a teljesítést műszaki hiba vagy üzemzavar nem akadályozta.
+
+(2) A jóvá nem hagyott fizetési művelet helyesbítése iránti kérelem esetén a készpénz-helyettesítő fizetési eszköz használata önmagában nem bizonyítja, hogy a fizető fél csalárd módon járt el, vagy a fizetési műveletet jóváhagyta, vagy a 40. § (1) és (2) bekezdésében meghatározott kötelezettséget szándékosan vagy súlyosan gondatlanul megszegte.
+
+(3) Kis összegű készpénz-helyettesítő fizetési eszközre vonatkozó keretszerződés alapján a felek megállapodhatnak arról, hogy az (1) és (2) bekezdés nem alkalmazandó, ha az ügyfél olyan készpénz-helyettesítő fizetési eszközt használ, amely az ügyfél beazonosíthatóságát nem teszi lehetővé, vagy a pénzforgalmi szolgáltató a készpénz-helyettesítő fizetési eszköz jellege miatt nincs abban a helyzetben, hogy a művelet jóváhagyását bizonyítsa.
+
+44. § (1) A jóvá nem hagyott fizetési művelet teljesítése esetén a pénzforgalmi szolgáltató haladéktalanul köteles
+
+- a) megtéríteni a fizető fél részére a fizetési művelet összegét,
+- b) a fizetési számla tekintetében a megterhelés előtti állapotot helyreállítani, és
+- c) megtéríteni a fizető fél kárát.
+
+(2) Kis összegű készpénz-helyettesítő fizetési eszközre vonatkozó keretszerződés alapján a felek megállapodhatnak arról, hogy a pénzforgalmi szolgáltatót az (1) bekezdés szerinti kötelezettség nem terheli, ha a fizető fél olyan készpénz-helyettesítő fizetési eszközt használt, amely a fizető fél beazonosíthatóságát nem teszi lehetővé, vagy a pénzforgalmi szolgáltató a készpénz-helyettesítő fizetési eszköz jellege miatt nincs abban a helyzetben, hogy a művelet jóváhagyását bizonyítsa.
+
+45. § (1) A 44. §-ban meghatározottaktól eltérően az olyan jóvá nem hagyott fizetési műveletek vonatkozásában, amelyek a fizető fél birtokából kikerült vagy ellopott készpénz-helyettesítő fizetési eszközzel történtek, vagy a készpénz-helyettesítő fizetési eszköz jogosulatlan használatából erednek, a fizető fél viseli negyvenötezer forintnak megfelelő összeg mértékéig a kárt a 40. § (2) bekezdése szerinti bejelentés megtételét megelőzően.
+
+(2) Nem terheli az (1) bekezdésben meghatározott felelősség a fizető felet, ha a kárt készpénz-helyettesítő fizetési eszköznek minősülő olyan személyre szabott eljárással okozták, amely információtechnológiai eszköz vagy távközlési eszköz használatával történt vagy a készpénz-helyettesítő fizetési eszközt személyes biztonsági elemek – így a személyazonosító kód (PIN kód) vagy egyéb kód – nélkül használtak, vagy a pénzforgalmi szolgáltató a 41. § (3) bekezdésében foglalt kötelezettségének nem tett eleget.
+
+(3) A pénzforgalmi szolgáltató mentesül az (1), (2) és (4) bekezdés szerinti felelőssége alól, ha bizonyítja, hogy a jóvá nem hagyott fizetési művelettel összefüggésben keletkezett kárt a fizető fél csalárd módon eljárva okozta, vagy a kárt a 40. § (1) és (2) bekezdésében meghatározott kötelezettségeinek szándékos vagy súlyosan gondatlan megszegésével okozta.
+
+(4) A 40. § (2) bekezdése szerinti bejelentést követően a pénzforgalmi szolgáltató viseli a kárt az olyan jóvá nem hagyott fizetési műveletek vonatkozásában, amelyek a fizető fél birtokából kikerült vagy ellopott készpénz-helyettesítő fizetési eszközzel történtek, vagy a készpénz-helyettesítő fizetési eszköz jogosulatlan használatából erednek.
+
+(5) Kis összegű készpénz-helyettesítő fizetési eszközre vonatkozó keretszerződés alapján a felek megállapodhatnak arról, hogy a pénzforgalmi szolgáltatót a (2) és (4) bekezdés szerinti kötelezettségek nem terhelik, ha
+
+- a) a készpénz-helyettesítő fizetési eszköz letiltása vagy további használatának megakadályozása nem lehetséges, vagy
+- b) az ügyfél olyan készpénz-helyettesítő fizetési eszközt használt, amely az ügyfél beazonosíthatóságát nem teszi lehetővé, vagy a pénzforgalmi szolgáltató a készpénz-helyettesítő fizetési eszköz jellege miatt nincs abban a helyzetben, hogy a művelet jóváhagyását bizonyítsa.
+
+46. § (1) A fizető fél pénzforgalmi szolgáltatója visszatéríti a kedvezményezett által vagy rajta keresztül kezdeményezett, és a fizető fél által jóváhagyott fizetési művelet összegét, ha:
+
+- a) a jóváhagyás időpontjában a fizető fél a fizetési művelet összegét nem ismerte, és
+- b) a fizetési művelet összege meghaladta azt az összeget, amely a fizető fél részéről az adott helyzetben ésszerűen elvárható volt.
+
+(2) A fizető fél részéről a fizetési művelet adott helyzetben ésszerűen elvárható összegének megítélése során a pénzforgalmi szolgáltatónak a fizető fél korábbi fizetési műveleteit, a keretszerződésben foglaltakat és a fizetési művelet körülményeit kell figyelembe vennie.
+
+(3) Az (1) bekezdésben foglalt feltételek fennállása tekintetében a bizonyítás a fizető felet terheli.
+
+(4) A fizető fél nem hivatkozhat az (1) bekezdés b) pontjára a pénznemek közötti átváltással kapcsolatosan, ha az átváltás során a 31. § (1) bekezdésének d) pontjában vagy a 10. § (2) bekezdése c) pontjának cb) alpontjában foglaltak szerint referencia-árfolyam alkalmazására került sor.
+
+(5) A felek a keretszerződésben megállapodhatnak arról, hogy a beszedés visszatérítése esetében az (1) bekezdésben meghatározott feltételeknek nem kell fennállniuk. Ilyen megállapodás esetén a pénzforgalmi szolgáltató a fizető fél visszatérítésre vonatkozó igényét nem utasíthatja vissza.
+
+(6) A felek a keretszerződésben megállapodhatnak arról, hogy a fizető fél nem jogosult a visszatérítésre, ha a jóváhagyást közvetlenül a saját pénzforgalmi szolgáltatónak adta meg, és a fizetési műveletre vonatkozó előzetes tájékoztatási kötelezettséget a pénzforgalmi szolgáltató vagy a kedvezményezett a keretszerződésben meghatározott módon, a fizetési megbízás teljesítésének esedékességét megelőzően huszonnyolc nappal teljesítette.
+
+(7) A felek az (1) bekezdésben foglaltaktól eltérően is megállapodhatnak, ha a kedvezményezett pénzforgalmi szolgáltatójának székhelye nem EGT-állam területén található.
+
+47. § (1) A kedvezményezett által vagy rajta keresztül kezdeményezett, és a fizető fél által a 46. § (1) bekezdésben meghatározott módon jóváhagyott fizetési művelet visszatérítésére vonatkozó igényét a fizető fél a terhelés napjától számított ötvenhat napig érvényesítheti.
+
+(2) A pénzforgalmi szolgáltató a fizető fél visszatérítésre vonatkozó igényének benyújtásától számított tíz munkanapon belül a fizetési művelet összegét visszatéríti vagy az igényt indokolással ellátva elutasítja.
+
+(3) A visszatérítés elutasítása esetén a pénzforgalmi szolgáltató egyidejűleg tájékoztatja a fizető felet a jogvita peren kívüli elintézésére rendelkezésre álló fórumokról.
+
+48. § (1) Ha a fizetési művelet teljesítése egyedi azonosító használatával történik, a fizetési művelet az egyedi azonosító által megjelölt kedvezményezett vonatkozásában teljesítettnek minősül.
+
+(2) Ha a hatósági átutalás és az átutalási végzés alapján történő átutalás teljesítése egyedi azonosító használatával történik, a fizetési művelet az egyedi azonosító által és a fizető fél nevével megjelölt fizető fél vonatkozásában minősül teljesítettnek.
+
+(3) A fizetési művelet nem teljesítéséért vagy hibás teljesítéséért hibás egyedi azonosító használata esetén – ide nem értve a (2) bekezdésben foglalt esetet – a pénzforgalmi szolgáltatót nem terheli felelősség.
+
+(4) Ha az ügyfél a 31. § (1) bekezdésének a) pontjában vagy a 10. § b) pontjának bb) alpontjában meghatározottakon kívül további adatokat ad meg, a pénzforgalmi szolgáltató a fizetési műveletnek az egyedi azonosító által megjelölt teljesítéséért felel.
+
+(5) A pénzforgalmi szolgáltató – a (3) bekezdésben meghatározottak ellenére – köteles a fizetési művelet összegének visszaszerzése érdekében az adott helyzetben általában elvárható magatartást tanúsítani.
+
+(6) A felek a keretszerződésben megállapodhatnak arról, hogy a pénzforgalmi szolgáltató a fizetési művelet összegének (5) bekezdés szerinti visszaszerzése esetén külön díjat, költséget vagy egyéb fizetési kötelezettséget számíthat fel.
+
+49. § (1) Ha a fizetési műveletet a fizető fél kezdeményezte, a fizetési művelet hibás teljesítéséért a fizető fél pénzforgalmi szolgáltatója felel kivéve, ha bizonyítja, hogy a fizetési művelet összege a kedvezményezett pénzforgalmi szolgáltatójához beérkezett.
+
+(2) Ha a fizetési művelet összege a kedvezményezett pénzforgalmi szolgáltatójához beérkezett, a fizetési művelet hibás teljesítéséért a kedvezményezett pénzforgalmi szolgáltatója felel.
+
+(3) A fizető fél pénzforgalmi szolgáltatója az (1) bekezdésben meghatározott felelősségének fennállása esetén haladéktalanul köteles a nem teljesített vagy hibásan teljesített fizetési művelet összegét a fizető fél részére visszatéríteni, és a fizetési számlát olyan állapotba hozni, mintha a hibásan teljesített fizetési műveletre nem került volna sor.
+
+(4) A kedvezményezett pénzforgalmi szolgáltatója a (2) bekezdésben meghatározott felelősségének fennállása esetén haladéktalanul köteles a fizetési művelet összegét a kedvezményezett rendelkezésére bocsátani, és a kedvezményezett fizetési számláján jóváírni.
+
+(5) A fizető fél pénzforgalmi szolgáltatója a fizető fél kérésére – a fizetési művelet nem teljesítéséért vagy hibás teljesítéséért való felelősség kérdésétől függetlenül – köteles a nem teljesített vagy hibásan teljesített fizetési művelet nyomon követése érdekében az adott helyzetben általában elvárható magatartást tanúsítani.
+
+(6) Az (5) bekezdésben meghatározott nyomon követés eredményéről a fizető fél pénzforgalmi szolgáltatója a fizető felet tájékoztatja.
+
+50. § (1) Ha a fizetési műveletet a kedvezményezett kezdeményezte, vagy rajta keresztül kezdeményezték, a fizetési megbízás a fizető fél pénzforgalmi szolgáltatójához való továbbításáért a kedvezményezett pénzforgalmi szolgáltatója felel.
+
+(2) A kedvezményezett pénzforgalmi szolgáltatója az (1) bekezdésben meghatározott felelősségének fennállása esetén haladéktalanul köteles a fizetési megbízást megküldeni a fizető fél pénzforgalmi szolgáltatója felé.
+
+(3) A fizetési műveletnek a jogszabály szerinti teljesítéséért a kedvezményezett felé a kedvezményezett pénzforgalmi szolgáltatója felel.
+
+(4) A kedvezményezett pénzforgalmi szolgáltatója a (3) bekezdésben meghatározott felelősségének fennállása esetén haladéktalanul köteles biztosítani, hogy a kedvezményezett számláján jóváírt fizetési művelet összege a kedvezményezett rendelkezésére álljon.
+
+(5) Az (1) és (3) bekezdésben foglaltak kivételével a fizetési művelet nem teljesítéséért vagy hibás teljesítéséért a fizető fél felé a saját pénzforgalmi szolgáltatója felel.
+
+(6) A fizető fél pénzforgalmi szolgáltatója az (5) bekezdésben meghatározott felelősségének fennállása esetén haladéktalanul köteles a nem teljesített vagy hibásan teljesített fizetési művelet összegét a fizető fél részére visszatéríteni, és a fizetési számlát olyan állapotba hozni, mintha a hibásan teljesített fizetési műveletre nem került volna sor.
+
+(7) Ha a fizetési műveletet a kedvezményezett kezdeményezte, vagy rajta keresztül kezdeményezték, a kedvezményezett pénzforgalmi szolgáltatója – a fizetési művelet nem teljesítéséért vagy hibás teljesítéséért való felelősség kérdésétől függetlenül – köteles a fizetési művelet nyomon követése érdekében az adott helyzetben általában elvárható magatartást tanúsítani.
+
+(8) A (7) bekezdésében meghatározott nyomon követés eredményéről a kedvezményezett pénzforgalmi szolgáltatója a kedvezményezettet tájékoztatja.
+
+51. § A 49. §-ban és az 50. §-ban foglaltakat nem kell alkalmazni, ha a kedvezményezett pénzforgalmi szolgáltatójának székhelye nem EGT-állam területén található.
+
+52. § Az ügyfél pénzforgalmi szolgáltatója felel az általa nem teljesített vagy hibásan teljesített fizetési műveletért felszámított díj, költség vagy egyéb fizetési kötelezettség megtérítéséért, és a kamatbevétel elmaradásáért.
+
+53. § A pénzforgalmi szolgáltatónak e fejezetben meghatározott felelőssége nem érinti egyéb jogszabály alapján fennálló felelősségét.
+
+54. § Ha a pénzforgalmi szolgáltatónak a 49–52. § szerinti felelőssége harmadik személy magatartásának vagy mulasztásának következménye, a pénzforgalmi szolgáltató e harmadik személytől a 49–52. §-ban meghatározott összeg kifizetésének megtérítését követelheti.
+
+55. § A pénzforgalmi szolgáltató mentesül a felelősség alól, ha bizonyítja, hogy a VII–IX. Fejezetben meghatározott kötelezettségének teljesítését tevékenysége körén kívül eső elháríthatatlan ok (vis maior), vagy jogszabályban vagy közösségi jogi aktusban előírt rendelkezések zárták ki.
+
+### X. Fejezet — A PÉNZFORGALMI SZOLGÁLTATÁS NYÚJTÁSÁNAK FELÜGYELETE
+
+### Fióktelep és határon átnyúló szolgáltatás felügyelete
+
+56. § Más EGT-államban pénzforgalmi szolgáltatás nyújtására jogosult pénzforgalmi szolgáltató Magyar Köztársaság területén létesített fióktelepe által végzett tevékenység esetében a Felügyelet hatáskörében ellenőrzi a II–IX. Fejezetben foglalt rendelkezések betartását.
+
+57. § Ha a Felügyelet a Magyar Köztársaság területén más EGT-államban pénzforgalmi szolgáltatás nyújtására jogosult pénzforgalmi szolgáltató határon átnyúló tevékenysége tekintetében jogszabályban foglalt rendelkezés megsértését tapasztalja, értesíti a pénzforgalmi szolgáltató székhelye szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságát.
+
+### Eljárás a fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó rendelkezések megsértése esetén
+
+58. § E törvény a fogyasztókkal szembeni kereskedelmi gyakorlatra, így különösen az ügyfelek tájékoztatásra vonatkozó rendelkezéseinek megsértése esetén a Felügyelet a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben meghatározott szabályok szerint jár el, ha a jogsértés fogyasztót érint.
+
+### XI. Fejezet — TITOKTARTÁSI SZABÁLYOK
+
+### Fizetési titok
+
+59. § (1) Fizetési titok minden olyan, hitelintézetnek nem minősülő pénzforgalmi szolgáltatónak az egyes ügyfelekről rendelkezésére álló, a pénzforgalmi szolgáltatás nyújtásával kapcsolatos tény, információ, megoldás vagy adat, amely az ügyfél személyére, adataira, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, valamint a pénzforgalmi szolgáltató által vezetett fizetési számlájának egyenlegére, forgalmára, továbbá a pénzforgalmi szolgáltatóval a pénzforgalmi szolgáltatási szerződéseire vonatkozik.
+
+(2) A fizetési titokra a Hpt. banktitokra vonatkozó szabályait kell megfelelően alkalmazni, azzal az eltéréssel, hogy ahol a Hpt. banktitkot említ, azon a fizetési titkot kell érteni.
+
+(3) A pénzforgalmi szolgáltató a pénzforgalmi szolgáltatási keretszerződés szerint a rendelkezésére álló, személyes adatnak minősülő fizetési titkot legfeljebb a fizetési műveletből eredő követelés elévüléséig jogosult kezelni és továbbítani a pénzforgalmi elszámolóháznak a fizetéssel kapcsolatos csalások valamint a készpénz-helyettesítő fizetési eszközzel történő visszaélések megelőzése, vizsgálata és felderítés céljából.
+
+### XII. Fejezet — SORBAÁLLÍTÁS
+
+60. § (1) A pénzügyi fedezet hiánya miatt részben vagy egészben nem teljesíthető, hatósági átutalást és átutalási végzés alapján teljesített átutalást a kedvezményezett azonnali visszaküldést kérő rendelkezése hiányában a teljesítéshez szükséges fedezet biztosításáig – legfeljebb azonban harmincöt napig – a pénzforgalmi szolgáltató sorba állítja.
+
+(2) A teljesítés sorrendjét az átvétel időpontja határozza meg.
+
+61. § (1) A fizető fél ugyanazon pénzforgalmi szolgáltatónál vezetett fizetési számlái a hatósági átutalás és átutalási végzés alapján teljesített átutalás teljesítése szempontjából egy fizetési számlának minősülnek.
+
+(2) A hatósági átutalás és átutalási végzés alapján teljesített átutalás teljesítése során a hatósági átutalási megbízásban és az átutalási végzésben szereplő pénznemmel azonos pénznemben vezetett fizetési számlát kell figyelembe venni, ha a fizető fél rendelkezik ilyen pénznemben vezetett fizetési számlával. Ha a fizető fél nem rendelkezik ilyen pénznemben vezetett fizetési számlával vagy az azonos pénznemben vezetett fizetési számlán nem, vagy csak részben volt fedezet, akkor a forintban, majd az egyéb pénznemben vezetett fizetési számlát kell figyelembe venni. Pénznemek közötti átváltás esetén a terhelést végző pénzforgalmi szolgáltató által jegyzett – a pénzforgalmi számla megterhelésének napján érvényes – devizavételi árfolyamot kell alkalmazni.
+
+(3) A terhelést végző pénzforgalmi szolgáltató által nem jegyzett pénznemre szóló, hatósági átutalási megbízás és átutalási végzés esetén e fizetési megbízást forintban kell teljesíteni. A forintra történő átváltást a Magyar Nemzeti Bank által közzétett, a terhelés napján érvényes hivatalos devizaárfolyamon kell elvégezni.
+
+(4) A hatósági átutalási megbízásra és az átutalási végzésre a rendelkezésre álló részfedezet erejéig részfizetést kell teljesíteni.
+
+62. § (1) A keretszerződés felmondásának kezdeményezését követően a pénzforgalmi szolgáltatóhoz beérkezett hatósági átutalási megbízás és átutalási végzés legfeljebb a keretszerződés megszűnésének időpontjáig állítható sorba, amelyről a pénzforgalmi szolgáltató a hatósági átutalási megbízás adóját, az átutalási végzés kibocsátóját a fizetési megbízás, végzés átvételét követően haladéktalanul tájékoztatni köteles.
+
+(2) A fizető fél és a pénzforgalmi szolgáltató eltérő tartalmú megállapodása hiányában a fizetési számla terhére hatósági átutalást és átutalási végzés alapján történő átutalást a pénzforgalmi szolgáltató a fizetési számlához kapcsolódó hitelkeret terhére is teljesíti.
+
+(3) Hatósági átutalás és átutalási végzés alapján történő átutalás teljesítése – ideértve a fizetési számlához kapcsolódó hitelkeret terhére történő átutalás teljesítését is – megelőzi az egyéb fizetési műveletek teljesítését.
+
+### XIII. Fejezet — FIZETÉSI MÓDOK
+
+63. § (1) A készpénzfizetésen felül a fizetési művelet során alkalmazható fizetési mód:
+
+- a) a fizetési számlák közötti fizetés,
+- b) a fizetési számlához kötődő készpénzfizetés, és
+- c) a fizetési számla nélküli fizetés.
+
+(2) A Magyar Nemzeti Bank elnöke rendeletben szabályozza a fizetési módok részletes szabályait.
+
+(3) Fizetési mód kötelező alkalmazását csak törvény vagy kormányrendelet írhatja elő.
+
+### A hatósági átutalás és az átutalási végzés alapján történő átutalás, mint fizetési számlák közötti fizetés
+
+64. § (1) A bírósági végrehajtási eljárásban, valamint a közigazgatási végrehajtási és adóvégrehajtási eljárásban a pénzkövetelést a hatósági átutalási megbízás adására vagy átutalási végzés meghozatalára jogosult erre irányuló kezdeményezésére hatósági átutalással vagy a hatósági végzésben foglaltak szerint kell teljesíteni.
+
+(2) A hatósági átutalás esetén a fizető fél pénzforgalmi szolgáltatója a fizető fél fizetési számlája terhére meghatározott pénzösszeget utal át a hatósági átutalás megbízás adója által meghatározott fizetési számlára.
+
+(3) Hatósági átutalási megbízás adására jogosult a hatósági átutalást saját pénzforgalmi szolgáltatóján keresztül is kezdeményezheti, amely köteles azt továbbítani az adós pénzforgalmi szolgáltatójának.
+
+(4) A hatósági átutalás és az átutalási végzés alapján történő átutalás esetén a fizető fél nem gyakorolhatja a helyesbítéshez való jogot.
+
+(5) A hatósági átutalási megbízás átvételét sem a fizető fél, sem a hatósági átutalás kezdeményezésére jogosult pénzforgalmi szolgáltatója nem tagadhatja meg.
+
+### XIV. Fejezet — ÁTMENETI ÉS ZÁRÓ RENDELKEZÉSEK
+
+### Hatálybalépés
+
+65. § (1) E törvény – a (2)–(3) bekezdésben meghatározott eltéréssel – 2009. november 1-jén lép hatályba.
+
+(2) E törvény 131. §-a 2010. január 1-jén lép hatályba.
+
+(3) E törvény 150. §-ának (1) bekezdése és 110. §-a a törvény kihirdetését követő 8. napon lép hatályba.
+
+(4) Hatályát veszti:
+
+- a) az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 74. § (1) bekezdésében az „ideértve az elektronikus illetékfizetés módját” szövegrész,
+- b) a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 6. §-a,
+- c) az MNBtv. 15. §-a (1) bekezdésének c) és d) pontja, 26. §-ának (4) bekezdése,
+- d) a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 227. §-ának (1) bekezdése,
+- e) az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 128. §-ának (3)–(4) bekezdése,
+- f) a postáról szóló 2003. évi CI. törvény (a továbbiakban: Pt.) 3. §-ának 17., 22. és 31. pontja, 37. §-át megelőző cím, 39. §-ának (5) bekezdése, 53. §-a (1) bekezdésének e) pontja,
+- g) a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény 31. §-a (4) bekezdésének g) pontja,
+- h) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Matv.) 61. §-ának (1) bekezdése.
+
+(5) A közbeszerzésekről szóló 2003. évi CXXIX. törvény módosításáról szóló 2008. évi CVIII. törvény 41. §-a és 111. §-a (1) bekezdésének c) pontja nem lép hatályba.
+
+(6) E törvény XV. Fejezete 2010. június 2-án hatályát veszti. Ez a bekezdés 2010. június 3-án hatályát veszti.
+
+### Átmeneti rendelkezések
+
+66. § (1) Ha a bírósági végrehajtás általános feltételei a törvény hatálybalépését megelőzően már fennálltak, a pénzkövetelés pénzforgalmi úton történő behajtására jogosult a kötelezett fizetési számlája, bankszámlája terhére beszedési megbízást nyújthat be a kötelezett (fizető fél) erre vonatkozó felhatalmazása hiányában is, ha:
+
+- a) a jogosult – a lakás-előtakarékossági számla kivételével – fizetési számlával, bankszámlával, a kötelezett pedig pénzforgalmi számlával rendelkezik,
+- b) a követelés teljesítését bírósági, közjegyzői határozat írja elő vagy az a bírósági végrehajtásról szóló 1994. évi LIII. törvény 21. §-ának megfelelő közjegyzői okiratban foglalt kötelezettségvállaláson alapul, és
+- c) a jogosult a behajtást végző pénzügyi szolgáltatónak nyilatkozik arról, hogy nincs folyamatban a követelése behajtására irányuló bírósági végrehajtási eljárás, illetőleg nem terjesztett elő végrehajtás elrendelése iránti kérelmet, vagy ilyen kérelme alapján a követelése nem nyert kielégítést.
+
+(2) Ha a kötelezett pénzforgalmi számlája nem ismert, és az a cégnyilvántartásból sem állapítható meg, a végrehajtás elrendelésére jogosult bíróság a jogosult kérelmére felhívja az adóhatóságot a számlaszám közlésére. Az adóhatóság köteles a felhívásnak haladéktalanul eleget tenni.
+
+(3) Ha a pénzforgalmi úton történő behajtás fedezet hiánya miatt nem vagy csak részben vezetett eredményre, bírósági végrehajtásnak csak akkor van helye, ha a végrehajtást kérő igazolja, hogy a kötelezett számlavezető pénzügyi szolgáltatótól nem kérte a beszedési megbízás további függőben tartását, és megjelöli, hogy a beszedési megbízást milyen összegben teljesítette a pénzügyi szolgáltató. A függőben tartásra irányadó határidő lejárta előtt előterjesztett végrehajtási kérelem elbírálására is ez a rendelkezés irányadó.
+
+(4) Az (1)–(3) bekezdésekben foglaltakat megfelelően alkalmazni kell a kirendelő hatóság által az igazságügyi szakértő, az igazságügyi szakértői névjegyzékbe bejegyzett gazdasági társaság és a szakértői intézmény részére megfizetendő igazságügyi szakértői díj behajtására is, ha
+
+- a) az igazságügyi szakértői díjat a kirendelő hatóság a jogerős határozatával megállapította, és
+- b) megfizetésére az igazságügyi szakértői tevékenységről szóló 2005. évi XLVII. törvény 17. §-ának (4) bekezdése szerinti határidő 2010. január 1. előtt lejárt.
+
+(5) A törvény hatálybalépése előtt indult közbeszerzési eljárás eredményeként megkötött szerződés – az ajánlatkérőként szerződött fél által igazolt szerződésszerű – teljesítése esetén, a határidő eredménytelen leteltét követően, az ajánlattevőként szerződött fél beszedési megbízást nyújthat be a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) 22. §-ának (1) bekezdésében meghatározott ajánlatkérő fizetési számlája terhére az ajánlatkérő erre vonatkozó felhatalmazása hiányában is.
+
+(6) A törvény hatálybalépése előtt a kincstárnak benyújtott olyan, jogszabály által meghatározott beszedési megbízás útján teljesítendő fizetési kötelezettségen alapuló beszedési megbízást, amely teljesítésének törvényi feltételei a benyújtáskor fennálltak, a kincstár a kötelezett erre vonatkozó felhatalmazása hiányában is teljesítheti.
+
+(7) A törvény hatálybalépése előtt a mezőgazdasági és vidékfejlesztési támogatási szerv által benyújtott azonnali beszedési megbízást, amely teljesítésének törvényi feltételei a benyújtáskor fennálltak, a hitelintézet a végrehajtható okirat csatolása nélkül is köteles teljesíteni.
+
+(8) A törvény hatálybalépése előtt kötött többcélú kistérségi társulási megállapodás alapján benyújtott olyan beszedési megbízás, amely teljesítésének törvényi feltételei a benyújtáskor fennálltak, a társulás tagjának erre vonatkozó felhatalmazása hiányában is teljesíthető.
+
+(9) A törvény hatálybalépése előtt a nyugdíj-biztosítási igazgatási szerv által benyújtott olyan azonnali beszedési megbízást, amely teljesítésének törvényi feltételei a benyújtáskor fennálltak, a hitelintézet a kötelezett erre vonatkozó felhatalmazása hiányában is teljesítheti.
+
+(10) A törvény hatálybalépése előtt a egészségbiztosítási igazgatási szerv által benyújtott olyan azonnali beszedési megbízást, amely teljesítésének törvényi feltételei a benyújtáskor fennálltak, a hitelintézet a kötelezett erre vonatkozó felhatalmazása hiányában is teljesítheti.
+
+(11) A törvény hatálybalépése előtt a vámhatóság által benyújtott olyan azonnali beszedési megbízást, amely teljesítésének törvényi feltételei a benyújtáskor fennálltak, a hitelintézet a kötelezett erre vonatkozó felhatalmazása hiányában is teljesítheti.
+
+(12) A hatálybalépés előtt kötött bankszámlaszerződések e törvény értelmében keretszerződésnek minősülnek, ha megfelelnek a 14. §-ban meghatározott követelményeknek.
+
+(13) Ha a Befektető-védelmi Alap tagjának felszámolását elrendelő végzés közzététele e törvény hatálybalépése előtt következett be, a Befektető-védelmi Alap a kártalanítást a felszámolást elrendelő végzés közzétételének napján hatályos jogszabályok szerinti feltételekkel teljesíti
+
+(14) Ha a törvény hatálybalépése előtt követelés érvényesítésére kormányrendelet azonnali beszedési megbízás (jogszabályi azonnali beszedési megbízás) benyújtását tette lehetővé, a törvény hatálybalépését megelőzően keletkezett jogviszonyokban, a követelés jogosultja beszedési megbízást nyújthat be a követelés kötelezettjének fizetési számlája terhére a kötelezett erre vonatkozó felhatalmazása hiányában is, ha annak egyéb, a kormányrendeletben a törvény hatálybalépését megelőzően meghatározott feltételei fennállnak.
+
+### Jogharmonizációs záradék
+
+67. § E törvény a következő uniós jogi aktusnak való megfelelést szolgálja:
+
+Az Európai Parlament és a Tanács 2007. november 13-i 2007/64/EK irányelve a belső piaci pénzforgalmi szolgáltatásokról és a 97/7/EK, a 2002/65/EK, a 2005/60/EK és a 2006/48/EK irányelv módosításáról és a 97/5/EK irányelv hatályon kívül helyezéséről.
+
+### XV. Fejezet — MÓDOSULÓ JOGSZABÁLYOK
+
+68. § A polgári perrendtartásról szóló 1952. évi III. törvény 141. §-ának (1) bekezdésében a „bankszámla száma és a számlát vezető pénzügyi intézmény neve” szövegrész helyébe a „fizetési számla száma és a számlát vezető pénzforgalmi szolgáltató neve” szöveg lép.
+
+69. § Az országgyűlési képviselők tiszteletdíjáról, költségtérítéséről és kedvezményeiről szóló 1990. évi LVI. törvény 5/A. §-ának (1) bekezdésében a „bankszámlára történő átutalással, bankszámla hiányában postai úton” szövegrész helyébe a „fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján” szöveg, 5/A. §-ának (2) bekezdésében a „bankszámlára történő utalása és egyszeri felvétele, illetve a postai úton történő tiszteletdíj és költségtérítés kifizetés” szövegrész helyébe „fizetési számlára történő utalása és egyszeri felvétele, illetve a pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történő tiszteletdíj és költségtérítés kifizetése” szöveg lép.
+
+70. § Az Itv. 67. §-ának (4) bekezdésében a „bankszámlák közötti átutalással” szövegrész helyébe „átutalással” szöveg, a „Bankszámlák közötti átutalás, készpénzátutalási megbízás, belföldi postautalvány” szövegrész helyébe „Átutalás, készpénzátutalás” szöveg, a „bankszámla” szövegrész helyébe „fizetési számla” szöveg, 73. §-ának (7) bekezdésében a „bankszámlák közötti átutalással” szövegrész helyébe „átutalással” szöveg, 74. §-ának (1) bekezdésében a „bankszámlák közötti átutalással” szövegrész helyébe „átutalással” szöveg, 102. §-a (1) bekezdésének h) pontjában a „bankszámla, illetőleg folyószámla” szövegrész helyébe „bankszámla” szöveg lép.
+
+71. § A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 21. §-a (2) bekezdésének c) pontjában a „szervezet számlaszámát és a számláját vezető pénzintézet megnevezését” szövegrész helyébe a „szervezet pénzforgalmi számlaszámát és a számláját vezető pénzforgalmi szolgáltató megnevezését” szöveg lép.
+
+72. § A szakszervezeti vagyon védelméről, a munkavállalók szervezkedési és szervezeteik működési esélyegyenlőségéről szóló 1991. évi XXVIII. törvény 2. §-a (2) bekezdésének f) pontjában a „bankszámlán” szövegrész helyébe „pénzforgalmi számlán” szöveg lép.
+
+73. § A munkavállalói érdek-képviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvény 2. § (1) bekezdésének a) pontjában a „bankszámlára” szövegrész helyébe „fizetési számlára” szöveg lép.
+
+74. § (1) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 8. § (2) bekezdésének h) pontjában a „pénzügyi intézménynél vezet számlát” szövegrész helyébe a „pénzforgalmi szolgáltatónál vezet pénzforgalmi számlát” szöveg, 8. § (2) bekezdésének i) pontjában a „számlavezetőket” szövegrész helyébe a „pénzforgalmi szolgáltató számlavezetőket” szöveg, 8. § (5) bekezdésében a „számlavezető a bejelentést banktitokként kezeli” szövegrész helyébe a „pénzforgalmi szolgáltató számlavezető a bejelentést banktitokként, illetve fizetési titokként kezeli” szöveg, 11. § (1) bekezdésének a) pontjában a „pénzügyi intézmény által felszámított” szövegrész helyébe a „pénzforgalmi szolgáltató által felszámított” szöveg, 11. § (1) bekezdésének b) pontjában a „kötelezettség,” szövegrész helyébe a „kötelezettség, továbbá” szöveg, 11. § (8) bekezdésében a „bankszámlák feletti” szövegrész helyébe a „pénzforgalmi számlák feletti” szöveg, 12. § (1) bekezdésében a „vagyonfelügyelő bankszámlájára” szövegrész helyébe a „vagyonfelügyelő pénzforgalmi számlájára” szöveg, 13. § (3) bekezdésének a) pontjában a „bankszámláit megvizsgálhatja” szövegrész helyébe a „pénzforgalmi számláit megvizsgálhatja” szöveg, 13. § (3) bekezdésének g) pontjában a „bankszámlák feletti” szövegrész helyébe a „pénzforgalmi számlák feletti” szöveg, 13. § (6) bekezdésében az „adós számláit vezető pénzügyi intézménynek” szövegrész helyébe az „adós számláit vezető pénzforgalmi szolgáltatóknak” szöveg, 17. § (1) bekezdésében a „bankszámlák felett” szövegrész helyébe a „pénzforgalmi számlák felett” szöveg, 18. § (10) bekezdésében a „bankszámlák feletti” szövegrész helyébe a „pénzforgalmi számlák feletti” szöveg, 18. § (14) bekezdésében az „adós számláit vezető pénzügyi intézményeknek” szövegrész helyébe az „adós számláit vezető pénzforgalmi szolgáltatóknak” szöveg, 21/C. §-ában az „adós számláit vezető pénzügyi intézménynek” szövegrész helyébe az „adós számláit vezető pénzforgalmi szolgáltatóknak” szöveg, 23. § (1) bekezdésében a „számláit vezető valamennyi pénzügyi intézmény” szövegrész helyébe a „számláit vezető valamennyi pénzforgalmi szolgáltató” szöveg, 24. §-ának (3) bekezdésében a „számláit vezető valamennyi pénzintézet” szövegrész helyébe a „számláit vezető valamennyi pénzforgalmi szolgáltató” szöveg, 24/A. §-ának (4) bekezdésében a „bankszámlák feletti” szövegrész helyébe a „pénzforgalmi számlák feletti” szöveg, 24/A. §-ának (5) bekezdésében a „számláit vezető pénzügyi intézménynek” szövegrész helyébe a „számláit vezető valamennyi pénzforgalmi szolgáltatónak” szöveg, 24/A. §-ának (7) bekezdésében a „bankszámláit megvizsgálhatja” szövegrész helyébe a „pénzforgalmi számláit megvizsgálhatja” szöveg, 29. §-ának g) pontjában az „adós bankszámláját vezető valamennyi pénzügyi intézményt” szövegrész helyébe az „adós számláit vezető valamennyi pénzforgalmi szolgáltatót” szöveg, 34. §-ának (2) bekezdésében az „adós számláit vezető pénzügyi intézményeknek” szövegrész helyébe az „adós számláit vezető pénzforgalmi szolgáltatóknak” szöveg, 60. §-ának (1) bekezdésében a „bankszámlák megszüntetéséről” szövegrész helyébe a „pénzforgalmi számlák megszüntetéséről” szöveg lép.
+
+(2) A Cstv. 11. § (2) bekezdésének b) pontja helyébe a következő rendelkezés lép:
+
+[(2) A fizetési haladék időtartama alatt]
+
+„b) az adós számláinak terhére – az (1) bekezdésben foglalt követelések kivételével – fizetési megbízás nem teljesíthető, az adóssal szemben nem lehet fizetési megbízást benyújtani,”.
+
+75. § A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 98. §-ának (4) bekezdésében a „bankszámlaszámát” szövegrész helyébe a „pénzforgalmi számlaszámát” szöveg, 154. §-ának (1) bekezdésében a „munkavállaló bankszámlájára” szövegrész helyébe a „munkavállaló által meghatározott fizetési számlájára” szöveg, a „bankszámlára” szövegrész helyébe a „fizetési számlára” szöveg lép.
+
+76. § A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 49/A. §-ának (1) bekezdésében a „pénzintézetnél nyitott bankszámlára történő átutalással, bankszámla hiányában postai úton” szövegrész helyébe a „fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján” szöveg, 49/A. §-ának (2) bekezdésében a „bankszámlára történő átutalása és egyszeri felvétele, illetve a postai úton történő illetménykifizetés” szövegrész helyébe a „fizetési számlára történő átutalása és egyszeri felvétele, illetve az illetménykifizetés” szöveg, 3. számú melléklet I/A. pontjának nyolcadik francia bekezdésében a „bankszámlaszáma” szövegrész helyébe a „fizetési számlaszáma” szöveg lép.
+
+77. § Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló 1992. évi XXXII. törvény 6. §-ának (2) bekezdésében a „pénzintézetnél vezetett forintszámlájára” szövegrész helyébe a „pénzforgalmi szolgáltatónál vezetett forintszámlájára” szöveg lép.
+
+78. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 79/A. §-ának (1) bekezdésében a „bankszámlára történő átutalással, bankszámla hiányában postai úton” szövegrész helyébe a „fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján” szöveg, 79/A. §-ának (2) bekezdésében a „bankszámlára történő átutalása és egyszeri felvétele, illetve a postai úton történő illetménykifizetés” szövegrész helyébe a „fizetési számlára történő átutalása és egyszeri felvétele, illetve az illetménykifizetés” szöveg lép.
+
+79. § (1) Az Áht. 18/B. §-ának (2) bekezdésében a „bankszámla” szövegrész helyébe „fizetési számla” szöveg, 18/C. §-ának (8) bekezdésében a „bankszámla-vezetési” szövegrész helyébe „pénzforgalmi-számlavezetési” szöveg, 18/C. §-ának (16) bekezdésében a „számlájukon” szövegrész helyébe a „pénzforgalmi számlájukon” szöveg, a 18/C. §-ának (17) bekezdésében a „számlájukon” szövegrész helyébe a „pénzforgalmi számlájukon” szöveg, 124. §-a (2) bekezdésének a) pontjában a „bankszámlarendjét” szövegrész helyébe a „pénzforgalmi számlarendjét” szöveg, a „bankszámlavezetési” szövegrész helyébe a „pénzforgalmi számlavezetési” szöveg, 124. §-a (4) bekezdésének b) pontjában a „bankszámlarendjét” szövegrész helyébe a „fizetési számlarendjét” szöveg lép.
+
+(2) Az Áht. 18/C. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A 18/B. § (1)–(2) bekezdésében foglaltak ellátásával kapcsolatos pénzforgalom lebonyolítására a kincstár a Magyar Nemzeti Banknál pénzforgalmi számlával rendelkezik. A kincstár a Magyar Nemzeti Banknál devizaszámlát nyithat, és azon az e törvényben meghatározott tevékenységével kapcsolatban megszerzett devizát tarthatja és használhatja fel.”
+
+(3) Az Áht. 18/C. §-ának (12) bekezdése helyébe a következő rendelkezés lép:
+
+„(12) A kincstár a kötelezett külön rendelkezése nélkül teljesíti – külön jogszabályban meghatározott számlakörben – a Magyar Állammal, a 18/B. § (4) bekezdésében, valamint a 18/C. § (6) bekezdésében meghatározott szervezetekkel szemben benyújtott hatósági átutalást és átutalási végzésen alapuló átutalást.”
+
+(4) Az Áht. 63. §-ának (6)–(8) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Ha a (3) bekezdésben meghatározott források a nettósítás során beszámítandó, a 101. § (7) bekezdésében meghatározott tartozásokra nem nyújtanak fedezetet, akkor a különbözetet a kincstár a helyi önkormányzatok részére átmenetileg megelőlegezi. A kincstár az ezen a jogcímen keletkező követelésének érvényesítése érdekében havonta beszedési megbízást nyújt be a helyi önkormányzat ellen, és ezt követően a 63. § (7) bekezdésében foglaltak szerint jár el. A megelőlegezést követő hónap első napjától a megelőlegezett összeg után a helyi önkormányzat az előző évi átlagos jegybanki alapkamat kétszeres mértékének megfelelő kamatot köteles fizetni addig a napig, amíg fizetési kötelezettségét nem teljesíti.
+
+(7) Ha a kincstár nem rendelkezik beszedési megbízásra felhatalmazással és a helyi önkormányzat fizetési kötelezettségét annak határidejét követő 60 napon belül nem teljesítette, vagy a felhatalmazással benyújtott beszedési megbízás 60 napon belül nem teljesül, a kincstár a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény 4. §-a (2) bekezdésének e) pontja alapján kezdeményezi az adósságrendezési eljárás megindítását.
+
+(8) Amennyiben a beszámítás során a kincstár a felhatalmazás alapján beszedési megbízást nyújt be, az ehhez szükséges fedezet biztosítása – az előirányzat felhasználási ütemterve alapján – a helyi önkormányzat feladata.”
+
+(5) Az Áht. 64/A. §-ának (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A helyi önkormányzat
+
+a) évközi lemondás alapján megállapított fizetési kötelezettségét a nettó finanszírozás keretében történő elszámolással,
+
+b) az év végi elszámolás során befizetéssel
+
+teljesíti. Amennyiben a fizetési kötelezettség a lemondási határidőt, illetve a külön jogszabályban megjelölt határidőt követő 90 napon belül nem teljesül, akkor a kincstár – a b) pontra vonatkozóan a 64/D. § (12) bekezdése alapján engedélyezett részletfizetés kivételével – az önkormányzat felhatalmazása alapján beszedési megbízást nyújt be a helyi önkormányzat ellen, és ezt követően a 63. § (7) bekezdése szerint jár el.”
+
+(6) Az Áht. 64/D. §-ának (11)–(12) bekezdése helyébe a következő rendelkezés lép:
+
+„(11) Amennyiben az önkormányzat fizetési kötelezettségének a felhívás elfogadásától, illetve a határozat jogerőre emelkedésétől számított 90 napon belül nem tesz eleget, a kincstár – a (12) bekezdés alapján engedélyezett részletfizetés kivételével – az önkormányzat felhatalmazása alapján beszedési megbízást nyújt be a helyi önkormányzat ellen, és ezt követően a 63. § (7) bekezdésében foglaltak szerint jár el.
+
+(12) A helyi önkormányzat – a külön jogszabályban meghatározott határidőn belül benyújtott – kérelme alapján az év végi elszámolásban, illetve a kincstár felülvizsgálata során felhívás elfogadásával, vagy jogerős határozattal megállapított visszafizetési és kamatfizetési kötelezettségére vonatkozóan a kincstár elnöke legfeljebb tizenkét havi részletfizetést engedélyezhet, amennyiben a kérelmező igazolja, hogy kötelező feladatainak ellátását az egy összegű visszafizetés veszélyeztetné. A részletfizetésről hozott határozat ellen nem lehet fellebbezni. A részleteket a 64/A. § (5) bekezdésében, illetve a 64/B. § (2) bekezdésében szabályozott kamat az adott részlet visszafizetésének napjáig terheli. Amennyiben az önkormányzat a részletfizetést engedélyező határozatban foglalt fizetési kötelezettségének a határozatban foglaltak szerint nem tesz eleget, a visszafizetési és kamatfizetési kötelezettség egy összegben, azonnal esedékessé válik. Ha az így keletkezett egy összegű fizetési kötelezettségének az esedékessé válást követő tizenöt napon belül az önkormányzat nem tesz eleget, a kincstár az önkormányzat felhatalmazása alapján beszedési megbízást nyújt be a helyi önkormányzat ellen, és ezt követően a 63. § (7) bekezdésében foglaltak szerint jár el.”
+
+(7) Az Áht. 101. §-ának (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) A (7)–(8) bekezdésben szereplő tartozásoknak a (7) bekezdésben megjelölt források terhére történő levonását és a jogosult szervezetek számára történő teljesítését a kincstár végzi. Az Egészségbiztosítási Alapból finanszírozott helyi önkormányzati költségvetési szerveket terhelő tartozások összege csak az egészségbiztosítási szerv által folyósított támogatásból vonható le. Ha az egészségbiztosítási szerv által folyósított támogatás a (7) bekezdésben meghatározott tartozásokra nem nyújt fedezetet, akkor a 63. § (6)–(7) bekezdése szerinti eljárás az irányadó azzal az eltéréssel, hogy a felhatalmazást a helyi önkormányzat költségvetési szerve adja. A felhatalmazás alapján a beszedési megbízást az Egészségbiztosítási Alapból finanszírozott helyi önkormányzati költségvetési szerv ellen kell benyújtani.”
+
+80. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 53. §-ának (1) bekezdése helyében a következő rendelkezés lép:
+
+„(1) Az 50. § (3) bekezdése alapján kiállított igazolvány után a települési önkormányzat – a (2) bekezdés szerinti eltéréssel – térítést fizet. A térítés az igazolvány kiállítását követő egyéves időtartamra szól. A térítés összege a megállapított gyógyszerkeret éves összegének 30%-a, amelyet a jogosultság kezdetétől számított három munkanapon belül az egészségbiztosítási szervnek át kell utalni. Amennyiben az egyéni gyógyszerkeret év közbeni felülvizsgálata során fél évnél hosszabb időtartamra magasabb gyógyszerkeret kerül megállapításra, a különbözet 6 havi összegének 30%-át is át kell utalni az egészségbiztosítási szerv részére. Amennyiben a települési önkormányzat a jogosultság kezdetétől számított 30 napon belül fizetési kötelezettségének nem tesz eleget, az egészségbiztosítási szerv megkeresésére az állami adóhatóság adók módjára hajtja be a követelést az önkormányzat költségvetési elszámolási számlájáról.”
+
+81. § A helyi önkormányzatok címzett és céltámogatási rendszeréről szóló 1992. évi LXXXIX. törvény 17. §-ának (1) bekezdésében a „bankján” szövegrész helyébe a „pénzforgalmi szolgáltatóján” szöveg, 17. §-ának (2) bekezdésében a „bankjával” szövegrész helyébe a „pénzforgalmi szolgáltatójával” szöveg, 17. §-ának (3) bekezdésében a „bank” szövegrész helyébe a „pénzforgalmi szolgáltató” szöveg, 17. §-ának (4) bekezdésében a „kincstár vagy a számlavezető bank (a továbbiakban együtt: pénzintézet)” szövegrész helyébe a „pénzforgalmi szolgáltató” szöveg, a „pénzintézet” szövegrész helyébe a „pénzforgalmi szolgáltató” szöveg, a 17. §-ának (6) bekezdésében a „pénzintézet” szövegrész helyébe a „pénzforgalmi szolgáltató” szöveg, 21/F. §-a (10) bekezdésének a) pontjában a „bankján” szövegrész helyébe a „pénzforgalmi szolgáltatóján” szöveg, 21/F. §-a (10) bekezdésének c) pontjában a „pénzintézet” szövegrész helyébe a „pénzforgalmi szolgáltató” szövegrész lép.
+
+82. § A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 1993. évi XLIX. törvény 38. §-ának (2) bekezdésében a „bankszámlájára” szövegrész helyébe a „pénzforgalmi számlájára” szöveg lép.
+
+83. § A nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény 60/D. §-ában a „bankszámlához” szövegrész helyébe a „pénzforgalmi számlához” szöveg lép.
+
+84. § Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 6. §-ának (2) bekezdésében a „pénzintézet” szövegrész helyébe a „pénzforgalmi szolgáltató” szöveg, 9. §-ának (2) bekezdésében a „pénzintézetnél” szövegrész helyébe a „pénzforgalmi szolgáltatónál” szöveg, 33. §-ában a „pénzintézetnél” szövegrész helyébe a „pénzforgalmi szolgáltatónál” szöveg, 48. §-ában a „postai úton” szövegrész helyébe a „pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján” szöveg, a „hitelintézet átutalási betétszámlájára (bankszámlájára) történő utalással” szövegrész helyébe a „fizetési számlára történő utalással” szöveg, 62. §-a (4) bekezdésének c) pontjában a „bankszámlával” szövegrész helyébe a „pénzforgalmi számlával” szöveg, 64/A. §-ának (5) bekezdésében a „bankszámláját” szövegrész helyébe a „pénzforgalmi számláját” szöveg lép.
+
+85. § A Rendőrségről szóló 1994. évi XXXIV. törvény 68. §-ának (1) bekezdésében a „banktitoknak” szövegrész helyébe a „banktitoknak, fizetési titoknak” szöveg lép.
+
+86. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 2. §-a (1) bekezdésének f) pontja helyébe a következő rendelkezés lép:
+
+[Az Eximbank a magyar áruk és szolgáltatások exportjához és a külföldön megvalósuló magyar befektetésekhez, valamint az importhoz kapcsolódó alábbi pénzügyi szolgáltatási tevékenységet, kiegészítő pénzügyi szolgáltatási tevékenységet és befektetési szolgáltatási tevékenységet végzi:]
+
+„f) pénzforgalmi szolgáltatások nyújtása;”
+
+87. § (1) A Vht. 7. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A bírósági végrehajtás során a pénzkövetelést elsősorban a pénzforgalmi szolgáltatónál kezelt, az adós rendelkezése alatt álló összegből, illetőleg az adós munkabéréből, illetményéből, munkadíjából, a munkaviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati és közalkalmazotti jogviszonyon, szolgálati viszonyon, társadalombiztosítási jogviszonyon alapuló járandóságából, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazásából, juttatásából, követeléséből (a továbbiakban együtt: munkabéréből) kell behajtani.”
+
+(2) A Vht. 7. §-ának (3)–(5) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) E törvény alkalmazásában pénzforgalmi szolgáltatónál kezelt összeg:
+
+a) a pénzforgalmi szolgáltatás nyújtásáról szóló törvény szerinti fizetési számla szerződés alapján nyitott fizetési számlán szereplő összeg, valamint a Polgári Törvénykönyv szerinti betétszerződés és a takarékbetét-szerződés alapján, vagy egyéb szerződés alapján a hitelintézetnél elhelyezett, az adós rendelkezése alatt álló összeg, ha azt a hitelintézet a bankszámla szerződés szabályainak megfelelően kezeli,
+
+b) a Polgári Törvénykönyv szerinti betétszerződés és takarékbetét-szerződés alapján takarékbetétkönyv, egyéb betéti okirat ellenében a hitelintézetnél elhelyezett, az adós rendelkezése alatt álló összeg; továbbá egyéb szerződés alapján az adós részére a hitelintézet által visszafizetendő, az adós rendelkezése alatt álló pénzösszeg.
+
+(4) A bírósági végrehajtás során a pénzforgalmi szolgáltatónál kezelt összegre irányadó szabályokat kell alkalmazni a tőkepiacról szóló törvény szerinti ügyfélszámlán nyilvántartott, az adós rendelkezése alatt álló összegre is.
+
+(5) A bíróság és a végrehajtó a végrehajtási eljárás során szükség esetén megkeresi az adóhatóságot a hozzá bejelentett pénzforgalmi számlaszámok közlése végett, továbbá a pénzforgalmi szolgáltatókat az adós náluk kezelt pénzösszegeinek végrehajtás alá vonásához szükséges adatok (számlaszám) közlése végett.”
+
+(3) Vht. 16. §-a a következő k) ponttal egészül ki:
+
+[Végrehajtási lapot állít ki]
+
+„k) az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti helyi bíróság, az ügyészség, a nyomozó hatóság és a szabálysértési hatóság igazságügyi szakértői díj megfizetéséről szóló határozata alapján.”
+
+(4) A Vht. 47. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A végrehajtási eljárás eredményes lefolytatása érdekében a végrehajtó szükség esetén beszerzi az adós személyének azonosítására szolgáló, továbbá az adós lakóhelyére (tartózkodási helyére), székhelyére, telephelyére, munkahelyére (egyéni vállalkozására), jövedelmére és a végrehajtás alá vonható vagyontárgyaira (ingó, ingatlan vagyon, fizetési számla, betét, értékpapír, érdekeltség gazdasági társaságban stb.) vonatkozó adatokat.”
+
+(5) A Vht. 79/A. §-át megelőző cím helyébe a következő rendelkezés lép:
+
+### „Végrehajtás pénzforgalmi szolgáltatónál kezelt összegre”
+
+(6) A Vht. 79/A. §-a helyébe a következő rendelkezés lép:
+
+„79/A. § (1) A pénzforgalmi szolgáltatónál kezelt, az adóst megillető pénzösszeg teljes összegben végrehajtás alá vonható, kivéve a természetes személyt megillető pénzösszegeket, amelyek végrehajtás alá vonása a (2) és (3) bekezdés szerint történik.
+
+(2) A pénzforgalmi szolgáltatónál kezelt, természetes személyt megillető összegből az öregségi nyugdíj legalacsonyabb összegének négyszerese feletti összeg korlátlanul végrehajtás alá vonható, az ez alatti összegből pedig az öregségi nyugdíj legalacsonyabb összege és az öregségi nyugdíj legalacsonyabb összegének négyszerese közötti rész 50%-a vonható végrehajtás alá.
+
+(3) A pénzforgalmi szolgáltatónál kezelt, természetes személyt megillető pénzösszegnek mentes a végrehajtás alól az a része, amely megfelel az öregségi nyugdíj legalacsonyabb összegének. Ha a végrehajtás gyermektartásdíj vagy szüléssel járó költség behajtására folyik, ennek az összegnek az 50%-a is végrehajtás alá vonható.
+
+(4) E § rendelkezéseit a pénzforgalmi szolgáltató által több szerződés alapján kezelt, adóst megillető együttes összegre kell alkalmazni.”
+
+(7) A Vht. 79/B. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha az átutalási végzésben vagy a végrehajtó által benyújtott hatósági átutalási megbízásban megjelölt fizetési számlán kezelt összeg nem, vagy csak részben fedezi a követelés összegét, a pénzforgalmi szolgáltató a teljesítést kiterjeszti a további fizetésiszámla-szerződés, illetve betétszerződés vagy takarékbetét-szerződés alapján kezelt, adóst megillető összegre is, kivéve azokat az összegeket, amelyek végrehajtás alá vonása a 307. § (1) bekezdése szerinti kormányrendelet alapján történik.”
+
+(8) A Vht. 79/B. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A pénzforgalmi szolgáltató az (1) bekezdésben meghatározott kiterjesztést az alábbi sorrend szerint végzi el:
+
+a) a pénzforgalmi számlán kezelt összeg, ha az nem tartozik a b) pont hatálya alá,
+
+b) a pénzforgalmi számlán betétszerződés alapján kezelt összeg,
+
+c) a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott fizetésiszámla-szerződés alapján kezelt összeg, ha az nem tartozik az a) pont hatálya alá,
+
+d) a Polgári Törvénykönyvben meghatározott betétszerződés alapján elhelyezett összeg, ha azt a hitelintézet a fizetésiszámla-szerződés szabályainak megfelelően kezeli,
+
+e) a Polgári Törvénykönyvben meghatározott takarékbetét-szerződés alapján elhelyezett összeg, ha azt a hitelintézet a fizetésiszámla-szerződés szabályainak megfelelően kezeli.”
+
+(9) A Vht. 80. §-a helyébe a következő rendelkezés lép:
+
+„80. § (1) A végrehajtást kérő kérelmére a végrehajtási lap kiállítására, illetve a végrehajtási záradékolásra jogosult bíróság a pénzkövetelés behajtása céljából a pénzforgalmi szolgáltatónál kezelt, adós rendelkezése alatt álló, a 7. § (3) bekezdésének a) pontjában meghatározott összeg – ideértve a nem pénzforgalmi számlán kezelt összegeket is – végrehajtás alá vonására átutalási végzést hoz.
+
+(2) A bíróság az átutalási végzésben felhívja az adóst megillető összeget kezelő pénzforgalmi szolgáltatót, hogy a követelés összegét – a felhívásnak megfelelően – utalja ki a végrehajtást kérőnek, illetőleg utalja át a végrehajtást kérő által megjelölt fizetési számlára.”
+
+(10) A Vht. 81. §-a helyébe a következő rendelkezés lép:
+
+„81. § (1) A bíróság az átutalási végzést a pénzforgalmi szolgáltatónak azzal a rendelkezéssel küldi meg, hogy a végzésben feltüntetett követelés összegét tartsa vissza, és azt az adósnak ne fizesse ki.
+
+(2) A bíróság az átutalási végzés jogerőre emelkedéséről a pénzforgalmi szolgáltatót azzal a rendelkezéssel értesíti, hogy a visszatartott összeget – az átutalási végzésben foglalt felhívásnak megfelelően – utalja ki a végrehajtást kérőnek, illetőleg utalja át a végrehajtást kérő által megjelölt számlára.
+
+(3) Ha az átutalási végzés kibocsátása fedezet hiánya miatt nem vagy csak részben vezetett eredményre, egyéb végrehajtható okirat kiállításának akkor van helye, ha a végrehajtást kérő igazolja, hogy az adós pénzforgalmi szolgáltatója az átutalási végzést milyen összegben teljesítette. Ha a kérelmet a függőben tartási határidő lejárta előtt terjesztik elő, a bíróság a végrehajtható okirat kiállításával egyidejűleg értesíti az adós pénzforgalmi szolgáltatóját arról, hogy nem kéri az átutalási végzés további függőben tartását.”
+
+(11) A Vht. 82. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha a költségvetési szerv elleni végrehajtás során a pénzforgalmi szolgáltató fedezet hiánya miatt nem tudott eleget tenni az átutalási végzésben foglalt felhívásnak, a pénzforgalmi szolgáltató köteles erről az adós pénzügyi ellátását végző szervet és a bíróságot haladéktalanul értesíteni.”
+
+(12) A Vht. 82/A. §-a helyébe a következő rendelkezés lép:
+
+„82/A. § (1) A pénzforgalmi szolgáltatónál kezelt, az adós rendelkezése alatt álló, a 7. § (3) bekezdésének a) pontjában meghatározott összeg – ideértve a nem pénzforgalmi számlán kezelt összegeket is – végrehajtás alá vonása iránt a végrehajtó a végrehajtói letéti számla javára benyújtott hatósági átutalási megbízással (e §-ban a továbbiakban: megbízás) intézkedik. Az adós pénzforgalmi szolgáltatója (e §-ban a továbbiakban: pénzforgalmi szolgáltató) a végrehajtó intézkedésének megfelelően köteles a számlán lévő összegből a megbízásnak megfelelő összeget a végrehajtói letéti számlára átutalni.
+
+(2) A végrehajtó e § szerinti eljárására a hatósági átutalási megbízás külön jogszabályban foglalt szabályait a (3)–(6) bekezdés szerinti eltérésekkel kell alkalmazni.
+
+(3) Ha a pénzforgalmi szolgáltató nem kezel forintban az adós rendelkezése alatt álló, (1) bekezdés szerinti pénzösszeget, akkor a megbízás közvetlenül a külföldi pénznemben kezelt összeg ellen is benyújtható.
+
+(4) Ha a megbízás teljesítése a 79/D. §-ban foglaltakba ütközne, a pénzforgalmi szolgáltató ezt haladéktalanul köteles közölni a végrehajtóval.
+
+(5) Ha a hatósági átutalási megbízás fedezet hiánya miatt nem, vagy csak részben vezetett eredményre, a végrehajtó a végrehajtást kérő erre irányuló kérelmére azt ismételten benyújtja.
+
+(6) Ha az adós elévülésre hivatkozik, a végrehajtó beterjeszti az iratokat a végrehajtást foganatosító bírósághoz, amely elévülés esetén a végrehajtást végzéssel megszünteti. Az elévülés bejelentése nem mentesíti a pénzforgalmi szolgáltatót a megbízás teljesítésének kötelezettsége alól.
+
+(7) Ha a végrehajtható okirat tartalmazza az adós pénzforgalmi számlájának adatait, vagy ha az ügyben helye van végrehajtásnak az adós pénzforgalmi számlán kezelt összegeire és a pénzforgalmi számla adatai egyébként rendelkezésre állnak, a végrehajtó a végrehajtható okirat kézhezvételét követő 2 munkanapon belül kiadja a megbízást, 5 munkanapon belül pedig postai úton kézbesíti a végrehajtható okiratot. Az így behajtott összeg kifizetésére – ha a kifizetés egyéb feltételei is fennállnak – a végrehajtható okirat kézbesítését követő 15 nap elteltével kerülhet sor. Ha a megbízás eredményeként befolyt összeg még a végrehajtási eljárás elején fizetendő költségrészt sem fedezi, a végrehajtó felhívást ad ki a költségrész megelőlegezésére és az általános szabályok szerint folytatja az eljárást.”
+
+(13) A Vht. 191. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A fizetési számlán elhelyezett összegre vonatkozó mentességi szabályokat a biztosítási intézkedés esetén is alkalmazni kell.”
+
+(14) A Vht. 237. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A végrehajtó köteles a szolgálatba lépését megelőzően a kamara elnökének, illetve az általa kijelölt személynek bemutatni a bélyegzője lenyomatát, a letéti és elszámolási számlájának nyitásáról szóló fizetésiszámla-szerződést, a felelősségbiztosítási szerződést vagy a biztosíték összegének befizetéséről szóló igazolást és bejelenteni hivatali helyiségének címét.”
+
+(15) A Vht. 237. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A kamara elnöke vagy az általa kijelölt személy ellenőrzi a bélyegzőt, a fizetésiszámla-szerződést, felelősségbiztosítási szerződést vagy a biztosíték összegének befizetését, és azt, hogy a végrehajtó hivatali helyisége és annak felszerelése alkalmas-e a hivatás gyakorlására.”
+
+(16) A Vht. 238. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A felelősségbiztosítás megkötése vagy a biztosíték összegének befizetése, a bélyegző, fizetésiszámla-szerződés jóváhagyása és a hivatali helyiség alkalmasságának megállapítása után a végrehajtó a kinevezését követő egy hónapon belül a kamara elnöke előtt esküt tesz.”
+
+(17) A Vht. 255. § d) pontja helyébe a következő rendelkezés lép:
+
+[A fővárosi bírósági, illetőleg a megyei bírósági végrehajtó (a továbbiakban: megyei bírósági végrehajtó) foganatosítja a végrehajtást, ha a végrehajtandó követelés]
+
+„d) egyéb jogcímen illeti meg a bíróságot, az Országos Igazságszolgáltatási Tanácsot, az Országos Igazságszolgáltatási Tanács Hivatalát, a miniszter által vezetett minisztériumot (a továbbiakban: minisztérium), az igazságügyi szakértői intézményt vagy az államot,”
+
+(18) A Vht. 2. §-ában a „pénzügyi intézménynél” szövegrész helyébe „pénzforgalmi szolgáltatónál” szöveg, 7. §-ának (2) bekezdésében a „pénzügyi intézménynél” szövegrész helyébe „pénzforgalmi szolgáltatónál” szöveg, 47. §-ának (2) bekezdésében a „pénzügyi intézményeket” szövegrész helyébe „pénzforgalmi szolgáltatókat” szöveg, 79/B. §-ának (5) bekezdésében a „pénzügyi intézmény” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, 79/C. §-ának (1) bekezdésében a „pénzügyi intézménynél” szövegrész helyébe „pénzforgalmi szolgáltatónál” szöveg, 79/C. §-ának (2) bekezdésében a „pénzügyi intézmény” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, 79/D. §-ában a „pénzügyi intézménynél” szövegrész helyébe „pénzforgalmi szolgáltatónál” szöveg, 79/E. §-ának (1) bekezdésében a „pénzügyi intézmény” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, 79/E. §-ának (2) bekezdésében a „pénzügyi intézmény” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, a „pénzügyi intézményt” szövegrész helyébe „pénzforgalmi szolgáltatót” szöveg, 82/A. §-át megelőző címben a „pénzügyi intézménynél” szövegrész helyébe „pénzforgalmi szolgáltatónál” szöveg, 191. §-ának (2) bekezdésében a „pénzügyi intézményt” szövegrész helyébe „pénzforgalmi szolgáltatót” szöveg, 191. §-ának (3) bekezdésében a „pénzügyi intézmény” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, 192. §-ának (1) bekezdésében a „pénzügyi intézményhez” szövegrész helyébe „pénzforgalmi szolgáltatóhoz” szöveg, 193. §-ának a) pontjában a „pénzügyi intézménynek” szövegrész helyébe „pénzforgalmi szolgáltatónak” szöveg, 204/A. §-a (2) bekezdésének b) pontjában a „pénzügyi intézménynél” szövegrész helyébe „pénzforgalmi szolgáltatónál” szöveg, 210/E. §-a (1) bekezdésének a) pontjában a „pénzügyi intézménynél” szövegrész helyébe „pénzforgalmi szolgáltatónál” szöveg, 292. §-ának (4) bekezdésében a „pénzügyi intézményt” szövegrész helyébe „pénzforgalmi szolgáltatót” lép.
+
+88. § (1) A Bérgarancia Alapról szóló 1994. évi LXVI. törvény (a továbbiakban: Batv.) 2/B. §-ának (1) bekezdésében a „bankszámlájára” szövegrész helyébe a „pénzforgalmi számlájára” szöveg lép.
+
+(2) A Batv. 1. számú mellékletének I.6. pontja helyébe a következő rendelkezés lép:
+
+„6. A pénzforgalmi számlaszáma:”
+
+(3) A Batv. 1. számú mellékletének I.7. pontja helyébe a következő rendelkezés lép:
+
+„7. A számlavezető pénzforgalmi szolgáltató megnevezése, címe:”
+
+(4) A Batv. 1. számú mellékletének II.4. pontja helyébe a következő rendelkezés lép:
+
+„4. Pénzforgalmi számlaszáma és a számlavezető pénzforgalmi szolgáltató neve, címe”
+
+89. § Az ügyészségi szolgálati viszonyról és az ügyészségi adatkezelésről szóló 1994. évi LXXX. törvény 50/D. § (1) bekezdésében a „bankszámlára” szövegrész helyébe a „fizetési számlára” szöveg, a „bankszámla hiányában pedig postai úton” szövegrész helyébe a „pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján” szöveg, 50/D. §-ának (2) bekezdésében a „bankszámlára” szövegrész helyébe „fizetési számlára” szövegrész, „postai úton történő kifizetés” szövegrész helyébe „kifizetés” szöveg lép.
+
+90. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja. tv.) 9. §-a (2) bekezdésének a) pontjában a „bankszámlán (pénzforgalmi számlán)” szövegrész helyébe „fizetési számlán” szöveg, a „postai úton” szövegrész helyébe „fizetési számláról történő készpénzkifizetés kézbesítése útján” szöveg, a „postára adás” szövegrész helyébe „kifizetés” szöveg, 44/A. § (2) bekezdésében a „bankszámlájára” szövegrész helyébe „pénzforgalmi számlájára” szöveg, 44/A. §-ának (3) bekezdésében a „bankszámlaszámát” szövegrész helyébe „pénzforgalmi számlaszámát” szöveg, 44/C. §-ának (4) bekezdésében a „bankszámlaszámát” szövegrész helyébe „pénzforgalmi számlaszámát” szöveg, 65. § (1) bekezdésének a) pontjában a „folyószámla, bankszámla” szövegrész helyébe „fizetési számla”, a „hitelintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, 65. § (5) bekezdésének a) pontjában a „pénzforgalmi bankszámláján” szövegrész helyébe „pénzforgalmi számláján” szöveg, 10. számú mellékletének 3. pontjában a „pénzforgalmi bankszámlán” szövegrész helyébe „pénzforgalmi számlán” szöveg lép.
+
+91. § A rádiózásról és televíziózásról szóló 1996. évi I. törvény 73. §-ának (1) bekezdésében a „bankszámláját” szövegrész helyébe a „pénzforgalmi számláját” szöveg, 91. § (3) bekezdésének b) pontjában a „bankigazolást” szövegrész helyébe „igazolást” szöveg, a „bankszámlán” szövegrész helyébe „pénzforgalmi számlán” szöveg lép.
+
+92. § (1) A helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény (a továbbiakban: Öatv.) 4. §-a (2) bekezdésének e)–f) pontja helyébe a következő rendelkezés lép:
+
+[Az adósságrendezési eljárás akkor kezdeményezhető, ha a helyi önkormányzat vagy az önkormányzati költségvetési szerv]
+
+„e) az államháztartás más alrendszereivel szemben fennálló köztartozását az államháztartásról szóló 1992. évi XXXVIII. törvény 63. §-ának (7) bekezdése szerinti felhatalmazáson alapuló beszedési megbízás benyújtását követő 60 napon belül nem teljesíti;
+
+f) más helyi önkormányzattal szemben fennálló tartozását – ideértve a külön jogszabály szerint létrehozott társulás keretében vállalt fizetési kötelezettségének nem teljesítését is – az önkormányzattal kötött vagy társulási megállapodáson alapuló beszedési megbízás benyújtását követő 60 napon belül nem teljesíti.”
+
+(2) Az Öatv. 10. §-a (4) bekezdésének c) pontjában a „pénzintézetet” szövegrész helyébe a „pénzforgalmi szolgáltatót” szöveg, a „bankszámláit” szövegrész helyébe „pénzforgalmi számláit” szöveg, a „pénzintézeteket” szövegrész helyébe „pénzforgalmi szolgáltatókat” szöveg, 10. §-ának (5) bekezdésében a „pénzintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, a „pénzintézeti” szövegrész helyébe „pénzforgalmi” szöveg, 11. §-a (4) bekezdésének b) pontjában az „azonnali beszedési megbízás” szövegrész helyébe „beszedési megbízás” szöveg lép.
+
+93. § (1) A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 105. §-ának (1) bekezdésében a „bankszámlájára” szövegrész helyébe „fizetési számlájára” szöveg, 117/A. §-ának (1) bekezdésében a „bankszámlára” szövegrész helyébe „fizetési számlára” szöveg, a „bankszámla hiányában postai úton” szövegrész helyébe „fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján” szöveg, 117/A. §-ának (2) bekezdésében a „bankszámlára” szövegrész helyébe „fizetési számlára” szöveg, a „postai úton történő kifizetése” szövegrész helyébe „pénzforgalmi számláról történő készpénzkifizetés” szöveg lép.
+
+(2) A Hszt. 7. számú melléklet I/A. pontjának tizedik francia bekezdése helyébe a következő rendelkezés lép:
+
+[Személyi adatok:]
+
+„– fizetési számlaszáma.”
+
+94. § A lakástakarékpénztárakról szóló 1996. évi CXIII. törvény 3. §-ának (5) bekezdésében a „jegyzett tőkével” szövegrész helyébe „induló tőkével” szöveg lép.
+
+95. § A közraktározásról szóló 1996. évi XLVIII. törvény 27. §-a (1) bekezdésének a) pontjában a „bankszámlája számát” szövegrész helyébe „fizetési számlája számát” szöveg lép.
+
+96. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 43/D. §-ának (2) bekezdésében a „banktitkot” szövegrész helyébe „banktitkot, fizetési titkot”, 43/E. §-ának (1) bekezdésében a „banktitkot” szövegrész helyébe „banktitkot, fizetési titkot” szöveg, 55. § (2) bekezdésében a „banktitkot” szöveg helyébe „banktitkot, fizetési titkot” szöveg, 74. §-ának (3) bekezdésében a „értékpapírtitok” szövegrész helyébe „értékpapírtitok, fizetési titok” szöveg lép.
+
+97. § A nemzeti hírügynökségről szóló 1996. évi CXXVII. törvény 12. §-ának (1) bekezdésében a „bankszámláját” szövegrész helyébe „pénzforgalmi számláját” szöveg lép.
+
+98. § A jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvény 2. §-ának (3) bekezdésében a „jegyzett tőkével” szövegrész helyébe „induló tőkével” szöveg, 14. §-a (11) bekezdésének a) pontjában a „bankszámlán” szövegrész helyébe „pénzforgalmi számlán” szöveg lép.
+
+99. § A bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény 137. §-ának (1) bekezdésében a „bankszámlára” szövegrész helyébe „fizetési számlára”, a „bankszámla hiányában postai úton” szövegrész helyébe „fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján” szöveg, 137. §-ának (2) bekezdésében a „bankszámlára” szövegrész helyébe „fizetési számla” szöveg, a „postai úton történő kifizetés” szövegrész helyébe „pénzforgalmi számláról történő készpénzkifizetés” szöveg lép.
+
+100. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 133. §-ának (1) bekezdésében a „bankszámlára” szövegrész helyébe „fizetési számlára” szöveg, a „bankszámla hiányában postai úton” szövegrész helyébe „fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetéssel” szöveg, 133. §-ának (2) bekezdésében a „bankszámlára” szövegrész helyébe „fizetési számlára” szöveg, a „postai úton történő kifizetés” szövegrész helyébe „pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján” szöveg lép.
+
+101. § Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 58. §-a (4) bekezdésének g) pontjában a „számlát” szövegrész helyébe „fizetési számlát” szöveg, a „hitelintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg lép.
+
+102. § A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 45. §-ának (1) bekezdésében a „bankszámlájának számát” szövegrész helyébe „pénzforgalmi számlájának számát” szöveg lép.
+
+103. § (1) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tnytv.) 79. §-a (2) bekezdésének a) pontjában a „postai úton” szövegrész helyébe „pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján” szöveg, a „hitelintézet átutalási betétszámlájára (bankszámlájára)” szövegrész helyébe „pénzforgalmi szolgáltatónál vezetett fizetési számlájára” szöveg, 79. §-a (2) bekezdésének b) pontjában az „átutalási betétszámlára (bankszámlára)” szövegrész helyébe „pénzforgalmi szolgáltatónál vezetett fizetési számlára” szöveg, 79. §-a (2) bekezdésének c) pontjában a „folyószámlára” szövegrész helyébe „fizetési számlára” szöveg lép.
+
+(2) A Tnytv. 93. §-a helyébe a következő rendelkezés lép:
+
+„93. § (1) A nyugdíj-biztosítási igazgatási szerv az e törvényen alapuló követelését öt éven belül érvényesítheti.
+
+(2) A nyugdíj-biztosítási igazgatási szerv a követelését fizetésre kötelező határozattal érvényesíti.
+
+(3) Amennyiben a fizetésre kötelezett munkáltató, egyéb szerv és személy a fizetésre kötelező határozat jogerőre emelkedésétől számított tizenöt napon belül fizetési kötelezettségét nem teljesíti, a követelést a nyugdíj-biztosítási igazgatási szerv megkeresésére az állami adóhatóság adók módjára hajtja be.
+
+(4) Az e törvényen alapuló követelés adók módjára behajtandó köztartozásnak minősül.”
+
+104. § A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 14. §-ának (2) bekezdésében a „hitelintézetnél” szövegrész helyébe „pénzforgalmi szolgáltatónál” szöveg, a „hitelintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, a 16. §-ának (1) bekezdésében a „hitelintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, 21. §-a (4) bekezdésének d) pontjában a „bankszámlájának” szövegrész helyébe „pénzforgalmi számlájának”, 22. §-ának (5) bekezdésében a „bankszámlájának” szövegrész helyébe „pénzforgalmi számlájának” szöveg, 24/A. §-ának (1) bekezdésében a „bankszámlaszámát” szövegrész helyébe „pénzforgalmi számlájának számát” szöveg, 46. §-ának (6) bekezdésében a „bankszámláját” szövegrész helyébe „pénzforgalmi számláját” szöveg, 52. §-ának (1) bekezdésében a „hitelintézetnél” szövegrész helyébe „pénzforgalmi szolgáltatónál” szöveg lép.
+
+105. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 71. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha a fizetésre kötelezett foglalkoztató, egyéb szerv és személy a fizetésre kötelező határozat, illetve fizetési meghagyás jogerőre emelkedésétől számított tizenöt napon belül fizetési kötelezettségét nem teljesíti, a követelést a nyugdíj-biztosítási igazgatási szerv megkeresésére az állami adóhatóság adók módjára hajtja be.”
+
+106. § A helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 7. §-a (2) bekezdésének e) pontjában az „az azonnali beszedési megbízás – inkasszó –” szövegrész helyébe „a fizetési kötelezettséget nem teljesítő önkormányzatok ellen felhatalmazással történő beszedési megbízás” szöveg, 8. §-a (4) bekezdésének f) pontjában az „az azonnali beszedési megbízás – inkasszó –” szövegrész helyébe „a fizetési kötelezettséget nem teljesítő önkormányzatok ellen felhatalmazással történő beszedési megbízás” szöveg, a 18. §-ának (2) bekezdésében az „azonnali beszedési megbízás (inkasszó)” szövegrész helyébe „a fizetési kötelezettséget nem teljesítő önkormányzat által a pénzforgalmi szolgáltatójának adott felhatalmazás alapján beszedési megbízás” szöveg, az „azonnali beszedési megbízást (inkasszót)” szövegrész helyébe „a korábbi székhely önkormányzat által a pénzforgalmi szolgáltatójának adott felhatalmazás alapján beszedési megbízást” szöveg lép.
+
+107. § Az Országos Tudományos Kutatási Alapprogramokról szóló 1997. évi CXXXVI. törvény 6. §-ának (2) bekezdésében a „bankszámláján” szövegrész helyébe „pénzforgalmi számláján” szöveg lép.
+
+108. § A közhasznú szervezetekről szóló 1997. évi CLVI. törvény 26. §-ának e) pontjában a „bankszámlája” szövegrész helyébe „pénzforgalmi számlája” szöveg lép.
+
+109. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény (a továbbiakban: Cst.) 7. §-ának (3) bekezdésében a „folyószámlán” szövegrész helyébe „fizetési számlán” szöveg, 37. §-ának (3) bekezdésében a „bankszámlára” szövegrész helyébe a „fizetési számlára” szöveg, 37. §-ának (4) bekezdésében a „bankszámlára” szövegrész helyébe „fizetési számlára” szöveg, 45. §-a (2) bekezdésének f) pontjában a „bankszámlaszámára” szövegrész helyébe „fizetési számlaszámára” szöveg lép.
+
+110. § A számvitelről szóló 2000. évi C. törvény 178. §-ának (1) bekezdése a következő g) ponttal egészül ki:
+
+[(1) Felhatalmazást kap a Kormány arra, hogy rendeletben szabályozza:]
+
+„g) az egyes pénz- és tőkepiaci szolgáltatásokat is végző egyéb vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságait.”
+
+111. § A tankönyvpiac rendjéről szóló 2001. évi XXXVII. törvény 8/B. §-a (1) bekezdésének a) pontjában a „bankszámlaszám” szövegrész helyébe „pénzforgalmi számlaszám” szöveg lép.
+
+112. § (1) Az MNBtv. 60. § (2) bekezdésének a) pontja helyébe a következő rendelkezés lép:
+
+[Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy az MNB 4. § (5) bekezdésében és a 26. § (3) bekezdésében foglalt feladatai körében rendeletben szabályozza]
+
+„a) a fizetési forgalomban a fizetési megbízások lebonyolításának továbbá a fizetési módok részletes szabályait,”
+
+(2) Az MNBtv. 60. § (2) bekezdésének d) pontja helyébe a következő rendelkezés lép:
+
+[Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy az MNB 4. § (5) bekezdésében és a 26. § (3) bekezdésében foglalt feladatai körében rendeletben szabályozza]
+
+„d) a Hpt. 3. §-a (2) bekezdésének b) pontjában meghatározott szolgáltatások végzésének részletes szabályait,”
+
+(3) Az MNBtv. 61. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az MNB jogosult
+
+a) a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 2. §-ának 22. pontjában meghatározott pénzforgalmi szolgáltató,
+
+b a Tpt. szerinti elszámolóházi tevékenységet végző szervezet,
+
+c) a Hpt. szerinti fizetési rendszer működtetése tevékenységet végző szervezet,
+
+d) a pénzfeldolgozási tevékenységet végző szervezet,
+
+e) a központi értéktár,
+
+f) az Országos Betétbiztosítási Alap,
+
+g) a Befektető-védelmi Alap,
+
+h) a 4. § (1), (4), (5) és (7) bekezdésekben meghatározott alapvető feladatok ellátásával összefüggésben bármely más belföldi szervezet és
+
+i) a 4. § (1), (4), (5) és (7) bekezdésekben meghatározott alapvető feladatok ellátásával összefüggésben, továbbá nemzetközi szerződésből eredő kötelezettségek ellátása érdekében külföldi szervezet
+
+részére forintban és külföldi pénznemben bankszámlát vezetni.”
+
+(4) Az MNBtv. 62. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az MNB a 7. §-ban meghatározott tevékenységéből eredő, a hitelintézetekkel szemben keletkezett követeléseit a hitelintézetek részére vezetett pénzforgalmi számlák terhére – hatósági átutalás és az átutalási végzés alapján történő átutalás teljesítését megelőző sorrendben – elégítheti ki.”
+
+(5) Az MNBtv. 67. §-a (1) bekezdésének a) pontja helyébe a következő rendelkezés lép:
+
+[Az MNB számára feladatot]
+
+„a) a pénzforgalmi szolgáltatással és a hatáskörébe tartozó kiegészítő pénzügyi szolgáltatási tevékenységek engedélyezésével kapcsolatos feladatkörében törvény,”
+
+(6) Az MNBtv. 69. §-a (2) bekezdésének b) pontja helyébe a következő rendelkezés lép:
+
+[Az MNB részesedést szerezhet:]
+
+„b) a fizetési rendszer működtetése tevékenységet”
+
+[végző szervezetben.]
+
+(7) Az MNBtv. 26. §-ának (3) bekezdésében a „pénzforgalom lebonyolítását” szövegrész helyébe „fizetési megbízások lebonyolítását” szöveg, 27. §-ának (1) bekezdésében a „hitelintézeti elszámolóház” szövegrész helyébe „pénzforgalmi elszámolóház” szöveg, 27. §-ának (2) bekezdésében a „hitelintézeti elszámolóház” szövegrész helyébe „pénzforgalmi elszámolóház” szöveg, 27. §-ának (3) bekezdésében a „hitelintézeti elszámolóház” szövegrész helyébe „pénzforgalmi elszámolóház” szöveg, 31/A. §-ának (4) bekezdésében a „pénzforgalmi, készpénz-átutalási” szövegrész helyébe „pénzforgalmi” szöveg, a „postai készpénz-átutalási, postai pénzforgalmi közvetítői és postautalvány-szolgáltatást” szövegrész helyébe nemzetközi postautalvány-szolgáltatást” szöveg, 54. §-ának (1) bekezdésében a „banktitkot” szövegrész helyébe „banktitkot, fizetési titkot” szöveg, 54. §-ának (2) bekezdésében a „banktitok” szövegrész helyébe „banktitok, fizetési titok” szöveg, 60. §-a (3) bekezdésének a) pontjában az „elszámolóházi” szövegrész helyébe „fizetési rendszer működtetése” szöveg lép.
+
+113. § A büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvény 1. számú melléklet III. fejezetének K) pontjában a „bankszámla, folyószámla” szövegrész helyébe „fizetési számla” szöveg lép.
+
+114. § A devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvény 2. §-ának 3. pontjában a „bankszámla-” szövegrész helyébe „fizetési számla-” szöveg lép.
+
+115. § A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) 115. §-ának (1) bekezdésében a „bankszámlájára” szövegrész helyébe „fizetési számlájára” szöveg, 129. §-ának (1) bekezdésében a „bankszámlára” szövegrész helyébe „fizetési számlájára” szöveg, „bankszámla hiányában postai úton” szövegrész helyébe „fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján” szöveg, 129. §-ának (3) bekezdésében a „bankszámlára” szövegrész helyébe „fizetési számlájára” szöveg, a „postai úton történő kifizetése” szövegrész helyébe „pénzforgalmi számláról történő készpénzkifizetés” szöveg lép.
+
+116. § A felnőttképzésről szóló 2001. évi CI. törvény 26. §-a (2) bekezdésének c) pontjában a „bankszámlaszámát és a számlavezető pénzintézetének megnevezését” szövegrész helyébe „pénzforgalmi számlaszámát és a számlavezető pénzforgalmi szolgáltatójának megnevezését” szöveg lép.
+
+117. § (1) A Tpt. 217. §-ának (2) bekezdésében a „hatmillió forint” szövegrész helyébe „húszezer euró” szöveg, 338. §-ának (4) bekezdésében a „jegyzett” szövegrész helyébe „induló” szöveg, 352. §-ának (3) bekezdésében a „banktitokra” szövegrész helyébe „banktitokra, fizetési titokra” szöveg, 394. §-a (1) bekezdésének e) pontjában a „bankszámla-forgalommal” szövegrész helyébe „fizetési számla-forgalommal” szöveg, 2. számú melléklet 1. címének 9. pontjában a „bankszámla” szövegrész helyébe „fizetési számla” szöveg, 4. számú melléklet e) pontjának 16. alpontjában a „bankszámla” szövegrész helyébe „fizetési számla” szöveg, 7. számú melléklet 13. pontjában a „bankszámla” szövegrész helyébe „fizetési számla” szöveg lép.
+
+(2) A Tpt. 227. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az Alap pénzeszközeit – a házipénztárt, a fizetési számlán tartott likviditási tartalékot, valamint a kifizetés lebonyolítására vagy más, az Alap működéséhez szükséges célra pénzforgalmi szolgáltatóhoz átutalt összeget kivéve – állampapírban vagy az MNB-nél elhelyezett betétben tarthatja.”
+
+118. § Az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény 2. §-a (5) bekezdésének e) pontjában a „bankszámlával” szövegrész helyébe „számlával” szöveg, 12. §-ának (6) bekezdésében a „bankszámláját” szövegrész helyébe „számláját” szöveg, a „hitelintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, a „bankszámlájára” szövegrész helyébe „számlájára” szöveg lép.
+
+119. § Az Artv. 29. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A szerződésnek tartalmaznia kell a fizetésre kötelezett részéről a termék ellenértékére a jegybanki alapkamat kétszeresével növelt kamatára vonatkozó, a pénzforgalmi szolgáltatójának adott, a beszedési megbízás teljesítésére vonatkozó hozzájárulását, felhatalmazó nyilatkozatát, arra az esetre, ha az (1) bekezdésben meghatározott határidőn belül a fizetési teljesítésre nem kerül sor.”
+
+120. § A pártok működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítványokról szóló 2003. évi XLVII. törvény 3. §-ának (3) bekezdésében a „pénzforgalmi számlájáról” szövegrész helyébe „fizetési számlájáról” szöveg lép.
+
+121. § A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 70. §-a (2) bekezdésének f) pontjában a „számláját” szövegrész helyébe „pénzforgalmi számláját” szöveg, a „hitelintézetnél” szövegrész helyébe „pénzforgalmi szolgáltatónál” szöveg, 84. §-ának (3) bekezdésében a „bankszámla” szövegrész helyébe „pénzforgalmi számla” szöveg, 84. §-ának (4) bekezdésében a „bankszámla” szövegrész helyébe „pénzforgalmi számla” szöveg, 134. §-a C) pontjának m) alpontjában a „hitelintézeti folyószámlán” szövegrész helyébe „pénzforgalmi számlán” szöveg lép.
+
+122. § A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény 61. § (5) bekezdésének a) pontjában a „bankszámlaszámáról” szövegrész helyébe „pénzforgalmi számlaszámáról” szöveg, 66. §-ának (5) bekezdésében a „bankszámlaszámát” szövegrész helyébe „pénzforgalmi számlaszámát” szöveg lép.
+
+123. § (1) A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény (a továbbiakban: Szht.) 4/A. § (2) bekezdés a) pontjának af) alpontja helyébe a következő rendelkezés lép:
+
+[A 4. § (5) bekezdésben és az 5. § (2) bekezdésben meghatározott fejlesztési támogatás nyújtásáról fejlesztési megállapodást kell kötni. A fejlesztési megállapodásnak a következőket kell tartalmaznia:
+
+a) a megállapodást kötő felek]
+
+„af) pénzforgalmi számlaszámát,”
+
+(2) Az Szht. 15. § (3) bekezdésének b) pontjában a „bankszámlaszámát” szövegrész helyébe „pénzforgalmi számlaszámát” szöveg, a „pénzintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg lép.
+
+124. § Az energiaadóról szóló 2003. évi LXXXVIII. törvény 6. §-a (4) bekezdésének c) pontjában a „bankszámlájának” szövegrész helyébe „pénzforgalmi számlájának” szöveg lép.
+
+125. § (1) Az Art. 9. §-ának (3) bekezdésében a „pénzforgalmi bankszámla számlaszámát” szövegrész helyébe „pénzforgalmi számlaszámát”, 9. §-ának (9) bekezdésében „pénzforgalmi bankszámla” szövegrész helyébe „pénzforgalmi számla” szöveg, 14. §-a (1) bekezdésének i) pontjában a „bankszámlanyitásra” szövegrész helyébe „pénzforgalmi számlanyitásra” szöveg, 14. §-ának (8) bekezdésében a „bankszámla-fenntartási” szövegrész helyébe „pénzforgalmi-számlafenntartási” szöveg, 23. §-ának (7) bekezdésében a „pénzforgalmi bankszámlaszáma” szövegrész helyébe „pénzforgalmi számlaszáma” szöveg, a „hitelintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, 37. §-ának (2) bekezdésében a „pénzforgalmi bankszámláját” szövegrész helyébe „fizetési számláját” szöveg, a „hitelintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, a „bankszámlával” szövegrész helyébe „fizetési számlával” szöveg, 43. §-ának (2) bekezdésében a „folyószámlájára” szövegrész helyébe „fizetési számlájára” szöveg, 109. §-ának (3) bekezdésében a „bankszámla (pénzforgalmi számla) kivonat” szövegrész helyébe „fizetésiszámla-kivonat” szöveg, 109. §-a (4) bekezdésének b) pontjában a „bankszámlán (pénzforgalmi számlán) szövegrész helyébe „fizetési számlán” szöveg, 152. §-ának (1) bekezdésében a „bankszámlát vezető hitelintézet” szövegrész helyébe „fizetési számlát vezető pénzforgalmi szolgáltató” szöveg, az „azonnali beszedési megbízását” szövegrész helyébe „hatósági átutalási megbízását”, 152. §-ának (2) bekezdésében az „az azonnali beszedési megbízást” szövegrész helyébe „a hatósági átutalási megbízást” szöveg, a „beszedési megbízás” szövegrész helyébe „hatósági átutalási megbízás” szöveg, 172. §-a (1) bekezdésének c) pontjában a „bankszámlanyitási” szövegrész helyébe „pénzforgalmi számlanyitási” szöveg, 172. §-ának (7) bekezdésében a „bankszámlanyitási” szövegrész helyébe „pénzforgalmi számlanyitási” szöveg, 3. számú mellékletének D) pontja fejezetcímében a „hitelintézet” szövegrész helyébe „hitelintézet, pénzforgalmi szolgáltató” szöveg, 3. számú mellékletének D) pontjának 5. alpontjában a „pénzforgalmi bankszámlát” szövegrész helyébe „pénzforgalmi számlát szöveg, „a „hitelintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, a „bankszámla” szövegrész helyébe „pénzforgalmi számla” szöveg, 4. számú mellékletének 5. pontjában a „bankszámlájára” szövegrész helyébe „fizetési számlájára” szöveg, 7. számú melléklete 1. pontjának c) alpontjában a „bankszámlaszámáról” szövegrész helyébe „fizetési számlaszámáról” szöveg lép.
+
+(2) Az Art. 38. §-a helyébe a következő rendelkezés lép:
+
+„38. § (1) A fizetési kötelezettséget a pénzforgalmi számlával rendelkező adózónak belföldi pénzforgalmi számlájáról átutalással, pénzforgalmi számlával nem rendelkező adózónak belföldi fizetési számlájáról történő átutalással vagy készpénz-átutalási megbízással kell teljesítenie. Az adózó az állami adóhatósághoz teljesítendő fizetési kötelezettségét a külön jogszabályban meghatározottak szerint készpénz-helyettesítő fizetési eszközzel is teljesítheti.
+
+(2) A belföldi jogi személynek, jogi személyiséggel nem rendelkező gazdasági társaságnak és az általános forgalmi adó fizetésére kötelezett magánszemélynek – ideértve az egyéni vállalkozót is – (a továbbiakban együtt: pénzforgalmi számla nyitására kötelezett adózó) legalább egy belföldi pénzforgalmi számlával kell rendelkeznie. Pénzforgalmi számla nyitására kötelezett adózó rendszeres gazdasági tevékenysége körében kizárólag pénzforgalmi számlát nyithat. Az első pénzforgalmi számlát a pénzforgalmi számlanyitásra kötelezett adózó adószámának közlésétől számított 15 napon belül kell megnyitni. Az adózó bevallásában, valamint kiutalási kérelmében feltünteti azon fizetési számla számát, amelyre a költségvetési támogatás kiutalását kéri.
+
+(3) A pénzforgalmi számlanyitásra kötelezett adózó – törvény vagy kormányrendelet eltérő rendelkezése hiányában – a készpénzben teljesíthető fizetések céljára szolgáló pénzeszközök kivételével köteles pénzeszközeit pénzforgalmi számlán tartani, pénzforgalmát pénzforgalmi számlán lebonyolítani, s ennek érdekében pénzforgalmi számlaszerződést kötni.
+
+(4) A pénzforgalmi számla nyitására kötelezett adózót megillető költségvetési támogatást az adóhatóság kizárólag az adózó belföldi pénzforgalmi számlájára történő átutalással teljesítheti. A pénzforgalmi számla nyitására nem kötelezett adózót megillető költségvetési támogatást az adóhatóság belföldi fizetési számlára történő átutalással vagy fizetési számláról történő készpénzkifizetés kézbesítése útján teljesíti az adózónak. A belföldi pénzforgalmi számla nyitására nem kötelezett, külföldi illetőségű adózót megillető adó-visszatérítést, adó-visszaigénylést az adóhatóság az adózó által megadott külföldi fizetési számlára, az adózó által meghatározott devizanemben utalja át. Olyan külföldi pénznem esetében, amelynek nincs a Magyar Nemzeti Bank által közzétett forintban megadott árfolyama, a Magyar Nemzeti Bank által közzétett, euróban megadott árfolyamot kell figyelembe venni. Az átváltás költsége a külföldi illetőségű adózót terheli.
+
+(5) Költségvetési támogatás, adó-visszaigénylés faktorálása esetén – amennyiben az adózó bevallásához az erről szóló szerződést mellékeli – az adóhatóság a költségvetési támogatás, adó-visszaigénylés összegét a faktorálási tevékenységet végző pénzügyi intézmény bankszámlájára átutalással teljesíti. Az adóhatóság visszatartási jogát az adózó tartozása tekintetében gyakorolhatja. Az adózó bevallásában nem rendelkezhet arról, hogy az igényelt költségvetési támogatást, adó-visszaigénylést az adóhatóság az általa megjelölt adó megfizetésére számolja el. Késedelmes kiutalás esetén a késedelmi kamat a faktorálási tevékenységet végző pénzügyi intézményt illeti meg.
+
+(6) Jogszabály az illeték és az önkormányzati adóhatóság hatáskörébe tartozó adó tekintetében más fizetési módot is megjelölhet.”
+
+(3) Az Art. 152. §-át megelőző alcím helyébe a következő rendelkezés lép:
+
+### „Végrehajtás munkabérre, fizetési számlára”
+
+126. § (1) Az Eht. 128. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az elektronikus hírközlési szolgáltató nem teheti függővé valamely előfizetői szolgáltatás igénybevételét az adott előfizetői szolgáltatáshoz nem nélkülözhetetlen más előfizetői szolgáltatás igénybevételétől, vagy az adott előfizetői szolgáltatáshoz nem nélkülözhetetlen más szolgáltatás vagy termék megvásárlásától vagy igénybevételétől.”
+
+(2) Az Eht. 129. §-a (6) bekezdésének d) pontjában a „bankszámlaszáma” szövegrész helyébe „pénzforgalmi számlaszáma” szöveg lép.
+
+127. § (1) A Pt. 3. §-a a következő 38. ponttal egészül ki:
+
+[E törvény alkalmazásában:]
+
+„38. Posta Elszámoló Központ: egyetemes postai szolgáltató által lebonyolított pénzforgalmi szolgáltatások feldolgozását, pénzforgalmi szolgáltatókkal történő elszámolását, valamint fizetési rendszeren keresztüli pénzügyi rendezését végző a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) szerinti fizetési rendszer működtetőjének nem minősülő szervezet.”
+
+(2) A Pt. 4. §-a (1) bekezdésének d) pontja helyébe a következő rendelkezés lép:
+
+[Postai tevékenység]
+
+„d) nemzetközi postautalvány-szolgáltatás;”
+
+(3) A Pt. 37. §-a helyébe a következő rendelkezés lép:
+
+„37. § (1) Az egyetemes postai szolgáltató az ország egész területén köteles a Hpt. 2. számú melléklete I. Fejezetének 16. pontja szerinti készpénzátutalást, valamint a Hpt. 2. számú melléklete I. Fejezetének 9. pontja szerinti fizetési számláról történő készpénzkifizetést lehetővé tevő szolgáltatást és készpénzbefizetést lehetővé tevő szolgáltatást végezni, és ennek érdekében Posta Elszámoló Központot működtetni, valamint jogosult a Hpt.-ben meghatározott további pénzforgalmi szolgáltatások végzésére.
+
+(2) Nemzetközi postautalvány-szolgáltatás tekintetében nem minősül az üzleti titok sérelmének a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmt.) 22. § (1)–(2) bekezdése alapján a pénzügyi információs egységként működő hatóság és a Pénzügyi Szervezetek Állami Felügyelete részére történő adatátadás, továbbá a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i, 1781/2006/EK európai parlamenti és tanácsi rendelet 4. cikkében meghatározott adatoknak a rendelet hatálya alá tartozó kedvezményezett fizetési szolgáltatója és közvetítő fizetési szolgáltató számára a rendelet által meghatározott esetekben történő továbbítása.
+
+(3) Nemzetközi postautalvány-szolgáltatás tekintetében az üzleti titok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha
+
+a) a postai szolgáltató a Pmt.-ben meghatározott bejelentési kötelezettségét teljesíti;
+
+b) a pénzügyi információs egységként működő hatóság – a Pmt.-ben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresése teljesítése céljából, ha a megkeresés tartalmazza a külföldi adatkérő által aláírt titoktartási záradékot – írásban kér üzleti titoknak minősülő adatot a postai szolgáltatótól;
+
+c) a Pmt. 7–9. §-ában meghatározott adatok a Pmt. hatálya alá tartozó szolgáltató számára a Pmt. 19. §-ában meghatározott eseteiben kerülnek átadásra.”
+
+(4) A Pt. 39. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A 4. § (1) bekezdés e) pontjában foglaltakra – a külön jogszabályban meghatározott eltérésekkel – a postai szolgáltatási szerződésre vonatkozó rendelkezéseket kell értelemszerűen alkalmazni.”
+
+128. § (1) A Vtv. 17. §-a (2) bekezdésének a) pontjában a „pénzforgalmi számlájának jelzőszámait” szövegrész helyébe „pénzforgalmi számlájának számait” szöveg, 45. §-a (3) bekezdése b) pontjában a „bankszámlaszámát” szövegrész helyébe „pénzforgalmi számlaszámát”, 52. §-ának (1) bekezdésében a „banki átutalással” szövegrész helyébe „átutalással” szöveg lép.
+
+(2) A Vtv. 56. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha az esedékes vámösszeget és/vagy a nem közösségi adók és díjak összegét, illetve az e törvény 61/A. §-a szerint megállapított vámigazgatási bírságot az előírt időtartamon belül nem fizették meg, illetve bármely tagállam vámhatósága a tartozás végrehajtása érdekében megkeresést küld, a vámhatóság az adók módjára behajtandó köztartozások beszedésére vonatkozó szabályok alkalmazásával haladéktalanul intézkedik az alábbiak szerint:
+
+a) amennyiben a tartozást a vámigazgatási eljáráshoz nyújtott biztosíték
+
+1. teljes egészében fedezi, a vámhatóság azt érvényesíti, vagy
+
+2. teljes összegében nem fedezi, a rendelkezésre álló biztosítékot elszámolja, és a fennmaradó összeg vonatkozásában, továbbá, ha biztosítékot nyújtani nem kellett, a b)–c) pontban meghatározott intézkedéseket megteszi,
+
+b) fizetési számlával rendelkező adós bármely fizetési számlája ellen hatósági átutalást nyújt be, vagy fizetési számlával nem rendelkező adós esetében intézkedik a munkabérből vagy egyéb járandóságból történő letiltás iránt,
+
+c) ha a b) pontban meghatározott végrehajtás nem, vagy aránytalanul hosszú idő múlva vezetne eredményre, az adós követelését, továbbá ingó és ingatlan vagyontárgyait kell végrehajtás alá vonni. A vámhatóság az ingó és ingatlan vagyontárgyak végrehajtása érdekében az állami adóhatóságot keresi meg.”
+
+129. § (1) A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) 48. §-ának (15) bekezdése helyébe a következő rendelkezés lép:
+
+„(15) Amennyiben a vámhatóság által a fizetési számlával rendelkező adófizetésre kötelezett személy esetében hatósági átutalással, a fizetési számlával nem rendelkező adófizetésre kötelezett személy esetében munkabérből vagy egyéb rendszeres járandóságból, továbbá a kifizetőtől járó kifizetésből történő letiltással foganatosított végrehajtási cselekmény nem, vagy aránytalanul hosszú idő múlva vezetne eredményre, a vámhatóság az adófizetésre kötelezett személy – ideértve a jövedéki bírság, a zárjegyhiány [73. § (5) bekezdés], az adójegy utáni halasztott fizetési kötelezettség [98. § (5) bekezdés] megfizetésére kötelezett személyt is – követelésének, továbbá ingó és ingatlan vagyontárgyainak végrehajtása érdekében az adóhatóságot keresi meg.”
+
+(2) A Jöt 66. §-ának (3) bekezdésében a „banki átutalással” szövegrész helyébe „pénzforgalmi számlájáról átutalással” szöveg, 106. §-ának (8) bekezdésében a „bankszámlájáról” szövegrész helyébe „fizetési számlájáról” szöveg lép.
+
+130. § (1) A Kbt. 4. §-ának 30/B. pontja helyébe a következő rendelkezés lép:
+
+[E törvény alkalmazásában]
+
+„30/B. postai szolgáltatástól eltérő szolgáltatás:
+
+d) a 3. melléklet 6. csoportjában és a 174. § b) pontjában meghatározott pénzügyi szolgáltatások, beleértve a pénzforgalmi szolgáltatást;”
+
+(2) A Kbt. 53. §-a (5) bekezdésének a) pontja helyébe a következő rendelkezés lép:
+
+[Az ajánlatkérő az ajánlati felhívásban előírhatja, hogy a nyertes ajánlattevővel kötendő szerződésben biztosítékot kell kikötni. Ebben az esetben az ajánlatkérő az ajánlati felhívásban]
+
+„a) előírja, hogy a biztosíték az ajánlattevőként szerződő fél választása szerint teljesíthető az előírt pénzösszegnek az ajánlatkérőként szerződő fél fizetési számlájára történő befizetéssel, bankgarancia biztosításával, biztosítási szerződés alapján kiállított – készfizető kezességvállalást tartalmazó – kötelezvénnyel, vagy”
+
+(3) A Kbt. 54. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az ajánlatkérő – a megfelelő ajánlattétel elősegítése érdekében is – dokumentációt köteles készíteni, amely egyebek mellett tartalmazza a szerződéstervezetet. A 22. § (1) bekezdése szerinti ajánlatkérő esetében a szerződéstervezetnek tartalmaznia kell a 305. § (4) bekezdése szerinti feltételek teljesülésének esetére alkalmazandó beszedési megbízás teljesítésére szóló, az ajánlatkérő részéről a pénzforgalmi szolgáltatójának adott hozzájárulását, felhatalmazó nyilatkozatát. A dokumentáció tartalmazza az ajánlat részeként benyújtandó igazolások, nyilatkozatok jegyzékét, amelyben az ajánlatkérő külön megjelöli azokat a csatolandó dokumentumokat, amelyek a 4. § 9/A. pontja szerinti körülmények fennállása esetén hamis nyilatkozatnak minősülnek.”
+
+(4) A Kbt. 59. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A biztosíték az ajánlattevő választása szerint teljesíthető az előírt pénzösszegnek az ajánlatkérő fizetési számlájára történő befizetésével, bankgarancia biztosításával vagy biztosítási szerződés alapján kiállított – készfizető kezességvállalást tartalmazó – kötelezvénnyel. A befizetés helyét, illetőleg az ajánlatkérő fizetési számlaszámát, továbbá a befizetés igazolásának módját az ajánlati felhívásban meg kell határozni.”
+
+(5) A Kbt. 99. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Eredményes közbeszerzési eljárás alapján a szerződést a 91. § szerinti szervezettel (személlyel) kell az ajánlati felhívás, a dokumentáció és az ajánlat tartalmának megfelelően írásban megkötni. A 22. § (1) bekezdése szerinti ajánlatkérő esetében a szerződésnek a 305. § (4) bekezdése szerinti feltételek teljesülésének esetére tartalmaznia kell az ajánlatkérő részéről a pénzforgalmi szolgáltatójának adott, a beszedési megbízás teljesítésére vonatkozó hozzájárulását, felhatalmazó nyilatkozatát. Ha az ajánlatkérő lehetővé tette a közbeszerzés egy részére történő ajánlattételt, a részek tekintetében nyertesekkel (91. §) kell szerződést kötni. E szerződés szükség esetén az ajánlatoknak, illetőleg az ajánlati felhívásnak megfelelően tartalmazhatja az ajánlattevőként szerződést kötők közötti együttműködés feltételeit is.”
+
+(6) A Kbt. 305. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az ajánlatkérőként szerződő fél által igazolt szerződésszerű teljesítés esetén, a (3) bekezdés szerinti határidő eredménytelen elteltét követően, az ajánlattevőként szerződő fél – a 99. § (1) bekezdésében meghatározott – az ajánlatkérőként szerződő fél által adott hozzájárulás, felhatalmazó nyilatkozat alapján beszedési megbízást nyújthat be a 22. § (1) bekezdése szerinti ajánlatkérő fizetési számlája terhére.”
+
+131. § A Kbt. 99. §-a helyébe a következő rendelkezés lép:
+
+„99. § (1) Eredményes közbeszerzési eljárás alapján a szerződést a nyertes szervezettel (személlyel) (91. §) kell írásban megkötni az ajánlati felhívás, a dokumentáció, a dokumentáció részeként kiadott szerződéstervezet, valamint az ajánlat tartalmának megfelelően. A szerződésnek tartalmaznia kell – az eljárás során alkalmazott bírálati szempontra tekintettel – a nyertes ajánlat azon elemeit, amelyek értékelésre kerültek, valamint a 22. § (1) bekezdése szerinti ajánlatkérő esetében a 305. § (4) bekezdése szerinti feltételek teljesülésének esetére az ajánlatkérő részéről a pénzforgalmi szolgáltatójának adott, a beszedési megbízás teljesítésére vonatkozó hozzájárulását, felhatalmazó nyilatkozatát.
+
+(2) Ha az ajánlatkérő lehetővé tette a közbeszerzés egy részére történő ajánlattételt, a részek tekintetében nyertesekkel (91. §) kell szerződést kötni. E szerződés szükség esetén az ajánlatoknak, illetőleg az ajánlati felhívásnak megfelelően tartalmazhatja az ajánlattevőként szerződést kötők közötti együttműködés feltételeit is.
+
+(3) A szerződéskötés tervezett időpontját az ajánlati felhívásban kell megadni, azzal, hogy az nem határozható meg
+
+a) az írásbeli összegezés [93. § (2) bekezdés] megküldését követő naptól számított tizenkettedik napnál korábbi és harmincadik – építési beruházás esetében hatvanadik – napnál későbbi időpontban,
+
+b) a törvény harmadik része szerinti eljárásban az írásbeli összegezés megküldését követő naptól számított huszadik napnál korábbi és harmincadik – építési beruházás esetében hatvanadik – napnál későbbi időpontban.
+
+(4) Amennyiben jogorvoslati eljárás indul, a szerződéskötés ajánlati felhívásban megadott időpontjától eltérve a szerződést az ügy érdemében hozott vagy a közbeszerzési ügy befejezését eredményező határozat meghozataláig nem lehet megkötni, kivéve, ha a Közbeszerzési Döntőbizottság a szerződés megkötését engedélyezi [332. § (4) bekezdés].”
+
+132. § A társasházakról szóló 2003. évi CXXXIII. törvény 12. §-ának (1) bekezdésében a „bankszámla” szövegrész helyébe „fizetési számla” szöveg lép.
+
+133. § A sportról szóló 2004. évi I. törvény 34. §-a (2) bekezdésének e) pontjában a „bank” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg lép.
+
+134. § A Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény 26. §-ának (1) bekezdésében a „banktitoknak” szövegrész helyébe „banktitoknak, fizetési titoknak” szöveg lép.
+
+135. § Az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 143/C. §-ának (5) bekezdésében az „azonnali beszedési megbízással” szövegrész helyébe „hatósági átutalással” szöveg lép.
+
+136. § Az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény 13. §-ának (2) bekezdésében a „bankszámlára” szövegrész helyébe „fizetési számlára” szöveg, a „bankszámla hiányában postai úton” szövegrész helyébe „fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján” szöveg lép.
+
+137. § Az elektronikus pénzt kibocsátó szakosított hitelintézetről szóló 2004. évi XXXV. törvény 3. §-ának (2) bekezdése a következő c) ponttal egészül ki:
+
+[(2) Az elektronikus pénzt kibocsátó szakosított hitelintézet az (1) bekezdésben meghatározottakon felül üzletszerűen kizárólag a következő tevékenységeket végezheti:]
+
+„c) a Hpt. 2. számú melléklet 9. pont c) és e) alpontjában meghatározott pénzforgalmi szolgáltatások nyújtása.”
+
+138. § A települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény 3. §-a (1) bekezdésének h) pontja helyébe a következő rendelkezés lép:
+
+[A többcélú kistérségi társulási megállapodás tartalmazza:]
+
+„h) az önkormányzatok vállalt pénzügyi hozzájárulása nem teljesítése esetén irányadó eljárást (a társulás döntésétől függően a társulás tagjai részéről a pénzforgalmi szolgáltatójuknak adott, a beszedési megbízás teljesítésére vonatkozó hozzájárulását, felhatalmazó nyilatkozatát, amely alapján a társulás beszedési megbízást nyújthat be a pénzforgalmi szolgáltatóhoz);”
+
+139. § A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglakoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény 14. §-a (6) bekezdésének e) pontjában a „bankszámlaszámát” szövegrész helyébe „pénzforgalmi számlaszámát” szöveg lép.
+
+140. § A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 132. §-ában a „pénzügyi intézménynél” szövegrész helyébe „pénzforgalmi szolgáltatónál” szöveg, 149. §-a (1) bekezdésének f) pontjában a „pénzügyi intézményre” szövegrész helyébe „pénzforgalmi szolgáltatóra” szöveg lép.
+
+141. § (1) A távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény (a továbbiakban: Tétv.) 3. §-ának (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A (2) bekezdés aa)–ad), ba)–bb), cb)–cc), ce)–cf) és da) alpontjában meghatározott tájékoztatás helyett a pénzforgalmi szolgáltatásról szóló 2009. évi LXXXV. törvény 8–10. §-ában és 29–31. §-ában előírt tájékoztatást kell megadni, ha pénzforgalmi szolgáltatás nyújtására kerül sor.”
+
+(2) A Tétv. 3. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) Amennyiben az egymást követő ügyletek, illetve az azonos jellegű elkülönült műveletek, amelyek időbeli kapcsolatban állnak egymással, az 1. § (2) bekezdésétől eltérően, alapmegállapodás nélkül ugyanazon felek között kerülnek végrehajtásra, az (1)–(6) bekezdések rendelkezéseit kizárólag az első ügyletre vagy műveletre kell alkalmazni. Ha egy évnél hosszabb ideig nem kerül sor ügylet vagy azonos jellegű művelet teljesítésére, az ezt követő ügyletet vagy műveletet új ügyletnek, illetve egy újabb műveletsor első műveletének kell tekinteni, és arra az (1)–(6) bekezdések rendelkezéseit ismét alkalmazni kell.”
+
+(3) A Tétv. 19. §-a helyébe a következő rendelkezés lép:
+
+„19. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) az Európai Parlament és a Tanács – a 2005/29/EK irányelvvel és a 2007/64/EK irányelvvel módosított – 2002/65/EK irányelve (2002. szeptember 23.) a fogyasztói pénzügyi szolgáltatások távértékesítéssel történő forgalmazásáról, valamint a 90/619/EGK tanácsi irányelv, a 97/7/EK irányelv és a 98/27/EK irányelv módosításáról,
+
+b) az Európai Parlament és a Tanács 2007/64/EK irányelve (2007. november 13.) a belső piaci pénzforgalmi szolgáltatásokról és a 97/7/EK, a 2002/65/EK, a 2005/60/EK és a 2006/48/EK irányelv módosításáról és a 97/5/EK irányelv hatályon kívül helyezéséről – 31. cikk második bekezdés.”
+
+142. § A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény 31. §-ának (1) bekezdésében a „bank-” szövegrész helyébe „fizetési, bank-” szöveg lép.
+
+143. § A gazdasági társaságokról szóló 2006. évi IV. törvény 29. §-ának (3) bekezdésében a „bankszámla” szövegrész helyébe „pénzforgalmi számla” szöveg, 43. §-ának (1) bekezdésében a „bankszámláit” szövegrész helyébe „pénzforgalmi számláit” szöveg lép.
+
+144. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 24. §-a (1) bekezdésének j) pontjában a „pénzügyi intézmények” szövegrész helyébe „pénzforgalmi szolgáltatók” szöveg, 24. §-ának (6) bekezdésében a „pénzügyi intézmény” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, 37. §-ának (1) bekezdésében a „hitelintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, a „pénzügyi intézmények” szövegrész helyébe „pénzforgalmi szolgáltatók” szöveg, 53. §-ának (2) bekezdésében a „pénzügyi intézmény” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, 82. §-ának (4) bekezdésében a „bankszámláit” szövegrész helyébe „pénzforgalmi számláit” szöveg, 102. §-a (3) bekezdésének f) pontjában a „bankszámláit” szövegrész helyébe „pénzforgalmi számláit” szöveg, a „pénzintézetet” szövegrész helyébe „pénzforgalmi szolgáltatót” szöveg, 1. számú melléklet II. 1. b) pontjának ba) alpontjában a „hitelintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, 1. számú melléklet II. 2. c) pontjának ca) alpontjában a „hitelintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, 3. számú melléklet II. 5. pontjának a) pontjában a „hitelintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, 3. számú melléklet II. 5. pontjának c) pontjában a „hitelintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg lép.
+
+145. § A szövetkezetekről szóló 2006. évi X. törvény 11. §-ának (4) bekezdésében a „bankszámlára” szövegrész helyébe „pénzforgalmi számlára” szöveg, 40. §-ának (7) bekezdésében a „bankszámláját” szövegrész helyébe „pénzforgalmi számláját” szöveg lép.
+
+146. § A földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény 9. §-ának (2) bekezdésében a „bankszámlájára” szövegész helyébe „pénzforgalmi számlájára” szöveg lép.
+
+147. § Az Matv. 28/A. §-a (2) bekezdésében a „bankszámlaszámát” szövegrész helyébe „fizetési számlaszámát” szöveg, a „bankszámlaszámot” szövegrész helyébe „fizetési számlaszámot” szöveg, 28/A. §-ának (3) bekezdésében a „bankszámlaszám” szövegrész helyébe „fizetési számlaszám” szöveg, a „bankszámla” szövegrész helyébe „fizetési számla” szöveg, a „bankszámlakivonat” szövegrész helyébe „fizetésiszámla-kivonat” szöveg, a „hitelintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, 29. §-ának (3) bekezdésében a „bankszámlaszám” szövegrész helyébe „fizetési számlaszám” szöveg, 56. §-a (3) bekezdésének g) pontjában a „bankszámlaszámát” szövegrész helyébe „fizetési számlaszámát” szöveg, 61. §-ának (2) bekezdésében a „hitelintézetnél” szövegrész helyébe „pénzforgalmi szolgáltatónál” szöveg, a „hitelintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, 68. §-ának (3) bekezdésében a „banktitkot” szövegrész helyébe „banktitkot, fizetési titkot” szöveg, 69. §-ának (5) bekezdésében a „bankszámláján” szövegrész helyébe „fizetési számláján” szöveg lép.
+
+148. § A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény 9. §-a (4) bekezdésének d) pontjában a „bankszámlaszámmal” szövegrész helyébe „pénzforgalmi számlaszámmal” szöveg, 16. §-ának (5) bekezdésében a „bankszámláját” szövegrész helyébe „pénzforgalmi számláját” szöveg, 34. §-ának (6) bekezdésében a „postai úton” szövegrész helyébe „pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján” szöveg, a „belföldi vagy külföldi hitelintézet átutalási betétszámlájára (bankszámlájára)” szövegrész helyébe „fizetési számlára” szöveg lép.
+
+149. § A kisajátításról szóló 2007. évi CXXIII. törvény 21. §-ának (2) bekezdésében a „számláját” szövegrész helyébe „fizetési számláját” szöveg, a „pénzintézet” szövegrész helyébe „pénzforgalmi szolgáltató” szöveg, 21. §-ának (3) bekezdésében a „számláját vezető pénzintézet a számlát” szövegrész helyébe „pénzforgalmi számláját vezető pénzforgalmi szolgáltató a pénzforgalmi számlát” szöveg lép.
+
+150. § (1) A Pénzügyi Szervezetek Állami Felügyeletéről szóló 2007. évi CXXXV. törvény (a továbbiakban: Psztv.) 3. §-ának (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A Felügyelet tagja a 2009/77/EK bizottsági határozattal létrehozott Európai Értékpapír-piaci Szabályozók Bizottságának, a 2009/78/EK bizottsági határozattal létrehozott Európai Bankfelügyelők Bizottságának és a 2009/79/EK bizottsági határozattal létrehozott Európai Biztosítás és a Foglalkoztatói-nyugdíj Felügyeletek Bizottságának.”
+
+(2) A Psztv. 4. §-a a következő p) ponttal egészül ki:
+
+[Ha törvény eltérően nem rendelkezik, a Felügyelet látja el.]
+
+„p) a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény”
+
+[hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.]
+
+(3) A Psztv. 9. §-a (1) bekezdésének a) pontja helyébe a következő rendelkezés lép:
+
+[A Felügyelet honlapján közzéteszi]
+
+„a) az általa kiadott tevékenységi engedéllyel rendelkező, illetve nyilvántartásba vett szervezetek és személyek jegyzékét, ideértve az engedély típusát,”
+
+(4) A Psztv. 9. §-a (4) bekezdésében a „banktitokra” szövegrész helyébe a „banktitokra, fizetési titokra” szöveg, 25. §-a (1) bekezdésében a „banktitkot” szövegrész helyébe „banktitkot, fizetési titkot” szöveg, 26/B. §-a (4) bekezdésében a „banktitkot” szövegrész helyébe „banktitkot, fizetési titkot” szöveg, 32. §-a (2) bekezdésében a „banktitokra” szövegrész helyébe „banktitokra, fizetési titokra” szöveg, 33. §-a (3) bekezdésében „banktitokra” szövegrész helyébe „banktitokra, fizetési titokra” szöveg, 50. §-a (1) bekezdésének a) pontjában a „bankszámla-forgalommal” szövegrész helyébe „fizetési számla-forgalommal” szöveg lép.
+
+(5) A Psztv. 41. §-ának (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A Felügyelet legalább ötévenként átfogó ellenőrzési eljárást folytat le szövetkezeti hitelintézetnél, pénzügyi vállalkozásnál, pénzforgalmi intézménynél, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél, befektetési alapkezelőnél, magánnyugdíj-pénztárnál, önkéntes kölcsönös biztosító pénztárnál és a foglalkoztatói nyugdíjszolgáltató intézménynél.”
+
+151. § (1) A pénzmosás és a terrorizmus finanszírozása megelőlegezéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmt.) 1. §-a (1) bekezdésének e) pontja helyébe a következő rendelkezés lép:
+
+[E törvény hatálya – a (3)–(5) bekezdésben foglalt kivételekkel – kiterjed arra, aki a Magyar Köztársaság területén]
+
+„e) nemzetközi postautalvány-felvételt és -kézbesítést folytat;”
+
+(2) A Pmt. 1. § (4) bekezdésének a) pontja helyébe a következő rendelkezés lép:
+
+[Nem tartozik e törvény hatálya alá]
+
+„a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 2. számú melléklet I. Fejezet 12. pontjának b) alpontjában meghatározott ügynök;”
+
+(3) A Pmt. 11. §-ának (4) bekezdésében a „bankszámlanyitásra” szövegrész helyébe „fizetési számlanyitásra” szöveg, a „bankszámla” szövegrész helyébe „fizetési számla” szöveg, 11. §-ának (6) bekezdésében a „bankszámlán” szövegrész helyébe „fizetési számlán” szöveg, 23. §-ának (6) bekezdésében a „bank-” szövegrész helyébe „bank-, fizetési-” szöveg lép.
+
+(4) A Pmt. 45. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) E törvény hatálybalépését követően az 1. § (1) bekezdésének a) pontjában meghatározott tevékenységet a Hpt. 2. számú melléklet I. Fejezet 9. pontjának g) alpontja szerinti pénzforgalmi szolgáltatás végzésével megkezdő szolgáltató, valamint az 1. § (1) bekezdésének f)–h), j) és m) pontjában meghatározott tevékenységet megkezdő szolgáltató tevékenysége megkezdését követő kilencven napon belül köteles szabályzatot készíteni és azt az 5. §-ban meghatározott felügyeletet ellátó szervnek jóváhagyás céljából benyújtani.”
+
+152. § A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 94. §-ának (2) bekezdésében a „bankszámla és a korlátozott rendeltetésű pénzforgalmi számla” szövegrész helyébe „pénzforgalmi számla” szöveg lép.
+
+153. § A viszontbiztosítókról szóló 2007. évi CLIX. törvény 42. §-ának (2) bekezdésében a „bankszámla” szövegrész helyébe „pénzforgalmi számla” szöveg lép.
+
+154. § A nemzeti agrárkár-enyhítési rendszerről és a kárenyhítési hozzájárulásról szóló 2008. évi CI. törvény 6. §-ának (2) bekezdésében a „banki átutalással” szövegrész helyébe „átutalással” szöveg lép.
+
+155. § (1) A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 65. § (1) bekezdése nem lép hatályba.
+
+(2) A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 12. § (2) bekezdése a „bankszámláján” szövegrész helyett a „pénzforgalmi számláján” szöveggel, 20. § (7) bekezdése a „bankszámlaszámot” szövegrész helyett a „fizetési számlaszámot” szöveggel, 20. § (8) bekezdése a „bankszámlaszámot” szövegrész helyett a „fizetési számlaszámot” szöveggel lép hatályba.

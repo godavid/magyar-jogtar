@@ -1,0 +1,527 @@
+# 1999. évi CXXI. törvény
+
+a gazdasági kamarákról
+
+Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gazdasággal összefüggő közfeladatok egy részének a gazdálkodó szervezetek által köztestületi formában, önigazgatás útján történő ellátására. Az egyesülési jog alapján működő társadalmi szervezetek jogainak és érdekeinek tiszteletben tartásával, a gazdaság fejlesztésével, támogatásával, általános érdekeinek előmozdításával, az Európai Uniós integrációval, a regionális fejlesztéssel kapcsolatos tevékenységek elősegítése céljából, a gazdasági tevékenységet folytatók önkormányzat alakításához való jogát elismerve, az Országgyűlés a gazdasági kamarákról a következő törvényt alkotja:
+
+### I. Fejezet — BEVEZETŐ RENDELKEZÉSEK
+
+1. § E törvény hatálya a Magyar Köztársaság területén székhellyel vagy fiókteleppel rendelkező gazdálkodó szervezetekre, a gazdasági kamarákra, valamint – az érdekképviseleti jogok gyakorlása tekintetében – a gazdasági érdekképviseleti szervezetekre terjed ki.
+
+2. § E törvény alkalmazásában
+
+- a) gazdálkodó szervezet: a gazdasági társaság, az egyéni cég, az egyesülés, az egyes jogi személyek vállalata, a leányvállalat, a külföldi székhelyű vállalkozás magyarországi fióktelepe, a lakásszövetkezet kivételével a szövetkezet, az egyéni vállalkozó, továbbá az agrár- és vidékfejlesztési támogatásra jogosult mezőgazdasági termelő;
+- b) gazdasági kamara tagja: az a gazdálkodó szervezet, amely a tagsággal járó jogokat és kötelezettségeket önkéntesen vállalja, a gazdasági kamarába tagként felvették és a tagokról vezetett nyilvántartásba bejegyezték;
+- c) kézműipari tevékenység: az a tevékenység, amely a gazdálkodó szervezet vagyonának, forgalmának mértékét, üzemméretét, alkalmazottainak számát és szakképesítését, a termelő, a kereskedelmi, illetve a szolgáltató tevékenység jellegét, a gazdálkodó szervezet tagjának a munka végzésében való személyes közreműködését figyelembe véve a kézműipari szakmák jegyzékébe került felvételre, ideértve a művészi kézművességet is;
+- d) mezőgazdasági és erdőgazdasági tevékenység: a mezőgazdasági, erdőgazdasági, halászati és vadászati tevékenység, ideértve az ezekhez közvetlenül kapcsolódó feldolgozó, kereskedelmi, illetve szolgáltató tevékenységet, továbbá a mezőgazdasági gazdálkodó szervezetek által létrehozott, a termékek piacra jutását segítő szervezetek tevékenységét is;
+- e) országos gazdasági érdekképviseleti szervezet: az egyesülési jogról szóló törvény alapján gazdasági érdekképviseleti célra létrehozott az a társadalmi szervezet, illetve ezek szövetsége, amelynek legalább 10 megyére (fővárosra) kiterjedően van tagsága;
+- f) képviseletre jogosult természetes személy: az egyéni vállalkozó, a gazdálkodó szervezet tagja (részvényese), vezető tisztségviselője, illetőleg alkalmazottja, továbbá az egyéni vállalkozó alkalmazottja és segítő családtagja;
+- g) gazdasági kamara: a területi gazdasági kamara és az országos gazdasági kamara;
+- h) területi gazdasági kamaraterületi gazdasági kamara>: a megyei (fővárosi) és a megyeszékhelyen kívüli megyei jogú városi kamara.
+
+### II. Fejezet — A GAZDASÁGI KAMARÁK
+
+### A gazdasági kamarák általános szabályai
+
+3. § (1) A gazdasági kamarák köztestületek (Ptk. 65. §), amelyeket e törvény alapján, választással a gazdálkodó szervezetek hoznak létre. A gazdasági kamarák – külön törvény rendelkezéseit figyelembe véve – jogosultak kezdeményezni kiemelten közhasznú szervezetként történő nyilvántartásba vételüket.
+
+(2) A gazdasági kamarák feladata, hogy e törvénynek, más jogszabályoknak és alapszabályuknak megfelelően, önkormányzaton alapuló működésükkel előmozdítsák a gazdaság fejlődését és szerveződését, a piaci magatartás tisztességét, a gazdasági tevékenységet folytatók általános, együttes érdekeinek érvényesülését.
+
+(3) Gazdasági kamaraként
+
+- a) kereskedelmi és iparkamarákat, valamint
+- b) agrárkamarákat
+
+kell alakítani.
+
+Másfajta gazdasági kamara nem hozható létre. A mezőgazdasági és erdőgazdasági tevékenységet folytató gazdálkodó szervezetekkel kapcsolatos kamarai közfeladatokat az agrárkamarák, a kereskedelmi, ipari és kézműipari tevékenységet folytató gazdálkodó szervezetekkel kapcsolatos kamarai közfeladatokat a kereskedelmi és iparkamarák látják el.
+
+(4) A gazdasági kamarák feladatainak ellátása nem érinti az egyesülési szabadság érvényesülését, így különösen nem korlátozza a társadalmi szervezetek ahhoz való jogát, hogy tevékenységük célját – az egyesülési jogról szóló törvény rendelkezéseivel összhangban – szabadon határozzák meg.
+
+4. § (1) A területi gazdasági kamarák a megyékben, a megyeszékhelyen kívüli megyei jogú városokban és a fővárosban működnek.
+
+(2) A megyénként, a megyeszékhelyen kívüli megyei jogú városokban, illetve a fővárosban alakult gazdasági kamarák egyesülhetnek; az új kamara illetékességi területe az egyesülő kamarák illetékességi területével megegyezik.
+
+(3) A (2) bekezdés szerint létrejött gazdasági kamara szétválásával megyénként, a megyeszékhelyen kívüli megyei jogú városokban, illetve a fővárosban működő gazdasági kamarák hozhatók létre.
+
+5. § A gazdasági kamara – alapszabályának megfelelően – helyi szervezeti egységet hozhat létre.
+
+6. § (1) Országos gazdasági kamaraként a kereskedelmi és iparkamaráknak a Magyar Kereskedelmi és Iparkamarát, az agrárkamaráknak a Magyar Agrárkamarát kell megalakítaniuk.
+
+(2) Az országos gazdasági kamarák jogosultak a Magyar Köztársaság címerének használatára.
+
+6/A. § A gazdasági kamarát a székhelye szerint illetékes megyei (fővárosi) bíróság veszi nyilvántartásba a társadalmi szervezetek bírósági nyilvántartásba vételére irányadó rendelkezések szerint.
+
+### A területi gazdasági kamara megszűnése
+
+7. § (1) Megszűnik a gazdasági kamara, ha
+
+- a) más gazdasági kamarával egyesül;
+- b) ha kettő vagy több gazdasági kamarára válik szét;
+- c) tagjainak száma az alapszabályban meghatározott legkisebb létszám alá csökken. Az alapszabály a legkisebb létszámot 10 főnél kisebb létszámban nem határozhatja meg;
+- d) a bíróság a 28. § (3) bekezdésének d) pontja alapján feloszlatja.
+
+(2) Az egyesüléssel létrejövő gazdasági kamara az egyesülő kamarák általános jogutódja.
+
+(3) A szétválásról hozott döntésben rendelkezni kell a vagyon megosztásáról. A gazdasági kamara jogai és kötelességei a vagyonmegosztás arányában a szétváló kamarákra, mint jogutódokra szállnak. A jogelőd kamara vagyonmegosztáskor nem ismert esetleges tartozásaiért, illetve valamely jogutód kamara által átvállalt, de be nem hajtható tartozásokért a jogutód kamarák öt évig egyetemlegesen felelnek.
+
+(4) Ha a gazdasági kamara az (1) bekezdés c) pontjában meghatározott ok miatt szűnik meg, a gazdasági kamara általános jogutódja az azonos fajtájú országos gazdasági kamara, amely – szükség szerint más gazdasági kamara kijelölésével – gondoskodik a kamarai közfeladatok folyamatos ellátásáról.
+
+### A területi gazdasági kamarák tagsága
+
+8. § (1) A gazdálkodó szervezet kamarai tagsága – kérelmére – a tagokról vezetett nyilvántartásba történő bejegyzéssel jön létre. A bejegyzés kizárólag az (5) bekezdésben meghatározott okból tagadható meg.
+
+(2) A gazdasági kamara tagjának joga, hogy a képviseletre jogosult természetes személy útján
+
+- a) küldöttnek, testületi szerv tagjának, illetve a kamara elnökének (alelnökének) válasszák;
+- b) a kamarában tisztséget viseljen;
+- c) küldöttként részt vegyen az országos gazdasági kamara küldöttgyűlésén és a képviseletében eljáró természetes személy a kamarai tagok közül megválassza az országos gazdasági kamara testületi szerveit, elnökét és tisztségviselőit.
+
+(3) A gazdasági kamara tagjának kötelezettsége, hogy
+
+- a) megfizesse a tagdíjat;
+- b) megtartsa az alapszabályban és más kamarai önkormányzati szabályzatokban a tagokra előírt egyéb rendelkezéseket.
+
+(4) Megszűnik a gazdasági kamarai tagság, ha
+
+- a) a gazdálkodó szervezet jogutód nélkül megszűnik, illetve az egyéni vállalkozási tevékenység megszűnik,
+- b) a gazdálkodó szervezet a naptári év utolsó napjára szóló hatállyal a tagsági viszonyt kilépéssel megszünteti,
+- c) a tagsággal együtt járó kötelezettségek ismételt vagy súlyos megsértése miatt a tagot a gazdasági kamara tagjai sorából kizárja,
+
+és törlik a tagokról vezetett nyilvántartásból.
+
+(5) Nem lehet a gazdasági kamara tagja a kizárásról rendelkező határozat, illetve bírósági felülvizsgálat esetén az ítélet jogerőre emelkedésétől számított egy évig az a gazdálkodó szervezet, amelynek tagsága a (4) bekezdés c) pontjában meghatározott okból szűnt meg.
+
+### III. Fejezet — A GAZDASÁGI KAMARÁK FELADATAI
+
+### A területi gazdasági kamarák feladatai a gazdaság fejlesztésével kapcsolatban
+
+9. § A gazdasági kamarák a gazdaság fejlesztésével összefüggésben
+
+- a) előmozdítják a gazdasági tevékenység infrastruktúrájának fejlődését, ennek érdekében felhasználják bevételeiknek az alapszabályukban meghatározott és külön kezelt – e célra fordítható – részét;
+- b) elősegítik a gazdaság fejlődésére jelentős hatást gyakorló, nemzetgazdasági szinten hatékony, a közvetlen vállalkozói érdekeltséget meghaladó célok megvalósulását, ennek érdekében részt vesznek az átfogó gazdaságfejlesztési, gazdaságstratégiai döntések előkészítésében, és együttműködnek az állami és a helyi önkormányzati szervekkel, illetve a gazdasági érdekképviseleti szervezetekkel;
+- c) tájékoztatást adnak a gazdasággal összefüggő magyar és külföldi jogszabályokról, valamint a gazdálkodó szervezetek tevékenységét érintő gazdaságpolitikai döntésekről és intézkedésekről, előmozdítják a gazdasági együttműködés fejlődését;
+- d) közreműködnek a területfejlesztési koncepciók és programok gazdaságfejlesztési munkarészeinek kidolgozásában és végrehajtásában;
+- e) az országos gazdasági érdekképviseleti szervezetekkel együttműködve ellátják a szakképzésről szóló 1993. évi LXXVI. törvényben és végrehajtási rendeletében meghatározott feladataikat, szervezik és végzik a mesterképzést és a mestervizsgáztatást.
+
+9/A. § (1) A törvény a gazdasági kamarák számára – a gazdaság fejlesztésével összefüggésben – biztosítja a lehetőséget, hogy
+
+- a) a külgazdaság feltételrendszerének javítása érdekében közreműködjenek a kereskedelemfejlesztéssel, a külföldön végzett vagy külföldre irányuló, továbbá a külföldiek számára belföldön végzett gazdasági tájékoztató és propagandamunkában, a gazdálkodó szervezetek ez irányú tevékenységét összehangolják, ennek keretében vásárokat, kiállításokat, konferenciákat és más rendezvényeket szervezzenek;
+- b) közreműködjenek az európai uniós csatlakozásból, illetve tagságból eredő, a gazdálkodó szervezeteket és az egyes szakmákat érintő tájékoztatási és képzési feladatok ellátásában – kivéve azokat a képzési területeket, ahol a kamarák ellenőrzési jogkörrel rendelkeznek – ennek részeként pályázati módszertani útmutatót állítsanak össze, tájékoztatást adjanak az európai uniós pályázati lehetőségekről és feltételekről és az egyes szakmákat érintő közösségi jogszabályokról, a közösségi intézmények egyéb aktusairól és az Európai Bizottság döntéseiről;
+- c) előmozdítsák a gazdálkodó szervezeteknek a szabványosítással, minőségüggyel és az iparjogvédelemmel összefüggő tevékenységét, ezekhez módszertani segítséget nyújtsanak és támogassák e területeken a képzést és a továbbképzést;
+- d) a gazdálkodó szervezetek döntéseinek megalapozottsága érdekében hazai, európai uniós és nemzetközi gazdasági, műszaki, környezetvédelmi és jogi információkat gyűjtsenek, rendszerezzenek és bocsássanak a gazdálkodó szervezetek rendelkezésére.
+
+(2) A gazdasági kamarák – külön törvények rendelkezései szerint – részt vesznek az (1) bekezdésben, valamint a 9. §-ban meghatározott feladataikkal összefüggő célokat szolgáló elkülönített állami pénzalapok és költségvetési előirányzatok felhasználására vonatkozó döntések előkészítésében, továbbá az agrárkamarák közreműködnek az agrár-szaktanácsadás szervezésében és az ehhez kapcsolódó, pályázati úton elnyerhető támogatások lebonyolításában, továbbá a területi agrárkamarák értékelik a velük szerződéses kapcsolatban lévő szaktanácsadók munkáját és az értékelésről adatokat, valamint évenként egy alkalommal összefoglaló jelentést szolgáltatnak az agrárpolitikáért felelős miniszter részére.
+
+(3) Az agrárkamarák – az (1)–(2) bekezdésekben foglaltakon túlmenően – közfeladatként az agrár- és vidékfejlesztési támogatásokkal összefüggésben a gazdálkodó szervezetek részére tanácsadást végeznek. A tanácsadás – ha a gazdálkodó szervezet igényli – kiterjedhet a pályázat elkészítésére is.
+
+### A területi gazdasági kamarák feladataiaz üzleti forgalom biztonságával kapcsolatban
+
+10. § (1) A gazdasági kamarák az üzleti forgalom biztonságának és a piaci magatartás tisztességének megteremtése, megőrzése, illetve fokozása érdekében
+
+- a) árukra vonatkozó származási igazolásokat, bizonyítványokat és kereskedelmi forgalomban szükséges más okmányokat állítanak ki, illetve hitelesítenek;
+- b) összeállítják és közreadják a kereskedelmi szokványokat;
+- c) a gazdasági érdekképviseleti szervezetek bevonásával kidolgozzák a valamennyi gazdálkodó szervezetre általánosan érvényes, a tisztességes piaci magatartásra és tisztességes kereskedelmi gyakorlatra vonatkozó etikai szabályokat, figyelemmel kísérik e szabályok, valamint a tisztességtelen piaci magatartás tilalmáról szóló törvényben, illetve a tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben meghatározott, a tisztességtelen verseny és a tisztességtelen kereskedelmi gyakorlat tilalmára vonatkozó rendelkezések érvényesülését, a kamarai etikai szabályok megsértése esetén a kamarai tag gazdálkodó szervezeteket határozatban figyelmeztetik és – az etikai szabályzatban meghatározott esetekben és módon – a figyelmeztetést nyilvánosságra hozzák, a tisztességtelen verseny vagy a tisztességtelen kereskedelmi gyakorlat tilalmára vonatkozó jogszabályokba ütköző magatartás esetén pedig kezdeményezhetik a hatáskörrel rendelkező szervnél a szükséges intézkedés megtételét. Etikai vétség esetén a gazdasági kamarák a nem kamarai tagok felé jelzéssel és figyelemfelhívással élhetnek;
+- d) az iparjogvédelmi és a szerzői jogok megsértése esetén a kamarai tag gazdálkodó szervezeteket határozatban figyelmeztetik, és – az etikai szabályzatban meghatározott esetekben és módon – a figyelmeztetést nyilvánossága hozzák;
+- e) határozatban figyelmeztetik a fogyasztók érdekeivel ellentétes gazdasági tevékenységet folytató és ezzel a gazdálkodó szervezetek széles körének jó hírnevét sértő vagy veszélyeztető kamarai tag gazdálkodó szervezeteket, és – az etikai szabályzatban meghatározott esetekben és módon – a figyelmeztetést nyilvánosságra hozzák, súlyosabb vagy ismétlődő esetben kezdeményezhetik a tevékenység gyakorlásának meghatározott időre történő felfüggesztéséhez szükséges intézkedések meghozatalát; ha a gazdálkodó szervezet gazdasági tevékenysége a fogyasztók széles körét érintő vagy jelentős nagyságú hátrányt is okoz, pert indíthatnak a fogyasztók polgári jogi igényeinek érvényesítése iránt;
+- f) együttműködnek a fogyasztóvédelmi hatósággal és a Gazdasági Versenyhivatallal, amelyek az általuk hozott jogerős határozatokat az illetékes gazdasági kamarákkal közlik;
+- g) minősítő és ellenőrzési rendszereket működtetnek;
+- h) a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 1997. évi CXLV. törvény (a továbbiakban: Ctv.) alapján törvényességi felügyeleti eljárást kezdeményezhetnek, illetve az adóhatóságnál az egyéni vállalkozói tevékenység megszüntetését kezdeményezhetik;
+- i) működtetik a fogyasztóvédelemről szóló 1997. évi CLV. törvény alapján működő békéltető testületeket;
+- j) közreműködnek a gazdálkodó szervezetek nemzetközi gazdasági kapcsolataival összefüggő minőségvédelmi és szállítmányozási kárügyek intézésében.
+
+(2) Ha a bíróság vagy a Gazdasági Versenyhivatal jogerős határozatával megállapította a tisztességtelen piaci magatartás tilalmáról szóló törvényben meghatározott, a tisztességtelen verseny tilalmára vonatkozó rendelkezések megsértését, a gazdasági kamara a bíróság, illetve a Gazdasági Versenyhivatal határozatát nyilvánosságra hozhatja.
+
+(3) A gazdasági kamarák (1) bekezdés h) pontja szerinti kezdeményezése alapján a cégbíróság, illetve a jegyző köteles a megfelelő eljárást lefolytatni és annak eredményéről a kamarát is írásban tájékoztatni.
+
+### A gazdaság általános érdekeinek érvényesítése
+
+11. § (1) A gazdasági kamarák a gazdasági tevékenységet folytatók általános, együttes érdekeinek érvényesítése céljából
+
+- a) javaslatok, vélemények, tájékoztatások adásával előmozdítják a gazdálkodó szervezetekre vonatkozó jogszabályoknak, kormányzati és helyi önkormányzati programoknak, intézkedéseknek a gazdaság fejlődéséhez, szervezettségéhez, az üzleti forgalom biztonságához és a piaci magatartás tisztességéhez fűződő közérdekkel összhangban történő kidolgozását;
+- b) az a) pontban említett javaslatok, vélemények, tájékoztatások megalapozottsága érdekében – a statisztikai törvény rendelkezéseinek megfelelően – adatokat gyűjtenek és az adatok alapján a gazdasági folyamatokról elemzéseket készítenek és hoznak nyilvánosságra.
+
+(2) A gazdasági kamarák az (1) bekezdésben meghatározott feladataik ellátása során kezdeményezik a vállalkozás jogának és a gazdasági verseny szabadságának érvényesülését, a piacgazdaság működését akadályozó vagy korlátozó jogszabályok, intézkedések módosítását vagy hatályon kívül helyezését, illetve az ilyen körülmények megváltoztatásához szükséges jogszabályok, intézkedések meghozatalát.
+
+(3) A gazdálkodó szervezetek széles körét érintő jogszabályok, szabályozási koncepciók tárgyában a miniszterelnök által kijelölt miniszterek és az országos gazdasági kamarák évente legalább kétszer szakmai konzultációt tartanak.
+
+(4) A kamarai közfeladatok ellátása, valamint a 31. § (1) bekezdés szerinti névjegyzék vezetése érdekében a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat, illetve az egyéni vállalkozóik nyilvántartását vezető szerv – a hálózat használatával kapcsolatos kiadások megtérítése mellett – elektronikus úton hozzáférést biztosít az országos kamarák számára a Ctv.-ben, illetve az egyéni vállalkozásról szóló törvényben meghatározott nyilvános adatokhoz.
+
+(5) A kamarai közfeladatok ellátásához, valamint az (1) bekezdés b) pont szerinti elemzések elkészítéséhez a gazdasági kamarák jogosultak a gazdálkodó szervezetekről vezetett hatósági nyilvántartások nyilvános adataihoz való hozzáférésre, az adatszolgáltatással kapcsolatban felmerült költségek megtérítése mellett.
+
+### Az országos kamarák feladatai
+
+12. § (1) Az országos gazdasági kamara látja el a következő feladatokat:
+
+- a) véleményezi a gazdasági tárgyú előterjesztések és jogszabályok tervezeteit;
+- b) kapcsolatot tart a külföldi gazdasági kamarák országos szervezeteivel és gazdasági jellegű nemzetközi szervezetekkel;
+- c) összehangolja a gazdasági kamarák külföldön végzett vagy külföldre irányuló, továbbá a külföldiek számára belföldön végzett gazdasági tájékoztató és propagandamunkáját;
+- d) megszervezi a magyar gazdasági napokat;
+- e) kialakítja a gazdasági kamaráknál vezetett nyilvántartások egységes rendszerét;
+- f) kidolgozza a tisztességes piaci magatartásra vonatkozó etikai szabályokat tartalmazó etikai szabályzatot;
+- g) külön törvények rendelkezései szerint részt vesz az országosan működtetett tanácsok és testületek munkájában;
+- h) megállapítja a közfeladatok ellátásához nyújtott költségvetési támogatás területi gazdasági kamarák közötti elosztásának elveit;
+- i) kidolgozza a kamarák részére átadott közfeladatok egységes eljárás keretében történő ellátásához szükséges önkormányzati szabályzatot.
+- j)
+
+(2) Az országos kamarák Állandó Választottbíróságot működtethetnek. A Magyar Kereskedelmi és Iparkamara biztosítja a nemzetközi kereskedelmi ügyekben is eljáró Állandó Választottbíróság működési feltételeit, megválasztja és visszahívja a választottbírókat.
+
+(3) Az országos kamara alapszabálya az országos kamara számára további feladatokat állapíthat meg.
+
+(4) Az agrárkamarák, valamint a Magyar Agrárkamara egyes közösségi, illetve nemzeti hatáskörben nyújtott mezőgazdasági, agrár-vidékfejlesztési, halászati támogatások igénybevételi jogosultságát, valamint az ezekkel összefüggő vagyoni értékű jogokat érintő, a jogosultak közötti egyezségkötés elősegítése érdekében Egyezségi Tanácsokat működtethetnek. Az Egyezségi Tanácsok előtti eljárás az érintettek kérelme alapján indul. Az Egyezségi Tanács működési rendjét, eljárásának szabályait, a díjfizetés rendjét a Magyar Agrárkamara állapítja meg.
+
+13. § (1) A gazdasági kamarák – ideértve az országos kamarákat is – a 9–12. §-okban foglalt közfeladatokat – a 10. § (1) bekezdésének c)–e) pontjaiban foglalt eltérések figyelembevételével – minden gazdálkodó szervezet vonatkozásában ellátják.
+
+(2) Az országos gazdasági érdekképviseleti szervezetek a 9–10. §-okban és a 12. §-ban foglalt közfeladatok ellátásában együttműködnek a gazdasági kamarákkal.
+
+14. § A gazdasági kamarák szakmai, munkáltatói és munkavállalói érdekképviseletet nem láthatnak el.
+
+### IV. Fejezet — A GAZDASÁGI KAMARA SZERVEZETE
+
+### Az önkormányzati jogok gyakorlása
+
+15. § A gazdasági kamarák önkormányzati jogaikat e törvénynek és az alapszabályuknak megfelelően gyakorolják.
+
+### A gazdasági kamara alapszabálya
+
+16. § (1) A gazdasági kamara alapszabályában – e törvény keretei között – meg kell határozni
+
+- a) a kamara nevét és székhelyét;
+- b) a kamara szervezetére, szerveinek működésére és tisztségviselőire vonatkozó főbb szabályokat;
+- c) a tagozatok, az osztályok, illetve helyi és egyéb szervek, szervezeti egységek létesítése esetén azok feladatkörét, a kamara más szervezeteihez való kapcsolódásának és működésének rendjét;
+- d) az országos gazdasági érdekképviseleti szervezetekkel való együttműködés módját és részletes szabályait;
+- e) az e törvényben meghatározottakon túl a tagok legkisebb számát, jogait és kötelezettségeit, a tagfelvétel módját és részletes szabályait;
+- f) a választási névjegyzék és a tagjegyzék vezetésének részletes szabályait;
+- g) a kamarai tagdíj mértékét, számításának és fizetésének módját;
+- h) a küldöttválasztás részletes szabályait;
+- i) az országos gazdasági kamara küldöttgyűlésébe történő delegálás részletes szabályait;
+- j) a kamarai osztályok számát és fajtáit, küldöttgyűléseik összehívásának módját és határozathozataluk rendjét, valamint gazdasági súlyuk megállapításának módját;
+- k) a küldöttgyűlés küldötteinek, az elnökség, az ellenőrző és etikai bizottság tagjainak számát;
+- l) a kamara elnökének (alelnökeinek), az elnökség, valamint az ellenőrző és az etikai bizottság tagja és más választott tisztségviselő megválasztásának és visszahívásának módját;
+- m) a küldöttgyűlés kötelező összehívásának eseteit, rendszerességét, módját;
+- n) az e törvényben meghatározottakon túl a küldöttgyűlés kizárólagos hatáskörébe utalt ügyek meghatározását;
+- o) az elnökség összehívására, működésére, határozatának meghozatalára vonatkozó szabályokat;
+- p) az e törvényben meghatározottakon túl a kétharmados vagy ennél nagyobb arányú többséget igénylő ügyek meghatározását;
+- q) az elnök (alelnökök) jogkörét, illetve az ügyek meghatározott csoportjaira nézve képviseleti jogköre átruházásának szabályait;
+- r) a kamara éves költségvetésének és a beszámoló (mérleg) elfogadásának rendjét;
+- s) az e törvényben meghatározottakon túl a kamarai tisztségviselők összeférhetetlenségének eseteit.
+
+### A területi gazdasági kamara küldöttgyűlése
+
+17. § (1) A gazdasági kamara legfőbb szerve a kamarai tagokból – a választási névjegyzékbe felvett – gazdálkodó szervezetek által választott küldöttgyűlés.
+
+(2) A küldöttgyűlés kizárólagos hatáskörébe tartozik
+
+- a) a gazdasági kamara alapszabályának és más önkormányzati szabályzatának megalkotása és módosítása;
+- b) a kamara éves költségvetésének meghatározása és az éves beszámoló (mérleg) elfogadásáról való döntés;
+- c) a kamara elnökének (alelnökeinek), az elnökség, valamint az ellenőrző és etikai bizottság tagjainak, a testületek póttagjainak a megválasztása és visszahívása, e tisztségviselők díjazásának megállapítása;
+- d) a más kamarával való egyesülésről, illetve a szétválásról való döntés;
+- e) az alapszabályban a küldöttgyűlés kizárólagos hatáskörébe utalt más ügy.
+
+18. § (1) A küldöttgyűlést az alapszabályban meghatározott időközönként, de legalább évente egyszer össze kell hívni. A küldöttgyűlést akkor is össze kell hívni, ha azt legalább a küldöttek egyötöde – az ok és a cél megjelölésével – írásban kéri.
+
+(2) A küldöttgyűlést – ha az alapszabály eltérően nem rendelkezik – a kamara elnöke hívja össze.
+
+(3) A küldöttgyűlés akkor határozatképes, ha a küldötteknek több mint a fele jelen van. Ha a küldöttgyűlés nem volt határozatképes, az emiatt megismételt küldöttgyűlés az eredeti napirendben szereplő ügyekben a jelenlevő küldöttek számától függetlenül határozatképes. A küldöttgyűlés határozatait egyszerű többséggel hozza meg.
+
+(4) A jelenlévő küldöttek legalább kétharmados többséggel hozott határozata szükséges
+
+- a) az alapszabály és más önkormányzati szabályzat elfogadásához és módosításához;
+- b) a kamarának más kamarával való egyesüléséhez, illetve szétválásához;
+- c) a tagozati autonómiát érintő döntésekhez;
+- d) az alapszabályban meghatározott más ügyben való döntéshez.
+
+(5) Az alapszabály az ügyek meghatározott körére nézve a (4) bekezdésben foglalt aránynál szigorúbb szavazati arányt is meghatározhat.
+
+### Az országos gazdasági kamara küldöttgyűlése
+
+19. § (1) Az országos gazdasági kamara legfőbb szerve a gazdasági kamarák küldötteiből delegált küldöttgyűlés.
+
+(2) Az országos gazdasági kamara küldöttgyűlésének kizárólagos hatáskörébe tartozik:
+
+- a) az országos gazdasági kamara alapszabályának, más önkormányzati szabályzatának és az etikai szabályzatnak megalkotása és módosítása;
+- b) a tagdíjra vonatkozó általános szabályok megállapítása, a gazdasági kamarák pénzügyi forrásaiból az országos gazdasági kamaráknak járó rész meghatározása;
+- c) a kamara elnökének (alelnökeinek), az elnökség, valamint az ellenőrző és az etikai bizottság tagjainak a megválasztása és visszahívása;
+- d) az adatszolgáltatási kötelezettséggel járó statisztikai adatgyűjtés kezdeményezése az adatgyűjtés tárgya szerint illetékes szervnél;
+- e) az Állandó Választottbíróság választottbíróinak megválasztása és visszahívása;
+- f) a gazdasági kamarák által az országos gazdasági kamara kizárólagos hatáskörébe utalt egyéb feladat.
+
+(3) Az országos gazdasági kamara küldöttgyűlésének döntéshozatali rendjére a 18. § rendelkezései az irányadók.
+
+### Az elnökség
+
+20. § (1) Az elnökség feladata a küldöttgyűlések közötti időszakban, a küldöttgyűlés határozatainak megfelelően a gazdasági kamara működésének irányítása. Az elnökség testületi szerv.
+
+(2)
+
+### Az elnök
+
+21. § (1) A gazdasági kamarát az elnök önállóan képviseli. Jogkörét az alapszabályban meghatározott módon, valamint esetenként és az ügyek meghatározott csoportjaira nézve az alelnökre, főtitkárra, titkárra írásban átruházhatja.
+
+(2) A gazdasági kamarák alelnökeinek számát a kamara alapszabálya állapítja meg.
+
+(3) Az alapszabály az alelnököket felhatalmazhatja a gazdasági kamara általános vagy meghatározott ügyekben történő képviseletére.
+
+### Az ellenőrző bizottság
+
+22. § (1) A küldöttgyűlés legalább háromtagú ellenőrző bizottságot választ. Az ellenőrző bizottság testületi szerv, amely elnökét tagjai közül maga választja.
+
+(2) Az ellenőrző bizottság vizsgálja, hogy a gazdasági kamara tevékenysége, gazdálkodása megfelel-e a jogszabályoknak, a kamara alapszabályának és más önkormányzati szabályzatainak. Az ellenőrző bizottság vizsgálja a gazdálkodás célszerűségét is.
+
+(3) Az ellenőrző bizottság a kamara tisztségviselőitől és ügyintéző szervezetétől minden olyan adatot, tájékoztatást megkérhet, illetve minden olyan iratot megtekinthet, amely feladatainak ellátásához szükséges.
+
+(4) Az ellenőrző bizottság köteles a kamara gazdálkodását legalább évenként független könyvvizsgálóval megvizsgáltatni.
+
+(5) A küldöttgyűlés a gazdasági kamara éves költségvetéséről és az éves beszámolóról (mérlegről) csak az ellenőrző bizottság véleményének ismeretében dönthet.
+
+(6) Az ellenőrző bizottság tevékenységéről a küldöttgyűlésnek számol be, tagjai részére feladataik ellátása körében utasítás nem adható.
+
+23. § (1) Az ellenőrző bizottság felhívja az elnökséget a szükséges intézkedések megtételére annak érdekében, hogy a gazdasági kamara tevékenysége, gazdálkodása megfeleljen a jogszabályoknak, a kamara alapszabályának és más önkormányzati szabályzatainak, továbbá a gazdálkodási célszerűségnek is.
+
+(2) Ha az elnökség nem tesz eleget a felhívásnak, az ellenőrző bizottság kezdeményezi a küldöttgyűlés összehívását.
+
+(3) Az ellenőrző bizottság elnöke összehívja a küldöttgyűlést, ha az elnök nem tesz eleget erre vonatkozó kötelességének.
+
+### Az etikai bizottság
+
+24. § (1) Az etikai bizottság látja el – az etikai szabályok megállapítása kivételével – a 10. § (1) bekezdésének c)–f) pontjaiban meghatározott gazdasági kamarai feladatokat. A gazdasági kamara tisztségviselői az etikai bizottság tevékenységében – szükség szerint – közreműködnek. Az etikai bizottság testületi szerv, amely elnökét tagjai közül maga választja.
+
+(2) Az etikai bizottság elnöke a bizottság feladatkörében képviseli a gazdasági kamarát. E jogkörét esetenként vagy az ügyek meghatározott csoportjaira nézve a bizottság tagjaira írásban átruházhatja.
+
+### A titkár és a kamara ügyintéző szervezete
+
+25. § (1) A titkár, illetve a főtitkár a gazdasági kamara, illetve az országos gazdasági kamara ügyintéző szervezetének vezetője; a kamarával munkaviszonyban áll. Az ügyintéző szervezet vezetőjének vonatkozásában más elnevezés nem használható.
+
+(2) A titkár (főtitkár) gyakorolja a gazdasági kamara ügyintéző szervezetében dolgozó munkavállalók felett a munkáltatói jogokat.
+
+(3) A titkár (főtitkár) felett a munkaviszony létesítésével és megszüntetésével, továbbá a munkaszerződés módosításával kapcsolatos munkáltatói jogokat az elnökség, az egyéb munkáltatói jogokat pedig az elnök gyakorolja.
+
+### Egyéb szervek, szervezeti egységek
+
+26. § (1) A területi kereskedelmi és iparkamarán belül – e törvény rendelkezéseinek keretei között – kereskedelmi, ipari és kézműipari tagozatot, a területi agrárkamarán belül – ágazati és szakmai szempontok szerint – osztályokat kell létrehozni. A gazdasági kamara feladatainak ellátásához további szervezeti egységeket hozhat létre. Ebben az esetben meg kell állapítani a szervezeti egységek feladatkörét, továbbá a kamara más szerveivel való kapcsolódásuk rendjét. A kereskedelmi és iparkamarán belül az e törvényben meghatározottakon túlmenő tagozatok létrehozásáról – a választási időszakok megtartásának figyelembevételével – a kamara alapszabálya rendelkezhet.
+
+(2) Az agrárkamarán belül legfeljebb 12 osztály alakítható, de legalább 3 osztályt kell alakítani.
+
+### A kamarai küldöttekkel, a testületi szervek tagjaival,a tisztségviselőkkel szemben támasztott követelményekés az összeférhetetlenség szabályai
+
+27. § (1) A gazdasági kamara tisztségviselői:
+
+- a) az elnök és az alelnökök;
+- b) az ellenőrző bizottság elnöke;
+- c) az etikai bizottság elnöke;
+- d) a főtitkár, illetve a titkár.
+
+(2) Ha e törvény eltérően nem rendelkezik, küldöttnek, testületi szerv tagjának, illetve a kamara elnökének (alelnökének) az választható, aki
+
+- a) nagykorú;
+- b) magyar állampolgár, a külön törvény szerinti szabad mozgás és tartózkodás jogával rendelkező személy vagy olyan külföldi állampolgár, aki munkavállalási engedéllyel rendelkezik vagy Magyarországon engedély nélkül végezhet munkát; és
+- c) olyan gazdálkodó szervezet tagja (részvényese), vezető tisztségviselője, illetőleg alkalmazottja, amely tagja a kamarának;
+- d) a tagsági jogviszonyból származó kötelezettségeinek eleget tett;
+- e)
+
+(3) Nem választható az ellenőrző bizottság tagjának
+
+- a) aki tagja az elnökségnek;
+- b) a gazdasági kamara titkára;
+- c) a gazdasági kamara ügyintéző szervezetében dolgozó, a kamarával munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy;
+- d) az a)–c) pontokban említett személyek közeli hozzátartozója Ptk. 685. § b) pont és élettársa.
+
+(4) Az ellenőrző bizottság tagjának – a kamara tagján kívül – megfelelő szakértelemmel rendelkező más személy is megválasztható. Az országos gazdasági kamara ellenőrző bizottsága tagjának – a gazdasági kamara küldöttén kívül – megfelelő szakértelemmel rendelkező más személy is megválasztható.
+
+(5) Nem választható küldöttnek, testületi szerv tagjának, aki
+
+- a) cselekvőképességet korlátozó vagy kizáró gondnokság alatt áll;
+- b) a közügyek gyakorlásától eltiltó jogerős ítélet hatálya alatt áll;
+- c) szabadságvesztés büntetését tölti;
+- d) büntetőeljárásban jogerősen elrendelt intézeti kényszergyógykezelés alatt áll, továbbá
+- e) akivel szemben más törvényben meghatározott összeférhetetlenségi ok áll fenn.
+
+(6) Nem viselhet tisztséget a gazdasági kamarában, aki
+
+- a) az (5) bekezdés alapján nem választható küldöttnek;
+- b) Magyarországon nem rendelkezik lakóhellyel vagy tartózkodási hellyel; továbbá
+- c) közszolgálati jogviszonyban áll;
+- d)
+
+### Törvényességi felügyelet
+
+28. § (1) A gazdasági kamarák felett a törvényességi felügyeletet az ügyészség – az e törvényben foglalt kivételekkel – az ügyészségre irányadó külön jogszabályok rendelkezései szerint gyakorolja. A törvényességi felügyelet nem terjed ki az állandó választottbíróságra, továbbá az olyan ügyekre, amelyekben egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
+
+(2) A törvényességi felügyeletet gyakorló ügyészség ellenőrzi, hogy a gazdasági kamara
+
+- a) alapszabálya és más önkormányzati szabályzatai, illetve azok módosításai megfelelnek-e a jogszabályoknak;
+- b) működése, határozatai nem sértik-e a jogszabályokat, az alapszabályt vagy az egyéb önkormányzati szabályzatokat.
+
+(3) Ha a gazdasági kamara működésének törvényessége másképpen nem biztosítható, az ügyészség törvényességi felügyeleti jogkörében eljárva keresettel bírósághoz fordulhat. A bíróság
+
+- a) megsemmisíti a kamara törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el;
+- b) a működés törvényességének helyreállítása érdekében összehívja a kamara küldöttgyűlését;
+- c) ismételt vagy súlyos törvénysértés esetén a kamarának vagy a kamara egyes szerveinek működését felfüggeszti, egyidejűleg – a törvénysértő állapot megszüntetésének időtartamára – felügyelőbiztost jelöl ki. A bíróság meghatározza a felügyelőbiztos feladatát, a törvényes állapot helyreállítására határidőt állapít meg, szükség szerint új felügyelőbiztost nevezhet ki a korábbi felügyelőbiztos felmentése mellett. A felügyelőbiztos tevékenységével okozott kárért a polgári jog szabályai szerint felel;
+- d) amennyiben a törvényes működés másként nem biztosítható, a kamarát – az országos gazdasági kamara kivételével – feloszlatja.
+
+(4) A felügyelőbiztos köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni a gazdasági kamara küldöttgyűlését. Amennyiben a bíróság az elnök vagy az elnökség működését függesztette fel, a felügyelőbiztos a halaszthatatlan ügyekben intézkedik az elnök, illetve az elnökség jogkörében.
+
+(5) A bíróság az ügyészség keresete alapján megállapítja a kamara megszűnését, ha tagjainak száma az alapszabályban meghatározott legkisebb létszám alá csökken.
+
+(6) A kamara feloszlatása vagy megszűnésének megállapítása esetén a nyilvántartásból való törléséről rendelkező bírósági határozat jogerőre emelkedésének napjával szűnik meg. A megszűntnek nyilvánítás esetén a megszűnő kamara általános jogutódát a bíróság jelöli ki.
+
+29. §
+
+### Választási szabályok
+
+30. § (1) A kamarai küldötteket (pótküldötteket) a választási névjegyzékben szereplő gazdálkodó szervezetek a kereskedelmi és iparkamarákban tagozatokban, az agrárkamarákban osztályokban választják meg. A gazdálkodó szervezetek szavazati jogukat kizárólag a választási névjegyzékben szavazásra jogosult személyként feltüntetett személy útján gyakorolhatják. Minden gazdálkodó szervezetet a kamarai választások során egy szavazat illet meg.
+
+(2)
+
+(3) Valamennyi gazdálkodó szervezetet be kell osztani
+
+- a) a kereskedelmi és iparkamarákban tagozatokba;
+- b) az agrárkamarákban – ágazati és szakmai szempontok szerinti – osztályokba.
+
+(4) Az egyes kamarai tagozatokba és osztályokba a (3) bekezdés szerinti beosztott gazdálkodó szervezetek az osztály és a tagozat gazdasági súlyának megfelelő számú kamarai küldöttet (pótküldöttet) választanak. Az egyes tagozatok, illetve osztályok által választott küldöttek (pótküldöttek) számát a területi gazdasági kamara alapszabálya határozza meg.
+
+31. § (1) A gazdálkodó szervezetekről a kereskedelmi és ipari kamarán belül tagozatonként, az agrárkamarán belül osztályonként a gazdasági kamara köteles választási névjegyzéket és tagjegyzéket összeállítani és vezetni. A névjegyzék tartalmazza a gazdálkodó szervezet nyilvántartási számát, nevét, székhelyét, tevékenységi körét, a kamarai választások során a gazdálkodó szervezet képviseletében szavazásra jogosult személy(ek) nevét. A tagjegyzék tartalmazza a kamarai tag nevét, székhelyét, tevékenységi körét, a tagsági jogviszony kezdőidőpontját és a tagsági jogviszonnyal összefüggő kérdésekben a kamarai tag nevében e törvény rendelkezései szerint képviseletre jogosult személy(ek) nevét. A tagjegyzék a választási névjegyzék része.
+
+(2)
+
+(3) A kamara tagja a naptári év utolsó napjára szóló hatállyal kérheti, hogy a gazdasági kamara a következő naptári év első napjától kezdődően a kereskedelmi és iparkamarán belül másik tagozatba, az agrárkamarán belül másik osztályba sorolja át.
+
+(4) A gazdálkodó szervezet a gazdasági kamaránál a naptári év utolsó napjára szóló hatállyal kérheti választási jogosultsága megszüntetését és a választási névjegyzékből való törlését, ha szavazati jogával nem kíván élni, vagy ha egyszerre folytat kereskedelmi és ipari szakmák körébe, illetve a mezőgazdasági és erdőgazdasági tevékenységek körébe tartozó tevékenységet, és a következő naptári év első napjától kezdődően másik fajta gazdasági kamarában kíván választójoggal élni.
+
+(5)
+
+32. § (1) A gazdasági kamara – amennyiben a gazdálkodó szervezet a választási névjegyzékbe való felvételét kéri – a nyilvántartásba vételt nem tagadhatja meg.
+
+(2) A gazdasági kamara alapszabályban kijelölt testületi szerve a kamara választóinak és tagjainak jegyzékét a kamara székhelyén és ügyfélszolgálati irodáiban betekintésre bárki számára hozzáférhetővé teszi.
+
+(3)
+
+(4) A választási névjegyzékkel és a tagjegyzékkel kapcsolatos kifogást a közszemlére tétel időtartama alatt írásban kell a gazdasági kamara alapszabályban kijelölt testületi szervével közölni, amely az alaptalannak tartott kifogást legkésőbb a beérkezést követő 3 napon belül átteszi a megyeszékhelyen működő helyi bírósághoz, Budapesten a Pesti Központi Kerületi Bírósághoz.
+
+(5) A bíróság a kifogásról a beérkezésétől számított 3 napon belül, nemperes eljárásban határoz. Ha a bíróság a kifogást alaposnak tartja, elrendeli a választási névjegyzék vagy a tagjegyzék kiigazítását, ellenkező esetben a kifogást elutasítja. A bíróság határozata ellen további jogorvoslatnak nincs helye.
+
+(6) A bíróság a határozatát annak meghozatala napján közli a gazdasági kamara alapszabályban kijelölt testületi szervével és azzal a gazdálkodó szervezettel, amely a kifogást emelte.
+
+33. § (1) A gazdasági kamara küldöttei, a testületi szervek tagjai, valamint a kamara elnöke és más választott tisztségviselők négy éves időtartamra választhatók meg és újraválaszthatók.
+
+(2) A kamarai küldöttet, a testületi szervek tagját, valamint a kamara elnökét és más választott tisztségviselőt az őket megválasztó szerv visszahívhatja.
+
+### V. Fejezet — A GAZDASÁGI KAMARÁK PÉNZÜGYI FORRÁSAI
+
+34. § (1) A gazdasági kamarák a közfeladataik ellátásával, illetve működésükkel járó költségeket a következő bevételekből fedezik:
+
+- a) tagdíjakból;
+- b) a kamara szolgáltatásaiért fizetett díjakból;
+- c) a kamarák által alapított társaságok tevékenységéből származó bevételből;
+- d) egyéb bevételekből, ideértve az önkéntesen felajánlott hozzájárulásokat is;
+- e) a költségvetési törvényben megállapított támogatásból.
+
+(2) Az (1) bekezdés e) pontjában megállapított, a gazdasági kamarák közfeladatainak ellátásához kapcsolódó költségvetési támogatást azon költségvetési fejezetekben kell megtervezni, amelyekben feltüntetett költségvetési szervek feladatköréhez kapcsolódóan végzik a gazdasági kamarák közfeladataikat.
+
+(3) A költségvetési támogatás felhasználásáról a gazdásági kamarák évente beszámolnak a fejezetet irányító szervnek, amely a költségvetési támogatás felhasználását és hatékonyságát évente köteles ellenőrizni.
+
+(4) A gazdasági kamarák részére közfeladatot abban az esetben lehet átadni, ha az adott közfeladatot a kamarák más szervezeteknél költséghatékonyabban látják el.
+
+### Társaság alapítása
+
+35. § (1) A gazdasági kamara a (2) bekezdésben foglalt kivétellel üzletszerűen – nyereség és vagyonszerzés céljából – termelő, kereskedelmi vagy szolgáltató tevékenységet nem folytathat, gazdasági társaságnak nem lehet tagja és ilyen társaságban nem szerezhet részesedést.
+
+(2) A gazdasági kamara – gazdasági tevékenységet is igénylő közfeladatainak ellátása érdekében – gazdasági társaságot alapíthat, a gazdasági tevékenység során elért adózott eredményét azonban kizárólag csak a közfeladatok ellátására fordíthatja.
+
+(3) A gazdasági kamara olyan gazdasági társaságnak lehet tagja, illetve olyan társaságban szerezhet részesedést, amelyben felelőssége vagyoni hozzájárulásának mértékét nem haladja meg. A gazdasági kamara és a (2) bekezdés szerinti társasága közfeladatai ellátását veszélyeztető mértékű hitelt nem vehet fel, váltót, illetve más hitelviszonyt megtestesítő értékpapírt nem, bocsáthat ki, az államháztartás alrendszereitől kapott támogatást hitel fedezetéül, hitel törlesztésére nem használhatja fel, illetve ideiglenesen felszabaduló szabad pénzeszközeit csak állami garanciavállalás mellett kibocsátott értékpapírba fektetheti.
+
+### A gazdasági kamara önkormányzati határozatainak bírósági felülvizsgálata
+
+36. § (1) A gazdasági kamara tagja kérheti a bíróságtól a kamara valamely testületi szerve által hozott olyan határozat felülvizsgálatát, amely e törvény rendelkezéseibe, más jogszabályba, a kamara alapszabályába vagy más önkormányzati szabályzatába ütközik. Az országos gazdasági kamara testületi szerve által hozott jogsértő határozattal szemben a felülvizsgálat kezdeményezésnek joga a gazdasági kamarát illeti meg.
+
+(2) Perindítás előtt a gazdasági kamara tagja, illetve a gazdasági kamara köteles a jogsértést a jogsértő határozatról történt tudomásszerzéstől számított harminc napon, de legkésőbb a határozat meghozatalától számított hat hónapon belül az ellenőrző bizottságnak bejelenteni. Ez utóbbi határidő elmulasztása jogvesztéssel jár.
+
+(3) Az ellenőrző bizottság a bejelentést követő harminc napon belül köteles írásban állást foglalni.
+
+(4) A pert a gazdasági kamara tagjának a gazdasági kamara ellen, illetve a gazdasági kamarának az országos kamara ellen az ellenőrző bizottság állásfoglalásától, vagy a (3) bekezdés szerinti határidő eredménytelen elteltétől számított harminc napon belül kell megindítania. A perindításnak nincs halasztó hatálya, a bíróság azonban a határozat végrehajtását felfüggesztheti.
+
+(5) A (4) bekezdésben megállapított határidő elmulasztása esetén igazolásnak nincs helye. A bíróság eljárására egyebekben a polgári perrendtartástól szóló törvény általános szabályait kell alkalmazni.
+
+### VI. Fejezet — A GAZDASÁGI ÉRDEKKÉPVISELETI JOGOK GYAKORLÁSÁRA VONATKOZÓ SZABÁLYOK
+
+### Véleménykérés a gazdasági tárgyú előterjesztésekről
+
+37. § (1) A gazdálkodó szervezetekre, az általuk folytatott gazdasági tevékenységre vonatkozó – jogszabály alkotására, program elfogadására, átfogó intézkedés meghozatalára irányuló vagy egyéb jelentős – előterjesztésnek (a továbbiakban: gazdasági előterjesztés) a Kormányhoz történő beterjesztése előtt meg kell kérni az országos gazdasági kamarák és az érdekelt országos gazdasági érdekképviseleti szervezetek véleményét.
+
+(2) Az (1) bekezdésben foglaltak végrehajtásáról a Kormánynak az előterjesztést benyújtó tagja, illetve ha az előterjesztést más erre jogosult szerv vagy személy nyújtja be, ez utóbbi gondoskodik.
+
+(3) Ha a gazdasági előterjesztésről való döntés miniszter hatáskörébe tartozik, alkalmazni kell a Kormányhoz benyújtott gazdasági előterjesztésekre vonatkozó szabályokat.
+
+(4) Gazdasági előterjesztésnek a helyi önkormányzat képviselő-testületéhez való benyújtása előtt meg kell kérni a helyi önkormányzat területén működő, érdekelt gazdasági érdekképviseleti szervezet, valamint a gazdasági kamara véleményét.
+
+(5) Nem kell megkérni a gazdasági kamara véleményét olyan előterjesztésekről, amelyek kizárólag valamely foglalkozás gyakorlóinak az érdekeit, illetőleg a munkáltatói vagy munkavállalói érdekeket érintik.
+
+(6) A (4) bekezdésben foglaltak végrehajtásáról a polgármester, a képviselő-testület bizottságának elnöke, illetve az előterjesztés benyújtására jogosult más szerv vagy személy gondoskodik.
+
+(7) Ha a gazdasági érdekképviseleti szervezetekből álló szövetség tart igényt véleményének megkérésére, az előterjesztő nem köteles megkérni a szövetség tagjainak véleményét.
+
+(8) Ha a gazdasági érdekképviseleti szervezet vagy a gazdasági kamara véleménye az előterjesztő véleményétől a lényeges kérdésekben eltér, akkor az előterjesztésben a véleményeltérésről a Kormányt, a minisztert, illetve a képviselő-testületet tájékoztatni kell. A gazdasági előterjesztésre beérkezett el nem fogadott véleményekről és annak szakmai indokairól az érdekelt országos gazdasági kamarát, illetve az országos gazdasági érdekképviseleti szervezetet tájékoztatni kell.
+
+### VII. Fejezet — AZ ÁLLAMI SZÁMVEVŐSZÉK ELLENŐRZÉSI JOGKÖRE
+
+38. § Az Állami Számvevőszék – külön törvény rendelkezéseinek megfelelően – rendszeresen ellenőrzi a gazdasági kamarákat.
+
+### VIII. Fejezet — ÁTMENETI RENDELKEZÉSEK
+
+39. § (1) A Magyar Kézműves Kamara a Magyar Kereskedelmi és Iparkamarába, továbbá a kézműves kamarák a kereskedelmi és iparkamarákba 2000. március 31. napjával beolvadnak; a kézműves kamarák – ideértve az országos kamarát is – megszűnnek, a megszűnt kamarák általános jogutódai a kereskedelmi és iparkamarák, illetve a Magyar Kereskedelmi és Iparkamara.
+
+(2) A Magyar Kézműves Kamarának, illetve a területi kézműves kamaráknak a gazdasági kamarákról szóló 1994. évi XVI. törvényben és az annak felhatalmazása alapján kibocsátott kormányrendeletekben meghatározott feladatait 2000. március 31. napjától a Magyar Kereskedelmi és Iparkamara, illetve a kereskedelmi és iparkamarák látják el.
+
+(3) A nemzetközi szerződésekben, továbbá a Magyar Kézműves Kamara által külföldi gazdasági (kereskedelmi) kamarákkal kötött szerződésekben a Magyar Kézműves Kamara részére megállapított – kamarai feladatokkal összefüggő – jogok és kötelezettségek a Magyar Kereskedelmi és Iparkamarára szállnak át 2000. március 31-i hatállyal.
+
+(4) 2000. március 31. napjától a kézműipari tevékenységet folytató gazdálkodó szervezetek arányos képviseletére a kereskedelmi és iparkamarák és a Magyar Kereskedelmi és Iparkamara küldöttgyűlésén és testületi szerveiben az e törvény hatálybalépését követő első alapszabály elfogadásáig a kézműipari tagozatot 33% szavazati jog illeti meg.
+
+(5) A (4) bekezdés szerinti szavazati jogot gyakorló küldötteket a kézműipari tagozatban tartott választások útján a kézműves kamarákban küldöttnek megválasztott személyek közül kell kiválasztani.
+
+40–41. §
+
+42. § A területi gazdasági kamarák által 2000. október 31. napjáig terjedő időszakra megállapított és meg nem fizetett tárgyévi tagdíj köztartozás, amelyet a gazdasági kamara – az adózás rendjéről szóló törvény rendelkezéseinek megfelelő alkalmazásával – adók módjára hajt be a tagdíj megállapítása tárgyában hozott, a végrehajtás alapját képező fizetési kötelezettséget megállapító jogerős határozat alapján. A kézműves kamarákat megillető meg nem fizetett tagdíjtartozás behajtásáról 2000. március 31. napjától a kereskedelmi és iparkamarák gondoskodnak.
+
+### IX. Fejezet — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
+
+43. § (1) A ,,kamara'' elnevezés használatára csak az e törvényben szabályozott gazdasági kamarák, továbbá a külön törvényekben szabályozott szakmai kamarák jogosultak.
+
+(2) A ,,kamara'' elnevezés használatára azok a társadalmi szervezetek is jogosultak,
+
+- a) amelyeket az (1) bekezdésben említett országos kamarák önállóan vagy külföldi kamarákkal közösen hoztak létre, vagy
+- b) amelyeket külföldi kamara a társadalmi szervezet tevékenységének jellege szerinti országos gazdasági kamara hozzájárulásával önállóan hozott létre
+
+kamarai feladatokkal összefüggő tevékenység folytatására. A névhasználatra való jogosultságot az alapító kamara igazolja. Külföldi alapító esetében azt is igazolni kell, hogy az alapító – személyes joga szerint – jogosult a ,,kamara'' elnevezés használatára.
+
+(3) Azok a társadalmi szervezetek, amelyeknek az (1) bekezdésben említett kamarák a tagjai, elnevezésükben e körülményre utalhatnak.
+
+44. § (1) E törvény – a (2) bekezdésben foglaltak kivételével – 2000. november 1. napján lép hatályba.
+
+(2) A 26–33. §-ok és a 39–47. §-ok 2000. március 31. napján lépnek hatályba. A 48–54. §-ok e törvény kihirdetése napján lépnek hatályba.
+
+(3)–(4)
+
+45. §
+
+46. § Ahol jogszabály területi kereskedelmi és iparkamarát, vagy területi kézműves kamarát, illetve Magyar Kereskedelmi és Iparkamarát, vagy Magyar Kézműves Kamarát említ, azon 2000. március 31. napjától a kereskedelmi és iparkamarát, illetve Magyar Kereskedelmi és Iparkamarát kell érteni.
+
+47. § A Magyar Kereskedelmi és Iparkamara mellett működő, nemzetközi kereskedelmi ügyekben is eljáró Állandó Választottbíróság – változatlan szervezeti és eljárási rendben – a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbíróság néven működik tovább. Azokban az ügyekben, amelyekben a szerződő felek a szerződésben a Magyar Kézműves Kamara mellett működő Választottbíróság hatáskörét kötötték ki, e törvény hatálybalépését követően a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbíróság jár el. A törvény hatálybalépésekor a Magyar Kézműves Kamara mellett működő Választottbíróságnál folyamatban lévő ügyeket a megindításuk időpontjában hatályos eljárási rend szerint kell befejezni.
+
+48. § (1) A gazdasági kamara a tulajdonában lévő ingatlanok, gépjárművek, üzletrészek tulajdonjogát 2000. október 31. napjáig nem ruházhatja át, illetve ezeket nem terhelheti meg, közhasznú társasága ilyen ügyleteihez nem járulhat hozzá. Közhasznú társaságot 2000. október 31. napjáig nem alapíthat, ilyen társaságban részesedést nem szerezhet, a külön törvényben meghatározott kötelező eseteken kívül törzstőkét nem emelhet, és a törzstőke emeléséhez nem járulhat hozzá, ha abban többségi tulajdonnal vagy többségi szavazati joggal rendelkezik.
+
+(2) A tilalom nem vonatkozik:
+
+- a) a már megkötött és az illetékes hivatalhoz benyújtott tulajdonátruházási szerződésekre;
+- b) a jelzáloggal biztosított követelés kielégítése érdekében történő tulajdonátruházásra.
+
+(3) A gazdasági kamarák 2000. október 31. napjáig kötelesek ellátni mindazokat a közfeladatokat és közigazgatási feladatokat, amelyeket jogszabály a feladat- és hatáskörükbe utal.
+
+49. § E törvény végrehajtását – a soron kívüli kamarai választások lebonyolításáig – kormánymegbízott felügyeli. Felhatalmazást kap a Kormány, hogy a kormánymegbízott feladat- és hatáskörét rendeletben szabályozza.
+
+50. § Felhatalmazást kap a Kormány, hogy azokban a közigazgatási ügyekben, amelyekben a gazdasági kamarák nem törvény rendelkezése alapján járnak el, rendelkezzen e feladatok további ellátásáról.
+
+51. §
+
+52. § A mezőgazdasági kistermelő és az őstermelő e törvény kihirdetésétől felvételét kérheti a választási névjegyzékbe, illetve az önkéntes tagokról vezetett tagjegyzékbe.
+
+53–54. §
