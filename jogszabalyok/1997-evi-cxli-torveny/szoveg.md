@@ -763,6 +763,8 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 (3) A bírósági végrehajtói szolgálat fennállásáról, annak adataiban történt változásról (áthelyezés, tartós helyettes kirendelése stb.), illetve megszűnéséről az önálló bírósági végrehajtók tekintetében a Magyar Bírósági Végrehajtói Kamara, a megyei (fővárosi) bírósági végrehajtók tekintetében pedig az illetékes megyei (fővárosi) bíróság értesíti az ingatlanügyi hatóságot, amely az értesítés alapján a bírósági végrehajtó hozzáférési jogosultságát visszavonja.
 
+(4) A vízitársulat a törvényben meghatározott közfeladatainak teljesítése céljából a hivatali helyiségében működtetett saját számítástechnikai eszközével jogosult a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe venni. Az ingatlanügyi hatóság a vízitársulat részére kérelem alapján térítésmentesen biztosítja a vízitársulat közfeladatainak ellátásához szükséges számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
+
 74. § (1) Az ingatlan-nyilvántartási hatóság a 72–73/A. §-ok hatálya alá nem tartozó személyek számára szerződés alapján biztosíthatja a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 (2) A szolgáltatási szerződés kötelező elemeit külön jogszabály határozza meg.

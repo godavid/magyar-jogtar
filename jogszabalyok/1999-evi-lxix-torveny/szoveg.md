@@ -237,7 +237,7 @@ napján.
 
 27. § (1) A központi szabálysértési nyilvántartás (a továbbiakban: szabálysértési nyilvántartás) célja az eljárás alá vont személy szabálysértési előéletének nyilvántartása a szabálysértési eljárás gyors és pontos lefolytatása, a szabálysértési végrehajtási rendszer megerősítése, továbbá a nyilvántartásból történő adatszolgáltatás útján az érintett jogai gyakorlásának biztosítása, valamint mások jogainak és biztonságának védelme érdekében.
 
-(2) A szabálysértési nyilvántartással kapcsolatos eljárásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(2) A szabálysértési nyilvántartással kapcsolatos eljárásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit az e törvényben és az elektronikus kapcsolattartás formájára és módjára vonatkozóan az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott eltéréssel kell alkalmazni.
 
 (3) A szabálysértési nyilvántartás tekintetében az adatkezelői feladatokat a Kormány által rendeletben kijelölt szerv (a továbbiakban: szabálysértési nyilvántartó szerv) látja el.
 
@@ -262,7 +262,7 @@ napján.
 
 (2) A szabálysértési nyilvántartás részére az (1) bekezdésben meghatározott adatokat jogszabályban meghatározott formában és módon közli:
 
-- a) az (1) bekezdés a)–i) pontja esetében az eljáró bíróság illetőleg szabálysértési hatóság,
+- a) a bíróság az előtte indult szabálysértési eljárásokban az (1) bekezdés a)–e) és i) pontok esetén, a szabálysértési hatóság az (1) bekezdés a)–h) pontok esetén,
 - b) az (1) bekezdés j) pontja esetén a méltányossági döntést hozó szerv,
 - c) az (1) bekezdés k) pontja esetén az engedélyező szerv,
 - d) az (1) bekezdés l) pontja esetén a büntetés-végrehajtási intézet.

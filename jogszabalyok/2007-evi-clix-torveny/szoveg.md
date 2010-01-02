@@ -549,7 +549,7 @@ köteles foglalkoztatni.
 
 (2) A kérelemnek tartalmaznia kell a viszontbiztosító megnevezését, a meglévő és a megszerezni kívánt részesedés – a 3. § (1) bekezdésének 7. és 30. pontját, valamint a Bszt. 37/A. §-ának (2)–(6) bekezdésében foglaltakat is figyelembe vevő – nagyságát.
 
-(3) A részesedésszerzés engedélyezése iránti kérelemhez – a (6)–(7) bekezdésben foglal eltéréssel – a (2) bekezdésben foglaltakon túl mellékelni kell:
+(3) A részesedésszerzés engedélyezése iránti kérelemhez – a (7)–(8) bekezdésben foglalt eltéréssel – a (2) bekezdésben foglaltakon túl mellékelni kell:
 
 - a) a kérelmező, illetve a kérelmező vállalkozásban minősített befolyással rendelkező 3. § (1) bekezdésének 3. pontjában meghatározott azonosító adatait;
 - b) természetes személy kérelmező esetén bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítványt, vagy a kérelmező személyes joga szerinti ennek megfelelő okiratot;
@@ -561,15 +561,17 @@ köteles foglalkoztatni.
 - h) a tulajdonszerzésre, illetve a szavazati joghoz kapcsolódó jelentős előnyöket biztosító megállapodásra tett szerződéses ajánlatot;
 - i) nem természetes személy kérelmező esetén a kérelmező tulajdonosi szerkezetének részletes leírását;
 - j) a 22. § h) és i) pontjában meghatározott nyilatkozatokat;
-- k) a kérelmező teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
+- k) a kérelmező teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez – a (7)–(8) bekezdésben foglalt eltéréssel – mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
 
-(4) A részesedésszerzés feltétele, hogy a kérelmező – közvetlen részesedésszerzés esetén – a részesedésszerzéshez szükséges tőke pénzbeli részét valamely tagállamban bejegyzett hitelintézetnél helyezze el.
+(4) Az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban.
 
-(5) Ha a kérelmező harmadik országbeli biztosító, viszontbiztosító, hitelintézet vagy befektetési társaság, a (3) és (4) bekezdésekben foglaltakon kívül a kérelemhez mellékelni kell a székhely szerinti állam illetékes felügyeleti hatóságának arra vonatkozó igazolását, illetve nyilatkozatát, hogy a vállalkozás a tevékenység végzésére vonatkozó szabályok betartásával működik.
+(5) A részesedésszerzés feltétele, hogy a kérelmező – közvetlen részesedésszerzés esetén – a részesedésszerzéshez szükséges tőke pénzbeli részét valamely tagállamban bejegyzett hitelintézetnél helyezze el.
 
-(6) Ha a Magyarországon bejegyzett nem természetes személy a (3) bekezdés d) pontjában meghatározott okiratokat a kérelemhez nem csatolja, a Felügyelet az adatok szolgáltatása érdekében megkeresi a nem természetes személy bejegyzéséről nyilvántartást vezető szervet.
+(6) Ha a kérelmező harmadik országbeli biztosító, viszontbiztosító, hitelintézet vagy befektetési társaság, a (3) és (5) bekezdésben foglaltakon kívül a kérelemhez mellékelni kell a székhely szerinti állam illetékes felügyeleti hatóságának arra vonatkozó igazolását, illetve nyilatkozatát, hogy a vállalkozás a tevékenység végzésére vonatkozó szabályok betartásával működik.
 
-(7) Ha az a kérelmező, amelynek személyes joga a magyar, a kérelemhez nem csatolja a (3) bekezdés e) pontja szerinti okiratot, a Felügyelet megkeresi a köztartozásról nyilvántartást vezető szervet. A megkeresett szerv az adatszolgáltatás során arról tájékoztatja, hogy a kérelmezőnek van-e meg nem fizetett, lejárt köztartozása.
+(7) Ha a Magyarországon bejegyzett nem természetes személy a (3) bekezdés d) pontjában meghatározott okiratokat a kérelemhez nem csatolja, a Felügyelet az adatok szolgáltatása érdekében megkeresi a nem természetes személy bejegyzéséről nyilvántartást vezető szervet.
+
+(8) Ha az a kérelmező, amelynek személyes joga a magyar, a kérelemhez nem csatolja a (3) bekezdés e) pontja szerinti okiratot, a Felügyelet megkeresi a köztartozásról nyilvántartást vezető szervet. A megkeresett szerv az adatszolgáltatás során arról tájékoztatja, hogy a kérelmezőnek van-e meg nem fizetett, lejárt köztartozása.
 
 54. § (1) Ha a kérelmező
 

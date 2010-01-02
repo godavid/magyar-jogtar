@@ -87,7 +87,7 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 - a) forrásszerzés céljából kül- és belföldi hitelintézetektől elfogadott betétekből és felvett hitelekből, valamint kötvénykibocsátásból eredő fizetési kötelezettségek teljesítéséért,
 - b) kormányrendeletben előírt feltételekkel vállalt garanciaügyletek esetleges beváltásából fakadó fizetési kötelezettségekért.
 
-(2) Az Állam a központi költségvetés terhére készfizető kezesként felel a Mehib Rt. által a kormányrendeletben előírt feltételekkel vállalt nem-piacképes kockázatú biztosításokból, illetőleg viszontbiztosításokból eredő fizetési kötelezettségek teljesítéséért.
+(2) Az Állam készfizető kezesként felel a Mehib Rt. által az e törvényben, valamint kormányrendeletekben előírt feltételekkel vállalt biztosításokból, illetőleg viszontbiztosításokból eredő fizetési kötelezettségek teljesítéséért.
 
 (3) Az Eximbanknak az (1) bekezdés b) és a Mehib Rt.-nek a (2) bekezdés szerinti fizetési kötelezettsége teljesítéséhez szükséges forrásokat a központi költségvetés közvetlenül biztosítja.
 
@@ -96,8 +96,8 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 7. § (1) Az éves költségvetési törvényben meg kell határozni:
 
 - a) az Eximbank által forrásszerzés céljából kül- és belföldi hitelintézetektől felvehető betétek és hitelek, valamint a kibocsátott kötvények együttes állományának felső határát,
-- b) az Eximbank által a költségvetés terhére vállalható exporthitel-garanciák állományának felső határát, valamint az egyéb export célú garanciaügyletek állományának felső határát,
-- c) a Mehib Rt. által a kormányrendeletben előírt feltételekkel vállalt nem-piacképes kockázatú biztosítási kötelezettségek, illetőleg viszontbiztosításból eredő kötelezettségek állományának felső határát,
+- b) az Eximbank által az Állam készfizető kezessége mellett vállalható exporthitel-garanciák állományának felső határát, valamint az egyéb export célú garanciaügyletek állományának felső határát,
+- c) a Mehib Rt. által az Állam készfizető kezessége mellett vállalható biztosítási kötelezettségek, illetőleg viszontbiztosításból eredő kötelezettségek állományának felső határát,
 - d) a kamatkiegyenlítési rendszer keretében az Eximbank által a központi költségvetéssel elszámolható kiegyenlítés forrásául szolgáló összeg előirányzatát,
 - e) az Eximbank által folyósított kötött segélyhitelekhez kapcsolódó, a központi költségvetés terhére nyújtott támogatások előirányzatát.
 
@@ -205,9 +205,9 @@ a miniszterelnök határozatlan időre nevezi ki és menti fel.
 
 26. § (1) A Kormány felhatalmazást kap arra, hogy a pénzintézetek, valamint a biztosítóintézetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendeletekben külön meghatározza az Eximbank és a Mehib Rt. éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságait.
 
-(2) A Kormány felhatalmazást kap arra, hogy a Mehib Rt. által a központi költségvetés terhére, az Állam készfizető kezessége mellett vállalt biztosítások, illetőleg viszontbiztosítások feltételeit és részletes szabályait rendeletben szabályozza.
+(2) A Kormány felhatalmazást kap arra, hogy a Mehib Rt. által az Állam készfizető kezessége mellett vállalható biztosítások, illetőleg viszontbiztosítások tárgyát, a biztosítási eseményeket, valamint ezen biztosítások és viszontbiztosítások feltételeit és részletes szabályait rendeletekben szabályozza.
 
-(3) A Kormány felhatalmazást kap arra, hogy a kamatkiegyenlítési rendszer és az Eximbank által a központi költségvetés terhére vállalható exporthitel-garanciák feltételeit és részletes szabályait, továbbá az egyéb export célú garanciaügyletek feltételeit és részletes szabályait rendeletekben szabályozza.
+(3) A Kormány felhatalmazást kap arra, hogy a kamatkiegyenlítési rendszer és az Eximbank által az Állam készfizető kezessége mellett vállalható exporthitel-garanciák feltételeit és részletes szabályait, továbbá az Állam készfizető kezessége mellett vállalható egyéb export célú garanciaügyletek feltételeit és részletes szabályait rendeletekben szabályozza.
 
 (4) A Kormány felhatalmazást kap arra, hogy az Eximbank által folyósítható kötött segélyhitelek feltételeit és a segélyhitel-nyújtás részletes szabályait rendeletben állapítsa meg.
 

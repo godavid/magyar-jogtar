@@ -232,51 +232,7 @@ fémkereskedelmi engedélyköteles anyag hasznosítását.
 
 (5) A fémkereskedelmi engedélyköteles tevékenységet e törvény kihirdetésekor az akkor hatályos jogszabályok szerinti érvényes működési engedéllyel, illetve telepengedéllyel folytató személy tekintetében a (4) bekezdésben meghatározott időpontig nem kell alkalmazni a 4. § (1), valamint (4)–(9) bekezdését, az 5. § (1)–(3) bekezdését, a 6–9. §-okat, továbbá a 11–12. §-okat.
 
-16. § (1) A Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 316. §-a (4) bekezdésének b) pontja a következő 5. ponttal egészül ki:
-
-[(4) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha
-
-a) a lopást nagyobb értékre,
-
-b) a kisebb értékre elkövetett lopást.]
-
-„5. nemesfémre, nemesfém ötvözetére vagy fémkereskedelmi engedélyköteles anyagra,”
-
-[követik el.]
-
-(2) A Btk. 324. §-ának (3) bekezdése a következő c) ponttal egészül ki:
-
-[(3) Bűntett miatt három évig terjedő szabadságvesztéssel büntetendő az, aki]
-
-„c) nemesfémet, nemesfém ötvözetét vagy fémkereskedelmi engedélyköteles anyagot kisebb kárt okozva”
-
-[rongál meg.]
-
-(3) A Btk. 326. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha az orgazdaságot
-
-a) nagyobb értékre,
-
-b) kulturális javak körébe tartozó tárgyra,
-
-c) kisebb értékű nemesfémre, nemesfém ötvözetére vagy fémkereskedelmi engedélyköteles anyagra
-
-követik el.”
-
-(4) A büntetőeljárásról szóló 1998. évi XIX. törvény 36. § (2) bekezdésének b) pontja helyébe a következő rendelkezés lép:
-
-[(2) A Vám- és Pénzügyőrség végzi a nyomozást a következő bűncselekmények miatt:]
-
-„b) áru hamis megjelölése (Btk. 296. §), fémkereskedelmi engedélyköteles anyagra vagy fémkereskedelmi engedélyköteles anyag ötvözetére elkövetett lopás (Btk. 316. §), fémkereskedelmi engedélyköteles anyagra vagy fémkereskedelmi engedélyköteles anyag ötvözetére elkövetett orgazdaság (Btk. 326. §), bitorlás (Btk. 329. §), szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 329/A. §), szerzői vagy szerzői joghoz kapcsolódó jogok védelmét biztosító műszaki intézkedés kijátszása (Btk. 329/B. §), jogkezelési adat meghamisítása (Btk. 329/C. §) és iparjogvédelmi jogok megsértése (Btk. 329/D. §), ha azt a Vám- és Pénzügyőrség észleli, vagy a feljelentést a Vám- és Pénzügyőrségnél teszik meg,”
-
-17. § A kulturális örökség védelméről szóló 2001. évi LXIV. törvény II. része az alábbi alcímmel és 61/A. §-sal egészül ki:
-
-„A kulturális javak feldolgozására vonatkozó korlátozás
-
-61/A. § Kulturális javakat fémkereskedő fémkereskedelmi tevékenység céljából kizárólag a hatóságnak az átvett tárgyakat egyedileg megjelölő engedélyével vehet át.”
-
-18. § A kereskedelemről szóló 2005. évi CLXIV. törvény 1. §-ában az „a külön törvényben meghatározott egészségügyi szolgáltatás” szövegrész helyébe az „a külön törvényben meghatározott egészségügyi szolgáltatás, valamint a külön törvényben meghatározott fémkereskedelmi engedélyköteles tevékenység” szöveg lép.
+16–18. §
 
 19. § A törvény megalkotására irányuló törvényjavaslatnak a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.
 

@@ -46,7 +46,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 
 (2)
 
-(3) A vízügyi igazgatási szervezet látja el – a mezőgazdasági vízgazdálkodási célokat szolgáló vizek és vízilétesítmények kivételével – azoknak az állam tulajdonában lévő vizeknek és vízilétesítményeknek a kezelését, amelyek nem minősülnek az állam vállalkozói vagyonának, és így más gazdálkodó szervezet használatába nem adhatók. A mezőgazdasági vízgazdálkodási célokat szolgáló vizek és vízilétesítmények tekintetében a kezelésről a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatait ellátó miniszter gondoskodik.
+(3) A vízügyi igazgatási szervezet látja el – a mezőgazdasági vízgazdálkodási célokat szolgáló vizek és vízilétesítmények kivételével – azoknak az állam tulajdonában lévő vizeknek és vízilétesítményeknek a kezelését, amelyek nem minősülnek az állam vállalkozói vagyonának, és így más gazdálkodó szervezet használatába nem adhatók. A mezőgazdasági vízgazdálkodási célokat szolgáló vizek és vízilétesítmények tekintetében a kezelésről a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatait ellátó miniszter útján gondoskodik.
 
 (4)
 
@@ -99,7 +99,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 
 (2) A 2. és a 3. számú melléklet szerinti vízfolyások és vízilétesítmények jegyzékét a miniszter rendeletben teszi közzé.
 
-(3) A helyi önkormányzat tulajdonában vannak törzsvagyonként — a külön törvények rendelkezése alapján — a helyi önkormányzatoknak átadott vizek és vízilétesítmények (ideértve a víziközműveket is).
+(3) A helyi önkormányzat tulajdonában vannak törzsvagyonként – a külön törvények rendelkezése alapján – a helyi önkormányzatoknak átadott vizek és vízilétesítmények (ideértve a víziközműveket is).
 
 (4) Az ingatlan tulajdonosának a tulajdonában vannak:
 
@@ -114,7 +114,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 
 (7) A természetes úton létrejött — a meder részét már nem képező — feliszapolódáson (parti növedék) csak a parti ingatlan tulajdonosa szerezhet tulajdont.
 
-7. § (1) Az állami tulajdonban lévő vizekről és vízlétesítményekről a 9–10. és 13. §-okban foglaltakra is figyelemmel, a közérdek mértékéig, a központi költségvetés – ideértve a fejezeti kezelésű vízügyi célelőirányzat pénzeszközeinek felhasználásával –, illetve vízgazdálkodási társulat útján (IX. Fejezet) kell gondoskodni.
+7. § (1) Az állami tulajdonban lévő vizekről és vízilétesítményekről a 9–10. §-okban és a 13. §-ban foglaltakra is figyelemmel, a közérdek mértékéig, a központi költségvetés – ideértve a fejezeti kezelésű Környezetvédelmi és vízügyi célelőirányzat pénzeszközeinek felhasználásával –, illetve a külön törvényben szabályozott vízitársulat útján kell gondoskodni.
 
 (2) Az (1) bekezdésben megjelölt feladat:
 
@@ -126,7 +126,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 - f) a belvízelvezető művek (így például a belvízcsatornák, szivattyútelepek, belvíztározók) létesítése, fenntartása, bővítése, a belvízvédekezés irányítása és végrehajtása;
 - g) a víziközműrendszerek és a vízkészlet-gazdálkodási célú feladatokat ellátó vízátvezető csatornák bővítése és üzemeltetése.
 
-(3) A helyi önkormányzat tulajdonában lévő vizekről és vízlétesítményekről a 9., 10. és 13. §-okban foglaltakra is figyelemmel a központi és az önkormányzati költségvetésben meghatározott pénzeszközök felhasználásával, illetve vízgazdálkodási társulat útján (IX. Fejezet) kell gondoskodni.
+(3) A helyi önkormányzat tulajdonában lévő vizekről és vízilétesítményekről a 9–10. §-okban és a 13. §-ban foglaltakra is figyelemmel a központi és az önkormányzati költségvetésben meghatározott pénzeszközök felhasználásával, illetve a külön törvényben szabályozott vízitársulat útján lehet gondoskodni.
 
 (4) A (3) bekezdésben megjelölt feladat:
 
@@ -165,7 +165,7 @@ adottságok.
 
 8. § (1) A közérdek mértékét meghaladó, illetve a 7. §-ban nem említett tevékenység — vízimunka, vízilétesítmény építése — többletköltségeit az igénylők kötelesek megtéríteni.
 
-(2) A helyi közcélú vízilétesítmények, illetve a közcélú vízimunkák költségeit, vízitársulat esetén a tagok a társulati érdekeltségi szabályok szerint, vízitársulat hiányában az érdekeltek érdekeltségük arányában kötelesek viselni (közcélú érdekeltségi hozzájárulás).
+(2) A területi közcélú vízilétesítmények, illetve a közcélú vízimunkák költségeit, vízitársulat esetén a tagok külön törvény szerint, vízitársulat hiányában az érdekeltek érdekeltségük arányában kötelesek viselni (közcélú érdekeltségi hozzájárulás). A közcélú érdekeltségi hozzájárulás hektáronként fizetendő mértékét a vízügyi igazgatásért felelős miniszter évente rendeletben állapítja meg.
 
 (3) Vízitársulat hiányában a (2) bekezdés szerinti költségeket a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezései szerint lefolytatott eljárásban hozott határozatával érdekeltségük arányában az érdekeltekre a települési önkormányzat jegyzője veti ki.
 
@@ -518,132 +518,119 @@ indokolja.
 
 ### IX. Fejezet — A vízgazdálkodási társulatok
 
-34. § (1) A vízgazdálkodási közfeladatok az e törvényben meghatározott feltételek szerint létrehozott vízgazdálkodási társulatok (a továbbiakban: társulat) útján is elláthatók.
+34. § (1) A vízgazdálkodási közfeladatok az e törvényben meghatározott feltételek szerint létrehozott vízgazdálkodási társulatok útján is elláthatók. A vízgazdálkodási társulat közfeladatai jellegétől függően vízitársulat, illetve víziközmű társulat.
 
-(2) A társulat jogi személyiséggel rendelkező gazdálkodó szervezet, közfeladatai jellegétől függően víziközmű-társulat, illetve vízitársulat. A társulat létrehozására, szervezetére, működésére, megszűnésére, egyesülésére, illetve szétválására, valamint választott tisztségviselőinek felelősségére — az e törvény eltérő rendelkezése hiányában — a gazdasági társaságokról szóló törvény általános részének rendelkezéseit kell alkalmazni.
+(2) A vízitársulatról külön törvény rendelkezik.
 
-(3) A társulat az e törvényben meghatározott közfeladatait szolgáló tevékenységét az érdekeltségi területén végzi.
+35. § (1) A társulat közfeladatait szolgáló tevékenységét érdekeltségi területén végzi.
 
-(4) A társulat tagjai az érdekeltségi területen ingatlantulajdonnal rendelkező vagy az ingatlant egyéb jogcímen használó természetes és jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok.
+(2) A víziközmű társulat tagjai az érdekeltségi területen ingatlantulajdonnal rendelkező vagy az ingatlant egyéb jogcímen használó természetes és jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok.
 
-(5) A társulat tagjai kötelesek a társulat közfeladatai ellátásának költségeihez az érdekeltségi egység arányában hozzájárulni.
+(3) A víziközmű társulat tagjai kötelesek a víziközmű társulat részére víziközmű társulati érdekeltségi hozzájárulást (a továbbiakban: hozzájárulás) fizetni. A hozzájárulás adók módjára behajtható köztartozás.
 
-35. § (1) A társulat közfeladatként:
+(4) A víziközmű társulat tagja a vele szemben megállapított hozzájárulás felülvizsgálatát a taggyűlési határozat közlésétől számított 30 napon belül a bíróságtól kérheti.
 
-- a) víziközmű-társulat esetén — a település, az együttesen ellátható települések belterületi, illetve lakott területi részének közműves vízellátását, szennyvízelvezetését, szennyvíztisztítását, káros vizek elvezetését szolgáló — vízilétesítményeket hoz létre, illetve fejleszt;
-- b) vízitársulat esetén helyi vízrendezési és vízkár-elhárítási feladatokat lát el.
+(5) A víziközmű társulat feladatai ellátása kapcsán a feladat ellátásához szükséges mértékig jogosult a víziközmű társulati tagok adatainak kezelésére. A víziközmű társulat a hozzájárulás beszedése érdekében jogosult továbbá az ehhez szükséges adatokat a hatáskörrel rendelkező szervtől bekérni.
 
-(2) A vízitársulat közcélú mezőgazdasági vízhasznosítási létesítményeket hozhat létre, továbbá azokhoz kapcsolódó talajjavítási tevékenységet, nem közműves vízszolgáltatást végezhet, az alapszabályban meghatározott közfeladatait elősegítő vállalkozási tevékenységet is folytathat.
+36. § (1) A víziközmű társulat megalakulását – egyéb jogszabály szerinti – szervező bizottság készíti elő.
 
-(3) A vízitársulat olyan vállalkozásban vehet részt, amelyben felelőssége nem haladja meg vagyoni hozzájárulásának mértékét.
+(2) A víziközmű társulat legfőbb szerve a közgyűlés.
 
-### A társulat megalakulása
+(3) A közgyűlés tagjait az alapszabályban meghatározott eljárásnak megfelelően a tagok delegálják.
 
-36. § (1) A társulat akkor jön létre, ha az érdekeltségi területen ingatlantulajdonnal rendelkező, illetve az ingatlant egyéb jogcímen használó természetes és jogi személyeknek, jogi személyiséggel nem rendelkező gazdasági társaságoknak (a továbbiakban: tagoknak) az érdekeltségi egység aránya szerint számított többsége az alakuló közgyűlésen
+(4) A víziközmű társulat ügyvezetését az intézőbizottság látja el.
 
-- a) elhatározza a társulat megalakulását,
-- b) elfogadja a társulat alapszabályát, és
-- c) megválasztja a társulat testületi vezető szerveit és tisztségviselőit.
+(5) A víziközmű társulat ellenőrző szerve az ellenőrző bizottság.
 
-(2) A társulat megalakításához az alakuló közgyűlésen a tagok érdekeltségi egység szerint számított legalább kétharmados többségének döntése szükséges.
+(6) A víziközmű társulat intézőbizottsága elnökből és legalább kettő, legfeljebb hét tagból áll.
 
-(3) A társulat megalakulását szervező bizottság készíti elő.
+(7) Az intézőbizottság és az ellenőrző bizottság elnökét és tagjait – az alakuló taggyűlés kivételével – a közgyűlés választja meg. Az intézőbizottság elnöke a víziközmű társulat elnöke.
 
-37. § (1) A társulat alapszabályában meg kell határozni:
+(8) Az intézőbizottság és az ellenőrző bizottság ügyrendjét maga állapítja meg.
 
-- a) nevét, székhelyét;
-- b) feladatát és ezzel összefüggésben azt, hogy vízitársulatként vagy víziközmű-társulatként működik-e;
-- c) tevékenységi körét;
+37. § (1) A víziközmű társulat csak víziközmű társulattá alakulhat át.
+
+(2) A víziközmű társulat a közfeladatok ellátásához szükséges elkülönített vagyonával gazdasági társaságot, nonprofit gazdasági társaságot, alapítványt nem hozhat létre, gazdasági társaságban, nonprofit gazdasági társaságban érdekeltséget nem szerezhet, alapítvány részére pénzbeli vagy egyéb hozzájárulást nem teljesíthet.
+
+(3) A víziközmű társulat tartozásaiért saját vagyonával felel. A tagok a víziközmű társulat tartozásaiért nem felelnek.
+
+(4) A víziközmű társulat jogutód nélküli megszűnése esetén – a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény rendelkezéseinek megfelelően – végelszámolásra kerül sor.
+
+### Víziközmű társulat
+
+38. § A víziközmű társulat közfeladatként a település, az együttesen ellátható települések belterületi, illetve lakott területi részének közműves vízellátását, szennyvízelvezetését, szennyvíztisztítását, a belterületi vízrendezést és csapadékvíz elvezetést szolgáló vízilétesítményeket hoz létre, illetve fejleszt.
+
+39. § (1) A víziközmű társulat törvényességi felügyeletét – ideértve a közfeladatok ellátásával kapcsolatos, a szakmai követelményeknek megfelelő törvényes megalakulás és működés ellenőrzését is – a társulat székhelye szerint illetékes környezetvédelmi és vízügyi igazgatóság gyakorolja.
+
+(2) A törvényességi felügyelet kiterjed a társulat megalakulásának, működésének, ellenőrzésére, továbbá annak vizsgálatára, hogy
+
+- a) alapszabálya, valamint más belső szabályzatai,
+- b) szerveinek határozatai és a testületi szervek működése,
+- c) az érdekeltségi (tagsági) jogviszony keretében a jogok gyakorlása és kötelezettségek teljesítése megfelel a jogszabályoknak, továbbá a testületi szervek határozatainak és a társulat alapszabályának.
+
+(3) A közfeladat ellátás állami ellenőrzésére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezései az irányadók.
+
+### A víziközmű társulat megalakulása
+
+40. § (1) A víziközmű társulat alapításához az szükséges, hogy az érdekeltségi területen ingatlantulajdonnal rendelkező természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok (a továbbiakban: tagok) az alakuló taggyűlésen
+
+- a) elhatározzák megalakulását,
+- b) elfogadják alapszabályát,
+- c) megválasszák ügyvezető és ellenőrző szervét.
+
+(2) A víziközmű társulat a cégjegyzékbe való bejegyzéssel, a bejegyzés napjával jön létre.
+
+(3) Az (1) bekezdés a) és b) pontja vonatkozásában a tagok kétharmadának, az (1) bekezdés c) pontja tekintetében a tagok több mint felének szavazata szükséges.
+
+41. § A víziközmű társulat alapszabályában meg kell határozni:
+
+- a) a víziközmű társulat nevét, székhelyét;
+- b) a víziközmű társulat tagjait nevük (cégnevük) és lakóhelyük (székhelyük) feltüntetésével;
+- c) a víziközmű társulat feladatát; tevékenységi körét;
 - d) érdekeltségi területét (helyszínrajzi ábrázolással);
 - e) a tagok jogait és kötelességeit;
-- f) a társulati érdekeltségi egységet, a tagok érdekeltségi hozzájárulásának szabályait;
-- g) a társulat gazdálkodására (üzemi tevékenységére), vezető beosztású dolgozóira, testületi szerveire vonatkozó általános szervezeti és működési szabályokat, valamint a vízitársulat vállalkozási tevékenységének kereteit;
-- h) a társulat képviseletének módját;
-- i) mindazt, amit jogszabály alapján az alapszabály rendez vagy a taggyűlés szükségesnek tart.
+- f) a társulati érdekeltségi egységet, a tagok hozzájárulásával kapcsolatos szabályokat;
+- g) a társulat gazdálkodására (üzemi tevékenységére), vezető beosztású dolgozóira, testületi szerveire vonatkozó általános szervezeti és működési szabályokat;
+- h) a víziközmű társulat képviseletének módját;
+- i) a vezető tisztségviselők nevét, lakóhelyét.
 
-(2) A társulat tagjainak nevét, lakóhelyét, székhelyét az alapszabály mellékletében kell meghatározni, és az alapszabállyal egy időben a cégbírósághoz benyújtani.
+### A víziközmű társulat működése és tevékenysége
 
-(3) A társulat alapítását az alapszabály elfogadásától számított 30 napon belül az intézőbizottságnak cégbejegyzés és közzététel végett be kell jelentenie a cégbíróságnál.
+42. § (1) A közgyűlés évente legalább egyszer ülést tart.
 
-(4) A társulat a cégjegyzékbe történő bejegyzéssel jön létre.
+(2) A közgyűlést az intézőbizottság hívja össze. Ha az intézőbizottság ezt elmulasztja, az összehívásra az ellenőrző bizottság jogosult.
 
-### A társulat működése és tevékenysége
+(3) A tagok legalább 10%-ának kezdeményezésére a közgyűlést össze kell hívni.
 
-38. § (1) A társulat szervei:
+(4) A napirendet tartalmazó írásbeli meghívót a közgyűlés tervezett időpontja előtt legalább 15 nappal ki kell küldeni, és a helyben szokásos módon is közzé kell tenni.
 
-- a) az alapszabály szerint: közgyűlés vagy küldöttgyűlés (a továbbiakban együtt: taggyűlés),
-- b) intézőbizottság,
-- c) ellenőrző bizottság.
+(5) A közgyűlés akkor határozatképes, ha a tagjainak több mint 50%-a jelen van.
 
-(2) A társulat legfőbb szerve a taggyűlés, amely évente legalább egyszer ülést tart.
+(6) Az alapszabály módosításához, a víziközmű társulat megszüntetéséhez, más víziközmű társulattal történő egyesüléséhez, illetve szétválásához a közgyűlés több mint 50%-ának szavazatával meghozott határozatára van szükség.
 
-(3) A taggyűlést az intézőbizottság hívja össze. Ha az intézőbizottság ezt elmulasztja, az összehívásra az ellenőrző bizottság jogosult. A hatóság kezdeményezheti, hogy a cégbíróság a törvényességi felügyelet során eljárva intézkedjen a taggyűlés összehívása érdekében.
+(7) Ha a közgyűlés nem határozatképes, az első üléstől számított 8 napon belüli időpontra összehívott második ülés az eredeti napirenden szereplő ügyekben a megjelentek számára és az érdekeltségi arányra tekintet nélkül határozatképes.
 
-(4) A napirendet tartalmazó írásbeli meghívót a taggyűlés tervezett időpontja előtt legalább 15 nappal ki kell küldeni, és a helyben szokásos módon is közzé kell tenni.
+43. § A víziközmű társulat ellenőrző bizottságára e törvény eltérő rendelkezése hiányában a gazdasági társaságokról szóló törvény rendelkezéseit kell alkalmazni.
 
-(5) A taggyűlés akkor határozatképes, ha azon
+### A víziközmű társulat vagyona
 
-- a) víziközmű-társulat esetén a tagok érdekeltségi egység aránya szerint számított legalább 51%-a személyesen megjelenik, illetve képviselteti magát;
-- b) vízitársulat esetén a tagok (képviselőik) érdekeltségi egység arányában számított több mint kétharmada jelen van, akik egyben az érdekeltségi területnek legalább 51%-át képviselik.
+44. § (1) A víziközmű társulat a tagok hozzájárulásából, valamint az érintett helyi önkormányzat és az állam költségvetési, illetve egyéb támogatásaiból látja el a közcélú feladatait.
 
-(6) A tagokra fizetési kötelezettséget megállapító taggyűlés vagy küldöttgyűlés határozata meghozatalánál a tagok érdekeltségük, minden egyéb ügyben egyenlő arányban szavaznak.
+(2) A hozzájárulás mértékét a közgyűlés állapítja meg. A közgyűlés az alapszabályban meghatározott feltételek szerint a hozzájárulás mértékét mérsékelheti, illetve megfizetését meghatározott időre felfüggesztheti. A hozzájárulást a tagok pénzben kötelesek teljesíteni. A közgyűlés által elfogadott hozzájárulás a közfeladatok teljesítésével nyújtott szolgáltatás ellenértéke.
 
-(7) Az alapszabály módosításához, illetve a társulat megszüntetéséhez, egyesüléséhez, illetve szétválásához legalább kétharmados többségű taggyűlési határozatra van szükség.
+### A víziközmű társulat megszűnése
 
-(8) Ha a taggyűlés nem határozatképes, a 8 napon belüli időpontra összehívott második taggyűlés az eredeti napirenden szereplő ügyekben a megjelentek számára és az érdekeltségi arányra tekintet nélkül határozatképes.
+44/A. § (1) A víziközmű társulat jogutód nélkül megszűnik, ha
 
-39. § (1) A társulat irányító szerve az intézőbizottság, ellenőrző szerve az ellenőrző bizottság. E szerveket a taggyűlés legalább kétharmados többséggel választja meg.
+- a) elhatározza jogutód nélküli megszűnését,
+- b) alapszabályban meghatározott közcélú feladatát megvalósította,
+- c) a cégbíróság a Cégtörvényben foglalt ok miatt megszünteti.
 
-(2) Az intézőbizottság elnökből és legalább két, legfeljebb kilenc tagból áll (a továbbiakban: vezető tisztségviselők). A taggyűlés választja meg az intézőbizottság elnökét, aki egyben a társulat elnöke.
+(2) A víziközmű társulat jogutódlással szűnik meg, ha másik víziközmű társulattá átalakul.
 
-(3) Az ellenőrző bizottság feladata a társulat egész tevékenységére kiterjedő folyamatos ellenőrzés. Az ellenőrző bizottság közvetlenül a taggyűlésnek van alárendelve. Az ellenőrző bizottság elnökből és legalább két tagból áll, az elnököt a taggyűlés választja meg.
+(3) A víziközmű társulat az elkészült víziközművet szolgáltatásra alkalmas állapotban az önkormányzat (önkormányzati társulás) részére átadja.
 
-(4) Az intézőbizottság és az ellenőrző bizottság ügyrendjét a jogszabályok és az alapszabály keretei között maga állapítja meg.
-
-40. § (1) A társulat felett a törvényességi felügyeletet a cégbíróság látja el.
-
-(2) A társulatok közös érdekeik védelmére — az egyesülési jogról szóló törvény szerint — érdekképviseleti szervezetet hozhatnak létre.
-
-### A társulat vagyona
-
-41. § (1) A társulat a tagok érdekeltségi hozzájárulásából (a továbbiakban: hozzájárulás), valamint az érintett helyi önkormányzat és az állam költségvetési, illetve egyéb támogatásaiból, továbbá vízitársulat esetén a vállalkozásból származó eredményéből látja el a közcélú feladatait.
-
-(2) A hozzájárulás adók módjára behajtható köztartozás. A hozzájárulás mértékét a taggyűlés állapítja meg. A taggyűlés az alapszabályban meghatározott feltételek szerint a hozzájárulás mértékét mérsékelheti, illetve megfizetését meghatározott időre felfüggesztheti. A hozzájárulást — ha az alapszabály kivételt nem tesz — a tagok pénzben kötelesek teljesíteni. A vízitársulatok taggyűlése által elfogadott érdekeltségi hozzájárulás a közfeladatok teljesítésével nyújtott szolgáltatás ellenértéke.
-
-(3) A társulat tagja a vele szemben megállapított hozzájárulás felülvizsgálatát a taggyűlési határozat közlésétől számított 30 napon belül a bíróságtól kérheti.
-
-42. § (1) Az állami és a helyi önkormányzati támogatás, valamint a tagok hozzájárulása a társulat tulajdonába kerül, kivéve, ha jogszabály szerint az állami támogatással az önkormányzat számol el, illetőleg az alapszabály a természetbeni hozzájárulás tekintetében eltérően rendelkezik.
-
-(2) A vízitársulat közfeladata ellátásához szükséges elkülönített vagyona és a vállalkozásaiból származó nyeresége a tagok között nem osztható fel.
-
-(3) A vízitársulat a közfeladatok ellátásához szükséges elkülönített vagyonával gazdasági társaságot, alapítványt nem hozhat létre, gazdasági társaságban érdekeltséget nem szerezhet, alapítvány részére pénzbeli vagy egyéb hozzájárulást nem teljesíthet. A közfeladat ellátásához szükséges elkülönített vagyon: a számvitelről szóló 1991. évi XVIII. törvény 1. számú melléklete szerinti, a tárgyévet megelőző év mérlegében kimutatott jegyzett tőke, valamint a közfeladatok ellátásához a tárgyévben juttatott pénzeszköz, továbbá a jegyzett tőkén felüli saját tőkéből a jegyzett tőke összegének 8%-a.
-
-(4) A vízitársulat tartozásaiért saját vagyonával felel. A tagok a társulat tartozásaiért nem felelnek.
-
-(5) A vízitársulat a vállalkozási tevékenységből származó eredményét elsősorban közfeladatai ellátására köteles fordítani.
-
-43. § (1) A társulat tagja a társulat szervei által a tagsági jogviszonyával kapcsolatban hozott — jogszabályba vagy alapszabályba ütköző — határozat felülvizsgálatát bíróságtól kérheti.
-
-(2) A jogsértő határozat felülvizsgálatára irányuló keresetet a határozat kézbesítésétől számított 30 napon belül kell benyújtani. A keresetindításra megállapított határidő elmulasztása jogvesztő. A kereset benyújtásának halasztó hatálya nincs, a határozat végrehajtását azonban a bíróság felfüggesztheti.
-
-### A társulat megszűnése
-
-44. § (1) A társulat megszűnik, ha
-
-- a) elhatározza a jogutód nélküli megszűnését (feloszlását);
-- b) másik társulattal egyesül vagy több társulatra szétválik;
-- c) a víziközmű-társulat az alapszabályában meghatározott közcélú feladatát megvalósította;
-- d) a vízitársulatot a bíróság felszámolási eljárás során megszünteti;
-- e) a cégbíróság megszűntnek nyilvánítja;
-- f) a cégbíróság hivatalból elrendeli a törlését.
-
-(2) A társulat más gazdálkodó szervezetté nem alakulhat át.
-
-(3) A társulat megszűnése esetén végelszámolásra kerül sor.
-
-(4) A társulatok jogutód nélküli megszűnése esetén a közfeladat ellátásához szükséges vagyon — a helyi vízgazdálkodási közfeladatot egyébként ellátni köteles — önkormányzatra vagy az államra száll.
-
-(5) Ha a társulat megszűnését követően a közfeladatot az állam látja el, az ehhez szükséges vagyont a vízügyi igazgatás területi szerve, illetőleg a vizek és vízilétesítmények kezelésére létrehozott kizárólagos vagy többségi állami tulajdonú gazdálkodó szervezetek veszik át a mezőgazdasági vízgazdálkodási célokat szolgáló vagyon kivételével, amelynek átvételéről a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatait ellátó miniszter gondoskodik.
+(4) Amennyiben a víziközmű beruházás részenként üzembe helyezhető, a víziközmű társulat a beruházás eredményeként megvalósult víziközművet részenként is átadhatja.
 
 ### X. Fejezet — Záró rendelkezések
 
@@ -723,9 +710,7 @@ E törvény alkalmazásában
 - 4. elhabolás: víz (folyó, patak, csatorna, tározó, tó) hullámzó mozgásának hatására a partban keletkezett rongálódás;
 - 5. elsőrendű árvízvédelmi vízilétesítmény: a vízfolyások mentén lévő vagy létesülő – a miniszter által – fővédelmi művé nyilvánított, három vagy több település árvízvédelmét szolgáló (térségi) árvízvédelmi létesítmény (így például töltés, fal, magaspart, árvízi tározó, árapasztó csatorna), továbbá a folyó nyílt árterében fekvő település árvízmentesítését szolgáló körtöltés;
 - 6. érdekelt: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, aki/amely az érdekeltségi területen ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
-- 7. érdekeltségi terület:
-  - a) víziközmű-társulat esetén azok a területek, amelyeken az általuk megvalósított vízilétesítmények szolgáltatása (vízellátás, szennyvízelvezetés, belterületi csapadék- vagy talajvízelvezetés) igénybe vehető;
-  - b) vízitársulat esetén azt a területet, amelyről a vizek természetes úton a befogadóba (mások tulajdonában lévő vízfolyásokba, tavakba, vízilétesítményekbe) jutnak, illetve elvezethetők — ide nem értve az e törvény 2. és 3. számú melléklete szerinti vizekkel, vízilétesítményekkel való közvetlen kapcsolatot — és amely területek felszín alatti vagy felszíni vizeire a társulati közcélú vízimunkák, megépített vízilétesítmények hatást gyakorolnak;
+- 7. érdekeltségi terület: víziközmű-társulat esetén azok a területek, amelyeken az általuk megvalósított vízilétesítmények szolgáltatása (vízellátás, szennyvízelvezetés, belterületi csapadék- vagy talajvízelvezetés) igénybe vehető;
 - 8. gyógyvíz: olyan ásványvíz, amelynek bizonyítottan gyógyhatása van és gyógyászati felhasználásának engedélyezése külön jogszabályok szerint történik;
 - 9. ivóvíz: a rendszeres emberi fogyasztásra alkalmas a fizikai, a kémiai, a bakteriológiai, a toxikológiai és a radiológiai határértékeknek megfelelő víz;
 - 10. közérdek mértéke: a közfeladatoknak a külön jogszabályban meghatározott személyi és tárgyi feltételekre is figyelemmel megállapított színvonalon történő ellátása;

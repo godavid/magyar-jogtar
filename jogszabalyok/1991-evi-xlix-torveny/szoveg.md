@@ -42,7 +42,7 @@ Az Országgyűlés a fizetésképtelenséggel fenyegető helyzetben lévő vagy 
 (3) Nem tartozik a (2) bekezdés hatálya alá:
 
 - a) az a vagyon, amelyet az adós állami vagyonkezelő szervezettel kötött szerződés alapján kezel;
-- b) az állami tulajdonban álló erdő, továbbá jogszabályban meghatározott természetvédelmi oltalom alatt álló földterület (nemzeti park, fokozottan védett terület, nemzetközi egyezmény hatálya alá tartozó terület), külön jogszabályban meghatározott állami tulajdonban lévő műemlék, továbbá a vízgazdálkodási társulatok kezelésében lévő vizek, vízilétesítmények és a vízitársulatoknak a közfeladatok ellátásához szükséges elkülönített vagyona;
+- b) az állami tulajdonban álló erdő, továbbá jogszabályban meghatározott természetvédelmi oltalom alatt álló földterület (nemzeti park, fokozottan védett terület, nemzetközi egyezmény hatálya alá tartozó terület), külön jogszabályban meghatározott állami tulajdonban lévő műemlék, továbbá a vízitársulatok tulajdonában, vagyonkezelésében, használatában lévő vizek, vízilétesítmények és a vízitársulatoknak a közfeladatok ellátásához szükséges elkülönített vagyona;
 - c) a kárpótlás céljára elkülönített termőföld és a külön törvényben meghatározott földalap és a kárpótlási árverésre kijelöléssel nem érintett, illetve a kárpótlási árverésből visszamaradt földterület;
 - d) a gazdálkodó szervezet vagyonából az az ingatlan, amely — a volt egyházi ingatlanok tulajdoni helyzetének rendezéséről szóló 1991. évi XXXII. törvény 7. § (1) bekezdésében foglaltak alapján — a Kormány által jóváhagyott jegyzékben szerepel;
 - e) a 38. § (6) bekezdése szerinti esetben a jogosult követelésének kielégítésére szolgáló összeg;
