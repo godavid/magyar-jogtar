@@ -798,9 +798,11 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - l) nyilatkozatot arra vonatkozóan, hogy a szolgáltatási tevékenységét mikor kívánja megkezdeni,
 - m) nyilatkozatot arról, hogy a jogszabályban meghatározott, illetőleg jogszabályon alapuló adatszolgáltatások teljesítésére felkészült.
 
-(2) A hitelintézetnek nem kell igazolnia a szolgáltatás engedélyezése iránti eljárásban az (1) bekezdés a)–f) és h)–i) pontjában említett feltételek meglétét.
+(2) Az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban.
 
-(3) Ha külföldi vállalkozás fióktelepe útján kíván az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatást végezni, az (1) bekezdés d)–m) pontjában foglaltakon túlmenően az engedélyezés iránti kérelemhez mellékelni kell:
+(3) A hitelintézetnek nem kell igazolnia a szolgáltatás engedélyezése iránti eljárásban az (1) bekezdés a)–f) és h)–i) pontjában említett feltételek meglétét.
+
+(4) Ha külföldi vállalkozás fióktelepe útján kíván az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatást végezni, az (1) bekezdés d)–m) pontjában foglaltakon túlmenően az engedélyezés iránti kérelemhez mellékelni kell:
 
 - a) a külföldi vállalkozás alapító okiratát;
 - b) a külföldi vállalkozás három hónapnál nem régebbi eredeti cégkivonatát vagy igazolást arról, hogy a külföldi vállalkozást a vállalati (gazdasági) nyilvántartásba bejegyezték;
@@ -814,7 +816,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - j) a fióktelep vezető állású személyének döntési jogkörét, valamint a kérelmező azon testületeit, amelyek hozzájárulása nélkül bizonyos döntések nem érvényesek;
 - k) a székhely szerinti felügyeleti hatóság nyilatkozatát arról, hogy a nem magyar állampolgárságú vezető állású személlyel szemben nem állnak fenn kizáró okok e munkakör betöltésével, illetőleg ellátásával kapcsolatban.
 
-(4) A szolgáltatásnak fióktelep által történő folytatásához a Magyar Nemzeti Bank az engedélyt abban az esetben adja meg – az (1) bekezdés d)–m) pontjában és a (3) bekezdésben meghatározott feltételek teljesülése mellett –, ha
+(5) A szolgáltatásnak fióktelep által történő folytatásához a Magyar Nemzeti Bank az engedélyt abban az esetben adja meg – az (1) bekezdés d)–m) pontjában és a (3) bekezdésben meghatározott feltételek teljesülése mellett –, ha
 
 - a) – külföldi pénzügyi intézmény kérelmező esetén – érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelepek felügyeletére is kiterjedő nemzetközi együttműködési megállapodás van a Felügyelet és a kérelmező külföldi vállalkozás székhelye szerinti felügyeleti hatóság között;
 - b) a kérelmező külföldi vállalkozás székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás és a terrorizmus finanszírozása elleni jogszabályi előírásokkal;
@@ -823,9 +825,9 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - e) a kérelmező külföldi vállalkozás benyújtja a székhelye szerinti felügyeleti hatóság fióktelep létesítésre vonatkozó engedélyét, illetőleg hozzájáruló nyilatkozatát vagy tudomásulvételét;
 - f) külföldi pénzügyi intézmény kérelmező esetén a kérelmező székhelye szerinti állam jogszabályai biztosítják a pénzügyi intézmények prudens, biztonságos működését.
 
-(5) Már működő fióktelep esetén az engedélyezés iránti kérelemhez – a (3) bekezdésben felsoroltak helyett, ha azokat a Felügyelet vagy az MNB előtt korábban folyt engedélyezési eljárásban már bemutatták – a külföldi vállalkozás alapító okiratát és a fióktelep bejegyzéséről szóló cégbírósági végzést, ennek hiányában a bejegyzés iránti kérelmet, annak igazolásával együtt, hogy a bejegyzés iránti kérelmet a cégbíróság átvette, bejegyzett fióktelep esetében három hónapnál nem régebbi cégkivonatot kell becsatolni. Az MNB a kérelmezőt bármikor felhívhatja a (3) bekezdésben meghatározott feltételek igazolására.
+(6) Már működő fióktelep esetén az engedélyezés iránti kérelemhez – a (3) bekezdésben felsoroltak helyett, ha azokat a Felügyelet vagy az MNB előtt korábban folyt engedélyezési eljárásban már bemutatták – a külföldi vállalkozás alapító okiratát és a fióktelep bejegyzéséről szóló cégbírósági végzést, ennek hiányában a bejegyzés iránti kérelmet, annak igazolásával együtt, hogy a bejegyzés iránti kérelmet a cégbíróság átvette, bejegyzett fióktelep esetében három hónapnál nem régebbi cégkivonatot kell becsatolni. Az MNB a kérelmezőt bármikor felhívhatja a (3) bekezdésben meghatározott feltételek igazolására.
 
-(6) Ha a kérelmező az (1) bekezdés c) pontjában, illetve a (3) bekezdés d) pontjában meghatározott, valamely magyarországi köztartozására vonatkozó adatot nem igazolja, az MNB megkeresi a köztartozásról nyilvántartást vezető szervet. A nyilvántartást vezető szerv a lejárt, meg nem fizetett köztartozás fennállásáról vagy annak hiányáról tájékoztatja az MNB-t.
+(7) Ha a kérelmező az (1) bekezdés c) pontjában, illetve a (3) bekezdés d) pontjában meghatározott, valamely magyarországi köztartozására vonatkozó adatot nem igazolja, az MNB megkeresi a köztartozásról nyilvántartást vezető szervet. A nyilvántartást vezető szerv a lejárt, meg nem fizetett köztartozás fennállásáról vagy annak hiányáról tájékoztatja az MNB-t.
 
 19/B. § A pénzfeldolgozási tevékenység engedélyezése iránti kérelemhez – a 19/A. § (1) bekezdésében felsoroltakon kívül – mellékelni kell:
 

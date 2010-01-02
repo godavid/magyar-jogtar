@@ -307,6 +307,8 @@ feladatok ellátásáért.
 
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfélre vonatkozó – a gazdálkodással, a termőföld-hasznosítással, az állattartással, az erdőgazdálkodással, a mezőgazdasági termékek tárolásával, feldolgozásával, valamint az egyéb mezőgazdasági tevékenységgel, halászattal kapcsolatos – támogatási adatokat egyedi azonosításra alkalmatlan módon, illetve a támogatások összegével, felhasználásával kapcsolatos adatokat összesített adatként statisztikai célú felhasználásra térítésmentesen adja át a Központi Statisztikai Hivatalnak. Az adatátadási kötelezettség írásbeli megkeresés alapján és csak a Központi Statisztikai Hivatal jogszabályban rögzített feladatainak ellátásához szükséges mértékig teljesíthető.
 
+(5) A mezőgazdasági és vidékfejlesztési támogatási szerv nyilvántartási rendszeréből a vízitársulatok által törvény szerint kezelt adatokat a vízitársulat megkeresésére díjmentesen évente egy alkalommal átadja a vízitársulatnak.
+
 ### A támogatási adatok védelmére vonatkozókülön rendelkezések
 
 24. § (1) Nem nyilvános támogatási adat a mezőgazdasági és vidékfejlesztési támogatási szerv eljárásában készített vagy rögzített, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény 19/A. §-a szerinti adat.
