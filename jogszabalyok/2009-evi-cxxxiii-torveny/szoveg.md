@@ -135,8 +135,6 @@ a megfelelőségértékelő szervezetek tevékenységéről
 
 (4)
 
-15. § (1) A 12. § és az azt megelőző alcím, továbbá a 14. § (4) bekezdése 2010. január 2-án hatályát veszti.
-
-(2) Ez a § 2010. január 3-án hatályát veszti.
+15. §
 
 16. § Ez a törvény a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló, 2008. július 9-i 768/2008/EK európai parlamenti és tanácsi határozat I. melléklet R17. cikkének (2)–(5), (8) és (9) bekezdéseivel, R21. cikkének (1) és (2) bekezdéseivel, R22. cikkével, R23. cikkének (4) és (5) bekezdéseivel összhangban álló szabályozást tartalmaz.
