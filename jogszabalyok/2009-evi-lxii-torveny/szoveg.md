@@ -707,7 +707,7 @@ késedelem nélkül megkapja.
 
 61. § (1) E törvény 22. §-ában meghatározott rendelkezéseket azon fedezetlenségi díj megfizetésére kell alkalmazni, ahol a fedezetlenség időtartama e törvény hatálybalépését követően kezdődik.
 
-(2) A Kártalanítási Számla kezelője a fedezetlenségi díj 2010. évre vonatkozó – gépjármű-kategóriánként megállapított – tarifáját a hatálybalépést követő 5 napon belül köteles közzétenni.
+(2)
 
 (3) A Kártalanítási Alap térítési kötelezettsége az e törvény hatálybalépését követően felszámolás alá kerülő biztosító esetében áll fenn.
 
