@@ -820,7 +820,7 @@ esetében.
 - b) az 52. § (2) bekezdésében megjelölt eljárás, ha az eljárást a személyes meghallgatás megkezdése előtt a bíróság megszünteti, illetve ha az eljárás megszüntetésére kegyelem folytán kerül sor;
 - c) az 54. § (2) bekezdésében említett kérelem, ha azt az elítélt vagy a védő nyújtotta be;
 - d) a személyes költségmentesség engedélyezése iránti eljárás;
-- e) a terhelt, a védő és a fiatalkorú terhelt törvényes képviselője részére a büntetőeljárásról szóló 1998. évi XIX. törvény 70/B. §-a (2) bekezdésében, (5) bekezdésének a) pontjában és (6) bekezdésében meghatározott iratokból a másolat egyszeri kiadása;
+- e) a terhelt, a védő és a fiatalkorú terhelt törvényes képviselője részére a büntetőeljárásról szóló 1998. évi XIX. törvény 70/B. §-a (2) bekezdésében, (5) bekezdésének a) pontjában, (6) bekezdésében, valamint (10) bekezdésében meghatározott iratokból a másolat egyszeri kiadása;
 - f) a feljelentő részére a feljelentésről készített jegyzőkönyv másolata.
 
 ### Mérsékelt illeték
