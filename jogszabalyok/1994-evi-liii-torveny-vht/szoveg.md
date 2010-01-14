@@ -1887,6 +1887,12 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 181. § A lakás és más — nem lakás céljára szolgáló — helyiség (a továbbiakban: lakás) kiürítésére, átadására vagy használatára irányuló, illetőleg a felmondás érvényességét megállapító bírósági határozatban, a bíróság által jóváhagyott egyezségben vagy bírósági végrehajtási záradékkal ellátott okiratban megállapított kötelezettség végrehajtására a 172—177. §-ban foglalt rendelkezéseken felül a 182. §-ban foglalt rendelkezéseket is alkalmazni kell.
 
+181/A. § (1) Jogi személy végrehajtást kérő által lakás kiürítése iránt kezdeményezett végrehajtási eljárásban a 147. § (3) és (4) bekezdés szerinti lakóingatlanának elhagyására köteles természetes személy kötelezett kérelmére a végrehajtó a lakóingatlan önkéntes kiürítésére – a végrehajtható okiratban – megállapított határidőt 90 nappal meghosszabbítja, ha a kötelezettel szemben korábban rendbírságot nem szabtak ki.
+
+(2) Az (1) bekezdés szerinti kérelmet a kötelezett a végrehajtható okirat kézhezvételét követő 15 napon belül terjesztheti elő.
+
+(3) A határidő meghosszabbításáról szóló jegyzőkönyvet a végrehajtó a feleknek kézbesíti.
+
 182. § (1) Ha a kötelezett vagy képviselője nincs jelen a végrehajtás foganatosításánál, a kiürítendő lakásban lévő ingóságokat a végrehajtó összeírja. Az ingóságoknak másik lakásban vagy másik helyiségben való elhelyezése után a lista egy példányát itt is el kell helyezni. Ha az ingóságok elhelyezése olyan lakásban történt, amelyet kizárólag a kötelezett vagy családtagjai használnak, a végrehajtás foganatosítása után a lakást le kell zárni és le kell pecsételni.
 
 (2) Ha a másik lakásban a kötelezett ingóságait vagy egy részüket nem lehetett elhelyezni, raktárban vagy más alkalmas helyiségben való elhelyezésükről – a kötelezett költségére és veszélyére – a végrehajtást kérő gondoskodik. A végrehajtást kérő az ingóságokat 30 napig köteles tárolni.
