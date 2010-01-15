@@ -60,11 +60,13 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 
 (2) A megkötve tartott vagy mozgásában egyéb módon korlátozott állat számára is biztosítani kell a zavartalan pihenés és a sérülésmentes mozgás lehetőségét.
 
-(3) A szabadban tartott állatot – különleges igényeit is figyelembe véve – védeni kell az időjárás káros hatásaitól és természetes ellenségeitől. Az állandóan zárt körülmények között tartott állat számára az állattartó köteles az állat szükségleteihez igazodó, megfelelő mozgásteret biztosítani.
+(3) A szabadban tartott állatok számára – azok természetes viselkedését is figyelembe véve – biztosítani kell olyan területet, illetve létesítményt, ahol azok veszély esetén, valamint az időjárás káros hatásaival és az egészségre ártalmas hatásokkal szemben védelmet találnak.
 
-(4) A kedvtelésből tartott állat ürülékét az állattartó a közterületről köteles eltávolítani.
+(4) Az állandóan zárt körülmények között tartott állat számára az állattartó köteles az állat szükségleteihez igazodó, megfelelő mozgásteret biztosítani.
 
 (5) A gazdasági haszon céljából tartott állat tartása során előnyben kell részesíteni az állatkímélő technológiákat.
+
+(6) A kedvtelésből tartott állat ürülékét az állattartó a közterületről köteles eltávolítani.
 
 ### Az állat kímélete, az állatkínzás tilalma
 
@@ -234,7 +236,7 @@ elrendeli az állatvédelmi hatóság.
 
 (4) A jogerős határozattal elrendelt ivartalanítás, tartós egyedi azonosítás, továbbá a lefoglalás, az elkobzás és az eb élete kioltásának költségei az eb tulajdonosát terhelik.
 
-### Az ország őshonos növény-, illetve állatvilágára ökológiai szempontból veszélyes állatok tartásának tilalma
+### Az ország őshonos növény-, illetve állatvilágára ökológiai szempontból veszélyes állatokkal kapcsolatos tilalmak
 
 24/F. § Az ország őshonos növény-, illetve állatvilágára ökológiai szempontból veszélyes, külön jogszabályban meghatározott állatok kedvtelésből való tartása, szaporítása és forgalomba hozatala tilos. A tilalom megszegésével tartott állatot az állatvédelmi hatóság elkobozza, majd gondoskodik az állat tulajdonjogának átruházásáról, ha ezt jogszabály kizárja vagy az eredménytelen, az állat végleges elhelyezéséről. Ha az állat végleges elhelyezése csak rendszeres költségráfordítással biztosítható, a korábbi tulajdonos a jogsértés súlyától, ismétlődésétől függően legfeljebb 12 hónapra jutó költség fizetésére kötelezhető. Az elhelyezés eredménytelensége esetén az állat életét megengedett módon ki lehet oltani.
 
@@ -258,7 +260,7 @@ elrendeli az állatvédelmi hatóság.
 
 teszi szükségessé.
 
-(5) Az engedélyezés során – a kérelmező által benyújtott dokumentáció, továbbá az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) által felkért szakértői testület véleménye alapján – különösen figyelembe kell venni:
+(5) Az engedélyezés során – a kérelmező által benyújtott dokumentáció, továbbá az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) által létrehozott állatvédelmi tanácsadó szakértői testület (a továbbiakban: szakértői testület) véleménye alapján – különösen figyelembe kell venni:
 
 - a) az állatkísérlet elvégzésének indokoltságát és tudományos megalapozottságát,
 - b) az alkalmazott korszerű módszertan indokoltságát és tudományos megalapozottságát az állatlétszám, illetve a fájdalom, szenvedés, tartós nélkülözés és maradandó károsodás lehető legkisebb mértékűre csökkentésének követelménye szempontjából,
@@ -321,6 +323,12 @@ teszi szükségessé.
 - a) az állatkísérlet engedélyezését,
 - b) az állatkísérlet végzésére jogosultak nyilvántartását.
 
+(4) Állatkísérlet engedélyezése iránti kérelem elbírálása során a szakértői testület munkájában nem vehet részt az,
+
+- a) akinek a kérelmére indult az eljárás;
+- b) akinek a kísérlet engedélyezéséhez érdeke fűződik;
+- c) aki az a) és b) pontban szereplő személlyel olyan viszonyban áll, amely a testületben való feladata ellátásához szükséges elfogulatlanságát veszélyezteti.
+
 33. § Az állatkísérlet végzésére feljogosított és nyilvántartott intézményben munkahelyi állatkísérleti bizottságot (a továbbiakban: MÁB) kell létrehozni, és működtetni. A MÁB tagjait az intézmény vezetője nevezi ki. A MÁB ügyrendjét maga állapítja meg.
 
 34. § (1) A MÁB feladata az intézmény
@@ -330,6 +338,8 @@ teszi szükségessé.
 - c) állatkísérleteinek szakmai-etikai felügyelete. A MÁB feladata továbbá az intézményben az állatkísérlet végzésére jogosult személyek oktatásának, képzésének szervezése.
 
 (2) A MÁB az intézmény belső állatkísérleti szabályozásának megsértése esetén jogosult – az élelmiszerlánc-felügyeleti szerv egyidejű értesítése mellett – a kísérlet azonnali leállítására.
+
+(3) A MÁB-nak – az (1) bekezdés b)–c) pontja alapján – az adott kísérlet ellenőrzését, illetve felügyeletét végző tagja a kísérlet végzésében nem vehet részt.
 
 35. § (1) Az e fejezetben foglalt előírásokat kizárólag a gerinces állatokon végzett kísérletekre kell alkalmazni.
 
@@ -388,15 +398,15 @@ teszi szükségessé.
 - b) a rendszeres állatorvosi ellátás biztosított;
 - c) az állatotthon működtetése nem sérti a köznyugalmat;
 - d) az állatotthon vezetője vagy a (3) bekezdés szerinti működési szabályzatban megjelölt felelős személy szakirányú végzettséggel rendelkezik;
-- e) a tartós működtetéshez szükséges vagyoni fedezet biztosított.
+- e)
 
 (3) Az állatotthon létesítése iránti kérelemhez – a külön jogszabályban meghatározottakon túlmenően – mellékelni kell az állatotthon működési szabályzatát.
 
-(4)
+(4) A (2) bekezdésben foglaltakon túl az állatmenhely akkor létesíthető és tartható fenn, ha biztosított annak tartós működtetéshez szükséges vagyoni fedezet.
 
 (5) Az állatotthonok létesítésére vonatkozó részletes szabályokat külön jogszabály állapítja meg.
 
-### VIII. Fejezet — Az állatvédelmi feladatok pénzügyi fedezete
+### VIII. Fejezet — AZ ÁLLATVÉDELMI FELADATOK PÉNZÜGYI FEDEZETE, AZ ÁLLATVÉDELMI BÍRSÁG
 
 42. § (1) Az e törvény szerinti állami feladatok ellátásának, valamint az önkormányzati feladatok támogatásának állami pénzügyi forrásai:
 
@@ -405,8 +415,6 @@ teszi szükségessé.
 - c) az állatvédelmi bírság.
 
 (2) Az állatok védelmével kapcsolatos feladatok ellátásához állatvédelmi hozzájárulást kell fizetni. Az állatvédelmi hozzájárulásra kötelezett termékek körét, a hozzájárulás mértékét, valamint fizetésének és felhasználásának szabályait külön törvény állapítja meg.
-
-### IX. Fejezet — Állatvédelmi bírság
 
 43. § (1) Aki tevékenységével vagy mulasztásával az állatok védelmére, kíméletére vonatkozó jogszabály vagy hatósági határozat előírását megsérti, magatartásának súlyához, ismétlődéséhez igazodó mértékű állatvédelmi bírságot köteles fizetni. Állatvédelmi bírság kiszabása helyett, illetve azzal egyidejűleg az állattartót a hiányosságok kijavítására, illetve pótlására kell kötelezni.
 
@@ -417,6 +425,19 @@ teszi szükségessé.
 (4) A bírság megfizetése nem mentesít más jogkövetkezmények alól.
 
 (5) Az állatvédelmi bírság mértékét, megállapításának módját, a kiszabására és felhasználására vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+
+### IX. Fejezet — AZ ÁLLATVÉDELMI OKTATÁS
+
+43/A. § (1) Az állatokkal szembeni megfelelő magatartásra, gondoskodásra nevelést, az állatok megismertetését az iskolai általános képzésbe, a szakképzésbe és az ismeretterjesztésbe be kell építeni.
+
+(2) Az (1) bekezdésben meghatározott feladatok végrehajtását az állami és önkormányzati szervek, valamint az oktatási intézmények kötelesek előmozdítani.
+
+(3) Az állam az állatokkal szembeni megfelelő magatartásra neveléssel összefüggő feladata ellátásáért való felelőssége körében, a szükséges ismeretek széles körű terjesztésével, tájékoztatások, képzések, oktatás biztosításával járul hozzá az állatok jóllétét figyelembe vevő szemlélet kialakításához.
+
+43/B. § Az állatvédelmi hatóság
+
+- a) szakmailag felügyeli az állatok tartása során alkalmazandó állatvédelmi előírásokra vonatkozó iskolarendszeren kívüli hatósági jellegű képzést és vizsgáztatást,
+- b) részt vesz a képzés tartalmi követelményeinek kidolgozásában és a képzés szervezésében.
 
 ### X. Fejezet — Az ügyész szerepe az állatvédelemben
 
@@ -440,9 +461,7 @@ teszi szükségessé.
 
 45/C. § Az e törvény alapján elkobzott állat tulajdonjoga törvény eltérő rendelkezése hiányában az államra száll.
 
-46. § (1) Az állatokkal szembeni megfelelő magatartásra, gondoskodásra nevelést, az állatok megismertetését az iskolai általános képzésbe, a szakképzésbe és az ismeretterjesztésbe be kell építeni.
-
-(2) Az (1) bekezdésben meghatározott feladatok végrehajtását az állami és önkormányzati szervek, valamint az oktatási intézmények kötelesek előmozdítani.
+46. §
 
 47. § A miniszter az állatvédelmi hatósági feladatok ellátásának elősegítésére, valamint a társadalmi részvétel biztosítása érdekében szakértői testületet hoz létre. A testületben biztosítja az érintett szakmai szervezetek és a bejegyzett országos állatvédő társadalmi szervezetek részvételét.
 
@@ -460,7 +479,7 @@ teszi szükségessé.
 
 (4) Ha a kóbor állat tulajdonosa ismertté válik, a tulajdonos köteles az állatot visszavenni, valamint a befogásával és elhelyezésével kapcsolatos költségeket megtéríteni. Ha a tulajdonos az állatot nem veszi vissza, vagy az állat egészségét súlyosan veszélyeztető tartási körülmények miatt az állat a tulajdonos részére nem adható ki, az állatvédelmi hatóság – az addig felmerült költségek megtérítésére való kötelezés mellett – az állatot elkobozza, ezt követően gondoskodik az állat tulajdonjogának átruházásáról, ha ezt jogszabály kizárja vagy az eredménytelen, az állat végleges elhelyezéséről. Ha az állat végleges elhelyezése csak rendszeres költségráfordítással biztosítható, a korábbi tulajdonos a jogsértés súlyától, ismétlődésétől függően legfeljebb 12 hónapra jutó költség fizetésére kötelezhető. Az elhelyezés eredménytelensége esetén – a külön jogszabályban meghatározott időtartam elteltével – az állat életét megengedett módon ki lehet oltani.
 
-48/B. § A 24/F. §-ban foglalt tartási tilalom nem vonatkozik a külön jogszabályban foglaltak szerint – az állatvédelmi hatóságnak – bejelentett emlősökre. A bejelentésben meg kell jelölni az állat tulajdonosának vagy az állat tartójának nevét, címét, valamint az állat azonosítását szolgáló adatokat és az állat tartási helyének adatait. A bejelentett adatokról az állatvédelmi hatóság nyilvántartást vezet.
+48/B. § A 24/F. §-ban foglalt tartási tilalom nem vonatkozik a külön jogszabályban foglaltak szerint – az állatvédelmi hatóságnak – bejelentett állatokra. A bejelentésben meg kell jelölni az állat tulajdonosának vagy az állat tartójának nevét, címét, valamint az állat azonosítását szolgáló adatokat és az állat tartási helyének adatait. A bejelentett adatokról az állatvédelmi hatóság nyilvántartást vezet.
 
 49. § (1) Ez a törvény 1999. január 1-jén lép hatályba.
 
@@ -485,7 +504,8 @@ rendeletben állapítsa meg.
 - c) a miniszter, hogy a rendészetért felelős miniszterrel egyetértésben az állatok elkábítására szolgáló eszközök, lövedékek körét, az állatok elkábításának részletes szabályait,
 - d)
 - e) a miniszter, hogy a természetvédelemért felelős miniszterrel egyetértésben a kísérleti célú állattenyésztés, -tartás tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket
-- f)
+- f) a miniszter, hogy az állatok tartása során alkalmazandó állatvédelmi előírásokra vonatkozó iskolarendszeren kívüli hatósági jellegű képzések és vizsgáztatás részletes szabályait,
+- g) a miniszter, hogy az Európai Gazdasági Térség más szerződő államaiban megszerzett, az állatok tartása során alkalmazandó állatvédelmi előírásokra vonatkozó képesítést igazoló bizonyítványok elismerésének feltételeit és rendjét
 
 rendeletben állapítsa meg.
 
