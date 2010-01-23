@@ -81,7 +81,7 @@ a következőkre javítandó:
 
 (2) E törvény végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter gondoskodik.
 
-(3) A Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodás (ADN) kihirdetéséről szóló 2009. évi III. törvény 3. § (3) bekezdése, 4. §-a és Melléklete hatályát veszti. E bekezdés az e törvény hatálybalépését követő napon hatályát veszti.
+(3)
 
 10. § Ez a törvény a veszélyes áruk szárazföldi szállításáról szóló, 2008. szeptember 24-i 2008/68/EK európai parlamenti és tanácsi irányelvnek való megfelelést is szolgálja.
 
