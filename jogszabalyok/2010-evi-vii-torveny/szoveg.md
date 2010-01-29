@@ -16,7 +16,9 @@ egyes energetikai tárgyú törvények módosításáról
 
 „74. Külön kezelt intézmény: központi költségvetési szerv, központi költségvetési szerv költségvetési intézménye, helyi önkormányzat, helyi önkormányzat költségvetési intézménye, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézmény.”
 
-8–23. §
+8–21. §
+
+22–23. §
 
 24. § (1) A VET. 170. § (1) bekezdésének 17. pontja helyébe a következő rendelkezés lép:
 
@@ -68,7 +70,9 @@ c) a szavazási megállapodás vagy más összehangolt magatartás.”
 
 (3)
 
-30–47. §
+30–45. §
+
+46–47. §
 
 48. § (1) A GET. 132. § 6. pontja helyébe a következő rendelkezés lép:
 
@@ -98,15 +102,15 @@ c) a szavazási megállapodás vagy más összehangolt magatartás.”
 
 (2) E törvény 1–6. §-a, és 52. §-a 2010. július 1-jén lép hatályba, és a hatálybalépését követő napon hatályát veszti.
 
-(3)
+(3) E törvény 22–23. §-a és 46–47. §-a 2010. október 1-jén lép hatályba.
 
-(4)
+(4) E törvény 7. § (1) bekezdése, 8–21. §-a, 26. §-ának (2) bekezdése, 27–28. §-a, 29. §-ának (1) és (3) bekezdése, 30–45. §-a, 49. §-ának (2) bekezdése, 50. §-a, valamint 53–54. §-a 2011. március 3-án lép hatályba.
 
 (5) E törvény 56. §-a 2011. március 3-án hatályát veszti.
 
-(6)
+(6) E törvény 7. § (1) bekezdése, 8–21. §-a, 26. §-ának (2) bekezdése, 27–28. §-a, 29. §-ának (1) és (3) bekezdése, 30–45. §-a, 49. §-ának (2) bekezdése, 50. §-a, valamint 53–54. §-a 2011. március 4-én hatályát veszti.
 
-(7) Az e törvény 56. §-ában foglalt rendelkezések nem érintik a hatálybalépésüket megelőzően szerzett részesedéseket.
+(7) Az e törvény 15. §-ával megállapított VET. 93. § (5) bekezdésében, az e törvény 43. §-ával megállapított GET. 123. § (4) bekezdésében, valamint az e törvény 56. §-ában foglalt rendelkezések nem érintik a hatálybalépésüket megelőzően szerzett részesedéseket.
 
 (8) Az e törvény hatálybalépését megelőzően a VET. 171. § (5), illetve (6) bekezdése alapján a Magyar Energia Hivatalhoz beadott és el nem bírált kérelmekre az e törvény 25. §-ával megállapított VET. 171. § (5), illetve (6) bekezdésének rendelkezéseit megfelelően alkalmazni kell. Az e törvény hatálybalépését megelőzően a VET. 171. § (5), illetve (6) bekezdése alapján a Magyar Energia Hivatal által hozott határozatokat az e törvény rendelkezései alapján szükséges módon a Magyar Energia Hivatal – kérelemre – 2010. március 31-ig módosítja.
 
@@ -121,6 +125,25 @@ c) a szavazási megállapodás vagy más összehangolt magatartás.”
 - c) az általa az elszámolási időszakban értékesített, a Kt. 3. §-ának (2) bekezdésében megjelölt kőolajtermékek árában foglalt,
 - d) az általa a Kt. 4. §-a (1) bekezdése a)–d) pontjainak, illetve (2)–(3) bekezdésének az e törvény hatálybalépésének napját megelőző napon hatályos szövegében meghatározott célra az elszámolási időszakban értékesített kőolajtermékre tekintettel visszaigényelt tagi hozzájárulás egyenlegét. Az így meghatározott egyenleg (e bekezdés alkalmazásában egyenleg) az e törvény hatálybalépését követő 90. napot magába foglaló hónapra vonatkozó nyilatkozat alapján kiszámított tagi hozzájárulás-fizetési kötelezettséget növeli vagy csökkenti. A tag és a Szövetség közötti egyenleg pénzügyi rendezése részletekben is történhet írásban kötött megállapodásban rögzített határidők felállításával.
 
-56. §
+56. § (1) A GET. 123. § (4)–(6) bekezdései helyébe a következő (4)–(8) bekezdések lépnek:
 
-57. §
+„(4) Földgáz, illetve villamos energia termelésével vagy kereskedelmével foglalkozó vállalkozás, valamint az ilyen vállalkozásokban irányítást gyakorló (a továbbiakban: irányító) részvényes a földgázszállítóban, a rendszerirányítóban, illetve azok irányító részvényesében kizárólag irányítást nem biztosító részesedést szerezhet. A részesedésszerzéshez a Hivatal előzetes hozzájárulása is szükséges.
+
+(5) Az (1) és (2) bekezdésben foglalt rendelkezésektől függetlenül a Hivatal előzetes hozzájárulása szükséges a földgázszállítóban, a rendszerirányítóban, illetve azok irányító részvényesében történő olyan részesedésszerzéshez, amelynek eredményeként harmadik országból származó személy vagy személyek gyakorolnának irányítást a földgázszállító, a rendszerirányító, illetve azok irányító részvényese felett. A harmadik országból származó személy köteles az ilyen tervezett részesedésszerzést a Hivatalnak bejelenteni.
+
+(6) A Hivatal a (2) és az (5) bekezdésben, valamint a 122. § (1) bekezdésében meghatározott ügyletek jóváhagyását megtagadhatja vagy feltételhez kötheti, ha azok végrehajtása a földgázellátás biztonságát, a közbiztonságot, az energiapolitikai célkitűzések érvényesülését, az engedélyköteles tevékenység ellátását vagy a szállítási, tárolási, elosztási, rendszerirányítási, valamint egyetemes szolgáltatási tevékenység árának és a szolgáltatás minőségének meghatározására vonatkozó szabályozást veszélyezteti, továbbá, ha annak végrehajtása a Hivatalhoz a (8) bekezdés szerint bejelentett elővásárlási jog megsértésére vezetne. A Hivatal megtagadja a (4) bekezdésben meghatározott részesedésszerzés jóváhagyását, ha az nem felel meg az ott rögzített követelményeknek. A Hivatal megtagadja az (5) bekezdés szerinti részesedésszerzés jóváhagyását, ha annak megvalósulása veszélyeztetné az ország vagy más tagállam energiaellátásának biztonságát.
+
+(7) A részesedésszerzés (1) bekezdésben meghatározott bejelentésének elmulasztása esetén, vagy a Hivatal (1) bekezdésben meghatározott tudomásul vételt kimondó visszaigazolása, vagy a (2) és a (4)–(5) bekezdésben, illetve a 122. § (1) bekezdésében meghatározott hozzájárulása hiányában a szerző fél a részesedései tekintetében a társasággal szemben – az osztalékra való jogosultságot kivéve – jogot nem gyakorolhat, illetve a részvénykönyvbe nem jegyezhető be, a tagjegyzékben nem tüntethető fel. A részvénykönyvbe, tagjegyzékbe, valamint a cégjegyzékbe való bejegyzésre irányuló kérelmet a Hivatal visszaigazolását, illetve jóváhagyását igazoló dokumentummal együtt lehet benyújtani.
+
+(8) A Hivatalhoz – a szerződés vagy a jognyilatkozat eredeti példányának vagy közjegyző által hitelesített másolatának csatolásával – be kell jelenteni a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedői engedélyes vagy jogutódja vonatkozásában biztosított elővásárlási jog létesítését, módosítását, illetve megszűnését.”
+
+(2) A GET. 127. § p) pontja helyébe a következő rendelkezés lép:
+
+[127. § A Hivatal a földgázellátással, a földgázellátás biztonságának és a földgázpiac hatékony működésének felügyeletével, továbbá az egyenlő bánásmód követelményének érvényesítésével, és a hatásos verseny elősegítésével kapcsolatos feladatai körében]
+
+„p) e törvény szerint jóváhagyja az engedélyes földgázipari vállalkozás átalakulását, szétválását, más földgázipari vállalkozással való egyesülését, jogutód nélküli megszűnését, a jegyzett tőke értékének csökkentését, az engedélyesekben történő részesedés- és befolyásszerzést, az olyan részesedésszerzést, amelynek eredményeként harmadik országból származó személy vagy személyek gyakorolnának irányítást a földgázszállító, a rendszerirányító, illetve azok irányító részvényese felett, az engedélyes működési engedélyében felsorolt engedélyhez kötött tevékenységei egyes elemeinek más személy általi végzését, valamint a működési engedélyben meghatározott alapvető eszközeinek és vagyoni értékű jogainak más személy részére történő átruházását, átengedését, lízingbe adását, és egyéb módon tartós használatba adását, megterhelését vagy biztosítékul lekötését;”
+
+57. § E törvény II. és III. fejezete a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+- a) Az Európai Parlament és a Tanács 2009/72/EK irányelve a villamos energia belső piacára vonatkozó közös szabályokról és a 2003/54/EK irányelv hatályon kívül helyezéséről, az irányelv V. fejezete;
+- b) Az Európai Parlament és a Tanács 2009/73/EK irányelve a földgáz belső piacára vonatkozó közös szabályokról és a 2003/55/EK irányelv hatályon kívül helyezéséről, az irányelv IV. fejezete.
