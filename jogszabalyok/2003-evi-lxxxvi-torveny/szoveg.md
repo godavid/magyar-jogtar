@@ -279,7 +279,8 @@ maga állapítja meg és vallja be az adóévet követő év második hónap 25.
 - f) a Nemzeti Tehetség Programról szóló külön jogszabályban meghatározott célok megvalósításához szükséges feladatok támogatására a tárgyévi eredeti bevételi előirányzat 3 százalékának megfelelő összeggel,
 - g) a régiók számára decentralizált keretként biztosított, az a)–f) pontok levonását követően fennmaradó keretösszeg felével,
 - h) a felnőttképzési célok támogatására szolgáló, az a)–g) pontok levonását követően fennmaradó keretösszeg felével, valamint
-- i) a szakiskolai fejlesztési programra és az Útravaló Ösztöndíjprogram Út a szakmához alprogramjára az oktatásért felelős miniszter és a szakképzésért és felnőttképzésért felelős miniszter által együttesen a költségvetési évre megállapított keretösszeggel.
+- i) a szakiskolai fejlesztési programra és az Útravaló Ösztöndíjprogram Út a szakmához alprogramjára az oktatásért felelős miniszter és a szakképzésért és felnőttképzésért felelős miniszter által együttesen a költségvetési évre megállapított keretösszeggel,
+- j) a szakmai vizsgát szervező intézmény vizsgaszervezési tevékenységének ellenőrzésére a szakmai vizsga szervezését engedélyező hivatalnak biztosított, az oktatásért felelős miniszter és a szakképzésért és felnőttképzésért felelős miniszter által együttesen a költségvetési évre megállapított keretösszeggel.
 
 (3) A (2) bekezdés szerinti csökkentő tételek levonását követően a bevételi előirányzat fennmaradó keretösszegének 70 százaléka az oktatásért felelős miniszter, 30 százaléka a szakképzésért és felnőttképzésért felelős miniszter rendelkezési jogkörében használható fel.
 
