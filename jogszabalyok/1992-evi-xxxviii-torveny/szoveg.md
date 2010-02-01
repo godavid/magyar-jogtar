@@ -1891,7 +1891,7 @@ növelhető, feladatellátási megállapodás esetén annak előírásai érvén
 
 (11) Amennyiben a (8) bekezdés szerinti jogi személyiségű szervezeti egység tevékenységének eredménye két éven át veszteséget mutat, akkor a 100/J. § (5) bekezdése szerinti engedélyt vissza kell vonni.
 
-(12) A közüzem külön törvényben foglaltak szerint jogosult a saját tulajdonában lévő vagyon értékének összesen legfeljebb 50%-os mértékéig hitelintézettől fejlesztési hitel felvételére. A közüzem saját tulajdonában álló vagyon körét külön törvény állapítja meg.
+(12) A közüzem külön törvényben foglaltak szerint, az ott meghatározott feltételekkel, az irányító szerv előzetes engedélyével pénzügyi intézménytől fejlesztési hitelt vehet fel. A külön törvényben foglalt feltételeknek ki kell terjednie a közüzem – hitel visszafizetését biztosító – saját vagyona vagy saját forrásai meglétére is. A közüzem hitelállományának mértéke nem haladhatja meg a saját vagyon könyv szerinti értékének és a saját források együttes összegének 50%-át.
 
 100/J. § (1) A vállalkozó közintézet
 
@@ -2829,7 +2829,7 @@ rendeletben jelölje ki.
 
 (4) A helyi önkormányzati költségvetési szerveknél a 90. § (4) bekezdésében foglalt megvalósítási terv elkészítésétől az irányító szerv 2010–2011. években eltekinthet.
 
-126. § (1) Felhatalmazást kapnak a miniszterek, hogy az irányításuk vagy felügyeletük alá tartozó költségvetési szervek tekintetében az államháztartásért felelős miniszter egyetértésével rendeletben engedélyezzék a költségvetésben tervezettet meghaladó, a többletfeladatokkal összefüggő közhatalmi bevételekből származó (többlet)bevétel teljes vagy részbeni felhasználását.
+126. § (1) Felhatalmazást kapnak a miniszterek, hogy az irányításuk vagy felügyeletük alá tartozó költségvetési szervek tekintetében az államháztartásért felelős miniszter egyetértésével rendeletben engedélyezzék a költségvetésben tervezettet meghaladó, a többletfeladatokkal összefüggő közhatalmi bevételekből származó (többlet)bevétel teljes vagy részbeni felhasználását.s
 
 (2) Felhatalmazást kapnak a miniszterek, hogy az irányításuk vagy felügyeletük alá tartozó központi közhatalmi költségvetési szervek tekintetében az államháztartásért felelős miniszter egyetértésével rendeletben szabályozzák a szervek kiegészítő és kisegítő tevékenysége ellenértékének jogcímét, mértékét vagy mértéke megállapításának módját, valamint az ebből származó bevételek felhasználását.
 
