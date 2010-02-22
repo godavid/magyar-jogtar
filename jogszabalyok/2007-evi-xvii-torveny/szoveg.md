@@ -998,6 +998,18 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (4) Amennyiben bíróság vagy szabálysértési hatóság a támogatásra való jogosultság megállapításáról vagy a kölcsönös megfeleltetés szabályainak megsértése miatti jogkövetkezményről hozott határozatot követően olyan jogerős határozatot hoz, amelynek alapján az érintettre nézve hátrányosabb jogkövetkezmény lenne megállapítható, ezen határozat alapján a mezőgazdasági és vidékfejlesztési támogatási szerv hivatalból lefolytatott eljárása során módosítja jogkövetkezményt megállapító határozatát. A mezőgazdasági és vidékfejlesztési támogatási szerv a módosításról a határozat jogerőre emelkedésétől számított három éven belül dönthet. A támogatásnak a módosított határozattal érintett és már igénybe vett része jogosulatlanul igénybe vett támogatásnak minősül.
 
+### Nem teljesítési bírság
+
+73/A. § (1) A közvetlen támogatási rendszer keretében közösségi jogi aktus felhatalmazása alapján egyes, jogszabályban meghatározott szerkezetátalakítási intézkedésekben való részvétel feltétele az ügyfél kötelezettség vállalása, hogy a jogszabályban meghatározottak szerinti mértékben élőmunka ráfordítást biztosítson.
+
+(2) Az (1) bekezdésben vállalt kötelezettség megszegése esetén az ügyfelet – a (3)–(4) bekezdésben foglaltakra is figyelemmel – a mulasztással arányos nem teljesítési bírsággal kell sújtani. A bírság mértékének megállapításánál jogszabályban meghatározottak szerint munkaóránként legfeljebb 4,5 eurónak megfelelő forintösszeg vehető figyelembe. Az átváltásra a közösségi forrásból nyújtandó támogatásra vonatkozó szabályokat kell megfelelően alkalmazni.
+
+(3) A nem teljesítési bírság kiszabásánál a 71. § (5) bekezdésében foglaltakat kell megfelelően alkalmazni.
+
+(4) A nem teljesítési bírság mértéke hivatalból vagy kérelemre a jogszabályban meghatározottak szerint mérsékelhető, illetőleg kiszabása mellőzhető, ha az ügyfél mulasztását elháríthatatlan külső ok idézte elő és e körülmény fennállását a jogszabályban meghatározottak szerint igazolta.
+
+(5) A nem teljesítési bírság megállapítása nem érinti a késedelmi pótlékfizetési kötelezettséget.
+
 ### VII. Fejezet — AZ ELJÁRÁS KÖLTSÉGEI
 
 74. § A törvény hatálya alá tartozó közigazgatási eljárások közül tárgyi illetékmentes eljárásnak minősülnek:
