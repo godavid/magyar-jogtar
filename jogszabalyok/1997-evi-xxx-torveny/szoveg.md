@@ -74,7 +74,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 4. § (1) Jelzálog-hitelintézet bankári kötelezettséget csak ingatlan fedezet kikötése mellett és kizárólag azon ügyfele részére vállalhat, akinek (amelynek) jelzáloghitelt nyújtott.
 
-(2) Ugyanazon ingatlanra, illetőleg ingatlanokra alapított jelzálogjog fedezete mellett nyújtott egyes jelzáloghitelek és a bankári kötelezettségek együttes összege nem haladhatja meg a fedezetül lekötött valamennyi ingatlan hitelnyújtás alapját képező értékének összegét (a továbbiakban: hitelbiztosítéki érték).
+(2)
 
 (3) Jelzálog-hitelintézet letéti szolgáltatást kizárólag azon ügyfele részére végezhet, akinek (amelynek) jelzáloghitelt nyújtott.
 
@@ -99,7 +99,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 - a) amellyel a jelzálog-hitelintézet javára kizárólag keretbiztosítéki jelzálogjogot alapítottak, vagy
 - b) amelynek összes kötelezettje a kölcsön folyósításának megkezdését – szerződésmódosítás esetén a módosítás hatálybalépését – megelőzően közjegyzői okiratba foglalt egyoldalú kötelezettségvállalást tesz a szerződés, illetve a szerződésmódosítás szerinti kötelezettsége fennállásáról és a jelzálog-hitelintézet követelései e szerződések alapján történő kielégítésének tűréséről.
 
-7. § A jelzálog-hitelintézet jogosult a lejárat előtti visszafizetéssel járó költségeit érvényesíteni.
+7. § A jelzálog-hitelintézet jogosult az előtörlesztés miatt keletkező költségeinek megtérítésére. Fogyasztónak nyújtott hitel esetében az előtörlesztésre a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény rendelkezéseit kell alkalmazni.
 
 8. § (1) Jelzálog-hitelintézet kizárólag jelzáloghitelt, valamint kapcsolódó kölcsönrészt vásárolhat meg, előlegezhet meg (ideértve a faktoringot és a forfetírozást is), valamint számítolhat le (a továbbiakban együtt: jelzáloghitel vásárlás).
 

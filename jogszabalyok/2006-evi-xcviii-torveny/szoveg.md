@@ -512,79 +512,119 @@ esetén,
 
 31/A. § A házi oxigénellátáshoz szükséges oxigénpalack vagy tartályrendszer beteg általi használatára a beteg és a forgalmazó között szerződést kell kötni, amelyre a Polgári Törvénykönyvről szóló törvény haszonkölcsön szerződésre vonatkozó rendelkezéseit kell alkalmazni.
 
-32. § (1) A
+32. § (1) A gyógyászati segédeszközök támogatásával kapcsolatos eljárások kérelemre vagy hivatalból indulnak.
 
-- a) gyógyászati segédeszközök
-  - aa) árhoz nyújtott támogatásának megállapítására (már támogatott vagy még nem támogatott csoporton belül),
-  - ab) kölcsönzési díjához nyújtott támogatás megállapítására,
+(2) A kérelem
+
+- a) még be nem fogadott gyógyászati segédeszközök
+  - aa) támogatásának megállapítására,
+  - ab) kölcsönzési napidíj támogatásának megállapítására azon termék esetében, amely kizárólag kölcsönzés keretében szolgálható ki,
 - b) már befogadott gyógyászati segédeszközök
-  - ba) kihordási idejének megváltoztatására,
-  - bb) indikációjának megváltoztatására,
-  - bc) támogatási mértékének megváltoztatására,
-  - bd) külön jogszabály szerinti névváltoztatására,
+  - ba) kölcsönzési napidíjának emelésére azon termék esetében, amely kizárólag kölcsönzés keretében szolgálható ki,
+  - bb) kölcsönzési napidíjának csökkentésére azon termék esetében, amely kizárólag kölcsönzés keretében szolgálható ki,
+  - bc) más funkcionális csoportban (alcsoportban) történő támogatására,
+  - bd) nevének külön jogszabály szerinti megváltoztatására,
   - be) közfinanszírozás alapjául szolgáló árának csökkentésére,
   - bf) közfinanszírozás alapjául szolgáló árának emelésére,
   - bg) támogatásból való törlésére,
-  - bh) külön jogszabály szerinti méretváltoztatására
+  - bh) külön jogszabály szerinti méretváltoztatására vagy új méretváltozata ártámogatásának megállapítására irányulhat.
 
-irányuló kérelmet a gyógyászati segédeszköz gyártója vagy annak meghatalmazott képviselője az egészségbiztosítási szervhez nyújtja be. Egyedi méretvétel alapján készített eszközök esetében annak gyártói vagy meghatalmazott képviselői közösen nyújthatnak be kérelmet az eszköz típusára vonatkozóan.
+(3) A (2) bekezdés szerinti kérelmet – a (11) bekezdés szerinti csoportos kérelem kivételével – kizárólag a gyógyászati segédeszköz forgalomba hozója nyújthatja be az egészségbiztosítási szervhez.
 
-(2) Az (1) bekezdés aa)–ab), ba)–bc) és bf) alpontja szerinti kérelmekről az egészségbiztosítási szerv a külön jogszabályban foglalt feltételek alapján, 120 napon belül dönt.
+(4) Az egészségbiztosítási szerv
 
-(3) Az egészségbiztosítási szerv az (1) bekezdés bd) és bh) alpontja szerinti kérelmekről egyszerűsített eljárásrend alapján, 90 napon belül dönt.
+- a) a (2) bekezdés aa), ab), ba), bc) és bf) alpontja szerinti kérelmekről a külön jogszabályban foglalt feltételek alapján, normál eljárásban 90 napon belül dönt;
+- b) a (2) bekezdés aa), ab) és bc) alpontja szerinti kérelmekről – az a) pontban foglaltaktól eltérően, külön jogszabályban foglalt feltételek alapján – gyorsított eljárásban, 60 napon belül dönt abban az esetben, ha a gyógyászati segédeszköz forgalomba hozója a termékre vonatkozóan
+  - ba) kérelmében az adott funkcionális csoportba (alcsoportba) már befogadott, legalacsonyabb közfinanszírozás alapjául szolgáló árú termék áránál legalább 10%-kal alacsonyabb közfinanszírozás alapjául szolgáló árat jelöl meg, vagy
+  - bb) kérelméhez legalább 100 betegre kiterjedő, Magyarországon végzett klinikai vizsgálat evidenciáit csatolja.
 
-(4) Az egészségbiztosítási szerv 90 napon belül dönt, ha a gyógyászati segédeszköz társadalombiztosítási támogatásba való befogadási kérelmében megjelölt ár az adott funkcionális csoportba tartozó legolcsóbb gyógyászati segédeszköz külön jogszabályban meghatározott áránál alacsonyabb.
+(5) Az egészségbiztosítási szerv a (2) bekezdés bd) és bh) alpontja szerinti kérelmekről a külön jogszabályban foglalt feltételek alapján egyszerűsített eljárásban, a kérelem benyújtását követő 30 napon belül határozatban dönt.
 
-(5) A (2)–(4) bekezdés alapján hozott határozat – az elutasító határozat kivételével – tartalmazza a gyógyászati segédeszköz megnevezését, ISO-kódját, kiszerelését, közfinanszírozás alapjául elfogadott árát, a támogatás mértékét, nettó összegét, kihordási idejét, a kihordási időre felírható mennyiségét, a konkrét rendelhetőségi feltételeket (indikáció) és a rendelésükre vonatkozó egyéb orvosszakmai előírásokat, valamint a finanszírozás kezdőnapját, támogatással kölcsönözhető eszköz esetében pedig a kölcsönzési díjat és az ahhoz nyújtott támogatás mértékét és összegét.
+(6) A támogatott gyógyászati segédeszköz forgalomba hozójának a (2) bekezdés bb), be) és bg) alpontja esetében bejelentési kötelezettsége van. Az egészségbiztosítási szerv e bejelentéseket a külön jogszabályban foglalt feltételek szerint a bejelentést követő 15 napon belül közzéteszi.
 
-(6) A kérelmező a (2)–(4) bekezdés szerinti eljárásért – az (1) bekezdés be) és bg) pontja szerinti kérelem kivételével – a külön jogszabályban meghatározottak alapján igazgatási szolgáltatási díjat fizet.
+(7) A (4)–(5) bekezdés alapján hozott határozat – az elutasító határozat kivételével – tartalmazza a támogatás megállapítására vonatkozóan külön jogszabályban foglaltak figyelembevételével
 
-(7) Az egészségbiztosítási szerv a külön jogszabályban meghatározott szempontok szerint jogosult folyamatosan felülvizsgálni a támogatott gyógyászati segédeszközök körét. A felülvizsgálatot követően a támogatott gyógyászati segédeszközök támogatásból való kizárása, vagy támogatási mértékének módosítása érdekében hivatalból jár el. Az egészségbiztosítási szerv a hivatalbóli eljárás megindítását követő 90 napon belül dönt.
+- a) a gyógyászati segédeszköz pontos megnevezését, funkcionális csoportját (alcsoportját) és ISO-kódját,
+- b) a gyógyászati segédeszköz kiszerelését,
+- c) azon eszköz esetében, amely
+  - ca) nem kizárólag kölcsönzés keretében kiszolgáltatható, az eszköz közfinanszírozás alapjául elfogadott árát,
+  - cb) kizárólag kölcsönzés keretében kiszolgáltatható, az eszköz közfinanszírozás alapjául elfogadott kölcsönzési napidíját,
+- d) a támogatási mértéket és támogatási technikát,
+- e) a támogatás nettó összegét,
+- f) az eszköz kihordási idejét és a kihordási időre felírható maximális mennyiségét,
+- g) a konkrét rendelhetőségi feltételeket (indikáció, szakképesítési követelmények, egyéb feltételek),
+- h) a támogatás, illetve a módosult feltételek melletti támogatás kezdőnapját,
+- i) azt, hogy az eszköz közgyógyellátás jogcímen kiszolgáltatható-e,
+- j) olyan eszköz esetében, amely a beteg tulajdonába csak a kölcsönzési időszakot követően adható, az eszköz funkcionális csoportjához (alcsoportjához) rendelt, külön jogszabály szerinti kölcsönzésidíj-szorzót,
+- k) tartós használati célú gyógyászati segédeszköz esetében az adott funkcionális csoportra (alcsoportra) jellemző javításidíj-átalányt,
+- l) az eszköz beteg által fizetendő térítési díját.
 
-(8) A (2)–(4) bekezdés szerinti eljárásban újrafelvételi eljárásnak nincs helye.
+(8) A forgalomba hozó a (4)–(5) bekezdés szerinti eljárásért a külön jogszabályban meghatározottak alapján igazgatási szolgáltatási díjat fizet.
 
-(9) Az egészségbiztosítási szerv az elsőfokú határozatát közegészségügyi, valamint járványügyi okból fellebbezésre tekintet nélkül végrehajthatónak nyilváníthatja.
+(9) A (4)–(5) bekezdés szerinti eljárásokban újrafelvételi eljárásnak nincs helye.
 
-(10) Az egészségbiztosítási szerv a 32–34. §-ban szabályozott eljárására vonatkozó nyilvánosság biztosítása érdekében a honlapján közzéteszi
+(10) A nyilvánosság biztosítása érdekében az egészségbiztosítási szerv internetes honlapján közzéteszi:
 
-- a) a formai szempontból megfelelő kérelmet a kérelem beérkezését követő öt munkanapon belül, továbbá
-- b) a kérelmezővel való közlésen túl – a külön jogszabály szerinti tájékoztató jellegű közzététellel – az ügyben hozott jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított határozatot a kérelem elbírálását követő hónap ötödik napjáig.
+- a) a formai szempontból megfelelő kérelmet, a kérelem beérkezését, illetve a hiánypótlás teljesítését követő tizenöt munkanapon belül, továbbá
+- b) az ügyben hozott jogerős vagy önálló fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított határozatát az ügy elbírálását követő tíz munkanapon belül.
 
-(11) Az (1) bekezdés be) és bg) pontja szerinti kérelem esetében a gyógyászati segédeszköz gyártójának vagy annak meghatalmazott képviselőjének, egyedi méretvétel alapján készített eszközök esetében annak gyártóinak vagy meghatalmazott képviselőinek közösen bejelentési kötelezettsége van.
+(11) Az egyedi méretvétel alapján készített gyógyászati segédeszközök esetén az eszköz valamennyi, az egészségbiztosítási szervvel támogatás elszámolására érvényes szerződéssel rendelkező forgalomba hozója vagy meghatalmazott képviselője kizárólag közösen nyújthat be külön jogszabály szerinti csoportos kérelmet az eszköz típusára vonatkozóan. Az egyedi méretvétel alapján készített gyógyászati segédeszközök támogatásával kapcsolatos eljárások szabályait e törvénnyel összhangban külön jogszabály tartalmazza.
 
-(12) A (11) bekezdésben foglalt bejelentési kötelezettség teljesítése során igazgatási szolgáltatási díjat nem kell fizetni.
+(12) A (11) bekezdés szerinti kérelmet csak a (2) bekezdés aa), be), bf), bg) alpontjai tárgyában lehet az egészségbiztosítási szervhez benyújtani.
 
-(13) A (11) bekezdésben foglaltakat az egészségbiztosítási szerv a bejelentés megtételét követő hónap 1. napján közzéteszi.
+(13) Az egészségbiztosítási szerv elsőfokú döntését fellebbezésre tekintet nélkül végrehajthatónak nyilváníthatja.
 
-33. § (1) A 32. § (2)–(4) és (7) bekezdése szerinti döntéseket tartalmazó határozatoknak – külön jogszabályban meghatározott – objektív és ellenőrizhető kritériumokon alapuló indokolást kell tartalmazniuk. A határozatokban a finanszírozás kezdőnapját úgy kell megállapítani, hogy az a határozat jogerőre emelkedését követő 365. napnál későbbi időpont nem lehet. A referenciatermék vagy az azzal azonos, illetve annál alacsonyabb közfinanszírozás alapjául elfogadott árú termék közfinanszírozás alapjául elfogadott árának emelését eredményező, a 32. § (2) bekezdése szerinti határozatban a finanszírozás kezdőnapját úgy kell megállapítani, hogy az legkorábban a (3) bekezdés b) pontja szerinti közlemény megjelenésének napja lehet.
+32/A. § (1) Az egészségbiztosítási szerv hivatalból folyamatosan teljes vagy részleges felülvizsgálatnak veti alá a támogatott gyógyászati segédeszközök körét a (2) bekezdésben foglalt szempontok szerint.
 
-(2) Az egészségbiztosítási szerv 32. § (2)–(4) és (7) bekezdése szerinti határozata elleni jogorvoslati kérelmet 60 napon belül kell elbírálni.
+(2) Az egészségbiztosítási szerv az (1) bekezdés szerinti felülvizsgálat keretében hivatalból eljárást indít, ha
 
-(3) A biztosító a végrehajtható határozatok alapján a támogatott gyógyászati segédeszközök teljes körét minden naptári hónap 20. napjáig tájékoztató jelleggel közzéteszi honlapján.
+- a) a támogatott eszköz az E. Alap költségvetését az alkalmazásával elérhető egészségnyereséghez képest aránytalanul nagy mértékben terheli,
+- b) jogszabályváltozás azt indokolja,
+- c) jogszabály hivatalbóli eljárás indítását írja elő,
+- d) egy eszköz minőségével, rendeltetésének való megfelelésével kapcsolatban kétség merül fel.
 
-(4) A (3) bekezdés szerinti közlemény tartalmazza a rendelésre jogosultak körét, a gyógyászati segédeszközök megnevezését, ISO-kódját, kiszerelését, a közfinanszírozás alapjául elfogadott nettó árát, a támogatás mértékét és nettó összegét, kihordási idejét és az arra felírható és kiszolgáltatható maximális mennyiségét, az egyes eszközökre vonatkozó konkrét rendelhetőségi feltételeket, javallatot (indikáció) és a rendelésükre vonatkozó egyéb orvosszakmai előírásokat, a társadalombiztosítási támogatással történő finanszírozás kezdőnapját, valamint a közgyógyellátás keretében történő rendelhetőséget, a kölcsönzési díjat és az ahhoz nyújtott támogatás mértékét és összegét.
+(3) Az egészségbiztosítási szerv az (1) bekezdés szerinti felülvizsgálat során a külön jogszabály alapján a támogatott gyógyászati segédeszközök támogatásból való kizárásáról, támogatási mértékének módosításáról, támogatási listán szereplő nevének pontosításáról, kihordási idejének, kihordási időre felírható mennyiségének, a rendelhetőségi feltételek módosításáról és más funkcionális csoportba (alcsoportba) történő átsorolásáról dönthet.
+
+(4) Amennyiben a 34. § (2) bekezdése szerinti eljárás alapján új funkcionális csoport (alcsoport) nyitására, vagy egyéb okból új funkcionális csoport (alcsoport) nyitására vagy megszüntetésére kerül sor, az egészségbiztosítási szervnek le kell folytatnia az (1) bekezdés szerinti eljárást.
+
+(5) Az egészségbiztosítási szerv hivatalból, külön jogszabályban foglaltak szerinti fixesítési eljárásban, félévente újraképzi a gyógyászati segédeszközök támogatási csoportjait.
+
+32/B. § (1) Az egészségbiztosítási szerv a forgalomba hozót az általa végzett szállító-előminősítést követően, a külön jogszabályban foglalt értékelés alapján és feltételek teljesülése esetén felveszi a külön jogszabály szerinti szállítójegyzékbe.
+
+(2) A szállító-előminősítésért külön jogszabályban foglaltak szerint igazgatási szolgáltatási díjat kell fizetni.
+
+33. § (1) A 32. § (4)–(5) és a 32/A. § (1) bekezdése szerinti döntéseket tartalmazó határozatoknak objektív és ellenőrizhető kritériumokon alapuló indokolást kell tartalmazniuk.
+
+(2) A határozatokban – a (3)–(4) bekezdésben foglaltak kivételével – a támogatás, illetve módosult feltételek melletti támogatás kezdőnapját úgy kell megállapítani, hogy az
+
+- a) a határozathozatal napját követő 365. napnál későbbi időpont nem lehet,
+- b) sorozatgyártású vagy méretsorozatos gyógyászati segédeszközökre vonatkozó, a referenciaeszköz vagy az azzal azonos, illetve annál alacsonyabb közfinanszírozás alapjául elfogadott árú termék közfinanszírozás alapjául elfogadott árának emelését eredményező, a 32. § (4) bekezdése szerinti határozat esetében a határozathozatalt követő 180. napnál korábbi időpont nem lehet.
+
+(3) Abban az esetben, ha az egészségbiztosítási szerv a 32/A. § (1) bekezdése szerinti eljárásában a gyógyászati segédeszköz támogatásból való kizárásáról, támogatási mértékének módosításáról, illetve az eszköz más funkcionális csoportba (alcsoportba) sorolásáról dönt, a támogatás megszüntetésének, mértéke módosításának napját, illetve a más funkcionális csoportban (alcsoportban) történő támogatás kezdőnapját a határozat meghozatalának napját közvetlenül követő naptári negyedév első napjánál korábbi, illetve a határozat meghozatalának napját követő második naptári negyedév első napjánál későbbi időpontban nem lehet meghatározni.
+
+(4) Ha az egészségbiztosítási szerv a 32/A. § (2) bekezdésének b) pontja alapján indult, a 32/A. § (1) bekezdése szerinti eljárásban a gyógyászati segédeszköz támogatásból való kizárásáról, támogatási mértékének módosításáról, az eszköz más funkcionális csoportba (alcsoportba) sorolásáról, kihordási idejének, kihordási időre felírható mennyiségének módosításáról, nevének pontosításáról, illetve a rendelhetőségi feltételek módosításáról dönt, a támogatás megszüntetésének, mértéke módosításának napját, illetve a más funkcionális csoportban (alcsoportban), más kihordási idővel, más felírható mennyiséggel, más névvel, illetve más rendelhetőségi feltétellel történő támogatás kezdőnapja az eljárás megindítását szükségessé tevő jogszabály alkalmazásának kezdőnapja.
+
+(5) Az egészségbiztosítási szerv 32. § (4)–(5) és a 32/A. § (1) bekezdése szerinti határozata elleni fellebbezést 60 napon belül kell elbírálni.
+
+(6) Az egészségbiztosítási szerv a végrehajtható határozatok alapján a támogatott gyógyászati segédeszközök teljes körét – a külön jogszabály szerinti adatokkal – minden naptári hónap 20. napjáig tájékoztató jelleggel honlapján közzéteszi.
 
 34. § (1) Ha a gyógyászati segédeszköz gyártója vagy annak meghatalmazott képviselője az egészségbiztosítási szerv 32. § szerinti határozatának jogerőre emelkedését követően a befogadott és támogatással forgalmazható gyógyászati segédeszköz árát érintő változtatással kíván élni, új kérelmet kell előterjesztenie a támogatás iránt.
 
-(2) Az egészségbiztosítási szerv a gyógyászati segédeszköz támogatásba való befogadásának eljárását a külön jogszabály megfelelő módosításának hatálybalépéséig, legfeljebb azonban a kérelem benyújtását követő egy évig felfüggeszti, és erről a kérelmezőt értesíti, amennyiben:
+(2) Amennyiben az egészségbiztosítási szervhez olyan új gyógyászati segédeszköz befogadása iránti kérelem érkezik, amelynek funkcionális csoportját (alcsoportját), illetve az azon belüli támogatási mértékét nem tartalmazza külön jogszabály, az egészségbiztosítási szerv a gyógyászati segédeszköz támogatásba való befogadásának eljárását a külön jogszabály megfelelő módosításának hatálybalépéséig, legfeljebb azonban a kérelem benyújtását követő 180 napig felfüggeszti, és erről a kérelmezőt értesíti.
 
-- a) az egészségbiztosítási szervhez olyan új gyógyászati segédeszköz befogadása iránti kérelem érkezik, amelynek termékcsoportját, illetve az azon belüli támogatási mértékét,
-- b) az egészségbiztosítási szervhez olyan gyógyászati segédeszköz emelt, illetve kiemelt támogatással történő befogadása iránti kérelem érkezik, amely emelt, illetve kiemelt támogatási csoportokat, illetve az azon belüli támogatási mértékét,
-- c) az egészségbiztosítási szervhez olyan gyógyászati segédeszköz támogatással történő kölcsönzése iránti kérelem érkezik, amely eszköz támogatással történő kölcsönzését
+(3) Amennyiben a (2) bekezdés szerinti jogszabály módosítására nem kerül sor, úgy az egészségbiztosítási szerv a 180 nap elteltével a hatályos jogszabályi rendelkezések alapján bírálja el a kérelmet.
 
-nem tartalmazza a külön jogszabály.
+(4)
 
-(3) Amennyiben a (2) bekezdés szerinti jogszabály módosítására nem kerül sor, úgy az egészségbiztosítási szerv az egy év elteltével a hatályos jogszabályi rendelkezések alapján bírálja el a kérelmet.
+(5) A 32. § (4)–(5) bekezdései szerinti eljárásokban részt vevő intézményekkel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló és az eljárásban közvetlenül feladatot ellátó személyeknek nyilatkozniuk kell arról, hogy nem állnak érdekeltségi, üzleti és egyéb kapcsolatban az eljárás tárgyát képező kérelmet benyújtó forgalomba hozóval vagy a kérelem tárgyát képező eszközzel azonos funkcionális csoportba tartozó eszköz forgalomba hozójával.
 
-(4) Abban az esetben, ha az egészségbiztosítási szerv a 32. § (7) bekezdése szerinti eljárását követően valamely gyógyászati segédeszköz támogatásának megszüntetéséről, illetve támogatási mértékének vagy összegének csökkentéséről dönt, a támogatás megszüntetésének napját, illetve a támogatás változásának kezdőnapját a határozat meghozatalának napjától számított első negyedév első napjánál korábbi időpontban nem lehet meghatározni.
+(6) Támogatással rendelt gyógyászati segédeszközt a külön jogszabály szerinti feltételeknek megfelelő, működési engedéllyel rendelkező forgalmazó (gyógyászatisegédeszköz-szaküzlet vagy gyógyszertár) szállíthat házhoz.
 
-(5) Az eljárásban részt vevő intézményekkel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló és az eljárásban közvetlenül feladatot ellátó személyeknek nyilatkozniuk kell arról, hogy nem állnak érdekeltségi, üzleti és egyéb kapcsolatban az eljárás tárgyát képező kérelmet benyújtó gyártóval, annak meghatalmazott képviselőjével vagy a kérelem tárgyát képező eszközzel azonos funkcionális csoportba tartozó eszköz gyártójával vagy meghatalmazott képviselőjével.
+(7) Támogatással rendelt kötszert gyógyszertár és gyógyászatisegédeszköz-szaküzlet szolgáltathat ki.
 
-(6) Társadalombiztosítási támogatással sorozatgyártású és adaptív gyógyászati segédeszközt – a külön jogszabályban foglalt kivétellel – a működési engedéllyel rendelkező gyógyászatisegédeszköz-szaküzlet szállíthat házhoz.
+(8) Az egészségbiztosítási szerv a költségvetési keretek betarthatósága érdekében, a már támogatott, illetve az újonnan befogadott gyógyászati segédeszközökre támogatásvolumen-szerződést köthet.
 
-(7) Az egészségbiztosítási szerv a költségvetési keretek betarthatósága érdekében, a már támogatott, illetve az újonnan befogadott gyógyászati segédeszközökre támogatásvolumen-szerződést köthet.
-
-(8) A befizetés részletes szabályait a gyártó vagy annak meghatalmazott képviselője és az egészségbiztosítási szerv között létrejött támogatásvolumen-szerződés tartalmazza.
+(9) A befizetés részletes szabályait a gyártó vagy annak meghatalmazott képviselője és az egészségbiztosítási szerv között létrejött támogatásvolumen-szerződés tartalmazza.
 
 35. § (1) A gyógyszer forgalmazója a kiszolgáltatás során az egészségbiztosítási szerv által a támogatás megállapítására irányuló eljárásban
 
@@ -621,24 +661,6 @@ nem tartalmazza a külön jogszabály.
 (6) Az állami adóhatóság az (1) bekezdés szerinti, a forgalomba hozatali engedély jogosultja és a forgalmazó közötti megállapodás jóváhagyásáról, a jóváhagyás napját követő nyolc napon belül tájékoztatja az egészségbiztosítási szervet.
 
 (7) A gyógyszer forgalomba hozatali engedélyének jogosultja legfeljebb a 36. § (1) és (4) bekezdései és a 42. § (1)–(6) bekezdései szerinti fizetési kötelezettségének 20%-a erejéig engedményt kaphat a külön jogszabályban részletesen meghatározott feltételekkel megvalósított kutatásfejlesztési ráfordítások után, amennyiben e törvény szerinti, valamennyi fizetési kötelezettségének eleget tett. A forgalomba hozatali engedély jogosultja és a számviteli törvény szerinti, konszolidálásba bevont érintett vállalkozások külön jogszabályban meghatározott K+F ráfordításait együttesen kell figyelembe venni.
-
-[(7) A gyógyszer forgalomba hozatali engedélyének jogosultja legfeljebb a 36. § (1) és (4) bekezdései szerinti befizetési kötelezettségének 100%-a erejéig kaphat engedményt a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) szerinti saját éves beszámolójában, valamint a konszolidációba bevont érintett vállalkozása Szt. szerinti éves beszámolójában kimutatott, egészségügyi ágazatot érintő kutatási és fejlesztési ráfordítások – a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao tv.) 31. §-a (2) bekezdésének c) pontjában foglaltakkal összhangban lévő – összege után, a (9) bekezdésben előírtak figyelembevételével, amennyiben e ráfordítások meghaladják a forgalomba hozatali engedély jogosultja által forgalmazott támogatott gyógyszerek után kifizetett társadalombiztosítási támogatás termelői (import beszerzési) árral arányos része 20%-át, és e törvény szerinti valamennyi fizetési kötelezettségének eleget tett. A forgalomba hozatali engedély jogosultja és az Szt. szerinti, konszolidációba bevont érintett vállalkozások külön jogszabályban meghatározott kutatási és fejlesztési ráfordításait együttesen kell figyelembe venni oly módon, hogy ugyanazon ráfordítás összege csak egyszer kerüljön figyelembevételre az engedmény igénybevételekor. A konszolidációba bevont érintett vállalkozások kutatási és fejlesztési tevékenységhez egymásnak nyújtott szolgáltatásaival összefüggésben felmerült kutatási és fejlesztési ráfordítások engedményként csak az egyik félnél érvényesíthetők.
-
-(8) Az engedmény összegének meghatározásakor figyelembe vett kutatási és fejlesztési ráfordításokat csökkenteni kell
-
-a) a IV. fázisú klinikai vizsgálatok költségével, valamint az emberi felhasználásra kerülő gyógyszerekről és egyéb gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 1. § 8. pontja szerinti beavatkozással nem járó vizsgálat költségével,
-
-b) a kutatás és fejlesztés céljára a mérlegkészítés napjáig az adóhatóságtól, illetve az államháztartás alrendszereinek más szervétől, vagy az Európai Unió különböző pénzügyi alapjaiból igényelt, vagy az adóévben – visszafizetési kötelezettség nélkül – kapott támogatás, juttatás bevételként elszámolt összegével,
-
-c) a Tao. tv. 22. §-ának (9) bekezdése szerint az adóévben az alapkutatás, az alkalmazott kutatás vagy a kísérleti fejlesztés közvetlen költségei között elszámolt bérköltség alapján igénybevett adókedvezmény összegével,
-
-d) a Tao. tv. szerinti külföldi telephelynél felmerült (elszámolt) kutatási és fejlesztési költségekkel, amennyiben
-
-da) a telephely olyan államban van, amely nem tagja az Európai Uniónak, Gazdasági Együttműködési és Fejlesztési Szervezetnek (a továbbiakban: OECD), nem részese az Európa Gazdasági Térségről szóló Megállapodásnak, vagy amellyel Magyarország nem kötött a kettős adóztatás elkerüléséről szóló egyezményt, vagy
-
-db) a telephely olyan államban van, amely tagja az Európai Uniónak, az OECD-nek, részese az Európa Gazdasági Térségről szóló Megállapodásnak, vagy amellyel Magyarországnak van a kettős adóztatás elkerüléséről szóló egyezménye és a forgalomba hozatali engedély jogosultját a telephely szerinti állam szabályai szerint is terheli a közfinanszírozásban részesülő gyógyszerek és tápszerek után kifizetett társadalombiztosítási támogatás alapján arányosan meghatározott, illetve az ismertetési tevékenységet végző magánszemélyek száma alapján meghatározott fizetési kötelezettség, és e kutatási és fejlesztési ráfordításokat a telephely szerinti államban már figyelembe vették kötelezettségcsökkentő tételként vagy e kutatási és fejlesztési ráfordításokat az adott államban engedményként bármilyen adó alapjánál már figyelembe vették, vagy egyéb adókedvezményként már érvényesítették.
-
-(9) Az engedmény nem érinti az államnak a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 3. § (2) bekezdése szerinti kötelezettségét.]
 
 37. § (1) Az Egészségbiztosítási Alap kezeléséért felelős egészségbiztosítási szerv a 36. § (1)–(2) bekezdésében meghatározott fizetési kötelezettségek teljesítéséhez szükséges támogatási, illetve forgalmi adatokat a tárgyhónapot követő második naptári hónap 10. napjáig, a 36. § (3) bekezdésében meghatározott fizetési kötelezettségek teljesítéséhez szükséges támogatási, illetve forgalmi adatokat pedig a tárgynegyedévet követő második naptári hónap 10. napjáig közli a fizetésre kötelezettel, illetve honlapján közzéteszi azokat.
 
@@ -1140,7 +1162,9 @@ rendeletben állapítsa meg.
 - i) a gyógyszer- és gyógyászatisegédeszköz-rendeléshez felhasználható számítógépes program minősítésének szabályait,
 - j) a gyógyszer, illetve gyógyászati segédeszköz ismertetésének és az ismertetési tevékenység folytatásának részletes feltételeit, az ismertetési tevékenység bejelentésére és az ismertetési tevékenységet folytatók, valamint az ismertető személyek nyilvántartásának vezetésére, az ismertetői igazolvány kiállítására és módosítására, az igazolvány személyes adatot nem tartalmazó adattartalmára vonatkozó részletes eljárási szabályokat, továbbá a gyógyszer és gyógyászati segédeszköz ismertetésére jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, továbbá a gyógyszerrel, gyógyászati segédeszközzel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó részletes szabályokat,
 - k) a minőségi és hatékony gyógyszerrendelés értékelésének alapjául szolgáló ATC-csoportokat és a célértéket,
-- l) a 24. § (4) bekezdésében, valamint a 33. § (3) bekezdésében foglalt, a társadalombiztosítási támogatásba befogadott gyógyszerek, tápszerek és gyógyászati segédeszközök körét tartalmazó közlemény adattartalmát és a közzététel eljárási rendjét, [m) a szállítójegyzékre és a szállító-előminősítésre vonatkozó részletes szabályokat, n) az egészségbiztosítási szerv által működtetett internetes gyógyászati segédeszköz katalógusra vonatkozó részletes szabályokat,]
+- l) a 24. § (4) bekezdésében, valamint a 33. § (6) bekezdésében foglalt, a társadalombiztosítási támogatásba befogadott gyógyszerek, tápszerek és gyógyászati segédeszközök körét tartalmazó közlemény adattartalmát és a közzététel eljárási rendjét,
+- m) a szállítójegyzékre és a szállító-előminősítésre vonatkozó részletes szabályokat,
+- n) az egészségbiztosítási szerv által működtetett internetes gyógyászati segédeszköz katalógusra vonatkozó részletes szabályokat,
 - o) az egyedi méretvétel alapján készített gyógyászati segédeszközök támogatásával kapcsolatos eljárások szabályait,
 - p) az egyszerűsített támogatási jegyzékre vonatkozó részletes szabályokat, valamint az egyszerűsített támogatási jegyzékben szereplő funkcionális csoportba tartozó, és a háromhavi terápiás limit alapú támogatásban részesülő gyógyászati segédeszközök igénybevételének részletes szabályait.
 
@@ -1158,7 +1182,8 @@ rendeletben állapítsa meg.
 - c) az egyedileg, méretre készített gyógyászati segédeszközök gyártására és forgalmazására vonatkozó tanúsításért,
 - d) az egészségbiztosítási felügyeleti hatóság e törvény alapján nyújtott igazgatási jellegű szolgáltatásainak igénybevételéért,
 - e) a gyógyszer- és gyógyászatisegédeszköz-rendeléshez szükséges számítógépes program minősítési eljárásáért,
-- f) a gyógyszerek gyógyszertáron kívüli forgalmazását elősegítő elektronikus információs rendszer minősítési eljárásáért
+- f) a gyógyszerek gyógyszertáron kívüli forgalmazását elősegítő elektronikus információs rendszer minősítési eljárásáért,
+- g) a szállító-előminősítésért
 
 fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket.
 

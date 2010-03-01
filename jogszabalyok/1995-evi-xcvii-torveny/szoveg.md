@@ -848,7 +848,7 @@ köteles elhelyezni és karbantartani.
 
 (5) A Társaság a főtevékenysége ellátását elősegítő szolgáltató tevékenységeket is elláthat.
 
-(6) A (2) bekezdésben megjelölt társaság közép-európai légiforgalmi szolgálatok regionális együttműködése keretében létrejövő gazdasági társaságban kisebbségi tulajdonrészt is szerezhet.
+(6) A (2) bekezdésben megjelölt társaság európai léginavigációs szolgáltatással összefüggő együttműködés keretében létrejövő gazdasági társaságban kisebbségi vagy többségi tulajdonrészt szerezhet, valamint gazdasági társaságot alapíthat.
 
 62. § (1) A nem ellenőrzött repülőterek üzemben tartói a miniszter által a repülőtér rendeltetésének figyelembevételével meghatározott légiforgalmi szolgálat fenntartására, valamint léginavigációs berendezések létesítésére és üzemeltetésére kötelezhetők.
 

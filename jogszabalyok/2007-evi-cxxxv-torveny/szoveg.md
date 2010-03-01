@@ -183,7 +183,7 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (4) A Felügyelet elnöke véleményezésre megküldi az Országgyűlés feladatkörrel rendelkező bizottságának a Felügyelet szervezeti és működési szabályzatára vonatkozó utasítás tervezetét. A bizottság a tervezetről véleményt nyilvánít, amelyet a Felügyelet elnöke részére a tervezet kézhezvételétől számított harminc napon belül megküld. A Felügyelet elnöke az utasítást a bizottság véleményének ismeretében, illetve e határidő eredménytelen elteltét követően adhatja ki.
 
-(5) A Felügyelet elnöke felett a munkáltatói jogokat – a 12–13. §-ban meghatározott kivételekkel – a köztársasági elnök gyakorolja. A Felügyelet alelnöke felett a munkáltatói jogokat – a kinevezés kivételével – a Felügyelet elnöke gyakorolja.
+(5) A Felügyelet elnökének közszolgálati jogviszonyával összefüggő munkáltatói intézkedéseket – a 12–13. §-ban meghatározott esetekben az ott megjelölt döntés alapján – a helyettesítésére kijelölt alelnök teszi meg. A Felügyelet alelnöke felett a munkáltatói jogokat – a kinevezés kivételével – a Felügyelet elnöke gyakorolja.
 
 (6) A Felügyelet elnökének a Felügyelettől származó tárgyévi összes jövedelme az MNB elnökének az MNB-től származó tárgyévi összes jövedelmének ötven százaléka.A Felügyelet alelnökének a Felügyelettől származó tárgyévi összes jövedelme az MNB elnökének az MNB-től származó tárgyévi összes jövedelmének huszonöt százaléka.
 
