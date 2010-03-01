@@ -477,7 +477,7 @@ hatáskörébe tartozik.
 
 ### VIII. Fejezet — A vízügyi hatósági jogkör
 
-28. § (1) Vízjogi engedély szükséges — jogszabályban meghatározott kivételektől eltekintve — a vízimunka elvégzéséhez, illetve vízilétesítmény megépítéséhez, átalakításához és megszüntetéséhez (létesítési engedély), továbbá annak használatbavételéhez, üzemeltetéséhez, valamint minden vízhasználathoz (üzemeltetési engedély).
+28. § (1) Vízjogi engedély szükséges – jogszabály által bejelentéshez kötött tevékenységektől eltekintve – a vízimunka elvégzéséhez, illetve vízilétesítmény megépítéséhez, átalakításához és megszüntetéséhez (létesítési engedély), továbbá annak használatbavételéhez, üzemeltetéséhez, valamint minden vízhasználathoz (üzemeltetési engedély).
 
 (2) Elvi vízjogi engedély kérhető a vízjogi engedélyezési kötelezettség alá tartozó vízhasználat, vízimunka és vízilétesítmény műszaki tervezéséhez.
 
@@ -506,7 +506,7 @@ indokolja.
 
 30/B. § A közigazgatási hatósági eljárás során felmerülő mintavételi, laboratóriumi, illetve az egyéb műszeres vizsgálatok költségei, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek egyéb eljárási költségnek minősülnek.
 
-31. §
+31. § A vízügyi hatóság által lefolytatott egyes közigazgatási eljárásokért (ideértve a szakhatósági eljárásokat, az igazgatási jellegű szolgáltatásokat, továbbá a bejelentéseket) igazgatási szolgáltatási díjat kell fizetni.
 
 32. § Ha a vizek mennyiségi védelme, a vizek kártételeinek elhárítása, a károk megelőzése vagy a jogszerűen gyakorolt vízhasználat azt egyébként szükségessé teszi, a hatóság a vízhasználót, vagy azt, aki a vízviszonyokba jogellenesen beavatkozott a káros, illetve a károsodás veszélyével fenyegető állapot megszüntetésére, a szükséges vízimunka elvégzésére vagy meghatározott módon történő gyakorlására kötelezheti.
 
@@ -663,7 +663,8 @@ indokolja.
 - o) a közműves szennyvízelvezető és -tisztító művel gazdaságosan el nem látható területekre vonatkozó Egyedi Szennyvízkezelés Nemzeti Megvalósítási Program;
 - p) a vízgazdálkodási szakértői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító engedély kiadásának rendje és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények;
 - q) a vizek többletéből eredő kockázattal érintett területek meghatározására, veszély- és kockázati térkép, valamint kockázatkezelési terv készítésére, tartalmára vonatkozó szabályok;
-- r) az e törvényben, valamint a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben foglaltakkal összhangban a vízgyűjtő-gazdálkodási tervezésre és a jó vízállapotok eléréséhez szükséges intézkedések programjának kialakítására vonatkozó szabályok
+- r) az e törvényben, valamint a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben foglaltakkal összhangban a vízgyűjtő-gazdálkodási tervezésre és a jó vízállapotok eléréséhez szükséges intézkedések programjának kialakítására vonatkozó szabályok;
+- s) a vízügyi hatóságnak történő bejelentést követően megkezdhető, illetve folytatható tevékenységek körének, továbbá a bejelentés tartalmi elemeinek és a bejelentéssel érintett tevékenységek ellenőrzésére vonatkozó eljárás szabályainak, valamint az alkalmazható jogkövetkezményeknek
 
 rendeletben történő megállapítására.
 
@@ -680,7 +681,8 @@ rendeletben történő megállapítására.
 - i) a fúrt kutakra vonatkozó vízjogi engedélyezési eljárás szabályainak;
 - j) egyes kiemelt jelentőségű vízilétesítmények rendszeres műszaki megfigyelésének;
 - k) a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó részletes szabályoknak;
-- l) az állam kizárólagos tulajdonában lévő vizek és vízilétesítmények jegyzékének
+- l) az állam kizárólagos tulajdonában lévő vizek és vízilétesítmények jegyzékének;
+- m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben
 
 rendeletben történő megállapítására.
 

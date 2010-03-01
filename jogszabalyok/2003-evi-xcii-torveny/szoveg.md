@@ -1078,7 +1078,7 @@ veheti igénybe.
 - e) a hitelintézet,
 - f) külön törvény szerint befektetési szolgáltatási tevékenység végzésére jogosult személy (befektetési szolgáltató),
 - g) a vámhatóság és a jegyző,
-- h) egyes adóterhet nem viselő járandóságokat (nyugdíjat, rehabilitációs járadékot, családi pótlékot) folyósító szerv,
+- h) egyes adóterhet nem viselő járandóságot (nyugdíjat, rehabilitációs járadékot, anyasági támogatást) folyósító szerv,
 - i) az engedélyt kiadó hatóság,
 - j) a közúti közlekedési nyilvántartási szerv, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv,
 - k) az általános forgalmi adóról szóló törvényben meghatározott új közlekedési eszköz értékesítését végző adózó,
@@ -2430,9 +2430,9 @@ jár el, kivéve, ha törvény a köztartozás beszedését más szerv hatáskö
 
 Külföldi magánszemély esetén a fővárosi főjegyző az illetékes önkormányzati adóhatóság, ha az illetékes önkormányzati adóhatóság az a) pontban megjelölt illetékességi okok sorrendje alapján nem határozható meg.
 
-(3) Az adóhatóság a végrehajtást az adós lakóhelye, székhelye vagy végrehajtás alá vonható vagyontárgya szerinti helyi bíróság mellett működő, az ügyelosztási szabályok szerint illetékes önálló bírósági végrehajtó útján is foganatosíthatja. Ez esetben a bírósági végrehajtó az e törvényben foglalt rendelkezések alkalmazásával jár el azzal az eltéréssel, hogy illetékességére a Vht. 232. §-ának (3)–(5) bekezdése az irányadó. Ez esetben a bírósági végrehajtó az e törvényben foglalt rendelkezések alkalmazásával jár el azzal az eltéréssel, hogy illetékességére a Vht. 232. §-ának (3)–(5) bekezdése az irányadó, és alkalmazza a Vht.-nak az elektronikus ingóárverésre és ingatlanárverésre vonatkozó rendelkezéseit is.
+(3) Az adóhatóság a végrehajtást az adós lakóhelye, székhelye vagy végrehajtás alá vonható vagyontárgya szerinti helyi bíróság mellett működő, az ügyelosztási szabályok szerint illetékes önálló bírósági végrehajtó útján is foganatosíthatja. Ez esetben a bírósági végrehajtó az e törvényben foglalt rendelkezések alkalmazásával jár el azzal az eltéréssel, hogy illetékességére a Vht. 232. §-ának (3)–(5) bekezdése az irányadó, és alkalmazza a Vht.-nak az elektronikus ingóárverésre és ingatlanárverésre vonatkozó rendelkezéseit is.
 
-(4) A kapcsolattartó közigazgatási szerv a behajtási jogsegély iránti kérelmet elutasítja, ha a megkeresés alapját képező végrehajtható okirat keltének napjától az ugyanazzal az üggyel kapcsolatos adóadat átadási, kézbesítési vagy behajtási megkeresés keltének napjáig öt év eltelt. Egyidejű foglalás esetén az adóhatóságok megegyezése szerint kell folytatni a végrehajtást. Más adóhatósággal történő egyidejű foglalás esetén a végrehajtást az állami adóhatóság folytatja le.
+(4) Amennyiben ugyanazt az ingóságot vagy ingatlant több adóhatóság is lefoglalta, a végrehajtás folytatására és az értékesítésre az a végrehajtó jogosult és köteles, aki a vagyontárgyat a többi végrehajtót megelőzően foglalta le. Egyidejű foglalás esetén az adóhatóságok megegyezése szerint kell folytatni a végrehajtást. Más adóhatósággal történő egyidejű foglalás esetén a végrehajtást az állami adóhatóság folytatja le.
 
 (5) Ha az illetékesség megszűnéséről az adóhatóság a végrehajtási cselekmény foganatosítását követően szerez tudomást, az illetékességváltozás a már foganatosított végrehajtási cselekmények hatályát nem érinti.
 
@@ -3836,7 +3836,7 @@ F) Egyes adóterhet nem viselő járandóságokat folyósító szerv adatszolgá
 
 a) A nyugdíjat, rehabilitációs járadékot folyósító szerv – az állami adóhatóságnak az Art. 31. §-ának (2) bekezdése szerinti bevallásban lévő adatok alapján a nyugdíj mellett munkát vállaló személyekre a természetes személyazonosító adatok és az adóazonosító jel feltüntetésével az adóévet követő év január 31. napjáig teljesített elektronikus adatszolgáltatása alapján – az előzőekben megjelölt adatok feltüntetésével az adóévet követő év február 15. napjáig az állami adóhatóság felé elektronikus úton adatot szolgáltat a kifizetett nyugellátás, rehabilitációs járadék adóévi összegéről. Az állami adóhatóság a kiegészítő tevékenységet folytató egyéni vállalkozókra az előzőekben meghatározott feltételek szerinti adatszolgáltatást az adóévet követő év március 15-ig, a nyugdíjat, rehabilitációs járadékot folyósító szerv pedig március 31-ig teljesíti.
 
-b) A családi pótlékot, anyasági támogatást folyósító szerv elektronikus úton az állami adóhatósághoz az adóévet követő január 31-éig adatot szolgáltat azon személyek természetes személyazonosító adatairól, lakcíméről, adóazonosító jeléről, akik részére családi pótlékot, anyasági támogatást fizetett ki, valamint az említett ellátás, támogatás adóévi összegéről, továbbá a gyermekre tekintettel családi pótlékra jogosult szülővel együtt élő házastárs vagy élettárs természetes személyazonosító adatairól, lakcíméről, adóazonosító jeléről vagy arról, hogy az igénylő az ellátást egyedülállóként vette igénybe.
+b) Az anyasági támogatást folyósító szerv elektronikus úton az állami adóhatósághoz az adóévet követő január 31-éig adatot szolgáltat azon személyek természetes személyazonosító adatairól, lakcíméről, adóazonosító jeléről, akik részére anyasági támogatást fizetett ki, valamint az említett ellátás, támogatás adóévi összegéről.
 
 G) Hatósági adatszolgáltatás
 

@@ -46,7 +46,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - d) a Magyar Nemzeti Vagyonkezelő Zrt.-re,
 - e)
 - f)
-- g) a 130/A–130/D. §, a 130/H–130/O. §, a 2. számú melléklet V. fejezete és a 3. számú melléklet II. fejezetének 1.1–1.3 pontja kivételével a külön jogszabály alapján létrehozott Diákhitel Központra.
+- g) a 130/A–130/D. §, a 130/H–130/O. §, a 2. számú melléklet V. fejezete és a 3. számú melléklet II. fejezetének 1.1–1.3 pontja kivételével a külön jogszabály alapján létrehozott Diákhitel Központra,
 
 (3) E törvény hatálya a Magyar Nemzeti Bankra (a továbbiakban: MNB) kizárólag az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatások engedélyezése, valamint az engedélyek visszavonása, továbbá azon rendelkezések tekintetében terjed ki, ahol e törvény az MNB-t kifejezetten nevesíti.
 
@@ -2112,11 +2112,9 @@ ellenőrző befolyást szerez, akkor a (9) bekezdésben foglaltak alkalmazásako
 
 (4) A kockázatvállalást tartalmazó szerződés tartama alatt a hitelintézet rendszeresen figyelemmel kíséri és dokumentálja a szerződésben foglalt feltételek megvalósulását, beleértve az ügyfél pénzügyi, gazdasági helyzetének alakulását és az (1) bekezdésben foglaltakat.
 
-78/A. § (1) Pénzügyi intézmény által vállalt, a sztenderd módszer alkalmazásakor a 76/A. § (1) bekezdés i) pontjába sorolható kitettségi osztály esetén, a kitettség vállaláskori értéke – ha a kockázattal súlyozott kitettség érték meghatározásához az ingatlanon kívül nincs más elismerhető hitelkockázati fedezet – nem haladhatja meg az ingatlan piaci értékének száz százalékát.
+78/A. § (1) Pénzügyi intézmény által vállalt, a sztenderd módszer alkalmazásakor a 76/A. § (1) bekezdés i) pontjába sorolható kitettségeinek együttes értéke nem haladhatja meg a fedezetül szolgáló ingatlanok együttes piaci értékének hetven százalékát.
 
-(2) A pénzügyi intézmény (1) bekezdésben meghatározott kitettségeinek együttes értéke nem haladhatja meg a fedezetül szolgáló ingatlanok együttes piaci értékének hetven százalékát.
-
-(3) E § alkalmazásában az ingatlan piaci értéke az a becsült összeg, amelyért az ingatlan tulajdonjoga gazdát cserélhetne magánjogi adásvételi szerződés keretében, egy önkéntes eladó és egy önkéntes vevő között, megfelelő marketingtevékenységet követően, tisztességes feltételek mellett történő tranzakció keretében, amelynek során a felek jólértesülten, ésszerűen, körültekintően és kényszer nélkül járnak el. Az értékmeghatározásnál más jogszabályban leírtak szerint, a termőföldnek nem minősülő ingatlanok hitelbiztosítéki értékének meghatározására vonatkozó módszertan az irányadó.
+(2) E § alkalmazásában az ingatlan piaci értéke az a becsült összeg, amelyért az ingatlan tulajdonjoga gazdát cserélhetne magánjogi adásvételi szerződés keretében, egy önkéntes eladó és egy önkéntes vevő között, megfelelő marketingtevékenységet követően, tisztességes feltételek mellett történő tranzakció keretében, amelynek során a felek jólértesülten, ésszerűen, körültekintően és kényszer nélkül járnak el. Az értékmeghatározásnál más jogszabályban leírtak szerint, a termőföldnek nem minősülő ingatlanok hitelbiztosítéki értékének meghatározására vonatkozó módszertan az irányadó.
 
 ### Nagykockázat vállalásának korlátozása
 
@@ -4409,25 +4407,9 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (4) A hitelező köteles a fogyasztót a fogyasztási kölcsönszerződés megkötésekor minden olyan szerződési feltételről tájékoztatni, amely jogszabály alapján válik a szerződés részévé.
 
-214. § (1) Fogyasztási kölcsön esetében az ügyfél – a szerződés megszüntetése érdekében – minden esetben élhet a határidő (lejárat) előtti teljesítés (törlesztés) jogával.
+214. §
 
-(2) Ha a fogyasztó él az (1) bekezdésben meghatározott jogával, a hitelező köteles a hiteldíjat arányosan csökkenteni.
-
-214/A. § (1) Ha a fogyasztó a kölcsönt olyan, a hitelező és az áru vagy szolgáltatás értékesítője közötti előzetes megállapodásra tekintettel kapja, melynek értelmében a fogyasztónak kizárólag az adott hitelező nyújthat kölcsönt az értékesítőtől áru vásárlására vagy szolgáltatás igénybevételére, és
-
-- a) az értékesítő a fogyasztóval kötött szerződés teljesítésével késedelembe esik vagy hibásan teljesít, és
-- b) a fogyasztó késedelemből, illetve hibás teljesítésből eredő követeléseinek az értékesítő nem tett határidőben eleget,
-
-a fogyasztó a fogyasztási kölcsönszerződés alapján esedékessé váló fizetést visszatarthatja az igénye kielégítéséig. Erre az időszakra kamat nem számítható fel. A visszatartási jog gyakorlását megalapozó körülményekről a fogyasztó az erre vonatkozó okiratok megküldésével köteles írásban tájékoztatni a hitelezőt. A visszatartási jog a tájékoztatást követően illeti meg a fogyasztót.
-
-(2) Ha a fogyasztó a szerződéstől az értékesítő szerződésszegése miatt eláll, egyúttal jogosult a fogyasztási kölcsönszerződéstől is elállni. Az elállás alapján a hitelező köteles a fogyasztó által addig kifizetett összeg azonnali visszafizetésére. A hitelező az általa folyósított kölcsön visszafizetését csak az értékesítőtől követelheti, kivéve, ha az a vételárat a fogyasztónak visszafizette. A fogyasztótól az elállásra, illetve az eredeti állapot helyreállítására tekintettel kamat, költség, kártérítés nem követelhető.
-
-(3) Az (1) és (2) bekezdésben foglalt rendelkezést nem kell alkalmazni:
-
-- a) azokra a hitel-megállapodásokra, melyek összege hatvanezer forintnál kisebb, vagy hatmillió forintnál nagyobb,
-- b) azokra a hitel-megállapodásokra, amelyek alapján a fogyasztónak a hitelt vagy három hónapot meg nem haladó időszak alatt, vagy tizenkét hónapot meg nem haladó időszak alatt legfeljebb négy fizetési részletben kell visszafizetni,
-- c) azokra a hitel-megállapodásokra, melyeket közokiratba foglaltak,
-- d) azokra a hitel-megállapodásokra, melyeket ingatlanon kikötött jelzálogjog fedezete mellett kötöttek.
+214/A. §
 
 214/B. § Fogyasztási kölcsönszerződés esetén a Ptk. 329. §-ában foglaltaktól a fogyasztó hátrányára eltérni nem lehet.
 
@@ -4441,7 +4423,11 @@ a fogyasztó a fogyasztási kölcsönszerződés alapján esedékessé váló fi
 
 ### Tájékoztatás egyes betéti és hitelszerződések tekintetében
 
+### [Tájékoztatás egyes betétszerződések tekintetében]
+
 214/D. § A kereskedelmi kommunikációban – az e törvény végrehajtására kiadott jogszabályban meghatározott esetekben – fel kell tüntetni a betét egységesített betéti kamatláb mutatóját, illetve a pénzügyi intézmény által folyósított, három hónapnál hosszabb lejáratú lakossági kölcsön teljes hiteldíjmutatóját. E mutatók számítására és feltüntetésük módjára vonatkozó szabályokat az e törvény végrehajtására kiadott külön jogszabály határozza meg.
+
+[214/D. § A kereskedelmi kommunikációban – az e törvény végrehajtására kiadott jogszabályban meghatározott esetekben – fel kell tüntetni a betét egységesített betéti kamatláb mutatóját. E mutató számítására és feltüntetése módjára vonatkozó szabályokat az e törvény végrehajtására kiadott külön jogszabály határozza meg.]
 
 ### Bankszünnap
 
