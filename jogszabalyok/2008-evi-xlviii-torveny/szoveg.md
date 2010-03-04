@@ -243,7 +243,7 @@ vonatkoznak.
 
 (2) Az eljáró hatóság ellenőrzése keretében kérheti az 5. § (3) bekezdése, valamint a 6. § (5) bekezdése szerinti nyilvántartás bemutatását.
 
-27. § Az eljáró hatóság, illetve a bíróság a még közzé nem tett reklám közzétételét megtiltja, ha megállapítja, hogy a reklám – közzététele esetén – a gazdasági reklámtevékenységre vonatkozó rendelkezésbe ütközne. A közzététel megtiltása mellett bírság kiszabásának nincs helye.
+27. §
 
 28. § (1) Ha a Gazdasági Versenyhivatal a 24. § (2) és (3) bekezdése, illetve a 31. § alapján jár el, eljárására a Tpvt.-nek a Tpvt. III. fejezetének rendelkezéseibe ütköző magatartásokkal szembeni eljárásra vonatkozó rendelkezéseit kell megfelelően alkalmazni a 29. § (1) bekezdésében, a 30. §-ban, továbbá a 27. §-ban foglalt eltérésekkel.
 
