@@ -270,7 +270,15 @@ Különleges lehívási jogok rendkívüli, egyszeri szétosztása
 
 „k) Amennyiben az Alap a fentic) bekezdés szerint a jelen alapokmány második módosításának időpontját követően általa megszerzett aranyat ad el, a bevételből az arany beszerzési árával egyező összeg elhelyezésre kerül az Általános Eszközök Számlán, a fennmaradó rész pedig a Befektetési Számlán kerül elhelyezésre a XII. cikk 6. szakasza f) pontjának rendelkezéseivel összhangban lévő felhasználás céljából. Amennyiben a jelen alapokmány második módosítását követően megszerzett arany kerül eladásra 2008. április 7. után, de a jelen rendelkezés hatálybalépésének időpontja előtt, akkor a jelen rendelkezés hatálybalépésekor, figyelmen kívül hagyva a XII. cikk 6. szakasza f) (ii) pontjában rögzített korlátozásokat, az Alapnak az Általános Eszközök Számláról a Befektetési Számlára kell utalnia az eladásból származó bevételnek (i) az eladott arany beszerzési árával, és (ii) a beszerzési áron felüli bevételek azon részével, ami már a jelen rendelkezés hatálybalépésének időpontját megelőzően átutalásra kerülhetett volna a Befektetési Számlára, csökkentett összegét.””
 
-6. §
+6. § A Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény a 42. §-t követően a következő új 42/A. §-sal egészül ki:
+
+„42/A. § (1) A Nemzetközi Valutaalap által a Magyar Köztársaság tagságát illetően hozott határozat, valamint az alapokmány értelmében a Nemzetközi Valutaalapnak időszakonként fizetendő összegeket jogszabályban vagy az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott megfelelő forrásokból a Magyar Köztársaság nevében kifizetést teljesítő szerv az MNB, beleértve a Nemzetközi Valutaalap Különleges Lehívási Jogok Főosztályában való részvétellel kapcsolatos fizetések teljesítését is.
+
+(2) Az MNB a Nemzetközi Valutaalap alapokmányával összhangban, a Magyar Köztársaság tagságával összefüggésben, át nem ruházható, kamatfizetési kötelezettséget nem tartalmazó váltókat állíthat ki a Nemzetközi Valutaalap javára.
+
+(3) A Nemzetközi Valutaalap alapokmánya által megkívánt pénzügyi szerv feladatát a Magyar Köztársaság részéről az MNB látja el. Ezzel összefüggésben az MNB a felhatalmazott szerv arra, hogy a Magyar Köztársaság nevében a Nemzetközi Valutaalap alapokmányának rendelkezései alapján végrehajtható valamennyi műveletet és ügyletet létrehozza és lebonyolítsa, ideértve azt is, hogy a Nemzetközi Valutaalap alapokmányának rendelkezései alapján a Magyar Köztársaságnak átutalt vagy fizetett bármilyen összeg tekintetében a pénzügyi szerv minőségében jogosultként járjon el.
+
+(4) A Nemzetközi Valutaalapnak a Magyar Köztársaságban tartott valutakészleteit kijelölt letéteményesként az MNB őrzi.”
 
 7. § (1) E törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő 8. napon lép hatályba.
 
@@ -280,8 +288,8 @@ Különleges lehívási jogok rendkívüli, egyszeri szétosztása
 
 (4) E törvény végrehajtásához szükséges intézkedésekről a nemzetközi pénzügyi kapcsolatokért felelős miniszter gondoskodik.
 
-(5) A Nemzetközi Valutaalap Magyarország részéről történő értesítéséről a Magyarországot a Nemzetközi Valutaalapban képviselő kormányzó gondoskodik.
+(5) A Nemzetközi Valutaalap Magyar Köztársaság által történő értesítéséről a Magyar Köztársaságot a Nemzetközi Valutaalapban képviselő kormányzó gondoskodik.
 
 (6) Felhatalmazást kap a nemzetközi pénzügyi kapcsolatokért felelős miniszter, hogy az Egyezmény harmadik, negyedik és ötödik módosításával egységes szerkezetbe foglalt, hiteles szövegét és annak magyar nyelvű hivatalos fordítását az alapokmány ötödik módosításának hatálybalépését követően közzétegye.
 
-(7)
+(7) A 6. § az e törvény hatálybalépését követő napon hatályát veszti. E bekezdés az e törvény hatálybalépését követő második napon hatályát veszti.

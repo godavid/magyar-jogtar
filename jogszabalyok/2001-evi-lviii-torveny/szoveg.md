@@ -336,6 +336,14 @@ során.
 
 42. § A Kormány, illetve a minisztériumok (központi államigazgatási szervek) az MNB kérésére tevékenységükkel kapcsolatban információt nyújtanak.
 
+42/A. § (1) A Nemzetközi Valutaalap által a Magyar Köztársaság tagságát illetően hozott határozat, valamint az alapokmány értelmében a Nemzetközi Valutaalapnak időszakonként fizetendő összegeket jogszabályban vagy az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott megfelelő forrásokból a Magyar Köztársaság nevében kifizetést teljesítő szerv az MNB, beleértve a Nemzetközi Valutaalap Különleges Lehívási Jogok Főosztályában való részvétellel kapcsolatos fizetések teljesítését is.
+
+(2) Az MNB a Nemzetközi Valutaalap alapokmányával összhangban, a Magyar Köztársaság tagságával összefüggésben, át nem ruházható, kamatfizetési kötelezettséget nem tartalmazó váltókat állíthat ki a Nemzetközi Valutaalap javára.
+
+(3) A Nemzetközi Valutaalap alapokmánya által megkívánt pénzügyi szerv feladatát a Magyar Köztársaság részéről az MNB látja el. Ezzel összefüggésben az MNB a felhatalmazott szerv arra, hogy a Magyar Köztársaság nevében a Nemzetközi Valutaalap alapokmányának rendelkezései alapján végrehajtható valamennyi műveletet és ügyletet létrehozza és lebonyolítsa, ideértve azt is, hogy a Nemzetközi Valutaalap alapokmányának rendelkezései alapján a Magyar Köztársaságnak átutalt vagy fizetett bármilyen összeg tekintetében a pénzügyi szerv minőségében jogosultként járjon el.
+
+(4) A Nemzetközi Valutaalapnak a Magyar Köztársaságban tartott valutakészleteit kijelölt letéteményesként az MNB őrzi.
+
 ### Kapcsolata Pénzügyi Szervezetek Állami Felügyeletével
 
 43. § (1) Az MNB feladatai ellátása során együttműködik a Felügyelettel.
