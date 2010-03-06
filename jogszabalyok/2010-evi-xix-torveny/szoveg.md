@@ -730,7 +730,7 @@ d) amennyiben mindkét fél nemzeti jogszabályai és szabályzatai lehetővé t
 
 Az e melléklet 1. szakaszában foglaltak ellenére az e megállapodás 1. cikke szerint a „terület” fogalom- meghatározásába nem tartozó területek tekintetében továbbra is alkalmazni kell a d) Dán Királyság, f) Francia Köztársaság, l) Holland Királyság, és r) Nagy-Britannia és Észak-Írország Egyesült Királysága pontokban szereplő megállapodásokat, azok rendelkezéseinek megfelelően.”
 
-4. §
+4. § Az Országgyűlés jóváhagyja a Megállapodás 23. cikkének (2) bekezdésében meghatározott időponttól kezdődően történő ideiglenes alkalmazását.
 
 5. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -738,7 +738,7 @@ Az e melléklet 1. szakaszában foglaltak ellenére az e megállapodás 1. cikke
 
 (3) E törvény 4. §-a, valamint 5. §-ának (4) bekezdése a Megállapodás 23. cikkének (1) bekezdésében meghatározott időpontban hatályát veszti.
 
-(4)
+(4) E törvény hatályát veszti, amennyiben az Európai Unió Tanácsa arról értesíti a Magyar Köztársaságot, hogy valamely szerződő fél nem kíván a Megállapodásban részes féllé válni.
 
 (5) A Megállapodás hatálybalépésének naptári napját, valamint a (2)–(4) bekezdésében meghatározott időpont naptári napját a külpolitikáért felelős miniszter azok ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
