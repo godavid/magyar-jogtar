@@ -284,4 +284,4 @@ Különleges lehívási jogok rendkívüli, egyszeri szétosztása
 
 (6) Felhatalmazást kap a nemzetközi pénzügyi kapcsolatokért felelős miniszter, hogy az Egyezmény harmadik, negyedik és ötödik módosításával egységes szerkezetbe foglalt, hiteles szövegét és annak magyar nyelvű hivatalos fordítását az alapokmány ötödik módosításának hatálybalépését követően közzétegye.
 
-(7) A 6. § az e törvény hatálybalépését követő napon hatályát veszti. E bekezdés az e törvény hatálybalépését követő második napon hatályát veszti.
+(7)
