@@ -465,7 +465,7 @@ teszi szükségessé.
 
 47. § A miniszter az állatvédelmi hatósági feladatok ellátásának elősegítésére, valamint a társadalmi részvétel biztosítása érdekében szakértői testületet hoz létre. A testületben biztosítja az érintett szakmai szervezetek és a bejegyzett országos állatvédő társadalmi szervezetek részvételét.
 
-48. § (1) Az e törvényben szabályozott, az állatvédelmi jogszabályok megsértése miatt indult hatósági eljárásokban a Nemzeti Civil Alapprogramról szóló törvény szerinti azon civil szervezeteket, amelyek tevékenysége az állatok védelmére irányul, az ügyfél jogállása illeti meg.
+48. § (1) A Nemzeti Civil Alapprogramról szóló törvény szerinti azon civil szervezeteket, amelyek tevékenysége az állatok védelmére irányul, az állatvédelmi jogszabályok megsértése miatt általuk kezdeményezett hatósági eljárásokban az ügyfél jogállása illeti meg.
 
 (2) Az állatvédelmi jogszabályok megsértése miatt – az ilyen magatartástól való eltiltás iránt – a bíróság előtt az (1) bekezdésben megjelölt szervezet pert indíthat.
 
