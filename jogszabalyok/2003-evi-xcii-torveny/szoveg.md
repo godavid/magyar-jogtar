@@ -1223,7 +1223,7 @@ szükséges,
 
 (5) Az állami adóhatóság negyedévenként, a negyedévet követő 30 napon belül honlapján közzéteszi annak az adózónak nevét (elnevezését), lakóhelyét, székhelyét, telephelyét, adószámát, akinek (amelynek) 180 napon keresztül folyamatosan fennálló, az állami adóhatóságnál nyilvántartott túlfizetéssel csökkentett adótartozása összességében számítva a 100 millió forintot, magánszemély esetében nettó módon számítva a 10 millió forintot meghaladja.
 
-(6) Az állami adóhatóság a munkaügyi kapcsolatok rendezettsége törvényi feltételeinek más szervek eljárásában történő felhasználása céljából a honlapján folyamatosan nyilvánosságra hozza azoknak az adózóknak a nevét, székhelyét, adószámát (adószámmal nem rendelkező természetes személy foglalkoztató nevét, lakcímét, adóazonosító jelét), akik (amelyek) tekintetében jogerős és végrehajtható közigazgatási vagy bírósági határozat megállapította, hogy nem tettek eleget a 16. § (4) bekezdésének a) pontjában foglalt bejelentési kötelezettségüknek. Az adóhatóság a honlapján ezen adózók nevének (székhelyének, adószámának) feltüntetése mellett a jogsértést megállapító határozat keltét és végrehajthatóvá válásának napját nyilvánosságra hozza. Ha az adóhatóság határozatának bírósági felülvizsgálata iránt keresetet indítottak, az adatok közzétételére a bíróság jogerős és végrehajtható határozata alapján kerül sor. Az adóhatóság a honlapján közzétett adózók adatait – feltéve, hogy a közzététel alapjául szolgáló jogsértést az adózó ismételten nem követte el – a közzétételtől számított két év elteltével törli.
+(6) Az állami adóhatóság a munkaügyi kapcsolatok rendezettsége törvényi feltételeinek más szervek eljárásában történő felhasználása céljából a honlapján folyamatosan nyilvánosságra hozza azoknak az adózóknak a nevét, székhelyét, adószámát (adószámmal nem rendelkező természetes személy foglalkoztató nevét, lakcímét, adóazonosító jelét), akik (amelyek) tekintetében jogerős és végrehajtható közigazgatási vagy bírósági határozat megállapította, hogy nem tettek eleget az Áht. 15. § (5) bekezdés a) pontjában foglalt kötelezettségüknek, kivéve, ha a munkáltató az Áht. 15. § (8) bekezdésében foglalt feltételnek megfelel. Az adóhatóság a honlapján ezen adózók nevének (székhelyének, adószámának) feltüntetése mellett a jogsértést megállapító határozat keltét és végrehajthatóvá válásának napját nyilvánosságra hozza. Ha az adóhatóság határozatának bírósági felülvizsgálata iránt keresetet indítottak, az adatok közzétételére a bíróság jogerős és végrehajtható határozata alapján kerül sor. Az adóhatóság a honlapján közzétett adózók adatait – feltéve, hogy a közzététel alapjául szolgáló jogsértést az adózó ismételten nem követte el – a közzétételtől számított két év elteltével törli.
 
 (7) Az állami adóhatóság (6) bekezdés szerinti közzétételi kötelezettségét nem érinti, ha az adózó a terhére megállapított, jogerős közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
 
@@ -1235,7 +1235,11 @@ szükséges,
 
 56. § (1) Az Európai Közösség adóügyi együttműködési szabályainak alkalmazása tekintetében illetékes hatóság – a vám és a jövedéki adó kivételével – az állami adóhatóság Kormány által kijelölt szerve (a továbbiakban: kapcsolattartó közigazgatási szerv).
 
+[(1) Az Európai Közösség adóügyi együttműködési szabályainak alkalmazása tekintetében illetékes hatóság, központi összekötő hivatal, összekötő szerv – a vám és a jövedéki adó kivételével, valamint a (3) bekezdésben meghatározott kivétellel – az állami adóhatóság vagy a vámhatóság Kormány által kijelölt szerve (a továbbiakban együtt: kapcsolattartó közigazgatási szerv).]
+
 (2) Az Európai Közösség tagállamai illetékes hatóságának jogsegély iránti megkeresése a magyar hatóságoktól érkezett megkeresésekkel azonos megítélés alá esik.
+
+[(3) Az 1798/2003/EK rendelet 2. cikk 1. pontja szerinti illetékes hatóság az adópolitikáért felelős miniszter.]
 
 ### Adómegállapítási jogsegély
 
@@ -1994,6 +1998,12 @@ hatósági eljárás.
 (7) Ha az adóhatóság a hatósági eljárásban az előírt határidőn belül nem hoz határozatot, az nem jár azzal a következménnyel, hogy az adózót megilleti a kérelmezett jog gyakorlása.
 
 (8) Adózói adatigazolás hiányában az adóhatóság adóügyben nem köteles az ügyfél által nem igazolt nyilvános vagy valamely hatóság, bíróság, valamint a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában kezelt adat beszerzésére.
+
+[(8) Adóügyekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénynek a kérelemre vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy
+
+a) az adózótól – az azonosításához szükséges adatok kivételével – nem kérhető olyan adat igazolása, amelyet valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvános nyilvántartásának tartalmaznia kell, vagy amelyet ilyen nyilvántartásból az adóhatóság közvetlen adathozzáféréssel megszerezhet, ebben az esetben az adatszolgáltatásért díj nem számítható fel,
+
+b) – jogszabály eltérő rendelkezése hiányában – az adózó nem kérheti az adóhatóságnál, hogy az (1) bekezdésen túlmenően más szervet adatszolgáltatás iránt keressen meg.]
 
 121. § Az adóhatóság, ha a hatósági eljárást ellenőrzés előzte meg, az ellenőrzés során feltárt tényállást veszi alapul, illetőleg, ha az a tényállás tisztázásához szükséges, az ellenőrzés során alkalmazható bizonyítást folytat le.
 
