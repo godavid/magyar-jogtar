@@ -68,7 +68,7 @@ szabályait.
 - f) az e törvény szerinti felnőttképzési szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
 - g) a 20/A. § (1) és (2) bekezdéseiben foglaltak figyelembevételével azon informatikai végzettséggel vagy a megfelelő informatikai kompetenciákkal rendelkezők körét, akik mentesülnek a digitális írástudás elsajátítására irányuló képzési részek alól,
 - h) a felnőttképzésben résztvevők adatai elektronikus nyilvántartásának részletes szabályait,
-- i) – az informatikáért felelős miniszterrel és az oktatásért felelős miniszterrel egyetértésben – a 20/A. § (2) bekezdésében meghatározottakon túl a digitális írástudás megszerzéséhez szükséges ismereteket és kompetenciákat, valamint azon felnőttképzési programok körét, amelyek esetében 240 órát meg nem haladó időtartamú képzés esetében is kötelező a digitális írástudás megszerzése.
+- i)
 
 (4) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály a felnőttképzési szakterületen felnőttképzési szakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a felnőttképzési szakterületen szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik a miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
@@ -280,9 +280,9 @@ szabályait.
 
 ### Az élethosszig tartó tanulás feltételeinek biztosítása
 
-20/A. § (1) A digitális írástudás megszerzése minden a 21. § (2)–(3) bekezdés szerinti forrásból támogatott, összességében legalább 240 órát meghaladó időtartamú – ezt nem meghaladó időtartam esetében külön rendeletben meghatározott – felnőttképzési program tartalmának kötelező része, függetlenül attól, hogy általános, nyelvi vagy szakmai képzés valósul-e meg e törvény keretei között.
+20/A. § (1) A 21. § (2)–(3) bekezdés szerinti forrásból támogatott, összességében legalább 240 órát meghaladó időtartamú képzési programot a digitális írástudás megszerzését szolgáló, a (2) bekezdés szerinti képzési modulokat tartalmazó képzési programmal együtt kell megvalósítani. A digitális írástudás képzési programjához szükséges pénzügyi forrást a támogatásban részesülő képzési program terhére kell biztosítani.
 
-(2) A digitális írástudás megszerzéséhez szükséges ismeretek és kompetenciák körét az Európai Számítógép-használói Jogosítvány „Internet és kommunikáció” valamint „Operációs rendszerek” moduljai írják le. Az egyéb szükséges ismeretek és kompetenciák meghatározását, valamint azon felnőttképzési programok körét, amelyek esetében 240 órát meg nem haladó időtartamú képzés esetében is kötelező a digitális írástudás megszerzése, a miniszter az informatikáért felelős miniszterrel, valamint az oktatásért felelős miniszterrel egyetértésben rendeletben határozza meg.
+(2) A digitális írástudás megszerzéséhez szükséges ismeretek és kompetenciák körét az Európai Számítógéphasználói Jogosítvány „Internet és kommunikáció”, valamint „Operációs rendszerek” moduljai írják le.
 
 ## IV. RÉSZ — FELNŐTTKÉPZÉSI TÁMOGATÁSOK
 
