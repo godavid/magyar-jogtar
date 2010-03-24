@@ -31,14 +31,16 @@ a Schengeni Végrehajtási Egyezmény keretében történő együttműködésrő
 
 (4) A SIRENE Iroda nyilvántartást vezet a kiegészítő információk beszerzéséről, továbbításáról és az ahhoz történő hozzáférési jogosultságokról.
 
+(5) A SIRENE Iroda a (2)–(4) bekezdésben meghatározott feladatokkal érintett személyes adatok tekintetében adatkezelő.
+
 5. § (1) A SIS-be figyelmeztető jelzést kell elhelyezni:
 
 - a) arról, akivel szemben átadás céljából európai elfogatóparancsot vagy kiadatás céljából nemzetközi elfogatóparancsot bocsátottak ki,
 - b) arról, akit a rendőrségről szóló törvény szerinti eltűnt személynek kell tekinteni, és emiatt körözését rendelték el,
 - c) arról, akit a büntetőeljárásban terheltként vagy tanúként kívánnak idézni, de lakó- vagy tartózkodási helye ismeretlen és emiatt körözését rendelték el,
 - d) arról, aki szabadságvesztés büntetésének letöltését, vagy a vele szemben elrendelt kényszergyógykezelés végrehajtását nem kezdte meg, és emiatt körözését rendelték el, de az európai elfogatóparancs vagy a nemzetközi elfogatóparancs kibocsátásának törvényi feltételei nem állnak fenn,
-- e) arról a nem EGT-állampolgár külföldiről, aki beutazási és tartózkodási tilalom hatálya alatt áll, kivéve, ha a beutazási és tartózkodási tilalom elrendelésére a kiszabott, de meg nem fizetett helyszíni bírság vagy szabálysértési bírság végrehajtásának eredménytelensége miatt került sor,
-- f) arról a személyről vagy gépjárműről, akivel avagy amellyel kapcsolatban az eljárás jellegének leplezésével (puhatolás) vagy a kilétét leplező fedett nyomozó igénybevételével a Rendőrség vagy a Vám- és Pénzügyőrség információgyűjtést vagy adatellenőrzést végez,
+- e) arról a nem EGT-állampolgár külföldiről, aki beutazási és tartózkodási tilalom hatálya alatt áll, kivéve, ha a beutazási és tartózkodási tilalom elrendelésére a magyar állam által megtérítési kötelezettséggel megelőlegezett költség vissza nem térítése vagy a kiszabott, de meg nem fizetett helyszíni bírság vagy szabálysértési bírság végrehajtásának eredménytelensége miatt került sor,
+- f) arról a személyről vagy gépjárműről, akivel vagy amellyel kapcsolatban a Rendőrség vagy a Vám- és Pénzügyőrség leplezett figyelést rendelt el,
 - g) arról a 6. § (3) bekezdésében meghatározott tárgyról, amelynek körözését rendelték el,
 - h) arról az okmányról, illetve annak a gépjárműnek a hatósági jelzéséről, amelynek elvesztését, eltulajdonítását, megsemmisülését az okmányra vonatkozó központi hatósági nyilvántartásba bejegyezték.
 
@@ -71,13 +73,7 @@ a Schengeni Végrehajtási Egyezmény keretében történő együttműködésrő
 
 7. § (1) Az 5. § (1) bekezdésének f) pontja alapján figyelmeztető jelzés elhelyezésére abban az esetben van lehetőség, ha megalapozottan feltehető, hogy az információgyűjtéssel vagy adatellenőrzéssel érintett személy öt évi vagy azt meghaladó szabadságvesztéssel büntetendő bűntettet fog elkövetni (készít elő) a SIS-t alkalmazó állam területén, abban az esetben is, ha a magyar törvény szerint az előkészület nem büntetendő.
 
-(2) A SIS-t alkalmazó külföldi állam figyelmeztető jelzése alapján végzett – az 5. § (1) bekezdésének f) pontja szerinti – információgyűjtés vagy adatellenőrzés eredményeként a Rendőrség, illetve a Vám- és Pénzügyőrség a következő adatot továbbíthatja a SIRENE Irodán keresztül az adott figyelmeztető jelzést kibocsátó külföldi hatóságnak:
-
-- a) a figyelmeztető jelzéssel érintett személy vagy jármű megtalálásának ténye, körülményei,
-- b) az intézkedés helye, ideje, indoka,
-- c) az útvonal és az úti cél,
-- d) a használt jármű azonosításához szükséges adatok,
-- e) a szállított tárgyakra vonatkozó adatok.
+(2) Az 5. § (1) bekezdés f) pontja alapján a Rendőrség figyelmeztető jelzést helyez el a polgári nemzetbiztonsági szolgálatok megkeresésére is abban az esetben, ha a Magyar Köztársaság vagy más, SIS-t alkalmazó külföldi állam nemzetbiztonságát sértő vagy veszélyeztető tevékenység elhárítása érdekében az indokolt.
 
 8. § Az 5. § (1) bekezdésének a) pontja esetén a 6. § (1) bekezdése és a 14. § szerinti adatokat az európai vagy nemzetközi elfogatóparancsot kibocsátó bíróság megküldi a SIRENE Irodának, amely továbbítja az N.SIS Hivatalnak a figyelmeztető jelzés N.SIS-be történő elhelyezése céljából.
 

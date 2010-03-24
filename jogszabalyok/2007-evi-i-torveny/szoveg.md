@@ -46,9 +46,9 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 3. § (1) Az EGT-állampolgár érvényes úti okmánnyal vagy személyazonosító igazolvánnyal jogosult beutazni a Magyar Köztársaság területére.
 
-(2) Az EGT-állampolgárt, illetve a magyar állampolgárt kísérő vagy a Magyar Köztársaság területén tartózkodó EGT-állampolgárhoz, illetve magyar állampolgárhoz csatlakozó harmadik ország állampolgárságával rendelkező családtag érvényes úti okmánnyal és – amennyiben közvetlenül alkalmazandó európai közösségi jogi aktus vagy nemzetközi szerződés másként nem rendelkezik – érvényes vízummal jogosult beutazni a Magyar Köztársaság területére.
+(2) Az EGT-állampolgárt, illetve a magyar állampolgárt kísérő vagy a Magyar Köztársaság területén tartózkodó EGT-állampolgárhoz, illetve magyar állampolgárhoz csatlakozó harmadik ország állampolgárságával rendelkező családtag érvényes úti okmánnyal és – amennyiben közvetlenül alkalmazandó európai közösségi jogi aktus vagy nemzetközi szerződés másként nem rendelkezik – érvényes három hónapot meg nem haladó tartózkodásra jogosító vízummal jogosult beutazni a Magyar Köztársaság területére.
 
-(3) Érvényes úti okmánnyal és – amennyiben közvetlenül alkalmazandó európai közösségi jogi aktus vagy nemzetközi szerződés másként nem rendelkezik – érvényes vízummal családtagként jogosult beutazni a Magyar Köztársaság területére az a harmadik ország állampolgárságával rendelkező személy is, aki
+(3) Érvényes úti okmánnyal és – amennyiben közvetlenül alkalmazandó európai közösségi jogi aktus vagy nemzetközi szerződés másként nem rendelkezik – érvényes három hónapot meg nem haladó tartózkodásra jogosító vízummal családtagként jogosult beutazni a Magyar Köztársaság területére az a harmadik ország állampolgárságával rendelkező személy is, aki
 
 - a) a magyar állampolgár eltartottja, vagy vele legalább egy éve egy háztartásban él, illetve akiről súlyos egészségügyi okból a magyar állampolgár személyesen gondoskodik, vagy
 - b) – abban az országban, ahonnan érkeznek – az EGT-állampolgár eltartottja volt, vagy vele legalább egy évig egy háztartásban élt, illetve akiről súlyos egészségügyi okból az EGT-állampolgár személyesen gondoskodik.
@@ -291,7 +291,7 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 28. § (1) Az EGT-állampolgár, valamint a családtag úti okmányának, személyazonosító igazolványának, illetve a tartózkodási jogát igazoló okmányának eltulajdonítását, megsemmisülését, elvesztését, továbbá az elveszettnek hitt és bejelentett okmány megtalálását köteles bejelenteni.
 
-(2) Az eljáró hatóság az okmány körözését rendelheti el, ha az okmány holléte ismeretlen.
+(2)
 
 (3) A harmadik ország állampolgárságával rendelkező családtag az elveszett, eltulajdonított, megsemmisült vagy lejárt úti okmány helyett – ha nemzetközi szerződés másként nem rendelkezik – köteles új úti okmányt beszerezni. A harmadik ország állampolgárságával rendelkező családtag az új úti okmány és az (1) bekezdés alapján kiadott – bejelentésről szóló – igazolás birtokában hagyhatja el az ország területét.
 
@@ -653,7 +653,7 @@ bírálja el.
 
 (2) Az e törvényben szabályozott eljárásokban a másodfokon eljáró hatóság által hozott elsőfokú végzésekkel szemben nincs helye fellebbezésnek.
 
-73. § (1) A vízum kiadására irányuló eljárásban a fordítási és tolmácsolási költséget, továbbá a jeltolmácsolás költségét (a továbbiakban: az anyanyelv használatával kapcsolatos költség) a kérelmező viseli.
+73. § (1) A három hónapot meg nem haladó tartózkodásra jogosító vízum kiadására irányuló eljárásban a fordítási és tolmácsolási költséget, továbbá a jeltolmácsolás költségét (a továbbiakban: az anyanyelv használatával kapcsolatos költség) a kérelmező viseli.
 
 (2) Az (1) bekezdésben foglaltakon túlmenően az e törvényben szabályozott kérelemre indult eljárásokban a döntés közlésével felmerülő, az anyanyelv használatával kapcsolatos költségeket az eljáró hatóság viseli, az egyéb eljárási cselekmények elvégzésével felmerülő, az anyanyelv használatával kapcsolatos költséget a kérelmező viseli.
 
@@ -673,6 +673,8 @@ bírálja el.
 - f) az úti okmány, illetve a személyazonosító igazolvány elvesztését bejelentő EGT-állampolgárok és családtagok nyilvántartása.
 
 (2) A központi idegenrendészeti nyilvántartást kezelő szerv a regisztrációs igazolással, valamint a tartózkodási kártyával rendelkezők személyi azonosítóját a személyi adat- és lakcímnyilvántartással való kapcsolattartás, valamint a bűnüldöző hatóságok részére történő adatszolgáltatás céljából kezelheti.
+
+(3) Ha az EGT-állampolgár vagy családtagja megszerezte a magyar állampolgárságot, a rá vonatkozó adatokat haladéktalanul törölni kell az EGT-állampolgárok és a családtagok adatairól vezetett résznyilvántartásokból.
 
 76. § A tartózkodási jogot igazoló okmányokkal kapcsolatos, a 75. § (1) bekezdésének a)–c) pontja szerinti résznyilvántartások az érintettek tartózkodási jogot igazoló okmányával kapcsolatos következő adatokat tartalmazzák:
 
@@ -715,7 +717,7 @@ bírálja el.
 80. § (1) Az úti okmányuk, illetve személyazonosító okmányuk elvesztését bejelentő EGT-állampolgárok és családtagok nyilvántartása a következő adatokat tartalmazza:
 
 - a) az EGT-állampolgár és a családtag nevét, születési helyét és idejét, anyja nevét, állampolgárságát, személyazonosító jelét,
-- b) az elveszettként bejelentett úti okmány típusát és számát,
+- b) az elveszettként eltulajdonítottként vagy megsemmisültként bejelentett úti okmány, illetve személyazonosító igazolvány típusát és azonosító adatait, valamint a Schengeni Információs Rendszerbe elhelyezett figyelmeztető jelzés tényét,
 - c) a bejelentés időpontját,
 - d) a bejelentést felvevő szerv megnevezését,
 - e) a tartózkodási jogot igazoló okmány típusát, számát, érvényességét és a kiállító hatóság megnevezését,
@@ -928,4 +930,8 @@ c) aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutaz
 
 129. § (1) Ez a törvény a felhatalmazása alapján kiadott végrehajtási rendeletekkel együtt az Európai Parlament és a Tanács az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló 2004/38/EK irányelvnek való megfelelést szolgálja.
 
-(2) Ez a törvény a Schengeni határ-ellenőrzési kódex 5. és 13. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
+(2) Ez a törvény
+
+- a) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet 5. és 13. cikkének [3. §; 36. §];
+- b) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 6., 9., illetve 19–20. cikkének [35/A. §, 77/A. §];
+- c) a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet [2. §; 4. §; 20. §; 86. §] végrehajtásához szükséges rendelkezéseket állapít meg.

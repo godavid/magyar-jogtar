@@ -8,7 +8,7 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
 
 1. § (1) E törvény célja az Európai Unió bűnüldözési, határellenőrzési és a külföldiek beutazásának és tartózkodásának ellenőrzését szolgáló információs rendszereivel megvalósuló adat- és információcsere szabályainak megállapítása, valamint a Nemzetközi Bűnügyi Rendőrség Szervezete (INTERPOL) keretében megvalósuló együttműködés megerősítése.
 
-(2) E törvény hatálya kiterjed az Európai Rendőrségi Hivatal (EUROPOL), a Nemzetközi Bűnügyi Rendőrség Szervezete (INTERPOL), a Schengeni Információs Rendszer (SIS), az Európai Csalásellenes Hivatal (OLAF), valamint a bűnüldöző szervek együttműködését szabályozó két- és többoldalú nemzetközi szerződések keretében, illetőleg az európai közösségi jogi normák alapján megvalósuló együttműködésre és információcserére.
+(2) E törvény hatálya kiterjed az Európai Rendőrségi Hivatal (EUROPOL), a Nemzetközi Bűnügyi Rendőrség Szervezete (INTERPOL), a Schengeni Információs Rendszer (SIS), a Vízuminformációs Rendszer (VIS), az Európai Csalásellenes Hivatal (OLAF), valamint a bűnüldöző szervek együttműködését szabályozó két- és többoldalú nemzetközi szerződések keretében, illetőleg az európai közösségi jogi normák alapján megvalósuló együttműködésre és információcserére.
 
 2. § E törvény alkalmazásában
 
@@ -18,7 +18,7 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
 
 ### A Nemzetközi Bűnügyi Együttműködési Központ
 
-3. § (1) A magyar együttműködő szerv a nemzetközi bűnügyi együttműködés céljából létrehozott szervezettel és nemzeti egységeivel, valamint a két- és többoldalú nemzetközi szerződésben részes állammal folytatott együttműködése során – ha más jogszabály eltérően nem rendelkezik – a Rendőrség szervezetébe tartozó Nemzetközi Bűnügyi Együttműködési Központ (a továbbiakban: NEBEK) útján továbbít adatot, információt, illetőleg kezdeményez adat-, illetve információigénylést vagy egyéb intézkedést.
+3. § (1) A magyar együttműködő szerv a nemzetközi bűnügyi együttműködés céljából létrehozott szervezettel és nemzeti egységeivel, az Európai Unió jogi aktusával létrehozott információs rendszerhez betekintés céljából történő hozzáférés során, valamint a két- és többoldalú nemzetközi szerződésben részes állammal folytatott együttműködése során – ha más jogszabály eltérően nem rendelkezik – a Rendőrség szervezetébe tartozó Nemzetközi Bűnügyi Együttműködési Központ (a továbbiakban: NEBEK) útján továbbít adatot, információt, illetőleg kezdeményez adat-, illetve információigénylést vagy egyéb intézkedést.
 
 (2) Az INTERPOL-lal történő együttműködés során a Rendőrség a szervezet alapszabálya és működési elvei szerint folytat információcserét a tagországokkal és az INTERPOL Főtitkárságával. Az INTERPOL tagság nemzetközi kötelezettségvállalásnak minősül.
 
@@ -86,7 +86,9 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
 
 17. § Felhatalmazást kap a rendészetért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a NEBEK jogállását, részletes feladat- és hatáskörét.
 
-18. §
+### Az Európai Unió jogának való megfelelés
+
+18. § E törvény a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–4. és 16. cikkei végrehajtásához szükséges rendelkezéseket állapít meg [3. §, 6. §, 10. §].
 
 19. §
 

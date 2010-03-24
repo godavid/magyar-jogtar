@@ -62,10 +62,10 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányában foglalt rendelkezése
 
 - a) a közvetlenül alkalmazandó európai közösségi jogi aktusban meghatározott esetben,
 - b) az útlevél iránti kérelem benyújtásakor a második biometrikus adat adására átmenetileg fizikailag képtelen személyek esetében, valamint
-- c) azon személyek esetében, akiknek az útlevél iránti kérelem előterjesztésekor történő személyes megjelenését – a kezelőorvos által kiállított igazolás szerint – egészségi állapotuk nem teszi lehetővé,
-- d) külföldön tartózkodó személy esetén, ha az útlevele, illetve a külföldre utazáshoz felhasznált személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, lejárt, elveszett vagy eltulajdonították, amennyiben a további tartózkodás, tovább-, illetve hazautazása céljából az ideiglenes magánútlevél nem használható fel.
+- c) azon személyek esetében, akiknek az útlevél iránti kérelem előterjesztésekor történő személyes megjelenését – a kezelőorvos által kiállított igazolás szerint – egészségi állapotuk nem teszi lehetővé.
+- d)
 
-(5) A (4) bekezdés alapján kiadott útlevél érvényességi ideje – a 18. életévét be nem töltött személy számára kiadott okmány kivételével – egy év.
+(5) A (4) bekezdés b) és c) pontja alapján kiadott útlevél érvényességi ideje egy év.
 
 (6) Az ideiglenes magánútlevél adatoldala az (1) bekezdésben meghatározott adatokon kívül tartalmazza az ellenőrző sorszámot, a kiállító hatóság bélyegző lenyomatát és a kiállító személy aláírását. A hazatérés céljából kiállított ideiglenes magánútlevél az (1) bekezdés c) pontjában meghatározott adatot a gépi kiállításhoz szükséges technikai feltételek fennállása esetén tartalmazza.
 
@@ -91,9 +91,9 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányában foglalt rendelkezése
 
 (3) A második magánútlevél az arra jogosító foglalkozás gyakorlásának időtartamáig, de legfeljebb – a 7. § (5) bekezdésben foglalt kivétellel – két évig érvényes. A különös méltánylást érdemlő okból kiadott második magánútlevél érvényességi ideje egy év.
 
-10. § (1) A magyar állampolgár részére külföldön való további tartózkodásához, tovább-, illetve hazautazásához legfeljebb egy évig érvényes ideiglenes magánútlevelet lehet kiállítani, ha az állampolgár útlevele, illetőleg a külföldre utazáshoz felhasznált személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, lejárt, elveszett vagy eltulajdonították.
+10. § (1) A magyar állampolgár részére külföldön való további tartózkodásához, tovább- és hazautazásához legfeljebb egy évig érvényes ideiglenes magánútlevelet lehet kiállítani, ha az állampolgárnak a külföldre utazáshoz felhasznált útlevele vagy személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, lejárt, elveszett vagy eltulajdonították, és az utazásig magánútlevél nem állítható ki.
 
-(2) Külföldön tartózkodó magyar állampolgár kérelmére hazatérés céljából ideiglenes magánútlevelet kell kiállítani legfeljebb hat hónapos érvényességi időtartammal, ha az állampolgár útlevele, illetőleg a külföldre utazáshoz felhasznált személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, lejárt, elveszett vagy eltulajdonították.
+(2) Külföldön tartózkodó magyar állampolgár kérelmére hazatérés céljából ideiglenes magánútlevelet kell kiállítani legfeljebb hat hónapos érvényességi időtartammal, ha az állampolgárnak a külföldre utazáshoz felhasznált útlevele vagy személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, lejárt, elveszett vagy eltulajdonították, és a hazautazásig magánútlevél nem állítható ki.
 
 (3) Az ideiglenes magánútlevelet legfeljebb hat hónapos érvényességi időtartammal hivatalból kell kiadni
 

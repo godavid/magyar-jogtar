@@ -243,6 +243,27 @@ kapcsolatos feladatokat.
 
 (8) Az informátor, a bizalmi személy, a Vám- és Pénzügyőrséggel titkosan együttműködő más személy által a titkos információgyűjtés keretében másnak okozott kár megtérítésére a 24. § (2) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
 
+### Leplezett figyelés elrendelése
+
+22/A. § A felhatalmazott szervek a 2. § (3) bekezdésében meghatározott célból leplezett figyelést rendelhetnek el arra a személyre vonatkozóan, akiről megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2003. évi CXXX. törvény 1. melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő) vagy követ el a Magyar Köztársaság vagy más, a Schengeni Információs Rendszert alkalmazó állam területén, abban az esetben is, ha a magyar törvény szerint az előkészület nem büntetendő. Leplezett figyelés rendelhető el az ilyen személlyel vagy bűncselekménnyel kapcsolatba hozható jármű vonatkozásában is.
+
+### A Schengeni Információs Rendszerben elhelyezett leplezett figyelésre irányuló jelzés végrehajtása
+
+22/B. § (1) Ha a pénzügyőr az intézkedés során megállapítja, hogy az intézkedéssel érintett személy vagy jármű azonos a Schengeni Információs Rendszerben elhelyezett leplezett figyelésre irányuló jelzés szerinti személlyel vagy járművel, a leplezett figyelésre irányuló jelzés végrehajtása során az 5. § (4) bekezdésében meghatározott intézkedéseket foganatosíthatja.
+
+(2) A pénzügyőr – a leplezett figyelésre történő utalás és a leplezett figyelés céljának veszélyeztetése nélkül – kizárólag annak az intézkedésnek a tényét és célját közölheti, amelynek során a leplezett figyelésre irányuló jelzés végrehajtására sor kerül.
+
+(3) A pénzügyőr a leplezett figyelésre irányuló jelzés végrehajtásakor az intézkedése során rögzítendő adatokon túl – ha ez a leplezett figyelésre irányuló jelzés végrehajtásának célját nem veszélyezteti – az alábbi adatokat rögzítheti, és továbbíthatja a külön jogszabályban meghatározott szerven keresztül az adott leplezett figyelésre irányuló jelzést kibocsátó hatóságnak:
+
+- a) az intézkedéssel érintett személy vagy jármű megtalálásának ténye, körülményei,
+- b) az intézkedés helye, ideje, indoka,
+- c) az utazás útvonala és az úti cél,
+- d) az intézkedéssel érintett személyt kísérő, illetve az intézkedéssel érintett járműben utazó személyek természetes személyazonosító adatai,
+- e) a használt jármű azonosításához szükséges adatok,
+- f) a szállított tárgyakra vonatkozó adatok.
+
+(4) A (3) bekezdésben meghatározott adatok megszerzése érdekében kényszerítő eszköz nem alkalmazható.
+
 ### Az együttműködők díjazása
 
 23. § A felhatalmazott szervek a velük együttműködők tevékenységéért indokolt mértékű anyagi ellenszolgáltatást nyújthatnak.
@@ -486,3 +507,11 @@ esetén.
 - h) a rendészetért felelős miniszterrel egyetértésben az elfogott, előállított, őrizetbe vett és fogva tartott személyek őrzésének, kísérésének részletes eljárási szabályait.
 
 44. § Az adópolitikáért felelős miniszter utasításban állapítja meg a Vám- és Pénzügyőrség felhatalmazott szervei által végzett titkos információgyűjtés eszközei, módszerei alkalmazásának szabályait.
+
+### Az Európai Unió jogának való megfelelés
+
+45. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+- a) a Benelux Gazdasági Unió államai, a Németországi Szövetségi Köztársaság és a Francia Köztársaság kormányai között a közös határaikon történő ellenőrzések fokozatos megszüntetéséről szóló, 1985. június 14-i schengeni megállapodás végrehajtásáról szóló egyezmény (Schengeni Végrehajtási Egyezmény) 99. cikke [22/A–22/B. §],
+- b) a néhány új funkciónak – többek között a terrorizmus elleni küzdelemnek – a Schengeni Információs Rendszerbe történő bevezetéséről szóló, 2005. február 24-i 2005/211/IB tanácsi határozat 1. cikke [22/A–22/B. §],
+- c) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i, 2008/633/IB tanácsi határozat 3–5. cikke [36/A. §].
