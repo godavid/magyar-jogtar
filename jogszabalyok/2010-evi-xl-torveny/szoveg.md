@@ -58,7 +58,9 @@ f) a szállított tárgyakra vonatkozó adatok.
 
 (4) A (3) bekezdésben meghatározott adatok megszerzése érdekében kényszerítő eszköz nem alkalmazható.”
 
-6. § (1)
+6. § (1) Az Rtv. 62/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az (1) bekezdés a) és b) pontja alapján a határrendészeti feladatokat ellátó szerv tagja az állampolgársága szerinti államban rendszeresített kényszerítő eszközt vagy lőfegyvert alkalmazhat, ha annak a Magyar Köztársaság területén történő alkalmazását jogszabály nem tiltja.”
 
 (2) Az Rtv. 62/A. §-a a következő (4) és (5) bekezdéssel egészül ki:
 
@@ -170,9 +172,9 @@ o) az 562/2006/EK rendeletnek a vízuminformációs rendszer (VIS) Schengeni hat
 
 13. § Az Nbtv. a 11. §-t követően a következő 11/A. §-sal egészül ki:
 
-„11/A. § (1) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter az Alkotmányvédelmi Hivatal, a polgári hírszerzési tevékenység irányításáért felelős miniszter az Információs Hivatal, a honvédelemért felelős miniszter a Katonai Biztonsági Hivatal tekintetében ellátja a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat alapján kijelölt nemzeti központi hozzáférési pont feladatait.
+„11/A. § (1) A polgári nemzetbiztonsági szolgálatokat irányító miniszter a Nemzetbiztonsági Hivatal és az Információs Hivatal, a honvédelemért felelős miniszter a Katonai Biztonsági Hivatal tekintetében ellátja a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat alapján kijelölt nemzeti központi hozzáférési pont feladatait.
 
-(2) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, valamint a honvédelemért felelős miniszter a lekérdezés jogszerűségének ellenőrzése, valamint az adatok sértetlenségének és biztonságának biztosítása céljából a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben (a továbbiakban: Vízuminformációs Rendszer) végzett betekintés céljából történő hozzáférésekről adattovábbítási nyilvántartást vezet.
+(2) A polgári nemzetbiztonsági szolgálatokat irányító miniszter, valamint a honvédelemért felelős miniszter a lekérdezés jogszerűségének ellenőrzése, valamint az adatok sértetlenségének és biztonságának biztosítása céljából a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben (a továbbiakban: Vízuminformációs Rendszer) végzett betekintés céljából történő hozzáférésekről adattovábbítási nyilvántartást vezet.
 
 (3) Az adattovábbítási nyilvántartásban foglalt adatokat a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK európai parlamenti és tanácsi rendelet 34. cikk (2) bekezdésében foglaltak szerint lehet felhasználni és azokat az ott meghatározott időszak elteltével törölni kell.
 
@@ -190,11 +192,11 @@ e) a betekintés céljából történő hozzáféréshez szükséges, a kezdemé
 
 f) a megtekintett adatok típusát,
 
-g) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, illetve a honvédelemért felelős miniszter által a keresés végrehajtására felhatalmazott személy részére a VIS nemzeti központi hatóság által biztosított azonosító kódot, valamint
+g) a polgári nemzetbiztonsági szolgálatokat irányító miniszter, illetve a honvédelemért felelős miniszter által a keresés végrehajtására felhatalmazott személy részére a VIS nemzeti központi hatóság által biztosított azonosító kódot, valamint
 
-h) az Alkotmányvédelmi Hivatal, az Információs Hivatal, vagy a Katonai Biztonsági Hivatal főigazgatója által a betekintés céljából történő hozzáférés kezdeményezésére felhatalmazott személy részére a VIS nemzeti központi hatóság által biztosított azonosító kódot.
+h) a Nemzetbiztonsági Hivatal, az Információs Hivatal, vagy a Katonai Biztonsági Hivatal főigazgatója által a betekintés céljából történő hozzáférés kezdeményezésére felhatalmazott személy részére a VIS nemzeti központi hatóság által biztosított azonosító kódot.
 
-(5) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, valamint a honvédelemért felelős miniszter – a betekintés céljából történő hozzáférés követhetősége céljából – a hozzáférési jogosultság időtartama alatt nyilvántartást köteles vezetni a keresés végrehajtására felhatalmazott és a betekintés céljából történő hozzáférés kezdeményezésére felhatalmazott személyek nevéről és azonosító kódjáról.”
+(5) A polgári nemzetbiztonsági szolgálatokat irányító miniszter, valamint a honvédelemért felelős miniszter – a betekintés céljából történő hozzáférés követhetősége céljából – a hozzáférési jogosultság időtartama alatt nyilvántartást köteles vezetni a keresés végrehajtására felhatalmazott és a betekintés céljából történő hozzáférés kezdeményezésére felhatalmazott személyek nevéről és azonosító kódjáról.”
 
 14. § Az Nbtv. a 41. §-t követően a következő 41/A. §-sal egészül ki:
 
@@ -204,7 +206,7 @@ h) az Alkotmányvédelmi Hivatal, az Információs Hivatal, vagy a Katonai Bizto
 
 15. § Az Nbtv. 45. §-a a következő (2)–(9) bekezdéssel egészül ki, ezzel egyidejűleg a § jelenlegi szövegének megjelölése 45. § (1) bekezdésre változik:
 
-„(2) Az Alkotmányvédelmi Hivatal, az Információs Hivatal, valamint a Katonai Biztonsági Hivatal a Vízuminformációs Rendszerhez az e törvény szerinti hatáskörét érintő bűncselekmény megelőzése, felderítése – ideértve az Információs Hivatalnak a 4. § c) pontja szerinti feladatkört is –, illetve e cselekményekkel összefüggő információszerzés céljából, meghatározott egyedi ügyben, betekintés céljából történő hozzáférést kezdeményezhet. A vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat szerinti kezdeményezést a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterhez, a polgári hírszerzési tevékenység irányításáért felelős miniszterhez, illetve a honvédelemért felelős miniszterhez kell megtenni.
+„(2) A Nemzetbiztonsági Hivatal, az Információs Hivatal, valamint a Katonai Biztonsági Hivatal a Vízuminformációs Rendszerhez az e törvény szerinti hatáskörét érintő bűncselekmény megelőzése, felderítése – ideértve az Információs Hivatalnak a 4. § c) pontja szerinti feladatkört is –, illetve e cselekményekkel összefüggő információszerzés céljából, meghatározott egyedi ügyben, betekintés céljából történő hozzáférést kezdeményezhet. A vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat szerinti kezdeményezést a polgári nemzetbiztonsági szolgálatokat irányító miniszterhez, illetve a honvédelemért felelős miniszterhez kell megtenni.
 
 (3) A (2) bekezdés szerinti betekintés céljából történő hozzáférést írásban vagy elektronikus úton abban az esetben lehet kezdeményezni, ha
 
@@ -212,7 +214,7 @@ a) a kezdeményező rendelkezésére álló adatok alapján alaposan feltehető,
 
 b) a betekintés céljából történő hozzáférésre a (2) bekezdésben meghatározott bűncselekmények körébe tartozó valamely bűncselekmény megelőzésére, felderítésére vagy az e cselekményekkel összefüggő információszerzésre irányuló egyedi eljárásban van szükség.
 
-(4) A Vízuminformációs Rendszerhez betekintés céljából történő hozzáférésre irányuló, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, illetve a honvédelemért felelős miniszter útján történő adatszolgáltatási kezdeményezésnek a következő adatokat kell tartalmaznia:
+(4) A Vízuminformációs Rendszerhez betekintés céljából történő hozzáférésre irányuló, a polgári nemzetbiztonsági szolgálatokat irányító miniszter, illetve a honvédelemért felelős miniszter útján történő adatszolgáltatási kezdeményezésnek a következő adatokat kell tartalmaznia:
 
 a) a (3) bekezdés a) pontjában meghatározott feltétel igazolására vonatkozó adatok,
 
@@ -246,9 +248,9 @@ j) a vízum típusa és a vízumbélyeg száma,
 
 k) a meghívólevelet kibocsátó, illetve a tartózkodás ideje alatt a megélhetési költségeket fedező személy adatai.
 
-(6) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, illetve a honvédelemért felelős miniszter a (2)–(5) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kezdeményezés teljesítését megelőzően vizsgálni köteles.
+(6) A polgári nemzetbiztonsági szolgálatokat irányító miniszter, illetve a honvédelemért felelős miniszter a (2)–(5) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kezdeményezés teljesítését megelőzően vizsgálni köteles.
 
-(7) Kivételesen sürgős esetben a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, illetve a honvédelemért felelős miniszter a nemzetbiztonsági szolgálatoknak a betekintés céljából történő hozzáférés kezdeményezésére vonatkozó szóbeli kezdeményezését is teljesítheti. Ebben az esetben a (2)–(5) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kezdeményezés teljesítését követően, a sürgősség indokoltságával együtt kell vizsgálni.
+(7) Kivételesen sürgős esetben a polgári nemzetbiztonsági szolgálatokat irányító miniszter, illetve a honvédelemért felelős miniszter a nemzetbiztonsági szolgálatoknak a betekintés céljából történő hozzáférés kezdeményezésére vonatkozó szóbeli kezdeményezését is teljesítheti. Ebben az esetben a (2)–(5) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kezdeményezés teljesítését követően, a sürgősség indokoltságával együtt kell vizsgálni.
 
 (8) A kezdeményezés alapján hozzáféréssel a Vízuminformációs Rendszerből nem vehető át és nem továbbítható adat, ha a (2)–(5) bekezdésben meghatározott feltételek nem teljesülnek. Ha a kezdeményezés alapján a 2008/633/IB tanácsi határozat szerinti, kijelölt nemzeti központi hozzáférési pont hozzáféréssel a kezdeményezést teljesíti és a hozzáférés a Vízuminformációs Rendszerben találatot eredményez, a kérelmező nemzetbiztonsági szolgálat részére a kezdeményezésben igényelt adatokon túlmenően továbbíthatók:
 
@@ -258,7 +260,7 @@ b) a fénykép, és
 
 c) bármely – korábban kiadott, elutasított, megsemmisített, visszavont vagy meghosszabbított – vízummal kapcsolatos adat.
 
-(9) A betekintés céljából történő hozzáférés kezdeményezésére csak az a személy jogosult, akinek a feladatköre alapján az Alkotmányvédelmi Hivatal, az Információs Hivatal vagy a Katonai Biztonsági Hivatal főigazgatója erre felhatalmazást adott, és erről a VIS nemzeti központi hatóságot értesítette. A (4) bekezdés b) pontja szerinti azonosító kódot az értesítést követően a VIS nemzeti központi hatóság bocsátja a kezdeményezésre jogosult személy rendelkezésére. Vissza kell vonni a felhatalmazását annak – és erről a VIS nemzeti központi hatóságot értesíteni kell –, akinek a felhatalmazás alapjául szolgáló feladatköre megszűnt.”
+(9) A betekintés céljából történő hozzáférés kezdeményezésére csak az a személy jogosult, akinek a feladatköre alapján a Nemzetbiztonsági Hivatal, az Információs Hivatal vagy a Katonai Biztonsági Hivatal főigazgatója erre felhatalmazást adott, és erről a VIS nemzeti központi hatóságot értesítette. A (4) bekezdés b) pontja szerinti azonosító kódot az értesítést követően a VIS nemzeti központi hatóság bocsátja a kezdeményezésre jogosult személy rendelkezésére. Vissza kell vonni a felhatalmazását annak – és erről a VIS nemzeti központi hatóságot értesíteni kell –, akinek a felhatalmazás alapjául szolgáló feladatköre megszűnt.”
 
 16. § Az Nbtv. a következő alcímmel és 80. §-sal egészül ki:
 
@@ -528,7 +530,35 @@ h) a magyar együttműködő szerv vezetője által a betekintés céljából t�
 
 18. § E törvény a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–4. és 16. cikkei végrehajtásához szükséges rendelkezéseket állapít meg [3. §, 6. §, 10. §].”
 
-46. §
+### A Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény egyes rendelkezéseinek módosításáról
+
+46. § A Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény (a továbbiakban: VPtv.) a 22. §-t követően a következő alcímekkel és 22/A–22/B. §-sal egészül ki:
+
+„Leplezett figyelés elrendelése
+
+22/A. § A felhatalmazott szervek a 2. § (3) bekezdésében meghatározott célból leplezett figyelést rendelhetnek el arra a személyre vonatkozóan, akiről megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2003. évi CXXX. törvény 1. melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő) vagy követ el a Magyar Köztársaság vagy más, a Schengeni Információs Rendszert alkalmazó állam területén, abban az esetben is, ha a magyar törvény szerint az előkészület nem büntetendő. Leplezett figyelés rendelhető el az ilyen személlyel vagy bűncselekménnyel kapcsolatba hozható jármű vonatkozásában is.
+
+A Schengeni Információs Rendszerben elhelyezett leplezett figyelésre irányuló jelzés végrehajtása
+
+22/B. § (1) Ha a pénzügyőr az intézkedés során megállapítja, hogy az intézkedéssel érintett személy vagy jármű azonos a Schengeni Információs Rendszerben elhelyezett leplezett figyelésre irányuló jelzés szerinti személlyel vagy járművel, a leplezett figyelésre irányuló jelzés végrehajtása során az 5. § (4) bekezdésében meghatározott intézkedéseket foganatosíthatja.
+
+(2) A pénzügyőr – a leplezett figyelésre történő utalás és a leplezett figyelés céljának veszélyeztetése nélkül – kizárólag annak az intézkedésnek a tényét és célját közölheti, amelynek során a leplezett figyelésre irányuló jelzés végrehajtására sor kerül.
+
+(3) A pénzügyőr a leplezett figyelésre irányuló jelzés végrehajtásakor az intézkedése során rögzítendő adatokon túl – ha ez a leplezett figyelésre irányuló jelzés végrehajtásának célját nem veszélyezteti – az alábbi adatokat rögzítheti, és továbbíthatja a külön jogszabályban meghatározott szerven keresztül az adott leplezett figyelésre irányuló jelzést kibocsátó hatóságnak:
+
+a) az intézkedéssel érintett személy vagy jármű megtalálásának ténye, körülményei,
+
+b) az intézkedés helye, ideje, indoka,
+
+c) az utazás útvonala és az úti cél,
+
+d) az intézkedéssel érintett személyt kísérő, illetve az intézkedéssel érintett járműben utazó személyek természetes személyazonosító adatai,
+
+e) a használt jármű azonosításához szükséges adatok,
+
+f) a szállított tárgyakra vonatkozó adatok.
+
+(4) A (3) bekezdésben meghatározott adatok megszerzése érdekében kényszerítő eszköz nem alkalmazható.”
 
 47. § A VPtv. a 36. §-t követően a következő 36/A. §-sal egészül ki:
 
@@ -584,7 +614,17 @@ c) bármely – korábban kiadott, elutasított, megsemmisített, visszavont vag
 
 (6) A betekintés céljából történő hozzáférés kezdeményezésére csak az a személy jogosult, akinek a feladatköre alapján az országos parancsnok erre felhatalmazást adott, és erről a VIS nemzeti központi hatóságot értesítette. A (3) bekezdés b) pontja szerinti azonosító kódot az értesítést követően a VIS nemzeti központi hatóság bocsátja a kezdeményezésre jogosult személy rendelkezésére. Vissza kell vonni a felhatalmazását annak – és erről a VIS nemzeti központi hatóságot értesíteni kell –, akinek a felhatalmazás alapjául szolgáló feladatköre megszűnt.”
 
-48. §
+48. § A VPtv. a következő alcímmel és 45. §-sal egészül ki:
+
+„Az Európai Unió jogának való megfelelés
+
+45. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) a Benelux Gazdasági Unió államai, a Németországi Szövetségi Köztársaság és a Francia Köztársaság kormányai között a közös határaikon történő ellenőrzések fokozatos megszüntetéséről szóló, 1985. június 14-i schengeni megállapodás végrehajtásáról szóló egyezmény (Schengeni Végrehajtási Egyezmény) 99. cikke [22/A–22/B. §],
+
+b) a néhány új funkciónak – többek között a terrorizmus elleni küzdelemnek – a Schengeni Információs Rendszerbe történő bevezetéséről szóló, 2005. február 24-i 2005/211/IB tanácsi határozat 1. cikke [22/A–22/B. §],
+
+c) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i, 2008/633/IB tanácsi határozat 3–5. cikke [36/A. §].”
 
 ### A Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló 2007. évi CV. törvény egyes rendelkezéseinek módosítása
 
@@ -614,7 +654,7 @@ f) arról a személyről vagy gépjárműről, akivel vagy amellyel kapcsolatban
 
 (4) A 8., 13. és a 15. § az Európai Unió Tanácsának a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat alkalmazásának kezdetét megállapító, az Európai Unió Hivatalos Lapjában közzétett közleményében meghatározott napon lép hatályba.
 
-(5) A 42–44. és az Európai Unió Tanácsának a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat alkalmazásának kezdetét megállapító, az Európai Unió Hivatalos Lapjában közzétett közleményében meghatározott napon lép hatályba.
+(5) A 42–44. és a 47. § az Európai Unió Tanácsának a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat alkalmazásának kezdetét megállapító, az Európai Unió Hivatalos Lapjában közzétett közleményében meghatározott napon lép hatályba.
 
 (6) A 31. § (2) bekezdése a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló 2008. július 9-i, 767/2008/EK európai parlamenti és tanácsi rendelet 48. cikk (5) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett utolsó időponttal megegyező napon lép hatályba.
 

@@ -378,11 +378,11 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 (2) Azt a tényt, hogy az (1) bekezdés a)–c) pontjában meghatározott körülmény vele szemben nem áll fenn,
 
 - a) a szolgálati viszony létesítését megelőzően a hivatásos állomány tagjaként szolgálati viszonyt létesíteni szándékozó személy,
-- b) a hivatásos állomány tagja – a szolgálati viszony fennállása alatt – a munkáltatói jogkört gyakorló elöljáró írásbeli felhívására évente, a felhívástól számított tizenöt munkanapon belül, ha e határidőn belül a hivatásos állomány tagján kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul hatósági bizonyítvánnyal igazolja.
+- b) a hivatásos állomány tagja – a szolgálati viszony fennállása alatt – a munkáltatói jogkört gyakorló elöljáró írásbeli felhívására, a felhívástól számított tizenöt munkanapon belül, ha e határidőn belül a hivatásos állomány tagján kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul hatósági bizonyítvánnyal igazolja.
 
-37/B. § (1) A munkáltatói jogkört gyakorló elöljáró a szolgálati viszony fennállása alatt évente, írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja a hivatásos állomány tagját annak igazolására, hogy a hivatásos állomány tagjával szemben nem áll fenn a 37/A. § (1) bekezdés a)–c) pontjában meghatározott körülmény.
+37/B. § (1) A munkáltatói jogkört gyakorló elöljáró a szolgálati viszony fennállása alatt írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja a hivatásos állomány tagját annak igazolására, hogy a hivatásos állomány tagjával szemben nem áll fenn a 37/A. § (1) bekezdés a)–c) pontjában meghatározott körülmény.
 
-(2) Ha az (1) bekezdésben meghatározott felhívásra a hivatásos állomány tagja igazolja, hogy vele szemben a 37/A. § (1) bekezdés a)–c) pontjában meghatározott körülmény nem áll fenn, a fegyveres szerv az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a hivatásos állomány tagja részére megtéríti.
+(2) Ha az (1) bekezdésben meghatározott felhívásra a hivatásos állomány tagja igazolja, hogy vele szemben – a munkáltatói jogkört gyakorló elöljáró által hivatalosan ismert adatokon túl – a 37/A. § (1) bekezdés a)–c) pontjában meghatározott körülmény nem áll fenn, a fegyveres szerv az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a hivatásos állomány tagja részére megtéríti.
 
 (3) A fegyveres szerv a 37/A. § (1) bekezdés a)–c) pontjában meghatározott körülmény fennállásának megállapítása céljából kezeli
 
@@ -646,7 +646,7 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 - a) akit – a d) pontban meghatározott eseteken kívül – jogerősen végrehajtandó szabadságvesztésre ítéltek, kivéve, ha a bíróság katonai fogdában rendelte azt végrehajtani;
 - b) akit – a d) pontban meghatározott eseteken kívül – a bíróság jogerősen felfüggesztett szabadságvesztésre ítélt és előzetesen nem mentesített a büntetett előélethez fűződő hátrányok alól;
 - c) aki szolgálaton kívüli magatartásával a fegyveres szerv működéséhez szükséges közbizalom fenntartását súlyosan veszélyezteti;
-- d) akinek büntetőjogi felelősségét a bíróság szolgálati viszony keretében vagy annak felhasználásával, 2009. december 31-ét követően szándékosan elkövetett bűncselekmény miatt jogerősen megállapította, és a szolgálati viszony az a)–c) pontban, valamint az 53. § g) pontban foglaltak alapján nem szűnt meg.
+- d) akivel szemben a bíróság – katonai bűntett kivételével – szolgálati viszony keretében vagy annak felhasználásával, 2009. december 31-ét követően elkövetett bűntett miatt jogerősen büntetést szabott ki, és a szolgálati viszonya az a)–c) pontban, valamint az 53. § g) pontban foglaltak alapján nem szűnt meg.
 
 (7) A miniszter a (6) bekezdés a) és b) pontja esetén a méltatlanság megállapításától eltekinthet. A (6) bekezdés a) pontja esetén erre csak akkor kerülhet sor, ha a szabadságvesztés mértéke az 1 évet nem haladja meg.
 
@@ -682,7 +682,7 @@ meghosszabbodik.
 - c) a terhesség ideje, a szülést követő 3 hónap, illetőleg a szülési szabadság és a gyermekgondozás céljára kapott illetmény nélküli szabadság;
 - d) a házastárs tartós külföldi kiküldetése miatt kapott illetmény nélküli szabadság.
 
-(2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak a hivatásos állomány szolgálati vagy rokkantsági nyugdíjra jogosult, illetőleg a szolgálatra méltatlanná vált tagja szolgálati viszonyának a megszüntetésére.
+(2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak a hivatásos állomány szolgálati vagy rokkantsági nyugdíjra jogosult, a szolgálatra méltatlanná vagy a 258. § (4) bekezdés alapján alkalmatlanná vált tagja szolgálati viszonyának a megszüntetésére.
 
 (3) Az (1) bekezdésben meghatározott védelem fennállása szempontjából a felmentés közlésének időpontja az irányadó.
 
@@ -2617,13 +2617,13 @@ jogosult.
 
 (3) A biztonsági ellenőrzés során az ellenőrzést folytató fegyveres szerv és az RSZVSZ kezelheti az ellenőrzöttel egy háztartásban élők nevét, a vele fennálló kapcsolatuk jellegét, valamint a közeli hozzátartozói nevét, lakcímét, illetve tartózkodási helyét.
 
-(4) Ha a 258/A. § alapján elrendelt biztonsági ellenőrzés megállapítja, hogy az életvitel kifogásolható és a törvényes, befolyástól mentes szolgálatellátást veszélyeztető körülmény áll fenn, a felvételt el kell utasítani, illetőleg a hivatásos állományú szolgálati viszonyát – feltéve, hogy 30 napon belül a kifogásolt életvitelt nem változtatja meg, illetve a törvényes és befolyástól mentes szolgálatellátást veszélyeztető körülményt nem szünteti meg, és szolgálati viszonya az 53. § g) pontban vagy az 56. § (6) bekezdésben foglaltak alapján nem szűnt meg – alkalmatlanság miatt felmentéssel meg kell szüntetni.
+(4) Ha a 258/A. § alapján elrendelt biztonsági ellenőrzés megállapítja, hogy az életvitel kifogásolható és a törvényes, befolyástól mentes szolgálatellátást veszélyeztető körülmény áll fenn, a felvételt el kell utasítani, illetőleg a hivatásos állományú szolgálati viszonyát – feltéve, hogy 30 napon belül a kifogásolt életvitelt nem változtatja meg, illetve a törvényes és befolyástól mentes szolgálatellátást veszélyeztető körülményt nem szünteti meg, és szolgálati viszonya az 53. § g) pontban vagy az 56. § (6) bekezdésben foglaltak alapján nem szűnt meg – alkalmatlanság miatt felmentéssel meg kell szüntetni, kivéve, ha a miniszter az 56. § (7) bekezdése alapján a méltatlanság megállapításától eltekintett.
 
 (5) Ha a jelentkezés alapján a hivatásos szolgálati viszony nem jön létre, illetve a szolgálati viszony megszűnik, akkor az (1) bekezdés b) pontjában előírt biztonsági ellenőrzés során szerzett adatokat haladéktalanul meg kell semmisíteni.
 
 (6) Többes állampolgárságú magyar állampolgár szolgálati viszonyának létesítését a miniszter engedélyezi.
 
-(7) Nem állapítható meg a kifogástalan életvitel, ha az érintett büntetőjogi felelősségét hivatalból üldözendő bűncselekmény szándékos elkövetése miatt a bíróság jogerősen megállapította, és büntetést szabott ki, ha a bűncselekményt 2009. december 31-ét követően követték el.
+(7) Nem állapítható meg a kifogástalan életvitel, ha az érintettre nem szolgálati viszony keretében vagy annak felhasználásával elkövetett, hivatalból üldözendő bűntett elkövetése miatt a bíróság jogerősen büntetést szabott ki, ha a bűncselekményt 2009. december 31-ét követően követték el.
 
 (8) A biztonsági ellenőrzés céljából az ellenőrzést folytató szerv adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag arra a tényre irányulhat, hogy a (7) bekezdésben meghatározott körülmény – a bűnügyi nyilvántartási rendszer adatállománya alapján – az ellenőrzött személlyel szemben fennáll-e.
 

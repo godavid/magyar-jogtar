@@ -914,7 +914,7 @@ miatt rendelték el.
 
 (2) Az elveszettnek hitt és az erről szóló bejelentés után megtalált úti okmányról az idegenrendészeti hatóságot haladéktalanul értesíteni kell.
 
-(3) Az idegenrendészeti hatóság a harmadik országbeli állampolgár úti okmányának, illetve tartózkodásra jogosító engedélyének körözését rendelheti el, ha az okmány holléte ismeretlen.
+(3)
 
 (4) Az elveszett, eltulajdonított, megsemmisült vagy lejárt úti okmány helyett – ha nemzetközi szerződés másként nem rendelkezik – a harmadik országbeli állampolgár köteles új úti okmányt beszerezni. A harmadik országbeli állampolgár az új úti okmány, valamint az (1) bekezdésben foglalt – a bejelentésről szóló – igazolás vagy a lejárt úti okmány birtokában hagyhatja el az ország területét.
 
@@ -1116,7 +1116,7 @@ szerinti állam vonatkozásában.
 100. § (1) Az idegenrendészeti hatóság az úti okmány elvesztését, eltulajdonítását vagy megsemmisülését bejelentő harmadik országbeli állampolgár következő adatait kezeli:
 
 - a) a természetes személyazonosító adatok;
-- b) az elveszettként, eltulajdonítottként vagy megsemmisültként bejelentett úti okmány típusa és azonosító adatai;
+- b) az elveszettként, eltulajdonítottként vagy megsemmisültként bejelentett úti okmány, illetve tartózkodási engedély típusa és azonosító adatai, valamint a Schengeni Információs Rendszerbe elhelyezett figyelmeztető jelzés ténye;
 - c) a bejelentés időpontja;
 - d) az első beutazás helye, ideje;
 - e) a szálláshely címe, lakcím;
@@ -1203,6 +1203,8 @@ részére továbbíthat adatot.
 - e) a cégnyilvántartásból,
 - f) az egyéni vállalkozók nyilvántartásából és
 - g) a közegészségügyi hatóságtól.
+
+(5) Ha a harmadik országbeli állampolgár megszerezte a magyar állampolgárságot, a rá vonatkozó adatokat haladéktalanul törölni kell az idegenrendészeti résznyilvántartásokból.
 
 107. § (1) Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból külföldi bűnüldöző, határőrizeti, idegenrendészeti és igazságszolgáltatási szervnek, nemzetközi szervezetnek, illetve közvetlenül alkalmazandó közösségi jogi aktussal létrehozott közösségi szervnek közvetlenül alkalmazandó közösségi jogi aktus vagy nemzetközi szerződés alapján – az azokban meghatározott adatkörben – továbbíthat adatot.
 
@@ -1385,4 +1387,8 @@ hatályát veszti.
 - n) a Tanács 1997. június 26-i állásfoglalása a harmadik állambeli kísérő nélküli kiskorúakról;
 - o) a Tanács 1997. december 4-i állásfoglalása az érdekházasságok elleni küzdelem érdekében elfogadott intézkedésekről.
 
-(2) E törvény a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(2) E törvény
+
+- a) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet [6. §; 40. §];
+- b) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 6., 9., illetve 19–20. cikkei [67/A. §, 95. §];
+- c) a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet [2. §; 8. §; 12. §; 111. §] végrehajtásához szükséges rendelkezéseket állapít meg.

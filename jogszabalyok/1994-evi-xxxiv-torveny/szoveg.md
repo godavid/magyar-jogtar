@@ -246,6 +246,12 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányának és nemzetközi jogi 
 
 (3) A fogvatartott jogait csak annyiban lehet korlátozni, amennyiben az a szökés vagy elrejtőzés, a bizonyítási eszközök megváltoztatásának vagy megsemmisítésének megakadályozását, újabb bűncselekmény elkövetésének megelőzését, illetőleg az őrzés biztonságát, a fogda rendjének megtartását szolgálja.
 
+(4) A rendőrségi fogdába történő befogadáskor, amennyiben a rendelkezésre álló adatokra, illetve a befogadás körülményeire vagy a fogvatartott viselkedésére tekintettel alapos okkal feltételezhető, hogy a fogvatartott saját vagy más életének, testi épségének veszélyeztetésére alkalmas tárgyat tart magánál, az élet, testi épség védelme, továbbá a bűncselekmény megelőzése érdekében a fogvatartott testét, erre vonatkozó előzetes figyelmeztetést követően – a testüregekre is kiterjedően – át kell vizsgálni.
+
+(5) A fogvatartott testének átvizsgálása nem történhet szeméremsértő módon, és az átvizsgálás alatt más fogvatartott, illetve a fogvatartottal ellentétes nemű személy nem lehet jelen.
+
+(6) A testüregek átvizsgálását csak orvos végezheti, amelynek során a vizsgálatot végző orvoson kívül a vizsgálat elvégzésében közreműködő egészségügyi dolgozó, valamint a vizsgált személlyel azonos nemű rendőr lehet jelen.
+
 19. § (1) A jogszabályi előírások végrehajtását szolgáló rendőri intézkedésnek — ha törvény vagy nemzetközi megállapodás másként nem rendelkezik — mindenki köteles magát alávetni, és a rendőr utasításának engedelmeskedni. A rendőri intézkedés során annak jogszerűsége nem vonható kétségbe, kivéve, ha a jogszerűtlenség mérlegelés nélkül, kétséget kizáróan megállapítható.
 
 (2) A rendőr jogszerű intézkedésének való ellenszegülés esetén az e törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazhatók.
@@ -301,7 +307,7 @@ igazolja.
 
 ### Díjkitűzés
 
-27. § (1) A Rendőrség a 84. § j) pontjában felsorolt bűncselekmények és a bűncselekmény elkövetésével gyanúsítható személy felderítése, a rejtőzködő vagy szökésben lévő elkövető elfogásának elősegítése, eltűnt személy megtalálásának érdekében a nyomozás eredményességét, illetőleg a szükséges rendőri intézkedést közvetlenül elősegítő személy részére előzetesen és nyilvánosan díjat tűzhet ki.
+27. § (1) A Rendőrség a 91/A. § (1) bekezdés e) pontjában felsorolt bűncselekmények és a bűncselekmény elkövetésével gyanúsítható személy felderítése, a rejtőzködő vagy szökésben lévő elkövető elfogásának elősegítése, eltűnt személy megtalálásának érdekében a nyomozás eredményességét, illetőleg a szükséges rendőri intézkedést közvetlenül elősegítő személy részére előzetesen és nyilvánosan díjat tűzhet ki.
 
 (2) A kitűzött díjra nem tarthat igényt az a személy, akit jogszabály alapján feljelentési kötelezettség terhel, valamint az elkövető, továbbá az, aki a korábban tett tanúvallomásában a nyomozás szempontjából fontos tényt vagy körülményt elhallgatott, illetőleg valótlan adatot közölt.
 
@@ -370,7 +376,7 @@ igazolja.
 - d) aki a szülői felügyelet vagy a gyámság, illetőleg az intézeti nevelés hatálya alól engedély nélkül kivonja magát;
 - e) aki a pártfogó felügyelet — külön törvényben meghatározott és a Rendőrség hatáskörébe tartozó — szabályait megszegi;
 - f) aki a szabálysértést az abbahagyásra irányuló felszólítás után is folytatja, illetőleg akivel szemben az eljárás azonnal lefolytatható, továbbá akitől tárgyi bizonyítási eszközt kell megszerezni, vagy elkobzás alá eső dolgot kell visszatartani;
-- g)
+- g) akivel szemben ideiglenes megelőző távoltartás elrendelésének van helye.
 
 (3) A Rendőrség az előállítással a személyi szabadságot csak a szükséges ideig, de legfeljebb 8 órán át korlátozhatja. Ha az előállítás célja még nem valósult meg, indokolt esetben ezt az időtartamot a rendőri szerv vezetője egy alkalommal 4 órával meghosszabbíthatja. Az előállítás időtartamát a rendőri intézkedés kezdetétől kell számítani.
 
@@ -529,6 +535,27 @@ törölni kell.
 ### A személyi védelemmel, illetve Védelmi Programmal kapcsolatos intézkedés
 
 46/A. § A Rendőrség a büntetőeljárásban résztvevők és az eljárást folytató hatóság tagjainak személyi védelmét, valamint a Védelmi Program végrehajtásával összefüggő feladatokat külön jogszabály szerint látja el. A Védelmi Program végrehajtásához közvetlenül kötődő személyi és tárgyi vonatkozású kiadások speciális működési kiadásoknak tekintendők. Az ilyen kiadások fedezésére szolgáló elkülönített előirányzatra, annak kezelésére a 68/A. § (1) bekezdésében meghatározott rendelkezést kell alkalmazni.
+
+### Leplezett figyelés elrendelése
+
+46/B. § A Rendőrség bűnmegelőzési, bűnüldözési és bűnfelderítési célból leplezett figyelést rendelhet el arra a személyre vonatkozóan, akiről megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2003. évi CXXX. törvény 1. melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő) vagy követ el a Magyar Köztársaság vagy más, a Schengeni Információs Rendszert alkalmazó állam területén, abban az esetben is, ha a magyar törvény szerint az előkészület nem büntetendő. Leplezett figyelés rendelhető el az ilyen személlyel vagy bűncselekménnyel kapcsolatba hozható jármű vonatkozásában is.
+
+### A Schengeni Információs Rendszerben elhelyezett leplezett figyelésre irányuló jelzés végrehajtása
+
+46/C. § (1) Ha a rendőr az e fejezetben meghatározott valamely más intézkedése során megállapítja, hogy az intézkedéssel érintett személy vagy jármű azonos a Schengeni Információs Rendszerben elhelyezett leplezett figyelésre irányuló jelzés szerinti személlyel vagy járművel, a leplezett figyelésre irányuló jelzés végrehajtása során az e fejezetben meghatározott intézkedéseket foganatosíthatja.
+
+(2) A rendőr – a leplezett figyelésre történő utalás és a leplezett figyelés céljának veszélyeztetése nélkül – kizárólag annak az intézkedésnek a tényét és célját közölheti, amelynek során a leplezett figyelésre irányuló jelzés végrehajtására sor kerül.
+
+(3) A rendőr a leplezett figyelésre irányuló jelzés végrehajtásakor az intézkedése során rögzítendő adatokon túl – ha ez a leplezett figyelésre irányuló jelzés végrehajtásának célját nem veszélyezteti – az alábbi adatokat rögzítheti és továbbíthatja a külön jogszabályban meghatározott szerven keresztül az adott leplezett figyelésre irányuló jelzést kibocsátó hatóságnak:
+
+- a) az intézkedéssel érintett személy vagy jármű megtalálásának ténye, körülményei,
+- b) az intézkedés helye, ideje, indoka,
+- c) az utazás útvonala és az úti cél,
+- d) az intézkedéssel érintett személyt kísérő, illetve az intézkedéssel érintett járműben utazó személyek természetes személyazonosító adatai,
+- e) a használt jármű azonosításához szükséges adatok és
+- f) a szállított tárgyakra vonatkozó adatok.
+
+(4) A (3) bekezdésben meghatározott adatok megszerzése érdekében kényszerítő eszköz nem alkalmazható.
 
 ### VI. Fejezet — A KÉNYSZERÍTŐ ESZKÖZÖK
 
@@ -748,9 +775,9 @@ törölni kell.
 
 (2)
 
-### A nyomozás megtagadásának vagy megszüntetésének kilátásba helyezése
+### A feljelentés elutasításának vagy a nyomozás megszüntetésének kilátásba helyezése
 
-67. § (1) A Rendőrség az ügyész hozzájárulásával a nyomozás megtagadásának vagy megszüntetésének kilátásba helyezésével információszolgáltatásban állapodhat meg a bűncselekmény elkövetőjével, ha a megállapodással elérhető bűnüldözési célhoz fűződő érdek jelentősebb, mint az állam büntetőjogi igényének érvényesítéséhez fűződő érdek.
+67. § (1) A Rendőrség az ügyész hozzájárulásával a feljelentés elutasításának vagy a nyomozás megszüntetésének kilátásba helyezésével információszolgáltatásban állapodhat meg a bűncselekmény elkövetőjével, ha a megállapodással elérhető bűnüldözési célhoz fűződő érdek jelentősebb, mint az állam büntetőjogi igényének érvényesítéséhez fűződő érdek.
 
 (2) Az (1) bekezdés szerinti megállapodás létrejötte esetén a Rendőrség az elkövető által a sértettnek okozott kárt megtéríti, az ehhez szükséges fedőokiratot elkészítheti, illetőleg titoktartási megállapodás megkötését kezdeményezheti.
 
@@ -870,7 +897,7 @@ esetén.
 
 74. § A külön engedélyhez kötött titkos információgyűjtés során szerzett és rögzített adatokat az engedélyező bíró bármikor megismerheti.
 
-75. § A belső bűnmegelőzési és bűnfelderítő feladatokat ellátó szerv (e törvény alkalmazása szempontjából a továbbiakban: Rendvédelmi Szervek Védelmi Szolgálata) feladatkörében az e fejezetben szabályozott titkos információgyűjtést a Rendőrségre vonatkozó szabályok szerint végezheti. Az engedély iránti kérelem (70. §), a sürgősségi elrendelés (72. §), valamint a megszüntetés elrendelése [73. § (1) bekezdés] az ellenőrző szerv vezetőjének hatáskörébe tartozik. A feladatkörében eljárva az adatok kezelésére a VIII. fejezetben foglaltak az irányadók.
+75. § A Rendvédelmi Szervek Védelmi Szolgálata feladatkörében az e fejezetben szabályozott titkos információgyűjtést a Rendőrségre vonatkozó szabályok szerint végezheti. Az engedély iránti kérelem (70. §), a sürgősségi elrendelés (72. §), valamint a megszüntetés elrendelése [73. § (1) bekezdés] az ellenőrző szerv vezetőjének hatáskörébe tartozik. A feladatkörében eljárva az adatok kezelésére a VIII. fejezetben foglaltak az irányadók.
 
 ### VIII. Fejezet — A RENDŐRSÉG ADATKEZELÉSE
 
@@ -897,7 +924,7 @@ kezeli.
 
 (2) A
 
-- a) megyei (budapesti) rendőr-főkapitányság adatait a rendőrfőkapitány,
+- a) megyei (fővárosi) rendőr-főkapitányság adatait a rendőrfőkapitány,
 - b) rendőrkapitányság, illetve a határrendészeti kirendeltség adatait a rendőrkapitány, illetve a határrendészeti kirendeltség vezetője
 
 által kijelölt szervezeti egység kezeli és dolgozza fel.
@@ -952,18 +979,19 @@ kezeli.
 - e) a társadalombiztosítási nyilvántartásból,
 - f) az adóhatóság által vezetett nyilvántartásból,
 - g) a közúti közlekedési nyilvántartásokból (az engedély-nyilvántartás, a járműnyilvántartás, a származás-ellenőrzési nyilvántartás, az okmánytár, a parkolási igazolvány nyilvántartás és az előzetes eredetiségvizsgálati nyilvántartás),
-- h) a bűnügyi nyilvántartásból (a bűntettesek, a kényszerintézkedés alatt állók, a büntetőeljárás alatt állók, az ujj- és tenyérnyomatok, a fényképek, valamint a DNS-profilok nyilvántartása),
+- h) törvényben meghatározottak szerint a bűnügyi nyilvántartási rendszer nyilvántartásaiból, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásaiból,
 - i) a büntetés-végrehajtási intézetekben fogvatartottak nyilvántartásából,
 - j) a központi idegenrendészeti nyilvántartásból,
 - k) a menekültügyi nyilvántartásból,
-- l) a határrendészeti nyilvántartásból,
+- l)
 - m) a személyszállítást végző légi fuvarozóknak a légi közlekedésről szóló törvény alapján kezelt adatokat tartalmazó adatbázisából,
 - n) az ügyészség büntetőeljárási szakterületének ügyviteli nyilvántartásából,
 - o) a bíróságok által vezetett nyilvántartásokból (cégnyilvántartás, társadalmi szervezetek és alapítványok nyilvántartása, gondnokoltak névjegyzéke),
 - p) a bírósági ügyviteli nyilvántartásból,
 - r) az ingatlan-nyilvántartásból,
 - s) az egyéni vállalkozói igazolvánnyal rendelkező vállalkozók nyilvántartásából,
-- t) a közjegyzői zálogjogi nyilvántartásból.
+- t) a közjegyzői zálogjogi nyilvántartásból,
+- u) a központi szabálysértési nyilvántartásból.
 
 (3) Az általános munkarend korlátaitól függetlenül kérhető adat a (2) bekezdés a), d), i), j), k) és m) pontjaiban felsorolt nyilvántartásokból, a közúti közlekedési nyilvántartások közül az engedély-nyilvántartásból és a járműnyilvántartásból, valamint a bűnügyi nyilvántartások közül a bűntettesek nyilvántartásából. Az adatkéréseket hiányos és töredékadatok esetén is teljesíteni kell.
 
@@ -1037,7 +1065,7 @@ kezeli.
 
 91/B. § A rendőrségi adatkezelő szerv vezetője a 91/A. § (1) bekezdés e)–h) pontjaiban meghatározott adatok tekintetében – ha bűnüldözési célból elengedhetetlen, továbbá ha az érintett vagy mások jogainak védelme érdekében szükséges – az érintett személy tájékozódási, helyesbítési és törlési jogának gyakorlását – írásban, indokolással ellátva – megtagadhatja vagy korlátozhatja. Az indokolás mellőzhető, ha az a Rendőrség bűnüldözési feladatának ellátását akadályozza, vagy mások jogainak sérelmével jár. Az indokolás mellőzése esetén a megtagadás okaként e rendelkezésre kell hivatkozni. Az adat-hozzáférési, helyesbítési és törlési jog korlátozása nem érinti a büntetőeljárásban résztvevőknek a büntetőeljárásról szóló törvényben biztosított jogainak gyakorlását.
 
-91/C. § (1) A Rendőrség bűnüldözési célból jogosult átvenni és az egyedi ügyhöz kapcsolódóan kezelni a bűnügyi nyilvántartásban szereplő adatokat, valamint a hatáskörébe tartozó üggyel összefüggésben a 84. § (2) bekezdésében foglaltakon túlmenően egyéb, általa jogszerűen kezelhető adatot igényelhet bármely adatkezelő szervtől. A Rendőrség az adatszolgáltatás teljesítésére határidőt jelölhet meg. A megkeresett adatkezelő szerv – ha törvény eltérően nem rendelkezik – köteles a Rendőrség jogszerű adatszolgáltatás iránti igényét teljesíteni.
+91/C. § (1) A Rendőrség bűnüldözési célból jogosult átvenni és az egyedi ügyhöz kapcsolódóan kezelni a 84. § (2) bekezdés h) pontja szerinti nyilvántartásban szereplő adatokat, valamint a hatáskörébe tartozó üggyel összefüggésben a 84. § (2) bekezdésében foglaltakon túlmenően egyéb, általa jogszerűen kezelhető adatot igényelhet bármely adatkezelő szervtől. A Rendőrség az adatszolgáltatás teljesítésére határidőt jelölhet meg. A megkeresett adatkezelő szerv – ha törvény eltérően nem rendelkezik – köteles a Rendőrség jogszerű adatszolgáltatás iránti igényét teljesíteni.
 
 (2) A Rendőrség a bűnüldözési feladatai ellátása céljából – személy- és tárgykörözés során, illetőleg lakhelyelhagyási tilalom, házi őrizet elrendelése vagy biztosíték letétbe helyezésének engedélyezése esetén, továbbá nemzetközi kötelezettségvállalás alapján – jelzés elhelyezését rendelheti el az alábbi nyilvántartásokban:
 
@@ -1046,7 +1074,7 @@ kezeli.
 - c) a külföldre utazásban korlátozott személyekre és az útlevélre vonatkozó nyilvántartás,
 - d) a bűntettesek (bíróság által jogerősen elítéltek) nyilvántartása,
 - f) a büntetés-végrehajtási intézetekben fogvatartottak nyilvántartása,
-- g) a határrendészeti nyilvántartás,
+- g)
 - h) az ingatlan-nyilvántartás, és
 - i) a cégnyilvántartás.
 
@@ -1113,7 +1141,7 @@ részére.
 
 - a) beutazási és tartózkodási tilalom hatálya alatt állók nyilvántartása,
 - b) körözési információs rendszer,
-- c) kényszerintézkedés alatt állók nyilvántartása,
+- c) kényszerintézkedés hatálya alatt állók nyilvántartása,
 - d) útiokmány-nyilvántartás,
 - e) személyi adat- és lakcímnyilvántartás,
 - f) személyazonosító igazolványokra vonatkozó nyilvántartás,
@@ -1177,7 +1205,8 @@ részére.
 - b) a pártfogó felügyelet alatt állók és a bíróság által kitiltottak adatait, továbbá a foglalkozástól, a járművezetéstől eltiltottak adatait azokban az esetekben, amikor a foglalkozás gyakorlásához szükséges engedély kiadása a Rendőrség hatáskörébe tartozik öt évig, illetőleg ezek hatályának lejártáig,
 - c) külön jogszabályban meghatározottak szerint a Rendőrség által kiadott engedély alapján, illetve a Rendőrség hatósági ellenőrzési jogkörébe tartozó tevékenységet folytató személyek azonosításához szükséges, továbbá az engedély tárgyával, illetve az ellenőrizendő tevékenységgel összefüggő adatokat az engedély időtartamának lejártától, illetve visszavonásától számított tíz évig, illetőleg a külön jogszabályban meghatározott ideig,
 - d) az ismeretlen holttestek és a rendkívüli halálesetek jellemzőit a holttest azonosításáig, illetve a holttest megtalálásától vagy a haláleset bekövetkezésétől számított húsz évig,
-- e) a szakhatósági és engedélyezési nyilvántartási rendszerben a kiadott engedély és szakhatósági hozzájárulás alapján az engedéllyel és szakhatósági hozzájárulással érintett személy személyazonosító és lakcím adatát, továbbá az engedély tárgyával, illetve a szakhatósági hozzájárulással folytatott tevékenységgel összefüggő adatokat az engedély időtartamának lejártától, illetve a visszavonástól számított két évig.
+- e) a szakhatósági és engedélyezési nyilvántartási rendszerben a kiadott engedély és szakhatósági hozzájárulás alapján az engedéllyel és szakhatósági hozzájárulással érintett személy személyazonosító és lakcím adatát, továbbá az engedély tárgyával, illetve a szakhatósági hozzájárulással folytatott tevékenységgel összefüggő adatokat az engedély időtartamának lejártától, illetve a visszavonástól számított két évig,
+- f) a hozzátartozók közötti erőszak alapján hozott ideiglenes megelőző távoltartó határozattal érintett személyek természetes személyazonosító adatait, lakcím adatait, a hozzátartozók közötti erőszakot megvalósító cselekmény jellemzőit, a hozzátartozók közötti erőszak megállapítását igazoló adatokat, az erre utaló bizonyítékokat, eszközöket az ideiglenes megelőző távoltartó határozat hatályának megszűnésétől számított egy évig.
 
 (2) A Rendőrség az (1) bekezdés a) pontja alapján vezetett nyilvántartásban szereplő személyek személyazonosító és lakcímadatainak megállapításához, illetőleg egyeztetéséhez a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvényben meghatározott adatokat – a személyi azonosító használatával – igényelheti a személyi adat- és lakcímnyilvántartás szervétől, valamint a személyi azonosítót e nyilvántartásaiban belső azonosítóként használhatja.
 
@@ -1285,14 +1314,15 @@ részére.
 - a) kijelölje a Rendőrség központi szervét,
 - b) rendőr-főkapitányságokat, rendőrkapitányságokat, határrendészeti kirendeltségeket, valamint szükség szerint más rendőri szerveket hozzon létre vagy szüntessen meg,
 - c) meghatározza a rendőrség szerveinek feladatát és hatáskörét,
-- d) meghatározza a közbiztonságra veszélyt jelentő egyes eszközök és anyagok, valamint a polgári felhasználású robbanóanyagok és pirotechnikai termékek gyártására, forgalmazására, szállítására, tárolására, birtoklására és használatára vonatkozó szabályokat,
+- d) meghatározza a közbiztonságra veszélyt jelentő egyes eszközök és anyagok, valamint a polgári felhasználású robbanóanyagok gyártására, forgalmazására, szállítására, tárolására, birtoklására és használatára vonatkozó szabályokat,
 - e) meghatározza a személyes javak rendőri intézkedés keretében történő igénybevételével és a kártalanítással kapcsolatos eljárás szabályait,
 - f) meghatározza a Rendőrség ellenérték fejében végezhető szolgáltató tevékenységének körét,
 - g) meghatározza a megelőző-védelemmel, személybiztosítással és objektumvédelemmel kapcsolatos szabályokat,
 - h) meghatározza a Rendvédelmi Szervek Védelmi Szolgálatának feladatát,
 - i) meghatározza a határterülethez tartozó településeket, valamint a nemzetközi forgalom számára megnyitott repülőtér, vasútállomás és kikötő (kikötőhely) határterületnek minősülő területeit,
 - j) állapítsa meg a határátkelőhely területére nem határátlépés céljából történő belépés és tartózkodás rendjét,
-- k) állapítsa meg a kényszerítő eszközök rendszeresítésére vonatkozó szakmai követelményeket és eljárási szabályokat.
+- k) állapítsa meg a kényszerítő eszközök rendszeresítésére vonatkozó szakmai követelményeket és eljárási szabályokat,
+- l) állapítsa meg a kerékbilincs alkalmazásával, a járművek elszállításával, valamint az ezen intézkedések során felmerült költségekkel kapcsolatos szabályokat.
 
 (2)
 
@@ -1352,7 +1382,12 @@ részére.
 - g) a gyorsreagálású határvédelmi csapatok felállítására szolgáló eljárás bevezetéséről, valamint a 2007/2004/EK tanácsi rendeletnek ezen eljárás tekintetében történő módosításáról és a kiküldött határőrök feladatai és hatáskörei szabályozásáról szóló, 2007. július 11-i 863/2007/EK európai parlament és tanácsi rendelet 6. cikk (8) bekezdése, valamint e rendelet által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 10. cikk (8) bekezdése,
 - h) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet 2. cikk 9. pontja,
 - i) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet 2. cikk 10. pontja,
-- j) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet 2. cikk 11. pontja.
+- j) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet 2. cikk 11. pontja,
+- k) a Benelux Gazdasági Unió államai, a Németországi Szövetségi Köztársaság és a Francia Köztársaság kormányai között a közös határaikon történő ellenőrzések fokozatos megszüntetéséről szóló, 1985. június 14-i schengeni megállapodás végrehajtásáról szóló egyezmény (Schengeni Végrehajtási Egyezmény) 99. cikke [46/B–46/C. §],
+- l) a néhány új funkciónak – többek között a terrorizmus elleni küzdelemnek – a Schengeni Információs Rendszerbe történő bevezetéséről szóló, 2005. február 24-i 2005/211/IB tanácsi határozat 1. cikke [46/B–46/C. §],
+- m) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–5. és 16. cikke [91/C. §],
+- n) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 18. és 20. cikke [29/A. §, 62/A. §, 84. §, 91/K. §],
+- o) az 562/2006/EK rendeletnek a vízuminformációs rendszer (VIS) Schengeni határ-ellenőrzési kódex keretében való alkalmazása tekintetében történő módosításáról szóló, 2009. január 14-i 81/2009/EK európai parlamenti és tanácsi rendelet 1. cikk 1. pontja [35/B. §].
 
 105. §
 
