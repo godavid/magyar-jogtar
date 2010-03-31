@@ -95,7 +95,7 @@ kézbesítettnek kell tekinteni.
 
 (3) Ha a jogosult az igényét menthető okból nem tudja érvényesíteni, az akadály megszűnésétől számított hat hónapon belül ezt akkor is megteheti, ha az elévülési idő már eltelt, vagy abból hat hónapnál kevesebb van hátra.
 
-(4) Az igény érvényesítésére irányuló írásbeli felszólítás, az igénynek a bíróság előtti érvényesítése, megegyezéssel történő módosítása, az egyezségkötés, valamint a kötelezett elismerése az elévülést megszakítja. Az elévülés megszakadása, illetőleg az elévülés megszakítását előidéző eljárás jogerős befejezése után az elévülési idő újra kezdődik. Ha az elévülést megszakító eljárás során végrehajtható határozatot hoztak, az elévülést csak a végrehajtási cselekmények szakítják meg.
+(4) Az igény érvényesítésére irányuló írásbeli felszólítás, az igénynek a bíróság előtti érvényesítése, a külön törvény szerinti közvetítő vagy békéltető igénybevételének kezdeményezése, az igény megegyezéssel történő módosítása, az egyezségkötés, valamint a kötelezett elismerése az elévülést megszakítja. Az elévülés megszakadása, illetőleg az elévülés megszakítását előidéző eljárás jogerős befejezése után az elévülési idő újra kezdődik. Ha az elévülést megszakító eljárás során végrehajtható határozatot hoztak, az elévülést csak a végrehajtási cselekmények szakítják meg.
 
 ### A határidők számítása
 
@@ -2347,7 +2347,7 @@ tagjai.
 
 177. § (1) A munkáltató a 174—176. §-on alapuló felelőssége alapján a munkavállalónak elmaradt jövedelmét, dologi kárát, a sérelemmel, illetve ennek elhárításával összefüggésben felmerült indokolt költségeit köteles megtéríteni.
 
-(2) Meg kell téríteni a munkavállalónak azt a kárát is, amely nem vagyoni kár.
+(2) A személyhez fűződő jogai megsértése esetén a munkavállalót az őt ért nem vagyoni sérelemért sérelemdíj illeti meg.
 
 178. § (1) A munkaviszony körében az elmaradt jövedelem megállapításánál — mind a pénzben, mind a természetben megállapított — elmaradt munkabért, és azon rendszeres szolgáltatások pénzbeli értékét kell figyelembe venni, amelyekre a munkavállaló a munkaviszony alapján a munkabéren felül jogosult, feltéve, ha azokat a károkozás bekövetkezését megelőzően rendszeresen igénybe vette.
 
