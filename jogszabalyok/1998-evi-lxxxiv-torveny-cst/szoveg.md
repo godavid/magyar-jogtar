@@ -96,6 +96,8 @@ saját háztartásában nevelt gyermekre tekintettel;
 
 (5) Ha a kiskorú szülő gyermekének nincs gyámja, vagy ha a 16. életévét betöltött kiskorú szülő a saját háztartásban nevelt gyermekének gyámjával a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény 77. §-ának (2) bekezdése szerint nem él egy háztartásban, a családi pótlékot a kiskorú szülőnek kell megállapítani.
 
+[(5) Ha a kiskorú szülő gyermekének nincs gyámja, vagy ha a 16. életévét betöltött kiskorú szülő a saját háztartásban nevelt gyermekének gyámjával a Polgári Törvénykönyv 3:157. §-ának (4) bekezdése szerint nem él egy háztartásban, a családi pótlékot a kiskorú szülőnek kell megállapítani.]
+
 8. § (1)
 
 (2) A tartósan beteg, illetve súlyosan fogyatékos gyermek után vagy személy részére járó magasabb összegű családi pótlék annak a hónapnak a végéig jár, ameddig a betegség, súlyos fogyatékosság fennállását a külön jogszabályban előírtak szerint igazolták.
@@ -199,6 +201,12 @@ saját háztartásában nevelt gyermekre tekintettel;
 (5) A nagyszülő gyermekgondozási segélyre való jogosultságát akkor is meg kell szüntetni, ha olyan kizáró körülmény áll be, amely a szülő az ellátásnak saját maga általi igénybevétele esetén a gyermekgondozási segélyre való jogosultságának elvesztését vonná maga után.
 
 (6) Ha a szülő a gyermek után gyermekápolási táppénzt vesz igénybe, ez a körülmény a nagyszülő gyermekgondozási segélyre vonatkozó jogosultságát nem érinti.
+
+[20/B. § (1) A gyermek örökbefogadás előtti gondozásba történő kihelyezésének időpontjától számított hat hónap időtartamig gyermekgondozási segélyre jogosult az örökbefogadó szülő – a házastársi és rokoni örökbefogadás kivételével –, amennyiben a gyermek az örökbefogadás előtti gondozásba történő kihelyezéskor a 20. § (1) bekezdésének a)–b) pontjai szerinti életkort már betöltötte, azonban a 10. életévét még nem töltötte be.
+
+(2) Amennyiben a gyermek a 20. § (1) bekezdésének a)–c) pontjai szerinti életkort az örökbefogadás előtti gondozásba történő kihelyezést követő hat hónapon belül tölti be, akkor az örökbefogadó szülő 20. § (1) bekezdése szerinti gyermekgondozási segélyre való jogosultsága a gyermek 20. § (1) bekezdésének a)–c) pontjai szerinti életkorának betöltését követően a jogosultság kezdő időpontjától számított hat hónap elteltéig meghosszabbodik.
+
+(3) Az (1)–(2) bekezdés szerint gyermekgondozási segélyben részesülő személy kereső tevékenységet heti húsz órát meg nem haladó időtartamban folytathat.]
 
 21. § A gyermekgondozási segélyben részesülő személy – ide nem értve a nagyszülőt – keresőtevékenységet
 
@@ -404,7 +412,7 @@ az ellátás szünetel.
 
 (4) A (2) bekezdésben meghatározott adatok közül az adatkezelésre jogosult szerv csak az adott támogatás elbírálásához szükséges adatokat kezelheti.
 
-(5) Az igényelbíráló szerv az állami adóhatóság felé fennálló adatszolgáltatási kötelezettségének teljesítése érdekében kezelheti a jogosult és a jogosult házastársa, élettársa adóazonosító jelét.
+(5) Az igényelbíráló szerv az állami adóhatóság felé fennálló adatszolgáltatási kötelezettségének teljesítése érdekében kezelheti a jogosult adóazonosító jelét.
 
 46. § Ha törvény másként nem rendelkezik, a 45. § (2) bekezdés szerinti adatok alapján vezetett nyilvántartásból a családtámogatási ellátásra való jogosultság megszűnésétől számított öt év elteltével – a szolgálati időre jogosító ellátások kivételével – törölni kell az adott személyre vonatkozó adatokat.
 

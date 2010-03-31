@@ -81,7 +81,7 @@ meghaladja, azzal, hogy a szociális rászorultságtól függő pénzbeli és te
   - mb) a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény (a továbbiakban: Ltv.) szerinti, magyarországi székhelyű egyház, az egyházaknak az Ltv. 14. §-a szerinti magyarországi székhelyű szövetsége, illetve az Ltv. 13. §-ának (2)–(3) bekezdése szerinti magyarországi székhelyű egyházi jogi személy (a továbbiakban: egyházi fenntartó); nem minősül egyházi fenntartónak az a jogi személy, amely más típusú szervezetként jogalanyisággal rendelkezik, így különösen a társadalmi szervezet, annak alapszabályban jogi személlyé nyilvánított szervezeti egysége, az alapítvány, annak alapító okiratban jogi személlyé nyilvánított szervezeti egysége, a gazdasági társaság és a közhasznú társaság,
   - mc) az egyéni vállalkozó,
   - md) az ma)–mb) alpontokban nem említett, magyarországi székhelyű jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni cég,
-  - me) az a jogi személyiséggel rendelkező gazdálkodó szervezet, illetve jogi személyiség nélküli gazdasági társaság, amelynek székhelye, központi ügyvezetése vagy üzleti tevékenységének fő helye az Európai Gazdasági Térségről szóló megállapodásban részes más tagállamban van [az mc)–me) pontokban foglaltak a továbbiakban együtt: nem állami fenntartó],
+  - me) az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-állam), valamint – ha az Európai Közösséggel és tagállamaival létrejött nemzetközi szerződés alapján az adott állam szolgáltatói a letelepedés szabadsága tekintetében az EGT-államok szolgáltatóival azonos jogállást élveznek – az EGT-államoktól eltérő más államban honos vállalkozás belföldön bejegyzett fióktelepe [az mc)–me) pontokban foglaltak a továbbiakban együtt: nem állami fenntartó];
 
 ha az e törvényben és más jogszabályokban meghatározott feltételek szerint szociális szolgáltatót, illetve szociális intézményt létesít és működtet.
 
@@ -1191,7 +1191,7 @@ adatot szolgáltat.
 
 nyújtja.
 
-(3) A (2) bekezdés a), b) és d) pontjaiban meghatározott intézmény legalább tíz fő, legfeljebb azonban százötven fő ellátását biztosítja.
+(3) A (2) bekezdés a), b) és d) pontjaiban meghatározott intézmény legalább tíz fő, legfeljebb százötven fő ellátását biztosítja. Telephellyel rendelkező szociális intézmény esetén a férőhelyszámot az ellátást nyújtó székhelyen és az egyes telephelyeken külön-külön kell vizsgálni. 2011. január 1-jét követően fogyatékos személyek ápolást-gondozást nyújtó intézményi ellátása céljából új férőhelyet csak lakóotthoni formában lehet létrehozni.
 
 (4)
 
@@ -1808,7 +1808,7 @@ tehet eleget.
 
 ### Az Országos Szociálpolitikai Szakértői Névjegyzék
 
-92/J. § A szociális szakmai programok értékelésében a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény alapján szociálpolitikai szakértői tevékenység folytatására jogosult, engedéllyel rendelkező szakértő vehet részt.
+92/J. § A Kormány által erre kijelölt szerv a szakértői tevékenység folytatására engedéllyel rendelkező személyekről a Gyvt. szerint névjegyzéket vezet. A szociális szakmai programok értékelésében a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény alapján szociálpolitikai szakértői tevékenység folytatására jogosult, engedéllyel rendelkező szakértő vehet részt.
 
 ### VII. CÍM — A szociális szolgáltatások engedélyezése
 
@@ -1829,6 +1829,8 @@ tehet eleget.
 - b) bentlakásos intézmény esetén a működési engedélyben meghatározott férőhelyszám százöt százalékát, éves átlagban pedig a férőhelyszám száz százalékát. Ha az intézményben egymást követő hatvan napot meghaladóan a működési engedélyben meghatározott férőhelyszámnál több személyt látnak el, a fenntartó köteles kérelmezni a működési engedély módosítását.
 
 (6) Házi segítségnyújtás esetében az ellátottak száma egyetlen napon sem haladhatja meg a működési engedélyben meghatározott ellátotti létszám száztíz százalékát, éves átlagban pedig annak száz százalékát.
+
+(6) A Kormány által kijelölt szerv a működési engedéllyel rendelkező szociális szolgáltatókról, intézményekről nyilvántartást vezet, amelynek adattartalma nyilvános.
 
 (7) A működést engedélyező szerv a működés személyi és tárgyi feltételeinek, a működés jogszerűségének, a szociális szolgáltatásra való jogosultság megállapításának, illetőleg az intézményi jogviszonyra vonatkozó szabályok megtartásának ellenőrzése érdekében, az ahhoz szükséges mértékben
 
@@ -2544,7 +2546,7 @@ esetében.
 
 122/B. § (1) A szerződéses szolgáltatások alapján kötött szerződés – függetlenül a közbeszerzés vagy a pályáztatás alkalmazásától – tartalmazza
 
-- a) a szolgáltatást végző jogi személyiségének formája szerinti bírósági bejegyzés vagy az egyéni vállalkozói nyilvántartás bárki számára nyilvános adatait;
+- a) a szolgáltató nevét, székhelyét és adószámát,
 - b) szükség esetén az adott tevékenység végzésére jogosító hatósági engedélyt vagy a szakképzettséget igazoló irat adatait;
 - c) a szolgáltatás formáját, a szolgáltatással érintett intézmény(ek) körét, valamint a szolgáltatást biztosító nyilatkozatát arra nézve, hogy a szolgáltatásra vonatkozó, külön jogszabályban meghatározott szakmai követelményeket ismeri;
 - d) a szolgáltatást nyújtó részéről az arra vonatkozó nyilatkozatot, hogy az ellátottak adatainak vonatkozásában az adatvédelmi jogszabályi rendelkezéseket betartja és betartatja;
@@ -2637,7 +2639,7 @@ kaphatnak.
 
 (2) Az egyházi és nem állami fenntartó szociális szakmai programokhoz támogatást kaphat.
 
-129. § Címzett támogatás keretében kell gondoskodni az idősek és fogyatékosok ápolását, gondozását nyújtó intézmények, valamint a pszichiátriai betegek, illetve a fogyatékosok rehabilitációs intézményeinek olyan mértékű férőhelybővítéséről, hogy az önkormányzatok eleget tudjanak tenni az ellátási kötelezettségüknek.
+129. § Fogyatékos személyek ápolást-gondozást nyújtó intézményeinek címzett támogatással történő beruházása esetén kizárólag az ötven főnél nagyobb férőhelyszámú intézmény kiváltása támogatható.
 
 130. §
 
