@@ -205,7 +205,7 @@ kell jelölni, illetőleg megválasztani.
 14. § (1) Támogatható az állami foglalkoztatási szerv által felajánlott, vagy elfogadott képzése annak a személynek,
 
 - a) aki álláskereső,
-- b) aki 25. életévét – felsőfokú végzettségű személy esetén a 30. életévét – nem töltötte be, és a tanulói, hallgatói jogviszonya megszűnését követően munkanélküli járadékra nem szerzett jogosultságot,
+- b) aki 25. életévét – felsőfokú végzettségű személy esetén a 30. életévét – nem töltötte be, és a tanulói, hallgatói jogviszonya megszűnését követően álláskeresési járadékra és álláskeresési segélyre nem szerzett jogosultságot,
 - c) aki gyermekgondozási segélyben, gyermeknevelési támogatásban, illetőleg terhességi gyermekágyi segélyben, gyermekgondozási díjban vagy ápolási díjban részesül,
 - d) aki rehabilitációs járadékban részesül,
 - e) akinek munkaviszonya várhatóan egy éven belül megszűnik, és ezt a munkaadó a munkavállalóval és az állami foglalkoztatási szervvel előzetesen írásban közölte, vagy
@@ -345,7 +345,7 @@ adható.
 
 20. § (1) A 13/A. § (3) bekezdésében, a 14–16/A. §-ban, a 17–18/A. §-ban, a 19/A. §-ban, valamint a 22. §-ban meghatározott támogatás a Munkaerőpiaci Alap foglalkoztatási alaprészéből, a 19/B–19/C. §-ban meghatározott támogatások a Munkaerőpiaci Alap foglalkoztatási és rehabilitációs alaprészéből nyújthatók.
 
-(2) A 16/B. §-ban meghatározott támogatás a Munkaerőpiaci Alapba a 39. § (13) bekezdése szerint átcsoportosított pénzeszközből nyújtható.
+(2) A 16/B. §-ban meghatározott támogatás a Munkaerőpiaci Alapba a 39. § (13) bekezdése szerint átcsoportosított pénzeszközből nyújtható. E támogatással kapcsolatos, a 2010. költségvetési éven túl áthúzódó kötelezettségvállalás fedezetét a Munkaerőpiaci Alap foglalkoztatási alaprész központi kerete finanszírozza.
 
 (3) A 13/A. § (1)–(2) bekezdésében meghatározott szolgáltatások, a 14. §-ban, a 16–18. §-okban, valamint a 19/B–19/C. §-okban meghatározott támogatások a Társadalmi Megújulás Operatív Program keretében az állami foglalkoztatási szerv közreműködésével megvalósításra kerülő munkaerő-piaci programokban is nyújthatók.
 
@@ -437,6 +437,10 @@ miatt kerül sor.
 
 (6) Az álláskeresési járadék napi összege a folyósítási időtartam második szakaszában az álláskeresési járadékra való jogosultság kezdő napján hatályos kötelező legkisebb munkabér napi összegének 60 százaléka. Ha a járadék számításánál figyelembe vett összeg nem éri el a minimálbért, akkor mindkét szakaszban az álláskeresési járadék napi összege az (1) és (3)–(4) bekezdés szerint számított összeg 60 százaléka.
 
+(7) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló rendeletek hatálya alá tartozó személyek esetében az Európai Gazdasági Térség másik tagállamában szerzett bért, szakmai jövedelmet vagy átlagkeresetet az (1) bekezdésben meghatározott járulékalapként kell figyelembe venni.
+
+(8) A 27. § (12) bekezdésében meghatározott ideiglenes ellátás összege a kérelem benyújtásának időpontjában hatályos kötelező legkisebb munkabér 60 százaléka.
+
 ### Álláskeresési járadék folyósításának időtartama
 
 27. § (1) Az álláskeresési járadék folyósításának időtartamát (a továbbiakban: folyósítási idő) – a 25. § (4) bekezdésében foglaltak figyelembevételével – annak az időtartamnak az alapulvételével kell megállapítani, amely alatt az álláskereső az álláskeresővé válást megelőző négy év alatt munkaviszonyban töltött, vagy egyéni, illetőleg társas vállalkozói tevékenységet folytatott, feltéve ez utóbbi esetben, hogy vállalkozói tevékenysége alatt járulékfizetési kötelezettségének eleget tett (a továbbiakban együtt: jogosultsági idő). A jogosultsági idő tartamába nem számítható be az az időtartam, amely alatt az álláskereső álláskeresési járadékban vagy vállalkozói járadékban részesült. Az előbbiekben meghatározott négyéves időtartam meghosszabbodik a következő időtartamokkal, vagy azok egy részével, ha ezen időtartamok alatt munkaviszony nem állt fenn, vagy az álláskereső jogosultsági időnek minősülő vállalkozói tevékenységet nem folytatott:
@@ -460,7 +464,7 @@ időtartamával.
 
 (5) Ha a munkaviszonyt az álláskeresővé válást megelőző 90 napon belül a munkavállaló rendes felmondással, továbbá a munkaadó rendkívüli felmondással szüntette meg, az álláskereső részére álláskeresési járadék az előbbiekben meghatározott módon megszüntetett munkaviszony megszűnését követő 90 nap elteltével folyósítható, tekintet nélkül arra, hogy az álláskeresési járadék folyósításához szükséges feltételekkel rendelkezik.
 
-(6) A folyósítási idő számítása szempontjából a jogosultsági idő csak egyszer vehető figyelembe. Ha az álláskereső az álláskeresési járadék folyósításának számára meghatározott időtartamát teljes mértékben nem vette igénybe, az ismételt folyósításnál a járadékfolyósítás időtartamának alapját képező jogosultsági időt a tényleges járadékfolyósítási időtartamnak megfelelően csökkenteni kell.
+(6) A folyósítási idő számítása szempontjából a jogosultsági idő csak egyszer vehető figyelembe. Ha az álláskereső az álláskeresési járadék folyósításának számára meghatározott időtartamát teljes mértékben nem vette igénybe, az ismételt folyósításnál a járadékfolyósítás időtartamának alapját képező jogosultsági időt a tényleges járadékfolyósítási időtartamnak megfelelően csökkenteni kell. Ezt a rendelkezést alkalmazni kell a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló rendeletek hatálya alá tartozó személy által, az Európai Gazdasági Térség másik tagállamában igénybevett munkanélküli ellátás tekintetében is.
 
 (7) Az álláskeresőnek az állami foglalkoztatási szervnél történő jelentkezése és az álláskeresési járadék folyósításának az (5) bekezdésben foglaltak szerint megállapított kezdő napja közötti időtartam az álláskeresési járadék folyósításának idejébe nem számít be.
 
@@ -475,6 +479,8 @@ időtartamával.
 
 (11) Ha az álláskereső részére az állami foglalkoztatási szerv (illetőleg annak kirendeltsége) a (8) bekezdésben meghatározott összeget kifizette, úgy kell tekinteni, hogy az álláskereső az álláskeresési járadék folyósítási idejét kimerítette.
 
+(12) Ha az állami foglalkoztatási szerv a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló rendeletek hatálya alá tartozó álláskereső részére ideiglenes ellátást állapít meg, az ellátás addig folyósítható, amíg az – álláskeresési járadék vagy álláskeresési segély megállapításához szükséges – az Európai Gazdasági Térség másik tagállamában szerzett jogosultsági időre, valamint szakmai jövedelemre, bérre vagy átlagkeresetre, valamint az igénybe vett munkanélküli ellátásra vonatkozó bizonyíték rendelkezésre nem áll. Az ideiglenes ellátás folyósításának időtartama nem haladhatja meg a 180 napot.
+
 ### Álláskeresési járadék folyósításának megszüntetése és szüneteltetése
 
 28. § (1) Meg kell szüntetni az álláskeresési járadék folyósítását, ha az álláskereső:
@@ -486,7 +492,8 @@ időtartamával.
 - e) olyan képzési lehetőséget fogad el, amelynek során a mindenkori kötelező legkisebb munkabér összegét elérő rendszeres támogatásban részesül,
 - f) oktatási intézmény nappali tagozatán folytat tanulmányokat,
 - g) meghalt,
-- h) az álláskeresési járadék folyósítási idejét kimerítette.
+- h) az álláskeresési járadék folyósítási idejét kimerítette,
+- i) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló közösségi rendeletek hatálya alá tartozik, az Európai Gazdasági Térség másik tagállamába távozik, és legfeljebb a távozás időpontjától számított három hónap elteltével a Magyar Köztársaság területére nem tér vissza.
 
 (2) Ha az álláskeresési járadék folyósításának megszüntetése az (1) bekezdés b) pontjában meghatározott ok miatt, valamint a keresőtevékenység folytatása miatt úgy történik, hogy az álláskereső 36. § (1) bekezdése szerinti bejelentést elmulasztotta, az álláskereső részére álláskeresési járadék csak a folyósítás megszüntetésének kezdő napjától számított 90 nap elteltével folyósítható még akkor is, ha a jogosultsághoz szükséges feltételekkel egyébként rendelkezik.
 
@@ -558,11 +565,13 @@ időtartamra folyósítható.
 
 #### 35. §
 
-### A munkanélküli ellátásokra vonatkozó közös rendelkezések
+### Az ellátásokra vonatkozó közös rendelkezések
 
 36. § (1) A munkanélküli ellátásban részesülő személy az általa folytatott kereső tevékenységet, valamint az őt foglalkoztató munkaadó nevét, címét és adószámát, adószámmal nem rendelkező magánszemély munkaadó esetében adóazonosító jelét – a (2) bekezdésben foglalt kivétellel – legkésőbb a munkakezdést megelőző napon, a kereső tevékenység megszűnését a megszűnést követő napon köteles az állami foglalkoztatási szervnek bejelenteni.
 
 (2) Ha az álláskeresési járadékban részesülő személy alkalmi munkavállalói könyvvel rendelkezik, akkor az alkalmi foglalkoztatásnak minősülő munkaviszonyát nem kell előre bejelenteni, de az alkalmi munkavállalói könyvét az álláskeresési járadék számfejtése előtt az állami foglalkoztatási szerv által megjelölt időpontban be kell mutatnia.
+
+(3) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló közösségi rendeletek hatálya alá tartozó álláskereső legalább tizenöt munkanappal a távozást megelőzően köteles bejelenteni az állami foglalkoztatási szervnek, ha munkakeresés céljából az Európai Gazdasági Térség másik tagállamába kíván távozni.
 
 36/A. § A munkaadó – a külön törvény szerinti alkalmi munkavállalói könyvvel történő foglalkoztatás esetét kivéve – a munkaviszony megszűnése, illetve megszüntetése esetén, az utolsó munkában töltött napon köteles a munkanélküli igazolólapot a munkavállalónak átadni. Az igazoló lap kiállítására, valamint annak tartalmára vonatkozó szabályokat a miniszter rendeletben állapítja meg.
 
@@ -992,8 +1001,8 @@ köt a támogatásban részesülővel hatósági szerződést.
 
 (2) A Munkaerőpiaci Alap Pénzeszközeinek hatékony felhasználása, valamint az azokból történő téves kifizetések elkerülése érdekében, ha a tényállás tisztázott,
 
-- a) a munkanélküli ellátás iránti kérelemnek helyt adó,
-- b) a munkanélküli ellátás folyósítását szüneteltető, valamint megszüntető, továbbá
+- a) az álláskeresési járadék és álláskeresési segély iránti kérelemnek helyt adó,
+- b) az álláskeresési járadék és álláskeresési segély folyósítását szüneteltető, valamint megszüntető, továbbá
 - c) a foglalkoztatást elősegítő támogatás folyósítását megszüntető
 
 határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
@@ -1112,7 +1121,7 @@ is érteni kell.
 - b) munkavállaló: az, aki az a) pontban meghatározott munkaviszonyban áll,
 - c) munkaadó: az a jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, illetve magánszemély és annak jogi személyiséggel nem rendelkező társasága, aki munkavállalót foglalkoztat, vagy foglalkoztatni kíván.
 - d) álláskereső: az a személy, aki 1. a munkaviszony létesítéséhez szükséges feltételekkel rendelkezik, és 2. oktatási intézmény nappali tagozatán nem folytat tanulmányokat, és 3. öregségi nyugdíjra nem jogosult, valamint rehabilitációs járadékban nem részesül és 4. az alkalmi foglalkoztatásnak minősülő jogviszony kivételével munkaviszonyban nem áll, és egyéb kereső tevékenységet sem folytat, és 5. elhelyezkedése érdekében az állami foglalkoztatási szervvel együttműködik, és akit 6. az állami foglalkoztatási szerv álláskeresőként nyilvántart. Az Európai Gazdasági Térségről szóló megállapodásban nem részes, az Európai Közösséggel és tagállamaival nemzetközi szerződést kötött állam állampolgára, az 1. pontban foglalt rendelkezés alkalmazása során, a nemzetközi szerződésben foglaltak szerint álláskeresőként akkor is nyilvántartásba vehető, ha Magyarországon engedély alapján végezhet munkát.
-- e) kereső tevékenység: – az 1–4. pontban foglaltak figyelembevételével – minden olyan munkavégzés, amelyért díjazás jár, továbbá kereső tevékenységet folytatónak kell tekinteni azt a személyt is, aki vállalkozói igazolvánnyal rendelkezik, valamint aki gazdasági társaság tevékenységében személyes közreműködés vagy mellékszolgáltatás keretében történő munkavégzés útján vesz részt, illetve aki a társaság vezető tisztségviselője vagy a társasági szerződésben közreműködési/munkavégzési kötelezettsége/joga fel van tüntetve. 1. Az olyan munkavégzés, amelyért jogszabály alapján tiszteletdíj jár, akkor minősül kereső tevékenységnek, ha a havi tiszteletdíj mértéke a kötelező legkisebb munkabér 30 százalékát meghaladja. 2. A mezőgazdasági őstermelői igazolvánnyal folytatott tevékenység akkor minősül kereső tevékenységnek, ha az abból származó bevételt a személyi jövedelemadóról szóló szabályok szerint a jövedelem kiszámításánál figyelembe kell venni. 3. A külön törvény alapján végzett közérdekű önkéntes tevékenység nem minősül kereső tevékenységnek. 4. A külön törvény alapján nevelőszülői jogviszony keretében végzett tevékenység nem minősül kereső tevékenységnek,
+- e) kereső tevékenység: – az 1–4. pontban foglaltak figyelembevételével – minden olyan munkavégzés, amelyért díjazás jár, továbbá kereső tevékenységet folytatónak kell tekinteni azt a személyt is, aki külön törvény szerint egyéni vállalkozónak minősül, valamint aki gazdasági társaság tevékenységében személyes közreműködés vagy mellékszolgáltatás keretében történő munkavégzés útján vesz részt, illetve aki a társaság vezető tisztségviselője vagy a társasági szerződésben közreműködési/munkavégzési kötelezettsége/joga fel van tüntetve. 1. Az olyan munkavégzés, amelyért jogszabály alapján tiszteletdíj jár, akkor minősül kereső tevékenységnek, ha a havi tiszteletdíj mértéke a kötelező legkisebb munkabér 30 százalékát meghaladja. 2. A mezőgazdasági őstermelői igazolvánnyal folytatott tevékenység akkor minősül kereső tevékenységnek, ha az abból származó bevételt a személyi jövedelemadóról szóló szabályok szerint a jövedelem kiszámításánál figyelembe kell venni. 3. A külön törvény alapján végzett közérdekű önkéntes tevékenység nem minősül kereső tevékenységnek. 4. A külön törvény alapján nevelőszülői jogviszony keretében végzett tevékenység nem minősül kereső tevékenységnek,
 - f)
 - g) kötelező legkisebb munkabér, minimálbér: a jogszabályban meghatározott kötelező legkisebb havi munkabér legmagasabb mértéke.
 - h) öregségi nyugdíjkorhatár: a személyre irányadó öregségi nyugdíjkorhatár, a társadalombiztosítási jogszabályok által egyes munkakörökben biztosított korkedvezmény figyelembevételével,
@@ -1141,7 +1150,7 @@ is érteni kell.
 
 (8) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
 
-- a) a munkanélküli járadék folyósításának,
+- a) – az államháztartásért felelős miniszterrel egyetértésben – az álláskeresési járadék összege kiszámításának, ennek keretében a 26. § (1) bekezdésében meghatározott járulékalap havi átlagos összege meghatározásának, valamint az álláskeresési járadék és álláskeresési segély folyósításának
 - b) az álláskeresőként való nyilvántartásba vétel, valamint a nyilvántartásból való törlés részletes feltételeinek, továbbá az álláskeresési megállapodás,
 - c) az EGT tagállamaiban történő munkahelykereséssel kapcsolatos költségtérítés feltételeinek és odaítélésének,
 - d)
@@ -1164,7 +1173,7 @@ említ, azon az Európai Unióhoz történő csatlakozást követően az EGT tag
 
 59. § (1) E törvény rendelkezéseit az Európai Gazdasági Térség tagállamai tekintetében az Európai Közösségben migráns munkavállalókról, önálló vállalkozókról, diákokról, nyugdíjasokról és magukat önerőből eltartókról, valamint családtagjaikról szóló közösségi jogszabályok szerint kell alkalmazni.
 
-(2) E törvénynek a munkanélküli járadék összegének kiszámítására vonatkozó, valamint a munkanélküli járadékra való jogosultsági időt meghatározó rendelkezéseit az Európai Gazdasági Térség tagállamai tekintetében az Európai Közösségek migráns munkavállalóinak, önálló vállalkozóinak, valamint ezek családtagjainak szociális biztonsága tárgykörében elfogadott közösségi rendeletek hatálya alá tartozó személyekre és ellátásokra e közösségi rendeletek szabályai szerint kell alkalmazni.
+(2) E törvénynek az álláskeresési járadék összegének kiszámítására vonatkozó, valamint az álláskeresési járadékra, valamint álláskeresési segélyre való jogosultsági időt meghatározó rendelkezéseit az Európai Gazdasági Térség tagállamai tekintetében az Európai Közösségek migráns munkavállalóinak, önálló vállalkozóinak, valamint ezek családtagjainak szociális biztonsága tárgykörében elfogadott közösségi rendeletek hatálya alá tartozó személyekre és ellátásokra e közösségi rendeletek szabályai szerint kell alkalmazni.
 
 (3) E törvény alkalmazásában az Európai Gazdasági Térség tagállamának kell tekinteni az Európai Unió tagállamát és az Európai Gazdasági Térségről szóló megállapodásban részes más államot, valamint azt az államot, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
 
@@ -1175,7 +1184,12 @@ említ, azon az Európai Unióhoz történő csatlakozást követően az EGT tag
 
 ### Az Európai Unió jogának való megfelelés
 
-60. § Ez a törvény a következő uniós jogi aktusoknak való részleges megfelelést szolgálja:
+60. § (1) Ez a törvény
 
-- a) a Tanács 2003/109/EK tanácsi irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 11. cikk (1) bekezdés a) pont és 21. cikk;
-- b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.
+- a) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról szóló, 2003. november 25-i 2003/109/EK tanácsi irányelv 11. cikk (1) bekezdése a) pontjának és 21. cikkének,
+- b) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének való megfelelést szolgálja.
+
+(2) Ez a törvény
+
+- a) a szociális biztonsági rendszerek koordinálásáról szóló, 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet,
+- b) a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló, 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.

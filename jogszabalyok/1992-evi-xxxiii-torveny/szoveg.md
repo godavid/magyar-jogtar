@@ -1147,7 +1147,9 @@ alapszabadság illeti meg.
 
 (2) A kinevezett vezető az 57. § (1)–(4) bekezdése szerinti pótszabadságra nem jogosult.
 
-57/B. § A magasabb vezető beosztású és a vezető beosztású közalkalmazottat az 57/A. §-ban meghatározott mértékű alapszabadság illeti meg, kivéve a bölcsődében, csecsemőotthonban, óvodában, továbbá az alsó-, közép- és felsőfokú oktatás keretében, valamint az egészségügyi ágazatban oktató, nevelő munkát végző megbízott vezetőket, akik az 56. §-ban meghatározott alapszabadságra és az 57. § (3) bekezdése szerinti pótszabadságra jogosultak.
+57/B. § (1) A magasabb vezető beosztású és a vezető beosztású közalkalmazottat az 57/A. §-ban meghatározott mértékű alapszabadság illeti meg, kivéve a bölcsődében, csecsemőotthonban, óvodában, továbbá az alsó-, közép- és felsőfokú oktatás keretében, valamint az egészségügyi ágazatban oktató, nevelő munkát végző megbízott vezetőket, akik az 56. §-ban meghatározott alapszabadságra és az 57. § (3) bekezdése szerinti pótszabadságra jogosultak.
+
+(2) A megbízott vezető az 57. § (1) bekezdése szerinti pótszabadságra nem jogosult.
 
 58. § (1) A pótszabadság a közalkalmazottat alapszabadságán felül – a (3) bekezdésben foglalt kivételekkel – egyszerre többféle jogcímen is megilleti.
 
@@ -1653,7 +1655,9 @@ az általa irányított, a (2) és (3) bekezdés alá nem tartozó költségvet�
 - b) a közalkalmazottak és közeli hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
 - c) a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat.
 
-(9) Eltérő rendelkezés hiányában, ahol jogszabály
+(9) Felhatalmazást kap az államháztartásért felelős miniszter, hogy az ágazati irányítása, illetve felügyelete alá tartozó szervek tekintetében rendeletben határozza meg a külföldi kiküldetést teljesítő közalkalmazottak pénzbeni járandóságaira és a kiküldetésre vonatkozó részletes szabályokat.
+
+85/A. § Eltérő rendelkezés hiányában, ahol jogszabály
 
 - a) munkaviszonyra vonatkozó szabályt említ, azon közalkalmazotti jogviszonyra vonatkozó szabályt;
 - b) munkaviszonyt említ, azon közalkalmazotti jogviszonyt;

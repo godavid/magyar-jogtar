@@ -68,7 +68,7 @@ Az Országgyűlés a jövő nemzedékért érzett felelősségtől vezérelve a 
   - sb) a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény (a továbbiakban: Ltv.) szerinti, magyarországi székhelyű egyház, az egyházaknak az Ltv. 14. §-a szerinti magyarországi székhelyű szövetsége, illetve az Ltv. 13. §-ának (2)–(3) bekezdése szerinti magyarországi székhelyű egyházi jogi személy (a továbbiakban: egyházi fenntartó); nem minősül egyházi fenntartónak az a jogi személy, amely más típusú szervezetként jogalanyisággal rendelkezik, így különösen a társadalmi szervezet, annak alapszabályban jogi személlyé nyilvánított szervezeti egysége, az alapítvány, annak alapító okiratban jogi személlyé nyilvánított szervezeti egysége, a gazdasági társaság és a közhasznú társaság,
   - sc) az egyéni vállalkozó,
   - sd) az sa)–sb) alpontokban nem említett, magyarországi székhelyű jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni cég,
-  - se) az a jogi személyiséggel rendelkező gazdálkodó szervezet, illetve jogi személyiség nélküli gazdasági társaság, amelynek székhelye, központi ügyvezetése vagy üzleti tevékenységének fő helye az Európai Gazdasági Térségről szóló megállapodásban részes, illetve nemzetközi szerződés alapján azonos jogállást élvező más államban van [az sc)–se) pontokban foglaltak a továbbiakban együtt: nem állami fenntartó],
+  - se) az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-állam), valamint – ha az Európai Közösséggel és tagállamaival létrejött nemzetközi szerződés alapján az adott állam szolgáltatói a letelepedés szabadsága tekintetében az EGT-államok szolgáltatóival azonos jogállást élveznek – az EGT-államoktól eltérő más államban honos vállalkozás belföldön bejegyzett fióktelepe [az sc)–se) pontokban foglaltak a továbbiakban együtt: nem állami fenntartó],
 
 ha az e törvényben és más jogszabályban meghatározott feltételek szerint, működési engedély alapján gondoskodik a gyermekjóléti és gyermekvédelmi szolgáltató tevékenység biztosításához szükséges feltételekről. Ha jogszabály másképp nem rendelkezik, az egyházi fenntartóra a nem állami fenntartóra vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
@@ -573,7 +573,7 @@ kell kifizetni.
 (2) Otthonteremtési támogatásra jogosult az a fiatal felnőtt, akinek
 
 - a) legalább hároméves időtartamú folyamatos – gondozási helyén töltött – nevelésbe vétele a nagykorúvá válásával szűnt meg, és
-- b) készpénzének, biztosításra vagy más célból lekötött betétjének, vagy ingatlan vagyonának értéke nem haladja meg az öregségi nyugdíj legkisebb összegének hatvanszorosát, azzal, hogy az öregségi nyugdíj legkisebb összegeként az otthonteremtési támogatás megállapítása időpontjában érvényes öregségi nyugdíj legkisebb összegét kell figyelembe venni.
+- b) készpénzének, biztosításra vagy más célból lekötött betétjének, vagy ingatlan vagyonának értéke a nagykorúvá válásakor nem haladja meg az öregségi nyugdíj legkisebb összegének hatvanszorosát, azzal, hogy az öregségi nyugdíj legkisebb összegeként az otthonteremtési támogatás megállapítása időpontjában érvényes öregségi nyugdíj legkisebb összegét kell figyelembe venni.
 
 (3) A készpénz vagyonba a fiatal felnőtt árvaellátásából és keresményéből származó megtakarítást nem lehet beszámítani. A nevelésbe vétel időtartamába az ideiglenes hatályú elhelyezés időtartamát is be kell számítani, feltéve, ha a gyermeket ideiglenesen nevelőszülőnél vagy gyermekotthonban helyezték el.
 
@@ -983,7 +983,7 @@ biztosít.
 
 ### Családok átmeneti otthona
 
-51. § (1) Az otthontalanná vált szülő kérelmére a családok átmeneti otthonában együttesen helyezhető el a gyermek és szülője, ha az elhelyezés hiányában lakhatásuk nem lenne biztosított, és a gyermeket emiatt el kellene választani szülőjétől.
+51. § (1) Az otthontalanná vált szülő kérelmére a családok átmeneti otthonában együttesen helyezhető el a gyermek és szülője, valamint legfeljebb 21. életévének betöltéséig a gyermek nagykorú testvére, ha az elhelyezés hiányában lakhatásuk nem lenne biztosított, és a gyermeket emiatt el kellene választani szülőjétől, családjától.
 
 (2) A családok átmeneti otthona legalább tizenkettő, de legfeljebb negyven felnőtt és gyermek együttes ellátását biztosítja. A családok átmeneti otthona működtethető telephelyenként legfeljebb tizenkét férőhelyes lakásban vagy családi házban. A telephelyek összférőhelyszáma nem haladhatja meg a székhely szerinti intézmény összes férőhelyeinek kétszeresét.
 
@@ -2307,9 +2307,24 @@ feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye
 
 (5) Ha az eljárásban közreműködők hibájából merültek fel költségek, azokat az viseli, akinek a költségek felmerülése felróható.
 
-(6) A más szerv eljárásában történő képviseletre kirendelt ügygondnok, eseti gondnok munkadíját és költségeit a kirendelést kérelmező szerv viseli.
+(6) A más szerv eljárásában történő képviseletre kirendelt ügygondnok, eseti gondnok munkadíját és költségeit – a (11) bekezdésben foglaltak kivételével – a kirendelést kérelmező szerv fizeti meg.
 
 (7) A gyámhivatal által kiszabott, illetve megállapított eljárási bírság, eljárási költség és a kapcsolattartás meghiúsítása folytán keletkezett igazolt költségek meg nem térült összegét adók módjára kell behajtani az adózás rendjéről szóló törvény rendelkezései szerint. A behajtásról a kötelezett lakóhelye szerinti települési önkormányzat jegyzője adóügyi hatáskörében gondoskodik.
+
+[(8) A rendszeres gyermekvédelmi kedvezményre jogosult gyermek érdekében hivatalból elrendelt gyermekvédelmi közvetítői eljárás költségeit – a (9) bekezdésben foglalt kivétellel – a gyámhivatal viseli.
+
+(9) A gyermekvédelmi közvetítői eljárás igénybevétele esetén a gyámhivatal – az ügy eldöntésére való tekintet nélkül – az eljárásban felmerült és a gyermekvédelmi közvetítői eljárásban a másik szülő által fizetett valamennyi költség megfizetésére kötelezi azt a szülőt,
+
+a) aki a gyermekvédelmi közvetítői eljárásban létrejött megállapodás ellenére a gyámhivatal előtt nem köt egyezséget,
+
+b) akinek a magatartása vagy mulasztása miatt a gyermekvédelmi közvetítői eljárás lefolytatása meghiúsult.]
+
+[(10)]
+
+(11) Az eseti gondnok munkadíját és költségeit a gyámhivatal fizeti meg, ha az
+
+- a) hagyatéki eljárásban vagy
+- b) bírósági végrehajtási eljárásban merült fel és e költség másra át nem hárítható.
 
 133/B. § A kapcsolattartásra vonatkozó határozat végrehajtására irányuló eljárásban hozott valamennyi döntés ellen fellebbezésnek van helye. A kapcsolattartásra vonatkozó határozat végrehajtására irányuló eljárásban előterjesztett fellebbezésnek halasztó hatálya van.
 
@@ -2432,7 +2447,7 @@ vonatkozó adatokat kezelhet.
 
 (2) A Kormány által kijelölt szerv gondoskodik a személyes gondoskodást nyújtó gyermekjóléti és gyermekvédelmi tevékenységet végző és a külön jogszabályban meghatározott szakképesítéssel rendelkező személy adatai működési nyilvántartásának az Szt.-ben meghatározottak szerinti vezetéséről.
 
-(3) A Kormány által kijelölt szerv – külön jogszabályban meghatározottak szerint – országos nyilvántartást vezet a szolgáltató tevékenységet végző szolgáltatókról, intézményekről, helyettes szülői és nevelőszülői hálózatokról.
+(3) A Kormány által kijelölt szerv – külön jogszabályban meghatározottak szerint – országos nyilvántartást vezet a szolgáltató tevékenységet végző szolgáltatókról, intézményekről, helyettes szülői és nevelőszülői hálózatokról. A nyilvántartás adattartalma nyilvános.
 
 (4) A nyilvántartás eszköze lehet minden olyan adattároló eszköz vagy módszer, amely biztosítja a 134. § (3) bekezdése szerinti védelmet.
 
@@ -2470,7 +2485,7 @@ vonatkozó adatokat kezelhet.
 
 (2) A Kormány által kijelölt gyámhivatal az ideiglenes hatállyal elhelyezett külföldi állampolgárságú gyermekekről – ide nem értve a 4. § (1) bekezdésének b) pontja szerinti személyt – nyilvántartást vezet és az abban szereplő adatokról, valamint az azokban bekövetkezett változásokról rendszeresen tájékoztatja a minisztert. A nyilvántartás tartalmazza a 139. §-ban meghatározott adatokat.
 
-(3) A gyámhivatal egységes nyilvántartást vezet az általa engedélyezett gyermekvédelmi szolgáltatásokról és az ellenőrzéssel kapcsolatos döntésekről.
+(3) A gyámhivatal egységes nyilvántartást vezet az általa engedélyezett gyermekvédelmi szolgáltatásokról és az ellenőrzéssel kapcsolatos döntésekről. A nyilvántartás adattartalma nyilvános.
 
 (4)
 
@@ -2493,6 +2508,8 @@ vonatkozó adatokat kezelhet.
 142. § (1) Ha törvény másképp nem rendelkezik, a 138–141. §-ok szerint vezetett nyilvántartásból – a jogosultság, illetve a gyermek nagykorúságától számított 25 év elteltével – törölni kell az adott személyre vonatkozó adatokat.
 
 (2) Az adatkezelésre és a nyilvántartások vezetésére vonatkozó rendelkezések az irányadóak a személyes gondoskodás megszervezésének a nem állami szerv által az önkormányzattól történő átvállalása, illetve a törvény által nem szabályozott, az önkormányzat képviselő-testülete vagy a jegyzője feladat- és hatáskörébe tartozó ellátásokról vezetett nyilvántartás esetén is.
+
+(3) A 137. § (2) bekezdése, a 138–139. §, a 140. § (1) és (2) bekezdése, a 141. § szerinti nyilvántartások nem nyilvánosak.
 
 ### XXII. Fejezet — A gyermekek védelmének főbb finanszírozási szabályai
 
