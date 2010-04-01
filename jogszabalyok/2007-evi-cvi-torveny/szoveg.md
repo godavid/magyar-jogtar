@@ -468,7 +468,7 @@ lehet végezni.
 - i) kis értékű – az éves költségvetési törvényben meghatározott egyedi bruttó forgalmi értéket el nem érő – vagyontárgy értékesítése esetén,
 - j) nemzetközi szerződés végrehajtása érdekében történő értékesítés esetén,
 - k) külföldi állam részére történő értékesítés esetén a j) pont alá nem tartozó esetben is,
-- l) államtitkot vagy szolgálati titkot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy különleges biztonsági intézkedést igénylő értékesítés esetén,
+- l) minősített adatot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy különleges biztonsági intézkedést igénylő értékesítés esetén,
 - m) külön jogszabályban meghatározott, a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk értékesítése esetén.
 
 (3) A pályázat nyilvános vagy zártkörű lehet.
@@ -846,7 +846,7 @@ lép.
 - b) elvégzi mindazon feladatokat, melyeket számára a számviteli, az adózási vagy egyéb jogszabályok előírnak,
 - c) a folyamatban lévő ügyekről tájékoztatást készít,
 - d) a hatályos szerződéseiről jegyzéket készít és azok iratanyagát átadásra előkészíti,
-- e) a folyamatban lévő ügyek iratairól, valamint az állami vagy szolgálati titkot tartalmazó iratokról iratjegyzéket készít, és azokat, valamint az irattárakat átadásra előkészíti.
+- e) a folyamatban lévő ügyek iratairól, valamint a minősített adatot tartalmazó iratokról iratjegyzéket készít, és azokat, valamint az irattárakat átadásra előkészíti.
 
 63. §
 

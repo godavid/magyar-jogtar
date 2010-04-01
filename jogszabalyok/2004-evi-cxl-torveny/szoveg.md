@@ -975,7 +975,7 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (4) A törvényen vagy kormányrendeleten alapuló adatszolgáltatást az ügyfél, illetve kérelemre indult eljárásban az ellenérdekű ügyfél akkor tagadhatja meg, ha
 
-- a) nem kapott felmentést az államtitoknak vagy szolgálati titoknak minősített adatra vonatkozó titoktartási kötelezettség alól,
+- a) nem kapott felmentést a minősített adatra vonatkozó titoktartási kötelezettség alól,
 - b) nyilatkozatával saját magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná.
 
 (5) Az ügyfél vagy képviselője, ha más tudomása ellenére az ügy szempontjából jelentős valótlan tényt állít, illetve ha a (3) bekezdés szerinti kötelező adatszolgáltatás körében a (4) bekezdésben foglalt ok hiányában adatszolgáltatási kötelezettségét nem teljesíti, az ügy eldöntése szempontjából jelentős tényt elhallgat, vagy valótlan adatot szolgáltat, eljárási bírsággal sújtható.
@@ -1068,7 +1068,7 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (5) Ha a szemlét a hatóság informatikai eszköz útján végzi, a szemle elvégzésére való jogosultság igazolását követően jogszabály, személyes adatok tekintetében törvény által meghatározott körben a szemletárgy birtokosának a hatóság részére – szükség szerint az informatikai rendszerhez történő hozzáférés technikai és jogosultsági feltételeinek biztosításával – hozzáférést kell biztosítania az adatokhoz.
 
-(6) A szemletárgy birtokosa az államtitkot, a szolgálati titkot tartalmazó szemletárgy felmutatására nem kötelezhető, ha nem kapott felmentést a szemletárgyra vonatkozó titoktartási kötelezettség alól.
+(6) A szemletárgy birtokosa a minősített adatot, tartalmazó szemletárgy felmutatására nem kötelezhető, ha nem kapott felmentést a szemletárgyra vonatkozó titoktartási kötelezettség alól.
 
 57/B. § (1) A szemle eredményes és biztonságos lefolytatása érdekében, ha annak jellege indokolttá teszi, a hatóság a rendőrség közreműködését kérheti.
 
@@ -1222,7 +1222,7 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 - a) a döntés tervezetébe az eljárás jogerős befejezéséig,
 - b) az olyan iratba, amelyből következtetés vonható le annak a személynek a kilétére, akire vonatkozóan a hatóság a természetes személyazonosító adatok és a lakcím zárt kezelését rendelte el,
-- c) betekintési vagy megismerési engedély hiányában az államtitkot vagy szolgálati titkot tartalmazó iratba,
+- c) felhasználói vagy megismerési engedély hiányában a minősített adatot tartalmazó iratba,
 - d) az egyéb védett adatot tartalmazó iratba, ha azt az érintett adat védelmét szabályozó törvény kizárja, vagy ha a védett adat megismerésének hiánya nem akadályozza az iratbetekintésre jogosult személyt törvényben biztosított jogai gyakorlásában.
 
 (2) Az ügyfél az adatok megjelölésével kérheti az iratbetekintési jog korlátozását üzleti és más méltányolható magánérdekének védelmében. A hatóság a kérelemnek – a körülmények körültekintő mérlegelése alapján – akkor ad helyt, ha az adatok megismerésének hiánya az iratbetekintésre jogosultakat nem akadályozza jogaik gyakorlásában.
@@ -2337,7 +2337,7 @@ kötelezettség érvényesítésére, ha annak önkéntes teljesítése elmaradt
 - i) irat: minden olyan tárgy, amely rögzített adatot hordoz;
 - j) központi elektronikus szolgáltató rendszer: az elektronikus közszolgáltatásról szóló törvény szerinti központi elektronikus szolgáltató rendszer;
 - k)–m)
-- n) törvény által védett titok: az államtitok, a szolgálati titok, továbbá az üzleti, a bank-, a biztosítási, az értékpapír-, a pénztártitok, valamint a magántitok;
+- n) törvény által védett titok: a minősített adat, továbbá az üzleti, a bank-, a biztosítási, az értékpapír-, a pénztártitok, valamint a magántitok;
 - o) ügyfélkapu: az elektronikus közszolgáltatásról szóló törvény szerinti ügyfélkapu;
 - p) üzemzavar: az ügyfél és a hatóság, valamint a hatóságok egymás közötti elektronikus úton történő kapcsolattartása során felmerült, az elektronikus kapcsolattartás eszközéül használt informatikai rendszer átmeneti vagy tartós meghibásodása, valamint karbantartásának időtartama, ami miatt az informatikai rendszerek nem tudják biztosítani az elektronikus tájékoztatást, az elektronikus úton történő kapcsolattartást, valamint az elektronikus irat feltöltését, letöltését, továbbítását.
 

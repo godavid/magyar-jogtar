@@ -234,7 +234,7 @@ adható.
 
 (7)
 
-(8) A külön törvény alapján alkalmi munkavállalói könyvvel (a továbbiakban: AM könyv) rendelkező álláskereső személy részére keresetpótló juttatás akkor állapítható meg, ha kötelezettséget vállal arra, hogy az AM könyvet az állami foglalkoztatási szerv által megjelölt időpontban bemutatja.
+(8) Az alkalmi foglalkoztatásnak minősülő munkaviszonyt létesített álláskereső személy részére keresetpótló juttatás akkor állapítható meg, ha kötelezettséget vállal arra, hogy az egyszerűsített foglalkoztatását az állami foglalkoztatási szervnek a foglalkoztatást követő legkésőbb harmadik munkanapon bejelenti.
 
 (9) Nem folyósítható keresetpótló juttatás azokra a napokra, amelyeken a képzésben részt vevő személy neki felróható okból óralátogatási kötelezettségének nem tett eleget, vagy alkalmi foglalkoztatásnak minősülő jogviszonyban állt.
 
@@ -317,7 +317,7 @@ adható.
 
 18/A. § (1)
 
-(2) Támogatás nyújtható annak a munkaadónak, aki AM könyvvel rendelkező álláskereső foglalkoztatását vállalja.
+(2)
 
 ### A megváltozott munkaképességű személyek foglalkoztatásának támogatása
 
@@ -507,7 +507,7 @@ időtartamával.
 
 (2) Ha az álláskeresési járadék folyósítása szünetelésének oka megszűnik, és fennállnak a 25. § (1) bekezdésében meghatározott feltételek, az álláskeresési járadékot a megállapító határozatban meghatározott feltételekkel – figyelemmel a 26. § (9) bekezdésében foglaltakra – tovább kell folyósítani.
 
-(3) Szüneteltetni kell az álláskeresési járadék folyósítását azokra a napokra, amelyeken az álláskeresési járadékban részesülő személy az alkalmi munkavállalói könyv szerint munkát végzett. Az állami foglalkoztatási szerv ebben az esetben az álláskeresési járadékot – erről szóló külön határozat nélkül – a munkavégzés napjaira járó álláskeresési járadék összegével csökkentett összegben folyósítja.
+(3) Szüneteltetni kell az álláskeresési járadék folyósítását azokra a napokra, amelyeken az álláskeresési járadékban részesülő személy alkalmi foglalkoztatásnak minősülő munkaviszony keretében munkát végzett. Az állami foglalkoztatási szerv ebben az esetben az álláskeresési járadékot – erről szóló külön határozat nélkül – a munkavégzés napjaira járó álláskeresési járadék összegével csökkentett összegben folyósítja.
 
 ### Álláskeresési segély
 
@@ -541,7 +541,7 @@ időtartamra folyósítható.
 - a) a 28. § (1) bekezdésének a)–c) pontjában, valamint e)–g) pontjában meghatározott feltételek fennállása esetén, továbbá
 - b) ha az álláskereső az álláskeresési segély folyósítási időtartamát kimerítette.
 
-(8) A (7) bekezdésben foglaltakon kívül az (1) bekezdés a)–b) pontjában meghatározott esetben meg kell szüntetni az álláskeresési segély folyósítását, ha az álláskereső kereső tevékenységet folytat, kivéve az alkalmi munkavállalói könyvvel folytatott kereső tevékenységet.
+(8) A (7) bekezdésben foglaltakon kívül az (1) bekezdés a)–b) pontjában meghatározott esetben meg kell szüntetni az álláskeresési segély folyósítását, ha az álláskereső kereső tevékenységet folytat, kivéve az alkalmi foglalkoztatásnak minősülő munkaviszonyt.
 
 (9) Az álláskeresési segély folyósítására a 28. § (2) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
@@ -569,11 +569,11 @@ időtartamra folyósítható.
 
 36. § (1) A munkanélküli ellátásban részesülő személy az általa folytatott kereső tevékenységet, valamint az őt foglalkoztató munkaadó nevét, címét és adószámát, adószámmal nem rendelkező magánszemély munkaadó esetében adóazonosító jelét – a (2) bekezdésben foglalt kivétellel – legkésőbb a munkakezdést megelőző napon, a kereső tevékenység megszűnését a megszűnést követő napon köteles az állami foglalkoztatási szervnek bejelenteni.
 
-(2) Ha az álláskeresési járadékban részesülő személy alkalmi munkavállalói könyvvel rendelkezik, akkor az alkalmi foglalkoztatásnak minősülő munkaviszonyát nem kell előre bejelenteni, de az alkalmi munkavállalói könyvét az álláskeresési járadék számfejtése előtt az állami foglalkoztatási szerv által megjelölt időpontban be kell mutatnia.
+(2) Az álláskeresési járadékban részesülő személynek az alkalmi foglalkoztatásnak minősülő munkaviszonyát legkésőbb a foglalkoztatást követő harmadik munkanapon be kell jelentenie.
 
 (3) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló közösségi rendeletek hatálya alá tartozó álláskereső legalább tizenöt munkanappal a távozást megelőzően köteles bejelenteni az állami foglalkoztatási szervnek, ha munkakeresés céljából az Európai Gazdasági Térség másik tagállamába kíván távozni.
 
-36/A. § A munkaadó – a külön törvény szerinti alkalmi munkavállalói könyvvel történő foglalkoztatás esetét kivéve – a munkaviszony megszűnése, illetve megszüntetése esetén, az utolsó munkában töltött napon köteles a munkanélküli igazolólapot a munkavállalónak átadni. Az igazoló lap kiállítására, valamint annak tartalmára vonatkozó szabályokat a miniszter rendeletben állapítja meg.
+36/A. § A munkaadó – az alkalmi foglalkoztatásnak minősülő munkaviszony esetét kivéve – a munkaviszony megszűnése, illetve megszüntetése esetén, az utolsó munkában töltött napon köteles a munkanélküli igazolólapot a munkavállalónak átadni. Az igazoló lap kiállítására, valamint annak tartalmára vonatkozó szabályokat a miniszter rendeletben állapítja meg.
 
 36/B. § Az állami adóhatóság az ellátásra való jogosultság igazolása céljából kérelemre igazolást ad ki az egyéni és társas vállalkozó részére a munkaerő-piaci járulék alapjáról és a járulék befizetéséről, megjelölve a járulékfizetési kötelezettség alól mentes időszakokat is.
 
@@ -1120,7 +1120,7 @@ is érteni kell.
 - a) munkaviszonyon: a magyar jog hatálya alá tartozó munkaviszonyt, közszolgálati jogviszonyt, közalkalmazotti jogviszonyt, bírósági és igazságügyi, valamint ügyészségi szolgálati viszonyt, a biztosított bedolgozói – és az 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszonyt, a hivatásos nevelő szülői jogviszonyt, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonyát, – ide nem értve az iskolai szövetkezet nappali tagozatos tanuló, hallgató tagját – fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonyát kell érteni,
 - b) munkavállaló: az, aki az a) pontban meghatározott munkaviszonyban áll,
 - c) munkaadó: az a jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, illetve magánszemély és annak jogi személyiséggel nem rendelkező társasága, aki munkavállalót foglalkoztat, vagy foglalkoztatni kíván.
-- d) álláskereső: az a személy, aki 1. a munkaviszony létesítéséhez szükséges feltételekkel rendelkezik, és 2. oktatási intézmény nappali tagozatán nem folytat tanulmányokat, és 3. öregségi nyugdíjra nem jogosult, valamint rehabilitációs járadékban nem részesül és 4. az alkalmi foglalkoztatásnak minősülő jogviszony kivételével munkaviszonyban nem áll, és egyéb kereső tevékenységet sem folytat, és 5. elhelyezkedése érdekében az állami foglalkoztatási szervvel együttműködik, és akit 6. az állami foglalkoztatási szerv álláskeresőként nyilvántart. Az Európai Gazdasági Térségről szóló megállapodásban nem részes, az Európai Közösséggel és tagállamaival nemzetközi szerződést kötött állam állampolgára, az 1. pontban foglalt rendelkezés alkalmazása során, a nemzetközi szerződésben foglaltak szerint álláskeresőként akkor is nyilvántartásba vehető, ha Magyarországon engedély alapján végezhet munkát.
+- d) álláskereső: az a személy, aki 1. a munkaviszony létesítéséhez szükséges feltételekkel rendelkezik, és 2. oktatási intézmény nappali tagozatán nem folytat tanulmányokat, és 3. öregségi nyugdíjra nem jogosult, valamint rehabilitációs járadékban nem részesül és 4. az alkalmi foglalkoztatásnak minősülő munkaviszony kivételével munkaviszonyban nem áll, és egyéb kereső tevékenységet sem folytat, és 5. elhelyezkedése érdekében az állami foglalkoztatási szervvel együttműködik, és akit 6. az állami foglalkoztatási szerv álláskeresőként nyilvántart. Az Európai Gazdasági Térségről szóló megállapodásban nem részes, az Európai Közösséggel és tagállamaival nemzetközi szerződést kötött állam állampolgára, az 1. pontban foglalt rendelkezés alkalmazása során, a nemzetközi szerződésben foglaltak szerint álláskeresőként akkor is nyilvántartásba vehető, ha Magyarországon engedély alapján végezhet munkát.
 - e) kereső tevékenység: – az 1–4. pontban foglaltak figyelembevételével – minden olyan munkavégzés, amelyért díjazás jár, továbbá kereső tevékenységet folytatónak kell tekinteni azt a személyt is, aki külön törvény szerint egyéni vállalkozónak minősül, valamint aki gazdasági társaság tevékenységében személyes közreműködés vagy mellékszolgáltatás keretében történő munkavégzés útján vesz részt, illetve aki a társaság vezető tisztségviselője vagy a társasági szerződésben közreműködési/munkavégzési kötelezettsége/joga fel van tüntetve. 1. Az olyan munkavégzés, amelyért jogszabály alapján tiszteletdíj jár, akkor minősül kereső tevékenységnek, ha a havi tiszteletdíj mértéke a kötelező legkisebb munkabér 30 százalékát meghaladja. 2. A mezőgazdasági őstermelői igazolvánnyal folytatott tevékenység akkor minősül kereső tevékenységnek, ha az abból származó bevételt a személyi jövedelemadóról szóló szabályok szerint a jövedelem kiszámításánál figyelembe kell venni. 3. A külön törvény alapján végzett közérdekű önkéntes tevékenység nem minősül kereső tevékenységnek. 4. A külön törvény alapján nevelőszülői jogviszony keretében végzett tevékenység nem minősül kereső tevékenységnek,
 - f)
 - g) kötelező legkisebb munkabér, minimálbér: a jogszabályban meghatározott kötelező legkisebb havi munkabér legmagasabb mértéke.
@@ -1130,7 +1130,7 @@ is érteni kell.
 - k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű személy esetén 30. életévét — be nem töltött, a munkaviszony létesítéséhez szükséges feltételekkel rendelkező, az állami foglalkoztatási szerv által nyilvántartott álláskereső, feltéve, ha munkanélküli járadékra a tanulmányainak befejezését követően nem szerzett jogosultságot. Nem tekinthető pályakezdő álláskeresőnek, aki 1. terhességi-gyermekágyi segélyben, gyermekgondozási díjban, illetőleg gyermekgondozási segélyben részesül, 2. előzetes letartóztatásban van, szabadságvesztés, illetve elzárás büntetését tölti, 3. sor- vagy tartalékos katonai szolgálatot, továbbá polgári szolgálatot teljesít,
 - l) rövid időtartamú munka: olyan, az állami foglalkoztatási szerv által felajánlott, vagy az álláskereső által megtalált munka, amelynek időtartama összefüggően a 90 napot nem haladja meg,
 - m) megváltozott munkaképességű személy: aki testi vagy szellemi fogyatékos, vagy akinek az orvosi rehabilitációt követően munkavállalási és munkahelymegtartási esélyei testi vagy szellemi károsodása miatt csökkennek. Ettől eltérően a 41/A. § alkalmazása szempontjából a megváltozott munkaképességű személy fogalmát külön jogszabály határozza meg,
-- n) alkalmi foglalkoztatásnak minősülő munkaviszony: az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló 1997. évi LXXIV. törvény 2. §-ának (1)–(2) bekezdésében meghatározott jogviszony,
+- n) alkalmi foglalkoztatásnak minősülő munkaviszony: az egyszerűsített foglalkoztatásról szóló törvény által szabályozott alkalmi munka,
 - o) közhasznú tevékenység: a közhasznú szervezetekről szóló 1997. évi CLVI. törvény 26. §-ának c) pontjában felsorolt tevékenységek,
 - p) háztartás: az Szt. 4. §-a (1) bekezdésének f) pontjában meghatározott személyek,
 - q) jövedelem: az Szt. 4. §-a (1) bekezdésének a) pontjában meghatározott jövedelem,

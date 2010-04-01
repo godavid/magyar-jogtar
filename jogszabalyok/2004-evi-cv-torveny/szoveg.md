@@ -564,6 +564,8 @@ adatok.
 - f) teljesítik gazdasági és anyagi szolgáltatási kötelezettségeiket,
 - g) közreműködnek a XIV. fejezetben meghatározott rendeletek és intézkedések végrehajtásában.
 
+(3) Az (1) bekezdésben meghatározott szervek vezetői a honvédelmi felkészülés egyes feladatainak ellátása során a minősített adat védelméről szóló törvény szerinti minősítésre jogosultak.
+
 44. § A honvédelemben közreműködő szervek feladatát és hatáskörét – e törvény keretei között – a tevékenységi körrel érintett miniszter a honvédelemért felelős miniszterrel egyetértésben, annak hiányában a kormány rendeletben állapítja meg.
 
 45. § (1) A társadalmi szervezetek, egyházak, felekezetek, vallási közösségek és karitatív szervezetek – önkéntes alapon – a védelmi igazgatás szervei által koordináltan részt vehetnek a honvédelmi feladatok ellátásában.
@@ -1248,7 +1250,7 @@ helyettesíti.
 
 ### A közzététel
 
-113. § (1) A honvédelemért felelős miniszter normatív utasításait, a Honvédség szakirányítása és vezetése keretében kiadott normatív intézkedéseket, továbbá a szabályzatokat, szakutasításokat hatályba léptető rendelkezéseket, amelyek a személyi állomány egészét érintik, vagy meghatározott feltétel bekövetkezése esetén érinthetik – az állam- és szolgálati titkot tartalmazók kivételével – a honvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában közzé kell tenni.
+113. § (1) A honvédelemért felelős miniszter normatív utasításait, a Honvédség szakirányítása és vezetése keretében kiadott normatív intézkedéseket, továbbá a szabályzatokat, szakutasításokat hatályba léptető rendelkezéseket, amelyek a személyi állomány egészét érintik, vagy meghatározott feltétel bekövetkezése esetén érinthetik – a minősített adatot tartalmazók kivételével – a honvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában közzé kell tenni.
 
 (2) Ha az (1) bekezdés szerinti rendelkezést nem teszik közzé, annak számát és címét közölni kell a hivatalos lapban.
 

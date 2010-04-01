@@ -404,7 +404,7 @@ amelyre azok – a kézhezvételtől számított 60 napon belül – észrevéte
 
 18/A. § Az állami légijárművel bekövetkezett légiközlekedési baleset vagy repülőesemény tekintetében a közlekedésbiztonsági szerv a nemzetbiztonsági és a honvédelmi érdekekre figyelemmel ad tájékoztatást a sajtó részére.
 
-18/B. § A közlekedésbiztonsági szerv vezetője az állami légijárművel bekövetkezett légiközlekedési balesettel és repülőeseménnyel összefüggésben feladat- és hatáskörében jogosult adatnak államtitokká, illetve szolgálati titokká történő minősítésére.
+18/B. § A közlekedésbiztonsági szerv vezetője az állami légijárművel bekövetkezett légiközlekedési balesettel és repülő eseménnyel összefüggésben feladat- és hatáskörében minősítésre jogosult.
 
 ### V. Fejezet — NEMZETKÖZI EGYÜTTMŰKÖDÉS
 

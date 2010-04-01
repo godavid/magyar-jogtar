@@ -8,7 +8,7 @@ kinyilvánítva elkötelezettségét a demokratikus jogállam értékei, a köz�
 
 megerősítve – ezen értékek megvalósítása érdekében – a korrupció elleni küzdelem fontosságát;
 
-tekintettel Magyarország korrupció elleni fellépéssel összefüggésben vállalt nemzetközi kötelezettségeire és a nemzetközi szervezetek által megfogalmazott ajánlásokra;
+tekintettel a Magyar Köztársaságnak a korrupció elleni fellépéssel összefüggésben vállalt nemzetközi kötelezettségeire és a nemzetközi szervezetek által megfogalmazott ajánlásokra;
 
 kinyilvánítva elkötelezettségét a foglalkoztatottak védelmére a közérdeksérelem veszélyét vagy megvalósulását feltáró bejelentések miatt a magánszférában és a közszférában egyaránt;
 
@@ -102,7 +102,7 @@ a következő törvényt alkotja:
 
 (4) A Hivatal a tudomására jutott tények, adatok értékelése alapján, a tisztességes eljárás követelményét sértő magatartással biztosított vagy lehetővé tett előny feltételezett mértékét is mérlegelve dönti el, hogy a vizsgálati eljárást megindítja, vagy azt mellőzi. Ha az előny jelentős mértékű, a Hivatal a vizsgálati eljárást megindítja.
 
-(5) Ha a Hivatal bejelentés alapján jár el, a vizsgálati eljárás megindításáról a bejelentéstől számított tíz napon belül dönt. Ha a tudomására jutott tények, adatok alapján az elért, vagy elérni kívánt előny jelentős mértéke valószínűsíthető, de a rendelkezésre álló tények és adatok alapján a vizsgálati eljárás megindításának szükségességéről más okból nem lehet egyértelműen állást foglalni, a Hivatal elnöke intézkedik az eljárás megindításáról szóló döntéshez szükséges adatok további húsz napon belüli beszerzéséről.
+(5) Ha a Hivatal bejelentés alapján jár el, a vizsgálati eljárás megindításáról a bejelentéstől számított nyolc munkanapon belül dönt. Ha a tudomására jutott tények, adatok alapján az elért, vagy elérni kívánt előny jelentős mértéke valószínűsíthető, de a rendelkezésre álló tények és adatok alapján a vizsgálati eljárás megindításának szükségességéről más okból nem lehet egyértelműen állást foglalni, a Hivatal elnöke intézkedik az eljárás megindításáról szóló döntéshez szükséges adatok további tizenöt munkanapon belüli beszerzéséről.
 
 (6) A Hivatal nem indít vizsgálati eljárást, ha
 
@@ -134,7 +134,7 @@ a következő törvényt alkotja:
 
 7. § (1) A Hivatal – ha a döntést bíróság nem vizsgálta felül – a döntést hozó szerv felügyeleti szervénél felügyeleti eljárást kezdeményezhet azon jogorvoslattal meg nem támadható, az 1. § (2) bekezdés a) vagy b) pontja szerinti eljárásban hozott érdemi döntéssel szemben, amelynek tárgyában vizsgálati eljárást folytat.
 
-(2) A felügyeleti eljárás során a felügyeleti szerv a benyújtástól számított harminc napon belül, a testületi formában működő felügyeleti szerv a legközelebbi ülésén határoz, és határozatát a meghozatalától számított tíz napon belül a Hivatallal köteles közölni.
+(2) A felügyeleti eljárás során a felügyeleti szerv a benyújtástól számított huszonkét munkanapon belül, a testületi formában működő felügyeleti szerv a legközelebbi ülésén határoz, és határozatát a meghozatalától számított nyolc munkanapon belül a Hivatallal köteles közölni.
 
 (3) Ha a felügyeleti szerv az (1) bekezdésben meghatározott kezdeményezéssel nem ért egyet, illetve azt határidőben nem folytatja le, a Hivatal az erről szóló határozat kézbesítésétől, illetve a (2) bekezdésben meghatározott határidő elteltétől számított harminc napon belül a közigazgatási határozatok bírósági felülvizsgálatára vonatkozó szabályok szerint kérheti a határozat bírósági felülvizsgálatát.
 
@@ -160,7 +160,7 @@ a következő törvényt alkotja:
 
 (2) A Hivatal felhívására az ügyfél köteles közölni a tényállás tisztázásához szükséges adatokat, ideértve a természetes személyazonosító adatait. Az ügyfél nem köteles a saját, vagy a vizsgálat tárgyát képező eljárásra vonatkozó törvény szerinti hozzátartozója jogsértését beismerő nyilatkozatot tenni.
 
-(3) A Hivatal – az érintett hozzájárulása vagy kifejezett kérelme hiányában, a különleges adatok kivételével – a vizsgált magatartással összefüggésben jogosult kezelni az ügyfél és az eljárás más résztvevőjének természetes személyazonosító adatait és a vizsgálati eljárás e törvényben meghatározott céljával kapcsolatos, az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott feltételeknek megfelelően megismert személyes adatait, amelyek felhasználása az eljárás eredményes lefolytatásához szükségesek. Ha a bizonyítási eszköz az eljárás e törvényben meghatározott céljával össze nem függő személyes adatot is tartalmaz, és az adatok elkülönítése a bizonyítási eszköz bizonyító erejének sérelme nélkül nem lehetséges, a Hivatal az ilyen adatot haladéktalanul felismerhetetlenné teszi.
+(3) A Hivatal – az érintett hozzájárulása vagy kifejezett kérelme hiányában, a különleges adatok kivételével – a vizsgált magatartással összefüggésben jogosult kezelni az ügyfél és az eljárás más résztvevőjének természetes személyazonosító adatait és a vizsgálati eljárás e törvényben meghatározott céljával kapcsolatos, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben meghatározott feltételeknek megfelelően megismert személyes adatait, amelyek felhasználása az eljárás eredményes lefolytatásához szükségesek. Ha a bizonyítási eszköz az eljárás e törvényben meghatározott céljával össze nem függő személyes adatot is tartalmaz, és az adatok elkülönítése a bizonyítási eszköz bizonyító erejének sérelme nélkül nem lehetséges, a Hivatal az ilyen adatot haladéktalanul felismerhetetlenné teszi.
 
 (4) A Hivatal az ügyfél és az eljárás más résztvevőjének a (3) és a (4) bekezdésben megjelölt személyes adatait a tisztességes eljárás követelményeit sértő magatartás bizonyítása céljából kezelheti. Az adatkezelés határideje az eljárás jogerős befejezésétől számított két év; ha a Hivatal döntése ellen jogorvoslati eljárás indult, e határidőt a bíróság jogerős határozatának jogerőre emelkedésétől kell számítani.
 
@@ -170,7 +170,7 @@ a következő törvényt alkotja:
 
 (7) Az ügyvéd és a közjegyző kivételével a tanú meghallgatható az ügyfélnek a vizsgálati eljárás szempontjából jelentős védett adatának minősülő tényről akkor is, ha nem kapott felmentést a titoktartás alól.
 
-(8) Az eljárás lefolytatására kijelölt személy az eljárását kizáró okként köteles bejelenteni a Hivatal elnökének, ha olyan ügyben jelölték ki az eljárásra, amelyben saját maga vagy közeli hozzátartozója az ügyben érintett gazdasági társaságban tulajdoni részesedéssel rendelkezik; gazdasági társaság, alapítvány, egyesület vagy egyház, illetve ezek önálló jogi személyiséggel rendelkező olyan szervezeti egysége, amelyben vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, az egyesület vagy az egyház ügyintéző vagy képviseleti szervének tagja.
+(8) Az eljárás lefolytatására kijelölt személy az eljárását kizáró okként köteles bejelenteni a Hivatal elnökének, ha olyan ügyben jelölték ki az eljárásra, amelyben saját maga vagy közeli hozzátartozója az ügyben érintett gazdasági társaságban tulajdoni részesedéssel rendelkezik; gazdasági társaság, alapítvány, társadalmi szervezet, egyház vagy szakszervezet, illetve ezek önálló jogi személyiséggel rendelkező olyan szervezeti egysége, amelyben vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, a társadalmi szervezet, az egyház vagy a szakszervezet ügyintéző vagy képviseleti szervének tagja.
 
 ### Az eljárási bírság
 
@@ -202,7 +202,7 @@ a következő törvényt alkotja:
   - ab) megtiltja a tisztességes eljárás követelményeit sértő magatartás további folytatását, továbbá
   - ac) az e törvényben meghatározott joghátrányokat alkalmazza;
 - b) az eljárást megszünteti és a határozatában megállapítja, hogy a vizsgálati eljárás elrendelésére okot adó feltételezett körülmények nem állnak fenn, vagy a vizsgálati eljárás során beszerzett bizonyítékok alapján nem állapítható meg a tisztességes eljárás követelményeinek megsértése, és a vizsgálati eljárás folytatásától sem várható eredmény; vagy
-- c) végzésben úgy rendelkezhet, hogy az iratokat a vizsgálónak visszaadja, ha megállapítja, hogy a tényállás teljes körű tisztázásához további vizsgálatra van szükség, illetve a vizsgálati eljárás kiterjesztése, vagy új ügyfél eljárásba vonása indokolt, ebben az esetben legfeljebb két hónapos határidőt állapíthat meg a vizsgáló részére.
+- c) végzésben úgy rendelkezhet, hogy az iratokat a vizsgálónak visszaadja, ha megállapítja, hogy a tényállás teljes körű tisztázásához további vizsgálatra van szükség, illetve a vizsgálati eljárás kiterjesztése, vagy új ügyfél eljárásba vonása indokolt, ebben az esetben legfeljebb 44 munkanapos határidőt állapíthat meg a vizsgáló részére.
 
 (2) A döntést a bejelentővel is közölni kell.
 
@@ -225,7 +225,7 @@ a következő törvényt alkotja:
 
 (8) Az (5) bekezdés szerinti peres eljárásban
 
-- a) az ítélőtábla székhelye szerinti törvényszék – az ítélőtábla illetékességi területén – jár el,
+- a) az ítélőtábla székhelye szerinti megyei bíróság – az ítélőtábla illetékességi területén – jár el,
 - b) a bíróság soron kívül jár el.
 
 ### Bírság az alaptalan bejelentés esetén
@@ -267,7 +267,7 @@ a következő törvényt alkotja:
 
 18. § (1) A Hivatal elemzi a korrupcióval összefüggő társadalmi és gazdasági folyamatokat, és a korrupció elleni kormányzati politika hatékonyságát. A Hivatal e feladataival összefüggésben rendszeresen elemzi különösen azokat a döntéshozatali folyamatokat, amelyek korrupciós kockázatot jelentenek, és javaslatot tesz a kockázatok csökkentésére.
 
-(2) A Hivatal – az érintett szakmai és egyesületek és szakértők bevonásával előkészített – középtávú, legalább ötéves ciklusokra tervezett korrupcióellenes stratégia kialakítására tesz javaslatot a Kormány részére.
+(2) A Hivatal – az érintett szakmai és társadalmi szervezetek és szakértők bevonásával előkészített – középtávú, legalább ötéves ciklusokra tervezett korrupcióellenes stratégia kialakítására tesz javaslatot a Kormány részére.
 
 (3) A Hivatal a Kormány által elfogadott stratégia végrehajtásával kapcsolatos kormányzati feladatokra tekintettel javaslatot dolgoz ki:
 
@@ -352,7 +352,9 @@ a következő törvényt alkotja:
 
 27. § Az e törvényben meghatározott joghátrány alkalmazására csak olyan cselekmény miatt kerülhet sor, amelyet e törvény hatálybalépését követően követtek el, vagy az a törvény hatálybalépését követően fejeződött be. A törvény hatálybalépését megelőzően elkövetett (befejezett) cselekmények esetében a Hivatal nem folytat vizsgálati eljárást, azonban a tudomására jutott információk alapján szükség esetén feljelentést tehet, illetőleg más szerv eljárását kezdeményezheti, továbbá a bejelentőt védelemben részesítheti e törvény szabályai szerint.
 
-28. §
+28. § (1) Az e törvény alapján kiszabott és megfizetett bírság a központi költségvetést illeti meg.
+
+(2) A meg nem fizetett bírság, eljárási költségek és késedelmi pótlékok adók módjára behajtandó köztartozásnak minősülnek.
 
 ### Módosító rendelkezések
 

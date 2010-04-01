@@ -680,7 +680,7 @@ Tbj. 45. § (1) A tagságra kötelezett pályakezdő, valamint a magánnyugdíjp
 
 (2)
 
-(3) Tagságra kötelezett pályakezdőnek [4. § n) 2. pontja] minősülő egyéni vállalkozó az egyéni vállalkozói nyilvántartásba való bejegyzés napjától, alkalmi munkavállaló az első alkalmi munkavállalói könyvvel történő foglalkoztatásától, a mezőgazdasági őstermelő a biztosítottá válása napjától számított 15 napon belül köteles az általa választott magánnyugdíjpénztárba belépni.
+(3) Tagságra kötelezett pályakezdőnek [4. § n) 2. pontja] minősülő egyéni vállalkozó az egyéni vállalkozói nyilvántartásba való bejegyzés napjától, a mezőgazdasági őstermelő a biztosítottá válása napjától számított 15 napon belül köteles az általa választott magánnyugdíjpénztárba belépni.
 
 (4) A társadalombiztosítási nyugdíjrendszerbe történt visszalépés, valamint az Mpt. 24. §-ának (8) bekezdése és az Mpt. 29. §-a (9) bekezdésének b) pontja szerinti átutalás esetén a magánnyugdíjpénztár a pénztártag egyéni számlán nyilvántartott, tagdíj-kiegészítéssel csökkentett követelését
 
@@ -820,7 +820,7 @@ Tbj. 57. § (1) E törvény hatálybaléptetéséről a magánnyugdíjról és a
 
 (2)
 
-(3) Az alkalmi munkavégzésre e törvény rendelkezéseit az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló 1997. évi LXXIV. törvényben foglalt eltérések figyelembevételével kell alkalmazni.
+(3) Az egyszerűsített foglalkoztatásra e törvény rendelkezéseit az egyszerűsített foglalkoztatásról szóló külön törvényben foglalt eltérések figyelembevételével kell alkalmazni.
 
 ### Felhatalmazások
 

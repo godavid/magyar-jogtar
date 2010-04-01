@@ -97,7 +97,7 @@ kezeli.
 
 (6) A légiközlekedési hatóság, az állami célú légiközlekedéssel összefüggő feladatok tekintetében a katonai légügyi hatóság nyilvántartja az a)–c) pontokhoz kapcsolódó vizsgaeredményeket, alkalmassági minősítéseket, képesítéseket, jogosításokat, valamint a d) ponthoz kapcsolódó jogosultságokat.
 
-(7) A légiközlekedési hatóság, illetve a katonai légügyi hatóság vezetője a feladat- és hatáskörében jogosult államtitkot, illetve szolgálati titkot képező adat minősítésére.
+(7) A légiközlekedési hatóság, illetve a katonai légügyi hatóság vezetője a feladat- és hatáskörében minősítésre jogosult.
 
 3/B. § (1) A légiközlekedési hatóság jogosult külföldi lajstromba felvett polgári légijárművet (a továbbiakban: külföldi légijármű) és annak személyzetét a Magyar Köztársaság területén ellenőrizni. A légiközlekedési hatóság az ellenőrzésről jelentést készít.
 

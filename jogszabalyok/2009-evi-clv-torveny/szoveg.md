@@ -8,7 +8,7 @@ Az Országgyűlés az állami és a közfeladatok ellátásának biztosítása �
 
 ### A törvény célja
 
-1. § E törvény célja, hogy az alapvető jogok tiszteletben tartása, Magyarország érdekeinek védelme és az állam nemzetközi kötelezettségvállalásainak teljesítése érdekében az információs önrendelkezési jogról és az információszabadságról szóló törvénnyel összhangban meghatározza a minősített adat létrejöttével és kezelésével kapcsolatos alapvető rendelkezéseket, a minősítési eljárás és a nemzeti minősített adat felülvizsgálatának rendjét, a minősített adat védelmének általános szabályait, a telephelyi iparbiztonság rendszerének főbb elemeit, és rendelkezzen a minősített adat védelmét ellátó szervekről és személyekről.
+1. § E törvény célja, hogy az alapvető jogok tiszteletben tartása, a Magyar Köztársaság érdekeinek védelme és az állam nemzetközi kötelezettségvállalásainak teljesítése érdekében a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvénnyel, valamint az elektronikus információszabadságról szóló törvénnyel összhangban meghatározza a minősített adat létrejöttével és kezelésével kapcsolatos alapvető rendelkezéseket, a minősítési eljárás és a nemzeti minősített adat felülvizsgálatának rendjét, a minősített adat védelmének általános szabályait, a nemzeti iparbiztonság rendszerének főbb elemeit, és rendelkezzen a minősített adat védelmét ellátó szervekről és személyekről.
 
 ### Alapelvek
 
@@ -28,80 +28,58 @@ Az Országgyűlés az állami és a közfeladatok ellátásának biztosítása �
 
 - 1. minősített adat:
   - a) nemzeti minősített adat: a minősítéssel védhető közérdekek körébe tartozó, a minősítési jelölést az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott formai követelményeknek megfelelően tartalmazó olyan adat, amelyről – a megjelenési formájától függetlenül – a minősítő a minősítési eljárás során megállapította, hogy az érvényességi időn belüli nyilvánosságra hozatala, jogosulatlan megszerzése, módosítása vagy felhasználása, illetéktelen személy részére hozzáférhetővé, valamint az arra jogosult részére hozzáférhetetlenné tétele a minősítéssel védhető közérdekek közül bármelyiket közvetlenül sérti vagy veszélyezteti (a továbbiakban együtt: károsítja), és tartalmára tekintettel annak nyilvánosságát és megismerhetőségét a minősítés keretében korlátozza;
-  - b) külföldi minősített adat: ba) megjelenési formájától függetlenül az Európai Unió valamennyi intézménye és szerve, továbbá az Európai Unió képviseletében eljáró tagállam, a külföldi részes fél vagy nemzetközi szervezet által készített és törvényben kihirdetett nemzetközi szerződés vagy megállapodás alapján átadott olyan adat, amelyhez történő hozzáférést az Európai Unió intézményei és szervei, az Európai Unió képviseletében eljáró tagállam, más állam vagy külföldi részes fél, illetve nemzetközi szervezet minősítés keretében korlátozza, bb) a Magyar Honvédség nemzetközi műveletei és gyakorlatai keretében keletkezett, illetve felhasznált olyan adat, amelyhez történő hozzáférést a műveletben résztvevő felek – a művelet vagy gyakorlat követelményei szerinti minősítéssel – korlátozzák, attól függetlenül, hogy a
-
-részes felek által képviselt államokkal Magyarországnak van-e a ba) alpontban foglaltaknak megfelelő megállapodása a minősített adat védelmére és cseréjére, és a minősített adat kezelésére vonatkozó rendelkezéseket a Magyar Honvédség, illetve a műveletet vagy a gyakorlatot irányító más részes fél határozza meg,
-
+  - b) külföldi minősített adat: az Európai Unió valamennyi intézménye és szerve, továbbá az Európai Unió képviseletében eljáró tagállam, a külföldi részes fél vagy nemzetközi szervezet által készített és törvényben kihirdetett nemzetközi szerződés vagy megállapodás alapján átadott olyan adat, amelyhez történő hozzáférést az Európai Unió intézményei és szervei, az Európai Unió képviseletében eljáró tagállam, más állam vagy külföldi részes fél, illetve nemzetközi szervezet minősítés keretében korlátozza;
 - 2. érvényességi idő: az az év, hó, nap, szükség esetén óra, perc szerint feltüntetett időpont, ameddig a nemzeti minősített adat nyilvánosságra hozatalát, illetve az arra feljogosítotton kívüli minden megismerhetőségét a minősítő korlátozza;
 - 3. minősítő: feladat- és hatáskörében minősítésre jogosult személy;
 - 4. minősített adatot kezelő szerv: állami vagy közfeladat ellátása érdekében minősített adat kezelését végző szerv, szervezet vagy szervezeti egység, továbbá a gazdálkodó szervezet;
-- 5. felhasználó: az a személy, aki – állami vagy közfeladat végrehajtása céljából – a minősített adathoz hozzáférhet;
+- 5. felhasználó: az a személy, akinek állami vagy közfeladat végrehajtása céljából a felhasználói engedély kiadására jogosult vezető a minősített adatra vonatkozóan a felhasználói engedélyben rendelkezési jogosultságokat biztosít;
 - 6. közreműködő: az a természetes személy, aki az állami vagy közfeladatot ellátó szerv feladat- és hatáskörébe tartozó ügyben segítséget nyújt, és ehhez minősített adat felhasználása is szükséges;
-- 7. felhasználás: állami vagy közfeladat végrehajtása érdekében minősített adat kezelése;
-- 8.
-- 9. megismerési engedély: a minősítő által az érintett személyazonosító adatainak feltüntetésével, a nemzeti minősített adattal kapcsolatos jogosultságok megjelölésével, az érintett személyes adatait tartalmazó nemzeti minősített adat megismerésére írásban adott felhatalmazás;
+- 7. felhasználás: állami vagy közfeladat végrehajtása érdekében a felhasználói engedély kiadására jogosult vezető által, a felhasználói engedélyben meghatározott, a minősített adatra vonatkozó rendelkezési jogosultságok gyakorlása;
+- 8. felhasználói engedély: állami vagy közfeladat végrehajtása érdekében a minősítő, illetve a felhasználói engedély kiadására jogosult vezető által, a minősített adat felhasználására jogosult személy részére írásban adott felhatalmazás, a minősített adattal kapcsolatos egyes rendelkezési jogosultságok meghatározásával;
+- 9. megismerési engedély: a minősítő által a jogosult személyazonosító adatainak feltüntetésével, a nemzeti minősített adattal kapcsolatos rendelkezési jogosultságok megjelölésével, a nemzeti minősített adat megismerésére írásban adott felhatalmazás;
 - 10. titoktartási nyilatkozat: a minősített adatot felhasználó vagy megismerő személy nyilatkozata arról, hogy a minősített adat védelmére vonatkozó szabályokat megismerte, és az őt terhelő titoktartási kötelezettséget tudomásul vette;
-- 11. személyi biztonsági tanúsítvány: az a tanúsítvány, amely érvényességi idejének lejártáig meghatározza, hogy valamely természetes személy milyen legmagasabb minősítési szintű adatot használhat fel;
+- 11. személyi biztonsági tanúsítvány: az a tanúsítvány, amely érvényességi idejének lejártáig meghatározza, hogy valamely természetes személy milyen legmagasabb minősítési szintű adat felhasználására kaphat felhasználói engedélyt;
 - 12. elektronikus adatkezelő rendszer: minősített adat elektronikus, elektromagnetikus vagy optikai úton történő kezelésére alkalmas berendezés, módszer és eljárás együttese;
-- 13. rendvédelmi szerv: a rendőrség, a hivatásos katasztrófavédelmi szerv, a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet;
-- 14. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
-- 15. telephely biztonsági tanúsítvány: a minősített adat védelmének fizikai, adminisztratív és elektronikus biztonsági feltételeinek megfelelő gazdálkodó szervezet részére kiadott olyan tanúsítvány, amely meghatározza, hogy a gazdálkodó szervezet milyen legmagasabb minősítési szintű minősített adat kezelésére alkalmas.
+- 13. rendvédelmi szerv: a rendőrség, a polgári védelem, a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vám- és pénzügyőrség, valamint az állami és hivatásos önkormányzati tűzoltóság;
+- 14. gazdálkodó szervezet: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § c) pontjában felsoroltak;
+- 15. telephely biztonsági tanúsítvány: az a tanúsítvány, amely meghatározza, hogy a gazdálkodó szervezet milyen legmagasabb minősítési szintű minősített adat kezelésére alkalmas;
 - 16. ügyészség vezetője: a fellebbviteli főügyész, a főügyész, a fellebbviteli vezető ügyész, a vezető ügyész.
-- 17. egyszerűsített telephely biztonsági tanúsítvány: a minősített adat védelmének fizikai, adminisztratív és elektronikus biztonsági feltételeinek nem megfelelő gazdálkodó szervezet részére kiadott olyan tanúsítvány, amely meghatározza, hogy a gazdálkodó szervezet milyen legmagasabb minősítési szintű minősített adat kezelésére alkalmas.
-- 18. iparbiztonsági ellenőrzés: a gazdálkodó szervezet cégellenőrzése, az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló kormányrendelet alapján nemzetbiztonsági ellenőrzésre kötelezett személyek, valamint a minősített adatot felhasználó személyek nemzetbiztonsági ellenőrzése.
-- 19. minősített szerződés: minősített adat keletkeztetését, felhasználását, valamint átadását igénylő vagy minősített adatokat tartalmazó szerződés.
 
 ### II. Fejezet — A MINŐSÍTŐK ÉS A MINŐSÍTÉSI ELJÁRÁS SZABÁLYAI
 
 ### A minősítők
 
-4. § (1) Feladat- és hatáskörében minősítésre jogosult
+4. § (1) Feladat- és hatáskörében minősítésre jogosult:
 
-- a) a köztársasági elnök,
+- a) a Magyar Köztársaság elnöke,
 - b) az Országgyűlés elnöke,
 - c) az országgyűlési bizottság elnöke,
 - d) az Alkotmánybíróság elnöke,
-- e) a Kúria elnöke,
+- e) a Legfelsőbb Bíróság elnöke, az Országos Igazságszolgáltatási Tanács elnöke,
 - f) a bíróság elnöke,
-- g) az Országos Bírósági Hivatal elnöke,
+- g) az Országos Igazságszolgáltatási Tanács Hivatalának vezetője,
 - h) a legfőbb ügyész,
 - i) az ügyészség vezetője,
-- j) az alapvető jogok biztosa,
+- j) az országgyűlési biztos,
 - k) a Magyar Nemzeti Bank elnöke,
-- l) a Kormány tagja, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója,
-- m) a kormánybiztos, a miniszterelnöki biztos,
+- l) a Kormány tagja,
+- m) a kormánybiztos, a kormányhivatal vezetője,
 - n) a Kormány ügyrendje szerint működő testület vezetője,
-- o) az autonóm államigazgatási szerv vezetője, az önálló szabályozó szerv vezetője, a kormányzati főhivatal vezetője,
-- p) a rendvédelmi szerv központi szerve, a Katonai Nemzetbiztonsági Szolgálat vezetője, a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti, a védelmi és biztonsági igazgatás központi szervének vezetője,
-- q) a rendőrségről szóló törvényben meghatározott
-  - qa) az általános rendőrségi feladatok ellátására létrehozott szerv vezetője,
-  - qb) belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője,
-  - qc) terrorizmust elhárító szerv vezetője,
-- r) az Országgyűlési Őrség parancsnoka,
-- s) az idegenrendészeti hatóság vezetője, a menekültügyi hatóság vezetője,
-- t) a Nemzeti Biztonsági Felügyelet vezetője,
-- u) Magyarország külképviseletének vezetője, valamint a nemzetközi szerződésben meghatározott kötelezettségvállalás teljesítése érdekében más államhoz, nemzetközi szervezethez vagy regionális együttműködés központjába delegált önálló képviseleti hatáskörrel rendelkező személy, és
-- v) törvény által minősítésre feljogosított személy.
+- o) a rendvédelmi szerv központi szerve, valamint a katonai nemzetbiztonsági szolgálatok vezetője és a rendvédelmi szerveknél belső bűnmegelőzési és bűnfelderítő feladatokat ellátó szervnek a vezetője,
+- p) a Nemzeti Biztonsági Felügyelet vezetője,
+- q) a Magyar Köztársaság külképviseletének vezetője, valamint a nemzetközi szerződésben meghatározott kötelezettségvállalás teljesítése érdekében más államhoz, nemzetközi szervezethez vagy regionális együttműködés központjába delegált önálló képviseleti hatáskörrel rendelkező személy,
+- r) törvény által minősítésre feljogosított személy.
 
 (2) Az (1) bekezdés szerinti minősítők minősítői jogkörüket írásban
 
-- a) „Szigorúan titkos!” minősítési szintű adat esetén a helyettesükre, valamint a Kormány tagja a közigazgatási államtitkárra, az államtitkárra és a helyettes államtitkárra,
+- a) „Szigorúan titkos!” minősítési szintű adat esetén a helyettesükre, valamint a Kormány tagja a szakállamtitkárra,
 - b) „Titkos!”, „Bizalmas!” és „Korlátozott terjesztésű!” minősítési szintű adat vonatkozásában az irányításuk alatt álló, közhatalmi jogosítványokkal felruházott szervben vezetői megbízással rendelkezőkre, illetve vezetői beosztásba kinevezettekre átruházhatják.
 
-(3) A honvédelemért felelős miniszter, a minősített adatok védelmének szakmai felügyeletéért felelős miniszter, a külpolitikáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint az (1) bekezdés p)–s) pontjában meghatározott vezető a honvédelmi, a nemzetbiztonsági, a külügyi és a nemzetközi kapcsolatokkal összefüggő, a minősített adat védelmének szakmai felügyeletével kapcsolatos, továbbá a bűnüldözési feladatok körében minősítési jogkörét belső szabályzatban az alárendeltségébe tartozó, vezetői megbízással rendelkező, illetve vezetői beosztásba kinevezett más személyre és a minősített adat felülvizsgálatába bevont felülvizsgálati szakértőre írásban átruházhatja. A bűnüldözési feladatok körében ez a jogosítvány a legfőbb ügyészt és az ügyészség vezetőjét is megilleti.
-
-(4) A minősítő a feladat- és hatáskörébe tartozó minősített adat esetén jogosult:
-
-- a) a megismerési engedély kiadására,
-- b) a nemzeti minősített adat felülvizsgálatára,
-- c) a minősített adat külföldi személy vagy külföldi szerv részére hozzáférhetővé tételének engedélyezésére,
-- d) a minősített adat külföldre vitelének vagy külföldről való behozatalának engedélyezésére,
-- e) a titoktartási kötelezettség alóli felmentésre,
-- f) a minősítési jelölés megismétlésének megtiltására.
+(3) A honvédelemért felelős miniszter, a minősített adatok védelmének szakmai felügyeletéért felelős miniszter, a polgári nemzetbiztonsági szolgálatokat irányító miniszter, valamint az (1) bekezdés o) pontjában meghatározott vezető a honvédelmi, a nemzetbiztonsági, a minősített adat védelmének szakmai felügyeletével kapcsolatos, továbbá a bűnüldözési feladatok körében minősítési jogkörét belső szabályzatban az alárendeltségébe tartozó, vezetői megbízással rendelkező, illetve vezetői beosztásba kinevezett más személyre és a minősített adat felülvizsgálatába bevont felülvizsgálati szakértőre írásban átruházhatja. A bűnüldözési feladatok körében ez a jogosítvány a legfőbb ügyészt és az ügyészség vezetőjét is megilleti.
 
 ### A minősítés
 
-5. § (1) Minősítéssel védhető közérdek Magyarország
+5. § (1) Minősítéssel védhető közérdek a Magyar Köztársaság
 
 - a) szuverenitása, területi integritása,
 - b) alkotmányos rendje,
@@ -135,7 +113,7 @@ minősítési szintű.
 - b) „Bizalmas!” minősítési szintű adat esetén legfeljebb 20 év,
 - c) „Korlátozott terjesztésű!” minősítési szintű adat esetén legfeljebb 10 év lehet.
 
-(7) A „Titkos!” vagy annál magasabb minősítési szintű adat minősítésének érvényességi ideje új minősítési eljárás lefolytatásával rendkívül indokolt esetben egy alkalommal, legfeljebb a (6) bekezdés a) pontjában meghatározott időtartammal, illetve Magyarország – magánszemély jogos érdekével szorosan összefüggő – honvédelmi, nemzetbiztonsági, bűnüldözési vagy igazságszolgáltatási érdekére tekintettel két alkalommal, legfeljebb a (6) bekezdés a) pontjában meghatározott időtartammal meghosszabbítható. A „Bizalmas!” vagy „Korlátozott terjesztésű!” minősítési szintű adat minősítésének érvényességi ideje új minősítési eljárás lefolytatásával rendkívül indokolt esetben egy alkalommal, legfeljebb 5 évvel, illetve Magyarország – magánszemély jogos érdekével szorosan összefüggő – honvédelmi, nemzetbiztonsági, bűnüldözési vagy igazságszolgáltatási érdekére tekintettel két alkalommal, legfeljebb a (6) bekezdés b) pontjában meghatározott időtartammal meghosszabbítható. Az érvényességi idő meghosszabbításáról minden olyan címzettet vagy annak jogutódját értesíteni kell, akinek a minősített adatot továbbították. Az új minősítési eljárást az érvényességi idő lejárta előtt le kell folytatni. Az érvényességi idő elteltével az adat minősített jellege megszűnik. A minősítés megszűnése után az adat újból nem minősíthető.
+(7) A „Titkos!” vagy annál magasabb minősítési szintű adat minősítésének érvényességi ideje új minősítési eljárás lefolytatásával rendkívül indokolt esetben egy alkalommal, legfeljebb a (6) bekezdés a) pontjában meghatározott időtartammal, illetve a Magyar Köztársaság – magánszemély jogos érdekével szorosan összefüggő – honvédelmi, nemzetbiztonsági, bűnüldözési vagy igazságszolgáltatási érdekére tekintettel két alkalommal, legfeljebb a (6) bekezdés a) pontjában meghatározott időtartammal meghosszabbítható. A „Bizalmas!” vagy „Korlátozott terjesztésű!” minősítési szintű adat minősítésének érvényességi ideje új minősítési eljárás lefolytatásával rendkívül indokolt esetben egy alkalommal, legfeljebb 5 évvel, illetve a Magyar Köztársaság – magánszemély jogos érdekével szorosan összefüggő – honvédelmi, nemzetbiztonsági, bűnüldözési vagy igazságszolgáltatási érdekére tekintettel két alkalommal, legfeljebb a (6) bekezdés b) pontjában meghatározott időtartammal meghosszabbítható. Az új minősítési eljárást az érvényességi idő lejárta előtt le kell folytatni. Az érvényességi idő elteltével az adat minősített jellege megszűnik. A minősítés megszűnése után az adat újból nem minősíthető.
 
 (8) A minősített adat kezelése során mindig egyértelműen felismerhetőnek kell lennie az adat minősített jellegének. A nemzeti minősített adat hordozóján vagy – ha arra nincs lehetőség – külön kísérőlapon fel kell tüntetni a minősítési szintet, az érvényességi időt, a minősítő nevét és beosztását (a továbbiakban együtt: minősítési jelölés).
 
@@ -143,9 +121,7 @@ minősítési szintű.
 
 (10) Ha több minősített adat el nem különíthető módon, csak együttesen kezelhető, akkor azokat az alkalmazott legmagasabb minősítési szintnek megfelelően kell kezelni.
 
-(11) Amennyiben épület, építmény vagy annak valamely műszaki vagy technikai adata képez nemzeti minősített adatot, az érvényességi idő új minősítési eljárás lefolytatásával, több alkalommal meghosszabbítható, alkalmanként legfeljebb 10 évre az épület, építmény használatának idejére.
-
-6. § (1) A minősítést az adat keletkezésekor az köteles kezdeményezni, akinél az állami vagy közfeladata ellátása során a minősítési feltételeknek megfelelő adat keletkezik.
+6. § (1) A minősítést az köteles kezdeményezni, akinél az állami vagy közfeladata ellátása során a minősítési feltételeknek megfelelő adat keletkezik.
 
 (2) A minősítendő adat minősítéséhez a kezdeményező indokolással ellátott minősítési javaslatot készít.
 
@@ -153,23 +129,23 @@ minősítési szintű.
 
 (4) A minősítési eljárás alatt álló, minősíthető adatot tartalmazó adathordozót a kezdeményező minősítés céljából a minősítési javaslattal együtt haladéktalanul felterjeszti a minősítőhöz. A minősítő a felterjesztés kézhezvételét követő 30 napon belül dönt az adat minősítéséről. Ha a minősítő a határidő lejártáig az adat minősítéséről nem dönt, a nemzeti minősített adat nem jön létre.
 
-(5) Ha az (1) bekezdésben meghatározott adat a minősítőnél keletkezik, döntését a (3) bekezdésben meghatározott minősítési javaslat tartalmával megegyező módon köteles írásba foglalni és a keletkezéskor az adatot minősíteni.
+(5) Ha az (1) bekezdésben meghatározott adat a minősítőnél keletkezik, döntését a (3) bekezdésben meghatározott minősítési javaslat tartalmával megegyező módon köteles írásba foglalni és az adatot minősíteni.
 
 (6) A minősítési eljárás alatt álló adatot a minősítő döntéséig a kezdeményezett minősítési szintre vonatkozó személyi, fizikai, adminisztratív és elektronikus biztonsági szabályok szerint kell kezelni.
 
 (7) A nemzeti minősített adat a minősítő által történő minősítéssel jön létre. A nemzeti minősített adat létrejöttéhez a minősítési jelölés formai követelményeit is be kell tartani.
 
-(8) A minősítő a Nemzeti Adatvédelmi és Információszabadság Hatóság megkeresésére írásban köteles részletesen megindokolni az adat minősítését.
+(8) A minősítő az adatvédelmi biztos megkeresésére írásban köteles részletesen megindokolni az adat minősítését.
 
 ### A minősítési jelölés megismétlése
 
-7. § (1) Nem kell új minősítési eljárást lefolytatni, ha a készített adatba saját vagy más minősítő által korábban készített minősített adatot is belefoglalnak, és ennek során további, saját minősítést igénylő adat nem keletkezik. Ebben az esetben a korábban készített minősített adat minősítési jelölését meg kell ismételni, kivéve ha azt a megismételni kívánt adat minősítője megtiltotta. A minősítési jelölés megismétlése esetén biztosítani kell a megismételt minősített adat azonosíthatóságát és elkülöníthetőségét.
+7. § (1) Nem kell új minősítési eljárást lefolytatni, ha a készített adatba saját vagy más minősítő által korábban készített minősített adatot is belefoglalnak, és ennek során további, saját minősítést igénylő adat nem keletkezik. Ebben az esetben a korábban készített minősített adat minősítési jelölését meg kell ismételni, kivéve ha azt a megismételni kívánt adat minősítője megtiltotta. A minősítési jelölés megismétlése esetén biztosítani kell a különböző forrásból származó eredeti minősített adatok azonosíthatóságát és elkülöníthetőségét.
 
 (2) Ha a megismételt minősítésű jelölésű adat mellett további, saját minősítést igénylő adat is keletkezik, akkor arra az adatra a minősítési eljárást le kell folytatni.
 
 ### A nemzeti minősített adat felülvizsgálata, felülbírálata
 
-8. § (1) A minősítő – ha törvény rövidebb határidőt nem állapít meg – köteles legkésőbb 5 évenként felülvizsgálni az általa, a jogelődje vagy más minősítő által készített és a felülvizsgálat időpontjában feladat- és hatáskörébe tartozó nemzeti minősített adatot. A minősítő a felülvizsgálatba szakértőt vonhat be.
+8. § (1) A minősítő – ha törvény rövidebb határidőt nem állapít meg – köteles legkésőbb 5 évenként felülvizsgálni az általa vagy a jogelődje által készített és a feladat- és hatáskörébe tartozó nemzeti minősített adatot. A minősítő a felülvizsgálatba szakértőt vonhat be.
 
 (2) A felülvizsgálat eredményeként a minősítő, illetve jogutódja a feladat- és hatáskörébe tartozó nemzeti minősített adat
 
@@ -177,26 +153,19 @@ minősítési szintű.
 - b) minősítési szintjét csökkenti, illetve a minősítés érvényességi idejét módosítja, ha a minősítés feltételeiben változás történt,
 - c) minősítését megszünteti, ha minősítésének feltételei a továbbiakban nem állnak fenn.
 
-(3) A minősítés megszüntetéséről, illetve a minősítési szint vagy az érvényességi idő módosításáról minden olyan címzettet vagy annak jogutódját értesíteni kell, akinek a nemzeti minősített adatot továbbították.
-
-(3a) Minősítési jelölés megismétlésével készült minősített adat esetén a (3) bekezdés alapján kapott felülvizsgálat eredményéről vagy a megismételt minősítési jelölés egyéb okból történő módosulásáról a minősítési jelölést megismétlő szerv értesíti a megismételt minősítési jelöléssel ellátott és továbbított minősített adat címzettjét vagy annak jogutódját.
+(3) A minősítés megszüntetéséről, illetve a minősítési szint vagy az érvényességi idő módosításáról minden olyan címzettet értesíteni kell, akinek a nemzeti minősített adatot továbbították.
 
 (4) A minősítésre jogosult személy az általa minősítői jogkörrel felruházott személyek minősítését a minősítés felülvizsgálatára vonatkozó szabályok szerint felülbírálhatja, ennek eredményeként megszüntetheti a minősítést, módosíthatja a minősítési szintet, illetve a minősítés érvényességi idejét.
 
-(5) A legfőbb ügyész az ügyészség vezetője, a miniszterelnök, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, a miniszterelnöki biztos és a kormánybiztos, a Kormány tagja – felügyeleti jogkörében – a kormányzati főhivatal vezetője minősítését a minősítés felülvizsgálatára vonatkozó szabályok szerint felülbírálhatja, ennek eredményeként megszüntetheti a minősítést, módosíthatja a minősítési szintet, illetve a minősítés érvényességi idejét.
+(5) A legfőbb ügyész az ügyészség vezetője, a Miniszterelnöki Hivatalt vezető miniszter a kormánybiztos, a Kormány tagja – felügyeleti jogkörében – a kormányhivatal vezetője minősítését a minősítés felülvizsgálatára vonatkozó szabályok szerint felülbírálhatja, ennek eredményeként megszüntetheti a minősítést, módosíthatja a minősítési szintet, illetve a minősítés érvényességi idejét.
 
 (6) A felülvizsgálat és a felülbírálat során a minősítési eljárás szabályai szerint kell eljárni.
 
-(7) Megkeresésre a Nemzeti Biztonsági Felügyelet gondoskodik a felülvizsgálat elvégzéséről
-
-- a) az e törvény hatálybalépése után jogutód nélkül megszűnő szervek által keletkeztetett nemzeti minősített adatok esetében, vagy
-- b) ha a nemzeti minősített adat felülvizsgálatára jogosult minősítő valamilyen okból nem állapítható meg.
-
 ### III. Fejezet — KÜLFÖLDI MINŐSÍTETT ADAT
 
-9. § (1) Az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO), a Nyugat-európai Unió (a továbbiakban: NYEU), valamint az Európai Unió Tanácsa, az Európai Bizottság, az Európai Atomenergia Közösség (a továbbiakban: EURATOM), a Bűnüldözési Együttműködés Európai Uniós Ügynöksége (a továbbiakban: EUROPOL), az Európai Igazságügyi Együttműködési Egység (a továbbiakban: EUROJUST), az Európai Űrügynökség (a továbbiakban: ESA) által használt minősítési szinteket és azok nemzeti minősítési szintű megfelelőit a 2. számú melléklet tartalmazza.
+9. § (1) Az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO), a Nyugat-európai Unió (a továbbiakban: NYEU), valamint az Európai Unió Tanácsa, az Európai Bizottság, az Európai Atomenergia Közösség (a továbbiakban: EURATOM), az Európai Rendőrségi Hivatal (a továbbiakban: EUROPOL), az Európai Igazságügyi Együttműködési Egység (a továbbiakban: EUROJUST) által használt minősítési szinteket és azok nemzeti minősítési szintű megfelelőit a 2. számú melléklet tartalmazza.
 
-(2) A Magyarország által kötött nemzetközi szerződésben meghatározott minősítési szintet, illetve annak nemzeti minősítési szintű megfelelőjét a nemzetközi szerződés tartalmazza.
+(2) A Magyar Köztársaság által kötött nemzetközi szerződésben meghatározott minősítési szintet, illetve annak nemzeti minősítési szintű megfelelőjét a nemzetközi szerződés tartalmazza.
 
 (3) A külföldi minősített adat érvényességi ideje a minősítő rendelkezése szerinti ideig tart, ennek hiányában a minősítőnek az adat felülvizsgálata tárgyában hozott döntéséig minősített adatként kell kezelni.
 
@@ -214,16 +183,11 @@ minősítési szintű.
 
 10. § (1) Minősített adatot kezelni csak a Nemzeti Biztonsági Felügyelet által kiadott engedély alapján lehet, akkor, ha az állami vagy közfeladat ellátásához nélkülözhetetlen.
 
-(2) A minősített adathoz – törvényben meghatározott kivételekkel – személyi biztonsági tanúsítvánnyal és titoktartási nyilatkozattal rendelkező felhasználó férhet hozzá.
+(2) A minősített adathoz – az e törvényben meghatározott kivételekkel – kizárólag személyi biztonsági tanúsítvánnyal és titoktartási nyilatkozattal rendelkező jogosult felhasználó a felhasználói engedélyben meghatározott rendelkezési jogosultságokkal férhet hozzá.
 
-(3)
+(3) A személyi biztonsági tanúsítvány kiadásához az érintett az adat minősítési szintjének megfelelő szintű, a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott nemzetbiztonsági ellenőrzésének (a továbbiakban: nemzetbiztonsági ellenőrzés) lefolytatása szükséges. A minősített adat felhasználásához szükséges személyi biztonsági tanúsítvány nem adható ki, illetve a már kiadott tanúsítványt vissza kell vonni, ha a nemzetbiztonsági ellenőrzés alapján készített szakvélemény kockázati tényezőt tartalmaz. A személyi biztonsági tanúsítvány a kiállításától számított 5 évig érvényes.
 
-(4) Minden olyan szervnél, ahol minősített adatot kezelnek, meg kell teremteni a minősített adat védelméhez szükséges, az adat minősítési szintjének megfelelő,
-
-- a) az e törvényben és a végrehajtására kiadott rendeletekben meghatározott személyi, fizikai és adminisztratív, valamint
-- b) ha a szerv a minősített adatot elektronikus információs rendszeren kezeli, az e törvényben és a Magyarország kiberbiztonságáról szóló törvény végrehajtására kiadott jogszabályokban meghatározott elektronikus
-
-biztonsági feltételeket.
+(4) Minden olyan szervnél, ahol minősített adatot kezelnek, meg kell teremteni a minősített adat védelméhez szükséges, az adat minősítési szintjének megfelelő, e törvényben és a végrehajtására kiadott rendeletekben meghatározott személyi, fizikai, adminisztratív és elektronikus biztonsági feltételeket.
 
 (5) Minden olyan helyiséget, épületet, építményt, ahol minősített adatot kezelnek, fizikai biztonsági intézkedésekkel kell védeni az arra nem jogosult személyeknek a minősített adathoz történő hozzáférése ellen.
 
@@ -244,19 +208,21 @@ biztonsági feltételeket.
 
 (2) A megismerési engedély kiadásáról az érintett kérelmére a minősítő 15 napon belül határoz. A megismerési engedély kiadását a minősítő megtagadja, ha az adat megismerése a minősítés alapjául szolgáló közérdek sérelméhez vezet. A megismerési engedély megtagadását a minősítőnek indokolnia kell.
 
-(3) A megismerési engedély megtagadása esetén az érintett a határozatot közigazgatási perben megtámadhatja. Ha a bíróság a kérelemnek helyt ad, a minősítőt a megismerési engedély kiadására kötelezi. A bíróság az ügyben zárt tárgyaláson jár el. A perben csak olyan bíró járhat el, akinek a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzését elvégezték. A felperes, a felperes oldalán érdekeltként részt vevő személy és ezek képviselője a minősített adatot az eljárás során nem ismerheti meg. A perben részt vevő egyéb személyek, valamint azok képviselői a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzésüket elvégezték.
+(3) A megismerési engedély megtagadása esetén az érintett a határozat kézhezvételét követő 15 napon belül a Fővárosi Bírósághoz fordulhat. Ha a bíróság a kérelemnek helyt ad, a minősítőt a megismerési engedély kiadására kötelezi. A bíróság eljárására a polgári perrendtartás közigazgatási perekre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a bíróság az ügyben zárt tárgyaláson, soron kívül jár el. A perben csak olyan bíró járhat el, akinek a nemzetbiztonsági szolgálatokról szóló törvény szerinti legmagasabb szintű nemzetbiztonsági ellenőrzését elvégezték. A felperes, a felperes oldalán beavatkozó személy és ezek képviselője a minősített adatot az eljárás során nem ismerheti meg. A perben résztvevő egyéb személyek, valamint azok képviselői a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti legmagasabb szintű nemzetbiztonsági ellenőrzésüket elvégezték.
 
-#### 12. §
+12. § (1) A minősített adat kezelője a személyes adatok védelméről szóló törvény alapján az érintettet megillető tájékoztatást megtagadhatja, ha a minősítés alapjául szolgáló közérdeket az érintettnek a személyes adatainak kezelésére vonatkozó tájékoztatása veszélyeztetné.
+
+(2) Az érintett jogaival kapcsolatban egyebekben a személyes adatok védelméről szóló törvény rendelkezéseit kell alkalmazni azzal, hogy bíróság előtti jogérvényesítés során az eljáró bíróságra és a minősített adatok megismerésére a 11. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
 ### Minősített adat felhasználása
 
 13. § (1) Minősített adatot csak az a személy használhat fel, akinek ez állami vagy közfeladat ellátása érdekében indokolt, és aki – törvényben meghatározott kivétellel – rendelkezik
 
 - a) érvényes és a felhasználni kívánt adat minősítési szintjének megfelelő személyi biztonsági tanúsítvánnyal,
-- b) titoktartási nyilatkozattal
-- c)
+- b) titoktartási nyilatkozattal, valamint
+- c) felhasználói engedéllyel.
 
-(2) A „Korlátozott terjesztésű!” minősítési szintű minősített adat állami vagy közfeladat ellátásához szükséges felhasználása esetén a felhasználó titoktartási nyilatkozatot tesz.
+(2) A „Korlátozott terjesztésű!” minősítési szintű minősített adat állami vagy közfeladat ellátásához szükséges felhasználása esetén a felhasználó titoktartási nyilatkozatot tesz, és felhasználói engedéllyel kell rendelkeznie.
 
 (3) Állami vagy közfeladata ellátásához
 
@@ -264,49 +230,37 @@ biztonsági feltételeket.
 - b) a miniszterelnök,
 - c) az Alkotmánybíróság tagjai,
 - d) az Országgyűlés elnöke,
-- e) a Kúria elnöke, az Országos Bírósági Hivatal elnöke,
+- e) a Legfelsőbb Bíróság elnöke, az Országos Igazságszolgáltatási Tanács elnöke,
 - f) a legfőbb ügyész,
-- g) az alapvető jogok biztosa,
-- h) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
-- i) az Állami Számvevőszék elnöke
+- g) az országgyűlési biztos nemzetbiztonsági ellenőrzés, személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül jogosultak a feladat- és hatáskörükbe tartozó minősített adatra vonatkozó – a 18. § (2) bekezdés a), illetve b) pontjában meghatározott – rendelkezési jogosultságok gyakorlására.
 
-– a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott – nemzetbiztonsági ellenőrzés (a továbbiakban: nemzetbiztonsági ellenőrzés), személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül jogosult a feladat- és hatáskörébe tartozó minősített adatra vonatkozó állami vagy közfeladat végrehajtása érdekében történő ügyintézésre, feldolgozásra, valamint a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenységre.
+(4) A minősítésre jogosult, – a gazdálkodó szervezet kivételével – a minősített adatot kezelő szerv vezetője és a biztonsági vezető felhasználói engedély nélkül jogosult a feladat- és hatáskörébe tartozó minősített adatra vonatkozó – a 18. §-ban meghatározott – rendelkezési jogosultságok gyakorlására.
 
-(3a) Törvényben meghatározott feladatai ellátásához a Szuverenitásvédelmi Hivatal elnöke és elnökhelyettese személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül jogosultak a feladat- és hatáskörükbe tartozó minősített adat felhasználására.
-
-(4)
-
-(5) A bíró az ügyelosztási rend szerint kiosztott ügyek elbírálásához szükséges minősített adatot – ha törvény másként nem rendelkezik – nemzetbiztonsági ellenőrzés, személyi biztonsági tanúsítvány és titoktartási nyilatkozat nélkül használhatja fel.
+(5) A bírót – ha törvény másként nem rendelkezik – nemzetbiztonsági ellenőrzés, személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül megilleti az ügyelosztási rend szerint kiosztott ügyek elbírálásához szükséges rendelkezési jogosultságok gyakorlása.
 
 (6) Állami vagy közfeladat ellátása során külön engedély nélkül jogosult a minősített adat felhasználására az, akit erre törvény kifejezetten felhatalmaz.
 
-(7)
+(7) Minősített adatnak az állami vagy közfeladat ellátásához szükséges felhasználása esetén a minősített adatot kezelő szerv vezetője határozza meg a szerven belül azokat a vezetői beosztásokat, amelyet betöltő személyek felhasználói engedély kiadására jogosultak. Részükre a felhasználói engedélyt a minősített adatot kezelő szerv vezetője adja ki.
 
 14. § (1) Nemzeti minősített adatnak büntetőeljárásban történő felhasználására a büntetőeljárásról szóló törvény rendelkezéseit kell alkalmazni.
 
-(2)
+(2) A büntetőeljárás során – ha törvény másként nem rendelkezik – az eljárást folytató, illetve az eljárásban részt vevő ügyész, a büntetőeljárásban kirendelt vagy bevont igazságügyi szakértő nemzetbiztonsági ellenőrzés, személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül használhatja fel a rendelkezésére bocsátott nemzeti minősített adatot.
 
-(3)
+(3) A büntetőeljárásban fel nem használt nemzeti minősített adat felhasználására a minősítő adhat felhasználói engedélyt.
 
-(4) Közigazgatási, – a büntetőeljárást kivéve – bírósági, szabálysértési vagy egyéb hatósági eljárásban a nemzeti minősített adathoz történő hozzáférést a minősítő engedélyezheti. Az ügyészi törvényességi ellenőrzési eljárásban, valamint az ügyész által közérdekből indítható polgári peres eljárásban a nemzeti minősített adat felhasználására vonatkozó engedély kiadása nem tagadható meg.
+(4) Közigazgatási – a büntetőeljárást kivéve – bírósági, szabálysértési vagy egyéb hatósági eljárásban nemzeti minősített adat felhasználására a minősítő adhat felhasználói engedélyt. Az ügyészi törvényességi felügyeleti eljárásban, valamint az ügyész által közérdekből indítható polgári peres eljárásban a nemzeti minősített adat felhasználására vonatkozó engedély kiadása nem tagadható meg.
 
 (5) Ha közigazgatási, bírósági, szabálysértési vagy egyéb hatósági eljárásban a titoktartásra kötelezettnek nemzeti minősített adatról kell nyilatkoznia, a titoktartási kötelezettség alól az adatot minősítő személy adhat felmentést.
 
-14/A. § (1) A nemzetközi együttműködés keretében végrehajtott katonai művelet, kiképzési feladat, haditechnikai bemutató és haditechnikai eszköz, hadfelszerelés alkalmazása, karbantartása, javítása során az érintett, minősített adatot kezelő Magyarországon települő honvédelmi szervezet a birtokában lévő és ezen tevékenységéhez feltétlenül szükséges minősített adatot és minősített adatot tartalmazó technikai eszközt külföldön is felhasználhatja.
-
-(2) A minősített adatot kezelő honvédelmi szervezet vezetője gondoskodik az (1) bekezdésben meghatározott esetben külföldön felhasználásra kerülő minősített adat és minősített adatot tartalmazó technikai eszköz védelméhez szükséges személyi, fizikai, adminisztratív és elektronikus biztonsági intézkedések megtervezéséről és alkalmazásáról.
-
-(3) A minősített adatot kezelő honvédelmi szervezet vezetője és biztonsági vezetője az (1) és (2) bekezdés szerinti esetben jogosult a minősített adat külföldre vitelének vagy külföldről való behozatalának engedélyezésére.
-
 ### Minősített adat átadása
 
-15. § (1) Ha a minősített adatot kezelő szerv közreműködő segítségét veszi igénybe, és ehhez a közreműködőnek minősített adatot kell felhasználnia, a biztonsági vezető – a minősített adat átadása előtt – ellenőrzi, hogy a közreműködőnél megteremtették-e a minősített adat védelméhez előírt feltételeket.
+15. § (1) Ha a minősített adatot kezelő szerv közreműködő segítségét veszi igénybe, és ehhez a közreműködőnek minősített adatot kell felhasználnia, – a minősítő eltérő rendelkezésének hiányában – a közreműködő részére a minősített adatot kezelő szerv vezetője adja ki a felhasználói engedélyt.
 
-(2)
+(2) A felhasználói engedély megadása előtt a minősített adatot kezelő szerv köteles ellenőrizni, hogy a közreműködőnél megteremtették-e a minősített adat védelméhez előírt feltételeket.
 
 (3) A közreműködőre az őt igénybe vevő minősített adatot kezelő szerv részére meghatározott személyi, fizikai, adminisztratív és elektronikus biztonságra vonatkozó feltételek vonatkoznak.
 
-(4) A minősített adat nem adható át, ha a közreműködő nem felel meg a személyi biztonsági feltételeknek.
+(4) A felhasználói engedély nem adható ki, ha a közreműködő nem felel meg a személyi biztonsági feltételeknek.
 
 (5) A közreműködő kizárólag a minősített adatot kezelő szervnél férhet hozzá a minősített adathoz, ha a minősített adatot kezelő szerv az ellenőrzése során megállapítja, hogy a közreműködőnél hiányoznak
 
@@ -316,30 +270,18 @@ biztonsági feltételeket.
 
 vonatkozó feltételek.
 
-16. § (1) Gazdálkodó szervezet
+16. § (1) Ha a minősített adatot kezelő szerv az állami vagy közfeladata ellátásához gazdálkodó szervezet – minősített adat felhasználásával járó – közreműködését veszi igénybe, a gazdálkodó szervezetnél a „Bizalmas!” vagy annál magasabb minősítési szintű adat átadása előtt a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott iparbiztonsági ellenőrzést kell végrehajtani. Az iparbiztonsági ellenőrzés végrehajtását a minősített adatot kezelő szerv a Nemzeti Biztonsági Felügyeletnél kezdeményezi.
 
-- a) „Bizalmas!” vagy annál magasabb minősítési szintű minősített szerződés végrehajtásában, vagy
-- b) a „Bizalmas!” vagy annál magasabb minősítési szintű adat felhasználásával járó és a közbeszerzésekről szóló 2015. évi CXLIII. törvény 9. § (1) bekezdés a) és b) pontja szerinti, minősített adat átadásával járó beszerzési eljáráson
+(2) Az iparbiztonsági ellenőrzés
 
-csak akkor vehet részt, ha a Nemzeti Biztonsági Felügyelet a megfelelő szintű telephely biztonsági tanúsítványt vagy egyszerűsített telephely biztonsági tanúsítványt részére kiállította.
+- a) a gazdálkodó szervezet cégellenőrzéséből és a minősített adatot felhasználó személyek nemzetbiztonsági ellenőrzéséből, illetve
+- b) a minősített adat személyi, fizikai, adminisztratív és elektronikus biztonsági feltételei meglétének ellenőrzéséből áll.
 
-(1a) A telephely biztonsági tanúsítvány, illetve az egyszerűsített telephely biztonsági tanúsítvány kiadására irányuló eljárás megindítását a minősített adatot kezelő szerv vagy a gazdálkodó szervezet a Nemzeti Biztonsági Felügyeletnél kezdeményezi.
+(3) Ha az iparbiztonsági ellenőrzés során a Nemzeti Biztonsági Felügyelet nem állapít meg kockázati tényezőt, akkor a gazdálkodó szervezet részére telephely biztonsági tanúsítványt ad ki.
 
-(2) Ha az iparbiztonsági ellenőrzés nem állapított meg kockázati tényezőt, a Nemzeti Biztonsági Felügyelet a gazdálkodó szervezet részére
+(4) „Bizalmas!” vagy annál magasabb minősítési szintű adat kizárólag érvényes telephely biztonsági tanúsítvánnyal rendelkező gazdálkodó szervezet részére adható át.
 
-- a) egyszerűsített telephely biztonsági tanúsítványt,
-- b) amennyiben a minősített adat védelmének fizikai, adminisztratív és elektronikus biztonsági feltételei is kialakításra kerültek, telephely biztonsági tanúsítványt,
-- c)
-
-ad ki.
-
-(3) „Bizalmas!” vagy annál magasabb minősítési szintű adatot az (1) bekezdésben meghatározott szerződés végrehajtásában való részvétel, valamint beszerzési eljárás során kizárólag érvényes telephely biztonsági tanúsítvánnyal vagy egyszerűsített telephely biztonsági tanúsítvánnyal rendelkező gazdálkodó szervezet kezelhet.
-
-(4) Egyszerűsített telephely biztonsági tanúsítvánnyal rendelkező gazdálkodó szervezet „Bizalmas!” vagy annál magasabb minősítési szintű adatot a saját székhelyén, telephelyén és fióktelepén nem kezelhet.
-
-(4a)
-
-(5) „Korlátozott terjesztésű!” minősítési szintű adat gazdálkodó szervezetnek történő átadását a minősített adatot kezelő szerv vezetője akkor engedélyezheti, ha meggyőződött arról, hogy a gazdálkodó szervezet a minősített adat személyi, fizikai, adminisztratív és elektronikus biztonsági feltételeinek megfelel.
+(5) „Korlátozott terjesztésű!” minősítési szintű adat gazdálkodó szervezetnek történő átadását a minősített adatot kezelő szerv vezetője akkor engedélyezheti, ha a gazdálkodó szervezet a minősített adat személyi, fizikai, adminisztratív és elektronikus biztonsági feltételeinek megfelel.
 
 ### Személyi biztonsági tanúsítvány kiadása
 
@@ -349,95 +291,101 @@ ad ki.
 
 - a) adja ki a szerven belül a nemzeti minősített adatot felhasználók, valamint a szervvel közreműködők személyi biztonsági tanúsítványát,
 - b) a szükséges biztonsági feltételek hiánya vagy megszűnése esetén a személyi biztonsági tanúsítvány kiállítását megtagadja, illetve a már kiadott tanúsítványt visszavonja.
-- c) adja ki az igazolást a nemzeti és külföldi minősített adatot felhasználó személyi biztonsági tanúsítványairól más hazai minősített adatot kezelő szervnél történő minősített adat felhasználása céljából, illetve a szükséges biztonsági feltételek hiánya vagy megszűnése esetén visszavonja.
 
-(3) A személyi biztonsági tanúsítvány kiadásához az érintett nemzetbiztonsági ellenőrzésének lefolytatása szükséges. A minősített adat felhasználásához szükséges személyi biztonsági tanúsítvány nem adható ki, illetve a már kiadott tanúsítványt vissza kell vonni, ha a nemzetbiztonsági ellenőrzés kockázati tényezőt tár fel.
+### Felhasználói engedély
 
-(4) A személyi biztonsági tanúsítvány a nemzetbiztonsági ellenőrzésről készült kockázatmentes biztonsági szakvélemény kiállításától számított 5 évig érvényes.
+18. § (1) A felhasználói engedélyben meg kell határozni, hogy a rendelkezési jogosultságok közül melyek illetik meg a felhasználót.
 
-(5) A gazdálkodó szervezetnél a minősített adatot felhasználó külföldi állampolgárságú személy részére a személyi biztonsági tanúsítvány – törvényben kihirdetett nemzetközi szerződés alapján – abban az esetben is kiadható, ha rendelkezik az állampolgársága szerinti ország feladat- és hatáskörrel rendelkező hatósága által kiállított érvényes személyi biztonsági tanúsítvánnyal.
+(2) A minősített adatra vonatkozó rendelkezési jogosultságok:
 
-#### 18. §
+- a) állami vagy közfeladat végrehajtása érdekében történő ügyintézés, feldolgozás,
+- b) minősített adat nyilvántartásával kapcsolatos valamennyi tevékenység,
+- c) minősített adat birtokban tartása,
+- d) minősítési jelölés megismétlése, illetve a megismétlés megtiltása,
+- e) minősített adat másolása, sokszorosítása,
+- f) minősített adat fordítása,
+- g) kivonat készítése,
+- h) szerven belüli átadás,
+- i) szerven kívülre továbbítás, szállítás,
+- j) selejtezés, illetve megsemmisítés,
+- k) felhasználói engedély kiadása,
+- l) megismerési engedély kiadása,
+- m) nemzeti minősített adat felülvizsgálata,
+- n) minősített adat külföldi személy vagy külföldi szerv részére hozzáférhetővé tételének engedélyezése,
+- o) minősített adat külföldre vitelének vagy külföldről való behozatalának engedélyezése,
+- p) titoktartási kötelezettség alóli felmentés.
+
+(3) A felhasználót
+
+- a) az általa minősített adat esetén a rendelkezési jogosultságok teljes körűen illetik meg,
+- b) a más minősítő által minősített adat esetén a (2) bekezdés a)–k) pontjában foglalt rendelkezési jogosultságok illethetik meg.
 
 ### Egyéb védelmi kötelezettségek
 
 19. § (1) Ha valakinek olyan külföldi minősített adat kerül a birtokába, amelynek felhasználására nem jogosult, illetve ismeretlen helyről származó, olyan nemzeti minősített adat került a birtokába, amelynek minősítője nem azonosítható, köteles azt a Nemzeti Biztonsági Felügyeletnek haladéktalanul átadni. A fellelés körülményeiről és az adathordozó átadásáról jegyzőkönyvet kell készíteni. Ha az ismeretlen helyről származó nemzeti minősített adat minősítője ismert, az adatot a minősítőnek kell haladéktalanul átadni.
 
-(2) Ha a felhasználó tudomására jut, hogy a minősített adat védelmére vonatkozó szabályokat megsértették, erről a biztonsági vezetőt haladéktalanul tájékoztatja. Ha e törvényt vagy a végrehajtásáról szóló rendelkezéseket NATO vagy az Európai Unió Tanácsa, az Európai Bizottság, az EURATOM, az EUROPOL, az EUROJUST (a továbbiakban együtt: EU) minősített adat esetében megsértették vagy ennek veszélye fennáll, a minősített adatot kezelő szerv vezetője a Nemzeti Biztonsági Felügyeletet, ha a nemzeti „Szigorúan titkos!”, a „Titkos!”, valamint a „Bizalmas!” minősítési szintű adat esetében olyan módon sértették meg, hogy ezáltal illetéktelen személy részére hozzáférhetővé válhatott, vagy ennek veszélye fennáll, a minősített adatot kezelő szerv vezetője a minősítőt és a Nemzeti Biztonsági Felügyeletet legkésőbb a tudomásra jutástól számított 10 napon belül köteles erről tájékoztatni.
+(2) Ha a felhasználó tudomására jut, hogy a minősített adat védelmére vonatkozó szabályokat megsértették, erről a biztonsági vezetőt haladéktalanul tájékoztatja. Ha e törvényt vagy a végrehajtásáról szóló rendelkezéseket olyan módon sértették meg, hogy a „Szigorúan titkos!”, a „Titkos!”, valamint a „Bizalmas!” minősítési szintű adat ezáltal illetéktelen személy részére hozzáférhetővé válhatott, vagy ennek veszélye fennáll, a minősített adatot kezelő szerv vezetője a minősítőt és a Nemzeti Biztonsági Felügyeletet köteles erről tájékoztatni.
 
 ### V. Fejezet — A MINŐSÍTETT ADAT VÉDELMÉT ELLÁTÓ SZERVEZETEK ÉS SZEMÉLYEK
 
 ### A Nemzeti Biztonsági Felügyelet
 
-20. § (1) A Nemzeti Biztonsági Felügyelet feladata a minősített adat védelmének hatósági felügyelete, a minősített adatok kezelésének hatósági engedélyezése és felügyelete, valamint a telephelyi iparbiztonsági hatósági feladatok ellátása. A Nemzeti Biztonsági Felügyelet a minősített adatok védelmének szakmai felügyeletéért felelős miniszter irányítása alatt álló Nemzetbiztonsági Szakszolgálat keretében működő, önálló feladattal és hatósági jogkörrel rendelkező szerv, amely hatósági tevékenysége során minden más szervtől független és a feladatkörébe tartozó hatósági ügyek tekintetében nem utasítható.
+20. § (1) A Nemzeti Biztonsági Felügyelet feladata a minősített adat védelmének hatósági felügyelete, a minősített adatok kezelésének hatósági engedélyezése és felügyelete, valamint a nemzeti iparbiztonsági hatósági feladatok ellátása. A Nemzeti Biztonsági Felügyelet a polgári nemzetbiztonsági szolgálatokat irányító miniszter irányítása alatt álló, a Miniszterelnöki Hivatal szervezeti keretében önálló feladattal és hatósági jogkörrel rendelkező szervezet. A Nemzeti Biztonsági Felügyelet közigazgatási hatósági ügyekben történő eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
 (2) A Nemzeti Biztonsági Felügyelet
 
 - a) a minősített adatot kezelő szervnél engedélyezi a minősített adatok kezelését, jogosult a kiadott engedély módosítására vagy visszavonására,
 - b) engedélyezi a minősített adatok kezelésére szolgáló elektronikus rendszerek használatba vételét, jogosult a kiadott engedély módosítására vagy visszavonására,
 - c) nyilvántartja az a) és b) pontban meghatározott engedéllyel rendelkező minősített adatot kezelő szerveket nevük és székhelyük feltüntetésével,
-- d) nyilvántartja a minősített adatot kezelő szervek biztonsági vezetőinek, valamint helyettes biztonsági vezetőinek nevét, hivatali telefonszámát, hivatali e-mail-címét és munkahelyének nevét,
+- d) a minősített adatot kezelő elektronikus rendszerekről megfelelőségi igazolások alapján tanúsítványt ad ki,
 - e) ellátja a rejtjeltevékenység hatósági engedélyezését és felügyeletét,
-- f) egyetértési jogot gyakorol a minősített adatot kezelő szervek biztonsági vezetőinek kinevezésével kapcsolatban, jogosult a kiadott egyetértés visszavonására,
+- f) egyetértési jogot gyakorol a titokbirtokos szervek biztonsági vezetőinek kinevezésével kapcsolatban,
 - g) ellenőrzi a minősítők minősítési gyakorlatát, ennek eredményeként egyedi vagy általános ajánlást bocsáthat ki az egységes minősítési gyakorlat kialakítása érdekében, illetve kezdeményezheti a minősítés felülvizsgálatát,
 - h) ellátja a minősített adatot kezelő szervnél a minősített adat kezelésének hatósági felügyeletét, ellenőrzi a minősített adat védelmére vonatkozó jogszabályok, valamint a személyi, fizikai, adminisztratív és elektronikus biztonsági szabályok betartását,
-- i) az arra jogosult gazdálkodó szervezetek részére telephely biztonsági tanúsítványt, vagy egyszerűsített telephely biztonsági tanúsítványt ad ki, jogosult a telephely biztonsági tanúsítvány és az egyszerűsített telephely biztonsági tanúsítvány módosítására vagy a már kiadott tanúsítvány visszavonására,
-- j) kivizsgálja a minősített adatok védelmét érintő, a 19. § (1) bekezdésében meghatározott eseményeket,
-- k) a minősített adatot kezelő szerv bejelentése alapján kivizsgálja a 19. § (2) bekezdésében meghatározott eseményeket,
+- i) az arra jogosult gazdálkodó szervezetek részére telephely biztonsági tanúsítványt ad ki, jogosult a telephely biztonsági tanúsítványt módosítására vagy a már kiadott tanúsítvány visszavonására,
+- j) kivizsgálja a minősített adatok védelmét érintő bejelentéseket,
+- k) a minősített adatot kezelő szervnél kivizsgálja a minősített adatok elvesztésével, illetéktelen személy tudomására jutásával, valamint a biztonság megsértésével kapcsolatos eseményeket,
 - l) gondoskodik a jogutód nélkül megszűnt szervek által keletkeztetett minősített adatok felülvizsgálatának elvégzéséről,
-- m) ellátja az EU, a NATO, a NYEU, az ESA, valamint vonatkozó szabályzataiban és a minősített adatok védelme tárgyában kötött nemzetközi szerződésekben a nemzeti biztonsági hatóságok számára előírt feladatokat,
-- n) kapcsolatot tart a NATO, az EU, az ESA és a tagállamok illetékes szervezeteivel, és tevékenységéről – a szükséges mértékben – tájékoztatja azokat,
+- m) ellátja az Európai Unió Tanácsa, az Európai Bizottság, az EURATOM, az EUROPOL, az EUROJUST (a továbbiakban együtt: EU), a NATO, a NYEU, valamint vonatkozó szabályzataiban és a minősített adatok védelme tárgyában kötött nemzetközi szerződésekben a nemzeti biztonsági hatóságok számára előírt feladatokat,
+- n) kapcsolatot tart a NATO, a NYEU, az EU és a tagállamok illetékes szervezeteivel, és tevékenységéről – a szükséges mértékben – tájékoztatja azokat,
 - o) ellátja a nemzeti érdekérvényesítést a minősített adatok védelmét érintő nemzetközi bizottságokban és munkacsoportokban,
 - p) részt vesz a minősített adatok cseréjével járó két- vagy többoldalú biztonsági megállapodások, továbbá valamennyi olyan nemzetközi szerződés előkészítésében, amely minősített adatokat is érint,
 - q) gondoskodik a biztonsági vezetők részére tartandó képzésről és továbbképzésről,
-- r) együttműködik a Nemzeti Adatvédelmi és Információszabadság Hatósággal a közérdekű adatok megismeréséhez fűződő alkotmányos jog tiszteletben tartása és az információszabadság érvényesülése érdekében,
-- s) végzi az elektronikus adatkezelő rendszerek vagy azok elemeinek elektromágneses kompromittáló kisugárzásának méréseit és ezek alapján meghatározza az elektronikus adatkezelő rendszerek telepítési helyének zónabesorolását,
-- t) végzi a helyiségek elektromágneses kompromittáló kisugárzásának védelmével összefüggő méréseket, ezek alapján meghatározza azok zónabesorolását,
-- u) nyilvántartja az a) és b) pont szerinti engedélyeket, valamint az i) pont szerinti tanúsítványokat.
+- r) együttműködik az adatvédelmi biztossal a közérdekű adatok megismeréséhez fűződő alkotmányos jog tiszteletben tartása és az információszabadság érvényesülése érdekében.
 
-(3) A Nemzeti Biztonsági Felügyelet eljárásáért, ha azt a minősített adatok védelmének szakmai felügyeletéért felelős miniszter az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben megállapítja, igazgatási szolgáltatási díjat kell fizetni.
-
-(4) A Nemzeti Biztonsági Felügyelet (2) bekezdés i) pontja alapján folytatott eljárása felfüggeszthető az eljárás során kezdeményezett cégellenőrzés, valamint nemzetbiztonsági ellenőrzés kezdeményezésétől a cégellenőrzés, nemzetbiztonsági ellenőrzés befejezéséig terjedő időtartamra.
-
-21. § (1) A Nemzeti Biztonsági Felügyelet közigazgatási hatósági eljárásban hozott döntése ellen a döntés közlését követő 15 napon belül lehet közigazgatási pert kezdeményezni.
+21. § (1) A Nemzeti Biztonsági Felügyeletnek a 20. § (2) bekezdés a) és b) pontjában meghatározott hatáskörében hozott döntésével szemben az érintett a kézbesítéstől számított 15 napon belül keresettel fordulhat a Fővárosi Bírósághoz. A bíróság eljárására a polgári perrendtartás közigazgatási perekre vonatkozó rendelkezéseit kell alkalmazni. A Fővárosi Bíróság határozata ellen fellebbezésnek nincs helye.
 
 (2) A minősített adat védelmének szakmai felügyeletéért felelős miniszter az ezzel kapcsolatos tevékenységéről szükség szerint, de legalább évente egyszer tájékoztatja az Országgyűlés nemzetbiztonsági, valamint honvédelmi és rendészeti ügyekkel foglalkozó bizottságát.
 
 ### A Nemzeti Biztonsági Felügyelet adatkezelése
 
-22. § (1) A Nemzeti Biztonsági Felügyelet a személyi biztonsági tanúsítvány kiadásához a következő adatokat kezeli:
+22. § (1) A nemzeti biztonsági felügyelet a személyi biztonsági tanúsítvány kiadásához a következő adatokat kezeli:
 
 - a) az érintett személy
   - aa) természetes személyazonosító adatai,
   - ab) állampolgársága,
   - ac) úti okmányának okmányazonosítója,
   - ad) minősített adat felhasználásához kötődő munkahelye, beosztása és feladatköre,
-  - ae) nemzetbiztonsági ellenőrzése során kitöltött biztonsági kérdőívben és a biztonsági szakvéleményben foglalt adatai,
+  - ae) a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott biztonsági kérdőívben és szakvéleményben foglalt adatai,
 - b) a kiadott személyi biztonsági tanúsítvány száma, kelte, érvényességi ideje és szintje.
 
 (2) Az (1) bekezdésben meghatározott adatokat a Nemzeti Biztonsági Felügyelet az érintett személy részére kiadott utolsó személyi biztonsági tanúsítvány érvényességi idejének lejártát vagy visszavonását követően a minősített adattal visszaélés bűncselekményére a büntető törvénykönyvben meghatározott büntetési tétel felső határának megfelelő ideig kezeli.
 
 (3) Ha az érintett személy részére személyi biztonsági tanúsítvány kiadására nem kerül sor, a Nemzeti Biztonsági Felügyelet az (1) bekezdés a) pontjában meghatározott adatokat az eljárás befejezését követően köteles törölni.
 
-(4) A bíróság, az ügyészség, a nyomozó hatóság és a nemzetbiztonsági szolgálatok megkeresésére vagy adatkérésére – a rájuk vonatkozó törvényben meghatározott feladataik ellátásához, az ott meghatározott körben – a Nemzeti Biztonsági Felügyelet adatot szolgáltat.
+(4) A nyomozó hatóságok, a bíróság, az ügyészség és a nemzetbiztonsági szolgálatok megkeresésére – a rájuk vonatkozó törvényben meghatározott feladataik ellátásához, az ott meghatározott körben – a Nemzeti Biztonsági Felügyelet adatot szolgáltat.
 
 (5) A Nemzeti Biztonsági Felügyelet az (1) bekezdés a) pont aa)–ad) alpontjában és b) pontjában szereplő adatokat – a nemzetközi kötelezettségvállalások alapján – továbbíthatja a külföldi adatkezelők részére.
-
-(6) A Nemzeti Biztonsági Felügyelet a biztonsági vezetőkkel és a helyettes biztonsági vezetőkkel jogszabályban meghatározott feladatok végrehajtása érdekében történő kapcsolattartás céljából kezeli a minősített adatot kezelő szervek biztonsági vezetőinek, valamint a helyettes biztonsági vezetőinek nevét, hivatali telefonszámát, hivatali e-mail-címét és munkahelyének nevét.
-
-(7) A Nemzeti Biztonsági Felügyelet a (6) bekezdése szerinti adatokat a biztonsági vezetői, valamint a helyettes biztonsági vezetői kinevezés megszűnéséig kezeli.
-
-(8) A Nemzeti Biztonsági Felügyelet az általa vezetett nyilvántartásokból adatot a minősített adatot kezelő szervek részére továbbíthat.
 
 ### A biztonsági vezető és a helyi biztonsági felügyelet
 
 23. § (1) A minősített adat védelmi feltételeinek kialakításáért a minősített adatot kezelő szerv vezetője felelős.
 
-(2) A minősített adatot kezelő szervnél a minősített adat védelmével kapcsolatos feladatok végrehajtását és koordinálását a minősített adatot kezelő szerv vezetője által kinevezett biztonsági vezető végzi. A minősített adatot kezelő szervnél, ha a minősített adatok mennyisége indokolja, helyettes biztonsági vezető foglalkoztatható, aki a biztonsági vezető tartós távolléte vagy akadályoztatása esetén, a minősített adatot kezelő szerv vezetőjének jóváhagyásával gyakorolja a biztonsági vezető minősített adat védelmére vonatkozó jogosítványait. A helyettes biztonsági vezető jogai és kötelezettségei tekintetében a biztonsági vezetőre vonatkozó rendelkezéseket kell alkalmazni.
+(2) A minősített adatot kezelő szervnél a minősített adat védelmével kapcsolatos feladatok végrehajtását és koordinálását a minősített adatot kezelő szerv vezetője által kinevezett biztonsági vezető végzi.
 
 (3) Amennyiben a minősített adatok mennyisége indokolja, az ezek védelmével kapcsolatos feladatok ellátására külön szervezeti egységként helyi biztonsági felügyelet is kijelölhető. Ebben az esetben a helyi biztonsági felügyeletet a biztonsági vezető vezeti.
 
-(4) A biztonsági vezető és a helyi biztonsági felügyelet a személyi biztonsági tanúsítvány kiadásával összefüggésben a 22. § (1) bekezdésében meghatározott adatokat kezelheti a 22. § (2)–(3) bekezdésében előírt ideig.
+(4) A biztonsági vezető és a helyi biztonsági felügyelet a személyi biztonsági tanúsítvány kiadásával összefüggésben a 22. § (1) bekezdésében meghatározott adatokat kezeli a 22. § (2)–(3) bekezdésében előírt ideig.
 
 (5) A biztonsági vezető és a helyi biztonsági felügyelet a 22. § (1) bekezdés a) pont aa)–ad) alpontjában és b) pontjában szereplő adatokat – a nemzetközi kötelezettségvállalások alapján – továbbíthatja a külföldi adatkezelők részére. A gazdálkodó szervezetek esetében ezen adatok továbbítására a minősített adatot átadó szerv biztonsági vezetője jogosult.
 
@@ -772,17 +720,6 @@ c) „Bizalmas!” minősítési szintű vagy törvényben, illetve nemzetközi 
 - d) a rejtjeltevékenység engedélyezésének rendjét és a hatósági felügyelet részletes szabályait,
 - e) az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályait.
 
-37/A. § Felhatalmazást kap a minősített adatok védelmének szakmai felügyeletéért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a Nemzeti Biztonsági Felügyelet azon eljárásait, amelyekért igazgatási szolgáltatási díjat kell fizetni, a fizetendő igazgatási szolgáltatási díj mértékét, az igazgatási szolgáltatási díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével, felhasználásával kapcsolatos szabályokat.
-
-37/B. § Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a Nemzeti Biztonsági Felügyelet működésének szervezeti keretét.
-
-37/C. § (1) Felhatalmazást kap a minősített adatok védelmének szakmai felügyeletéért felelős miniszter, hogy rendeletben állapítsa meg a közös biztonsági terület fenntartására jogosult
-
-- a) állami tulajdonú gazdálkodó szervezetet, valamint
-- b) azon gazdálkodó szervezetet, amelyben az állam a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:2. § szerinti többségi befolyást gyakorol.
-
-(2) Felhatalmazást kap a minősített adatok védelmének szakmai felügyeletéért felelős miniszter, hogy a honvédelemért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a közös biztonsági terület fenntartására jogosult honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságokat, valamint azon szervezeteket, amelyek a honvédelemért felelős miniszter tulajdonosi joggyakorlása vagy irányítása alá tartoznak.
-
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 38. § E törvény 2010. április 1-jén lép hatályba.
@@ -812,72 +749,191 @@ c) „Bizalmas!” minősítési szintű vagy törvényben, illetve nemzetközi 
 - c) a szolgálati titokká minősített és „Bizalmas!”, illetve „Korlátozott terjesztésű!” minősítési jelöléssel ellátott adat „Bizalmas!”, illetve „Korlátozott terjesztésű!” minősítési szintű adatnak,
 - d) az 1995. július 1-je előtt keletkezett „Szigorúan bizalmas!” jelöléssel ellátott adat „Titkos!” minősítési szintű adatnak, a „TÜK iratként kezelendő!”, „Bizalmas!” jelöléssel ellátott adat „Bizalmas!” minősítési szintű adatnak, a „Szolgálati használatra!” jelöléssel ellátott adat „Korlátozott terjesztésű!” minősítési szintű adatnak minősül.
 
-40. § (1) Az e törvény hatálybalépése előtt kiadott a külföldi minősített adat kezelésére, illetve a rendszer működésére vonatkozó engedély visszavonásig érvényes.
+40. § (1) Az e törvény hatálybalépése előtt kiadott személyi biztonsági tanúsítvány és telephely biztonsági tanúsítvány az abban feltüntetett időpontig, a külföldi minősített adat kezelésére, illetve a rendszer működésére vonatkozó engedély visszavonásig érvényes.
 
-(2)
+(2) A személyi biztonsági tanúsítványt 2011. december 31-ig kell beszerezni azon felhasználók részére, akik az államtitokra és szolgálati titokra vonatkozó jogszabályok alapján e törvény hatálybalépésének időpontjában már betekintési engedéllyel rendelkeztek.
 
-(3) Az e törvény hatálybalépésének időpontjában nemzeti minősített adatot kezelő szervnek vagy jogutódjának a nemzeti minősített adat kezelésére vonatkozó engedélyt, továbbá a nemzeti minősített adat kezelésére szolgáló elektronikus rendszerek használatba vételére vonatkozó engedélyt 2026. december 31-ig kell beszereznie.
+(3) A minősített adatot kezelő szervnek a minősített adat kezelésére vonatkozó engedélyt, továbbá a minősített adat kezelésére szolgáló elektronikus rendszerek használatba vételére vonatkozó engedélyt 2012. december 31-ig kell beszereznie.
 
-(4) A nemzeti minősített adat védelmére vonatkozó fizikai és elektronikus biztonsági feltételeket 2026. december 31-ig kell megteremteni.
+(4) A minősített adat védelmére vonatkozó fizikai és elektronikus biztonsági feltételeket 2011. december 31-ig kell megteremteni.
 
-40/A. § Ez a törvény az EUROPOL-információk titoktartási szabályzatának elfogadásáról szóló 2009. november 30-i 2009/968/IB tanácsi határozat 10. cikk (4) bekezdésének és az EU-minősített adatok védelmét szolgáló biztonsági szabályokról szóló, 2013. szeptember 23-i 2013/488/EU tanácsi határozatnak a végrehajtáshoz szükséges rendelkezéseket állapít meg.
+41. § (1) Hatályát veszti az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény.
 
-41. § A hazai gazdasági szereplők versenyképességének erősítésével és a közigazgatás hatékonyságának növelésével összefüggő egyes törvények módosításáról szóló 2023. évi CIX. törvény hatálybalépését megelőzően kiadott felhasználói engedélyeket visszavontnak kell tekinteni.
+(2) Hatályát veszti
 
-#### 42. §
+- a) a Btk. 224. §-át megelőző alcím,
+- b) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 31. § (1) bekezdés b) pontjában az „és titkos minősítésű” szövegrész,
+- c) a találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény (a továbbiakban: Szt.) 53. § (5), (6), (7), (8) bekezdésében, (9) bekezdés első mondatában, (10), (11) bekezdésében, (12) bekezdés első tagmondatában, (13) bekezdés első tagmondatában, 84/C. § (2) bekezdésében, 118. § (7) bekezdésében az „államtitokká” szövegrész,
+- d) a Nemzeti Biztonsági Felügyeletről szóló 1998. évi LXXXV. törvény,
+- e) a Magyar Köztársaság 2001. és 2002. költségvetéséről szóló 2000. évi CXXXIII. törvény módosításáról szóló 2002. évi XXIII. törvény 23. § (7) bekezdése,
+- f) a Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény 22. § (7) bekezdés második mondata,
+- g) az ÁSZTLtv. 11. § (8) bekezdésében a „Ttv. szerinti” szövegrész.
 
-#### 43. §
+42. § (1) A polgári perrendtartásról szóló 1952. évi III. törvény 5. § (2) bekezdésében az „államtitok, szolgálati titok” szövegrész helyébe a „minősített adat” szövegrész, a 119. § (1) bekezdésében az „államtitok vagy szolgálati titok” szövegrész helyébe a „minősített adat”, „az államtitkot vagy szolgálati titkot” szövegrész helyébe „a minősített adatot”, „az államtitokról és szolgálati titokról” szövegrész helyébe „a minősített adat védelméről”, a 124. § (6) bekezdésében az „államtitkot vagy szolgálati titkot” szövegrész helyébe a „minősített adatot”, a 169. § (2) bekezdésében az „államtitoknak vagy szolgálati titoknak” szövegrész helyébe a „minősített adatnak”, a 192. § (2) bekezdésében az „államtitkot vagy szolgálati titkot” szövegrész helyébe „minősített adatot”, a 192/A. § (1) bekezdésében „az államtitkot vagy szolgálati titkot” szövegrész helyébe „a minősített adatot”, (2) bekezdés első mondatában az „államtitoknak vagy szolgálati titoknak” szövegrész helyébe a „minősített adatnak”, második mondatában „az államtitkot, szolgálati titkot” szövegrész helyébe „a minősített adatot”, harmadik mondatában „az államtitkot, szolgálati titkot” szövegrész helyébe „a minősített adatot” szöveg lép.
+
+(2) A Btk. 147. § (2) bekezdésében az „államtitok” szövegrész helyébe a „Szigorúan titkos! minősítésű nemzeti adat vagy nemzetközi szerződésben e minősítésű adatnak megfeleltetett külföldi minősített adat” szöveg lép.
+
+(3) A közúti közlekedésről szóló 1988. évi I. törvény 46/E. §-ában a „jogosult államtitkot, illetve szolgálati titkot képező adat minősítésére” szövegrész helyébe a „minősítésre jogosult” szöveg lép.
+
+(4) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 31. § (2) bekezdésében a „titokvédelmi” szövegrész helyébe a „minősített adatvédelmi” szöveg lép.
+
+(5) A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 193/S. § (1) bekezdésében a Titoktartási nyilatkozat szövegében az „állam- és szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg lép.
+
+(6) A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 12. § (2) bekezdés harmadik mondatában az „Az állam- és szolgálati titkot” szövegrész helyébe az „A minősített adatot” szöveg, 37. § (2) bekezdésében az „az állam- és szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg lép.
+
+(7) A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 50. § (2) bekezdés harmadik mondatában az „az államtitok vagy szolgálati titok” szövegrész helyébe az „a minősített adat” szöveg lép.
+
+(8) Az államháztartásról szóló 1992. évi XXXVIII. törvény 15/B. § (3) bekezdésében az „államtitokká, illetve szolgálati titokká minősített adatokra” szövegrész helyébe a „minősített adatra” szöveg, 105. § (1) bekezdésében az „az államtitok” szövegrész helyébe az „a minősített adat” szöveg, 121/A. § (8) bekezdésében az „államtitkot, szolgálati titkot” szövegrész helyébe a „minősített adatot” szöveg, az „adat- és titokvédelmi előírások” szövegrész helyébe az „adatvédelmi, illetve a minősített adat védelmére vonatkozó előírások” szöveg lép.
+
+(9) A statisztikáról szóló 1993. évi XLVI. törvény 17. § (2) bekezdésében az „az államtitoknak vagy szolgálati titoknak minősített” szövegrész helyébe az „a minősített” szöveg lép.
+
+(10) A munkavédelemről szóló 1993. évi XCIII. törvény 7. §-ában az „állami, szolgálati” szövegrész helyébe a „minősített adat” szöveg lép.
+
+(11) Az ügyészségi szolgálati viszonyról és az ügyészségi adatkezelésről szóló 1994. évi LXXX. törvény 15. § (3) bekezdésében az „Az állami és szolgálati titkot” szövegrész helyébe az „A minősített adatot” szöveg, 80. § (3) bekezdésében, 84. § (2) bekezdésében az „az állami és szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg, 100. § (2) bekezdésében az „az államtitokra, a szolgálati titokra” szövegrész helyébe az „a minősített adat védelmére” szöveg, 100. § (3) bekezdés b) pontjában az „az államtitok és a szolgálati titok” szövegrész helyébe az „a minősített adat” szöveg, a „titkos adatkezelését” szövegrész helyébe a „minősített adatkezelését” szöveg, a „titok” szövegrész helyébe a „minősített adat” szöveg, 8. számú melléklet III.1. pont c) alpontjában a „szolgálati titoktartás” szövegrész helyébe a „titoktartási kötelezettség” szöveg lép.
+
+(12) Az Szt. 23. § (2) bekezdésében az „az államtitokként” szövegrész helyébe az „a minősített adatként” szöveg, 53. § (7) bekezdésében a „betekintési” szövegrész helyébe a „felhasználói”, (9) bekezdés második mondatában „az államtitokká minősítés” szövegrész helyébe „a minősítés”, (12) bekezdés második tagmondatában „az államtitokká minősítést” szövegrész helyébe „a minősítést”, (13) bekezdés első tagmondatában „az államtitokká minősített” szövegrész helyébe „a minősített”, (13) bekezdés utolsó mondatában „az államtitokká minősítés” szövegrész helyébe „a minősítés” szöveg lép.
+
+(13) A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 1. § d) pontjában az „az államtitkot és a szolgálati titkot képező” szövegrész helyébe az „a minősített” szöveg, 11. § a) pontjában „az államtitkot és a szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg, 12. § (5) és (6) bekezdésében az „államtitkot vagy szolgálati titkot” szövegrész helyébe a „minősített adatot” szöveg, 25. § (1) bekezdésében az „az államtitkot, szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg lép.
+
+(14) A légiközlekedésről szóló 1995. évi XCVII. törvény 3/A. § (3) bekezdésében a „jogosult államtitkot, illetve szolgálati titkot képező adat minősítésére” szövegrész helyébe a „minősítésre jogosult” szöveg, 67. § (7) bekezdés b) pontjában az „államtitoksértés [Btk. 221. §], szolgálati titoksértés [Btk. 222. §]” szövegrész helyébe a „visszaélés szigorúan titkos és titkos minősítésű adattal [Btk. 221. §], visszaélés bizalmas minősítésű adattal [Btk. 222. §], visszaélés korlátozott terjesztésű minősítésű adattal [Btk. 222/A. §]” szöveg lép.
+
+(15) A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 12. §-ában az „az államtitkot és a szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg, 30. § (3) bekezdésében a „szolgálati vagy államtitkok” szövegrész helyébe a „minősített adat” szöveg lép.
+
+(16) A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 68. § (2) bekezdésében az „az állami és a szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg, 134. § (4) bekezdésében az „az állam és szolgálati titok” szövegrész helyébe az „a minősített adat” szöveg, 141. § második mondatában az „államtitkot vagy szolgálati titkot” szövegrész helyébe a „minősített adatot” szöveg, 3. számú mellékletének „A rendőrség hivatásos állományának esküje” című részében az eskü ötödik bekezdésének első mondatában „Az állam- és szolgálati titkot” szövegrész helyébe „A minősített adatot” szöveg, „Az 1. § (1) bekezdés hatálya alá tartozó egyéb rendvédelmi szervek és a polgári nemzetbiztonsági szolgálatok hivatásos állományának esküje, illetve fogadalma” című részében az eskü második bekezdésének harmadik mondatában „Az állam- és szolgálati titkot” szövegrész helyébe „A minősített adatot” szövegrész, a fogadalom második bekezdésének negyedik mondatában „Az állam- és szolgálati titkot” szövegrész helyébe „A minősített adatot” szöveg lép.
+
+(17) A katonai és rendvédelmi felsőoktatási intézmények vezetőinek, oktatóinak és hallgatóinak jogállásáról szóló 1996. évi XLV. törvény 20. § a) pontjában az „az államtitkot és a szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg, 46. § (1) bekezdésében az „az államtitkot vagy szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg, 46. § (2) bekezdésében az „államtitokká vagy szolgálati titokká” szövegrész helyébe a „minősített adattá”, 47. §-ában az „az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény IV. Fejezete” szövegrész helyébe az „a minősített adat védelmére vonatkozó jogszabályok” szöveg, a „titokvédelmi” szövegrész helyébe a „minősített adat védelmére vonatkozó” szöveg lép.
+
+(18) A tisztességtelen piaci magatartás és versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 43/E. § (1) bekezdésében az „állami és szolgálati titkot” szövegrész helyébe a „minősített adatot” szöveg, 74. § (3) bekezdésében az „államtitok, szolgálati titok” szövegrész helyébe a „minősített adat” szöveg lép.
+
+(19) Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 16. § (2) bekezdésében az „az állami és szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg, 39. § (1) bekezdés e) pontjában az „az állami és a szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg lép.
+
+(20) Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 77. § (1) bekezdésében az „az államtitkot képező adatok” szövegrész helyébe az „a minősített adat” szöveg lép.
+
+(21) A büntetőeljárásáról szóló 1998. évi XIX. törvény 16. § (1) bekezdés e) pontjában az „az államtitok és a szolgálati titok megsértése” szövegrész helyébe a „visszaélés minősített adattal” szöveg, 70/C. §-át megelőző alcíme helyébe az „A minősített adat megismerése” alcím, 70/C. § (1) bekezdésében az „az államtitkot, illetőleg szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg, 70/C. § (2) bekezdésében az „Az államtitokról és a szolgálati titokról” szövegrész helyébe az „A minősített adat védelméről” szöveg, a „titokbirtokos” szövegrész helyébe a „minősített adatot kezelő” szöveg, 70/C. § (2) bekezdésében, 70/C. § (3) bekezdés b) pont első és második mondatában, 70/C. § (3) bekezdés c) pontjában az „államtitkot, illetőleg szolgálati titkot” szövegrész helyébe a „minősített adatot” szöveg, 70/C. § (2) bekezdésében, 70/C. § (5) bekezdés a) pontjában az „az államtitkot, illetőleg a szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg, 70/C. § (2) bekezdésében az „az államtitok, illetőleg a szolgálati titok megsértésének” szövegrész helyébe az „a minősített adattal visszaélés büntetőjogi” szöveg, 70/C. § (3) bekezdésének felvezető szövegében, 70/C. § (5) bekezdésének felvezető szövegében az „Az államtitkot, illetőleg a szolgálati titkot” szövegrész helyébe az „A minősített adatot” szöveg, 70/C. § (3) bekezdés a) pontjában az „államtitkot, illetőleg a szolgálati titkot” szövegrész helyébe a „minősített adatot” szöveg, 70/C. § (3) bekezdés a), b) és c) pontjában, 70/C. § (4) bekezdésében, 70/C. § (5) bekezdés a) pontjában az „az államtitok és a szolgálati titok” szövegrész helyébe az „a minősített adat” szöveg, 70/C. § (3) bekezdés d) pontjában a „titokvédelmi” szövegrész helyébe a „biztonsági” szöveg, 70/C. § (4) bekezdésében a „titokvédelmi felügyelőt” szövegrész helyébe a „biztonsági vezetőt” szöveg, 74/A. § (3) bekezdésében az „az államtitkot vagy szolgálati titkot sértene” szövegrész helyébe az „a minősített adat védelmét sértené” szöveg, 81. § (2) bekezdésében az „Államtitoknak vagy szolgálati titoknak minősülő tényről” szövegrész helyébe a „Minősített adatról” szöveg, 81. § (3) bekezdésében, 205. § (1) bekezdésében az „az államtitokról és a szolgálati titokról” szövegrész helyébe az „a minősített adat védelméről” szöveg, 201. § (1) bekezdés d) pontjában a „szolgálati titoksértés” szövegrész helyébe a „visszaélés minősített adattal” szöveg, 237. § (3) bekezdés d) pontjában az „az államtitok vagy szolgálati titok megőrzése” szövegrész helyébe az „a minősített adat védelme” szöveg, 238. § (4) bekezdésében az „az államtitok és a szolgálati titok megsértésének” szövegrész helyébe az „a minősített adattal visszaélés büntetőjogi” szöveg lép.
+
+(22) A szabálysértésekről szóló 1999. évi LXIX. törvény 47. § (4) bekezdés második mondatában az „Az államtitkot vagy szolgálati titkot” szövegrész helyébe az „A minősített adatot” szöveg, 51. § (2) bekezdés b) pontjában az „az államtitkot vagy szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg lép.
+
+(23) A formatervezési minták oltalmáról szóló 2001. évi XLVIII. törvény 33. § (3) bekezdésében az „államtitokként” szövegrész helyébe a „minősített adatként” szöveg lép.
+
+(24) A Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény 54. § (1) bekezdésében az „államtitkot” szövegrész helyébe a „minősített adatot” szöveg lép.
+
+(25) A büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvény 37. §-ában az „államtitoknak vagy szolgálati titoknak” szövegrész helyébe a „minősített adatnak” szöveg, 38. § (7) bekezdésében az „államtitkot vagy szolgálati titkot” szövegrész helyébe a „minősített adatot” szöveg, a „titokvédelmi” szövegrész helyébe a „minősített adat védelmére vonatkozó” szöveg lép.
+
+(26) A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 75. § (2) bekezdésében az „az állami és a szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg, 153. § (4) bekezdésében az „az állami és szolgálati titokról” szövegrész helyébe az „a minősített adat védelméről” szöveg, 159. § (2) bekezdésében az „állam- vagy szolgálati titkot” szövegrész helyébe a „minősített adatot” szöveg lép.
+
+(27) A Nemzeti Földalapról szóló 2001. évi CXVI. törvény 4. § (4) bekezdésében a „titokvédelmi szabályok” szövegrész helyébe a „minősített adat védelmére vonatkozó szabályok” szöveg lép.
+
+(28) A bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvény 22. § (3) bekezdésében az „az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvényben” szövegrész helyébe az „a minősített adat védelméről szóló törvényben” szöveg lép.
+
+(29) Az ÁSZTLtv. 9. § (5) bekezdésében az „az államtitok és szolgálati titok körébe tartozó” szövegrész helyébe az „a minősített” szöveg, a „Ttv.” szövegrész helyébe a „minősített adat védelméről szóló törvény” szöveg, 10. § (3) bekezdésében a „titokvédelmi” szövegrész helyébe a „minősítettadat-védelmi” szöveg, a „Ttv. 2. § (1) bekezdésének 7. pontjában” szövegrész helyébe a „minősített adat védelméről szóló törvényben” szöveg, 12. § (4) bekezdés második és tizedik mondatában az „államtitkot” szövegrész helyébe a „minősített adatot” szöveg, az „az államtitok” szövegrész helyébe az „a minősített adat” szöveg, 12. § (9) bekezdésében az „a Ttv. 10. § (1) bekezdésében” szövegrész helyébe a „a minősített adat védelméről szóló törvény 8. §-ában” szöveg lép.
+
+(30) A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 153. §-ában az „államtitoknak nem minősülő” szövegrész helyébe a „minősített adatot nem tartalmazó” szöveg lép.
+
+(31) Az adózás rendjéről szóló 2003. évi XCII. törvény 12. § (3) bekezdés d) pontjában a „betekintési” szövegrész helyébe a „felhasználói” szöveg, az „az államtitkot vagy szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg lép.
+
+(32) Az elektronikus hírközlésről szóló 2003. évi C. törvény 29. § (1) bekezdésében az „állam-, szolgálati” szövegrész helyébe a „minősített adatot” szöveg, 30. § (7) bekezdés első mondatában a „titokvédelmi” szövegrész helyébe az „a minősített adat védelmére vonatkozó” szöveg, a 66. § (4) bekezdésében az „adat- és titokvédelemre” szövegrész helyébe az „adat- és minősített adatvédelemre” szöveg, 159/A. § (5) bekezdésében a „hazai titokvédelmi szabályoknak” szövegrész helyébe a „hazai titokvédelmi, minősítettadat-védelmi szabályoknak” szöveg lép.
+
+(33) A közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény 7/P. § (4) bekezdés d) pontjában a „betekintési” szövegrész helyébe a „felhasználói” szöveg, az „az államtitkot vagy szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg lép.
+
+(34) A közbeszerzésekről szóló 2003. évi CXXIX. törvény 29. § (1) bekezdés a) pontjában és 175. § a) pontjában az „az államtitkot vagy szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg, 336. § (2) bekezdésében az „az államtitok, szolgálati titok” szövegrész helyébe az „a minősített adat” szöveg, 337. § (3) bekezdésében a „titokvédelmi” szövegrész helyébe a „minősített adat védelmére vonatkozó” szöveg, 337. § (4) bekezdésében a „Betekintési” szövegrész helyébe a „Felhasználói” szöveg, az „az államtitkot, illetőleg a szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg, 337. § (5) bekezdésében az „államtitok vagy szolgálati titok megőrzése miatt” szövegrész helyébe az „a minősített adat védelme érdekében” szöveg, az „az államtitokról és a szolgálati titokról” szövegrész helyébe az „a minősített adat védelméről” szöveg, a „meghatározott megismerési engedély” szövegrész helyébe a „meghatározottak” szöveg, 397. § (1) bekezdésében a „szolgálati” szövegrész helyébe a „minősített adatot” szöveg, 404. § (1) bekezdés h) pontjában az „az államtitkot vagy a szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg lép.
+
+(35) A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglakoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény 9. § (7) bekezdés b) pontjában az „állam- és szolgálati titkot” szövegrész helyébe a „minősített adatot” szöveg lép.
+
+(36) A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 51. § (4) bekezdés a) pontjában az „az államtitoknak vagy szolgálati titoknak minősített” szövegrész helyébe az „a minősített” szöveg, az 57/A. § (6) bekezdésében az „az államtitkot, a szolgálati titkot” szövegrész helyébe az „a minősített adatot,” 69. § (1) bekezdés c) pontjában a „betekintési” helyébe a „felhasználói” szövegrész, az „az államtitkot vagy szolgálati titkot” szövegrész helyébe az „a minősített adatot” szövegrész, 172. § n) pontjában az „az államtitok, a szolgálati titok” szövegrész helyébe az „a minősített adat” szöveg lép.
+
+(37) Az elektronikus információszabadságról szóló 2005. évi XC. törvény 18. § (5) bekezdésében az „Az állam- és a szolgálati titok” szövegrész helyébe az „A minősített adat” szöveg lép.
+
+(38) A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény 34. § b) pontjában „az államtitokról és a szolgálati titokról” szövegrész helyébe „a minősített adat védelméről” szöveg lép.
+
+(39) A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 13/A. § (5) bekezdés második mondatában az „az államtitokról és a szolgálati titokról” szövegrész helyébe az „a minősített adat védelméről” szöveg lép.
+
+(40) A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 68. § (3) bekezdésében az „államtitkot, szolgálati titkot” szövegrész helyébe a „minősített adatot” szöveg lép.
+
+(41) A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény 195. § (3) bekezdésében az „az állami és szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg lép.
+
+(42) Az állami vagyonról szóló 2007. évi CVI. törvény 35. § (2) bekezdés l) pontjában az „államtikot vagy szolgálati titkot” szövegrész helyébe a „minősített adatot” szöveg, 62. § e) pontjában az „az állami vagy szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg lép.
+
+(43) A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 82. § (10) bekezdésében az „az államtitokról és a szolgálati titokról” szövegrész helyébe az „a minősített adat védelméről” szöveg lép.
+
+(44) A büntetések és intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet 36. § (5) bekezdésének c) pontjában az „államtitok” szövegrész helyébe a „minősített adat” szöveg lép.
+
+(45) Az igazságügyi szakértői tevékenységről szóló 2005. évi XLVII. törvény 29. § (4) bekezdésében az „az állam- és szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg lép.
+
+### Minősített többséget igénylő rendelkezések
+
+43. § (1) A sajtóról szóló 1986. évi II. törvény 4. § (1) bekezdésében az „állami, szolgálati” szövegrész helyébe a „minősített adatot” szöveg lép.
+
+(2) Az Állami Számvevőszékről szóló 1989. évi XXXVIII. törvény 18. § (1) bekezdésében az „államtitkot és szolgálati titkot” szövegrész helyébe a „minősített adatot” szöveg, 21. § (1) bekezdésében az „államtitkot, szolgálati titkot” szövegrész helyébe a „minősített adatot” szöveg lép.
+
+(3) Az országgyűlési képviselők jogállásáról szóló 1990. évi LV. törvény 4. § (1) bekezdés második mondatában az „az államtitoksértésre” szövegrész helyébe az „a szigorúan titkos és titkos minősítésű adattal való visszaélésre” szöveg lép.
+
+(4) Az Avtv. 19. § (3) bekezdésében az „állam- vagy szolgálati titokká nyilvánította” szövegrész helyébe a „minősítette” szöveg lép.
+
+(5) Az Obtv. 27/H. § (4) bekezdésében az „az államtitok és szolgálati titok” szövegrész helyébe az „a minősített adat” szöveg, 27/H. § (5) bekezdésében az „Az államtitkot vagy szolgálati titkot” szövegrész helyébe az „A minősített adatot” szöveg, az Obtv. melléklete I. pont 8. alpontjában az „államtitoknak” szövegrész helyébe a „ „Szigorúan titkos!” minősítésű adatnak” , a VI. pont 1. alpontjában az „állam- vagy szolgálati titokként” szövegrész helyébe a „minősített adatként” szöveg lép.
+
+(6) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) bekezdés c) pontjában a „szolgálati titoksértés” szövegrész helyébe a „visszaélés minősített adattal” szöveg, 93/A. § (2) és (3) bekezdésében az „az államtitoknak és szolgálati titoknak” szövegrész helyébe az „a minősített adatnak” szöveg lép.
+
+(7) Az Nbtv. 5. § m) pontjában és 7. § m) pontjában az „iparbiztonsági ellenőrzéseket” szövegrész helyébe a „gazdálkodó szervezetek cégellenőrzését” szöveg, 7. § k) pontjában az „az államtitoksértés” szövegrész helyébe az „a visszaélés szigorúan titkos és titkos minősítésű adattal” szöveg, a „légi jármű” szövegrész helyébe a „légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű” szöveg, 18. § (2) bekezdésében az „állam- és szolgálati titkot” szövegrész helyébe a „minősített adatot” szöveg, 24. §-ában valamennyi előfordulásakor az „állam- és szolgálati titok” szövegrész helyébe a „minősített adat” szöveg, 48. § (3) bekezdésében a „szolgálati titokká minősített” szövegrész helyébe a „minősített” szöveg, az „az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 11. § (3) bekezdésben” szövegrész helyébe az „a minősített adat védelméről szóló törvényben” szöveg, 51. § (1) bekezdésében az „az állam- és szolgálati titkot tartalmazó” szövegrész helyébe az „a minősített” szöveg, 60. § (2) bekezdés második mondatában az „az állam- és szolgálati titkot tartalmazó iratok megsemmisítési rendjére vonatkozó törvényi” szövegrész helyébe az „a minősített adatok megsemmisítésére vonatkozó jogszabályi” szöveg, 73. §-ában a „foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény IV. Fejezete 23. §-ának (2) bekezdése” szövegrész helyébe a „Munka Törvénykönyvének a csoportos létszámcsökkentésre” szöveg lép.
+
+(8) A rádiózásról és televíziózásról szóló 1996. évi I. törvény 36. § (1) bekezdésében az „államtitkot, szolgálati” szövegrész helyébe a „minősített adatot” szöveg lép.
+
+(9) A bíróságok szervezetéről és igazgatásáról szóló 1997. évi LXVI. törvény 52. § (2) bekezdésében az „az államtitkot és a szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg lép.
+
+(10) A bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény 13. § (1) bekezdésében az „az állami és a szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg, 27. §-ában az „az állami és szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg lép.
+
+(11) A honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 113. § (1) bekezdésében az „állam- és szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg lép.
+
+(12) Hatályát veszti
+
+- a) az Avtv. 25. § (1) bekezdés utolsó mondata,
+- b) az Nbtv. 30. § (4) bekezdés második mondata, 42. § (1) bekezdése, 52. § (2) és (3) bekezdése, 64. § (4) bekezdésében az „1992. évi XXXVIII.” szövegrész, 72. § (5) bekezdése, 77. § (1) bekezdés a) pontja, 90. §-a, a 3. számú mellékletében szereplő „A”, „B”, „C” típusú biztonsági kérdőíveken a „Szigorúan titkos! Különösen fontos! (kitöltés után)” jelölés,
+- c) az Észak-atlanti Szerződés Szervezete Biztonsági Beruházási Programjában való részvételhez szükséges törvénymódosításokról szóló 2000. évi XXXVI. törvény 3. §-a.
 
 ### 1. számú melléklet a 2009. évi CLV. törvényhez
 
 #### A minősítési szint meghatározásához szükséges kármérték
 
-- 1. Rendkívül súlyos kárnak minősül és „Szigorúan titkos!” minősítési szint alkalmazása indokolt, ha az adat érvényességi időn belüli nyilvánosságra hozatala, jogosulatlan megszerzése, módosítása vagy felhasználása, illetéktelen személy részére hozzáférhetővé, valamint az arra jogosult részére hozzáférhetetlenné tétele közvetlenül és tartósan sérti vagy veszélyezteti Magyarország szuverenitását, területi integritását, törvényes rendjét, belső stabilitását. Visszafordíthatatlanul jelentős károkat okoz az ország honvédelmi, nemzetbiztonsági, bűnüldözési, igazságszolgáltatási, központi pénzügyi és gazdasági érdekeiben, külügyi és nemzetközi kapcsolataiban, a szövetséges tagállamokkal közös biztonsági érdekeiben. Rendkívül súlyosnak minősülhet a kár akkor is, ha annak elkerülhetetlen enyhítése nagyszámú emberi élet közvetlen veszélyeztetésével, vagy az ország gazdasági helyzetének egészére hátrányosan kiható ellenintézkedésekkel érhető el. Rendkívül súlyos a kár többek között, ha tartósan gyengíti az ország honvédelmi képességeit, különösen a hadműveleti tervek és fegyverrendszerek hatékonyságát, jelentősen gyengíti az ország hírszerző és elhárító képességeinek folyamatos hatékonyságát, felfedi a nemzeti rejtjeltevékenység titkosítási rendszereit, nagyszámú embert érintő közvetlen életveszéllyel jár, jelentősen veszélyezteti a nemzetközi biztonságot, előmozdítja a nukleáris, vegyi és biológiai fegyverek elterjedését, lényegesen veszélyezteti a nukleáris és vegyi létesítmények biztonsági rendszereit.
-- 2. Súlyos kárnak minősül és „Titkos!” minősítési szint alkalmazása indokolt, ha az adat érvényességi időn belüli nyilvánosságra hozatala, jogosulatlan megszerzése, módosítása vagy felhasználása, illetéktelen személy részére hozzáférhetővé, valamint az arra jogosult részére hozzáférhetetlenné tétele által az 1. pontban okozott sérelem nem küszöbölhető ki, de enyhíthető, továbbá, ha ellehetetleníti vagy lényegesen akadályozza az állami vagy közfeladatot ellátó szerv rendeltetésszerű működését és ezáltal közvetlenül Magyarország törvényben meghatározott érdekeit sérti, az állampolgárok biztonságának és alkotmányos jogainak komoly sérelmével jár, közvetlen életveszélyt okoz, jelentősen hátráltatja a honvédelmi és nemzetbiztonsági tevékenység folyamatos hatékonyságát, feszültséget okoz Magyarország más országokkal fennálló kapcsolataiban, a szövetséges tagállamokkal közös biztonsági érdekeiben, Magyarország pénzügyi és gazdasági érdekeinek sérelmével számottevő vagyoni kárt okoz.
-- 3. Kárnak minősül és „Bizalmas!” minősítési szint alkalmazása indokolt, ha az adat érvényességi időn belüli nyilvánosságra hozatala, jogosulatlan megszerzése, módosítása vagy felhasználása, illetéktelen személy részére hozzáférhetővé, valamint az arra jogosult részére hozzáférhetetlenné tétele okozta érdeksérelem vagy veszélyeztetés ellenintézkedésekkel lényegesen enyhíthető, és az nem jár jelentős anyagi, pénzügyi ráfordításokkal. Továbbá, ha az állam érdekérvényesítő képességeit hátráltatja, vagy jelentősen zavarja, a diplomáciai kapcsolatok tényleges sérelmét eredményezi, aminek következménye hivatalos tiltakozás vagy enyhébb szankció lehet, sérti az állampolgárok biztonságát és alkotmányos jogait, jelentősen sérti a nemzetgazdasági szempontból kiemelt jelentőségű gazdasági szervezet működését, hátráltatja a honvédelem és a nemzetbiztonsági tevékenység, illetve a szövetséges tagállamokkal közös biztonsági érdekek védelmének hatékonyságát, gátolja valamely legalább öt évi szabadságvesztéssel büntetendő bűncselekmény felderítését vagy elősegíti valamely ilyen bűncselekmény elkövetését, megzavarja az állami vagy közfeladatot ellátó szerv működési rendjét, feladat- és hatáskörének gyakorlását és ezáltal közvetve Magyarország törvényben meghatározott érdekeit sérti.
-- 4. Hátrányosan érinti az állam érdekeit és „Korlátozott terjesztésű!” minősítési szint alkalmazása indokolt, ha az adat érvényességi időn belüli nyilvánosságra hozatala, jogosulatlan megszerzése, módosítása vagy felhasználása, illetéktelen személy részére hozzáférhetővé, valamint az arra jogosult részére hozzáférhetetlenné tétele megzavarja az állami vagy közfeladatot ellátó szerv működési rendjét, feladat- és hatáskörének gyakorlását és ezáltal közvetve Magyarország törvényben meghatározott érdekeit hátrányosan érinti, a hátrány azonban az elhárítására tett intézkedésekkel lényegesen enyhíthető vagy kiküszöbölhető. Az államnak az 1–3. pontba nem tartozó pénzügyi veszteséget okoz, továbbá, ha az állampolgárok vagy a gazdálkodó szervezetek részére jogtalan nyereséget vagy előnyszerzést tesz lehetővé.
+- 1. Rendkívül súlyos kárnak minősül és „Szigorúan titkos!” minősítési szint alkalmazása indokolt, ha az adat érvényességi időn belüli nyilvánosságra hozatala, jogosulatlan megszerzése, módosítása vagy felhasználása, illetéktelen személy részére hozzáférhetővé, valamint az arra jogosult részére hozzáférhetetlenné tétele közvetlenül és tartósan sérti vagy veszélyezteti a Magyar Köztársaság szuverenitását, területi integritását, alkotmányos rendjét, belső stabilitását. Visszafordíthatatlanul jelentős károkat okoz az ország honvédelmi, nemzetbiztonsági, bűnüldözési, igazságszolgáltatási, központi pénzügyi és gazdasági érdekeiben, külügyi és nemzetközi kapcsolataiban, a szövetséges tagállamokkal közös biztonsági érdekeiben. Rendkívül súlyosnak minősülhet a kár akkor is, ha annak elkerülhetetlen enyhítése nagyszámú emberi élet közvetlen veszélyeztetésével, vagy az ország gazdasági helyzetének egészére hátrányosan kiható ellenintézkedésekkel érhető el. Rendkívül súlyos a kár többek között, ha tartósan gyengíti az ország honvédelmi képességeit, különösen a hadműveleti tervek és fegyverrendszerek hatékonyságát, jelentősen gyengíti az ország hírszerző és elhárító képességeinek folyamatos hatékonyságát, felfedi a nemzeti rejtjeltevékenység titkosítási rendszereit, nagyszámú embert érintő közvetlen életveszéllyel jár, jelentősen veszélyezteti a nemzetközi biztonságot, előmozdítja a nukleáris, vegyi és biológiai fegyverek elterjedését, lényegesen veszélyezteti a nukleáris és vegyi létesítmények biztonsági rendszereit.
+- 2. Súlyos kárnak minősül és „Titkos!” minősítési szint alkalmazása indokolt, ha az adat érvényességi időn belüli nyilvánosságra hozatala, jogosulatlan megszerzése, módosítása vagy felhasználása, illetéktelen személy részére hozzáférhetővé, valamint az arra jogosult részére hozzáférhetetlenné tétele által az 1. pontban okozott sérelem nem küszöbölhető ki, de enyhíthető, továbbá, ha ellehetetleníti vagy lényegesen akadályozza az állami vagy közfeladatot ellátó szerv rendeltetésszerű működését és ezáltal közvetlenül a Magyar Köztársaság törvényben meghatározott érdekeit sérti, az állampolgárok biztonságának és alkotmányos jogainak komoly sérelmével jár, közvetlen életveszélyt okoz, jelentősen hátráltatja a honvédelmi és nemzetbiztonsági tevékenység folyamatos hatékonyságát, feszültséget okoz a Magyar Köztársaság más országokkal fennálló kapcsolataiban, a szövetséges tagállamokkal közös biztonsági érdekeiben, a Magyar Köztársaság pénzügyi és gazdasági érdekeinek sérelmével számottevő vagyoni kárt okoz.
+- 3. Kárnak minősül és „Bizalmas!” minősítési szint alkalmazása indokolt, ha az adat érvényességi időn belüli nyilvánosságra hozatala, jogosulatlan megszerzése, módosítása vagy felhasználása, illetéktelen személy részére hozzáférhetővé, valamint az arra jogosult részére hozzáférhetetlenné tétele okozta érdeksérelem vagy veszélyeztetés ellenintézkedésekkel lényegesen enyhíthető, és az nem jár jelentős anyagi, pénzügyi ráfordításokkal. Továbbá, ha az állam érdekérvényesítő képességeit hátráltatja, vagy jelentősen zavarja, a diplomáciai kapcsolatok tényleges sérelmét eredményezi, aminek következménye hivatalos tiltakozás vagy enyhébb szankció lehet, sérti az állampolgárok biztonságát és alkotmányos jogait, jelentősen sérti a nemzetgazdasági szempontból kiemelt jelentőségű gazdasági szervezet működését, hátráltatja a honvédelem és a nemzetbiztonsági tevékenység, illetve a szövetséges tagállamokkal közös biztonsági érdekek védelmének hatékonyságát, gátolja valamely legalább öt évi szabadságvesztéssel büntetendő bűncselekmény felderítését vagy elősegíti valamely ilyen bűncselekmény elkövetését, megzavarja az állami vagy közfeladatot ellátó szerv működési rendjét, feladat- és hatáskörének gyakorlását és ezáltal közvetve a Magyar Köztársaság törvényben meghatározott érdekeit sérti.
+- 4. Hátrányosan érinti az állam érdekeit és „Korlátozott terjesztésű!” minősítési szint alkalmazása indokolt, ha az adat érvényességi időn belüli nyilvánosságra hozatala, jogosulatlan megszerzése, módosítása vagy felhasználása, illetéktelen személy részére hozzáférhetővé, valamint az arra jogosult részére hozzáférhetetlenné tétele megzavarja az állami vagy közfeladatot ellátó szerv működési rendjét, feladat- és hatáskörének gyakorlását és ezáltal közvetve a Magyar Köztársaság törvényben meghatározott érdekeit hátrányosan érinti, a hátrány azonban az elhárítására tett intézkedésekkel lényegesen enyhíthető vagy kiküszöbölhető. Az államnak az 1–3. pontba nem tartozó pénzügyi veszteséget okoz, továbbá, ha az állampolgárok vagy a gazdálkodó szervezetek részére jogtalan nyereséget vagy előnyszerzést tesz lehetővé.
 
 ### 2. számú melléklet a 2009. évi CLV. törvényhez
 
-#### A NATO, a NYEU és az EU és az ESA által használt minősítési szint és annak nemzeti minősítési szintű megfelelője
+#### A NATO, a NYEU és az EU által használt minősítési szint és annak nemzeti minősítési szintű megfelelője
 
 - 1. A NATO által használt minősítési szint és annak nemzeti minősítési szintű megfelelője:
-  - a) COSMIC TOP SECRET – „Szigorúan titkos!”;
-  - b) NATO SECRET – „Titkos!”;
-  - c) NATO CONFIDENTIAL – „Bizalmas!”;
-  - d) NATO RESTRICTED – „Korlátozott terjesztésű!”.
+  - a) „COSMIC TOP SECRET” – „Szigorúan titkos!”;
+  - b) „NATO SECRET” – „Titkos!”;
+  - c) „NATO CONFIDENTIAL” – „Bizalmas!”;
+  - d) „NATO RESTRICTED” – „Korlátozott terjesztésű!”.
 - 2. A NYEU által használt minősítési szint és annak nemzeti minősítési szintű megfelelője:
-  - a) FOCAL TOP SECRET – „Szigorúan titkos!”;
-  - b) WEU SECRET – „Titkos!”;
-  - c) WEU CONFIDENTIAL – „Bizalmas!”;
-  - d) WEU RESTRICTED – „Korlátozott terjesztésű!”.
+  - a) „FOCAL TOP SECRET” – „Szigorúan titkos!”;
+  - b) „WEU SECRET” – „Titkos!”;
+  - c) „WEU CONFIDENTIAL” – „Bizalmas!”;
+  - d) „WEU RESTRICTED” – „Korlátozott terjesztésű!”.
 - 3. Az Európai Unió Tanácsa által alkalmazott minősítési szint és annak nemzeti minősítési szintű megfelelője:
-  - a) TRES SECRET UE/EU TOP SECRET – „Szigorúan titkos!”;
-  - b) SECRET UE/EU SECRET – „Titkos!”;
-  - c) CONFIDENTIEL UE/EU CONFIDENTIAL – „Bizalmas!”;
-  - d) RESTREINT UE/EU RESTRICTED – „Korlátozott terjesztésű!”.
+  - a) „TRES SECRET UE/EU TOP SECRET” – „Szigorúan titkos!”;
+  - b) „SECRET UE” – „Titkos!”;
+  - c) „CONFIDENTIEL UE” – „Bizalmas!”;
+  - d) „RESTREINT UE” – „Korlátozott terjesztésű!”.
 - 4. Az Európai Bizottság által alkalmazott minősítési szint és annak nemzeti minősítési szintű megfelelője:
-  - a) TRES SECRET UE/EU TOP SECRET – „Szigorúan titkos!”;
-  - b) SECRET UE/EU SECRET– „Titkos!”;
-  - c) CONFIDENTIEL UE/EU CONFIDENTIAL – „Bizalmas!”;
-  - d) RESTREINT UE/EU RESTRICTED – „Korlátozott terjesztésű!”.
+  - a) „TRES SECRET UE/EU TOP SECRET” – „Szigorúan titkos!”;
+  - b) „SECRET UE” – „Titkos!”;
+  - c) „CONFIDENTIEL UE” – „Bizalmas!”;
+  - d) „RESTREINT UE” – „Korlátozott terjesztésű!”.
 - 5. Az EURATOM által alkalmazott minősítési szint és annak nemzeti minősítési szintű megfelelője:
-  - a) EURA-TOP SECRET – „Szigorúan titkos!”;
-  - b) EURA-SECRET – „Titkos!”;
-  - c) EURA-CONFIDENTIAL – „Bizalmas!”;
-  - d) EURA-RESTRICTED – „Korlátozott terjesztésű!”.
+  - a) „EURA-TOP SECRET” – „Szigorúan titkos!”;
+  - b) „EURA-SECRET” – „Titkos!”;
+  - c) „EURA-CONFIDENTIAL” – „Bizalmas!”;
+  - d) „EURA-RESTRICTED” – „Korlátozott terjesztésű!”.
 - 6. Az EUROPOL által alkalmazott minősítési szint és annak nemzeti minősítési szintű megfelelője:
-  - a) TRES SECRET UE/EU TOP SECRET – „Szigorúan titkos!”;
-  - b) SECRET UE/EU SECRET – „Titkos!”;
-  - c) CONFIDENTIEL UE/EU CONFIDENTIAL – „Bizalmas!”;
-  - d) RESTREINT UE/EU RESTRICTED – „Korlátozott terjesztésű!”.
+  - a) „EUROPOL TOP SECRET” – „Szigorúan titkos!”;
+  - b) „EUROPOL SECRET” – „Titkos!”;
+  - c) „EUROPOL CONFIDENTIAL” – „Bizalmas!”;
+  - d) „EUROPOL RESTRICTED” – „Korlátozott terjesztésű!”.
 - 7. AZ EUROJUST által alkalmazott minősítési szint és annak nemzeti minősítési szintű megfelelője:
-  - a) EUROJUST TOP SECRET – „Szigorúan titkos!”;
-  - b) EUROJUST SECRET – „Titkos!”;
-  - c) EUROJUST CONFIDENTIAL – „Bizalmas!”;
-  - d) EUROJUST RESTRICTED – „Korlátozott terjesztésű!”.
-- 8. Az ESA által alkalmazott minősítési szint és annak nemzeti minősítési szintű megfelelője:
-  - a) ESA TOP SECRET – „Szigorúan titkos!”;
-  - b) ESA SECRET – „Titkos!”;
-  - c) ESA CONFIDENTIAL – „Bizalmas!”;
-  - d) ESA RESTRICTED – „Korlátozott terjesztésű!”.
+  - a) „EUROJUST TOP SECRET” – „Szigorúan titkos!”;
+  - b) „EUROJUST SECRET” – „Titkos!”;
+  - c) „EUROJUST CONFIDENTIAL” – „Bizalmas!”;
+  - d) „EUROJUST RESTRICTED” – „Korlátozott terjesztésű!”.

@@ -548,7 +548,7 @@ kell közzétenni.
 
 ### 4. CÍM — A Testület tagjainak kötelezettségei
 
-36. § (1) A Testület tagja a feladata ellátása során tudomására jutott államtitkot, szolgálati és üzleti titkot köteles megőrizni.
+36. § (1) A Testület tagja a feladata ellátása során tudomására jutott minősített adatot és üzleti titkot köteles megőrizni.
 
 (2) A Testület tagja hivatalba lépése alkalmával az Országgyűlés elnöke előtt a törvény melléklete szerinti szövegű esküt tesz.
 

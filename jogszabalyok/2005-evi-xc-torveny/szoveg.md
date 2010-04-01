@@ -222,7 +222,7 @@ történő közzétételéről.
 
 (4) Egy részében vagy egészében zárt tárgyalás alapján hozott határozatnak a gyűjteményből való törlését vagy a közzététel mellőzését polgári eljárásban a fél, büntetőeljárásban a sértett kérheti. A kérelmet az érintett legkésőbb a határozat közzétételét követő egy évig az Országos Igazságszolgáltatási Tanács Hivatalának vezetőjéhez terjesztheti elő, aki haladéktalanul, de legkésőbb a kérelem kézhezvételétől számított öt munkanapon belül gondoskodik a kérelem teljesítéséről.
 
-(5) Az állam- és a szolgálati titok védelmét a bírósági határozatok közzétételekor is biztosítani kell.
+(5) A minősített adat védelmét a bírósági határozatok közzétételekor is biztosítani kell.
 
 (6) A határozat szövegében az e §-ban meghatározottakon túl további szerkesztés nem végezhető.
 
@@ -235,8 +235,6 @@ történő közzétételéről.
 (2) A határozatot hozó bíróság a közzététellel egyidejűleg megjelöli azokat a jogszabályhelyeket, amelyek alapján a bíróság a határozatot hozta.
 
 (3) A működtető biztosítja, hogy a gyűjteményben a határozatok szövegére és a megjelölt jogszabályhelyekre keresni lehessen.
-
-[20/A. § Az e törvényben megjelölt bírósági határozatoknak a gyűjteményben történő közzétételén túl – külön törvényben meghatározottak szerint – a bíróság közzéteszi a Pp. XXVI. fejezete szerinti vállalkozások egymás közötti pereiben meghozott jogerős ítélet rendelkező részét, illetve a pert befejező egyéb jogerős határozat rendelkező részét.]
 
 ## ÖTÖDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 

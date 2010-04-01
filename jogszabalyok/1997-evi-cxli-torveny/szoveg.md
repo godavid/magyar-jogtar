@@ -309,6 +309,8 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 (5) Az ingatlan adataiban hatósági határozattal, továbbá a település igazgatási, belterületi határának módosításával kapcsolatban bekövetkezett változásokat az eljáró hatóság jelenti be az ingatlanügyi hatóságnak.
 
+[(6) Az ingatlanügyi hatóság a lakcímre is kiterjedő adatfelhasználás esetén az ingatlan-nyilvántartásba bejegyzett lakcímadatot – az adatfelhasználást megelőzően – összeveti a személyiadat- és lakcímnyilvántartást vezető hatóság nyilvántartásában szereplő adattal. Ha az ingatlan-nyilvántartásba bejegyzett lakcímadat nem egyezik meg a személyiadat- és lakcímnyilvántartásban szereplő adattal, az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartásban szereplő adatot használja fel, és az adatváltozást az ingatlan-nyilvántartáson hivatalból átvezeti.]
+
 27/A. § Az eljárás megindításáról az ingatlanügyi hatóság azt az ügyfelet értesíti, akinek az ingatlan-nyilvántartásba bejegyzett tulajdonjogának törlését, illetve akivel szemben vételi jog bejegyzését kérik. Az értesítést az ingatlanügyi hatóság az ügyfél ingatlan-nyilvántartásba bejegyzett lakcímére, illetve székhelyére kézbesíti.
 
 ### Az adatváltozásátvezetése alapjául szolgáló okiratok
@@ -785,7 +787,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 ### Adatlekérdezés a számítógéppel vezetett ingatlan-nyilvántartásból
 
-77. § (1) A személyi azonosító jel, valamint az államtitkot képező adatok lekérdezésének lehetőségét a 70. § (2) bekezdés a), b) és e) pontjában foglaltak kivételével ki kell zárni.
+77. § (1) A személyi azonosító jel, valamint a minősített adat lekérdezésének lehetőségét a 70. § (2) bekezdés a), b) és e) pontjában foglaltak kivételével ki kell zárni.
 
 (2) A lekérdezés útján történő adatszolgáltatásért a miniszter e törvény felhatalmazása alapján az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 

@@ -38,7 +38,7 @@ a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormán
 
 - a) az önkormányzati választás napján, ha nem választották meg önkormányzati képviselőnek,
 - b) amennyiben önkormányzati képviselőnek megválasztották, akkor a képviselő-testület alakuló ülésén új alpolgármester megválasztásával,
-- c) továbbá az (1) bekezdés b), d–j) pontjaiban foglalt esetekben.
+- c) továbbá az (1) bekezdés b), d–j) pontjaiban foglalt esetekben. [d) ha a képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel megbízását visszavonja.]
 
 (3) A polgármester foglalkoztatási jogviszonya megszűnik:
 
@@ -161,7 +161,7 @@ A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fe
 
 (5) A polgármester tisztségének megszűnése esetén, a tisztség megszűnését követően nyolc munkanapon belül írásba foglaltan átadja munkakörét az új polgármesternek, ennek hiányában az alpolgármesternek, illetve a szervezeti és működési szabályzatban meghatározott személynek. A munkakör-átadási jegyzőkönyvet az előző és az új polgármester, a jegyző, valamint a közigazgatási hivatal vezetője írja alá, a jegyzőkönyv tartalmát a helyi önkormányzatokért felelős miniszter rendeletben határozza meg. A 2. § (5) bekezdése szerinti összeg akkor fizethető ki, ha a munkakör átadása nyolc munkanapon belül megtörtént. A nyolc munkanapon túli átadás esetén a polgármester a kifizetést akkor engedélyezi, ha a mulasztásnak alapos oka volt, s a munkaköri átadás megtörtént. Vita esetén az érintett a munkaügyi bírósághoz fordulhat.
 
-13/A. § (1) Öregségi nyugdíjra jogosult az a polgármester – az egyéb jogosultsági feltételek esetén –, akinek a megbízatása a 2. § (1) bekezdés a) pontja szerint szűnik meg, feltéve, hogy
+13/A. § (1) Öregségi nyugdíjra jogosult az a polgármester – az egyéb jogosultsági feltételek esetén –, akinek a megbízatása a 2. § (1) bekezdés a) vagy c) pontja szerint szűnik meg, feltéve, hogy
 
 - a) folyamatosan legalább három éve polgármesteri tisztséget tölt be, és a tisztségének megszűnését követő harmadik naptári év végéig a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényben (a továbbiakban: Tny.) meghatározott öregségi nyugdíjkorhatárt, illetve a korkedvezménnyel csökkentett, reá irányadó korhatárt eléri,
 - b) két választási ciklus – de legalább hét év – során polgármesteri vagy alpolgármesteri tisztséget tölt be, és a tisztségének megszűnését követő ötödik naptári év végéig az a) pontban meghatározott öregségi nyugdíjkorhatárt, illetve a korkedvezménnyel csökkentett, reá irányadó korhatárt eléri,
@@ -171,7 +171,7 @@ A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fe
 
 (3) Az (1) bekezdés szerinti nyugdíjkorhatár eléréséig a polgármester nyugdíjának megfelelő összeget a központi költségvetés biztosítja.
 
-13/B. § (1) Közszolgálati járadékra jogosult az a foglalkoztatási jogviszonyban álló polgármester, akinek a megbízatása a 2. § (1) bekezdés a) pontja szerint szűnik meg, feltéve, hogy legalább három választási ciklus – de legalább tizenegy év – során foglalkoztatási jogviszonyban polgármesteri vagy foglalkoztatási jogviszonyban alpolgármesteri tisztséget tölt be, és a foglalkoztatási jogviszonyának megszűnését követő tizenkettedik naptári év végéig a Tny.-ben meghatározott öregségi nyugdíjkorhatárt, illetve a korkedvezménnyel csökkentett, reá irányadó korhatárt eléri, s megfelel a Tny. egyéb jogosultsági feltételeinek.
+13/B. § (1) Közszolgálati járadékra jogosult az a foglalkoztatási jogviszonyban álló polgármester, akinek a megbízatása a 2. § (1) bekezdés a) vagy c) pontja szerint szűnik meg, feltéve, hogy legalább három választási ciklus – de legalább tizenegy év – során foglalkoztatási jogviszonyban polgármesteri vagy foglalkoztatási jogviszonyban alpolgármesteri tisztséget tölt be, és a foglalkoztatási jogviszonyának megszűnését követő tizenkettedik naptári év végéig a Tny.-ben meghatározott öregségi nyugdíjkorhatárt, illetve a korkedvezménnyel csökkentett, reá irányadó korhatárt eléri, s megfelel a Tny. egyéb jogosultsági feltételeinek.
 
 (2) A közszolgálati járadék összege:
 

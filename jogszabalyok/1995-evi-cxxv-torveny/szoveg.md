@@ -33,7 +33,7 @@ Az Országgyűlés a Magyar Köztársaság szuverenitásának biztosítása és 
 - e) közreműködik a nemzetközileg ellenőrzött termékek és technológiák jogellenes forgalmának felderítésében és megelőzésében;
 - f) ellátja a kormányzati tevékenység szempontjából fontos, külföldön lévő magyar szervek (intézmények) és létesítmények biztonsági védelmét;
 - g) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve ellenőrzésének feladatait;
-- h) ellátja a rejtjeltevékenység szakirányítását, hatósági engedélyezését, felügyeletét, és rejtjelkulcsot állít elő.
+- h) végzi a minősített adatok védelmére használt rejtjelző eljárások, algoritmusok, valamint az országhatáron kívül rejtjelzésre használt eszközök kriptográfiai bevizsgálását és minősítését, továbbá rejtjelkulcsot állít elő.
 
 5. § A Nemzetbiztonsági Hivatal
 
@@ -46,10 +46,10 @@ Az Országgyűlés a Magyar Köztársaság szuverenitásának biztosítása és 
 - g) végzi a letelepedett jogállást igazoló okmányt kérelmező, továbbá a menekültkénti elismerését kérő, illetőleg a magyar állampolgárságért folyamodó, valamint – az állami szuverenitás és az alkotmányos rend védelméhez kötődően – a vízumkérelmet benyújtott személyek ellenőrzését és az ezzel kapcsolatos feladatokat;
 - h) a nyomozás elrendeléséig végzi az állam elleni bűncselekmények (Btk. X. fejezet), az emberiség elleni bűncselekmények (Btk. XI. fejezet), illetve működési területén a külföldre szökés (Btk. 343. §), a zendülés (Btk. 352. §) és a harckészültség veszélyeztetése (Btk. 363. §) bűncselekmények felderítését;
 - i) felderíti a terrorcselekményt (Btk. 261. §), ha a bejelentés a Nemzetbiztonsági Hivatalhoz érkezett, illetve arról a Nemzetbiztonsági Hivatal szerzett tudomást;)
-- j) információkat szerez a nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak (Btk. 174/B. §), az államtitoksértés (Btk. 221. §), a közveszélyokozás (Btk. 259. §), a nemzetközi jogi kötelezettség megszegése (Btk. 261/A. §), a légi jármű hatalomba kerítése (Btk. 262. §), a közösség elleni izgatás (Btk. 269. §), és a rémhírterjesztés (Btk. 270. §) bűncselekményekre vonatkozóan;
+- j) információkat szerez a nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak (Btk. 174/B. §), a visszaélés szigorúan titkos és titkos minősítésű adattal (Btk. 221. §), a közveszélyokozás (Btk. 259. §), a nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §), a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (Btk. 262. §), a közösség elleni izgatás (Btk. 269. §), a rémhírterjesztés (Btk. 270. §) és a közveszéllyel fenyegetés (Btk. 270/A. §) bűncselekményekre vonatkozóan,
 - k) közreműködik a nemzetközileg ellenőrzött termékek és technológiák jogellenes forgalmának felderítésében, megelőzésében, megakadályozásában és legális forgalmának ellenőrzésében;
 - l) közreműködik a haditechnikai eszközök és szolgáltatások jogellenes forgalmának felderítésében, megelőzésében, megakadályozásában és legális forgalmának ellenőrzésében.
-- m) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe tartozó iparbiztonsági ellenőrzéseket.
+- m) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe tartozó gazdálkodó szervezetek cégellenőrzését.
 
 6. § A Katonai Felderítő Hivatal
 
@@ -74,9 +74,9 @@ Az Országgyűlés a Magyar Köztársaság szuverenitásának biztosítása és 
 - h) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve ellenőrzésének feladatait;
 - i) működési területén a nyomozás elrendeléséig végzi az állam elleni bűncselekmények (Btk. X. fejezet), az emberiség elleni bűncselekmények (Btk. XI. fejezet), a külföldre szökés (Btk. 343. §), a zendülés (Btk. 352. §) és a harckészültség veszélyeztetése (Btk. 363. §) bűncselekmények felderítését;
 - j) működési területén felderíti a terrorcselekményt (Btk. 261. §);)
-- k) működési területén információkat szerez a nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak (Btk. 174/B. §), az államtitoksértés (Btk. 221. §), a közveszélyokozás (Btk. 259. §), a nemzetközi jogi kötelezettség megszegése (Btk. 261/A. §), a légi jármű hatalomba kerítése (Btk. 262. §), a közösség elleni izgatás (Btk. 269. §), a rémhírterjesztés (Btk. 270. §), a közveszéllyel fenyegetés (Btk. 270/A. §), a haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel visszaélés (Btk. 263/B. §) bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekményeket, amelyek veszélyeztetik a honvédelemért felelős miniszter által vezetett minisztérium és a Magyar Honvédség alkotmányos feladatainak végrehajtását;
+- k) működési területén információkat szerez a nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak (Btk. 174/B. §), a visszaélés szigorúan titkos és titkos minősítésű adattal (Btk. 221. §), a közveszélyokozás (Btk. 259. §), a nemzetközi jogi kötelezettség megszegése (Btk. 261/A. §), a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (Btk. 262. §), a közösség elleni izgatás (Btk. 269. §), a rémhírterjesztés (Btk. 270. §), a közveszéllyel fenyegetés (Btk. 270/A. §), a haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel visszaélés (Btk. 263/B. §) bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekményeket, amelyek veszélyeztetik a honvédelemért felelős miniszter által vezetett minisztérium és a Magyar Honvédség alkotmányos feladatainak végrehajtását;
 - l) ellátja a honvédelemért felelős miniszter által vezetett minisztérium szervezeteiben folytatott hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő nemzetbiztonsági feladatokat.
-- m) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe tartozó iparbiztonsági ellenőrzéseket.
+- m) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe tartozó gazdálkodó szervezetek cégellenőrzését.
 
 8. § (1) A Nemzetbiztonsági Szakszolgálat
 
@@ -209,7 +209,7 @@ Az Országgyűlés a Magyar Köztársaság szuverenitásának biztosítása és 
 
 18. § (1) A Bizottság ülései az ellenőrzési jogkör gyakorlása, a Honvédelmi Bizottság ülései a 17. §-ban meghatározott jogkör gyakorlása során zártak.
 
-(2) A Bizottság és a Honvédelmi Bizottság tagjait az e minőségükben birtokukba jutott állam- és szolgálati titkot tartalmazó információk tekintetében titoktartási kötelezettség terheli, amely a bizottsági tagság megszűnését követően is fennáll.
+(2) A Bizottság és a Honvédelmi Bizottság tagjait az e minőségükben birtokukba jutott minősített adatot tartalmazó információk tekintetében titoktartási kötelezettség terheli, amely a bizottsági tagság megszűnését követően is fennáll.
 
 (3) A Bizottság e törvényben szabályozott parlamenti ellenőrzési eljárása nem érint más, jogszabályban meghatározott bírósági vagy egyéb eljárást.
 
@@ -267,7 +267,7 @@ Az Országgyűlés a Magyar Köztársaság szuverenitásának biztosítása és 
 
 (3) A hivatásos szolgálati beosztás közalkalmazotti munkakörré, illetőleg a közalkalmazotti munkakör hivatásos szolgálati beosztássá átminősíthető. Az átminősítettek jogviszonyára a külön törvényben meghatározott rendelkezések vonatkoznak.
 
-24. § A nemzetbiztonsági szolgálatok személyi állományát a nemzetbiztonsági szolgálatokra és azok tevékenységére vonatkozó, tudomásukra jutott állam- és szolgálati titok tekintetében titoktartási kötelezettség terheli, amely magába foglalja az állam- és szolgálati titok megőrzését és védelmét is. A titoktartási kötelezettség alól a miniszter és a nemzetbiztonsági szolgálatok főigazgatói adhatnak felmentést. A nemzetbiztonsági szolgálatok személyi állományát a titoktartási kötelezettség az alkalmazás megszűnése után is terheli.
+24. § A nemzetbiztonsági szolgálatok személyi állományát a nemzetbiztonsági szolgálatokra és azok tevékenységére vonatkozó, tudomásukra jutott minősített adat tekintetében titoktartási kötelezettség terheli, amely magába foglalja az minősített adat megőrzését és védelmét is. A titoktartási kötelezettség alól a miniszter és a nemzetbiztonsági szolgálatok főigazgatói adhatnak felmentést. A nemzetbiztonsági szolgálatok személyi állományát a titoktartási kötelezettség az alkalmazás megszűnése után is terheli.
 
 25. § A nemzetbiztonsági szolgálatok hivatásos állományú tagjainak beosztási illetményük 25%-áig terjedő titkosszolgálati pótlék adható. A pótlékra jogosító beosztásokat – a főigazgató javaslatára – a miniszter határozza meg. E pótlék a szolgálati időpótlék számítása során nem vehető figyelembe.
 
@@ -303,7 +303,7 @@ Az Országgyűlés a Magyar Köztársaság szuverenitásának biztosítása és 
 
 (3) A nemzetbiztonsági szolgálatok nem kezdeményezhetnek munkaviszonyt bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, az Országgyűlési Biztos Hivatalánál, a Köztársasági Elnök Hivatalánál és az Országgyűlés Hivatalánál.
 
-(4) A foglalkoztatás nemzetbiztonsági jellegével kapcsolatos speciális szabályokat – a hatályos jogszabályok keretei között – a nemzetbiztonsági szolgálatok és az érintett szervezet külön megállapodása tartalmazza. A munkaviszony létesítésének nemzetbiztonsági jellege államtitok, kivéve, ha a megállapodást kötő felek eltérően rendelkeznek.
+(4) A foglalkoztatás nemzetbiztonsági jellegével kapcsolatos speciális szabályokat – a hatályos jogszabályok keretei között – a nemzetbiztonsági szolgálatok és az érintett szervezet külön megállapodása tartalmazza.
 
 ### A nemzetbiztonsági szolgálatok által alkalmazható intézkedések
 
@@ -338,7 +338,7 @@ Az Országgyűlés a Magyar Köztársaság szuverenitásának biztosítása és 
 
 - a) az élet elleni vagy a testi épséget súlyosan veszélyeztető támadás, illetve az ezekkel történő közvetlen fenyegetés elhárítására;
 - b) az alkotmányos rend erőszakos megváltoztatása (Btk. 139. §), a rombolás (Btk. 142. §), a kémkedés (Btk. 147. §), a népirtás (Btk. 155. §), a közveszélyokozás (Btk. 259. §), a terrorcselekmény (Btk. 261. §), a légijármű hatalomba kerítése (Btk. 262. §) bűncselekmények elkövetésének megakadályozására vagy megszakítására;
-- c) a nemzetbiztonsági szolgálattal összefüggő államtitoknak személy vagy dolog elleni erőszakkal történő jogosulatlan megszerzése és az erre irányuló kísérlet esetén;
+- c) a nemzetbiztonsági szolgálattal összefüggő „Szigorúan titkos!” minősítési szintű minősített adatnak személy elleni erőszakkal történő jogosulatlan megszerzése és az erre irányuló kísérlet esetén;
 - d) a nemzetbiztonsági szolgálat objektumát ért vagy azt közvetlenül fenyegető támadás elhárítására.
 
 (2) A lőfegyverhasználatot meg kell előznie
@@ -415,7 +415,63 @@ Az Országgyűlés a Magyar Köztársaság szuverenitásának biztosítása és 
 
 (4) Az adatszolgáltatást kérő szervek felelősek az átvett adatoknak az e törvényben, illetve az adatkezelésre vonatkozó jogszabályokban foglaltak szerinti kezeléséért, kötelesek az átvett adatokat, azok felhasználását nyilvántartani és kérésre a nemzetbiztonsági szolgálat számára arról tájékoztatást adni.
 
-45. § A nemzetbiztonsági szolgálatok nemzetközi kötelezettségvállalás alapján külföldi adatkezelő részére személyes adatokat továbbíthatnak a személyes adatok védelmére vonatkozó jogszabályok keretei között.
+45. § [(1)] A nemzetbiztonsági szolgálatok nemzetközi kötelezettségvállalás alapján külföldi adatkezelő részére személyes adatokat továbbíthatnak a személyes adatok védelmére vonatkozó jogszabályok keretei között.
+
+[(2) A Nemzetbiztonsági Hivatal, az Információs Hivatal, valamint a Katonai Biztonsági Hivatal a Vízuminformációs Rendszerhez az e törvény szerinti hatáskörét érintő bűncselekmény megelőzése, felderítése – ideértve az Információs Hivatalnak a 4. § c) pontja szerinti feladatkört is –, illetve e cselekményekkel összefüggő információszerzés céljából, meghatározott egyedi ügyben, betekintés céljából történő hozzáférést kezdeményezhet. A vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat szerinti kezdeményezést a polgári nemzetbiztonsági szolgálatokat irányító miniszterhez, illetve a honvédelemért felelős miniszterhez kell megtenni.
+
+(3) A (2) bekezdés szerinti betekintés céljából történő hozzáférést írásban vagy elektronikus úton abban az esetben lehet kezdeményezni, ha
+
+a) a kezdeményező rendelkezésére álló adatok alapján alaposan feltehető, hogy a betekintés céljából történő hozzáférés útján megismerhető adat nélkül a (2) bekezdésben meghatározott valamely bűncselekmény megelőzése, felderítése vagy az e cselekményekkel összefüggő információszerzés érdemben nem biztosítható;
+
+b) a betekintés céljából történő hozzáférésre a (2) bekezdésben meghatározott bűncselekmények körébe tartozó valamely bűncselekmény megelőzésére, felderítésére vagy az e cselekményekkel összefüggő információszerzésre irányuló egyedi eljárásban van szükség.
+
+(4) A Vízuminformációs Rendszerhez betekintés céljából történő hozzáférésre irányuló, a polgári nemzetbiztonsági szolgálatokat irányító miniszter, illetve a honvédelemért felelős miniszter útján történő adatszolgáltatási kezdeményezésnek a következő adatokat kell tartalmaznia:
+
+a) a (3) bekezdés a) pontjában meghatározott feltétel igazolására vonatkozó adatok,
+
+b) az eljáró hatóság megnevezése, az egyedi ügy ügyiratszáma, a kezdeményezésre jogosult neve és a VIS nemzeti központi hatóság által biztosított azonosító kódja,
+
+c) a kezdeményezés alapjául szolgáló bűncselekmény minősítése, továbbá
+
+d) a kezdeményezéssel igényelt adat megnevezése és minden egyes igényelt adat tekintetében az arra vonatkozó indokolás, hogy fennáll a (3) bekezdés a) pontjában foglalt feltétel.
+
+(5) A kezdeményezésben a lekérdezésre szolgáló alábbi adatok alapján a (4) bekezdés d) pontjában foglaltak szerinti adatok megismeréséhez meg kell jelölni az alábbi adatkörök közül azt, amelyre a betekintés útján való hozzáférés történik:
+
+a) családi név, születéskori családi név (korábbi családi név); utónevek; nem; születési idő, hely és ország,
+
+b) jelenlegi állampolgárság és a születéskori állampolgárság,
+
+c) az úti okmány típusa és száma, a kiállító hatóság, valamint a kiállítás és a lejárat időpontja,
+
+d) fő úti cél és a tartózkodás tervezett időtartama,
+
+e) az utazás célja,
+
+f) az érkezés és az indulás tervezett időpontja,
+
+g) az első belépés szerinti tervezett határ vagy tranzitútvonal,
+
+h) lakóhely,
+
+i) ujjnyomatok,
+
+j) a vízum típusa és a vízumbélyeg száma,
+
+k) a meghívólevelet kibocsátó, illetve a tartózkodás ideje alatt a megélhetési költségeket fedező személy adatai.
+
+(6) A polgári nemzetbiztonsági szolgálatokat irányító miniszter, illetve a honvédelemért felelős miniszter a (2)–(5) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kezdeményezés teljesítését megelőzően vizsgálni köteles.
+
+(7) Kivételesen sürgős esetben a polgári nemzetbiztonsági szolgálatokat irányító miniszter, illetve a honvédelemért felelős miniszter a nemzetbiztonsági szolgálatoknak a betekintés céljából történő hozzáférés kezdeményezésére vonatkozó szóbeli kezdeményezését is teljesítheti. Ebben az esetben a (2)–(5) bekezdésben foglalt feltételek teljesülését és a kezdeményezés indokoltságát a kezdeményezés teljesítését követően, a sürgősség indokoltságával együtt kell vizsgálni.
+
+(8) A kezdeményezés alapján hozzáféréssel a Vízuminformációs Rendszerből nem vehető át és nem továbbítható adat, ha a (2)–(5) bekezdésben meghatározott feltételek nem teljesülnek. Ha a kezdeményezés alapján a 2008/633/IB tanácsi határozat szerinti, kijelölt nemzeti központi hozzáférési pont hozzáféréssel a kezdeményezést teljesíti és a hozzáférés a Vízuminformációs Rendszerben találatot eredményez, a kérelmező nemzetbiztonsági szolgálat részére a kezdeményezésben igényelt adatokon túlmenően továbbíthatók:
+
+a) a vízumkérdőívről származó egyéb adat,
+
+b) a fénykép, és
+
+c) bármely – korábban kiadott, elutasított, megsemmisített, visszavont vagy meghosszabbított – vízummal kapcsolatos adat.
+
+(9) A betekintés céljából történő hozzáférés kezdeményezésére csak az a személy jogosult, akinek a feladatköre alapján a Nemzetbiztonsági Hivatal, az Információs Hivatal vagy a Katonai Biztonsági Hivatal főigazgatója erre felhatalmazást adott, és erről a VIS nemzeti központi hatóságot értesítette. A (4) bekezdés b) pontja szerinti azonosító kódot az értesítést követően a VIS nemzeti központi hatóság bocsátja a kezdeményezésre jogosult személy rendelkezésére. Vissza kell vonni a felhatalmazását annak – és erről a VIS nemzeti központi hatóságot értesíteni kell –, akinek a felhatalmazás alapjául szolgáló feladatköre megszűnt.]
 
 46. § A nemzetbiztonsági szolgálatok a személyes adatok továbbításáról nyilvántartást vezetnek, amely tartalmazza
 
@@ -432,7 +488,7 @@ Az Országgyűlés a Magyar Köztársaság szuverenitásának biztosítása és 
 
 (2) A nemzetbiztonsági szolgálatok az érintettektől érkező kéréseket nyilvántartják, a kérelmekről, elbírálásuk módjáról, az elutasítás indokairól évente tájékoztatják az adatvédelmi biztost.
 
-(3) A nemzetbiztonsági szolgálatok szolgálati titokká minősített adataival kapcsolatban az érintettnek – az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 11. § (3) bekezdésben biztosított – adatbetekintési jogát a főigazgató nemzetbiztonsági érdekből korlátozhatja.
+(3) A nemzetbiztonsági szolgálatok minősített adataival kapcsolatban az érintettnek – a minősített adat védelméről szóló törvényben biztosított – adatbetekintési jogát a főigazgató nemzetbiztonsági érdekből korlátozhatja.
 
 49. § (1) A főigazgatók gondoskodnak az adatokhoz való jogosulatlan hozzáférés, közlés, megváltoztatás, törlés és megsemmisülés megelőzéséről, illetőleg az illetéktelen hozzáférést megakadályozó védelemről (adatbiztonság).
 
@@ -457,7 +513,7 @@ Az Országgyűlés a Magyar Köztársaság szuverenitásának biztosítása és 
 
 (3) A törlési kötelezettség – a (2) bekezdés b)–d) pontjaiban meghatározott esetek kivételével – nem vonatkozik azon személyes adatra, amelynek adathordozóját a levéltári anyagok védelmére vonatkozó jogszabály értelmében levéltári megőrzésre kell átadni.
 
-51. § (1) A miniszter, illetve a főigazgatók hozzájárulásával hozhatók nyilvánosságra – az állam- és szolgálati titkot tartalmazó adatokon túlmenően – a nemzetbiztonsági szolgálatok
+51. § (1) A miniszter, illetve a főigazgatók hozzájárulásával hozhatók nyilvánosságra – a minősített adatokon túlmenően – a nemzetbiztonsági szolgálatok
 
 - a) objektumaival és személyi állományával,
 - b) eszközbeszerzéseivel és egyéb szerződéseivel,
@@ -469,9 +525,7 @@ kapcsolatos adatok.
 
 52. § (1) Az országgyűlési biztos a nemzetbiztonsági szolgálatok tekintetében külön törvényben meghatározottak szerint jár el.
 
-(2) Az adatvédelmi biztost a nemzetbiztonsági szolgálatokat érintő eljárása során az állampolgári jogok országgyűlési biztosának jogosítványai illetik meg.
-
-(3) A (2) bekezdésben foglaltakon túlmenően az adatvédelmi biztos betekinthet a nemzetbiztonsági szolgálatok adatkezelésének szervezetére és működésére vonatkozó belső szabályzatokba és utasításokba.
+(2)–(3)
 
 (4) Az országgyűlési biztos és az adatvédelmi biztos tevékenységét a főigazgatók – e törvény keretei között – kötelesek elősegíteni.
 
@@ -553,7 +607,7 @@ kapcsolatos adatok.
 - c) a határideje meghosszabbítás nélkül lejárt.
 - d) a titkos információgyűjtés bármely okból törvénysértő.
 
-(2) Az 59. § (1) bekezdésében meghatározott kivételes eljárás esetén a titkos információgyűjtést akkor is haladéktalanul meg kell szüntetni, ha a titkos információgyűjtés folytatását az engedélyező nem engedélyezi. Ebben az esetben a titkos információgyűjtés során nyert adatokat – az állam- és szolgálati titkot tartalmazó iratok megsemmisítési rendjére vonatkozó törvényi előírások szerint – haladéktalanul meg kell semmisíteni.
+(2) Az 59. § (1) bekezdésében meghatározott kivételes eljárás esetén a titkos információgyűjtést akkor is haladéktalanul meg kell szüntetni, ha a titkos információgyűjtés folytatását az engedélyező nem engedélyezi. Ebben az esetben a titkos információgyűjtés során nyert adatokat – a minősített adatok megsemmisítésére vonatkozó jogszabályi előírások szerint – haladéktalanul meg kell semmisíteni.
 
 ### A titkos információgyűjtésre vonatkozóegyéb szabályok
 
@@ -570,7 +624,7 @@ kapcsolatos adatok.
 
 (4) A közölt adatok hitelességéért az adatszolgáltató, a felhasználásáért, illetve az erre alapozott intézkedések megtételéért vagy elmulasztásáért a titkos információgyűjtést megrendelő szerv felelős.
 
-62. § A titkos információgyűjtés során beszerzett adatok a büntetőeljárásban bizonyítási eszközként való esetleges felhasználásáig, továbbá a nemzetbiztonsági szolgálattal együttműködő természetes és jogi személyek, valamint a jogi személyiséggel nem rendelkező szervezetek kiléte, az információgyűjtés ténye és technikai részletei államtitoknak minősülnek. Az együttműködő személyek és szervezetek e tevékenységükkel kapcsolatban a miniszter vagy a főigazgatók engedélye nélkül adatokat nem hozhatnak nyilvánosságra.
+62. § A nemzetbiztonsági szolgálattal együttműködő természetes és jogi személyek, valamint a jogi személyiséggel nem rendelkező szervezetek e tevékenységükkel kapcsolatban a miniszter vagy a főigazgató engedélye nélkül adatokat nem hozhatnak nyilvánosságra.
 
 ### A titkos információgyűjtéssel kapcsolatos sajátos gazdálkodási szabályok
 
@@ -588,7 +642,7 @@ kapcsolatos adatok.
 
 (3) Ha a fedőintézmény megszűnik, vagyona a nemzetbiztonsági szolgálatokat illeti.
 
-(4) Az államháztartásról szóló 1992. évi XXXVIII. törvény rendelkezései a fedővállalkozásra nem vonatkoznak.
+(4) Az államháztartásról szóló törvény rendelkezései a fedővállalkozásra nem vonatkoznak.
 
 65. § A nemzetbiztonsági szolgálatok a 63. § (2) bekezdésében meghatározott körben külön korlátozás nélkül valutát kezelhetnek.
 
@@ -610,14 +664,20 @@ kapcsolatos adatok.
 
 (3) A fontos és bizalmas munkakört betöltő személyek körét a 2. számú melléklet tartalmazza.
 
-(4) A fontos és bizalmas munkakörbe jelölt személyekre vonatkozó szabályok szerint kijelölésük, illetve megbizatásuk előtt egyszeri biztonsági ellenőrzést kell kezdeményezni az alábbi személyek tekintetében:
+(4) A fontos és bizalmas munkakörbe jelölt, illetve ilyen munkakört betöltő személyekre vonatkozó szabályok szerint – az (5) bekezdésben foglaltak kivételével – kijelölésük, megbízásuk előtt, valamint e megbízásuk, munkakörük betöltése alatt legalább ötévenként ellenőrzést kell kezdeményezni
 
-- a) a titkos információgyűjtést engedélyező bíró,
+- a) az e törvény szerinti titkos információgyűjtést engedélyező bíró, valamint a minősített adat védelméről szóló törvényben meghatározott peres eljárásban eljáró bíró,
 - b) valamennyi miniszter,
 - c) a Bizottság és a Honvédelmi Bizottság tagja, illetve e két bizottság eljárásában közreműködő szakértő,
-- d) az 55. §-ban meghatározott kijelölt ügyész,
-- e) az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény szerinti titokbirtokos szervvel közreműködő olyan személy, akinek feladata ellátásához államtitkot vagy nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő, az 1995. évi LXV. törvény 5/B. § (2)–(6) bekezdésében szereplő, illetve az 5/B. § (7) bekezdése szerinti nemzetközi szerződést kihirdető törvényben meghatározott külföldi minősítéssel és jelöléssel ellátott adatot szükséges megismernie,
-- f) a Független Rendészeti Panasztestület tagjai.
+- d) amennyiben feladata ellátásához „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia, az Országgyűlés által létrehozott vizsgálóbizottság, eseti bizottság tagja, valamint a bizottság eljárásában közreműködő szakértő,
+- e) az 55. §-ban meghatározott kijelölt ügyész,
+- f) amennyiben feladata ellátásához „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia, a minősített adat védelméről szóló törvény szerinti minősített adatot kezelő szervvel közreműködő, illetve gazdálkodó szervezetnél minősített adatot felhasználó személy,
+- g) ha megfelelő szintű ellenőrzését még nem folytatták le, vagy érvényes ellenőrzéssel nem rendelkezik, állami vagy közfeladat ellátásához szükséges „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adat felhasználására jogosult személy,
+- h) a Független Rendészeti Panasztestület tagjai tekintetében.
+
+(5) A (4) bekezdés g) pontja szerinti ellenőrzést nem kell kezdeményezni a minősített adat védelméről szóló törvény 13. §-ának (3)–(4) bekezdésében, valamint a 14. § (2) bekezdésében szereplő személyek, továbbá – a (4) bekezdés c), d) és h) pontjában meghatározottak kivételével – az országgyűlési képviselő, az Európai Parlament Magyarországon megválasztott képviselője és az önkormányzati képviselő tekintetében.
+
+(6) Amennyiben a fontos és bizalmas munkakörbe jelölt, vagy ilyen munkakört betöltő, továbbá a (4) bekezdésben meghatározott személyek tekintetében öt éven belül biztonsági kockázati tényezőt nem tartalmazó – az új kinevezéshez, kijelöléshez vagy megbízáshoz, illetve a közreműködéshez szükséges ellenőrzéssel legalább azonos szintű – biztonsági szakvélemény került kibocsátásra, a kezdeményezésre jogosult mérlegelési jogkörében dönt az érintett személy ellenőrzésének kezdeményezéséről.
 
 69. § (1) A köztársasági elnök kezdeményezi az ellenőrzést
 
@@ -629,7 +689,7 @@ tekintetében.
 
 (2) Az Országgyűlés elnöke kezdeményezi az ellenőrzést
 
-- a) az Országgyűlés Nemzetbiztonsági Bizottságába és Honvédelmi Bizottságába jelölt képviselők,
+- a) az Országgyűlés Nemzetbiztonsági Bizottságába és Honvédelmi Bizottságába, illetve – ha a feladata ellátásához „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia – az Országgyűlés által létrehozott vizsgálóbizottságba, eseti bizottságba jelölt személy,
 - b) az Országgyűlés Hivatalának vezető beosztású munkatársai
 - c) a Független Rendészeti Panasztestület tagjai
 
@@ -653,7 +713,8 @@ tekintetében.
 - e) az irányításuk alá tartozó rendvédelmi szervek országos parancsnokai és helyettesei, valamint a tábornokok és a tábornoki rendfokozattal rendszeresített beosztásokba kinevezettek,
 - f) az állami vagy többségi állami tulajdonban lévő gazdálkodó szervezetek vezetői,
 - g) a többségi állami tulajdonban lévő bankok, szakosított pénzintézetek és biztosítóintézetek vezető beosztású munkatársai,
-- h) az általa – a 2. számú melléklet 18. pontja alapján – meghatározott munkakört betöltő személyek
+- h) az általa – a 2. számú melléklet 18. pontja alapján – meghatározott munkakört betöltő személyek,
+- i) az irányítása vagy felügyelete alatt álló minősített adatot kezelő szerv vezetője
 
 tekintetében.
 
@@ -672,15 +733,15 @@ tekintetében.
 
 (9) A nemzetbiztonsági szolgálatok főigazgatói kezdeményezik az ellenőrzést a nemzetbiztonsági szolgálatok munkatársai tekintetében.
 
-(10) A Fővárosi Bíróság elnöke kezdeményezi az ellenőrzést a titkos információgyűjtést engedélyező bírói tisztségre jelölt személyek tekintetében.
+(10) A Fővárosi Bíróság elnöke kezdeményezi az ellenőrzést a titkos információgyűjtést engedélyező bíró, valamint a minősített adat védelméről szóló törvényben meghatározott peres eljárásban eljáró bíró tekintetében.
 
-(11) A Nemzetbiztonsági Bizottság elnöke kezdeményezi az ellenőrzést a Bizottság eljárása során szakértőnek jelölt személyek tekintetében. A Honvédelmi Bizottság elnöke kezdeményezi az ellenőrzést a Honvédelmi Bizottság eljárása során szakértőnek jelölt személyek tekintetében.
+(11) Az országgyűlési bizottság elnöke kezdeményezi az ellenőrzést a bizottság eljárásában közreműködő szakértő tekintetében, amennyiben feladata ellátásához „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia.
 
-(12) A legfőbb ügyész kezdeményezi az ellenőrzést az általa az 55. § alapján kijelölt ügyész tekintetében.
+(12) A legfőbb ügyész kezdeményezi az ellenőrzést az 55. § alapján kijelölt ügyész tekintetében.
 
-(13) A titokbirtokos szerv vezetője kezdeményezi az ellenőrzést a 68. § (4) bekezdésének e) pontjában és a 2. számú melléklet 19. pontjában meghatározott személyek tekintetében.
+(13) A minősített adatot kezelő szerv vezetője kezdeményezi az ellenőrzést a 68. § (4) bekezdésének f) és g) pontjában, valamint a 2. számú melléklet 19. pontjában meghatározott személyek tekintetében.
 
-(14) A Nemzeti Biztonsági Felügyelet elnöke kezdeményezi az ellenőrzést olyan személyek tekintetében, akiknek feladataik ellátásához nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő adatokat szükséges megismerniük, ha az (1)–(13) bekezdés alapján nem állapítható meg az ellenőrzés kezdeményezésére jogosult személy.
+(14) A Nemzeti Biztonsági Felügyelet vezetője kezdeményezi az ellenőrzést olyan személyek tekintetében, akiknek feladataik ellátásához minősített adatot szükséges felhasználniuk, ha az (1)–(13) bekezdés alapján nem állapítható meg az ellenőrzés kezdeményezésére jogosult személy.
 
 70. § (1) A fontos és bizalmas munkakörbe történő kinevezés előtt kezdeményezni kell a jelölt személy ellenőrzését.
 
@@ -696,22 +757,23 @@ tekintetében.
 
 71. § (1) Az érintett személy az ellenőrzés kezdeményezését megelőzően – a jogosult, illetve az általa kijelölt személy kérésére – a 3. számú mellékletben meghatározott biztonsági kérdőívet tölt ki.
 
-(2) A 2. számú melléklet 1–17. pontjaiban, valamint a 68. § (4) bekezdés a)–d) pontjaiban felsorolt személyek a 3. számú mellékletben meghatározott, ,,C'' típusú kérdőívet töltik ki. A 68. § (4) bekezdésének e) pontjában meghatározott személyek a megismerendő adat minősítésétől, illetve jelölésétől függően az alábbi típusú kérdőívet töltik ki:
+(2) A 2. számú melléklet 1–17. pontjaiban, valamint a 68. § (4) bekezdés a)–c), e), h) pontjaiban felsorolt személyek a 3. számú mellékletben meghatározott, „C” típusú kérdőívet töltik ki.
 
-- a) az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 3. § (1) bekezdésének hatálya alá tartozó adatok esetében: 1. az állampolgári jogok országgyűlési biztosáról szóló 1993. évi LIX. törvény mellékletében felsorolt iratokban foglalt adatot megismerő személyek ,,C'' típusú kérdőívet; 2. államtitkot tartalmazó adatot megismerő személyek ,,B'' típusú kérdőívet.
-- b) nemzetközi szerződés alapján átvett vagy nemzetközi kötelezettségvállalás alapján készült minősített, valamint korlátozottan megismerhető adatok esetében: 1. törvényben vagy nemzetközi szerződésben a szigorúan titkos minősítésnek megfeleltetett minősítésű adatot megismerő személyek ,,C'' típusú kérdőívet; 2. törvényben vagy nemzetközi szerződésben a titkos minősítésnek megfeleltetett minősítésű adatot megismerő személyek ,,B'' típusú kérdőívet; 3. a 2. pontban meghatározott minősítési szintet el nem érő, törvény vagy nemzetközi kötelezettségvállalás alapján védelmet igénylő adatokat megismerő személyek ,,A'' típusú kérdőívet
+(3) A 68. § (4) bekezdésének d), f) és g) pontjában meghatározott személyek a felhasználandó minősített adat minősítési szintjétől függően az alábbi típusú kérdőívet töltik ki:
 
-(3) Az illetékes miniszter vagy a titokbirtokos szerv vezetője a 2. számú melléklet 18., 19. pontja alapján meghatározza azokat a munkaköröket, amelyek tekintetében az érintett személyek a 3. számú mellékletben meghatározott „A”, „B” vagy „C” típusú kérdőívet töltenek ki.
+- a) „Szigorúan titkos!” minősítési szintű vagy törvényben, illetve nemzetközi szerződésben „Szigorúan titkos!” minősítési szintű adatnak megfeleltetett minősített adatot felhasználó személyek „C” típusú kérdőívet;
+- b) „Titkos!” minősítési szintű vagy törvényben, illetve nemzetközi szerződésben „Titkos!” minősítési szintű adatnak megfeleltetett minősített adatot felhasználó személyek „B” típusú kérdőívet;
+- c) „Bizalmas!” minősítési szintű vagy törvényben, illetve nemzetközi szerződésben „Bizalmas!” minősítési szintű adatnak megfeleltetett minősített adatot felhasználó személyek „A” típusú kérdőívet.
 
-A Nemzeti Biztonsági Felügyelet elnöke a 69. § (14) bekezdésében meghatározott személyek tekintetében – a megismerendő adat védelmi szintjének megfelelően – egyedileg dönt a kitöltendő kérdőív típusáról.
+(4) Az illetékes miniszter a 2. számú melléklet 18., illetve a minősített adatot kezelő szerv vezetője a 2. számú melléklet 19. pontja alapján – a (3) bekezdésben meghatározottak figyelembevételével – meghatározza azokat a munkaköröket, amelyek tekintetében az érintett személyek a 3. számú mellékletben meghatározott „A”, „B” vagy „C” típusú kérdőívet töltenek ki. Az illetékes miniszter a 2. számú melléklet 18/A. pontjában, illetve a Nemzeti Biztonsági Felügyelet vezetője a 69. § (14) bekezdésében meghatározott személyek tekintetében – a felhasználandó minősített adat minősítési szintjének megfelelően – egyedileg dönt a kitöltendő kérdőív típusáról.
 
-(4) Ha az „A” vagy „B” típusú kérdőívhez kötődő ellenőrzés során kockázati tényező meglétére utaló adat keletkezik, az ellenőrzést végző nemzetbiztonsági szolgálat javasolhatja a kezdeményezőnek a „B” vagy „C” típusú kérdőív kitöltetését.
+(5) Ha az „A” vagy „B” típusú kérdőívhez kötődő ellenőrzés során kockázati tényező meglétére utaló adat keletkezik, az ellenőrzést végző nemzetbiztonsági szolgálat javasolhatja a kezdeményezőnek a „B” vagy „C” típusú kérdőív kitöltetését.
 
-(5) Az ellenőrzés a kérdőívben megadott adatok valóságának vizsgálatára és értékelésére, valamint egyéb kockázati tényezők felderítésére terjed ki. Az ellenőrzést „A” típusú kérdőív esetén az elrendeléstől számított 30, „B” típusú kérdőív esetén 45, „C” típusú kérdőív esetén 60 napon belül kell lefolytatni. Ez a határidő egy esetben – az érintett személy és a kezdeményező egyidejű tájékoztatása mellett – újabb 30 nappal meghosszabbítható.
+(6) Az ellenőrzés a kérdőívben megadott adatok valóságának vizsgálatára és értékelésére, valamint egyéb kockázati tényezők felderítésére terjed ki. Az ellenőrzést „A” típusú kérdőív esetén az elrendeléstől számított 30, „B” típusú kérdőív esetén 45, „C” típusú kérdőív esetén 60 napon belül kell lefolytatni. Ez a határidő egy esetben – az érintett személy és a kezdeményező egyidejű tájékoztatása mellett – újabb 30 nappal meghosszabbítható.
 
-(6) Az ellenőrzésnek, a kockázati tényezők vizsgálatának és értékelésének arányosnak kell lennie a fontos és bizalmas munkakör betöltéséhez fűződő titokvédelmi és más biztonsági követelményekkel.
+(7) Az ellenőrzésnek, a kockázati tényezők vizsgálatának és értékelésének arányosnak kell lennie a fontos és bizalmas munkakör betöltéséhez fűződő titokvédelmi és más biztonsági követelményekkel.
 
-(7) Az ellenőrzést végző nemzetbiztonsági szolgálat az érintett személlyel konzultálhat, referens személyeket hallgathat meg, felhasználhatja a személyügyi nyilvántartások és a korábbi ellenőrzések adatait, adatkezelési rendszerekben adatellenőrzéseket végezhet – ha a szükséges adatok más módon nem szerezhetők meg, – titkos információgyűjtési eszközöket és módszereket alkalmazhat. A nemzetbiztonsági szolgálat az 56. §-ban meghatározott, külső engedélyhez kötött titkos információgyűjtést csak a „C” típusú kérdőívhez kapcsolódó ellenőrzés során alkalmazhat.
+(8) Az ellenőrzést végző nemzetbiztonsági szolgálat az érintett személlyel konzultálhat, referens személyeket hallgathat meg, felhasználhatja a személyügyi nyilvántartások és a korábbi ellenőrzések adatait, adatkezelési rendszerekben adatellenőrzéseket végezhet – ha a szükséges adatok más módon nem szerezhetők meg, – titkos információgyűjtési eszközöket és módszereket alkalmazhat. A nemzetbiztonsági szolgálat az 56. §-ban meghatározott, külső engedélyhez kötött titkos információgyűjtést csak a „C” típusú kérdőívhez kapcsolódó ellenőrzés során alkalmazhat.
 
 72. § (1) Az ellenőrzés során megszerzett információk és adatok alapján a nemzetbiztonsági szolgálat biztonsági szakvéleményt készít, amely valamennyi felmerült biztonsági kockázati tényezőt tartalmazza. A szakvéleményben foglalt megállapításokért, illetve a szükséges tájékoztatás elmaradásáért a felelősség a nemzetbiztonsági szolgálatot terheli. A szakvéleményt a miniszter ellenjegyzi, ezt követően a nemzetbiztonsági szolgálat a szakvéleményt a kezdeményezőhöz továbbítja. A kezdeményező a szakvéleményt a Nemzeti Biztonsági Felügyelethez továbbítja, ha az érintett személynek feladatai ellátásához nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő adatokat szükséges megismernie.
 
@@ -721,11 +783,11 @@ A Nemzeti Biztonsági Felügyelet elnöke a 69. § (14) bekezdésében meghatár
 
 (4) A kezdeményező a nemzetbiztonsági szolgálattól kapott szakvéleményt – az Országgyűlés elnöke a 19. § (7) bekezdése szerint korlátozással – döntése kialakításánál szabadon mérlegeli. Ha a Nemzeti Biztonsági Felügyelethez továbbított szakvélemény kockázati tényezőt tartalmaz, a nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő adatok megismeréséhez szükséges biztonsági tanúsítvány nem adható ki.
 
-(5) Az ellenőrzéshez kitöltött kérdőív, valamint az ellenőrzés során a szolgálatok által beszerzett adatok államtitoknak minősülnek.
+(5)
 
 ### Záró rendelkezések
 
-73. § Ha a nemzetbiztonsági szolgálatoknál létszámleépítésre kerül sor, nem alkalmazhatók a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény IV. Fejezete 23. §-ának (2) bekezdése, valamint az állami foglalkoztatási szerv tájékoztatására vonatkozó szabályai.
+73. § Ha a nemzetbiztonsági szolgálatoknál létszámleépítésre kerül sor, nem alkalmazhatók a Munka Törvénykönyvének a csoportos létszámcsökkentésre, valamint az állami foglalkoztatási szerv tájékoztatására vonatkozó szabályai.
 
 ### Értelmező rendelkezések
 
@@ -735,7 +797,8 @@ A Nemzeti Biztonsági Felügyelet elnöke a 69. § (14) bekezdésében meghatár
 - b) állami szerv: a minisztériumok, a központi államigazgatási szervek, az ügyészség, a Magyar Honvédség, valamint a rendvédelmi szervek;
 - c) rendvédelmi szerv: a polgári nemzetbiztonsági szolgálatok, a rendőrség, a polgári védelem állami szervei, a hivatásos tűzoltóság, a vám- és pénzügyőrség, valamint a büntetésvégrehajtási szervezet;
 - d) lakás: a nyilvános vagy a közönség részére nyitva álló helyen kívüli minden egyéb helyiség vagy terület;
-- e) hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbe fogadott, a mostoha- és nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő, a testvér, az élettárs, az egyeneságbeli rokon házastársa, a jegyes, a házastárs egyeneságbeli rokona és testvére, valamint a testvér házastársa.
+- e) hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbe fogadott, a mostoha- és nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő, a testvér, az élettárs, az egyeneságbeli rokon házastársa, a jegyes, a házastárs egyeneságbeli rokona és testvére, valamint a testvér házastársa;
+- f) cégellenőrzés: az illetékes nemzetbiztonsági szolgálat által végzett ellenőrzés, amelynek célja annak megállapítása, hogy a gazdálkodó szervezet minősített adat felhasználásával járó közreműködése jelent-e nemzetbiztonsági kockázatot.
 
 75. § (1)
 
@@ -759,7 +822,7 @@ A Nemzeti Biztonsági Felügyelet elnöke a 69. § (14) bekezdésében meghatár
 
 77. § (1) Felhatalmazást kap a Kormány, hogy rendeletben megállapítsa:
 
-- a) a rejtjeltevékenység szakirányításának és hatósági felügyeletének rendjét;
+- a)
 - b) a biztonsági okmányok körét, a biztonsági okmányvédelemre jogosult szervezet feladat- és hatáskörét, a biztonsági okmányvédelem eljárási szabályait;
 - c) a titkos információgyűjtés feltételeinek biztosítása érdekében a titkos információgyűjtésre feljogosított szervezetek és a távközlési szolgáltatási feladatokat ellátó szervezetek együttműködésének rendjét és szabályait.
 
@@ -826,13 +889,7 @@ A Nemzeti Biztonsági Felügyelet elnöke a 69. § (14) bekezdésében meghatár
 
 89. §
 
-90. § (1) Az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 16. §-ának (2) bekezdése a következők szerint módosul:
-
-,,(2) Államtitok vagy nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő szolgálati titok esetén a nemzetbiztonsági szolgálatokról szóló törvényben foglaltak szerint meghatározott titokbirtokos személy köteles magát biztonsági ellenőrzésnek alávetni.''
-
-(2) Az országgyűlési képviselők jogállásáról szóló 1990. évi LV. törvény 9. §-ának (3) bekezdése a következő szövegrésszel egészül ki:
-
-,,Ez a jogosultság a Katonai Biztonsági Hivatal és a Katonai Felderítő Hivatal működése körében keletkezett államtitokkörre vonatkozóan a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 17. §-ának keretei között érvényesül.''
+90. §
 
 91. §
 
@@ -872,19 +929,14 @@ Fontos és bizalmas munkakört betöltő személyek:
 - 12. az országos rendőrfőkapitány, helyettesei, a rendőrfőkapitányok és rendőrkapitányok,
 - 13. a tábornokok és a tábornoki rendfokozattal rendszeresített beosztásba kinevezettek,
 - 14. a minisztériumi főosztályvezetők és az azonos jogállású állami vezetők,
-- 15. az állami vagy többségi állami tulajdonban lévő gazdálkodó szervezetek vezetői,
-- 16. a többségi állami tulajdonban lévő bankok, szakosított pénzintézetek és biztosítóintézetek vezető beosztású munkatársai,
+- 15. az állami vagy többségi állami tulajdonban lévő gazdálkodó szervezetek vezetői, felügyelő bizottsági tagjai,
+- 16. a többségi állami tulajdonban lévő bankok, szakosított pénzintézetek és biztosítóintézetek vezető beosztású munkatársai és felügyelő bizottsági tagjai,
 - 17. a nemzetbiztonsági szolgálatok munkatársai,
-- 18. a minisztériumokon, a kormányhivatalokon, a központi hivatalokon, a Magyar Honvédségen, a rendvédelmi szerveken belül a feladatkörrel rendelkező miniszter által meghatározott további olyan munkakört betöltő személyek, akiknek feladataik ellátásához államtitkot vagy nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő, az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 5/B. §-a (2)–(6) bekezdéseiben szereplő, illetve az 5/B. § (7) bekezdése szerinti nemzetközi szerződést kihirdető törvényben meghatározott külföldi minősítéssel és jelöléssel ellátott adatot szükséges megismerniük, illetve a munkakörük külső, leplezett támadás által fenyegetett,
-- 19. a 18. pont hatálya alá nem tartozó, az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény szerinti titokbirtokos szervezeten belül a vezető által meghatározott olyan személyek, akiknek feladataik ellátásához államtitkot vagy nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő, az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény 5/B. §-a (2)–(6) bekezdéseiben szereplő, illetve az 5/B. § (7) bekezdése szerinti nemzetközi szerződést kihirdető törvényben meghatározott külföldi minősítéssel és jelöléssel ellátott adatot szükséges megismerniük.
+- 18. a minisztériumokon, az autonóm államigazgatási szerveken, a kormányhivatalokon, a központi hivatalokon, a Magyar Honvédségen, a rendvédelmi szerveken belül a feladatkörrel rendelkező miniszter által meghatározott további olyan munkakört betöltő személyek, akiknek feladataik ellátásához „Bizalmas!” vagy annál magasabb minősítési szintű minősített adatot szükséges felhasználniuk,
+- 18/A. a minősített adat védelméről szóló törvény szerinti „Bizalmas!” vagy annál magasabb minősítési szintű adatot kezelő szerv vezetője,
+- 19. a 18. pont hatálya alá nem tartozó, a minősített adat védelméről szóló törvény szerinti minősített adatot kezelő szervezeten belül a vezető által – a polgári nemzetbiztonsági szolgálatokat irányító miniszterrel egyetértésben – meghatározott olyan személyek, akiknek feladataik ellátásához „Bizalmas!” vagy annál magasabb minősítési szintű minősített adatot szükséges felhasználniuk.
 
 ### 3. számú melléklet az 1995. évi CXXV. törvényhez
-
-Szigorúan titkos!
-
-Különösen fontos!
-
-(kitöltés után)
 
 BIZTONSÁGI KÉRDŐÍV
 
@@ -1017,12 +1069,6 @@ Budapest, 19………………………………
 ………………………………………………………………
 
 aláírás, cím
-
-Szigorúan titkos!
-
-Különösen fontos!
-
-(kitöltés után)
 
 BIZTONSÁGI KÉRDŐÍV
 
@@ -1158,7 +1204,7 @@ Jövedelmi viszonyaival, anyagi helyzetével összefüggő adatok
 
 23. Főfoglalkozásából származó éves bruttó összjövedelme:
 
-24. Főfoglalkozásán kívüli bruttó 500 000 Ft-ot meghaladó jövedelmének forrásai:
+24. Főfoglalkozásán kívüli éves bruttó 500 000 Ft-ot meghaladó jövedelmének forrásai:
 
 25. Adóhatósággal, társadalombiztosítással, pénzintézetekkel szemben fennálló tartozásai, pénzügyi kötelezettségei 5 évre visszamenőleg:
 
@@ -1233,12 +1279,6 @@ Budapest, 19………………………………
 ………………………………………………………………
 
 aláírás, cím
-
-Szigorúan titkos!
-
-Különösen fontos!
-
-(kitöltés után)
 
 BIZTONSÁGI KÉRDŐÍV
 

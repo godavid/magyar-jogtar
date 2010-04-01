@@ -429,7 +429,7 @@ A kinevezés hat évre szól. A kinevezett személyek a hat év lejártát köve
 
 (3) A felvilágosítás adására kötelezett üzleti titok [4. § (3) bekezdés a) pont] védelmére tekintettel kérheti az üzleti titkot képező információk nyilvánosságra hozatalának mellőzését. A kérelemről való a Gazdasági Versenyhivatal elnöke kötelezheti a kérelmezőt – a 43/C. § (3) bekezdésében megjelölt szervezetek kivételével – olyan iratváltozat készítésére, amely nem tartalmaz üzleti titkot.
 
-43/E. § (1) Az ágazati vizsgálat eredményéről a Gazdasági Versenyhivatal – ésszerű időn belül – jelentést készít. A Gazdasági Versenyhivatal elnöke a jelentés állami és szolgálati titkot, banktitkot, fizetési titkot, biztosítási titkot, illetve külön törvényben meghatározott értékpapírtitkot vagy pénztártitkot és üzleti titkot nem tartalmazó változatát nyilvánosságra hozhatja.
+43/E. § (1) Az ágazati vizsgálat eredményéről a Gazdasági Versenyhivatal – ésszerű időn belül – jelentést készít. A Gazdasági Versenyhivatal elnöke a jelentés minősített adatot, banktitkot, fizetési titkot, biztosítási titkot, illetve külön törvényben meghatározott értékpapírtitkot vagy pénztártitkot és üzleti titkot nem tartalmazó változatát nyilvánosságra hozhatja.
 
 (2) A Gazdasági Versenyhivatal a jelentés nyilvánosságra hozatalát megelőzően biztosítja, hogy az érintettek a jelentés tartalmára írásban észrevételeket tehessenek, illetve e célból meghallgatást is tarthat. A jelentés üzleti titkot nem tartalmazó változatát az érintetteknek olyan időpontban kell megküldeni, hogy az írásbeli észrevételezésre, illetve a meghallgatásra való felkészülésre legalább harminc nap álljon rendelkezésükre. A Gazdasági Versenyhivatal az írásbeli észrevételekről, illetve a meghallgatásról készült összefoglalót, illetve az érintett piaci szereplőknek a jelentés tartalmára vonatkozó érdemi észrevételeit tartalmazó dokumentumokat – ha kérik – a jelentéssel egyidejűleg és azonos helyen hozza nyilvánosságra.
 
@@ -830,7 +830,7 @@ eltelt időt.
 
 (2) Az eljáró versenytanács a tárgyaláson (illetve tárgyaláson kívül) a 72. § (1) bekezdésének a) pontja szerinti esetekben az eljárást végzéssel megszüntetheti.
 
-(3) A versenytanács tárgyalása nyilvános. Az eljáró versenytanács indokolt végzésével a tárgyalásról vagy annak egy részéről a nyilvánosságot kérelemre vagy hivatalból kizárhatja, ha az államtitok, szolgálati titok, üzleti titok vagy a fél vagyoni helyzetére vonatkozó, hitelintézettől beszerzett adat (banktitok), biztosítótól beszerzett adat (biztosítási titok), illetve külön törvényben meghatározott értékpapírtitok, fizetési titok vagy pénztártitok megőrzése végett, illetve nemzetgazdasági érdekre tekintettel feltétlenül szükséges.
+(3) A versenytanács tárgyalása nyilvános. Az eljáró versenytanács indokolt végzésével a tárgyalásról vagy annak egy részéről a nyilvánosságot kérelemre vagy hivatalból kizárhatja, ha az minősített adat, üzleti titok vagy a fél vagyoni helyzetére vonatkozó, hitelintézettől beszerzett adat (banktitok), biztosítótól beszerzett adat (biztosítási titok), illetve külön törvényben meghatározott értékpapírtitok, fizetési titok vagy pénztártitok megőrzése végett, illetve nemzetgazdasági érdekre tekintettel feltétlenül szükséges.
 
 ### Kötelezettségvállalás
 
@@ -943,6 +943,32 @@ terjedhet.
 (9) A 78/A. és 78/B. § szerinti kérelmek formáját, részletes tartalmát, benyújtásának módját a Gazdasági Versenyhivatal által közzétett kérelem űrlap tartalmazza.
 
 79. § A bírság összege a 24. § szerinti engedély iránti kérelem előterjesztésének elmulasztása esetén legfeljebb napi kettőszázezer forint.
+
+79/A. § (1) Díjra jogosult az a természetes személy, aki nélkülözhetetlennek minősülő írásos bizonyítékot szolgáltatott a Gazdasági Versenyhivatal részére a 11. §-ba vagy az EK-Szerződés 81. cikkébe ütköző olyan versenytársak közötti megállapodással vagy összehangolt magatartással elkövetett jogsértés megállapításához, amely közvetlenül vagy közvetve vételi vagy eladási árak rögzítésére, a piac felosztására – beleértve a versenytárgyalási összejátszást is –, vagy termelési, eladási kvóták meghatározására irányult.
+
+(2) Nélkülözhetetlen bizonyítéknak minősül az olyan információ is, amely alapján a bíróság olyan, a 65/A. § szerinti vizsgálati cselekményt engedélyez, melynek során a Gazdasági Versenyhivatal az (1) bekezdés szerinti bizonyíték birtokába jut. A szolgáltatott bizonyíték akkor is nélkülözhetetlennek minősül, ha olyan más bizonyítékkal helyettesíthető, amelyhez utóbb jutott a Gazdasági Versenyhivatal.
+
+(3) Az e §-ban meghatározott díj összege az eljáró versenytanács által az ügyben kiszabott bírság egy százaléka, de legfeljebb ötvenmillió forint. Több, különböző természetes személy által szolgáltatott nélkülözhetetlennek minősülő bizonyíték után külön-külön jár a díj. Egy természetes személy csak egyszeri díjra jogosult.
+
+(4) Nem jogosult a díjra annak a vállalkozásnak a törvényes képviselője, amelynek nevében a 78/A. § szerinti, bírság mellőzése vagy csökkentése iránti kérelmet nyújtottak be.
+
+(5) Nem jár díj a bűncselekménnyel vagy szabálysértéssel szerzett bizonyíték után. Ha a büntetőeljárás vagy a szabálysértési eljárás a díj kifizetése előtt megindul, a díj kifizetését a büntetőeljárás jogerős befejezéséig fel kell függeszteni. Ha a bűncselekmény vagy szabálysértés elkövetésének jogerős megállapítására a díj kifizetése után kerül sor, a jutalmat vissza kell fizetni a Gazdasági Versenyhivatal számára.
+
+(6) A díj több személy részére való kifizetésének nincs helye, ha a rendelkezésre álló adatokból megállapítható, hogy az érintett bizonyítékok egy forrásból származnak, és megosztásukra csak a díj többszörözése érdekében került sor. Ilyen esetben egyszeri jutalmat kell a jogosultak között egyenlő arányban felosztani.
+
+(7) Nem követelhető a díj visszafizetése arra tekintettel, hogy a bíróság a kiszabott bírságot csökkentette vagy hatályon kívül helyezte, vagy úgy változtatta meg az eljáró versenytanács határozatát, melynek következtében a szolgáltatott bizonyíték nélkülözhetetlensége megszűnik, kivéve mindegyik esetben, ha a határozat megváltoztatására az informátor által szolgáltatott bizonyítéknak a szolgáltató magatartására visszavezethető jogellenességére tekintettel került sor.
+
+79/B. § (1) A Gazdasági Versenyhivatal köteles biztosítani azt, hogy azok a személyek, akik feltételezésük szerint a 79/A. § (1) bekezdése alá eső irattal rendelkeznek, személyazonosságuk feltárása nélkül tudakozódhassanak az irat feltehető minősítéséről. A tudakozódó személyt figyelmeztetni kell arra, hogy a vele közölt előzetes minősítés nem köti a Gazdasági Versenyhivatalt, továbbá tájékoztatni kell a díjra vonatkozó szabályokról.
+
+(2) A feltehetően a 79/A. § (1) bekezdésében említett iratot szolgáltató személyt tájékoztatni kell a 79/A. § szerinti díjazás szabályairól. Az iratot szolgáltató személy díjigényét legkésőbb a tájékoztatástól számított öt napon belül köteles közölni a Gazdasági Versenyhivatallal. A díjat igénylőt figyelmeztetni kell arra, hogy a törvény tanúként való meghallgatását is lehetővé teszi, illetve arra, hogy kérelmezheti személyazonosító adatainak zárt kezelését. E kérelem teljesítése nem tagadható meg, de a kérelmezőt figyelmeztetni kell arra, hogy személyazonosító adatainak zárt kezelése kihatással lehet a szolgáltatott irat bizonyító erejére.
+
+(3) Ha a vizsgáló, vagy az eljáró versenytanács álláspontja szerint a versenyfelügyeleti eljárás során szolgáltatott irat alkalmatlan a 79/A. § (1) bekezdése szerinti jogsértés bizonyítására, erről meghallgatás keretében tájékoztatja az iratot szolgáltató személyt, illetve kérelmére az irat visszautasításáról külön végzést hoz. A meghallgatás jegyzőkönyve, illetve a külön végzés nem betekinthető iratnak minősül.
+
+(4) A díj kifizetéséről az eljáró versenytanács a (2) bekezdés szerinti igényt előterjesztő személyek vonatkozásában külön végzést hoz, legkésőbb az eljárást befejező határozatának meghozatalát követő harminc napon belül. A végzés ellen az érintett személy külön jogorvoslattal (82. §) élhet.
+
+(5) A díj a (4) bekezdés szerinti végzés jogerőre emelkedésétől számított harminc napon belül esedékes. A kifizetésről a Gazdasági Versenyhivatal bírságbevételi számlája terhére kell intézkedni.
+
+(6) Ha a jutalmat vissza kell fizetni, ennek az eljáró versenytanács e tárgyban, legkésőbb a visszafizetést megalapozó határozat jogerőre emelkedésétől számított harminc napon belül hozott külön végzése alapján van helye. A végzés ellen az érintett személy külön jogorvoslattal (82. §) élhet. A visszafizetendő díj adók módjára behajtandó köztartozásnak minősül.
 
 ### A döntés nyilvánosságra hozatala
 

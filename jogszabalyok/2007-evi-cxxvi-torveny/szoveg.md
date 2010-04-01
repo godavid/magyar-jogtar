@@ -5257,15 +5257,7 @@ d) a székhely szolgáltatásra vonatkozó részletes szabályokat.”
 
 lép.
 
-418. § 2008. január 1-jén az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló 1997. évi LXXIV. törvény 7. §-a helyébe a következő rendelkezés lép:
-
-„7. § A közteherjegy forgalmazója a közteherjegy ellenértékének forgalmazási költséggel csökkentett részét – külön jogszabályban foglaltak szerint – átutalja a kincstár által vezetett KESZ-re. A kincstár ezen összegből
-
-a) azon alkalmi munkavállaló esetében, aki nem tagja magánnyugdíjpénztárnak, 83%-ot a Nyugdíjbiztosítási Alapnak,
-
-b) magánnyugdíjpénztár tagja esetében 63%-ot a Nyugdíjbiztosítási Alapnak és 20%-ot az állami adóhatóság által megjelölt magánnyugdíjpénztárnak,
-
-továbbá 6%-ot az Egészségbiztosítási Alapnak, 11%-ot a Munkaerőpiaci Alapnak utal át.”
+418. §
 
 419. § (1) E törvény kihirdetését követő nyolcadik napon a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 8/B. §-a a következő (4) bekezdéssel egészül ki:
 

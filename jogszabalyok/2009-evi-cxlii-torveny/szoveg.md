@@ -12,9 +12,7 @@ a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogá
 
 4. §
 
-5. § (1) A Hjt. 41. § (12) bekezdése helyébe a következő rendelkezés lép:
-
-„(12) Önkéntes tartalékos szolgálati viszony – jogszabályban meghatározott feltételekkel – a 18. életévét betöltött, de 50 évesnél nem idősebb személlyel létesíthető. Ha az önkéntes tartalékos szolgálati viszony létesítésére a hivatásos vagy szerződéses szolgálati viszony megszűnésével egyidejűleg kerül sor, az önkéntes tartalékos szolgálatot vállaló személy egészségi, pszichikai és fizikai alkalmassági vizsgálatától el kell tekinteni, feltéve, hogy a hivatásos vagy a szerződéses szolgálati viszony nem az állomány tagjának egészségi, illetve pszichikai állapota miatt, az 59. § (2) bekezdés a) pontja alapján került megszüntetésre.”
+5. § (1)
 
 (2) A Hjt. 41. §-a a következő (13) bekezdéssel egészül ki:
 
@@ -56,25 +54,7 @@ a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogá
 
 „(3) Az önkéntes tartalékos szolgálat felső korhatára megegyezik a hivatásos szolgálat felső korhatárával.”
 
-11. § A Hjt. a következő 56/A. §-sal egészül ki:
-
-„56/A. § (1) Az önkéntes tartalékos szolgálati viszony megszűnik:
-
-a) közös megegyezéssel,
-
-b) az önkéntes tartalékos jogviszony egyoldalú megszüntetésével,
-
-c) az önkéntes tartalékosi jogviszony megszüntetése fenyítés kiszabásával,
-
-d) az önkéntes tartalékos halálával,
-
-e) hivatásos, illetve szerződéses állományba vétellel,
-
-f) a szerződésben megállapított határozott idő leteltével, annak meghosszabbítása kivételével,
-
-g) az önkéntes tartalékos szolgálatra való alkalmatlanság megállapításával.
-
-(2) Az önkéntes tartalékos szolgálati viszony megszünésének napján az önkéntes tartalékos járandóságai időarányosan elszámolásra kerülnek.”
+11. §
 
 12. § A Hjt. a 61/B. §-t követően a következő alcímmel és 61/C. §-sal egészül ki:
 
@@ -136,7 +116,7 @@ g) az önkéntes tartalékos szolgálatra való alkalmatlanság megállapítás�
 
 (2) A Hjt. 84. § (2) bekezdése szerinti várakozási időt az e törvény hatálybalépését megelőzően megkezdett rendfokozati várakozási idő esetében nem kell alkalmazni.
 
-(3) A Hjt. 259. § (6) bekezdése alapján 2010. március 31-ig hivatalból ismételten el kell bírálni az állomány tagjának korábban a szakközépiskolai tanulmányi idő társadalombiztosítási beszámítása érdekében benyújtott és elutasított kérelmét.
+(3)
 
 34. § (1) A 32. § (3) bekezdése a folyamatban lévő ügyekben nem alkalmazható.
 

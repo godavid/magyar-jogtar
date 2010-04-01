@@ -844,7 +844,7 @@ távolléti díjnak megfelelő összeg.
 - f) a külön jogszabályban foglalt esetben kötelező védőoltásnak magát – az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 58. § (1)–(3) bekezdésében foglalt korlátozásokkal – alávetni;
 - g) szolgálaton kívül is a hivatásos állomány tagjához és beosztásához méltó magatartást tanúsítani.
 
-(2) A hivatásos állomány tagja köteles megtartani az állami és a szolgálati titkot, valamint az adatok védelmére vonatkozó szabályokat.
+(2) A hivatásos állomány tagja köteles megtartani a minősített adatot, valamint az adatok védelmére vonatkozó szabályokat.
 
 (3) A hivatásos állomány tagja a szolgálati feladathoz kapcsolódó nyilvános szerepléséért tiszteletdíjat nem fogadhat el.
 
@@ -1700,7 +1700,7 @@ követte el. A fenyíthetőséget kizáró okok értelmezésére a Büntető Tö
 
 (3) A fegyelmi eljárás során a fontosabb eljárási cselekményeket (pl. az eljárás alá vont személy és a tanúk meghallgatását) jegyzőkönyvbe kell foglalni. A szemléről és a helyszíni szemléről jelentés is készülhet.
 
-(4) A fegyelmi eljárás alá vont személy és képviselője a fegyelmi ügy irataiba betekinthet, azokról – az állam és szolgálati titok védelméről szóló jogszabályok szerint – feljegyzést, másolatot készíthet, az eljárással összefüggő indítvánnyal élhet.
+(4) A fegyelmi eljárás alá vont személy és képviselője a fegyelmi ügy irataiba betekinthet, azokról – a minősített adat védelméről szóló jogszabályok szerint – feljegyzést, másolatot készíthet, az eljárással összefüggő indítvánnyal élhet.
 
 135. § (1) A vizsgálat befejezésekor a vizsgáló az eljárás alá vont személyt és a képviselőt felhívja, hogy az iratismertetésen – melynek időpontját közli – jelenjen meg.
 
@@ -1739,7 +1739,7 @@ követte el. A fenyíthetőséget kizáró okok értelmezésére a Büntető Tö
 
 (3) A (2) bekezdésben foglaltak nem alkalmazhatóak akkor, ha a katonai vétséget a 119. § (3) bekezdése alapján fegyelmi eljárásban kell elbírálni.
 
-141. § A fegyelmi ügyben megindokolt határozatot kell hozni, amelyet az eljárás alá vont személy előtt ki kell hirdetni. A határozat egy példányát – ha államtitkot vagy szolgálati titkot nem tartalmaz – az eljárás alá vont személy részére kézbesíteni kell.
+141. § A fegyelmi ügyben megindokolt határozatot kell hozni, amelyet az eljárás alá vont személy előtt ki kell hirdetni. A határozat egy példányát – ha minősített adatot nem tartalmaz – az eljárás alá vont személy részére kézbesíteni kell.
 
 ### Jogorvoslatok
 
@@ -3535,7 +3535,7 @@ Esküszöm, hogy elöljáróimat, munkatársaimat megvédem, fegyveremet, felsze
 
 A szolgálati ismereteket elsajátítom. A rendet és fegyelmet minden törvényes eszközzel fenntartom. Alárendeltjeimről a legjobb tudásom szerint gondoskodom, őket öntudatos hazafiakká, a népek kölcsönös tiszteletére nevelem. Minden erőmmel, törekvésemmel, tudásommal a Magyar Köztársaság fejlődését szolgálom.
 
-Az állam- és szolgálati titkot híven megtartom. Szolgálatban és szolgálaton kívül példamutatóan viselkedem.
+A minősített adatot híven megtartom. Szolgálatban és szolgálaton kívül példamutatóan viselkedem.
 
 _______
 
@@ -3547,7 +3547,7 @@ Az eskü szövege:
 
 „Én .......................... a Magyar Köztársaság ...........................* tagja esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek; az Alkotmányt és az alkotmányos jogszabályokat megtartom; a szolgálati kötelezettségeimet, ha kell, életem kockáztatásával is teljesítem. A rendet és a fegyelmet minden törvényes eszközzel fenntartom. Elöljáróimat, munkatársaimat megvédem, fegyveremet,** felszerelésemet megóvom.
 
-A szolgálati ismereteket elsajátítom. Elöljáróim és feljebbvalóim utasításainak engedelmeskedem. Az alárendeltjeimről a legjobb tudásom szerint gondoskodom. Az állam- és szolgálati titkot megőrzöm, kötelezettségeimet részrehajlás nélkül, lelkiismeretesen, kizárólag a jogszabályoknak megfelelően, pontosan, a legjobb tudásom szerint teljesítem.
+A szolgálati ismereteket elsajátítom. Elöljáróim és feljebbvalóim utasításainak engedelmeskedem. Az alárendeltjeimről a legjobb tudásom szerint gondoskodom. A minősített adatot megőrzöm, kötelezettségeimet részrehajlás nélkül, lelkiismeretesen, kizárólag a jogszabályoknak megfelelően, pontosan, a legjobb tudásom szerint teljesítem.
 
 Esküszöm, hogy minden erőmmel, törekvésemmel, tudásommal a Magyar Köztársaság javát szolgálom.
 
@@ -3555,7 +3555,7 @@ A fogadalom szövege:
 
 „Én .......................... a Magyar Köztársaság ...........................* tagja fogadom, hogy hazámhoz, a Magyar Köztársasághoz hű leszek; az Alkotmányt és az alkotmányos jogszabályokat megtartom; a szolgálati kötelezettségeimet, ha kell, életem kockáztatásával is teljesítem. A rendet és a fegyelmet minden törvényes eszközzel fenntartom. Elöljáróimat, munkatársaimat megvédem, fegyveremet,** felszerelésemet megóvom.
 
-A szolgálati ismereteket elsajátítom. Elöljáróim és feljebbvalóim utasításainak engedelmeskedem. Az alárendeltjeimről a legjobb tudásom szerint gondoskodom. Az állam- és szolgálati titkot megőrzöm, kötelezettségeimet részrehajlás nélkül, lelkiismeretesen, kizárólag a jogszabályoknak megfelelően, pontosan, a legjobb tudásom szerint teljesítem.
+A szolgálati ismereteket elsajátítom. Elöljáróim és feljebbvalóim utasításainak engedelmeskedem. Az alárendeltjeimről a legjobb tudásom szerint gondoskodom. A minősített adatot megőrzöm, kötelezettségeimet részrehajlás nélkül, lelkiismeretesen, kizárólag a jogszabályoknak megfelelően, pontosan, a legjobb tudásom szerint teljesítem.
 
 Fogadom, hogy minden erőmmel, törekvésemmel, tudásommal a Magyar Köztársaság javát szolgálom.
 

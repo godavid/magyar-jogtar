@@ -1120,7 +1120,7 @@ távolléti díjnak megfelelő összeg.
 - h) a rendelkezésére bocsátott fegyverzetet, felszerelést, ruházatot, egyéb eszközöket és anyagokat rendeltetésszerűen használni és gondozni;
 - i) fertőző megbetegedés veszélye esetén, valamint ha a munkakörhöz, illetve egyes szolgálati feladatokhoz kapcsolódóan a személyi állomány tagjának vagy egyes csoportjainak egészségét és biztonságát veszélyeztető biológiai kóroki tényező kockázata mutatható ki, az 52/A. § (3) bekezdés szerinti egészségügyi intézkedések tűrésére.
 
-(2) Az állomány tagja köteles megtartani az állami és a szolgálati titkot, valamint az adatok védelmére vonatkozó szabályokat.
+(2) Az állomány tagja köteles megtartani a minősített adatot, valamint az adatok védelmére vonatkozó szabályokat.
 
 (3) Az állomány tagja a szolgálati feladathoz kapcsolódó nyilvános szerepléséért tiszteletdíjat nem fogadhat el.
 
@@ -2197,7 +2197,7 @@ jogosult.
 
 (3) A fegyelmi eljárás során a fontosabb eljárási cselekményeket jegyzőkönyvbe kell foglalni.
 
-(4) Az állomány fegyelmi eljárás alá vont tagja (képviselője) a fegyelmi ügy irataiba betekinthet, azokról – az állami és szolgálati titokról, valamint az adatvédelemről szóló rendelkezések betartása mellett – feljegyzést, másolatot készíthet.
+(4) Az állomány fegyelmi eljárás alá vont tagja (képviselője) a fegyelmi ügy irataiba betekinthet, azokról – a minősített adat védelméről, valamint az adatvédelemről szóló rendelkezések betartása mellett – feljegyzést, másolatot készíthet.
 
 154. § (1) A fegyelmi vizsgálat befejezésekor a vizsgáló az állomány eljárás alá vont tagját és képviselőjét felhívja, hogy az iratismertetésen – a felhívásban megjelölt időpontban – jelenjen meg.
 
@@ -2240,7 +2240,7 @@ jogosult.
 - b) a rendelkező rész tartalmazza a fenyítés nemét és mértékét, a jogorvoslat lehetőségét, a fenyítés végrehajtásának módját, a végrehajtás kezdő napját, a kihirdetés módját, és szükség esetén a végrehajtásért felelős személyt, valamint a jogorvoslati lehetőségre való figyelmeztetést;
 - c) az indokolásban kell megjelölni a fegyelemsértés (szabálysértés) elkövetésének helyét, idejét, leírását, a fenyítés kiszabásánál figyelembe vett enyhítő és súlyosító körülményeket.
 
-(2) A fenyítést tartalmazó határozatot az állomány fegyelmi eljárás alá vont tagja előtt ki kell hirdetni, és a jogorvoslatról történő esetleges lemondását jegyzőkönyvben kell rögzíteni. A határozat egy példányát – ha az állam- vagy szolgálati titkot nem tartalmaz – a fenyített (képviselője) részére kézbesíteni kell.
+(2) A fenyítést tartalmazó határozatot az állomány fegyelmi eljárás alá vont tagja előtt ki kell hirdetni, és a jogorvoslatról történő esetleges lemondását jegyzőkönyvben kell rögzíteni. A határozat egy példányát – ha az minősített adatot nem tartalmaz – a fenyített (képviselője) részére kézbesíteni kell.
 
 (3) A jogerős fenyítéseket, valamint az ezek hatály alóli mentesülés időpontját az erre rendszeresített dicséreti és fenyítési lapon kell nyilvántartani. Ha az állomány fenyített tagját áthelyezték, a dicséreti és fenyítési lapját az új szolgálati helyére meg kell küldeni.
 
@@ -3178,7 +3178,7 @@ Ezek különösen az alábbiak:
 
 (5) A jubileumi jutalomra való jogosultság, valamint a felmentési idő számítása szempontjából a közszolgálati jogviszonyban eltöltött, illetőleg ilyennek minősített időket, a pótszabadság mértéke szempontjából pedig ezek mellett a munkaviszonyban eltöltött időt is figyelembe kell venni.
 
-(6) A nyugdíjjogosultság és a nyugdíj mértéke szempontjából figyelembe kell venni a szakmunkásképzést végző szakközépiskolában 1977. január 1-je és 1990. március 15-e között töltött tanulmányi időt is, amennyiben a képzés szakmunkásként való foglalkoztatásra adott jogosultságot, és annak beszámítását az állomány tagja 2010. március 31-ig kezdeményezi. A kérelmet a központi pénzügyi szervnél kell benyújtani.
+(6)
 
 260. § Akinek a szolgálati viszonyát megszüntették, annak az e törvény szerint számított szolgálati idejét – ha jogszabály eltérően nem rendelkezik – közszolgálati jogviszony létesítése esetén a létesítendővel azonos jellegű jogviszonyban eltöltött időnek kell elismerni.
 

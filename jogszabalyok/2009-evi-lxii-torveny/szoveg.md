@@ -356,6 +356,27 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (3) A biztosító, a Kártalanítási Számla kezelője egyösszegű pénzbeli kártérítés esetén köteles a megállapított összeget a kártérítési javaslat elfogadását, vagy a kártérítés jogerős megítélését követő 15 napon belül a károsultnak megfizetni.
 
+32/A. § (1) Gépjármű károsodása esetén a biztosító előzetes kalkulációt készít az általa téríthető helyreállítási költségek és kiadások nettó, illetve bruttó összegéről, illetve – amennyiben az értékcsökkenés fizetésének feltétele fennáll – az értékcsökkenés mértékének megfelelő összegről, és erről tájékoztatja a károsultat.
+
+(2) A biztosító a gépjárműben keletkezett kár helyreállításához szükséges költségek általános forgalmi adóval növelt összegét a károsultnak csak akkor térítheti meg, ha a károsult által bemutatott számla tartalmazza a gépjármű helyreállításához szükséges munkálatok megnevezését, anyagköltségét és munkadíját, valamint az a számvitelről szóló törvény előírásainak megfelel. Ellenkező esetben a biztosító a gépjárműben keletkezett kárként az (1) bekezdés szerinti nettó összeget, illetve – amennyiben az értékcsökkenés fizetésének feltétele fennáll – az értékcsökkenés összegét téríti meg.
+
+32/B. § (1) Ha a biztosító úgy ítéli meg, hogy a közlekedési balesettel érintett gépjármű kormányműve, futóműve, illetve karosszériája (alváza) olyan károsodást szenvedett, amely miatt a közúti forgalomban való további részvételre közlekedésbiztonsági szempontból alkalmatlannak tekinthető és a helyreállítás – a jogosult erre irányult nyilatkozata alapján – nem történik meg, a kárfelvételi eljárás befejezésétől számított 8 munkanapon belül – az alkalmatlanság okának feltüntetésével – értesíti a közlekedési hatóságot, kivéve, ha a károsult a hulladékká vált gépjárművekről szóló jogszabály hatálya alá tartozó gépjármű esetén annak bontási átvételi igazolását a biztosítónak bemutatja.
+
+(2) A gépjárműben keletkezett károsodás esetén a biztosító a kár helyreállításához szükséges teljes költséget biztosítási szolgáltatása keretében csak akkor térítheti meg a károsultnak, ha a közlekedési hatóság a gépjármű műszaki vizsgálata eredményeként
+
+- a) arról tájékoztatja a biztosítót, hogy a gépjármű a közúti forgalomban való részvételre közlekedésbiztonsági szempontból alkalmas, vagy
+- b) a gépjárművet közlekedésbiztonsági szempontból a (3) bekezdésben meghatározott kivétellel műszakilag alkalmatlannak minősíti, és ennek alapján a gépjárművet a jegyző – a külön jogszabályban meghatározottak szerint – ideiglenesen kivonta a forgalomból.
+
+(3) A (2) bekezdés b) pontja nem alkalmazható abban az esetben, ha a közlekedési hatóság a gépjármű műszaki vizsgálata eredményeként a hulladékká vált gépjárművekről szóló jogszabály hatálya alá tartozó gépjárművet közlekedésbiztonsági szempontból véglegesen alkalmatlannak minősítette.
+
+(4) A biztosító az értékcsökkenés összegét csak abban az esetben fizetheti ki a károsult részére, ha a károsult a hulladékká vált gépjárművekről szóló jogszabály hatálya alá tartozó gépjármű esetén annak bontási átvételi igazolását a biztosítónak bemutatta vagy a gépjárművet a jegyző – a külön jogszabályban meghatározottak szerint – végleg kivonta a forgalomból.
+
+(5) A károsult részére a biztosító nem fizetheti ki a 32/A. § (1) bekezdése szerint kalkulált nettó összeget, illetve az értékcsökkenés összegét, ha a közlekedési hatóság arról tájékoztatja, hogy az üzemben tartó az (1) bekezdésben foglalt értesítés alapján elrendelt műszaki vizsgálatra a gépjárművet nem mutatta be, és a műszaki vizsgálatára más módon sem került sor.
+
+(6) A 32/A. § (2) bekezdésében, valamint a (2)–(5) bekezdésben foglaltak nem érintik azt a lehetőséget, hogy a biztosító a 32/A. § (1) bekezdés szerint előzetesen kalkulált nettó összeg, illetve értékcsökkenés 60%-ának megfelelő összegű szolgáltatási előleget nyújtson.
+
+(7) Az (1)–(6) bekezdésekben meghatározottakat nem kell alkalmazni, ha a kárt szenvedett gépjármű telephely szerinti országa nem a Magyar Köztársaság.
+
 ### Törvényi engedmény
 
 33. § Amennyiben a biztosító, a Nemzeti Iroda vagy a Kártalanítási Számla kezelője a kárt megtérítette, a megtérített összeg erejéig őt illetik meg azok a jogok, amelyek a biztosítottat – a 35. § (1) bekezdésében meghatározott esetekben az üzemben tartót és a vezetőt – illették meg a kárért felelős személlyel szemben.

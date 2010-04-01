@@ -2819,7 +2819,7 @@ meghaladja.
 
 ,,Titoktartási nyilatkozat
 
-Alulírott ............. (név, lakcím) e nyilatkozattal kötelezem magamat, hogy a ............. (munkáltató megnevezése)-val kötött munkaviszonyom fennállása alatt tudomásomra jutott állam- és szolgálati titkot megőrzöm, a tevékenységem során előttem ismertté vált olyan adatokról, tényekről illetéktelen szervnek vagy személynek tájékoztatást nem adok, amelyek kiszolgáltatása az állam, a közigazgatási szerv (önkormányzat), munkatársam, vagy az állampolgár számára hátrányos, vagy jogellenesen előnyös következményekkel járna.''
+Alulírott ............. (név, lakcím) e nyilatkozattal kötelezem magamat, hogy a ............. (munkáltató megnevezése)-val kötött munkaviszonyom fennállása alatt tudomásomra jutott minősített adatot megőrzöm, a tevékenységem során előttem ismertté vált olyan adatokról, tényekről illetéktelen szervnek vagy személynek tájékoztatást nem adok, amelyek kiszolgáltatása az állam, a közigazgatási szerv (önkormányzat), munkatársam, vagy az állampolgár számára hátrányos, vagy jogellenesen előnyös következményekkel járna.''
 
 (2) A munkaszerződéshez csatolni kell a munkaköri leírást.
 

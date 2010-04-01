@@ -274,7 +274,7 @@ keletkeztet ellenőrzéssel lezárt időszakot.
 - a) a vámhatóság belső levelezésébe,
 - b) a döntés tervezetébe,
 - c) a tanú vagy az eljárásban részt vevő más személy természetes személyazonosító adatait tartalmazó jegyzőkönyvbe (iratba), ha a vámhatóság ezen adatokat zártan kezeli,
-- d) betekintési vagy megismerési engedély hiányában az államtitkot vagy szolgálati titkot tartalmazó iratba vagy az ilyet tartalmazó iratrészletbe, amennyiben az a döntés alapjául szolgáló tényt nem tartalmazza,
+- d) felhasználói vagy megismerési engedély hiányában a minősített adatot tartalmazó iratba vagy az ilyet tartalmazó iratrészletbe, amennyiben az a döntés alapjául szolgáló tényt nem tartalmazza,
 - e) az iratnak azon részébe, amelynek megismerése a más személyre vonatkozó, adó- vagy vámtitkot érintő rendelkezésbe ütközik,
 - f) törvény által védett egyéb adatot tartalmazó iratba, ha azt az érintett adat védelmét szabályozó törvény kizárja.
 
