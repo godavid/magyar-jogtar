@@ -910,7 +910,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 - f) politikai párt vezető tisztségviselője vagy alkalmazottja, valamint önkormányzati vagy országgyűlési képviselő;
 - g) akitől a tárgyilagos eljárás egyéb okból nem várható el.
 
-(3) A támogatásra vonatkozó döntés előkészítésében vagy meghozatalában, továbbá a kifizetés engedélyezésében részt vevő személy a döntés-előkészítési vagy döntéshozatali eljárás megkezdésekor teljes bizonyító erejű magánokiratban nyilatkozatot tesz arról, hogy a (2) bekezdés szerinti összeférhetetlensége nem áll fenn, továbbá arról, hogy az értékelés, illetve bírálat során tudomására jutott államtitkot, szolgálati titkot, üzleti vagy banktitkot, fizetési titkot, illetve egyéb magántitkot megőrzi. A nyilatkozatot a döntéshozó szervnek át kell adni.
+(3) A támogatásra vonatkozó döntés előkészítésében vagy meghozatalában, továbbá a kifizetés engedélyezésében részt vevő személy a döntés-előkészítési vagy döntéshozatali eljárás megkezdésekor teljes bizonyító erejű magánokiratban nyilatkozatot tesz arról, hogy a (2) bekezdés szerinti összeférhetetlensége nem áll fenn, továbbá arról, hogy az értékelés, illetve bírálat során tudomására jutott minősített adatot üzleti vagy banktitkot, fizetési titkot, illetve egyéb magántitkot megőrzi. A nyilatkozatot a döntéshozó szervnek át kell adni.
 
 (4) Amennyiben a döntés előkészítése vagy meghozatala, illetve a kifizetés során olyan tény merül fel, amely alapján a (2) bekezdés szerinti összeférhetetlenség fennáll, az összeférhetetlenséggel érintett személy ezt a döntéshozó szervnek haladéktalanul írásban bejelenti. Az összeférhetetlenséggel érintett személy az adott eljárásban a továbbiakban nem vehet részt.
 

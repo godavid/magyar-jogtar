@@ -300,7 +300,7 @@ mutatott ki.
 
 ### Szakképzési hozzájárulás
 
-16/A. § (1) Az adóalany az általa munkaviszony keretében foglalkoztatott minden magánszemély (ide nem értve különösen a tevékenységében személyesen közreműködő tagját, valamint az alkalmi munkavállalói könyvvel foglalkoztatott személyt) után, a foglalkoztatás időszakának minden megkezdett hónapjára szakképzési hozzájárulás fizetésére köteles.
+16/A. § (1) Az adóalany az általa munkaviszony keretében foglalkoztatott minden magánszemély (ide nem értve különösen a tevékenységében személyesen közreműködő tagját, valamint az egyszerűsített foglalkoztatásról szóló törvény alapján alkalmi munka keretében foglalkoztatott személyt) után, a foglalkoztatás időszakának minden megkezdett hónapjára szakképzési hozzájárulás fizetésére köteles.
 
 (2) A szakképzési hozzájárulás mértéke magánszemélyenként havonta a tárgyhónap első napján érvényes minimálbér kétszeresének 1,5 százaléka.
 

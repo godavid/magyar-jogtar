@@ -369,7 +369,7 @@ Az igazságszolgáltatás feladatainak jogállami szintű ellátása, a bírói 
 - b) az OIT ülésének napirendjére javaslatot tenni,
 - c) a tagsággal kapcsolatban felmerült költségeinek megtérítésére.
 
-(2) Az OIT tag köteles az államtitkot és a szolgálati titkot megőrizni.
+(2) Az OIT tag köteles a minősített adatot megőrizni.
 
 (3) Az OIT bíró tagját a tagságából eredő feladatai ellátásához szükséges mértékben mentesíteni kell a bírói munka alól.
 

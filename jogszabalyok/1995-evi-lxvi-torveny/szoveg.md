@@ -13,7 +13,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 - a) a közfeladatot ellátó szervek irattári anyaga — ügyviteli és levéltári érdekekre, valamint a közérdekű adatok nyilvánosságának elvére tekintettel — szakszerűen kezelt és rendszerezett, jól használható forrásanyaggá váljék;
 - b) bármely szerv irattári anyagának, továbbá a természetes személyek irathagyatékának maradandó értékű része — a közlevéltárak és a nyilvános magánlevéltárak anyagaként vagy védett levéltári anyagként — épségben és használható állapotban a jövő nemzedékei számára is fennmaradjon;
 - c) a levéltári anyag használata során a közérdekű adatok megismerését és a tudományos kutatás szabadságát garantáló alkotmányos alapjogok érvényesítése a személyiséghez és a személyes adatokhoz fűződő alkotmányos alapjogok védelmével együtt valósuljon meg;
-- d) az államtitkot és a szolgálati titkot képező adatok védelme érvényre juthasson.
+- d) a minősített adatok védelme érvényre juthasson.
 
 ### A törvény hatálya
 
@@ -142,7 +142,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 
 11. § A nem selejtezhető köziratok fennmaradásának biztosítása érdekében a közfeladatot ellátó szerv iratainak védelmét és iratkezelésének rendjét — az iratkezelési szabályzat alapján — az illetékes közlevéltár ellenőrzi. Ellenőrzési feladatának ellátása során
 
-- a) az iratkezelői és az irattári helyiségbe beléphet, az iratokba — az államtitkot és a szolgálati titkot tartalmazó iratok kivételével — és az iratkezelési nyilvántartásokba betekinthet, az iratkezelési tevékenységet folyamatában vizsgálhatja;
+- a) az iratkezelői és az irattári helyiségbe beléphet, az iratokba — a minősített adatot tartalmazó iratok kivételével — és az iratkezelési nyilvántartásokba betekinthet, az iratkezelési tevékenységet folyamatában vizsgálhatja;
 - b) iratkezelési kérdésekben szaktanácsot ad, a nem selejtezhető iratok épségben és használható állapotban történő megőrzését súlyosan veszélyeztető hibákat és hiányosságokat jegyzőkönyvbe foglalja, megszüntetésükre vonatkozóan határidőt állapít meg;
 - c) ha a szerv a jegyzőkönyvben meghatározott ideig nem intézkedik, akkor a levéltár szabálysértési eljárás indítása céljából a felügyeleti szervet értesíti, annak hiányában a szabálysértési eljárás indítását maga kezdeményezi.
 
@@ -156,9 +156,9 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 
 (4) A közlevéltár tizenöt éven belül keletkezett közirat átvételére csak jogszabály alapján kötelezhető.
 
-(5) A tizenöt évnél régebben keletkezett, államtitkot vagy szolgálati titkot tartalmazó, nem selejtezhető iratokat a minősítő által meghatározott érvényességi idő lejártát követő naptári év végéig kell az illetékes közlevéltárnak átadni.
+(5) A tizenöt évnél régebben keletkezett, minősített adatot tartalmazó, nem selejtezhető iratokat a minősítő által meghatározott érvényességi idő lejártát követő naptári év végéig kell az illetékes közlevéltárnak átadni.
 
-(6) Az iratokat őrző szerv kezdeményezésére az illetékes közlevéltár az érvényességi idő lejárta előtt is átvehet államtitkot vagy szolgálati titkot tartalmazó iratokat, ha azok megfelelő őrzésének és kezelésének feltételeit biztosítani tudja.
+(6) Az iratokat őrző szerv kezdeményezésére az illetékes közlevéltár az érvényességi idő lejárta előtt is átvehet minősített adatot tartalmazó iratokat, ha azok megfelelő őrzésének és kezelésének feltételeit biztosítani tudja.
 
 (7) A közfeladatot ellátó szerv azoknak a nem selejtezhető iratoknak a használatát, amelyek a 22. § (1) bekezdésében meghatározott kutatási korlátozási idő eltelte után is az őrizetében vannak, a közlevéltárban lévő anyagra vonatkozó szabályok szerint köteles biztosítani.
 
@@ -298,7 +298,7 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 (4) A (3) bekezdésben meghatározott adatvédelmi szerződésen alapuló adattovábbítást – a 24. § (1) bekezdésében foglalt védelmi idő lejártáig – az érintett, illetőleg annak halálát követően bármely örököse vagy hozzátartozója megtilthatja. A tiltakozási jog gyakorlásával kapcsolatos eljárás szabályait a kultúráért felelős miniszter állapítja meg.
 
-25. § (1) A minősítő által meghatározott érvényességi idő lejártáig az államtitkot, szolgálati titkot vagy törvényben meghatározott egyéb más titkot tartalmazó levéltári anyagban csak a minősítő hozzájárulásával folytatható kutatás.
+25. § (1) A minősítő által meghatározott érvényességi idő lejártáig a minősített adatot vagy törvényben meghatározott egyéb más titkot tartalmazó levéltári anyagban csak a minősítő hozzájárulásával folytatható kutatás.
 
 (2) Nem engedélyezhető a kutatás
 

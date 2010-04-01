@@ -38,7 +38,7 @@ a polgári perrendtartásról
 
 5. § (1) A bíróság – ha törvény eltérően nem rendelkezik – a felek közötti jogvitát nyilvános tárgyaláson bírálja el.
 
-(2) A bíróság a nyilvánosságot indokolt határozatával az egész tárgyalásról vagy annak egy részéről kizárhatja, ha az államtitok, szolgálati titok, üzleti titok vagy külön törvényben meghatározott más titok megőrzése végett feltétlenül szükséges. A bíróság a nyilvánosságot a közerkölcs védelmében, valamint az ügyfél kérelmére abban az esetben is kizárhatja, ha az a fél személyiségi jogainak védelme érdekében indokolt. A bíróság a nyilvánosságot különösen indokolt esetben a tárgyalásnak a tanúkihallgatással érintett részéről akkor is kizárhatja, ha a tanú adatainak zártan kezelését rendelte el, és a zárt tárgyaláson történő meghallgatás a tanú, illetve hozzátartozója életének, testi épségének a megóvása érdekében feltétlenül szükséges.
+(2) A bíróság a nyilvánosságot indokolt határozatával az egész tárgyalásról vagy annak egy részéről kizárhatja, ha az minősített adat, üzleti titok vagy külön törvényben meghatározott más titok megőrzése végett feltétlenül szükséges. A bíróság a nyilvánosságot a közerkölcs védelmében, valamint az ügyfél kérelmére abban az esetben is kizárhatja, ha az a fél személyiségi jogainak védelme érdekében indokolt. A bíróság a nyilvánosságot különösen indokolt esetben a tárgyalásnak a tanúkihallgatással érintett részéről akkor is kizárhatja, ha a tanú adatainak zártan kezelését rendelte el, és a zárt tárgyaláson történő meghallgatás a tanú, illetve hozzátartozója életének, testi épségének a megóvása érdekében feltétlenül szükséges.
 
 (3) A bíróság a tárgyalás során hozott határozatát nyilvánosan hirdeti ki.
 
@@ -1037,7 +1037,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 ### Az iratok megtekintése; másolatok
 
-119. § (1) A felek, az ügyész és a perben részt vevő egyéb személyek, valamint azok képviselői a per iratait – a határozatok tervezeteinek és az esetleges különvéleménynek kivételével – a per bármely szakaszában külön engedély nélkül megtekinthetik és azokról maguknak másolatokat (kivonatokat) készíthetnek. Olyan tárgyalásról készült jegyzőkönyvet azonban, amelyről a nyilvánosságot államtitok vagy szolgálati titok megőrzése végett zárták ki, illetve az államtitkot vagy szolgálati titkot tartalmazó egyéb okiratot lemásolni vagy arról kivonatot készíteni nem szabad. Ilyen ügyben az iratok megtekintésének is csak az államtitokról és szolgálati titokról szóló törvényben meghatározott engedély, valamint az abban meghatározott szabályok alapján a bíróság elnöke által megállapított feltételek mellett van helye.
+119. § (1) A felek, az ügyész és a perben részt vevő egyéb személyek, valamint azok képviselői a per iratait – a határozatok tervezeteinek és az esetleges különvéleménynek kivételével – a per bármely szakaszában külön engedély nélkül megtekinthetik és azokról maguknak másolatokat (kivonatokat) készíthetnek. Olyan tárgyalásról készült jegyzőkönyvet azonban, amelyről a nyilvánosságot minősített adat megőrzése végett zárták ki, illetve a minősített adatot tartalmazó egyéb okiratot lemásolni vagy arról kivonatot készíteni nem szabad. Ilyen ügyben az iratok megtekintésének is csak a minősített adat védelméről szóló törvényben meghatározott engedély, valamint az abban meghatározott szabályok alapján a bíróság elnöke által megállapított feltételek mellett van helye.
 
 (2) A felek, az ügyész és a perben részt vevő egyéb személyek, valamint azok képviselői az eljárás során az üzleti titkot, hivatásbeli titkot vagy a külön törvényben meghatározott, az (1) bekezdésben nem említett más titkot tartalmazó iratok esetében – a titok megtartásának kötelezettségét tartalmazó, írásba foglalt nyilatkozat megtétele mellett –, az eljáró bíró által megállapított rendben és szabályok szerint gyakorolhatják az iratbetekintési és másolatkészítési jogot. Ha azonban a titoktartás alóli felmentés megadására jogosult a 192. § (3) bekezdése alapján határidőben úgy nyilatkozott, hogy az üzleti titkot vagy hivatásbeli titkot tartalmazó irat megismeréséhez nem járul hozzá, a bíróságon és a jegyzőkönyvvezetőn (leírón) kívül az irat ezen titkot tartalmazó részét más nem tekintheti meg, azt lemásolni vagy arról kivonatot készíteni nem szabad. Ha a per tárgyát annak eldöntése képezi, hogy az okirat tartalma közérdekű adatnak minősül-e, az eljárás során ezen okiratot megismerni nem lehet, és az az eljárás jogerős befejezése után is csak a per eldöntéséhez képest tekinthető meg, illetve másolható le; e rendelkezést a bíróságra, a jegyzőkönyvvezetőre (leíróra) és arra a perbeli személyre, aki az iratot benyújtotta, nem kell alkalmazni.
 
@@ -1138,7 +1138,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (5) Ha a (3)–(4) bekezdésben foglalt intézkedések megtételével egyidejűleg a tárgyalási határnap kitűzésére nem kerül sor, a bíróság – az intézkedés megtételekor – a keresetlevelet kézbesíti az ellenfél számára.
 
-(6) Ha a bíróság észleli, hogy a keresetlevél vagy az ahhoz csatolt okirat államtitkot vagy szolgálati titkot tartalmaz, megkeresi a minősítőt a megismerési engedély beszerzése végett. A 192/A. § rendelkezéseit ebben az esetben is megfelelően alkalmazni kell.
+(6) Ha a bíróság észleli, hogy a keresetlevél vagy az ahhoz csatolt okirat minősített adatot tartalmaz, megkeresi a minősítőt a megismerési engedély beszerzése végett. A 192/A. § rendelkezéseit ebben az esetben is megfelelően alkalmazni kell.
 
 ### A tárgyalás kitűzése
 
@@ -1551,7 +1551,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 169. § (1) Azt, akitől testi vagy szellemi fogyatkozása miatt helyes vallomás nem várható, tanúként kihallgatni nem lehet.
 
-(2) A tanú, ha a titoktartás alól felmentést nem kapott, nem hallgatható ki olyan kérdésről, amely államtitoknak vagy szolgálati titoknak minősül.
+(2) A tanú, ha a titoktartás alól felmentést nem kapott, nem hallgatható ki olyan kérdésről, amely minősített adatnak minősül.
 
 (3) A titoktartási kötelezettség az annak alapjául szolgáló viszony megszűnése után is fennmarad.
 
@@ -1764,7 +1764,7 @@ az okozott költségek megtérítésére kötelezi, s egyben pénzbírsággal s�
 
 192. § (1) Bíróságnál, más hatóságnál, közjegyzőnél vagy valamely szervezetnél lévő irat beszerzése iránt a fél kérelmére a bíróság intézkedik, ha az irat kiadását a fél közvetlenül nem kérheti. Az eredeti okirat beszerzése mellőzhető, ha az eredeti okirat megtekintésére nincs szükség és a fél a tárgyaláson annak hiteles vagy egyszerű másolatát bemutatja [191. § (1) bek].
 
-(2) Az okirat megküldése csak akkor tagadható meg, ha az államtitkot vagy szolgálati titkot tartalmaz; a titoktartás alóli felmentésre a 169. §-t kell megfelelően alkalmazni.
+(2) Az okirat megküldése csak akkor tagadható meg, ha az minősített adatot tartalmaz; a titoktartás alóli felmentésre a 169. §-t kell megfelelően alkalmazni.
 
 (3) Ha a perbíróság megítélése szerint a megküldött okirat tartalma üzleti titoknak vagy hivatásbeli titoknak minősül, a bíróság megkeresi a titoktartás alóli felmentés megadására jogosultat (titokgazda) a titok megismerésének engedélyezése céljából. Ha a titokgazda a megkeresés kézhezvételétől számított nyolc napon belül nem nyilatkozik, az engedélyt megadottnak kell tekinteni; erre a titokgazdát a megkeresésben figyelmeztetni kell. Egyebekben a 170. §-t megfelelően alkalmazni kell. Ha a titokgazda határidőn belül úgy nyilatkozik, hogy az üzleti vagy hivatásbeli titok felek által történő megismeréséhez nem járul hozzá, az okirat ezen része bizonyítékként nem használható fel.
 
@@ -1772,9 +1772,9 @@ az okozott költségek megtérítésére kötelezi, s egyben pénzbírsággal s�
 
 (5) A bíróság az iratok, valamint a titokgazda nyilatkozatának beérkezéséről, illetve ennek elmaradásáról a feleket tájékoztatja.
 
-192/A. § (1) A perben bizonyítékként nem használható fel az államtitkot vagy szolgálati titkot tartalmazó okirat (az okirat ilyen titkot tartalmazó része), melynek a fél általi megismeréséhez a minősítő nem járult hozzá.
+192/A. § (1) A perben bizonyítékként nem használható fel a minősített adatot tartalmazó okirat (az okirat ilyen titkot tartalmazó része), melynek a fél általi megismeréséhez a minősítő nem járult hozzá.
 
-(2) Az (1) bekezdés nem alkalmazható, ha a pert a megismerési kérelem megtagadása miatt indították, vagy a per tárgyát annak eldöntése képezi, hogy az okirat tartalma államtitoknak vagy szolgálati titoknak minősül-e. Az ilyen perben a felperes, a felperes oldalán beavatkozó személy és ezek képviselője az államtitkot, szolgálati titkot az eljárás során nem ismerheti meg. A perben résztvevő egyéb személyek, valamint azok képviselői az államtitkot, szolgálati titkot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti legmagasabb szintű nemzetbiztonsági ellenőrzésüket elvégezték.
+(2) Az (1) bekezdés nem alkalmazható, ha a pert a megismerési kérelem megtagadása miatt indították, vagy a per tárgyát annak eldöntése képezi, hogy az okirat tartalma minősített adatnak minősül-e. Az ilyen perben a felperes, a felperes oldalán beavatkozó személy és ezek képviselője a minősített adatot az eljárás során nem ismerheti meg. A perben résztvevő egyéb személyek, valamint azok képviselői a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti legmagasabb szintű nemzetbiztonsági ellenőrzésüket elvégezték.
 
 193. § Olyan tényállásra vonatkozóan, amely okirattal bizonyítható, a bíróság az egyéb bizonyítást mellőzheti.
 
@@ -2882,7 +2882,7 @@ kérdésében.
 - a) az ügyfél,
 - b) a kifejezetten rá vonatkozó rendelkezés tekintetében az eljárás egyéb résztvevője.
 
-(2) A keresetet az ellen a közigazgatási szerv ellen kell indítani, amelyik a felülvizsgálni kért határozatot hozta.
+(2) A keresetet az ellen a közigazgatási szerv ellen kell indítani, amelyik a felülvizsgálni kért határozatot hozta. Ha a közigazgatási szerv által hozott határozattal elbírált ügyben a közbeszerzési és közérdekvédelmi feladatok ellátására külön törvényben kijelölt vizsgálati eljárást indított, a perben beavatkozóként részt vehet.
 
 (3) Ha a fél a pert nem a felülvizsgálni kért határozatot hozó másodfokú, hanem az első fokú közigazgatási szerv ellen indította, a per során a másodfokú közigazgatási szervet perbe vonhatja.
 
@@ -2940,7 +2940,7 @@ kérdésében.
 
 (4) A végrehajtás felfüggesztése tárgyában hozott végzés ellen külön fellebbezésnek van helye. A bíróságnak a végrehajtás felfüggesztését elrendelő végzése fellebbezésre tekintet nélkül végrehajtható.
 
-(5) Ha a közigazgatási eljárásban ellenérdekű fél is szerepelt, a bíróság értesíti őt a beavatkozás lehetőségéről.
+(5) Ha a közigazgatási eljárásban ellenérdekű ügyfél vagy a közbeszerzési és közérdekvédelmi feladatok ellátására külön törvényben kijelölt szerv ügyfélként szerepelt, a bíróság értesíti őt a beavatkozás lehetőségéről.
 
 (6) Ha a közigazgatási határozat meghozatalára szakhatósági állásfoglalás alapulvételével került sor, az alperes a szakhatóságot perbe hívhatja, amely a perbehívást nem utasíthatja vissza.
 
@@ -2989,7 +2989,9 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 ### Egyesítés
 
-335/B. § A közigazgatási perekben az azonos hatáskörű bíróságok előtt folyamatban lévő perek egyesítésének is helye van. Ha az egyesítést több, azonos hatáskörű bíróság is elrendelte, a továbbiakban az jár el, amely az egyesítésről korábban határozott.
+335/B. § (1) A közigazgatási perekben az azonos hatáskörű bíróságok előtt folyamatban lévő perek egyesítésének is helye van. Ha az egyesítést több, azonos hatáskörű bíróság is elrendelte, a továbbiakban az jár el, amely az egyesítésről korábban határozott.
+
+(2) Az azonos hatáskörű bíróságok előtt folyamatban lévő pereket egyesíteni kell, ha a közigazgatási szerv által hozott határozattal elbírált ügyben a közbeszerzési és közérdekvédelmi feladatok ellátására külön törvényben kijelölt szerv is eljárt, és a közigazgatási szerv, valamint a közbeszerzési és közérdekvédelmi feladatok ellátására külön törvényben kijelölt szerv által elbírált ügyben hozott határozatok bírósági felülvizsgálata folyamatban van.
 
 ### Viszontkereset
 

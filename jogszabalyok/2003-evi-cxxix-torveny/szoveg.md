@@ -420,7 +420,7 @@ aki a) az ajánlatkérővel, illetőleg az ajánlattevővel (e § alkalmazása s
 
 29. § (1) E fejezet szerinti eljárást nem kell alkalmazni
 
-- a) az államtitkot vagy szolgálati titkot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzésre, amelynek vonatkozásában az Országgyűlés illetékes bizottsága e törvény alkalmazását kizáró előzetes döntést hozott;
+- a) a minősített adatot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzésre, amelynek vonatkozásában az Országgyűlés illetékes bizottsága e törvény alkalmazását kizáró előzetes döntést hozott;
 - b) a védelem terén az ország alapvető biztonsági érdekeit érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk (fegyverek, lőszerek, hadianyagok) beszerzésére, illetőleg szolgáltatások megrendelésére, összhangban az Európai Közösséget létrehozó szerződés 296. cikkével;
 - c) nemzetközi szerződésben, illetőleg nemzetközi egyetértési vagy együttműködési megállapodásban meghatározott külön eljárás alapján történő beszerzésre, ha a szerződés, illetőleg a megállapodás csapatok (katonai erők) állomásoztatására, átvonulására, alkalmazására vonatkozik, ideértve hadműveleti területre kihelyezésre (áthelyezésre) kerülő egységek esetében a kihelyezés (áthelyezés) megvalósításával összefüggő beszerzéseket is;
 - d) nemzetközi szerződésben meghatározott külön eljárás alapján történő beszerzésre, ha az Európai Unión kívüli állammal kötött szerződés projekt közös megvalósításával, illetőleg hasznosításával összefüggő beszerzésre vonatkozik;
@@ -2062,7 +2062,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 175. § E fejezet szerinti eljárást nem kell alkalmazni
 
-- a) az államtitkot vagy szolgálati titkot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzésre;
+- a) a minősített adatot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzésre;
 - b) nemzetközi szerződésben meghatározott külön eljárás alapján történő beszerzésre, tervpályázatra, ha az Európai Unión kívüli állammal kötött szerződés projekt közös megvalósításával, illetőleg hasznosításával összefüggő beszerzésre, tervpályázatra vonatkozik;
 - c) nemzetközi szerződésben, illetőleg nemzetközi egyetértési vagy együttműködési megállapodásban meghatározott külön eljárás alapján történő beszerzésre, ha a szerződés, illetőleg a megállapodás csapatok (katonai erők) állomásoztatására, átvonulására, alkalmazására vonatkozik;
 - d) nemzetközi szervezet által meghatározott külön eljárás alapján történő beszerzésre.
@@ -3377,7 +3377,7 @@ kezdeményezheti.
 
 336. § (1) A Közbeszerzési Döntőbizottság által tartott tárgyaláson az ügyfeleken kívül egyéb érdekeltek is – személyesen vagy képviselőik útján – jelen lehetnek, észrevételt tehetnek, illetőleg a tárgyalás befejezéséig bizonyítékokat terjeszthetnek elő.
 
-(2) A tárgyalás nyilvános. A Közbeszerzési Döntőbizottság indokolt végzésével a tárgyalásról vagy annak egy részéről a nyilvánosságot kérelemre vagy hivatalból kizárhatja, ha az államtitok, szolgálati titok, üzleti titok vagy külön törvényben meghatározott más titok megőrzése miatt feltétlenül szükséges.
+(2) A tárgyalás nyilvános. A Közbeszerzési Döntőbizottság indokolt végzésével a tárgyalásról vagy annak egy részéről a nyilvánosságot kérelemre vagy hivatalból kizárhatja, ha a minősített adat, üzleti titok vagy külön törvényben meghatározott más titok megőrzése miatt feltétlenül szükséges.
 
 ### Az iratok megtekintése
 
@@ -3385,11 +3385,11 @@ kezdeményezheti.
 
 (2) Az ajánlatkérő és az ajánlattevő, a részvételre jelentkező – az üzleti titok védelmére hivatkozással – kérheti az (1) bekezdés szerinti személyek iratbetekintési jogának kizárását vagy korlátozását az olyan iratok vagy adatok tekintetében, amelyek nem minősülnek közérdekű adatnak vagy közérdekből nyilvános adatnak, megismerésük hiánya nem akadályozza az ellenérdekű ügyfelet jogorvoslati jogának gyakorlásában, ugyanakkor az iratok vagy adatok mások általi megismerése aránytalanul súlyosan sértené az ügyfél üzleti érdekeit. A kérelemről való döntéssel egyidejűleg a Közbeszerzési Döntőbizottság kötelezheti az érintettet olyan iratváltozat elkészítésére, amely nem tartalmaz üzleti titkot.
 
-(3) Az (1) bekezdésben meghatározottakon kívüli személyek akkor tekinthetnek be a közbeszerzési eljárás, illetőleg a jogorvoslati eljárás során keletkezett iratokba, illetőleg készíthetnek azokról másolatot, feljegyzést, ha az iratok ismeretéhez jogos érdekük fűződik, és az iratbetekintés nem ütközik a titokvédelmi szabályokba. Egyébként a Közbeszerzési Döntőbizottság engedélye szükséges.
+(3) Az (1) bekezdésben meghatározottakon kívüli személyek akkor tekinthetnek be a közbeszerzési eljárás, illetőleg a jogorvoslati eljárás során keletkezett iratokba, illetőleg készíthetnek azokról másolatot, feljegyzést, ha az iratok ismeretéhez jogos érdekük fűződik, és az iratbetekintés nem ütközik a minősített adat védelmére vonatkozó szabályokba. Egyébként a Közbeszerzési Döntőbizottság engedélye szükséges.
 
-(4) Betekintési engedély hiányában nem lehet betekinteni az államtitkot, illetőleg a szolgálati titkot tartalmazó iratba. Nem lehet betekinteni a törvény által védett egyéb adatot tartalmazó iratba sem, ha azt az érintett adat védelmét szabályozó törvény kizárja, vagy ha a védett adat megismerésének hiánya nem akadályozza az (1) bekezdésben meghatározott, betekintést kérő személyt jogorvoslati jogának gyakorlásában.
+(4) Felhasználói engedély hiányában nem lehet betekinteni a minősített adatot tartalmazó iratba. Nem lehet betekinteni a törvény által védett egyéb adatot tartalmazó iratba sem, ha azt az érintett adat védelmét szabályozó törvény kizárja, vagy ha a védett adat megismerésének hiánya nem akadályozza az (1) bekezdésben meghatározott, betekintést kérő személyt jogorvoslati jogának gyakorlásában.
 
-(5) Az olyan tárgyalásról készült jegyzőkönyvet, amelyről a nyilvánosságot államtitok vagy szolgálati titok megőrzése miatt zárták ki, nem lehet lemásolni vagy arról feljegyzést készíteni. Ilyen ügyben az iratok megtekintésének is csak – az államtitokról és a szolgálati titokról szóló törvényben meghatározott megismerési engedély alapján – a Közbeszerzési Döntőbizottság elnöke által megállapított feltételek mellett van helye.
+(5) Az olyan tárgyalásról készült jegyzőkönyvet, amelyről a nyilvánosságot a minősített adat védelmében zárták ki, nem lehet lemásolni vagy arról feljegyzést készíteni. Ilyen ügyben az iratok megtekintésének is csak – a minősített adat védelméről szóló törvényben meghatározottak alapján – a Közbeszerzési Döntőbizottság elnöke által megállapított feltételek mellett van helye.
 
 ### Az eljárási bírság
 
@@ -3970,7 +3970,7 @@ megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket
 
 (2) A Döntőbizottság elnökét távolléte esetén az elnökhelyettes teljes jogkörrel helyettesíti.
 
-397. § (1) A Tanács elnöke, alelnöke és tagjai, a főtitkár, a Titkárság alkalmazottai és a közbeszerzési biztosok vagy azon személyek, akik ilyen tisztséget viseltek, tevékenységet végeztek, a feladatuk ellátásával kapcsolatban tudomásukra jutott szolgálati és üzleti titkot kötelesek megőrizni.
+397. § (1) A Tanács elnöke, alelnöke és tagjai, a főtitkár, a Titkárság alkalmazottai és a közbeszerzési biztosok vagy azon személyek, akik ilyen tisztséget viseltek, tevékenységet végeztek, a feladatuk ellátásával kapcsolatban tudomásukra jutott minősített adatot és üzleti titkot kötelesek megőrizni.
 
 (2) A Tanács elnöke, illetőleg a közbeszerzési biztos megkeresésére a közbeszerzéssel kapcsolatos ügyben minden szervezet köteles tizenöt napon belül tájékoztatást adni.
 
@@ -4062,7 +4062,7 @@ megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket
 - e) az elektronikusan gyakorolható eljárási cselekmények szabályait, valamint az elektronikus úton történő beszerzés – szükség szerint e törvénytől eltérő – szabályait; e szabályokba ütköző magatartás vagy mulasztás esetében e törvény VII. és X. fejezetét alkalmazni kell;
 - f) az építési beruházás esetében a közbeszerzésekkel kapcsolatos részletes szabályokat;
 - g) a gyógyszerek és a gyógyászati segédeszközök közbeszerzésének – e törvénytől az ilyen eljárások sajátossága miatt szükséges eltérő – részletes szabályait;
-- h) az államtitkot vagy a szolgálati titkot, illetőleg alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzések sajátos szabályait;
+- h) a minősített adatot, illetőleg alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzések sajátos szabályait;
 - i) a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk beszerzésére, illetőleg szolgáltatások megrendelésére vonatkozó sajátos szabályokat;
 - j) a NATO Biztonsági Beruházási Programja, valamint az egyéb közös finanszírozású NATO támogatott programok keretében megvalósuló beszerzésre vonatkozó részletes – e törvénytől az ilyen eljárások sajátossága miatt szükséges eltérő – szabályokat;
 - k) a hulladékkezelési közszolgáltató kiválasztására irányuló közbeszerzési eljárás részletes – e törvénytől az ilyen eljárások sajátossága miatt szükséges eltérő – szabályait;

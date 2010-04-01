@@ -388,7 +388,7 @@ tekintetében kell teljesülnie.
 
 (2) A szerződés értéke alatt a szerződés tárgyáért kikötött – általános forgalmi adó nélkül számított – ellenszolgáltatást kell érteni, ingyenes ügylet esetén pedig a vagyon piaci vagy könyv szerinti értéke közül a magasabb összeget kell figyelembe venni. Az időszakonként visszatérő – egy évnél hosszabb időtartamra kötött – szerződéseknél az érték kiszámításakor az ellenszolgáltatás egy évre számított összegét kell alapul venni. Az egy költségvetési évben ugyanazon szerződő féllel kötött azonos tárgyú szerződések értékét az (1) bekezdés szerinti közzétételi kötelezettség szempontjából egybe kell számítani.
 
-(3) A nyilvánosságra hozatali kötelezettség nem vonatkozik a nemzetbiztonsági, illetve honvédelmi érdekkel közvetlenül összefüggő beszerzésekre, valamint a nemzetközi jogi kötelezettség alapján, illetve – külön jogszabályban meghatározott egyéb okból – államtitokká, illetve szolgálati titokká minősített adatokra.
+(3) A nyilvánosságra hozatali kötelezettség nem vonatkozik a nemzetbiztonsági, illetve honvédelmi érdekkel közvetlenül összefüggő beszerzésekre, valamint a nemzetközi jogi kötelezettség alapján, illetve – külön jogszabályban meghatározott egyéb okból – minősített adatra.
 
 15/C. § A 15/A. § és a 15/B. § szerinti közzétételi kötelezettség teljesítését a helyi önkormányzatoknál, továbbá a kisebbségi önkormányzatoknál a kincstár ellenőrizheti. Amennyiben a helyi önkormányzat és a kisebbségi önkormányzat a közzétételi kötelezettségének teljes körűen nem tesz eleget és a támogatáshoz, illetve a pénzeszköz-felhasználáshoz kötött felhasználású központi költségvetési támogatás kapcsolódik, akkor a központi költségvetési támogatás felhasználása a 64/B. § szerinti jogtalan felhasználásnak minősül és e támogatást köteles – az ott meghatározott kamatfizetési kötelezettség mellett – a központi költségvetés javára visszafizetni.
 
@@ -2186,7 +2186,7 @@ az így felszabaduló előirányzat a működésképtelenné vált helyi önkorm
 
 (2)–(3)
 
-105. § (1) Az államháztartás alrendszereihez kapcsolódó vagyont, annak változásait és értékét nyilván kell tartani. Ezek az adatok — az államtitok kivételével — nyilvánosak.
+105. § (1) Az államháztartás alrendszereihez kapcsolódó vagyont, annak változásait és értékét nyilván kell tartani. Ezek az adatok — a minősített adat kivételével — nyilvánosak.
 
 (2) Az államháztartás alrendszerei közül a helyi önkormányzatok és a kisebbségi önkormányzatok vagyonáról külön törvény rendelkezik.
 
@@ -2571,7 +2571,7 @@ kialakítani és működtetni.
 
 (7) A belső ellenőrzést végző személyek feladatainak maradéktalan ellátása érdekében az ellenőrzött szerv, illetve szervezeti egység bármely helyiségébe beléphet, számára akadálytalan hozzáférést kell biztosítani valamennyi irathoz, adathoz és informatikai rendszerhez, kérésére az ellenőrzött szerv, illetve szervezeti egység bármely dolgozója köteles szóban vagy írásban információt szolgáltatni.
 
-(8) A belső ellenőrzést végző személy az ellenőrzött szervnél, illetve szervezeti egységnél államtitkot, szolgálati titkot, üzleti titkot tartalmazó iratokba és más dokumentumokba is betekinthet, azokról másolatot, kivonatot kérhet, illetve személyes adatokat kezelhet, a jogszabályokban meghatározott adat- és titokvédelmi előírások betartásával.
+(8) A belső ellenőrzést végző személy az ellenőrzött szervnél, illetve szervezeti egységnél minősített adatot, üzleti titkot tartalmazó iratokba és más dokumentumokba is betekinthet, azokról másolatot, kivonatot kérhet, illetve személyes adatokat kezelhet, a jogszabályokban meghatározott adatvédelmi, illetve a minősített adat védelmére vonatkozó előírások betartásával.
 
 (9) Büntető-, szabálysértési, kártérítési, illetve fegyelmi eljárás megindítására okot adó cselekmény, mulasztás vagy hiányosság gyanúja esetén a belső ellenőrzést végző szerv, illetve szervezeti egység vezetője köteles a költségvetési szerv vezetőjét haladéktalanul tájékoztatni.
 
@@ -2831,7 +2831,7 @@ rendeletben jelölje ki.
 
 (4) A helyi önkormányzati költségvetési szerveknél a 90. § (4) bekezdésében foglalt megvalósítási terv elkészítésétől az irányító szerv 2010–2011. években eltekinthet.
 
-126. § (1) Felhatalmazást kapnak a miniszterek, hogy az irányításuk vagy felügyeletük alá tartozó költségvetési szervek tekintetében az államháztartásért felelős miniszter egyetértésével rendeletben engedélyezzék a költségvetésben tervezettet meghaladó, a többletfeladatokkal összefüggő közhatalmi bevételekből származó (többlet)bevétel teljes vagy részbeni felhasználását.s
+126. § (1) Felhatalmazást kapnak a miniszterek, hogy az irányításuk vagy felügyeletük alá tartozó költségvetési szervek tekintetében az államháztartásért felelős miniszter egyetértésével rendeletben engedélyezzék a költségvetésben tervezettet meghaladó, a többletfeladatokkal összefüggő közhatalmi bevételekből származó (többlet)bevétel teljes vagy részbeni felhasználását.
 
 (2) Felhatalmazást kapnak a miniszterek, hogy az irányításuk vagy felügyeletük alá tartozó központi közhatalmi költségvetési szervek tekintetében az államháztartásért felelős miniszter egyetértésével rendeletben szabályozzák a szervek kiegészítő és kisegítő tevékenysége ellenértékének jogcímét, mértékét vagy mértéke megállapításának módját, valamint az ebből származó bevételek felhasználását.
 

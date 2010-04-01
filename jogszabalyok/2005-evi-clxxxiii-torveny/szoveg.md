@@ -1621,7 +1621,7 @@ kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képes
 
 (9) A vasúti vizsgaközpont a 36. § (4) bekezdésben meghatározott feladatának ellátása érdekében jogosult az alapvizsgára és időszakos vizsgára jelentkező személyek természetes személyazonosító adatainak, valamint vizsgaeredményeinek kezelésére. Ezen adatkezelésre a (4)–(7) bekezdésben foglaltakat kell megfelelően alkalmazni.
 
-(10) A közlekedési hatóság vezetője az államtitokról és a szolgálati titokról szóló törvény tekintetében minősítésre jogosultnak minősül.
+(10) A közlekedési hatóság vezetője a minősített adat védelméről szóló törvény tekintetében minősítésre jogosultnak minősül.
 
 ### EGYÜTTMŰKÖDÉS A GAZDASÁGI VERSENYHIVATALLAL
 

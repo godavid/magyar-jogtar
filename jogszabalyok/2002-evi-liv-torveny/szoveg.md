@@ -252,7 +252,7 @@ határidőt határozhat meg.
 
 (2) Ha a Magyarországon működő közös bűnfelderítő-csoport ügyészi, vagy bírói engedélyhez kötött titkos információgyűjtést folytat, ebben a közös bűnfelderítő-csoport kihelyezett tagja akkor lehet jelen, ha az ügyész, illetve a bíró a közös bűnfelderítő-csoport kihelyezett tagjának a jelenlétét engedélyezte.
 
-(3) A közös bűnfelderítő-csoport kihelyezett tagja a minősített adat tartalmát az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvényben meghatározottak szerint ismerheti meg.
+(3) A közös bűnfelderítő-csoport kihelyezett tagja a minősített adat tartalmát a minősített adat védelméről szóló törvényben meghatározottak szerint ismerheti meg.
 
 23. § (1) Az EUROPOL által kezdeményezett közös bűnfelderítő-csoportra, a tagok jogaira és kötelezettségeire e törvényt kell értelemszerűen alkalmazni. Az EUROPOL tisztviselője e törvény szerint vehet részt a közös bűnfelderítő-csoportban.
 

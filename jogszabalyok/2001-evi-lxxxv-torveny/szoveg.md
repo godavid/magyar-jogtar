@@ -312,7 +312,7 @@ a jogosult – az érintett hozzájárulásával, az akadály megszűnéséig, a
 
 ### Titok és adatvédelmi rendelkezések
 
-37. § A Szolgálat a minősített adatokra vonatkozó védelmi szabályok betartásával kezeli a Program elrendelése, valamint a végrehajtása során keletkezett, államtitoknak vagy szolgálati titoknak nem minősülő adatokat, továbbá az adathordozókat is.
+37. § A Szolgálat a minősített adatokra vonatkozó védelmi szabályok betartásával kezeli a Program elrendelése, valamint a végrehajtása során keletkezett, minősített adatnak nem minősülő adatokat, továbbá az adathordozókat is.
 
 38. § (1) A Szolgálat az érintett védelmének biztosítása céljából a Program elrendelése esetén
 
@@ -336,7 +336,7 @@ nyilvántartást vezet.
 
 (6) Az (1) bekezdésben meghatározott adatok a büntetőeljárásban résztvevők védelme tárgyában létrehozott nemzetközi szerződés, vagy a 34. § (3) bekezdésében meghatározott esetben viszonosság alapján – ha a továbbítás súlyos és közvetlen veszély elhárításához vagy súlyos bűncselekmény megelőzéséhez szükséges – nemzetközi és külföldi bűnüldöző, igazságszolgáltatási szervek részére átadhatók, amennyiben a személyes adatok kezelésének feltételei a külföldi adatkezelőnél minden egyes adat tekintetében teljesülnek.
 
-(7) A (6) bekezdésben meghatározott adattovábbítás esetén – amennyiben az államtitkot vagy szolgálati titkot érint – a titokvédelmi jogszabályok előírásai szerint kell eljárni.
+(7) A (6) bekezdésben meghatározott adattovábbítás esetén – amennyiben az minősített adatot érint – a minősített adat védelmére vonatkozó jogszabályok előírásai szerint kell eljárni.
 
 (8) A hatósági adatkezelést végző, illetve közokirat kiállítására jogosult szerv a 17. § szerinti megkeresések teljesítésére kizárólagosan jogosult személyt köteles kijelölni. A minősített adatot érintő megkereséseket a titokvédelemre vonatkozó jogszabályok által meghatározott, a titkos ügykezelőkre vonatkozó követelményeknek megfelelő személy teljesítheti.
 

@@ -242,6 +242,8 @@ jogerős és végrehajtható közigazgatási határozattal megállapította.
 
 (7) A munkaügyi hatóság a nyilvántartásban szereplő adatokat a bejegyzés alapjául szolgáló határozat jogerőssé és végrehajthatóvá válásának napjától számított két év elteltével törli.
 
+(8) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 57/A. § (2) bekezdése alapján kezelt adatokból a 2. §-ban meghatározott munkaügyi ellenőrzést végző személy – az ellenőrzési tevékenysége keretében – hatósági hozzáférést biztosító kód alkalmazásával, elektronikusan kérhet tájékoztatást.
+
 8/A. § (1) A munkaügyi eljárás határideje az eljárás megindításától számított negyvenöt munkanap
 
 - a) a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére,

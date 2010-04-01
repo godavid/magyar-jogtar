@@ -185,7 +185,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 13. § (1) A bíró tevékenységének megkezdése előtt a kinevezésétől számított 8 munkanapon belül esküt tesz a bíróság elnöke előtt az alábbi szöveggel:
 
-,,Én ……………… esküszöm, hogy hazámhoz a Magyar Köztársasághoz hű leszek; az Alkotmányt és a jogszabályokat megtartom; az állami és a szolgálati titkot megőrzöm, a hatáskörömbe tartozó ügyekben részrehajlás nélkül, lelkiismeretesen, kizárólag a törvényeknek megfelelően járok el (az esküt tevő meggyőződésének megfelelően: Isten engem úgy segéljen).''
+,,Én ……………… esküszöm, hogy hazámhoz a Magyar Köztársasághoz hű leszek; az Alkotmányt és a jogszabályokat megtartom; a minősített adatot megőrzöm, a hatáskörömbe tartozó ügyekben részrehajlás nélkül, lelkiismeretesen, kizárólag a törvényeknek megfelelően járok el (az esküt tevő meggyőződésének megfelelően: Isten engem úgy segéljen).''
 
 (2) Ha a bíró az eskü letételében akadályozva van, az (1) bekezdésben megjelölt határidőt az akadály megszűnésétől kell számítani. Ha a bíró a kinevezéstől számított 3 hónap elteltével az esküt nem tette le, tisztségéből fel kell menteni.
 
@@ -257,7 +257,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 (2) A bíró a döntés befolyásolására irányuló minden kísérletet köteles elhárítani és arról a bíróság elnökét tájékoztatni.
 
-27. § A bíró köteles az állami és szolgálati titkot szolgálati viszonya alatt és annak megszűnése után is megőrizni, a titoktartás alól csak törvényben meghatározott szerv adhat felmentést.
+27. § A bíró köteles a minősített adatot szolgálati viszonya alatt és annak megszűnése után is megőrizni, a titoktartás alól csak törvényben meghatározott szerv adhat felmentést.
 
 28. § (1) A bíró köteles a tisztségéhez méltó, kifogástalan magatartást tanúsítani és tartózkodni minden olyan megnyilvánulástól, amely a bírósági eljárásba vetett bizalmat vagy a bíróság tekintélyét csorbítaná.
 

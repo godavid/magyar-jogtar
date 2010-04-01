@@ -151,7 +151,7 @@ a büntetőeljárásról
 - b) az állam elleni bűncselekmények (Btk. X. Fejezet);
 - c) az emberiség elleni bűncselekmények (Btk. XI. Fejezet);
 - d) az emberölésre irányuló előkészület, a gondatlanságból elkövetett emberölés [Btk. 166. § (3) és (4) bek.], az erős felindulásban elkövetett emberölés (Btk. 167. §), az életveszélyt (halált) okozó testi sértés [Btk. 170. § (6) bek. és (7) bek. harmadik fordulata], az emberrablás (Btk. 175/A. §), az emberkereskedelem (Btk. 175/B. §), az egészségügyi beavatkozás, az orvostudományi kutatás rendje és az egészségügyi önrendelkezés elleni bűncselekmények (Btk. XII. Fejezet II. Cím);
-- e) a választás, a népszavazás és a népi kezdeményezés rendje elleni bűncselekmény (Btk. 211. §), az államtitok és a szolgálati titok megsértése (Btk. XV. Fejezet III. Cím), a hivatali bűncselekmények (Btk. XV. Fejezet IV. Cím), a nemzetközileg védett személy elleni erőszak (Btk. 232. §), a fogolyzendülés (Btk. 246. §), a nemzetközi bíróság előtt elkövetett igazságszolgáltatás elleni bűncselekmény (Btk. 249/B. §), a közélet (nemzetközi közélet) tisztasága elleni bűncselekmények (Btk. XV. Fejezet VII. és VIII. Cím);
+- e) a választás, a népszavazás és a népi kezdeményezés rendje elleni bűncselekmény (Btk. 211. §), visszaélés minősített adattal (Btk. XV. Fejezet III. Cím), a hivatali bűncselekmények (Btk. XV. Fejezet IV. Cím), a nemzetközileg védett személy elleni erőszak (Btk. 232. §), a fogolyzendülés (Btk. 246. §), a nemzetközi bíróság előtt elkövetett igazságszolgáltatás elleni bűncselekmény (Btk. 249/B. §), a közélet (nemzetközi közélet) tisztasága elleni bűncselekmények (Btk. XV. Fejezet VII. és VIII. Cím);
 - f) a terrorcselekmény (Btk. 261. §), a nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §), a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (Btk. 262. §), a bűnszervezetben részvétel (Btk. 263/C. §);
 - g) visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel [Btk. 263/B. §], a bennfentes kereskedelem (Btk. 299/A. §), a tőkebefektetési csalás (Btk. 299/B. §), a piramisjáték szervezése (Btk. 299/C. §), a pénzmosás (Btk. 303. §);
 - h) a különösen nagy, vagy ezt meghaladó vagyoni hátrányt okozó közveszélyokozás [Btk. 259. § (2) bek. b) pont], a különösen nagy, illetőleg a különösen jelentős vagyoni hátrányt okozó közérdekű üzem működésének megzavarása [Btk. 260. § (3) és (4) bek.], a különösen nagy, illetőleg a különösen jelentős kárt okozó számítástechnikai rendszer és adatok elleni bűncselekmény [Btk. 300/C. § (4) bek. b) és c) pont], a különösen nagy, vagy ezt meghaladó mértékű bevételcsökkenést okozó adócsalás [Btk. 310. § (4) bek.], munkáltatással összefüggésben elkövetett adócsalás [Btk. 310/A. § (4) bek.], és visszaélés jövedékkel [Btk. 311. § (4) bek. a) pont és 311. § (5) bek.], a különösen nagy, illetőleg a különösen jelentős értékű jövedéki termékre elkövetett jövedéki orgazdaság [Btk. 311/A. § (3) bek. a) pont és 311/A. § (4) bek.], a különösen nagy, vagy ezt meghaladó mértékű vámbevétel-csökkenést okozó csempészet [Btk. 312. § (4) bek. a) pont], a különösen nagy, illetőleg a különösen jelentős kárt okozó készpénz-helyettesítő fizetési eszközzel visszaélés [Btk. 313/C. § (5) bek. a) pont és 313/C. § (6) bek.], a különösen nagy, illetőleg a különösen jelentős értékre elkövetett lopás [Btk. 316. § (6) bek. a) pont és 316. § (7) bek.] és sikkasztás [Btk. 317. § (6) bek. a) pont és Btk. 317. § (7) bek.], a különösen nagy, illetőleg a különösen jelentős kárt okozó csalás [Btk. 318. § (6) bek. a) pont és 318. § (7) bek.], a különösen nagy, illetőleg a különösen jelentős vagyoni hátrányt okozó hűtlen kezelés [Btk. 319. § (3) bek. c) és d) pont], a különösen nagy, vagy ezt meghaladó vagyoni hátrányt okozó hanyag kezelés [Btk. 320. § (2) bek.], a különösen nagy, vagy ezt meghaladó értékre elkövetett rablás [Btk. 321. § (4) bek. b) pont] és kifosztás [Btk. 322. § (3) bek. a) pont], a különösen nagy, illetőleg a különösen jelentős kárt okozó rongálás [Btk. 324. § (5) bek. és 324. § (6) bek.], a különösen nagy, illetőleg a különösen jelentős értékre elkövetett orgazdaság [Btk. 326. § (5) bek. a) pont és 326. § (6) bek.], a különösen nagy, illetőleg a különösen jelentős vagyoni hátrányt okozó szerzői vagy szerzői joghoz kapcsolódó jogok megsértése [Btk. 329/A. § (3) bek.] és iparjogvédelmi jogok megsértése [Btk. 329/D. § (3) bek.];
@@ -796,24 +796,24 @@ bírálja el.
 
 (10) Az eljárás jogerős befejezését követően az első fokon eljárt bíróság, a nyomozás megszüntetését követően az ügyész, illetve a nyomozó hatóság, az eljárás megszüntetését vagy a vádemelés részbeni mellőzését követően az ügyész a büntetőeljárásban részt vevő személyek kérelmére – a (6)–(8) bekezdésben meghatározottak szerint – legkésőbb a kérelem előterjesztésétől számított nyolc napon belül az eljárás során keletkezett iratról másolatot ad ki.
 
-### Az államtitok és a szolgálati titok megismerése
+### A minősített adat megismerése
 
-70/C. § (1) A büntetőeljárás során a terhelt, a védő, a törvényes képviselő, a sértett, a magánvádló, a pótmagánvádló, a magánfél, az egyéb érdekelt, valamint a sértett, a magánvádló, a pótmagánvádló, a magánfél és az egyéb érdekelt képviselője jogosult megismerni azt az államtitkot, illetőleg szolgálati titkot, amit olyan irat tartalmaz, amelyet e törvény szerint megtekinthet.
+70/C. § (1) A büntetőeljárás során a terhelt, a védő, a törvényes képviselő, a sértett, a magánvádló, a pótmagánvádló, a magánfél, az egyéb érdekelt, valamint a sértett, a magánvádló, a pótmagánvádló, a magánfél és az egyéb érdekelt képviselője jogosult megismerni azt a minősített adatot, amit olyan irat tartalmaz, amelyet e törvény szerint megtekinthet.
 
-(2) Az államtitokról és a szolgálati titokról szóló törvényben meghatározott minősítő, illetve titokbirtokos szerv biztosítja, hogy az (1) bekezdésben felsoroltak a büntetőeljárás során általuk megismerhető államtitkot, illetőleg szolgálati titkot akkor is megismerhessék, ha a megismerés külön jogszabályban meghatározott feltételei a felsoroltaknál nem állnak fenn. Ebben az esetben az eljáró bíróság, ügyész, illetőleg nyomozó hatóság az érintetteket figyelmezteti, hogy az államtitkot, illetőleg a szolgálati titkot kötelesek megtartani, a figyelmeztetés kiterjed az államtitok, illetőleg a szolgálati titok megsértésének következményeire is. A figyelmeztetést jegyzőkönyvbe kell foglalni.
+(2) A minősített adat védelméről szóló törvényben meghatározott minősítő, illetve minősített adatot kezelő szerv biztosítja, hogy az (1) bekezdésben felsoroltak a büntetőeljárás során általuk megismerhető minősített adatot akkor is megismerhessék, ha a megismerés külön jogszabályban meghatározott feltételei a felsoroltaknál nem állnak fenn. Ebben az esetben az eljáró bíróság, ügyész, illetőleg nyomozó hatóság az érintetteket figyelmezteti, hogy a minősített adatot kötelesek megtartani, a figyelmeztetés kiterjed a minősített adattal visszaélés büntetőjogi következményeire is. A figyelmeztetést jegyzőkönyvbe kell foglalni.
 
-(3) Az államtitkot, illetőleg a szolgálati titkot tartalmazó irat kézbesítésére a 70. § rendelkezéseit a következő eltérésekkel kell alkalmazni:
+(3) A minősített adatot tartalmazó irat kézbesítésére a 70. § rendelkezéseit a következő eltérésekkel kell alkalmazni:
 
-- a) államtitkot, illetőleg a szolgálati titkot tartalmazó irat az államtitok és a szolgálati titok védelméről szóló jogszabályban foglaltak megtartásával, csak a bíróságnál, az ügyészségnél, illetőleg a nyomozó hatóságnál kézbesíthető,
-- b) az államtitok és a szolgálati titok védelméről szóló jogszabályban foglaltak megtartásának feltételeiről a címzettet nyilatkoztatni kell; ha a címzett kijelenti, hogy e feltételeknek nem felel meg, vagy nem tesz nyilatkozatot, a címzett az ilyen adatot tartalmazó iratot a bíróság, az ügyészség, illetőleg a nyomozó hatóság titkos ügykezelésre fenntartott helyiségéből nem viheti ki, részére államtitkot, illetőleg szolgálati titkot nem tartalmazó kivonatot kell kézbesíteni. Arról, hogy a kivonat nem tartalmaz államtitkot, illetőleg szolgálati titkot, a minősítőt nyilatkoztatni kell,
-- c) ha a címzett olyan nyilatkozatot tesz, hogy az államtitok és a szolgálati titok védelméről szóló jogszabályban foglalt feltételeknek megfelel, a bíróság, az ügyész, illetőleg a nyomozó hatóság a címzett részére államtitkot, illetőleg szolgálati titkot tartalmazó iratot kézbesít,
-- d) az a)–b) pontban írt korlátozás a titokvédelmi szabályzattal rendelkező szervezetre nem terjed ki.
+- a) minősített adatot tartalmazó irat a minősített adat védelméről szóló jogszabályban foglaltak megtartásával, csak a bíróságnál, az ügyészségnél, illetőleg a nyomozó hatóságnál kézbesíthető,
+- b) a minősített adat védelméről szóló jogszabályban foglaltak megtartásának feltételeiről a címzettet nyilatkoztatni kell; ha a címzett kijelenti, hogy e feltételeknek nem felel meg, vagy nem tesz nyilatkozatot, a címzett az ilyen adatot tartalmazó iratot a bíróság, az ügyészség, illetőleg a nyomozó hatóság titkos ügykezelésre fenntartott helyiségéből nem viheti ki, részére minősített adatot nem tartalmazó kivonatot kell kézbesíteni. Arról, hogy a kivonat nem tartalmaz minősített adatot, a minősítőt nyilatkoztatni kell,
+- c) ha a címzett olyan nyilatkozatot tesz, hogy a minősített adat védelméről szóló jogszabályban foglalt feltételeknek megfelel, a bíróság, az ügyész, illetőleg a nyomozó hatóság a címzett részére minősített adatot tartalmazó iratot kézbesít,
+- d) az a)–b) pontban írt korlátozás a biztonsági szabályzattal rendelkező szervezetre nem terjed ki.
 
-(4) A (3) bekezdés c) pontja esetén a kézbesítés előtt a bíróság, az ügyész, illetőleg a nyomozó hatóság ellenőrzi, hogy a címzett nyilatkozata a valóságnak megfelel-e. A bíróság, az ügyész, illetőleg a nyomozó hatóság ennek megállapítására az államtitok és a szolgálati titok védelméről szóló jogszabályban meghatározott titokvédelmi felügyelőt is megkeresheti.
+(4) A (3) bekezdés c) pontja esetén a kézbesítés előtt a bíróság, az ügyész, illetőleg a nyomozó hatóság ellenőrzi, hogy a címzett nyilatkozata a valóságnak megfelel-e. A bíróság, az ügyész, illetőleg a nyomozó hatóság ennek megállapítására a minősített adat védelméről szóló jogszabályban meghatározott biztonsági vezetőt is megkeresheti.
 
-(5) Az államtitkot, illetőleg a szolgálati titkot tartalmazó irat másolására és a másolat kezelésére a következő rendelkezéseket kell alkalmazni:
+(5) A minősített adatot tartalmazó irat másolására és a másolat kezelésére a következő rendelkezéseket kell alkalmazni:
 
-- a) ha az (1) bekezdésben felsoroltaknál az államtitok és a szolgálati titok védelméről szóló jogszabályban foglaltak megtartása nem biztosított, a jogosult részére az államtitkot, illetőleg a szolgálati titkot tartalmazó iratról másolatot kell készíteni, de a másolatot a jogosult a bíróság, az ügyészség, illetőleg a nyomozó hatóság titkos ügykezelésre fenntartott helyiségéből nem viheti ki,
+- a) ha az (1) bekezdésben felsoroltaknál a minősített adat védelméről szóló jogszabályban foglaltak megtartása nem biztosított, a jogosult részére a minősített adatot tartalmazó iratról másolatot kell készíteni, de a másolatot a jogosult a bíróság, az ügyészség, illetőleg a nyomozó hatóság titkos ügykezelésre fenntartott helyiségéből nem viheti ki,
 - b) a másolatot az eljárást folytató bíróság, ügyész, illetőleg nyomozó hatóság őrzi, de biztosítani kell, hogy a másolatot a jogosult a hivatali munkaidőben korlátozás nélkül tanulmányozhassa, és a bíróság hivatalos helyiségében az ügyben tartott tárgyalás idejére a másolat a jogosult rendelkezésére álljon.
 
 70/D. § (1) Az eljárás jogerős befejezését követően, a nyomozás vagy az eljárás megszüntetését, a vádemelés részbeni mellőzését követően az államtitkot, szolgálati titkot tartalmazó irat megismerésére a 70/C. § (1) bekezdése az irányadó.
@@ -916,7 +916,7 @@ bírálja el.
 
 (2) A bíróság nyilvános tárgyalásáról a sajtó jogosult tájékoztatást adni.
 
-(3) Meg kell tagadni a sajtó számára a felvilágosítást, ha az államtitkot vagy szolgálati titkot sértene, vagy egyébként az eljárás eredményes lefolytatását veszélyeztetné.
+(3) Meg kell tagadni a sajtó számára a felvilágosítást, ha a minősített adat védelmét sértené, vagy egyébként az eljárás eredményes lefolytatását veszélyeztetné.
 
 74/B. § (1) A bírósági tárgyalásról a nyilvánosság tájékoztatása érdekében hang- vagy képfelvételt a tanács elnöke engedélyével, a bírósági tárgyaláson jelenlévő személyről – a bíróság tagjain, a jegyzőkönyvvezetőn, az ügyészen és a védőn kívül – csak az érintett hozzájárulásával szabad készíteni. A tanács elnöke a tárgyalás folyamatosságának és zavartalanságának érdekében az engedélyt megtagadhatja, illetőleg azt a bírósági eljárás bármely szakaszában visszavonhatja.
 
@@ -985,9 +985,9 @@ bírálja el.
 - c) akitől a testi vagy szellemi állapota miatt nyilvánvalóan nem várható helyes vallomás,
 - d) a hatósági tanú olyan tényekre, adatokra, körülményekre nézve, amelyre titoktartási kötelezettség terheli, és ez alól a bíróság, az ügyész, illetőleg a nyomozó hatóság nem mentette fel.
 
-(2) Államtitoknak vagy szolgálati titoknak minősülő tényről nem hallgatható ki tanúként az, aki a titoktartási kötelezettség alól nem kapott felmentést.
+(2) Minősített adatról nem hallgatható ki tanúként az, aki a titoktartási kötelezettség alól nem kapott felmentést.
 
-(3) A (2) bekezdésben meghatározott esetben az államtitokról és a szolgálati titokról szóló törvényben meghatározott minősítő az ügyész, illetőleg a bíróság megkeresésére dönt a felmentés megadásáról vagy a titoktartási kötelezettség fenntartásáról. A felmentésre irányuló megkeresésben azonosításra alkalmas módon meg kell jelölni azokat a kérdéseket, amelyekre a felmentést kérik.
+(3) A (2) bekezdésben meghatározott esetben a minősített adat védelméről szóló törvényben meghatározott minősítő az ügyész, illetőleg a bíróság megkeresésére dönt a felmentés megadásáról vagy a titoktartási kötelezettség fenntartásáról. A felmentésre irányuló megkeresésben azonosításra alkalmas módon meg kell jelölni azokat a kérdéseket, amelyekre a felmentést kérik.
 
 82. § (1) A tanúvallomást megtagadhatja
 
@@ -2374,7 +2374,7 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 - a) öt évig terjedő vagy ennél súlyosabb szabadságvesztéssel büntetendő szándékos bűncselekmény,
 - b) üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény,
 - c) az emberkereskedelem, a tiltott pornográf felvétellel visszaélés, a kitartottság, a kerítés, az embercsempészés, a hivatali visszaélés és a bűnpártolás három évig terjedő szabadságvesztéssel fenyegetett alakzata,
-- d) szolgálati titoksértés bűncselekménye,
+- d) visszaélés minősített adattal bűncselekménye,
 - e) az a)–d) pontban meghatározott bűncselekmény kísérlete, valamint – ha az előkészületet a törvény büntetni rendeli – előkészülete
 
 esetében van helye.
@@ -2441,7 +2441,7 @@ esetében van helye.
 
 ### A titkos adatszerzés eredményének megismerése
 
-205. § (1) A titkos adatszerzés során keletkezett és rögzített adatok megóvásáról az ügyész, illetőleg a titkos adatszerzést folytatott nyomozó hatóság az államtitokról és a szolgálati titokról szóló törvényben szabályozottak szerint gondoskodik.
+205. § (1) A titkos adatszerzés során keletkezett és rögzített adatok megóvásáról az ügyész, illetőleg a titkos adatszerzést folytatott nyomozó hatóság a minősített adat védelméről szóló törvényben szabályozottak szerint gondoskodik.
 
 (2) A titkos adatszerzés tényét, valamint az azzal beszerzett és rögzített adatot a titkos adatszerzés végrehajtása során, illetőleg azt követően mindaddig, amíg a titkos adatszerzésről szóló jelentést az ügyész nem csatolta az iratokhoz, az engedélyező bíró, az ügyész és a nyomozó hatóság, valamint az ügyész és a nyomozó hatóság hivatali felettese (szolgálati elöljárója) ismerheti meg. A titkos adatszerzés engedélyezésével kapcsolatos bírósági iratokat az engedélyező bíró ügyelosztást végző vezetője, valamint a 207. § (1) bekezdésében meghatározott igazgatási vezetője is megismerheti.
 
@@ -2858,7 +2858,7 @@ ellen.
 - a) erkölcsi okból,
 - b) az eljárásban részt vevő kiskorú védelme érdekében,
 - c) az eljárásban részt vevő személyek (V. Fejezet) vagy a tanú védelme érdekében,
-- d) az államtitok vagy szolgálati titok megőrzése végett.
+- d) a minősített adat védelme végett.
 
 (4) A nyilvánosság kizárása az eljárás bármely szakaszában indítványozható.
 
@@ -2868,7 +2868,7 @@ ellen.
 
 (3) A nyilvánosság kizárása esetén a sértett, ha nincs képviselője, illetőleg a vádlott, ha nincs védője, indítványozhatja, hogy a tárgyalás helyszínén tartózkodó, általa megnevezett személy – kivéve a tárgyaláson kihallgatandó személyt – legyen jelen a tárgyaláson. Ha a nyilvánosságot a bíróság a 237. § (3) bekezdésének d) pontja alapján zárta ki, ilyen indítvány nem terjeszthető elő. Az indítvány tárgyában hozott határozat ellen fellebbezésnek nincs helye.
 
-(4) Ha a bíróság zárt tárgyalást rendel el, figyelmezteti a résztvevőket arra, hogy a tárgyaláson elhangzottakról tájékoztatást nem adhatnak, szükség esetén figyelmezteti őket az államtitok és a szolgálati titok megsértésének következményeire. A figyelmeztetést a jegyzőkönyvben fel kell tüntetni.
+(4) Ha a bíróság zárt tárgyalást rendel el, figyelmezteti a résztvevőket arra, hogy a tárgyaláson elhangzottakról tájékoztatást nem adhatnak, szükség esetén figyelmezteti őket a minősített adattal visszaélés büntetőjogi következményeire. A figyelmeztetést a jegyzőkönyvben fel kell tüntetni.
 
 239. § (1) A tárgyalást nyilvánosan kell folytatni, ha a zárt tárgyalás indoka megszűnt.
 

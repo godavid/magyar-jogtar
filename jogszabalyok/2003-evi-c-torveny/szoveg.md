@@ -386,7 +386,7 @@ alapelveit.
 
 ### Titoktartás
 
-29. § (1) A hatósággal közszolgálati jogviszonyban álló, illetve állt, valamint a munkavégzésre irányuló egyéb jogviszonyban álló, illetve állt személyek – a más szervezet számára jogszabályban előírt adatszolgáltatást kivéve – e jogviszony fennállása alatt, és azok megszűnését követően is kötelesek megőrizni a hatóság tevékenységével, annak ellátásával kapcsolatban tudomásukra jutott személyes adatot, állam-, szolgálati, illetve üzleti titkot, valamint minden olyan adatot, tényt vagy körülményt, amelyet a hatóság nem köteles törvény előírásai szerint a nyilvánosság számára hozzáférhetővé tenni.
+29. § (1) A hatósággal közszolgálati jogviszonyban álló, illetve állt, valamint a munkavégzésre irányuló egyéb jogviszonyban álló, illetve állt személyek – a más szervezet számára jogszabályban előírt adatszolgáltatást kivéve – e jogviszony fennállása alatt, és azok megszűnését követően is kötelesek megőrizni a hatóság tevékenységével, annak ellátásával kapcsolatban tudomásukra jutott személyes adatot, minősített adatot, illetve üzleti titkot, valamint minden olyan adatot, tényt vagy körülményt, amelyet a hatóság nem köteles törvény előírásai szerint a nyilvánosság számára hozzáférhetővé tenni.
 
 (2) Az (1) bekezdésben felsorolt személyek a feladataik ellátásával kapcsolatban tudomásukra jutott adatokat, tényt vagy körülményt nem tehetik jogosulatlanul közzé, nem hasznosíthatják, és nem hozhatják harmadik fél tudomására.
 
@@ -404,7 +404,7 @@ alapelveit.
 
 (6) A hatóság (5) bekezdésben foglalt végzése ellen az üzleti titokkal rendelkező ügyfél a Fővárosi Bírósághoz halasztó hatályú jogorvoslattal fordulhat az üzleti titok minősítés fenntartása érdekében. A bíróság az ügyben, szükség esetén a felek meghallgatása után, 15 napon belül nemperes eljárásban határoz. A Fővárosi Bíróság végzése ellen fellebbezésnek helye nincs.
 
-(7) Az eljárás egyéb résztvevői a hatóság engedélyével a (2) bekezdés szerinti kérelem hiányában is csak akkor tekinthetnek be az eljárás irataiba, és azokról akkor készíthetnek másolatot, feljegyzést, ha az iratok ismeretéhez jogos érdekük fűződik, és az iratbetekintés nem ütközik titokvédelmi jogszabályba, illetve az üzleti titkot nem sérti. A bejelentőnek – kérelmére – az érdemi határozat meghozatalát követő 15 napon belül a hatóság köteles lehetővé tenni, hogy az ügy irataiba – a (2) bekezdésben foglalt korlátozás figyelembevételével – betekinthessen, és azokról feljegyzést készíthessen.
+(7) Az eljárás egyéb résztvevői a hatóság engedélyével a (2) bekezdés szerinti kérelem hiányában is csak akkor tekinthetnek be az eljárás irataiba, és azokról akkor készíthetnek másolatot, feljegyzést, ha az iratok ismeretéhez jogos érdekük fűződik, és az iratbetekintés nem ütközik a minősített adat védelmére vonatkozó jogszabályba, illetve az üzleti titkot nem sérti. A bejelentőnek – kérelmére – az érdemi határozat meghozatalát követő 15 napon belül a hatóság köteles lehetővé tenni, hogy az ügy irataiba – a (2) bekezdésben foglalt korlátozás figyelembevételével – betekinthessen, és azokról feljegyzést készíthessen.
 
 (8) Amennyiben a külföldi hatóság igényli, a megkeresésre adott válaszában foglaltakat részben vagy egészben üzleti titokként kell kezelni, az üzleti titok kezelésére a (3) bekezdésben foglaltakat kell alkalmazni.
 
@@ -847,7 +847,7 @@ mivel az véleménye szerint az egységes piac akadálya lehet, vagy annak a kö
 
 (3) A hatósági nyilvántartásokban szereplő közérdekű adatokat bárki megismerheti, kivéve, ha jogszabály a hatósági nyilvántartásba való betekintést kifejezetten korlátozza.
 
-(4) A hatóság jogszabályban hatáskörébe utalt feladatainak körében egyéb nyilvántartásokat vezet a főigazgató által meghatározott egyéb adatokról, az adat- és titokvédelemre, valamint a közérdekű adatok nyilvánosságára vonatkozó jogszabályoknak megfelelően.
+(4) A hatóság jogszabályban hatáskörébe utalt feladatainak körében egyéb nyilvántartásokat vezet a főigazgató által meghatározott egyéb adatokról, az adat- és minősített adatvédelemre, valamint a közérdekű adatok nyilvánosságára vonatkozó jogszabályoknak megfelelően.
 
 ### Piacfelügyelet
 
@@ -2162,7 +2162,7 @@ köteles biztosítani.
 
 (5) A nyomozó hatóságok és a Rendvédelmi Szervek Védelmi Szolgálata (a továbbiakban együtt: nyomozó hatóságok), valamint a nemzetbiztonsági szolgálatok külön törvényben foglaltak szerint, továbbá a frekvenciagazdálkodó hatóságok – a 11. § (3) bekezdésében előírt jogkör gyakorlása során – a közléseket megfigyelhetik, lehallgathatják, tárolhatják vagy a küldeménybe, közlésbe azok megfigyelése érdekében más módokon beavatkozhatnak.
 
-(6) A szolgáltató – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 42. §-ában meghatározott adatszolgáltatás és adatbetekintés kivételével – köteles tájékoztatni az érintett nemzetbiztonsági szolgálatot a szolgálat államtitoknak minősített, védett telefonszámait érintő adatszolgáltatási megkeresésekről.
+(6) A szolgáltató – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 42. §-ában meghatározott adatszolgáltatás és adatbetekintés kivételével – köteles tájékoztatni az érintett nemzetbiztonsági szolgálatot a szolgálat minősített adatot képező, védett telefonszámait érintő adatszolgáltatási megkeresésekről.
 
 (7) Az életet, a testi épséget, a vagyont veszélyeztető fenyegetés, zsarolás alapos gyanúja esetén a nyomozóhatóság külön törvényben foglaltak szerint az előfizető vagy a felhasználó írásbeli kérelmére az előfizető vagy a felhasználó használatában lévő végberendezésen folytatott beszélgetés, üzenetküldés, e-mail levelezés útján vagy más módon továbbított közlést lebonyolítók személyes adatait a kérelemben foglalt időhatáron belül megismerheti és rögzítheti.
 
@@ -2287,7 +2287,7 @@ köteles biztosítani.
 
 (4) Az (1) bekezdésben foglalt adatszolgáltatások teljesítésekor az adatkérés jogszerűségéért az ügyben eljáró, adatkérésre felhatalmazott szerv a felelős. Az elektronikus hírközlési szolgáltató az (1) bekezdés szerint tárolt adatok, továbbá az (1) bekezdés szerinti adatszolgáltatás teljeskörűségéért, minőségéért és időszerűségéért felelős.
 
-(5) Az (1) bekezdés alapján adatmegőrzésre kötelezett elektronikus hírközlési szolgáltató az adatmegőrzés feladatával kizárólag abban az esetben bízhat meg adatfeldolgozóként más vállalkozást, illetve a megőrzött adatokat kizárólag abban az esetben tárolhatja az Európai Gazdasági Térség más tagállamában, ha a megőrzött adatokhoz való hozzáférés tekintetében az adatfeldolgozóval kötött adatmegőrzési szerződés tartalmazza az (1)–(2) bekezdés szerinti adatkérésekre vonatkozó hazai titokvédelmi szabályoknak megfelelő biztonsági és hozzáférési követelményeket. Az elektronikus hírközlési szolgáltató a megőrzött adatokat nem tárolhatja olyan ország területén, illetve az adatmegőrzés feladatával nem bízhat meg olyan országbeli adatfeldolgozót, amely ország az Európai Gazdasági Térségnek nem tagállama.
+(5) Az (1) bekezdés alapján adatmegőrzésre kötelezett elektronikus hírközlési szolgáltató az adatmegőrzés feladatával kizárólag abban az esetben bízhat meg adatfeldolgozóként más vállalkozást, illetve a megőrzött adatokat kizárólag abban az esetben tárolhatja az Európai Gazdasági Térség más tagállamában, ha a megőrzött adatokhoz való hozzáférés tekintetében az adatfeldolgozóval kötött adatmegőrzési szerződés tartalmazza az (1)–(2) bekezdés szerinti adatkérésekre vonatkozó hazai titokvédelmi, minősítettadat-védelmi szabályoknak megfelelő biztonsági és hozzáférési követelményeket. Az elektronikus hírközlési szolgáltató a megőrzött adatokat nem tárolhatja olyan ország területén, illetve az adatmegőrzés feladatával nem bízhat meg olyan országbeli adatfeldolgozót, amely ország az Európai Gazdasági Térségnek nem tagállama.
 
 (6) E § alkalmazásában kommunikáció valamely elektronikus hírközlési szolgáltatás révén megvalósított információcsere vagy információtovábbítás véges számú felek között, amely magában foglalja a sikertelen hívásokat. E § alkalmazásában a kommunikáció nem foglalja magában az elektronikus hírközlő hálózaton keresztül műsorterjesztési szolgáltatás részeként a nyilvánosságnak továbbított információt, kivéve, ha az információ az azt átvevő, azonosítható előfizetőhöz vagy felhasználóhoz kapcsolható.
 

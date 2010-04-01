@@ -53,7 +53,7 @@ javaslatára az Országgyűlés Mezőgazdasági Bizottsága választja, illetve 
 
 (3) Az NFA ellenőrző bizottság tagjai közül elnököt választ, és az összes tag többségével elfogadott ügyrend szerint működik.
 
-(4) Az NFA ellenőrző bizottság tagja – az (1) bekezdésben írt feladatainak ellátása során – jogosult az MNV Zrt. alkalmazottaitól tájékoztatást kérni, továbbá – a titokvédelmi szabályok betartása mellett – bármely, a Nemzeti Földalapba tartozó vagyonelem hasznosításával összefüggő iratba betekinteni.
+(4) Az NFA ellenőrző bizottság tagja – az (1) bekezdésben írt feladatainak ellátása során – jogosult az MNV Zrt. alkalmazottaitól tájékoztatást kérni, továbbá – a minősített adat védelmére vonatkozó szabályok betartása mellett – bármely, a Nemzeti Földalapba tartozó vagyonelem hasznosításával összefüggő iratba betekinteni.
 
 (5) Az NFA ellenőrző bizottság működési feltételeiről az MNV Zrt. gondoskodik.
 

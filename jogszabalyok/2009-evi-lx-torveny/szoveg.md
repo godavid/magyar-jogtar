@@ -41,7 +41,9 @@ Az Országgyűlés az állam szolgáltató jellegének erősítése, az állampo
 
 (2) A központi rendszer minden szolgáltatása elektronikus közszolgáltatásnak minősül.
 
-(3) Az elektronikus közszolgáltatások bárki számára elérhetőek.
+(3) A központi rendszerben kezelt adatok adatkezelőjének vezetője feladat és hatáskörében minősítésre jogosult.
+
+(4) Az elektronikus közszolgáltatások bárki számára elérhetőek.
 
 ### Az elektronikus közszolgáltatás alapelvei
 

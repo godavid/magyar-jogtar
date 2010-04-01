@@ -320,7 +320,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 - b) az uniós, illetve a kiállítási elsőbbségi igény érvényesítésére megszabott hat hónapos határidő elmulasztása esetén;
 - c) az igazolási és az eljárás folytatása iránti kérelem előterjesztésére megszabott határidők elmulasztása esetén.
 
-(3) Mintaoltalmi ügyekben a szabadalmi bejelentések államtitokként való kezelésére vonatkozó rendelkezések nem alkalmazhatók.
+(3) Mintaoltalmi ügyekben a szabadalmi bejelentések minősített adatként való kezelésére vonatkozó rendelkezések nem alkalmazhatók.
 
 ### VI. Fejezet — MINTAOLTALMI NYILVÁNTARTÁSOK, HATÓSÁGI TÁJÉKOZTATÁS
 

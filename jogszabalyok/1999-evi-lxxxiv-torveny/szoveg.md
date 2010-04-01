@@ -361,7 +361,7 @@ igényelhető.
 (2) Az (1) bekezdésben megjelölt határidőn belül a forgalomból kivonásra jogosult hatóságnak köteles bejelenteni:
 
 - a) a jármű tulajdonosa a jármű üzemeltetésének – a jármű elhasználódása vagy más okból történő – végleges megszűnését;
-- b) a biztosítóintézet a jármű azonosító adatait, ha a kárrendezési eljárásban úgy ítéli meg, hogy a jármű üzemeltetése műszaki állapota miatt véglegesen megszűntnek tekinthető.
+- b)
 
 (3) A jármű üzemben tartója (tulajdonosa), ha törvény eltérően nem rendelkezik, köteles a rendőrhatóság – adatkérés célját tartalmazó – felhívására a szabályszegés elkövetésekor a járművet vezető személyről adatot szolgáltatni. Az adatszolgáltatási kötelezettség legfeljebb az adatkérést megelőző hat hónap időtartamra terjed ki.
 

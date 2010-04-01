@@ -287,7 +287,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 23. § (1) A szabadalmi oltalom tartamára évenként, külön jogszabályban meghatározott fenntartási díjat kell fizetni. A díj az első évre a bejelentés napján, a további évekre a bejelentés napjának megfelelő naptári napon előre esedékes.
 
-(2) A szabadalmi bejelentés közzétételét megelőzően esedékessé vált fenntartási díjat a közzétételtől, az államtitokként kezelt szabadalom és az átmeneti szabadalmi oltalom megadását megelőzően esedékessé vált fenntartási díjat a megadó határozat jogerőre emelkedésétől, a többi fenntartási díjat pedig az esedékességtől számított hat hónapos türelmi idő alatt is meg lehet fizetni.
+(2) A szabadalmi bejelentés közzétételét megelőzően esedékessé vált fenntartási díjat a közzétételtől, a minősített adatként kezelt szabadalom és az átmeneti szabadalmi oltalom megadását megelőzően esedékessé vált fenntartási díjat a megadó határozat jogerőre emelkedésétől, a többi fenntartási díjat pedig az esedékességtől számított hat hónapos türelmi idő alatt is meg lehet fizetni.
 
 ### A szabadalmi oltalom terjedelme
 
@@ -665,23 +665,23 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (4) Szabadalmi ügyekben az eljárás csak akkor nyilvános, ha abban ellenérdekű fél is részt vesz.
 
-(5) A Magyar Szabadalmi Hivatal elnöke honvédelmi vagy nemzetbiztonsági érdekből – külön jogszabály szerinti eljárásban, a külön jogszabály rendelkezései szerint hatáskörrel rendelkező miniszter javaslata alapján – a szabadalmi bejelentést államtitokká minősítheti.
+(5) A Magyar Szabadalmi Hivatal elnöke honvédelmi vagy nemzetbiztonsági érdekből – külön jogszabály szerinti eljárásban, a külön jogszabály rendelkezései szerint hatáskörrel rendelkező miniszter javaslata alapján – a szabadalmi bejelentést minősítheti.
 
-(6) Nemzetközi szerződésből eredő kötelezettség alapján a szabadalmi bejelentést a Magyar Szabadalmi Hivatal elnöke az (5) bekezdésben említett eljárás lefolytatása nélkül minősíti államtitokká.
+(6) Nemzetközi szerződésből eredő kötelezettség alapján a szabadalmi bejelentést a Magyar Szabadalmi Hivatal elnöke az (5) bekezdésben említett eljárás lefolytatása nélkül minősíti.
 
-(7) A bejelentő és a feltaláló betekintési vagy megismerési engedély hiányában is jogosult szabadalmi bejelentése megtekintésére, ha azt államtitokká minősítették.
+(7) A bejelentő és a feltaláló felhasználói vagy megismerési engedély hiányában is jogosult szabadalmi bejelentése megtekintésére, ha azt minősítették.
 
-(8) Ha a szabadalmi bejelentést államtitokká minősítették, azzal kapcsolatban az 56. §, illetve a X/A–X/B. fejezetek alapján nem közölhető hatósági tájékoztatás.
+(8) Ha a szabadalmi bejelentést minősítették, azzal kapcsolatban az 56. §, illetve a X/A–X/B. fejezetek alapján nem közölhető hatósági tájékoztatás.
 
-(9) Ha a szabadalmi bejelentést államtitokká minősítették, a minősítésre javaslatot tevő miniszter – a (10) bekezdésben foglalt kivétellel – köteles a bejelentővel a szabadalom megadását követő ésszerű határidőn belül az általa vezetett minisztérium – tárca nélküli miniszter esetén a Miniszterelnöki Hivatal – javára kizárólagos hasznosítási jogot biztosító hasznosítási szerződést kötni. A hasznosítási szerződés hatálya a szabadalmi oltalom lejártáig, illetve – ha ez a korábbi – az államtitokká minősítés megszűnéséig tart; a szabadalmi oltalom fenntartásáról a hasznosító gondoskodik. A hasznosítási engedély ellenében járó díjnak arányban kell állnia azzal a díjjal, amely a találmány tárgya szerinti műszaki területen kialakult licenciaforgalmi viszonyok között szokásos. A szerződésben ki kell kötni, hogy ilyen mértékű, meghatározott összegű díj jár akkor is, ha a hasznosító az adott esetben általában elvárható időn belül nem kezdi meg a hasznosítást. A díj a szabadalmast a bejelentés napja és a szabadalom megadása közötti időtartamra is megilleti.
+(9) Ha a szabadalmi bejelentést minősítették, a minősítésre javaslatot tevő miniszter – a (10) bekezdésben foglalt kivétellel – köteles a bejelentővel a szabadalom megadását követő ésszerű határidőn belül az általa vezetett minisztérium – tárca nélküli miniszter esetén a Miniszterelnöki Hivatal – javára kizárólagos hasznosítási jogot biztosító hasznosítási szerződést kötni. A hasznosítási szerződés hatálya a szabadalmi oltalom lejártáig, illetve – ha ez a korábbi – a minősítés megszűnéséig tart; a szabadalmi oltalom fenntartásáról a hasznosító gondoskodik. A hasznosítási engedély ellenében járó díjnak arányban kell állnia azzal a díjjal, amely a találmány tárgya szerinti műszaki területen kialakult licenciaforgalmi viszonyok között szokásos. A szerződésben ki kell kötni, hogy ilyen mértékű, meghatározott összegű díj jár akkor is, ha a hasznosító az adott esetben általában elvárható időn belül nem kezdi meg a hasznosítást. A díj a szabadalmast a bejelentés napja és a szabadalom megadása közötti időtartamra is megilleti.
 
-(10) A (6) bekezdés alapján államtitokká minősített szabadalmi bejelentések esetében a (9) bekezdés rendelkezései nem alkalmazhatók.
+(10) A (6) bekezdés alapján minősített szabadalmi bejelentések esetében a (9) bekezdés rendelkezései nem alkalmazhatók.
 
-(11) Ahol nemzetközi szerződés ezt kifejezetten lehetővé teszi, a Magyar Szabadalmi Hivatal elnöke a szabadalmi bejelentések (6) bekezdés szerinti államtitokká minősítését megelőzően felhívja a bejelentőt, hogy írásbeli nyilatkozatban mondjon le az államtitokká minősítésből eredő kártalanítási igényeiről. Ha a bejelentő ezekről nem mond le, vagy a felhívásra a kitűzött határidőben nem válaszol, a szabadalmi bejelentést visszavontnak kell tekinteni.
+(11) Ahol nemzetközi szerződés ezt kifejezetten lehetővé teszi, a Magyar Szabadalmi Hivatal elnöke a szabadalmi bejelentések (6) bekezdés szerinti minősítését megelőzően felhívja a bejelentőt, hogy írásbeli nyilatkozatban mondjon le a minősítésből eredő kártalanítási igényeiről. Ha a bejelentő ezekről nem mond le, vagy a felhívásra a kitűzött határidőben nem válaszol, a szabadalmi bejelentést visszavontnak kell tekinteni.
 
-(12) A szabadalmi bejelentések (6) bekezdés alapján történő államtitokká minősítéséért a Magyar Állam csak akkor tartozik a bejelentőnek kártalanítással, ha az államtitokká minősítést a Magyar Állam kezdeményezte, ideértve azt az esetet is, ha a minősítés meghosszabbítását kérte vagy az Európai Atomenergia-közösségen kívüli bejelentés megtételét megakadályozta.
+(12) A szabadalmi bejelentések (6) bekezdés alapján történő minősítéséért a Magyar Állam csak akkor tartozik a bejelentőnek kártalanítással, ha a minősítést a Magyar Állam kezdeményezte, ideértve azt az esetet is, ha a minősítés meghosszabbítását kérte vagy az Európai Atomenergia-közösségen kívüli bejelentés megtételét megakadályozta.
 
-(13) Ha az államtitokká minősített szabadalmi bejelentést a Magyar Szabadalmi Hivatal elutasítja, a Magyar Szabadalmi Hivatal elnöke erről haladéktalanul értesíti a hatáskörrel rendelkező minisztert, egyúttal felkéri, hogy tegyen javaslatot az elutasított bejelentés tartalmát képező találmány államtitokká minősítésének megszüntetésére vagy a minősítés fenntartására. A Magyar Szabadalmi Hivatal elnöke a hatáskörrel rendelkező miniszter javaslata alapján dönt a minősítés fenntartásáról vagy megszüntetéséről. A minősítés fenntartása esetén a Magyar Állam az államtitokká minősítés miatt a bejelentőnek kártalanítással tartozik.
+(13) Ha a minősített szabadalmi bejelentést a Magyar Szabadalmi Hivatal elutasítja, a Magyar Szabadalmi Hivatal elnöke erről haladéktalanul értesíti a hatáskörrel rendelkező minisztert, egyúttal felkéri, hogy tegyen javaslatot az elutasított bejelentés tartalmát képező találmány minősítésének megszüntetésére vagy a minősítés fenntartására. A Magyar Szabadalmi Hivatal elnöke a hatáskörrel rendelkező miniszter javaslata alapján dönt a minősítés fenntartásáról vagy megszüntetéséről. A minősítés fenntartása esetén a Magyar Állam a minősítés miatt a bejelentőnek kártalanítással tartozik.
 
 ### Jogorvoslatok
 
@@ -1259,7 +1259,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 84/C. § (1) Európai szabadalmi bejelentést – a megosztással keletkező európai szabadalmi bejelentés kivételével – a Magyar Szabadalmi Hivatalnál is be lehet nyújtani.
 
-(2) A Magyar Szabadalmi Hivatalnál kell benyújtani az európai szabadalmi bejelentést, ha a bejelentő magyar állampolgár, illetve ha lakóhelye vagy székhelye belföldön van, kivéve, ha az európai szabadalmi bejelentés a Magyar Szabadalmi Hivatalhoz legalább két hónappal korábban benyújtott olyan szabadalmi bejelentés elsőbbségét érvényesíti, amelyet a Magyar Szabadalmi Hivatal elnöke nem minősített államtitokká.
+(2) A Magyar Szabadalmi Hivatalnál kell benyújtani az európai szabadalmi bejelentést, ha a bejelentő magyar állampolgár, illetve ha lakóhelye vagy székhelye belföldön van, kivéve, ha az európai szabadalmi bejelentés a Magyar Szabadalmi Hivatalhoz legalább két hónappal korábban benyújtott olyan szabadalmi bejelentés elsőbbségét érvényesíti, amelyet a Magyar Szabadalmi Hivatal elnöke nem minősített.
 
 (3) Az európai szabadalmi bejelentést az Egyezményben előírt bármely nyelven be lehet nyújtani a Magyar Szabadalmi Hivatalnál, feltéve, hogy a bejelentés magyar nyelven vagy az Európai Szabadalmi Hivatal bármelyik hivatalos nyelvén tartalmazza legalább a következőket:
 
@@ -2277,7 +2277,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (6) Felhatalmazást kap a Magyar Szabadalmi Hivatal felett felügyeletet gyakorló miniszter, hogy – a Magyar Szabadalmi Hivatal elnöke véleményének kikérésével és az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a Magyar Szabadalmi Hivatal előtti iparjogvédelmi eljárásokban fizetendő igazgatási szolgáltatási díjaknak – az iparjogvédelmi eljárások és az egyes iparjogvédelmi oltalmi formák sajátosságaira figyelemmel meghatározott – mértékét, valamint a Magyar Szabadalmi Hivatal előtti iparjogvédelmi eljárásokban fizetendő igazgatási szolgáltatási díjak, illetve a fenntartási és a megújítási díjak kezelésére, nyilvántartására, visszafizetésére, továbbá a megfizetésük módjára vonatkozó részletes szabályokat.
 
-(7) Felhatalmazást kap a Kormány, hogy a szabadalmi bejelentés államtitokká minősítéséhez szükséges eljárás részletes szabályait rendelettel megállapítsa.
+(7) Felhatalmazást kap a Kormány, hogy a szabadalmi bejelentés minősítéséhez szükséges eljárás részletes szabályait rendelettel megállapítsa.
 
 (8) Felhatalmazást kap a Magyar Szabadalmi Hivatal felett felügyeletet gyakorló miniszter, hogy – a Magyar Szabadalmi Hivatal elnöke véleményének kikérésével – rendeletben állapítsa meg az iparjogvédelmi oltalom fenntartásáért vagy megújításáért fizetendő díjaknak – az iparjogvédelmi rendszer működtetésének költségeire, az egyes iparjogvédelmi oltalmi formák sajátosságaira, valamint az innováció iparjogvédelmi eszközökkel történő előmozdításának szempontjaira figyelemmel meghatározott – mértékét.
 

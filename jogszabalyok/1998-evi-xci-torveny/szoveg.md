@@ -318,15 +318,7 @@ b) Az intézmények saját folyó bevételei, a működési vagyon hasznosítás
 
 (6) A tényadatok alapján történt bevételmegosztás és az év közben az Alapok javára átutalt összegek közötti különbözetet az (5) bekezdésben meghatározott időpontig kell a két Alap között pénzügyileg is rendezni.''
 
-### Az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló1997. évi LXXIV. törvény módosítása
-
-32. § (1) Az alkalmi munkavállalói könyvvel történő foglalkoztatásról és az ahhoz kapcsolódó közterhek egyszerűsített befizetéséről szóló — az 1997. évi CXLVI. törvénnyel módosított — 1997. évi LXXIV. törvény (a továbbiakban: Alk.tv.) 5. §-ának (8) bekezdése helyébe a következő rendelkezés lép:
-
-,,(8) A nyugdíjbiztosítási igazgatóság (kirendeltség) adatszolgáltatása alapján az Országos Nyugdíjbiztosítási Főigazgatóság minden év március 31-éig átutalja az illetékes magánnyugdíjpénztárnak a magánnyugdíjpénztári tagság kezdő napjától számított ellátási alap hat százalékát, ha ennek összege az egyszáz forintot meghaladja.''
-
-(2) Az Alk.tv. 7. §-a helyébe a következő rendelkezés lép:
-
-7. §,, A közteherjegy forgalmazója a közteherjegy ellenértékének forgalmazási költséggel csökkentett részét — külön jogszabályban foglaltak szerint — átutalja a Kincstár által vezetett KESZ-re. A Kincstár ezen összegből 45%-ot a Nyugdíjbiztosítási Alapnak, 33%-ot az Egészségbiztosítási Alapnak, 6%-ot a Munkaerőpiaci Alapnak utal át.''
+32. §
 
 ### A Kiváló és Érdemes Művészi járadékról szóló1997. évi XCVII. törvény módosítása
 
@@ -435,7 +427,7 @@ b) Az intézmények saját folyó bevételei, a működési vagyon hasznosítás
 - c) az egészségügyi intézmények egymásnak nyújtott szakmai szolgáltatásai térítési rendjének kialakítására és az ezzel összefüggő előirányzat átcsoportosítására vonatkozó szabályokat kidolgozza,
 - d) az APEH 1999-re vonatkozó adatszolgáltatásának és az 1998. évre, valamint az azt megelőző évekre fennmaradó tartozások — különösen a tartozást mutató folyószámla-állomány vonatkozásában — kezelésének eljárási rendjét rendeletben szabályozza.
 
-(7) Az Alk.tv. melléklete helyébe az e törvény 32. §-ában megállapított rendelkezések hatálybalépésének időpontjától e törvény 8. számú melléklete lép.
+(7)
 
 (8) A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosításáról szóló 1998. évi LXVII. törvény
 
@@ -1065,25 +1057,3 @@ Az Egészségbiztosítási Alap 1999. évi működési bevételei és kiadásai
 - 3. Heves Megyei Egészségbiztosítási Pénztár (Eger, Klapka u. 1.) 100%-ban az Egészségbiztosítási Alaphoz rendelt állami tulajdonrész.
 
 ### 8. számú melléklet az 1998. évi XCI. törvényhez
-
-Melléklet az 1997. évi LXXIV. törvényhez
-
-,,
-
-Az alkalmi foglalkoztatás során kifizetett munkadíj, a közteherjegy és az ellátási alap sávjai
-
-____________________________
-
-Ha a kifizetett munkadíja (Ft/nap)
-
-A közteherjegy értéke (Ft/nap)
-
-Az ellátási alap (Ft/nap)
-
-____________________________
-
-900—1299 500 900
-
-1300—1899 1000 1500
-
-1900—2500 1500 2300''

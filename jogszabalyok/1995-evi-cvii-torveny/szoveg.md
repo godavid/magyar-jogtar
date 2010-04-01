@@ -178,7 +178,7 @@ a büntetés-végrehajtási szervezetről
 
 ### Titoktartási kötelezettség
 
-12. § A bv. szervezet személyi állományának tagja az államtitkot és a szolgálati titkot, valamint a tudomására jutott magántitkot köteles megtartani. A titoktartási kötelezettség alól jogszabály, valamint jogszabály felhatalmazása alapján, az abban megjelölt személy felmentést adhat.
+12. § A bv. szervezet személyi állományának tagja a minősített adatot, valamint a tudomására jutott magántitkot köteles megtartani. A titoktartási kötelezettség alól jogszabály, valamint jogszabály felhatalmazása alapján, az abban megjelölt személy felmentést adhat.
 
 ### Együttműködési, tájékoztatási és segítségnyújtási kötelezettség
 
@@ -407,7 +407,7 @@ részére.
 
 (2) A fogvatartott a róla nyilvántartott adatokat — a (3) bekezdésben foglalt kivételekkel — megismerheti, kérheti a téves adatok kijavítását és a jogellenesen nyilvántartott adatok törlését. A fogvatartott ilyen kérelmét teljesíteni kell.
 
-(3) Nem hozható a fogvatartott tudomására a fogvatartás biztonságát érintő azon adat, mely olyan intézkedéssel kapcsolatban keletkezett, amelyet a fogvatartott törvényi rendelkezés következtében eltűrni köteles. A fogvatartott szabadulásakor a szolgálati vagy államtitkok kivételével — kérésére — ezeket az adatokat is megismerheti.
+(3) Nem hozható a fogvatartott tudomására a fogvatartás biztonságát érintő azon adat, mely olyan intézkedéssel kapcsolatban keletkezett, amelyet a fogvatartott törvényi rendelkezés következtében eltűrni köteles. A fogvatartott szabadulásakor a minősített adat kivételével — kérésére — ezeket az adatokat is megismerheti.
 
 (4) A fogvatartottnak az adataival való rendelkezési joga nem sértheti a bűnüldöző és igazságszolgáltatási szervek működéséhez, az állami és az önkormányzati feladatok ellátásához szükséges adatok használatához fűződő közérdek érvényesítését.
 

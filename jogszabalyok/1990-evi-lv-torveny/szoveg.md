@@ -36,7 +36,7 @@ Az Országgyűlés az Alkotmány 20. §-a (5) és (6) bekezdésének végrehajt�
 
 ### II. Fejezet — A képviselő mentelmi joga
 
-4. § (1) A képviselő bíróság vagy más hatóság előtt – megbízatásának ideje alatt és azt követően – nem vonható felelősségre leadott szavazata, továbbá a megbízatásának gyakorlása során általa közölt tény vagy vélemény miatt. Ez a mentesség nem vonatkozik az államtitoksértésre, a rágalmazásra és a becsületsértésre, valamint a képviselők polgári jogi felelősségére.
+4. § (1) A képviselő bíróság vagy más hatóság előtt – megbízatásának ideje alatt és azt követően – nem vonható felelősségre leadott szavazata, továbbá a megbízatásának gyakorlása során általa közölt tény vagy vélemény miatt. Ez a mentesség nem vonatkozik a szigorúan titkos és titkos minősítésű adattal való visszaélésre, a rágalmazásra és a becsületsértésre, valamint a képviselők polgári jogi felelősségére.
 
 (2) Az (1) bekezdésben meghatározott mentesség kiterjed a közhatalmat gyakorló személy vagy közszereplő politikus sérelmére elkövetett becsületsértésre, valamint – amennyiben a képviselőnek nem volt tudomása arról, hogy a közlés a lényegét tekintve valótlan – rágalmazásra.
 
@@ -66,11 +66,15 @@ Az Országgyűlés az Alkotmány 20. §-a (5) és (6) bekezdésének végrehajt�
 
 8. § (1) Az állami szervek kötelesek az országgyűlési képviselőket megbízatásuk ellátásában támogatni, és részükre a munkájukhoz szükséges felvilágosítást megadni.
 
-(2) Az Országgyűlés által létrehozott vizsgálóbizottság tagja külön engedély nélkül jogosult az államtitok megismerésére, ha a bizottság létrehozásáról szóló országgyülési határozat az államtitokkör megfelelő pontjának meghatározásával a felhatalmazást megadta.
+(2) Az Országgyűlés által létrehozott vizsgálóbizottság tagja a bizottság döntése alapján, külön felhasználói engedély nélkül jogosult a minősített adat felhasználására, ha a vizsgálóbizottság létrehozásáról szóló országgyűlési határozat a vizsgálóbizottság feladatának ellátásához szükséges minősített adat felhasználásához a felhatalmazást megadta. A vizsgálóbizottság tagja a vizsgálóbizottság felhatalmazása alapján járhat el.
 
-(3) Az Országgyűlés Honvédelmi Bizottságának tagja a bizottság döntése alapján, külön engedély nélkül jogosult a bizottságnak az Alkotmányban és a honvédelemről szóló törvényben meghatározott feladatai ellátása érdekében elengedhetetlenül szükséges államtitok megismerésére. Ez a jogosultság a Katonai Biztonsági Hivatal és a Katonai Felderítő Hivatal működése körében keletkezett államtitokkörre vonatkozóan a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 17. §-ának keretei között érvényesül.
+(3) Az Országgyűlés Honvédelmi Bizottságának tagja a bizottság döntése alapján, külön felhasználói engedély nélkül jogosult a bizottságnak az Alkotmányban és a honvédelemről szóló törvényben meghatározott feladatai ellátása érdekében elengedhetetlenül szükséges minősített adat felhasználására. Ez a jogosultság a Katonai Biztonsági Hivatal és a Katonai Felderítő Hivatal működése körében keletkezett minősített adatok vonatkozásában a nemzetbiztonsági szolgálatokról szóló törvény 17. §-a keretei között érvényesül.
 
-(4) A képviselői igazolvány az államigazgatás valamennyi szervéhez, továbbá a közintézetekhez és közintézményekhez belépésre jogosít. A képviselő — a hatáskörrel rendelkező miniszter által szabályozott módon — jogosult a Magyar Honvédség, a nemzetbiztonsági szolgálatok és a rendvédelmi szervek működésére szolgáló területre is belépni.
+(4) Az Országgyűlés Nemzetbiztonsági Bizottságának tagja a bizottság döntése alapján, külön felhasználói engedély nélkül jogosult a bizottságnak a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladatai ellátása érdekében elengedhetetlenül szükséges minősített adat felhasználására.
+
+(5) Az országgyűlési képviselő – a (2)–(4) bekezdésben foglaltak kivételével – a feladatai ellátásához szükséges minősített adatokat csak a minősített adat védelméről szóló törvényben foglaltak szerinti felhasználói engedély alapján használhatja fel.
+
+(6) A képviselői igazolvány az államigazgatás valamennyi szervéhez, továbbá a közintézetekhez és közintézményekhez belépésre jogosít. A képviselő — a hatáskörrel rendelkező miniszter által szabályozott módon — jogosult a Magyar Honvédség, a nemzetbiztonsági szolgálatok és a rendvédelmi szervek működésére szolgáló területre is belépni.
 
 [(5) A képviselő az Országgyűlés ülésén, az Országgyűlés bizottságainak ülésén, továbbá a bizottsági elnöki értekezleten a magyar jelnyelvet, illetőleg az általa választott speciális kommunikációs rendszert használhatja. A magyar jelnyelv, valamint a választott speciális kommunikációs rendszer használatának valamennyi költségét az Országgyűlés biztosítja.]
 

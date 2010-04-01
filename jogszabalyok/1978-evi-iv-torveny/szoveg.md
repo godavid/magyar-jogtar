@@ -448,7 +448,9 @@ Ilyenkor a szabadságvesztés két hónapnál rövidebb is lehet.
 - a) szakképzettséget igénylő foglalkozása szabályainak megszegésével követi el, vagy
 - b) foglalkozásának felhasználásával, szándékosan követi el.
 
-(2) A foglalkozástól eltiltás mellékbüntetés alkalmazása szempontjából foglalkozásnak minősül az is, ha az elkövető a gazdálkodó szervezet általános vezetését ellátó szerv tagja, illetve igazgatója; a szövetkezet igazgatóságának vagy felügyelőbizottságának tagja; a gazdasági társaság vezető tisztségviselője, illetve felügyelőbizottságának tagja vagy egyéni vállalkozó.
+(2) Foglalkozásától el kell tiltani azt, aki a közélet tisztasága elleni bűncselekményt foglalkozásának felhasználásával, szándékosan követi el.
+
+(3) A foglalkozástól eltiltás mellékbüntetés alkalmazása szempontjából foglalkozásnak minősül az is, ha az elkövető a gazdálkodó szervezet általános vezetését ellátó szerv tagja, illetve igazgatója; a szövetkezet igazgatóságának vagy felügyelőbizottságának tagja; a gazdasági társaság vezető tisztségviselője, illetve felügyelőbizottságának tagja vagy egyéni vállalkozó.
 
 (3) Az (1) bekezdés a) pontja azzal szemben is alkalmazható, aki a bűncselekmény elkövetésekor a tevékenységet nem a foglalkozásaként gyakorolta, de rendelkezik annak a foglalkozásnak a gyakorlásához szükséges szakképesítéssel, amely szabályainak megszegésével a bűncselekményt elkövette.
 
@@ -653,7 +655,7 @@ elteltével.
 - b) a vagyonra, amelyet az elkövető bűnszervezetben való részvétele ideje alatt szerzett,
 - c) a vagyonra, amely a bűncselekmény elkövetéséből eredő, a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett vagyon helyébe lépett,
 - d) a vagyonra, amelyet a bűncselekmény elkövetése céljából az ehhez szükséges vagy ezt könnyítő feltételek biztosítása végett szolgáltattak vagy arra szántak,
-- e) a vagyonra, amely az adott vagyoni előny tárgya volt.
+- e) a vagyonra, amely az adott vagy ígért vagyoni előny tárgya volt.
 
 (2) A vagyonelkobzást el kell rendelni arra a bűncselekmény elkövetéséből eredő, a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett vagyonra is, amellyel más gazdagodott. Ha gazdálkodó szervezet gazdagodott ilyen vagyonnal, a vagyonelkobzást vele szemben kell elrendelni.
 
@@ -1324,7 +1326,7 @@ szolgálati feladat közös ellátása alatt követi el.
 
 147. § (1) Aki idegen hatalom vagy idegen szervezet részére a Magyar Köztársaság ellen hírszerző tevékenységet végez, bűntettet követ el, és két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Aki az (1) bekezdésben meghatározott kémkedést államtitok kiszolgáltatásával követi el, öt évtől tizenöt évig terjedő szabadságvesztéssel büntetendő.
+(2) Aki az (1) bekezdésben meghatározott kémkedést Szigorúan titkos! minősítésű nemzeti adat vagy nemzetközi szerződésben e minősítésű adatnak megfeleltetett külföldi minősített adat kiszolgáltatásával követi el, öt évtől tizenöt évig terjedő szabadságvesztéssel büntetendő.
 
 (3) Aki kémkedésre irányuló előkészületet követ el, bűntett miatt öt évig terjedő szabadságvesztéssel büntetendő.
 
@@ -2336,50 +2338,64 @@ követik el.
 
 220. § Aki az államhatár megjelölésére szolgáló jelet megsemmisíti, megrongálja vagy elmozdítja, vétséget követ el, és egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
 
-### III. CÍM — Az államtitok és a szolgálati titok megsértése
+### III. CÍM — Visszaélés minősített adattal
 
-### Államtitoksértés
+### Visszaélés szigorúan titkos és titkos minősítésű adattal
 
-221. § (1) Aki
+221. § (1) Aki a minősített adat védelméről szóló törvényben meghatározott titkos minősítésű adatot
 
-- a) az államtitkot jogosulatlanul megszerzi,
-- b) a tudomására, illetőleg a birtokába jutott államtitkot jogosulatlanul felhasználja, illetéktelen személy részére hozzáférhetővé vagy illetékes személy részére hozzáférhetetlenné teszi, bűntettet követ el, és egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+- a) jogosulatlanul megszerzi vagy felhasználja,
+- b) jogosulatlan személy részére hozzáférhetővé, vagy jogosult személy részére hozzáférhetetlenné teszi, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés
 
-- a) két évtől nyolc évig terjedő szabadságvesztés, ha az államtitoksértést különösen fontos államtitokra, vagy súlyos hátrányt okozva követik el,
-- b) öt évtől tizenöt évig terjedő szabadságvesztés, ha az államtitok illetéktelen külföldi személy részére válik hozzáférhetővé.
+- a) egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekményt szigorúan titkos minősítésű adatra követik el vagy ha a titkos minősítésű adat jogosulatlan külföldi személy részére válik hozzáférhetővé,
+- b) két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekmény folytán a szigorúan titkos minősítésű adat jogosulatlan külföldi személy részére válik hozzáférhetővé.
 
-(3) Aki az államtitoksértést gondatlanságból követi el, vétség miatt egy évig, a (2) bekezdés eseteiben, az ott írt megkülönböztetés szerint két évig, illetőleg öt évig terjedő szabadságvesztéssel büntetendő.
+(3) Aki a (2) bekezdésben meghatározott minősített adattal visszaélésre irányuló előkészületet követ el, az ott írt megkülönböztetés szerint vétség miatt két évig, illetve bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(4) Aki a (2) bekezdésben meghatározott, államtitoksértésre irányuló előkészületet követ el, az ott írt megkülönböztetés szerint bűntett miatt három évig, illetőleg öt évig terjedő szabadságvesztéssel büntetendő.
+(4) Aki az (1)–(3) bekezdésben meghatározott bűncselekményt minősített adat felhasználására törvény rendelkezése alapján jogosult személyként követi el, az ott írt megkülönböztetés szerint, bűntett miatt
 
-### Szolgálati titoksértés
+- a) az (1) bekezdés esetén egy évtől öt évig,
+- b) a (2) bekezdés a) pontja esetén két évtől nyolc évig,
+- c) a (2) bekezdés b) pontja esetén öt évtől tizenöt évig,
+- d) a (3) bekezdés esetén – az ott írt megkülönböztetés szerint – három évig, illetve egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
-222. § (1) Aki
+(5) Az a minősített adat felhasználására törvény rendelkezése alapján jogosult személy, aki az (1) bekezdésben meghatározott bűncselekményt gondatlanságból követi el, vétség miatt két évig, a (2) bekezdés eseteiben, az ott írt megkülönböztetés szerint, három évig, illetőleg egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
-- a) a szolgálati titkot jogosulatlanul megszerzi,
-- b) a tudomására, illetőleg a birtokába jutott szolgálati titkot jogosulatlanul felhasználja, vagy illetéktelen személy részére hozzáférhetővé teszi, vétséget követ el, és egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+### Visszaélés bizalmas minősítésű adattal
 
-(2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a bűncselekmény súlyos hátrányt okoz.
+222. § (1) Aki a minősített adat védelméről szóló törvényben meghatározott bizalmas minősítésű adatot
 
-(3) A büntetés
+- a) jogosulatlanul megszerzi vagy felhasználja,
+- b) jogosulatlan személy részére hozzáférhetővé, vagy jogosult személy részére hozzáférhetetlenné teszi, vétséget követ el, és egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
 
-- a) egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekmény következtében a szolgálati titok,
-- b) két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekmény következtében a katonai szolgálati titok illetéktelen külföldi személy részére hozzáférhetővé válik.
+(2) A büntetés három évig terjedő szabadságvesztés, ha a bűncselekmény folytán a bizalmas minősítésű adat jogosulatlan külföldi személy részére válik hozzáférhetővé.
 
-### Államtitoksértés feljelentésének elmulasztása
+(3) Aki a bűncselekményt minősített adat felhasználására törvény rendelkezése alapján jogosult személyként követi el, az (1) bekezdés esetén vétség miatt két évig terjedő szabadságvesztéssel, a (2) bekezdés esetén bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
-223. § (1) Aki hitelt érdemlő tudomást szerez arról, hogy
+(4) Az a minősített adat felhasználására törvény rendelkezése alapján jogosult személy, aki a bűncselekményt gondatlanságból követi el, az (1) bekezdés esetén vétség miatt egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel, a (2) bekezdés esetén vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-- a) államtitoksértés elkövetése készül,
-- b) még le nem leplezett szándékos államtitoksértést követtek el, és erről a hatóságnak – mihelyt teheti – nem tesz jelentést, vétséget követ el, és egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+### Visszaélés korlátozott terjesztésű minősítésű adattal
 
-(2) Az (1) bekezdés alapján az elkövető hozzátartozója nem büntethető.
+222/A. § (1) Aki a minősített adat védelméről szóló törvényben meghatározott korlátozott terjesztésű minősítésű adatot
 
-### Az államtitok és a szolgálati titok
+- a) jogosulatlanul megszerzi vagy felhasználja,
+- b) jogosulatlan személy részére hozzáférhetővé, vagy jogosult személy részére hozzáférhetetlenné teszi, vétséget követ el, és közérdekű munkával vagy pénzbüntetéssel büntetendő.
 
-#### 224. §
+(2) A büntetés egy évig terjedő szabadságvesztés, közérdekű munka vagy pénzbüntetés, ha a bűncselekmény folytán a korlátozott terjesztésű minősítésű adat jogosulatlan külföldi személy részére válik hozzáférhetővé.
+
+(3) Aki a bűncselekményt minősített adat felhasználására törvény rendelkezése alapján jogosult személyként követi el, az (1) bekezdés esetén vétség miatt egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel, a (2) bekezdés esetén bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(4) Az a minősített adat felhasználására törvény rendelkezése alapján jogosult személy, aki a bűncselekményt gondatlanságból követi el, az (1) bekezdés esetén vétség miatt közérdekű munkával vagy pénzbüntetéssel, a (2) bekezdés esetén vétség miatt egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+
+### Értelmező rendelkezések
+
+223. § (1) E Cím alkalmazásában szigorúan titkos, titkos, bizalmas, illetve korlátozott terjesztésű minősítésű adaton a minősített adat védelméről szóló törvényben ilyen minősítésű nemzeti, vagy nemzetközi szerződésben, az Európai Unió jogi aktusában e minősítésű adatnak megfeleltetett külföldi minősített adatot kell érteni.
+
+(2) A büntetőjogi védelem a minősítés kezdeményezésétől számított 30 napig kiterjed arra az adatra is, amelynek a minősítését kezdeményezték, de a cselekmény elkövetésekor a minősítési eljárást még nem fejezték be, és erről az elkövető tudomással bír.
+
+224. § Szigorúan titkos és titkos minősítésű adattal, bizalmas minősítésű adattal, valamint korlátozott terjesztésű minősítésű adattal visszaélés miatt büntetőeljárásnak csak a minősített adat védelméről szóló törvényben az adott adatfajta minősítésére jogosult szerv vagy személy feljelentése alapján van helye.
 
 ### IV. CÍM — A hivatali bűncselekmények
 
@@ -2640,7 +2656,7 @@ követik el.
 
 (3) Az (1) és a (2) bekezdésben foglalt megkülönböztetés szerint két évtől nyolc évig, illetőleg öt évtől tíz évig terjedő szabadságvesztéssel büntetendő az elkövető, ha a jogtalan előnyért hivatali kötelességét megszegi, hatáskörét túllépi, vagy hivatali helyzetével egyébként visszaél, illetőleg ha a cselekményt bűnszövetségben vagy üzletszerűen követi el.
 
-251. § (1) A költségvetési szervnek, gazdálkodó szervezetnek vagy a társadalmi szervezetnek az a dolgozója, illetőleg tagja, aki a működésével kapcsolatban jogtalan előnyt kér, vagy a kötelességének megszegéséért az ilyen előnyt, illetve annak ígéretét elfogadja, vagy a jogtalan előny kérőjével vagy elfogadójával egyetért, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
+251. § (1) A költségvetési szervnek, gazdálkodó szervezetnek vagy a társadalmi szervezetnek az a dolgozója, illetőleg tagja, aki a működésével kapcsolatban jogtalan előnyt kér, vagy a kötelességének megszegéséért az ilyen előnyt, illetve annak ígéretét elfogadja, vagy a jogtalan előny kérőjével vagy elfogadójával egyetért, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Ha az elkövető a jogtalan előnyért a kötelességét megszegi, bűntettet követ el, és egy évtől öt évig, fontosabb ügyben történt kötelességszegés esetén, illetőleg ha a cselekményt bűnszövetségben vagy üzletszerűen követi el, két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
 
@@ -2661,11 +2677,11 @@ követik el.
 
 (4) Vétség miatt két évig terjedő szabadságvesztéssel, pénzbüntetéssel vagy közérdekű munkával büntetendő a gazdálkodó szervezet vezetője, ellenőrzésre vagy felügyeletre feljogosított tagja vagy dolgozója, ha a (3) bekezdésben meghatározott bűncselekményt gondatlanságból követi el.
 
-254. § (1) Aki költségvetési szerv, gazdálkodó szervezet vagy társadalmi szervezet dolgozójának, illetve tagjának, vagy reá tekintettel másnak azért ad, vagy ígér jogtalan előnyt, hogy a kötelességét megszegje, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
+254. § (1) Aki költségvetési szerv, gazdálkodó szervezet vagy társadalmi szervezet dolgozójának, illetve tagjának, vagy reá tekintettel másnak azért ad, vagy ígér jogtalan előnyt, hogy a kötelességét megszegje, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a jogtalan előnyt költségvetési szerv, gazdálkodó szervezet vagy társadalmi szervezet önálló intézkedésre jogosult dolgozójának, illetve tagjának adják vagy ígérik.
+(2) A büntetés bűntett miatt öt évig terjedő szabadságvesztés, ha a jogtalan előnyt költségvetési szerv, gazdálkodó szervezet vagy társadalmi szervezet önálló intézkedésre jogosult dolgozójának, illetve tagjának adják vagy ígérik.
 
-255. § (1) Aki azért, hogy más a bírósági vagy más hatósági eljárásban a törvényes jogait ne gyakorolja, vagy a kötelezettségeit ne teljesítse, neki vagy reá tekintettel másnak jogtalan előnyt ad, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
+255. § (1) Aki azért, hogy más a bírósági vagy más hatósági eljárásban a törvényes jogait ne gyakorolja, vagy a kötelezettségeit ne teljesítse, neki vagy reá tekintettel másnak jogtalan előnyt ad, bűntettet követ el, és öt évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Az (1) bekezdés szerint büntetendő, aki azért, hogy a bírósági vagy más hatósági eljárásban a törvényes jogait ne gyakorolja, vagy a kötelezettségeit ne teljesítse, jogtalan előnyt fogad el.
 
@@ -2675,7 +2691,7 @@ követik el.
 
 ### Vesztegetés feljelentésének elmulasztása
 
-255/B. § (1) Az a hivatalos személy, aki e minőségében hitelt érdemlő tudomást szerez arról, hogy még le nem leplezett vesztegetést (Btk. 250–255. §) követtek el, és erről a hatóságnak, mihelyt teheti, nem tesz feljelentést, vétséget követ el, és két évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+255/B. § (1) Az a hivatalos személy, aki e minőségében hitelt érdemlő tudomást szerez arról, hogy még le nem leplezett vesztegetést (Btk. 250–255. §) követtek el, és erről a hatóságnak, mihelyt teheti, nem tesz feljelentést, bűntettet követ el, és három évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
 
 (2) Az (1) bekezdés alapján az elkövető hozzátartozója nem büntethető.
 
@@ -2737,12 +2753,13 @@ büntetendő.
 
 258/E. § Aki arra hivatkozással, hogy külföldi hivatalos személyt befolyásol, a maga vagy más részére jogtalan előnyt kér vagy elfogad, bűntettet követ el, és öt évig terjedő szabadságvesztéssel büntetendő.
 
+### Vesztegetés feljelentésének elmulasztása nemzetközi kapcsolatban
+
+258/F. § Az a hivatalos személy, aki e minőségében hitelt érdemlő tudomást szerez arról, hogy nemzetközi kapcsolatban még le nem leplezett vesztegetést (Btk. 258/B–258/D. §) követtek el, és erről a hatóságnak, mihelyt teheti, nem tesz feljelentést, bűntettet követ el, és három évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntetendő.
+
 ### Értelmező rendelkezés
 
-258/F. § E cím alkalmazásában
-
-- 1.
-- 2. külföldi gazdálkodó szervezet az a szervezet, amely a személyes joga szerint jogi személyiséggel rendelkezik, és az adott szervezeti formában gazdasági tevékenység végzésére jogosult.
+258/G. § E cím alkalmazásában külföldi gazdálkodó szervezet az a szervezet, amely a személyes joga szerint jogi személyiséggel rendelkezik, és az adott szervezeti formában gazdasági tevékenység végzésére jogosult.
 
 ### XVI. Fejezet — A közrend elleni bűncselekmények
 

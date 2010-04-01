@@ -237,7 +237,7 @@ Az Országgyűlés — a Magyar Köztársaság Alkotmányában foglaltakkal öss
 
 (2) Az (1) bekezdésben meghatározott szervek rendszeresen elektronikusan vagy más módon közzéteszik, továbbá erre irányuló igény esetén a 20. § rendelkezései szerint hozzáférhetővé teszik a tevékenységükkel kapcsolatos legfontosabb – így különösen a hatáskörükre, illetékességükre, szervezeti felépítésükre, szakmai tevékenységükre, annak eredményességére is kiterjedő értékelésére, a birtokukban lévő adatfajtákra és a működésükről szóló jogszabályokra, valamint a gazdálkodásukra vonatkozó – adatokat. A tájékoztatás módját, a vonatkozó adatok körét jogszabály is megállapíthatja.
 
-(3) Az (1) bekezdésben említetteknek lehetővé kell tenniük, hogy a kezelésükben lévő közérdekű adatot bárki megismerhesse, kivéve, ha az adatot törvény alapján az arra jogosult szerv állam- vagy szolgálati titokká nyilvánította, illetve ha az nemzetközi szerződésből eredő kötelezettség alapján minősített adat, továbbá, ha a közérdekű adatok nyilvánosságához való jogot – az adatfajták meghatározásával – törvény
+(3) Az (1) bekezdésben említetteknek lehetővé kell tenniük, hogy a kezelésükben lévő közérdekű adatot bárki megismerhesse, kivéve, ha az adatot törvény alapján az arra jogosult szerv minősítette, illetve ha az nemzetközi szerződésből eredő kötelezettség alapján minősített adat, továbbá, ha a közérdekű adatok nyilvánosságához való jogot – az adatfajták meghatározásával – törvény
 
 - a) honvédelmi;
 - b) nemzetbiztonsági;
@@ -325,7 +325,7 @@ korlátozza.
 
 (2) Az adatvédelmi biztos eljárására az Obtv. 16. § (1) és (2) bekezdését, 17. § (3) és (4) bekezdését, 18. § (1), (6) és (8) bekezdését nem kell alkalmazni.
 
-25. § (1) Az adatvédelmi biztos figyelemmel kíséri a személyes adatok védelmének, a közérdekű adatok és a közérdekből nyilvános adatok nyilvánossága érvényesülésének feltételeit. Javaslatot tesz az adatkezelést, a közérdekű adatok és a közérdekből nyilvános adatok nyilvánosságát érintő jogszabályok megalkotására, illetve módosítására, véleményezi az ilyen jogszabályok tervezetét. Kezdeményezheti az államtitokkörben, valamint a szolgálati titokkörben meghatározott adatfajták szűkítését vagy bővítését.
+25. § (1) Az adatvédelmi biztos figyelemmel kíséri a személyes adatok védelmének, a közérdekű adatok és a közérdekből nyilvános adatok nyilvánossága érvényesülésének feltételeit. Javaslatot tesz az adatkezelést, a közérdekű adatok és a közérdekből nyilvános adatok nyilvánosságát érintő jogszabályok megalkotására, illetve módosítására, véleményezi az ilyen jogszabályok tervezetét.
 
 (2) Az adatvédelmi biztos a jogellenes adatkezelés észlelése esetén az adatkezelőt az adatkezelés megszüntetésére szólítja fel. Az adatkezelő haladéktalanul köteles megtenni a szükséges intézkedéseket, és erről 30 napon belül írásban tájékoztatni az adatvédelmi biztost.
 
@@ -341,9 +341,9 @@ korlátozza.
 
 (3) Az adatkezelő köteles a részére kibocsátott ajánlásra harminc napon belül érdemben válaszolni.
 
-(4) Az államtitok és szolgálati titok az adatvédelmi biztost e §-ban szabályozott jogainak gyakorlásában nem akadályozhatja, de a titok megtartására vonatkozó rendelkezések rá nézve is kötelezőek. Az államtitkot vagy a szolgálati titkot érintő adatkezelés esetén az adatvédelmi biztos jogait csak személyesen, vagy az általa kezdeményezett nemzetbiztonsági ellenőrzésen átesett munkatársai útján gyakorolhatja.
+(4) A minősített adat az adatvédelmi biztost e §-ban szabályozott jogainak gyakorlásában nem akadályozhatja, de a minősített adat megtartására vonatkozó rendelkezések rá nézve is kötelezőek. Minősített adatot érintő adatkezelés esetén az adatvédelmi biztos jogait csak személyesen, vagy az általa kezdeményezett nemzetbiztonsági ellenőrzésen átesett munkatársai útján gyakorolhatja.
 
-(5) Ha az adatvédelmi biztos eljárása során az adat minősítését – a nemzetközi szerződés alapján keletkezett minősített adatok kivételével – indokolatlannak tartja, a minősítőt annak megváltoztatására vagy a minősítés megszüntetésére szólítja fel. A felszólítás megalapozatlanságának megállapítása iránt a minősítő 30 napon belül a Fővárosi Bírósághoz fordulhat. A bíróság az ügyben zárt tárgyaláson soron kívül jár el.
+(5) Ha az adatvédelmi biztos az eljárása során a nemzeti minősített adat minősítését indokolatlannak tartja, a minősítőt annak megváltoztatására vagy a minősítés megszüntetésére szólítja fel. A felszólítás megalapozatlanságának megállapítása iránt a minősítő 60 napon belül a Fővárosi Bírósághoz fordulhat. Amennyiben a minősítő a felszólításnak 60 napon belül nem tesz eleget és határidőn belül nem fordul bírósághoz, a nemzeti minősített adat minősítése a felszólítás kézhezvételét követő 61. napon megszűnik, illetve minősítési szintje vagy érvényességi ideje a felszólításban foglaltaknak megfelelően megváltozik. A bíróság eljárására a Polgári perrendtartás közigazgatási perekre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a bíróság az ügyben zárt tárgyaláson, soron kívül jár el. A bíróság az adat minősítését helybenhagyja, megváltoztatja vagy megszünteti. A perben csak olyan bíró járhat el, akinek a nemzetbiztonsági szolgálatokról szóló törvény szerinti legmagasabb szintű nemzetbiztonsági ellenőrzését elvégezték. A perben résztvevő egyéb személyek, valamint azok képviselői a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti legmagasabb szintű nemzetbiztonsági ellenőrzésüket elvégezték.
 
 27. § (1) Bárki az adatvédelmi biztoshoz fordulhat, ha véleménye szerint személyes adatainak kezelésével, illetve a közérdekű adatok vagy a közérdekből nyilvános adatok megismeréséhez fűződő jogainak gyakorlásával kapcsolatban jogsérelem érte, vagy annak közvetlen veszélye fennáll, kivéve ha az adott ügyben bírósági eljárás van folyamatban.
 

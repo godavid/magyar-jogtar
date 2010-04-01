@@ -172,7 +172,7 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 20. § A hallgató köteles
 
-- a) megtartani az államtitkot és a szolgálati titkot,
+- a) megtartani a minősített adatot,
 - b) óvni és rendeltetésszerűen használni a rábízott haditechnikai eszközöket és felszerelési tárgyakat,
 - c) tiszteletben tartani társai emberi méltósághoz fűződő jogait, szükség esetén nekik segítséget nyújtani.
 
@@ -470,13 +470,13 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 ### Titokvédelem
 
-46. § (1) A vezető, oktató és hallgató az államtitkot vagy szolgálati titkot képező vagy azt tartalmazó találmányainak szabadalmaztatását, tudományos kutatásainak közzétételét csak engedéllyel kezdeményezheti.
+46. § (1) A vezető, oktató és hallgató a minősített adatot képező vagy azt tartalmazó találmányainak szabadalmaztatását, tudományos kutatásainak közzétételét csak engedéllyel kezdeményezheti.
 
-(2) Találmányt, kutatási eredményt államtitokká vagy szolgálati titokká a miniszter minősíthet a találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 17. §-ának figyelembevételével.
+(2) Találmányt, kutatási eredményt minősített adattá a miniszter minősíthet a találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 17. §-ának figyelembevételével.
 
 (3) A (2) bekezdés szerinti minősítés során az érintett országos parancsnok véleményét ki kell kérni.
 
-47. § A minősített adatot tartalmazó dokumentációk, könyvtári segédletek az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény IV. Fejezete alapján az intézmény titokvédelmi szabályzatában meghatározottak szerint ismerhetőek meg.
+47. § A minősített adatot tartalmazó dokumentációk, könyvtári segédletek a minősített adat védelmére vonatkozó jogszabályok alapján az intézmény minősített adat védelmére vonatkozó szabályzatában meghatározottak szerint ismerhetőek meg.
 
 ### Egyes rendelkezések alkalmazásának kizárása
 

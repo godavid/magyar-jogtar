@@ -1303,9 +1303,9 @@ köteles foglalkoztatni.
 
 (7) A (6) bekezdésben foglaltakat megfelelően alkalmazni kell a Kártalanítási Számla által teljesített kárkifizetésekre.
 
-[(8) A biztosító a biztosítási szerződési feltételekben köteles meghatározni, hogy a káresemény bekövetkezése esetén milyen károkat és költségeket milyen okiratok – ideértve a (6) bekezdés szerinti számlát is – bemutatása ellenében térít. A biztosító a szolgáltatása teljesítésének esedékességét csak olyan okirat bemutatásától teheti függővé, amely a biztosítási esemény bekövetkezésének igazolásához, illetve a teljesítendő szolgáltatás mértékének meghatározásához szükséges, a biztosítási szolgáltatás teljesítésének esedékességét a bejelentett káresemény tekintetében indult büntető- vagy szabálysértési eljárás jogerős befejezéséhez nem kötheti.
+(8) A biztosító a biztosítási szerződési feltételekben köteles meghatározni, hogy a káresemény bekövetkezése esetén milyen károkat és költségeket milyen okiratok – ideértve a (6) bekezdés szerinti számlát is – bemutatása ellenében térít. A biztosító a szolgáltatása teljesítésének esedékességét csak olyan okirat bemutatásától teheti függővé, amely a biztosítási esemény bekövetkezésének igazolásához, illetve a teljesítendő szolgáltatás mértékének meghatározásához szükséges, a biztosítási szolgáltatás teljesítésének esedékességét a bejelentett káresemény tekintetében indult büntető- vagy szabálysértési eljárás jogerős befejezéséhez nem kötheti.
 
-(9) Ha a károsult vagyontárgy a Gfbt. kártérítési kötelezettsége alá tartozó gépjármű, a Gfbt. 32/A. és 32/B. §-ában foglaltakat kell alkalmazni azzal, hogy a biztosító által nyújtható szolgáltatási előlegként az előzetesen kalkulált vagy a térítendő nettó kártérítési összeg legfeljebb 60%-os mértékét kell meghatározni.]
+(9) Ha a károsult vagyontárgy a Gfbt. kártérítési kötelezettsége alá tartozó gépjármű, a Gfbt. 32/A. és 32/B. §-ában foglaltakat kell alkalmazni azzal, hogy a biztosító által nyújtható szolgáltatási előlegként az előzetesen kalkulált vagy a térítendő nettó kártérítési összeg legfeljebb 60%-os mértékét kell meghatározni.
 
 ### A nemek közötti megkülönböztetés tilalma
 
@@ -2051,7 +2051,7 @@ köteles arról 30 napon belül írásban tájékoztatni a Felügyeletet.
 
 ### A biztosítási titok
 
-153. § Biztosítási titok minden olyan – államtitoknak nem minősülő –, a biztosító, a viszontbiztosító, a biztosításközvetítő, a biztosítási szaktanácsadó rendelkezésére álló adat, amely a biztosító, a viszontbiztosító, a biztosításközvetítő, a biztosítási szaktanácsadó egyes ügyfeleinek (ideértve a károsultat is) személyi körülményeire, vagyoni helyzetére, illetve gazdálkodására vagy a biztosítóval, illetve a viszontbiztosítóval kötött szerződéseire vonatkozik.
+153. § Biztosítási titok minden olyan – minősített adatot nem tartalmazó –, a biztosító, a viszontbiztosító, a biztosításközvetítő, a biztosítási szaktanácsadó rendelkezésére álló adat, amely a biztosító, a viszontbiztosító, a biztosításközvetítő, a biztosítási szaktanácsadó egyes ügyfeleinek (ideértve a károsultat is) személyi körülményeire, vagyoni helyzetére, illetve gazdálkodására vagy a biztosítóval, illetve a viszontbiztosítóval kötött szerződéseire vonatkozik.
 
 154. § Az ügyfél egészségi állapotával összefüggő adatokat a biztosító a 155. § (1) bekezdésében meghatározott célokból, az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről szóló 1997. évi XLVII. törvény rendelkezései szerint, kizárólag az érintett írásbeli hozzájárulásával kezelheti.
 

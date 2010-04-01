@@ -185,6 +185,8 @@ A 2009. évtől kezdődő két európai parlamenti ciklus időtartama alatti ké
 
 17. § Az állami szervek kötelesek az Európai Parlament képviselői részére a munkájukhoz szükséges felvilágosítást megadni.
 
+17/A. § Az európai parlamenti képviselő a feladatai ellátásához szükséges minősített adatot csak a minősített adat védelméről szóló törvényben foglaltak szerinti engedély alapján használhatja fel, és köteles a minősített adat védelmére vonatkozó követelményeket megtartani.
+
 ### V. Fejezet — MÓDOSULÓ JOGSZABÁLYOK
 
 18–21. §

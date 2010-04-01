@@ -12,7 +12,7 @@ a közalkalmazottak jogállásáról
 
 (3) A 25/A–25/C. § hatálya – az ott meghatározottak szerint – kiterjed a köztisztviselők jogállásáról szóló törvény hatálya alá tartozó munkáltatóra és a köztisztviselőre, illetve a munkavállalóra, ha a munkáltató egészének vagy egy részének átadására tekintettel a közszolgálati jogviszony, illetve a munkaviszony létesítésére e törvény szabályai szerint kerül sor.
 
-(4) Az (1) bekezdésben foglaltaktól eltérően e törvény hatálya nem terjed ki a helyi önkormányzat, illetve a költségvetési szerv által közhasznú munkavégzés, közmunka, közcélú munkavégzés keretében foglalkoztatottra, valamint az alkalmi munkavállalói könyvvel foglalkoztatott munkavállalóra.
+(4) Az (1) bekezdésben foglaltaktól eltérően e törvény hatálya nem terjed ki a helyi önkormányzat, illetve a költségvetési szerv által közhasznú munkavégzés, közmunka, közcélú munkavégzés keretében foglalkoztatottra, valamint az egyszerűsített foglalkoztatásról szóló külön törvény alapján foglalkoztatott munkavállalóra.
 
 (5) A 20/A. § (4) bekezdés a) pontja, a 26. § (4) bekezdése, a 30/A. §, a 30/D. §, a 30/E. §, a 44/A. §, az 53. § (1) bekezdés, az 53/A–53/B. § – az ott meghatározottak szerint – kiterjed a munkáltató fenntartójára is.
 
@@ -1055,7 +1055,7 @@ emelkedik.
 
 50. § (1) A fegyelmi tanács a vizsgálóbiztos előterjesztésétől számított tizenöt napon belül tárgyalást tart. A fegyelmi tanács tárgyalását úgy kell kitűzni, hogy arról a felek az értesítést a tárgyalás előtt legalább három munkanappal megkapják.
 
-(2) A tárgyaláson a munkáltatót az ügy vizsgálóbiztosa képviseli, a közalkalmazott jogi képviselőt is igénybe vehet. A tárgyalás nyilvános. A fegyelmi tanács azonban az államtitok vagy szolgálati titok megőrzése érdekében, valamint a fegyelmi eljárás alá vont kérelmére zárt tárgyalást köteles elrendelni.
+(2) A tárgyaláson a munkáltatót az ügy vizsgálóbiztosa képviseli, a közalkalmazott jogi képviselőt is igénybe vehet. A tárgyalás nyilvános. A fegyelmi tanács azonban a minősített adat megőrzése érdekében, valamint a fegyelmi eljárás alá vont kérelmére zárt tárgyalást köteles elrendelni.
 
 (3) Ha valamelyik fél, vagy képviselője a tárgyaláson nem jelenik meg, tárgyalást tartani és az ügyet érdemben elbírálni csak akkor lehet, ha a felet és a képviselőjét szabályszerűen értesítették. Elbírálható az ügy, ha a vizsgálóbiztos, a közalkalmazott vagy képviselője bejelentette, hogy a tárgyaláson nem kíván részt venni.
 

@@ -119,13 +119,13 @@ volt hadiárva, volt hadigyámolt és a volt hadigondozott családtag részére 
 
 (2) A járadék havonkénti összege az öregségi nyugdíj mindenkori legkisebb összegének %-ban kifejezett mértéke.
 
-I. járadékosztályba sorolt hadirokkant esetén 150%,
+I. járadékosztályba sorolt hadirokkant esetén 210%,
 
-II. járadékosztályba sorolt hadirokkant esetén 135%,
+II. járadékosztályba sorolt hadirokkant esetén 195%,
 
-III. járadékosztályba sorolt hadirokkant esetén 120%,
+III. járadékosztályba sorolt hadirokkant esetén 180%,
 
-IV. járadékosztályba sorolt hadirokkant esetén 95%,
+IV. járadékosztályba sorolt hadirokkant esetén 155%,
 
 V. járadékosztályba sorolt hadirokkant esetén 70%.
 
@@ -137,7 +137,13 @@ V. járadékosztályba sorolt hadirokkant esetén 70%.
 
 12. § (1) Azt a hadirokkantat, aki orvosi szakvélemény alapján mások rendszeres ápolására, gondozására szorul, a járadékon felül havonként pótlék is megilleti.
 
-(2) A pótlék mértéke a hadirokkant számára a 11. § (2) bekezdése alapján a folyósított hadirokkant járadék egyhavi összegének 40%-a.
+(2) A pótlék mértéke
+
+- a) a I. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összegének 60%-a,
+- b) a II. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összegének 54%-a,
+- c) a III. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összegének 48%-a,
+- d) a IV. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összegének 38%-a,
+- e) a V. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összegének 28%-a.
 
 ### Hadiözvegyi járadék
 
@@ -161,7 +167,7 @@ V. járadékosztályba sorolt hadirokkant esetén 70%.
 
 16. § (1) A járadékban részesült hadirokkant halála esetén — ha a temetés nem közköltségen történt — temetési hozzájárulást kell folyósítani annak, aki igazolja, hogy a temetés költségeit fedezte.
 
-(2) A temetési hozzájárulás összege az I. járadékosztályba [11. § (2) bekezdés] sorolt hadirokkantat megillető kéthavi járadék.
+(2) A temetési hozzájárulás összege a IV. járadékosztályba [11. § (2) bekezdés] sorolt hadirokkantat megillető járadék 200%-a.
 
 ### Térítésmentes gyógyászati ellátás
 

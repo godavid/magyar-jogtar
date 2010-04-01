@@ -128,7 +128,7 @@ keletkeztek és irattári anyagába tartoztak.
 
 (4) A főigazgató évente beszámol a 8. § (5) bekezdésben szereplő országgyűlési bizottságok előtt.
 
-(5) A főigazgató a Levéltár által kezelt, az államtitok és szolgálati titok körébe tartozó adatok védelmére szolgáló rendszerek és intézkedések adatai tekintetében a Ttv. szerinti minősítői jogkört gyakorol.
+(5) A főigazgató a Levéltár által kezelt, a minősített adatok védelmére szolgáló rendszerek és intézkedések adatai tekintetében a minősített adat védelméről szóló törvény szerinti minősítői jogkört gyakorol.
 
 (6) A kinevezés és a felmentés kivételével az egyéb munkáltatói jogokat a főigazgató tekintetében az Országgyűlés Főtitkára gyakorolja.
 
@@ -138,7 +138,7 @@ keletkeztek és irattári anyagába tartoztak.
 
 (2) A Levéltár az e törvény alapján anonimizáltan megismerhető adatokat olyan módon teszi hozzáférhetővé a kérelmező számára, hogy az adatokat tartalmazó irat másolatát átadja, és a kérelmező számára nem megismerhető adatokat azon olvashatatlanná teszi. A megfigyelt számára minden, az iratokról készült másolatot soron kívül és térítésmentesen kell biztosítani.
 
-(3) A Levéltár a Ttv. alapján minősített adatok vonatkozásában gondoskodik a titokvédelmi szabályok betartásáról.
+(3) A Levéltár a Ttv. alapján minősített adatok vonatkozásában gondoskodik a minősítettadat-védelmi szabályok betartásáról.
 
 (4) A Levéltár gondoskodik az átvett, valamint a keletkező iratok egységes szempontok alapján történő nyilvántartásáról és kezeléséről.
 
@@ -158,7 +158,7 @@ keletkeztek és irattári anyagába tartoztak.
 
 (7) A Levéltár köteles minden olyan iratot, amelynek őrzésére e törvény nem hatalmazza fel, a törvény hatálybalépésétől számított hat hónapon belül eredeti tulajdonosának vagy jogutódjának, köziratok esetében pedig az arra illetékes levéltárnak átadni.
 
-(8) A Levéltár kezelésében levő, a Ttv. szerinti minősített adatot tartalmazó irat megismeréséhez a Ttv. 2. § (1) bekezdésének 7. pontjában meghatározott engedély szükséges.
+(8) A Levéltár kezelésében levő, a minősített adatot tartalmazó irat megismeréséhez a Ttv. 2. § (1) bekezdésének 7. pontjában meghatározott engedély szükséges.
 
 (9) A törvény hatálya alá tartozó iratok a törvény hatálybalépésének napjától kizárólag az Ltv. szabályai alapján, a Levéltárban selejtezhetőek.
 
@@ -168,7 +168,7 @@ keletkeztek és irattári anyagába tartoztak.
 
 (3) Azok az irategyüttesek, amelyek egyaránt tartalmaznak olyan adatokat, amelyek minősítését a minősítő megszüntette, illetve fenntartotta, továbbra is az irategyüttest kezelő szerv kezelésében maradnak. Az irategyüttes azon részéről, amely olyan adatot tartalmaz, amelynek minősítését a minősítő megszüntette, az irategyüttest kezelő szerv hiteles másolatot készít, és azt átadja a Levéltárnak.
 
-(4) Át kell adni a Levéltárnak azon iratok jegyzékét, amelyek minősítését a minősítő fenntartotta. A jegyzék államtitkot nem tartalmazhat. Amennyiben a Levéltár nem találja indokoltnak valamely, a jegyzékben szereplő irat minősítésének fenntartását, a Fővárosi Bírósághoz fordulhat a minősítés megszüntetésére való kötelezés érdekében. A minősítés fenntartásának jogszerűségét a minősítőnek kell bizonyítania. A bíróság az ügyben harminc napon belül, polgári nem peres eljárásban dönt. Az ügyben a Fővárosi Bíróság e feladatra kijelölt bírája – ,,C'' típusú nemzetbiztonsági ellenőrzését követően – jár el. A felek és meghatalmazottaik nem lehetnek jelen egymás meghallgatásán. Az eljárás minden szakaszában biztosítani kell az államtitok védelmére vonatkozó előírások betartását. A Fővárosi Bíróság végzése ellen fellebbezésnek nincs helye. A bíróság végzése államtitkot nem tartalmazhat.
+(4) Át kell adni a Levéltárnak azon iratok jegyzékét, amelyek minősítését a minősítő fenntartotta. A jegyzék minősített adatot nem tartalmazhat. Amennyiben a Levéltár nem találja indokoltnak valamely, a jegyzékben szereplő irat minősítésének fenntartását, a Fővárosi Bírósághoz fordulhat a minősítés megszüntetésére való kötelezés érdekében. A minősítés fenntartásának jogszerűségét a minősítőnek kell bizonyítania. A bíróság az ügyben harminc napon belül, polgári nem peres eljárásban dönt. Az ügyben a Fővárosi Bíróság e feladatra kijelölt bírája – ,,C'' típusú nemzetbiztonsági ellenőrzését követően – jár el. A felek és meghatalmazottaik nem lehetnek jelen egymás meghallgatásán. Az eljárás minden szakaszában biztosítani kell a minősített adat védelmére vonatkozó előírások betartását. A Fővárosi Bíróság végzése ellen fellebbezésnek nincs helye. A bíróság végzése minősített adatot nem tartalmazhat.
 
 (5) A felülvizsgálati eljárás során a 2. § (2)–(3) bekezdésben meghatározott adatokat tartalmazó iratok közül a nemzetbiztonsági érdek védelme szempontjából kiemelkedően fontos iratokról a nemzetbiztonsági szolgálat főigazgatója külön jegyzéket állít össze, amelyet a Legfelsőbb Bíróság e feladatra kijelölt bírája – ,,C'' típusú nemzetbiztonsági ellenőrzését követően – hagy jóvá. A (4) bekezdésében meghatározott iratjegyzékben a jelen bekezdés alapján összeállított külön jegyzékben szereplő iratokat nem kell feltüntetni.
 
@@ -178,7 +178,7 @@ keletkeztek és irattári anyagába tartoztak.
 
 (8) Amennyiben a minősítő az 1980-ban vagy 1980 után keletkezett irat minősítését a törvény hatályba lépését követő két éven belül nem erősíti meg, az irat minősítése megszűnik, és azt harminc napon belül át kell adni a Levéltárnak.
 
-(9) A 2. § (2)–(3) bekezdéseiben meghatározott adatokat tartalmazó azon iratokat, amelyek minősítését a (2) bekezdésben meghatározott felülvizsgálat során a minősítő fenntartotta, a minősítő a Ttv. 10. § (1) bekezdésében foglaltaknak megfelelően köteles felülvizsgálni. Ha a felülvizsgálat eredményeként a minősítő a minősítést megszünteti, az iratot harminc napon belül át kell adni a Levéltárnak.
+(9) A 2. § (2)–(3) bekezdéseiben meghatározott adatokat tartalmazó azon iratokat, amelyek minősítését a (2) bekezdésben meghatározott felülvizsgálat során a minősítő fenntartotta, a minősítő a minősített adat védelméről szóló törvény 8. §-ában foglaltaknak megfelelően köteles felülvizsgálni. Ha a felülvizsgálat eredményeként a minősítő a minősítést megszünteti, az iratot harminc napon belül át kell adni a Levéltárnak.
 
 (10) Az 1. § (1) bekezdés c) pontja szerinti iratokat a Levéltár főigazgatójának kinevezésétől számított harminc napon belül teljes körűen át kell adni a Levéltárnak.
 

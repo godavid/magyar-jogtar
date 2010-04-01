@@ -258,7 +258,7 @@ illetően.
 
 (3) Az eskü szövege a következő:
 
-,,Én ………………………… ügyész esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek, az Alkotmányt és a jogszabályokat megtartom, és ügyészi munkám során megtartatom, hivatali kötelezettségemnek legjobb tudásom szerint eleget teszek. Az állami és szolgálati titkot megőrzöm. Törvényes kötelezettségeim teljesítése során elfogulatlanul és részrehajlás nélkül járok el. (Az eskütevő meggyőződése szerint) Isten engem úgy segéljen!''
+,,Én ………………………… ügyész esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek, az Alkotmányt és a jogszabályokat megtartom, és ügyészi munkám során megtartatom, hivatali kötelezettségemnek legjobb tudásom szerint eleget teszek. A minősített adatot megőrzöm. Törvényes kötelezettségeim teljesítése során elfogulatlanul és részrehajlás nélkül járok el. (Az eskütevő meggyőződése szerint) Isten engem úgy segéljen!''
 
 (4) A legfőbb ügyész helyettes a köztársasági elnök előtt, a többi ügyész pedig a munkáltatói jogkör gyakorlója előtt tesz esküt.
 
@@ -1196,7 +1196,7 @@ irányadó összeggel azonos.
 
 (3) Az eskü szövege a következő:
 
-,,Én…………………… esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek; az Alkotmányt, a jogszabályokat megtartom; az állami és szolgálati titkot megőrzöm; a hatáskörömbe tartozó ügyekben részrehajlás nélkül, lelkiismeretesen, kizárólag a törvényeknek megfelelően járok el; hivatali kötelességeimet pontosan, lelkiismeretesen és a nemzet érdekeinek szolgálatával teljesítem. (Az eskütevő meggyőződése szerint) Isten engem úgy segéljen!''
+,,Én…………………… esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek; az Alkotmányt, a jogszabályokat megtartom; a minősített adatot megőrzöm; a hatáskörömbe tartozó ügyekben részrehajlás nélkül, lelkiismeretesen, kizárólag a törvényeknek megfelelően járok el; hivatali kötelességeimet pontosan, lelkiismeretesen és a nemzet érdekeinek szolgálatával teljesítem. (Az eskütevő meggyőződése szerint) Isten engem úgy segéljen!''
 
 80/A. § Az ügyészségi titkár, fogalmazó és nyomozó kirendelésére az ügyész kirendelésére vonatkozó szabályokat kell megfelelően alkalmazni, azzal az eltéréssel, hogy a kirendelésük esetén a napidíj összegét a 81/B. § szerint kell megállapítani.
 
@@ -1308,7 +1308,7 @@ ha a feladatkör ellátásához szükséges mértékű magyar nyelvismerettel é
 
 (2) Az eskü szövege a következő:
 
-,,Én…………………… esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek; az Alkotmányt, a jogszabályokat megtartom; az állami és szolgálati titkot megőrzöm; a hatáskörömbe tartozó ügyekben részrehajlás nélkül, lelkiismeretesen, kizárólag a törvényeknek megfelelően járok el; hivatali kötelességeimet pontosan, lelkiismeretesen és a nemzet érdekeinek szolgálatával teljesítem. (Az eskütevő meggyőződése szerint) Isten engem úgy segéljen!''
+,,Én…………………… esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek; az Alkotmányt, a jogszabályokat megtartom; a minősített adatot megőrzöm; a hatáskörömbe tartozó ügyekben részrehajlás nélkül, lelkiismeretesen, kizárólag a törvényeknek megfelelően járok el; hivatali kötelességeimet pontosan, lelkiismeretesen és a nemzet érdekeinek szolgálatával teljesítem. (Az eskütevő meggyőződése szerint) Isten engem úgy segéljen!''
 
 85. § A tisztviselői munkakör betöltésére a munkáltatói jogkör gyakorlója pályázatot írhat ki. A pályázatra egyebekben a törvénynek az ügyészek pályázatára vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
@@ -1600,12 +1600,12 @@ a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Kt
 
 100. § (1) Az ügyész, ügyészségi titkár, fogalmazó, nyomozó és ügyészségi ügyintéző — törvényben szabályozott feladatainak ellátásához — az ügyészi szervezetben, illetőleg más szervek körében kezelt, személyes és különleges adatokat törvényben szabályozott megszorításokkal felhasználhat.
 
-(2) Az ügyész, ügyészségi titkár, fogalmazó, nyomozó és ügyészségi ügyintéző a hivatala gyakorlása során a tudomására jutott adatokat köteles az államtitokra, a szolgálati titokra, a magántitokra és a személyes adatok védelmére, továbbá a statisztikára, valamint a közérdekű adatok nyilvánosságára vonatkozó szabályok szerint — az e törvényben meghatározott eltérésekkel — kezelni.
+(2) Az ügyész, ügyészségi titkár, fogalmazó, nyomozó és ügyészségi ügyintéző a hivatala gyakorlása során a tudomására jutott adatokat köteles a minősített adat védelmére, a magántitokra és a személyes adatok védelmére, továbbá a statisztikára, valamint a közérdekű adatok nyilvánosságára vonatkozó szabályok szerint — az e törvényben meghatározott eltérésekkel — kezelni.
 
 (3) Az ügyész, ügyészségi titkár, fogalmazó, nyomozó és ügyészségi ügyintéző közvetlenül vagy az ügyészségi informatikai eszközök felhasználásával – ha törvény eltérően nem rendelkezik – a feladatkörének ellátása során jogosult arra, hogy
 
 - a) a büntetőeljárásról szóló 1998. évi XIX. törvényben, illetve a Magyar Köztársaság ügyészségéről szóló 1972. évi V. törvényben meghatározott feladatai teljesítése érdekében szükség szerint – az általános munkarend korlátaitól függetlenül – térítés nélkül igénybe vegye a személyiadat- és lakcímnyilvántartás, az Országos Gépjármű Alapnyilvántartás, a külföldre utazásban korlátozottakra és az útlevélre vonatkozó nyilvántartások, a külön törvény szerinti bűnügyi nyilvántartási rendszerből és a bűnügyi és rendészeti biometrikus adatok nyilvántartásából, a személy- és tárgykörözések nyilvántartása, a cégnyilvántartás, az ingatlan-nyilvántartás, a büntetés-végrehajtási intézetekben fogvatartottak nyilvántartása, a határregisztrációs rendszer, a vámregisztrációs és vámáru-nyilatkozat feldolgozó rendszer, továbbá az egyes nyomozó szervek nyomozást támogató informatikai rendszereinek adatszolgáltatását; az erre irányuló adatkéréseket hiányos és töredék adatok esetén is teljesíteni kell;
-- b) az általa beszerzett, illetőleg az eljárása során keletkezett személyes adatokat törvény által megállapított részletes szabályok szerint kezelje; az államtitok és a szolgálati titok az ügyészt, ügyészségi titkárt, fogalmazót, nyomozót — a nemzetbiztonsági szervek titkos adatkezelését kivéve — nem akadályozhatja, de a titok megtartására vonatkozó rendelkezések rá nézve is kötelezőek;
+- b) az általa beszerzett, illetőleg az eljárása során keletkezett személyes adatokat törvény által megállapított részletes szabályok szerint kezelje; a minősített adat az ügyészt, ügyészségi titkárt, fogalmazót, nyomozót — a nemzetbiztonsági szervek minősített adatkezelését kivéve — nem akadályozhatja, de a minősített adat megtartására vonatkozó rendelkezések rá nézve is kötelezőek;
 - c) a legfőbb ügyész — vagy az általa feljogosított ügyészségi vezető — engedélyével közérdekből az ügykörébe tartozó személyes adatok közül az érintett nevét és az ügykapcsolatot nyilvánosságra hozza.
 
 (4) Az (1)—(3) bekezdésben foglalt adatkezelési szabályokat a tisztviselő, az ügykezelő is köteles betartani. Adatkezelésük részletes szabályait a munkáltatói jogkör gyakorlója személyre szólóan írja elő.
@@ -2081,7 +2081,7 @@ c) Vegyes ügyek:
 
 — elfogultsági bejelentések;
 
-— szolgálati titoktartás alóli felmentés;
+— titoktartási kötelezettség alóli felmentés;
 
 — szakértői ügyek;
 

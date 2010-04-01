@@ -131,22 +131,22 @@ Az Országgyűlés az Alkotmány 32/B. §-ának végrehajtására a következő 
 
 (4) Az országgyűlési biztos az általa vizsgált ügyben bármely szervtől – ideértve az e törvény szerint hatóságnak nem minősülő szerveket is – vagy annak munkatársától írásbeli magyarázatot, nyilatkozatot, felvilágosítást vagy véleményt kérhet.
 
-(5) Az államtitok és a szolgálati titok az országgyűlési biztost az e §-ban szabályozott jogainak gyakorlásában nem akadályozhatja, de a titok megtartására vonatkozó rendelkezések rá nézve is kötelezőek. Az országgyűlési biztost a titoktartási kötelezettség tisztsége megszűnése után is terheli.
+(5) A minősített adat az országgyűlési biztost az e §-ban szabályozott jogainak gyakorlásában nem akadályozhatja, de a minősített adat megtartására vonatkozó rendelkezések rá nézve is kötelezőek. Az országgyűlési biztost a titoktartási kötelezettség tisztsége megszűnése után is terheli.
 
-(5) Az országgyűlési biztos az e §-ban szabályozott jogainak gyakorlása során kezelheti mindazon személyes adatokat, amelyek a vizsgálattal összefüggnek, illetve amelyek felhasználása a vizsgálat eredményes lefolytatása érdekében szükséges. Az országgyűlési biztos személyes adatokat csak a vizsgálata lefolytatásához szükséges mértékben és ideig kezelhet. Az országgyűlési biztos a vizsgálatának megállapításait jogosult nyilvánosságra hozni.
+(6) Az országgyűlési biztos az e §-ban szabályozott jogainak gyakorlása során kezelheti mindazon személyes adatokat, amelyek a vizsgálattal összefüggnek, illetve amelyek felhasználása a vizsgálat eredményes lefolytatása érdekében szükséges. Az országgyűlési biztos személyes adatokat csak a vizsgálata lefolytatásához szükséges mértékben és ideig kezelhet. Az országgyűlési biztos a vizsgálatának megállapításait jogosult nyilvánosságra hozni.
 
-(6) Az országgyűlési biztos az iratbetekintési jogát a Magyar Honvédségnél, a rendvédelmi szerveknél valamint az ügyészség nyomozást végző szervénél az e törvényben foglalt korlátozások szerint gyakorolhatja.
+(7) Az országgyűlési biztos az iratbetekintési jogát a Magyar Honvédségnél, a rendvédelmi szerveknél valamint az ügyészség nyomozást végző szervénél az e törvényben foglalt korlátozások szerint gyakorolhatja.
 
-(7) A titkosszolgálati eszközök és módszerek alkalmazására jogosult szervek e tevékenységével is kapcsolatos kérdésre vagy bejelentésre az országgyűlési biztos a válaszát úgy fogalmazza meg, hogy abból a felsorolt szervek egyes esetekhez kapcsolódó titkos információgyűjtő tevékenységére ne lehessen következtetéseket levonni.
+(8) A titkosszolgálati eszközök és módszerek alkalmazására jogosult szervek e tevékenységével is kapcsolatos kérdésre vagy bejelentésre az országgyűlési biztos a válaszát úgy fogalmazza meg, hogy abból a felsorolt szervek egyes esetekhez kapcsolódó titkos információgyűjtő tevékenységére ne lehessen következtetéseket levonni.
 
-(8) Azokat az iratokat, amelyekbe az országgyűlési biztos a Magyar Honvédségnél, a rendvédelmi szerveknél és az ügyészség nyomozást végző szervénél nem tekinthet be, a törvény melléklete tartalmazza. Ha azonban az országgyűlési biztos az ügy teljes körű feltárása érdekében a mellékletben felsorolt iratok megvizsgálását is szükségesnek látja, a hatáskörrel rendelkező minisztertől, a nemzetbiztonsági szolgálatok esetében a szolgálatot vezető főigazgatótól, az ügyészség nyomozást végző szerve esetében pedig a legfőbb ügyésztől kérheti azok megvizsgálását. A felkért személyek kötelesek az országgyűlési biztos által megkívánt vizsgálatot elvégezni (elvégeztetni) és azok eredményéről az országgyűlési biztost tizenöt napon belül tájékoztatni.
+(9) Azokat az iratokat, amelyekbe az országgyűlési biztos a Magyar Honvédségnél, a rendvédelmi szerveknél és az ügyészség nyomozást végző szervénél nem tekinthet be, a törvény melléklete tartalmazza. Ha azonban az országgyűlési biztos az ügy teljes körű feltárása érdekében a mellékletben felsorolt iratok megvizsgálását is szükségesnek látja, a hatáskörrel rendelkező minisztertől, a nemzetbiztonsági szolgálatok esetében a szolgálatot vezető főigazgatótól, az ügyészség nyomozást végző szerve esetében pedig a legfőbb ügyésztől kérheti azok megvizsgálását. A felkért személyek kötelesek az országgyűlési biztos által megkívánt vizsgálatot elvégezni (elvégeztetni) és azok eredményéről az országgyűlési biztost tizenöt napon belül tájékoztatni.
 
-(9) A (3) bekezdés szerinti meghallgatás során a válaszadást, illetőleg a (4) bekezdés szerinti nyilatkozattételt az arra felhívott személy megtagadhatja, ha
+(10) A (3) bekezdés szerinti meghallgatás során a válaszadást, illetőleg a (4) bekezdés szerinti nyilatkozattételt az arra felhívott személy megtagadhatja, ha
 
 - a) az a személy, akit az országgyűlési biztos eljárásának alapját képező beadvány érint, a polgári perrendtartásról szóló törvény szerinti hozzátartozója vagy élettársa;
 - b) a válaszadás vagy nyilatkozattétel során magát, vagy a polgári perrendtartásról szóló törvény szerinti hozzátartozóját, illetve élettársát bűncselekmény elkövetésével vádolná, az azzal kapcsolatos kérdésben.
 
-(10) Ha az országgyűlési biztos a (2)–(4) bekezdésben foglalt jogosítványai alapján adatot (felvilágosítást, magyarázatot stb.) kér, a megkeresésnek – ha e törvény másként nem rendelkezik – a megkeresett szerv az országgyűlési biztos által megállapított határidőn belül, amely tizenöt napnál rövidebb nem lehet, köteles eleget tenni.
+(11) Ha az országgyűlési biztos a (2)–(4) bekezdésben foglalt jogosítványai alapján adatot (felvilágosítást, magyarázatot stb.) kér, a megkeresésnek – ha e törvény másként nem rendelkezik – a megkeresett szerv az országgyűlési biztos által megállapított határidőn belül, amely tizenöt napnál rövidebb nem lehet, köteles eleget tenni.
 
 19. § (1) Az országgyűlési biztos a lefolytatott vizsgálat eredményéről, illetve esetleges intézkedéséről a beadványt tevőt értesíti.
 
@@ -190,7 +190,7 @@ Az Országgyűlés az Alkotmány 32/B. §-ának végrehajtására a következő 
 
 (2) Az (1) bekezdés szerinti esetben, ha az országgyűlési biztos a 22. §-ban megjelölt intézkedést tette, illetve a 25. §-ban szabályozott esetben az Országgyűlést kereste meg, az országgyűlési biztos az intézkedését, illetve a megkeresett szerv intézkedését vagy annak elmulasztását az éves beszámolóban jelzi.
 
-(3) Az (1) bekezdés szerinti esetben, ha a visszásság a Magyar Honvédség, vagy a rendvédelmi szervek működésével kapcsolatban fordult elő és feltárása államtitkot vagy szolgálati titkot érintene, az ügyet az országgyűlési biztos éves beszámolójával egyidejűleg, vagy — ha a visszásság kirívóan súlyos, illetve a természetes személyek nagyobb csoportját érinti — az éves beszámolót megelőzően titkos minősítésű jelentésben az Országgyűlés hatáskörrel rendelkező bizottsága elé terjeszti. A napirendre tűzés kérdéséről a bizottság zárt ülésen dönt.
+(3) Az (1) bekezdés szerinti esetben, ha a visszásság a Magyar Honvédség vagy a rendvédelmi szervek működésével kapcsolatban fordult elő és feltárása minősített adatot érintene, az ügyet az országgyűlési biztos éves beszámolójával egyidejűleg, vagy – ha a visszásság kirívóan súlyos, illetve a természetes személyek nagyobb csoportját érinti – az éves beszámolót megelőzően, szükség szerint a minősített adat védelméről szóló törvényben meghatározott minősítési szintű jelentésben az Országgyűlés hatáskörrel rendelkező bizottsága elé terjeszti. A napirendre tűzés kérdéséről a bizottság zárt ülésen dönt.
 
 ### Az országgyűlési biztos éves beszámolója
 
@@ -198,7 +198,7 @@ Az Országgyűlés az Alkotmány 32/B. §-ának végrehajtására a következő 
 
 (2) Az országgyűlési biztos beszámolóját az országgyűlési határozathozatalt követően a Magyar Közlönyben közzé kell tenni.
 
-(3) A külön biztos önálló beszámolót terjeszt elő, amelyre az (1) és (2) bekezdés szabályai irányadóak.
+(3) A külön biztos önálló beszámolót terjeszt elő, amelyre az (1) és (2) bekezdés szabályai irányadóak. Az adatvédelmi biztos beszámolója tartalmazza a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény 26. § (5) bekezdésében meghatározott eljárásának a tapasztalatait is.
 
 ### A jövő nemzedékek országgyűlési biztosa
 
@@ -262,9 +262,9 @@ Az Országgyűlés az Alkotmány 32/B. §-ának végrehajtására a következő 
 
 (3) A jövő nemzedékek országgyűlési biztosa eljárása során, annak lefolytatása érdekében – ha az eljárás lefolytatásához szükséges adatok, körülmények vagy tények megismerése más módon nem biztosítható – minden olyan helyiségbe, ingatlanra beléphet, ahol visszafordíthatatlan környezetkárosodással fenyegető tevékenység folyik.
 
-(4) A magántitok, az üzleti titok, az államtitok és szolgálati titok vagy a külön törvényben meghatározott más titok a jövő nemzedékek országgyűlési biztosát az (1)–(3) bekezdésben meghatározott jogainak gyakorlásában nem akadályozhatja, de a titok megtartására vonatkozó rendelkezések – ha törvény eltérően nem rendelkezik – rá nézve is kötelezőek.
+(4) A magántitok, az üzleti titok, a minősített adat vagy a külön törvényben meghatározott más titok a jövő nemzedékek országgyűlési biztosát az (1)–(3) bekezdésben meghatározott jogainak gyakorlásában nem akadályozhatja, de a titok megtartására vonatkozó rendelkezések – ha törvény eltérően nem rendelkezik – rá nézve is kötelezőek.
 
-(5) Az államtitkot vagy a szolgálati titkot érintő adatkezelés esetén a jövő nemzedékek országgyűlési biztosa jogait csak személyesen vagy az általa kezdeményezett nemzetbiztonsági ellenőrzésen átesett munkatársai útján gyakorolhatja.
+(5) A minősített adatot érintő adatkezelés esetén a jövő nemzedékek országgyűlési biztosa jogait csak személyesen vagy az általa kezdeményezett nemzetbiztonsági ellenőrzésen átesett munkatársai útján gyakorolhatja.
 
 (6) Ha az (1)–(3) bekezdésben meghatározott jogainak gyakorlásához szükséges közreműködést a felvilágosítás adása iránt megkeresett, az iratokkal rendelkező személy, illetve az ingatlan tulajdonosa vagy használója megtagadja, arra a Fővárosi Bíróság – a jövő nemzedékek országgyűlési biztosa kezdeményezésére – kötelezi. A Fővárosi Bíróság a kérelem beérkezésétől számított nyolc napon belül – szükség esetén személyes meghallgatás tartásával – nemperes eljárásban határoz, amely határozata ellen fellebbezésnek nincs helye.
 
@@ -332,7 +332,7 @@ I. Az országgyűlési biztos a Magyar Honvédséget érintő vizsgálata során
 
 7. Az MH részletezett költségvetési, számítási, fejlesztési anyagába.
 
-8. Más országok védelmi minisztériumaival és hadseregeivel kötött olyan együttműködési megállapodásokba és tervekbe, valamint a haditechnikai eszközök azon adataiba, melyeket a felek kölcsönösen államtitoknak minősítenek.
+8. Más országok védelmi minisztériumaival és hadseregeivel kötött olyan együttműködési megállapodásokba és tervekbe, valamint a haditechnikai eszközök azon adataiba, melyeket a felek kölcsönösen „Szigorúan titkos!” minősítésű adatnak minősítenek.
 
 9. A hadászati felderítés eszközeire, működésére, valamint az MH felderítés elleni védelmére vonatkozó összesített adatokat tartalmazó iratokba.
 
@@ -350,7 +350,7 @@ II. Az országgyűlési biztos a nemzetbiztonsági szolgálatokat érintő eljá
 
 6. A számítástechnikai eszközök számával, elhelyezésével, működésével, illetve az alkalmazott software-ekkel kapcsolatos dokumentumokba.
 
-7. A rejtjel tevékenységgel, annak szakirányításával és hatósági felügyeletével kapcsolatos dokumentumokba.
+7. A rejtjeltevékenységgel kapcsolatos dokumentumokba.
 
 8. A biztonsági okmányvédelemmel és technológiai ellenőrzéssel kapcsolatos dokumentumokba.
 
@@ -364,23 +364,25 @@ II. Az országgyűlési biztos a nemzetbiztonsági szolgálatokat érintő eljá
 
 III. Az országgyűlési biztos a rendőrséget érintő eljárása során nem tekinthet be:
 
-1. Más államok rendőri szerveivel, nemzetközi szervezettel kötött együttműködés okmányaiba, illetve az együttes intézkedésekbe és az együttműködés során keletkezett, a rendőrség valamely szerve rendelkezésére bocsátott adatokba, információkba, amennyiben a szerződő felek azok állam- vagy szolgálati titokként történő védelmét kérik.
+1. Más államok rendőri szerveivel, nemzetközi szervezettel kötött együttműködés okmányaiba, illetve az együttes intézkedésekbe és az együttműködés során keletkezett, a rendőrség valamely szerve rendelkezésére bocsátott adatokba, információkba, amennyiben a szerződő felek azok minősített adatként történő védelmét kérik.
 
 2. A rendőrség nemzetközi kapcsolataira vonatkozó azon minősített dokumentumokba, megállapodásokba, amelyek a nemzetközi szervezett bűnözés (ideértve a kábítószer-kereskedelmet, a pénzmosást és a terrorcselekményeket) felderítésére és a cselekmények megelőzésére vonatkozó konkrét kötelezettségvállalást tartalmazzák.
 
 3. A nemzetbiztonsági szolgálatoknak a rendőrséggel történő együttműködésével kapcsolatos, és az abból származó, vagy arra vonatkozó minden olyan adatba, amelyet a törvény mellékletének II. szám alatti pontjai felsorolnak.
 
-4. A rendőrségi, illetve a rendőrség által védett objektumok, valamint a rendőrség által védett személyek őrzésvédelmi terveibe, a védelmi berendezésekre, őrségekre, őrhelyekre vonatkozó dokumentációkba, leírásokba.
+4. A rendőrségi, illetve a rendőrség által védett objektumok, valamint a rendőrség által védett személyek őrzés-védelmi terveibe, a védelmi berendezésekre, őrségekre, őrhelyekre vonatkozó dokumentációkba, leírásokba.
 
-5. Az ügyben érintett személyzeti anyagaiba, kivéve, ha ezt az érintett személy írásban kéri.
+5. Az ügyben érintett személyzeti anyagaiba, kivéve, ha ezt az érintett személy írásban igényli.
 
-6. A rendőrséggel titkosan együttműködő magánszemélyek azonosítását lehetővé tevő dokumentumokba, kivéve, ha a jogsérelem az együttműködő személyt érte, s a kivizsgálást maga kéri.
+6. A rendőrséggel titkosan együttműködő magánszemélyek azonosítását lehetővé tevő dokumentumokba, kivéve ha a jogsérelem az együttműködő személyt érte, s a kivizsgálást maga kéri.
 
-7. A rendőrség által titkos információgyűjtésre használt eszközök és módszerek működésének és működtetésének műszaki-technikai adatait tartalmazó, vagy az azokat alkalmazó személyek azonosítását lehetővé tevő dokumentumokra.
+7. A rendőrség által titkos információgyűjtésre használt eszközök és módszerek működésének és működtetésének műszaki-technikai adatait tartalmazó vagy az azokat alkalmazó személyek azonosítását lehetővé tevő dokumentumokba.
 
 8. A rendőrség rejtjeles híradásával kapcsolatos adatok, eszközök, dokumentációk, iratok, valamint a kormányzati célú frekvencia nyilvántartásával kapcsolatos összesített adatokba.
 
 9. A tanú személyi adataiba, ha azok zárt kezelését a büntetőeljárásról szóló törvény alapján elrendelték.
+
+10. A Magyar Honvédséggel, a nemzetbiztonsági szolgálatokkal kötött együttműködési megállapodásokba, amelyeket a felek „Szigorúan titkos!” minősítési szintű adatnak minősítettek.
 
 IV.
 
@@ -388,7 +390,7 @@ V.
 
 VI. Az országgyűlési biztos a Vám- és Pénzügyőrséget (a továbbiakban: VP) érintő eljárása során nem tekinthet be:
 
-1. Más államok vámszerveivel, nemzetközi szervezettel kötött együttműködés okmányaiba, illetve az együttes intézkedésekbe és az együttműködés során keletkezett, a VP valamely szerve rendelkezésére bocsátott adatokba, információkba, amennyiben a szerződő felek azok állam- vagy szolgálati titokként történő védelmét kérik.
+1. Más államok vámszerveivel, nemzetközi szervezettel kötött együttműködés okmányaiba, illetve az együttes intézkedésekbe és az együttműködés során keletkezett, a VP valamely szerve rendelkezésére bocsátott adatokba, információkba, amennyiben a szerződő felek azok minősített adatként történő védelmét kérik.
 
 2. A VP nemzetközi kapcsolataira vonatkozó azon minősített dokumentumokba, megállapodásokba, amelyek a nemzetközi szervezett bűnözés (ideértve a kábítószer-kereskedelmet, a pénzmosást és a terrorcselekményeket) felderítésére és a cselekmények megelőzésére vonatkozó konkrét kötelezettségvállalást tartalmazzák.
 
@@ -419,3 +421,7 @@ VII. Az országgyűlési biztos az ügyészség nyomozást végző szervét éri
 4. Az ügyben érintett személyzeti anyagaiba, kivéve, ha ezt az érintett személy írásban kéri.
 
 5. A rendőrséggel titkosan együttműködő magánszemélyek azonosítását lehetővé tevő dokumentumokba, kivéve, ha a jogsérelem az együttműködő személyt érte, s a kivizsgálást maga kéri.
+
+VIII. Az országgyűlési biztos a Nemzeti Biztonsági Felügyeletnek a minősített adat védelméről szóló törvényben meghatározott feladatait érintő eljárása során nem tekinthet be:
+
+A rejtjeltevékenység szakirányításával és hatósági engedélyezésével, felügyeletével kapcsolatos dokumentumokba.

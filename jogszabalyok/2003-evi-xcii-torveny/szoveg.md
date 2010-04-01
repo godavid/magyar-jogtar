@@ -195,7 +195,7 @@ teljesíti;
 - a) az adóhatóság, illetőleg a felettes szerv döntés-előkészítéssel összefüggő belső levelezésébe,
 - b) a határozat (végzés) tervezetébe,
 - c) a tanú vagy az eljárásban részt vevő más személy természetes személyazonosító adatait tartalmazó jegyzőkönyvbe (iratba), ha az adóhatóság ezen adatokat zártan kezeli,
-- d) betekintési engedély hiányában az államtitkot vagy szolgálati titkot tartalmazó iratba,
+- d) felhasználói engedély hiányában a minősített adatot tartalmazó iratba,
 - e) az iratnak azon részébe, amelynek megismerése a más személyre vonatkozó, adótitkot érintő rendelkezésbe ütközik,
 - f) törvény által védett egyéb adatot tartalmazó iratba, ha azt az érintett adat védelmét szabályozó törvény kizárja.
 
@@ -259,7 +259,7 @@ teljesíti;
 - j) a 22. § (1) bekezdésében előírt nyilatkozatot;
 - k) átalányadó választását;
 - l) választása szerint a naptári évtől eltérő üzleti év mérlegforduló napját;
-- m) közhasznú, kiemelkedően közhasznú szervezetként történő nyilvántartásba vételét.
+- m) közhasznú, kiemelkedően közhasznú szervezetként történő nyilvántartásba vételét. [n) alapítványok esetében a bírósági nyilvántartási számát]
 
 (4) A munkáltató és a kifizető (ideértve a kiegészítő tevékenységet folytatónak nem minősülő, a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény – a továbbiakban: Tbj. – 4. § b) pontja szerinti egyéni vállalkozót és a biztosított mezőgazdasági őstermelőt és a Tbj. 56/A. §-a szerinti személyt saját biztosítási jogviszonya tekintetében is) – adóazonosító számának, nevének, elnevezésének, székhelyének, telephelyének, lakóhelyének, továbbá jogelődje nevének és adószámának közlésével – az illetékes elsőfokú állami adóhatóságnak elektronikus úton vagy az erre a célra rendszeresített nyomtatványon bejelenti az általa foglalkoztatott biztosított természetes személyazonosító adatait, állampolgárságát, adóazonosító jelét, a biztosítási jogviszonyának kezdetét, kódját, megszűnését, a biztosítás szünetelésének időtartamát, a heti munkaidejét, a FEOR-számát, magán-nyugdíjpénztári tagság esetén feltünteti a pénztár nevét, azonosítóját. A bejelentést
 
@@ -284,6 +284,8 @@ teljesíti;
 - c) ha adókötelezettsége, adóköteles bevételszerző tevékenysége nem tartozik az a) és b) pont hatálya alá, a tevékenység megkezdését megelőzően az állami adóhatóságnál az e célra szolgáló nyomtatványon, írásban teljesíti bejelentkezési kötelezettségét. Ha az adózó bejelentkezési kötelezettségét – jogszabálysértő módon – a tevékenység megkezdését követően teljesíti, a bejelentkezés során a tevékenység kezdőidőpontját is köteles az állami adóhatósághoz írásban bejelenteni.
 
 (2) A cégbíróság, illetve az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóság az erre a célra szolgáló számítógépes rendszer útján közli az állami adóhatósággal azokat a 16. § (3) bekezdésében felsorolt adatokat, amelyek a cégbejegyzés, vállalkozói tevékenység bejelentése iránt kitöltött nyomtatványon rendelkezésre állnak, ideértve a 16. § (3) bekezdésének j) és k) pontjában megjelölt nyilatkozat, valamint a 17. § (1) bekezdés b) pontja szerinti adózó esetén az adózó főtevékenységéről szóló nyilatkozat adatait is. Az állami adóhatóság az adószám megállapításához szükséges, az adóköteles tevékenységet folytatni kívánó adózó neve (elnevezése), címe (székhelye), cégjegyzék száma, illetve a 22. § (1) bekezdés szerinti nyilatkozat alapján számítógépes rendszer útján közli a cégbírósággal, illetőleg az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatósággal az adózó adóazonosító számát, illetve az ok megjelölésével értesíti a megkereső szervet az adószám megállapításának akadályáról. Az állami adóhatóság az adószám megállapításának megtagadásáról szóló jogerős határozat egy példányának megküldésével és elektronikus úton is értesíti a cégbíróságot, illetőleg az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóságot.
+
+[(2) A cégbíróság, illetve a körzetközponti jegyző, illetve alapítványok esetében a bíróság az erre a célra szolgáló számítógépes rendszer útján közli az állami adóhatósággal azokat a 16. § (3) bekezdésében felsorolt adatokat, amelyek a cégbejegyzés, alapítványok nyilvántartásba vétele, vállalkozói igazolvány kiállítása iránt kitöltött nyomtatványon rendelkezésre állnak, ideértve a 16. § (3) bekezdésének j) és k) pontjában megjelölt nyilatkozat, valamint az adózó főtevékenységéről szóló nyilatkozat adatait is. Az állami adóhatóság az adószám megállapításához szükséges, az adóköteles tevékenységet folytatni kívánó adózó neve (elnevezése), címe (székhelye), cégjegyzék- vagy egyéni vállalkozói nyilvántartási száma, illetve alapítványok esetében azok bírósági nyilvántartási száma, illetve a 22. § (1) bekezdés szerinti nyilatkozat alapján számítógépes rendszer útján közli a cégbírósággal, illetve alapítványok esetében a bírósággal, illetőleg a körzetközponti jegyzővel az adózó adóazonosító számát, illetve az ok megjelölésével értesíti a megkereső szervet az adószám megállapításának akadályáról. Az állami adóhatóság az adószám megállapításának megtagadásáról szóló jogerős határozat egy példányának megküldésével értesíti a cégbíróságot, illetve alapítványok esetében a bíróságot, illetőleg a körzetközponti jegyzőt.]
 
 (3) Az (1) bekezdés a) pontjában megjelölt adózó a bejelentkezéssel egyidejűleg, az (1) bekezdés b) pontjában megjelölt adózó a bejelentkezés napjától számított 15 napon belül a 16. § (3) bekezdésében felsorolt adatok közül az állami adóhatósághoz írásban bejelenti:
 
@@ -329,6 +331,8 @@ teljesíti;
 (14) Az egyéni vállalkozó adózó tevékenységi köreinek a 1893/2006/EK rendeletnek megfelelő bejelentését a statisztikai hivatal elnökének a Szakmakód jegyzékről szóló közleménye szerinti szakmakódokon (a továbbiakban: szakmakód) teljesíti. A magánszemélyként adószám birtokában adóköteles tevékenységet végző adózó tevékenységi köreit szakmakód szerint jelenti be az állami adóhatósághoz.
 
 (15) Az adózó a helyi iparűzési adókötelezettsége keletkezését, illetve megszűnését – a helyi iparűzési adó bevételre jogosult települési önkormányzat megjelölésével – az adókötelezettség bekövetkeztétől (a tevékenység megkezdésétől), illetve megszűnésétől számított 15 napon belül bejelenti az állami adóhatóságnak. Az iparűzési tevékenységet ideiglenes, alkalmi jelleggel folytató adózó adóköteles tevékenységének megkezdése előtt, de legkésőbb a tevékenység megkezdésének napján köteles ezt az állami adóhatóságnál bejelenteni.
+
+[(15) Az állami adóhatóság az e célra fenntartott számítógépes rendszeren keresztül értesíti alapítványok esetében az adószám megállapításáról az alapítvány adatainak közlésével a nyilvántartásba vételt elrendelő bíróságot.]
 
 (16) Az adózó évente augusztus 31-éig bejelenti, hogy a társasági adóról és az osztalékadóról szóló törvény szerint ingatlannal rendelkező társaságnak minősül illetve azt, hogy e minősége megszűnt. Az ingatlannal rendelkező társaság bejelentésében – a benyújtás időpontját megelőző naptári év vonatkozásában – nyilatkozik a társaság külföldi tagjai általi részesedés elidegenítéséről, az elidegenítés időpontjáról, a részesedés névértékéről, illetve a tag illetőségéről.
 
@@ -699,7 +703,7 @@ a munkáltató a feltárt adókülönbözetet a feltárás időpontjában nyilv�
 - 24. a társas vállalkozóként biztosított, egyidejűleg több gazdasági társaság személyesen közreműködő tagja Tbj. 31. § (5) bekezdése szerinti nyilatkozatában foglalt választásáról,
 - 25. a külföldi illetőségű magánszemélynek kifizetett jövedelem összegéről, és az általános mértéktől eltérően levont, le nem vont adó, adóelőleg összegéről,
 - 26. a társas vállalkozóként is biztosított egyéni vállalkozó Tbj. 31. § (6) bekezdése szerinti nyilatkozatában foglalt választásáról,
-- 27. az e bekezdés szerint havi adó- és járulékbevallás benyújtására kötelezett munkáltató, ha a tárgyhóban alkalmi munkavállalói könyvvel (AM könyv) rendelkező személyt foglalkoztat, e foglalkoztatási jogviszonnyal összefüggésben feltünteti az alkalmi munkavállaló AM könyvébe az adott hónapban történt alkalmi foglalkoztatás napjára (napjaira) beragasztott közteherjegy – hónapon belüli több napi foglalkoztatás esetén a közteherjegyek együttes – összegét, és a foglalkoztatás napját (napjait),
+- 27. az a munkáltató, amely a tárgyhóban az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerint foglalkoztat munkavállalót, e foglalkoztatási jogviszonnyal összefüggésben feltünteti az adott hónapban történt egyszerűsített foglalkoztatás napjára (napjaira) kifizetett (nettó) munkabér – a hónapon belüli több napi foglalkoztatás esetén a kifizetett (nettó) munkabér együttes – összegét, és a foglalkoztatás napját (napjait),
 - 28. a felszolgálási díj után fizetett nyugdíjjárulékot is magában foglaló nyugdíj-biztosítási járulék alapjáról és összegéről.
 
 (3) Az adózó az adóbevallásban az adózó azonosításához szükséges adatok között feltünteti adóazonosító számát. Az adózó adóazonosító szám birtokában olyan időszakról is tehet adóbevallást, amelyben adóazonosító számmal nem rendelkezett, adó-visszaigénylést, adó- visszatérítést ezen időszakra csak a 24. § (7) bekezdésében foglalt korlátokkal érvényesíthet.
@@ -1162,6 +1166,8 @@ szükséges,
 (3) A (2) bekezdésben megjelölt személy megsérti a titoktartási kötelezettséget, ha az adózás vagy bírósági eljárás során megismert adótitkot vagy más titkot alapos ok nélkül illetéktelen személy részére hozzáférhetővé teszi, felhasználja vagy közzéteszi.
 
 (4) Az (1) bekezdésben meghatározott adatkörön belül nem minősül adótitoknak a nyilvános cégadat, a céginformációs és az elektronikus cégeljárásban közreműködő szolgálattól kérhető adat, valamint az az adat, amely alanyával (adóalannyal vagy adózóval) nem hozható kapcsolatba.
+
+[(4) Az (1) bekezdésben meghatározott adatkörön belül nem minősül adótitoknak alapítványok esetében a 16. § (3) bekezdés szerinti adata, a bírósági nyilvántartás nyilvános adata, valamint az alapítványok bírósági nyilvántartásának üzemeltetőjétől kérhető adat, valamint az az adat, amely alanyával (adóalannyal vagy adózóval) nem hozható kapcsolatba.]
 
 54. § (1) Az adótitkot alapos okkal használják fel, ha
 
