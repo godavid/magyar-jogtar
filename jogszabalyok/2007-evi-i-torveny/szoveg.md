@@ -38,7 +38,8 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
   - cb) akinek a tevékenysége jogszabály szerint önállóan végezhető és ellenérték fejében történik, ha az egészségbiztosítási, illetve a nyugdíjbiztosítási szolgáltatások fedezetéről a jogszabályok rendelkezései szerint maga gondoskodik, vagy
   - cc) a cb) pont hatálya alá nem tartozó személy, aki gazdasági társaság, szövetkezet vagy egyéb – jövedelemszerzési céllal létrejött – jogi személy tulajdonosaként, ügyvezetőjeként, vezetői, képviseleti vagy felügyeleti szerve tagjaként végzi tevékenységét;
 - d) úti okmány: a Magyar Köztársaság által az államhatárának átlépésére jogosító okmányként elismert útlevél, igazolvány vagy irat, amely birtokosának személyazonosságát és állampolgárságát (hontalanságát) igazolja;
-- e) schengeni állam: az Európai Unióról szóló szerződéshez, valamint az Európai Közösséget létrehozó szerződéshez és az Európai Atomenergia-közösséget létrehozó szerződéshez csatolt, a schengeni vívmányoknak az Európai Unió keretébe történő beillesztéséről szóló jegyzőkönyv (a továbbiakban: Schengeni Jegyzőkönyv) 1. cikkében, illetve az 1999/435/EK tanácsi határozatban meghatározott schengeni vívmányokat, valamint az Európai Unió intézményei által az ezek hatálya alá tartozó területen hozott további intézkedéseket teljeskörűen alkalmazó európai uniós tagállam és a Schengeni Jegyzőkönyv 6. cikke alapján az Európai Unió Tanácsával kötött, a schengeni vívmányok végrehajtásában, alkalmazásában és fejlesztésében való részvételéről szóló megállapodásban részes más állam.
+- e) schengeni állam: az Európai Unióról szóló szerződéshez, valamint az Európai Közösséget létrehozó szerződéshez és az Európai Atomenergia-közösséget létrehozó szerződéshez csatolt, a schengeni vívmányoknak az Európai Unió keretébe történő beillesztéséről szóló jegyzőkönyv (a továbbiakban: Schengeni Jegyzőkönyv) 1. cikkében, illetve az 1999/435/EK tanácsi határozatban meghatározott schengeni vívmányokat, valamint az Európai Unió intézményei által az ezek hatálya alá tartozó területen hozott további intézkedéseket teljeskörűen alkalmazó európai uniós tagállam és a Schengeni Jegyzőkönyv 6. cikke alapján az Európai Unió Tanácsával kötött, a schengeni vívmányok végrehajtásában, alkalmazásában és fejlesztésében való részvételéről szóló megállapodásban részes más állam;
+- f) három hónapot meg nem haladó tartózkodásra jogosító vízum: a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Vízumkódex) 2. cikk 2. pontjában meghatározott engedély.
 
 ### II. Fejezet — A BEUTAZÁS, VALAMINT A TARTÓZKODÁS JOGA
 
@@ -57,13 +58,13 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 (5) A beutazásra a személyek határátlépésére irányadó szabályok közösségi kódexének létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: Schengeni határ-ellenőrzési kódex) foglalt szabályokat is alkalmazni kell.
 
-(6) A központi vízumhatóság a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadásához való hozzájárulás megadása előtt köteles egyeztetni azon schengeni államok központi hatóságaival, amelyek az egyeztetést kérik.
+(6) Az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszter által – a közbiztonság és a nemzetbiztonság védelme érdekében – meghatározott esetekben a három hónapot meg nem haladó tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki.
 
-4. § (1) Beutazásra jogosító vízumot az a harmadik ország állampolgárságával rendelkező családtag kaphat, aki eleget tesz a Schengeni határ-ellenőrzési kódex 5. cikk (1) bekezdés a), valamint c)–e) pontjában foglalt feltételeknek.
+(7) A központi vízumhatóság a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadásához való hozzájárulás megadása előtt köteles egyeztetni azon schengeni államok központi hatóságaival, amelyek az egyeztetést kérik.
 
-(2) Az érvényes vízum a harmadik ország állampolgárságával rendelkező családtagot arra jogosítja, hogy a vízum kiállításától számított három hónap alatt többször beutazzon.
+4. § (1) A három hónapot meg nem haladó tartózkodásra jogosító vízumot a Vízumkódexben foglalt eljárások és feltételek szerint kell kiadni.
 
-(3) Megszűnik a vízum alapján gyakorolt beutazási jog, ha az (1) bekezdésben foglalt feltételek már nem állnak fenn.
+(2) A három hónapot meg nem haladó tartózkodásra jogosító vízum a harmadik ország állampolgárságával rendelkező családtagot többszöri beutazásra és az első beutazás napjától számított bármely hat hónapos időszakban három hónapos tartózkodásra jogosítja.
 
 5. § A beutazástól számított három hónapot meg nem haladó tartózkodás joga az EGT-állampolgárt érvényes úti okmány vagy személyazonosító igazolvány, a harmadik ország állampolgárságával rendelkező, jogszerűen beutazó családtagot érvényes úti okmány birtokában megilleti mindaddig, amíg tartózkodása nem jelent indokolatlan terhet a Magyar Köztársaság szociális ellátórendszerére.
 
@@ -223,21 +224,11 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 ### A harmadik ország állampolgárságával rendelkező családtag számára kiadott vízum
 
-20. § (1) A vízum érvényességi ideje – a (2) bekezdésben foglaltak figyelembevételével – hat hónap, amelyet a kiállítás napjától kell számítani.
+20. § (1) A három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem, a vízum megsemmisítése, valamint a vízum visszavonása tárgyában hozott döntés ellen jogorvoslatnak nincs helye.
 
-(2) A vízum érvényességi ideje az úti okmány érvényességi idejét nem haladhatja meg.
+(2) A vízumeljárásban az eljáró hatóság meghallgathatja a korlátozottan cselekvőképes vagy a cselekvőképtelen kiskorú kérelmezőt is. A meghallgatás során a kérelmező törvényes képviselőjének, illetve a törvényes képviselő által adott meghatalmazással rendelkező, nagykorú cselekvőképes személynek is jelen kell lennie.
 
-(3) A vízum kiállítására irányuló eljárás tárgyi költségmentes.
-
-(4) A vízumkérelmet az eljáró hatóság a vízum kiadásával teljesíti, vagy határozattal utasítja el.
-
-(5) A kiadott vízumot érvényteleníteni kell, ha a harmadik ország állampolgárságával rendelkező családtag a beutazásakor nem tesz eleget a 4. § (1) bekezdésében meghatározott feltételeknek.
-
-(6) A vízum iránti kérelem, illetve a vízum érvénytelenítése tárgyában hozott határozat ellen jogorvoslatnak nincs helye.
-
-(7) A vízum kiadására irányuló eljárásban soron kívüli eljárásnak kiskorú kérelmező esetén akkor van helye, ha a beutazás igazolt célja a kiskorú gyógykezelése.
-
-(8) A vízumeljárásban az eljáró hatóság meghallgathatja a korlátozottan cselekvőképes vagy a cselekvőképtelen kiskorú kérelmezőt is. A meghallgatás során törvényes képviselőjének, illetve a törvényes képviselő által adott meghatalmazással rendelkező, nagykorú cselekvőképes személynek is jelen kell lennie.
+(3) A három hónapot meg nem haladó tartózkodásra jogosító vízum kiadására irányuló eljárás tárgyi költségmentes.
 
 ### Az EGT-állampolgár három hónapotmeghaladó tartózkodásának bejelentéseés a bejelentést igazoló okmány
 
@@ -802,7 +793,12 @@ bírálja el.
 
 (5) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy az idegenrendészetért és menekültügyért felelős miniszterrel egyetértésben a diplomáciai vagy egyéb mentességet élvező személyek beutazásának és tartózkodásának egyes szabályait rendeletben állapítsa meg.
 
-(6) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszter, hogy rendeletben állapítsa meg azokat az eseteket, amikor – a közbiztonság és a nemzetbiztonság védelme érdekében – más schengeni állam vízumkiadó hatósága a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadását megelőzően a központi vízumhatósággal egyeztet.
+(6) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszter, hogy rendeletben állapítsa meg azokat az eseteket, amikor – a közbiztonság és a nemzetbiztonság védelme érdekében –
+
+- a) a három hónapot meg nem haladó tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki, és
+- b) más schengeni állam vízumkiadó hatósága a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadását megelőzően a központi vízumhatósággal egyeztet.
+
+(7) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszter, hogy rendeletben határozza meg azokat a harmadik országokat, amelyek állampolgárai részére kiadott vízumokról a Vízumkódex 31. cikk (1) bekezdése szerint a központi vízumhatóság tájékoztatást kér.
 
 ### Hatálybalépés
 
