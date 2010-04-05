@@ -33,7 +33,8 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 - i) visszafogadási egyezmény: személyeknek az államhatáron történő átadás-átvételéről, hatósági kísérettel történő átszállításának, illetve átutazásának engedélyezéséről szóló nemzetközi szerződés;
 - j) beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés: valamely schengeni állam által a Schengeni Információs Rendszerben abból a célból elhelyezett adatcsoport, hogy egy harmadik országbeli állampolgárnak a schengeni államok területére történő beutazását vagy tartózkodását megtagadják;
 - k) munkáltató: az a természetes vagy jogi személy, jogi személyiség nélküli szervezet, aki vagy amely a harmadik országbeli állampolgárt foglalkoztatja;
-- l) meghívó: az a természetes vagy jogi személy, illetve jogi személyiség nélküli szervezet, aki, illetve amely hatósági hozzájárulással ellátott meghívólevélben kötelezettséget vállal arra, hogy a meghívott harmadik országbeli állampolgár részére – a Magyar Köztársaság területén történő tartózkodása időtartamára – szállást biztosít, eltartásáról gondoskodik, továbbá – ha nemzetközi szerződés másként nem rendelkezik – egészségügyi ellátásának, valamint kiutazásának költségeit fedezi.
+- l) meghívó: az a természetes vagy jogi személy, illetve jogi személyiség nélküli szervezet, aki, illetve amely hatósági hozzájárulással ellátott meghívólevélben kötelezettséget vállal arra, hogy a meghívott harmadik országbeli állampolgár részére – a Magyar Köztársaság területén történő tartózkodása időtartamára – szállást biztosít, eltartásáról gondoskodik, továbbá – ha nemzetközi szerződés másként nem rendelkezik – egészségügyi ellátásának, valamint kiutazásának költségeit fedezi;
+- m) három hónapot meg nem haladó tartózkodásra jogosító vízum: a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Vízumkódex) 2. cikk 2. pontjában meghatározott engedély.
 
 3. § Harmadik országbeli állampolgárnak kell tekinteni
 
@@ -56,57 +57,15 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 ### Három hónapot meg nem haladó tartózkodásra jogosító vízumok
 
-8. § (1) Három hónapot meg nem haladó tartózkodásra jogosító vízum:
+8. § A három hónapot meg nem haladó tartózkodásra jogosító vízumot a Vízumkódexben foglalt eljárások és feltételek szerint kell kiadni.
 
-- a) repülőtéri tranzitvízum, amely a repülőtér nemzetközi zónájába történő belépésre és ott a célállamba közlekedő járat indulásáig való tartózkodásra jogosít;
-- b) átutazóvízum, amely – egyszeri, kétszeri vagy többszöri – alkalmanként öt napot meg nem haladó átutazásra jogosít;
-- c) rövid időtartamú tartózkodásra jogosító vízum, amely egyszeri, kétszeri vagy többszöri beutazásra és három hónapot meg nem haladó időtartamú tartózkodásra jogosít.
+9. § (1) Az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszter által – a közbiztonság és a nemzetbiztonság védelme érdekében – meghatározott esetekben a három hónapot meg nem haladó tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki.
 
-(2) A három hónapot meg nem haladó tartózkodásra jogosító vízum legfeljebb öt évig érvényes.
+(2) A központi vízumhatóság a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadásához való hozzájárulás megadása előtt köteles egyeztetni azon schengeni államok központi hatóságaival, amelyek az egyeztetést kérik.
 
-9. § (1) Három hónapot meg nem haladó tartózkodásra jogosító vízumot az a harmadik országbeli állampolgár kaphat, aki eleget tesz a Schengeni határ-ellenőrzési kódex 5. cikk (1) bekezdés a), valamint c)–e) pontjaiban foglalt feltételeknek.
+(3) A három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem, a vízum megsemmisítése, visszavonása, valamint a vízum meghosszabbítása tárgyában hozott döntés ellen jogorvoslatnak nincs helye.
 
-(2)
-
-(3) A három hónapot meg nem haladó tartózkodásra jogosító vízum kiadását meg kell tagadni, illetve a kiadott vízumot vissza kell vonni, ha a harmadik országbeli állampolgár
-
-- a) a Schengeni határ-ellenőrzési kódex 5. cikk (1) bekezdés a) vagy c)–e) pontjában foglalt valamely feltételnek nem felel meg;
-- b) a tartózkodási jogosultság megszerzése érdekében az eljáró hatósággal hamis adatot, valótlan tényt közölt;
-- c) a beutazás és tartózkodás célja tekintetében az eljáró hatóság megtévesztésére törekedett.
-
-(4) A más schengeni állam által kiadott átutazóvízumot vagy rövid időtartamú tartózkodásra jogosító vízumot vissza kell vonni, ha jogosultja nem felel meg a Schengeni határ-ellenőrzési kódex 5. cikk (1) bekezdés a) vagy c)–e) pontjaiban foglalt valamely feltételnek.
-
-(5) A (4) bekezdésben foglaltaktól eltérően a más schengeni állam által kiadott átutazóvízumot vagy rövid időtartamú tartózkodásra jogosító vízumot nem kell visszavonni, ha a visszavonásnak kizárólag a Schengeni határ-ellenőrzési kódex 5. cikk (1) bekezdés e) pontja alapján lenne helye.
-
-(6) Az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszter által – a közbiztonság és a nemzetbiztonság védelme érdekében – meghatározott esetekben a három hónapot meg nem haladó tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki.
-
-(7) A központi vízumhatóság a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadásához való hozzájárulás megadása előtt köteles egyeztetni azon schengeni államok központi hatóságaival, amelyek az egyeztetést kérik.
-
-(8) A három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem, illetve a vízum visszavonása tárgyában hozott döntés ellen jogorvoslatnak nincs helye.
-
-10. § (1) A három hónapot meg nem haladó tartózkodásra jogosító vízum által biztosított tartózkodás időtartama csak humanitárius, keresőtevékenységgel összefüggő, személyes vagy elháríthatatlan ok fennállása esetén hosszabbítható meg, feltéve, hogy
-
-- a) a kérelmező megfelel a Schengeni határ-ellenőrzési kódex 5. cikk (1) bekezdés a), valamint c)–e) pontjaiban foglalt feltételeknek,
-- b) a meghosszabbítást alátámasztó új tények a vízum kiadásakor még nem álltak fenn, és
-- c) a meghosszabbítás nem vezet a vízum céljának megváltozásához.
-
-(2) A tartózkodás időtartama a meghosszabbítást követően sem haladhatja meg
-
-- a) átutazóvízum esetén a tíz napot,
-- b) rövid időtartamú tartózkodásra jogosító vízum esetén a három hónapot.
-
-(3) A három hónapot meg nem haladó tartózkodásra jogosító vízum meghosszabbítása iránti kérelmet elbíráló határozat ellen jogorvoslatnak nincs helye.
-
-11. § (1) Az átutazóvízumot, valamint a rövid időtartamú tartózkodásra jogosító vízumot korlátozott területi érvényességgel kell kiadni, ha
-
-- a) a vízumkiadó hatóság – kivételesen – nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből eltekint a Schengeni határ-ellenőrzési kódex 5. cikk (1) bekezdés a) vagy c)–e) pontjaiban foglalt valamely feltétel teljesítésétől;
-- b) a vízumkiadó hatóság – kivételesen – nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből eltekint a 9. § (6) bekezdésében meghatározott hozzájárulás beszerzésétől;
-- c) a központi vízumhatóság – kivételesen – nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből eltekint a 9. § (7) bekezdésében foglaltak teljesítésétől;
-- d) a központi vízumhatóság annak ellenére járul hozzá a vízum kiadásához, hogy a 9. § (7) bekezdése szerinti egyeztetés során egy vagy több schengeni állam a vízum kiadását kifogásolja;
-- e) a vízumkiadó hatóság rövid időtartamú tartózkodásra jogosító vízumot ad ki annak a kérelmezőnek, aki az első beutazásától számított hat hónapos időtartamon belül már felhasznált egy három hónapos tartózkodásra jogosító rövid időtartamú tartózkodásra jogosító vízumot;
-- f) a harmadik országbeli állampolgár Magyar Köztársaság által elismert úti okmányát valamely schengeni állam nem ismeri el.
-
-(2) A három hónapot meg nem haladó tartózkodásra jogosító vízum érvényessége az (1) bekezdés a)–e) pontjaiban foglalt esetekben a Magyar Köztársaság, az (1) bekezdés f) pontjában foglalt esetben pedig a Magyar Köztársaság, valamint az úti okmányt elismerő schengeni államok területére korlátozódik.
+10–11. §
 
 12. § (1) Más schengeni állam vízumkiadásra feljogosított diplomáciai vagy konzuli képviselete is kiadhat három hónapot meg nem haladó tartózkodásra jogosító vízumot a Magyar Köztársaság nevében.
 
@@ -1351,7 +1310,14 @@ hatályát veszti.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy – az idegenrendészetért és menekültügyért felelős miniszterrel egyetértésben – a közegészséget veszélyeztető betegségeket rendeletben állapítsa meg.
 
-(6) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszter, hogy rendeletben állapítsa meg azokat az eseteket, amikor – a közbiztonság és a nemzetbiztonság védelme érdekében – más schengeni állam vízumkiadó hatósága a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadását megelőzően a központi vízumhatósággal egyeztet.
+(6) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszter, hogy rendeletben állapítsa meg azokat az eseteket, amikor – a közbiztonság és a nemzetbiztonság védelme érdekében –
+
+- a) a három hónapot meg nem haladó tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki, és
+- b) más schengeni állam vízumkiadó hatósága a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadását megelőzően a központi vízumhatósággal egyeztet.
+
+(7) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszterrel egyetértésben rendeletben határozza meg azokat a harmadik országokat, amelyek állampolgárainak a Vízumkódex 3. cikk (2) bekezdése szerinti esetben repülőtéri tranzitvízummal kell rendelkezniük.
+
+(8) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszter, hogy rendeletben határozza meg azokat a harmadik országokat, amelyek állampolgárai részére kiadott vízumokról a Vízumkódex 31. cikk (1) bekezdése szerint a központi vízumhatóság tájékoztatást kér.
 
 112. §
 
