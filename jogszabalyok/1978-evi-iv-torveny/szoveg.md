@@ -3083,6 +3083,10 @@ ha súlyosabb bűncselekmény nem valósul meg, vétséget követ el, és pénzb
 
 (4)
 
+### A holokauszt nyilvános tagadása
+
+269/C. § Aki nagy nyilvánosság előtt a holokauszt áldozatának méltóságát azáltal sérti, hogy a holokauszt tényét tagadja, kétségbe vonja vagy jelentéktelen színben tünteti fel, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
+
 ### Rémhírterjesztés
 
 270. § Aki közveszély színhelyén nagy nyilvánosság előtt olyan valótlan tényt – vagy való tényt oly módon elferdítve – állít vagy híresztel, amely alkalmas az emberek nagyobb csoportjában zavar vagy nyugtalanság keltésére, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
