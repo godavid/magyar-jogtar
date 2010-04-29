@@ -951,7 +951,7 @@ vonatkozó rendelkezések megsértőivel szemben 3 000 000 Ft-ig terjedő bírs�
 
 (6) A légi közlekedés védelme érdekében – külön jogszabályban meghatározott eljárási rend szerint – a munkavállalókat, továbbá az eseti munkavégzés céljából a repülőtér nyilvánosság számára hozzá nem férhető zárt területére kíséret nélkül belépő személyeket ellenőrizni kell.
 
-(7) A polgári légiközlekedés biztonsága területén közös szabályok létrehozásáról szóló, 2002. december 16-i 2320/2002/EK európai parlamenti és tanácsi rendeletben meghatározott repülőtér azon területére, ahol a belépés korlátozott (a továbbiakban: zárt terület) nem léphet be és a légiközlekedés területén – e törvény eltérő rendelkezése hiányában – nem foglalkoztatható
+(7) A polgári légi közlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről szóló, 2008. március 11-i 300/2008/EK európai parlamenti és tanácsi rendeletben meghatározott repülőtér azon területére, ahol a belépés korlátozott (a továbbiakban: zárt terület) nem léphet be és a légiközlekedés területén – e törvény eltérő rendelkezése hiányában – nem foglalkoztatható
 
 - a) aki büntetett előéletű,
 - b)
@@ -1141,7 +1141,7 @@ rendeletben állapítsa meg.
 
 74/A. § (1) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
 
-- a) az Európai Parlament és a Tanács 2320/2002/EK rendelete (2002. december 16.) a polgári légiközlekedés biztonsága területén közös szabályok létrehozásáról, 12. cikk;
+- a) az Európai Parlament és a Tanács 300/2008/EK rendelete (2008. március 11.) a polgári légi közlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről;
 - b) az Európai Parlament és a Tanács 261/2004/EK rendelete (2004. február 11.) a visszautasított beszállás és légijáratok törlése vagy hosszú késése esetén az utasoknak nyújtandó kártalanítás és segítség közös szabályainak megállapításáról, és a 295/91/EGK rendelet hatályon kívül helyezéséről, 16. cikk;
 - c) az Európai Parlament és a Tanács 549/2004/EK rendelete (2004. március 10.) az egységes európai égbolt létrehozására vonatkozó keret megállapításáról („keretrendelet”), 9. cikk;
 - d) az Európai Parlament és a Tanács 785/2004/EK rendelete (2004. április 21.) a légifuvarozókra és légijárművek üzemben tartóira vonatkozó biztosítási követelményekről, 8. cikk;
