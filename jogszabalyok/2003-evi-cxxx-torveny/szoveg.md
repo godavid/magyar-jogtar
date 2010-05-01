@@ -198,7 +198,7 @@ napon belül kell meghozni.
 - a) ha a személy a végleges szabadon bocsátását követő negyvenöt napon belül nem hagyja el – bár erre lehetősége lett volna – a Magyar Köztársaság területét, vagy elhagyása után ide visszatér;
 - b) ha a bűncselekmény szabadságvesztés büntetéssel nem büntethető, vagy szabadságelvonással járó intézkedéssel nem fenyegetett;
 - c) ha a büntetőeljárás eredményeként nem kerül sor személyi szabadságot korlátozó intézkedés alkalmazására;
-- d) ha a személlyel szemben szabadságelvonással nem járó büntetés vagy intézkedés, különösen pénzbüntetés vagy pénzmellékbüntetés szabható ki, illetőleg alkalmazható, még akkor sem, ha a büntetés vagy intézkedés személyi szabadságának korlátozását eredményezheti;
+- d) ha a személlyel szemben szabadságelvonással nem járó büntetés vagy intézkedés, különösen pénzbüntetés szabható ki, illetőleg alkalmazható, még akkor sem, ha a büntetés vagy intézkedés személyi szabadságának korlátozását eredményezheti;
 - e) ha a személy beleegyezett az átadásába, és ezzel egyidejűleg lemondott a specialitás szabályának alkalmazásáról;
 - f) ha a személy az átadása után, az átadását megelőzően elkövetett meghatározott cselekmények vonatkozásában kifejezetten lemondott a specialitás szabályának alkalmazásához fűződő jogáról. A lemondó nyilatkozatot a magyar illetékes igazságügyi hatóság előtt kell megtenni, és azt jegyzőkönyvbe kell venni, amelyet mind az igazságügyi hatóság képviselőjének, mind a nyilatkozattevőnek alá kell írnia. A lemondó nyilatkozatot úgy kell megfogalmazni, hogy abból egyértelműen kitűnjön, hogy azt az érintett személy önként és az abból adódó következmények teljes tudatában tette. A személy védőt vehet igénybe.;
 - g) ha a személyt átadó tagállami igazságügyi hatóság a (3) bekezdéssel összhangban hozzájárulását adja.
@@ -693,17 +693,17 @@ kibocsátott határozatot, ha azt az e törvény 3. számú melléklete szerinti
 
 ### II. CÍM — A PÉNZBÜNTETÉS VÉGREHAJTÁSA AZ EURÓPAI UNIÓ TAGÁLLAMAIBAN
 
-67/S. § (1) A pénzbüntetésnek az Európai Unió valamely tagállamában való végrehajtása iránt a bíróság, amelynek eljárásában a pénzbüntetés, a pénzmellékbüntetés, a bűnügyi költség végrehajthatóvá válik, a hatáskörrel rendelkező és illetékes tagállami igazságügyi hatósághoz címzett közvetlen megkeresés útján intézkedhet.
+67/S. § (1) A pénzbüntetésnek az Európai Unió valamely tagállamában való végrehajtása iránt a bíróság, amelynek eljárásában a pénzbüntetés, a bűnügyi költség végrehajthatóvá válik, a hatáskörrel rendelkező és illetékes tagállami igazságügyi hatósághoz címzett közvetlen megkeresés útján intézkedhet.
 
 (2) A bíróság kiállítja az e törvény 5. számú mellékletben szereplő formanyomtatvány tanúsítványt, amelyet a végrehajtó tagállam hivatalos nyelvére vagy a tagállam által megjelölt nyelvre lefordítva posta, telefax vagy számítástechnikai rendszer útján továbbít. A számítástechnikai rendszer útján továbbított határozatot minősített elektronikus aláírással kell ellátni.
 
-(3) Ha a pénzbüntetés, a pénzmellékbüntetés, a bűnügyi költség végrehajtása egyidejűleg több tagállamban is lehetséges, a bíróság az összes körülmény mérlegelésével határoz arról, hogy a végrehajtás iránti megkeresést melyik tagállamba küldi meg. A megkeresést egyidejűleg csak egy tagállamba lehet továbbítani.
+(3) Ha a pénzbüntetés, a bűnügyi költség végrehajtása egyidejűleg több tagállamban is lehetséges, a bíróság az összes körülmény mérlegelésével határoz arról, hogy a végrehajtás iránti megkeresést melyik tagállamba küldi meg. A megkeresést egyidejűleg csak egy tagállamba lehet továbbítani.
 
 (4) Ha a rendelkezésre álló adatok alapján nem állapítható meg, hogy a végrehajtó tagállamban a határozat végrehajtására melyik tagállami igazságügyi hatóság rendelkezik hatáskörrel és illetékességgel, a kapcsolatfelvételhez szükséges adatokat az Európai Igazságügyi Hálózat kapcsolattartó pontjain keresztül kell beszerezni.
 
 67/T. § (1) A bíróság a végrehajtási eljárás megszüntetésére vagy felfüggesztésére, illetőleg a végrehajtás alá eső összeg csökkentésére okot adó körülményről haladéktalanul tájékoztatja a végrehajtó tagállamban eljáró hatóságot.
 
-(2) A tanúsítványban meg kell jelölni, hogy a pénzbüntetés, illetőleg a pénzmellékbüntetés végrehajthatatlansága esetén a bíróság a büntetés átváltoztatásához hozzájárul.
+(2) A tanúsítványban meg kell jelölni, hogy a pénzbüntetés, végrehajthatatlansága esetén a bíróság a büntetés átváltoztatásához hozzájárul.
 
 ### VI. Fejezet — AZ EURÓPAI UNIÓ TAGÁLLAMAIBAN ELRENDELT VAGYONELKOBZÁS VÉGREHAJTÁSA, VALAMINT A VAGYONELKOBZÁS VÉGREHAJTÁSA AZ EURÓPAI UNIÓ TAGÁLLAMAIBAN
 
@@ -1094,8 +1094,8 @@ E törvény 3. §-ának (2) bekezdése, 50/A. §-ának (4) bekezdése, 50/B. §-
 | rasszizmus és idegengyűlölet | lelkiismeret és vallásszabadság megsértésének bűntette | 174/A. § |  |  |  |
 | nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak bűntette | 174/B. § |  |  |  |
 | közösség elleni izgatás bűntette | 269. § |  |  |  |
-| szervezett lopás vagy fegyveres rablás | rablás bűntette | 321. § (3) bek. a) és c) pont és (4) bek. b)–c) pont |  |  |  |
-| kifosztás bűntette | 322. § (2) bek. b) pont |  |  |  |
+| szervezett lopás vagy fegyveres rablás | rablás bűntette | 321. § (3) bekezdés c) pont, (4) bekezdés a), c) és d pont, valamint (5) bekezdés a) és b) pont |  |  |  |
+| kifosztás bűntette | 322. § (2) bek. b) pont, |  |  |  |
 | kulturális javak – ideértve a régiségeket és műtárgyakat is – tiltott kereskedelme | orgazdaság egyes esetei | 326. § (3) bek. |  |  |  |
 | kulturális javakkal visszaélés bűntette | 216/B. § |  |  |  |
 | csalás | csalás bűntette | 318. § (1), (4)–(7) bek. |  |  |  |

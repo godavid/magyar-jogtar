@@ -431,6 +431,11 @@ egészségügyi szolgáltatások
 - c) a külön jogszabály alapján háromhavi terápiás (HTL) alapú támogatásban részesített, illetve az egyszerűsített támogatási jegyzékben felsorolt funkcionális csoportokba (alcsoportokba) tartozó gyógyászati segédeszközök körére,
 - d) az (1) bekezdés c) pontja szerinti gyógyászati segédeszközre, amennyiben a biztosított adott indikációban a gyógyászati segédeszközt – külön jogszabály alapján – támogatással kölcsönzi.
 
+(4) Nem nyújtható az (1) bekezdés c) pontja szerinti támogatás olyan gyógyszerhez vagy gyógyászati segédeszközhöz,
+
+- a) amelyre vonatkozóan a gyógyszer forgalomba hozatali engedélyének jogosultja, gyógyászati segédeszköz forgalomba hozója a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény szerinti támogatásba való befogadást a méltányossági kérelem benyújtását megelőző 5 évben kérelmezte, és az egészségbiztosítási szerv elutasító határozatot hozott, kivéve, ha az elutasítás költségvetési fedezet hiányára alapult,
+- b) amely esetén a kérelem benyújtása hónapját megelőző hónap kezdőnapját közvetlenül megelőző tizenkét hónapban az azonos hatóanyag-tartalmú készítményekkel, azonos funkcionális csoportba tartozó gyógyászati segédeszközökkel méltányosság alapján kezelt betegek száma elérte az 50 főt.
+
 (5) Az (1) bekezdés alapján méltányosságból támogatás
 
 - a) gyógyszerhez az E. Alap Méltányossági gyógyszertámogatás jogcím időarányos előirányzatának terhére,
@@ -770,15 +775,15 @@ PÉNZBELI ELLÁTÁSAI
 
 ### Terhességi-gyermekágyi segély
 
-40. § (1) Terhességi-gyermekágyi segély annak jár, aki a szülést megelőzően két éven belül 180 napon át biztosított volt, és
+40. § (1) Terhességi-gyermekágyi segély annak jár, aki a szülést megelőzően két éven belül 365 napon át biztosított volt, és
 
 - a) a biztosítás tartama alatt vagy a biztosítás megszűnését követő negyvenkét napon belül szül, vagy
 - b) a biztosítás megszűnését követően negyvenkét napon túl baleseti táppénz folyósításának, illetve a biztosítási jogviszony megszűnését követően táppénz folyósításának az ideje alatt vagy a folyósítás megszűnését követő huszonnyolc napon belül szül.
 
-(2) A terhességi-gyermekágyi segélyre jogosultsághoz szükséges előzetes 180 napi biztosítási időbe be kell számítani
+(2) A terhességi-gyermekágyi segélyre jogosultsághoz szükséges előzetes 365 napi biztosítási időbe be kell számítani
 
-- a) a biztosítás megszűnését követő táppénz, baleseti táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj, folyósításának az idejét,
-- b) közép- vagy felsőfokú oktatási intézmény nappali tagozatán egy évnél hosszabb ideje folytatott tanulmányok idejét,
+- a) a biztosítás megszűnését követő táppénz, baleseti táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj folyósításának az idejét,
+- b) közép- vagy felsőfokú oktatási intézmény nappali tagozatán egy évnél hosszabb ideje folytatott tanulmányok idejéből 180 napot,
 - c) a rehabilitációs járadék folyósításának idejét.
 
 (3) A terhességi-gyermekágyi segély a szülési szabadságnak megfelelő időtartamra jár.
@@ -806,8 +811,8 @@ PÉNZBELI ELLÁTÁSAI
 
 42/A. § (1) Gyermekgondozási díjra jogosult
 
-- a) a biztosított szülő, ha a gyermekgondozási díj igénylését – a gyermeket szülő anya esetén a szülést – megelőzően két éven belül 180 napon át biztosított volt,
-- b) a terhességi-gyermekágyi segélyben részesült anya, akinek a biztosítási jogviszonya a terhességi-gyermekágyi segély igénybevételének időtartama alatt megszűnt, feltéve, hogy a terhességi-gyermekágyi segélyre való jogosultsága a biztosítási jogviszonyának fennállása alatt keletkezett és a szülést megelőzően két éven belül 180 napon át biztosított volt,
+- a) a biztosított szülő, ha a gyermekgondozási díj igénylését – a gyermeket szülő anya esetén a szülést – megelőzően két éven belül 365 napon át biztosított volt,
+- b) a terhességi-gyermekágyi segélyben részesült anya, akinek a biztosítási jogviszonya a terhességi-gyermekágyi segély igénybevételének időtartama alatt megszűnt, feltéve, hogy a terhességi-gyermekágyi segélyre való jogosultsága a biztosítási jogviszonyának fennállása alatt keletkezett és a szülést megelőzően két éven belül 365 napon át biztosított volt,
 
 és a gyermeket saját háztartásában neveli.
 
@@ -819,13 +824,17 @@ PÉNZBELI ELLÁTÁSAI
 
 (3)
 
-(4) A gyermekgondozási díjra történő jogosultsághoz szükséges előzetes 180 napi biztosítási időbe be kell számítani
+(4) A gyermekgondozási díjra történő jogosultsághoz szükséges előzetes 365 napi biztosítási időbe be kell számítani
 
-- a) a biztosítás megszűnését követő táppénz, baleseti táppénz, terhességi-gyermekágyi segély idejét,
-- b) a közép- vagy felsőfokú oktatási intézmény nappali tagozatán egy évnél hosszabb ideig folytatott tanulmány idejét,
+- a) a biztosítás megszűnését követő táppénz, baleseti táppénz idejét,
+- b) a közép- vagy felsőfokú oktatási intézmény nappali tagozatán egy évnél hosszabb ideig folytatott tanulmány idejéből 180 napot,
 - c) a rehabilitációs járadék folyósításának idejét.
 
-42/B. § A gyermekgondozási díj legkorábban a terhességi-gyermekágyi segély, illetőleg az annak megfelelő időtartam lejártát követő naptól a gyermek 2. életévének betöltéséig jár. Ha a gyermeket szülő nő – ideértve a gyermeket örökbe fogadni szándékozó nőt is – meghal, vagy a gyermek nem az ő háztartásában nevelkedik, úgy a gyermekgondozási díj az arra jogosult személynek a terhességi-gyermekágyi segélyre jogosító időtartamra, illetőleg annak fennmaradó részére is jár.
+42/B. § (1) A gyermekgondozási díj legkorábban a terhességi-gyermekágyi segély, illetőleg az annak megfelelő időtartam lejártát követő naptól a gyermeket szülő anya esetében a szülést, egyéb esetben a jogosultságot megelőző 2 éven belül megszerzett biztosításban töltött napoknak megfelelő időtartamra, de legfeljebb a gyermek 2. életévének betöltéséig jár.
+
+(2) Abban az esetben, ha a gyermekgondozási díjra jogosult a jogosultság megszerzésekor vagy azt megelőző 2 éven belül jogosult volt gyermekgondozási díjra, a gyermekgondozási díj folyósításának időtartama nem lehet rövidebb a korábbi gyermekgondozási díj (1) bekezdés alapján megállapított időtartamánál, és ezen gyermekgondozási díj folyósításának időtartama nem hosszabbodik meg a korábbi terhességi-gyermekágyi segély, gyermekgondozási díj, gyermekgondozási segély jogosultsági idejével.
+
+(3) Ha a gyermeket szülő nő – ideértve a gyermeket örökbe fogadni szándékozó nőt is – meghal, vagy a gyermek nem az ő háztartásában nevelkedik, úgy a gyermekgondozási díj az arra jogosult személynek a terhességi-gyermekágyi segélyre jogosító időtartamra, illetőleg annak fennmaradó részére is jár.
 
 42/C. § Nem jár a gyermekgondozási díj, ha
 
@@ -838,11 +847,11 @@ PÉNZBELI ELLÁTÁSAI
 
 42/D. § (1) A gyermekgondozási díj a naptári napi átlagkereset 70 százaléka, de legfeljebb havonta a mindenkori minimálbér kétszeresének 70 százaléka.
 
-(2) A gyermekgondozási díj alapjául szolgáló naptári napi átlagkeresetet a 48. § (1)–(3) bekezdése szerint kell megállapítani.
+(2) A gyermekgondozási díj alapjául szolgáló naptári napi átlagkeresetet a 48. § (2)–(5) bekezdése szerint kell megállapítani.
 
-(3) A (2) bekezdésben nem említett jogosult gyermekgondozási díjának naptári napi összegét a jogosultság kezdő napján érvényes minimálbér kétszerese harmincad részének figyelembevételével kell megállapítani. Ha azonban a biztosított pénzbeli egészségbiztosítási járulék alapját képező jövedelme, illetve a munkanélküli ellátás alapját képező jövedelme a minimálbér kétszeresét nem éri el, a tényleges jövedelmet kell figyelembe venni.
+(3)
 
-(4) A maximális összegben megállapított gyermekgondozási díj összegét minden év január 15-éig – hivatalból – felül kell vizsgálni, és a tárgyévre érvényes összeghatár figyelembevételével január 1-jei időponttól újra meg kell állapítani.
+(4) A 48. § (2)–(3) bekezdése alapján maximális összegben megállapított gyermekgondozási díj összegét minden év január 15-éig – hivatalból – felül kell vizsgálni, és a tárgyévre érvényes összeghatár figyelembevételével január 1-jei időponttól újra meg kell állapítani.
 
 (5) Ha a gyermekgondozási díjat ugyanazon gyermek után és ugyanazon személy számára ismételten állapítják meg, úgy a díj összege azonos lesz az első ízben megállapított, de a (4) bekezdésben foglaltak szerint korrigált díj összegével.
 
@@ -952,7 +961,7 @@ PÉNZBELI ELLÁTÁSAI
 (4) A méltányosságból megállapítható pénzbeli ellátások folyósításának idejét és összegét az egészségbiztosítási szerv a méltányossági kérelem elbírálása során az V. fejezetben foglaltaktól eltérőn határozhatja meg, azzal, hogy az összege nem haladhatja meg
 
 - a) terhességi-gyermekágyi segély esetén a 42. § (3) bekezdése szerinti összeget,
-- b) gyermekgondozási díj esetén a 42/D. § (3) bekezdése szerinti összeget,
+- b) gyermekgondozási díj esetén a 48. § (4) bekezdése szerinti összeget,
 - c) az (1) bekezdés szerinti táppénz esetén – a biztosítási idő figyelembevételével – a 48. § (8) bekezdése szerinti összeget,
 - d) a (3) bekezdés szerinti táppénz esetén a biztosítási jogviszony megszűnése után folyósított táppénz összegét.
 

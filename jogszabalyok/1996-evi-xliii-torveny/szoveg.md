@@ -679,12 +679,15 @@ meghosszabbodik.
 
 - a) a betegség és az egészségügyi szabadság, valamint az egészségi okból megkezdett orvosbizottsági alkalmassági felülvizsgálat ideje;
 - b) a beteg gyermek ápolásának ideje vagy ilyen célból, illetőleg a közeli hozzátartozó otthoni ápolása vagy gondozása céljából kapott illetmény nélküli szabadság;
-- c) a terhesség ideje, a szülést követő 3 hónap, illetőleg a szülési szabadság és a gyermekgondozás céljára kapott illetmény nélküli szabadság;
-- d) a házastárs tartós külföldi kiküldetése miatt kapott illetmény nélküli szabadság.
+- c) a terhesség ideje, a szülést követő 3 hónap, illetőleg a szülési szabadság és a gyermekgondozás céljára kapott illetmény nélküli szabadság, illetve illetmény nélküli szabadság igénybevétele nélkül is a gyermek hároméves kora;
+- d) a házastárs tartós külföldi kiküldetése miatt kapott illetmény nélküli szabadság,
+- e) a külön törvény szerinti, örökbefogadás előtti kötelező gondozásba helyezés esetén az állomány örökbe fogadni szándékozó tagját – közösen örökbe fogadni szándékozó házastársak döntése alapján a gyermek nevelésében nagyobb szerepet vállaló házastársat – érintően a kötelező gondozásba helyezéstől számított hat hónap, illetve, ha a gyermek a hat hónap letelte előtt kikerül a gondozásból, a kötelező gondozás.
 
 (2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak a hivatásos állomány szolgálati vagy rokkantsági nyugdíjra jogosult, a szolgálatra méltatlanná vagy a 258. § (4) bekezdés alapján alkalmatlanná vált tagja szolgálati viszonyának a megszüntetésére.
 
 (3) Az (1) bekezdésben meghatározott védelem fennállása szempontjából a felmentés közlésének időpontja az irányadó.
+
+(4) Az (1) bekezdés c) pontja szerinti védelem az illetmény nélküli szabadság igénybevétele nélkül azt a szülőt illeti meg, aki az illetmény nélküli szabadságot utoljára igénybe vette.
 
 58/A. § Nem szüntethető meg a szolgálat felső korhatárát megelőző 5 évben a hivatásos állomány tagjának a szolgálati viszonya az 56. § (1) bekezdés a) és b) pontja alapján felmentéssel, ha szolgálati nyugdíjra még nem jogosult.
 

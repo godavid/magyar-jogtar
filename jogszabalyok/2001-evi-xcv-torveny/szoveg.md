@@ -465,7 +465,7 @@ A Magyar Köztársaság területi épségének, függetlenségének, alkotmányo
 
 ### A szolgálati viszony létesítésének feltételei
 
-41. § (1) A szolgálati viszony önkéntes jelentkezés alapján azzal a 18. életévét betöltött, de 47 évesnél nem idősebb, cselekvőképes, állandó belföldi lakóhellyel vagy tartózkodási hellyel rendelkező, büntetlen előéletű, a rendfokozati állománycsoporthoz meghatározott iskolai végzettségű (szakképesítésű), magyar állampolgársággal rendelkező személlyel létesíthető, aki a szolgálatra egészségi, pszichikai és fizikai szempontból alkalmas és elfogadja egyes alkotmányos jogainak e törvény szerinti korlátozását.
+41. § (1) A szolgálati viszony önkéntes jelentkezés alapján azzal a 18. életévét betöltött, de 47 évesnél nem idősebb, cselekvőképes, állandó belföldi lakóhellyel vagy tartózkodási hellyel rendelkező, a rendfokozati állománycsoporthoz meghatározott iskolai végzettségű (szakképesítésű), magyar állampolgársággal rendelkező személlyel létesíthető, aki a szolgálatra egészségi, pszichikai és fizikai szempontból alkalmas és elfogadja egyes alkotmányos jogainak e törvény szerinti korlátozását.
 
 (2) Nem létesíthető szolgálati viszony azzal,
 
@@ -860,10 +860,13 @@ meghosszabbodik.
 
 - a) a betegség és az egészségügyi szabadság, valamint az egészségi okból megkezdett orvosbizottsági alkalmassági felülvizsgálat ideje;
 - b) a beteg gyermek ápolásának ideje vagy ilyen célból, illetőleg a közeli hozzátartozó otthoni ápolása vagy gondozása céljából kapott illetmény nélküli szabadság;
-- c) a terhesség ideje, a szülést követő 3 hónap, a szülési szabadság, a gyermekgondozás céljából – a gyermek három éves koráig – kapott illetménynélküli szabadság, valamint illetménynélküli szabadság igénybevétele nélkül is a gyermekgondozási segély folyósításának ideje;
-- d) a házastárs tartós külföldi kiküldetése miatt kapott illetmény nélküli szabadság.
+- c) a terhesség ideje, a szülést követő 3 hónap, a szülési szabadság és a gyermekgondozás céljából kapott illetmény nélküli szabadság, illetve illetmény nélküli szabadság igénybevétele nélkül is a gyermek hároméves kora;
+- d) a házastárs tartós külföldi kiküldetése miatt kapott illetmény nélküli szabadság;
+- e) a külön törvény szerinti, örökbefogadás előtti kötelező gondozásba helyezés esetén az állomány örökbe fogadni szándékozó tagját – közösen örökbe fogadni szándékozó házastársak döntése alapján a gyermek nevelésében nagyobb szerepet vállaló házastársat – érintően a kötelező gondozásba helyezéstől számított hat hónap, illetve, ha a gyermek a hat hónap letelte előtt kikerül a gondozásból, a kötelező gondozás.
 
 (2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak az állomány szolgálati vagy rokkantsági nyugdíjra jogosult, illetőleg a szolgálatra méltatlanná vált tagja szolgálati viszonyának a megszüntetésére.
+
+(3) Az (1) bekezdés c) pontja szerinti védelem az illetmény nélküli szabadság igénybevétele nélkül azt a szülőt illeti meg, aki az illetmény nélküli szabadságot utoljára igénybe vette.
 
 61/A. § Az állomány 61. § (1) bekezdésének c) pontja alapján a 48. § (1) bekezdésének g) pontja szerint rendelkezési állományba került tagjának illetmény nélküli szabadsága idejére megüresedett beosztását csak az ok megszűnéséig terjedő határozott időre lehet betölteni. A beosztást a rendelkezési állomány megszűnése után az eredetileg a beosztást betöltőnek kell felajánlani.
 
@@ -2305,7 +2308,7 @@ jogosult.
 
 (3) Akinek a pénzbírság vagy a minimális várakozási idő 6 hónaptól 2 évig terjedő meghosszabbítása fenyítését felfüggesztették, a felfüggesztés tartama alatt úgy kell tekinteni, mintha a fenyítés hatálya alatt állna, ez az időtartam azonban nem lehet hosszabb, mint a maximális várakozási idő.
 
-(4) Akit a bíróság rendfokozatot vagy a szolgálati viszonyt érintő mellékbüntetéssel sújtott, 1 évig a fenyítés hatálya alatt állónak kell tekinteni.
+(4) Akit a bíróság rendfokozatot vagy a szolgálati viszonyt érintő büntetéssel sújtott, 1 évig a fenyítés hatálya alatt állónak kell tekinteni.
 
 ### A fenyítés hatálya alóli mentesülés
 
