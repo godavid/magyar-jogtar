@@ -476,21 +476,18 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá kise
 
 (4) Az ötven főnél több személyt foglalkoztató költségvetési szervek és többségi állami tulajdonban álló jogi személyek kötelesek esélyegyenlőségi tervet elfogadni.
 
-(5) A települési önkormányzat helyi esélyegyenlőségi programot fogadhat el, amelyben elemzi a településen élő hátrányos helyzetű csoportok helyzetének alakulását, és meghatározza az e csoportok esélyegyenlőségét elősegítő célokat, kiemelt figyelmet fordítva a lakhatásra, oktatásra, egészségügyre, foglalkoztatásra, valamint a szociális helyzetre. A helyi esélyegyenlőségi program tartalmazza a célok megvalósításának forrásigényét és végrehajtásuk tervezett ütemezését; a települési önkormányzat a tárgyévet követő év június 30-ig ütemterve teljesítéséről éves jelentést fogad el.
+(5)
 
-[63/A. § (1) A helyi önkormányzat, valamint a többcélú kistérségi társulás – a külön jogszabályban meghatározott szempontok figyelembevételével – öt évre szóló helyi esélyegyenlőségi programot fogad el.
+63/A. § (1) A helyi önkormányzat, valamint a többcélú kistérségi társulás – a külön jogszabályban meghatározott szempontok figyelembevételével – öt évre szóló helyi esélyegyenlőségi programot fogad el.
 
 (2) A helyi esélyegyenlőségi programban helyzetelemzést kell készíteni a hátrányos helyzetű társadalmi csoportok oktatási, lakhatási, foglalkoztatási, egészségügyi és szociális helyzetéről, illetve meg kell határozni a helyzetelemzés során feltárt problémák komplex kezelése érdekében szükséges intézkedéseket. A programalkotás során gondoskodni kell a helyi esélyegyenlőségi program és a helyi önkormányzat által készítendő egyéb fejlesztési tervek, koncepciók, továbbá a közoktatási esélyegyenlőségi terv összhangjáról.
 
 (3) A helyi esélyegyenlőségi program elkészítése során kiemelt figyelmet kell fordítani
 
-a) az egyenlő bánásmód követelményének érvényesülését segítő intézkedésekre,
-
-b) az oktatás és a képzés területén a jogellenes elkülönítés megelőzésére, illetve az azzal szembeni fellépésre, továbbá az egyenlő esélyű hozzáférés biztosításához szükséges intézkedésekre,
-
-c) a közszolgáltatásokhoz, valamint az egészségügyi szolgáltatásokhoz való egyenlő esélyű hozzáférés biztosításához szükséges intézkedésekre,
-
-d) olyan intézkedésekre, amelyek csökkentik a hátrányos helyzetűek munkaerő-piaci hátrányait, illetve javítják foglalkoztatási esélyeiket.
+- a) az egyenlő bánásmód követelményének érvényesülését segítő intézkedésekre,
+- b) az oktatás és a képzés területén a jogellenes elkülönítés megelőzésére, illetve az azzal szembeni fellépésre, továbbá az egyenlő esélyű hozzáférés biztosításához szükséges intézkedésekre,
+- c) a közszolgáltatásokhoz, valamint az egészségügyi szolgáltatásokhoz való egyenlő esélyű hozzáférés biztosításához szükséges intézkedésekre,
+- d) olyan intézkedésekre, amelyek csökkentik a hátrányos helyzetűek munkaerő-piaci hátrányait, illetve javítják foglalkoztatási esélyeiket.
 
 (4) A helyi esélyegyenlőségi program időarányos megvalósulását, illetve a (2) bekezdésben meghatározott helyzet esetleges megváltozását kétévente át kell tekinteni, az áttekintés alapján szükség esetén a helyi esélyegyenlőségi programot felül kell vizsgálni.
 
@@ -504,21 +501,34 @@ d) olyan intézkedésekre, amelyek csökkentik a hátrányos helyzetűek munkaer
 
 (9) A Kormány által rendeletben kijelölt szerv az esélyegyenlőségi szakértőkről névjegyzéket vezet, amely tartalmazza a szakértő
 
-a) családi és utónevét,
-
-b) születési helyét, idejét, anyja nevét,
-
-c) a szakértői névjegyzékbe vételhez szükséges végzettséget igazoló irat kiállítóját, számát, keltét,
-
-d) névjegyzékbe vételének és az onnan való törlésének időpontját, a határozat számát,
-
-e) szakértői tevékenysége szünetelésének időpontját,
-
-f) elérhetőségi címét (postacímét, telefon-, telefaxszámát, e-mail címét).
+- a) családi és utónevét,
+- b) születési helyét, idejét, anyja nevét,
+- c) a szakértői névjegyzékbe vételhez szükséges végzettséget igazoló irat kiállítóját, számát, keltét,
+- d) névjegyzékbe vételének és az onnan való törlésének időpontját, a határozat számát,
+- e) szakértői tevékenysége szünetelésének időpontját,
+- f) elérhetőségi címét (postacímét, telefon-, telefaxszámát, e-mail címét).
 
 (10) A névjegyzéket vezető szerv a (9) bekezdésben meghatározott személyes adatokat a névjegyzékből való törlést követő öt teljes naptári évig kezelheti.
 
-(11) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az (1) bekezdésben meghatározott szempontokat, az esélyegyenlőségi szakértő képesítési követelményeit, a névjegyzékbe vétel, illetve a névjegyzékből való törlés szabályait, a szakértői tevékenység szünetelésére vonatkozó szabályokat, valamint a névjegyzéket vezető szerv kijelölését.]
+(11) Esélyegyenlőségi szakértői tevékenység folytatását a Kormány által erre kijelölt szerv annak engedélyezi, aki
+
+- a) rendelkezik felsőfokú végzettséggel vagy felsőfokú szakképesítéssel,
+- b) a külön jogszabályban meghatározott képzésben vett részt,
+- c) rendelkezik a külön jogszabályban meghatározott szakmai gyakorlattal, és
+- d) büntetlen előéletű, valamint nem áll az esélyegyenlőségi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
+
+(12) Az esélyegyenlőségi szakértői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, és nem áll az esélyegyenlőségi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a Kormány által erre kijelölt szerv részére – annak az esélyegyenlőségi szakértői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a Kormány által erre kijelölt szerv a (13) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
+
+(13) A Kormány által erre kijelölt szerv az esélyegyenlőségi szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű-e, és nem áll-e az esélyegyenlőségi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a Kormány által erre kijelölt szerv adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint, hogy az esélyegyenlőségi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+
+(14) A (12) és (13) bekezdés alapján megismert személyes adatokat a Kormány által erre kijelölt szerv
+
+- a) az esélyegyenlőségi szakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig vagy
+- b) az esélyegyenlőségi szakértő nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+
+(15) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az (1) bekezdésben meghatározott szempontokat, az esélyegyenlőségi szakértői tevékenység végzésére és annak feltételeire, a szakértő képesítésére, továbbképzésére, működésére és a szakmai gyakorlatra vonatkozó rendelkezéseket, a névjegyzékbe vétel, a névjegyzékről történő kirendelés, a szüneteltetés, a panaszeljárás és a névjegyzékből való törlés szabályait, továbbá a névjegyzéket vezető szerv kijelölését.
+
+(16) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy rendeletben állapítsa meg – az adópolitikáért felelős miniszter egyetértésével – az esélyegyenlőségi szakértői névjegyzékkel összefüggő eljárásokban fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait.
 
 64. § Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a hatóságot vagy hatóságokat, valamint rendeletben határozza meg a hatóság eljárására vonatkozó részletes szabályokat.
 

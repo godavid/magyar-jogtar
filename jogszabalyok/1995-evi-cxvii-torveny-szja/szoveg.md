@@ -2224,7 +2224,7 @@ azzal, hogy a természetes vagy tenyésztett gyöngy, a drágakő, a féldrágak
 
 (3) Ha a nyeremény nem pénz, hanem más vagyoni érték, akkor annak általános forgalmi adó nélkül számított szokásos piaci értékét alapul véve, annak 33 százalékát kell adó címén a kifizetőnek megfizetnie.
 
-(4) Nem számít jövedelemnek a szerencsejáték szervezéséről szóló törvény 16. §-a alapján engedélyhez nem kötött sorsolásos játékból, a sorsjátékból, a pénznyerő automatából, a játékkaszinóból, a bukmékeri rendszerű fogadásból, továbbá a lóversenyfogadásból, bingójátékból származó nyeremény.
+(4) Nem számít jövedelemnek a szerencsejáték szervezéséről szóló törvény 16. §-a alapján engedélyhez nem kötött sorsolásos játékból, a sorsjátékból, a pénznyerő automatából, a játékkaszinóból, a bukmékeri rendszerű fogadásból, a lóversenyfogadásból, bingójátékból, továbbá a kártyateremben szervezett kártyajátékból származó nyeremény.
 
 (5)
 

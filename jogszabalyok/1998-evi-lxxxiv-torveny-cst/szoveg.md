@@ -177,7 +177,7 @@ saját háztartásában nevelt gyermekre tekintettel;
 
 20. § (1) Gyermekgondozási segélyre jogosult a szülő – ideértve a kiskorú szülőt a 7. § (5) bekezdésében meghatározott esetben –, a nevelőszülő, a gyám a saját háztartásában nevelt
 
-- a) gyermek 3. életévének betöltéséig,
+- a) gyermek 2. életévének betöltéséig,
 - b) ikergyermekek esetén a tankötelessé válás évének végéig,
 - c) tartósan beteg, illetve súlyosan fogyatékos gyermek 10. életévének betöltéséig.
 
@@ -226,7 +226,7 @@ saját háztartásában nevelt gyermekre tekintettel;
 
 ### Gyermeknevelési támogatás
 
-23. § Gyermeknevelési támogatásra az a szülő, nevelőszülő, gyám jogosult, aki saját háztartásában három vagy több kiskorút nevel. A támogatás a legfiatalabb gyermek 3. életévének betöltésétől 8. életévének betöltéséig jár.
+23. § Gyermeknevelési támogatásra az a szülő, nevelőszülő, gyám jogosult, aki saját háztartásában három vagy több kiskorút nevel. A támogatás a legfiatalabb gyermek 2. életévének betöltésétől 8. életévének betöltéséig jár.
 
 24. § (1) A gyermeknevelési támogatásban részesülő személy kereső tevékenységet napi 4 órát meg nem haladó időtartamban folytathat, vagy időkorlátozás nélkül, ha a munkavégzés otthonában történik.
 

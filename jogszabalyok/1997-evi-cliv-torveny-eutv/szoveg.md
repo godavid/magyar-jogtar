@@ -3075,7 +3075,7 @@ van helye.
 
 200. § (1) A bíróság annak a pszichiátriai betegnek a kötelező intézeti gyógykezelését rendeli el, aki veszélyeztető magatartást tanúsít, de sürgősségi gyógykezelése nem indokolt.
 
-(2) A kötelező gyógykezelés elrendelésére irányuló eljárást az annak szükségességét megállapító pszichiátriai gondozóintézet szakorvosa a bíróság értesítésével kezdeményezi, és javaslatot tesz a gyógykezelést végző pszichiátriai intézetre.
+(2) A kötelező gyógykezelés elrendelésére irányuló eljárást az annak szükségességét megállapító pszichiátriai gondozóintézet szakorvosa, büntetőeljárás során elrendelt kényszergyógykezelés megszűnése esetén, amennyiben a beteg további intézeti gyógykezelése szükséges – az elbocsátás esedékessége napjának megjelölésével – a kényszergyógykezelést végző szerv főigazgató főorvosa a bíróság értesítésével kezdeményezi és javaslatot tesz a gyógykezelést végző pszichiátriai intézetre.
 
 (3) A bíróság az értesítés kézhezvételétől számított 15 napon belül határoz a kötelező intézeti gyógykezelés elrendeléséről.
 
@@ -3085,9 +3085,11 @@ van helye.
 
 (6) Ha a bíróság elrendeli a beteg kötelező intézeti gyógykezelését és a beteg a jogerős határozat kézhezvételétől számított három napon belül nem jelenik meg a végzésben megjelölt pszichiátriai intézetben, az eljárást kezdeményező orvos intézkedik a beteg beszállítása iránt. A beteg beszállításához a rendőrség szükség esetén közreműködik.
 
-(7) A bíróság a kötelező intézeti gyógykezelés szükségességét a 198. § szerint meghatározott időszakonként felülvizsgálja.
+(7) Ha a büntetőeljárás során elrendelt kényszergyógykezelés megszűnése után a beteg további intézeti gyógykezelése szükséges, a bíróság a beteg kötelező intézeti gyógykezelését a kényszergyógykezelés megszűnésének napjával rendeli el. A bíróság elrendelő határozata alapján a kényszergyógykezelést végző szerv főigazgató főorvosa intézkedik a beteg átszállítása iránt a kijelölt pszichiátriai intézetbe. A beteg átszállításában a rendőrség szükség esetén közreműködik.
 
-(8) A kötelező intézeti gyógykezelésre kötelezett beteget az intézetből el kell bocsátani, ha gyógykezelése már nem indokolt.
+(8) A bíróság a kötelező intézeti gyógykezelés szükségességét a 198. § szerint meghatározott időszakonként felülvizsgálja.
+
+(9) A kötelező intézeti gyógykezelésre kötelezett beteget az intézetből el kell bocsátani, ha gyógykezelése már nem indokolt.
 
 ### Közös eljárási szabályok
 
