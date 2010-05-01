@@ -477,6 +477,8 @@ illetékességét.
 
 (2) A perben a jogi személy és egyéb gazdálkodó szervezet jogtanácsosát (jogi előadóját) az ügyvéd jogállása illeti meg.
 
+[(2) A perben a vállalkozás (396. §) és a Ptk. 685. §-ának c) pontjában meghatározott egyéb gazdálkodó szervezet jogtanácsosát (jogi előadóját) az ügyvéd jogállása illeti meg.]
+
 (3) Ügyvédjelölt (jogi előadó) az ítélőtábla és a Legfelsőbb Bíróság előtt – a 119. §-ban szabályozott esetet kivéve – nem járhat el.
 
 (4) Ha törvény másként nem rendelkezik, a törvényben szabályozott eljárásokban a jogi képviselet nem kötelező.
@@ -3566,7 +3568,7 @@ alapított igény érvényesítése.
 - a) a bírósági ügyvitel rendjét az Országos Igazságszolgáltatási Tanáccsal egyetértésben;
 - b) az ügygondnok részére járó díjazást az adópolitikáért felelős miniszterrel egyetértésben;
 - c) a bírósági letétkezelés szabályait;
-- d) a gondnokság alá helyezettek névjegyzékének adatairól vezetett számítógépes nyilvántartás igénybevételének részletes szabályait, illetve a költségtérítés összegét;
+- d)
 - e) azon perek körét, amelyekben a felet tárgyi költségfeljegyzési jog illeti meg, és e perekben azokat a költségeket, amelyeket a fél a tárgyi költségfeljegyzési jog ellenére is köteles előlegezni, illetve viselni, az adópolitikáért felelős miniszterrel egyetértésben;
 - f) a költségmentesség, a tárgyi költségfeljegyzési jog és az illetékfeljegyzési jog előfeltételeire, engedélyezésére, megvonására, valamint a költségek előlegezésére, illetve az előlegezett költségek megfizetésére és behajtására vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben;
 - g) a tanú által a peres és nemperes eljárásban felszámítható költségekre vonatkozó részletes szabályokat az államháztartásért felelős miniszterrel egyetértésben;

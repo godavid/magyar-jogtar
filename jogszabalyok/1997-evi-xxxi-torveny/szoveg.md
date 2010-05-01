@@ -562,7 +562,7 @@ kell kifizetni.
 
 kell kifizetni.
 
-(8) A megelőlegezett gyermektartásdíjat a kötelezett a Ptk. 232. §-ának (2) bekezdésében meghatározott kamattal az államnak megtéríti. A megelőlegezett gyermektartásdíjnak meg nem térült összegét adók módjára kell behajtani az adózás rendjéről szóló törvény rendelkezései szerint.
+(8) A megelőlegezett gyermektartásdíjat a kötelezett a Polgári Törvénykönyvben meghatározott kamattal az államnak megtéríti. A megelőlegezett gyermektartásdíjnak meg nem térült összegét adók módjára kell behajtani az adózás rendjéről szóló törvény rendelkezései szerint.
 
 (9) A megelőlegezett gyermektartásdíj behajtása során a hátralékra a települési önkormányzat jegyzője adóügyi hatáskörében indokolt esetben méltányosságból részletfizetést vagy kamatelengedést engedélyezhet. A települési önkormányzat jegyzője adóügyi hatáskörében a hátralék teljes összegét akkor engedheti el, ha a kötelezett gyermeke a reá tekintettel megelőlegezett gyermektartásdíjat hagyatéki teherként megörökli.
 
@@ -1201,7 +1201,7 @@ feltéve, hogy személyében, valamint körülményeiben alkalmas e feladatok v�
 - a) gondoskodik az örökbefogadás előtti tanácsadás és örökbefogadói tanfolyam, valamint az örökbefogadás utáni segítséget nyújtó szolgáltatások megszervezéséről, továbbá
 - b) a központi hatóság megkeresésére külföldi állampolgárságú gyermek örökbefogadását követően jelentést készít az örökbefogadás helyzetéről.
 
-63. § A gyermekvédelmi szakszolgáltatás – a gyermekotthon e törvényben meghatározott feladatára tekintettel – az átmeneti és a tartós nevelésbe vett gyermek gyámja (hivatásos gyámja), gondozója egyéni program szerinti gondozási, nevelési tevékenységének segítése és szakmai ellenőrzése érdekében
+63. § [(1)] A gyermekvédelmi szakszolgáltatás – a gyermekotthon e törvényben meghatározott feladatára tekintettel – az átmeneti és a tartós nevelésbe vett gyermek gyámja (hivatásos gyámja), gondozója egyéni program szerinti gondozási, nevelési tevékenységének segítése és szakmai ellenőrzése érdekében
 
 - a) elkészíti a gyermek egyéni gondozási-nevelési tervét,
 - b) a gyámhivatal megkeresésére, ennek hiányában félévenként hivatalból tájékoztatja a gyámhivatalt a gondozással-neveléssel kapcsolatos feladatok ellátásáról, a gyermek és a szülő kapcsolattartásának alakulásáról, illetve a szülőnek a gyermekét gondozó intézménnyel vagy személlyel való együttműködéséről,
@@ -1445,7 +1445,7 @@ hivatásos nevelőszülői díjnak megfelelő összeg.
 - d) kezdeményezi a háziorvosnál – súlyos veszélyeztetettség esetén bármely orvosnál – a betegsége, illetve szenvedélybetegsége következtében állandóan vagy időszakosan kóros elmeállapotú szülő, illetve a gyermekkel együtt élő más hozzátartozó orvosi vizsgálatát,
 - e) intézkedik – az illetékes szervek bevonásával – a gyermek egészségét veszélyeztető körülmények megszüntetéséről,
 - f) magatartási szabályokat állapít meg a gyermek számára a kifogásolt magatartás megszüntetése érdekében,
-- g) figyelmezteti a szülőt helytelen életvezetésének, magatartásának következményére, és felszólítja annak megváltoztatására, figyelmezteti továbbá a szülőt az (5) bekezdés szerinti jogkövetkezményre, [h) kötelezheti a szülőt és a gyermeket, illetve felkérheti a konfliktusban érintett más személyt arra, hogy a nevelési-oktatási intézményben előforduló erőszak miatt kialakult helyzet vagy más súlyos konfliktushelyzet kezelése érdekében jelenjen meg iskolapszichológusi vizsgálaton, illetve vegye igénybe a konfliktuskezelést segítő szolgáltatást.]
+- g) figyelmezteti a szülőt helytelen életvezetésének, magatartásának következményére, és felszólítja annak megváltoztatására, figyelmezteti továbbá a szülőt az (5) bekezdés szerinti jogkövetkezményre,
 
 (4) A kirendelt családgondozó a védelembe vételt elrendelő határozat jogerőre emelkedésétől számított tizenöt napon belül a gyermekre, illetve a (2) bekezdés szerinti fiatalkorúra vonatkozóan egyéni gondozási-nevelési tervet készít, melyhez szükség szerint a 132. § (1) bekezdésében meghatározott szerveket vagy személyeket kereshet meg.
 
@@ -2235,6 +2235,8 @@ feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye
 
 (4)–(5)
 
+128/A. § A gyámhivatal jóváhagyása szükséges a gondnokolt ingatlan vagyonán kívüli, az öregségi nyugdíj legkisebb összegének kétszeresét meghaladó vagy a gondnokot kirendelő bírósági határozatban ettől eltérően megállapított értékű egyéb vagyonára vonatkozó törvényes képviselői jognyilatkozat érvényességéhez.
+
 129. § (1) A települési önkormányzat képviselő-testülete, jegyzője és a gyámhivatal (a továbbiakban együtt: eljáró szerv) az eljárásban mindenkor vizsgálja a kérelmező állampolgárságát, jogállását, valamint személyes jogát.
 
 (2) Az eljáró szerv az ellátásra való jogosultság elbírálásához a kérelmezőt kötelezheti arra, hogy családja vagyoni, jövedelmi viszonyairól nyilatkozzék, illetve azokat igazolja.
@@ -2310,16 +2312,6 @@ feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye
 (6) A más szerv eljárásában történő képviseletre kirendelt ügygondnok, eseti gondnok munkadíját és költségeit – a (11) bekezdésben foglaltak kivételével – a kirendelést kérelmező szerv fizeti meg.
 
 (7) A gyámhivatal által kiszabott, illetve megállapított eljárási bírság, eljárási költség és a kapcsolattartás meghiúsítása folytán keletkezett igazolt költségek meg nem térült összegét adók módjára kell behajtani az adózás rendjéről szóló törvény rendelkezései szerint. A behajtásról a kötelezett lakóhelye szerinti települési önkormányzat jegyzője adóügyi hatáskörében gondoskodik.
-
-[(8) A rendszeres gyermekvédelmi kedvezményre jogosult gyermek érdekében hivatalból elrendelt gyermekvédelmi közvetítői eljárás költségeit – a (9) bekezdésben foglalt kivétellel – a gyámhivatal viseli.
-
-(9) A gyermekvédelmi közvetítői eljárás igénybevétele esetén a gyámhivatal – az ügy eldöntésére való tekintet nélkül – az eljárásban felmerült és a gyermekvédelmi közvetítői eljárásban a másik szülő által fizetett valamennyi költség megfizetésére kötelezi azt a szülőt,
-
-a) aki a gyermekvédelmi közvetítői eljárásban létrejött megállapodás ellenére a gyámhivatal előtt nem köt egyezséget,
-
-b) akinek a magatartása vagy mulasztása miatt a gyermekvédelmi közvetítői eljárás lefolytatása meghiúsult.]
-
-[(10)]
 
 (11) Az eseti gondnok munkadíját és költségeit a gyámhivatal fizeti meg, ha az
 
@@ -2399,7 +2391,7 @@ adatainak a kezelésére.
 
 - a) a gyermek, illetve a fiatalkorú által elkövetett bűncselekményre,
 - b) a szülő vagy más törvényes képviselő által a gyermek sérelmére elkövetett bűncselekményre,
-- c) a Ptk. 685. §-ának b) pontja szerinti hozzátartozó, vagy a közös háztartásban rendszeresen vagy időszakonként együtt élő más személy által a gyermek sérelmére elkövetett hozzátartozók közötti erőszak miatt alkalmazható ideiglenes megelőző távoltartó határozatra vagy megelőző távoltartó határozatra
+- c) a Polgári Törvénykönyv szerinti hozzátartozó, vagy a közös háztartásban rendszeresen vagy időszakonként együtt élő más személy által a gyermek sérelmére elkövetett hozzátartozók közötti erőszak miatt alkalmazható ideiglenes megelőző távoltartó határozatra vagy megelőző távoltartó határozatra
 
 vonatkozó adatokat kezelhet.
 
@@ -2754,7 +2746,7 @@ gyermekeket.
 - g) a külföldi alap-, közép- és felsőfokú szakképzés, valamint szakirányú szakképzés során szerzett szakképzettség megszerzését tanúsító oklevelek elismerésére, továbbá az eljáró hatóságra, annak feladat- és hatáskörére vonatkozó részletes szabályokat,
 - h) az országos örökbefogadási nyilvántartásra vonatkozó részletes szabályokat,
 - i) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részletes szabályait,
-- j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályait.
+- j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályait,
 
 (3) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy a hivatásos gondnoki feladatot ellátók képesítési előírásait rendeletben szabályozza.
 

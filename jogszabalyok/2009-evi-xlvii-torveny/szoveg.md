@@ -138,11 +138,11 @@ azonosítása.
   - cb) bűncselekmény Btk. szerinti minősítését,
   - cc) elkövetői és elkövetési alakzatot,
   - cd) bűncselekmény elkövetésének helyét, idejét,
-  - ce) azt a tényt, hogy az elítélt visszaeső, különös visszaeső vagy többszörös visszaeső,
+  - ce) azt a tényt, hogy az elítélt visszaeső, különös visszaeső, többszörös visszaeső vagy erőszakos többszörös visszaeső,
   - cf) azt a tényt, hogy a bűncselekményt az elítélt bűnszervezet tagjaként követte el;
 - d) az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében emelt jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját;
-- e) a kiszabott fő- és mellékbüntetés nemét (foglalkozástól eltiltás esetén a foglalkozás megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát), mértékét és végrehajtási fokozatát, a büntetés végrehajtásának felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját, a korábbi felfüggesztett büntetés végrehajtásának elrendelése esetén a felfüggesztett büntetést kiszabó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
-- f) a fő- és mellékbüntetés mellett alkalmazott intézkedés nemét és mértékét, a korábban alkalmazott próbára bocsátás megszüntetése esetén a próbára bocsátást elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
+- e) a kiszabott büntetés (foglalkozástól eltiltás esetén a foglalkozás megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát) és mellékbüntetés nemét, mértékét és végrehajtási fokozatát, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját, a korábbi felfüggesztett vagy részben felfüggesztett büntetés végrehajtásának elrendelése esetén a felfüggesztett vagy részben felfüggesztett büntetést kiszabó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
+- f) a büntetés mellett alkalmazott intézkedés nemét és mértékét, a korábban alkalmazott próbára bocsátás megszüntetése esetén a próbára bocsátást elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
 - g) összbüntetésbe foglalás esetén az alapügyben eljárt bíróságok megnevezését, határozatuk számát, az összbüntetésként megállapított szabadságvesztés végrehajtási fokozatát és mértékét;
 - h) közkegyelem vagy egyéni kegyelem alapján a bírósági határozatot érintő változásokat, az egyéni kegyelmi határozat számát és keltét;
 - i) a büntetés végrehajthatóságának elévülés okából történt megszűnését megállapító határozatot hozó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
@@ -156,7 +156,7 @@ azonosítása.
 - b) a feltételes szabadságra bocsátás napját, a feltételes szabadság leteltének napját, a feltételes szabadság megszüntetésének tényét, pártfogó felügyelet elrendelése esetén az eljárt bíróság megnevezését, határozatának számát és keltét, a pártfogó felügyelet időtartamát,
 - c) a büntetés félbeszakítása esetén az engedélyező megnevezését, határozatának számát és keltét, a félbeszakítás időtartamát, a jogellenesen a büntetés-végrehajtási intézeten kívül töltött időtartamot,
 - d) a szabadon bocsátás napját,
-- e) a közügyektől eltiltás, a foglalkozástól eltiltás, a járművezetéstől eltiltás, a kiutasítás, a kitiltás leteltének napját, továbbá e mellékbüntetések végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát.
+- e) a közügyektől eltiltás, a foglalkozástól eltiltás, a járművezetéstől eltiltás, a kiutasítás, a kitiltás leteltének napját, továbbá e büntetések végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát.
 
 12. § (1) A személyazonosító adatokat, valamint a 11. § (1) bekezdés c)–g), i) és k) pontjában meghatározott adatokat az a bíróság közli a bűnügyi nyilvántartó szervvel, amely előtt az eljárás befejeződött.
 
@@ -202,7 +202,7 @@ azonosítása.
   - cf) azt a tényt, hogy a bűncselekményt az elítélt bűnszervezet tagjaként követte el;
 - d) a megrovást alkalmazó ügyészség megnevezését, határozatának számát és keltét;
 - e) az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében emelt jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját;
-- f) a kiszabott fő- és mellékbüntetés nemét (foglalkozástól eltiltás esetén a foglalkozás megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát), mértékét és végrehajtási fokozatát, a büntetés végrehajtásának felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját;
+- f) a kiszabott büntetés (foglalkozástól eltiltás esetén a foglalkozás megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát) és mellékbüntetés nemét, mértékét és végrehajtási fokozatát, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját;
 - g) az alkalmazott intézkedés nemét és mértékét, a korábban alkalmazott próbára bocsátás megszüntetése vagy meghosszabbítása esetén a próbára bocsátást elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját, a próbára bocsátás meghosszabbítása esetén a meghosszabbított próbaidő lejáratának napját;
 - h) összbüntetésbe foglalás, valamint egységes intézkedés elrendelése esetén az alapügyben eljárt bíróságok megnevezését, határozatuk számát, az összbüntetésként megállapított szabadságvesztés végrehajtási fokozatát és mértékét;
 - i) a büntetés végrehajthatóságának elévülés okából történt megszűnését megállapító határozatot hozó bíróság megnevezését, határozatának számát és jogerőre emelkedésének keltét;
@@ -255,14 +255,14 @@ kell nyilvántartani.
 
 (2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig kell nyilvántartani.
 
-(3) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott, de végrehajtásában felfüggesztett
+(3) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott, de végrehajtásában felfüggesztett vagy részben felfüggesztett
 
 - a) szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
-- b) pénzbüntetés esetén a mentesítés beálltától számított három évig
+- b)
 
 kell nyilvántartani.
 
-(4) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett, a mellékbüntetésre vonatkozó adatokat szándékos bűncselekmény miatt kiszabott mellékbüntetés esetén – tekintet nélkül arra, hogy főbüntetés kiszabása helyett vagy a mellett történik – a mellékbüntetés végrehajtása befejezésétől vagy végrehajthatóságának megszűnésétől számított öt évig kell nyilvántartani.
+(4) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett, a mellékbüntetésre vonatkozó adatokat szándékos bűncselekmény miatt kiszabott mellékbüntetés esetén a mellékbüntetés végrehajtása befejezésétől vagy végrehajthatóságának megszűnésétől számított öt évig kell nyilvántartani.
 
 19. § (1) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat gondatlan bűncselekmény miatt szabadságvesztésre ítéltek esetén
 
@@ -273,7 +273,7 @@ kell nyilvántartani.
 
 (2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat gondatlan bűncselekmény miatt közérdekű munkára vagy pénzbüntetésre ítéltek esetén a mentesítés beálltától számított három évig kell nyilvántartani.
 
-(3) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett, a mellékbüntetésre vonatkozó adatokat gondatlan bűncselekmény miatt kiszabott mellékbüntetés esetén – tekintet nélkül arra, hogy főbüntetés kiszabása helyett vagy a mellett történik – a mellékbüntetés végrehajtása befejezésétől vagy végrehajthatóságának megszűnésétől számított három évig kell nyilvántartani.
+(3) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett, a mellékbüntetésre vonatkozó adatokat gondatlan bűncselekmény miatt kiszabott mellékbüntetés esetén a mellékbüntetés végrehajtása befejezésétől vagy végrehajthatóságának megszűnésétől számított három évig kell nyilvántartani.
 
 20. § A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat
 
@@ -541,9 +541,9 @@ személy azonosítása.
 - d) a bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített anyagmaradványt, továbbá az abból meghatározott DNS-profilt, valamint
 - e) a szakrendszeri azonosító kódot.
 
-57. § (1) Az 56. § a)–c) pontjában meghatározott adatokat, valamint a DNS-profil meghatározására alkalmas anyagmaradványt a nyilvántartásba vétel alapjául szolgáló bűncselekmény miatt büntetőeljárást folytató nyomozó hatóság vagy ügyészség – a nyilvántartásba vétel kezdeményezésével egyidejűleg – megküldi a szakértői nyilvántartó szerv részére.
+57. § (1) Az 56. § a)–c) pontjában meghatározott adatokat, valamint a DNS-profil meghatározására alkalmas anyagmaradványt a nyilvántartásba vétel alapjául szolgáló bűncselekmény miatt büntetőeljárást folytató nyomozó hatóság vagy ügyészség megküldi az általa kirendelt és a Kormány által e szakkérdés vizsgálatára kijelölt szerv részére.
 
-(2) A DNS-profilt a bűncselekmény helyszínén vagy a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített anyagmaradványból a szakértői nyilvántartó szerv határozza meg.
+(2) A DNS-profilt a bűncselekmény helyszínén vagy a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített anyagmaradványból a szakkérdés vizsgálatára kirendelt szerv meghatározza, és az 56. § a)–c) pontjában meghatározott adatokat, a DNS-profilt, valamint az annak meghatározására alkalmas anyagmaradványt a szakértői nyilvántartó szerv részére – a DNS-profil meghatározását követően haladéktalanul – megküldi.
 
 (3) Ha a nyomozás megszüntetésére vagy a büntetőeljárás jogerős befejezésére azért került sor, mert a nyilvántartásba vétel alapjául szolgáló cselekmény nem bűncselekmény vagy a nyomozás adatai alapján nem állapítható meg bűncselekmény elkövetése, és az eljárás folytatásától sem várható eredmény, ennek tényét a határozatot hozó nyomozó hatóság, ügyészség vagy bíróság közli a szakértői nyilvántartó szervvel.
 
@@ -633,7 +633,7 @@ miatt indítottak büntetőeljárást.
 68. § (1) Elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) a bűnügyi nyilvántartási rendszerben kezelt adatok teljes körét jogosult átvenni
 
 - a) a bíróság büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
-- b) a nyomozó hatóság és az ügyészség bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
+- b) a nyomozó hatóság és az ügyészség bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítő feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése és felderítése céljából,
 - c) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból.
 
 (2) A rendőrség jogosult közvetlen hozzáféréssel átvenni a következő adatokat:
@@ -1033,7 +1033,7 @@ erre feljogosított tagja jogosult.
 
 - a) a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlés szabályait,
 - b) a bűnügyi és rendészeti biometrikus adatok nyilvántartása részére történő adatközlés és az e nyilvántartások által teljesített adatszolgáltatás rendjét,
-- c) az arcképmás, az ujj- és tenyérnyomat, a DNS-profil meghatározásra alkalmas anyagmaradvány rögzítésének, továbbá az ujj- és tenyérnyomat, valamint szájnyálkahártya-törlet levételének részletes technikai szabályait
+- c) az arcképmás, az ujj- és tenyérnyomat, a DNS-profil meghatározásra alkalmas anyagmaradvány rögzítésének, továbbá az ujj- és tenyérnyomat, valamint szájnyálkahártya-törlet levételének részletes technikai szabályait, továbbá a DNS-profil meghatározásának szakmai-módszertani követelményeit
 
 rendeletben állapítsa meg.
 

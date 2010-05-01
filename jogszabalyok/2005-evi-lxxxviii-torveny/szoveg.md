@@ -68,11 +68,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 
 (4) Az a fogadó szervezet, amely jogszabály alapján köteles az általa nyújtott szolgáltatás során okozott kár megtérítésére felelősségbiztosítási szerződést kötni, önkéntest akkor foglalkoztathat, ha a felelősségbiztosítási szerződés kiterjed az önkéntes által okozott kár megtérítésére is.
 
-4. § (1) Önkéntes lehet
-
-- a) a cselekvőképes személy,
-- b) a korlátozottan cselekvőképes személy,
-- c) a tizedik életévét betöltött, kiskorúsága miatt cselekvőképtelen személy.
+4. § (1) Önkéntes az lehet, aki tizedik életévét betöltötte.
 
 (2) Az önkéntes elláthat minden olyan tevékenységet,
 

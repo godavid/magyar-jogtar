@@ -370,6 +370,8 @@ vonatkoznak.
 
 (2) A felek a pénzforgalmi szolgáltató a 38. § (6) bekezdése és a 48. § (6) bekezdése szerinti intézkedésének ellenértékéről szerződésben állapodnak meg. Az ellenérték nem haladhatja meg az intézkedés tényleges és közvetlenül felmerült költségeit.
 
+(3) A készpénz-helyettesítő fizetési eszközzel – ide nem értve a csekket és az elektronikus pénzeszközt – lebonyolított fizetési művelethez közvetlenül kapcsolódó, a kedvezményezettel szemben a pénzforgalmi szolgáltató által érvényesíthető jutalékok, díjak és egyéb költségek mértéke nem haladhatja meg a fizetési művelet teljesítésének fedezetét biztosító fizetési számlára vagy hitelkeretre terhelt összeg két százalékát.
+
 36. § (1) A fizetési műveletet a felek által megállapított devizanemben kell teljesíteni.
 
 (2) A fizető felet és a kedvezményezettet kizárólag a saját pénzforgalmi szolgáltatója által meghatározott díj, költség vagy egyéb fizetési kötelezettség terheli, ha a fizetési művelethez nem kapcsolódik pénznemek közötti átváltás.

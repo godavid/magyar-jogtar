@@ -18,7 +18,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - f) ingatlanügylettel kapcsolatos tevékenységet folytat;
 - g) könyvvizsgálói tevékenységet folytat;
 - h) könyvviteli (könyvelői), adószakértői, okleveles adószakértői, adótanácsadói tevékenységet megbízási, illetve vállalkozási jogviszony alapján folytat;
-- i) játékkaszinót vagy elektronikus kaszinót működtet;
+- i) játékkaszinót, elektronikus kaszinót vagy kártyatermet működtet;
 - j) nemesfémmel vagy az ezekből készült tárgyakkal kereskedik;
 - k) árukereskedelmi tevékenysége folytatása során hárommillió-hatszázezer forintot elérő vagy meghaladó összegű készpénzfizetést fogad el;
 - l) önkéntes kölcsönös biztosítópénztárként működik;

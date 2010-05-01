@@ -130,7 +130,7 @@ Az Országgyűlés a helyi önkormányzatok Alkotmányban és a helyi önkormán
 
 (3) A jogi személyiséggel rendelkező társulás saját vagyonnal rendelkezhet, melynek szaporulata a társulást illeti meg.
 
-(4) A jogi személyiséggel rendelkező társulás gazdálkodó szervezetet alapíthat, illetve vállalkozásban vehet részt, azonban felelőssége nem haladhatja meg vagyoni hozzájárulásának mértékét.
+(4) A jogi személyiséggel rendelkező társulás önkormányzati költségvetési szervet, törvény rendelkezése szerint egyéb szervezetet alapíthat, azonban felelőssége nem haladhatja meg vagyoni hozzájárulásának mértékét.
 
 (5) A jogi személyiséggel rendelkező társulás megszűnése esetén a vagyonát – eltérő megállapodás hiányában – a társulás tagjai között kell felosztani. A vagyonmegosztás módját a társulási megállapodás rögzíti.
 

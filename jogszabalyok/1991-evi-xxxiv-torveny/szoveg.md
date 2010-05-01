@@ -17,7 +17,8 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 - a) sorsolásos játék szervezése,
 - b) pénznyerő automaták üzemeltetése,
 - c) szerencsejátékok lebonyolítására szervezet (a továbbiakban: játékkaszinó) alapítása, működtetése,
-- d) a lóversenyfogadás és az a)—c) pontok alá nem tartozó, e törvényben meghatározott egyéb, szerencsejáték szervezésére irányuló tevékenység (a továbbiakban együtt: szerencsejáték szervező tevékenység).
+- d) kártyaterem üzemeltetése,
+- e) a lóversenyfogadás és az a)–d) pontok alá nem tartozó, e törvényben meghatározott egyéb, szerencsejáték szervezésére irányuló tevékenység (a továbbiakban együtt: szerencsejáték szervező tevékenység).
 
 (4) A Magyar Köztársaság területéről hírközlő eszköz és rendszer által részvételi jogosultságot biztosító szerencsejáték szervezési tevékenység kizárólag e törvény előírásainak megfelelően folytatható.
 
@@ -29,7 +30,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (8) A nyereményre jogosult játékos kérésére a szerencsejáték-szervező köteles a 2 millió forintot, illetve ennek megfelelő valutaösszeget meghaladó nyereményről annak jogcímét és forintértékét tanúsító igazolást adni. A valutaösszeg átváltása tekintetében a nyeremény kifizetésének napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell alkalmazni. A nyereményigazolásnak tartalmaznia kell a szerencsejáték-szervező és a játékos azonosító adatait, a nyerés és a nyeremény átvételének helyét és időpontját, a szerencsejáték-szervező által a nyereményből levont személyi jövedelemadó összegét, valamint pénznyerő automatából származó nyeremény esetén a pénznyerő automata gyártási számát és a mérésügyi szerv által adott azonosító számát. A nyereményigazolás az állami adóhatóság által rendszeresített és hitelesített bizonylaton, vagy az állami adóhatóság jóváhagyásával – amennyiben a szerencsejáték-szervező a játékos személyes adatai, valamint egyéb, személyhez fűződő jogai védelmét biztosítja – zárt számítástechnikai rendszeren keresztül is kiállítható. A szerencsejáték-szervező köteles valamennyi kérelmet a nyereményigazolás kiállításának általa választott módján egységesen teljesíteni.
 
-2. § (1) Az 1. § (3) bekezdésének a) pontjában meghatározott tevékenységek közül a 16. §-ban meghatározott tevékenység, valamint az 1. § (3) bekezdésének b) pontjában meghatározott tevékenység liberalizált tevékenység.
+2. § (1) Az 1. § (3) bekezdésének a) pontjában meghatározott tevékenységek közül a 16. §-ban meghatározott tevékenység, valamint az 1. § (3) bekezdésének b) és d) pontjaiban meghatározott tevékenység liberalizált tevékenység.
 
 (2) Szerencsejáték szervező tevékenység folytatásához — az e törvényben meghatározott kivétellel — az állami adóhatóság engedélye szükséges.
 
@@ -129,7 +130,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 9. § (1) Szerencsejáték csak jóváhagyott játékterv alapján szervezhető. A szerencsejáték-szervezőnek biztosítania kell a szerencsejátékkal összefüggő valamennyi tudnivaló (különösen a szerencsejáték lebonyolításának módja, a nyerési esélyek, a nyeremények felosztásának módja, feltételei, át nem vett nyeremények kezelése) játékosok számára való nyilvánosságát. A szerencsejáték-szervezőnek fel kell hívnia a figyelmet a túlzásba vitt szerencsejáték ártalmaira, a szenvedélybetegség kialakulásának veszélyére. A szerencsejáték-szervező az értékesítőhelyen köteles ilyen tartalmú tájékoztató hirdetmények elhelyezésére.
 
-(2) Az engedély kizárólag az abban foglalt, illetőleg az engedélyben meghatározott tagokból álló szerencsejáték szervezőre az ott meghatározott időtartamra, az abban foglalt feltételekkel és jóváhagyott játéktervre, a játékkaszinó, játékterem és bingó játék esetén az engedélyben meghatározott épületre, vagy helyiségre vonatkozik. Az engedély másra át nem ruházható. A játéktervtől csak az állami adóhatóság engedélyével lehet eltérni. Az eltérés a játékosok érdekeit vagy mások jóhiszeműen szerzett jogait nem sértheti.
+(2) Az engedély kizárólag az abban foglalt, illetőleg az engedélyben meghatározott tagokból álló szerencsejáték szervezőre, az ott meghatározott időtartamra, az abban foglalt feltételekkel és jóváhagyott játéktervre, a játékkaszinó, játékterem, kártyaterem és bingójáték esetén – a 27. § (3) bekezdés figyelembevételével – az engedélyben meghatározott épületre, vagy helyiségre vonatkozik. Az engedély másra át nem ruházható. A játéktervtől csak az állami adóhatóság engedélyével lehet eltérni. Az eltérés a játékosok érdekeit vagy mások jóhiszeműen szerzett jogait nem sértheti.
 
 (3) A szerencsejáték szervező tevékenység körébe tartozó, az engedély kiadásánál figyelembe vett tény vagy körülmény változásáról az állami adóhatóságot harminc 30 belül köteles értesíteni.
 
@@ -171,9 +172,9 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 (3) A bírság
 
 - a) 50 ezer forinttól 500 ezer forintig terjedhet az 1. § (8) bekezdésébe, 9. § (3) bekezdésébe, a 11. § (3) bekezdésébe, a 16. § (2) bekezdésébe, a 17. § (1) bekezdésébe, a 18. § (1) bekezdésébe, az ajándéksorsolást szervezővel szemben a 23. §-ba és a 36. § (3) bekezdésébe,
-- b) 100 ezer forinttól 1 millió forintig terjedhet az 1. § (6) bekezdésébe, a 9. § (2) bekezdésébe, a 11. § (8)–(10) bekezdéseibe, a 17. § (3)–(4) bekezdéseibe, a 26. § (2), (7), (12), (13), (20) bekezdéseibe, a 26/B. § (5) bekezdésébe, a 27. § (9) és (11) bekezdéseibe, a 29/A. § (3) bekezdésébe, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, továbbá az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló, a miniszter által kiadott rendelet rendelkezéseibe, [b) 100 ezer forinttól 1 millió forintig terjedhet az 1. § (6) bekezdésébe, a 9. § (2) bekezdésébe, a 11. § (8)–(10) bekezdéseibe, a 17. § (3)–(4) bekezdéseibe, a 26. § (2), (4), (7), (12), (13), (20) bekezdéseibe, a 26/B. § (5) bekezdésébe, a 27. § (9) és (11) bekezdéseibe, a 29/A. § (3) bekezdésébe, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, továbbá az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló, a miniszter által kiadott rendelet rendelkezéseibe,]
-- c) 200 ezer forinttól 3 millió forintig terjedhet a 9. § (1) bekezdésébe, az ellenőrzési díj meg nem fizetése esetén a 11. § (1) bekezdésébe, a 13. § (1) bekezdésének b)–d) pontjaiba, a 18. § (2) bekezdésébe, a 19. § (1) bekezdésébe, a 26. § (15) bekezdésébe, a 28. § (1)–(2) bekezdéseibe és a 30. § (4) bekezdésébe,
-- d) 500 ezer forinttól 10 millió forintig terjedhet az 1. § (4) bekezdésébe, a 2. § (2) és (7) bekezdéseibe, a 26. § (3) bekezdésébe és a 30. § (3) bekezdésébe
+- b) 100 ezer forinttól 1 millió forintig terjedhet az 1. § (6) bekezdésébe, a 9. § (2) bekezdésébe, a 11. § (8)–(10) bekezdéseibe, a 17. § (3)–(4) bekezdéseibe, a 26. § (2), (4), (7), (12), (13), (20) bekezdéseibe, a 26/B. § (5) bekezdésébe, a 27. § (9) és (11) bekezdéseibe, a 29/A. § (3) bekezdésébe, 29/B. § (2), (5)–(8) bekezdéseibe, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, továbbá az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló, a miniszter által kiadott rendelet rendelkezéseibe,
+- c) 200 ezer forinttól 3 millió forintig terjedhet a 9. § (1) bekezdésébe, az ellenőrzési díj meg nem fizetése esetén a 11. § (1) bekezdésébe, a 13. § (1) bekezdésének b)–d) pontjaiba, a 18. § (2) bekezdésébe, a 19. § (1) bekezdésébe, a 26. § (15) bekezdésébe, a 28. § (1)–(2) bekezdéseibe, 29/B. § (9) bekezdésébe, a 30. § (4) bekezdésébe és a 30/B. §-ba,
+- d) 500 ezer forinttól 10 millió forintig terjedhet az 1. § (4) bekezdésébe, a 2. § (2) és (7) bekezdéseibe, a 26. § (3) bekezdésébe, 29/B. § (3) bekezdésébe és a 30. § (3) bekezdésébe
 
 ütköző tevékenység vagy mulasztás esetén.
 
@@ -198,9 +199,9 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 - a) a szerencsejáték-szervező az állami adóhatóság hatósági intézkedése ellenére a jogszabálysértő állapotot nem szünteti meg,
 - b) a szerencsejáték-szervező súlyos jogszabálysértést követ el, amellyel a játék tisztaságát sérti,
 - c) az engedély kiadása után merül fel olyan tény, adat vagy körülmény, amely miatt az engedély-kérelem elutasításának lett volna helye,
-- d) a szerencsejáték-szervező az állammal szembeni kötelezettségét súlyosan megszegi, vagy az állammal szembeni kötelezettségének ismételten nem tesz eleget. Az eltiltás pénznyerő automaták üzemeltetése esetén meghatározott játékteremben folytatott szerencsejáték-szervezői tevékenységre vonatkozóan is alkalmazható.
+- d) a szerencsejáték-szervező az állammal szembeni kötelezettségét súlyosan megszegi, vagy az állammal szembeni kötelezettségének ismételten nem tesz eleget. Az eltiltás pénznyerő automaták és kártyaterem üzemeltetése esetén meghatározott játékteremben, illetve kártyateremben folytatott szerencsejáték-szervezői tevékenységre vonatkozóan is alkalmazható.
 
-(3) Az állami adóhatóság a játékkaszinó és az elektronikus kaszinó működtetőjével szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén e §-ban meghatározott intézkedést alkalmazhat.
+(3) Az állami adóhatóság a játékkaszinó, az elektronikus kaszinó és a kártyaterem működtetőjével szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén e §-ban meghatározott intézkedést alkalmazhat.
 
 (4) Ha a szerencsejáték szervező a működését az engedély megadásától számított hat hónapon belül nem kezdi meg, továbbá ha azt engedély nélkül szünetelteti, az engedély visszavonható.
 
@@ -218,7 +219,8 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 - b) nem sorsolásos játék,
 - c) pénznyerő automata üzemeltetése,
 - d) kaszinójáték,
-- e) fogadás.
+- e) fogadás,
+- f) kártyajáték.
 
 ### 1. CÍM — Sorsolásos játék
 
@@ -300,13 +302,10 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (3) Pénznyerő automata csak játékkaszinóban vagy — kizárólag e célból alapított gazdasági társaság által — játékteremben üzemeltethető. Egy játékkaszinó-egységben vagy egy játékteremben kizárólag egy gazdasági társaság üzemeltethet pénznyerő automatákat.
 
-[(4) A játékkaszinóban üzemeltetett pénznyerő automatának
+(4) A játékkaszinóban üzemeltetett pénznyerő automatának
 
-a) 100 000 játékonként az összes tét legalább 80%-át, vagy
-
-b) a normális eloszlás sűrűségfüggvényének megfelelően, az összes tét legalább 85%-át legalább 95%-os valószínűséggel
-
-nyereményként ki kell adnia.]
+- a) 100 000 játékonként az összes tét legalább 80%-át, vagy
+- b) a normális eloszlás sűrűségfüggvényének megfelelően, az összes tét legalább 85%-át legalább 95%-os valószínűséggel nyereményként ki kell adnia.
 
 (5) A játéktermet az állami adóhatóság az engedélyben I. vagy II. kategóriába sorolja be. A II. kategóriába tartozó játékteremben legfeljebb 2 db II. kategóriába tartozó pénznyerő automata üzemeltethető.
 
@@ -382,7 +381,7 @@ nyereményként ki kell adnia.]
 
 (2) I. kategóriába tartozó játékkaszinót kizárólag e célból létrehozott legalább 1 milliárd forint, II. kategóriába tartozó játékkaszinót kizárólag e célból létrehozott legalább 100 millió forint, a fővárosban és Pest megyében üzemeltetett játékkaszinó vonatkozásában legalább 300 millió forint alap- vagy törzstőkével rendelkező, az állam többségi részesedésével működő gazdálkodó szervezet, az állami játékszervező kizárólagos tulajdonában lévő gazdasági társaság és/vagy koncessziós társaság működtethet.
 
-(3) Játékkaszinó kizárólag e célt szolgáló épületben vagy erre a célra egyéb tevékenységtől biztonságosan elkülöníthető, zárt egységet alkotó épületrészben működhet, ahol a játék- és kártyaasztalok, pénznyerő automaták, a szerencsejáték céljára szolgáló eszközök és egyéb berendezések biztonságos elhelyezése, a játékosok és a berendezések ellenőrzése folyamatosan biztosítható. Játékkaszinó hírközlő eszköz és rendszer útján nem működtethető. A játékkaszinó működtetése során kaszinójáték hírközlő eszköz és rendszer útján nem folytatható.
+(3) Játékkaszinó kizárólag e célt szolgáló épületben vagy erre a célra egyéb tevékenységtől biztonságosan elkülöníthető, zárt egységet alkotó épületrészben működhet, ahol a játék- és kártyaasztalok, pénznyerő automaták, a szerencsejáték céljára szolgáló eszközök és egyéb berendezések biztonságos elhelyezése, a játékosok és a berendezések ellenőrzése folyamatosan biztosítható. Az állami adóhatóság eseti jelleggel, legfeljebb 30 napos időtartamra engedélyezheti egyes, a játékkaszinó játéktervében jóváhagyott kártyajátékok más helyszínen történő szervezését. Játékkaszinó hírközlő eszköz és rendszer útján nem működtethető. A játékkaszinó működtetése során kaszinójáték hírközlő eszköz és rendszer útján nem folytatható.
 
 (4) Az állami adóhatóság az engedélyben meghatározza a játékkaszinó kategóriáját, helyét, működési, látogatási feltételeit, az egyes játékfajtákat, azok szabályait, az egyes játékoknál alkalmazható legmagasabb téteket, a tétek és a nyeremények arányát, valamint minden tényt, körülményt vagy feltételt, amely a játékkaszinó biztonságos üzemeltetéséhez szükséges.
 
@@ -455,6 +454,32 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (5) A (3) bekezdés szerint bejelentési kötelezettség elmulasztása esetén a 26/A. § rendelkezéseit megfelelően alkalmazni kell.
 
+### Kártyajáték
+
+29/B. § (1) Kártyajátékot játékkaszinóban és kártyateremben lehet szervezni.
+
+(2) Kártyateremben kizárólag totalizatőri, készpénzes és/vagy verseny rendszerben lebonyolított, póker típusú kártyajáték szervezhető, továbbá a játékosok számára vendéglátás nyújtható. Készpénzes lebonyolítás esetén a kezdő tét az 500, illetve az 1000 forintot, az egy játékos által egyidejűleg beváltható összeg a 100 ezer forintot, verseny rendszerű lebonyolítás esetén pedig a nevezési díj (tét) mértéke az 50 ezer forintot nem haladhatja meg. A nevezési díjat a játékos több részletben is teljesítheti. Kártyajáték hírközlő eszköz és rendszer útján nem szervezhető.
+
+(3) Kártyateremben kártyajátékot a kizárólag e célból alapított gazdasági társaság szervezhet. Egy kártyateremben kizárólag egy gazdasági társaság szervezhet kártyajátékot.
+
+(4) A kártyatermet üzemeltető gazdasági társaságnak legalább 25 millió forint alap- vagy törzstőkével kell rendelkeznie.
+
+(5) Kártyaterem kizárólag a közterület felől saját bejárattal rendelkező épületben, vagy külön bejárattal rendelkező építészetileg zárt helyiségben létesíthető. A kártyateremben legalább 5 kártyaasztalnak kell üzemelnie és legfeljebb 10 kártyaasztal helyezhető el. Egy kártyaasztalnál legfeljebb 10 játékos játszhat. A kártyaterem alapterületének akkorának kell lennie, hogy kártyaasztalonként legalább 16 m2 álljon a játékosok rendelkezésre, melybe a vendéglátásra szolgáló terület nem számítható be.
+
+(6) Ifjúsági, gyermek-, oktatási vagy nevelési intézmény, ifjúsági klub, egyházi, illetőleg egészségügyi intézmény, továbbá I. kategóriába sorolt játékterem és a kártyaterem engedélyezése iránti kérelem benyújtásakor már engedélyezett játékkaszinó 200 méteres körzetében kártyaterem nem működhet. A kártyatermet 18 éven aluliak nem látogathatják.
+
+(7) A kártyateremben a játék tisztasága, biztonságos lebonyolítása, a rend és a vagyonvédelem, továbbá a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben előírt feladatok végrehajtása érdekében videotechnikai ellenőrzési rendszert kell üzemeltetni.
+
+(8) A kártyateremben működő videotechnikai ellenőrzési rendszer által készített videofelvételeket a szervező a rögzítéstől számított 45 napig köteles megőrizni. Akinek jogát, vagy jogos érdekét a videofelvétel érinti, illetve akit a kártyateremben történt rendkívüli események, különösen a játékosi panasszal érintett események, illetve a játékosokkal szemben alkalmazott intézkedések érintenek a rögzítéstől számított 15 munkanapon belül kérheti, hogy a videofelvételt a szervező panasza kivizsgálásáig ne törölje.
+
+(9) Ha a kártyaterem üzemeltetése nem felel meg a játéktervnek és az engedélynek, az állami adóhatóság a kártyaterem működését felfüggeszti. Az állami adóhatóság akkor is köteles a kártyaterem működtetését felfüggeszteni, ha az engedély a helyszínen nem található. Ha a kártyateremben az engedélyezett kártyajátékon túl más szerencsejáték szervező tevékenység folyik, az állami adóhatóság a kártyaterem engedélyét visszavonja.
+
+(10) A kártyaterem jogszerű birtoklásának igazolását az állami adóhatóság a szerencsejáték-szervezőtől a kártyaterem működtetésének engedélyezett időtartama alatt bármikor kérheti. Ha a szerencsejáték-szervező e kötelezettségének nem tesz eleget, az állami adóhatóság az engedélyt visszavonhatja.
+
+(11) A 26. § (18) bekezdését a kártyatermet üzemeltető szerencsejáték-szervezőre is alkalmazni kell.
+
+(12) Az állami adóhatóság a játékterv jóváhagyásával lehetővé teheti az alkalmazottak számára borravaló elfogadását. A kártyateremben adott borravalóra egyebekben a játékkaszinóban adott borravalóra vonatkozó szabályokat kell megfelelően alkalmazni.
+
 ### II. Fejezet — A sorsolásos játékok és a totalizatőri rendszerű fogadások nyereményalapja
 
 30. § (1) E törvény alkalmazása szempontjából a sorsolásos játékoknál nyereményalapnak minősül a kibocsátott sorsjegyek számának és fogyasztói árának szorzata. Folyamatosan szervezett sorsolásos játékok esetében nyereményalapnak minősül a játéktervben jóváhagyott játékra jogosító sorsjegyek számának és fogyasztói árának szorzata.
@@ -468,6 +493,10 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 (5) A számsorsjáték havi nyereményalapjának minősül a tárgyhónapban játékra jogosított sorsjegyek tétjeként a játékosok által megfizetett összeg.
 
 30/A. § A fogadás nyereményalapja a fogadásra fizetett tétek összessége. A bukmékeri rendszerű fogadás esetén a nyereményalapnak legalább 75%-át, az állami játékszervező által szervezett totalizatőri rendszerű fogadásnál a nyereményalap legalább 45%-át, a lóversenyfogadás nyereményalapjának legalább 68%-át nyeremények céljára kell fordítani. E feltételeknek a bukmékeri rendszerű fogadás esetén évente kell megfelelni. A folyamatosan szervezett totalizatőri rendszerű fogadás esetében az állami adóhatóság engedélyezheti a nyeremények halmozódását, annak kezdő időpontjától számított egy évig.
+
+### A kártyateremben szervezett kártyajáték nyereményalapja
+
+30/B. § A kártyateremben szervezett készpénzes lebonyolítási rendszerű kártyajáték esetén nyereményalapnak az első tét megtétele és a nyereményjogosultság megállapítása között megtett tétek összege minősül. A verseny rendszerű kártyajáték esetén nyereményalapnak a nevezési díjak összege minősül. A nyereményalap legalább 80%-át nyeremény céljára kell fordítani.
 
 ### III. Fejezet
 
@@ -518,9 +547,11 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (2) Az üzemeltető játékadó-fizetési kötelezettsége mindaddig fennáll, ameddig a játékautomata az állami adóhatóság nyilvántartásában szerepel. Az adóbefizetési kötelezettség elmulasztása esetén az állami adóhatóság a játékautomatát törli a nyilvántartásból.
 
-### Bukmékeri rendszerű fogadás játékadója
+### Kártyatermek játékadója
 
-34. §
+34. § (1) A kártyaterem játékadója a tiszta játékbevétel 40%-a.
+
+(2) Az adóbefizetési kötelezettség elmulasztása esetén az állami adóhatóság a szerencsejáték-szervező engedélyeit köteles visszavonni. Ez a határozat a jogorvoslatra tekintet nélkül azonnal végrehajtató.
 
 ### Játékkaszinó játékadója
 
@@ -597,6 +628,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 - 19. Lóversenyfogadás: agár- és lóversenyre történő totalizatőri és bukmékeri rendszerű fogadás.
 - 20. Jackpot rendszer: olyan rendszer, amely a játékos felé megjeleníti a tétként eljátszott összeg előre meghatározott hányadával növelt halmozott nyereményígéretet, és amennyiben a nyereményígéret az előre meghatározott alsó és felső határok között véletlenszerűen beállított értéket elérte, valamennyi, az adott játékteremben éppen játékban lévő – a rendszer részét képező – pénznyerő automata között véletlenszerű sorsolással nyereményt fizet ki.
 - 21. Szerencsejáték ügy: a szerencsejáték-szervezés hatósági felügyeletének ellátása során lefolytatott hatósági engedélyezési, nyilvántartásba vételi, ellenőrzési és jogkövetkezmények megállapítására irányuló eljárás.
+- 22. Kártyajáték: kizárólag a jelenlévők részvételével szervezett, kártyával lebonyolított szerencsejáték.
 
 ### Záró rendelkezések
 
@@ -608,7 +640,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 - b) az egyes szerencsejátékok lebonyolításával, ellenőrzésével,
 - c) a játéktervvel,
 - d) a sorsolásos játékokkal és a fogadásokkal,
-- e) a pénznyerő automaták, játékautomaták, játéktermek és játékkaszinók üzemeltetésével, a játéktermek szüneteltetésével, valamint
+- e) a pénznyerő automaták, játékautomaták, játéktermek, kártyatermek és játékkaszinók üzemeltetésével, a játéktermek szüneteltetésével, valamint
 - f)
 - g) a szerencsejátékok szervezésének engedélyezéséért, ellenőrzéséért, illetve az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjakkal,
 - h) a szerencsejátékra vonatkozó koncessziós eljárással, így különösen a Pályázati Értékelő Bizottság létrehozásával, összetételével és eljárásával. Felhatalmazást kap az agrárpolitikáért felelős miniszter a ló- és agárversenyzés szabályainak jogszabályban történő megállapítására.

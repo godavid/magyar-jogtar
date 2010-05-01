@@ -1109,8 +1109,8 @@ bírálja el.
 
 (2) Szakértő alkalmazása kötelező, ha
 
-- a) a bizonyítandó tény, illetőleg az eldöntendő kérdés személy kóros elmeállapota, alkohol-, illetőleg kábítószer-függősége,
-- b) a bizonyítandó tény, illetőleg az eldöntendő kérdés kényszergyógykezelés vagy kényszergyógyítás szükségessége,
+- a) a bizonyítandó tény, illetőleg az eldöntendő kérdés személy kóros elmeállapota, illetőleg kábítószer-függősége,
+- b) a bizonyítandó tény, illetőleg az eldöntendő kérdés kényszergyógykezelés szükségessége,
 - c) a személyazonosítást biológiai vizsgálattal végzik,
 - d) elhalt személy kihantolására kerül sor.
 
@@ -1764,7 +1764,7 @@ vezet.
 
 ### A lefoglalt dolog visszatartása
 
-157. § (1) A terheltnek kiadandó dolgot a vele szemben megállapított pénzbüntetés, pénzmellékbüntetés, vagyonelkobzás, bűnügyi költség vagy polgári jogi igény biztosítására vissza lehet tartani, erről az ügydöntő határozatban kell rendelkezni.
+157. § (1) A terheltnek kiadandó dolgot a vele szemben megállapított pénzbüntetés, vagyonelkobzás, bűnügyi költség vagy polgári jogi igény biztosítására vissza lehet tartani, erről az ügydöntő határozatban kell rendelkezni.
 
 (2) A polgári jogi igény biztosítását szolgáló visszatartást meg kell szüntetni, ha a magánfél a megállapított teljesítési határidő lejártától számított hatvan napon belül nem kért végrehajtást, illetőleg a polgári jogi igény érvényesítésének egyéb törvényes útra utasítása esetén hatvan napon belül nem igazolja, hogy a polgári perben biztosítási intézkedés iránti kérelmet nyújtott be.
 
@@ -4011,12 +4011,13 @@ ellen.
 (4) A súlyosítási tilalom folytán a másodfokú bíróság a vádlott terhére bejelentett fellebbezés hiányában nem szabhat ki
 
 - a) büntetést azzal szemben, akinek az ügyét első fokon önállóan alkalmazott intézkedéssel bírálták el,
-- b) pénzbüntetés helyett közérdekű munkát vagy szabadságvesztést, közérdekű munka helyett szabadságvesztést,
-- c) felfüggesztett szabadságvesztés helyett végrehajtandó szabadságvesztést; végrehajtandó szabadságvesztés helyett hosszabb tartamú szabadságvesztést, annak felfüggesztése mellett sem,
-- d) végrehajtandó pénzbüntetés vagy közérdekű munka helyett felfüggesztett szabadságvesztést,
-- e) felfüggesztett pénzbüntetés helyett végrehajtandó pénzbüntetést, végrehajtandó pénzbüntetés helyett nagyobb összegű pénzbüntetést, annak felfüggesztése mellett sem,
-- f) az első fokú bíróság által nem alkalmazott mellékbüntetést,
-- g) az első fokon főbüntetés helyett önálló büntetésként alkalmazott mellékbüntetés helyett főbüntetést.
+- b) közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kiutasítás helyett szabadságvesztést annak felfüggesztése vagy részbeni felfüggesztése mellett sem,
+- c) felfüggesztett szabadságvesztés helyett részben felfüggesztett szabadságvesztést, végrehajtandó szabadságvesztést,
+- d) végrehajtandó szabadságvesztés helyett hosszabb tartamú szabadságvesztést, annak felfüggesztése vagy részbeni felfüggesztése mellett sem,
+- e) részben felfüggesztett szabadságvesztés helyett rövidebb tartamú végrehajtandó szabadságvesztést,
+- f) az elsőfokú bíróság által alkalmazott büntetések számát meghaladó további büntetéseket, ide nem értve a szabadságvesztés helyett alkalmazott büntetéseket,
+- g) az elsőfokú bíróság által nem alkalmazott mellékbüntetést,
+- h) lefokozás, szolgálati viszony megszüntetése helyett szabadságvesztést, annak felfüggesztése vagy részbeni felfüggesztése mellett sem.]
 
 (5) Ha az első fokú bíróság az elkobzásról, illetőleg a vagyonelkobzásról a törvény rendelkezése ellenére nem rendelkezett, a tényállás azonban a döntéshez szükséges adatokat tartalmazza, erről a másodfokú bíróság is határozhat abban az esetben is, ha a terhelt terhére nem jelentettek be fellebbezést.
 
@@ -4972,7 +4973,7 @@ kell végrehajtani.
 
 ### A pénzbüntetés átváltoztatása szabadságvesztésre
 
-466. § A pénzbüntetésnek, illetőleg a pénzmellékbüntetésnek szabadságvesztésre való átváltoztatásáról a bíróság hivatalból vagy az ügyész indítványára határoz, ha a fiatalkorú nem fizette meg, és az behajthatatlan.
+466. § A pénzbüntetésnek szabadságvesztésre való átváltoztatásáról a bíróság hivatalból vagy az ügyész indítványára határoz, ha a fiatalkorú nem fizette meg, és az behajthatatlan.
 
 ### A javítóintézetből való ideiglenes elbocsátásmegszüntetése
 
@@ -5606,11 +5607,11 @@ az ügyész vádat emel.
 
 ### XXVII. Fejezet — A TÁRGYALÁS MELLŐZÉSE
 
-543. § E törvény rendelkezéseit a tárgyalás mellőzésével végrehajtásában felfüggesztett szabadságvesztés, pénzbüntetés kiszabása, illetőleg mellékbüntetés önálló büntetésként való alkalmazása vagy próbára bocsátás esetén az e fejezetben foglalt eltérésekkel kell alkalmazni.
+543. § E törvény rendelkezéseit a tárgyalás mellőzésével folytatott eljárásban az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
-544. § (1) A bíróság a szabadlábon lévő vádlottal szemben tárgyalás mellőzésével végzésben végrehajtásában felfüggesztett szabadságvesztést, közérdekű munkát, pénzbüntetést, illetőleg önálló büntetésként foglalkozástól eltiltást, járművezetéstől eltiltást, kiutasítást – katonával szemben lefokozást, szolgálati viszony megszüntetését is –, továbbá intézkedésként próbára bocsátást, megrovást alkalmaz a három évi szabadságvesztésnél nem súlyosabban büntetendő bűncselekmény esetén, ha
+544. § (1) A bíróság a szabadlábon lévő vádlottal szemben tárgyalás mellőzésével végzésben végrehajtásában felfüggesztett szabadságvesztést, közérdekű munkát, pénzbüntetést, foglalkozástól eltiltást, járművezetéstől eltiltást, kiutasítást – katonával szemben lefokozást, szolgálati viszony megszüntetését is –, továbbá intézkedésként próbára bocsátást, megrovást alkalmaz a három évi szabadságvesztésnél nem súlyosabban büntetendő bűncselekmény esetén, ha
 
-- a) a törvény a szabadságvesztés végrehajtásának felfüggesztését, közérdekű munka, pénzbüntetés kiszabását, a próbára bocsátást, illetőleg a mellékbüntetés önálló büntetésként alkalmazását lehetővé teszi,
+- a) a törvény a szabadságvesztés végrehajtásának felfüggesztését, közérdekű munka, pénzbüntetést, foglalkozástól eltiltást, járművezetéstől eltiltást, kiutasítást, kitiltást – katonával szemben lefokozást, szolgálati viszony megszüntetését, rendfokozatban visszavetést és a várakozási idő meghosszabbítását is – vagy a próbára bocsátás alkalmazását lehetővé teszi,
 - b) a tényállás egyszerű,
 - c) a vádlott a bűncselekmény elkövetését beismerte,
 - d) a büntetés célja tárgyalás nélkül is elérhető.
@@ -5627,7 +5628,7 @@ az ügyész vádat emel.
 
 547. § (1) A bíróság a végzésben
 
-- a) végrehajtásában felfüggesztett szabadságvesztés vagy pénzbüntetés kiszabása esetén mellékbüntetésként foglalkozástól eltiltást, járművezetéstől eltiltást vagy kiutasítást – katonával szemben lefokozást, a szolgálati viszony megszüntetését, rendfokozatban visszavetést és a várakozási idő meghosszabbítását is –, végrehajtásában felfüggesztett szabadságvesztés kiszabása esetén pénzmellékbüntetést alkalmazhat,
+- a) végrehajtásában felfüggesztett szabadságvesztést, közérdekű munkát, pénzbüntetést, foglalkozástól eltiltást, járművezetéstől eltiltást, kiutasítást, kitiltást – katonával szemben lefokozást, szolgálati viszony megszüntetését, rendfokozatban visszavetést és a várakozási idő meghosszabbítását is – alkalmazhat,
 - b) végrehajtásában felfüggesztett szabadságvesztés kiszabása vagy próbára bocsátás esetén pártfogó felügyeletet is alkalmazhat,
 - c) elkobzást, illetőleg vagyonelkobzást is kimondhat, illetőleg a polgári jogi igénynek helyt adhat, vagy a polgári jogi igény érvényesítését egyéb törvényes útra utasíthatja,
 - d) a próbára bocsátást kimondó rendelkezést hatályon kívül helyezheti,
@@ -5638,7 +5639,7 @@ az ügyész vádat emel.
 (3) A tárgyalás mellőzésével hozott végzés rendelkező részének tartalmaznia kell
 
 - a) a bűncselekmény megjelölését,
-- b) a kiszabott szabadságvesztést, pénzbüntetést, illetőleg önálló büntetésként alkalmazott mellékbüntetést, próbára bocsátást vagy megrovást,
+- b) a kiszabott büntetést, mellékbüntetést, az alkalmazott próbára bocsátást vagy megrovást,
 - c) a jogszabályon alapuló egyéb rendelkezéseket,
 - d) az 548. és az 550. §-ban foglaltakra való figyelmeztetést.
 
@@ -5753,13 +5754,11 @@ az ügyész vádat emel.
 
 561. § A bíróság utólag határoz, ha a közérdekű munkát kiszabó jogerős ítéletében nem határozott meg közérdekű munkaként végzendő munkát.
 
-### A pénzmellékbüntetés helyébe lépő szabadságvesztés utólagos meghatározása
-
-562. § A bíróság utólag határoz, ha jogerős ítélet nem, vagy nem a törvénynek megfelelően rendelkezett a pénzmellékbüntetésnek – meg nem fizetése esetén – szabadságvesztésre átváltoztatásáról.
+562. §
 
 ### A pénzbüntetés átváltoztatása szabadságvesztésre
 
-563. § (1) A pénzbüntetésnek, illetőleg a pénzmellékbüntetésnek szabadságvesztésre való átváltoztatásáról a bíróság hivatalból vagy az ügyész indítványára határoz, ha az elítélt a pénzbüntetést nem fizette meg.
+563. § (1) A pénzbüntetésnek szabadságvesztésre való átváltoztatásáról a bíróság hivatalból vagy az ügyész indítványára határoz, ha az elítélt a pénzbüntetést nem fizette meg.
 
 (2) Az átváltoztatást kimondó végzés ellen fellebbezésnek nincs helye.
 
@@ -5959,7 +5958,7 @@ I. a nyomozást azért szüntették meg, mert
 
 ### A visszatérítés
 
-585. § (1) A pénzbüntetés, a pénzmellékbüntetés és a bűnügyi költség címén befizetett összeget a befizetéstől a visszatérítés időpontjáig eltelt időre számított mindenkori törvényes kamatával együtt a terheltnek vissza kell téríteni, ha rendkívüli jogorvoslat folytán felmentették, vele szemben az eljárást megszüntették, illetőleg az ennek folytán hozott határozat ilyen kötelezést nem, vagy alacsonyabb mértékben tartalmaz.
+585. § (1) A pénzbüntetés és a bűnügyi költség címén befizetett összeget a befizetéstől a visszatérítés időpontjáig eltelt időre számított mindenkori törvényes kamatával együtt a terheltnek vissza kell téríteni, ha rendkívüli jogorvoslat folytán felmentették, vele szemben az eljárást megszüntették, illetőleg az ennek folytán hozott határozat ilyen kötelezést nem, vagy alacsonyabb mértékben tartalmaz.
 
 (2) Vagyonelkobzás és elkobzás esetén az (1) bekezdés akként irányadó, hogy az elkobzott dolgot természetben kell visszaadni, ha pedig ez nem lehetséges, a vagyonelkobzáskor, illetve az elkobzáskor megállapított forgalmi értéket alapul véve, annak a visszatérítés időpontjáig eltelt időre számított mindenkori törvényes kamatával növelt összegét kell visszatéríteni.
 
@@ -6067,15 +6066,15 @@ I. a nyomozást azért szüntették meg, mert
 
 (7) Ha a szabadságvesztés végrehajtásának elhalasztása iránti kérelmet olyan időben terjesztik elő, hogy annak elintézésére a végrehajtás megkezdésére kitűzött határnap előtt már nincs lehetőség, a tanács elnöke a kérelem elbírálását mellőzi és erről a kérelmezőt értesíti. Ha a szabadságvesztést már foganatba vették, a kérelmet a szabadságvesztés végrehajtásának esetleges félbeszakítás iránti intézkedés végett a büntetés-végrehajtási intézetnek megküldi.
 
-### Halasztás és részletfizetés engedélyezése pénzbüntetésés pénzmellékbüntetés esetén
+### Halasztás és részletfizetés engedélyezése pénzbüntetés esetén
 
-592. § (1) Ha az elítélt valószínűsíti, hogy a pénzbüntetés, illetőleg a pénzmellékbüntetés azonnali vagy egy összegben való megfizetése magának vagy tartásra szoruló hozzátartozóinak a büntetés célján túlmenő jelentős anyagi nehézséget okozna, és megalapozottan feltehető, hogy az elítélt a meghosszabbított határidőben fizetési kötelezettségének pontosan eleget tesz, részére a bíróság legfeljebb három hónapi halasztást, illetőleg azt engedélyezheti, hogy a pénzbüntetést, illetve a pénzmellékbüntetést két éven belül, részletekben fizesse meg.
+592. § (1) Ha az elítélt valószínűsíti, hogy a pénzbüntetés azonnali vagy egy összegben való megfizetése magának vagy tartásra szoruló hozzátartozóinak a büntetés célján túlmenő jelentős anyagi nehézséget okozna, és megalapozottan feltehető, hogy az elítélt a meghosszabbított határidőben fizetési kötelezettségének pontosan eleget tesz, részére a bíróság legfeljebb három hónapi halasztást, illetőleg azt engedélyezheti, hogy a pénzbüntetést két éven belül, részletekben fizesse meg.
 
-(2) A pénzbüntetés, illetőleg a pénzmellékbüntetés megfizetésére adott halasztás fontos okból egy alkalommal, legfeljebb további három hónappal meghosszabbítható.
+(2) A pénzbüntetés megfizetésére adott halasztás fontos okból egy alkalommal, legfeljebb további három hónappal meghosszabbítható.
 
-(3) A részletfizetés olyan, havonta fizetendő összegben engedélyezhető, amely osztható a pénzbüntetés esetén az ítéletben megállapított napi tétel összegével, a pénzmellékbüntetés esetén az ítéletben a pénzbüntetés szabadságvesztésre átváltoztatását illetően meghatározott összeggel.
+(3) A részletfizetés olyan, havonta fizetendő összegben engedélyezhető, amely osztható a pénzbüntetés esetén az ítéletben megállapított napi tétel összegével.
 
-(4) A szabadságvesztésre átváltoztatás után a pénzbüntetés, illetőleg a pénzmellékbüntetés megfizetésére halasztás vagy részletfizetés nem engedélyezhető.
+(4) A szabadságvesztésre átváltoztatás után a pénzbüntetés megfizetésére halasztás vagy részletfizetés nem engedélyezhető.
 
 ### Halasztás és részletfizetés engedélyezése rendbírságés az államot illető bűnügyi költség esetén
 
@@ -6095,7 +6094,7 @@ I. a nyomozást azért szüntették meg, mert
 
 (3) A terhelt később előterjesztett kérelmének elbírálására a különleges eljárások szabályait (XXIX. Fejezet) kell alkalmazni.
 
-(4) A pénzbüntetés, a pénzmellékbüntetés, a rendbírság és az államot illető bűnügyi költség tekintetében a halasztás, illetőleg a részletfizetés engedélyezése tárgyában hozott határozat ellen nincs helye fellebbezésnek.
+(4) A pénzbüntetés, a rendbírság és az államot illető bűnügyi költség tekintetében a halasztás, illetőleg a részletfizetés engedélyezése tárgyában hozott határozat ellen nincs helye fellebbezésnek.
 
 (5) A szabadságvesztés és a javítóintézeti nevelés végrehajtásának elhalasztása tárgyában hozott határozat ellen az ügyész, az elítélt és a védő fellebbezhet. Ha a halasztást a (2) bekezdés alapján a másodfokú bíróság engedélyezte, a fellebbezés elbírálására a XIV. Fejezet IV. Címe megfelelően irányadó.
 
@@ -6115,7 +6114,7 @@ I. a nyomozást azért szüntették meg, mert
 
 (7) A szabadságvesztés végrehajtásának biztosítására irányuló intézkedést meg kell szüntetni, ha a büntetés végrehajthatósága megszűnt.
 
-(8) Ha a bíróság a terhelttel szemben nem végrehajtandó szabadságvesztés mellett alkalmazott kiutasítás mellékbüntetést, és az ügydöntő határozat a kihirdetésekor jogerőre emelkedik, a bíróság a kiutasítás mellékbüntetés végrehajtása érdekében elrendeli a terheltnek az illetékes idegenrendészeti hatósághoz történő előállítását. Az előállítás végrehajtása érdekében a tanács elnöke a rendőrséget keresi meg.
+(8) Ha a bíróság a terhelttel szemben nem végrehajtandó szabadságvesztés mellett alkalmazott kiutasítást, és az ügydöntő határozat a kihirdetésekor jogerőre emelkedik, a bíróság a kiutasítás végrehajtása érdekében elrendeli a terheltnek az illetékes idegenrendészeti hatósághoz történő előállítását. Az előállítás végrehajtása érdekében a tanács elnöke a rendőrséget keresi meg.
 
 ### III. CÍM — KEGYELMI ELJÁRÁS
 
