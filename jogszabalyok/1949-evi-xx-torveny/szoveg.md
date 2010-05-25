@@ -153,17 +153,19 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (3) A Kormány azonnali intézkedésére alkalmazandó szabályokról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
-20. § (1) Az országgyűlési képviselők általános választását – az Országgyűlés feloszlása vagy feloszlatása miatti választás kivételével – az előző Országgyűlés megválasztását követő negyedik év április vagy május hónapjában kell megtartani.
+20. § [(1) Az országgyűlési képviselők száma legfeljebb kettőszáz. A nemzeti és etnikai kisebbségek képviseletére további, legfeljebb tizenhárom országgyűlési képviselő választható.]
 
-(2) Az országgyűlési képviselők tevékenységüket a köz érdekében végzik.
+(1) [(2)] Az országgyűlési képviselők általános választását – az Országgyűlés feloszlása vagy feloszlatása miatti választás kivételével – az előző Országgyűlés megválasztását követő negyedik év április vagy május hónapjában kell megtartani.
 
-(3) Az országgyűlési képviselőt — az országgyűlési képviselők jogállásáról szóló törvényben szabályozottak szerint — mentelmi jog illeti meg.
+(2) [(3)] Az országgyűlési képviselők tevékenységüket a köz érdekében végzik.
 
-(4) Az országgyűlési képviselőt a függetlenségét biztosító javadalmazás illeti meg. Az országgyűlési képviselők javadalmazásáról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
+(3) [(4)] Az országgyűlési képviselőt — az országgyűlési képviselők jogállásáról szóló törvényben szabályozottak szerint — mentelmi jog illeti meg.
 
-(5) A képviselő nem lehet köztársasági elnök, az Alkotmánybíróság tagja, az állampolgári jogok országgyűlési biztosa, az Állami Számvevőszék elnöke, alelnöke és számvevője, bíró, ügyész, közigazgatási szerv alkalmazottja – a Kormány tagja és az államtitkár kivételével –, továbbá a Magyar Honvédség és a rendvédelmi szervek hivatásos állományú tagja. Törvény az összeférhetetlenség egyéb eseteit is megállapíthatja.
+(4) [(5)] Az országgyűlési képviselőt a függetlenségét biztosító javadalmazás illeti meg. Az országgyűlési képviselők javadalmazásáról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
-(6) Az országgyűlési képviselők jogállásáról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
+(5) [(6)] A képviselő nem lehet köztársasági elnök, az Alkotmánybíróság tagja, az állampolgári jogok országgyűlési biztosa, az Állami Számvevőszék elnöke, alelnöke és számvevője, bíró, ügyész, közigazgatási szerv alkalmazottja – a Kormány tagja és az államtitkár kivételével –, továbbá a Magyar Honvédség és a rendvédelmi szervek hivatásos állományú tagja. Törvény az összeférhetetlenség egyéb eseteit is megállapíthatja.
+
+(6) [(7)] Az országgyűlési képviselők jogállásáról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
 20/A. § (1) Az országgyűlési képviselő megbízatása megszűnik:
 
@@ -425,7 +427,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 - a) a miniszterelnökből és
 - b) a miniszterekből áll.
 
-(2) A miniszterelnököt az általa kijelölt miniszter helyettesíti.
+(2) A miniszterelnök a miniszterek közül miniszterelnök-helyettest jelöl ki.
 
 (3) A miniszterelnököt a köztársasági elnök javaslatára az Országgyűlés tagjai többségének szavazatával választja. A miniszterelnök megválasztásáról, továbbá a Kormány programjának elfogadásáról az Országgyűlés egyszerre határoz.
 
@@ -511,13 +513,13 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 39/C. § (1) Ha a miniszterelnök megbízatása az újonnan megválasztott Országgyűlés megalakulásával vagy a miniszterelnök, illetőleg a Kormány lemondásával szűnt meg, a miniszterelnök az új miniszterelnök megválasztásáig ügyvezető miniszterelnökként gyakorolja a hatáskörét, de új miniszter kinevezésére, illetőleg miniszter felmentésére javaslatot nem tehet, és rendeletet csak törvény kifejezett felhatalmazása alapján halaszthatatlan esetben alkothat.
 
-(2) Ha a miniszterelnök megbízatása halála, választójogának elvesztése, illetőleg összeférhetetlenségének megállapítása miatt szűnik meg, az új miniszterelnök megválasztásáig az a miniszter gyakorolja – az (1) bekezdésben írt korlátozásokkal – a miniszterelnök hatáskörét, akit a miniszterelnök a helyettesítésére kijelölt; ha pedig több miniszter lett kijelölve, az első helyen kijelölt miniszter.
+(2) Ha a miniszterelnök megbízatása halála, választójogának elvesztése, illetőleg összeférhetetlenségének megállapítása miatt szűnik meg, az új miniszterelnök megválasztásáig a miniszterelnök hatáskörét – az (1) bekezdésben írt korlátozásokkal – a miniszterelnök-helyettes gyakorolja; több miniszterelnök-helyettes esetén pedig az első helyen kijelölt miniszterelnök-helyettes.
 
 40. § (1) A Kormány meghatározott feladatkörök ellátására kormánybizottságokat alakíthat.
 
-(2)
+(2) A Kormány jogosult az államigazgatás bármely ágát közvetlenül felügyelete alá vonni, és erre külön szerveket létesíteni.
 
-(3) A Kormány jogosult az államigazgatás bármely ágát közvetlenül felügyelete alá vonni, és erre külön szerveket létesíteni.
+(3) A minisztériumok és a Kormány alá rendelt szervek alkalmazottainak jogállását, díjazását, továbbá felelősségre vonásuk módját külön törvény szabályozza.
 
 ### VIII. Fejezet — A Magyar Honvédség és egyes rendvédelmi szervek
 
