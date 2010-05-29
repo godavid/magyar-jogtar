@@ -3938,7 +3938,7 @@ megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket
 
 394. § (1) A Tanács tevékenységével kapcsolatos koordinációt, döntéseinek előkészítését és végrehajtását, továbbá az ennek végzéséhez szükséges adatgyűjtő, nyilvántartó, valamint adminisztratív tevékenységet a Tanács Titkársága végzi. A Titkárságot a főtitkár vezeti.
 
-(2) A főtitkár és a Titkárság alkalmazottai a Tanáccsal állnak közszolgálati jogviszonyban, mely jogviszonyra a köztisztviselők jogállásáról szóló törvényt kell alkalmazni. A főtitkár gyakorolja a munkáltatói jogokat a Titkárság alkalmazottai vonatkozásában. A főtitkár a szakállamtitkárnak járó illetményre, valamint egyéb juttatásokra jogosult.
+(2) A főtitkár és a Titkárság alkalmazottai a Tanáccsal állnak közszolgálati jogviszonyban, mely jogviszonyra a köztisztviselők jogállásáról szóló törvényt kell alkalmazni. A főtitkár gyakorolja a munkáltatói jogokat a Titkárság alkalmazottai vonatkozásában. A főtitkár a helyettes államtitkárnak járó illetményre, valamint egyéb juttatásokra jogosult.
 
 (3) A Tanács a Titkárság keretében Szerkesztőbizottságot működtet a Közbeszerzési Értesítő szerkesztésével kapcsolatos feladata végrehajtásának érdekében.
 
@@ -3954,7 +3954,7 @@ megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket
 
 (6) A Döntőbizottság elnökének közszolgálati jogviszonyára a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényt (a továbbiakban: Ktv.) kell a 399. § (3) és (4) bekezdése, valamint a 400. § (6) bekezdése szerinti eltéréssel alkalmazni.
 
-(7) A Döntőbizottság elnöke szakállamtitkárt megillető illetményre, valamint egyéb juttatásokra jogosult. Az elnökhelyettes a főosztályvezetői illetményre jogosult.
+(7) A Döntőbizottság elnöke helyettes államtitkárt megillető illetményre, valamint egyéb juttatásokra jogosult. Az elnökhelyettes a főosztályvezetői illetményre jogosult.
 
 (8) A Döntőbizottság a szervezeti és működési szabályzatában meghatározott ügyekre, ügycsoportokra kollégiumot működtet. A kollégium az egységes jogorvoslati gyakorlat biztosítása érdekében elemzi a Döntőbizottság gyakorlatát, és véleményt nyilvánít a vitás jogalkalmazási kérdésekben.
 

@@ -24,7 +24,7 @@ Az Országgyűlés az Alkotmány 32/B. §-ának végrehajtására a következő 
 
 (2) Az Országgyűlés az országgyűlési biztost azok közül a kiemelkedő tudású elméleti vagy legalább tízévi szakmai gyakorlattal rendelkező jogászok közül választja meg, akik az alapvető jogokat érintő eljárások lefolytatásában, felügyeletében vagy tudományos elméletében jelentős tapasztalatokkal rendelkeznek.
 
-(3) Országgyűlési biztos nem lehet az, aki a választásra irányuló javaslat megtételének időpontját megelőző négy évben országgyűlési képviselő, köztársasági elnök, az Alkotmánybíróság tagja, a Kormány tagja, államtitkár, szakállamtitkár, a helyi önkormányzati képviselő-testület tagja, jegyző, ügyész, a Magyar Honvédség, a rendvédelmi szervek hivatásos állományú tagja, valamint pártnak az alkalmazottja volt.
+(3) Országgyűlési biztos nem lehet az, aki a választásra irányuló javaslat megtételének időpontját megelőző négy évben országgyűlési képviselő, köztársasági elnök, az Alkotmánybíróság tagja, a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, a helyi önkormányzati képviselő-testület tagja, jegyző, ügyész, a Magyar Honvédség, a rendvédelmi szervek hivatásos állományú tagja, valamint pártnak az alkalmazottja volt.
 
 4. § (1) A köztársasági elnök az országgyűlési biztos személyére a korábbi országgyűlési biztos megbízatási ideje lejártát megelőző három hónapon belül, de legkésőbb a megbízatási idő lejártát megelőző negyvenötödik napon tesz javaslatot.
 
@@ -278,7 +278,7 @@ Az Országgyűlés az Alkotmány 32/B. §-ának végrehajtására a következő 
 
 (4) A hivatal vezetőjét — a külön biztosok egyetértésével — és saját munkatársait az országgyűlési biztos nevezi ki, és menti fel. A külön biztos munkatársait a külön biztos nevezi ki, és menti fel
 
-(5) A Hivatal vezetője szakállamtitkári illetményre és juttatásokra jogosult, felette a munkáltatói jogokat az országgyűlési biztos gyakorolja.
+(5) A Hivatal vezetője helyettes államtitkári illetményre és juttatásokra jogosult, felette a munkáltatói jogokat az országgyűlési biztos gyakorolja.
 
 (6) Az országgyűlési biztos az intézkedést nem tartalmazó irat kiadmányozási jogát írásban a Hivatal vezetői megbízással rendelkező köztisztviselőjére átruházhatja.
 

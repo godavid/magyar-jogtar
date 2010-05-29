@@ -492,7 +492,7 @@ kell közzétenni.
 
 (9) A Testület tagja társadalombiztosítási jogállására a munkaviszonyban állókra vonatkozó szabályok az irányadók azzal, hogy illetménye társadalombiztosítási és nyugdíjjárulék alapjául szolgáló jövedelem. Az egészségügyi hozzájárulás fizetésére az 1996. évi LXXXVIII. törvényben foglaltakat kell alkalmazni. A járulék-, illetve hozzájárulás fizetést, továbbá az elszámolást, valamint a nyilvántartást és adatszolgáltatást a Testület Irodájának az egészségbiztosítási szervvel, valamint a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervvel kötött megállapodásában kell rendezni
 
-(10) Az iroda alkalmazottai köztisztviselők, reájuk a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényt (a továbbiakban: Ktv.) kell alkalmazni az e törvényben foglalt eltérésekkel. Az iroda vezetőjét a Testület elnöke nevezi ki és ő gyakorolja felette a munkáltatói jogokat. Az iroda vezetőjének a jogállása a szakállamtitkáréval azonos.
+(10) Az iroda alkalmazottai köztisztviselők, reájuk a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényt (a továbbiakban: Ktv.) kell alkalmazni az e törvényben foglalt eltérésekkel. Az iroda vezetőjét a Testület elnöke nevezi ki és ő gyakorolja felette a munkáltatói jogokat. Az iroda vezetőjének a jogállása a helyettes államtitkáréval azonos.
 
 (11) Az iroda megbízás alapján külső szakértőket is alkalmazhat.
 
@@ -1000,7 +1000,7 @@ Ha az elnökség megbízatásának ideje alatt a kormánypárti és az ellenzék
 
 68. § A részvénytársaság elnöke beszámol a kuratóriumnak (elnökségnek) az általa irányított részvénytársaság tevékenységéről.
 
-69. § (1) Nem választható a részvénytársaság elnökévé, aki a választást megelőző két évben köztársasági elnök, miniszterelnök, a Kormány tagja, államtitkár, szakállamtitkár, országgyűlési képviselő, főpolgármester, politikai párt országos vagy területi szervezetének tisztségviselője volt.
+69. § (1) Nem választható a részvénytársaság elnökévé, aki a választást megelőző két évben köztársasági elnök, miniszterelnök, a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, országgyűlési képviselő, főpolgármester, politikai párt országos vagy területi szervezetének tisztségviselője volt.
 
 (2) A részvénytársaság elnökét a pályázat alapján a kuratórium titkos szavazással választja négy évre. A pályázatnak tartalmaznia kell a pályázó részletes elképzeléseit a részvénytársaság tájékoztatási és kulturális műsorpolitikai célkitűzéseiről, üzletpolitikájáról, valamint az elnökség által meghatározott egyéb kérdésekről.
 
@@ -1223,7 +1223,7 @@ televíziókészülék után.
 
 (2) Nem lehet műsorszolgáltatásra jogosult személy:
 
-- a) a köztársasági elnök, a miniszterelnök, az országgyűlési képviselő, a Kormány tagja, az államtitkár, az országgyűlési biztos, az alkotmánybíró,
+- a) a köztársasági elnök, a miniszterelnök, az országgyűlési képviselő, a Kormány tagja, az államtitkár, közigazgatási államtitkár, helyettes államtitkár, az országgyűlési biztos, az alkotmánybíró,
 - b) a polgármester, a főpolgármester, a megyei közgyűlés elnöke, ezek helyettese, a jegyző, a főjegyző,
 - c) a bíró, az ügyész,
 - d) a párt alkalmazottja, országos vagy területi tisztségviselője,

@@ -218,7 +218,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 - a) köztársasági elnök, az Alkotmánybíróság tagja, országgyűlési biztos,
 - b) az Állami Számvevőszék elnöke, elnökhelyettese és számvevője,
-- c) a Kormány tagja, államtitkár, szakállamtitkár, központi államigazgatási szerv köztisztviselője,
+- c) a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, központi államigazgatási szerv köztisztviselője,
 - d) a Magyar Nemzeti Vagyonkezelő Zrt. igazgatóságának és felügyelő bizottságának elnöke és tagja, vezető alkalmazottja és munkavállalója,
 - e) bíró, ügyész, közjegyző, bírósági végrehajtó,
 - f) a Magyar Honvédség, a rendvédelmi szervek hivatásos állományú tagja,

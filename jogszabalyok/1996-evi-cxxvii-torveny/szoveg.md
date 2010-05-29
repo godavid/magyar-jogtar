@@ -52,7 +52,7 @@ Az Országgyűlés a véleménynyilvánítás és a tájékozódás szabadsága,
 
 (3) A részvénytársaság elnökévé az a büntetlen előéletű, felsőfokú végzettségű magyar állampolgár nevezhető ki, aki legalább öt év szakmai gyakorlattal rendelkezik. Szakmai gyakorlatnak tekintendő a tájékoztatási, továbbá az ezzel összefüggő műszaki, jogi, igazgatási, gazdasági, kulturális, tudományos és közvélemény-kutatási tevékenység.
 
-(4) Nem nevezhető ki a részvénytársaság elnökévé, aki a kinevezést megelőző két évben köztársasági elnök, miniszterelnök, a Kormány tagja, államtitkár, szakállamtitkár, országgyűlési képviselő, főpolgármester, polgármester, politikai párt országos vagy területi szervezetének tisztségviselője volt.
+(4) Nem nevezhető ki a részvénytársaság elnökévé, aki a kinevezést megelőző két évben köztársasági elnök, miniszterelnök, a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár országgyűlési képviselő, főpolgármester, polgármester, politikai párt országos vagy területi szervezetének tisztségviselője volt.
 
 (5) Az elnöki tisztséget pályázat útján kell betölteni.
 

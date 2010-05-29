@@ -118,7 +118,7 @@ A Magyar Köztársaság Alkotmánya mindenki számára biztosítja a jogot a mun
 
 kell jelölni.
 
-(3) A MAT-nak nem lehet tagja, illetve nem vehet részt a szervezetét érintő döntések meghozatalában az a személy, aki olyan szervezetnek a tulajdonosa, vezető tisztségviselője, vezető állású munkavállalója, amelyet a MAT döntései közvetlenül érintenek. E rendelkezés alkalmazása szempontjából a Kormány képviseletét ellátó tagok tekintetében figyelmen kívül kell hagyni a Miniszterelnöki Hivatallal, a minisztériumokkal, az országos hatáskörű szervekkel, továbbá az állami foglalkoztatási szervvel fennálló közszolgálati és közalkalmazotti jogviszonyt.
+(3) A MAT-nak nem lehet tagja, illetve nem vehet részt a szervezetét érintő döntések meghozatalában az a személy, aki olyan szervezetnek a tulajdonosa, vezető tisztségviselője, vezető állású munkavállalója, amelyet a MAT döntései közvetlenül érintenek. E rendelkezés alkalmazása szempontjából a Kormány képviseletét ellátó tagok tekintetében figyelmen kívül kell hagyni a Miniszterelnökséggel, a minisztériumokkal, az országos hatáskörű szervekkel, továbbá az állami foglalkoztatási szervvel fennálló közszolgálati és közalkalmazotti jogviszonyt.
 
 (4) A MAT egyes oldalain résztvevő tagok száma hat főnél több nem lehet.
 
