@@ -146,7 +146,7 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 17. § (1) Az Eximbank és a Mehib Rt.
 
 - a) igazgatóságának elnökét és a vezérigazgatót – az állami vagyon felügyeletéért felelős miniszter és az államháztartásért felelős miniszter véleményének figyelembevételével – a külgazdaságért felelős miniszter javaslatára,
-- b) felügyelő bizottságának elnökét – a külgazdaságért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter és az államháztartásért felelős miniszter véleményének figyelembevételével – az Állami Számvevőszék javaslatára
+- b)
 
 a miniszterelnök határozatlan időre nevezi ki és menti fel.
 

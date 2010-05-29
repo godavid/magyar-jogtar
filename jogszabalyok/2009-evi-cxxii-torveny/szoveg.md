@@ -53,7 +53,7 @@ Az Országgyűlés a köztulajdonban álló gazdasági társaságok takarékosab
 
 (2) A köztulajdonban álló gazdasági társaság felügyelőbizottsága – ha törvény eltérően nem rendelkezik – három természetes személy tagból áll, kétszáz millió forintot meghaladó jegyzett tőkéjű gazdasági társaság esetében legalább három, legfeljebb hat természetes személy tagból áll.
 
-(3) A köztulajdonban álló, kétszáz millió forintot meghaladó jegyzett tőkéjű gazdasági társaság felügyelőbizottsága elnökének személyére – ha törvény eltérően nem rendelkezik – az Állami Számvevőszék tesz javaslatot. Az így megválasztott személyt a tulajdonosok által jelölt tagként kell figyelembe venni, és tevékenységére, valamint visszahívására a munkavállalók által jelölt felügyelőbizottsági tagokra vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+(3)
 
 5. § (1) A köztulajdonban álló gazdasági társasággal munkaviszonyban álló munkavállaló havi személyi alapbére, valamint a Gt. 22. § (2) bekezdés a) pontja szerinti vezető tisztségviselőjének e jogviszonyára tekintettel megállapított havi díjazása legfeljebb a Magyar Nemzeti Bank elnöke tárgyévi összes keresete egytizenkettedének az egynegyede lehet.
 
@@ -95,4 +95,4 @@ Az Országgyűlés a köztulajdonban álló gazdasági társaságok takarékosab
 
 (2) E törvény 5. § (1) bekezdését, valamint 7. § (1)–(3) bekezdését az e törvény hatálybalépését követően kötött vagy a javadalmazásra vonatkozó részében módosított munkaszerződésekre kell alkalmazni.
 
-(3) A 4. § (3) bekezdésének rendelkezéseit a nem a Magyar Állam többségi befolyása alatt álló gazdasági társaságokra 2011. január 1-jétől kell alkalmazni.
+(3)

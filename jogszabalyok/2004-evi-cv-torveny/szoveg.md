@@ -442,7 +442,7 @@ adatok.
 
 36. § (1) Mentesek a szolgáltatások alól:
 
-- a) az Országgyűlés, az Alkotmánybíróság, a Köztársasági Elnöki Hivatal, az Állami Számvevőszék, az Országgyűlési Biztos Hivatala, a Miniszterelnöki Hivatal, a minisztériumok, a Legfelsőbb Bíróság, az Országos Igazságszolgáltatási Tanács Hivatala, a Legfőbb Ügyészség és a jegybank,
+- a) az Országgyűlés, az Alkotmánybíróság, a Köztársasági Elnöki Hivatal, az Állami Számvevőszék, az Országgyűlési Biztos Hivatala, a Miniszterelnökség, a minisztériumok, a Legfelsőbb Bíróság, az Országos Igazságszolgáltatási Tanács Hivatala, a Legfőbb Ügyészség és a jegybank,
 - b) a Honvédség és a rendvédelmi szervek,
 - c) a közigazgatási és igazságügyi szervek alaprendeltetésük, valamint honvédelmi feladataik ellátásához szükséges mértékben,
 - d) az egyházak, felekezetek és vallási közösségek azon dolgok és jogok tekintetében, amelyek közvetlenül az egyházi, hitéleti feladatokat szolgálják,
@@ -1091,7 +1091,7 @@ helyettesíti.
 - t) megállapítja a Honvédség tevékenységével, diszlokációjával kapcsolatban a természetes és épített környezet védelmének részletes szabályait, gondoskodik azok végrehajtásáról,
 - u) ellátja a jogszabály, országgyűlési és kormányhatározat által megállapított egyéb feladatokat.
 
-(2) A honvédelemért felelős miniszter az (1) bekezdés szerinti hatáskörében hozott döntések előkészítéséről és végrehajtásáról – a szakirányításra jogosult személy és a 101. § (3) bekezdésére figyelemmel a Honvéd Vezérkar főnökének közreműködésével – a honvédelemért felelős miniszter által vezetett minisztérium útján gondoskodik.
+(2) A honvédelemért felelős miniszter az (1) bekezdés szerinti hatáskörében hozott döntések előkészítéséről és végrehajtásáról – a közigazgatási államtitkárnak és a 101. § (3) bekezdésére figyelemmel a Honvéd Vezérkar főnökének közreműködésével – a honvédelemért felelős miniszter által vezetett minisztérium útján gondoskodik.
 
 98. § (1) A honvédelemért felelős miniszter felelős a Honvédség törvényes működéséért, gondoskodik a jogszabálysértések megszüntetéséről. A miniszter e körben
 
@@ -1118,13 +1118,13 @@ helyettesíti.
 
 99. § A honvédelemért felelős miniszter által vezetett minisztérium az ország katonai védelemre való felkészítése tervezésének, szervezésének központi közigazgatási, valamint – az e törvényben, illetőleg a Honvédség irányításának és felső szintű vezetésének rendjére vonatkozó kormányhatározat, továbbá a honvédelemért felelős miniszter által megállapított hatásköri szabályok szerint – a Honvédség irányításának és vezetésének szerve.
 
-100. § (1) A honvédelemért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője a miniszter által kijelölt személy. A Honvéd Vezérkar kivételével vezeti a honvédelemért felelős miniszter által vezetett minisztérium szerveinek tevékenységét.
+100. § (1) A honvédelemért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője a közigazgatási államtitkár. A Honvéd Vezérkar kivételével vezeti a honvédelemért felelős miniszter által vezetett minisztérium szerveinek tevékenységét.
 
-(2) A miniszter által kijelölt személy a 101. § (3) bekezdésében meghatározottak kivételével irányítja a miniszter hatáskörébe tartozó döntések előkészítését, valamint végrehajtásuk tervezését, szervezését. Az e törvényben, a Honvédség irányítása és felső szintű vezetése rendjének szabályaira vonatkozó kormányhatározatban, valamint a honvédelemért felelős miniszter által megállapított hatáskörének gyakorlásával felelős a honvédelem központi közigazgatási és a Honvédség felső szintű szakirányítási feladatainak ellátásáért.
+(2) A közigazgatási államtitkár a 101. § (3) bekezdésében meghatározottak kivételével irányítja a miniszter hatáskörébe tartozó döntések előkészítését, valamint végrehajtásuk tervezését, szervezését. Az e törvényben, a Honvédség irányítása és felső szintű vezetése rendjének szabályaira vonatkozó kormányhatározatban, valamint a honvédelemért felelős miniszter által megállapított hatáskörének gyakorlásával felelős a honvédelem központi közigazgatási és a Honvédség felső szintű szakirányítási feladatainak ellátásáért.
 
-(3) A szakirányításra jogosult személy a szakirányítási hatáskörében intézkedést és szakutasítást ad ki.
+(3) A közigazgatási államtitkár a szakirányítási hatáskörében intézkedést és szakutasítást ad ki.
 
-(4) A szakirányításra jogosult személy a feladatának ellátása során együttműködik a Honvéd Vezérkar főnökével.
+(4) A közigazgatási államtitkár a feladatának ellátása során együttműködik a Honvéd Vezérkar főnökével.
 
 101. § (1) A Honvéd Vezérkar békében – a honvédelemért felelős miniszter által vezetett minisztérium szervezetének részeként – az ország katonai védelemre való felkészítésének felső szintű tervező-szervező, illetőleg a Honvédség katonai tevékenységének felső szintű vezető szerve.
 
@@ -1147,7 +1147,7 @@ helyettesíti.
 
 (4) A Honvéd Vezérkar főnöke a vezetési hatáskörében parancsot, intézkedést és szakutasítást ad ki.
 
-(5) A Honvéd Vezérkar főnöke a hatáskörének gyakorlása során együttműködik a szakirányításra jogosult személlyel.
+(5) A Honvéd Vezérkar főnöke a hatáskörének gyakorlása során együttműködik a közigazgatási államtitkárral.
 
 ### A katonai szervezetek középszintű irányítása
 
@@ -1230,7 +1230,7 @@ helyettesíti.
 
 ### A belső rendelkezések
 
-110. § (1) Szakutasításban kell meghatározni a Honvédség szakmai feladatai ellátásának alapvető szabályait, valamint a haditechnikai eszközök és anyagok üzemeltetésével, karbantartásával, javításával kapcsolatos szakmai-technikai szabályokat. Egy-egy szakterület alapvető szabályait meghatározó szakutasítás kiadására a szakirányításra jogosult személy, illetve a Honvéd Vezérkar főnöke, a részletes és a technikai szabályokat meghatározó szakutasítás kiadására a honvédelemért felelős miniszter által vezetett minisztérium illetékes szakmai elöljárója, szakmai felettese jogosult.
+110. § (1) Szakutasításban kell meghatározni a Honvédség szakmai feladatai ellátásának alapvető szabályait, valamint a haditechnikai eszközök és anyagok üzemeltetésével, karbantartásával, javításával kapcsolatos szakmai-technikai szabályokat. Egy-egy szakterület alapvető szabályait meghatározó szakutasítás kiadására a honvédelemért felelős miniszter által vezetett minisztérium közigazgatási államtitkára, illetve a Honvéd Vezérkar főnöke, a részletes és a technikai szabályokat meghatározó szakutasítás kiadására a honvédelemért felelős miniszter által vezetett minisztérium illetékes szakmai elöljárója, szakmai felettese jogosult.
 
 (2) Intézkedésben állapíthatók meg egyes rendszeresen ismétlődő tevékenységek végrehajtásának szakmai, technikai vagy eljárási szabályai, ideértve a katonai szervezetek működési rendjének és a személyi állomány mindennapi tevékenységének általános rendezést igénylő kérdéseit is annyiban, amennyiben azokat jogszabály nem rendezi. Intézkedés kiadására hatáskörének megfelelően a szolgálati elöljáró, a hivatali felettes, valamint a szakmai elöljáró, illetőleg a szakmai felettes jogosult. Az intézkedés kiadására jogosult akadályoztatása esetén – ha a jogosult eltérően nem rendelkezik – helyettese adhat ki intézkedést.
 

@@ -158,7 +158,7 @@ gyakorolja.
 
 (2) A miniszter (1) bekezdés szerinti illetékes hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés c), valamint h)–i) pontjai szerinti irányítási jogköröket gyakorolja.
 
-(3) A miniszter (1) bekezdés b)–d) pontja szerinti illetékes hatósági feladatai ellátásában – ideértve a (2) bekezdés szerinti jogköröket is – a kiadmányozási jogot írásban államtitkárra, illetve szakállamtitkárra ruházhatja át.
+(3) A miniszter (1) bekezdés b)–d) pontja szerinti illetékes hatósági feladatai ellátásában – ideértve a (2) bekezdés szerinti jogköröket is – a kiadmányozási jogot írásban államtitkárra, közigazgatási államtitkárra, illetve helyettes államtitkárra ruházhatja át.
 
 (4) Az (1) bekezdés d) pontja szerinti közleményeket a miniszter által vezetett minisztérium hivatalos lapjában és honlapján, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv internetes honlapján kell közzétenni.
 
@@ -184,7 +184,7 @@ gyakorolja.
 
 (2) A miniszter (1) bekezdés szerinti irányító hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében a Ksztv. 2. § (1) bekezdés c), valamint h)–i) pontjai szerinti irányítási jogköröket gyakorolja.
 
-(3) A miniszter (1) bekezdés szerinti irányító hatósági feladatai ellátásában – ideértve a (2) bekezdés szerinti jogköröket is – a kiadmányozási jogot írásban államtitkárra, illetve szakállamtitkárra ruházhatja át.
+(3) A miniszter (1) bekezdés szerinti irányító hatósági feladatai ellátásában – ideértve a (2) bekezdés szerinti jogköröket is – a kiadmányozási jogot írásban államtitkárra, közigazgatási államtitkárra, illetve helyettes államtitkárra ruházhatja át.
 
 (4) Az (1) bekezdés c) pontja szerinti közleményeket a miniszter által vezetett minisztérium hivatalos lapjában, internetes honlapján, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv internetes honlapján kell közzétenni.
 

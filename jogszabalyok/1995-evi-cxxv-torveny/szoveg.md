@@ -9,14 +9,14 @@ Az Országgyűlés a Magyar Köztársaság szuverenitásának biztosítása és 
 1. § A Magyar Köztársaság nemzetbiztonsági szolgálatai
 
 - a) az Információs Hivatal,
-- b) a Nemzetbiztonsági Hivatal,
+- b) a Alkotmányvédelmi Hivatal,
 - c) a Katonai Felderítő Hivatal,
 - d) a Katonai Biztonsági Hivatal,
 - e) a Nemzetbiztonsági Szakszolgálat
 
 (a továbbiakban együtt: nemzetbiztonsági szolgálatok).
 
-2. § (1) Az Információs Hivatal, a Nemzetbiztonsági Hivatal és a Nemzetbiztonsági Szakszolgálat (a továbbiakban együtt: polgári nemzetbiztonsági szolgálatok), a Katonai Felderítő Hivatal és a Katonai Biztonsági Hivatal (a továbbiakban együtt: katonai nemzetbiztonsági szolgálatok) a Kormány irányítása alatt álló, az ország egész területére kiterjedő illetékességgel rendelkező, önálló gazdálkodást folytató költségvetési szervek.
+2. § (1) Az Információs Hivatal, a Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat (a továbbiakban együtt: polgári nemzetbiztonsági szolgálatok), a Katonai Felderítő Hivatal és a Katonai Biztonsági Hivatal (a továbbiakban együtt: katonai nemzetbiztonsági szolgálatok) a Kormány irányítása alatt álló, az ország egész területére kiterjedő illetékességgel rendelkező, önálló gazdálkodást folytató költségvetési szervek.
 
 (2) Az e törvényben meghatározott feladatok ellátására a nemzetbiztonsági szolgálatok – a kormányzati irányítási döntéseknek megfelelően – helyi, területi szerveket hozhatnak létre.
 
@@ -35,7 +35,7 @@ Az Országgyűlés a Magyar Köztársaság szuverenitásának biztosítása és 
 - g) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve ellenőrzésének feladatait;
 - h) végzi a minősített adatok védelmére használt rejtjelző eljárások, algoritmusok, valamint az országhatáron kívül rejtjelzésre használt eszközök kriptográfiai bevizsgálását és minősítését, továbbá rejtjelkulcsot állít elő.
 
-5. § A Nemzetbiztonsági Hivatal
+5. § A Alkotmányvédelmi Hivatal
 
 - a) felderíti és elhárítja a Magyar Köztársaság szuverenitását, politikai, gazdasági, védelmi vagy más fontos érdekét sértő vagy veszélyeztető külföldi titkosszolgálati törekvéseket és tevékenységet;
 - b) felderíti és elhárítja a Magyar Köztársaság alkotmányos rendjének törvénytelen eszközökkel történő megváltoztatására vagy megzavarására irányuló leplezett törekvéseket;
@@ -45,7 +45,7 @@ Az Országgyűlés a Magyar Köztársaság szuverenitásának biztosítása és 
 - f) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve ellenőrzésének feladatait;
 - g) végzi a letelepedett jogállást igazoló okmányt kérelmező, továbbá a menekültkénti elismerését kérő, illetőleg a magyar állampolgárságért folyamodó, valamint – az állami szuverenitás és az alkotmányos rend védelméhez kötődően – a vízumkérelmet benyújtott személyek ellenőrzését és az ezzel kapcsolatos feladatokat;
 - h) a nyomozás elrendeléséig végzi az állam elleni bűncselekmények (Btk. X. fejezet), az emberiség elleni bűncselekmények (Btk. XI. fejezet), illetve működési területén a külföldre szökés (Btk. 343. §), a zendülés (Btk. 352. §) és a harckészültség veszélyeztetése (Btk. 363. §) bűncselekmények felderítését;
-- i) felderíti a terrorcselekményt (Btk. 261. §), ha a bejelentés a Nemzetbiztonsági Hivatalhoz érkezett, illetve arról a Nemzetbiztonsági Hivatal szerzett tudomást;)
+- i) felderíti a terrorcselekményt (Btk. 261. §), ha a bejelentés a Alkotmányvédelmi Hivatalhoz érkezett, illetve arról a Alkotmányvédelmi Hivatal szerzett tudomást;
 - j) információkat szerez a nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak (Btk. 174/B. §), a visszaélés szigorúan titkos és titkos minősítésű adattal (Btk. 221. §), a közveszélyokozás (Btk. 259. §), a nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §), a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (Btk. 262. §), a közösség elleni izgatás (Btk. 269. §), a rémhírterjesztés (Btk. 270. §) és a közveszéllyel fenyegetés (Btk. 270/A. §) bűncselekményekre vonatkozóan,
 - k) közreműködik a nemzetközileg ellenőrzött termékek és technológiák jogellenes forgalmának felderítésében, megelőzésében, megakadályozásában és legális forgalmának ellenőrzésében;
 - l) közreműködik a haditechnikai eszközök és szolgáltatások jogellenes forgalmának felderítésében, megelőzésében, megakadályozásában és legális forgalmának ellenőrzésében.
@@ -109,7 +109,7 @@ Az Országgyűlés a Magyar Köztársaság szuverenitásának biztosítása és 
 
 10. § (1) A Kormány a polgári nemzetbiztonsági szolgálatokat a kijelölt miniszter, a katonai nemzetbiztonsági szolgálatokat honvédelemért felelős miniszter (a továbbiakban: miniszter) útján irányítja.
 
-(2) Az (1) bekezdés szerinti polgári nemzetbiztonsági szolgálatokat irányító kijelölt miniszter nem lehet a rendészetért felelős miniszter, a honvédelemért felelős miniszter és az igazságügyért felelős miniszter.
+(2)
 
 11. § (1) A miniszter
 
@@ -219,7 +219,7 @@ Az Országgyűlés a Magyar Köztársaság szuverenitásának biztosítása és 
 
 (2) Az Országgyűlés elnöke – a fontos és bizalmas munkakörre jelölt személyek ellenőrzésére vonatkozó szabályok szerint – köteles nemzetbiztonsági ellenőrzést kezdeményezni a Bizottságba a képviselőcsoportok vezetői által jelölt képviselők tekintetében. A képviselőcsoportok vezetői legfeljebb kétszer annyi jelöltet nevezhetnek meg, mint amennyi tag ajánlására jogosult a képviselőcsoport.
 
-(3) A bizottsági tagságra jelölt képviselő tekintetében a nemzetbiztonsági ellenőrzést a Nemzetbiztonsági Hivatal végzi el. Amennyiben kockázati tényező merül fel, a Nemzetbiztonsági Hivatal főigazgatója erről tájékoztatja az érintett képviselőt.
+(3) A bizottsági tagságra jelölt képviselő tekintetében a nemzetbiztonsági ellenőrzést a Alkotmányvédelmi Hivatal végzi el. Amennyiben kockázati tényező merül fel, a Alkotmányvédelmi Hivatal főigazgatója erről tájékoztatja az érintett képviselőt.
 
 (4) A (3) bekezdésben meghatározott nemzetbiztonsági ellenőrzés elvégzését követően a képviselőcsoport vezetője ajánlást készít, amely annyi jelöltet tartalmaz, amennyi tag ajánlására jogosult a képviselőcsoport.
 
@@ -569,7 +569,7 @@ kapcsolatos adatok.
 - c) levelet és egyéb postai küldeményt felbonthatnak, ellenőrizhetik és azok tartalmát technikai eszközzel rögzíthetik;
 - d) közcélú telefonvezetéken vagy azt helyettesítő távközlési szolgáltatás útján továbbított közleményt megismerhetik, az észlelteket technikai eszközzel rögzíthetik.
 
-57. § (1) Az 56. §-ban meghatározott titkos információgyűjtés engedélyezésére irányuló előterjesztést az Információs Hivatal, a Nemzetbiztonsági Hivatal, a Katonai Felderítő Hivatal, a Katonai Biztonsági Hivatal és – a 8. § (1) bekezdésének f), valamint a 9. § d) pontjában meghatározott feladat ellátása tekintetében – a Nemzetbiztonsági Szakszolgálat főigazgatója nyújthat be.
+57. § (1) Az 56. §-ban meghatározott titkos információgyűjtés engedélyezésére irányuló előterjesztést az Információs Hivatal, a Alkotmányvédelmi Hivatal, a Katonai Felderítő Hivatal, a Katonai Biztonsági Hivatal és – a 8. § (1) bekezdésének f), valamint a 9. § d) pontjában meghatározott feladat ellátása tekintetében – a Nemzetbiztonsági Szakszolgálat főigazgatója nyújthat be.
 
 (2) Az előterjesztésnek tartalmaznia kell
 
@@ -698,15 +698,15 @@ tekintetében.
 (3) A miniszterelnök kezdeményezi az ellenőrzést
 
 - a) valamennyi miniszteri tisztségre jelölt személy,
-- b) az államtitkárok és az azonos jogállású állami vezetők,
-- c) a Miniszterelnöki Hivatal vezető beosztású munkatársai,
+- b) az államtitkárok, közigazgatási államtitkárok és az azonos jogállású állami vezetők,
+- c) a Miniszterelnökség vezető beosztású munkatársai,
 - d) a Kormány irányítása alatt álló az ország egész területére kiterjedő illetékességgel rendelkező szervek vezetői, helyettesei, és a vezetőkkel azonos jogállású más közszolgálati vezetők
 
 tekintetében.
 
 (4) Az illetékes miniszter kezdeményezi az ellenőrzést
 
-- a) a szakállamtitkárok és az azonos jogállású állami vezetők,
+- a) a helyettes államtitkárok és az azonos jogállású állami vezetők,
 - b) a nagykövetek és az önálló külképviseleteket irányító főkonzulok,
 - c) a központi hivatalok vezetői, valamint a velük azonos jogállású más közszolgálati vezetők,
 - d) a minisztériumi főosztályvezetők és az azonos jogállású állami vezetők,
@@ -916,13 +916,13 @@ A védelem alá eső tisztségek:
 Fontos és bizalmas munkakört betöltő személyek:
 
 - 1. a nagykövetek és az önálló külképviseleteket irányító főkonzulok,
-- 2. az államtitkárok és az azonos jogállású állami vezetők,
-- 3. a szakállamtitkárok és az azonos jogállású állami vezetők,
+- 2. az államtitkárok, közigazgatási államtitkárok és az azonos jogállású állami vezetők,
+- 3. a helyettes államtitkárok és az azonos jogállású állami vezetők,
 - 4. az autonóm államigazgatási szervek és a kormányhivatalok vezetői, helyettesei és a vezetőkkel azonos jogállású más közszolgálati vezetők,
 - 5. központi hivatalok vezetői, valamit a velük azonos jogállású más közszolgálati vezetők,
 - 6. az Országgyűlés Hivatala vezető beosztású munkatársai,
 - 7. a Köztársasági Elnök Hivatala vezető beosztású munkatársai,
-- 8. a Miniszterelnöki Hivatal vezető beosztású munkatársai,
+- 8. a Miniszterelnökség vezető beosztású munkatársai,
 - 9. a Magyar Honvédség parancsnoka, a vezérkari főnök,
 - 10.
 - 11. a rendvédelmi szervek országos parancsnokai és helyettesei,

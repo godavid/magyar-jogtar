@@ -72,7 +72,7 @@ Az Országgyűlés az állami és a közfeladatok ellátásának biztosítása �
 
 (2) Az (1) bekezdés szerinti minősítők minősítői jogkörüket írásban
 
-- a) „Szigorúan titkos!” minősítési szintű adat esetén a helyettesükre, valamint a Kormány tagja a szakállamtitkárra,
+- a) „Szigorúan titkos!” minősítési szintű adat esetén a helyettesükre, valamint a Kormány tagja a közigazgatási államtitkárra és a helyettes államtitkárra,
 - b) „Titkos!”, „Bizalmas!” és „Korlátozott terjesztésű!” minősítési szintű adat vonatkozásában az irányításuk alatt álló, közhatalmi jogosítványokkal felruházott szervben vezetői megbízással rendelkezőkre, illetve vezetői beosztásba kinevezettekre átruházhatják.
 
 (3) A honvédelemért felelős miniszter, a minősített adatok védelmének szakmai felügyeletéért felelős miniszter, a polgári nemzetbiztonsági szolgálatokat irányító miniszter, valamint az (1) bekezdés o) pontjában meghatározott vezető a honvédelmi, a nemzetbiztonsági, a minősített adat védelmének szakmai felügyeletével kapcsolatos, továbbá a bűnüldözési feladatok körében minősítési jogkörét belső szabályzatban az alárendeltségébe tartozó, vezetői megbízással rendelkező, illetve vezetői beosztásba kinevezett más személyre és a minősített adat felülvizsgálatába bevont felülvizsgálati szakértőre írásban átruházhatja. A bűnüldözési feladatok körében ez a jogosítvány a legfőbb ügyészt és az ügyészség vezetőjét is megilleti.
@@ -330,7 +330,7 @@ vonatkozó feltételek.
 
 ### A Nemzeti Biztonsági Felügyelet
 
-20. § (1) A Nemzeti Biztonsági Felügyelet feladata a minősített adat védelmének hatósági felügyelete, a minősített adatok kezelésének hatósági engedélyezése és felügyelete, valamint a nemzeti iparbiztonsági hatósági feladatok ellátása. A Nemzeti Biztonsági Felügyelet a polgári nemzetbiztonsági szolgálatokat irányító miniszter irányítása alatt álló, a Miniszterelnöki Hivatal szervezeti keretében önálló feladattal és hatósági jogkörrel rendelkező szervezet. A Nemzeti Biztonsági Felügyelet közigazgatási hatósági ügyekben történő eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+20. § (1) A Nemzeti Biztonsági Felügyelet feladata a minősített adat védelmének hatósági felügyelete, a minősített adatok kezelésének hatósági engedélyezése és felügyelete, valamint a nemzeti iparbiztonsági hatósági feladatok ellátása. A Nemzeti Biztonsági Felügyelet a minősített adatok védelmének szakmai felügyeletéért felelős miniszter irányítása alatt álló, a Miniszterelnöki Hivatal szervezeti keretében önálló feladattal és hatósági jogkörrel rendelkező szervezet. A Nemzeti Biztonsági Felügyelet közigazgatási hatósági ügyekben történő eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
 (2) A Nemzeti Biztonsági Felügyelet
 

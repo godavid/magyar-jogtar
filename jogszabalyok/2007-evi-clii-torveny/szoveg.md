@@ -25,12 +25,13 @@ egyes vagyonnyilatkozat-tételi kötelezettségekről
 
 (2) Az (1) bekezdésben foglaltaktól függetlenül vagyonnyilatkozat tételére kötelezett, aki
 
-- a) fegyveres szerv hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó osztályvezetői, illetve azzal azonos vagy magasabb beosztású vezető beosztást, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó tábornoki vagy ezredesi rendfokozattal rendszeresített beosztást tölt be,
-- b) politikai tanácsadó és főtanácsadó, kormány- vagy miniszteri tanácsadó vagy főtanácsadó,
-- c) vezetői megbízással rendelkező köztisztviselő,
-- d) jogszabály alapján „C” típusú nemzetbiztonsági ellenőrzésre köteles fontos és bizalmas köztisztviselői munkakört tölt be,
-- e) ügyész vagy
-- f) közjegyző.
+- a) közigazgatási államtitkár, helyettes államtitkár,
+- b) fegyveres szerv hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó osztályvezetői, illetve azzal azonos vagy magasabb beosztású vezető beosztást, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó tábornoki vagy ezredesi rendfokozattal rendszeresített beosztást tölt be,
+- c) politikai tanácsadó és főtanácsadó, kormány- vagy miniszteri tanácsadó vagy főtanácsadó,
+- d) vezetői megbízással rendelkező köztisztviselő,
+- e) jogszabály alapján „C” típusú nemzetbiztonsági ellenőrzésre köteles fontos és bizalmas köztisztviselői munkakört tölt be,
+- f) ügyész vagy
+- g) közjegyző.
 
 (3) Az (1) bekezdésben foglaltaktól függetlenül vagyonnyilatkozat tételére kötelezett
 
@@ -58,13 +59,11 @@ fel kell tüntetni.
 5. § (1) A vagyonnyilatkozat-tételi kötelezettségnek a kötelezett
 
 - a) a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás létrejötte, munka- vagy feladatkör betöltése érdekében azt megelőzően,
-- b) a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnését követő harminc napon belül,
+- b) a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnését követő tizenöt napon belül,
 - c) a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör fennállása alatt az első vagyonnyilatkozatot követően, ha törvény eltérően nem rendelkezik,
-  - ca) a 3. § (1) bekezdés b) pontjában és a 3. § (3) bekezdés e) pont ea) alpontjában meghatározott személy esetében évenként,
+  - ca) a 3. § (1) bekezdés b) pontjában a 3. § (2) bekezdés a) pontjában és a 3. § (3) bekezdés e) pont ea) alpontjában meghatározott személy esetében évenként,
   - cb) a 3. § (1) bekezdés c)–e) pontjában és a 3. § (3) bekezdés e) pont eb)–ed) alpontjaiban meghatározott személy esetében kétévenként,
-  - cc) a 3. § (1)–(3) bekezdésében meghatározott, a c) pont ca)–cb) alpontok hatálya alá nem tartozó személy esetében ötévenként
-
-köteles eleget tenni.
+  - cc) a 3. § (1)–(3) bekezdésében meghatározott, a c) pont ca)–cb) alpontok hatálya alá nem tartozó személy esetében ötévenként köteles eleget tenni.
 
 (2) A vagyonnyilatkozat-tételi kötelezettséget az (1) bekezdés c) pontjában foglalt esetben az esedékesség évében június 30-ig kell teljesíteni.
 
@@ -101,7 +100,7 @@ felelős (a továbbiakban: őrzésért felelős).
 - b) a kötelezettel egy háztartásban élő hozzátartozójának nevét, születési helyét és idejét, anyja nevét,
 - c) a kötelezett és a vele egy háztartásban élő hozzátartozója jövedelmi, érdekeltségi és vagyoni viszonyaira vonatkozó adatokat.
 
-(4) Az őrzésért felelős köteles a kötelezettet a vagyonnyilatkozat-tételi kötelezettség fennállásáról és esedékességének időpontjáról az esedékességet – vagyonnyilatkozat-tételi kötelezettséget keletkeztető jogviszony, beosztás létesítése, munka- vagy feladatkör betöltése kivételével legalább 30 nappal – megelőzően tájékoztatni.
+(4) Az őrzésért felelős köteles a kötelezettet a vagyonnyilatkozat-tételi kötelezettség fennállásáról és esedékességének időpontjáról az esedékességet – vagyonnyilatkozat-tételi kötelezettséget keletkeztető jogviszony, beosztás létesítése, munka- vagy feladatkör betöltése kivételével – legalább 30 nappal, az 5. § (1) bekezdés b) pontja alapján tett vagyonnyilatkozat esetén 15 nappal megelőzően tájékoztatni.
 
 (5) A (4) bekezdésben meghatározott tájékoztatás tartalmazza
 
@@ -135,25 +134,34 @@ felelős (a továbbiakban: őrzésért felelős).
 
 (6) A vagyonnyilatkozat átadására, nyilvántartására, a vagyonnyilatkozatban foglalt személyes adatok védelmére vonatkozó további szabályokat az őrzésért felelős szabályzatban állapítja meg.
 
-12. § (1) Ha a vagyonnyilatkozat-tételi kötelezettség megszűnt, vagy a kötelezett új vagyonnyilatkozatot tett, az őrzésért felelős a vagyonnyilatkozat általa őrzött példányát 8 napon belül a kötelezettnek visszaadja.
+12. § (1) Ha a vagyonnyilatkozat-tételi kötelezettség megszűnt, vagy a kötelezett új vagyonnyilatkozatot tett – a (3) bekezdésben foglaltak kivételével – az őrzésért felelős a vagyonnyilatkozat általa őrzött példányát 8 napon belül a kötelezettnek visszaadja.
 
 (2) Az 5. § (3) és (4) bekezdésében szabályozott esetben a kötelezett az őrzésért továbbiakban felelőst tájékoztatja arról, hogy érvényes vagyonnyilatkozatot tett. Az őrzésért továbbiakban felelős az őrzésért korábban felelősnél a vagyonnyilatkozat átadását kezdeményezi, aki a kezdeményezésnek haladéktalanul eleget tesz.
 
-(3) Az (1) bekezdéstől eltérően a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnése esetén az őrzésért felelős a kötelezett által az 5. § (1) bekezdés b) pontja alapján tett vagyonnyilatkozatot a kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnésétől számított három évig őrzi.
+(3) A vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnése esetén az őrzésért felelős a vagyonnyilatkozat – jogviszony, beosztás, munka- vagy feladatkör megszűnése időpontjában – általa őrzött példányát, továbbá a kötelezett által az 5. § (1) bekezdés b) pontja alapján tett vagyonnyilatkozatot a kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnésétől számított három évig őrzi.
 
 13. § A vagyonnyilatkozat-tételi kötelezettség teljesítését az őrzésért felelős személy ellenőrzi. A nyilatkozat tartalmát abban az esetben ismerheti meg, ha a 14. § rendelkezései szerint döntenie kell a vagyongyarapodási vizsgálat kezdeményezéséről.
 
 ### A vagyongyarapodási vizsgálat
 
-14. § (1) Ellenőrzési eljárás kezdeményezése előtt az őrzésért felelős a nyilatkozattételre kötelezettet meghallgatja, ha vagyoni helyzetére vonatkozó valamely bejelentés szerint alaposan feltehető, hogy vagyongyarapodása a nyilatkozattételi kötelezettségét megalapozó jogviszonyából, illetve az őrzésért felelős által ismert egyéb törvényes forrásból származó jövedelme alapján nem igazolható. Nem lehet meghallgatást sem kezdeményezni, ha a bejelentő névtelen, illetve a bejelentés nyilvánvalóan alaptalan, vagy olyan tényre, körülményre utal, amelyet az őrzésért felelős már korábbi meghallgatás során tisztázott. Meghallgatásra – a kötelezett kérelme alapján – érdekképviseleti szerv képviselőjének vagy a kötelezett által megbízott más személynek a jelenlétében, jegyzőkönyvvezetés mellett kerülhet sor.
+14. § (1) Az őrzésért felelős személy ellenőrzési eljárást folytathat le
 
-(2) A meghallgatásra vonatkozó további szabályokat az őrzésért felelős személy vagy szerv szabályzatban, az érdekképviselettel egyeztetve állapítja meg.
+- a) a kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnésétől számított egy éven belül, illetve
+- b) ha a kötelezett vagyoni helyzetére vonatkozó valamely bejelentés szerint alaposan feltehető, hogy vagyongyarapodása a nyilatkozattételi-kötelezettségét megalapozó jogviszonyából, illetve az őrzésért felelős által ismert egyéb törvényes forrásból származó jövedelme alapján nem igazolható.
 
-(3) Az őrzésért felelős az (1) bekezdés szerinti meghallgatást követően – a vagyonnyilatkozat haladéktalan megküldésével – az állami adóhatóságnál a kötelezett és a vele egy háztartásban élő hozzátartozója vagyongyarapodásának az adózás rendjéről szóló törvény szerinti vizsgálatát kezdeményezi, ha a meghallgatási eljárás során a bejelentésben szereplő tények, adatok, körülmények nem tisztázódnak hitelt érdemlően.
+(2) Az (1) bekezdés b) pontja szerinti ellenőrzési eljárás lefolytatása esetén az őrzésért felelős a kötelezettet meghallgatja. Nem lehet meghallgatást sem kezdeményezni, ha a bejelentő névtelen, illetve, ha a bejelentés nyilvánvalóan alaptalan, vagy olyan tényre, körülményre utal, amelyet az őrzésért felelős már korábbi meghallgatás során tisztázott. Meghallgatásra – a kötelezett kérelme alapján – érdekképviseleti szerv képviselőjének vagy a kötelezett által megbízott más személynek a jelenlétében, jegyzőkönyvvezetés mellett kerülhet sor.
 
-(4) Az őrzésért felelős a vagyonnyilatkozat megküldésével az állami adóhatóságnál a kötelezett és a vele egy háztartásban élő hozzátartozója vagyongyarapodásának vizsgálatát kezdeményezheti akkor is, ha a kötelezett vagyongyarapodása bejelentési kötelezettség alá eső tevékenységből származik, de a kötelezett a bejelentést elmulasztotta.
+(3) A meghallgatásra vonatkozó további szabályokat az őrzésért felelős személy vagy szerv szabályzatban, az érdekképviselettel egyeztetve állapítja meg.
 
-(5) Az állami adóhatóság az őrzésért felelős (3) bekezdés szerinti kezdeményezésére soron kívül, az adózás rendjéről szóló törvényben meghatározott vagyongyarapodási vizsgálatot folytat le.
+(4) Az őrzésért felelős – a vagyonnyilatkozat haladéktalan megküldésével – az állami adóhatóságnál a kötelezett és a vele egy háztartásban élő hozzátartozója vagyongyarapodásának az adózás rendjéről szóló törvény szerinti vizsgálatát kezdeményezi, ha
+
+- a) az (1) bekezdés a) pontja szerinti ellenőrzés során a vagyonnyilatkozatok tartalmából alaposan feltehető, hogy a kötelezett vagyongyarapodása a nyilatkozattételi kötelezettséget megalapozó jogviszonyából, illetve az őrzésért felelős által ismert egyéb törvényes forrásból származó jövedelme alapján nem igazolható,
+- b) a kötelezett az 5. § (1) bekezdés b) pontjában foglalt kötelezettségének az előírt határidőben nem tett eleget, vagy
+- c) a meghallgatási eljárás során a (2) bekezdés szerinti meghallgatást követően, a bejelentésben szereplő tények, adatok, körülmények nem tisztázódnak hitelt érdemlően.
+
+(5) Az őrzésért felelős a vagyonnyilatkozat megküldésével az állami adóhatóságnál a kötelezett és a vele egy háztartásban élő hozzátartozója vagyongyarapodásának vizsgálatát kezdeményezheti akkor is, ha a kötelezett vagyongyarapodása bejelentési kötelezettség alá eső tevékenységből származik, de a kötelezett a bejelentést elmulasztotta.
+
+(6) Az állami adóhatóság az őrzésért felelős (4) bekezdés szerinti kezdeményezésére soron kívül, az adózás rendjéről szóló, törvényben meghatározott vagyongyarapodási vizsgálatot folytat le.
 
 15. § (1) Az állami adóhatóság a vagyongyarapodási vizsgálat alapján lefolytatott hatósági eljárásban hozott határozatában – az adózás rendjéről szóló törvényben meghatározottakon túl – megállapítja, hogy milyen összegű jövedelem fedezi a kötelezett vagy a vele egy háztartásban élő hozzátartozó törvényesen megszerzett jövedelmét meghaladó mértékű vagyongyarapodást, illetve életvitelre fordított kiadásokat.
 

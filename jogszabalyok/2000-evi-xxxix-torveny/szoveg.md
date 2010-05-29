@@ -45,7 +45,7 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányáról szóló, többször 
 
 (3) A Hivatal vezetőjét és vezetőhelyettesét a köztársasági elnök nevezi ki, és menti fel.
 
-(4) A Hivatal vezetője államtitkári, vezetőhelyettese pedig szakállamtitkári illetményre, illetőleg juttatásokra jogosult, jogállására egyébként az államtitkárra, illetőleg a szakállamtitkárra vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+(4) A Hivatal vezetője államtitkári, vezetőhelyettese pedig helyettes államtitkári illetményre, illetőleg juttatásokra jogosult, jogállására egyébként az államtitkárra, illetőleg a helyettes államtitkárra vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
 (5) A Hivatal működési költségeit a központi költségvetés Köztársasági Elnökség fejezete állapítja meg.
 

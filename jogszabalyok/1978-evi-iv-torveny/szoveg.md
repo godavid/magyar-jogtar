@@ -1207,7 +1207,7 @@ büntetés mellett szabható ki.
   - a) az országgyűlési képviselő;
   - b) a köztársasági elnök;
   - c) a miniszterelnök;
-  - d) a Kormány tagja, az államtitkár és a szakállamtitkár;
+  - d) a Kormány tagja, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár;
   - e) az alkotmánybíró, a bíró, az ügyész;
   - f) az országgyűlési biztos;
   - g) a helyi önkormányzati testületek tagja;
