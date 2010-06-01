@@ -4245,7 +4245,12 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
 ### XXIX. Fejezet — Az ügyfelek védelme
 
-199. §
+199. § (1) A pénzügyi intézmény egy naptári évben ugyanannak az ügyfélnek egy alkalommal nyújthat olyan kölcsönt, amelynek:
+
+- a) teljes hiteldíj mutatója meghaladja a hatvanöt százalékot és
+- b) összege nem haladja meg a kétszázötvenezer forintot.
+
+(2) Az (1) bekezdésben meghatározott feltételeknek megfelelő kölcsön lejárata egy alkalommal legfeljebb hat hónappal hosszabbítható meg.
 
 200. § Semmis a fogyasztóval kötött, a vételi jog biztosítéki célú kikötésére vonatkozó szerződés, ha a vételi jog a kötelezett által lakott lakóingatlanra vonatkozik.
 
@@ -4426,8 +4431,6 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 ### [Tájékoztatás egyes betétszerződések tekintetében]
 
 214/D. § A kereskedelmi kommunikációban – az e törvény végrehajtására kiadott jogszabályban meghatározott esetekben – fel kell tüntetni a betét egységesített betéti kamatláb mutatóját, illetve a pénzügyi intézmény által folyósított, három hónapnál hosszabb lejáratú lakossági kölcsön teljes hiteldíjmutatóját. E mutatók számítására és feltüntetésük módjára vonatkozó szabályokat az e törvény végrehajtására kiadott külön jogszabály határozza meg.
-
-[214/D. § A kereskedelmi kommunikációban – az e törvény végrehajtására kiadott jogszabályban meghatározott esetekben – fel kell tüntetni a betét egységesített betéti kamatláb mutatóját. E mutató számítására és feltüntetése módjára vonatkozó szabályokat az e törvény végrehajtására kiadott külön jogszabály határozza meg.]
 
 ### Bankszünnap
 

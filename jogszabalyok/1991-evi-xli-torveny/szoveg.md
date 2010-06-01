@@ -1064,7 +1064,7 @@ illetékességi területén.
 
 (3) A közjegyzői okirat, ennek hiteles kiadmánya és hiteles másolata – ha a törvény eltérően nem rendelkezik – elektronikus úton is elkészíthető. A közjegyző által e törvényben előírt alakszerűségek megtartásával készített, a közjegyző minősített elektronikus aláírásával ellátott közjegyzői okirat, ennek hiteles kiadmánya és hiteles másolata: közokirat (elektronikus közokirat).
 
-112. § (1) A bíróság végrehajtási záradékkal látja el a közjegyzői okiratot, ha az tartalmazza
+112. § (1) A közjegyző végrehajtási záradékkal látja el a közjegyzői okiratot, ha az tartalmazza
 
 - a) a szolgáltatásra és ellenszolgáltatásra irányuló vagy egyoldalú kötelezettségvállalást,
 - b) a jogosult és a kötelezett nevét,
