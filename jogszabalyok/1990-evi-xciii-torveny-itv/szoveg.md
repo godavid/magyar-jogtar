@@ -425,7 +425,7 @@ szerzett.
   - qb) az átruházott eszközöknek a pénzeszközök és pénzkövetelések összegével csökkentett értékében az ingatlanok értékének aránya nem haladja meg az 50%-ot,
   - qc) az átruházó társaság legalább két üzletággal rendelkezik, melyek az átruházást megelőző két teljes, 12 hónapos adóévben önálló üzletágként működtek,
   - qd) az átvevő társaság vállalja, hogy az átruházás évét követő 2. naptári év végéig nem veszi igénybe a 23/A. § szerinti kedvezményes illetékmértéket,
-  - qe) az üzletágat átvevő társaság vállalja azt is, hogy az átvett eszközöket az illetékkiszabásra történő bemutatást követő egy éven belül nem idegeníti el.
+  - qe) az üzletágat átvevő társaság vállalja azt is, hogy az átvett eszközöket az illetékkiszabásra történő bemutatást követő egy éven belül nem idegeníti el;
 
 (2) Az (1) bekezdés a) pontjában említett lakóház felépítésének igazolása érdekében az ott meghatározott 4 éves határidő elteltét követő 15 napon belül az állami adóhatóság megkeresi az ingatlan fekvése szerint illetékes építésügyi hatóságot. Amennyiben az építésügyi hatóság igazolása szerint a lakóházra a vagyonszerző nevére a használatbavételi engedély kiadása megtörtént, az állami adóhatóság a megállapított, de a megfizetés tekintetében felfüggesztett illetéket törli. Törli az állami adóhatóság az illetéket akkor is, ha a 4 éves határidőn belül a vagyonszerző a nevére szóló jogerős használatbavételi engedéllyel igazolja a lakóház felépítését. Amennyiben a vagyonszerző több telket vásárolt, és mindegyik esetében vállalta lakóház felépítését, majd a telkeket utóbb egyesíttette, az illetéket az adóhatóság akkor törli, ha az új telek esetén a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. Ellenkező esetben valamennyi telek után meg kell fizetni az illetéket és a késedelmi pótlék összegét is. Ha a vagyonszerző a megszerzett telket utóbb megosztja, az adóhatóság a felfüggesztett illetékből csak azt az illetéket törli, amely arra a megosztás során létrejött telekre esik, amelyen a lakóház felépült, feltéve, hogy a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. Az illeték fennmaradó részét késedelmi pótlékkal növelt összegben kell megfizetni. Ha a maximális beépíthetőség az illetékkötelezettség keletkezésének időpontjában és a használatbavételi engedély kiadásának időpontjában eltérő, a kettő közül a vagyonszerzőre összességében kedvezőbbet kell figyelembe venni. Ha a lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakul, a lakóház felépítésére az ingatlant megszerző jogutód köteles.
 
@@ -635,7 +635,7 @@ szerzett.
 
 (3) A választottbírósági ítélet vagy egyezség érvénytelenítése iránti eljárásban az illetéket a választottbírósági határozatban megállapított perérték alapján, ennek hiányában a 39. § (3) bekezdésében foglaltak szerint kell meghatározni.
 
-[(4) A fizetési meghagyásos eljárás során előterjesztett fellebbezés illetékének alapja megegyezik az eljárásért fizetendő díj alapjával.]
+(4) A fizetési meghagyásos eljárás során előterjesztett fellebbezés illetékének alapja megegyezik az eljárásért fizetendő díj alapjával.
 
 41. § (1) Ha a bíróság az eljárás tárgyának értékét a fél által megjelöltnél magasabb összegben állapítja meg, az illeték alapjának ezt kell tekinteni.
 
@@ -646,17 +646,15 @@ szerzett.
 42. § (1) A 39–41. §-ban meghatározott illetékalap után – ha e törvény másként nem rendelkezik – az illeték mértéke:
 
 - a) peres eljárásban 6%, de legalább 10 000 forint, legfeljebb 900 000 forint;
-- b) bírósági meghagyás elleni ellentmondás esetén 3%, de legalább 5000 forint, legfeljebb 450 000 forint; [b) bírósági meghagyás elleni ellentmondás esetén ba) 3%, de legalább 5000 forint, legfeljebb 450 000 forint; bb) vállalkozások egymás közötti pereire vonatkozó, a polgári perrendtartásról szóló 1952. évi III. törvény 386/E. § (5) bekezdésében szabályozott esetben 5%, de legalább 50 000 forint, legfeljebb 1 000 000 forint;]
+- b) bírósági meghagyás elleni ellentmondás esetén 3%, de legalább 5000 forint, legfeljebb 450 000 forint;
 - c) egyezségi kísérletre történő idézés iránti kérelem és szóbeli kereset azonnali tárgyalása iránti kérelem esetén 1%, de legalább 3000 forint, legfeljebb 15 000 forint;
-- d) fizetési meghagyásos eljárásban 3%, de legalább 3000 forint, legfeljebb 450 000 forint;
+- d)
 - e) a végrehajtási eljárásban 1%, de legalább 5000 forint, legfeljebb 200 000 forint, ha a végrehajtás foganatosítása a fővárosi bírósági, illetőleg a megyei bírósági végrehajtó feladatkörébe tartozik, 3%, de legalább 8000 forint, legfeljebb 450 000 forint;
 - f) a határozat jogerőre emelkedése után a részletekben való teljesítés vagy ennek módosítása, vagy részletfizetés engedélyezése iránt kezdeményezett eljárásban 1%, de legalább 5000 forint, legfeljebb 15 000 forint;
 - g) a kiszabott pénzbírság megfizetésére halasztás vagy részletfizetés engedélyezése iránt kezdeményezett eljárásban 1%, de legalább 5000 forint, legfeljebb 18 000 forint;
 - h) egyéb nemperes eljárásokban – a közigazgatási nemperes eljárás kivételével – az eljárás tárgya értékének 3%-a, de legalább 5000 forint, legfeljebb 150 000 forint.
 
-(2) Ha az (1) bekezdés c) pontjában említett eljárás az első tárgyaláson érdemben nem fejeződik be, illetve a d) pontban említett eljárás perré alakul, az illetéket az a) pont szerinti mértékre kell kiegészíteni.
-
-[(2) Ha az (1) bekezdés c) pontjában említett eljárás az első tárgyaláson érdemben nem fejeződik be, az illetéket az a) pont szerinti mértékre kell kiegészíteni. Ha a fizetési meghagyásos eljárás perré alakul (ideértve azt az esetet is, ha a felperes a keresetlevelet a fizetési meghagyás kibocsátása iránti kérelmet elutasító, illetve az eljárást megszüntető végzés jogerőre emelkedését követő harminc napon belül a bírósághoz benyújtja vagy annak címére ajánlott küldeményként postára adja), az a) pont szerinti mértékű illetéket kell fizetni, melybe a fizetési meghagyásos eljárásért fizetendő díj – esetleges kedvezményekkel csökkentett – összegét be kell számítani.]
+(2) Ha az (1) bekezdés c) pontjában említett eljárás az első tárgyaláson érdemben nem fejeződik be, az illetéket az a) pont szerinti mértékre kell kiegészíteni. Ha a fizetési meghagyásos eljárás perré alakul (ideértve azt az esetet is, ha a felperes a keresetlevelet a fizetési meghagyás kibocsátása iránti kérelmet elutasító, illetve az eljárást megszüntető végzés jogerőre emelkedését követő harminc napon belül a bírósághoz benyújtja vagy annak címére ajánlott küldeményként postára adja), az a) pont szerinti mértékű illetéket kell fizetni, melybe a fizetési meghagyásos eljárásért fizetendő díj – esetleges kedvezményekkel csökkentett – összegét be kell számítani.
 
 (3) A végrehajtási eljárás megindítása iránti beadvány: a végrehajtás elrendelése iránti kérelemnek, illetve a végrehajtási záradékkal ellátható okiratnak a bíróságnál történő benyújtása. Ide kell érteni a pénzkövetelés biztosítására, illetve meghatározott dolog zárlatára irányuló kérelem benyújtását is.
 
@@ -839,9 +837,7 @@ esetében.
 
 (4) Ha a per szünetelés folytán szűnik meg, a bíróság az eljárást kezdeményező felet kötelezi az illeték megfizetésére.
 
-(5) Az (1) bekezdés a) pontjának rendelkezését a nemperes eljárásokban megfelelően alkalmazni kell, ha a kérelemtől való elállásra a bíróság érdemi határozatának meghozatala előtt kerül sor. A 42. § (1) bekezdésének c) és d) pontjában említett eljárásoknál – amennyiben ennek feltételei egyébként fennállnak – a mérséklési kötelezettség csak a 42. § (2) bekezdése szerint kiegészített illetékre terjed ki.
-
-[(5) Az (1) bekezdés a) pontjának rendelkezését a nemperes eljárásokban megfelelően alkalmazni kell, ha a kérelemtől való elállásra a bíróság érdemi határozatának meghozatala előtt kerül sor. A 42. § (1) bekezdésének c) pontjában említett eljárásoknál, valamint a fizetési meghagyásos eljárást követően indult peres eljárásban [42. § (2) bek. 2. mondat] – amennyiben ennek feltételei egyébként fennállnak – a mérséklési kötelezettség csak a 42. § (2) bekezdése szerint kiegészített illetékre terjed ki.]
+(5) Az (1) bekezdés a) pontjának rendelkezését a nemperes eljárásokban megfelelően alkalmazni kell, ha a kérelemtől való elállásra a bíróság érdemi határozatának meghozatala előtt kerül sor. A 42. § (1) bekezdésének c) pontjában említett eljárásoknál, valamint a fizetési meghagyásos eljárást követően indult peres eljárásban [42. § (2) bek. 2. mondat] – amennyiben ennek feltételei egyébként fennállnak – a mérséklési kötelezettség csak a 42. § (2) bekezdése szerint kiegészített illetékre terjed ki.
 
 (6) A büntető eljárásban érvényesített polgári jogi igény illetékére az (1)—(2) bekezdés rendelkezéseit megfelelően alkalmazni kell.
 

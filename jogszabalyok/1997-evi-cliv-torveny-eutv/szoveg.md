@@ -1600,6 +1600,8 @@ személyazonosításra alkalmatlan módon kezeli, feldolgozza és azok alapján 
 
 (5) A (3) bekezdés szerinti szerv az ott meghatározottak szerinti adatokat a külön jogszabályban meghatározott határidőben, illetve gyakorisággal, de legalább évente egyszer a naptári év végét követő 14 napon belül, a (2) bekezdés j) pontja tekintetében a külön jogszabály szerinti adatközlési határidőt követő 30 napon belül, a (2) bekezdés h) pontja tekintetében havonta térítésmentesen továbbítja a (2) bekezdés szerinti szervnek.
 
+(6) Az egységes egészségügyi ágazati humánerőforrás-monitoringrendszert működtető egészségügyi államigazgatási szerv részére egyes kérelemre lefolytatott – nem közfeladat ellátása érdekében történő adatszolgáltatás iránti vagy a monitoringrendszer adattartalmának egyedi feldolgozását igénylő kérelem teljesítésére irányuló – eljárásaiért az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
+
 ### Egészségügyi ágazati szakmai képzés
 
 115. § (1) Az egészségügyi ágazati szakmai képzés feladata a képzési fokoknak és szinteknek megfelelő elméleti és gyakorlati szakmai ismeretek nyújtása, szinten tartása és fejlesztése a tudomány korszerű színvonalának és az egészségügyi ellátás igényeinek megfelelően.
