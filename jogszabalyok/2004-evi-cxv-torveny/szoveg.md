@@ -58,7 +58,7 @@ Az Országgyűlés az önkéntes társuláson alapuló lakásszövetkezetek ön�
 - f) a közgyűlés, illetőleg – ha az alapszabály előírja – a részközgyűlés, a küldöttgyűlés összehívásának módját, hatáskörét és eljárásának szabályait;
 - g) a tagok jogait és kötelezettségeit;
 - h) az építési, illetőleg a fenntartási költségek viselésének és felosztásának módját;
-- i) a költséghátralék megfizetése érdekében az igazgatóságnak az adós tag határidő megjelölésével történő felszólításával, továbbá – ha a felszólítás eredménytelen – a bírósági fizetési meghagyás kibocsátásának kezdeményezésével, illetőleg az alapszabályban kapott felhatalmazás esetén, az igazgatóságnak a jelzálogjog bejegyzése és annak törlése iránti kérelem benyújtásával kapcsolatos feladatait;
+- i) a költséghátralék megfizetése érdekében az igazgatóságnak az adós tag határidő megjelölésével történő felszólításával, továbbá – ha a felszólítás eredménytelen – a fizetési meghagyás kibocsátásának kezdeményezésével, illetőleg az alapszabályban kapott felhatalmazás esetén, az igazgatóságnak a jelzálogjog bejegyzése és annak törlése iránti kérelem benyújtásával kapcsolatos feladatait;
 - j) a tagfelvételi, és a tagsági viszony megszűnésére vonatkozó ügyekben, ha azokról nem a közgyűlés dönt, az eljárásra illetékes testületet és az eljárás szabályait;
 - k) a lakásszövetkezet képviseletének részletes szabályait;
 - l) a használati jog gyakorlásának és átruházásának feltételeit;

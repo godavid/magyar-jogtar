@@ -123,21 +123,15 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (2) A beadvány adatainak beviteléről annak benyújtója a MOKK rendszerén keresztül, elektronikus úton automatikusan visszaigazolást kap. A visszaigazolás a beadvány tartalmi elemeit, az adatbevitel időpontját, az ügyszámot, az eljáró közjegyző nevét és székhelyét, valamint ha a díj – díjköteles beadvány esetén – megfizetésre került, a díj megfizetéséről szóló igazolást tartalmazza. Díjköteles beadvány beérkezési idejének az ügyintézési határidő számítása szempontjából azt a napot kell tekinteni, amikor a díjat a MOKK pénzforgalmi számláján jóváírták.
 
-13. § (1) A papír alapú beadvány – a közreműködés alól mentesített közjegyző kivételével – bármelyik közjegyzőnél benyújtható. Ha a fél a beadványához mellékletet csatol [10. § (3) bekezdés], azt kizárólag az eljáró közjegyzőnél nyújthatja be.
+13. § (1) A papír alapú beadvány az eljáró közjegyzőnél nyújtható be. Ha a fél beadványát nem az eljáró közjegyzőnél nyújtotta be, az a közjegyző, akihez a beadványt benyújtották, haladéktalanul megküldi a beadványt az eljáró közjegyzőnek.
 
-(2) E közjegyző a beadvány adatait haladéktalanul, de legfeljebb három munkanapon belül rögzíti a MOKK rendszerében. A hiányok pótlására vonatkozó felhívást a beadvány adatait rögzítő közjegyző akkor is kibocsáthatja, ha az ügyben nem ő jár el. Hiánypótlási felhívás esetén a kérelmet nem kell visszaadni a félnek.
+(2) Az eljáró közjegyző a beadvány adatait haladéktalanul, de legfeljebb annak a hozzá való érkezésétől számított 3 munkanapon belül rögzíti a MOKK rendszerében. Hiánypótlási felhívás esetén a kérelmet nem kell visszaadni a félnek.
 
-(3) Ha az ügyben nem az a közjegyző jár el, akinél a beadványt előterjesztik, a beadvány adatainak a MOKK rendszerében történő rögzítésével, automatikusan kerül megküldésre az eljáró közjegyzőnek.
-
-(4) Az igazságügyért felelős miniszter rendeletében meghatározott, gépi úton feldolgozható és az ügy egyedi azonosítására alkalmas azonosítót tartalmazó papír alapú űrlapon előterjesztett beadványt közvetlenül a MOKK- hoz is be lehet nyújtani. Ebben az esetben a MOKK a beadványt a beadvány adatainak a MOKK rendszerében történő rögzítésével elektronikus úton haladéktalanul megküldi az eljáró közjegyzőnek.
-
-(5) Ha a beadvány adatait nem az eljáró közjegyző rögzíti a MOKK rendszerén, az eljáró közjegyzőre vonatkozó ügyintézési határidő a beadvány adatainak a MOKK rendszerében történő rögzítésével kezdődik meg.
-
-(6) A 9. § (3) bekezdésében meghatározott esetben a kijelölt közjegyzőnek a beadvány adatait a kérelem megérkezését követően haladéktalanul, de legfeljebb három munkanapon belül kell rögzítenie a MOKK rendszerében.
+(3) Az 5. § és a 9. § (3) bekezdésében meghatározott esetben a kijelölt közjegyzőnek a beadvány adatait a kérelem megérkezését követően haladéktalanul, de legfeljebb 3 munkanapon belül kell rögzítenie a MOKK rendszerében.
 
 14. § (1) Ha e törvény eltérően nem rendelkezik, a jogi képviselő által nem képviselt fél a beadványát bármelyik közjegyzőnél szóban is előterjesztheti.
 
-(2) A szóban előterjesztett beadvány adatait az a közjegyző, akinél azt előterjesztették, az esetleges hiányok pótlása után nyomban rögzíti a MOKK rendszerében, és erről igazolást ad; az igazolásra a Pp.-nek (115–118. §) a jegyzőkönyvre vonatkozó szabályait kell megfelelően alkalmazni. Ha az ügyben nem az a közjegyző jár el, akinél a kérelmet előterjesztik, a kérelem az adatainak a MOKK rendszerébe történő rögzítésével kerül megküldésre az eljáró közjegyzőnek. A 13. § (5) bekezdését ebben az esetben is megfelelően alkalmazni kell.
+(2) A szóban előterjesztett beadvány adatait az a közjegyző, akinél azt előterjesztették, az esetleges hiányok pótlása után nyomban rögzíti a MOKK rendszerében, és erről igazolást ad; az igazolásra a Pp.-nek (115–118. §) a jegyzőkönyvre vonatkozó szabályait kell megfelelően alkalmazni. Ha az ügyben nem az a közjegyző jár el, akinél a kérelmet előterjesztik, a kérelemnek az eljáró közjegyző részére történő megküldésére a kérelem adatainak a MOKK rendszerébe történő rögzítésével kerül sor. Ha a beadvány adatait nem az eljáró közjegyző rögzíti a MOKK rendszerén, az eljáró közjegyzőre vonatkozó ügyintézési határidő a beadvány adatainak a MOKK rendszerében történő rögzítésével kezdődik meg.
 
 (3) Ha a fél a hiányok pótlását a figyelmeztetés ellenére is elmulasztja, a beadványt a MOKK rendszerében hiányosan is rögzíteni kell, a közjegyző pedig a MOKK rendszerén keresztül írásban hiánypótlási felhívást intéz a félhez. Igazolást ebben az esetben csak akkor kell adni, ha a hiánypótlási felhívást nem a kérelem előterjesztésekor adja át a közjegyző.
 
@@ -147,9 +141,9 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 ### Kézbesítés
 
-15. § (1) A belföldi idézési címmel és belföldi idézési című képviselővel sem rendelkező jogosult a fizetési meghagyás kibocsátása iránti kérelem előterjesztésével egyidejűleg a Pp. 100/A. § megfelelő alkalmazásával köteles belföldi idézési című kézbesítési megbízottat megjelölni.
+15. § (1) A belföldi idézési címmel és belföldi idézési című képviselővel sem rendelkező jogosult a fizetési meghagyás kibocsátása iránti kérelem előterjesztésével egyidejűleg köteles belföldi idézési című kézbesítési megbízottat megjelölni.
 
-(2) Az (1) bekezdésben foglalt kötelezettség elmulasztása esetén a fizetési meghagyás kibocsátása iránti kérelmet el kell utasítani, és az erről rendelkező végzést a jogosult részére hirdetmény útján kell kézbesíteni.
+(2) Az (1) bekezdésben foglalt kötelezettség elmulasztása esetén a fizetési meghagyás kibocsátása iránti kérelmet hiánypótlási felhívás kibocsátása nélkül el kell utasítani, és az erről rendelkező végzést a jogosult részére hirdetmény útján kell kézbesíteni.
 
 (3) Ha a kézbesítési megbízott megjelölésének kötelezettségét eredményező, az (1) bekezdésben foglalt körülmények az eljárásnak a fizetési meghagyás kibocsátása iránti kérelem előterjesztését követő szakaszában állnak be, és a jogosult kézbesítési megbízottat nem jelölt meg, erre tekintettel hiánypótlás elrendelésének vagy a jogosult külön felhívásának nincs helye, az iratot ilyen esetben hirdetmény útján kell a jogosultnak kézbesíteni.
 
@@ -185,7 +179,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (4) Ha e törvény, vagy az igazságügyért felelős miniszter rendelete másként nem rendelkezik, a közjegyző a határozatait és más iratait a MOKK rendszerén keresztül állítja elő. A MOKK rendszerén keresztül előállított és központilag kinyomtatott jegyzőkönyv (igazolás), aktanyomat és határozat (értesítés, végrehajtási lap) az eljáró közjegyző nevét, székhelyét és bélyegzőlenyomatának képét tartalmazza; az a közjegyző aláírása nélkül hiteles.
 
-(5) E törvény, valamint az e törvény felhatalmazása alapján kiadott rendeletek alapján a közjegyző, illetve a MOKK rendszere által előállított jegyzőkönyv (igazolás), aktanyomat, határozat (értesítés, végrehajtási lap), az ezekről kiállított hiteles kiadmány közokirat. Ugyanilyen bizonyító erővel bizonyítja a felek beadványairól, valamint a kézbesítési bizonyítványról (tértivevényről) a közjegyző vagy a MOKK rendszere által készített másolat, illetve ezen iratokról a rendszerbe bevitt adatok alapján készített okirat azt, hogy annak tartalma az eredeti okiratéval megegyezik.
+(5) E törvény, valamint az e törvény felhatalmazása alapján kiadott rendeletek alapján a közjegyző, illetve a MOKK rendszere által előállított jegyzőkönyv (igazolás), aktanyomat, határozat (értesítés, végrehajtási lap) és az ezekről kiállított hiteles kiadmány közokirat. Ugyanilyen bizonyító erővel bizonyítja a felek beadványairól, valamint a kézbesítési bizonyítványról (tértivevényről) a közjegyző vagy a MOKK rendszere által készített másolat, illetve ezen iratokról a rendszerbe bevitt adatok, valamint ezen adatok alapján készített okirat azt, hogy annak tartalma az eredeti okiratéval megegyezik. A MOKK rendszerén keresztül előállított elektronikus közokiratokat legalább fokozott biztonságú elektronikus aláírással kell ellátni.
 
 ### A fizetési meghagyás kibocsátása iránti kérelem
 
@@ -250,7 +244,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
   - ia) amely határidő jogvesztő, és ezt a jogosult elmulasztotta,
   - ib) amely határidő elmulasztása esetén a fél igazolással élhet, és a jogosult ezt a határidőt elmulasztotta, de igazolási kérelmet nem terjeszt elő, vagy azt a közjegyző elutasítja;
 - j) a jogi képviselő által benyújtott kérelem nem tartalmazza a 20. § (1) bekezdésében foglaltakat vagy elmulasztották az eljárási díj megfizetésére vonatkozó kötelezettség teljesítését;
-- k) a jogi képviselővel rendelkező fél vagy a jogi személy fél kérelmét nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében és a 17. § (3) bekezdésében meghatározott eset sem áll fenn; vagy
+- k) a jogi képviselővel rendelkező fél vagy a jogi személy fél kérelmét nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn; kivéve ha a jogi képviselővel rendelkező természetes személy fél költségkedvezmény iránti kérelmet terjesztett elő (50. §); vagy
 - l) a jogosult a hiánypótlási felhívást követően a kitűzött határidő alatt a kérelmet (annak a szükséges részét) nem, vagy ismételten hiányosan nyújtotta be, és emiatt a kérelem nem bírálható el.
 
 (2) Ha a meghagyást a kötelezettnek halála miatt vagy azért nem lehet kézbesíteni, mert a kötelezett a bejelentett címen ismeretlen, vagy onnan ismeretlen helyre költözött, erről a jogosultat értesíteni kell, és egyidejűleg fel kell hívni, hogy a kézbesítéshez szükséges adatokat harminc napon belül jelentse be.
@@ -514,7 +508,7 @@ kell megfizetni.
 
 (3) A 15–17. §-t, a 18. § (1) és (3)–(5) bekezdését, a 23. § (1) bekezdését, a 24. § (1) bekezdés j) és k) pontját, valamint a 26. § (1)–(4) bekezdését a végrehajtás elrendelése iránti eljárásban is alkalmazni kell.
 
-(4) A végrehajtás a fizetési meghagyásos eljárásnak a MOKK rendszerében rögzített adatai alapján kerül elrendelésre.
+(4) A végrehajtás elrendelésére a fizetési meghagyásos eljárásnak a MOKK rendszerében rögzített adatai alapján kizárólag végrehajtási lappal, illetve biztosítási intézkedést elrendelő végzéssel (a továbbiakban együtt: végrehajtási lap) kerül sor.
 
 (5) Végrehajtási kérelem a fizetési meghagyás jogerőre emelkedését követő 10 év után nem terjeszthető elő; e határidő elmulasztása jogvesztéssel jár.
 
