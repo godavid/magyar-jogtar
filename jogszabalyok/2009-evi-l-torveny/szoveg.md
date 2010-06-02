@@ -157,7 +157,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (2) A jelenlévő félnek nyomban kézbesíthető irat, valamint a (3) bekezdésben és az igazságügyért felelős miniszter rendeletében meghatározott esetek kivételével az iratokat a MOKK rendszerén keresztül, a hivatalos iratok kézbesítésére vonatkozó külön jogszabályok szerint kell kézbesíteni, az így kézbesítendő papír alapú iratokat a MOKK rendszere központilag nyomtatja ki és készíti elő a postai kézbesítésre. A MOKK rendszerén keresztül kézbesített iratok kézbesítésének költsége a MOKK rendszere üzemeltetési költségeinek részét képezi.
 
-(3) Ha a jogosult ezt a fizetési meghagyás kibocsátása iránti kérelmében kéri, a fizetési meghagyást kizárólag a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 31/D. §-a szerinti végrehajtói kézbesítés útján kell kézbesíteni, a 32. és 33. § rendelkezéseit pedig nem lehet alkalmazni. Ebben az esetben a végrehajtó külön jogszabályban meghatározott díját a MOKK részére előlegezni kell, és azt a MOKK a végrehajtónak átutalja. Az ellentmondás előterjesztésre nyitva álló határidőt attól az időponttól kell számítani, amikor a jogerős fizetési meghagyást tartalmazó irat végrehajtói kézbesítése a külön jogszabály szerint eredményesen megtörtént.
+(3) Ha a jogosult ezt a fizetési meghagyás kibocsátása iránti kérelmében kéri, a fizetési meghagyást kizárólag a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 31/D. §-a szerinti végrehajtói kézbesítés útján kell kézbesíteni, a 32. és 33. § rendelkezéseit pedig nem lehet alkalmazni. Ebben az esetben a végrehajtó külön jogszabályban meghatározott díját a MOKK részére előlegezni kell, és azt a MOKK a végrehajtónak átutalja. Az ellentmondás előterjesztésre nyitva álló határidőt attól az időponttól kell számítani, amikor a fizetési meghagyást tartalmazó irat végrehajtói kézbesítése a külön jogszabály szerint eredményesen megtörtént.
 
 (4) A fél a beadványában kérheti, hogy a részére szóló iratok a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben foglalt, a hivatalos szerv hivatalos iratainak kézbesítésére vonatkozó szabályok szerint, elektronikus úton kerüljenek kézbesítésre.
 
@@ -221,8 +221,8 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (2) Ha nincs szükség hiánypótlásra, nem kell elutasítani a jogi képviselővel eljáró fél kérelmét annak hiányosságai miatt, vagy a fél hiánypótlási kötelezettségének eleget tett, és ennek eredményeként a kérelem alkalmas a fizetési meghagyás kibocsátására, a közjegyző a kötelezett szervezet jogképességének vagy annak megállapítása érdekében, hogy a kötelezett ellen helye van-e fizetési meghagyás kibocsátásának, térítésmentesen:
 
-- a) a jogképességgel rendelkező szervezetek nyilvántartásába betekinthet, abból adatot igényelhet;
-- b) a követelés érvényesítésére vonatkozó iratokat szerezhet be bíróságtól, közjegyzőtől, más hatóságtól vagy szervezettől.
+- a) a jogképességgel rendelkező szervezetek elektronikus nyilvántartásába betekinthet, abból adatot igényelhet;
+- b)
 
 (3) A (2) bekezdés a) pontjában foglalt esetben elektronikus nyilvántartásban szereplő adatok igénylésére a közjegyző a MOKK rendszerének ilyen, automatizált szolgáltatását veszi igénybe.
 
@@ -263,7 +263,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (6) A közjegyző az (1) bekezdés d) pontjában foglaltak megállapítása érdekében ingyenesen jogosult elektronikus úton betekinteni a bíróság ügylajstromába; a közjegyző az adatokat a MOKK rendszerén keresztül automatikusan igényelheti. A bíróság biztosítja, hogy a nyilvántartásában a peres ügyek a felek neve és címe, valamint az ügy tárgya szerint is kereshetőek legyenek. A közjegyző az (1) bekezdés d) pontjában foglaltak ellenőrzése céljából megtekintheti a MOKK rendszerében a fizetési meghagyásos ügyekről kezelt adatokat.
 
-25. § (1) A fizetési meghagyás kibocsátása iránti kérelmet elutasító végzést kézbesíteni kell a jogosultnak, a kötelezettnek pedig meg kell küldeni; a kötelezett példányához csatolni kell a kérelem másolatát. A végzés ellen a jogosult fellebbezhet; fellebbezését a kötelezettnek észrevételezésre megküldeni nem kell.
+25. § (1) A fizetési meghagyás kibocsátása iránti kérelmet elutasító végzést kézbesíteni kell a jogosultnak, a kötelezettnek pedig meg kell küldeni. A végzés ellen a jogosult fellebbezhet; fellebbezését a kötelezettnek észrevételezésre megküldeni nem kell.
 
 (2) Ha a fizetési meghagyás kibocsátása iránti kérelmet elutasítják, a jogosult a követelés érvényesítése végett választása szerint ismét fizetési meghagyás kibocsátása iránti kérelmet terjeszthet elő, vagy a bíróságnál keresetet indíthat, illetőleg követelését egyéb úton szabályszerűen érvényesítheti. Ebben az esetben a 3. § (2) bekezdésében meghatározott korlátozás nem alkalmazható.
 
@@ -373,7 +373,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 37. § (1) A kellő időben előterjesztett ellentmondás folytán a fizetési meghagyásos eljárás – az ellentmondással érintett részben – perré alakul át.
 
-(2) A közjegyző az ellentmondásról szóló értesítést az ellentmondással együtt az ellentmondás beérkezésétől számított nyolc napon belül kézbesíti a jogosultnak. Ha a közjegyző a határidőt elmulasztja, az értesítés a határidő utolsó napját követő munkanapon a MOKK rendszere útján a közjegyző nevében automatikusan kerül kézbesítésre a jogosultnak. Ezt a rendelkezést megfelelően alkalmazni kell a 30. és 31. §-ban meghatározott esetekben is.
+(2) A közjegyző az ellentmondásról szóló értesítést az ellentmondás beérkezésétől számított nyolc napon belül kézbesíti a jogosultnak. Ha a közjegyző a határidőt elmulasztja, az értesítés a határidő utolsó napját követő munkanapon a MOKK rendszere útján a közjegyző nevében automatikusan kerül kézbesítésre a jogosultnak. Ezt a rendelkezést megfelelően alkalmazni kell a 30. és 31. §-ban meghatározott esetekben is.
 
 (3) A közjegyző az ellentmondásról szóló értesítés kézbesítésével egyidejűleg felhívja a jogosultat, hogy az értesítés kézbesítésétől számított tizenöt napon belül a bíróságnak benyújtott beadványon a peres eljárás illetékét rója le és
 
@@ -472,7 +472,7 @@ kell megfizetni.
 
 48. § (1) Azt a természetes személy felet, aki jövedelmi és vagyoni viszonyai folytán az eljárási költséget fedezni nem tudja, jogai érvényesítésének megkönnyítése végett – kérelmére – részleges vagy teljes költségfeljegyzési jog illeti meg (személyes költségfeljegyzési jog).
 
-(2) Költségfeljegyzési joga alapján a fél részben vagy egészben mentes az eljárási díj és a másolati díj előlegezése, valamint a közjegyző határozata ellen előterjesztett fellebbezés és az ellentmondás folytán perré alakult eljárás illetékének viselése alól.
+(2) Költségfeljegyzési joga alapján a fél részben vagy egészben mentes az eljárási díj előlegezése, valamint a közjegyző határozata ellen előterjesztett fellebbezés és az ellentmondás folytán perré alakult eljárás illetékének viselése alól.
 
 (3) A személyes költségfeljegyzési jogra a Pp. 85. §-át és 86. §-ának (1)–(3) bekezdését megfelelően alkalmazni kell, a Pp. 84–92. §-át egyebekben nem lehet alkalmazni.
 
@@ -488,7 +488,7 @@ kell megfizetni.
 
 (2) A jogosult a költségkedvezmény iránti kérelmét a fizetési meghagyás kibocsátása iránti kérelmének előterjesztésével egyidejűleg terjesztheti elő. A kérelmet – ideértve ebben az esetben a fizetési meghagyás kibocsátása iránti kérelmet is – elektronikus úton nem lehet benyújtani. A kérelemhez mellékelni kell a külön jogszabályban meghatározott mellékleteket.
 
-(3) A közjegyző a fizetési meghagyás kibocsátása iránti kérelemnek a MOKK rendszerében történő rögzítését megelőzően dönt a költségkedvezmény iránti kérelemről. A kérelmet részben vagy egészben elutasító végzés ellen a jogosult a közjegyző székhelye szerint illetékes megyei bírósághoz fellebbezhet. A fellebbezést észrevételezésre nem kell megküldeni a kötelezettnek. A felet költségkedvezményben részesítő jogerős végzés a peres eljárásra is hatályos, azonban a perben eljáró bíróság a végzést hatályon kívül helyezheti vagy megváltoztathatja.
+(3) A közjegyző a fizetési meghagyás kibocsátása iránti kérelemnek a MOKK rendszerében történő rögzítését megelőzően dönt a költségkedvezmény iránti kérelemről. A kérelmet részben vagy egészben elutasító végzés ellen a jogosult a közjegyző székhelye szerint illetékes megyei bírósághoz fellebbezhet. A fellebbezést észrevételezésre nem kell megküldeni a kötelezettnek. A felet költségkedvezményben részesítő jogerős végzés a peres eljárásra is hatályos, azonban a perben eljáró bíróság a végzést hatályon kívül helyezheti vagy megváltoztathatja. A közjegyző a 11. § (3) bekezdése alapján elektronikus iratbenyújtásra köteles nem természetes személy jogosult költségkedvezmény iránti kérelmét azzal utasítja el, hogy a fizetési meghagyás kibocsátása iránti kérelmét a 11. §-ban meghatározott módon terjessze elő.
 
 (4) Ha a közjegyző a jogosult költségkedvezmény iránti kérelmének nem, vagy csak részben ad helyt, a fizetési meghagyás kibocsátása iránti kérelmet a MOKK rendszerében csak azután lehet rögzíteni, ha a jogosult az eljárási díj megfizetése iránti kötelezettségének eleget tett. Ha a fellebbezés eredményeként a megyei bíróság a jogosult költségkedvezményét kiterjesztette, a fizetési meghagyás kibocsátása iránti kérelmet az így fizetendő eljárási díj megfizetése után lehet rögzíteni a MOKK rendszerében. Ha a megyei bíróság végzése alapján a jogosult nem köteles az eljárási díj előlegezésére, a közjegyző a fizetési meghagyás kibocsátása iránti kérelmet a másodfokú végzés kézhezvételét követően haladéktalanul, de legfeljebb egy munkanapon belül rögzíti a MOKK rendszerében.
 
@@ -506,7 +506,7 @@ kell megfizetni.
 
 (2) A végrehajtás elrendelése iránti ügyek elosztására a fizetési meghagyásos ügyek elosztására vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(3) A 15–17. §-t, a 18. § (1) és (3)–(5) bekezdését, a 23. § (1) bekezdését, a 24. § (1) bekezdés j) és k) pontját, valamint a 26. § (1)–(4) bekezdését a végrehajtás elrendelése iránti eljárásban is alkalmazni kell.
+(3) A 15–17. §-t, a 18. § (1) és (3)–(5) bekezdését, a 23. § (1) bekezdését, a 24. § (1) bekezdés j) és k) pontját, valamint a 26. § (1) és (2) bekezdését a végrehajtás elrendelése iránti eljárásban is alkalmazni kell.
 
 (4) A végrehajtás elrendelésére a fizetési meghagyásos eljárásnak a MOKK rendszerében rögzített adatai alapján kizárólag végrehajtási lappal, illetve biztosítási intézkedést elrendelő végzéssel (a továbbiakban együtt: végrehajtási lap) kerül sor.
 
@@ -530,7 +530,7 @@ kell megfizetni.
 
 (3) A végrehajtás, valamint a biztosítási intézkedés elrendeléséért további díj és illeték – ide nem értve a jogorvoslati eljárás illetékét – nem számítható fel.
 
-(4) A végrehajtási díj és a biztosítási intézkedés elrendeléséért fizetendő díj kétharmadát a MOKK a végrehajtást elrendelő közjegyzők között az elvégzett munka arányában az igazságügyért felelős miniszter rendeletében meghatározottak szerint munkadíj és költségtérítés címén felosztja. A fennmaradó összeg felét a MOKK a működésére fordítja, a fennmaradó összeg másik fele a Magyar Bírósági Végrehajtói Kamarát illeti, mely azt a működésére fordítja.
+(4) A végrehajtási díj és a biztosítási intézkedés elrendeléséért fizetett díj kétharmadát a MOKK a végrehajtást elrendelő közjegyzők között az elvégzett munka arányában az igazságügyért felelős miniszter rendeletében meghatározottak szerint munkadíj és költségtérítés címén felosztja. A fennmaradó összeg felét a MOKK a működésére fordítja, a fennmaradó összeg másik fele a Magyar Bírósági Végrehajtói Kamarát illeti, mely azt a működésére fordítja.
 
 (5) A végrehajtási díjra és a biztosítási intézkedés elrendeléséért fizetendő díjra, illetve a végrehajtás elrendelésére irányuló eljárásra a 44. § (1) bekezdése, a 46–48. §, a 49. § (1) és (2) bekezdése és az 50. § rendelkezéseit megfelelően alkalmazni kell.
 
@@ -600,7 +600,7 @@ vonatkozó rendelkezéseit kell megfelelően alkalmazni; az a) és b) pontban me
 60. § Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
 - a) a fizetési meghagyásos eljárás és a fizetési meghagyás végrehajtásának elrendelése során az automatikus ügyelosztási rendszer működésének részletes szabályait, továbbá a papír alapú kérelmek esetén a másik közjegyző kijelölését indokolttá tévő fizetési meghagyás kibocsátása iránti kérelmek számát,
-- b) a fizetési meghagyásos eljárásban és a fizetési meghagyás végrehajtásának elrendelése iránti eljárásban alkalmazandó papír alapú űrlapokat, azok tartalmi és formai kellékeit, a benyújtandó űrlapok példányszámát, a MOKK-hoz közvetlenül benyújtható űrlapok körét, az űrlapokhoz csatolható mellékleteket, az elektronikus űrlapok adatait, valamint az űrlapok közzétételének módját,
+- b) a fizetési meghagyásos eljárásban és a fizetési meghagyás végrehajtásának elrendelése iránti eljárásban alkalmazandó papír alapú űrlapokat, azok tartalmi és formai kellékeit, a benyújtandó űrlapok példányszámát, az űrlapokhoz csatolható mellékleteket, az elektronikus űrlapok adatait, valamint az űrlapok közzétételének módját,
 - c) a fizetési meghagyásos eljárás és a fizetési meghagyás végrehajtásának elrendelése során érvényesülő ügyviteli szabályokat,
 - d) az államháztartásért felelős miniszterrel egyetértésben a másolati díj mértékét, megfizetésének módját és visszatérítésének szabályait,
 - e) az államháztartásért felelős miniszterrel egyetértésben az eljárási díj, a végrehajtási díj, a biztosítási intézkedés elrendeléséért fizetendő díj megfizetésének és visszatérítésének szabályait,

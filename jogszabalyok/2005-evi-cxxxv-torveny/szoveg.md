@@ -213,6 +213,14 @@ bűncselekményt követett el, és azt a bíróság jogerős határozatában meg
 
 (5) A vissza nem térített támogatás adók módjára behajtandó köztartozásnak minősül, a teljesítés elmulasztása esetén az áldozatsegítő szolgálat megkeresi a tartozás összegének behajtására hatáskörrel rendelkező szervet.
 
+### Méltányosság
+
+15/A. § (1) A 15. § (1) bekezdés b) és d) pontjaiban meghatározott eseteket kivéve az áldozatsegítő szolgálat az áldozatnak a visszatérítési kötelezettséget előíró határozat jogerőre emelkedésétől a visszafizetési határidő lejártáig előterjesztett kérelmére a visszafizetendő összeget méltányosságból mérsékelheti vagy elengedheti, ha az áldozat havi nettó jövedelme – közös háztartásban élők esetén az egy főre eső jövedelem – nem haladja meg az alapösszeget, vagy a visszafizetés az áldozat vagy a vele közös háztartásban élők számára méltánytalanul súlyos hátrányt okozna.
+
+(2) A méltányosság iránti kérelemhez csatolni kell az áldozat és a vele közös háztartásban élők jövedelmére vonatkozó igazolásokat.
+
+(3) A méltányossági kérelem tárgyában hozott döntés ellen fellebbezésnek helye nincs.
+
 ### Nyilvántartás
 
 16. § (1) Az áldozatsegítő szolgálat a tájékoztatásokról és a támogatásokról – a kérelmek elbírálása, a visszatérítési kötelezettség teljesítésének ellenőrzése, valamint megyei és országos statisztikai adatgyűjtés érdekében – nyilvántartást vezet.
@@ -443,6 +451,8 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 45. § (1) Az egyes erőszakos bűncselekmények következtében sérelmet szenvedettek állam általi kárenyhítésének szabályairól szóló 209/2001. (X. 31.) Korm. rendelet (a továbbiakban: Korm. rendelet) alapján 2006. január 1-jén folyamatban levő kárenyhítés iránti kérelmek elbírálására e törvényt kell alkalmazni. A 2006. január 1-jén folyamatban maradt kárenyhítés iránti kérelmek eredeti iratait a Biztonságos Magyarországért Közalapítvány a központi áldozatsegítő szolgálatnak küldi meg.
 
 (2) E törvényt kell alkalmazni a hatálybalépését megelőzően elkövetett bűncselekménnyel összefüggésben, ha a kárenyhítés iránti kérelem benyújtását a Korm. rendelet – mint korábbi jogszabály – lehetővé tette.
+
+(3) E törvénynek a hagyatéki eljárásról szóló … törvény 122. § (3) bekezdésével megállapított 15/A. §-át a hatálybalépését megelőzően jogerősen megállapított, de még meg nem fizetett tartozásokra is alkalmazni kell.
 
 ### Felhatalmazás
 
