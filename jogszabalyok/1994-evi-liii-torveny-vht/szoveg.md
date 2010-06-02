@@ -181,7 +181,7 @@ a bírósági végrehajtásról
 
 (2) A 805/2004/EK rendelet szerint európai végrehajtható okiratként hitelesített külföldi közokiratot végrehajtási záradékkal látja el az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti megyei bíróság székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság.
 
-23/C. § (1) Bármely közjegyző végrehajtási záradékkal látja el a közjegyzői okiratot, ha az tartalmazza
+23/C. § (1) Az okiratot készítő közjegyző végrehajtási záradékkal látja el a közjegyzői okiratot, ha az tartalmazza
 
 - a) a szolgáltatásra és ellenszolgáltatásra irányuló vagy egyoldalú kötelezettségvállalást,
 - b) a jogosult és a kötelezett nevét,
@@ -190,11 +190,13 @@ a bírósági végrehajtásról
 
 (2) Ha a kötelezettség feltételnek vagy időpontnak a bekövetkezésétől függ, a végrehajthatósághoz az is szükséges, hogy a feltétel vagy időpont bekövetkezését közokirat tanúsítsa.
 
-(3) Bármely közjegyző végrehajtási záradékkal látja el a zálogszerződésről szóló közokiratot, ha a követelés teljesítési határideje letelt.
+(3) Az okiratot készítő közjegyző végrehajtási záradékkal látja el a zálogszerződésről szóló közokiratot, ha a követelés teljesítési határideje letelt.
 
-(4) Bármely közjegyző végrehajtási záradékkal látja el azt a közokiratot, amely az ingatlan közös tulajdonának árveréssel történő megszüntetésére irányuló szerződésről szól, ha az okirat tartalmazza az ingatlan becsértékét, az árverési feltételeket, továbbá az eljárási költség viselésének és a befolyt vételár felosztásának a módját.
+(4) Az okiratot készítő közjegyző végrehajtási záradékkal látja el azt a közokiratot, amely az ingatlan közös tulajdonának árveréssel történő megszüntetésére irányuló szerződésről szól, ha az okirat tartalmazza az ingatlan becsértékét, az árverési feltételeket, továbbá az eljárási költség viselésének és a befolyt vételár felosztásának a módját.
 
 (5) E § alapján akkor van helye végrehajtásnak, ha a közjegyzői okiratba foglalt követelés bírósági végrehajtási útra tartozik, és ha a követelés teljesítési határideje letelt.
+
+(6) Ha az okiratot készítő közjegyző kizárás vagy egyéb ok miatt nem járhat el, az eljáró közjegyzőt a területi közjegyzői kamara elnöke jelöli ki.
 
 ### Közvetlen bírósági letiltás
 
@@ -297,7 +299,7 @@ a bírósági végrehajtásról
 
 ### A közjegyző által elrendelt végrehajtásra vonatkozó különös rendelkezések
 
-31/E. § (1) Ha a bírósági végrehajtás elrendelésére a közjegyző rendelkezik hatáskörrel [16. § a) és i) pont, 23/C. §], a 6. § (3) bekezdésben, 7., 11–12/A., 18–19/A., 24–27., 29–31., 31/D., 32., 35., 39., 47/A., 49., 50., 56., 80., 89., 172., 179., 180., 186., 190., 200–201/A. és 204/A. §-ban a bíróság alatt a közjegyzőt is érteni kell.
+31/E. § (1) Ha a bírósági végrehajtás elrendelésére a közjegyző rendelkezik hatáskörrel [16. § a) és i) pont, 23/C. §], a 6. § (3) bekezdésben, 7., 11–12/A., 18–19/A., 31/D., 32., 35., 39., 47/A., 49., 50., 56., 89., 172., 179., 180., 186., 189–190., 200–201/A. és 204/B. §-ban a bíróság alatt a közjegyzőt is érteni kell.
 
 (2) A közjegyző eljárása – mint polgári nemperes eljárás – a bíróság eljárásával azonos hatályú. A közjegyző által hozott határozat a helyi bíróság határozatával azonos hatályú.
 
@@ -2154,7 +2156,7 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 ### A végrehajtás elrendelése
 
-204/B. § A bíróság a zálogjogosult kérelmére a zálogszerződésről szóló közokiratot akként látja el végrehajtási záradékkal [22. § c) pont], hogy a zálogtárgy egyszerűsített végrehajtási értékesítésével rendeli el a zálogjoggal biztosított pénzkövetelés végrehajtását, ha
+204/B. § A bíróság a zálogjogosult kérelmére a zálogszerződésről szóló közokiratot akként látja el végrehajtási záradékkal [23/C. § (3) bekezdés], hogy a zálogtárgy egyszerűsített végrehajtási értékesítésével rendeli el a zálogjoggal biztosított pénzkövetelés végrehajtását, ha
 
 - a) a zálogjogosult a zálogkötelezettel a Ptk. 257. §-ának (4) bekezdése szerint megállapodott a zálogtárgy egyszerűsített végrehajtási értékesítésében;
 - b) a zálogjogosult a zálogkötelezettel a Ptk. 257. §-ának (2)–(3) bekezdése szerinti értékesítésben állapodott meg, és a zálogtárgynak a zálogjogosult vagy megbízottja általi értékesítésére meghatározott határidő még nem telt le.
