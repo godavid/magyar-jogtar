@@ -63,13 +63,13 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 ### A települési önkormányzat feladata, hatásköre, szervei
 
-8. § (1) A települési önkormányzat feladata a helyi közszolgáltatások körében különösen: a településfejlesztés, a településrendezés, az épített és természeti környezet védelme, a lakásgazdálkodás, a vízrendezés és a csapadékvíz elvezetés, a csatornázás, a köztemető fenntartása, a helyi közutak és közterületek fenntartása, helyi tömegközlekedés, köztisztaság és a településtisztaság biztosítása; gondoskodás a helyi tűzvédelemről, közbiztonság helyi feladatairól; közreműködés a helyi energiaszolgáltatásban, a foglalkoztatás megoldásában; az óvodáról, az alapfokú nevelésről, oktatásról, az egészségügyi, a szociális ellátásról valamint a gyermek és ifjúsági feladatokról való gondoskodás; a közösségi tér biztosítása; közművelődési, tudományos, művészeti tevékenység, sport támogatása; a nemzeti és etnikai kisebbségek jogai érvényesítésének a biztosítása; az egészséges életmód közösségi feltételeinek elősegítése.
+8. § (1) A települési önkormányzat feladata a helyi közszolgáltatások körében különösen: a településfejlesztés, a településrendezés, az épített és természeti környezet védelme, a lakásgazdálkodás, a vízrendezés és vízelvezetés, csatornázás, köztemető fenntartása, a helyi közutak és közterületek fenntartása, a helyi közutakon, a helyi önkormányzat tulajdonában álló közforgalom elöl el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületeken közúti járművel történő várakozás (parkolás) biztosítása, helyi tömegközlekedés, a köztisztaság és településtisztaság biztosítása; gondoskodás a helyi tűzvédelemről, közbiztonság helyi feladatairól; közreműködés a helyi energiaszolgáltatásban, a foglalkoztatás megoldásában; az óvodáról, az alapfokú nevelésről, oktatásról, az egészségügyi, a szociális ellátásáról, valamint a gyermek és ifjúsági feladatokról való gondoskodás; a közösségi tér biztosítása; közművelődési, tudományos, művészeti tevékenység, sport támogatása; a nemzeti és etnikai kisebbségek jogai érvényesítésének biztosítása; az egészséges életmód közösségi feltételeinek elősegítése.
 
 (2) Az (1) bekezdésben foglalt feladatokban a települési önkormányzat maga határozza meg — a lakosság igényei alapján, anyagi lehetőségeitől függően —, mely feladatokat, milyen mértékben és módon lát el.
 
 (3) Törvény a települési önkormányzatokat kötelezheti arra, hogy egyes közszolgáltatásokról és közhatalmi helyi feladatok ellátásáról gondoskodjanak. E kötelezettségek a település nagyságától, a lakosságszámtól, és egyéb feltételektől függően eltérően is megállapíthatók.
 
-(4) A települési önkormányzat köteles gondoskodni az egészséges ivóvízellátásról, az az óvodai nevelésről, az általános iskolai oktatásról és nevelésről, az egészségügyi és a szociális alapellátásról, a közvilágításról, a helyi közutak és a köztemető fenntartásáról; köteles biztosítani a nemzeti és etnikai kisebbségek jogainak érvényesülését.
+(4) A települési önkormányzat köteles gondoskodni az egészséges ivóvíz ellátásáról, az óvodai nevelésről, az általános iskolai oktatásról és nevelésről, az egészségügyi és a szociális alapellátásról, a közvilágításról, a helyi közutak és a köztemető fenntartásáról, a helyi közutakon, a helyi önkormányzat tulajdonában álló közforgalom elöl el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületeken közúti járművel történő várakozás (parkolás) biztosításáról; köteles biztosítani a nemzeti és az etnikai kisebbségek jogainak érvényesülését.
 
 (5) A települési önkormányzat a feladatai körében támogatja a lakosság önszerveződő közösségeinek a tevékenységét, együttműködik e közösségekkel. A képviselő-testület a szervezeti és működési szabályzatában határozza meg, mely önszerveződő közösségek képviselőit illeti meg tevékenységi körében tanácskozási jog a képviselő-testület és bizottsága ülésein.
 
@@ -80,6 +80,8 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 (3) A képviselő-testület egyes hatásköreit a polgármesterre, a bizottságaira, a részönkormányzat testületére, a kisebbségi önkormányzat testületére, törvényben meghatározottak szerint társulására ruházhatja. E hatáskör gyakorlásához utasítást adhat, e hatáskört visszavonhatja. Az átruházott hatáskör tovább nem ruházható.
 
 (4) A képviselő-testület a feladatkörébe tartozó közszolgáltatások céljából önkormányzati intézményt, vállalatot, más szervezetet (a továbbiakban együtt: intézmény) alapíthat, kinevezi a vezetőiket.
+
+(5) A 8. § (4) bekezdés szerinti helyi közutakon, a helyi önkormányzat tulajdonában álló közforgalom elöl el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületeken közúti járművel történő várakozási (parkolási) közszolgáltatást a helyi önkormányzat, vagy kizárólag ezen közszolgáltatási feladat ellátására alapított költségvetési szerv, kizárólagos önkormányzati tulajdonban álló, jogi személyiséggel rendelkező gazdasági társaság, vagy e gazdasági társaság 100%-os tulajdonában álló jogi személyiséggel rendelkező gazdasági társaság, illetve önkormányzati társulás láthatja el külön törvényben szabályozottak szerint.
 
 10. § (1) A képviselő-testület hatásköréből nem ruházható át:
 
@@ -522,7 +524,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 ### A helyi önkormányzati feladat- és hatáskörökneka fővárosi és a kerületi önkormányzatok közötti megosztása
 
-63. § (1) A főváros és a fővárosi kerület törvényben meghatározott önálló feladat- és hatáskörű települési önkormányzat. A fővárosi kerületi önkormányzat — törvény keretei között — önállóan gyakorolja a települési önkormányzatokat megillető feladat- és hatásköröket. A kerületi önkormányzat működési területén köteles gondoskodni az óvodai nevelésről, az általános iskolai nevelésről és oktatásról, egészségügyi és a szociális alapellátásról, valamint feladatkörében az egészséges ivóvízellátásról, a helyi közutak fenntartásáról, a nemzeti és etnikai kisebbségek jogainak érvényesüléséről.
+63. § (1) A főváros és a fővárosi kerület törvényben meghatározott önálló feladat- és hatáskörű települési önkormányzat. A kerületi önkormányzat működési területén köteles gondoskodni az óvodai nevelésről, az általános iskolai nevelésről és oktatásról, egészségügyi és szociális alapellátásról, valamint feladatkörében az egészséges ivóvízellátásról, a helyi közutak fenntartásáról, a helyi közutakon, a helyi önkormányzat tulajdonában álló közforgalom elöl el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületeken közúti járművel történő várakozás (parkolás) biztosításáról, a nemzeti és etnikai kisebbségek jogainak érvényesüléséről.
 
 (2) A fővárosi önkormányzat ellátja azokat a kötelező és önként vállalt helyi, települési önkormányzati feladat- és hatásköröket, melyek a főváros egészét vagy egy kerületet meghaladó részét érintik, valamint amelyek a fővárosnak az országban betöltött különleges szerepköréhez kapcsolódnak, e körben rendeletalkotási jog illeti meg. Az önkormányzati feladat- és hatáskört megállapító törvény — az (1) bekezdésnek megfelelően — meghatározza, hogy az a fővárosban a fővárosi, illetve a kerületi önkormányzat feladata, hatásköre.
 
@@ -549,7 +551,10 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 - m) közreműködik a foglalkoztatási gondok megoldásában;
 - n) gondoskodik az egynél több kerületet, illetőleg a főváros területét is meghaladó ellátási kötelezettség körében: a középiskolai, a szakiskolai és a kollégiumi ellátásról, ha a feladat ellátását a kerületi önkormányzat nem vállalja; a művészeti, közművelődési, a közgyűjteményi feladatok ellátásáról; az alapellátást meghaladó egészségügyi szakellátásról és szakosított szociális ellátásról; a gyermek- és ifjúságvédelmi tevékenység biztosításáról, fejlesztéséről; a testnevelési, sportszervezési és ifjúsági feladatokról; részt vesz az egynél több kerületet érintő közoktatási, közművelődési, tudományos, művészeti, sport-, valamint gyermek- és ifjúsági tevékenység összehangolásában;
 - o) gondoskodik az egynél több kerületet, illetőleg a főváros területét meghaladó, a nemzeti és etnikai kisebbségi oktatási, nevelési és kulturális feladatok ellátásáról;
-- p) fővárosi információs rendszert működtet.
+- p) fővárosi információs rendszert működtet,
+- q) külön törvény felhatalmazása alapján rendeletében szabályozza a főváros várakozási (parkolási) és parkolásgazdálkodási rendszerét, a kiemelten védett és védett várakozási (parkolási) övezeteket, és az alkalmazható várakozási díjak megállapítását,
+- r) rendeletében szabályozza a közterülethasználatot és a közterület rendjét,
+- s) rendeletében szabályozza a közterületfelügyelet szervezetét és feladatait.
 
 ### A fővárosi önkormányzatok társulásai
 
@@ -688,7 +693,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 (2) Az (1) bekezdés rendelkezéseit értelemszerűen alkalmazni kell, ha a vagyont (vagyonrészt) törvény alapján a 68/A. § (2) bekezdésében említett szerv használja.
 
-68/D. § A fővárosban a helyi közutak és műtárgyaik, a terek, parkok tulajdonjogát a fővárosi és a kerületi önkormányzatok egymásra átruházhatják.
+68/D. § A fővárosban a helyi közutak és műtárgyaik, a terek, a parkok, és a 9. § (5) bekezdés szerinti gazdasági társaságban a helyi önkormányzat tulajdoni részesedésének tulajdonjogát a fővárosi és a kerületi önkormányzatok egymásra átruházhatják.
 
 ### VIII. Fejezet — A MEGYEI ÖNKORMÁNYZAT
 
@@ -760,7 +765,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 (2) A törzsvagyon körébe tartozó tulajdon vagy forgalomképtelen, vagy korlátozottan forgalomképes:
 
-- a) forgalomképtelenek a helyi közutak és műtárgyaik, a terek, parkok — a 68/D. §-ban foglalt kivétellel — és minden más ingatlan és ingó dolog, amelyet törvény vagy a helyi önkormányzat forgalomképtelennek nyilvánít;
+- a) forgalomképtelen a helyi közutak és műtárgyaik, a terek, a parkok, a helyi önkormányzat kizárólagos tulajdonában álló 9. § (5) bekezdés szerinti gazdasági társaságban fennálló részesedés – a 68/D. §-ban foglalt kivétellel – és minden más ingatlan és ingó dolog, amelyet törvény vagy a helyi önkormányzat forgalomképtelennek nyilvánít. A helyi önkormányzat tulajdonában álló forgalomképtelen törzsvagyon birtokát, használatát, hasznai szedésének jogát a helyi önkormányzat – törvényben szabályozott módon – másnak átengedheti;
 - b) korlátozottan forgalomképesek a közművek, intézmények és középületek, továbbá a helyi önkormányzat által meghatározott ingatlanok és ingók. A törzsvagyon k orlátozottan forgalomképes tárgyairól törvény vagy a helyi önkormányzat rendeletében meghatározott feltételek szerint lehet rendelkezni.
 
 80. § (1) A helyi önkormányzatot — e törvényben meghatározott eltérésekkel — megilletik mindazok a jogok és terhelik mindazok a kötelezettségek, amelyek a tulajdonost megilletik, illetőleg terhelik. A tulajdonost megillető jogok gyakorlásáról a képviselő-testület rendelkezik.
