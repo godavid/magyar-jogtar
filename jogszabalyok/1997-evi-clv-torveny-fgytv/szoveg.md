@@ -32,8 +32,8 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - l) áru: a termék, az ingatlan és a vagyoni értékű jog, valamint a szolgáltatás,
 - m) eladási ár: a termék egy egységére vagy adott mennyiségére vonatkozó ár,
 - n) egységár: a termék egy kilogrammjára, egy literére vagy milliliterére, egy méterére, egy négyzetméterére vagy egy köbméterére vonatkozó ár,
-- o) fogyasztási kölcsön: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény hatálya alá nem tartozó minden olyan kölcsön, részletfizetés vagy halasztott fizetés, amelyet vállalkozás fogyasztó részére nyújt az általa forgalmazott termék vagy ingatlan megvételéhez, illetve az általa nyújtott szolgáltatás igénybevételéhez,
-- p) fogyasztási kölcsönszerződés: a fogyasztási kölcsön igénybevételére irányuló szerződés,
+- o)
+- p)
 - q) kereskedelmi kommunikáció: a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben ekként meghatározott fogalom,
 - r) forgalmazás: valamely termék vállalkozás által – értékesítés, fogyasztás vagy használat céljára ellenérték fejében vagy ingyenesen – történő rendelkezésre bocsátása, ideértve a fogyasztó számára történő felkínálást is,
 - s) forgalomból történő kivonás: olyan intézkedés, amelynek célja a nem biztonságos termék forgalmazásának, bemutatásának, illetve a fogyasztó számára történő felajánlásának megakadályozása,
@@ -98,44 +98,13 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - b) a 2. § c) pontjában meghatározottakon túlmenően gyártó az értékesítési láncban részt vevő valamennyi egyéb olyan vállalkozás, amelynek a tevékenysége a termék biztonságosságát befolyásolhatja,
 - c) a 2. § d) pontjától eltérően forgalmazó az értékesítési láncban részt vevő valamennyi vállalkozás, feltéve, hogy tevékenysége a termék biztonsági jellemzőit nem befolyásolja.
 
-### III. Fejezet — Fogyasztási kölcsön
+### III. Fejezet
 
 6. §
 
-7. § (1) A fogyasztási kölcsönszerződés érvényességéhez a szerződés írásba foglalása és egy példányának a fogyasztó részére történő átadása szükséges.
+7. §
 
-(2) Semmis az a fogyasztási kölcsönszerződés, amely nem tartalmazza
-
-- a) a szerződés tárgyát képező termék vagy ingatlan meghatározását,
-- b) a szerződés alapján fizetendő ár meghatározását,
-- c) a tulajdonjog átszállásának időpontját és feltételeit,
-- d) a szerződéssel kapcsolatos összes költséget, ideértve a kamatokat, járulékokat, valamint ezek éves, százalékban kifejezett értékét,
-- e) az éves, százalékban kifejezett teljes hiteldíjmutatót,
-- f) az éves, százalékban kifejezett teljes hiteldíjmutató módosításának feltételeit, vagy ha ez nem lehetséges, az erről szóló tájékoztatást,
-- g) a részletek számát, összegét, a törlesztési időpontokat,
-- h) ha a termék vagy az ingatlan ára a szerződés időtartama alatt változhat, a változás feltételeit, illetve azt az összeget, melynek elérése esetén a fogyasztó hátrányos következmények nélkül elállhat a szerződéstől.
-
-(3) A (2) bekezdés e) pontja szerinti éves, százalékban kifejezett teljes hiteldíjmutató összegét a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény, valamint a teljes hiteldíjmutató számítására és közzétételére vonatkozó rendelkezések alapján kell kiszámítani.
-
-(4) A fogyasztási kölcsönszerződésre vonatkozó szabályoktól a fogyasztó hátrányára eltérő szerződési kikötés semmis.
-
-(5) A szerződés semmisségére csak a fogyasztó érdekében lehet hivatkozni.
-
-(6) A vállalkozás köteles a fogyasztót a fogyasztási kölcsönszerződés megkötésekor minden olyan szerződési feltételről tájékoztatni, amely jogszabály alapján válik a szerződés részévé.
-
-(7) Ha a fogyasztási kölcsönt nyújtó vállalkozás, illetve a vállalkozás által nyújtott fogyasztási kölcsönt közvetítő harmadik személy kereskedelmi kommunikációjában szerepel a fogyasztási kölcsön kamata, bármilyen költsége vagy törlesztőrészlete, vagy ezekkel összefüggésbe hozható bármely utalás, közvetlenül ezt követően a (2) bekezdés e) pontja szerinti éves, százalékban kifejezett teljes hiteldíjmutatót is fel kell tüntetni legalább ugyanakkora méretben és megegyező megjelenítésben, illetőleg jól érthetően el kell hangoznia.
-
-(8)
-
-7/A. § (1) Fogyasztási kölcsönszerződés esetében a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 329. §-ában foglaltaktól a fogyasztó hátrányára eltérni nem lehet.
-
-(2) A fogyasztó nem kötelezhető arra, hogy a vállalkozásnak a fogyasztási kölcsönszerződésből származó követelései ellenében váltókötelezettséget vállaljon.
-
-(3) A vállalkozás a fogyasztási kölcsönszerződésből származó követelése biztosítására csekket a fogyasztótól nem fogadhat el.
-
-(4) A fogyasztó bármikor követelheti a vállalkozástól az olyan váltó vagy csekk visszaadását, amelyet a (2) vagy (3) bekezdéssel ellentétben bocsátott ki.
-
-(5) A vállalkozás felel minden olyan kárért, amely a fogyasztót a (2) vagy (3) bekezdéssel ellentétes váltó- vagy csekk-kibocsátással összefüggésben érte.
+7/A. §
 
 ### IV. Fejezet — A forgalmazással, illetve a szolgáltatásnyújtással összefüggő különös követelmények
 
@@ -910,7 +879,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 57. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) a Tanács 90/88/EGK irányelvével módosított 87/102/EGK irányelve (1986. december 22.) a fogyasztói hitelre vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről [a 2. § o) pontja és a 7–7/A. §];
+- a)
 - b) az Európai Parlament és a Tanács 98/6/EK irányelve (1998. február 16.) a fogyasztók számára kínált termékek árának feltüntetésével kapcsolatos fogyasztóvédelemről [a 2. § m) és n) pontja, a 14. § (1)–(3), (5) és (6) bek., az 56/A. § (5) bekezdésében adott felhatalmazás alapján megalkotott miniszteri rendelettel együtt];
 - c) az Európai Parlament és a Tanács 2009/22/EK irányelve (2009. április 23.) a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról [a 39. § (3) és (5) bekezdése, a 46. § (2) bekezdés b) pontja, a 47. § (1) bekezdés a) és b) pontja, a 49. § (1) bekezdése, az 51. § (2)–(4) bekezdése, a fogyasztóvédelmi hatóság eljárásában];
 - d) az Európai Parlament és a Tanács 2001/95/EK irányelve (2001. december 3.) az általános termékbiztonságról [a 2. § c) és s)–u) pontja és a 3–5. §, a törvény végrehajtására az 55. § (1) bek. a) pontjában adott felhatalmazás alapján megalkotott kormányrendelettel együtt];
