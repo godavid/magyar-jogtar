@@ -46,7 +46,7 @@ Mindezek érdekében az Országgyűlés – az Európai Unió joganyagával öss
 
 (6) A Felügyelet tagja a 2009/77/EK bizottsági határozattal létrehozott Európai Értékpapír-piaci Szabályozók Bizottságának, a 2009/78/EK bizottsági határozattal létrehozott Európai Bankfelügyelők Bizottságának és a 2009/79/EK bizottsági határozattal létrehozott Európai Biztosítás és a Foglalkoztatói-nyugdíj Felügyeletek Bizottságának.
 
-4. § Ha törvény eltérően nem rendelkezik, a Felügyelet látja el
+4. § (1) Ha törvény eltérően nem rendelkezik, a Felügyelet látja el
 
 - a) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény,
 - b) a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény,
@@ -67,9 +67,11 @@ Mindezek érdekében az Országgyűlés – az Európai Unió joganyagával öss
 
 hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.
 
+(2) A Felügyelet látja el a kereskedelmi kölcsönt nyújtó hitelező felügyeletét a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény hatálya alá tartozó tevékenysége tekintetében.
+
 5. § (1) A Felügyelet látja el a feladatkörében a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását
 
-- a) a fogyasztói hitelre vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről szóló – a 90/88/EGK tanácsi irányelvvel, továbbá a 98/7/EK európai parlamenti és tanácsi irányelvvel módosított – 87/102/EGK tanácsi irányelvet,
+- a) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2008/48/EK európai parlamenti és tanácsi irányelvet,
 - b) a fogyasztókkal kötött szerződésekben alkalmazott tisztességtelen feltételekről szóló 93/13/EGK tanácsi irányelvet,
 - c) a fogyasztói pénzügyi szolgáltatások távértékesítéssel történő forgalmazásáról szóló 2002/65/EK európai parlamenti és tanácsi irányelvet, valamint
 - d) – az általa felügyelt tevékenységekkel összefüggő kereskedelmi gyakorlatok tekintetében – a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól szóló 2005/29/EK európai parlamenti és tanácsi irányelvet
@@ -127,7 +129,8 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 - n) a 2. § (3) bekezdés szerinti kockázati jelentést,
 - o) a 15. § (5) bekezdés szerinti összefoglalót,
 - p) a 44/C. §-ban meghatározott határozat meghozatalával egyidejűleg a tevékenység végzésével kapcsolatos azon kockázatokat, amelyek a pénzügyi közvetítőrendszer stabilitását veszélyeztetik,
-- q) azon információkat, amelyek nyilvánosságra hozatalát jogszabály elrendeli.
+- q) azon – az Európai Unió kötelező jogi aktusának átültetése céljából elfogadott – jogszabályi rendelkezések felsorolását, amelyek alapján a fogyasztó a termék értékesítésére vagy szolgáltatás nyújtására vonatkozó szerződéstől elállhat,
+- r) azon információkat, amelyek nyilvánosságra hozatalát jogszabály elrendeli.
 
 (2) A Felügyelet az (1) bekezdés g) pontja szerinti közzétételi kötelezettségének legalább féléves gyakorisággal tesz eleget.
 

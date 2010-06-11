@@ -47,6 +47,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - e)
 - f)
 - g) a 130/A–130/D. §, a 130/H–130/O. §, a 2. számú melléklet V. fejezete és a 3. számú melléklet II. fejezetének 1.1–1.3 pontja kivételével a külön jogszabály alapján létrehozott Diákhitel Központra,
+- h) a 130/A–130/D. §, a 130/H–130/O. §, a 2. melléklet V. fejezete és a 3. melléklet II. fejezetének 1.1–1.3 pontja kivételével kereskedelmi kölcsönt nyújtó hitelezőre.
 
 (3) E törvény hatálya a Magyar Nemzeti Bankra (a továbbiakban: MNB) kizárólag az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatások engedélyezése, valamint az engedélyek visszavonása, továbbá azon rendelkezések tekintetében terjed ki, ahol e törvény az MNB-t kifejezetten nevesíti.
 
@@ -192,7 +193,7 @@ végezhet.
 - c) a kölcsön futamideje legfeljebb tizenkét hónap, és
 - d) a pénzforgalmi intézmény szavatoló tőkéje megfelel az e törvényben meghatározott követelményeknek.
 
-(2) A pénzforgalmi intézmény hitelnyújtására a 201–214/C. § rendelkezései megfelelően alkalmazandóak.
+(2) A pénzforgalmi intézmény hitelnyújtására a 199. §, a 201–211. § és a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény rendelkezései megfelelően alkalmazandóak.
 
 ### Közvetítő
 
@@ -1135,12 +1136,11 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 (3) Ha a Felügyelet rendelkezésére álló információk szerint a bejelentő pénzforgalmi intézmény megfelel az e törvényben meghatározott követelményeknek, a bejelentés kézhezvételét követő egy hónapon belül írásban tájékoztatja az érintett Európai Unió másik tagállamának illetékes felügyeleti hatóságát a pénzforgalmi intézmény nevéről, címéről.
 
-32/G. § Ha az Európai Unió másik tagállamának illetékes felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy a székhelyén bejegyzett hitelintézet Magyarországon fióktelepet nyit, illetve határon átnyúló szolgáltatást végez, a Felügyelet tájékoztatja a hitelintézetet az ügyfelek védelmére vonatkozóan a XXIX. fejezetben meghatározott rendelkezésekről, így különösen
+32/G. § Ha az Európai Unió másik tagállamának illetékes felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy a székhelyén bejegyzett hitelintézet Magyarországon fióktelepet nyit, illetve határon átnyúló szolgáltatást végez, a Felügyelet tájékoztatja a hitelintézetet az ügyfelek védelmére vonatkozó rendelkezésekről, így különösen
 
-- a) a reklámtevékenységre vonatkozó különös szabályokról,
-- b) az ügyfelek, valamint a betétesek magyar nyelven történő tájékoztatásáról,
-- c) az üzletszabályzat követelményéről, valamint
-- d) a fogyasztási kölcsön nyújtásának szabályáról.
+- a) az ügyfelekkel szembeni tájékoztatási kötelezettségekről,
+- b) az üzletszabályzat követelményéről, valamint
+- c) egyes pénzügyi szolgáltatások nyújtásának különös szabályairól.
 
 32/H. § (1) Ha az Európai Unió másik tagállamának illetékes felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy székhelye szerinti tagállamban engedélyezett pénzforgalmi intézmény Magyarországon fióktelepet szándékozik létesíteni, határon átnyúló szolgáltatást szándékozik végezni, akkor a Felügyelet tájékoztatja a pénzforgalmi intézményt a folytatni kívánt tevékenység végzésével kapcsolatos feltételekről, így különösen az ügyfelek előzetes és utólagos tájékoztatásának és a pénzforgalmi szolgáltatás lebonyolításának szabályairól.
 
@@ -1607,7 +1607,7 @@ van összefüggésben.
 
 a belső szabályzatban meghatározott mértékig.
 
-(3) A hitelintézet az (1) bekezdésben meghatározott személy részére, csak az igazgatóság jelen lévő tagjainak több mint kétharmados többséggel hozott döntése alapján – az igazgatóság által jóváhagyott szabályzat szerint – a (2) bekezdésben meghatározottakon túlmenően kizárólag lakossági kölcsönt nyújthat, amelyekről elkülönített nyilvántartást vezet. Fióktelep formájában működő hitelintézet esetében a belső hitelnek minősülő lakossági kölcsön nyújtása során a vezető állású személyek egyhangú döntése szükséges. A hitelintézet igazgatósága, illetve a fióktelep vezető állású személyei által hozott döntésnek tartalmazni kell a kamat és a törlesztés feltételeit is.
+(3) A hitelintézet az (1) bekezdésben meghatározott személy részére csak az igazgatóság jelen lévő tagjainak több mint kétharmados többséggel hozott döntése alapján – az igazgatóság által jóváhagyott szabályzat szerint – a (2) bekezdésben meghatározottakon túlmenően kizárólag fogyasztónak nyújtott hitelt nyújthat, amelyekről elkülönített nyilvántartást vezet. Fióktelep formájában működő hitelintézet esetében a belső hitelnek minősülő fogyasztónak nyújtott hitel esetén a vezető állású személyek egyhangú döntése szükséges. A hitelintézet igazgatósága, illetve a fióktelep vezető állású személyei által hozott döntésnek tartalmaznia kell a kamat és a törlesztés feltételeit is.
 
 ### Kapcsolódó hitel
 
@@ -3288,7 +3288,7 @@ megküldésével be kell jelenteni a Felügyeletnek.
 
 (3) A KHR-t kezelő pénzügyi vállalkozás kizárólag a referenciaadat-szolgáltató által átadott referenciaadatot veheti át, és kizárólag az általa kezelt referenciaadatot adhatja át a referenciaadat-szolgáltatónak.
 
-(4) Az adatkérési igényben megjelölt, – a 2. számú melléklet V. fejezetének 1. pontjában meghatározott – nyilvántartottra vonatkozó referenciaadaton kívül a KHR-ből a referenciaadat-szolgáltató részére egyéb adat nem adható át. Természetes személy referenciaadataira vonatkozó adatkérési igény kizárólag a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt pénzügyi szolgáltatásra irányuló szerződés vagy a Bszt.-ben meghatározott befektetési hitel nyújtására, illetőleg a Tpt.-ben meghatározott értékpapír-kölcsönzésre vonatkozó szerződés megkötését megalapozó döntés meghozatalához vagy a 130/J. § (3) bekezdése szerinti tájékoztatás megadásának céljára használható fel.
+(4) Az adatkérési igényben megjelölt, – a 2. számú melléklet V. fejezetének 1. pontjában meghatározott – nyilvántartottra vonatkozó referenciaadaton kívül a KHR-ből a referenciaadat-szolgáltató részére egyéb adat nem adható át. Természetes személy referenciaadataira vonatkozó adatkérési igény kizárólag a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt pénzügyi szolgáltatásra irányuló szerződés, vagy a kereskedelmi kölcsön nyújtására irányuló szerződés, vagy a Bszt.-ben meghatározott befektetési hitel nyújtására, illetőleg a Tpt.-ben meghatározott értékpapír-kölcsönzésre vonatkozó szerződés megkötését megalapozó döntés meghozatalához vagy a 130/J. § (3) bekezdése szerinti tájékoztatás megadásának céljára használható fel.
 
 (5) A KHR-ből a Diákhitel Központ részére – a 130/J. § (4) bekezdésében foglaltakon kívül – referenciaadat nem adható át.
 
@@ -3299,6 +3299,16 @@ megküldésével be kell jelenteni a Felügyeletnek.
 (8) A KHR-t kezelő pénzügyi vállalkozás felelős a referenciaadatok teljes körű és naprakész nyilvántartásáért, az adatbázis teljességéért és folyamatos fenntartásáért.
 
 (9) A referenciaadat-szolgáltató haladéktalanul köteles az általa kezelt referenciaadatokat a KHR-t kezelő pénzügyi vállalkozás részére átadni. A referenciaadat-szolgáltató adatátadási kötelezettsége a már átadott referenciaadatok módosulása esetén is fennáll, ha azokról tudomása van.
+
+(10) A KHR-t kezelő pénzügyi vállalkozás megkülönböztetésmentesen köteles biztosítani a KHR-hez történő csatlakozás lehetőségét a kereskedelmi kölcsönt nyújtó hitelező számára, valamint az Európai Unió másik tagállamában székhellyel rendelkező hitelező (a továbbiakban: más tagállambeli hitelező) számára, ha Magyarországon határon átnyúló szolgáltatást végez.
+
+(11) Más tagállambeli hitelező részére kizárólag a határon átnyúló tevékenysége vonatkozásában, a KHR-t kezelő pénzügyi vállalkozás a KHR-ben kezelt adatot csak akkor továbbíthat, ha:
+
+- a) ezt a más tagállambeli hitelező a KHR-hez történő csatlakozásról szóló írásbeli nyilatkozattal kérelmezi,
+- b) a csatlakozási nyilatkozatban kötelezettséget vállal arra, hogy a KHR-t kezelő pénzügyi vállalkozástól igényelt adatokat kizárólag az e törvényben meghatározottaknak megfelelően használja fel és
+- c) írásban nyilatkozik arról, hogy mind az ügyfél, mind a KHR-t kezelő pénzügyi vállalkozás tekintetében az e törvényben a referenciaadat-szolgáltatóra meghatározott szabályoknak megfelelően jár el és teljesíti a tájékoztatási, adatátadási és egyéb kötelezettségeket.
+
+(12) Más tagállambeli hitelező KHR részére teljesítendő adatátadási kötelezettsége a határon átnyúló szolgáltatást igénybevevő nyilvántartottnak a határon átnyúló szolgáltatással összefüggő a 3. sz. mellékletben meghatározott adataira terjed ki.
 
 130/B. § (1) A KHR kezelésére engedélyt az kaphat, aki a 17. §-ban foglalt feltételeken túl az alábbi feltételeknek is megfelel:
 
@@ -3331,11 +3341,11 @@ megküldésével be kell jelenteni a Felügyeletnek.
 
 ### A KHR-be történő adatátadás és a KHR-ben történő adatkezelés szabályai
 
-130/C. § (1) A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a természetes személynek a 3. számú melléklet II. fejezetének 1.1–1.2 pontja szerinti referenciaadatait, aki a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt pénzügyi szolgáltatásra vonatkozó szerződésben, valamint a külön jogszabályban meghatározott hallgatói hitelszerződésben vállalt fizetési kötelezettségének oly módon nem tesz eleget, hogy a lejárt és meg nem fizetett tartozásának összege meghaladja a késedelembe esés időpontjában érvényes legkisebb összegű havi minimálbért és ezen minimálbérösszeget meghaladó késedelem folyamatosan, több mint kilencven napon keresztül fennállt.
+130/C. § (1) A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a természetes személynek a 3. számú melléklet II. fejezetének 1.1–1.2 pontja szerinti referenciaadatait, aki a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt pénzügyi szolgáltatásra vonatkozó szerződésben, kereskedelmi kölcsönszerződésben, valamint a külön jogszabályban meghatározott hallgatói hitelszerződésben vállalt fizetési kötelezettségének oly módon nem tesz eleget, hogy a lejárt és meg nem fizetett tartozásának összege meghaladja a késedelembe esés időpontjában érvényes legkisebb összegű havi minimálbért és ezen minimálbérösszeget meghaladó késedelem folyamatosan, több mint kilencven napon keresztül fennállt.
 
 (2) Ugyanazon személy (1) bekezdés szerinti szerződésszegését több jogviszony egyidejű fennállása esetén jogviszonyonként külön-külön kell figyelembe venni.
 
-130/D. § A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a természetes személynek a 3. számú melléklet II. fejezetének 1.1 és 1.3 pontja szerinti referenciaadatait, aki a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt pénzügyi szolgáltatásra vonatkozó szerződés, valamint a külön jogszabályban meghatározott hallgatói hitelszerződés megkötésének kezdeményezése során valótlan adatot közöl, hamis vagy hamisított okiratot használ, ha mindez okirattal bizonyítható.
+130/D. § A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a természetes személynek a 3. számú melléklet II. fejezetének 1.1 és 1.3 pontja szerinti referenciaadatait, aki a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt pénzügyi szolgáltatásra vonatkozó szerződés, a kereskedelmi kölcsönszerződés, valamint a külön jogszabályban meghatározott hallgatói hitelszerződés megkötésének kezdeményezése során valótlan adatot közöl, hamis vagy hamisított okiratot használ, ha mindez okirattal bizonyítható.
 
 130/E. § A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a természetes személynek a 3. számú melléklet II. fejezetének 1.1 és 1.4 pontja szerinti referenciaadatait,
 
@@ -4340,7 +4350,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 - g) a betét biztosítottságára vonatkozó információt,
 - h) névre szóló betét esetében a hitelintézet által nyilvántartott személyi azonosító adatok körét.
 
-209. § A bankhitel- és a bankkölcsönügylet általános szerződési feltételeit magában foglaló üzletszabályzatnak tartalmaznia kell legalább
+209. § A hitel- és a kölcsönszerződés általános szerződési feltételeit magában foglaló üzletszabályzatnak tartalmaznia kell legalább
 
 - a) a hitelintézet teljes nevét, a tevékenységi engedély számát és dátumát,
 - b) azt, hogy változtatható-e, és ha igen, milyen módon a kamat,
@@ -4388,49 +4398,19 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (3) Az értékpapírszerű formában kiállított betétokiraton feltűnően fel kell tüntetni, hogy az alapjául szolgáló szerződés takarékbetét szerződés.
 
-### Fogyasztási kölcsön
-
-212. § (1) A fogyasztási, lakossági kölcsönszerződésnek tartalmaznia kell a külön jogszabály alapján megállapított éves százalékban kifejezett teljes hiteldíjmutatót.
-
-(2) A teljes hiteldíj a fogyasztó által a kölcsönért fizetendő terhelés, amely tartalmazza a kamatokat, folyósítási jutalékokat és minden egyéb – a kölcsön felhasználásával kapcsolatosan fizetendő – költséget.
-
-(3) A teljes hiteldíjmutató az a belső kamatláb, amely mellett az ügyfél által visszafizetendő tőke és teljes hiteldíj egyenlő az ügyfél által a folyósításkor a pénzügyi intézménynek fizetett költségekkel csökkentett hitelösszeggel.
-
-213. § (1) Semmis az a fogyasztási, lakossági kölcsönszerződés, amelyik nem tartalmazza
-
-- a) a szerződés tárgyát,
-- b) az éves, százalékban kifejezett teljes hiteldíjmutatót, a hiteldíjmutató számítása során figyelembe nem vett egyéb – esetleges – költségek meghatározását és összegét, vagy ha az ilyen költségek pontosan nem határozhatók meg, az ezekre vonatkozó becslést,
-- c) a szerződéssel kapcsolatos összes költséget, ideértve a kamatokat, járulékokat, valamint ezek éves, százalékban kifejezett értékét,
-- d) azon feltételeknek, illetőleg körülményeknek a részletes meghatározását, amelyek esetében a hiteldíj megváltoztatható,
-- e) a törlesztő részletek számát, összegét, a törlesztési időpontokat,
-- f) a szükséges biztosítékok meghatározását, valamint
-- g) a szerződéshez kapcsolódóan a fogyasztótól megkövetelt biztosítások megjelölését.
-
-(2) A fogyasztási kölcsönszerződésre vonatkozó szabályoktól a fogyasztó hátrányára eltérő szerződési kikötés semmis.
-
-(3) A szerződés semmisségére csak a fogyasztó érdekében lehet hivatkozni.
-
-(4) A hitelező köteles a fogyasztót a fogyasztási kölcsönszerződés megkötésekor minden olyan szerződési feltételről tájékoztatni, amely jogszabály alapján válik a szerződés részévé.
+212–213. §
 
 214. §
 
 214/A. §
 
-214/B. § Fogyasztási kölcsönszerződés esetén a Ptk. 329. §-ában foglaltaktól a fogyasztó hátrányára eltérni nem lehet.
+214/B. §
 
-214/C. § (1) A fogyasztó nem kötelezhető arra, hogy a hitelezőnek a fogyasztási kölcsönszerződésből származó követelései ellenében váltókötelezettséget vállaljon.
+214/C. §
 
-(2) A hitelező a fogyasztási kölcsönszerződésből származó követelése biztosítására csekket a fogyasztótól nem fogadhat el.
+### Tájékoztatás egyes betétszerződések tekintetében
 
-(3) A fogyasztó bármikor követelheti a hitelezőtől az olyan váltó vagy csekk visszaadását, amelyet az (1) vagy (2) bekezdéssel ellentétben bocsátott ki.
-
-(4) A hitelező felel minden olyan kárért, amely a fogyasztót az (1) vagy a (2) bekezdéssel ellentétes váltó- vagy csekk-kibocsátással összefüggésben érte.
-
-### Tájékoztatás egyes betéti és hitelszerződések tekintetében
-
-### [Tájékoztatás egyes betétszerződések tekintetében]
-
-214/D. § A kereskedelmi kommunikációban – az e törvény végrehajtására kiadott jogszabályban meghatározott esetekben – fel kell tüntetni a betét egységesített betéti kamatláb mutatóját, illetve a pénzügyi intézmény által folyósított, három hónapnál hosszabb lejáratú lakossági kölcsön teljes hiteldíjmutatóját. E mutatók számítására és feltüntetésük módjára vonatkozó szabályokat az e törvény végrehajtására kiadott külön jogszabály határozza meg.
+214/D. § A kereskedelmi kommunikációban – az e törvény végrehajtására kiadott jogszabályban meghatározott esetekben – fel kell tüntetni a betét egységesített betéti kamatláb mutatóját. E mutató számítására és feltüntetése módjára vonatkozó szabályokat az e törvény végrehajtására kiadott külön jogszabály határozza meg.
 
 ### Bankszünnap
 
@@ -4719,7 +4699,7 @@ esetében kell alkalmazni.
 
 - a) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pontjában meghatározott szolgáltatások végzésére, valamint a szolgáltatások nyújtása során kötött szerződések kötelező tartalmi elemeire,
 - b)
-- c) az egységesített betéti kamatláb mutató, valamint a teljes hiteldíjmutató számítására és közzétételére,
+- c) az egységesített betéti kamatláb mutató számítására és közzétételére,
 - d)
 - e) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pontjában meghatározott pénzügyi szolgáltatási, illetőleg kiegészítő pénzügyi szolgáltatási tevékenységek folytatásához szükséges személyi és tárgyi feltételekre,
 - f) a kereskedési könyvben nyilvántartott pozíció- és nagykockázatvállalások tőkekövetelményére, valamint a tevékenység egészében meglévő devizaárfolyam kockázat és árukockázat miatt felmerülő piaci kockázat tőkekövetelményére,
@@ -4937,7 +4917,7 @@ e) anyavállalatnak leányvállalatokkal, illetőleg ez utóbbiak egymás közö
 
 a) a munkáltató által a munkavállaló részére szociális céllal – esetileg – adott kölcsön,
 
-b) az egymással áruszállítási vagy szolgáltatási jogviszonyban álló vállalkozások vagy természetes személyek által e jogviszonyra tekintettel adott halasztott fizetés vagy előleg, ide nem értve a hitelintézet által kötött ilyen ügyleteket,
+b) az egymással áruszállítási vagy szolgáltatási jogviszonyban álló vállalkozások vagy természetes személyek által e jogviszonyra tekintettel adott halasztott fizetés vagy előleg (kereskedelmi kölcsön), ide nem értve a pénzügyi intézmény által kötött ilyen ügyleteket,
 
 c) a biztosítóintézet által az életbiztosítási kötvény tulajdonosának nyújtott kötvénykölcsön,
 
@@ -5047,7 +5027,7 @@ c) létesítő okirat, megállapodás alapján döntő befolyást gyakorolhat a 
 
 4. Fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy.
 
-5. Fogyasztási kölcsön: a mindennapi élet szokásos használati tárgyainak megvásárlásához, javíttatásához vagy szolgáltatás igénybevételéhez, továbbá a felhasználási célhoz nem kötötten fogyasztónak nyújtott kölcsön.
+5.
 
 6. Jegyzett tőke: az Szmt. 35. §-ának (3) bekezdése szerint meghatározott tőke.
 
@@ -5081,7 +5061,7 @@ h) más hitelintézetnél elhelyezett betét, ide nem értve a jegybanki kötele
 
 12. Közvetett tulajdon: egy vállalkozás tulajdoni hányadának, illetőleg szavazati jogának a vállalkozásban tulajdoni részesedéssel, illetőleg szavazati joggal rendelkező más vállalkozás (a 4. számú melléklet alkalmazásában: köztes vállalkozás) tulajdoni hányadán, illetőleg szavazati jogán keresztül történő birtoklása vagy gyakorlása.
 
-13. Lakossági kölcsön: a fogyasztási kölcsön, valamint az ingatlan vásárlására, építésére, felújítására, bővítésére, korszerűsítésére, továbbá közműfejlesztésre fogyasztónak nyújtott kölcsön.
+13.
 
 14. Likvid eszköz: pénz, illetőleg az azonnal pénzzé tehető eszközök összessége.
 
@@ -5295,9 +5275,9 @@ V. A XX/A. Fejezetre vonatkozó fogalommeghatározások
 
 2. Referenciaadat: bármely olyan adat, ideértve a nyilvántartott személyazonosító adatait is, amelyet a központi hitelinformációs rendszert kezelő pénzügyi vállalkozás e törvény alapján kezelhet.
 
-3. Referenciaadat-szolgáltató: a 3. § (1) bekezdésének b)–c), illetve e)–f) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, pénzforgalmi intézmény, a Diákhitel Központ, a kizárólag garanciavállalással, illetőleg készfizető kezesség vállalásával foglalkozó jogi személy, a Bszt. 5. §-a (2) bekezdésének c) pontjában foglalt tevékenységet végző hitelintézet, befektetési vállalkozás, valamint a Tpt. szerinti értékpapír-kölcsönzést végző hitelintézet, befektetési vállalkozás, befektetési alap, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, pénzügyi intézmény, központi értéktár és biztosító.
+3. Referenciaadat-szolgáltató: a 3. § (1) bekezdésének b)–c), illetve e)–f) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, pénzforgalmi intézmény, a Diákhitel Központ, a kizárólag garanciavállalással, illetőleg készfizető kezesség vállalásával foglalkozó jogi személy, a Bszt. 5. §-a (2) bekezdésének c) pontjában foglalt tevékenységet végző hitelintézet, befektetési vállalkozás, valamint a Tpt. szerinti értékpapír-kölcsönzést végző hitelintézet, befektetési vállalkozás, befektetési alap, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, pénzügyi intézmény, központi értéktár és biztosító. Referenciaadat-szolgáltató a kereskedelmi kölcsönt nyújtó hitelező, valamint a határon átnyúló szolgáltatást végző más tagállambeli hitelező, ha a KHR-hez csatlakozott.
 
-4. Vállalkozás: a gazdasági társaság, az egyéni cég az európai részvénytársaság, a szövetkezet, a lakásszövetkezet és az egyéni vállalkozó, ide nem értve a referenciaadat-szolgáltatót.
+4. Vállalkozás: a gazdasági társaság, az európai részvénytársaság, a szövetkezet, a lakásszövetkezet és az egyéni vállalkozó, ide nem értve a referenciaadat-szolgáltatót. Vállalkozásnak minősül a referenciaadat-szolgáltató, ha kereskedelmi kölcsönt nyújt.
 
 ### 3. számú melléklet az 1996. évi CXII. törvényhez
 
@@ -5329,7 +5309,7 @@ f) lakcím,
 
 g) levelezési cím.
 
-1.2 a 3. § (1) bekezdésének b)–c) és e)–f) pontjában meghatározott szolgáltatásra, valamint a hallgatói hitelre vonatkozó szerződési adatok:
+1.2 a 3. § (1) bekezdésének b)–c) és e)–f) pontjában meghatározott szolgáltatásra, kereskedelmi kölcsönre, valamint a hallgatói hitelre vonatkozó szerződési adatok:
 
 a) a szerződés típusa és azonosítója (száma),
 
@@ -5345,7 +5325,7 @@ f) a lejárt és meg nem fizetett tartozás megszűnésének módja és időpont
 
 g) a követelés másik referenciaadat-szolgáltató részére történő átruházására, perre utaló megjegyzés.
 
-1.3 a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt szolgáltatásra vonatkozó szerződés, valamint a külön jogszabályban meghatározott hallgatói hitelszerződés kezdeményezésére vonatkozó adatok:
+1.3 a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt szolgáltatásra vonatkozó szerződés, a kereskedelmi kölcsönszerződésre, valamint a külön jogszabályban meghatározott hallgatói hitelszerződés kezdeményezésére vonatkozó adatok:
 
 a) az igénylés elutasításának időpontja, indoka,
 
@@ -5617,7 +5597,7 @@ I. Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolg�
 
 5. A Tanács 1986. december 18-án kelt 86/635/EGK irányelve a bankok és más pénzintézetek éves beszámolójáról és összevont beszámolójáról.
 
-6. A Tanács 87/102/EGK irányelve a tagállamok fogyasztói hitelre vonatkozó jogszabályai és közigazgatási rendelkezései közelítéséről, illetve az ezt módosító 90/88/EGK irányelve, valamint a Tanács 98/7/EK irányelve.
+6.
 
 7. Az Európai Parlament és a Tanács 1995. július 18-án kelt 95/26/EK irányelve a 77/780/EGK és a 89/646/EGK, a hitelintézetekre vonatkozó irányelve, a Tanács 93/22/EGK irányelve az értékpapírok területén érvényesülő befektetési szolgáltatásokról és az átruházható értékpapírokba kollektív alapon befektető vállalkozásokra vonatkozó 85/611/EGK irányelv módosításáról, a prudenciális felügyelet megerősítése érdekében.
 
