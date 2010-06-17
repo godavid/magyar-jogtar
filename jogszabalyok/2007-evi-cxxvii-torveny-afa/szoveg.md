@@ -163,7 +163,10 @@ termék felhasználása gazdasági tevékenységének folytatásához, feltéve,
 - c) tárgyi eszköznek nem minősülő termék felhasználása adólevonásra nem jogosító tevékenység folytatásához, feltéve, hogy a termék beszerzéséhez vagy b) pont szerinti felhasználásához kapcsolódóan az adóalanyt egészben vagy részben adólevonási jog illette meg;
 - d) az adóalany megszűnése, ha az adóalany a megszűnés időpontjában olyan terméket tart tulajdonában, amelynek beszerzéséhez vagy b) pont szerinti felhasználásához kapcsolódóan egészben vagy részben adólevonási jog illette meg.
 
-(3) Nem minősül ellenérték fejében teljesített termékértékesítésnek, ha az adóalany – vállalkozásának céljára tekintettel – más tulajdonába ingyenesen enged át árumintát és kis értékű terméket.
+(3) Nem minősül ellenérték fejében teljesített termékértékesítésnek
+
+- a) a közcélú adomány,
+- b) ha az adóalany – vállalkozásának céljára tekintettel – más tulajdonába ingyenesen enged át árumintát és kis értékű terméket.
 
 12. § (1) Ellenérték fejében teljesített termékértékesítés továbbá, ha az adóalany a vállalkozása tulajdonában tartott termékét továbbítja, vagy bizományba átvett terméket továbbít belföldről a Közösség más tagállamába vállalkozása szükségleteire. A továbbítás minden olyan módozatot magában foglal, függetlenül attól, hogy azt az adóalany maga vagy – javára – más végzi, amelynek eredményeként a termék a küldeménykénti feladás vagy a fuvarozás megkezdéséhez képest a küldeménykénti megérkezésekor vagy a fuvarozás befejezésekor a Közösség más tagállamában van.
 
@@ -200,6 +203,8 @@ termék felhasználása gazdasági tevékenységének folytatásához, feltéve,
 14. § (1) Ellenérték fejében teljesített szolgáltatásnyújtás [2. § a) pontja] az is, ha az adóalany a terméket vállalkozásából időlegesen kivonva, azt saját vagy alkalmazottai magánszükségletének kielégítésére vagy általában, vállalkozásától idegen célok elérésére ingyenesen használja, illetőleg azt másnak ingyenesen használatba adja, feltéve, hogy a termék vagy annak alkotórészeinek szerzéséhez kapcsolódóan az adóalanyt egészben vagy részben adólevonási jog illette meg.
 
 (2) Szintén ellenérték fejében teljesített szolgáltatásnyújtás, ha az adóalany saját vagy alkalmazottai magánszükségletének kielégítésére vagy általában, vállalkozásától idegen célok elérésére másnak ingyenesen nyújt szolgáltatást, feltéve, hogy a szolgáltatás igénybevételéhez kapcsolódóan az adóalanyt egészben vagy részben adólevonási jog illette meg.
+
+(3) Nem minősül ellenérték fejében teljesített szolgáltatásnyújtásnak a közcélú adományozás.
 
 15. § Ha az adóalany valamely szolgáltatás nyújtásában a saját nevében, de más javára jár el, úgy kell tekinteni, mint aki (amely) ennek a szolgáltatásnak igénybevevője és nyújtója is.
 
@@ -1433,7 +1438,7 @@ terhelő előzetesen felszámított adó összegének 30 százaléka.
 133. § A 132. § alkalmazásában nem minősül az eredetileg levonható előzetesen felszámított adó összegét meghatározó tényezők utólagos változásának:
 
 - a) az adó áthárítására jogalapot teremtő ügylet fejében járó ellenérték teljes vagy részleges meg nem térítése;
-- b) a 11. § (3) bekezdésében meghatározott esetek;
+- b) a 11. § (3) bekezdésében és a 14. § (3) bekezdésében meghatározott esetek;
 - c) a megsemmisülés és más olyan vagyoni kár, amelyet az adóalany tevékenységi körén kívül eső elháríthatatlan ok idézett elő, és ez utóbbi ok fennállását az adóalany bizonyítja;
 - d) a c) pontban nem említett egyéb vagyoni kár, ha az adóalany bizonyítja, hogy a kár elhárítása, illetőleg csökkentése érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható.
 
@@ -2701,7 +2706,10 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 - 6. ellenérték: bármilyen vagyoni előny, ideértve a meglévő követelés mérséklésére elismert vagyoni értéket is, de ide nem értve a kártérítést;
 - 7. építési telek: az épített környezet alakításáról és védelméről szóló törvényben meghatározott építési telek és építési terület, amely egyúttal nem minősül beépített ingatlannak;
 - 8. készpénz-helyettesítő fizetési eszköz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott készpénz-helyettesítő fizetési eszköz;
-- 9. kis érték: a juttatott vagyoni előny értéke nem haladja meg az 5000 forintnak megfelelő pénzösszeget, amelyet a termék átengedéskori – adót is tartalmazó – szokásos piaci árának alapulvételével kell megállapítani;
+- 9. kis érték: a juttatott vagyoni előny értéke nem haladja meg az 5000 forintnak megfelelő pénzösszeget, amelyet a termék átengedéskori – adót is tartalmazó – szokásos piaci árának alapulvételével kell megállapítani; 9/A. közcélú adomány, adományozás: a közhasznú szervezet, a kiemelkedően közhasznú szervezet részére a közhasznú szervezetekről szóló törvényben nevesített közhasznú tevékenység, a kiemelkedően közhasznú besorolást megalapozó közfeladat támogatására, valamint a külön törvényben meghatározott feltételeknek megfelelő egyház részére az ott meghatározott tevékenysége támogatására fordított termék, szolgáltatás, feltéve, hogy
+  - a) az ügyletre vonatkozó okirat, egyéb körülmény valós tartalma alapján nem állapítható meg, hogy az nem szolgálja, vagy csak látszólag szolgálja a közhasznú, a közérdekű, továbbá – egyház esetében – a külön törvényben meghatározott célt,
+  - b) az nem jelent vagyoni előnyt az adományozónak, az adományozó tagjának (részvényesének), vezető tisztségviselőjének, felügyelő bizottsága vagy igazgatósága tagjának, könyvvizsgálójának, illetve ezen személyek vagy a természetes személy tag (részvényes) közeli hozzátartozójának azzal, hogy nem minősül vagyoni előnynek az adományozó nevére, tevékenységére történő utalás, és
+  - c) az adományozó rendelkezik a közhasznú szervezet, a kiemelkedően közhasznú szervezet, az egyház által kiállított igazolással, amely tartalmazza az adományozó és az adományozott nevét, székhelyét vagy állandó lakóhelyét, adószámát, adószám hiányában egyedi azonosítására szolgáló jelét és a támogatott célt, továbbá közhasznú szervezet, kiemelkedően közhasznú szervezet esetében a közhasznúsági fokozatot;
 - 10. külföldi utas: az a természetes személy, aki Közösség egyetlen tagállamának sem állampolgára, és nem jogosult a Közösség egyetlen tagállamában sem állandó tartózkodásra, továbbá az, aki a Közösség valamely tagállamának állampolgára ugyan, de lakóhelye a Közösség területén kívül van;
 - 11. lakóhely: tartós ottlakásra szolgáló hely, amellyel a természetes személy személyes és gazdasági kapcsolatai a legszorosabbak (létérdekek központja);
 - 12. lakóingatlan: lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan. Nem minősül lakóingatlannak a lakás rendeltetésszerű használatához nem szükséges helyiség még akkor sem, ha az a lakóépülettel egybeépült, így különösen: a garázs, a műhely, az üzlet, a gazdasági épület;
