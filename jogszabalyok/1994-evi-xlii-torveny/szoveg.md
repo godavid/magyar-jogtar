@@ -129,9 +129,9 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 ### Igazgatóság
 
-14. § (1) Az Eximbank és a Mehib Rt. ügyvezető szerve az igazgatóság, amely az igazgatóság elnökéből, a vezérigazgatóból és a további igazgatósági tagokból áll. Az igazgatóságok tagjait – a az állami vagyon felügyeletéért felelős miniszter, az államháztartásért felelős miniszter, a külpolitikáért felelős miniszter, valamint az agrárpolitikáért felelős miniszter véleményének figyelembevételével – a külgazdaságért felelős miniszter jelöli ki.
+14. § (1) Az Eximbank-nál és a Mehib Rt.-nél igazgatóság választására nem kerül sor és az igazgatóság Gt.-ben meghatározott jogait egy vezető tisztségviselő (vezérigazgató) gyakorolja (Gt. 247. §).
 
-(2) Az Eximbank igazgatósági tagja egyidejűleg a Mehib Rt. igazgatósági tagjává, a Mehib Rt. igazgatósági tagja egyidejűleg az Eximbank igazgatósági tagjává jelölhető.
+(2)
 
 ### Felügyelő bizottság
 
@@ -139,18 +139,13 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 ### Vezérigazgató és az igazgatóság elnöke
 
-16. § Az Eximbank és a Mehib Rt. munkaszervezeteinek élén vezérigazgató áll, akinek feladatait és hatáskörét az igazgatóság határozza meg. A vezérigazgató és az igazgatóság elnöke felett a munkáltatói jogokat a közgyűlés gyakorolja.
+16. § Az Eximbank és a Mehib Rt. munkaszervezetének élén a vezérigazgató áll (Gt. 247. §). A vezérigazgató felett a munkáltatói jogokat a közgyűlés gyakorolja.
 
 ### Kinevezés, megválaszthatóság
 
-17. § (1) Az Eximbank és a Mehib Rt.
+17. § (1)
 
-- a) igazgatóságának elnökét és a vezérigazgatót – az állami vagyon felügyeletéért felelős miniszter és az államháztartásért felelős miniszter véleményének figyelembevételével – a külgazdaságért felelős miniszter javaslatára,
-- b)
-
-a miniszterelnök határozatlan időre nevezi ki és menti fel.
-
-(2) Az igazgatóság és a felügyelő bizottság tagjai és a vezérigazgató pártban tisztséget nem viselhetnek, párt nevében vagy érdekében nyilvános közszerepléssel járó tevékenységet nem folytathatnak.
+(2) A felügyelő bizottság tagjai és a vezérigazgató pártban tisztséget nem viselhetnek, párt nevében vagy érdekében nyilvános közszerepléssel járó tevékenységet nem folytathatnak.
 
 18. §
 

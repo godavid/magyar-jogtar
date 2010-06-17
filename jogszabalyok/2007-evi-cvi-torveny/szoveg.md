@@ -6,279 +6,234 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
-1. § (1) E törvény szabályozza a Magyar Állam tulajdonában álló vagyon (a továbbiakban: állami vagyon) feletti tulajdonosi joggyakorlás módját és szervezetét, valamint e vagyon kezelését.
+1. § (1) E törvény szabályozza a Magyar Állam tulajdonában álló vagyon (a továbbiakban: állami vagyon) feletti tulajdonosi joggyakorlás módját és szervezetét, valamint e vagyonnal való gazdálkodást.
 
 (2) E törvény alkalmazásában állami vagyonnak minősül:
 
-- a) az állami tulajdonban lévő ingó dolog, valamint a dolog módjára hasznosítható természeti erő,
-- b) az állami tulajdonban lévő termőföldekből álló, külön törvényben szabályozott Nemzeti Földalap,
-- c) az állami tulajdonban lévő – a b) pont hatálya alá nem tartozó – ingatlan,
-- d) az állami tulajdonban lévő értékpapír,
-- e) az államot megillető társasági részesedés és más vagyoni értékű jog.
+- a) az állam tulajdonában lévő dolog, valamint a dolog módjára hasznosítható természeti erő,
+- b) az a) pont hatálya alá nem tartozó mindazon vagyon, amely vonatkozásában törvény az állam kizárólagos tulajdonjogát nevesíti,
+- c) az állam tulajdonában lévő tagsági jogviszonyt megtestesítő értékpapír, illetve az államot megillető egyéb társasági részesedés,
+- d) az államot megillető olyan immateriális, vagyoni értékkel rendelkező jogosultság, amelyet jogszabály vagyoni értékű jogként nevesít.
 
 (3) Külön törvény rendelkezik:
 
-- a) az államadósság és az állami követelések kezelésével összefüggő szabályokról,
-- b) az állami tulajdonú lakások értékesítéséről, bérletéről,
-- c) a koncesszióról (az állami monopóliumok hasznosításáról),
-- d) a Magyar Nemzeti Bank, az Államadósság Kezelő Központ Zrt. és a Magyar Távirati Iroda Rt. feletti tulajdonosi joggyakorlásról és e társaságok működéséről,
-- e) a büntetőeljárás vagy a szabálysértési eljárás során elkobzott dolgokról vagy vagyonról.
+- a) a koncesszióról (az állami monopóliumok hasznosításáról),
+- b) a Magyar Nemzeti Bank, az Államadósság Kezelő Központ Zrt. és a Magyar Távirati Iroda Zrt. működéséről.
 
-(4) E törvénynek az állami vagyon megszerzésére, elidegenítésére vagy az állami vagyonnal való más rendelkező cselekményre vonatkozó szabályait nem kell alkalmazni, ha a felsoroltakra a Magyar Állam által kötött nemzetközi szerződés eltérően rendelkezik.
+(4) Az állami tulajdonban álló, a hatályos jogszabályok szerint lakásnak minősülő ingatlanok értékesítésére vagy bérbeadására vonatkozó eljárásokban, valamint a Nemzeti Földalapba tartozó vagyonnal kapcsolatosan e törvény rendelkezéseit külön törvényben foglalt eltérésekkel kell alkalmazni.
 
-2. § (1) A tulajdonosi joggyakorlás és a vagyonkezelés feladata az állami vagyon megóvása, továbbá hatékony és gazdaságos működtetése a nemzeti vagyon megőrzése és gyarapítása érdekében, illetve vagyontárgyak értékesítése.
+(5) Nem tartozik e törvény hatálya alá az a vagyon, amelynél az állami tulajdonszerzésre az állam közjogi kötelezettségeinek, jogosultságainak gyakorlása következtében, vagy azzal összefüggésben kerül sor, így a szabálysértési és büntetőeljárásokban elkobzás, vagyonelkobzás útján, vagy a köztartozások fejében állami tulajdonba kerülő vagyon (adó-, vám-, illeték, egyéb állami támogatás, ideértve az elkülönített állami pénzalapokból finanszírozott állami feladatokkal kapcsolatos állami követeléseket).
+
+(6) Az (5) bekezdés szerinti vagyon hasznosítása, értékesítése során e törvény rendelkezéseit kell alkalmazni, azzal, hogy az államot megillető tulajdonosi jogokat az az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) szerinti központi költségvetési szerv, ennek intézménye, továbbá a 100%-ban állami tulajdonban álló gazdasági társaság gyakorolja, amely az állami tulajdonjogot keletkeztető hatósági határozatot hozta, illetve amely szervezetet megillető követelés fejében került sor a vagyonnak a Magyar Állam általi elfogadására.
+
+(7) E törvénynek az állami vagyon megszerzésére, elidegenítésére vagy az állami vagyonnal való más rendelkező cselekményre vonatkozó szabályait nem kell alkalmazni, ha a felsoroltakra törvény vagy a Magyar Állam által kötött nemzetközi szerződés eltérően rendelkezik.
+
+2. § (1) A tulajdonosi joggyakorlás és a vagyongazdálkodás feladata: az állami vagyon rendeltetésének megfelelő – az állami feladatok ellátásához, a társadalmi szükségletek kielégítéséhez, valamint a Kormány gazdaságpolitikája megvalósításának elősegítéséhez szükséges, egységes elveken alapuló, önálló ágazatként megjelenő – hatékony, költségtakarékos, értékmegőrző, értéknövelő felhasználásának biztosítása (közvetlen felhasználás), illetve közvetett hasznosítása (beleértve a vagyoni kör változását eredményező értékesítést), valamint az állami vagyon gyarapítása (ideértve a vagyoni kör bővítését is).
 
 (2) A központi költségvetési szerv – ha törvény eltérően nem rendelkezik – önálló tulajdonjoggal nem rendelkezik, bármely dolog tulajdonjogát, gazdálkodó szervezet részesedését, vagy valamely vagyoni értékű jogot a Magyar Állam javára szerez meg.
 
-3. § Az állami vagyon feletti tulajdonosi jogok és kötelezettségek összességét – ha törvény eltérően nem rendelkezik – a Magyar Állam nevében a Nemzeti Vagyongazdálkodási Tanács (a továbbiakban: Tanács) gyakorolja. A Tanács a feladatait a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján, annak ügyvezető szerveként látja el.
+3. § (1) Az állami vagyon felett a Magyar Államot megillető tulajdonosi jogok és kötelezettségek összességét – ha törvény eltérően nem rendelkezik – az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter) gyakorolja, aki e feladatát a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.), a Magyar Fejlesztési Bank, illetve a (2) bekezdés szerinti tulajdonosi joggyakorló szervezet útján látja el.
+
+(2) A miniszter e törvény felhatalmazása alapján – a 2. §-ban meghatározott célok hatékonyabb elérése érdekében, miniszteri rendeletben, az ott meghatározott állami vagyoni kör tekintetében, meghatározott időtartamra – e törvény keretei között, a joggyakorlás egyes szabályainak meghatározásával – az (1) bekezdés alapján őt megillető tulajdonosi jogok és kötelezettségek összességének, illetve azok meghatározott részének gyakorlóját az Áht. szerinti központi költségvetési szervek, ezek intézménye, továbbá a 100%-ban állami tulajdonban álló gazdasági társaságok közül kijelölheti.
+
+(3) Az állami vagyon meghatározott köre felett tulajdonosi jogokat és kötelezettségeket a (2) bekezdés alapján a Magyar Állam nevében gyakorló szervezet e tevékenységét a jelen törvény és a végrehajtási rendelete, valamint a (2) bekezdés szerinti miniszteri rendelet szabályai szerint végezheti.
+
+(4) Az állami vagyon feletti – a 3. § (1)–(2) bekezdése szerinti – tulajdonosi joggyakorlással kapcsolatos tevékenységet az Állami Számvevőszék évente ellenőrzi.
 
 4. § (1) Az állami vagyon rendeltetésétől függően kincstári vagyon, illetve üzleti vagyon lehet.
 
-(2) Kincstári vagyon minden vagyonelem, amelyet törvény – ideértve e törvény mellékletét is – kizárólagos állami tulajdonba tartozó vagyonként forgalomképtelennek, illetve korlátozottan forgalomképesnek minősít.
+(2) Kincstári vagyon minden vagyonelem, amely valamely állami feladat ellátásához szükséges, valamint amelyet törvény – ideértve e törvény mellékletét is – kizárólagos állami tulajdonba tartozó vagyonként forgalomképtelennek, illetve korlátozottan forgalomképesnek minősít.
 
 5. § (1) Közérdekből nyilvános minden, az állami vagyonnal való gazdálkodásra és az azzal való rendelkezésre vonatkozó, közérdekű adatnak nem minősülő adat. Külön törvény az adat megismerhetőségét korlátozhatja.
 
 (2) Az állami vagyonnal gazdálkodó vagy azzal rendelkező szerv vagy személy a közérdekű adatok nyilvánosságáról szóló törvény szerinti közfeladatot ellátó szervnek vagy személynek minősül.
 
-### II. Fejezet — A NEMZETI VAGYONGAZDÁLKODÁSI TANÁCSÉS AZ ELLENŐRZŐ BIZOTTSÁG
+### II. Fejezet
 
-### A Tanács feladatai, jogállása
+6–16. §
 
-6. § (1) A Tanács az állami vagyon feletti tulajdonosi jogok, valamint az MNV Zrt. működésével kapcsolatos, e törvényben meghatározott jogok gyakorlására létrehozott testület.
+### III. Fejezet — AZ MNV ZRT. FELADATAI, JOGÁLLÁSA, SZERVEZETE
 
-(2) A Tanács hatáskörébe tartozik:
+### Az MNV Zrt. feladatai, jogállása
 
-- a) az állami vagyon fejlesztésével, hasznosításával, elidegenítésével kapcsolatos – állami tulajdonú termőföldek esetén a külön törvény szerinti földbirtok-politikai irányelveket is figyelembe vevő – középtávú stratégiára vonatkozó javaslat kialakítása,
-- b) az a) pont szerinti javaslatnak – a Kormány elé terjesztése érdekében – az állami vagyon felügyeletéért felelős miniszter részére történő megküldése, majd annak elfogadását követően a végrehajtás szervezése, irányítása,
-- c) az állami vagyon hasznosításával, elidegenítésével és megterhelésével kapcsolatos ügyekben való döntés,
-- d) az állami tulajdoni részesedéssel működő gazdasági társaságok (a továbbiakban: állami tulajdonú gazdasági társaságok) közgyűlésein, illetve taggyűlésein képviselendő álláspont kialakítása (mandátum kiadás), a Magyar Állam egyszemélyes tulajdonában álló gazdasági társaságok esetében alapítói határozat kiadása, valamint egyéb állami tulajdonú gazdálkodó szervezetek tulajdonosi döntéseinek meghozatala,
-- e) zártkörű pályázat elrendelése,
-- f) a tanácsadók, befektetési szolgáltatók kiválasztására irányuló pályázatra vonatkozó döntés,
-- g) gazdálkodó szervezet, befektetési alap létesítése, átalakítása, megszüntetése, a gazdálkodó szervezet részére nem pénzbeli hozzájárulásként vagyon rendelkezésre bocsátása,
-- h) a 36. §-ban meghatározott ingyenes vagyonátadás,
-- i) a 22. § (3) bekezdésben foglaltak figyelembevételével döntés hitelfelvételről és kötvénykibocsátásról,
-- j) döntés az MNV Zrt. által, az állami vagyon hasznosításával kapcsolatosan kötendő szerződést biztosító mellékkötelezettségek vállalásáról, vagy más biztosíték nyújtásáról,
-- k) a szervezeti és működési szabályzatban meghatározott értékhatárt meghaladó – a c)–j) pontok hatálya alá nem tartozó – egyéb kötelezettségvállalásról való döntés,
-- l) peren kívüli és perbeli egyezségről való döntés,
-- m) döntés az MNV Zrt. munkaszervezetéről, a társaság szervezeti és működési szabályzatának elfogadása, jóváhagyásra való előterjesztése,
-- n) saját ügyrendjének elfogadása, jóváhagyásra való előterjesztése,
-- o) állami tulajdonú gazdasági társaságok részére tulajdonosi kölcsön nyújtására vonatkozó döntés,
-- p) az MNV Zrt. számviteli politikájának, pénzügyi és gazdálkodási, valamint javadalmazási és ösztönzési rendszerre vonatkozó szabályzatainak, tulajdonosi ellenőrzési szabályzatának, vagyon-nyilvántartási szabályzatának elfogadása,
-- q) az MNV Zrt. üzleti tervének, a számviteli törvény szerinti beszámolójának, valamint a rábízott vagyonról szóló éves beszámolójának és vagyonkezelési tervének elkészítése,
-- r) az ellenőrző bizottság részére beszámoló készítése,
-- s) jogszabály eltérő rendelkezése hiányában az állami vagyon gyarapításával kapcsolatos döntés.
-- t)
+17. § (1) Az MNV Zrt.:
 
-(3) A (2) bekezdésben fel nem sorolt ügyek az MNV Zrt. vezérigazgatójának hatáskörébe tartoznak.
+- a) előkészíti és végrehajtja a Kormány és a miniszter állami vagyonnal kapcsolatos döntéseit,
+- b) nyilvántartást vezet a tulajdonosi joggyakorlása – ideértve a 3. § (1) bekezdése alapján a miniszter által vagy külön törvény alapján gyakorolt, valamint a 3. § (2) bekezdése alapján jogszabály útján átadott tulajdonosi joggyakorlást is – alá tartozó az állami vagyonról, annak alapján adatszolgáltatást nyújt,
+- c) a tulajdonosi joggyakorlása alá tartozó állami vagyont közvetlenül vagy polgári jogi szerződések útján hasznosítja,
+- d) rendszeresen ellenőrzi a vele szerződéses jogviszonyban lévő személyek, szervezetek vagy más használók állami vagyonnal való gazdálkodását, megállapításairól az MNV Zrt. Felügyelő Bizottságát, az ellenőrzött szervet, szükség esetén a minisztert és az Állami Számvevőszéket tájékoztatja,
+- e) az állami vagyonnal kapcsolatos polgári jogi jogviszonyokban – jogszabály eltérő rendelkezése hiányában – képviseli a Magyar Államot,
+- f) ellenőrzi az értékesítési szerződésekben foglalt, a vevők által vállalt kötelezettségek teljesítését,
+- g) közreműködik a Nemzeti Vagyongazdálkodási Irányelvek és az Éves Nemzeti Vagyongazdálkodási Program előkészítésében,
+- h) az állami feladatok ellátása során a költségvetési szervek, illetve az egyéb, az állami vagyont használó természetes személyek, jogi személyek és jogi személyiséggel nem rendelkező szervezetek részére a működésükhöz szükséges állami tulajdon használatához szükséges szolgáltatásokat (üzemeltetés, beszerzés) nyújt.
 
-(4) A Tanács az MNV Zrt. vezérigazgatójának hatáskörébe tartozó bármely ügyet magához vonhat, illetve a (2) bekezdés c)–g), l), o) és s) pontjában felsorolt jogkörök gyakorlására – amennyiben az ügyben érintett vagyontárgy, követelés vagy kötelezettségvállalás értéke az 500 millió forintot nem haladja meg – a vezérigazgatót felhatalmazhatja.
+(2) Az MNV Zrt. jogszabályokban meghatározott feladatai állami feladatnak minősülnek.
 
-7. § (1) A Tanács tagját megillető jogokra és az őt terhelő kötelezettségekre a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) szerinti társasági jogi jogviszony az irányadó azzal, hogy az ott nem szabályozott kérdésekben a Ptk. megbízási szerződésre vonatkozó szabályait kell megfelelően alkalmazni.
+18. § (1) Az MNV Zrt. a Magyar Állam által alapított egyszemélyes részvénytársaság, amelynek részvénye forgalomképtelen. Alapító okiratának elfogadása és módosítása a miniszter hatáskörébe tartozik. Az MNV Zrt. nem alakulhat át, nem válhat szét, más társasággal nem egyesülhet. Megszűnéséről az Országgyűlés törvényben rendelkezhet.
 
-(2) A Tanács tagja csak a jogszabályoknak, az alapító okiratnak, valamint az MNV Zrt. felett részvényesi jogokat gyakorló miniszter (a továbbiakban: részvényesi jogok gyakorlója) határozatainak van alávetve.
+(2) Az MNV Zrt. alapítására és működésére – ha e törvény eltérően nem rendelkezik – a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) szabályait kell alkalmazni.
 
-(3) A részvényesi jogok gyakorlója a Tanács részére írásban utasítást adhat, amelyet az végrehajtani köteles, de ez esetben a tagok mentesülnek a (4)–(5) bekezdésben foglalt felelősség alól.
+(3) Az MNV Zrt. alapító okiratát és annak módosításait a Magyar Közlönyben közzé kell tenni.
 
-(4) A Tanács tagjai feladataikat az ilyen tisztséget betöltő személyektől elvárható fokozott gondossággal és az állam érdekeinek elsődlegessége alapján kötelesek ellátni. A Tanács tagjai – a Ptk. közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek a Magyar Állammal és az MNV Zrt.-vel szemben a jogszabályok, az alapító okirat, illetve a részvényesi joggyakorló által hozott határozatok, illetve kötelezettségeik felróható megszegésével okozott károkért.
+19. § (1) Az MNV Zrt.-ben a Magyar Állam részvényesi jogait – az e törvényben meghatározott kivételekkel – a miniszter gyakorolja. Az MNV Zrt. működése során a közgyűlés jogai a részvényesi jogok gyakorlóját illetik meg.
 
-(5) Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
+(2) Az MNV Zrt. működésének ellenőrzését a Felügyelő Bizottság látja el. A Felügyelő Bizottságra a Gt. 38–39. §-ának rendelkezéseit nem kell alkalmazni.
 
-(6) A Tanács tagjai tevékenységükért tiszteletdíjban részesülnek, javadalmazásukról a részvényesi jogok gyakorlója dönt.
+(3) A Kormány az MNV Zrt. működéséről és az állami vagyonnal való gazdálkodásáról évente, a tárgyévet követő év szeptember 30. napjáig beszámol az Országgyűlésnek.
 
-### A Tanács összetétele, működése
+### Az MNV Zrt. szervezete
 
-8. § (1) A Tanács hét tagból álló testület. A Tanács tagjait a miniszterelnök javaslatára a köztársasági elnök nevezi ki hat évre. A miniszterelnök a javaslatát a Tanács elnöke és további három tagja tekintetében az állami vagyon felügyeletéért felelős miniszter, két tagja tekintetében a gazdaságpolitikáért felelős miniszter, egy tagja tekintetében az agrárpolitikáért felelős miniszter kezdeményezése alapján teszi meg. A Tanács elnökének jelölt személyt az Országgyűlés költségvetési, gazdasági, illetve mezőgazdasági ügyekkel foglalkozó bizottságai kinevezése előtt meghallgatják.
+### Igazgatóság
 
-(2) A Tanács tagjává az a felsőfokú végzettségű magyar állampolgár nevezhető ki, aki költségvetési, pénzügyi, vagyongazdálkodási vagy privatizációs tevékenységgel kapcsolatos kérdésekben kiemelkedő elméleti, vagy gyakorlati szakmai ismeretekkel rendelkezik.
+20. § (1) Az MNV Zrt. ügyvezetését legfeljebb 7 tagból álló Igazgatóság látja el.
 
-(3) A Tanács tagjának megbízatása megszűnik:
+(2) Az Igazgatóság elnökét és tagjait a miniszter nevezi ki és hívja vissza. Az Igazgatóság elnökének és tagjainak megbízatása öt évre szól, tisztségükből bármikor visszahívhatók.
 
-- a) a megbízatási időtartam leteltével,
-- b) lemondással,
-- c) felmentéssel,
-- d) kizárással és
-- e) elhalálozással.
+(3) Az Igazgatóság elnökévé, tagjává az a felsőfokú végzettségű magyar állampolgár nevezhető ki, aki költségvetési, pénzügyi, vagyongazdálkodási tevékenységgel kapcsolatos kérdésekben kiemelkedő elméleti, vagy gyakorlati szakmai ismeretekkel rendelkezik. A 20/B. § rendelkezéseit az Igazgatóság elnöke és tagja esetében is megfelelően alkalmazni kell.
 
-(4) A lemondást írásban kell közölni a köztársasági elnökkel.
+(4) A Gt.-ben foglalt feladatokon kívül az Igazgatóság hatáskörébe tartozik
 
-(5) A megbízatást a köztársasági elnök – a miniszterelnök javaslatára – felmentéssel szüntetheti meg, ha a Tanács tagja neki fel nem róható okból nem képes eleget tenni megbízatásából adódó feladatainak.
+- a) az állami vagyon fejlesztésével, hasznosításával, elidegenítésével kapcsolatos irányelvekre vonatkozó javaslat kialakítása a miniszter részére,
+- b) döntés az állami vagyon elidegenítésével – ideértve a cserét is – kapcsolatos döntés, ha az ügyben érintett vagyon rendelkezésre álló értéke (könyvszakértő által elfogadott vagyonérték, értékbecslés) eléri vagy meghaladja a nettó 500 millió forintot,
+- c) döntés az állami vagyon b) pont alá nem tartozó hasznosításáról, illetve megterheléséről, ha az ügylet rendelkezésre álló értéke (aktualizált nyilvántartási érték, értékbecslés, ajánlati ár, szerződéses ár) eléri vagy meghaladja az 500 millió forintot, vagy – a központi költségvetési szervek javára történő hasznosítás kivételével – a hasznosítás határozott időtartamra szól és az meghaladja a 10 évet,
+- d) döntés az állami tulajdonú gazdasági társaságok közgyűlésein, illetve taggyűlésein képviselendő álláspont kialakításáról (mandátum kiadás), a Magyar Állam egyszemélyes tulajdonában álló gazdasági társaságok esetében alapítói határozat kiadása, ha – a társaság kizárólagos állami tulajdoni körbe tartozik, – a társaság részvényei valamilyen többletjogot biztosítanak – a Gt. 186. § (1) bekezdése alapján – a többletjogok vonatkozásában, – a társaság saját tőkéjén belül az állami részesedés eléri vagy meghaladja a 200 millió forintot,
+- e) – ha annak jogszabályban foglalt feltételei fennállnak – döntés a zártkörű pályázat kiírásáról, vagy a versenyeztetés mellőzéséről, ha az ügyben érintett vagyon rendelkezésre álló értéke eléri vagy meghaladja az 50 millió forintot,
+- f) gazdasági társaság alapítása, abban részesedés szerzése, átalakítása, megszüntetése, részére állami vagyon nem vagyoni hozzájárulásként történő rendelkezésre bocsátása, amennyiben az apport értéke meghaladja a 200 millió forintot,
+- g) ingyenes vagyonátadásra vonatkozó javaslat kialakítása a döntéshozó részére,
+- h) az éves költségvetési törvényben foglaltakra figyelemmel, döntés hitelfelvételről és kötvénykibocsátásról,
+- i) az Áht. 109. § (8)–(9) bekezdésének figyelembevételével döntés gazdasági társaságok részére történő hitel, kölcsön és támogatás nyújtásáról, tőkeemelésről,
+- j) döntés a b) pontba nem tartozó kötelezettségvállalásokról, ha a kötelezettség mértéke, annak járulékaival együtt eléri vagy meghaladja a 200 millió forintot,
+- k) döntés az MNV Zrt. munkaszervezetéről, a társaság szervezeti és működési szabályzatának jóváhagyása,
+- l) döntés az MNV Zrt. számviteli politikájának, pénzügyi és gazdálkodási, valamint – törvény eltérő rendelkezése hiányában – a javadalmazási és ösztönzési rendszerre vonatkozó szabályzatainak, tulajdonosi ellenőrzési szabályzatának, vagyon-nyilvántartási szabályzatának elfogadásáról,
+- m) az MNV Zrt. üzleti tervének, a számviteli törvény szerinti beszámolójának, valamint a rábízott vagyonról szóló éves beszámolójának és vagyonkezelési tervének elkészítése,
+- n) a felügyelő bizottság részére beszámoló készítése,
+- o) jogszabály eltérő rendelkezése hiányában az állami vagyon gyarapításával kapcsolatos döntés 100 millió forint értékhatár felett,
+- p) a miniszter által gyakorolt alapvető munkáltatói jogok kivételével a vezérigazgató és az általános vezérigazgató-helyettes feletti munkáltatói jogok gyakorlása.
 
-(6) Kizárással szünteti meg a megbízatást a miniszterelnök javaslatára a köztársasági elnök, ha a Tanács tagja
+(5) Az Igazgatóság a (4) bekezdés alapján a hatáskörébe nem tartozó bármely ügyet magához vonhat. A (4) bekezdésben meghatározott döntési hatáskörök jogosultjának megállapításához az értéket (ügyletértéket) vagyonelemenként kell figyelembe venni azzal, hogy amennyiben a döntés több vagyonelem együttes értékesítésére, hasznosítására irányul a döntési hatáskört a vagyonelemek, illetve az azokhoz kapcsolódó ügyletek együttes értéke alapján kell meghatározni.
 
-- a) neki felróható okból nem tesz eleget megbízatásából eredő feladatainak,
-- b) a 15. §-ban megjelölt összeférhetetlenségi okot a kinevezésétől, vagy az összeférhetetlenség felmerülésétől számított 30 napon belül nem szünteti meg,
-- c) bíróság jogerős ítélete következtében büntetett előéletűvé válik, bíróság jogerős ítéletében gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség gyakorlásától mint foglalkozástól eltiltotta, vagy tisztségére más módon alkalmatlanná válik,
-- d) vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagy vagyonnyilatkozatában lényeges adatot, tényt valótlanul közöl,
-- e) a 8/A. § (3) bekezdésében meghatározott igazolási kötelezettségének az ismételt szabályszerű felhívástól számított tizenöt munkanapon belül – vagy ha e határidőn belül a rajta kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – nem tesz eleget.
+(6) Az Igazgatóság tagját megillető jogokra és az őt terhelő kötelezettségekre a Gt. szerinti társasági jogi jogviszony az irányadó azzal, hogy az ott nem szabályozott kérdésekben a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) megbízási szerződésre vonatkozó szabályait kell megfelelően alkalmazni.
 
-(7) A Tanács tagja a (6) bekezdés b) pontjában megjelölt esetben az összeférhetetlenség megszüntetéséig a tisztségéből eredő jogkörét nem gyakorolhatja.
+(7) Az Igazgatóság tagja csak a jogszabályoknak, az alapító okiratnak, valamint az MNV Zrt. felett részvényesi jogokat gyakorló miniszter határozatainak van alávetve.
 
-8/A. § (1) A Tanács tagjának javasolt személy a miniszterelnök részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben a 15. § (1) bekezdés b) vagy c) pontjában meghatározott kizáró ok nem áll fenn.
+(8) A részvényesi jogokat gyakorló miniszter az Igazgatóság részére írásban utasítást adhat, amelyet az végrehajtani köteles, de ez esetben a tagok mentesülnek a (9)–(10) bekezdésben foglalt felelősség alól.
 
-(2) Ha a Tanács tagjának javasolt személy nem igazolja, hogy vele szemben az (1) bekezdésben meghatározott kizáró ok nem áll fenn, a Tanács tagjává nem nevezhető ki.
+(9) Az Igazgatóság tagjai feladataikat az ilyen tisztséget betöltő személyektől elvárható fokozott gondossággal és az állam érdekeinek elsődlegessége alapján kötelesek ellátni. Az Igazgatóság tagjai – a Ptk. közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek a Magyar Állammal és az MNV Zrt.-vel szemben a jogszabályok, az alapító okirat, illetve a részvényesi jogokat gyakorló miniszter által hozott határozatok, illetve kötelezettségeik felróható megszegésével okozott károkért.
 
-(3) A Tanács tagjának megbízatása időtartama alatt a miniszterelnök írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja a Tanács tagját annak igazolására, hogy a 15. § (1) bekezdés b) és c) pontjában meghatározott kizáró okok alapján nincs kizárva e tisztség betöltéséből.
+(10) Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
 
-(4) Ha az (1) bekezdésben meghatározott felhívásra a Tanács tagja igazolja, hogy a 15. § (1) bekezdés b) és c) pontjában meghatározott feltételek alapján nincs kizárva e tisztség betöltéséből, a miniszterelnök az igazolásra szolgáló hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat részére megtéríti.
+(11) Az Igazgatóság tagjai tevékenységükért tiszteletdíjban és költségtérítésben részesülnek, javadalmazásukról a részvényesi jogokat gyakorló miniszter dönt.
 
-(5) A miniszterelnök a 15. § (1) bekezdés b) és c) pontjában meghatározott kizáró ok igazolása céljából kezeli
+(12) Az Igazgatóság a jogait és kötelezettségeit – az ügyrendjében foglaltaknak megfelelően – testületként gyakorolja.
 
-- a) a Tanács tagjának javasolt személy,
-- b) a Tanács tagjának azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
+(13) Az Igazgatóság az ügyrendjét az alakuló ülésén fogadja el.
 
-(6) A miniszterelnök
+(14) Az Igazgatóság ülését az elnök, akadályoztatása esetén az általa kijelölt tag hívja össze.
 
-- a) az (5) bekezdés a) pontja alapján megismert személyes adatokat a Tanács tagjává való kinevezésről meghozott döntés időpontjáig,
-- b) az (5) bekezdés b) pontja alapján megismert személyes adatokat a Tanács tagja megbízatásának megszűnéséig kezeli.
+(15) Az Igazgatóság határozatképes, ha a tagjainak több mint fele jelen van. Az Igazgatóság határozatait egyszerű szótöbbséggel hozza.
 
-9. § (1) A Tanács a jogait és kötelezettségeit – az ügyrendjében foglaltaknak megfelelően – testületként gyakorolja.
+(16) Az Igazgatóság tagja személyesen köteles eljárni, képviseletnek vagy helyettesítésnek az Igazgatóság működése során nincs helye.
 
-(2) A Tanács az ügyrendjét az alakuló ülésén fogadja el és azt a részvényesi jogok gyakorlója hagyja jóvá.
+(17) Az Igazgatóság üléseiről jegyzőkönyvet kell felvenni. A jegyzőkönyvben rögzíteni kell a jelenlevők nevét, a tárgyalt napirendi pontokat, a hozott határozatokat, a tagok szavazatát, valamint a határozatokhoz fűzött esetleges nyilatkozatokat. A jegyzőkönyv vezetésére és tartalmára vonatkozó szabályokat akkor is alkalmazni kell, ha a tagok az ülésén elektronikus hírközlő eszköz közvetítésével vesznek részt, illetve szavaznak.
 
-(3) A Tanács ülését az elnök, akadályoztatása esetén az általa kijelölt tag hívja össze.
+(18) Az Igazgatóság ülésein tanácskozási joggal vehet részt a miniszter, illetve képviselője és a Felügyelő Bizottság tagja.
 
-(4) A Tanács határozatképes, ha tagjainak több mint fele jelen van. Határozatait egyszerű szótöbbséggel hozza.
+### Felügyelő Bizottság
 
-(5) A Tanács tagja személyesen köteles eljárni, képviseletnek vagy helyettesítésnek a Tanács működése során nincs helye.
+20/A. § (1) Az MNV Zrt. működésének, valamint az állami vagyonnal való gazdálkodásának ellenőrzését az öt tagból álló Felügyelő Bizottság végzi.
 
-10. § (1) A Tanács üléseiről jegyzőkönyvet kell felvenni. A jegyzőkönyvben rögzíteni kell a jelenlevők nevét, a tárgyalt napirendi pontokat, a hozott határozatokat, a tagok szavazatát, valamint a határozatokhoz fűzött esetleges nyilatkozatokat. A jegyzőkönyv vezetésére és tartalmára vonatkozó szabályokat akkor is alkalmazni kell, ha a tagok a Tanács ülésén elektronikus hírközlő eszköz közvetítésével vesznek részt, illetve szavaznak.
+(2) A Felügyelő Bizottság elnökét és tagjait a miniszter nevezi ki és hívja vissza. A Felügyelő Bizottság elnökének és tagjainak megbízatása öt évre szól, tisztségükből bármikor visszahívhatók.
 
-(2) A Tanács ülésein tanácskozási joggal vehet részt a részvényesi jogok gyakorlójának képviselője és az Ellenőrző Bizottság tagja.
-
-11. § (1) A Kormány a Tanács működéséről és az állami vagyonnal való gazdálkodásáról évente, a tárgyévet követő év szeptember 30. napjáig beszámol az Országgyűlésnek.
-
-(2) A Tanács működésével kapcsolatos költségeket az MNV Zrt. számviteli politikájában meghatározott módon, elkülönítetten kell kezelni.
-
-### Az Ellenőrző Bizottság
-
-12. § (1) A Tanács és az MNV Zrt. működésének, valamint az állami vagyonnal való gazdálkodásának ellenőrzését legfeljebb tizenegy tagból álló Ellenőrző Bizottság végzi. Az Ellenőrző Bizottság elnökének és tagjainak megbízatása öt évre szól, tisztségükből bármikor visszahívhatók.
-
-(2) Az Ellenőrző Bizottság elnökét a miniszterelnök az Állami Számvevőszék elnökének javaslatára nevezi ki. Az elnököt kinevezése előtt az Országgyűlés gazdasági ügyekkel, illetve költségvetési ügyekkel foglalkozó bizottságai meghallgatják.
-
-(3) Az Ellenőrző Bizottság tagjává az országgyűlési képviselőcsoportok jelöltjei közül képviselőcsoportonként egy-egy személyt, továbbá az Országos Érdekegyeztető Tanács (a továbbiakban: OÉT) munkáltatói és munkavállalói oldalának javaslatára egy-egy személyt a miniszterelnök nevez ki. A jelölési joggal rendelkező képviselőcsoport megszűnése esetén – ide nem értve az általános országgyűlési képviselői választást követően ismételten megalakításra kerülő képviselőcsoportot – az általa jelölt tagot a miniszterelnök visszahívja. Az újonnan alakult országgyűlési képviselőcsoportot a jelölés joga megalakulásától megilleti, ilyen esetben az Ellenőrző Bizottság létszáma átmenetileg – a (4) bekezdés szerinti valamely tag megbízatásának lejártáig – a tizenegy főt meghaladhatja.
-
-(4) Az Ellenőrző Bizottság további – a képviselőcsoportok és az OÉT jelöltjein kívüli – tagjait az állami vagyon felügyeletéért felelős miniszter javaslatára a miniszterelnök nevezi ki.
-
-(5) Megszűnik az Ellenőrző Bizottság tagjának megbízatása:
+(3) Megszűnik a Felügyelő Bizottság tagjának megbízatása:
 
 - a) a megbízás időtartamának lejártával,
 - b) visszahívással,
 - c) e törvényben szabályozott kizáró ok bekövetkeztével,
-- d) lemondással és
+- d) lemondással,
 - e) elhalálozással.
 
-(6) Az országgyűlési képviselőcsoportok és az OÉT által jelölt tagokat – a (3) bekezdésben, a 12/A. § (5) bekezdésében és a 16. § (3) bekezdésében foglaltakat kivéve – csak a jelölő szervezet javaslatára hívhatja vissza a miniszterelnök.
+20/B. § (1) A Felügyelő Bizottság elnökének vagy tagjának – a kinevezését megelőzően az érintettnek – a miniszter részére hatósági bizonyítvánnyal igazolnia kell azt a tényt, hogy vele szemben a 20/F. § (1) bekezdés b) vagy c) pontjában meghatározott kizáró ok nem áll fenn.
 
-12/A. § (1) Az Ellenőrző Bizottság elnökének vagy tagjának jelölt személy a miniszterelnök részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben a 15. § (1) bekezdés b) vagy c) pontjában meghatározott kizáró ok nem áll fenn.
+(2) Ha az érintett személy az (1) bekezdés szerint előzetesen nem igazolja, hogy vele szemben az e törvényben meghatározott kizáró ok nem áll fenn, a Felügyelő Bizottság elnökévé, illetve tagjává nem nevezhető ki.
 
-(2) Ha az Ellenőrző Bizottság elnökének vagy tagjának javasolt személy nem igazolja, hogy vele szemben az (1) bekezdésben meghatározott kizáró ok nem áll fenn, az Ellenőrző Bizottság elnökévé, illetve tagjává nem nevezhető ki.
+(3) A Felügyelő Bizottság tagját – megbízatása időtartama alatt – a miniszter írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja annak igazolására, hogy a 20/F. § (1) bekezdés b) és c) pontjában meghatározott kizáró ok vele szemben nem áll fenn.
 
-(3) Az Ellenőrző Bizottság tagját – megbízatása időtartama alatt – a miniszterelnök írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja annak igazolására, hogy a 15. § (1) bekezdés b) és c) pontjában meghatározott kizáró ok vele szemben nem áll fenn.
+(4) Ha a (3) bekezdésben meghatározott felhívásra a Felügyelő Bizottság tagja igazolja, hogy a 20/F. § (1) bekezdés b) és c) pontjában meghatározott kizáró ok vele szemben nem áll fenn, az igazolásra szolgáló hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az MNV Zrt. megtéríti.
 
-(4) Ha a (3) bekezdésben meghatározott felhívásra az Ellenőrző Bizottság tagja igazolja, hogy a 15. § (1) bekezdés b) és c) pontjában meghatározott kizáró ok vele szemben nem áll fenn, az igazolásra szolgáló hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az MNV Zrt. megtéríti.
+(5) Ha a miniszter megállapítja, hogy
 
-(5) Ha a miniszterelnök megállapítja, hogy
+- a) a Felügyelő Bizottság tagjával szemben a 20/F. § (1) bekezdés b) vagy c) pontjában meghatározott kizáró ok fennáll, vagy
+- b) a Felügyelő Bizottság tagja az igazolási kötelezettségének az ismételt szabályszerű felhívástól számított tizenöt munkanapon belül sem tesz eleget, a Felügyelő Bizottság tagját visszahívja és intézkedik az új személy kinevezéséről.
 
-- a) az Ellenőrző Bizottság tagjával szemben a 15. § (1) bekezdés b) vagy c) pontjában meghatározott kizáró ok fennáll, vagy
-- b) az Ellenőrző Bizottság tagja az igazolási kötelezettségének az ismételt szabályszerű felhívástól számított tizenöt munkanapon belül sem tesz eleget, az Ellenőrző Bizottság tagját visszahívja, egyben felhívja a tag személyére javaslatot tevőt, hogy az Ellenőrző Bizottság tagjaként, illetve elnökeként új személyre tegyen javaslatot.
+(6) A miniszter a 20/F. § (1) bekezdés b) és c) pontjában meghatározott kizáró ok igazolása céljából kezeli
 
-(6) A miniszterelnök a 15. § (1) bekezdés b) és c) pontjában meghatározott kizáró ok igazolása céljából kezeli
+- a) a Felügyelő Bizottság elnökének vagy tagjának jelölt személy, illetőleg
+- b) a Felügyelő Bizottság elnökének vagy tagjának azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
 
-- a) az Ellenőrző Bizottság elnökének vagy tagjának javasolt személy, illetve
-- b) az Ellenőrző Bizottság tagja azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
+20/C. § (1) A Felügyelő Bizottság a jogait és kötelezettségeit – az ügyrendjében foglaltaknak megfelelően – testületként gyakorolja.
 
-(7) A miniszterelnök
+(2) A Felügyelő Bizottság az ügyrendjét az alakuló ülésén fogadja el.
 
-- a) a (6) bekezdés a) pontja alapján megismert személyes adatokat az Ellenőrző Bizottság elnökének, illetve tagjának kinevezéséről meghozott döntés időpontjáig,
-- b) a (6) bekezdés b) pontja alapján megismert személyes adatokat az Ellenőrző Bizottság tagja megbízatásának megszűnéséig kezeli.
+(3) A Felügyelő Bizottság ülését az elnök, akadályoztatása esetén az általa kijelölt tag hívja össze.
 
-13. § (1) Az Ellenőrző Bizottság működésére a 9. §-ban és a 10. § (1) bekezdésében foglaltak irányadók azzal, hogy az Ellenőrző Bizottság határozatképességéhez a tagok legalább kétharmadának jelenléte szükséges.
+(4) A Felügyelő Bizottság határozatképes, ha legalább három tagja jelen van. A Felügyelő Bizottság határozatait egyszerű szótöbbséggel hozza.
 
-(2) Az Ellenőrző Bizottság ülésén állandó meghívottként – tanácskozási joggal – részt vesz a Tanács elnöke, vagy az általa kijelölt tag. Az Ellenőrző Bizottság ülésére meg kell hívni az állami vagyon felügyeletéért felelős miniszter képviselőjét.
+(5) A Felügyelő Bizottság tagja személyesen köteles eljárni, képviseletnek vagy helyettesítésnek a Felügyelő Bizottság működése során nincs helye.
 
-(3) Az Ellenőrző Bizottság, illetve annak tagja az Ellenőrző Bizottság elnöke útján a Tanács tagjaitól, illetve az MNV Zrt. vezető állású munkavállalóitól felvilágosítást kérhet, amelyet az MNV Zrt. alapító okiratában meghatározott módon és határidőn belül kell teljesíteni. Az Ellenőrző Bizottság az MNV Zrt. könyveit és iratait – szükség esetén szakértők bevonásával – megvizsgálhatja.
+20/D. § (1) A Felügyelő Bizottság üléseiről jegyzőkönyvet kell felvenni. A jegyzőkönyvben rögzíteni kell a jelenlevők nevét, a tárgyalt napirendi pontokat, a hozott határozatokat, a tagok szavazatát, valamint a határozatokhoz fűzött esetleges nyilatkozatokat. A jegyzőkönyv vezetésére és tartalmára vonatkozó szabályokat akkor is alkalmazni kell, ha a tagok a Felügyelő Bizottság ülésén elektronikus hírközlő eszköz közvetítésével vesznek részt, illetve szavaznak.
 
-(4) Az MNV Zrt. saját vagyonáról a számviteli törvény szerint készített beszámolójának, valamint a külön jogszabályban meghatározott elszámolás szerint a rábízott vagyonról készített beszámolójának jóváhagyásáról a részvényesi jogok gyakorlója csak az Ellenőrző Bizottság írásbeli jelentésének birtokában dönthet.
+(2) A Felügyelő Bizottság ülésén állandó meghívottként – tanácskozási joggal – részt vesz az Igazgatóság elnöke, vagy az általa kijelölt tag. A Felügyelő Bizottság ülésére továbbá meg kell hívni a miniszter képviselőjét és a vezérigazgatót.
 
-(5) Ha az Ellenőrző Bizottság megítélése szerint a Tanács, a vezérigazgató, illetve az MNV Zrt. vezetésének tevékenysége jogszabályba, az alapító okiratba, a részvényesi joggyakorló határozataiba ütközik, vagy egyébként sérti a Magyar Állam vagy az MNV Zrt. érdekeit, ezt köteles jelezni a részvényesi jogok gyakorlójának.
+(3) A Felügyelő Bizottság, illetve annak tagja a Felügyelő Bizottság elnöke útján az Igazgatóságtól, illetve az MNV Zrt. vezető állású munkavállalóitól felvilágosítást kérhet, amelyet az MNV Zrt. alapító okiratában meghatározott módon és határidőn belül kell teljesíteni. A Felügyelő Bizottság az MNV Zrt. könyveit és iratait – szükség esetén szakértők bevonásával – megvizsgálhatja.
 
-(6) Az Ellenőrző Bizottság tagjai feladataikat az ilyen tisztséget betöltő személyektől elvárható fokozott gondossággal, és az állam érdekeinek elsődlegessége alapján kötelesek ellátni. A tagok – a Ptk. közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek a Magyar Állammal és az MNV Zrt.-vel szemben az ellenőrzési kötelezettségük felróható megszegésével okozott károkért. Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
+(4) Az MNV Zrt. saját vagyonáról a számviteli törvény szerint készített beszámolójának, valamint a külön jogszabályban meghatározott elszámolás szerint a rábízott vagyonról készített beszámolójának jóváhagyásáról a részvényesi jogokat gyakorló miniszter csak a Felügyelő Bizottság írásbeli jelentésének birtokában dönthet.
 
-(7) Az Ellenőrző Bizottság a működéséről évente, a tárgyévet követő év augusztus 31. napjáig beszámolót készít az állami vagyon felügyeletéért felelős miniszter részére. A beszámolót az Ellenőrző Bizottság az Állami Számvevőszéknek is megküldi.
+(5) Ha a Felügyelő Bizottság megítélése szerint az Igazgatóság, a vezérigazgató, illetve az MNV Zrt. vezetésének tevékenysége jogszabályba, az alapító okiratba, a részvényesi joggyakorló miniszter határozataiba ütközik, vagy egyébként sérti a Magyar Állam vagy az MNV Zrt. érdekeit, ezt köteles jelezni a részvényesi jogokat gyakorló miniszternek.
 
-### A Tanács és az Ellenőrző Bizottság tagjaira vonatkozó közös szabályok, összeférhetetlenség
+(6) A Felügyelő Bizottság tagjai feladataikat az ilyen tisztséget betöltő személyektől elvárható fokozott gondossággal, és az állam érdekeinek elsődlegessége alapján kötelesek ellátni. A tagok – a Ptk. közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek a Magyar Állammal és az MNV Zrt.-vel szemben az ellenőrzési kötelezettségük felróható megszegésével okozott károkért. Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
 
-14. § A Tanács és az Ellenőrző Bizottság tagját az e tisztséghez tartozó tevékenysége körében munkáltatója, illetve az őt jelölő szerv nem utasíthatja.
+(7) A Felügyelő Bizottság a működéséről évente, a tárgyévet követő év augusztus 31. napjáig beszámolót készít a miniszter részére. A beszámolót a Felügyelő Bizottság az Állami Számvevőszéknek is megküldi.
 
-15. § (1) A Tanács, illetőleg az Ellenőrző Bizottság tagja nem lehet
+### Az Igazgatóság és a Felügyelő Bizottság tagjaira vonatkozó közös szabályok, összeférhetetlenség
+
+20/E. § Az Igazgatóság és a Felügyelő Bizottság tagját az e tisztséghez tartozó tevékenysége körében munkáltatója, illetve az őt jelölő szerv nem utasíthatja.
+
+20/F. § (1) Az Igazgatóság, illetőleg a Felügyelő Bizottság tagja nem lehet
 
 - a) országgyűlési, illetőleg önkormányzati képviselő, miniszter, polgármester, főpolgármester;
 - b) aki büntetett előéletű;
 - c) aki gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró foglalkozástól eltiltás hatálya alatt áll;
 - d) gazdasági társaság megszüntetési eljárás során való törlését követő két évig az a személy, aki a törlést megelőző naptári évben a gazdasági társaságnál vezető tisztségviselő volt.
 
-(2) A Tanács tagja és közeli hozzátartozója vagy élettársa nem lehet tagja az Ellenőrző Bizottságnak. A Tanács tagjai e jogviszonyuk megszűnésétől számított további két évig nem lehetnek tagjai az Ellenőrző Bizottságnak.
+(2) Az Igazgatóság tagja és annak közeli hozzátartozója vagy élettársa nem lehet tagja a Felügyelő Bizottságnak. Az Igazgatóság tagjai e jogviszonyuk megszűnésétől számított további két évig nem lehetnek tagjai a Felügyelő Bizottságnak.
 
-(3) A Tanács és az Ellenőrző Bizottság tagja, valamint ezek közeli hozzátartozója és élettársa a tagsági jogviszony fennállása alatt nem szerezhet társasági részesedést állami részvétellel működő gazdálkodó szervezetben, illetve állami vagyon értékesítésére, hasznosítására irányuló pályázaton nem indulhat, állami vagyonra vonatkozóan adásvételi szerződést az MNV Zrt.-vel nem köthet.
+(3) Az Igazgatóság és a Felügyelő Bizottság tagja, valamint ezek közeli hozzátartozója és élettársa a tagsági jogviszony fennállása alatt nem szerezhet társasági részesedést állami részvétellel működő gazdálkodó szervezetben, illetve állami vagyon értékesítésére, hasznosítására irányuló pályázaton nem indulhat, állami vagyonra vonatkozóan adásvételi szerződést az MNV Zrt.-vel nem köthet.
 
 (4) Nem vonatkozik a (3) bekezdés arra az esetre, ha az adásvételi szerződés megkötésére jogszabályon alapuló elővásárlási jog alapján kerül sor.
 
-(5) A Tanács és az Ellenőrző Bizottság tagja, valamint ezek közeli hozzátartozója és élettársa a tagsági jogviszony fennállása alatt nem szerezhet társasági részesedést, továbbá nem lehet vezető tisztségviselő, felügyelő bizottsági tag és könyvvizsgáló olyan gazdálkodó szervezetben, amely tagsági jogviszonyának fennállása alatt a Magyar Államtól társasági részesedést szerzett.
+(5) Az Igazgatóság és a Felügyelő Bizottság tagja, valamint ezek közeli hozzátartozója és élettársa a tagsági jogviszony fennállása alatt nem szerezhet társasági részesedést, továbbá nem lehet vezető tisztségviselő, felügyelő bizottsági tag és könyvvizsgáló olyan gazdálkodó szervezetben, amely tagsági jogviszonyának fennállása alatt a Magyar Államtól társasági részesedést szerzett.
 
-16. § (1) A Tanács tagja az országgyűlési képviselőkre vonatkozó szabályok szerint köteles vagyonnyilatkozatot tenni, első ízben a kinevezését követő harminc napon belül.
+### Az MNV Zrt. munkaszervezete
 
-(2) A vagyonnyilatkozat nyilvántartására, ellenőrzésére, kezelésére az országgyűlési képviselők vagyonnyilatkozatának nyilvántartására, ellenőrzésére, kezelésére vonatkozó szabályokat azzal az eltéréssel kell alkalmazni, hogy a vagyonnyilatkozat-tételi kötelezettség teljesítésének megtagadása, elmulasztása vagy a vagyonnyilatkozatban közölt lényeges adat, tény valótlan közlése esetén az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó bizottsága kezdeményezi a 8. § (6) bekezdés szerinti javaslat megtételét a miniszterelnöknek.
+20/G. § (1) Az MNV Zrt. munkaszervezetét a hatályos jogszabályok, az MNV Zrt. alapító okirata, a részvényesi jogokat gyakorló miniszter határozatai, valamint az igazgatóság döntéseinek keretei között a vezérigazgató vezeti.
 
-### III. Fejezet — AZ MNV ZRT. FELADATAI, JOGÁLLÁSA, SZERVEZETE
+(2) Az MNV Zrt.-t törvényes képviselőként a vezérigazgató – és az MNV Zrt. szervezeti és működési szabályzatában meghatározott jogkörben – a vezérigazgató általános helyettese képviseli harmadik személyekkel szemben.
 
-### Az MNV Zrt. feladatai, jogállása
+(3) A vezérigazgató és a vezérigazgató általános helyettese felett az alapvető munkáltatói jogokat (munkaviszony létesítése és megszüntetése, javadalmazás megállapítása) a részvényesi jogokat gyakorló miniszter, az egyéb munkáltatói jogokat az Igazgatóság gyakorolja.
 
-17. § Az MNV Zrt.:
+(4) Az MNV Zrt. munkavállalói felett a munkáltatói jogokat – a (3) bekezdésben foglalt kivétellel – a vezérigazgató gyakorolja.
 
-- a) előkészíti és végrehajtja a Tanács állami vagyonnal kapcsolatos döntéseit,
-- b) nyilvántartást vezet az állami vagyonról, annak alapján adatszolgáltatást nyújt,
-- c) a Tanács tulajdonosi joggyakorlása alá tartozó állami vagyont közvetlenül vagy polgári jogi szerződések útján hasznosítja,
-- d) rendszeresen ellenőrzi a vele szerződéses jogviszonyban lévő személyek, szervezetek állami vagyonnal való gazdálkodását, megállapításairól a Tanácsot, az Ellenőrző Bizottságot, az ellenőrzött szervet, szükség esetén az állami vagyon felügyeletéért felelős minisztert és az Állami Számvevőszéket tájékoztatja,
-- e) az állami vagyonnal kapcsolatos polgári jogi jogviszonyokban képviseli a Magyar Államot,
-- f) ellenőrzi az értékesítési szerződésekben foglalt, a vevők által vállalt kötelezettségek teljesítését.
-
-18. § (1) Az MNV Zrt. a Magyar Állam által alapított egyszemélyes részvénytársaság, amelynek részvénye forgalomképtelen. Alapító okiratának elfogadása és módosítása a Kormány hatáskörébe tartozik. Az MNV Zrt. nem alakulhat át, nem válhat szét, más társasággal nem egyesülhet. Megszűnéséről az Országgyűlés törvényben rendelkezhet.
-
-(2) Az MNV Zrt. alapítására és működésére – ha e törvény eltérően nem rendelkezik – a Gt. szabályait kell alkalmazni.
-
-(3) Az MNV Zrt. alapító okiratát és annak módosításait a Magyar Közlönyben közzé kell tenni.
-
-19. § (1) Az MNV Zrt.-ben a Magyar Állam részvényesi jogait – az e törvényben meghatározott kivételekkel – az állami vagyon felügyeletéért felelős miniszter gyakorolja. Az MNV Zrt. működése során a közgyűlés jogai a részvényesi jogok gyakorlóját illetik meg.
-
-(2) Az MNV Zrt. működésének ellenőrzését – a felügyelő bizottság feladatkörében eljárva – a 12. §-ban megjelölt Ellenőrző Bizottság látja el. Az Ellenőrző Bizottságra a Gt. 38–39. §-ának rendelkezéseit nem kell alkalmazni.
-
-(3) Az MNV Zrt. tevékenységét az Állami Számvevőszék évente ellenőrzi.
-
-### Az MNV Zrt. szervezete
-
-20. § (1) Az MNV Zrt. ügyvezetését – az igazgatóság feladatkörében eljárva – a Tanács látja el.
-
-(2) A vezérigazgató vezeti az MNV Zrt. munkaszervezetét a hatályos jogszabályok, az MNV Zrt. alapító okirata, a részvényesi jogok gyakorlója határozatai, valamint a Tanács döntéseinek keretei között.
-
-(3) Az MNV Zrt.-t törvényes képviselőként a vezérigazgató képviseli harmadik személyekkel szemben.
-
-(4) A vezérigazgatót és – a vezérigazgató javaslatára – a vezérigazgató-helyetteseket a részvényesi jogok gyakorlója nevezi ki és menti fel.
-
-(5) A vezérigazgató felett a munkáltatói jogokat – a kinevezés és a felmentés kivételével – a Tanács gyakorolja. Az MNV Zrt. munkavállalói felett a munkáltatói jogokat – a (4) bekezdésben foglalt kivétellel – a vezérigazgató gyakorolja.
-
-(6) Az MNV Zrt. vezérigazgatója és vezérigazgató-helyettesei alkalmazásuk megszűnésétől számított két évig nem lehetnek az Ellenőrző Bizottság tagjai.
+(5) Az MNV Zrt. vezérigazgatója és általános vezérigazgató-helyettese alkalmazásuk megszűnésétől számított két évig nem lehetnek a Felügyelő Bizottság tagjai.
 
 21. § (1) Az MNV Zrt. feladatait központi munkaszervezete és – a szervezeti és működési szabályzatban meghatározott – területi szervezeti egységei útján látja el.
 
-(2) A szervezeti és működési szabályzat a központi munkaszervezeten belül az eltérő típusú vagyoncsoportok hasznosítására, illetve egyes szakosított feladatokra önálló – vezérigazgató-helyettes irányítása alatt álló –, jogi személyiséggel nem rendelkező szervezeti egységet hozhat létre. A szervezeti és működési szabályzatban önálló szervezeti egységet kell létrehozni az állami tulajdonú termőföldekből álló Nemzeti Földalap, továbbá az állami tulajdonú, erdő- vagy mezőgazdasági tevékenységet folytató gazdasági társaságok feletti tulajdonosi joggyakorlással összefüggő feladatokra.
+(2) Az MNV Zrt. alkalmazottaira a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény előírásai irányadók.
 
-(3) Az MNV Zrt. alkalmazottaira a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény előírásai irányadók.
+(3) A szervezeti és működési szabályzatot a Magyar Közlönyben közzé kell tenni.
 
-(4) Az MNV Zrt. szervezeti és működési szabályzatát a részvényesi jogok gyakorlója hagyja jóvá. A szervezeti és működési szabályzatot a Magyar Közlönyben közzé kell tenni.
+(4) A 20/F. § (2)–(5) bekezdésében meghatározott összeférhetetlenségi szabályokat az MNV Zrt. könyvvizsgálójára is alkalmazni kell.
 
-(5) A 15. § (2)–(5) bekezdésében meghatározott összeférhetetlenségi szabályokat az MNV Zrt. könyvvizsgálójára is alkalmazni kell.
-
-(6) Az MNV Zrt. alkalmazottja nem lehet gazdasági társaságnál vezető tisztségviselő, illetve felügyelő bizottsági tag, kivéve a – közvetlenül vagy közvetetten – állami részesedéssel működő gazdasági társaságokat. A tilalom nem vonatkozik arra az esetre, ha e törvény hatálybalépése előtt kötött privatizációs szerződés alapján, a vevő által vállalt kötelezettségek ellenőrzése érdekében az MNV Zrt. jogosult vezető tisztségviselőt vagy felügyelő bizottsági tagot jelölni.
+(5) Az MNV Zrt. alkalmazottja nem lehet gazdasági társaságnál vezető tisztségviselő, illetve felügyelő bizottsági tag, kivéve a – közvetlenül vagy közvetetten – állami részesedéssel működő gazdasági társaságokat. A tilalom nem vonatkozik arra az esetre, ha e törvény hatálybalépése előtt kötött privatizációs szerződés alapján, a vevő által vállalt kötelezettségek ellenőrzése érdekében az MNV Zrt. jogosult vezető tisztségviselőt vagy felügyelő bizottsági tagot jelölni.
 
 ### Az MNV Zrt. gazdálkodása
 
@@ -294,7 +249,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 (6) Az MNV Zrt. saját vagyonával való gazdálkodásától el kell különíteni az MNV Zrt.-re bízott állami vagyont, valamint az ennek értékesítésével és hasznosításával összefüggő bevételeket és kiadásokat.
 
-(7) Az állami vagyon hasznosításából és értékesítéséből eredő bevételeket az MNV Zrt. a Tanács döntésének megfelelően – a (8) bekezdésben foglaltak figyelembevételével – a rábízott vagyon értékének megőrzésére, gyarapítására, hasznosítására fordítja. A Nemzeti Földalapba tartozó ingatlanok hasznosításából, értékesítéséből származó bevételeket a Nemzeti Földalap feletti tulajdonosi joggyakorlással összefüggő feladatokra, termőföldvásárlásra, illetve a termőföld életjáradék ellenében történő megvásárlásáról szóló kormányrendelet alapján folyósítandó életjáradékok kifizetésére kell fordítani.
+(7) Az állami vagyon hasznosításából és értékesítéséből eredő bevételeket az MNV Zrt. – a (8) bekezdésben foglaltak figyelembevételével – a rábízott vagyon értékének megőrzésére, gyarapítására, a vagyon célszerinti működtetésére, illetve a rábízott vagyon hasznosítására fordítja.
 
 (8) Az MNV Zrt.-re bízott vagyon hasznosításával kapcsolatos tervezett bevételeket és kiadásokat a költségvetési törvény részeként az Országgyűlés hagyja jóvá.
 
@@ -313,7 +268,8 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 - a) a szerződő partner államháztartási körbe tartozó szervezet, legalább többségi állami részesedéssel működő gazdálkodó szervezet, vagy jogszabályban előírt állami, önkormányzati feladatot ellátó más gazdálkodó szervezet,
 - b) nemzetközi szerződésben vállalt kötelezettség a külföldön lévő ingatlan esetében a versenyeztetés alkalmazását kizárja,
 - c) jogszabály rendelkezései vagy a használat átengedésének egyéb körülményei a lehetséges hasznosító személyének megválasztását olyan jelentős módon vagy mértékben korlátozzák, hogy a versenyeztetésből származó előnyök nem biztosíthatók,
-- d) a határozott időre kötendő szerződés tartama a kilencven napot nem haladja meg.
+- d) a határozott időre kötendő szerződés tartama a kilencven napot nem haladja meg,
+- e) társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti közérdekű cél érdekében az adott ügylet megvalósítása kiemelten indokolt, és a Kormány erre figyelemmel nyilvános határozatban döntött a versenyeztetés mellőzéséről.
 
 (3) Zártkörű pályázat kiírására különösen akkor kerülhet sor, ha a vagyontárgy nyilvános pályáztatásának reális, tervezett költségei jelentősen csökkentenék a hasznosításból éves szinten elérhető bevételt, vagy ha a korábbi nyilvános pályázat eredménytelenül zárult és ezen eljárással is biztosítható az állami vagyon gazdaságos – a 23. § (3) bekezdésében foglaltaknak megfelelő – hasznosítása.
 
@@ -378,13 +334,13 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 (2)
 
-(3) Gazdálkodó szervezet alapítására, illetve abban tulajdonosi (tagsági, részvényesi) jogok gyakorlására a Magyar Állam nevében a Tanács döntése alapján az MNV Zrt. jogosult. Gazdálkodó szervezet alapítása során történő eljárásra az MNV Zrt. a Tanács döntése alapján más személynek vagy szervnek meghatalmazást adhat.
+(3) Gazdálkodó szervezet alapítására, illetve abban tulajdonosi (tagsági, részvényesi) jogok gyakorlására – ha törvény, illetőleg a miniszter a 3. § (2) bekezdése szerint eltérően nem rendelkezik – a Magyar Állam nevében az MNV Zrt. jogosult. Gazdálkodó szervezet alapítása során történő eljárásra az MNV Zrt. más személynek, szervezetnek meghatalmazást adhat.
 
 (4) A gazdálkodó szervezet cégbejegyzése során az eljáró cégbíróság vizsgálni köteles, hogy a kérelmező jogosult-e Magyar Állam képviseletére.
 
-(5) Központi költségvetési szerv vagy más személy állami tulajdonú gazdálkodó szervezetben az állam nevében tulajdonosi (tagsági, részvényesi stb.) jogokat az MNV Zrt.-vel kötött szerződés alapján gyakorolhat.
+(5) Központi költségvetési szerv vagy más személy állami tulajdonú gazdálkodó szervezetben az állam nevében tulajdonosi (tagsági, részvényesi stb.) jogokat törvény, illetve a miniszter 3. § (2) bekezdése szerinti rendelete vagy az MNV Zrt.-vel kötött szerződés alapján gyakorolhat.
 
-(6) A Magyar Fejlesztési Bank Zrt. felett a tulajdonosi jogokat a gazdaságpolitikáért felelős miniszter gyakorolja.
+(6) A Magyar Fejlesztési Bank Zrt. felett a tulajdonosi jogokat e törvény és a Magyar Fejlesztési Bankról szóló külön törvény alapján a miniszter gyakorolja.
 
 30. § (1) Az MNV Zrt. az állami tulajdonú gazdasági társaságoknál és más gazdálkodó szervezeteknél köteles érvényesíteni a cégvezetés felelősségét, valamint a közérdek érvényesülését biztosító vagyongazdálkodást.
 
@@ -398,33 +354,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 31. §
 
-### A Nemzeti Földalappal való gazdálkodás
-
-32. § (1) Az állami tulajdonban lévő termőföldek hasznosítására – figyelemmel a földbirtok-politikai irányelvekben és a Nemzeti Vidékfejlesztési Tervben megfogalmazott célkitűzésekre is – az MNV Zrt. éves tervet készít.
-
-(2) Az MNV Zrt.-nek a Nemzeti Földalap hasznosítására vonatkozó tervkészítésnél figyelembe kell vennie a következő szempontokat:
-
-- a) a földhasználók helyzetének stabilizálását, fejlődésük elősegítését, családi gazdaságok kialakítását és megerősítését;
-- b) környezetbarát, a fenntartható fejlődést szolgáló termelés földhasznosítás oldaláról történő támogatását;
-- c) a mezőgazdasági rendeltetésű földterületek művelésben tartásának elősegítését, a mezőgazdasági termelés összehangolását a természetvédelem, a környezetvédelem, a talajvédelem, a területfejlesztés, a vízgazdálkodás, a vonalas infrastrukturális létesítmények szempontjaival;
-- d) a Nemzeti Erdőtelepítési Programban foglaltak végrehajtásának támogatását;
-- e) a földpiac élénkítését és szabályozását;
-- f) az állattenyésztő telepek működéséhez szükséges termőföld megszerzésének elősegítését;
-- g) a gazdálkodás jellegének megfelelő, versenyképes birtokméretek kialakításának elősegítését;
-- h) a családi és középgazdaságok 300 ha méretű felső határig történő ösztönzését;
-- i) a kisméretű birtokok legalább 100 ha-ig történő elsődleges fejlesztésének ösztönzését;
-- j) a földbérlet-koncentráció versenyképességhez igazodó fenntartását;
-- k) minőségi földcserék lebonyolításának megalapozását;
-- l) termelési-termékstruktúra átalakításának ösztönzését és befolyásolását;
-- m) a mezőgazdasági termelésre leginkább alkalmas termőföldek mezőgazdasági termelési célú hasznosításának előtérbe helyezését;
-- n) a mezőgazdasági termelésre kevésbé alkalmas termőföldek, földterületek más irányú hasznosításának előkészítését, támogatását, esetenként végrehajtását;
-- o) művelési-ág váltás támogatását;
-- p) a birtoknagyság alkalmassá tételét az EU-támogatások igénybevételéhez;
-- q) szociális földprogram kedvezményezett támogatását;
-- r) pályakezdő agrárvállalkozók és mezőgazdasági vagy erdészeti szakirányú végzettséggel rendelkezők kedvezményezett támogatását;
-- s) különleges rendeltetésű gazdaságok működéséhez kedvezményes termőföld biztosítását (pl. oktatás, kutatás, büntetés-végrehajtás).
-
-(3) Az (1) bekezdésben megjelölt – az agrárpolitikáért felelős miniszter egyetértésével elkészített – tervet a Tanács hagyja jóvá.
+32. §
 
 ### V. Fejezet — AZ ÁLLAMI VAGYON ELIDEGENÍTÉSÉNEK SZABÁLYAI
 
@@ -469,7 +399,8 @@ lehet végezni.
 - j) nemzetközi szerződés végrehajtása érdekében történő értékesítés esetén,
 - k) külföldi állam részére történő értékesítés esetén a j) pont alá nem tartozó esetben is,
 - l) minősített adatot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy különleges biztonsági intézkedést igénylő értékesítés esetén,
-- m) külön jogszabályban meghatározott, a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk értékesítése esetén.
+- m) külön jogszabályban meghatározott, a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk értékesítése esetén,
+- n) ha társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti közérdekű cél érdekében az adott ügylet megvalósítása kiemelten indokolt, és a Kormány erre figyelemmel nyilvános határozatban döntött a versenyeztetés mellőzéséről.
 
 (3) A pályázat nyilvános vagy zártkörű lehet.
 
@@ -492,10 +423,10 @@ lehet végezni.
 - b) belföldi vagy külföldi katasztrófák és súlyos szerencsétlenségek megelőzése, következményeinek elhárítása vagy enyhítése érdekében,
 - c) helyi önkormányzat javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése, vagy szociális földprogram megvalósítása érdekében,
 - d) többcélú kistérségi társulás javára feladatai ellátásának elősegítése érdekében,
-- e) külön törvény szerinti kiemelkedően közhasznú szervezet javára, az általa átvállalt állami vagy önkormányzati közfeladat ellátásának elősegítése érdekében,
+- e) külön törvény szerinti kiemelkedően közhasznú szervezet javára, az általa átvállalt állami vagy önkormányzati közfeladat ellátásának elősegítése érdekében, valamint a Magyar Tudományos Akadémia javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése, vagy az általa átvállalt állami közfeladat ellátásának elősegítése érdekében,
 - f) az MNV Zrt. által peres eljárásban kötött, bíróság által jóváhagyott egyezség keretében állami vagyonba tartozó dolog tulajdonjogáról való lemondás esetén.
 
-(3) A (2) bekezdés szerinti ingyenes átruházásról a Tanács dönt. Amennyiben az érintett vagyontárgy egyedi könyv szerinti bruttó értéke az éves költségvetési törvényben meghatározott értékhatárt meghaladja, az állami vagyon felügyeletéért felelős miniszter előterjesztése alapján a Kormány dönt az ingyenes átruházásról. Az ingyenesen átruházott vagyon juttatási célnak megfelelő felhasználását az Állami Számvevőszék ellenőrzi.
+(3) A (2) bekezdés szerinti ingyenes átruházásról a Kormány nyilvános határozattal dönt. Az ingyenesen átruházott vagyon juttatási célnak megfelelő felhasználását az Állami Számvevőszék ellenőrzi.
 
 (4) A (2) bekezdés c) és d) pontja alapján ingyenesen átruházható vagyontárgyak összesített értéke évente nem haladhatja meg az adott évi költségvetési törvényben meghatározott keretösszeget.
 
@@ -554,7 +485,7 @@ lehet végezni.
 
 (2) A 28. § (2) bekezdése, a 30. § (2) bekezdése, a 47. §, a 48. § (4) bekezdése, az 56. § (1) bekezdésének e) pontja, az 56. § (1) bekezdés g) pontjának a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 51. § (2) bekezdés j) pontja módosítására irányuló rendelkezése, az 56. § (1) bekezdésének n) pontja, az 58. § (1) bekezdésének p) pontja és a 66. § 2008. január 1-jén lép hatályba.
 
-(3) Az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) e törvénnyel megállapított 12/B. §-ának (1) és (3) bekezdését az e törvény hatálybalépését követően indított azon eljárásokra kell alkalmazni, amelyek az ott említett kötelezettségvállalást eredményezik.
+(3) Az Áht. e törvénnyel megállapított 12/B. §-ának (1) és (3) bekezdését az e törvény hatálybalépését követően indított azon eljárásokra kell alkalmazni, amelyek az ott említett kötelezettségvállalást eredményezik.
 
 ### Módosító rendelkezések
 

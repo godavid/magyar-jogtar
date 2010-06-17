@@ -470,19 +470,35 @@ b) a gazdasági társaságban az állam tulajdoni részesedéssel rendelkezik.�
 
 ### A Vám- és Pénzügyőrség országos parancsnokának kormánybiztos irányítása alá helyezése
 
-24–25. §
+24. § (1) A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 31. § (9) bekezdése alapján a Vám- és Pénzügyőrség országos parancsnokának (a továbbiakban: országos parancsnok) tevékenységét kormánybiztos irányítja. A Vám- és Pénzügyőrséget a kormánybiztos képviseli.
+
+(2) A kormánybiztos külön szervezeti egységet hozhat létre az Adó- és Pénzügyi Ellenőrzési Hivatal és a Vám- és Pénzügyőrség egyesítésének előkészítése érdekében.
+
+(3) A kormánybiztos a Vám- és Pénzügyőrség informatikai rendszereinek felügyeletébe bevonhatja az Adó- és Pénzügyi Ellenőrzési Hivatal informatikai elnökhelyettesét, ami nem keletkeztet a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 21. § szerinti összeférhetetlenséget.
+
+(4) A kormánybiztos a Vám- és Pénzügyőrség minden ügyébe betekinthet.
+
+(5) A kormánybiztos ellenőrzi az országos parancsnok vezetői tevékenységét és – a jogszabályi előírások keretei között – minden ügyben utasíthatja.
+
+(6) A kormánybiztos az országos parancsnok jogszabályokban biztosított hatósági jogkörét általános jelleggel vagy adott ügyben magához vonhatja.
+
+(7) Az országos parancsnok rendszeres jelentéstételi, illetve beszámolási kötelezettséggel tartozik a kormánybiztosnak.
+
+25. § (1) Az adópolitikáért felelős miniszter – a felmentés és a kinevezés kivételével – az országos parancsnok és helyettesei feletti munkáltatói jogkörét a kormánybiztos útján gyakorolja.
+
+(2) Az országos parancsnok valamennyi jogszabályban biztosított jogkörét az e törvény szerinti irányítás alatt látja el.
 
 ### Hatálybalépés
 
 26. § (1) E törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 3. napon lép hatályba.
 
-(2)
+(2) E törvény 39. § (2) bekezdése 2010. október 1-jén lép hatályba.
 
-(3)
+(3) E törvény 39. § (2) bekezdését a hatálybalépését követően kötött vagy a javadalmazási részében módosított szerződésekre kell alkalmazni.
 
 (4) A Nemzeti Vagyongazdálkodási Tanács, illetve a Vtv. 3. §-a alapján fennálló, az állami vagyon feletti tulajdonosi joggyakorlásra vonatkozó jogköre, valamint az Ellenőrző Bizottság, illetve a Vtv. 12. § (1) bekezdése alapján fennálló, az állami vagyonnal való gazdálkodás ellenőrzésére vonatkozó jogköre e törvény hatálybalépésének napján megszűnik.
 
-(5) Ahol jogszabály Nemzeti Vagyongazdálkodási Tanácsot, vagy az MNV Zrt. Ellenőrző Bizottságát említi, ott e törvény hatálybalépését követően az MNV Zrt.-t vagy annak Igazgatóságát, illetőleg az MNV Zrt. Felügyelő Bizottságát kell érteni.
+(5) Ahol jogszabály Nemzeti Vagyongazdálkodási Tanácsot, vagy az MNV Zrt. Ellenőrző Bizottságát említi, ott e törvény hatálybalépését követően a Nemzeti Földalapról szóló 2001. évi CXVI. törvény 3. §-ában az állami vagyon felügyeletéért felelős minisztert, egyéb esetekben az MNV Zrt.-t vagy annak Igazgatóságát, illetőleg az MNV Zrt. Felügyelő Bizottságát kell érteni.
 
 (6) Az e törvény alapján meghozott kormányhatározatban foglalt döntésnek az MNV Zrt. általi végrehajtásáról a miniszter – a kormányhatározatban előírt tartalommal és határidőben – részvényesi joggyakorlóként kiadott határozattal gondoskodik.
 
@@ -522,7 +538,39 @@ b) a gazdasági társaságban az állam tulajdoni részesedéssel rendelkezik.�
 
 „a) jogszabály: a törvény, a kormányrendelet, továbbá a törvény felhatalmazása alapján, annak keretei között az önkormányzati rendelet; a 28. § (1) bekezdése tekintetében az állami vagyon felügyeletéért felelős miniszter rendelete; a 29. § (3) bekezdése, a 200. § (2) bekezdése, a 209/B. § (6) bekezdése, a 305. § (1) bekezdése, a 434. § (3)–(4) bekezdése, az 523. § (2) bekezdése és az 528. § (3) bekezdése tekintetében valamennyi jogszabály;”
 
-31. § (1)–(6)
+31. § (1) A Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény (a továbbiakban: Vptv.) 1. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+[Az adópolitikáért felelős miniszter az irányítási jogkörének végrehajtása érdekében:]
+
+„b) a külön jogszabályban meghatározott kormánybiztos előterjesztése alapján meghatározza a Vám- és Pénzügyőrség fejlesztésének irányait,”
+
+(2) A Vptv. 1. § (2) bekezdés f) pontja helyébe a következő rendelkezés lép:
+
+[Az adópolitikáért felelős miniszter az irányítási jogkörének végrehajtása érdekében:]
+
+„f) a b) pontban meghatározott kormánybiztosnak a vám- és jövedéki igazgatás működési feltételeinek kialakítása, szakszerű működtetése tekintetében iránymutatást, szükség esetén utasítást adhat,”
+
+(3) A Vptv. 4. §-a helyébe a következő rendelkezés lép:
+
+„4. § (1) A Vám- és Pénzügyőrség operatív vezetését kormánybiztos irányítása alapján az országos parancsnok látja el.
+
+(2) A kormánybiztos szolgálati elöljárója az országos parancsnoknak.
+
+(3) Az országos parancsnok szolgálati elöljárója a Vám- és Pénzügyőrség személyi állományának.”
+
+(4) A Vptv. 6. §-a helyébe a következő rendelkezés lép:
+
+„6. § (1) A Vám- és Pénzügyőrség közalkalmazottnak minősülő polgári alkalmazottainak jogviszonyára a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény, a köztisztviselőnek minősülő polgári alkalmazottainak jogviszonyára a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, illetve a kormánytisztviselők jogállásáról szóló 2010. évi törvény rendelkezései az irányadók.
+
+(2) A kormánybiztos a Vám- és Pénzügyőrség nyomozóhatósági feladatait ellátó szerveinek központi irányításával szolgálati viszonyban nem álló, köztisztviselőként foglalkoztatott személyt is megbízhat, illetve a bűnüldözési, bűnmegelőzési, felderítési és nyomozati feladatok ellátására szolgálati viszonyban nem álló, köztisztviselőnek minősülő személyt is foglalkoztathat.”
+
+(5) A Vptv. 35. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az adópolitikáért felelős miniszter, a kormánybiztos, az országos parancsnok, a főigazgató, illetve a nyomozó hatóság vezetője a Vám- és Pénzügyőrség által kezelt közérdekű adatok nyilvánosságra hozatalát bűnüldözési érdekből megtagadhatja.”
+
+(6) A Vptv. 39. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az országos parancsnok a kormánybiztos egyetértésével a Vám- és Pénzügyőrség személyes adatkezelő rendszerei adatvédelmi belső ellenőrzésére adatvédelmi felelőst jelöl ki.”
 
 32. § (1) A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 2. § d) pontja helyébe a következő rendelkezés lép:
 
@@ -578,9 +626,9 @@ b) a gazdasági társaságban az állam tulajdoni részesedéssel rendelkezik.�
 
 (3) A Magyar Államot mint tulajdonost képviselő miniszter az MFB tv. 6. § (1) bekezdése szerinti beszámolót 2010. évben legkésőbb október 15-ig köteles a Kormány elé terjeszteni.
 
-39. § (1)
+39. § (1) A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény 5. § (1) bekezdését az MFB Zrt.-re, e törvény mellékleteiben meghatározott gazdasági társaságokra, illetve azok munkaviszonyban álló munkavállalóira és a Gt. 22. § (2) bekezdés a) pontja szerinti vezető tisztségviselőjének e jogviszonyára 2010. szeptember 30. napjáig kell alkalmazni.
 
-(2)
+(2) Az MFB Zrt.-vel, valamint e törvény mellékleteiben meghatározott gazdasági társaságokkal munkaviszonyban álló munkavállalók havi személyi alapbérét és a Gt. 22. § (2) bekezdés a) pontja szerinti vezető tisztségviselőjének e jogviszonyára tekintettel megállapított havi díjazását az MFB Zrt.-nél, illetve az érintett gazdálkodó szervezetnél 2006. január 01.–2010. augusztus 31. közötti időszakban valamennyi kifizetésre került – számviteli törvény szerinti – bérköltség [Szvt. 79. § (2) bek.] és személyi jellegű egyéb kifizetés [Szvt. 79. § (3) bek.] együttes összegéből számított éves átlag alapulvételével, annak csökkentésével kell meghatározni.
 
 40. § Az MFB tv. 13/A. § rendelkezéseit e törvény mellékleteiben felsorolt, a Felügyelet alá tartozó gazdálkodó szervezetekre is alkalmazni kell.
 

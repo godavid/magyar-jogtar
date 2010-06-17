@@ -11,11 +11,11 @@ Az Európai Unió saját forrásainak, a Magyar Köztársaság költségvetésé
 (2) Az adópolitikáért felelős miniszter az irányítási jogkörének végrehajtása érdekében:
 
 - a) felügyeli a vámok és a vámhatóság hatáskörébe tartozó nem közösségi adók és díjak kiszabásának, beszedésének törvényességét, ellenőrzi a vámszervek tevékenységét,
-- b) az országos parancsnok előterjesztése alapján meghatározza a Vám- és Pénzügyőrség fejlesztésének irányait,
+- b) a külön jogszabályban meghatározott kormánybiztos előterjesztése alapján meghatározza a Vám- és Pénzügyőrség fejlesztésének irányait,
 - c) a törvényesség és a szakszerűség ellenőrzése érdekében a vám-, adó- és jövedéki eljárásról, továbbá a Vám- és Pénzügyőrség feladatkörébe tartozó egyéb tevékenységéről annak vezetőjétől jelentéseket, továbbá e célból a Vám- és Pénzügyőrség által kezelt nyilvántartásokból felvilágosítást, adatszolgáltatást kér,
 - d) meghatározza a Vám- és Pénzügyőrség feladatai teljesítésének éves követelményeit,
 - e) irányítja és ellenőrzi a Vám- és Pénzügyőrség költségvetési gazdálkodását,
-- f) a Vám- és Pénzügyőrség vezetőjének különösen a vám- és jövedéki igazgatás működési feltételeinek kialakítása, szakszerű működtetése tekintetében iránymutatást, szükség esetén utasítást adhat,
+- f) a b) pontban meghatározott kormánybiztosnak a vám- és jövedéki igazgatás működési feltételeinek kialakítása, szakszerű működtetése tekintetében iránymutatást, szükség esetén utasítást adhat,
 - g) ellátja azokat a feladatokat, amelyeket a feladat- és hatásköréről szóló jogszabály önálló vagy a kereskedelemért felelős miniszterrel, illetve – a jogszabályok alapján – a külpolitikáért felelős miniszterrel egyetértésben gyakorolt vámigazgatási jogkörébe utal,
 - h) felügyeli a Vám- és Pénzügyőrség bűnüldözési és rendészeti jogkörében végzett tevékenységét.
 
@@ -69,9 +69,11 @@ kapcsolatos feladatokat.
 
 ### Az országos parancsnok
 
-4. § (1) A Vám- és Pénzügyőrséget az országos parancsnok vezeti, aki szolgálati elöljárója a Vám- és Pénzügyőrség személyi állományának.
+4. § (1) A Vám- és Pénzügyőrség operatív vezetését kormánybiztos irányítása alapján az országos parancsnok látja el.
 
-(2)–(4)
+(2) A kormánybiztos szolgálati elöljárója az országos parancsnoknak.
+
+(3) Az országos parancsnok szolgálati elöljárója a Vám- és Pénzügyőrség személyi állományának.
 
 ### A Vám- és Pénzügyőrség hivatásos állományútagjainak intézkedési és szolgálati fellépési jogaiés kötelezettségei
 
@@ -93,7 +95,9 @@ kapcsolatos feladatokat.
 
 (5) A jogszerűen fellépő pénzügyőr intézkedéseinek az ellenőrzött személy köteles alávetni magát.
 
-6. § A Vám- és Pénzügyőrség polgári alkalmazottainak jogviszonyára a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény rendelkezései az irányadók.
+6. § (1) A Vám- és Pénzügyőrség közalkalmazottnak minősülő polgári alkalmazottainak jogviszonyára a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény, a köztisztviselőnek minősülő polgári alkalmazottainak jogviszonyára a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, illetve a kormánytisztviselők jogállásáról szóló 2010. évi törvény rendelkezései az irányadók.
+
+(2) A kormánybiztos a Vám- és Pénzügyőrség nyomozóhatósági feladatait ellátó szerveinek központi irányításával szolgálati viszonyban nem álló, köztisztviselőként foglalkoztatott személyt is megbízhat, illetve a bűnüldözési, bűnmegelőzési, felderítési és nyomozati feladatok ellátására szolgálati viszonyban nem álló, köztisztviselőnek minősülő személyt is foglalkoztathat.
 
 7. § A Vám- és Pénzügyőrség a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény, az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény, a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló törvény, valamint a vonatkozó nemzetközi szerződések és az Európai Unió jogi aktusai alapján együttműködik a külföldi és a nemzetközi rendvédelmi szervekkel.
 
@@ -408,7 +412,7 @@ esetén.
 
 (6) A Vám- és Pénzügyőrség által kezelt adatokat személyazonosításra alkalmatlan módon, statisztikai célra fel lehet használni.
 
-(7) Az adópolitikáért felelős miniszter, az országos parancsnok, a főigazgató, illetve a nyomozó hatóság vezetője a Vám- és Pénzügyőrség által kezelt közérdekű adatok nyilvánosságra hozatalát bűnüldözési érdekből megtagadhatja.
+(7) Az adópolitikáért felelős miniszter, a kormánybiztos, az országos parancsnok, a főigazgató, illetve a nyomozó hatóság vezetője a Vám- és Pénzügyőrség által kezelt közérdekű adatok nyilvánosságra hozatalát bűnüldözési érdekből megtagadhatja.
 
 36. § (1) A Vám- és Pénzügyőrség a jogszabályban meghatározott bűnüldözési feladatainak ellátása érdekében kezelheti, illetve az adatkezelésre feljogosított szervek nyilvántartásából átveheti:
 
@@ -461,7 +465,7 @@ esetén.
 
 39. § (1) Az Európai Unióról szóló szerződés K.3. cikke alapján létrejött, az információtechnológia vámcélokra történő használatáról szóló Egyezménnyel összefüggésben az EU váminformációs rendszerének adataihoz való közvetlen hozzáférésre a Vám- és Pénzügyőrség jogosult.
 
-(2) Az országos parancsnok a Vám- és Pénzügyőrség személyes adatkezelő rendszerei adatvédelmi belső ellenőrzésére adatvédelmi felelőst jelöl ki.
+(2) Az országos parancsnok a kormánybiztos egyetértésével a Vám- és Pénzügyőrség személyes adatkezelő rendszerei adatvédelmi belső ellenőrzésére adatvédelmi felelőst jelöl ki.
 
 ### Elektronikus kapcsolattartással összefüggő adatkezelés
 
