@@ -58,7 +58,7 @@ fel kell tüntetni.
 
 5. § (1) A vagyonnyilatkozat-tételi kötelezettségnek a kötelezett
 
-- a) a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás létrejötte, munka- vagy feladatkör betöltése érdekében azt megelőzően,
+- a) a 6. § (2) bekezdés kivételével a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás létrejötte, munka- vagy feladatkör betöltése érdekében azt megelőzően,
 - b) a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör megszűnését követő tizenöt napon belül,
 - c) a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszony, beosztás, munka- vagy feladatkör fennállása alatt az első vagyonnyilatkozatot követően, ha törvény eltérően nem rendelkezik,
   - ca) a 3. § (1) bekezdés b) pontjában a 3. § (2) bekezdés a) pontjában és a 3. § (3) bekezdés e) pont ea) alpontjában meghatározott személy esetében évenként,
@@ -75,7 +75,7 @@ fel kell tüntetni.
 
 6. § (1) Közszolgálatban álló személy foglalkoztatására irányuló jogviszonyt – a vagyonnyilatkozat-tételi kötelezettség fennállása esetén – a vagyonnyilatkozat teljesítéséig és a 9. § szerinti tilalom fennállása alatt nem lehet létrehozni.
 
-(2) A vagyonnyilatkozat-tételi kötelezettséget megalapozó munkakör, beosztás vagy feladatkör a vagyonnyilatkozat-tételi kötelezettség teljesítéséig és a 9. § szerinti tilalom fennállása alatt nem látható el, arra a kötelezettet kinevezni, megbízni vagy vele más szerződéses jogviszonyt létrehozni nem lehet.
+(2) A vagyonnyilatkozat-tételi kötelezettséget megalapozó munkakört, beosztást, vagy feladatkört betöltő kötelezett a vagyonnyilatkozat-tételi kötelezettséget a kinevezését, megbízását vagy vele más szerződéses jogviszony létesítését követő 30 napon belül köteles teljesíteni.
 
 ### A vagyonnyilatkozat őrzése
 

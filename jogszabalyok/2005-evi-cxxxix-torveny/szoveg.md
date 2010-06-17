@@ -310,7 +310,7 @@ tagból áll. A gazdasági tanács tagja az lehet, aki felsőfokú végzettségg
 
 (4) A gazdasági tanácsba – a (3) bekezdésben meghatározott sorrend szerint – három, illetve négy főt delegál a szenátus, ebből egy tagot a hallgatói önkormányzat javaslata alapján. A gazdasági tanácsnak – a delegált tagokon felül – hivatalból tagja a rektor és a gazdasági főigazgató, ennek hiányában gazdasági igazgató. A szenátus által delegáltak közül legalább egy tagnak jogász, vagy a gazdaságtudományok képzési területen mesterképzésben szerzett, vagy azzal egyenértékű szakképzettséggel kell rendelkeznie. A szenátus által delegált tagok legalább fele nem állhat a felsőoktatási intézménnyel foglalkoztatásra irányuló jogviszonyban.
 
-(5) A miniszter – a (3) bekezdésben meghatározott sorrend szerint – a gazdasági tanácsba két, illetve három főt, ebből egy tagot az államháztartásért felelős miniszter javaslata alapján delegál. A miniszter által delegált tagok közül legalább egynek a felsőoktatási intézmény oktatási, tudományos kutatási, művészeti tevékenységének megfelelő felsőfokú végzettséggel, továbbá a szakképzettségének megfelelő területen szerzett legalább öt év vezetői gyakorlattal kell rendelkeznie.
+(5) A miniszter – a (3) bekezdésben meghatározott sorrend szerint – a gazdasági tanácsba két, illetve három főt, ebből egy tagot az állami vagyon felügyeletéért felelős miniszter javaslata alapján delegál. A miniszter által delegált tagok közül legalább egynek a felsőoktatási intézmény oktatási, tudományos kutatási, művészeti tevékenységének megfelelő felsőfokú végzettséggel, továbbá a szakképzettségének megfelelő területen szerzett legalább öt év vezetői gyakorlattal kell rendelkeznie.
 
 (6) A gazdasági tanács tagjai részére a delegálók utasítást nem adhatnak. 2010. január 1-jétől kezdődően a (4) és (5) bekezdés alapján történő delegálás, megismételt delegálás esetén a gazdasági tanács tagjával a felsőoktatási intézmény létesít megbízási jogviszonyt.
 
@@ -377,7 +377,7 @@ tagból áll. A gazdasági tanács tagja az lehet, aki felsőfokú végzettségg
 
 (2) A gazdasági tanács figyelemmel kíséri a felsőoktatási intézmény gazdálkodásában a szakmai hatékonyság és a gazdaságosság követelményeinek érvényesítését. Rendszeresen – de évente legalább két alkalommal – áttekinti a felsőoktatási intézmény működését, gazdálkodását, az alapító okiratában meghatározott feladatok végrehajtását. Figyelemmel kíséri, hogy a felsőoktatási intézmény szervezeti rendje igazodik-e a feladatok hatékony ellátásához.
 
-(3) A gazdasági tanács a szenátusnál, annak eredménytelensége esetén a fenntartónál jelzéssel élhet, ha megítélése szerint a felsőoktatási intézmény a gazdálkodásával, a rendelkezésére bocsátott vagy tulajdonában lévő ingatlanvagyon működtetésével, hasznosításával, elidegenítésével kapcsolatosan hozott döntésével veszélyezteti a felsőoktatási intézmény működését.
+(3) A gazdasági tanács a szenátusnál, annak eredménytelensége esetén a fenntartónál jelzéssel élhet, ha megítélése szerint a felsőoktatási intézmény a gazdálkodásával, a rendelkezésére bocsátott vagy tulajdonában lévő ingatlanvagyon működtetésével, hasznosításával, elidegenítésével kapcsolatosan hozott döntésével veszélyezteti a felsőoktatási intézmény működését. Állami felsőoktatási intézmény esetében e bekezdés vonatkozásában fenntartón az állami vagyon felügyeletéért felelős minisztert kell érteni.
 
 (4) A szervezeti és működési szabályzatban meg kell határozni azt az összeget, amely felett a gazdasági tanács véleményét a kötelezettségvállaláshoz be kell szerezni.
 
@@ -2016,7 +2016,7 @@ címet adományozhat.
   - ea) a felsőoktatási intézmény gazdálkodását, működésének törvényességét, hatékonyságát,
   - eb) a szakmai munka eredményességét;
 - f) kezdeményezi a rektor megbízását és felmentését, továbbá gyakorolja felette a munkáltatói jogokat;
-- g) a rektor javaslatára megbízza a gazdasági vezetőt – költségvetési szervként működő felsőoktatási intézmény esetén a belső ellenőrzési egység vezetőjét –, illetve a rektor, a gazdasági tanács vagy saját kezdeményezésére visszavonja a megbízását;
+- g) a rektor javaslatára megbízza a gazdasági vezetőt – költségvetési szervként működő felsőoktatási intézmény esetén a belső ellenőrzési egység vezetőjét –, illetve a rektor, a gazdasági tanács vagy saját kezdeményezésére visszavonja a megbízását. Állami felsőoktatási intézmény esetében e pont vonatkozásában fenntartón az állami vagyon felügyeletéért felelős minisztert kell érteni;
 - h) gondoskodik a költségvetési szervként működő felsőoktatási intézmény éves elemi költségvetési beszámolójának ellenőrzéséről;
 - i) az államháztartásról szóló törvényben foglaltak szerint vizsgálja, hatásvizsgálat keretében bemutatja a költségvetési szervként működő felsőoktatási intézményi tevékenység keretében ellátott közfeladat-ellátási igény meglétét, a közfeladat-ellátás más megoldási módokkal, más szervezeti megoldásokkal szembeni előnyét.
 
@@ -2178,7 +2178,7 @@ címet adományozhat.
 
 - a) az állami vagyon értékesítésére vonatkozó általános rendelkezések figyelembevételével,
 - b) a vagyon valós piaci értékének ellenértéke fejében,
-- c) a miniszter előzetes egyetértésével,
+- c) az állami vagyon felügyeletéért felelős miniszter előzetes egyetértésével,
 - d) a Magyar Nemzeti Vagyonkezelő Zrt. értékesítést megelőző értesítése mellett,
 - e) ingatlan esetén az ingatlan fekvése szerinti települési – fővárosban az ingatlan fekvése szerinti kerületi – önkormányzat elővásárlási jogának biztosításával
 
@@ -2198,7 +2198,7 @@ történhet.
 
 122/A. § (1) Az állami felsőoktatási intézmény kincstári körbe nem tartozó befektetővel végzett közös beruházás esetén jogosult a vagyonkezelésében lévő ingatlant – versenyeztetés nélkül – a befektető használatába adni, vagy arra vonatkozóan földhasználati jogot biztosítani számára. A használati, földhasználati jog átengedése a befektetővel kötött megállapodásban foglalt feltételek szerint, akár ellenérték nélkül is történhet, időtartama azonban a húsz évet nem haladhatja meg.
 
-(2) Az állami felsőoktatási intézmények a költségvetésük terhére hosszú távú (legfeljebb húszéves) kötelezettséget vállalhatnak felhalmozási célokra vagy beruházást helyettesítő szolgáltatás vásárlására. Az ebből származó éves fizetési kötelezettségek együttes összege egyik évben sem haladhatja meg az éves költségvetésük dologi és felhalmozási célú előirányzatának tíz százalékát. Amennyiben az éves fizetési kötelezettségek együttes összege e határt a felsőoktatási intézmény tárgyévi költségvetésének csökkenése miatt haladja meg, új kötelezettség nem vállalható mindaddig, amíg az arány helyre nem áll. A hosszú távú kötelezettségekről évente kimutatást kell készíteni, amely az éves költségvetés és beszámoló részét képezi. A felsőoktatási intézmények kötelezettségvállalásának ötven százalékát a miniszter által vezetett minisztérium a jóváhagyott éves fejezeti kezelésű előirányzatai terhére átvállalhatja. Az átvállalások együttes összege nem haladhatja meg a miniszter által vezetett minisztérium adott évre jóváhagyott központi beruházási előirányzatai harminchárom százalékának megfelelő mértéket. Az ezt meghaladó átvállaláshoz az államháztartásért felelős miniszter egyetértése szükséges.
+(2) Az állami felsőoktatási intézmények a költségvetésük terhére hosszú távú (legfeljebb húszéves) kötelezettséget vállalhatnak felhalmozási célokra vagy beruházást helyettesítő szolgáltatás vásárlására. Az ebből származó éves fizetési kötelezettségek együttes összege egyik évben sem haladhatja meg az éves költségvetésük dologi és felhalmozási célú előirányzatának tíz százalékát. Amennyiben az éves fizetési kötelezettségek együttes összege e határt a felsőoktatási intézmény tárgyévi költségvetésének csökkenése miatt haladja meg, új kötelezettség nem vállalható mindaddig, amíg az arány helyre nem áll. A hosszú távú kötelezettségekről évente kimutatást kell készíteni, amely az éves költségvetés és beszámoló részét képezi. A felsőoktatási intézmények kötelezettségvállalásának ötven százalékát a miniszter által vezetett minisztérium a jóváhagyott éves fejezeti kezelésű előirányzatai terhére átvállalhatja. Az átvállalások együttes összege nem haladhatja meg a miniszter által vezetett minisztérium adott évre jóváhagyott központi beruházási előirányzatai harminchárom százalékának megfelelő mértéket. Az ezt meghaladó átvállaláshoz az állami vagyon felügyeletéért felelős miniszter egyetértése szükséges.
 
 123. § (1) Az állami felsőoktatási intézmény saját tulajdonra
 
