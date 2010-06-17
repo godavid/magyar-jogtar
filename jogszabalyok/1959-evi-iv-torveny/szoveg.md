@@ -366,7 +366,7 @@ Ptk.26–27. §
 
 ### V. Fejezet — A jogképesség; a jogi személy létrejötte és megszűnése
 
-Ptk.28. § (1) Az állam — mint a vagyoni jogviszonyok alanya — jogi személy. Az államot a polgári jogviszonyokban – ha jogszabály ettől eltérően nem rendelkezik – az államháztartásért felelős miniszter képviseli; ezt a jogkörét más állami szerv útján is gyakorolhatja, vagy más állami szervre ruházhatja át.
+Ptk.28. § (1) Az állam – mint a vagyoni jogviszonyok alanya – jogi személy. Az államot a polgári jogviszonyokban – ha jogszabály ettől eltérően nem rendelkezik – az állami vagyon felügyeletéért felelős miniszter képviseli.
 
 (2) A kártérítési, megtérítési és kártalanítási kötelezettség, valamint a jóhiszemű személyek irányában vállalt szerződéses kötelezettség az államot költségvetési fedezet hiányában vagy az e célra biztosított költségvetési fedezetet meghaladó mértékben is terheli.
 
@@ -4945,7 +4945,7 @@ Ptké.92. § (1) A Ptk.-nak az öröklési jogot szabályozó rendelkezéseit �
 
 Ptk.685. § E törvény alkalmazásában
 
-- a) jogszabály: a törvény, a kormányrendelet, továbbá a törvény felhatalmazása alapján, annak keretei között az önkormányzati rendelet; a 29. § (3) bekezdése, a 200. § (2) bekezdése, a 209/B. § (6) bekezdése, a 305. § (1) bekezdése, a 434. § (3)–(4) bekezdése, az 523. § (2) bekezdése és az 528. § (3) bekezdése tekintetében valamennyi jogszabály;
+- a) jogszabály: a törvény, a kormányrendelet, továbbá a törvény felhatalmazása alapján, annak keretei között az önkormányzati rendelet; a 28. § (1) bekezdése tekintetében az állami vagyon felügyeletéért felelős miniszter rendelete; a 29. § (3) bekezdése, a 200. § (2) bekezdése, a 209/B. § (6) bekezdése, a 305. § (1) bekezdése, a 434. § (3)–(4) bekezdése, az 523. § (2) bekezdése és az 528. § (3) bekezdése tekintetében valamennyi jogszabály;
 
 Tvr.18. § A törvény hatálybalépése előtt kiadott hatályos jogszabályokat ez a rendelkezés nem érinti.
 
