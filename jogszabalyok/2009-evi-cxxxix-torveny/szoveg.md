@@ -20,17 +20,17 @@ Az Országgyűlés az Európai Parlament és a Tanács nép- és lakásszámlál
 
 (5) Az adatfelvételt 2011. október 1. és 2011. november 30. között kell végrehajtani.
 
-2. § (1) A népszámlálás során az adatszolgáltatás a természetes személyek, a lakások, valamint az intézetek következő adatköreinek összeírására terjed ki:
+2. § (1) A népszámlálás során az adatszolgáltatás a természetes személyek, a lakó- és üdülőegységek, valamint a közösségi elhelyezést szolgáló intézetek (pl. diákotthon, kórház) következő adatainak összeírására terjed ki:
 
-- a) a természetes személyekre vonatkozóan: nem, születési idő, állampolgárság, nemzeti és etnikai hovatartozás, anyanyelv, családi állapot, jelenlegi és egy évvel korábbi lakóhely, születési hely, háztartások és családok összetétele, termékenység, fogyatékosság, iskolai végzettség, gazdasági aktivitás, foglalkozás, munkáltató, lakáshasználat jogcíme;
-- b) a lakásokra vonatkozóan: rendeltetés (típus), használat formája, tulajdoni jelleg, lakás-alapterület, építési év, szobák száma, felszereltség;
-- c) az intézetekre vonatkozóan: rendeltetés, férőhelyek száma, az üzemeltetés időszaka.
+- a) a természetes személyekre vonatkozóan: nem, születési időpont, lakóhely, családi állapot, családi állás, termékenység, iskolába járás, iskolai végzettség, személyek és háztartások megélhetési forrása, foglalkozás, munkáltató és munkahely, közlekedés, utazás, egészségi állapot, fogyatékosság, állampolgárság, vallás, nemzetiség, anyanyelv, nyelvismeret, a lakáshasználat jogcíme, üdülőtulajdon;
+- b) a lakó- és üdülőegységre vonatkozóan: rendeltetés (típus), tulajdoni jelleg, helyiségek száma, alapterület, kommunális ellátottság, felszereltség, karbantartás, a fűtés módja, építési év, falazat, a környezet lakóövezeti jellege;
+- c) a közösségi elhelyezést szolgáló intézetekre (pl. diákotthon, kórház) vonatkozóan: az intézet rendeltetése, a fenntartó gazdálkodási formája; tulajdoni jellege, dolgozói létszáma, az intézet férőhelyeinek, egészségügyi helyiségeinek száma, lakóövezeti jellege, kommunális ellátottsága, az étkeztetés formája; az intézeti épület típusa, nagysága, építési éve, falazata, felszereltsége, fűtésének módja, utolsó felújításának ideje, helyiségeinek típusa és száma, az üzemeltetés időszaka.
 
 (2) A népszámlálás során a személy családi és utónevét a népszámlálási kérdőívre felvenni nem szabad.
 
-3. § (1) Az adatszolgáltatás – a nemzeti és etnikai hovatartozás, az anyanyelv és a fogyatékosság kivételével – kötelező. Az adatszolgáltatásra kötelezettek kötelesek a népszámlálás körébe tartozó adatokat a valóságnak megfelelően, az 1. § (3) bekezdésében meghatározott adatszolgáltatási módok valamelyikével az 1. § (5) bekezdésben meghatározott időszakban megadni.
+3. § (1) Az adatszolgáltatás – a (2) bekezdésben felsorolt kérdések kivételével – kötelező. Az adatszolgáltatásra kötelezettek kötelesek a népszámlálás körébe tartozó adatokat a valóságnak megfelelően, az 1. § (3) és (4) bekezdésekben meghatározott adatszolgáltatási módok valamelyikével az 1. § (5) bekezdésben meghatározott időszakban megadni.
 
-(2) Az adatszolgáltatás a nemzeti és etnikai hovatartozásra, az anyanyelvre, valamint a fogyatékosságra vonatkozóan önkéntes.
+(2) Az adatszolgáltatás az egészségi állapotra, a fogyatékosságra, a vallásra, az anyanyelvre és a nemzetiségre vonatkozóan önkéntes.
 
 (3) A népszámlálás során gyűjtött adatok kizárólag statisztikai célra használhatók.
 
