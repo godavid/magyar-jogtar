@@ -1513,7 +1513,7 @@ ELJÁRÁSOK
 
 140. § (1) A felhasználó a villamosenergia-vásárlási és a hálózathasználati szerződés feltételei szerint megfizeti a villamos energia árát és a 142. § szerinti, a villamosenergia-rendszer használatáért fizetendő díjakat.
 
-(2) A villamosenergia-rendszer használatáért fizetendő díjakat jogszabály határozza meg, a villamosenergia-kereskedő által a felhasználónak értékesített villamos energia eladási árát a felek megállapodása, vagy a villamosenergia-kereskedő üzletszabályzata, az egyetemes szolgáltatás keretében értékesített villamos energiának – a kiszámítására vonatkozó jogszabályi előírásoknak megfelelően képzett – árát az egyetemes szolgáltató üzletszabályzata tartalmazza.
+(2) A villamosenergia-rendszer használatáért fizetendő díjakat jogszabály határozza meg, a villamosenergia-kereskedő által a felhasználónak értékesített villamos energia eladási árát a felek megállapodása, vagy a villamosenergia-kereskedő üzletszabályzata, az egyetemes szolgáltatás keretében értékesített villamos energia árát a miniszter rendeletben állapítja meg.
 
 (3) Ha a felhasználó hálózathasználati szerződését a kereskedő, illetve egyetemes szolgáltató a 63. § (1) bekezdésének megfelelően megbízottként, vagy bizományosként kezeli, a villamosenergia-rendszer használatáért fizetendő díjakat köteles a számlán külön feltüntetni.
 
@@ -1535,7 +1535,7 @@ ELJÁRÁSOK
 
 (8) A legmagasabb hatósági árnál magasabb árat a szerződésben érvényesen kikötni nem lehet. Ha a felek az árban nem állapodtak meg, és a termékre vagy szolgáltatásra hatósági ár van érvényben, az utóbbi az irányadó. A hatósági ár az irányadó akkor is, ha a felek a jogszabály megsértésével más árban állapodtak meg.
 
-(9) E fejezet alkalmazásában hatósági ár a 142. § (1) bekezdése szerinti rendszerhasználati díj, a 144. § (1) bekezdése szerinti csatlakozási díj, az elosztó hálózati engedélyes, vagy az egyetemes szolgáltató által a felhasználók igénye alapján végzett egyes szolgáltatások 142. § (11) bekezdése, illetve 143. § (3) bekezdése szerinti díja, valamint az egyetemes szolgáltatás 143. § (1)–(2) bekezdése szerint képzett ára.
+(9) E fejezet alkalmazásában hatósági ár a 142. § (1) bekezdése szerinti rendszerhasználati díj, a 144. § (1) bekezdése szerinti csatlakozási díj, az elosztó hálózati engedélyes, vagy az egyetemes szolgáltató által a felhasználók igénye alapján végzett egyes szolgáltatások 142. § (11) bekezdése, illetve 143. § (3) bekezdése szerinti díja, valamint az egyetemes szolgáltatás 143. § (1) bekezdése szerinti ára.
 
 142. § (1) A villamosenergia-rendszer használatért
 
@@ -1579,23 +1579,31 @@ ELJÁRÁSOK
 
 143. § (1) Az egyetemes szolgáltatást méltányos, könnyen és tisztán összehasonlítható, átlátható árszabások alkalmazásával, külön jogszabályban meghatározott típusú termékcsomagok biztosításával kell megvalósítani.
 
-(2) A 90. § (3) bekezdése alkalmazásával kiadott engedélyek alapján nyújtott egyetemes szolgáltatás árának meghatározásánál figyelembe veendő összehasonlító (benchmark) ár kiszámítására vonatkozó előírásokat és az alkalmazható legnagyobb kereskedelmi árrést a Hivatal javaslata alapján a miniszter külön jogszabályban állapítja meg.
+(2) Az egyetemes szolgáltatás árát a hatékonyan működő engedélyes gazdálkodó szervezetek indokolt működési és tőkeköltsége, és összehasonlító elemzések alapján kell meghatározni úgy, hogy a legkisebb költség elvének érvényre juttatása érdekében a szabályozás által érintett engedélyeseket gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze.
 
-(3) Az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető egyéb szolgáltatások körét és annak díjait külön jogszabály állapítja meg.
+(3) A 90. § (3) bekezdése alkalmazásával kiadott engedélyek alapján nyújtott egyetemes szolgáltatás árát, az áralkalmazási feltételeket, valamint az árszabályozás kereteit a Hivatal javaslata alapján a miniszter rendeletben állapítja meg.
 
-(4) Az egyetemes szolgáltatónak az egyetemes szolgáltatás árára vonatkozó árváltoztatási szándékát és a javasolt árakat 45 nappal előre jóváhagyásra be kell jelentenie a Hivatalhoz. A Hivatal a javasolt árakról 22 munkanapon belül határoz.
+(4) Az egyetemes szolgáltatás hatósági árait legalább azok hatálybalépése előtt 30 nappal ki kell hirdetni.
 
-(5) A jóváhagyott árakat alkalmazásuk kezdete előtt legalább 15 nappal az egyetemes szolgáltató a honlapján, valamint két országos napilapban közzé teszi, továbbá a felhasználókat a 62. § (2) bekezdésének c) pontja szerint értesíti. A közzétételnek a felhasználókat megillető felmondási jogra vonatkozó tájékoztatást is tartalmaznia kell.
+(5) A kihirdetett egyetemes szolgáltatói árakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon el lehet térni.
 
-(6) Az egyetemes szolgáltató által kibocsátott számlán szereplő egységárak bármely változása esetén – a 62. § (2) bekezdésének c) pontja szerint értesítésen túlmenően – az egyetemes szolgáltató legkésőbb az új árakat tartalmazó számla kibocsátásakor a felhasználókat külön is egyértelműen, személyre szólóan tájékoztatja. A tájékoztatásnak a felhasználókat megillető felmondási jogra is ki kell terjednie.
+(6) Az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető egyéb szolgáltatások körét és annak díjait külön jogszabály állapítja meg.
 
-(7) Az egyetemes szolgáltatás árát naptári negyedévenként egyszer lehet módosítani.
+143/A. § (1) Az árképzés és az áralkalmazás részletes szabályait, valamint az árszabályozás kereteire vonatkozó részletes szabályokat a Hivatal készíti elő. A Hivatal előkészítő tevékenysége során kikéri az érintett engedélyesek véleményét.
 
-(8) Az egyetemes szolgáltatás árára és árképzésére vonatkozó előírások teljesülését a Hivatal ellenőrzi.
+(2) A kihirdetett árakat alkalmazásuk kezdete előtt legalább 15 nappal az egyetemes szolgáltató a honlapján, továbbá a felhasználókat a 62. § (2) bekezdésének c) pontja szerint értesíti. A közzétételnek a felhasználókat megillető felmondási jogra vonatkozó tájékoztatást is tartalmaznia kell.
 
-(9) A (8) bekezdés szerinti ellenőrzés keretében a Hivatal naptári negyedévenként ellenőrzi az összehasonlító ár árelemeinek alakulását a (2) bekezdés szerinti miniszteri rendeletben meghatározott, az összehasonlító ár kiszámítására vonatkozó előírások alapján.
+(3) Az egyetemes szolgáltató által kibocsátott számlán szereplő egységárak bármely változása esetén – a 62. § (2) bekezdésének c) pontja szerint értesítésen túlmenően – az egyetemes szolgáltató legkésőbb az új árakat tartalmazó számla kibocsátásakor a felhasználókat külön is egyértelműen, személyre szólóan tájékoztatja. A tájékoztatásnak a felhasználókat megillető felmondási jogra is ki kell terjednie.
 
-(10) Amennyiben a (9) bekezdés szerinti eljárása során a Hivatal megállapítja, hogy valamely egyetemes szolgáltató által alkalmazott ár a miniszteri rendelet előírásainak megfelelően képzett árnál magasabb, a Hivatal az egyetemes szolgáltató által alkalmazott árat határozattal hivatalból módosítja.
+(4) Az egyetemes szolgáltatás árára vonatkozó előírások teljesülését a Hivatal ellenőrzi.
+
+(5) Az engedélyesek kötelesek a 143. § (1)–(2) bekezdésével összhangban a Hivatal 143. § (3) bekezdés szerinti előkészítő tevékenységének elősegítése érdekében az általuk alkalmazandó egyetemes szolgáltatási árakra javaslatot tenni, és azt a Hivatalhoz benyújtani.
+
+(6) Az egyetemes szolgáltató köteles
+
+- a) a legkisebb költség elvét betartani, és az ezt igazoló adatokat a Hivatal számára hozzáférhetővé tenni,
+- b) a Hivatalnak megadni minden olyan tájékoztatást, amely az árfelügyeleti és hatósági árelőkészítő tevékenységhez szükséges,
+- c) a költség és árbevétel struktúra átláthatóságát nyilvántartási és elszámolási rendszerében biztosítani.
 
 144. § (1) A közcélú hálózathoz történő csatlakozással összefüggésben keletkezett hálózatfejlesztési költségek fedezetéül külön jogszabályban meghatározott csatlakozási díj fizetendő.
 
@@ -1620,7 +1628,7 @@ ELJÁRÁSOK
 - b) kötelezi az engedélyest a 142–144. §-okban foglalt rendelkezések megsértésével elért többletbevétel jegybanki alapkamat tárgyévi éves átlagával növelt összegének a sérelmet szenvedett fél részére történő visszatérítésére, ha pedig ennek személye nem állapítható meg, az engedélyes által ellátott valamennyi felhasználó, felhasználó hiányában az engedélyessel jogviszonyban álló rendszerhasználók részére történő visszatérítésére, és
 - c) bírságot szabhat ki.
 
-145/A. § A Hivatal határozattal kötelezheti az egyetemes szolgáltatót a 143. §-ban foglalt rendelkezések megsértésével elért többletbevétel Hivatal által meghatározott hányadának a krízishelyzetbe került személyek támogatásáról szóló külön jogszabályban meghatározott támogatás céljára elkülönített előirányzat javára közérdekű kötelezettségvállalásként történő befizetésére. Ez a § 2009. december 31-én hatályát veszti.
+145/A. § A 170. § (2) bekezdésnek a földgázellátásról szóló 2008. évi XL. törvény, valamint a villamos energiáról szóló 2007. évi LXXXVI. törvény módosításáról szóló 2010. évi LV. törvény 17. §-ával megállapított 1. pontjában foglalt felhatalmazás alapján megalkotott rendelet hatálybalépéséig a Hivatal által a földgázellátásról szóló 2008. évi XL. törvény, valamint a villamos energiáról szóló 2007. évi LXXXVI. törvény módosításáról szóló 2010. évi LV. törvény hatálybalépését megelőzően utoljára jóváhagyott árakat kell alkalmazni a Hivatal határozatában meghatározott időponttól.
 
 146. § (1) Az átvételi kötelezettség alá eső villamos energia átvételi árait a 9. § szerinti kötelező átvételi rendszer részletes szabályait meghatározó külön jogszabály tartalmazza.
 
@@ -1737,7 +1745,7 @@ villamos energia képezi.
 - j) előkészíti a rendszerhasználati díjakat és a csatlakozási díjakra, valamint alkalmazási feltételeikre vonatkozó szabályokat,
 - k) előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabályokat,
 - l) előkészíti a felhasználó igénye alapján az elosztó és egyetemes szolgáltató által külön díj ellenében végezhető szolgáltatások körét és díjait,
-- m) ellenőrzi a rendszerhasználati díjakra és a csatlakozási díjakra, valamint az egyetemes szolgáltatás árképzésére vonatkozó előírások betartását, továbbá jóváhagyja az egyetemes szolgáltatás árait,
+- m) ellenőrzi a rendszerhasználati díjakra és a csatlakozási díjakra, valamint az egyetemes szolgáltatás áraira vonatkozó előírások betartását,
 - n) az átviteli rendszerirányító javaslata alapján dönt a vezetékek közcélúvá, ezen belül átviteli, illetve elosztó vezetékké történő minősítéséről, átminősítéséről,
 - o) a 37. §-ban meghatározott szabályok szerint dönt a rendszerösszekötő vezeték tekintetében benyújtott mentesítési kérelemről,
 - p) jóváhagyja az átviteli rendszerirányító által készített hálózatfejlesztési tervet,
@@ -1999,7 +2007,7 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
-- 1. az egyetemes szolgáltatás árképzésének szabályait és az egyetemes szolgáltatás legnagyobb kereskedelmi árrését, az egyetemes szolgáltatás keretében nyújtandó termékcsomagokat és az azokhoz kapcsolódó árszabásokat,
+- 1. az egyetemes szolgáltatáshoz kapcsolódó árakat, áralkalmazási feltételeket, az árszabályozás kereteit, az egyetemes szolgáltatás keretében nyújtandó termékcsomagokat és az azokhoz kapcsolódó árszabásokat, valamint az egyetemes szolgáltató által benyújtott árváltoztatási javaslatot megelőzően alkalmazandó induló tételes árszabásokat,
 - 2. az elosztó hálózati engedélyesek és az egyetemes szolgáltató által a felhasználó igénye alapján külön díj ellenében végezhető szolgáltatások körét és díjait,
 - 3. a háztartási méretű kiserőművekről, illetve védendő fogyasztókról vezetendő nyilvántartások részletes szabályait az adatvédelemről szólót törvénnyel összhangban, továbbá a háztartási kiserőművek mérésének részletes szabályait,
 - 4. az 50 MW, és azt meghaladó teljesítőképességű erőművek energiaforrás-készletének legkisebb mértékét,

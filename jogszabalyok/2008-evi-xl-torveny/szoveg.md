@@ -58,7 +58,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - 14. Elszámolási mérés: a földgázforgalomnak az Üzemi és Kereskedelmi Szabályzat szerint kialakított, a földgázszállító, a földgázelosztó vagy földgáztároló (a továbbiakban együtt: rendszerüzemeltető) által működtetett, a mérésügyi jogszabályok szerint mérésre alkalmas fogyasztásmérő berendezésekkel történő meghatározása.
 - 15. Engedélyes: aki e törvény szerint engedélyköteles tevékenység végzésére a Magyar Energia Hivatal (a továbbiakban: Hivatal) által kiadott érvényes engedéllyel rendelkezik.
 - 16. Felhasználási hely: a felhasználó tulajdonában vagy használatában lévő ingatlan, ahol a felhasználói berendezés, a gázfogyasztást szolgáló nyomásszabályozó, a gázmérőhely vagy a fogyasztói főcsap van.
-- 17. Felhasználó: az a természetes vagy jogi személy, illetve jogi személyiség nélküli társaság, aki (amely) földgázt vagy vezetéken keresztül PB-gázt saját felhasználás céljára vásárol.
+- 17. Felhasználó: aki földgázt vagy vezetéken keresztül PB-gázt saját felhasználás céljára vásárol.
 - 18. Felhasználói berendezés: a fogyasztói vezeték, a gázfogyasztó készülék és a gázfelhasználó technológiák, valamint az azok rendeltetésszerű és biztonságos használatához szükséges tartozékok összessége.
 - 19. Fogyasztói főcsap: a gázmérőnél lévő, ennek hiányában a csatlakozóvezeték és a fogyasztói vezeték közé beépített elzáró szerelvény, amely a csatlakozóvezeték tartozéka.
 - 20. Fogyasztói főelzáró: a telekhatáron vagy annak közelében létesített elzáró szerelvény, amely az elosztóvezeték tartozéka.
@@ -90,7 +90,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - 44. Kereskedelmi egyensúly: az az egyensúlyi állapot, amikor adott gáznapon a rendszerhasználó által az együttműködő földgázrendszerbe betáplált és onnan vételezett földgáz mennyisége megegyezik.
 - 45. Kiegyensúlyozó földgáz: adott gáznapon a rendszerhasználók által az együttműködő földgázrendszerbe beadott és a ténylegesen vételezett földgázmennyiségek közötti különbség kiegyenlítésére a földgázszállító által felhasznált földgázmennyiség.
 - 46. Korlátozás: földgázellátási zavar esetén az egyes korlátozási kategóriákba besorolt felhasználók gázfogyasztásának csökkentése vagy megszüntetése annak érdekében, hogy az együttműködő földgázrendszeren vagy annak egy részén a hidraulikai egyensúly helyreálljon és fenntartható legyen.
-- 47. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező, lakás céljára használt lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol földgázt földgáz vételezésére megkötött szerződés alapján, és az így vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet.
+- 47. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol földgázt földgáz vételezésére megkötött szerződés alapján, és az így vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet. Ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a felhasználót úgy kell tekinteni, hogy saját háztartás céljára vételez és a vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet.
 - 48. Legkisebb költség: az engedélyezett tevékenység gyakorlásához az engedélyesnél, illetve nemzetgazdasági szinten szükséges és indokoltan felmerülő ráfordítás.
 - 49. Lekötött kapacitás: a szállító- és az elosztóvezeték, valamint a földgáztároló értékesíthető kapacitásának az a része, amelyet adott időszakra a rendszerhasználók kapacitáslekötési szerződéssel lekötnek.
 - 50. Nominálás: a rendszerhasználó által a betáplálási és kiadási pontokra – az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint – igénybe venni tervezett kapacitás, valamint a szállítási, elosztási, tárolási feladat gáznapra történő megadása.
@@ -939,9 +939,9 @@ lehet igénybe venni.
 
 103. § (1) A felhasználó – a földgáz kereskedelmi szerződés feltételei szerint – a földgáz árát köteles megfizetni.
 
-(2) E fejezet alkalmazásában legmagasabb hatósági ár a 105. § (1) bekezdése szerinti rendszerhasználati díj, a 108. § (1) bekezdése szerinti csatlakozási díj, a rendszerüzemeltető és az egyetemes szolgáltató által a felhasználók igénye alapján végzett kiegészítő szolgáltatások 106. § szerinti díja, valamint az egyetemes szolgáltatás 107. § (2) bekezdése szerint képzett ára.
+(2) E fejezet alkalmazásában legmagasabb hatósági ár a 105. § (1) bekezdése szerinti rendszerhasználati díj, a 108. § (1) bekezdése szerinti csatlakozási díj, a rendszerüzemeltető és az egyetemes szolgáltató által a felhasználók igénye alapján végzett kiegészítő szolgáltatások 106. § szerinti díja, valamint az egyetemes szolgáltatás 107. § (3) bekezdése szerinti ára.
 
-(3) Az együttműködő földgázrendszer használatáért fizetendő legmagasabb díjak mértékét a miniszter tételesen, országosan egységesen rendeletben állapítja meg. A földgázkereskedő által a felhasználónak értékesített földgáz eladási árát a felek megállapodása vagy a földgázkereskedő üzletszabályzata tartalmazza. Az egyetemes szolgáltatás keretében értékesített földgáznak – a kiszámítására vonatkozó jogszabályi előírásoknak és az engedélyében foglaltaknak megfelelően képzett és a Hivatal által jóváhagyott – árát az egyetemes szolgáltató üzletszabályzata tartalmazza.
+(3) Az együttműködő földgázrendszer használatáért fizetendő legmagasabb díjak mértékét a miniszter tételesen, országosan egységesen rendeletben állapítja meg. A földgázkereskedő által a felhasználónak értékesített földgáz eladási árát a felek megállapodása vagy a földgázkereskedő üzletszabályzata tartalmazza. Az egyetemes szolgáltatás keretében értékesített földgáz árát a miniszter rendeletben állapítja meg.
 
 (4) A földgáz kereskedelmi szerződés oly módon is megköthető, hogy a földgázkereskedő az árban figyelembe veszi az együttműködő földgázrendszer használatáért fizetendő díjakat is. Az egyetemes szolgáltatás ára tartalmazza a rendszerhasználati díjakat.
 
@@ -953,7 +953,7 @@ lehet igénybe venni.
 
 (4) A hatósági ár megállapítása hivatalból történik.
 
-(5) A hatósági árat, valamint annak alkalmazási feltételeit a miniszter rendeletben hirdeti ki, kivéve az egyetemes szoltáltatáshoz kapcsolódó árakat. A miniszter a rendeletben meghatározza, hogy a hatósági árat mikortól kell alkalmazni. E rendelkezésnek visszamenőleges hatálya nem lehet.
+(5) A hatósági árat, valamint annak alkalmazási feltételeit a miniszter rendeletben hirdeti ki. A miniszter a rendeletben meghatározza, hogy a hatósági árat mikortól kell alkalmazni. E rendelkezésnek visszamenőleges hatálya nem lehet.
 
 (6) A legmagasabb hatósági árnak a szerződés megkötését követően bekövetkező változása esetén a felek eltérő rendelkezése hiányában a megváltozott hatósági ár az érvényes szerződés részévé válik.
 
@@ -997,21 +997,29 @@ lehet igénybe venni.
 
 107. § (1) Az egyetemes szolgáltatást méltányos, könnyen és tisztán összehasonlítható, átlátható árszabások alkalmazásával kell megvalósítani.
 
-(2) A 32. § alkalmazásával kiadott engedélyek alapján nyújtott egyetemes szolgáltatás árának meghatározásánál figyelembe veendő összehasonlító ár kiszámítására vonatkozó előírásokat és az alkalmazható legnagyobb kereskedelmi árrést a Hivatal javaslata alapján a miniszter külön jogszabályban állapítja meg.
+(2) Az egyetemes szolgáltatás árát a hatékonyan működő engedélyes gazdálkodó szervezetek indokolt működési és tőkeköltsége, és összehasonlító elemzések alapján kell meghatározni úgy, hogy a legkisebb költség elvének érvényre juttatása érdekében a szabályozás által érintett engedélyeseket gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze.
 
-(3) Az egyetemes szolgáltatónak az egyetemes szolgáltatás árára vonatkozó árváltoztatási szándékát és a javasolt árakat tartalmazó üzletszabályzat módosítást 25 nappal előre jóváhagyásra be kell jelentenie a Hivatalhoz. A Hivatal a javasolt árakról 20 napon belül határoz.
+(3) A 32. § alkalmazásával kiadott engedélyek alapján nyújtott egyetemes szolgáltatás árát, az áralkalmazási feltételeket, valamint az árszabályozás kereteit a Hivatal javaslata alapján a miniszter rendeletben állapítja meg.
 
-(4) A jóváhagyott árakat az egyetemes szolgáltató alkalmazásuk kezdete előtt legalább 5 nappal a honlapján, valamint a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzéteszi. A közzétételnek a felhasználókat megillető felmondási jogra, valamint a felmondás határidejére vonatkozó tájékoztatást is tartalmaznia kell.
+(4) Az egyetemes szolgáltatás hatósági árait legalább azok hatálybalépése előtt 30 nappal ki kell hirdetni.
 
-(5) Az egyetemes szolgáltató által kibocsátott számlán szereplő egységárak bármely változása esetén – a (4) bekezdés szerinti közzétételen túlmenően – az egyetemes szolgáltató legkésőbb az új árakat tartalmazó számla kibocsátásakor a felhasználókat külön is egyértelműen, személyre szólóan, írásban tájékoztatja. A tájékoztatásnak a felhasználókat megillető felmondási jogra és a felmondás határidejére is ki kell terjednie.
+(5) A kihirdetett egyetemes szolgáltatói árakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon el lehet térni.
 
-(6) Az egyetemes szolgáltatás árát naptári negyedévenként egyszer lehet módosítani.
+107/A. § (1) Az árképzés és az áralkalmazás részletes szabályait, valamint az árszabályozás kereteire vonatkozó részletes szabályokat a Hivatal készíti elő. A Hivatal előkészítő tevékenysége során kikéri az érintett engedélyesek véleményét.
 
-(7) Az egyetemes szolgáltatás árára és árképzésére vonatkozó előírások teljesülését a Hivatal ellenőrzi.
+(2) A kihirdetett árakat az egyetemes szolgáltató alkalmazásuk kezdete előtt legalább 5 nappal a honlapján közzéteszi. A közzétételnek a felhasználókat megillető felmondási jogra, valamint a felmondás határidejére vonatkozó tájékoztatást is tartalmaznia kell.
 
-(8) A (7) bekezdés szerinti ellenőrzés keretében a Hivatal naptári negyedévenként ellenőrzi az összehasonlító ár árelemeinek alakulását a (2) bekezdés szerinti miniszteri rendeletben meghatározott, az összehasonlító ár kiszámítására vonatkozó előírások alapján.
+(3) Az egyetemes szolgáltató által kibocsátott számlán szereplő egységárak bármely változása esetén – a (2) bekezdés szerinti közzétételen túlmenően – az egyetemes szolgáltató legkésőbb az új árakat tartalmazó számla kibocsátásakor a felhasználókat külön is egyértelműen, személyre szólóan, írásban tájékoztatja. A tájékoztatásnak a felhasználókat megillető felmondási jogra és a felmondás határidejére is ki kell terjednie.
 
-(9) Amennyiben a (8) bekezdés szerinti eljárása során a Hivatal megállapítja, hogy valamely egyetemes szolgáltató által alkalmazott ár a miniszteri rendelet előírásainak megfelelően képzett árnál magasabb, a Hivatal az egyetemes szolgáltató által alkalmazott árat határozattal hivatalból módosítja.
+(4) Az egyetemes szolgáltatás árára vonatkozó előírások teljesülését a Hivatal ellenőrzi.
+
+(5) Az engedélyesek kötelesek a 107. § (1)–(2) bekezdésével összhangban a Hivatal 107. § (3) bekezdés szerinti előkészítő tevékenységének elősegítése érdekében az általuk alkalmazandó egyetemes szolgáltatási árakra javaslatot tenni, és azt a Hivatalhoz benyújtani.
+
+(6) Az egyetemes szolgáltató köteles
+
+- a) a legkisebb költség elvét betartani, és az ezt igazoló adatokat a Hivatal számára hozzáférhetővé tenni,
+- b) a Hivatalnak megadni minden olyan tájékoztatást, amely az árfelügyeleti és hatósági árelőkészítő tevékenységhez szükséges,
+- c) a költség és árbevétel struktúra átláthatóságát nyilvántartási és elszámolási rendszerében biztosítani.
 
 108. § (1) A felhasználók a földgázszállítás és földgázelosztás bővítésére és fejlesztésére a földgázellátásba történő bekapcsolásért, vagy a korábban vásárolt kapacitást meghaladó többletkapacitásért a miniszter által rendeletben meghatározott mértékű csatlakozási díjat fizetnek a rendszerüzemeltetőnek. A csatlakozási díj általános forgalmiadó-fizetési kötelezettségére külön törvény rendelkezései irányadók. A csatlakozási díjat a rendszerhasználati díjak figyelembevételével úgy kell meghatározni, hogy a szállító- és elosztóvezeték tulajdonosának, illetve a hatékonyan működő rendszerüzemeltetőnek a felhasználó bekapcsolása miatt felmerült indokolt költségeire fedezetet nyújtson.
 
@@ -1327,7 +1335,7 @@ lehet igénybe venni.
 - f) piacfelügyeleti tevékenysége során figyelemmel kíséri a földgázpiaci verseny jellemzőit, piacelemzést és hatósági ellenőrzést végez;
 - g) ellátja a jelentős piaci erővel rendelkező engedélyes azonosításával, és az ilyen jellegű piac szabályozásával kapcsolatos, e törvény által hatáskörébe utalt teendőket;
 - h) javaslatot tesz a felhasználó igénye alapján az engedélyes által külön díj ellenében végezhető kiegészítő, illetve karbantartó szolgáltatások körére és díjaira, továbbá az egyetemes szolgáltatás felmondása, valamint a közüzemi szerződés megszűnése esetén a felhasználót megillető mobil tárolói készlet átadásának szabályaira és az áralakítás elveire;
-- i) ellenőrzi a rendszerhasználati díjakra és a csatlakozási díjakra, valamint az egyetemes szolgáltatás árképzésére és a tárgyalásos tárolói hozzáférés alkalmazására vonatkozó előírások betartását, dönt az egyetemes szolgáltatás árfeltételeiről;
+- i) ellenőrzi a rendszerhasználati díjakra és a csatlakozási díjakra, valamint az egyetemes szolgáltatás áraira vonatkozó előírások teljesülését és a tárgyalásos tárolói hozzáférés alkalmazására vonatkozó előírások betartását, előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabályokat;
 - í) a külön jogszabályban az együttműködő földgázrendszer használatáért fizetendő díjakkal együtt kihirdetett számítási módszer szerint meghatározza a földgázelosztóknak a 105. § (4) bekezdés alapján teljesítendő kiegyenlítő fizetések összegét;
 - j) a 85. § (1) bekezdésében meghatározott esetekben dönt az együttműködő földgázrendszerben alkalmazott díjmegállapítási szabályok, valamint a hozzáférési kötelezettségek teljesítése alól benyújtott mentesítési kérelmek tárgyában, továbbá dönt a tárgyalásos tárolói hozzáférés szabályainak alkalmazásához szükséges felmentésről;
 - k) rendszerfelügyeleti tevékenysége során
@@ -1436,7 +1444,7 @@ az Európai Unió szerveivel
 
 - 1. a kiegyensúlyozás földgázszállító általi biztosításához közvetlenül kapcsolódó igazolt költségeket és pótdíjakat, valamint azok nyilvántartását, kezelését,
 - 2. a csatlakozási díjakat, a rendszerhasználati díjakat, a földgázelosztási díjból származó árbevétel földgázelosztók közötti megosztására vonatkozó kiegyenlítő mechanizmus részletes szabályait, a díjalkalmazás feltételeit – különös tekintettel az ellátásbiztonságra és a földgáz műszaki vagy minőségi jellemzőire –, a díjszabályozás kereteit, a rendszerhasználati díjakra az engedélyesek által történő javaslattétel részletes szabályait az indokolt költségek meghatározásának módját, a szolgáltatások minősége javításának a rendszerhasználati díjakon keresztül történő ösztönzése szabályait, valamint a szolgáltatások minőségének romlása esetén a rendszerüzemeltetők által érvényesíthető alacsonyabb rendszerhasználati díjakat,
-- 3. az egyetemes szolgáltatáshoz kapcsolódó árszabások képzését, annak időszakonkénti változását, az egyetemes szolgáltató által alkalmazandó árképletet és alkalmazási feltételeit, az átalánydíjas fogyasztás elszámolásának részletes szabályait, valamint az egyetemes szolgáltató által benyújtandó árváltoztatási javaslatot megelőzően alkalmazandó tételes induló árszabásokat,
+- 3. az egyetemes szolgáltatáshoz kapcsolódó árakat, áralkalmazási feltételeket, az árszabályozás kereteit, az átalánydíjas fogyasztás elszámolásának részletes szabályait, az egyetemes szolgáltatók részére a 141. § alapján vételre felajánlott földgázforrás költségalapú árát, valamint az egyetemes szolgáltató által benyújtott árváltoztatási javaslatot megelőzően alkalmazandó induló tételes árszabásokat,
 - 4. az együttműködő földgázrendszer kapacitásának rendszeres felülvizsgálatához és fejlesztéséhez a műszaki-gazdasági tervezési módszereket, az ehhez szükséges adatbázis tartalmi elemeit, és a szükséges adatszolgáltatást,
 - 5. az engedélyesek rendszer üzemeltetéséhez szükséges egymás közötti és a Hivatal számára szükséges adatszolgáltatás módszertani szabályait, a szolgáltatási kötelezettség alá eső – személyes adatot nem tartalmazó – adatokat, az adatszolgáltatásra kötelezettek és az adatokhoz való hozzáférésre jogosultak körét, a Hivatal által a felhasználói érdekek képviseletét ellátó társadalmi szervezetek, illetőleg más szervezetek részére nyújtott adatszolgáltatás körét és rendjét, a Hivatal honlapján közzétételre kerülő adatok körét, továbbá az üzleti titoknak [Ptk. 81. §-ának (2) bekezdése] minősülő tények, információk, megoldások és adatok (a továbbiakban: üzleti titok) védelmére vonatkozó részletes szabályokat,
 - 6. a rendszerhasználati díj felülvizsgálatára irányuló eljárásban kötelezően benyújtandó adatok és dokumentumok körét,
@@ -1460,6 +1468,8 @@ az Európai Unió szerveivel
 ### XVIII. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
 134. § Az egyetemes szolgáltatók 2009. július 1. és 2012. június 30. közötti gázéveire az e törvény 39. §-a szerinti kereskedelmi szerződésben lekötött földgázforrás legalacsonyabb mértéke gázévenként az engedélyes szolgáltatási területén lévő egyetemes szolgáltatásra jogosult felhasználók 2005. évi gázfogyasztásának 80%-a, a földgáztárolóban elhelyezett földgázkészlet legalacsonyabb mértéke gázévenként az engedélyes szolgáltatási területén lévő egyetemes szolgáltatásra jogosult felhasználók 2005. január havi gázfogyasztása.
+
+134/A. § A 133. § (1) bekezdésnek a földgázellátásról szóló 2008. évi XL. törvény, valamint a villamos energiáról szóló 2007. évi LXXXVI. törvény módosításáról szóló 2010. évi LV. törvény 7. §-ával megállapított 3. pontjában foglalt felhatalmazás alapján megalkotott rendelet hatálybalépéséig a Hivatal által a földgázellátásról szóló 2008. évi XL. törvény, valamint a villamos energiáról szóló 2007. évi LXXXVI. törvény módosításáról szóló 2010. évi LV. törvény hatálybalépését megelőzően utoljára jóváhagyott árakat kell alkalmazni.
 
 135. § (1) A Hivatal az 55. § szerinti elemzést első alkalommal 2009. november 15-ig hajtja végre. Az 58. §–59. §-ok szerinti kötelezettségeket a Hivatal első alkalommal 2009. november 30-ig határozza meg.
 
@@ -1513,7 +1523,7 @@ földgáz képezi.
 
 (3) A Hivatal az (1) és (2) bekezdés szerinti engedélykérelmek alapján, 2009. január 31-ig határozatban dönt a működési engedélyekről.
 
-(4) A külön törvényben meghatározott távhőtermelési engedéllyel rendelkező felhasználó 2010. június 30-ig jogosult az egyetemes szolgáltatás igénybevételére.
+(4) A külön törvényben meghatározott távhőtermelési engedéllyel rendelkező felhasználó 2011. június 30-ig jogosult az egyetemes szolgáltatás igénybevételére.
 
 (5) A 20 m3/óra fogyasztást meghaladó, de a 100 m3/óra fogyasztást el nem érő felhasználók 2010. június 30-ig jogosultak az egyetemes szolgáltatás igénybevételére.
 
@@ -1527,7 +1537,7 @@ földgáz képezi.
 
 (2) Az egyetemes szolgáltatásra jogosult felhasználókat ellátó földgázkereskedők földgáz forrásainak biztosítása céljából a Get. szerinti közüzemi nagykereskedő forrásaival rendelkező kereskedő köteles 2014-ig évente március 31-ig, az adott év július 1. és a következő év június 30. közötti időszakra a külön jogszabályban meghatározott módon a szerződéssel nem lekötött földgázforrásait vételre felajánlani.
 
-(3) A Hivatal határozatban állapítja meg a vételre felajánlott földgázforrás költségalapú árát. A Hivatal határozatában úgy állapítja meg az árat, hogy figyelembe veszi az engedélyesi tevékenység végzésével felmerült költségeket, befektetéseket és biztosítja ezek méltányos – az üzleti kockázatot figyelembe vevő – megtérülését.
+(3) A miniszter a Hivatal javaslata alapján rendeletben állapítja meg a vételre felajánlott földgázforrás költségalapú árát. Az ár megállapítása során figyelembe kell venni az engedélyesi tevékenység végzésével felmerült költségeket, befektetéseket és biztosítani kell ezek méltányos – az üzleti kockázatot figyelembe vevő – megtérülését.
 
 (4) A földgázellátásról szóló 2003. évi XLII. törvény 33. § (1) bekezdése és 34. § (2) bekezdése alapján a közüzemi nagykereskedő és a közüzemi szolgáltatók között létrejött megállapodások – amennyiben 2008. december 31-ig a szerződő felek nem állapodnak meg eltérően – megszűnnek.
 
