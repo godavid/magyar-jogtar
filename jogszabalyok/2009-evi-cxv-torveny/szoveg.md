@@ -71,7 +71,7 @@ Az Országgyűlés – elismerve a kisvállalkozók gazdasági életben betölt�
 
 (4) Ha a bejelentő a bejelentési űrlapot megfelelően töltötte ki, a Hatóság és a nyilvántartást vezető szerv nem mérlegelheti a (2) és (3) bekezdésben foglaltak végrehajtását.
 
-(5) A nyilvántartást vezető szerv a 9. § szerinti igazolás megküldésével egyidejűleg a nyilvántartásba vételről értesíti az állami adóhatóságot, valamint a Központi Statisztikai Hivatalt.
+(5) A nyilvántartást vezető szerv a 9. § szerinti igazolás megküldésével egyidejűleg a nyilvántartásba vételről értesíti az állami adóhatóságot, a Központi Statisztikai Hivatalt, valamint a székhely és telephely szerinti önkormányzati adóhatóságot (a fővárosban a fővárosi önkormányzati adóhatóságot).
 
 8. § Az egyéni vállalkozói tevékenység megkezdésének bejelentése, a változás-bejelentés, az egyéni vállalkozói tevékenység szünetelésének és megszűnésének bejelentése díj- és illetékmentes.
 
@@ -355,7 +355,7 @@ számítandó.
 
 (2) Az 1–34., 37–72., 74–75. §, a 76. § (1)–(15) bekezdése, a 77–85. §, a 87. § (1)–(3), valamint a 87. § (5)–(12) bekezdése és a 88–93. § 2010. január 1-jén lép hatályba.
 
-(3) A 87. § (4) bekezdése 2010. szeptember 1-jén lép hatályba.
+(3) A 87. § (4) bekezdése 2011. november 1-jén lép hatályba.
 
 (4) A 76. § (16) bekezdése 2015. január 1-jén lép hatályba.
 
@@ -363,7 +363,7 @@ számítandó.
 
 (6) A 76. § (16) bekezdése 2015. január 2-án hatályát veszti.
 
-(7) A 87. § (4) bekezdése 2010. szeptember 2-án hatályát veszti.
+(7) A 87. § (4) bekezdése 2011. november 2-án hatályát veszti.
 
 (8) Az egyéni vállalkozásról szóló 1990. évi V. törvény 2010. január 2-án hatályát veszti.
 

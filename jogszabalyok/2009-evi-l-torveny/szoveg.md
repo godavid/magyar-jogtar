@@ -102,8 +102,8 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 11. § (1) Az elektronikus úton beadványt kizárólag erre rendszeresített űrlapon lehet benyújtani, és a beadványt
 
-- a) minősített elektronikus aláírással és minősített időbélyegzővel kell ellátni vagy
-- b) a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben foglalt, a természetes személy hivatalos iratainak a hivatalos szervhez történő elektronikus kézbesítésére (benyújtására) vonatkozó szabályok szerint kell benyújtani.
+- a) minősített elektronikus aláírással és minősített időbélyegzővel kell ellátni.
+- b)
 
 (2) Elektronikus úton beadványt – a (4) bekezdésben foglalt eltéréssel – úgy lehet benyújtani, hogy a beadvány adatait annak benyújtója
 
@@ -159,7 +159,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (3) Ha a jogosult ezt a fizetési meghagyás kibocsátása iránti kérelmében kéri, a fizetési meghagyást kizárólag a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 31/D. §-a szerinti végrehajtói kézbesítés útján kell kézbesíteni, a 32. és 33. § rendelkezéseit pedig nem lehet alkalmazni. Ebben az esetben a végrehajtó külön jogszabályban meghatározott díját a MOKK részére előlegezni kell, és azt a MOKK a végrehajtónak átutalja. Az ellentmondás előterjesztésre nyitva álló határidőt attól az időponttól kell számítani, amikor a fizetési meghagyást tartalmazó irat végrehajtói kézbesítése a külön jogszabály szerint eredményesen megtörtént.
 
-(4) A fél a beadványában kérheti, hogy a részére szóló iratok a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben foglalt, a hivatalos szerv hivatalos iratainak kézbesítésére vonatkozó szabályok szerint, elektronikus úton kerüljenek kézbesítésre.
+(4)
 
 (5) Vállalkozás és jogi képviselővel rendelkező fél részére az iratokat – a (2) bekezdésben meghatározott eset kivételével – a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben foglalt, a hivatalos szerv hivatalos iratainak kézbesítésére vonatkozó szabályok szerint, elektronikus úton kell kézbesíteni. Az elektronikus iraton minősített elektronikus aláírást és minősített időbélyegzőt kell elhelyezni.
 
@@ -273,7 +273,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 ### A fizetési meghagyás kibocsátása
 
-26. § (1) Ha a fizetési meghagyás kibocsátása iránti kérelem hivatalból történő elutasításának vagy az ügy áttételének nincs helye, és ha nem kell a felet a hiányok pótlására felhívni, vagy a fél a hiánypótlási kötelezettségének eleget tett, a közjegyző az ellenfél meghallgatása (nyilatkoztatása) nélkül köteles a fizetési meghagyást kibocsátani. A közjegyző a fizetési meghagyást legkésőbb a kérelem beérkezésétől számított tizenöt napon belül – elektronikus úton beadott kérelem esetén három munkanapon belül – papír alapon bocsátja ki. A közjegyző a fizetési meghagyást elektronikusan bocsátja ki és a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben meghatározott módon kézbesítteti a félnek, ha e törvény elektronikus kézbesítést ír elő.
+26. § (1) Ha a fizetési meghagyás kibocsátása iránti kérelem hivatalból történő elutasításának vagy az ügy áttételének nincs helye, és ha nem kell a felet a hiányok pótlására felhívni, vagy a fél a hiánypótlási kötelezettségének eleget tett, a közjegyző az ellenfél meghallgatása (nyilatkoztatása) nélkül köteles a fizetési meghagyást kibocsátani. A közjegyző a fizetési meghagyást legkésőbb a kérelem beérkezésétől számított tizenöt napon belül – elektronikus úton beadott kérelem esetén három munkanapon belül – papír alapon bocsátja ki. A közjegyző a fizetési meghagyást elektronikusan bocsátja ki és kézbesítteti a félnek, ha e törvény elektronikus kézbesítést ír elő.
 
 (2) A határidőbe nem számít bele hiánypótlási felhívás esetén a hiánypótlási felhívás kibocsátásától a hiányok pótlásáig terjedő idő, valamint a kizárás, az igazolási kérelem és a költségkedvezmény iránti kérelem tárgyában való döntéshez szükséges idő. Ha a kérelem csak a hiányok pótlása után válik alkalmassá a fizetési meghagyás kibocsátására, a fizetési meghagyást a hiányok pótlásának a MOKK rendszerén történő rögzítésétől (elektronikus beadvány esetén a benyújtástól) számított két munkanapon belül kell kibocsátani, ha az ügyintézési határidőből egyébként ennél kevesebb lenne hátra.
 
@@ -436,6 +436,8 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (5) A (2) bekezdés b) pontjában meghatározott esetben, ha a fellebbezést elektronikusan terjesztik elő, az illetéket elektronikus úton kell megfizetni.
 
+(6) Az illeték megfizetésének megtörténtét a bíróság ellenőrzi.
+
 44. § (1) Az eljárási díj alapja a pénzkövetelés eljárás megindításakor fennálló, járulékok nélkül számított értéke (díjalap).
 
 (2) Ha a fél egy eljárásban egy jogviszonyból eredő több igényét vagy több jogviszonyból eredő igényeit érvényesíti, a pénzkövetelés értékének megállapításakor – a járulékok figyelmen kívül hagyásával – az előterjesztett igények együttes értékét kell figyelembe venni.
@@ -594,6 +596,10 @@ vonatkozó rendelkezéseit kell megfelelően alkalmazni; az a) és b) pontban me
 (8) Az európai fizetési meghagyásos eljárásban e törvénynek az eljárási díjra és másolati díjra vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (9) Az európai fizetési meghagyás végrehajtásának magyar közjegyző általi elrendelése iránti eljárásra e törvénynek a végrehajtás elrendelésére vonatkozó szabályait kell alkalmazni.
+
+(10) Az európai fizetési meghagyásos eljárásban a beadványokat kizárólag papír alapon írásban az eljáró közjegyzőnél lehet előterjeszteni, e törvénynek a MOKK rendszerére vonatkozó rendelkezései nem alkalmazhatók. Az európai fizetési meghagyásos eljárásban kizárólag papír alapú beadványok alkalmazhatók; az eljáró közjegyző az iratokat papíron állítja elő, és kézbesítteti a félnek.
+
+(11) Az európai fizetési meghagyásos eljárásért a közjegyző részére külön jogszabály szerint meghatározott módon eljárási díjat kell fizetni; a 42. § (1) és (2) bekezdését, és a 46. § (3)–(5) bekezdését nem lehet alkalmazni. Az európai fizetési meghagyás végrehajtásának elrendeléséért az 55. § (1) és (2) bekezdésében meghatározott összegű díjat a közjegyző részére külön jogszabály szerint meghatározott módon kell megfizetni, a díj az eljáró közjegyzőt illeti.
 
 ### Felhatalmazó rendelkezések
 

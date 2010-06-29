@@ -330,9 +330,7 @@ teljesíti;
 
 (14) Az egyéni vállalkozó adózó tevékenységi köreinek a 1893/2006/EK rendeletnek megfelelő bejelentését a statisztikai hivatal elnökének a Szakmakód jegyzékről szóló közleménye szerinti szakmakódokon (a továbbiakban: szakmakód) teljesíti. A magánszemélyként adószám birtokában adóköteles tevékenységet végző adózó tevékenységi köreit szakmakód szerint jelenti be az állami adóhatósághoz.
 
-(15) Az adózó a helyi iparűzési adókötelezettsége keletkezését, illetve megszűnését – a helyi iparűzési adó bevételre jogosult települési önkormányzat megjelölésével – az adókötelezettség bekövetkeztétől (a tevékenység megkezdésétől), illetve megszűnésétől számított 15 napon belül bejelenti az állami adóhatóságnak. Az iparűzési tevékenységet ideiglenes, alkalmi jelleggel folytató adózó adóköteles tevékenységének megkezdése előtt, de legkésőbb a tevékenység megkezdésének napján köteles ezt az állami adóhatóságnál bejelenteni.
-
-[(15) Az állami adóhatóság az e célra fenntartott számítógépes rendszeren keresztül értesíti alapítványok esetében az adószám megállapításáról az alapítvány adatainak közlésével a nyilvántartásba vételt elrendelő bíróságot.]
+(15) [(15) Az állami adóhatóság az e célra fenntartott számítógépes rendszeren keresztül értesíti alapítványok esetében az adószám megállapításáról az alapítvány adatainak közlésével a nyilvántartásba vételt elrendelő bíróságot.]
 
 (16) Az adózó évente augusztus 31-éig bejelenti, hogy a társasági adóról és az osztalékadóról szóló törvény szerint ingatlannal rendelkező társaságnak minősül illetve azt, hogy e minősége megszűnt. Az ingatlannal rendelkező társaság bejelentésében – a benyújtás időpontját megelőző naptári év vonatkozásában – nyilatkozik a társaság külföldi tagjai általi részesedés elidegenítéséről, az elidegenítés időpontjáról, a részesedés névértékéről, illetve a tag illetőségéről.
 
@@ -365,7 +363,7 @@ teljesíti;
 
 19. § (1) Az önkormányzati adóhatóság hatáskörébe tartozó adó esetében – az önadózás és az adóbeszedés kivételével – az adózó bevallásának benyújtásával jelenti be adókötelezettségét.
 
-(2) Az önadózás és az adóbeszedés útján megállapított adó esetén – a helyi iparűzési adó kivételével – az adókötelezettség keletkezését annak bekövetkeztétől (a tevékenység megkezdésétől) számított 15 napon belül jelenti be az adózó az önkormányzati adóhatóságnál. A bejelentési kötelezettséget az erre a célra rendszeresített nyomtatványon kell teljesíteni, ha az önkormányzati adóhatóságnál a bejelentésre nyomtatványt rendszeresítettek.
+(2) Az önadózás és az adóbeszedés útján megállapított adó esetén az adókötelezettség keletkezését annak bekövetkeztétől (a tevékenység megkezdésétől) számított 15 napon belül az erre a célra rendszeresített nyomtatványon jelenti be az adózó az önkormányzati adóhatóságnál. Az iparűzési tevékenységet ideiglenes, alkalmi jelleggel folytató adózó, adóköteles tevékenységének megkezdésekor köteles ezt az önkormányzati adóhatóságnál bejelenteni. A bejelentési kötelezettséget az erre a célra rendszeresített nyomtatványon kell teljesíteni, ha az önkormányzati adóhatóságnál a bejelentésre nyomtatványt rendszeresítettek.
 
 (3) Az adózó az önkormányzati adóhatósághoz bejelenti a 16. § (3) bekezdésében megjelölt adatokat a j) pont kivételével.
 
@@ -732,7 +730,7 @@ a munkáltató a feltárt adókülönbözetet a feltárás időpontjában nyilv�
 
 ### A helyi adók bevallása
 
-32. § (1) A vállalkozók kommunális adójáról az adóévet követő év május 31-éig kell bevallást tenni. A naptári évtől eltérő üzleti évet választó adózó adóbevallását az adóév utolsó napját követő 150. napig nyújtja be.
+32. § (1) A vállalkozók kommunális adójáról és a helyi iparűzési adóról az adóévet követő év május 31-éig kell bevallást tenni. Az adózónak a helyi iparűzési adóelőlegkiegészítés összegéről az önkormányzati adóhatóság által rendszeresített nyomtatványon a tárgyév utolsó hónapjának 20. napjáig kell bevallást tennie. Az ideiglenes jelleggel végzett iparűzési tevékenység után fizetendő iparűzési adóról – a megfizetés határidejével egyezően – a tevékenység befejezésének napját követő hónap 15. napjáig kell bevallást tenni.
 
 (2) Ha a helyi adót nem az adózó állapítja meg, az adókötelezettség keletkezését (változását) követő 15 napon belül kell adóbevallást tennie.
 
@@ -943,21 +941,11 @@ kell számítani.
 
 (9) A magánnyugdíjpénztárat megillető tagdíj (tagdíj-kiegészítés), késedelmi pótlék, illetőleg önellenőrzési pótlék, valamint a tagdíjszámlákon nyilvántartott túlfizetés összege az adóhatóságnál nyilvántartott más adótartozásra sem az adózó kérelemére, sem hivatalból nem számolható el, illetőleg nem törölhető.
 
-(10) Az állami adóhatóság a helyi iparűzési adót, illetve a helyi iparűzési adóval összefüggő késedelmi pótlékot, önellenőrzési pótlékot, adóbírságot, mulasztási bírságot külön számlákon, a bevételre jogosult települési (a fővárosban a fővárosi) önkormányzatonként megbontva tartja nyilván. A helyi iparűzési adó számlára megfizetett adót, illetve a helyi iparűzési adóval összefüggő késedelmi pótlékot, önellenőrzési pótlékot, adóbírságot, mulasztási bírságot az állami adóhatóság a bevételre jogosult települési (a fővárosban a fővárosi) önkormányzatonként – a bevallásban, határozatban megállapított összes adó és az önkormányzatokat megillető adó arányában – osztja fel. Az állami adóhatóság a felosztást a fizetési kötelezettség esedékességétől, illetve a késedelmes befizetés esetén a befizetés napjától számított 30 napon belül végzi el. Az állami adóhatóság a felosztást követően 5 napon belül átutalja a települési önkormányzat költségvetési számlájára az önkormányzatot megillető összeget. Az állami adóhatóság késedelmes felosztás, illetve utalás esetén a késedelem minden napjára a késedelmi pótlékkal azonos mértékű kamatot fizet.
+(10)–(12)
 
-(11) Ha az adózó helyi iparűzési adó számlára teljesített befizetése a települési önkormányzatonként kimutatott kötelezettségek egészére nem nyújt fedezetet, a befizetés összegét a települési önkormányzatonként kimutatott tartozások esedékességének sorrendjében, azonos esedékességű tartozások esetén a tartozások arányában kell elszámolni.
+43/A. §
 
-(12) Ha az adózó vagy az adó megfizetésére kötelezett személy a helyi iparűzési adó számlára adótartozásánál nagyobb összeget fizetett be az állami adóhatósághoz (túlfizetés), az állami adóhatóság az adózó rendelkezéséig, illetőleg a helyi iparűzési adó számlán később keletkező adótartozásra történő elszámolásig a helyi iparűzési adó számlán mutatkozó túlfizetés összegét nem osztja fel.
-
-43/A. § (1) Ha az adózó bevallása és önellenőrzése, illetve az állami adóhatóság helyi iparűzési adót érintő ellenőrzése következtében az önkormányzatnak helyi iparűzési adókülönbözet visszafizetési kötelezettsége keletkezik, az állami adóhatóság 30 napos határidő kitűzésével felhívja az önkormányzatot a különbözet visszafizetésére. Amennyiben az önkormányzat visszafizetési kötelezettségének nem tesz eleget, az állami adóhatóság az önkormányzat költségvetési számlájával szemben hatósági átutalási megbízást bocsát ki. Ha ez az intézkedés részben vagy egészben eredménytelen, az állami adóhatóság a következő kiutaláskor a vissza nem fizetett összeget beszámítja.
-
-(2) Az állami adóhatóság az önkormányzatoknak történő helyi iparűzési adó késedelmes átutalása miatti kamatfizetési kötelezettségét, illetve az adózó önellenőrzése vagy az állami adóhatóság helyi iparűzési adót érintő ellenőrzése során tett megállapítása miatt felmerülő helyi iparűzési adó összegének kiutalását a külön jogszabályban meghatározott számláról teljesíti.
-
-43/B. § (1) Az állami adóhatóság az adózó által bevallott előleg összegét az előlegfizetés esedékességét megelőző munkanapon átutalja a települési önkormányzat költségvetési számlájára.
-
-(2) Az állami adóhatóság az adóévet megelőző évre az adózó által bevallott helyi iparűzési adó, valamint az adóévre bevallott és megfizetett helyi iparűzési adóelőleg különbözetének összegét az adóévben benyújtandó helyi iparűzési adóelőleg-kiegészítésről szóló bevallás esedékességét megelőző munkanapon átutalja a települési önkormányzat költségvetési számlájára. Ha az adózó helyi iparűzési adóelőleg-kiegészítésről benyújtott bevallása alapján kimutatott, a települési önkormányzatot ténylegesen megillető helyi iparűzési adóelőleg-kiegészítés összege eltér a korábban kiutalt adóelőleg-kiegészítés összegétől, az állami adóhatóság intézkedik a különbözet 43. § (10) bekezdése szerinti kiutalásáról vagy a 43/A. § szerinti visszaköveteléséről.
-
-(3) Az állami adóhatóság az adóévet megelőző évi helyi iparűzési adó-bevallás alapján a települési önkormányzatonként nettó módon megállapított pozitív előjelű elszámolási különbözetet a bevallás esedékességét megelőző munkanapon átutalja a jogosult települési önkormányzat költségvetési számlájára. Ha az adózó helyi iparűzési adó bevallása alapján kimutatott, a települési önkormányzatot ténylegesen megillető helyi iparűzési adó összege eltér a korábban kiutalt adó összegétől, az állami adóhatóság intézkedik a különbözet 43. § (10) bekezdése szerinti kiutalásáról vagy a 43/A. § szerinti visszaköveteléséről.
+43/B. §
 
 ### Bizonylatok, könyvvezetés, nyilvántartás
 
@@ -1144,18 +1132,11 @@ szükséges,
 
 (17) Az adóhatóság a telefonos ügyféltájékoztató és ügyintéző rendszerben folytatott beszélgetést – a közösségi adószám érvényességéről történő meggyőződés ügytípus kivételével – elektronikusan adathordozóra rögzíti, és annak anyagát az adó megállapításához való jog, illetve ha az hosszabb, akkor az adó végrehajtásához való jog elévüléséig, illetőleg a folyamatban levő bírósági eljárás befejezéséig megőrzi. Az adózó vagy képviselője kérelme alapján az általa folytatott, e bekezdés szerint megőrzött telefonbeszélgetéseit meghallgathatja.
 
-(18) A helyi iparűzési adóról szóló önkormányzati rendelet kihirdetését követő 8 napon belül az önkormányzati adóhatóság az állami adóhatóság részére elektronikus úton, az állami adóhatóság által közzétett formátumban megküldi:
+(18)
 
-- a) a helyi iparűzési adót megállapító önkormányzati rendelet módosítása, a helyi iparűzési adó bevezetése, megszüntetése esetén a rendelet számát és szövegét,
-- b) a helyi iparűzési adó bevezetése esetén az érintett települési önkormányzat kincstár által használt azonosítószámát, valamint költségvetési számlaszámát, amelyre az állami adóhatóság a települési önkormányzatot megillető helyi iparűzési adó, továbbá a helyi iparűzési adóval összefüggő késedelmi pótlék, önellenőrzési pótlék, adóbírság és mulasztási bírság átutalását teljesíti.
+(19)
 
-(19) Az önkormányzati adóhatóság az adószám feltüntetésével az állami adóhatóság által közzétett módon és formátumban minden hónap utolsó napjáig – a rendelkezésre álló, különösen az adatgyűjtésre irányuló ellenőrzés keretében beszerzett adatok alapján – elektronikus úton adatot szolgáltat az illetékességi területén az ideiglenes (alkalmi) jelleggel végzett iparűzési tevékenység kezdetének és befejezésének időpontjáról továbbá az általa ismert, a helyi iparűzési adó megállapításához szükséges adatokról, különös tekintettel az ideiglenes (alkalmi) jellegű iparűzési tevékenység folytatásával összefüggő, általa kiadott engedélyekről.
-
-(20) Az önkormányzati adóhatóság a helyi iparűzési adóüggyel összefüggő valamennyi iraton – ideértve az elektronikus úton megküldött iratot is – feltünteti az érintett települési önkormányzat kincstár által használt azonosítószámát.
-
-(21) A költségvetési számlaszám közlésére vonatkozó kötelezettség elmulasztásából, vagy késedelmes teljesítése esetén az ebből eredő kárt az érintett települési önkormányzat viseli, és ez esetben az állami adóhatóság a késedelmes átutalás miatt kamatot nem fizet.
-
-(22) Az önkormányzati adóhatóságot terhelő adatszolgáltatási kötelezettséget körjegyzőség esetén települési önkormányzatonként kell teljesíteni.
+(20)–(22)
 
 ### Adótitok
 
@@ -1419,7 +1400,8 @@ megállapításához szükségesek és az állami adóhatóság nyilvántartás�
 - a) adó, költségvetési támogatás,
 - b) adó-visszaigénylés, -visszatérítés,
 - c) az állami garancia (kezesség) kiutalása és visszakövetelése,
-- d) adók módjára behajtandó köztartozás végrehajtása
+- d) adók módjára behajtandó köztartozás végrehajtása,
+- e) az önkormányzatokat megillető helyi adóval, illetve a gépjárműadóval összefüggő tartozások megkeresés alapján történő végrehajtása
 
 ügyében, feltéve, hogy azt törvény vagy kormányrendelet nem utalja más hatóság vagy adóhatóság hatáskörébe.
 
@@ -1427,10 +1409,8 @@ megállapításához szükségesek és az állami adóhatóság nyilvántartás�
 
 (3) A csődeljárásban, a felszámolási eljárásban, a végelszámolásban, a vagyonrendezési és adósságrendezési eljárásban
 
-- a) a központi költségvetést megillető követelések és a települési (a fővárosban a fővárosi) önkormányzatot megillető helyi iparűzési adó követelések tekintetében hitelezőként,
-- b) a vámhatóság hatáskörébe tartozó, továbbá a magánnyugdíjpénztárt megillető tagdíjjal (tagdíj-kiegészítéssel), késedelmi pótlékkal, önellenőrzési pótlékkal összefüggő követelések tekintetében a hitelezők képviselőjeként
-
-az állami adóhatóság jár el.
+- a) a központi költségvetést megillető követelések tekintetében hitelezőként,
+- b) a vámhatóság hatáskörébe tartozó, továbbá a magánnyugdíjpénztárt megillető tagdíjjal (tagdíj-kiegészítéssel), késedelmi pótlékkal, önellenőrzési pótlékkal összefüggő követelések tekintetében a hitelezők képviselőjeként az állami adóhatóság jár el.
 
 (4) A (3) bekezdésben megjelölt követelések tekintetében a végrehajtási eljárásban a végrehajtás foganatosítójaként az állami adóhatóság jár el.
 
@@ -1474,14 +1454,12 @@ kapcsolatos adóztatási feladatok ellátása.
 
 81. § Az önkormányzati adóhatóság jár el első fokon
 
-- a) a helyi iparűzési adó kivételével a helyi adók,
+- a) a helyi adók,
 - b) a belföldi rendszámú gépjárművek adója,
 - c) a termőföld bérbeadásából származó jövedelem (ideértve a földjáradékot is) adóztatása,
-- d) törvényben meghatározott esetben a magánszemélyt terhelő adók módjára behajtandó köztartozások
+- d) törvényben meghatározott esetben a magánszemélyt terhelő adók módjára behajtandó köztartozások ügyében.
 
-ügyében.
-
-82. § (1) Helyi adóügyben – kivéve a helyi iparűzési adóval összefüggő adóügyeket – az az önkormányzati adóhatóság jár el, amelynek önkormányzata a helyi adót bevezette.
+82. § (1) Helyi adóügyben az az önkormányzati adóhatóság jár el, amelynek önkormányzata a helyi adót bevezette.
 
 (2) Belföldi rendszámú gépjárművek adója ügyében az az önkormányzati adóhatóság (fővárosban a kerületi önkormányzati adóhatóság) az illetékes, amelynek területén a közúti közlekedési nyilvántartásba bejegyzett adóalany lakóhelye, székhelye, illetőleg telephelye található. Az adóalany személyében bekövetkezett változás az önkormányzati adóhatóság illetékességét a gépjárműadóról szóló törvény szerint változtatja meg.
 
@@ -1811,7 +1789,7 @@ amelyek az adózó valós jövedelem-(bevétel-)felhasználásának és forrás�
 
 ### Bevallás utólagos ellenőrzése
 
-106. § (1) Az adóhatóság az adózó adómegállapítási, bevallási kötelezettsége teljesítését adónként, támogatásonként és időszakonként vagy meghatározott időszakra több adó és támogatás tekintetében is vizsgálhatja. Az ellenőrzés megkezdéséig bevallani elmulasztott adót az adózó terhére, illetve javára adókülönbözetként állapítja meg. A helyi iparűzési adót érintően az adókülönbözetet települési önkormányzatonként kell megállapítani.
+106. § (1) Az adóhatóság az adózó adómegállapítási, bevallási kötelezettsége teljesítését adónként, támogatásonként és időszakonként vagy meghatározott időszakra több adó és támogatás tekintetében is vizsgálhatja. Az ellenőrzés megkezdéséig bevallani elmulasztott adót az adózó terhére, illetve javára adókülönbözetként állapítja meg.
 
 (2) Az adózó által igényelt költségvetési támogatást, adó-visszatérítést, adó-visszaigénylést a bevallási időszak ellenőrzéssel történt lezárásának hatályával a kiutalást megelőzően is vizsgálhatja az adóhatóság, ha az ellenőrzést az adó, költségvetési támogatás alapjára és összegére is kiterjesztette.
 
@@ -1966,7 +1944,7 @@ vizsgálja.
 
 (5) A kisegítő adóellenőr az adóellenőrrel együtt az ellenőrzés során üzleti, üzemi vagy az egyéb adóköteles tevékenység folytatására szolgáló helyiségbe, helyszínre, illetőleg a vállalkozási tevékenységgel összefüggő alapanyag, félkész termék, áru tárolására szolgáló helyiségekbe beléphet.
 
-(6) Az önkormányzati adóhatóság az ideiglenes (alkalmi) iparűzési tevékenységet végző adózók vonatkozásában a helyi iparűzési adó megállapításához szükséges adatok beszerzése érdekében a helyszínen ellenőrzést végez.
+(6)
 
 ### A HATÓSÁGI ELJÁRÁS
 
@@ -2281,15 +2259,7 @@ b) – jogszabály eltérő rendelkezése hiányában – az adózó nem kérhet
 
 (2) Ha az adózó az esedékes részlet befizetését nem teljesíti, a kedvezmény érvényét veszti, és a tartozás egy összegben esedékessé válik. Ez esetben az adóhatóság a tartozás fennmaradó részére az eredeti esedékesség napjától késedelmi pótlékot számít fel.
 
-133/B. § (1) Az állami adóhatóságnál települési önkormányzatonként kimutatott és nyilvántartott helyi iparűzési adót érintő fizetési könnyítés engedélyezése vagy annak elutasítása, első fokon az önkormányzati adóhatóság nyilatkozata alapján történik. A fizetési könnyítés iránti kérelmet az állami adóhatósághoz kell előterjeszteni. Az állami adóhatóság a kérelem megalapozottságát érdemben nem vizsgálja. Az állami adóhatóság a kérelmet annak beérkezésétől számított 5 napon belül megküldi az önkormányzati adóhatósághoz, és a nála nyilvántartott és az adott önkormányzatra kimutatott helyi iparűzési adóról, bírságról, pótlékról tájékoztatja az önkormányzati adóhatóságot. Az önkormányzati adóhatóság a kérelem megalapozottságát érdemben megvizsgálja és a kérelem beérkezésétől számított 30 napon belül elektronikus úton megküldött nyilatkozat útján értesíti az állami adóhatóságot a kérelemmel kapcsolatos álláspontjáról. Az önkormányzati adóhatóság nyilatkozata részletesen indokolja a fizetési könnyítés feltételeit (esedékességi időpont, részletek összege, pótlékszámítás stb.) vagy az elutasítás okait, illetve a fizetési könnyítés iránti kérelem elbírálásához szükséges és az általa feltárt tényállást. Az állami adóhatóság a fizetési könnyítés iránti kérelem tárgyában rendelkező első fokú határozatot az önkormányzati adóhatóság nyilatkozata alapján, a nyilatkozat beérkezésétől számított 15 napon belül kiadmányozza.
-
-(2) Az önkormányzati adóhatóság rendelkezésére álló, a nyilatkozat elküldésére meghatározott határidő jogvesztő, ennek elmulasztása esetén a kérelem elbírálására az állami adóhatóság – az önkormányzat nyilatkozata nélkül – jogosult.
-
-(3) A fizetési könnyítésről rendelkező első fokú határozat ellen kezdeményezett jogorvoslati eljárás lefolytatására az állami adóhatóság jogosult, ideértve a jogorvoslati eljárás eredményeként elrendelt új eljárást is. A jogorvoslati eljárásban az állami adóhatóság nincs kötve az önkormányzati adóhatóság nyilatkozatához.
-
-(4) Ha az adózó a fizetési könnyítés iránti kérelmet az önkormányzati adóhatósághoz nyújtja be, az önkormányzati adóhatóság elektronikus úton haladéktalanul értesíti az állami adóhatóságot, amelyik – ha a feltételek fennállnak – intézkedik a végrehajtás szüneteltetése iránt. Az értesítés kézhezvételétől számított öt napon belül az állami adóhatóság a nála nyilvántartott és az adott önkormányzatra kimutatott helyi iparűzési adóról, bírságról, pótlékról tájékoztatja az önkormányzati adóhatóságot.
-
-(5) Ha az önkormányzati adóhatóság fizetési könnyítést engedélyez és a fizetési könnyítéssel érintett tartozás összegét az állami adóhatóság a 43/B. § alapján előlegként átutalta az önkormányzatnak, az állatni adóhatóság haladéktalanul intézkedik a fizetési könnyítéssel érintett tartozás 43/A. § szerinti visszakövetelése érdekében.
+133/B. §
 
 ### Adómérséklés
 
@@ -2303,20 +2273,7 @@ b) – jogszabály eltérő rendelkezése hiányában – az adózó nem kérhet
 
 (5) Az adópolitikáért felelős miniszter elrendeli az illeték megállapításának mellőzését, ha ezt az állampolgárok szélesebb körét érintő rendkívüli esemény, elemi csapás indokolja.
 
-134/A. § (1) Az állami adóhatóságnál települési önkormányzatonként kimutatott és nyilvántartott
-
-- a) a magánszemélyt terhelő helyi iparűzési adótartozás és az ezzel összefüggésben megállapított bírság és pótléktartozás, továbbá
-- b) a nem magánszemély adózót terhelő, a helyi iparűzési adóhoz kapcsolódó bírság és pótléktartozás
-
-mérséklése (elengedése) első fokon az önkormányzati adóhatóság nyilatkozata alapján történik. Az elengedés (mérséklés) iránti kérelmet az állami adóhatósághoz kell előterjeszteni. Az állami adóhatóság a kérelem megalapozottságát érdemben nem vizsgálja. Az állami adóhatóság a kérelmet annak beérkezésétől számított 5 napon belül megküldi az önkormányzati adóhatósághoz, és a nála nyilvántartott és az adott önkormányzatra kimutatott helyi iparűzési adóról, bírságról, pótlékról tájékoztatja az önkormányzati adóhatóságot. Az önkormányzati adóhatóság a kérelem megalapozottságát érdemben megvizsgálja és a kérelem beérkezésétől számított 30 napon belül elektronikus úton megküldött nyilatkozat útján értesíti az állami adóhatóságot a kérelemmel kapcsolatos álláspontjáról. Az önkormányzati adóhatóság nyilatkozata részletesen indokalja a mérséklés (elengedés) feltételeit [mérsékelt, (elengedett) összeg, pótlékszámítás stb.] vagy az elutasítás okait, illetve a mérséklés (elengedés) iránti kérelem elbíráláshoz szükséges általa feltárt tényállást. Az állami adóhatóság a mérséklés (elengedés) iránti kérelem tárgyában rendelkező első fokú határozatot az önkormányzati adóhatóság nyilatkozata alapján, a nyilatkozat beérkezésétől számított 15 napon belül kiadmányozza.
-
-(2) Az önkormányzati adóhatóság rendelkezésére álló, a nyilatkozat elküldésére meghatározott határidő jogvesztő, ennek elmulasztása esetén a kérelem elbírálására az állami adóhatóság – az önkormányzat nyilatkozata nélkül – jogosult.
-
-(3) A mérséklésről (elengedésről) rendelkező első fokú határozat ellen kezdeményezett jogorvoslati eljárás lefolytatására az állami adóhatóság az általános szabályok szerint – az önkormányzati adóhatóság nyilatkozatában foglaltakra tekintet nélkül – jogosult, ideértve a jogorvoslati eljárás eredményeként elrendelt új eljárást is.
-
-(4) Ha az adózó a mérséklés (elengedés) iránti kérelmet az önkormányzati adóhatósághoz nyújtja be, az önkormányzati adóhatóság elektronikus úton haladéktalanul értesíti az állami adóhatóságot, amelyik – ha a feltételek fennállnak – intézkedik a végrehajtás szüneteltetése iránt. Az értesítés kézhezvételétől számított öt napon belül az állami adóhatóság a nála nyilvántartott és az adott önkormányzatra kimutatott helyi iparűzési adóról, bírságról, pótlékról tájékoztatja az önkormányzati adóhatóságot.
-
-(5) Ha az önkormányzati adóhatóság mérséklést (elengedést) engedélyez és a mérsékléssel (elengedéssel) érintett tartozás összegét az állami adóhatóság a 43/B. § alapján előlegként átutalta az önkormányzatnak, az állami adóhatóság haladéktalanul intézkedik a mérsékléssel (elengedéssel) érintett tartozás 43/A. § szerinti visszakövetelése érdekében.
+134/A. §
 
 ### A határozat (végzés) módosítása és visszavonása
 
@@ -2446,11 +2403,13 @@ jár el, kivéve, ha törvény a köztartozás beszedését más szerv hatáskö
 
 Külföldi magánszemély esetén a fővárosi főjegyző az illetékes önkormányzati adóhatóság, ha az illetékes önkormányzati adóhatóság az a) pontban megjelölt illetékességi okok sorrendje alapján nem határozható meg.
 
-(3) Az adóhatóság a végrehajtást az adós lakóhelye, székhelye vagy végrehajtás alá vonható vagyontárgya szerinti helyi bíróság mellett működő, az ügyelosztási szabályok szerint illetékes önálló bírósági végrehajtó útján is foganatosíthatja. Ez esetben a bírósági végrehajtó az e törvényben foglalt rendelkezések alkalmazásával jár el azzal az eltéréssel, hogy illetékességére a Vht. 232. §-ának (3)–(5) bekezdése az irányadó, és alkalmazza a Vht.-nak az elektronikus ingóárverésre és ingatlanárverésre vonatkozó rendelkezéseit is.
+(3) Az önkormányzati adóhatóságot megillető tartozások megkeresés alapján történő végrehajtása esetén a végrehajtást az adózóra az általános illetékességi szabályok szerint illetékes állami adóhatóság folytatja le.
 
-(4) Amennyiben ugyanazt az ingóságot vagy ingatlant több adóhatóság is lefoglalta, a végrehajtás folytatására és az értékesítésre az a végrehajtó jogosult és köteles, aki a vagyontárgyat a többi végrehajtót megelőzően foglalta le. Egyidejű foglalás esetén az adóhatóságok megegyezése szerint kell folytatni a végrehajtást. Más adóhatósággal történő egyidejű foglalás esetén a végrehajtást az állami adóhatóság folytatja le.
+(4) Az adóhatóság a végrehajtást az adós lakóhelye, székhelye vagy végrehajtás alá vonható vagyontárgya szerinti helyi bíróság mellett működő, az ügyelosztási szabályok szerint illetékes önálló bírósági végrehajtó útján is foganatosíthatja. Ez esetben a bírósági végrehajtó az e törvényben foglalt rendelkezések alkalmazásával jár el azzal az eltéréssel, hogy illetékességére a Vht. 232. §-ának (3)–(5) bekezdése az irányadó, és alkalmazza a Vht.-nak az elektronikus ingóárverésre és ingatlanárverésre vonatkozó rendelkezéseit is.
 
-(5) Ha az illetékesség megszűnéséről az adóhatóság a végrehajtási cselekmény foganatosítását követően szerez tudomást, az illetékességváltozás a már foganatosított végrehajtási cselekmények hatályát nem érinti.
+(5) Amennyiben ugyanazt az ingóságot vagy ingatlant több adóhatóság is lefoglalta, a végrehajtás folytatására és az értékesítésre az a végrehajtó jogosult és köteles, aki a vagyontárgyat a többi végrehajtót megelőzően foglalta le. Egyidejű foglalás esetén az adóhatóságok megegyezése szerint kell folytatni a végrehajtást. Más adóhatósággal történő egyidejű foglalás esetén a végrehajtást az állami adóhatóság folytatja le.
+
+(6) Ha az illetékesség megszűnéséről az adóhatóság a végrehajtási cselekmény foganatosítását követően szerez tudomást, az illetékességváltozás a már foganatosított végrehajtási cselekmények hatályát nem érinti.
 
 147. § (1) A nem belföldi illetőségű, illetőleg az egybefüggően 183 napot meghaladóan külföldön tartózkodó belföldi illetőségű személy (a továbbiakban együtt: fizetésre kötelezett személy) adófizetési kötelezettségének, adók módjára behajtandó tartozásának külföldön történő érvényesítése (beszedése) érdekében szükséges cselekményt – az Európai Közösség tagállamai közötti adóbehajtási jogsegély hatálya alá tartozó fizetési kötelezettségek kivételével – az adópolitikáért felelős miniszter által lefolytatott közbeszerzési eljárás nyertese teszi meg.
 
@@ -2742,6 +2701,22 @@ Külföldi magánszemély esetén a fővárosi főjegyző az illetékes önkorm�
 
 (10) Nem kell alkalmazni az e § alatti szabályokat a központi költségvetés terhére kifizetett azon összeg vonatkozásában, amely összeg az állami kezességvállalás miatt vált a tartozás kötelezettjének az állammal szemben fennálló tartozásává – ideértve a kezességvállalási díjat is – és amely összeget adók módjára kell behajtani.
 
+### Végrehajtás az önkormányzati adóhatóság megkeresésére
+
+161/A. § (1) Az állami adóhatóság – az e §-ban rögzített eltérésekkel – az adók módjára behajtandó köztartozások behajtására irányadó szabályok szerint az önkormányzati adóhatóság megkeresése alapján végrehajtja az önkormányzati adóhatóság által nyilvántartott helyi adóval, illetve gépjárműadóval összefüggő tartozásokat.
+
+(2) Az önkormányzati adóhatóság havonta, a hónapot követő hó 15. napjáig keresheti meg az állami adóhatóságot a legalább 10 000 forintot elérő tartozás végrehajtása céljából. A megkeresésben nem kell megjelölni azt a jogszabályt, amely az önkormányzati adóhatóságnál nyilvántartott tartozás végrehajtását lehetővé teszi.
+
+(3) Az önkormányzati adóhatóság az állami adóhatóság megkeresése előtt megkísérli a tartozás átvezetéssel és visszatartás útján történő végrehajtását, ha ennek feltételei fennállnak.
+
+(4) Az állami adóhatóság a tartozás biztosítása érdekében jelzálogjogot is bejegyeztethet az adós tulajdonában lévő ingatlanra.
+
+(5) Az önkormányzati adóhatóság megkeresése nem tartalmazhatja azon tartozás összegét, amelyre vonatkozóan az önkormányzati adóhatóság már visszatartási jog gyakorlását kezdeményezte az állami adóhatóságnál.
+
+(6) Több önkormányzati adóhatóság megkeresése esetén az állami adóhatóság által behajtott összeg azt az önkormányzati adóhatóságot illeti meg, amelynek megkeresése korábban érkezett az állami adóhatósághoz.
+
+(7) E törvény 147. §-a szerinti feladatokat az önkormányzati adóhatóság végzi.
+
 ### Behajthatatlan adótartozás nyilvántartása
 
 162. § (1) A végrehajtási eljárást lefolytató adóhatóság végrehajtható vagyon hiányában az adózó adótartozását, állami kezességvállalásból eredő, állammal szemben fennálló tartozását behajthatatlannak minősíti és végrehajthatóvá válásáig, illetve a végrehajtáshoz való jog elévüléséig ezen a jogcímen tartja nyilván.
@@ -2804,9 +2779,9 @@ Külföldi magánszemély esetén a fővárosi főjegyző az illetékes önkorm�
 
 166. § Nem kell késedelmi pótlékot fizetni arra az időszakra, amelyre az adózó a késedelmét igazolta. Igazolásnak csak akkor van helye, ha a késedelmet elháríthatatlan külső ok idézte elő.
 
-167. § (1) A késedelmi pótlék felszámítása során a pótlék alapját adónként és költségvetési támogatásonként külön-külön kell figyelembe venni, kivéve, ha azokat egy számlán tartják nyilván. A késedelmi pótlék alapját csökkenteni kell az ugyanazon adóhatóságnál nyilvántartott, az esedékesség időpontjában más adóval kapcsolatban fennálló túlfizetés összegével (nettó pótlékszámítás). A nettó pótlékszámításnál figyelmen kívül kell hagyni azt a tartozást, amelyre fizetési könnyítést engedélyeztek. A magán-nyugdíjpénztári tagdíjhoz, valamint a helyi iparűzési adóhoz kapcsolódó befizetések tekintetében a nettó pótlékszámítás nem alkalmazható.
+167. § (1) A késedelmi pótlék felszámítása során a pótlék alapját adónként és költségvetési támogatásonként külön-külön kell figyelembe venni, kivéve, ha azokat egy számlán tartják nyilván. A késedelmi pótlék alapját csökkenteni kell az ugyanazon adóhatóságnál nyilvántartott, az esedékesség időpontjában más adóval kapcsolatban fennálló túlfizetés összegével (nettó pótlékszámítás). A nettó pótlékszámításnál figyelmen kívül kell hagyni azt a tartozást, amelyre fizetési könnyítést engedélyeztek. A magán-nyugdíjpénztári tagdíjhoz kapcsolódó befizetések tekintetében a nettó pótlékszámítás nem alkalmazható.
 
-(2) Helyi iparűzési adó esetén a késedelmi pótlékot a települési önkormányzatonként kimutatott tartozás, illetve megállapított adóhiány összege után települési önkormányzatonként, külön kell felszámítani.
+(2)
 
 (3) Az adóhatóság összehasonlítja az adózó bevallását, igénylését, illetve a határozattal előírt kötelezettségét a befizetett, a visszaigényelt adóval, adóelőleggel, a kiutalt költségvetési támogatással, és ennek alapján a késedelmi pótlékot megállapítja. Az adózó a késedelmi pótlékot saját számítása szerint, az értesítéstől függetlenül is megfizetheti.
 
@@ -2816,7 +2791,7 @@ Külföldi magánszemély esetén a fővárosi főjegyző az illetékes önkorm�
 
 168. § (1) Ha az adózó az adót, a költségvetési támogatást az önellenőrzésre vonatkozó rendelkezések szerint helyesbíti, önellenőrzési pótlékot fizet.
 
-(2) Az önellenőrzési pótlékot adónként, illetve költségvetési támogatásonként a bevallott és a helyesbített adó, illetve költségvetési támogatás összegének különbözete után az adózó állapítja meg, és a bevallással egyidejűleg fizeti meg. Helyi iparűzési adó esetén az önellenőrzési pótlékot a települési önkormányzatonként bevallott és a helyesbített adó különbözete után, települési önkormányzatonként kell megállapítani.
+(2) Az önellenőrzési pótlékot adónként, illetve költségvetési támogatásonként a bevallott és a helyesbített adó, illetve költségvetési támogatás összegének különbözete után az adózó állapítja meg, és a bevallással egyidejűleg fizeti meg.
 
 (3) Az önellenőrzési pótlékot a késedelmi pótlék 50%-ának, ugyanazon bevallásnak ismételt önellenőrzése esetén 75%-ának megfelelő mértékben kell felszámítani a bevallás benyújtására előírt határidő leteltét követő első naptól a helyesbítés nyilvántartásba történő feljegyzésének, illetve a magánszemély jövedelemadója esetén az önellenőrzési lap benyújtásának napjáig. Ha az önellenőrzés pótlólagos adófizetési kötelezettséget nem eredményezett, mert az adózó adóját az eredeti esedékességkor vagy korábbi önellenőrzése során hiánytalanul megfizette, a fizetendő pótlék összegét az általános szabályok szerinti mértékkel kell meghatározni, de az 5000 forintot, magánszemély esetében az 1000 forintot meghaladó összeget nem kell bevallani és megfizetni. Ha az önellenőrzés pótlólagos adófizetési kötelezettséget azért nem eredményez, mert a bevallani és megfizetni elmulasztott adó a következő elszámolási időszakban levonható adónak minősült volna, az önellenőrzési pótlék összege nem haladhatja meg a két bevallás közötti időre felszámítható késedelmi pótlék összegét. Ugyanilyen szabályok alapján kell megállapítani az önellenőrzési pótlékot akkor is, ha a termékimportot terhelő általános forgalmi adót az adózó az adólevonási jog keletkezését követően, de az előző adómegállapítási időszakra vonatkozó adóbevallásban szerepeltette előzetesen felszámított levonható adóként.
 
@@ -2834,7 +2809,7 @@ Külföldi magánszemély esetén a fővárosi főjegyző az illetékes önkorm�
 
 ### Adóbírság
 
-170. § (1) Adóhiány esetén adóbírságot kell fizetni. Az adóbírság mértéke – ha e törvény másként nem rendelkezik – az adóhiány 50%-a. Az adóbírság mértéke az adóhiány 75%-a, ha az adóhiány a bevétel eltitkolásával, a bizonylatok, könyvek, nyilvántartások meghamisításával, megsemmisítésével függ össze. Minősített adózó esetében, ha a minősített adózói adatbázisba történő felvételt követően az adóhatóság első alkalommal állapít meg a terhére adóhiányt, az adóbírság mértéke az adóhiány 20%-a, kivéve ha az adóhiány olyan kötelezettségszegés eredménye, amely után 75%-os mértékű adóbírság kiszabásának van helye. Adóbírságot állapít meg az adóhatóság akkor is, ha az adózó jogosulatlanul nyújtotta be támogatási, adó-visszaigénylési, adó-visszatérítési kérelmét, vagy igénylésre, támogatásra, visszatérítésre vonatkozó bevallását, és a jogosultság hiányát az adóhatóság a kiutalás előtt megállapította. A bírság alapja ilyen esetben a jogosulatlanul igényelt összeg. Helyi iparűzési adót érintően az adóhatóság az adóhiányt, és az ahhoz kapcsolódó adóbírságot települési önkormányzatonként állapítja meg.
+170. § (1) Adóhiány esetén adóbírságot kell fizetni. Az adóbírság mértéke – ha e törvény másként nem rendelkezik – az adóhiány 50%-a. Az adóbírság mértéke az adóhiány 75%-a, ha az adóhiány a bevétel eltitkolásával, a bizonylatok, könyvek, nyilvántartások meghamisításával, megsemmisítésével függ össze. Minősített adózó esetében, ha a minősített adózói adatbázisba történő felvételt követően az adóhatóság első alkalommal állapít meg a terhére adóhiányt, az adóbírság mértéke az adóhiány 20%-a, kivéve ha az adóhiány olyan kötelezettségszegés eredménye, amely után 75%-os mértékű adóbírság kiszabásának van helye. Adóbírságot állapít meg az adóhatóság akkor is, ha az adózó jogosulatlanul nyújtotta be támogatási, adó-visszaigénylési, adó-visszatérítési kérelmét, vagy igénylésre, támogatásra, visszatérítésre vonatkozó bevallását, és a jogosultság hiányát az adóhatóság a kiutalás előtt megállapította. A bírság alapja ilyen esetben a jogosulatlanul igényelt összeg.
 
 (2) Adóhiánynak minősül az adózó terhére megállapított adókülönbözet, önadózás esetén csak akkor, ha az adókülönbözetet az esedékesség időpontjáig nem fizették meg, illetve a költségvetési támogatást igénybe vették. Az eredeti esedékesség napján fennálló túlfizetést az adófizetési kötelezettség teljesítéseként csak akkor lehet figyelembe venni, ha a túlfizetés az ellenőrzés megkezdésének napján is fennáll.
 
@@ -3097,7 +3072,7 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 
 ### Az adóhatóság felszámolás alatt álló szervezetekkel szemben fennálló követeléseinek átruházása
 
-177/A. § Az állami adóhatóság a felszámolás alatt álló szervezetekkel szemben fennálló, a központi költségvetést, az elkülönített állami pénzalapokat, a Nyugdíjbiztosítási és az Egészségbiztosítási Alapot, illetve helyi iparűzési adó vonatkozásában a települési (a fővárosban a fővárosi) önkormányzatot megillető követeléseivel kapcsolatos engedményezési jogát pályáztatás útján gyakorolhatja. Az engedményezésre a Ptk. 328–330. §-ai megfelelően alkalmazandóak. Nem engedményezhető olyan követelés, amely mögött jogszabályon vagy kötelmi jogviszonyon alapulva a Magyar Állammal, az önkormányzattal, illetve azok intézményeivel vagy egyszemélyes társaságaival szemben követelés lenne érvényesíthető. A helyi iparűzési adó vonatkozásában a települési (a fővárosban a fővárosi) önkormányzatot megillető követelés a települési önkormányzat polgármesterének (a fővárosban a főpolgármester) hozzájárulásával engedményezhető.
+177/A. § Az állami adóhatóság a felszámolás alatt álló szervezetekkel szemben fennálló, a központi költségvetést, az elkülönített állami pénzalapokat, a Nyugdíjbiztosítási és az Egészségbiztosítási Alapot megillető követeléseivel kapcsolatos engedményezési jogát pályáztatás útján gyakorolhatja. Az engedményezésre a Ptk. 328–330. §-ai megfelelően alkalmazandóak. Nem engedményezhető olyan követelés, amely mögött jogszabályon vagy kötelmi jogviszonyon alapulva a Magyar Állammal, az önkormányzattal, illetve azok intézményeivel vagy egyszemélyes társaságaival szemben követelés lenne érvényesíthető.
 
 ### Értelmező rendelkezések
 
@@ -3236,7 +3211,7 @@ AZ ÁLLAMI ADÓHATÓSÁGHOZ BENYÚJTANDÓ ADÓBEVALLÁS IDŐPONTJA
 
 A) Általános rendelkezések
 
-1. Az adózónak a bevallás adatait – a 31. § (2) bekezdésben meghatározott bevallást, a magánszemélynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, az egészségügyi hozzájárulásáról, a járulékáról, a cégautó-adójáról, a helyi iparűzési adójáról és az egyes nagy értékű vagyontárgyakat terhelő adójáról benyújtott adóbevallását kivéve – 1000 forintra kerekítve, 1000 forintban kell feltüntetni. A 31. § (2) bekezdése szerinti bevallás adatait az adónemenként meghatározott összesített sorokban 1000 forintra kerekítve, 1000 forintban kell feltüntetni. A kerekítésből származó különbözetet az adózó csak az adóéven belül, a következő adómegállapítási időszak ugyanazon adó vagy költségvetési támogatás összegénél a kerekítést megelőzően korrekciós tételként veszi figyelembe. Ha a megállapított adó, költségvetési támogatás összege az 1000 forintot nem éri el, akkor az adózó az év elejétől vagy az előző megállapítási időszaktól számított halmozott összeget a következő bevallásában annak a megállapítási időszaknak a kötelezettségeként tünteti fel, amelyben az 1000 forintot elérte. A magánszemélynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, az egészségügyi hozzájárulásáról, a járulékáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie. Az adózónak személyétől függetlenül – a cégautó-adójáról és az egyes nagy értékű vagyontárgyakat terhelő adójáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie. Az adózó a helyi iparűzési adóelőleg bevallás adatait – ideértve az adóelőleg-kiegészítésről szóló bevallás adatait is – forintban, a helyi iparűzési adóelőleg és az éves tényleges kötelezettség különbözetét 100 forintra kerekítve tünteti fel.
+1. Az adózónak a bevallás adatait – a 31. § (2) bekezdésben meghatározott bevallást, a magánszemélynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, az egészségügyi hozzájárulásáról, a járulékáról, a cégautó-adójáról, és az egyes nagy értékű vagyontárgyakat terhelő adójáról benyújtott adóbevallását kivéve – 1000 forintra kerekítve, 1000 forintban kell feltüntetni. A 31. § (2) bekezdése szerinti bevallás adatait az adónemenként meghatározott összesített sorokban 1000 forintra kerekítve, 1000 forintban kell feltüntetni. A kerekítésből származó különbözetet az adózó csak az adóéven belül, a következő adómegállapítási időszak ugyanazon adó vagy költségvetési támogatás összegénél a kerekítést megelőzően korrekciós tételként veszi figyelembe. Ha a megállapított adó, költségvetési támogatás összege az 1000 forintot nem éri el, akkor az adózó az év elejétől vagy az előző megállapítási időszaktól számított halmozott összeget a következő bevallásában annak a megállapítási időszaknak a kötelezettségeként tünteti fel, amelyben az 1000 forintot elérte. A magánszemélynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, az egészségügyi hozzájárulásáról, a járulékáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie. Az adózónak személyétől függetlenül – a cégautó-adójáról és az egyes nagy értékű vagyontárgyakat terhelő adójáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie.
 
 2. A havi vagy évközi adóbevallásra nem kötelezett adózó valamennyi adóról a megállapításra előírt időszakonkénti részletezésben éves bevallást tesz.
 
@@ -3314,21 +3289,7 @@ az adóév május 31-éig
 
 kell bevallást benyújtani.
 
-2/A. Helyi iparűzési adó
-
-Az adózónak
-
-a) a helyi iparűzési adóelőleg-kiegészítés összegéről
-
-a tárgyév utolsó hónapjának 20. napjáig
-
-b) a helyi iparűzési adóról
-
-az adóévet követő év május 31-éig
-
-kell bevallást tennie.
-
-c) Az ideiglenes jelleggel végzett iparűzési tevékenység után fizetendő iparűzési adóról – a megfizetés határidejével egyezően – a tevékenység befejezésének napján kell bevallást tenni.
+2/A.
 
 3. Az adóbevallás benyújtására vonatkozó különös rendelkezések
 
@@ -3422,7 +3383,7 @@ AZ ÁLLAMI ADÓHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
 
 2. A felszámolás kezdő időpontját megelőzően keletkezett fizetési kötelezettséget e mellékletben foglaltaktól eltérően a csődeljárásról és a felszámolási eljárásról szóló törvény rendelkezéseinek megfelelően kell teljesíteni.
 
-3. Az állami adóhatóságnál nyilvántartott adót – a magánszemély által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, egészségügyi hozzájárulást, járulékot, valamint a magánszemélyt terhelő vagyonszerzési illetéket a cégautó-adót, a helyi iparűzési adót és az egyes nagy értékű vagyontárgyakat terhelő adót kivéve –, a költségvetési támogatást 1000 forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adójáról benyújtott adóbevallásában az adatokat forintban kell megfizetnie. Az adózó a helyi iparűzési adóelőleg bevallás adatait – ideértve az adóelőleg-kiegészítésről szóló bevallás adatait is – forintban, a helyi iparűzési adóelőleg és az éves tényleges kötelezettség különbözetét 100 forintra kerekítve fizeti meg, illetve igényelheti vissza. Az adózó a 100 forintot el nem érő jövedelemadóját, különadóját, egészségügyi hozzájárulását, valamint vagyonszerzési illetékét a cégautó-adót, a helyi ipar űzési adót és az egyes nagy értékű vagyontárgyakat terhelő adót nem fizeti meg, és az adóhatóság a 100 forintot el nem érő adó-visszatérítést nem utalja ki és nem tartja nyilván.
+3. Az állami adóhatóságnál nyilvántartott adót – a magánszemély által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, egészségügyi hozzájárulást, járulékot, valamint a magánszemélyt terhelő vagyonszerzési illetéket a cégautó-adót és az egyes nagy értékű vagyontárgyakat terhelő adót kivéve –, a költségvetési támogatást 1000 forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adójáról benyújtott adóbevallásában az adatokat forintban kell megfizetnie. Az adózó a 100 forintot el nem érő jövedelemadóját, különadóját, egészségügyi hozzájárulását, valamint vagyonszerzési illetékét a cégautó-adót és az egyes nagy értékű vagyontárgyakat terhelő adót nem fizeti meg, és az adóhatóság a 100 forintot el nem érő adó-visszatérítést nem utalja ki és nem tartja nyilván.
 
 Határidők
 
@@ -3534,29 +3495,7 @@ igényelheti vissza.
 
 c) A külföldi illetőségű osztalékban részesülő osztalékadó kötelezettségére a 4. számú melléklet rendelkezései az irányadóak.
 
-4. Helyi iparűzési adó
-
-a) Az adózó az adóelőleget félévi részletekben
-
-az adóév március 15-éig, illetve
-
-szeptember 15-éig
-
-fizeti meg.
-
-b) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett adózónak az iparűzési adóelőleget a várható éves fizetendő adó összegére
-
-az adóév december 20. napjáig
-
-kell kiegészítenie.
-
-c) Az ideiglenes (alkalmi) jelleggel végzett tevékenység utáni iparűzési adót legkésőbb a tevékenység befejezése napján kell megfizetni.
-
-d) A vállalkozó a megfizetett adóelőleg és az adóévre megállapított tényleges adó különbözetét
-
-az adóévet követő év május 31-éig
-
-fizeti meg, illetőleg ettől az időponttól igényelheti vissza.
+4.
 
 5. Járulékok
 
@@ -3668,7 +3607,7 @@ szeptember 15-éig
 
 megfizetnie.
 
-2. Kommunális adó
+2. Kommunális adó, iparűzési adó
 
 a) A magánszemélynek félévenként, két egyenlő részletben kell az adót
 
@@ -3686,13 +3625,13 @@ szeptember 15-éig
 
 fizet.
 
-c) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak a helyi kommunális adóelőleget a várható éves fizetendő adó összegére
+c) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak a helyi kommunális és iparűzési adóelőleget a várható éves fizetendő adó összegére
 
 az adóév december 20. napjáig
 
 kell kiegészítenie.
 
-d)
+d) Az ideiglenes (alkalmi) jelleggel végzett tevékenység utáni iparűzési adót legkésőbb a tevékenység befejezése napját követő hó 15. napjáig kell megfizetni.
 
 e) A vállalkozó a megfizetett adóelőleg és az adóévre megállapított tényleges adó különbözetét
 
@@ -4016,7 +3955,7 @@ A magánszemélyek jövedelemadójáról szóló törvény szerint átalányadó
 
 ### 6. számú melléklet a 2003. évi XCII. törvényhez
 
-A naptári évtől eltérő üzleti évet választó adózók adómegállapítási, adóbevallási és befizetési kötelezettségei
+A naptári évtől eltérő üzleti évet választó adózók adómegállapítási, adóbevallásiés befizetési kötelezettségei
 
 A naptári évtől eltérő üzleti évet választó adózó törvényben vagy más jogszabályban előírt adókötelezettségeit a következő eltérésekkel teljesíti:
 
@@ -4024,9 +3963,7 @@ A naptári évtől eltérő üzleti évet választó adózónak a társasági ad
 
 1. Az állami adóhatósághoz teljesítendő bevallási kötelezettségek
 
-a) Az adózó az adóbevallási kötelezettségét a társasági adóról, az osztalékadóról és a helyi iparűzési adóról az adóév utolsó napját követő 150. napig teljesíti.
-
-b) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak az iparűzési adóelőleg-kiegészítésről az adóév utolsó hónapjának 20. napjáig kell bevallást tennie.
+Az adózó az adóbevallási kötelezettségét a társasági adóról, és az osztalékadóról az adóév utolsó napját követő 150. napig teljesíti.
 
 2. Az állami adóhatósághoz teljesítendő adófizetési kötelezettségek
 
@@ -4036,23 +3973,23 @@ b) A társasági adóról és az osztalékadóról szóló törvény szerinti el
 
 c) A belföldi illetőségű osztalékban részesülő adózó a kifizető által tőle levont osztalékadót az adóév utolsó napját követő 150. naptól igényelheti vissza.
 
-d) A vállalkozó a helyi iparűzési adó előlegét két részletben, az adóév harmadik hónapjának 15. napjáig, illetve kilencedik hónapjának 15. napjáig fizeti meg.
+3. Az önkormányzati adóhatósághoz teljesítendő bevallási kötelezettségek:
 
-e) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak a helyi iparűzési adóelőleget a várható éves fizetendő adó összegére az adóév utolsó hónapjának 20. napjáig kell kiegészítenie.
+a) A naptári évtől eltérő üzleti évet választó adózó adóbevallását az adóév utolsó napját követő 150. napig nyújtja be.
 
-f) A vállalkozó a megfizetett adóelőleg és az adóévre megállapított tényleges adó különbözetét az adóév utolsó napját követő 150. napig fizeti meg, illetőleg ettől az időponttól igényelheti vissza.
+b) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak az iparűzési adóelőleg-kiegészítésről az adóév utolsó hónapjának 20. napjáig kell bevallást tennie.
 
-3. Az önkormányzati adóhatósághoz teljesítendő befizetési kötelezettségek
+4. Az önkormányzati adóhatósághoz teljesítendő befizetési kötelezettségek
 
-a) A vállalkozó a helyi kommunális adó előlegét két részletben, az adóév harmadik hónapjának 15. napjáig, illetve kilencedik hónapjának 15. napjáig fizeti meg.
+a) A vállalkozó a helyi iparűzési és kommunális adó előlegét két részletben, az adóév harmadik hónapjának 15. napjáig, illetve kilencedik hónapjának 15. napjáig fizeti meg.
 
-b) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak a helyi kommunális adóelőleget a várható éves fizetendő adó összegére az adóév utolsó hónapjának 20. napjáig kell kiegészítenie.
+b) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak a helyi iparűzési és kommunális adóelőleget a várható éves fizetendő adó összegére az adóév utolsó hónapjának 20. napjáig kell kiegészítenie.
 
-c) A vállalkozó a megfizetett adóelőleg és az adóévre megállapított tényleges adó különbözetét az adóév utolsó napját követő 150. napig fizeti meg, illetőleg ettől az időponttól igényelheti vissza.
+c) A vállalkozó a megfizetett adóelőleg és az adóévre megállapított tényleges adó különbözetét az adóév utolsó napját követő 150. napig fizeti meg, illetőleg ettől az időponttól igényelheti vissza
 
-4. Az e törvény 1. számú mellékletének B) 1. pontja alkalmazásában a tárgyévi bevallás gyakoriságát meghatározó értékhatárok számításakor a megelőző második naptári év adatait kell figyelembe venni.
+5. Az e törvény 1. számú mellékletének B) 1. pontja alkalmazásában a tárgyévi bevallás gyakoriságát meghatározó értékhatárok számításakor a megelőző második naptári év adatait kell figyelembe venni.
 
-5. Ha az e melléklet hatálya alá tartozó adókra vonatkozó kötelezettséget jogszabály havonként, negyedévenként, félévenként rendeli teljesíteni, az első hónap kezdő napjaként a választott üzleti év kezdő napját kell számításba venni. Az első adóévi hónap kezdő napjának naptári hónapon belüli sorszáma határozza meg valamennyi további adóévi hónap kezdő napjának naptári hónapon belüli sorszámát. Amennyiben valamely adóévi hónap kezdő napjának naptári hónapon belüli sorszáma magasabb, mint a követő naptári hónap napjainak száma, a követő adóévi hónap kezdő napjaként a követő naptári hónap utolsó napját kell tekinteni. Adóévi negyedévként, félévként három, illetve hat adóévi hónapot kell figyelembe venni.
+6. Ha az e melléklet hatálya alá tartozó adókra vonatkozó kötelezettséget jogszabály havonként, negyedévenként, félévenként rendeli teljesíteni, az első hónap kezdő napjaként a választott üzleti év kezdő napját kell számításba venni. Az első adóévi hónap kezdő napjának naptári hónapon belüli sorszáma határozza meg valamennyi további adóévi hónap kezdő napjának naptári hónapon belüli sorszámát. Amennyiben valamely adóévi hónap kezdő napjának naptári hónapon belüli sorszáma magasabb, mint a követő naptári hónap napjainak száma, a követő adóévi hónap kezdő napjaként a követő naptári hónap utolsó napját kell tekinteni. Adóévi negyedévként, félévként három, illetve hat adóévi hónapot kell figyelembe venni.
 
 ### 7. számú melléklet a 2003. évi XCII. törvényhez
 

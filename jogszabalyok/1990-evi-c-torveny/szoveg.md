@@ -65,7 +65,7 @@ Az Országgyűlés a helyi adóztatás kiemelkedő jelentőségét mérlegelve a
 - b) a vagyoni típusú adók körében az adót egységesen – tételes összegben vagy a korrigált forgalmi érték alapulvételével vagy a számított érték alapján – határozhatja meg,
 - c) az általa bevezetett adó mértékeként nem állapíthat meg többet az adómaximumnál,
 - d) a kerületi önkormányzat a fővárosi közgyűlés által bevezetett adót annak hatályon kívül helyezése időpontjáig, a fővárosi közgyűlés az általa az 1. § (3) bekezdés alapján bevezetett adót a kerületi képviselő-testületek többségi véleményének beszerzéséig nem működtetheti,
-- e) a vállalkozó (52. § 26. pont) üzleti célt szolgáló épülete, épületrésze utáni építményadó, telke utáni telekadó, továbbá a vállalkozók kommunális adója és a helyi iparűzési adó megállapítása során – ha e törvény eltérően nem rendelkezik – a 6. § d) pontja nem alkalmazható. A vállalkozók kommunális adója és a helyi iparűzési adó esetén adónemenként egy adómérték alkalmazható. A vállalkozó üzleti célt szolgáló épülete, épületrésze utáni építményadó, telke utáni telekadó alapjának alapterület szerinti megállapítása esetén kizárólag az adótárgy fajtája, illetőleg a településen belüli földrajzi elhelyezkedése alapján állapítható meg differenciált adómérték,
+- e) a vállalkozó (52. § 26. pont) üzleti célt szolgáló épülete, épületrésze utáni építményadó, telke utáni telekadó, továbbá a vállalkozók kommunális adója és a helyi iparűzési adó megállapítása során – ha e törvény eltérően nem rendelkezik – a 6. § d) pontja nem alkalmazható. A vállalkozók kommunális adója és a helyi iparűzési adó esetén adónemenként egy adómérték alkalmazható. A vállalkozó üzleti célt szolgáló épülete, épületrésze utáni építményadó, telke utáni telekadó alapjának alapterület szerinti megállapítása esetén kizárólag az adótárgy fajtája, illetőleg a településen belüli földrajzi elhelyezkedése alapján állapítható meg differenciált adómérték, [e) a vállalkozó (52. § 26. pont) üzleti célt szolgáló épülete, épületrésze utáni építményadó, telke utáni telekadó és a helyi iparűzési adó megállapítása során – ha e törvény eltérően nem rendelkezik – a 6. § d) pontja nem alkalmazható. A helyi iparűzési adó esetén egy adómérték alkalmazható. A vállalkozó üzleti célt szolgáló épülete, épületrésze utáni építményadó, telke utáni telekadó alapjának alapterület szerinti megállapítása esetén kizárólag az adótárgy fajtája, illetőleg a településen belüli földrajzi elhelyezkedése alapján állapítható meg differenciált adómérték,]
 - f) a számított érték alapú és a korrigált forgalmi érték alapú építményadóban a lakás, illetve az egyéb építmény esetén egy-egy, a számított érték alapú és a korrigált forgalmi érték alapú telekadóban a lakáshoz tartozó telek, illetve az egyéb telek esetén egy-egy adómérték alkalmazható.
 
 8. § (1) Ha a fővárosi és a fővárosi kerületi önkormányzatokról szóló törvény másként nem rendelkezik, a helyi adó kizárólag az azt megállapító önkormányzat bevételét képezi, tőle az nem vonható el.
@@ -289,7 +289,7 @@ adómentesség
 
 - a) a 32. § a) 1. pontja alapján: személyenként és vendégéjszakánként 300 Ft;
 - b) a 32. § a) 2. pontja alapján: az adóalap 4%-a;
-- c) a 32. § b) pontja alapján: épület után évente 900 Ft/m2.
+- c)
 
 ### Az adó beszedésére kötelezett
 
@@ -457,13 +457,11 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 ### VI. Fejezet — Átmeneti és hatálybaléptető rendelkezések
 
-43. § (1) A helyi adóval és az önkormányzat költségvetése javára más jogszabályban megállapított minden adóval kapcsolatos eljárásban az e törvényben és az adózás rendjéről szóló törvényben foglaltakat – a (2)–(4) bekezdésben meghatározott eltérésekkel – kell alkalmazni.
+43. § (1) A helyi adóval és az önkormányzat költségvetése javára más jogszabályban megállapított minden adóval kapcsolatos eljárásban az e törvényben és az adózás rendjéről szóló törvényben foglaltakat – a (2)–(3) bekezdésben meghatározott eltérésekkel – kell alkalmazni.
 
-(2) Az önkormányzat a helyi iparűzési adó kivételével az adófizetés esedékességére vonatkozóan – ideértve a 42. § (3) bekezdésében meghatározott esetet is – az adózás rendjéről szóló törvényben foglaltaktól, továbbá a 41. §-ában szabályozottaktól eltérően rendelkezhet, ha ezzel az adóalany számára válik kedvezőbbé kötelezettségének teljesítése.
+(2) Az önkormányzat az adóelőleg- és az adófizetés esedékességére vonatkozóan – ideértve a 42. § (3) bekezdésében meghatározott esetet is – az adózás rendjéről szóló törvényben foglaltaktól, továbbá a 41. §-ban szabályozottaktól eltérően rendelkezhet, ha ezzel az adóalany számára válik kedvezőbbé kötelezettségének teljesítése.
 
-(3) Az önkormányzat a helyi adóval – ide nem értve a helyi iparűzési adót – kapcsolatban rendeletet alkothat az adózás rendjéről szóló törvényben nem szabályozott eljárási kérdésben.
-
-(4) Helyi adóügyben és az önkormányzati adóhatóság hatáskörébe tartozó más ügyben az adózás rendjéről szóló törvény 141. §-ának (4) bekezdését nem kell alkalmazni. Felügyeleti jogkörben hozott jogerős határozat – ide nem értve a megsemmisítő és új eljárásra utasító határozatot – bírósági felülvizsgálata kezdeményezhető.
+(3) Az önkormányzat a helyi adóval kapcsolatban rendeletet alkothat az adózás rendjéről szóló törvényben nem szabályozott eljárási kérdésben.
 
 44. § Az önkormányzati adóhatóság hatáskörébe tartozó adókat és adók módjára behajtandó köztartozásokat csak az adópolitikáért felelős miniszter engedélyével működő számítógépes programrendszerrel lehet nyilvántartani.
 
