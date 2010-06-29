@@ -2371,7 +2371,7 @@ lép.
 
 (3) Az Etv. szerinti hálózati engedélyes a 2009. július 1. és 2009. augusztus 31. közötti időszakban az Etv. 3. §-a (1) bekezdésének b) pontja alkalmazásában nem minősül felhasználónak.
 
-212. § A vállalkozónak a helyi iparűzési adóra és a vállalkozók kommunális adójára a 2010. évben kezdődő adóév harmadik hónapjának 15. napjáig esedékes előlegrészletet az önkormányzati adóhatóság által korábban kiadott fizetési meghagyás alapján, az önkormányzati adóhatóság által megjelölt pénzforgalmi számlára kell megfizetnie. A 2010. adóévben kezdődő – a Htv. 41. §-ában meghatározott – előlegfizetési időszakra fizetendő első adóelőleg-részletet a 2009. évben kezdődő adóév adója és az önkormányzati adóhatóság által a 2010. évben kezdődő adóév harmadik hónapjának 15. napjáig előírt adóelőleg-részlet pozitív különbözetével egyezően, míg a második adóelőleg-részletet a 2009. évi adóév adójának felével megegyező összegben kell bevallani az önkormányzati adóhatósághoz és – iparűzési adó esetén – az állami adóhatóságnak – vállalkozók kommunális adója esetén – az önkormányzati adóhatóságnak megfizetni. A 2010. évben kezdődő adóévben esedékes adóelőleg-fizetési időpontokat követően bekövetkező adókötelezettség-keletkezés esetén az előlegfizetési időszakra fizetendő egyes adóelőleg-részleteket a Htv. e törvénnyel megállapított 41. §-a alapján, iparűzési adó esetén az állami adóhatósághoz, vállalkozók kommunális adója esetén az illetékes önkormányzati adóhatósághoz kell bevallani.
+212. §
 
 213. § (1) Az Itv. e törvénnyel megállapított rendelkezéseit a hatálybalépésüket követően illetékkiszabásra bejelentett vagy más módon az állami adóhatóság tudomására jutott vagyonszerzési ügyekben, illetve indult eljárásokban kell alkalmazni.
 
@@ -2389,39 +2389,7 @@ lép.
 
 (5) Az e törvény hatálybalépésének napja és 2012. december 31. között – az illetékkötelezettség keletkezését követő 30 napon belül – illetékkiszabásra bejelentett ügyekben mentes a visszterhes vagyonátruházási illeték alól az olyan ingatlannak a futamidő végén tulajdonjog átszállást eredményező lízingszerződés keretében történő megszerzése, mely a lízingszerződés megkötéséig a lízingbevevő tulajdona volt, és a tulajdonjog a lízingszerződés megkötése érdekében került a lízingbeadónak átadásra.
 
-214. § (1) Az állami adóhatóság 2010. január 1-jétől a helyi iparűzési adóval összefüggő hatásköröket a 2010. január 1-jétől kezdődő adóéveket érintően gyakorolja.
-
-(2) A 2010. január 1-jét megelőző adóéveket érintő adókötelezettségeket az adózók az önkormányzati adóhatósághoz teljesítik, illetve az ezzel kapcsolatos adóztatási feladatokat az önkormányzati adóhatóságok látják el.
-
-(3) Az (1)–(2) bekezdésben foglaltaktól eltérően a 2010. március 15-én esedékes helyi iparűzési adóelőleget az önkormányzati adóhatósághoz kell teljesíteni. Az állami adóhatóság a 2010. évi helyi iparűzési adó fizetési kötelezettség teljesítése során ezt az előleget a saját nyilvántartása szerint megfizetettnek és teljesítettnek tekinti. Amennyiben az önkormányzati adóhatóság kimutatása szerint a 2010. március 15-én esedékes helyi iparűzési adóelőleget az adózó hiánytalanul nem fizette meg, a különbözet végrehajtását az önkormányzati adóhatóság végzi.
-
-215. § (1) Az önkormányzati adóhatóság az általa az illetékességi területén nyilvántartott helyi iparűzési adóalanyok nevének (elnevezésének), adószámának, székhelyének, telephelyeinek megjelölésével adatot szolgáltat az állami adóhatóságnak
-
-- a) a 2010. március 15-én esedékes és megfizetett helyi iparűzési adóelőleg összegéről, valamint az önkormányzati adóhatóság által előlegmérséklés címén módosított előleg összegéről 2010. április 30. napjáig,
-- b) a 2009. adóévet érintő, az előlegfeltöltési kötelezettség teljesítését megelőzően benyújtott önellenőrzés esetén – az önellenőrzés benyújtásától számított 15 napon belül – az önellenőrzéssel módosított adó és adóelőleg összegéről,
-- c) 2010. június 30. napjáig a 2009. adóévről, 2010-ben benyújtott bevallásban szereplő adóelőleg adatokról, bevallott adó összegéről és az azzal szemben elszámolt adóelőleg (ideértve a megfizetett adóelőleg-kiegészítés összegét is) különbözetéről (előjel helyesen), valamint az adózó a helyi adókról szóló törvény 39/A. §-ának (5) bekezdése, illetve 39/B. §-ának (2) bekezdése szerinti – a helyi iparűzési adó alapjának egyszerűsített meghatározásáról tett – nyilatkozatáról.
-
-(2) Az önkormányzati adóhatóság az állami adóhatóság által közzétett módon és formátumban 2010. január 31-éig adatot szolgáltat az általa 2010. január 1-jén nyilvántartott iparűzési adóalanyok adószámáról, székhelyéről és a helyi adókról szóló törvény szerinti telephelyéről.
-
-(3) Az önkormányzati adóhatóság 2010. január 15-ig elektronikus úton, az állami adóhatóság által közzétett formában megküldi a 2010-ben hatályos helyi iparűzési adót szabályozó önkormányzati rendeleteit az állami adóhatóság részére.
-
-(4) Az önkormányzati adóhatóság 2010. január 15-ig közli az állami adóhatósággal azt a költségvetési számlaszámot, amelyre az állami adóhatóság a települési önkormányzatot megillető helyi iparűzési adó, továbbá a helyi iparűzési adóval összefüggő késedelmi pótlék, önellenőrzési pótlék, adóbírság és mulasztási bírság átutalását teljesíti. A költségvetési számlaszám közlésére vonatkozó kötelezettség elmulasztásából, vagy késedelmes teljesítése esetén az ebből eredő kárt az érintett települési önkormányzat viseli, és ez esetben az állami adóhatóság a késedelmes átutalás miatt kamatot nem fizet.
-
-(5) Az állami adóhatóság a 2010-ben az önkormányzati adóhatósághoz benyújtott bevallásban szereplő adóelőleg összegét – az önkormányzati adóhatóság adatszolgáltatása alapján – az adózó adószámláján önkormányzatonkénti bontásban tartja nyilván.
-
-(6) Az önkormányzati adóhatóság az (1)–(2) és (4) bekezdésben, továbbá a 216. §-ban meghatározott adatszolgáltatási kötelezettségét elektronikus úton teljesíti.
-
-216. § Az üzleti évüket 2009. évben kezdő, naptári évtől eltérő üzleti évet választó adózókra a 214. §–215. §-okban, a naptári évvel egyező adóévet alkalmazó adózókra meghatározott rendelkezéseket a határnapok, illetve a határidők szempontjából az alábbi eltérésekkel kell alkalmazni:
-
-- a) E törvény 215. § (1) bekezdés a) pontja szerinti adatszolgáltatást a helyi iparűzési adóelőleg első részletéről az üzleti év első napjától számított 120 napon belül kell teljesíteni.
-- b) E törvény 215. § (1) bekezdés c) pontja szerinti adatszolgáltatást a 2009-ben kezdődő üzleti évről benyújtandó bevallás esedékességétől számított 30 napon belül kell teljesíteni.
-- c) E törvény 214. § (3) bekezdésében megjelölt 2010. március 15. határnap alatt az üzleti év első napjától számított harmadik hónap 15. napját kell érteni.
-
-217. § A tevékenységüket 2009. december 31-éig megszüntető adózók a helyi iparűzési adóval összefüggő adókötelezettségeiket az önkormányzati adóhatósághoz teljesítik, illetve az önkormányzati adóhatóságok végzik az ezzel összefüggő adóztatási feladatokat. A tevékenységüket 2009. december 31-ét követően megszüntető adózók 2010. január 1. utáni időszakot érintő adóügyeiben az állami adóhatóság jár el.
-
-218. § A helyi iparűzési adó vonatkozásában a 2010. január 1-jét megelőző adómegállapítási időszakokat érintő, az adó megállapításához való jog legkésőbb 2011. december 31-én elévül. A naptári évtől eltérő üzleti évet választó adózók esetében a helyi iparűzési adót érintően az önkormányzati adóhatóság adómegállapítási joga a 2009. évben kezdődő adóév utolsó napjától számított két év elteltével évül el.
-
-219. § Az állami adóhatóság – az Art. 72. §-ának (3) bekezdéséhez kapcsolódóan – a települési (a fővárosban a fővárosi) önkormányzatot megillető helyi iparűzési adó követelések tekintetében a 2009. december 31-ét követő adóévekben esedékessé váló követelések tekintetében jár el hitelezőként. A 2010. január 1-jét megelőző adóévekben esedékes kötelezettségek tekintetében hitelezőként az önkormányzati adóhatóság jár el.
+214–219. §
 
 220. § E törvény az Art. 31. § (5) bekezdését, valamint az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény 11. § (3) bekezdése a) pontját módosító rendelkezéseit a 2010. január 1-jét megelőző időszakra vonatkozó adómegállapítás során alkalmazni kell.
 

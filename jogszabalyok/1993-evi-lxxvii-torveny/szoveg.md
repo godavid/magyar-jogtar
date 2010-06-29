@@ -158,9 +158,9 @@ Az Országgyűlés e célok megvalósítása érdekében a nemzeti és etnikai k
 
 22. § A kisebbségi önkormányzatot a választópolgárok a külön törvényben foglaltaknak megfelelően közvetlen választás útján hozhatják létre.
 
-23. § (1) A települési kisebbségi önkormányzati testület képviselőinek létszáma 5 fő.
+23. § (1) A települési kisebbségi önkormányzati testület képviselőinek létszáma 4 fő.
 
-(2) A megyei, a fővárosi kisebbségi önkormányzat képviselőinek létszáma 9 fő.
+(2) A megyei, a fővárosi kisebbségi önkormányzat képviselőinek létszáma 7 fő.
 
 (3) Ugyanaz a kisebbség a településen csak egy települési kisebbségi önkormányzatot hozhat létre.
 
@@ -181,7 +181,7 @@ Az Országgyűlés e célok megvalósítása érdekében a nemzeti és etnikai k
 - a) a képviselő-testület megbízatása lejárt,
 - b) a képviselő-testületet feloszlatták,
 - c) a képviselő-testület kimondta feloszlását,
-- d) a képviselők száma a megválasztható képviselők számának fele alá csökkent.
+- d) a képviselők száma nem emelkedik a megválasztható képviselők számának fele fölé.
 
 ### A kisebbségi önkormányzatok jogai és kötelezettségei
 
@@ -382,7 +382,7 @@ Az Országgyűlés e célok megvalósítása érdekében a nemzeti és etnikai k
 
 (4) A bizottság működésére, határozatképességére, döntéshozatalára a települési kisebbségi önkormányzati testület működésének, döntéshozatalának szabályait kell megfelelően alkalmazni.
 
-30/M. § (1) A bizottság elnökét és tagjai közül legalább 2 tagot a települési kisebbségi önkormányzati képviselők közül kell választani. A települési kisebbségi önkormányzat elnöke és elnökhelyettese nem lehet a bizottság elnöke vagy tagja. A bizottság tagjainak száma legalább 3 fő.
+30/M. § (1) A bizottság elnökét és tagjai közül 1 főt a települési kisebbségi önkormányzati képviselők közül kell választani. A települési kisebbségi önkormányzat elnöke és elnökhelyettese nem lehet a bizottság elnöke, a települési kisebbségi önkormányzat elnöke nem lehet a bizottság tagja sem. A bizottság tagjainak száma legfeljebb 3 fő.
 
 (2) A települési kisebbségi önkormányzat elnöke felfüggesztheti a bizottság döntését, ha az ellentétes a települési kisebbségi önkormányzat testületének határozatával, vagy sérti a települési kisebbségi önkormányzat érdekeit. A felfüggesztett döntésről a települési kisebbségi önkormányzat testülete a soron következő ülésén határoz.
 
@@ -578,7 +578,7 @@ Az Országgyűlés e célok megvalósítása érdekében a nemzeti és etnikai k
 
 (3) Az országos önkormányzat önállóan vagy más országos önkormányzattal közösen – a jogszabályban meghatározott feltételek szerinti követelményeknek megfelelő, névjegyzékben szereplő – költségvetési könyvvizsgálót (szervezetet) köteles megbízni, továbbá jogszabály által meghatározott egyszerűsített tartalmú, az önkormányzatnak és intézményeinek adatait összevontan tartalmazó, éves pénzforgalmi jelentését, könyvviteli mérlegét, pénzmaradvány- és eredménykimutatását köteles a Belügyi Közlönyben és a Cégközlönyben közzétenni. A könyvvizsgálóra egyebekben a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) rendelkezései az irányadók.
 
-(4) Az országos önkormányzat a közgyűlés által elfogadott költségvetését minden év február 28-ig, beszámolóját minden év május 15-ig, a szervezeti és működési szabályzatát annak elfogadását, módosítás esetén a módosítását követő 45. napon belül közzéteszi a Magyar Közlönyben, és ha ilyen van, akkor az országos önkormányzat internetes honlapján.
+(4) Az országos önkormányzat a közgyűlés által elfogadott költségvetését minden év március 15-ig, beszámolóját minden év május 15-ig, a szervezeti és működési szabályzatát annak elfogadását, módosítás esetén a módosítását követő 45 napon belül közzéteszi a Magyar Közlönyben, és ha ilyen van, akkor az országos önkormányzat internetes honlapján.
 
 39/H. § (1) Az országos önkormányzat képviselője a megbízólevelének átvételétől számított 30 napon belül, majd ezt követően minden év január 31-ig az e törvény melléklete szerinti vagyonnyilatkozatot köteles tenni. A képviselő saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házastársának vagy élettársának, valamint gyermekének az e törvény melléklete szerinti vagyonnyilatkozatát.
 
@@ -809,14 +809,14 @@ köteles az átvevő kisebbségi önkormányzattal – a közoktatási törvény
 - b) az Országgyűlés hazai nemzeti és etnikai kisebbségi ügyekkel foglalkozó állandó bizottsága által kijelölt egy kormánypárti és egy ellenzéki frakciót képviselő személy,
 - c) az alapító által kijelölt négy személy és a Magyar Tudományos Akadémia elnöke által kijelölt egy személy.
 
-(4) A Kuratórium elnöke és egyben annak képviseletében eljáró személy a Kormány által kijelölt személy.
+(4) A Kuratórium elnökét és a Közalapítvány képviseletében eljáró személy(eke)t az alapító jelöli ki a Kuratórium tagjai közül.
 
 (5) A Közalapítvány ellenőrzésre jogosult szervének (felügyelő bizottság) tagjai a következők:
 
 - a) az Országgyűlés hazai nemzeti és etnikai kisebbségi ügyekkel foglalkozó állandó bizottsága által kijelölt egy kormánypárti és egy ellenzéki frakciót képviselő személy,
 - b) az alapító által kijelölt két személy.
 
-(6) A felügyelő bizottság elnöke az alapító által kijelölt személy.
+(6) A felügyelő bizottság elnökét az alapító jelöli ki a felügyelő bizottság tagjai közül.
 
 (7) A (3)–(6) bekezdés szerinti választás, illetőleg kijelölés joga magában foglalja a megbízás, kijelölés visszavonásának jogát.
 
