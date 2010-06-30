@@ -39,7 +39,7 @@ A Magyar Köztársaság Alkotmánya szerint a választójog általános és egye
 
 ### Általános szabályok
 
-4. § (1) A választást legkésőbb 72 nappal a szavazás napja előtt kell kitűzni. A választást úgy kell kitűzni, hogy a szavazás napja ne essen nemzeti ünnepre vagy a Munka Törvénykönyve szerinti munkaszüneti napra, illetve az azokat megelőző vagy követő napra.
+4. § (1) A választást legkésőbb 60 nappal a szavazás napja előtt kell kitűzni. A választást úgy kell kitűzni, hogy a szavazás napja ne essen nemzeti ünnepre vagy a Munka Törvénykönyve szerinti munkaszüneti napra, illetve az azokat megelőző vagy követő napra.
 
 (2) Ha a szavazást a választási bizottság vagy a bíróság megismételteti, a választási bizottság a megismételt szavazást a megismételtetett szavazás napját követő 30 napon belülre tűzi ki.
 
@@ -69,7 +69,7 @@ A Magyar Köztársaság Alkotmánya szerint a választójog általános és egye
 
 (2) A külképviseleti megfigyelő csak választójoggal rendelkező magyar állampolgár lehet.
 
-(3) A külképviseleti megfigyelőt az Országos Választási Bizottságnál – nevének és személyi azonosítójának közlésével – a magyarországi szavazást megelőző 9. napig kell bejelenteni. Az Országos Választási Bizottság a külképviseleti megfigyelő választójogát ellenőrzi, és a külképviseleti megfigyelőt nyilvántartásba veszi. Az Országos Választási Iroda a külképviseletre megbízott megfigyelő nevét és személyi azonosítóját megküldi a külképviseleti választási iroda vezetőjének.
+(3) A külképviseleti megfigyelőt az Országos Választási Bizottságnál – nevének és személyi azonosítójának közlésével – a magyarországi szavazást megelőző 16. napig kell bejelenteni. Az Országos Választási Bizottság a külképviseleti megfigyelő választójogát ellenőrzi, és a külképviseleti megfigyelőt nyilvántartásba veszi. Az Országos Választási Iroda a külképviseletre megbízott megfigyelő nevét és személyi azonosítóját megküldi a külképviseleti választási iroda vezetőjének.
 
 (4) Az Országos Választási Bizottság által nyilvántartásba vett külképviseleti megfigyelő jelen lehet a külképviseleti választási iroda munkájánál. A külképviseleti megfigyelő
 
@@ -119,7 +119,7 @@ A Magyar Köztársaság Alkotmánya szerint a választójog általános és egye
 
 ### A névjegyzék közszemlére tétele
 
-14. § (1) A névjegyzéket a szavazás napja előtt 60 nappal – nyolc napra – közszemlére kell tenni, és ennek idejét a helyben szokásos módon ki kell hirdetni. A választópolgárokat a névjegyzékbe vételükről legkésőbb a szavazás napja előtti 58. napig értesítő megküldésével kell tájékoztatni.
+14. § (1) A névjegyzéket a szavazás napja előtt 46 nappal – öt napra – közszemlére kell tenni, és ennek idejét a helyben szokásos módon ki kell hirdetni. A választópolgárokat a névjegyzékbe vételükről legkésőbb a szavazás napja előtti 45. napig értesítő megküldésével kell tájékoztatni.
 
 (2) Az értesítő tartalmazza a választópolgár családi és utónevét, lakcímét, személyi azonosítóját, névjegyzékbeli sorszámát, egyéb technikai adatokat, a szavazás helyét és idejét, továbbá a szavazással kapcsolatos egyéb tudnivalókat.
 
@@ -225,13 +225,13 @@ A Magyar Köztársaság Alkotmánya szerint a választójog általános és egye
 
 20/E. § (1) A névjegyzékből való kihagyás, illetőleg törlés vagy a névjegyzékbe való felvétel miatt a névjegyzék közszemlére tételének időtartama alatt lehet kifogást benyújtani.
 
-(2) Akit a külképviseleti névjegyzékbe felvettek, vagy akinek külképviseleti névjegyzékbe vételét elutasították, az erről szóló értesítés kézhezvételét követő három napon belül nyújthat be kifogást.
+(2) Akit a külképviseleti névjegyzékbe felvettek, vagy akinek külképviseleti névjegyzékbe vételét elutasították, az erről szóló értesítés kézhezvételét követő 2 napon belül nyújthat be kifogást.
 
 (3) A névjegyzékből való kihagyás, illetőleg törlés vagy a névjegyzékbe való felvétel miatt benyújtott kifogást, illetőleg a külképviseleti névjegyzékbe való felvétel vagy annak elutasítása miatti kifogást a helyi választási iroda vezetőjéhez kell benyújtani, aki a kifogásról legkésőbb a beérkezését követő napon dönt.
 
 (4) Ha a helyi választási iroda vezetője a kifogásnak helyt ad, a névjegyzéket, illetőleg a külképviseleti névjegyzéket módosítja.
 
-(5) Ha a helyi választási iroda vezetője a kifogásnak nem ad helyt, a kifogást legkésőbb a beérkezését követő napon megküldi a helyi bíróságnak, Budapesten a Pesti Központi Kerületi Bíróságnak. A bírósági eljárásban az ügyvédi képviselet nem kötelező. A bíróság egyesbíróként jár el. A bíróság a kifogásról a beérkezését követő három napon belül dönt.
+(5) Ha a helyi választási iroda vezetője a kifogásnak nem ad helyt, a kifogást legkésőbb a beérkezését követő napon megküldi a helyi bíróságnak, Budapesten a Pesti Központi Kerületi Bíróságnak. A bírósági eljárásban az ügyvédi képviselet nem kötelező. A bíróság egyesbíróként jár el. A bíróság a kifogásról a beérkezését követő 2 napon belül dönt.
 
 (6) Ha a bíróság a kifogást alaposnak tartja, elrendeli a névjegyzék, illetőleg a külképviseleti névjegyzék módosítását, ellenkező esetben a kifogást elutasítja.
 
@@ -265,21 +265,31 @@ A Magyar Köztársaság Alkotmánya szerint a választójog általános és egye
 
 (4) Az olyan választási bizottságoknak, amelyek a jogorvoslati eljárásban egymással döntési, döntést felülbíráló kapcsolatba kerülhetnek, nem lehetnek tagjai az egymással hozzátartozói kapcsolatban álló személyek.
 
-23. § (1) A szavazatszámláló bizottság három tagját és szükséges számban póttagokat a települési önkormányzat képviselő-testülete az országgyűlési képviselők általános választásának kitűzését követően, legkésőbb a szavazás napja előtti 20. napon választja meg; személyükre a helyi választási iroda vezetője tesz indítványt. Az egy szavazókörrel rendelkező településen nem választanak külön szavazatszámláló bizottságot [31. § (2) bek. l) pont].
+23. § (1) A szavazatszámláló bizottság három tagját és szükséges számban póttagokat a települési önkormányzat képviselő-testülete az országgyűlési képviselők általános választásának kitűzését követően, legkésőbb a szavazás napja előtti 20. napon választja meg; személyükre a helyi választási iroda vezetője tesz indítványt. Az egy szavazókörrel rendelkező településen nem választanak külön szavazatszámláló bizottságot.
 
-(2) A helyi választási bizottság három – az egy szavazókörrel rendelkező településen öt – tagját és szükséges számban póttagokat a települési önkormányzat képviselő-testülete az önkormányzati képviselők és polgármesterek általános választásának kitűzését követően, legkésőbb a szavazás napja előtti 51. napon választja meg; személyükre a helyi választási iroda vezetője tesz indítványt.
+(2) A helyi választási bizottság három – az egy szavazókörrel rendelkező településen öt – tagját és szükséges számban póttagokat a települési önkormányzat képviselő-testülete az önkormányzati képviselők és polgármesterek általános választásának kitűzését követően, legkésőbb a szavazás napja előtti 42. napon választja meg; személyükre a helyi választási iroda vezetője tesz indítványt.
 
 (3) Az országgyűlési egyéni választókerületi, illetőleg a területi választási bizottság három-három tagját és szükséges számban póttagokat a fővárosi, megyei közgyűlés választja meg; személyükre a területi választási iroda vezetője tesz indítványt.
 
 (4) Az Országos Választási Bizottság öt tagját és szükséges számban póttagokat az Országgyűlés választja meg; személyükre – a pártok javaslataira is figyelemmel – a választások és népszavazások lebonyolításáért felelős miniszter (a továbbiakban: miniszter) tesz indítványt.
 
-(5) A (3) és (4) bekezdés szerinti választási bizottságok választott tagjait az országgyűlési képviselők általános választásának kitűzését követően, legkésőbb a szavazás napja előtti 51. napon kell megválasztani.
+(5) A (3) bekezdés szerinti választási bizottságok választott tagjait az országgyűlési képviselők általános választásának kitűzését követően, legkésőbb a szavazás napja előtti 42. napon kell megválasztani.
+
+(6) Az Országos Választási Bizottság választott tagjait
+
+- a) az országgyűlési képviselők általános választásának,
+- b) az Európai Parlament tagjai általános választásának és
+- c) a helyi önkormányzati képviselők és polgármesterek általános választásának kitűzését követően, legkésőbb a szavazás napja előtti 42. napon kell megválasztani.
 
 24. § Ha a szavazatszámláló bizottság vagy a helyi választási bizottság tagjainak megválasztására – az alacsony lakosságszám vagy az összeférhetetlenségi szabályok miatt, illetőleg azért, mert a képviselő-testület a működésében akadályozott – a törvényben előírt határidőig nem került sor, a tagokat a területi választási bizottság a helyi választási iroda vezetőjének indítványára haladéktalanul megbízza.
 
-25. § (1) A választási bizottságoknak – a 23. §-ban említetteken felüli – további egy-egy tagját a választókerületben jelöltet, illetőleg listát állító jelölő szervezet, illetőleg a független jelölt bízza meg.
+25. § (1) A választási bizottságoknak – a 23. §-ban említetteken felüli – további egy-egy tagját a választókerületben jelöltet, listát állító jelölő szervezet, vagy a független jelölt bízza meg. Az Országos Választási Bizottság egy-egy tagját
 
-(2) A választási bizottságok megbízott tagjait a szavazás napját megelőző 9. napig a választási bizottság elnökénél, a szavazatszámláló bizottság megbízott tagjait a helyi választási iroda vezetőjénél kell bejelenteni.
+- a) a 23. § (6) bekezdés a) pontja szerinti esetben az országos listát állító jelölő szervezet,
+- b) a 23. § (6) bekezdés b) pontja szerinti esetben az Országgyűlésben képviselőcsoporttal rendelkező párt, továbbá a listát állító, képviselőcsoporttal nem rendelkező jelölő szervezet,
+- c) a 23. § (6) bekezdés c) pontja szerinti esetben az Országgyűlésben képviselőcsoporttal rendelkező párt bízza meg.
+
+(2) A választási bizottságok megbízott tagjait a szavazás napját megelőző 16. napig a választási bizottság elnökénél, a szavazatszámláló bizottság megbízott tagjait a helyi választási iroda vezetőjénél kell bejelenteni. A bejelentés tartalmazza a megbízott tag nevét, lakcímét és személyi azonosítóját.
 
 26. § (1) A választási bizottság választott tagjainak megbízatása a – 23. §-ban meghatározott – következő általános választásra létrehozott választási bizottság alakuló üléséig tart.
 
@@ -353,7 +363,7 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 (3) A határozatot – ha arra az (1) bekezdés a) pontja szerint nem került sor – kézbesíteni kell az érintettnek.
 
-(4) A határozatot – ingyenesen – át kell adni a választási bizottság megbízott tagjai részére.
+(4) A határozatot kérésükre, ingyenesen át kell adni a választási bizottság megbízott tagjai részére.
 
 (5) A választási bizottság a határozatát – a személyes adatok kivételével – nyilvánosságra hozza.
 
@@ -420,9 +430,9 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 ### Kampányidőszak
 
-40. § (1) A választási kampány a választás kitűzésétől a szavazást megelőző nap 0 óráig tart.
+40. § (1) A választási kampány a választás kitűzésétől a szavazás napjának kezdetéig tart.
 
-(2) A szavazást megelőző nap 0 órától a szavazás befejezéséig választási kampányt folytatni tilos (kampánycsend).
+(2) A szavazás napján 0 órától 19 óráig választási kampányt folytatni tilos.
 
 ### A kampánycsend megsértése
 
@@ -490,7 +500,7 @@ tegye közzé.
 
 (2) Jelöltet ajánlhat az a választópolgár, akinek lakóhelye a választókerületben van.
 
-(3) Jelöltet ajánlani a szavazást megelőző 23. napig lehet.
+(3) Jelöltet ajánlani a szavazást megelőző 30. napig lehet.
 
 (4) Az ajánlás nem vonható vissza.
 
@@ -541,7 +551,7 @@ tegye közzé.
 
 ### A jelölt bejelentése
 
-52. § (1) A jelöltet legkésőbb a szavazást megelőző 23. napon az ajánlószelvények átadásával kell bejelenteni az illetékes választási bizottságnál.
+52. § (1) A jelöltet legkésőbb a szavazást megelőző 30. napon az ajánlószelvények átadásával kell bejelenteni az illetékes választási bizottságnál.
 
 (2) A bejelentésnek tartalmaznia kell a jelölt családi és utónevét, személyi azonosítóját, lakcímét, valamint nyilatkozatát arról, hogy
 
@@ -569,7 +579,7 @@ tegye közzé.
 
 55. § (1) A jelölő szervezet, a jelölt, illetőleg a lista bejelentéséről a választási iroda, nyilvántartásba vételéről a választási bizottság igazolást ad ki.
 
-(2) Az illetékes választási bizottság minden, a törvényes feltételeknek megfelelő jelölő szervezetet, jelöltet, illetőleg listát – a bejelentését követő három napon belül – nyilvántartásba vesz.
+(2) Az illetékes választási bizottság minden, a törvényes feltételeknek megfelelő jelölő szervezetet, jelöltet, illetőleg listát – a bejelentését követő 2 napon belül – nyilvántartásba vesz.
 
 56. § (1) A választási bizottság visszautasítja a jelölő szervezet nyilvántartásba vételét, ha a jelölő szervezet a törvényes feltételeknek nem felel meg.
 
@@ -579,7 +589,7 @@ tegye közzé.
 
 ### A jelöltre vonatkozó rendelkezések
 
-57. § Ha a választópolgárt egy jelölési fajtán belül több helyen is jelöltnek ajánlották, akkor legkésőbb a választást megelőző 19. napig nyilatkoznia kell arról, hogy melyik jelölést fogadja el.
+57. § Ha a választópolgárt egy jelölési fajtán belül több helyen is jelöltnek ajánlották, akkor legkésőbb a választást megelőző 26. napig nyilatkoznia kell arról, hogy melyik jelölést fogadja el.
 
 58. § A jelölt kiesik, ha a szavazás megkezdése előtt a jelölésről írásban lemondott, választójogát elvesztette, vagy meghalt. A kiesett jelölt nevét a jelöltek nyilvántartásából, illetőleg a szavazólapokról törölni kell.
 
@@ -796,7 +806,7 @@ hivatkozással lehet fellebbezést benyújtani.
 
 ### Kifogás
 
-77. § (1) Kifogást a választásra irányadó jogszabály, illetőleg a választás és a választási eljárás alapelveinek (3. §) megsértésére (a továbbiakban együtt: jogszabálysértés) hivatkozással bárki benyújthat. A kifogást úgy kell benyújtani, hogy az legkésőbb a sérelmezett jogszabálysértés elkövetésétől számított három napon belül megérkezzen. A választási bizottság a benyújtott kifogásról a beérkezésétől – áttétel esetén az elbírálására jogosult választási bizottsághoz történő beérkezésétől – számított három napon belül dönt.
+77. § (1) Kifogást a választásra irányadó jogszabály, illetőleg a választás és a választási eljárás alapelveinek (3. §) megsértésére (a továbbiakban együtt: jogszabálysértés) hivatkozással bárki benyújthat. A kifogást úgy kell benyújtani, hogy az legkésőbb a sérelmezett jogszabálysértés elkövetésétől számított 2 napon belül megérkezzen. A választási bizottság a benyújtott kifogásról a beérkezésétől – áttétel esetén az elbírálására jogosult választási bizottsághoz történő beérkezésétől – számított 2 napon belül dönt.
 
 (2) A kifogásnak tartalmaznia kell
 
@@ -838,7 +848,7 @@ hivatkozással lehet fellebbezést benyújtani.
 
 80. § (1) A fellebbezést a megtámadott határozatot hozó választási bizottságnál (szavazatszámláló bizottság döntése elleni fellebbezés esetén az elbírálására jogosult választási bizottságnál) kell előterjeszteni.
 
-(2) A fellebbezést úgy kell benyújtani, hogy az legkésőbb a megtámadott határozat meghozatalától számított három napon belül megérkezzen az (1) bekezdés szerinti választási bizottsághoz.
+(2) A fellebbezést úgy kell benyújtani, hogy az legkésőbb a megtámadott határozat meghozatalától számított 2 napon belül megérkezzen az (1) bekezdés szerinti választási bizottsághoz.
 
 (3) A választási bizottságnak a szavazólap adattartalmának jóváhagyásával kapcsolatos döntése elleni fellebbezést úgy kell benyújtani, hogy az legkésőbb a választási bizottság döntését követő napon megérkezzen. A fellebbezést elbíráló választási bizottság legkésőbb a fellebbezés felterjesztését követő napon dönt.
 
@@ -856,7 +866,7 @@ hivatkozással lehet fellebbezést benyújtani.
 
 ### A fellebbezési eljárás
 
-81. § (1) A fellebbezésről az annak elbírálására jogosult választási bizottság a beérkezésétől számított három napon belül dönt.
+81. § (1) A fellebbezésről az annak elbírálására jogosult választási bizottság a beérkezésétől számított 2 napon belül dönt.
 
 (2) Érdemi vizsgálat nélkül el kell utasítani a fellebbezést, ha az elkésett, nem a 80. § (1) bekezdése szerinti választási bizottsághoz nyújtották be, vagy nem tartalmazza a 80. § (4) bekezdés a) és b) pontjában foglaltakat. A fellebbezés nem utasítható el, ha a jogosult a fellebbezést az elbírálására jogosult választási bizottságnál – határidőben – terjeszti elő.
 
@@ -886,7 +896,7 @@ hivatkozással lehet fellebbezést benyújtani.
 
 83. § (1) A bírósági felülvizsgálat iránti kérelmet a megtámadott határozatot hozó választási bizottságnál kell előterjeszteni.
 
-(2) A bírósági felülvizsgálat iránti kérelmet úgy kell benyújtani, hogy az legkésőbb a megtámadott határozat meghozatalától számított három napon belül megérkezzen az (1) bekezdés szerinti választási bizottsághoz.
+(2) A bírósági felülvizsgálat iránti kérelmet úgy kell benyújtani, hogy az legkésőbb a megtámadott határozat meghozatalától számított 2 napon belül megérkezzen az (1) bekezdés szerinti választási bizottsághoz.
 
 (3) A választási bizottságnak a szavazólap adattartalmának jóváhagyásával kapcsolatos döntése elleni bírósági felülvizsgálat iránti kérelmet úgy kell benyújtani, hogy az legkésőbb a választási bizottság döntését követő napon megérkezzen. A bírósági felülvizsgálat iránti kérelmet elbíráló bíróság legkésőbb a bírósági felülvizsgálat iránti kérelem felterjesztését követő napon dönt.
 
@@ -908,7 +918,7 @@ hivatkozással lehet fellebbezést benyújtani.
 
 (2) A bíróság a bírósági felülvizsgálat iránti kérelemről nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz.
 
-(3) A bírósági felülvizsgálat iránti kérelemről a bíróság a felterjesztésétől számított három napon belül dönt.
+(3) A bírósági felülvizsgálat iránti kérelemről a bíróság a felterjesztésétől számított 2 napon belül dönt.
 
 (4) Érdemi vizsgálat nélkül el kell utasítani a bírósági felülvizsgálat iránti kérelmet, ha az elkésett, nem a 83. § (1) bekezdése szerinti választási bizottsághoz nyújtották be, vagy nem tartalmazza a 83. § (4) bekezdés a) és b) pontjában foglaltakat.
 
@@ -1104,15 +1114,15 @@ kérték, az Országos Választási Iroda a választás első fordulóját megel
 
 ### Ajánlás
 
-94. § (1) A területi listát és az azon szereplő jelölteket legkésőbb a szavazást megelőző 20. napon, az országos listát és az azon szereplő jelölteket legkésőbb a szavazást megelőző 19. napon kell bejelenteni.
+94. § (1) A területi listát és az azon szereplő jelölteket legkésőbb a szavazást megelőző 27. napon, az országos listát és az azon szereplő jelölteket legkésőbb a szavazást megelőző 26. napon kell bejelenteni.
 
 (2) Nem érinti a listaállítás jogát az, ha az egyéni választókerületi jelölt kiesett.
 
-95. § (1) A listák kapcsolását, a kapcsolt listák sorrendjét és a kapcsolt listákon szereplő jelöltek mandátumhoz jutási sorrendjét legkésőbb a szavazást megelőző 18. napon lehet bejelenteni. A listakapcsolásra vonatkozó bejelentést a választási bizottság nyilvánosságra hozza.
+95. § (1) A listák kapcsolását, a kapcsolt listák sorrendjét és a kapcsolt listákon szereplő jelöltek mandátumhoz jutási sorrendjét legkésőbb a szavazást megelőző 25. napon lehet bejelenteni. A listakapcsolásra vonatkozó bejelentést a választási bizottság nyilvánosságra hozza.
 
 (2) A listák sorrendjének kisorsolásakor a kapcsolásban részt vevő listákat együtt kell sorsolni; a kapcsolásban részt vevő listák – az (1) bekezdés szerint bejelentett sorrendnek megfelelően – egymás utáni sorszámot kapnak.
 
-(3) A közös jelöltek és a közös területi listák töredékszavazatainak megosztását legkésőbb a szavazást megelőző 18. napon lehet bejelenteni. A bejelentést a választási bizottság nyilvánosságra hozza.
+(3) A közös jelöltek és a közös területi listák töredékszavazatainak megosztását legkésőbb a szavazást megelőző 25. napon lehet bejelenteni. A bejelentést a választási bizottság nyilvánosságra hozza.
 
 (4) A közös lista állításával egyidejűleg be kell jelenteni, hogy az egyes jelölteket melyik jelölő szervezet állította.
 
@@ -1361,16 +1371,20 @@ kérték, az Országos Választási Iroda a választás első fordulóját megel
 
 101. § Választókerület:
 
-- a) a megyei közgyűlés tagjai választásának tekintetében a 10 000 vagy annál kevesebb lakosú települések együttesen, illetőleg a 10 000-nél több lakosú települések együttesen, a megyei jogú városok nélkül,
+- a) a megyei közgyűlés tagjai választásának tekintetében a megye, a megyei jogú városok nélkül,
 - b) a főpolgármester és a fővárosi közgyűlés tagjai választásának tekintetében a főváros,
 - c) a polgármester választása, a 10 000 vagy annál kevesebb lakosú település települési önkormányzati képviselőinek választása tekintetében a település,
 - d) a 10 000-nél több lakosú település települési önkormányzati képviselőinek egyéni választókerületi választása tekintetében az e célra kialakított választókerület.
 
-102. § (1) Az egyéni választókerületek sorszámát és területét a helyi választási iroda vezetője a választás évének január 1-jei lakosságszáma alapján állapítja meg. A helyi választási iroda vezetője minden év januárjában felülvizsgálja az egyéni választókerületek számát, sorszámát és területi beosztását, és e döntését a helyben szokásos módon február 15-ig közzéteszi. Az egyéni választókerületek kialakítását érintő változásokat a helyi választási iroda vezetője egyébként folyamatosan figyelemmel kíséri, és a szükséges intézkedéseket megteszi, és e döntését a helyben szokásos módon közzéteszi.
+102. § (1) A helyi választási iroda vezetője a helyi önkormányzati képviselők és polgármesterek általános választása évének január 1-jei lakosságszáma alapján február 15-ig meghatározza és a helyben szokásos módon közzéteszi a települési önkormányzat képviselő-testülete megválasztható tagjainak számát.
 
-(2) A helyi választási iroda vezetője döntése ellen a döntést követő három napon belül a területi választási iroda vezetőjéhez lehet kifogással fordulni, ha a településen belül az egyéni választókerületeket úgy alakították ki, hogy az egyes választókerületek lakosságának a száma aránytalan. A kifogásról a területi választási iroda vezetője három napon belül dönt. További jogorvoslatnak helye nincs.
+(2) Az egyéni választókerületek számát, sorszámát és területét a helyi választási iroda vezetője a helyi önkormányzati képviselők és polgármesterek általános választása évének január 1-jei lakosságszáma alapján állapítja meg, és e döntését a helyben szokásos módon február 28-ig közzéteszi.
 
-(3) Az (1) és (2) bekezdés rendelkezéseit csak az általános önkormányzati választásokon és a képviselő-testület feloszlatása vagy feloszlása miatt kitűzött időközi választásokon kell alkalmazni.
+(3) A helyi választási iroda vezetőjének (1) és (2) bekezdés szerinti döntése ellen annak közzétételétől számított 2 napon belül a területi választási iroda vezetőjéhez lehet kifogással fordulni. A helyi választási iroda vezetőjének (2) bekezdés szerinti döntése ellen a 9. § (1) bekezdésben foglaltak megsértésére hivatkozással terjeszthető elő kifogás. A területi választási iroda vezetője a kifogásról 2 napon belül dönt. A területi választási iroda vezetője a megtámadott határozatot helybenhagyja vagy megváltoztatja. További jogorvoslatnak helye nincs.
+
+102/A. § (1) A területi választási iroda vezetője a helyi önkormányzati képviselők és polgármesterek általános választása évének január 1-jei lakosságszáma alapján február 15-ig meghatározza és a helyben szokásos módon közzéteszi a megyei, fővárosi közgyűlés megválasztható tagjainak számát.
+
+(2) A területi választási iroda vezetőjének döntése ellen 2 napon belül az országos választási iroda vezetőjéhez lehet kifogással fordulni. A kifogásról az országos választási iroda vezetője 2 napon belül dönt. Az országos választási iroda vezetője a megtámadott határozatot helybenhagyja vagy megváltoztatja. További jogorvoslatnak helye nincs.
 
 ### A választójogosultság nyilvántartása
 
@@ -1415,13 +1429,13 @@ kérték, az Országos Választási Iroda a választás első fordulóját megel
 
 (2) A helyi választási bizottság:
 
-- a) dönt a polgármester-, a kislistás, illetőleg az egyéni választókerületi jelöltek, a kompenzációs listák, valamint a csak egy településen jelöltet állítani kívánó jelölő szervezetek nyilvántartásba vételéről, illetőleg elutasításáról,
+- a) dönt a polgármester-, az egyéni listás, illetőleg az egyéni választókerületi jelöltek, a kompenzációs listák, valamint a csak egy településen jelöltet állítani kívánó jelölő szervezetek nyilvántartásba vételéről, illetőleg elutasításáról,
 - b) kisorsolja a kompenzációs listák sorszámát,
 - c) jóváhagyja a település szavazólapjainak adattartalmát,
 - d) dönt a polgármester- és a képviselő-választással kapcsolatos kifogásról,
 - e) dönt a szavazatszámláló bizottságnak az (1) bekezdés a) és b) pontja alapján hozott, kizárólag a települési (polgármester-, képviselő-) választást érintő, valamint a települési és a területi önkormányzati vagy főpolgármester-választást egyaránt érintő határozata elleni fellebbezésről,
 - f) megsemmisíti a polgármester-, illetőleg a képviselő-választás eredményét, ha olyan törvénysértést állapít meg, amely azt érdemben befolyásolta,
-- g) egyenlő szavazatszám esetén kisorsolja, hogy a kislistás választáson melyik jelölt szerez mandátumot,
+- g) egyenlő szavazatszám esetén kisorsolja, hogy az egyéni listás választáson melyik jelölt szerez mandátumot,
 - h) megállapítja és közzéteszi a polgármester- és a képviselő-választás eredményét,
 - i) kiadja a polgármesternek és a települési önkormányzati képviselőknek a megbízólevelet,
 - j) kitűzi az időközi polgármester- és képviselő-választást, és megállapítja annak naptár szerinti határnapjait,
@@ -1467,7 +1481,7 @@ kérték, az Országos Választási Iroda a választás első fordulóját megel
 
 107. § (1) A megyei lista ajánlására a VII. fejezet jelöltajánlásra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-(2) A kompenzációs listát, valamint az azon szereplő jelölteket legkésőbb a szavazást megelőző 20. napon, a fővárosi listát, valamint az azon szereplő jelölteket legkésőbb a szavazást megelőző 19. napon kell bejelenteni.
+(2) A kompenzációs listát, valamint az azon szereplő jelölteket legkésőbb a szavazást megelőző 27. napon, a fővárosi listát, valamint az azon szereplő jelölteket legkésőbb a szavazást megelőző 26. napon kell bejelenteni.
 
 107/A. § Az Európai Unió más tagállama állampolgárának jelöltként történő bejelentéséhez csatolni kell a jelölt nyilatkozatát arról, hogy az állampolgársága szerinti államban nem áll olyan jogszabályi, bírósági vagy más hatósági rendelkezés hatálya alatt, amely szerint nem választható.
 
@@ -1479,11 +1493,11 @@ kérték, az Országos Választási Iroda a választás első fordulóját megel
 
 110. § (1) Külön-külön szavazólap szolgál
 
-- a) a 10 000 vagy annál kevesebb lakosú településen a kislistás, a polgármester- és a megyei listás választásra,
+- a) a 10 000 vagy annál kevesebb lakosú településen az egyéni listás, a polgármester- és a megyei listás választásra,
 - b) a 10 000-nél több lakosú településen az egyéni választókerületi, a polgármester- és – a megyei jogú város kivételével – a megyei listás választásra,
 - c) a fővárosban az egyéni választókerületi, a polgármester-, a főpolgármester-, valamint a fővárosi listás választásra.
 
-(2) A települési kislistás, az egyéni választókerületi és a polgármester-választás szavazólapja ábécé sorrendben tartalmazza a jelöltek hivatalosan használt családi és utónevét, a 52. § (3) bekezdése szerinti megkülönböztető jelzést, valamint a jelölő szervezetek nevét – a jelölő szervezet kérésére annak rövidítését is –, illetőleg a független jelölés tényét. A kisebbséget képviselő jelölt kívánságára a nevét, illetőleg a jelölő szervezet nevét a szavazólapnak a kisebbség anyanyelvén is tartalmaznia kell.
+(2) A települési egyéni listás, az egyéni választókerületi és a polgármester-választás szavazólapja ábécé sorrendben tartalmazza a jelöltek hivatalosan használt családi és utónevét, a 52. § (3) bekezdése szerinti megkülönböztető jelzést, valamint a jelölő szervezetek nevét – a jelölő szervezet kérésére annak rövidítését is –, illetőleg a független jelölés tényét. A kisebbséget képviselő jelölt kívánságára a nevét, illetőleg a jelölő szervezet nevét a szavazólapnak a kisebbség anyanyelvén is tartalmaznia kell.
 
 (3)
 
@@ -1497,11 +1511,11 @@ kérték, az Országos Választási Iroda a választás első fordulóját megel
 
 ### A szavazatok összesítése
 
-112. § A kislistás választás tekintetében az érvényes szavazatokat jelöltenként külön-külön meg kell számolni. Az érvényes és érvénytelen szavazatot egyaránt tartalmazó szavazólapokat külön kell kötegelni. A kötegre jelöltenként külön-külön rá kell írni az érvényes szavazatok számát.
+112. § Az egyéni listás választás tekintetében az érvényes szavazatokat jelöltenként külön-külön meg kell számolni. Az érvényes és érvénytelen szavazatot egyaránt tartalmazó szavazólapokat külön kell kötegelni. A kötegre jelöltenként külön-külön rá kell írni az érvényes szavazatok számát.
 
 113. § (1) A helyi, illetőleg a területi választási bizottság a szavazatszámláló bizottságok jegyzőkönyvei alapján összesíti a szavazatokat, és megállapítja a választás eredményét.
 
-(2) A települési kislistás választás eredményéről összesítő jegyzőkönyv, a vegyes választási rendszer egyéni választókerületi eredményéről választókerületenként külön-külön jegyzőkönyv, listás eredményéről, valamint a fővárosi listás választás eredményéről és a polgármester választásáról külön jegyzőkönyv készül. A megyei közgyűlési tagok választási eredményéről választókerületenként összesítő jegyzőkönyvet kell készíteni.
+(2) Az egyéni listás választás eredményéről összesítő jegyzőkönyv, a vegyes választási rendszer egyéni választókerületi eredményéről választókerületenként külön-külön jegyzőkönyv, kompenzációs listás eredményéről, valamint a fővárosi listás választás eredményéről és a polgármester választásáról külön jegyzőkönyv készül. A megyei közgyűlési tagok választási eredményéről összesítő jegyzőkönyvet kell készíteni.
 
 (3) Csak a polgármester-választás, a főpolgármester-választás, valamint a fővárosi, megyei közgyűlési tagok választásának nem hivatalos eredményéről kell adatlapot kiállítani.
 
@@ -1523,7 +1537,7 @@ kérték, az Országos Választási Iroda a választás első fordulóját megel
 
 ### A választás kitűzése
 
-115/C. § A települési kisebbségi önkormányzati képviselők választását a szavazást megelőző 65. napig kell kitűzni. A választás megtartását nem akadályozza, ha a kisebbségi választói jegyzékben szereplő választópolgárok száma a választás kitűzését követően 30 alá csökken.
+115/C. § A települési kisebbségi önkormányzati képviselők választását a szavazást megelőző 55. napig kell kitűzni. A választás megtartását nem akadályozza, ha a kisebbségi választói jegyzékben szereplő választópolgárok száma a választás kitűzését követően 30 alá csökken.
 
 ### Szavazókörök
 
@@ -2033,7 +2047,7 @@ tekinthet be. A kisebbségi választói jegyzékbe történt betekintésről nyi
 - c) független jelölt: az a jelölt, akit nem jelölő szervezet állít,
 - d) hozzátartozó: az egyeneságbeli rokon és ennek házastársa, az örökbefogadó és a nevelőszülő, az örökbefogadott és a nevelt gyermek, a testvér, a házastárs, az élettárs, a házastárs egyeneságbeli rokona, testvére, valamint a testvér házastársa,
 - e) jegyző: a települési jegyző, a körjegyző,
-- f) jelölési fajta: az országgyűlési képviselők választásán az egyéni választókerületi, a területi listás, az országos listás jelölés; az Európai Parlament tagjainak választásán a listás jelölés; a helyi önkormányzati képviselők és polgármesterek választásán a polgármester-/főpolgármester-, a kislistás, az egyéni választókerületi, a kompenzációs listás, a fővárosi/megyei listás jelölés; a kisebbségi önkormányzati képviselők választásán a települési kisebbségi önkormányzati, a területi kisebbségi önkormányzati, az országos kisebbségi önkormányzati jelölés,
+- f) jelölési fajta: az országgyűlési képviselők választásán az egyéni választókerületi, a területi listás, az országos listás jelölés; az Európai Parlament tagjainak választásán a listás jelölés; a helyi önkormányzati képviselők és polgármesterek választásán a polgármester-/főpolgármester-, az egyéni listás, az egyéni választókerületi, a kompenzációs listás, a fővárosi/megyei listás jelölés; a kisebbségi önkormányzati képviselők választásán a települési kisebbségi önkormányzati, a területi kisebbségi önkormányzati, az országos kisebbségi önkormányzati jelölés,
 - g) jelölő szervezet: a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény szerint bejegyzett párt, valamint az egyesülési jogról szóló 1989. évi II. törvény szerint bejegyzett társadalmi szervezet; a közös jelöltet, listát állító jelölő szervezetek egy jelölő szervezetnek számítanak,
 - h) képviselő: az országgyűlési képviselő, az Európai Parlament tagja, a települési önkormányzat képviselő-testületének tagja, a megyei közgyűlés tagja, a fővárosi közgyűlés tagja, a kisebbségi önkormányzat tagja,
 - i) kezdeményezést benyújtók: népszavazás állampolgári kezdeményezése, valamint népi kezdeményezés esetén azok a szervezetek, illetve magánszemélyek, amelyek, illetve akik a kezdeményezést benyújtották,
@@ -2170,7 +2184,7 @@ SZAVAZÓLAP
 
 ### 4. számú melléklet az 1997. évi C. törvényhez
 
-(A helyi önkormányzati választás kislistás szavazólapjának mintája.)
+(A helyi önkormányzati választás egyéni listás szavazólapjának mintája.)
 
 SZAVAZÓLAP
 
