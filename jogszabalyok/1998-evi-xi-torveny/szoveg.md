@@ -254,7 +254,7 @@ az ügyvédekről
 
 (2) Az ügyvédi tevékenység szüneteltetésének időtartama alatt létesített munkaviszony, közalkalmazotti vagy köztisztviselői jogviszony nem ütközik a 6. § (1) bekezdésének a) pontjába.
 
-(3) A szüneteltetés alatt az ügyvéd nem gyakorolhatja a kamarai tagságból eredő jogokat, és nem terhelik az abból fakadó kötelezettségek.
+(3) A szüneteltetés alatt az ügyvéd nem gyakorolhatja a kamarai tagságból eredő jogokat, és – a szüneteltetés alatt fizetendő tagdíj, valamint a Magyar Ügyvédek Biztosító és Segélyező Egyesületének járó tagdíj fizetése kivételével – nem terhelik az abból fakadó kötelezettségek.
 
 ### A kamarai tagság területi hatálya
 
@@ -267,20 +267,23 @@ az ügyvédekről
 20. § (1) Az ügyvéd kamarai tagsága megszűnik, ha
 
 - a) a kamarai tagságáról lemondott,
-- b) a 13. § (3) bekezdésében vagy a 13. § (4) bekezdés b) vagy c) pontjában felsorolt feltételeknek nem felel meg,
-- c) a kamarai tagdíjfizetési kötelezettségét felszólítás ellenére nem teljesítette,
-- d) a 6. §-ban foglalt összeférhetetlenséget felszólítás ellenére nem szüntette meg,
-- e) cselekvőképességet korlátozó vagy kizáró gondnokság hatálya alá került, vagy gondnokság alá helyezés nélkül is cselekvőképtelen (Ptk. 17. §),
-- f) az esküt határidőben nem tette le,
-- g) az ügyvédi tevékenység szüneteltetésének lejártát követően a tevékenységét nem folytatja,
-- h) a kamarából kizárták,
-- i) meghalt.
+- b) a kamarából kizárták,
+- c) meghalt.
 
-(2) A kamara az (1) bekezdés c) és d) pontja esetén írásban felszólítja az ügyvédet, hogy fizesse be a tagdíjat, illetve a 6. §-ban szabályozott összeférhetetlenséget 30 napon belül szüntesse meg. Az (1) bekezdés d) pontja esetén a kamara összeférhetetlenségi bizottságának állásfoglalását be kell szerezni.
+(2) Az ügyvéd kamarai tagságát a kamara megszünteti, ha az ügyvéd
 
-(3) A kamara az (1) bekezdés a)–g) pontja esetén a kamarai tagság megszüntetéséről határozatot hoz, amelyet indokolni kell. A határozatra a 15. § rendelkezései az irányadók.
+- a) a 13. § (3) bekezdésében felsorolt feltételeknek nem felel meg,
+- b) a kamarai tagdíjfizetési kötelezettségét felszólítás ellenére nem teljesítette,
+- c) a 6. §-ban foglalt összeférhetetlenséget felszólítás ellenére nem szüntette meg,
+- d) cselekvőképességet korlátozó vagy kizáró gondnokság hatálya alá került, vagy gondnokság alá helyezés nélkül is cselekvőképtelen (Ptk. 17. §),
+- e) az esküt határidőben nem tette le,
+- f) tevékenysége szüneteltetésének időtartama lejárt anélkül, hogy a tevékenysége folytatásának szándékát a kamarának bejelentette volna.
 
-(4) Ha az ügyvéd kamarai tagsága az (1) bekezdés a)–c) pontjában szabályozott eset alapján szűnt meg, az újbóli kamarai felvételének a kamarai tagság megszűnéséről szóló határozat jogerőre emelkedésétől számított 1 év elteltével van helye.
+(3) A kamara a (2) bekezdés b) és c) pontja esetén írásban felszólítja az ügyvédet, hogy fizesse be a tagdíjat, illetve a 6. §-ban szabályozott összeférhetetlenséget 30 napon belül szüntesse meg. A (2) bekezdés c) pontja esetén a kamara összeférhetetlenségi bizottságának állásfoglalását be kell szerezni.
+
+(4) A kamarai tagság megszüntetése iránti eljárásra a 15. §-t kell alkalmazni. A megszüntetésről szóló határozat – fellebbezésre tekintet nélkül – előzetesen végrehajtható.
+
+(5) Ha az ügyvéd kamarai tagsága a (2) bekezdés a) és b) pontjában szabályozott okból szűnt meg, az újbóli kamarai felvételre irányuló kérelem a kamarai tagság megszűnéséről szóló határozat jogerőre emelkedésétől számított 1 év elteltével nyújtható be.
 
 20/A. § (1) A kamarai tagsági viszony fennállása alatt lefolytatott hatósági ellenőrzés keretében a kamara ellenőrzi azt is, hogy az ügyvéddel szemben fennáll-e a 13. § (4) bekezdés b) vagy c) pontjában, valamint a 14. § (1) bekezdésében meghatározott körülmény. A hatósági ellenőrzés céljából a kamara adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az ügyvéddel szemben fennáll-e 13. § (4) bekezdés b) vagy c) pontjában, valamint a 14. § (1) bekezdésében meghatározott körülmény.
 

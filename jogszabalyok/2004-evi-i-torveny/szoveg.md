@@ -1213,9 +1213,7 @@ c) a beléptetéskor a rendező útján a belépőjegy, a bérlet birtokosának 
 
 ### A kamerával történő megfigyelés
 
-74. § (1) A szervező a külön jogszabályban meghatározott sportrendezvény ideje alatt a résztvevők személyi és vagyonbiztonsága érdekében annak helyszínén a résztvevő személyeket jogosult kamerával vagy más képi adathordozóval (a továbbiakban együtt: kamerával) megfigyelni és a felvételt rögzíteni.
-
-[(1) A szervező a normál és a fokozott biztonsági kockázatú sportrendezvény ideje alatt – annak helyszínén – a résztvevők személy- és vagyonbiztonsága érdekében a résztvevőket jogosult kamerával vagy más képi adathordozóval (a továbbiakban együtt: kamera) megfigyelni, és a felvételt rögzíteni. A szervező a kiemelt biztonsági kockázatú sportrendezvény ideje alatt – annak helyszínén – a résztvevők személy- és vagyonbiztonsága érdekében a résztvevőket kamerával megfigyeli, és a felvételt rögzíti.]
+74. § (1) A szervező a normál és a fokozott biztonsági kockázatú sportrendezvény ideje alatt – annak helyszínén – a résztvevők személy- és vagyonbiztonsága érdekében a résztvevőket jogosult kamerával vagy más képi adathordozóval (a továbbiakban együtt: kamera) megfigyelni, és a felvételt rögzíteni. A szervező a kiemelt biztonsági kockázatú sportrendezvény ideje alatt – annak helyszínén – a résztvevők személy- és vagyonbiztonsága érdekében a résztvevőket kamerával megfigyeli, és a felvételt rögzíti.
 
 (2) A kamerával való megfigyelésről, a kamerák elhelyezkedéséről és a rögzített adatok kezeléséről a nézőt a sportlétesítményen kívül és annak területén jól látható hirdetményben és a belépőjegyen, bérleten is feltüntetve tájékoztatni kell.
 
