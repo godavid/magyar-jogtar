@@ -316,6 +316,8 @@ az állami egészségügyi, katasztrófa- és védelmi készlet kezelője jogosu
 
 (11) Az egészségbiztosítási szerv a társadalombiztosítási támogatásba befogadott gyógyszer, tápszer és gyógyászati segédeszköz esetében forgalmazására vonatkozó előírásokat állapíthat meg a folyamatos és biztonságos ellátás érdekében.
 
+21/A. § Az egészségbiztosítási szerv a gyógyászati segédeszközöket rendelő orvosok, valamint az ezeket használó betegek informáltságának erősítése érdekében honlapján internetes gyógyászatisegédeszköz-katalógust működtet – a külön jogszabályban meghatározott adattartalommal – a támogatott gyógyászati segédeszközökről.
+
 ### IV. Fejezet — A GYÓGYSZEREK ÉS GYÓGYÁSZATI SEGÉDESZKÖZÖK TÁRSADALOMBIZTOSÍTÁSI TÁMOGATÁSBA VALÓ BEFOGADÁSÁNAK ÁLTALÁNOS SZABÁLYAI
 
 22. § Ha törvény ettől eltérően nem rendelkezik, társadalombiztosítási támogatásban akkor részesíthető gyógyszer, tápszer, illetve gyógyászati segédeszköz, ha
@@ -529,7 +531,7 @@ esetén,
   - bg) támogatásból való törlésére,
   - bh) külön jogszabály szerinti méretváltoztatására vagy új méretváltozata ártámogatásának megállapítására irányulhat.
 
-(3) A (2) bekezdés szerinti kérelmet – a (11) bekezdés szerinti csoportos kérelem kivételével – kizárólag a gyógyászati segédeszköz forgalomba hozója nyújthatja be az egészségbiztosítási szervhez.
+(3) A (2) bekezdés szerinti kérelmet – a (11) bekezdés szerinti csoportos kérelem kivételével – kizárólag az egészségbiztosítási szerv 32/B. § szerinti szállítójegyzékében szereplő minősített forgalomba hozó nyújthatja be az egészségbiztosítási szervhez.
 
 (4) Az egészségbiztosítási szerv
 

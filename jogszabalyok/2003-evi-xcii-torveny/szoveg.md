@@ -1981,13 +1981,10 @@ hatósági eljárás.
 
 (7) Ha az adóhatóság a hatósági eljárásban az előírt határidőn belül nem hoz határozatot, az nem jár azzal a következménnyel, hogy az adózót megilleti a kérelmezett jog gyakorlása.
 
-(8) Adózói adatigazolás hiányában az adóhatóság adóügyben nem köteles az ügyfél által nem igazolt nyilvános vagy valamely hatóság, bíróság, valamint a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában kezelt adat beszerzésére.
+(8) Adóügyekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénynek a kérelemre vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy
 
-[(8) Adóügyekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénynek a kérelemre vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy
-
-a) az adózótól – az azonosításához szükséges adatok kivételével – nem kérhető olyan adat igazolása, amelyet valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvános nyilvántartásának tartalmaznia kell, vagy amelyet ilyen nyilvántartásból az adóhatóság közvetlen adathozzáféréssel megszerezhet, ebben az esetben az adatszolgáltatásért díj nem számítható fel,
-
-b) – jogszabály eltérő rendelkezése hiányában – az adózó nem kérheti az adóhatóságnál, hogy az (1) bekezdésen túlmenően más szervet adatszolgáltatás iránt keressen meg.]
+- a) az adózótól – az azonosításához szükséges adatok kivételével – nem kérhető olyan adat igazolása, amelyet valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvános nyilvántartásának tartalmaznia kell, vagy amelyet ilyen nyilvántartásból az adóhatóság közvetlen adathozzáféréssel megszerezhet, ebben az esetben az adatszolgáltatásért díj nem számítható fel,
+- b) – jogszabály eltérő rendelkezése hiányában – az adózó nem kérheti az adóhatóságnál, hogy az (1) bekezdésen túlmenően más szervet adatszolgáltatás iránt keressen meg.
 
 121. § Az adóhatóság, ha a hatósági eljárást ellenőrzés előzte meg, az ellenőrzés során feltárt tényállást veszi alapul, illetőleg, ha az a tényállás tisztázásához szükséges, az ellenőrzés során alkalmazható bizonyítást folytat le.
 
