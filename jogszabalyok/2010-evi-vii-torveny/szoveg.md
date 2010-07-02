@@ -4,63 +4,7 @@ egyes energetikai tárgyú törvények módosításáról
 
 ### I. Fejezet — A BEHOZOTT KŐOLAJ ÉS KŐOLAJTERMÉKEK BIZTONSÁGI KÉSZLETEZÉSÉRŐL SZÓLÓ1993. ÉVI XLIX. TÖRVÉNY MÓDOSÍTÁSA
 
-1. § A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 1993. évi XLIX. törvény (a továbbiakban: Kt.) 2. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A törvény hatálya kiterjed a kőolajterméket forgalmazó, valamint az Európai Unió másik tagállamából (a továbbiakban: tagállam) vagy harmadik országból saját felhasználás céljából behozó – a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvényben (a továbbiakban: jövedéki adótörvény) meghatározott – adóraktári engedélyesre, adómentes felhasználóra, felhasználói engedélyesre, bejegyzett kereskedőre, bejegyzett feladóra, közösségi jövedéki engedélyes kereskedőre, valamint jövedéki engedélyes importálóra (a továbbiakban: engedélyes).”
-
-2. § A Kt. 10. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) E törvény alapján kötelezően a Szövetség tagjává válnak azok az engedélyesek, akik (amelyek)
-
-a) a 3. § (2) bekezdésében felsorolt kőolajterméket a jövedéki adótörvény rendelkezései szerint szabad forgalomba bocsátanak,
-
-b) a 3. § (2) bekezdésében felsorolt kőolajterméket szabad forgalomba bocsátás nélkül adómentes felhasználónak tárolnak ki,
-
-c) a 3. § (2) bekezdésében felsorolt, harmadik országból behozott kőolajterméket adófelfüggesztéssel adómentes felhasználó vagy felhasználói engedélyes részére feladnak,
-
-d) a 3. § (2) bekezdésében felsorolt kőolajterméket harmadik országból adómentes felhasználóként, illetve felhasználó engedélyesként behoznak,
-
-e) más tagállamban szabad forgalomba bocsátott, a 3. § (2) bekezdésében felsorolt kőolajterméket más tagállamból beszereznek,
-
-f) a 3. § (2) bekezdésében felsorolt kőolajterméket a 37. § (2) bekezdés f) pontja szerint felhasználnak.”
-
-3. § A Kt. 37. §-a helyébe a következő rendelkezés lép:
-
-„37. § (1) A tag a kőolajtermék forgalmazási tevékenységével összefüggésben, illetve a saját felhasználásra történő behozatali tevékenysége után a Szövetség részére tagi hozzájárulást fizet.
-
-(2) Tagi hozzájárulást kell fizetni a 4. §-ban foglalt eltérésekkel a 3. § (2) bekezdésében felsorolt kőolajtermékek mennyisége után, ha
-
-a) az adóraktár-engedélyes, a bejegyzett kereskedő, illetve a jövedéki engedélyes importáló a kőolajterméket a jövedéki adótörvény rendelkezései szerint szabad forgalomba bocsátja;
-
-b) az adóraktár-engedélyes a kőolajterméket adófelfüggesztéssel adómentes felhasználónak kitárolja;
-
-c) az adómentes felhasználó, illetve a felhasználói engedélyes a kőolajterméket adófelfüggesztéssel harmadik országból behozza;
-
-d) a bejegyzett feladó a harmadik országból behozott kőolajterméket adófelfüggesztéssel adómentes felhasználó vagy felhasználói engedélyes részére a jövedéki törvény szerint feladja;
-
-e) a közösségi kereskedelmi tevékenységet végző jövedéki engedélyes kereskedő, az adóraktár-engedélyes, illetve a felhasználói engedélyes más tagállamban szabad forgalomba bocsátott kőolajterméket más tagállamból beszerez;
-
-f) az adóraktár-engedélyes a kőolajterméket az adóraktáron belül felhasználja, kivéve a jövedéki termék előállításához történő felhasználást.
-
-(3) A tagi hozzájárulás alapja a (2) bekezdés a) pontja esetén a jövedéki adótörvény szerint szabadforgalomba hozott, b) pontja esetén a kitárolt, c) pontja esetén a behozott, d) pontja esetén a feladott, e) pontja esetén a beszerzett, f) pontja esetén a felhasznált hozzájárulás-köteles kőolajtermék mennyisége.
-
-(4) A tagi hozzájárulás megfizetése a (2) bekezdés a), c), e) és f) pontja szerinti esetben az ott megnevezett engedélyest, a (2) bekezdés b) pontja szerinti esetben az adóraktár-engedélyest, a (2) bekezdés d) pontja szerinti esetben a bejegyzett feladót terheli.
-
-(5) A tag az (1) bekezdés szerinti hozzájárulást az egyéb ráfordítások között köteles elszámolni.”
-
-4. § (1) A Kt. 38. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A tag minden hónap utolsó munkanapjáig köteles a Szövetségnek nyilatkozni arról, hogy a megelőző hónapban mennyi volt az e törvény hatálya alá tartozó, a tagi hozzájárulás fizetése alapjául szolgáló szabad forgalomba bocsátott, kitárolt, behozott, feladott, beszerzett, illetve felhasznált kőolajtermék mennyisége. A Szövetség felhívására a tag köteles minden olyan adatot, dokumentációt haladéktalanul benyújtani, amely a tagi hozzájárulás teljesítésének ellenőrzéséhez szükséges.”
-
-(2) A Kt. 38. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Az (1) bekezdés szerinti nyilatkozatot a tag köteles – annak a Szövetséghez történő benyújtása előtt – a vámhatósággal az abban foglalt adatok helytállóságát illetően záradékoltatni.”
-
-5. § A Kt. 40. §-a helyébe a következő rendelkezés lép:
-
-„40. § A Szövetség a tagok részére igazolást állít ki a Szövetség felé fennálló nyilatkozattételi, valamint tagi hozzájárulás-fizetési kötelezettség teljesítéséről. Erről tájékoztatja az adóhatóságot és a vámhatóságot.”
-
-6. § A Kt. 38. § (3) bekezdésében a „kőolaj és” szövegrész helyébe a „vagy felhasznált” szöveg, a Kt. 40/A. §-ában a „beszerzett és értékesített” szövegrész helyébe a „szabad forgalomba bocsátott, kitárolt, behozott, feladott, beszerzett, illetve felhasznált” szöveg lép.
+1–6. §
 
 ### II. Fejezet — A VILLAMOS ENERGIÁRÓL SZÓLÓ 2007. ÉVI LXXXVI. TÖRVÉNY MÓDOSÍTÁSA
 
@@ -820,7 +764,7 @@ b) nem ad ki véleményt.
 
 (8) Az e törvény hatálybalépését megelőzően a VET. 171. § (5), illetve (6) bekezdése alapján a Magyar Energia Hivatalhoz beadott és el nem bírált kérelmekre az e törvény 25. §-ával megállapított VET. 171. § (5), illetve (6) bekezdésének rendelkezéseit megfelelően alkalmazni kell. Az e törvény hatálybalépését megelőzően a VET. 171. § (5), illetve (6) bekezdése alapján a Magyar Energia Hivatal által hozott határozatokat az e törvény rendelkezései alapján szükséges módon a Magyar Energia Hivatal – kérelemre – 2010. március 31-ig módosítja.
 
-52. § Hatályát veszti a Kt. 38. §-a (4) bekezdésének első mondatában a „behozott kőolaj és” szövegrész, a 38. § (2) bekezdésében a „behozatalt követő” szövegrész, 38. §-ának (3) bekezdésének második mondata, a 38. § (4) bekezdésének második mondata, valamint a 43. § (1) bekezdésében az „a kőolaj és” szövegrész.
+52. §
 
 53. § Hatályát veszti a VET. 16. § e) és n) pontja, 101. § k) pontja, 102. § (1) bekezdése, valamint a 111. § (4) bekezdésében az „átviteli rendszerirányítóban, illetve” szövegrész.
 
