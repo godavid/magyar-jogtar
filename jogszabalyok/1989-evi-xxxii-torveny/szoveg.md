@@ -33,7 +33,7 @@ Az Országgyűlés a jogállam kiépítése, az alkotmányos rend és az Alkotm�
 
 (3) Az Alkotmánybíróságnak nem lehet tagja az, aki a választást megelőző négy évben a kormány tagja vagy valamely párt alkalmazottja volt, valamint az sem, aki vezető államigazgatási tisztséget töltött be.
 
-6. § Az Alkotmánybíróság tagjaira az Országgyűlésben képviselettel rendelkező pártok képviselőcsoportjai által jelölt képviselőkből álló jelölő bizottság tesz javaslatot.
+6. § Az Alkotmánybíróság tagjaira az Országgyűlésben képviselettel rendelkező pártok képviselőcsoportjai által jelölt legalább kilenc és legfeljebb tizenöt képviselőből álló jelölő bizottság tesz javaslatot. A bizottságban a képviselőcsoportok legalább egy-egy képviselőjének helyet kell kapnia.
 
 7. § A javasolt személyeket az Országgyűlés jogi, igazgatási és igazságügyi bizottsága meghallgatja.
 
