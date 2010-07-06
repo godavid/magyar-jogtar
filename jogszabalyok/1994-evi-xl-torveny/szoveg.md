@@ -160,7 +160,7 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (3) Bármely, a Közgyűlés által választott azonos vezetői tisztségre ugyanaz a személy legfeljebb kétszer választható.
 
-(4) Az elnököt a miniszteri, a főtitkárt az államtitkári, a főtitkárhelyettest a helyettes államtitkári illetménnyel azonos mértékű javadalmazás, valamint évente 40 munkanap szabadság illeti meg. Egyéb juttatásaik tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvényben, továbbá az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletben foglaltakat kell megfelelően alkalmazni.
+(4) Az elnököt a miniszteri, a főtitkárt a közigazgatási államtitkári, a főtitkárhelyettest a helyettes államtitkári illetménnyel azonos mértékű javadalmazás, valamint évente 40 munkanap szabadság illeti meg. Egyéb juttatásaik tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvényben, továbbá az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletben foglaltakat kell megfelelően alkalmazni.
 
 (5) Az elnök, a főtitkár és a főtitkárhelyettes jogállására az e törvényben nem szabályozott kérdésekben a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) rendelkezéseit kell – az 1–4. §, a 8. §, a 15. § f) pontja, a 23–36. §, az 50–56. §, valamint a VII. és VIII. fejezetben foglaltak kivételével – megfelelően alkalmazni.
 

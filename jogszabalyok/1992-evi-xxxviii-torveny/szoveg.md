@@ -529,7 +529,7 @@ látja el.
 
 (4) Az ÁKK Rt. működése során az alapítói jogokat az államháztartásért felelős miniszter gyakorolja azzal az eltéréssel, hogy az igazgatóság jogkörét nem vonhatja el.
 
-(5) A Kormány tagjai és az államtitkárok jogállásáról és felelősségéről szóló törvényben meghatározott állami vezetők az ÁKK Rt. igazgatóságában és felügyelő bizottságában tisztséget viselhetnek.
+(5) A Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott állami vezetők az ÁKK Rt. igazgatóságában és felügyelő bizottságában tisztséget viselhetnek.
 
 (6) Az ÁKK Rt. felügyelőbizottságának hatásköre nem terjed ki az államadósság-kezelési stratégia, az ezzel kapcsolatos teljesítménymutatók és a finanszírozási tervek véleményezésére.
 
@@ -1040,7 +1040,7 @@ eredményeképpen keletkeztek.
 
 49. § E törvény alkalmazásában fejezetet irányító szerv: a költségvetési törvényben meghatározott fejezetbe besorolt költségvetési szerv (szervek) vonatkozásában külön törvényben és e törvényben foglalt irányítási jogokkal felruházott irányító szerv, valamint a fejezetbe tartozó előirányzatokkal kapcsolatos gazdálkodási irányítási jogokkal felruházott szerv vagy személy.
 
-(2) Ha törvény eltérően nem rendelkezik, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény szerinti autonóm államigazgatási szerv és kormányhivatal e törvény alkalmazásában fejezetet irányító szerv.
+(2) Ha törvény eltérően nem rendelkezik, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény szerinti autonóm államigazgatási szerv és kormányhivatal e törvény alkalmazásában fejezetet irányító szerv.
 
 (3) Ha törvény eltérően nem rendelkezik, a fejezetet irányító szervnek címzett hatásköröket a fejezetet irányító szerv vezetője gyakorolja.
 

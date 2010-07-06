@@ -2042,7 +2042,7 @@ tekinthet be. A kisebbségi választói jegyzékbe történt betekintésről nyi
 
 149. § E törvény alkalmazásában
 
-- a) állami vezető: a Kormány tagjai és az államtitkárok jogállásáról és felelősségéről szóló törvény hatálya alá tartozó személy,
+- a) állami vezető: a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó személy,
 - b) főjegyző: a fővárosi főjegyző, a megyei főjegyző,
 - c) független jelölt: az a jelölt, akit nem jelölő szervezet állít,
 - d) hozzátartozó: az egyeneságbeli rokon és ennek házastársa, az örökbefogadó és a nevelőszülő, az örökbefogadott és a nevelt gyermek, a testvér, a házastárs, az élettárs, a házastárs egyeneságbeli rokona, testvére, valamint a testvér házastársa,

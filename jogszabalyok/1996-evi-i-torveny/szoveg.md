@@ -606,7 +606,7 @@ kell közzétenni.
 
 ### 6. CÍM — A Testület tagjainak díjazása
 
-39. § (1) A Testület elnöke a miniszter, tagja az államtitkár illetményével azonos összegű díjazásban, valamint az e tisztségeket betöltő személyt megillető járandóságban részesül. A Testület elnökét és tagját naptári évenként negyven-negyven munkanap szabadság illeti meg.
+39. § (1) A Testület elnöke a miniszter, tagja a közigazgatási államtitkár illetményével azonos összegű díjazásban, valamint az e tisztségeket betöltő személyt megillető járandóságban részesül. A Testület elnökét és tagját naptári évenként negyven-negyven munkanap szabadság illeti meg.
 
 (2) A Testület tagját és az elnököt megbízatási idejének lejártát követően — amennyiben nem választják meg újra — további hat hónapon keresztül a havi díjazásának megfelelő összegű ellátás illeti meg.
 

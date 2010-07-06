@@ -578,11 +578,13 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (2) A helyi képviselőtestület a feladatkörében rendeletet alkothat, amely nem lehet ellentétes a magasabb szintű jogszabállyal.
 
-44/B. § (1) A helyi képviselőtestület elnöke a polgármester. A képviselőtestület bizottságot választhat, és hivatalt hoz létre.
+44/B. § (1) A helyi képviselőtestület elnöke a polgármester. A képviselőtestület a polgármester helyettesítésére alpolgár- mestert választhat. Alpolgármesternek olyan személy is megválasztható, aki nem tagja a képviselőtestületnek, de a polgármestert a képviselőtestület elnökeként csak olyan alpolgármester helyettesítheti, aki a képviselőtestület tagja.
 
-(2) A polgármester az önkormányzati feladatain kívül törvény vagy törvényi felhatalmazáson alapuló kormányrendelet alapján kivételesen államigazgatási feladatokat és hatásköröket is elláthat.
+(2) A képviselőtestület bizottságot választ, és hivatalt hoz létre.
 
-(3) Törvény vagy kormányrendelet államigazgatási feladatot, hatósági hatáskört állapíthat meg a jegyzőnek, és kivételesen a képviselőtestület hivatala ügyintézőjének is.
+(3) A polgármester az önkormányzati feladatain kívül törvény vagy törvényi felhatalmazáson alapuló kormányrendelet alapján kivételesen államigazgatási feladatokat és hatásköröket is elláthat.
+
+(4) Törvény vagy kormányrendelet államigazgatási feladatot, hatósági hatáskört állapíthat meg a jegyzőnek, és kivételesen a képviselőtestület hivatala ügyintézőjének is.
 
 44/C. § A helyi önkormányzatokról szóló törvény elfogadásához a jelenlevő országgyűlési képviselők kétharmadának szavazata szükséges. Ugyanilyen szavazataránnyal elfogadott törvényben korlátozhatók az önkormányzatok alapjogai.
 

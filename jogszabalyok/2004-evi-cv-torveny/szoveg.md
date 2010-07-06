@@ -1066,7 +1066,7 @@ helyettesíti.
 
 (3) A honvédelért felelős miniszter önállóan gyakorolja a törvényben meghatározott hatáskörét, az Országgyűlés és a kormány döntései szerint irányítja és vezeti a Honvédséget.
 
-96. § A honvédelemért felelős miniszter a Honvédség irányítását a 97. §-ban meghatározott hatáskörének gyakorlásával, szakirányítását a 100. §-ban meghatározottak szerint a szakirányításra jogosult személy útján, vezetését a 101. §-ban meghatározottak szerint a Honvéd Vezérkar főnöke útján látja el.
+96. § A honvédelemért felelős miniszter a Honvédség irányítását a 97. §-ban meghatározott hatáskörének gyakorlásával, szakirányítását a 100. §-ban meghatározottak szerint a közigazgatási államtitkár útján, vezetését a 101. §-ban meghatározottak szerint a Honvéd Vezérkar főnöke útján látja el.
 
 97. § (1) A honvédelemért felelős miniszter:
 

@@ -229,7 +229,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 22. § (1) A hivatásos bírák nem lehetnek tagjai pártnak, és politikai tevékenységet nem folytathatnak.
 
-(2) A bíró nem lehet országgyűlési vagy önkormányzati képviselő, polgármester, illetőleg a Kormány tagjai és az államtitkárok jogállásáról és felelősségéről szóló hatálya alá tartozó állami vezető.
+(2) A bíró nem lehet országgyűlési vagy önkormányzati képviselő, polgármester, illetőleg a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezető.
 
 23. § (1) A bíró a tisztsége ellátásán kívül csak tudományos, művészi, irodalmi, oktató- és műszaki alkotó munkát végezhet kereső tevékenységként, de ezzel nem veszélyeztetheti függetlenségét és pártatlanságát, illetve nem keltheti annak látszatát, valamint nem akadályozhatja hivatali kötelezettségei teljesítését.
 
@@ -458,7 +458,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 - d) ha a bíróval szemben jogerősen szabadságvesztést vagy közérdekű munkát szabtak ki, kényszergyógykezelését rendelték el,
 - e) ha a bíró a bírói esküt a 13. §-ban meghatározott határidőn belül nem tette le,
 - f) ha a bíró kinevezésének a 3. § (1) bekezdésének a) és c) pontjában foglalt feltételei már nem állnak fenn,
-- g) ha a bírót országgyűlési, önkormányzati képviselőnek vagy polgármesternek megválasztották, illetőleg a Kormány tagjai és az államtitkárok jogállásáról és felelősségéről szóló hatálya alá tartozó állami vezetőnek megválasztották vagy kinevezték,
+- g) ha a bírót országgyűlési, önkormányzati képviselőnek vagy polgármesternek megválasztották, illetőleg a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetőnek megválasztották vagy kinevezték,
 - h) ha a bíró – az OIT egyetértésével – nemzetközi szervezetnél vagy az Európai Unió valamely szervénél pályázat alapján vagy kijelölés ítélkezésre vagy az igazságszolgáltatással összefüggő egyéb munkavégzésre irányuló jogviszonyt létesít,
 - i) ha a bíró a 70. életév (a továbbiakban: felső korhatár) betöltése előtt, de az általános öregségi nyugdíjkorhatár betöltését követően maga kéri nyugállományba helyezését, illetve a felső korhatárt elérte,
 - j) ha a bíróval szemben lefolytatott fegyelmi eljárás során jogerős fegyelmi büntetésként a bírói tisztségből való felmentést indítványozták,
@@ -824,7 +824,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 - b) külön juttatásra,
 - c) egyéb javadalmazásra, kedvezményre és költségtérítésre jogosult.
 
-(2) A tisztséghez fűződő juttatások tekintetében a Legfelsőbb Bíróság elnökhelyettese a miniszterrel, az OIT Hivatalának vezetője az államtitkárral, helyettese pedig – függetlenül attól, hogy a beosztást bíró vagy nem bíró tölti be – a helyettes államtitkárral azonos beosztásúnak minősül
+(2) A tisztséghez fűződő juttatások tekintetében a Legfelsőbb Bíróság elnökhelyettese a miniszterrel, az OIT Hivatalának vezetője a közigazgatási államtitkárral, helyettese pedig – függetlenül attól, hogy a beosztást bíró vagy nem bíró tölti be – a helyettes államtitkárral azonos beosztásúnak minősül.
 
 ### A bíró illetménye
 
