@@ -444,9 +444,11 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 
 (3) A hivatásos állomány más szervhez vezényelt tagjának előléptetése, kitüntetése, fegyelmi felelősségre vonása, szolgálati vagy rokkantsági nyugállományba helyezése – a más szerv vezetőjének javaslatára, illetve egyetértésével –, továbbá ruházati ellátmányának és a (2) bekezdésben nem említett járandóságainak biztosítása az eredeti fegyveres szervnél szolgálatot teljesítő hivatásos állományúakra vonatkozó szabályok szerint történik.
 
-(4) A más szervnél teljesített szolgálat megszüntetésére az (1) bekezdés szerinti megállapodásban foglaltak alapján, illetve a más szerv vezetőjének kezdeményezésére, valamint a hivatásos állomány tagjának méltányolható kérelme alapján kerülhet sor. A vezénylés megszüntetése esetén a hivatásos állomány tagja részére a fegyveres szerv valamely szervezeti egységénél a végzettségének, képzettségének és rendfokozatának megfelelő, de legalább a vezénylést megelőző beosztásával azonos szolgálati beosztást kell biztosítani. Amennyiben a hivatásos állomány tagjának ilyen beosztás nem biztosítható – de a vezénylés megszüntetésétől számított egy éven belül ez lehetővé válhat – egyetértésével rendelkezési állományba helyezhető. Ebben az esetben az érintettet a vezénylést megelőző szolgálati beosztásának megfelelően kell besorolni és részére az adott beosztásból eredő korábbi pótlékok nélküli illetményt kell folyósítani.
+(4) A más szervnél teljesített szolgálat megszüntetésére az (1) bekezdés szerinti megállapodásban foglaltak alapján, illetve a más szerv vezetőjének kezdeményezésére, valamint a hivatásos állomány tagjának méltányolható kérelme alapján kerülhet sor. A vezénylés megszüntetése esetén a hivatásos állomány tagja részére a fegyveres szerv valamely szervezeti egységénél a végzettségének, képzettségének megfelelő, de legalább a vezénylést megelőző beosztásával azonos szolgálati beosztást kell biztosítani. Amennyiben a hivatásos állomány tagjának ilyen beosztás nem biztosítható – de a vezénylés megszüntetésétől számított egy éven belül ez lehetővé válhat – egyetértésével rendelkezési állományba helyezhető. Ebben az esetben az érintettet a vezénylést megelőző szolgálati beosztásának megfelelően kell besorolni és részére az adott beosztásból eredő korábbi pótlékok nélküli illetményt kell folyósítani.
 
 (5) Ha a hivatásos állomány tagja számára a (4) bekezdés szerinti szolgálati beosztás nem biztosítható, illetve az alacsonyabb beosztást nem fogadja el és rendelkezési állományba helyezésére sem kerül sor, akkor az érintett szolgálati viszonyát az 56. § rendelkezéseinek megfelelően felmentéssel kell megszüntetni.
+
+(6) Az (5) bekezdéstől eltérően nem felmentéssel kell megszüntetni a szolgálati jogviszonyt, hanem a szolgálati viszonyról történő lemondásnak kell tekinteni, ha a hivatásos állomány tagja a (4) bekezdés szerinti beosztást nem fogadja el, vagy arról öt munkanapon belül nem nyilatkozik, amennyiben a felajánlott beosztás elfogadásával a szolgálatteljesítés helye nem változik.
 
 43/A. § A hivatásos állomány tagja – a hivatásos szolgálati jogviszonyát nem érintve – az ügyészséghez a legfőbb ügyész kezdeményezésére, az országos parancsnok egyetértésével meghatározott feladat ellátására vezényelhető. A hivatásos állomány tagjának ügyészséghez vezénylésére a 43–44. §-ban foglalt szabályokat kell alkalmazni.
 
@@ -619,9 +621,9 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 56. § (1) A hivatásos állomány tagjának a szolgálati viszonya – az (5) bekezdésben foglalt korlátozás figyelembevételével – felmentéssel akkor szüntethető meg, ha
 
 - a) az Országgyűlés, a Kormány, a költségvetési fejezetet irányító szerv vezetője, az országos parancsnok vagy – a Kormány által meghatározott létszámhatárig – az önkormányzati képviselő-testület döntése alapján a fegyveres szervnél létszámcsökkentést kell végrehajtani, és emiatt további szolgálatára nincs lehetőség;
-- b) átszervezés következtében szolgálati beosztása megszűnt;
+- b) átszervezés következtében szolgálati beosztása megszűnt, és a számára felajánlott, a végzettségének és képzettségének megfelelő más beosztást nem fogadta el;
 - c) szolgálati nyugellátásra szerzett jogosultságot és az eredeti beosztásában szolgálati érdekből tovább nem foglalkoztatható, a számára felajánlott legalább azonos szintű beosztást pedig nem fogadta el;
-- d) berendelés, más szervhez vezénylés, illetve nemzetközi szervezetnél végzett tevékenység megszűnése után részére végzettségének, képzettségének és rendfokozatának megfelelő beosztás nem biztosítható és rendelkezési állományba sem helyezhető.
+- d) berendelés, más szervhez vezénylés, illetve nemzetközi szervezetnél végzett tevékenység megszűnése után részére végzettségének, képzettségének megfelelő beosztás nem biztosítható és rendelkezési állományba sem helyezhető.
 
 (2) A hivatásos állomány tagjának a szolgálati viszonyát felmentéssel meg kell szüntetni, ha
 
@@ -633,11 +635,13 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 
 (4) Az (1) bekezdés c) pontja alapján nyugellátásra jogosult a hivatásos állomány tagja, ha rendelkezik a 182. § (1) bekezdésében meghatározott feltétellel.
 
-(5) Ha a (2) bekezdés a) pontjában meghatározott alkalmatlanság egészségi, pszichikai vagy fizikai ok következménye, a fegyveres szerv köteles a hivatásos állomány tagja állapotának, képzettségének, végzettségének és rendfokozatának megfelelő másik hivatásos szolgálati beosztást, ennek hiányában másik, az állapotának, képzettségének, végzettségének megfelelő nem hivatásos munkakört felajánlani. A hivatásos állomány tagját akkor lehet felmenteni, ha
+(5) Az (1) bekezdés b) pontjában meghatározott esetben, valamint ha a (2) bekezdés a) pontjában meghatározott alkalmatlanság egészségi, pszichikai vagy fizikai ok következménye, a fegyveres szerv köteles a hivatásos állomány tagja állapotának, képzettségének, végzettségének megfelelő másik hivatásos szolgálati beosztást, ennek hiányában másik, az állapotának, képzettségének, végzettségének megfelelő nem hivatásos munkakört felajánlani. A hivatásos állomány tagját akkor lehet felmenteni, ha
 
-- a) állapotának megfelelő betöltetlen beosztás vagy nem hivatásos munkakör a fegyveres szervnél nincs, és rendelkezési állományba sem helyezhető,
-- b) a felajánlott másik, állapotának megfelelő beosztást vagy nem hivatásos munkakört a hivatásos állomány tagja nem fogadta el, vagy
-- c) rokkantsági, baleseti rokkantsági nyugellátásra jogosultságot szerzett.
+- a) az egészségi, pszichikai vagy fizikai alkalmatlanság esetén
+  - aa) állapotának megfelelő betöltetlen beosztás vagy nem hivatásos munkakör a fegyveres szervnél nincs, és rendelkezési állományba sem helyezhető,
+  - ab) a felajánlott másik, állapotának megfelelő beosztást vagy nem hivatásos munkakört a hivatásos állomány tagja nem fogadta el, vagy
+  - ac) rokkantsági, baleseti rokkantsági nyugellátásra jogosultságot szerzett;
+- b) a hivatásos állomány átszervezés miatt megszűnt beosztást betöltő tagja a számára felajánlott, a végzettségének és képzettségének megfelelő más beosztást nem fogadta el.
 
 (6) A hivatásos szolgálatra méltatlan az:
 
@@ -2545,9 +2549,9 @@ jogosult.
   - cb) a katasztrófák elleni védekezésért felelős miniszter gyakorolja a polgári védelem, valamint az állami és önkormányzati tűzoltóság állományából a miniszter által vezetett minisztériumba berendelt személlyel szemben,
   - cc) a rendvédelmi oktatási intézményekbe berendelt személlyel szemben a szolgálati viszonyt érintően a fegyveres szervet irányító miniszter, az egyéb munkáltatói jogok tekintetében a rendvédelmi oktatási intézmény vezetője gyakorolja,
   - cd) az RSZVSZ-hez berendelt személlyel szemben a szolgálati viszonyt érintően a rendészetért felelős miniszter, az egyéb munkáltatói jogok tekintetében az RSZVSZ vezetője gyakorolja;
-- d) a berendelés megszüntetése után – ha az nem fegyelmi okból vagy alkalmatlanság miatt történt – az érintett részére az eredeti fegyveres szerv szervezeti egységénél a végzettségének, képzettségének és rendfokozatának megfelelő, de legalább a berendelést megelőző besorolásával azonos szolgálati beosztást kell biztosítani, ha ilyen beosztás nem biztosítható, de egy éven belül várható, akkor egyetértésével rendelkezési állományba helyezhető;
-- e) az RSZVSZ-hez berendelt hivatásos állományú tag a berendelésének megszűnésétől számított két évig nem helyezhető olyan szervhez, szervezeti egységhez, amelyre az RSZVSZ-nél végzett ellenőrzési tevékenysége kiterjedt;
-- f) ha a hivatásos állomány tagja számára a d) pont szerinti szolgálati beosztás nem biztosítható, illetve alacsonyabb beosztást nem fogad el és rendelkezési állományba helyezésére sem kerül sor, akkor az érintett szolgálati viszonyát az 56. § rendelkezései alapján felmentéssel meg kell szüntetni.
+- d) a berendelés megszüntetése után – ha az nem fegyelmi okból vagy alkalmatlanság miatt történt – az érintett részére az eredeti fegyveres szerv szervezeti egységénél a végzettségének, képzettségének megfelelő, de legalább a berendelést megelőző besorolásával azonos szolgálati beosztást kell biztosítani, ha ilyen beosztás nem biztosítható, de egy éven belül várható, akkor egyetértésével rendelkezési állományba helyezhető;
+- e) az RSZVSZ-hez berendelt hivatásos állományú tag a berendelésének megszűnésétől számított két évig nem helyezhető olyan szervhez, szervezeti egységhez, amelyre az RSZVSZ-nél végzett ellenőrzési tevékenysége kiterjedt.
+- f)
 
 (5) A (4) bekezdés d) pontja szerinti rendelkezési állományba helyezés esetén a hivatásos állomány tagját a berendelését megelőző szolgálati beosztásának megfelelően kell besorolni és részére az adott beosztásból eredő pótlékok nélküli illetményt kell folyósítani.
 

@@ -3689,7 +3689,7 @@ kezdeményezheti.
 
 (2) A Tanács elnökére a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényt az e törvény szerinti eltérésekkel kell alkalmazni.
 
-(3) A Tanács elnöke az államtitkárt megillető illetményre, valamint egyéb juttatásokra jogosult.
+(3) A Tanács elnöke a közigazgatási államtitkárt megillető illetményre, valamint egyéb juttatásokra jogosult.
 
 (4) A Tanács elnöke felett a munkáltatói jogokat a Tanács gyakorolja, az elnök az összeférhetetlenségével kapcsolatos bejelentést [392. § (6) bekezdése] a Tanácsnak köteles megtenni.
 

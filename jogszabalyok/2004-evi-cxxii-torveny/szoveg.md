@@ -9,13 +9,14 @@ Az Országgyűlés a közszférában töltött életpálya elismerésének és m
 - a) a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény [Ktv.] hatálya alá tartozó köztisztviselőkre, ügykezelőkre, valamint munkáltatójukra,
 - b) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény [Kjt.] hatálya alá tartozó közalkalmazottakra, valamint munkáltatójukra, illetőleg
 - c) a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény [Mt.] XII. fejezete hatálya alá tartozó munkavállalókra és munkáltatójukra,
-- d) a 4/A., az 5. és a 6/A. § kivételével az állam tulajdonában lévő vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény 2007. szeptember 24-én hatályos mellékletében felsorolt, azon 100%-os állami tulajdonú munkáltatókra és azok munkavállalóira, amelyekre a prémiumévek programot a munkáltató főtevékenysége szerint feladatkörrel rendelkező miniszter rendeletével kiterjeszti.
+- d) a 4/A., az 5. és a 6/A. § kivételével az állam tulajdonában lévő vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény 2007. szeptember 24-én hatályos mellékletében felsorolt, azon 100%-os állami tulajdonú munkáltatókra és azok munkavállalóira, amelyekre a prémiumévek programot a munkáltató főtevékenysége szerint feladatkörrel rendelkező miniszter rendeletével kiterjeszti,
+- e) a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) hatálya alá tartozó kormánytisztviselőkre, kormányzati ügykezelőkre, valamint munkáltatójukra.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően, a 2. § 4. c) pontjában, a 4/A. §-ban, illetve a 6/A. §-ban foglaltak hatálya kiterjed valamennyi, költségvetési fenntartási körbe nem tartozó munkavállalóra és munkáltatójukra.
 
 (3) E törvény közszférában indított prémiumévek programra, illetve különleges foglalkoztatási állományra vonatkozó rendelkezéseit megfelelően alkalmazni kell
 
-- a) arra a 2006. június 30-án közigazgatási vagy helyettes államtitkári kinevezéssel rendelkező személyre (a továbbiakban: állami vezető) is, akinek államtitkári vagy szakállamtitkári állami vezetői szolgálati jogviszonya felmentéssel történő megszűnésére kerülne sor, és megfelel a 3. § (1) bekezdésének a), b) és d) pontjában foglalt feltételeknek,
+- a) arra a 2006. június 30-án közigazgatási vagy helyettes államtitkári kinevezéssel rendelkező személyre (a továbbiakban: állami vezető) is, akinek államtitkári állami vezetői szolgálati jogviszonya, közigazgatási államtitkári vagy helyettes államtitkári jogviszonya felmentéssel történő megszűnésére kerülne sor, és megfelel a 3. § (1) bekezdés a), b) és d) pontjában foglalt feltételeknek,
 - b) az autonóm államigazgatási szerv vezetőjére, helyettesére, testületi formában működő autonóm államigazgatási szerv esetében a testület tagjára, ha jogviszonya a határozott idejű kinevezése lejártára tekintettel szűnik meg, feltéve, hogy megfelel a 3. § (1) bekezdésének a) és b) pontjában foglalt feltételeknek.
 
 (4) E törvény közszférában indított prémiumévek programra vonatkozó rendelkezéseit kell alkalmazni az (1) bekezdés d) pontjában szereplő munkáltatókra és munkavállalókra, valamint a (3) bekezdés b) pontjában meghatározott személyre és a vonatkozásában a 3. § (7) bekezdése alapján munkáltatónak minősülő szervre.
@@ -34,7 +35,7 @@ Az Országgyűlés a közszférában töltött életpálya elismerésének és m
   - a) köztisztviselők esetében – megállapítása esetén – a Ktv. 44/B. §-a szerinti személyi illetmény, illetve a Ktv. 42. § (2) bekezdése, 45. §-a alapján az alapilletmény, az illetménykiegészítés és a rendszeres illetménypótlékok,
   - b) közalkalmazottak esetében a Kjt. 66. és 66/A. §-a alapján a kinevezésben foglalt illetmény, valamint a rendszeres illetménypótlékok,
   - c) munkavállalók esetén a személyi alapbér és a rendszeres bérpótlékok,
-  - d) állami vezetők esetén a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 45., illetve 56. §-ában meghatározott alapilletmény, illetménykiegészítés és vezetői illetménypótlék,
+  - d) állami vezetők esetén a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 51. §-ában és a Kjtv. 44. § és 54. §-ában meghatározott alapilletmény, illetménykiegészítés és vezetői illetménypótlék,
   - e) az 1. § (3) bekezdésének b) pontjában meghatározott személy esetében az őt külön jogszabály alapján megillető díj
 
 együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4) bekezdésében foglaltak megfelelő alkalmazásával kell megállapítani;
@@ -55,7 +56,9 @@ együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4)
 
 - a) a programban részt vevő legfeljebb 5 éven belül előrehozott öregségi nyugdíjra vagy az öregségi nyugdíjra való jogosultság életkori és szolgálati idővel kapcsolatos feltételeit megszerzi, feltéve, hogy előrehozott öregségi nyugdíjra nem jogosult, illetve csökkentett összegű előrehozott öregségi nyugdíjban nem részesül,
 - b) a programban részt vevő rendelkezik legalább huszonöt év közszférában jogviszonyban töltött idővel,
-- c) a programban részt vevő további foglalkoztatására a Ktv. 17. § (1) bekezdés a)–c) pontjában, illetőleg a Kjt. 30. § (1) bekezdés a) vagy b) pontjában meghatározott okból, vagy az Mt. 89. § (3) bekezdése szerint a munkáltató működésével összefüggő okból nincs lehetőség, és
+- c) a programban részt vevő további foglalkoztatására
+  - ca) a Ktv. 17. § (1) bekezdés a)–c) pontjában, a Kjt. 30. § (1) bekezdés a) vagy b) pontjában meghatározott okból vagy az Mt. 89. § (3) bekezdése szerint a munkáltató működésével összefüggő okból nincs lehetőség, vagy
+  - cb) a Ktjv. 8. § (1) bekezdés b) pontja szerinti felmentés miatt nincs lehetőség, és
 - d) a határozatlan idejű kinevezéssel rendelkező programban részt vevő hozzájárul határozatlan idejű foglalkoztatásra irányuló jogviszonyának határozott idejű jogviszonnyá történő módosításához, és elfogadja foglalkoztatásra irányuló jogviszonya tekintetében a prémiumévek programban történő részvétellel összefüggésben e törvényben meghatározott, a Ktv.-ben, a Kjt.-ben, illetve az Mt.-ben foglaltaktól eltérő szabályokat.
 
 (2) A prémiumévek programban való részvételhez történő hozzájárulással egyidejűleg a közalkalmazott magasabb vezető, illetve vezető beosztása, a köztisztviselő és az ügykezelő vezető megbízása, az állami vezető e megbízatása megszűnik. A vezetői munkakört betöltőkre a 4. § (2) bekezdése alkalmazandó. A prémiumévek programba való belépéskor meg kell állapítani a programban részt vevő ezen időpontig ki nem adott szabadságát.

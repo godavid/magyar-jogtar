@@ -318,7 +318,7 @@ tagból áll. A gazdasági tanács tagja az lehet, aki felsőfokú végzettségg
 
 - a) büntetett előéletű,
 - b) köztisztviselő, vagy polgármesteri tisztséget tölt be,
-- c) a Kormány tagjai és az államtitkárok jogállásáról és felelősségéről szóló törvény hatálya alá tartozik,
+- c) a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozik,
 - d) politikai pártban tisztséget tölt, illetve töltött be, fizetett pártalkalmazottként foglalkoztatták vagy foglalkoztatják, feltéve, hogy a kizáró ok megszűnése óta még nem telt el legalább öt év,
 - e) önkormányzati, országgyűlési vagy európai parlamenti képviselő,
 - f) tagja a szenátusnak,

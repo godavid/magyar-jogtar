@@ -131,7 +131,7 @@ Az Országgyűlés az államháztartási rendszer megújítása keretében a kö
 
 (5) Törvény helyi önkormányzati költségvetési szervre vonatkozó irányítási jogot korlátozhat. Törvény, illetve törvény külön rendelkezése szerint önkormányzati rendelet a (2) bekezdés a) pontjában foglalt hatáskörökkel vagy felügyeleti hatáskörrel más szervet, személyt ruházhat fel.
 
-(6) A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény (a továbbiakban: Ksztv.) hatálya alá tartozó költségvetési szervekre vonatkozó – a (2) és (3) bekezdésben foglalt – irányítási vagy felügyeleti jogok tekintetében a Ksztv.-ben, valamint külön törvényben foglaltak az irányadók.
+(6) A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) hatálya alá tartozó költségvetési szervekre vonatkozó – a (2) és (3) bekezdésben foglalt – irányítási vagy felügyeleti jogok tekintetében a Ksztv.-ben, valamint külön törvényben foglaltak az irányadók.
 
 (7) Ha törvény vagy kormányrendelet eltérően nem rendelkezik, az irányító szerv feladatkörének gyakorlásához szükséges hatásköröket az irányító szerv vezetője gyakorolja azzal, hogy a Ksztv. hatálya alá tartozó költségvetési szervek tekintetében a Ksztv. rendelkezései az irányadók. A helyi önkormányzati, a helyi kisebbségi, illetőleg országos kisebbségi önkormányzati költségvetési szerv esetén az irányító szerv feladatkörének gyakorlásához szükséges hatásköröket – amennyiben törvény másként nem rendelkezik – az (1) bekezdés c)–e) pontja szerinti irányító szerv gyakorolja, kivéve a (2) bekezdés c) pontjában foglalt hatáskört, melyet helyi önkormányzati költségvetési szerv esetén az irányító szerv vezetője gyakorol.
 
@@ -305,7 +305,7 @@ Az Országgyűlés az államháztartási rendszer megújítása keretében a kö
 
 59. § Ahol jogszabály fejezet felügyeletét ellátó szervről, illetőleg fejezet felügyeletét ellátó szerv vezetőjéről rendelkezik, azon e törvény hatálybalépését követően fejezetet irányító szervet, illetőleg fejezetet irányító szerv vezetőjét kell érteni.
 
-60. § Ha törvény eltérően nem rendelkezik, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény szerinti autonóm államigazgatási szerv és kormányhivatal e törvény alkalmazásában irányító szerv.
+60. § Ha törvény eltérően nem rendelkezik, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény szerinti autonóm államigazgatási szerv és kormányhivatal e törvény alkalmazásában irányító szerv.
 
 61. § (1) Az e törvény 29. §-ával megállapított Áht. 100/L. §-ának (7) bekezdésében foglaltak nem alkalmazandók
 

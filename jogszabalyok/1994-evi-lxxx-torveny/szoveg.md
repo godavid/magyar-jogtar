@@ -323,7 +323,7 @@ illetően.
 - b) felmentésével;
 - c) lemondásával;
 - d) összeférhetetlenségének megállapításával [39. § (2) bekezdés a) pont];
-- e) országgyűlési, helyi önkormányzati képviselővé, illetőleg polgármesterré történő megválasztásával [40. § (2) bekezdés], továbbá a Kormány tagjai és az államtitkárok jogállásáról és felelősségéről szóló törvény hatálya alá tartozó állami vezetővé (a továbbiakban: állami vezető) történő megválasztásával vagy kinevezésével;
+- e) országgyűlési, helyi önkormányzati képviselővé, illetőleg polgármesterré történő megválasztásával [40. § (2) bekezdés], továbbá a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetővé (a továbbiakban: állami vezető) történő megválasztásával vagy kinevezésével;
 - f) hivatalvesztése kimondásával;
 - g) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát, illetőleg közügyektől eltiltást kiszabó jogerős határozatával, továbbá, ha büntetőeljárás során jogerős határozattal kényszergyógykezelését rendelték el;
 - h) hetvenedik életévének a betöltésével;
@@ -779,7 +779,7 @@ történő rendelkezésre állás. Az ügyelet és a készenlét időtartama ala
 - b)
 - c) egyéb javadalmazásra, kedvezményre és költségtérítésre jogosult.
 
-(2) A tisztségéhez fűződő, e törvényben nem szabályozott egyéb jogosultságok tekintetében a legfőbb ügyész a miniszterrel, a legfőbb ügyész helyettes pedig az államtitkárral azonos beosztásúnak minősül.
+(2) A tisztségéhez fűződő, e törvényben nem szabályozott egyéb jogosultságok tekintetében a legfőbb ügyész a miniszterrel, a legfőbb ügyész helyettes pedig a közigazgatási államtitkárral azonos beosztásúnak minősül.
 
 46/C. § Az ügyész illetménye alapilletményből, továbbá az e törvényben meghatározott pótlékból tevődik össze. A beosztási pótlék, a vezetői pótlék és a címpótlék alapilletmény jellegű.
 

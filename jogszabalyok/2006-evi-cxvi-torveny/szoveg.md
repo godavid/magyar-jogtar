@@ -58,7 +58,7 @@ az egészségbiztosítás hatósági felügyeletéről
 
 (6) A Felügyeleti Tanács tagjai számára – a feladatuk ellátásához szükséges mértékben – a Felügyelet elnöke a Felügyelet kezelésében levő iratokba betekintést enged.
 
-(7) A Felügyeleti Tanács véleményének kikérése szükséges az egészségügyi szolgáltatókkal kötendő finanszírozási szerződés általános feltételeinek jóváhagyásához, valamint hozzájárulása szükséges a 4. § (1) bekezdés e) pontja, a 4. § (2) bekezdése, a 6. § (3) bekezdése, a 12. §, a 15. § és a 16. § szerinti hatásköröknek a gyakorlásához, valamint a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 71. § (5) bekezdésében meghatározott beszámoló és tájékoztatás elfogadásához.
+(7) A Felügyeleti Tanács véleményének kikérése szükséges az egészségügyi szolgáltatókkal kötendő finanszírozási szerződés általános feltételeinek jóváhagyásához, valamint hozzájárulása szükséges a 4. § (1) bekezdés e) pontja, a 4. § (2) bekezdése, a 6. § (3) bekezdése, a 12. §, a 15. § és a 16. § szerinti hatásköröknek a gyakorlásához, valamint a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 70. § (5) bekezdésében meghatározott beszámoló és tájékoztatás elfogadásához.
 
 (8) A Felügyeleti Tanács tagjának megbízatása megszűnik, ha
 

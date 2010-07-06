@@ -136,7 +136,7 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányának és nemzetközi jogi 
 
 (3) A Testület működését titkárság segíti, amely az Országgyűlés munkaszervezetében működik, azonban a Titkárságon foglalkoztatott személyek tekintetében a munkáltatói jogkört a Testület elnöke gyakorolja.
 
-(4) A Testület elnöke havonta az államtitkári illetmény nyolcvan százalékával, a Testület többi tagja az államtitkári illetmény ötvenöt százalékával megegyező összegű tiszteletdíjra jogosult.
+(4) A Testület elnöke havonta a közigazgatási államtitkári illetmény nyolcvan százalékával, a Testület többi tagja a közigazgatási államtitkári illetmény ötvenöt százalékával megegyező összegű tiszteletdíjra jogosult.
 
 ### II. Fejezet
 

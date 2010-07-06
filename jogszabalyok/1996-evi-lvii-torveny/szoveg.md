@@ -366,7 +366,7 @@ A kinevezés hat évre szól. A kinevezett személyek a hat év lejártát köve
 
 #### 41. §
 
-42. § (1) A Gazdasági Versenyhivatal elnökét a miniszter, elnökhelyetteseit az államtitkár illetményével azonos díjazás, illetve juttatások illetik meg azzal, hogy az elnök vezetői illetménypótléka alapilletményének 110%-a, az elnökhelyettesek vezetői illetménypótléka az alapilletményük 100%-a, illetve az elnök és az elnökhelyettesek illetménykiegészítése az alapilletményük 80%-a. A Versenytanács tagjának alapilletménye a köztisztviselői illetményalap tízszerese, vezetői illetménypótléka az alapilletményének 80%-a.
+42. § (1) A Gazdasági Versenyhivatal elnökét a miniszter, elnökhelyetteseit a közigazgatási államtitkár illetményével azonos díjazás, illetve juttatások illetik meg azzal, hogy az elnök vezetői illetménypótléka alapilletményének 110%-a, az elnökhelyettesek vezetői illetménypótléka az alapilletményük 100%-a, illetve az elnök és az elnökhelyettesek illetménykiegészítése az alapilletményük 80%-a. A Versenytanács tagjának alapilletménye a köztisztviselői illetményalap tízszerese, vezetői illetménypótléka az alapilletményének 80%-a.
 
 (2) Amennyiben a Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja e megbízatását három évig betöltötte, és a megbízatás megszűnésére a megbízatás időtartamának letelte, külön törvényben előírt korhatár betöltése, nyugdíjazás miatt kerül sor, további három hónapon keresztül a havi illetményének megfelelő összegű juttatásra jogosult. Ha a megbízatás halál miatt szűnik meg, a juttatás az örököst illeti meg.
 
