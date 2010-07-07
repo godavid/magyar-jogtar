@@ -578,7 +578,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (2) A helyi képviselőtestület a feladatkörében rendeletet alkothat, amely nem lehet ellentétes a magasabb szintű jogszabállyal.
 
-44/B. § (1) A helyi képviselőtestület elnöke a polgármester. A képviselőtestület a polgármester helyettesítésére alpolgár- mestert választhat. Alpolgármesternek olyan személy is megválasztható, aki nem tagja a képviselőtestületnek, de a polgármestert a képviselőtestület elnökeként csak olyan alpolgármester helyettesítheti, aki a képviselőtestület tagja.
+44/B. § (1) A helyi képviselőtestület elnöke a polgármester. A képviselőtestület a polgármester helyettesítésére alpolgármestert választhat. Alpolgármesternek olyan személy is megválasztható, aki nem tagja a képviselőtestületnek, de a polgármestert a képviselőtestület elnökeként csak olyan alpolgármester helyettesítheti, aki a képviselőtestület tagja.
 
 (2) A képviselőtestület bizottságot választ, és hivatalt hoz létre.
 
@@ -684,13 +684,15 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (4) A lelkiismereti és vallásszabadságról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
-61. § (1) A Magyar Köztársaságban mindenkinek joga van a szabad véleménynyilvánításra, továbbá arra, hogy a közérdekű adatokat megismerje, illetőleg terjessze.
+61. § (1) A Magyar Köztársaságban mindenkinek joga van a véleménynyilvánítás és a szólás szabadságához, továbbá a közérdekű adatok megismeréséhez, valamint terjesztéséhez.
 
-(2) A Magyar Köztársaság elismeri és védi a sajtó szabadságát.
+(2) A Magyar Köztársaság elismeri és védi a sajtó szabadságát és sokszínűségét.
 
-(3) A közérdekű adatok nyilvánosságáról szóló törvény, valamint a sajtószabadságról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
+(3) A demokratikus közvélemény kialakítása érdekében mindenkinek joga van a megfelelő tájékoztatáshoz a közügyek tekintetében.
 
-(4) A közszolgálati rádió, televízió és hírügynökség felügyeletéről, valamint vezetőinek kinevezéséről, továbbá a kereskedelmi rádió és televízió engedélyezéséről, illetőleg a tájékoztatási monopóliumok megakadályozásáról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
+(4) A Magyar Köztársaságban közszolgálati médiaszolgáltatás működik közre a nemzeti önazonosság és az európai identitás, a magyar, valamint a kisebbségi nyelvek és kultúra ápolásában, gazdagításában, a nemzeti összetartozás megerősítésében, illetőleg a nemzeti, etnikai, családi, vallási közösségek igényeinek kielégítésében. A közszolgálati médiaszolgáltatást az Országgyűlés által választott tagokkal működő autonóm közigazgatási hatóság és független tulajdonosi testület felügyeli, céljainak megvalósulása felett pedig az állampolgárok egyes, törvényben meghatározott közösségei őrködnek.
+
+(5) A közérdekű adatok nyilvánosságáról szóló törvény, valamint a sajtószabadságról és a médiatartalmak alapvető szabályairól rendelkező törvény, továbbá a médiaszolgáltatások felügyeletéről szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
 62. § (1) A Magyar Köztársaság elismeri a békés gyülekezés jogát és biztosítja annak szabad gyakorlását.
 
