@@ -79,7 +79,7 @@ Az Országgyűlés annak érdekében, hogy az államháztartási rendszer újras
 
 (4) A költségvetési kiadások között kell elszámolni az Európai Unió közös költségvetéséhez való, a közösségi jogszabályok alapján meghatározott hozzájárulásokat, és bevételként a vámok, valamint a cukorágazati hozzájárulás beszedési költségének közösségi jogszabály szerinti megtérítését.
 
-(5) A többségi állami tulajdonban lévő gazdasági társaságok számviteli eredményének az állami tulajdonra eső arányos részét a mérlegkészítés évében költségvetési tételként el kell számolni. A veszteséget kiadásként, a nyereséget bevételként kell elszámolni.
+(5)
 
 (6) Amennyiben gazdálkodó szervezet a Magyar Állammal vagy önkormányzattal kötött, legalább 5 év lejáratú szerződés keretében beruházást hajt végre annak érdekében, hogy a létrehozott eszköz felhasználásával szolgáltatást nyújtson, akkor
 
@@ -108,9 +108,9 @@ Az Országgyűlés annak érdekében, hogy az államháztartási rendszer újras
 - g) a 18/B. § (1) bekezdés d), zs) és x) pontjaiban meghatározott megelőlegezési és likviditási hitelek;
 - h) a Magyar Fejlesztési Bankról szóló 2001. évi XX. törvény 5. §-ának (2) bekezdése alapján vállalt árfolyam-garanciából eredő, a Magyar Fejlesztési Bank Rt. és a központi költségvetés közötti elszámolások előjelre való tekintet nélkül;
 - i) állami tulajdoni részesedés értékesítése;
-- j) a Magyar Nemzeti Vagyonkezelő Zrt.-re (a továbbiakban: MNV Zrt.) rábízott állami vagyonba tartozó gazdasági társaságoknak nyújtott hitel-, kölcsön és annak visszatérülése, valamint az MNV Zrt.-nek a rábízott vagyonnal való gazdálkodás során hitelviszonyt megtestesítő értékpapírokkal végzett műveletei;
-- k) többségi állami tulajdonú gazdasági társaságok osztalékának elvonása (ideértve az osztalék-előleget is);
-- l) többségi állami tulajdonú gazdasági társaságok tőkéjének emelése és csökkentése.
+- j) a Magyar Nemzeti Vagyonkezelő Zrt.-re (a továbbiakban: MNV Zrt.) rábízott állami vagyonba tartozó gazdasági társaságoknak nyújtott hitel-, kölcsön és annak visszatérülése, valamint az MNV Zrt.-nek a rábízott vagyonnal való gazdálkodás során hitelviszonyt megtestesítő értékpapírokkal végzett műveletei.
+- k)
+- l)
 
 (4) A finanszírozási célú pénzügyi műveletek költségvetési előirányzatként, illetve annak teljesítéseként el nem számolható és meg nem jeleníthető finanszírozási bevételek és finanszírozási kiadások teljesítésével járnak együtt, a pénzeszközök változását eredményezik.
 
@@ -952,15 +952,13 @@ eredményeképpen keletkeztek.
 
 40. §
 
-41. § (1) Pótköltségvetést köteles a Kormány benyújtani az Országgyűlésnek, ha a költségvetési törvény tervezésénél figyelembe vett bruttó hazai össztermék 0,2%-ánál nagyobb mértékben csökken a várható elsődleges többlet a jóváhagyotthoz képest, és ez az egyenlegromlás nem magángazdasági vagy demográfiai okok miatt következik be.
+41. § (1) A Kormány költségvetési törvénymódosítást köteles az Országgyűlés elé terjeszteni, ha év közben az állami költségvetés egyenlegének várható összege a költségvetési törvényben jóváhagyottól legalább az állami költségvetésnek a költségvetési törvényben rögzített kiadási főösszege összegének 2,5%-ával eltér.
 
-(2) A költségvetési felelősségről szóló törvény 3. §-a szerint meghatározott egyenleg-követelmény és egyenlegcél, valamint a 4. § szerint meghatározott kiadási korlát megváltoztatása pótköltségvetésnek minősül.
+(2) A Kormány pótköltségvetési törvényjavaslatot köteles az Országgyűlés elé terjeszteni, ha év közben az állami költségvetés egyenlegének várható összege a költségvetési törvényben jóváhagyottól legalább az állami költségvetésnek a költségvetési törvényben rögzített kiadási főösszege összegének 5%-ával eltér.
 
 (3) A pótköltségvetési törvényjavaslat a költségvetési törvénynek az előirányzatok meghatározására vonatkozó rendelkezéseit javasolja újból megállapítani.
 
-(4) A költségvetési törvény módosítását nem az (1) bekezdésben említett okok miatt kezdeményező és formailag nem a (2) bekezdésben foglaltak szerinti törvényjavaslat nem minősül pótköltségvetési törvényjavaslatnak, illetve hatálybalépés esetén pótköltségvetési törvénynek.
-
-(5) Amennyiben az Országgyűlés olyan törvényt fogad el, amely a törvény elfogadásához alapul vett költségvetési hatásvizsgálatban a tárgyévre előrejelzett egyenleg rontása nélkül módosítja egyes külső tételek előrejelzett összegét, a Kormány a törvény elfogadásához alapul vett költségvetési hatásvizsgálat alapján rendeletben intézkedik az állami költségvetés megfelelő külső tételeinek átcsoportosításáról.
+(4) A költségvetési törvény módosítását nem a (2) bekezdésben említett ok miatt kezdeményező és formailag nem a (3) bekezdésben foglaltak szerinti törvényjavaslat nem minősül pótköltségvetési törvényjavaslatnak, illetve hatálybalépés esetén pótköltségvetési törvénynek.
 
 42. § (1)–(2)
 
@@ -1081,7 +1079,7 @@ eredményeképpen keletkeztek.
 
 ### Eljárási szabályok
 
-50. § Az államháztartásért felelős miniszter április 15-éig elkészíti és a Kormány elé terjeszti a következő évekre vonatkozó gazdaságpolitikai elképzelésein alapuló költségvetési politika fő irányait és a költségvetési tervezés fő kereteit meghatározó költségvetési irányelveket.
+50. § Az államháztartásért felelős miniszter április 15-éig – az országgyűlési képviselők általános választásának évében legkésőbb június 30-áig – elkészíti és a Kormány elé terjeszti a következő évekre vonatkozó gazdaságpolitikai elképzelésein alapuló költségvetési politika fő irányait és a költségvetési tervezés fő kereteit meghatározó költségvetési irányelveket.
 
 50/A. § (1) A Kormány az államháztartás és a gazdaság tárgyévi helyzetéről félévente tájékoztatót nyújt be az Országgyűlés költségvetési ügyekben feladatkörrel rendelkező bizottságának.
 
@@ -1098,9 +1096,9 @@ részletes jelentést tesznek közzé az államháztartás vagyoni és pénzügy
 
 51. § (1) A fejezetet irányító szerv az irányítása alá tartozó fejezet és a hatáskörébe tartozó alap költségvetésének, valamint a társadalombiztosítás pénzügyi alapjainak kezelői alaponként az egészségbiztosításért felelős miniszter, valamint a nyugdíjpolitikáért felelős miniszter közreműködésével elkészített társadalombiztosítás pénzügyi alapjai költségvetésének részletes tervezetét a költségvetési irányelvek szerint állítja össze.
 
-(2) Az államháztartásért felelős miniszter augusztus 31-ig terjeszti a Kormány elé a költségvetési törvényjavaslat tervezetét.
+(2) Az államháztartásért felelős miniszter augusztus 31-ig – az országgyűlési képviselők általános választásának évében legkésőbb október 15-ig – terjeszti a Kormány elé a költségvetési törvényjavaslat tervezetét.
 
-52. § (1) A Kormány a költségvetési törvény utolsó költségvetési évében szeptember 30-áig benyújtja az Országgyűlésnek a következő egy vagy többéves – az e törvény 7. §-ának (3) bekezdése szerinti költségvetési évenként meghatározott előirányzatokat tartalmazó – költségvetési törvényjavaslatát, és ehhez tájékoztatási céllal az államháztartás helyzetét bemutató összefoglaló táblázatokat, mérlegeket mellékel. A fejezeti részletező táblázatokat és ezek szöveges indokolásait október 15-ig kell az Országgyűlésnek benyújtani.
+52. § (1) A Kormány a költségvetési törvény utolsó költségvetési évében szeptember 30-áig – az országgyűlési képviselők általános választásának évében legkésőbb október 31-éig – benyújtja az Országgyűlésnek a következő egy vagy többéves – az e törvény 7. § (3) bekezdése szerinti, költségvetési évenként meghatározott előirányzatokat tartalmazó – költségvetési törvényjavaslatát, és ehhez tájékoztatási céllal az államháztartás helyzetét bemutató összefoglaló táblázatokat, mérlegeket mellékel. A fejezeti részletező táblázatokat és ezek szöveges indokolásait október 15-ig – az országgyűlési képviselők általános választásának évében legkésőbb november 15-ig – kell az Országgyűlésnek benyújtani.
 
 (2) Az Országgyűlés megtárgyalja a költségvetés bevételeit és kiadásait fejezetenként, alaponként, valamint társadalombiztosítási pénzügyi alaponként és összességükben. A tárgyalás során november 30-ig az Országgyűlés határozatában összegszerűen meghatározza a fejezetek, az alapok, a társadalombiztosítás pénzügyi alapjai bevételi és kiadási főösszegét, a hiány, illetve a többlet mértékét.
 
