@@ -2236,7 +2236,7 @@ feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye
 
 (4)–(5)
 
-128/A. § A gyámhivatal jóváhagyása szükséges a gondnokolt ingatlan vagyonán kívüli, az öregségi nyugdíj legkisebb összegének kétszeresét meghaladó vagy a gondnokot kirendelő bírósági határozatban ettől eltérően megállapított értékű egyéb vagyonára vonatkozó törvényes képviselői jognyilatkozat érvényességéhez.
+128/A. §
 
 129. § (1) A települési önkormányzat képviselő-testülete, jegyzője és a gyámhivatal (a továbbiakban együtt: eljáró szerv) az eljárásban mindenkor vizsgálja a kérelmező állampolgárságát, jogállását, valamint személyes jogát.
 

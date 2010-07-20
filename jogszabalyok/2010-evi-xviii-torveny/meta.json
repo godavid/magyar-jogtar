@@ -1,7 +1,7 @@
 {
   "documentId": "2010-18-00-00",
   "megjeloles": "2010. évi XVIII. törvény",
-  "cim": "a gondnokoltak és gondnokaik, a támogatott személyek és támogatóik, valamint az előzetes jognyilatkozatok nyilvántartásáról",
+  "cim": "a gondnokoltak nyilvántartásáról",
   "rovidites": null,
   "slug": "2010-evi-xviii-torveny",
   "forras": "https://njt.jog.gov.hu/jogszabaly/2010-18-00-00",
@@ -10,6 +10,10 @@
     {
       "datum": "2010-05-01",
       "verzio": 1
+    },
+    {
+      "datum": "2010-07-20",
+      "verzio": 2
     }
   ]
 }

@@ -307,7 +307,7 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 - m) a bejegyzett élettársi kapcsolat megszüntetésére irányuló polgári nemperes eljáráshoz a közjegyző,
 - n) az Élettársi Nyilatkozatok Nyilvántartásának vezetésére irányuló polgári nemperes eljáráshoz a közjegyző, az Élettársi Nyilatkozatok Nyilvántartásában szereplő személy házasságkötésének, bejegyzett élettársi kapcsolata létesítésének és halálának az Élettársi Nyilatkozatok Nyilvántartásában való feltüntetése érdekében a Magyar Országos Közjegyzői Kamara,
 - o) az állampolgárság, a családi állapot, a házasságkötés helye, a nem, valamint a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével a kártörténeti nyilvántartást kezelő szerv a kártörténeti nyilvántartásban szereplő üzemben tartó személyazonosító adatai nyilvántartásának naprakészen tartásához,
-- p) a gondnokoltak és gondnokaik, a támogatott személyek és támogatóik, valamint az előzetes jognyilatkozatok nyilvántartásában szereplő természetes személyek adatainak egyeztetése céljából az Országos Igazságszolgáltatási Tanács Hivatala.
+- p) a gondnokoltak nyilvántartásában szereplő természetes személyek adatainak egyeztetése céljából az Országos Igazságszolgáltatási Tanács Hivatala.
 
 22. § E törvény felhatalmazása alapján a 17. § (2) bekezdésének c) pontja szerinti adatok igénylésére jogosultak:
 
