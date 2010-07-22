@@ -1833,8 +1833,8 @@ rendeletben állapítsa meg.”
 
 (8) E törvény 30. §-a és 51. § (10) bekezdése 2010. május 1-jén lép hatályba, azzal, hogy
 
-- a) az Ebktv. 63/A. § (5) bekezdését a külön jogszabály szerint leghátrányosabb helyzetű kistérségekben levő, valamint a húszezer lakos feletti települések esetében 2010. július 1-től, egyéb települések esetében 2011. január 1-től kell alkalmazni,
-- b) az Ebktv. 63/A. § (6)–(7) bekezdését a 2010. július 1-jét követően meghirdetett pályázatokra kell alkalmazni.
+- a) az Ebktv. 63/A. § (5) bekezdését 2010. október 1-jétől kell alkalmazni,
+- b) az Ebktv. 63/A. § (6)–(7) bekezdését a 2011. december 31-ét követően meghirdetett pályázatokra kell alkalmazni.
 
 (9) E törvény 4. § (3) bekezdése, valamint 55. § (2)–(3) bekezdése 2009. november 15-én lép hatályba.
 
