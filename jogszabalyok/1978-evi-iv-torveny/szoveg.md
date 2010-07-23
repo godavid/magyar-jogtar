@@ -729,7 +729,11 @@ ha annak eredményes elteltéhez az elkövető rendszeres figyelemmel kísérés
 
 83. § (1) A büntetést – céljának (37. §) szem előtt tartásával – a törvényben meghatározott keretek között úgy kell kiszabni, hogy igazodjék a bűncselekmény és az elkövető társadalomra veszélyességéhez, a bűnösség fokához, továbbá az egyéb súlyosító és enyhítő körülményekhez.
 
-(2)–(4)
+(2) Határozott ideig tartó szabadságvesztés kiszabásakor a büntetési tétel középmértéke irányadó. A középmértéket akként kell megállapítani, hogy a büntetési tétel alsó határához a felső és az alsó határ közötti különbözet felét kell hozzáadni.
+
+(3) Ha e törvény a büntetés kiszabása esetén az e törvény Különös Részében meghatározott büntetési tételek emelését írja elő, a (2) bekezdésben meghatározott számítást a felemelt büntetési tételekre tekintettel kell elvégezni.
+
+(4) Ha a bíróság szabadságvesztést szab ki, a büntetés mértékét a végrehajtás felfüggesztése, illetőleg a feltételes szabadságra bocsátás lehetőségének a figyelmen kívül hagyásával állapítja meg.
 
 #### 84. §
 
@@ -740,6 +744,8 @@ ha annak eredményes elteltéhez az elkövető rendszeres figyelemmel kísérés
 (2) A büntetést a bűnhalmazatban lévő bűncselekmények büntetési tételei közül a legsúlyosabbnak az alapulvételével kell kiszabni.
 
 (3) Ha a törvény a bűnhalmazatban levő bűncselekmények közül legalább kettőre határozott ideig tartó szabadságvesztést rendel, a (2) bekezdés szerinti büntetési tétel felső határa a felével emelkedik, de az nem érheti el az egyes bűncselekményekre megállapított büntetési tételek felső határának együttes tartamát.
+
+(4) Ha a bűnhalmazatban levő bűncselekmények közül legalább három a 137. § 17. pontjában meghatározott személy elleni erőszakos bűncselekmény, a (2) bekezdés szerinti büntetési tétel felső határa a kétszeresére emelkedik. Ha a büntetési tétel így felemelt felső határa a húsz évet meghaladja, vagy a törvény szerint bármelyik bűncselekmény életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben életfogytig tartó szabadságvesztést kell kiszabni.
 
 85/A. § (1) A tárgyalásról lemondás (Be. XXVI. Fejezet) esetén a 85. § (1)–(2) bekezdéseinek rendelkezései irányadók azzal, hogy a büntetést a bűnhalmazatban lévő bűncselekményekre a 87/C. § alapján kiszabható büntetések közül a legsúlyosabbnak az alapulvételével kell kiszabni.
 
@@ -852,23 +858,17 @@ lehet kiszabni.
 
 ### A különös, a többszörös és az erőszakos többszörös visszaesőkre vonatkozó rendelkezések
 
-97. § (1) A különös és a többszörös visszaesővel szemben – amennyiben a törvény másként nem rendelkezik – az újabb bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a felével emelkedik, de nem haladhatja meg a húsz évet. Halmazati büntetés esetén a 85. § (2) bekezdése szerinti büntetési tételt, a tárgyalásról lemondás esetén a 87/C. § szerinti büntetési tételt kell a felével emelni.
+97. § (1) A különös és a többszörös visszaesővel szemben – amennyiben e törvény másként nem rendelkezik – az újabb bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a felével emelkedik, de nem haladhatja meg a húsz évet. Halmazati büntetés esetén a 85. § (2) bekezdése szerinti büntetési tételt, a tárgyalásról lemondás esetén a 87/C. § szerinti büntetési tételt kell a felével emelni.
 
-(2) A különös és a többszörös visszaesővel szemben a büntetés a 87. § (2) bekezdése alapján csak különös méltánylást érdemlő esetben enyhíthető. Azzal szemben, aki erőszakos többszörös visszaesőnek minősül, a büntetés enyhítésének nincs helye.
+(2) A különös és a többszörös visszaesővel szemben a büntetés a 87. § (2) bekezdése alapján csak különös méltánylást érdemlő esetben enyhíthető.
 
 (3) Az (1) bekezdésben meghatározott súlyosabb jogkövetkezmények nem alkalmazhatók, ha e törvény Különös Része a különös visszaesőként történő elkövetést a bűncselekmény súlyosabban minősülő eseteként rendeli büntetni.
 
-(4) Az erőszakos többszörös visszaesővel szemben a 38. § (3) bekezdése alkalmazásának nincs helye.
+97/A. § (1) Az erőszakos többszörös visszaesővel szemben az erőszakos többszörös visszaesőkénti minősítést megalapozó, súlyosabban büntetendő személy elleni erőszakos bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a kétszeresére emelkedik. Ha a büntetési tétel így felemelt felső határa a húsz évet meghaladja, vagy a törvény szerint a bűncselekmény életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben életfogytig tartó szabadságvesztést kell kiszabni.
 
-97/A. § Az erőszakos többszörös visszaesővel szemben az erőszakos többszörös visszaesőkénti minősítést megalapozó személy elleni erőszakos bűncselekmény elkövetése esetén a büntetési tétel alsó határa
+(2) Az erőszakos többszörös visszaesővel szemben a 38. § (3) bekezdése alkalmazásának nincs helye.
 
-- a) egy évnél rövidebb tartamú szabadságvesztés esetén egy évi szabadságvesztésre,
-- b) egy évi szabadságvesztés esetén két évi szabadságvesztésre,
-- c) két évi szabadságvesztés esetén három évi szabadságvesztésre,
-- d) öt évi szabadságvesztés esetén hét évi szabadságvesztésre,
-- e) tíz évi szabadságvesztés esetén tizenkét évi szabadságvesztésre
-
-emelkedik.
+(3) Az erőszakos többszörös visszaesővel szemben a büntetés enyhítésének nincs helye.
 
 ### A bűnszervezetben történő elkövetésre vonatkozó rendelkezések
 
@@ -2480,11 +2480,13 @@ követik el.
 
 (7) Nem büntethető a (4) bekezdés alapján a csoport résztvevője, ha a csoportot önként vagy a hatóság felhívására elhagyja.
 
-(8) Aki a (2)–(4) bekezdés szerinti bűncselekményt külön törvényben meghatározott intézkedést végrehajtó rendőr vagy pénzügyőr sérelmére követi el, a (2) bekezdés esetén két évtől nyolc évig, a (3) bekezdés esetén öt évtől tíz évig terjedő szabadságvesztéssel büntetendő.
+(8) Aki az (1)–(3) bekezdés szerinti bűncselekményt külön törvényben meghatározott intézkedést végrehajtó rendőr vagy pénzügyőr sérelmére követi el, az (1) bekezdés esetén egy évtől öt évig, a (2) bekezdés esetén két évtől nyolc évig, a (3) bekezdés esetén öt évtől tíz évig terjedő szabadságvesztéssel büntetendő.
 
 ### Közfeladatot ellátó személy elleni erőszak
 
-230. § A 229. § rendelkezései szerint büntetendő, aki az ott meghatározott cselekményt közfeladatot ellátó személy ellen követi el.
+230. § (1) A 229. § rendelkezései szerint büntetendő, aki az ott meghatározott cselekményt közfeladatot ellátó személy ellen követi el.
+
+(2) Aki a 229. § (1)–(3) bekezdés szerinti bűncselekményt a közoktatásról szóló törvényben meghatározott közfeladatot ellátó pedagógus, vagy a nevelő és oktató munkát közvetlenül segítő alkalmazott sérelmére követi el, az (1) bekezdés esetén egy évtől öt évig, a (2) bekezdés esetén két évtől nyolc évig, a (3) bekezdés esetén öt évtől tíz évig terjedő szabadságvesztéssel büntetendő.
 
 ### Hivatalos személy támogatója elleni erőszak
 
@@ -3106,9 +3108,9 @@ ha súlyosabb bűncselekmény nem valósul meg, vétséget követ el, és pénzb
 
 (4)
 
-### A holokauszt nyilvános tagadása
+### A nemzeti szocialista és kommunista rendszerek bűneinek nyilvános tagadása
 
-269/C. § Aki nagy nyilvánosság előtt a holokauszt áldozatának méltóságát azáltal sérti, hogy a holokauszt tényét tagadja, kétségbe vonja vagy jelentéktelen színben tünteti fel, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
+269/C. § Aki nagy nyilvánosság előtt a nemzeti szocialista vagy kommunista rendszerek által elkövetett népirtás és más, emberiség elleni cselekmények tényét tagadja, kétségbe vonja vagy jelentéktelen színben tünteti fel, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
 
 ### Rémhírterjesztés
 
