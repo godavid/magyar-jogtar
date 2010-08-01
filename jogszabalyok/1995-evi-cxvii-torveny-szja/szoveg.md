@@ -3183,6 +3183,8 @@ V. A jövedelem megállapításakor költségként figyelembe nem vehető kiadá
 
 11. a magánszemély bevétele (jövedelme) után külföldön megfizetett, a személyi jövedelemadónak megfelelő adó.
 
+12. az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint létesített munkaviszonyban foglalkoztatott részére a magánszemély által az egy napi munkáért kifizetett munkabérből a minimálbér napi összegének kétszeresét meghaladó mértékű kifizetés.
+
 ### 4. számú melléklet az 1995. évi CXVII. törvényhez
 
 #### Az általános forgalmi adó bevételkénti és költségkénti elszámolhatóságáról
@@ -3962,6 +3964,8 @@ IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiad�
 13. a vissza nem térítendő munkáltatói támogatás, ide nem értve a magánszemélynek segély címén juttatott összeget;
 
 14. a magánszemély bevétele (jövedelme) után külföldön megfizetett, a személyi jövedelemadónak megfelelő adó.
+
+15. az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint létesített munkaviszonyban foglalkoztatott részére a vállalkozó által az egy napi munkáért kifizetett munkabérből a minimálbér napi összegének kétszeresét meghaladó mértékű kifizetés.
 
 ### 12. számú melléklet a személyi jövedelemadóról szóló1995. évi CXVII. törvényhez
 
