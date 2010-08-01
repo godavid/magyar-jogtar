@@ -234,9 +234,9 @@ adható.
 
 (7)
 
-(8) Az alkalmi foglalkoztatásnak minősülő munkaviszonyt létesített álláskereső személy részére keresetpótló juttatás akkor állapítható meg, ha kötelezettséget vállal arra, hogy az egyszerűsített foglalkoztatását az állami foglalkoztatási szervnek a foglalkoztatást követő legkésőbb harmadik munkanapon bejelenti.
+(8)
 
-(9) Nem folyósítható keresetpótló juttatás azokra a napokra, amelyeken a képzésben részt vevő személy neki felróható okból óralátogatási kötelezettségének nem tett eleget, vagy alkalmi foglalkoztatásnak minősülő jogviszonyban állt.
+(9) Nem folyósítható keresetpótló juttatás azokra a napokra, amelyeken a képzésben részt vevő személy neki felróható okból óralátogatási kötelezettségének nem tett eleget.
 
 (10) A (8) bekezdésben meghatározott ellátást, illetve támogatást – erről szóló külön határozat nélkül – a mulasztás, illetve a munkavégzés napjára járó keresetpótló juttatás összegével csökkentett összegben kell folyósítani.
 
@@ -423,6 +423,8 @@ miatt kerül sor.
 
 (5) Az álláskereső részére a (2) bekezdésben foglalt feltételeknek megfelelő, rövid időtartamú munkalehetőség (ideértve a közhasznú foglalkoztatást, valamint a külön jogszabályban meghatározott közmunkát és a közcélú foglalkoztatást is) felajánlható.
 
+(6) Az álláskeresési járadék folyósításának időtartama alatt folytatott alkalmi foglalkoztatásnak minősülő munkaviszony időtartama az álláskeresési járadék folyósítási idejének kimerítését vagy megszüntetését követően megállapított álláskeresési járadék esetében nem vehető figyelembe jogosultsági időként.
+
 ### Álláskeresési járadék mértéke
 
 26. § (1) Az álláskeresési járadék összegét az álláskeresőnek az álláskeresővé válását megelőző négy naptári negyedévben elért, a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 19. §-ának (3) bekezdésében meghatározott munkaerő-piaci járulék alapja (a továbbiakban: járulékalap) havi átlagos összegének alapulvételével kell kiszámítani.
@@ -488,7 +490,7 @@ időtartamával.
 - a) kéri,
 - b) álláskeresési járadékban részesül, és törlik a nyilvántartásból,
 - c) rokkantsági, baleseti rokkantsági nyugdíjra válik jogosulttá,
-- d) kereső tevékenységet folytat, kivéve a 29. § (1) bekezdésének d) pontjában foglaltakat,
+- d) kereső tevékenységet folytat, kivéve a 29. § (1) bekezdés d) pontjában foglaltakat, valamint az 58. § (5) bekezdés n) pontjában foglalt alkalmi foglalkoztatási jogviszonyban foglalkoztatottakat,
 - e) olyan képzési lehetőséget fogad el, amelynek során a mindenkori kötelező legkisebb munkabér összegét elérő rendszeres támogatásban részesül,
 - f) oktatási intézmény nappali tagozatán folytat tanulmányokat,
 - g) meghalt,
@@ -502,12 +504,12 @@ időtartamával.
 - a) a terhességi gyermekágyi segélyre, gyermekgondozási díjra, illetőleg gyermekgondozási segélyre való jogosultságának megállapítását jelenti be,
 - b) előzetes letartóztatásban van, szabadságvesztés, elzárás büntetését tölti, kivéve ha a szabadságvesztés-büntetést pénzbüntetés átváltoztatása miatt állapították meg,
 - c) a 25. § (5) bekezdésében meghatározott közhasznú munkavégzés alatt,
-- d) rövid időtartamú, legfeljebb kilencven napig tartó kereső tevékenységet folytat, feltéve, hogy bejelentési kötelezettségének [36. § (1) bek.] eleget tett,
+- d) rövid időtartamú, legfeljebb kilencven napig tartó kereső tevékenységet folytat – az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszony kivételével – feltéve, hogy bejelentési kötelezettségének eleget tett.
 - e) a 14. § (6) bekezdésében meghatározott keresetpótló juttatásban részesül.
 
 (2) Ha az álláskeresési járadék folyósítása szünetelésének oka megszűnik, és fennállnak a 25. § (1) bekezdésében meghatározott feltételek, az álláskeresési járadékot a megállapító határozatban meghatározott feltételekkel – figyelemmel a 26. § (9) bekezdésében foglaltakra – tovább kell folyósítani.
 
-(3) Szüneteltetni kell az álláskeresési járadék folyósítását azokra a napokra, amelyeken az álláskeresési járadékban részesülő személy alkalmi foglalkoztatásnak minősülő munkaviszony keretében munkát végzett. Az állami foglalkoztatási szerv ebben az esetben az álláskeresési járadékot – erről szóló külön határozat nélkül – a munkavégzés napjaira járó álláskeresési járadék összegével csökkentett összegben folyósítja.
+(3)
 
 ### Álláskeresési segély
 
@@ -569,7 +571,7 @@ időtartamra folyósítható.
 
 36. § (1) A munkanélküli ellátásban részesülő személy az általa folytatott kereső tevékenységet, valamint az őt foglalkoztató munkaadó nevét, címét és adószámát, adószámmal nem rendelkező magánszemély munkaadó esetében adóazonosító jelét – a (2) bekezdésben foglalt kivétellel – legkésőbb a munkakezdést megelőző napon, a kereső tevékenység megszűnését a megszűnést követő napon köteles az állami foglalkoztatási szervnek bejelenteni.
 
-(2) Az álláskeresési járadékban részesülő személynek az alkalmi foglalkoztatásnak minősülő munkaviszonyát legkésőbb a foglalkoztatást követő harmadik munkanapon be kell jelentenie.
+(2)
 
 (3) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló közösségi rendeletek hatálya alá tartozó álláskereső legalább tizenöt munkanappal a távozást megelőzően köteles bejelenteni az állami foglalkoztatási szervnek, ha munkakeresés céljából az Európai Gazdasági Térség másik tagállamába kíván távozni.
 
@@ -1130,7 +1132,7 @@ is érteni kell.
 - k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű személy esetén 30. életévét — be nem töltött, a munkaviszony létesítéséhez szükséges feltételekkel rendelkező, az állami foglalkoztatási szerv által nyilvántartott álláskereső, feltéve, ha munkanélküli járadékra a tanulmányainak befejezését követően nem szerzett jogosultságot. Nem tekinthető pályakezdő álláskeresőnek, aki 1. terhességi-gyermekágyi segélyben, gyermekgondozási díjban, illetőleg gyermekgondozási segélyben részesül, 2. előzetes letartóztatásban van, szabadságvesztés, illetve elzárás büntetését tölti, 3. sor- vagy tartalékos katonai szolgálatot, továbbá polgári szolgálatot teljesít,
 - l) rövid időtartamú munka: olyan, az állami foglalkoztatási szerv által felajánlott, vagy az álláskereső által megtalált munka, amelynek időtartama összefüggően a 90 napot nem haladja meg,
 - m) megváltozott munkaképességű személy: aki testi vagy szellemi fogyatékos, vagy akinek az orvosi rehabilitációt követően munkavállalási és munkahelymegtartási esélyei testi vagy szellemi károsodása miatt csökkennek. Ettől eltérően a 41/A. § alkalmazása szempontjából a megváltozott munkaképességű személy fogalmát külön jogszabály határozza meg,
-- n) alkalmi foglalkoztatásnak minősülő munkaviszony: az egyszerűsített foglalkoztatásról szóló törvény által szabályozott alkalmi munka,
+- n) alkalmi foglalkoztatásnak minősülő munkaviszony: az egyszerűsített foglalkoztatásról szóló törvény által szabályozott munka,
 - o) közhasznú tevékenység: a közhasznú szervezetekről szóló 1997. évi CLVI. törvény 26. §-ának c) pontjában felsorolt tevékenységek,
 - p) háztartás: az Szt. 4. §-a (1) bekezdésének f) pontjában meghatározott személyek,
 - q) jövedelem: az Szt. 4. §-a (1) bekezdésének a) pontjában meghatározott jövedelem,

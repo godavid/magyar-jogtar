@@ -623,7 +623,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (5) A (3) és (4) bekezdésben foglalt jogkövetkezmények megfelelően alkalmazhatók, ha a fogyasztóvédelemről szóló törvényben szabályozott békéltetőtestületi eljárásban határozattal jóváhagyott egyezség útján rendezett fogyasztói jogvita tárgyában fordul a felek bármelyike utóbb a bírósághoz, kivéve az egyezségben foglaltak nem teljesítése miatt a határozat végrehajtási záradékkal történő ellátása iránt indított eljárást.
 
-(6) A bíróság az ügy összes körülményére figyelemmel pervesztességére tekintet nélkül kötelezheti a jogi személy gazdálkodó szervezet alperest a perben felmerült összes költség vagy egyébként a felperes által viselendő költségek egy részének a viselésére, ha az alperes a 121/A. § (1) bekezdésében meghatározott kötelezettségének indokolatlanul nem tett eleget.
+(6)
 
 81. § (1) Részleges pernyertesség esetében a bíróság a perköltség felől a pernyertesség arányának, valamint az egyes felek által előlegezett költségek összegének figyelembevételével határoz. Ha a pernyertesség és pervesztesség aránya, valamint az előlegezett költségek összege között nincsen számottevő különbség, a bíróság akként rendelkezik, hogy mindegyik fél maga viseli a saját költségét.
 
@@ -1095,24 +1095,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (5) Ha a felperes rendelkezik telefonszámmal, faxszámmal, illetve e-mail címmel, azt a keresetlevélben fel kell tüntetnie.
 
-121/A. § (1) A jogi személy gazdálkodó szervezetek egymás közötti jogvitáiban a keresetlevél benyújtása előtt e feleknek meg kell kísérelniük a jogvita peren kívül elintézését. Evégből a fél a vitás kérdésben elfoglalt jogi és ténybeli álláspontjait ezek bizonyítékainak előadásával, szükség esetén az okirati bizonyítékok csatolásával az ügyben érintett összes féllel írásban részletesen közli, akik arra a kézhezvételtől számított tizenöt nap alatt az összes felvetett jogkérdésre és a teljes tényállásra kiterjedő, az ellenbizonyítékok előadását is tartalmazó részletes írásbeli választ adnak, melyhez az okirati bizonyítékokat szükség esetén csatolni kell. Ez az eljárás mellőzhető, ha a felek a közöttük felmerült véleményeltérésről közös jegyzőkönyvet készítenek.
-
-(2) Ha a felek jogvitájukat peren kívül nem rendezik, és a felperes keresetet indít, a keresetlevélhez csatolnia kell:
-
-- a) az (1) bekezdés alapján a felperes és az alperes által tett írásbeli nyilatkozatokat tartalmazó okiratokat (levelezés, jegyzőkönyv), vagy
-- b) azt az iratot, amellyel a felperes igazolja, hogy a jogvita peren kívüli elintézését megkísérelte.
-
-(3) A (2) bekezdés a) pontjában meghatározott iratoknak tartalmazniuk kell különösen:
-
-- a) a feleknek a jogvitára vonatkozó részletes ténybeli és jogi álláspontját a bizonyítékok megjelölésével;
-- b) azt, hogy az alperes a felperesi követelésre milyen indokok alapján hogyan nyilatkozott;
-- c) azt, hogy a felek az előadott bizonyítékokat miként értékelték;
-- d) az előzetes levélváltás, illetőleg az előzetes tárgyalás (jegyzőkönyvkészítés) során felmerült véleményeltérés adatait;
-- e) az esetleges előzetes elszámolás eredményét; továbbá
-- f) az üggyel kapcsolatos korábbi bírósági vagy más hatósági határozat ügyszámát és tartalmának lényegét; valamint
-- g) a felek és képviselőik rövid úton való elérhetőségeit (telefonszám, telefaxszám, e-mail cím stb.).
-
-(4) E § rendelkezéseit nem kell alkalmazni, ha a keresetindítására jogszabály hatvan napnál nem hosszabb határidőt állapít meg, továbbá a Negyedik Részben meghatározott különleges eljárásokban, valamint a fizetési meghagyásos eljárást követő perben (315. §).
+121/A. §
 
 122. § (1) Marasztalásra irányuló kereseti kérelemnek csak lejárt követelés érvényesítése végett van helye.
 
@@ -1124,7 +1107,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 124. § (1) A bíróság a keresetlevelet nyomban, de legkésőbb a bírósághoz érkezésétől számított harminc napon belül megvizsgálja annak megállapítása érdekében, hogy nem kell-e azt a félnek hiánypótlásra visszaadni (95. §), nincs-e helye az ügy áttételének (129. §), illetőleg a keresetlevél idézés kibocsátása nélküli elutasításának (130. §), és a szükséges intézkedéseket megteszi.
 
-(2) A bíróság a keresetlevelet – hiánypótlási felhívás kiadását mellőzve – idézés kibocsátása nélkül elutasítja, ha a jogi képviselővel eljáró fél keresetlevele nem tartalmazza a 121. § (1) bekezdésében és a 121/A. § (2) bekezdésének a) vagy b) pontjában foglaltakat, illetve, ha a jogi képviselő nem csatolta a meghatalmazását, vagy elmulasztották az eljárási illeték megfizetésére vonatkozó kötelezettség teljesítését.
+(2) A bíróság a keresetlevelet – hiánypótlási felhívás kiadását mellőzve – idézés kibocsátása nélkül elutasítja, ha a jogi képviselővel eljáró fél keresetlevele nem tartalmazza a 121. § (1) bekezdésében foglaltakat, illetve, ha a jogi képviselő nem csatolta a meghatalmazását, vagy elmulasztották az eljárási illeték megfizetésére vonatkozó kötelezettség teljesítését.
 
 (3) Ha az (1)–(2) bekezdésben foglaltak megtételére nincs szükség, illetőleg a fél hiánypótlási kötelezettségének eleget tett és így a keresetlevél alkalmas a tárgyalás kitűzésére, a bíróság az eljárás gyorsabb lefolytatása érdekében további intézkedéseket tehet a tárgyalás előkészítésére. Ilyen intézkedéseknek a tárgyalás kitűzése előtt, valamint az eljárás során szükség esetén bármikor helye van.
 
@@ -1198,7 +1181,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 - f) a felperes követelése időelőtti, vagy – az elévülés esetét ide nem értve – bírói úton nem érvényesíthető;
 - g) a pert nem a jogszabályban erre feljogosított személy indítja, vagy a per csak jogszabályban meghatározott személy ellen indítható, illetve meghatározott személyek perben állása kötelező, s a felperes e személyt (személyeket) – felhívás ellenére – nem vonta perbe;
 - h) külön jogszabály a keresetindításra határidőt állapít meg, ezt a felperes elmulasztja, és igazolási kérelmet sem terjeszt elő, vagy azt a bíróság elutasítja;
-- i) a jogi képviselő által benyújtott keresetlevél nem tartalmazza a 121. § (1) bekezdésében és a 121/A. § (2) bekezdésének a) vagy b) pontjában foglaltakat, illetve ha a jogi képviselő nem csatolta a meghatalmazását, vagy nem fizették meg az eljárási illetéket;
+- i) a jogi képviselő által benyújtott keresetlevél nem tartalmazza a 121. § (1) bekezdésében foglaltakat, illetve ha a jogi képviselő nem csatolta a meghatalmazását, vagy nem fizették meg az eljárási illetéket;
 - j) a felperes a hiánypótlás végett (95. §) neki visszaadott keresetlevelet a kitűzött határidő alatt nem adta be, vagy újból hiányosan adta be, és emiatt a keresetlevél nem bírálható el.
 
 (2) A keresetlevelet elutasító végzést kézbesíteni kell a feleknek, és az alperes példányához csatolni kell a keresetlevél másolatát is.
@@ -3555,6 +3538,7 @@ alapított igény érvényesítése.
 - i) a 185. § szerinti elővezetés végrehajtásával felmerült költség mértékét, valamint megtérítésének részletes szabályait az államháztartásért felelős miniszterrel egyetértésben;
 - j) a munkavállalói költségkedvezmény vonatkozásában a 359/A. §-ban meghatározott mértéket, valamint a költségkedvezmény érvényesítésének eljárási szabályait az államháztartásért felelős miniszterrel, valamint a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg,
 - j) a polgári peres eljárás elektronikus beadványai formanyomtatványának tartalmát – az informatikáért felelős miniszterrel egyetértésben – rendeletben szabályozza,
+- k) a polgári perben alkalmazható videókonferencia technikai szabályait – az informatikáért felelős miniszterrel egyetértésben – rendeletben szabályozza.
 - l) a polgári peres eljárás elektronikus beadványai űrlapjának adatait, tartalmi és formai kellékeit, valamint az űrlaphoz csatolható mellékleteket rendeletben szabályozza.
 
 (5)

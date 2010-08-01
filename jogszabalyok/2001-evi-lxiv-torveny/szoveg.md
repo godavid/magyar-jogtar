@@ -168,7 +168,7 @@ a következő törvényt alkotja:
 
 20. § (1) Régészeti feltárás – amennyiben a jogszabály másképpen nem rendelkezik – feltárási engedély alapján végezhető. Az engedélyt a hatóság adja ki. A hatóság régészeti örökségvédelmi indokok alapján az engedélyt fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
 
-(2) Régészeti feltárás végzésére a külön jogszabályban megjelölt intézmények és szakemberek jogosultak.
+(2) Régészeti feltárást a területileg illetékes megyei múzeum (a fővárosban a Budapesti Történeti Múzeum), valamint a Magyar Nemzeti Múzeum és más régészeti gyűjtőkörrel rendelkező múzeum, a régészeti tanszékkel rendelkező egyetemek és a Magyar Tudományos Akadémia Régészeti Intézete végezhetnek. Az ország területén lévő régészeti lelőhely tudományos terv szerinti komplex feltárására a Magyar Nemzeti Múzeumnak elsőbbsége van.
 
 (3) A hatóság a régészeti feltárásra vonatkozó engedélyét visszavonja, ha a jogszabályi és a feltárási engedélyben foglalt előírásokat megszegik.
 
@@ -184,7 +184,7 @@ a következő törvényt alkotja:
 
 (2) A megelőző feltárás részeként a régészeti lelőhelyen – a hatóság eltérő rendelkezésének hiányában – próbafeltárást kell végezni. A régészeti érintettség mértékétől függően – külön jogszabályban meghatározott feltételek fennállása esetén – a hatóság régészeti megfigyelést írhat elő.
 
-(3) A feltárás végzésére jogosult és a beruházó a megelőző feltárásra vonatkozóan írásbeli szerződést köt. A szerződésnek tartalmaznia kell a feltárás időtartamát és annak teljes költségét. A szerződés érvényességéhez a hatóság jóváhagyása szükséges. A szerződés jóváhagyására irányuló eljárásra a feltárási engedélyezés szabályait kell megfelelően alkalmazni. A feltárás engedélyezése egyben a szerződés jóváhagyását is jelenti. A szerződésre egyebekben a polgári jog szabályai az irányadóak.
+(3) A területileg illetékes megyei múzeum (a fővárosban a Budapesti Történeti Múzeum) és a beruházó a megelőző feltárásra vonatkozóan írásbeli szerződést köt. A feladatellátásba a területileg illetékes megyei múzeum a gyűjtőterületében érintett, megyei múzeumi szervezethez nem tartozó területi múzeumot kötelezően bevonja. A szerződésnek tartalmaznia kell a feltárás időtartamát és annak teljes költségét. A szerződés érvényességéhez a hatóság jóváhagyása szükséges. A szerződés jóváhagyására irányuló eljárásra a feltárási engedélyezés szabályait kell megfelelően alkalmazni. A feltárás engedélyezése egyben a szerződés jóváhagyását is jelenti. A szerződésre egyebekben a polgári jog szabályai az irányadóak.
 
 23. § (1) A fejlesztések, beruházások tervezése során a megelőző feltárás teljes költségét, de legalább a teljes bekerülési költség 9 ezrelékét kell költségelőirányzatként biztosítani a feltárás fedezetére, így különösen a régészeti hatástanulmány, próbafeltárás, régészeti megfigyelés, dokumentálás, elsődleges leletkonzerválás, valamint az elsődleges leletfeldolgozás teljes és a leletelhelyezés rendkívüli költségeit. A feltárást végző intézmény köteles a tényleges felhasználásról elszámolni.
 
@@ -886,7 +886,7 @@ kulturális javakat.
 | 36. | Andrássy út 71. | Képzőművészeti Főiskola | 29500, 29501, 29502 |
 | 37. | Bajza u. 41. | régi pesti Kálvária | 28345 |
 | 38. | Liszt Ferenc tér 8. | Liszt Ferenc Zeneművészeti Főiskola | 29406 |
-| 39. | Teréz körút 51–53. | Nyugati pályaudvar felvételi épülete | 28224/9 |
+| 39. | Teréz körút 51–53. | Nyugati pályaudvar felvételi épülete | 28224/51 |
 
 #### VIII. kerület
 

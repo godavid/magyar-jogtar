@@ -45,7 +45,7 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 - b) tanulmányait befejezte vagy megszakította, és
 - c) a tanulmányainak befejezését követően első ízben létesít foglalkoztatásra irányuló jogviszonyt vagy ösztöndíjas foglalkoztatási jogviszonyt, és e jogviszony létesítését megelőzően megbízási szerződés, vállalkozási szerződés alapján vagy egyéni vállalkozóként sem végzett munkát.
 
-(3) A (2) bekezdés c) pontjában a foglalkoztatásra irányuló jogviszony első ízben történő létesítésének megítélése szempontjából figyelmen kívül kell hagyni a tanulói és a hallgatói jogviszony mellett fennálló, illetve az iskolai szünet időtartama alatt létesített foglalkoztatásra irányuló jogviszonyokat, továbbá a tanulói és a hallgatói jogviszony megszűnése után alkalmi munkavállalói könyvvel létesített jogviszonyt.
+(3) A (2) bekezdés c) pontjában a foglalkoztatásra irányuló jogviszony első ízben történő létesítésének megítélése szempontjából figyelmen kívül kell hagyni a tanulói és a hallgatói jogviszony mellett fennálló, illetve az iskolai szünet időtartama alatt létesített foglalkoztatásra irányuló jogviszonyokat, továbbá a tanulói és a hallgatói jogviszony megszűnése után alkalmi munkavállalói könyvvel, valamint 2010. április 1-jét követően az egyszerűsített foglalkoztatás körébe tartozó alkalmi munkára létesített jogviszonyt.
 
 (4) START-kártya kiváltására egy alkalommal van lehetőség, ide nem értve a START-kártya elvesztése és megsemmisülése miatti új igénylését, valamint megrongálódása miatti cseréjét.
 
