@@ -765,7 +765,7 @@ Az Országgyűlés a Magyar Köztársaság 2010. évi költségvetéséről az �
 
 84. § (1) Az üzemben tartási díjnak a rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: média tv.) 79. §-ának (2) bekezdése szerint megállapított összege a 2010. évre havi 967 forint.
 
-(2) Az Országgyűlés felhatalmazza a Kormányt, hogy a média tv. 79. §-ának (1) bekezdése szerinti üzemben tartási díj 2010-re esedékes összegének megfizetését – a média tv. 80. §-ának (3) bekezdése szerinti fizetési kötelezettség összege 60%-ának kivételével – átvállalja.
+(2) Az Országgyűlés felhatalmazza a Kormányt, hogy a média tv. 79. §-ának (1) bekezdése és 80. §-ának (3) bekezdése szerinti üzemben tartási díj 2010-re esedékes összegének megfizetését átvállalja.
 
 (3) A Kormány – figyelemmel a média tv. 148. §-ának (1) bekezdésében foglaltakra – az esedékes üzemben tartási díjat az APEH – mint a média tv. 82/A. § szerinti megbízott – közreműködésével az átvállalással nem érintett üzemben tartási díj megfizetésére kötelezettektől beszedi és továbbítja a Műsorszolgáltatási Alapba. Az általa beszedett díjbevétel terhére az APEH 10% beszedési költséget számolhat el.
 

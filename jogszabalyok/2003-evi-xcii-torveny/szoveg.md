@@ -728,6 +728,8 @@ a munkáltató a feltárt adókülönbözetet a feltárás időpontjában nyilv�
 
 (14) Az adóbevallást, illetőleg az adóbevallással egyenértékű nyilatkozatot adótanácsadó, adószakértő, okleveles adószakértő ellenjegyezheti. Az ellenjegyzett hibás adóbevallás, illetőleg adóbevallással egyenértékű nyilatkozat esetén a mulasztási bírságot az adóhatóság az adótanácsadó, adószakértő, okleveles adószakértő terhére állapítja meg.
 
+(15) Az a munkáltató, amely (aki) a tárgyhóban az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerint foglalkoztat munkavállalót, a 31. § (2) bekezdése szerinti adatokból kizárólag a következő adatok megadására köteles: a munkáltató adóazonosító száma, a magánszemély neve, adóazonosító jele, a magánszemély nyugdíjas státusza, a magánnyugdíjpénztár azonosító kódja, valamint a 27. pont szerinti adatok.
+
 ### A helyi adók bevallása
 
 32. § (1) A vállalkozók kommunális adójáról és a helyi iparűzési adóról az adóévet követő év május 31-éig kell bevallást tenni. Az adózónak a helyi iparűzési adóelőlegkiegészítés összegéről az önkormányzati adóhatóság által rendszeresített nyomtatványon a tárgyév utolsó hónapjának 20. napjáig kell bevallást tennie. Az ideiglenes jelleggel végzett iparűzési tevékenység után fizetendő iparűzési adóról – a megfizetés határidejével egyezően – a tevékenység befejezésének napját követő hónap 15. napjáig kell bevallást tenni.
