@@ -67,15 +67,17 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányáról szóló, többször 
 
 (3) A volt köztársasági elnök halála esetén az özvegyének járó hozzátartozói nyugellátás megállapítása szempontjából az (1) bekezdés szerinti juttatást kell a volt köztársasági elnök öregségi nyugdíjaként figyelembe venni.
 
-15. § (1) A volt köztársasági elnököt – kérelmére – ha e tisztségét legalább két éven át betöltötte, megfelelő lakáshasználati jog illeti meg. E jogosultság a köztársasági elnök, illetve a volt köztársasági elnök halála esetén az özvegyét is megilleti.
+15. § (1) A volt köztársasági elnököt – kérelmére – ha ötéves hivatali idejét végig kitöltötte, megfelelő lakáshasználati jog illeti meg. E jogosultság a köztársasági elnök, illetve a volt köztársasági elnök halála esetén az özvegyét is megilleti.
 
-(2) Az (1) bekezdésben említett lakást – amelyhez legalább három lakószoba tartozik – a Hivatal biztosítja.
+(2) Az (1) bekezdésben említett, a tisztséghez méltó lakást és annak fenntartását a Hivatal biztosítja.
 
-16. § (1) A volt köztársasági elnököt a megbízatása megszűnését követően annyi ideig, ameddig e tisztségét betöltötte, évi harmincezer km keretig személyes gépkocsihasználat illeti meg.
+(3) Amennyiben a volt köztársasági elnök közjogi tisztsége megszűnése jogcímén már lakáshasználati jogot szerzett, csak egy lakásra vonatkozó lakáshasználati jog illeti meg, saját választása szerint.
+
+16. § (1) A volt köztársasági elnököt – ha ötéves hivatali idejét végig kitöltötte – megbízatása megszűnését követően személyes gépkocsi használat illeti meg.
 
 (2) A személyes gépkocsihasználathoz a megfelelő színvonalú személygépkocsit és a gépjárművezetőt a rendőrség biztosítja.
 
-17. § (1) A volt köztársasági elnököt a megbízatása megszűnését követően annak az időtartamnak a felére, ameddig e tisztségét betöltötte – a Kormány által meghatározott helyen – két fős titkárság alkalmazása illeti meg.
+17. § (1) A volt köztársasági elnököt – ha ötéves hivatali idejét végig kitöltötte – a megbízatása megszűnését követően – a Kormány által meghatározott helyen – kétfős titkárság alkalmazása illeti meg.
 
 (2) A titkárság alkalmazásának személyi és dologi feltételeit a Hivatal biztosítja.
 
@@ -95,7 +97,12 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányáról szóló, többször 
 
 (2) Amennyiben a miniszterelnök megbízatása az (1) bekezdésben megjelölt okokból két évnél hamarabb szűnt meg, de legalább egy évig a tisztségét betöltötte, akkor az (1) bekezdésben megjelölt juttatás 50%-ára jogosult.
 
-22. § A volt miniszterelnök az e törvény 16. §-a szerinti gépkocsihasználatra, 17. §-a szerinti titkárság alkalmazására, továbbá 18. §-a szerinti, a megszűnt tisztségére utaló elnevezés használatára, valamint kérelmére – ha a reá irányadó öregségi nyugdíjkorhatárt betöltötte – a 14. § szerinti juttatásra jogosult.
+22. § (1) A volt miniszterelnök a megszűnt tisztségére utaló elnevezés használatára, valamint kérelmére – ha a reá irányadó öregségi nyugdíjkorhatárt betöltötte – a 14. § szerinti juttatásra jogosult.
+
+(2) A volt miniszterelnök
+
+- a) a 16. §-ban meghatározottak szerint személyes gépkocsi használatra a megbízatása megszűnését követően annyi ideig jogosult, ameddig e tisztségét betöltötte,
+- b) a 17. §-ban meghatározottak szerinti titkárság alkalmazására a megbízatása megszűnését követően annak az időtartamnak a felére jogosult, ameddig e tisztségét betöltötte.
 
 23. § A volt miniszterelnököt nem illetik meg az e törvény szerinti juttatások, ha megbízatása az Alkotmány 33/A. §-ának d) vagy e) pontja alapján szűnt meg.
 
@@ -139,9 +146,13 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányáról szóló, többször 
 
 ### Közös szabályok
 
-27. § (1) Az e törvény hatálya alá tartozó közjogi tisztségviselőt megillető juttatások igénybevételével kapcsolatban felmerült költségeket – e törvény eltérő rendelkezése hiányában – a központi költségvetésnek az adott tisztségviselő hivatali szervezetét tartalmazó fejezete fedezi.
+27. § (1) Az e törvény hatálya alá tartozó közjogi tisztségviselőt és volt közjogi tisztségviselőt megillető juttatások igénybevételével kapcsolatban felmerült költségeket – e törvény eltérő rendelkezése hiányában – a központi költségvetésnek az adott közjogi tisztségviselő hivatali szervezetét tartalmazó fejezete fedezi.
 
-(2) Az e törvény hatálya alá tartozó közjogi tisztségviselő köteles a részére járó juttatások igénybevételéhez szükséges adatokat – ideértve az adatok megváltozását is – haladéktalanul közölni az érintett szervvel. Az érintett a jogalap nélkül felvett juttatást az erre irányuló felhívás kézhezvételétől számított 15 napon belül köteles visszafizetni.
+(2) Az (1) bekezdéstől eltérően a Magyar Köztársaság költségvetéséről szóló törvényben a Köztársasági Elnökség című fejezeten belül kell meghatározni azt az éves keretösszeget, amely a volt köztársasági elnök juttatásainak fedezetéül szolgál.
+
+[(3) A volt köztársasági elnök – ha ötéves hivatali idejét végig kitöltötte – a közéletben történő részvétele, közcélú felajánlásai, adományai, vállalásai költségeinek fedezetéül a Magyar Köztársaság költségvetéséről szóló törvényben a Köztársasági Elnökség című fejezeten belül, külön soron tervezett előirányzat szolgál, amely felett a volt köztársasági elnök rendelkezik. Az előirányzatból a közhasznú szervezetekről szóló törvényben meghatározott közvetlen politikai tevékenységet folytató, illetve pártnak anyagi támogatást nyújtó szervezet nem támogatható. A Köztársasági Elnöki Hivatal a honlapján a kötelezettségvállalástól számított tizenöt napon belül közzéteszi az előirányzatból nyújtott támogatás kedvezményezettjét, a támogatás célját és összegét.]
+
+(4) Az e törvény hatálya alá tartozó közjogi tisztségviselő és volt közjogi tisztségviselő köteles a részére járó juttatások igénybevételéhez szükséges adatokat – ideértve az adatok megváltozását is – haladéktalanul közölni az érintett szervvel. A jogalap nélkül felvett juttatást az erre irányuló felhívás kézhezvételétől számított 15 napon belül kell visszafizetni.
 
 28. § (1) Ez a törvény a kihirdetését követő nyolcadik napon lép hatályba, egyidejűleg a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) 45. §-a (1) bekezdésének a) pontjából a ,,miniszterelnök és'' szövegrész, 46. §-a (2) bekezdésének a) pontja, a köztársasági elnök tiszteletdíjáról szóló 1992. évi XXXVI. törvény, a Kormány tagjai és az államtitkárok jogállásáról és felelősségéről szóló 1997. évi LXXIX. törvény (a továbbiakban: Kátv.) 44–48. §-ai és 53. §-ának (3) bekezdése, továbbá (6) bekezdése, a bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény (a továbbiakban: Bjt.) 3. számú mellékletének 1. pontja, továbbá a köztársasági elnök és a Kormány tagjai megbízatásának megszűnésével kapcsolatos egyes kérdések átmeneti rendezéséről szóló 98/1994. (VI. 24.) Korm. rendelet a hatályát veszti.
 
