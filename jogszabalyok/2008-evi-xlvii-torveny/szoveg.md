@@ -403,7 +403,7 @@ az e rendelkezések hatálybalépését követően indított eljárásokban kell
 
 (2)
 
-(3) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a fogyasztóvédelmi hatóság, a Pénzügyi Szervezetek Állami Felügyelete, a Gazdasági Versenyhivatal és a Nemzeti Hírközlési Hatóság feladatkörében és eljárásában:
+(3) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a fogyasztóvédelmi hatóság, a Pénzügyi Szervezetek Állami Felügyelete, a Gazdasági Versenyhivatal és a Nemzeti Média- és Hírközlési Hatóság feladatkörében és eljárásában:
 
 - a) az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről, 4. cikk (1) bekezdés, (6) bekezdés e) pont, és melléklet 16. pont [a 27. § (3) bek., a 28. § (1) bek., a 30. § (20) bek., a 31. § (1) bek., a 41. § (16) bek.],
 - b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról [a 28. § (2) bek.],

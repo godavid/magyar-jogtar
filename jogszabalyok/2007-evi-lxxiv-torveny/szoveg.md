@@ -34,7 +34,7 @@ Az Országgyűlés a Digitális Átállás Stratégia végrehajtása, az inform�
 
 4. § (1) Az e törvényben nem szabályozott kérdésekben az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) rendelkezéseit kell alkalmazni.
 
-(2) A Nemzeti Hírközlési Hatóság (a továbbiakban: a Hatóság) az e törvényben foglalt piaci felügyelettel és piaci szabályozással kapcsolatos eljárásokban e törvényben és az Eht.-ban foglalt eltérésekkel a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezései szerint jár el.
+(2) A Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: a Hatóság) az e törvényben foglalt piaci felügyelettel és piaci szabályozással kapcsolatos eljárásokban e törvényben és az Eht.-ban foglalt eltérésekkel a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezései szerint jár el.
 
 (3) Az e törvényben foglalt jogviszonyokra a rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: Rttv.) rendelkezései e törvény kifejezett rendelkezése esetén alkalmazhatók.
 
@@ -647,131 +647,11 @@ szolgáló műsorszolgáltató gazdaságilag és műszakilag indokolt szerződé
 - c) az Rttv. 114/A. §-a,
 - d) az Rttv. 115. §-ának (1), (2), (7) és (9) bekezdése, 116. §-ának (1), (4) és (5) bekezdése, 117. §-ának (1)–(3) bekezdése, 118. §-ának (2) bekezdése és 121. §-a.
 
-(5) Hatályát veszti a mozgóképről szóló 2004. évi II. törvény módosításáról szóló 2006. évi XLV. törvény 23. § (2) bekezdése.
+(5)
 
-### Átmeneti rendelkezések
+48. §
 
-48. § (1) E törvény hatálybalépését követő 30 napon belül a Testület a műsorelosztói nyilvántartást átadja a Hatóságnak. A Hatóság e szolgáltatókat a műsorterjesztői nyilvántartásba felveszi.
-
-(2) E törvény hatálybalépésekor a Hatóság nyilvántartásában az Eht. 76. § szerinti bejelentés alapján már szereplő és szolgáltatást nyújtó műsorterjesztő szolgáltatónak e törvény 6. §-a (2)–(4) bekezdéseiben foglalt adatszolgáltatási kötelezettséget e törvény hatálybalépésétől számított 30. napig kell teljesítenie.
-
-(3) A Testület nyilvántartásában szereplő, de a Hatóságnál nem bejelentett szolgáltatónak az Eht. 76. §-a szerinti bejelentést e törvény 6. §-a (2)–(4) bekezdésében meghatározott adattartalommal kiegészítve e törvény hatálybalépésétől számított 30. napig kell megtennie.
-
-### Módosuló jogszabályok
-
-49. § (1) Az Eht. 33. §-ának (2) bekezdése a következő g) és h) ponttal egészül ki:
-
-„g) műsorterjesztéssel kapcsolatos elektronikus hírközlési szabály megsértése esetén a jogsértő árbevételének 5%-a,
-
-h) rádiófrekvencia, illetve azonosító engedély nélküli használata esetén a jogsértő árbevételének 1%-a, árbevétel hiányában legalább 10 000 Ft, legfeljebb 100 000 Ft.”
-
-(2) Az Eht. 33. §-ának (3) bekezdése a következő c) ponttal egészül ki:
-
-„c) műsorterjesztéssel kapcsolatos adatszolgáltatási eljárásban az árbevételének 1%-a, de legalább 100 000 Ft összegű”
-
-(3) Az Eht. 69. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A műsorszórásra felosztott frekvenciák frekvenciahasználati jogosultságával, kijelölésével és rádióengedélyével kapcsolatos részletes szabályokat külön jogszabály tartalmazza.”
-
-(4) Az Eht. 89. §-ának helyébe a következő rendelkezés lép:
-
-89. § „(1) A multiplex technikai szolgáltató a szolgáltatást ésszerű és tisztességes feltételek mellett, az egyenlő elbánás elvének megfelelően köteles biztosítani.
-
-(2) Amennyiben a felek közt a szerződés az ajánlattételtől számított harminc napon belül nem jön létre, a jogvita rendezése érdekében bármely fél az Eht. 49–51. §-a szerinti eljárást kezdeményezheti. A hatóság a szerződés tartalmát – a piaci viszonyoknak megfelelően – megállapíthatja.”
-
-(5) Az Eht. 94. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az elektronikus hírközlési építményt elsősorban közterületen vagy meglévő elektronikus hírközlési építmények közös eszközhasználatával, illetőleg más közüzemi szolgáltató létesítményeinek felhasználásával kell elhelyezni.”
-
-(6) Az Eht. 95. § helyébe a következő rendelkezés lép:
-
-95. § „(1) Ha a nyilvánosan elérhető elektronikus hírközlési szolgáltatás érdekében az elektronikus hírközlési építmény elhelyezésére közterületen, vagy meglévő elektronikus hírközlési építmények közös eszközhasználatával nincs lehetőség, és a közüzemi szolgáltató, vagy a magántulajdonban álló ingatlan tulajdonosa (kezelője, használója) és a szolgáltató között megállapodás nem jött létre, az elektronikus hírközlési építmény e § szerinti eljárásban elsősorban a közüzemi szolgáltató létesítményén, illetve másodsorban magántulajdonban álló ingatlanon (érintett ingatlan) is elhelyezhető.
-
-(2) A hatóság a szolgáltató kérelmére szolgalmi vagy más használati jogot alapító határozatával az érintett ingatlan tulajdonosát – a nyilvánosan elérhető elektronikus hírközlési szolgáltatásokban megtestesülő közérdekből – korlátozhatja az ingatlan használatában, ha a szolgáltató bizonyítja, hogy
-
-a) az érintett ingatlan tulajdonosával való megállapodás érdekében minden tőle elvárhatót megtett,
-
-b) az elektronikus hírközlési építmény elhelyezésére közterületen, vagy meglévő elektronikus hírközlési építmények közös eszközhasználatával, illetőleg magántulajdon esetén más közüzemi szolgáltató létesítményeinek felhasználásával környezetvédelmi, közegészségügyi, közbiztonsági, építésügyi okok, illetve az elektronikus hírközlő hálózat sajátosságai miatt nincs lehetőség.
-
-(3) A (2) bekezdés szerinti kérelem az elektronikus hírközlési építmény létesítésére vonatkozó engedélyezési eljárásban is elbírálható.
-
-(4) Az eljárás megindításáról a hatóság az érintett ingatlan tulajdonosát értesíti.
-
-(5) A hatósági határozatban meg kell határozni:
-
-a) a korlátozás mely nyilvánosan elérhető elektronikus hírközlési szolgáltatás érdekében történik,
-
-b) szolgalmi vagy más használati jog tartalmát, így különösen az elektronikus hírközlési szolgáltató erre felhatalmazott képviselője belépési jogát az érintett ingatlan területére az elektronikus hírközlési építmény és berendezések ellenőrzése, karbantartása és a szükséges hibaelhárítás céljából,
-
-c) az elektronikus hírközlési építmény elhelyezésének helyét és módját,
-
-d) az elektronikus hírközlési építményen elhelyezhető elektronikus hírközlési berendezések műszaki jellemzőit, és a rá vonatkozó környezetvédelmi, közegészségügyi, közbiztonsági és építésügyi jogszabályok által megszabott határértékeket.”
-
-(7) Az Eht. 96. §-ának helyébe a következő rendelkezés lép:
-
-96. § „(1) Az állami tulajdonban álló közterület és a közös eszközhasználattal érintett elektronikus hírközlési építmény tulajdonosa kivételével az érintett ingatlan tulajdonosát a korlátozás mértékének megfelelő kártalanítás illeti meg. A tulajdonos ezen felül a Ptk. 108. §-ának (2) bekezdésében meghatározott jogokat érvényesítheti.
-
-(2) Az elektronikus hírközlési építményt elhelyező szolgáltató az építési munkálatok befejeztével a környezet eredeti állapotának megfelelő helyreállítására köteles. Az elektronikus hírközlési építmény elhelyezéséhez használt más közüzemi létesítmény, magánterület, illetve önkormányzati tulajdonban lévő közterület tulajdonosa megállapodhat az építtetővel, hogy a helyreállítás az eredetinél jobb minőségben történjen.
-
-(3) Az elektronikus hírközlési építményt az érintett ingatlanon úgy kell elhelyezni, hogy az a szomszédos ingatlanok tulajdonosait a jogaik gyakorlásában a környezetvédelmi, közegészségügyi, közbiztonsági és építésügyi jogszabályok által megszabott határértékeken belül – a körülmények által lehetővé tett – legkisebb mértékben zavarja, ez a létesítmény elhelyezése és működtetése során bekövetkező zavarás nem minősül a Ptk.-ban meghatározott szükségtelen zavarásnak.”
-
-(8) Az Eht. 33. § (2) bekezdésének c) pontjában a „fizetendő” szövegrész helyébe a „jogsértéssel érintett éves” szöveg, a 33. § (7) bekezdés második fordulatában az „árbevétel” szövegrész helyébe az „árbevétel vagy árbevétel közlésének” szöveg, a 69. §-ának (2) bekezdése második fordulatában a „frekvenciahasználati joggal” szövegrész helyébe a „frekvenciahasználati joggal, illetve jogosultsággal” szöveg, 69. §-ának (3) bekezdése második fordulatában a „frekvenciák” szövegrész helyébe a „jogosultságok” szöveg, 188. §-ának 23. pontjában az „előfizető” szövegrész helyébe „előfizető, vagy felhasználó” szöveg, a 188. §-ának 56. pontjában az „elektronikus hírközlési szolgáltató” szövegrész helyébe az „elektronikus hírközlési szolgáltató vagy vállalkozás” szöveg lép.
-
-50. § Az Eht. 187. §-a és az azt megelőző cím helyébe a következő cím és rendelkezés lép:
-
-„
-
-Az Európai Unió jogának való megfelelés”
-
-187. § „E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
-
-a) az Európai Parlament és a Tanács 2000. december 18-i 2887/2000/EK rendelete a helyi hurok átengedéséről,
-
-b) az Európai Parlament és a Tanács 1999. március 9-i 1999/5/EK irányelve a rádióberendezésekről és a távközlő végberendezésekről, valamint megfelelőségük kölcsönös elismeréséről, 3. és 4. cikke, valamint 7. cikkének 4. bekezdése,
-
-c) az Európai Parlament és a Tanács 2002. március 7-i 2002/19/EK irányelve az elektronikus hírközlő hálózatokhoz és kapcsolódó berendezésekhez való hozzáférésről és azok összekapcsolásáról (hozzáférési irányelv),
-
-d) az Európai Parlament és a Tanács 2002. március 7-i 2002/20/EK irányelve az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások engedélyezéséről (engedélyezési irányelv),
-
-e) az Európai Parlament és a Tanács 2002. március 7-i 2002/21/EK irányelve az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról (keretirányelv),
-
-f) az Európai Parlament és a Tanács 2002. március 7-i 2002/22/EK irányelve az egyetemes szolgáltatásról és az elektronikus hírközlő hálózatokhoz és elektronikus hírközlési szolgáltatásokhoz kapcsolódó felhasználói jogokról (egyetemes szolgáltatási irányelv),
-
-g) az Európai Parlament és a Tanács 2002. július 12-i 2002/58/EK irányelve a személyes adatoknak az elektronikus hírközlési ágazatban történő feldolgozásáról és magánjellegének védelméről (az adatvédelemről és az elektronikus hírközlésről szóló irányelv),
-
-h) az Európai Bizottság 2002. szeptember 16-i 2002/77/EK irányelve az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások piacának versenyéről.”
-
-51. § (1) Az Eht. 188. §-a a következő 5/a. ponttal egészül ki:
-
-„5/a. Átviteli rendszer: a televízió vagy rádió műsorjeleknek az analóg vagy digitális műsorterjesztését szolgáló műszaki eljárások, elektronikus hírközlési és más eszközök rendszere, amely a műsorterjesztés alkalmazott átviteli közegéhez – így különösen a levegőhöz és rádiófrekvenciához, koaxiális vezetékhez, sodrott érpárú vezetékhez, üvegszálas vezetékhez – kapcsolódik.”
-
-(2) Az Eht. 188. §-ának 73–75. pontja helyébe a következő rendelkezés lép:
-
-„73. Multiplex technikai szolgáltató: az olyan elektronikus hírközlési szolgáltató, amely a hozzá eljuttatott rádió- és televízióműsorokból, illetve más adatjelekből egyetlen szabványos digitális jelfolyamot állít elő, és ezt digitális műsorterjesztéssel továbbítja, vagy továbbíttatja.
-
-74. Műsorelosztás: olyan műsorterjesztés, amely során az előfizető, vagy felhasználó elektronikus hírközlő végberendezése meghatározott földrajzi helyen csatlakozik a műsorterjesztő átviteli rendszerhez.
-
-75. Műsorszórás: olyan műsorterjesztés, amelynek során analóg vagy digitális rádió-, illetve televízióműsorokat a földfelszínen telepített – az elsődlegesen műholdas szolgálatra rendelt frekvenciák kivételével – rádiófrekvenciát használó, általában egyirányú adatátvitelt lehetővé tevő átviteli rendszerrel továbbítják az előfizetőhöz, vagy felhasználóhoz; műsorszórásnak minősül a digitális műsorszóró hálózat vagy műsorszóró adó segítségével végzett műsorterjesztés is;”
-
-(3) Az Eht. 188. §-ának 77. pontja helyébe a következő rendelkezés lép:
-
-„77. Műsorterjesztés: az 5/a. pont szerinti bármely átviteli rendszerrel megvalósuló elektronikus hírközlési szolgáltatás, amelynek során a műsorszolgáltató által előállított analóg vagy digitális műsorszolgáltatási jeleket a műsorszolgáltatótól az előfizető, vagy felhasználó vevőkészülékéhez továbbítják, függetlenül az alkalmazott átviteli rendszertől, és technológiától. Műsorterjesztésnek minősül különösen a műsorszórás, a műholddal végzett műsorterjesztés, a hibrid üvegszálas-koaxiális átviteli rendszeren végzett műsorterjesztés, emellett a műsor Internet Protokoll segítségével történő továbbítása valamely átviteli rendszeren, ha a szolgáltatás jellege, illetve feltételei megegyeznek a műsorterjesztéssel, illetve ez helyettesíti a más módon megvalósított műsorterjesztést. Műsorterjesztésnek minősül az olyan műsorterjesztés is, amelyhez az előfizető külön díj ellenében, vagy más elektronikus hírközlési szolgáltatás díjával csomagban értékesített díj ellenében férhet hozzá. A tíznél kevesebb vevőkészülék csatlakoztatására alkalmas átviteli rendszer segítségével történő jeltovábbítás nem minősül műsorterjesztésnek.”
-
-(4) Az Eht. 188. §-a a következő 110. ponttal egészül ki, egyben a jelenlegi 110. pont számozása 111. pontra változik:
-
-[E törvény alkalmazásában:]
-
-„110. Vállalkozás: Az a természetes és a jogi személy, valamint a jogi személyiség nélküli gazdasági társaság – ideértve a külföldi székhelyű vállalkozás magyarországi fióktelepét is – amelynek a Magyar Köztársaság területén tanúsított, vagy hatásaiban itt érvényesülő piaci magatartása részben vagy egészben a Magyar Köztársaság területén nyújtott elektronikus hírközlési szolgáltatáshoz kapcsolódik.”
-
-52. § (1) Az Rttv. 2. § 26. pontja helyébe a következő rendelkezés lép:
-
-„26. Műsorelosztó rendszer: olyan külön törvényben meghatározott átviteli rendszer, amelyen keresztül egyidejűleg legalább öt műsorszolgáltatás műsorterjesztése végezhető.”
-
-(2) Az Rttv. 2. § 32. pontja helyébe a következő rendelkezés lép:
-
-„32. Műsorszórás: a külön törvényben meghatározott műsorszórás analóg műsorterjesztési műszaki eljárással végezett változata.”
-
-(3) Az Rttv. 77. § (2) bekezdésében az „e törvényben” szövegrész helyébe a „törvényben” szöveg, 131. §-ának (3) bekezdésében a „műsorszórás valamint műsorszolgáltatások elosztására szolgáló kábelhálózatok fejlesztésére” szövegrész helyébe az „a digitális műsorterjesztés fejlesztésére és a digitális átállás költségeire” szöveg lép.
+49–52. §
 
 ### Felhatalmazás
 

@@ -107,7 +107,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (5) A (4) bekezdés szerinti felelősségvállalás úgy is történhet, hogy a belföldi hitelesítés-szolgáltató tanúsítványt bocsát a külföldi hitelesítés-szolgáltató rendelkezésére (a továbbiakban: felülhitelesítés), melyet a külföldi hitelesítés-szolgáltató a saját maga által kibocsátott tanúsítványhoz csatolhat.
 
-(6) A hitelesítés-szolgáltató a felelősségvállalást, illetőleg felülhitelesítést haladéktalanul köteles bejelenteni a Nemzeti Hírközlési Hatóságnak (a továbbiakban: Hatóság), amely jegyzéket tesz közzé a felelősségvállalások tényéről, módjáról, korlátairól és az azokkal érintett külföldi hitelesítés-szolgáltatókról, valamint arról, hogy a felelősséget vállaló belföldi hitelesítés-szolgáltató a 7. § (1) bekezdés vagy a 8. § (1) bekezdés rendelkezéseinek felel-e meg.
+(6) A hitelesítés-szolgáltató a felelősségvállalást vagy a felülhitelesítést haladéktalanul köteles bejelenteni a Nemzeti Média- és Hírközlési Hatóságnak (a továbbiakban: Hatóság), amely jegyzéket tesz közzé a felelősségvállalások tényéről, módjáról, korlátairól és az azokkal érintett külföldi hitelesítés-szolgáltatókról, valamint arról, hogy a felelősséget vállaló belföldi hitelesítésszolgáltató a 7. § (1) bekezdés vagy a 8. § (1) bekezdés rendelkezéseinek felel-e meg.
 
 (7) Az (1)–(2) bekezdésben foglaltakon kívüli külföldi székhelyű hitelesítés-szolgáltató által hitelesített tanúsítványhoz a 3. § (1) bekezdése szerinti jogkövetkezmények fűződnek.
 
@@ -385,7 +385,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (4) A Hatóság az érdemi döntést a kérelem előterjesztésétől számított 45 munkanapon belül köteles meghozni.
 
-(5) A Nemzeti Hírközlési Hatóság Hivatalának elsőfokú határozata ellen a Hatóság Tanácsának elnökéhez lehet fellebbezni.
+(5) A Hatóság Hivatalának első fokú határozata ellen a Hatóság elnökéhez lehet fellebbezni.
 
 (6) A Hatóság eljárása során szakértőként igazságügyi szakértőt, vagy elektronikus aláírás szolgáltatási szakértőt is igénybe vehet.
 

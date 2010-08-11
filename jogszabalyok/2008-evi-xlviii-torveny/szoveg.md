@@ -223,7 +223,7 @@ vonatkoznak.
 
 (3) A 12. §-ban és a 13. § (2) bekezdésében foglaltak megsértésének, valamint a magatartási kódex e rendelkezésekbe ütköző magatartásra ösztönző voltának megállapítása a Gazdasági Versenyhivatal, a 13. § (1) bekezdésében foglaltak megsértésének, valamint a magatartási kódex e rendelkezésekbe ütköző magatartásra ösztönző voltának megállapítása a bíróság hatáskörébe tartozik.
 
-(4) Az információs társadalommal összefüggő szolgáltatás és – a beszédcélú telefonhívás kivételével – elektronikus hírközlés útján megvalósuló reklám tekintetében a 6. §-ban foglalt rendelkezések megsértése esetén a Nemzeti Hírközlési Hatóság jár el az Ektv.-ben meghatározottak szerint.
+(4) Az információs társadalommal összefüggő szolgáltatás és – a beszédcélú telefonhívás kivételével – elektronikus hírközlés útján megvalósuló reklám tekintetében a 6. §-ban foglalt rendelkezések megsértése esetén a Nemzeti Média- és Hírközlési Hatóság jár el az Ektv.-ben meghatározottak szerint.
 
 (5) Az e törvény szerinti eljárás lefolytatása nem zárja ki azt, hogy a sérelmet szenvedett fél az e törvény rendelkezéseinek megsértésére alapított polgári jogi igényét közvetlenül a bíróság előtt érvényesítse.
 
