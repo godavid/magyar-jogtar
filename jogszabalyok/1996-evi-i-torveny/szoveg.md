@@ -555,7 +555,7 @@ kell közzétenni.
 
 (5) A Testület tagja pártpolitikai tevékenységet nem folytathat, pártpolitikai nyilatkozatot nem tehet.
 
-(6) A Testület tagja tudományos, oktató, irodalmi, művészeti és más szerzői jogvédelem alá eső tevékenység kivételével egyéb kereső foglalkozást nem folytathat, tudományos, oktató, irodalmi, művészeti és más szerzői jogvédelem alá eső tevékenységért műsorszolgáltatótól díjazást nem fogadhat el.
+(6)
 
 35/A. § Összeférhetetlenség miatt meg kell szüntetni a Testület tagjának megbízatását, ha vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagy vagyonnyilatkozatában lényeges adatot, tényt valótlanul közöl.
 
@@ -600,9 +600,7 @@ kell közzétenni.
 
 (9) A Testület elnöke esetében a (3), (6) és (8) bekezdése szerinti eljárásokban az elnök jogkörében az ügyrend szerint meghatározott tag jár el.
 
-38. § (1) A Testület tagja megbízatásának megszűnése esetén a jelölési eljárást nyolc napon belül meg kell kezdeni. Az új tag személyére az a képviselőcsoport tesz javaslatot, amely a megüresedett hely betöltésére korábban javaslatot tett.
-
-(2) Az új tag megbízatása annyi időre szól, amennyi a Testület megbízatásából hátra van.
+38. §
 
 ### 6. CÍM — A Testület tagjainak díjazása
 
@@ -648,9 +646,7 @@ kell közzétenni.
 
 (4) A (3) bekezdés szerinti végrehajtásnál a kölcsönös jogsegély során a Testület a 2007/76/EK bizottsági határozatnak megfelelően jár el.
 
-42. § (1) A Testületnek a műsorszolgáltatást érintő frekvenciagazdálkodás koncepciója kialakításakor a nem nyereségérdekelt műsorszolgáltatás szükségleteire tekintettel kell lennie.
-
-(2) A Testület a kultúráért felelős miniszter által vezetett minisztérium hivatalos lapjában közzéteszi a műsorszolgáltatást érintő frekvenciakészlettel való gazdálkodásra vonatkozó koncepcióját.
+42. §
 
 ### 9. CÍM — A Testület beszámolója
 
@@ -690,19 +686,7 @@ kell közzétenni.
 - a) a szavazás első fordulójában az elnök is szavazati joggal rendelkezik. A határozat érvényességéhez a szavazásra jogosultak kétharmados többsége szükséges;
 - b) ha a szavazás első fordulójában nem született határozat, a Testület legkevesebb három nap, legfeljebb nyolc nap elteltével új szavazást tart. Az elnök ebben a fordulóban is szavazati joggal rendelkezik. A határozat érvényességéhez a szavazásra jogosultak egyszerű többsége szükséges. Ha ekkor sem születik döntés, hatvan napon belül új pályázatot kell kiírni.
 
-46. § (1) Az általános pályázati feltételek, továbbá az országos és a körzeti műsorszolgáltatási pályázati felhívás meghatározása, valamint a körzeti rádió és televízió műsorszolgáltatási jogosultságokra kiírt pályázatok elbírálása az alábbiak szerint történik:
-
-- a) a szavazás első fordulójában a Testület elnöke nem jogosult szavazni. A határozat érvényességéhez a szavazásra jogosultak kétharmados többsége szükséges;
-- b) ha a szavazás első fordulójában nem született határozat, a Testület legkevesebb három nap, legfeljebb nyolc nap elteltével új szavazást tart. Ebben a fordulóban az elnök is szavazati joggal rendelkezik. A határozat érvényességéhez a szavazásra jogosultak kétharmados többsége szükséges;
-- c) ha az általános pályázati feltételek vagy a pályázati felhívások tárgyában a szavazás második fordulójában nem született határozat, a Testület legkevesebb harminc, legfeljebb hatvan nap elteltével új szavazást tart. Az elnök ebben a fordulóban is szavazati joggal rendelkezik. A határozat érvényességéhez a szavazásra jogosultak egyszerű többsége szükséges;
-- d) ha a körzeti rádió és a körzeti televízió műsorszolgáltatási jogosultságokra kiírt pályázatok elbírálása során a szavazás második fordulójában sem született döntés, hatvan napon belül új pályázatot kell kiírni.
-
-(2) A helyi rádió és televízió műsorszolgáltatási jogosultságokra kiírt pályázatok elbírálásának módja:
-
-- a) a szavazás első fordulójában a Testület elnöke jogosult szavazni. A határozat érvényességéhez a szavazásra jogosultak kétharmados többsége szükséges;
-- b) ha a szavazás első fordulójában nem született határozat, a Testület legkevesebb három nap, legfeljebb nyolc nap elteltével új szavazást tart. Az elnök ebben a fordulóban is szavazati joggal rendelkezik. A határozat érvényességéhez a szavazásra jogosultak egyszerű többsége szükséges.
-
-(3) Ha a pályázatok elbírálása során nem született döntés, hatvan napon belül új pályázatot kell kiírni.
+46. §
 
 ### 11. CÍM — A Panaszbizottság
 
@@ -1146,7 +1130,7 @@ Ennek keretében:
 - b) az egészségügyi és gyermekintézmények, a Magyar Honvédség, a rendvédelmi szervek, szanatóriumok, óvodák, oktatási és közművelődési intézmények, közgyűjtemények, diákszállások (kollégiumok), személyes gondoskodást nyújtó szociális intézmények által ugyanabban az épületben, épületcsoportban használt második és minden további,
 - c) a bérelt,
 - d) a legfeljebb tizenöt napra próbára átvett,
-- e) a műsorszolgáltató, a műsorelosztó, a műsorszétosztó, a műsorszóró rendszer üzemeltetője, illetőleg a Testület vagy a Hírközlési Főfelügyelet által üzemi, vétel-megfigyelési és ellenőrzési célból telephelyen, illetve vétel-megfigyelési helyen és gépkocsiban üzemben tartott,
+- e) a műsorszolgáltató, a műsorelosztó, a műsorszétosztó, a műsorszóró rendszer üzemeltetője, illetőleg a Testület vagy a Hatóság által üzemi, vétel-megfigyelési és ellenőrzési célból telephelyen, illetve vétel-megfigyelési helyen és gépkocsiban üzemben tartott,
 - f) az ország területén legfeljebb harminc napig tartózkodó külföldi állampolgár által üzemben tartott,
 - g) a diplomáciai képviselet, a konzuli képviselet és a nemzetközi szervezet, valamint ezek tagjai, nem magyar állampolgárságú alkalmazottai és családtagjaik, valamint egyéb, nemzetközi szerződés alapján díjfizetés alóli mentességre jogosult szervek és személyek által üzemben tartott,
 - h) a zárt televíziós rendszerben, monitorként üzemeltetett
@@ -1244,7 +1228,7 @@ televíziókészülék után.
 - f) a közszolgálati műsorszolgáltató elnöke, alelnöke, illetve az, aki közszolgálati műsorszolgáltatóval munkavégzésre irányuló jogviszonyban áll,
 - g) a Testület tagja, valamint az, aki a Testülettel munkavégzésre irányuló jogviszonyban áll,
 - h) a közigazgatási szerv, a Magyar Nemzeti Bank, a Gazdasági Versenyhivatal, a Magyar Nemzeti Vagyonkezelő Zrt. és az Állami Számvevőszék vezető beosztású tisztségviselője, a számvevő, a Gazdasági Versenytanács tagja,
-- i) aki a Hírközlési Főfelügyelettel munkavégzésre irányuló jogviszonyban áll.
+- i) aki a Hatósággal munkavégzésre irányuló jogviszonyban áll.
 
 (3) Nem lehet műsorszolgáltatásra jogosult szervezet:
 
@@ -1331,11 +1315,11 @@ végzésére rendelkezhet jogosultsággal.
 
 93. § Az általános pályázati feltételekről a Testület tervezetet készít és azt teljes egészében, indokolással együtt a kultúráért felelős miniszter által vezetett minisztérium hivatalos lapjában közzéteszi. A közzétételt követő tizenöt napon belül az általános pályázati feltételekre bárki írásban — a Testülethez címzett — észrevételt tehet.
 
-94. § (1) Az általános pályázati feltételek tervezetének közzétételétől számított legkevesebb húsz napon túl, legkésőbb harminc napon belül a Testület nyilvános meghallgatást (a továbbiakban: meghallgatás) tart. A meghallgatáson részt vesz a Hírközlési Főfelügyelet képviselője is.
+94. § (1) Az általános pályázati feltételek tervezetének közzétételétől számított legkevesebb húsz napon túl, legkésőbb harminc napon belül a Testület nyilvános meghallgatást (a továbbiakban: meghallgatás) tart. A meghallgatáson részt vesz a Hatóság képviselője is.
 
 (2) A meghallgatás helyéről és időpontjáról legalább a meghallgatást tíz nappal megelőzően közleményt kell közzétenni a kultúráért felelős miniszter által vezetett minisztérium hivatalos lapjában és két országos napilapban.
 
-(3) A meghallgatáson lehetőséget kell adni arra, hogy valamennyi érdekelt kifejthesse álláspontját, továbbá hogy a Testület és a Hírközlési Főfelügyelet képviselője az érdekeltek kérdéseire válaszolhasson.
+(3) A meghallgatáson lehetőséget kell adni arra, hogy valamennyi érdekelt kifejthesse álláspontját, továbbá hogy a Testület és a Hatóság képviselője az érdekeltek kérdéseire válaszolhasson.
 
 (4) A meghallgatást a Testület képviselője vezeti és ő dönt arról, hogy a meghallgatás a törvényben előírt feltételek teljesülése esetén megtartható.
 
@@ -1436,11 +1420,11 @@ végzésére rendelkezhet jogosultsággal.
 102. § (1) A műsorszolgáltatási szerződés létrejöhet:
 
 - a) pályázati felhívásra benyújtott pályázatok közti választással, illetve
-- b) az igénylő által lefolytatott tervezés eredményeként létrejött — a Hírközlési Főfelügyelet ellenőrző vizsgálata alapján a Testület által jóváhagyott — műsorszolgáltatási lehetőségre, az e törvényben meghatározottak szerint.
+- b) az igénylő által lefolytatott tervezés eredményeként létrejött — a Hatóság ellenőrző vizsgálata alapján a Testület által jóváhagyott — műsorszolgáltatási lehetőségre, az e törvényben meghatározottak szerint.
 
-(2) Az (1) bekezdés a) pontja szerinti pályázati felhívásnak a Hírközlési Főfelügyelet által kidolgozott és a kultúráért felelős miniszter által vezetett minisztérium hivatalos lapjában előzetesen nyilvánosságra hozott — a vételkörzet, a frekvenciasáv és más műszaki jellemzők által meghatározott — műsorszolgáltatási lehetőségekre kell vonatkoznia.
+(2) Az (1) bekezdés a) pontja szerinti pályázati felhívásnak a Hatóság által kidolgozott és a kultúráért felelős miniszter által vezetett minisztérium hivatalos lapjában előzetesen nyilvánosságra hozott — a vételkörzet, a frekvenciasáv és más műszaki jellemzők által meghatározott — műsorszolgáltatási lehetőségekre kell vonatkoznia.
 
-(3) Az (1) bekezdés b) pontja szerinti tervezéshez a Hírközlési Főfelügyelet — költségtérítés ellenében — adatokat szolgáltat.
+(3) Az (1) bekezdés b) pontja szerinti tervezéshez a Hatóság — költségtérítés ellenében — adatokat szolgáltat.
 
 (4) A pályázat az (1) bekezdés a) pontja alapján
 
@@ -1557,7 +1541,7 @@ benyújtható.
 - a) amely a Testület által nyilvánosságra hozott frekvenciatervben szerepel, és amelyre pályázati igényt nem nyújtottak be, vagy
 - b) amelyre más már műsorszolgáltatási jogosultságot szerzett, de a jogosult műsorszolgáltatása az ideiglenes műsorszolgáltatás befejezését követő hatvan napon belül nem kezdődik meg.
 
-(2) A nyilvánosságra hozott frekvenciatervben nem szereplő műsorszolgáltatási lehetőség esetén az igénylőnek a Hírközlési Főfelügyelet által kiadott igazolással kell bizonyítania, hogy a műsorszolgáltatás másoknak okozott zavarás és a nemzetközi előírások megsértése nélkül folytatható. Az igazolásnak tartalmaznia kell a 52. § (4) bekezdésében foglalt műszaki adatokat. Ilyen esetben a Testület a műsorszolgáltatási jogosultságot az alábbi szabályok szerint lefolytatott eljárás alapján adja meg:
+(2) A nyilvánosságra hozott frekvenciatervben nem szereplő műsorszolgáltatási lehetőség esetén az igénylőnek a Hatóság által kiadott igazolással kell bizonyítania, hogy a műsorszolgáltatás másoknak okozott zavarás és a nemzetközi előírások megsértése nélkül folytatható. Az igazolásnak tartalmaznia kell a 52. § (4) bekezdésében foglalt műszaki adatokat. Ilyen esetben a Testület a műsorszolgáltatási jogosultságot az alábbi szabályok szerint lefolytatott eljárás alapján adja meg:
 
 - a) a pályázati felhívást a kérelem benyújtásától számított nyolc napon belül, az 52. § (4) bekezdésében foglalt adatokkal együtt a Testület teszi közzé;
 - b) a pályázatot a közzétételtől számított nyolc napon belül kell benyújtani;
@@ -1712,9 +1696,9 @@ benyújtható.
 
 (3) A közszolgálati műsorszolgáltatók műsorszolgáltatási kötelezettségeinek teljesítéséhez szükséges — frekvencia és sugárzási jellemzőkkel meghatározott — műsorszórási lehetőségeket előzetes egyeztetés után a Testület a döntéseinek meghozatalára irányadó szavazási és nyilvánossági szabályok alkalmazásával állapítja meg.
 
-(4) A Testület a (2) és (3) bekezdésben említett előzetes egyeztetést a Hírközlési Főfelügyelet, a közszolgálati műsorszolgáltató, valamint a műsorok szórását végző távközlési szolgáltató képviselőivel folytatja le.
+(4) A Testület a (2) és (3) bekezdésben említett előzetes egyeztetést a Hatóság, a közszolgálati műsorszolgáltató, valamint a műsorok szórását végző távközlési szolgáltató képviselőivel folytatja le.
 
-(5) A (2) és (3) bekezdés nem vonatkozik a közszolgálati műsorszolgáltató külföldre irányuló rádió műsorszolgáltatásainak műsorszórási lehetőségeire. Ilyen műsorszolgáltatás céljára a Hírközlési Főfelügyelet a frekvenciahasználatra vonatkozó jogosultságot a nemzetközi eljárás keretei között biztosítja.
+(5) A (2) és (3) bekezdés nem vonatkozik a közszolgálati műsorszolgáltató külföldre irányuló rádió műsorszolgáltatásainak műsorszórási lehetőségeire. Ilyen műsorszolgáltatás céljára a Hatóság a frekvenciahasználatra vonatkozó jogosultságot a nemzetközi eljárás keretei között biztosítja.
 
 134. § (1) A közszolgálati műsorszolgáltató a törvény alapján őt megillető műsorszórással megvalósuló lehetőségen túl további műsorszórási lehetőségre a VI. fejezetben foglaltak szerinti eljárásban 2000. január 1-je előtt csak akkor pályázhat, ha a 23. § (4) bekezdésének c) pontjában foglalt feladatát másként nem képes teljesíteni.
 
@@ -1783,95 +1767,21 @@ benyújtható.
 
 (4)
 
-### 2. CÍM — A Testület, illetve a közalapítványoklétrehozása
+140. §
 
-140. § (1) E törvény kihirdetésétől számított negyvenöt napon belül
+141. § (1)
 
-- a) meg kell választani a Testület tagjait,
-- b) meg kell választani a kuratóriumok elnökségének tagjait.
-
-(2) Az 57. § (2) bekezdése szerinti felhívást első alkalommal e törvény hatálybalépésétől számított hatvan napon belül kell közzétenni. A jelentkezés határideje a közzétételtől számított húsz nap. A nyilvántartásba vétellel kapcsolatos adminisztratív és ellenőrző feladatok ellátásáról — a Testület hivatali szerveinek megalakulásáig — a Kormány gondoskodik. Az 57. § (5) bekezdése szerint írt sorsolást első alkalommal a nyilvántartásba vételre jelentkezés határidejének lejártától számított húsz napon belül kell megtartani.
-
-(3) A kuratóriumok elnökségei a közszolgálati műsorszolgáltatók elnöki tisztségeinek betöltésére nyilvános pályázati felhívást tesznek közzé a megválasztásukat követő harminc napon belül. A pályázat benyújtásának határideje harminc nap, a pályázatokat harminc napon belül kell elbírálni.
-
-(4) A kuratóriumok elnökségei megválasztásakor az Országgyűlés elfogadja a közalapítványok alapító okiratát, amelyek a bírósági nyilvántartásba bejegyzéssel jönnek létre. A bejegyzési eljárásban az Országgyűlést a főtitkára képviseli.
-
-(5) A Hungária Televízió Közalapítvány jelenlegi kuratóriumának megbízatása az új kuratórium elnökségének megválasztásával megszűnik. A delegált tagokkal kiegészült új kuratórium létrejöttétől számított hatvan napon belül e törvénynek megfelelően módosítja a Duna Televízió Rt. alapító okiratát.
-
-(6) A Testület, illetve a kuratóriumok elnöksége, majd delegált tagjai névsorát a Magyar Közlönyben közzé kell tenni.
-
-### 3. CÍM — A Magyar Rádió Részvénytársaságés a Magyar Televízió Részvénytársaságmegalapítása
-
-141. § (1) A Kormány a törvény hatálybalépésétől számított hat hónapon belül leltár alapján vagyonértékelést készít a Magyar Rádió, illetve a Magyar Televízió vagyonáról. Ezeket a vagyonokat azon a napon adja a Magyar Rádió Közalapítvány, illetve a Magyar Televízió Közalapítvány tulajdonába, amely napi hatállyal a közalapítványok a részvénytársaságokat megalapítják. A részvénytársaságok az alapító okiratban meghatározott időpontra visszamenőleges hatállyal, a cégjegyzékbe való bejegyzéssel jönnek létre.
-
-(2) A Magyar Rádió Részvénytársaság a Magyar Rádió költségvetési szerv, a Magyar Televízió Részvénytársaság a Magyar Televízió költségvetési szerv általános jogutóda. Erre tekintettel megalapításuk során a Gt. 251. §-ának (2) bekezdését nem kell figyelembe venni.
+(2)
 
 (3) A közalapítványok e törvény szerinti tulajdonszerzése, illetve társaságalapítása minden adó-, illetékfizetési kötelezettség alól mentes.
 
-(4) A Magyar Rádió és a Magyar Televízió bankszámláit a jogfolytonosság alapján tovább kell vezetni, az ingatlan-nyilvántartásban az érintett állami tulajdonú ingatlanok tulajdonjogát — a közalapítványok közbenső tulajdonszerzésének feltüntetése mellett — hivatalból az érintett részvénytársaság nevére kell jegyezni.
+(4)
 
 (5) A közszolgálati műsorszolgáltatók mentesek a társasági adó alól, és személyes illetékmentességet élveznek.
 
-(6) A Magyar Rádió és a Magyar Televízió mint költségvetési szervek az (1) bekezdés szerinti napon megszűnnek.
+(6)–(9)
 
-(7) A (2) bekezdésben foglaltakra is tekintettel a Kormány kezdeményezze az 1996. évi költségvetési törvény módosítását annak érdekében, hogy a Magyar Rádió és a Magyar Televízió 1996. évi folyamatos költségvetési támogatásának folyósításában a részvénytársasággá alakulás miatt fennakadás ne történjen. Ennek során a Duna Televízió támogatását növelni kell, amelynek forrása a televíziókészülékek előfizetési díjbevételének újrafelosztása lehet. A költségvetést módosító törvényjavaslatban — az előfizetési díjbevétel terhére — gondoskodni kell a Testület, illetve a közalapítványok kuratóriumai működéséhez szükséges fedezetről is.
-
-(8) Az Országgyűlés költségvetési ügyekben illetékes bizottsága jelenlévő tagjai négyötöde javasolhatja parlamenti biztos kinevezését a Magyar Rádióhoz vagy a Magyar Televízióhoz az átalakulás időtartamára. A parlamenti biztos feladata a törvény 142. §-ában foglalt, a Magyar Rádió, illetve a Magyar Televízió elnöke (alelnöke) által tett jognyilatkozatok ellenjegyzése. Ellenjegyzés nélkül a jognyilatkozat érvénytelen.
-
-(9) A (8) bekezdés szerinti parlamenti biztos hiányában a Magyar Rádió Közalapítvány kuratóriumának, illetve a Magyar Televízió Közalapítvány kuratóriumának elnöksége a megalakulásától kezdődően gyakorolja a törvény 66. § (2) bekezdésének c), illetve da)—dc) pontjai szerinti hatáskörét, ennek megfelelően a Magyar Rádió, illetve a Magyar Televízió elnökei a törvény 71. §-ának g) és h) pontjai szerinti kötelezettségek szerint járnak el.
-
-142. § A Magyar Rádió és a Magyar Televízió hivatalban lévő elnökeinek és alelnökeinek, valamint a Duna Televízió Részvénytársaság igazgatósági tagjainak, főigazgatójának megbízatása az e törvény szerint választott elnökök hivatalba lépésével megszűnik. A hivatalban lévő elnökök (a Duna Televízió Részvénytársaság igazgatósága, főigazgatója) a törvény kihirdetését követően a működőképesség fenntartásához szükséges intézkedések megtételére jogosultak. Nem jogosultak ingatlan elidegenítésére, az egy évet meghaladó tartamú, vagy az intézmény éves pénzügyi terve kiadási főösszege öt százalékát meghaladó értékű, vagy a reklámjogok kizárólagos hasznosítását átengedő szerződés megkötésére, a rendszeresen folytatott, rendeltetésszerű gazdálkodási tevékenység körébe tartozóak kivételével. Nem jogosultak továbbá az 1991. évi IV. törvény 22—23. §-aiban meghatározott mértékű létszámleépítésre, valamint a hatályos szervezeti és működési szabályzat — saját hatáskörben történő — módosítására.
-
-143. § (1) A Magyar Rádió és a Magyar Televízió alkalmazottainak közalkalmazotti jogviszonya a Magyar Rádió Rt. és a Magyar Televízió Rt. megalapításával egyidejűleg munkaviszonnyá alakul át. Az alkalmazottaknak a Magyar Rádiónál és a Magyar Televíziónál közalkalmazotti jogviszonyban töltött idejét úgy kell tekinteni, mintha azt a részvénytársaságnál töltötték volna el. A jogviszonyok átalakulását megelőzően adott magasabb vezetői és vezetői megbízásokat — a jogviszonyok átalakulásával egyidejűleg — a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 23. §-ának (5) bekezdése alapján visszavontnak kell tekinteni.
-
-(2) A (1) bekezdésben foglaltaktól eltérően a felmondási idő és a végkielégítés tekintetében a Magyar Rádió Rt.-nél és a Magyar Televízió Rt.-nél eltöltött munkaviszony időtartamát a közalkalmazotti jogviszonynak munkaviszonnyá történő átalakulásának napjától kell számítani. A felmondási idő és a végkielégítés mértékéhez a megelőző közalkalmazotti jogviszony időtartama alapján, a Kjt.-nek a jogviszony átalakulásának időpontjában irányadó szabályai szerint számított felmentési idő és végkielégítés mértékét hozzá kell számítani.
-
-(3) A közalkalmazotti jogviszonyból származó és a jogviszony (1) bekezdés szerinti átalakulását megelőzően keletkezett igényre a Kjt.-nek az igény keletkezésekor hatályos rendelkezései, az igény érvényesítésének rendjére a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény rendelkezései az irányadók. A közalkalmazotti jogviszony megszüntetésével összefüggő nyilatkozatot (intézkedést) vagy megállapodást a Kjt.-nek a nyilatkozat megtételekor, illetve a megállapodás megkötésekor hatályos rendelkezései alapján kell elbírálni.
-
-(4) A Magyar Rádió és a Magyar Televízió alkalmazottai közalkalmazotti jogviszonyának munkaviszonnyá történő átalakulásával összefüggésben a Kjt. 25/A. §-ának rendelkezései nem alkalmazandók.
-
-(5) A folyamatban lévő fegyelmi eljárást, illetve a munkáltató fegyelmi határozatával összefüggő munkaügyi pert — a (6) bekezdésben meghatározott kivétellel — meg kell szüntetni.
-
-(6) Ha a munkaügyi per fegyelmi elbocsátás tekintetében folyik, a kereset elbírálásánál a rendkívüli felmondás szabályait kell megfelelően alkalmazni.
-
-(7) A határozott időre szóló fegyelmi büntetés végrehajtását meg kell szüntetni.
-
-(8) A Magyar Rádió Közalkalmazotti Tanácsa és a Magyar Televízió Közalkalmazotti Tanácsa üzemi tanácsként működik tovább.
-
-144. § (1) A Magyar Rádió által a törvény hatálybalépésekor végzett műsorszolgáltatás e törvény II. fejezetében foglalt általános feltételek szerint mindaddig folytatható, amíg a műsorszolgáltatáshoz a törvény hatálybalépéséig használt frekvenciára a törvényben meghatározott pályázati eljárásban műsorszolgáltatási jogosultságot szerző a műsor szórását meg nem kezdi.
-
-(2) A Magyar Rádió, a Magyar Televízió és a Duna Televízió tekintetében a reklámidő korlátozására vonatkozó szabályok 1997. szeptember 1-jéig, a műsorszámok támogatására vonatkozó szabályok 1996. december 31-ig nem alkalmazhatók.
-
-(3) A 84. § (2) bekezdése 1997. január 1-jétől 1997. december 31-ig a következők szerint alkalmazandó:
-
-A beszedési költségek levonása után valamennyi jogcímen az Alapba befolyt üzemben tartási díj negyven százaléka a Magyar Televízió Részvénytársaságot, huszonnyolc százaléka a Magyar Rádió Részvénytársaságot, huszonnégy százaléka a Duna Televízió Részvénytársaságot illeti – a tulajdonos közalapítványon keresztül történő folyósítással –, egy százaléka a Testület, egy százaléka – egymást közt egyenlő arányban – a Magyar Rádió Közalapítvány, a Magyar Televízió Közalapítvány és a Hungária Televízió Közalapítvány működési költségeinek fedezetére, hat százaléka a közszolgálati műsorok támogatására kiírandó pályázatok céljaira szolgál.
-
-(4) A Magyar Rádió és a Magyar Televízió hatályos Szervezeti és Működési Szabályzatát, az e törvény szerint elfogadott szervezeti és működési szabályzat, illetve közszolgálati műsorszolgáltatási szabályzat hatálybalépéséig kell alkalmazni.
-
-145. § A Magyar Rádió műsorainak terjesztéséhez e törvény hatálybalépésekor használt három 66,0–73,0 MHz frekvenciasáv közül kettő a törvény hatálybalépésétől számított legfeljebb három évig használható, a harmadik 66,0–73,0 frekvenciasáv tizenegy évig használható. E határidőn belül a Testület a Magyar Rádiótól két 66,0–73,0 MHz frekvenciasáv használatára vonatkozó jogosultságot elvonhat, ha a 87,5–108,0 MHz frekvenciasávban két műsorszolgáltatás megvalósul.
-
-### 4. CÍM — Vegyes rendelkezések
-
-146. § (1) A törvény hatálybalépése előtt kiadott, dátumszerűen meghatározott ideig szóló stúdióengedélyek jogosultjai 1996. március 31-ig jelenthetik be a Testületnél engedélyük műsorszolgáltatási szerződéssé való átalakítására vonatkozó igényüket. E jogvesztő határidő elmulasztásával az engedély érvényét veszti. A Testület nem köthet szerződést az igénylővel, ha a stúdió nem, vagy nem a stúdióengedélyben foglaltak szerint végez műsorszolgáltatást. A Testület erről szóló határozatával a stúdióengedély érvényét veszti.
-
-(2) Az igénylővel a Testület megköti az eredeti engedélyben foglalt stúdióengedély időtartamáig és az abban foglalt vételkörzetre a szerződést — a műsorszolgáltatási díj megállapításával —, ha a kérelmező a stúdióengedélyben foglaltak szerint működik.
-
-(3) A stúdióengedély érvényének elvesztése folytán felszabaduló frekvenciára (adásidőre) a Testület pályázatot ír ki, kivéve, ha a 100. § (3) bekezdése alapján ahhoz a műsorszolgáltató nem járul hozzá.
-
-(4) A törvény hatálybalépése előtt határozatlan időre, illetve az ebben a törvényben meghatározott határidőre utalással kiadott stúdióengedélyek alapján használt frekvenciák e törvény szerinti hasznosítására pályázatot kell kiírni. Az ebben a törvényben meghatározott határidőre utalással kiadott stúdióengedélyek alapján használt frekvenciákra a Testület kilenc hónapon belül, a határozatlan időre kiadott stúdióengedélyek alapján használt frekvenciákra egy évet követően, de legfeljebb másfél éven belül kell a pályázatot kiírni. E határidőket a törvény hatálybalépésétől kell számítani. A stúdióengedélyek legkésőbb a pályázat alapján megkötött műsorszolgáltatási szerződés alapján kezdődő műsorszolgáltatás megkezdésének időpontjában hatályukat vesztik.
-
-(5) A (3)—(4) bekezdésben jelzett pályázatoknál az értékelés során kiemelt szempontként kell értékelni az azonos frekvencián korábban stúdióengedély alapján műsorszolgáltatásra jogosult korábbi működését.
-
-(6) A törvény 85—88. §-ai, 108. §-a és a VIII. fejezetében foglaltaknak meg nem felelő, e törvény hatálybalépésekor működő vállalkozásokkal a Testület azzal a feltétellel köthet szerződést, hogy azok 1996. december 31-ig kötelesek tevékenységüket módosítani, vagy vállalkozásukat átalakítani.
-
-147. § (1) E törvény hatálybalépését megelőzően már nyújtott értéknövelő szolgáltatást végző távközlési szolgáltató tevékenységét a 20. és a 21. §-okban foglalt rendelkezések nem érintik.
-
-(2) Hálózatos televízió műsorszolgáltatás 1997. január 1-je előtt nem kezdhető el, az ötven kilométer átmérőjű vételkörzetnél nem nagyobb hálózatos műsorszolgáltatást kivéve.
-
-(3) A (2) bekezdésben foglalt korlátozás nem alkalmazható olyan folyamatosan működő műsorszolgáltató esetében, amelyik műsorszolgáltatása e törvény szerint hálózatos műsorszolgáltatásnak számít és működését
-
-- a) a törvény hatálybalépése előtt egy évvel megkezdte, és
-- b) legfeljebb napi négy óra műsoridőben működik hálózatos műsorszolgáltatásként. Az így jogosultságot szerzett műsorszolgáltató vételkörzete 1997. január 1-je előtt nem lehet nagyobb, mint a törvény hatálybalépése előtt három hónappal.
+142–147. §
 
 148. § (1) Felhatalmazást kap a Kormány, hogy az üzemben tartási díj beszedésének rendszerét, a beszedésre jogosult szervezet kiválasztásának részletes szabályait – ideértve a 82. § (2) bekezdésében foglaltakat is – rendeletben szabályozza.
 
@@ -1888,18 +1798,69 @@ A beszedési költségek levonása után valamennyi jogcímen az Alapba befolyt 
 
 (2)
 
-### 5. CÍM
+149/A. § Az Országos Rádió és Televízió Testület irodájának alkalmazottai a médiát és a hírközlést szabályozó egyes törvények módosításáról szóló 2010. évi LXXXII. törvény hatálybalépésével egyidejűleg a Hivatal alkalmazottaivá válnak azzal, hogy az Eht. 19. § (1) bekezdés b) pontja vonatkozásukban 2010. december 31-ig nem alkalmazható.
 
-### 6. CÍM — Hatályukat vesztő rendelkezések
+[149/B. § (1) Országgyűlési határozatban dönt az Országgyűlés a Magyar Rádió Közalapítvány és a Hungária Televízió Közalapítvány megszűnéséről, valamint a Magyar Televízió Közalapítvány átalakításáról. Az átalakuló Magyar Televízió Közalapítvány új neve: Közszolgálati Közalapítvány.
 
-161. § E törvény hatálybalépésével egyidejűleg hatályát veszti:
+(2) Az Országgyűlés az (1) bekezdés szerinti határozatban rendelkezik arról, hogy a megszűnő közalapítványok – a Magyar Rádió Közalapítvány és a Hungária Televízió Közalapítvány – feladatait és teljes vagyonát, ideértve a megszűnő közalapítványok tulajdonában levő részvénytársaságokat, a Magyar Rádió Zrt.-t és a Duna Televízió Zrt.-t, a Közszolgálati Közalapítvány veszi át a Magyar Televízió Közalapítvány feladatainak és vagyonának megtartása mellett. A Magyar Televízió Zrt. értelemszerűen az átalakuló Közszolgálati Közalapítvány tulajdonában marad.
 
-- a) az Stv. 2. §-ának (2) és (3) bekezdéséből az ,,és mozgósítson a társadalmi cselekvésre'' szövegrész, 4. §-ának (1) bekezdéséből az ,,a gazdálkodó szervezetek [Ptk. 685. § c) pontja]'' szövegrész; 9. §-a, a 12. §-a előtti címből az ,,Az engedélyezés'' szövegrész; 13. §-a, a 14. §-ának (2) bekezdése, a 14. §-ának (1) bekezdésében, valamint a 15. §-ában az ,,az engedély megtagadásáról, visszavonásáról'' szóló szövegrészek; 17. §-ának (2) bekezdése; 19. §-ának (4)—(6) bekezdése; 22. §-ának (3) bekezdéséből az ,,illetőleg engedélyt visszavonó'' szövegrésze, továbbá 23. §-ának (2) és (3) bekezdése,
-- b) a sajtóról szóló 1986. évi II. törvény módosításáról szóló 1990. évi XI. törvény 6. §-ának az Stv. 14. §-ának (2) bekezdését megállapító szövege, valamint a 6. és 7. §-okban ,,az engedély megtagadásáról, visszavonásáról'' szóló szövegrészek, valamint 8. és 9. §-a,
-- c)
-- d) az országgyűlési képviselők választásáról szóló 1989. évi XXXIV. törvényt módosító 1994. évi III. törvény 7. §-a.
-- e)
-- f)–p)
+(3) E § szerinti vagyonátadás nem minősül az általános forgalmi adóról szóló 2007. évi CXXVII. törvény hatálya alá tartozó ellenérték fejében teljesített termékértékesítésnek, a vagyonátadás általános forgalmi adómentes.
+
+(4) Az (1) bekezdés szerinti országgyűlési határozat melléklete a Magyar Televízió Közalapítvány átalakulásával létrejövő Közszolgálati Közalapítvány alapító okirata. A Magyar Televízió Közalapítvány alapító okiratán a szükséges változásokat át kell vezetni.
+
+(5) Az Országgyűlés az (1) bekezdés szerinti határozatban rendelkezik arról, hogy a Magyar Távirati Iroda Zrt.-t a Közszolgálati Közalapítvány tulajdonába adja a – nemzeti hírügynökségről szóló 1996. évi CXXVII. törvényben szabályozott – Tulajdonosi Tanácsadó Testület egyidejű megszüntetése mellett.
+
+(6) E törvény felhatalmazása alapján el lehet térni az alapítványokra vonatkozó, az 1959. évi IV. törvény (Polgári Törvénykönyv) 74/A–F. §-aiban, a gazdasági társaságokról szóló 2006. évi IV. törvényben, illetve az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvényben szereplő rendelkezésektől.
+
+(7) Az Országgyűlés az (1) bekezdés szerinti határozatban rendelkezik arról, hogy a Magyar Rádió, a Magyar Televízió, a Duna Televízió és a Magyar Távirati Iroda zártkörűen működő egyszemélyes részvénytársaságokat nonprofit részvénytársaságokká kell átalakítani. Az átalakítást a Közszolgálati Közalapítvány e törvény alapján felálló Kuratóriuma kezdeményezi a cégbíróságnál.
+
+(8) Az Országgyűlés (1) bekezdés szerinti határozata rendelkezik arról, hogy e § és az országgyűlési határozat végrehajtásához szükséges közgyűlési döntéseket a Közszolgálati Közalapítvány kuratóriuma jogosult és köteles meghozni.
+
+(9) Az (1) bekezdés szerinti országgyűlési határozat elfogadásához a jelenlevő országgyűlési képviselők 2/3-ának szavazata szükséges.
+
+(10) Az országgyűlési határozatban kell rendelkezni annak hatálybalépéséről és az e § szerinti feladatok végrehajtásának határidejéről.]
+
+149/C. § (1) Az Országgyűlés határozatban rendelkezik a Közszolgálati Közalapítvány, a Magyar Rádió Zrt., a Magyar Televízió Zrt., a Duna Televízió Zrt. és a Magyar Távirati Zrt. vagyonának arról a részéről, amely térítésmentesen állami tulajdonba kerül, melynek vonatkozásában a tulajdonosi jogok és kötelezettségek összességét a Műsorszolgáltatás Támogató és Vagyonkezelő Alap gyakorolja.
+
+(2) Az (1) bekezdés szerinti országgyűlési határozatban rendelkezik az Országgyűlés arról, hogy a Műsorszolgáltatási Alap átalakításával létrejövő Műsorszolgáltatás Támogató és Vagyonkezelő Alap kezelője jogosult és köteles a vagyonátadáshoz szükséges intézkedések megtételére. A vagyonátadással összefüggésben szükségessé váló részvénytársasági alaptőke leszállítása vonatkozásában a gazdasági társaságokról szóló 2006. évi IV. törvény 271–272. §-ában foglalt szabályok nem alkalmazhatók.
+
+(3) Az (1) bekezdés szerinti országgyűlési határozatban rendelkezik az Országgyűlés az (1) bekezdés szerinti – tulajdonosi jogok és kötelezettségek összességének gyakorlását eredményező – vagyonátadás módjáról, ütemezéséről és az ütemezés időpontjairól. A vagyonátadás befejezési határidejét az (1) bekezdés szerinti országgyűlési határozatban kell szabályozni.
+
+(4) Az (1) bekezdés szerinti országgyűlési határozatban rendelkezik az Országgyűlés az átadott vagyon hasznosításának, a vagyonnal történő gazdálkodásnak az 54. § (4) bekezdésében meghatározott szabályozási irányelveiről.
+
+(5) Az Országgyűlés (1) bekezdés szerinti határozata rendelkezik arról, hogy e § és az országgyűlési határozat végrehajtásához szükséges közgyűlési döntéseket a Közszolgálati Közalapítvány Kuratóriuma jogosult és köteles meghozni.
+
+(6) Az (1) bekezdés szerinti országgyűlési határozat elfogadásához a jelenlevő országgyűlési képviselők 2/3-nak szavazata szükséges.
+
+(7) E § szerinti vagyonátadás nem minősül az általános forgalmi adóról szóló 2007. évi CXXVII. törvény hatálya alá tartozó ellenérték fejében teljesített termékértékesítésnek, a vagyonátadás általános forgalmi adó- és illetékmentes.
+
+(8) Az (1) bekezdés szerinti országgyűlési határozat elfogadásáról a médiát és a hírközlést szabályozó egyes törvények módosításáról szóló 2010. évi LXXXII. törvény hatálybalépésétől számított három hónapon belül dönt az Országgyűlés.
+
+149/D. § A megszűnő közalapítványok vagyonának átadása a Közalapítvány részére, illetve a Közalapítvány vagyona egy részének állami tulajdonba vétele és a Műsorszolgáltatás Támogató és Vagyonkezelő Alap részére történő – tulajdonosi jogok és kötelezettségek összességének gyakorlását eredményező – átadása során a polgári jogi jogszabályokban foglaltaktól eltérően e törvény rendelkezéseit kell alkalmazni.
+
+149/E. § A beszedési költségek levonása után valamennyi jogcímen az Alapba befolyt üzemben tartási díj 84. § (1) bekezdésében meghatározott százalékos mérték időarányos része illeti meg 2010-ben 2010. szeptember 6-tól kezdődően a Magyar Televízió Zrt.-t, a Magyar Rádió Zrt.-tés a Duna Televízió Zrt.-t.
+
+149/F. § (1) A 2010. szeptember 6. előtt megindult pályázati eljárásokban a Médiatanács az eljárási cselekmény végzésekor hatályos eljárási szabályok alkalmazásával jár el.
+
+(2) A 2010. szeptember 6. előtt megindult, műsorszolgáltatási jogosultság hasznosítására irányuló pályázati eljárásokban a jogelőd Testület által elfogadott pályázati felhívás tervezet és pályázati felhívás szövegét a Médiatanács felülvizsgálhatja és módosíthatja. Amennyiben a Médiatanács a pályázati felhívás tervezet vagy a pályázati felhívás módosításáról dönt, a Médiatanács a módosításokkal egységes szövegváltozatot a 93. § szerint közzéteszi és a 94. § megfelelő alkalmazásával meghallgatást tart. Amennyiben az adott pályázati eljárásban pályázati felhívás tervezet vagy pályázati felhívás korábban már közzétételre került, a Médiatanács a 94. § (2) bekezdése szerinti közleményben és a honlapján tájékoztatja a nyilvánosságot az ismételt közzététel és meghallgatás okairól.
+
+(3) E törvény 107. § (2) bekezdésében meghatározott határidő nem vonatkozik a megújításukat követően véglegesen lejáró műsorszolgáltatási jogosultságok újrapályáztatására, valamint a 2010. szeptember 6. előtt megindult pályázati eljárásokra.
+
+149/G. § (1) A Testület tagjainak megbízatása e törvény alapján a Médiatanács elnökének és tagjainak megválasztásával egyidejűleg megszűnik.
+
+(2) A Magyar Televízió, a Magyar Rádió és a Hungária Televízió közalapítványok kuratóriumi tagjainak, elnökségi tagjainak és ellenőrző testületi tagjainak a megbízatása a Közszolgálati Közalapítvány Kuratóriuma tagjainak megválasztásával egyidejűleg törvény alapján megszűnik. A médiát és a hírközlést szabályozó egyes törvények módosításáról szóló 2010. évi LXXXII. törvény hatálybalépését követően az új Kuratórium megválasztásáig az egyes Kuratóriumok ügyvezető jelleggel működnek, és kizárólag e törvény 66. § (1) d)–e) ), valamint g–j) pontokban foglalt jogköreit gyakorolhatják.
+
+(3) A Magyar Televízió, a Magyar Rádió és a Duna Televízió Zrt.-k elnökeinek és alelnökeinek a megbízatása e törvény alapján a közszolgálati részvénytársaságok vezérigazgatóinak kinevezésével egyidejűleg megszűnik. A hivatalban levő elnökök és alelnökök e törvény hatálybalépését követően a működőképesség fenntartásához szükséges intézkedések megtételére jogosultak. Nem jogosultak a 66. § (3) bekezdésében meghatározott jogügyletek létrehozására, illetve a Zrt.-k szervezeti és működési szabályzatának módosítására. Nem jogosultak továbbá ingatlan elidegenítésére, az egy évet meghaladó tartalmú, vagy a Zrt. éves üzleti terve kiadási főösszege 0,5%-át meghaladó értékű – a teljes tilalom alatt álló 66. § (3) bekezdésében meghatározott jogügyletek kivételével –, vagy a reklámjogok kizárólagos hasznosítását átengedő szerződés megkötésére.
+
+(4) A Magyar Televízió, a Magyar Rádió és a Duna Televízió Zrt.-k felügyelő bizottsági tagjainak e törvény alapján a közszolgálati részvénytársaságok közös Felügyelő Bizottsága tagjainak a megválasztásával egyidejűleg megszűnik a megbízatása.
+
+(5) A Műsorszolgáltatási Alap igazgatójának, illetve igazgatóhelyetteseinek a munkaviszonya e törvény alapján a Műsorszolgáltatás Támogató és Vagyonkezelő Alap vezérigazgatójának, illetve vezérigazgató-helyetteseinek a kinevezésével egyidejűleg megszűnik.
+
+(6) A Műsorszolgáltatási Alap felügyelő bizottsága elnökének, illetve tagjainak a megbízatása e törvény alapján a Műsorszolgáltatás Támogató és Vagyonkezelő Alap Felügyelő Bizottsága elnökének, illetve tagjainak a megbízásával egyidejűleg megszűnik.
+
+149/H. § E törvény 112. § (4) bekezdésének a) pontjában foglalt, a médiát és a hírközlést szabályozó egyes törvények módosításáról szóló 2010. évi LXXXII. törvény által módosított rendelkezést kell alkalmazni a folyamatban lévő ügyekben is, ha a Testület, illetve jogutódja, a Médiatanács még nem hozott határozatot.
+
+161. §
 
 162. §
 

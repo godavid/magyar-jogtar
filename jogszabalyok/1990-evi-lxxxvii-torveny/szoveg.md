@@ -87,7 +87,7 @@ Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra von
 
 (2) A hatósági ár megállapítójának határozata ellen fellebbezésnek nincs helye.
 
-(3) Az egyetemes hírközlési szolgáltatások tekintetében a 16. §-ban foglaltakat a hatósági ár megállapítója helyett a Nemzeti Hírközlési Hatóság végzi, az ezzel kapcsolatos eljárásra az elektronikus hírközlésről szóló törvény szabályait kell alkalmazni.
+(3) Az egyetemes hírközlési szolgáltatások tekintetében a 16. §-ban foglaltakat a hatósági ár megállapítója helyett a Nemzeti Média- és Hírközlési Hatóság végzi, az ezzel kapcsolatos eljárásra az elektronikus hírközlésről szóló törvény szabályait kell alkalmazni.
 
 (4)
 

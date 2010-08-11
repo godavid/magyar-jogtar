@@ -28,7 +28,7 @@ Az Országgyűlés a véleménynyilvánítás és a tájékozódás szabadsága,
 
 (2) Rendkívüli állapot, szükségállapot, veszélyhelyzet, külső fegyveres csoportoknak Magyarország területére történő váratlan betörése, továbbá az ország területének a Magyar Honvédség légvédelmi és repülő készültségi erőivel való oltalmazása esetén az Országgyűlés, a Honvédelmi Tanács, a köztársasági elnök és a Kormány, illetőleg az Alkotmány 19/D. és 19/E. §-án, valamint 35. §-ának (3) bekezdésén alapuló törvényben meghatározott személyek és szervek — a helyzetnek megfelelő szükséges mértékben — kötelezhetik a nemzeti hírügynökséget a fennálló állapottal, helyzettel kapcsolatos közérdekű közleményeknek az általuk meghatározott formában és időben történő ingyenes közzétételére, illetőleg közzétételt megtilthatnak. A közzétételkor a forrást egyértelműen meg kell nevezni.
 
-(3) A nemzeti hírügynökséget a közszolgálati tevékenységért a 21. § (1) bekezdésének h) pontja alapján jóváhagyott díjszabás szerint megállapított díjazás vagy költségtérítés illeti meg. E törvény alapján a nemzeti hírügynökség — az (1) bekezdés h) és i) pontjában, valamint a (2) bekezdésben foglalt kivétellel — ingyenes szolgáltatásra nem kötelezhető.
+(3)
 
 ### A Magyar Távirati Iroda Részvénytársaság
 
@@ -127,60 +127,7 @@ Az Országgyűlés a véleménynyilvánítás és a tájékozódás szabadsága,
 
 14. § A felügyelő bizottság maga állapítja meg működésének szabályait.
 
-15. § A felügyelő bizottság szervezetére, működésére egyebekben az alapító okirat előírásai az irányadók.
-
-16. § A felügyelő bizottság hatáskörébe tartozik:
-
-- a) egymilliárd forintnál vagy a tervezett éves forgalom tíz százalékánál magasabb értékű szerződésekhez előzetes tárgyalási felhatalmazás megadása,
-- b) hitelfelvétel, illetve háromszázmillió forintnál vagy a tervezett éves forgalom három százalékánál nagyobb értékű szerződések előzetes jóváhagyása,
-- c) ingatlanelidegenítés, illetve százmillió forint feletti vagyoni értékű jog elidegenítésének engedélyezése.
-
-### A részvénytársaságTulajdonosi Tanácsadó Testülete
-
-17. § (1) A TTT a részvénytársaság javaslattevő, véleményező, tanácsadó és e törvényben meghatározott esetben döntést hozó szerve.
-
-(2) A TTT tagjait az Országgyűlés választja a képviselők több mint felének szavazatával, egyenként.
-
-(3) A TTT tagjainak felét a kormánypárti, másik felét az ellenzéki képviselőcsoportok jelölik úgy, hogy minden képviselőcsoport legalább egy jelöltjét meg kell választani.
-
-(4) A jelöltekre vonatkozó javaslatot a választásra irányuló eljárás megkezdését követő nyolc napon belül kell megtenni. A választást a jelöltállítástól számított tizenöt napon belül meg kell tartani.
-
-(5) Ha valamelyik képviselőcsoport a jelölésben nem vesz részt, az adott oldal másik (többi) képviselőcsoportja(i) jelölhetnek. A meg nem választott jelölt helyére új jelöltet kell állítani, és az új választást tizenöt napon belül meg kell tartani. Nem jelölhető újra az a személy, aki az előző választás során nem kapta meg az összes képviselő szavazatainak legalább tíz százalékát.
-
-(6) Nem akadálya a TTT megalakulásának, ha a kormánypárti vagy az ellenzéki oldal valamelyike nem állít jelöltet.
-
-(7) A TTT-t négyévi időtartamra választják. Ha a TTT megbízatásának ideje alatt a kormánypárti és az ellenzéki képviselőcsoportok tekintetében változás következik be, ez a TTT tagjainak megbízatását nem érinti, új jelölés alapján azonban új tagokat kell választani a TTT megbízatásának hátralévő idejére. Ha az adott oldal képviselőcsoportjai nem tudnak közös jelölt(ek) állításában megállapodni, a jelölést sorsolással kell eldönteni.
-
-18. § A TTT tagjává az a büntetlen előéletű, felsőfokú végzettségű magyar állampolgár választható, aki legalább öt év szakmai gyakorlattal rendelkezik. Szakmai gyakorlatnak tekintendő a tájékoztatási, továbbá az ezzel összefüggő műszaki, jogi, igazgatási, gazdasági, kulturális, tudományos és közvélemény-kutatási tevékenység.
-
-19. § (1) A TTT tagjára irányadóak — a 8. § (1) bekezdésének b) pontja kivételével — a 8. § (1), (3) és (4) bekezdésének rendelkezései azzal, hogy a TTT tagja nem lehet politikai párt országos vagy területi szervezetének tisztségviselője, valamint nem állhat munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban a részvénytársasággal.
-
-(2) A TTT tag megbízatásának megszűnésére megfelelően irányadóak a 7. § rendelkezései azzal, hogy a lemondást az Országgyűlés elnökének kell bejelenteni, a megbízatás megszüntetését, ideértve az összeférhetetlenségi ok fennállásának megállapítását is, tovább a TTT tagjának a tisztségéből eredő jogköre gyakorlása alól való felfüggesztését a TTT érintett tagját jelölő képviselőcsoport — ennek megszűnése esetén bármely képviselőcsoport — kezdeményezheti, az egyébként a TTT-t, illetve a köztársasági elnököt megillető döntési jogköröket pedig az Országgyűlés gyakorolja.
-
-20. § (1) A TTT a feladatai ellátásához szükséges gyakorisággal, de legalább negyedévente ülésezik. A TTT ügyrendjét maga állapítja meg.
-
-(2) A TTT elnökét a kormánypárti, elnökhelyettesét az ellenzéki képviselőcsoportok jelölik.
-
-(3) A TTT tagjainak szavazati joga egyenlő. Az ülés határozatképes, ha azon a tagok több mint fele jelen van. A határozat meghozatalához a jelenlévők többségének szavazata szükséges. A jelenlevők 2/3-ának szavazata szükséges a 21. § (1) bekezdés a)—f) pontjaiban foglaltakhoz.
-
-(4) Ha a pályázatok elbírálására megállapított határidőt követő tizenöt napon belül a TTT nem tud javaslatot tenni a részvénytársaság elnöki tisztségére, és új pályázat kiírásáról sem tud dönteni, e határidő utolsó napján megbízatása megszűnik. Az Országgyűlés harminc napon belül új TTT-t választ. Ennek során az előző TTT tagja nem jelölhető.
-
-(5) A TTT ügyintéző, ügykezelő és ügyviteli teendőit titkársága látja el, a titkárság szervezetére és működésére vonatkozó további szabályokat az alapító okirat állapítja meg.
-
-21. § (1) A TTT feladat- és jogköre:
-
-- a) a részvénytársaság elnöki tisztségére a pályázati szempontok meghatározása és a nyilvános pályázati felhívás kiírása,
-- b) javaslat a miniszterelnök részére a részvénytársaság elnökének kinevezésére és felmentésére,
-- c) a részvénytársaság elnöke díjazásának megállapítása,
-- d) a felügyelő bizottság egyik tagjának megválasztása, a felügyelő bizottsági tagok díjazásának megállapítása,
-- e) a részvénytársaság könyvvizsgálójának megbízása, megbízásának felmondása, díjazásának megállapítása,
-- f) a részvénytársaság elnöke pályázatában foglalt célkitűzések megvalósításának folyamatos ellenőrzése és évenkénti értékelése,
-- g) az alapító okirat módosításának előkészítése,
-- h) a részvénytársaság díjszabásának jóváhagyása.
-
-(2) A TTT nem jogosult a hírügynökségi tevékenység tartalmát meghatározni, és a részvénytársaság elnökének az általa gyakorolt munkáltatói jogkörökre nézve utasítást adni.
-
-22. § A TTT tagjait az országgyűlési képviselők alapdíjának megfelelő összegű díjazás illeti meg.
+15–22. §
 
 ### A könyvvizsgáló
 
@@ -212,9 +159,7 @@ Az Országgyűlés a véleménynyilvánítás és a tájékozódás szabadsága,
 
 29. § A részvénytársaság gazdálkodását az Állami Számvevőszék ellenőrzi.
 
-30. § (1) Az Országgyűlés a központi költségvetés ,,Országgyűlés'' fejezetében a részvénytársaságot a 2. §-ban rögzített közszolgálati feladatok ellátásához szükséges mértékű céltámogatásban részesíti.
-
-(2) A részvénytársaság nyereségét kizárólag a közszolgálati hírügynökségi tevékenység folytatására, fejlesztésére, illetve vállalkozásainak fejlesztésére, valamint munkavállalóinak javadalmazására használhatja fel.
+30. §
 
 ### Átmeneti és záró rendelkezések
 
@@ -252,11 +197,7 @@ Az Országgyűlés a véleménynyilvánítás és a tájékozódás szabadsága,
 
 (10) A Magyar Távirati Iroda Közalkalmazotti Tanácsa üzemi tanácsként működik tovább.
 
-35. § (1) A részvénytársasággá való átalakulást követő harminc napon belül a TTT tagjait meg kell választani.
-
-(2) A TTT megválasztásától számított harminc napon belül a felügyelő bizottság tagjait meg kell választani, és a könyvvizsgálót meg kell bízni.
-
-(3) A TTT megalakulásától számított kilencven napon belül ki kell nevezni a részvénytársaság elnökét.
+35. §
 
 36. § (1) E törvény 1997. január 1-jén lép hatályba.
 
@@ -295,4 +236,30 @@ Az Országgyűlés a véleménynyilvánítás és a tájékozódás szabadsága,
 
 (12) A részvénytársaság elnökének kinevezése napján hatályát veszti a közszolgálati tájékoztatási eszközök (Magyar Rádió, Magyar Televízió, Magyar Távirati Iroda) vezetőinek kinevezési rendjéről szóló 1990. évi LVII. törvény, valamint a rádiózásról és televíziózásról szóló 1996. évi I. törvény 154. §-a.
 
-(13)
+(13) [36/A. § (1) Országgyűlési határozatban rendelkezik az Országgyűlés arról, hogy a Magyar Távirati Iroda Zrt.-t a Közszolgálati Közalapítvány tulajdonába adja a Tulajdonosi Tanácsadó Testület egyidejű megszüntetése mellett.
+
+(2) Az Országgyűlés az (1) bekezdés szerinti határozatban rendelkezik arról, hogy a Magyar Távirati Iroda zártkörűen működő egyszemélyes részvénytársaságot nonprofit részvénytársasággá kell átalakítani.
+
+(3) Az Országgyűlés (1) bekezdés szerinti határozata rendelkezik arról, hogy e § és az országgyűlési határozat végrehajtásához szükséges közgyűlési döntéseket a Közszolgálati Közalapítvány kuratóriuma jogosult és köteles meghozni.
+
+(4) Az (1) bekezdés szerinti országgyűlési határozat elfogadásához a jelenlevő országgyűlési képviselők 2/3-ának szavazata szükséges.
+
+(5) Az országgyűlési határozatban kell rendelkezni annak hatálybalépéséről és az e § szerinti feladatok végrehajtásának határidejéről.
+
+36/B. § (1) Az Országgyűlés határozatban rendelkezik a Magyar Távirati Iroda Zrt. vagyonának arról a részéről, amelynek vonatkozásában a tulajdonosi jogok és kötelezettségek összességét a Műsorszolgáltatás Támogató és Vagyonkezelő Alap gyakorolja. A Műsorszolgáltatás Támogató és Vagyonkezelő Alapra vonatkozó szabályokat az Rttv. tartalmazza.
+
+(2) Az (1) bekezdés szerinti országgyűlési határozatban rendelkezik az Országgyűlés az (1) bekezdés szerinti – tulajdonosi jogok és kötelezettségek összességének gyakorlását eredményező – vagyonátadás módjáról, ütemezéséről és az ütemezés időpontjairól. A vagyonátadás befejezési határidejét az (1) bekezdés szerinti országgyűlési határozatban kell szabályozni. A vagyonátadással összefüggésben szükségessé váló részvénytársasági alaptőke leszállítása vonatkozásában a gazdasági társaságokról szóló 2006. évi IV. törvény 271–272. §-ában foglalt szabályok nem alkalmazhatók.
+
+(3) Az (1) bekezdés szerinti határozatban rendelkezik az Országgyűlés az átadott vagyon hasznosításának, a vagyonnal történő gazdálkodásnak az Rttv. 54. § (4) bekezdésében meghatározott szabályozási irányelveiről.
+
+(4) Az Országgyűlés (1) bekezdés szerinti határozata rendelkezik arról, hogy e § és az országgyűlési határozat végrehajtásához szükséges közgyűlési döntéseket a Közszolgálati Közalapítvány kuratóriuma jogosult és köteles meghozni.
+
+(5) Az (1) bekezdés szerinti országgyűlési határozat elfogadásához a jelenlevő országgyűlési képviselők 2/3-nak szavazata szükséges.
+
+(6) Az (1) bekezdés szerinti országgyűlési határozat elfogadásának határideje 2010. szeptember 30. Az országgyűlési határozatban kell rendelkezni annak hatálybalépéséről.]
+
+36/C. § (1) A Tulajdonosi Tanácsadó Testület tagjainak megbízatása a Közszolgálati Közalapítvány Kuratóriuma tagjainak megválasztásával egyidejűleg megszűnik.
+
+(2) A Magyar Távirati Iroda Zrt. elnökének és alelnökeinek a megbízatása e törvény alapján a Magyar Távirati Iroda Zrt. vezérigazgatójának kinevezésével egyidejűleg megszűnik. A hivatalban levő elnök és alelnökök a médiát és a hírközlést szabályozó egyes törvények módosításáról szóló 2010. évi LXXXII. törvény hatálybalépését követően a működőképesség fenntartásához szükséges intézkedések megtételére jogosultak. Nem jogosultak az Rttv. 66. § (3) bekezdésében meghatározott jogügyletek létrehozására, illetve a Zrt. szervezeti és működési szabályzatának módosítására. Nem jogosultak továbbá ingatlan elidegenítésére, az egy évet meghaladó tartalmú, vagy a Zrt. éves üzleti terve kiadási főösszege 0,5%-át meghaladó értékű – a teljes tilalom alatt álló, az Rttv. 66. § (3) bekezdésében meghatározott jogügyletek kivételével –, vagy a reklámjogok kizárólagos hasznosítását átengedő szerződés megkötésére.
+
+(3) A Magyar Távirati Iroda Zrt. felügyelő bizottsági tagjainak e törvény alapján a közszolgálati részvénytársaságok közös Felügyelő Bizottsága tagjainak a megválasztásával egyidejűleg megszűnik a megbízatása.

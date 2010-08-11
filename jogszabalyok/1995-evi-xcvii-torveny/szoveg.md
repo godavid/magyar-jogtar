@@ -293,7 +293,7 @@ kezeli.
 
 (2) Nem kell üzemben tartási engedély a természetes személy tulajdonát képező, kizárólag magáncélra használt polgári légijármű üzemben tartásához.
 
-(3) Az üzemben tartási engedélyt a légiközlekedési hatóság adja ki. Ha az üzemben tartási engedély tárgya rádióberendezés vagy rádióberendezést foglal magában, abban az esetben a légiközlekedési hatóság az engedélyt a hírközlési hatóság által külön jogszabály alapján kiadott rádióengedély megléte esetén adja ki.
+(3) Az üzemben tartási engedélyt a légiközlekedési hatóság adja ki. Ha az üzemben tartási engedély tárgya rádióberendezés vagy rádióberendezést foglal magában, abban az esetben a légiközlekedési hatóság az engedélyt a Nemzeti Média- és Hírközlési Hatóság által külön jogszabály alapján kiadott rádióengedély megléte esetén adja ki.
 
 (4) Az állami repülések célját szolgáló repülőtér és a katonai repülések céljaira légiközlekedést szolgáló légiforgalmi földi berendezés üzemben tartására a katonai légügyi hatóság ad engedélyt.
 
@@ -303,7 +303,7 @@ kezeli.
 
 ### Különleges engedélyek
 
-20. § (1) A polgári légijárművön, repülőmodellen, valamint a légiközlekedési tevékenység és légiközlekedéssel összefüggő tevékenység során rádióberendezés – a hírközlési hatóság által külön jogszabály alapján kiadott rádióengedély megléte esetén – a légiközlekedési hatóság engedélyével és feltételeivel tartható üzemben.
+20. § (1) A polgári légijárművön, repülőmodellen, valamint a légiközlekedési tevékenység és légiközlekedéssel összefüggő tevékenység során rádióberendezés – a Nemzeti Média- és Hírközlési Hatóság által külön jogszabály alapján kiadott rádióengedély megléte esetén – a légiközlekedési hatóság engedélyével és feltételeivel tartható üzemben.
 
 (2) Veszélyes áru, valamint a légiforgalomban részt vevő polgári légijárművön hadianyag és hadifelszerelés a Kormány által rendeletben meghatározott engedéllyel továbbítható.
 

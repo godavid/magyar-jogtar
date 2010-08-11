@@ -246,7 +246,7 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 (3) Az (1) bekezdés a) és b) pontjának megsértéséért az elektronikus hirdető, az elektronikus hirdetési szolgáltató és az elektronikus hirdetés közzétevője egyaránt felel. Az (1) bekezdés c) és d) pontjának és (2) bekezdésének megsértéséért az elektronikus hirdető felel.
 
-14/B. § (1) Az elektronikus hirdető vagy az elektronikus hirdetés közzétevőjének beazonosítása céljából a közvetítő szolgáltató a Nemzeti Hírközlési Hatóság (a továbbiakban: a Hatóság) megkeresésére köteles a Hatóság rendelkezésére bocsátani a következő adatokat, ha azok a közvetítő szolgáltató rendelkezésére állnak:
+14/B. § (1) Az elektronikus hirdető vagy az elektronikus hirdetés közzétevőjének beazonosítása céljából a közvetítő szolgáltató a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) megkeresésére köteles a Hatóság rendelkezésére bocsátani a következő adatokat, ha azok a közvetítő szolgáltató rendelkezésére állnak:
 
 - a) a Hatóság által megjelölt elektronikus hirdetés küldőjének vagy közzétevőjének elektronikus hírközlési azonosítóját, és
 - b) a nyilvántartásában az elektronikus hírközlési azonosítóhoz tartozóként meghatározott igénybe vevő nevét és lakcímét.
