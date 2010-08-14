@@ -39,7 +39,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 - 9. Közhasználatú építmény: az olyan építmény (építményrész), amely – a település vagy településrész ellátását szolgáló funkciót tartalmaz, és – használata nem korlátozott, illetve nem korlátozható (pl. alap-, közép-, felsőfokú oktatási, egészségvédelmi, gyógyító, szociális, kulturális, művelődési, sport, pénzügyi, kereskedelmi, biztosítási, szolgáltatási célú építmények mindenki által használható részei), továbbá – használata meghatározott esetekben kötelező, illetve elkerülhetetlen (pl. a közigazgatás, igazságszolgáltatás, ügyészség építményeinek mindenki által használható részei), valamint, amelyet – törvény vagy kormányrendelet közhasználatúként határoz meg
 - 10. Épület: jellemzően emberi tartózkodás céljára szolgáló építmény, amely szerkezeteivel részben vagy egészben teret, helyiséget vagy ezek együttesét zárja körül meghatározott rendeltetés vagy rendeltetésével összefüggő tevékenység, avagy rendszeres munkavégzés, illetve tárolás céljából.
 - 11. Helyi építési szabályzat: az építés rendjét a helyi sajátosságoknak megfelelően megállapító és biztosító települési önkormányzati rendelet.
-- 12. Integrált településfejlesztési stratégia: középtávú, stratégiai szemléletű, megvalósításorientált településfejlesztési dokumentum.
+- 12. Integrált településfejlesztési stratégia: stratégiai szemléletű, a településfejlesztési koncepcióban foglaltak megvalósítását szolgáló dokumentum.
 - 13. Közterület: közhasználatra szolgáló minden olyan állami vagy önkormányzati tulajdonban álló földterület, amelyet a rendeltetésének megfelelően bárki használhat, és az ingatlan-nyilvántartás ekként tart nyilván. Egyéb ingatlanoknak a közhasználat céljára átadott területrészére – az erről szóló külön szerződésben foglaltak keretei között – a közterületre vonatkozó rendelkezéseket kell alkalmazni. Közterület rendeltetése különösen: a közlekedés biztosítása (utak, terek), a pihenő és emlékhelyek kialakítása (parkok, köztéri szobrok stb.), a közművek elhelyezése.
 - 14. Külterület: a település közigazgatási területének belterületnek nem minősülő, elsősorban mezőgazdasági, erdőművelési, illetőleg különleges (pl. bánya, vízmeder, hulladéktelep) célra szolgáló része.
 - 15. Műtárgy: mindazon építmény, ami nem minősül épületnek és épület funkciót jellemzően nem tartalmaz (pl. út, híd, torony, távközlés, műsorszórás műszaki létesítményei, gáz-, folyadék-, ömlesztett anyag tárolására szolgáló és nyomvonalas műszaki alkotások).
@@ -164,9 +164,9 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 - b) a településszerkezeti terv, amelyet az önkormányzati településfejlesztési döntés figyelembevételével a települési önkormányzat képviselő-testülete dolgoztat ki, és határozattal állapít meg (2. § 28. pont);
 - c) a helyi építési szabályzat és a szabályozási terv, amelyet a településszerkezeti terv alapján a települési önkormányzat képviselő-testülete dolgoztat ki, és rendelettel állapít meg (2. § 11. és 20. pont).
 
-(4) Az integrált településfejlesztési stratégia városok és több település közös tervezése esetén a településfejlesztési koncepció kötelező önálló munkarésze. Integrált településfejlesztési stratégiát község is készíthet a településfejlesztési koncepció önálló munkarészeként.
+(4) A (3) bekezdés szerinti településfejlesztési koncepció és településszerkezeti terv – a vonatkozó előírásoknak megfelelően – településfejlesztési tervként egyszerre is elkészíthető és egy határozattal megállapítható. A településfejlesztési tervet a 9. § és a 10. § (3) bekezdés előírásai szerint kell véleményeztetni.
 
-(5) Az integrált településfejlesztési stratégia meghatározza a települések középtávú településfejlesztési tevékenységét, összehangolja a különböző szakpolitikai megközelítéseket, összefogja és ütközteti az érintett partnerek (üzleti szektor, civil szektor, közszféra szereplői, lakosság) céljait, elvárásait, meghatározza a fejlesztési célokat, azok finanszírozási módját, továbbá a megvalósítás és fenntartás módját is összefüggéseiben kezeli.
+(5) A településfejlesztési koncepcióban foglaltak megvalósítása érdekében a városok és több település közös fejlesztési tervezése esetén integrált településfejlesztési stratégiát kell készíteni. Az integrált településfejlesztési stratégia meghatározza a települések településfejlesztési tevékenységét, összehangolja a különböző szakpolitikai megközelítéseket, összefogja és ütközteti az érintett partnerek (üzleti szektor, civil szektor, közszféra szereplői, lakosság) céljait, elvárásait, meghatározza a fejlesztési célokat, azok finanszírozási módját, továbbá a megvalósítás és fenntartás módját is összefüggéseiben kezeli.
 
 8. § (1) A településrendezés során figyelemmel kell lenni arra, hogy a rendezés végrehajtásával bekövetkező változások az érintett lakosság életkörülményeiben, értékrendjében és szociális helyzetében hátrányos következményekkel ne járjanak. Ennek érdekében biztosítani kell a területek a közérdeknek megfelelő felhasználását a jogos magánérdekekre tekintettel, az emberhez méltó környezet folyamatos alakítását, értékeinek védelmét. Ennek során figyelembe kell venni:
 
@@ -183,7 +183,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 
 (2) Az (1) bekezdésben foglaltak érvényesülése – különösen a természet- és a környezetvédelem, az erdők és a természetes (felszíni és felszín alatti) vizek védelme, az ár- és belvízvédelem, valamint a termőfölddel és a területekkel való takarékos bánás – érdekében az alábbi követelményeknek kell érvényt szerezni:
 
-- a) a települések rendezése során a település közigazgatási területére hulló felszíni csapadékvíz összegyűjtését és helyben tartását vagy szakszerű és ártalommentes elvezetését, kezelését az adottságok és a lehetőségek figyelembevételével biztosítani kell,
+- a) a települések rendezése során a település közigazgatási területét érintő árvíz, belvíz, valamint csapadékvíz szakszerű és ártalommentes elvezetését, vagy részbeni összegyűjtését és helyben tartását az adottságok és a lehetőségek figyelembevételével, a belterületi és külterületi vízrendezés összehangolásával biztosítani kell,
 - b) újonnan beépítésre szánt területek kijelölésével egyidejűleg a település közigazgatási területének – a külön jogszabály alapján számított – biológiai aktivitás értéke az átminősítés előtti aktivitás értékhez képest nem csökkenhet,
 - c) a települések beépítésre szánt területe csak olyan területfelhasználás céljára növelhető, amilyen célra a település már beépítésre kijelölt és igénybe vett területén belül nincs megfelelő terület,
 - d) a tervezés időszakában a 20 000 fő lakosságszámot meghaladó, valamint a tervezett létszámmal azt elérő települések, a kiemelt üdülőterületek, a gyógyhelyek meglévő, illetőleg bővített belterületét a közigazgatási területükön belül – eltérő területrendezési tervi előírás hiányában, és ahol ez fizikailag lehetséges – legalább 200 m szélességű, beépítésre nem szánt (mező-, erdőgazdasági, közlekedési, vízgazdálkodási, természetközeli, különleges beépítésre nem szánt) területekből álló gyűrűvel kell körülvenni, amely területen csak közlekedési, közmű, hírközlési és vízvédelmi építmények helyezhetők el. Új belterületet, beépítésre szánt területet úgy kell kijelölni, hogy legfeljebb tízezer tervezett lakost befogadó településrészt (illetőleg az üdülőterület valamint a gyógyhely jellegéhez igazodó területegységeket) ugyanilyen, beépítésre nem szánt területekből álló gyűrű vegye körül. Két terület közötti gyűrű – a természeti adottságok és a környezetvédelmi előírások figyelembevétele mellett – egymásba metszhet.
@@ -238,7 +238,14 @@ esetében.
   - aa) nem érinti a település fő infrastruktúra hálózatát, alapvető zöldfelületi rendszerét, morfológiáját, védett természeti értékeit, a kulturális örökség védelmét és nem növeli felhasználási intenzitását,
   - ab) területfelhasználási változást nem jelent, és
   - ac) már a 9. § (2) bekezdés szerinti véleményeztetéshez részletesen kidolgozásra került és véleményeztetése megtörtént, vagy
-- b) a módosítás elírás javítása érdekében történik.
+- b) a módosítás elírás javítása, rajzi feldolgozásból, méretarányból adódó pontatlanság javítása, vagy magasabb szintű jogszabályi változás átvezetése érdekében történik.
+
+9/B. § A Kormány által rendeletben kihirdetett veszélyhelyzettel érintett települések a településrendezési eszközeinek a veszélyhelyzet következményei felszámolásához, valamint a további károk mérsékléséhez szükséges módosítása során, a veszélyhelyzet feloldásától számított fél éven belül a 9. § (2)–(7) bekezdésétől a következők szerint térhetnek el:
+
+- a) a településrendezési eszköz módosítására tett javaslatnak a veszélyhelyzet jellegének megfelelő szakterületi jogosultsággal rendelkező szakértő által készített szakvéleményen kell alapulnia,
+- b) az elkészített településrendezési eszközt a polgármesternek egyeztető tárgyaláson az érdekelt államigazgatási szervekkel ismertetnie kell, a tárgyalás meghívójához az elkészített településrendezési eszközt mellékelnie kell,
+- c) az egyeztetett településrendezési eszközre vonatkozó végső szakmai véleményét az állami főépítész 5 munkanapon belül kiadja, és
+- d) a településrendezési eszköz módosítása azonnal hatályba léptethető.
 
 ### A településszerkezeti terv
 
@@ -1031,7 +1038,9 @@ a használatbavételi engedély megkéréséig biztosítható, illetve a haszná
 
 53/B. §
 
-53/C. § (1)–(5)
+53/C. § (1) Amennyiben az eljárásban több mint ötven ügyfél vesz részt, az építésügyi és az építésfelügyeleti hatóság akkor tart közmeghallgatást, ha azt a tényállás tisztázása érdekében indokoltnak tartja. Az építésügyi hatóság a használatbavételi engedélyezési eljárás során nem tart közmeghallgatást.
+
+(2)–(5)
 
 (6)
 
@@ -1047,6 +1056,10 @@ a használatbavételi engedély megkéréséig biztosítható, illetve a haszná
 a határozat végrehajtását felfüggesztheti.
 
 (10)
+
+53/D. § (1) Az elsőfokú általános építésügyi hatóság a kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő építésügyi hatósági hatáskörének gyakorlását – a Kormány által rendeletben meghatározott, a feladatellátást veszélyeztető esetben – átruházza a megyeszékhely települési önkormányzat jegyzőjére.
+
+(2) Az e törvény végrehajtására kiadott, a kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő engedélyezési és kötelezési eljárási szabályokról szóló kormányrendelet alapján kiadásra került bontási, építési, használatbavételi és fennmaradási engedély fellebbezésre tekintet nélkül végrehajtható.
 
 ### IV. Fejezet — AZ ÉPÍTETT KÖRNYEZET FENNTARTÁSA, HASZNÁLATA ÉS ÉRTÉKEINEK VÉDELME
 
@@ -1218,7 +1231,7 @@ E törvény 30. §-ának rendelkezéseit kell alkalmazni a törvény hatálybal�
 - g) a településrendezéssel, a telekalakítással és az építményekkel kapcsolatos országos szakmai követelményeket és az azoktól való eltérés lehetőségét,
 - h) a beruházáslebonyolítói és az energetikai tanúsítói tevékenység folytatásának részletes feltételeit, az e tevékenységek bejelentésének és a tevékenységet folytatók névjegyzékének személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a névjegyzék vezetésére vonatkozó részletes eljárási szabályokat, a névjegyzéket vezető szerv kijelölését, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
 - i) az építésügy körébe tartozó tevékenységek ellátásához szükséges nyilvántartások, adatszolgáltatások (adatbázisok és információs rendszerek) létesítésének és működésének feltételeit,
-- j)
+- j) a kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő kivételes építési követelményeket, engedélyezési és kötelezési eljárási szabályokat, tervdokumentáció tartalmi követelményeit, a kivételes tervellenőrzési, tervpályázati és tervtanácsi szabályokat, továbbá az építőipari kivitelezési tevékenység eltérő szabályait,
 - k) az építmények energiafelhasználásának minőségtanúsítására és annak díjazására,
 - l) a sajátos építményfajták körébe tartozó honvédelmi, katonai és nemzetbiztonsági célú építményekre vonatkozóan az építésügyi és építésfelügyeleti hatóságok kijelölését, az építésfelügyeleti ellenőrzési tevékenységet, az építésügyi és építésfelügyeleti hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását ellátó köztisztviselők szakirányú felsőfokú végzettségét és szakmai gyakorlatát, valamint az építésügyi hatósági engedélyezési és kötelezési eljárások, az építésügyi hatósági ellenőrzés és az építésfelügyeleti tevékenység részletes szakmai szabályait, a hatósági határozatok és végzések, illetve az építészeti-műszaki tervek részletes tartalmi követelményeit, továbbá az e tevékenységek ellátásához szükséges nyilvántartások létesítésének és működésének sajátos szabályait,
 - m) az építészeti-műszaki tervpályázati eljárás kötelező eseteit és részletes szabályait,
@@ -1233,7 +1246,8 @@ E törvény 30. §-ának rendelkezéseit kell alkalmazni a törvény hatálybal�
 - v) a tervezési és szakértői szerződés kötelező tartalmi elemeit,
 - w) a tervezés elősegítése érdekében, vagy az ingatlan adataiban bekövetkezett változásnak az ingatlan-nyilvántartásban történő átvezetéséhez tény, állapot, egyéb adat helyszíni szemle alapján hatósági bizonyítvánnyal történő igazolásáért, az összevont eljárásért és az integrált eljárásért az igazgatási szolgáltatási díj mértékét, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére és megosztására vonatkozó szabályokat,
 - x) a vállalkozói kivitelezői tevékenység folytatásának részletes feltételeit, az e tevékenységek bejelentésének és a tevékenységet folytatók névjegyzékének személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a névjegyzék vezetésére vonatkozó részletes eljárási szabályokat, valamint az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
-- y) a településfejlesztési koncepció és az integrált településfejlesztési stratégia tartalmi követelményeit, időtávjait, munkarészeit, készítésének, egyeztetésének és felülvizsgálatának szabályait, valamint az önkormányzati településfejlesztési döntéseket megalapozó más dokumentumokhoz való viszonyát
+- y) a településfejlesztési koncepció és az integrált településfejlesztési stratégia tartalmi követelményeit, időtávjait, munkarészeit, készítésének, egyeztetésének és felülvizsgálatának szabályait, valamint az önkormányzati településfejlesztési döntéseket megalapozó más dokumentumokhoz való viszonyát,
+- z) a településfejlesztési terv tartalmi követelményeire vonatkozó részletes szabályokat
 
 rendelettel állapítsa meg.
 
@@ -1263,6 +1277,8 @@ rendelettel állapítsa meg.
 (4) A sajátos építményfajtákra, valamint a műemlékvédelem alatt álló építményekre vonatkozóan a (2) bekezdésben foglalt szabályozási feladatokat – e törvényben foglaltakkal összhangban és a miniszterrel egyetértésben – az építményfajta szerint illetékes miniszter gyakorolja.
 
 (5) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a telekalakítási eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben rendelettel állapítsa meg.
+
+(6) Felhatalmazást kap a miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendelettel állapítsa meg az építésügyi hatóságot mint szakhatóságot a szakhatósági eljárásért megillető, továbbá az építési, a bontási és a használatbavételi bejelentésre vonatkozó igazgatási szolgáltatási díjakat.
 
 ### Az Európai Unió jogának való megfelelés
 

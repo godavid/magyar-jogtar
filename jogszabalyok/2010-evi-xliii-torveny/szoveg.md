@@ -61,7 +61,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 (2) Ha törvény kivételt nem tesz, az irányítási hatáskör gyakorlója az irányított államigazgatási szerv hatáskörét nem vonhatja el és döntését nem változtathatja meg.
 
-(3) Törvény vagy kormányrendelet a központi hivatal vagy a Kormány általános hatáskörű területi államigazgatási szerve irányításáról rendelkezhet úgy, hogy ügyek meghatározott csoportjaival összefüggésben – a hatékonysági és a pénzügyi ellenőrzés kivételével – az (1) bekezdés c), e) és f)–h) pontjaiban meghatározott hatásköröket valamely központi államigazgatási szerv vezetője gyakorolja.
+(3) Törvény vagy kormányrendelet a központi hivatal vagy a Kormány általános hatáskörű területi államigazgatási szerve irányításáról rendelkezhet úgy, hogy ügyek meghatározott csoportjaival összefüggésben – a hatékonysági és a pénzügyi ellenőrzés kivételével – az (1) bekezdés c), e) és f)–h) pontjaiban meghatározott egyes hatásköröket vagy ezek együttesét valamely központi államigazgatási szerv vezetője gyakorolja.
 
 3. § Ahol e törvény állami vezető vagy államigazgatási szerv szervezeti egysége vezetője tevékenységének irányítását említi, azon törvény eltérő rendelkezése hiányában a következő hatáskörök együttesét kell érteni:
 
@@ -69,7 +69,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 - b) a vezető tevékenységének ellenőrzése,
 - c) jelentéstételre vagy beszámolóra való kötelezés.
 
-4. § (1) Ahol jogszabály államigazgatási szerv felügyeletét említi, azon törvény eltérő rendelkezése hiányában e törvény 2. § (1) bekezdés a)–e) pontjában, valamint kizárólag ezekkel összefüggésben h) pontjában meghatározott hatáskörök együttesét kell érteni.
+4. § (1) Ahol jogszabály államigazgatási szerv felügyeletét említi, azon törvény vagy kormányrendelet eltérő rendelkezése hiányában a 2. § (1) bekezdés a)–e) pontjában, valamint kizárólag ezekkel összefüggésben h) pontjában meghatározott hatáskörök együttesét kell érteni.
 
 (2) A 2. § (1) bekezdés d)–e) pontjában meghatározott hatáskörök tekintetében a felügyelet kizárólag a jogszabálysértő szervezeti és működési szabályzat jóváhagyásának vagy kiadásának megtagadását, illetve a jogszabálysértő döntés megsemmisítését, szükség szerint új eljárás lefolytatására való utasítást foglalja magában.
 
@@ -79,7 +79,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 (2) Ha jogszabály a központi államigazgatási szervnek címez hatáskört, azt a szerv vezetője gyakorolja.
 
-(3) A központi államigazgatási szerv szervezeti és működési szabályzata a szerv vezetőjének hatáskörébe tartozó egyes ügyekben a kiadmányozási jogot a szervvel állami vezetői szolgálati jogviszonyban vagy állami vezetőként közszolgálati jogviszonyban, illetve vezetői megbízatással rendelkező közszolgálati jogviszonyban álló személyre ruházhatja, aki a döntés meghozatala során a szerv vezetője nevében jár el.
+(3) A központi államigazgatási szerv szervezeti és működési szabályzata a szerv vezetőjének hatáskörébe tartozó egyes ügyekben a kiadmányozási jogot a szervvel állami vezetői szolgálati jogviszonyban vagy állami vezetőként betöltött jogviszonyban, illetve vezetői megbízatással rendelkező közszolgálati jogviszonyban álló személyre ruházhatja, aki a döntés meghozatala során a szerv vezetője nevében jár el.
 
 ### Az állami vezetők
 
@@ -160,7 +160,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 (8) Ha a politikai vezetőt legkésőbb a hatáskörgyakorlásának megszűnésétől számított harminc napon belül ismételten állami vezetővé választják meg vagy nevezik ki
 
 - a) a ki nem adott szabadságát nem lehet pénzben megváltani, és
-- b) a ki nem adott szabadságát az új kinevezéssel vagy megválasztással érintett állami vezetői szolgálati jogviszony vagy állami vezetőként közszolgálati jogviszony alapján járó szabadsághoz hozzá kell számítani.
+- b) a ki nem adott szabadságát az új kinevezéssel vagy megválasztással érintett állami vezetői szolgálati jogviszony vagy állami vezetőként betöltött jogviszony alapján járó szabadsághoz hozzá kell számítani.
 
 14. § (1) A minisztert és az államtitkárt minden naptári évben negyven munkanap szabadság illeti meg, valamint a miniszterelnök által meghatározott összegű jutalomban részesülhet. A miniszter jutalmára a kormányzati tevékenység összehangolásáért felelős miniszter tesz javaslatot. Az államtitkár jutalmára – a Miniszterelnökséget vezető államtitkár kivételével – a tevékenységét irányító miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter együttesen tesz javaslatot.
 
@@ -447,7 +447,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 49. § (1) Az államtitkár – törvényben meghatározott kivételekkel, a minisztérium szervezeti és működési szabályzatában meghatározottak szerint – a miniszter teljes jogkörű helyettese.
 
-(2) Az államtitkár a minisztert helyettesítő jogkörében, illetve a miniszter által átruházott hatáskörében utasítást adhat a közigazgatási államtitkárnak és a helyettes államtitkárnak.
+(2) Az államtitkár ellátja a minisztérium szervezeti és működési szabályzata szerint, az abban meghatározott helyettes államtitkár tevékenységének az irányítását.
 
 (3) Az államtitkári cím használata során utalni kell az államtitkárnak a minisztérium szervezeti és működési szabályzata szerinti feladatkörére.
 
@@ -455,7 +455,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 (2) Az államtitkár tekintetében törvény eltérő rendelkezése hiányában a munkáltatói jogokat a miniszter gyakorolja.
 
-(3) Az államtitkárt – ha nem a minisztert helyettesítő jogkörében jár el – a szervezeti és működési szabályzatban meghatározottak szerint az adott szerv másik államtitkára, a közigazgatási államtitkár, a helyettes államtitkár, a kabinetfőnök vagy az államtitkár irányítása alá tartozó, vezetői megbízással rendelkező köztisztviselő helyettesíti. Ha az államtitkári tisztség nincsen betöltve, az államtitkár hatáskörét – a minisztert helyettesítő jogkörök kivételével, ha e törvény eltérően nem rendelkezik – a helyettesítésére kijelölt személy gyakorolja.
+(3) Az államtitkárt – ha nem a minisztert helyettesítő jogkörében jár el – a szervezeti és működési szabályzatban meghatározottak szerint az adott szerv másik államtitkára, a közigazgatási államtitkár, a helyettes államtitkár, a kabinetfőnök vagy az államtitkár irányítása alá tartozó, vezetői megbízással rendelkező közszolgálati jogviszonyban álló személy helyettesíti. Ha az államtitkári tisztség nincsen betöltve, az államtitkár hatáskörét – a minisztert helyettesítő jogkörök kivételével, ha e törvény eltérően nem rendelkezik – a helyettesítésére kijelölt személy gyakorolja.
 
 ### Az államtitkár javadalmazása
 
@@ -528,11 +528,11 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 (4) A minisztérium létszámkeretét – az egyes állami vezetők és a kabinetfőnökök irányítása alá tartozó szervezeti egységek együttes létszáma szerinti bontásban – a szervezeti és működési szabályzat határozza meg.
 
-(5) A Hivatalos Értesítőben központi államigazgatási szervenkénti bontásban havonta közzé kell tenni a Miniszterelnökségen és a minisztériumokban köztisztviselői jogviszony létesítéséről és megszüntetéséről, vezetői megbízás adásáról és visszavonásáról, címadományozásról és cím visszavonásáról, illetve berendelésről, vezénylésről, valamint azok megszüntetéséről szóló közleményeket.
+(5) A Hivatalos Értesítőben központi államigazgatási szervenkénti bontásban havonta közzé kell tenni a Miniszterelnökségen és a minisztériumokban kormánytisztviselői jogviszony létesítéséről és megszüntetéséről, vezetői megbízás adásáról és visszavonásáról, címadományozásról és cím visszavonásáról, illetve berendelésről, vezénylésről, valamint azok megszüntetéséről szóló közleményeket.
 
-61. § (1) A minisztérium hivatali szervezetét a közigazgatási államtitkár – a Honvédelmi Minisztériumra vonatkozó külön törvényben megállapított eltérések kivételével – a miniszter irányítása alatt, a 49. § (2) bekezdésében foglaltakra figyelemmel, a jogszabályoknak és a szakmai követelményeknek megfelelően vezeti.
+61. § (1) A minisztérium hivatali szervezetét a közigazgatási államtitkár – a honvédelemért felelős miniszter által vezetett minisztériumra vonatkozó külön törvényben megállapított eltérések kivételével – a miniszter irányítása alatt, a jogszabályoknak és a szakmai követelményeknek megfelelően vezeti. A közigazgatási államtitkár ellátja a minisztérium szervezeti és működési szabályzata szerint, az abban meghatározott helyettes államtitkár tevékenységének az irányítását.
 
-(2) Ha törvény eltérően nem rendelkezik a közigazgatási államtitkár gyakorolja a munkáltatói jogokat a minisztérium állományába tartozó köztisztviselők felett.
+(2) Ha törvény eltérően nem rendelkezik a közigazgatási államtitkár gyakorolja a munkáltatói jogokat a minisztérium állományába tartozó kormánytisztviselők felett.
 
 (3) A minisztériumban csak egy közigazgatási államtitkár működhet.
 
@@ -542,7 +542,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 62. § (1) A helyettes államtitkár a jogszabályoknak és a szakmai követelményeknek megfelelően irányítja a miniszter feladat- és hatáskörének a minisztérium szervezeti és működési szabályzatában meghatározott része tekintetében a szakmai munkát, valamint dönt a hatáskörébe utalt ügyekben. A Miniszterelnökségen működő helyettes államtitkár segíti a Miniszterelnökséget vezető államtitkár tevékenységét.
 
-(2) A helyettes államtitkár tevékenységét – a 65. § (1) bekezdése szerinti helyettes államtitkár kivételével – a 49. § (2) bekezdésében foglaltakra figyelemmel, a közigazgatási államtitkár irányítja és gyakorolja felette a munkáltatói jogokat.
+(2) A helyettes államtitkár tevékenységét – a 65. § (1) bekezdése szerinti helyettes államtitkár kivételével – a minisztérium szervezeti és működési szabályzatában meghatározottak szerint az államtitkár vagy a közigazgatási államtitkár a 31. § (3) bekezdésében meghatározott esetben kormánybiztos irányítja. A minisztérium szervezeti és működési szabályzata a helyettes államtitkár tevékenységének irányítására vonatkozó, a 3. §-ban meghatározott egyes hatásköröket – az (1) bekezdés szerinti ügyek meghatározott csoportjaival összefüggésben – az államtitkár és a közigazgatási államtitkár között megoszthatja. A helyettes államtitkár tekintetében a munkáltatói jogokat a közigazgatási államtitkár gyakorolja.
 
 (3) A helyettes államtitkári cím használata során utalni kell a helyettes államtitkárnak a minisztérium szervezeti és működési szabályzata szerinti feladatkörére.
 
@@ -554,7 +554,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 (3) Vezetői megbízatás csak a hatályos szervezeti és működési szabályzatban meghatározott szervezeti egység tekintetében, e törvény rendelkezései szerint adható.
 
-64. § (1) A miniszter normatív utasításával – vagy a feladatkörükben érintett miniszterek közös normatív utasításukkal – több közigazgatási államtitkár, helyettes államtitkár vagy főosztály feladatkörét érintő, eseti feladat elvégzésére a feladatkörükben érintett közigazgatási államtitkárokból, helyettes államtitkárokból, főosztályvezetőkből vagy vezetői megbízással rendelkező köztisztviselőkből álló munkacsoportot hozhat vagy hozhatnak létre.
+64. § (1) A miniszter normatív utasításával – vagy a feladatkörükben érintett miniszterek közös normatív utasításukkal – több közigazgatási államtitkár, helyettes államtitkár vagy főosztály feladatkörét érintő, eseti feladat elvégzésére a feladatkörükben érintett közigazgatási államtitkárokból, helyettes államtitkárokból, főosztályvezetőkből vagy vezetői megbízással rendelkező kormánytisztviselőkből álló munkacsoportot hozhat vagy hozhatnak létre.
 
 (2) Az utasításban meg kell határozni a munkacsoport feladatát, vezetőjét, tagjait és működésének idejét.
 
@@ -562,15 +562,15 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 65. § (1) A miniszteri kabinetet főosztályvezetőként a kabinetfőnök közvetlenül vezeti, akinek a tevékenységét a miniszter irányítja. Ha a kormányzati tevékenység összehangolásáért felelős miniszter egyben miniszterelnök-helyettes is, kabinetfőnöke helyettes államtitkár.
 
-(2) A kabinetfőnököt a miniszteri kabinet általa kijelölt köztisztviselője helyettesíti.
+(2) A kabinetfőnököt a miniszteri kabinet általa kijelölt kormánytisztviselője helyettesíti.
 
-(3) A munkáltatói jogokat a kabinetfőnök felett a miniszter, a kabinet állományába tartozó köztisztviselők felett a kabinetfőnök gyakorolja. A vezetői megbízás adása és visszavonása a miniszter hatáskörébe tartozik.
+(3) A munkáltatói jogokat a kabinetfőnök felett a miniszter, a kabinet állományába tartozó kormánytisztviselők felett a kabinetfőnök gyakorolja. A vezetői megbízás adása és visszavonása a miniszter hatáskörébe tartozik.
 
 66. § (1) Az államtitkári kabinetet a kabinetfőnök főosztályvezetőként közvetlenül vezeti, akinek a tevékenységét az államtitkár irányítja.
 
-(2) A kabinetfőnököt az államtitkári kabinet általa kijelölt köztisztviselője helyettesíti.
+(2) A kabinetfőnököt az államtitkári kabinet általa kijelölt kormánytisztviselője helyettesíti.
 
-(3) A munkáltatói jogokat a kabinetfőnök felett az államtitkár, a kabinet állományába tartozó köztisztviselők felett a kabinetfőnök gyakorolja. A vezetői megbízás adása és visszavonása az államtitkár hatáskörébe tartozik.
+(3) A munkáltatói jogokat a kabinetfőnök felett az államtitkár, a kabinet állományába tartozó kormánytisztviselők felett a kabinetfőnök gyakorolja. A vezetői megbízás adása és visszavonása az államtitkár hatáskörébe tartozik.
 
 67. § (1) A főosztályt főosztályvezető vezeti, akinek a tevékenységét a szervezeti és működési szabályzatban meghatározott helyettes államtitkár irányítja. A szervezeti és működési szabályzat rendelkezhet úgy, hogy a főosztályvezető tevékenységét a miniszter, az államtitkár vagy a közigazgatási államtitkár irányítja.
 
@@ -600,7 +600,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 (4) A Miniszterelnökség főosztályokra és osztályokra tagozódik.
 
-(5) A Miniszterelnökséget vezető államtitkár gyakorolja a munkáltatói jogokat a Miniszterelnökség állományába tartozó köztisztviselők felett.
+(5) A Miniszterelnökséget vezető államtitkár gyakorolja a munkáltatói jogokat a Miniszterelnökség állományába tartozó kormánytisztviselők felett.
 
 (6) A miniszterelnök titkárságát osztályvezető vezeti, akinek tevékenységét a Miniszterelnökséget vezető államtitkár irányítja és gyakorolja felette a munkáltatói jogokat.
 
@@ -697,9 +697,11 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a minisztériumokban működő államtitkárok, helyettes államtitkárok és állami vezetői megbízással nem rendelkező kormánybiztosok, miniszteri biztosok számát.
 
-(3) Felhatalmazást kap a Kormány, hogy a Kormány vagy a Kormány tagja irányítása alá tartozó államigazgatási szervek tekintetében a köztisztviselőket törvény alapján megillető juttatásokra vonatkozó szabályokat rendeletben állapítsa meg.
+(3) Felhatalmazást kap a Kormány, hogy a Kormány vagy a Kormány tagja irányítása alá tartozó államigazgatási szervek tekintetében a kormánytisztviselőket törvény alapján megillető juttatásokra vonatkozó szabályokat rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap a miniszterelnök, hogy rendeletben jelölje ki a miniszter hatáskörét gyakorló más minisztert, a kormányhivatal felügyeletét ellátó minisztert, valamint irányítási jogkörrel ruházza fel a kormánybiztost és a miniszterelnöki biztost.
+(4) Felhatalmazást kap a miniszterelnök, hogy rendeletben jelölje ki a miniszter hatáskörét gyakorló más minisztert, a kormányhivatal felügyeletét ellátó minisztert, valamint irányítási jogkörrel ruházza fel a miniszterelnöki biztost.
+
+(4a) Felhatalmazást kap a Kormány, hogy rendeletben irányítási jogkörrel ruházza fel a kormánybiztost.
 
 (5) Felhatalmazást kap a miniszterelnök, hogy az állami vezetői igazolvány formájával, kiadásával, tartalmával, felhasználásával és kezelésével kapcsolatos szabályokat rendeletben állapítsa meg.
 

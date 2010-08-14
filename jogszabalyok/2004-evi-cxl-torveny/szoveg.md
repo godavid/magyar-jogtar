@@ -1159,7 +1159,7 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 63. § (1) A hatóság közmeghallgatást tart, ha
 
 - a) ezt jogszabály előírja,
-- b) az eljárásban több mint ötven ügyfél vagy több mint öt, a 15. § (5) bekezdés alapján ügyfélnek minősülő szervezet vesz részt, vagy
+- b) az eljárásban több mint ötven ügyfél vagy több mint öt, a 15. § (5) bekezdés alapján ügyfélnek minősülő szervezet vesz részt, kivéve, ha törvény másként rendelkezik, vagy
 - c) a hatóság a nyilvánosság véleményének megismerése érdekében ezt szükségesnek tartja.
 
 (2) A közmeghallgatás helyéről és idejéről a hatóság – ha jogszabály másként nem rendelkezik – öt munkanappal korábban hirdetményi úton, továbbá közhírré tétel útján értesíti az érintetteket.
