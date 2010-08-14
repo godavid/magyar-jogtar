@@ -1568,6 +1568,8 @@ n) az építésrendészeti hatósági intézkedés kérése esetében 15 000 for
 
 3. a felügyeleti intézkedés esetén 50 000 forint.
 
+4. Illetékmentes és igazgatási szolgáltatási díjmentes a Kormány által rendeletben kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő bontási, elvi építési, építési, módosított építési és használatbavételi engedélyezési eljárás, valamint az eljárásban közreműködő szakhatóságok eljárása.
+
 XVI.
 
 XVII. A vállalkozói igazolvány és az üzlet működési engedélyének illetéke
