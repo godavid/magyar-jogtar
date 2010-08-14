@@ -2350,7 +2350,7 @@ tagjai.
 
 177. § (1) A munkáltató a 174—176. §-on alapuló felelőssége alapján a munkavállalónak elmaradt jövedelmét, dologi kárát, a sérelemmel, illetve ennek elhárításával összefüggésben felmerült indokolt költségeit köteles megtéríteni.
 
-(2) A személyhez fűződő jogai megsértése esetén a munkavállalót az őt ért nem vagyoni sérelemért sérelemdíj illeti meg.
+(2) Meg kell téríteni a munkavállalónak azt a kárát is, amely nem vagyoni kár.
 
 178. § (1) A munkaviszony körében az elmaradt jövedelem megállapításánál — mind a pénzben, mind a természetben megállapított — elmaradt munkabért, és azon rendszeres szolgáltatások pénzbeli értékét kell figyelembe venni, amelyekre a munkavállaló a munkaviszony alapján a munkabéren felül jogosult, feltéve, ha azokat a károkozás bekövetkezését megelőzően rendszeresen igénybe vette.
 
@@ -2946,7 +2946,9 @@ Alulírott ............. (név, lakcím) e nyilatkozattal kötelezem magamat, ho
 
 (5) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a törvény alapján rendeletben részletesen szabályozza a központi közigazgatási szerveknél foglalkoztatott tartós külszolgálatot teljesítő munkavállalók külföldi munkavégzésének sajátos szabályait, valamint alapellátmányának, illetve a központi közigazgatási szerveknél foglalkoztatott ideiglenes külföldi kiküldetésen lévő munkavállalók napidíjának összegét és azok kifizetésének szabályait.
 
-204–206. §
+204. § Ahol 2010. március 31-ét követően az Mt. 177. § (2) bekezdése alapján nem vagyoni kár megtérítéseként sérelemdíj iránti igényt nyújtottak be, azt nem vagyoni kártérítésként kell elbírálni.
+
+205–206. §
 
 207. § E törvény hatálybalépése előtt megkötött tanulmányi szerződésre, illetve megkezdett tanulmányokkal kapcsolatos kedvezményekre a megkötéskori, illetve a tanulmányok megkezdésekor hatályos jogot kell alkalmazni.
 

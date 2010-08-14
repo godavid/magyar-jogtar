@@ -442,9 +442,9 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 (4) A helyettes államtitkár alapilletményét minisztériumban a miniszter, a Miniszterelnökségen a Miniszterelnökséget vezető államtitkár át nem ruházható hatáskörében legfeljebb 30%-kal megemelheti.
 
-(5) A helyettes államtitkár jutalmazásáról a tevékenységét irányító közigazgatási államtitkár és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkárának együttes javaslata alapján a miniszter dönt. A Miniszterelnökségen működő helyettes államtitkár jutalmazásáról a Miniszterelnökséget vezető államtitkár dönt.
+(5) A helyettes államtitkár jutalmazásáról a közigazgatási államtitkár és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkárának együttes javaslata alapján a miniszter dönt. A Miniszterelnökségen működő helyettes államtitkár jutalmazásáról a Miniszterelnökséget vezető államtitkár dönt.
 
-(6) A helyettes államtitkár részére a tevékenységét irányító közigazgatási államtitkár és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztérium közigazgatási államtitkárának együttes javaslata alapján a miniszter célprémiumot állapíthat meg. A Miniszterelnökségen működő helyettes államtitkár részére a Miniszterelnökséget vezető államtitkár célprémiumot állapíthat meg.
+(6) A helyettes államtitkár részére a közigazgatási államtitkár és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztérium közigazgatási államtitkárának együttes javaslata alapján a miniszter célprémiumot állapíthat meg. A Miniszterelnökségen működő helyettes államtitkár részére a Miniszterelnökséget vezető államtitkár célprémiumot állapíthat meg.
 
 55. § (1) Helyettes államtitkár fegyelmi ügyében a kijelölt vizsgálóbiztos legalább helyettes államtitkári tisztséget betöltő állami vezető, az érdemi határozatot hozó háromtagú fegyelmi tanács elnöke a közigazgatási államtitkár, tagjai pedig – a miniszter által felkért – az eljárás alá vonttal azonos megbízatású szakmai vezető.
 
