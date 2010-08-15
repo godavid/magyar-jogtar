@@ -71,7 +71,7 @@ Stt.6. § (1) A KSH feladata:
 
 (3) A statisztikai regiszter (2) bekezdés szerinti tartalma – a csoportképzés alapjául szolgáló alapadatok kivételével – nyilvános. A hivatalos statisztikai szolgálathoz tartozó szervek részére – az országos statisztikai adatgyűjtési programban szereplő adatgyűjtéseik megszervezése érdekében – a regiszter tartalma az ehhez szükséges mértékben kiegészíthető.
 
-Stt.6/A. § A KSH kiegészítő tevékenységet végezhet.
+Stt.6/A. §
 
 Vhr.2. § (1) A KSH feladatainak ellátásához kapcsolódóan a Kormány részére javaslatot tesz
 

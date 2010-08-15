@@ -774,7 +774,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 (3) A helyi önkormányzat vállalkozása a kötelező feladatainak ellátását nem veszélyeztetheti. Az önkormányzat olyan vállalkozásban vehet részt, amelyben felelőssége nem haladja meg vagyoni hozzájárulásának mértékét.
 
-(4) Az önkormányzat többségi befolyása alatt álló vállalkozásra – ha e törvény eltérően nem rendelkezik – az államháztartásról szóló 1992. évi XXXVIII. törvény 95/A. §-ában foglalt rendelkezéseket megfelelően alkalmazni kell.
+(4) Az önkormányzat többségi befolyása alatt álló gazdálkodó szervezetek alapításakor rendezendő feladatokra, a működés során az alapító (tag, részvényes), a gazdálkodó szervezet legfőbb szerve, vezető tisztségviselői, felügyelő bizottsága feladataira, jogosultságaira és kötelezettségeire – ha e törvény eltérően nem rendelkezik – az államháztartásról szóló törvényben foglalt rendelkezéseket is alkalmazni kell.
 
 (5) Amennyiben törvény másképp nem rendelkezik, a helyi önkormányzat társulásba bevitt vagyonát a társuló helyi önkormányzat vagyonaként kell nyilvántartani, a vagyonszaporulat a társult helyi önkormányzatok közös vagyona, és arra a Polgári Törvénykönyv közös tulajdonra vonatkozó szabályait kell alkalmazni.
 
