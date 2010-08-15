@@ -182,7 +182,7 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 15. § (1) A főtitkár – a Közgyűlés határozataival és az elnök iránymutatásaival összhangban – az Alapszabályban meghatározott módon működteti a titkársági szervezetet (a továbbiakban: az MTA Titkársága), s ezen keresztül ellátja a kutatóhálózat adminisztratív irányítását.
 
-(2) A főtitkár hivatalból elnöke az Akadémiai Kutatóhelyek Tanácsának.
+(2) A főtitkár hivatalból elnöke az AKT-nak.
 
 (3) A főtitkárhelyettes segíti a főtitkárt munkájában, és a főtitkár akadályoztatása esetén helyettesíti.
 
@@ -198,7 +198,7 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 17. § (1) Az Akadémia kutatóhálózata kutatóközpontokból, kutatóintézetekből és támogatott kutatócsoportokból (együttesen: kutatóhely) áll.
 
-(2) A kutatóközpontokat és a kutatóintézeteket a Közgyűlés határozattal hozza létre, szervezi át, sorolja át és szünteti meg, amelynek alapján az Akadémia elnöke írja alá az alapításról, átszervezésről, átsorolásról, megszüntetésről rendelkező okiratot. Az eljárási szabályokat az Alapszabály rögzíti.
+(2) A kutatóközpontokat és a – nem kutatóközponti szervezeti egységként működő – kutatóintézeteket a Közgyűlés határozattal hozza létre, szervezi át, sorolja át és szünteti meg, amelynek alapján az Akadémia elnöke írja alá az alapításról, átszervezésről, átsorolásról, megszüntetésről rendelkező okiratot. Az eljárási szabályokat az Alapszabály rögzíti.
 
 (3) A támogatott kutatócsoport a TKI szervezetébe tartozó azon szervezeti egység, amelynek alkalmazottai nem az Akadémia irányítása alá tartozó intézménynél végzik munkájukat. A támogatott kutatócsoportok létrehozásáról és megszüntetéséről az Akadémia elnöke az Alapszabályban rögzített pályázati eljárás előírásai szerint dönt.
 
@@ -234,9 +234,9 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 ### Az akadémiai kutatóközpontok és kutatóintézetek
 
-18. § (1) Az akadémiai kutatóközpont és a kutatóintézet közszolgáltató költségvetési szerv. A kutatóközpont két vagy több kutatóintézetet magában foglaló jogi személy. A kutatóközpont szervezeti egységeit alkotó kutatóintézetek jogi személyiségű szervezeti egységek. A kutatóközpont és a kutatóintézet autonóm módon vesz részt az Akadémia közfeladatainak megoldásában, önállóan is vállal közfeladatokat, továbbá egyéb tevékenységet is végezhet. Tudományos tevékenységéről és gazdálkodásáról évente beszámolót készít, amelyet az Akadémia az e törvényben és az Alapszabályban leírtak szerint értékel.
+18. § (1) Az akadémiai kutatóközpont és a kutatóintézet költségvetési szerv. Az akadémiai kutatóközpont keretein belül működő kutatóintézet a kutatóközpont szervezeti egysége. A kutatóközpont és a kutatóintézet autonóm módon vesz részt az Akadémia közfeladatainak megoldásában, önállóan is vállal közfeladatokat, továbbá egyéb tevékenységet is végezhet. Tudományos tevékenységéről és gazdálkodásáról évente beszámolót készít, amelyet az Akadémia az e törvényben és az Alapszabályban leírtak szerint értékel.
 
-(2) A kutatóközpont és a kutatóintézet – a vállalkozó közintézet kivételével – egyszemélyi vezetés alatt áll. A kutatóközpont tevékenységét a főigazgató, a kutatóintézetét az igazgató irányítja, a tudományos tanács vagy más intézeti testületi szerv közreműködésével.
+(2) A kutatóközpont tevékenységét a főigazgató, a kutatóintézetét az igazgató irányítja, a tudományos tanács vagy más intézeti testületi szerv közreműködésével.
 
 (3) A főigazgatót, illetve az igazgatót az Európai Unió ajánlásainak megfelelő pályázati eljárás alapján az Akadémia elnöke nevezi ki (bízza meg), illetve menti fel (vonja vissza megbízását). A kinevezés legfeljebb 5 évre szól. A kinevezési és felmentési eljárás szabályait az Alapszabály rögzíti.
 
@@ -252,7 +252,7 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 ### Az Akadémia egyéb intézményei
 
-19. § (1) Az MTA Titkársága az Akadémia köztestületi feladatait szervező, az Akadémia kutatóhálózatának és más intézményeinek igazgatási, gazdálkodási, pénzügyi, vagyonkezelési és ellenőrzési feladatait ellátó közhatalmi költségvetési szerv, amely közhatalmi feladatai mellett kormányrendeletben meghatározott közszolgáltatási tevékenységet is végezhet. A Titkárság közfeladatokat ellátó alkalmazottai köztisztviselők.
+19. § (1) Az MTA Titkársága az Akadémia köztestületi feladatait szervező, az Akadémia kutatóhálózatának és más intézményeinek igazgatási, gazdálkodási, pénzügyi, vagyonkezelési és ellenőrzési feladatait ellátó költségvetési szerv. A Titkárság közfeladatokat ellátó alkalmazottai köztisztviselők.
 
 (2) Az MTA Titkárságának feladatait az Alapító Okirat rögzíti, amelyet az Akadémia elnöke ad ki.
 
@@ -276,7 +276,7 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (7) Az Akadémia jogosult az akadémiai költségvetési szerveket a tevékenységük jellege és a feladatellátásukhoz gyakorolt funkcióik szerint csoportokba besorolni.
 
-(8) Az Akadémia a feladataihoz igazodóan saját hatáskörében állapítja meg egyes szervezeteinek gazdálkodási formáit és a kutatástámogatás módját. A költségvetési szerv formában működő akadémiai kutatóintézet vállalkozó közintézet költségvetési szervként történő besorolásáról – az államháztartásról szóló törvényben foglalt feltételek teljesülése esetén – a kutatóintézet kezdeményezésére az Akadémia Közgyűlése dönt.
+(8) Az Akadémia a feladataihoz igazodóan saját hatáskörében állapítja meg egyes szervezeteinek gazdálkodási formáit és a kutatástámogatás módját.
 
 (9) Az Akadémia – kapcsolódva az államháztartás rendjéhez – megadja a központi költségvetés tervezéséhez és az annak végrehajtásáról szóló beszámolóhoz szükséges információkat.
 
@@ -315,7 +315,7 @@ a közfeladatokkal arányosan – jogszabályban meghatározott feltételek szer
 
 (8) Az akadémiai költségvetési szerveknél foglalkoztatottakra – az MTA Titkárságának közfeladatokat ellátó köztisztviselői, ügykezelői, illetve munkavállalói kivételével – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény rendelkezéseit kell alkalmazni.
 
-(9) Az akadémiai költségvetési szervek (közintézetek, közüzemek és vállalkozó közintézetek) foglalkoztatottjai számára kereset-kiegészítés állapítható meg, amelynek részletes szabályait az Akadémia szabályzatban határozza meg.
+(9) Az akadémiai költségvetési szervek foglalkoztatottjai számára kereset-kiegészítés állapítható meg, amelynek részletes szabályait az Akadémia szabályzatban határozza meg.
 
 22. § (1) Az akadémiai költségvetési szervek többéves kutatási és egyéb szerződéseket köthetnek, és ezek teljesítése érdekében az Akadémia elnökének előzetes engedélyével a folyó éven túli kötelezettségeket vállalhatnak.
 

@@ -172,7 +172,7 @@ kizárólag a 2. §-ban felsorolt feladataihoz kapcsolódóan, fejlesztési tők
 
 (6) A Hpt. XIV. fejezete alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül.
 
-8/A. §
+8/A. § E törvény 1. és 2. számú mellékletében szereplő pénzügyi vállalkozásoknál, valamint e törvény 1. és 2. számú mellékletében meghatározott gazdálkodó szervezetek részesedésével működő pénzügyi vállalkozásoknál igazgatóság nem működik kivéve, ha a tulajdonos (alapító), illetve a tulajdonosi jogok gyakorlója, vagy a közgyűlés másként rendelkezik. Egyszemélyes ügyvezetés esetén az igazgatóság jogait egy vezető tisztségviselő (vezérigazgató) gyakorolja. E rendelkezéseket 2010. július 1. napját követően létrehozott, illetve megszüntetett jogviszonyok tekintetében kell alkalmazni.
 
 9. § (1) Az MFB Zrt. a 2. §-ban meghatározott feladatainak ellátása érdekében, fejlesztési tőkefinanszírozás céljából
 
@@ -220,6 +220,8 @@ szerezhet.
 (3) Vezető állású személy, illetve ügyvezető megválasztását, illetve kinevezését az MFB Zrt. a kinevezéstől számított 2 munkanapon belül köteles a Felügyeletnek bejelenteni. A bejelentésre a Hpt. 68. § (2) bekezdését kell megfelelően alkalmazni.
 
 (4) Amennyiben a Felügyelet úgy ítéli meg, hogy a megválasztott, illetve kinevezett személy nem felel meg e törvényben, valamint a Hpt. 44. §-ában és 68. §-ában meghatározott feltételeknek, 10 munkanapon belül kezdeményezheti a tulajdonosi jogok gyakorlójánál a megválasztott személy visszahívását, illetve a kinevezett személy felmentését.
+
+(5) A jelen § rendelkezéseit e törvény mellékleteiben szereplő pénzügyi intézményekre, valamint az 1. és 2. számú mellékletben meghatározott gazdálkodó szervezetek részesedésével működő pénzügyi intézményekre is megfelelően alkalmazni kell.
 
 13/B. § Kizárólag a tulajdonosi jogok gyakorlójának engedélye szükséges az MFB Zrt. alapító okiratának módosításához a következő esetekben:
 

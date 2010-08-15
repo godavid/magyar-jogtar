@@ -105,7 +105,7 @@ alapíthat.
 
 (7) A fenntartó felelőssége, hogy – az e törvényben meghatározottak szerint, költségvetési szervként működő felsőoktatási intézmény esetén az államháztartás működésének követelményeit érvényesítve – biztosítsa az intézmény autonóm működésének tárgyi, pénzügyi, személyi feltételeit.
 
-(8) Költségvetési szervként működő felsőoktatási intézmény vállalkozó közintézet költségvetési szervként történő átsorolását – az államháztartásról szóló törvényben és e törvényben foglalt feltételek teljesülése esetén – az intézmény kezdeményezheti.
+(8)
 
 8. § (1) A felsőoktatás által nyújtott képzésbe állampolgárságára való tekintet nélkül mindenki bekapcsolódhat, és szabadon választhatja meg azt a felsőoktatási intézményt, amelyben tanulmányokat kíván folytatni.
 
@@ -211,11 +211,11 @@ folytat.
 
 (12) A Kormány határozza meg a felsőoktatási intézmény, a diákotthon létesítésének és működésének minimális (kötelező) feltételeit, az alapításhoz szükséges kérelem mellékleteit, a kérelem elbírálásának szabályait. A felsőoktatási intézményre vonatkozóan minimális (kötelező) feltételként elő kell írni a feladatellátáshoz szükséges oktatói, kutatói létszám, az oktatáshoz, kutatáshoz szükséges helyiségek, szociális helyiségek, szabadidős létesítmények, informatikai háttér, eszközök, könyvtár, felszerelések, a működés fedezetét tükröző költségvetés, az intézményi dokumentumok meglétét.
 
-16. § (1) A felsőoktatási intézmény alapító okirata tartalmazza az intézmény hivatalos nevét, a fenntartójának nevét és címét, az alap- és kiegészítő tevékenységét, az alaptevékenységéhez kapcsolódó egyéb feladatokat, azokat a képzési területeket, tudományterületeket, képzési szinteket, amelyeken a felsőoktatási intézmény képzést folytat, illetve folytathat, feltüntetve a székhelyen kívüli képzést is, a felsőfokú szakképzés szakmacsoportjait, az ellátott közoktatási, közművelődési, közgyűjteményi, egészségügyi, agrár- és vidékfejlesztési, továbbá más feladatokat, a vállalkozási tevékenység megjelölését, az intézmény székhelyének és valamennyi telephelyének címét, a székhelyen kívüli képzés címét, a regionális központot, az intézmény szervezeti tagolását, a felsőoktatási intézmény rendelkezésére bocsátott ingatlanvagyont, a vagyon feletti rendelkezés jogát, a maximális hallgatói létszámot.
+16. § (1) A felsőoktatási intézmény alapító okirata tartalmazza az intézmény hivatalos nevét, a fenntartójának nevét és címét, az alaptevékenységét, az alaptevékenységéhez kapcsolódó egyéb feladatokat, azokat a képzési területeket, tudományterületeket, képzési szinteket, amelyeken a felsőoktatási intézmény képzést folytat, illetve folytathat, feltüntetve a székhelyen kívüli képzést is, a felsőfokú szakképzés szakmacsoportjait, az ellátott közoktatási, közművelődési, közgyűjteményi, egészségügyi, agrár- és vidékfejlesztési, továbbá más feladatokat, a vállalkozási tevékenység megjelölését, az intézmény székhelyének és valamennyi telephelyének címét, a székhelyen kívüli képzés címét, a regionális központot, az intézmény szervezeti tagolását, a felsőoktatási intézmény rendelkezésére bocsátott ingatlanvagyont, a vagyon feletti rendelkezés jogát, a maximális hallgatói létszámot.
 
 (2) A regisztrációs központ központi nyilvántartás keretében nyilvántartja az alapító okiratban, valamint a 2. számú melléklet II/A. részében megjelölt adatokat. A bejegyzett adatokban bekövetkezett változásokat be kell jelenteni. Az adatokban bekövetkező változás esetén a változások tekintetében a 15. §-ban szabályozott eljárásokat le kell folytatni. A nyilvántartásban szereplő adatok közérdekből nyilvánosak.
 
-(3) A költségvetési szervként működő felsőoktatási intézmény alapító okirata az intézmény bevételeinek arányában meghatározva tartalmazza az intézmény kisegítő és vállalkozási tevékenységének felső határát. A költségvetési szerv megszüntetésével, átalakításával kapcsolatos feltételek szempontjából a kisegítő és vállalkozási tevékenységek előírt arányainak teljesülését három év vonatkozásában kell vizsgálni. A költségvetési szervek jogállásáról és gazdálkodásáról szóló 2008. évi CV. törvény (a továbbiakban: költségvetési szervek jogállásáról szóló törvény) 14. §-ától eltérően a költségvetési szervként működő felsőoktatási intézmény alapító okirata az intézmény – e törvényben meghatározott típusú – szervezeti egységét ruházhatja fel jogi személyiséggel.
+(3) A költségvetési szervként működő felsőoktatási intézmény alapító okirata tartalmazza az intézmény vállalkozási tevékenységének felső határát.
 
 17. § (1) A nem állami felsőoktatási intézmény fenntartói joga megállapodással másik, a fenntartói jog gyakorlására jogosultnak átadható. Ha a felsőoktatási intézmény fenntartójának személyében következik be változás anélkül, hogy az érintené a felsőoktatási intézmény tevékenységét és működését, a regisztrációs központ azt vizsgálja, hogy az új fenntartó rendelkezik-e a felsőoktatási intézmény folyamatos működtetéséhez szükséges feltételekkel. A fenntartói jog átadása tárgyában kötött megállapodás a regisztrációs központ határozatának jogerőre emelkedésével jön létre.
 
@@ -299,7 +299,7 @@ folytat.
 
 23. § (1) A gazdasági tanács a felsőoktatási intézmény feladatainak végrehajtása megalapozásában, a rendelkezésére bocsátott források, eszközök, a közpénz, a közvagyon hatékony és felelős használatát segítő gazdasági stratégiai döntéseket előkészítő és végrehajtásuk ellenőrzésében részt vevő, a fenntartói döntések előkészítésében – e törvényben meghatározottak szerint – közreműködő testület.
 
-(2) Az állami fenntartású felsőoktatási intézményben a gazdasági tanácsot létre kell hozni, a nem állami felsőoktatási intézményekben – az alapító okiratban meghatározottak szerint – a gazdasági tanács létrehozható. Ha az államháztartásról szóló törvény és annak végrehajtási rendelete a költségvetési szervek felépítésével, működésével kapcsolatosan felügyelő testületet említ, azon az állami felsőoktatási intézmények vonatkozásában az e törvény által meghatározott gazdasági tanácsot kell érteni.
+(2) Az állami fenntartású felsőoktatási intézményben a gazdasági tanácsot létre kell hozni, a nem állami felsőoktatási intézményekben – az alapító okiratban meghatározottak szerint – a gazdasági tanács létrehozható.
 
 (3) A gazdasági tanácsnak hét vagy kilenc tagja van. A gazdasági tanács létszámát a működés megkezdéséhez szükséges engedélyben meghatározott hallgatói létszám adatai alapján kell meghatározni a következők szerint: ha a felsőoktatási intézmény maximális hallgatói létszáma
 
@@ -514,11 +514,11 @@ tagból áll. A gazdasági tanács tagja az lehet, aki felsőfokú végzettségg
 - b) szolgáltató,
 - c) funkcionális
 
-szervezeti egységeket hozhat létre és működtethet oly módon, hogy ne keletkezzen indokolatlan párhuzamosság a feladatellátás megszervezésekor. A felsőoktatási intézmény oktatási alaptevékenységének körébe tartozó feladatot ellátó szervezeti egysége jogi személyiségű szervezeti egység formájában nem működtethető.
+szervezeti egységeket hozhat létre és működtethet oly módon, hogy ne keletkezzen indokolatlan párhuzamosság a feladatellátás megszervezésekor.
 
 (2) A felsőoktatási intézmény oktatási és tudományos kutatási szervezeti egységei különösen: a kar, a tanszék, az intézet, a botanikuskert, a klinika, a kutatóintézet, a kutatócsoport, a tangazdaság. Ha a felsőoktatási intézmény több telephelyén indít alap- vagy mesterképzést, az intézmény képzési programjában kell meghatározni, hogy melyik oktatási szervezeti egység felel a képzésért. Egy szak képzésért egy oktatási szervezeti egység lehet a felelős. Ha a felvételi jelentkezések csökkenése miatt, illetve más okból az adott szakot az intézmény a továbbiakban nem indítja, az indításra vonatkozó jogosultsági bejegyzést a regisztrációs központ a nyilvántartásából törölte, a szenátusnak az intézményfejlesztési terv, valamint a képzési program felülvizsgálatával egyidejűleg a 27. § (8) bekezdés f) pontjában meghatározott jogkörében kell döntést hoznia.
 
-(3) A felsőoktatási intézményben kollégiumi, informatikai, szociális, kulturális, sport, könyvtári, levéltári, múzeumi, egészségügyi szolgáltató és egyéb (például: közoktatási, gyakorlati képzést biztosító tanműhely, művészeti gyakorlóhely, valamit termelő) feladatot ellátó szervezeti egység hozható létre. Jogi személyiségű szervezeti egységként különösen az egészségügyi szolgáltató tevékenységet ellátó szervezeti egység működhet. A jogi személyiségű szervezeti egység a 36/C. §-ban, a 36/G. §-ban, a 136/B. §-ban és a 142/A. §-ban meghatározott szabályok szerint működtethető.
+(3) A felsőoktatási intézményben kollégiumi, informatikai, szociális, kulturális, sport, könyvtári, levéltári, múzeumi, egészségügyi szolgáltató és egyéb (például: közoktatási, gyakorlati képzést biztosító tanműhely, művészeti gyakorlóhely, valamint termelő) feladatot ellátó szervezeti egység hozható létre.
 
 (4) A felsőoktatási intézmény működtetési feladatainak ellátásához gazdasági, továbbá belső ellenőrzési feladatot ellátó funkcionális szervezeti egységet hoz létre, valamint igazgatási, szervezési (a továbbiakban: igazgatási feladatot ellátó hivatal), műszaki szolgáltató és más, a működést biztosító funkcionális szervezeti egységet hozhat létre. A gazdasági és ellenőrzési szervezet irányítását a rektor látja el.
 
@@ -645,95 +645,7 @@ szervezeti egységeket hozhat létre és működtethet oly módon, hogy ne kelet
 
 (10) Költségvetési szervként működő felsőoktatási intézmény költségvetési szervvel egyesülhet, költségvetési szervhez csatlakozhat és költségvetési szervvel olvadhat össze.
 
-### A FELSŐOKTATÁSI INTÉZMÉNYEK ÁTSOROLÁSA
-
-### Az átsorolás szabályai
-
-36/A. § (1) A költségvetési szervként működő közintézetként besorolt felsőoktatási intézmény, vállalkozó közintézetté történő átsorolását akkor kezdeményezheti a fenntartójánál, ha teljesíti a költségvetési szervek jogállásáról szóló törvényben és a (2)–(4) bekezdésben meghatározott feltételeket. Az átsorolás kezdeményezésének feltétele továbbá, hogy a felsőoktatási intézmény eleget tegyen a vezető testület e törvényben meghatározottak szerinti felállításához és működtetéséhez szükséges feltételeknek.
-
-(2) A közintézetként besorolt felsőoktatási intézmény vállalkozó közintézetté történő átsorolását kezdeményezheti, ha az intézmény és annak jogi személyiségű szervezeti egysége
-
-- a) köztartozással nem rendelkezik,
-- b) hatvan napon túli lejárt esedékességű adósságállománnyal
-  - ba) nem rendelkezik, vagy
-  - bb) rendelkezik, de az, az átsorolás kezdeményezését megelőző tizennyolc hónapban folyamatos csökkenés mellett kevesebb, mint felére mérséklődött,
-- c) harminc napon túli lejárt esedékességű adósságállománnyal
-  - ca) nem rendelkezik, vagy
-  - cb) rendelkezik, de az, az átsorolás kezdeményezését megelőző tizennyolc hónapban folyamatos csökkenés mellett legfeljebb a hatvan napon túli lejárt adósságállomány másfélszeresének megfelelő összegre – hatvan napon túli lejárt adósságállomány hiányában – ötszázmillió forintra mérséklődött,
-- d) a (6) bekezdésben meghatározott mértékű saját vagyonnal rendelkezik,
-- e) kutatási, fejlesztési és innovációs feladataiból a megrendelőktől származó közszolgáltatási és vállalkozási, valamint az államháztartáson kívülről átvett pénzeszközeinek éves bevétele eléri az éves kiadásainak húsz százalékát.
-
-(3) A közintézetként besorolt felsőoktatási intézmény vállalkozó közintézetté történő átsorolását kezdeményezheti, ha – a (2) bekezdésben foglaltakon túl – az intézmény
-
-- a) rendelkezik intézményi társasággal, és az általa alapított vagy részvételével működő intézményi társaságnak az éves bevétele eléri az éves intézményi kiadások húsz százalékát,
-- b) költségtérítéses képzésben részt vevő hallgatóinak aránya eléri az intézményi hallgatói létszám ötven százalékát és a költségtérítéses hallgatók legalább tíz százaléka külföldi állampolgárságú hallgató.
-
-(4) A közintézetként besorolt felsőoktatási intézmény a vállalkozó közintézetté történő átsorolását kezdeményező megkeresése részeként hatástanulmányt készít a következők bemutatásával:
-
-- a) vállalkozó közintézetként való működés várt előnyei, a gazdálkodásra gyakorolt hatása,
-- b) a szükségessé váló ügyviteli, gazdálkodási és szervezeti változások, ezek költségigénye és forrása,
-- c) a harminc, hatvan napon túli lejárt esedékességű adósságállomány megszüntetését célzó intézkedések, azok ütemezése az intézmény egészére és annak jogi személyiségű szervezeti egységére egyaránt,
-- d) a c) pontban meghatározott adósságállomány kialakulásának, illetve újbóli keletkezésének megakadályozását szolgáló intézkedések,
-- e) saját vagyonának könyv szerinti és piaci értéke,
-- f) hosszú távú kötelezettségvállalásainak állománya, az azokból következő éves fizetési kötelezettségek a teljes futamidő alatt.
-
-(5) A felsőoktatási intézmény a (4) bekezdés szerinti megkereséshez csatolja az intézményfejlesztési tervnek a besorolás változásának megfelelően átdolgozott, annak hatásait tükröző tervezetét.
-
-(6) A közintézetként besorolt felsőoktatási intézmény akkor rendelkezik a vállalkozó közintézetté történő átsorolás feltételéül szabott megfelelő mértékű saját vagyonnal, ha az átsorolás kezdeményezésének évét megelőző év december 31-én a saját vagyonának könyvvizsgáló által ellenőrzött piaci értéke legalább kétszerese az intézmény hosszú távú kötelezettségvállalásai és éven túli kötelezettségvállalásai jelenértéke együttes összegének.
-
-36/B. § (1) A költségvetési szervek jogállásáról szóló törvényben meghatározottakon túl a vállalkozó közintézetként besorolt felsőoktatási intézmény besorolását meg kell változtatni, és a felsőoktatási intézményt közintézetté kell átsorolni, ha
-
-- a) a 36/A. § (2) bekezdés bb), illetve cb) pontja alapján történő átsorolás esetén a vállalkozó közintézetté történő átsorolást követő kettő éven belül a lejárt esedékességű adósságállománya nem szűnt meg,
-- b) 36/A. § (2) bekezdés ba), illetve ca) pontja alapján történő átsorolás esetén
-  - ba) hatvan napon túli lejárt adósságállománya keletkezett, vagy
-  - bb) legalább három hónapon át fennálló, háromszázmillió forintot, vagy saját vagyona értékének – ide értve intézményi társaságában meglévő részesedése értékét is – egyharmad részét meghaladó, harminc napon túli lejárt adósságállománya keletkezett.
-
-(2) A vállalkozó közintézetként besorolt felsőoktatási intézmény besorolásának megváltoztatását megelőzően az (1) bekezdés szerinti adósságállománnyal kapcsolatos valamennyi követelést ki kell elégíteni.
-
-36/C. § (1) A 36/A–36/B. §-ban meghatározottakat a költségvetési szervként működő felsőoktatási intézmény jogi személyiségű szervezeti egységére megfelelően alkalmazni kell.
-
-(2) A vállalkozó közintézetként besorolt felsőoktatási intézménynek, jogi személyiségű szervezeti egységének, valamint a közintézetként besorolt felsőoktatási intézmény vállalkozó közintézetté történő besorolás feltételeit teljesítő jogi személyiségű szervezeti egységének más költségvetési szervvel, illetve jóhiszemű harmadik személy irányában fennálló, lejárt, elismert, hatvan napot meghaladó ki nem elégített és be nem hajtható tartozásaiért a felsőoktatási intézmény az államháztartásról szóló törvény 87. § (3) bekezdés c) és e) pontja és (4) bekezdés c)–d) pontja szerinti forrásai, 100/J. § (8) bekezdés szerinti tartaléka, a 87. § (3) bekezdés c) és e) pontja szerinti források maradványa, valamint a saját vagyona terhére tartozik helytállni. A közintézetként besorolt felsőoktatási intézmény vállalkozó közintézet jogi személyiségű szervezeti egységének tartozásaiért, továbbá a felsőoktatási intézmény forrásait és saját vagyonát a fentiek szerint terhelő helytállási kötelezettség teljesítéséért a felügyeleti szerv nem tartozik mögöttes felelősséggel.
-
-### A vezető testület
-
-36/D. § (1) A költségvetési szervként működő közintézetként besorolt felsőoktatási intézmény, vállalkozó közintézetté történő átsorolásával egyidejűleg vezető testületet kell létrehozni.
-
-(2) A vezető testület létrehozásával, működésével, tagjai megbízatásának megszűnésével, napirendjének előkészítésével kapcsolatos kérdéseket a felsőoktatási intézmény szervezeti és működési szabályzatában kell meghatározni a következők figyelembevételével:
-
-- a) a vezető testületnek öt – a szenátus által választott – tagja van,
-- b) a vezető testület tagja az lehet, aki felsőfokú végzettséggel és a gazdaságtudományok képzési területen mesterképzésben szerzett vagy azzal egyenértékű szakképzettséggel rendelkezik,
-- c) nem lehet a vezető testület tagja,
-  - ca) akivel kapcsolatosan a 23. § (7) bekezdésében meghatározott összeférhetetlenségi ok állapítható meg,
-  - cb) aki tagja az intézmény gazdasági tanácsának, illetve más költségvetési szervként működő vállalkozó közintézetként besorolt felsőoktatási intézmény vezető testületének,
-  - cc) a felsőoktatási intézményben magasabb vezetőként, illetve vezetőként foglalkoztatott személy,
-  - cd) aki nem teljesítette vagyonnyilatkozat-tételi kötelezettségét,
-- d) a vezető testület
-  - da) tagjai maguk közül választanak elnököt,
-  - db) szükség szerint – de havonta legalább egy alkalommal – tart ülést,
-  - dc) ülései a felsőoktatási intézmény alkalmazottai, hallgatói, a szenátus és a gazdasági tanács tagjai számára nyilvánosak,
-  - dd) határozatképes, ha az ülésen legalább három tag jelen van, döntéseit – ha törvény vagy a szervezeti és működési szabályzat magasabb szavazati arányt nem ír elő – a jelen lévő tagok többségének szavazatával hozza, szavazategyenlőség esetén az elnök szavazata dönt,
-  - de) jelen lévő tagjai több mint ötven százalékának kérésére zárt ülést, titkos szavazást kell tartani,
-  - df) üléseiről jegyzőkönyvet kell készíteni, döntéseit határozatba kell foglalni, és a szervezeti és működési szabályzatban meghatározottak szerint nyilvánosságra kell hozni.
-
-(3) A vezető testület tagjai az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvénynek a közszolgálatban álló személyekre vonatkozó szabályai szerint kétévenként kötelesek vagyonnyilatkozatot tenni. A vagyonnyilatkozat őrzéséért a rektor felel.
-
-36/E. § (1) A költségvetési szervként működő vállalkozó közintézetként átsorolt felsőoktatási intézmény szenátusa vezetési-szervezési, pénzügyi-gazdasági döntéseit a vezető testület egyetértésével hozza. E körben a vezető testület egyetértése szükséges különösen a 25. § (1) bekezdés a)–b) pontjában, a 27. § (6) bekezdés c)–e) pontjában, (8) bekezdés a)–g) pontjában meghatározott kérdésekben hozott vezetési-szervezési, pénzügyi-gazdasági döntésekhez.
-
-(2) A vezető testület tagjainak felelősségére az államháztartásról szóló törvény rendelkezéseit kell alkalmazni.
-
-36/F. § (1) Megszűnik a vezető testület – és tagjainak megbízatása – a költségvetési szervként működő vállalkozó közintézetként besorolt felsőoktatási intézmény közintézetté történő átsorolásával. A vezető testületi tagság megszűnik továbbá a megbízatás lejártával, illetőleg visszahívással. A lemondás elfogadása a szenátus hatáskörébe tartozik.
-
-(2) A vezető testület elnökének – az elnök esetén a testület tagjának – kezdeményezésére vissza kell hívni azt a tagot, aki
-
-- a) egymást követő három ülésen nem vett részt, és mulasztását nem tudta megfelelő módon igazolni,
-- b) a tagságból eredő feladatait – bármilyen okból kifolyólag – több mint fél éven keresztül nem tudja ellátni,
-- c) utóbb bekövetkezett – a 36/D. § (2) bekezdésének c) pontjában meghatározott – körülmény miatt a vezető testületnek nem lehet tagja.
-
-(3) Lemondás és visszahívás esetén a szenátusnak hatvan napon belül újabb tagot kell választania.
-
-36/G. § (1) A költségvetési szerv felsőoktatási intézmény vállalkozó közintézetre vonatkozó szabályok szerint működő jogi személyiségű szervezeti egységében a 36/D. §, 36/E. § (2) bekezdése, 36/F. § rendelkezései alapján kell vezető testületet létrehozni, illetve működtetni.
-
-(2) A jogi személyiségű szervezeti egység vezetője a szervezeti egységet illetően a felsőoktatási intézmény alapító okiratában, szervezeti és működési szabályzatában, éves költségvetésében, illetve a 136/B. § (2)–(4) bekezdése szerinti szabályzatban meghatározott körben a vezető testület egyetértésével jogosult döntést hozni.
+36/A–36/G. §
 
 ### A FELSŐOKTATÁSI INTÉZMÉNY MEGSZŰNÉSE
 
@@ -2006,7 +1918,7 @@ címet adományozhat.
 (2) A fenntartó
 
 - a) kezdeményezi a regisztrációs központnál a felsőoktatási intézmény állami elismerésre, illetve állami elismerésének visszavonására irányuló eljárást;
-- b) saját hatáskörben – állami felsőoktatási intézmény esetén a költségvetési szervek jogállásáról szóló törvény 3. § (2) bekezdésében előírt egyetértéshez, hozzájáruláshoz nem kötött intézkedésével – kiadja, illetve módosítja a felsőoktatási intézmény alapító okiratát,
+- b) saját hatáskörben kiadja, illetve módosítja a felsőoktatási intézmény alapító okiratát,
 - c) közli a felsőoktatási intézmény költségvetésének kereteit (főösszegeit) és értékeli a számviteli rendelkezések alapján elkészített éves beszámolóját;
 - d) megvizsgálja
   - da) a felsőoktatási intézmény szervezeti és működési szabályzatát,
@@ -2017,8 +1929,8 @@ címet adományozhat.
   - eb) a szakmai munka eredményességét;
 - f) kezdeményezi a rektor megbízását és felmentését, továbbá gyakorolja felette a munkáltatói jogokat;
 - g) a rektor javaslatára megbízza a gazdasági vezetőt – költségvetési szervként működő felsőoktatási intézmény esetén a belső ellenőrzési egység vezetőjét –, illetve a rektor, a gazdasági tanács vagy saját kezdeményezésére visszavonja a megbízását. Állami felsőoktatási intézmény esetében e pont vonatkozásában fenntartón az állami vagyon felügyeletéért felelős minisztert kell érteni;
-- h) gondoskodik a költségvetési szervként működő felsőoktatási intézmény éves elemi költségvetési beszámolójának ellenőrzéséről;
-- i) az államháztartásról szóló törvényben foglaltak szerint vizsgálja, hatásvizsgálat keretében bemutatja a költségvetési szervként működő felsőoktatási intézményi tevékenység keretében ellátott közfeladat-ellátási igény meglétét, a közfeladat-ellátás más megoldási módokkal, más szervezeti megoldásokkal szembeni előnyét.
+- h) gondoskodik a költségvetési szervként működő felsőoktatási intézmény éves elemi költségvetési beszámolójának ellenőrzéséről.
+- i)
 
 (3) A fenntartó a szervezeti és működési szabályzat egységességét, teljességét, törvényességét, hatékonyságnak való megfelelőségét vizsgálja.
 
@@ -2124,7 +2036,7 @@ címet adományozhat.
 
 (3) A felsőoktatási intézmény a rendelkezésére bocsátott pénzeszközökkel, valamint a saját bevételével – az ésszerű és takarékos gazdálkodás követelményeivel összhangban – önállóan gazdálkodhat, az nem vonható el tőle. A felsőoktatási intézmény a saját bevételéből és előző évi bevételi előirányzat maradványaiból átmenetileg szabad pénzeszközeit – amennyiben nincs lejárt kötelezettsége – a kincstár hálózatában értékesített állampapírba fektetheti. A költségvetési szervként működő felsőoktatási intézmény a költségvetési év végén keletkezett előirányzat-maradványt vagy pénzmaradványt – jogosultsági elszámolást követően – a következő években az intézményi feladatok teljesítésére felhasználhatja. A költségvetési szervként működő felsőoktatási intézmény az éves költségvetési törvényben meghatározott bevételeit terhelő befizetési kötelezettség teljesítése alól mentesül, ha azt a 122. § (2) bekezdésében meghatározott felújítási, illetve beruházási célra használja fel.
 
-(4) A felsőoktatási intézmény az alaptevékenységéhez kapcsolódó kiegészítő tevékenységként is elláthatja a 4. § (1)–(2) bekezdésében szabályozott tevékenységet, továbbá vállalkozási tevékenységet is folytathat, feltéve, hogy az alapfeladatainak ellátását nem veszélyezteti. A költségvetési szervként működő felsőoktatási intézményt bevétele után állami befizetési kötelezettség nem terheli.
+(4) A felsőoktatási intézmény vállalkozási tevékenységet folytathat, feltéve, hogy az alapfeladatainak ellátását nem veszélyezteti. A költségvetési szervként működő felsőoktatási intézményt bevétele után állami befizetési kötelezettség nem terheli.
 
 (5) A költségvetési szervként működő felsőoktatási intézményt vállalkozási tevékenységéből származó eredménye után állami befizetési kötelezettség abban az esetben nem terheli, ha azt
 
@@ -2137,7 +2049,7 @@ címet adományozhat.
 
 (8) A költségvetési szervként működő felsőoktatási intézmény negyedévenként mérlegjelentést készít, amelyet megküld a fenntartó részére.
 
-(9) A vállalkozó közintézetként besorolt költségvetési szerv, valamint a közintézet költségvetési szerv vállalkozó közintézetté történő besorolás feltételeit teljesítő jogi személyiségű szervezeti egységgel rendelkező közintézet költségvetési szerv a számvitelről szóló törvény szerinti üzemgazdasági (eredmény-) szemléletű könyvvezetésre és beszámolásra köteles.
+(9)
 
 120/A. § A költségvetési szervként működő felsőoktatási intézmény vezetője a kiemelt előirányzatok között év közben, saját hatáskörben a feladatellátáshoz szükséges mértékben – a kincstár és a fenntartó egyidejű értesítése mellett – átcsoportosítást hajthat végre.
 
@@ -2214,10 +2126,7 @@ tehet szert.
 
 (2) A költségvetési szervként működő felsőoktatási intézmény saját vagyonra – az (1) bekezdés d)–g) pontja kivételével – akkor tehet szert, ha a rendelkezésre bocsátott vagyon állagának megóvásáról, pótlásáról gondoskodott.
 
-(3) A vállalkozó közintézetként átsorolt állami felsőoktatási intézmény fejlesztési hitelt
-
-- a) pályázatokhoz szükséges önrész biztosításához,
-- b) az intézményfejlesztési tervben meghatározott fejlesztési feladatai megvalósításához a Kormány által meghatározottak szerint kiírt nyilvános pályázati eljárás alapján vehet igénybe. A hitel fedezete a felsőoktatási intézmény saját tulajdonában lévő vagyona, vállalkozási tevékenységének eredménye, a fejlesztés eredményeképpen megvalósuló beruházás vagyona, valamint a felsőoktatási intézmény által létrehozott intézményi társaság eredménye. A vállalkozó közintézetként átsorolt állami felsőoktatási intézmények által egy adott évben együttesen igénybe vehető fejlesztési hitelkeretet az éves költségvetésről szóló törvény határozza meg.
+(3)
 
 (4) Ha e törvény másként nem rendelkezik,
 
@@ -2230,7 +2139,7 @@ tehet szert.
 
 (7) Az állami felsőoktatási intézmény saját tulajdonában lévő, (1) bekezdés szerinti vagyont az állami vagyonról vezetett vagyonnyilvántartásban az állami vagyonra előírt módon nyilván kell tartani, ennek érdekében a felsőoktatási intézményt külön jogszabályban meghatározott adatszolgáltatási kötelezettség terheli. Az ilyen vagyon értékesítésére a fenntartó által jóváhagyott versenyeztetési szabályzatban foglaltaknak megfelelően kerülhet sor.
 
-124. § Az állami felsőoktatási intézmények tekintetében az államháztartásról szóló törvény 100/I. § (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy a működés pénzügyi keretében a költségvetési támogatás arányának számítása során a 130. § szerinti képzési támogatásnak és a 132. § szerinti fenntartói támogatásnak a hallgatói létszám alapján meghatározott éves intézményi összege nem vehető figyelembe. Az állami felsőoktatási intézmények intézményi társaságai tekintetében az államháztartásról szóló törvény 100/L. §-ának (1)–(7) bekezdésében foglaltakat és 100/M. §-át nem kell alkalmazni. Az állami felsőoktatási intézményekre az államháztartásról szóló törvény 100/I. § (1) bekezdésének b) pontját, 100/J. § (2) bekezdésének c) pontját és (4) bekezdését az e törvényben meghatározott eltérésekkel kell alkalmazni.
+124. §
 
 ### AZ INGYENESEN ÉS A TÉRÍTÉSI DÍJÉRT IGÉNYBE VEHETŐ SZOLGÁLTATÁSOK
 
@@ -2395,7 +2304,7 @@ nyújtott támogatás. Az e bekezdésben szabályozott költségvetési hozzáj�
 
 (3) A Kormány határozza meg a fenntartói támogatás számításának, elosztásának, igénylésének a rendjét.
 
-132/A. § A vállalkozó közintézeti feltételek meglétének vizsgálatakor figyelembe veendő teljesítményarányosan megállapított működési támogatás az állami felsőoktatási intézmények esetében a 130. § szerinti képzési támogatásnak és a 132. § szerinti fenntartói támogatásnak a hallgatói létszám alapján meghatározott éves intézményi összege.
+132/A. §
 
 133. § (1) A felsőoktatási intézményben működő hallgatói önkormányzat tevékenységét a költségvetés az intézmény részére biztosított hallgatói normatív juttatás részeként normatív támogatással segíti. A normatíva összege a hallgatói normatíva egy százaléka.
 
@@ -2433,7 +2342,7 @@ nyújtott támogatás. Az e bekezdésben szabályozott költségvetési hozzáj�
 
 135. § (1) A felsőoktatási intézmények a 4. §-ban meghatározott feladataikkal összefüggő beruházási, fejlesztési, képzési kockázatfedezeti alapot hozhatnak létre. A kockázatfedezeti alap akkor jön létre, ha legalább tíz felsőoktatási intézmény elhatározza részvételét, és elfogadja az alap alapító okiratát. Az alapot közbeszerzési eljárás során kiválasztott pénzintézet működteti. A kockázatfedezeti alap szabályzata határozza meg, hogy e törvény rendelkezései alapján mely esetben, milyen feltétellel és mértékben vállal kockázatot.
 
-(2) A kockázatfedezeti alapba bármelyik felsőoktatási intézmény beléphet, ha vállalja, hogy az alapba legalább az éves működési költségvetése egy százalékának megfelelő összeget befizeti. A befizetés költségvetési szervként működő felsőoktatási intézmény esetén a saját bevétel terhére teljesíthető. Ha a felsőoktatási intézmény nem költségvetési szervként működik, a kockázatfedezeti alapba történő befizetés közérdekű kötelezettségvállalásnak minősül. A felsőoktatási intézmény befizetési kötelezettségét csökkenteni kell az általa létrehozott, illetve részvételével működő gazdálkodó szervezet által a kockázatfedezeti alap részére nyújtott támogatás összegével. Vállalkozó közintézetként átsorolt állami felsőoktatási intézmény által a kockázatfedezeti alapba teljesített befizetés az államháztartásról szóló törvény 100/J. § (8) bekezdésében meghatározott tartalékképzésnek minősül.
+(2) A kockázatfedezeti alapba bármelyik felsőoktatási intézmény beléphet, ha vállalja, hogy az alapba legalább az éves működési költségvetése egy százalékának megfelelő összeget befizeti. A befizetés költségvetési szervként működő felsőoktatási intézmény esetén a saját bevétel terhére teljesíthető. Ha a felsőoktatási intézmény nem költségvetési szervként működik, a kockázatfedezeti alapba történő befizetés közérdekű kötelezettségvállalásnak minősül. A felsőoktatási intézmény befizetési kötelezettségét csökkenteni kell az általa létrehozott, illetve részvételével működő gazdálkodó szervezet által a kockázatfedezeti alap részére nyújtott támogatás összegével.
 
 (3) A kockázatfedezeti alap támogatást nyújthat a felsőoktatási intézmény fejlesztéséhez, beruházáshoz, felújításához. A támogatás lehet: részben vagy egészben visszatérítendő támogatás, kamatmentes támogatás, kedvezményes kamatozású támogatás, üzleti alapon nyújtott támogatás.
 
@@ -2449,17 +2358,11 @@ nyújtott támogatás. Az e bekezdésben szabályozott költségvetési hozzáj�
 
 (5) A kockázatfedezeti alap működtetésére legfeljebb a befizetett összeg négy százaléka használható fel.
 
-(6) A kockázatfedezeti alapba történő befizetés tekintetében az államháztartásról szóló törvény 18/C. §-ának (5) bekezdésében, valamint 100. §-ának (1) bekezdésében foglaltakat nem kell alkalmazni.
+(6) A kockázatfedezeti alapba történő befizetés tekintetében az államháztartásról szóló törvény 18/C. §-ának (5) bekezdésében foglaltakat nem kell alkalmazni.
 
 136/A. § A szakképzési hozzájárulásra jogosultság tekintetében gyakorlatigényesnek minősül a Kormány által a többciklusú képzés rendjét, a képzés indításának eljárását meghatározó jogszabályban megjelölt – képzési és kimeneti követelményei alapján legalább hat hétig tartó szakmai gyakorlatot is tartalmazó – alapképzési szak.
 
-136/B. § (1) A felsőoktatási intézmény és jogi személyiségű szervezeti egysége forrásainak és ráfordításainak elkülönített tervezéséről gondoskodni kell. Az egészségügyi szolgáltató jogi személyiségű szervezeti egység számára biztosított kiadási részelőirányzatok közvetlen forrásaként nem szolgálhatnak a 127. § (3) bekezdésének a)–d) pontjában felsorolt normatív támogatások. A 127. § (3) bekezdésének b)–d) pontjában meghatározott normatív támogatások az egészségügyi szolgáltató jogi személyiségű szervezeti egység részelőirányzatai forrásaként figyelembe vehetőek, amennyiben a (3) bekezdés szerinti szabályzat alapján azok az egészségügyi képzés érdekében felmerülő költségek fedezetét szolgálják.
-
-(2) Központi költségvetési szervként működő felsőoktatási intézmény esetén a személyi, tárgyi és pénzügyi feltételek fennállását a jogi személyiségű szervezeti egység vonatkozásában is külön vizsgálni kell. A személyi és tárgyi feltételek fennállásában az intézmény szellemi és anyagi kapacitásai csak abban az esetben vehetőek figyelembe, ha annak igénybevétele feltételeit a felsőoktatási intézmény a jogi személyiségű szervezeti egysége vezetőjének egyetértésével kiadott belső szabályzatában rögzíti.
-
-(3) A szabályzat tartalmazza a felsőoktatási intézménytől és a jogi személyiségű szervezeti egységétől, illetve harmadik féltől igénybe vett, valamint a harmadik fél részére nyújtott szolgáltatások meghatározását az egymás közti elszámolás szabályainak rögzítése mellett. E kapacitások igénybevételéhez kapcsolódó költségek, kiadások fedezetét a jogi személyiségű szervezeti egység gazdálkodása keretéül szolgáló elkülönített részelőirányzatok biztosítják, amelyek felett kötelezettségvállalási és teljesítésigazolási joggal és felelősséggel bír.
-
-(4) A jogi személyiségű szervezeti egységre az intézményi dokumentumok kötelezően alkalmazandóak, azzal, hogy a jogi személyiségű szervezeti egység gazdálkodásának speciális – különösen a közintézetként besorolt felsőoktatási intézménynek a vállalkozó közintézetté történő besorolás feltételeit teljesítő jogi személyiségű szervezeti egységére egyedi előzetes engedéllyel alkalmazott – szabályait az intézmény gazdálkodásáról szóló belső szabályzat elkülönítve tartalmazza.
+136/B. §
 
 ## NYOLCADIK RÉSZ — VEGYES RENDELKEZÉSEK
 
@@ -2661,7 +2564,7 @@ határozhatja meg.
 
 (2) Az egészségtudományi centrum élén elnök áll, aki magasabb vezetői megbízás keretében végzi munkáját. Az elnök megválasztásának rendjét a szervezeti és működési szabályzatban kell meghatározni. A centrum vezetője ellátja a 141. § (8) bekezdésében meghatározott vezetői feladatait is. Az egészségügyi centrumot illetően az egyetemet a centrum vezetője képviseli. A centrum vezetője tanácskozási joggal részt vehet a gazdasági tanács ülésén. A centrum vezetője gyakorolja a 141. § (2), (5)–(6) bekezdésében meghatározott feladatok ellátását szolgáló előirányzatok felett a rendelkezési jogot.
 
-142/A. § Az egészségügyi szolgáltató tevékenységet ellátó 36/C. § (2) bekezdés szerinti jogi személyiségű szervezeti egység tartozásaiért a felsőoktatási intézmény a 36/C. § (2) bekezdésében megjelölt forrásokon és vagyonon felül a 141. § (3) bekezdése szerinti finanszírozási szerződés alapján biztosított összeg terhére is helytállni tartozik. Ha a jogi személyiségű szervezeti egység működéséhez szükséges fedezet legalább egy éven keresztül nem teremthető meg, a felsőoktatási intézmény az oktatásért felelős miniszteren keresztül egyeztetést kezdeményez az egészségügyért felelős miniszterrel a költségvetési szervek jogállásáról szóló törvény 12. § (1) bekezdés f) pontján alapuló megszüntetés elkerülése érdekében meghozható finanszírozási és más intézkedésekről.
+142/A. §
 
 ### AZ AGRÁRTUDOMÁNYI KÉPZÉST FOLYTATÓ FELSŐOKTATÁSI INTÉZMÉNYEKRE VONATKOZÓ KÜLÖN RENDELKEZÉSEK
 
