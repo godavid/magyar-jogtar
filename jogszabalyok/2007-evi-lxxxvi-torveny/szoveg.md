@@ -1583,7 +1583,7 @@ ELJÁRÁSOK
 
 (3) A 90. § (3) bekezdése alkalmazásával kiadott engedélyek alapján nyújtott egyetemes szolgáltatás árát, az áralkalmazási feltételeket, valamint az árszabályozás kereteit a Hivatal javaslata alapján a miniszter rendeletben állapítja meg.
 
-(4) Az egyetemes szolgáltatás hatósági árait legalább azok hatálybalépése előtt 30 nappal ki kell hirdetni.
+(4)
 
 (5) A kihirdetett egyetemes szolgáltatói árakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon el lehet térni.
 
@@ -1591,7 +1591,7 @@ ELJÁRÁSOK
 
 143/A. § (1) Az árképzés és az áralkalmazás részletes szabályait, valamint az árszabályozás kereteire vonatkozó részletes szabályokat a Hivatal készíti elő. A Hivatal előkészítő tevékenysége során kikéri az érintett engedélyesek véleményét.
 
-(2) A kihirdetett árakat alkalmazásuk kezdete előtt legalább 15 nappal az egyetemes szolgáltató a honlapján, továbbá a felhasználókat a 62. § (2) bekezdésének c) pontja szerint értesíti. A közzétételnek a felhasználókat megillető felmondási jogra vonatkozó tájékoztatást is tartalmaznia kell.
+(2) A kihirdetett árakat az egyetemes szolgáltató a kihirdetést követő 3 napon belül a honlapján közzéteszi. A közzétételnek a felhasználókat megillető felmondási jogra vonatkozó tájékoztatást is tartalmaznia kell.
 
 (3) Az egyetemes szolgáltató által kibocsátott számlán szereplő egységárak bármely változása esetén – a 62. § (2) bekezdésének c) pontja szerint értesítésen túlmenően – az egyetemes szolgáltató legkésőbb az új árakat tartalmazó számla kibocsátásakor a felhasználókat külön is egyértelműen, személyre szólóan tájékoztatja. A tájékoztatásnak a felhasználókat megillető felmondási jogra is ki kell terjednie.
 
@@ -2143,9 +2143,11 @@ készíti el.
 
 (7) A Hivatal – az (1) bekezdés c) pontja értelmében egyetemes szolgáltatásra vonatkozó engedély benyújtására kötelezetteken túlmenően – egyetemes szolgáltatásra vonatkozó engedélyt adhat a villamos energiáról szóló 2001. évi CX. törvény szerinti közüzemi nagykereskedőnek, villamosenergia-kereskedőnek továbbá az e törvény hatálybalépése előtt közüzemi nagykereskedőnek vagy villamosenergia-kereskedőnek minősült társaságnak vagy ezek jogutódjának, továbbá a 88. § (2) bekezdése szerinti villamosenergia-kereskedőnek.
 
-178/A. § (1) A 2009. szeptember 3-án átviteli rendszerirányítási engedéllyel rendelkező engedélyes 2010. szeptember 30-ig köteles kérelmezni a Hivatalnál a 160. § szerinti eljárás megindítását. A kérelem benyújtásának feltétele, hogy a kérelmező megfeleljen az átviteli rendszerirányítóra 2011. március 3-tól kezdődően vonatkozó szétválasztási követelményeknek.
+178/A. § (1) A 2009. szeptember 3-án átviteli rendszerirányítási engedéllyel rendelkező engedélyes köteles kérelmezni a Hivatalnál a 160. § szerinti eljárás megindítását.
 
-(2) Az (1) bekezdés szerinti kérelemmel összefüggésben a Hivatal 2011. február 1-ig köteles lefolytatni a 160. § szerinti eljárást az átviteli rendszerirányító szétválasztási követelményeknek való megfelelésének ellenőrzése érdekében és a megfelelésről hozott határozatát legkésőbb 2011. március 1-ig köteles megküldeni az Európai Bizottságnak.
+(2) Az (1) bekezdés szerinti kérelem legkorábban 2011. március 3-án nyújtható be.
+
+(3) A kérelemben a kérelmező részletesen igazolja és bemutatja, hogy legkésőbb 2012. március 3-ától miként felel meg az átviteli rendszerirányítóra ezen időponttól kezdődően vonatkozó szétválasztási követelményeknek.
 
 ### HATÁLYBA LÉPTETŐ RENDELKEZÉSEK
 

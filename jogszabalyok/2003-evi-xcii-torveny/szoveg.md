@@ -467,7 +467,7 @@ adóazonosító számát, ennek hiányában magánszemély esetén a természete
 
 (15) Az a belföldi jogi személy és egyéb szervezet, amely az általános forgalmi adónak nem alanya, de a beszerzéseit terhelő, előzetesen felszámított általános forgalmi adót visszaigényelheti, a visszaigénylés érdekében ezt a jogosultságát bejelentheti és adó-visszaigénylését az általános forgalmi adó alanyokkal azonos módon kérheti.
 
-(16) A magánszemélyt nem terheli bejelentési kötelezettség, ha kizárólag termőföld művelési ágú földterület bérbe-, haszonbérbe adása miatt válik az általános forgalmi adó alanyává.
+(16) Mentesül a magánszemély adózó – kivéve az egyéni vállalkozót és a 22. § (1) bekezdés e) pontja szerinti kereskedelmi kapcsolatot létesítőt – az adószám megszerzéséhez előírt bejelentési kötelezettség teljesítése alól, ha kizárólag az általános forgalmi adóról szóló törvény szerinti ingatlan-bérbeadási (haszonbérbeadási) tevékenységet folytat és az általános forgalmi adót érintően nem él az adókötelessé tétel jogával.
 
 22/A. § (1) Az állami adóhatóság a csoportos általános forgalmi adózást választó csoporttagok közös írásbeli kérelme alapján a csoportos adóalanyiságot engedélyező határozatban a csoport részére csoportazonosító számot állapít meg. Ha a csoport tagja az engedélyező határozat meghozatalakor közösségi adószámmal rendelkezik, az állami adóhatóság a közösségi adószámot e határozatban törli. Az állami adóhatóság a csoport részére az e bekezdés szerinti kérelem, illetve ezt követően a csoportképviselő kérelme alapján a 22. §-ban foglalt feltételek szerint állapít meg közösségi adószámot.
 
@@ -598,7 +598,7 @@ adóazonosító számát, ennek hiányában magánszemély esetén a természete
 - a) vállalkozó, az építményadó, a telekadó, a gépjárműadó, a vagyonszerzési illeték és a kiszabással megállapított eljárási illeték kivételével,
 - b) az általános forgalmi adó alanya,
 - c) a személyi jövedelemadóját nem a munkáltatója (kifizető) állapítja meg,
-- d) az egyes nagy értékű vagyontárgyakat terhelő adó alanya.
+- d)
 
 ### A munkáltató adómegállapítása
 
@@ -772,11 +772,11 @@ a munkáltató a feltárt adókülönbözetet a feltárás időpontjában nyilv�
 - b) a csoport azonosító szám törlése esetén, a csoportképviselő – a törlő határozat jogerőre emelkedésétől számított 30 napon belül – a csoport általános forgalmi adójáról,
 - c)
 
-(10) A magánszemély adózó – amennyiben adóját nem a munkáltatója állapítja meg vagy nem él az egyszerűsített bevallás lehetőségével – az egyes nagy értékű vagyontárgyakat terhelő adót a személyi jövedelemadóról szóló bevallásában, a nem magánszemély adózó a társasági adóról szóló bevallásában, az egyszerűsített vállalkozói adó alanya az egyszerűsített vállalkozói adó bevallásában – az egyes nagy értékű vagyontárgyakat terhelő adóról szóló törvény szerinti vízi jármű, légi jármű, illetve nagy teljesítményű személygépkocsi azonosító adatainak a feltüntetésével – az adóévre vonatkozóan állapítja meg és vallja be. Ha az egyes nagy értékű vagyontárgyakat terhelő adó alanya személyi jövedelemadóról, társasági adóról, illetve egyszerűsített vállalkozói adóról szóló bevallás benyújtására nem kötelezett – ideértve az e törvény 31. § (5)–(6) bekezdéseiben meghatározott nyilatkozattételre jogosult adóalanyokat is –, továbbá ha a magánszemély adóalany személyi jövedelemadóját a munkáltató állapítja meg vagy él az egyszerűsített bevallás lehetőségével, az egyes nagy értékű vagyontárgyakat terhelő adóbevallás-benyújtási kötelezettségét a külön az erre a célra rendszeresített nyomtatványon az adóév május 20-áig teljesíti.
+(10)
 
 (11)
 
-(12) Nem köteles az egyes nagy értékű vagyontárgyakat terhelő adóról bevallást benyújtani az az adóalany, akit teljes személyes mentesség illet meg, továbbá nem kell bevallást adni arról a vízi járműről, légi járműről, nagyteljesítményű személygépkocsiról, amely után adófizetési kötelezettség nem áll fenn.
+(12)
 
 ### Az adóbevallás kijavítása
 
@@ -818,7 +818,7 @@ a munkáltató a feltárt adókülönbözetet a feltárás időpontjában nyilv�
 
 (6) Ha az adóhatóság utólag megállapítja, hogy az e törvény 20/A. §-a szerinti START, START PLUSZ, vagy START EXTRA kártya igényléséhez kapcsolódó – külön jogszabályban előírt – nyilatkozattételi kötelezettségét az igénylő rosszhiszeműen, valótlan adatok feltüntetésével teljesítette, az így megszerzett kártya felhasználása esetén az adóhatóság a foglalkoztatót megillető kedvezményes mértékű járulék, valamint az általános szabályok szerint kedvezmény nélkül megállapított járulékok közötti különbözet összegének megfizetésére a kártya tulajdonosát (felhasználóját) határozattal kötelezi.
 
-(7) Ha a vagyoni értékű jog jogosítottja, mint az egyes nagy értékű vagyontárgyakat terhelő adó alanya az őt terhelő adót nem fizeti meg, és a végrehajtás vele szemben végrehajtható vagyon hiányában eredménytelenül zárult, az állami adóhatóság határozattal kötelezi a vagyontárgy tulajdonosát tulajdoni hányada arányában az egyes nagy értékű vagyontárgyakat terhelő adó megfizetésére.
+(7)
 
 36. § (1) Az adó megfizetéséért a Polgári Törvénykönyv szerint kezességet lehet vállalni, illetve az adótartozást más átvállalhatja, amelynek során az adóhatóság követelésének jogcíme nem változik meg.
 
@@ -1378,7 +1378,7 @@ megállapításához szükségesek és az állami adóhatóság nyilvántartás�
 
 ### Külföldre irányuló megkeresések
 
-70. § (1) A kapcsolattartó közigazgatási szerv az Európai Közösség tagállamainak illetékes hatóságát jogsegélykérés céljából az e törvényben foglalt együttműködési szabályoknak megfelelően megkeresheti. A kapcsolattartó közigazgatási szerv a jövedelem-, nyereség-, vagyonadóval kapcsolatos megkeresését a következő adónemekre vonatkozóan adja ki: személyi jövedelemadó, társasági adó, osztalékadó, az egyes nagyértékű vagyontárgyakat terhelő adó, építményadó, telekadó.
+70. § (1) A kapcsolattartó közigazgatási szerv az Európai Közösség tagállamainak illetékes hatóságát jogsegélykérés céljából az e törvényben foglalt együttműködési szabályoknak megfelelően megkeresheti. A kapcsolattartó közigazgatási szerv a jövedelem-, nyereség-, vagyonadóval kapcsolatos megkeresését a következő adónemekre vonatkozóan adja ki: személyi jövedelemadó, társasági adó, osztalékadó, építményadó, telekadó.
 
 (2) Az egyidejű ellenőrzésre irányuló megkeresés során a kapcsolattartó közigazgatási szerv értesíti az érintett tagállamok illetékes hatóságait azokról az adóügyekről, amelyek tekintetében az adóhatóság egyidejű ellenőrzést javasol. A kapcsolattartó közigazgatási szerv megkeresését – az alapjául szolgáló információ közlésével – megindokolja, és meghatározza az ellenőrzés alá vont időszakot.
 
@@ -3046,7 +3046,7 @@ kezeli.
 
 besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követő (időközi) változása az adókötelezettséget nem változtatja meg.
 
-(14) Ha e törvény másként nem rendelkezik, a televíziókészülék üzemben tartási díjához kapcsolódó pótdíj tekintetében az adóra vonatkozó rendelkezéseket kell alkalmazni.
+(14)
 
 (15)
 
@@ -3213,6 +3213,10 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 
 (10) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki az állami adóhatóságot vagy adóhatóságokat.
 
+183. § (1) E törvény az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvénnyel megállapított rendelkezéseit kell alkalmazni a hatálybalépésekor jogerősen el nem bírált ügyekben, továbbá a hatálybalépést követően az azt megelőző időszakra teljesítendő, illetve esedékessé vált kötelezettségekre azzal, hogy ha a jogszabálysértés elkövetésének időpontjában hatályos rendelkezések az adózóra összességében kevésbé terhes bírság-, pótlékfeltételeket határoztak meg, a kötelezettségre legfeljebb az elkövetéskor hatályos törvényben meghatározott legmagasabb mérték alkalmazható.
+
+(2) Az adózónak az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény hatálybalépését követően – ha e törvény eltérően nem rendelkezik – az azt megelőző időszakra teljesítendő bejelentési, adómegállapítási, bevallási, adófizetési, adóelőleg-fizetési, bizonylatkiállítási, adatszolgáltatási és adólevonási kötelezettségét az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény hatálybalépését megelőző napon hatályos szabályok szerint kell teljesítenie.
+
 ### 1. számú melléklet a 2003. évi XCII. törvényhez
 
 I.
@@ -3221,7 +3225,7 @@ AZ ÁLLAMI ADÓHATÓSÁGHOZ BENYÚJTANDÓ ADÓBEVALLÁS IDŐPONTJA
 
 A) Általános rendelkezések
 
-1. Az adózónak a bevallás adatait – a 31. § (2) bekezdésben meghatározott bevallást, a magánszemélynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, az egészségügyi hozzájárulásáról, a járulékáról, a cégautó-adójáról, és az egyes nagy értékű vagyontárgyakat terhelő adójáról benyújtott adóbevallását kivéve – 1000 forintra kerekítve, 1000 forintban kell feltüntetni. A 31. § (2) bekezdése szerinti bevallás adatait az adónemenként meghatározott összesített sorokban 1000 forintra kerekítve, 1000 forintban kell feltüntetni. A kerekítésből származó különbözetet az adózó csak az adóéven belül, a következő adómegállapítási időszak ugyanazon adó vagy költségvetési támogatás összegénél a kerekítést megelőzően korrekciós tételként veszi figyelembe. Ha a megállapított adó, költségvetési támogatás összege az 1000 forintot nem éri el, akkor az adózó az év elejétől vagy az előző megállapítási időszaktól számított halmozott összeget a következő bevallásában annak a megállapítási időszaknak a kötelezettségeként tünteti fel, amelyben az 1000 forintot elérte. A magánszemélynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, az egészségügyi hozzájárulásáról, a járulékáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie. Az adózónak személyétől függetlenül – a cégautó-adójáról és az egyes nagy értékű vagyontárgyakat terhelő adójáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie.
+1. Az adózónak a bevallás adatait – a 31. § (2) bekezdésben meghatározott bevallást, a magánszemélynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, az egészségügyi hozzájárulásáról, a járulékáról, a cégautó-adójáról, benyújtott adóbevallását kivéve – 1000 forintra kerekítve, 1000 forintban kell feltüntetni. A 31. § (2) bekezdése szerinti bevallás adatait az adónemenként meghatározott összesített sorokban 1000 forintra kerekítve, 1000 forintban kell feltüntetni kivéve az egyszerűsített foglalkoztatásban foglalkoztatott munkavállaló után fizetendő összeget, amelyet forintban kell bevallani. A kerekítésből származó különbözetet az adózó csak az adóéven belül, a következő adómegállapítási időszak ugyanazon adó vagy költségvetési támogatás összegénél a kerekítést megelőzően korrekciós tételként veszi figyelembe. Ha a megállapított adó, költségvetési támogatás összege az 1000 forintot nem éri el, akkor az adózó az év elejétől vagy az előző megállapítási időszaktól számított halmozott összeget a következő bevallásában annak a megállapítási időszaknak a kötelezettségeként tünteti fel, amelyben az 1000 forintot elérte. A magánszemélynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, az egészségügyi hozzájárulásáról, a járulékáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie. Az adózónak személyétől függetlenül – a cégautó-adójáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie.
 
 2. A havi vagy évközi adóbevallásra nem kötelezett adózó valamennyi adóról a megállapításra előírt időszakonkénti részletezésben éves bevallást tesz.
 
@@ -3273,9 +3277,7 @@ b) a magánszemélyek jövedelemadójáról a vállalkozási tevékenységet nem
 
 az adóévet követő év május 20-áig,
 
-c) az egyes nagy értékű vagyontárgyakat terhelő adóról a vállalkozási tevékenységet nem folytató magánszemélynek, ha általános forgalmi adó fizetésére nem kötelezett
-
-az adóév május 20-áig,
+c)
 
 d) a társasági adóelőleg-kiegészítés összegéről
 
@@ -3285,17 +3287,9 @@ e) a társasági adóról, az osztalékadóról
 
 az adóévet követő év május 31-éig
 
-f) a nem magánszemély adózóknak az egyes nagy értékű vagyontárgyakat terhelő adóról
+f)–g)
 
-az adóév május 31-éig
-
-g) az egyszerűsített vállalkozói adóalany, továbbá az egyéni vállalkozó adóalany az egyes nagy értékű vagyontárgyakat terhelő adóról a rájuk irányadó személyi jövedelemadó, illetve eva bevallási határidőnek megfelelően
-
-az adóév február 25-éig, illetve május 31-éig
-
-h) a naptári évtől eltérő üzleti évet választó adózóknak az egyes nagy értékű vagyontárgyakat terhelő adóról
-
-az adóév május 31-éig
+h)
 
 kell bevallást benyújtani.
 
@@ -3393,7 +3387,7 @@ AZ ÁLLAMI ADÓHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
 
 2. A felszámolás kezdő időpontját megelőzően keletkezett fizetési kötelezettséget e mellékletben foglaltaktól eltérően a csődeljárásról és a felszámolási eljárásról szóló törvény rendelkezéseinek megfelelően kell teljesíteni.
 
-3. Az állami adóhatóságnál nyilvántartott adót – a magánszemély által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, egészségügyi hozzájárulást, járulékot, valamint a magánszemélyt terhelő vagyonszerzési illetéket a cégautó-adót és az egyes nagy értékű vagyontárgyakat terhelő adót kivéve –, a költségvetési támogatást 1000 forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adójáról benyújtott adóbevallásában az adatokat forintban kell megfizetnie. Az adózó a 100 forintot el nem érő jövedelemadóját, különadóját, egészségügyi hozzájárulását, valamint vagyonszerzési illetékét a cégautó-adót és az egyes nagy értékű vagyontárgyakat terhelő adót nem fizeti meg, és az adóhatóság a 100 forintot el nem érő adó-visszatérítést nem utalja ki és nem tartja nyilván.
+3. Az állami adóhatóságnál nyilvántartott adót – a magánszemély által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, egészségügyi hozzájárulást, járulékot, valamint a magánszemélyt terhelő vagyonszerzési illetéket a cégautó-adót és az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget kivéve –, a költségvetési támogatást 1000 forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adójáról benyújtott adóbevallásában az adatokat forintban kell megfizetnie. Az adózó a 100 forintot el nem érő jövedelemadóját, különadóját, egészségügyi hozzájárulását, valamint vagyonszerzési illetékét a cégautó-adót nem fizeti meg, és az adóhatóság a 100 forintot el nem érő adó-visszatérítést nem utalja ki és nem tartja nyilván.
 
 Határidők
 
@@ -3589,9 +3583,7 @@ az adóévet követő év február 25. napjáig
 
 kell megfizetni.
 
-8. Az egyes nagy értékű vagyontárgyakat terhelő adó
-
-Az adózó az egyes nagy értékű vagyontárgyakat terhelő adót az adóévben két egyenlő részletben fizeti meg. Az első részletet az adózóra irányadó éves bevallás benyújtására előírt határidőig, a második részletet az adóév szeptember 30-áig kell megfizetni.
+8.
 
 9. Külön fel nem sorolt befizetések
 
@@ -3640,6 +3632,10 @@ c) A társasági adóelőlegnek az adóévi várható fizetendő adó összegér
 az adóév december 20. napjáig
 
 kell kiegészítenie.
+
+[c) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak az iparűzési adóelőleget a várható éves fizetendő adó összegére az adóév december 20. napjáig
+
+kell kiegészítenie.]
 
 d) Az ideiglenes (alkalmi) jelleggel végzett tevékenység utáni iparűzési adót legkésőbb a tevékenység befejezése napját követő hó 15. napjáig kell megfizetni.
 
