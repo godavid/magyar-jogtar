@@ -752,13 +752,13 @@ b) nem ad ki véleményt.
 
 (2) E törvény 1–6. §-a, és 52. §-a 2010. július 1-jén lép hatályba, és a hatálybalépését követő napon hatályát veszti.
 
-(3) E törvény 22–23. §-a és 46–47. §-a 2010. október 1-jén lép hatályba.
+(3) E törvény 22–23. §-a és 46–47. §-a 2011. március 3-án lép hatályba.
 
-(4) E törvény 7. § (1) bekezdése, 8–21. §-a, 26. §-ának (2) bekezdése, 27–28. §-a, 29. §-ának (1) és (3) bekezdése, 30–45. §-a, 49. §-ának (2) bekezdése, 50. §-a, valamint 53–54. §-a 2011. március 3-án lép hatályba.
+(4) E törvény 7. § (1) bekezdése, 8–21. §-a, 26. §-ának (2) bekezdése, 27–28. §-a, 29. §-ának (1) és (3) bekezdése, 30–45. §-a, 49. §-ának (2) bekezdése, 50. §-a, valamint 53–54. §-a 2012. március 3-án lép hatályba.
 
 (5) E törvény 56. §-a 2011. március 3-án hatályát veszti.
 
-(6) E törvény 7. § (1) bekezdése, 8–21. §-a, 26. §-ának (2) bekezdése, 27–28. §-a, 29. §-ának (1) és (3) bekezdése, 30–45. §-a, 49. §-ának (2) bekezdése, 50. §-a, valamint 53–54. §-a 2011. március 4-én hatályát veszti.
+(6) E törvény 7. § (1) bekezdése, 8–21. §-a, 26. §-ának (2) bekezdése, 27–28. §-a, 29. §-ának (1) és (3) bekezdése, 30–45. §-a, 49. §-ának (2) bekezdése, 50. §-a, valamint 53–54. §-a 2012. március 4-én hatályát veszti.
 
 (7) Az e törvény 15. §-ával megállapított VET. 93. § (5) bekezdésében, az e törvény 43. §-ával megállapított GET. 123. § (4) bekezdésében, valamint az e törvény 56. §-ában foglalt rendelkezések nem érintik a hatálybalépésüket megelőzően szerzett részesedéseket.
 

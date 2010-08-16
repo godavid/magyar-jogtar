@@ -1001,13 +1001,13 @@ lehet igénybe venni.
 
 (3) A 32. § alkalmazásával kiadott engedélyek alapján nyújtott egyetemes szolgáltatás árát, az áralkalmazási feltételeket, valamint az árszabályozás kereteit a Hivatal javaslata alapján a miniszter rendeletben állapítja meg.
 
-(4) Az egyetemes szolgáltatás hatósági árait legalább azok hatálybalépése előtt 30 nappal ki kell hirdetni.
+(4)
 
 (5) A kihirdetett egyetemes szolgáltatói árakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon el lehet térni.
 
 107/A. § (1) Az árképzés és az áralkalmazás részletes szabályait, valamint az árszabályozás kereteire vonatkozó részletes szabályokat a Hivatal készíti elő. A Hivatal előkészítő tevékenysége során kikéri az érintett engedélyesek véleményét.
 
-(2) A kihirdetett árakat az egyetemes szolgáltató alkalmazásuk kezdete előtt legalább 5 nappal a honlapján közzéteszi. A közzétételnek a felhasználókat megillető felmondási jogra, valamint a felmondás határidejére vonatkozó tájékoztatást is tartalmaznia kell.
+(2) A kihirdetett árakat az egyetemes szolgáltató a kihirdetést követő 3 napon belül a honlapján közzéteszi. A közzétételnek a felhasználókat megillető felmondási jogra, valamint a felmondás határidejére vonatkozó tájékoztatást is tartalmaznia kell.
 
 (3) Az egyetemes szolgáltató által kibocsátott számlán szereplő egységárak bármely változása esetén – a (2) bekezdés szerinti közzétételen túlmenően – az egyetemes szolgáltató legkésőbb az új árakat tartalmazó számla kibocsátásakor a felhasználókat külön is egyértelműen, személyre szólóan, írásban tájékoztatja. A tájékoztatásnak a felhasználókat megillető felmondási jogra és a felmondás határidejére is ki kell terjednie.
 
@@ -1444,7 +1444,7 @@ az Európai Unió szerveivel
 
 - 1. a kiegyensúlyozás földgázszállító általi biztosításához közvetlenül kapcsolódó igazolt költségeket és pótdíjakat, valamint azok nyilvántartását, kezelését,
 - 2. a csatlakozási díjakat, a rendszerhasználati díjakat, a földgázelosztási díjból származó árbevétel földgázelosztók közötti megosztására vonatkozó kiegyenlítő mechanizmus részletes szabályait, a díjalkalmazás feltételeit – különös tekintettel az ellátásbiztonságra és a földgáz műszaki vagy minőségi jellemzőire –, a díjszabályozás kereteit, a rendszerhasználati díjakra az engedélyesek által történő javaslattétel részletes szabályait az indokolt költségek meghatározásának módját, a szolgáltatások minősége javításának a rendszerhasználati díjakon keresztül történő ösztönzése szabályait, valamint a szolgáltatások minőségének romlása esetén a rendszerüzemeltetők által érvényesíthető alacsonyabb rendszerhasználati díjakat,
-- 3. az egyetemes szolgáltatáshoz kapcsolódó árakat, áralkalmazási feltételeket, az árszabályozás kereteit, az átalánydíjas fogyasztás elszámolásának részletes szabályait, az egyetemes szolgáltatók részére a 141. § alapján vételre felajánlott földgázforrás költségalapú árát, valamint az egyetemes szolgáltató által benyújtott árváltoztatási javaslatot megelőzően alkalmazandó induló tételes árszabásokat,
+- 3. az egyetemes szolgáltatáshoz kapcsolódó árakat, áralkalmazási feltételeket, az árszabályozás kereteit, az átalánydíjas fogyasztás elszámolásának részletes szabályait, az egyetemes szolgáltatók részére vételre felajánlott földgázforrás költségalapú árát, valamint az egyetemes szolgáltató által benyújtott árváltoztatási javaslatot megelőzően alkalmazandó induló tételes árszabásokat,
 - 4. az együttműködő földgázrendszer kapacitásának rendszeres felülvizsgálatához és fejlesztéséhez a műszaki-gazdasági tervezési módszereket, az ehhez szükséges adatbázis tartalmi elemeit, és a szükséges adatszolgáltatást,
 - 5. az engedélyesek rendszer üzemeltetéséhez szükséges egymás közötti és a Hivatal számára szükséges adatszolgáltatás módszertani szabályait, a szolgáltatási kötelezettség alá eső – személyes adatot nem tartalmazó – adatokat, az adatszolgáltatásra kötelezettek és az adatokhoz való hozzáférésre jogosultak körét, a Hivatal által a felhasználói érdekek képviseletét ellátó társadalmi szervezetek, illetőleg más szervezetek részére nyújtott adatszolgáltatás körét és rendjét, a Hivatal honlapján közzétételre kerülő adatok körét, továbbá az üzleti titoknak [Ptk. 81. §-ának (2) bekezdése] minősülő tények, információk, megoldások és adatok (a továbbiakban: üzleti titok) védelmére vonatkozó részletes szabályokat,
 - 6. a rendszerhasználati díj felülvizsgálatára irányuló eljárásban kötelezően benyújtandó adatok és dokumentumok körét,
@@ -1529,9 +1529,11 @@ földgáz képezi.
 
 (6) A Get. szerinti, az (1) és (2) bekezdésben meghatározottakon kívüli engedélyesek esetében a Hivatal intézkedik az e törvény szerinti engedélyek kiadásáról, illetve megfelelő módosításáról.
 
-140/A. § (1) A 2009. szeptember 3-án földgázszállítási és rendszerirányítási engedéllyel egyaránt rendelkező engedélyes 2010. szeptember 30-ig köteles benyújtani a Hivatalhoz szállítási rendszerüzemeltetési engedély iránti kérelmet. A szállítási rendszerüzemeltetési engedély iránti kérelem benyújtásának feltétele, hogy a kérelmező megfeleljen a szállítási rendszerüzemeltetőre vonatkozó szétválasztási követelményeknek.
+140/A. § (1) A 2009. szeptember 3-án földgázszállítási és rendszerirányítási engedéllyel rendelkező engedélyes köteles kérelmezni a Hivatalnál a 128. § szerinti eljárás megindítását.
 
-(2) Az (1) bekezdés szerinti engedély kiadásával összefüggésben a Hivatal 2011. február 1-ig köteles lefolytatni a 128. § szerinti eljárást és a megfelelésről hozott határozatát legkésőbb 2011. március 1-ig köteles megküldeni az Európai Bizottságnak.
+(2) Az (1) bekezdés szerinti kérelem legkorábban 2011. március 3-án nyújtható be.
+
+(3) A kérelemben a kérelmező részletesen igazolja és bemutatja, hogy legkésőbb 2012. március 3-ától miként felel meg a szállítási rendszerüzemeltetőre ezen időponttól kezdődően vonatkozó szétválasztási követelményeknek.
 
 141. § (1) Az egyetemes szolgáltatók 134. § szerinti földgáz forrásainak biztosítása céljából a Get. szerinti közüzemi nagykereskedő forrásaival rendelkező kereskedő köteles 2009. március 31-ig, a 2009. július 1. és 2012. június 30. közötti időszakra, 2010. március 31-ig a 2010. július 1. és 2013. június 30. közötti időszakra, 2011. március 31-ig a 2011. július 1. és 2014. június 30. közötti időszakra és 2012. március 31-ig a 2012. július 1. és 2015. június 30. közötti időszakra az egyetemes szolgáltatóknak földgázforrásait vételre felajánlani.
 

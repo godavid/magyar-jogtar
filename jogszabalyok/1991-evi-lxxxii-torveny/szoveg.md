@@ -242,7 +242,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 ### A kétszeres adóztatás kizárása
 
-17/F. § A negyedévre fizetendő adóból levonható a személygépkocsi után az adóalany terhére önkormányzati adóhatóság által megállapított gépjárműadó, illetve önadózással általa megállapított nagy teljesítményű gépjárművek adója. Levonásra a negyedév azon hónapjaira jutó gépjárműadó, illetve a nagy teljesítményű gépjárművek adója esetén van lehetőség, amelyben a személygépkocsi utáni cégautóadó-, gépjárműadó-, és nagy teljesítményű gépjárművek adókötelezettsége egyaránt fennállt, feltéve, hogy az adóalany a gépjárműadó-, és a nagy teljesítményű gépjárművek adója fizetési kötelezettségének határidőben eleget tett.
+17/F. § A negyedévre fizetendő adóból levonható a személygépkocsi után az adóalany terhére az önkormányzati adóhatóság által megállapított gépjárműadó. Levonásra a negyedév azon hónapjaira jutó gépjárműadó esetén van lehetőség, amelyben a személygépkocsi utáni cégautóadó- és gépjárműadó-kötelezettség egyaránt fennállt, feltéve, hogy az adóalany a gépjárműadó fizetési kötelezettségének határidőben eleget tett.
 
 ### Az adó megállapítása, bevallása, megfizetése, az eljáró hatóság
 
@@ -298,6 +298,8 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 (5)
 
 (6) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy a gépjárműadó nyilvántartásának, kezelésének, elszámolásának szabályait rendelettel állapítsa meg.
+
+19/A. § A Gjt. 2010. június 30-án hatályos 17/F. §-ában meghatározott feltételekkel és mértékben levonható a 2010. II. negyedévi cégautóadóból a nagy teljesítményű személygépkocsik adója.
 
 ### Hatálybaléptető rendelkezések
 
