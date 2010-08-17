@@ -267,7 +267,7 @@ látja el.
 - a) ismételt jogszabálysértésnek minősül, ha a jogszabálysértést elkövetővel azonos személyt vagy meghatalmazott képviselőjét e minőségében, illetve meghatalmazóját két éven belül e törvény vagy a rendelet előírásainak megsértése miatt jogerősen már elmarasztalták,
 - b) súlyos jogszabálysértésnek minősül, ha a gyógyszerekkel, illetve gyógyászati segédeszközökkel kapcsolatos jogsértő kereskedelmi gyakorlat szokásos piaci ellenértéke a huszonöt millió forintot meghaladta.
 
-19/A. § Az egészségbiztosítási felügyeleti hatóság a határozat vagy az eljárást megszüntető végzés meghozataláig terjedő időtartamra fellebbezésre tekintet nélkül végrehajtható végzésében elrendeli a jogsértő állapot megszüntetését, illetve megtiltja a jogsértő magatartás további folytatását, ha erre – a késedelemmel járó jelentős vagy helyrehozhatatlan kár veszélye miatt – halaszthatatlanul szükség van. E végzését a hatóság soron kívül hozza meg. A hatóság végzése ellen önálló fellebbezésnek van helye.
+19/A. § A 19. § szerinti eljárás során hozott döntés ellen fellebbezésnek nincs helye.
 
 20. § (1) A 14. §-ban foglaltak megtartását az egészségbiztosítási felügyeleti hatóság ellenőrzi.
 
@@ -373,7 +373,7 @@ az állami egészségügyi, katasztrófa- és védelmi készlet kezelője jogosu
 
 (6) A (4) bekezdés szerinti közlemény tartalmazza a gyógyszer nyilvántartási számát, megnevezését, kiszerelését, termelői árát, bruttó fogyasztói árát, a támogatás mértékét és összegét, a támogatással csökkentett fogyasztói árát (térítési díj), valamint a társadalombiztosítási támogatással történő finanszírozás kezdő napját.
 
-(7) Az egészségbiztosítási szerv 23. § (3)–(4) és (6) bekezdése szerinti határozata elleni fellebbezést 60 napon belül kell elbírálni.
+(7) Az egészségbiztosítási szervnek a 23. § (3)–(4) és (6)–(8) bekezdése szerinti eljárásban hozott döntése ellen nincs helye fellebbezésnek.
 
 25. § (1) Amennyiben a forgalomba hozatali engedély jogosultja az egészségbiztosítási szerv 23. § szerinti határozatának jogerőre emelkedését követően a befogadott és támogatással forgalmazható gyógyszer árát érintő változtatással kíván élni, új kérelmet kell előterjesztenie a támogatás iránt.
 
@@ -384,12 +384,12 @@ az állami egészségügyi, katasztrófa- és védelmi készlet kezelője jogosu
 
 (3) A 23. § (2) bekezdés szerinti eljárásban nincs helye újrafelvételi eljárásnak.
 
-(4) Az egészségbiztosítási szerv az elsőfokú döntését fellebbezésre tekintet nélkül végrehajthatónak nyilváníthatja.
+(4)
 
 (5) Az egészségbiztosítási szerv a 23–25. §-ban szabályozott eljárására vonatkozó nyilvánosság biztosítása érdekében az internetes honlapján elektronikus úton közzéteszi
 
 - a) a formai szempontból megfelelő kérelmet a kérelem beérkezését követő öt munkanapon belül, továbbá
-- b) a kérelmezővel való közlésen túl – a külön jogszabály szerinti tájékoztató jellegű közzététellel – az ügyben hozott jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított határozatot a kérelem elbírálását követő hónap 5. napjáig.
+- b) a kérelmezővel való közlésen túl – a külön jogszabály szerinti tájékoztató jellegű közzététellel – az ügyben hozott jogerős határozatot a kérelem elbírálását követő hónap 5. napjáig.
 
 26. § (1) A gyógyszerek társadalombiztosítási támogatásba való befogadása támogatási kategóriákba történik. Az egyes támogatási kategóriákban valamennyi, a 28. § szerint meghatározott támogatási módszer alkalmazható. A támogatási módszerek szerinti támogatási összegek számítása a mindenkori egészségpolitikai célkitűzések figyelembevételével a külön jogszabályban meghatározott ATC-csoportokat tartalmazó táblázatban feltüntetett százalékos mértékeket alapul véve történik. A támogatási kategóriákban maximálisan adható százalékos mértékeket, illetve az ATC-csoportok százalékos támogatási kategóriákba sorolását külön jogszabály tartalmazza.
 
@@ -568,13 +568,13 @@ esetén,
 (10) A nyilvánosság biztosítása érdekében az egészségbiztosítási szerv internetes honlapján közzéteszi:
 
 - a) a formai szempontból megfelelő kérelmet, a kérelem beérkezését, illetve a hiánypótlás teljesítését követő tizenöt munkanapon belül, továbbá
-- b) az ügyben hozott jogerős vagy önálló fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított határozatát az ügy elbírálását követő tíz munkanapon belül.
+- b) az ügyben hozott jogerős határozatát az ügy elbírálását követő tíz munkanapon belül.
 
 (11) Az egyedi méretvétel alapján készített gyógyászati segédeszközök esetén az eszköz valamennyi, az egészségbiztosítási szervvel támogatás elszámolására érvényes szerződéssel rendelkező forgalomba hozója vagy meghatalmazott képviselője kizárólag közösen nyújthat be külön jogszabály szerinti csoportos kérelmet az eszköz típusára vonatkozóan. Az egyedi méretvétel alapján készített gyógyászati segédeszközök támogatásával kapcsolatos eljárások szabályait e törvénnyel összhangban külön jogszabály tartalmazza.
 
 (12) A (11) bekezdés szerinti kérelmet csak a (2) bekezdés aa), be), bf), bg) alpontjai tárgyában lehet az egészségbiztosítási szervhez benyújtani.
 
-(13) Az egészségbiztosítási szerv elsőfokú döntését fellebbezésre tekintet nélkül végrehajthatónak nyilváníthatja.
+(13)
 
 32/A. § (1) Az egészségbiztosítási szerv hivatalból folyamatosan teljes vagy részleges felülvizsgálatnak veti alá a támogatott gyógyászati segédeszközök körét a (2) bekezdésben foglalt szempontok szerint.
 
@@ -606,7 +606,7 @@ esetén,
 
 (4) Ha az egészségbiztosítási szerv a 32/A. § (2) bekezdésének b) pontja alapján indult, a 32/A. § (1) bekezdése szerinti eljárásban a gyógyászati segédeszköz támogatásból való kizárásáról, támogatási mértékének módosításáról, az eszköz más funkcionális csoportba (alcsoportba) sorolásáról, kihordási idejének, kihordási időre felírható mennyiségének módosításáról, nevének pontosításáról, illetve a rendelhetőségi feltételek módosításáról dönt, a támogatás megszüntetésének, mértéke módosításának napját, illetve a más funkcionális csoportban (alcsoportban), más kihordási idővel, más felírható mennyiséggel, más névvel, illetve más rendelhetőségi feltétellel történő támogatás kezdőnapja az eljárás megindítását szükségessé tevő jogszabály alkalmazásának kezdőnapja.
 
-(5) Az egészségbiztosítási szerv 32. § (4)–(5) és a 32/A. § (1) bekezdése szerinti határozata elleni fellebbezést 60 napon belül kell elbírálni.
+(5) Az egészségbiztosítási szervnek a 32. § (4)–(5) bekezdése és a 32/A. § (1)–(3) bekezdése szerinti eljárásban hozott döntése ellen nincs helye fellebbezésnek.
 
 (6) Az egészségbiztosítási szerv a végrehajtható határozatok alapján a támogatott gyógyászati segédeszközök teljes körét – a külön jogszabály szerinti adatokkal – minden naptári hónap 20. napjáig tájékoztató jelleggel honlapján közzéteszi.
 
@@ -716,9 +716,17 @@ esetén,
 
 a befizetést követően haladéktalanul átutalja.
 
-41. § (1) Olyan településeken működő vagy létesítendő közforgalmú gyógyszertárat (gyógyszertárakat) működtető vállalkozás számára, ahol a település gyógyszerellátását kizárólag egy közforgalmú gyógyszertár biztosítja vagy biztosítaná és már működő közforgalmú gyógyszertár esetén annak meghatározott időszakra vonatkozó gyógyszerforgalmazásból származó támogatott árréstömege – az ellátandó lakosságszám vagy a gyógyszertár földrajzi elhelyezkedése okán – hatékony és gazdaságos üzletmenet folytatása mellett sem éri el a külön jogszabályban meghatározott mértéket, az állam a mindenkori éves költségvetési törvényben szereplő, a 40. § b) pontja szerinti minisztérium fejezetében meghatározott előirányzat erejéig a működőképesség fenntartásához működési célú támogatást nyújt. A támogatásban részesített vállalkozások nevét és a támogatás összegét a minisztérium a honlapján közzéteszi.
+41. § (1) Olyan településeken működő vagy létesítendő közforgalmú gyógyszertárat (gyógyszertárakat) működtető vállalkozás számára, ahol a település gyógyszerellátását kizárólag egy közforgalmú gyógyszertár biztosítja vagy biztosítaná, és már működő közforgalmú gyógyszertár esetén annak meghatározott időszakra vonatkozó gyógyszerforgalmazásból származó támogatott árréstömege – az ellátandó lakosságszám vagy a gyógyszertár földrajzi elhelyezkedése okán – hatékony és gazdaságos üzletmenet folytatása mellett sem éri el a járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök és gyógyfürdőellátások árához nyújtott támogatások elszámolásáról és folyósításáról szóló kormányrendeletben (a továbbiakban: kormányrendelet) meghatározott mértéket, az állam a mindenkori éves költségvetési törvényben szereplő, a 40. § b) pontja szerinti minisztérium fejezetében meghatározott előirányzat erejéig a működőképesség fenntartásához naptári negyedévente működési célú támogatást nyújt. A támogatásban részesített vállalkozások nevét és a támogatás összegét a minisztérium a honlapján közzéteszi.
 
-(2) Az (1) bekezdés szerinti támogatás az Art. szerinti költségvetési támogatásnak minősül. A támogatás igénylésére és folyósítására az Art. rendelkezései irányadóak. A jogosultság megállapításának feltételeit külön jogszabály állapítja meg.
+(2) Az (1) bekezdés szerinti működési célú támogatás igényléséhez a közforgalmú gyógyszertárat működtető vállalkozás beszerzi az egészségügyi államigazgatási szervtől a kormányrendeletben meghatározott jogosultsági feltételeket igazoló hatósági bizonyítványt.
+
+(3) A hatósági bizonyítvány iránti kérelmet a közforgalmú gyógyszertárat működtető vállalkozás a tárgynegyedévet követő harmadik hónap 20. napjáig nyújthatja be az egészségügyi államigazgatási szervhez, mely határidő jogvesztő. A kérelem önellenőrzéssel a későbbiekben sem korrigálható.
+
+(4) Az egészségügyi államigazgatási szerv a (3) bekezdés szerinti hatósági bizonyítványt tíz napon belül kiállítja.
+
+(5) A közforgalmú gyógyszertárat működtető vállalkozás az (1) bekezdés szerinti működési célú támogatást a tárgynegyedévet követő negyedik hónap első napjától igényelheti az illetékes elsőfokú állami adóhatóságtól.
+
+(6) Az (1) bekezdés szerinti támogatás az Art. szerinti költségvetési támogatásnak minősül. A támogatás igénylésére és folyósítására az Art. rendelkezései irányadóak. A jogosultság megállapításának feltételeit jogszabály állapítja meg.
 
 42. § (1) Amennyiben a támogatott gyógyszerek tárgyévi forgalma után kifizetett társadalombiztosítási támogatás – a különkeretes gyógyszerekre és a különös méltánylást érdemlő körülmények esetén gyógyszertámogatásra fordítható összeget nem tartalmazó – összege meghaladja a tárgyév első napján hatályos előirányzatot, akkor e kiadási többlet finanszírozása – a (2)–(3) bekezdésben foglaltak szerint – az E. Alap kezelője és a forgalomba hozatali engedélyek jogosultjainak kötelezettsége.
 
@@ -1221,9 +1229,17 @@ lép hatályba.
 
 (4) A 42. § (6) bekezdésének alkalmazása során a 2007. évben január tárgyhónapon a 2007. január 15-étől 2007. január 31-éig terjedő időszakot kell érteni azzal, hogy ezen időszak tekintetében előleg fizetésére akkor kötelezett a forgalomba hozatali engedély jogosultja, ha a támogatott gyógyszerek után kifizetett tárgyhavi támogatás – a különkeretes gyógyszerekre és a különös méltánylást érdemlő körülmények esetén gyógyszertámogatásra fordítható összeget nem tartalmazó – összege meghaladja a 287 milliárd forint egyhuszonnegyed részét.
 
-85. §
+85. § (1) E törvény 49. §-a – a (2) bekezdésben foglalt kivétellel – 2011. január 1-jéig nem alkalmazható, annak alapján közforgalmú gyógyszertár létesítése nem engedélyezhető.
 
-86. § (1)–(4)
+(2) Az egészségügyi államigazgatási szerv az (1) bekezdésben foglaltaktól eltérően a 49. § (1) bekezdése alapján engedélyezi új közforgalmú gyógyszertár létesítését olyan településen, ahol közforgalmú gyógyszertár működési engedélye az (1) bekezdésben foglalt időtartamban szűnt meg, és a településen más közforgalmú gyógyszertár nem működik, valamint olyan településen, ahol nem működik közforgalmú vagy fiókgyógyszertár.
+
+(3) A gyógyszertárat működtető vállalkozások összefonódásához 2011. január 1-jéig sem a 75. §, sem pedig a Tptv. alapján engedély nem adható.
+
+(4) Az (1)–(3) bekezdés rendelkezéseit a hatálybalépésüket követően benyújtott kérelmek esetében kell alkalmazni, a hatálybalépést megelőzően benyújtott kérelmek elbírálására a 49. § és a 75. § alkalmazandó.
+
+86. § (1) Az egyes egészségügyi és szociális tárgyú törvények módosításáról szóló 2010. évi LXXXIX. törvény 7. §-ával megállapított 41. § (3) bekezdés azzal alkalmazandó, hogy a 2010. első naptári negyedévére járó működési célú támogatás igényléséhez szükséges hatósági bizonyítvány iránti kérelmek 2010. szeptember 1-jéig benyújthatóak.
+
+(2)–(4)
 
 (5) Az e törvény hatálybalépésekor hozzátartozói személyi joggal rendelkező személyek közforgalmú gyógyszertárat – az e törvény hatálybalépését megelőző napon hatályos Gyltv. hozzátartozói személyi jog alapján történő közforgalmú gyógyszertár működtetésre vonatkozó szabályainak megfelelően – legfeljebb a hozzátartozói személyi joggal rendelkezők nyilvántartásában feltüntetett jogosultsági időtartamig működtethetnek.
 

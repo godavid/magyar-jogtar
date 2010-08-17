@@ -2544,6 +2544,11 @@ vonatkozó adatokat kezelhet.
 
 (4) Az egyházi kiegészítő támogatás megtérítéséről a kincstár külön kormányrendeletben meghatározott eljárás szerint határozatban dönt.
 
+(5) Nem kell az egyházi kiegészítő támogatást megtéríteni, ha
+
+- a) a fenntartó egyház, illetve az az egyház, amelynek az egyházi fenntartó az önálló szervezete vagy szervezeti egysége, a Kormánnyal a gyermekjóléti, gyermekvédelmi vagy szociális feladatok ellátására is kiterjedő megállapodást kötött, ideértve a Magyar Köztársaság és az Apostoli Szentszék között a Katolikus Egyház magyarországi közszolgálati és hitéleti tevékenységének finanszírozásáról, valamint néhány vagyoni természetű kérdésről 1997. június 20-án, Vatikánvárosban aláírt Megállapodás alapján a Magyar Katolikus Egyházat is, és
+- b) az egyházi fenntartó a szolgáltató, intézmény, hálózat által végzett gyermekjóléti, gyermekvédelmi szolgáltató tevékenységekre az azok biztosítására köteles valamely helyi önkormányzattal vagy az ilyen önkormányzat részvételével működő társulással ellátási szerződést kötött.
+
 ### Térítési díj
 
 146. § (1) Ha e törvény másként nem rendelkezik, a személyes gondoskodást nyújtó gyermekjóléti alapellátás, illetve gyermekvédelmi szakellátás keretében biztosított gyermekek napközbeni ellátásáért, gyermekek átmeneti gondozásáért, valamint a fiatal felnőttek utógondozói ellátásáért térítési díjat kell fizetni.
@@ -2709,6 +2714,8 @@ gyermekeket.
 - f) állami gondoskodást említ, azon gyermekvédelmi gondoskodást,
 - g) gyermek- és ifjúságvédő intézetet említ, azon területi gyermekvédelmi szakszolgálatot,
 - h) csecsemőotthont vagy nevelőotthont említ, azon gyermekotthont kell érteni.
+
+161/A. § Az egyes egészségügyi és szociális tárgyú törvények módosításáról szóló 2010. évi LXXXIX. törvénnyel megállapított 145/A. § (5) bekezdésének rendelkezéseit abban az esetben is alkalmazni kell, ha a fenntartóváltozás vagy az egyházi fenntartású szolgáltató, intézmény, hálózat engedélyezése iránti kérelmet 2010. augusztus 1-jét megelőzően nyújtották be, azzal, hogy az eddig az időpontig a központi költségvetésnek megtérített egyházi kiegészítő támogatás nem követelhető vissza.
 
 ### Felhatalmazás
 
