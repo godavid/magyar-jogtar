@@ -280,9 +280,7 @@ c) és közeli hozzátartozója, illetve élettársa nem köthet az adott költs
 
 98–100. §
 
-101. § A Gyftv. 49. § (1)–(3) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a jelenlegi (4) bekezdés számozása (2) bekezdésre változik:
-
-„(1) Közforgalmú gyógyszertár működtetését az e törvényben, valamint a külön jogszabályokban meghatározott feltételek teljesítése esetén az egészségügyi államigazgatási szerv engedélyezi.”
+101. §
 
 102–105. §
 
@@ -392,7 +390,7 @@ b) kérik, hogy az arra vonatkozó adatokat, amely szerint a 21. § (3) bekezdé
 
 (8) A 66. § (1) bekezdése, a 126. § (4) bekezdése és a 129. § (1)–(3) bekezdése 2010. december 1-jén lép hatályba.
 
-(9) A 101. § 2011. január 1-jén lép hatályba.
+(9)
 
 (10) Az Eütv. e törvénnyel megállapított 156/G. § (1) és (2) bekezdése 2011. január 1-jén lép hatályba.
 
