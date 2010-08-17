@@ -498,10 +498,9 @@ számított tizenkettő hónapon belül benyújtott kérelem alapján állapíth
 (2) Közcélú munkavégzés keretében
 
 - a) az a települési önkormányzati feladat, amelynek ellátásáról a települési önkormányzat jogszabály vagy önkéntes vállalása alapján költségvetési szerv, önkormányzat többségi tulajdonában álló gazdasági társaság, társadalmi szervezet útján gondoskodik,
-- b) költségvetési szerv, önkormányzat többségi tulajdonában álló gazdasági társaság, társadalmi szervezet által ellátott, jogszabályon alapuló helyi önkormányzati feladat, amelynek ellátásában a települési önkormányzat megállapodás alapján közreműködik, továbbá
-- c) költségvetési szerv, a Magyar Állam egyszemélyes tulajdonában álló gazdasági társaság, az állam többségi tulajdonában álló gazdálkodó szervezet vagy társadalmi szervezet által jogszabály alapján ellátott állami feladat, amelynek ellátásában a települési önkormányzat megállapodás alapján közreműködik
-
-látható el.
+- b) költségvetési szerv, önkormányzat többségi tulajdonában álló gazdasági társaság, társadalmi szervezet által ellátott, jogszabályon alapuló helyi önkormányzati feladat, amelynek ellátásában a települési önkormányzat megállapodás alapján közreműködik,
+- c) költségvetési szerv, a Magyar Állam egyszemélyes tulajdonában álló gazdasági társaság, az állam többségi tulajdonában álló gazdálkodó szervezet vagy társadalmi szervezet által jogszabály alapján ellátott állami feladat, amelynek ellátásában a települési önkormányzat megállapodás alapján közreműködik, továbbá
+- d) a Kormány rendeletében meghatározottak szerint a szükség-, veszély- vagy katasztrófahelyzetből eredő kár esetén a helyreállítással kapcsolatos feladat látható el.
 
 (3) Közcélú munka keretében foglalkoztatható
 
@@ -1270,15 +1269,15 @@ miatt.
 
 (3) Amennyiben a házi segítségnyújtás során szakápolási feladatok ellátása válik szükségessé, a házi segítségnyújtást végző személy kezdeményezi az otthonápolási szolgálat keretében történő ellátást.
 
-(4) Házi segítségnyújtás igénybevételét megelőzően – a 68/A. § (4) bekezdése, valamint a (8) bekezdés szerinti kivétellel – vizsgálni kell a gondozási szükségletet. A szolgáltatás iránti kérelem alapján az intézményvezető, ennek hiányában a jegyző kezdeményezi az igénylő gondozási szükségletének vizsgálatát.
+(4) Házi segítségnyújtás igénybevételét megelőzően vizsgálni kell a gondozási szükségletet. A szolgáltatás iránti kérelem alapján az intézményvezető, ennek hiányában a jegyző által felkért szakértő végzi el az igénylő gondozási szükségletének vizsgálatát.
 
-(5) A gondozási szükséglet vizsgálata céljából külön jogszabályban megjelölt szakértői bizottság működik.
+(5)
 
-(6) A szakértői bizottság a gondozási szükségletet külön jogszabályban meghatározottak szerint megvizsgálja és kötelező erejű szakvéleményt ad a napi gondozási szükséglet mértékéről.
+(6) Az intézményvezető, ennek hiányában a jegyző által felkért szakértő a gondozási szükségletet jogszabályban meghatározottak szerint megvizsgálja és megállapítja a napi gondozási szükséglet mértékét.
 
-(7) A házi segítségnyújtást a szakvéleményben meghatározott napi gondozási szükségletnek megfelelő időtartamban, de legfeljebb napi 4 órában kell nyújtani. Ha a gondozási szükséglet a napi 4 órát meghaladja, a szolgáltatást igénylőt az intézményvezető tájékoztatja a bentlakásos intézményi ellátás igénybevételének lehetőségéről.
+(7) A házi segítségnyújtást a megállapított napi gondozási szükségletnek megfelelő időtartamban, de legfeljebb napi 4 órában kell nyújtani. Ha a gondozási szükséglet a napi 4 órát meghaladja, a szolgáltatást igénylőt az intézményvezető, ennek hiányában a jegyző által felkért szakértő tájékoztatja a bentlakásos intézményi ellátás igénybevételének lehetőségéről, ebben az esetben a szolgáltatást igénylő az intézményi elhelyezés időpontjáig napi 4 órában történő házi segítségnyújtásra jogosult.
 
-(8) Ha a szolgáltatást igénylő személy egészségi állapota vagy személyes körülményei a szolgáltatás átmeneti jellegű vagy halaszthatatlan biztosítását teszik szükségessé, a házi segítségnyújtás az intézményvezető döntése alapján legfeljebb három hónapos időtartamra a gondozási szükséglet vizsgálata nélkül is nyújtható. Amennyiben a gondozás három hónapot meghaladóan is indokolt, a gondozási szükséglet vizsgálatát a (4) bekezdés szerint kezdeményezni kell.
+(8)
 
 (9) A települési önkormányzat a 86. § (1) bekezdésének c) pontja szerinti feladata keretében az e § szerint megállapított gondozási szükséglettel rendelkező, házi segítségnyújtást igénylő személyek ellátásáról köteles gondoskodni.
 
@@ -1427,19 +1426,15 @@ részére biztosít lehetőséget a napközbeni tartózkodásra, társas kapcsol
 
 (5) Idősek otthonába az (1) bekezdés szerinti személlyel az ellátás igénylésekor legalább egy éve együtt élő házastársa, élettársa, testvére és fogyatékos közeli hozzátartozója a 68/A. § (3) bekezdésében meghatározott gondozási szükséglet hiányában is felvehető.
 
-68/A. § (1) Az idősotthoni ellátás iránti kérelem alapján az intézményvezető kezdeményezi az ellátást igénylő gondozási szükségletének vizsgálatát a szociális szakértői szervnél. Beutaló határozat esetében a vizsgálatot a beutaló szerv kezdeményezi a határozat hozatalát megelőzően, ebben az esetben az intézményvezető e § szerinti feladatait a beutaló szerv látja el.
+68/A. § (1) Az idősotthoni ellátás iránti kérelem alapján az intézményvezető végzi el az ellátást igénylő gondozási szükségletének vizsgálatát. Beutaló határozat esetében a vizsgálatot a beutaló szerv kezdeményezi a határozat hozatalát megelőzően az intézményvezetőnél.
 
-(2) A szociális szakértői szerv a gondozási szükségletet külön jogszabályban meghatározottak szerint megvizsgálja és kötelező erejű szakvéleményt ad a napi gondozási szükséglet mértékéről, illetve a külön jogszabály szerinti körülményekről.
+(2) Az intézményvezető a gondozási szükségletet jogszabályban meghatározottak szerint megvizsgálja és megállapítja a napi gondozási szükséglet mértékét, továbbá a jogszabály szerinti körülmények fennállását.
 
-(3) Idősotthoni ellátás napi 4 órát meghaladó, illetve a külön jogszabályban meghatározott egyéb körülményeken alapuló gondozási szükségletet igazoló szakvélemény alapján nyújtható.
+(3) Idősotthoni ellátás napi 4 órát meghaladó vagy a jogszabályban meghatározott egyéb körülményeken alapuló gondozási szükséglet megállapítása esetén nyújtható.
 
-(4) Ha az idősotthoni ellátást igénylő személy gondozási szükséglete a szakvélemény szerint fennáll, de nem haladja meg a napi 4 órát, és az idősotthoni elhelyezést a külön jogszabályban meghatározott egyéb körülmények sem indokolják, az intézményvezető tájékoztatja a házi segítségnyújtás igénybevételének lehetőségéről és a szakvéleményt részére átadja, valamint másolatát megküldi az ellátást igénylő lakóhelye, illetve tartózkodási helye szerinti települési önkormányzatnak. Ebben az esetben a házi segítségnyújtás igénylése során a szociális szakértői szerv szakvéleménye igazolja a gondozási szükségletet.
+(4) Ha az idősotthoni ellátást igénylő személy gondozási szükséglete fennáll, de nem haladja meg a napi 4 órát, és az idősotthoni elhelyezést a jogszabályban meghatározott egyéb körülmények sem indokolják, az intézményvezető tájékoztatást ad a házi segítségnyújtás igénybevételének lehetőségéről.
 
-68/B. § (1) Ha az idősotthoni ellátást igénylő személy egészségi állapota vagy személyes körülményei az ellátás halaszthatatlan biztosítását teszik szükségessé, az ellátás az intézményvezető döntése alapján határozott időre, de legfeljebb három hónapra – a gondozási szükséglet vizsgálata nélkül – biztosítható.
-
-(2) Az (1) bekezdés szerinti esetben a 94/B., illetve 94/D. § szerinti megállapodást határozott időre kell megkötni, és a megállapodás azt is tartalmazza, hogy ha a szociális szakértői szerv a határozott időtartam leteltéig nem állapítja meg a 68/A. § (3) bekezdése szerinti gondozási szükségletet, az ellátást meg kell szüntetni. A gondozási szükséglet vizsgálata az ellátás megkezdését követően kezdeményezhető.
-
-(3) Az ellátott 119/C. § szerinti jövedelemvizsgálatát a (2) bekezdés szerinti határozott időtartam alatt úgy kell kérelmezni, hogy – a gondozási szükséglet megállapítása esetén – a határozott időtartam leteltével az ellátott személyi térítési díja a jegyző által kiállított igazolás alapján legyen megállapítható.
+68/B. §
 
 69. § (1) A fogyatékos személyek otthonába az a fogyatékos személy vehető fel, akinek oktatására, képzésére, foglalkoztatására, valamint gondozására csak intézményi keretek között van lehetőség.
 
@@ -2481,7 +2476,7 @@ esetében.
 
 119/C. § (1) Az idősotthoni ellátás igénybevételét megelőzően a jegyző megvizsgálja az ellátást igénylő havi jövedelmét. A jövedelemvizsgálatra a 10. § és a 32–32/A. § szabályait is alkalmazni kell.
 
-(2) Az intézmény vezetője a jövedelemvizsgálatot a gondozási szükséglet vizsgálatának kezdeményezésével egyidejűleg kérelmezi a jegyzőnél.
+(2) Az intézmény vezetője a jövedelemvizsgálatot a gondozási szükséglet vizsgálatának elvégzésével egyidejűleg kérelmezi a jegyzőnél.
 
 (3) A jegyző a jövedelemvizsgálat alapján igazolást állít ki a havi jövedelemről. Az igazolás az ellátást igénylő természetes személyazonosító adatait és havi jövedelmét, illetve azon belül a vagyonból a (6) bekezdés szerint a havi jövedelemhez hozzáadandó összeget tartalmazza.
 
@@ -2619,6 +2614,11 @@ járul hozzá.
 
 (5) Az egyházi kiegészítő támogatás megtérítéséről a kincstár külön kormányrendeletben meghatározott eljárás szerint határozatban dönt.
 
+(6) Nem kell az egyházi kiegészítő támogatást az (1) és (2) bekezdés szerinti esetben megtéríteni, ha
+
+- a) a fenntartó egyház, illetve az az egyház, amelynek az egyházi fenntartó az önálló szervezete vagy szervezeti egysége, a Kormánnyal a szociális feladatok ellátására is kiterjedő megállapodást kötött, ideértve a Magyar Köztársaság és az Apostoli Szentszék között a Katolikus Egyház magyarországi közszolgálati és hitéleti tevékenységének finanszírozásáról, valamint néhány vagyoni természetű kérdésről 1997. június 20-án, Vatikánvárosban aláírt Megállapodás alapján a Magyar Katolikus Egyházat is, és
+- b) az egyházi fenntartó a szolgáltató, intézmény által nyújtott, 86. § szerinti szociális szolgáltatásokra az azok biztosítására köteles valamely helyi önkormányzattal vagy az ilyen önkormányzat részvételével működő társulással ellátási szerződést kötött.
+
 128. § (1) Kötött felhasználású állami támogatásként a helyi önkormányzatok
 
 - a) címzett és céltámogatást a külön törvényben foglaltak szerint,
@@ -2660,7 +2660,8 @@ kaphatnak.
 - r) a szociális intézményekben ellátott személyek állapotának felülvizsgálatára, a rehabilitációs alkalmassági vizsgálatra, továbbá a fogyatékos személyek alapvizsgálatára vonatkozó szabályokat;
 - s) a szociális igazgatási bírság alkalmazására és felhasználására vonatkozó részletes szabályokat;
 - t) az energiafelhasználási támogatás mértékére, a támogatásra való jogosultság megállapításának feltételeire és a jogosultak körére, a támogatás igénylésére, megállapítására, érvényesítésére, a támogatás jogszerű igénybevétele ellenőrzésének és a jogosulatlanul igénybe vett támogatás visszakövetelésének rendjére, továbbá a támogatás forrásául szolgáló előirányzat kezelésére és felhasználására vonatkozó szabályokat;
-- u) az egyházi kiegészítő támogatás megtérítésének részletes szabályait.
+- u) az egyházi kiegészítő támogatás megtérítésének részletes szabályait;
+- v) a szükség-, veszély- vagy katasztrófahelyzetből eredő kár esetén közcélú munkavégzés keretében ellátható helyreállítási feladatok körét, az e feladatokra fordítható költségvetési forrás összegét, valamint e forrás igénybevételének eljárásrendjét.
 
 (2) Felhatalmazást kap a szociál- és családpolitikáért felelős miniszter, hogy rendeletben szabályozza
 
@@ -2709,7 +2710,7 @@ kaphatnak.
 
 139/A. §
 
-140. §
+140. § Az egyes egészségügyi és szociális tárgyú törvények módosításáról szóló 2010. évi LXXXIX. törvénnyel megállapított 127/A. § (6) bekezdésének rendelkezéseit abban az esetben is alkalmazni kell, ha a fenntartóváltozás vagy az egyházi fenntartású szolgáltató, intézmény engedélyezése iránti kérelmet 2010. augusztus 1-jét megelőzően nyújtották be, azzal, hogy az eddig az időpontig a központi költségvetésnek megtérített egyházi kiegészítő támogatás nem követelhető vissza.
 
 ### Az Európai Unió jogának való megfelelés
 
