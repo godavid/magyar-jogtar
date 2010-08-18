@@ -59,13 +59,13 @@ A Magyar Köztársaság állampolgárait megilleti a lehető legmagasabb szintű
 
 ### Az amatőr sportolókra vonatkozó rendelkezések
 
-5. § (1) Amatőr sportoló sportegyesület keretében tagként, illetve sportszerződés alapján, sportvállalkozás keretében pedig kizárólag sportszerződés alapján sportolhat. Sportiskola tanulója és az iskolai sportkör tagja a tanulói jogviszony alapján minősül amatőr sportolónak.
+5. § (1) Amatőr sportoló sportegyesület keretében tagként, illetve sportszerződés alapján, sportvállalkozás keretében pedig kizárólag sportszerződés alapján sportolhat. Sportiskola tanulója tanulói jogviszonya alapján is amatőr sportolónak minősülhet. A tanulói jogviszony szünetelése az amatőr sportoló versenyengedélyének érvényességét nem érinti.
 
 (2) A sportszerződésben a a sportszervezet és az amatőr sportoló megállapodnak a sporttevékenységgel kapcsolatos együttműködésük feltételeiről. A sportszerződésre a Polgári Törvénykönyv megbízási szerződésre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (3) A sportszerződést írásba kell foglalni. A sportszerződés csak határozott időre, de legfeljebb öt évre köthető.
 
-(4) Az amatőr sportoló sporttevékenységéért attól a sportszervezettől, amellyel az (1) bekezdés szerint tagsági vagy szerződéses jogviszonyban áll, valamint más természetes és jogi személytől díjazásban nem részesülhet. Ha a sportszövetség szabályzata a sportág jellegére és a nemzetközi szövetség követelményeire tekintettel másként nem rendelkezik, nem minősül ilyen díjazásnak,
+(4) Az amatőr sportoló sporttevékenységéért attól a sportszervezettől, illetve sportiskolától, amellyel az (1) bekezdés szerint tagsági vagy szerződéses, illetve tanulói jogviszonyban áll, valamint más természetes és jogi személytől díjazásban nem részesülhet. Ha a sportszövetség szabályzata a sportág jellegére és a nemzetközi szövetség követelményeire tekintettel másként nem rendelkezik, nem minősül ilyen díjazásnak,
 
 - a) az amatőr sportoló felkészüléssel és versenyzéssel összefüggő indokolt és igazolt költségeinek megtérítése, illetve az ezzel kapcsolatos természetbeni juttatás,
 - b) a kiemelkedő sportteljesítményért nyújtott eredményességi elismerés (pénzbeli elismerés, érem, ajándéktárgy stb.),
@@ -81,7 +81,7 @@ A Magyar Köztársaság állampolgárait megilleti a lehető legmagasabb szintű
 
 (3) A versenyengedély iránti kérelmet:
 
-- a) az iskolaként működő sportiskola tanulója, illetve az iskolai sportkör tagja azon az oktatási intézményen keresztül nyújthatja be a sportszövetséghez, amellyel tanulói jogviszonyban áll,
+- a) az iskolaként működő sportiskola tanulója, azon az oktatási intézményen keresztül nyújthatja be a sportszövetséghez, amellyel tanulói jogviszonyban áll,
 - b) a költségvetési szervként vagy közhasznú társaságként működő sportiskola sportolója a sportiskolán keresztül nyújthatja be a sportszövetséghez.
 
 7. § (1) Ha az amatőr sportoló sportszerződés alapján sportol, e szerződés fennállásának időtartama alatt csak a sportszervezete előzetes írásbeli hozzájárulásával igazolhat át másik sportszervezethez. A sportszervezet a hozzájárulás megadását költségtérítés fizetéséhez kötheti.
@@ -205,7 +205,7 @@ szabható ki.
 
 - a) a nemzeti válogatott sportolók, illetve válogatott csapatok (keretek) működése kapcsán a nemzeti válogatottakat működtető sportszövetségekre,
 - b) a fogyatékosok sportja, illetve a szabadidősport területén működő azon sportszövetségekre, amelyek keretében sportolók közvetlenül – a sportszövetség alapszabályában biztosított lehetőség alapján – sporttevékenységet fejtenek ki,
-- c) a versenyrendszerben és a pályázatokon való részvétel szempontjából a sportiskolákra, illetve az iskolai sportkörökre.
+- c) a versenyrendszerben és a pályázatokon való részvétel, a sportszervezetek támogatóit megillető kedvezmények szempontjából, valamint az országos sportági szakszövetségi, országos sportági szövetségi tagság tekintetében a sportiskolákra.
 
 ### A sportegyesület
 
@@ -263,7 +263,7 @@ szabható ki.
 
 20. § (1) Az országos sportági szakszövetség (a továbbiakban: szakszövetség) olyan sportszövetség, amely sportágában kizárólagos jelleggel az e törvényben, valamint más jogszabályokban meghatározott feladatokat lát el, és törvényben megállapított különleges jogosítványokat gyakorol.
 
-(2) A szakszövetségnek kizárólag olyan sportszervezetek lehetnek tagjai, amelyek az adott sportág versenyrendszerében részt vesznek. A sportágban tevékenykedő sportszervezetek felvétele a szakszövetségbe nem tagadható meg, ha a sportszervezet magára nézve kötelezőnek elfogadja a szakszövetség alapszabályát.
+(2) A szakszövetségnek kizárólag olyan sportszervezetek és sportiskolák lehetnek tagjai, amelyek az adott sportág versenyrendszerében részt vesznek. A sportágban tevékenykedő sportszervezetek és sportiskolák felvétele a szakszövetségbe nem tagadható meg, ha a sportszervezet és a sportiskola magára nézve kötelezőnek elfogadja a szakszövetség alapszabályát.
 
 (3) A szakszövetségre – amennyiben e törvény eltérően nem rendelkezik – az Et. társadalmi szervezetekre és a Ptk. egyesületekre vonatkozó szabályait kell megfelelően alkalmazni. Egy sportágban csak egy szakszövetség működhet.
 
@@ -380,7 +380,7 @@ szabható ki.
 
 ### A sportági szövetségek
 
-28. § (1) A sportági szövetség az egyesülési jogról szóló törvény alapján működő társadalmi szervezetek szövetsége, amelynek tagjai kizárólag sportszervezetek lehetnek. Egy sportágban egy országos sportági szövetség alapítható, de sportági szövetség nem csak országos jelleggel működhet.
+28. § (1) A sportági szövetség az Et. alapján működő társadalmi szervezetek szövetsége, amelynek tagjai kizárólag sportszervezetek, sportiskolák lehetnek. Sportági szövetség országos jelleggel is működhet. Egy sportágban csak egy országos sportági szövetség működhet.
 
 (2) A szakszövetségnek az e törvényben és a külön jogszabályokban meghatározott feladatait az országos sportági szövetség akkor láthatja el, ha nem felel meg a 20. § (4)–(5) bekezdésében meghatározott feltételeknek és:
 
@@ -525,12 +525,12 @@ versenyrendszert működtethet (bajnokságot írhat ki).
 - c) az olimpiai mozgalom érdekében az olimpiai játékok jelképeinek védelme,
 - d) az olimpiai mozgalom eszményének jegyében az ifjúság testi, erkölcsi és kulturális nevelésének segítése, a tisztességes játék (fair play) szellemében való versenyzés támogatása, fellépés a sportmozgalomra ható káros jelenségek ellen,
 - e) részvétel a sportösztöndíj-rendszer működtetésében,
-- f) együttműködés az állami szervekkel, a Nemzeti Sporttanáccsal, a Magyar Paralimpiai Bizottsággal és a nemzeti sportszövetségekkel a sport stratégiai fejlesztési céljainak meghatározásában, illetve megvalósításában,
+- f) együttműködés az állami szervekkel, a Magyar Paralimpiai Bizottsággal és a nemzeti sportszövetségekkel a sport stratégiai fejlesztési céljainak meghatározásában, illetve megvalósításában,
 - g) a sporttal kapcsolatos jogszabálytervezetek véleményezése, a sporttal kapcsolatos kormányzati intézkedések megtételének kezdeményezése.
 
 (4) A MOB feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből nyújtott sportcélú állami támogatásokkal összefüggésben – az e törvényben és a külön jogszabályban meghatározottak szerint – a következők:
 
-- a) a Nemzeti Sporttanácsban az olimpiai mozgalmat képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
+- a) az olimpiai mozgalmat képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
 - b) a Nemzeti Sportszövetséggel és a Sportegyesületek Országos Szövetségével közösen javaslatot dolgoz ki a versenysport és az utánpótlás-nevelés feladataira, valamint a versenysport és az utánpótlás-nevelés pályázati úton történő támogatására szolgáló állami támogatás felhasználására,
 - c) dönt a rendelkezésére bocsátott állami támogatásról.
 
@@ -547,7 +547,7 @@ versenyrendszert működtethet (bajnokságot írhat ki).
 
 (3) A MOB elnökségének tagjait a közgyűlés választja. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. A MOB elnökségének tagja nem lehet állami vezető.
 
-(4) A MOB közgyűlésén a sportpolitikáért felelős miniszter, a Nemzeti Sporttanács elnöke, a Magyar Paralimpiai Bizottság elnöke, valamint a nemzeti sportszövetségek elnökei tanácskozási joggal vehetnek részt.
+(4) A MOB közgyűlésén a sportpolitikáért felelős miniszter, a Magyar Paralimpiai Bizottság elnöke, valamint a nemzeti sportszövetségek elnökei tanácskozási joggal vehetnek részt.
 
 (5) A MOB rendelkezésére bocsátott állami támogatás felhasználásáról való döntés a közgyűlés kizárólagos hatáskörébe tartozik. A MOB közgyűlése köteles könyvvizsgálót választani a MOB gazdálkodásának ellenőrzésére.
 
@@ -590,11 +590,11 @@ kezeli.
 - b) a szakszövetségekkel, sportszövetségekkel együttműködve a sportolók paralimpiai játékokra történő felkészülésének, illetve részvételének szakmai elősegítése, a paralimpiai mozgalom fejlesztése,
 - c) a paralimpiai mozgalom érdekében a paralimpiai játékok jelképeinek védelme,
 - d) a paralimpiai mozgalom eszményének jegyében az érintett ifjúság testi, erkölcsi és kulturális nevelésének segítése, a tisztességes játék (fair play) szellemében való versenyzés támogatása, fellépés a sportmozgalomra ható káros jelenségek ellen,
-- e) együttműködés az állami szervekkel, a Nemzeti Sporttanáccsal, a MOB-bal és a nemzeti sportszövetségekkel a sport stratégiai fejlesztési céljainak megvalósításában.
+- e) együttműködés az állami szervekkel, a MOB-bal és a nemzeti sportszövetségekkel a sport stratégiai fejlesztési céljainak megvalósításában.
 
 (4) Az MPB feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből nyújtott sportcélú állami támogatásokkal összefüggésben – az e törvényben és a külön jogszabályban meghatározottak szerint – a következők:
 
-- a) A Nemzeti Sporttanácsban a paralimpiai mozgalmat képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
+- a) a paralimpiai mozgalmat képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
 - b) a Fogyatékosok Nemzeti Sportszövetségével és a Sportegyesületek Országos Szövetségével közösen javaslatot dolgoz ki a fogyatékosok versenysportjára vonatkozó feladatokra, valamint a fogyatékosok versenysportja pályázati úton történő támogatására szolgáló állami támogatás felhasználására,
 - c) dönt a rendelkezésére bocsátott állami támogatásról.
 
@@ -611,7 +611,7 @@ kezeli.
 
 (3) Az MPB elnökségének tagjait a közgyűlés választja, az elnökség tagja büntetlen előéletű magyar állampolgár lehet. Az MPB elnökségének tagja nem lehet állami vezető.
 
-(4) Az MPB közgyűlésén a sportigazgatási szerv vezetője, a Nemzeti Sporttanács elnöke, a MOB elnöke, valamint a nemzeti sportszövetségek elnökei tanácskozási joggal részt vehetnek.
+(4) Az MPB közgyűlésén a sportigazgatási szerv vezetője, a MOB elnöke, valamint a nemzeti sportszövetségek elnökei tanácskozási joggal részt vehetnek.
 
 (5) Az MPB rendelkezésére bocsátott állami támogatás felhasználásáról való döntés a közgyűlés kizárólagos hatáskörébe tartozik. Az MPB közgyűlése köteles könyvvizsgálót választani az MPB gazdálkodásának ellenőrzésére.
 
@@ -650,9 +650,9 @@ kezeli.
 
 (3) A Nemzeti Sportszövetség:
 
-- a) képviseli tagjai közös érdekeit az állami szervek, az önkormányzatok, a Nemzeti Sporttanács, a MOB, az MPB, a további két nemzeti sportszövetség, a sportközalapítványok, illetve más társadalmi szervezetek előtt,
+- a) képviseli tagjai közös érdekeit az állami szervek, az önkormányzatok, a MOB, az MPB, a további két nemzeti sportszövetség, a sportközalapítványok, illetve más társadalmi szervezetek előtt,
 - b) összehangolja tagjai tevékenységét, illetve versenyrendszerét, összeállítja az országos összesített versenynaptárt, valamint sportszakmai, gazdasági, jogi és egyéb szolgáltatásokat nyújt, és pályázatokat ír ki tagjai részére,
-- c) együttműködik a sportigazgatási szervvel, a Nemzeti Sporttanáccsal, a MOB-bal, az MPB-vel és a további két nemzeti sportszövetséggel a magyar sport fejlesztése érdekében,
+- c) együttműködik a sportigazgatási szervvel, a MOB-bal, az MPB-vel és a további két nemzeti sportszövetséggel a magyar sport fejlesztése érdekében,
 - d) véleményt nyilvánít sportpolitikai kérdésekben, kezdeményezi kormányzati intézkedések megtételét, véleményezi a sporttal kapcsolatos jogszabálytervezeteket,
 - e) részt vesz a nem kormányzati nemzetközi sportszervezetek, különösen az Európai Nem Kormányzati Sportszervezetek Szövetségének (ENGSO) tevékenységében,
 - f) működteti a Sport Állandó Választottbíróságot,
@@ -662,7 +662,7 @@ kezeli.
 
 (4) A Nemzeti Sportszövetség feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből nyújtott sportcélú állami támogatásokkal összefüggésben – az e törvényben, valamint a külön jogszabályban meghatározottak szerint – a következők:
 
-- a) a Nemzeti Sporttanácsban a tagságát képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
+- a) a tagságát képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
 - b) a MOB-bal és a Sportegyesületek Országos Szövetségével közösen javaslatot dolgoz ki a versenysport és az utánpótlás-nevelés feladataira, valamint a versenysport és az utánpótlás-nevelés pályázati úton történő támogatására szolgáló állami támogatás felhasználására,
 - c) dönt a rendelkezésére bocsátott állami támogatásról.
 
@@ -674,17 +674,17 @@ kezeli.
 
 (2) A Nemzeti Szabadidősport Szövetség:
 
-- a) képviseli a szabadidősport, illetve tagjai közös érdekeit az állami szervek, az önkormányzatok, a Nemzeti Sporttanács, a MOB, az MPB, a további két nemzeti sportszövetség és más társadalmi szervezetek előtt,
+- a) képviseli a szabadidősport, illetve tagjai közös érdekeit az állami szervek, az önkormányzatok, a MOB, az MPB, a további két nemzeti sportszövetség és más társadalmi szervezetek előtt,
 - b) összehangolja tagjai tevékenységét, továbbá sportszakmai, gazdasági, jogi és más szolgáltatásokat nyújt, pályázatokat ír ki részükre,
 - c) véleményt nyilvánít sportpolitikai kérdésekben, kezdeményezi kormányzati intézkedések megtételét, véleményezi a sporttal kapcsolatos jogszabálytervezeteket,
 - d) részt vesz a szabadidősporttal kapcsolatos nemzetközi együttműködésben,
-- e) együttműködik a sportigazgatási szervvel, a Nemzeti Sporttanáccsal, a MOB-bal, az MPB-vel és a további két nemzeti sportszövetséggel a magyar sport fejlesztésében,
+- e) együttműködik a sportigazgatási szervvel, a MOB-bal, az MPB-vel és a további két nemzeti sportszövetséggel a magyar sport fejlesztésében,
 - f) elsősorban tagjai útján segíti az utánpótlás-nevelést.
 
 (3) A Nemzeti Szabadidősport Szövetség feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből a szabadidősportra, a diáksportra és a főiskolai-egyetemi sportra nyújtott sportcélú állami támogatásokkal összefüggésben – az e törvényben, valamint a külön jogszabályban meghatározottak szerint – a következők:
 
-- a) a Nemzeti Sporttanácsban a tagságát képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
-- b) a Wesselényi Miklós Sport Közalapítvánnyal és a Nemzeti Sporttanácsban a települési, illetve területi önkormányzatok országos szövetségei, valamint a diáksport és a főiskolai-egyetemi sport sportszövetségei által jelölt képviselőkkel közösen javaslatot dolgoz ki a szabadidősport, a diáksport és a főiskolai-egyetemi sport feladataira, valamint a szabadidősport, a diáksport és a főiskolai-egyetemi sport pályázati úton történő támogatására szolgáló állami támogatás felhasználására,
+- a) a tagságát képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
+- b) a Wesselényi Miklós Sport Közalapítvánnyal javaslatot dolgoz ki a szabadidősport, a diáksport és a főiskolai-egyetemi sport feladataira, valamint a szabadidősport, a diáksport és a főiskolai-egyetemi sport pályázati úton történő támogatására szolgáló állami támogatás felhasználására,
 - c) dönt a rendelkezésére bocsátott állami támogatásról.
 
 (4) Az országos szabadidősport szövetségek alanyi jogon tagjai lehetnek a Nemzeti Szabadidősport Szövetségnek, ha annak alapszabályát elfogadják.
@@ -695,17 +695,17 @@ kezeli.
 
 (2) A Fogyatékosok Nemzeti Sportszövetsége:
 
-- a) képviseli az állami szervek, az önkormányzatok, a Nemzeti Sporttanács, a további két nemzeti sportszövetség, a sportközalapítványok és más társadalmi szervezetek előtt a fogyatékosok sportjának érdekeit,
+- a) képviseli az állami szervek, az önkormányzatok, a további két nemzeti sportszövetség, a sportközalapítványok és más társadalmi szervezetek előtt a fogyatékosok sportjának érdekeit,
 - b) összehangolja tagjai tevékenységét, továbbá sportszakmai, gazdasági, jogi és más szolgáltatásokat nyújt, pályázatokat ír ki tagjai részére,
 - c) részt vesz a fogyatékosok nemzetközi sportszervezeteinek tevékenységében,
 - d) véleményt nyilvánít sportpolitikai kérdésekben, kezdeményezi kormányzati intézkedések megtételét, véleményezi a sporttal kapcsolatos jogszabálytervezeteket,
 - e) az érintett sportszövetségekkel együttműködve elősegíti és koordinálja a magyar sportolóknak a speciális világjátékokon való részvételét,
-- f) együttműködik a sportigazgatási szervvel, a Nemzeti Sporttanáccsal, a MOB-bal, az MPB-vel és a további két nemzeti sportszövetséggel a magyar sport fejlesztése érdekében.
+- f) együttműködik a sportigazgatási szervvel, a MOB-bal, az MPB-vel és a további két nemzeti sportszövetséggel a magyar sport fejlesztése érdekében.
 
 (3) A Fogyatékosok Nemzeti Sportszövetsége feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből a fogyatékosok sportjára nyújtott sportcélú állami támogatásokkal összefüggésben – az e törvény és a külön jogszabályban meghatározottak szerint – a következők:
 
-- a) a Nemzeti Sporttanácsban a tagságát képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
-- b) az MPB-vel és a Nemzeti Sporttanácsban a települési, illetve területi önkormányzatok országos szövetségei által jelölt képviselővel közösen javaslatot dolgoz ki a fogyatékosok sportja feladataira, valamint a fogyatékosok sportja pályázati úton történő támogatására szolgáló állami támogatás felhasználására,
+- a) a tagságát képviselve közreműködik a magyar sport állami támogatása elosztási arányaira vonatkozó javaslat kialakításában,
+- b) az MPB-vel közösen javaslatot dolgoz ki a fogyatékosok sportja feladataira, valamint a fogyatékosok sportja pályázati úton történő támogatására szolgáló állami támogatás felhasználására,
 - c) dönt a rendelkezésére bocsátott állami támogatásról.
 
 (4) A fogyatékosok országos sportszövetségei alanyi jogon lehetnek tagjai a Fogyatékosok Nemzeti Sportszövetségének, ha annak alapszabályát elfogadják.
@@ -722,7 +722,7 @@ kezeli.
 - d) az előző évre vonatkozó szakmai és pénzügyi beszámoló, valamint a tárgyévi pénzügyi és szakmai terv, illetve a közhasznúsági jelentés elfogadása,
 - e) minden olyan kérdés, amelyet az alapszabály a közgyűlés kizárólagos hatáskörébe utal.
 
-(3) A nemzeti sportszövetségek közgyűlésein tanácskozási joggal részt vehet a sportpolitikáért felelős miniszter, a Nemzeti Sporttanács elnöke, a MOB, az MPB, valamint a további két nemzeti sportszövetség elnökei.
+(3) A nemzeti sportszövetségek közgyűlésein tanácskozási joggal részt vehet a sportpolitikáért felelős miniszter, a MOB, az MPB, valamint a további két nemzeti sportszövetség elnökei.
 
 (4) A nemzeti sportszövetségek törvényességi felügyeletét az ügyészség látja el.
 
@@ -845,7 +845,7 @@ kezeli.
 - c) gondoskodik a sporttal kapcsolatos kormányzati döntések végrehajtásáról,
 - d) szakmai támogatást nyújt a helyi önkormányzatok sporttal összefüggő feladatainak ellátásához,
 - e) együttműködik az Országos Területfejlesztési Tanáccsal, a regionális fejlesztési tanácsokkal, a megyei területfejlesztési tanácsokkal, illetve a térségi fejlesztési tanácsokkal,
-- f) együttműködik a Nemzeti Sporttanáccsal, a MOB-bal, az MPB-vel és a nemzeti sportszövetségekkel, valamint kapcsolatot tart a sportközalapítványokkal és a sport területén működő érdekképviseleti szervekkel,
+- f) együttműködik a MOB-bal, az MPB-vel és a nemzeti sportszövetségekkel, valamint kapcsolatot tart a sportközalapítványokkal és a sport területén működő érdekképviseleti szervekkel,
 - g)
 - h) gyakorolja az e törvényben, valamint külön jogszabályokban meghatározott hatósági jogköröket,
 - i) programokat dolgoz ki a szabadidő-, a gyermek- és ifjúsági sportnak, a nők és a családok sportjának, a fogyatékosok sportjának, a hátrányos helyzetű társadalmi csoportok sportjának, a köz- és felsőoktatás sportjának, valamint a sportpiac fejlődésének a támogatására, e programokban biztosítja az esélyegyenlőséget, a programok kidolgozását a népegészségügyi érdekek hatékony érvényesítése céljából az illetékes minisztériummal együttműködésben végzi,
@@ -855,29 +855,7 @@ kezeli.
 
 (3)
 
-### A Nemzeti Sporttanács
-
-52. § (1) A Nemzeti Sporttanács (a továbbiakban: Tanács) a Kormány mellett működő javaslattevő, illetve véleményt nyilvánító testület, amelynek – a hosszú távú sportpolitika alapvető kérdéseiben kialakítandó nemzeti egység érdekében – alapfeladata, hogy állást foglaljon, illetve ajánlásokat tegyen a magyar sport fejlesztésének stratégiai kérdéseiben, továbbá, hogy összeegyeztesse a sporttal kapcsolatos központi állami, önkormányzati és az üzleti érdekeket, a sportmozgalom társadalmi, népegészségügyi érdekeit.
-
-(2) A Tanács kialakítja álláspontját, és tájékoztatja a Kormányt a sportot érintő alapvető jogszabályok és stratégiai jelentőségű fejlesztési elképzelések tervezeteiről. A Tanács javaslatot dolgoz ki a sport állami támogatásának mértékére, az állami támogatás elosztásának elveire, arányaira és alapvető irányaira.
-
-53. § (1) A Tanács alapszabályát – e törvény keretei között – a testület maga állapítja meg.
-
-(2) A Tanács elnökét a miniszterelnök javaslatára a köztársasági elnök nevezi ki a jelölt illetékes országgyűlési bizottság által történt meghallgatását követően. A Tanács társelnöke a miniszter, titkára az NSH elnökhelyettese.
-
-(3) A Tanács – elnökkel és társelnökkel együtt – tizennyolc tagból áll. Tagjai:
-
-- a) az egészségügyért felelős miniszter, a gyermekek és az ifjúság védelméért felelős miniszter, az oktatásért felelős miniszter,
-- b) a MOB elnöke, az MPB elnöke, a nemzeti sportszövetségek elnökei, a Wesselényi Miklós Sportközalapítvány kuratóriumának elnöke, a Sportegyesületek Országos Szövetségének elnöke, valamint az Országgyűlés sportügyekkel foglalkozó bizottságának elnöke,
-- c) a települési, illetve területi önkormányzatok országos szövetségei, valamint a diáksport és a főiskolai-egyetemi sport sportszövetségei, valamint a testnevelőtanárok egyesületei által – megegyezésük szerint – jelölt, továbbá a sportot támogató üzleti vállalkozások (Szponzorok Tanácsa) által jelölt, végül a Nemzet Sportolói által saját soraikból választott személy.
-
-(4) A (3) bekezdés c) pontjában megjelöltek és a Tanács elnöke csak személyesen vehetnek részt a Tanács munkájában.
-
-(5) A Tanács elnökének megbízatása az országgyűlési választásokat követően a Kormány megalakulásától számított hatvanadik napon jár le. A (3) bekezdés c) pontjában megjelöltek megbízatása négy évre szól, de jelölő szervük által visszahívhatók, illetve tisztségükről bármikor lemondhatnak.
-
-54. § (1) A Tanács szükség szerint, de évente legalább négy ülést tart, amelyeken kialakítja állásfoglalásait. A Tanács tevékenységében való részvételért díjazás nem jár.
-
-(2) A Tanács adminisztratív és gazdálkodási feladatait a sportigazgatási szerven belül működő Titkárság látja el. A Tanács működési költségeit a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetén belül elkülönítve kell megállapítani.
+52–54. §
 
 ### A helyi önkormányzatok sporttal kapcsolatos feladatai
 
@@ -914,7 +892,7 @@ kezeli.
 
 (2) A sorsolásos szerencsejátékok játékadójának tizenkét százalékát, a bukmékeri rendszerű fogadások játékadójának ötven százalékát, valamint a sportfogadás (TOTÓ) játékadóját – külön jogszabályban foglaltak szerint – a sport támogatására kell fordítani, és a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell megtervezni.
 
-(3) A miniszter a Nemzeti Sporttanács javaslata alapján rendeletben határozza meg a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéhez tartozó állami sportcélú támogatások felhasználásának részletes szabályait.
+(3)
 
 57. § (1) Állami támogatás csak annak részére nyújtható, akinek:
 
@@ -1177,20 +1155,6 @@ biztonsági kockázatú lehet.
 
 (3) A szervező a belépőjegy, bérlet eladásakor, illetőleg a rendező szerv alkalmazottja a beléptetés során jogosult a néző személyazonosságát a személyazonosság igazolására alkalmas igazolvány alapján megállapítani, illetőleg ellenőrizni.
 
-[72. § (1) A szervező a résztvevők egyedi azonosítására alkalmas biztonsági beléptetési és ellenőrző rendszert (a továbbiakban: beléptető rendszer) alkalmazhat, a kiemelt biztonsági kockázatú sportrendezvény esetében beléptető rendszert alkalmaz. A rendező a beléptetés során jogosult a résztvevők személyazonosságát ellenőrizni.
-
-(2) Beléptető rendszer alkalmazása esetén a szervező
-
-a) csak névre szóló belépőjegyet, bérletet értékesíthet;
-
-b) személyazonosításra alkalmas, kedvezményekre jogosító kártya (a továbbiakban: klubkártya) kiváltását teheti kötelezővé;
-
-c) a beléptetéskor a rendező útján a belépőjegy, a bérlet birtokosának személyazonosságát ellenőrzi, és személyes adatait egybeveti a belépőjegy, a bérlet vagy a klubkártya adataival.
-
-(3) Ha a beléptetéskor a belépőjegy, a bérlet vagy a klubkártya birtokosának személyes adatai nem egyeznek a személyazonosság igazolására alkalmas igazolványban szereplő adatokkal, a beléptetést meg kell tagadni.
-
-(4) Nem állítható ki névre szóló belépőjegy, bérlet, illetve klubkártya olyan személy részére, aki a sportrendezvény látogatásától eltiltás vagy a sportrendezvényről, sportlétesítményből kitiltás hatálya alatt áll.]
-
 72/A. § (1) A szervező névre szóló belépőjegyet és bérletet, a sportszervezet klubkártyát állíthat ki és értékesíthet. A belépőjegyen, bérleten, illetve klubkártyán a sportrendezvényre ezekkel belépésre jogosult személy nevét, születési helyét és idejét (a továbbiakban: természetes személyazonosító adatok), valamint lakcímét az azokat kibocsátó szervező vagy sportszervezet annak érvényességét követő 24 óráig nyilvántartja.
 
 (2) Az (1) bekezdésben foglaltak alapján kiadott belépőjegy, bérlet, valamint klubkártya, illetve az abban szereplő személyes adat csak a sportrendezvény helyszínén elkövetett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás, továbbá a sportrendezvényről való eltiltás során használható fel.
@@ -1270,7 +1234,7 @@ c) a beléptetéskor a rendező útján a belépőjegy, a bérlet birtokosának 
 
 78. § (1) Ez a törvény a kihirdetésétől számított hatvanadik napon lép hatályba.
 
-(2) A Nemzeti Sporttanács alakuló ülését a miniszter – a törvény hatálybalépését követő 120 napon belül – hívja össze.
+(2)
 
 (3) Hivatásos sportoló sportszervezettel e törvény hatálybalépése után egyéni vállalkozóként hivatásos sportolói tevékenysége körében polgári jogi szerződést nem köthet. A már megkötött polgári jogi szerződések a szerződésben meghatározott időtartam végéig, de legfeljebb 2006. december 31-ig hatályosak.
 
@@ -1278,7 +1242,7 @@ c) a beléptetéskor a rendező útján a belépőjegy, a bérlet birtokosának 
 
 (5) A 18. § (3) bekezdésében meghatározott közhasznú társaságokon kívül, az ebben a formában működő sportvállalkozások, a törvény hatálybalépésétől számított egy éven belül kötelesek korlátolt felelősségű társasággá, illetve részvénytársasággá átalakulni.
 
-(6) A Kormány a törvény hatálybalépésétől számított kilencven napon belül módosítani köteles a Wesselényi Sportközalapítvány alapító okiratát.
+(6)
 
 (7) Ahol jogszabály ,,sportági országos szakszövetséget'' említ, e törvény hatálybalépését követően azon ,,országos sportági szakszövetséget'' kell érteni.
 
