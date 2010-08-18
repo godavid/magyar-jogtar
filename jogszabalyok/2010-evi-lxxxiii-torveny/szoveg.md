@@ -38,7 +38,47 @@ sporteseményre szóló belépőjegy, bérlet;”
 
 ### A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-3–7. §
+3. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao.) 4. §-a a következő 41–43. ponttal egészül ki:
+
+[E törvény alkalmazásában:]
+
+„41. látvány-csapatsport: a labdarúgás, a kézilabda, a kosárlabda, a vízilabda, a jégkorong sportág;
+
+42. látvány-csapatsport támogatása: a látvány-csapatsport országos sportági szakszövetsége, tagjaként működő sportszervezet, vagy a látvány-csapatsport fejlesztése érdekében létrejött közhasznú alapítvány részére az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz és térítés nélkül átadott eszköz könyv szerinti értéke, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve, hogy
+
+a) a támogatást, juttatást az országos sportági szakszövetség az utánpótlás-nevelési feladatainak ellátására, tárgyi eszköz beruházásra, felújításra, a sportszervezet a személyi jellegű ráfordításaira, tárgyi eszköz beruházásra, felújításra, a közhasznú alapítvány az utánpótlás-nevelési feladatainak ellátására, személyi jellegű ráfordításaira, tárgyi eszköz beruházásra használja fel azzal, hogy tárgyi eszköz beruházásnak, felújításnak minősül a sportszervezetnek, az országos sportági szakszövetségnek, továbbá a sportszervezetnek, országos sportági szakszövetségnek a helyi önkormányzattal kötött együttműködési megállapodása alapján a helyi önkormányzatnak a sportról szóló törvényben foglalt feladatainak ellátását, illetve az ilyen feladatok ellátásában az együttműködési megállapodás alapján történő részvételt, valamint a látvány-csapatsport fejlesztése érdekében létrejött alapítvány utánpótlás-nevelési feladatainak ellátását biztosító beruházás, felújítás, valamint az iskolai sportkör feladatait ellátó diáksport egyesület, illetve a felsőoktatási intézmény keretei között működő sportszervezet feladatai ellátásának biztosítása érdekében a közoktatási vagy felsőoktatási intézmény tornatermére, tornaszobájára, sportlétesítményére irányuló beruházás, felújítás,
+
+b) a sportszervezet a támogatás nyújtásakor:
+
+ba) a bb) pontban meghatározott kivétellel az országos sportági szakszövetség országos hivatásos vagy vegyes (nyílt) versenyrendszerében (nemzeti bajnokság) a sportág versenyszabályzata szerinti legmagasabb két osztály egyikében részt vesz, vagy
+
+bb) valamely felsőoktatási intézménnyel kötött együttműködési megállapodás alapján biztosítja a felsőoktatási intézmény keretei között szervezett sporttevékenység ellátását azzal, hogy egy felsőoktatási intézmény csak egy sportszervezettel köthet együttműködési megállapodást, és a sportszervezet az országos sportági szakszövetség országos hivatásos, vegyes (nyílt) vagy amatőr versenyrendszerének (nemzeti bajnokság) valamelyik osztályában részt vesz,
+
+c) a támogatást olyan adózó nyújtja, mely nem minősül a látvány-csapatsport országos sportági szakszövetségével, annak tagjaként működő sportszervezettel, vagy a látvány-csapatsport fejlesztése érdekében létrejött kiemelten közhasznú alapítvánnyal kapcsolt vállalkozásnak;
+
+43. látvány-csapatsport országos sportági szakszövetsége, a tagjaként működő sportszervezet, valamint a látvány-csapatsport fejlesztése érdekében létrejött közhasznú alapítvány által kiállított támogatási igazolás: olyan okirat, amelyet a látvány-csapatsport országos sportági szakszövetsége, tagjaként működő sportszervezet, vagy a látvány-csapatsport fejlesztése érdekében létrejött közhasznú alapítvány a látvány-csapatsport tevékenység támogatója részére állít ki, és amely tartalmazza a támogatást (juttatást) nyújtó adózó megnevezését, székhelyét, adószámát, valamint az igazolást kiállító megnevezését, székhelyét és adószámát, továbbá a kedvezményre jogosító támogatás (juttatás) összegét. A támogatási igazolások összértéke nem haladhatja meg a támogatott szervezet utánpótlás-fejlesztésre fordított igazolt kiadásainak 100 százalékát, tárgyévi személyi jellegű ráfordítása 50 százalékát, a tárgyévi beruházási, felújítási értéke 80 százalékát; az országos sportági szakszövetség, a tagjaként működő sportszervezet, és a látvány-csapatsport fejlesztése érdekében létrejött közhasznú alapítvány, valamint a látvány-csapatsport országos sportági szakszövetségével, annak tagjaként működő sportszervezettel, vagy a látvány-csapatsport fejlesztése érdekében létrejött kiemelten közhasznú alapítvánnyal kapcsolt vállalkozásnak minősülő adózó részére támogatási igazolás nem állítható ki; nem állíthat ki igazolást a látvány-csapatsport országos sportági szakszövetsége, a tagjaként működő sportszervezet, vagy a látvány-csapatsport fejlesztése érdekében létrejött közhasznú alapítvány, ha
+
+a) lejárt köztartozása van, vagy
+
+b) a korábban kapott állami támogatással megfelelő módon nem számolt el, vagy
+
+c) működését a bíróság felfüggesztette, valamint megszüntetésére eljárás van folyamatban;”
+
+4. § A Tao. tv. 22. §-a a következő (4)–(5) bekezdéssel egészül ki:
+
+„(4) Az adózó – kivéve az állami, többségi állami tulajdonú adózót – a 4. § 43. pontja szerint a részére kiadott támogatási igazolásban szereplő összegig – döntése szerint – a támogatás (juttatás) adóéve és az azt követő három adóév adójából adókedvezményt vehet igénybe, függetlenül attól, hogy e támogatással nem növeli adózás előtti eredményét az adóalap megállapításakor.
+
+(5) Ha a tárgyi eszköz beruházás sport célú ingatlanra irányul, a 4. § 43. pontja szerinti támogatási igazolás kiállítója a beruházás üzembe helyezését követő 15 évben az adókedvezmény alapjául szolgáló beruházás révén üzembe helyezett ingatlan sportcélú hasznosítását fenntartja, valamint erre az időtartamra – a beruházás üzembe helyezését követő 30 napon belül – a Magyar Állam javára az ingatlan-nyilvántartásba elidegenítési és terhelési tilalmat jegyeztet be az igénybe vett adókedvezmény mértékéig. Az elidegenítési és terhelési tilalom alól a sportpolitikáért felelős miniszter kérelemre egyedi döntéssel felmentést adhat, ha az nem veszélyezteti az ingatlan sportcélú hasznosításának fenntartását. A 4. § 43. pontja szerinti támogatási igazolás kiállítója az első támogatási igazolás kiállítását követő 4. év végéig köteles a tárgyi eszköz beruházást üzembe helyezni a támogatás és annak járulékai Magyar Állam részére történő megfizetése terhével.”
+
+5. § A Tao. tv. 30. §-a következő (10) bekezdéssel egészül ki:
+
+„(10) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy – a sportpolitikáért felelős miniszterrel egyetértésben – az országos sportági szakszövetség, a tagjaként működő sportszervezet, továbbá a közhasznú alapítvány által kiállított támogatási igazolás kiállításának, tartalmának, nyilvántartásának részletes szabályait rendeletben állapítsa meg.”
+
+6. § A Tao. tv. a következő 29/M. §-sal egészül ki:
+
+„29/M. § A 4. § 41–43. pontjainak, a 22. § (4)–(5) bekezdésének és a 3. számú melléklet B) fejezetének 15. pontjának a sporttal összefüggő egyes törvények módosításáról szóló 2010. évi LXXXIII. törvénnyel megállapított rendelkezéseit a hatálybalépésük napját követően nyújtott támogatásra (juttatásra) lehet alkalmazni.”
+
+7. § A Tao. tv. 3. számú melléklete B) fejezetének 15. pontjában a „4. § 36. vagy 38. pontja” szövegrész helyébe a „ 4. § 36., 38. vagy 42. pontja” szöveg lép.
 
 ### Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
@@ -180,7 +220,7 @@ i) a Gerevich Aladár-sportösztöndíj rendszer működtetése.”
 
 25. § (1) Ez a törvény – a (2)–(3) bekezdésben foglalt kivétellel – a kihirdetését követő 8. napon lép hatályba.
 
-(2) E törvény 8–12. §-ai az Európai Bizottság jóváhagyó határozata meghozatalának napját követő 15. napon lépnek hatályba. Az Európai Bizottság határozata meghozatalának napját – annak ismertté válását követően haladéktalanul – az adópolitikáért felelős miniszter a Magyar Közlönyben közzétett egyedi határozattal állapítja meg.
+(2) E törvény 3–12. §-ai az Európai Bizottság jóváhagyó határozata meghozatalának napját követő 15. napon lépnek hatályba. Az Európai Bizottság határozata meghozatalának napját – annak ismertté válását követően haladéktalanul – az adópolitikáért felelős miniszter a Magyar Közlönyben közzétett egyedi határozattal állapítja meg.
 
 (3) E törvény 22–24. §-a 2011. január 1-jén lép hatályba.
 

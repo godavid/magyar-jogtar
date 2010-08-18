@@ -2,7 +2,7 @@
 
 az egyszerűsített közteherviselési hozzájárulásról
 
-Az Országgyűlés azon kötelezettségére tekintettel, hogy a közügyek szabad megvitatását, a közügyekkel összefüggő információhoz való hozzájutást, továbbá a művészeti élet szabadságának megvalósulását előmozdítsa, figyelemmel arra, hogy mint törvényalkotó egyes alkotmányos és társadalompolitikai célkitűzéseinek érvényesítése érdekében a közterhek vonatkozásában kedvezményeket állapíthat meg, elismerve azon személyek tevékenységének sajátosságait, akik e célok elérésében közreműködnek, a következő törvényt alkotja:
+Az Országgyűlés azon kötelezettségére tekintettel, hogy a közügyek szabad megvitatását, a közügyekkel összefüggő információhoz való hozzájutást, a művészeti élet szabadságának megvalósulását és a testkultúra, különösen a sport fejlődését előmozdítsa, figyelemmel arra, hogy mint törvényalkotó egyes alkotmányos és társadalompolitikai célkitűzéseinek érvényesítése érdekében a közterhek vonatkozásában kedvezményeket állapíthat meg, elismerve azon személyek tevékenységének sajátosságait, akik e célok elérésében közreműködnek, a következő törvényt alkotja:
 
 ### A törvény hatálya
 
@@ -58,6 +58,8 @@ alapján illeti meg,
 
 2617 Rádióműsor-, televízióműsor-szerkesztő
 
+2618 Szakképzett edző, sportszervező, -irányító, feltéve, hogy rendelkezik a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott képesítéssel, szakképzettséggel
+
 2619 Egyéb magasabb képzettséget igénylő kulturális foglalkozások
 
 2621 Író (újságíró nélkül)
@@ -85,6 +87,8 @@ alapján illeti meg,
 3714 Rádióműsor-, televízióműsor-szerkesztő munkatárs
 
 3715 Könyv- és lapkiadó-szerkesztő munkatárs
+
+3716 Hivatásos sportoló, sportmunkatárs, valamint FEOR számtól függetlenül a sportról szóló törvényben meghatározott sportszakember, feltéve, hogy a magánszemély sportszervezettel vagy országos sportági szakszövetséggel, országos sportági sportszövetséggel fennálló jogviszonya keretében sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, a szövetség szabályzatában meghatározott sportszakembernek minősül, és rendelkezik a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott képesítéssel, szakképzettséggel. Sportszakember különösen a sportedző (a sportág megjelölésével), sportoktató (a sportág megjelölésével), mérkőzésvezető, versenybíró, sportorvos, gyúró
 
 3721 Segédszínész
 
@@ -121,15 +125,14 @@ alapján illeti meg,
 - a) évi 25 millió forint, feltéve, hogy a magánszemély (1) bekezdés a) pontjában említett jövedelme az adóévben eléri az év első napján érvényes havi minimálbér 12-szeresét,
 - b) az a) pontban meghatározott feltétel hiányában az évi 25 millió forintnak olyan hányada, amilyen arányt az (1) bekezdés a) pontjában említett jövedelem összege az év első napján érvényes havi minimálbér 12-szereséhez viszonyítva képvisel,
 - c) nyugdíjas esetében – az a)–b) pontokban foglaltaktól függetlenül – évi 25 millió forint,
-
-azzal, hogy, ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
+- d) az a)–b) pontokban említett összeghatár helyett évi 100 millió forint – a 2010. évben 50 millió forint –, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója azzal, hogy, ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
 
 (5) A (4) bekezdés szerinti bevételi határt csökkenti az a bevétel,
 
 - a) amelyet az adóévben az egyszerűsített vállalkozói adóról szóló törvény (a továbbiakban: eva) hatálya alá tartozó egyéni vállalkozói tevékenységet (is) folytató magánszemélynek az eva alapjába tartozó bevételként kell figyelembe vennie, azzal, hogy a (2) bekezdés rendelkezése nem alkalmazható az eva hatálya alá tartozó egyéni vállalkozót a (2) bekezdés ba) pontjában említett vállalkozói szerződés alapján megillető bevételre, amelyet az eva alapjába tartozó bevételként kell figyelembe vennie,
 - b) amely az eva hatálya alá tartozó társas vállalkozás bevételéből a társas vállalkozás ekhót választó tagjára (tulajdonosára) a társasági szerződésben az adózott eredményből való részesedésére előírt mérték, ennek hiányában a jegyzett tőkéből való részesedése arányában jut.
 
-(6) Nem tehet az adóévben az ekho választására vonatkozó nyilatkozatot a magánszemély azt követően, hogy a 25 millió forint bevételi határt már elérte.
+(6) Nem tehet az adóévben az ekho választására vonatkozó nyilatkozatot a magánszemély azt követően, hogy a (4) bekezdés szerinti összeghatárt már elérte.
 
 (7) Ha a magánszemély munkaviszonyban folytat ekho választására jogosító tevékenységet, az ellenértéket kifizető munkáltató a tevékenység adott havi ellenértékeként kifizetett összegnek a hónap első napján érvényes havi minimálbért meghaladó részére veszi figyelembe a magánszemély ekho választására vonatkozó nyilatkozatát. Nem kell e rendelkezést alkalmazni, ha
 
@@ -157,7 +160,7 @@ azzal, hogy, ha a magánszemély általános forgalmi adó fizetésére kötelez
 
 (3) Ha a magánszemély az olyan tevékenységét, amely alapján a 3. § (3) bekezdése szerinti foglalkozásúnak minősül, vállalkozási szerződés vagy eseti megbízási szerződés alapján végzi, az ekho választásáról az őt megillető bevétel kifizetése előtt nyilatkozik, ekkor nyilatkozhat arról is, hogy a kifizetőt és az őt terhelő ekho megállapítását, bevallását és megfizetését átvállalja a kifizetőtől.
 
-(4) A kifizető a magánszemély nyilatkozata ellenére, vagy annak visszavonása hiányában sem alkalmazhatja a továbbiakban az ekhót, ha a magánszemély tőle származó olyan bevétele, amely után ekhót fizetett, az adóévben a 25 millió forintot meghaladja.
+(4) A kifizető a magánszemély nyilatkozata ellenére, vagy annak visszavonása hiányában sem alkalmazhatja a továbbiakban az ekhót, ha a magánszemély tőle származó olyan bevétele, amely után ekhót fizetett, az adóévben a 3. § (4) bekezdése szerinti összeghatárt meghaladja.
 
 ### Az ekho jogosulatlan választása
 
@@ -170,7 +173,7 @@ köteles adóbevallásában feltüntetni és a bevallás benyújtására előír
 
 (2) A magánszemély az (1) bekezdés b) pontjának rendelkezésétől eltérően 18 százalék különadót köteles megfizetni azon ekhoalap után,
 
-- a) amely az adóévben a 25 millió forintot meghaladja, és/vagy
+- a) amely az adóévben a 3. § (4) bekezdése szerinti összeghatárt meghaladja, és/vagy
 - b) amelyre az ekho választására vonatkozó nyilatkozatát a tevékenységére tekintettel nem tehette volna meg.
 
 ### A magánszemélyt terhelő ekho mértékének helyesbítése
@@ -264,3 +267,5 @@ utal át.
 14. § (1) E törvény 2006. január 1-jén lép hatályba, rendelkezéseit az ezt követő időponttól megszerzett bevételre és az azzal összefüggő kötelezettségekre kell alkalmazni.
 
 (2)–(3)
+
+14/A. § Az Ekho. tv. 3. § (3)–(4) és (6) bekezdésének, 5. § (4) bekezdésének, és 6. § (2) bekezdés a) pontjának a sporttal összefüggő egyes törvények módosításáról szóló 2010. évi LXXXIII. törvénnyel megállapított rendelkezéseit a hatálybalépésük napját követően megszerzett bevételre kell alkalmazni.
