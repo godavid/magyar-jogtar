@@ -145,6 +145,8 @@ Az Országgyűlés a Magyar Köztársaság szuverenitásának biztosítása és 
 
 (6) A polgári nemzetbiztonsági szolgálatokat irányító miniszter irányítja az állami szervektől származó, az ország nemzetbiztonságára vonatkozó információk elemzését, értékelését, valamint az e tárgyú kormányzati döntéselőkészítést támogató munkát.
 
+(7) Az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat irányításáért felelős miniszter gondoskodik e szervek belső bűnmegelőzési ellenőrzéséről.
+
 12. § (1) A nemzetbiztonsági szolgálatok élén főigazgatók állnak, akiket a miniszter előterjesztésére a miniszterelnök nevez ki, és ment fel.
 
 (2) A Nemzetbiztonsági Szakszolgálat főigazgatójára vonatkozó előterjesztést a polgári nemzetbiztonsági szolgálatokat irányító miniszter a honvédelemért felelős miniszterrel és a rendészetért felelős miniszterrel egyetértésben teszi meg.

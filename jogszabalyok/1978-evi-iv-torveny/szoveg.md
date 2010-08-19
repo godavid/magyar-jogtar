@@ -1229,7 +1229,8 @@ büntetés mellett szabható ki.
   - j) a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló törvény szerint nyilvántartásba vett egyház lelkésze,
   - k) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben, valamint a szociális igazgatásról és a szociális ellátásokról szóló törvényben meghatározott munkakörben foglalkoztatott személy e tevékenysége gyakorlása során,
   - l) az erdészeti szakszemélyzet az erdőben, az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen és az erdészeti magánúton végzett erdőőrzési tevékenységével, valamint a jogellenes cselekmény hatóságnak történő bejelentésével kapcsolatban,
-  - m) a villamos energiáról, a földgázellátásról, valamint a vízgazdálkodásról szóló törvényben meghatározott felhasználási helyek műszaki felülvizsgálatát, ellenőrzését, kikapcsolását és leolvasását végző személyek, feladataik ellátásával kapcsolatban;
+  - m) a villamos energiáról, a földgázellátásról, valamint a vízgazdálkodásról szóló törvényben meghatározott felhasználási helyek műszaki felülvizsgálatát, ellenőrzését, kikapcsolását és leolvasását végző személyek, feladataik ellátásával kapcsolatban,
+  - n) a Kormány által meghirdetett településbiztonsági programban végrehajtóként résztvevő személy.
 - 3. külföldi hivatalos személy:
   - a) a külföldi államban jogalkotási, igazságszolgáltatási, közigazgatási vagy bűnüldözési feladatot ellátó személy,
   - b) nemzetközi szerződéssel létrehozott nemzetközi szervezetnél szolgálatot teljesítő személy, akinek a tevékenysége a szervezet rendeltetésszerű működéséhez tartozik,

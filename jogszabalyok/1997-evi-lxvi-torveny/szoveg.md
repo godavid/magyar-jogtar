@@ -304,6 +304,8 @@ Az igazságszolgáltatás feladatainak jogállami szintű ellátása, a bírói 
 
 (2) Az OIT szükség szerint megvizsgálja az ítélőtábla és a megyei bíróság elnökének igazgatási tevékenységét.
 
+(3) Az OIT évente egyszer megvizsgálja a megyei bíróság elnökének az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvényben meghatározott, a helyi bíróság hatáskörébe tartozó, törvény által meghatározott ügyben egyesbíró hatáskörében eljárásra jogosult bírósági titkárok kijelölésére vonatkozó gyakorlatát.
+
 ### Az OIT működése
 
 42. § (1) Az OIT a határozatait ülésen hozza meg. Rendkívüli vagy azonnali intézkedést igénylő kérdésben más módon is határozhat. Az intézkedések körét és a határozathozatal módját a OIT működési szabályzata állapítja meg.
