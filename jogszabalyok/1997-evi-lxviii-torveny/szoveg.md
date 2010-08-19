@@ -451,7 +451,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (2) Az igazságügyi alkalmazott a munkáltatónak a képzéssel kapcsolatos költségeit akkor is köteles megtéríteni, ha a képzés befejezésétől, illetve a vizsga letételétől számított három éven belül a szolgálati viszonyát neki felróható okból szüntetik meg. Az igazságügyi alkalmazott a költségek megtérítésére kötelezhető, ha a szolgálati viszonyt a kezdeményezésére szüntetik meg.
 
-41. § (1) Az igazságügyi alkalmazott a vezetőnek a munkakör ellátására vonatkozó utasításait – a (2) bekezdésben foglalt kivétellel – köteles végrehajtani.
+41. § (1) Az igazságügyi alkalmazott a vezetőnek a munkakör ellátására vonatkozó utasításait – a bíróságok szervezetéről és igazgatásáról szóló törvényben és a (2) bekezdésben foglalt kivétellel – köteles végrehajtani.
 
 (2) Az utasítás végrehajtását az igazságügyi alkalmazott köteles megtagadni, ha
 
@@ -464,6 +464,30 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 (4) Ha az igazságügyi alkalmazott a vezető bármely utasításával nem ért egyet, jogosult az ezzel kapcsolatos véleményét írásban az utasítást adó tudomására hozni.
 
 (5) Az igazságügyi alkalmazottat a vezetői utasítás jogszerű megtagadása, az utasítás írásba foglalására vonatkozó kérése, valamint véleményének a (4) bekezdés szerinti kinyilvánítása miatt hátrány nem érheti.
+
+41/A. § (1) A helyi bíróság hatáskörébe tartozó, törvény által meghatározott ügyben egyesbíró hatáskörében eljárásra jogosult bírósági titkárokat (a továbbiakban: kijelölt titkár) – a helyi bíróság elnökének javaslatára – a megyei bíróság elnöke jelöli ki. A kijelölésben meg kell határozni, hogy az mely ügyek körére vonatkozik.
+
+(2) A kijelölt titkár a kijelölését követő 30 napon belül a bírák jogállásáról és javadalmazásáról szóló törvényben foglalt módon vagyonnyilatkozatot köteles tenni. Ha a kijelölt titkár
+
+- a) a vagyonnyilatkozat tételi kötelezettségét szándékosan elmulasztja, a vagyonnyilatkozat tételi kötelezettség teljesítésére nyitvaálló határidő leteltét követő napon,
+- b) a vagyonnyilatkozatában – a vele közös háztartásban élő hozzátartozók adatait is ideértve – lényeges adatot, tényt szándékosan valótlanul közöl, vagy elhallgat, ennek jogerős megállapítását követő napon,
+- c) a vagyonnyilatkozatát és a személyes adat kezelésére felhatalmazó nyilatkozatát visszavonja, a visszavonást követő napon megszűnik a kijelölése.
+
+41/B. § (1) A kijelölt titkár nem lehet tagja pártnak, és politikai tevékenységet nem folytathat.
+
+(2) A kijelölt titkár nem lehet országgyűlési vagy önkormányzati képviselő, polgármester, valamint a Kormány tagjai és az államtitkárok jogállásáról és felelősségéről szóló törvény hatálya alá tartozó állami vezető.
+
+(3) A kijelölt titkár a tisztsége ellátásán kívül csak tudományos, művészi, irodalmi, oktató- és műszaki alkotó munkát végezhet kereső tevékenységként, de ezzel nem veszélyeztetheti függetlenségét és pártatlanságát, illetve nem keltheti annak látszatát, valamint nem akadályozhatja hivatali kötelezettségei teljesítését. A kijelölt titkár e tevékenységek gyakorlásának megkezdését köteles a munkáltatónak előzetesen bejelenteni.
+
+(4) A kijelölt titkár nem lehet gazdasági társaság vagy szövetkezet vezető tisztségviselője, felügyelő bizottságának tagja, továbbá gazdasági társaság személyes közreműködésre kötelezett vagy korlátlanul felelős tagja.
+
+(5) A kijelölt titkár nem lehet választottbíróság tagja.
+
+(6) Az e §-ban meghatározott összeférhetetlenségi okok felmerülése esetén a 37. § (1) és (2) bekezdésében foglaltakat megfelelően alkalmazni kell, azzal, hogy ha az összeférhetetlenségi ok megszüntetésére a megadott határidőre nem kerül sor, a kijelölés a határidőt követő napon megszűnik.
+
+41/C. § (1) A kijelölt titkár a szolgálati viszonyából fakadó tájékoztatási kötelezettségén kívül nyilvánosan nem fogalmazhat meg véleményt bíróság előtt folyamatban lévő vagy folyamatban volt ügyről, különös tekintettel az általa elbírált ügyekre.
+
+(2) A kijelölt titkár az általa intézett ügyről a sajtó, a rádió és a televízió részére nem adhat tájékoztatást.
 
 42. § (1) Az igazságügyi alkalmazott – kivételes esetben – a képesítésének megfelelő, de a munkakörébe nem tartozó munkavégzésre (helyettesítés), illetve más igazságügyi szervnél történő munkavégzésre (kirendelés) kötelezhető.
 
@@ -585,21 +609,32 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 52. § A munkáltató az igazságügyi alkalmazott munkáját köteles folyamatosan értékelni, a munkavégzésben tapasztalt hiányosságok megszüntetésére, illetve az átlagon felüli színvonalon végzett munka elismerésére vonatkozó intézkedéseket és javaslatokat megtenni.
 
-53. § (1) Az ügykezelők és a fizikai dolgozók kivételével az igazságügyi alkalmazott munkáját az e törvényben meghatározottak szerint – az 52. §-ban foglalt kötelezettségen túl – a munkáltató írásban is köteles értékelni.
+53. § (1) Az írnokok és a fizikai dolgozók kivételével az igazságügyi alkalmazott munkáját az e törvényben meghatározottak szerint – az 52. §-ban foglalt kötelezettségen túl – a munkáltató írásban is köteles értékelni.
 
 (2) Az értékelés célja az igazságügyi alkalmazott munkájának elfogulatlan megítélése, a teljesítményét befolyásoló ismeretek, képességek és személyiségjegyek feltárása, ezáltal a szakmai fejlődésének az elősegítése.
 
 (3) Az értékelést a törvény 1. számú melléklete szerint kell elvégezni. A munkáltató az igazságügyi alkalmazott munkaköréhez igazodó sajátos további szempontokat is az értékelés körébe vonhat.
 
-(4) Az értékelésben csak kellően alátámasztott, tényeken alapuló megállapítások szerepelhetnek.
+(4) A bírósági titkár esetében az értékelés körébe kell vonni
 
-(5) Az igazságügyi alkalmazott kérésére az értékelés kialakításába az igazságügyi szervnél működő érdekképviseleti szerv képviselőjét be kell vonni, az értékelésben foglalt megállapításokra tett észrevételeit az értékelési lapon rögzíteni kell.
+- a) a lényeglátási képességet,
+- b) a döntési képességet,
+- c) az ügy előkészítését,
+- d) a tárgyalásvezetést,
+- e) a határozatszerkesztést,
+- f) a jogszabályok és a bírósági gyakorlat alkalmazását,
+- g) az eljárási határidők és az ügyviteli szabályok megtartását,
+- h) a befejezések számát.
 
-(6) Az igazságügyi alkalmazottal az értékelést ismertetni kell, aki az abban foglaltak megismerésének a tényét az értékelési lapon az aláírásával igazolja. Az igazságügyi alkalmazott az értékelésben foglalt megállapításokra írásban észrevételt tehet. Az értékelés ismertetésére meg kell hívni az igazságügyi alkalmazott közvetlen vezetőjét és az (5) bekezdés szerinti esetben az érdekképviseleti szerv képviselőjét. Az értékelést szóban indokolni kell.
+(5) Az értékelésben csak kellően alátámasztott, tényeken alapuló megállapítások szerepelhetnek.
 
-(7) Az értékelés egyik példányát az aláíráskor az igazságügyi alkalmazottnak kell átadni, a második példányt a személyi nyilvántartás iratai között kell elhelyezni.
+(6) Az igazságügyi alkalmazott kérésére az értékelés kialakításába az igazságügyi szervnél működő érdek-képviseleti szerv képviselőjét be kell vonni, az értékelésben foglalt megállapításokra tett észrevételeit az értékelési lapon rögzíteni kell.
 
-(8) Az igazságügyi alkalmazott az értékelés valótlan vagy a személyiségi jogát sértő megállapítása ellen – ha azt az értékelő az ismertetéstől számított 15 napon belül nem változtatja meg – bírósághoz fordulhat.
+(7) Az igazságügyi alkalmazottal az értékelést ismertetni kell, aki az abban foglaltak megismerésének a tényét az értékelési lapon az aláírásával igazolja. Az igazságügyi alkalmazott az értékelésben foglalt megállapításokra írásban észrevételt tehet. Az értékelés ismertetésére meg kell hívni az igazságügyi alkalmazott közvetlen vezetőjét és a (6) bekezdés szerinti esetben az érdek-képviseleti szerv képviselőjét. Az értékelést szóban indokolni kell.
+
+(8) Az értékelés egyik példányát az aláíráskor az igazságügyi alkalmazottnak kell átadni, a második példányt a személyi nyilvántartás iratai között kell elhelyezni.
+
+(9) Az igazságügyi alkalmazott az értékelés valótlan vagy a személyiségi jogát sértő megállapítása ellen – ha azt az értékelő az ismertetéstől számított 15 napon belül nem változtatja meg – bírósághoz fordulhat.
 
 54. § (1) Az igazságügyi alkalmazottnak az 53. § szerinti írásbeli értékelését
 

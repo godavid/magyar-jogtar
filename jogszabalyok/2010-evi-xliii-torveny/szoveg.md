@@ -57,7 +57,8 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 - e) az államigazgatási szerv döntésének megsemmisítésére, szükség szerint új eljárás lefolytatására való utasítás,
 - f) jogszabályban meghatározott esetekben az államigazgatási szerv döntéseinek előzetes vagy utólagos jóváhagyása,
 - g) egyedi utasítás kiadása feladat elvégzésére vagy mulasztás pótlására,
-- h) jelentéstételre vagy beszámolóra való kötelezés.
+- h) jelentéstételre vagy beszámolóra való kötelezés,
+- i) az államigazgatási szerv adatainak kezelése.
 
 (2) Ha törvény kivételt nem tesz, az irányítási hatáskör gyakorlója az irányított államigazgatási szerv hatáskörét nem vonhatja el és döntését nem változtathatja meg.
 

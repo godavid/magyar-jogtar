@@ -3384,7 +3384,9 @@ Szolgálatonként:
 
 (7) Felhatalmazást kap a miniszter, hogy a fegyveres szervnél rendszeresített hivatásos szolgálati beosztások beosztási kategóriába sorolását, a beosztásban elérhető rendfokozatot, valamint a betöltéséhez szükséges képzettségi (végzettségi) feltételeket rendeletben – a polgári nemzetbiztonsági szolgálatok esetében utasításban – állapítsa meg.
 
-(8) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy a hivatásos önkormányzati tűzoltóságokra vonatkozóan rendeletben szabályozza a választható juttatás éves összegét, a választható természetbeni juttatások fajtáit, mértékét, valamint kifizetésének rendjét és módját.
+(8) Felhatalmazást kap a miniszter, hogy a feladatok hatékonyabb ellátása érdekében kísérleti jelleggel az e törvényben nem szereplő – az abban résztvevő állományra anyagi szempontból az e törvényben foglaltaknál nem hátrányosabb – ösztönzési rendszert vezessen be.
+
+(9) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy a hivatásos önkormányzati tűzoltóságokra vonatkozóan rendeletben szabályozza a választható juttatás éves összegét, a választható természetbeni juttatások fajtáit, mértékét, valamint kifizetésének rendjét és módját.
 
 ### 1. számú melléklet az 1996. évi XLIII. törvényhez
 

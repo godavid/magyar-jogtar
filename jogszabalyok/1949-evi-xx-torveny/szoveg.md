@@ -537,7 +537,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (3) A Magyar Honvédség irányítására – ha nemzetközi szerződés másként nem rendelkezik – az Alkotmányban meghatározott keretek között kizárólag az Országgyűlés, a köztársasági elnök, a Honvédelmi Tanács, a Kormány és az illetékes miniszter jogosult.
 
-(4) A Magyar Honvédség, a Rendőrség és a nemzetbiztonsági szolgálatok hivatásos állományú tagjai nem lehetnek tagjai pártnak, és politikai tevékenységet nem folytathatnak.
+(4) A Magyar Honvédség, a Rendőrség és a nemzetbiztonsági szolgálatok hivatásos állományú tagjai nem lehetnek tagjai pártnak, politikai tevékenységet nem folytathatnak, továbbá szolgálati jogviszonyuk fennállása alatt és annak megszűnését vagy megszüntetését követő három évig nem indulhatnak jelöltként az országgyűlési képviselők választásán, az európai parlamenti választáson, a helyi önkormányzati képviselők és a polgármesterek, valamint a kisebbségi önkormányzati képviselők választásán.
 
 (5) A Magyar Honvédség nem hivatásos katonai állományú tagjának pártban való tevékenységére a jelenlévő országgyűlési képviselők kétharmadának szavazatával elfogadott törvény korlátokat állapíthat meg.
 
@@ -598,7 +598,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (2) A törvény által meghatározott ügyekben és módon nem hivatásos bírák is részt vesznek az ítélkezésben.
 
-(3) Egyesbíróként és a tanács elnökeként csak hivatásos bíró járhat el.
+(3) Egyesbíróként és a tanács elnökeként csak hivatásos bíró járhat el. Helyi bíróság hatáskörébe tartozó, törvény által meghatározott ügyben, egyesbíró hatáskörében bírósági titkár is eljárhat, aki e tevékenysége során független, csak a törvénynek van alárendelve.
 
 47. § (1) A Legfelsőbb Bíróság a Magyar Köztársaság legfőbb bírósági szerve.
 
@@ -798,7 +798,9 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (5) A honvédelmi kötelezettségről szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
-70/I. § Minden természetes személy, jogi személy és jogi személyiséggel nem rendelkező szervezet köteles jövedelmi és vagyoni viszonyainak megfelelően a közterhekhez hozzájárulni.
+70/I. § (1) Minden természetes személy, jogi személy és jogi személyiséggel nem rendelkező szervezet köteles jövedelmi és vagyoni viszonyainak megfelelően a közterhekhez hozzájárulni.
+
+(2) A közterhek viselésére szolgáló forrásokból, valamint az állami vagyonnal gazdálkodó, illetve az állam többségi tulajdonában vagy irányítása alatt álló szervezetek részéről jó erkölcsbe ütköző módon juttatott jövedelmek tekintetében törvény, az adott adóévtől kezdődően, külön mértékű kötelezettséget állapíthat meg.
 
 70/J. § A Magyar Köztársaságban a szülők, gondviselők kötelesek kiskorú gyermekük taníttatásáról gondoskodni.
 
