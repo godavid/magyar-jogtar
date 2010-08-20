@@ -3645,26 +3645,21 @@ kezdeményezheti.
 
 ### A Tanács tagjai, tisztségviselői
 
-375. § (1) A Tanács tizenkilenc tagból áll. A Tanácsban az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket azonos számú tag képviseli.
+375. § (1) A Tanács tíz tagból áll. A Tanácsban az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket azonos számú tag képviseli.
 
 (2) A törvény alapelveinek és egyes közérdekű céloknak az érvényesítése a Tanácsban a következő szervezetek vagy személyek által kijelölt személyek feladata:
 
-- a) a legfőbb ügyész;
-- b) a Gazdasági Versenyhivatal elnöke;
-- c) az európai uniós források felhasználásáért felelős miniszter;
-- d) a gazdaságpolitikáért felelős miniszter;
-- e) a környezetvédelemért felelős miniszter;
-- f) az igazságügyért felelős miniszter.
+- a) a Gazdasági Versenyhivatal elnöke;
+- b) a közbeszerzésekért felelős miniszter;
+- c) a gazdaságpolitikáért felelős miniszter.
 
 (3) A közbeszerzési eljárás ajánlatkérőinek általános érdekeit a Tanácsban a következő szervezetek vagy személyek által kijelölt személyek képviselik:
 
-- a) a Miniszterelnöki Hivatalt vezető miniszter által kijelölt személy;
-- b) a társadalombiztosítás igazgatási szerveinek felügyeletét ellátó személy által kijelölt személy;
-- c) a helyi önkormányzatok országos szövetségei által együttesen kijelölt személy;
-- d) az építésügyért felelős miniszter által kijelölt személy;
-- e) az országos gazdasági kamarák, az országos szakmai kamarák és a Magyar Tudományos Akadémia által együttesen kijelölt két személy, melyek közül az egyik személy a közszolgáltató ajánlatkérők érdekeit képviseli.
+- a) a Nemzeti Fejlesztési Ügynökség által kijelölt személy;
+- b) a helyi önkormányzatok országos szövetségei által együttesen kijelölt személy;
+- c) az építésügyért felelős miniszter által kijelölt személy.
 
-(4) A közbeszerzési eljárás ajánlattevőinek általános érdekeit a Tanácsban a munkáltatók országos érdekképviseletei és az országos gazdasági kamarák által kijelölt hat személy képviseli.
+(4) A közbeszerzési eljárás ajánlattevőinek általános érdekeit a Tanácsban a munkáltatók országos érdekképviseletei és az országos gazdasági kamarák által kijelölt három személy képviseli.
 
 (5) A Tanács elnöke a Tanács tagjává válik akkor is, ha nem a tagok közül választották. Ha a Tanács elnökét a Tanács tagjai közül választották, az elnök a továbbiakban nem képviseli az őt kijelölő (kijelölők) szerinti általános célokat vagy érdekeket, a kijelölő (kijelölők) pedig jogosult a Tanácsba új tagot kijelölni. A kijelölő (kijelölők) a Tanács elnökével szemben nem élhet a 377. § (6) bekezdésének b) pontjában és (7) bekezdésében biztosított jogával.
 
@@ -3693,7 +3688,7 @@ kezdeményezheti.
 
 (4) A Tanács elnöke felett a munkáltatói jogokat a Tanács gyakorolja, az elnök az összeférhetetlenségével kapcsolatos bejelentést [392. § (6) bekezdése] a Tanácsnak köteles megtenni.
 
-(5) A Tanács a tagok közül két évre a jelen levő tagok kétharmados szótöbbségével hozott döntéssel alelnököt választ.
+(5) A Tanács a tagok közül öt évre a jelen levő tagok kétharmados szótöbbségével hozott döntéssel alelnököt választ.
 
 (6) A Tanács elnökének, alelnökének és tagjainak megbízatása megszűnik
 
@@ -3715,7 +3710,7 @@ kezdeményezheti.
 - b) meghívása esetén részt vesz az Országgyűlés és bizottságainak ülésein és ismerteti a Tanács éves beszámolóját;
 - c) a közbeszerzésekkel kapcsolatos gyakorlati tudnivalókról elnöki tájékoztatót ad ki;
 - d) a halasztást nem tűrő ügyek eldöntése érdekében – a Tanács szervezeti és működési szabályzatában meghatározottak szerint – az ülések közötti időszakban rövid úton való szavazást kezdeményez;
-- e) gyakorolja a munkáltatói jogokat a Tanács főtitkára (a továbbiakban: főtitkár), valamint a Közbeszerzési Döntőbizottság elnöke és elnökhelyettese vonatkozásában.
+- e) gyakorolja a munkáltatói jogokat a Tanács főtitkára (a továbbiakban: főtitkár), a Tanács Titkárságának alkalmazottai, valamint a Közbeszerzési Döntőbizottság elnöke, elnökhelyettese és a közbeszerzési biztosok vonatkozásában.
 
 (2) A Tanács elnökét távolléte esetén az alelnök teljes jogkörrel helyettesíti.
 
@@ -3738,14 +3733,15 @@ kezdeményezheti.
 - g) éves összesített statisztikai jelentést készít;
 - h) gondoskodik a „Közbeszerzési Értesítő – a Közbeszerzések Tanácsának Hivatalos Lapja” (a továbbiakban: Közbeszerzési Értesítő) szerkesztéséről, a közbeszerzési és a tervpályázati eljárással kapcsolatos hirdetmények közzétételéről, valamint ellenőrzéséről, továbbá az e törvény által előírt egyéb adatok, információk honlapján, illetve a Közbeszerzési Értesítőben történő közzétételéről;
 - i) honlapján közzéteszi a Közbeszerzési Döntőbizottság eljárását kezdeményező kérelem 396. § (1) bekezdés f) pontja szerinti adatait, a Közbeszerzési Döntőbizottság érdemi és a közbeszerzési ügy befejezését eredményező határozatát, továbbá a határozat bírósági felülvizsgálata esetén a bíróság határozatát (határozatait);
-- j) kialakítja és működteti a jogorvoslati határozatok nyilvános adatbázisát, amelyben biztosítja, hogy a döntőbizottsági és a bírósági határozatok elektronikusan, ingyenesen, teljeskörűen, tárgyszavas keresési lehetőséggel bárki által elérhetőek legyenek;
-- k) a közbeszerzési jogszabályok alkalmazását elősegítendő útmutatót készít a jogorvoslati döntésekből levonható tapasztalatok alapján, valamint a közbeszerzésekkel kapcsolatos gyakorlati tudnivalókról; az útmutatót a Közbeszerzési Értesítőben közéteszi;
+- j) kialakítja és működteti, valamint honlapján közzéteszi a jogorvoslati határozatok nyilvános adatbázisát, amelyben biztosítja, hogy a döntőbizottsági és a bírósági határozatok elektronikusan, ingyenesen, teljeskörűen, tárgyszavas keresési lehetőséggel bárki által elérhetőek legyenek;
+- k) a közbeszerzésekért felelős minisztériummal egyeztetve a közbeszerzési jogszabályok alkalmazását elősegítendő útmutatót készít a jogorvoslati döntésekből levonható tapasztalatok alapján, valamint a közbeszerzésekkel kapcsolatos gyakorlati tudnivalókról; az útmutatót honlapján, továbbá a Közbeszerzési Értesítőben közéteszi;
 - l) figyelemmel kíséri a közbeszerzési eljárás alapján megkötött szerződések módosítását és teljesítését [307. § (4) bekezdése];
 - m) elősegíti a közbeszerzési információk nyilvánosságát, az elektronikus közbeszerzési adatbázisok használatának elterjedését, továbbá az elektronikus eljárási és kommunikációs lehetőségek támogatását;
-- n) felügyeli, koordinálja, elősegíti a közbeszerzési eljárásban résztvevők oktatását és továbbképzését, részt vesz a hivatalos közbeszerzési tanácsadók kötelező továbbképzésére vonatkozó feltételrendszer kialakításában;
-- o) kapcsolatot tart más államok közbeszerzési szervezeteivel és nemzetközi szervezetekkel;
-- p) elfogadja saját szervezeti és működési, valamint más, működését érintő belső szabályzatát – így különösen a hirdetmények vizsgálata kapcsán a jogorvoslati eljárás indításának eljárásrendjét –, továbbá költségvetési javaslatát és éves költségvetési beszámolóját;
-- q) ellátja a részére törvényben előírt egyéb feladatokat.
+- n) a közbeszerzésekért felelős miniszterrel együttesen részt vesz a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakításában;
+- o) kapcsolatot tart más államok közbeszerzési szervezeteivel;
+- p) folyamatosan frissíti, karbantartja és honlapján közzéteszi az egyes ágazatokban szokásos vagy megállapított béreket és kapcsolódó közterheket;
+- q) elfogadja saját szervezeti és működési, valamint más, működését érintő belső szabályzatát – így különösen a hirdetmények vizsgálata kapcsán a jogorvoslati eljárás indításának eljárásrendjét –, továbbá költségvetési javaslatát és éves költségvetési beszámolóját;
+- r) ellátja a részére törvényben előírt egyéb feladatokat.
 
 (3) A Tanács évente beszámolót készít az Országgyűlésnek tevékenységéről, a közbeszerzések tisztaságával és átláthatóságával kapcsolatos tapasztalatairól, valamint a jogorvoslati ügyek tapasztalatairól. A beszámolónak megállapításokat kell tartalmaznia a közbeszerzési eljárások számának és értékének alakulására, a hazai ajánlattevők és ezen belül a mikro-, kis- és középvállalkozások helyzetére vonatkozóan. A Tanács a beszámolót tájékoztatásul az Állami Számvevőszéknek is megküldi.
 
@@ -3938,7 +3934,7 @@ megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket
 
 394. § (1) A Tanács tevékenységével kapcsolatos koordinációt, döntéseinek előkészítését és végrehajtását, továbbá az ennek végzéséhez szükséges adatgyűjtő, nyilvántartó, valamint adminisztratív tevékenységet a Tanács Titkársága végzi. A Titkárságot a főtitkár vezeti.
 
-(2) A főtitkár és a Titkárság alkalmazottai a Tanáccsal állnak közszolgálati jogviszonyban, mely jogviszonyra a köztisztviselők jogállásáról szóló törvényt kell alkalmazni. A főtitkár gyakorolja a munkáltatói jogokat a Titkárság alkalmazottai vonatkozásában. A főtitkár a helyettes államtitkárnak járó illetményre, valamint egyéb juttatásokra jogosult.
+(2) A főtitkár és a Titkárság alkalmazottai a Tanáccsal állnak közszolgálati jogviszonyban, mely jogviszonyra a köztisztviselők jogállásáról szóló törvényt kell alkalmazni. A főtitkár a helyettes államtitkárnak járó illetményre, valamint egyéb juttatásokra jogosult.
 
 (3) A Tanács a Titkárság keretében Szerkesztőbizottságot működtet a Közbeszerzési Értesítő szerkesztésével kapcsolatos feladata végrehajtásának érdekében.
 
@@ -3950,7 +3946,7 @@ megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket
 
 (4) A Döntőbizottság elnökét és elnökhelyettesét a Tanács a jelen lévő tagok kétharmadának szavazatával, öt évre választja meg. A Döntőbizottság elnökhelyettesét a Tanács a közbeszerzési biztosok közül választja meg, az elnökhelyettes személyére a Döntőbizottság elnöke tesz javaslatot. A Döntőbizottság elnöke és elnökhelyettese újraválasztható.
 
-(5) A Döntőbizottság elnöke az lehet, aki felsőfokú végzettséggel és legalább tíz éves közbeszerzési, valamint három éves döntőbizottsági gyakorlattal és jogi szakvizsgával, vagy közbeszerzési ügyek elbírálásával kapcsolatos, legalább három éves bírói gyakorlattal rendelkezik.
+(5) A Döntőbizottság elnöke az lehet, aki legalább tízéves közbeszerzési és legalább hároméves bírói gyakorlattal vagy legalább tízéves közbeszerzési és legalább hároméves közbeszerzési biztosi gyakorlattal, továbbá jogi szakvizsgával rendelkezik.
 
 (6) A Döntőbizottság elnökének közszolgálati jogviszonyára a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényt (a továbbiakban: Ktv.) kell a 399. § (3) és (4) bekezdése, valamint a 400. § (6) bekezdése szerinti eltéréssel alkalmazni.
 
