@@ -55,13 +55,13 @@ Az Országgyűlés a köztulajdonban álló gazdasági társaságok takarékosab
 
 (3)
 
-5. § (1) A köztulajdonban álló gazdasági társasággal munkaviszonyban álló munkavállaló havi személyi alapbére, valamint a Gt. 22. § (2) bekezdés a) pontja szerinti vezető tisztségviselőjének e jogviszonyára tekintettel megállapított havi díjazása legfeljebb a Magyar Nemzeti Bank elnöke tárgyévi összes keresete egytizenkettedének az egynegyede lehet.
+5. § (1)
 
 (2) A köztulajdonban álló gazdasági társasággal munkaviszonyban álló vezető tisztségviselő, továbbá az Mt. 188. § (1) bekezdése vagy 188/A. § (1) bekezdése hatálya alá eső munkavállaló számára teljesítménykövetelményt, valamint az ahhoz kapcsolódó teljesítménybért vagy más juttatást a vezető tisztségviselő és az Mt. 188. § (1) bekezdése hatálya alá eső munkavállaló esetében a gazdasági társaság legfőbb szerve vagy – ha a társasági szerződés (alapszabály, alapító okirat) így rendelkezik – az igazgatóság, az Mt. 188/A. § (1) bekezdése hatálya alá eső munkavállaló esetében pedig a munkáltatói jogokat gyakorló vezető tisztségviselő vagy a vezérigazgató határozhat meg, amelyről a felügyelőbizottság véleményét előzetesen ki kell kérni. Teljesítménykövetelményként az üzleti terv fő számainak teljesítése mellett csak olyan feltétel határozható meg, amelynek teljesítése a munkakör elvárható szakértelemmel és gondossággal való ellátásán túlmutató, objektíven meghatározható teljesítményt takar.
 
 (3) A köztulajdonban álló gazdasági társaság legfőbb szerve e törvény és más jogszabályok keretei között köteles szabályzatot alkotni a vezető tisztségviselők, felügyelőbizottsági tagok, valamint az Mt. 188. § (1) bekezdése vagy 188/A. § (1) bekezdése hatálya alá eső munkavállalók javadalmazása, valamint a jogviszony megszűnése esetére biztosított juttatások módjának, mértékének elveiről, annak rendszeréről. A szabályzatot az elfogadásától számított harminc napon belül a cégiratok közé letétbe kell helyezni.
 
-(4) Az (1)–(2) bekezdés rendelkezéseitől, valamint a (3) bekezdésben meghatározott szabályzat rendelkezéseitől érvényesen eltérni nem lehet.
+(4) A (2) bekezdés rendelkezéseitől, valamint a (3) bekezdésben meghatározott szabályzat rendelkezéseitől érvényesen eltérni nem lehet.
 
 6. § (1) A köztulajdonban álló gazdasági társaság igazgatósága elnökének e jogviszonyára tekintettel megállapított díjazása nem haladhatja meg a mindenkori kötelező legkisebb munkabér hétszeresét, illetve az igazgatóság többi tagja esetében a mindenkori kötelező legkisebb munkabér ötszörösét.
 

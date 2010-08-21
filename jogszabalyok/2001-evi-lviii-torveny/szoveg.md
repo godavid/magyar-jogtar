@@ -508,7 +508,7 @@ során.
 
 ### Az elnök, az alelnökök, a monetáris tanács és a felügyelő bizottság tagjainak díjazása
 
-53. § (1) Az elnök MNB-től származó tárgyévi összes keresete az elnök részére előző évre megállapított összes keresetnek az Európai Unió Bizottságának a tárgyévet megelőző évben benyújtott konvergencia programban a tárgyévre vonatkozó várható fogyasztói árindex értékével megemelt összege.
+53. § (1) Az elnök tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó, MNB-től származó havi keresete a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszerese.
 
 (2) Az 50. § (7) bekezdése szerinti alelnök MNB-től származó keresete az elnök keresetének 80%-a.
 

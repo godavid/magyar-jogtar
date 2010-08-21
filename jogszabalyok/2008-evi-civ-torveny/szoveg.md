@@ -113,6 +113,8 @@ kerülhet sor.
 
 (2) A különleges osztalékelsőbbségi részvény a részvényesek között felosztható adózott eredményből a más részvényfajtába, illetve részvényosztályba tartozó részvényeket megelőzően, illetve azoknál kedvezőbb mértékben jogosít osztalékra.
 
+(2a) A különleges osztalékelsőbbségi részvény tulajdonosát a visszaváltási értéken felül időarányos megtérítési igény illeti meg, ha a 12. § (1) bekezdése szerinti visszaváltás időpontja olyan időszakra esik, amelyre vonatkozóan az osztalékfizetésről a közgyűlés még nem döntött, és a visszaváltási érték nem felel meg az Európai Unió működéséről szóló szerződés állami támogatásokra vonatkozó szabályainak.
+
 (3) A különleges osztalékelsőbbségi részvényhez szavazati jog nem kapcsolódik.
 
 (4) A különleges osztalékelsőbbségi részvény esetében a Gt. 187. §-ának (2) és (3) bekezdésében foglaltakat nem kell alkalmazni.
@@ -130,6 +132,10 @@ kerülhet sor.
 (4) A Magyar Állam a különleges osztalékelsőbbségi részvény kibocsátását követő ötödik év elteltével, e részvények visszaváltási értékével megegyező értéken eladási jogot gyakorolhat a hitelintézettel szemben.
 
 (5) A hitelintézet a (4) bekezdésben foglaltak szerint felajánlott részvényeket köteles megvásárolni, és a vételárat az adásvétel napját követő harmincadik napig a Magyar Állam számára megfizetni.
+
+(6) A 10. § (2a) bekezdés szerinti időarányos megtérítési igényt a hitelintézetnek a számviteli szabályok szerinti rendkívüli ráfordítások között kell elszámolnia, valamint akkor is kifizethető, ha a részvény tulajdonosa az osztalékfizetésről döntő közgyűlés időpontjában már nem szerepel a részvénykönyvben.
+
+(7) Az időarányos megtérítési igény mértékéről, a kifizetése feltételeiről és módjáról a Magyar Állam és a hitelintézet külön megállapodásban rendelkezik.
 
 ### A különleges vétójogot biztosító szavazatelsőbbségi részvény
 
@@ -293,6 +299,8 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 24. § (1) A Magyar Állam az e törvényben foglalt intézkedéseiről – ide nem értve az államháztartásért felelős miniszternek a különleges osztalékelsőbbségi részvény tekintetében az eladási joga gyakorlására vonatkozó döntését – 2010. december 30-ig dönthet.
 
 (2) A 2010. december 31-ig meghozott döntés alapján a Magyar Államnak és a hitelintézetnek a 4–19. §-okban foglaltak szerint kell eljárnia akkor is, ha e törvény hatályát veszti.
+
+(3) Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 127. és 128. §-ával megállapított 10. § (2a) bekezdés, 12. § (6) és (7) bekezdés a hatálybalépését megelőzően megvalósult tőkeemelésre is alkalmazható.
 
 ### Melléklet a 2008. évi CIV. törvényhez
 
