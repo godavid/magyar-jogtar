@@ -492,9 +492,9 @@ b) a gazdasági társaságban az állam tulajdoni részesedéssel rendelkezik.�
 
 26. § (1) E törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 3. napon lép hatályba.
 
-(2) E törvény 39. § (2) bekezdése 2010. október 1-jén lép hatályba.
+(2)
 
-(3) E törvény 39. § (2) bekezdését a hatálybalépését követően kötött vagy a javadalmazási részében módosított szerződésekre kell alkalmazni.
+(3)
 
 (4) A Nemzeti Vagyongazdálkodási Tanács, illetve a Vtv. 3. §-a alapján fennálló, az állami vagyon feletti tulajdonosi joggyakorlásra vonatkozó jogköre, valamint az Ellenőrző Bizottság, illetve a Vtv. 12. § (1) bekezdése alapján fennálló, az állami vagyonnal való gazdálkodás ellenőrzésére vonatkozó jogköre e törvény hatálybalépésének napján megszűnik.
 
@@ -626,9 +626,9 @@ b) a gazdasági társaságban az állam tulajdoni részesedéssel rendelkezik.�
 
 (3) A Magyar Államot mint tulajdonost képviselő miniszter az MFB tv. 6. § (1) bekezdése szerinti beszámolót 2010. évben legkésőbb október 15-ig köteles a Kormány elé terjeszteni.
 
-39. § (1) A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény 5. § (1) bekezdését az MFB Zrt.-re, e törvény mellékleteiben meghatározott gazdasági társaságokra, illetve azok munkaviszonyban álló munkavállalóira és a Gt. 22. § (2) bekezdés a) pontja szerinti vezető tisztségviselőjének e jogviszonyára 2010. szeptember 30. napjáig kell alkalmazni.
+39. § (1)
 
-(2) Az MFB Zrt.-vel, valamint e törvény mellékleteiben meghatározott gazdasági társaságokkal munkaviszonyban álló munkavállalók havi személyi alapbérét és a Gt. 22. § (2) bekezdés a) pontja szerinti vezető tisztségviselőjének e jogviszonyára tekintettel megállapított havi díjazását az MFB Zrt.-nél, illetve az érintett gazdálkodó szervezetnél 2006. január 01.–2010. augusztus 31. közötti időszakban valamennyi kifizetésre került – számviteli törvény szerinti – bérköltség [Szvt. 79. § (2) bek.] és személyi jellegű egyéb kifizetés [Szvt. 79. § (3) bek.] együttes összegéből számított éves átlag alapulvételével, annak csökkentésével kell meghatározni.
+(2)
 
 40. § Az MFB tv. 13/A. § rendelkezéseit e törvény mellékleteiben felsorolt, a Felügyelet alá tartozó gazdálkodó szervezetekre is alkalmazni kell.
 

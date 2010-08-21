@@ -190,9 +190,11 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (5) A Felügyelet elnökének közszolgálati jogviszonyával összefüggő munkáltatói intézkedéseket – a 12–13. §-ban meghatározott esetekben az ott megjelölt döntés alapján – a helyettesítésére kijelölt alelnök teszi meg. A Felügyelet alelnöke felett a munkáltatói jogokat – a kinevezés kivételével – a Felügyelet elnöke gyakorolja.
 
-(6) A Felügyelet elnökének a Felügyelettől származó tárgyévi összes jövedelme az MNB elnökének az MNB-től származó tárgyévi összes jövedelmének ötven százaléka.A Felügyelet alelnökének a Felügyelettől származó tárgyévi összes jövedelme az MNB elnökének az MNB-től származó tárgyévi összes jövedelmének huszonöt százaléka.
+(6) A Felügyelet elnökének tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó, a Felügyelettől származó havi keresete a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszerese. A Felügyelet alelnökének tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított, a Felügyelettől származó havi keresete a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset kilencszerese.
 
 (7) A Felügyelet elnökét annak akadályoztatása esetén az általa kijelölt alelnök helyettesíti, illetve az új elnök kinevezéséig a Felügyelet elnöke által a helyettesítésére kijelölt alelnök gyakorolja az elnök hatáskörét, ha az elnöki tisztség nincsen betöltve. A helyettesítésre kijelölt alelnök a (2) bekezdés a) pontja szerinti jogkört nem gyakorolhatja.
+
+(8) A Felügyelet elnökét a miniszterrel, a Felügyelet alelnökét a közigazgatási államtitkárral azonos juttatások illetik meg. A Felügyelet elnökét és alelnökét naptári évenként negyven-negyven munkanap szabadság illeti meg.
 
 12. § (1) A Felügyelet elnökét a miniszterelnök javaslatára a köztársasági elnök hat évre nevezi ki. A Felügyelet két alelnökét a Felügyelet elnökének javaslatára a miniszterelnök hat évre nevezi ki.
 
