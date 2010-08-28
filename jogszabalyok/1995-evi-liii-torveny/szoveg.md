@@ -899,13 +899,11 @@ tarthatók nyilván.
 
 ### Előzetes vizsgálati eljárás, előzetes konzultáció
 
-67. § (1) A környezeti hatásvizsgálati, illetve az egységes környezethasználati engedélyezési eljárást előzetes vizsgálati eljárás vagy előzetes konzultáció előzi meg.
+67. § (1) Előzetes vizsgálatot kell lefolytatni, ha a tervezett tevékenység a környezetvédelmi hatóság döntésétől függően környezeti hatásvizsgálat köteles, továbbá ha az előzetes vizsgálatot törvény írja elő.
 
-(2) A környezetvédelmi hatóság az előzetes vizsgálati eljárásban dönt arról, hogy a tervezett tevékenység környezeti hatásvizsgálati vagy egységes környezethasználati engedélyezési eljárás hatálya alá tartozik-e, és döntésében – szükség szerint – meghatározza a benyújtandó kérelem tartalmi követelményeit.
+(2) A környezetvédelmi hatóság az előzetes vizsgálat alapján hozott határozatát az előzetes vizsgálati eljárás iránti kérelem hatósághoz történő megérkezésétől számított 33 munkanapon belül hozza meg, ha az ügyben közmeghallgatás tartása szükséges, az ügyintézési határidő 45 munkanap. Országhatáron átterjedő jelentős környezeti hatással kapcsolatos, jogszabályban meghatározott nemzetközi eljárás időtartama az ügyintézési határidőbe nem számít be.
 
-(3) A környezetvédelmi hatóság az előzetes vizsgálat alapján hozott határozatát – annak jogerőre emelkedésére tekintet nélkül – nyilvánosan közzéteszi.
-
-(4) A környezetvédelmi hatóság az (5) bekezdés szerinti határozatot az előzetes vizsgálati eljárás iránti kérelem hatósághoz történő megérkezésétől számított 33 munkanapon belül hozza meg, ha az ügyben közmeghallgatás tartása szükséges, az ügyintézési határidő 45 munkanap. Országhatáron átterjedő jelentős környezeti hatással kapcsolatos, jogszabályban meghatározott nemzetközi eljárás időtartama az ügyintézési határidőbe nem számít be.
+(3) A környezethasználó előzetes konzultációt kezdeményezhet a környezetvédelmi hatóságnál, ha a tervezett tevékenység nem a környezetvédelmi hatóság döntésétől függően környezeti hatásvizsgálat köteles, vagy ha kizárólag egységes környezethasználati engedélyezési eljárás köteles.
 
 ### A környezeti hatásvizsgálati eljárás
 
@@ -971,7 +969,7 @@ kiadásáról.
 
 - a) környezetkárosítást észlel;
 - b) kiemelten védett, védett, illetőleg védőterületen (nemzeti park, tájvédelmi körzet, természetvédelmi terület, természeti emlék, valamint ezek védőövezetei, vízminőség-védelmi terület, hidrogeológiai védőterület, valamint az ivó-, ásvány- és gyógyvízkivételek védőterületei), környezetet veszélyeztető, szennyező vagy károsító tevékenységet észlel;
-- c) a környezeti hatásvizsgálat, illetve az egységes környezethasználati engedélyezés hatálya alá tartozó tevékenységet előzetes vizsgálat vagy előzetes konzultáció, illetve környezetvédelmi engedély vagy egységes környezethasználati engedély nélkül kezdett meg vagy folytat;
+- c) a 67. § (1) bekezdésében meghatározott esetekben nem kérelmezett előzetes vizsgálatot, továbbá a környezeti hatásvizsgálat vagy az egységes környezethasználati engedélyezés hatálya alá tartozó tevékenységet környezetvédelmi engedély vagy egységes környezethasználati engedély nélkül kezdett meg vagy folytat;
 - d) a külön jogszabályban meghatározott feltételek fennállnak.
 
 (3) Ha a környezetvédelmi hatóság a környezetvédelmi felülvizsgálat alatt környezetveszélyeztetést vagy környezetkárosítást észlel, akkor az azt okozó feltárt tevékenységet a hatásterületen teljeskörűen vagy részlegesen korlátozhatja, illetőleg felfüggesztheti.
