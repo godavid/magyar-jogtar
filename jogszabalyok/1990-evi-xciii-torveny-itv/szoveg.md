@@ -1554,17 +1554,15 @@ e) az építményekkel kapcsolatos országos szakmai követelmények jogszabály
 
 f) felvonó, mozgólépcső és mozgójárda építésére vonatkozó engedélyezés esetén 15 000 forint,
 
-g) építési tevékenység bejelentési eljárása esetén 20 000 forint,
+g)
 
 h) bontási engedélyezési eljárás esetén a bontandó építmény 100 m2-ként 10 000 forint, vagy folyóméterenként 1000, vagy darabonként 10 000 forint,
 
-i) fennmaradási engedélyezési eljárás (engedély nélkül végzett bontás tudomásulvétele) esetén a c), f), g) és h) pontok szerint megállapított illeték másfélszerese,
+i) fennmaradási engedélyezési eljárás (engedély nélkül végzett bontás tudomásulvétele) esetén a c), f) és h) pont szerint megállapított illeték másfélszerese,
 
 j) használatbavételi engedélyezés esetében a c), f) pontokban megállapított illetékkel megegyező mértékű,
 
-k) használatbavétel bejelentése esetén a g) pontban megállapított illetékkel megegyező mértékű,
-
-l) rendeltetésmegváltoztatási engedélyezési eljárás esetén az érintett – önálló rendeltetési egységenként – 10 000 forint, amennyiben azonban a rendeltetés megváltoztatása építési engedélyköteles munkával jár együtt, az a c)–e) és g) pont szerinti illetékkel megegyező mértékű,
+k)–l)
 
 m) az a)–l) pont alá nem eső elsőfokú építésügyi hatósági eljárás (pl. bármely építésügyi hatósági engedély érvényének meghosszabbítása, jogutódlás kérése) esetében 10 000 forint,
 
@@ -1572,7 +1570,7 @@ n) az építésrendészeti hatósági intézkedés kérése esetében 15 000 for
 
 2. az építésügyi és építésfelügyeleti hatósági eljárásban hozott döntés ellen igénybe vehető fellebbezés esetén 30 000 forint,
 
-3. a felügyeleti intézkedés esetén 50 000 forint.
+3. a felügyeleti intézkedés kezdeményezése esetén 50 000 forint.
 
 4. Illetékmentes és igazgatási szolgáltatási díjmentes a Kormány által rendeletben kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő bontási, elvi építési, építési, módosított építési és használatbavételi engedélyezési eljárás, valamint az eljárásban közreműködő szakhatóságok eljárása.
 
