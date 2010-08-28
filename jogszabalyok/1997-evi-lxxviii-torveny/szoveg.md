@@ -697,7 +697,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
 (6) A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokra eltérő eljárási szabályok állapíthatók meg.
 
-35. § (1) Az ügyfél (építtető) az építési engedély iránti kérelem benyújtása előtt, az építés megvalósításához szükséges követelmények előzetes tisztázása céljából, elvi építési engedélyt kérhet. Jogszabály az elvi építési engedély kérését kötelezővé teheti.
+35. § (1) Az építési engedély iránti kérelem benyújtása előtt elvi építési engedély kérhető az építés megvalósításához szükséges követelmények előzetes tisztázása céljából.
 
 (2) A jogerős és végrehajtható elvi építési engedély egy évig hatályos. Érvényessége egy ízben legfeljebb egy évvel meghosszabbítható, ha a jogszabályok, valamint a kötelező hatósági előírások időközben nem változtak meg.
 
@@ -1030,17 +1030,19 @@ a használatbavételi engedély megkéréséig biztosítható, illetve a haszná
 
 (4) Az építésügyi és építésfelügyeleti hatóságok által kiszabott építésügyi, építésfelügyeleti és eljárási bírságok (a továbbiakban: bírságok) – a (6) bekezdésben foglalt kivételekkel és a sajátos építményfajtákra, műemlékekre vonatkozó eltérő jogszabályi rendelkezés hiányában – az 50. § (1) bekezdése szerinti célelőirányzatot illetik.
 
-(5) Az építésügyi és építésfelügyeleti hatóságok által jogerősen és végrehajthatóan kiszabott bírságok – a (7) bekezdésben foglaltak kivételével – adók módjára behajtandó köztartozások.
+(5) Az építésügyi és építésfelügyeleti hatóságok által jogerősen és végrehajthatóan kiszabott bírságok – a (7) bekezdésben foglaltak kivételével – adók módjára behajtandó köztartozásnak minősülnek, melyek behajtása az állami adóhatóság hatáskörébe tartozik.
 
 (6) Az építésügyi és építésfelügyeleti hatóságok által kiszabott eljárási bírság az eljáró hatóságot illeti meg.
 
 (7) A honvédelmi és katonai, valamint nemzetbiztonsági célú építmények építésügyi és építésfelügyeleti hatóságai által meghozott döntés végrehajtását az első fokon eljáró hatóság foganatosítja.
 
-53/B. §
+53/B. § Azon építési beruházás építésügyi hatósági eljárására, amely legalább – az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendelet szerint számított – 90 millió forint építmény értékű, és ipari vagy szolgáltatási rendeltetésű, a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény (a továbbiakban: Ngtv.) rendelkezéseit kell alkalmazni, az Ngtv. 2. §-a kivételével.
 
 53/C. § (1) Amennyiben az eljárásban több mint ötven ügyfél vesz részt, az építésügyi és az építésfelügyeleti hatóság akkor tart közmeghallgatást, ha azt a tényállás tisztázása érdekében indokoltnak tartja. Az építésügyi hatóság a használatbavételi engedélyezési eljárás során nem tart közmeghallgatást.
 
-(2)–(5)
+(2) Az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében az eljárás egyéb résztvevője az építésügyi hatóság vagy az építésfelügyeleti hatóság jogerős másodfokú döntésének felülvizsgálatát a határozat közlésétől számított tizenöt napon belül jogszabálysértésre hivatkozással kérheti a közigazgatási ügyekben eljáró bíróságtól a határozatot hozó hatóság elleni kereset indításával.
+
+(3)–(5)
 
 (6)
 

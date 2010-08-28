@@ -567,9 +567,9 @@ kulturális javakat.
 
 ### Örökségvédelmi hatástanulmány
 
-66. § (1) Kötelező az örökségvédelmi hatástanulmány elkészítése a településrendezési eljárás (a településfejlesztési koncepció, a településrendezési terv, a helyi építési szabályzat és szabályozási terv) során. Nem kell elkészíteni a hatástanulmányt, ha a helyi önkormányzat a településrendezési eljárás alá vont terület tekintetében tíz évnél nem régebbi hatástanulmánnyal rendelkezik, vagy a területre elkészített korábbi hatástanulmány alapján a rendezés alá vont terület örökségvédelmi szempontból nem érintett.
+66. § (1) Örökségvédelmi hatástanulmányt kell készíteni a település fejlesztési koncepciójának kidolgozása során. Amennyiben a fejlesztési koncepció készítésekor nem készült, vagy a rendezés alá vont területre nincs örökségvédelmi hatástanulmány, vagy van, de az tíz évnél régebbi, akkor azt a rendezés alá vont területre el kell készíteni. Nem kell örökségvédelmi hatástanulmányt készíteni, ha az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 9. § (2) bekezdése szerinti véleményezési eljárásban az illetékes államigazgatási szerv véleménye szerint a rendezés alá vont terület örökségvédelmi szempontból nem érintett.
 
-(2) A hatóság – külön jogszabályban meghatározott tartalommal – az engedélyezési eljárásban előírhatja az örökségvédelmi hatásvizsgálat elkészítését, feltéve, hogy az (1) bekezdés szerinti hatástanulmány alapján az eljárással érintett terület örökségvédelmi szempontból érintett.
+(2)
 
 ### Hatósági kötelezés
 
@@ -788,7 +788,8 @@ kulturális javakat.
 
 - a) szabályozza az örökségvédelmi bírsággal kapcsolatos részletes szabályokat, a bírság legmagasabb összegét, valamint a bírság megállapításának alapjául szolgáló értékhatárokat;
 - b) rendeletben jelölje ki a kulturális örökségvédelmi hatóságot vagy hatóságokat;
-- c) szabályozza a kulturális örökség hozzáférhetővé tételének szabályait, különös tekintettel a fogyatékos személyek esélyegyenlőségének előmozdítására.
+- c) szabályozza a kulturális örökség hozzáférhetővé tételének szabályait, különös tekintettel a fogyatékos személyek esélyegyenlőségének előmozdítására,
+- d) állapítsa meg az örökségvédelmi hatástanulmányra vonatkozó szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 
@@ -800,7 +801,7 @@ kulturális javakat.
 - f) a régészeti lelőhely, a lelet megtalálójának anyagi elismerésére vonatkozó részletes szabályokat;
 - g) a műemlékvédelem eljárási rendjére és sajátos tárgyaira – beleértve az azok használatát szabályozó kezelési tervre – vonatkozó szabályokat;
 - h) a műemléken történő reklámelhelyezés szabályait;
-- i) az örökségvédelmi hatástanulmányra vonatkozó szabályokat;
+- i)
 - j) a kulturális örökség hatósági nyilvántartásának szabályait és az ezzel összefüggő igazgatási szolgáltatási díj mértékét és a fizetésre vonatkozó egyéb szabályokat;
 - k) a kulturális örökséggel kapcsolatos tevékenységek szakmagyakorlási feltételeit;
 - l) a könyvtárakban levő muzeális dokumentumok kezelésével és nyilvántartásával kapcsolatos külön szabályokat;

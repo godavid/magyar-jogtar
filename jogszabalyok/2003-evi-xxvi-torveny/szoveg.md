@@ -158,7 +158,7 @@ az Országos Területrendezési Tervről
 
 9/A. § A kiemelt térségi és megyei területrendezési tervben szereplő országos vasúti mellékvonalak területét a településszerkezeti tervben beépítésre nem szánt közlekedési terület területfelhasználási egységbe kell sorolni.
 
-9/B. § (1) Az országos területrendezési tervben nem szereplő, de más rendelkezéseinek megfelelő, az energiaellátás biztonságának biztosításához szükséges atomerőműnek nem minősülő erőműnek, villamosenergia-átviteli hálózat távvezeték elemének, továbbá nemzetközi és hazai szénhidrogén szállítóvezeték elemének minősülő műszaki infrastruktúra-hálózat elemei és egyéb építmény területi elhelyezésére az állami főépítész térségi területfelhasználási engedélyt ad ki.
+9/B. § (1) Az országos, a kiemelt térségi vagy a megyei területrendezési tervben nem szereplő, de más rendelkezéseinek megfelelő, az energiaellátás biztonságának biztosításához szükséges atomerőműnek nem minősülő erőmű, villamosenergia-átviteli hálózat távvezeték elemei, továbbá nemzetközi és hazai szénhidrogén szállítóvezeték elemének minősülő műszaki infrastruktúra-hálózat elemei és egyéb építmény területi elhelyezésére az állami főépítész térségi területfelhasználási engedélyt ad ki.
 
 (2) Az állami főépítész (1) bekezdés szerinti eljárására a közigazgatási hatósági eljárásról szóló törvény rendelkezéseit kell alkalmazni azzal, hogy
 
@@ -431,7 +431,7 @@ térségi hulladéklerakó hely nem jelölhető ki.
 31. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a) a kiemelt térségi és megyei területrendezési tervek, valamint a településrendezési tervek készítése során az országos, a kiemelt térségi és a megyei övezetek területi érintettségével kapcsolatosan állásfoglalásra jogosult államigazgatási szervek körét és az eljárás részletes szabályait,
-- b) az Országos Területrendezési Tervben nem szereplő atomerőműnek nem minősülő erőművek, villamosenergia-átviteli hálózatok, továbbá szénhidrogén szállítóvezeték területi elhelyezésére vonatkozó területrendezési hatósági eljárás részletes szabályait.
+- b) az országos, a kiemelt térségi vagy a megyei területrendezési tervben nem szereplő, atomerőműnek nem minősülő erőmű, villamosenergia-átviteli hálózat távvezeték elemei, továbbá szénhidrogén szállítóvezeték elemének minősülő műszaki infrastruktúra-hálózat elemei és egyéb építmény területi elhelyezésére vonatkozó területrendezési hatósági eljárás részletes szabályait.
 
 ### 1/1. számú melléklet
 

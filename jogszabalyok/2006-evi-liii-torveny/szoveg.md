@@ -9,10 +9,10 @@ Annak érdekében, hogy az Európai Unió támogatásából finanszírozott proj
 1. § (1) A törvény hatálya az egyes,
 
 - a) részben vagy egészben európai uniós támogatásból megvalósítandó,
-- b) részben vagy egészben központi költségvetési támogatásból megvalósítandó, és legalább 2 milliárd forint teljes költségigényű vagy legalább 50 új munkahely megteremtését biztosító,
+- b) részben vagy egészben központi költségvetési támogatásból megvalósítandó,
 - c) a koncessziós, illetve az egyes kizárólagos állami tevékenységek gyakorlása jogának átengedése érdekében lefolytatott árverési és pályázati eljárások keretében létrejött szerződések alapján megvalósítandó és ahhoz szorosan kapcsolódó, összesen legalább öt milliárd forint teljes költségigényű,
 - d) részben vagy egészben egyedi kormánydöntéssel megítélt támogatásból megvalósítandó,
-- e) legalább 2 milliárd forint teljes költségigényű vagy legalább 50 új munkahely megteremtését biztosító, vagy
+- e) legalább 90 millió forint teljes költségigényű és legalább 15 új munkahely megteremtését biztosító, vagy
 - f) környezetvédelmi, kutatás-fejlesztési, oktatási, valamint egészségügyi és szociális célok megvalósítását elősegítő
 
 nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, a Kormány által rendeletben meghatározott közigazgatási hatósági engedélyezési ügyekben (a továbbiakban: kiemelt jelentőségű ügy) indult eljárásokra terjed ki.

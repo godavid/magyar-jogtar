@@ -128,7 +128,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 - a) szavazati joggal rendelkező tagként vesznek részt:
   - aa) a területfejlesztési szervek részéről: a regionális fejlesztési tanácsok elnökei, valamint a főpolgármester,
-  - ab) a Kormány részéről: a területfejlesztésért és területrendezésért felelős miniszter (a továbbiakban: miniszter), valamint a Kormány által meghatározott további nyolc miniszter,
+  - ab) a Kormány részéről: a területfejlesztésért felelős miniszter (a továbbiakban: miniszter), valamint a Kormány határozatában kijelölt további nyolc miniszteri képviselő,
   - ac) köztestületek és érdekszövetségek részéről: az országos gazdasági kamarák elnökei; az Országos Érdekegyeztető Tanács munkaadói és munkavállalói oldalának egy-egy képviselője; az országos önkormányzati érdekszövetségek összesen három képviselője;
 - b) tanácskozási joggal rendelkező tagként vesznek részt:
   - ba) az országos környezetvédelmi és természetvédelmi szervezetek egy-egy állandó képviselője,
@@ -152,12 +152,12 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 (5) A Tanács elnöke a miniszter.
 
-(6) Az egységes kormányzati álláspont kialakítása és képviselete érdekében a tagsággal rendelkező és a tagsággal nem rendelkező miniszterekkel az őket érintő napirendekkel kapcsolatos előzetes egyeztetésekről a miniszter gondoskodik, valamint kialakítja a tagsággal nem rendelkező miniszterek és az Országos Területfejlesztési Tanács közötti egyeztetés rendjét. A Tanács titkárságának feladatait a kormányzati területfejlesztési feladatokért felelős szerv látja el, melynek képviselője állandó meghívottként részt vesz a Tanács ülésén.
+(6) Az egységes kormányzati álláspont kialakítása és képviselete érdekében a miniszteri képviselőkkel és a tagsággal nem rendelkező miniszterekkel az őket érintő napirendekkel kapcsolatos előzetes egyeztetésekről a miniszter gondoskodik, valamint kialakítja a tagsággal nem rendelkező miniszterek és a Tanács közötti egyeztetés rendjét. A Tanács titkárságának feladatait a kormányzati területfejlesztési feladatokért felelős szerv látja el, amelynek képviselője állandó meghívottként részt vesz a Tanács ülésén.
 
 (7) A Tanács ülésén
 
-- a) a tagként kijelölt minisztert állami vezető helyettesítheti. A tagként kijelölt miniszter és a helyettesítésre jogosult személyek akadályoztatása esetén a tagként kijelölt minisztert a miniszter által írásban teljes körű állásfoglalásra felhatalmazott személy helyettesítheti;
-- b) a szavazati joggal rendelkező többi tagot – akadályoztatásuk esetén – a tag által írásban állásfoglalásra teljes körűen felhatalmazott képviselő helyettesítheti. Az akadályoztatás okáról a Tanács elnökét a kijelölő iratban tájékoztatni kell;
+- a) miniszteri képviselőként állami vezető járhat el, akit akadályoztatása esetén az érintett miniszter által írásban teljes körű állásfoglalásra felhatalmazott személy helyettesíthet;
+- b) a szavazati joggal rendelkező többi tagot – akadályoztatásuk esetén – a tag által írásban állásfoglalásra teljes körűen felhatalmazott képviselő helyettesítheti, az akadályoztatás okáról a Tanács elnökét a kijelölő iratban tájékoztatni kell;
 - c) a tanácskozási joggal rendelkező tagokat – akadályoztatásuk esetén – a tag által véleménynyilvánításra írásban felhatalmazott képviselő helyettesítheti.
 
 (8) A Tanács feladatkörébe utalt, a (4) bekezdésben meghatározott véleményezési jogosítványok érvényesítése érdekében az ország társadalmi, gazdasági, infrastrukturális helyzetével, fejlődésével, valamint a térségek helyzetével és fejlődésével kapcsolatos jelentős kormányelőterjesztésekhez mellékelni kell a Tanács állásfoglalását.
@@ -175,14 +175,13 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 9. § (1) A miniszter
 
-- a) koncepciókat és javaslatokat készít az országos területfejlesztési politika megalapozására, annak célkitűzéseit érvényesíti tervezési, koordinációs, szervező és információs feladataiban;
-- b) kidolgozza az országos területfejlesztési koncepciót, összehangolja az országos és a térségi területfejlesztési koncepciókat és programokat;
+- a)–b)
 - c) közreműködik a kiemelt térségekre vonatkozó fejlesztési programok kidolgozásában, szervezi a végrehajtásukkal összefüggő feladatok teljesítését, és az e célt szolgáló anyagi eszközök felhasználását az érintett miniszterekkel együttműködve;
-- d) szervezi az országos és az országos jelentőségű, valamint az országhatáron átnyúló, közös területrendezési koncepciók és tervek kialakítását, gondoskodik elkészítésükről;
+- d) szervezi az országos és az országos jelentőségű, valamint az országhatáron átnyúló, közös koncepciók és tervek kialakítását, gondoskodik elkészítésükről;
 - e) koordinálja a területfejlesztési célok megvalósítását közvetlenül és közvetve szolgáló fejezeti kezelésű előirányzatok pályázati úton történő felhasználását;
 - f) elősegíti – az érintett miniszterekkel együttműködve – a területfejlesztési célú források decentralizációját, a forráskoordinációt és a programfinanszírozás megvalósulását;
-- g) elősegíti a területfejlesztési koncepciók és programok, területrendezési tervek és a településrendezési tervek összhangját;
-- h) ellátja a jogszabályokban és az állami irányítás egyéb jogi eszközei által meghatározott területfejlesztési, területrendezési jogszabály-előkészítési és végrehajtási feladatokat;
+- g) elősegíti a területfejlesztési koncepciók és programok összhangját;
+- h) ellátja a jogszabályokban és az állami irányítás egyéb jogi eszközei által meghatározott területfejlesztési jogszabály-előkészítési és végrehajtási feladatokat;
 - i) összehangolja a közigazgatási szervek területfejlesztéssel kapcsolatos tevékenységét, szakmai irányítást gyakorol a területfejlesztés intézményrendszere felett;
 - j) benyújtja a Kormánynak – a helyi önkormányzatokért felelős miniszterrel együttesen – a kistérségek lehatárolásának megváltoztatásával kapcsolatos előterjesztést.
 
@@ -193,6 +192,20 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - c) közreműködnek a megyei területfejlesztési és regionális fejlesztési tanácsok munkájában.
 
 (3)
+
+9/A. § A területrendezésért felelős miniszter
+
+- a) kidolgozza az Országos Területrendezési Tervet, a Balaton Kiemelt Üdülőkörzet Területrendezési Tervét, valamint a Budapesti Agglomeráció Területrendezési Tervét;
+- b) kidolgozza a határmenti térségek országhatáron átnyúló, közös területrendezési terveit;
+- c) összehangolja a területrendezési terveket, valamint a központi államigazgatási szervek területrendezéssel kapcsolatos feladatait;
+- d) elősegíti a területrendezési és a településrendezési tervek összhangját;
+- e) gondoskodik a területrendezéssel kapcsolatos információs rendszerről, az adatszolgáltatás rendjéről és a területrendezés szakmai követelményeiről.
+
+9/B. § A területfejlesztési stratégiai tervezésért felelős miniszter
+
+- a) koncepciókat és javaslatokat készít az országos területfejlesztési politika megalapozására, annak célkitűzéseit érvényesíti tervezési, szervező és információs feladataiban;
+- b) kidolgozza az országos fejlesztési koncepciót, valamint az országos területfejlesztési koncepciót, összehangolja az országos és a térségi területfejlesztési koncepciókat és programokat;
+- c) elősegíti a területfejlesztési koncepciók és programok összhangját.
 
 ### III. Fejezet — TERÜLETFEJLESZTÉST ÉS TERÜLETRENDEZÉST ELLÁTÓ TERÜLETI SZERVEK ÉS FELADATAIK
 
@@ -560,7 +573,7 @@ rendszeresen, de évente legalább egyszer köteles beszámolni.
 (6) A regionális fejlesztési tanács tagjai:
 
 - a) a tanács illetékességi területén működő megyei területfejlesztési tanácsok elnökei;
-- b) az agrár-vidékfejlesztésért felelős miniszter, az államháztartásért felelős miniszter, az egészségügyért felelős miniszter, a foglalkoztatáspolitikáért felelős miniszter, a gazdaságpolitikáért felelős miniszter, a környezetvédelemért felelős miniszter, a Miniszterelnöki Hivatalt vezető miniszter, az oktatásért felelős miniszter, valamint a területfejlesztésért és területrendezésért felelős miniszter egy-egy képviselője;
+- b) a Kormány részéről a miniszter képviselője, valamint a Kormány által meghatározott további nyolc miniszteri képviselő;
 - c) az érintett többcélú kistérségi társulások, illetve kistérségi fejlesztési tanácsok megyénként egy-egy képviselője;
 - d) a tanács illetékességi területén működő megyei jogú városok polgármesterei;
 - e) a területileg illetékes Regionális Idegenforgalmi Bizottság elnöke; továbbá a Közép-Magyarországi Regionális Fejlesztési Tanács tekintetében:
@@ -596,7 +609,7 @@ rendszeresen, de évente legalább egyszer kötelesek beszámolni.
 
 18. § A területi államigazgatási szervek a területfejlesztéssel és területrendezéssel összefüggő kormányzati feladatok végrehajtásában, érvényesítésének ellenőrzésében, a térségi fejlesztés és tervezés koordinálásában szakmai segítségnyújtással és információszolgáltatással, valamint hatósági ellenőrzéssel vesznek részt.
 
-19. § (1) A miniszter feladatkörébe tartozó egyes területrendezési feladatokat az állami főépítészek látják el.
+19. § (1) A területrendezésért felelős miniszter feladatkörébe tartozó egyes területrendezési feladatokat az állami főépítészek látják el.
 
 (2) Az állami főépítész
 
@@ -692,7 +705,7 @@ rendszere.
 
 (4) A területfejlesztési és ágazati programok, valamint a településrendezési tervek készítése, egyeztetése és elfogadása során figyelembe kell venni az országos, regionális és megyei területrendezési tervben foglaltakat.
 
-(5) A jóváhagyott országos és térségi területrendezési tervek kapcsán felmerülő kártalanítások tekintetében a külön jogszabályban előírtak szerinti eljárásban a Magyar Államot a regionális fejlesztésért és felzárkóztatásért felelős miniszter képviseli.
+(5)
 
 (6) A területrendezési terv (3) bekezdés c) pontjában meghatározott feladatainak tartalmaznia kell a fenntartható fejlődés, a környezeti elemekkel való gazdálkodás és a környezet minőségének térségi szempontjait.
 
@@ -729,17 +742,17 @@ rendszere.
 
 23/C. § (1) A kiemelt térség és a megye területrendezési tervét (a továbbiakban együtt: tervjavaslatot) egyeztetni kell a külön jogszabályban meghatározott államigazgatási, önkormányzati és érdekképviseleti szervekkel, valamint az érdekelt társadalmi szervezetekkel. A véleményezésre legalább két hónap határidőt kell biztosítani.
 
-(2) Határ menti térségek esetében az egyeztetésbe a minisztert és – a külpolitikáért felelős miniszter útján – a szomszédos országok területrendezésért felelős szerveit is be kell vonni.
+(2) Határ menti térségek esetében az egyeztetésbe a területrendezésért felelős minisztert és – a külpolitikáért felelős miniszter útján – a szomszédos országok területrendezésért felelős szerveit is be kell vonni.
 
-(3) A 6. § d) pontjában foglalt tervek kivételével a tervjavaslatot és a megyei területrendezési terv elfogadásáról szóló rendelet tervezetet az egyeztetést követően az elfogadott és el nem fogadott vélemények indoklásával együtt állásfoglalásra meg kell küldeni a miniszternek.
+(3) A 6. § d) pontjában foglalt tervek kivételével a tervjavaslatot és a megyei területrendezési terv elfogadásáról szóló rendelettervezetet az egyeztetést követően az elfogadott és el nem fogadott vélemények indoklásával együtt állásfoglalásra meg kell küldeni a területrendezésért felelős miniszternek.
 
 (4) A rendelet tervezethez csatolni kell az állami főépítész nyilatkozatát a megyei területrendezési tervnek az országos és a kiemelt térségi tervekkel való összhangjáról.
 
-(5) A megyei önkormányzat a terv elfogadásáról szóló rendeletét a miniszter állásfoglalásának beszerzését követően fogadhatja el. A miniszter három hónapon belül adhatja ki állásfoglalását, ha e határidőn belül nem nyilatkozik, úgy állásfoglalását egyetértőnek kell tekinteni.
+(5) A megyei önkormányzat a területrendezési tervről szóló rendeletét a területrendezésért felelős miniszter állásfoglalásának beszerzését követően fogadhatja el. A területrendezésért felelős miniszter egy hónapon belül adja ki állásfoglalását, ha e határidőn belül nem nyilatkozik, úgy állásfoglalását egyetértőnek kell tekinteni.
 
-(6) A megyei önkormányzat a terv elfogadásáról szóló rendeletét a kihirdetéstől számított 15 napon belül megküldi a miniszternek.
+(6) A megyei önkormányzat a terv elfogadásáról szóló rendeletét a kihirdetéstől számított 15 napon belül megküldi a területrendezésért felelős miniszternek.
 
-(7) A megyei önkormányzat jegyzője a terv elfogadásáról szóló rendeletet előzményeivel (tervjavaslattal, az elfogadott és el nem fogadott vélemények indoklásával, az állami főépítész szakvéleményével és a miniszter állásfoglalásával) együtt küldi meg a közigazgatási hivatalnak.
+(7) A megyei főjegyző a terv elfogadásáról szóló rendeletet előzményeivel (tervjavaslattal, az elfogadott és el nem fogadott vélemények indoklásával, az állami főépítész szakvéleményével és a területrendezésért felelős miniszter állásfoglalásával) együtt küldi meg a közigazgatási hivatalnak.
 
 23/D. § (1) A területrendezési tervekben nem szereplő, külön jogszabályban meghatározott térségi jelentőségű műszaki infrastruktúrahálózatok és egyedi építmények területi elhelyezéséhez az állami főépítész térségi területfelhasználási engedélye szükséges.
 
@@ -749,7 +762,7 @@ rendszere.
 
 (4) A térségi területfelhasználási engedély kiadása csak akkor tagadható meg, ha a tervezett hálózat vagy építmény nem felel meg az elfogadott országos területrendezési terv előírásainak.
 
-(5) A térségi területfelhasználási engedélykérelmet két hónapon belül el kell bírálni.
+(5) A térségi területfelhasználási engedélykérelmet két hónapon belül kell elbírálni. A (3) bekezdés szerinti eljárás esetében az ügyintézési határidő 22 munkanap.
 
 (6) Az állami főépítész döntése ellen fellebbezésnek nincs helye. A térségi területfelhasználási engedélykérelemről hozott határozat elleni keresetet a Fővárosi Bíróság kizárólagos illetékességgel, soron kívül bírálja el.
 
@@ -767,7 +780,7 @@ rendszere.
 
 (2) A miniszter, a megyei önkormányzat és a megyei jogú város részére az adatgyűjtő és feldolgozó szervezetek külön jogszabály rendelkezései szerint területi bontásban rendszeresen adatot szolgáltatnak.
 
-24/A. § A területfejlesztéssel és a területrendezéssel összefüggésben megőrzendő dokumentumok gyűjtéséről, határozatlan idejű megőrzéséről, nyilvántartásáról és hasznosításáról a miniszter gondoskodik.
+24/A. § A területfejlesztéssel, illetve a területrendezéssel összefüggésben megőrzendő dokumentumok gyűjtéséről, határozatlan idejű megőrzéséről, nyilvántartásáról és hasznosításáról a miniszter, illetve a területrendezésért felelős miniszter gondoskodik.
 
 ### A nyilvánosság és a társadalmi részvétel
 
@@ -808,7 +821,7 @@ rendszere.
 - g) a 20. § (4) bekezdés a) és b) pontjában meghatározott eszközök differenciált területi elosztását, a törvény 6. § e) pontjában szereplő, az Országgyűlés által meghatározott elvek figyelembevételével.
 - h) a területi monitoring rendszer feladat- és hatáskörét, szervezeti és működési rendjét;
 - i) a területfejlesztési önkormányzati társulások működéséhez kapcsolódó költségvetési hozzájárulás mértékét és felhasználásának módját;
-- j)
+- j) a területfejlesztés intézményei törvényességi felügyeletének részletes szabályait;
 - j)
 - k) a területfejlesztést közvetlenül és közvetve szolgáló pénzeszközök koordinációjának a pályázati rendszerre is kiterjedő részletes szabályait;
 - l) a területfejlesztés intézményeinek a fejlesztési elképzelések összegyűjtésével, számbavételével, megvalósításának kidolgozásával, és ezzel kapcsolatos adatszolgáltatás rendjével kapcsolatos feladatait és eljárás rendjét;
@@ -828,7 +841,7 @@ rendszere.
 
 - a)
 - b)–c)
-- d) a tervtanács működésének szabályait.
+- d)
 - e)
 - f) a területfejlesztést közvetlenül vagy közvetve szolgáló források felhasználásáról készülő területi értékelés elkészítésének módszertani szabályait,
 - g) a 12. § (2) bekezdése szerinti adatszolgáltatás szabályait.
@@ -840,3 +853,5 @@ rendszere.
 (5) A miniszter évente, a tárgyévet követő június 15-éig beszámol a Kormánynak a tanácsok működéséről.
 
 (6) Felhatalmazást kap a Kormány, hogy a területrendezési tervezési tevékenység folytatásának részletes feltételeit, e tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben állapítsa meg.
+
+(7) Felhatalmazást kap a területrendezésért felelős miniszter, hogy a tervtanács működésének szabályait rendeletben állapítsa meg.
