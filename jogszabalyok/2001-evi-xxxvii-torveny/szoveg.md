@@ -110,7 +110,7 @@ Az Országgyűlés e célok elérése érdekében a következő törvényt alkot
 - b) testi, érzékszervi, értelmi, beszédfogyatékos, autista, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos,
 - c) pszichés fejlődés zavarai miatt a nevelési, tanulási folyamatban tartósan és súlyosan akadályozott (pl. dyslexia, dysgraphia, dyscalculia, mutizmus, kóros hyperkinetikus vagy kóros aktivitászavar),
 - d) három- vagy többgyermekes családban él,
-- e) nagykorú és saját jogán családi pótlékra jogosult,
+- e) nagykorú és saját jogán iskoláztatási támogatásra jogosult,
 - f) rendszeres gyermekvédelmi kedvezményben részesül
 
 a tankönyvek ingyenesen álljanak rendelkezésre (normatív kedvezmények). A gyermekvédelmi gondoskodásban részesülő – nevelőszülőnél, gyermekotthonban, vagy más bentlakásos intézményben nevelkedő – ideiglenes hatállyal elhelyezett, átmeneti vagy tartós nevelésbe vett tanuló után nem vehető igénybe a normatív kedvezmény.
@@ -119,7 +119,7 @@ Az iskola igazgatója felel a normatív kedvezmények biztosításáért.
 
 (5) Abban a kérdésben, hogy a normatív kedvezményre való jogosultság elbírálásánál kit kell
 
-- a) tartósan beteg, súlyosan fogyatékos, három- vagy többgyermekes családban élő, nagykorú és saját jogán családi pótlékra jogosultnak tekinteni – kivéve, ha a családi pótlékra való jogosultság a legmagasabb életkor elérése miatt szűnt meg – a családok támogatásáról szóló 1998. évi LXXXIV. törvény II. fejezetében,
+- a) tartósan beteg, súlyosan fogyatékos, három- vagy többgyermekes családban élő, nagykorú és saját jogán iskoláztatási támogatásra jogosultnak tekinteni – kivéve, ha az iskoláztatási támogatásra való jogosultság a legmagasabb életkor elérése miatt szűnt meg – a családok támogatásáról szóló 1998. évi LXXXIV. törvény II. fejezetében,
 - b) sajátos nevelési igényűnek tekinteni, a közoktatásról szóló törvény 121. §-a (1) bekezdésének 29. pontjában
 
 foglaltakat kell alkalmazni.

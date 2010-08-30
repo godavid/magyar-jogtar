@@ -76,6 +76,7 @@ ha az e törvényben és más jogszabályban meghatározott feltételek szerint,
 - u) intézmény: az e törvényben meghatározott gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végző szervezet vagy annak szakmailag önálló szervezeti egysége, amely a rá vonatkozó külön jogszabályban foglaltak alapján jön létre, legalább három főt foglalkoztat teljes munkaidőben, és tevékenysége működési engedélyköteles. Ha e törvény másképp nem rendelkezik, az intézmény fogalmát kell megfelelően alkalmazni a helyettes szülői, illetve nevelőszülői hálózatra is,
 - v) működtető: az a természetes személy, jogi személy, illetve ezek jogi személyiség nélküli szervezete, aki, illetve amely a fenntartó által biztosított működési feltételek között a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet szervezi,
 - x) államilag támogatott lakás-előtakarékossági programban való részvétel: a lakástakarékpénztárakról szóló 1996. évi CXIII. törvény szerinti lakás-előtakarékossági szerződés megkötése és teljesítése,
+- y) családi pótlék: a családok támogatásáról szóló 1998. évi LXXXIV. törvény (a továbbiakban: Cst.) 5. §-ának a) pontja szerinti nevelési ellátás és iskoláztatási támogatás,
 - z) rendszeres jövedelem: a legalább három egymást követő hónapban keletkezett jövedelem.
 
 ### II. Fejezet — Alapvető jogok és kötelességek
@@ -784,7 +785,8 @@ alapján.
 - c) az egészségügyi és a szociális ellátás – különösen a családsegítő szolgáltatás –, valamint a hatósági beavatkozás kezdeményezése,
 - d) javaslat készítése a veszélyeztetettség mértékének megfelelően
   - da) a gyermek védelembe vételére, illetve a családi pótlék természetbeni formában történő nyújtására,
-  - db) a gyermek családjából történő kiemelésére, a leendő gondozási helyére vagy annak megváltoztatására.
+  - db) a gyermek tankötelezettsége teljesítésének előmozdítására,
+  - dc) a gyermek családjából történő kiemelésére, a leendő gondozási helyére vagy annak megváltoztatására.
 
 (5) A gyermekjóléti szolgáltatás feladata a családjából kiemelt gyermek visszahelyezése érdekében
 
@@ -799,7 +801,7 @@ alapján.
 
 - a) folyamatosan figyelemmel kíséri a településen élő gyermekek szociális helyzetét, veszélyeztetettségét,
 - b) meghallgatja a gyermek panaszát, és annak orvoslása érdekében megteszi a szükséges intézkedést,
-- c) elkészíti a védelembe vett gyermek gondozási-nevelési tervét, illetve a települési önkormányzat jegyzőjének felkérésére a családi pótlék természetbeni formában történő nyújtásához kapcsolódó pénzfelhasználási tervet,
+- c) elkészíti a védelembe vett gyermek gondozási-nevelési tervét, illetve a települési önkormányzat jegyzőjének megkeresésére a családi pótlék természetbeni formában történő nyújtásához kapcsolódó pénzfelhasználási tervet (a továbbiakban: pénzfelhasználási terv),
 - d) szervezi a – legalább három helyettes szülőt foglalkoztató – helyettes szülői hálózatot, illetve működtetheti azt, vagy önálló helyettes szülőket foglalkoztathat,
 - e) segíti a nevelési-oktatási intézmény gyermekvédelmi feladatának ellátását,
 - f) felkérésre környezettanulmányt készít,
@@ -1457,35 +1459,29 @@ hivatásos nevelőszülői díjnak megfelelő összeg.
 
 (6) A védelembe vétel nem érinti a szülő felügyeleti jogát.
 
-68/A. § (1) Ha a gyermek veszélyeztetettsége elsősorban elhanyagolása miatt áll fenn, és a szülő vagy más törvényes képviselő a gyermek veszélyeztetettségét az alapellátások önkéntes igénybevételével megszüntetni nem tudja, vagy nem akarja, de alaposan feltételezhető, hogy a családi pótlék célzott felhasználásával a gyermek fejlődése a családi környezetben biztosítható, a települési önkormányzat jegyzője – a védelembe vétellel egyidejűleg vagy a gyermek védelembe vételének fennállása során – a családi pótlék gyermek után járó összegének legfeljebb 50%-a erejéig a családi pótlék természetbeni formában történő nyújtásáról határozhat.
+68/A. § (1) A gyermek után járó iskoláztatási támogatás teljes összege folyósításának a Cst. 15. § b) pontjában foglaltak szerinti felfüggesztésével egyidejűleg a települési önkormányzat jegyzője – védelembe nem vett gyermek esetén – elrendeli a gyermek védelembe vételét.
 
-(2) A családi pótlék természetbeni formában történő nyújtása legfeljebb egy év időtartamra, a döntést követő második hónap első napjával kezdődően rendelhető el. A családi pótlék természetbeni formában történő nyújtása az (1) bekezdésben foglalt feltételek fennállása esetén ismételten elrendelhető.
+(2) A települési önkormányzat jegyzője egy határozatban dönt az iskoláztatási támogatás felfüggesztéséről, védelembe nem vett gyermek esetén a védelembe vétel elrendeléséről, az eseti gondnok kirendeléséről és ezzel egyidejűleg az iskoláztatási támogatás összegének a települési önkormányzat részére a kincstárban megnyitott családtámogatási folyószámlára (a továbbiakban: családtámogatási folyószámla) történő utalásáról.
+
+(3) Felhatalmazást kap a Kormány, hogy a (2) bekezdés szerinti családtámogatási folyószámlán rendelkezésre álló összeg felhasználását rendeletben szabályozza.
+
+68/B. § (1) A települési önkormányzat jegyzője – a 68/A. § szerinti esetet kivéve –
+
+- a) ha a gyermek veszélyeztetettsége elsősorban elhanyagolása miatt áll fenn, és
+- b) a szülő vagy más törvényes képviselő a gyermek veszélyeztetettségét az alapellátások önkéntes igénybevételével megszüntetni nem tudja vagy nem akarja, és
+- c) alappal feltételezhető, hogy a családi pótlék célzott felhasználásával a gyermek fejlődése a családi környezetben biztosítható, a védelembe vétellel egyidejűleg vagy a gyermek védelembe vételének fennállása során – a családi pótlék gyermek után járó összegének 100%-a erejéig – a családi pótlék természetbeni formában történő nyújtásáról határozhat.
+
+(2) A családi pótlék természetbeni formában történő nyújtása legfeljebb hat hónap időtartamra, a döntést követő második hónap első napjával kezdődően rendelhető el. A családi pótlék természetbeni formában történő nyújtása a feltételek fennállása esetén ismételten elrendelhető.
 
 (3) Ha a védelembe vétel során felmerül a családi pótlék természetbeni formában történő nyújtásának szükségessége, ennek megvizsgálása érdekében a települési önkormányzat jegyzője megkeresi a gyermekjóléti szolgálatot. A gyermekjóléti szolgálat a megkereséstől számított 10 munkanapon belül tájékoztatja a települési önkormányzat jegyzőjét vizsgálatának eredményéről, és szükség szerint javaslatot tesz a családi pótlék természetbeni formában történő nyújtására. Nem kell megkeresni a gyermekjóléti szolgálatot, ha a gyermekjóléti szolgálat kezdeményezte a családi pótlék természetbeni formában történő nyújtását.
 
 (4) Ha a védelembe vétel során a családi pótlék természetbeni formában történő nyújtása válik szükségessé, a települési önkormányzat jegyzője – a gyermeket gondozó szülő, illetve a korlátozottan cselekvőképes gyermek meghallgatását követően, véleményük figyelembevételével, továbbá a gyermekjóléti szolgálat és szükség szerint a 17. § (1) bekezdése szerinti jelzőrendszer tagjai javaslatának figyelembevételével – gondoskodik a családi pótlék természetbeni formában történő nyújtásához kapcsolódó pénzfelhasználási terv elkészítéséről.
 
-(5) A pénzfelhasználási terv figyelembevételével a települési önkormányzat jegyzője dönt a családi pótlék természetbeni formában történő nyújtásának mértékéről, időtartamáról és módjáról, így a természetben nyújtott családi pótlék meghatározott összegének a családi pótlék természetbeni formában történő nyújtását elrendelő települési önkormányzat részére a kincstárban megnyitott családtámogatási folyószámlára (a továbbiakban: családtámogatási folyószámla) utalásáról és ezzel egyidejűleg eseti gondnok kirendeléséről.
+(5) A pénzfelhasználási terv figyelembevételével a települési önkormányzat jegyzője egy határozatban dönt a családi pótlék természetbeni formában történő nyújtásáról, annak mértékéről, időtartamáról és módjáról, védelembe nem vett gyermek esetén a védelembe vétel elrendeléséről, az eseti gondnok kirendeléséről, és ezzel egyidejűleg a természetben nyújtott családi pótlék meghatározott összegének a családtámogatási folyószámlára történő utalásáról.
 
-(6) A települési önkormányzat jegyzője a családi pótlék meghatározott mértékének természetbeni formában történő nyújtásáról szóló rendelkezését és az eseti gondnok kirendelését, valamint védelembe nem vett gyermek esetén a védelembe vétel elrendelését egy határozatba foglalja.
+68/C. § (1) A települési önkormányzat jegyzője a 68/A. § (2) bekezdése és a 68/B. § (5) bekezdése szerinti határozatában a gyermek részére – figyelemmel korára, egyéni szükségleteire és az ítélőképessége birtokában lévő gyermek véleményére – eseti gondnokot rendel ki.
 
-68/B. § (1) A települési önkormányzat jegyzője a gyermek részére – figyelemmel korára, egyéni szükségleteire és az ítélőképessége birtokában lévő gyermek véleményére – eseti gondnokot rendel ki.
-
-(2) A kirendelt eseti gondnok folyamatosan gondoskodik a családtámogatási folyószámlára átutalt családi pótléknak a gyermek szükségleteire történő felhasználásáról, így különösen ruházat, tanszer, élelmiszer, tápszer, gyógyszer, gyógyászati segédeszköz, tanulóbérlet és a gyermek korának megfelelő készségfejlesztő eszközök természetbeni biztosításáról.
-
-(3) Egy eseti gondnok egyidejűleg legfeljebb tíz gyermek vonatkozásában gondoskodhat a családi pótlék természetbeni formában történő biztosításáról.
-
-(4) A kirendelt eseti gondnok az adott hónapra a családtámogatási folyószámlára átutalt családi pótlék felhasználásáról gyermekenként a következő hónap ötödik napjáig elszámol a települési önkormányzat jegyzőjének.
-
-68/C. § (1) A települési önkormányzat jegyzője a családi pótlék természetbeni formában történő nyújtásának indokoltságát szükség szerint, de legalább félévente felülvizsgálja.
-
-(2) A települési önkormányzat jegyzője a felülvizsgálat eredményeként dönthet
-
-- a) a családi pótlék természetbeni formában – változatlan időtartamban, mértékben és módon – történő további nyújtásáról,
-- b) a családi pótlék természetbeni formában történő nyújtása időtartamának, mértékének és módjának megváltoztatásáról,
-- c) a családi pótlék természetbeni formában történő nyújtásának megszüntetéséről, ha az intézkedés fenntartása a továbbiakban nem indokolt.
-
-(3) A családi pótlék természetbeni formában történő nyújtásának megszüntetésével egyidejűleg a települési önkormányzat jegyzője szükség szerint dönt a védelembe vétel megszüntetéséről.
+(2) Egy eseti gondnok egyidejűleg legfeljebb tíz gyermek vonatkozásában gondoskodhat a családi pótlék természetbeni formában történő biztosításáról.
 
 69. § (1) A védelembe vételt meg kell szüntetni, ha
 
@@ -1795,7 +1791,7 @@ hozzájárulhat ahhoz, hogy a szülő egészségi állapota, indokolt távollét
 
 (3) A gyám kötelessége az otthonteremtési támogatás, valamint az utógondozói ellátás iránti igény benyújtásának figyelemmel kísérése és segítése.
 
-(4) A gyámhivatal a gyermek vagy a gyám kérésére, továbbá hivatalból eseti gondnokot rendel ki a gyermek képviseletének ellátására, ha a gyám, mint törvényes képviselő, a gyermeket a Csjt. szerint nem képviselheti, vagy ha a különleges szakértelmet igénylő ügyekben a gyám nem vállalkozik a gyermek képviseletének ellátására. Nem minősül különleges szakértelmet igénylő ügynek a gyermeket megillető családi pótlék, iskoláztatási támogatás, illetve árvaellátás igénylése, valamint annak gyámhatósági betétben való elhelyezése és kezelése.
+(4) A gyámhivatal a gyermek vagy a gyám kérésére, továbbá hivatalból eseti gondnokot rendel ki a gyermek képviseletének ellátására, ha a gyám, mint törvényes képviselő, a gyermeket a Csjt. szerint nem képviselheti, vagy ha a különleges szakértelmet igénylő ügyekben a gyám nem vállalkozik a gyermek képviseletének ellátására. Nem minősül különleges szakértelmet igénylő ügynek a gyermeket megillető családi pótlék, illetve árvaellátás igénylése, valamint annak gyámhatósági betétben való elhelyezése és kezelése.
 
 (5) A gyámhivatal a (4) bekezdésben foglalt eseti gondnokot elsősorban a területi gyermekvédelmi szakszolgálatnak, illetve – ha a gyermekotthont vagy nevelőszülői hálózatot nem állami szerv tartja fenn, illetve működteti – a működtetőnek ezzel a munkakörrel megbízott munkatársai közül jelöli ki.
 
