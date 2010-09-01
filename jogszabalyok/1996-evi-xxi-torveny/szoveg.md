@@ -225,7 +225,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 (3) A kistérségi fejlesztési tanács székhelye a kistérség külön jogszabályban megállapított székhely települése.
 
-(4) A kistérségi fejlesztési tanácsok felett a Kormány általános hatáskörű területi államigazgatási szerve a 16. § (11)–(16) bekezdései szerint törvényességi felügyeletet gyakorol. A 10/E. § (4) bekezdésében meghatározott kistérség esetében a közigazgatási hivatal törvényességi ellenőrzést gyakorol.
+(4) A kistérségi fejlesztési tanácsok felett a közigazgatási hivatal a 16. § (11)–(16) bekezdései szerint törvényességi felügyeletet gyakorol. A 10/E. § (4) bekezdésében meghatározott kistérség esetében a közigazgatási hivatal törvényességi ellenőrzést gyakorol.
 
 10/B. § A települési önkormányzat képviselőtestülete kezdeményezheti a település másik kistérségbe történő átsorolását.
 
@@ -261,7 +261,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
   - bc) a megyei munkaügyi tanácsba delegálási joggal rendelkező munkaadói és munkavállalói szervezetek egy-egy kistérségi illetékességű képviselője,
   - bd) az iparosok és kiskereskedők országos szakmai érdekvédelmi szervezeteinek egy kistérségi illetékességű képviselője,
   - be) a társadalmi szervezetek fóruma által delegált, a civil szervezetek egy képviselője,
-  - bf) a Kormány általános hatáskörű területi államigazgatási szerve képviselője,
+  - bf) a közigazgatási hivatal képviselője,
   - bg) a kincstár képviselője;
 - c) meghívottként az e szervezeteket (személyeket) érintő napirendek tárgyalásán tanácskozási joggal vesznek részt mindazon gazdasági, társadalmi és egyéb szervezetek képviselői, amelyeket a kistérségi fejlesztési tanács döntése közvetlenül érint vagy amelyeket (akit) az ülésen való részvételre felkérnek. A kistérségi fejlesztési tanács a szervezeti és működési szabályzatában szabályozhatja a kisebbségi önkormányzatok részvételét a tanács munkájában.
 
@@ -313,7 +313,7 @@ rendszeresen, de évente legalább egyszer köteles beszámolni.
 
 10/G. § (1) Azokban a kistérségekben, ahol a kistérség valamennyi települési önkormányzatának részvételével külön jogszabályban meghatározott többcélú kistérségi társulás működik, a kistérségi fejlesztési tanács feladatait a többcélú kistérségi társulás láthatja el az e törvényben meghatározott feladat- és hatáskör, továbbá eljárási szabályok értelemszerű alkalmazásával.
 
-(2) Az (1) bekezdésben meghatározott többcélú kistérségi társulás működésének megszűnése esetén, illetve ha a társulásban már nem valamennyi települési önkormányzat vesz részt, a Kormány általános hatáskörű területi államigazgatási szerve a társulás megszűnésétől, illetve a társulás tagjának a társulásból való kilépésétől számított 30 napon belüli időre kezdeményezi a kistérségi fejlesztési tanács megalakulás céljából történő összehívását.
+(2) Az (1) bekezdésben meghatározott többcélú kistérségi társulás működésének megszűnése esetén, illetve ha a társulásban már nem valamennyi települési önkormányzat vesz részt, a közigazgatási hivatal a társulás megszűnésétől, illetve a társulás tagjának a társulásból való kilépésétől számított 30 napon belüli időre kezdeményezi a kistérségi fejlesztési tanács megalakulás céljából történő összehívását.
 
 (3) Ahol e törvény kistérségi fejlesztési tanácsot említ, azon többcélú kistérségi társulást is érteni kell, feltéve ha e társulásnak a kistérséghez tartozó valamennyi települési önkormányzat tagja, és a társulás e törvényben meghatározott területfejlesztési feladatokat és hatásköröket valamennyi önkormányzat illetékességi területén ellátja, illetve gyakorolja.
 
@@ -353,7 +353,7 @@ rendszeresen, de évente legalább egyszer köteles beszámolni.
 
 (6) A megyei területfejlesztési tanács foglalkoztatáspolitikával kapcsolatos feladatait a Megyei Munkaügyi Tanáccsal összehangoltan látja el.
 
-(7) A megyei fejlesztési tanács működésének törvényességi felügyeletét a 16. § (11)–(16) bekezdéseiben foglaltaknak megfelelően a Kormány általános hatáskörű területi államigazgatási szerve látja el.
+(7) A megyei fejlesztési tanács működésének törvényességi felügyeletét a 16. § (11)–(16) bekezdéseiben foglaltaknak megfelelően a közigazgatási hivatal látja el.
 
 (8)–(14)
 
@@ -436,7 +436,7 @@ rendszeresen, de évente legalább egyszer köteles beszámolni.
 
 (10) A térségi fejlesztési tanács felkérhet a tanács munkájában való részvételre egyéb szervezeteket, személyeket is, de ezek létszáma a (8) bekezdés szerinti létszám egyharmadát nem haladhatja meg.
 
-(11) A térségi fejlesztési tanács ülésein állandó meghívottként részt vesz a területi gazdasági kamarák, kamaránként egy-egy képviselője, a Kormány általános hatáskörű területi államigazgatási szervének a vezetője, az állami főépítész, valamint mindazon gazdasági, társadalmi és egyéb szervezetek képviselői, amelyeket a megyei területfejlesztési tanács döntése közvetlenül érint vagy akit az ülésen való részvételre felkérnek.
+(11) A térségi fejlesztési tanács ülésein állandó meghívottként részt vesz a területi gazdasági kamarák, kamaránként egy-egy képviselője, a közigazgatási hivatal vezetője, az állami főépítész, valamint mindazon gazdasági, társadalmi és egyéb szervezetek képviselői, amelyeket a megyei területfejlesztési tanács döntése közvetlenül érint vagy akit az ülésen való részvételre felkérnek.
 
 (12) A kistérségi fejlesztési tanács illetékes képviselői a területüket érintő fejlesztési programok tárgyalása során a térségi fejlesztési tanácsban szavazati joggal vehetnek részt.
 
@@ -444,7 +444,7 @@ rendszeresen, de évente legalább egyszer köteles beszámolni.
 
 (14) A Balaton Fejlesztési Tanács dönt a hatáskörébe utalt pénzeszközök felhasználásáról, és megállapodást köthet az érintett tárcákkal az egyes fejlesztési programok finanszírozásáról.
 
-(15) A térségi fejlesztési tanács működésének törvényességi felügyeletét a 16. § (11)–(16) bekezdéseiben foglaltaknak megfelelően a Kormány általános hatáskörű területi államigazgatási szerve látja el.
+(15) A térségi fejlesztési tanács működésének törvényességi felügyeletét a 16. § (11)–(16) bekezdéseiben foglaltaknak megfelelően a közigazgatási hivatal látja el.
 
 15/A. § (1) A főváros területén – a kerületi önkormányzatok hatáskörébe tartozó fejlesztési feladatok kivételével – a megyei területfejlesztési-, illetve kistérségi fejlesztési tanácsok e törvény szerinti feladatait a Fővárosi Önkormányzat Közgyűlése látja el.
 
@@ -476,13 +476,13 @@ rendszeresen, de évente legalább egyszer köteles beszámolni.
 
 (9) A térségi fejlesztési tanács felkérhet a tanács munkájában való részvételre egyéb szervezeteket, személyeket is, de ezek létszáma a (7) bekezdés szerinti létszám egyharmadát nem haladhatja meg.
 
-(10) A térségi fejlesztési tanács ülésein állandó meghívottként részt vesz a kormányzati területfejlesztési feladatokért felelős szerv képviselője, a Kormány általános hatáskörű területi államigazgatási szervének a vezetője, az állami főépítész, a gazdasági kamarák kamaránként egy-egy képviselője, valamint mindazon gazdasági, társadalmi és egyéb szervezetek képviselői, amelyeket a térségi területfejlesztési tanács döntése közvetlenül érint vagy akit az ülésen való részvételre felkérnek.
+(10) A térségi fejlesztési tanács ülésein állandó meghívottként részt vesz a kormányzati területfejlesztési feladatokért felelős szerv képviselője, a közigazgatási hivatal vezetője, az állami főépítész, a gazdasági kamarák kamaránként egy-egy képviselője, valamint mindazon gazdasági, társadalmi és egyéb szervezetek képviselői, amelyeket a térségi területfejlesztési tanács döntése közvetlenül érint vagy akit az ülésen való részvételre felkérnek.
 
 (11) A kistérségi fejlesztési tanácsok képviselője és a kerületi polgármester a területüket érintő fejlesztési programok tárgyalása során a térségi fejlesztési tanácsban tanácskozási joggal részt vehetnek.
 
 (12) A térségi fejlesztési tanács a tagjai sorából elnököt és alelnököt (alelnököket) választ. Munkaszervezetét – a 12. § (4) bekezdésben foglaltak figyelembevételével – maga alakítja ki.
 
-(13) A térségi fejlesztési tanács működésének törvényességi felügyeletét a 16. § (11)–(16) bekezdéseiben foglaltaknak megfelelően a Kormány általános hatáskörű területi államigazgatási szerve látja el.
+(13) A térségi fejlesztési tanács működésének törvényességi felügyeletét a 16. § (11)–(16) bekezdéseiben foglaltaknak megfelelően a közigazgatási hivatal látja el.
 
 (14) A főpolgármester és a főváros körül elterülő régió regionális fejlesztési tanácsának elnöke egyetértési jogot gyakorol a tanács döntései tekintetében.
 
@@ -514,29 +514,29 @@ rendszeresen, de évente legalább egyszer köteles beszámolni.
 
 (9) A tanács döntéseinek előkészítése, végrehajtásának szervezése, ellenőrzése érdekében a szervezeti és működési szabályzatban meghatározott bizottságokat hozhat létre. A tanács döntési jogkört nem ruházhat át bizottságára.
 
-(10) A regionális fejlesztési tanács működésének törvényességi felügyeletét a Kormány általános hatáskörű területi államigazgatási szerve látja el.
+(10) A regionális fejlesztési tanács működésének törvényességi felügyeletét a közigazgatási hivatal látja el.
 
-(11) A Kormány általános hatáskörű területi államigazgatási szerve a törvényességi felügyelet keretében ellenőrzi, hogy a regionális fejlesztési tanács
+(11) A közigazgatási hivatal a törvényességi felügyelet keretében ellenőrzi, hogy a regionális fejlesztési tanács
 
 - a) szervezeti és működési szabályzata és egyéb szabályzatai megfelelnek-e a jogszabályoknak,
 - b) szervezete, működése, döntéshozatali eljárása, határozatai, illetve egyéb döntései nem sértenek-e jogszabályokat, az alapszabályt vagy egyéb szabályzatokat.
 
-(12) Jogszabálysértés esetén a Kormány általános hatáskörű területi államigazgatási szerve határidő kitűzésével felhívja a regionális területfejlesztési tanácsot a jogszabálysértés megszüntetésére. A regionális fejlesztési tanács a megadott határidőn belül köteles tájékoztatni a Kormány általános hatáskörű területi államigazgatási szervét a jogszabálysértés megszüntetésére tett intézkedésekről.
+(12) Jogszabálysértés esetén a közigazgatási hivatal határidő kitűzésével felhívja a regionális területfejlesztési tanácsot a jogszabálysértés megszüntetésére. A regionális fejlesztési tanács a megadott határidőn belül köteles tájékoztatni a közigazgatási hivatalt a jogszabálysértés megszüntetésére tett intézkedésekről.
 
-(13) Ha a regionális fejlesztési tanács határidőn belül nem intézkedik a jogszabálysértés megszüntetése érdekében, vagy a regionális területfejlesztési tanács elutasítja a Kormány általános hatáskörű területi államigazgatási szerve felhívását, illetve nem dönt a felhívás tárgyában, a Kormány általános hatáskörű területi államigazgatási szerve
+(13) Ha a regionális fejlesztési tanács határidőn belül nem intézkedik a jogszabálysértés megszüntetése érdekében, vagy a regionális területfejlesztési tanács elutasítja a közigazgatási hivatal felhívását, illetve nem dönt a felhívás tárgyában, a közigazgatási hivatal
 
 - a) keresettel fordul a bírósághoz a határozat, illetve egyéb döntése egészben vagy részben történő megsemmisítése iránt, továbbá a jogszabálysértő határozat, illetve egyéb döntés végrehajtását – ha az a közérdek súlyos sérelmével vagy elháríthatatlan kárral járna – felfüggeszti, illetőleg
 - b) ismételt vagy súlyos jogszabálysértés esetén a regionális területfejlesztési tanács törvényes működésének helyreállítása érdekében a tanács, annak szerve vagy tisztségviselője működését felfüggeszti, és felügyelőbiztost rendel ki a regionális területfejlesztési tanács törvényes működésének helyreállítására,
 - c) felügyelő biztost rendel ki, ha a regionális fejlesztési tanács adósságállománya eléri a külön törvényben az önkormányzati biztos kijelöléséhez szükséges mértéket. A felügyelő biztos feladatára és eljárására az önkormányzati biztosra vonatkozó rendelkezések irányadók.
 
-(14) A Kormány általános hatáskörű területi államigazgatási szervének a (13) bekezdés b) pontja alapján hozott intézkedése ellen annak megváltoztatása iránt a felfüggesztéssel érintett keresettel fordulhat a bírósághoz.
+(14) A közigazgatási hivatalnak a (13) bekezdés b) pontja alapján hozott intézkedése ellen annak megváltoztatása iránt a felfüggesztéssel érintett keresettel fordulhat a bírósághoz.
 
 (15) A bíróság a (13) bekezdés a) pontjában és a (14) bekezdésben említett perben a közigazgatási perekre irányadó szabályok szerint jár el. Ha a bíróság az eljárás eredményeként a jogszabálysértést megállapítja,
 
 - a) a jogsértő szervezeti és működési szabályzatot, egyéb szabályzatot, határozatot megsemmisíti, és új eljárás lefolytatását rendeli el, illetőleg
 - b) a működés törvényességének helyreállítása céljából elrendelheti a jogszabálysértően működő szerv, tisztségviselő választására jogosult szerv összehívását.
 
-(16) A felügyelőbiztos a tevékenységéről és annak eredményéről tájékoztatja a bíróságot és a Kormány általános hatáskörű területi államigazgatási szervét.
+(16) A felügyelőbiztos a tevékenységéről és annak eredményéről tájékoztatja a bíróságot és a közigazgatási hivatalt.
 
 17. § (1) A regionális fejlesztési tanács feladatainak ellátásában együttműködik a kistérségi fejlesztési tanácsokkal, a megyei területfejlesztési tanácsokkal, a térségi fejlesztési tanáccsal, a régió fejlesztésében közvetlenül és közvetve közreműködő területi államigazgatási szervekkel, a területi gazdasági kamarákkal, továbbá a régió területén működő társadalmi szervezetekkel.
 
@@ -826,7 +826,7 @@ rendszere.
 - k) a területfejlesztést közvetlenül és közvetve szolgáló pénzeszközök koordinációjának a pályázati rendszerre is kiterjedő részletes szabályait;
 - l) a területfejlesztés intézményeinek a fejlesztési elképzelések összegyűjtésével, számbavételével, megvalósításának kidolgozásával, és ezzel kapcsolatos adatszolgáltatás rendjével kapcsolatos feladatait és eljárás rendjét;
 - m) a kistérségi fejlesztési tanácsok szakmai munkaszervezetei (szolgáltató irodák) létrehozásának, valamint működésének részletes szabályait;
-- n) a Kormány általános hatáskörű területi államigazgatási szervének a kistérségi fejlesztési tanácsok és a Budapesti Agglomerációs Fejlesztési Tanács létrehozásával és a térségi fejlesztési tanács átalakulásával kapcsolatos feladatait, a megalakulással és átalakulással kapcsolatos eljárás rendjét, továbbá az egyeztető fórumok létrejöttének és működésének szabályait;
+- n) a közigazgatási hivataloknak a kistérségi fejlesztési tanácsok és a Budapesti Agglomerációs Fejlesztési Tanács létrehozásával és a térségi fejlesztési tanács átalakulásával kapcsolatos feladatait, a megalakulással és átalakulással kapcsolatos eljárás rendjét, továbbá az egyeztető fórumok létrejöttének és működésének szabályait;
 - o) a regionális fejlesztési tanácsokkal a régió társadalmi, gazdasági fejlesztése érdekében kötendő megállapodások részletes szabályait;
 - p) a területi (környezeti, társadalmi és gazdasági) hatásvizsgálat-köteles eljárások körét, a területi hatásvizsgálat készítésének eljárási szabályait és tartalmi követelményeit;
 - q) az országos és a térségi műszaki infrastruktúrahálózatoknak a területrendezési tervek szerkezeti tervében ábrázolt nyomvonalától való kivételes eltérésre vonatkozó területrendezési hatósági eljárás részletes szabályait;

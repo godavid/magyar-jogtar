@@ -179,7 +179,7 @@ teljesíti;
 - c) előterjeszti a kormányhoz az adóigazgatás szervezeti rendszerére vonatkozó jogszabályok tervezetét, indítványozza a szervezeti változtatásokat, koordinálja a szervezeti rendszer egyes elemeinek együttműködését, kezdeményezi az ezekre vonatkozó jogszabályok megalkotását,
 - d) a törvényesség és szakszerűség ellenőrzése érdekében az adóhatóságok vezetőitől jelentéseket, beszámolókat kérhet, bármely adózó ügyéről tájékoztatást kérhet,
 - e) meghatározza az állami adóhatóság és a vámhatóság feladatai teljesítésének éves követelményeit,
-- f) adóügyben megváltoztatja, megsemmisíti az állami adóhatóság vezetőjének, a vámhatóság vezetőjének és a Kormány általános hatáskörű területi államigazgatási szerve jogszabálysértő határozatát (végzését), illetőleg a határozat, végzés meghozatalának törvénysértő mulasztása esetén az eljárás lefolytatására utasítja,
+- f) adóügyben megváltoztatja, megsemmisíti az állami adóhatóság vezetőjének, a vámhatóság vezetőjének és a közigazgatási hivatal jogszabálysértő határozatát (végzését), illetőleg a határozat, végzés meghozatalának törvénysértő mulasztása esetén az eljárás lefolytatására utasítja,
 - g) az állami adóhatóság vezetőjének különösen az adóztatás működési feltételeinek kialakítása, szakszerű működtetése tekintetében iránymutatást, szükség esetén utasítást ad.
 
 (2) Az adópolitikáért felelős miniszter az (1) bekezdés c), e) pontjában meghatározott hatáskörét nem ruházhatja át.
@@ -1902,9 +1902,9 @@ ezek hiányában a forgalmi érték vagy az árképzési szabályok szerint kalk
 
 (4) Ha a felülellenőrzés alkalmával a felettes adóhatóság, illetve az önkormányzat által kijelölt bizottság a korábbi ellenőrzés által feltárt tényekhez, adatokhoz, körülményekhez, minősítéshez képest eltérést állapít meg, és ez az adófizetési kötelezettséget érinti, a felülellenőrzést lefolytató adóhatóság, illetve az önkormányzat képviselő-testülete által kijelölt bizottság elnöke a korábbi ellenőrzés alapján hozott határozatot megváltoztatja, határozat hiányában elsőfokú határozatot hoz.
 
-(5) A felülellenőrzés megállapításairól hozott határozat ellen az állami adóhatóság vezetőjéhez, a vámhatóság vezetőjéhez, illetőleg a Kormány általános hatáskörű területi államigazgatási szervéhez intézett, de az eljáró másodfokú szervnél, illetve az önkormányzat képviselő-testülete által kijelölt bizottság elnökéhez benyújtott fellebbezésnek van helye.
+(5) A felülellenőrzés megállapításairól hozott határozat ellen az állami adóhatóság vezetőjéhez, a vámhatóság vezetőjéhez, illetőleg a közigazgatási hivatalhoz intézett, de az eljáró másodfokú szervnél, illetve az önkormányzat képviselő-testülete által kijelölt bizottság elnökéhez benyújtott fellebbezésnek van helye.
 
-(6) Az állami adóhatóság vezetőjének, a vámhatóság vezetőjének, illetve a Kormány általános hatáskörű területi államigazgatási szervének a határozata törvénysértésre hivatkozással a bíróság előtt keresettel támadható meg.
+(6) Az állami adóhatóság vezetőjének, a vámhatóság vezetőjének, illetve a közigazgatási hivatalnak határozata törvénysértésre hivatkozással a bíróság előtt keresettel támadható meg.
 
 ### Állami garancia beváltásához kapcsolódó ellenőrzés
 

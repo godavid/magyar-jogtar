@@ -566,7 +566,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 ### A fővárosi településrendezés szabályai
 
-63/C. § (1) A közgyűlés a főváros egységes településpolitikájának biztosítása érdekében — a Kormány és a kerületi képviselő-testületek véleményének kikérésével — meghatározza a főváros általános rendezési tervét, a főváros városfejlesztési és városrehabilitációs programját. A főváros általános rendezési tervében kijelölhető a főváros több kerületének ellátását biztosító közszolgáltatás területe, létesítmény helyszíne, nyomvonalai. Az ilyen kijelölt területeken, nyomvonalakon, illetve a közszolgáltatást nyújtó létesítmények tekintetében a jegyzői hatáskört a Kormány általános hatáskörű területi államigazgatási szerve gyakorolja.
+63/C. § (1) A közgyűlés a főváros egységes településpolitikájának biztosítása érdekében — a Kormány és a kerületi képviselő-testületek véleményének kikérésével — meghatározza a főváros általános rendezési tervét, a főváros városfejlesztési és városrehabilitációs programját. A főváros általános rendezési tervében kijelölhető a főváros több kerületének ellátását biztosító közszolgáltatás területe, létesítmény helyszíne, nyomvonalai. Az ilyen kijelölt területeken, nyomvonalakon, illetve a közszolgáltatást nyújtó létesítmények tekintetében a jegyzői hatáskört a közigazgatási hivatal gyakorolja.
 
 (2) A kerületi képviselő-testület — a főváros általános rendezési terve szerint, annak keretei között — a kerület egészére meghatározza a kerület részletes fejlesztési programját, a kerületi alaptervet, a kerület részletes rendezési tervét és azok szabályozási előírásait.
 
@@ -1013,7 +1013,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 ### A közigazgatási hivatal
 
-98. § (1) A közigazgatási hivatal működésének költségeit az Országgyűlés a költségvetési törvény ,,helyi önkormányzatokért felelős miniszter'' fejezetében, elkülönítetten biztosítja.
+98. § (1) A fővárosi, megyei közigazgatási hivatal (a továbbiakban: közigazgatási hivatal) államigazgatási feladatokat ellátó költségvetési szerv, amelyet a Kormány által rendeletben kijelölt miniszter irányít. A közigazgatási hivatal működésének költségeit az Országgyűlés a költségvetési törvénynek a közigazgatási hivatalok irányítására kijelölt miniszter fejezetében, elkülönítetten biztosítja.
 
 (2) A közigazgatási hivatal
 
@@ -1048,7 +1048,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 (3) A jogszabálysértés megszüntetésére a pert a helyi önkormányzat, illetve a polgármester ellen a megadott határidő lejártától számított harminc napon belül lehet megindítani. A kereset benyújtásának a döntés végrehajtására halasztó hatálya nincs, de a végrehajtás felfüggesztését a bíróságtól lehet kérni. Ha a jogszabálysértő döntés végrehajtása a közérdek súlyos sérelmével vagy elháríthatatlan kárral járna, a végrehajtás felfüggesztését — az érintett egyidejű értesítésével — kérni kell a bíróságtól.
 
-100. §
+100. § Felhatalmazást kap a Kormány, hogy a közigazgatási hivatalok működésének részletes szabályait rendeletben határozza meg.
 
 ### A felterjesztési jog
 

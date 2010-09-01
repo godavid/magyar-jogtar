@@ -2468,7 +2468,7 @@ kezdődik.
 
 192/B. § (1) A 189. §-ban, a 190. § (1) és (3)–(4) bekezdésében, valamint a 192/A. §-ban foglalt rendelkezésektől érvényesen eltérni nem lehet.
 
-(2) A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) hatálya alá tartozó munkáltatónál a Kjt. 22/B. §-a szerinti magasabb vezetői munkakört betöltő munkaviszonya csak pályázat alapján létesíthető. A pályázatra megfelelően alkalmazni kell a Kjt. 20/A–20/B. §-át.
+(2) A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) hatálya alá tartozó munkáltatónál a Kjt. 22/B. §-a szerinti magasabb vezetői munkakört betöltő munkaviszonya csak pályázat alapján létesíthető. A pályázatra megfelelően alkalmazni kell a Kjt. 20/A–20/B. §-át. A magasabb vezetői munkakört betöltő munkavállaló tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi munkabére nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
 ### X/A. Fejezet — A távmunkavégzés
 
@@ -2852,7 +2852,7 @@ Alulírott ............. (név, lakcím) e nyilatkozattal kötelezem magamat, ho
 
 193/U. § A munkavállaló nem lehet helyi önkormányzati képviselő annál az önkormányzatnál, amely őt alkalmazza.
 
-193/V. §
+193/V. § A munkavállaló tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi munkabére nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
 193/Z. § Felhatalmazást kap a Kormány a közigazgatási szerveknél foglalkoztatott munkavállalók munkaviszonyával összefüggő személyi iratokra és munkaügyi nyilvántartásra vonatkozó részletszabályok megalkotására.
 

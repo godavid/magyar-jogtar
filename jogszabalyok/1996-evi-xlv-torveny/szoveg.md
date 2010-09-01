@@ -16,7 +16,7 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 (2) A külföldi hallgató jogállására a 15. § (2) bekezdésének c) pontja szerinti polgári hallgatóra vonatkozó szabályokat kell alkalmazni, ha jogszabály vagy a képzésről szóló megállapodás másképp nem rendelkezik.
 
-(3) E törvény rendelkezéseit megfelelően alkalmazni kell a katonai szakképzésben részt vevő tényleges állományú hallgatókra is.
+(3) E törvény rendelkezéseit megfelelően alkalmazni kell a katonai szakképzésben részt vevő tényleges állományú hallgatókra is. A katonai szakképzésben részt vevő tényleges állományú hallgató gyakorlási célú szolgálatot teljesíthet, valamint honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény (a továbbiakban: Hvt.) 70. § (1) bekezdés h) pontjában meghatározott feladatok ellátására a Melléklet V. pontja szerinti díjazással kirendelhető.
 
 ### Értelmező rendelkezések
 
@@ -121,7 +121,7 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 (2) Az Ftv. 39. § (4) bekezdése szerinti hallgató e törvény alkalmazása során
 
-- a) ösztöndíjas hallgató: ha a felvételt nyert nappali tagozatos személy a katonai felsőoktatási intézményben a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény (a továbbiakban: Hvt.) 80. § (1) bekezdés d) pontja szerint a honvédelemért felelős miniszter által vezetett minisztériummal kötött ösztöndíj szerződés alapján a Honvédség tényleges állományú tagjaként vagy a Rendőrtiszti Főiskolán valamely fegyveres szervvel kötött ösztöndíjszerződés alapján végzi a tanulmányait,
+- a) ösztöndíjas hallgató: ha a felvételt nyert nappali tagozatos személy a katonai felsőoktatási intézményben a Hvt. 80. § (1) bekezdés d) pontja szerint a honvédelemért felelős miniszter által vezetett minisztériummal kötött ösztöndíj szerződés alapján a Honvédség tényleges állományú tagjaként vagy a Rendőrtiszti Főiskolán valamely fegyveres szervvel kötött ösztöndíjszerződés alapján végzi a tanulmányait,
 - b) kettős jogállású hallgató: ha az intézménybe felvett, a Hszt. vagy a Hjt. szerinti hivatásos vagy szerződéses állomány tagja államilag támogatott képzésben folytat tanulmányokat,
 - c) polgári hallgató: ha nem tartozik az a) és b) pont hatálya alá.
 
@@ -198,11 +198,13 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 (2) Az ösztöndíjas hallgató nem csatlakozhat olyan szervezethez, amelynek szerveződési célja vagy tevékenysége a fegyveres szervek törvényben meghatározott feladataival ellentétes.
 
-(3) A honvédtiszti alapképzésben részt vevő ösztöndíjas hallgató a beiratkozást követően egy félév időtartamban katonai alapfelkészítésen vesz részt, amelynek sikeres teljesítése a felsőfokú alapképzésben való részvétel feltétele. A katonai felsőoktatási intézmény ösztöndíjas hallgatója a 28. § c) pontja szerinti szolgálati feladat ellátására is igénybe vehető, az igénybevétel azonban nem veszélyeztetheti a tanulmányi feladatok elvégzését. A rendvédelmi felsőoktatási intézményben tanuló ösztöndíjas hallgató – az alapképzés, az ügyeleti szolgálatok és a szakmai gyakorlat időtartama, valamint a szükségállapot és rendkívüli állapot kivételével – szolgálati feladat ellátására nem vehető igénybe.
+(3) A honvédtiszti alapképzésben részt vevő ösztöndíjas hallgató a beiratkozást követően egy félév időtartamban katonai alapfelkészítésen veszt részt, amelynek sikeres teljesítése a felsőfokú alapképzésben való részvétel feltétele. A honvédtiszti alapképzésben részt vevő ösztöndíjas hallgató a tanulmányi feladatok elvégzésének veszélyeztetése nélkül a 28. § c) pontja szerinti szolgálati feladat, valamint a Hvt. 70. § (1) bekezdés h) pontjában meghatározott feladatok, továbbá megelőző védelmi helyzetben és rendkívüli állapot idején szolgálati feladat ellátására igénybe vehető. A Hvt. 70. § (1) bekezdés h) pontjában meghatározott igénybevételt a rektor a honvédelemért felelős miniszter arra vonatkozó egyedi döntése alapján határozatban rendeli el.
 
 (4) A katonai felsőoktatási intézmény ösztöndíjas hallgatója a (3) bekezdés szerinti tanulmányokkal összefüggő kiképzést, gyakorlatot, szolgálati igénybevételt a szövetséges, valamint az európai uniós együttműködésre felajánlott katonai szervezetben külföldön is teljesítheti.
 
-(5) A (3) bekezdés szerinti szakmai gyakorlat teljesítése során a Rendőrtiszti Főiskola ösztöndíjas hallgatója önálló hatósági jogkör gyakorlása nélkül, felügyelet mellett, a fegyveres szerv tevékenységére vonatkozó eljárási szabályok szerint köteles a fegyveres szerv szolgálati feladatainak végrehajtásában közreműködni, jogosult bármely cselekménynél jelen lenni, intézkedésben részt venni, részfeladatokat önállóan végrehajtani.
+(5) A rendvédelmi felsőoktatási intézményben tanuló ösztöndíjas hallgató – az alapképzés, az ügyeleti szolgálatok, a szakmai gyakorlat időtartama, katasztrófa megelőzése és következményeinek elhárítása, valamint a szükségállapot és rendkívüli állapot kivételével – szolgálati feladat ellátására nem vehető igénybe. A szakmai gyakorlat teljesítése során az ösztöndíjas hallgató önálló hatósági jogkör gyakorlása nélkül, felügyelet mellett, a fegyveres szerv tevékenységére vonatkozó eljárási szabályok szerint köteles a fegyveres szerv szolgálati feladatainak végrehajtásában közreműködni, jogosult bármely cselekménynél jelen lenni, intézkedésben részt venni, részfeladatokat önállóan végrehajtani.
+
+(6) A (3) és az (5) bekezdés alapján katasztrófavédelmi feladatok ellátásában részt vevő ösztöndíjas hallgató részére a tanulmányi és vizsgaszabályzatban meghatározott módon biztosítani kell a vizsgakötelezettség utólagos teljesítésének lehetőségét.
 
 26. § (1) Az intézmény ösztöndíjas hallgatója külön jogszabály szerint egyenruha vagy formaruha (a továbbiakban együtt: egyenruha) és évfolyamjelzés viselésére köteles.
 
@@ -221,11 +223,11 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 - c) őr-, ügyeleti, készenléti és futárszolgálatot, valamint katonai rendészeti szolgálatot ellátni,
 - d)
 
-29. § A katonai felsőoktatási intézmény ösztöndíjas hallgatójának jogaira és kötelességeire a katonai alapfelkészítés és a szakmai gyakorlat ideje alatt az általa ellátott beosztásnak a Hjt. szerinti szabályai az irányadóak azzal, hogy a hallgató fenyítési és elismerési jogkört nem gyakorolhat, illetményre és egyéb járandóságokra pedig e törvény szabályai alapján jogosult. Az ösztöndíjas hallgató a katonai alapfelkészítés időszakára is jogosult diákigazolvány igénylésére.
+29. § A katonai felsőoktatási intézmény ösztöndíjas hallgatójának jogaira és kötelezettségeire a katonai alapfelkészítés, a szakmai gyakorlat és a Hvt. 70. § (1) bekezdés h) pontjában meghatározott feladatok ideje alatt az általa ellátott beosztásnak a Hjt. szerinti szabályai az irányadóak azzal, hogy a hallgató fenyítési és elismerési jogkört nem gyakorolhat, illetményre és egyéb járandóságokra pedig e törvény szabályai alapján jogosult. Az ösztöndíjas hallgató a katonai alapfelkészítés időszakára is jogosult diákigazolvány igénylésére.
 
-30. § (1) A katonai felsőoktatási intézmény ösztöndíjas hallgatójára a katonai alapfelkészítés és szakmai gyakorlat ideje alatt kiszabott fegyelmi büntetés a tanulmányi időszakban is letölthető.
+30. § (1) A katonai felsőoktatási intézmény ösztöndíjas hallgatójának fegyelmi felelősségét első fokon az intézményi szabályzatban meghatározott vezető bírálja el a Hjt.-ben rögzített eljárási szabályok szerint.
 
-(2) A katonai felsőoktatási intézmény ösztöndíjas hallgatója esetén az Ftv. 70. §-a (2) bekezdésének d) pontja szerinti, a tanulmányok folytatásától meghatározott időre eltiltás fegyelmi büntetés nem alkalmazható.
+(2) A katonai felsőoktatási intézmény ösztöndíjas hallgatói esetén az Ftv. 70. § (2) bekezdésének d) pontja nem alkalmazható. Az Ftv. 70. § (2) bekezdés c) pontja esetén fegyelmi büntetésként az alapilletmény csökkenthető legfeljebb öt hónapra 10–50%-kal.
 
 (3) A katonai felsőoktatási intézmény ösztöndíjas hallgatója büntetőjogi és szabálysértési felelősségének elbírálására a szerződéses katonákra vonatkozó szabályok az irányadóak.
 
@@ -244,7 +246,7 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 - b) a hallgató a szerződésben vállalt valamely kötelezettségét neki felróható okból nem teljesítette;
 - c)
 
-(4) Ha az ösztöndíjas hallgatói jogviszony az (1) bekezdés b)–d) pontja alapján szűnt meg, a hallgató tanulmányait az intézményben polgári hallgatóként államilag támogatott képzésben folytathatja.
+(4) Ha az ösztöndíjas hallgatói jogviszony az (1) bekezdés b)–d) pontja alapján szűnt meg, a hallgató tanulmányait azon a szakon, amelyre felvételt nyert, polgári hallgatóként államilag támogatott képzésben folytathatja, feltéve, hogy az adott szakon folyik civil képzés. Ennek hiányában a hallgatói jogviszonyát meg kell szüntetni. A hallgató más szakra akkor helyezhető át, ha az ösztöndíjszerződése nem a hallgató érdekkörében felmerült ok miatt szűnt meg.
 
 (5) Ha az ösztöndíjas hallgatói viszony a hallgató érdekkörében felmerült okból szűnik meg, az ösztöndíjszerződésben vagy a (2) bekezdés szerinti megegyezésben meghatározott költségeket a hallgató megtéríteni köteles. E törvény alkalmazásában az egészségi ok a fegyveres szerv érdekkörében felmerült oknak minősül.
 
@@ -309,7 +311,7 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 41/A. § (1) A katonai felsőoktatási intézmény ösztöndíjas hallgatója (a továbbiakban e fejezetben: ösztöndíjas hallgató) az intézménytől illetményre és ingyenes természetbeni ellátásra jogosult. Az ösztöndíjas hallgató illetménye a bírósági végrehajtási szabályok szempontjából ösztöndíjnak minősül.
 
-(2) Az ösztöndíjas hallgató illetménye alapilletményből és a (3)–(5) bekezdés szerinti pótlékból áll. Az ösztöndíjas hallgatót az illetménye a tanulmányi időszakon kívül is megilleti. Az ösztöndíjas hallgató illetményjogosultságát naptári napokra kell meghatározni.
+(2) Az ösztöndíjas hallgató illetménye alapilletményből és a (3)–(5) bekezdés, illetve a (8) bekezdés szerinti pótlékból áll. Az ösztöndíjas hallgatót az illetménye a tanulmányi időszakon kívül is megilleti. Az ösztöndíjas hallgató illetményjogosultságát naptári napokra kell meghatározni.
 
 (3) Az ösztöndíjas hallgató az előző félévi tanulmányi eredménye alapján – a második szemesztertől kezdődően – tanulmányi pótlékra jogosult. A tanulmányi és vizsgaszabályzatban megfogalmazott követelményeknek megfelelő ösztöndíjas hallgató kiemelt összegű tanulmányi pótlékra jogosult.
 
@@ -319,7 +321,9 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 (6) Az ösztöndíjas hallgató a külön jogszabályokban meghatározottak szerint térítésmentesen természetbeni ellátásként élelmezési és ruházati ellátásra, valamint elhelyezésre és tanszertámogatásra jogosult. Szolgálati kiküldetés esetén az ösztöndíjas hallgatót a hivatásos katonának a jogszabály szerint járó napidíj 50%-a illeti meg.
 
-(7) Ha az ösztöndíjas hallgató a 25. § (4) bekezdése alapján külföldön teljesít szolgálatot, hazai illetményén felül – külön jogszabályban meghatározott – devizaellátmányra is jogosult.
+(7) Ha az ösztöndíjas hallgató a 25. § (4) bekezdés alapján külföldön teljesít szolgálatot hazai illetményén felül devizaellátmányra, külföldi napidíjra és költségtérítésekre a külön jogszabályban meghatározott módon jogosult. A pályázati forrásból finanszírozott külföldi tanulmányok esetén az ösztöndíjas hallgató a hazai illetményére jogosult.
+
+(8) A Hvt. 70. § (1) bekezdésének h) pontjában meghatározott feladatok ellátásáért a honvédtiszti alapképzésben részt vevő ösztöndíjas hallgatót a Melléklet V. pontja szerinti katasztrófavédelmi pótlék illeti meg.
 
 ### A megváltozott munkaképességűek védelme
 
@@ -466,6 +470,8 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 - a) külön rendelet szerint ruházati ellátásra,
 - b) az alapkiképzés bentlakásra kötelezett időszakában elhelyezésre és ellátásra.
 
+45/A. § A katasztrófa megelőzése és következményeinek elhárítása érdekében történő feladatok ellátásáért az ösztöndíjas hallgatót naponta az illetményalap 5,8%-a szerinti katasztrófavédelmi pótlék illeti meg.
+
 ### VI. Fejezet — A VEZETŐKRE, OKTATÓKRA ÉS HALLGATÓKRA VONATKOZÓ KÖZÖS SZABÁLYOK
 
 ### Titokvédelem
@@ -554,3 +560,5 @@ A repülési pótlék szorzószáma az éves repülési tervben meghatározott r
 #### IV. Ejtőernyős-ugrási pótlék
 
 Ejtőernyős-ugrási pótlék jár annak a hallgatónak, akinek az ejtőernyős ugrások végrehajtása tanulmányokkal együtt járó kötelezettsége. A pótlék mértéke ugrásonként az illetményalap 2–5%-a.
+
+V. A katasztrófavédelmi pótlék mértéke naponta az illetményalap 5,8%-a. Az elszámolás során minden megkezdett naptári nap teljes napnak minősül.

@@ -86,7 +86,7 @@ Az Országgyűlés, az Alkotmánynak a személyes adatok védelméről szóló r
 
 ### II. Fejezet — A nyilvántartás szervezete, hatásköri és illetékességi szabályai
 
-6. § (1) Az e törvényben meghatározott feladatokat a települési (fővárosi kerületi) önkormányzat jegyzője, a Kormány általános hatáskörű területi államigazgatási szerve és a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv (a továbbiakban: központi szerv) látja el.
+6. § (1) Az e törvényben meghatározott feladatokat a települési (fővárosi kerületi) önkormányzat jegyzője, a közigazgatási hivatal és a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv (a továbbiakban: központi szerv) látja el.
 
 (2)
 
@@ -114,12 +114,12 @@ Az Országgyűlés, az Alkotmánynak a személyes adatok védelméről szóló r
 
 #### 7/B. §
 
-8. § (1) A Kormány általános hatáskörű területi államigazgatási szerve
+8. § (1) A közigazgatási hivatal
 
 - a) felügyeletet gyakorol a helyi nyilvántartási tevékenység felett;
 - b) ellenőrzi a személyes adatok védelmének érvényesülését, szükség esetén helyreállítja a törvényes állapotot.
 
-(2) A Kormány általános hatáskörű területi államigazgatási szerve a nyilvántartás működtetésével kapcsolatos technikai feltételek biztosítása során közreműködik a nyilvántartás adatkezelésének és adatszolgáltatásának megszervezésében.
+(2) A közigazgatási hivatal a nyilvántartás működtetésével kapcsolatos technikai feltételek biztosítása során közreműködik a nyilvántartás adatkezelésének és adatszolgáltatásának megszervezésében.
 
 9. § (1) A személyiadat- és lakcímnyilvántartás adatkezelője a központi szerv.
 
@@ -209,7 +209,7 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 - h) a helyi önkormányzat jegyzője (főjegyzője) által küldött értesítés (az illetékes önkormányzat hatáskörébe tartozó területszervezési, közterület-elnevezési és házszámváltozási döntésekről);
 - i) az állampolgársági ügyekben eljáró szerv értesítése a magyar állampolgárság honosítással történt megszerzéséről és a hatáskörében engedélyezett névmódosításról, valamint a magyar állampolgárság megszűnéséről;
 - j) a polgár adatai letiltására vagy helyesbítésére vonatkozó kérelme;
-- k) a jegyző, a Kormány általános hatáskörű területi államigazgatási szerve, a központi szerv, valamint a bíróságok nyilvántartási eljárás tárgyában hozott határozatai;
+- k) a jegyző, a közigazgatási hivatal, a központi szerv, valamint a bíróságok nyilvántartási eljárás tárgyában hozott határozatai;
 - l) a külföldön élő magyar állampolgár kérelme;
 - m)
 
@@ -420,9 +420,9 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 
 ### VI. Fejezet — Adatvédelem
 
-30. § (1) A jegyző, a 6. § (1) bekezdésében meghatározott időpontig a rendőrkapitányság vezetője, a Kormány általános hatáskörű területi államigazgatási szerve, valamint a központi szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai, szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését.
+30. § (1) A jegyző, a 6. § (1) bekezdésében meghatározott időpontig a rendőrkapitányság vezetője, a közigazgatási hivatal, valamint a központi szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai, szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését.
 
-(2) Az adatkezelés törvényességének ellenőrzésére a közigazgatási informatikáért felelős miniszter a központi szervnél, a Kormány általános hatáskörű területi államigazgatási szervének a vezetője a szervnél adatvédelmi felelőst nevez ki.
+(2) Az adatkezelés törvényességének ellenőrzésére a közigazgatási informatikáért felelős miniszter a központi szervnél, a közigazgatási hivatal vezetője közigazgatási hivatalnál adatvédelmi felelőst nevez ki.
 
 31. § (1) A nyilvántartás szervei (6. §) kötelesek adatszolgáltatási nyilvántartást vezetni.
 

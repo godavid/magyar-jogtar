@@ -162,17 +162,15 @@ amennyiben tulajdonszerzési szándékát a szövetkezet felhívásától szám�
 
 (5) Az (1) bekezdés második fordulata és a (3) bekezdés szerinti vagyonnevesítésre – ha az még nem történt meg – csak a részarány-tulajdon rendezésénél mutatkozó AK hiány megszüntetése után kerülhet sor.
 
-(6) Ha a szövetkezet (jogutódja) az (1) és a (3) bekezdésben foglaltaknak a földkiadás befejezését követő 60 napon belül nem tesz eleget, a maradvány termőföldek e törvény erejénél fogva a Magyar Állam tulajdonába és a Magyar Nemzeti Földalap Kht. kezelésébe kerülnek, kivéve a védett vagy védelemre tervezett területek.
+(6) Ha a szövetkezet (jogutódja) az (1) és a (3) bekezdésben foglaltaknak a földkiadás befejezését követő 60 napon belül nem tesz eleget, a maradvány termőföldek e törvény erejénél fogva a Magyar Állam tulajdonába és a Nemzeti Földalapba kerülnek.
 
 (7) Aki a vagyonnevesítés szabályai szerint jogosultságát hitelt érdemlően igazolja a Nemzeti Földalap földkészletéből termőföldet igényelhet, vagy pénzbeni kártalanításra tarthat igényt 4000 Ft/AK értéken.
 
-25/A. § (1) Ha a jogutód nélkül megszűnt, illetve felszámolás, végelszámolás alatt álló szövetkezet után marad fel nem osztott termőföldvagyon, a védett, illetőleg védelemre tervezett természeti területeknek nem minősülő maradvány termőföldek e törvény erejénél fogva a Magyar Állam tulajdonába és az NFA tulajdonosi joggyakorlása alá kerülnek.
+25/A. § (1) Ha a részarány-földkiadási eljárás lezárását követően a jogutód nélkül megszűnt, illetve felszámolás, végelszámolás alatt álló szövetkezet javára bejegyzett szövetkezeti földhasználati jog alatt álló földrészlet (a továbbiakban: maradványterület) szerepel az ingatlan-nyilvántartásban, a maradványterületet a mezőgazdasági igazgatási szerv határozattal a Magyar Állam tulajdonába adja. A maradványterület a Nemzeti Földalapba kerül.
 
-(2) A szövetkezet jogutód nélküli megszűnése esetén akik a szövetkezetben részarány-tulajdonra jogosultak voltak, azokat az állami tulajdonba került maradvány termőföldek után – a (3) bekezdésben meghatározott számítás szerint – 4000 Ft/AK értékben kártalanítás illeti meg, melyről az FM hivatal határoz.
+(2) Az (1) bekezdésben foglalt részarány-földkiadási eljárás akkor tekinthető lezártnak, ha a szövetkezet valamennyi termelőszövetkezeti különlapján nyilvántartott részarány-tulajdon kiadásra került és a termelőszövetkezeti különlapokat az ingatlanügyi hatóság megszüntette. A termelőszövetkezeti különlapok megszüntetését követően az ingatlanügyi hatóság 60 napon belül elkészíti a szövetkezet záró aranykorona-mérlegét, és helyrajzi számok szerint összesíti a maradványterületeket. Az ingatlanügyi hatóság a záró aranykorona-mérleget és az összesített maradványterületek adatait (helyrajzi szám, terület, aranykorona érték) közli a mezőgazdasági igazgatási szervvel.
 
-(3) A kártalanítás kiszámításának alapjául szolgáló összeg (a továbbiakban: kártalanítási alap) az állami tulajdonba került maradvány termőföldek össz-AK értékének és a kiadásra került összes részarány-tulajdon hányadosa. A 4000 Ft/AK értékű kártalanítás kiszámításánál az AK érték (a hányados nevezője) a kártalanítási alap és részarány-tulajdonos tulajdoni hányadának szorzatával kapott AK érték.
-
-(4) A kártalanítási határozat meghozatala során az FM hivatal a földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény 7/A. § (4)–(7) bekezdései szerint jár el.
+(3) A mezőgazdasági igazgatási szerv a záró aranykorona-mérleg és az összesített maradványterületek adatainak közlését követő 30 napon belül hozza meg az (1) bekezdés szerinti határozatot.
 
 26. § A 25. § szerinti változást az ingatlannyilvántartásban a tulajdonos részarány-tulajdonaként kell feltüntetni.
 
