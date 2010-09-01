@@ -8,7 +8,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 ### A törvény hatálya
 
-1. § (1) E törvény hatálya – az autonóm államigazgatási szervek kivételével – a központi államigazgatási szervekre, a Kormány általános hatáskörű területi államigazgatási szervére, a Kormány tagjaira, az államtitkárokra, valamint – ha törvény eltérően nem rendelkezik – a közigazgatási és a helyettes államtitkárokra terjed ki.
+1. § (1) E törvény hatálya – az autonóm államigazgatási szervek kivételével – a központi államigazgatási szervekre, a Kormány tagjaira, az államtitkárokra, valamint – ha törvény eltérően nem rendelkezik – a közigazgatási és a helyettes államtitkárokra terjed ki.
 
 (2) Központi államigazgatási szerv
 
@@ -62,7 +62,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 (2) Ha törvény kivételt nem tesz, az irányítási hatáskör gyakorlója az irányított államigazgatási szerv hatáskörét nem vonhatja el és döntését nem változtathatja meg.
 
-(3) Törvény vagy kormányrendelet a központi hivatal vagy a Kormány általános hatáskörű területi államigazgatási szerve irányításáról rendelkezhet úgy, hogy ügyek meghatározott csoportjaival összefüggésben – a hatékonysági és a pénzügyi ellenőrzés kivételével – az (1) bekezdés c), e) és f)–h) pontjaiban meghatározott egyes hatásköröket vagy ezek együttesét valamely központi államigazgatási szerv vezetője gyakorolja.
+(3) Törvény vagy kormányrendelet a központi hivatal irányításáról rendelkezhet úgy, hogy ügyek meghatározott csoportjaival összefüggésben – a hatékonysági és a pénzügyi ellenőrzés kivételével – az (1) bekezdés c), e) és f)–h) pontjaiban meghatározott egyes hatásköröket vagy ezek együttesét valamely központi államigazgatási szerv vezetője gyakorolja.
 
 3. § Ahol e törvény állami vezető vagy államigazgatási szerv szervezeti egysége vezetője tevékenységének irányítását említi, azon törvény eltérő rendelkezése hiányában a következő hatáskörök együttesét kell érteni:
 
@@ -105,6 +105,8 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 (4) Az állami vezetők személyi anyagának nyilvántartását a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium vezeti.
 
 (5) A Kormány tagja részére a köztársasági elnök; az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár részére a miniszterelnök igazolványt állít ki.
+
+(6) Az állami vezető, a kormánybiztos, a miniszterelnöki biztos, kormányhivatal, központi hivatal vezetője és helyettese tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi illetménye nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
 ### A politikai vezetőkre vonatkozó közös szabályok
 
@@ -674,21 +676,9 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 (9) A központi hivatalra – ha jogszabály eltérően nem rendelkezik – e törvény 63–68. §-ait megfelelően alkalmazni kell.
 
-### V. Fejezet — A KORMÁNY ÁLTALÁNOS HATÁSKÖRŰ TERÜLETI ÁLLAMIGAZGATÁSI SZERVE
+### V. Fejezet
 
-74. § (1) A Kormány általános hatáskörű területi államigazgatási szervét a Kormány által rendeletben kijelölt miniszter irányítja.
-
-(2) A Kormány általános hatáskörű területi államigazgatási szervének vezetőjét a szervet irányító miniszter és a közigazgatás-szervezésért felelős miniszter együttes javaslata alapján a miniszterelnök nevezi ki.
-
-(3) A Kormány általános hatáskörű területi államigazgatási szerve a közvetlenül a szerv vezetője által vezetett szervezeti egységekből, továbbá kormányrendelet rendelkezése alapján ágazati szakigazgatási szervekből és kirendeltségekből állhat.
-
-(4) Az (1) bekezdésben meghatározott szerv kirendeltségének vezetője a szervet létrehozó kormányrendeletben neki címzett hatásköröket önállóan gyakorolja.
-
-(5) A Kormány általános hatáskörű területi államigazgatási szervének létszámkeretét a Kormány szakigazgatási szervi és kirendeltségi bontásban is meghatározhatja.
-
-(6) Az (1) bekezdésben meghatározott szerv az irányító miniszter által vezetett minisztérium költségvetési fejezetén belül önálló címet képez.
-
-(7) Felhatalmazást kap a Kormány, hogy az általános hatáskörű területi államigazgatási szervét rendeletben jelölje ki.
+74. §
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

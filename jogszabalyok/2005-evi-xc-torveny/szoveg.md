@@ -28,7 +28,7 @@ Az Országgyűlés az Alkotmány 2. § (1) bekezdésében biztosított jogállam
 
 - a) a Köztársasági Elnök Hivatala, az Országgyűlés Hivatala, az Alkotmánybíróság hivatala, az Országgyűlési Biztos Hivatala, az Állami Számvevőszék, az Országos Igazságszolgáltatási Tanács Hivatala, a Legfőbb Ügyészség, a Magyar Tudományos Akadémia,
 - b) a központi államigazgatási szerv a kormánybizottság kivételével, továbbá az országos kamara, valamint
-- c) a Kormány általános hatáskörű területi államigazgatási szerve.
+- c) a közigazgatási hivatal.
 
 (2) Az (1) bekezdésben nem szereplő, jogszabályban meghatározott közfeladatot ellátó egyéb szervek a 6. § szerinti elektronikus közzétételi kötelezettségüknek választásuk szerint saját vagy társulásaik által közösen működtetett, illetve a felügyeletüket, szakmai irányításukat vagy működésükkel kapcsolatos koordinációt ellátó szervek által fenntartott, valamint az erre a célra létrehozott központi honlapon való közzététellel is eleget tehetnek.
 
@@ -292,7 +292,7 @@ II. Tevékenységre, működésre vonatkozó adatok
 |  | Adat | Frissítés | Megőrzés |
 | --- | --- | --- | --- |
 | 1. | A közfeladatot ellátó szerv feladatát, hatáskörét és alaptevékenységét meghatározó, a szervre vonatkozó alapvető jogszabályok, állami irányítás egyéb jogi eszközei, valamint a szervezeti és működési szabályzat vagy ügyrend hatályos és teljes szövege | A változásokat követően azonnal | Az előző állapot 1 évig archívumban tartásával |
-| 2. | Az országos illetékességű szervek, valamint a Kormány általános hatáskörű területi államigazgatási szerve esetében a közfeladatot ellátó szerv feladatáról, tevékenységéről szóló tájékoztató magyar és angol nyelven | Negyedévente | Az előző állapot törlendő |
+| 2. | Az országos illetékességű szervek, valamint a közigazgatási hivatalok esetében a közfeladatot ellátó szerv feladatáról, tevékenységéről szóló tájékoztató magyar és angol nyelven | Negyedévente | Az előző állapot törlendő |
 | 3. | A helyi önkormányzat önként vállalt feladatai | Negyedévente | Az előző állapot 1 évig archívumban tartásával |
 | 4. | Államigazgatási, önkormányzati, és egyéb hatósági ügyekben ügycsoportonként (ügytípusonként) és eljárástípusonként a hatáskörrel rendelkező szerv megnevezése, hatáskör gyakorlásának átruházása esetén a ténylegesen eljáró szerv megnevezése, illetékességi területe, az ügyintézéshez szükséges dokumentumok, okmányok, eljárási illetékek (igazgatási szolgáltatási díjak) meghatározása, alapvető eljárási szabályok, az eljárást megindító irat benyújtásának módja (helye, ideje), ügyfélfogadás ideje, az ügyek intézését segítő útmutatók, az ügymenetre vonatkozó tájékoztatás és az ügyintézéshez használt letölthető formanyomtatványok | A változásokat követően azonnal | Az előző állapot törlendő |
 | 5. | A közfeladatot ellátó szerv által nyújtott vagy költségvetéséből finanszírozott közszolgáltatások megnevezése, tartalma, a közszolgáltatások igénybevételének rendje, a közszolgáltatásért fizetendő díj mértéke, az abból adott kedvezmények | A változásokat követően azonnal | Az előző állapot 1 évig archívumban tartásával |

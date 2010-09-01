@@ -268,9 +268,9 @@ Az Országgyűlés a tulajdoni viszonyok átalakítása keretében, az önkormá
 
 30. § Ha az önkormányzat a tulajdonában vagy használatában lévő vagyont másik önkormányzat, illetve az állam, állami szerv részére köteles átadni, s az átadásról az érintettek nem állapodnak meg, a tevékenység szerint illetékes miniszter, illetve az önkormányzat kérelmére az átadandó vagyon tulajdonosáról (használójáról) és az átadás időpontjáról a bizottság dönt.
 
-31. § (1) A Kormány általános hatáskörű területi államigazgatási szerve vezetője, a főpolgármester és a polgármester, illetve a megyei közgyűlés elnöke a bizottság igénye szerint rendelkezésre bocsátja a döntéséhez szükséges adatokat, iratokat, segíti a bizottság ügyviteli feladatainak ellátását.
+31. § (1) A közigazgatási hivatal vezetője, a főpolgármester és a polgármester, illetve a megyei közgyűlés elnöke a bizottság igénye szerint rendelkezésre bocsátja a döntéséhez szükséges adatokat, iratokat, segíti a bizottság ügyviteli feladatainak ellátását.
 
-(2) A bizottság ügyiratait a Kormány általános hatáskörű területi államigazgatási szerve kezeli.
+(2) A bizottság ügyiratait a közigazgatási hivatal kezeli.
 
 32. § A bizottság munkájának vízügyi-műszaki előkészítésében a vízügyi igazgatási szerv közreműködik és a bizottság tevékenységét szakvéleményével segíti. Az önkormányzatok tulajdonába kerülő vízügyi vagyontárgyak kijelölése során meg kell hallgatni a tanácsi alapítású víz-, csatorna- és fürdővállalat, illetőleg a regionális vízügyi vállalat képviselőjét.
 

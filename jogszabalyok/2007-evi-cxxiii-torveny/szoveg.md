@@ -33,7 +33,7 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 - a) a közérdekű cél megvalósítása az ingatlanon fennálló tulajdon korlátozásával nem lehetséges, vagy – külön törvény alapján – a közérdekű használati jog, vezetékjog, szolgalmi jog alapításában a tulajdonossal nem jött létre megállapodás, illetve e jogokat az illetékes hatóság nem engedélyezte;
 - b) az ingatlan tulajdonjogának megszerzése adásvétel – törvényben meghatározott esetben csere – útján nem lehetséges;
 - c) a közérdekű cél megvalósítására kizárólag az adott ingatlanon kerülhet sor, illetve ha a közérdekű cél megvalósítására több ingatlan alkalmas, annak más ingatlanon való megvalósítása a tulajdon nagyobb sérelmével járna; és
-- d) a kisajátítással biztosított tevékenység közösségi előnyei a tulajdon elvonásával okozott kárt jelentősen meghaladják. Ennek mérlegelése során a Kormány általános hatáskörű területi államigazgatási szerve a közérdekű tevékenység jelentőségét, így különösen a terület fejlődésére gyakorolt hatását, a tevékenységgel, szolgáltatással ellátásra kerülők számát, a foglalkoztatásra gyakorolt hatását és az ingatlan jellemzőit kell egybevetnie, kulturális örökségvédelmi érték, természetvédelmi érték esetén annak jelentőségét és a tulajdonelvonás arányosságát kell vizsgálnia.
+- d) a kisajátítással biztosított tevékenység közösségi előnyei a tulajdon elvonásával okozott kárt jelentősen meghaladják. Ennek mérlegelése során a közigazgatási hivatal a közérdekű tevékenység jelentőségét, így különösen a terület fejlődésére gyakorolt hatását, a tevékenységgel, szolgáltatással ellátásra kerülők számát, a foglalkoztatásra gyakorolt hatását és az ingatlan jellemzőit kell egybevetnie, kulturális örökségvédelmi érték, természetvédelmi érték esetén annak jelentőségét és a tulajdonelvonás arányosságát kell vizsgálnia.
 
 (2) Az adásvételi szerződés megkötését meghiúsultnak kell tekinteni, ha
 
@@ -267,7 +267,7 @@ kell figyelembe venni.
 
 22. § (1)
 
-(2) A kisajátítási eljárást a Kormány általános hatáskörű területi államigazgatási szerve folytatja le. Az eljárásra a Kormánynak a kisajátítani kért ingatlan fekvése szerinti általános hatáskörű területi államigazgatási szerve az illetékes.
+(2) A kisajátítási eljárást a közigazgatási hivatal folytatja le. Az eljárásra a kisajátítani kért ingatlan fekvése szerinti közigazgatási hivatal az illetékes.
 
 23. § (1) A kisajátítási eljárásban ügyfél:
 
@@ -285,7 +285,7 @@ kell figyelembe venni.
 
 (2) A kérelmet a kisajátítást kérő nyújtja be. Az állam, önkormányzat mint kisajátítást kérő nevében a tulajdonosi jogot gyakorló szerv, illetve az a szerv járhat el, amelyet az állami, önkormányzati tulajdonosi jogokat gyakorló szerv meghatalmaz, vagy az eljárásra jogszabály jelöli ki. Kisajátítást kérő harmadik személyként a 36. § (2)–(3) bekezdése szerinti esetben a tevékenység végzésére engedéllyel rendelkező, nem engedélyköteles tevékenység esetén a létesítő okirata szerint a kisajátítási célt megvalósító tevékenységre jogosult, illetve az állam javára – törvényi rendelkezés alapján – saját nevében, kisajátítást kérőként való eljárásra kijelölt személy járhat el.
 
-(3) A Kormány általános hatáskörű területi államigazgatási szerve – a kisajátítandó ingatlan tulajdonosának a 2. § n)–o) pontján, illetve az 5. §-on alapuló kérelmére – határozattal kötelezi a kisajátítási kérelem benyújtására azt, aki e törvény szerinti kisajátítást kérő lehet, és az ingatlanon fennálló használati vagy egyéb joga az ingatlan rendeltetésszerű használatát jelentős mértékben akadályozza vagy megszünteti. A határozat ellen fellebbezésnek helye nincs.
+(3) A közigazgatási hivatal – a kisajátítandó ingatlan tulajdonosának a 2. § n)–o) pontján, illetve az 5. §-on alapuló kérelmére – határozattal kötelezi a kisajátítási kérelem benyújtására azt, aki e törvény szerinti kisajátítást kérő lehet, és az ingatlanon fennálló használati vagy egyéb joga az ingatlan rendeltetésszerű használatát jelentős mértékben akadályozza vagy megszünteti. A határozat ellen fellebbezésnek helye nincs.
 
 (4) A kérelemben meg kell jelölni a kisajátítás célját, a célban megjelölt tevékenység vagy beruházás megkezdésének határidejét, illetve ütemezését.
 
@@ -298,52 +298,52 @@ kell figyelembe venni.
 - e) kisajátítást kérő harmadik személy esetében a tevékenység végzésére vonatkozó engedélyt, nem engedélyköteles tevékenység esetén létesítő okiratát.
 - f)
 
-(6) A kisajátítást kérő köteles a 2–5. § szerinti szempontok mérlegeléséhez szükséges adatokról a Kormány általános hatáskörű területi államigazgatási szervét tájékoztatni, és az azokat igazoló dokumentumokat a hatóság rendelkezésére bocsátani.
+(6) A kisajátítást kérő köteles a 2–5. § szerinti szempontok mérlegeléséhez szükséges adatokról a közigazgatási hivatalt tájékoztatni, és az azokat igazoló dokumentumokat a hatóság rendelkezésére bocsátani.
 
-(7) Ha a kisajátítást kérő nem igazolja az ügy elbírálásához szükséges nyilvános vagy valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában szereplő adatokat, a Kormány általános hatáskörű területi államigazgatási szerve az adatokat hivatalból szerzi be.
+(7) Ha a kisajátítást kérő nem igazolja az ügy elbírálásához szükséges nyilvános vagy valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában szereplő adatokat, a közigazgatási hivatal az adatokat hivatalból szerzi be.
 
-24/A. § Ha a kisajátítást kérő harmadik személy a kérelemhez a létesítő okiratát nem csatolja, a Kormány általános hatáskörű területi államigazgatási szerve – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a kisajátítást kérő harmadik személyről nyilvántartást vezető szervet.
+24/A. § Ha a kisajátítást kérő harmadik személy a kérelemhez a létesítő okiratát nem csatolja, a közigazgatási hivatal – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a kisajátítást kérő harmadik személyről nyilvántartást vezető szervet.
 
-25. § (1) Ha a kérelem és mellékletei megfelelnek az e törvényben előírt feltételeknek, a Kormány általános hatáskörű területi államigazgatási szerve tárgyalást tűz ki.
+25. § (1) Ha a kérelem és mellékletei megfelelnek az e törvényben előírt feltételeknek, a közigazgatási hivatal tárgyalást tűz ki.
 
-(2) A Kormány általános hatáskörű területi államigazgatási szerve a kisajátítási terv egy példányát mellékelve, a tárgyalás kitűzésével egyidejűleg, a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló, valamint a Vásárhelyi Terv továbbfejlesztéséről szóló törvények hatálya alá tartozó kisajátítási kérelem esetén pedig az ennek beérkezésétől számított nyolc napon belül megkeresi az ingatlanügyi hatóságot a kisajátítási eljárás megindítása tényének az ingatlan-nyilvántartásba történő feljegyzése érdekében.
+(2) A közigazgatási hivatal a kisajátítási terv egy példányát mellékelve, a tárgyalás kitűzésével egyidejűleg, a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló, valamint a Vásárhelyi Terv továbbfejlesztéséről szóló törvények hatálya alá tartozó kisajátítási kérelem esetén pedig az ennek beérkezésétől számított nyolc napon belül megkeresi az ingatlanügyi hatóságot a kisajátítási eljárás megindítása tényének az ingatlan-nyilvántartásba történő feljegyzése érdekében.
 
-(3) A Kormány általános hatáskörű területi államigazgatási szerve a tárgyalás kitűzésével egyidejűleg
+(3) A közigazgatási hivatal a tárgyalás kitűzésével egyidejűleg
 
 - a) tájékoztatja az ügyfeleket arról, hogy az ingatlanra milyen közérdekű célra kértek kisajátítást és a kisajátítási terv észrevételezés céljából hol és mikor tekinthető meg, továbbá
 - b) a kártalanításra vonatkozó szakvélemény elkészítése céljából igazságügyi szakértőt rendel ki, és meghatározza a szakvélemény elkészítésének határidejét. A tárgyalásra a szakértőt meg kell idézni.
 
 (4) A szakértő a szakvéleményt a külön jogszabályban meghatározott szerkezetben és adattartalommal, a mérlegelés módszerének és a figyelembe vett szempontoknak a bemutatásával köteles elkészíteni.
 
-(5) Nincs szükség tárgyalás kitűzésére, illetőleg a kitűzött tárgyalás megtartására, ha a kisajátítást kérő csatolja a kisajátítási kártalanítás tárgyában kötött egyezségről szóló okiratot, és az egyezséget a Kormány általános hatáskörű területi államigazgatási szerve jogszerűnek tartja.
+(5) Nincs szükség tárgyalás kitűzésére, illetőleg a kitűzött tárgyalás megtartására, ha a kisajátítást kérő csatolja a kisajátítási kártalanítás tárgyában kötött egyezségről szóló okiratot, és az egyezséget a közigazgatási hivatal jogszerűnek tartja.
 
 26. § (1)
 
 (2) Nagyszámú ügyfelet érintő kisajátítás esetén hatósági közvetítő vehető igénybe.
 
-27. § (1) A tárgyaláson ismertetni kell a kártalanításra vonatkozó szakvéleményt és meg kell vitatni az ügyfelek által a kisajátítási tervre, továbbá a szakvéleményre tett észrevételeket. A Kormány általános hatáskörű területi államigazgatási szerve és az ügyfelek kérhetik a szakértői vélemény kiegészítését.
+27. § (1) A tárgyaláson ismertetni kell a kártalanításra vonatkozó szakvéleményt és meg kell vitatni az ügyfelek által a kisajátítási tervre, továbbá a szakvéleményre tett észrevételeket. A közigazgatási hivatal és az ügyfelek kérhetik a szakértői vélemény kiegészítését.
 
 (2) Ha a lakások, illetőleg a nem lakás céljára szolgáló helyiségek használóinak elhelyezéséről a lakásügyi, illetve az elhelyező hatóságnak kell határoznia, annak legkésőbb a tárgyaláson nyilatkoznia kell az elhelyezés módjáról; ettől a nyilatkozatától egyoldalúan nem térhet el.
 
-28. § (1) A Kormány általános hatáskörű területi államigazgatási szerve a kisajátítás tárgyában 2–5. § meghatározott célok és feltételek fennállásának vizsgálata, illetve szempontok mérlegelése alapján dönt. A vizsgálat kiterjed arra is, hogy fennállnak-e a kisajátítás e törvényben meghatározott egyéb feltételei.
+28. § (1) A közigazgatási hivatal a kisajátítás tárgyában 2–5. § meghatározott célok és feltételek fennállásának vizsgálata, illetve szempontok mérlegelése alapján dönt. A vizsgálat kiterjed arra is, hogy fennállnak-e a kisajátítás e törvényben meghatározott egyéb feltételei.
 
-(2) A kisajátítás feltételeinek elbírálása során a Kormány általános hatáskörű területi államigazgatási szerve köteles megvizsgálni azt is, hogy biztosítható-e a kisajátítani kért épületben levő lakások és nem lakás céljára szolgáló helyiségek használóinak megfelelő időn belül való elhelyezése.
+(2) A kisajátítás feltételeinek elbírálása során a közigazgatási hivatal köteles megvizsgálni azt is, hogy biztosítható-e a kisajátítani kért épületben levő lakások és nem lakás céljára szolgáló helyiségek használóinak megfelelő időn belül való elhelyezése.
 
 (3)
 
-29. § (1) A Kormány általános hatáskörű területi államigazgatási szervének a kérelemnek helyt adó határozatában – a (3) bekezdésben említett kivétellel – külön kell rendelkeznie arról, hogy a kisajátított ingatlanért, az ingatlanra vonatkozóan más személyt megillető jogok megszűnéséért és a jogok megszűnése miatt keletkezett kárért, továbbá a kisajátítással kapcsolatos értékveszteségért és költségekért milyen összegű kártalanítást állapít meg. Rendelkezni kell a kártalanítás megfizetésének határidejéről is.
+29. § (1) A közigazgatási hivatalnak a kérelemnek helyt adó határozatában – a (3) bekezdésben említett kivétellel – külön kell rendelkeznie arról, hogy a kisajátított ingatlanért, az ingatlanra vonatkozóan más személyt megillető jogok megszűnéséért és a jogok megszűnése miatt keletkezett kárért, továbbá a kisajátítással kapcsolatos értékveszteségért és költségekért milyen összegű kártalanítást állapít meg. Rendelkezni kell a kártalanítás megfizetésének határidejéről is.
 
-(2) Ha a kisajátított ingatlanra végrehajtási jog van bejegyezve, a Kormány általános hatáskörű területi államigazgatási szerve a határozatot közli az illetékes bírósági végrehajtóval is, aki megteszi a bírósági végrehajtásról szóló törvény szerint szükséges intézkedéseket. Ha a kisajátított, végrehajtási joggal nem terhelt ingatlant – ide nem értve az olyan tulajdonos által használt lakást, akinek nincs ugyanazon településen vagy attól legfeljebb 50 kilométerre másik beköltözhető lakása – a kártalanítási összeget meghaladó, lejárt esedékességű, elismert vagy végrehajtható követelés terheli, a Kormány általános hatáskörű területi államigazgatási szerve határozatában csak a kártalanítás összegét állapítja meg. Ilyen esetben az összeg felosztásáról bármely ügyfél kérelmére – a bírósági végrehajtásról szóló törvény szabályainak alkalmazásával – a Kormány általános hatáskörű területi államigazgatási szervének a székhelye szerint illetékes bíróság gondoskodik.
+(2) Ha a kisajátított ingatlanra végrehajtási jog van bejegyezve, a közigazgatási hivatal a határozatot közli az illetékes bírósági végrehajtóval is, aki megteszi a bírósági végrehajtásról szóló törvény szerint szükséges intézkedéseket. Ha a kisajátított, végrehajtási joggal nem terhelt ingatlant – ide nem értve az olyan tulajdonos által használt lakást, akinek nincs ugyanazon településen vagy attól legfeljebb 50 kilométerre másik beköltözhető lakása – a kártalanítási összeget meghaladó, lejárt esedékességű, elismert vagy végrehajtható követelés terheli, a közigazgatási hivatal határozatában csak a kártalanítás összegét állapítja meg. Ilyen esetben az összeg felosztásáról bármely ügyfél kérelmére – a bírósági végrehajtásról szóló törvény szabályainak alkalmazásával – a közgazgatási hivatal székhelye szerint illetékes bíróság gondoskodik.
 
-(3) Ha a kisajátítást kérő és a többi ügyfél a kártalanítás tárgyában egyezséget kötött, és az a szakértői véleménnyel is összhangban van, a Kormány általános hatáskörű területi államigazgatási szerve az általa is jóváhagyott egyezséget határozatába foglalja.
+(3) Ha a kisajátítást kérő és a többi ügyfél a kártalanítás tárgyában egyezséget kötött, és az a szakértői véleménnyel is összhangban van, a közigazgatási hivatal az általa is jóváhagyott egyezséget határozatába foglalja.
 
-(4) A kártalanítás tárgyában kötött, a Kormány általános hatáskörű területi államigazgatási szerve által jóváhagyott egyezséget a Polgári Törvénykönyvről szóló 1959. évi IV. törvénynek a szerződési nyilatkozatok megtámadására vonatkozó szabályai szerint (234–238. §) lehet megtámadni.
+(4) A kártalanítás tárgyában kötött, a közigazgatási hivatal által jóváhagyott egyezséget a Polgári Törvénykönyvről szóló 1959. évi IV. törvénynek a szerződési nyilatkozatok megtámadására vonatkozó szabályai szerint (234–238. §) lehet megtámadni.
 
 (5) Ha a kisajátított ingatlanért járó kártalanítás és a csereingatlan értéke különböző, a tulajdonost a határozatban kötelezni kell a különbözet megtérítésére, illetőleg rendelkezni kell arról, hogy a kisajátítást kérő különbözetképpen milyen összegű pénzbeli kártalanítást köteles fizetni.
 
 30. § Ha a kisajátítás az ingatlannak csak egy részét érinti, nem kell telekalakítási eljárást lefolytatni.
 
-31. § A Kormány általános hatáskörű területi államigazgatási szerve kisajátítási határozata ellen közigazgatási úton fellebbezésnek helye nincs.
+31. § A közigazgatási hivatal kisajátítási határozata ellen közigazgatási úton fellebbezésnek helye nincs.
 
 32. § (1) A kisajátítási határozat bírósági felülvizsgálata során a polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetének rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy
 
@@ -356,7 +356,7 @@ kell figyelembe venni.
 
 (2) A bíróságnak a közigazgatási határozat végrehajtását felfüggesztő végzése kizárja az ingatlan tulajdonjogának átszállását. Ebben az esetben az ingatlannal kapcsolatos közigazgatási eljárásokban (ingatlan-nyilvántartási eljárás, építésügyi eljárás) az eljáró szerv köteles az eljárását a per jogerős befejezéséig felfüggeszteni. Ha az ingatlannal kapcsolatos közigazgatási eljárásban már jogerős határozatot hoztak, a felfüggesztő végzés hatálya annak végrehajtására is kiterjed.
 
-(3) A Kormány általános hatáskörű területi államigazgatási szerve jogerős határozatával lezárt ügyben nem nyújtható be újrafelvételi kérelem.
+(3) A közigazgatási hivatal jogerős határozatával lezárt ügyben nem nyújtható be újrafelvételi kérelem.
 
 (4) A kisajátítási határozat felügyeleti jogkörben nem változtatható meg, és nem semmisíthető meg.
 
@@ -368,7 +368,7 @@ kell figyelembe venni.
 
 (2) Ha a kisajátított ingatlan mezőgazdasági művelés alatt áll, a birtokbaadásra közvetlenül a termés betakarítása előtti időpontot csak kivételesen, sürgős szükség esetében szabad megjelölni; a körülményekhez képest ilyenkor is lehetővé kell tenni, hogy a föld használója (tulajdonosa) a termést betakaríthassa.
 
-(3) A birtokbaadás a Kormány általános hatáskörű területi államigazgatási szervének a feladata.
+(3) A birtokbaadás a közigazgatási hivatal feladata.
 
 (4) Ha a kisajátított épület használója részére cserelakást (cserehelyiséget) kell biztosítani, a birtokbaadás időpontját úgy kell megjelölni, hogy arra csak a használó megfelelő elhelyezése után kerüljön sor.
 
@@ -376,7 +376,7 @@ kell figyelembe venni.
 
 (6) A kisajátítást kérő távollétében az ingatlant nem lehet birtokba adni. Más ügyfelek távolmaradása a birtokbaadást nem akadályozza; erre az ügyfelet a határozatban figyelmeztetni kell.
 
-(7) A csereingatlan birtokbaadását a Kormánynak a csereingatlan fekvése szerinti általános hatáskörű területi államigazgatási szerve rendeli el.
+(7) A csereingatlan birtokbaadását a csereingatlan fekvése szerinti közigazgatási hivatal rendeli el.
 
 (8) Az Aptv. szerinti célra, valamint a Vásárhelyi terv továbbfejlesztése érdekében megvalósuló árvízvédelmi létesítmény építésére kisajátított épületet és építmény nélküli ingatlant a kártalanítási összeg megfizetésének igazolását követően, helyszíni eljárás nélkül kell birtokba adni.
 
@@ -390,7 +390,7 @@ kell figyelembe venni.
 
 36. § (1) A kisajátítást elrendelő határozat jogerőre emelkedésével az ingatlan tulajdonjogát az állam, illetve a helyi önkormányzat szerzi meg.
 
-(2) Az (1) bekezdésben foglaltaktól eltérően a Kormány általános hatáskörű területi államigazgatási szerve közvetlenül a kisajátítást kérő harmadik személy tulajdonába adja az ingatlant, ha a kisajátításra
+(2) Az (1) bekezdésben foglaltaktól eltérően a közigazgatási hivatal közvetlenül a kisajátítást kérő harmadik személy tulajdonába adja az ingatlant, ha a kisajátításra
 
 - a) – a radioaktív hulladéktároló építéséhez, bővítéséhez, biztonsági övezete megszerzéséhez, vagy távhőtermelő létesítmény, távhőközpont, illetve távhővezeték hálózat létesítéséhez, elhelyezéséhez szükséges kisajátítás kivételével – energiatermelés, energiaellátás, elektronikus hírközlési szolgáltatás kisajátítási cél, vagy nem állami, illetve nem önkormányzati tulajdonban lévő vízilétesítmény belső védőövezetének megszerzését szolgáló vízgazdálkodási feladatok ellátása kisajátítási cél, vagy
 - b) az ingatlant terhelő, az ingatlan rendeltetésszerű használatát jelentősen korlátozó, vagy megszüntető, az a) pont szerinti célokat megvalósító létesítmények elhelyezése érdekében biztosított közérdekű használati jogok, szolgalmak miatti hátrányok megszüntetése
@@ -415,21 +415,21 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 
 38. § (1) A kisajátítás előtt az ingatlanon előmunkálatot csak különösen indokolt esetekben, az ingatlan rendeltetésszerű használatát a lehető legkevésbé korlátozva lehet végezni. Az előmunkálatok célja a kisajátítás előkészítése érdekében szükséges mérések, vizsgálatok elvégzése lehet. Gyorsforgalmi út építése esetében előmunkálatnak minősül a lőszermentesítés és – feltárási engedély birtokában – a megelőző régészeti feltárás is, amennyiben az nem eredményezi az ingatlan helyreállíthatatlan változását. Amennyiben az ingatlan kisajátítására nem kerül sor, az előmunkálatok végzésére jogosult köteles az ingatlant a rendeltetésszerű használatra alkalmassá tenni.
 
-(2) A kisajátításhoz szükséges előmunkálatokra engedélyt kell kérni a Kormány általános hatáskörű területi államigazgatási szervétől. Az előmunkálatok engedélyezését a kisajátítást kérő és az előmunkálatokat végző szerv együttesen köteles kérni. A kérelemben meg kell jelölni az ingatlan adatait, a tulajdonos, a használó, az ingatlan-nyilvántartásban feltüntetett egyéb jogosult lakáscímét (telephelyét), az elvégezni kívánt előmunkálatokat és a kisajátítás célját. A kérelemben be kell mutatni azokat az adatokat és körülményeket, és csatolni kell azokat a dokumentumokat, amelyek a kisajátítás feltételeinek fennállását valószínűsítik, és az előmunkálatok végzésének szükségességét indokolják.
+(2) A kisajátításhoz szükséges előmunkálatokra engedélyt kell kérni a közigazgatási hivataltól. Az előmunkálatok engedélyezését a kisajátítást kérő és az előmunkálatokat végző szerv együttesen köteles kérni. A kérelemben meg kell jelölni az ingatlan adatait, a tulajdonos, a használó, az ingatlan-nyilvántartásban feltüntetett egyéb jogosult lakáscímét (telephelyét), az elvégezni kívánt előmunkálatokat és a kisajátítás célját. A kérelemben be kell mutatni azokat az adatokat és körülményeket, és csatolni kell azokat a dokumentumokat, amelyek a kisajátítás feltételeinek fennállását valószínűsítik, és az előmunkálatok végzésének szükségességét indokolják.
 
-(3) Az engedélyezés során a Kormány általános hatáskörű területi államigazgatási szerve megvizsgálja, hogy kisajátítás feltételeinek fennállása a rendelkezésre álló adatok alapján valószínűsíthető-e, és annak érdekében az adott ingatlanon az adott előmunkálat elvégzése indokolt-e, illetve az az ingatlan rendeltetésszerű használatát milyen mértékben korlátozza. Ennek érdekében az ingatlan tulajdonosát (használóját) meghallgathatja. Az engedélyezésről szóló határozatot postai úton közölni kell az ingatlan tulajdonosával, használójával és az ingatlan-nyilvántartásban feltüntetett egyéb jogosulttal.
+(3) Az engedélyezés során a közigazgatási hivatal megvizsgálja, hogy kisajátítás feltételeinek fennállása a rendelkezésre álló adatok alapján valószínűsíthető-e, és annak érdekében az adott ingatlanon az adott előmunkálat elvégzése indokolt-e, illetve az az ingatlan rendeltetésszerű használatát milyen mértékben korlátozza. Ennek érdekében az ingatlan tulajdonosát (használóját) meghallgathatja. Az engedélyezésről szóló határozatot postai úton közölni kell az ingatlan tulajdonosával, használójával és az ingatlan-nyilvántartásban feltüntetett egyéb jogosulttal.
 
 (4) Az Aptv. 1. melléklete szerinti gyorsforgalmi út építése céljára történő kisajátításhoz szükséges előmunkálat esetén a kisajátítást kérő önállóan is kérheti az előmunkálat engedélyezését. Az előmunkálatok megkezdésének időpontjában a beruházó köteles a földvédelmi járulék területarányos részét megfizetni.
 
 39. § (1) Ha az előmunkálatok engedélyezésekor azok megkezdésének időpontja megállapítható, azt a kérelemnek helyt adó határozatban kell megjelölni.
 
-(2) Az előmunkálatokat végző szerv az előmunkálatok megkezdése előtt legalább tizenöt nappal köteles a kezdés időpontját a Kormány általános hatáskörű területi államigazgatási szervéhez bejelenteni. A Kormány általános hatáskörű területi államigazgatási szerve az előmunkálatok megkezdésének időpontja előtt legalább három munkanappal a 38. § (2) bekezdésében említett érdekelteket az előmunkálatokról és azok megkezdésének időpontjáról írásban értesíti.
+(2) Az előmunkálatokat végző szerv az előmunkálatok megkezdése előtt legalább tizenöt nappal köteles a kezdés időpontját a közigazgatási hivatalhoz bejelenteni. A közigazgatási hivatal az előmunkálatok megkezdésének időpontja előtt legalább három munkanappal a 38. § (2) bekezdésében említett érdekelteket az előmunkálatokról és azok megkezdésének időpontjáról írásban értesíti.
 
 (3) Az ingatlan tulajdonosa (vagyonkezelője, használója) köteles tűrni, hogy az engedélyezett előmunkálatokat elvégezzék, az ezzel okozott kár megtérítéséért a kisajátítást kérő és az előmunkálatokat végző egyetemlegesen felelős.
 
-(4) A Kormány általános hatáskörű területi államigazgatási szerve az előmunkálatokat engedélyező határozatában a kisajátítást kérő kérelmére – a kártalanításra vonatkozó szakvélemény elkészítése céljából – szakértőt rendel ki.
+(4) A közigazgatási hivatal az előmunkálatokat engedélyező határozatában a kisajátítást kérő kérelmére – a kártalanításra vonatkozó szakvélemény elkészítése céljából – szakértőt rendel ki.
 
-(5) Az előmunkálati engedélyben meghatározott munkálatok során okozott, illetve azzal összefüggésben keletkezett károkért járó kártalanítást – a kisajátítási kártalanítás szabályainak alkalmazásával – a Kormány általános hatáskörű területi államigazgatási szerve állapítja meg.
+(5) Az előmunkálati engedélyben meghatározott munkálatok során okozott, illetve azzal összefüggésben keletkezett károkért járó kártalanítást – a kisajátítási kártalanítás szabályainak alkalmazásával – a közigazgatási hivatal állapítja meg.
 
 40. § (1) A kisajátítási tervben megjelölt ingatlanra megkötött adásvételi szerződés alapján kifizetett vételár a kisajátítási eljárás során megállapított kártalanítással megegyezően adó- és illetékmentes, ide nem értve az általános forgalmi adót.
 

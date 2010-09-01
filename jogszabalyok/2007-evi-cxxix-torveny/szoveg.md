@@ -281,7 +281,7 @@ hasznosítják.
 
 (2) A járulék 50 százalékkal növelt összegét kell megfizetni, ha öntözésre, illetőleg talajvédelmi létesítményekkel berendezett termőföldet hasznosítanak más célra.
 
-(3) A járulék negyedét kell fizetni, ha a belterületbe vonást a helyi önkormányzat legalább tizenöt új munkahely megteremtését eredményező beruházás megvalósulása érdekében kezdeményezi.
+(3)
 
 ### A földvédelmi bírság
 

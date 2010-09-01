@@ -344,11 +344,11 @@ kötelezettséget.
 
 28. § (1) A polgári szolgálat teljesítésének engedélyezése iránti kérelmet a behívóparancs kézbesítését követő 3. munkanapig lehet benyújtani.
 
-(2) A kérelmet a hadkiegészítő parancsnokság vezetőjéhez vagy a Kormány általános hatáskörű területi államigazgatási szervéhez kell benyújtani. A kérelemhez a jogszabályban meghatározott adatokat tartalmazó formanyomtatványt csatolni kell. Az a hadköteles, akinek a polgári szolgálat teljesítésére irányuló kérelmét elutasították, újabb kérelmet nem nyújthat be.
+(2) A kérelmet a hadkiegészítő parancsnokság vezetőjéhez vagy a közigazgatási hivatalhoz kell benyújtani. A kérelemhez a jogszabályban meghatározott adatokat tartalmazó formanyomtatványt csatolni kell. Az a hadköteles, akinek a polgári szolgálat teljesítésére irányuló kérelmét elutasították, újabb kérelmet nem nyújthat be.
 
 (3) A kérelem benyújtása a hadkötelest a megjelenési és bejelentési kötelezettség teljesítése alól nem mentesíti.
 
-29. § (1) A polgári szolgálat teljesítésére vonatkozó engedély iránti kérelmet a Kormány általános hatáskörű területi államigazgatási szerve bírálja el. A hadkiegészítő parancsnokság az eljárásban ügyfélként vehet részt.
+29. § (1) A polgári szolgálat teljesítésére vonatkozó engedély iránti kérelmet a közigazgatási hivatal bírálja el. A hadkiegészítő parancsnokság az eljárásban ügyfélként vehet részt.
 
 (2) A polgári szolgálat teljesítésére vonatkozó engedély iránti kérelmet el kell utasítani, ha a körülményekből a lelkiismereti okra való hivatkozás alaptalansága megállapítható.
 
@@ -709,7 +709,7 @@ adatok.
 
 (4) A megyei védelmi bizottság elnöke a megyei közgyűlés elnöke, a fővárosi védelmi bizottság elnöke a főpolgármester. Tagjai:
 
-- a) a Kormány általános hatáskörű területi államigazgatási szervének a vezetője,
+- a) a közigazgatási hivatal vezetője,
 - b) a megyei (fővárosi) főjegyző,
 - c) a megyei jogú város polgármestere,
 - d) az illetékes hadkiegészítő parancsnokság vezetője, képviselője,

@@ -821,7 +821,7 @@ c) „Bizalmas!” minősítési szintű vagy törvényben, illetve nemzetközi 
 
 (26) A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 75. § (2) bekezdésében az „az állami és a szolgálati titkot” szövegrész helyébe az „a minősített adatot” szöveg, 153. § (4) bekezdésében az „az állami és szolgálati titokról” szövegrész helyébe az „a minősített adat védelméről” szöveg, 159. § (2) bekezdésében az „állam- vagy szolgálati titkot” szövegrész helyébe a „minősített adatot” szöveg lép.
 
-(27) A Nemzeti Földalapról szóló 2001. évi CXVI. törvény 4. § (4) bekezdésében a „titokvédelmi szabályok” szövegrész helyébe a „minősített adat védelmére vonatkozó szabályok” szöveg lép.
+(27)
 
 (28) A bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvény 22. § (3) bekezdésében az „az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvényben” szövegrész helyébe az „a minősített adat védelméről szóló törvényben” szöveg lép.
 

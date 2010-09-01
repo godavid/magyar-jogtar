@@ -108,7 +108,7 @@ A társadalom közmegbecsülését élvező, demokratikus közigazgatás feltét
 
 (3) A pályázatot kiíró szerv a – munkáltatói jogkör gyakorlója által összeállított munkakörtérképen alapuló – pályázati kiírás meghirdetésével egyidejűleg a pályázati kiírást elektronikus úton megküldi a kormányzati személyügyi igazgatási feladatokat ellátó szerv (a továbbiakban: szolgáltató központ) részére, amely azt elektronikusan közzéteszi az egységes hozzáférés biztosítása érdekében.
 
-(4) Központi államigazgatási szervnél, annak területi szervénél és Kormány általános hatáskörű területi államigazgatási szervénél, a helyi önkormányzatok törvényességi ellenőrzésére hatáskörrel rendelkező szervnél vezetői kinevezésre vagy vezetői megbízásra, valamint központi államigazgatási szerv helyi szervének vezetésére szóló vezetői kinevezésre vagy vezetői megbízásra kiírt pályázat esetén – a pályázat kiírójának kezdeményezésére – a pályázati eljárást és az ahhoz kapcsolódó kompetencia-vizsgálatot a szolgáltató központ bonyolítja le.
+(4) Központi államigazgatási szervnél, annak területi szervénél és a közigazgatási hivatalnál vezetői kinevezésre vagy vezetői megbízásra, valamint központi államigazgatási szerv helyi szervének vezetésére szóló vezetői kinevezésre vagy vezetői megbízásra kiírt pályázat esetén – a pályázat kiírójának kezdeményezésére – a pályázati eljárást és az ahhoz kapcsolódó kompetencia-vizsgálatot a szolgáltató központ bonyolítja le.
 
 (5) A (4) bekezdésben meg nem határozott esetekben a pályázatot kiíró szerv kérheti a szolgáltató központtól kompetencia-vizsgálat lefolytatását, amelyről a szolgáltató központ vezetője a rendelkezésére álló szabad kapacitások alapján dönt.
 
@@ -236,7 +236,7 @@ terjed ki.
 
 (3) Politikai főtanácsadói, politikai tanácsadói munkakörbe az nevezhető ki, aki felsőfokú iskolai végzettséggel és a 7. § (1) bekezdésben előírt egyéb feltételekkel rendelkezik. A kinevezés polgármester, a képviselő-testület és bizottsága megbízatásának, illetve feladata ellátásának idejére szól. A politikai főtanácsadó, politikai tanácsadó felett a munkáltatói jogokat a polgármester gyakorolja.
 
-(4) A politikai főtanácsadó, politikai tanácsadó – tekintet nélkül a közszolgálati jogviszonyban eltöltött idejére – főtanácsos vagy vezető-tanácsos besorolást kap, illetményét a besorolásától függetlenül a munkáltatói jogkör gyakorlója állapítja meg.
+(4) A politikai főtanácsadó, politikai tanácsadó – tekintet nélkül a közszolgálati jogviszonyban eltöltött idejére – főtanácsos vagy vezető-tanácsos besorolást kap, illetményét a besorolásától függetlenül a munkáltatói jogkör gyakorlója állapítja meg. A tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
 (5) A vezetői megbízással nem rendelkező politikai főtanácsadó, politikai tanácsadó a köztisztviselőkre vonatkozó szabályok szerint közigazgatási alap- és szakvizsgát tehet. A vizsgák költségei a politikai főtanácsadót, politikai tanácsadót terhelik, mely költségeket a közigazgatási szerv átvállalhatja.
 
@@ -700,13 +700,13 @@ besorolást kap.
 
 - a) a cím adományozását megelőző tíz évben folyamatosan jegyzői, körzetközponti jegyző esetében legalább öt éve körzetközponti jegyzői tisztséget tölt be;
 - b) „kiválóan alkalmas” minősítésű;
-- c) a helyi önkormányzatok törvényességi ellenőrzésére hatáskörrel rendelkező szerv támogató véleményével rendelkezik. A cím adományozására minden évben a Köztisztviselők Napja alkalmából kerül sor.
+- c) a közigazgatási hivatal támogató véleményével rendelkezik. A cím adományozására minden évben a Köztisztviselők Napja alkalmából kerül sor.
 
 (2)
 
 (3)
 
-(4) A címzetes főjegyzői cím adományozását a képviselő-testület a helyi önkormányzatok törvényességi ellenőrzésére hatáskörrel rendelkező szerv útján kezdeményezheti, amely a javaslatot köteles a saját és a jegyzői szakmai érdek-képviseleti szerv véleményével ellátva a helyi önkormányzatokért felelős miniszterhez felterjeszteni. A helyi önkormányzatokért felelős miniszter a beérkezett javaslatokat megküldi a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszternek. A cím adományozását a helyi önkormányzatok törvényességi ellenőrzésére hatáskörrel rendelkező szerv is kezdeményezheti, de ilyenkor ki kell kérnie a képviselő-testület, illetve a jegyzői szakmai érdek-képviseleti szerv véleményét.
+(4) A címzetes főjegyzői cím adományozását a képviselő-testület a közigazgatási hivatal útján kezdeményezheti, amely a javaslatot köteles a saját és a jegyzői szakmai érdek-képviseleti szerv véleményével ellátva a helyi önkormányzatokért felelős miniszterhez felterjeszteni. A helyi önkormányzatokért felelős miniszter a beérkezett javaslatokat megküldi a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszternek. A cím adományozását a közigazgatási hivatal is kezdeményezheti, de ilyenkor ki kell kérnie a képviselő-testület, illetve a jegyzői szakmai érdek-képviseleti szerv véleményét.
 
 (5) Nem jogosult a jegyző, valamint a körzetközponti jegyző a címzetes főjegyzői címre, ha a jegyzői közszolgálati jogviszonya – a (6) bekezdésben foglalt eseteket kivéve – megszűnt, illetve körzetközponti jegyzői feladatokat már nem lát el.
 
@@ -715,7 +715,7 @@ besorolást kap.
 - a) akinek közszolgálati jogviszonya nyugállományba helyezése miatt szűnt meg;
 - b) aki a cím adományozását követően jegyzői közszolgálati jogviszonyát megszünteti és az azt követő munkanapon másik jegyzői közszolgálati jogviszonyt létesít.
 
-(7) A címzetes főjegyzői címet vissza kell vonni attól, aki az (1) bekezdés b)–c) pontjában meghatározott feltétellel már nem rendelkezik, vagy akivel szemben jogerős fegyelmi büntetést szabtak ki. Az (1) bekezdés b) pontjában meghatározott feltétel hiánya esetén a képviselő-testület köteles haladéktalanul kezdeményezni a helyi önkormányzatok törvényességi ellenőrzésére hatáskörrel rendelkező szerv útján a cím visszavonását. A képviselő-testület kezdeményezheti a cím visszavonását attól is, aki etikai vétséget követett el. Az (1) bekezdés c) pontjában foglalt feltétel hiánya esetén a helyi önkormányzatok törvényességi ellenőrzésére hatáskörrel rendelkező szerv kezdeményezi a cím visszavonását.
+(7) A címzetes főjegyzői címet vissza kell vonni attól, aki az (1) bekezdés b)–c) pontjában meghatározott feltétellel már nem rendelkezik, vagy akivel szemben jogerős fegyelmi büntetést szabtak ki. Az (1) bekezdés b) pontjában meghatározott feltétel hiánya esetén a képviselő-testület köteles haladéktalanul kezdeményezni a közigazgatási hivatal útján a cím visszavonását. A képviselő-testület kezdeményezheti a cím visszavonását attól is, aki etikai vétséget követett el. Az (1) bekezdés c) pontjában foglalt feltétel hiánya esetén a közigazgatási hivatal kezdeményezi a cím visszavonását.
 
 (8) A helyi önkormányzatokért felelős miniszter és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter együttes javaslatára a címet a miniszterelnök vonja vissza.
 
@@ -1039,7 +1039,7 @@ kivételesen fontos szolgálati érdeknek minősül a közigazgatási szerv műk
 
 (3) A besorolási osztályokat és a fizetési fokozatokat e törvény 2. számú melléklete tartalmazza.
 
-(4) A hivatali szerv vezetője – az (5) bekezdésben foglaltak kivételével – át nem ruházható hatáskörében, a megállapított személyi juttatások előirányzatán belül tárgyévet megelőző év szakmai munkája értékelése alapján – ide nem értve, ha a köztisztviselő kinevezése év közben történik, vagy áthelyezésére kerül sor – a tárgyévre vonatkozóan a köztisztviselő besorolása szerinti fizetési fokozathoz tartozó alapilletményét – a hivatali szervezet vezetője esetében a kinevezésre jogosult, jegyző, főjegyző esetében a polgármester – december 31-ig – helyi önkormányzatnál tárgyév március 1-jétől következő év február végéig – terjedő időszakra legfeljebb 30%-kal megemelheti, vagy legfeljebb 20%-kal csökkentett mértékben állapíthatja meg. Az eltérítésről a hivatali szervezet vezetője minden év január 31-ig – helyi önkormányzatnál március 1-jéig – dönt. Az így megállapított eltérítés mértéke tárgyévben nem módosítható. A főjegyző, illetve a jegyző részére a polgármester – a teljesítményértékeléstől függően – személyi illetmény megállapítására is jogosult.
+(4) A hivatali szerv vezetője – az (5) bekezdésben foglaltak kivételével – át nem ruházható hatáskörében, a megállapított személyi juttatások előirányzatán belül a tárgyévet megelőző év szakmai munkája értékelése alapján – ide nem értve, ha a köztisztviselő kinevezése év közben történik, vagy áthelyezésére kerül sor – a tárgyévre vonatkozóan a köztisztviselő besorolása szerinti fizetési fokozathoz tartozó alapilletményét – a hivatali szervezet vezetője esetében a kinevezésre jogosult, jegyző, főjegyző esetében a polgármester – december 31-éig – helyi önkormányzatnál tárgyév március 1-jétől következő év február végéig – terjedő időszakra legfeljebb 30%-kal megemelheti, vagy legfeljebb 20%-kal csökkentett mértékben állapíthatja meg. Az eltérítésről a hivatali szervezet vezetője minden év január 31-éig – helyi önkormányzatnál március 1-jéig – dönt. Az így megállapított eltérítés mértéke a tárgyévben nem módosítható. A főjegyző, illetve a jegyző illetményét – a teljesítményértékeléstől függően – a polgármester az e törvényben meghatározott mértéket meghaladóan is megállapíthatja. A tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
 (5) A főosztályvezető alapilletményét – vezetői munkájuk értékelésétől függően – át nem ruházható hatáskörében legfeljebb 30%-kal megemelheti, vagy legfeljebb 20%-kal csökkentett mértékben állapíthatja meg:
 
@@ -1074,7 +1074,7 @@ kivételesen fontos szolgálati érdeknek minősül a közigazgatási szerv műk
 
 (5) A helyi önkormányzat a már megállapított illetménykiegészítés mértékét nem csökkentheti.
 
-44/B. § Az önkormányzati hivatalnál, teljesítményértékeléssel alátámasztott, kimagasló teljesítményt nyújtó köztisztviselőnek az e törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő – az éves költségvetésben megállapított létszám legfeljebb 20%-áig – személyi illetményt állapíthat meg – a polgármester, a főpolgármester, a megyei közgyűlés elnöke jóváhagyásával – a jegyző, illetve a főjegyző.
+44/B. § A képviselő-testület hivatalánál, teljesítményértékeléssel alátámasztott, kimagasló teljesítményt nyújtó köztisztviselőnek – az éves költségvetésben megállapított létszám legfeljebb 20%-áig – a jegyző, illetve a főjegyző – a polgármester, a főpolgármester, a megyei közgyűlés elnöke jóváhagyásával – az e törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő illetményt állapíthat meg. A tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
 45. § (1) A vezető alapilletménye:
 
@@ -1630,7 +1630,7 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 
 (3) A központi közszolgálati nyilvántartás adatkezelője a központi közszolgálati hatóság. A központi közszolgálati nyilvántartás kezeléséért, az adatkezelésre vonatkozó döntésekért, az adatkezelés jogszerűségéért, a kapcsolódó iratok, adatok védelméért és a feldolgozott adatokból történő adatszolgáltatásokért a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter a felelős.
 
-(4) A Kormány általános hatáskörű területi államigazgatási szerve ellenőrzik az illetékességi körükbe tartozó közigazgatási szervek adatszolgáltatását és adatgyűjtői feladatokat látnak el. A központi közszolgálati hatóság – a Kormány által meghatározott rendben – a Kormány általános hatáskörű területi államigazgatási szerve rendelkezésére bocsátja az illetékességi körükbe tartozók adatainak feldolgozott, karbantartott adatállományát. A Kormány általános hatáskörű területi államigazgatási szerve a közigazgatási szervek adatszolgáltatásának ellenőrzése céljából, valamint a közszolgálati ellenőrzéshez, a közigazgatási képzési, továbbképzési feladatokhoz, illetve – a Kormány által meghatározott körben – a közvélemény tájékoztatásához hasznosíthatják a rendelkezésükre bocsátott adatállományt, amelyből hivatali adatfeldolgozást kizárólag e célból végezhetnek.
+(4) A közigazgatási hivatal ellenőrzik az illetékességi körükbe tartozó közigazgatási szervek adatszolgáltatását és adatgyűjtői feladatokat látnak el. A központi közszolgálati hatóság – a Kormány által meghatározott rendben – a közigazgatási hivatal rendelkezésére bocsátja az illetékességi körükbe tartozók adatainak feldolgozott, karbantartott adatállományát. A közigazgatási hivatal a közigazgatási szervek adatszolgáltatásának ellenőrzése céljából, valamint a közszolgálati ellenőrzéshez, a közigazgatási képzési, továbbképzési feladatokhoz, illetve – a Kormány által meghatározott körben – a közvélemény tájékoztatásához hasznosíthatják a rendelkezésükre bocsátott adatállományt, amelyből hivatali adatfeldolgozást kizárólag e célból végezhetnek.
 
 (5) A központi közszolgálati nyilvántartás célja:
 
@@ -1661,7 +1661,7 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 - h) az ügyészi törvényességi feladatkörében eljárva az ügyész,
 - i) a személyes adatok kezelésével összefüggésben az adatvédelmi biztos,
 - j) a személyzeti, munkaügyi és illetmény-számfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül, e törvény 3. számú mellékletének I/A., I/B., II., IV., V., VII., VIII. és X. pontokban foglalt adatkörökből a köztisztviselő illetményének számfejtése, illetve annak ellenőrzése céljából,
-- k) a központi közszolgálati nyilvántartás vezetésével összefüggésben a központi közszolgálati hatóság és a Kormány általános hatáskörű területi államigazgatási szerve köztisztviselője feladatkörében,
+- k) a központi közszolgálati nyilvántartás vezetésével összefüggésben a központi közszolgálati hatóság és a közigazgatási hivatal köztisztviselője feladatkörében,
 - l) a feladatai ellátásához szükséges mértékig adategyezés, adatösszevetés, adatkorrigálás érdekében a minisztériumokra, illetve a Miniszterelnökségre vonatkozó adatok tekintetében a szolgáltató központ vezetője, valamint az általa meghatározott körben, az általa feljogosított, szolgáltató központnál alkalmazásban álló személy.
 
 (2) A központi közszolgálati nyilvántartásba jogosult betekinteni:
@@ -1669,7 +1669,7 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 - a) saját adataiba a köztisztviselő,
 - b) a kormányzati döntések megalapozásához szükséges körben a miniszter,
 - c)
-- d) illetékességi területének adatai körében a Kormány általános hatáskörű területi államigazgatási szerve vezetője,
+- d) illetékességi területének adatai körében a közigazgatási hivatal vezetője,
 - e) a feladatai ellátásához szükséges mértékig a minisztériumokra, illetve a Miniszterelnökségre vonatkozó adatok tekintetében a szolgáltató központ vezetője, valamint az általa meghatározott körben, az általa feljogosított, szolgáltató központnál alkalmazásban álló személy.
 
 (3) Kormányrendeletben meghatározott módon a központi közszolgálati nyilvántartásból — személyi azonosításra alkalmas adatokat nem tartalmazó — adatszolgáltatás végezhető.
@@ -1692,7 +1692,7 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 
 ### Közszolgálati ellenőrzés
 
-64/A. § A Kormány ellenőrzi – a helyi önkormányzatok törvényességi ellenőrzésére hatáskörrel rendelkező szerv közreműködésével – a közszolgálati jogszabályok végrehajtását. Ennek keretében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter javaslatára évente meghatározza a vizsgálati tárgyköröket (célvizsgálat), valamint a vizsgálat alá vont 1. § (1) bekezdésében meghatározott szerveket (a továbbiakban: vizsgált szervek). A célvizsgálatot a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter folytatja le, amelynek tapasztalatairól a Kormányt évente tájékoztatja.
+64/A. § A Kormány ellenőrzi – a közigazgatási hivatal közreműködésével – a közszolgálati jogszabályok végrehajtását. Ennek keretében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter javaslatára évente meghatározza a vizsgálati tárgyköröket (célvizsgálat), valamint a vizsgálat alá vont 1. § (1) bekezdésében meghatározott szerveket (a továbbiakban: vizsgált szervek). A célvizsgálatot a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter folytatja le, amelynek tapasztalatairól a Kormányt évente tájékoztatja.
 
 ### VII. Fejezet — KÖZTISZTVISELŐI ÉRDEKEGYEZTETÉS
 

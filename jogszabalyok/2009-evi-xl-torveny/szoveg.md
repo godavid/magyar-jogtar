@@ -222,7 +222,7 @@ b) a nyugellátás november havi összegének 25 százaléka, de legfeljebb 20 0
   - ga) 13/A. § (1) bekezdés a) pontjában a „társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 7. §-ának (1), (4) és (5) bekezdésében” szövegrész helyébe a „társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényben (a továbbiakban: Tny.)” szöveg,
   - gb) 13/B. § (1) bekezdésében a „Tny. 7. § (1), (4) és (5) bekezdésében” szövegrész helyébe a „Tny.-ben” szöveg;
 - h) a Tbj. 34. § (5) bekezdés b) pontjában a „Tny. 7. § (1) bekezdésében” szövegrész helyébe a „Tny.-ben” szöveg;
-- i) a Nemzeti Földalapról szóló 2001. évi CXVI. törvény 13/A. § (3) bekezdésének első mondatában az „a 62. év feletti” szövegrész helyébe az „az öregségi nyugdíjkorhatárt betöltött” szöveg;
+- i)
 - j) a nyugdíjak korrekciós célú emeléséről szóló 2005. évi CLXXIII. törvény 6. § (1) bekezdés első mondatában az „1–5. §-okban” szövegrész helyébe az „1–4. §-ban” szöveg, az „1–3. és 5. §-ban” szövegrész helyébe az „1–4. §-ban” szöveg;
 - k) a rehabilitációs járadékról szóló 2007. évi LXXXIV. törvény 30. § (3) bekezdésében a „Tny. 7. §-ának (1) bekezdésében vagy 18. §-ának (1) bekezdésében” szövegrész helyébe a „Tny.-ben” szöveg
 

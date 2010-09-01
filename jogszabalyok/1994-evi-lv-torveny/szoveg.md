@@ -40,8 +40,8 @@ a következő törvényt alkotja:
 - j) a gazdálkodó család tagjai: a családi gazdálkodó, annak házastársa, élettársa, kiskorú gyermeke, unokája, valamint a gazdálkodó család tagjaként bejelentkezett nagykorú gyermeke, szülője, nagyszülője; gyermeken az örökbe fogadott, a mostoha és a nevelt gyermeket is érteni kell;
 - k) mezőgazdasági tevékenység: növénytermesztés, kertészet, állattenyésztés, halászat, haltenyésztés, szaporító anyag termesztés, vadgazdálkodás, erdőgazdálkodás, vegyes gazdálkodás;
 - l) kiegészítő tevékenység: falusi és agroturizmus, kézművesipari tevékenység, fűrészáru-feldolgozás, elsődleges élelmiszer-feldolgozás, a mezőgazdasági tevékenység során keletkezett melléktermékek, növényi és állati eredetű hulladék hasznosítása, nem élelmiszercélú feldolgozása, valamint az ezekből a termékekből keletkezett termékek közvetlen termelői értékesítése, mezőgazdasági szolgáltatás;
-- m) helyben lakó: 1. az a magánszemély, akinek bejelentett lakóhelye legalább három éve azon a településen van, amelynek közigazgatási területén a termőföld vagy tanya fekszik; 2. az a magánszemély, akinek legalább három éve a bejelentett lakóhelye olyan településen van, amelynek közigazgatási határa a termőföld vagy tanya fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 15 km távolságra van; 3. az i) pont 3. alpontja szerinti szakirányú képzettséggel rendelkező, helyben lakást és mezőgazdasági tevékenység élethivatásszerű folytatását vállaló magánszemély; 4. az olyan jogi személy, illetve jogi személyiséggel nem rendelkező más szervezet, amelynek bevétele több mint 50%-ban a k) és l) pontok szerinti mezőgazdasági és kiegészítő tevékenységből származik, és székhelye az 1–2. alpontban meghatározott településen van; és 5. természetes személy esetében családi gazdálkodó vagy nyilvántartási (regisztrációs) számmal rendelkező őstermelő, illetőleg egyéni mezőgazdasági vállalkozó, vagy a 4. alpont alatti szervezet természetes személy tagja vagy részvényese;
-- n) helyben lakó szomszéd: az a helyben lakó, akinek a tulajdonában vagy használatában lévő termőföld vagy tanya közvetlenül szomszédos az adásvétel, illetve a haszonbérlet tárgyát képező termőfölddel vagy tanyával;
+- m) helyben lakó: az a családi gazdálkodó vagy nyilvántartási számmal rendelkező őstermelő, vagy egyéni mezőgazdasági vállalkozó magánszemély, akinek 1. lakóhelye legalább három éve azon a településen van, amelynek közigazgatási területén a termőföld vagy tanya fekszik; 2. lakóhelye legalább három éve olyan településen van, amelynek közigazgatási határa a termőföld vagy tanya fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 15 km távolságra van;
+- n) helyben lakó szomszéd: az a helyben lakó, akinek a tulajdonában vagy használatában lévő termőföld vagy tanya közvetlenül, illetve önálló helyrajzi szám alatt nyilvántartott út, árok, csatorna közbeékelődésével szomszédos az adásvétel, illetve a haszonbérlet tárgyát képező termőfölddel vagy tanyával;
 - o) önálló vállalkozó: az egyéni vállalkozó, az egyéni cég vagy az önfoglalkoztató;
 - p) önfoglalkoztató: az a magánszemély, aki bármely jogszabály szerint önállóan végezhető és az egyéni vállalkozásról szóló törvény hatálya alá nem tartozó gazdasági tevékenységet végez, ha az egészségbiztosítási, illetőleg a nyugdíjbiztosítási szolgáltatások fedezetéről a jogszabályok rendelkezései szerint maga gondoskodik;
 - q) termőföldnek nem minősülő ingatlan: a termőföldnek nem minősülő földrészlet, egyéb önálló ingatlan;
@@ -119,7 +119,7 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 (2) A tulajdonjog bejegyzéséről szóló határozatot és a bejegyzés alapját képező okirat másolatát az ingatlanügyi hatóság megküldi a mezőgazdasági igazgatási szervnek.
 
-8/C. § (1) A 8/A. §-ban meghatározott feltételek betartását a helyi birtokhasznosítási bizottság, ennek hiányában a települési önkormányzat jegyzője és az ingatlanügyi hatóság bevonásával a mezőgazdasági igazgatási szerv ellenőrizheti.
+8/C. § (1) A 8/A. §-ban meghatározott feltételek betartását az ingatlanügyi hatóság bevonásával a mezőgazdasági igazgatási szerv ellenőrizheti.
 
 (2) Ha a mezőgazdasági igazgatási szerv az ellenőrzés során az összes körülmény alapos mérlegelése alapján megállapítja, hogy a tulajdonos
 
@@ -149,22 +149,22 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 10. § (1) Termőföld vagy tanya eladása esetén – ha törvény másként nem rendelkezik – az alábbi sorrendben elővásárlási jog illeti meg:
 
-- a) a haszonbérlőt, felesbérlőt és részesművelőt; jogi személy vagy jogi személyiség nélküli más szervezet haszonbérlő esetén annak helyben lakó természetes személy tagját, illetve helyben lakó részvényesét;
-- b) a helyben lakó szomszédot;
-- c) a helyben lakót;
-- d) a magyar államot a Nemzeti Földalapról szóló törvényben foglaltak szerint.
+- a) a Magyar Államot a Nemzeti Földalapról szóló törvényben foglaltak szerint;
+- b) a helyben lakó haszonbérlőt, felesbérlőt és részesművelőt;
+- c) a helyben lakó szomszédot;
+- d) a helyben lakót;
+- e) haszonbérlőt, felesbérlőt és részesművelőt.
 
-(2) Az (1) bekezdés b)–c) pontjában meghatározott jogosulti csoportokon belül az elővásárlási jog gyakorlásának sorrendje a következő:
+(2) Az (1) bekezdés c)–d) pontjában meghatározott jogosulti csoportokon belül az elővásárlási jog gyakorlásának sorrendje a következő:
 
 - a) a családi gazdálkodó;
-- b) nyilvántartási (regisztrációs) számmal rendelkező őstermelő, illetőleg egyéni mezőgazdasági vállalkozó;
-- c) jogi személy, illetve jogi személyiség nélküli más szervezet esetén annak helyben lakó természetes személy tagja vagy helyben lakó részvényese.
+- b) nyilvántartási számmal rendelkező őstermelő, illetőleg egyéni mezőgazdasági vállalkozó.
 
 (3) Az (1) bekezdés szerinti elővásárlási jog nem áll fenn a közeli hozzátartozók [Ptk. 685. § b) pont] és a tulajdonostársak közötti adásvétel esetén, a mezőgazdasági termelők gazdaságátadási támogatása feltételeként megvalósuló termőföld eladása esetén, valamint olyan külterületi földrészlet eladása esetén, amely a törvény hatálybalépéséig zártkertinek minősült.
 
 (4) Az (1)–(2) bekezdés szerinti sorrend az elővásárlásra jogosultak egymás közötti viszonyában is irányadó.
 
-(5) Az (1) bekezdés a) pontja alapján az elővásárlási jogot akkor lehet gyakorolni, ha a haszonbérleti jogviszony (felesbérlet, részesművelés) legalább három éve fennáll. Ha a haszonbérlő (felesbérlő, részesművelő) jogi személy vagy jogi személyiség nélküli más szervezet, ennek tagja, illetve részvényese esetén további feltétel a legalább hároméves tagi, illetve részvényesi jogviszony.
+(5) Az (1) bekezdés b) és e) pontja alapján az elővásárlási jogot akkor lehet gyakorolni, ha a haszonbérleti jogviszony (felesbérlet, részesművelés) legalább három éve fennáll.
 
 (6) Termőföld vagy tanya eladása (haszonbérbe adása) esetén, amennyiben e törvény, valamint a Ptk. alapján törvényes elővásárlási (előhaszonbérleti) jog áll fenn, a termőföld, tanya tulajdonosának az ingatlanra vonatkozó vételi (haszonbérleti) ajánlatot hirdetményi úton kell az elővásárlásra (előhaszonbérletre) jogosulttal közölnie. A Nemzeti Földalapba tartozó termőföldek tekintetében a törvény elővásárlási (előhaszonbérleti) jogra vonatkozó rendelkezéseit a külön jogszabályban foglalt eltérésekkel kell alkalmazni. A hirdetményi úton történő közléssel összefüggő igazgatási jellegű szolgáltatásért igazgatási szolgáltatási díjat kell fizetni.
 
@@ -239,7 +239,7 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 - a) a családi gazdálkodó;
 - b) nyilvántartási (regisztrációs) számmal rendelkező őstermelő, egyéni mezőgazdasági vállalkozó;
-- c) jogi személy és jogi személyiség nélküli más szervezet.
+- c)
 
 (3) Az állattartó telep és halastó üzemeltetőjét az ingatlan-nyilvántartásban szántó, rét, legelő, valamint fásított terület művelési ágban nyilvántartott termőföldre – a 21. § (1) bekezdésének a) pontjában foglalt személyekkel azonos sorrendben – előhaszonbérleti jog illeti meg, feltéve hogy
 
@@ -468,13 +468,13 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 82–87. §
 
-88. § (1) Külföldi jogi vagy magánszemély termőföldnek nem minősülő ingatlan tulajdonjogát – az öröklés, valamint a 88/A. §-ban foglaltak kivételével – a Kormány ingatlan fekvése szerint illetékes általános hatáskörű területi államigazgatási szervének az engedélyével szerezheti meg.
+88. § (1) Külföldi jogi vagy magánszemély termőföldnek nem minősülő ingatlan tulajdonjogát – az öröklés, valamint a 88/A. §-ban foglaltak kivételével – az ingatlan fekvése szerint illetékes közigazgatási hivatal engedélyével szerezheti meg.
 
-(2) A Kormány általános hatáskörű területi államigazgatási szerve határozata ellen fellebbezésnek helye nincs.
+(2) A közigazgatási hivatal határozata ellen fellebbezésnek helye nincs.
 
 (3) Diplomáciai, konzuli képviselet, valamint ezekkel egy tekintet alá eső nemzetközi szervezetek ingatlanszerzéséhez a külpolitikáért felelős miniszter engedélye szükséges. A külpolitikáért felelős miniszter az engedélyt nemzetközi szerződés vagy viszonosság fennállása alapján adja meg.
 
-88/A. § (1) A tagállami állampolgár, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes államban, továbbá a nemzetközi szerződés alapján velük egy tekintet alá eső államban bejegyezett jogi személy vagy jogi személyiség nélküli szervezet a Magyar Köztársaságnak az Európai Unióhoz való csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépését követően a termőföldnek nem minősülő ingatlan tulajdonjogát a belföldi személyekkel azonos feltételekkel (engedély nélkül) szerezheti meg, kivéve a másodlagos lakóhelyül szolgáló ingatlant, amelynek megszerzéséhez az említett törvény hatálybalépésétől számított öt évig (a továbbiakban: az átmeneti időszak alatt) a Kormány általános hatáskörű területi államigazgatási szerve engedélye szükséges.
+88/A. § (1) A tagállami állampolgár, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes államban, továbbá a nemzetközi szerződés alapján velük egy tekintet alá eső államban bejegyezett jogi személy vagy jogi személyiség nélküli szervezet a Magyar Köztársaságnak az Európai Unióhoz való csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépését követően a termőföldnek nem minősülő ingatlan tulajdonjogát a belföldi személyekkel azonos feltételekkel (engedély nélkül) szerezheti meg, kivéve a másodlagos lakóhelyül szolgáló ingatlant, amelynek megszerzéséhez az említett törvény hatálybalépésétől számított öt évig (a továbbiakban: az átmeneti időszak alatt) a közigazgatási hivatal engedélye szükséges.
 
 (2) Ha a tagállami állampolgár legalább négy éve folyamatosan és jogszerűen Magyarországon tartózkodik, a másodlagos lakóhelyül szolgáló ingatlan tulajdonjogát engedély nélkül szerezheti meg.
 
@@ -486,9 +486,9 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 (3) Ha a tagállami állampolgár elsődleges lakóhelyül szolgáló ingatlannal már rendelkezik, nem szerezhet ugyanezen a címen újabb ingatlant az átmeneti időszak alatt.
 
-88/C. § (1) A 88/B. § alapján történő ingatlanszerzés feltételeinek betartását a Kormány általános hatáskörű területi államigazgatási szerve a települési önkormányzat jegyzője és az ingatlanügyi hatóság bevonásával ellenőrizheti.
+88/C. § (1) A 88/B. § alapján történő ingatlanszerzés feltételeinek betartását a közigazgatási hivatal a települési önkormányzat jegyzője és az ingatlanügyi hatóság bevonásával ellenőrizheti.
 
-(2) Ha a Kormány általános hatáskörű területi államigazgatási szerve az ellenőrzés során megállapítja, hogy a tagállami állampolgár nem tartotta be az engedélyhez nem kötött ingatlanszerzés feltételeit, felhívja a tulajdonos figyelmét a jogszabálysértésre, valamint határidő tűzésével a 88. §-ban meghatározott engedély iránti kérelem benyújtására.
+(2) Ha a közigazgatási hivatal az ellenőrzés során megállapítja, hogy a tagállami állampolgár nem tartotta be az engedélyhez nem kötött ingatlanszerzés feltételeit, felhívja a tulajdonos figyelmét a jogszabálysértésre, valamint határidő tűzésével a 88. §-ban meghatározott engedély iránti kérelem benyújtására.
 
 88/D. § Külföldi magánszemély és jogi személy, vagy jogi személyiség nélküli szervezet – kivéve a tagállami állampolgárt, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes államban, továbbá a nemzetközi szerződés alapján velük egy tekintet alá eső államban bejegyezett jogi személyt, vagy jogi személyiség nélküli szervezetet – termőföldnek nem minősülő védett természeti terület tulajdonjogát nem szerezheti meg.
 

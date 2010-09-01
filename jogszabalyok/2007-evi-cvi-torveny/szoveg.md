@@ -18,9 +18,10 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 (3) Külön törvény rendelkezik:
 
 - a) a koncesszióról (az állami monopóliumok hasznosításáról),
-- b) a Magyar Nemzeti Bank, az Államadósság Kezelő Központ Zrt. és a Magyar Távirati Iroda Zrt. működéséről.
+- b) a Magyar Nemzeti Bank, az Államadósság Kezelő Központ Zrt. és a Magyar Távirati Iroda Zrt. működéséről,
+- c) az állami tulajdonban lévő termőföldekről, mező-, erdőgazdasági művelés alatt álló belterületi földekről, valamint a mező-, erdőgazdasági tevékenységet szolgáló, vagy ahhoz szükséges művelés alól kivett területekről.
 
-(4) Az állami tulajdonban álló, a hatályos jogszabályok szerint lakásnak minősülő ingatlanok értékesítésére vagy bérbeadására vonatkozó eljárásokban, valamint a Nemzeti Földalapba tartozó vagyonnal kapcsolatosan e törvény rendelkezéseit külön törvényben foglalt eltérésekkel kell alkalmazni.
+(4) Az állami tulajdonban álló, a hatályos jogszabályok szerint lakásnak minősülő ingatlanok értékesítésére vagy bérbeadására vonatkozó eljárásokban e törvény rendelkezéseit külön törvényben foglalt eltérésekkel kell alkalmazni.
 
 (5) Nem tartozik e törvény hatálya alá az a vagyon, amelynél az állami tulajdonszerzésre az állam közjogi kötelezettségeinek, jogosultságainak gyakorlása következtében, vagy azzal összefüggésben kerül sor, így a szabálysértési és büntetőeljárásokban elkobzás, vagyonelkobzás útján, vagy a köztartozások fejében állami tulajdonba kerülő vagyon (adó-, vám-, illeték, egyéb állami támogatás, ideértve az elkülönített állami pénzalapokból finanszírozott állami feladatokkal kapcsolatos állami követeléseket).
 
@@ -302,7 +303,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 - a) az (1) bekezdésben meghatározottak alapján megismert személyes adatokat a szerződés megkötéséről meghozott döntés időpontjáig,
 - b) a (2) bekezdésben meghatározottak alapján megismert személyes adatokat a szerződés érvényessége végéig kezeli.
 
-26. § Az állami tulajdonban lévő termőföldeket az MNV Zrt. az erre vonatkozó külön törvény rendelkezései, illetve az abban szabályozott földbirtok-politikai irányelvek szerint hasznosítja.
+26. §
 
 ### A vagyonkezelés szabályai
 
@@ -421,7 +422,7 @@ lehet végezni.
 
 - a) nemzetközi szerződésben vállalt, vagy nemzetközi szervezetben viselt tagságból eredő segítségnyújtási vagy más kötelezettség teljesítése érdekében,
 - b) belföldi vagy külföldi katasztrófák és súlyos szerencsétlenségek megelőzése, következményeinek elhárítása vagy enyhítése érdekében,
-- c) helyi önkormányzat javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése, vagy szociális földprogram megvalósítása érdekében,
+- c) helyi önkormányzat javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése érdekében,
 - d) többcélú kistérségi társulás javára feladatai ellátásának elősegítése érdekében,
 - e) külön törvény szerinti kiemelkedően közhasznú szervezet javára, az általa átvállalt állami vagy önkormányzati közfeladat ellátásának elősegítése érdekében, valamint a Magyar Tudományos Akadémia javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése, vagy az általa átvállalt állami közfeladat ellátásának elősegítése érdekében,
 - f) az MNV Zrt. által peres eljárásban kötött, bíróság által jóváhagyott egyezség keretében állami vagyonba tartozó dolog tulajdonjogáról való lemondás esetén.
@@ -434,9 +435,9 @@ lehet végezni.
 
 (6) A (2)–(5) bekezdésben megjelölt vagyonátadás illetékmentes.
 
-37. § (1) Az állami tulajdonban lévő védett természeti területek és értékek, erdők, műemlékingatlanok, műkincsek, valamint történeti (régészeti) emlékek és földterületek tulajdonjogának bármely jogcímen történő átruházására csak e védett vagyonra vonatkozó külön törvényben meghatározott esetekben és módon kerülhet sor.
+37. § (1) Az állami tulajdonban lévő védett természeti területek és értékek, műemlékingatlanok, műkincsek, valamint történeti (régészeti) emlékek és földterületek tulajdonjogának bármely jogcímen történő átruházására csak e védett vagyonra vonatkozó külön törvényben meghatározott esetekben és módon kerülhet sor.
 
-(2) E törvénynek az állami vagyon elidegenítésére vonatkozó szabályait termőföld esetén a külön törvényben meghatározott eltérésekkel kell alkalmazni.
+(2)
 
 ### Állami tulajdonú gazdasági társaságok elidegenítésének speciális szabályai
 
@@ -529,25 +530,7 @@ b) ingatlancserére, amennyiben külön jogszabály – ide nem értve az önkor
 
 c) a helyi önkormányzat korlátozottan forgalomképes és forgalomképes vagyonának az Ötv. 80/A. § (5) bekezdés szerinti vagyonkezelésbe adására.”
 
-45. § (1) E törvény hatálybalépésével egyidejűleg a Nemzeti Földalapról szóló 2001. évi CXVI. törvény (a továbbiakban: NFA tv.)
-
-- a) 1. §-ának (3) bekezdésében az „a miniszter” szövegrész helyébe az „az agrárpolitikáért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter” szöveg, a „Nemzeti Földalap kezeléséért felelős szerv (a továbbiakban: földalapkezelő szerv)” szövegrész helyébe a „Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.)” szöveg,
-- b) 4. § (1) bekezdésében, 4. § (2) bekezdésének b) és c) pontjában, 4. § (4) bekezdésének első tagmondatában és (5) bekezdésében, 4/A. §-ának (4) bekezdésében, 8. §-ának (1) és (4) bekezdésében, 10. §-ának (1) bekezdésében, 13. §-ának (8) bekezdésében, 13/A. §-ának (2) és (6) bekezdésében, 14. §-ának (1) és (2) bekezdésében az „a földalapkezelő szerv” szövegrész helyébe az „az MNV Zrt.” szöveg, 12. §-ában, 13. §-ának (1) és (7) bekezdésében, valamint 13/A. §-ának (3) bekezdésében az „A földalapkezelő szerv” szövegrész helyébe az „Az MNV Zrt.” szöveg,
-- c) 4. § (1) bekezdésében a „továbbiakban: ellenőrző bizottság” szövegrész helyébe a „továbbiakban: NFA ellenőrző bizottság” szöveg,
-- d) 4. §-ának (1)–(5) bekezdésében, 13/A. §-ának (6) bekezdésében az „ellenőrző bizottság” szövegrész helyébe az „NFA ellenőrző bizottság” szöveg,
-- e) 4. § (2) bekezdésének d) pontjában a „földalapkezelő szervhez” szövegrész helyébe a „Nemzeti Földalapba” szöveg,
-- f) 4. §-ának (4) bekezdésében a „földalapkezelő szerv által kezelt vagyon” szövegrész helyébe a „Nemzeti Földalapba tartozó vagyonelem” szöveg,
-- g) 4/A. §-ának (5) bekezdésében az „a miniszter” szövegrész helyébe az „az agrárpolitikáért felelős miniszter” szöveg,
-- h) 8. §-ának (2) bekezdésében az „a földalapkezelő szervnek” szövegrész helyébe az „az MNV Zrt.-nek” szöveg,
-- i) 9. §-ának (1) bekezdésében az „a földalapkezelő szervhez” szövegrész helyébe az „az MNV Zrt.-hez” szöveg,
-- j) 13. §-ának (8) bekezdésében az „a Tft. 36. §-ában” szövegrész helyébe a „külön törvényben” szöveg,
-- k) 13. §-ának (10) bekezdésében a „földalapkezelő szerv” szövegrész helyébe a „Tanács” szöveg,
-- l) 13/A. §-ának (1) bekezdésében az „a kincstári vagyon kezelésére” szövegrész helyébe az „az állami vagyonra” szöveg,
-- m) 13/A. §-ának (6) bekezdésében a „miniszter” szövegrész helyébe a „Tanács” szöveg,
-- n) 16. §-ának (2) bekezdésében az „a földalapkezelő szerv előirányzatából kell biztosítani” szövegrész helyébe az „az MNV Zrt. biztosítja” szöveg,
-- o) 16. §-ának (3) bekezdésében az „A földalapkezelő szervvel” szövegrész helyébe az „Az MNV Zrt.-vel” szöveg
-
-lép.
+45. § (1)
 
 (2) Az NFA tv. 3. §-ának helyébe a következő rendelkezés lép:
 
@@ -695,38 +678,7 @@ lép.
 
 (2) E törvény hatálybalépésével egyidejűleg a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény (a továbbiakban: Hvt.) 86. §-ának (1) bekezdésében a „kincstári vagyoni körbe tartozó” szövegrész, valamint 89. §-ának (1) bekezdésében az „és a kincstári vagyon részét képezik” szövegrész hatályát veszti.
 
-58. § (1) E törvény hatálybalépésével egyidejűleg hatályát veszti
-
-- a) az Áht. 95/B. §-a, 104. §-ának (1) bekezdése, 106. §-a, 108. §-ának (5) és (6) bekezdése, 109–109/K. §-ai, a 109/A. §-t megelőző „A kincstári vagyon” alcím, 124. §-a (2) bekezdésének m) pontja, valamint 124/A. §-ának c) pontja,
-- b) az állam tulajdonában álló vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény I–V. fejezete, 70–73. §-a, 76. § (2) bekezdése, 77–78. §-a és melléklete, valamint
-- c) az állami tulajdonban lévő ingatlanok pártok által történő használatáról szóló 2000. évi XCIV. törvény,
-- d) az állam tulajdonában és pártok használatában álló ingatlanok hasznosításának rendezéséről szóló 2000. évi XCV. törvény,
-- e) az Atv. 5. §-ának (1) bekezdésében a „kivéve az MTA Központi Ellátási Szolgálat (melléklet 11. számú tétel) épületében elhelyezett kutatóintézetek működéséhez szükséges tárgyi eszközöket és vagyontárgyakat” szövegrész, 5. §-ának (2)–(4) bekezdése, 8. §-ának (1) bekezdésében az „– az 5. § előírásait figyelembe véve –” szövegrész, 14. §-ának (2) bekezdésében az „illetőleg az Akadémiára bízott”, valamint az „e törvény 5. §-ában és” szövegrész, 19. §-ának (1) bekezdésében „ , a rábízott vagyon tekintetében a Vagyonkezelő Kuratórium” szövegrész,
-- f) az NFA tv. 1. §-ának (1) bekezdésében a „mint a kincstári vagyon része” szövegrész, 1. §-ának (2) bekezdése, 3. §-a előtt az „A földalapkezelő szerv” cím, 6. § (1) bekezdésének b) pontja, 6. §-ának (2) és (3) bekezdése, 11. §-ában „a miniszter által vezetett minisztérium hivatalos lapjában,” szövegrész, 13. §-ának (6) és (9) bekezdése, 13/A. §-ának (4) és (5) bekezdése, valamint 21. §-a,
-- g) a Nemzeti Földalapról szóló 2001. évi CXVI. törvény módosításáról szóló 2005. évi CLXXV. törvény 12. §-ának (3) bekezdése,
-- h)
-- i) az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló 1996. évi LXV. törvény preambuluma, 1. §-a, 3–4/A. §-ai, 5. §-ának (1)–(3) bekezdései, 6. §-a, 7. § (2) bekezdésének második mondata, valamint 10–11. §-ai,
-- j) a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 81. §-ában az „– a kincstári vagyon kezeléséért felelős szerv vagyonkezelésében lévő, állami tulajdonú műemlékek esetében a kincstári vagyon kezeléséért felelős szerv előirányzatai között –” szövegrész,
-- k) a társadalmi szervezetek által használt állami tulajdonú ingatlanok jogi helyzetének rendezéséről szóló 1997. évi CXLII. törvény 2–6. §-a, 12–14. §-a, 15. §-ának (2) bekezdése, 18. §-a, 20–21. §-a és 23. §-a,
-- l) a társadalmi szervezetek által használt állami tulajdonú ingatlanok jogi helyzetének rendezéséről szóló 1997. évi CXLII. törvény módosításáról szóló 1999. évi CVII. törvény 8. §-a,
-- m) a sportról szóló 2004. évi I. törvény 77. §-ának g) pontja,
-- n) a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 11. §-ának (4) bekezdésében az „a kincstári vagyon kezelésére vonatkozó szabályok szerint” szövegrész, valamint 16. §-ának (5) bekezdésében az „és a kincstári vagyon részét képező” szövegrész,
-- o) a kincstári vagyonért való miniszteri felelősség rendjének megváltoztatásához szükséges törvénymódosításokról szóló 1998. évi XL. törvény,
-- p) a Ktv. 44. §-ának (1) bekezdésében a „Nemzeti Földalapkezelő Szervezetnél” szövegrész.
-
-(2) 2008. január 1-jén hatályát veszti:
-
-- a) az illetékekről szóló 1990. évi XCIII. törvény 5. § (1) bekezdésének c) pontjában az „az Állami Privatizációs és Vagyonkezelő Részvénytársaság,” szöveg,
-- b) az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény 30. § (1) bekezdésének c) pontjában az „az Állami Privatizációs és Vagyonkezelő Részvénytársaság,” szöveg,
-- c) a közbeszerzésekről szóló 2003. évi CXXIX. törvény 22. § (1) bekezdésének g) pontjában az „az Állami Privatizációs és Vagyonkezelő Részvénytársaság,” szöveg,
-- d) a Kutatási és Technológiai Innovációs Alapról szóló 2003. évi XC. törvény 3. §-ának (2) bekezdésében az „az Állami Privatizációs és Vagyonkezelő Részvénytársaság,” szöveg,
-- e) a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény 15. §-ának (2) bekezdése,
-- f) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 5. számú mellékletének 6. pontjában az „az Állami Privatizációs és Vagyonkezelő Részvénytársaság, és” szöveg,
-- g) a helyi adókról szóló 1990. évi C. törvény 3. §-ának (4) bekezdésében az „az Állami Privatizációs és Vagyonkezelő Részvénytársaságra,” szöveg,
-- h) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény 8. §-ának (3) bekezdésében az „az Állami Privatizációs és Vagyonkezelő Zártkörűen Működő Részvénytársaság igazgatóságának tagjaira,” szöveg,
-- i) az állam tulajdonában álló vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény,
-- j) az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 72. § (1) bekezdésének d) pontjában az „a kincstári vagyon kezeléséért felelős szerv,” szövegrész,
-- k) az Áht. 18/C. § (6) bekezdés d) pontjában az „az Állami Privatizációs és Vagyonkezelő Rt. (a továbbiakban: ÁPV Rt.) a hozzárendelt vagyon és a privatizációs tartalék pénzeszközeinek kezelésére,” szövegrész.
+58. §
 
 ### Átmeneti rendelkezések
 
@@ -765,9 +717,9 @@ lép.
 
 (2) A KVI munkavállalóinak az MNV Zrt.-nél vagy a kincstárnál történő továbbfoglalkoztatására a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25/A. §-át és 25/B. §-át kell alkalmazni.
 
-(3) A Nemzeti Földalapkezelő Szervezet (a továbbiakban: NFA) 2007. december 31-ei hatállyal megszűnik, jogai és kötelezettségei ezen időponttól az MNV Zrt.-re szállnak. A jogok és kötelezettségek átszállása nem minősül az NFA által kötött szerződések módosításának. A földművelésügyi és vidékfejlesztési miniszter mint alapító az NFA megszüntetése érdekében megteszi az Áht. 91/A. §-ában előírt intézkedéseket.
+(3)
 
-(4) Az NFA munkavállalóinak az MNV Zrt.-nél történő továbbfoglalkoztatására a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 17/A. §-ának rendelkezéseit kell alkalmazni.
+(4)
 
 (5) Az MNV Zrt. cégjegyzékbe történő bejegyzése iránti kérelmet az állami vagyon felügyeletéért felelős miniszter nyújtja be a cégbíróságnak.
 
@@ -785,7 +737,7 @@ lép.
 
 (2)
 
-65. § (1) Ahol az ingatlan-nyilvántartás az ÁPV Zrt.-t, a KVI-t vagy az NFA-t mint tulajdonosi joggyakorlót, illetve vagyonkezelőt tünteti fel, ezen az MNV Zrt.-t kell érteni.
+65. § (1) Ahol az ingatlan-nyilvántartás az ÁPV Zrt.-t, a KVI-t mint tulajdonosi joggyakorlót, illetve vagyonkezelőt tünteti fel, ezen az MNV Zrt.-t kell érteni.
 
 (2) Ha az ingatlan-nyilvántartási változásbejegyzési kérelem a Magyar Állam tulajdonjogát nem érinti, az ingatlanügyi hatóság a kérelem elintézése során, azzal egyidejűleg az (1) bekezdés szerinti változást is átvezeti az ingatlan-nyilvántartásban. Más változás hiányában az ingatlanügyi hatóság az MNV Zrt., illetve a szerződéses vagyonkezelő legkésőbb 2009. december 31. napjáig előterjesztett kérelmére gondoskodik az (1) bekezdés szerinti változás átvezetéséről.
 
@@ -841,8 +793,7 @@ lép.
 - c) a vagyonkezelésre és a vagyonkezelési szerződésre, valamint az állami vagyon hasznosítására vonatkozó más szerződésekre vonatkozó részletes szabályokat,
 - d) a 17. § d) pontja szerinti tulajdonosi ellenőrzés részletes szabályait,
 - e) az állami vagyon értékesítésére vonatkozó szabályokat,
-- f) a Nemzeti Földalap vagyonnyilvántartásának és hasznosításának részletes szabályait,
-- g) termőföld szociális földprogram folytatása céljából az önkormányzatok számára történő tulajdonba adásának feltételeit,
+- f)–g)
 - h) a költségvetési szervek egyes típusai állami vagyonnal való gazdálkodásának speciális szabályait.
 
 (2) A Kormány 2008. december 31-ig jelentést terjeszt az Országgyűlés elé az ÁPV Zrt. és jogelődei – mint a privatizáció lebonyolítására létrehozott célszervezetek – tevékenységéről és a teljes privatizációs folyamatról.

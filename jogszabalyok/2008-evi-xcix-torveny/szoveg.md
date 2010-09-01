@@ -128,16 +128,18 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 (2) A II. kategóriába kell besorolni
 
 - a) azt a produkciós színházat, amely évente legalább 100 előadást tart, és legalább két bemutatót hoz létre, valamint
-- b) azt a befogadó színházat, amely évente legalább 140 előadást tart, és az általa játszott előadások legalább 30%-a saját előadása.
+- b) azt a befogadó színházat, amely évente legalább 140 előadást tart, és az általa játszott előadások legalább 30%-a saját előadása,
+- c) a nemzeti és etnikai kisebbségi színházat, amely évente legalább 100 előadást tart, saját társulattal legalább két bemutatót hoz létre, és a megtartott előadások legalább 75%-a a színház saját előadása.
 
 (3) A III. kategóriába kell besorolni azt a balett- vagy táncegyüttest, amely évente legalább 50 balett-, tánc- vagy mozgásművészeti előadást tart.
 
 (4) A IV. kategóriába kell besorolni
 
 - a) azt a színházat, bábszínházat, amely évente legalább 100 előadást tart, saját társulattal legalább két bemutatót hoz létre, és a megtartott előadások legalább 75%-a a színház, bábszínház saját előadása, valamint
-- b) azt a befogadó színházat, amely évente legalább 100 előadást tart, és az általa játszott előadások legalább 30%-a saját előadása.
+- b) azt a befogadó színházat, amely évente legalább 100 előadást tart, és az általa játszott előadások legalább 30%-a saját előadása,
+- c) azt a máshova nem sorolt nemzeti és etnikai kisebbségi színházat, amely évente legalább 20 színházi előadást tart vagy legalább évi 50 ezer fizető nézője van, és legalább egy bemutatót hoz létre.
 
-(5) Az V. kategóriába kell besorolni azt a szabadtéri színházat, valamint a máshova nem sorolt nemzeti és etnikai kisebbségi színházat, amely évente legalább 20 színházi előadást tart vagy legalább évi 50 ezer fizető nézője van, és legalább egy bemutatót hoz létre.
+(5) Az V. kategóriába kell besorolni azt a szabadtéri színházat, amely évente legalább 20 színházi előadást tart vagy legalább évi 50 ezer fizető nézője van, és legalább egy bemutatót hoz létre, valamint a máshova nem sorolt nemzeti és etnikai kisebbségi színházat.
 
 (6) Az I–V. kategóriákba való besorolás további feltétele, hogy az előadó-művészeti szervezet
 
@@ -424,6 +426,8 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 (11) Eredménytelen pályázati eljárás esetén a korábbi vezető, vagy annak helyettese határozott időre, de legfeljebb az új vezető kinevezéséig megbízható a vezetői feladatok ellátásával.
 
 (12) A benyújtott pályázat tartalma – törvény eltérő rendelkezése hiányában – csak a pályázó beleegyezésével közölhető harmadik személlyel. Sikertelen pályázat esetén a pályázó részére a pályázati anyagot vissza kell juttatni. Ha a pályázó az általa benyújtott, személyes adatokat tartalmazó adathordozót a pályázat elbírálási határidejétől számított kilencven napon belül nem veszi át, azokat meg kell semmisíteni és személyes adatait törölni kell.
+
+39/A. § A költségvetési szervként működő előadó-művészeti szervezetnél a vezető tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi munkabére nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
 40. § (1) A vezető munkakörének ellátásával szakirányú felsőfokú végzettséggel és legalább ötéves szakmai gyakorlattal rendelkező személy bízható meg. Szakirányú felsőfokú végzettségnek minősül a felsőfokú oktatási intézményben szerzett, az intézmény alaptevékenységének megfelelő diplomával vagy oklevéllel, továbbá a jogász, illetve a közgazdász oklevéllel tanúsított végzettség.
 

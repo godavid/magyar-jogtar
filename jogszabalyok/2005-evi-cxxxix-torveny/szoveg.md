@@ -1493,7 +1493,8 @@ betöltéséhez szükséges feltételeket nem teljesítette. Nem foglalkoztathat
 
 - a) nem teljesítette a foglalkoztatási követelményrendszerben meghatározottakat,
 - b) részére a tanítási időre eső munkavégzést – két félév átlagában – legalább ötven százalékában nem tudja biztosítani,
-- c) nem teljesítette azokat a munkakör betöltéséhez szükséges feltételeket, amelyeket a munkáltató – megfelelő határidő biztosításával – a munkaszerződésben, illetve a kinevezési okmányban előírt, [d) a 84. § (5) bekezdés szerinti nyilatkozata alapján az intézmény működési feltételeinek mérlegelése során, illetve a felsőoktatási intézmény költségvetési támogatásának megállapítása során az intézményben nem vehető figyelembe.]
+- c) nem teljesítette azokat a munkakör betöltéséhez szükséges feltételeket, amelyeket a munkáltató – megfelelő határidő biztosításával – a munkaszerződésben, illetve a kinevezési okmányban előírt,
+- d) a 84. § (5) bekezdés szerinti nyilatkozata alapján az intézmény működési feltételeinek mérlegelése során, illetve a felsőoktatási intézmény költségvetési támogatásának megállapítása során az intézményben nem vehető figyelembe.
 
 (3) E törvény erejénél fogva megszűnik a főiskolai tanári, illetve az egyetemi tanári munkakörben történő foglalkoztatás, ha a miniszterelnök a főiskolai tanárt, a köztársasági elnök az egyetemi tanárt – a munkaköri címhez fűződő jogát megvonva – felmentette. A főiskolai tanár, illetve az egyetemi tanár felmentését a 89. §-ban meghatározott eljárás szerint a rektor kezdeményezi. A rektor köteles kezdeményezni a főiskolai tanár, illetve az egyetemi tanár felmentését, ha azt az érintett kéri, a főiskolai tanárral, illetve az egyetemi tanárral szemben jogerősen elbocsátás fegyelmi büntetést szabtak ki, a foglalkozás gyakorlásától a bíróság jogerősen eltiltotta, vagy az érintettet szándékos bűncselekmény miatt jogerősen végrehajtandó szabadságvesztésre ítélték. Ha a főiskolai tanár, illetve az egyetemi tanár cím viselésére jogosult nem áll felsőoktatási intézménnyel foglalkoztatási jogviszonyban, a felmentés kezdeményezésére a miniszter jogosult.
 
@@ -1613,6 +1614,8 @@ címet adományozhat.
 (3) A (2) bekezdésben meghatározott keretösszeg terhére a munkáltató megemelheti az oktató, illetve a kutató havi rendszeres járandóságának összegét, illetve határozott időre, legalább egy, legfeljebb négy évre szóló keresetkiegészítést állapíthat meg (a továbbiakban: többletjárandóság). Az egy személynek e bekezdés alapján adható havi többletjárandóság összege nem lehet kevesebb, mint a számítási alap háromszorosa.
 
 (4) A költségvetési támogatás és más források terhére fizetett többletjárandóság megítélésének oktatói és tudományos tevékenységekre vonatkozó rendjét az intézmény szervezeti és működési szabályzatában kell megállapítani.
+
+(5) A költségvetési szervként működő felsőoktatási intézmény alkalmazottjának – ideértve a gazdasági tanács tagját is – tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi járandósága (munkabére, illetménye), beleértve a (3) bekezdés szerinti járandóságot is, nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
 ### A MUNKAVÁLLALÓK SZERVEZETEI, EGYÉNI ÉS KOLLEKTÍV JOGOK, ÉRDEKVÉDELEM, ÉRDEKEGYEZTETÉS
 
