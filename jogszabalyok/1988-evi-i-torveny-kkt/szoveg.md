@@ -239,7 +239,7 @@ jogosultak.
 
 16. § (1) Olyan elemi csapás vagy rendkívüli hóakadály elhárítására, amely a közutak forgalmát, a személy- és áruszállítást, emiatt a lakosság ellátását széles körben és jelentősen akadályozza, a védekezés és mentés egységes, központi irányítására, ezen belül a veszélyeztetett terület lakosságának ellátására a miniszter – az érintett tárcák és szervek bevonásával – bizottságot alakít.
 
-(2) Ha az elemi csapás vagy rendkívüli hóakadály elhárítása egységes, központi irányítást nem igényel, a védekezés és mentés irányítása – az érdekeltek bevonásával – a polgármester vagy a főpolgármester, illetőleg a Kormány általános hatáskörű területi államigazgatási szerve feladata.
+(2) Ha az elemi csapás vagy rendkívüli hóakadály elhárítása egységes, központi irányítást nem igényel, a védekezés és mentés irányítása – az érdekeltek bevonásával – a polgármester vagy a főpolgármester, illetőleg a közigazgatási hivatal feladata.
 
 ### A közúti közlekedési szakértő
 
