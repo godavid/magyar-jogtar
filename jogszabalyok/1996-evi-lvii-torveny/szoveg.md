@@ -886,7 +886,7 @@ ellenőrzése érdekében.
 
 (3) A bírság összegét az eset összes körülményeire – így különösen a jogsérelem súlyára, a jogsértő állapot időtartamára, a jogsértéssel elért előnyre, a jogsértő felek piaci helyzetére, a magatartás felróhatóságára, az eljárást segítő együttműködő magatartására, a törvénybe ütköző magatartás ismételt tanúsítására – tekintettel kell meghatározni. A jogsérelem súlyát különösen a gazdasági verseny veszélyeztetettségének foka, a fogyasztók, üzletfelek érdekei sérelmének köre, kiterjedtsége alapozhatja meg.
 
-(4) A műsorszolgáltatóval szemben kiszabott bírságot a Műsorszolgáltatási Alapba kell befizetni.
+(4) A műsorszolgáltatóval szemben kiszabott bírságot a Műsorszolgáltatás Támogató és Vagyonkezelő Alapba kell befizetni.
 
 (5) Ha a bírságot a vállalkozás-csoport jogsértést megvalósító tagja önként nem fizeti meg, és a végrehajtás sem vezet eredményre, az eljáró versenytanács külön végzéssel a vállalkozás-csoportnak a határozatban nevesített tagjait egyetemlegesen kötelezi a bírság, illetve annak be nem hajtott része megfizetésére.
 

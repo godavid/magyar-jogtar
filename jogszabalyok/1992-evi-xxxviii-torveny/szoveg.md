@@ -506,8 +506,8 @@ látja el.
 (6) A kincstárban pénzforgalmi számlát kötelesek vezetni
 
 - a) a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény hatálya alá tartozó jogi személyiségű területfejlesztési tanácsok és munkaszervezeteik működési és fejlesztési célú pénzeszközeik kezelésére,
-- b) az Országos Rádió és Televízió Testület,
-- c) a Műsorszolgáltatási Alap,
+- b) a Nemzeti Média- és Hírközlési Hatóság,
+- c) a Műsorszolgáltatás Támogató és Vagyonkezelő Alap,
 - d) a Magyar Nemzeti Vagyonkezelő Zrt.,
 - e) a külön jogszabályban meghatározott hallgatói hitelt nyújtó Diákhitel Központ,
 - f)
