@@ -43,7 +43,7 @@ A piacgazdaság működéséhez nélkülözhetetlen, hogy a piac szereplői szá
   - e) az alapítvány, ideértve a közalapítványt is,
   - f) az ügyvédi iroda, a szabadalmi ügyvivő iroda, a végrehajtói iroda, a közjegyzői iroda,
   - g)
-  - h) a Műsorszolgáltatási Alap,
+  - h) a Műsorszolgáltatás Támogató és Vagyonkezelő Alap,
   - i) a Munkavállalói Résztulajdonosi Program keretében létrejött szervezet,
   - j) a víziközmű társulat,
   - k) a befektetési alap, az egyéb alapok,
