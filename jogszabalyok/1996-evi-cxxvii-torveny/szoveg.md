@@ -30,110 +30,139 @@ Az Országgyűlés a véleménynyilvánítás és a tájékozódás szabadsága,
 
 (3)
 
-### A Magyar Távirati Iroda Részvénytársaság
+### Magyar Távirati Iroda Részvénytársaság
 
-3. § (1) A nemzeti hírügynökségi tevékenység ellátására az állam nevében az Országgyűlés egyszemélyes részvénytársaságként megalapítja a Magyar Távirati Iroda Részvénytársaságot (a továbbiakban: részvénytársaság).
+3. § (1) A nemzeti hírügynökségi tevékenységet az állam nevében az Országgyűlés által egyszemélyes részvénytársaságként megalapított, zártkörűen működő nonprofit Magyar Távirati Iroda Részvénytársaság (a továbbiakban: részvénytársaság) látja el.
 
-(2) A részvénytársaságra e törvényben foglalt eltérésekkel a gazdasági társaságokról szóló 1988. évi VI. törvény (a továbbiakban: Gt.) szabályait kell alkalmazni.
+(2) A részvénytársaságra e törvényben foglalt eltérésekkel a gazdasági társaságokról szóló törvény szabályait kell alkalmazni.
 
 (3) A részvénytársaságnak egy forgalomképtelen részvénye van.
 
-(4) A részvénytársaság alapító okiratát az Országgyűlés a jelenlévő képviselők kétharmados szavazatával fogadja el. A részvénytársaság működésének és szervezetének e törvényben nem szabályozott kérdéseit az alapító okiratban kell meghatározni.
+(4) A részvénytársaságot az Országgyűlés az általa alapított Közszolgálati Közalapítvány (a továbbiakban: Közalapítvány) tulajdonába adja a jelenlevő országgyűlési képviselők kétharmados szavazatával.
 
-4. § A részvénytársaság vonatkozásában e törvény eltérő rendelkezése hiányában az Országgyűlés gyakorolja az alapítói, illetve részvényesi jogokat.
+(5) A részvénytársaságot az Országgyűlés e törvény 36/A. §-ában szabályozott országgyűlési határozatban előírt módon és időben adja a Közalapítvány tulajdonába.
 
-### A részvénytársaság elnöke
+(6) E törvény 36/B. §-ában szabályozott országgyűlési határozatban kell meghatározni a részvénytársaság vagyonának azt a részét, amelynek vonatkozásában a tulajdonosi jogok és kötelezettségek összességét a Műsorszolgáltatás Támogató és Vagyonkezelő Alap gyakorolja.
 
-5. § A részvénytársaság ügyvezetését az elnök látja el. A részvénytársaságnál igazgatóság nem működik, az elnök gyakorolja mindazon hatásköröket, amelyeket a Gt. a részvénytársaság igazgatóságának hatáskörébe utal.
+(7) A Közalapítványra e törvény eltérő rendelkezése hiányában az alapítványokra vonatkozó általános szabályokat kell alkalmazni.
 
-6. § (1) A köztársasági elnök a miniszterelnök javaslatára kinevezi és felmenti a részvénytársaság elnökét.
+(8) A részvénytársaság működésének és szervezetének e törvényben nem szabályozott kérdéseit a Közalapítvány alapító okiratában kell meghatározni.
 
-(2) Az elnök megbízatása öt évre szól. Az elnök megbízatásának lejártát követően egy ízben ismételten pályázatot nyújthat be.
+(9) A Közalapítványra, valamint a Műsorszolgáltatás Támogató és Vagyonkezelő Alapra vonatkozó szabályokat a rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: Rttv.) tartalmazza.
 
-(3) A részvénytársaság elnökévé az a büntetlen előéletű, felsőfokú végzettségű magyar állampolgár nevezhető ki, aki legalább öt év szakmai gyakorlattal rendelkezik. Szakmai gyakorlatnak tekintendő a tájékoztatási, továbbá az ezzel összefüggő műszaki, jogi, igazgatási, gazdasági, kulturális, tudományos és közvélemény-kutatási tevékenység.
+4. § A részvénytársaság vonatkozásában e törvény eltérő rendelkezése hiányában a Közalapítvány gyakorolja az alapítói, illetve részvényesi jogokat.
 
-(4) Nem nevezhető ki a részvénytársaság elnökévé, aki a kinevezést megelőző két évben köztársasági elnök, miniszterelnök, a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár országgyűlési képviselő, főpolgármester, polgármester, politikai párt országos vagy területi szervezetének tisztségviselője volt.
+### A részvénytársaság vezérigazgatója
 
-(5) Az elnöki tisztséget pályázat útján kell betölteni.
+5. § A részvénytársaság ügyvezetését a vezérigazgató látja el. A részvénytársaságnál igazgatóság nem működik, a vezérigazgató gyakorolja mindazon hatásköröket, amelyeket a gazdasági társaságokról szóló törvény a részvénytársaság igazgatóságának hatáskörébe utal.
 
-(6) A részvénytársaság Tulajdonosi Tanácsadó Testülete (a továbbiakban: TTT) (17. §) köteles a pályázati hirdetményt legkésőbb az előző elnök megbízatási időtartamának leteltét megelőző százhuszadik napig közzétenni a Művelődési Közlönyben és egy országos napilapban.
+6. § (1) A Közalapítvány Kuratóriuma (a továbbiakban: Kuratórium) dönt a részvénytársaság vezérigazgatójának kinevezéséről és munkaviszonyának megszüntetéséről.
 
-(7) A TTT a pályázati határidő leteltétől számított harminc napon belül a pályázatokat elbírálja, és az elnöki tisztségre jelölt személy (személyek) pályázatát előterjeszti a miniszterelnökhöz. A miniszterelnök a jelöltre (több jelölt esetén a jelöltek közül) tesz kinevezési javaslatot a köztársasági elnök részére.
+(2) A részvénytársaság vezérigazgatójává az a büntetlen előéletű, felsőfokú végzettségű magyar állampolgár nevezhető ki, aki legalább öt év szakmai gyakorlattal rendelkezik.
 
-(8) A pályázati feltételeknek megfelelő pályázat hiányában a TTT a pályázatok elbírálását követően tizenöt napon belül ismételten pályázatot ír ki. Az új pályázat elbírálására a (2)—(4) és (6)—(7) bekezdések rendelkezései irányadóak.
+(3) Szakmai gyakorlatnak tekintendő a tájékoztatási, továbbá az ezzel összefüggő műszaki, jogi, igazgatási, gazdasági, kulturális, tudományos és közvéleménykutatási tevékenység.
 
-7. § (1) Az elnök megbízatása megszűnik:
+(4) Nem nevezhető ki a részvénytársaság vezérigazgatójává, aki a választást megelőző két évben köztársasági elnök, miniszterelnök, a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, szakállamtitkár, országgyűlési képviselő, főpolgármester, főpolgármester-helyettes, politikai párt országos vagy területi szervezetének tisztségviselője volt.
 
-- a) a megbízatási időtartam leteltével,
-- b) lemondással,
-- c) felmentéssel,
-- d) az összeférhetetlenség kimondásával,
-- e) az elnök halálával.
+(5) A részvénytársaság vezérigazgatója büntetlen előélete igazolásának rendjére és az alkalmazandó jogkövetkezményekre a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 77/A. §-ában meghatározottakat kell alkalmazni.
 
-(2) A lemondást írásban kell közölni a köztársasági elnökkel és a miniszterelnökkel.
+7. § (1) A vezérigazgató feletti munkáltatói jogkört a Kuratórium gyakorolja.
 
-(3) Felmentéssel szüntethető meg a megbízatás, ha az elnök neki fel nem róható okból, több mint három hónapon át folyamatosan nem képes eleget tenni megbízatásából eredő feladatainak.
+(2) A vezérigazgató jelölése és kinevezése a következők szerint történik:
 
-(4) Felmentéssel szűnik meg a megbízatás,
+– a Nemzeti Média- és Hírközlési Hatóság Médiatanácsának (a továbbiakban: Médiatanács) elnöke 2 vezérigazgató jelöltre tesz javaslatot a Médiatanácsnak;
 
-- a) ha az elnök neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, és így veszélyezteti az 1—2. §-ban foglalt követelmények megvalósítását,
-- b) ha az elnök bűnösségét — szabadságvesztés kiszabásával — jogerős ítélet állapította meg.
+– a Médiatanács elfogadja a jelöltet és javasolja a Kuratóriumnak, hogy nevezzen ki egyet a jelöltek közül;
 
-(5) A felmentésre a miniszterelnök a TTT kezdeményezése alapján tesz javaslatot.
+– ha a Médiatanács nem fogadja el az elnök által javasolt valamelyik jelöltet, akkor az elnök új jelöltre tesz javaslatot. A Médiatanács csak akkor tehet javaslatot a Kuratóriumnak, ha mind a két jelöltet elfogadta.– az első szavazási körben a Kuratórium összes tagjának, ideértve az elnököt is, kétharmados többségével dönt a vezérigazgató kinevezéséről;
 
-(6) Ha az elnökkel szemben megbízatásának gyakorlása során összeférhetetlenségi ok merül fel, köteles azt megszüntetni. Az összeférhetetlenségi ok fennállását a TTT határozatával állapítja meg. Ha az összeférhetetlenséget megállapító határozat meghozatalától számított tíz napon belül az összeférhetetlenségi okot az elnök nem szünteti meg, a TTT kezdeményezésére a miniszterelnök javaslatára a köztársasági elnök megállapítja, hogy az elnök megbízatása megszűnt. Az elnök az összeférhetetlenséget megállapító határozat meghozatalának időpontjától a tisztségéből eredő jogkört nem gyakorolhatja.
+– ha a két jelöltből a Kuratóriumnak történt jelöléstől számított 30 napon belül nem tud választani a Kuratórium, akkor új jelölési eljárást kell lefolytatni;
 
-(7) Az elnökkel szemben indult büntetőeljárásról a nyomozó hatóság a TTT-t értesíti. A köztársasági elnök — a TTT kezdeményezése alapján — a miniszterelnök javaslatára az elnököt a tisztségéből eredő jogköre gyakorlása alól a bűncselekmény jogerős elbírálásáig felfüggesztheti.
+– az új jelölés során két új jelöltre kell javaslatot tenni;
 
-8. § (1) Az elnök a megbízatási ideje alatt nem lehet:
+– az új jelölést követő szavazás során a Kuratórium összes tagjának – ideértve az elnököt is – egyszerű többségével dönt a vezérigazgató kinevezéséről.
+
+(3) A vezérigazgató munkaszerződésének feltételeire a Médiatanács tesz javaslatot, a Kuratórium a vezérigazgató kinevezésével együtt szavaz a munkaszerződésről is.
+
+(4) A Médiatanácsra vonatkozó szabályokat az Rttv. tartalmazza.
+
+8. § (1) A Közszolgálati Testület a közszolgálatiság érvényesülését folyamatosan figyelemmel kíséri, és az alábbiak szerint szabályozott módon ellenőrzést gyakorol a részvénytársaság felett a Közszolgálati Kódexben (a továbbiakban: Kódex) foglaltak végrehajtása vonatkozásában:
+
+- a) A részvénytársaság vezérigazgatója évente egyszer, a mindenkori naptári év végén beszámolót készít arról, hogy – saját értékelése szerint – az általa vezetett hírszolgáltató részvénytársaság eleget tett-e a Kódexben megfogalmazott elvárásoknak.
+- b) A Közszolgálati Testület megvitatja a beszámolót, és annak elfogadásáról egyszerű többséggel dönt.
+- c) Ha a Közszolgálati Testület – a vezérigazgató személyes testületi meghallgatása után – nem fogadja el a beszámolót, akkor mérlegelheti a vezérigazgató munkaviszonyának megszüntetéséről szóló javaslat előterjesztését a Kuratóriumnak.
+- d) A Kuratórium köteles nyolc napon belül napirendjére tűzni és megvitatni a vezérigazgató munkaviszonyának megszüntetésére vonatkozó javaslatot. A Kuratórium ülésére meg kell hívni a vezérigazgatót és a Közszolgálati Testület elnökét.
+- e) A Kuratórium a munkaviszony megszüntetésére vonatkozó javaslatról a jelenlevő tagok egyszerű többségével határoz. A határozatot indokolni kell.
+- f) Ha a javaslat ellenére a Kuratórium nem szünteti meg a vezérigazgató munkaviszonyát, akkor ezt követően a vezérigazgató következő meghallgatását három hónap múlva köteles napirendjére tűzni a Közszolgálati Testület.
+- g) Ha a vezérigazgató munkaviszonya azért szűnt meg, mert a közszolgálatiság érvényesülését – a Kódexben megfogalmazott elvárások teljesülését – nem biztosította, akkor 10 évig nem jelölhető újra közszolgálati részvénytársaság vezérigazgatói megbízatására.
+
+(2) A Kódexre és a Közszolgálati Testületre vonatkozó szabályokat az Rttv. tartalmazza.
+
+9. § (1) A vezérigazgató munkaviszonya a következő esetekben szűnik meg:
+
+- a) felmentéssel,
+- b) a munkaszerződésben szabályozott felmondással,
+- c) a 8. § (1) bekezdés g) pontja szerint.
+
+(2) Felmentéssel szűnik meg a vezérigazgató munkaviszonya
+
+- a) ha cselekvőképességet kizáró gondnokság alá helyezték,
+- b) ha a vele szemben lefolytatott büntetőeljárás eredményeként a bűnösségét a bíróság – szabadságvesztés kiszabást tartalmazó – jogerős ítélete állapította meg,
+- c) ha a 10. § (1)–(2) bekezdések szerinti tilalmak valamelyikét megszegi,
+- d) ha a vele szemben keletkezett összeférhetetlenségi okot 30 napon belül nem szünteti meg.
+
+(3) Felmentés esetén a munkaviszony megszűnését a Kuratórium állapítja meg.
+
+(4) Munkáltatói felmondás esetén a munkaviszony megszüntetéséről szóló döntést a Kuratórium kétharmados többséggel hozza.
+
+10. § (1) A részvénytársaság vezérigazgatója munkaviszonyának ideje alatt nem lehet
 
 - a) országgyűlési képviselő,
 - b) párt tagja,
-- c) az Országos Rádió és Televízió Testületnek (a továbbiakban: Testület) tagja, elnöke, a Testület Panaszbizottságának tagja, a TTT tagja,
-- d) műsorszolgáltatással, illetőleg lapkiadással, lapterjesztéssel, hírügynökségi tevékenységgel, reklámtevékenységgel, közvéleménykutatással foglalkozó gazdasági társaságban tulajdoni részesedéssel rendelkező tag,
-- e) gazdasági társaság vezető testületének, illetve felügyelő bizottságának tagja, továbbá olyan gazdasági társaságban tulajdoni részesedéssel rendelkező tag, amely a részvénytársasággal üzleti kapcsolatban áll.
+- c) a Kuratóriumnak, a Médiatanácsnak tagja, elnöke,
+- d) olyan gazdasági társaságban tulajdoni részesedéssel rendelkező tag, illetve olyan gazdasági társaság vezető tisztségviselője vagy felügyelő bizottsági tagja, amely a részvénytársaságok bármelyikével üzleti kapcsolatban áll,
+- e) más, műsorszórással, műsorterjesztéssel, műsorszolgáltatással, illetőleg lapkiadással foglalkozó gazdasági társaságban tulajdoni részesedéssel rendelkező tag, vagy részvényes,
+- f) olyan gazdasági társaságban tulajdoni részesedéssel rendelkező tag, illetve olyan gazdasági társaság vezető tisztségviselője vagy felügyelő bizottsági tagja, amelyben a Magyar Államnak többségi részesedése van.
 
-(2) Az elnök a megbízatás ideje alatt tudományos, oktató, irodalmi, művészeti és más szerzői jogvédelem alá eső tevékenység kivételével egyéb keresőfoglalkozást nem folytathat, a részvénytársaságtól e jogcímeken sem jogosult díjazásra.
+(2) A részvénytársaság vezérigazgatója a megbízatásának ideje alatt tudományos, oktató, irodalmi, művészeti és más szerzői jogvédelem alá eső tevékenység kivételével egyéb kereső foglalkozást nem folytathat, az irányítása alatt álló részvénytársaságtól e jogcímeken sem jogosult díjra, illetve az irányítása alatt álló részvénytársaságtól járó szerzői jogdíját jótékony célra köteles felajánlani.
 
-(3) Az elnök pártpolitikai tevékenységet nem folytathat, pártpolitikai nyilatkozatot nem tehet.
+(3) A részvénytársaság vezérigazgatója pártpolitikai tevékenységet nem folytathat, párt nevében nyilatkozatot nem tehet.
 
-(4) Az elnök a kinevezésétől számított tíz napon belül köteles a vele szemben fennálló összeférhetetlenségi okot megszüntetni, ennek megtörténtéig megbízatásából eredő jogkörét nem gyakorolhatja. Az elnök — a tevékenységének megkezdése előtt — írásbeli nyilatkozatot tesz arról, hogy vele szemben összeférhetetlenségi ok nem áll fenn.
+(4) A részvénytársaság vezérigazgatója – a tevékenységének megkezdése előtt – írásbeli nyilatkozatot tesz arról, hogy vele szemben összeférhetetlenségi ok nem áll fenn.
 
-9. § Az elnök évente írásban beszámol az Országgyűlésnek a részvénytársaság tevékenységéről, ennek keretében kerül sor a mérleg és eredménykimutatás jóváhagyására. Az elnök beszámolóját a részvénytársaság felügyelő bizottságának véleményével együtt kell az Országgyűlés elé terjeszteni. A beszámolóhoz mellékelni kell az Állami Számvevőszék elnökének jelentését a részvénytársaság tevékenységéről.
+11. § (1) A vezérigazgató évente írásban beszámol a Kuratóriumnak a részvénytársaság tevékenységéről, ennek keretében kerül sor a mérleg- és eredmény kimutatás jóváhagyására. A vezérigazgató beszámolóját a közszolgálati részvénytársaságok közös Felügyelő Bizottságának véleményével együtt kell a kuratórium elé terjeszteni. A beszámolóhoz mellékelni kell az Állami Számvevőszék elnökének jelentését a részvénytársaság tevékenységéről.
 
-10. § Az elnök kinevezi az alelnököket és gyakorolja a részvénytársaság dolgozói tekintetében a munkáltatói jogokat.
+(2) A Felügyelő Bizottságra vonatkozó szabályokat a 14. § tartalmazza.
 
-11. § Az archíválás szabályait és feltételeit, a hasznosítás módját a közgyűjteménynek nem minősülő dokumentumok vonatkozásában az elnök a Testülettel egyetértésben külön szabályzatban állapítja meg.
+12. § A vezérigazgató jogosult és köteles két vezérigazgató-helyettes kinevezésére és gyakorolja a részvénytársaság munkavállalói tekintetében a munkáltatói jogokat. A vezérigazgató-helyettesek munkaszerződésének feltételeit a Kuratórium hagyja jóvá.
 
-### A felügyelő bizottság
+13. § Az archiválás szabályait és feltételeit, a hasznosítás módját a közgyűjteménynek nem minősülő dokumentumok vonatkozásában a vezérigazgató a Kuratóriummal egyetértésben külön szabályzatban állapítja meg.
 
-12. § (1) A részvénytársaság ügyvezetését öttagú felügyelő bizottság ellenőrzi. Jogában áll az elnöktől, a részvénytársaság dolgozóitól jelentést vagy felvilágosítást kérni, a részvénytársaság könyveit, pénzforgalmi számláját, iratait és pénztárát bármikor megvizsgálni, vagy szakértővel a társaság költségére megvizsgáltatni.
+### A Felügyelő Bizottság
 
-(2) A részvénytársaság belső ellenőrzési szervezete a felügyelő bizottság irányítása alá tartozik.
+14. § (1) A részvénytársaság ügyvezetését a közszolgálati részvénytársaságok (Magyar Rádió Zrt., Magyar Televízió Zrt., Duna Televízió Zrt., Magyar Távirati Iroda Zrt.) közös Felügyelő Bizottsága (a továbbiakban: Felügyelő Bizottság) ellenőrzi. A Felügyelő Bizottság jogában áll a vezérigazgatótól, a részvénytársaság munkavállalóitól jelentést vagy felvilágosítást kérni, a részvénytársaság könyveit, pénzforgalmi számláját, iratait és pénztárát bármikor megvizsgálni, vagy szakértővel a részvénytársaság költségére megvizsgáltatni.
 
-13. § (1) A felügyelő bizottság tagjai:
+(2) A Felügyelő Bizottság elnökből és 4 tagból áll.
 
-- a) az Országgyűlés által választott elnök és egy tag,
-- b) a TTT által választott tag,
-- c) a munkavállalók által választott két tag.
+(3) A Felügyelő Bizottság elnökét és tagjait, a munkavállalók által választott tag kivételével, a kuratórium választja a Közalapítvány alapító okiratában meghatározott időre és feltételekkel.
 
-(2) A felügyelő bizottság elnökét az Országgyűlés ellenzéki, a másik tagot a kormánypárti képviselőcsoportjai jelölik.
+(4) A Felügyelő Bizottság elnökének és tagjainak tiszteletdíját a Kuratórium állapítja meg.
 
-(3) A felügyelő bizottság tagjára irányadóak — a 8. § (1) bekezdésének b) és e) pontja kivételével — a 8. § (1), (3) és (4) bekezdésének rendelkezései azzal, hogy a felügyelő bizottság tagja nem lehet politikai párt országos vagy területi szervezetének tisztségviselője, valamint nem állhat munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban a részvénytársasággal.
+(5) A Felügyelő Bizottság maga állapítja meg működésének szabályait, ügyrendjét a Kuratórium hagyja jóvá.
 
-(4) A felügyelő bizottság tagjainak megbízatása négy évre szól. A felügyelő bizottság működése addig tart, amíg az új felügyelő bizottság az (1) bekezdésben foglaltak szerint megalakul.
+(6) A Felügyelő Bizottság köteles megvizsgálni a Kuratórium elé terjesztendő minden olyan jelentést, amely a Kuratóriumnak, illetve a részvénytársaság közgyűlési hatáskörébe tartozó vagyoni jellegű ügyeire vonatkozik.
 
-(5) A felügyelő bizottsági tagot — a 7. §-ban foglaltak megfelelő alkalmazásával — a választásra jogosult hívja, illetve hívhatja vissza. A felügyelő bizottsági tag a választásra jogosultnak, a felügyelő bizottság pedig az Országgyűlésnek tájékoztatási kötelezettséggel tartozik.
+(7) A részvénytársaság belső ellenőrzési szervezete a Felügyelő Bizottság irányítása alá tartozik.
 
-14. § A felügyelő bizottság maga állapítja meg működésének szabályait.
+(8) A felügyelő bizottság szervezetére, működésére egyebekben az Rttv., a gazdasági társaságokról szóló törvény, a Közalapítvány alapító okiratának, valamint Szervezeti és Működési Szabályzatának előírásai az irányadóak.
 
 15–22. §
 
 ### A könyvvizsgáló
 
-23. § (1) A könyvvizsgáló megbízatása négy évre szól. A könyvvizsgáló működése addig tart, amíg az új könyvvizsgálót a TTT nem bízza meg.
+23. § (1) A részvénytársaság könyvvizsgálójának megbízása és megbízatásának felmondása a Kuratórium hatáskörébe tartozik.
 
-(2) A könyvvizsgáló feladatát, jog- és hatáskörét a Gt., illetve a számvitelről szóló 1991. évi XVIII. törvény keretei között az alapító okiratban kell meghatározni.
+(2) A könyvvizsgáló feladatát, jog- és hatáskörét a gazdasági társaságokról szóló, illetve a számvitelről szóló törvény keretei között a Kuratórium a részvénytársaság alapító okiratában határozza meg.
 
 ### A részvénytársaság feladatai
 
@@ -143,21 +172,23 @@ Az Országgyűlés a véleménynyilvánítás és a tájékozódás szabadsága,
 - b) az ország nemzetközi kapcsolatrendszerének és érdekeinek megfelelő külföldi tudósítói hálózatot tart fenn és működtet,
 - c) gondoskodik műszaki eszközeinek üzemeltetéséről és fejlesztéséről.
 
-### Az Országos Rádió és Televízió Testületfeladatai
+### A Nemzeti Média- és Hírközlési Hatóság Médiatanácsa feladatai
 
-25. § A kiegyensúlyozott tájékoztatás követelményeinek megsértése miatti panaszokat a Testület Panaszbizottsága bírálja el. A nemzeti hírügynökséggel szemben emelt kifogás elbírálására a rádiózásról és a televíziózásról szóló 1996. évi I. törvény (a továbbiakban: Rtv.) 49—51. §-aiban foglalt rendelkezéseket kell megfelelően alkalmazni.
+25. § A kiegyensúlyozott tájékoztatás követelményeinek megsértése miatti panaszokat a Nemzeti Média- és Hírközlési Hatóság Médiatanácsának (a továbbiakban: Médiatanács) Panaszbizottsága bírálja el. A nemzeti hírügynökséggel szemben emelt kifogás elbírálására az Rttv. 49–51. §-át kell megfelelően alkalmazni.
 
-26. § A Testület az Rtv.-ben meghatározottak szerint műsorfigyelő és -elemző szolgálatot működtet a részvénytársaság tevékenységével összefüggésben.
+26. § A Médiatanács az Rttv.-ben meghatározottak szerint műsorfigyelő és -elemző szolgálatot működtet a részvénytársaság tevékenységével összefüggésben.
 
 ### A részvénytársaság gazdálkodása
 
-27. § (1) A részvénytársaság elnöke, alelnöke, valamint az alapító okiratban meghatározott munkakört betöltő dolgozója a részvénytársaság nevében nem köthet olyan szerződést, amelyben másik félként maga, a Ptk. 685. § b) pontja szerinti hozzátartozója, illetve olyan társaság szerepel, amelyben maga vagy a Ptk. 685. § b) pontja szerinti hozzátartozója közvetett vagy közvetlen tulajdoni részesedéssel, más vagyoni értékű joggal, illetve személyes érdekeltséggel rendelkezik. Ha a korlátozásban érintettek érdekeltségi körébe tartozó szerződést a részvénytársaság más dolgozója köti meg, a szerződést a részvénytársaság felügyelő bizottságának haladéktalanul meg kell küldeni.
+27. § (1) A részvénytársaság vezérigazgatója, vezérigazgató-helyettese, valamint a részvénytársaság – Kuratórium által elfogadott – alapító okiratában meghatározott munkakört betöltő munkavállalója a részvénytársaság nevében nem köthet olyan szerződést, amelyben másik félként maga, a polgári jogi jogszabályok szerinti hozzátartozója, illetve olyan társaság szerepel, amelyben maga vagy a polgári jogi jogszabályok szerinti hozzátartozója közvetett vagy közvetlen tulajdoni részesedéssel, más vagyoni értékű joggal, illetve személyes érdekeltséggel rendelkezik. Ha a korlátozásban érintettek érdekeltségi körébe tartozó szerződést a részvénytársaság más munkavállalója köti meg, a szerződést a Felügyelő Bizottságnak haladéktalanul meg kell küldeni.
 
 (2) A részvénytársaság az ötszázezer forintos szerződési értéket meghaladó szerződéseiről külön nyilvántartást vezet. A nyilvántartásban naprakészen fel kell tüntetni a szerződő fél cégszerű azonosításához szükséges adatokat, valamint a szerződő felek által teljesítendő szolgáltatást és ellenszolgáltatást. Az egyazon naptári évben ugyanazon szerződő féllel kötött szerződéseket egybe kell számítani.
 
-28. § A részvénytársaság közszolgálati feladatainak ellátása mellett, azok elősegítésére vállalkozhat. A részvénytársaság olyan vállalkozásban nem vehet részt, amelyben felelőssége meghaladja vagyoni hozzájárulásának mértékét.
+28. § A részvénytársaság gazdálkodását az Állami Számvevőszék ellenőrzi.
 
-29. § A részvénytársaság gazdálkodását az Állami Számvevőszék ellenőrzi.
+29. § (1) Az Országgyűlés a központi költségvetés „Országgyűlés” fejezetében a részvénytársaságot a 2. §-ban rögzített közszolgálati feladatok ellátásához szükséges mértékű céltámogatásban részesíti.
+
+(2) A nonprofit részvénytársaság nyereségét kizárólag a közszolgálati hírügynökségi tevékenység folytatására, fejlesztésére, valamint munkavállalóinak javadalmazására használhatja fel.
 
 30. §
 
@@ -236,7 +267,9 @@ Az Országgyűlés a véleménynyilvánítás és a tájékozódás szabadsága,
 
 (12) A részvénytársaság elnökének kinevezése napján hatályát veszti a közszolgálati tájékoztatási eszközök (Magyar Rádió, Magyar Televízió, Magyar Távirati Iroda) vezetőinek kinevezési rendjéről szóló 1990. évi LVII. törvény, valamint a rádiózásról és televíziózásról szóló 1996. évi I. törvény 154. §-a.
 
-(13) [36/A. § (1) Országgyűlési határozatban rendelkezik az Országgyűlés arról, hogy a Magyar Távirati Iroda Zrt.-t a Közszolgálati Közalapítvány tulajdonába adja a Tulajdonosi Tanácsadó Testület egyidejű megszüntetése mellett.
+(13)
+
+36/A. § (1) Országgyűlési határozatban rendelkezik az Országgyűlés arról, hogy a Magyar Távirati Iroda Zrt.-t a Közszolgálati Közalapítvány tulajdonába adja a Tulajdonosi Tanácsadó Testület egyidejű megszüntetése mellett.
 
 (2) Az Országgyűlés az (1) bekezdés szerinti határozatban rendelkezik arról, hogy a Magyar Távirati Iroda zártkörűen működő egyszemélyes részvénytársaságot nonprofit részvénytársasággá kell átalakítani.
 
@@ -256,7 +289,7 @@ Az Országgyűlés a véleménynyilvánítás és a tájékozódás szabadsága,
 
 (5) Az (1) bekezdés szerinti országgyűlési határozat elfogadásához a jelenlevő országgyűlési képviselők 2/3-nak szavazata szükséges.
 
-(6) Az (1) bekezdés szerinti országgyűlési határozat elfogadásának határideje 2010. szeptember 30. Az országgyűlési határozatban kell rendelkezni annak hatálybalépéséről.]
+(6) Az (1) bekezdés szerinti országgyűlési határozat elfogadásának határideje 2010. szeptember 30. Az országgyűlési határozatban kell rendelkezni annak hatálybalépéséről.
 
 36/C. § (1) A Tulajdonosi Tanácsadó Testület tagjainak megbízatása a Közszolgálati Közalapítvány Kuratóriuma tagjainak megválasztásával egyidejűleg megszűnik.
 

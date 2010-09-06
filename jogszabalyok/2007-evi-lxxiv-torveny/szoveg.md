@@ -151,9 +151,13 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 (4) A hozzáférési jogosultsággal rendelkező kiegészítő digitális szolgáltatást nyújtót a Hatóság az Eht. 151–152. §-ai szerint adatok szolgáltatására kötelezheti.
 
-10. § (1) A 9. § szerinti kiegészítő digitális szolgáltatás tartalmára az Rttv. 3–4. §-ai és 4/A–5/F. §-ai és 89. §-a megfelelően alkalmazandók. A kiegészítő digitális szolgáltatások tartalmára vonatkozó további szabályokat külön törvény határozza meg.
+10. § (1) A 9. § szerinti kiegészítő digitális szolgáltatás tartalmára az Rttv. 3–5/F. §-a és 89. §-a megfelelően alkalmazandó. A kiegészítő digitális szolgáltatások tartalmára vonatkozó további szabályokat külön törvény határozza meg.
 
-(2) A 9. § szerinti kiegészítő digitális szolgáltatás e törvény szerinti jogszerűségét a Hatóság piacfelügyeleti eljárás keretében ellenőrzi. Az eljárásban az (1) bekezdésben meghatározott követelményekkel kapcsolatosan az Országos Rádió és Televízió Testület (a továbbiakban: Testület) szakhatóságként jár el. A Hatóság jogsértés megállapítása esetében az Eht. 67–68. §-a szerinti piacfelügyeleti eljárás jogkövetkezményeit alkalmazza.
+(2) A 9. § szerinti kiegészítő digitális szolgáltatás e törvény szerinti jogszerűségét a Hatóság piacfelügyeleti eljárás keretében ellenőrzi. Az eljárásban az (1) bekezdésben meghatározott követelményekkel kapcsolatosan a Hatóság Médiatanácsa (a továbbiakban: Médiatanács) szakhatóságként jár el. A Hatóság jogsértés megállapítása esetében az Eht. 67–68. §-ai szerinti piacfelügyeleti eljárás jogkövetkezményeit alkalmazza.
+
+(3) A Hatóságra vonatkozó szabályokat az Eht. tartalmazza.
+
+(4) A Médiatanácsra vonatkozó szabályokat az Rttv. tartalmazza.
 
 ### Műsorszolgáltatás
 
@@ -163,11 +167,9 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 ### Nyilvántartások átadása, vezetése
 
-12. § (1) A Hatóság a műsorterjesztőkről, a kiegészítő digitális szolgáltatást nyújtókról vezetett nyilvántartások másolatát átadja a Testületnek.
+12. § (1) A Hatóság Hivatala (a továbbiakban: Hivatal) vezeti a műsorterjesztőkről, a kiegészítő digitális szolgáltatást nyújtókról vezetett nyilvántartást.
 
-(2) A Testület a műsorszolgáltatókról vezetett nyilvántartás másolatát átadja a Hatóságnak.
-
-(3) Az (1)–(2) bekezdésben említett nyilvántartásokba bejegyzett szolgáltatókról és a nyilvántartásban bekövetkezett változásról a Hatóság, illetve a Testület a bejegyzéstől számított nyolc napon belül tájékoztatják egymást.
+(2) A Hivatalra vonatkozó szabályokat az Eht. tartalmazza.
 
 ### III. Fejezet — FREKVENCIÁK HASZNÁLATI JOGA
 
@@ -225,9 +227,7 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 (3) A Hatóság a műsorszóró adó rádióengedélyét a digitális rádió- vagy televízió-műsorszóró hálózat vagy műsorszóró adó, a műsorszóró frekvenciasáv, illetve a frekvencia használatát biztosító jogosultság érvényességi idejének lejártáig adja ki.
 
-(4) A Hatóság a rádióengedélyben foglaltak teljesítését piacfelügyeleti eljárásban ellenőrzi. Az eljárás megindítását a Testület is kezdeményezheti. Amennyiben a Hatóság a rádióengedélyben foglaltak megsértését állapította meg, az eljárás eredményéről a Testületet tájékoztatja.
-
-(5) A Testület által kezdeményezett eljárás igazolt költségeit a Testület megtéríti. Ha ezen ellenőrzés eredménye szerint a műsorszolgáltatási szerződésben, illetve a rádióengedélyben foglalt feltételeket a műsorszolgáltató, vagy a műsorterjesztő megszegte, az eljárás költségeit az köteles megtéríteni, aki a feltételek megszegéséért felelős.
+(4) A Hatóság a rádióengedélyben foglaltak teljesítését piacfelügyeleti eljárásban ellenőrzi. Az eljárás megindítását a Médiatanács is kezdeményezheti.
 
 ### Üzemeltetési feltételek
 
@@ -239,11 +239,11 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 ### Frekvenciacsere és a rádióengedély visszavonása
 
-18. § (1) Ha az analóg rádióműsor műsorszórása a vonatkozó műsorszolgáltatási jogosultság érvényességi idejének lejárta előtt azért nem folytatható, mert a rádióengedélyt e törvény 13. §-a alapján a műsorszolgáltatónak fel nem róható okból a Hatóság visszavonja, a Testület a műsorszolgáltatónak pályázati kiírás nélkül hasonló feltételekkel a frekvenciasáv és/vagy a frekvencia tekintetében más műsorszolgáltatási jogosultságot kínál fel.
+18. § (1) Ha az analóg rádióműsor műsorszórása a vonatkozó műsorszolgáltatási jogosultság érvényességi idejének lejárta előtt azért nem folytatható, mert a rádióengedélyt e törvény 13. §-a alapján a műsorszolgáltatónak fel nem róható okból a Hatóság visszavonja, a Médiatanács a műsorszolgáltatónak pályázati kiírás nélkül hasonló feltételekkel a frekvenciasáv, illetve a frekvencia tekintetében más műsorszolgáltatási jogosultságot kínál fel.
 
-(2) A Testület a műsorszolgáltatási szerződés módosítását nem teheti a frekvenciacserével össze nem függő feltételek elfogadásától függővé. A módosítás a műsorszolgáltatási jogosultság időtartamát nem érinti. A módosítás során a szerződésben rendelkezni kell a műsorszolgáltató frekvenciacserével kapcsolatos igazolt költségeiről.
+(2) A Médiatanács a műsorszolgáltatási szerződés módosítását nem teheti a frekvenciacserével össze nem függő feltételek elfogadásától függővé. A módosítás a műsorszolgáltatási jogosultság időtartamát nem érinti. A módosítás során a szerződésben rendelkezni kell a műsorszolgáltató frekvenciacserével kapcsolatos igazolt költségeiről.
 
-(3) A Hatóság a rádióengedély visszavonásáról a Testületet tájékoztatja.
+(3) A rádióengedély visszavonásáról a Médiatanácsot a Hivatal haladéktalanul értesíti.
 
 (4) A rádióengedély visszavonásáról szóló határozatban a teljesítés határnapját vagy határidejét úgy kell megállapítani, hogy megfelelő idő álljon rendelkezésre a műsorszolgáltatási szerződés módosítására.
 
@@ -253,7 +253,7 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 (3) Az (1) bekezdés szerinti frekvenciacsere nem jelenti a frekvenciahasználati jogosultságot biztosító szerződés vagy hatósági szerződés módosítását.
 
-(4) A Hatóság a rádióengedély visszavonásáról, az új frekvenciahasználati jog, illetve rádióengedély kiadásáról a Testületet, a műsorterjesztőt és a frekvenciahasználati jogosultsággal rendelkezőt tájékoztatja.
+(4) A Hatóság a rádióengedély visszavonásáról, az új frekvenciahasználati jog, illetve rádióengedély kiadásáról a műsorterjesztőt és a frekvenciahasználati jogosultsággal rendelkezőt tájékoztatja. A Médiatanácsot a Hivatal haladéktalanul tájékoztatja.
 
 (5) Analóg műsorszórásra felosztott frekvencia a műsorszóró frekvenciasáv frekvenciahasználati jogosultságával rendelkező műsorszolgáltató beleegyezésével cserélhető digitális műsorszórásra felosztott frekvenciára, ha a vételkörzetben a lakosság számára az analóg vételhez szükséges készülékekhez hasonló arányban rendelkezésre áll a digitális műsorszórási szolgáltatás vételére alkalmas készülék.
 
@@ -273,11 +273,11 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 ### Alkotmányos kötelezettségek
 
-21. § (1) Az Európai Gazdasági Térségről szóló megállapodásban, valamint az 1998. évi XLIX. törvénnyel kihirdetett, a határokat átlépő televíziózásról szóló, Strasbourgban, 1989. május 5-én kelt európai egyezményben, és kiegészítő Jegyzőkönyvében részes valamely állam joghatósága alá tartozó műsorszolgáltató műsorának tartalmáért a műsorterjesztő nem felelős, kivéve az Rttv.-ben meghatározott eseteket. A Testület erre vonatkozó döntése alapján azonban köteles a műsor műsorterjesztését felfüggeszteni, illetve megszüntetni.
+21. § (1) Az Európai Gazdasági Térségről szóló megállapodásban, valamint az 1998. évi XLIX. törvénnyel kihirdetett, a határokat átlépő televíziózásról szóló, Strasbourgban, 1989. május 5-én kelt európai egyezményben, és kiegészítő Jegyzőkönyvében részes valamely állam joghatósága alá tartozó műsorszolgáltató műsorának tartalmáért a műsorterjesztő nem felelős, kivéve az Rttv.-ben meghatározott eseteket. A Médiatanács erre vonatkozó döntése alapján azonban köteles a műsor műsorterjesztését felfüggeszteni, illetve megszüntetni.
 
 (2) A műsorterjesztő nem terjeszthet (1) bekezdésbe nem tartozó olyan műsort, amely az Rttv. 3. és 4/A. §-aiban foglalt alapelveknek nem felel meg.
 
-(3) A műsorterjesztés e § szerinti jogszerűségét a Hatóság piacfelügyeleti eljárás keretében ellenőrzi. Az eljárásban az (1) és (2) bekezdésben meghatározott követelményekkel kapcsolatosan a Testület szakhatóságként jár el. A Hatóság megállapított jogsértés esetében az Eht. 67–68. § szerinti piacfelügyeleti eljárás jogkövetkezményeit alkalmazza.
+(3) A műsorterjesztés e § szerinti jogszerűségét a Hatóság piacfelügyeleti eljárás keretében ellenőrzi. Az (1) és (2) bekezdésben meghatározott követelményekkel kapcsolatosan a Médiatanács jár el. A Hatóság megállapított jogsértés esetében az Eht. 67–68. §-ai szerinti piacfelügyeleti eljárás jogkövetkezményeit alkalmazza.
 
 (4) Az (1) és (2) bekezdés rendelkezései nem érintik az Rttv. 1/A. §-ának (1)–(4) bekezdései alapján magyar joghatóság alá tartozó műsorszolgáltatásokat, amelyekre az Rttv. műsorszolgáltatásra vonatkozó szabályait kell alkalmazni.
 
@@ -362,15 +362,15 @@ szolgáló műsorszolgáltató gazdaságilag és műszakilag indokolt szerződé
 
 27. § (1) Amennyiben a 25. és a 26. § szerinti szerződés az ajánlattételtől számított harminc napon belül nem jön létre, a műsorszolgáltató az Eht. 49. §-a szerint jogosult jogvitás eljárást kezdeményezni.
 
-(2) Amennyiben a jogvitás eljárásban a műsorszolgáltatás helyi vagy körzeti jellege, illetve a 26. § (1) bekezdése szerinti szerepe vitatott, e kérdésben a Testület, mint szakhatóság jár el.
+(2) Amennyiben a jogvitás eljárásban a műsorszolgáltatás helyi vagy körzeti jellege, illetve a 26. § (1) bekezdése szerinti szerepe vitatott, e kérdésben a Hatóság jár el.
 
 28. § (1) Az e fejezetben foglalt kötelezettségek betartását a Hatóság piacfelügyeleti eljárás keretében ellenőrzi.
 
-(2) Az e fejezetben foglalt kötelezettségek érvényesüléséről, alkalmazásuk gyakorlati tapasztalatairól, illetve az (1) bekezdés szerinti piacfelügyeleti eljárások tapasztalatairól a Hatóság a Testülettel közösen legalább kétévente jelentést készít.
+(2) Az e fejezetben foglalt kötelezettségek érvényesüléséről, alkalmazásuk gyakorlati tapasztalatairól, illetve az (1) bekezdés szerinti piacfelügyeleti eljárások tapasztalatairól a Hatóság legalább kétévente jelentést készít.
 
 (3) A Hatóság a (2) bekezdés szerinti jelentést az Eht. 36. §-a szerint egyezteti az érdekeltekkel.
 
-(4) Amennyiben a jelentés alapján indokolt, a Hatóság, illetve a Testület kezdeményezi a kötelezettségek módosítását.
+(4) Amennyiben a jelentés alapján indokolt, a Hatóság kezdeményezi a kötelezettségek módosítását.
 
 ### Adatszolgáltatás
 
@@ -600,8 +600,8 @@ szolgáló műsorszolgáltató gazdaságilag és műszakilag indokolt szerződé
 
 45. § (1) A digitális átállás költségeit az elkülönített források felhasználásával kell fedezni. Ezek
 
-- a) a Műsorszolgáltatási Alap Rttv. 131. § (3) bekezdésében meghatározott forrása,
-- b) az analóg fölfelszíni műsorterjesztés célját szolgáló frekvenciahasználat díjának külön jogszabályban meghatározott mértéke,
+- a) a Műsorszolgáltatás Támogató és Vagyonkezelő Alap Rttv. 131. § (3) bekezdésében meghatározott forrása,
+- b) az analóg földfelszíni műsorterjesztés célját szolgáló frekvenciahasználat díjának külön jogszabályban meghatározott mértéke,
 - c) a szolgáltatók önkéntes befizetései,
 - d) költségvetési előirányzat, és
 - e) egyéb befizetések.
@@ -612,17 +612,13 @@ szolgáló műsorszolgáltató gazdaságilag és műszakilag indokolt szerződé
 - b) a digitális műsorterjesztés vételére alkalmas készülékkel nem rendelkezők rászorultsági alapú, célhoz kötött támogatása a külön jogszabályban meghatározottak szerint; vagy
 - c) egyéb, az 1014/2007. (III. 13.) Korm. határozat mellékletében (Digitális Átállás Stratégia) meghatározott célra.
 
-(3) A digitális rádió- vagy televízió-műsorszóró hálózat, illetve az ehhez kapcsolódó jogosultságok pályáztatási költségeit a Műsorszolgáltatási Alapból kell fedezni.
+(3) A digitális rádió- vagy televízió-műsorszóró hálózat, illetve az ehhez kapcsolódó jogosultságok pályáztatási költségeit a Műsorszolgáltatás támogató és Vagyonkezelő Alapból kell fedezni.
 
 ## NEGYEDIK RÉSZ — A HATÓSÁGOK EGYÜTTMŰKÖDÉSE
 
-46. § (1) A Hatóság és a Testület az egységes jogalkalmazás előmozdítása érdekében szorosan együttműködik.
+46. § (1) A Hivatal és a Médiatanács e törvényben, az Eht.-ban és az Rttv.-ben foglalt feladataik ellátása érdekében jogosultak a rendelkezésre álló adatokat, információkat és iratokat egymásnak hivatalból rendelkezésre bocsátani, ezen Hatóságon belüli együttműködés során az Eht. és az Rttv. adatvédelemre és az üzleti titokra vonatkozó szabályainak figyelembevételével kötelesek eljárni.
 
-(2) A Hatóság és a Testület e törvényben, az Eht.-ban és az Rttv.-ben foglalt feladataik ellátása érdekében jogosultak a rendelkezésre álló adatokat, információkat és iratokat egymásnak átadni, ezen együttműködés során az Eht. és az Rttv. adatvédelemre és az üzleti titokra vonatkozó szabályainak figyelembevételével kötelesek eljárni. Ennek keretében az adatot a másik hatóságnak átadó hatóság többek között értesíti az adatszolgáltatót az adatok átadásáról, és az átvevő hatóság biztosítja, hogy az átadott adatok legalább olyan szintű védelemben részesüljenek, mint az átadó hatóságnál.
-
-(3) A Hatóság és a Testület az együttműködés részleteit minden év június 30-ig megállapodásban rögzíti, és a nyilvánosság számára hozzáférhetővé teszi.
-
-(4) A Hatóság és a Gazdasági Versenyhivatal e törvény céljai és alapelvei érvényre juttatása érdekében a rendelkezésükre álló adatokat, információkat és iratokat – az adatvédelemre és az üzleti titokra vonatkozó szabályok figyelembevételével – egymásnak átadják, feladat- és hatáskörükkel összefüggésben – a másik hatóság kérésére – szakmai kérdésekben véleményt nyilvánítanak, állásfoglalást adnak. Ennek keretében az adatot a másik hatóságnak átadó hatóság többek között értesíti az adatszolgáltatót az adatok átadásáról, és az átvevő hatóság biztosítja, hogy az átadott adatok legalább olyan szintű védelemben részesüljenek, mint az átadó hatóságnál.
+(2) A Hatóság és a Gazdasági Versenyhivatal e törvény céljai és alapelvei érvényre juttatása érdekében a rendelkezésükre álló adatokat, információkat és iratokat – az adatvédelemre és az üzleti titokra vonatkozó szabályok figyelembevételével – egymásnak átadják, feladat- és hatáskörükkel összefüggésben – a másik hatóság kérésére – szakmai kérdésekben véleményt nyilvánítanak, állásfoglalást adnak. Ennek keretében az adatot a másik hatóságnak átadó hatóság többek között értesíti az adatszolgáltatót az adatok átadásáról, és az átvevő hatóság biztosítja, hogy az átadott adatok legalább olyan szintű védelemben részesüljenek, mint az átadó hatóságnál.
 
 ## ÖTÖDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 

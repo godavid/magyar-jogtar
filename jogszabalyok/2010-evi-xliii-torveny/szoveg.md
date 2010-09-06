@@ -24,14 +24,14 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 (3) Autonóm államigazgatási szerv
 
 - a) a Közbeszerzések Tanácsa,
-- b) az Országos Rádió és Televízió Testület,
+- b) a Nemzeti Média- és Hírközlési Hatóság,
 - c) a Gazdasági Versenyhivatal,
 - d) a Pénzügyi Szervezetek Állami Felügyelete.
 
 (4) Kormányhivatal
 
 - a) a Központi Statisztikai Hivatal,
-- b) a Nemzeti Hírközlési Hatóság,
+- b)
 - c) a Magyar Energia Hivatal,
 - d) az Országos Atomenergia Hivatal,
 - e) a Magyar Szabadalmi Hivatal,

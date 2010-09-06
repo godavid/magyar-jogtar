@@ -237,7 +237,7 @@ vonatkoznak.
 
 (4) E törvény rendelkezései – a 24. § (2) és (4) bekezdésében meghatározottak kivételével – az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
-(5) A műsorszolgáltatóval szemben kiszabott bírságot a Műsorszolgáltatási Alapba kell befizetni.
+(5) A műsorszolgáltatóval szemben kiszabott bírságot a Műsorszolgáltatás Támogató és Vagyonkezelő Alapba kell befizetni.
 
 26/A. § (1) A Pénzügyi Szervezetek Állami Felügyelete eljárására az e törvényben meghatározott eltérésekkel a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény rendelkezéseit kell alkalmazni.
 

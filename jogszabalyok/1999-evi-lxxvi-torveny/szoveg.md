@@ -291,7 +291,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (5) Az irodalmi és a zenei művekkel kapcsolatos szerzői jogok közös kezelését végző szervezet a díjakból az általa a felosztást illetően nem képviselt műtípusok szerzőinek és szerzői jogi jogosultjainak, valamint az előadóművészeknek és a hangfelvétel-előállítóknak járó részt a jogosultak közös jogkezelő szervezeteinek utalja át.
 
-(6) A magyar közszolgálati műsorszolgáltató rádió- vagy televízió-szervezet műsorában sugárzott, vezetéken vagy másként közvetített művek továbbközvetítéséért járó díjakat a Műsorszolgáltatási Alapból kell megfizetni; erről az Alap kezelője gondoskodik.
+(6) A magyar közszolgálati műsorszolgáltató rádió- vagy televízió-szervezet műsorában sugárzott, vezetéken vagy másként közvetített művek továbbközvetítéséért járó díjakat a Műsorszolgáltatás Támogató és Vagyonkezelő Alapból kell megfizetni; erről az Alap kezelője gondoskodik.
 
 ### Az átdolgozás joga
 
