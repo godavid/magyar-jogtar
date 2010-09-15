@@ -52,7 +52,7 @@ terjed ki.
 
 (5) Az egészségügyi ellátási szerződést az egészségügyi közszolgáltatásért felelős szerv köti a feladat ellátását vállaló, nem a saját fenntartásában vagy tulajdonában álló egészségügyi szolgáltatóval. Az egészségügyi ellátási szerződés érvényességéhez az egészségügyi szolgáltató fenntartójának/tulajdonosának hozzájárulása szükséges.
 
-(6) Ha a (3) bekezdés szerinti megállapodást vagy szerződéskötést helyi önkormányzat kezdeményezi, és a szerződéskötésre a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 80/A. és 80/B. §-ában foglaltak szerint vagyonkezelői jog átadásához kapcsolódóan kerül sor, és a szerződés szolgáltatási koncessziónak minősül, a helyi önkormányzatnak a közbeszerzésekről szóló 2003. évi CXXIX. törvény szerinti közbeszerzési eljárást nem kell lefolytatnia.
+(6)
 
 (7) Az az egészségügyi közszolgáltatásért felelős szerv vagy más fenntartó, aki a (3) bekezdés a) pontja szerinti megállapodás alapján ellátási kötelezettséget teljesít, ugyanarra az ellátási kötelezettségre további megállapodást vagy egészségügyi ellátási szerződést nem köthet.
 
