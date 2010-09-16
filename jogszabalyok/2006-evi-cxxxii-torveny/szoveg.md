@@ -10,7 +10,7 @@ megalkotja a szakellátó hálózat megújítását és folyamatosan magas szín
 
 - a) az egészségügyi közszolgáltatások közül a szakellátási kötelezettség keretében nyújtott járóbeteg- és fekvőbeteg-szakellátásokra (a továbbiakban együtt: egészségügyi szakellátás),
 - b) a közfinanszírozásban részesülő egészségügyi szolgáltatók fenntartóira és működtetőire, valamint a fenntartásukban működő egészségügyi szolgáltatókra,
-- c) az egészségügyért és az egészségbiztosításért felelős miniszterre (a továbbiakban együtt: egészségügyért felelős miniszter), a külön jogszabály szerinti egészségbiztosítási felügyeleti hatóságra (a továbbiakban: Felügyelet), az egészségügyi államigazgatási szervre és az egészségbiztosítóra,
+- c) az egészségügyért és az egészségbiztosításért felelős miniszterre (a továbbiakban együtt: egészségügyért felelős miniszter), az egészségügyi államigazgatási szervre és az egészségbiztosítóra,
 - d) a regionális egészségügyi tanácsokra (a továbbiakban: RET)
 
 terjed ki.
@@ -119,7 +119,7 @@ terjed ki.
 
 (2) A közszolgáltatásért felelős szerv az egészségügyi ellátási szerződést az (1) bekezdésben meghatározott felmondási időnél rövidebb határidővel is felmondhatja, ha
 
-- a) saját ellenőrzése, az egészségügyi államigazgatási szerv, a Felügyelet, az egészségügyi szolgáltatónál működő szakmai vezető testület, a kórházi felügyelő tanács, a betegjogi képviselő vagy a betegek érdek-képviseleti szerveinek jelzése alapján megállapítható, hogy az egészségügyi szolgáltatás nyújtásának minősége csökkent, és e minőségcsökkenést az egészségügyi államigazgatási szervnek a közszolgáltatásért felelős szerv felkérésére lefolytatott célellenőrzése is igazolja,
+- a) saját ellenőrzése, az egészségügyi államigazgatási szerv, az egészségügyi szolgáltatónál működő szakmai vezető testület, a kórházi felügyelő tanács, a betegjogi képviselő vagy a betegek érdek-képviseleti szerveinek jelzése alapján megállapítható, hogy az egészségügyi szolgáltatás nyújtásának minősége csökkent, és e minőségcsökkenést az egészségügyi államigazgatási szervnek a közszolgáltatásért felelős szerv felkérésére lefolytatott célellenőrzése is igazolja,
 - b) az egészségügyi szolgáltató a területi ellátási kötelezettségét folyamatosan, súlyosan megszegi,
 - c) az egészségügyi szolgáltató lejárt adósságának mértéke eléri a 2/G. § (1) bekezdés b) pontjában foglalt értéket vagy a biztonságos szolgáltatás helyreállítására tett intézkedések nem vezettek eredményre,
 - d) az egészségbiztosító jelzése alapján az egészségügyi szolgáltató súlyosan megszegte a közszolgáltatás finanszírozására vonatkozó szerződést.
@@ -148,7 +148,7 @@ terjed ki.
 - b) évente írásban beszámol az egészségügyi közszolgáltatás teljesítéséről, és megküldi az egészségügyi szolgáltató gazdálkodásáról a számviteli szabályok szerint készített beszámolót;
 - c) haladéktalanul írásban jelenti, ha az egészségügyi szolgáltatónak a 2/G. §-ban meghatározott adóssága keletkezik.
 
-(2) Amennyiben az egészségügyi közszolgáltatásért felelős szerv a szolgáltató ellenőrzése során az egészségügyi ellátási szerződésben meghatározott minőségi mutatók alapján a szolgáltatás nyújtásának minőségét érintő hiányosságokat észlel, a hatáskörükbe tartozó kérdésekben tájékoztatja az egészségügyi államigazgatási szervet, továbbá a Felügyeletet.
+(2) Amennyiben az egészségügyi közszolgáltatásért felelős szerv a szolgáltató ellenőrzése során az egészségügyi ellátási szerződésben meghatározott minőségi mutatók alapján a szolgáltatás nyújtásának minőségét érintő hiányosságokat észlel, a hatáskörükbe tartozó kérdésekben tájékoztatja az egészségügyi államigazgatási szervet.
 
 (3) Amennyiben az egészségügyi államigazgatási szerv az egészségügyi szolgáltatók szakfelügyelete során, vagy az egészségbiztosító az egészségügyi szolgáltatóval kötött finanszírozási szerződés teljesítésének ellenőrzésekor
 
@@ -367,7 +367,7 @@ amennyiben az megfelel az e törvényben és a külön jogszabályokban meghatá
 
 (3) Az egészségügyi szolgáltatóval a (2) bekezdés alapján azt követően köthető finanszírozási szerződés, hogy ellátási területe megállapításra került.
 
-8/A. § (1) Amennyiben az egészségbiztosító megállapítja, hogy az érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltatónál a finanszírozási szerződés tárgyát képező egészségügyi szolgáltatás nyújtásának minősége nem éri el az érvényes finanszírozási eljárásrendben, illetve ennek hiányában a szakmai eljárásrendben meghatározott követelményeket, külön jogszabályban foglaltak szerint felszólítja az egészségügyi szolgáltatót a legalább az érvényes finanszírozási protokollnak megfelelő szolgáltatásnyújtásra. A felszólításról egyidejűleg értesíteni kell a szolgáltató fenntartóját, a Felügyeletet, az egészségügyi államigazgatási szervet és az egészségügyért felelős minisztert is. Az egészségbiztosító egyidejűleg tájékoztatja a felszólított szolgáltatót és fenntartóját az (5) bekezdés szerinti lehetséges következményekről.
+8/A. § (1) Amennyiben az egészségbiztosító megállapítja, hogy az érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltatónál a finanszírozási szerződés tárgyát képező egészségügyi szolgáltatás nyújtásának minősége nem éri el az érvényes finanszírozási eljárásrendben, illetve ennek hiányában a szakmai eljárásrendben meghatározott követelményeket, külön jogszabályban foglaltak szerint felszólítja az egészségügyi szolgáltatót a legalább az érvényes finanszírozási protokollnak megfelelő szolgáltatásnyújtásra. A felszólításról egyidejűleg értesíteni kell a szolgáltató fenntartóját, az egészségügyi államigazgatási szervet és az egészségügyért felelős minisztert is. Az egészségbiztosító egyidejűleg tájékoztatja a felszólított szolgáltatót és fenntartóját az (5) bekezdés szerinti lehetséges következményekről.
 
 (2) Az egészségbiztosító az (1) bekezdés szerinti felszólítástól számított 60 nap elteltével megvizsgálja, hogy a felszólításban előírtakat a szolgáltató teljesítette-e.
 
@@ -403,7 +403,7 @@ köteles a számviteli jogszabályok szerinti beszámolóját könyvvizsgálóva
 
 (2) A könyvvizsgálatra, illetve a könyvvizsgálóval szembeni követelményekre a számviteli jogszabályok, valamint a Magyar Könyvvizsgálói Kamaráról és a könyvvizsgálói tevékenységről szóló törvény előírásait kell megfelelően alkalmazni.
 
-(3) Az egészségügyi szolgáltató a Felügyeletnél bejelenti az általa megbízott könyvvizsgáló nevét (cégét), lakóhelyét (székhelyét), telefon-, telefax-elérhetőségét, elektronikus levélcímét, valamint a számviteli jogszabályok szerinti beszámolóját az elkészítését követő 30 napon belül – a független könyvvizsgálói jelentéssel együtt – megküldi a Felügyeletnek.
+(3)
 
 13. § (1) Annak az egészségügyi szolgáltatónak a vezetője, amely
 

@@ -207,7 +207,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 - a) a kötelességszegésnek (hiányosságnak, mulasztásnak) a hatóság tudomására jutásától számított 6 hónap eltelt,
 - b) a cselekmény elkövetésétől, vagy a jogsértő állapot fennállása esetén a jogszerű állapot helyreállításától számított egy év eltelt, vagy
-- c) azonos tényállás alapján az Egészségbiztosítási Felügyelet külön törvény szerinti felügyeleti bírságot szabott ki.
+- c)
 
 (2) Az egészségügyi bírságot az azt kiszabó jogerős határozat közlésétől számított huszonkettedik munkanapig meg kell fizetni.
 

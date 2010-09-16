@@ -56,7 +56,7 @@ terjed ki.
 - k) intézményi várólista: az adott fekvőbeteg ellátó intézményben a betegellátás sorrendjét meghatározó jegyzék, amely – a központi várólista alapján igénybe vehető ellátások kivételével – az egészségügyi ellátások meghatározott sorrend szerinti elvégzése érdekében, továbbá tartós kapacitáshiány esetén kerül kialakításra [a j) és k) pont a továbbiakban együtt: várólista],
 - l) egészségbiztosító: az egészségbiztosítási szerv,
 - m) betegfogadási lista: az adott járóbeteg szakellátó intézményben – amennyiben a biztosított egészségi állapota nem indokolja az azonnali ellátást – a betegellátás sorrendjét szakrendelésenként, az ellátás igénybevételének időpontjával meghatározó lista,
-- n) próbavásárlás: az egészségbiztosító és az egészségbiztosítási felügyeleti hatóság által végzett olyan helyszíni ellenőrzés, melynek során az ellenőrzést végző személy vásárlói szerepben vagy – a gyógyító-megelőző egészségügyi ellátás kivételével – szolgáltatást igénybe vevő szerepben lép fel,
+- n) próbavásárlás: az egészségbiztosító által végzett olyan helyszíni ellenőrzés, melynek során az ellenőrzést végző személy vásárlói szerepben vagy – a gyógyító-megelőző egészségügyi ellátás kivételével – szolgáltatást igénybe vevő szerepben lép fel,
 - o) gyógyító-megelőző eljárások során alkalmazott egészségügyi technológia: az egészség megőrzésére, helyreállítására, illetve az egészségi állapot diagnosztizálására irányuló tevékenységek, illetve ezek kapcsán felhasznált eszközök, anyagok összessége, ide nem értve gyógyászati segédeszköz alkalmazását és gyógyszer gyógyító-megelőző ellátáson kívüli alkalmazását.
 
 ### Egészségbiztosítási ellátásra jogosultak
@@ -279,7 +279,7 @@ terjed ki.
 - a) a fekvőbeteg-gyógyintézeti ellátások elvégzését – amennyiben a biztosított egészségi állapota nem indokolja az azonnali ellátását, figyelemmel a (3) bekezdésben foglaltakra is – a (2) bekezdésben meghatározott esetben intézményi várólista alapján teljesíti,
 - b) a járóbeteg-szakellátások elvégzését a külön jogszabály szerinti betegfogadási lista alapján teljesíti,
 
-és az a) és b) pont szerinti teljesítésről, valamint az azonnali ellátásokról külön jogszabályban meghatározott módon rendszeres jelentést küld az egészségbiztosítási felügyeleti hatóság részére.
+és az a) és b) pont szerinti teljesítésről, valamint az azonnali ellátásokról külön jogszabályban meghatározott módon rendszeres jelentést küld az egészségbiztosító részére.
 
 (2) Intézményi várólistát kell kialakítani
 
@@ -302,11 +302,11 @@ terjed ki.
 
 (8) A biztosítottat a várólistáról vagy betegfogadási listáról törölni kell, ha egészségi állapotában olyan változás áll be, amely az adott beavatkozás elvégzését véglegesen lehetetlenné vagy orvosszakmai szempontból indokolatlanná teszi.
 
-20/A. § (1) A várólista az adott egészségügyi ellátásra besorolt biztosítottak legfontosabb személyazonosító adatait (családi és utónév, anyja neve, nem, születési év, lakóhely, társadalombiztosítási azonosító jel), az ellátásra való jogosultság sorrendjét, valamint az ellátás várható, illetve – amint ismertté válik – pontosan meghatározott időpontját tartalmazza. A biztosítottak egyéb adatait az egészségügyi dokumentáció tartalmazza. A várólistán szereplő adatokat és a biztosítottak egyéb adatait az egészségügyi és személyazonosító adatok kezelésére vonatkozó jogszabályokban meghatározott rendelkezések szerint kell kezelni. Várólista vezetésére az egészségbiztosítási felügyeleti hatóság által külön jogszabályban meghatározott módon minősített szoftvert kell alkalmazni.
+20/A. § (1) A várólista az adott egészségügyi ellátásra besorolt biztosítottak legfontosabb személyazonosító adatait (családi és utónév, anyja neve, nem, születési év, lakóhely, társadalombiztosítási azonosító jel), az ellátásra való jogosultság sorrendjét, valamint az ellátás várható, illetve – amint ismertté válik – pontosan meghatározott időpontját tartalmazza. A biztosítottak egyéb adatait az egészségügyi dokumentáció tartalmazza. A várólistán szereplő adatokat és a biztosítottak egyéb adatait az egészségügyi és személyazonosító adatok kezelésére vonatkozó jogszabályokban meghatározott rendelkezések szerint kell kezelni.
 
 (2) A központi várólistát kormányrendeletben kijelölt szerv működteti. A kormányrendeletben kijelölt szerv a működtetéshez a külön jogszabályban meghatározott közreműködőt vehet igénybe. Az intézményi várólistát az adott ellátást nyújtó egészségügyi szolgáltató szervezeti és működési szabályzatában e feladatra kijelölt személy vezeti.
 
-(3) A várólista adatai – kizárólag személyazonosításra alkalmatlan módon – intézményi várólista esetében az ellátást nyújtó egészségügyi szolgáltató honlapján, központi várólista esetén a kormányrendeletben kijelölt szerv honlapján megtekinthetőek, ebben a formájukban nyilvánosak. A transzplantációs várólista kivételével az ellátás igénybevételének várható időpontját is közzé kell tenni. Az egészségbiztosítási felügyeleti hatóság honlapjáról a várólista alapján ellátást nyújtó egészségügyi szolgáltatók és a kormányrendeletben kijelölt szerv honlapjának is közvetlenül elérhetőeknek kell lenniük.
+(3) A várólista adatai – kizárólag személyazonosításra alkalmatlan módon – intézményi várólista esetében az ellátást nyújtó egészségügyi szolgáltató honlapján, központi várólista esetén a kormányrendeletben kijelölt szerv honlapján megtekinthetőek, ebben a formájukban nyilvánosak. A transzplantációs várólista kivételével az ellátás igénybevételének várható időpontját is közzé kell tenni. Az egészségbiztosító honlapjáról a várólista alapján ellátást nyújtó egészségügyi szolgáltatók és a kormányrendeletben kijelölt szerv honlapjának is közvetlenül elérhetőeknek kell lenniük.
 
 (4) A várólista adatait a honlapon – folyamatosan, de legkésőbb a változást követő 3 napon belül – úgy kell közzétenni, hogy abból egyértelműen megállapítható legyen az adott biztosított számára a várólistán elfoglalt helye. A közzétételre vonatkozó részletes szabályokat az egészségbiztosításért felelős miniszter rendeletben határozza meg.
 
@@ -316,7 +316,7 @@ terjed ki.
 
 (7) A betegfogadási lista az adott egészségügyi ellátásra előjegyzett biztosítottak családi és utónevét, társadalombiztosítási azonosító jelét valamint az ellátásra történő jelentkezés és az ellátás igénybevételének pontosan meghatározott időpontját és helyét tartalmazza.
 
-(8) A betegfogadási lista külön jogszabályban meghatározottak szerint összesített statisztikai adatait – kizárólag személyazonosításra alkalmatlan módon – az egészségbiztosítási felügyeleti hatóság honlapján közzé kell tenni.
+(8) A betegfogadási lista külön jogszabályban meghatározottak szerint összesített statisztikai adatait – kizárólag személyazonosításra alkalmatlan módon – az egészségbiztosító honlapján közzé kell tenni.
 
 ### 2. CÍM — Árhoz nyújtott támogatással igénybe vehető
 
@@ -533,7 +533,7 @@ igazolja.
 - h) a szerződés hatályát, a módosítására és felmondására vonatkozó rendelkezéseket, a szerződés megszegése esetén követendő eljárást, ideértve a szerződésszegésen alapuló igények érvényesítési rendjét is,
 - i)
 
-(2) Az egészségügyi szolgáltató gyógyszert, gyógyászati segédeszközt, valamint gyógyászati ellátást árhoz nyújtott támogatással az egészségbiztosítási felügyeleti hatóság által minősített, a minőségi és hatékony gyógyszer- és gyógyászatisegédeszköz-rendelést elősegítő számítógépes rendszer alkalmazásával rendelhet.
+(2) Az egészségügyi szolgáltató gyógyszert, gyógyászati segédeszközt, valamint gyógyászati ellátást árhoz nyújtott támogatással az egészségbiztosító által minősített, a minőségi és hatékony gyógyszer- és gyógyászatisegédeszköz-rendelést elősegítő számítógépes rendszer alkalmazásával rendelhet.
 
 (3) A finanszírozási szerződés mellékletét képezi
 
@@ -565,7 +565,7 @@ igazolja.
 - e) nem rendelkezik gyógyszer- vagy gyógyászatisegédeszköz-gyártó, -forgalmazó, -nagykereskedő vagy gyógyszertárat, illetve gyógyászatisegédeszköz-szaküzletet működtető gazdasági társaságban ötven százalékot meghaladó tulajdoni hányaddal, és
 - f) gyógyszer- vagy gyógyászatisegédeszköz-gyártó, -forgalmazó, -nagykereskedő vagy gyógyszertárat, illetve gyógyászatisegédeszköz-szaküzletet működtető gazdasági társaságnak nem vezető tisztségviselője.
 
-(2) A nem finanszírozott egészségügyi szolgáltató orvosa gyógyszert, gyógyászati segédeszközt, valamint gyógyászati ellátást árhoz nyújtott támogatással az egészségbiztosítási felügyeleti hatóság által előzetesen minősített, a minőségi és hatékony gyógyszer- és gyógyászatisegédeszköz-rendelést elősegítő számítógépes rendszer alkalmazásával rendelhet.
+(2) A nem finanszírozott egészségügyi szolgáltató orvosa gyógyszert, gyógyászati segédeszközt, valamint gyógyászati ellátást árhoz nyújtott támogatással az egészségbiztosító által előzetesen minősített, a minőségi és hatékony gyógyszer- és gyógyászatisegédeszköz-rendelést elősegítő számítógépes rendszer alkalmazásával rendelhet.
 
 (3) A támogatással történő rendelésre jogosító szerződésben meg kell határozni
 

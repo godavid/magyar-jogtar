@@ -563,7 +563,7 @@ b) a módosítással egyetért annak az egészségügyi szolgáltatónak a fennt
 
 lép.
 
-(10) Az Egészségbiztosítási Felügyelet e törvény hatálybalépése előtt kinevezett elnökhelyettesének megbízatását e törvény hatálybalépése nem érinti, az Ebftv. 2. §-ának e törvény 13. §-ával megállapított (4) bekezdésében meghatározott megbízatási idejét e törvény hatálybalépésétől kell számítani.
+(10)
 
 (11) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) alapján a 2006. június 30-án hatályos szabályok alapján közgyógyellátásra jogosult azon személyek, akik a 2006. július 1-jén hatályba lépett rendelkezések szerinti közgyógyellátási jogosultság megállapítása érdekében kérelmüket 2007. június 30. napjáig, de legkésőbb az igazolvány lejártát megelőző napig benyújtották az illetékes települési önkormányzat jegyzőjéhez (a továbbiakban: jegyző), a szolgáltatás igénybevételekor térítésmentesen jogosultak a külön jogszabályban meghatározott gyógyszerre, gyógyászati segédeszközökre és gyógyászati ellátásra a (12) bekezdésben foglaltak szerint.
 

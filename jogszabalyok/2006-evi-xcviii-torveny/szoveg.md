@@ -111,7 +111,7 @@ az alábbi törvényt alkotja:
 - a) a gyógyszer forgalomba hozatali engedélyének jogosultja, a gyógyszer forgalmazására engedéllyel rendelkező, illetve a gyógyászati segédeszköz gyártója vagy forgalmazója, vagy
 - b) az a) pontban meghatározottak megbízása alapján más gazdálkodó szervezet
 
-[az a) és b) pontban jelzettek a továbbiakban együtt: ismertetési tevékenységet folytató] ismertetési tevékenységet kíván folytatni, köteles az erre irányuló szándékát az egészségbiztosítási felügyeleti hatóságnak bejelenteni.
+[az a) és b) pontban jelzettek a továbbiakban együtt: ismertetési tevékenységet folytató] ismertetési tevékenységet kíván folytatni, köteles az erre irányuló szándékát az egészségügyi államigazgatási szervnek bejelenteni.
 
 (4) A (3) bekezdés szerinti bejelentésnek – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmaznia kell:
 
@@ -121,7 +121,7 @@ az alábbi törvényt alkotja:
 - d) a 13. § szerinti ismertető személy nyilatkozatát arról, hogy vele szemben a 13. § (3) bekezdése szerinti összeférhetetlenségi ok nem áll fenn,
 - e) a 13. § szerinti ismertető személy képzettségét igazoló oklevél számát és alap-nyilvántartási számát, ha az ismertetés külön jogszabály szerint meghatározott képzettséghez kötött.
 
-(5) A (3) bekezdés szerinti ismertetési tevékenységet folytató a bejelentésben részletezett adatokban történt változást haladéktalanul bejelenti az egészségbiztosítási felügyeleti hatóságnak.
+(5) A (3) bekezdés szerinti ismertetési tevékenységet folytató a bejelentésben részletezett adatokban történt változást haladéktalanul bejelenti az egészségügyi államigazgatási szervnek.
 
 (6) E § rendelkezéseit a gyógyszer és gyógyászati segédeszköz ismertetési tevékenységnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató által határon átnyúló szolgáltatásnyújtás keretében történő folytatására is alkalmazni kell.
 
@@ -137,9 +137,9 @@ az alábbi törvényt alkotja:
 
 (4) A (3) bekezdés szerinti összeférhetetlenség nem érinti a gyógyszerészeti államigazgatási szerv saját gyógyszerismertető hálózatába tartozó személyeket.
 
-13/A. § (1) Az ismertetési tevékenységet folytatókról és az ismertető személyekről az egészségbiztosítási felügyeleti hatóság a 12. § szerinti bejelentés alapján nyilvántartást vezet. A nyilvántartás a 12. § (4) bekezdése szerinti adatokat tartalmazza.
+13/A. § (1) Az ismertetési tevékenységet folytatókról és az ismertető személyekről az egészségügyi államigazgatási szerv a 12. § szerinti bejelentés alapján nyilvántartást vezet. A nyilvántartás a 12. § (4) bekezdése szerinti adatokat tartalmazza.
 
-(2) Az egészségbiztosítási felügyeleti hatóság az ismertető személy részére a nyilvántartásba vétellel egyidejűleg ismertetői igazolványt állít ki, amely tartalmazza az ismertető személy családi és utónevét, valamint az egészségügyért felelős miniszter rendeletében meghatározott egyéb adatokat.
+(2) Az egészségügyi államigazgatási szerv az ismertető személy részére a nyilvántartásba vétellel egyidejűleg ismertetői igazolványt állít ki, amely tartalmazza az ismertető személy családi és utónevét, valamint az egészségügyért felelős miniszter rendeletében meghatározott egyéb adatokat.
 
 (3) A 12. § szerinti bejelentésre és az ismertetési tevékenységet folytatók, illetve az ismertető személyek nyilvántartására az e törvényben foglalt eltérésekkel megfelelően alkalmazni kell a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény bejelentésre, a bejelentéshez kötött tevékenység folytatásának ellenőrzésére és a bejelentéshez kötött tevékenységet folytató szolgáltatók nyilvántartására vonatkozó rendelkezéseit abban az esetben is, ha az ismertetési tevékenységet folytató tevékenysége nem minősül szolgáltatási tevékenységnek.
 
@@ -247,9 +247,9 @@ látja el.
 
 (3) Az igazságügyért felelős miniszter az általa vezetett minisztérium honlapján tájékoztató jelleggel közli a 2001/83/EK európai parlamenti és tanácsi irányelvnek a – 2004/27/EK irányelvvel módosított – 86–100. cikkét átültető jogszabályi rendelkezések felsorolását.
 
-19. § (1) A gyógyszerek és a gyógyászati segédeszközök ismertetésének e törvényben, illetve a rendeletben meghatározott szabályai megsértése esetén az eljárást az egészségbiztosítási felügyeleti hatóság folytatja le.
+19. § (1) A gyógyszerek és a gyógyászati segédeszközök ismertetésének e törvényben, illetve a rendeletben meghatározott szabályai megsértése esetén az eljárást az egészségügyi államigazgatási szerv folytatja le.
 
-(2) Ha az ismertetési tevékenységet folytató, az ismertető személy, a gyógyszer forgalomba hozatali engedélyének jogosultja, illetve a gyógyászati segédeszköz gyártója, a gyógyszer, gyógyászati segédeszköz rendelésére és forgalmazására jogosult személy vagy ezek valamelyikének meghatalmazott képviselője e törvény és a rendelet gyógyszer- vagy gyógyászatisegédeszköz-ismertetésre vonatkozó előírásait megsértette, az egészségbiztosítási felügyeleti hatóság
+(2) Ha az ismertetési tevékenységet folytató, az ismertető személy, a gyógyszer forgalomba hozatali engedélyének jogosultja, illetve a gyógyászati segédeszköz gyártója, a gyógyszer, gyógyászati segédeszköz rendelésére és forgalmazására jogosult személy vagy ezek valamelyikének meghatalmazott képviselője e törvény és a rendelet gyógyszer- vagy gyógyászatisegédeszköz-ismertetésre vonatkozó előírásait megsértette, az egészségügyi államigazgatási szerv
 
 - a) etikai eljárást kezdeményezhet a szakmailag illetékes etikai szervnél, ha ennek feltételei fennállnak,
 - b) a jogsértést elkövető személyt határidővel felhívhatja a hiányosságok megszüntetésére és ennek megszüntetéséig a tevékenység folytatását felfüggesztheti,
@@ -269,21 +269,21 @@ látja el.
 
 19/A. § A 19. § szerinti eljárás során hozott döntés ellen fellebbezésnek nincs helye.
 
-20. § (1) A 14. §-ban foglaltak megtartását az egészségbiztosítási felügyeleti hatóság ellenőrzi.
+20. § (1) A 14. §-ban foglaltak megtartását az egészségügyi államigazgatási szerv ellenőrzi.
 
-(2) A tényállás tisztázása érdekében – az egészségbiztosítási felügyeleti hatóság kérésére – bármely személy vagy szervezet köteles a kezelésében levő adatokat, illetve a birtokában levő iratok másolatát olvasható és másolható formában az egészségbiztosítási felügyeleti hatóság rendelkezésére bocsátani. Az egészségbiztosítási felügyeleti hatóság jogosult bármely személy birtokában levő adathordozóról fizikai tükörmásolatot készíteni, és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni, ha valószínűsíthető, hogy az adathordozón a 14. § rendelkezéseinek megsértéséhez kapcsolódó adatok találhatók.
+(2) A tényállás tisztázása érdekében – az egészségügyi államigazgatási szerv – bármely személy vagy szervezet köteles a kezelésében levő adatokat, illetve a birtokában levő iratok másolatát olvasható és másolható formában az egészségügyi államigazgatási szerv rendelkezésére bocsátani. Az egészségügyi államigazgatási szerv jogosult bármely személy birtokában levő adathordozóról fizikai tükörmásolatot készíteni, és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni, ha valószínűsíthető, hogy az adathordozón a 14. § rendelkezéseinek megsértéséhez kapcsolódó adatok találhatók.
 
-(3) Az egészségbiztosítási felügyeleti hatóság – a 14. § rendelkezései megtartásának ellenőrzésével összefüggésben – jogosult megismerni és kezelni az ügyfél és az ügyféllel kapcsolatba hozható személyek személyes adatait. Ha a bizonyítási eszköz az eljárás tárgyával össze nem függő személyes adatot is tartalmaz, és az adatok elkülönítése a bizonyítási eszköz bizonyító erejének sérelme nélkül nem lehetséges, a bizonyítási eszközzel érintett minden személyes adat kezelésére jogosult az egészségbiztosítási felügyeleti hatóság, azonban a vizsgálat tárgyát képező jogsértéssel össze nem függő személyes adatok megvizsgálására csak addig a mértékig jogosult, ameddig meggyőződik arról, hogy az adat nem függ össze a vizsgálat tárgyát képező jogsértéssel.
+(3) Az egészségügyi államigazgatási szerv – a 14. § rendelkezései megtartásának ellenőrzésével összefüggésben – jogosult megismerni és kezelni az ügyfél és az ügyféllel kapcsolatba hozható személyek személyes adatait. Ha a bizonyítási eszköz az eljárás tárgyával össze nem függő személyes adatot is tartalmaz, és az adatok elkülönítése a bizonyítási eszköz bizonyító erejének sérelme nélkül nem lehetséges, a bizonyítási eszközzel érintett minden személyes adat kezelésére jogosult az egészségügyi államigazgatási szerv, azonban a vizsgálat tárgyát képező jogsértéssel össze nem függő személyes adatok megvizsgálására csak addig a mértékig jogosult, ameddig meggyőződik arról, hogy az adat nem függ össze a vizsgálat tárgyát képező jogsértéssel.
 
 (4)
 
-(5) Az ügyfél és megbízott ügyvédje közötti kommunikáció során, illetve ilyen kommunikációs célból való felhasználás érdekében keletkezett adat vagy az azt rögzítő irat az egészségbiztosítási felügyeleti hatóság eljárásában bizonyítékként nem használható fel, illetve nem vizsgálható meg, nem foglalható le, szemle során a birtokos az ilyen irat felmutatására nem kötelezhető.
+(5) Az ügyfél és megbízott ügyvédje közötti kommunikáció során, illetve ilyen kommunikációs célból való felhasználás érdekében keletkezett adat vagy az azt rögzítő irat az egészségügyi államigazgatási szerv eljárásában bizonyítékként nem használható fel, illetve nem vizsgálható meg, nem foglalható le, szemle során a birtokos az ilyen irat felmutatására nem kötelezhető.
 
 (6)
 
-(7) Az egészségbiztosítási felügyeleti hatóság a 14. § rendelkezései megtartásának ellenőrzése során bármely helyszínt átkutathat, oda önhatalmúlag, a tulajdonos (birtokos), illetve az ott tartózkodó személyek akarata ellenére beléphet, e célból lezárt területet, épületet, helyiséget felnyithat. A kutatás során az eljáró személy az ügyfelet, az ügyfél megbízottját (volt megbízottját), alkalmazottját (volt alkalmazottját) szóban vagy írásban felvilágosítás és magyarázat adására kötelezheti, illetve a helyszínen más módon tájékozódhat. Magáncélú, illetve magánhasználatú helyiségben, ideértve a járműveket és más területet is, helyszíni ellenőrzést folytatni csak akkor lehet, ha az az ügyfél bármely jelenlegi vagy volt vezető tisztségviselője, alkalmazottja, megbízottja, valamint a ténylegesen az irányítást gyakorló, vagy korábban irányítást gyakorolt más személy használatában van.
+(7) Az egészségügyi államigazgatási szerv a 14. § rendelkezései megtartásának ellenőrzése során bármely helyszínt átkutathat, oda önhatalmúlag, a tulajdonos (birtokos), illetve az ott tartózkodó személyek akarata ellenére beléphet, e célból lezárt területet, épületet, helyiséget felnyithat. A kutatás során az eljáró személy az ügyfelet, az ügyfél megbízottját (volt megbízottját), alkalmazottját (volt alkalmazottját) szóban vagy írásban felvilágosítás és magyarázat adására kötelezheti, illetve a helyszínen más módon tájékozódhat. Magáncélú, illetve magánhasználatú helyiségben, ideértve a járműveket és más területet is, helyszíni ellenőrzést folytatni csak akkor lehet, ha az az ügyfél bármely jelenlegi vagy volt vezető tisztségviselője, alkalmazottja, megbízottja, valamint a ténylegesen az irányítást gyakorló, vagy korábban irányítást gyakorolt más személy használatában van.
 
-(8) A (7) bekezdésben meghatározott vizsgálati cselekményre előzetes bírói engedéllyel kerülhet sor. Az egészségbiztosítási felügyeleti hatóság engedély iránti írásbeli kérelmét a Fővárosi Bíróság bírálja el, a kérelem beérkezésétől számított hetvenkét órán belül, nemperes eljárásban. A bíróság végzése ellen fellebbezésnek és felülvizsgálatnak nincs helye. A bíróság a kérelmezett vizsgálati cselekményt akkor engedélyezi, ha az egészségbiztosítási felügyeleti hatóság valószínűsíti, hogy más vizsgálati cselekmény nem vezetne eredményre, és ésszerű megalapozottsággal feltehető, hogy az indítvány szerinti helyszínen a megjelölt jogsértéssel kapcsolatos információforrás fellelhető, és feltételezhető, hogy azt önként nem bocsátanák rendelkezésre vagy felhasználhatatlanná tennék. A bíróság a kérelmezett vizsgálati cselekményt részben is engedélyezheti, meghatározva, hogy kivel szemben, illetve milyen vizsgálati cselekmény tehető. A bíróság határozata alapján a kibocsátásától számított kilencven napig foganatosítható vizsgálati cselekmény.
+(8) A (7) bekezdésben meghatározott vizsgálati cselekményre előzetes bírói engedéllyel kerülhet sor. Az egészségügyi államigazgatási szerv engedély iránti írásbeli kérelmét a Fővárosi Bíróság bírálja el, a kérelem beérkezésétől számított hetvenkét órán belül, nemperes eljárásban. A bíróság végzése ellen fellebbezésnek és felülvizsgálatnak nincs helye. A bíróság a kérelmezett vizsgálati cselekményt akkor engedélyezi, ha az egészségügyi államigazgatási szerv valószínűsíti, hogy más vizsgálati cselekmény nem vezetne eredményre, és ésszerű megalapozottsággal feltehető, hogy az indítvány szerinti helyszínen a megjelölt jogsértéssel kapcsolatos információforrás fellelhető, és feltételezhető, hogy azt önként nem bocsátanák rendelkezésre vagy felhasználhatatlanná tennék. A bíróság a kérelmezett vizsgálati cselekményt részben is engedélyezheti, meghatározva, hogy kivel szemben, illetve milyen vizsgálati cselekmény tehető. A bíróság határozata alapján a kibocsátásától számított kilencven napig foganatosítható vizsgálati cselekmény.
 
 (9) A (8) bekezdésben meghatározott vizsgálati cselekményről az érintetteket a vizsgálati cselekmény megkezdésével egyidejűleg szóban kell értesíteni, és lehetőleg az érintettek jelenlétében kell elvégezni. A vizsgálati cselekmény megkezdése előtt közölni kell a bírói határozatot és a vizsgálati cselekmény célját.
 
@@ -369,7 +369,7 @@ az állami egészségügyi, katasztrófa- és védelmi készlet kezelője jogosu
 
 (4) Az egészségbiztosítási szerv a végrehajtható határozatok alapján – figyelemmel a (6) bekezdésben foglaltakra – a támogatott gyógyszerek teljes körét minden naptári hónap 20. napjáig tájékoztató jelleggel közzéteszi honlapján.
 
-(5) Az egészségbiztosítási szerv a (4) bekezdés b) pontja szerinti közleményt az Európai Unió Bizottságának és az egészségbiztosítási felügyeleti hatóságnak megküldi.
+(5) Az egészségbiztosítási szerv a (4) bekezdés szerinti közleményt az Európai Unió Bizottságának megküldi.
 
 (6) A (4) bekezdés szerinti közlemény tartalmazza a gyógyszer nyilvántartási számát, megnevezését, kiszerelését, termelői árát, bruttó fogyasztói árát, a támogatás mértékét és összegét, a támogatással csökkentett fogyasztói árát (térítési díj), valamint a társadalombiztosítási támogatással történő finanszírozás kezdő napját.
 
@@ -676,7 +676,7 @@ esetén,
 
 (6) Az Egészségbiztosítási Alap kezeléséért felelős egészségbiztosítási szerv a befizetésre kötelezettek ellenőrzéséhez szükséges adatokról az (1) bekezdésben meghatározott adatszolgáltatással egyidejűleg elektronikus úton adatszolgáltatást teljesít az állami adóhatósághoz.
 
-(7) Az egészségbiztosítási felügyeleti hatóság a 12. § (3) bekezdésében meghatározott bejelentésről, a tevékenység megszüntetésének bejelentéséről és az ismertetési tevékenység folytatásának megtiltásáról elektronikus úton haladéktalanul adatszolgáltatást teljesít az állami adóhatósághoz.
+(7) Az egészségügyi államigazgatási szerv a 12. § (3) bekezdésében meghatározott bejelentésről, a tevékenység megszüntetésének bejelentéséről és az ismertetési tevékenység folytatásának megtiltásáról elektronikus úton haladéktalanul adatszolgáltatást teljesít az állami adóhatósághoz.
 
 38. § (1) A gyógyszer forgalomba hozatali engedélyének jogosultját a 36. § (1) bekezdése szerinti befizetési kötelezettség nem terheli:
 
@@ -760,12 +760,12 @@ a befizetést követően haladéktalanul átutalja.
 
 (2) Abban az esetben, ha az (1) bekezdés szerinti intézkedés elrendelésére került sor, évente legalább egyszer felülvizsgálatot kell végezni annak megállapítása céljából, hogy a gyógyszerpiac egyensúlyának fenntartása érdekében az intézkedés változatlan fenntartása indokolt-e. A felülvizsgálat kezdetétől számított 90 napon belül a hatáskörrel rendelkező hatóság bejelenti az áremeléseket és árcsökkentéseket, amennyiben változtatásokra kerül sor.
 
-(3) Az (1) bekezdés szerinti árnál magasabb ár akkor alkalmazható, ha ehhez az egészségbiztosítási felügyeleti hatóság kérelem alapján hozzájárul. A hozzájárulás akkor adható meg, ha
+(3) Az (1) bekezdés szerinti árnál magasabb ár akkor alkalmazható, ha ehhez az egészségbiztosítási szerv kérelem alapján hozzájárul. A hozzájárulás akkor adható meg, ha
 
 - a) az adott gyógyszer az adott betegség kizárólagos, első vonalbeli (elsődlegesen választandó) kezelésére szolgáló készítmény, és
 - b) a gyártó vagy a forgalmazó bizonyítja, hogy az adott gyógyszer előállításának költsége az (1) bekezdés alkalmazása esetén érvényes legmagasabb árnál magasabb.
 
-(4) A (3) bekezdés szerinti kérelemről kilencven napon belül kell döntést hozni. Indokolt esetben ez a határidő egy ízben további hatvan nappal meghosszabbítható. Az egészségbiztosítási felügyeleti hatóság a (3) bekezdés szerinti hozzájárulásról haladéktalanul közleményt tesz közzé.
+(4) A (3) bekezdés szerinti kérelemről kilencven napon belül kell döntést hozni. Indokolt esetben ez a határidő egy ízben további hatvan nappal meghosszabbítható. Az egészségbiztosítási szerv a (3) bekezdés szerinti hozzájárulásról haladéktalanul közleményt tesz közzé.
 
 (5) Az (1) bekezdés szerinti időszak alatt kereskedelmi kapcsolatokban a Kormány által meghatározott, vagy elfogadott legmagasabb árnál magasabb árat érvényesen nem lehet kikötni.
 
@@ -1024,7 +1024,7 @@ tevékenységet legalább három évig folytatott, és e tevékenység megszűn�
 
 64. § (1) A gyógyszertárak felügyelete állami feladat. A gyógyszertáraknak a gyógyszerek és gyógyászati segédeszközök forgalmazásával összefüggő szakmai felügyeletét – ide nem értve a gyógyszerrel, illetve gyógyászati segédeszközzel kapcsolatos kereskedelmi gyakorlatra vonatkozó szabályokat, továbbá a 76. §-ban foglaltakat – az egészségügyi államigazgatási szerv gyakorolja. A gyógyszernek nem minősülő egyéb termékek gyógyszertár általi forgalmazására a külön jogszabályban meghatározott rendelkezések betartását a fogyasztóvédelmi hatóság ellenőrzi, és a fogyasztóvédelemről szóló törvényben meghatározottak szerint eljár e rendelkezések megsértése esetén.
 
-(2) Az egészségügyi államigazgatási szerv a szakmai felügyelet keretében megtett – külön jogszabályban foglalt – intézkedésekről az egészségbiztosítási szervet és az egészségbiztosítási felügyeleti hatóságot tájékoztatja.
+(2) Az egészségügyi államigazgatási szerv a szakmai felügyelet keretében megtett – külön jogszabályban foglalt – intézkedésekről az egészségbiztosítási szervet tájékoztatja.
 
 65. § Az egészségügyi államigazgatási szerv a közforgalmú gyógyszertár vezetésére hatósági vezetőt rendelhet ki, ha a település gyógyszerellátását kizárólag egy közforgalmú gyógyszertár biztosítja és
 
@@ -1111,15 +1111,15 @@ tevékenységet legalább három évig folytatott, és e tevékenység megszűn�
 
 (3) Nem minősül tiltott előnynek – az 55. § (6) bekezdésében meghatározottak kivételével – a kereskedelemben szokásos ár- és más általános szerződési feltételeken alapuló engedmények szerződéseken alapuló alkalmazása, illetve a közfinanszírozásban részesülő gyógyszerek tekintetében az egészségbiztosítási szerv által alkalmazott szerződéses kötelezettségek teljesítése.
 
-(4) Az (1)–(3) bekezdésben foglalt rendelkezések ellenőrzése az egészségbiztosítási felügyeleti hatóság hatáskörébe tartozik.
+(4) Az (1) és (2) bekezdésben foglalt rendelkezések ellenőrzése az egészségügyi államigazgatási szerv hatáskörébe tartozik.
 
 74. § (1) Közforgalmú gyógyszertárat gazdasági társaság akkor működtethet, ha a működtetett gyógyszertár szakmai vezetését ellátó személyi jogos gyógyszerész a gyógyszertárat működtető vállalkozásban tulajdonosi részesedéssel rendelkezik.
 
 (2) A társasági szerződést a megalakuláskor az egészségügyi államigazgatási szervnek be kell mutatni, és a módosításokat – a változást követő harminc napon belül – be kell jelenteni.
 
-(3) Amennyiben közfinanszírozásban részesülő gyógyszer kiszolgáltatására szerződött gyógyszertárat működtető társaságban a számvitelről szóló 2000. évi C. törvény 3. § (2) bekezdés 4. pontja szerinti értelemben – közvetlen és közvetett módon – mértékadó befolyást gyakorló gyógyszergyártási, gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet, illetve gyógyszerek külön jogszabály szerinti támogatással történő gyógyszerrendelésére jogosult orvos van, a befolyás gyakorlója köteles ezt a tényt az egészségbiztosítási felügyeleti hatóságnak bejelenteni.
+(3) Amennyiben közfinanszírozásban részesülő gyógyszer kiszolgáltatására szerződött gyógyszertárat működtető társaságban a számvitelről szóló 2000. évi C. törvény 3. § (2) bekezdés 4. pontja szerinti értelemben – közvetlen és közvetett módon – mértékadó befolyást gyakorló gyógyszergyártási, gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet, illetve gyógyszerek külön jogszabály szerinti támogatással történő gyógyszerrendelésére jogosult orvos van, a befolyás gyakorlója köteles ezt a tényt az egészségügyi államigazgatási szervnek bejelenteni.
 
-(4) Az egészségbiztosítási felügyeleti hatóság ellenőrzi, hogy a közfinanszírozásban részesülő gyógyszer támogatással történő forgalmazására szerződött gyógyszertár, valamint a gyógyszergyártó, -forgalmazó, illetve a támogatással történő gyógyszerrendelésre jogosult orvos között létezik-e olyan nem kívánatos magatartás-összehangolás, amely a betegek, fogyasztók hatékony és biztonságos gyógyszerellátását sérti vagy veszélyezteti. Amennyiben a nem kívánatos magatartás-összehangolás megvalósul, az egészségbiztosítási felügyeleti hatóság kezdeményezi az egészségbiztosítási szervnél a támogatással történő forgalmazási jogot biztosító szerződés felmondását.
+(4) Az egészségügyi államigazgatási szerv ellenőrzi, hogy a közfinanszírozásban részesülő gyógyszer támogatással történő forgalmazására szerződött gyógyszertár, valamint a gyógyszergyártó, -forgalmazó, illetve a támogatással történő gyógyszerrendelésre jogosult orvos között létezik-e olyan nem kívánatos magatartás-összehangolás, amely a betegek, fogyasztók hatékony és biztonságos gyógyszerellátását sérti vagy veszélyezteti. Amennyiben a nem kívánatos magatartás-összehangolás megvalósul, az egészségügyi államigazgatási szerv kezdeményezi az egészségbiztosítási szervnél a támogatással történő forgalmazási jogot biztosító szerződés felmondását.
 
 75. § (1) A gyógyszertárat működtető vállalkozások összefonódása esetén a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tptv.) VI. fejezetében foglalt rendelkezéseket az e §-ban foglalt eltérésekkel kell alkalmazni.
 
@@ -1190,7 +1190,7 @@ rendeletben állapítsa meg.
 - a) a 12. § (9) bekezdése szerint
 - b) a gyógyszerek, a különleges táplálkozási igényt kielégítő tápszerek és a gyógyászati segédeszközök társadalombiztosítási támogatásba való befogadásával kapcsolatos valamennyi kérelemre induló eljárásért, valamint a gyógyászati segédeszközök kölcsönzési díjához nyújtott támogatás megállapítására, kihordási idejének vagy indikációjának megváltoztatására, közfinanszírozás alapjául szolgáló árának emelésére, név- vagy méretváltoztatására vonatkozó eljárásért, valamint az ezekkel kapcsolatos jogorvoslati eljárásért,
 - c) az egyedileg, méretre készített gyógyászati segédeszközök gyártására és forgalmazására vonatkozó tanúsításért,
-- d) az egészségbiztosítási felügyeleti hatóság e törvény alapján nyújtott igazgatási jellegű szolgáltatásainak igénybevételéért,
+- d)
 - e) a gyógyszer- és gyógyászatisegédeszköz-rendeléshez szükséges számítógépes program minősítési eljárásáért,
 - f) a gyógyszerek gyógyszertáron kívüli forgalmazását elősegítő elektronikus információs rendszer minősítési eljárásáért,
 - g) a szállító-előminősítésért
