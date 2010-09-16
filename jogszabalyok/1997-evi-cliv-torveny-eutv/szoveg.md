@@ -439,7 +439,7 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 
 (2) A betegjogi képviselő köteles a betegre vonatkozó orvosi titkot megtartani, és a beteg személyes adatait a vonatkozó jogszabályok szerint kezelni.
 
-(3) Amennyiben a beteget a biztosítási jogviszonyával összefüggésben éri joghátrány, a betegjogi képviselő az eset kivizsgálása érdekében az Egészségbiztosítási Felügyelethez fordulhat.
+(3)
 
 31/A. § (1) Azt a tényt, hogy büntetlen előéletű és nem áll egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt
 
@@ -1583,18 +1583,20 @@ kell alkalmazni.
 - i) engedélyezett és nyilvántartásba vett gyógyszerismertetői tevékenységet végző egészségügyi szakképesítéssel rendelkező személyek számára és szakképesítésére vonatkozó adatokat,
 - j) az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítéshez kapcsolódó bér- és létszám-statisztikai adatokat
 
-személyazonosításra alkalmatlan módon kezeli, feldolgozza és azok alapján elemzi, értékeli az egészségügyi ágazatban dolgozók munkaerő-piaci, foglalkoztatási helyzetét, részt vesz – különös figyelemmel az ellátási szükségletekhez igazodó humánerőforrási feltételek megteremtésének követelményére – a képzési, mobilitási programok irányának meghatározásában, valamint az egységes egészségügyi ágazati humánerőforrás stratégiai javaslat kidolgozásában, beleértve az életpályamodell és a kapcsolódó szolgáltatási koncepció kidolgozását is.
+(3) bekezdésben meghatározott módon kezeli, feldolgozza és azok alapján elemzi, értékeli az egészségügyi ágazatban dolgozók munkaerő-piaci, foglalkoztatási helyzetét, részt vesz – különös figyelemmel az ellátási szükségletekhez igazodó humánerőforrási feltételek megteremtésének követelményére – a képzési, mobilitási programok irányának meghatározásában, valamint az egységes egészségügyi ágazati humánerőforrás stratégiai javaslat kidolgozásában, beleértve az életpályamodell és a kapcsolódó szolgáltatási koncepció kidolgozását is.
 
-(3) Személyazonosításra alkalmatlan módon továbbítja a (2) bekezdés szerinti szervnek:
+(3) A (2) bekezdés szerinti szervnek
 
-- a) a (2) bekezdés a) pontja szerinti adatokat az alapnyilvántartást vezető szerv,
-- b) a (2) bekezdés b)–d) pontja szerinti adatokat a működési nyilvántartást vezető szerv,
-- c) a (2) bekezdés e) pontja szerinti adatokat az Egészségügyi Szakképzési és Továbbképzési Tanács,
-- d) a (2) bekezdés f) pontja szerinti adatokat a 116. § (3) bekezdés szerinti intézmények,
-- e) a (2) bekezdés g) pontja szerinti adatokat a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság, vagy – a 110/A. § (1) bekezdése szerinti feladatkörében – az egészségügyi államigazgatási szerv,
-- f) a (2) bekezdés h) pontja szerinti adatokat az állami foglalkoztatási szerv és a kormányzati személyügyi szolgáltató,
-- g) a (2) bekezdés i) pontja szerinti adatokat az egészségbiztosítási felügyeleti hatóság,
-- h) a (2) bekezdés j) pontja szerinti adatokat a hivatalos statisztikai szolgálat.
+- a) személyazonosításra alkalmas módon továbbítja
+  - aa) a (2) bekezdés a) pontja szerinti adatokat az alapnyilvántartást vezető szerv,
+  - ab) a (2) bekezdés b)–d) pontja szerinti adatokat a működési nyilvántartást vezető szerv,
+  - ac) a (2) bekezdés e) pontja szerinti adatokat az Egészségügyi Szakképzési és Továbbképzési Tanács,
+  - ad) a (2) bekezdés g) pontja szerinti adatokat a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság, vagy – a 110/A. § (1) bekezdése szerinti feladatkörében – az egészségügyi államigazgatási szerv,
+  - ae) a (2) bekezdés i) pontja szerinti adatokat az egészségügyi államigazgatási szerv;
+- b) személyazonosításra alkalmatlan módon továbbítja
+  - ba) a (2) bekezdés f) pontja szerinti adatokat a 116. § (3) bekezdés szerinti intézmények,
+  - bb) a (2) bekezdés h) pontja szerinti adatokat az állami foglalkoztatási szerv és a kormányzati személyügyi szolgáltató,
+  - bc) a (2) bekezdés j) pontja szerinti adatokat a hivatalos statisztikai szolgálat.
 
 (4) Az egységes ágazati humánerőforrás-monitoring végrehajtása érdekében a (2) bekezdésben meghatározott szerv a (2) bekezdésben meghatározottakon kívül jogosult a hatósági, ellenőrzési és gazdasági tevékenységgel járó, továbbá a nyilvános és közhitelű nyilvántartások vezetésével összefüggő adatgyűjtést végző szervtől a rendelkezésre álló adatokat egyedi azonosításra alkalmatlan módon átvenni. Ezen adatok átadása céljából megkeresett szervek a megkeresésben foglaltak szerinti adatokat térítésmentesen kötelesek átadni.
 
