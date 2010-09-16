@@ -19,7 +19,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 (3) A pénztárak részére vagyonkezelési és letétkezelési tevékenységet végző pénzügyi intézményekre, befektetési vállalkozásokra és befektetési alapkezelőkre és az ilyen tevékenységet végző egyéb szervezetekre a biztosítóintézetekről és a biztosítási tevékenységről szóló 1995. évi XCVI. törvényben (a továbbiakban: Bit.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben (a továbbiakban: Hpt.), a tőkepiacról szóló törvényben foglaltakon kívül e törvény rendelkezéseit is alkalmazni kell.
 
-(4) E törvény hatálya és a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet) intézkedési jogköre, valamint az Egészségbiztosítási Felügyelet külön jogszabály szerinti jogköre az (1) bekezdés a) pontjában meghatározott szervezetekre az alakuló közgyűlésük időpontjával kezdődően terjed ki.
+(4) E törvény hatálya és a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet) intézkedési jogköre az (1) bekezdés a) pontjában meghatározott szervezetekre az alakuló közgyűlésük időpontjával kezdődően terjed ki.
 
 ### Fogalmak
 
@@ -143,7 +143,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 (3) Ha a pénztár a nyilvántartásba vétel előtt jogot szerez vagy kötelezettséget vállal, a nyilvántartásba vétel hiányára nem hivatkozhat.
 
-8. § A pénztárak törvényességi felügyeletét az ügyészség a rá irányadó jogszabályok szerint, állami felügyeletét e törvény VI. Fejezete alapján a Pénzügyi Szervezetek Állami Felügyelete látja el. Az egészségpénztárak egészségbiztosítási szolgáltatásaikkal összefüggő, külön törvény szerinti felügyeletét az Egészségbiztosítási Felügyelet látja el.
+8. § A pénztárak törvényességi felügyeletét az ügyészség a rá irányadó jogszabályok szerint, állami felügyeletét e törvény VI. Fejezete alapján a Pénzügyi Szervezetek Állami Felügyelete látja el.
 
 9. § (1) A pénztár a 10. § (1) bekezdésében meghatározott tevékenységet a Felügyelet jogerős tevékenységi engedélye birtokában kezdheti meg. A tevékenység engedélyezésének eljárási szabályait a 60—64. §-ok tartalmazzák.
 
@@ -159,7 +159,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 9/A. § (1) A pénztár működési alapja terhére felügyeleti díjat fizet.
 
-(2) A felügyeleti díj a (3)–(5) bekezdés szerint számított alapdíj, valamint a (6) bekezdés szerint számított változó díj összege. Az egészségpénztárak által fizetendő felügyeleti díj ezen összeg 80%-a.
+(2) A felügyeleti díj a (3)–(5) bekezdés szerint számított alapdíj, valamint a (6) bekezdés szerint számított változó díj összege.
 
 (3) Az alapdíj az alapdíjegység és a (4) bekezdés szerinti szorzószám szorzata. Az alapdíjegység ötvenezer forint.
 
