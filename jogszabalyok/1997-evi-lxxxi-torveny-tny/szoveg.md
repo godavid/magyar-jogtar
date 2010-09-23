@@ -973,7 +973,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 ### Az ellátásra jogosultság
 
-54. § (1) Árvaellátásra az a gyermek jogosult – ideértve a házasságban vagy az élettársi közösségben együtt élők egy háztartásban közösen nevelt, korábbi házasságból, élettársi együttélésből származó gyermeket is –, akinek szülője haláláig az öregségi, illetve rokkantsági nyugdíjhoz szükséges szolgálati időt megszerezte, vagy öregségi, illetve rokkantsági nyugdíjasként halt meg.
+54. § (1) Árvaellátásra az a gyermek jogosult – ideértve a házasságban vagy az élettársi közösségben együtt élők egy háztartásban közösen nevelt gyermeket is –, akinek szülője haláláig az öregségi, illetve rokkantsági nyugdíjhoz szükséges szolgálati időt megszerezte, vagy öregségi, illetve rokkantsági nyugdíjasként halt meg.
 
 (2) Az örökbefogadott gyermeknek vér szerinti szülője jogán árvaellátás nem jár, kivéve, ha a gyermeket a vér szerinti szülő házastársa fogadta örökbe.
 
