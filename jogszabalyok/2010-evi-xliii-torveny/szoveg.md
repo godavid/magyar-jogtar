@@ -34,8 +34,8 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 - b)
 - c) a Magyar Energia Hivatal,
 - d) az Országos Atomenergia Hivatal,
-- e) a Magyar Szabadalmi Hivatal,
-- f) az Egészségbiztosítási Felügyelet.
+- e) a Magyar Szabadalmi Hivatal.
+- f)
 
 (5) Rendvédelmi szerv
 
