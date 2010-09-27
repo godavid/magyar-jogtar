@@ -160,6 +160,8 @@ kell alkalmazni.
 
 (2) Adómentes a 918/83/EGK Tanácsi rendelet 29–31. és 112. cikkei alapján vámmentesen harmadik országból behozott jövedéki termék.
 
+(3) Adómentes a magánfőzésben a magánfőző által évente legfeljebb 50 liter mennyiségben előállított párlat [63. § (2) bekezdés 1. pont], feltéve, hogy az a háztartásában való személyes fogyasztásra szolgál.
+
 ### Az adófelfüggesztés esetei
 
 10. § (1) Az adókötelezettség keletkezésének a 8. § (1) bekezdés a) pontja és (2) bekezdése szerinti esetében az adófelfüggesztés az adómegállapítás és az adófizetés halasztása. Az adókötelezettség keletkezésének a 8. § (1) bekezdés b) pontja szerinti esetében az adófelfüggesztés az adó fizetésének halasztása. Az adófelfüggesztés nem érinti az adóalany egyéb adókötelezettségét.
@@ -834,7 +836,7 @@ kell eljárni.
 
 (2) Jövedéki termék
 
-- a) kizárólag olyan adóraktárban állítható elő – ideértve a jövedéki termék palackozását, kis egységű kiszerelését is –, melynek működtetője e termék előállítására vonatkozó adóraktári engedéllyel rendelkezik;
+- a) kizárólag olyan adóraktárban állítható elő – ideértve a jövedéki termék palackozását, kis egységű kiszerelését is –, melynek működtetője e termék előállítására vonatkozó adóraktári engedéllyel rendelkezik, kivéve a párlat [63. § (2) bekezdés 1. pont] 63. § (2) bekezdésének 11. pontja szerinti előállítását;
 - b) importálás esetén az adó megfizetése nélkül – az adómentes felhasználó üzemén, raktárán kívül, illetve a 62. § (1) és (3) bekezdésében foglalt eltéréssel – csak adóraktárba tárolható be, és ott tárolható, raktározható;
 - c) betárolás esetén az adó megfizetése nélkül – az adómentes felhasználó üzeme, raktára kivételével – csak adóraktárban tárolható, raktározható.
 
@@ -917,7 +919,7 @@ a 38. § (4) bekezdésének figyelembevételével.
 
 (4) Ha az adóraktár engedélyesének adóraktárában vagy adóraktárainak egyikében a 37. § (6) bekezdés szerint többféle jövedéki termékcsoport is előállítható, raktározható, tárolható, a nyújtandó jövedéki biztosíték értékhatárainál – a 37. § (6) bekezdés d) pontja szerinti eset kivételével – a termékcsoportokra meghatározott értékhatárok közül a legmagasabbat kell figyelembe venni.
 
-(5) A jövedéki biztosíték a (2) bekezdésben meghatározott összeg fele, ha az adóraktári engedélyt kérelmező vagy az adóraktár engedélyese megbízható adós.
+(5) A nyújtandó jövedéki biztosíték összege feleződik, ha az adóraktári engedélyt kérelmező vagy az adóraktár engedélyese megbízható adós.
 
 (6) A jövedéki biztosíték összegét hivatalból vagy kérelemre módosítani kell, ha az annak elfogadásánál figyelembe vett feltételek vagy körülmények megváltoztak. A jövedéki biztosíték csökkentése – ideértve az (5) bekezdés alapján lehetséges csökkentést is – kizárólag kérelemre történik.
 
@@ -1686,8 +1688,8 @@ terméket kell érteni.
 
 (2) E törvény alkalmazásában
 
-- 1. bérfőzés: szeszfőzdében a bérfőzető részére történő bérfőzött pálinka [64. § (3) bekezdés] előállítás;
-- 2. bérfőzető: az a 18. életévét betöltött gyümölcstermesztő személy, aki saját tulajdonú gyümölcsből (gyümölcsből származó alapanyagból) állíttat elő bérfőzött pálinkát;
+- 1. bérfőzés: a 2208 20 19, 2208 20 99, 2208 90 33, 2208 90 39, 2208 90 51, 2208 90 71 vámtarifaszám alá tartozó alkoholtermék (a továbbiakban: párlat) szeszfőzdében a bérfőzető részére történő előállítása;
+- 2. bérfőzető: az a 18. életévét betöltött gyümölcstermesztő személy, aki saját tulajdonú gyümölcsből (gyümölcsből származó alapanyagból) állíttat elő bérfőzött párlatot;
 - 3. teljes denaturálás: az alkoholtermék emberi fogyasztásra való végleges alkalmatlanná tétele,
 - 4. részleges denaturálás: az alkoholterméknek élvezeti cikként történő felhasználásra alkalmatlanná tétele a külön jogszabályban meghatározott módon;
 - 5. boralkohol: olyan etilalkohol, amelyet kizárólag borból, aljborból, borseprőből, hibás vagy beteg borból, vagy desztilláláshoz felerősített borból nyernek lepárlással, vagy újralepárlással úgy, hogy a desztillátum alkoholtartalma legalább 86, de legfeljebb 96 térfogatszázalék;
@@ -1695,15 +1697,20 @@ terméket kell érteni.
 - 7. semleges alkohol: olyan etilalkohol, amelyet kizárólag erjesztett szőlő eredetű alapanyagokból nyernek lepárlással úgy, hogy a desztillátum alkoholtartalma legalább 96 térfogatszázalék;
 - 8. krízis lepárlás: külön jogszabály szerinti intézkedés a jelentős termékfelesleg és/vagy minőségi gondok következtében kialakult kivételes piaci zavar esetében;
 - 9. kötelező lepárlás: a 1493/1999/EK rendelet 27. cikke végrehajtását biztosító, külön jogszabály szerinti intézkedés;
-- 10. borászati melléktermék: a szőlőfeldolgozás és a borkészítés során keletkező melléktermék.
+- 10. borászati melléktermék: a szőlőfeldolgozás és a borkészítés során keletkező melléktermék;
+- 11. magánfőzés: a párlatnak a magánfőző lakóhelyén vagy gyümölcsöse helyén használható, legfeljebb 100 liter űrtartalmú, párlat-előállítás céljára kialakított desztillálóberendezésen a magánfőző által végzett előállítása évente legfeljebb 2 hektoliter tiszta szesz mennyiségig;
+- 12. magánfőző: az a 18. életévét betöltött természetes személy, aki saját tulajdonú gyümölcsből, gyümölcsből származó alapanyagból, saját tulajdonú desztillálóberendezésen állít elő párlatot.
 
 ### Adóalap, adómérték
 
-64. § (1) Az adó alapja az alkoholtermék 100 térfogatszázalékos etilalkohol (a továbbiakban: tiszta szesz) tartalommal hektoliterben meghatározott, 20 oC-on mért mennyisége.
+64. § (1) Az adó alapja az alkoholtermék 100 térfogatszázalékos etilalkohol (a továbbiakban: tiszta szesz) tartalommal hektoliterben meghatározott, 20 °C-on mért mennyisége, illetve a magánfőzésben előállított párlat esetében a vámhatósághoz bejelentett alapanyag tömegben (szőlőbor esetén térfogatban) kifejezett mennyiségéből a 3. számú melléklet szerinti kihozatali arányszámmal számított tiszta szesz mennyisége, hektoliterben.
 
 (2) Az adó mértéke – a (3) bekezdésben foglalt eltéréssel – az (1) bekezdés szerinti adóalapra 276 100 forint.
 
-(3) A szeszfőzdében bérfőzés keretében, a bérfőzető alapanyagából előállított, a 2208 20 19, 2208 20 99, 2208 90 33, 2208 90 39, 2208 90 51, 2208 90 53, 2208 90 59, 2208 90 71 vámtarifaszám alá tartozó alkoholtermék (a továbbiakban: bérfőzött pálinka) adója egy bérfőzető részére évente legfeljebb 50 liter mennyiségig az (1) bekezdés szerinti adóalapra számítva 138 050 forint, 50 liter felett 276 100 forint. Amennyiben egy háztartásban több bérfőzető él, az 50 liter/év mennyiségi korlát együttesen értendő.
+(3) A szeszfőzdében bérfőzés keretében, a bérfőzető alapanyagából előállított párlat (a továbbiakban: bérfőzött párlat) adója az (1) bekezdés szerinti adóalapra számítva egy bérfőzető részére évente
+
+- a) legfeljebb 50 liter mennyiségig 0 forint,
+- b) az 50 litert meghaladó mennyiségre 276 100 forint.
 
 (4) Nem kell alkalmazni az (1)–(2) bekezdés rendelkezését a 63. § (1) bekezdés c) pontja szerinti alkoholtermékre, amennyiben
 
@@ -1711,34 +1718,60 @@ terméket kell érteni.
 - b) az abban lévő etilalkoholra megfizették az e törvény szerinti adót vagy arra végleges mentesülés következett be,
 - c) az az 52. § (1)–(2) bekezdés szerinti adómérték alá esik.
 
-### A bérfőzött pálinka utáni adófizetési kötelezettség és eljárási szabályok
+(5) A (3) bekezdésben foglaltaktól eltérően az eladásra szánt bérfőzött párlat – kivéve az alkoholtermék-adóraktár engedélyese részére értékesítésre kerülő bérfőzött párlatot – adója az (1) bekezdés szerinti adóalapra számítva 276 100 forint.
 
-65. § (1) A 8–17. §-ban foglalt rendelkezésektől eltérően a bérfőzött pálinka utáni adófizetési kötelezettség akkor keletkezik, ha
+(6) A magánfőzés keretében a magánfőző által évente 50 litert meghaladó mennyiségben előállított párlat, valamint a magánfőző által előállított 50 liter mennyiségen belül a 9. § (3) bekezdés rendelkezése alá nem eső párlat adója az (1) bekezdés szerinti adóalapra számítva 276 100 forint.
+
+(7) Egy tárgyéven belül a természetes személy vagy bérfőzetőként vagy magánfőzőként jogosult párlatot előállíttatni, illetve előállítani, és egy háztartáson belül vagy csak bérfőzetőként vagy csak magánfőzőként lehet előállíttatni, illetve előállítani párlatot.
+
+(8) Amennyiben egy háztartásban több bérfőzető vagy több magánfőző él, a 9. § (3) bekezdésében, a 63. § (2) bekezdés 11. pontjában, e § (3) és (6) bekezdésében meghatározott éves mennyiségi korlátok szempontjából az általuk főzetett, illetve főzött mennyiségek egybeszámítandók.
+
+### A bérfőzött párlat utáni adófizetési kötelezettség és eljárási szabályok
+
+65. § (1) A 8–17. §-ban foglalt rendelkezésektől eltérően a bérfőzött párlat utáni adófizetési kötelezettség akkor keletkezik, ha
 
 - a) a szeszfőzde a terméket átadja a bérfőzetőnek, vagy
 - b) a szeszfőzde a terméket még nem adta át a bérfőzetőnek, de az adó összege elérte az 500 ezer forintot, vagy
-- c) a külön jogszabály szerinti elszámolási időszak (a továbbiakban: elszámolási időszak) utolsó napján a szeszfőzdében a bérfőzető által még el nem szállított bérfőzött pálinka található;
+- c) a külön jogszabály szerinti elszámolási időszak (a továbbiakban: elszámolási időszak) utolsó napján a szeszfőzdében a bérfőzető által még el nem szállított bérfőzött párlat található;
 - d) a vámhatóság által a külön jogszabály szerint megállapított, az elszámolási időszakban gyártott mennyiség meghaladja a szeszfőzde nyilvántartásában kimutatott gyártott mennyiséget.
 
-(2) Az adó alanya az (1) bekezdés a)–c) pontja esetében a bérfőzető, az (1) bekezdés d) pontja esetében a szeszfőzde engedélyese. A bérfőzető az adót készpénzben fizeti meg a részére átadott, vagy a részére előállított és az (1) bekezdés b), c) pontja szerint elszámolt pálinka után.
+(2) Az adó alanya az (1) bekezdés a)–c) pontja esetében a bérfőzető, az (1) bekezdés d) pontja esetében a szeszfőzde engedélyese. A bérfőzető az adót készpénzben fizeti meg a részére átadott, vagy a részére előállított és az (1) bekezdés b), c) pontja szerint elszámolt párlat után.
 
-(3) Ha a bérfőzető az adófizetési kötelezettségét nem teljesíti, részére a bérfőzött pálinka nem adható ki.
+(3) Ha a bérfőzető az adófizetési kötelezettségét nem teljesíti, részére a bérfőzött párlat nem adható ki.
 
-66. § (1) A bérfőzött pálinka utáni adó (a továbbiakban: bérfőzési szeszadó) összegét a szeszfőzde állapítja meg és szedi be a bérfőzetőtől. A bérfőzető a szeszfőzdének írásbeli nyilatkozatot ad a tárgyévben általa, illetve a vele egy háztartásban élő más bérfőzető által együttesen főzetett pálinka mennyiségéről.
+66. § (1) A bérfőzött párlat utáni adó összegét a szeszfőzde állapítja meg és – a 64. § (3) bekezdés b) pontja és (5) bekezdése szerinti esetben – szedi be a bérfőzetőtől. A bérfőzető a szeszfőzdének írásbeli nyilatkozatot ad a tárgyévben általa, illetve a vele egy háztartásban élő más bérfőzető által együttesen főzetett párlat mennyiségéről, továbbá arról, hogy az átvételre kerülő bérfőzött párlatból milyen mennyiséget kíván a 67. § (2) bekezdés b) pontja szerint értékesíteni, és magánfőzésben sem ő, sem a vele egy háztartásban élő más bérfőzető nem állít elő párlatot.
 
-(2) A 65. §-ban meghatározott rendelkezések elmulasztásával be nem szedett bérfőzési szeszadót a szeszfőzde köteles megfizetni. Amennyiben a szeszfőzde a bérfőzető valótlan nyilatkozata alapján állapította meg helytelenül a bérfőzési szeszadó összegét, a bérfőzető az adókülönbözet megfizetésén felül az adókülönbözettel azonos összegben adóbírságot is fizet.
+(2) A 65. §-ban meghatározott rendelkezések elmulasztásával be nem szedett adót a szeszfőzde köteles megfizetni. Amennyiben a szeszfőzde a bérfőzető valótlan nyilatkozata alapján állapította meg helytelenül az adó összegét, a bérfőzető az adókülönbözet megfizetésén felül az adókülönbözettel azonos összegben adóbírságot is fizet.
 
-(3) A szeszfőzde a bérfőzetőtől beszedett bérfőzési szeszadót az 500 ezer forint értékhatár elérését, illetve az elszámolási időszakonkénti rendszeres vagy a szúrópróbaszerű elszámolást követő munkanapon pénzforgalmi számlájáról átutalással befizeti a vámhatóság bérfőzési szeszadó számlájára.
+(3) A szeszfőzde a bérfőzetőtől beszedett adót az 500 ezer forint értékhatár elérését, illetve az elszámolási időszakonkénti rendszeres vagy a szúrópróbaszerű elszámolást követő munkanapon pénzforgalmi számlájáról átutalással befizeti a vámhatóságnak.
 
-(4) A beszedett bérfőzési szeszadó késedelmes befizetése esetén a szeszfőzde a (3) bekezdés szerinti fizetési határidő napjától a teljesítés napjáig késedelmi pótlékot köteles fizetni.
+(4) A beszedett adó késedelmes befizetése esetén a szeszfőzde a (3) bekezdés szerinti fizetési határidő napjától a teljesítés napjáig késedelmi pótlékot köteles fizetni.
 
-(5) A bérfőzési szeszadó, valamint a felszámított késedelmi pótlék nem engedhető el és nem mérsékelhető, fizetési halasztás, részletfizetés nem adható.
+(5) Az adó, valamint a felszámított késedelmi pótlék nem engedhető el és nem mérsékelhető, fizetési halasztás, részletfizetés nem adható.
 
-(6) A szeszfőzde a bérfőzető részére egyszerűsített kísérő okmányt állít ki, és azzal igazolja a bérfőzési szeszadó megfizetését. A kísérő okmány egyben a terméket igazoló okmány is. A szeszfőzde által a bérfőzető részére kiállított származási igazolvány az átvételt követő 15 évig alkalmas a főzető birtokában lévő pálinka származásának igazolására. A 15 év letelte után 2 évente meghosszabbítható.
+(6) A szeszfőzde a bérfőzető részére egyszerűsített kísérő okmányt állít ki, és azzal igazolja az adó megfizetését, illetve az adóraktárban történt előállítást. A kísérő okmány egyben a terméket igazoló okmány is. A szeszfőzde által a bérfőzető részére kiállított származási igazolvány az átvételt követő 15 évig alkalmas a főzető birtokában lévő párlat származásának igazolására. A 15 év letelte után 2 évente meghosszabbítható.
 
 (7) A 65. § (1) bekezdésének d) pontja szerint megállapított különbözetre a 64. § (2) bekezdése szerinti adómértékkel számított adót kell megfizetni.
 
-67. § A bérfőzetőtől a bérfőzött pálinkát csak az alkoholtermék adóraktár engedélyese vásárolhatja meg.
+67. § (1) A 64. § (3) bekezdés a) pontban megjelölt mennyiségű párlat kizárólag a bérfőzető háztartásában való személyes fogyasztás céljára szolgálhat, kivéve, ha az a (2) bekezdés szerint kerül értékesítésre.
+
+(2) A bérfőzető a bérfőzött párlatot
+
+- a) csak az alkoholtermék-adóraktár engedélyese részére, vagy
+- b) – amennyiben a bérfőzető a külön jogszabály szerinti kistermelőnek minősül és megfizette a 64. § (5) bekezdés szerinti adót – palackozva, legfeljebb 2 literes kiszerelésben, zárjeggyel ellátva a külön jogszabály szerinti saját gazdasága helyén folytatott vendéglátás vagy falusi szálláshely-szolgáltatás keretében értékesítheti.
+
+### A magánfőzésre vonatkozó szabályok
+
+67/A. § (1) A magánfőző a 64. § (6) bekezdése szerinti esetben a vámhatósághoz bejelenti – az adókötelezettség keletkezését 3 munkanappal megelőzően – az adó megállapításához szükséges, a külön jogszabályban meghatározott adatokat, az adó összegét, valamint az értékesítésre szánt párlathoz igényelt zárjegyek rendelkezésre bocsátásához szükséges, a külön jogszabályban meghatározott adatokat. A bejelentés adóbevallásnak minősül.
+
+(2) A magánfőző az (1) bekezdés szerinti bejelentésben nyilatkozik arról, hogy sem ő, sem a vele egy háztartásban élő más személy nem állíttat elő bérfőzésben párlatot.
+
+(3) A vámhatóság az (1) bekezdés szerinti bejelentés alapján legkésőbb a bejelentés napját követő 5. munkanapon a bejelentett (bevallott) mennyiségre származási igazolványt állít ki és bocsát a magánfőző rendelkezésére, feltéve, hogy a magánfőző az adót megfizette.
+
+(4) Magánfőzés esetén
+
+- a) a 66. § (4)–(5) bekezdésében és a 67. § (1) bekezdésében, valamint
+- b) a párlat értékesítésére a 67. § (2) bekezdés b) pontjában foglaltak értelemszerűen alkalmazandók.
 
 ### Adómentes felhasználás
 
@@ -1803,7 +1836,7 @@ végezhető.
 72. § (1) Alkoholtermék-adóraktári engedély
 
 - a) az alkoholterméket – a gyümölcs kivételével – cukor- vagy keményítőtartalmú mezőgazdasági eredetű termékből erjesztéssel és/vagy lepárlással előállító, és/vagy a borból és a borászati melléktermékekből lepárlással borpárlat, boralkohol, nyersszesz vagy semleges alkohol előállítását külön jogszabály szerint végző üzemre (a továbbiakban: szeszüzem),
-- b) a gyümölcspálinkát vagy borpárlatot gyümölcsökből és bogyókból, gyümölcstörkölyből, gyümölcsmustból, szőlőből, szőlőmustból, szőlőborból és borászati melléktermékekből, illetve a párlatot sörből, gabonából erjesztéssel és lepárlással előállító, és/vagy a borból és a borászati melléktermékekből lepárlással boralkohol, nyersszesz vagy semleges alkohol előállítását külön jogszabály szerint végző üzemre (a továbbiakban: szeszfőzde),
+- b) a gyümölcs- vagy borpárlatot gyümölcsökből és bogyókból, gyümölcstörkölyből, gyümölcsmustból, szőlőből, szőlőmustból, szőlőborból és borászati melléktermékekből, illetve a sör vagy gabona alapú alkoholterméket sörből, gabonából erjesztéssel és lepárlással előállító, és/vagy a borból és a borászati melléktermékekből lepárlással boralkohol, nyersszesz vagy semleges alkohol előállítását külön jogszabály szerint végző üzemre (a továbbiakban: szeszfőzde),
 - c) az alapanyagok összekeverésével alkoholtermék előállítását végző üzemre (a továbbiakban: italgyár),
 - d) a 2208 vámtarifaszám alá tartozó alkoholtermék önálló palackozását végző palackozó üzemre (a továbbiakban: szeszpalackozó),
 - e) a szeszüzem, a szeszfőzde, illetve az italgyár engedélyesének a gyártóüzeme területén vagy a gyártóüzeme területén kívül található, alkoholtermék tárolására, raktározására alkalmas, saját tulajdonú vagy bérelt, illetve egyéb használati jogon működtetett raktárára (a továbbiakban: üzemi szeszraktár),
@@ -1833,7 +1866,7 @@ adható.
 
 (7) A jövedéki biztosítékot az (1) bekezdés szerinti adóraktárak esetében – a (8) bekezdésben foglalt eltéréssel – adóraktáranként legalább 40 millió forint, de adóraktáranként, illetve a több adóraktárral rendelkező engedélyes esetében engedélyesenként legfeljebb 200 millió forint értékben kell teljesíteni. Az egy helyrajzi számon vagy az összefüggő helyrajzi számokon szereplő szeszüzem, italgyár, szeszfőzde és üzemi szeszraktár a jövedéki biztosíték szempontjából egy adóraktárnak minősül. A nem összefüggő helyrajzi számokon szereplő, de a gyártástechnológiai folyamatból fakadóan egy technológiai egységet képező, csővezetékrendszerrel összekötött üzem, raktár egy adóraktárnak tekintendő.
 
-(8) A kizárólag bérfőzést végző szeszfőzdére és az etanolüzemre a jövedéki biztosítékot legalább 1 millió forint, a szeszfőzdére és az egyéb alkoholtermék-adóraktárra legalább 10 millió forint értékben kell nyújtani. A kizárólag bérfőzést végző szeszfőzde jövedéki biztosítékát a 64. § (3) bekezdésében foglalt alacsonyabb adómérték alapulvételével kell megállapítani. Amennyiben a szeszüzem éves etilalkohol-gyártó kapacitása nem haladja meg az évi 50 ezer hektolitert, és a szeszüzemben kizárólag legalább 80, legfeljebb 92 térfogatszázalék alkoholtartalmú, finomítatlan, élelmiszeripari alapanyagkénti felhasználásra alkalmatlan etilalkoholt állítanak elő egy desztillációs lépésben, a jövedéki biztosítékot legfeljebb 25 millió forint értékben kell nyújtani.
+(8) A jövedéki biztosítékot a kizárólag bérfőzést végző szeszfőzdére 500 ezer forint, az etanolüzemre legalább 1 millió forint, a szeszfőzdére és az egyéb alkoholtermék-adóraktárra legalább 10 millió forint értékben kell nyújtani. Amennyiben a szeszüzem éves etilalkohol-gyártó kapacitása nem haladja meg az évi 50 ezer hektolitert, és a szeszüzemben kizárólag legalább 80, legfeljebb 92 térfogatszázalék alkoholtartalmú, finomítatlan, élelmiszeripari alapanyagkénti felhasználásra alkalmatlan etilalkoholt állítanak elő egy desztillációs lépésben, a jövedéki biztosítékot legfeljebb 25 millió forint értékben kell nyújtani.
 
 (9) A kizárólag bérfőzést végző szeszfőzde esetében a 35. § (1) bekezdés f)–g) pontjának rendelkezését nem kell alkalmazni.
 
@@ -1849,20 +1882,21 @@ adható.
 
 - a) a b)–c) pont alá nem tartozó szabadforgalomba bocsátása,
 - b) az importálása, feltéve, hogy az importáló nem adóraktárba szállítja be a terméket,
-- c) a más tagállamból való behozatalát követően belföldön való forgalomba hozatala
+- c) a más tagállamból való behozatalát követően belföldön való forgalomba hozatala,
+- d) a bérfőzető és a magánfőző által történő értékesítése, kivéve, ha a bérfőzető alkoholtermék-adóraktárnak adja el a bérfőzött párlatot,
 
 a (3) bekezdés szerinti zárjeggyel történhet.
 
 (2) Az (1) bekezdés rendelkezése nem vonatkozik
 
-- a) a bérfőzött pálinka bérfőzető részére történő kiadására,
+- a) a bérfőzött párlat bérfőzető részére történő kiadására,
 - b) a harmadik országból nem kereskedelmi jellegű áruként, illetve tagállamból magáncélra behozott, illetve az árumintaként importált vagy tagállamból árumintaként behozott alkoholtermékre,
 - c) a 2207 vámtarifaszámú alkoholtermékre, amennyiben az laboratóriumi vizsgálatok, kísérleti, kutatási és fejlesztési célok, kísérleti termékek próbagyártása, labor eszközök, gépek mosása, tisztítása, szolgáltató tevékenységek, kórházak, rendelőintézetek, gyógyszer-nagykereskedelem, gyógyszertárak céljára, valamint a fermentált dohányvágat aromásítására, továbbá a 68. § (1) bekezdésében megjelölt adómentes felhasználási célokra kerül adózottan értékesítésre,
 - d) a teljesen denaturált alkoholtermékre,
 - e) a 2207 vámtarifaszám alá tartozó, nyomdaipari célokat szolgáló hígítóra, oldószerre,
 - f) a 2207 és 2208 vámtarifaszámú alkoholtermékre, amennyiben az adózottan, a 63. § (1) bekezdés c) pontja szerinti alkoholtermék előállítása céljára kerül értékesítésre.
 
-(3) A zárjegy az alkoholtermék palackjára vagy legkisebb fogyasztói csomagolási egységére felhelyezett olyan bélyeg, amely igazolja, hogy a termék adóraktárban került előállításra (palackozásra), és onnan került kiszállításra, továbbá, hogy a harmadik országból, illetve tagállamból a közösségi vámjog, illetve e törvény rendelkezései szerint került behozatalra.
+(3) A zárjegy az alkoholtermék palackjára vagy legkisebb fogyasztói csomagolási egységére felhelyezett olyan bélyeg, amely igazolja, hogy a termék adóraktárban került előállításra (palackozásra), és onnan került kiszállításra, – a bérfőzött párlat és a magánfőzésben előállított párlat esetén – továbbá azt, hogy a 64. § (5), illetve (6) bekezdés szerinti adót megfizették, továbbá azt, hogy a harmadik országból, illetve tagállamból a közösségi vámjog, illetve e törvény rendelkezései szerint került behozatalra.
 
 (4) A zárjegyet a magyar állam állíttatja elő, és a vámhatóság bocsátja – elektronikus úton, ügyfélkapun keresztül benyújtott megrendelés alapján és elszámolási kötelezettség mellett – az adóraktár engedélyese, a bejegyzett kereskedő és a 104. §-ban meghatározott jövedéki engedéllyel rendelkező importáló vagy közösségi kereskedelmi tevékenységet folytató kereskedő (a továbbiakban együtt: zárjegyfelhasználó) rendelkezésére. A zárjegyhez a zárjegy előállítási költségének a megfizetése ellenében lehet hozzájutni, a közösségi kereskedelmi tevékenységet folytató kereskedő esetében továbbá akkor, ha a 27. § (4) bekezdés a) pontja szerinti jövedékibiztosíték-nyújtási kötelezettségét teljesítette.
 
@@ -1895,9 +1929,13 @@ követő napon köteles a felhelyezés, a fogadás, a beszállítás, illetve a 
 
 (13) A zárjegyfelhasználó a zárjegykészletében bekövetkezett, a (12) bekezdésben foglaltakon túli változásokat is köteles – a külön jogszabályban meghatározott adattartalommal – a változás bekövetkezésének napját, illetve a (7) bekezdés szerinti készletváltozások esetében a zárjegy visszavételének, megsemmisítésének vagy a külön jogszabályban előírt, a vámhatóság által a (7) bekezdés c) pont esetében felvett jegyzőkönyv felvételének napját követő napon, elektronikus úton, ügyfélkapun kereszül a vámhatóság részére megküldeni.
 
+(14) A magánfőző esetén a 67/A. § (1) bekezdés szerinti bejelentés minősül a zárjegy megrendelésének. A bérfőzető a zárjegy megrendelését a külön jogszabályban foglaltak szerint nyújtja be a vámhatósághoz. Az igényelt zárjegyet a vámhatóság a bérfőzető és a magánfőző esetén a zárjegy előállítási költségének megfizetése ellenében, a bérfőzető esetén továbbá az egyszerűsített kísérő okmány vámhatóságnak történt bemutatását követően bocsátja rendelkezésre, feltéve, hogy a 64. § (5), illetve (6) bekezdés szerinti adót megfizették.
+
+(15) Az átvett zárjeggyel a bérfőzető és a magánfőző nem köteles a vámhatóság felé elszámolni, de az átvett zárjegyeket a bérfőzető és a magánfőző legkésőbb az átvételt követő 3 napon belül köteles felhelyezni a párlat fogyasztói csomagolására.
+
 ### Az alkoholtermék és alkoholtermék alapanyag előállítása, forgalmazása, birtokolása
 
-74. § (1) A vámhatóság engedélyével szabad alkoholtermék előállítására alkalmas desztillálóberendezést előállítani, birtokolni és értékesíteni. Nem szükséges a vámhatóság engedélye a rendeltetésszerűen használt, túlnyomással üzemelő háztartási főzőedényekre, valamint a tudományos és oktatási célra használt üveg desztillálóberendezésekre.
+74. § (1) A vámhatóság engedélyével szabad alkoholtermék előállítására alkalmas desztillálóberendezést előállítani, – a magánfőző desztillálóberendezése kivételével – birtokolni, továbbá értékesíteni. Nem szükséges a vámhatóság engedélye a rendeltetésszerűen használt, túlnyomással üzemelő háztartási főzőedényekre, valamint a tudományos és oktatási célra használt üveg desztillálóberendezésekre.
 
 (2) A szeszüzem kivételével cukorcefrét előállítani, értékesíteni, birtokolni, valamint a cukorcefréből alkoholterméket és a 2204, 2205, 2206 vámtarifaszám alá tartozó terméket előállítani tilos.
 
@@ -2672,8 +2710,8 @@ a jövedéki termék mennyisége után jövedéki bírságot fizet.
 - g) az e törvényben előírt engedély nélkül előállított megfigyelt terméket, az e törvényben előírt engedély nélkül megszerzett, birtokolt, kiszerelt, felhasznált 5 liternél/5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat és a megfigyelt terméket, kivéve a nyilvántartásba vett felhasználó által beszerzett, felhasznált egyéb ellenőrzött ásványolajat és megfigyelt terméket;
 - h) a 15. § (2) bekezdés c) pontja szerinti ásványolajat, kivéve ha az adóraktáron kívül előállítható ásványolajra az adó kivetését kérték;
 - i) a jelölt gázolajat, ha azt áru- vagy személyszállítást gazdasági tevékenység keretében végző hajó üzemanyagtartályából eltávolították (kivették);
-- j) azt az alkoholterméket, amelyből a teljes denaturáláshoz felhasznált anyagokat részben vagy egészben kivonták, vagy olyan anyagot adtak hozzá, amely a teljesen denaturált alkohol hatását ízre vagy szagra megváltoztatta, vagy azt a teljesen vagy részlegesen denaturált alkoholterméket, amelyet az e törvény hatálya alá tartozó adóköteles ital előállításához használtak fel, illetve amelyet az előbbiek szerint az élvezeti célra szolgáló termékben hoztak forgalomba, értékesítettek vagy tartanak birtokban [a továbbiakban az a)–j) pontban megjelölt termék: adózás alól elvont termék];
-- k)
+- j) azt az alkoholterméket, amelyből a teljes denaturáláshoz felhasznált anyagokat részben vagy egészben kivonták, vagy olyan anyagot adtak hozzá, amely a teljesen denaturált alkohol hatását ízre vagy szagra megváltoztatta, vagy azt a teljesen vagy részlegesen denaturált alkoholterméket, amelyet az e törvény hatálya alá tartozó adóköteles ital előállításához használtak fel, illetve amelyet az előbbiek szerint az élvezeti célra szolgáló termékben hoztak forgalomba, értékesítettek vagy tartanak birtokban;
+- k) azt a párlatot, amelyet a magánfőző a 67. § (2) bekezdés b) pontjának rendelkezését megsértve értékesít [a továbbiakban az a)–k) pontban megjelölt termék: adózás alól elvont termék].
 
 (3) Az (1) bekezdés szerinti jövedéki bírság alapja az adózás alól elvont termék mennyisége és a bírság megállapításakor hatályos adómérték – a (2) bekezdés g) pont szerinti adózás alól elvont termék esetében az 52. § (1) bekezdés a) pontjában meghatározott adómérték – alapján számított adó, illetve a szőlőbor esetében az adózás alól elvont termék literben mért mennyisége és 30 forint szorzataként meghatározott összeg. A jövedéki bírság mértéke a bírságalap kétszerese, de legalább 30 ezer forint.
 
@@ -2699,6 +2737,8 @@ büntetendő.
 (5) A szárított dohány nem a fermentáló üzem, illetve a fermentált dohány nem a dohányüzem vagy a dohánygyár részére, hanem közvetlen fogyasztási célra történő átadása, értékesítése, illetve megvásárlása, birtokolása kilogrammonként 1000 forint jövedéki bírsággal büntetendő.
 
 (6) Ásványolaj előállítására alkalmas desztillálóberendezés, sör előállítására alkalmas főzőüst és forralóüst, dohánygyártmány előállítására alkalmas gép vagy egyéb eszköz jogosulatlan előállítása, birtokolása, értékesítése legalább 20 ezer forint összegű, legfeljebb 200 ezer forintig terjedő, ismétlődés esetén legalább az előző alkalommal kiszabható legkisebb jövedéki bírság kétszeresének megfelelő összegű, legfeljebb az előző alkalommal kiszabható jövedéki bírság legmagasabb összegének kétszereséig terjedő jövedéki bírsággal büntetendő.
+
+(7) A 67/A. § (1) bekezdés szerinti bejelentésben az adó megállapításához szükséges adatok tekintetében valótlan adatok megadása, valamint a 67/A. § (2) bekezdés szerint tett valótlan nyilatkozat megtétele legalább 20 ezer forint összegű, de legfeljebb 200 ezer forintig terjedő jövedéki bírsággal büntetendő.
 
 116. § Ha a jövedéki engedélyes kereskedelmi tevékenységet folytató kereskedő kétséget kizáróan adózott termékeket forgalmaz, de nem rendelkezik jövedéki engedéllyel, a kivetendő jövedéki bírság alapja a kereskedő termékköre szerinti jövedéki engedélyhez e törvényben előírt jövedéki biztosíték összegének és azon napok számának szorzata, amely alatt a kereskedő a jövedéki bírság kivetéséig engedély nélkül folytatta tevékenységét. A jövedéki bírság mértéke a bírságalapnak és a jövedéki bírság kivetése időpontjában érvényes jegybanki alapkamat kétszerese 365-öd részének a szorzata, de legalább 500 ezer forint.
 
@@ -2744,9 +2784,14 @@ büntetendő.
 - b) a jogosulatlanul előállított cukorcefrét és abból előállított terméket,
 - c) a külön jogszabályban meghatározott eljárástól eltérően előállított vagy kezelt, a 115. § (3) bekezdésének rendelkezése alá eső bort, borászati mellékterméket [e §, valamint a 120. § alkalmazásában az a)–c) pontokban meghatározottak a továbbiakban: termékek],
 - d) a hamis, hamisított vagy jogtalanul megszerzett zárjegyet, adójegyet, hivatalos zárat (e §, valamint a 120. § alkalmazásában a továbbiakban: zárjegy),
-- e) a jogosulatlanul előállított vagy birtokolt desztillálóberendezést, a dohánygyártmány előállítására alkalmas gépet és egyéb eszközt,
-- f) a termékek, a zárjegy előállítására használt eszközt, valamint
+- e) a jogosulatlanul előállított, birtokolt, vagy az arra jogosulatlan személy által használt desztillálóberendezést, a dohánygyártmány előállítására alkalmas gépet és egyéb eszközt,
+- f) a termékek, a zárjegy előállítására használt eszközt,
 - g) a termékek, a zárjegy felhasználására, tárolására és szállítására használt eszközt [e fejezet alkalmazásában az e)–g) pontokban meghatározottak a továbbiakban: eszközök] – a (4) bekezdésben foglalt eltéréssel –
+- h) magánfőzésre használt desztillálóberendezést, ha
+  - ha) a magánfőző a 67/A. § (1) bekezdés szerinti bejelentésében az adó megállapításához szükséges adatok tekintetében valótlan adatokat ad meg,
+  - hb) a 67/A. § (2) bekezdés rendelkezésének alkalmazásában a magánfőző valótlan nyilatkozatot tesz,
+  - hc) a magánfőző a desztillálóberendezést a párlattól eltérő alkoholtermék előállítására használja,
+  - hd) a magánfőző a párlatot a 67. § (2) bekezdés b) pontjának rendelkezését megsértve értékesíti,
 
 lefoglalja.
 
@@ -2974,9 +3019,9 @@ határozatban állapítja meg az adót.
 - c) az e törvényben előírt nyilvántartások vezetésére, a vámhatóság felé a nyilvántartások alapján teljesítendő adatszolgáltatás tartalmára, módjára és technikai feltételeire, a bizonylatok kiállítására, az adófelfüggesztéssel végzett szállítások során használt okmányok EK rendelet szerint kötelezően kitöltendővé tehető rovatainak meghatározására, a 40. § (1) bekezdés a) pont ab) alpont szerinti bizonylatok adataira, valamint ezen bizonylatok adatainak a 40. § (9) bekezdésben előírt megküldésére, az e-TKO tervezet EK rendeleten felüli kiegészítő adattartalmára, a jövedéki termékek és a megfigyelt termékek elszámolására, valamint az alkoholtermék-készletforgalmi szabályzatra vonatkozó részletes szabályokat;
 - d) az adófizetési kötelezettség, adó-visszaigénylés elszámolására, a hatósági felügyelet ellátásának esetleges különleges módjára és feltételeire, a jövedéki ellenőrzésre, a lefoglalásra, elkobzásra, az elkobzott termék felhasználására, illetve megsemmisítésére vonatkozó részletes szabályokat;
 - e) a gázolaj jelölésével kapcsolatos egyes rendelkezéseket;
-- f) a zárjegy, valamint a hordós és kannás kiszerelésű borra előírt hivatalos zár alkalmazásának, a zárjeggyel való elszámolásnak, a zárjegy felhasználásával, illetve a zárjegykészlet egyéb változásaival kapcsolatos napi adatszolgáltatás tartalmának, az adójegy igénylésének, visszavételének, alkalmazásának részletes szabályait;
+- f) a zárjegy, valamint a hordós és kannás kiszerelésű borra előírt hivatalos zár alkalmazásának, a zárjegy megrendelésének, a zárjeggyel való elszámolásnak, a zárjegy felhasználásával, illetve a zárjegykészlet egyéb változásaival kapcsolatos napi adatszolgáltatás tartalmának, az adójegy igénylésének, visszavételének, alkalmazásának részletes szabályait;
 - g) a denaturált alkohol előállításához felhasználható denaturáló szer alkalmazására és az alkohol denaturálási eljárására vonatkozó szabályokat, valamint a desztillálókészülék előállítására, birtokban tartására vonatkozó szabályokat;
-- h) a bérfőzött pálinka bérfőzető részére történő kiadásának és a bérfőzető általi továbbértékesítésének szabályait;
+- h) a bérfőzött párlat bérfőzető részére történő kiadásának és a bérfőzető általi továbbértékesítésének szabályait, a 67/A. § (1) bekezdés szerinti bejelentés részletes szabályait, valamint a magánfőző részére kiadásra kerülő származási igazolvány adattartalmára és kiállítására vonatkozó részletes szabályokat;
 - i) a terítőjáratok működési és adminisztrációs rendjére vonatkozó egyes rendelkezések részletes szabályait;
 - j) a más tagállamban szabadforgalomba bocsátott jövedéki termék ugyanazon adóalany általi rendszeres beszerzésére vonatkozó egyszerűsített eljárás szabályait;
 - k) a kötelező érvényű vámtarifabesorolással kapcsolatos eljárás részletes szabályait;
@@ -3029,3 +3074,29 @@ Az üzemanyagok, az alkoholtermékek és a dohánygyártmányok vonatkozásában
 | --- | --- |
 | Alkoholtermék | 150 liter/év égetett szeszes ital, az egyéb alkoholtermékek tekintetében nincs mennyiségi korlátozás |
 | Dohánygyártmány | 25 000 szál cigaretta/év, az egyéb dohánygyártmányok tekintetében nincs mennyiségi korlátozás |
+
+### 3. számú melléklet a 2003. évi CXXVII. törvényhez
+
+Kihozatali arányszámok
+
+(100 kg alapanyagra /100 liter szőlőborra/ számítva)
+
+| Alapanyag megnevezése | Párlat |
+| --- | --- |
+|  | (liter, tiszta szesz) |
+| Cseresznye | 4.0 |
+| Meggy | 5.0 |
+| Kajszibarack | 6.0 |
+| Szilva | 7.0 |
+| Körte | 4.5 |
+| Alma | 5.0 |
+| Őszibarack | 4.0 |
+| Vegyes | 6.0 |
+| Birs | 4.5 |
+| Bodza | 3.0 |
+| Erdei gyümölcs | 3.0 |
+| Szőlőtörköly | 6.0 |
+| Aszútörköly | 6.0 |
+| Borseprő | 8.0 |
+| Szőlőbor | 9.0 |
+| Szőlő | 8.0 |
