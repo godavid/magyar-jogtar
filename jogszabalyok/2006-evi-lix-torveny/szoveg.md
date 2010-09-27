@@ -6,11 +6,11 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 ### Általános rendelkezések
 
-1. § (1) A 4. §-ban meghatározott személy járadék fizetésére kötelezett.
+1. § (1) A 4. §-ban meghatározott személy járadék fizetésére, a 4/A. §-ban meghatározott személy különadó fizetésére kötelezett.
 
-(2) A járadékból származó bevétel a központi költségvetést illeti meg.
+(2) A járadékból és a különadóból származó bevétel a központi költségvetést illeti meg.
 
-(3) Az (1) bekezdésben említett járadék adónak minősül. Az e törvényben nem szabályozott kérdésekben az adózás rendjéről szóló 2003. évi XCII. törvény (Art.) rendelkezései az irányadók.
+(3) Az (1) bekezdésben említett járadék és különadó adónak minősül. Az e törvényben nem szabályozott kérdésekben az adózás rendjéről szóló törvény (a továbbiakban: Art.) rendelkezései az irányadók.
 
 ### A magánszemély adókötelezettsége
 
@@ -30,11 +30,57 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (4) A hitelintézet a járadékelőleget negyedévente, a negyedévet követő hónap 12-éig, az utolsó negyedévi adóelőleget az adóév utolsó hónapjának 20. napjáig fizeti meg az adott negyedévben kamat és kamatjellegű bevétel címén elszámolt összeg után.
 
+### Pénzügyi szervezetek különadója
+
+4/A. § (1) A 2010. július 1-jén már lezárt üzleti évi beszámolóval rendelkező pénzügyi szervezet a 2010. évben különadó megállapítására, bevallására és fizetésére kötelezett.
+
+(2) A pénzügyi szervezet a különadó fizetési kötelezettségét 2010. szeptember 30. napjáig állapítja meg és vallja be az e célra rendszeresített nyomtatványon az állami adóhatóságnak.
+
+(3) A pénzügyi szervezet a különadót a 2010. évben két egyenlő részletben, 2010. szeptember 30. napjáig és december 10. napjáig fizeti meg.
+
+(4) A különadó alapja
+
+- 1. hitelintézetnél a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból számított módosított mérlegfőösszeg;
+- 2. biztosítónál a biztosítók éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból számított korrigált díj;
+- 3. egyéb pénzügyi szervezetnél:
+  - a) pénzügyi vállalkozásnál a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból számított aa) kamateredmény, valamint ab) díj- és jutalékeredmény,
+  - b) befektetési vállalkozásnál a befektetési vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból számított korrigált nettó árbevétel,
+  - c) tőzsdénél a tőzsdék és az elszámolóházi tevékenységet végző szervezetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített 2009. évi éves beszámoló adataiból számított korrigált nettó árbevétel,
+  - d) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél a 2009. évi éves beszámoló adataiból számított korrigált nettó árbevétel,
+  - e) befektetési alapkezelőnél az általa kezelt alapok 2009. december 31-i nettó eszközértékének, valamint az általa kezelt pénztári, illetőleg egyéb portfolió vagyon 2009. december 31-i értékének együttes összege.
+
+(5) A naptári évtől eltérő üzleti évet választó pénzügyi szervezet (4) bekezdés szerinti különadó alapját a rendelkezésre álló legutolsó beszámolóval lezárt üzleti év adatai alapján állapítja meg.
+
+(6) A különadó mértéke
+
+- a) hitelintézet esetén az adóalap 50 milliárd forintot meg nem haladó része után 0,15 százalék, az e feletti összegre 0,5 százalék,
+- b) biztosító esetén 6,2 százalék,
+- c) egyéb pénzügyi szervezet esetén:
+  - ca) pénzügyi vállalkozásnál a (4) bekezdés 3. pont a) pont aa) alpontjában meghatározott összeg 6,5 százaléka, valamint a (4) bekezdés 3. pont a) pont ab) alpontjában meghatározott összeg 6,5 százaléka,
+  - cb) befektetési vállalkozásnál 5,6 százalék,
+  - cc) tőzsdénél 5,6 százalék,
+  - cd) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél 5,6 százalék,
+  - ce) befektetési alapkezelőnél 0,028 százalék.
+
+(7) A 2011. január 1-je előtt jogutód nélkül megszűnő pénzügyi szervezetnek a bevallott – ideértve az adóhatóság által megállapított – különadónak a megfizetett részletekkel csökkentett összegét a végelszámolást vagy a felszámolást lezáró adóbevallás benyújtásával egyidejűleg kell megfizetnie.
+
+(8) A (7) bekezdés rendelkezései az irányadók az átalakulással történő megszűnés esetén is, amennyiben a jogutód nem alanya az e § szerinti különadónak. Ha az átalakuláshoz kapcsolódó soron kívül benyújtandó adóbevallás benyújtásának időpontja és az átalakulás napja között az általános szabályok szerint különadó fizetés esedékessé válik, az esedékes különadó részletfizetési kötelezettséget teljesíteni kell.
+
+(9) Ha a pénzügyi szervezet a (7) és (8) bekezdésben nem szabályozott bármely egyéb okból kikerül e törvény hatálya alól, a bevallott – ideértve az adóhatóság által megállapított – különadónak a megfizetett részletekkel csökkentett összegét a kikerülés napját követő 30. napjáig meg kell fizetnie.
+
+(10) A különadó bevallás mellékleteként nyújtja be az adóhatósághoz:
+
+- a) a hitelintézet az adóalap meghatározásakor számításba vett, a beszámoló adataiból számított módosított mérlegfőösszeget tartalmazó kimutatást,
+- b) a pénzügyi vállalkozás az adóalap meghatározásakor számításba vett, a beszámoló adataiból számított kamateredményt, valamint díj- és jutalékeredményt tartalmazó kimutatást,
+- c) a befektetési alapkezelő az adóalap meghatározásakor számításba vett, általa kezelt alapok megnevezését és nettó eszközértékét, valamint az általa kezelt pénztári, illetőleg egyéb portfolió vagyon értékének összegét,
+- d) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szolgáltató az éves beszámolóban szereplő értékesítés nettó árbevételéből az árutőzsdei szolgáltatásból származó árbevételt tartalmazó kimutatást,
+- e) a biztosító az adóalap meghatározásakor számításba vett korrigált díjbevétel megállapítását tartalmazó kimutatást.
+
 ### Vegyes rendelkezések
 
 5. § (1)
 
-(2) A 4. § alapján megállapított járadékot az adózás előtti eredmény terhére kell elszámolni.
+(2) A 4. § alapján megállapított járadékot az adózás előtti eredmény terhére kell elszámolni. A 4/A. § alapján megállapított és bevallott különadót a 2010. évben kell az adózás előtti eredmény terhére elszámolni.
 
 (3)
 
@@ -46,17 +92,40 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (5)–(6)
 
+(7) A pénzügyi szervezeteket az e törvényben meghatározott különadó alap után 2011-ben 200 milliárd forint különadó fizetési kötelezettség terheli, amelynek részletes feltételeit külön törvény határozza meg.
+
+(8) A pénzügyi szervezetek 2012. évi különadó fizetési kötelezettségének részletes feltételeit külön törvény határozza meg.
+
 ### Fogalmak
 
 7. § E törvény alkalmazásában
 
-- 1–3.
-- 4. hitelintézet: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény hatálya alá tartozó hitelintézet;
-- 5–7.
-- 8. közvetlenül érintett hitelállomány: azon kölcsönügyletek összessége, amelyek tekintetében a hitelintézet a kölcsönügylet adósa részére kedvezményes ügyleti kamat- és díjmértéket érvényesít és ezen ügyletek tekintetében az állami kamattámogatást a hitelintézet közvetlen módon a Magyar Állammal elszámolja;
-- 9. közvetetten érintett hitelállomány: azon kölcsönügyletek összessége, amelyek tekintetében a hitelintézet a finanszírozó forrást jelzálog-hitelintézettől önálló jelzálogjog eladása és egyidejű visszavásárlása útján biztosítja, és erre tekintettel a kölcsönügylet adósa részére kedvezményes ügyleti kamat- és díjmértéket érvényesít.
-- 10–13.
-- 14. árbevétel: a Tao. tv. 4. § 4. pontjában meghatározott fogalom.
+- 1. közvetlenül érintett hitelállomány: azon kölcsönügyletek összessége, amelyek tekintetében a hitelintézet a kölcsönügylet adósa részére kedvezményes ügyleti kamat- és díjmértéket érvényesít és ezen ügyletek tekintetében az állami kamattámogatást a hitelintézet közvetlen módon a Magyar Állammal elszámolja;
+- 2. közvetetten érintett hitelállomány: azon kölcsönügyletek összessége, amelyek tekintetében a hitelintézet a finanszírozó forrást jelzálog-hitelintézettől önálló jelzálogjog eladása és egyidejű visszavásárlása útján biztosítja, és erre tekintettel a kölcsönügylet adósa részére kedvezményes ügyleti kamat- és díjmértéket érvényesít;
+- 3. pénzügyi szervezet: a hitelintézet, a biztosító és az egyéb pénzügyi szervezet, ideértve a fióktelep formában működő pénzügyi szervezeteket is;
+- 4. hitelintézet: a hitelintézetekről és pénzügyi vállalkozásokról szóló törvény (a továbbiakban: Hpt.) szerinti hitelintézet;
+- 5. biztosító: a biztosítókról és a biztosítási tevékenységről szóló törvény (a továbbiakban: Bit.) szerinti biztosító (ide nem értve a nem jelentős biztosító egyesületeket) és a viszontbiztosítókról szóló törvény szerinti viszontbiztosító;
+- 6. nem jelentős biztosító egyesület: a Bit. szerinti nem-élet biztosítási ágon belül kizárólag a tűz és elemi károk, az egyéb vagyoni károk és a segítségnyújtási ágazatot művelő olyan biztosító egyesület, amely éves díjbevételének és tagsági hozzájárulásának együttes összege az utóbbi három üzleti évben egyszer sem érte el a 125 millió forintot;
+- 7. egyéb pénzügyi szervezet: a pénzügyi vállalkozás, befektetési vállalkozás, tőzsde, árutőzsdei szolgáltató, kockázati tőkealap-kezelő, befektetési alapkezelő;
+- 8. pénzügyi vállalkozás: a Hpt. szerinti pénzügyi vállalkozás;
+- 9. befektetési vállalkozás: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény (Bszt.) szerinti befektetési vállalkozás;
+- 10. tőzsde: a tőkepiacról szóló törvény (a továbbiakban: Tpt.) szerinti tőzsde;
+- 11. árutőzsdei szolgáltató: a Bszt. szerinti árutőzsdei szolgáltató;
+- 12. kockázati tőkealap-kezelő: a Tpt. szerinti kockázati tőkealap-kezelő;
+- 13. befektetési alapkezelő: a Tpt. szerinti befektetési alapkezelő;
+- 14. módosított mérlegfőösszeg: az éves beszámoló mérlegében szereplő eszközök értékének együttes összege csökkentve a belföldi bankközi hitelből eredő követeléssel, a más belföldi hitelintézetek, pénzügyi vállalkozások és befektetési vállalkozások által kibocsátott hitelviszonyt megtestesítő értékpapírokkal és részvényekkel, a belföldi pénzügyi vállalkozásoknak, befektetési vállalkozásoknak nyújtott hitelből, alárendelt és kiegészítő alárendelt kölcsöntőkéből eredő követeléssel (ideértve a velük kötött valódi penziós, óvadéki repó és sajátos szállításos repó ügyletből eredő követelést is);
+- 15. mérlegfőösszeg: az éves beszámoló mérlegében szereplő eszközök értékének együttes összege;
+- 16. egyszeri díj: azon életbiztosítási szerződésekből származó díj, amely egy összegben a tartam elején esedékes;
+- 17. eseti díj: az életbiztosítási szerződéshez kapcsolódó, a szerződésben előre rögzített díjfizetési kötelezettségen felül fizetett biztosítási díj;
+- 18. korrigált díj: a nem-élet biztosítási ágból származó megszolgált díj viszontbiztosítás nélküli összege, növelve az életbiztosítási ág bruttó díjával, csökkentve az egyszeri díjas biztosítások díjának 90 százalékával és az eseti biztosítási díjak 90 százalékával, továbbá csökkentve a halasztott kezdetű nyugdíjkiegészítő biztosításoknak az Önkéntes kölcsönös biztosító pénztárakról szóló 1993. évi XCVI. törvény 46–49. §-ainak a Felügyelet által igazoltan megfelelő díjbevételével;
+- 19. korrigált nettó árbevétel:
+  - a) befektetési vállalkozásoknál: a befektetési szolgáltatási tevékenység bevételei csökkentve a befektetési szolgáltatási tevékenység ráfordításaival;
+  - b) tőzsdénél: a tőzsdei tevékenység bevételei növelve az egyéb bevételekkel;
+  - c) az árutőzsdei szolgáltatást kizárólagosan végző árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél: az értékesítés nettó árbevétele;
+  - d) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szolgáltatónál az e tevékenységekből származó nettó árbevétel;
+- 20. nettó eszközérték: a befektetési alap portfóliójában szereplő eszközök – ideértve a kölcsönbe adásból származó követeléseket is – értéke, csökkentve a portfóliót terhelő összes kötelezettséggel, beleértve a passzív időbeli elhatárolásokat is;
+- 21. belföldi bankközi hitel: a más belföldi hitelintézetnek nyújtott hitel, alárendelt kölcsöntőke és kiegészítő alárendelt kölcsöntőke, a más belföldi hitelintézetnél elhelyezett betét, valamint a más belföldi hitelintézettel szemben valódi penziós, óvadéki repó és sajátos szállításos repó ügyletből fennálló követelés együttes összege;
+- 22. árbevétel: a Tao. tv. 4. § 4. pontjában meghatározott fogalom.
 
 7/A. §
 
@@ -67,3 +136,5 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 (2) E törvény 2. §-a (1) bekezdése és (2) bekezdésének a) pontja, továbbá (5) bekezdése, 4. §-a, 7. §-ának 1–2., 4. és 7–8. pontja, valamint az 5. §-a (2)–(3) bekezdésének, a 6. §-a (3)–(4) bekezdésének a 4. §-a szerinti járadékot érintő rendelkezései 2007. január 1-jén lépnek hatályba.
 
 (3)–(8)
+
+(9) E törvény 1. §-ának (1) bekezdésében az „, a 4/A. §-ban meghatározott személy különadó fizetésére” szövegrész, (2) bekezdésében az „és a különadóból” szövegrész, a (3) bekezdésében az „és különadó” szövegrész, e törvény 4/A. §-a, az 5. § (2) bekezdésének 2. mondata, a 6. §-ának (7) és (8) bekezdése és a 7. §-ának 3. és 5–20. pontja 2012. január 1-jén, a 6. § (8) bekezdése 2013. január 1-jén hatályát veszti.
