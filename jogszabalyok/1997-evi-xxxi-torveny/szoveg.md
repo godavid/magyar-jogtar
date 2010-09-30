@@ -31,7 +31,7 @@ Az Országgyűlés a jövő nemzedékért érzett felelősségtől vezérelve a 
 4. § (1) A törvény hatálya kiterjed
 
 - a) a (2) és (3) bekezdésben foglalt eltéréssel a Magyar Köztársaság területén tartózkodó magyar állampolgárságú, valamint – ha nemzetközi szerződés másként nem rendelkezik – a letelepedett, bevándorolt, illetve befogadott jogállású, továbbá a magyar hatóságok által menekültként, oltalmazottként, illetve hontalanként elismert gyermekre, fiatal felnőttre és szüleire;
-- b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát a Magyar Köztársaság területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik.
+- b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát a Magyar Köztársaság területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik;
 
 (2) A törvény hatálya a rendkívüli gyermekvédelmi támogatás tekintetében az (1) bekezdésben foglaltakon túlmenően kiterjed az Európai Szociális Kartát megerősítő országok állampolgárainak a Magyar Köztársaság területén jogszerűen tartózkodó gyermekeire is.
 
@@ -1535,7 +1535,7 @@ hozzájárulhat ahhoz, hogy a szülő egészségi állapota, indokolt távollét
 
 (3) A gyermeknek a gondozási helyre viteléről a beutaló szerv gondoskodik.
 
-(4) Az ideiglenes hatályú elhelyezéstől kezdődően a szülő gondozási, nevelési joga szünetel. A beutaló szerv döntése ellen fellebbezésnek helye nincs.
+(4) Az ideiglenes hatályú elhelyezéstől kezdődően a szülő gondozási, nevelési joga szünetel.
 
 73. § (1) A gyámhivatal – a (3) bekezdésben meghatározott kivétellel – az ideiglenes hatályú elhelyezést követően – függetlenül attól, hogy arra mely beutaló szerv intézkedése alapján kerül sor – annak elrendelésétől számított
 
