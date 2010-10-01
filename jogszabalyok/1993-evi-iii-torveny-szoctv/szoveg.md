@@ -270,11 +270,18 @@ végzi el.
 
 20/B. § A Kormány által kijelölt szerv – a szociális szolgáltatás rendszerének és finanszírozásának tervezhetősége miatt – országos jelentési rendszert működtet. A fenntartó az országos jelentési és férőhelyfigyelő rendszer számára köteles bejelenteni a külön jogszabályban meghatározott – személyes adatnak nem minősülő – adatokat.
 
-21. § A 20. §-ban szabályozott nyilvántartásból adat csak az adatigénylésre jogosult szervnek és a jogosultságot megállapító szociális hatáskört gyakorló szervnek szolgáltatható.
+20/C. § A szociális hatóság a személyes gondoskodást nyújtó szociális ellátások, szolgáltatások finanszírozásának ellenőrzése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
-22. § Az, akire a 18. §-ban, 20. §-ban, valamint a 20/A. §-ban szabályozott nyilvántartás adatot tartalmaz, a személyére vonatkozó adatok tekintetében a betekintési, a helyesbítési vagy törlési jogának érvényesítése mellett kérheti a jogai gyakorlásához szükséges adatainak közlését a nyilvántartást kezelő szervtől vagy a szociális intézmény vezetőjétől.
+- a) a 18. § a)–c) és h)–i) pontjában meghatározott adatokat,
+- b) a személyes gondoskodást nyújtó alapszolgáltatás vagy szakosított ellátás típusát, igénybevételének és megszűnésének időpontját,
+- c) az intézmény, szolgáltató külön jogszabály szerinti ágazati azonosító jelét,
+- d) a finanszírozás, támogatás költségvetési törvény szerinti jogcímét és feladatmutatóját.
 
-23. § Ha törvény másként nem rendelkezik, a 18. és a 20. § szerinti nyilvántartásokból a szociális ellátásra való jogosultság megszűnésétől számított öt év elteltével — a szolgálati időre jogosító ellátások kivételével — törölni kell az adott személyre vonatkozó adatokat. A szolgálati időre jogosító ellátások esetében az adott személyre vonatkozó adatok törlését a Kormány rendeletben szabályozza.
+21. § A 20. és 20/C. §-ban szabályozott nyilvántartásból adat csak az adatigénylésre jogosult szervnek és a jogosultságot megállapító szociális hatáskört gyakorló szervnek szolgáltatható.
+
+22. § Az, akire a 18. §-ban, 20. §-ban, 20/C. §-ban, valamint a 20/A. §-ban szabályozott nyilvántartás adatot tartalmaz, a személyére vonatkozó adatok tekintetében a betekintési, a helyesbítési vagy törlési jogának érvényesítése mellett kérheti a jogai gyakorlásához szükséges adatainak közlését a nyilvántartást kezelő szervtől vagy a szociális intézmény vezetőjétől.
+
+23. § Ha törvény másként nem rendelkezik, a 18.,20. és 20/C. § szerinti nyilvántartásokból a szociális ellátásra való jogosultság megszűnésétől számított öt év elteltével — a szolgálati időre jogosító ellátások kivételével — törölni kell az adott személyre vonatkozó adatokat. A szolgálati időre jogosító ellátások esetében az adott személyre vonatkozó adatok törlését a Kormány rendeletben szabályozza.
 
 24. § (1) Az e törvény felhatalmazása alapján nyilvántartást vezető szervek a nyilvántartásban kezelt adatokat természetes személyazonosító adatok nélkül statisztikai célra felhasználhatják, illetőleg azokból statisztikai célra adatot szolgáltathatnak.
 
