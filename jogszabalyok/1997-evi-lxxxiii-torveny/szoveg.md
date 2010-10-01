@@ -529,19 +529,19 @@ igazolja.
 - d) az egészségügyi szolgáltató adatszolgáltatási kötelezettségét,
 - e) a külön jogszabály rendelkezései szerinti feltételeket,
 - f) a külön jogszabályban meghatározott esetben az elszámolható szolgáltatások mennyiségi korlátjait,
-- g) a 21. § (2) bekezdése alapján gyógyászati segédeszköznek az egészségügyi ellátás keretében történő kiszolgáltatására való jogosultságot,
+- g)
 - h) a szerződés hatályát, a módosítására és felmondására vonatkozó rendelkezéseket, a szerződés megszegése esetén követendő eljárást, ideértve a szerződésszegésen alapuló igények érvényesítési rendjét is,
 - i)
 
 (2) Az egészségügyi szolgáltató gyógyszert, gyógyászati segédeszközt, valamint gyógyászati ellátást árhoz nyújtott támogatással az egészségbiztosító által minősített, a minőségi és hatékony gyógyszer- és gyógyászatisegédeszköz-rendelést elősegítő számítógépes rendszer alkalmazásával rendelhet.
 
-(3) A finanszírozási szerződés mellékletét képezi
+(3) A finanszírozási szerződés részét képezi
 
 - a) az egészségügyi szolgáltatás nyújtására jogosító működési engedély,
 - b) amennyiben az egészségügyi szolgáltató a külön törvény szerinti egészségügyi közszolgáltatásért felelős szervvel egészségügyi ellátási szerződést kötött az egészségügyi közszolgáltatás nyújtására, e szerződés másolata,
 - c) az egészségügyi szolgáltató nyilatkozata arról, hogy van-e a 30. § (1) bekezdése szerinti lejárt esedékességű köztartozása,
-- d) az egészségügyi dokumentáció vezetésének rendjéről szóló tájékoztató,
-- e) az egészségügyi szolgáltató gyógyszer, gyógyászati segédeszköz, valamint gyógyászati ellátás árhoz nyújtott támogatással történő rendeléséhez alkalmazott számítógépes rendszer minősítéséről szóló jóváhagyás.
+- d) a külön jogszabályban meghatározott egyéb okirat, irat, adat.
+- e)
 
 (4) A finanszírozási szerződés módosítását – a kapacitásokat szabályozó külön jogszabályokra figyelemmel – bármelyik fél kezdeményezheti.
 
@@ -586,13 +586,12 @@ igazolja.
 
 (9) Az orvos 8 napon belül köteles bejelenteni az egészségbiztosítónak, ha az (1) bekezdésben meghatározott kizáró ok valamelyike felmerül a vényírási szerződés hatálya alatt. Az egészségbiztosító a kizáró okról történt tudomásszerzést követően a vényírási szerződést 30 napos határidővel felmondja. Amennyiben az egészségügyi szolgáltató a bejelentési kötelezettségét elmulasztja, köteles megtéríteni a kizáró ok felmerülését követően rendelt gyógyszer, gyógyászati segédeszköz után folyósított társadalombiztosítási támogatást.
 
-33. § (1) A gyógyszer kiszolgáltatójával, gyógyászati segédeszköz forgalmazójával kötött szerződésben meg kell határozni
+33. § (1) A gyógyszer kiszolgáltatójával, gyógyászati segédeszköz forgalmazójával kötött ártámogatási szerződésben meg kell határozni
 
-- a) a készletfenntartásra, a kiszolgáltatásra, a nyilvántartásra és a támogatás elszámolására vonatkozó – az általánostól eltérő vagy külön jogszabályban nem rögzített – rendelkezéseket,
-- b) a szállítási és elszámolási feltételeket,
-- c) a 32. § (3) bekezdésének c) pontjában foglaltakat.
+- a) az elszámolási gyakoriságot,
+- b) az általánostól eltérő vagy jogszabályban nem szabályozott rendelkezéseket.
 
-(2) A szerződés mellékletét képezi
+(2) A szerződés részét képezi
 
 - a) a forgalmazás és a kiszolgáltatás végzésére jogosító – külön jogszabály szerinti – engedély másolata,
 - b) a kiszolgáltató, forgalmazó nyilatkozata arról, hogy van-e a 30. § (2) bekezdésének c) pontja szerinti lejárt esedékességű köztartozása,
