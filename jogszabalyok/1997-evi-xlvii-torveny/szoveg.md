@@ -444,7 +444,7 @@ részére kell átadni.
 
 ### IV. Fejezet — Vegyes és záró rendelkezések
 
-36. § A 2009. október 1-jét megelőzően kiállított, a gyógyszerek, gyógyászati segédeszközök, gyógyászati ellátások rendelésére szolgáló, kiállításuk időpontjában a hatályos jogszabályoknak megfelelő vények érvényességi idejükön belül kiválthatók. Ez a § 2010. október 1-jén hatályát veszti.
+36. §
 
 37. § (1) Az e törvény által nem szabályozott kérdésekben az Avtv., továbbá a TAJ szám kezelésére vonatkozóan a személyazonosító jel helyébe lépő azonosítási módokról és azonosítási kódokról szóló 1996. évi XX. törvény rendelkezéseit kell alkalmazni.
 
