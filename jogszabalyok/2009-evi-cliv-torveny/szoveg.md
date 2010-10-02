@@ -24,29 +24,11 @@ az egyes egészségügyi tárgyú törvények módosításáról
 
 17. §
 
-18. § (1) Az Ebtv. 31. §-a (3) bekezdésének bevezető mondata helyébe a következő szöveg lép:
-
-„A finanszírozási szerződés részét képezi”
-
-(2) Az Ebtv. 31. §-a (3) bekezdésének d) pontja helyébe a következő rendelkezés lép:
-
-[A finanszírozási szerződés részét képezi]
-
-„d) a külön jogszabályban meghatározott egyéb okirat, irat, adat.”
+18. §
 
 19. §
 
-20. § (1) Az Ebtv. 33. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A gyógyszer kiszolgáltatójával, gyógyászati segédeszköz forgalmazójával kötött ártámogatási szerződésben meg kell határozni
-
-a) az elszámolási gyakoriságot,
-
-b) az általánostól eltérő vagy jogszabályban nem szabályozott rendelkezéseket.”
-
-(2) Az Ebtv. 33. §-a (2) bekezdésének bevezető mondata helyébe a következő szöveg lép:
-
-„A szerződés részét képezi”
+20. §
 
 21–35. §
 
