@@ -307,7 +307,7 @@ a 90 000 forint feletti átlagkeresetrész tíz százalékát kell az
 
 (4) Nem jogosult öregségi teljes, illetve résznyugdíjra
 
-- a) az a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló közösségi rendelet hatálya alá tartozó személy, aki EGT-államban,
+- a) az a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek (a továbbiakban: uniós rendeletek) hatálya alá tartozó személy, aki EGT-államban,
 - b) az a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy – ha az egyezmény eltérően nem rendelkezik –, aki a szerződő államban
 
 – az igénylő nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – azon a napon, amelytől kezdődően az öregségi nyugdíjat megállapítják, a Tbj. 5. §-a (1) bekezdésének a)–b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszonyban áll.
@@ -334,7 +334,7 @@ a 90 000 forint feletti átlagkeresetrész tíz százalékát kell az
 
 (6) Nem jogosult előrehozott öregségi nyugdíjra és csökkentett összegű előrehozott öregségi nyugdíjra
 
-- a) az a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló közösségi rendelet hatálya alá tartozó személy, aki EGT-államban,
+- a) az az uniós rendeletek hatálya alá tartozó személy, aki EGT-államban,
 - b) az a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy – ha az egyezmény eltérően nem rendelkezik –, aki a szerződő államban
 
 – az igénylő nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – azon a napon, amelytől kezdődően az előrehozott öregségi nyugdíjat, illetve a csökkentett összegű előrehozott öregségi nyugdíjat megállapítják, a Tbj. 5. § (1) bekezdés a)–b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszonyban áll.
@@ -365,7 +365,7 @@ a 90 000 forint feletti átlagkeresetrész tíz százalékát kell az
 
 (5) Nem jogosult előrehozott öregségi nyugdíjra
 
-- a) az a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló közösségi rendelet hatálya alá tartozó személy, aki EGT-államban,
+- a) az az uniós rendeletek hatálya alá tartozó személy, aki EGT-államban,
 - b) az a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy – ha az egyezmény eltérően nem rendelkezik –, aki a szerződő államban
 
 – az igénylő nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – azon a napon, amelytől kezdődően az előrehozott öregségi nyugdíjat megállapítják, a Tbj. 5. § (1) bekezdés a)–b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszonyban áll.
@@ -692,7 +692,7 @@ kell keresetként figyelembe venni.
 
 (4) Az (1) bekezdés c) pontja alkalmazása során
 
-- a) a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló közösségi rendelet hatálya alá tartozó személy esetén EGT-államban,
+- a) az uniós rendeletek hatálya alá tartozó személy esetén EGT-államban,
 - b) a szociálpolitikai, szociális biztonsági egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban
 
 végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – az igénylő nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – figyelembe kell venni.
@@ -724,7 +724,7 @@ végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – a
 
 (6) Az (1) bekezdés b) pontja alkalmazása során
 
-- a) a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló közösségi rendelet hatálya alá tartozó személy esetén EGT-államban,
+- a) az uniós rendeletek hatálya alá tartozó személy esetén EGT-államban,
 - b) a szociálpolitikai, szociális biztonsági egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban
 
 végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – a nyugdíjas nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – figyelembe kell venni.
@@ -745,7 +745,7 @@ végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – a
 
 (4) Az (1) bekezdés b) pontja alkalmazása során
 
-- a) a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló közösségi rendelet hatálya alá tartozó személy esetén EGT-államban,
+- a) az uniós rendeletek hatálya alá tartozó személy esetén EGT-államban,
 - b) a szociálpolitikai, szociális biztonsági egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban
 
 végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – az igénylő nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – figyelembe kell venni.
@@ -771,7 +771,7 @@ végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – a
 
 (5) Az (1) bekezdés b) pontja alkalmazása során
 
-- a) a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló közösségi rendelet hatálya alá tartozó személy esetén EGT-államban,
+- a) az uniós rendeletek hatálya alá tartozó személy esetén EGT-államban,
 - b) a szociálpolitikai, szociális biztonsági egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban
 
 végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – a nyugdíjas nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – figyelembe kell venni.

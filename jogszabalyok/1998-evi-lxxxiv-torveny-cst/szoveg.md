@@ -17,7 +17,7 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 - a) magyar állampolgárra,
 - b) bevándorolt vagy letelepedett jogállású, továbbá a magyar hatóság által menekültként, illetve hontalanként elismert személyekre,
 - c) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát a Magyar Köztársaság területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik,
-- d) – az anyasági támogatás (IV. fejezet) kivételével – a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra és családtagjaikra történő alkalmazásáról szóló, 1971. június 14-i 1408/71/EGK tanácsi rendeletben meghatározott jogosulti körbe tartozó személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát a Magyar Köztársaság területén gyakorolja, és – a határ menti ingázó munkavállalókat kivéve – a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik.
+- d) – az anyasági támogatás (IV. fejezet) kivételével – a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletekben (a továbbiakban: uniós rendeletek) meghatározott jogosulti körbe tartozó személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát a Magyar Köztársaság területén gyakorolja, és – a határ menti ingázó munkavállalókat kivéve – a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik.
 
 ### Alapelvek
 
@@ -302,14 +302,15 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 
 (2)
 
-(3) Ha a jogosult három hónapot meghaladó időtartamra távozik az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államnak, illetve annak az államnak a területére, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez, az ellátás részére a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK tanácsi rendeletben foglaltakra figyelemmel, külön jogszabályban meghatározottak szerint kerül továbbfolyósításra. Amennyiben
+(3) Az ellátás szünetel
 
-- a) a jogosult az előbbi körbe nem tartozó államba távozik három hónapot meghaladó időtartamra, távolléte alatt,
-- b) a külszolgálatot vagy külföldi szolgálatot teljesítő személy részére az e törvény alapján ellátásra jogosító gyermekre tekintettel külön jogszabály alapján egyéb ellátást folyósítanak, a folyósítás ideje alatt
+- a) a jogosult távolléte alatt, ha a jogosult három hónapot meghaladó időtartamra olyan államba távozik, amely nem
+  - aa) az Európai Unió tagállama,
+  - ab) az Európai Gazdasági Térségről szóló megállapodásban részes más állam,
+  - ac) olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez, vagy
+- b) az egyéb ellátás folyósításának időtartama alatt, ha a külszolgálatot vagy külföldi szolgálatot teljesítő személy részére az e törvény alapján ellátásra jogosító gyermekre tekintettel jogszabály alapján egyéb ellátást folyósítanak.
 
-az ellátás szünetel.
-
-(4) Amennyiben a munkavállalók Közösségen belüli szabad mozgásáról szóló 1612/68/EGK tanácsi rendelet vagy a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK tanácsi rendelet alapján a magyar állam a családi ellátások vonatkozásában a különbözet kifizetésére kötelezett, a kifizetést az éves költségvetésről szóló törvény családi pótlék előirányzatának terhére kell teljesíteni.
+(4) Amennyiben az uniós rendeletek alapján a magyar állam a családi ellátások vonatkozásában a különbözet kifizetésére kötelezett, a kifizetést az éves költségvetésről szóló törvény családi pótlék előirányzatának terhére kell teljesíteni.
 
 36. §
 
