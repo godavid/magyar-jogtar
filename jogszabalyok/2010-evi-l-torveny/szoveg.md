@@ -208,11 +208,7 @@ jelöltnek ajánlott.
 
 23. § E törvény a kihirdetése napján lép hatályba, rendelkezéseit a helyi önkormányzati képviselők és a polgármesterek 2010. évi általános választása során kell először alkalmazni.
 
-24. § (1) E törvény hatálybalépését követő 15 napon belül a lakosságszám-adatot nyilvántartó központi szerv közli a választási irodák vezetőivel a település, a fővárosi kerület, a főváros és a megye lakosságszámát.
-
-(2) A választási iroda vezetője e törvény hatálybalépését követő 30 napon belül megállapítja és közzéteszi a megszerezhető mandátumok számát.
-
-(3) A 10 000-nél több lakosú település és a fővárosi kerület választási iroda vezetője e törvény hatálybalépését követő 30 napon belül megállapítja az egyéni választókerületek sorszámát és területét.
+#### 24. §
 
 25. § Ez a törvény a Tanács 1994. december 19-i 94/80/EK az állampolgárságuktól eltérő tagállamban lakóhellyel rendelkező uniós polgárok aktív és passzív választójogának a helyhatósági választásokon történő gyakorlására vonatkozó részletes szabályok megállapításáról szóló irányelvének való megfelelést szolgálja.
 

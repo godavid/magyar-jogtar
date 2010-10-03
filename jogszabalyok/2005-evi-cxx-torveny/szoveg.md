@@ -25,7 +25,7 @@ Az Országgyűlés azon kötelezettségére tekintettel, hogy a közügyek szaba
 
 ### Az ekho választásának feltételei
 
-3. § (1) Ekhoval teljesíthető a közterhek megfizetése, ha a magánszemély – ideértve az EGT-állam olyan polgárát is, aki a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK rendelet alapján nem tartozik a magyar társadalombiztosítási jogszabályok hatálya alá, de biztosított személy valamely EGT-államban és rendelkezik az illetékes hatóság erre vonatkozó igazolásával (a továbbiakban: EGT-államban biztosított személy) –
+3. § (1) Ekhoval teljesíthető a közterhek megfizetése, ha a magánszemély – ideértve az EGT-állam olyan polgárát is, aki a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek alapján nem tartozik a magyar társadalombiztosítási jogszabályok hatálya alá, de biztosított személy valamely EGT-államban és rendelkezik az illetékes hatóság erre vonatkozó igazolásával (a továbbiakban: EGT-államban biztosított személy) –
 
 - a) az adóévben bármely tevékenységgel összefüggésben
   - aa) munkaviszonyból származó,

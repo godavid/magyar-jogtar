@@ -110,7 +110,7 @@ eltérően nem rendelkezik, a szolgáltató szabadon választhatja meg az által
 - e) a bíróság előtti eljárásban a felek képviseletére való jogosultságra, valamint a kötelező jogi képviseletre vagy közjegyző kötelező igénybevételére vonatkozó jogszabályi rendelkezéseket,
 - f) a szellemi alkotásokhoz fűződő jogok létrejöttére, fennállására és érvényesítésére vonatkozó rendelkezéseket,
 - g) a külföldiek beutazására és magyarországi tartózkodására vonatkozó követelményeket,
-- h) a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK rendelet és az annak végrehajtására elfogadott jogszabályi rendelkezések szerinti követelményeket,
+- h) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti követelményeket,
 - i) a munkavállalónak külföldi munkáltató által a Magyar Köztársaság területén kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében történő foglalkoztatása esetén a munka törvénykönyvéről szóló törvény szerint alkalmazandó szabályokat, valamint
 - j) a külföldi tulajdonú gépjárművek belföldi közúti forgalomban való részvételével összefüggő jogszabályi rendelkezéseket.
 

@@ -3235,6 +3235,8 @@ Mosonszentmiklós
 
 Mosonszolnok
 
+Mosonudvar
+
 Püski
 
 Rajka
@@ -7162,6 +7164,8 @@ Sümegcsehi
 Szalapa
 
 Szentgyörgyvár
+
+Tekenye
 
 Tilaj
 
