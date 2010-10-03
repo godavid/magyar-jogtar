@@ -73,7 +73,7 @@ terjed ki.
 
 8. § Államközi vagy kormányközi egyezmény, illetve viszonosság alapján igénybe vett egészségbiztosítási ellátások tekintetében e törvény rendelkezéseit az abban foglalt eltérésekkel kell alkalmazni. A viszonosság fennállása tekintetében a külpolitikáért felelős miniszter állásfoglalása irányadó.
 
-8/A. § (1) E törvény rendelkezéseit a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló 1408/71/EGK rendelet (a továbbiakban: Közösségi rendelet) hatálya alá tartozó személyekre és ellátásokra a Közösségi rendeletben meghatározott módon kell alkalmazni.
+8/A. § (1) E törvény rendelkezéseit a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek (a továbbiakban: uniós rendeletek) hatálya alá tartozó személyekre és ellátásokra az uniós rendeletekben meghatározott módon kell alkalmazni.
 
 (2) E törvény rendelkezéseit a nemzetközi egyezmény hatálya alá tartozó személyre az egyezmény szabályai szerint kell alkalmazni.
 
@@ -294,7 +294,7 @@ terjed ki.
 
 - a) a Tbj. 5. §-a szerinti biztosított,
 - b) a Tbj. 16. §-ának (1) bekezdése alapján egészségügyi szolgáltatásra jogosult személy,
-- c) az a)–b) pont hatálya alá nem tartozó személyek közül az, akinek egészségbiztosítója az ellátás igénybevételét a Közösségi rendelet 22. cikke 1. bekezdésének c) pontja, illetve kétoldalú egyezmény alapján előzetesen, vagy az egyezményben meghatározottak szerint engedélyezte.
+- c) az a)–b) pont hatálya alá nem tartozó személyek közül az, akinek egészségbiztosítója az ellátás igénybevételét az uniós rendeletek, illetve kétoldalú egyezmény alapján előzetesen, vagy az egyezményben meghatározottak szerint engedélyezte.
 
 (6) A biztosított jogosult a kezelőorvosánál mindazon vizsgálatok kezdeményezésére és – a kezelőorvos javaslata alapján – elvégeztetésére, amelyek a várakozás sorrendjét befolyásoló egészségi állapotváltozás megállapításához szükségesek.
 
@@ -449,15 +449,15 @@ egészségügyi szolgáltatások
 
 (2) Amennyiben a biztosított munkáltatója a Tbj. szerinti biztosítási jogviszony fenntartása mellett egybefüggően három hónapot meghaladó időtartamra a biztosítottat harmadik állam területén foglalkoztatja, és ez idő alatt a biztosított, illetve a vele együtt harmadik állam területén tartózkodó eltartott házastársa és gyermeke a 12–14. §-okban, továbbá a 15. § (1) bekezdésében meghatározott valamely egészségügyi szolgáltatást, továbbá sürgősségi betegszállítást indokoltan vesz igénybe harmadik állam területén lévő tartózkodási helyén, az egészségbiztosító a felmerült és igazolt költségeket, az igénybevétel idején érvényes belföldi költség mértékének megfelelő összegben, sürgősségi betegszállítás esetén a számla szerinti összegnek a Magyar Nemzeti Bank által közzétett, az igénybevételkor érvényes középárfolyamon számított forint összegben megtéríti.
 
-(3) Amennyiben a biztosított a Közösségi rendelet hatálya alá tartozik, EGT tagállam területén egészségügyi szolgáltatást a Közösségi rendelet rendelkezései szerint vehet igénybe.
+(3) Amennyiben a biztosított az uniós rendeletek hatálya alá tartozik, EGT tagállam területén egészségügyi szolgáltatást az uniós rendeletek rendelkezései szerint vehet igénybe.
 
 (4) A (2) bekezdés szerinti foglalkoztatás esetében a biztosított és a vele együtt ott tartózkodó eltartott házastársa és gyermeke nem Magyarországon történő egészségügyi ellátása akkor fogadható el indokoltan igénybe vettnek, ha eleget tettek a külön jogszabályban foglaltak szerint a nem Magyarországon történő munkavégzésre való alkalmasság megállapítását célzó orvosi vizsgálati kötelezettségüknek.
 
 (5) A (2) bekezdésben foglaltaktól eltérően a közszolgálati vagy közalkalmazotti jogviszonyban álló tartósan harmadik államban foglalkoztatott biztosított, a vele együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke által indokoltan igénybe vett egészségügyi ellátás külföldön felmerült és igazolt költségének 85 százalékát az egészségbiztosító megtéríti.
 
-(6) Amennyiben a biztosított – ide nem értve a megállapodás alapján egészségügyi szolgáltatásra jogosultakat – EGT tagállam területén a 11. § (1) bekezdésének b) és c) pontjaiban, a 12. § (1) bekezdésében és a 13. § a) és b) pontjaiban meghatározott egészségügyi szolgáltatást nem a Közösségi rendelet alapján vesz igénybe, az egészségbiztosító a felmerült és igazolt költségeket az igénybevétel idején érvényes belföldi költség, legfeljebb azonban a tényleges költség mértékének megfelelő összegben megtéríti.
+(6) Amennyiben a biztosított – ide nem értve a megállapodás alapján egészségügyi szolgáltatásra jogosultakat – EGT tagállam területén a 11. § (1) bekezdésének b) és c) pontjaiban, a 12. § (1) bekezdésében és a 13. § a) és b) pontjaiban meghatározott egészségügyi szolgáltatást nem az uniós rendeletek alapján vesz igénybe, az egészségbiztosító a felmerült és igazolt költségeket az igénybevétel idején érvényes belföldi költség, legfeljebb azonban a tényleges költség mértékének megfelelő összegben megtéríti.
 
-(7) A (3) bekezdéstől eltérően a közszolgálati vagy közalkalmazotti jogviszonyban álló tartósan valamely EGT tagállamban foglalkoztatott biztosított, a vele együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke választhat, hogy a kiküldetés helye szerinti EGT tagállamban az egészségügyi szolgáltatást a Közösségi rendelet rendelkezései szerint veszi igénybe, vagy az általa indokoltan igénybe vett egészségügyi ellátás felmerült és igazolt költsége 85 százalékának megtérítését kéri az egészségbiztosítótól.
+(7) A (3) bekezdéstől eltérően a közszolgálati vagy közalkalmazotti jogviszonyban álló tartósan valamely EGT tagállamban foglalkoztatott biztosított, a vele együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke választhat, hogy a kiküldetés helye szerinti EGT tagállamban az egészségügyi szolgáltatást az uniós rendeletek rendelkezései szerint veszi igénybe, vagy az általa indokoltan igénybe vett egészségügyi ellátás felmerült és igazolt költsége 85 százalékának megtérítését kéri az egészségbiztosítótól.
 
 (8) Az (1)–(2) és (6) bekezdés szerinti belföldi költségek – ideértve az egészségbiztosításért felelős miniszter által elismert határon átnyúló egészségügyi együttműködés keretében nyújtott szolgáltatások költségeit is – megtérítésének módját és feltételeit a kormány rendeletben állapítja meg.
 
@@ -465,7 +465,7 @@ egészségügyi szolgáltatások
 
 (10) Amennyiben a biztosított valamely EGT tagállam területén ellátást vesz igénybe, az egészségbiztosító engedélyezheti a magyarországi egészségügyi szolgáltatóhoz történő szállítás megtérítését.
 
-(11) A biztosított által valamely EGT tagállam területén történő ideiglenes tartózkodása során igénybe vett egészségügyi szolgáltatásra – a Közösségi rendelet szerint – jogosító, az egészségbiztosító által kibocsátott Európai Egészségbiztosítási Kártyát (a továbbiakban: EU-Kártya), illetve az azt helyettesítő nyomtatványt az egészségbiztosító a biztosított kérelmére, a (12) bekezdésben foglaltak kivételével díjmentesen, a külön jogszabályban foglaltak figyelembevételével bocsátja a biztosított rendelkezésére.
+(11) A biztosított által valamely EGT tagállam területén történő ideiglenes tartózkodása során igénybe vett egészségügyi szolgáltatásra – az uniós rendeletek szerint – jogosító, az egészségbiztosító által kibocsátott Európai Egészségbiztosítási Kártyát (a továbbiakban: EU-Kártya), illetve az azt helyettesítő nyomtatványt az egészségbiztosító a biztosított kérelmére, a (12) bekezdésben foglaltak kivételével díjmentesen, a külön jogszabályban foglaltak figyelembevételével bocsátja a biztosított rendelkezésére.
 
 (12) Az EU-Kártya kiadásáért az általános tételű eljárási illetéknek megfelelő összegű igazgatási szolgáltatási díjat kell fizetnie a biztosítottnak, ha annak kiadása a még érvényes EU-Kártyának a jogosult birtokából való kikerülése (lopás, elvesztés, megsemmisülés) vagy megrongálódása miatt vált szükségessé.
 
@@ -1166,7 +1166,7 @@ bírálja el és folyósítja.
 
 (6) A jogalap nélkül felvett ellátással kapcsolatban a közrehatás arányában megállapított megtérítési kötelezettség nem módosítható azon a címen, hogy a visszafizetésre kötelezettől az őt terhelő rész nem hajtható be, illetőleg azt mérsékelték, vagy elengedték.
 
-(7) Az a személy, aki EU-Kártyával vagy az azt helyettesítő nyomtatvánnyal, valamint a közösségi rendelet szerinti egyéb nyomtatvánnyal úgy vett igénybe egészségügyi szolgáltatást valamely EGT tagállamban, hogy a 6–7. §-ok és a 8/A. § alapján nem volt jogosult annak igénybevételére, köteles az egészségügyi szolgáltatás E. Alapot terhelő költségeit megtéríteni.
+(7) Az a személy, aki EU-Kártyával vagy az azt helyettesítő nyomtatvánnyal, valamint az uniós rendeletek szerinti egyéb nyomtatvánnyal úgy vett igénybe egészségügyi szolgáltatást valamely EGT tagállamban, hogy a 6–7. §-ok és a 8/A. § alapján nem volt jogosult annak igénybevételére, köteles az egészségügyi szolgáltatás E. Alapot terhelő költségeit megtéríteni.
 
 67. § (1) A foglalkoztató köteles megtéríteni az üzemi baleset vagy foglalkozási megbetegedések miatt felmerült egészségbiztosítási ellátást, ha a baleset vagy megbetegedés annak a következménye, hogy ő vagy megbízottja a reá nézve kötelező munkavédelmi szabályokban foglalt kötelezettségének nem tett eleget, illetőleg ha ő vagy alkalmazottja (tagja) a balesetet szándékosan idézte elő.
 
@@ -1290,7 +1290,7 @@ bírálja el és folyósítja.
 
 (4) A társadalombiztosítási kifizetőhellyel rendelkező munkáltató a biztosítás megszűnését követően folyósított táppénzről, terhességi-gyermekágyi segélyről és gyermekgondozási díjról az Art. 16. §-ának (4) bekezdésében meghatározott adatok feltüntetésével a folyósított ellátás kezdő és befejező időpontját követő 8 napon belül elektronikus úton köteles bejelentést tenni az egészségbiztosítónak.
 
-(5) Ha a Közösségi rendelet vagy a Magyar Köztársaság által kötött nemzetközi egyezmény hatálya alá tartozó személy, valamint a Tbj. 11. §-a a) pontjának hatálya alá tartozó magyar állampolgár TAJ számmal rendelkezik, köteles a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosítását és annak megszűnését 15 napon belül bejelenteni az egészségbiztosítónak.
+(5) Ha az uniós rendeletek vagy a Magyar Köztársaság által kötött nemzetközi egyezmény hatálya alá tartozó személy, valamint a Tbj. 11. §-a a) pontjának hatálya alá tartozó magyar állampolgár TAJ számmal rendelkezik, köteles a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosítását és annak megszűnését 15 napon belül bejelenteni az egészségbiztosítónak.
 
 (6) Aki az e törvényben meghatározott bejelentési, nyilvántartási, adatszolgáltatási kötelezettséget nem vagy késedelmesen teljesíti, illetőleg annak nem az előírt módon tesz eleget, természetes személy 10 ezertől 100 ezer forintig, a Tbj. 4. § a)–b) pontjában meghatározott foglalkoztató, és egyéni vállalkozó 100 ezer forinttól 1 millió forintig terjedő összegű, az elkövetett mulasztással arányos mulasztási bírság fizetésére kötelezhető. A mulasztási bírságot kiszabó elsőfokú végzés ellen önálló fellebbezésnek van helye.
 

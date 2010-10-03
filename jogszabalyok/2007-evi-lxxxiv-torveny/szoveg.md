@@ -28,7 +28,7 @@ Az Országgyűlés az egészségkárosodást szenvedett személyek megmaradt, fe
 
 (2) E törvény hatálya a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 1. §-ában meghatározott személyre akkor terjed ki, ha az érintett személy az ellátás igénylésének időpontjában a szabad mozgáshoz és tartózkodáshoz való jogát a Magyar Köztársaság területén gyakorolja.
 
-(3) E törvény rendelkezéseit a szociális biztonsági rendszerek koordinációjáról szóló közösségi rendeletek hatálya alá tartozó személyre és ellátásra a közösségi rendeletek, a szociális biztonsági tárgyú nemzetközi egyezmény hatálya alá tartozó személyre az egyezmény szabályai szerint kell alkalmazni.
+(3) E törvény rendelkezéseit a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek (a továbbiakban: uniós rendeletek) hatálya alá tartozó személyre és ellátásra a közösségi rendeletek, a szociális biztonsági tárgyú nemzetközi egyezmény hatálya alá tartozó személyre az egyezmény szabályai szerint kell alkalmazni.
 
 ### A rehabilitációs járadékra való jogosultság
 
@@ -52,7 +52,7 @@ Az Országgyűlés az egészségkárosodást szenvedett személyek megmaradt, fe
 
 (4) Az (1) bekezdés a) pont aa) és ab) alpontja alkalmazása során
 
-- a) a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló közösségi rendelet hatálya alá tartozó személy esetén EGT-államban,
+- a) az uniós rendeletek hatálya alá tartozó személy esetén EGT-államban,
 - b) a szociálpolitikai, szociális biztonsági egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban
 
 végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – az igénylő nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – figyelembe kell venni.
@@ -69,7 +69,7 @@ végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – a
 
 (5) A (2) bekezdés alkalmazása során
 
-- a) a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló közösségi rendelet hatálya alá tartozó személy esetén EGT-államban,
+- a) az uniós rendeletek hatálya alá tartozó személy esetén EGT-államban,
 - b) a szociálpolitikai, szociális biztonsági egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban
 
 végzett keresőtevékenységet és ott szerzett nettó keresetet, jövedelmet is – a rehabilitációs járadékban részesülő nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – figyelembe kell venni.
@@ -205,7 +205,7 @@ miatt következett be.
 
 (7) Az (1) bekezdés e) pontja alkalmazása során
 
-- a) a szociális biztonsági rendszereknek a Közösségen belül mozgó munkavállalókra, önálló vállalkozókra és családtagjaikra történő alkalmazásáról szóló közösségi rendelet hatálya alá tartozó személy esetén EGT-államban,
+- a) az uniós rendeletek hatálya alá tartozó személy esetén EGT-államban,
 - b) a szociálpolitikai, szociális biztonsági egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban
 
 végzett keresőtevékenységet és az ott szerzett nettó keresetet, jövedelmet is – a rehabilitációs járadékban részesülő nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – figyelembe kell venni.
