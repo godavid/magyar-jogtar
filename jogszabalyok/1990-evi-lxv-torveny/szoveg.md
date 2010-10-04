@@ -121,7 +121,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 - a) zárt ülést tart választás, kinevezés, felmentés, vezetői megbízatás adása, illetőleg visszavonása, fegyelmi eljárás megindítása, fegyelmi büntetés kiszabása és állásfoglalást igénylő személyi ügy tárgyalásakor, ha az érintett a nyilvános tárgyalásba nem egyezik bele; továbbá önkormányzati, hatósági, összeférhetetlenségi és kitüntetési ügy, valamint vagyonnyilatkozattal kapcsolatos eljárás tárgyalásakor;
 - b) zárt ülést rendelhet el a vagyonával való rendelkezés és az általa kiírt pályázat tárgyalásakor, ha a nyilvános tárgyalás üzleti érdeket sértene.
 
-(5) A zárt ülésen a képviselő-testület tagjai, a kisebbségi szószóló és a jegyző, továbbá meghívása esetén az érintett és a szakértő vesz részt. Törvény előírhatja, mely esetben kötelező az érintett meghívása.
+(5) A zárt ülésen a képviselő-testület tagjai, a nem a képviselő-testület tagjai közül választott alpolgármester, a kisebbségi szószóló és a jegyző, továbbá meghívása esetén az érintett és a szakértő vesz részt. Törvény előírhatja, mely esetben kötelező az érintett meghívása.
 
 (6) A képviselő-testület a döntéseit (határozat, rendelet) nyílt szavazással hozza. Titkos szavazást tarthat a (4) bekezdésben foglalt ügyekben. A (3)—(5) bekezdésben foglaltak a bizottságra is vonatkoznak.
 
@@ -262,9 +262,13 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 (2) A bíróság eljárása során a polgári perrendtartásról szóló 1952. évi III. törvény rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a perben viszontkeresetnek, szünetelésnek és egyezségnek nincs helye.
 
-34. § (1) A képviselő-testület – a saját tagjai közül, a polgármester javaslatára, titkos szavazással – a polgármester helyettesítésére, munkájának a segítésére alpolgármestert választ, alpolgármestereket választhat. Az alpolgármester megbízatása a megválasztásával kezdődik és amennyiben az önkormányzati választáson települési képviselőnek megválasztották, akkor az új képviselő-testület alakuló üléséig tart. Ha az alpolgármestert az önkormányzati választáson települési képviselőnek nem választották meg, akkor az alpolgármesteri megbízatása a választás napjával megszűnik.
+34. § (1) A képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel a polgármester helyettesítésére, munkájának segítésére egy vagy több alpolgármestert választhat. A képviselő-testület legalább egy alpolgármestert saját tagjai közül választ meg. Az alpolgármester megbízatása megszűnik az új polgármester megválasztásával, valamint ha a képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel megbízását visszavonja.
 
-(2) Az alpolgármester a polgármester irányításával látja el feladatait.
+(2) Azon alpolgármester, akit nem a képviselő-testület tagjai közül választottak, nem tagja a képviselő-testületnek, a polgármestert a képviselő-testület elnökeként nem helyettesítheti, de a képviselő-testület ülésein tanácskozási joggal részt vesz. A nem a képviselő-testület tagjai közül választott alpolgármester jogállására egyebekben a képviselő-testület tagjai közül választott alpolgármesterre vonatkozó szabályokat kell alkalmazni.
+
+(3) Az alpolgármester a polgármester irányításával látja el feladatait.
+
+(4) Az alpolgármester megbízatása a megválasztásával kezdődik és amennyiben az önkormányzati választáson települési képviselőnek megválasztották, akkor az új képviselő-testület alakuló üléséig tart. Ha az alpolgármestert az önkormányzati választáson települési képviselőnek nem választották meg, akkor az alpolgármesteri megbízatása a választás napjával megszűnik.
 
 35. § (1) A polgármester az önkormányzati, valamint az államigazgatási feladatait, hatásköreit [7. § (1) és (2) bek.] a képviselő-testület hivatalának közreműködésével látja el.
 
@@ -512,7 +516,9 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 (4) A fővárosi közgyűlés ülésén a fővárosi közgyűlés szervezeti és működési szabályzatában meghatározott módon, tanácskozási joggal vesz részt a kerületi képviselő-testület által megbízott kerületi küldött.
 
-(5) A kerületben polgármestert, a fővárosban főpolgármestert választanak. A fővárosi közgyűlés — tagjai sorából titkos szavazással — főpolgármester-helyetteseket választhat.
+(5) A kerületben polgármestert, a fővárosban főpolgármestert választanak. A fővárosi közgyűlés a főpolgármester javaslatára titkos szavazással, minősített többséggel egy vagy több főpolgármester-helyettest választhat. A fővárosi közgyűlés legalább egy főpolgármester-helyettest saját tagjai közül választ meg. A főpolgármester-helyettes megbízatása megszűnik az új főpolgármester megválasztásával, valamint ha a fővárosi közgyűlés a főpolgármester javaslatára, titkos szavazással, minősített többséggel megbízását visszavonja.
+
+Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai közül választottak, nem tagja a fővárosi közgyűlésnek, a főpolgármestert a fővárosi közgyűlés elnökeként nem helyettesítheti. A fővárosi közgyűlés ülésein tanácskozási joggal vesz részt. A nem a fővárosi közgyűlés tagjai közül választott főpolgármester-helyettes jogállására egyebekben a fővárosi közgyűlés tagjai közül választott főpolgármester-helyettesre vonatkozó szabályokat kell alkalmazni.
 
 (6) A fővárosi kerületi képviselő-testület hivatalát a jegyző, a fővárosi közgyűlés hivatalát (a főpolgármesteri hivatalt) a főjegyző vezeti. A fővárosi közgyűlés — a 36. § (1) bekezdésében foglalt szabályok szerint — több aljegyzőt is kinevezhet.
 
@@ -735,7 +741,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 73. § A megyei közgyűlés elnökét a megyei közgyűlés — saját tagjai sorából — titkos szavazással választja a megbízatásának időtartamára.
 
-74. § (1) A megyei közgyűlés tisztségviselői: az elnök, a saját tagjai közül választott alelnök (alelnökök), akiket a közgyűlés titkos szavazással választ.
+74. § (1) A megyei közgyűlés tisztségviselői: az elnök, egy vagy több alelnök. A megyei közgyűlés a megyei közgyűlés elnökének javaslatára titkos szavazással, minősített többséggel egy vagy több alelnököt választhat. A megyei közgyűlés legalább egy alelnököt saját tagjai közül választ meg. A megyei közgyűlés alelnökének megbízatása megszűnik a megyei közgyűlés új elnökének megválasztásával, valamint ha a megyei közgyűlés az elnök javaslatára titkos szavazással, minősített többséggel megbízását visszavonja. Azon megyei közgyűlési alelnök, akit nem a megyei közgyűlés tagjai közül választottak, nem tagja a megyei közgyűlésnek, a megyei közgyűlés elnökét, mint a testület elnökét nem helyettesítheti, a megyei közgyűlés ülésein tanácskozási joggal vesz részt. A nem a megyei közgyűlés tagjai közül választott alelnök jogállására egyebekben a megyei közgyűlés tagjai közül választott alelnökre vonatkozó szabályokat kell alkalmazni.
 
 (2) A megyei közgyűlés köteles megalakítani a pénzügyi bizottságát. Emellett a megyei közgyűlés meghatározott feladatainak eredményesebb ellátása érdekében — a tanácsnoknak választott megyei képviselők és más megyei képviselők tagsági többségét biztosítva — szabadon alakíthat bizottságokat. A megyei közgyűlés a bizottság további tagjait a szolgáltatást nyújtók és igénybe vevők, valamint a szolgáltatásban más módon érdekeltek képviselőiből választja meg. A bizottság elnöke megyei tanácsnok.
 
@@ -1074,7 +1080,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 103. § (1) E törvény alkalmazásában:
 
-- a) a képviselő-testület hatáskörébe tartozó választás, kinevezés, vezetői megbízás joga — az alpolgármester, főpolgármester-helyettes, megyei közgyűlés elnöke, alelnöke választásának kivételével — magában foglalja a felmentés, a megbízás visszavonásának jogát;
+- a) a képviselő-testület hatáskörébe tartozó választás, kinevezés, vezetői megbízás joga – a megyei közgyűlés elnöke kivételével – magában foglalja a felmentés, a megbízás visszavonásának jogát;
 - b) az egyéb munkáltatói jogon a kinevezés, vezetői megbízás, felmentés, vezetői megbízás visszavonása, az összeférhetetlenség megállapítása, fegyelmi eljárás megindítása, a fegyelmi büntetés kiszabása kivételével minden más munkáltatói jogot kell érteni;
 - c) az intézmény alapításának joga magában foglalja az intézmény megszüntetésének, átszervezésének jogát;
 - d) a 36. § (2) bekezdés b) pontjában említett munkáltatói jog magába foglalja a képviselő-testület hivatala ügykezelő és fizikai alkalmazottai feletti munkáltatói jogot is.
