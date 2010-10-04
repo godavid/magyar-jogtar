@@ -38,7 +38,8 @@ a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormán
 
 - a) az önkormányzati választás napján, ha nem választották meg önkormányzati képviselőnek,
 - b) amennyiben önkormányzati képviselőnek megválasztották, akkor a képviselő-testület alakuló ülésén új alpolgármester megválasztásával,
-- c) továbbá az (1) bekezdés b), d–j) pontjaiban foglalt esetekben. [d) ha a képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel megbízását visszavonja.]
+- c) továbbá az (1) bekezdés b), d–j) pontjaiban foglalt esetekben.
+- d) ha a képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel megbízását visszavonja.
 
 (3) A polgármester foglalkoztatási jogviszonya megszűnik:
 
@@ -50,6 +51,8 @@ a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormán
 (5) A polgármestert, ha e tisztségét legalább két évig betöltötte és foglalkoztatási jogviszonya az (1) bekezdés a), d)–e) pontja alapján szűnt meg – az a) pont esetén akkor is, ha a választáson nem volt polgármesterjelölt – végkielégítésként három havi illetményének megfelelő összegű juttatás illeti meg; továbbá részére az új képviselő-testület további három havi illetménynek megfelelő juttatást adhat. Ez a juttatás nem illeti meg, ha országgyűlési képviselő, alpolgármesteri foglalkoztatási vagy más önkormányzatnál polgármesteri jogviszonyt létesít.
 
 (6) Ha az alpolgármestert a képviselő-testület az alakuló ülésén nem választja meg alpolgármesternek, de az azt követő három hónapon belül megválasztják, akkor az (5) bekezdés szerinti juttatás időarányos részét vissza kell fizetnie, és a kiesett időtartam közszolgálati jogviszonyban töltött időnek számít.
+
+2/A. § Ha a képviselő-testület az alpolgármester megbízását a 2. § (2) bekezdés d) pontja alapján nem vonja vissza és a polgármester az alpolgármester feladatait írásban, teljes körűen megvonja, a feladatkör megvonását követően az alpolgármester a helyi önkormányzati képviselők tiszteletdíjával azonos mértékű illetményre – társadalmi megbízatású alpolgármester esetén tiszteletdíjra – jogosult.
 
 ### Díjazás
 
