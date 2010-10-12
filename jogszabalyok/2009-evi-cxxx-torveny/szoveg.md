@@ -8056,6 +8056,10 @@ Jogi segítségnyújtás (20. cím, 1. alcím, 4. jogcím-csoport)
 
 Bűncselekmények áldozatainak kárenyhítése (20. cím, 1. alcím, 5. jogcím-csoport)
 
+XIV. Belügyminisztérium fejezetben
+
+Katasztrófa elhárítási célelőirányzatok (20. cím, 1. alcím 34. jogcím-csoport)
+
 XVI. KÖRNYEZETVÉDELMI ÉS VÍZÜGYI MINISZTÉRIUM fejezetben
 
 Gazdálkodó szervezetek által befizetett termékdíj-visszaigénylés kifizetése (10. cím, 2. alcím, 38. jogcím-csoport)
