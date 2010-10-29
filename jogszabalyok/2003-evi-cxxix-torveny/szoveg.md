@@ -352,6 +352,10 @@ Az Országgyűlés a közpénzek ésszerű felhasználása átláthatóságának
 
 21/A. § A 4. melléklet szerinti szolgáltatások esetében egyszerű eljárás (harmadik rész) alkalmazható. Ha a közbeszerzés tárgya olyan összetett szolgáltatás, amely a 3. melléklet, valamint a 4. melléklet szerinti valamely szolgáltatást is magában foglalja, az egyszerű eljárás alkalmazható, feltéve, hogy a 4. melléklet szerinti szolgáltatás értéke meghaladja a 3. melléklet szerinti szolgáltatás értékét.
 
+21/B. § (1) A 4. melléklet szerinti jogi szolgáltatások megrendelése esetében az ajánlatkérőnek nem kell közbeszerzési eljárást lefolytatnia. Az ajánlatkérőnek a szerződés megkötéséről szóló tájékoztatót tartalmazó hirdetményt külön jogszabályban meghatározott minta szerint kell elkészítenie. A hirdetményt – a 44. § (1) bekezdése szerinti közzétételre – legkésőbb a szerződéskötéstől számított öt munkanapon belül kell megküldeni. A hirdetményben az ajánlatkérőnek nyilatkoznia kell, hogy egyetért-e a hirdetmény közzétételével; ha nem ért egyet, a hirdetmény nem kerül közzétételre. Ez a nyilatkozat azonban nem érinti a 47. § (1) bekezdése szerinti közzétételt a Közbeszerzési Értesítőben.
+
+(2) Az (1) bekezdés szerinti szerződéskötés nem érinti a 16. § megfelelő alkalmazását.
+
 ### Ajánlatkérők
 
 22. § (1) E fejezet alkalmazásában ajánlatkérők:
@@ -2058,6 +2062,8 @@ Az Országgyűlés a közpénzek ésszerű felhasználása átláthatóságának
 
 (2)
 
+161/B. § A 4. melléklet szerinti jogi szolgáltatások megrendelése esetében az ajánlatkérő a 21/B. §-ban meghatározott módon is eljárhat.
+
 ### Ajánlatkérők
 
 162. § (1) E fejezet alkalmazásában ajánlatkérők a következő szervezetek, ha a 163. §-ban meghatározott tevékenységek valamelyikét folytatják:
@@ -2775,7 +2781,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 - a) a 29. § szerinti kivételek esetében azzal, hogy az (1) bekezdésének a) pontja szerinti kivétel nem igényel előzetes döntéshozatalt;
 - b) tankönyv beszerzésére, amennyiben arra a tankönyvpiac rendjéről szóló törvényben meghatározottak szerint, az iskolai tankönyvellátás keretében kerül sor és a tankönyv szerepel a tankönyvjegyzékben;
-- c) a 4. számú melléklet szerinti jogi szolgáltatások és a hivatalos közbeszerzési tanácsadói tevékenység esetében, ha a szolgáltatás értéke nem éri el a közösségi értékhatárt;
+- c) a 4. melléklet szerinti jogi szolgáltatások és hivatalos közbeszerzési tanácsadói tevékenység esetében;
 - d) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény alapján gyermekotthonban, illetve lakásotthonban elhelyezett gyermekek teljes ellátására, illetőleg utógondozói ellátásban részesülők, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti lakóotthonban élő személyek teljes ellátására szolgáló árubeszerzés és szolgáltatás megrendelése esetén;
 - e) a 4. sz. melléklet szerinti szállodai és éttermi szolgáltatásokra, szórakoztató, kulturális és sportszolgáltatásokra ha a szolgáltatás értéke nem éri el a közösségi értékhatárt;
 - f) külügyi segélyezés keretében humanitárius segítségnyújtás céljából, válságkezelés során történő beszerzésre, amelynek vonatkozásában az Országgyűlés illetékes bizottsága e törvény alkalmazását kizáró előzetes döntést hozott;
