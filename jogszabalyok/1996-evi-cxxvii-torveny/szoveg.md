@@ -279,7 +279,7 @@ Az Országgyűlés a véleménynyilvánítás és a tájékozódás szabadsága,
 
 (5) Az országgyűlési határozatban kell rendelkezni annak hatálybalépéséről és az e § szerinti feladatok végrehajtásának határidejéről.
 
-36/B. § (1) Az Országgyűlés határozatban rendelkezik a Magyar Távirati Iroda Zrt. vagyonának arról a részéről, amelynek vonatkozásában a tulajdonosi jogok és kötelezettségek összességét a Műsorszolgáltatás Támogató és Vagyonkezelő Alap gyakorolja. A Műsorszolgáltatás Támogató és Vagyonkezelő Alapra vonatkozó szabályokat az Rttv. tartalmazza.
+36/B. § (1) Az Országgyűlés határozatban rendelkezik a Magyar Távirati Iroda Zrt. vagyonának térítésmentes állami tulajdonba adásáról, mely vagyon vonatkozásában a tulajdonosi jogok és kötelezettségek összességét a Műsorszolgáltatás Támogató és Vagyonkezelő Alap gyakorolja. A Közszolgálati Közalapítvány a Magyar Távirati Iroda Zrt. vezérigazgatójának javaslatára dönt a részvénytársaság működéséhez szükséges vagyonának, valamint a jogi személyiségéhez közvetlenül kapcsolódó vagyoni értékű jogosultságoknak arról a köréről, amely a részvénytársaság tulajdonában marad.
 
 (2) Az (1) bekezdés szerinti országgyűlési határozatban rendelkezik az Országgyűlés az (1) bekezdés szerinti – tulajdonosi jogok és kötelezettségek összességének gyakorlását eredményező – vagyonátadás módjáról, ütemezéséről és az ütemezés időpontjairól. A vagyonátadás befejezési határidejét az (1) bekezdés szerinti országgyűlési határozatban kell szabályozni. A vagyonátadással összefüggésben szükségessé váló részvénytársasági alaptőke leszállítása vonatkozásában a gazdasági társaságokról szóló 2006. évi IV. törvény 271–272. §-ában foglalt szabályok nem alkalmazhatók.
 
@@ -290,6 +290,10 @@ Az Országgyűlés a véleménynyilvánítás és a tájékozódás szabadsága,
 (5) Az (1) bekezdés szerinti országgyűlési határozat elfogadásához a jelenlevő országgyűlési képviselők 2/3-nak szavazata szükséges.
 
 (6) Az (1) bekezdés szerinti országgyűlési határozat elfogadásának határideje 2010. szeptember 30. Az országgyűlési határozatban kell rendelkezni annak hatálybalépéséről.
+
+(7) E § szerinti vagyonátadás nem minősül az általános forgalmi adóról szóló 2007. évi CXXVII. törvény hatálya alá tartozó ellenérték fejében teljesített termékértékesítésnek, a vagyonátadás általános forgalmi adó- és illetékmentes. A Műsorszolgáltatás Támogató és Vagyonkezelő Alap részére térítés nélkül átadott eszközöknek a számvitelről szóló 2000. évi C. törvény szerinti bekerülési értéke megfelel az eszközöknek az átadás időpontjában a Magyar Távirati Iroda Zrt. által vezetett könyv szerinti értékének.
+
+(8) A Magyar Távirati Iroda Zrt. e rendelkezés hatálybalépése előtt létrejött egyes szerződéses jogviszonyaiból eredő jogait és kötelezettségeit a többi szerződő fél hozzájárulásával, a maguk egészében és változatlan feltételekkel átruházhatja, illetve a többi szerződő fél kezdeményezésére köteles a maguk egészében és változatlan feltételekkel átruházni a Műsorszolgáltatás Támogató és Vagyonkezelő Alapra. Az átruházás folytán bekövetkező alanyváltozás nem érinti a szerződő felek eredeti jogait és kötelezettségeit. Erre tekintettel a szerződéses jogviszonyokban megvalósuló alanyváltozás nem tartozik a közbeszerzésekről szóló 2003. évi CXXIX. törvény alkalmazási körébe.
 
 36/C. § (1) A Tulajdonosi Tanácsadó Testület tagjainak megbízatása a Közszolgálati Közalapítvány Kuratóriuma tagjainak megválasztásával egyidejűleg megszűnik.
 

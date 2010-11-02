@@ -114,9 +114,9 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 
 (6) A Hatóság feladatát és hatáskörét önállóan, a jogszabályoknak megfelelően gyakorolja.
 
-(7) A Hatóság önállóan működő és gazdálkodó központi költségvetési szerv, amely a feladatai ellátásával összefüggő kiadásokat saját bevételéből fedezi. A Médiatanács gazdálkodási autonómiáját az Rttv. szabályozza.
+(7) A Hatóság a költségvetési szervek gazdálkodására vonatkozó jogszabályok értelemszerű alkalmazásával gazdálkodik, feladatai ellátásával összefüggő kiadásokat saját bevételéből és költségvetési hozzájárulásból fedezi. A Hatóság egységes költségvetését az Országgyűlés önálló törvényben a (8) bekezdésben meghatározott források terhére hagyja jóvá, melyben egyúttal dönt a Hatóság előző évi költségvetésében esetlegesen képződött maradvány felhasználásáról. Az Elnök jogosult a jóváhagyott költségvetés kiadási előirányzatai közötti átcsoportosításra. A törvényjavaslatot az Országgyűlés költségvetési ügyekben illetékes bizottsága a tárgyévet megelőző év október 31-ig – a Hatóság szeptember 15-ig megküldött javaslata alapján – nyújtja be az Országgyűlésnek. A Médiatanács gazdálkodási autonómiáját az Rttv. szabályozza.
 
-(8) A Hatóság bevételét képezik a frekvencia díjak mindenkori költségvetési törvényben meghatározott része, az azonosítók lekötéséért és használatáért, továbbá a hatósági eljárásért fizetett díjak, valamint a felügyeleti díj, amelyeket a Hatóság hatékony, magas szakmai színvonalú működtetésére kell felhasználni. A befolyt bevételekről és azok felhasználásáról készült kimutatást a külön jogszabályban meghatározott tartalommal a Hatóság évente közzéteszi. A Médiatanács bevételeire vonatkozó szabályokat az Rttv. tartalmazza.
+(8) A Hatóság bevételét képezik a frekvencia díjak mindenkori költségvetési törvényben meghatározott része, az azonosítók lekötéséért és használatáért, továbbá a a hatósági eljárásért fizetett díjak, beszedett bírságok, a Műsorszolgáltatás Támogató és Vagyonkezelő Alap Rttv. 77. § (4) bekezdésében meghatározott forrásai közül a Médiatanács és hivatali szerve működési költségeinek fedezetére fordítható összeg, valamint a felügyeleti díj, amelyeket a Hatóság hatékony, magas szakmai színvonalú működtetésére kell felhasználni. A befolyt bevételekről és azok felhasználásáról készült kimutatást a külön jogszabályban meghatározott tartalommal a Hatóság évente közzéteszi. A Médiatanács bevételeire vonatkozó szabályokat az Rttv. tartalmazza.
 
 (9) A Hatóság tevékenységével összefüggésben felmerült költségek fedezése érdekében az elektronikus hírközlési szolgáltatók felügyeleti díjat kötelesek fizetni. A díj mértéke az elektronikus hírközlési szolgáltató elektronikus hírközlési szolgáltatásaiból származó előző évi nettó árbevételének legfeljebb 0,35%-a, előző évi árbevétel hiányában a tárgyévi árbevétel egész évre vetített időarányos része. A felügyeleti díj mértékét a törvény által megengedett határokon belül évente a miniszter rendeletben határozza meg.
 
@@ -125,6 +125,8 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 (11) Amennyiben a Hatóság e törvényben meghatározott bevételei egy költségvetési évben meghaladják a jogszabályban meghatározott feladatai ellátásához kapcsolódó kiadások összegét, a többletet a Hatóság éves beszámolójának elfogadását követően – a tárgyévben teljesített felügyeleti díjbefizetések arányában és legfeljebb azok mértékéig – a tárgyévet követő évben fizetendő felügyeleti díjban jóvá kell írni.
 
 (12) A Kormány nem polgári célú frekvenciagazdálkodással kapcsolatos közigazgatási feladatait a Kormányzati Frekvenciagazdálkodási Hatóság (a továbbiakban: KFGH) látja el.
+
+(12a) A Hatóság az elektronikus hírközlés területén a tudatos fogyasztói döntéshozatal kultúrájának fejlesztésére – így különösen a hírközlési jog, a verseny- és fogyasztóvédelmi politika körébe tartozó tudományos-oktatási programok támogatására, a hírközlési joggal, illetve fogyasztóvédelmi politikával foglalkozó szakemberek képzésére, a hírközlési politikával, valamint a fogyasztói döntéshozatallal és védelmével kapcsolatos tájékozottság növelése érdekében végzett tájékoztatásra – jogosult felhasználni az előző évben befolyt bírságok teljes összegét. A tárgyévben e célból rendelkezésre álló, de fel nem használt összeg a következő évre átvihető, és a tudatos fogyasztói döntéshozatal kultúrájának fejlesztésére fordítható.
 
 (13) A KFGH a Hivatal szervezetében és a főigazgató irányítása alatt önálló hatáskörű szervezeti egységként működik.
 
@@ -407,7 +409,7 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 19. § (1) A Hatóság esetében
 
 - a) a Ktv. 30/A. § (2) bekezdése szerint adományozható szakmai tanácsadói és szakmai főtanácsadói címmel rendelkezők aránya együttesen a Hatóság felsőfokú iskolai végzettségű köztisztviselői létszámának 35%-át nem haladhatja meg, és
-- b) – a Ktv. 44. § (1) bekezdésétől eltérően – a középiskolai végzettségű köztisztviselő illetménykiegészítésének mértéke az alapilletményének 35%-a.
+- b)
 
 (2)
 
@@ -473,6 +475,8 @@ alapelveit.
 25. § (1) A Hatóság a döntését az elektronikus aláírásról szóló 2001. évi XXXV. törvény szerinti elektronikus dokumentumba foglalhatja, valamint eljárása során köteles elektronikus dokumentumokat elfogadni.
 
 (2) A Hatóság a döntését elektronikus dokumentumként köteles kézbesíteni, amennyiben a szolgáltató elektronikus levélcímét bejelentette, ekkor a kézbesítés időpontjának azt az időpontot kell tekinteni, amikor az elektronikus dokumentum a címzett részére hozzáférhetővé válik, és a kézbesítés sikerességéről a Hatósághoz visszajelzés érkezik.
+
+(3) A Hatóság előírhatja, hogy az elektronikus hírközlési tevékenységet végző köteles az egyes eljárási cselekményeket, adatszolgáltatást elektronikus úton teljesíteni.
 
 ### Kizárás
 
@@ -2732,7 +2736,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 - 66. Közös eszközhasználat: az elektronikus hírközlési építmények, valamint az elektronikus hírközlő eszközök, így többek között az információs rendszerek közös használata. A helymegosztás a közös eszközhasználat különös formája.
 - 67. Közvetítő szolgáltató: azon elektronikus hírközlési szolgáltató, amely az előfizetői hozzáférést nyújtó szolgáltatóval kötött hálózati szerződése alapján biztosítja az előfizető választása szerinti esetekben a hívott előfizető vagy szolgáltatás elérését.
 - 68. Közvetítőválasztás: az elektronikus hírközlési szolgáltató előfizetőjének az a lehetősége, hogy a hívott előfizető vagy szolgáltatás eléréséhez megválassza a közvetítő szolgáltatót, amely az előfizetői hozzáférést nyújtó szolgáltatóval összekapcsoláson keresztül nyilvánosan elérhető telefonszolgáltatást nyújt, amely az alábbi módokon vehető igénybe: Közvetítő-előválasztás: az előfizető szerződésben köti ki a közvetítő szolgáltatót és a hívás közvetítőválasztó előtét alkalmazása nélkül lehetséges. Hívásonkénti közvetítőválasztás: az előfizető egy-egy híváshoz a közvetítő szolgáltatót szolgáltató-választó előtét tárcsázásával – az esetleges előválasztástól is eltérően – határozza meg.
-- 69. Közzététel: e törvény által a Hatóság számára közzétenni rendelt információ hozzáférhetővé tétele a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, az arra vonatkozó eljárás szerint, valamint a Hatóság internetes oldalain haladéktalanul.
+- 69. Közzététel: e törvény által a Hatóság számára közzétenni rendelt információ hozzáférhetővé tétele a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, az arra vonatkozó eljárás szerint, valamint a Hatóság internetes oldalain haladéktalanul. A közzététel időpontja az információ Hatóság internetes oldalain történő hozzáférhetővé tételének időpontja.
 - 70. Különleges jogok: korlátozott számú vállalkozásnak jogszabályban vagy közigazgatási határozatban, egy adott földrajzi területen belül biztosított jogok,
   - a) amelyek odaítélése során a feljogosított vállalkozások kijelölése, vagy azok számának korlátozása nem objektív, arányos és hátrányos megkülönböztetéstől mentes feltételek mellett történik, vagy
   - b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megkülönböztetéstől mentes feltételek mellett biztosítanak olyan jogszabályi vagy szabályozási előnyöket, amelyek jelentős mértékben befolyásolják más vállalkozások lehetőségét arra, hogy ugyanolyan elektronikus hírközlési tevékenységre vállalkozzanak, ugyanazon földrajzi területen belül, lényegében azonos feltételek mellett.
