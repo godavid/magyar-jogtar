@@ -2018,9 +2018,7 @@ rendeletben állapítsa meg.”
 
 (28) A bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény 119/A. §-ának (1) bekezdésében szereplő „– a lakáscélú állami támogatásokról szóló jogszabály szerint kamattámogatott – ”szövegrész helyébe az „állami kamattámogatású” szövegrész lép.
 
-53. § (1) A közteherviselés rendszerének átalakítását célzó törvénymódosításokról szóló 2009. évi LXXVII. törvény 226. §-ának (1) bekezdésében az „e törvény hatálybalépését megelőzően” szövegrész helyébe a „2009. december 31-éig” szövegrész; a „2009. december 31-éig kérheti” szövegrész helyébe a „2009. december 31-éig, illetve a társadalombiztosítási nyugellátást 2010. január 1-jét megelőző hatállyal megállapító első fokú határozat 2009. december 15-ét követő kézhezvétele esetén legkésőbb a határozat kézhezvételétől számított 15 napon belül kérheti” szövegrész lép.
-
-(2) E törvény kihirdetését követő napon hatályát veszti a közteherviselés rendszerének átalakítását célzó törvénymódosításokról szóló 2009. évi LXXVII. törvény 226. §-ának (2) bekezdése.
+53. §
 
 54. § (1) A bányászatról szóló 1993. évi XLVIII. törvény 46. § (2) bekezdésében az „az illetékes önkormányzat jegyzője” szövegrész helyébe az „a Kormány által rendeletben kijelölt szerv” szöveg lép.
 

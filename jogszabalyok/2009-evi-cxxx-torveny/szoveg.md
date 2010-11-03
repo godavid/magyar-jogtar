@@ -36,7 +36,7 @@ Az Országgyűlés a Magyar Köztársaság 2010. évi költségvetéséről az �
 
 ### HARMADIK Fejezet — A KÖZPONTI ALRENDSZER EGYES ELŐIRÁNYZATAINAK MEGÁLLAPÍTÁSÁVAL,TELJESÍTÉSÉVEL, ILLETŐLEG FELHASZNÁLÁSÁVAL KAPCSOLATOS RENDELKEZÉSEK
 
-### A központi alrendszer egyes tartalék-előirányzatai
+A központi alrendszer egyes tartalék-előirányzatai
 
 6. § (1) Céltartalék szolgál a X. Miniszterelnökség fejezet, 20. cím, 2. alcím, 1. Különféle kifizetések jogcím-csoporton
 
@@ -347,7 +347,7 @@ Az Országgyűlés a Magyar Köztársaság 2010. évi költségvetéséről az �
 
 ### NEGYEDIK Fejezet — A KÖZPONTI ALRENDSZEREN BELÜLI ELSZÁMOLÁSOK, KAPCSOLATOK
 
-### Az elkülönített állami pénzalapok kapcsolatai
+Az elkülönített állami pénzalapok kapcsolatai
 
 36. § A pénzalapok – a bevételek befolyása és a kiadások teljesítése időbeni ütemének eltérése esetén – a finanszírozási igényeik teljesítéséhez legfeljebb három hónapra, de a következő évre át nem húzódóan igénybe vehetik a KESZ-t. A KESZ igénybevételét a pénzügyminiszter engedélyezheti. Az engedélyre vonatkozó kérelmet a finanszírozási igény felmerülése előtt legalább 30 nappal kell benyújtani.
 
@@ -363,9 +363,7 @@ Az Országgyűlés a Magyar Köztársaság 2010. évi költségvetéséről az �
 
 (2) Az Ny. Alap részére a XXII. Pénzügyminisztérium fejezet, 26. cím, 1. alcím
 
-- a) 1. Magánnyugdíjpénztári tagdíjfizetés miatti járulékkiesés pótlására jogcím-csoport szerinti támogatás átutalása
-  - aa) január–november hónapokban a tárgyhó 10. napjáig az éves előirányzat havi időarányos összegével,
-  - ab) december hónapban az aa) pont szerinti átutalások összegének és a várható éves magánnyugdíjpénztári tagdíjbefizetés különbözetének összegével, legfeljebb az előirányzat mértékéig a tárgyhó utolsó kincstári napján,
+- a) 1. Magánnyugdíjpénztári tagdíjfizetés miatti járulékkiesés pótlására jogcímcsoport szerinti támogatás átutalása január–október hónapokban a tárgyhó 10. napjáig az éves előirányzat havi időarányos összegével történik, november–december hónapokban nem történik átutalás,
 - b) 2. A Nyugdíjbiztosítási Alap kiadásainak támogatása jogcím-csoport szerinti támogatás átutalása
   - ba) január–november hónapokban a tárgyhó 10. napjáig az éves előirányzat havi időarányos összegével,
   - bb) december hónapban a ba) pontban teljesített összegeket is figyelembe véve a tényleges éves bevételek és kiadások függvényében, legfeljebb az előirányzat mértékéig a tárgyhavi utolsó bevétel beérkezése és az utolsó ellátás kifizetése után történik.
@@ -412,7 +410,7 @@ Az Országgyűlés a Magyar Köztársaság 2010. évi költségvetéséről az �
 
 ### ÖTÖDIK Fejezet — AZ ÖNKORMÁNYZATI ÉS A KÖZPONTI ALRENDSZER KAPCSOLATAI
 
-### A helyi önkormányzatok, a települési és területi kisebbségi önkormányzatok központi alrendszerből származó forrásai
+A helyi önkormányzatok, a települési és területi kisebbségi önkormányzatok központi alrendszerből származó forrásai
 
 43. § (1) Az Országgyűlés a helyi önkormányzatok, valamint a települési és területi kisebbségi önkormányzatok és a többcélú kistérségi társulások normatív állami hozzájárulásának és normatív részesedésű átengedett személyi jövedelemadójának (a továbbiakban: normatív hozzájárulások) jogcímeit és fajlagos összegeit a 3. számú mellékletben foglaltak szerint állapítja meg.
 
@@ -481,7 +479,7 @@ Az Országgyűlés a Magyar Köztársaság 2010. évi költségvetéséről az �
 
 ### HATODIK Fejezet — A KÖZPONTI ALRENDSZER ÉS AZ ÁLLAMHÁZTARTÁSON KÍVÜLI SZERVEZETEK KAPCSOLATA
 
-### Az egyházak és társadalmi önszerveződések támogatása
+Az egyházak és társadalmi önszerveződések támogatása
 
 52. § (1) Az Országgyűlés a külön törvényben meghatározott szociális, gyermekjóléti, gyermekvédelmi, közoktatási, felsőoktatási, kulturális közfeladatot (a továbbiakban: humánszolgáltatások) ellátó intézményt fenntartó egyházi jogi személy, társadalmi szervezet, alapítvány, közalapítvány, országos kisebbségi önkormányzat, nonprofit gazdasági társaság, gazdasági társaság és a humánszolgáltatást alaptevékenységként végző, a személyi jövedelemadóról szóló 1995. évi CXVII. törvény hatálya alá tartozó egyéni vállalkozó (a továbbiakban együtt: nem állami intézmény fenntartója) részére működési és fenntartási célú normatív és egyéb hozzájárulást állapít meg a következők szerint:
 

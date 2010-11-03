@@ -17,22 +17,22 @@ Az állam az Alkotmányban foglalt elvek szerint a kötelező társadalombiztos�
 - a) az e törvény szerinti magánnyugdíjpénztárak (a továbbiakban: pénztár),
 - b) a pénztárak által e törvényben foglaltak szerint létrehozott szervezet, valamint a számukra e törvény szerint szolgáltatást nyújtó természetes és jogi személy, valamint jogi személyiség nélküli gazdasági társaság – a 4. § (2) bekezdés z) pontja szerinti szolgáltató – a pénztárak részére végzett tevékenysége tekintetében,
 - c) a pénztárak állami felügyeletét ellátó szervek,
-- d) azok a természetes személyek, akik a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény alapján pályakezdőnek minősülnek és törvény alapján kötelezően pénztártaggá válnak, illetőleg a pénztárba önkéntes döntés alapján beléptek,
+- d) a pénztár tagjai,
 - e) a pénztárakat alapító szervezetek.
 
 (2) A nemzetközi szerződések hatálya alá tartozó személyekre e törvény rendelkezéseit a nemzetközi szerződésben foglalt eltéréssel kell alkalmazni.
 
 (3) A pénztárak részére vagyonkezelési és letétkezelési tevékenységet végző pénzügyi intézményekre, befektetési vállalkozásokra és befektetési alapkezelőkre, és az ilyen tevékenységet végző egyéb szervezetekre a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényben (a továbbiakban: Bit.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben (a továbbiakban: Hpt.), a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.), a tőkepiacról szóló törvényben foglaltakon kívül e törvény rendelkezéseit is alkalmazni kell.
 
-3. § (1) Törvény alapján az a természetes személy válik pénztártaggá, aki Magyarországon első ízben létesít nyugdíjbiztosítási jogviszonyt, és ebben az időpontban még nem töltötte be a 35. életévét (a továbbiakban: pályakezdő).
+3. § (1)
 
-(2) Önkéntes döntése alapján pénztártaggá válhat az a pályakezdőnek nem minősülő természetes személy, aki
+(2) Önkéntes döntése alapján pénztártaggá válhat az a természetes személy, aki
 
 - a) Magyarországon nyugdíjbiztosítási jogviszonyban áll, és nem töltötte be a 30. életévét;
 - b) első ízben létesít Magyarországon nyugdíjbiztosítási jogviszonyt;
 - c) a Tbj.-ben meghatározottak szerinti harmadik állam állampolgára, illetőleg hontalan, ha Magyarországon nyugdíjbiztosítási jogviszonyban áll.
 
-(3) Nyugdíjbiztosítási jogviszony létesítése esetén a 35. életévét be nem töltött személy a jogviszony létrejöttét követő 15 napon belül nyilatkozik foglalkoztatójának – megállapodás kötése esetén a nyugdíjbiztosítási igazgatási szervnek – arról, hogy a kötelező pénztártagság létesítésének feltételei fennállnak-e. Ennek során – ilyen tartalmú nyilatkozat esetén – a korábban fennálló biztosítási jogviszonyt igazolni kell.
+(3)
 
 (4) A (2) bekezdés alapján pénztártagságot létesítő személynek nyilatkoznia kell arról, hogy a pénztártagság létesítésének jogszabályi feltételei fennállnak.
 
@@ -50,7 +50,7 @@ Az állam az Alkotmányban foglalt elvek szerint a kötelező társadalombiztos�
 
 - a) társadalombiztosítási nyugdíj: amit a Tny. társadalombiztosítási nyugellátásként megjelöl,
 - b) nyugdíjkorhatár: 1. az az életkor, melyet a Tny. az öregségi nyugdíjra való jogosultság feltételeként meghatároz, 2. a nyugdíjkorhatár betöltésével esik egy tekintet alá az az időpont, amelytől a pénztártag társadalombiztosítási nyugellátásban, így öregségi nyugdíjban (ideértve a korengedményes nyugdíjat, előnyugdíjat, bányásznyugdíjat, egyes művészeti tevékenységet folytatók öregségi nyugdíját, ideértve a Magyar Alkotóművészeti Közalapítvány által nyújtott öregségi nyugdíjat is, valamint a szolgálati nyugdíjat), a rokkantsági és baleseti rokkantsági nyugdíjban (ideértve a Magyar Alkotóművészeti Közalapítvány által nyújtott rendszeres rokkantsági segélyt is), továbbá növelt összegű öregségi és munkaképtelenségi járadékban részesül,
-- c) pénztártag: az a természetes személy, aki pályakezdőként, vagy önkéntes döntés alapján pénztárba belép és e törvény szerint tagdíjat fizet, illetve a pénztártól nyugdíjszolgáltatásban részesül,
+- c) pénztártag: az a természetes személy, aki pénztárba belép és e törvény szerint tagdíjat fizet, illetve a pénztártól nyugdíjszolgáltatásban részesül,
 - d) tagdíj: az az összeg, amelyet a pénztár tagja, a pénztár számára köteles megfizetni, ideértve azt az összeget is, amellyel a Tbj. által kötelezően megállapított mértéket a pénztártag, vagy javára más személy vagy szervezet kiegészíti,
 - e) egyéni számla: az a nyilvántartás, amelyen a felhalmozási időszakban a pénztártag követelése, illetve nyugdíjba vonuláskor a részére járó nyugdíjszolgáltatás megállapítása alapul,
 - f) szolgáltatási tartalékok: a folyósítás alatt álló ellátások szolgáltatástípusonkénti fedezete és annak nyilvántartása,
@@ -301,31 +301,22 @@ Az állam az Alkotmányban foglalt elvek szerint a kötelező társadalombiztos�
 
 22. § (1) A tagsági jogviszony kezdő időpontja
 
-- a) a kötelező pénztártagság esetén a Tbj. 5. §-ában meghatározott biztosítási jogviszony keletkezésének napja,
+- a)
 - b) önkéntes belépéssel keletkező pénztártagsági jogviszony esetén a belépési nyilatkozat pénztár általi elfogadásának (záradékolás) napját követő hónap első napja.
 
-(2) A biztosított által választott pénztárral történő tagsági jogviszony létesítését – a (7) és (8) bekezdésben foglalt esetek kivételével – a biztosított írásban tett belépési nyilatkozattal kezdeményezi.
+(2) A biztosított által választott pénztárral történő tagsági jogviszony létesítését a biztosított írásban tett belépési nyilatkozattal kezdeményezi.
 
-(3) A kötelező pénztártagság a biztosított által választott pénztárral a belépési nyilatkozat pénztár által történő elfogadásával, az (1) bekezdés a) pontjában meghatározott időpontra visszaható hatállyal jön létre.
+(3)
 
 (4) A pénztár a belépési nyilatkozat elfogadását nem tagadhatja meg, ha a biztosított a törvény, illetve az SzMSz előírásai szerint megfelel a pénztártagságra meghatározott feltételeknek. Ha a belépési nyilatkozat kézhezvételét követő 15 napon belül a pénztár a belépési nyilatkozat elfogadását nem utasítja el, azt elfogadottnak (záradékoltnak) kell tekinteni. A pénztár a záradékolt belépési nyilatkozat egy példányának vagy a tagsági okiratnak – a záradékolást követő 8 napon belül történő – megküldésével értesíti a tagot és a munkáltatót a pénztártagság létrejöttéről.
 
-(5) A tagságra kötelezett pályakezdő, valamint a magánnyugdíjpénztárhoz önkéntes döntéssel csatlakozó személy a biztosítottá, illetőleg pénztártaggá válásától számított 15 napon belül köteles bejelenteni foglalkoztatójának az általa választott magánnyugdíjpénztár megnevezését, címét, pénzforgalmi számlájának számát.
+(5) A magánnyugdíjpénztárhoz önkéntes döntéssel csatlakozó személy a pénztártaggá válásától számított 15 napon belül köteles a foglalkoztatójának bejelenteni az általa választott magánnyugdíjpénztár megnevezését, címét és pénzforgalmi számlájának számát.
 
 (6)
 
-(7) Ha a pénztár a belépési nyilatkozat elfogadását elutasította, az elutasító döntéstől számított 3 munkanapon belül az elutasítás tényéről egyidejűleg értesítést küld a munkáltatónak, a biztosítottnak és a pénztárak központi nyilvántartásának. A belépési nyilatkozat elfogadásának elutasítása esetén – amennyiben a pályakezdő biztosított még nem pénztártag – a pályakezdő az első biztosítási jogviszony keletkezési napjától kezdődő hatállyal a lakóhelye szerint illetékes területi pénztár tagjává válik.
+(7) Ha a pénztár a belépési nyilatkozat elfogadását elutasította, az elutasító döntéstől számított 3 munkanapon belül az elutasítás tényéről egyidejűleg értesítést küld a munkáltatónak, a biztosítottnak és a pénztárak központi nyilvántartásának.
 
-(8) Amennyiben a pályakezdő az előírt határidőn belül a pénztárválasztási jogával nem él, vagy a bejelentési kötelezettségét elmulasztja, az első biztosítási jogviszony keletkezése napjától kezdődő hatállyal a lakóhelye szerint illetékes területi pénztár tagjává válik (irányított pályakezdő). Amennyiben az irányított pályakezdő Magyarországon lakóhellyel nem rendelkezik, e szempontból lakóhely alatt a foglalkoztatónak (egyéni vállalkozónak) a Magyarország területén bejegyzett székhelyét, telephelyét, képviseletét, fióktelepét kell érteni.
-
-(9) A területi pénztár a tagsági jogviszony létrejöttéről való tudomásszerzéstől számított 15 napon belül a tagsági okirat egyidejű megküldésével értesíti a tagot és a munkáltatót a pénztártagság létrejöttéről.
-
-(10) A munkáltató
-
-- a) a (7) bekezdésben meghatározott esetben a bejelentés kézhezvételét követő, vagy
-- b) ha az irányított pályakezdő az (5) bekezdésben meghatározott bejelentési kötelezettségének nem tett eleget, az ott meghatározott határidő leteltét követő
-
-15 napon belül – külön jogszabályban meghatározott módon – közli a területi pénztárral a biztosított 2. számú mellékletben meghatározott személyes adatait.
+(8)–(10)
 
 22/A. § (1) Pénztár részére történő tagszervezést természetes személy, jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban együtt: tagszervező) a pénztárral kötött szerződés alapján végezhet.
 
@@ -354,12 +345,12 @@ Az állam az Alkotmányban foglalt elvek szerint a kötelező társadalombiztos�
 - b) elhalálozással, az elhalálozás napjával;
 - c) zárt pénztárban a tagsági viszony SzMSz szerinti feltételének megszűnésével; vagy
 - d) a Tny. szerint megállapított rokkantsági nyugdíjra jogosulttá válásával, a rokkantsági nyugdíj megállapításának napját megelőző nappal, a tag döntése szerint; illetőleg
-- e) a törvény 123. §-ának (2) bekezdése szerinti visszalépéssel;
-- f) a törvény 123. §-ának (6) bekezdése szerinti visszalépéssel, a nyugellátás megállapításának napját megelőző nappal;
+- e)
+- f) a törvény 123. § (6) bekezdése szerinti visszalépéssel, a visszalépés napjával,
 - g) a törvény 3. § alapján magánnyugdíjpénztárba belépett személy – amennyiben a Tbj.-ben foglaltak alapján harmadik állam állampolgárának vagy hontalannak minősül – döntése szerint, a nyugdíjbiztosítási jogviszonya megszűnésének napjával;
-- h) a törvény 123. §-ának (8) bekezdése szerinti visszalépéssel;
+- h)
 - i) a 28. § (1) bekezdésének b) pontja szerinti egyösszegű szolgáltatás igénybevételével;
-- j) e törvény 123. §-ának (15) bekezdése szerinti visszalépéssel, a visszalépés napjával
+- j)
 
 szűnik meg.
 
@@ -380,24 +371,21 @@ szűnik meg.
 
 az átadó pénztár az átlépés tényleges költségeinek fedezetére a tag követelésének egy ezreléket meghaladó részét, de legfeljebb ötezer forintot átlépési díjként érvényesít. Az átlépési díj nem engedhető el, a tag számára a befogadó pénztár által nem téríthető meg, a tagot illető tagdíjbefizetésből vagy a tag egyéni számlájának egyenlegéből nem vonható le.
 
-(4) Megállapodást köthet a pénztárral tagdíjfizetésre az a pénztártag, aki
+(4) Megállapodást köthet a pénztárral a tagdíjfizetésre az a pénztártag, aki nem rendelkezik a tagdíj alapjául a Tbj.-ben meghatározott járulékalapot képező jövedelemmel.
 
-- a) időlegesen nem rendelkezik a tagdíj alapjául a Tbj.-ben meghatározott járulékalapot képező jövedelemmel, vagy
-- b) aki a Tbj. 34. § (1) és (5) bekezdése szerint megállapodást köthet a nyugdíjbiztosítási igazgatási szervvel társadalombiztosítási nyugellátásra. Ez esetben a pénztártag a nyugdíjbiztosítási igazgatási szervvel kötött megállapodást köteles a magánnyugdíjpénztárnak bemutatni, illetőleg annak megszűnéséről a pénztárat haladéktalanul értesíteni. A társadalombiztosítási nyugellátásra kötött megállapodás megszűnésével a tagdíjfizetésre kötött megállapodás is megszűnik. A társadalombiztosítási nyugellátásra kötött megállapodás megszűnéséről a nyugdíjbiztosítási igazgatási szerv a Felügyeletet a Tbj. 41. § (5) bekezdése alapján értesíti.
-
-(5) A tagdíjfizetésre kötött megállapodás a megkötése napján, legkorábban a tárgyhónap első napján jön létre. A tárgyhónap első napját megelőző időre megállapodás nem köthető, kivéve, ha a pénztártag a nyugdíj-biztosítási igazgatási szervvel kötött megállapodását a pénztárnak késedelmesen mutatja be. Ebben az esetben a nyugdíj-biztosítási igazgatási szervvel kötött megállapodás napjával lehetőség van tagdíjfizetésre is a megállapodást megkötni. A megállapodásban rendelkezni kell a tagdíj alapjáról és összegéről, és az esetleges tagdíjkiegészítés vállalásáról is. A megállapodás megkötését követően a tagdíjat a tárgyhónapot követő hónap 12. napjáig kell az érintett magánnyugdíjpénztárhoz megfizetni. A befizetés elmulasztása – a Tbj. 34. § (4) bekezdésében foglalt szünetelést kivéve – a megállapodás megszűnését vonja maga után. A pénztártag a megállapodás szünetelésének kezdetét és megszűnését a magánnyugdíjpénztár részére írásban köteles bejelenteni. A tagdíjfizetésre kötött megállapodás megszűnéséről a magánnyugdíjpénztár az illetékes nyugdíj-biztosítási igazgatási szervet értesíti. A tagdíj fizetését – támogatási megállapodás alapján – a tag helyett más is átvállalhatja. A támogatás jogosultja a pénztártag. A támogatás felhasználására a tagdíjra vonatkozó szabályokat kell alkalmazni.
+(5) A tagdíjfizetésre kötött megállapodás a megkötése napján, legkorábban a tárgyhónap első napján jön létre. A megállapodásban rendelkezni kell a tagdíj alapjáról és összegéről, és az esetleges tagdíj-kiegészítés vállalásáról is. A megállapodás megkötését követően a tagdíjat a tárgyhónapot követő hónap 12. napjáig kell az érintett magánnyugdíjpénztárhoz megfizetni. A pénztártag a megállapodás megszűnését a magánnyugdíjpénztár részére írásban köteles bejelenteni. A tagdíj fizetését – támogatási megállapodás alapján – a tag helyett más is átvállalhatja. A támogatás jogosultja a pénztártag. A támogatás felhasználására a tagdíjra vonatkozó szabályokat kell alkalmazni.
 
 (6) Azt a pénztártagot, aki a tagdíj alapjául szolgáló jövedelemmel nem rendelkezik és tagdíj fizetésére megállapodást nem kötött, vagy részére támogatási megállapodást nem kötöttek (a továbbiakban: számlatulajdonos) a pénztártagok jogai illetik meg és kötelezettségei terhelik azzal, hogy a számlatulajdonos nem választhat és a pénztár szerveibe nem választható. Ez a szabály irányadó arra a rokkantsági nyugellátásban részesülő pénztártagra, aki a tagsági jogviszonyát fenn kívánja tartani.
 
-(7) A 23. § (1) bekezdés d) és f) pontjaiban meghatározott esetekben a társadalombiztosítási nyugdíjrendszerbe történő visszalépési szándékáról a pénztártag a társadalombiztosítási nyugdíjigény benyújtásával egyidejűleg írásban nyilatkozik a nyugdíjbiztosítási igazgatási szerv részére. A nyugdíjbiztosítási igazgatási szerv a benyújtást követően írásban értesíti az érintett magánnyugdíjpénztárat a pénztártag visszalépési szándékának bejelentéséről és a nyugdíj megállapításának kezdő időpontjáról, valamint a megállapítást követően a társadalombiztosítási nyugellátás összegének a Tny. 12. § (7) bekezdése alapján számított összegéről. A nyugdíjbiztosítási igazgatási szervnek a társadalombiztosítási nyugellátás összegéről szóló értesítését követően a magánnyugdíjpénztár haladéktalanul, írásban tájékoztatja a pénztártagot az egyéni számlakövetelés alapján számított életjáradék várható összegéről. A pénztár a 23. § (1) bekezdésének f) pontjában meghatározott esetben a nyugdíjbiztosítási igazgatási szerv társadalombiztosítási nyugellátás összegéről szóló értesítése alapján megvizsgálja a visszalépés feltételeit, és arról írásban igazolást ad ki a pénztártag részére. Amennyiben a pénztártag a visszalépésről dönt, a pénztárhoz benyújtja visszalépési kérelmét, melyet az haladéktalanul továbbít a nyugdíjbiztosítási igazgatási szerv részére. A 23. § (1) bekezdésének f) pontjában meghatározott esetekben a pénztárnak ezzel egyidejűleg az igazolást is továbbítania kell. A visszalépési kérelem a nyugdíjigény elbírálása tárgyában hozott első fokú határozat közlését követő legfeljebb 30 napon belül nyújtható be.
+(7) A 23. § (1) bekezdés d) pontja szerinti esetben a társadalombiztosítási nyugdíjrendszerbe történő visszalépési szándékáról a pénztártag a társadalombiztosítási nyugdíjigény benyújtásával egyidejűleg írásban nyilatkozik a nyugdíjbiztosítási igazgatási szerv részére. A nyugdíjbiztosítási igazgatási szerv a benyújtást követően írásban értesíti az érintett magánnyugdíjpénztárat a pénztártag visszalépési szándékának bejelentéséről és a nyugdíj megállapításának kezdő időpontjáról, valamint a megállapítást követően a társadalombiztosítási nyugellátás összegének a Tny. 12. § (7) bekezdése alapján számított összegéről. A nyugdíjbiztosítási igazgatási szervnek a társadalombiztosítási nyugellátás összegéről szóló értesítését követően a magánnyugdíjpénztár haladéktalanul, írásban tájékoztatja a pénztártagot az egyéni számlakövetelés alapján számított életjáradék várható összegéről. Amennyiben a pénztártag a visszalépésről dönt, a pénztárhoz benyújtja visszalépési kérelmét, melyet az haladéktalanul továbbít a nyugdíjbiztosítási igazgatási szerv részére. A visszalépési kérelem a nyugdíjigény elbírálása tárgyában hozott első fokú határozat közlését követő legfeljebb 30 napon belül nyújtható be.
 
 (8) A társadalombiztosítási nyugellátás összegének – a Tny. 12. §-a (6) bekezdésén alapuló – megállapításáról a nyugdíjbiztosítási igazgatási szerv értesíti a magánnyugdíjpénztárat. A pénztár a tag tagdíj-kiegészítéssel csökkentett követelését a Tbj. 45. § (4) bekezdésében foglaltak szerint köteles átutalni a Nyugdíjbiztosítási Alap részére.
 
-(9) A 23. § (1) bekezdés h) pontjában meghatározott esetben a visszalépési kérelemhez a pénztártagnak mellékelnie kell a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 191. § (1) bekezdése, illetve a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) 212. § (1) bekezdése szerinti szerv igazolását arról, hogy a pénztártag megfelel a 123. § (8) bekezdésének b)–c) pontjaiban foglalt feltételeknek. A pénztár a tag tagdíj-kiegészítéssel csökkentett követelését a Tbj. 45. § (4) bekezdésében foglaltak szerint köteles átutalni a Nyugdíjbiztosítási Alap részére.
+(9)
 
-(10) A 23. § (1) bekezdés j) pontjában meghatározott esetben a társadalombiztosítási nyugdíjrendszerbe történő visszalépési szándékát a pénztártagnak annak a magánnyugdíjpénztárnak kell bejelentenie, amelyikben tagsági jogviszonnyal rendelkezik. A kérelem elbírálása során a 123. § (15) bekezdésében meghatározott visszalépés feltételeit kell vizsgálni. A tagokkal való elszámolás során az átlépés szabályait kell alkalmazni azzal, hogy a visszalépő tagok tagdíjkiegészítéssel csökkentett – a tagsági jogviszony megszűnésének napjára vonatkozó piaci értékelés szerint számított – követelésének értékét a pénztár a (11) bekezdésben foglaltak szerint átadja a Magyar Államnak.
+(10) A 23. § (1) bekezdés f) pontjában meghatározott esetben a társadalombiztosítási nyugdíjrendszerbe történő visszalépés szándékát a pénztártagnak annak a magánnyugdíjpénztárnak kell bejelentenie, amelyikben tagsági jogviszonnyal rendelkezik.
 
-(11) A pénztár a (10) bekezdésben meghatározott követelés értékét a Magyar Állam által kibocsátott, hitelviszonyt megtestesítő értékpapírban (a továbbiakban: állampapír) és pénzben teljesíti. A követelésnek legalább a visszalépő tag portfolióján belüli állampapír-aránynak megfelelő részét állampapírban kell teljesíteni az Államadósság Kezelő Központ Zrt. értékpapírszámlájára. Az átadott állampapírok az értékpapírszámlán történő jóváírás napján a Magyar Állam tulajdonába kerülnek.
+(11) A pénztár a visszalépő tagok tagdíj-kiegészítéssel csökkentett – a tagsági jogviszony megszűnésének napjára vonatkozó piaci értékelés szerint számított – követelésének értékét a tagok portfoliójában lévő eszközökben adja át a Magyar Államot képviselő, a Kormány által kijelölt szerv részére. A követelésnek a visszalépő tag portfolióján belüli állampapír-aránynak megfelelő részét állampapírban kell átadni.
 
 24/A. § (1) Amennyiben a pénztártag a 23. § (1) bekezdésének g) pontja szerinti választási lehetőségével élve magánnyugdíjpénztári tagsági jogviszonyát meg kívánja szüntetni és az egyéni számlán felhalmozott összeget – bármely országban működő – időskori megélhetést szolgáló megtakarítási formába kívánja utalni, arról a pénztár részére a nyugdíjbiztosítási jogviszony megszűnését követő 90 napon belül írásban nyilatkozik. A nyilatkozatban meg kell jelölni a pénztártag által választott megtakarítási formát, valamint az ezt működtető intézmény címét és pénzforgalmi számlájának számát.
 
@@ -2117,17 +2105,13 @@ az általuk törvény alapján kezelhető adatok igénylésére jogosultak.
 
 (5)
 
-(6) Azok a 120 hónapot meg nem haladó – különböző pénztárakban eltöltött és összeszámított – tagsági jogviszonnyal rendelkező pénztártagok, akik – a 23. § (1) bekezdés d) pontjában meghatározott eset kivételével – nyugdíjszolgáltatásra szereznek jogosultságot, 2012. december 31-ig kezdeményezhetik a társadalombiztosítási nyugdíjrendszerbe való visszalépést. A visszalépésre abban az esetben van lehetőség, ha a magánnyugdíjpénztár tájékoztatása szerint a pénztártag részére megállapítható, a 27. § (2) bekezdés a) pontjában foglalt járadéktípusnak megfelelően számított magánnyugdíjpénztári járadékszolgáltatás várható összege nem éri el a pénztártag Tny. 12. § (7) bekezdése szerinti nyugellátásának 25 százalékát.
+(6) A társadalombiztosítási nyugellátásban nem részesülő, e törvény hatálybalépését követően pénztártaggá vált természetes személy 2011. december 31-ig kezdeményezheti a társadalombiztosítási nyugdíjrendszerbe történő visszalépést.
 
 (7) Az 58. §-ban meghatározott saját tevékenységi tartalékot – a pénztár tevékenységi engedélyének jogerőre emelkedését követő első 3 évben – akkor kell képezni, ha a pénztár befektetett eszközeinek az éves beszámoló jelentése szerinti értéke a 2 milliárd forintot eléri.
 
-(8) A pénztártag 2010. december 31-ig visszaléphet a társadalombiztosítási nyugdíjrendszerbe, amennyiben
+(8)
 
-- a) önkéntes döntése alapján vált a pénztár tagjává, és
-- b) a Hszt.-ben, illetve a Hjt.-ben meghatározott szolgálati viszonyban áll, és
-- c) 2007. december 31-én legalább húsz év, a Hszt., illetve a Hjt. szerinti tényleges szolgálati viszonyban eltöltött szolgálati idővel rendelkezik.
-
-(9) A (8) bekezdésben meghatározott pénztártagokat a Hszt. 191. § (1) bekezdése, illetve a Hjt. 212. § (1) bekezdése szerinti szervek 2008. február 28-ig tértivevénnyel ellátott – a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel egyeztetett tartalmú – levélben értesítik a visszalépés lehetőségéről, amelyben tájékoztatják őket a magánnyugdíjpénztári tagság várható előnyeiről, illetve kockázatairól.
+(9)
 
 (10) Az Önkéntes Kölcsönös Biztosító Pénztárak Felügyelete 1997. szeptember hó 1. napján megszűnik, e naptól kezdve jogutódja az Állami Pénztárfelügyelet.
 
@@ -2139,14 +2123,21 @@ az általuk törvény alapján kezelhető adatok igénylésére jogosultak.
 
 (14)
 
-(15) A társadalombiztosítási nyugellátásban nem részesülő pénztártag 2009. december 31-éig visszaléphet a társadalombiztosítási nyugdíjrendszerbe, amennyiben
+(15)
 
-- a) önkéntes döntése alapján vált a pénztár tagjává, és
-- b) 2009. január 1-jét megelőzően az 52. életévét betöltötte.
+(16) A (6) bekezdésben meghatározott pénztártag 2011. március 31-ig tértivevénnyel ellátott levélben kap tájékoztatást a visszalépés lehetőségéről.
 
-(16) A (15) bekezdésben meghatározott pénztártagot a Felügyelet legkésőbb 2009. szeptember 30-áig tértivevénnyel ellátott – a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel egyeztetett tartalmú – levélben értesíti a visszalépés lehetőségéről, amelyben tájékoztatja őt a magánnyugdíjpénztári tagság várható előnyeiről, illetve kockázatairól.
+123/A. § (1) Az a személy, akinek 2012. január 1-jét megelőzően a Tny. 12. § (7) bekezdése és a 28. § (2) bekezdése alapján a Tny. 6. § (1) bekezdésének a)–b) pontjában – ideértve a Tny. 6. § (4) bekezdésében felsorolt ellátásokat is – meghatározott nyugellátást állapítottak meg, 2011. december 31-ig kérheti nyugellátása összegének a Tny. 12. § (6) bekezdésének alkalmazásával történő módosítását.
 
-123/A. §
+(2) Az (1) bekezdésben foglalt rendelkezés által érintett személy 2011. március 31-ig tértivevénnyel ellátott levélben kap tájékoztatást a nyugellátás módosításával kapcsolatos eljárásról.
+
+(3) Az (1) bekezdés szerinti módosítási kérelmet (a továbbiakban: módosítási kérelem) ahhoz a magánnyugdíjpénztárhoz kell benyújtani, amelytől az érintett személy nyugdíjszolgáltatásban részesült, illetve amelynek tagja. A pénztár a kérelmet annak beérkezésétől számított 8 napon belül köteles megvizsgálni. Amennyiben az (1) bekezdésben foglalt feltételeknek nem állnak fenn, a magánnyugdíjpénztár erről értesíti a kérelmezőt.
+
+(4) Amennyiben a kérelmező már részesült magánnyugdíjpénztári nyugdíjszolgáltatásban, az igénybe vett szolgáltatás összegét köteles a módosítási kérelem benyújtásától számított 60 napon belül a magánnyugdíjpénztár részére visszafizetni. A magánnyugdíjpénztár a visszafizetési kötelezettség teljesítését követően, legkésőbb a módosítási kérelem kézhezvételétől számított 90 napon belül köteles a magánnyugdíjpénztári nyugdíjszolgáltatás megállapításának vagy biztosítóintézettől történt megvásárlásának időpontjában a pénztártag egyéni számláján nyilvántartott jogszerű követelésének megfelelő összeget a Nyugdíjbiztosítási Alapba átutalni és erről a nyugdíjbiztosítási igazgatási szervet – a módosítási kérelem másolatának megküldésével együtt – értesíteni.
+
+(5) Amennyiben a kérelmező részére nyugdíjszolgáltatást nyújtó magánnyugdíjpénztár jogutód nélkül megszűnt, a (4) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a kérelem benyújtását, illetve az igénybe vett magán-nyugdíjpénztári szolgáltatás igazolt összegének visszafizetését az érintett személynek az illetékes nyugdíjbiztosítási igazgatási szerv részére kell teljesítenie.
+
+(6) A nyugdíjbiztosítási igazgatási szerv a (4)–(5) bekezdésben foglaltak szerint átutalt összeg beérkezését követő hónap utolsó napjáig intézkedik a nyugellátás összegének a megállapítás időpontjára visszamenőleges, az időközben végrehajtott nyugdíjemelések figyelembevételével történő módosításáról.
 
 123/B. § (1) A pénztáraknak a likviditási tartalék igénybe vett értékelési különbözetre képzett céltartalékaként 2003. január 1-jén kimutatott összegét a 2002. december 31. napját követő első hozamfelosztás során a hozamfelosztás szabályai szerint kell az egyéni számlákra és a szolgáltatási tartalékokra felosztani.
 
@@ -2206,7 +2197,7 @@ az általuk törvény alapján kezelhető adatok igénylésére jogosultak.
 - g) a vagyonkezelési szerződések általános szerződési feltételeit;
 - h) a pénztári tartalékokhoz tartozó befektetési portfóliók kialakításának, kezelésének, módosításának a pénztár által szabályozandó kérdéseinek körét (befektetési politika), illetve ennek egyes szabályait, a választható portfóliókban elhelyezhető befektetési eszközök körére, illetve azok megengedhető mértékére vonatkozó egyes szabályokat, valamint a pénztártag választható portfólióba történő besorolása aktualizálásának, illetve a pénztártag egyik portfólióból a másikba történő átsorolásának részletes szabályait.
 - i) a 28. § c) pontjában meghatározott tagsági viszony időtartama kiszámításának részletes szabályait;
-- j)
+- j) a társadalombiztosítási nyugdíjrendszerbe történő visszalépés, továbbá az egyéni számlakövetelés átadásának és elszámolásának részletes szabályait;
 - k) a piaci eszközértékelésen alapuló vagyonértékelést és teljesítménymérést tartalmazó letétkezelői jelentés megküldésére vonatkozó határidőt;
 - l) a magánnyugdíjpénztárak közötti átlépés részletes szabályait;
 - m) a pénzforgalmi számla és a befektetési számla közötti pénzáramlások Pénzkezelési Szabályzatban rögzítendő részletes szabályait.
@@ -2215,6 +2206,8 @@ az általuk törvény alapján kezelhető adatok igénylésére jogosultak.
 
 - a)
 - b) az Alap igazgatósága által elrendelhető rendkívüli fizetési kötelezettség szabályait és legmagasabb mértékét.
+
+134/A. § Felhatalmazást kap a Kormány, hogy a 24. § (11) bekezdésében említett szervet rendeletben jelölje ki.
 
 ### 1. számú melléklet az 1997. évi LXXXII. törvényhez
 
