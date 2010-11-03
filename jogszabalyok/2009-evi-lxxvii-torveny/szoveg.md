@@ -224,17 +224,7 @@ b) ha az összevont adóalap meghaladja az 5 millió forintot, 850 ezer forint �
 
 (a továbbiakban: az adó mértékére vonatkozó rendelkezés).”
 
-(2) Az Szja tv. 30. §-át megelőző alcím és a § helyébe a következő alcím és rendelkezés lép:
-
-„Az adó mértéke
-
-30. § Az összevont adóalapot képező jövedelmek után fizetendő adó,
-
-a) ha az összevont adóalap nem haladja meg a 15 millió forintot, az összevont adóalap 17 százaléka;
-
-b) ha az összevont adóalap meghaladja a 15 millió forintot, 2550 ezer forint és a 15 millió forintot meghaladó rész 32 százaléka
-
-(a továbbiakban: az adó mértékére vonatkozó rendelkezés).”
+(2)
 
 13. § Az Szja tv. 31. §-a helyébe a következő rendelkezés lép:
 
@@ -2433,17 +2423,7 @@ lép.
 
 (6) Az Flt. 2009. december 31-éig hatályos rendelkezései szerint fizetendő munkaadói járulékból, munkavállalói járulékból és vállalkozói járulékból származó követelések és kötelezettségek a Munkaerőpiaci Alapot illetik meg, illetve terhelik.
 
-226. § (1) Az a személy, akinek 2009. december 31-éig a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 12. §-ának (7) bekezdése alapján a Tny. 6. § (1) bekezdésének a) pontjában – ideértve a Tny. 6. § (4) bekezdésében felsorolt ellátásokat is – meghatározott nyugellátást állapítottak meg, 2009. december 31-éig, illetve a társadalombiztosítási nyugellátást 2010. január 1-jét megelőző hatállyal megállapító első fokú határozat 2009. december 15-ét követő kézhezvétele esetén legkésőbb a határozat kézhezvételétől számított 15 napon belül kérheti nyugellátása összegének a Tny. 12. § (6) bekezdésének alkalmazásával történő módosítását.
-
-(2)
-
-(3) Az (1) bekezdés szerinti módosítási kérelmet (a továbbiakban: módosítási kérelem) ahhoz a magánnyugdíjpénztárhoz kell benyújtani, amelytől az érintett személy nyugdíjszolgáltatásban részesült, illetve amelynek tagja. A pénztár a kérelmet annak beérkezésétől számított 8 napon belül köteles megvizsgálni. Amennyiben az (1) bekezdésben foglalt feltételek nem állnak fenn, a magánnyugdíjpénztár erről értesíti a kérelmezőt.
-
-(4) Amennyiben a kérelmező már részesült magánnyugdíjpénztári nyugdíjszolgáltatásban, az igénybe vett szolgáltatás összegét köteles a módosítási kérelem benyújtásától számított 30 napon belül a magánnyugdíjpénztár részére visszafizetni. A magánnyugdíjpénztár a visszafizetési kötelezettség teljesítését követően, legkésőbb a módosítási kérelem kézhezvételétől számított 60 napon belül köteles a magánnyugdíjpénztári nyugdíjszolgáltatás megállapításának vagy biztosítóintézettől történt megvásárlásának időpontjában a pénztártag egyéni számláján nyilvántartott jogszerű követelésének megfelelő összeget a Nyugdíjbiztosítási Alapba átutalni és erről a nyugdíjbiztosítási igazgatási szervet – a módosítási kérelem másolatának megküldésével együtt – értesíteni.
-
-(5) Amennyiben a kérelmező részére nyugdíjszolgáltatást nyújtó magánnyugdíjpénztár jogutód nélkül megszűnt, a (4) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a kérelem benyújtását, illetve az igénybe vett magán-nyugdíjpénztári szolgáltatás igazolt összegének visszafizetését az érintett személynek az illetékes nyugdíjbiztosítási igazgatási szerv részére kell teljesítenie.
-
-(6) A nyugdíjbiztosítási igazgatási szerv a (4)–(5) bekezdésben foglaltak szerint átutalt összeg beérkezését követő hónap utolsó napjáig intézkedik a nyugellátás összegének a megállapítás időpontjára visszamenőleges, az időközben végrehajtott nyugdíjemelések figyelembevételével történő módosításáról.
+226. §
 
 227. § (1) Az Mpt. 24. § (1) és (3) bekezdésének e törvénnyel megállapított rendelkezéseit az e törvény hatálybalépése után benyújtott átlépési nyilatkozatok tekintetében kell alkalmazni. A (3) bekezdés alkalmazása során az e törvény hatálybalépését megelőzően kezdeményezett átlépéseket nem kell figyelembe venni.
 

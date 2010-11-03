@@ -207,6 +207,8 @@ minősül.
 
 minősül.
 
+(3) A 2010. november 1-je és 2011. december 31-e közötti időszakban esedékes, a magán-nyugdíjpénztári tag magánszemélyt terhelő ekhoból – az (1) bekezdés c) pontjától eltérően – az ekhoalap 3,9 százaléka nyugdíjjáruléknak minősül.
+
 ### Az ekho megfizetése, bevallása
 
 10. § (1) A kifizetőt terhelő – megállapított és a magánszemélytől levont – ekhót a kifizető az Art. rendelkezései szerint vallja be és fizeti meg.
@@ -233,6 +235,8 @@ utal át.
 - b) 6 százalékot az Egészségbiztosítási Alapnak
 
 utal át.
+
+(4) A 2010. november 1-je és 2011. december 31-e közötti időszakban esedékes ekhora az (1) bekezdés b) pontja nem alkalmazható.
 
 ### A magánszemélyt megillető társadalombiztosítási ellátások
 

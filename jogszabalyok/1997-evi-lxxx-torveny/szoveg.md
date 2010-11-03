@@ -50,8 +50,8 @@ Tbj. 4. § E törvény alkalmazásában:
 - j) Külföldi: az a természetes személy, aki nem minősül belföldinek.
 - k) Járulékalapot képező jövedelem: 1. a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerinti, az összevont adóalapba tartozó, az önálló és nem önálló tevékenységből származó bevételből az adóelőleg-alap számításnál figyelembe vett jövedelem, ideértve az Szja tv.-ben szabályozott kis összegű kifizetésből származó jövedelmet is, továbbá az Szja tv. 69. §-a szerinti természetbeni juttatás adóalapként megállapított értékének személyi jövedelemadóval növelt összege [ide nem értve az Szja. tv. 69. §-ának (10) bekezdése szerinti üzleti ajándék, reprezentáció címén adott terméket és nyújtott szolgáltatást], a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíj, a tanulószerződésben meghatározott díj, a hivatásos nevelőszülői díj, a felszolgálási díj, a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló (a továbbiakban: borravaló), 2. az 1. alpont szerinti jövedelem hiányában a munkaszerződésben meghatározott személyi alapbér, illetőleg ha a munkát nem munkaviszony, hanem munkavégzésre irányuló egyéb jogviszony keretében végzik, a szerződésben meghatározott díj; az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíj.
 - l) Járulék: a nyugdíjjárulék, a magán-nyugdíjpénztári tagdíj, az egészségbiztosítási- és munkaerő-piaci járulék, a társadalombiztosítási járulék, a táppénz-hozzájárulás, az egészségügyi szolgáltatási járulék, valamint a korkedvezmény-biztosítási járulék.
-- m) A magánnyugdíjpénztár tagja: 1. a tagságra kötelezett pályakezdő, 2. a magánnyugdíjpénztárhoz önkéntes döntéssel csatlakozó személy.
-- n) Tagságra kötelezett pályakezdő: 1. az a természetes személy, aki az 1998. július 1-je és 2005. december 31-e között hatályos rendelkezések értelmében tagságra kötelezett pályakezdőnek minősült, és 2. a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 3. §-ának (1) bekezdésében meghatározott személy.
+- m) A magánnyugdíjpénztár tagja: 1. 2. a magánnyugdíjpénztárhoz önkéntes döntéssel csatlakozó személy.
+- n)
 - o) Magánnyugdíjpénztárhoz önkéntes döntéssel csatlakozó: 1. a tagságra kötelezett pályakezdőnek nem minősülő természetes személy, aki az 1998. január 1-je és 2005. december 31-e között hatályos rendelkezések értelmében önkéntes döntéssel taggá vált, és 2. az Mpt. 3. §-ának (2) bekezdésében meghatározott személy.
 - p) Tanulószerződés: a szakképzésről szóló 1993. évi LXXVI. törvény szerinti tanulószerződés.
 - q) Tevékenységre jellemző kereset: a természetes személy főtevékenységére jellemző, a piaci viszonyoknak megfelelő díjazás.
@@ -269,6 +269,8 @@ Tbj. 19. § (1) A foglalkoztató és a biztosított egyéni vállalkozó által 
 
 (6) A foglalkoztató és az egyéni vállalkozó által fizetendő korkedvezmény-biztosítási járulék mértéke 13 százalék.
 
+(7) A 2010. november 1-je és 2011. december 31-e közötti időszakban esedékes, a magán-nyugdíjpénztári tag után fizetendő nyugdíjjárulék mértéke – a (2) bekezdés b) pontjában foglaltaktól eltérően – 9,5 százalék.
+
 ### A társadalombiztosítási járulék
 
 Tbj. 20. § (1) A foglalkoztató az általa foglalkoztatott biztosított részére a biztosítási kötelezettséggel járó jogviszonya alapján kifizetett (juttatott) járulékalapot képező jövedelem után havonta a 19. § (1) bekezdésében meghatározott mértékű társadalombiztosítási járulékot fizet, ideértve azt a jövedelmet is, amelyet a biztosítottnak a más foglalkoztatónál fennálló biztosítási jogviszonyára tekintettel juttat.
@@ -443,6 +445,8 @@ Tbj. 32. §
 Tbj. 33. § (1) A magánnyugdíjpénztár tagja a nyugdíjjárulék alapja után 8 százalék tagdíjat fizet.
 
 (2) A tagdíjfizetési kötelezettségre a nyugdíjjárulék-fizetési kötelezettségre vonatkozó rendelkezéseket kell megfelelően alkalmazni azzal, hogy a túlfizetésként jelentkező összeget a magánnyugdíjpénztár a foglalkoztatón keresztül fizeti vissza a tagnak.
+
+(3) A 2010. november 1-je és 2011. december 31-e közötti időszakban esedékes tagdíj mértéke – az (1) bekezdésben foglaltaktól eltérően – 0 százalék.
 
 ### Megállapodás társadalombiztosítási ellátásra
 
@@ -674,11 +678,11 @@ Tbj. 44/C. § (1) Ha az egészségügyi szolgáltatónak az Eb. tv. rendelkezés
 
 (3) Az egészségbiztosítási szerv a (2) bekezdésben meghatározott bejegyzést követően – az okirat másolatának megküldésével együtt – a bejelentési- és járulékfizetési kötelezettség teljesítésének ellenőrzése céljából a 44/B. § (3) bekezdésében meghatározott adatokat haladéktalanul továbbítja az állami adóhatóságnak.
 
-Tbj. 45. § (1) A tagságra kötelezett pályakezdő, valamint a magánnyugdíjpénztárhoz önkéntes döntéssel csatlakozó személy [4. § n) és o) pontja] a biztosítottá, illetőleg pénztártaggá válásától, továbbá új biztosítási jogviszonya létesítésétől számított 15 napon belül köteles bejelenteni foglalkoztatójának az általa választott magánnyugdíjpénztár megnevezését, címét és pénzforgalmi számlájának számát.
+Tbj. 45. § (1) A magánnyugdíjpénztárhoz önkéntes döntéssel csatlakozó személy [4. § o) pontja] a pénztártaggá válásától számított 15 napon belül köteles a foglalkoztatójának bejelenteni az általa választott magánnyugdíjpénztár megnevezését, címét és pénzforgalmi számlájának számát.
 
 (2)
 
-(3) Tagságra kötelezett pályakezdőnek [4. § n) 2. pontja] minősülő egyéni vállalkozó az egyéni vállalkozói nyilvántartásba való bejegyzés napjától, a mezőgazdasági őstermelő a biztosítottá válása napjától számított 15 napon belül köteles az általa választott magánnyugdíjpénztárba belépni.
+(3)
 
 (4) A társadalombiztosítási nyugdíjrendszerbe történt visszalépés, valamint az Mpt. 24. §-ának (8) bekezdése és az Mpt. 29. §-a (9) bekezdésének b) pontja szerinti átutalás esetén a magánnyugdíjpénztár a pénztártag egyéni számlán nyilvántartott, tagdíj-kiegészítéssel csökkentett követelését
 

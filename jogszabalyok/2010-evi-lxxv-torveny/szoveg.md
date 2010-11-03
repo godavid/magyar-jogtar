@@ -187,6 +187,8 @@ van lehetőség, ezt követően a munkáltató a közteher-fizetési kötelezett
 
 (3) A (2) bekezdésben meghatározott átutalást naponta, ettől eltérően a magánnyugdíjpénztárnak történő átutalás esetén a bevallás feldolgozását követően haladéktalanul kell teljesíteni.
 
+(4) A 2010. november 1-je és 2011. december 31-e közötti időszakban esedékes, a magán-nyugdíjpénztári tag után fizetendő közteher összegéből – a (2) bekezdés a) pontjától eltérően – a Nyugdíjbiztosítási Alapot 91,8% illeti meg, és a (2) bekezdés b) pontja nem alkalmazható.
+
 14. § Az e törvényben nem szabályozott adózást érintő kérdésekben az Art. rendelkezéseit kell alkalmazni. Nem kell alkalmazni az Art. 46. §-ának azon előírását, hogy a munkáltató az elszámolási évet követő év január 31-éig összesített igazolást ad a magánszemélynek.
 
 ### Záró rendelkezések
