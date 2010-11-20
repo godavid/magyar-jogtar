@@ -1282,6 +1282,8 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 (2) Felhatalmazást kapnak a feladatkörrel rendelkező miniszterek, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben írják elő – a közigazgatási szolgáltatás meghatározása mellett – igazgatási szolgáltatási pótdíj fizetését, illetve rendeletben határozzák meg az igazgatási szolgáltatási pótdíj mértékét.
 
+(3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az állampolgárok szélesebb körét érintő rendkívüli esemény, elemi csapás esetén indokolt esetben rendeletet alkosson az illeték megállapításának mellőzéséről és az ehhez kapcsolódó eljárási szabályokról.
+
 ### Adó- és értékbizonyítvány
 
 101. § Az ingatlan fekvése szerint illetékes települési önkormányzat jegyzője által kiállított adó- és értékbizonyítvány tartalmazza az ingatlan és az ingatlanszerzők (tulajdonosok) adatait, az érték megállapításánál figyelembe vett tényezőket, továbbá az ingatlannak az adott időpontban fennálló forgalmi értékét.

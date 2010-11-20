@@ -261,7 +261,7 @@ fejében a jogosult által kapott ellenérték;
 - w)
 - x)
 - y) az adóév első napján mikrovállalkozásnak minősülő adózónál – döntése szerint – a (19)–(20) bekezdésben foglaltakat is figyelembe véve a foglalkoztatottak átlagos állományi létszáma előző adóévhez, az adózó átalakulása esetén a jogelőd utolsó adóévéhez, előző adóév hiányában nullához viszonyított növekményének és az adóév első napján érvényes havi minimálbér adóévre számított összegének szorzata, feltéve, hogy az adózó foglalkoztatottainak átlagos állományi létszáma a megelőző adóévben legfeljebb 5 fő és az adózónak az adóév utolsó napján nincs az állami vagy önkormányzati adóhatóságnál nyilvántartott adótartozása,
-- z) a kiemelkedően közhasznú besorolással rendelkező szervezetnek vagy közhasznú, kiemelkedően közhasznú besorolással rendelkező közhasznú szervezettel kötött tartós adományozási szerződés keretében, a közhasznú szervezetekről szóló törvényben nevesített közhasznú tevékenység, a kiemelkedően közhasznú besorolást megalapozó közfeladat támogatására az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értékének, térítés nélkül nyújtott szolgáltatás bekerülési értékének 1. 50 százaléka kiemelkedően közhasznú szervezet támogatása esetén, 2. 20 százaléka tartós adományozási szerződés esetén, de együttesen legfeljebb az adózás előtti eredmény összege,
+- z) a kiemelkedően közhasznú besorolással rendelkező szervezetnek vagy közhasznú, kiemelkedően közhasznú besorolással rendelkező közhasznú szervezettel kötött tartós adományozási szerződés keretében, a közhasznú szervezetekről szóló törvényben nevesített közhasznú tevékenység, a kiemelkedően közhasznú besorolást megalapozó közfeladat támogatására, vagy a Magyar Kármentő Alapnak az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értékének, térítés nélkül nyújtott szolgáltatás bekerülési értékének 1. 50 százaléka kiemelkedően közhasznú szervezet és a Magyar Kármentő Alap támogatása esetén, 2. 20 százaléka tartós adományozási szerződés esetén, de együttesen legfeljebb az adózás előtti eredmény összege,
 - zs) az adóév utolsó napján kis- és középvállalkozásnak minősülő adózónál – ha igénybe kívánja venni a kedvezményt – a korábban még használatba nem vett ingatlan, valamint a korábban még használatba nem vett, a műszaki berendezések, gépek, járművek közé sorolandó tárgyi eszköz üzembe helyezése érdekében elszámolt adóévi beruházások értéke, továbbá az ingatlan bekerülési értékét növelő adóévi felújítás, bővítés, rendeltetés-változtatás, átalakítás értéke, valamint az immateriális javak között az adóévben állományba vett, korábban még használatba nem vett szellemi termék bekerülési értéke, figyelemmel a (11)–(12) bekezdésben foglaltakra.
 
 (2) Az adózó az adóévre vonatkozóan választhatja, hogy az (1) bekezdés dzs) pontjának a) alpontjában és a 8. § (1) bekezdés dzs) pontjának a) alpontjában foglaltakat kizárólag a fedezeti ügylettel nem fedezett, külföldi pénzértékre szóló befektetett pénzügyi eszközei között kimutatott tulajdoni részesedést jelentő befektetései értékének módosításaként a mérlegfordulónapi értékeléskor a devizaárfolyam változása alapján eszközönként elszámolt összeg tekintetében (a más befektetett pénzügyi eszközei és hosszú lejáratú kötelezettségei értékének módosításaként elszámolt összeget figyelmen kívül hagyva) alkalmazza, feltéve, hogy e választása nem eredményezi, hogy adóalapja alacsonyabb lesz az (1) bekezdés dzs) pontjának és a 8. § (1) bekezdés dzs) pontjának alkalmazása nélkül az adóévre kiszámított adóalapnál.
@@ -278,7 +278,7 @@ fejében a jogosult által kapott ellenérték;
 
 (6)
 
-(7) Az (1) bekezdés z) pontja alapján az adózó akkor csökkentheti az adózás előtti eredményt, ha rendelkezik a közhasznú szervezet, a kiemelkedően közhasznú szervezet által az adóalap megállapítása céljából kiállított igazolással, amely tartalmazza a kiállító és az adózó megnevezését, székhelyét, adószámát, a támogatás, juttatás összegét, célját, továbbá közhasznú szervezet, kiemelkedően közhasznú szervezet esetében a közhasznúsági fokozatot.
+(7) Az (1) bekezdés z) pontja alapján az adózó akkor csökkentheti az adózás előtti eredményt, ha rendelkezik a közhasznú szervezet, a kiemelten közhasznú szervezet vagy a Magyar Kármentő Alap által az adóalap megállapítása céljából kiállított igazolással, amely tartalmazza a kiállító és az adózó megnevezését, székhelyét, adószámát, a támogatás, juttatás összegét, célját, továbbá közhasznú szervezet, kiemelkedően közhasznú szervezet esetében a közhasznúsági fokozatot.
 
 (8)
 
@@ -1069,7 +1069,7 @@ szélessávú internetszolgáltatást szolgáló beruházás,
 
 (5) Az adózó a 2003-ban és az azt megelőzően kezdődő adóévekben hatályos 7. § (1) bekezdés zs) pontja alapján igénybe vett kedvezményre a 8. § (1) bekezdés u) pontjának 2003-ban hatályos előírásait alkalmazza.
 
-(6)
+(6) Az a közhasznú társaság, amelynek kényszer-végelszámolását a cégbíróság 2009. június 30-át követően indult törvényességi felügyeleti eljárás keretében rendelte el, nem alkalmazza a 16. § (1) bekezdés c) pontjának rendelkezéseit, valamint adózás előtti eredményét csökkenti a kényszer-végelszámolásra tekintettel elszámolt bevétel összegével.
 
 29/G. § (1)
 
@@ -1154,6 +1154,8 @@ A határidő elmulasztása esetén igazolási kérelem előterjesztésének ninc
 (2) Az adózónak a 2008. és a 2009. adóévben a 10 százalékos adókulcs alkalmazása miatt meg nem fizetett adónak megfelelő összegű lekötött tartalék felhasználására a lekötés adóévében hatályos 19. §-ban foglaltakat kell alkalmaznia.
 
 [29/M. § A 4. § 41–43. pontjainak, a 22. § (4)–(5) bekezdésének és a 3. számú melléklet B) fejezetének 15. pontjának a sporttal összefüggő egyes törvények módosításáról szóló 2010. évi LXXXIII. törvénnyel megállapított rendelkezéseit a hatálybalépésük napját követően nyújtott támogatásra (juttatásra) lehet alkalmazni.]
+
+29/N. § E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel módosított 7. § (1) bekezdésének z) pontjának és (7) bekezdésének rendelkezéseit a 2010-ben kezdődő adóévben adott – felsorolt – juttatásokra lehet alkalmazni.
 
 ### ZÁRÓ RENDELKEZÉSEK
 
