@@ -375,7 +375,7 @@ feladatok ellátásáért.
 (3) A mezőgazdasági és vidékfejlesztési támogatási szerv részére az intézkedések végrehajtása során a vonatkozó feltételek, illetve kötelezettségek betartásának ellenőrzése céljából adatokat kell átadni:
 
 - a) a vámhatóság által kezelt vámadatbázisból,
-- b) a külkereskedelmi államigazgatási szerv által kezelt importengedély-nyilvántartásból,
+- b) a nemzeti külkereskedelmi államigazgatási szerv által kezelt importengedély-nyilvántartásból,
 - c) a szőlőültetvény-kataszterből,
 - d) az Egységes Nyilvántartási és Azonosítási Rendszerből (ENAR),
 - e) az Országos Erdőállomány Adattárból,

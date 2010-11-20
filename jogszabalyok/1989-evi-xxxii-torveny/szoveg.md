@@ -234,7 +234,7 @@ Az Országgyűlés a jogállam kiépítése, az alkotmányos rend és az Alkotm�
 
 39. § Ha a Kormány rendeleténél alacsonyabb szintű törvénysértő jogszabállyal, illetőleg az állami irányítás egyéb jogi eszközével szemben az ügyész — általános törvényességi felügyeleti jogkörében — óvást nyújtott be, amellyel az aktust kibocsátó szerv nem ért egyet, e szerv az óvást az Alkotmánybíróság elé terjeszti elbírálás végett, és erről az előterjesztés indokainak közlésével az ügyészt értesíti.
 
-40. § Ha az Alkotmánybíróság a jogszabály, illetőleg az állami irányítás egyéb jogi eszközének alkotmányellenességét állapítja meg, a jogszabályt vagy az állami irányítás egyéb jogi eszközét teljesen vagy részben megsemmisíti.
+40. § Ha az Alkotmánybíróság a jogszabály, illetőleg az állami irányítás egyéb jogi eszközének alkotmányellenességét állapítja meg, a jogszabályt vagy az állami irányítás egyéb jogi eszközét teljesen vagy részben megsemmisíti. A költségvetésről, a költségvetés végrehajtásáról, a központi adónemekről, illetékekről és járulékokról, a vámokról, valamint a helyi adók központi feltételeiről szóló törvényeket, vagy törvényi rendelkezéseket az Alkotmánybíróság kizárólag akkor semmisíti meg, ha azok tartalma az élethez és emberi méltósághoz való jogot, a személyes adatok védelméhez való jogot, a gondolat, lelkiismeret és vallás szabadságát, vagy a magyar állampolgársághoz kapcsolódó, az Alkotmány 69. §-a szerinti jogokat sérti.
 
 41. § Az Alkotmánybíróság a megsemmisítésről szóló határozatát közzé teszi a Magyar Közlönyben, illetőleg abban a hivatalos lapban, amelyben az állami irányítás egyéb jogi eszközét közzé tették.
 
@@ -249,6 +249,8 @@ Az Országgyűlés a jogállam kiépítése, az alkotmányos rend és az Alkotm�
 (3) Az Alkotmánybíróság elrendeli az alkotmányellenes jogszabály vagy állami irányítás egyéb jogi eszköze alapján jogerős határozattal lezárt büntetőeljárás felülvizsgálatát, ha az elítélt még nem mentesült a hátrányos következmények alól, és az eljárásban alkalmazott rendelkezés semmisségéből a büntetés, illetőleg intézkedés csökkentése vagy mellőzése, illetőleg a felelősség alóli mentesülés vagy annak korlátozása következne.
 
 (4) Az Alkotmánybíróság a 42. § (1) bekezdésében, valamint a 43. § (1)—(2) bekezdésében meghatározott időponttól eltérően is meghatározhatja az alkotmányellenes jogszabály hatályon kívül helyezését vagy a konkrét esetben történő alkalmazhatóságát, ha ezt a jogbiztonság, vagy az eljárást kezdeményező különösen fontos érdeke indokolja.
+
+(5) A (4) bekezdés nem alkalmazható, ha az Alkotmánybíróság a törvényt vagy a törvényi rendelkezést az Alkotmány 32/A. § (3) bekezdése alapján nem semmisítheti meg.
 
 ### A nemzetközi szerződésbe ütközés vizsgálata
 
