@@ -218,29 +218,55 @@ c) Tanács 1074/1999/EURATOM rendeletével az Európai Csalásellenes Hivatal (O
 
 egyes rendelkezések
 
-140. § (1) Az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kivitele, behozatala, valamint azoknak a Magyar Köztársaság területén történő átszállítása nemzetközi szerződéssel összhangban korlátozható.
+140. § (1) Az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kivitelét, behozatalát, valamint azoknak a Magyar Köztársaság területén történő átszállítását nemzetközi szerződéssel és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa rendelkezéseivel összhangban az Országgyűlés vagy a Kormány által alkotott jogszabály korlátozhatja.
 
-(2) Az (1) bekezdés alapján elrendelt korlátozásokkal kapcsolatos engedélyezési és más hatósági feladatokat a külkereskedelmi államigazgatási szerv látja el.
+(2) Ha a Kormány az (1) bekezdés szerint korlátozást rendel el, akkor rendeletében meghatározza a korlátozásokhoz kapcsolódó feltételeket, az egyes korlátozásokkal kapcsolatos engedélyezési és más hatósági feladatokat, azok általános szabályoktól eltérő eljárási szabályait.
 
-(3) A külkereskedelmi államigazgatási szerv jogosult a (4)–(5) bekezdés szerinti, valamint a nemzetközi szerződésből és az Európai Unió rendelkezéseiből adódó nemzeti hatósági feladatai ellátása során birtokába kerülő, a vállalkozások – beleértve az érintett természetes személyek – azonosító és a tevékenység végzésével összefüggő adatait kezelni. A külkereskedelmi államigazgatási szerv az általa kezelt adatokat jogosult átadni:
+(3) A (2) bekezdés szerinti engedélyezési és más hatósági feladatokat a Kormány által rendeletben kijelölt nemzeti külkereskedelmi államigazgatási szerv látja el.
 
-a) az Európai Unió előírásaiból következő kötelezettségek teljesítése érdekében az Európai Unió, illetve tagországai illetékes szerveinek;
+140/A. § A Kormány a 140. § (1) bekezdése szerinti korlátozást elrendelő rendeletében előírhatja, hogy a 140. § (1) bekezdése szerinti tevékenység folytatására a nemzeti külkereskedelmi államigazgatási szerv 140/B. §-a szerinti nyilvántartásába felvett természetes személy, jogi személy, jogi személyiség nélküli szervezet jogosult.
 
-b) a vámeljáráshoz a vámhatóságnak;
+140/B. § (1) A nemzeti külkereskedelmi államigazgatási szerv nyilvántartja és kezeli – a 140. § (1) bekezdése alapján elrendelt korlátozások érvényesítése céljából –
 
-c) bűnüldözés, bűnmegelőzés céljából a bíróság, az ügyészség és a bűnüldöző szervek számára;
+a) a 140. § (1) bekezdés szerinti tevékenység folytatására jogosult természetes személy, jogi személy, jogi személyiség nélküli szervezet nevét, székhelyét vagy lakcímét, levelezési címét, cégjegyzékszámát vagy az egyéni vállalkozói nyilvántartási számát, statisztikai számjelét és adóazonosító számát, egyedi vámazonosító számát,
 
-d) nemzetbiztonsági célra a nemzetbiztonsági szolgálatoknak;
+b) az a) pontban meghatározottak képviseletére jogosult személy természetes személyazonosító adatait, valamint kérelmére a kapcsolattartáshoz szükséges elérhetőségi adatait,
 
-e) külön jogszabályban meghatározott ellenőrzési célra az Állami Számvevőszéknek és a Kormány által kijelölt belső ellenőrzési szervnek;
+c) az engedélyezési eljárás során birtokába kerülő és keletkező – személyes adatnak nem minősülő és a kormányrendeletben meghatározott – adatokat.
 
-f) adóellenőrzési célra az állami adóhatóságnak.
+(2) A nemzeti külkereskedelmi államigazgatási szerv az érintett (1) bekezdés szerinti személyes adatainak nyilvántartására legfeljebb az érintettnek a tevékenysége folytatására vonatkozó jogosultsága megszűnésétől számított hat hónapig jogosult.
 
-(4) Felhatalmazást kap a Kormány, hogy az (1) bekezdés szerinti korlátozásokat, valamint a korlátozások elrendelésével kapcsolatos szabályokat rendeletben határozza meg.
+140/C. § (1) A nemzeti külkereskedelmi államigazgatási szerv a törvény által kihirdetett nemzetközi szerződésben és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa rendelkezéseiben meghatározott hatósági feladatai ellátásával összefüggésben birtokába került személyes adatok kezelésére – ha a törvény által kihirdetett nemzetközi szerződés vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa eltérően nem rendelkezik – legfeljebb az érintettnek a tevékenysége folytatására vonatkozó jogosultsága megszűnésétől számított hat hónapig jogosult.
 
-(5) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy az (1) bekezdés szerinti korlátozásokkal összefüggő engedélyezési eljárást rendeletben szabályozza.
+(2) A nemzeti külkereskedelmi államigazgatási szerv az általa kezelt vagy nyilvántartott adatokat – ha törvény eltérően nem rendelkezik – az alábbi szervek részére, azok megkeresése alapján átadja:
 
-(6) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a külkereskedelmi államigazgatási szervet vagy szerveket.
+a) az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa rendelkezéseiből következő kötelezettségek teljesítése érdekében az Európai Unió Bizottsága, illetve az Európai Unió tagországainak az egyes kereskedelmi korlátozások vonatkozásában hatáskörrel rendelkező szervei részére,
+
+b) a vámhatóságnak a vámeljáráshoz,
+
+c) a bíróságnak büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
+
+d) a nyomozó hatóságnak és az ügyészségnek bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítő feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése és felderítése céljából,
+
+e) a nemzetbiztonsági szolgálatoknak a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
+
+f) az Állami Számvevőszéknek és a Kormány által kijelölt belső ellenőrzési szervnek jogszabályban meghatározott ellenőrzési célra,
+
+g) az állami adóhatóságnak adóellenőrzési célra.
+
+[140/D. § (1) Aki a 140. § (1) bekezdése szerinti korlátozásból eredő, valamint a törvény által kihirdetett nemzetközi szerződésben és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa rendelkezéseiben az Európai Unión kívüli országokkal folytatott kereskedelemre meghatározott kötelezettségét megszegi, azt a nemzeti külkereskedelmi államigazgatási szerv bírsággal sújtja.
+
+(2) A bírság mértékét a nemzeti külkereskedelmi államigazgatási szerv a jogsértés súlyára, időtartamára, a jogsértőnek való felróhatóságára, a jogsértő magatartás ismétlődésére, a jogsértéssel elért előnyre tekintettel, az eset összes körülményét mérlegelve állapítja meg.
+
+(3) A bírság kiszabásának elévülési ideje az elkövetés időpontjától számított öt év. Ha a jogsértő magatartás folyamatos, az elévülési idő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, az elévülési idő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
+
+(4) A bírság a Magyar Köztársaság központi költségvetésének bevétele. Beszedéséről a kirovó hatóság gondoskodik.
+
+(5) A meg nem fizetett bírság adók módjára behajtandó köztartozásnak minősül.]
+
+140/E. § (1) Felhatalmazást kap a Kormány, hogy a 140. § (1) bekezdése szerinti – az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kivitelével, behozatalával, valamint azoknak a Magyar Köztársaság területén történő átszállításával összefüggő – korlátozásokat, az azokhoz kapcsolódó feltételeket, valamint az egyes korlátozásokkal összefüggő engedélyezési és más hatósági feladatokat, ezek eljárási szabályait rendeletben határozza meg.
+
+(2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a nemzeti külkereskedelmi államigazgatási szervet.
 
 ### A közérdekű kérelmekkel, panaszokkal és bejelentésekkel kapcsolatos eljárás
 

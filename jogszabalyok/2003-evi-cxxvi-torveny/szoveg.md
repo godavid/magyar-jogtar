@@ -424,7 +424,7 @@ keletkeztet ellenőrzéssel lezárt időszakot.
 - t) dömping- és szubvencióellenes, piacvédelmi elemzési célokból a kereskedelmért felelős minisztert,
 - u) megkeresésre az élelmiszerlánc-felügyeleti szervet, valamint a borászati hatóságot a külön jogszabályban meghatározott feladataik ellátása céljából,
 - v) az engedélyezési, ellenőrzési, felügyeleti, nyilvántartási, hitelesítési és piacfelügyeleti feladataik ellátása céljából
-  - va) a külkereskedelmi államigazgatási hatóságot,
+  - va) a nemzeti külkereskedelmi államigazgatási szervet,
   - vb) a kábítószer-prekurzorok kivitelének és behozatalának engedélyezésére kijelölt hatóságot,
   - vc) az uniós jogi aktusokból, a nemzetközi gazdasági egyezményekből, valamint a külön jogszabályokból fakadó, egyes árukra vagy országokra vonatkozó behozatali és kiviteli engedélyezésre, felügyeletre kijelölt hatóságot,
   - vd) a nemesfémvizsgáló és -hitelesítő hatóságot,
@@ -1055,7 +1055,7 @@ kerülhet sor.
 
 (2) A csatlakozás időpontjában azok az áruk, amelyek átmeneti megőrzésben vagy vámszabad területen találhatók, árutovábbítási, aktív feldolgozási, vámraktározási, vámfelügyelet melletti feldolgozás, ideiglenes behozatal vagy passzív feldolgozási eljárás, illetve kiviteli ellenőrzést követően szállítás alatt állnak, a szabad forgalomba bocsátásukkor mentesülnek a vámok és egyéb vámintézkedések alól, ha az áru közösségi helyzetét e törvény mellékletében felsorolt okmány valamelyikével igazolják. A vámok és egyéb vámintézkedések nélkül történő szabadforgalomba bocsátást EV és a közösségi státuszt igazoló okmányok benyújtásával kell kérni az áru felügyeletét ellátó vámhivataltól.
 
-76. § A Csatlakozási Szerződés X. Mellékletének 9. pontjában foglaltak alapján a Magyar Köztársaság részére biztosított kedvezményes vámkontingens igénybevételéhez engedély szükséges. A kedvezmény igénybevételére jogosító engedélyt a külkereskedelmi államigazgatási szerv adja ki.
+76. § A Csatlakozási Szerződés X. Mellékletének 9. pontjában foglaltak alapján a Magyar Köztársaság részére biztosított kedvezményes vámkontingens igénybevételéhez engedély szükséges. A kedvezmény igénybevételére jogosító engedélyt a nemzeti külkereskedelmi államigazgatási szerv adja ki.
 
 77. § (1) A Csatlakozási Szerződésben említett (aktív és passzív feldolgozási vámeljárás, vámfelügyelet melletti feldolgozás, továbbá az elfogadott exportőri, amennyiben a harmadik ország által az Unióval a csatlakozás időpontját megelőzően kötött megállapodás is tartalmaz ilyen rendelkezést, és az engedélyes a közösségi származási szabályokat alkalmazza) engedélyek kivételével az adópolitikáért felelős miniszter és a vámhatóság által kiadott engedélyek a csatlakozás napján hatályukat vesztik. Az engedélyhez nyújtott vámbiztosítékkal az engedélyesnek harminc napon belül el kell számolnia. Az elszámolásra, a vámbiztosíték felszabadítására a vámbiztosíték nyújtásakor hatályban lévő szabályokat kell alkalmazni.
 

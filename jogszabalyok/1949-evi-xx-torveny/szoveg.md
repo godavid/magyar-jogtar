@@ -374,17 +374,19 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 ### IV. Fejezet — AZ ALKOTMÁNYBÍRÓSÁG
 
-32/A. § (1) Az Alkotmánybíróság felülvizsgálja a jogszabályok alkotmányosságát, illetőleg ellátja a törvénnyel hatáskörébe utalt feladatokat.
+32/A. § (1) Az Alkotmánybíróság az Alkotmányban meghatározott esetek kivételével felülvizsgálja a jogszabályok alkotmányosságát, illetőleg ellátja a törvénnyel hatáskörébe utalt feladatokat.
 
-(2) Az Alkotmánybíróság alkotmányellenesség megállapítása esetén megsemmisíti a törvényeket és más jogszabályokat.
+(2) A költségvetésről, a költségvetés végrehajtásáról, a központi adónemekről, illetékekről és járulékokról, a vámokról, valamint a helyi adók központi feltételeiről szóló törvényeket az Alkotmánybíróság akkor vizsgálhatja felül, ha az erre irányuló indítvány az alkotmányellenesség okaként kizárólag az élethez és emberi méltósághoz való jog, a személyes adatok védelméhez való jog, a gondolat, lelkiismeret és vallás szabadsága, vagy a magyar állampolgársághoz kapcsolódó 69. § szerinti jogok sérelmét jelöli meg, és nem tartalmaz egyéb okot.
 
-(3) Az Alkotmánybíróság eljárását törvényben meghatározott esetekben bárki kezdeményezheti.
+(3) Az Alkotmánybíróság alkotmányellenesség megállapítása esetén megsemmisíti a törvényeket és más jogszabályokat. A költségvetésről, a költségvetés végrehajtásáról, a központi adónemekről, illetékekről és járulékokról, a vámokról, valamint a helyi adók központi feltételeiről szóló törvényeket az Alkotmánybíróság akkor semmisíti meg, ha azok tartalma az élethez és emberi méltósághoz való jogot, a személyes adatok védelméhez való jogot, a gondolat, lelkiismeret és vallás szabadságát, vagy a magyar állampolgársághoz kapcsolódó 69. § szerinti jogokat sérti.
 
-(4) Az Alkotmánybíróság tizenegy tagját az Országgyűlés választja. Az Alkotmánybíróság tagjaira – a képviselőcsoportok közötti létszámarányokat is figyelembe véve – az Országgyűlésben képviselettel rendelkező pártok képviselőcsoportjainak tagjaiból álló jelölő bizottság tesz javaslatot. Az Alkotmánybíróság tagjainak megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
+(4) Az Alkotmánybíróság eljárását törvényben meghatározott esetekben bárki kezdeményezheti.
 
-(5) Az Alkotmánybíróság tagjai nem lehetnek tagjai pártnak, és az Alkotmánybíróság hatásköréből adódó feladatokon kívül politikai tevékenységet nem folytathatnak.
+(5) Az Alkotmánybíróság tizenegy tagját az Országgyűlés választja. Az Alkotmánybíróság tagjaira – a képviselőcsoportok közötti létszámarányokat is figyelembe véve – az Országgyűlésben képviselettel rendelkező pártok képviselőcsoportjainak tagjaiból álló jelölő bizottság tesz javaslatot. Az Alkotmánybíróság tagjainak megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
 
-(6) Az Alkotmánybíróság szervezetéről és működéséről szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
+(6) Az Alkotmánybíróság tagjai nem lehetnek tagjai pártnak, és az Alkotmánybíróság hatásköréből adódó feladatokon kívül politikai tevékenységet nem folytathatnak.
+
+(7) Az Alkotmánybíróság szervezetéről és működéséről szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
 ### V. Fejezet — AZ ÁLLAMPOLGÁRI JOGOK ORSZÁGGYŰLÉSI BIZTOSA ÉS A NEMZETI ÉS ETNIKAI KISEBBSÉGI JOGOK ORSZÁGGYŰLÉSI BIZTOSA
 
@@ -800,7 +802,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 70/I. § (1) Minden természetes személy, jogi személy és jogi személyiséggel nem rendelkező szervezet köteles jövedelmi és vagyoni viszonyainak megfelelően a közterhekhez hozzájárulni.
 
-(2) A közterhek viselésére szolgáló forrásokból, valamint az állami vagyonnal gazdálkodó, illetve az állam többségi tulajdonában vagy irányítása alatt álló szervezetek részéről jó erkölcsbe ütköző módon juttatott jövedelmek tekintetében törvény, az adott adóévtől kezdődően, külön mértékű kötelezettséget állapíthat meg.
+(2) A közterhek viselésére szolgáló forrásokból, valamint az állami vagyonnal gazdálkodó, illetve az állam többségi tulajdonában vagy irányítása alatt álló szervezetek részéről juttatott jövedelemre, az adott adóévet megelőző ötödik adóévtől kezdődően, törvény a jövedelem mértékét el nem érő kötelezettséget állapíthat meg.
 
 70/J. § A Magyar Köztársaságban a szülők, gondviselők kötelesek kiskorú gyermekük taníttatásáról gondoskodni.
 
