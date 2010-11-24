@@ -225,7 +225,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (6) A népszavazásra bocsátott törvényt a köztársasági elnök csak akkor írja alá, ha azt a népszavazás megerősítette.
 
-27. § Az Országgyűlés tagjai az állampolgári, valamint a nemzeti és etnikai kisebbségi jogok országgyűlési biztosaihoz, az Állami Számvevőszék elnökéhez és a Magyar Nemzeti Bank elnökéhez kérdést, a Kormányhoz, a Kormány bármely tagjához és a legfőbb ügyészhez interpellációt és kérdést intézhetnek a feladatkörükbe tartozó minden ügyben.
+27. § Az Országgyűlés tagjai az állampolgári, valamint a nemzeti és etnikai kisebbségi jogok országgyűlési biztosaihoz, az Állami Számvevőszék elnökéhez, a legfőbb ügyészhez és a Magyar Nemzeti Bank elnökéhez kérdést, a Kormányhoz és a Kormány bármely tagjához interpellációt és kérdést intézhetnek a feladatkörükbe tartozó minden ügyben.
 
 28. § (1) Az Országgyűlés megbízatása az alakuló ülésével kezdődik.
 
@@ -632,7 +632,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (3) Az ügyészség közreműködik annak biztosításában, hogy mindenki megtartsa a törvényeket. Törvénysértés esetén — törvényben meghatározott esetekben és módon — fellép a törvényesség védelmében.
 
-52. § (1) A Magyar Köztársaság legfőbb ügyészét a köztársasági elnök javaslatára az Országgyűlés választja, a legfőbb ügyész helyetteseit a legfőbb ügyész javaslatára a köztársasági elnök nevezi ki.
+52. § (1) A Magyar Köztársaság legfőbb ügyészét a köztársasági elnök javaslatára az Országgyűlés választja, a legfőbb ügyész helyetteseit a legfőbb ügyész javaslatára a köztársasági elnök nevezi ki. A legfőbb ügyész megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
 
 (2) A legfőbb ügyész az Országgyűlésnek felelős, és működéséről köteles beszámolni.
 
@@ -642,7 +642,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (3) Az ügyészi szervezetet a legfőbb ügyész vezeti és irányítja.
 
-(4) Az ügyészségre vonatkozó szabályokat törvény állapítja meg.
+(4) Az ügyészségről, valamint az ügyészek szolgálati viszonyáról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
 ### XII. Fejezet — ALAPVETŐ JOGOK ÉS KÖTELESSÉGEK
 
