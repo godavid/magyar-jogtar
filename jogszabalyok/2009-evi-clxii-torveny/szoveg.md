@@ -55,6 +55,8 @@ a fogyasztónak nyújtott hitelről
 - 19. tartós adathordozó: a Hpt.-ben ilyenként meghatározott fogalom,
 - 20. teljes hiteldíj mutató: a hitel teljes díjának aránya a hitel teljes összegéhez éves százalékában kifejezve,
 - 21. változó hitelkamat: minden olyan kamat, ami nem minősül rögzített hitelkamatnak.
+- 22. Lakáscélú jelzáloghitel: olyan jelzáloghitel, amelyben a felek által okiratban rögzített hitelcél lakóingatlan vásárlása, építése, bővítése, korszerűsítése vagy felújítása.
+- 23. Lakáscélú pénzügyi lízing: olyan lízing, amelyben a felek által okiratban rögzített cél lakóingatlan tulajdonjogának harmadik személy eladótól történő, lízingbevevő általi megszerzése.
 
 ### A hitelre vonatkozó kereskedelmi kommunikáció
 
@@ -312,9 +314,13 @@ a fogyasztónak nyújtott hitelről
 
 (3) Az (1) vagy a (2) bekezdésben meghatározott költségen felül a hitelező az előtörlesztés során semmilyen további fizetési kötelezettséget nem írhat elő.
 
-(4) Nem illeti meg a hitelezőt az (1) vagy a (2) bekezdés szerinti költségtérítés, ha az előtörlesztés visszafizetési biztosítékként kötött biztosítási szerződés alapján történt.
+(4) Lakáscélú jelzáloghitel esetében az érvényesített költségek mértéke az (1) bekezdés esetében az előtörlesztett összeg 1%-át, a (2) bekezdés esetében az előtörlesztett összeg 1,5%-át nem haladhatja meg, kivéve, ha a részleges vagy teljes előtörlesztés – részben vagy egészben – más pénzügyi intézmény által folyósított kölcsönből történik.
 
-(5) Nem illeti meg a hitelezőt az (1) vagy a (2) bekezdés szerinti költségtérítés a fogyasztó teljes előtörlesztése (végtörlesztés) esetén, ha a fogyasztó fennálló tartozása nem haladja meg az egymillió forintot és a megelőző tizenkét hónap alatt előtörlesztést nem teljesített.
+(5) Nem illeti meg a hitelezőt az (1) vagy a (2) bekezdés szerinti költségtérítés, ha az előtörlesztés visszafizetési biztosítékként kötött biztosítási szerződés alapján történt.
+
+(6) Nem illeti meg a hitelezőt az (1) vagy a (2) bekezdés szerinti költségtérítés a fogyasztó részleges vagy teljes előtörlesztése (végtörlesztése) esetén, ha a fogyasztó fennálló tartozása nem haladja meg az egymillió forintot és a megelőző tizenkét hónap alatt előtörlesztést nem teljesített.
+
+(7) Lakáscélú jelzáloghitel esetében nem illeti meg a hitelezőt az (1) vagy a (2) bekezdés szerinti költségtérítés a szerződés hatálybalépésétől számított huszonnégy hónapot követően teljesített első részleges, vagy teljes előtörlesztés (végtörlesztés) alkalmával, kivéve, ha a részleges vagy teljes előtörlesztés (végtörlesztés) – részben vagy egészben – más pénzügyi intézmény által folyósított kölcsönből történik, vagy ha az előtörlesztett összeg meghaladja a kölcsönszerződésben meghatározott kölcsönösszeg felét.
 
 ### Hiteltúllépés
 
@@ -342,6 +348,10 @@ a fogyasztónak nyújtott hitelről
 28. § (1) Ha a hitelező a fogyasztóval szembeni követelését harmadik személyre ruházza át, a fogyasztó az eredeti hitelezővel szembeni követelése tekintetében a harmadik személy ellen jogosult keresetet benyújtani.
 
 (2) Ha a hitelező a fogyasztóval szembeni követelését harmadik személyre ruházza át, nem köteles erről tájékoztatni a fogyasztót, ha a harmadik személlyel kötött megállapodás alapján a fogyasztó felé a követelés átruházását követően is hitelezőként jár el.
+
+(3) Lakáscélú jelzáloghitel esetén a futamidő meghosszabbításáért a hitelező nem jogosult semmilyen, általa megállapított mértékű díjat, jutalékot vagy költséget felszámítani, amennyiben a futamidő meghosszabbítására öt éven belül nem került sor.
+
+(4) Lakáscélú jelzáloghitel esetén, amennyiben a szerződése alapján fennálló kötelezettsége teljesítésével a fogyasztó legalább kilencven napos késedelemben van, a fogyasztó a futamidő alatt egy alkalommal írásban kezdeményezheti a futamidő meghosszabbítását legfeljebb öt évvel. Az ilyen kérelem teljesítését a hitelező alapos ok nélkül nem tagadhatja meg. Ebben az esetben a díjak, költségek, jutalékok vonatkozásában a (3) bekezdésben foglaltakat kell alkalmazni.
 
 29. § (1) A fogyasztó az e törvényben meghatározott jogairól érvényesen nem mondhat le.
 
@@ -372,7 +382,7 @@ a fogyasztónak nyújtott hitelről
 
 (6) A (4)–(5) bekezdés és a 33–37. § 2010. december 31-én hatályát veszti. Ez a bekezdés 2011. január 1-jén hatályát veszti.
 
-32. § (1) E törvény rendelkezései – a (2)–(5) bekezdésben meghatározott kivétellel – kizárólag a 2010. június 11-ét követően kötött szerződésekre alkalmazandóak.
+32. § (1) E törvény rendelkezései – a (2)–(7) bekezdésben meghatározott kivétellel – kizárólag a 2010. június 11-ét követően kötött szerződésekre alkalmazandóak.
 
 (2) E törvény 20. §-a (3)–(5) bekezdésének, 21–25. §-ának és 35. §-ának rendelkezései kizárólag a 2010. március 1-jét követően kötött szerződésekre alkalmazandóak.
 
@@ -381,6 +391,10 @@ a fogyasztónak nyújtott hitelről
 (4) 2010. március 1-jén már megkötött határozatlan idejű hitelszerződésre a 20. § (1) és (2) bekezdésében meghatározott rendelkezéseket alkalmazni kell.
 
 (5) E törvény 33. §-át a hatálybalépését követően előterjesztett végrehajtási kérelmek alapján indult végrehajtási eljárásokban lehet alkalmazni.
+
+(6) Az egyes pénzügyi tárgyú törvényeknek a nehéz helyzetbe került lakáscélú hitelt felvevő fogyasztók megsegítése érdekében szükséges módosításáról szóló 2010. évi XCVI. törvény (a továbbiakban: Módosító törvény) 7. § (1) és (2) bekezdésével megállapított 25. § (4)–(7) bekezdéseket a Módosító törvény hatálybalépését megelőzően megkötött szerződések esetében a Módosító törvény hatálybalépéstől számított tizenötödik napot követően teljesített előtörlesztésekre is alkalmazni kell.
+
+(7) A Módosító törvény 8. §-ával megállapított 28. § (3) bekezdést a Módosító törvény hatálybalépését megelőzően megkötött szerződések esetében a Módosító törvény hatálybalépéstől számított tizenötödik napot követően kezdeményezett futamidő-hosszabbításra kell alkalmazni.
 
 33. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény a 181. §-t követően a következő 181/A. §-sal egészül ki:
 

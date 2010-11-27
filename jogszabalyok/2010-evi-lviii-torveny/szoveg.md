@@ -9,6 +9,8 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 - a) a Miniszterelnökség, a minisztériumok, a kormányhivatalok, a központi hivatalok (a továbbiakban: központi államigazgatási szerv),
 - b) a kormányhivatalok és a központi hivatalok területi, helyi szerve, a közigazgatási hivatal, a Rendőrség, a Vám- és Pénzügyőrség, a büntetésvégrehajtás és a katasztrófavédelem szervei [a továbbiakban a)–b) pont együtt: államigazgatási szerv] kormánytisztviselőinek és kormányzati ügykezelőinek (a továbbiakban: kormánytisztviselő, ügykezelő) kormánytisztviselői jogviszonyára, továbbá a minisztérium és a Miniszterelnökség közigazgatási államtitkárainak és helyettes államtitkárainak (a továbbiakban: szakmai vezető) jogviszonyára terjed ki.
 
+1/A. § A 6/A. § hatálya – az ott meghatározottak szerint – kiterjed a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó munkáltatóra és közalkalmazottra, ha a munkáltató egésze vagy egy része jogszabály rendelkezése folytán e törvény hatálya alá kerül.
+
 2. § (1) Az e törvényben nem szabályozott kérdésekben a kormánytisztviselő jogviszonyára a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) rendelkezéseit kell megfelelően alkalmazni.
 
 (2) A minisztériumban és a Miniszterelnökségen kinevezett szakmai vezető jogviszonyára e törvény rendelkezéseit – a 3–14. §, 16. §, 18–22. §, 24. §, 56–58. §, 60–63. § kivételével –, valamint a Ktv. rendelkezéseit – a Ktv. 10. §-a, 10/B. és 10/C. §-a, 11/B. §-a, 19. §-a, 20/A. §-a, 23–32. §-a, 34–36. §-a és 47–48/A. §-a kivételével – megfelelően alkalmazni kell.
@@ -57,6 +59,29 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 - a) alacsonyabb vezetői munkakört tölt be, alapilletményét az új vezetői munkaköre szerint,
 - b) nem vezetői munkakört tölt be, alapilletményét a Ktv. 23. §-ának megfelelő alkalmazásával, a munkaköre betöltéséhez szükséges iskolai végzettségének, továbbá a Ktv. 72. § (1)–(4) bekezdésének megfelelő alkalmazásával megállapított kormánytisztviselői jogviszonyban eltöltött idejének megfelelő besorolása alapján kell megállapítani.
+
+6/A. § (1) A munkáltató személyében a jogszabály rendelkezése folytán bekövetkező olyan változás esetén, ha a munkáltató egésze vagy egy része (szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja) az e törvény hatálya alá tartozó munkáltatóhoz kerül, a munkáltató érintett szervezete, illetve tevékenysége keretében foglalkoztatott közalkalmazott közalkalmazotti jogviszonya – a (3), (4) és a (9) bekezdésben foglalt kivétellel – a jogállásváltozás időpontjában kormánytisztviselői jogviszonnyá alakul át.
+
+(2) A jogviszony átalakulásáról az érintetteket az átvevő munkáltató az átalakulást követő harminc napon belül tájékoztatja.
+
+(3) Az (1) bekezdésben foglaltaktól eltérően nem alakul át a közalkalmazott jogviszonya, ha az átvevő munkáltató e törvény rendelkezései alapján nem létesíthet kormánytisztviselői jogviszonyt az átadással érintett közalkalmazottal, ebben az esetben a közalkalmazotti jogviszony a törvény erejénél fogva az átadás időpontjában megszűnik. A jogviszony megszűnéséről a közalkalmazottat az átadás napjával írásban értesíteni kell. A jogviszony megszűnése esetén a közalkalmazott számára a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 37. § (2) és (4)–(7) bekezdés alkalmazásával megállapított végkielégítést – határozott idejű jogviszony esetén a Kjt. 27. § (2) bekezdésében meghatározott átlagkeresetet – kell megfizetni.
+
+(4) A (3) bekezdésben foglaltakat kell megfelelően alkalmazni, ha az átadással érintett közalkalmazottal szemben e törvény alapján összeférhetetlenség áll fenn, kivéve, ha az összeférhetetlenséget kiváltó ok megszüntethető, és ennek érdekében a közalkalmazott a jogviszony átalakulását megelőzően intézkedik, és ezt igazolja.
+
+(5) A jogviszony kormánytisztviselői jogviszonnyá történő átalakulását követő negyvenöt napon belül a közalkalmazottat a kormánytisztviselői jogviszonyra vonatkozó szabályok szerint be kell sorolni, és illetményét meg kell állapítani.
+
+(6) Határozatlan időtartamú közalkalmazotti jogviszony – eltérő törvényi rendelkezés hiányában – határozatlan időtartamú kormánytisztviselői jogviszonnyá alakul át. Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munkaidős kormánytisztviselői jogviszonnyá alakul át.
+
+(7) Az átalakult jogviszony esetén a közalkalmazottnak az átalakulással érintett Kjt. hatálya alá tartozó munkáltatónál közalkalmazotti jogviszonyként elismert idejét úgy kell tekinteni, mintha azt az átvevő munkáltatónál töltötte volna el.
+
+(8) A közalkalmazotti jogviszonyban álló vezető jogviszonyának átalakulását követően – a kormánytisztviselői jogviszonyra vonatkozó szabály figyelembevételével – kell a vezetői munkakör szintjét és megnevezését megállapítani.
+
+(9) Az (1) bekezdéstől eltérően a közalkalmazotti jogviszony munkajogviszonnyá alakul át, ha a közalkalmazott a munkakörére tekintettel e törvény szabályai szerint az e törvény hatálya alá tarozó munkáltatóval nem kormánytisztviselői jogviszonyban, hanem munkajogviszonyban állhat. Ebben az esetben a közalkalmazott átalakulás utáni munkabére (személyi alapbérének, bérpótlékainak és egyéb bérelemeinek együttes összege) az átalakulást megelőzően irányadó illetményének és a jogszabály alapján járó illetménypótlékainak együttes összege, kivéve, ha valamely közalkalmazotti illetménypótlék megállapításának alapjául szolgáló körülmény a munkaviszonyban már nem áll fenn. A személyi alapbérbe a közalkalmazotti illetménypótlékok beépíthetőek. Az illetményről való tájékoztatást a jogviszony átalakulását követő 60 napon belül meg kell adni. E bekezdés alkalmazása során megfelelően alkalmazni kell a (2) és (3) bekezdést, továbbá a (6)–(8) bekezdést.
+
+(10) Ha a jogviszony átalakulása időpontjában munkaügyi per fegyelmi elbocsátás tekintetében folyik, a munkavállalói kereset elbírálásánál
+
+- a) a rendkívüli felmondás szabályait kell megfelelően alkalmazni, ha a közalkalmazott jogviszonya munkajogviszonnyá,
+- b) a hivatalvesztés fegyelmi büntetés szabályait kell megfelelően alkalmazni, ha a közalkalmazott jogviszonya kormánytisztviselői jogviszonnyá alakul át.
 
 ### A kormánytisztviselői jogviszony megszüntetése
 
@@ -116,6 +141,8 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 (4) Törvény eltérő rendelkezése hiányában a vezetői kinevezés határozatlan időre szól.
 
 (5) Az (1) bekezdés szerinti vezetői munkakört betöltő kormánytisztviselőre a Ktv. 23–29. §-a nem alkalmazható.
+
+(6) A tartós külszolgálat időtartamára – a (4) bekezdésben foglaltaktól eltérően – vezetői kinevezés határozott időre is adható.
 
 13. § (1) A Miniszterelnökségen a Miniszterelnökséget vezető államtitkár miniszterelnöki főtanácsadói, miniszterelnöki tanácsadói, a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban a miniszter kormányfőtanácsadói és kormánytanácsadói, a miniszteri kabinetben a miniszter miniszteri főtanácsadói, miniszteri tanácsadói (a továbbiakban együtt: főtanácsadó, tanácsadó) munkaköröket létesíthet.
 
@@ -185,9 +212,9 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 (2) A Ktv. 43. § (4) bekezdése szerint megállapított alapilletmény eltérítés a tárgyévben akkor módosítható, ha a tárgyévben a kormánytisztviselő vezetői kinevezést, miniszterelnöki főtanácsadói, miniszterelnöki tanácsadói, kormányfőtanácsadói, kormánytanácsadói, miniszteri főtanácsadói, miniszteri tanácsadói megbízást kap, vagy azt tőle visszavonják, illetve címadományozásra, vagy annak visszavonására, vagy a Ktv. 26. § (2) bekezdés szerinti átsorolásra kerül sor. A módosítás eredményeként az alapilletmény nem lehet alacsonyabb, mint a Ktv. alapján az eltérítés nélkül meghatározott összeg.
 
-19. § (1) A Miniszterelnökségen, a minisztériumokban, a Kormányzati Ellenőrzési Hivatalnál, a költségvetési fejezetet irányító szerveknél – a Központi Statisztikai Hivatal területi szervezeti egységei kivételével –, az Adó- és Pénzügyi Ellenőrzési Hivatalnál és a Vám- és Pénzügyőrségnél – a területi szervei kivételével –, a Magyar Államkincstárnál – a területi szervezeti egységei kivételével –, a Kormány által rendeletben kijelölt államigazgatási szervnél, a Mezőgazdasági Szakigazgatási Hivatal Központjánál, a Nemzeti Földalapkezelő Szervezetnél, a Mezőgazdasági és Vidékfejlesztési Hivatalnál – a területi szervezeti egységei kivételével –, a Nemzeti Nyomozó Irodánál, továbbá jogszabály által országos hatáskörű szervnek nyilvánított, a Kormány közvetlen felügyelete alatt álló, illetve a Kormány által irányított központi költségvetési szerveknél, valamint – a belső igazgatási szervei kivételével az Országos Nyugdíjbiztosítási Főigazgatóságnál és az Országos Egészségbiztosítási Pénztárnál, továbbá a Nemzeti Fejlesztési Ügynökségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
+19. § (1) A Miniszterelnökségen, a minisztériumokban, a Kormányzati Ellenőrzési Hivatalnál, a költségvetési fejezetet irányító szerveknél – a Központi Statisztikai Hivatal területi szervezeti egységei kivételével –, az Adó- és Pénzügyi Ellenőrzési Hivatalnál és a Vám- és Pénzügyőrségnél – a területi szervei kivételével –, a Magyar Államkincstárnál – a területi szervezeti egységei kivételével –, a Kormány által rendeletben kijelölt államigazgatási szervnél, a Mezőgazdasági Szakigazgatási Hivatal Központjánál, a Nemzeti Földalapkezelő Szervezetnél, a Mezőgazdasági és Vidékfejlesztési Hivatalnál – a területi szervezeti egységei kivételével –, az Igazságügyi Hivatalnál – a területi szervei kivételével –, a Nemzeti Nyomozó Irodánál, továbbá jogszabály által országos hatáskörű szervnek nyilvánított, a Kormány közvetlen felügyelete alatt álló, illetve a Kormány által irányított központi költségvetési szerveknél, valamint – a belső igazgatási szervei kivételével – az Országos Nyugdíjbiztosítási Főigazgatóságnál és az Országos Egészségbiztosítási Pénztárnál, továbbá a Nemzeti Fejlesztési Ügynökségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
 
-(2) Az (1) bekezdésben nem említett központi államigazgatási szervnél, a rendőrség, a büntetésvégrehajtás és a katasztrófavédelem, valamint a közigazgatási hivatalnál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 35%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
+(2) Az (1) bekezdésben nem említett központi államigazgatási szervnél, az Igazságügyi Hivatal területi szerveinél, a rendőrség, a büntetés-végrehajtás és a katasztrófavédelem szervezeteinél, valamint a közigazgatási hivatalnál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 35%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
 
 (3) A központi államigazgatási szerv legalább megyei illetékességű területi szervénél, valamint az állami adóhatóság, a Vám- és Pénzügyőrség, a rendőrség, a katasztrófavédelem és a büntetésvégrehajtás, az Országos Nyugdíjbiztosítási Főigazgatóság és az Országos Egészségbiztosítási Pénztár legalább megyei illetékességű belső igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 30%-a, a középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
 
@@ -235,7 +262,7 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 (3) A jubileumi jutalomra jogosító idő megállapításánál
 
 - a) az e törvény és a Ktv. hatálya alá tartozó munkáltatónál munkaviszonyban, közszolgálati és kormánytisztviselői jogviszonyban eltöltött időt,
-- b) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött időt,
+- b) a Kjt. hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött időt,
 - c) a hivatásos szolgálati jogviszony időtartamát, továbbá
 - d) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban, valamint
 - e) a hivatásos nevelő szülői jogviszonyban,
@@ -502,6 +529,48 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 58. § Az ügykezelő kormánytisztviselői jogviszonyára a Ktv. 67. § (1) bekezdése és a 68. § (4) bekezdése nem alkalmazható.
 
+### VI/A. Fejezet — PÁRTFOGÓ FELÜGYELŐK
+
+58/A. § (1) A pártfogó felügyelő pártfogó felügyelői véleményt, környezettanulmányt készít, büntetőügyben közvetítői eljárást folytat le, szervezi és ellenőrzi a közérdekű munka végrehajtását, az egyéni pártfogó felügyelői terv szerint végrehajtja a pártfogó felügyeletet, pártfogói tevékenységet lát el a büntetés-végrehajtási intézetben, végzi az utógondozást, valamint ellátja a jogszabályban meghatározott más feladatait.
+
+(2) A pártfogó felügyelőként kormánytisztviselői jogviszonyt létesíteni szándékozó személyek esetében a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 12/A. §-ában foglalt rendelkezéseket nem lehet alkalmazni.
+
+(3) Pártfogó felügyelőnek nem lehet kinevezni, aki
+
+- a) büntetett előéletű,
+- b) aki büntetlen előéletű, de a bíróság bűncselekmény elkövetése miatt büntetőjogi felelősségét jogerős ítéletben megállapította,
+  - ba) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított tizenkét évig,
+  - bb) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
+  - bc) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
+  - bd) szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig,
+  - be) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a mentesítés beálltától számított három évig,
+  - bf) gondatlan bűncselekmény miatt kiszabott, végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított nyolc évig,
+  - bg) gondatlan bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított öt évig,
+  - bh) gondatlan bűncselekmény miatt kiszabott közérdekű munka esetén a mentesítés beálltától számított három évig,
+- c) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
+- d) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig, vagy
+- e) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős befejezéséig,
+- f) aki a kormánytisztviselői jogviszony alapján végzett tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll.
+
+(4) A pártfogó felügyelőként kormánytisztviselői jogviszonyt létesíteni szándékozó személy hatósági bizonyítvánnyal igazolja, hogy a (3) bekezdésben foglalt kizáró feltételek nem állnak fenn vele szemben.
+
+(5) Indokolt esetben a munkáltatói jogkör gyakorlója írásban felszólíthatja a pártfogó felügyelőt, hogy a felhívástól számított tizenöt munkanapon belül – ha e határidőn belül menthető ok miatt nem lehetséges, annak megszűnését követően haladéktalanul – hatósági bizonyítvánnyal igazolja, hogy a (3) bekezdésben foglalt kizáró feltételek nem állnak fenn vele szemben.
+
+(6) Ha a pártfogó felügyelő igazolja, hogy a (3) bekezdésben meghatározott kizáró feltételek nem állnak fenn vele szemben, a közigazgatási szerv a bűnügyi nyilvántartó szerv által az igazolás céljából kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a pártfogó felügyelő részére megtéríti.
+
+(7) A közigazgatási szerv a foglalkoztatást kizáró és a (3) bekezdés alapján vizsgálandó ok fennállásának megállapítása céljából kezeli
+
+- a) a pártfogó felügyelőként kormánytisztviselői jogviszonyt létesíteni szándékozó személy,
+- b) a pártfogó felügyelő azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által a kizáró ok fennállásának megállapítása céljából kiállított hatósági bizonyítvány tartalmaz.
+
+(8) A (3)–(6) bekezdésben foglaltak alapján megismert személyes adatokat a közigazgatási szerv a kormánytisztviselői jogviszony létesítéséről meghozott döntés időpontjáig vagy – kormánytisztviselői jogviszony létesítése és fennállása esetén – a kormánytisztviselői jogviszony megszűnéséig (megszüntetéséig) kezeli.
+
+(9) A pártfogó felügyelők képesítési követelményeit külön jogszabály határozza meg.
+
+(10) A pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél működő pártfogó felügyelő, kormánytisztviselő vagy kormányzati ügykezelő a kinevezéstől számított két éven belül az igazságszolgáltatási ismeretekről is számot adó ügyviteli vizsgát tesz. A külön jogszabály meghatározott iskolai végzettségű tisztviselő részére a vizsga alól részben vagy egészben felmentést adhat.
+
+(11) A munkáltató a munkakörre előírt ügyviteli vizsga megszerzésének feltétele alól kivételesen indokolt esetben – legfeljebb 3 évre – halasztást engedélyezhet.
+
 ### VII. Fejezet — VEGYES RENDELKEZÉSEK
 
 59. § A kormánytisztviselői jogviszony tekintetében
@@ -537,6 +606,13 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 (2) Felhatalmazást kap a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, hogy a kormánytisztviselői jogviszonnyal kapcsolatos munkáltatói jogkör gyakorlásával és átruházásával összefüggő részletes szabályokat rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a Kormány, hogy a kormányzati személyügyi igazgatási feladatokat ellátó szerv által, e törvény alapján vezetett nyilvántartásokra, adatkezelésre és adatszolgáltatásra vonatkozó részletes szabályokat rendeletben állapítsa meg.
+
+(4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
+
+- a) a pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési és kárpótlási feladatokat ellátó szervek dolgozóinak igazolványára vonatkozó szabályokat,
+- b) a pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél működő pártfogó felügyelő, kormánytisztviselő vagy kormányzati ügykezelő ügyviteli vizsgájának szabályait
+
+rendeletben állapítsa meg.
 
 ### Hatálybalépés
 
