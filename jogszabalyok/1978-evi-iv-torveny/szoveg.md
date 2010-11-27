@@ -1214,7 +1214,7 @@ büntetés mellett szabható ki.
   - h) a közjegyző és a közjegyzőhelyettes;
   - i) az önálló bírósági végrehajtó és az önálló bírósági végrehajtó-helyettes;
   - j) alkotmánybíróságnál, bíróságnál ügyészségnél, államigazgatási szervnél, önkormányzati igazgatási szervnél, az Állami Számvevőszéknél, a Köztársaság Elnökének Hivatalánál, az Országgyűlés Hivatalánál szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik;
-  - k) a pártfogó felügyelői szolgálatnál pártfogó felügyelői tevékenységet végző, igazságügyi alkalmazotti jogviszonyban álló személy;
+  - k)
   - l) jogszabály alapján közhatalmi, államigazgatási feladatokkal megbízott szervnél, testületnél az a személy, aki közhatalmi, államigazgatási feladatot lát el,
 - 2. közfeladatot ellátó személy:
   - a) a postai szolgáltató végrehajtó vagy biztonsági szolgálatot ellátó alkalmazottja, a közforgalmú tömegközlekedési eszközt működtető gazdálkodó szervezetnél végrehajtó vagy biztonsági szolgálatot ellátó személy, továbbá a közúti személyszállítási szolgáltatást végző más személy,

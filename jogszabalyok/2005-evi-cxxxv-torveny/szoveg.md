@@ -462,7 +462,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 - b) az áldozatsegítő szolgálatnál foglalkoztatottak képesítési feltételeire vonatkozó szabályokat,
 - c) az irányítása alá tartozó szervek áldozatsegítő feladatait, azok civil szervezetekkel való együttműködésének formáit.
 
-(2) Felhatalmazást kap a rendészetért felelős miniszter, hogy rendelettel állapítsa meg az irányítása alá tartozó szervek áldozatsegítő feladatait, azok civil szervezetekkel való együttműködésének formáit.
+(2) Felhatalmazást kap az áldozatsegítésért felelős miniszter, hogy rendelettel állapítsa meg az irányítása alá tartozó szervek áldozatsegítő feladatait, azok civil szervezetekkel való együttműködésének formáit.
 
 (3) Felhatalmazást kap a Kormány, hogy az áldozatsegítő szolgálatot vagy szolgálatokat, ezen belül a támogató hatóságot vagy hatóságokat és a döntő hatóságot vagy hatóságokat rendeletben jelölje ki.
 

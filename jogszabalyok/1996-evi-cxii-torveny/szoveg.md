@@ -4264,6 +4264,23 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
 200. § Semmis a fogyasztóval kötött, a vételi jog biztosítéki célú kikötésére vonatkozó szerződés, ha a vételi jog a kötelezett által lakott lakóingatlanra vonatkozik.
 
+200/A. § (1) Ha pénzügyi intézmény a fogyasztóval devizában nyilvántartott vagy devizában nyújtott és forintban törlesztett (a továbbiakban: deviza alapú) lakáscélú hitel- vagy kölcsönszerződést vagy pénzügyi lízingszerződést kötött, akkor
+
+- a) a kölcsön folyósításakor a kölcsön,
+- b) a havonta esedékessé váló törlesztőrészlet, valamint
+- c) a devizában megállapított bármilyen költség, díj vagy jutalék forintban meghatározott összegének kiszámítása – ha a pénzügyi intézmény nem határoz meg saját deviza-középárfolyamot – a Magyar Nemzeti Bank által megállapított és közzétett, hivatalos devizaárfolyam alapján történik.
+
+(2) Ha a pénzügyi intézmény meghatároz saját deviza-középárfolyamot, akkor az (1) bekezdés a)–c) pontjaiban felsoroltak forintban meghatározott összegének kiszámítása a pénzügyi intézmény választása szerint
+
+- a) a pénzügyi intézmény által megállapított és közzétett, saját deviza-középárfolyama vagy
+- b) a Magyar Nemzeti Bank által megállapított és közzétett hivatalos devizaárfolyam alapján történik.
+
+(3) A pénzügyi intézmény az (1) bekezdésben foglaltak alapján elvégzett átváltással és számítással összefüggésben külön költséget, díjat vagy jutalékot nem számíthat fel.
+
+(4) E § rendelkezéseit megfelelően kell alkalmazni arra az esetre is, ha a törlesztőrészlet fizetése nem havi rendszerességgel történik, valamint ha a fogyasztó a fennálló teljes tartozását (vagy annak egy részét) elő-, illetve végtörleszti.
+
+(5) E § rendelkezéseit nem kell alkalmazni arra az esetre, ha a törlesztőrészlet fizetésére devizában kerül sor.
+
 ### A reklámtevékenységre vonatkozó különös rendelkezések
 
 201. § A fiatalkorúakat betételhelyezésre, hitelfelvételre vagy egyéb pénzügyi szolgáltatás igénybevételére felhívó reklámot hitelintézet mint reklámozó esetében legalább két országos napilapban, szövetkezeti hitelintézet mint reklámozó esetében pedig legalább egy napilapban és egy országos napilapban közzé kell tenni.
@@ -4350,14 +4367,17 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 - g) a betét biztosítottságára vonatkozó információt,
 - h) névre szóló betét esetében a hitelintézet által nyilvántartott személyi azonosító adatok körét.
 
-209. § A hitel- és a kölcsönszerződés általános szerződési feltételeit magában foglaló üzletszabályzatnak tartalmaznia kell legalább
+209. § (1) A hitel- és a kölcsönszerződés általános szerződési feltételeit magában foglaló üzletszabályzatnak tartalmaznia kell legalább
 
-- a) a hitelintézet teljes nevét, a tevékenységi engedély számát és dátumát,
+- a) a pénzügyi intézmény teljes nevét, a tevékenységi engedély számát és dátumát,
 - b) azt, hogy változtatható-e, és ha igen, milyen módon a kamat,
 - c) a kamatszámítás módját,
 - d) az egyéb díjakat és költségeket,
 - e) a szerződést biztosító mellékkötelezettségeket,
-- f) a KHR-rel kapcsolatos adatkezelési szabályokat, a jogorvoslati lehetőségekre való figyelemfelhívással együtt.
+- f) a KHR-rel kapcsolatos adatkezelési szabályokat, a jogorvoslati lehetőségekre való figyelemfelhívással együtt,
+- g) deviza alapú lakáscélú hitel- vagy kölcsönszerződés esetén a 200/A. §-ban foglaltaknak megfelelően kiválasztott és alkalmazott számítási módot, továbbá azt az adatot, hogy a forintban meghatározott összeg kiszámítására mely időpontban kerül sor.
+
+(2) Az (1) bekezdés g) pontját alkalmazni kell deviza alapú pénzügyi lízingszerződés esetén is.
 
 210. § (1) A pénzügyi intézmény pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződést csak írásban vagy minősített elektronikus aláírással ellátott elektronikus okirat formájában köthet. Az írásban kötött szerződés egy eredeti példányát a pénzügyi intézmény köteles az ügyfélnek átadni.
 
@@ -4391,6 +4411,18 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 (13) Az ügyfél hirdetményben történő tájékoztatása során biztosítani kell, hogy megállapítható legyen, melyik kamat-, díj- vagy költségelem milyen mértékben változik. Az ügyfél számára elérhetővé kell tenni a módosítás okait.
 
 (14) A pénzügyi intézmény az ügyfél számára nem kedvezőtlenül egyoldalúan módosíthatja az ügyféllel kötött szerződés feltételeit.
+
+210/A. § (1) Fogyasztóval kötött, lakáscélú hitel- és kölcsönszerződésre vagy pénzügyi lízingszerződésre a 210. § (3)–(5) és (11) bekezdésétől eltérően a (2)–(4) bekezdésben foglaltakat kell alkalmazni.
+
+(2) Az (1) bekezdésben meghatározott szerződés a pénzügyi intézmény által az ügyfél számára kedvezőtlenül – e törvény eltérő rendelkezése hiányában – nem módosítható.
+
+(3) A (2) bekezdésbe ütköző szerződésmódosítás semmis.
+
+(4) Az (1) bekezdésben meghatározott szerződés a pénzügyi intézmény által az ügyfél számára kedvezőtlenül kizárólag a kamat tekintetében, kormányrendeletben meghatározott esetekben, feltételekkel és módon módosítható, amennyiben azt a jegybanki alapkamat, a refinanszírozási kamatlábak, a pénzpiaci indexek, a hitelező lekötött ügyfélbetétei kamatának változása, a szabályozói környezet, illetve a hitelkockázat kormányrendeletben meghatározott változása indokolja.
+
+(5) Az (1) bekezdésben meghatározott szerződés esetében a szerződés felmondását követő kilencvenedik napot követően a pénzügyi intézmény a fogyasztó nem teljesítése miatt késedelmi kamatot, költséget, díjat vagy jutalékot nem számíthat fel a felmondás napját megelőző napon érvényes ügyleti kamatot és kezelési költséget meghaladó összegben.
+
+(6) Amennyiben az (1) bekezdésben meghatározott szerződés deviza alapú, és a szerződés a szerződés felmondása bekövetkezésekor a fennálló tartozás összegének forintban történő meghatározását írja elő, az (5) bekezdést azzal az eltéréssel kell alkalmazni, hogy a szerződés felmondását követő kilencvenedik napot követően a pénzügyi intézmény a fogyasztó nem teljesítése miatt, a felmondás napján érvényes ügyleti kamatot és kezelési költséget meghaladó mértékű késedelmi kamatot, költséget, díjat vagy jutalékot nem számíthat fel.
 
 211. § (1) A hitelintézet csak akkor köthet betétszerződést (szolgáltathat ki betétokiratot), illetőleg bocsáthat ki hitelviszonyt megtestesítő értékpapírt, ha a szerződés tartalmazza a 100. § (1) bekezdésében és a 100. § (2) bekezdésének c) pontjában foglalt rendelkezésekre történő figyelemfelhívást.
 
@@ -4695,6 +4727,15 @@ esetében kell alkalmazni.
 
 (5) A hatálybalépést követően a 221. § (4) bekezdésben említett jogszabály alapján betét elfogadásra, hitelnyújtásra vonatkozó új szerződés nem köthető, a már megkötött szerződésekre befizetett összegek visszafizetését legkésőbb a hatálybalépést követő háromszázhatvanötödik napon meg kell kezdeni.
 
+234/A. § (1) Az egyes pénzügyi tárgyú törvényeknek a nehéz helyzetbe került lakáscélú hitelt felvevő fogyasztók megsegítése érdekében szükséges módosításáról szóló 2010. évi XCVI. törvény (a továbbiakban: Módosító törvény)
+
+- a) 1. §-ával megállapított 200/A. §-t – a (3) bekezdés kivételével – a Módosító törvény hatálybalépését követően folyósított hitelre, kölcsönre és pénzügyi lízingre, valamint a Módosító törvény hatálybalépésekor már fennálló szerződésekre a Módosító törvény hatálybalépésétől számított tizenötödik napot követően teljesítendő törlesztőrészlet, valamint devizában megállapított bármilyen költség, díj vagy jutalék vonatkozásában is alkalmazni kell;
+- b) 2. §-ával megállapított 209. § (1) bekezdés g) pontjában, valamint a 209. § (2) bekezdésében foglalt rendelkezéseknek való megfelelés érdekében a pénzügyi intézmény üzletszabályzatát a Módosító törvény hatálybalépésétől számított tizenöt napon belül köteles módosítani;
+- c) 3. §-ával megállapított 210/A. § (1)–(4) bekezdését a Módosító törvény hatálybalépését megelőzően fogyasztóval kötött, lakáscélú hitel- és kölcsönszerződésre vagy pénzügyi lízingszerződésre is alkalmazni kell;
+- d) 3. §-ával megállapított 210/A. § (5)–(6) bekezdését a Módosító törvény hatálybalépését követően felmondott, fogyasztóval kötött lakáscélú hitel- és kölcsönszerződésre vagy pénzügyi lízingszerződésre kell alkalmazni. A Módosító törvény hatálybalépését megelőzően felmondott fogyasztóval kötött lakáscélú hitel- és kölcsönszerződésre, vagy pénzügyi lízingszerződésekre a 210/A. § (5)–(6) bekezdését azzal az eltéréssel kell alkalmazni, hogy az abban meghatározott kilencven napos időtartamot a Módosító törvény hatálybalépésétől kell számítani.
+
+(2) A Módosító törvénnyel megállapított 200/A. §-nak és 210/A. §-nak való megfelelés érdekében szükséges, a törlesztőrészlet, valamint a devizában megállapított bármilyen költség, díj vagy jutalék forintban meghatározott összegének kiszámítására és az egyoldalú szerződésmódosításra vonatkozó rendelkezéseire kiterjedő, az ügyfél számára kedvező egyoldalú szerződésmódosítást a pénzügyi intézmény az üzletszabályzata vagy az általános szerződési feltételek módosításával is végrehajthatja, ebben az esetben az üzletszabályzat vagy az általános szerződési feltételek vonatkozó rendelkezése válik a szerződés részévé. A módosításról az érintett ügyfeleket – legkésőbb a módosítás hatálybalépését követő legközelebbi számlakivonattal együttesen – postai úton vagy más, a szerződésben meghatározott közvetlen módon is értesíteni kell, továbbá elektronikus kereskedelmi szolgáltatás nyújtása esetén a módosítást az ügyfelek számára folyamatosan és könnyen hozzáférhető módon, elektronikus úton is elérhetővé kell tenni.
+
 235. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
 
 - a) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pontjában meghatározott szolgáltatások végzésére, valamint a szolgáltatások nyújtása során kötött szerződések kötelező tartalmi elemeire,
@@ -4710,7 +4751,8 @@ esetében kell alkalmazni.
 - k) a hitelintézet nyilvánosságra hozatali követelményeinek teljesítésére,
 - l) a partnerkockázat kezelésére és tőkekövetelményére
 - m) a független közvetítők felelősségbiztosítási szerződéseinek tartalmi követelményeire,
-- n) a közvetítői díj meghatározásának és kifizetésének módjára, időbeli ütemezésére
+- n) a közvetítői díj meghatározásának és kifizetésének módjára, időbeli ütemezésére,
+- o) a Hpt. 210/A. §-ában meghatározott szerződésekben előírt kamat a pénzügyi intézmény általi, az ügyfél számára kedvezőtlen egyoldalú módosításának eseteire, feltételeire és módjára
 
 vonatkozó részletes szabályokat.
 
@@ -5027,7 +5069,9 @@ c) létesítő okirat, megállapodás alapján döntő befolyást gyakorolhat a 
 
 4. Fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy.
 
-5.
+5.1. Lakáscélú hitel- vagy kölcsönszerződés: ingatlanra alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett megkötött olyan hitel- illetőleg kölcsönszerződés, amelyben a felek által okiratban rögzített hitelcél lakóingatlan vásárlása, építése, bővítése, korszerűsítése vagy felújítása.
+
+5.2. Lakáscélú pénzügyi lízingszerződés: olyan pénzügyi lízingszerződés, amelyben a felek által okiratban rögzített cél lakóingatlan tulajdonjogának harmadik személy eladótól történő, lízingbevevő általi megszerzése.
 
 6. Jegyzett tőke: az Szmt. 35. §-ának (3) bekezdése szerint meghatározott tőke.
 

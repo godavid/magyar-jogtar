@@ -468,7 +468,7 @@ köteles foglalkoztatni. Ezt követően a közalkalmazott munkaidejét a kérele
 - a) a kinevezésben foglalt határozott idő lejártával,
 - b) a közalkalmazott halálával,
 - c) a munkáltató jogutód nélküli megszűnésével, valamint
-- d) a 22. § (16) bekezdésében és a 25/A. § (1) bekezdésében meghatározott esetben,
+- d) a 22. (16) bekezdésében és a 25/A. § (1) bekezdésében meghatározott esetben, továbbá ha törvény így rendelkezik,
 - e) a prémiumévek programban történő részvétel esetén az erre vonatkozó külön törvény szabályai szerint.
 - e)
 
@@ -547,6 +547,8 @@ hatálya alá tartozó munkáltató számára történő átadására kerül sor
 (5)
 
 (6) A 34. § alkalmazásakor – amennyiben a közalkalmazottat eredeti munkakörében kell továbbfoglalkoztatni – az átvevő munkáltató köteles az ítélet jogerőre emelkedésekor a 25/A–25/B. §-ban foglaltak megfelelő alkalmazásával az állásfelajánlási és foglalkoztatási kötelezettséget teljesíteni. Az átvevő munkáltató a 25/A. § (2)–(3) bekezdése szerinti tájékoztatási kötelezettséget a jogerős ítélet közlésétől számított tizenöt napon belül köteles teljesíteni.
+
+25/D. § Külön törvény rendelkezik a közalkalmazott jogviszonyának átalakulásáról abban az esetben, amikor jogszabály rendelkezése folytán a munkáltató egésze vagy egy része (szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja) szervezeti vagy jogállás változása miatt a kormánytisztviselők jogállásáról szóló törvény hatálya alá kerül.
 
 26. § (1) Az áthelyezésben a két munkáltatónak egymással és a közalkalmazottal kölcsönösen meg kell állapodnia.
 

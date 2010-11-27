@@ -184,11 +184,11 @@ illetően.
 
 ### III. Fejezet — AZ ÜGYÉSZSÉGI SZOLGÁLATI VISZONY LÉTESÍTÉSE, MÓDOSÍTÁSA, A VEZETŐK MEGBÍZATÁSA, KINEVEZÉSE, A VEZETŐI MEGBÍZATÁS, KINEVEZÉS MEGSZŰNÉSE
 
-14. § (1) Ügyésszé azt a választójoggal rendelkező magyar állampolgárt lehet kinevezni, illetőleg legfőbb ügyésszé megválasztani, akinek egyetemi jogi végzettsége van, és külön jogszabály szerint jogi szakvizsgával rendelkezik. A katonai ügyészi kinevezés további feltétele, hogy a kinevezendő személy a Magyar Honvédség hivatásos állományú tisztje legyen.
+14. § (1) Ügyésszé azt a választójoggal rendelkező magyar állampolgárt lehet kinevezni, akinek egyetemi jogi végzettsége van, és külön jogszabály szerint jogi szakvizsgával rendelkezik. A katonai ügyészi kinevezés további feltétele, hogy a kinevezendő személy a Magyar Honvédség hivatásos állományú tisztje legyen.
 
-(2) A legfőbb ügyészt a köztársasági elnök javaslatára az Országgyűlés hat évre választja.
+(2) A legfőbb ügyészt a köztársasági elnök javaslatára az Országgyűlés kilenc évre választja a határozatlan időre kinevezett ügyészek közül.
 
-(3) A legfőbb ügyész helyettest a legfőbb ügyész javaslatára a köztársasági elnök határozatlan időre nevezi ki.
+(3) A legfőbb ügyész helyettest a legfőbb ügyész javaslatára a köztársasági elnök határozatlan időre nevezi ki a határozatlan időre kinevezett ügyészek közül.
 
 (4) A legfőbb ügyész az ügyészt első alkalommal (első ügyészi kinevezés) három évre, azt követően pedig – a 14/D. § (4) bekezdésében meghatározott eset kivételével – határozatlan időre nevezi ki. Nyugdíjas, illetőleg nyugdíjkorhatárt betöltött személy kinevezése ettől eltérő határozott időre, illetőleg határozatlan időre is szólhat. Az ügyész első kinevezése határozatlan időre szól, ha
 
@@ -330,7 +330,12 @@ illetően.
 - i) halálával;
 - j) választójogának elvesztésével.
 
-(2) A megbízatási időtartam leteltét követő nappal a volt legfőbb ügyészt — ha ehhez hozzájárul — más ügyészi munkakörbe kell áthelyezni. Ha a volt legfőbb ügyész az áthelyezéséhez nem járul hozzá, ügyészségi szolgálati viszonya a megbízatási időtartam leteltének időpontjában megszűnik.
+(1a) Ha a legfőbb ügyész megbízatása
+
+- a) az (1) bekezdés a) pontja vagy
+- b) az (1) bekezdés h) pontja alapján szűnt meg, a legfőbb ügyészi jogköröket az új legfőbb ügyész megbízatása kezdetéig gyakorolja.
+
+(2) A megbízatási időtartam leteltét követő nappal a volt legfőbb ügyészt – ha ehhez hozzájárul – más ügyészi munkakörbe kell áthelyezni. Ha a volt legfőbb ügyész az áthelyezéséhez nem járul hozzá, ügyészségi szolgálati viszonya a megbízatási időtartam leteltének időpontjában megszűnik. Az (1a) bekezdés a) pontja szerinti esetben a megbízatási időtartam letelte időpontjának az új legfőbb ügyész megbízatása kezdetét kell tekinteni.
 
 (3) A köztársasági elnök javaslatára az Országgyűlés határozatával felmentheti a legfőbb ügyészt megbízatása alól, ha a legfőbb ügyész neki fel nem róható okból nem képes eleget tenni a megbízatásából adódó feladatainak.
 
@@ -346,7 +351,7 @@ illetően.
 
 (9) Az (1) bekezdés h) pontjában említett esetben a legfőbb ügyészt hat havi átlagilletményének megfelelő összeg illeti meg.
 
-(10) Az (1) bekezdés d)—j) pontjaiban meghatározott esetekben a legfőbb ügyész ügyészségi szolgálati viszonya is megszűnik.
+(10) Az (1) bekezdés d)–j) pontjaiban meghatározott esetekben a legfőbb ügyész ügyészségi szolgálati viszonya is megszűnik. A hetvenedik életévét betöltött legfőbb ügyész ügyészségi szolgálati viszonya az (1a) bekezdés b) pontja szerinti esetben az új legfőbb ügyész megbízatása kezdetén szűnik meg.
 
 (11) Ha a legfőbb ügyész megbízatása az (1) bekezdés j) pontja alapján szűnik meg, ennek tényét a köztársasági elnök állapítja meg.
 
@@ -468,7 +473,7 @@ illetően.
 - e) országgyűlési, helyi önkormányzati képviselővé, illetőleg polgármesterré történő megválasztásával (40. §), továbbá állami vezetővé történő megválasztásával vagy kinevezésével, ;
 - f) hivatalvesztése kimondásával [20. § (8) bekezdés];
 - g) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát, illetőleg közügyektől eltiltást kiszabó jogerős határozatával, továbbá, ha büntetőeljárás során jogerős határozattal kényszergyógykezelését rendelték el;
-- h) hetvenedik életévének betöltésével;
+- h) hetvenedik életévének betöltésével vagy – a 20. § (1a) bekezdés b) pontja szerinti esetben – a 20. § (10) bekezdése szerinti időpontban;
 - i) halálával;
 - j) választójogának elvesztésével.
 
@@ -512,7 +517,7 @@ illetően.
 - a) megszűnt az ügyészségnek az a tevékenysége, amelynek körében az ügyészt foglalkoztatták;
 - b) átszervezés, létszámcsökkentés következtében az ügyész munkaköre feleslegessé vált;
 - c) az ügyész feladatai ellátására tartósan alkalmatlan, illetőleg a 41. § (8) bekezdésében említett vizsgálatnak nem vetette alá magát;
-- d) az ügyész rokkantsági (baleseti rokkantsági) nyugdíjban részesül, vagy a 70. életévét még nem töltötte be, de az általános öregségi nyugdíjkorhatárt betöltött ügyész felmentését e jogcímre hivatkozással maga kéri;
+- d) az ügyész rokkantsági (baleseti rokkantsági) nyugdíjban részesül, vagy a 65. életévét betöltötte, vagy az általános öregségi nyugdíjkorhatárt betöltött ügyész felmentését e jogcímre hivatkozással maga kéri,
 - e) az ügyész felmentése a 22. § (3) bekezdésében meghatározott okból válik szükségessé.
 
 (2) Az (1) bekezdés a)—c) pontjaiban meghatározott esetben sem szüntethető meg az ügyész ügyészségi szolgálati viszonya felmentéssel, ha fennállnak a Munka Törvénykönyvében meghatározott felmondási tilalmak.

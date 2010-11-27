@@ -8,7 +8,7 @@ az igazságügyi alkalmazottak szolgálati jogviszonyáról
 
 - a) a bíróságokkal,
 - b) az Országos Igazságszolgáltatási Tanács Hivatalával (a továbbiakban: OIT Hivatala),
-- c) a Kormány által rendeletben kijelölt pártfogó felügyelői, jogi segítségnyújtó, áldozatsegítő és kárpótlási tevékenységért felelős szervvel, valamint igazságügyi szakértői intézménnyel (a továbbiakban együttesen: egyéb igazságügyi szerv)
+- c) az igazságügyi szakértői intézménnyel (a továbbiakban: egyéb igazságügyi szerv)
 
 létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) terjed ki.
 
@@ -25,7 +25,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 (2) Igazságügyi alkalmazott:
 
 - a) a bírósági fogalmazó és a bírósági titkár,
-- b) a pártfogó felügyelő,
+- b)
 - c) az igazságügyi szakértő és a szakértőjelölt,
 - d) a tisztviselő,
 - e) az írnok,
@@ -41,13 +41,13 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 4. § A bírósági titkár önálló hatáskörét törvény állapítja meg.
 
-4/A. § A pártfogó felügyelő pártfogó felügyelői véleményt, környezettanulmányt készít, büntetőügyben közvetítői eljárást folytat le, szervezi és ellenőrzi a közérdekű munka végrehajtását, az egyéni pártfogó felügyelői terv szerint végrehajtja a pártfogó felügyeletet, pártfogói tevékenységet lát el a büntetés-végrehajtási intézetben, végzi az utógondozást, valamint ellátja a jogszabályban meghatározott más feladatait.
+4/A. §
 
 5. § (1) Az igazságügyi szakértő a feladatkörébe tartozó ügyekben a bíróság, az ügyészség, a rendőrség, illetve jogszabályban meghatározott más hatóság kirendelésére, továbbá megbízás alapján szakvéleményt ad.
 
 (2) A szakértőjelölt az igazságügyi szakértői kinevezéshez szükséges elméleti és gyakorlati ismeretek megszerzése érdekében – az igazságügyi szakértő szakmai felügyeletével – közreműködik a szakvélemény előkészítésében.
 
-6. § (1) Az igazságügyi szervnél – a 3–5. §-okban foglaltakon kívül – az érdemi és az ügydöntő feladatokat középfokú vagy felsőfokú iskolai végzettséggel rendelkező tisztviselők látják el. Tisztviselő a bírósági ügyintéző, a pártfogó felügyelői asszisztens, a végrehajtási ügyintéző, továbbá a fővárosi, megyei bírósági végrehajtó, végrehajtó-helyettes és a végrehajtójelölt is.
+6. § (1) Az igazságügyi szervnél – a 3–5. §-okban foglaltakon kívül – az érdemi és az ügydöntő feladatokat középfokú vagy felsőfokú iskolai végzettséggel rendelkező tisztviselők látják el. Tisztviselő a bírósági ügyintéző, a végrehajtási ügyintéző, továbbá a fővárosi, megyei bírósági végrehajtó, végrehajtó-helyettes és a végrehajtójelölt is.
 
 (2) A bírósági ügyintéző felsőfokú iskolai végzettséggel rendelkező tisztviselő, aki a bíró feladatkörében eljárva – a bíró irányítása és felügyelete mellett – önálló felelősséggel intézi a jogszabály által hatáskörébe utalt feladatokat.
 
@@ -98,7 +98,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 - a) aki büntetett előéletű,
 - b) aki a betöltendő munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll.
 
-(5) Bírósági fogalmazónak, bírósági titkárnak, igazságügyi szakértőnek és pártfogó felügyelőnek a (4) bekezdésben meghatározottakon túl azt sem lehet kinevezni:
+(5) Bírósági fogalmazónak, bírósági titkárnak, igazságügyi szakértőnek a (4) bekezdésben meghatározottakon túl azt sem lehet kinevezni:
 
 - a) aki büntetlen előéletű, de a bíróság bűncselekmény elkövetése miatt büntetőjogi felelősségét jogerős ítéletben megállapította,
   - aa) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított tizenkét évig,
@@ -131,7 +131,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 13. § (1) Bírósági fogalmazónak az az egyetemi állam- és jogtudományi diplomával rendelkező személy nevezhető ki, aki az OIT Hivatala által lebonyolított felvételi versenyvizsgát sikeresen letette. Bírósági titkárnak jogi szakvizsgával rendelkező személy nevezhető ki. A titkári kinevezés előtt bírói pályaalkalmassági vizsgálaton kell részt venni. A katonai tanácsoknál működő bírósági fogalmazókat elsősorban a Magyar Honvédség ösztöndíjasai közül kell kinevezni.
 
-(2) Pártfogó felügyelőnek egyetemi szintű jogász, okleveles közigazgatási szakértő, pszichológus, szociálpolitikus, szociológus vagy teológus; egyetemi vagy főiskolai szintű pedagógus, vagy szociális munkás; főiskolai szintű gyógypedagógus, igazgatásszervező vagy szociálpedagógus; felsőfokú képesítéssel és szakirányú továbbképzési szakon szerzett – így különösen addiktológiai konzulens, gyermek- és ifjúságvédelmi tanácsadó, mentálhigiénés – szakképesítéssel rendelkező személy nevezhető ki.
+(2)
 
 (3) Az igazságügyi szakértői kinevezéshez
 
@@ -140,7 +140,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (4) Szakértőjelöltnek a szakterületnek megfelelő egyetemi (főiskolai) végzettséggel rendelkező személy nevezhető ki.
 
-(5) Az igazságügyi szakértő, a szakértőjelölt, a pártfogó felügyelő, a tisztviselő és az írnok a kinevezéstől számított két éven belül az igazságszolgáltatási ismeretekről is számot adó ügyviteli vizsgát tesz. A (7) bekezdés szerinti jogszabály meghatározott iskolai végzettségű tisztviselő részére a vizsga alól részben vagy egészben felmentést adhat.
+(5) Az igazságügyi szakértő, a szakértőjelölt, a tisztviselő és az írnok a kinevezéstől számított két éven belül az igazságszolgáltatási ismeretekről is számot adó ügyviteli vizsgát tesz. A (7) bekezdés szerinti jogszabály meghatározott iskolai végzettségű tisztviselő részére a vizsga alól részben vagy egészben felmentést adhat.
 
 (6) A munkáltató a munkakörre előírt szakvizsga megszerzésének feltétele alól kivételesen indokolt esetben – legfeljebb 3 évre – halasztást engedélyezhet.
 
@@ -227,7 +227,8 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 - d) hivatalvesztés (elbocsátás) fegyelmi büntetés jogerős kiszabásával,
 - e) az e törvényben meghatározott egyéb esetekben, a törvény erejénél fogva,
 - f) azonnali hatállyal a próbaidő alatt,
-- g) határozott idejű kinevezés esetén a kinevezés idejének a lejártával is.
+- g) határozott idejű kinevezés esetén a kinevezés idejének a lejártával is,
+- h) külön törvény rendelkezése folytán.
 
 (2)
 
@@ -316,7 +317,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 - f) tizenhat év: hat havi,
 - g) húsz év: nyolc havi illetménynek megfelelő összeg.
 
-(2) A végkielégítés összegének a meghatározásánál szolgálati viszonyban töltött időként az igazságügyi és az ügyészi szerveknél megszakítás nélkül eltöltött idő, az ismételten létesített szolgálati viszony megszűnésekor pedig csak a korábbi végkielégítést követően e szerveknél eltöltött idő vehető figyelembe. A pártfogó felügyelő esetében szolgálati viszonyban töltött időnek minősül a gyámhivatalnál megszakítás nélkül köztisztviselőként és más szervnél azonos jellegű munkakörben köztisztviselőként vagy közalkalmazottként eltöltött idő is. A Központi Kárrendezési Irodától (a továbbiakban: KKI) áthelyezett igazságügyi alkalmazott esetében szolgálati viszonyban töltött időnek minősül a KKI-nál és jogelődjénél köztisztviselőként eltöltött idő is.
+(2) A végkielégítés összegének a meghatározásánál szolgálati viszonyban töltött időként az igazságügyi és az ügyészi szerveknél megszakítás nélkül eltöltött idő, az ismételten létesített szolgálati viszony megszűnésekor pedig csak a korábbi végkielégítést követően e szerveknél eltöltött idő vehető figyelembe. A Központi Kárrendezési Irodától (a továbbiakban: KKI) áthelyezett igazságügyi alkalmazott esetében szolgálati viszonyban töltött időnek minősül a KKI-nál és jogelődjénél köztisztviselőként eltöltött idő is.
 
 ### Eljárás a szolgálati viszony megszűnésekor
 
@@ -928,7 +929,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 97. § (1) Az alapilletményt az igazságügyi alkalmazott munkaköre és iskolai végzettsége, valamint az igazságügyi szolgálati ideje alapján, a megfelelő fizetési osztályba vagy csoportba, ezen belül – a fizikai alkalmazottak kivételével – fizetési fokozatba való besorolással kell megállapítani. A fizetési osztályokon belül a magasabb fizetési fokozatokhoz – az illetményalap arányában – növekvő mértékű szorzószámok tartoznak.
 
-(2) A fizetési osztályokat és a fizetési fokozatokat a bírósági titkár és a bírósági fogalmazó tekintetében a 3. számú melléklet, az igazságügyi szakértő és szakértőjelölt, a pártfogó felügyelő, valamint a tisztviselő és az írnok tekintetében a 4. számú melléklet tartalmazza.
+(2) A fizetési osztályokat és a fizetési fokozatokat a bírósági titkár és a bírósági fogalmazó tekintetében a 3. számú melléklet, az igazságügyi szakértő és szakértőjelölt, valamint a tisztviselő és az írnok tekintetében a 4. számú melléklet tartalmazza.
 
 98. § (1) A bírósági titkárt az I. fizetési osztályba kell besorolni.
 
@@ -948,7 +949,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (2) Az igazságügyi szolgálati időt – a (3)–(4) bekezdésben foglalt kivétellel – a kinevezés (alkalmazás) napjától kell számítani azzal, hogy a kezdő töredékévet egész évnek kell számítani.
 
-(3) Szolgálati időként kell figyelembe venni a kinevezés előtt más igazságügyi vagy ügyészségi szervnél – pártfogó felügyelő esetében a gyámhivatalnál köztisztviselőként, illetve más szervnél azonos jellegű munkakörben köztisztviselőként vagy közalkalmazottként –, azonos jellegű munkakörben eltöltött időt.
+(3) Szolgálati időként kell figyelembe venni a kinevezés előtt más igazságügyi vagy ügyészségi szervnél azonos jellegű munkakörben eltöltött időt.
 
 (4) Részben vagy egészben igazságügyi szolgálati időként lehet figyelembe venni
 
@@ -964,7 +965,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (2) A munkáltató az igazságügyi alkalmazott alapilletményét a munkavégzés színvonalára figyelemmel – a személyi juttatások előirányzaton belül – legfeljebb 30 százalékkal megemelheti, vagy legfeljebb 20 százalékkal csökkentett mértékben is megállapíthatja.
 
-103. § (1) A bírósági fogalmazónak a 98. § (2)–(3) bekezdése alapján történő előresorolásától eltekintve, átlagon felüli színvonalú munkavégzés esetén a bírósági titkár és a szakértőjelölt egy alkalommal, az igazságügyi szakértő, a pártfogó felügyelő, a tisztviselő és az írnok két alkalommal – soron kívül – eggyel magasabb fizetési fokozatba sorolható.
+103. § (1) A bírósági fogalmazónak a 98. § (2)–(3) bekezdése alapján történő előresorolásától eltekintve, átlagon felüli színvonalú munkavégzés esetén a bírósági titkár és a szakértőjelölt egy alkalommal, az igazságügyi szakértő, a tisztviselő és az írnok két alkalommal – soron kívül – eggyel magasabb fizetési fokozatba sorolható.
 
 (2) Két soron kívüli előresorolás között legalább hat évnek kell eltelnie.
 
@@ -978,7 +979,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Ktv. szerinti illetménykiegészítéssel növelt alapilletményénél.
 
-(2) A bírósági titkár, az igazságügyi szakértő és a pártfogó felügyelő alapilletménye nem lehet kevesebb a szolgálati viszonya kezdetétől számítva azonos szolgálati idővel rendelkező köztisztviselőnek a Ktv. szerint a központi közigazgatási szerveknél [Ktv. 44. § (1) bekezdés] az illetménykiegészítéssel növelt alapilletményénél.
+(2) A bírósági titkár, az igazságügyi szakértő alapilletménye nem lehet kevesebb a szolgálati viszonya kezdetétől számítva azonos szolgálati idővel rendelkező köztisztviselőnek a Ktv. szerint a központi közigazgatási szerveknél [Ktv. 44. § (1) bekezdés] az illetménykiegészítéssel növelt alapilletményénél.
 
 (3) A bírósági fogalmazó és a szakértő-jelölt alapilletménye nem lehet kevesebb a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselőnek a Ktv. szerint a közigazgatási hivatalnál az illetménykiegészítéssel növelt alapilletményénél.
 
@@ -1002,7 +1003,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Kt
 
 ### A címpótlék
 
-106. § Az e törvény alapján főtanácsosi címet kapott igazságügyi szakértő, pártfogó felügyelő és tisztviselő az illetményalap 15 százalékát, a tanácsosi címet kapott tisztviselő az illetményalap 10 százalékát kitevő pótlékra jogosult.
+106. § Az e törvény alapján főtanácsosi címet kapott igazságügyi szakértő és tisztviselő az illetményalap 15 százalékát, a tanácsosi címet kapott tisztviselő az illetményalap 10 százalékát kitevő pótlékra jogosult.
 
 ### Az idegennyelv-tudási pótlék
 
@@ -1062,7 +1063,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Kt
 
 ### A rendkívüli munkavégzés elismerése
 
-113. § (1) Az igazságügyi szakértő, a szakértőjelölt, a pártfogó felügyelő, valamint a tisztviselő részére – ha ügyeleti vagy készenléti díjra nem jogosult – rendkívüli munkavégzés esetén ezzel azonos tartamú szabadidő jár. A heti pihenőnapon vagy munkaszüneti napon végzett rendkívüli munkavégzés ellenértékeként kétszeres idejű szabadidő jár.
+113. § (1) Az igazságügyi szakértő, a szakértőjelölt, valamint a tisztviselő részére – ha ügyeleti vagy készenléti díjra nem jogosult – rendkívüli munkavégzés esetén ezzel azonos tartamú szabadidő jár. A heti pihenőnapon vagy munkaszüneti napon végzett rendkívüli munkavégzés ellenértékeként kétszeres idejű szabadidő jár.
 
 (2) Az (1) bekezdés szerinti szabadidő helyett a rendszeresen rendkívüli munkát végzők részére legfeljebb évi tizenöt nap szabadidő-átalány állapítható meg.
 
@@ -1196,9 +1197,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Kt
 
 126. § Az e törvény hatálybalépése előtt kinevezett bírósági fogalmazó joggyakorlatának teljesítésére és időtartamára az e törvény hatálybalépése előtt hatályos jogszabályokat kell alkalmazni.
 
-127. § (1) A munkáltató a törvény hatálybalépésének az időpontjában szolgálati viszonyban álló igazságügyi alkalmazott részére a középfokú iskolai, továbbá segédmunkás esetén az általános iskolai végzettség megszerzésére – legfeljebb 3 évre – halasztást engedélyezhet. A munkáltató a 2003. július 1-jén szolgálati viszonyban álló pártfogó felügyelő részére a felsőfokú képesítés megszerzésére – legfeljebb hat évre – halasztást engedélyezhet. Nem kötelezhető a pártfogó felügyelő a felsőfokú képesítés megszerzésére, ha a nyugdíjkorhatár eléréséig szükséges idő hat évnél kevesebb.
-
-(2) A képesítés megszerzése nem terheli azt az igazságügyi alkalmazottat, akit a törvény hatálybalépése előtt a vonatkozó jogszabályok alapján ez alól mentesítettek, illetve azokat az ügykezelőket [7. § (1) bekezdés], akik e törvény hatálybalépésekor szolgálati viszonyban állnak.
+127. §
 
 128–129. §
 
@@ -1227,7 +1226,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Kt
 (3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
 - a)
-- b) az igazságügyi alkalmazottak munkaköri elnevezéseit és a képesítési követelmények részletes szabályait, valamint a veszélyességi pótlékra jogosító munkaköröket – az OIT Hivatalára és a bíróságokra vonatkozóan az OIT, valamint feladatkörükben a kárpótlásért felelős miniszter és az áldozatsegítésért felelős miniszter egyetértésével –,
+- b) az igazságügyi alkalmazottak munkaköri elnevezéseit és a képesítési követelmények részletes szabályait, valamint a veszélyességi pótlékra jogosító munkaköröket – az OIT Hivatalára és a bíróságokra vonatkozóan az OIT egyetértésével –,
 - c) a bírósági fogalmazók felvételi rendjére és joggyakorlatára vonatkozó részletes szabályokat az OIT egyetértésével,
 - d) az igazságügyi alkalmazottaknak, valamint a bíróságok által fenntartott üdülők, bölcsődék és óvodák alkalmazottainak igazolványára vonatkozó szabályokat
 
@@ -1292,7 +1291,7 @@ rendeletben állapítsa meg.
 
 ### 4. számú melléklet az 1997. évi LXVIII. törvényhez
 
-#### Az igazságügyi szakértő, a szakértőjelölt, a pártfogó felügyelő, a tisztviselő és az írnok alapilletménye
+#### Az igazságügyi szakértő, a szakértőjelölt, a tisztviselő és az írnok alapilletménye
 
 | Fizetési fokozat | Szolgálati idő | Fizetési fokozatok és a szorzószámok, az illetményalap = 1 |  |
 | --- | --- | --- | --- |
