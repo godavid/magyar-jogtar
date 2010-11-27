@@ -1792,7 +1792,7 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 ### A végrehajtási költség elsőbbsége
 
-164. § A végrehajtás során befolyt összegből mindenekelőtt a végrehajtási költséget – az eljárás kezdeményezésével, elrendelésével és foganatosításával felmerült költséget – kell kielégíteni.
+164. § [(1)] A végrehajtás során befolyt összegből mindenekelőtt a végrehajtási költséget – az eljárás kezdeményezésével, elrendelésével és foganatosításával felmerült költséget – kell kielégíteni.
 
 ### Kielégítési sorrend
 
@@ -3060,7 +3060,7 @@ kérhetnek adatszolgáltatást.
 - a) alapító okirata megfelel az irányadó jogszabályoknak,
 - b) tagjával szemben a végrehajtói irodai tagságot kizáró, a 254/B. §-ban meghatározott körülmény nem áll fenn.
 
-(3) A kamara a (2) bekezdésben foglalt eljárása során megvizsgálja az alapító okiratban foglaltakat, beszerzi a miniszternek a végrehajtó irodai tagság létesítésére vonatkozó hozzájárulását, és – szükség esetén a helyszínen – ellenőrzi az okiratban foglalt adatok valódiságát.
+(3) A kamara a (2) bekezdésben foglalt eljárása során megvizsgálja az alapító okiratban foglaltakat, és – szükség esetén a helyszínen – ellenőrzi az okiratban foglalt adatok valódiságát.
 
 (4) A végrehajtói iroda köteles az alapítási engedély kézhezvételétől számított 30 napon belül az iroda alapítását bejegyzés és közzététel végett bejelenteni a cégjegyzéket vezető megyei bíróságnak mint cégbíróságnak; a végrehajtói iroda a cégjegyzékbe való bejegyzéssel, a bejegyzés napján jön létre.
 
@@ -3515,7 +3515,7 @@ kérhetnek adatszolgáltatást.
 
 ### Alkalmatlanság
 
-298. § (1) A kamara javaslatára a miniszter a 233. § (2) bekezdésének d) vagy e) pontjában foglalt körülmények fennállása esetén felszólítja a végrehajtót, hogy meghatározott időn belül mondjon le szolgálatáról.
+298. § (1) A kamara javaslatára a miniszter a 233. § (2) bekezdésének f) vagy g) pontjában foglalt körülmények fennállása esetén felszólítja a végrehajtót, hogy meghatározott időn belül mondjon le szolgálatáról.
 
 (2) Ha a végrehajtó e felszólításnak nem tett eleget, erről a miniszter értesíti az elsőfokú fegyelmi bíróságot. Az elsőfokú fegyelmi tanács a fegyelmi eljárás szabályainak megfelelő alkalmazásával határoz a végrehajtó alkalmatlanságáról, illetve érdemtelenségéről, és ha őt alkalmatlanná vagy érdemtelenné nyilvánítja, határozatában a végrehajtó szolgálatának megszűnését mondja ki.
 
@@ -3608,5 +3608,6 @@ való megfelelést szolgálja.
 - d) 16. §-ának h) pontja, 31/C. §-a és 210/B. §-a a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló, 2003. november 27-i 2201/2003/EK tanácsi rendelet,
 - e) 16. §-ának i) pontja, 31/C. §-a, 48. §-ának (8) bekezdése, 50. §-ának (5) bekezdése és 211. §-ának (3) bekezdése az európai fizetési meghagyásos eljárás létrehozásáról szóló, 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet,
 - f) 23/B. §-ának (1) bekezdése, 31/C. §-a, 37/B. §-a, 186. §-ának (3) bekezdése, 187. §-ának (3) bekezdése és 210/A. §-a a polgári és kereskedelmi ügyekben a joghatóságról, valamint a bírósági határozatok végrehajtásáról szóló, 2000. december 22-i 44/2001/EK tanácsi rendelet
+- g)
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
