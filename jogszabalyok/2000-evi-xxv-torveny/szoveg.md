@@ -87,7 +87,7 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 5. § (1) E törvény szerint a veszélyesség meghatározása érdekében az anyagokat tulajdonságaik, a keverékeket a bennük lévő veszélyes anyagok tulajdonságai szerint osztályozni kell a 3. § (1) és (2) bekezdésében meghatározott kategóriáknak megfelelően a CLP 61. cikkében meghatározott átmeneti rendelkezések megfelelő alkalmazásával.
 
-(2) Az anyagok, illetve a keverékek osztályozását a REACH és a CLP rendelkezéseire figyelemmel, külön jogszabályban meghatározottak szerint a regisztrációra kötelezett végzi, regisztrációs kötelezettség hiányában a gyártó vagy a forgalomba hozatalért felelős személy.
+(2) Az anyagok, illetve a keverékek osztályozását a REACH és a CLP rendelkezéseire figyelemmel, illetve a külön jogszabályban meghatározottak szerint a regisztrációra kötelezett végzi, regisztrációs kötelezettség hiányában a gyártó, továbbfelhasználó, az importőr vagy a forgalomba hozatalért felelős személy.
 
 (3) Az (1)–(2) bekezdésben előírtak szerint osztályba sorolt veszélyes anyagok magyarországi jegyzékét – osztályba sorolásukkal és feliratozásukkal együtt – az egészségügyi államigazgatási szerv naprakészen vezeti. A jegyzéket az egészségügyi államigazgatási szerv honlapján közzé kell tenni.
 
@@ -125,13 +125,9 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 ### A forgalomba hozatalra és a közösségi jegyzékben nem szereplő anyagokkal kapcsolatos adatok felkutatására vonatkozó előírások
 
-9. § (1) Veszélyes anyagot és veszélyes keveréket kizárólag akkor lehet forgalomba hozni, ha azokat a 14–17. §-ban, valamint a külön jogszabályban foglaltakkal összhangban, a regisztrált anyagok esetében pedig a REACH 12. és 13. cikkének alkalmazásával szerzett információkkal összhangban csomagolták vagy címkézték.
+9. § (1) Veszélyes keveréket kizárólag akkor lehet forgalomba hozni, ha azokat a 14–17. §-ban, valamint a külön jogszabályban foglaltakkal összhangban, a regisztrált anyagok esetében pedig a REACH 12. és 13. cikkének alkalmazásával szerzett információkkal összhangban csomagolták vagy címkézték.
 
-(2) Az (1) bekezdés szerinti intézkedéseket kell alkalmazni mindaddig, amíg az anyagot az adott besorolási tételben szereplő veszélyességi kategóriák tekintetében fel nem veszik a közösségi jegyzékbe, vagy amíg listába vételének mellőzéséről döntést nem hoznak a CLP 37. cikkében szabályozott eljárással összhangban.
-
-(3) A közösségi jegyzékben szereplő veszélyes anyagot csak abban az esetben lehet forgalomba hozni, ha azokat az adott besorolási tételnek megfelelő címkeelemekkel látták el.
-
-(4) Azon anyagok gyártói, forgalmazói és importőrei, amelyek szerepelnek az EINECS-ben, de amelyek tekintetében a közösségi jegyzék nem tartalmaz besorolási tételt, felkutatják az ilyen anyagok tulajdonságaival kapcsolatos lényeges és hozzáférhető adatokat. Ezen információk alapján kell a veszélyes anyagokat csomagolniuk és ideiglenes címkével ellátniuk a 14–17. §-ban foglaltakkal összhangban.
+(2)–(4)
 
 (5) A CLP szerint is osztályozott veszélyes anyagok és veszélyes keverékek csak abban az esetben hozhatók forgalomba, ha azokat a CLP szerint címkézték és csomagolták.
 
@@ -145,11 +141,11 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 13. §
 
-### IV. Fejezet — A VESZÉLYES ANYAGOK, ILLETVE VESZÉLYES KEVERÉKEK CSOMAGOLÁSA, FELIRATOZÁSA (CÍMKÉZÉSE), TÁROLÁSA, SZÁLLÍTÁSA, REKLÁMOZÁSA
+### IV. Fejezet — A VESZÉLYES ANYAGOK ÉS VESZÉLYES KEVERÉKEK TÁROLÁSA, SZÁLLÍTÁSA. A VESZÉLYES KEVERÉKEK CSOMAGOLÁSA, FELIRATOZÁSA (CÍMKÉZÉSE)
 
 ### A csomagolás, tárolás, szállítás
 
-14. § (1) A veszélyes anyag, illetve a veszélyes keverék kiszerelt, nem ömlesztett formában, olyan csomagolóeszközben, zárással, felirattal (címkével), szükség szerint egyéb jelzésekkel ellátva hozható forgalomba, amely megfelel ezen jogszabály, illetve a 9. és 10. §-ban foglaltak figyelembevételével a CLP előírásainak, és amely a veszélyes anyag, illetőleg veszélyes keverék felhasználásáig biztosítja az egészségkárosodás, illetve környezetszennyezés vagy -károsodás elkerülését.
+14. § (1) A veszélyes keverék kiszerelt, nem ömlesztett formában, olyan csomagolóeszközben, zárással, felirattal (címkével), szükség szerint egyéb jelzésekkel ellátva hozható forgalomba, amely megfelel ezen jogszabály, illetve a 9. és 10. §-ban foglaltak figyelembevételével a CLP előírásainak, és amely a veszélyes keverék felhasználásáig biztosítja az egészségkárosodás, illetve környezetszennyezés vagy -károsodás elkerülését.
 
 (2) Az (1) bekezdésben meghatározott károsodások elkerülése végett a csomagolóeszközt úgy kell megválasztani, hogy
 
@@ -158,8 +154,8 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 - c) a csomagolóeszközök és a záróelemek sérülés nélkül feleljenek meg a megfelelő anyagmozgatás, és bármilyen más, a felhasználás során történő rendeltetésszerű igénybevétel követelményeinek;
 - d) az ismételt visszazárásra alkalmas záróelemmel ellátott csomagolóeszközből többszöri lezárást követően is megakadályozza a tartalom kijutását;
 - e) a csomagolóeszközön, amely lakossági felhasználásra kereskedelmi forgalomba hozott
-  - ea) nagyon mérgező, mérgező, maró anyagokat, illetve keverékeket tartalmaz, gyermekbiztos zárás és veszélyre utaló, tapintással érzékelhető figyelmeztető jelkép,
-  - eb) ártalmas, fokozottan tűzveszélyes, tűzveszélyes anyagokat, illetve keverékeket tartalmaz, veszélyre utaló, tapintással érzékelhető figyelmeztető jelkép
+  - ea) nagyon mérgező, mérgező, maró keverékeket tartalmaz, gyermekbiztos zárás és veszélyre utaló, tapintással érzékelhető figyelmeztető jelkép,
+  - eb) ártalmas, fokozottan tűzveszélyes, tűzveszélyes keverékeket tartalmaz, veszélyre utaló, tapintással érzékelhető figyelmeztető jelkép
 
 is legyen;
 
@@ -177,7 +173,7 @@ is legyen;
 
 16. § A veszélyes anyagok és a veszélyes keverékek szállítása során az élet, a testi épség, valamint a környezet veszélyeztetésének kockázatát a minimálisra kell csökkenteni. Ennek érdekében a veszélyes anyagok, illetve a veszélyes keverékek csomagolását, illetőleg a szállítóeszközt úgy kell megválasztani, hogy a szállított anyag, keverék a rakodás és szállítás során az egészséget, illetve a környezetet ne veszélyeztethesse, illetőleg ne károsíthassa.
 
-### A veszélyes anyagok, illetve a veszélyes keverékek feliratozása címkézése
+### A veszélyes keverékek feliratozása, címkézése
 
 17. § (1) A külön jogszabályban meghatározott veszélyes keverékeket és azon keverékeket, amelyek legalább egy veszélyes anyagot tartalmaznak, e törvény és a végrehajtására kiadott külön jogszabály szerint kell osztályozni, csomagolni és feliratozni (címkézni). Bármely, a 29. § szerint bejelentéshez kötött tevékenység csak a (2)–(8) bekezdés vagy a CLP szerint feliratozott (címkézett) veszélyes anyaggal, illetve veszélyes keverékkel végezhető.
 
@@ -185,10 +181,10 @@ is legyen;
 
 - a) a termék nevét, a benne lévő veszélyes anyag megnevezését a közösségi jegyzék, illetve, ha ebben nem szerepel, a magyarországi jegyzék szerinti valamely megnevezésének megfelelően, vagy – jegyzékbevételig – valamely hivatalos nemzetközi elnevezés magyar megfelelőjét;
 - b) a forgalomba hozatalért felelős személy megnevezését és teljes címét, telefonszámát;
-- c) a veszélyes anyag, illetve a veszélyes keverék használatával felmerülő veszély megjelölését és a veszély jelképét (szimbólumát);
-- d) a veszélyes anyag, illetve a veszélyes keverék használatával járó különös kockázatokat megjelölő, az egészségügyért felelős miniszter által meghatározott szabványmondatokat (R mondat);
-- e) a veszélyes anyag, illetve a veszélyes keverék biztonságos használatával kapcsolatos, az egészségügyért felelős miniszter által meghatározott szabványmondatokat (S mondat);
-- f) az Európai Közösségben (EU-ban) jegyzékbe vett veszélyes anyagok esetén az EINECS, illetve az ELINCS szerinti jegyzékszámot. Az e jegyzékekben szereplő anyagok esetében – a lakossági forgalomba kerülő veszélyes anyagok esetén 2002. január 1. napjától – a feliraton (címkén) szerepelnie kell az ,,EK felirat'' szavaknak is;
+- c) a veszélyes keverék használatával felmerülő veszély megjelölését és a veszély jelképét (szimbólumát);
+- d) a veszélyes keverék használatával járó különös kockázatokat megjelölő, az egészségügyért felelős miniszter által meghatározott szabványmondatokat (R mondat);
+- e) a veszélyes keverék biztonságos használatával kapcsolatos, az egészségügyért felelős miniszter által meghatározott szabványmondatokat (S mondat);
+- f)
 - g)
 
 (3)
@@ -199,7 +195,7 @@ is legyen;
 
 (6) A feliratot (címkét) a csomagolás egy, illetve több oldalán úgy kell elhelyezni, hogy ha a csomagot szabályosan teszik le, azt vízszintesen lehessen olvasni.
 
-(7) A veszélyes anyagok és veszélyes keverékek felirata (címkéje) nem tartalmazhat olyan kifejezést vagy megjelölést, amely a termék veszélyességének nem megfelelő értékelését eredményezheti, így különösen nem utalhat a termék ártalmatlanságára vagy veszélytelenségére.
+(7) A veszélyes keverékek felirata (címkéje) nem tartalmazhat olyan kifejezést vagy megjelölést, amely a termék veszélyességének nem megfelelő értékelését eredményezheti, így különösen nem utalhat a termék ártalmatlanságára vagy veszélytelenségére.
 
 (8)
 
@@ -420,7 +416,7 @@ részletes szabályait rendeletben meghatározza.
 
 rendeletben meghatározza.
 
-(5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a közösségi jegyzéket és annak változásait rendeletben tegye közzé.
+(5)
 
 (6) Felhatalmazást kap az egészségügyért felelős miniszter és a foglalkoztatáspolitikáért felelős miniszter, hogy a munkavállalók egészségének védelme érdekében korlátozandó veszélyes anyagok, veszélyes keverékek, illetve tevékenységek körét, valamint a korlátozás módját együttes rendeletben állapítsa meg.
 

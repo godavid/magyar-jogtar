@@ -201,6 +201,8 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 (2) Az (1) bekezdés a)–k) pontjaiban említett tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti. Az l)–v) pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű harmadik jogszerzővel szemben.
 
+(3) Tulajdonjog fenntartással történő eladás ténye jegyezhető fel az ingatlan tulajdonjogának a futamidő végén – minden további jognyilatkozat nélkül (ide nem értve a tulajdonjog bejegyzési engedélyt) – történő átszállását eredményező pénzügyi lízingbe adás esetében is.
+
 ### II. Fejezet — AZ INGATLAN-NYILVÁNTARTÁS RÉSZEI
 
 18. § (1) Az ingatlan-nyilvántartás az erre meghatározott számítógépes adathordozón rögzített, olvasható formában megjeleníthető tulajdoni lapból, a tulajdoni lapról megszűnt bejegyzések adatainak jegyzékéből, továbbá az ingatlan-nyilvántartási térképből és az okirattárból áll. Ha e törvény így rendelkezik, ingatlan-nyilvántartási térképként a számítógépes adathordozón rögzített földmérési alaptérképet kell használni. Az ingatlan-nyilvántartási térképpel egy tekintet alá esik az egyéb önálló ingatlanok alaprajza.
