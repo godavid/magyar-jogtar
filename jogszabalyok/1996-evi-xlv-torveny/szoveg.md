@@ -26,7 +26,7 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 - b) miniszter: a katonai felsőoktatási intézmény vonatkozásában a honvédelemért felelős miniszter, a rendvédelmi felsőoktatási intézmény – Rendőrtiszti Főiskola – vonatkozásában a rendészetért felelős miniszter,
 - c) országos parancsnok: az a) pont szerinti fegyveres szerv országos parancsnoka, főigazgatója vagy országos főkapitánya, a honvédség esetében a Honvéd Vezérkar főnöke
 - d) szakmai gyakorlat: az intézmény tanterve által megkövetelt csapat-, területi vagy üzemi gyakorlat,
-- e) vezető: a rektor (a továbbiakban: az intézmény vezetője), a dékán és helyetteseik, a gazdasági (fő)igazgató, az igazgatási feladatot ellátó szervezeti egység vezetője (a továbbiakban: főtitkár), az oktatási és a tudományos kutatási szervezeti egység vezetője, a kollégiumi igazgató.
+- e) vezető: a rektor (a továbbiakban: az intézmény vezetője), a dékán és helyetteseik, a gazdasági (fő)igazgató, az igazgatási feladatot ellátó szervezeti egység vezetője (a továbbiakban: főtitkár), a katonai főigazgató, az oktatási és a tudományos kutatási szervezeti egység vezetője, a kollégiumi igazgató.
 
 ### II. Fejezet — A VEZETŐK ÉS OKTATÓK
 
@@ -103,7 +103,7 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 
 (4) A rektor felett a munkáltatói jogkört – a kinevezési és felmentési jogkör kivételével – a miniszter gyakorolja.
 
-12. § (1) A szenátusi véleményezést követően a rektorhelyettest, a dékánt, a főtitkárt és a gazdasági (fő)igazgatót határozott időre a miniszter bízza meg, illetve nevezi ki.
+12. § (1) A szenátusi véleményezést követően a rektorhelyettest, a dékánt, a főtitkárt, a katonai főigazgatót és a gazdasági (fő)igazgatót határozott időre a miniszter bízza meg, illetve nevezi ki.
 
 (2) Rektorhelyettesi kinevezést vagy megbízást, dékáni kinevezést egyetemi tanár, egyetemi docens, főiskolai tanár, dékán-helyettesi megbízást főiskolai docens is kaphat.
 
@@ -470,7 +470,7 @@ A katonai és a rendvédelmi felsőoktatási intézményekben folyó tevékenys�
 - a) külön rendelet szerint ruházati ellátásra,
 - b) az alapkiképzés bentlakásra kötelezett időszakában elhelyezésre és ellátásra.
 
-45/A. § A katasztrófa megelőzése és következményeinek elhárítása érdekében történő feladatok ellátásáért az ösztöndíjas hallgatót naponta az illetményalap 5,8%-a szerinti katasztrófavédelmi pótlék illeti meg.
+45/A. § A katasztrófa megelőzése és következményeinek elhárítása érdekében történő feladatok ellátásáért az ösztöndíjas hallgatót naponta az illetményalap 5,8%-a szerinti katasztrófavédelmi pótlék illeti meg, amelynek fedezetét a szerződést kötő fegyveres szerv éves költségvetésében kell biztosítani.
 
 ### VI. Fejezet — A VEZETŐKRE, OKTATÓKRA ÉS HALLGATÓKRA VONATKOZÓ KÖZÖS SZABÁLYOK
 
