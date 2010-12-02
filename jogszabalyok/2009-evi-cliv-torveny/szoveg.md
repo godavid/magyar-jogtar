@@ -404,14 +404,7 @@ b) kérik, hogy az arra vonatkozó adatokat, amely szerint a 21. § (3) bekezdé
 - a) 18. §-a és az azt megelőző címe,
 - b) 29. § (3) bekezdésének „kereskedelmi forgalomba hozott” szövegrésze.
 
-(4) Hatályát veszti a Kbtv.
-
-- a) 9. § (1) bekezdésének „anyagot és veszélyes” szövegrésze, valamint 9. § (2)–(4) bekezdése,
-- b) 14. § (2) bekezdés e) pontjának ea) és eb) alpontjában az „anyagokat, illetve” szövegrész,
-- c) 17. § (2) bekezdés c)–e) pontjában az „a veszélyes anyag, illetve” szövegrész,
-- d) 17. § (2) bekezdés f) pontja,
-- e) 17. § (7) bekezdésében a „veszélyes anyagok és” szövegrész,
-- f) 34. § (5) bekezdése.
+(4)
 
 (5) Hatályát veszti a Kbtv.
 
@@ -556,17 +549,7 @@ szöveg lép.
 
 (8) Az Eütv. e törvénnyel megállapított 116/C. §-a azzal alkalmazható, hogy az e törvény hatálybalépését megelőzően minősítési eljárás során továbbképzési pontértékkel ellátott továbbképzések lefolytathatók.
 
-129. § (1) A Kbtv. 5. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az anyagok, illetve a keverékek osztályozását a REACH és a CLP rendelkezéseire figyelemmel, illetve a külön jogszabályban meghatározottak szerint a regisztrációra kötelezett végzi, regisztrációs kötelezettség hiányában a gyártó, továbbfelhasználó, az importőr vagy a forgalomba hozatalért felelős személy.”
-
-(2) A Kbtv. 14. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A veszélyes keverék kiszerelt, nem ömlesztett formában, olyan csomagolóeszközben, zárással, felirattal (címkével), szükség szerint egyéb jelzésekkel ellátva hozható forgalomba, amely megfelel ezen jogszabály, illetve a 9. és 10. §-ban foglaltak figyelembevételével a CLP előírásainak, és amely a veszélyes keverék felhasználásáig biztosítja az egészségkárosodás, illetve környezetszennyezés vagy -károsodás elkerülését.”
-
-(3) A Kbtv. 17. §-át megelőző alcím helyébe a következő rendelkezés lép:
-
-„A veszélyes keverékek feliratozása, címkézése”
+129. § (1)–(3)
 
 (4) A Kbtv. 3. §-a helyébe a következő rendelkezés lép:
 

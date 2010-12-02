@@ -195,7 +195,8 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 - c) ellátja a 10. § b)–i) pontjában meghatározott hatáskörökből eredő feladatokat,
 - d) elfogadja az éves piacfelügyeleti tervet, és ellenőrzi annak végrehajtását,
 - e) előterjeszti a hatóság éves költségvetésének tervezetét, valamint a féléves és éves intézményi költségvetési beszámolóját,
-- f) javaslatot tesz az elektronikus hírközlést érintő jogszabály módosítására.
+- f) javaslatot tesz az elektronikus hírközlést érintő jogszabály módosítására,
+- g) külön jogszabály rendelkezései alapján dönt a Hatóság tevékenysége során kezelt minősített adatok minősítéséről.
 
 (2) Az Elnököt a miniszterelnök nevezi ki 9 évre.
 

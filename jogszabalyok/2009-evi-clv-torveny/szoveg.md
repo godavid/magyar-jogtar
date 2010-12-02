@@ -68,7 +68,8 @@ Az Országgyűlés az állami és a közfeladatok ellátásának biztosítása �
 - o) a rendvédelmi szerv központi szerve, valamint a katonai nemzetbiztonsági szolgálatok vezetője és a rendvédelmi szerveknél belső bűnmegelőzési és bűnfelderítő feladatokat ellátó szervnek a vezetője,
 - p) a Nemzeti Biztonsági Felügyelet vezetője,
 - q) a Magyar Köztársaság külképviseletének vezetője, valamint a nemzetközi szerződésben meghatározott kötelezettségvállalás teljesítése érdekében más államhoz, nemzetközi szervezethez vagy regionális együttműködés központjába delegált önálló képviseleti hatáskörrel rendelkező személy,
-- r) törvény által minősítésre feljogosított személy.
+- r) törvény által minősítésre feljogosított személy,
+- s) az autonóm államigazgatási szerv vezetője.
 
 (2) Az (1) bekezdés szerinti minősítők minősítői jogkörüket írásban
 
