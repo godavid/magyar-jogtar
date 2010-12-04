@@ -428,6 +428,7 @@ szerzett.
   - qc) az átruházó társaság legalább két üzletággal rendelkezik, melyek az átruházást megelőző két teljes, 12 hónapos adóévben önálló üzletágként működtek,
   - qd) az átvevő társaság vállalja, hogy az átruházás évét követő 2. naptári év végéig nem veszi igénybe a 23/A. § szerinti kedvezményes illetékmértéket,
   - qe) az üzletágat átvevő társaság vállalja azt is, hogy az átvett eszközöket az illetékkiszabásra történő bemutatást követő egy éven belül nem idegeníti el;
+- r)
 - s) a termőföldről szóló törvény 3. §-a u) pontjának 2. alpontjában meghatározott mezőgazdasági termelők által gazdaságátadási támogatás igénybevétele érdekében a közeli hozzátartozóval [Ptk. 685. § b) pont] megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó – ide értve a gépjárművet és a pótkocsit is – tulajdonának, illetve vagyoni értékű jognak a megszerzése;
 - t) a belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betétnek a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozások közötti átruházása.
 
@@ -594,7 +595,8 @@ szerzett.
 - 32. őstermelői igazolvány cseréje, ha arra az őstermelői igazolványban szereplő helységnév, utcanév, illetve házszám állami vagy önkormányzati döntés alapján történő változása, illetve az őstermelő lakóhelyének más megye illetékességi területéhez való csatolása miatt kerül sor,
 - 33. a külön törvényben meghatározott hozzátartozók közötti erőszak miatt az ideiglenes megelőző távoltartó határozat elrendelésére irányuló eljárás,
 - 34. a Pénzügyi Szervezetek Állami Felügyeletének fogyasztóvédelmi eljárása;
-- 35. a fogyasztóvédelmi hatóság fogyasztóvédelmi eljárása.
+- 35. a fogyasztóvédelmi hatóság fogyasztóvédelmi eljárása;
+- 36. az európai területi együttműködési csoportosulásban történő részvétel jóváhagyására irányuló eljárás.
 
 ### Az államigazgatási eljárási illeték fizetésének módja
 
@@ -801,7 +803,7 @@ esetében.
 - b) a költségmentesség vagy az illetékfeljegyzési jog tárgyában hozott határozat elleni jogorvoslati eljárás;
 - c) a bontóperben a házasság vonatkozásában indított viszontkereset;
 - d) a holtnak nyilvánítással és a halál tényének megállapításával kapcsolatos eljárás, ha az eltűnés vagy a halál háborús esemény vagy természeti katasztrófa folytán következett be;
-- e) az alapítvány, a közalapítvány, a társadalmi szervezet, a köztestület, az európai területi együttműködési csoportosulás, továbbá a Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény alapján létrehozott MRP szervezet nyilvántartásba vételére irányuló eljárás, valamint az európai területi együttműködési csoportosulásban történő részvétel jóváhagyására irányuló eljárás;
+- e) az alapítvány, a közalapítvány, a társadalmi szervezet, a köztestület, az európai területi együttműködési csoportosulás, továbbá a Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény alapján létrehozott MRP szervezet nyilvántartásba vételére irányuló eljárás;
 - f) a megszűnt cég törlése iránti kérelem, ideértve az egyszerűsített végelszámolásban – a végelszámoló személyének bejelentésével együtt – előterjesztett törlés iránti kérelmet;
 - g) a határozat kijavítása, illetve kiegészítése iránti kérelem;
 - h) a választói névjegyzékkel kapcsolatos eljárás;
@@ -1270,6 +1272,8 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 99. §
 
+99/B. § A Mellékletnek a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 20. alcímével hatályon kívül helyezett XV. pont 3. alpontját a hatályvesztést megelőzően indult eljárásokban alkalmazni kell.
+
 ### Felhatalmazás
 
 100. § (1) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy rendelettel állapítsa meg
@@ -1572,7 +1576,7 @@ n) az építésrendészeti hatósági intézkedés kérése esetében 15 000 for
 
 2. az építésügyi és építésfelügyeleti hatósági eljárásban hozott döntés ellen igénybe vehető fellebbezés esetén 30 000 forint,
 
-3. a felügyeleti intézkedés kezdeményezése esetén 50 000 forint.
+3.
 
 4. Illetékmentes és igazgatási szolgáltatási díjmentes a Kormány által rendeletben kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő bontási, elvi építési, építési, módosított építési és használatbavételi engedélyezési eljárás, valamint az eljárásban közreműködő szakhatóságok eljárása.
 
