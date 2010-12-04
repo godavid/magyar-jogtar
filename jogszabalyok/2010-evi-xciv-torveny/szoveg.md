@@ -8,12 +8,11 @@ Az Országgyűlés az államháztartás egyensúlyának javítása érdekében, 
 
 1. § E törvény alkalmazásában:
 
-- 1. bolti kiskereskedelmi tevékenység: a 2009. január 1-jén hatályos Gazdasági Tevékenységek Egységes Osztályozási Rendszere (a továbbiakban : TEÁOR' 08) szerint a 45.1 ágazatba – ide nem értve a gépjármű, pótkocsi nagykereskedelmét –, 45.32, 45.40 ágazatba – ide nem értve a motorkerékpár javítását, nagykereskedelmét –, továbbá a 47.1–47.9 ágazatokba sorolt tevékenységek, azaz minden olyan kereskedelmi tevékenység, melynek folytatása esetén a vevő a vállalkozónak nem minősülő magánszemély is lehet,
+- 1. bolti kiskereskedelmi tevékenység: a 2009. január 1-jén hatályos Gazdasági Tevékenységek Egységes Osztályozási Rendszere (a továbbiakban: TEÁOR' 08) szerint a 45.1 ágazatba – ide nem értve a gépjármű, pótkocsi nagykereskedelmét –, 45.32, 45.40 ágazatba – ide nem értve a motorkerékpár javítását, nagykereskedelmét –, továbbá a 47.1–47.9 ágazatokba sorolt tevékenységek,
 - 2. távközlési tevékenység: az elektronikus hírközlésről szóló 2003. évi C. törvény szerinti elektronikus hírközlési szolgáltatás nyújtása,
 - 3. vállalkozási tevékenység: jövedelem- és nyereségszerzésre irányuló, üzletszerű gazdasági tevékenység,
 - 4. energiaellátó: a távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény (Távhő tv.) 10. §-ának 1. pontja szerinti energiaellátó (ide értve a villamosenergiáról szóló törvény vagy a földgázellátásról szóló törvény szerinti egyetemes szolgáltatót is), ha a Távhő tv. szerinti energiaellátói minőségében végzett tevékenységéből származó, számviteli törvény szerinti nettó árbevétele az adóévet megelőző évben – a tevékenységét adóévben kezdő energiaellátó esetén az adóévben – eléri az összes, számviteli törvény szerinti nettó árbevétel legalább 5%-át,
 - 5. nettó árbevétel: a számviteli törvény hatálya alá tartozó adóalany esetén a számviteli törvényben meghatározott értékesítés nettó árbevétele; a számviteli törvény hatálya alá nem tartozó egyszerűsített vállalkozói adóalany esetében az egyszerűsített vállalkozói adóról szóló törvény szerinti, általános forgalmi adó nélküli bevétel; a magánszemélyek jövedelemadójáról szóló törvény hatálya alá tartozó adóalany esetében a személyi jövedelemadóról szóló törvény szerinti általános forgalmi adó nélküli bevétel.
-- 6. vállalkozó: a helyi adókról szóló törvény szerinti vállalkozó.
 
 ### Adókötelezettség
 
@@ -31,17 +30,15 @@ Az Országgyűlés az államháztartás egyensúlyának javítása érdekében, 
 
 ### Adóalap
 
-4. § (1) Az adó alapja az adóalanynak az adóévben a 2. § szerinti tevékenységéből származó nettó árbevétele.
-
-(2) A 2. § a) pont szerinti tevékenység folytatása esetén az adóalapba tartozik a kiskereskedelmi forgalomban eladásra szánt, beszerzett áruk szállítójának (az áru előállítójának, forgalmazójának) – a beszerzett áruk értékesítésével összefüggésben – nyújtott szolgáltatásból származó árbevétel, valamint e szállító által adott engedményből származó bevétel összege.
+4. § Az adó alapja az adóalanynak az adóévben a 2. § szerinti tevékenységéből származó nettó árbevétele.
 
 ### Adómérték
 
 5. § Az adó mértéke
 
 - a) a 2. § a) pontja szerinti tevékenységvégzés esetén az adóalap 500 millió forintot meg nem haladó része után 0%, az adóalap 500 millió forintot meghaladó, de 30 milliárd forintot meg nem haladó része után 0,1%, az adóalap 30 milliárd forintot meghaladó, de 100 milliárd forintot meg nem haladó része után 0,4%, az adóalap 100 milliárd forintot meghaladó része után 2,5%,
-- b) a 2. § b) pontja szerinti tevékenységvégzés esetén az adóalap 500 millió forintot meg nem haladó része után 0%, az adóalap 500 millió forintot meghaladó, de 5 milliárd forintot meg nem haladó része után 4,5%, az adóalap 5 milliárd forintot meghaladó része után 6,5%,
-- c) a 2. § c) pontja szerinti tevékenységvégzés esetén az adóalap 5 milliárd forintot meg nem haladó része után 0,3%, az adóalap 5 milliárd forintot meghaladó része után 1,05%.
+- b) a 2. § b) pontja szerinti tevékenységvégzés esetén az adóalap 100 millió forintot meg nem haladó része után 0%, az adóalap 100 millió forintot meghaladó, de 500 millió forintot meg nem haladó része után 2,5%, az adóalap 500 millió forintot meghaladó, de 5 milliárd forintot meg nem haladó része után 4,5%, az adóalap 5 milliárd forintot meghaladó része után 6,5%,
+- c) a 2. § c) pontja szerinti tevékenységvégzés esetén az adóalap 1,05%-a.
 
 ### A kétszeres adóztatás elkerülése
 
@@ -57,9 +54,9 @@ Az Országgyűlés az államháztartás egyensúlyának javítása érdekében, 
 
 ### Eljárási rendelkezések
 
-8. § (1) Az adó alanya adókötelezettségét az adóév utolsó napját követő ötödik hónap utolsó napjáig állapítja meg és vallja be az e célra rendszeresített nyomtatványon az állami adóhatósághoz.
+8. § (1) Az adó alanya adókötelezettségét az adóévet követő év 150. napjáig állapítja meg és vallja be az e célra rendszeresített nyomtatványon az állami adóhatósághoz.
 
-(2) Az adóalany az adóévre – a (3) bekezdés a)–b) pontja szerinti esetben az adóév ötödik hónapjának utolsó napjáig, a (3) bekezdés c)–d) pontja szerinti esetben a 2. § szerinti tevékenység megkezdését követő 15 napon belül az erre a célra rendszeresített nyomtatványon – az állami adóhatósághoz adóelőleget köteles bevallani. Nem kell adóelőleget bevallani az előtársaságnak.
+(2) Az adóalany az adóévre – a (3) bekezdés a)–b) pontja szerinti esetben az adóév 150. napjáig, a (3) bekezdés c)–d) pontja szerinti esetben a 2. § szerinti tevékenység megkezdését követő 15 napon belül az erre a célra rendszeresített nyomtatványon – az állami adóhatósághoz adóelőleget köteles bevallani. Nem kell adóelőleget bevallani az előtársaságnak.
 
 (3) Az adóelőleg összege
 
@@ -95,8 +92,6 @@ Az Országgyűlés az államháztartás egyensúlyának javítása érdekében, 
 (7) A 2. § szerinti tevékenységét 2010. évben kezdő adóalany esetében, továbbá annak a naptári évtől eltérő üzleti évet választó adóalanynak az esetében, akinek nincs 2010. december 20-ig beszámolóval lezárt utolsó üzleti éve, a 2010. évi adóelőleg összege – a (6) bekezdésben foglaltaktól eltérően – a 2010. adóévre, illetve a beszámolóval le nem zárt üzleti évre várható adó összege.
 
 (8) Ha az adóalany a (7) bekezdés szerinti esetben az adóelőleg (5) bekezdés szerinti esedékességéig a 2010. évi várható adó összegét nem fizette meg legalább a 2010. évi végleges adó 90%-ának mértékéig, akkor a megfizetett előleg és a végleges 2010. évi adó 90%-ának különbözete után 20%-os mulasztási bírságot fizet.
-
-9/A. § Az 5. §-nak a Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvények módosításáról szóló CLIII. törvénnyel megállapított szövegét már a 2010. adóévi adókötelezettség megállapítása során is alkalmazni kell.
 
 10. § (1) E törvény a kihirdetését követő 45. napon lép hatályba.
 
