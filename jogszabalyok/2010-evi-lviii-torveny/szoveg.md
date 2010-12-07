@@ -126,6 +126,10 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 (7) A Ktv. 20/A. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a kormánytisztviselőt – a felmentés indokára tekintet nélkül – a felmentési ideje felére tartalékállományba kell helyezni.
 
+### A kormánytisztviselői jogviszony megszűnése
+
+10/A. § A kormánytisztviselői jogviszony tekintetében a Ktv. 15. § (1) bekezdés e) pontját azzal az eltéréssel kell alkalmazni, hogy az ott meghatározott életkori korlát alól a miniszterelnök felmentést adhat, ha a kománytisztviselői kinevezés a külszolgálathoz kapcsolódó képviselet-vezetői megbízáshoz szükséges.
+
 ### II. Fejezet — A KORMÁNYTISZTVISELŐI JOGVISZONY TARTALMA
 
 11. § A Miniszterelnökség és a minisztériumok kivételével a központi államigazgatási szervek esetében jogszabály a kormánytisztviselő tevékenységének jellegére utaló – a besorolási fokozatot nem érintő – munkaköri megnevezést állapíthat meg.
