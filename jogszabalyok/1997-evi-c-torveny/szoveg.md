@@ -2071,7 +2071,7 @@ tekinthet be. A kisebbségi választói jegyzékbe történt betekintésről nyi
 
 ### Felhatalmazás
 
-152. § Felhatalmazást kap a Kormány, hogy az országgyűlési egyéni és területi választókerületek sorszámát, székhelyét és területét megállapítsa.
+152. §
 
 153. § (1) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg:
 

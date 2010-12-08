@@ -31,7 +31,9 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 - a) elektronikus úton, a központi elektronikus szolgáltató rendszeren keresztül (a továbbiakban: ügyfélkapu),
 - b) telefonos ügyfélszolgálaton keresztül telefonon, vagy
-- c) rövid szöveges üzenet (SMS) útján teljesítheti.
+- c)
+
+teljesítheti.
 
 (2) A foglalkoztató akkor élhet az (1) bekezdés a) pontjában foglalt bejelentési lehetőséggel, ha előzetesen regisztráltatta magát az ügyfélkapu használata céljából.
 
@@ -41,7 +43,7 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 - b) a háztartási alkalmazott adóazonosító jele és társadalombiztosítási azonosító jele,
 - c) a tényleges foglalkoztatás kezdő napja.
 
-(4) A háztartási alkalmazott (1) bekezdés b)–c) pontja szerint történő bejelentése az elektronikus közszolgáltatásokról szóló törvény rendelkezései alapján a központi elektronikus szolgáltató rendszerben működő központi ügyfélszolgálat által fenntartott ügyfélvonalon keresztül történik, a bejelentő adóazonosító jelének megadásával. A központi ügyfélszolgálat a bejelentést az elektronikus közszolgáltatásokról szóló törvény szabályai szerint rögzíti, és a bejelentőt a bejelentés eredményéről egyidejűleg tájékoztatja. A központi ügyfélszolgálat a bejelentett adatokat haladéktalanul továbbítja az állami adóhatósághoz, és a bejelentett adatokat a bejelentést követő ötödik év december 31-éig őrzi meg, azt követően törli azokat. A központi ügyfélszolgálat az e fejezetben meghatározott személyes adatokat, továbbá az adótitkot feladata teljesítéséhez szükséges mértékben megismerheti és kezelheti.
+(4) A háztartási alkalmazott (1) bekezdés b) pontja szerint történő bejelentése az elektronikus közszolgáltatásokról szóló törvény rendelkezései alapján a központi elektronikus szolgáltató rendszerben működő központi ügyfélszolgálat által fenntartott ügyfélvonalon keresztül történik, a bejelentő adóazonosító jelének megadásával. A központi ügyfélszolgálat a bejelentést az elektronikus közszolgáltatásokról szóló törvény szabályai szerint rögzíti, és a bejelentőt a bejelentés eredményéről egyidejűleg tájékoztatja. A központi ügyfélszolgálat a bejelentett adatokat haladéktalanul továbbítja az állami adóhatósághoz, és a bejelentett adatokat a bejelentést követő ötödik év december 31-éig őrzi meg, azt követően törli azokat. A központi ügyfélszolgálat az e fejezetben meghatározott személyes adatokat, továbbá az adótitkot feladata teljesítéséhez szükséges mértékben megismerheti és kezelheti.
 
 (5) Az (1) bekezdés szerinti bejelentés a teljesítés napját magában foglaló hónap utolsó napjáig terjedő időszakra vonatkozik. Ugyanazon foglalkoztatott következő hónapban történő ismételt foglalkoztatása esetén a bejelentést az (1) bekezdés szabályainak megfelelően újra teljesíteni kell.
 
@@ -1882,7 +1884,7 @@ d) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szol
 
 132. § (1) Az I. Fejezet – a (2) bekezdésben foglalt kivétellel – 2010. augusztus 15-én lép hatályba.
 
-(2) A 3. § (1) bekezdésének c) pontja 2010. december 1-jén lép hatályba.
+(2)
 
 (3) Az I. Fejezetben meghatározott bejelentési szabályokat 2010. augusztus 15-étől, a regisztrációs díjfizetésre vonatkozó rendelkezéseket pedig 2010. szeptember 15-étől kell alkalmazni.
 
