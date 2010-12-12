@@ -6441,13 +6441,7 @@ c) ha az év végi elszámolás során, vagy az Igazgatóság Áht. 64/D. §-a s
 
 6.4. A jövedelemkülönbség mérséklés év végi elszámolásának az Áht. 64/D. §-a szerinti felülvizsgálata során az Igazgatóság betekinthet az önkormányzatnál rendelkezésre álló, adótitkot is tartalmazó okiratokba, dokumentumokba, valamint az iparűzési adóbevallással kapcsolatos iratokba.
 
-7. A 2009. évi jövedelemkülönbség mérsékléséről történő év végi elszámolás során véglegezett beszámítási összeg 35%-a, de legfeljebb az önkormányzat által – saját forrásaiból – 2009-ben beruházásra felhasznált összeg a 2010. évről szóló év végi elszámolás során visszaigényelhető. A beruházási saját forrás: a beruházási kiadás csökkentve a beruházási célú
-
-– állami támogatásokkal,
-
-– támogatásértékű bevételekkel,
-
-– államháztartáson kívülről átvett pénzeszközökkel.
+7.
 
 8. A 2009. évi jövedelemkülönbség mérsékléséről történő év végi elszámoláskor megmaradó összeg a kiegészítésben részesülő önkormányzatokat – a 4. a)–g) pontban megjelölt értékhatár és a lakosságszám alapján számított összeg arányában – megilleti.
 

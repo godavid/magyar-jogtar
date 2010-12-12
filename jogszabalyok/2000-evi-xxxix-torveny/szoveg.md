@@ -12,7 +12,7 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányáról szóló, többször 
 
 (2) A köztársasági elnök megbízatásának időtartama közszolgálati jogviszonyban töltött időnek, illetőleg nyugdíjra jogosító szolgálati időnek számít.
 
-3. § A köztársasági elnök minden naptári évben külön juttatásként egyhavi tiszteletdíjára jogosult.
+3. §
 
 4. § A köztársasági elnöknek minden naptári évben negyven munkanap szabadság jár.
 
