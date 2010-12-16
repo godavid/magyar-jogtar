@@ -876,7 +876,7 @@ szélessávú internetszolgáltatást szolgáló beruházás,
 
 (9)
 
-(10) A kettős könyvvitelt vezető belföldi illetőségű adózónak és a külföldi vállalkozónak az adóelőleget az adóévben az adóévi várható fizetendő adó összegére ki kell egészítenie, azzal, hogy a várható fizetendő adó – ha az adózó az Európai Uniótól és/vagy a költségvetésből támogatást kap – e támogatások miatt elszámolt adóévi bevételből az adóév utolsó hónapjának 15. napjáig meg nem kapott összeg figyelembe vétele nélkül számított adóalap alapján megállapított adó összegével azonos. E rendelkezés nem vonatkozik arra az adózóra, amelynek az adóévet megelőző adóévben az éves szinten számított árbevétele nem haladta meg az 50 millió forintot.
+(10) A kettős könyvvitelt vezető belföldi illetőségű adózónak és a külföldi vállalkozónak az adóelőleget az adóévben az adóévi várható fizetendő adó összegére ki kell egészítenie, azzal, hogy a várható fizetendő adó – ha az adózó az Európai Uniótól és/vagy a költségvetésből támogatást kap – e támogatások miatt elszámolt adóévi bevételből az adóév utolsó hónapjának 15. napjáig meg nem kapott összeg figyelembe vétele nélkül számított adóalap alapján megállapított adó összegével azonos. E rendelkezés nem vonatkozik arra az adózóra, amelynek az adóévet megelőző adóévben az éves szinten számított árbevétele nem haladta meg a 100 millió forintot.
 
 (11) Nem kell az (1)–(10) bekezdés rendelkezéseit alkalmaznia az adózónak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be, továbbá az MRP-nek, a közhasznú, a kiemelkedően közhasznú nonprofit gazdasági társaságnak, a vízitársulatnak, az alapítványnak, a közalapítványnak, a társadalmi szervezetnek, a köztestületnek, az egyháznak, a lakásszövetkezetnek, a közhasznú szervezetként, kiemelkedően közhasznú szervezetként besorolt felsőoktatási intézménynek, az önkéntes kölcsönös biztosítópénztárnak, a szociális szövetkezetnek és az iskolaszövetkezetnek.
 
@@ -1156,6 +1156,8 @@ A határidő elmulasztása esetén igazolási kérelem előterjesztésének ninc
 [29/M. § A 4. § 41–43. pontjainak, a 22. § (4)–(5) bekezdésének és a 3. számú melléklet B) fejezetének 15. pontjának a sporttal összefüggő egyes törvények módosításáról szóló 2010. évi LXXXIII. törvénnyel megállapított rendelkezéseit a hatálybalépésük napját követően nyújtott támogatásra (juttatásra) lehet alkalmazni.]
 
 29/N. § E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel módosított 7. § (1) bekezdésének z) pontjának és (7) bekezdésének rendelkezéseit a 2010-ben kezdődő adóévben adott – felsorolt – juttatásokra lehet alkalmazni.
+
+29/O. § E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel módosított 26. §-a (10) bekezdésének rendelkezéseit a 2010. december 16-át követően teljesítendő adóelőleg kiegészítésre – ideértve az eltérő üzleti évet választó adózó által teljesítendő adóelőleg kiegészítést is – alkalmazni kell.
 
 ### ZÁRÓ RENDELKEZÉSEK
 
