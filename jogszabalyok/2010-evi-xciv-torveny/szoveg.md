@@ -37,8 +37,8 @@ Az Országgyűlés az államháztartás egyensúlyának javítása érdekében, 
 5. § Az adó mértéke
 
 - a) a 2. § a) pontja szerinti tevékenységvégzés esetén az adóalap 500 millió forintot meg nem haladó része után 0%, az adóalap 500 millió forintot meghaladó, de 30 milliárd forintot meg nem haladó része után 0,1%, az adóalap 30 milliárd forintot meghaladó, de 100 milliárd forintot meg nem haladó része után 0,4%, az adóalap 100 milliárd forintot meghaladó része után 2,5%,
-- b) a 2. § b) pontja szerinti tevékenységvégzés esetén az adóalap 100 millió forintot meg nem haladó része után 0%, az adóalap 100 millió forintot meghaladó, de 500 millió forintot meg nem haladó része után 2,5%, az adóalap 500 millió forintot meghaladó, de 5 milliárd forintot meg nem haladó része után 4,5%, az adóalap 5 milliárd forintot meghaladó része után 6,5%,
-- c) a 2. § c) pontja szerinti tevékenységvégzés esetén az adóalap 1,05%-a.
+- b) a 2. § b) pontja szerinti tevékenységvégzés esetén az adóalap 500 millió forintot meg nem haladó része után 0%, az adóalap 500 millió forintot meghaladó, de 5 milliárd forintot meg nem haladó része után 4,5%, az adóalap 5 milliárd forintot meghaladó része után 6,5%,
+- c) a 2. § c) pontja szerinti tevékenységvégzés esetén az adóalap 5 milliárd forintot meg nem haladó része után 0,3%, az adóalap 5 milliárd forintot meghaladó része után 1,05%.
 
 ### A kétszeres adóztatás elkerülése
 
@@ -92,6 +92,8 @@ Az Országgyűlés az államháztartás egyensúlyának javítása érdekében, 
 (7) A 2. § szerinti tevékenységét 2010. évben kezdő adóalany esetében, továbbá annak a naptári évtől eltérő üzleti évet választó adóalanynak az esetében, akinek nincs 2010. december 20-ig beszámolóval lezárt utolsó üzleti éve, a 2010. évi adóelőleg összege – a (6) bekezdésben foglaltaktól eltérően – a 2010. adóévre, illetve a beszámolóval le nem zárt üzleti évre várható adó összege.
 
 (8) Ha az adóalany a (7) bekezdés szerinti esetben az adóelőleg (5) bekezdés szerinti esedékességéig a 2010. évi várható adó összegét nem fizette meg legalább a 2010. évi végleges adó 90%-ának mértékéig, akkor a megfizetett előleg és a végleges 2010. évi adó 90%-ának különbözete után 20%-os mulasztási bírságot fizet.
+
+9/A. § Az 5. §-nak a Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvények módosításáról szóló CLIII. törvénnyel megállapított szövegét már a 2010. adóévi adókötelezettség megállapítása során is alkalmazni kell.
 
 10. § (1) E törvény a kihirdetését követő 45. napon lép hatályba.
 

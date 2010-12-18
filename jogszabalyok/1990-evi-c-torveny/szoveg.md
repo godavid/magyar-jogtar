@@ -18,7 +18,7 @@ Az Országgyűlés a helyi adóztatás kiemelkedő jelentőségét mérlegelve a
 
 (2) A főváros esetében az építményadót, a telekadót, a magánszemély kommunális adóját, valamint a vállalkozók kommunális adóját és az idegenforgalmi adót a (3) bekezdés kivételével a kerületi önkormányzat, a helyi iparűzési adót a fővárosi önkormányzat jogosult bevezetni.
 
-(3) A kerületi önkormányzat által a (2) bekezdés szerint bevezethető helyi adót a kerületi önkormányzat helyett a fővárosi önkormányzat akkor jogosult rendeletével bevezetni, ha a fővárosi rendelettel a kerületi képviselő-testületek többsége egyetért.
+(3) A kerületi önkormányzat által a (2) bekezdés szerint bevezethető helyi adót a kerületi önkormányzat helyett a fővárosi önkormányzat akkor jogosult rendeletével bevezetni, ha ahhoz minden adóév tekintetében az érintett kerületi önkormányzat képviselőtestülete előzetes beleegyezését adja.
 
 2. § Az önkormányzat adómegállapítási joga az e törvényben meghatározott adóalanyokra és adótárgyakra terjed ki.
 
@@ -64,7 +64,7 @@ Az Országgyűlés a helyi adóztatás kiemelkedő jelentőségét mérlegelve a
 - a) az adóalanyt egy meghatározott adótárgy esetében (4. §) csak egyféle — az önkormányzat döntése szerinti — adó (5. §) fizetésére kötelezheti,
 - b) a vagyoni típusú adók körében az adót egységesen – tételes összegben vagy a korrigált forgalmi érték alapulvételével vagy a számított érték alapján – határozhatja meg,
 - c) az általa bevezetett adó mértékeként nem állapíthat meg többet az adómaximumnál,
-- d) a kerületi önkormányzat a fővárosi közgyűlés által bevezetett adót annak hatályon kívül helyezése időpontjáig, a fővárosi közgyűlés az általa az 1. § (3) bekezdés alapján bevezetett adót a kerületi képviselő-testületek többségi véleményének beszerzéséig nem működtetheti,
+- d) ha a helyi adót az 1. § (3) bekezdése alapján a fővárosi önkormányzat vezeti be, akkor az a kerületi önkormányzat, amely az adó fővárosi önkormányzat általi bevezetésébe beleegyezett, az adót az adóévben nem működtetheti,
 - e) a vállalkozó (52. § 26. pont) üzleti célt szolgáló épülete, épületrésze utáni építményadó, telke utáni telekadó, továbbá a vállalkozók kommunális adója és a helyi iparűzési adó megállapítása során – ha e törvény eltérően nem rendelkezik – a 6. § d) pontja nem alkalmazható. A vállalkozók kommunális adója és a helyi iparűzési adó esetén adónemenként egy adómérték alkalmazható. A vállalkozó üzleti célt szolgáló épülete, épületrésze utáni építményadó, telke utáni telekadó alapjának alapterület szerinti megállapítása esetén kizárólag az adótárgy fajtája, illetőleg a településen belüli földrajzi elhelyezkedése alapján állapítható meg differenciált adómérték, [e) a vállalkozó (52. § 26. pont) üzleti célt szolgáló épülete, épületrésze utáni építményadó, telke utáni telekadó és a helyi iparűzési adó megállapítása során – ha e törvény eltérően nem rendelkezik – a 6. § d) pontja nem alkalmazható. A helyi iparűzési adó esetén egy adómérték alkalmazható. A vállalkozó üzleti célt szolgáló épülete, épületrésze utáni építményadó, telke utáni telekadó alapjának alapterület szerinti megállapítása esetén kizárólag az adótárgy fajtája, illetőleg a településen belüli földrajzi elhelyezkedése alapján állapítható meg differenciált adómérték,]
 - f) a számított érték alapú és a korrigált forgalmi érték alapú építményadóban a lakás, illetve az egyéb építmény esetén egy-egy, a számított érték alapú és a korrigált forgalmi érték alapú telekadóban a lakáshoz tartozó telek, illetve az egyéb telek esetén egy-egy adómérték alkalmazható.
 
@@ -476,7 +476,9 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 
 47. § Ez a törvény 1991. január 1. napján lép hatályba.
 
-#### 48. §
+48. § (1) Az 52. § 31. pont b) alpont ba) alpontja szerinti vezeték nélküli távközlési tevékenységet végző vállalkozó a 2011-ben kezdődő adóéve adókötelezettsége megállapításánál a 2010. december 31-én hatályos 52. § 31. pontját és 3. számú mellékletét köteles alkalmazni.
+
+(2) A 2011-ben kezdődő adóévben nem állapítható meg mulasztási bírság annak a vezetékes távközlési tevékenységet végző vállalkozónak, amelyik a helyi iparűzési adó bejelentkezési kötelezettségét a bejelentkezésre nyitva álló határidő utolsó napját követő 45. napig teljesíti.
 
 49. § Ha az önkormányzat:
 
