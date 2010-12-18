@@ -1402,7 +1402,11 @@ b) a Magyar Országos Közjegyzői Kamara
 
 4. Az Országos Fordító- és Fordításhitelesítő Iroda Zrt. által végzett hitelesítés illetéke oldalanként 300 forint. Ezt az illetéket kell fizetni a másodlat, a másolat és fénymásolat hitelesítéséért is.
 
-5. Illetékmentes: a Tv. 91–92. §-ában említett irat hitelesítése.
+5. Illetékmentes
+
+a) a 91–92. §-ban említett irat hitelesítése,
+
+b) a 4. pontban szereplő hitelesítés, ha az olyan okiratra vonatkozik, amelyet a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) bekezdésében vagy 5. §-ában meghatározott kérelemhez kell csatolni.
 
 VII. A levéltár által készített másolat illetéke
 
