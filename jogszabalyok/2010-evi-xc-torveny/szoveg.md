@@ -1126,7 +1126,7 @@ j) a költségvetési szervek vezetői és gazdasági vezetői 121/D. § szerint
 
 (2) Hatályát veszti az MTAtv. 20. § (8) bekezdés második mondata, 21. § (9) bekezdésében a „(közintézetek, közüzemek és vállalkozó közintézetek)” szövegrész, a közbeszerzésekről szóló 2003. évi CXXIX. törvény 22. § (1) bekezdés b) pontjában a „részelőirányzatai terhére lefolytatandó beszerzések tekintetében a központi költségvetési szerv jogi személyiséggel rendelkező szervezeti egysége,” szövegrész, az Ftv. 16. § (1) bekezdésében az „- és kiegészítő” szövegrész, 23. § (2) bekezdésének utolsó mondata, 30. § (1) bekezdésének utolsó mondata, 115. § (2) bekezdés b) pontjában az „– állami felsőoktatási intézmény esetén a költségvetési szervek jogállásáról szóló törvény 3. § (2) bekezdésében előírt egyetértéshez, hozzájáruláshoz nem kötött intézkedésével –” szövegrész, 135. § (2) bekezdésének utolsó mondata és 136. § (6) bekezdésében a „ , valamint 100. §-ának (1) bekezdésében” szövegrész.
 
-67. § 2011. január 1-jén hatályát veszti az Áht. 100/A. § (2) bekezdésében a „vagy a (3) bekezdésben megjelölt dologi kiadások előirányzata terhére, ha a szellemi tevékenység ellátása a tervezettől eltérően a továbbiakban a létszám-előirányzat keretein belüli foglalkoztatással történik” szövegrész és a 100/A. § (3) bekezdése.
+67. §
 
 ### V. Fejezet — A BERUHÁZÁSOK MEGVALÓSÍTÁSÁHOZ KAPCSOLÓDÓ ENGEDÉLYEZÉSI ELJÁRÁSOK EGYSZERŰSÍTÉSE ÉRDEKÉBEN EGYES TÖRVÉNYEK MÓDOSÍTÁSA
 
