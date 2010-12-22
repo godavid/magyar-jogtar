@@ -26,6 +26,13 @@ Az Országgyűlés az Alkotmányban foglalt elveknek megfelelően az időskorúa
 
 (5) Ha a biztosított élt a Tbj.-ben biztosított azon jogával, hogy a társadalombiztosítási nyugdíjrendszerben, valamint a magánnyugdíjrendszerben is részt vesz, és ennek megfelelően a magánnyugdíjrendszerben tagdíjat fizetett, illetőleg azt a foglalkoztató a keresetéből, a jövedelméből levonta, majd ennek összegét a társadalombiztosítási nyugdíjrendszer számára a biztosított döntése alapján átutalták, akkor nyugellátását, baleseti rokkantsági nyugdíját úgy kell megállapítani, mintha biztosítási idejének teljes tartama alatt kizárólag nyugdíjjárulék fizetésére lett volna kötelezett.
 
+(6) Az a személy, aki
+
+- a) 2011. január 31-ét követően létesít magán-nyugdíjpénztári tagsági jogviszonyt, a jogviszony létesítésének időpontjától, de legkorábban 2011. december 1-jétől kezdődően,
+- b) 2011. január 31-éig kezdeményezi a magán-nyugdíjpénztári tagsági jogviszonyának fenntartását, 2011. december 1-jétől kezdődően
+
+a társadalombiztosítási nyugdíjrendszerben további szolgálati időt nem szerez, és az ezt követően szerzett keresete, jövedelme a társadalombiztosítási nyugellátások megállapítása során nem vehető figyelembe, azonban a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 32/B. §-ában meghatározott feltételek szerint az időskorúak járadékára jogosult.
+
 3. § (1) Az 1997. december 31-én hatályos jogszabályok alapján megszerzett jogosultságot megszüntetni, illetőleg korlátozni nem lehet.
 
 (2)
@@ -74,7 +81,8 @@ Az Országgyűlés az Alkotmányban foglalt elveknek megfelelően az időskorúa
 - a) az özvegyi nyugdíj,
 - b) az árvaellátás,
 - c) a szülői nyugdíj,
-- d) a baleseti hozzátartozói nyugellátások.
+- d) a baleseti hozzátartozói nyugellátások,
+- e) az özvegyi járadék.
 
 (3) Az, aki egyidejűleg
 
@@ -228,9 +236,9 @@ szolgálati idő (év) havi átlagkereset százaléka
 
 (5) A 10–19 évi szolgálati idő alapján megállapított öregségi résznyugdíjat akkor is a nyugdíj alapját képező havi átlagkeresetnek a szolgálati időtől függő százalékában kell megállapítani, ha ez nem éri el az öregségi nyugdíj legkisebb összegét.
 
-(6) Az öregségi nyugdíj összegét – ha a biztosított kizárólag a társadalombiztosítási nyugdíjrendszer keretében fizetett nyugdíjjárulékot, vagy a magánnyugdíjpénztárban az egyéni számláján lévő összeget a Nyugdíjbiztosítási Alaphoz átutalták – az (1) bekezdés szerint kell meghatározni.
+(6) Ha a biztosított magánnyugdíjpénztárnak nem tagja, az öregségi nyugdíj összegét az (1)–(5) bekezdés szerint kell meghatározni.
 
-(7) Ha a biztosítottnak a magánnyugdíjpénztárban az egyéni számláján lévő összeget saját döntése alapján nem utalták át a Nyugdíjbiztosítási Alap részére, az öregségi nyugdíj összege a (6) bekezdés szerint kiszámított összeg hetvenöt százaléka.
+(7) Ha a biztosított magán-nyugdíjpénztári tag, az öregségi nyugdíj összegét – figyelemmel a 2. § (6) bekezdésében foglaltakra is – úgy kell megállapítani, hogy az (1)–(5) bekezdés szerint kiszámított összeget meg kell szorozni az 1. mellékletben meghatározott szorzószámmal.
 
 (8) Ha a 39. §-ban előírt arányos beszámítás miatt a biztosított szolgálati ideje nem éri el a tíz évet, az öregségi nyugdíj összegét – a (2)–(3) bekezdés alkalmazása nélkül – úgy kell meghatározni, hogy a havi átlagkeresetnek a tíz évhez tartozó (1) bekezdés szerinti százalékos mértékét annyiszor 2 százalékponttal kell csökkenteni, ahány év a tíz év szolgálati időből hiányzik.
 
@@ -592,7 +600,7 @@ kell keresetként figyelembe venni.
 
 28. § (1) A rokkantsági nyugdíj alapját képező havi átlagkereset megállapításánál az öregségi nyugdíjra vonatkozó rendelkezéseket (12., 13., 16., 17. és 22. §-ok) kell megfelelően alkalmazni azzal az eltéréssel, hogy amennyiben a rokkantsági nyugdíjra jogosultsághoz szükséges és a figyelembe vehető szolgálati idő együttesen is rövidebb a 22. § (1) bekezdésében meghatározott átlagszámítási időszaknál, a rokkantsági nyugdíjat e rövidebb idő alatt elért kereset, jövedelem havi átlaga alapján kell megállapítani, legalább 30 napi kereset hiányában pedig azt a – külön jogszabályban általánosan meghatározott – minimálbért kell havi átlagkeresetnek tekinteni, amely azt a napot megelőző naptári hónapban érvényes, amely naptól a nyugdíjat megállapítják.
 
-(2) Ha a rokkant a magánnyugdíjpénztárba is fizetett tagdíjat és saját döntése szerint az egyéni számláján lévő összeget nem utalták át a Nyugdíjbiztosítási Alap részére, a szolgálati időtől, az átlagkeresete összegétől és a rokkantság fokától függően kiszámított összeg hetvenöt százalékát kell részére rokkantsági nyugdíjként megállapítani.
+(2) Ha a biztosított magán-nyugdíjpénztári tag, a rokkantsági nyugdíj összegét – figyelemmel a 2. § (6) bekezdésében foglaltakra is – úgy kell megállapítani, hogy a szolgálati időtől, az átlagkeresete összegétől és a rokkantság fokától függően kiszámított összeget meg kell szorozni az 1. mellékletben meghatározott szorzószámmal.
 
 29. § (1) A rokkantsági nyugdíj mértéke a megrokkanás időpontjában betöltött életkortól, a nyugdíj megállapításáig szerzett szolgálati idő tartamától és a rokkantság fokától függ. A rokkantság fokának megfelelően
 
@@ -1043,6 +1051,12 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 61. § A baleseti sérült hozzátartozói ideiglenes özvegyi nyugdíjra és ennek megszűnését követően özvegyi nyugdíjra, árvaellátásra és szülői nyugdíjra a hozzátartozói nyugellátásra vonatkozó rendelkezések szerint azzal az eltéréssel jogosultak, hogy a hozzátartozót a baleseti nyugellátás a jogszerző szolgálati idejére tekintet nélkül megilleti.
 
+### 5. CÍM — Az özvegyi járadék
+
+61/A. § (1) Az elhunyt biztosított társadalombiztosítási egyéni számláján nyilvántartott nyugdíjcélú befizetéseinek összege alapján a Nyugdíjbiztosítási Alap az özvegyi nyugdíjra jogosult személy – mint az elhunyt biztosított különös jogutódja – számára özvegyi járadékot fizet, amennyiben az özvegyi járadék összege magasabb, mint az e törvényben meghatározott özvegyi nyugdíj összege.
+
+(2) Özvegyi járadék fizetése esetén özvegyi nyugdíj nem folyósítható.
+
 ### VI. Fejezet — A NYUGELLÁTÁSOKÉVENKÉNTI RENDSZERES EMELÉSE
 
 ### 1. CÍM — A 2013. január 1-je előtt megállapított nyugellátások évenkénti emelése
@@ -1476,7 +1490,10 @@ Amennyiben a nyugdíjbiztosítási adatszolgáltatás visszamenőleges időszakr
 - k) a szolgálati idő számításánál az előrehozott nyugdíjra jogosultsághoz a szüléssel és a gyermekneveléssel kapcsolatos beszámítási kedvezmények feltételeit, valamint részletes szabályait,
 - l) az adatszolgáltatásra és bejelentési kötelezettségre vonatkozó eljárási rendelkezéseket,
 - m) a nyugdíj-biztosítási igazgatási szervek hivatalos iratainak a közigazgatási hatósági eljárásokban elektronikus úton történő teljesítésével kapcsolatos részletes szabályokat,
-- n) a kivételes nyugellátás megállapításának, továbbá a kivételes nyugdíjemelés és az egyszeri segély engedélyezésének részletes szabályait
+- n) a kivételes nyugellátás megállapításának, továbbá a kivételes nyugdíjemelés és az egyszeri segély engedélyezésének részletes szabályait,
+- p) az özvegyi járadék számítására vonatkozó szabályokat;
+- q) a 2. § (6) bekezdés szerinti esetben a társadalombiztosítási nyugdíjrendszerben szerzett jogosultságok meghatározásának, beszámításának módját;
+- r) a társadalombiztosítási egyéni számlával kapcsolatos szabályozást
 
 rendeletben határozza meg.
 
@@ -1504,3 +1521,21 @@ rendeletben határozza meg.
 102. § E törvény hatálybaléptetéséről a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezik. E törvény rendelkezéseit – az 1998. január 1-je előtti időponttól megállapított nyugellátások emelésére vonatkozó 62. §, továbbá a 38. § (2) bekezdése kivételével – az 1997. december 31-ét követő időponttól megállapításra kerülő ellátásokra kell alkalmazni. A 38. § (2) bekezdése e törvény kihirdetése napján lép hatályba azzal, hogy rendelkezéseit az 1995. december 31-e utáni időponttól megállapításra került (kerülő) ellátásokra is alkalmazni kell.
 
 103. § E törvény a Tanácsnak a férfiakkal és nőkkel való egyenlő bánásmód elvének a szociális biztonság területén történő fokozatos megvalósításáról szóló 79/7/EGK irányelvével összeegyeztethető szabályozást tartalmaz.
+
+### 1. melléklet az 1997. évi LXXXI. törvényhez
+
+#### A magán-nyugdíjpénztári tagok társadalombiztosítási nyugellátásának kiszámítása során alkalmazásra kerülő szorzószám meghatározása
+
+A 12. § (7) bekezdésében, valamint a 28. § (2) bekezdésében hivatkozott szorzószámot a következők szerint kell kiszámítani:
+
+Sz = h + (1–h) * 0,75 ,
+
+ahol:
+
+Sz = az alkalmazásra kerülő szorzószám értéke, és
+
+| h= | a 2010. október 1. és 2011. november 30. között szerzett szolgálati idő |
+| --- | --- |
+| a teljes elismert szolgálati idő |
+
+A h értékének kiszámítása során a számlálóban és a nevezőben megjelölt időtartamot is napokban kell meghatározni, és a hányadost két tizedes jegyre kell kerekíteni.

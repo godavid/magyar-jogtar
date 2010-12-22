@@ -2587,6 +2587,12 @@ megállapított – ha a magánszemély az értékpapírt nem ingyenesen szerezt
 
 (2) Az 1. számú melléklet 8.28. pontjának a sporttal összefüggő egyes törvények módosításáról szóló 2010. évi LXXXIII. törvénnyel megállapított rendelkezéseit a hatálybalépését követően megszerzett jövedelemre, juttatásra kell alkalmazni.
 
+84/L. § A jövedelem kiszámításánál nem kell figyelembe venni a pénztártag társadalombiztosítási nyugdíjrendszerbe 2010. november 3-át követően az Mpt. 123. § (6) bekezdése szerint történt visszalépése esetén a magánnyugdíjpénztár által teljesített visszalépő tagi kifizetéseket.
+
+84/M. § (1) A magánnyugdíjpénztár tagja a társadalombiztosítási nyugdíjrendszerbe 2010. november 3-át követően az Mpt. 123. § (6) bekezdése szerint történt visszalépése esetén a 2011. év adóbevallásában tett (munkáltatói adómegállapítás esetén a munkáltatónak átadott) nyilatkozattal a pénztár igazolása alapján rendelkezhet az összevont adóalapja adójának az adókedvezmények, valamint a 44/A–44/C. § rendelkezései szerinti átutalási összeg(ek) levonása után fennmaradó részéből a magánnyugdíjpénztár által önkéntes kölcsönös nyugdíjpénztárba az adóévben átutalt visszalépő tagi kifizetések 20 százalékának megfelelő, de legfeljebb 300 000 forint adó visszatérítéséről.
+
+(2) Az adóhatóság – egyebekben a 44/A. § rendelkezéseinek értelemszerű alkalmazásával – az adó-visszatérítés kiutalását annak az önkéntes kölcsönös nyugdíjpénztárnak a pénzforgalmi számlájára teljesíti, amelyhez az (1) bekezdés szerinti összeg átutalása történt.
+
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
 #### Az adómentes bevételekről
