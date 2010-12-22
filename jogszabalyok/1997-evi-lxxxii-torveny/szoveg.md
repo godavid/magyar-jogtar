@@ -69,7 +69,7 @@ Az állam az Alkotmányban foglalt elvek szerint a kötelező társadalombiztos�
 - s) nyílt pénztár: az a pénztár, amely a lehetséges pénztártagok körét – a területi pénztár működési területének meghatározása kivételével – nem korlátozza,
 - t) zárt pénztár: olyan pénztár, amely szakmai vagy más szervezési elv alapján a pénztár lehetséges tagjainak körét meghatározza,
 - u) szakmai egyesület: olyan egyesület, amelyben a taggá válás feltétele valamely szakmához való tartozás,
-- v) a tag követelése: a felhalmozási időszakban a tag egyéni számlájának egyenlege, a járadékos időszakban a tag által választott szolgáltatás tartalékából az őt a jövőben még megillető szolgáltatás értéke,
+- v) a tag követelése: a felhalmozási időszakban a tag egyéni számlájának egyenlege, a járadékos időszakban a tag által választott szolgáltatás tartalékából az őt a jövőben még megillető szolgáltatás értéke, a társadalombiztosítási nyugdíjrendszerbe történő visszalépés esetén a tag egyéni számlaegyenlege, valamint a Pénztárak Garanciaalapja garanciális kifizetésekre fordítható pénzeszközeinek az egy főre jutó összege.
 - x) munkáltató: az, akivel a pénztártag munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban, bírósági, ügyészségi szolgálati viszonyban áll, illetve a Magyar Honvédség, a rendvédelmi szervek és a polgári nemzetbiztonsági szolgálatok, a hivatásos állományú tagjaik vonatkozásában, tekintet nélkül arra, hogy teljes vagy részmunkaidőben történik a foglalkoztatás, továbbá a 26. § (5) bekezdése alkalmazásánál a Tbj. 4. §-a a) pontjának 1–3. alpontja, a 22. § alkalmazásánál a Tbj. 4. §-ának a) pontja szerinti foglalkoztató,
 - y) közeli hozzátartozó: a Ptk. 685. §-ának b) pontjában megjelölt közeli hozzátartozó, valamint az élettárs,
 - z) szolgáltató: az a természetes személy, jogi személy és jogi személyiség nélküli gazdasági társaság, amely a pénztárral kötött szerződés alapján a pénztár részére a pénztárüzem működésének részét képező, azt lehetővé tevő, elősegítő, illetve a pénztári szolgáltatásokat ténylegesen nyújtó tevékenységet végez. Szolgáltatónak minősül különösen az, aki (amely) a pénztár részére letétkezelői tevékenységet folytat, amelyhez a pénztár a befektetési üzletmenetét, illetve a könyvelése, nyilvántartásai vezetését kihelyezte, illetve amely a pénztár részére tagszervezést végez, valamint a pénztár tagja részére járadékszolgáltatást teljesítő biztosító intézet. Szolgáltatónak minősül az is, aki (amely) az e pontban meghatározott szolgáltatóval kötött szerződés alapján az előzőek szerinti, pénztárral kapcsolatos tevékenységet végez,
@@ -83,7 +83,8 @@ Az állam az Alkotmányban foglalt elvek szerint a kötelező társadalombiztos�
   - zsg) ingatlankezelés: a pénztárral kötött szerződés szerint az ingatlannal való gazdálkodás és az ingatlanhasznosítás, az esetleges befektetés kérdéseiben javaslatok kidolgozása, továbbá az üzemeltetési és a karbantartási feladatok ellátása, a tervezett felújítások irányítása és ellenőrzése, valamint az ingatlan fenntartására vonatkozó tervajánlat elkészítése;
   - zsh) ingatlanüzemeltetés: az ingatlan napi működésével és működtetésével összefüggő feladatok ellátása;
   - zsi) minősített befolyás: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott fogalom;
-  - zsj) hozamgarantált tőke: a pénztártag életjáradékra váltandó egyéni számlaegyenlegének 3. számú mellékletben foglaltak szerint kiszámított legkisebb összege, melyet a Pénztárak Garanciaalapja a szolgáltatás megállapításakor az e törvényben meghatározott feltételek szerint garantál.
+  - zsj) hozamgarantált tőke: a pénztártag életjáradékra váltandó egyéni számlaegyenlegének 3. számú mellékletben foglaltak szerint kiszámított legkisebb összege, melyet a Pénztárak Garanciaalapja a szolgáltatás megállapításakor az e törvényben meghatározott feltételek szerint garantál;
+  - zsk) visszalépő tagi kifizetések: a társadalombiztosítási nyugdíjrendszerbe történő visszalépés esetén a tag jogosult a követelésének részét képező egyéniszámla-egyenleg tagdíjbefizetése alapján kiszámított, a zsj) pontban meghatározott hozamgarantált tőke összege feletti összegének és a pénztártagságának ideje alatt befizetett tagdíjkiegészítés összegének felvételére, vagy annak önkéntes kölcsönös nyugdíjbiztosító pénztárnál vezetett tagi számláján, vagy a társadalombiztosítási nyugdíjrendszerben létrejövő egyéni számláján történő jóváírására.
 
 (3) E törvény alkalmazásában tagsági okirat: a pénztár által kiállított, legalább a belépési nyilatkozaton szereplő adatokat tartalmazó, teljes bizonyító erejű magánokirat.
 
@@ -97,7 +98,7 @@ Az állam az Alkotmányban foglalt elvek szerint a kötelező társadalombiztos�
 
 (3) A kölcsönösség és az öngondoskodás elve alapján a pénztártagok közösen teremtik meg a pénztár működésének és szolgáltatásainak fedezetét, a pénztárak pedig az Alap létrehozásával és fenntartásával az e törvényben meghatározott módon gondoskodnak a pénztárak szolgáltatási kötelezettségének teljesítéséről. A pénztártagok a felhalmozási időszakban befektetői, a járadékos időszakban befektetői és biztosítási kockázatközösséget alkotnak.
 
-(4) A pénztártag követelése – a tulajdonlás elve szerint – a pénztártag tulajdona, amelyre az e törvényben foglaltak szerint kedvezményezett jelölhető. A pénztártag követeléséért a pénztár, illetve az e törvényben meghatározott feltételek szerint az Alap és a központi költségvetés tartozik helytállni.
+(4) A pénztártag követelése – a tulajdonlás elve szerint – a pénztártag tulajdona, amelyre az e törvényben foglaltak szerint kedvezményezett jelölhető. A pénztártag követeléséért a pénztár, és az e törvényben meghatározott feltételek szerint az Alap tartozik helytállni.
 
 (5) A zárt gazdálkodás elve az alábbiak egyidejű érvényesítését jelenti:
 
@@ -383,9 +384,9 @@ az átadó pénztár az átlépés tényleges költségeinek fedezetére a tag k
 
 (9)
 
-(10) A 23. § (1) bekezdés f) pontjában meghatározott esetben a társadalombiztosítási nyugdíjrendszerbe történő visszalépés szándékát a pénztártagnak annak a magánnyugdíjpénztárnak kell bejelentenie, amelyikben tagsági jogviszonnyal rendelkezik.
+(10) A 23. § (1) bekezdés f) pontjában meghatározott esetben a magán-nyugdíjpénztári tagnak a magánnyugdíjrendszerben fennálló tagsági jogviszonya fenntartásának szándékáról – ha e törvény eltérően nem rendelkezik – személyazonosságának ellenőrzése céljából személyesen, a nyugdíjbiztosítási igazgatási szervnél kell nyilatkoznia. Azt a magán-nyugdíjpénztári tagot, aki a nyugdíjbiztosítási igazgatási szerv előtti nyilatkozattételben testi fogyatékossága, egyéb egészségügyi ok miatt vagy azért akadályozott, mert személyi szabadságát korlátozó büntetés vagy intézkedés hatálya alatt áll, nyilatkozattételének lehetővé tétele érdekében – kérésére – a nyugdíjbiztosítási igazgatási szerv felkeresi (a továbbiakban: helyszíni nyilatkozattétel). A helyszíni nyilatkozattétel lehetőségét a magán-nyugdíjpénztári tag 2011. január 21-éig írásban kérheti a nyugdíjbiztosítási igazgatási szervtől. A nyilatkozattételre rendelkezésre álló időtartam alatt tartósan külföldön foglalkoztatott, tartós külföldi szolgálatot teljesítő vagy külföldi tanulmányokat folytató magán-nyugdíjpénztári tag (a továbbiakban: tartósan külföldön tartózkodó pénztártag) nyilatkozatát személyesen a Magyar Köztársaság külképviseletén is megteheti.
 
-(11) A pénztár a visszalépő tagok tagdíj-kiegészítéssel csökkentett – a tagsági jogviszony megszűnésének napjára vonatkozó piaci értékelés szerint számított – követelésének értékét a tagok portfoliójában lévő eszközökben adja át a Magyar Államot képviselő, a Kormány által kijelölt szerv részére. A követelésnek a visszalépő tag portfolióján belüli állampapír-aránynak megfelelő részét állampapírban kell átadni.
+(11) A pénztár a visszalépő tag a 4. § (2) bekezdés zsk) pont szerinti kifizetésekkel csökkentett – az elszámolás fordulónapjára vonatkozó piaci értékelés szerint számított – követelésének értékét a tagok portfoliójában lévő eszközökben adja át a Nyugdíjreform és Adósságcsökkentő Alap részére. Az eszközöket – jogszabály eltérő rendelkezése hiányában – a visszalépő tag portfolióján belüli befektetési eszköz aránynak megfelelően kell átadni.
 
 24/A. § (1) Amennyiben a pénztártag a 23. § (1) bekezdésének g) pontja szerinti választási lehetőségével élve magánnyugdíjpénztári tagsági jogviszonyát meg kívánja szüntetni és az egyéni számlán felhalmozott összeget – bármely országban működő – időskori megélhetést szolgáló megtakarítási formába kívánja utalni, arról a pénztár részére a nyugdíjbiztosítási jogviszony megszűnését követő 90 napon belül írásban nyilatkozik. A nyilatkozatban meg kell jelölni a pénztártag által választott megtakarítási formát, valamint az ezt működtető intézmény címét és pénzforgalmi számlájának számát.
 
@@ -980,7 +981,7 @@ számolható el.
 
 (8) A felhalmozási időszakban levő tagok összes nyilvántartott követelése megegyezik egyéni számláik egyenlegének összegével. A járadékos időszakban levő tagok követeléseinek összege megegyezik a szolgáltatások tartalékával. A felhalmozási időszakban levő tagok egyéni számláin nyilvántartott elszámolóegységeik darabszámának és árfolyamának szorzata megegyezik egyéni számláik egyenlegének összegével.
 
-62/A. § A fedezeti tartalék javára 2008. évben a pénztár a tagdíj, illetve tagdíjcélú támogatás legalább 94,5 százalékát, 2009-tól 95,5 százalékát köteles jóváírni. Ettől a pénztár a tagsági jogviszony létesítését követő első havi tagdíj esetében külön jogszabályban meghatározottak szerint eltérhet.
+62/A. § A fedezeti tartalék javára 2009. évtől a pénztár a tagdíj, illetve tagdíjcélú támogatás legalább 95,5 százalékát, 2011. évtől 99,1 százalékát köteles jóváírni. A 2010. november 1-je és 2011. december 31-e közötti időszakban a pénztár jogosult a működési és a likviditási tartalék forrásainak kimerülését követően a tag egyéni számlájának befektetéséből származó pozitív hozamát havonta, a hónap utolsó napján 265 Ft-tal csökkenteni, és azt a működési tartalék javára jóváírni. Ettől a pénztár a tagsági jogviszony létesítését követő első havi tagdíj esetében külön jogszabályban meghatározottak szerint eltérhet.
 
 63. § (1) A pénztár befektetési teljesítményének hozamrátáját negyedévente kell meghatározni.
 
@@ -1017,9 +1018,9 @@ számolható el.
 - d)
 - e) a vagyonkezelési tevékenység irányítására a 48. § (2) bekezdésében meghatározott képesítéssel rendelkező szakembert és – ha befektetési portfóliója ingatlant is tartalmaz – ingatlanértékelőt is alkalmaz. Az ingatlan értékelésével olyan személy bízható meg, akivel szemben nem áll fenn a 34. § (12) bekezdés a)–c) pontjában meghatározott kizáró ok, és nem áll agrár-, műszaki, gazdasági vagy jogi egyetemi, illetve főiskolai végzettséghez kötött munkakörnek megfelelő (a továbbiakban: ingatlanértékelő tevékenység gyakorlását kizáró) foglalkozástól eltiltás hatálya alatt. Amennyiben a pénztár ingatlanfejlesztést végez, és az adott fejlesztés tervezett értéke meghaladja az ötmillió forintot, akkor a pénztár az építési szerelési munka szakszerűségének ellenőrzésével, illetőleg helyszíni képviselete ellátásával építési műszaki ellenőrt köteles megbízni. A műszaki ellenőr az építési műszaki ellenőri tevékenység gyakorlására vonatkozó jogszabályi előírások szerint köteles eljárni.
 
-(6) Amennyiben a pénztár vagyonkezelését részben vagy egészen önállóan végzi, a saját kezelésében lévő befektetések vagyonarányos költségeire elszámolt éves összeg 2009–2010. évben nem haladhatja meg a saját kezelésű vagyon(rész) napi bruttó piaci értékei számtani átlagának 0,8 százalékát, 2011. évben 0,7 százalékát, 2012. évben 0,6 százalékát, 2013. évben 0,5 százalékát, 2014. évtől 0,4 százalékát.
+(6) Amennyiben a pénztár vagyonkezelését részben vagy egészen önállóan végzi, a saját kezelésében lévő befektetések vagyonarányos költségeire elszámolt éves összeg 2009. és 2010. évben nem haladhatja meg a saját kezelésű vagyon(rész) napi bruttó piaci értékei számtani átlagának 0,8 százalékát, 2011. évtől 0,2 százalékát.
 
-(7) A (6) bekezdésben foglaltakat nem kell alkalmazni, ha a pénztár nyilvántartásba vétele a tárgyévben, vagy az azt megelőző három naptári évben történt.
+(7)
 
 (8)
 
@@ -1261,7 +1262,7 @@ sorolja be.
 - a) a vagyonkezelő nem rendelkezik a vagyonkezelési tevékenység végzéséhez szükséges felügyeleti engedéllyel és a Felügyelet által jóváhagyott, a tevékenységére vonatkozó üzletszabályzattal, valamint nem felel meg a 66. § (7) bekezdésének b) pontjában meghatározott feltételeknek.
 - b) a vagyonkezelési szerződés nem tartalmazza az (1) bekezdésben foglaltakat.
 
-(4) A vagyonkezelési tevékenység szerződésben megállapított ellenértékének kereskedési költségek (jutalékok) nélkül számított éves összege 2009–2010. évben nem haladhatja meg a kezelésre átadott vagyon(rész) napi bruttó piaci értékei számtani átlagának 0,8 százalékát, 2011. évben 0,7 százalékát, 2012. évben 0,6 százalékát, 2013. évben 0,5 százalékát, 2014. évtől 0,4 százalékát. Az előzőekben meghatározottaknál magasabb ellenérték kikötése semmis.
+(4) A vagyonkezelési tevékenység szerződésben megállapított ellenértékének kereskedési költségek (jutalékok) nélkül számított éves összege 2009. és 2010. évben nem haladhatja meg a kezelésre átadott vagyon(rész) napi bruttó piaci értékei számtani átlagának 0,8 százalékát, 2011. évtől 0,2 százalékát. Az előzőekben meghatározottaknál magasabb ellenérték kikötése semmis.
 
 (5) A (4) bekezdésben foglaltakat nem kell alkalmazni, ha a pénztár nyilvántartásba vétele a tárgyévben, vagy az azt megelőző három naptári évben történt.
 
@@ -1584,7 +1585,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (6) A végelszámolás kezdő időpontját követően kezdeményezett átlépések esetén az átlépés napja a befogadó pénztár befogadó nyilatkozatának napja, azonban a tagi követelések átutalása csak a végelszámolás lezárásával történik meg.
 
-(7) A végelszámoló a végelszámolás kezdő időpontjától számított 30 napon belül kiküldött levelében tájékoztatja a pénztár tagjait a pénztár jogutód nélküli megszűnéséről és 15 napos határidő tűzésével nyilatkozattételre szólítja fel a tagokat, hogy melyik pénztárba kívánnak átlépni. Amennyiben a tag a kitűzött időpontig nem nyilatkozik, akkor a lakóhelye szerint illetékes területi pénztár tagjává válik, és a követelését a (6) bekezdésben foglaltak szerint kell átutalni.
+(7) A végelszámoló a végelszámolás kezdő időpontjától számított 30 napon belül kiküldött levélben a pénztár tagjait a pénztár jogutód nélküli megszűnéséről és 30 napos határidővel nyilatkozattételre szólítja fel a tagokat, hogy melyik pénztárba kívánnak átlépni. Amennyiben a tag nyilatkozik a más pénztárba történő átlépéséről, akkor a követelését a (6) bekezdésben foglaltak szerint kell átutalni. Abban az esetben, ha a tag a megadott határidőn belül nem nyilatkozik, a végelszámoló intézkedik a tag társadalombiztosítási nyugdíjrendszerbe történő visszaléptetése érdekében.
 
 (8) A végelszámolást az arról való döntéstől számított 1 éven belül le kell folytatni. A Felügyelet a pénztár kérésére a határidőt egy alkalommal, legfeljebb 1 évvel meghosszabbíthatja.
 
@@ -1603,9 +1604,9 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 - b) új tag nem vehető fel, a folyamatba tett kifizetéseket szüneteltetni kell,
 - c) a tagdíjak beszedéséről az Alap gondoskodik.
 
-(3) A Felügyelet köteles a felszámolás kezdő időpontjában a pénztár tevékenységi engedélyét visszavonni és az más pénztár kijelölésével a tagsági viszony folytatásáról és a járadékszolgáltatások teljesítéséről gondoskodni.
+(3) A Felügyelet köteles a felszámolás kezdő időpontjában a pénztár tevékenységi engedélyét visszavonni.
 
-(4) A Felügyelet a felszámolás kezdő időpontjától számított 60 napon belül köteles kijelölni azt a pénztárat, ahol a tagsági jogviszonyt folytatni lehet. A kijelölt pénztár a tagok átvételét nem tagadhatja meg. A kijelölés a tag szabad pénztárválasztási jogát nem érinti. A pénztárak közötti elszámolás tekintetében, a pénztárak közötti átlépésre vonatkozó szabályokat kell alkalmazni.
+(4) A felszámoló a felszámolás kezdő időpontjától számított 30 napon belül kiküldött levélben tájékoztatja a pénztár tagjait a felszámolás tényéről és egyúttal 30 napos határidővel nyilatkozattételre szólítja fel a tagokat, hogy melyik pénztárba kívánnak átlépni. Abban az esetben, ha a tag a megadott határidőn belül nem nyilatkozik, akkor a felszámoló intézkedik a tag társadalombiztosítási nyugdíjrendszerbe történő visszaléptetése érdekében.
 
 (5) A felszámolás kezdő időpontjában a tartalékokhoz tartozó eszközök listáját azonnal le kell zárni, és azt a felszámolónak át kell adni. A felszámolási eljárás során ezek az eszközök külön kezelendők és azok csak a fedezeti tartalékkal szemben fennálló tagi, illetve hozzátartozói követelések kielégítése után használhatók fel egyéb kötelezettségek kielégítésére.
 
@@ -1682,6 +1683,8 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 (6) Az Alap köteles egy országos napilapban és a Magyar Közlönyben közzétenni az igényérvényesítés legelső napját, helyét és módját, továbbá a kifizetés teljesítésével megbízott szervezet nevét.
 
 (7) A felszámolás alatt álló pénztár járadékos tagja számára az Alap a járadék teljes összegének folyósítását garantálja. Minden más esetben az Alap garanciája a felszámolás kezdő időpontjában, vagy a tag kérésére, a felszámolás kezdő időpontját megelőző üzleti évről készített éves beszámoló mérleg-fordulónapján, a tag követelésének összegéig áll fenn.
+
+(8) Az Alap a magánnyugdíjpénztár adatszolgáltatása alapján kormányrendeletben meghatározottak szerint átadja a társadalombiztosítási nyugdíjrendszerbe visszalépő tagokra vonatkozó garanciális kifizetésekre fordítható eszközöket a Nyugdíjreform és Adósságcsökkentő Alap számára.
 
 90. § (1) Az a pénztár, amelynek fizetési kötelezettsége miatt az Alap – a 89. § (3) bekezdésének b) pontjában foglaltak kivételével – kifizetést teljesített, az Alap igazgatósága által meghatározott módon ennek összegét és az ezzel összefüggésben felmerült költségeket az Alap részére megtéríti és az Alap a Felügyeletnél hivatalból kezdeményezi a személyes felelősség megállapítását.
 
@@ -1844,7 +1847,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (4) Az Alap éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságait a Kormány rendeletben állapítja meg.
 
-(5) Az Alap a Magyar Nemzeti Banktól kölcsönt, átmeneti vagy tartós hiány esetén hitelt vehet fel. A Magyar Nemzeti Banktól felvett kölcsön visszafizetéséért a központi költségvetés készfizető kezesként felel.
+(5)
 
 ### Az Alapból történő kilépés és kizárás
 
@@ -1859,9 +1862,9 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (4) A kizárásról az Alap a Felügyeletet egy munkanapon belül értesíti. A Felügyelet a kizárt pénztár tevékenységi engedélyét azonnali hatállyal visszavonja, s erről haladéktalanul, legkésőbb 5 munkanapon belül 2 országos napilapban hirdetményt tesz közzé.
 
-### XI. Fejezet — ÁLLAMI GARANCIA,A PÉNZTÁRAK ÁLLAMI FELÜGYELETE
+### XI. Fejezet — A pénztárak állami felügyelete
 
-100. § A magánnyugdíjrendszer működését az állam – az intézményvédelmi szabályok érvényesítésével, az állami felügyelet működtetésével, valamint a pénztártagok követeléseit biztosító Alap fizetőképességének a központi költségvetés által történő garantálásával – biztosítja.
+100. § A magánnyugdíjrendszer működését az állam a Pénzügyi Szervezetek Állami Felügyelete útján felügyeli.
 
 101. § A pénztárak törvényességi felügyeletét az ügyészség a rá irányadó szabályok szerint, felügyeletét a Pénzügyi Szervezetek Állami Felügyelete látja el.
 
@@ -2059,7 +2062,16 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (2) A Felügyelet feladata ellátása érdekében kezelheti a pénztártagok és a pénztárak vezető tisztségviselőinek 2. számú mellékletben meghatározott adatait, továbbá a pénztár tisztségviselőinek és alkalmazottainak összeférhetetlenségével és képesítési feltételeivel összefüggő adatokat.
 
-120. § A pénztárak központi nyilvántartását a Felügyelet saját szervezetében végzi. Ha az adatokból megállapítja, hogy valamely pénztárban, annak működési zavarai miatt veszélyeztetett a szolgáltatások biztonsága, vagy a pénztárak teljesítménymérésének adatai feltűnő aránytalanságot mutatnak, illetőleg törvény- vagy jogszabálysértés gyanúja merül fel, a Felügyelet intézkedik.
+(3) A pénztárak központi nyilvántartása a magán-nyugdíjpénztárak, valamint az állami adóhatóság adatszolgáltatása alapján – a társadalombiztosítási egyéni nyilvántartás teljes körű kialakítása céljából – kezeli és nyilvántartja:
+
+- a) a magán-nyugdíjpénztári tagok azonosító adatait;
+- b) a tagokat terhelő tagdíjbevallási adatok teljesítését kiegészítve a jóváírt tagdíj (tagdíjkiegészítés) összegére vonatkozó adatokkal;
+- c) a tagok egyéni számlakövetelését;
+- d) a társadalombiztosítási nyugdíjrendszerbe visszalépő tagok 4. § (2) bekezdése v) pontja szerinti, visszalépő tagi kifizetésekkel csökkentett követelését a tagsági jogviszony megszűnésével;
+- e) 2010. október 1. napja és 2011. november 30. napja közötti időszakban megszerzett jövedelmekre vonatkozó valamennyi nyilvántartott személyre meghatározott, magán-nyugdíjpénztári tagdíjelőíráshoz kapcsolódó járulékfizetési kötelezettségeket;
+- f) 2010. október 1. napja és 2011. november 30. napja közötti időszakban valamennyi magánszemélyre vonatkozóan teljesített járulékfizetési kötelezettségekre vonatkozó, az Art. 31. § (2) bekezdése 1–7., 9–15., 24–28. pontjai szerinti részletezettséggel bevallott adatokat.
+
+120. § A pénztárak központi nyilvántartását a Felügyelet saját szervezetében végzi. Ha a Felügyelet az adatokból megállapítja, hogy valamely pénztárban, annak működési zavarai miatt veszélyeztetett a szolgáltatások biztonsága, a társadalombiztosítási nyugdíjrendszerbe visszalépő tagok követeléseinek kielégítése, vagy a pénztárak teljesítménymérésének adatai feltűnő aránytalanságot mutatnak, vagy jogszabálysértés gyanúja merül fel, megteszi a szükséges intézkedéseket.
 
 120/A. § (1) A 120. §-ban meghatározott központi nyilvántartásból a Felügyelet adatokat szolgáltat – törvényben meghatározott feladata teljesítéséhez – a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervnek és az állami adóhatóságnak. A központi nyilvántartásból a Felügyelet hozzáférést biztosít a magánnyugdíjpénztárak számára a nyilvántartásban tárolt pénztártagok adataihoz, amennyiben az feladataik ellátásához szükséges. A hozzáférés keretében a magánnyugdíjpénztárak lekérdezési jogosultsággal rendelkeznek. A hozzáférés részletes szabályairól külön jogszabály rendelkezik.
 
@@ -2080,6 +2092,12 @@ az általuk törvény alapján kezelhető adatok igénylésére jogosultak.
 (6) A központi nyilvántartásba saját adatai tekintetében az érintett pénztár, foglalkoztató vagy természetes személy betekinthet, a róla nyilvántartott adatokról felvilágosítást kérhet.
 
 (7) A központi nyilvántartásból a foglalkoztató a vele a Tbj. 5. §-a szerinti biztosítási jogviszonyt létesített pénztártag adatainak szolgáltatását igényelheti, ha arra a pénztártagot terhelő tagdíj bevallási és befizetési kötelezettség teljesítése érdekében van szükség. Az adatokat – az adatkérés céljának és jogalapjának egyidejű igazolása mellett – írásban kell kérelmezni, a központi nyilvántartásból teljesíthető adatszolgáltatás a pénztártagsági jogviszony fennállására és az érintett pénztár adatainak átadására terjedhet ki. A kincstár, a számfejtési körébe tartozó munkáltatóknál Tbj. 5. §-a szerinti biztosítási jogviszonyban álló pénztártagok adatainak szolgáltatását igényelheti, ha arra a pénztártagot terhelő tagdíjbevallási és befizetési kötelezettség teljesítése érdekében van szükség. Az adatkérésben az érintett pénztártag és munkáltató adatai mellett fel kell tüntetni az adatkérést kezdeményező kincstár azonosító és leíró adatait.
+
+(8) A 120. §-ban meghatározott központi nyilvántartásból a Felügyelet adatot szolgáltat a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv számára a visszalépő tagok nyilvántartott követeléséről, pénztárak szerinti bontásban, tagi szinten.
+
+(9) A 120. §-ban meghatározott központi nyilvántartásból a Felügyelet adatot szolgáltat – a visszalépő tagok követelésének pénztárankénti összegéről – a Nyugdíjreform és Adósságcsökkentő Alap kezelője számára.
+
+(10) A magánnyugdíjpénztárak a visszalépő tagok összesített követelése portfolió-összetételéről adatot szolgáltatnak a Felügyelet és a Nyugdíjreform és Adósságcsökkentő Alap kezelője számára.
 
 ### XII. Fejezet — A PÉNZTÁRTANÁCS
 
@@ -2105,7 +2123,13 @@ az általuk törvény alapján kezelhető adatok igénylésére jogosultak.
 
 (5)
 
-(6) A társadalombiztosítási nyugellátásban nem részesülő, e törvény hatálybalépését követően pénztártaggá vált természetes személy 2011. december 31-ig kezdeményezheti a társadalombiztosítási nyugdíjrendszerbe történő visszalépést.
+(6) A magán-nyugdíjpénztári tagnak a magánnyugdíjrendszerben fennálló tagsági jogviszonya fenntartásának szándékáról 2011. január 31. napjáig kell nyilatkoznia. A társadalombiztosítási nyugellátásban nem részesülő, e törvény alapján magán-nyugdíjpénztári taggá vált személy magán-nyugdíjpénztári tagsági jogviszonya nyilatkozat hiányában 2011. március 1. napjával megszűnik. A helyszíni nyilatkozattételre jogosult személy, illetve a tartósan külföldön tartózkodó pénztártag [24. § (10) bekezdés], ha nyilatkozatát 2011. január 31-éig rajta kívül álló okból nem tudta megtenni, akkor az akadály megszűnésétől számított 8 napon belül, de legkésőbb 2011. február 28-áig a nyilatkozat 24. § (10) bekezdése szerinti módon való pótlásával egyidejűleg igazolási kérelmet terjeszthet elő.
+
+(6a) A (6) bekezdés szerinti igazolási kérelemről a nyugdíjbiztosítási igazgatási szerv annak előterjesztését követő 15 napon belül, a közigazgatási hatósági eljárás szabályai szerint eljárva dönt.
+
+(6b) Az igazolási kérelem jogerős elbírálásáig a kérelmező pénztártag követelésének értéke a 24. § (11) bekezdése szerint nem adható át. Ha az igazolási kérelemnek helyt adnak, a magánnyugdíj-pénztári tagság nem szűnik meg, illetve 2011. március 1-jére visszamenőlegesen helyreáll.
+
+(6c) Az a természetes személy, aki e törvény 1998. január 1-je 2010. november 2-a között hatályos rendelkezései szerint pályakezdőnek minősült, de pénztártagsága 2010. november 2-áig nem jött létre, a 3. § (2) bekezdése alapján már csak önkéntesen létesíthet pénztártagságot.
 
 (7) Az 58. §-ban meghatározott saját tevékenységi tartalékot – a pénztár tevékenységi engedélyének jogerőre emelkedését követő első 3 évben – akkor kell képezni, ha a pénztár befektetett eszközeinek az éves beszámoló jelentése szerinti értéke a 2 milliárd forintot eléri.
 
@@ -2117,7 +2141,7 @@ az általuk törvény alapján kezelhető adatok igénylésére jogosultak.
 
 (11) Ahol jogszabály az Önkéntes Kölcsönös Biztosító Pénztárak Felügyeletét említi, azon az e törvény szerinti Állami Pénztárfelügyeletet kell érteni.
 
-(12)
+(12) A Felügyelet az érintettek írásbeli tájékoztatása céljából a pénztártagi azonosításhoz szükséges adatokat (pénztártag neve, lakcíme, valamint a pénztártag társadalombiztosítási azonosító jele) átadja a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére.
 
 (13)
 
@@ -2125,19 +2149,13 @@ az általuk törvény alapján kezelhető adatok igénylésére jogosultak.
 
 (15)
 
-(16) A (6) bekezdésben meghatározott pénztártag 2011. március 31-ig tértivevénnyel ellátott levélben kap tájékoztatást a visszalépés lehetőségéről.
+(16)
 
-123/A. § (1) Az a személy, akinek 2012. január 1-jét megelőzően a Tny. 12. § (7) bekezdése és a 28. § (2) bekezdése alapján a Tny. 6. § (1) bekezdésének a)–b) pontjában – ideértve a Tny. 6. § (4) bekezdésében felsorolt ellátásokat is – meghatározott nyugellátást állapítottak meg, 2011. december 31-ig kérheti nyugellátása összegének a Tny. 12. § (6) bekezdésének alkalmazásával történő módosítását.
+123/A. § (1) Az a személy, akinek 2011. február 1-jét megelőzően a Tny. 12. § (7) bekezdése és a 28. § (2) bekezdése alapján a Tny. 6. § (1) bekezdés a)–c) pontjában – ideértve a Tny. 6. § (4) bekezdésében felsorolt ellátásokat is – meghatározott nyugellátást állapítottak meg, 2011. január 31-ig kérheti nyugellátása összegének a Tny. 12. § (6) bekezdésének alkalmazásával történő módosítását.
 
-(2) Az (1) bekezdésben foglalt rendelkezés által érintett személy 2011. március 31-ig tértivevénnyel ellátott levélben kap tájékoztatást a nyugellátás módosításával kapcsolatos eljárásról.
+(2) Az (1) bekezdés szerinti módosítási kérelmet (a továbbiakban: módosítási kérelem) ahhoz a magánnyugdíjpénztárhoz kell benyújtani, amelytől az érintett személy nyugdíjszolgáltatásban részesült, vagy amelynek tagja. A magánnyugdíjpénztár a kérelmet annak beérkezésétől számított 8 napon belül köteles megvizsgálni. Amennyiben az (1) bekezdésben foglalt feltételek nem állnak fenn, a magánnyugdíjpénztár erről értesíti a kérelmezőt.
 
-(3) Az (1) bekezdés szerinti módosítási kérelmet (a továbbiakban: módosítási kérelem) ahhoz a magánnyugdíjpénztárhoz kell benyújtani, amelytől az érintett személy nyugdíjszolgáltatásban részesült, illetve amelynek tagja. A pénztár a kérelmet annak beérkezésétől számított 8 napon belül köteles megvizsgálni. Amennyiben az (1) bekezdésben foglalt feltételeknek nem állnak fenn, a magánnyugdíjpénztár erről értesíti a kérelmezőt.
-
-(4) Amennyiben a kérelmező már részesült magánnyugdíjpénztári nyugdíjszolgáltatásban, az igénybe vett szolgáltatás összegét köteles a módosítási kérelem benyújtásától számított 60 napon belül a magánnyugdíjpénztár részére visszafizetni. A magánnyugdíjpénztár a visszafizetési kötelezettség teljesítését követően, legkésőbb a módosítási kérelem kézhezvételétől számított 90 napon belül köteles a magánnyugdíjpénztári nyugdíjszolgáltatás megállapításának vagy biztosítóintézettől történt megvásárlásának időpontjában a pénztártag egyéni számláján nyilvántartott jogszerű követelésének megfelelő összeget a Nyugdíjbiztosítási Alapba átutalni és erről a nyugdíjbiztosítási igazgatási szervet – a módosítási kérelem másolatának megküldésével együtt – értesíteni.
-
-(5) Amennyiben a kérelmező részére nyugdíjszolgáltatást nyújtó magánnyugdíjpénztár jogutód nélkül megszűnt, a (4) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a kérelem benyújtását, illetve az igénybe vett magán-nyugdíjpénztári szolgáltatás igazolt összegének visszafizetését az érintett személynek az illetékes nyugdíjbiztosítási igazgatási szerv részére kell teljesítenie.
-
-(6) A nyugdíjbiztosítási igazgatási szerv a (4)–(5) bekezdésben foglaltak szerint átutalt összeg beérkezését követő hónap utolsó napjáig intézkedik a nyugellátás összegének a megállapítás időpontjára visszamenőleges, az időközben végrehajtott nyugdíjemelések figyelembevételével történő módosításáról.
+(3) Amennyiben a kérelmező már részesült magán-nyugdíjpénztári nyugdíjszolgáltatásban, az igénybe vett szolgáltatás összegét köteles a módosítási kérelem benyújtásától számított 60 napon belül a magánnyugdíjpénztár részére visszafizetni. A magánnyugdíjpénztár a visszafizetési kötelezettség teljesítését követően, legkésőbb a módosítási kérelem kézhezvételétől számított 90 napon belül köteles a magán-nyugdíjpénztári nyugdíjszolgáltatás megállapításának vagy biztosítóintézettől történt megvásárlásának időpontjában a pénztártag egyéni számláján nyilvántartott jogszerű követelésének megfelelő összeget a Nyugdíjbiztosítási Alapba átutalni és erről a nyugdíjbiztosítási igazgatási szervet – a módosítási kérelem másolatának megküldésével együtt – értesíteni.
 
 123/B. § (1) A pénztáraknak a likviditási tartalék igénybe vett értékelési különbözetre képzett céltartalékaként 2003. január 1-jén kimutatott összegét a 2002. december 31. napját követő első hozamfelosztás során a hozamfelosztás szabályai szerint kell az egyéni számlákra és a szolgáltatási tartalékokra felosztani.
 
@@ -2149,7 +2167,7 @@ az általuk törvény alapján kezelhető adatok igénylésére jogosultak.
 
 123/C. § A pénztártagok jogosultak a választható portfoliós rendszer bevezetését megelőzően egy alkalommal kérni a pénztártól a 68/A. § (4) bekezdésétől eltérő portfolióba történő sorolásukat, amennyiben erre vonatkozó kérelmük a pénztárhoz a választható portfoliós rendszer bevezetését megelőző 30. napig beérkezett. A pénztár köteles a pénztártagokat fenti kérelmük alapján az általuk választott portfolióba átsorolni. A választható portfoliós rendszer 2007. január 1-jei bevezetése esetén a 2007. január 31-ig beérkezett kérelmeknek megfelelően kell a besorolást elvégezni. A választható portfoliós rendszer 2007. január 1-jét követő időponttól való bevezetése esetén a bevezetés időpontját úgy kell meghatározni, hogy a bevezetést megelőzően a pénztártagok által kért besorolásra meghatározott határidő teljesíthető legyen.
 
-124. §
+124. § A Nyugdíjreform és Adósságcsökkentő Alapról, és a szabad nyugdíjpénztár-választás lebonyolításával összefüggő egyes törvénymódosításokról szóló 2010. évi CLIV. törvény 25. §-ával megállapított 119. § (3) bekezdés e) pontjában foglalt adatok nyilvántartását 2011. július 30-ig kell kialakítani.
 
 125. §
 
@@ -2200,14 +2218,17 @@ az általuk törvény alapján kezelhető adatok igénylésére jogosultak.
 - j) a társadalombiztosítási nyugdíjrendszerbe történő visszalépés, továbbá az egyéni számlakövetelés átadásának és elszámolásának részletes szabályait;
 - k) a piaci eszközértékelésen alapuló vagyonértékelést és teljesítménymérést tartalmazó letétkezelői jelentés megküldésére vonatkozó határidőt;
 - l) a magánnyugdíjpénztárak közötti átlépés részletes szabályait;
-- m) a pénzforgalmi számla és a befektetési számla közötti pénzáramlások Pénzkezelési Szabályzatban rögzítendő részletes szabályait.
+- m) a pénzforgalmi számla és a befektetési számla közötti pénzáramlások Pénzkezelési Szabályzatban rögzítendő részletes szabályait;
+- n) a társadalombiztosítási nyugdíjrendszerbe átlépő magán-nyugdíjpénztári taggal összefüggő elszámolások és kifizetések rendjét;
+- o) a 24. § (10) bekezdése szerinti nyilatkozattétel részletes eljárási szabályait;
+- p) a 123. § (6) bekezdése szerinti igazolási kérelem részletes eljárási szabályait.
 
 (2) Felhatalmazást kap a nyugdíjjárulék- és nyugdíjbiztosítási járulék-fizetés szabályozásáért felelős miniszter, hogy rendeletben állapítsa meg:
 
 - a)
 - b) az Alap igazgatósága által elrendelhető rendkívüli fizetési kötelezettség szabályait és legmagasabb mértékét.
 
-134/A. § Felhatalmazást kap a Kormány, hogy a 24. § (11) bekezdésében említett szervet rendeletben jelölje ki.
+134/A. §
 
 ### 1. számú melléklet az 1997. évi LXXXII. törvényhez
 
