@@ -68,6 +68,7 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 - e) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 51/C. §-ában meghatározott szolgáltatás,
 - f) az iskolai szövetkezet és az iskolai szövetkezeti csoport nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagjának az iskolai szövetkezet, illetve az iskolai szövetkezeti csoport tevékenységében kifejtett személyes közreműködéséért a törvény hatálybalépését követően kapott ellenszolgáltatás.
 - g) az Szja tv. 70. §-ában említett juttatások azon része, amely 25 százalékos adókulccsal adózik.
+- i) a társadalombiztosítási nyugdíjrendszerbe történő visszalépés miatt a volt pénztártagnak kifizetett, a hozamgarantált tőke összege feletti összeg.
 
 (2) A kifizetőt és a bérbeadó természetes személyt nem terheli a 3. § (1) bekezdésében meghatározott egészségügyihozzájárulás-fizetési kötelezettség az ingatlan bérbeadásból származó jövedelem után, ha a bérbeadó bérleti díjból származó bevételére az önálló tevékenységből származó jövedelemre irányadó szabályokat alkalmazza.
 
