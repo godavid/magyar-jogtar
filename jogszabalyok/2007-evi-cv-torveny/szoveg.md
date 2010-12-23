@@ -23,6 +23,8 @@ a Schengeni Végrehajtási Egyezmény keretében történő együttműködésrő
 - e) az általa végzett N.SIS-be történő adattovábbítás során felmerülő többszörös jelzéselhelyezés kezdeményezéséről – az adatelhelyezést kezdeményező szerv mellett – haladéktalanul értesíti a SIRENE Irodát,
 - f) gondoskodik a tevékenységével összefüggő adatbiztonsági, adatvédelmi követelmények betartásáról.
 
+3/A. § Az N.SIS Hivatal az N.SIS-szel kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+
 4. § (1) A SIRENE Iroda e törvényben és az Európai Unió jogi aktusában meghatározott feladatait a Nemzetközi Bűnügyi Együttműködési Központ (NEBEK) látja el.
 
 (2) A SIRENE Iroda biztosítja a kiegészítő információk cseréjét, végzi az N.SIS-ben elhelyezett adatok minőségének ellenőrzését, és szükség esetén megkeresi az adatot megküldő szervet az adat helyesbítése vagy további adat közlése céljából.

@@ -398,6 +398,8 @@ esetén.
 
 (2) A bűnüldözési és a közigazgatási feladatokhoz kapcsolódó adatokat elkülönítetten kell kezelni. A vámigazgatási eljárás során keletkezett adatok kezelésére, nyilvántartására a közösségi vámjog végrehajtásáról szóló törvény rendelkezik.
 
+(3) A Vám- és Pénzügyőrség az általa kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+
 ### Bűnügyi adatkezelés
 
 35. § (1) A Vám- és Pénzügyőrség által bűnüldözési célból gyűjtött és tárolt személyes, továbbá a különleges adatokat – ha törvény eltérően nem rendelkezik – csak bűnüldözési célra lehet felhasználni.

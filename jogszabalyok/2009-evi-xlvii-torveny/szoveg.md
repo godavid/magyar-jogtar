@@ -43,7 +43,7 @@ a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bír
 
 áll.
 
-(2) A bűnügyi nyilvántartási rendszerben az adatokat a bűnügyi nyilvántartó szerv kezeli, a bűnügyi nyilvántartási rendszerből adatot továbbít, valamint a bűnügyi nyilvántartási rendszerben kezelt adatokról e törvény szerinti hatósági bizonyítványt állít ki. A bűnügyi nyilvántartó szerv a bűnügyi nyilvántartások vezetése során adatfeldolgozóként más szervet nem vehet igénybe.
+(2) A bűnügyi nyilvántartási rendszerben az adatokat a bűnügyi nyilvántartó szerv kezeli, a bűnügyi nyilvántartási rendszerből adatot továbbít, valamint a bűnügyi nyilvántartási rendszerben kezelt adatokról e törvény szerinti hatósági bizonyítványt állít ki. A bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerrel kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 ### A személyazonosító adatok és fényképek nyilvántartása
 

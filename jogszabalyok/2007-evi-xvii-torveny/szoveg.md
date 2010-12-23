@@ -370,7 +370,7 @@ feladatok ellátásáért.
 - f) mezőgazdasági célú csekély összegű (de minimis) támogatások nyilvántartási rendszere,
 - g) monitoring adat-nyilvántartási rendszer [az a)–g) pontok a továbbiakban együtt: nyilvántartási rendszerek].
 
-(2) A mezőgazdasági és vidékfejlesztési támogatási szerv a nyilvántartási rendszerek működtetésével kapcsolatos technikai feladatok ellátására adatfeldolgozót bízhat meg.
+(2) A mezőgazdasági és vidékfejlesztési támogatási szerv a nyilvántartási rendszerek működtetéséhez kapcsolódó adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 (3) A mezőgazdasági és vidékfejlesztési támogatási szerv részére az intézkedések végrehajtása során a vonatkozó feltételek, illetve kötelezettségek betartásának ellenőrzése céljából adatokat kell átadni:
 

@@ -332,7 +332,7 @@ igényelhető.
 
 29. § A nyilvántartó az ellentmondó, illetve a nyilvánvalóan hibás adatok észlelése esetén a küldő szervnél kezdeményezi az adathiba kijavítását.
 
-30. § A nyilvántartó technikai és szervezési intézkedésekkel, valamint ellenőrzési rendszer kialakításával gondoskodik a kezelt adatokhoz való jogosulatlan hozzáférés, azok jogosulatlan megváltoztatása, nyilvánosságra hozatala vagy törlése, illetőleg a sérülés vagy a megsemmisülés elleni védelméről.
+30. § A nyilvántartó technikai és szervezési intézkedésekkel, valamint ellenőrzési rendszer kialakításával gondoskodik a kezelt adatokhoz való jogosulatlan hozzáférés, azok jogosulatlan megváltoztatása, nyilvánosságra hozatala vagy törlése, illetőleg a sérülés vagy a megsemmisülés elleni védelméről. A nyilvántartó a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 31. § A nyilvántartásból igényelt adat a kérelemben megjelölt célra használható fel, a szolgáltatott adatok harmadik személy részére nem továbbíthatók.
 

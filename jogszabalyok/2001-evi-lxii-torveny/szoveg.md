@@ -255,6 +255,8 @@ Ezek az információk szolgálják
 
 (6) Az igazolvány hitelességének biztosítása, valamint a kedvezmények folyósításának ellenőrzése céljából az elbíráló hatóság (e rendelkezések alkalmazásában: adatkezelő szerv) nyilvántartást vezet az igazolványok adatairól, az igazolvány tulajdonosának külföldi lakóhelyéről, az igazolványra jogosító családi kapcsolatról, illetőleg a tartózkodásra jogosító engedélye számáról, továbbá a (2) bekezdésben meghatározott adatokról. Az adatkezelő szerv a nyilvántartásban tárolt adatokat az igazolvány visszavonásáig, illetőleg a tulajdonos haláláig kezelheti. A nyilvántartásban kezelt adatokból – a személyes adatok védelméről szóló nemzetközi egyezménnyel összhangban – adat továbbítható a jogosultság ellenőrzésére és a visszaélések megakadályozása céljából a kedvezményt, támogatást nyújtó szerv, a kedvezményeket és támogatásokat nyilvántartó szerv, a diplomáciai és konzuli képviseletek, továbbá a büntetőügyben eljáró bíróság, a bűnüldöző szervek, illetőleg az idegenrendészeti hatóság részére.
 
+(6a) Az adatkezelő szerv a (6) bekezdés szerinti nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+
 (7) Az elbíráló hatóság a kérelem elbírálásához, illetőleg a visszavonási ok fennállásának vizsgálatához a következő szervektől igényelhet adatokat:
 
 - a) a központi idegenrendészeti nyilvántartásból arról, hogy a kérelmező kiutasításra irányuló eljárás alatt áll-e, továbbá a kiutasításról, illetőleg a beutazási és tartózkodási tilalom fennállásáról, valamint a magyarországi tartózkodásra jogosító engedély adatairól;

@@ -247,7 +247,7 @@ visszatartja.
 
 (2) A körzetközponti jegyző a 24. § a)–g) pontjában meghatározott, illetve a külpolitikáért felelős miniszter a 24. §-ban meghatározott adatokról, illetve ezek változásáról elektronikus úton értesíti a központi adatkezelő szervet.
 
-25. §
+25. § A központi adatkezelő szerv az útiokmány-nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 26. § Az útlevélhatóság a kérelmező személyi és lakcím adatai azonosításához, illetőleg utazási jogosultsága megállapításához adatokat vehet át
 
@@ -335,7 +335,7 @@ visszatartja.
 
 - a) a diplomata- és a külügyi szolgálati útlevél kiadására jogosult útlevélhatóság kivételével az útlevélhatóságok székhelyét és illetékességi területét;
 - b) a Magyar Köztársaság útlevelének és egyéb úti okmányainak mintáját, az úti okmány iránti kérelem benyújtására szolgáló formanyomtatvány tartalmát;
-- c) az úti okmányokkal összefüggő adatkezelés részletes szabályait, és kijelölje a központi adatkezelő szervet, valamint meghatározza azokat a szerveket, amelyek a központi adatkezelő szerv részére adatfeldolgozást végezhetnek, illetőleg az úti okmányok előállításában közreműködhetnek;
+- c) az úti okmányokkal összefüggő adatkezelés részletes szabályait, és kijelölje a központi adatkezelő szervet, valamint kijelölje azokat az adatfeldolgozónak nem minősülő szerveket, amelyek az úti okmányok előállításában közreműködhetnek;
 - d) a külképviseleteknek az útlevél kiadásával, nyilvántartásával kapcsolatos feladatait;
 - e) az adópolitikáért felelős miniszterrel egyetértésben – az útlevél kivételével – az úti okmányok kiadásáért és cseréjéért; valamint a közigazgatási informatikáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben az adatszolgáltatásért fizetendő igazgatási szolgáltatási díj összegét, a kedvezmények és mentességek körét.
 
