@@ -306,6 +306,8 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 (3) Az ingatlanügyi hatóság az általa vezetett földhasználati nyilvántartásból díjfizetés ellenében a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott, a 25/B. § (1) bekezdésében foglalt adatokat is tartalmazó földhasználati lapot szolgáltat. Ingyenesen szolgáltat adatot a földhivatal hatóság megkeresésére a hatósági feladatának ellátása céljából. Az adatszolgáltatásért a miniszter e törvény felhatalmazása alapján az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott díjat kell fizetni.
 
+(4) A földhasználati nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával az ingatlanügyi hatóság csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+
 ### A földhasználati eljárás igazgatási szolgáltatási díja
 
 25/D. § (1) Az első fokon kérelemre indult eljárásért – ha e törvény másként nem rendelkezik – 6000 forint összegű díjat kell fizetni. Ha a földhasználati bejelentés 20 vagy annál több földrészletre vonatkozik, az eljárás díja 12 000 forint.

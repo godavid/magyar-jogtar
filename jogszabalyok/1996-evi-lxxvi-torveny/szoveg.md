@@ -61,7 +61,7 @@ a földmérési és térképészeti tevékenységről
 - c) az alapponthálózatok létesítése és fenntartása, valamint
 - d) az államhatár földmérési munkái.
 
-(4)
+(4) Az állami földmérési alaptérképek, állami topográfiai térképek, alapponthálózatok, az államhatár földmérési munkarészei, valamint a magyarországi hivatalos földrajzi nevek nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával az adatkezelő csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 ### Az állami alapadatok
 

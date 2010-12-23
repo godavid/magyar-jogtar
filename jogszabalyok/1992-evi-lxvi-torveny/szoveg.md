@@ -130,7 +130,7 @@ Az Országgyűlés, az Alkotmánynak a személyes adatok védelméről szóló r
 - c) a törvényben meghatározott feltételek fennállása esetében, e törvény vagy külön jogszabály szerint hatáskörébe tartozó esetben – adatszolgáltatást teljesít a nyilvántartásból;
 - d) ellátja a személyi adat- és lakcímnyilvántartás, valamint a személyazonosító igazolvány kiadásával és nyilvántartásával kapcsolatos, külön jogszabályban hatáskörébe utalt hatósági feladatokat;
 - e) működteti a nyilvántartás informatikai rendszerét;
-- f) a miniszter és a közigazgatási informatikáért felelős miniszter jóváhagyásával adatfeldolgozót bízhat meg egyes adatfeldolgozási műveletek, technikai feladatok elvégzésével;
+- f) a miniszter és a közigazgatási informatikáért felelős miniszter jóváhagyásával államigazgatási szerv vagy kizárólagos állami tulajdonú gazdálkodó szervezet adatfeldolgozót bízhat meg egyes adatfeldolgozási műveletek, technikai feladatok elvégzésével;
 - g) a polgárnak a személyazonosító igazolványban szereplő adatai alapján történő azonosítása, illetőleg azok igazolása céljából a személyazonosító igazolvány nyilvántartásban kezeli a 29. § (3) bekezdése szerinti adatokat, továbbá a személyazonosító igazolvány elvesztésére, illetve találására utaló adatokat, valamint a személyazonosító igazolvány elvételének vagy bevonásának tényét és következő indokait:
   - ga) a szabadságvesztés, kényszergyógykezelés, vagy pénzbírságot helyettesítő elzárás letöltésének megkezdését, az őrizetbe vagy előzetes letartóztatásba vételt,
   - gb) a Magyar Köztársaság területének külföldi letelepedés szándékával történő elhagyását,

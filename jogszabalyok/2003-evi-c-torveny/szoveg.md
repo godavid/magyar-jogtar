@@ -15,7 +15,7 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 - c) a felhasználókra, a fogyasztókra és az előfizetőkre,
 - d) az a) pontban foglalt tevékenységet vagy szolgáltatást végző, illetve nyújtó, vagy azzal összefüggő tevékenységet végző vagy azt igénybevevő belföldi vagy külföldi természetes, illetőleg jogi személyre vagy jogi személyiséggel nem rendelkező más szervezetre és ezek vezető tisztségviselőire.
 
-(2) E törvényt a kizárólag kormányzati, nemzetbiztonsági, igazságszolgáltatási, rendvédelmi, illetőleg védelmi igények kielégítését szolgáló – rendeltetésük szerint elkülönült – hírközlő hálózatok (zártcélú hálózatok) tekintetében a rájuk vonatkozó külön törvényekben és más jogszabályokban foglalt eltérésekkel kell alkalmazni.
+(2) E törvényt a jogszabályban meghatározott közfeladatok ellátásához szükséges olyan elektronikus hírközlő hálózat esetén, amely nyilvános elektronikus hírközlő hálózattól fizikailag vagy logikailag elkülönített (a továbbiakban: kormányzati célú hálózat), valamint az ilyen hálózatokkal kapcsolatos elektronikus hírközlési tevékenység tekintetében a rájuk vonatkozó külön jogszabályokban foglalt eltérésekkel kell alkalmazni.
 
 2. § A törvény céljai és alapelvei:
 
@@ -146,7 +146,7 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 - l) koordinálja az elektronikus hírközléssel kapcsolatos, külön jogszabályban meghatározott honvédelmi, rendvédelmi, nemzetbiztonsági és védelmi felkészítési, valamint az ezekkel kapcsolatos adatszolgáltatási feladatok végrehajtását, működteti az informatikai és hírközlési ágazat ügyeleti szolgálatát;
 - m) eljár az elektronikus hírközlési szolgáltatások bejelentésével, a polgári célú frekvenciagazdálkodással, az azonosítógazdálkodással, a jogszabályban előírt nyilvántartások vezetésével, a zavarelhárítással, a piacfelügyelettel, az ingatlanhasználattal, az elektronikus hírközlési építmények engedélyezésével, az építésfelügyelettel kapcsolatos hatósági ügyekben;
 - n) eljár a Kormány, illetve a miniszter hatáskörébe nem tartozó, polgári célú frekvenciagazdálkodással kapcsolatos ügyekben;
-- o) zártcélú hálózatok létesítése, összekapcsolása, fejlesztése, korszerűsítése során a zártcélú hálózatokról szóló jogszabály szerint egyeztet a hálózatgazdákkal;
+- o)
 - p) ellenőrzi a miniszter által kijelölt megfelelőségértékelő szervezetek tevékenységét;
 - q)
 - r) ellátja az Egyetemes Elektronikus Hírközlési Támogatási Kassza működtetésével kapcsolatos, jogszabályban meghatározott feladatokat;
@@ -1464,7 +1464,7 @@ köréből jelöli ki a megőrzött adatok átvételére és azok 159/A. § szer
 
 (6) A titkos információgyűjtésre, illetve a titkos adatszerzésre felhatalmazott szervezetek részére az elektronikus hírközlési szolgáltató egyedi kérelemre szolgáltat adatot, közvetlen elektronikus adatkapcsolat útján, a Nemzetbiztonsági Szakszolgálat által meghatározott műszaki alapkövetelményeknek megfelelő, az elektronikus hírközlési szolgáltató által kiépített felületen. Amennyiben az elektronikus adatkapcsolat útján az igényelt adat nem hozzáférhető, az adatszolgáltatást az elektronikus hírközlési szolgáltató írásban vagy – erre vonatkozó igény esetén – elektronikus adathordozón teljesíti. Az elektronikus adatkapcsolat kiépítését nem igénylő titkos információgyűjtésre felhatalmazott szervezetek számára az adatszolgáltatást az elektronikus hírközlési szolgáltató írásban vagy elektronikus adathordozón teljesíti. Az adatszolgáltatási felület valamennyi költségét az elektronikus hírközlési szolgáltató viseli, az adatszolgáltatást az elektronikus hírközlési szolgáltató térítésmentesen teljesíti.
 
-(7) Az elektronikus hírközlési szolgáltatónak – jogszabályban meghatározott esetekben – együtt kell működnie a zártcélú hálózatok üzemeltetőivel.
+(7) Az elektronikus hírközlési szolgáltatónak – jogszabályban meghatározott esetekben – együtt kell működnie a kormányzati célú hálózat működtetőjével.
 
 (8) Műszaki, forgalmi, katasztrófa- vagy egyéb veszély miatt keletkező üzemzavar elhárításához a szolgáltató köteles külön jogszabályban meghatározott tartalmú, folyamatosan felülvizsgált és karbantartott felkészülési, zavarelhárítási és katasztrófaelhárítási tervekkel és a felkészülésre vonatkozó jogszabályokból következő feladatok ellátásához szükséges mértékű és összetételű tartalékokkal rendelkezni.
 
@@ -2535,7 +2535,7 @@ köteles biztosítani.
 - h) a referenciaajánlatokra, a hálózati szerződésekre, valamint azok megkötésére vonatkozó részletes szabályokat;
 - i) az elektronikus hírközlési szolgáltatót, alkalmazottját, tagját, megbízottját terhelő adatvédelmi és titoktartási kötelezettséget, az adatkezelés részletes szabályait, a titokvédelemre vonatkozó különleges feltételeket, a forgalmi és számlázási adatok kezelését, az azonosító-kijelzés és a hívásátirányítás feltételeit;
 - j) az Egyetemes Elektronikus Hírközlési Támogatási Kassza létrehozására, működésére, forrásaira, felügyeletére, felhasználására és megszüntetésére vonatkozó részletes szabályokat;
-- k) a zártcélú hálózatokra vonatkozó, e törvénytől eltérő szabályokat;
+- k) a kormányzati célú hálózatokra és az ilyen hálózatokkal kapcsolatos elektronikus hírközlési tevékenységre vonatkozó, e törvénytől eltérő szabályokat;
 - l) a digitális rádió- és televízió-műsorok elérése érdekében a Hatóság által a 100. § (3) bekezdése alapján előírható kötelezettségek részletes szabályait;
 - m) a távirat-szolgáltatás ellátásának részletes szabályait;
 - n) az egyetemes szolgáltatás részletes pénzügyi és műszaki feltételeit, követelményeit.

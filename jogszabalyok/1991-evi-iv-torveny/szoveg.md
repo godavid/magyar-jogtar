@@ -1069,6 +1069,8 @@ szerinti adatok igénylésére jogosult.
 
 57/B. § (1) Az állami foglalkoztatási szerv az Szt.-ben meghatározott aktív korúak ellátására jogosult személyekről a munkaerő-piaci helyzetük javítása, a jegyző, valamint állami foglalkoztatási szerv ezzel összefüggő feladatai eredményes ellátásának elősegítése, a jogosultsági és folyósítási feltételek fennállásának megállapítása és ellenőrzése céljából elkülönített elektronikus nyilvántartást vezet (a továbbiakban: adatbázis).
 
+(1a) Az állami foglalkoztatási szerv az adatbázissal kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+
 (2) Az adatbázis tartalmazza az aktív korúak ellátására jogosult személyek tekintetében
 
 - a) a jegyző által az Szt. 19. §-ának (3) bekezdésében foglaltak szerint átadott, ott meghatározott adatokat,

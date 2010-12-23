@@ -53,7 +53,7 @@ törleszti havi részletekben a természetes személy azzal, hogy hitelszerződ�
 
 (3) A pénzügyi intézmény a természetes személy részére a hitelszerződéssel kapcsolatban a tőke és a kamat összegén kívül egyéb (így különösen a hitelbírálattal, a rendelkezésre tartással, a folyósítással, a kezeléssel, az elő- és végtörlesztéssel összefüggő) fizetési kötelezettséget nem írhat elő.
 
-(4) A természetes személy 2010. december 31. napjáig kezdeményezheti a hitelszerződés megkötését. A természetes személynek a hitelszerződés aláírásáig be kell nyújtania a 3. § (1) bekezdésének a)–d) pontjában foglaltak igazolására szolgáló iratok eredeti vagy hitelesített másolati példányát.
+(4) A természetes személy 2011. június 30. napjáig kezdeményezheti a hitelszerződés megkötését. A természetes személynek a hitelszerződés aláírásáig be kell nyújtania a 3. § (1) bekezdésének a)–d) pontjában foglaltak igazolására szolgáló iratok eredeti vagy hitelesített másolati példányát.
 
 (5) Ha a természetes személy nem, vagy csak részben teljesíti a 3 § (1) bekezdésének e) pontjában vagy a 3/A. § (2) bekezdésének b) pontjában meghatározott vállalását, akkor az (1) bekezdés szerinti készfizető kezesség a hitelszerződés alapján a szerződésszegés időpontjáig folyósított összegre vonatkozóan áll fenn.
 

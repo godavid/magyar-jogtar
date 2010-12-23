@@ -109,7 +109,7 @@ Az Országgyűlés – elismerve a kisvállalkozók gazdasági életben betölt�
 - h) ha az egyéni vállalkozó rendelkezik igazolvánnyal, az igazolvány számát, kiállításának helyét és keltét, a kiállító hatóság megnevezését, az igazolvány cseréje, pótlása megtagadásának tényét, az igazolvány visszavonásának és érvénytelenségének tényét, valamint
 - i) a törlés időpontját és okát.
 
-(2) A nyilvántartást vezető szerv az egyéni vállalkozók nyilvántartásába kizárólag az e törvényben meghatározott esetben jogosult adatokat bejegyezni, valamint a nyilvántartásból adatot törölni.
+(2) A nyilvántartást vezető szerv az egyéni vállalkozók nyilvántartásába kizárólag az e törvényben meghatározott esetben jogosult adatokat bejegyezni, valamint a nyilvántartásból adatot törölni. A nyilvántartást vezető szerv a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 (3) A Hatóság az egyéni vállalkozói jogviszony fennállásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az egyéni vállalkozó megfelel-e a 3. § (2) bekezdésének b) és c) pontjában meghatározott feltételeknek, továbbá, hogy nem áll-e valamely tevékenysége tekintetében foglalkozástól eltiltás hatálya alatt.
 

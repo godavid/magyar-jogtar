@@ -994,6 +994,8 @@ szerinti állam vonatkozásában.
 
 93. § Az idegenrendészeti hatóság a harmadik országbeli állampolgár e törvény alapján nyilvántartott személyes adatait személyazonosítás, az okmányok hitelességének ellenőrzése, a jogszerű tartózkodás időtartamának megállapítása, illetve a párhuzamos eljárások megakadályozása céljából a központi idegenrendészeti nyilvántartásban kezeli.
 
+93/A. § Az idegenrendészeti hatóság a központi idegenrendészeti nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet, a bűnügyi nyilvántartási rendszerről szóló törvény szerinti szakértői nyilvántartó szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+
 94. § A központi idegenrendészeti nyilvántartás az idegenrendészeti résznyilvántartások hatálya alá tartozó személyek következő természetes személyazonosító adatait (a továbbiakban: természetes személyazonosító adatok) tartalmazza:
 
 - a) családi és utónév (nevek);
