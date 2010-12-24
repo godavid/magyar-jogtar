@@ -42,7 +42,7 @@ Az Országgyűlés, az Alkotmánynak a személyes adatok védelméről szóló r
 
 4. § (1) A törvény hatálya alá tartoznak:
 
-- a) a Magyar Köztársaság területén élő magyar állampolgárok, a bevándorolt és a letelepedett jogállású, valamint a menekültként elismert személyek,
+- a) a Magyar Köztársaság területén élő magyar állampolgárok, a bevándorolt és a letelepedett jogállású, valamint a menekültként vagy oltalmazottként elismert személyek,
 - b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), amennyiben a szabad mozgás és a három hónapot meghaladó tartózkodási jogukat a Magyar Köztársaság területén gyakorolják.
 
 (2) A külföldön élő, illetőleg a Magyar Köztársaság területét a külföldi letelepedés szándékával elhagyó magyar állampolgárok akkor tartoznak a törvény hatálya alá, ha – a magyar állampolgárságuk igazolása után – kérik adataiknak a nyilvántartásba való felvételét, illetőleg meglévő adataik további kezelését. Adataikat kérelmükre – az archív adatok kivételével – a nyilvántartásból törölni kell.
@@ -134,11 +134,12 @@ Az Országgyűlés, az Alkotmánynak a személyes adatok védelméről szóló r
 - g) a polgárnak a személyazonosító igazolványban szereplő adatai alapján történő azonosítása, illetőleg azok igazolása céljából a személyazonosító igazolvány nyilvántartásban kezeli a 29. § (3) bekezdése szerinti adatokat, továbbá a személyazonosító igazolvány elvesztésére, illetve találására utaló adatokat, valamint a személyazonosító igazolvány elvételének vagy bevonásának tényét és következő indokait:
   - ga) a szabadságvesztés, kényszergyógykezelés, vagy pénzbírságot helyettesítő elzárás letöltésének megkezdését, az őrizetbe vagy előzetes letartóztatásba vételt,
   - gb) a Magyar Köztársaság területének külföldi letelepedés szándékával történő elhagyását,
-  - gc) a bevándorlási engedély visszavonását, illetőleg a menekült jogállás megszűnését,
+  - gc) a bevándorlási engedély visszavonását, illetőleg a menekült vagy oltalmazott jogállás megszűnését,
   - gd) a magyar állampolgárság megszűnését,
   - ge) a tulajdonos halálát;
 - h) kezeli a központi okmánytárat;
-- m) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos – jogszabályban meghatározott – feladatokat.
+- m) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos – jogszabályban meghatározott – feladatokat;
+- n) ellátja az oltalmazottként elismert személy személyi és lakcímadatainak nyilvántartásba vételével, valamint a személyazonosító igazolványa és a személyi azonosítót és lakcímet igazoló hatósági igazolványa első ízben történő kiadásával összefüggő feladatokat.
 
 (3) A központi szerv Központi Okmánytárában – adatlapokon, illetve számítógépes adathordozón tárolva – kezeli:
 
@@ -158,7 +159,7 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 11. § (1) A nyilvántartás tartalmazza a polgár
 
 - a) nevét;
-- b) magyar vagy külföldi állampolgárságát, illetve hontalanságát, magyar állampolgársága megszűnésének tényét (a továbbiakban: állampolgárság), valamint menekült, bevándorolt, letelepedett jogállását, illetve a szabad mozgás és tartózkodás jogával rendelkező személy esetében a szabad mozgáshoz és tartózkodáshoz való joggal történő rendelkezés tényét;
+- b) magyar vagy külföldi állampolgárságát, illetve hontalanságát, magyar állampolgársága megszűnésének tényét (a továbbiakban: állampolgárság), valamint menekült vagy oltalmazott, bevándorolt, letelepedett jogállását, illetve a szabad mozgás és tartózkodás jogával rendelkező személy esetében a szabad mozgáshoz és tartózkodáshoz való joggal történő rendelkezés tényét;
 - c) nemét;
 - d) születési helyét és idejét;
 - e) anyja nevét;
@@ -177,7 +178,7 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 
 (4)–(5)
 
-12. § (1) A nyilvántartás történeti állománya tartalmazza a polgár minden eddigi, a törvény hatálya alá tartozó adatát és adatváltozását az érintett elhalálozásától, magyar állampolgárságának megszűnésétől, illetve a külföldi letelepedés szándékával külföldre távozásától, bevándorolt, menekült, letelepedett jogállásának megszűnésétől, illetve a szabad mozgás és tartózkodás jogával rendelkező személy tartózkodási jogának megszűnésétől számított 15 évig, kivéve, ha jogállásának megszűnését a magyar állampolgárság megszerzése eredményezte. Ha az érintett magyar állampolgársága a külföldi letelepedés szándékával történt külföldre távozás nyilvántartásba vételét követően szűnik meg, e tényt a nyilvántartás történeti állományán át kell vezetni.
+12. § (1) A nyilvántartás történeti állománya tartalmazza a polgár minden eddigi, a törvény hatálya alá tartozó adatát és adatváltozását az érintett elhalálozásától, magyar állampolgárságának megszűnésétől, illetve a külföldi letelepedés szándékával külföldre távozásától, bevándorolt, menekült vagy oltalmazott, letelepedett jogállásának megszűnésétől, illetve a szabad mozgás és tartózkodás jogával rendelkező személy tartózkodási jogának megszűnésétől számított 15 évig, kivéve, ha jogállásának megszűnését a magyar állampolgárság megszerzése eredményezte. Ha az érintett magyar állampolgársága a külföldi letelepedés szándékával történt külföldre távozás nyilvántartásba vételét követően szűnik meg, e tényt a nyilvántartás történeti állományán át kell vezetni.
 
 (2) A Központi Okmánytárban a 9. § (3) bekezdésében meghatározott adatokat, illetőleg okiratokat az (1) bekezdés szerinti időpont lejártától számított negyven évig kell megőrizni.
 

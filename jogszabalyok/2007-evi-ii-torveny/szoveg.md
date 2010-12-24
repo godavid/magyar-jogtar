@@ -12,7 +12,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 (3) E törvény – a (4)–(5) bekezdésben foglalt kivétellel – nem alkalmazható a külön törvény alapján a szabad mozgás és tartózkodás jogával rendelkező személyekre.
 
-(4) A (3) bekezdésben meghatározott személyekre, feltéve, hogy nem az Európai Unió valamely tagállamának állampolgárai, e törvény IV. fejezetének EK letelepedési engedélyre vonatkozó rendelkezéseit alkalmazni kell.
+(4) A (3) bekezdésben meghatározott személyekre, feltéve, hogy nem az Európai Unió valamely tagállamának állampolgárai, a IV. fejezet EK letelepedési engedélyre vonatkozó, valamint a VIII. fejezet hontalan státusz megállapítására és a hontalanok úti okmánnyal történő ellátására vonatkozó rendelkezéseit alkalmazni kell.
 
 (5) E törvény rendelkezéseit a (3) bekezdésben meghatározott személyekre akkor kell alkalmazni, ha külön törvény szerint harmadik ország állampolgárságával rendelkező személyek, és a külön törvényben meghatározott tartózkodási jogosultságuk megszűnését követően e törvény szerint tartózkodásra jogosító engedély iránti kérelmet nyújtanak be.
 
@@ -35,6 +35,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 - k) munkáltató: az a természetes vagy jogi személy, jogi személyiség nélküli szervezet, aki vagy amely a harmadik országbeli állampolgárt foglalkoztatja;
 - l) meghívó: az a természetes vagy jogi személy, illetve jogi személyiség nélküli szervezet, aki, illetve amely hatósági hozzájárulással ellátott meghívólevélben kötelezettséget vállal arra, hogy a meghívott harmadik országbeli állampolgár részére – a Magyar Köztársaság területén történő tartózkodása időtartamára – szállást biztosít, eltartásáról gondoskodik, továbbá – ha nemzetközi szerződés másként nem rendelkezik – egészségügyi ellátásának, valamint kiutazásának költségeit fedezi;
 - m) három hónapot meg nem haladó tartózkodásra jogosító vízum: a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Vízumkódex) 2. cikk 2. pontjában meghatározott engedély.
+- n) dublini rendeletek: egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2003. február 18-i 343/2003/EK tanácsi rendelet, valamint a valamely harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló, 2003. szeptember 2-i 1560/2003/EK bizottsági rendelet.
 
 3. § Harmadik országbeli állampolgárnak kell tekinteni
 
@@ -55,11 +56,13 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 7. § Ha valamely közvetlenül alkalmazandó európai közösségi jogi aktus, nemzetközi szerződés, e törvény vagy e törvény felhatalmazása alapján kormányrendelet másként nem rendelkezik, a harmadik országbeli állampolgár három hónapot meg nem haladó tartózkodás céljából történő beutazásához és tartózkodásához vízum szükséges.
 
+7/A. § A három hónapot meg nem haladó tartózkodásra jogosító vízummal rendelkező harmadik országbeli állampolgár, valamint az 539/2001/EK tanácsi rendelet II. mellékletében szereplő harmadik ország állampolgáraként a Magyar Köztársaság területén jogszerűen tartózkodó személy – ha e törvény eltérően nem rendelkezik – a 20. § (1) bekezdés szerinti keresőtevékenységet folytathat.
+
 ### Három hónapot meg nem haladó tartózkodásra jogosító vízumok
 
 8. § A három hónapot meg nem haladó tartózkodásra jogosító vízumot a Vízumkódexben foglalt eljárások és feltételek szerint kell kiadni.
 
-9. § (1) Az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszter által – a közbiztonság és a nemzetbiztonság védelme érdekében – meghatározott esetekben a három hónapot meg nem haladó tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki.
+9. § (1) Az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter által – a közbiztonság és a nemzetbiztonság védelme érdekében – meghatározott esetekben a három hónapot meg nem haladó tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki.
 
 (2) A központi vízumhatóság a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadásához való hozzájárulás megadása előtt köteles egyeztetni azon schengeni államok központi hatóságaival, amelyek az egyeztetést kérik.
 
@@ -132,6 +135,8 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 (3) A tartózkodási engedély – ha e törvény eltérően nem rendelkezik – két évvel meghosszabbítható.
 
+(4) A harmadik országbeli állampolgár az e törvény végrehajtási rendeletében meghatározott méltányossági kérelem elfogadása esetén a Magyar Köztársaság területén terjeszthet elő tartózkodási engedély kiadása iránti kérelmet.
+
 17. § (1) Tartózkodási engedélyt – ha e törvény másként nem rendelkezik – az a harmadik országbeli állampolgár kaphat, aki eleget tesz a 13. § (1) bekezdés a), valamint c)–i) pontjaiban foglalt feltételeknek, és
 
 - a) nemzeti tartózkodási engedély iránti kérelem esetén rendelkezik érvényes nemzeti vízummal, illetve
@@ -140,9 +145,9 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 18. § (1) A tartózkodási engedély kiadását vagy meghosszabbítását – ha e törvény másként nem rendelkezik – meg kell tagadni, illetve a kiadott tartózkodási engedélyt vissza kell vonni, ha a harmadik országbeli állampolgár
 
 - a) nem felel meg a 13. § (1) bekezdés a), valamint c)–i) pontjaiban foglalt valamely feltételnek;
-- b) a tartózkodási jogosultság megszerzése érdekében az eljáró hatósággal hamis adatot, valótlan tényt közölt;
+- b) a tartózkodási jogosultság megszerzése érdekében az eljáró hatósággal hamis adatot, valótlan tényt közölt, vagy a tartózkodási cél vonatkozásában az eljáró hatóságot megtévesztette;
 - c) közegészséget veszélyeztető betegségben szenved, és nem veti alá magát kötelező és rendszeres egészségügyi ellátásnak, vagy a Magyar Köztársaság területén történő tartózkodása alatt az egészségügyre vonatkozó hatályos magyar jogszabályok előírásait nem tartja be;
-- d) a családi kapcsolatot kizárólag a családi együttélés céljára szolgáló tartózkodási engedély kiadása érdekében hozta létre.
+- d) a családi kapcsolatot a családi együttélés céljára szolgáló tartózkodási engedély kiadása érdekében hozta létre.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően, nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből a beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt álló harmadik országbeli állampolgár tartózkodási engedélyt kaphat, illetve a részére kiadott tartózkodási engedélyt nem kell visszavonni.
 
@@ -170,7 +175,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 (8) A nemzeti vízummal vagy tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár Magyar Köztársaság területén született harmadik országbeli állampolgár gyermeke részére családi együttélés céljából tartózkodási engedélyt kell kiállítani.
 
-(9) A (10) bekezdésben foglalt kivétellel a családegyesítési célú tartózkodási engedély érvényességi ideje három év, amely alkalmanként három évvel meghosszabbítható.
+(9) A családegyesítési célú tartózkodási engedély érvényességi ideje legfeljebb három év, amely alkalmanként legfeljebb három évvel meghosszabbítható.
 
 (10) A családegyesítés céljából kiadott tartózkodási engedély érvényességi ideje nem haladhatja meg a családegyesítő tartózkodási engedélyének érvényességi idejét.
 
@@ -196,12 +201,14 @@ tartózkodási engedéllyel rendelkezik.
 
 (5) Munkavállalási engedélyhez kötött tevékenység esetén a tartózkodási engedély érvényességi ideje a munkavállalási engedély érvényességi időtartamához igazodik.
 
-21. § (1) Tanulmányi célból tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki a Magyar Köztársaságban akkreditált közép- vagy felsőfokú oktatási intézmény nappali tagozatán tanulmányok folytatása, illetve a felsőoktatási intézmény által szervezett, a tanulmányok folytatását előkészítő képzésben való részvétel érdekében kíván a Magyar Köztársaság területén tartózkodni.
+21. § (1) Tanulmányi célból tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki a Magyar Köztársaságban akkreditált közép- vagy felsőfokú oktatási intézmény nappali tagozatán tanulmányok folytatása, illetve a felsőoktatási intézmény által szervezett, a tanulmányok folytatását előkészítő képzésben való részvétel érdekében kíván a Magyar Köztársaság területén tartózkodni, és igazolja, hogy a tanulmányok folytatásához megfelelő nyelvismerettel rendelkezik.
 
 (2) A tanulmányi célból kiadott tartózkodási engedély érvényességi ideje, ha
 
 - a) a képzés időtartama két évnél rövidebb, a képzés időtartamához igazodik,
 - b) a képzés időtartama két év vagy annál hosszabb, akkor legalább egy, de legfeljebb két év, amely alkalmanként legalább egy, legfeljebb két évvel meghosszabbítható.
+
+(3) A tanulmányi célból kiadott tartózkodási engedély érvényességi ideje a (2) bekezdésben meghatározottak figyelembevételével sem haladhatja meg a kérelmező úti okmányának érvényességi idejét.
 
 22. § (1) Kutatás céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat,
 
@@ -248,7 +255,7 @@ kíván a Magyar Köztársaság területén tartózkodni.
 
 kíván a Magyar Köztársaság területén tartózkodni.
 
-(2) A nemzeti tartózkodási engedély érvényességi ideje legfeljebb öt év, amely alkalmanként öt évvel meghosszabbítható.
+(2) A nemzeti tartózkodási engedély érvényességi ideje legfeljebb öt év, amely alkalmanként legfeljebb öt évvel meghosszabbítható.
 
 28. § (1) A 13. § (1) bekezdés a), valamint c)–i) pontjaiban foglalt feltételeket teljesítő harmadik országbeli állampolgár a 19–27. §-ban foglalt tartózkodási cél hiányában egyéb célból is kaphat tartózkodási engedélyt.
 
@@ -264,8 +271,9 @@ kíván a Magyar Köztársaság területén tartózkodni.
 
 (2) A humanitárius célból kiadott tartózkodási engedély érvényességi ideje
 
-- a) az (1) bekezdés a)–d) pontjában foglalt esetben egy év, amely alkalmanként legfeljebb egy évvel meghosszabbítható;
-- b) az (1) bekezdés e) pontjában foglalt esetben hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható.
+- a) az (1) bekezdés a) pontjában foglalt esetben három év, amely alkalmanként legfeljebb egy évvel meghosszabbítható;
+- b) az (1) bekezdés b) és d) pontjaiban foglalt esetekben egy év, amely alkalmanként legfeljebb egy évvel meghosszabbítható;
+- c) az (1) bekezdés c) és e) pontjaiban foglalt esetekben legfeljebb hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható.
 
 (3) A humanitárius célból kiadott tartózkodási engedély – a 18. § (1) bekezdésben foglaltaktól eltérően – nem hosszabbítható meg, illetve azt vissza kell vonni, ha
 
@@ -290,15 +298,15 @@ kíván a Magyar Köztársaság területén tartózkodni.
 - c) aki azért tartózkodik a jogszerű tartózkodás időtartamát meghaladóan a Magyar Köztársaság területén, mert kiutazását humanitárius, keresőtevékenységével összefüggő, nem önhibájából eredő személyes vagy elháríthatatlan ok fennállása akadályozza;
 - d) aki a Magyar Köztársaság területén jogszerűen tartózkodó harmadik országbeli állampolgár szülő gyermekeként született a Magyar Köztársaság területén és jogszerű magyarországi tartózkodása az e törvényben szabályozott más engedéllyel nem biztosítható;
 - e) aki emberkereskedelem áldozata, az áldozatsegítő hatóság indítványára, a gondolkodási idő tartamára;
-- f) akinek beutazását a 13. § (2) bekezdése alapján engedélyezik, feltéve, hogy a Magyar Köztársaság területén történő tartózkodásra jogosító engedéllyel nem rendelkezik;
+- f) akinek beutazását a törvényben meghatározott feltételek hiányában csak kivételesen, nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből engedélyezik, feltéve, hogy a Magyar Köztársaság területén történő tartózkodásra jogosító engedéllyel nem rendelkezik;
 - g) akinek az úti okmányát külön törvény alapján visszatartották, és nem rendelkezik a Magyar Köztársaság területén történő tartózkodásra jogosító engedéllyel;
 - h) akivel szemben jogellenes beutazás, illetve tartózkodás miatt idegenrendészeti eljárás van folyamatban;
 - i) aki hontalansága megállapítását kérte, az eljárás időtartamára, feltéve, hogy a Magyar Köztársaság területén történő tartózkodásra jogosító engedéllyel nem rendelkezik;
-- j) akit a 62. § (1) bekezdés a), b), c), d) vagy f) pontja alapján kijelölt helyen való tartózkodásra köteleztek.
+- j) akit a 62. § (1) bekezdés a), b), c), d) vagy f), g) pontja alapján kijelölt helyen való tartózkodásra köteleztek.
 
 (2) Az ideiglenes tartózkodásra jogosító igazolás érvényességi ideje
 
-- a) az (1) bekezdés a)–c) pontjában, valamint f)–h) pontjában foglalt esetekben három hónap, amely alkalmanként három hónappal meghosszabbítható;
+- a) az (1) bekezdés a)–c) pontjában, valamint f)–h) pontjában foglalt esetekben legfeljebb három hónap, amely alkalmanként legfeljebb három hónappal meghosszabbítható;
 - b) az (1) bekezdés d) pontjában foglalt esetben a szülő tartózkodásának időtartamához igazodik;
 - c) az (1) bekezdés e) pontjában foglalt esetben egy hónap, amely nem hosszabbítható meg;
 - d) az (1) bekezdés i) és j) pontjában foglalt esetben hat hónap, amely alkalmanként hat hónappal meghosszabbítható.
@@ -345,8 +353,9 @@ kapott.
 (2) Nem kaphat ideiglenes letelepedési engedélyt, nemzeti letelepedési engedélyt vagy EK letelepedési engedélyt az a harmadik országbeli állampolgár,
 
 - a) aki büntetett előéletű, és a büntetett előélethez fűződő joghátrányok alól még nem mentesült;
-- b) akinek a letelepedése veszélyezteti a Magyar Köztársaság nemzetbiztonságát;
-- c) aki kiutasítás vagy beutazási és tartózkodási tilalom, illetve beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll.
+- b) akinek a letelepedése veszélyezteti a Magyar Köztársaság közbiztonságát vagy nemzetbiztonságát;
+- c) aki kiutasítás vagy beutazási és tartózkodási tilalom, illetve beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll;
+- d) aki az engedély megszerzése érdekében hamis adatot, valótlan tényt közölt, vagy az eljáró hatóságot megtévesztette.
 
 (3) Ha a letelepedett vagy bevándorolt harmadik országbeli állampolgárnak a Magyar Köztársaság területén harmadik országbeli állampolgár gyermeke született, a születés bejelentését követően a gyermek részére
 
@@ -395,7 +404,7 @@ kíván a Magyar Köztársaság területén tartózkodni.
 
 (4) A menekültügyi hatóság által menekültként elismert harmadik országbeli állampolgár a nemzeti letelepedési engedélyt tartózkodási vízum vagy tartózkodási engedély hiányában is kérelmezheti.
 
-36. § (1) Különös méltánylást érdemlő körülmény esetén a harmadik országbeli állampolgár az idegenrendészetért és menekültügyért felelős miniszter döntése alapján a 33. § (1) bekezdésben és a 35. § (1) bekezdésben foglalt feltételek hiányában is kaphat nemzeti letelepedési engedélyt.
+36. § (1) Különös méltánylást érdemlő körülmény esetén a harmadik országbeli állampolgár az idegenrendészetért és menekültügyért felelős miniszter döntése alapján a 13. § (1) bekezdés a) pontjában, a 33. § (1) bekezdésben és a 35. § (1) bekezdésében foglalt feltételek hiányában is kaphat nemzeti letelepedési engedélyt.
 
 (2) Az idegenrendészetért és menekültügyért felelős miniszter az (1) bekezdés szerinti eljárása során a kérelmező egyéni körülményeit, családi kapcsolatait és egészségügyi állapotát értékeli különös méltánylást érdemlő körülményként, valamint figyelembe veszi a Magyar Köztársaság közérdekét.
 
@@ -410,7 +419,7 @@ kíván a Magyar Köztársaság területén tartózkodni.
 (2) Az idegenrendészeti hatóság az engedélyt visszavonja, ha
 
 - a) az engedély megszerzése érdekében a harmadik országbeli állampolgár az idegenrendészeti hatósággal hamis adatot, valótlan tényt közölt;
-- b) a kiskorú harmadik országbeli állampolgár esetében a szülői felügyelet jogát gyakorló harmadik országbeli állampolgár szülőt a Magyar Köztársaság területén történő tartózkodásra jogosító engedélyt az idegenrendészeti hatóság visszavonta, és a kiskorú további tartózkodásának feltételei a szülői felügyeletet gyakorló másik szülőnél a Magyar Köztársaság területén nem biztosítottak;
+- b) a kiskorú harmadik országbeli állampolgár esetében a szülői felügyelet jogát gyakorló harmadik országbeli állampolgár szülőnek a Magyar Köztársaság területén történő tartózkodásra jogosító engedélyét az idegenrendészeti hatóság visszavonta, és a kiskorú további tartózkodásának feltételei a szülői felügyeletet gyakorló másik szülőnél a Magyar Köztársaság területén nem biztosítottak;
 - c) a harmadik országbeli állampolgár családi kapcsolatra tekintettel kiadott engedélye esetén magyar állampolgár házastársa a Magyar Köztársaság területét a külföldi letelepedés szándékával elhagyta, vagy a harmadik országbeli házastárs Magyar Köztársaság területén történő jogszerű tartózkodása megszűnt;
 - d) a harmadik országbeli állampolgárt kiutasították, vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el.
 
@@ -467,50 +476,58 @@ kíván a Magyar Köztársaság területén tartózkodni.
 - b) legfeljebb hetvenkét óráig a határterület, vagy – amennyiben légi úton érkezett – legfeljebb nyolc napig a repülőtér meghatározott helyén tartózkodni, illetve
 - c) a visszaszállításra köteles szállító vállalat egy másik induló járatára átszállni.
 
-(2) Ha a visszairányítás az (1) bekezdés b) pontjában meghatározott időtartamon belül nem hajtható végre, a harmadik országbeli állampolgár beléptetését követően kiutasítása érdekében intézkedni kell. Amennyiben a kiutasításra nem a 43. § (1) bekezdés vagy (2) bekezdés f) pontja alapján kerül sor, a harmadik országbeli állampolgárral szemben nem lehet beutazási és tartózkodási tilalmat elrendelni.
+(2) Ha a visszairányítás az (1) bekezdés b) pontjában meghatározott időtartamon belül nem hajtható végre, a harmadik országbeli állampolgár kiutasítása érdekében intézkedni kell. Amennyiben a kiutasításra nem a 43. § (2) bekezdés d) pontja alapján kerül sor, a harmadik országbeli állampolgárral szemben nem lehet beutazási és tartózkodási tilalmat elrendelni.
 
-### Kötelezés a Magyar Köztársaság területének elhagyására
+### Kiutasítás és önkéntes távozás
 
-42. § (1) Amennyiben az idegenrendészeti hatóság megállapítja, hogy a Magyar Köztársaság területén jogszerűen tartózkodó harmadik országbeli állampolgár tartózkodásra a továbbiakban már nem jogosult, a tartózkodásra jogosító okmányát visszavonó határozatában a harmadik országbeli állampolgárt a Magyar Köztársaság területének elhagyására kötelezi.
+42. § (1) Amennyiben az idegenrendészeti hatóság megállapítja, hogy a Magyar Köztársaság területén jogszerűen tartózkodó harmadik országbeli állampolgár tartózkodásra a továbbiakban már nem jogosult, a tartózkodási engedély kérelmét elutasító vagy a tartózkodásra jogosító okmányát visszavonó határozatában, a harmadik országbeli állampolgárt az Európai Unió tagállamainak területéről kiutasítja. A harmadik országbeli állampolgár a kiutasítással szemben jogorvoslattal a tartózkodási engedély kérelmet elutasító vagy a tartózkodásra jogosító okmányt visszavonó határozattal szembeni jogorvoslat során élhet.
 
-(2) A kötelezettség teljesítésére legfeljebb harminc napos határidőt kell biztosítani.
+(2) Amennyiben a bíróság kiutasítás büntetést alkalmaz vagy az idegenrendészeti hatóság megállapítja a harmadik országbeli állampolgár tartózkodásának jogszerűtlenségét, az idegenrendészeti hatóság a döntésében a harmadik országbeli állampolgárt az Európai Unió tagállamainak területéről kiutasítja.
 
-(3) A Magyar Köztársaság területének elhagyására történő kötelezés ellen külön jogorvoslatnak nincs helye.
+(3) Az idegenrendészeti hatóság a kiutasítás elrendelésére hozott határozatban, illetve a bírósági kiutasítás végrehajtására hozott végzésben az önkéntes távozásra a határidőt úgy határozza meg, hogy az a kiutasító határozatnak a harmadik országbeli állampolgárral történő közlésétől számított legalább hetedik, legfeljebb harmincadik napra essen, amennyiben a harmadik országbeli állampolgár vállalja az ország területének önkéntes elhagyását. A fent említett határidő nem zárja ki annak lehetőségét, hogy az érintett harmadik országbeli állampolgár előbb tegyen eleget a kiutasító döntésben foglaltaknak.
 
-(4) Az (1)–(3) bekezdésekben meghatározott rendelkezések nem alkalmazhatók, ha
+(4) Ha a kiutasított személyes körülményei – így különösen a Magyar Köztársaság területén történő tartózkodás megelőző hosszú időtartama, mely a kiutazásra történő felkészüléshez szükséges időt a szokásosnál hosszabbá teszi, vagy családi és társadalmi kötelékek – indokolják, az idegenrendészeti hatóság – kérelemre vagy hivatalból – az önkéntes távozásra nyitva álló határidőt legfeljebb harminc nappal meghosszabbíthatja. Ha a kiutasított harmadik országbeli állampolgár szülői felügyelete alatt álló gyermek közoktatási intézményben folytat tanulmányokat, az idegenrendészeti hatóság – kérelemre vagy hivatalból – az önkéntes távozásra nyitva álló határidőt legfeljebb a folyamatban lévő tanulmányi félév végéig meghosszabbíthatja. Az önkéntes távozásra nyitva álló határidő meghosszabbításáról végzésben kell rendelkezni.
 
-- a) a tartózkodási jogosultság megszűnésének oka az, hogy a harmadik országbeli állampolgár kiutasítás, beutazási és tartózkodási tilalom, illetve beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll;
-- b) a harmadik országbeli állampolgár az ország területének önkéntes elhagyását kifejezetten megtagadja.
+(5) Az önkéntes távozásra nyitva álló határidő meghosszabbítása tárgyában hozott végzés ellen végrehajtási kifogás előterjesztésének van helye.
+
+(6) Az önkéntes távozásra nem kell határidőt meghatározni, vagy az idegenrendészeti hatóság az Európai Unió tagállamai területe elhagyásának határnapját a kiutasító határozat közlésétől számított hetedik napnál korábbi napra is meghatározhatja, ha a harmadik országbeli állampolgár
+
+- a) tartózkodási jogosultsága megszűnésének oka az, hogy a harmadik országbeli állampolgár kiutasítás, beutazási és tartózkodási tilalom, illetve beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll;
+- b) tartózkodási engedély iránti kérelmét a 18. § (1) bekezdés b) és d) pontja alapján utasította el a hatóság;
+- c) az ország területének önkéntes elhagyását kifejezetten megtagadja, vagy más alapos ok miatt feltehető, hogy a kiutasító döntésnek nem fog eleget tenni;
+- d) magyarországi tartózkodása veszélyezteti a közrendet, a közbiztonságot vagy a nemzetbiztonságot.
+
+(7) Ha az idegenrendészeti hatóság a kiutasító határozatában a kiutasítás kitoloncolással történő végrehajtásáról rendelkezik, az önkéntes távozásra határnapot nem határoz meg.
 
 ### Az idegenrendészeti kiutasítás és a beutazási és tartózkodási tilalom
 
-43. § (1) Az idegenrendészeti hatóság idegenrendészeti kiutasítást és beutazási és tartózkodási tilalmat, illetve ismeretlen helyen vagy külföldön tartózkodó harmadik országbeli állampolgár esetén önálló beutazási és tartózkodási tilalmat rendel el azzal a harmadik országbeli állampolgárral szemben,
+43. § (1) Az idegenrendészeti hatóság önálló beutazási és tartózkodási tilalmat rendel el azzal az ismeretlen helyen vagy külföldön tartózkodó harmadik országbeli állampolgárral szemben,
 
-- a) akinek a beutazására és tartózkodására vonatkozó tilalom érvényesítésére a Magyar Köztársaság nemzetközi jogi kötelezettséget vállalt, vagy
-- b) akinek a beutazására és tartózkodására vonatkozó tilalom érvényesítéséről az Európai Unió Tanácsa döntött.
+- a) akinek a beutazására és tartózkodására vonatkozó tilalom érvényesítésére a Magyar Köztársaság nemzetközi jogi kötelezettséget vállalt; vagy
+- b) akinek a beutazására és tartózkodására vonatkozó tilalom érvényesítéséről az Európai Unió Tanácsa döntött;
+- c) akinek a beutazása és a tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet sérti vagy veszélyezteti;
+- d) aki a magyar állam által számára megtérítési kötelezettséggel megelőlegezett költséget nem térítette vissza;
+- e) aki a kiszabott helyszíni bírságot, szabálysértési bírságot az előírt határidőig nem fizette meg, illetve annak behajtására nincs lehetőség vagy sikertelen volt.
 
-(2) Az idegenrendészeti hatóság idegenrendészeti kiutasítást és beutazási és tartózkodási tilalmat, illetve ismeretlen helyen vagy külföldön tartózkodó harmadik országbeli állampolgár esetén önálló beutazási és tartózkodási tilalmat rendelhet el azzal a harmadik országbeli állampolgárral szemben,
+(2) Az idegenrendészeti hatóság – az e törvényben meghatározott kivétellel – idegenrendészeti kiutasítást rendel el azzal a harmadik országbeli állampolgárral szemben,
 
 - a) aki jogellenesen lépte át a Magyar Köztársaság államhatárát, vagy azt megkísérelte;
 - b) aki az e törvényben meghatározott tartózkodási feltételeket nem teljesíti;
-- c) aki a Magyar Köztársaság területének elhagyására vonatkozó kötelezettségének az előírt határidőn belül nem tett eleget;
-- d) aki az előírt munkavállalási engedély vagy az e törvényben előírt engedély nélkül folytatott keresőtevékenységet;
-- e) aki a magyar állam által számára megtérítési kötelezettséggel megelőlegezett költséget nem térítette vissza;
-- f) akinek a beutazása és a tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet sérti vagy veszélyezteti;
-- g) akinek a beutazása és tartózkodása a közegészséget sérti vagy veszélyezteti;
-- h) akit nemzetközi szerződés alapján kiutasítás mellőzésével adtak vissza más állam hatóságának;
-- i) aki a kiszabott helyszíni bírságot vagy szabálysértési bírságot az előírt határidőig nem fizette meg, illetve annak behajtására nincs lehetőség vagy sikertelen volt.
+- c) aki az előírt munkavállalási engedély vagy az e törvényben előírt engedély nélkül folytatott keresőtevékenységet;
+- d) akinek a beutazása és tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet sérti vagy veszélyezteti; vagy
+- e) akinek a beutazása és tartózkodása a közegészséget sérti vagy veszélyezteti.
 
-44. § (1) Az önállóan elrendelt beutazási és tartózkodási tilalom időtartamát az elrendelő idegenrendészeti hatóság határozza meg. A beutazási és tartózkodási tilalom legfeljebb három évre rendelhető el, amely alkalmanként legfeljebb további három évvel meghosszabbítható. A beutazási és tartózkodási tilalmat haladéktalanul törölni kell, ha az elrendelésének oka megszűnt.
+(3) Az önálló beutazási és tartózkodási tilalmat az (1) bekezdés c) pontjában, valamint az idegenrendészeti kiutasítást a (2) bekezdés d) pontjában foglalt okból törvényben meghatározott érdek védelmével kapcsolatos feladata ellátása céljából, saját feladatkörében a kormányrendeletben meghatározott rendvédelmi szervek is kezdeményezhetik. Ha az önálló beutazási és tartózkodási tilalmat az (1) bekezdés c) pontjában foglalt okból rendelik el, akkor az önálló beutazási és tartózkodási tilalom időtartamára – a feladat- és hatáskörüket érintő esetben – a kormányrendeletben meghatározott rendvédelmi szervek javaslatot tesznek.
+
+44. § (1) A 43. § (1) bekezdés a)–b) pontja alapján önállóan elrendelt beutazási és tartózkodási tilalom időtartama az elrendelés alapjául szolgáló kötelezettség vagy tilalom időtartamához igazodik. A 43. § (1) bekezdés c)–e) pontja alapján önállóan elrendelt beutazási és tartózkodási tilalom időtartamát az elrendelő idegenrendészeti hatóság határozza meg, amely legfeljebb három évre rendelhető el, és alkalmanként legfeljebb további három évvel meghosszabbítható. A beutazási és tartózkodási tilalmat haladéktalanul törölni kell, ha az elrendelésének oka megszűnt.
 
 (2) Az önállóan elrendelt beutazási és tartózkodási tilalommal szemben fellebbezésnek nincs helye.
 
-45. § (1) Az idegenrendészeti kiutasítást elrendelő határozat meghozatala előtt az idegenrendészeti hatóság a következő szempontokat mérlegeli:
+45. § (1) A családi kapcsolatára tekintettel tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár idegenrendészeti kiutasítását elrendelő határozat meghozatala előtt az idegenrendészeti hatóság a következő szempontokat mérlegeli:
 
-- a) a nemzetbiztonságra, a közbiztonságra, a közrendre vagy a közegészségre jelentett veszély, tekintettel az elkövetett cselekmény súlyosságára és típusára;
-- b) a tartózkodás időtartama;
-- c) a harmadik országbeli állampolgár kora, családi körülményei, kiutasításának lehetséges következményei a családtagjaira nézve;
-- d) a harmadik országbeli állampolgár kötődése a Magyar Köztársasághoz, illetve származási országához fűződő kapcsolatainak hiánya.
+- a) a tartózkodás időtartama;
+- b) a harmadik országbeli állampolgár kora, családi körülményei, kiutasításának lehetséges következményei a családtagjaira nézve;
+- c) a harmadik országbeli állampolgár kötődése a Magyar Köztársasághoz, illetve származási országához fűződő kapcsolatainak hiánya.
 
 (2) Az a harmadik országbeli állampolgár, aki
 
@@ -525,28 +542,63 @@ csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a k
 
 (5) Kísérő nélküli kiskorú csak akkor utasítható ki, ha a származási államában vagy más befogadó államban a család egyesítése, illetve az állami vagy egyéb intézményi gondoskodás megfelelően biztosított.
 
-(6) Az idegenrendészeti hatóság a 43. § (2) bekezdés a), b) és d) pontjában meghatározott okból történő idegenrendészeti kiutasítástól eltekinthet, amennyiben a harmadik országbeli állampolgár vállalja a Magyar Köztársaság területének önkéntes elhagyását. Az idegenrendészeti hatóság – a 42. § (2) bekezdésben foglaltak figyelembevételével – meghatározza az önkéntes távozásra nyitva álló határidőt, amely ellen jogorvoslatnak nincs helye.
+(6) Az idegenrendészeti hatóság az eljárás jogerős befejezéséig eltekinthet a kiutasítás elrendelésétől, ha a Magyar Köztársaság területén jogellenesen tartózkodó harmadik országbeli állampolgár tartózkodási engedélyének vagy tartózkodásra jogosító egyéb engedélyének meghosszabbítása folyamatban van.
 
 (7) Idegenrendészeti kiutasítás, valamint önálló beutazási és tartózkodási tilalom nem alkalmazható olyan bűncselekmény elkövetése miatt, amelynek elbírálása során az eljáró bíróság önállóan, főbüntetés kiszabása nélkül, illetve mellékbüntetésként nem rendelt el kiutasítást a harmadik országbeli állampolgárral szemben.
 
+(8) Az Európai Unió tagállama által kiadott, a tagállam területén tartózkodásra jogosító engedéllyel rendelkező harmadik országbeli állampolgár csak akkor utasítható ki, ha
+
+- a) az idegenrendészeti hatóság írásbeli felszólítása ellenére a Magyar Köztársaság területét haladéktalanul nem hagyta el, vagy
+- b) a Magyar Köztársaság területén történő tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet sérti.
+
+(9) Ha az idegenrendészeti hatóság a (3)–(5) bekezdésben meghatározott okokból a harmadik országbeli állampolgár kiutasításától eltekint, és a harmadik országbeli állampolgár nem rendelkezik a tartózkodás törvényi feltételeivel, az idegenrendészeti hatóság humanitárius tartózkodási engedéllyel látja el.
+
+45/A. § (1) A 43. § (2) bekezdésében foglaltaktól eltérően, az idegenrendészeti hatóság nem utasítja ki azt a harmadik országbeli állampolgárt, akit az Európai Unió más tagállamának hatósága határozatával
+
+- a) a nemzetbiztonság vagy a közbiztonság súlyos és tényleges megsértése vagy veszélyeztetése,
+- b) a határozatot hozó állam törvénye alapján legalább egyévi szabadságvesztés büntetéssel fenyegetett szándékos bűncselekmény elkövetéséért kiszabott bírósági ítélet,
+- c) súlyos bűncselekmény elkövetésének gyanúja, vagy
+- d) a külföldiek beutazására vagy tartózkodására vonatkozó jogszabályok súlyos megsértése
+
+miatt utasított ki.
+
+(2) Az (1) bekezdésben meghatározott kiutasítási határozatot az idegenrendészeti hatóság az abban foglaltaknak megfelelően, e törvény rendelkezései alapján végrehajtja.
+
 46. § (1) A kiutasítást elrendelő határozatnak tartalmaznia kell:
 
-- a) a 45. § alapján mérlegelt szempontokat,
+- a) a mérlegelési szempontokat a 45. § (1)–(6) bekezdése alapján hozott döntések esetén,
 - b) a beutazási és tartózkodási tilalom időtartamát,
 - c) annak az államnak a megnevezését, ahová a kiutasítás végrehajtása történik,
-- d) az ország elhagyására előírt kötelezettség teljesítésének határnapját,
-- e) a határátlépés helyét,
+- d) az Európai Unió tagállamainak területéről történő önkéntes távozás teljesítésének határnapját,
+- e) figyelmeztetést arra, hogy ha a harmadik országbeli állampolgár a kiutasításnak önként nem tesz eleget, az idegenrendészeti hatóság kitoloncolja, és
 - f) az arcképmás készítésének, valamint az ujjnyomat rögzítésének tűrésére vonatkozó kötelezettség előírását.
 
 (2) A kiutasítást elrendelő határozat ellen fellebbezésnek nincs helye, a határozat bírói felülvizsgálatát annak közlésétől számított nyolc napon belül lehet kérni. A bíróság a keresetet a keresetlevél beérkezésétől számított tizenöt napon belül bírálja el.
 
-(3) A bíróság a határozatot megváltoztathatja. A bíróság határozata ellen további jogorvoslatnak nincs helye.
+(3)
 
-47. § (1) Az idegenrendészeti kiutasítással együtt – ha e törvény másként nem rendelkezik – beutazási és tartózkodási tilalmat kell elrendelni, amely egy évnél rövidebb és tíz évnél hosszabb nem lehet.
+(4) A jogerős kiutasítást, valamint a beutazási és tartózkodási tilalom időtartamát az útlevélbe be kell jegyezni. A bejegyzéstől el lehet tekinteni, amennyiben a külföldi önkéntes hazatérési program keretében hagyja el az országot.
 
-(2) A kiutasítás miatt elrendelt beutazási és tartózkodási tilalom időtartamát a kiutasítás végrehajtásának napjától kell számítani.
+47. § (1) Az idegenrendészeti kiutasítással együtt – ha e törvény másként nem rendelkezik – beutazási és tartózkodási tilalmat kell elrendelni, ha az idegenrendészeti hatóság a harmadik országbeli állampolgár kitoloncolását rendelte el.
 
-(3) A beutazási és tartózkodási tilalom hatálya alatt álló harmadik országbeli állampolgár csak az elrendelő hatóság külön engedélyével utazhat be a Magyar Köztársaság területére.
+(2) Az idegenrendészeti hatóság a beutazási és tartózkodási tilalmat önálló határozattal rendeli el, ha a harmadik országbeli állampolgár kitoloncolását a 65. § (1) bekezdés d) pontja alapján rendelte el.
+
+(3) A beutazási és tartózkodási tilalmat elrendelő önálló határozat ellen a harmadik országbeli állampolgár fellebbezést terjeszthet elő. A határozat ellen további jogorvoslatnak nincs helye. A fellebbezés a határozat közlésétől számított huszonnégy órán belül az elrendelő idegenrendészeti hatóságnál terjeszthető elő. Az idegenrendészeti hatóság a fellebbezést az ügy irataival együtt haladéktalanul megküldi a fellebbezés elbírálására jogosult hatóságnak, mely a fellebbezést öt munkanapon belül bírálja el.
+
+(4) Az idegenrendészeti hatóság a 43. § (2) bekezdésében meghatározott kiutasítási okok alapján elrendelt kiutasítás esetén beutazási és tartózkodási tilalmat rendelhet el a jogsértés jellegére és súlyára, a harmadik országbeli állampolgár személyes körülményeire, ismételt beutazásának és tartózkodásának a közrendre, a közbiztonságra vagy a nemzetbiztonságra jelentett veszélyére figyelemmel.
+
+(5) A kiutasítással együtt vagy az önálló határozatban elrendelt beutazási és tartózkodási tilalom időtartamát években kell meghatározni, és – a (6) bekezdésben foglalt kivétellel – legfeljebb öt évre kell elrendelni.
+
+(6) A beutazási és tartózkodási tilalom legfeljebb tíz évre rendelhető el, ha a harmadik országbeli állampolgár tartózkodása a Magyar Köztársaság területén a közrendet, a közbiztonságot vagy a nemzetbiztonságot jelentősen veszélyeztetné.
+
+(7) A kiutasítás miatt elrendelt beutazási és tartózkodási tilalom időtartamát az Európai Unió tagállamai területének elhagyásának napjától, vagy ha ez nem ismert, az erre meghatározott határnaptól kell számítani.
+
+(8) A beutazási és tartózkodási tilalom hatálya alatt álló harmadik országbeli állampolgár csak az elrendelő hatóság külön engedélyével utazhat be a Magyar Köztársaság területére.
+
+(9) A beutazási és tartózkodási tilalmat az idegenrendészeti hatóság – hivatalból vagy kérelemre – visszavonhatja ha,
+
+- a) a harmadik országbeli állampolgárral szemben a 43. § (2) bekezdése alapján került sor kiutasítással együtt beutazási és tartózkodási tilalom elrendelésére és a harmadik országbeli állampolgár bizonyítani tudja, hogy a kiutasító határozatnak teljes mértékben eleget téve elhagyta az Európai Unió tagállamainak területét, vagy
+- b) további fenntartása az elrendelésére okot adó körülmények jelentős megváltozására figyelemmel nem indokolt.
 
 48. § (1) A kiutasítást elsősorban visszafogadási egyezmény rendelkezései alapján kell végrehajtani.
 
@@ -554,9 +606,27 @@ csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a k
 
 (3) A kiutasítás végrehajtását a kiutasítás feltételeinek biztosításáig, így különösen az úti okmány, vízum, menetjegy beszerzéséig fel lehet függeszteni. A felfüggesztést elrendelő végzés ellen nincs helye jogorvoslatnak.
 
+48/A. § (1) Ha a harmadik országbeli állampolgár kiutasítására irányuló idegenrendészeti eljárás során arra utaló tény merül fel, hogy a dublini rendeletek alkalmazásának feltételei állnak fenn, és a harmadik országbeli állampolgár a menedékjogi törvény szerinti elismerés iránti kérelmet nem terjesztett elő, az idegenrendészeti hatóság kezdeményezi a menekültügyi hatóságnál, hogy a dublini eljárást folytassa le, és annak befejezéséig az idegenrendészeti eljárást felfüggeszti.
+
+(2) Az (1) bekezdés szerinti eljárást felfüggesztő végzéssel szemben jogorvoslatnak nincs helye.
+
+48/B. § (1) Ha a dublini rendeletek alapján valamely a dublini rendeleteket alkalmazó állam a kérelmező visszavételére köteles, a menekültügyi hatóság a harmadik országbeli állampolgár visszaadásáról végzéssel dönt.
+
+(2) A visszaadásról rendelkező végzéssel szemben bírósági felülvizsgálatnak van helye.
+
+(3) A felülvizsgálati kérelmet a végzés közlésétől számított három napon belül a menekültügyi hatóságnál kell benyújtani. A menekültügyi hatóság a felülvizsgálati kérelmet az ügy irataival és ellenkérelmével együtt haladéktalanul megküldi a bíróságnak.
+
+(4) A felülvizsgálati kérelemről a bíróság – a felülvizsgálati kérelem beérkezésétől számított nyolc napon belül – nemperes eljárásban, a rendelkezésre álló iratok alapján dönt. Az eljárásban személyes meghallgatásnak nincs helye. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
+
+(5) A bírósági felülvizsgálat során a visszaadásról rendelkező végzés végrehajtásának felfüggesztésére irányuló kérelemnek a végzés végrehajtására nincs halasztó hatálya.
+
+48/C. § (1) Ha a dublini eljárás a harmadik országbeli állampolgár visszaadásával zárul, az idegenrendészeti eljárást a visszaadás időpontjában meg kell szüntetni.
+
+(2) Az eljárást megszüntető végzéssel szemben jogorvoslatnak nincs helye.
+
 ### A bíróság által elrendelt kiutasítás végrehajtása
 
-49. § (1) A bíróság által elrendelt kiutasítást az idegenrendészeti hatóság hajtja végre.
+49. § (1) A bíróság által elrendelt kiutasítást az idegenrendészeti hatóság végzéssel hajtja végre, amellyel szemben végrehajtási kifogás terjeszthető elő.
 
 (2) A jogerős kiutasítás végrehajtása érdekében a bíróság, illetve a büntetés-végrehajtási intézet haladéktalanul értesíti az idegenrendészeti hatóságot.
 
@@ -574,8 +644,8 @@ csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a k
 
 - a) a kiutasított;
 - b) meghívás esetén a meghívó;
-- c) a munkáltató, ha a kiutasítást a 43. § (2) bekezdés d) pontja alapján rendelték el;
-- d) a kutatószervezet, ha a beutazásra kutatási célból került sor, és a kiutasítást a 43. § (2) bekezdés b) vagy c) pontja alapján rendelték el.
+- c) a munkáltató, ha a kiutasítást a 43. § (2) bekezdés c) pontja alapján rendelték el;
+- d) a kutató szervezet, ha a beutazásra kutatási célból került sor, és a kiutasítást a 43. § (2) bekezdés b) pontja alapján rendelték el.
 
 (5) A kutatószervezet (4) bekezdés d) pont szerinti felelőssége a fogadási megállapodás megszűnését követő hat hónapig áll fenn.
 
@@ -589,39 +659,55 @@ csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a k
 
 (2) A bíróság által elrendelt kiutasítás végrehajtásának tilalmát a büntetés-végrehajtási bíró állapítja meg.
 
-(3) A (2) bekezdésben meghatározott esetben a kiutasított közvetlenül kérelemmel fordulhat a büntetés-végrehajtási bíróhoz a kiutasítási akadály megállapítása érdekében. Ha a kiutasított a büntetés-végrehajtási bíróhoz címzett kérelmét az idegenrendészeti hatósághoz nyújtja be, azt – az idegenrendészeti hatóság véleményével kiegészítve – haladéktalanul meg kell küldeni a büntetés-végrehajtási bírónak.
+(3) A (2) bekezdésben meghatározott esetben a kiutasított ugyanazon ítélet végrehajtása kapcsán egy alkalommal közvetlenül kérelemmel fordulhat a büntetés-végrehajtási bíróhoz a kiutasítási akadály megállapítása érdekében. Ha a kiutasított a büntetés-végrehajtási bíróhoz címzett kérelmét az idegenrendészeti hatósághoz nyújtja be, azt – az idegenrendészeti hatóság véleményével kiegészítve – haladéktalanul meg kell küldeni a büntetés-végrehajtási bírónak.
 
 (4) A büntetés-végrehajtási bíró eljárásának a kiutasítás végrehajtására halasztó hatálya van.
 
+52/A. § (1) Amennyiben nincs olyan biztonságos ország, amely az érintett harmadik országbeli állampolgárt befogadja, a visszairányítás végrehajtásának vagy a kiutasítás végrehajtásának tilalma esetén az idegenrendészeti hatóság a harmadik országbeli állampolgárt befogadottként ismeri el, és a 29. § (1) bekezdés b) pontja alapján intézkedik a humanitárius tartózkodási engedély kiadásáról.
+
+(2) A befogadottkénti elismerés feltételeinek megszűnése esetén az idegrendészeti hatóság a befogadott státuszt visszavonja.
+
+(3) A befogadott státuszt abban az esetben is vissza kell vonni, ha a harmadik országbeli állampolgár
+
+- a) más jogcímen szerzett tartózkodási jogosultságot, vagy
+- b) a befogadott státusz felülvizsgálatára folytatott eljárás során az eljáró idegenrendészeti hatóság felhívására – a felhívástól számított – három hónapon belül nem jelenik meg az eljáró hatóság előtt.
+
 ### Arcképmás és ujjnyomat rögzítése
 
-53. § (1) A többszöri eljárás megakadályozása, valamint a személyazonosság megállapítása céljából a Magyar Köztársaság területének elhagyására kötelező, az idegenrendészeti kiutasítást, a kijelölt helyen való tartózkodást, a beutazási és tartózkodási tilalmat, valamint idegenrendészeti őrizetet elrendelő, illetve a bírósági kiutasítást végrehajtó hatóság rögzíti a harmadik országbeli állampolgár arcképmását, valamint ujjnyomatát.
+53. § (1) A többszöri eljárás megakadályozása, valamint a személyazonosság megállapítása céljából a kiutasítást előkészítő őrizetet, az idegenrendészeti kiutasítást, a kijelölt helyen való tartózkodást, valamint az idegenrendészeti őrizetet elrendelő, illetve a bírósági kiutasítást végrehajtó hatóság rögzíti a harmadik országbeli állampolgár arcképmását, valamint ujjnyomatát.
 
 (2) A harmadik országbeli állampolgár az arcképmása, valamint az ujjnyomata rögzítését tűrni köteles.
 
 ### Az őrizet
 
-54. § (1) Az idegenrendészeti hatóság a kiutasítás végrehajtásának biztosítása érdekében idegenrendészeti őrizetbe veheti azt a harmadik országbeli állampolgárt, aki
+54. § (1) Az idegenrendészeti hatóság a kitoloncolás vagy a dublini eljárásban történő átadás vagy visszaadás (a továbbiakban: átadás) végrehajtásának biztosítása érdekében idegenrendészeti őrizetbe veheti azt a harmadik országbeli állampolgárt, aki
 
-- a) a hatóság elől elrejtőzött, vagy a kiutasítás végrehajtását más módon akadályozza;
-- b) a távozást megtagadja, vagy más alapos ok miatt feltehető, hogy a kiutasítás végrehajtását késlelteti vagy meghiúsítja;
+- a) a hatóság elől elrejtőzött, vagy a kitoloncolás vagy az átadás végrehajtását más módon akadályozza;
+- b) a távozást megtagadja, vagy más alapos ok miatt feltehető, hogy a kiutasítás vagy az átadás végrehajtását késlelteti vagy meghiúsítja (szökés veszélye);
 - c) a kötelező tartózkodásra kijelölt helyen az előírt magatartási szabályokat súlyosan vagy ismételten megsértette;
-- d) a számára előírt megjelenési kötelezettségét felszólításra sem teljesítette, és ezzel akadályozza az idegenrendészeti eljárás lefolytatását;
-- e) szándékos bűncselekmény elkövetése miatt kiszabott szabadságvesztés büntetésből szabadult.
+- d) a számára előírt megjelenési kötelezettséget felszólításra sem teljesítette, és ezzel akadályozza az idegenrendészeti vagy a dublini eljárás lefolytatását;
+- e) szándékos bűncselekmény elkövetése miatt kiszabott szabadságvesztés-büntetésből szabadult.
 
-(2) Az idegenrendészeti őrizetet határozattal kell elrendelni és azt a közléssel egyidejűleg végre kell hajtani.
+(2) Az idegenrendészeti őrizetnek az (1) bekezdés a) vagy b) pontja alapján történő elrendelése előtt az idegenrendészeti hatóság mérlegeli, hogy a kitoloncolás, vagy az átadás végrehajtása a 48. § (2) bekezdésben vagy a 62. § (1) bekezdésben foglaltak alkalmazásával biztosítható-e.
 
-(3) Az idegenrendészeti őrizet legfeljebb hetvenkét órára rendelhető el, amelyet az őrizet helye szerint illetékes helyi bíróság a harmadik országbeli állampolgár kiutazásáig, alkalmanként legfeljebb harminc nappal, meghosszabbíthat.
+(3) Az idegenrendészeti őrizetet határozattal kell elrendelni, és azt a közléssel egyidejűleg végre kell hajtani.
 
-(4) Az idegenrendészeti őrizetet meg kell szüntetni, ha
+(4) Az idegenrendészeti őrizet legfeljebb hetvenkét órára rendelhető el, amelyet az őrizet helye szerint illetékes helyi bíróság a harmadik országbeli állampolgár kitoloncolásáig vagy átadásáig, alkalmanként legfeljebb harminc nappal meghosszabbíthat.
 
-- a) a kiutasítás végrehajtásának feltételei biztosítottak;
-- b) nyilvánvalóvá válik, hogy a kiutasítást nem lehet végrehajtani;
-- c) az őrizet elrendelésétől számítva hat hónap eltelt.
+(5) Az idegenrendészeti őrizet hat hónap elteltével további, legfeljebb hat hónappal – a (4) bekezdésben foglaltak szerint – meghosszabbítható, ha a kiutasítás végrehajtása minden szükséges intézkedés megtétele ellenére azért tart tovább hat hónapnál, mert
 
-(5) A (4) bekezdés c) pontjának alkalmazásában az őrizet időtartamába a kiutasítást előkészítő őrizet időtartama is beleszámítandó.
+- a) az érintett harmadik országbeli állampolgár nem működik együtt a hatósággal, vagy
+- b) a kitoloncoláshoz szükséges okmányok beszerzése a harmadik országbeli állampolgár származási országának, vagy az őt visszafogadási egyezmény alapján visszafogadni vagy egyébként befogadni köteles állam hatóságainak eljárása miatt elhúzódik.
 
-(6) Az idegenrendészeti őrizet (4) bekezdés b) és c) pontja alapján történő megszüntetése esetén az őrizetet elrendelő idegenrendészeti hatóság a harmadik országbeli állampolgár számára kötelező tartózkodási helyet jelöl ki.
+(6) Az idegenrendészeti őrizetet meg kell szüntetni, ha
+
+- a) a kiutasítás vagy átadás végrehajtásának feltételei biztosítottak;
+- b) nyilvánvalóvá válik, hogy a kiutasítást vagy átadást nem lehet végrehajtani;
+- c) az őrizet elrendelésétől számítva hat hónap, vagy az (5) bekezdésben foglalt feltételek fennállása esetén tizenkét hónap eltelt.
+
+(7) A (6) bekezdés c) pontjának alkalmazásában az őrizet időtartamába a kiutasítást előkészítő őrizet időtartama is beleszámítandó.
+
+(8) Az idegenrendészeti őrizet (6) bekezdés b) és c) pontja alapján történő megszüntetése esetén az őrizetet elrendelő idegenrendészeti hatóság a harmadik országbeli állampolgár számára kötelező tartózkodási helyet jelöl ki.
 
 55. § (1) Az idegenrendészeti hatóság az idegenrendészeti eljárás lefolytatása érdekében kiutasítást előkészítő őrizetbe veheti azt a harmadik országbeli állampolgárt, akinek személyazonossága vagy tartózkodásának jogszerűsége nem tisztázott.
 
@@ -629,31 +715,29 @@ csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a k
 
 (3) A kiutasítást előkészítő őrizet legfeljebb hetvenkét órára rendelhető el, amelyet az őrizet helye szerint illetékes helyi bíróság a harmadik országbeli állampolgár személyazonosságának vagy tartózkodása jogszerűségének tisztázásáig, de legfeljebb harminc napig meghosszabbíthat.
 
-56. § (1) Kiskorú harmadik országbeli állampolgárral szemben idegenrendészeti vagy kiutasítást előkészítő őrizet (a továbbiakban együtt: őrizet) nem rendelhető el.
+56. § (1) Nem rendelhető el kiutasítást előkészítő őrizet vagy idegenrendészeti őrizet (a továbbiakban együtt: őrizet) kizárólag azon az alapon, hogy a harmadik országbeli állampolgár menedékjog iránti kérelmet terjesztett elő.
 
-(2) Az őrizetet azonnal meg kell szüntetni, ha elrendelésének oka megszűnt.
+(2) Kiskorú harmadik országbeli állampolgárral szemben – a (3) bekezdésben meghatározott eset kivételével – nem rendelhető el őrizet.
+
+(3) A kiskorú gyermekkel rendelkező családdal szemben, a gyermek mindenek felett álló érdekét elsődlegesen figyelembe véve, őrizet csak végső intézkedésként legfeljebb harminc napra rendelhető el, ha az idegenrendészeti hatóság megállapítja, hogy az őrizet elrendelésének célja a 48. § (2) bekezdésében vagy a 62. § (1) bekezdésében foglaltak alkalmazásával nem biztosítható.
+
+(4) Ha a korábban őrizet hatálya alatt állt harmadik országbeli állampolgárral szemben új ténybeli alapon idegenrendészeti eljárás indul, az őrizet időtartamába nem számít bele a korábbi eljárás során elrendelt őrizet időtartama.
+
+(5) Az őrizetet azonnal meg kell szüntetni, ha elrendelésének oka megszűnt.
 
 ### A kifogás
 
 57. § (1) A harmadik országbeli állampolgár az őrizet elrendelésére irányuló eljárás felfüggesztését nem kérheti.
 
-(2) Az őrizetet elrendelő határozat ellen az őrizetbe vett harmadik országbeli állampolgár – jogorvoslatként, törvénysértésre hivatkozással – az őrizet elrendelésétől számított hetvenkét órán belül kifogással élhet.
+(2) Az őrizetet elrendelő határozat ellen jogorvoslatnak helye nincs.
 
 (3) Az őrizetbe vett harmadik országbeli állampolgár kifogással élhet, amennyiben az idegenrendészeti hatóság a 60–61. §-ban meghatározott kötelezettségét elmulasztotta.
 
 (4) A kifogást az őrizet végrehajtásának helye szerint illetékes helyi bíróság bírálja el.
 
-(5) A bíróság döntése alapján
+(5) A bíróság döntése alapján az elmulasztott intézkedést pótolni kell, illetve a jogsértő állapotot meg kell szüntetni.
 
-- a) a törvénysértő őrizetet azonnal meg kell szüntetni;
-- b) az elmulasztott intézkedést pótolni kell, illetve a jogsértő állapotot meg kell szüntetni.
-
-(6) A bíróság
-
-- a) a (2) bekezdés szerinti kifogást haladéktalanul, de legkésőbb az őrizet hetvenkét órán túli meghosszabbításával egyidejűleg,
-- b) a (3) bekezdés szerinti kifogást nyolc napon belül
-
-bírálja el.
+(6) A bíróság a kifogást nyolc napon belül bírálja el.
 
 ### Az őrizet bírósági meghosszabbítása
 
@@ -691,13 +775,13 @@ bírálja el.
 
 60. § (1) Az őrizetben lévő harmadik országbeli állampolgárt jogairól és kötelezettségeiről anyanyelvén vagy az általa ismert más nyelven tájékoztatni kell.
 
-(2) Az őrizetet elrendelő hatóság a harmadik országbeli állampolgár kérelmére, vagy ha kétoldalú konzuli egyezmény ezt kötelezővé teszi, az idegenrendészeti őrizetbe vételről vagy a kijelölt helyen való tartózkodás kötelezettségéről, illetve az őrizet időtartamának meghosszabbításáról köteles a külpolitikáért felelős miniszter útján, késedelem nélkül értesíteni a harmadik országbeli állampolgár magyarországi konzuli vagy diplomáciai képviseletét ellátó szervet. Amennyiben a harmadik országbeli állampolgár konzuli képviselete nem biztosított, az értesítést a külpolitikáért felelős miniszternek kell továbbítani.
+(2) Az őrizetet elrendelő hatóság a harmadik országbeli állampolgár kérelmére, vagy ha kétoldalú konzuli egyezmény ezt kötelezővé teszi, az idegenrendészeti őrizetbe vételről vagy a kijelölt helyen való tartózkodás kötelezettségéről, illetve az őrizet időtartamának meghosszabbításáról köteles késedelem nélkül közvetlenül értesíteni a harmadik országbeli állampolgár magyarországi konzuli vagy diplomáciai képviseletét ellátó szervet.
 
 (3) Az őrizetbe vételt elrendelő hatóságnak ideiglenes intézkedésként haladéktalanul gondoskodnia kell az őrizetbe vett harmadik országbeli állampolgár felügyelet nélkül maradt vagy eltartott családtagja elhelyezéséről, illetve őrizetlenül hagyott értéktárgyainak biztonságba helyezéséről.
 
 61. § (1) Az őrizetet az idegenrendészeti hatóság az erre a célra kijelölt helyen foganatosítja.
 
-(2) Az őrizet végrehajtása során a férfiakat a nőktől el kell különíteni.
+(2) Az őrizet végrehajtása során a házastársak kivételével a férfiakat a nőktől, valamint a kiskorú gyermekkel rendelkező családokat – a magánélet megfelelő védelmének biztosításával – a többi őrizetestől el kell különíteni.
 
 (3) Az őrizetben lévő harmadik országbeli állampolgár jogosult:
 
@@ -708,14 +792,23 @@ bírálja el.
 - e) vallásának gyakorlására;
 - f) a rendelkezésre álló közművelődési lehetőségek igénybevételére;
 - g) kifogás, kérés, panasz, közérdekű bejelentés megtételére;
-- h) napi legalább egy óra időtartamú szabad levegőn tartózkodásra.
+- h) napi legalább egy óra időtartamú szabad levegőn tartózkodásra;
+- i) a kiskorú őrizetes jogosult továbbá szabadidős tevékenységek végzésére, beleértve a korának megfelelő játék- és rekreációs tevékenységeket;
+- j) a kiskorú őrizetes részére az őrizet időtartamának függvényében biztosítani kell a korának megfelelő oktatást.
 
 (4) Az őrizetben lévő harmadik országbeli állampolgár köteles:
 
 - a) az őrizet végrehajtására szolgáló létesítmény rendjét megtartani, az ezzel összefüggő utasításoknak eleget tenni;
 - b) olyan magatartást tanúsítani, amely a többi őrizetben lévő személy jogait nem sérti, nyugalmát nem zavarja;
 - c) az általa használt helyiségek tisztán tartásában díjazás nélkül közreműködni;
-- d) a személyét érintő vizsgálatoknak magát alávetni, a ruházat átvizsgálását és a birtokban nem tartható személyes tárgyak elvételét tűrni.
+- d) a személyét érintő vizsgálatoknak magát alávetni, a ruházat átvizsgálását és a birtokban nem tartható személyes tárgyak elvételét tűrni;
+- e) a tartására és ellátására fordított költséget és az általa szándékosan okozott kárt megtéríteni.
+
+61/A. § (1) Az 58. § (1) bekezdésben és a 61. § (1) bekezdésében foglaltakat nem kell alkalmazni, ha a kiutasítandó harmadik országbeli állampolgárok kivételesen nagy száma előre nem látott súlyos terhet ró az őrzött szállások kapacitására, illetve az idegenrendészeti hatóságra.
+
+(2) Az (1) bekezdésben meghatározott esetben a kivételes helyzet fennállása idejére az idegenrendészeti hatóság az őrizet hét napon túli meghosszabbítását az elrendeléstől számított öt napon belül indítványozhatja a helyi bíróságnál.
+
+(3) Az (1) bekezdésben meghatározott esetben az idegenrendészeti hatóság az őrizetet a 61. § (1) bekezdésben foglaltaktól eltérő helyen foganatosíthatja.
 
 ### A kijelölt helyen való tartózkodás elrendelése
 
@@ -726,7 +819,8 @@ bírálja el.
 - c) vele szemben őrizet elrendelésének lenne helye, és vele együtt a Magyar Köztársaság területén tartózkodó kiskorú gyermeke az őrizet elrendelése esetén felügyelet nélkül maradna;
 - d) az őrizet határideje letelt, de az őrizet elrendelésére alapul szolgáló ok továbbra is fennáll;
 - e) a harmadik országbeli állampolgár humanitárius célú tartózkodási engedéllyel rendelkezik;
-- f) a harmadik országbeli állampolgár kiutasítás hatálya alatt áll, és a megélhetéséhez szükséges anyagi és lakhatási feltételekkel nem rendelkezik.
+- f) a harmadik országbeli állampolgár kiutasítás hatálya alatt áll, és a megélhetéséhez szükséges anyagi és lakhatási feltételekkel nem rendelkezik;
+- g) vele szemben az 54. § (1) bekezdés a) vagy b) pontja alapján idegenrendészeti őrizet elrendelésének lenne helye, és az őrizet rá nézve – különös tekintettel egészségi állapotára, életkorára – aránytalanul súlyos hátránnyal járna.
 
 (2) A határozat rendelkező részében meg kell határozni:
 
@@ -738,9 +832,9 @@ bírálja el.
 
 (4) A közösségi szálláson vagy befogadó állomáson történő tartózkodással összefüggésben felmerülő költségeket – a humanitárius célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár kivételével – a harmadik országbeli állampolgár viseli.
 
-(5) A kijelölt helyen történő tartózkodás elrendelésére irányuló eljárás felfüggesztését a harmadik országbeli állampolgár nem kérheti. Az elrendelő határozat ellen méltányossági eljárásnak nincs helye.
+(5) A kijelölt helyen történő tartózkodás elrendelésére irányuló eljárás felfüggesztését a harmadik országbeli állampolgár nem kérheti.
 
-(6) A kijelölt helyen történő tartózkodást elrendelő határozat ellen a harmadik országbeli állampolgár – jogorvoslatként, törvénysértésre hivatkozással – kifogással élhet. A kifogásra az 57. § és az 59. § rendelkezéseit kell megfelelően alkalmazni.
+(6) A kijelölt helyen történő tartózkodást elrendelő határozat ellen a harmadik országbeli állampolgár – jogorvoslatként, törvénysértésre hivatkozással – kifogással élhet. A kifogásra az 57. § és az 59. § rendelkezéseit kell megfelelően alkalmazni, azzal, hogy a kifogás a kijelölt helyen történő tartózkodásra vonatkozó kötelezettség hatálya alatt bármikor előterjeszthető.
 
 (7) A kifogást a bíróság nyolc napon belül bírálja el.
 
@@ -756,31 +850,29 @@ bírálja el.
 
 - a) szándékosan elkövetett bűncselekmény miatt kiszabott szabadságvesztés büntetésből szabadult;
 - b) idegenrendészeti őrizet alatt áll;
-- c) kiutazásának ellenőrzése a nemzetbiztonság, nemzetközi szerződésben vállalt kötelezettség érvényesítése, illetve a közbiztonság vagy a közrend védelme érdekében szükséges.
+- c) kiutazásának ellenőrzése a nemzetbiztonság, nemzetközi szerződésben vállalt kötelezettség érvényesítése, illetve a közbiztonság vagy a közrend védelme érdekében szükséges;
+- d) a kiutasító határozatban meghatározott határnapot követő napig az Európai Unió tagállamainak területét nem hagyta el.
 
-(2) A kitoloncolásról az idegenrendészeti kiutasítást, illetve a bírói kiutasítás végrehajtását elrendelő határozatban kell rendelkezni, egyéb esetben külön határozattal kell elrendelni.
+(2) A kitoloncolásról az idegenrendészeti kiutasítást elrendelő határozatban, illetve a bírói kiutasítás végrehajtását elrendelő végzésben kell rendelkezni, egyéb esetben külön határozattal vagy végzéssel kell elrendelni.
 
-(3) Más schengeni állam illetékes hatósága által hozott kitoloncolási határozat alapján az idegenrendészeti hatóság a Magyar Köztársaság területén tartózkodó harmadik országbeli állampolgárt kitoloncolhatja, amennyiben kitoloncolását
+(3) A kitoloncolást elrendelő önálló határozat vagy végzés ellen a harmadik országbeli állampolgár végrehajtási kifogást terjeszthet elő. A végrehajtási kifogás a határozat közlésétől számított huszonnégy órán belül az elrendelő idegenrendészeti hatóságnál terjeszthető elő.
 
-- a) a nemzetbiztonság vagy a közbiztonság súlyos és tényleges megsértése vagy veszélyeztetése,
-- b) a határozatot hozó állam törvénye alapján legalább egy évi szabadságvesztés büntetéssel fenyegetett szándékos bűncselekmény elkövetéséért kiszabott bírósági ítélet,
-- c) súlyos bűncselekmény elkövetésének gyanúja,
-- d) a külföldiek belépésére vagy tartózkodására vonatkozó jogszabályok súlyos megsértése
+(4) Az idegenrendészeti hatóság a végrehajtási kifogást az ügy irataival együtt haladéktalanul megküldi a végrehajtási kifogás elbírálására jogosult hatóságnak, mely a végrehajtási kifogást öt munkanapon belül bírálja el.
 
-miatt rendelték el.
+(5) A harmadik országbeli állampolgár a kitoloncolás foganatosításának módjával szemben végrehajtási kifogást terjeszthet elő.
 
-(4) A kitoloncolással történő végrehajtás ellen a harmadik országbeli állampolgár végrehajtási kifogást terjeszthet elő.
+(6) A kitoloncolás végrehajtásának felfüggesztését a harmadik országbeli állampolgár a (3) bekezdés alapján előterjesztett végrehajtási kifogásban kérheti.
 
-(5) A kitoloncolással történő végrehajtás ellen a harmadik országbeli állampolgár méltányossági eljárást nem kezdeményezhet, a kitoloncolás végrehajtásának felfüggesztését nem kérheti.
+(7) Az idegenrendészeti hatóság a légi úton történő kiutasítás céljából történő átszállítás eseteiben biztosított segítségnyújtásról szóló, 2003. november 25-i 2003/110/EK tanácsi irányelv rendelkezéseinek alkalmazására köteles állam által elrendelt kiutasítás végrehajtásában közreműködhet.
 
-(6) Az idegenrendészeti hatóság a légi úton történő kiutasítás céljából történő átszállítás eseteiben biztosított segítségnyújtásról szóló, 2003. november 25-i 2003/110/EK tanácsi irányelv rendelkezéseinek alkalmazására köteles állam által elrendelt kiutasítás végrehajtásában közreműködhet.
-
-(7) A kitoloncolást félbe kell szakítani, ha
+(8) A kitoloncolást félbe kell szakítani, ha
 
 - a) a kitoloncolt célországba történő beutazása meghiúsult,
 - b) az a kitoloncolt sürgős orvosi beavatkozást igénylő állapota miatt nem hajtható végre,
 - c) a külön jogszabályban meghatározottak szerint a kitoloncolás végrehajtásának más állam (a továbbiakban: felkért állam) területén történő biztosítása esetén a légi átszállításhoz a felkért állam nem járult hozzá, vagy visszavonta hozzájárulását,
 - d) a kitoloncolt engedély nélkül lépett be a felkért állam területére az átszállítás folyamán.
+
+(9) A kitoloncolás végrehajtását az ügyész a rá vonatkozó szabályok szerint felügyeli.
 
 ### Külföldre utazási tilalom
 
@@ -867,6 +959,10 @@ miatt rendelték el.
 - b) a gyermek úti okmányának azonosító adatai;
 - c) a gyermek szálláshelyének címe vagy lakcíme.
 
+### Az oktatási intézmények bejelentési kötelezettsége
+
+74/A. § Az oktatási intézmény azokról a külföldi hallgatókról, akik a tanulmányaikat megkezdték, befejezték vagy megszakították, illetve akik a beiratkozási kötelezettségüknek nem tettek eleget, vagy akiknek a hallgatói jogviszonya megszűnt, nyolc munkanapon belül köteles tájékoztatni az oktatási intézmény székhelye szerint illetékes idegenrendészeti hatóságot.
+
 ### A harmadik országbeli állampolgár személyi okmányaival kapcsolatos bejelentési kötelezettségek és hatósági intézkedések
 
 75. § (1) A harmadik országbeli állampolgár köteles úti okmányának, valamint tartózkodásra jogosító engedélyének elvesztését, eltulajdonítását vagy megsemmisülését az idegenrendészeti hatóságnál haladéktalanul bejelenteni. A bejelentésről az idegenrendészeti hatóság igazolást állít ki.
@@ -936,7 +1032,7 @@ szerinti állam vonatkozásában.
 
 ### A harmadik országbeli állampolgárokúti okmánnyal ellátása
 
-82. § A Magyar Köztársaság külképviselete úti okmányt ad ki egyszeri utazásra annak a bevándorolt, illetve letelepedett harmadik országbeli állampolgárnak, akinek külföldön elveszett vagy megsemmisült úti okmánya külföldön nem vagy csak aránytalan nehézségek árán pótolható, és emiatt a Magyar Köztársaság területére történő visszatérésére nincs lehetőség.
+82. § A Magyar Köztársaság külképviselete úti okmányt ad ki egyszeri utazásra annak a Magyar Köztársaság által hontalanként elismert, bevándorolt, illetve letelepedett harmadik országbeli állampolgárnak, akinek külföldön elveszett vagy megsemmisült úti okmánya külföldön nem vagy csak aránytalan nehézségek árán pótolható, és emiatt a Magyar Köztársaság területére történő visszatérésére nincs lehetőség.
 
 83. § (1) Az idegenrendészeti hatóság a bevándorolt, illetve a letelepedett harmadik országbeli állampolgárt – kérelmére, külföldre utazás céljából – a Magyar Köztársaság területére visszatérésre jogosító úti okmánnyal láthatja el, ha származási országa érvényes úti okmányával nem rendelkezik, és az rajta kívül álló okból nem pótolható.
 
@@ -962,7 +1058,7 @@ szerinti állam vonatkozásában.
 
 (2) Az (1) bekezdésben meghatározott eljárásokban – a vízumeljárás kivételével – a kérelem hiányosan történő benyújtása esetén a hiánypótlási felhívást az ügyfél részére az eljáró hatóság azonnal átadja.
 
-(3) Azokban az eljárási cselekményekben, ahol az ügyfél személyes megjelenése kötelező, nincs helye elektronikus ügyintézésnek.
+(3) Azokban az eljárási cselekményekben, ahol az ügyfél személyes megjelenése kötelező, az ügyfél nem jogosult elektronikus kapcsolatot tartani a hatósággal.
 
 89. § (1) Az e törvényben szabályozott eljárásokban hozott döntéseket – a (2)–(4) bekezdésben foglalt eltérésekkel – kézbesítés útján kell közölni.
 
@@ -970,7 +1066,7 @@ szerinti állam vonatkozásában.
 
 - a) a határozatot;
 - b) a bíróságnak a határozat bírósági felülvizsgálatára irányuló eljárásban hozott határozatát;
-- c) az őrizet törvényességének bírósági felülvizsgálata és meghosszabbítása tárgyában hozott bírósági határozatot.
+- c) az őrizet meghosszabbítása tárgyában hozott bírósági határozatot.
 
 (3) A közlés tényét és időpontját jegyzőkönyvbe kell foglalni, és azt az ügyféllel alá kell íratni.
 
@@ -978,7 +1074,7 @@ szerinti állam vonatkozásában.
 
 (5) Az önálló beutazási és tartózkodási tilalmat elrendelő határozat rendelkező részét a külön jogszabályban meghatározott honlapon kell közzétenni.
 
-90. § (1) Ha e törvény a határozattal szembeni fellebbezést kizárja, újrafelvételi eljárásnak és méltányossági eljárásnak sincs helye.
+90. § (1) Ha e törvény a határozattal szembeni fellebbezést kizárja, újrafelvételi eljárásnak sincs helye.
 
 (2) Az e törvényben szabályozott eljárásokban a másodfokon eljáró hatóság által hozott elsőfokú végzésekkel szemben nincs helye fellebbezésnek.
 
@@ -989,6 +1085,8 @@ szerinti állam vonatkozásában.
 (3) Az e törvényben szabályozott hivatalból indult eljárásokban az anyanyelv használatával kapcsolatos költséget az eljáró hatóság viseli.
 
 92. § Az e törvényben szabályozott hivatalból indult eljárás során – halaszthatatlan esetben – tolmácsot az eljáró hatóság kirendelő végzés hiányában is igénybe vehet a hatóság és a tolmács között létrejött szerződés alapján.
+
+92/A. § A harmadik országbeli állampolgárnak a kiutasítással kapcsolatos idegenrendészeti eljárásokban lehetőséget kell biztosítani arra, hogy saját költségén jogi segítséget vegyen igénybe, jogi képviselőt bízzon meg, vagy elfogadja valamely jogvédelemmel foglalkozó bejegyzett társadalmi szervezet jogi segítségét. A hatóság a jogvédelemmel foglalkozó bejegyzett társadalmi szervezet által végzett tanácsadáshoz – szükség esetén tolmács biztosítása útján – segítséget nyújt.
 
 ### X. Fejezet — A HARMADIK ORSZÁGBELI ÁLLAMPOLGÁROK ADATAINAK KEZELÉSÉRE VONATKOZÓ SZABÁLYOK
 
@@ -1032,9 +1130,9 @@ szerinti állam vonatkozásában.
 - f) a tartózkodási engedély kiadása vagy meghosszabbítása iránti kérelem elutasításának, valamint a tartózkodási engedély visszavonásának ténye, azok indoka;
 - g) a kiadott (meghosszabbított) tartózkodási engedély száma, sorozatszáma, érvényességi ideje;
 - h) az első beutazás és az utolsó kiutazás időpontja;
-- i) a szálláshely címe.
+- i) a szálláshely címe;
 
-(2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem elutasítása esetén annak időpontjától, a kiadott (meghosszabbított) tartózkodási engedély esetén annak érvényességi idejének lejártát, illetve visszavonását követő öt évig kezeli.
+(2) Az (1) bekezdés a)–i) pontjában meghatározott adatokat az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem elutasítása esetén annak időpontjától, a kiadott (meghosszabbított) tartózkodási engedély esetén annak érvényességi idejének lejártát, illetve visszavonását követő öt évig kezeli.
 
 97. § (1) Az idegenrendészeti hatóság a meghívó, továbbá a meghívott harmadik országbeli állampolgár következő adatait kezeli:
 
@@ -1070,9 +1168,9 @@ szerinti állam vonatkozásában.
 - g) az első beutazás és a végleges kiutazás időpontja;
 - h) a lakcím;
 - i) a személyi azonosító;
-- j) a személyazonosító igazolvány okmányszáma.
+- j) a személyazonosító igazolvány okmányszáma;
 
-(2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság az engedélyek iránti kérelem elutasítása esetén annak időpontjától, illetve a jogállás megszűnésétől számított húsz évig kezeli.
+(2) Az (1) bekezdés a)–j) pontjában meghatározott adatokat az idegenrendészeti hatóság az engedélyek iránti kérelem elutasítása esetén annak időpontjától, illetve a jogállás megszűnésétől számított húsz évig kezeli.
 
 100. § (1) Az idegenrendészeti hatóság az úti okmány elvesztését, eltulajdonítását vagy megsemmisülését bejelentő harmadik országbeli állampolgár következő adatait kezeli:
 
@@ -1147,7 +1245,10 @@ szerinti állam vonatkozásában.
 - i) a személyi adat- és lakcímnyilvántartással kapcsolatos ügyekben eljáró hatóság,
 - j) a munkaügyi hatóság,
 - k) a munkavédelmi hatóság és
-- l) a közegészségügyi hatóság
+- l) a közegészségügyi hatóság,
+- m) a nyugdíjbiztosítási igazgatási szerv,
+- n) a helyi önkormányzat hatósági feladatot ellátó szerve és
+- o) az okmányiroda
 
 részére továbbíthat adatot.
 
@@ -1171,7 +1272,9 @@ részére továbbíthat adatot.
 
 (2) Az idegenrendészeti hatóság az (1) bekezdésben meghatározott szervektől, szervezetektől közvetlenül alkalmazandó közösségi jogi aktus vagy nemzetközi szerződés alapján – az azokban meghatározott adatkörben – vehet át adatot.
 
-108. § Az e törvény alapján kezelt adatok – személyazonosításra alkalmatlan módon – statisztikai célból továbbíthatók.
+108. § (1) Az e törvény alapján kezelt adatok statisztikai célra felhasználhatók, és azokról személyazonosításra alkalmatlan módon a központi idegenrendészeti nyilvántartást kezelő szerv statisztikai célra adatokat szolgáltathat.
+
+(2) A 95. § (1) bekezdésben, a 96. § (1) bekezdésben, a 98. § (1) bekezdésben, valamint a 99. § (1) bekezdésében foglalt adatokból a Központi Statisztikai Hivatal részére statisztikai célú adatkezelés érdekében az adatok személyazonosításra alkalmas módon is átadhatók.
 
 ### XI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -1296,7 +1399,10 @@ hatályát veszti.
 - n) a NATO-SOFA Megállapodás hatálya alá tartozó polgári állomány tagjai és a hozzátartozók beutazásának és tartózkodásának részletes szabályait;
 - o) a tagállamok által hozott kiutasítási határozatok elismerésének és végrehajtásának részletes szabályait;
 - p) a hontalanság megállapítására irányuló eljárás részletes szabályait;
-- q) a harmadik országbeli állampolgárok úti okmánnyal történő ellátásának részletes szabályait.
+- q) a harmadik országbeli állampolgárok úti okmánnyal történő ellátásának részletes szabályait;
+- r) az önálló beutazási és tartózkodási tilalom kezdeményezésére, valamint az önálló beutazási és tartózkodási tilalom időtartama tekintetében javaslattételre jogosult rendvédelmi szerveket.
+
+(1a) Felhatalmazást kap a Kormány, hogy kijelölje a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján kiállított tartózkodásra jogosító okmányok biometrikus adatait tartalmazó tároló elemek hitelesítését végző hatóságokat, és az egyes idegenrendészeti eljárásokban szakhatóságként eljáró rendvédelmi szerveket.
 
 (2) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy az érdekelt miniszterekkel egyetértésben rendeletben szabályozza:
 
@@ -1312,14 +1418,14 @@ hatályát veszti.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy – az idegenrendészetért és menekültügyért felelős miniszterrel egyetértésben – a közegészséget veszélyeztető betegségeket rendeletben állapítsa meg.
 
-(6) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszter, hogy rendeletben állapítsa meg azokat az eseteket, amikor – a közbiztonság és a nemzetbiztonság védelme érdekében –
+(6) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben rendeletben állapítsa meg azokat az eseteket, amikor – a közbiztonság és a nemzetbiztonság védelme érdekében –
 
 - a) a három hónapot meg nem haladó tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki, és
 - b) más schengeni állam vízumkiadó hatósága a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadását megelőzően a központi vízumhatósággal egyeztet.
 
-(7) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszterrel egyetértésben rendeletben határozza meg azokat a harmadik országokat, amelyek állampolgárainak a Vízumkódex 3. cikk (2) bekezdése szerinti esetben repülőtéri tranzitvízummal kell rendelkezniük.
+(7) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben rendeletben határozza meg azokat a harmadik országokat, amelyek állampolgárainak a Vízumkódex 3. cikk (2) bekezdése szerinti esetben repülőtéri tranzitvízummal kell rendelkezniük.
 
-(8) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatokat irányító miniszter, hogy rendeletben határozza meg azokat a harmadik országokat, amelyek állampolgárai részére kiadott vízumokról a Vízumkódex 31. cikk (1) bekezdése szerint a központi vízumhatóság tájékoztatást kér.
+(8) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben rendeletben határozza meg azokat a harmadik országokat, amelyek állampolgárai részére kiadott vízumokról a Vízumkódex 31. cikk (1) bekezdése szerint a központi vízumhatóság tájékoztatást kér.
 
 112. §
 
@@ -1353,10 +1459,14 @@ hatályát veszti.
 - l) a Tanács 1996. március 4-i ajánlása a repülőtéri tranzitintézkedésekkel kapcsolatos közös fellépésről;
 - m) a Tanács 1996. március 4-i ajánlása a helyi konzulátusok együttműködéséről a vízumokkal kapcsolatosan;
 - n) a Tanács 1997. június 26-i állásfoglalása a harmadik állambeli kísérő nélküli kiskorúakról;
-- o) a Tanács 1997. december 4-i állásfoglalása az érdekházasságok elleni küzdelem érdekében elfogadott intézkedésekről.
+- o) a Tanács 1997. december 4-i állásfoglalása az érdekházasságok elleni küzdelem érdekében elfogadott intézkedésekről;
+- p) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK parlamenti és tanácsi irányelv.
 
 (2) E törvény
 
 - a) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet [6. §; 40. §];
-- b) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 6., 9., illetve 19–20. cikkei [67/A. §, 95. §];
-- c) a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet [2. §; 8. §; 12. §; 111. §] végrehajtásához szükséges rendelkezéseket állapít meg.
+- b) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, a Tanács 2002. június 13-i 1030/2002/EK rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet [53. §, 67. §, 96. §, 99. §, 111. §];
+- c) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 6., 9., illetve 19–20. cikkei [67/A. §, 95. §];
+- d) a Közösségi Vízumkódex létrehozásáról szóló (vízumkódex), 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet [2. §, 8. §, 9. §, 12. §, 111. §];
+
+végrehajtásához szükséges rendelkezéseket állapít meg.

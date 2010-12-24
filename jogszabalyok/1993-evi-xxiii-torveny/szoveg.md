@@ -4,7 +4,7 @@ a Nemzeti Kulturális Alapról
 
 1. § A Nemzeti Kulturális Alap (a továbbiakban: Alap) az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) szerinti – a nemzeti és az egyetemes értékek létrehozásának, megőrzésének, valamint hazai és határon túli terjesztésének támogatása érdekében létrehozott – elkülönített állami pénzalap. Az Alap feletti rendelkezési jogot – ágazati stratégiai döntéseivel összhangban – a kultúráért felelős miniszter (a továbbiakban: miniszter) gyakorolja, és felel annak felhasználásáért.
 
-2. § (1) Az Alap céljainak megvalósítása érdekében a miniszter az elvi, irányító és koordináló döntések meghozatalára Nemzeti Kulturális Alap Bizottságot (a továbbiakban: Bizottság) létesít. A Bizottság tagjainak felét a miniszter saját hatáskörében, másik felét pedig az érintett szakmai, illetve társadalmi szervezetek javaslata alapján bízza meg. A Bizottság elnökét a miniszter nevezi ki.
+2. § (1) Az Alap céljainak megvalósítása érdekében a miniszter az elvi, irányító és koordináló döntések meghozatalára Nemzeti Kulturális Alap Bizottságot (a továbbiakban: Bizottság) létesít. A Bizottság tagjainak felét a miniszter saját hatáskörében, másik felét pedig az érintett szakmai, illetve társadalmi szervezetek javaslata alapján bízza meg. A Bizottság elnöke a miniszter vagy az általa megbízott személy.
 
 (2) A Bizottság a miniszter által jóváhagyott éves munkaterv alapján látja el feladatát.
 
@@ -26,9 +26,7 @@ a Nemzeti Kulturális Alapról
 
 (2) A Bizottság elnökének és tagjainak, a kollégium vezetőinek és tagjainak, valamint ezek közeli hozzátartozóinak [Ptk. 685. § b) pont] pályázatát érdemi vizsgálat nélkül el kell utasítani.
 
-(3) A Bizottság elnöke és tagjai, a kollégium vezetője és tagjai nem vehetnek részt olyan szervezetek támogatási igényeinek elbírálásában, amelyben mint tagok, tulajdonosok, vezető tisztségviselők, illetve felügyelő bizottsági tagok érintettek, vagy a támogatást igénylővel a döntést megelőző egy évben ilyen kapcsolatban álltak, továbbá, ha a döntés következtében akár közvetve is vagyoni előnyben részesülnének.
-
-(4) A (3) bekezdésben meghatározott esetben a döntéshez az összeférhetetlenséggel nem érintett tagok háromnegyedének szavazata szükséges.
+(3)–(4)
 
 (5) A Bizottság elnöke és tagja, a kollégium vezetője és tagja nem vehet részt olyan pályázat elbírálásában, amelynek megítélésénél tőle elfogulatlan állásfoglalás nem várható.
 
@@ -42,18 +40,21 @@ a Nemzeti Kulturális Alapról
 
 4. § (1) Az Alap bevételi forrásai:
 
-- a) az ötöslottó szerencsejáték játékadójának 90 százaléka,
+- a) az ötöslottó szerencsejáték játékadójának 90 százaléka;
 - b) központi költségvetési előirányzatokból átvett pénzeszközök;
 - c) a jogi személyek, jogi személyiség nélküli gazdasági társaságok és természetes személyek befizetései;
-- d) egyéb bevételek.
+- d) költségvetési támogatás;
+- e) egyéb bevételek.
 
 (2) Az (1) bekezdés c) pontjában foglalt befizetések közérdekű kötelezettségvállalásnak minősülnek (Ptk. 593–596. §).
 
-(3) A központi költségvetési előirányzatból átvett pénzeszköz kezelésére, illetve a pályáztatás lebonyolítására is az Alapra érvényes szabályokat kell alkalmazni.
+(3) A központi költségvetési előirányzatból évközben átvett pénzeszköz kezelésére, illetve a pályáztatás lebonyolítására az átvétel tárgyában kötött megállapodás rendelkezései az irányadók.
 
-(4) Az Alap bevétele és év végi maradványa nem vonható el. Az Alap költségvetésének tervezésére, végrehajtására és zárszámadására egyebekben az Áht. és az éves költségvetési törvény vonatkozó rendelkezéseit kell alkalmazni.
+(4) Költségvetési támogatás felhasználását a miniszter e törvényben foglaltaktól eltérően szabályozhatja.
 
-(5) A miniszter jogosult – a pályázati döntések függvényében – az Alap 7. § (1) bekezdése szerinti kiadási jogcímei között átcsoportosítást végrehajtani.
+(5) Az Alap bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető – az előző évek kötelezettség vállalásainak fedezeteként – a kiadási és bevételi előirányzat egyidejű módosításával. Az Alap költségvetésének tervezésére, végrehajtására és zárszámadására egyebekben az Áht. és az éves költségvetési törvény vonatkozó rendelkezéseit kell alkalmazni.
+
+(6) A miniszter jogosult – a pályázati döntések függvényében – az Alap 7. § (1) bekezdése szerinti kiadási jogcímei között átcsoportosítást végrehajtani.
 
 5. §
 
@@ -88,13 +89,13 @@ a Nemzeti Kulturális Alapról
 
 7/C. § A miniszter által közvetlenül felhasználható keret a 4. § (1) bekezdés a) pontja szerinti bevétel – a 7. § (2) bekezdésben foglalt költségekkel csökkentett – összegének 25%-a (a továbbiakban: miniszteri keret).
 
-8. § (1) Az Alapból természetes és jogi személyek, jogi személyiség nélküli gazdasági társaságok, egyéni cégek, valamint egyéni vállalkozók igényelhetnek támogatást.
+8. § (1) Az Alapból természetes és jogi személyek, jogi személyiség nélküli gazdasági társaságok, társasházak, egyéni cégek, valamint egyéni vállalkozók igényelhetnek támogatást.
 
 (2) Az Alap kezelője a pályázat nyerteseivel szerződést köt.
 
 9. § (1) Az Alap terhére a támogatás visszatérítendő és részben vagy egészben vissza nem térítendő formában nyújtható.
 
-(2) A támogatások nyílt, vagy meghívásos pályázatok útján, illetve – a miniszteri keret felhasználása során vagy kivételesen indokolt esetben – egyedi elbírálás alapján adhatók.
+(2) A támogatások nyílt vagy meghívásos pályázatok útján, illetve – a miniszteri keret felhasználása során vagy kivételesen indokolt esetben – egyedi pályázatok elbírálása alapján – gazdálkodási formától függetlenül – adhatók.
 
 (3) Az (1)–(2) bekezdések szerinti megosztás arányairól – ideértve a támogatás összegének a kollégiumok közötti felosztását is – a bizottság a miniszter egyetértésével dönt.
 
