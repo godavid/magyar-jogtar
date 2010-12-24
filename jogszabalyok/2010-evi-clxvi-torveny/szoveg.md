@@ -778,4 +778,4 @@ valamint –1 emelet, parkoló szint: 12 (1 mozgáskorlátozott) parkolóhely (p
 
 (3) A Székhely-megállapodás, illetve e törvény 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-(4) E törvény végrehajtásához szükséges intézkedésekről a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke gondoskodik.
+(4) E törvény végrehajtásához szükséges intézkedésekről a kutatás-fejlesztésért és technológiai innovációért felelős miniszter gondoskodik.

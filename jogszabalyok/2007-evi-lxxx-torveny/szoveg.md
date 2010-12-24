@@ -26,16 +26,16 @@ a menedékjogról a következő törvényt alkotja:
 - f) kísérő nélküli kiskorú: az a tizennyolcadik életévét be nem töltött külföldi, aki jogszabály vagy szokás alapján felügyeletéért felelős nagykorú személy kísérete nélkül lépett a Magyar Köztársaság területére, vagy a belépést követően maradt felügyelet nélkül, mindaddig, amíg ilyen személy felügyelete alá nem kerül;
 - g) származási ország: az állampolgárság, illetve hontalan személy esetén a szokásos tartózkodási hely szerinti ország vagy országok;
 - h) biztonságos származási ország: az az ország, amely szerepel az Európai Unió Tanácsának a biztonságos származási országnak tekintendő harmadik országokról szóló minimumlistáján, illetve a Kormány rendeletében nemzeti szinten biztonságosnak nyilvánított származási országok listáján, vagy ezen listákon lévő országok egy része; a származási országnak bármelyik listán való szereplése az elismerést kérő személy tekintetében megdönthető vélelmet állít fel, amely szerint ebben az országban, illetőleg az ország egy részében általában és következetesen nem tapasztalható üldöztetés, nem alkalmaznak kínzást, sem kegyetlen, embertelen vagy megalázó bánásmódot vagy büntetést, és amely ország ezen jogok és szabadságok megsértése ellen hatékony jogorvoslati rendszert biztosít;
-- i) biztonságos harmadik ország: a kérelmező vonatkozásában az az állam, ahol a kérelmező a Magyar Köztársaság területére érkezését megelőzően tartózkodott vagy annak területén átutazott, és lehetősége volt arra, hogy menekültkénti elismerés vagy kiegészítő védelem iránti kérelmet nyújtson be, feltéve, hogy a menekültügyi hatóság meggyőződött arról, hogy az adott országban
-  - ia) a kérelmező életét és szabadságát nem fenyegeti veszély faji vagy vallási okból, nemzeti hovatartozása, valamely társadalmi csoporthoz tartozása vagy politikai meggyőződése miatt, illetve nincs kitéve súlyos sérelem veszélyének,
-  - ib) a Genfi Egyezménnyel összhangban tiszteletben tartják a visszaküldés tilalmának elvét,
-  - ic) elismerik és alkalmazzák a nemzetközi jog azon szabályát, amely szerint a kérelmező olyan ország területére nem utasítható ki, ahol halálbüntetésnek, kínzásnak, kegyetlen, embertelen vagy megalázó bánásmódnak vagy büntetésnek lenne kitéve, és
-  - id) biztosított a Genfi Egyezménnyel összhangban álló védelem;
+- i) biztonságos harmadik ország: az az ország, amelyre vonatkozóan a menekültügyi hatóság meggyőződött arról, hogy a kérelmező az alábbi elvekkel összhangban lévő bánásmódban részesül:
+  - ia) az életét és a szabadságát nem fenyegeti veszély faji, vallási okból, nemzeti hovatartozása, valamely társadalmi csoporthoz való tartozása vagy politikai meggyőződés miatt, illetve nincs kitéve súlyos sérelem veszélyének;
+  - ib) a genfi egyezménnyel összhangban tiszteletben tartják a visszaküldés tilalmának elvét;
+  - ic) elismerik és alkalmazzák a nemzetközi jog azon szabályát, amely szerint a kérelmező olyan ország területére nem utasítható ki, ahol halálbüntetésnek, kínzásnak, kegyetlen, embertelen vagy megalázó bánásmódnak vagy büntetésnek lenne kitéve; és
+  - id) a menekültkénti elismerés kérelmezésének lehetősége biztosított, és a menekültkénti elismerés esetén biztosított a genfi egyezménnyel összhangban álló védelem;
 - j) családtag: a külföldi
-  - ja) házastársa,
-  - jb) kiskorú gyermeke (ideértve az örökbefogadott és a nevelt gyermeket is),
-  - jc) szülője, ha az elismerését kérő kiskorú;
-- k) különleges bánásmódot igénylő személy: olyan kiszolgáltatott személy – különösen a kiskorú, a kísérő nélküli kiskorú, az idős, a fogyatékkal élő személy, a várandós nő, a kiskorú gyermeket egyedül nevelő szülő, valamint a kínzást, nemi erőszakot vagy a pszichikai, fizikai vagy szexuális erőszak más súlyos formáját elszenvedett személy –, aki egyéni helyzetére tekintettel sajátos szükségletekkel rendelkezik.
+  - ja) kiskorú gyermeke (ideértve az örökbefogadott és a nevelt gyermeket is),
+  - jb) szülője, ha az elismerését kérő vagy a nemzetközi védelemben részesített személy kiskorú,
+  - jc) házastársa, amennyiben a családi kapcsolat már a Magyarországra érkezést megelőzően is fennállt;
+- k) különleges bánásmódot igénylő személy: a kísérő nélküli kiskorú, vagy olyan kiszolgáltatott személy – különösen a kiskorú, az idős, a fogyatékkal élő személy, a várandós nő, a kiskorú gyermeket egyedül nevelő szülő, valamint a kínzást, nemi erőszakot vagy a pszichikai, fizikai vagy szexuális erőszak más súlyos formáját elszenvedett személy –, akiről helyzetének egyedi értékelését követően megállapítható, hogy sajátos szükségletekkel rendelkezik.
 
 ### Alapelvek
 
@@ -63,8 +63,8 @@ a menedékjogról a következő törvényt alkotja:
 - a) a menekültügyi hatósággal együttműködni, így különösen: feltárni a menekülésének körülményeit, személyes adatait közölni és személyazonosságának tisztázását elősegíteni, okmányait átadni;
 - b) nyilatkozni vagyonáról, jövedelméről;
 - c) a menekültügyi hatóság által számára kijelölt szálláshelyen – az e törvényben meghatározottak szerint – életvitelszerűen tartózkodni és a kijelölt szálláshelyen a tartózkodásra irányadó magatartási szabályokat megtartani;
-- d) jogszabály vagy az egészségügyi hatóság elrendelése alapján magát egészségügyi szűrésnek, gyógykezelésnek, jogszabályban kötelezően előírt, valamint az egészségügyi hatóság által megbetegedési veszély esetén elrendelt, hiányzó védőoltások pótlásának alávetni;
-- e) a befogadó állomáson való foglalkoztatás kivételével a munkavállalástól tartózkodni.
+- d) jogszabály vagy az egészségügyi hatóság elrendelése alapján magát egészségügyi szűrésnek, gyógykezelésnek, jogszabályban kötelezően előírt, valamint az egészségügyi hatóság által megbetegedési veszély esetén elrendelt, hiányzó védőoltások pótlásának alávetni.
+- e)
 
 ### III. Fejezet — A MENEKÜLT
 
@@ -84,7 +84,7 @@ a menedékjogról a következő törvényt alkotja:
 
 (4) Az idegenrendészetért és menekültügyért felelős miniszter (a továbbiakban: miniszter) a menekültkénti elismerés feltételei fennállásának hiányában kivételes méltányosságból menekültként ismerheti el azt a külföldit, akinek az elismerését humanitárius ok indokolja, feltéve, hogy a külföldi menekültkénti elismerését kizáró ok nem áll fenn.
 
-(5) A miniszter menekültként ismerheti el azt az Egyesült Nemzetek Szervezete Menekültügyi Főbiztossága által menekültként elismert külföldit, akire nézve a menekültügyi hatóság a Genfi Egyezmény alkalmazhatóságát megállapította. Az e bekezdés alapján elismert menekültek száma évente száz főt nem haladhat meg.
+(5) A miniszter menekültként ismerheti el azt a más állam hatósága vagy az Egyesült Nemzetek Szervezete Menekültügyi Főbiztossága által menekültként elismert külföldit, akire nézve a menekültügyi hatóság a genfi egyezmény alkalmazhatóságát megállapította.
 
 ### A menekültkénti elismerést kizáró okok
 
@@ -92,11 +92,9 @@ a menedékjogról a következő törvényt alkotja:
 
 (2) A Genfi Egyezmény 1. cikk F. pont b) alpontjának alkalmazása során súlyos, nem politikai bűncselekménynek minősül az a cselekmény, amelynek elkövetésénél – figyelemmel az összes körülményre, így a bűncselekmény által elérni kívánt célra, a bűncselekmény indítékára, az elkövetés módjára, a felhasznált vagy felhasználni kívánt eszközre – a bűncselekmény köztörvényi jellege túlnyomó a politikai jelleghez képest, és amelyre a magyar jog ötévi vagy azt meghaladó szabadságvesztés büntetés kiszabását rendeli.
 
-### Menekültek biztonságos származási országokból és biztonságos harmadik országokból
+### Menekültek biztonságos származási országokból
 
-9. § (1) Ha a menekültkénti elismerését kérő származási országa szerepel a biztonságos származási országok európai uniós vagy nemzeti listáján, az elismerését kérőnek kell bizonyítania, hogy az elismerését kérő vonatkozásában származási országa nem felel meg a biztonságos származási országokra meghatározott feltételeknek.
-
-(2) Ha az elismerését kérő a Magyar Köztársaság területére érkezését megelőzően biztonságos harmadik ország területén tartózkodott vagy átutazott, az elismerését kérőnek kell bizonyítania, hogy ebben az országban nem volt lehetősége hatékony védelemre a 2. § i) pontjában foglaltak értelmében.
+9. § Ha a menekültkénti elismerését kérő származási országa szerepel a biztonságos származási országok európai uniós vagy nemzeti listáján, az elismerését kérőnek kell bizonyítania, hogy az elismerést kérő vonatkozásában származási országa nem felel meg a biztonságos származási országokra meghatározott feltételeknek.
 
 ### A menekült jogállása
 
@@ -178,11 +176,13 @@ a menedékjogról a következő törvényt alkotja:
 
 ### Az oltalmazott jogállása
 
-17. § (1) Az oltalmazottat – a (2)–(3) bekezdésben foglalt kivétellel –, ha törvény vagy kormányrendelet kifejezetten eltérően nem rendelkezik, a menekült jogai illetik meg, és kötelezettségei terhelik.
+17. § (1) Az oltalmazottat – a (2)–(4) bekezdésben foglalt kivétellel –, ha törvény vagy kormányrendelet kifejezetten eltérően nem rendelkezik, a menekült jogai illetik meg, és kötelezettségei terhelik.
 
 (2) Az oltalmazott – a 10. § (3) bekezdés a) pontjától eltérően – külön jogszabályban meghatározott úti okmányra jogosult.
 
 (3) Az oltalmazott nem rendelkezik választójoggal.
+
+(4) Az oltalmazottat nem illetik meg a magyar állampolgárságról szóló törvény szerinti, a menekültre vonatkozó kedvezményes honosítási feltételek.
 
 ### Az oltalmazotti jogállás megszűnése
 
@@ -246,7 +246,7 @@ a menedékjogról a következő törvényt alkotja:
 - a) szálláshelyét, valamint annak megváltozását a menekültügyi hatóságnak bejelenteni;
 - b) a menekültügyi hatósággal együttműködni;
 - c) jogszabály vagy az egészségügyi hatóság elrendelése alapján magát egészségügyi szűrésnek, gyógykezelésnek, jogszabályban kötelezően előírt, valamint az egészségügyi hatóság által megbetegedési veszély esetén elrendelt, hiányzó védőoltások pótlásának alávetni;
-- d) a Magyar Köztársaság jogszabályait megtartani.
+- d) a Magyar Köztársaság jogszabályait megtartani. [(3) Az (1) bekezdés a) pontja szerinti okmány megfelel a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló a Tanács 2002. június 13-i 1030/2002/EK rendeletben, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendeletben foglaltaknak.]
 
 ### Az ideiglenes védelem tartama
 
@@ -279,71 +279,81 @@ a menedékjogról a következő törvényt alkotja:
 
 ### A befogadási feltételek
 
-26. § A befogadási feltételek magukba foglalják a befogadás anyagi feltételeit, valamint az elismerését kérő mozgásszabadságával, egészségügyi és szociális ellátásával, valamint oktatásával kapcsolatos valamennyi, törvényben és kormányrendeletben meghatározott jogosultságot és intézkedést.
+26. § (1) A befogadási feltételek magukba foglalják a befogadás anyagi feltételeit, valamint az elismerését kérő mozgásszabadságával, egészségügyi és szociális ellátásával, valamint oktatásával kapcsolatos valamennyi, törvényben és kormányrendeletben meghatározott jogosultságot és intézkedést.
 
-### A befogadás anyagi feltételei
+(2) Az elismerését kérő – rászorultsága esetén – térítésmentesen jogosult az e törvényben és külön jogszabályban meghatározott befogadási feltételekre.
 
-27. § Amennyiben törvény vagy kormányrendelet másként nem rendelkezik, az elismerését kérő az elismerés iránti kérelem benyújtását követően a menekültügyi eljárás jogerős lezárásáig az e törvényben és külön jogszabályban meghatározott ellátásra, támogatásra és szállásra jogosult (a továbbiakban: befogadás anyagi feltételei).
+27. § Amennyiben törvény vagy kormányrendelet másként nem rendelkezik, az elismerését kérő az elismerés iránti kérelem benyújtását követően a menekültügyi eljárás jogerős lezárásig az e törvényben és külön jogszabályban meghatározott, az egészségi állapotának megfelelő és alapszükségleteit kielégítő befogadás anyagi feltételeire és egyéb támogatásokra jogosult.
 
-28. § (1) A menekültügyi hatóság biztosítja az elismerését kérő számára az egészségi állapotának megfelelő és alapszükségleteit kielégítő befogadás anyagi feltételeit.
+28. § A befogadás anyagi feltételeit a fogva tartott elismerését kérő részére is biztosítani kell.
 
-(2) A befogadás anyagi feltételeit a fogva tartott elismerését kérő részére is biztosítani kell.
-
-29. § (1) Az elismerését kérő – rászorultsága esetén – térítésmentesen jogosult a befogadás anyagi feltételeire, valamint a külön jogszabályban meghatározott ellátásra és támogatásra.
-
-(2) A különleges bánásmódot igénylő személy az (1) bekezdésben meghatározottak mellett – rászorultsága esetén – térítésmentesen jogosult a külön jogszabályban meghatározott, sajátos szükségleteit kielégítő egészségügyi ellátásra is.
+29. § A befogadási feltételek biztosítása során figyelemmel kell lenni a különleges bánásmódot igénylő személy sajátos szükségleteire.
 
 ### A befogadási feltételek megvonása és megtagadása
 
-30. § (1) Az elismerését kérő számára biztosított befogadási feltételek – a (2)–(3) bekezdésben foglalt kivétellel – megvonhatók, illetve megtagadhatók, ha az elismerését kérő
+30. § (1) Az elismerését kérő számára biztosított befogadási feltételek korlátozhatók, megvonhatók, illetve megtagadhatók, ha az elismerését kérő
 
 - a) az együttműködési kötelezettségét ismételten vagy súlyosan megszegi;
-- b) a számára kijelölt szálláshelyet a menekültügyi hatóság engedélye nélkül huszonnégy órát meghaladó időtartamra elhagyja;
+- b) a befogadó állomást vagy a számára kijelölt kötelező tartózkodási helyet a kijelölő hatóság engedélye nélkül huszonnégy órát meghaladó időtartamra elhagyja;
 - c) a kijelölt szálláshelyen irányadó magatartási szabályokat ismételten vagy súlyosan megszegi;
-- d) a számára kijelölt szálláshelyről ismeretlen helyre távozott, és az eltávozástól számítva tizenöt nap eltelt;
+- d) a számára engedélyezett magánszállásról ismeretlen helyre távozott, és az eltávozástól számítva tizenöt nap eltelt;
 - e) a befogadás anyagi feltételeire való jogosultság megszerzése érdekében vagyonára, illetve jövedelmére vonatkozóan valótlan nyilatkozatot tesz, vagy a nyilatkozattételt megtagadja;
-- f) olyan, súlyosan erőszakos magatartást tanúsít, amely miatt vele szemben büntetőeljárás vagy szabálysértési eljárás indul;
+- f) súlyosan erőszakos magatartást tanúsít;
 - g) ismételten, változatlan ténybeli alapon nyújt be elismerés iránti kérelmet.
 
-(2) A különleges bánásmódot igénylő személyek részére biztosított befogadási feltételek nem vonhatók meg és nem tagadhatók meg.
+(2) A korlátozó, megvonó vagy megtagadó döntés meghozatala során a menekültügyi hatóságnak figyelemmel kell lennie az elismerését kérő egyéni helyzetére, különös tekintettel a különleges bánásmódot igénylő személyekre, továbbá a korlátozásnak, megvonásnak vagy megtagadásnak az elkövetett szabályszegéssel arányban kell állnia.
 
-(3) A sürgősségi egészségügyi ellátást a befogadási feltételek (1) bekezdésben foglalt megvonása, illetve megtagadása esetében is biztosítani kell.
+(3) A sürgősségi egészségügyi ellátást a befogadási feltételek (1) bekezdésben foglalt korlátozása, megvonása, illetve megtagadása esetében is biztosítani kell. Amennyiben a menekültügyi hatóság az (1) bekezdés alapján a különleges bánásmódot igénylő személy elhelyezési jogosultságát megvonta vagy megtagadta, a menekültügyi hatóság intézkedik a menedékkérő más formában, a szociális intézményrendszer keretében történő elhelyezése iránt.
 
-(4) A befogadási feltételek megvonásáról, illetve megtagadásáról a menekültügyi hatóság végzéssel dönt. A megvonásnak, illetve megtagadásnak arányban kell állnia az (1) bekezdés szerinti kötelezettségszegéssel.
+(4) A befogadási feltételek korlátozásáról, megvonásáról, illetve megtagadásáról a menekültügyi hatóság végzéssel dönt.
 
-(5) A menekültügyi hatóság a befogadási feltételek megvonására, illetve megtagadására vonatkozó döntése meghozatalát követően a megvonás, illetve a megtagadás fenntartásának szükségességét az elismerését kérő kérelmére vagy hivatalból rendszeresen felülvizsgálja.
+(5) A menekültügyi hatóság a befogadási feltételek korlátozásáról vagy megvonásáról határozott vagy határozatlan időre szólóan rendelkezik.
 
-(6) Ha a menekültügyi hatóság az (1) bekezdés a), b), illetve d) pontja alapján a befogadási feltételeket megvonta, illetve megtagadta, és az elismerését kérő az együttműködési kötelezettségének eleget tesz, illetve a menekültügyi hatóságnál utóbb jelentkezik, továbbá, ha a menekültügyi hatóság az (5) bekezdés szerinti felülvizsgálat során megállapítja, hogy a megvonás, illetve megtagadás fenntartása nem szükséges, a befogadás egyes vagy valamennyi feltételének visszaállításáról, illetve megítéléséről végzéssel dönt.
+(6) A menekültügyi hatóság a befogadási feltételek korlátozásáról, megvonásáról vagy megtagadásáról rendelkező döntése meghozatala során, különösen az alábbi szempontokat mérlegeli:
 
-(7) Ha a menekültügyi hatóság az (1) bekezdés e) pontja alapján a befogadási feltételeket megvonta, és bebizonyosodik, hogy az elismerését kérő rendelkezett a befogadás anyagi feltételeinek fedezetével, a menekültügyi hatóság a megvonásról hozott végzésben elrendelheti a jogosulatlanul igénybe vett befogadás anyagi feltételei költségeinek visszatérítését.
+- a) a korlátozás, megvonás vagy megtagadás alapjául szolgáló cselekmény első alkalommal történő, ismételt, illetve rendszeres előfordulása;
+- b) a korlátozás, megvonás vagy megtagadás alapjául szolgáló cselekmény súlya, figyelemmel a cselekmény által esetlegesen okozott kárra is.
 
-31. § A befogadási feltételek megvonásáról, illetve megtagadásáról, továbbá a befogadás egyes vagy valamennyi feltételének visszaállításáról, illetve megítéléséről rendelkező végzéssel szemben önálló jogorvoslatnak nincs helye, a végzés a menekültkénti vagy oltalmazottkénti elismerés, illetve a menedékeskénti elismerés iránti kérelmet elbíráló, a kérelmet érdemi vizsgálat nélkül elutasító, továbbá az eljárást megszüntető döntéssel szembeni jogorvoslatban támadható meg.
+(7) Amennyiben az (1) bekezdés e) pontja alapján bebizonyosodik, hogy az elismerését kérő rendelkezett a befogadás anyagi feltételeinek fedezetével, a menekültügyi hatóság a korlátozásról, megvonásról hozott végzésben elrendelheti a jogosulatlanul igénybe vett befogadási feltételek költségeinek visszatérítését.
+
+(8) Ha a menekültügyi hatóság a (7) bekezdés alapján az elismerését kérőt a pénzbeli támogatások, illetve a befogadás anyagi feltételei költségeinek visszatérítésére kötelezte, a visszafizetési kötelezettség teljesítéséig a befogadási feltételek akkor sem nyújthatók, ha az elismerését kérő a befogadási feltételekre időközben jogosulttá vált. A menekültügyi hatóság e rendelkezés alól különös méltánylást érdemlő esetben kivételt tehet.
+
+(9) Amennyiben a korlátozás, megvonás vagy megtagadás alapjául szolgáló okok elhárultak, a menekültügyi hatóság az elismerését kérő egyedi helyzetének mérlegelését követően a korlátozott, megvont vagy megtagadott befogadási feltételeket – végzéssel – újból biztosíthatja.
+
+31. § (1) Ha a menekültügyi hatóság a 30. § (1) bekezdése alapján a befogadás anyagi feltételeit korlátozta, megvonta vagy megtagadta, az erről rendelkező végzéssel szemben bírósági felülvizsgálatnak van helye.
+
+(2) A felülvizsgálati kérelmet a végzés közlésétől számított három napon belül a menekültügyi hatóságnál kell benyújtani. A menekültügyi hatóság a felülvizsgálati kérelmet az ügy irataival és ellenkérelmével együtt haladéktalanul megküldi a bíróságnak. A felülvizsgálati kérelem benyújtásának a végzésben foglaltak végrehajtására nincs halasztó hatálya.
+
+(3) A felülvizsgálati kérelemről a bíróság – a felülvizsgálati kérelem beérkezésétől számított hat munkanapon belül – nemperes eljárásban, a rendelkezésre álló iratok alapján dönt. Az eljárásban szükség esetén személyes meghallgatásnak van helye.
+
+(4) A bíróság a menekültügyi hatóság döntését megváltoztathatja. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
 
 ### A menekült, az oltalmazott, valamint a menedékes ellátása és támogatása
 
-32. § (1) A menekült és az oltalmazott az alapvető létfeltételeinek megteremtéséhez – külön jogszabályban meghatározott ideig – az elismerését kérővel azonos feltételek mellett jogosult a befogadás anyagi feltételeire, valamint külön jogszabályban meghatározott ellátásra és támogatásra.
+32. § (1) A menekült és az oltalmazott az alapvető létfeltételeinek megteremtéséhez rászorultsága esetén jogosult – külön jogszabályban meghatározott ideig – a befogadás anyagi feltételeinek további igénybevételére, valamint társadalmi beilleszkedésének elősegítése érdekében külön jogszabályban meghatározott ellátásokra és támogatásokra.
 
-(2) A menedékes – rászorultsága esetén – térítésmentesen jogosult a befogadás anyagi feltételeire, valamint a külön jogszabályban meghatározott ellátásra és támogatásra.
+(2) A menedékes – rászorultsága esetén – jogosult a befogadás anyagi feltételeire, valamint a külön jogszabályban meghatározott ellátásra és támogatásra.
 
-(3) A külön jogszabályban meghatározott ellátás és támogatás, valamint a befogadás anyagi feltételei megvonhatók, illetve megtagadhatók, ha a menekült, az oltalmazott vagy a menedékes
+(3) A menekültügyi hatóság, valamint a jegyző az (1)–(2) bekezdés hatálya alá tartozó ügyekben határozattal dönt. A határozattal szemben bírósági felülvizsgálatnak van helye. A bíróság a menekültügyi hatóság, valamint a jegyző döntését megváltoztathatja.
+
+32/A. § (1) A menekült, az oltalmazott, továbbá a menedékes számára biztosított befogadás anyagi feltételei, valamint a külön jogszabályban meghatározott ellátások és támogatások korlátozhatók, megvonhatók, illetve megtagadhatók, ha a menekült, az oltalmazott, továbbá a menedékes
 
 - a) a befogadó állomáson irányadó magatartási szabályokat ismételten vagy súlyosan megszegi;
-- b) olyan, súlyosan erőszakos magatartást tanúsít, amely miatt vele szemben büntetőeljárás vagy szabálysértési eljárás indul;
-- c) a befogadás anyagi feltételeire, illetve a külön jogszabályban meghatározott ellátásra vagy támogatásra való jogosultság megszerzése érdekében vagyonára, illetve jövedelmére vonatkozóan valótlan nyilatkozatot tesz, vagy a nyilatkozattételt megtagadja.
+- b) az együttműködési kötelezettségét ismételten vagy súlyosan megszegi;
+- c) a befogadás anyagi feltételeire, illetve külön jogszabályban meghatározott támogatásra és ellátásra való jogosultság megszerzése érdekében vagyonára, illetve jövedelmére vonatkozóan valótlan nyilatkozatot tesz, vagy a nyilatkozattételt megtagadja;
+- d) súlyosan erőszakos magatartást tanúsít.
 
-(4) A 30. § (2)–(4) és (7) bekezdésben foglaltakat a (3) bekezdés alapján hozott döntésekre is megfelelően alkalmazni kell.
+(2) A befogadás anyagi feltételei, valamint a külön jogszabályban meghatározott ellátások és támogatások korlátozásáról, megvonásáról, illetve megtagadásáról a menekültügyi hatóság, illetve a jegyző határozattal dönt.
 
-(5) Ha a menekültügyi hatóság a (3) bekezdés alapján a befogadás anyagi feltételeit, illetve a külön jogszabályban meghatározott ellátást vagy támogatást megvonta vagy megtagadta, az erről rendelkező végzéssel szemben bírósági felülvizsgálatnak van helye.
+(3) A 30. § (2)–(3) és (5)–(9) bekezdéseiben foglaltakat az (1) bekezdés alapján hozott döntésekre is megfelelően alkalmazni kell.
 
-(6) A felülvizsgálati kérelmet a végzés közlésétől számított három napon belül a menekültügyi hatóságnál kell benyújtani. A menekültügyi hatóság a felülvizsgálati kérelmet az ügy irataival és ellenkérelmével együtt haladéktalanul megküldi a bíróságnak. A felülvizsgálati kérelem benyújtásának a menekültügyi hatóság végzésének végrehajtására halasztó hatálya van.
+32/B. § (1) A 32/A. § (1) bekezdés alapján hozott határozatokkal szemben bírósági felülvizsgálatnak van helye.
 
-(7) A felülvizsgálati kérelemről a bíróság – a felülvizsgálati kérelem beérkezésétől számított nyolc napon belül – nemperes eljárásban, a rendelkezésre álló iratok alapján dönt. Az eljárásban szükség esetén személyes meghallgatásnak van helye.
+(2) A bíróság a menekültügyi hatóság, valamint a jegyző határozatát megváltoztathatja. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
 
-(8) A bíróság a menekültügyi hatóság határozatát megváltoztathatja. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
+(3) A felülvizsgálati kérelmet a határozat közlésétől számított három napon belül a menekültügyi hatóságnál kell benyújtani. A menekültügyi hatóság a felülvizsgálati kérelmet az ügy irataival és ellenkérelmével együtt haladéktalanul megküldi a bíróságnak. A felülvizsgálati kérelem benyújtásának a határozatban foglaltak végrehajtására nincs halasztó hatálya.
 
-(9) A menekült, az oltalmazott és a menedékes a társadalmi beilleszkedéséhez külön jogszabályban meghatározott elő-integrációs ellátásra és támogatásra jogosult.
-
-(10) A menekült, az oltalmazott és a menedékes, ha származási országába kíván visszatérni, vagy más olyan országba települne, amely hajlandó befogadni, az utazás költségeinek részben vagy egészben történő fedezéséhez támogatásban részesíthető.
+(4) A felülvizsgálati kérelemről a bíróság – a felülvizsgálati kérelem beérkezésétől számított hat munkanapon belül – nemperes eljárásban, a rendelkezésre álló iratok alapján dönt. Az eljárásban szükség esetén személyes meghallgatásnak van helye.
 
 ### VII. Fejezet — A MENEKÜLTÜGYI ELJÁRÁS ÁLTALÁNOS SZABÁLYAI
 
@@ -367,7 +377,7 @@ a menedékjogról a következő törvényt alkotja:
 
 (5) Ha a cselekvőképtelen személy személyesen kíván elismerés iránti kérelmet előterjeszteni, a menekültügyi hatóság köteles a menekültügyi eljárásba a cselekvőképtelen személy helyett a törvényes képviselőjét bevonni, ennek hiányában ügygondnok kirendelését kérni.
 
-(6) Ha az elismerését kérő kísérő nélküli kiskorú, a menekültügyi hatóság haladéktalanul intézkedik a kiskorú képviseletét ellátó ügygondnok kirendelése iránt.
+(6) Ha az elismerését kérő kísérő nélküli kiskorú, a menekültügyi hatóság haladéktalanul intézkedik a kiskorú képviseletét ellátó ügygondnok kirendelése iránt, kivéve, ha az elismerését kérő minden valószínűség szerint eléri nagykorúságát, mielőtt a menekültügyi hatóság az ügy érdemére vonatkozó döntését meghozza.
 
 (7) A kísérő nélküli kiskorú ügyében a menekültügyi eljárást soron kívül kell lefolytatni.
 
@@ -377,6 +387,8 @@ a menedékjogról a következő törvényt alkotja:
 
 [(10) A menekültügyi hatóság az elismerés iránti kérelem benyújtásakor intézkedik az elismerését kérő arcképmásának, valamint ujjnyomatának rögzítése iránt.]
 
+35/A. § A fogvatartott elismerését kérő ügyében a menekültügyi eljárást soron kívül kell lefolytatni.
+
 ### Az elismerését kérő eljárási jogai és kötelezettségei
 
 36. § (1) Az elismerését kérő a menekültügyi eljárásban szóban és írásban használhatja az anyanyelvét vagy azt a nyelvet, amelyet megért.
@@ -385,13 +397,15 @@ a menedékjogról a következő törvényt alkotja:
 
 (3) A végzést az elismerését kérővel írásban kell közölni.
 
-(4) A menekültügyi hatóság a döntés közléséről – ha e törvény eltérően nem rendelkezik – annak meghozatalát követő három napon belül köteles gondoskodni.
+(4) A menekültügyi hatóság a döntés közléséről – ha e törvény eltérően nem rendelkezik – annak meghozatalát követő öt munkanapon belül köteles gondoskodni.
 
-(5) A hirdetmény útján közölt döntést a hirdetmény kifüggesztését követő nyolcadik napon kell közöltnek tekinteni. A hirdetmény nem tartalmazhatja az ügy tárgyát, az elismerését kérő személyes adatai közül pedig kizárólag családi és utóneve tüntethető fel.
+(5) A hirdetmény útján közölt döntést a hirdetmény kifüggesztését követő nyolcadik napon kell közöltnek tekinteni. A hirdetmény nem tartalmazhatja az ügy tárgyát, az elismerését kérő személyes adatai közül pedig kizárólag családi és utóneve tüntethető fel. A hirdetmény kizárólag a menekültügyi hatóság hirdetőtábláján helyezhető el. Hirdetményi közlést követően a döntés közlésére vonatkozóan a kapcsolattartás általános szabályai nem alkalmazhatók.
 
 (6) A menekültügyi hatóság tolmácsot – a tolmáccsal kötött szerződés alapján – kirendelő végzés nélkül is igénybe vehet.
 
 (7) A menekültügyi eljárásban a tolmácsolási költséget, továbbá a jeltolmácsolás költségeit a menekültügyi hatóság viseli.
+
+(8) Az elismerését kérőnek bírósági felülvizsgálat iránti kérelme előterjesztésekor a menekültügyi hatóság előtt személyesen meg kell jelennie.
 
 37. § (1) A menekültügyi hatóság köteles az elismerését kérőt eljárási jogairól, kötelezettségeiről, továbbá a kötelezettség megszegésének jogkövetkezményeiről – az anyanyelvén vagy az általa értett más nyelven – a kérelem benyújtásával egyidejűleg írásban tájékoztatni.
 
@@ -443,7 +457,7 @@ a menedékjogról a következő törvényt alkotja:
 
 ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arról, hogy az elismerését kérő elismerés iránti kérelmet nyújtott be, vagy a kapcsolatfelvétel következtében az elismerését kérő, illetve valamely családtagja testi épségét vagy az elismerését kérő származási országában élő családtagjának szabadságát vagy biztonságát veszély fenyegetné.
 
-(2) Az (1) bekezdés nem alkalmazható, ha ugyanaz a kérelmező azt követően nyújt be kérelmet, hogy két korábbi kérelme tárgyában jogerős elutasító, illetve megszüntető döntés született, és a menekültügyi hatóság a visszaküldés tilalmának fennállását nem állapította meg.
+(2) Az (1) bekezdés nem alkalmazható, ha ugyanaz a kérelmező azt követően nyújt be kérelmet, hogy korábbi kérelme tárgyában jogerős elutasító, illetve megszüntető döntés született, és magyar hatóság vagy bíróság a visszaküldés tilalmának fennállását nem állapította meg.
 
 43. § (1) Az elismerését kérő személyes meghallgatása – ha e törvény kivételt nem tesz – a menekültügyi eljárásban kötelező.
 
@@ -469,26 +483,23 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (4) Az (1) vagy a (2) bekezdés szerinti tilalom fennállása esetén a menekültügyi hatóság javaslatára az idegenrendészeti hatóság a külföldit befogadottként ismeri el.
 
-(5) Az (1) és a (2) bekezdés szerinti tilalom fenn nem állása esetén a menekültügyi hatóság az elismerés iránti kérelmet elutasító döntésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról, és kötelezi a Magyar Köztársaság területének elhagyására.
+(5) Az (1) és a (2) bekezdés szerinti tilalom fenn nem állása esetén a menekültügyi hatóság az elismerés iránti kérelmet elutasító döntésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról.
 
-(6) Az (1) és a (2) bekezdés szerinti tilalom fenn nem állása esetén a menekültügyi hatóság az elismerés visszavonására vonatkozó döntésében rendelkezik a külföldi Magyar Köztársaság által kiadott úti okmányának, továbbá személyazonosító igazolványának, valamint személyi azonosítót és lakcímet igazoló hatósági igazolványának vagy személyazonosságát igazoló okmányának elvételéről, egyidejűleg kötelezi a Magyar Köztársaság területének elhagyására.
+(6) Az (1) és a (2) bekezdés szerinti tilalom fenn nem állása esetén a menekültügyi hatóság az elismerés visszavonására vonatkozó döntésében rendelkezik a külföldi Magyar Köztársaság által kiadott úti okmányának, továbbá személyazonosító igazolványának, valamint személyi azonosítót és lakcímet igazoló hatósági igazolványának vagy személyazonosságát igazoló okmányának elvételéről.
 
-(7) Az ország elhagyására vonatkozó kötelezettség teljesítésére legalább tíz, legfeljebb harminc napos határidőt kell biztosítani.
+(7)–(9)
 
-(8) A Magyar Köztársaság területének elhagyására vonatkozó kötelezést mellőzni kell, ha a külföldi
-
-- a) a Magyar Köztársaság területén más jogcímen tartózkodásra jogosult;
-- b) a döntéshozatal időpontjában olyan állapotban van, hogy az országelhagyási kötelezettség végrehajtása egészségének súlyos, visszafordíthatatlan vagy maradandó romlását, illetve életveszélyes állapotát idézné elő, és mindezt igazságügyi orvosszakértői vélemény igazolja.
-
-(9) A külföldit kötelezni kell a Magyar Köztársaság területének elhagyására, ha a (8) bekezdés b) pont szerinti veszélyeztetett állapota megszűnt.
+(10) A (3) bekezdésben foglaltak nem alkalmazhatók, ha a kérelmező származási országa nem igazolt, vagy valószínűsített.
 
 ### Kizárt eljárások
 
-46. § A menekültügyi eljárásban nincs helye
+46. § A menekültügyi hatóság által lefolytatott eljárásban nincs helye
 
-- a) fellebbezésnek, újrafelvételi eljárásnak és méltányossági eljárásnak;
+- a) fellebbezésnek, újrafelvételi eljárásnak;
 - b) az eljárás kérelemre történő felfüggesztésének;
-- c) elektronikus ügyintézésnek.
+- c) elektronikus kapcsolattartásnak;
+- d) a jogszabálysértő döntés visszavonásáról rendelkező döntés elleni jogorvoslatnak;
+- e) kézbesítési ügygondnok kijelölésének.
 
 ### VIII. Fejezet — A MENEKÜLTKÉNTI VAGY OLTALMAZOTTKÉNTI ELISMERÉSRE IRÁNYULÓ ELJÁRÁS
 
@@ -496,9 +507,12 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 47. § (1) A menekültügyi hatóság a menekültkénti vagy oltalmazottkénti elismerés iránti kérelmet (e fejezetben a továbbiakban: kérelem) a benyújtását követően előzetes vizsgálatnak veti alá.
 
-(2) Az előzetes vizsgálati eljárást tizenöt napon belül kell lefolytatni. Az ügyintézési határidő nem hosszabbítható meg.
+(2) Az előzetes vizsgálati eljárást huszonkét munkanapon belül kell lefolytatni. Az ügyintézési határidő nem hosszabbítható meg.
 
-48. § (1) A menekültügyi hatóság a menekültkénti vagy oltalmazottkénti elismerését kérő külföldit (e fejezetben a továbbiakban: kérelmező) az előzetes vizsgálati eljárást lezáró döntés vagy a 49. § (4) bekezdés alapján a kérelmező átadásáról hozott végzés jogerőre emelkedéséig befogadó állomáson helyezi el, kivéve, ha a kérelmező személyi szabadságot korlátozó intézkedés vagy büntetés hatálya alatt áll.
+48. § (1) A menekültügyi hatóság a menekültkénti vagy oltalmazottkénti elismerését kérő külföldit (e fejezetben a továbbiakban: kérelmező) az előzetes vizsgálati eljárást lezáró döntés vagy a 49. § (4) bekezdés alapján a kérelmező átadásáról hozott végzés jogerőre emelkedéséig befogadó állomáson helyezi el, kivéve, ha a kérelmező
+
+- a) személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy büntetés, vagy idegenrendészeti eljárásban korábban elrendelt személyi szabadságot korlátozó intézkedés hatálya alatt áll, vagy
+- b) jogszerűen tartózkodik a Magyar Köztársaság területén és nem kéri befogadó állomáson történő elhelyezését. [(1a) A menekültügyi hatóság a kísérő nélküli kiskorú gyermekvédelmi intézményben történő elhelyezéséről intézkedik.]
 
 (2) A kérelmező a befogadó állomásról csak különösen indokolt esetben, a menekültügyi hatóság engedélyével távozhat el, feltéve, hogy távolléte az eljárási cselekmények lefolytatását nem akadályozza.
 
@@ -508,7 +522,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (3) A (2) bekezdés szerinti eljárást felfüggesztő végzéssel szemben jogorvoslatnak nincs helye.
 
-(4) Ha a dublini eljárás során megkeresett tagállam a kérelmező átvételére és a kérelem vizsgálatára köteles, a menekültügyi hatóság a kérelmező átadásáról végzéssel dönt.
+(4) Ha a dublini eljárás során megkeresett tagállam a kérelmező átvételére és a kérelem vizsgálatára köteles, a menekültügyi hatóság a kérelmező átadásáról végzéssel dönt. Az átadásról hozott végzés közlését követően a kérelem visszavonásának nincs helye.
 
 (5) A menekültügyi hatóság az átadásról hozott végzésben rendelkezik arról, hogy a külföldi az átadás végrehajtásáig, de legfeljebb 72 óráig a számára kijelölt tartózkodási helyet az átadás végrehajtásának biztosítása érdekében nem hagyhatja el.
 
@@ -526,14 +540,36 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (3) Ha a kérelmezőt és a kérelem vizsgálatát a megkeresett tagállam nem veszi át, az előzetes vizsgálati eljárást – az 51. §-ban foglaltak szerint – folytatni kell.
 
-51. § (1) Ha a dublini rendeletek alkalmazásának feltételei nem állnak fenn, a menekültügyi hatóság dönt a kérelem elfogadhatósága kérdésében.
+51. § (1) Ha a dublini rendeletek alkalmazásának feltételei nem állnak fenn, a menekültügyi hatóság dönt a kérelem elfogadhatósága kérdésében, valamint dönt arról, hogy fennállnak-e a kérelem nyilvánvaló megalapozatlansága megállapításának feltételei.
 
 (2) Elfogadhatatlan a kérelem, ha
 
 - a) a kérelmező az Európai Unió valamely tagállamának állampolgára;
 - b) a kérelmezőt más tagállam menekültként ismerte el;
 - c) a kérelmezőt valamely harmadik ország menekültként ismerte el, feltéve, hogy ez a védelem a kérelem elbírálásakor is fennáll, és a szóban forgó harmadik ország a kérelmezőt visszafogadja;
-- d) a jogerős elutasító döntést követően ugyanaz a személy azonos ténybeli alapon nyújt be kérelmet.
+- d) a jogerős elutasító döntést követően ugyanaz a személy azonos ténybeli alapon nyújt be kérelmet;
+- e) a kérelmező vonatkozásában van olyan ország, amely rá nézve biztonságos harmadik országnak minősül.
+
+(3) A (2) bekezdés e) pontja alapján a kérelem elfogadhatatlanságának megállapítására csak abban az esetben kerülhet sor, ha a kérelmező
+
+- a) a biztonságos harmadik országban tartózkodott, és lehetősége lett volna ebben az országban a 2. § i) pontjában foglaltaknak megfelelő hatékony védelem igénylésére;
+- b) annak területén átutazott, és lehetősége lett volna ebben az országban a 2. § i) pontjában foglaltaknak megfelelő hatékony védelem igénylésére;
+- c) ott rokoni kapcsolatokkal rendelkezik és az ország területére beléphet vagy;
+- d) a biztonságos harmadik ország az elismerését kérő kiadatását kéri.
+
+(4) A (3) bekezdés a)–b) pontjában foglaltak esetén az elismerését kérőnek kell bizonyítania, hogy ebben az országban nem volt lehetősége hatékony védelemre a 2. § i) pontjában foglaltak értelmében.
+
+(5) A kérelem nyilvánvalóan megalapozatlan, ha a kérelmező
+
+- a) mind menekültkénti, mind oltalmazottkénti elismerés szempontjából csak kevésbé lényeges vagy lényegtelen információkat közöl;
+- b) rosszhiszemű magatartása következtében nem tudja igazolni vagy valószínűsíteni származási országát, vagy;
+- c) ésszerű időn belül nem terjesztett elő elismerés iránti kérelmet, bár módja lett volna azt korábban benyújtani, és a késedelem kimentésére nem tud ésszerű okot előadni.
+
+(6) A kérelem nem kerülhet elutasítására kizárólag az (5) bekezdés c) pontja alapján.
+
+(7) A menekültügyi hatóság a nyilvánvalóan megalapozatlanság kérdéskörében az elismerés iránti kérelmet érdemben vizsgálja, hogy fennállnak-e a menekültkénti vagy oltalmazottkénti elismerés feltételei.
+
+(8) Amennyiben a kérelem alapját részben vagy egészében a 6. § (2) bekezdésében vagy a 12. § (2) bekezdésében foglalt körülmények jelentik, az (5) bekezdés c) pontjában foglalt ésszerű időt e körülmények beálltától kell számolni.
 
 52. § (1) Az előzetes vizsgálati eljárás megszűnik, ha a kérelmező meghal.
 
@@ -542,62 +578,50 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 - a) kérelmét írásban visszavonja;
 - b) a nyilatkozattételt megtagadja, és ezzel a kérelem elfogadhatóságának elbírálását megakadályozza;
 - c) a személyes meghallgatáson írásbeli felszólításra nem jelenik meg, és távolmaradását megfelelően nem igazolja;
-- d) ismeretlen helyre távozott.
+- d) ismeretlen helyre távozott;
+- e) kiutasításának vagy kiadatásának végrehajtására került sor az 54. § a) pontja alapján;
+- f) ujjnyomatának vagy arcképmásának rögzítését megakadályozza, vagy lehetetlenné teszi.
 
-(3) A menekültügyi hatóság az előzetes vizsgálati eljárást megszüntető végzésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról, és kötelezi a Magyar Köztársaság területének elhagyására. Az ország elhagyására vonatkozó kötelezettség teljesítésére legalább tíz, legfeljebb harminc napos határidőt kell biztosítani. A megszüntető végzés közléséről a menekültügyi hatóság haladéktalanul gondoskodik.
+(3) A menekültügyi hatóság az előzetes vizsgálati eljárást megszüntető végzésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról.
 
-(4) Az előzetes vizsgálati eljárást megszüntető végzéssel szemben jogorvoslatnak nincs helye, a kérelmező azonban – a megszüntető végzés közlésétől számított három napon belül – az előzetes vizsgálati eljárás folytatását kérheti a menekültügyi hatóságnál. Az előzetes vizsgálati eljárás folytatása iránti kérelem előterjesztésére rendelkezésre álló határidő elmulasztása miatt igazolási kérelem benyújtásának nincs helye.
+(4)–(8)
 
-(5) Az előzetes vizsgálati eljárást megszüntető végzés jogerőssé válik, ha a külföldi a végzés közlésétől számított három napon belül az eljárás folytatását nem kéri.
+53. § (1) A menekültügyi hatóság a kérelmet részletes vizsgálat nélkül elutasítja, ha az 51. § (2) bekezdésében vagy az 51. § (5) bekezdésében foglalt valamely feltétel fennállását állapítja meg.
 
-(6) Az elkésett kérelmet érdemi vizsgálat nélkül elutasító végzéssel szemben jogorvoslatnak nincs helye.
+(2) A menekültügyi hatóság a kérelmet elfogadhatatlanság miatt végzéssel, nyilvánvalóan megalapozatlanság miatt határozattal utasítja el. A döntéssel szemben bírósági felülvizsgálatnak van helye.
 
-(7) A menekültügyi hatóság az előzetes vizsgálati eljárást a határidőben benyújtott kérelem alapján köteles folytatni.
-
-(8) A (7) bekezdésben meghatározott esetben az előzetes vizsgálati eljárás ügyintézési határideje a megszüntető végzés meghozatalának időpontjában megszakad. Az ügyintézési határidő az előzetes vizsgálati eljárás folytatása esetén nem kezdődik újra.
-
-53. § (1) A menekültügyi hatóság a kérelmet érdemi vizsgálat nélkül elutasítja, ha
-
-- a) az 51. § (2) bekezdésben foglalt valamely feltétel fennállását állapítja meg, vagy
-- b) az 52. § (7) bekezdés alapján folytatott előzetes vizsgálati eljárásban az 52. § (2) bekezdésben meghatározott megszüntetési ok merül fel.
-
-(2) A kérelmet érdemi vizsgálat nélkül elutasító végzéssel szemben bírósági felülvizsgálatnak van helye.
-
-(3) A felülvizsgálati kérelmet a végzés közlésétől számított három napon belül a menekültügyi hatóságnál kell benyújtani. A menekültügyi hatóság a felülvizsgálati kérelmet az ügy irataival és ellenkérelmével együtt haladéktalanul megküldi a bíróságnak. A felülvizsgálati kérelem benyújtásának a menekültügyi hatóság végzésének végrehajtására halasztó hatálya van.
+(3) A felülvizsgálati kérelmet a döntés közlésétől számított három napon belül a menekültügyi hatóságnál kell benyújtani. A menekültügyi hatóság a felülvizsgálati kérelmet az ügy irataival és ellenkérelmével együtt haladéktalanul megküldi a bíróságnak. A felülvizsgálati kérelem benyújtásának a menekültügyi hatóság végzésének végrehajtására halasztó hatálya van.
 
 (4) A felülvizsgálati kérelemről a bíróság – a felülvizsgálati kérelem beérkezésétől számított nyolc napon belül – nemperes eljárásban, a rendelkezésre álló iratok alapján dönt. Az eljárásban szükség esetén személyes meghallgatásnak van helye.
 
-(5) A bíróság a menekültügyi hatóság határozatát megváltoztathatja. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
+(5) A bíróság a menekültügyi hatóság döntését megváltoztathatja. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
 
-54. § Ha ugyanaz a kérelmező azt követően nyújt be kérelmet, hogy két korábbi kérelme tárgyában jogerős elutasító, illetve megszüntető döntés született, és a menekültügyi hatóság a visszaküldés tilalmának fennállását nem állapította meg,
+54. § Ha ugyanaz a kérelmező azt követően nyújt be kérelmet, hogy korábbi kérelme tárgyában jogerős elutasító, illetve megszüntető döntés született, és magyar hatóság vagy bíróság legutóbbi döntésében a visszaküldés tilalmának fennállását nem állapította meg,
 
 - a) a kérelem benyújtásának nincs halasztó hatálya
-  - aa) az országelhagyási kötelezettség teljesítésére;
-  - ab) az országelhagyási kötelezettség nem teljesítése esetén a kiutasítás végrehajtására;
-  - ac) a külföldi kiadatási eljárásban történő átadására;
+  - aa) a kiutasítás végrehajtására;
+  - ab) a külföldi kiadatási eljárásban történő átadására;
 - b) a külföldit nem illetik meg az 5. § (1) bekezdés a)–c) pontjában foglalt jogosultságok.
 
-55. § (1) Ha a menekültügyi hatóság a kérelem elfogadhatóságát állapítja meg, a kérelmet érdemi eljárásra utalja.
+55. § (1) A menekültügyi hatóság a kérelmet részletes vizsgálati eljárásra utalja, amennyiben a kérelem elfogadhatóságát állapítja meg, és a kérelem nem nyilvánvalóan megalapozatlan.
 
-(2) Az érdemi eljárásra utaló végzéssel szemben jogorvoslatnak nincs helye.
+(2) A részletes vizsgálati eljárásra utaló végzéssel szemben jogorvoslatnak nincs helye.
 
-(3) Ha a menekültügyi hatóság a kérelmet érdemi eljárásra utalja, és a kérelmező idegenrendészeti őrizetben van, a menekültügyi hatóság kezdeményezésére az idegenrendészeti hatóság az őrizetet megszünteti.
+(3)
 
-### Az érdemi eljárás
+### A részletes vizsgálati eljárás
 
-56. § (1) A menekültügyi hatóság a kérelmet érdemi eljárásra utaló végzésben a kérelmező részére szálláshelyként – kérelmére – magánszálláshelyet, ennek hiányában befogadó állomást vagy szerződés alapján fenntartott más szálláshelyet jelöl ki.
+56. § (1) A menekültügyi hatóság a kérelmet részletes vizsgálati eljárásra utaló végzésben a kérelmező részére szálláshelyként – kérelmére – magánszálláshelyet, ennek hiányában befogadó állomást vagy szerződés alapján fenntartott más szálláshelyet jelöl ki, kivéve, ha a kérelmező személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy büntetés, vagy idegenrendészeti eljárásban korábban elrendelt személyi szabadságot korlátozó intézkedés hatálya alatt áll.
 
-(2) A kérelmező az érdemi eljárás alatt köteles a számára kijelölt szálláshelyen életvitelszerűen tartózkodni.
+[(1a) A menekültügyi hatóság a kísérő nélküli kiskorú részére szálláshelyként gyermekvédelmi intézményt jelöl ki.]
 
-(3) Az érdemi eljárást az érdemi eljárásra utaló végzés meghozatalától számított hatvan napon belül kell lefolytatni.
+(2) A kérelmező a részletes vizsgálati eljárás, valamint a részletes vizsgálati eljárásban hozott döntés bírósági felülvizsgálatának ideje alatt köteles a számára kijelölt szálláshelyen életvitelszerűen tartózkodni.
 
-57. § (1) Az érdemi eljárásban a Nemzetbiztonsági Hivatal szakhatóságként vesz részt.
+(3) A részletes vizsgálati eljárást a részletes vizsgálati eljárásra utaló végzés meghozatalától számított negyvenöt munkanapon belül kell lefolytatni.
 
-(2) A szakhatósági eljárás ügyintézési határideje negyvenöt nap, amely nem hosszabbítható meg.
+57. § A részletes vizsgálati eljárásban e törvény végrehajtási rendeletében meghatározott rendvédelmi szerv szakhatóságként vesz részt.
 
-(3) A szakhatósági eljárás időtartama az érdemi eljárás ügyintézési határidejébe beszámít.
-
-58. § (1) A menekültügyi hatóság az érdemi eljárás során megvizsgálja, hogy
+58. § (1) A menekültügyi hatóság az részletes vizsgálati eljárás során megvizsgálja, hogy
 
 - a) fennállnak-e a kérelmező menekültkénti elismerésének feltételei, továbbá
 - b) nem áll-e fenn a kérelmező menekültkénti elismerését kizáró ok.
@@ -607,15 +631,12 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 - a) fennállnak-e a kérelmező oltalmazottkénti elismerésének feltételei, továbbá
 - b) nem áll-e fenn a kérelmező oltalmazottkénti elismerését kizáró ok.
 
-(3) Alaptalan a kérelem, ha
-
-- a) a menekültkénti elismerés feltételei nem állnak fenn, vagy a menekültkénti elismerés a 8. § (1) bekezdés alapján kizárt, és
-- b) az oltalmazottkénti elismerés feltételei nem állnak fenn, vagy az oltalmazottkénti elismerés a 15. § alapján kizárt.
+(3) Alaptalan a kérelem, ha a menekültkénti elismerés feltételei nem állnak fenn, vagy a menekültkénti elismerés a 8. § (1) bekezdés alapján kizárt.
 
 59. § (1) A menekültkénti, illetve az oltalmazottkénti elismerés feltételei fennállásának hiányára utal különösen, ha a kérelmező
 
 - a) származási országa biztonságos származási országnak tekinthető;
-- b) olyan országból érkezett, amely rá nézve biztonságos harmadik országnak minősül;
+- b)
 - c) nem tárja fel a menekülésre okot adó tényeket és körülményeket, vagy az ezekre vonatkozó nyilatkozata olyan mértékben összefüggéstelen vagy ellentmondásos, hogy abból nem lehet arra következtetni, hogy őt üldözés vagy súlyos sérelem érte vagy ezek veszélye áll fenn;
 - d) a személyazonosító adataira, illetve az állampolgárságára vonatkozóan szándékosan hamis adatot közöl;
 - e) személyazonosságának igazolására, illetve a beutazáshoz szándékosan hamis vagy meghamisított okmányt használ fel, és az okmány valótlan tartalmához ragaszkodik;
@@ -647,7 +668,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 - a) az az állam, ahonnan a kérelmező menekülni kényszerült;
 - b) az a) pont szerinti államot vagy annak jelentős részét ellenőrzése alatt tartó párt vagy szervezet;
-- c) az a) vagy b) pontban foglaltaktól független személy vagy szervezet, feltéve, hogy az a) pont szerinti állam és a b) pont szerinti párt vagy szervezet nem tud vagy nem kíván az üldözéssel, illetve a súlyos sérelemmel szemben védelmet nyújtani.
+- c) az a) vagy b) pontban foglaltaktól független személy vagy szervezet, feltéve, hogy az a) pont szerinti állam és a b) pont szerinti párt vagy szervezet, illetve valamely, az államterület egy jelentős részét ellenőrzés alatt tartó nemzetközi szervezet nem tud, vagy nem kíván az üldözéssel, illetve a súlyos sérelemmel szemben védelmet nyújtani.
 
 63. § (1) Az üldöztetéssel vagy súlyos sérelemmel szembeni védelem akkor tekinthető biztosítottnak, ha abban az államban, ahonnan a kérelmező menekülni kényszerül, hatékony eszközök állnak rendelkezésre az üldöztetés, illetve a súlyos sérelem megakadályozására, valamint az üldöztetést megvalósító vagy súlyos sérelmet előidéző cselekmények elkövetőinek megbüntetésére, és a kérelmező ezt a védelmet igénybe veheti.
 
@@ -671,29 +692,27 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 65. § A kérelmező menekültkénti elismerésének feltételei akkor állnak fenn, ha a 6. § (1) bekezdés szerinti üldözési okok és a 60. § értelmében üldözésnek minősülő cselekmények között összefüggés állapítható meg.
 
-66. § (1) Az érdemi eljárás megszűnik, ha a kérelmező meghal.
+66. § (1) A részletes vizsgálati eljárás megszűnését a menekültügyi hatóság végzéssel állapítja meg, ha a kérelmező meghalt. A végzés ellen jogorvoslatnak nincs helye.
 
-(2) A menekültügyi hatóság az érdemi eljárást megszünteti, ha
+(2) A menekültügyi hatóság a részletes vizsgálati eljárást megszünteti, ha
 
-- a) az 52. § (2) bekezdés a), c) vagy d) pontjában foglalt feltétel fennáll;
+- a) az 52. § (2) bekezdés a), c), d), e) vagy f) pontjában foglalt feltétel fennáll;
 - b) a kérelmező a nyilatkozattételt megtagadja, és ezzel a kérelem érdemi elbírálását megakadályozza;
-- c) az 51. § (2) bekezdés alapján a kérelem érdemi vizsgálat nélküli elutasításának lett volna helye, az elutasítási ok azonban az érdemi eljárás megindítását követően jutott a menekültügyi hatóság tudomására.
+- c) az 51. § (2) vagy (5) bekezdés alapján a kérelem részletes vizsgálati eljárás nélküli elutasításának lett volna helye, az elutasítási ok azonban a részletes eljárás megindítását követően jutott a menekültügyi hatóság tudomására.
 
-(3) Ha a menekültügyi hatóság az érdemi eljárást a (2) bekezdés a) vagy b) pontja alapján szünteti meg, a továbbiakban az 52. § (3)–(8) bekezdésben foglaltakat kell megfelelően alkalmazni.
+(3) Ha a menekültügyi hatóság a részletes vizsgálati eljárást a (2) bekezdés a) vagy b) pontja alapján szünteti meg, a továbbiakban az 52. § (3) bekezdésben foglaltakat kell megfelelően alkalmazni.
 
-(4) Ha az érdemi eljárás (3) bekezdés szerinti folytatása során a (2) bekezdés a) vagy b) pontjában foglalt megszüntetési ok merül fel, a menekültügyi hatóság a kérelmet elutasítja.
-
-(5) Az érdemi eljárást a (2) bekezdés c) pontja alapján megszüntető végzéssel szemben – az 53. § (2)–(5) bekezdésben foglaltaknak megfelelően – bírósági felülvizsgálatnak van helye.
+(4) A részletes vizsgálati eljárást a (2) bekezdés c) pontja alapján megszüntető végzéssel szemben – az 53. § (3)–(5) bekezdésben foglaltaknak megfelelően – bírósági felülvizsgálatnak van helye.
 
 67. § (1) Ha a menekültügyi hatóság megállapítja a kérelem alaptalanságát, a kérelmet elutasítja.
 
-(2) A menekültügyi hatóság a kérelemnek helyt adó határozat közlésével egyidejűleg a menekültként vagy oltalmazottként elismert külföldit – az anyanyelvén vagy az általa értett más nyelven – írásban tájékoztatja a jogairól és kötelezettségeiről.
+(2) A menekültügyi hatóság az elismerésről szóló határozat közlésével egyidejűleg a menekültként vagy oltalmazottként elismert külföldit – az anyanyelvén vagy az általa értett más nyelven – írásban tájékoztatja a jogairól és kötelezettségeiről.
 
 68. § (1) A kérelmet elutasító határozattal szemben bírósági felülvizsgálatnak van helye.
 
 (2) A keresetlevelet a határozat közlésétől számított tizenöt napon belül a menekültügyi hatóságnál kell benyújtani. A menekültügyi hatóság a keresetlevelet az ügy irataival és ellenkérelmével együtt haladéktalanul megküldi a bíróságnak. A keresetlevél benyújtásának a menekültügyi hatóság határozatának végrehajtására – az 54. §-ban foglalt eset kivételével – halasztó hatálya van.
 
-(3) A keresetről a bíróság – a keresetlevél beérkezésétől számított hatvan napon belül – peres eljárásban dönt.
+(3) A keresetről a bíróság – a keresetlevél beérkezésétől számított negyvenöt munkanapon belül – peres eljárásban dönt. Amennyiben a kérelmező személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy büntetés, vagy idegenrendészeti eljárásban korábban elrendelt személyi szabadságot korlátozó intézkedés hatálya alatt áll, a bíróság soron kívül jár el.
 
 (4) A bírósági eljárásban a kérelmező személyes meghallgatása kötelező. A személyes meghallgatást a bíróság mellőzi, ha
 
@@ -713,9 +732,9 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 ### Dublini eljárás
 
-70. § (1) Ha az érdemi eljárás során a dublini eljárás lefolytatásának feltételei állnak fenn, a 49. § (2)–(9), valamint az 50. § (1)–(2) bekezdésben foglaltakat kell megfelelően alkalmazni.
+70. § (1) Ha a részletes vizsgálati eljárás során a dublini eljárás lefolytatásának feltételei állnak fenn, a 49. § (2)–(9) bekezdésében, valamint az 50. § (1)–(2) bekezdésében foglaltakat kell megfelelően alkalmazni.
 
-(2) Ha a kérelmezőt és a kérelem vizsgálatát a megkeresett tagállam nem veszi át, az érdemi eljárást folytatni kell.
+(2) Ha a kérelmezőt és a kérelem vizsgálatát a megkeresett tagállam nem veszi át, a részletes vizsgálati eljárást folytatni kell.
 
 ### A menedékes kérelmére vonatkozó szabályok
 
@@ -731,7 +750,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (3) A menekültügyi hatóság a kérelmezőt a repülőtér tranzitterületén található szálláshelyen helyezi el.
 
-(4) A repülőtéri eljárásban az előzetes vizsgálati eljárást nyolc napon belül le kell folytatni. Az előzetes vizsgálati eljárás során hozott döntés közléséről a menekültügyi hatóság haladéktalanul gondoskodik.
+(4) A repülőtéri eljárásban az előzetes vizsgálati eljárást öt munkanapon belül le kell folytatni. Az előzetes vizsgálati eljárás során hozott döntés közléséről a menekültügyi hatóság haladéktalanul gondoskodik.
 
 (5) A kérelmezőt a Magyar Köztársaság területére be kell léptetni, ha
 
@@ -741,6 +760,10 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 (6) A repülőtéri eljárás szabályai nem alkalmazhatók, ha a kérelmet különleges bánásmódot igénylő személy nyújtja be.
 
 ### A menekültkénti és az oltalmazottkénti elismerés visszavonása
+
+72/A. § (1) A menekültkénti vagy oltalmazottkénti elismerés visszavonására irányuló eljárás – a jogállásról írásban történő lemondás esetét kivéve – hivatalból indul.
+
+(2) A menekültkénti vagy oltalmazottkénti elismerés visszavonására irányuló eljárásban e törvény VII. Fejezetének rendelkezéseit megfelelően alkalmazni kell.
 
 73. § (1) Ha a menekültügyi hatóság a menekültkénti vagy az oltalmazottkénti elismerés feltételei fennállásának felülvizsgálata során azt állapítja meg, hogy az elismerés visszavonásának van helye, erről a menekültet vagy az oltalmazottat írásban, az anyanyelvén vagy az általa értett más nyelven tájékoztatja.
 
@@ -769,6 +792,10 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (5) A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
 
+### Az oltalmazottkénti elismerés feltételei fennállásának felülvizsgálata
+
+75/A. § Az oltalmazottkénti elismerés feltételei fennállásának felülvizsgálata során e törvény VII. Fejezetének és az 56–68. §-ainak rendelkezéseit megfelelően kell alkalmazni.
+
 ### IX. Fejezet — A MENEDÉKESKÉNTI ELISMERÉSRE IRÁNYULÓ ELJÁRÁS
 
 76. § (1) Az Országgyűlés – a Kormány előterjesztése alapján – a 19. § b) pontja szerinti ideiglenes védelemre jogosultként történő elismerésről határozatot hoz.
@@ -786,13 +813,15 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 - a) nem igazolja vagy valószínűsíti, hogy a 19. § a) vagy b) pontja szerint védelemre jogosult csoport tagja, vagy
 - b) menedékeskénti elismerése a 21. § alapján kizárt.
 
-(3) A külföldi menedékeskénti elismerésére irányuló eljárást negyvenöt napon belül kell lefolytatni. Az ügyintézési határidő nem hosszabbítható meg.
+(3) A külföldi menedékeskénti elismerésére irányuló eljárást harminc munkanapon belül kell lefolytatni. Az ügyintézési határidő nem hosszabbítható meg.
 
-78. § (1) A menekültügyi hatóság a menedékeskénti elismerésre irányuló eljárás során köteles beszerezni a Nemzetbiztonsági Hivatal szakhatósági állásfoglalását.
+(4) A menedékeskénti elismerésre irányuló eljárásban e törvény VII. Fejezetének rendelkezései megfelelően alkalmazandók.
 
-(2) A Nemzetbiztonsági Hivatal köteles a menekültügyi hatóság megkeresésének harminc napon belül eleget tenni. A szakhatósági eljárás ügyintézési határideje nem hoszszabbítható meg.
+78. § (1) A menekültügyi hatóság a menedékeskénti elismerésre irányuló eljárás során köteles beszerezni az e törvény végrehajtási rendeletében meghatározott rendvédelmi szerv szakhatósági állásfoglalását.
 
-(3) A szakhatósági eljárás időtartama az ügyintézési határidőbe beszámít.
+(2) Az e törvény végrehajtási rendeletében meghatározott rendvédelmi szerv köteles a menekültügyi hatóság megkeresésének huszonkét munkanapon belül eleget tenni. A szakhatósági eljárás ügyintézési határideje nem hoszszabbítható meg.
+
+(3)
 
 79. § (1) Ha a menekültügyi hatóság a kérelem alaptalanságát állapítja meg, a kérelmet elutasítja.
 
@@ -801,6 +830,10 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 (3) A menekültügyi hatóság a kérelemnek helyt adó határozat közlésével egyidejűleg a menedékesként elismert külföldit – az anyanyelvén vagy az általa értett más nyelven – írásban tájékoztatja a jogairól és kötelezettségeiről.
 
 ### A menedékeskénti elismerés visszavonása
+
+79/A. § (1) A menedékeskénti elismerés visszavonására irányuló eljárás – a 25. § (2) bekezdés a) és c) pontjában foglalt esetet kivéve – hivatalból indul.
+
+(2) A menedékeskénti elismerés visszavonására irányuló eljárásban e törvény VII. Fejezetének rendelkezéseit megfelelően alkalmazni kell.
 
 80. § (1) Ha a menekültügyi hatóság a 25. § (2) bekezdésben foglalt valamely ok fennállását állapítja meg, a menedékeskénti elismerést visszavonja.
 
@@ -841,22 +874,22 @@ céljából a menekültügyi nyilvántartásban kezeli.
 - e) ha az elismerését kérő dublini eljárás alapján került átvételre, az átvétel tényét és időpontját;
 - f) a menekültkénti vagy oltalmazottkénti, valamint a menedékeskénti elismerés iránti kérelem benyújtásának, valamint a benyújtott kérelem visszavonásának tényét és időpontját;
 - g) a menekültkénti, oltalmazottkénti vagy menedékeskénti elismerés tényét és időpontját, a határozatot hozó hatóság vagy bíróság megnevezését, továbbá azt, hogy a határozat hatálya hány személyre terjed ki;
-- h) az elismerés iránti kérelem elutasításának, a menekültügyi eljárás megszüntetésének, valamint az elismerés visszavonásának tényét, okát és időpontját, az országelhagyási kötelezettség teljesítésének határidejét, a döntéshozó hatóság vagy bíróság megnevezését, továbbá azt, hogy a döntés hatálya hány személyre terjed ki;
+- h) az elismerés iránti kérelem elutasításának, a menekültügyi eljárás megszüntetésének, valamint az elismerés visszavonásának tényét, okát és időpontját, a döntéshozó hatóság vagy bíróság megnevezését, továbbá azt, hogy a döntés hatálya hány személyre terjed ki;
 - i) az elismerését kérő dublini eljárás alapján történő átadásának tényét és okát, az átadásról rendelkező végzés meghozatalának, valamint az elismerését kérő átadásának időpontját, továbbá azt, hogy a végzés hatálya hány személyre terjed ki;
-- j) családi állapotát, foglalkozását, iskolai végzettségét;
-- k) lakóhelyét, tartózkodási helyét, szálláshelyét;
+- j) az elismerését kérő családi állapotát, foglalkozását, iskolai végzettségét;
+- k) az elismerését kérő, valamint az e törvény szerinti támogatásban és ellátásban részesülő menekült, oltalmazott, menedékes lakóhelyét, tartózkodási helyét, szálláshelyét;
 - l) a származási országa nevét;
 - m) a faji vagy nemzeti hovatartozására, meghatározott társadalmi csoporthoz tartozására, illetve vallási, politikai meggyőződésére vonatkozó adatok közül azt, amelyre kérelmének indokolásában hivatkozott;
 - n) a személyazonosságát igazoló és úti okmányainak adatait (az okmány azonosító jelét és számát, érvényességi idejét, a kiállítás időpontját, a kiállító hatóság nevét, a kiállítás helyét);
 - o) a vele együtt érkező családtagok természetes személyazonosító adatait és magyarországi tartózkodásuk jogcímét;
-- p) jövedelmi, vagyoni helyzetére vonatkozó olyan adatokat, amelyeket nyilatkozata, az általa szolgáltatott irat vagy az adóhatóság, illetve a társadalombiztosítási feladatokat ellátó szerv adatszolgáltatása tartalmazott.
+- p) jövedelmi, vagyoni helyzetére vonatkozó olyan adatokat, amelyeket nyilatkozata, az általa szolgáltatott irat vagy az adóhatóság, illetve a társadalombiztosítási feladatokat ellátó szerv adatszolgáltatása tartalmazott;
+- q) a hivatalból indított eljárás tényét és időpontját;
+- r) a menekültügyi eljárás során e törvény alapján foganatosított eljárási cselekmény tényét és időpontját.
 
 (2) A menekültügyi hatóság
 
-- a) az (1) bekezdés a)–o) pontjában meghatározott adatokat a kérelem elutasításától, az eljárás megszüntetésétől vagy az elismerés megszűnésétől,
-- b) az (1) bekezdés p) pontjában meghatározott adatokat az e törvényben és külön jogszabályban meghatározott ellátásra, illetve támogatásra való jogosultság megszűnésétől, illetve a visszatérítendő támogatás teljesítésétől vagy a követelés elévülésétől
-
-számított öt évig kezeli.
+- a) az (1) bekezdés a)–o) és q)–r) pontjában meghatározott adatokat a kérelem elutasításától, az eljárás megszüntetésétől vagy az elismerés megszűnésétől,
+- b) az (1) bekezdés p) pontjában meghatározott adatokat az e törvényben és külön jogszabályban meghatározott ellátásra, illetve támogatásra való jogosultság megszűnésétől, illetve a visszatérítendő támogatás teljesítésétől vagy a követelés elévülésétől számított tíz évig kezeli.
 
 (3) Az ujjnyomat rögzítésének és tárolásának célja az elismerését kérő azonosítása és a kérelem többszöri benyújtásának megállapítása. Az eljáró hatóság a rögzített ujjnyomatot az elismerését kérő igazolt, ennek hiányában az általa közölt természetes személyazonosító adatainak, állampolgárságának, továbbá a kijelölt szálláshelyének megjelölésével haladéktalanul továbbítja a (4) bekezdés szerinti adatfeldolgozó szervnek.
 
@@ -875,6 +908,10 @@ b) a tizenkettedik életévét betöltött elismerését kérő esetében a víz
 [(5) A (4) bekezdésben meghatározott adatkör tekintetében adatfeldolgozó a miniszter rendeletében meghatározott szerv. Az adatoknak az Eurodac központi egységéhez történő továbbításáért, az adatok fogadásáért, illetve azok összehasonlításáért az adatkezelő felel.
 
 (6) A menekültügyi hatóság a (3) bekezdés b) pontjában meghatározott célból rögzített ujjnyomat-adatot kizárólag a VIS rendelet 21. és 22. cikke szerinti keresés elvégzéséhez, annak befejezéséig kezelheti, ezt követően haladéktalanul törli.]
+
+[(8) A menekültügyi hatóság a menedékesként elismert harmadik országbeli állampolgárnak a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerinti arcképmás- és ujjnyomatadatait kezeli.]
+
+[(9) A menekültügyi hatóság a (8) bekezdésben meghatározott célból rögzített ujjnyomatadatot a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet 1. cikk 4. pontjában foglaltak céljából, annak befejezéséig kezelheti.]
 
 84. § (1) A befogadó állomás – az állomáson elhelyezett személyek jogosultságainak biztosítása, valamint az e törvényben és külön jogszabályban meghatározott ellátásra és támogatásra való jogosultság megállapítása céljából – nyilvántartást vezet
 
@@ -923,7 +960,7 @@ b) a tizenkettedik életévét betöltött elismerését kérő esetében a víz
 
 igényelhetnek adatot.
 
-(2) A menekültügyi hatóság a menekültként vagy oltalmazottként történő elismerésről – az érintett természetes személyazonosító adatainak közlésével – tájékoztatja a személyiadat- és lakcímnyilvántartást kezelő központi szervet a nyilvántartásba történő felvétel, illetve személyazonosító igazolvánnyal, valamint személyi azonosítót és lakcímet igazoló hatósági igazolvánnyal történő ellátás céljából.
+(2) A menekültügyi hatóság – az érintett természetes személyazonosító adatainak, családi állapotának és amennyiben házas vagy bejegyzett élettárs a házasságkötése vagy a bejegyzett élettársi kapcsolata létesítési helyének, valamint kijelölt szálláshelye címének közlésével a nyilvántartásba történő felvétel, illetve a személyazonosító igazolvánnyal, valamint a személyi azonosítót és a lakcímet igazoló hatósági igazolvánnyal történő ellátás céljából – a menekültként történő elismerésről tájékoztatja az érintett leendő lakóhelye szerint illetékes települési önkormányzat jegyzőjét az oltalmazottként történő elismerésről a személyiadat- és lakcímnyilvántartást kezelő központi szervet.
 
 (3) Az e törvény alapján kezelt adatok statisztikai célra felhasználhatók, és az azokat tartalmazó nyilvántartásokból személyazonosításra alkalmatlan módon statisztikai célra adatok szolgáltathatók.
 
@@ -982,9 +1019,7 @@ igényelhetnek adatot.
 
 (2) Ahol e törvény a kérelem ismételt benyújtásához jogkövetkezményt fűz, a megelőző kérelmek számának megállapításakor az e törvény hatálybalépése előtt benyújtott kérelmeket is figyelembe kell venni.
 
-92. § (1) A menekültügyi hatóság a külföldiek beutazásáról és tartózkodásáról szóló törvény alapján humanitárius célból tartózkodási engedéllyel ellátott befogadottak jogállását az e törvény hatálybalépését követő tizennyolc hónapon belül felülvizsgálja.
-
-(2) A felülvizsgálat során a menekültügyi hatóság a menekültkénti vagy oltalmazottkénti elismerésre irányuló eljárást hivatalból folytatja le.
+92. §
 
 ### Felhatalmazó rendelkezések
 
@@ -1000,7 +1035,11 @@ igényelhetnek adatot.
 - h) jelölje ki az országinformáció szolgáltatásáért felelős szervet;
 - i) állapítsa meg a hazatérés és a harmadik országban történő letelepedés utazási költségeinek biztosításához nyújtható támogatás feltételeit.
 
+(1a) Felhatalmazást kap a Kormány, hogy kijelölje a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján kiállított tartózkodásra jogosító okmányok biometrikus adatait tartalmazó tároló elemek hitelesítését végző hatóságokat.
+
 (2) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg a Magyar Köztársaság által nemzeti szinten biztonságosnak nyilvánított származási országok listáját.
+
+(2a) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg a 7. § (5) bekezdése alapján évente menekültként elismerhető külföldiek számát.
 
 (3) A miniszter felhatalmazást kap arra, hogy rendeletben
 
@@ -1059,7 +1098,8 @@ b) az egy évet meghaladja, e törvény erejénél fogva válik a gyermek tankö
 - h) a Tanács 2001/55/EK irányelve (2001. július 20.) a lakóhelyüket elhagyni kényszerült személyek tömeges beáramlása esetén nyújtandó átmeneti védelem minimum követelményeiről, valamint a tagállamok e személyek befogadása és a befogadás következményeinek viselése tekintetében tett erőfeszítései közötti egyensúly előmozdítására irányuló intézkedésekről 2. cikk a) és e)–f) pontjai, 3–4. cikk, 7–11. cikk, 13. cikk, 15. cikk, 17–20. cikk, 22–23. cikk, 26. cikk (4) bekezdés, 27–29. cikk, e törvény végrehajtási rendeleteivel együttesen;
 - i) a Tanács 2003/9/EK irányelve (2003. január 27.) a menedékkérők befogadása minimumszabályainak megállapításáról 2. cikk d)–e), h)–j) pontjai, 3–5. cikk, 7–8. cikk, 10–11. cikk, 13–22. cikk, e törvény végrehajtási rendeleteivel együttesen;
 - j) a Tanács 2004/83/EK irányelve (2004. április 29.) a harmadik országok állampolgárainak, illetve a hontalan személyeknek menekültként vagy a más okból nemzetközi védelemre jogosultként való elismerésének feltételeiről és az e státuszok tartalmára vonatkozó minimumszabályokról 2. cikk c), e), h), i), k) pontja, 4–7. cikk, 9–33. cikk, e törvény végrehajtási rendeleteivel együttesen;
-- k) a Tanács 2005/85/EK irányelve (2005. december 1.) a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól 3. cikk, 6–12. cikk, 15–28. cikk, 32. cikk, 34. cikk (3) bekezdés a) pont, 35. cikk, 37–39. cikk, e törvény végrehajtási rendeleteivel együttesen.
+- k) a Tanács 2005/85/EK irányelve (2005. december 1.) a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól 3. cikk, 6–12. cikk, 15–28. cikk, 32. cikk, 34. cikk (3) bekezdés a) pont, 35. cikk, 37–39. cikk, e törvény végrehajtási rendeleteivel együttesen;
+- l) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló a Tanács 2002. június 13-i 1030/2002/EK rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet [22. §, 83. §].
 
 (2) E törvény a következő közösségi jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
 

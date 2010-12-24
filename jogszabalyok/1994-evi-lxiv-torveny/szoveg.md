@@ -31,14 +31,14 @@ a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormán
 - f) az összeférhetetlenség kimondásával,
 - g) sorozatosan törvénysértő tevékenysége, mulasztása miatti jogi felelősségének jogerős bírósági ítéletben történő megállapításával, az ítélet jogerőre emelkedésének a napjával,
 - h) választójoga elvesztésével,
-- i) a polgármesternek e tisztségével összefüggő bűncselekménye miatt, a büntetőjogi felelősség jogerős megállapításával, az ítélet jogerőre emelkedésének a napjával,
+- i)
 - j)
 
 (2) Az alpolgármester e tisztsége megszűnik:
 
 - a) az önkormányzati választás napján, ha nem választották meg önkormányzati képviselőnek,
-- b) amennyiben önkormányzati képviselőnek megválasztották, akkor a képviselő-testület alakuló ülésén új alpolgármester megválasztásával,
-- c) továbbá az (1) bekezdés b), d–j) pontjaiban foglalt esetekben.
+- b) amennyiben önkormányzati képviselőnek megválasztották, akkor a képviselő-testület alakuló ülésének napján,
+- c) továbbá az (1) bekezdés b), d)–j) pontjaiban foglalt esetekben,
 - d) ha a képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel megbízását visszavonja.
 
 (3) A polgármester foglalkoztatási jogviszonya megszűnik:
@@ -105,7 +105,7 @@ Szorzószám
 
 (2) Amennyiben a polgármester foglalkoztatási jogviszonya, illetőleg társadalmi megbízatása év közben keletkezik, vagy szűnik meg, az (1) bekezdésben meghatározott jutalom időarányos része állapítható meg.
 
-(3) A polgármester illetményének, tiszteletdíjának a választást követően megállapított összege a megválasztását megelőző polgármesteri illetménye, tiszteletdíja összegénél – a 4. § (3) bekezdésében foglalt kivétellel – nem lehet kevesebb.
+(3)
 
 ### Pihenőidő
 

@@ -246,7 +246,16 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
   - bc) szövetkezet tisztségviselője,
   - bd) alapítvány kezelő szervezetének tagja, tisztségviselője.
 
+(2a) Összeférhetetlenség miatt meg kell szüntetni annak a polgármesternek a megbízatását,
+
+- a) akit a közügyek gyakorlásától jogerősen eltiltottak,
+- b) akit bűntett miatt jogerősen szabadságvesztésre ítéltek,
+- c) akinek az állammal szemben – a lehetséges jogorvoslati eljárások kimerítését követően – köztartozása áll fenn, és azt az erről szóló értesítés kézhezvételétől számított hatvan napon belül – részletfizetés vagy fizetési halasztás esetén az ezt engedélyező határozat rendelkezéseinek megfelelően – nem rendezi,
+- d) akinek kényszergyógykezelését a bíróság jogerősen elrendelte.
+
 (3) A polgármester az összeférhetetlenségi okot a megválasztásától, illetve az összeférhetetlenségi ok felmerülésétől számított 30 napon belül köteles megszüntetni.
+
+(3a) A polgármester köteles az ellene indított büntetőeljárás során az első tárgyalás időpontjáról, illetve a bűnösséget megállapító jogerős ítéletről az idézés, illetve a jogerős ítélet kézhezvételétől számított három napon belül tájékoztatni a képviselő-testületet, a helyi választási bizottságot és a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet.
 
 (4) Ha a polgármester a (3) bekezdésben foglalt kötelezettségének nem tett eleget, bármely képviselő indítványára – a száznál kevesebb lakosú község kivételével a képviselők közül választott háromtagú bizottság javaslata alapján – a képviselő-testület a következő ülésén, legkésőbb az összeférhetetlenség megállapításának kezdeményezését követő 30 napon belül határozattal megállapítja az összeférhetetlenség alapjául szolgáló körülmények fennállását, és kimondja az összeférhetetlenséget, illetőleg dönthet a hozzájárulás megadásáról, ha e törvény ezt lehetővé teszi. A képviselő-testület határozatát az ülést követő munkanapon a polgármesternek kézbesíteni kell.
 
@@ -262,7 +271,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 (2) A bíróság eljárása során a polgári perrendtartásról szóló 1952. évi III. törvény rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a perben viszontkeresetnek, szünetelésnek és egyezségnek nincs helye.
 
-34. § (1) A képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel a polgármester helyettesítésére, munkájának segítésére egy vagy több alpolgármestert választhat. A képviselő-testület legalább egy alpolgármestert saját tagjai közül választ meg. Az alpolgármester megbízatása megszűnik az új polgármester megválasztásával, valamint ha a képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel megbízását visszavonja.
+34. § (1) A képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel a polgármester helyettesítésére, munkájának segítésére egy vagy több alpolgármestert választhat. A képviselő-testület legalább egy alpolgármestert saját tagjai közül választ meg. Az alpolgármester megbízatása megszűnik, ha a képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel megbízását visszavonja.
 
 (2) Azon alpolgármester, akit nem a képviselő-testület tagjai közül választottak, nem tagja a képviselő-testületnek, a polgármestert a képviselő-testület elnökeként nem helyettesítheti, de a képviselő-testület ülésein tanácskozási joggal részt vesz. A nem a képviselő-testület tagjai közül választott alpolgármester jogállására egyebekben a képviselő-testület tagjai közül választott alpolgármesterre vonatkozó szabályokat kell alkalmazni.
 
@@ -502,6 +511,8 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 (5) A megyei jogú város közgyűlése kinevezi a kerületi hivatalok vezetőit, továbbá a kerület területén megválasztott képviselőkből kerületi képviselő-testületet hozhat létre.
 
+(6) A megyei jogú város közgyűlése – a 36. § (1) bekezdésében foglalt szabályok szerint – több aljegyzőt is kinevezhet.
+
 61/A. § A megyei jogú városi és a megyei közgyűlés egyeztető bizottságot hoz létre a közös feladatokban való együttműködés előkészítésére és összehangolására. A bizottság tíztagú, a tagokat fele-fele arányban a megyei jogú városi, illetőleg a megyei közgyűlés választja. A bizottság megállapítja szervezetének és működésének részletes szabályait. A bizottság elnöki tisztségét — megállapodás szerint — felváltva a megyei jogú város polgármestere, illetve a megyei közgyűlés elnöke látja el. Az egyeztető bizottság a munkájába más érintett megyék képviselőit is bevonhatja. Bármelyik fél napirendet is tartalmazó javaslatára az egyeztető bizottságot 15 napon belül össze kell hívni.
 
 ### VII. Fejezet — A FŐVÁROS
@@ -516,11 +527,11 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 (4) A fővárosi közgyűlés ülésén a fővárosi közgyűlés szervezeti és működési szabályzatában meghatározott módon, tanácskozási joggal vesz részt a kerületi képviselő-testület által megbízott kerületi küldött.
 
-(5) A kerületben polgármestert, a fővárosban főpolgármestert választanak. A fővárosi közgyűlés a főpolgármester javaslatára titkos szavazással, minősített többséggel egy vagy több főpolgármester-helyettest választhat. A fővárosi közgyűlés legalább egy főpolgármester-helyettest saját tagjai közül választ meg. A főpolgármester-helyettes megbízatása megszűnik az új főpolgármester megválasztásával, valamint ha a fővárosi közgyűlés a főpolgármester javaslatára, titkos szavazással, minősített többséggel megbízását visszavonja.
+(5) A kerületben polgármestert, a fővárosban főpolgármestert választanak. A fővárosi közgyűlés a főpolgármester javaslatára titkos szavazással, minősített többséggel egy vagy több főpolgármester-helyettest választhat. A fővárosi közgyűlés legalább egy főpolgármester-helyettest saját tagjai közül választ meg. A főpolgármester-helyettes megbízatása megszűnik, ha a fővárosi közgyűlés a főpolgármester javaslatára, titkos szavazással, minősített többséggel megbízását visszavonja.
 
 Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai közül választottak, nem tagja a fővárosi közgyűlésnek, a főpolgármestert a fővárosi közgyűlés elnökeként nem helyettesítheti. A fővárosi közgyűlés ülésein tanácskozási joggal vesz részt. A nem a fővárosi közgyűlés tagjai közül választott főpolgármester-helyettes jogállására egyebekben a fővárosi közgyűlés tagjai közül választott főpolgármester-helyettesre vonatkozó szabályokat kell alkalmazni.
 
-(6) A fővárosi kerületi képviselő-testület hivatalát a jegyző, a fővárosi közgyűlés hivatalát (a főpolgármesteri hivatalt) a főjegyző vezeti. A fővárosi közgyűlés — a 36. § (1) bekezdésében foglalt szabályok szerint — több aljegyzőt is kinevezhet.
+(6) A fővárosi kerületi képviselő-testület hivatalát a jegyző, a fővárosi közgyűlés hivatalát (a főpolgármesteri hivatalt) a főjegyző vezeti. A fővárosi kerületi képviselő-testület és a fővárosi közgyűlés – a 36. § (1) bekezdésében foglalt szabályok szerint – több aljegyzőt is kinevezhet.
 
 (7) A kerületi képviselő-testület a 28. § szabályai szerint városrészi önkormányzatot hozhat létre. Több kerületi képviselő-testület közösen is létrehozhat városrészi önkormányzatot. A fővárossal 1950. január 1-jén egyesített, korábban önálló településen kötelező a városrészi önkormányzat létrehozása, ha az érintett választópolgároknak a helyi népszavazás szabályai szerint érvényes és eredményes népszavazása a városrészi önkormányzat létrehozása mellett foglalt állást.
 
@@ -741,7 +752,7 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 
 73. § A megyei közgyűlés elnökét a megyei közgyűlés — saját tagjai sorából — titkos szavazással választja a megbízatásának időtartamára.
 
-74. § (1) A megyei közgyűlés tisztségviselői: az elnök, egy vagy több alelnök. A megyei közgyűlés a megyei közgyűlés elnökének javaslatára titkos szavazással, minősített többséggel egy vagy több alelnököt választhat. A megyei közgyűlés legalább egy alelnököt saját tagjai közül választ meg. A megyei közgyűlés alelnökének megbízatása megszűnik a megyei közgyűlés új elnökének megválasztásával, valamint ha a megyei közgyűlés az elnök javaslatára titkos szavazással, minősített többséggel megbízását visszavonja. Azon megyei közgyűlési alelnök, akit nem a megyei közgyűlés tagjai közül választottak, nem tagja a megyei közgyűlésnek, a megyei közgyűlés elnökét, mint a testület elnökét nem helyettesítheti, a megyei közgyűlés ülésein tanácskozási joggal vesz részt. A nem a megyei közgyűlés tagjai közül választott alelnök jogállására egyebekben a megyei közgyűlés tagjai közül választott alelnökre vonatkozó szabályokat kell alkalmazni.
+74. § (1) A megyei közgyűlés tisztségviselői: az elnök, egy vagy több alelnök. A megyei közgyűlés a megyei közgyűlés elnökének javaslatára a titkos szavazással, minősített többséggel egy vagy több alelnököt választhat. A megyei közgyűlés legalább egy alelnököt saját tagjai közül választ meg. A megyei közgyűlés alelnökének megbízatása megszűnik, ha a megyei közgyűlés az elnök javaslatára, titkos szavazással, minősített többséggel megbízását visszavonja. Azon megyei közgyűlési alelnök, akit nem a megyei közgyűlés tagjai közül választottak, nem tagja a megyei közgyűlésnek, a megyei közgyűlés elnökét, mint a testület elnökét nem helyettesítheti, a megyei közgyűlés ülésein tanácskozási joggal vesz részt. A nem megyei közgyűlés tagjai közül választott alelnök jogállására egyebekben a megyei közgyűlés tagjai közül választott alelnökre vonatkozó szabályokat kell alkalmazni.
 
 (2) A megyei közgyűlés köteles megalakítani a pénzügyi bizottságát. Emellett a megyei közgyűlés meghatározott feladatainak eredményesebb ellátása érdekében — a tanácsnoknak választott megyei képviselők és más megyei képviselők tagsági többségét biztosítva — szabadon alakíthat bizottságokat. A megyei közgyűlés a bizottság további tagjait a szolgáltatást nyújtók és igénybe vevők, valamint a szolgáltatásban más módon érdekeltek képviselőiből választja meg. A bizottság elnöke megyei tanácsnok.
 
@@ -749,7 +760,7 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 
 75. § (1) A megyei testületek és tisztségviselők munkáját megyei önkormányzati hivatal segíti, melynek feladata a döntések szakmai előkészítése, valamint a döntések végrehajtásának szervezése és ellenőrzése.
 
-(2) A hivatal vezetőjét: a megyei főjegyzőt a megyei közgyűlés nevezi ki határozatlan időre.
+(2) A hivatal vezetőjét: a megyei főjegyzőt a megyei közgyűlés nevezi ki határozatlan időre. A megyei közgyűlés – a 36. § (1) bekezdésében foglalt szabályok szerint – több aljegyzőt is kinevezhet.
 
 (3) A megyei közgyűlés meghatározza a hivatal belső szervezetét és működésének szabályait, biztosítja a hivatal működésének dologi feltételeit.
 
