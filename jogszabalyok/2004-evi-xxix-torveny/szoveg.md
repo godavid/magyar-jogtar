@@ -254,7 +254,7 @@ f) az Állami Számvevőszéknek és a Kormány által kijelölt belső ellenőr
 
 g) az állami adóhatóságnak adóellenőrzési célra.
 
-[140/D. § (1) Aki a 140. § (1) bekezdése szerinti korlátozásból eredő, valamint a törvény által kihirdetett nemzetközi szerződésben és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa rendelkezéseiben az Európai Unión kívüli országokkal folytatott kereskedelemre meghatározott kötelezettségét megszegi, azt a nemzeti külkereskedelmi államigazgatási szerv bírsággal sújtja.
+140/D. § (1) Aki a 140. § (1) bekezdése szerinti korlátozásból eredő, valamint a törvény által kihirdetett nemzetközi szerződésben és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa rendelkezéseiben az Európai Unión kívüli országokkal folytatott kereskedelemre meghatározott kötelezettségét megszegi, azt a nemzeti külkereskedelmi államigazgatási szerv bírsággal sújtja.
 
 (2) A bírság mértékét a nemzeti külkereskedelmi államigazgatási szerv a jogsértés súlyára, időtartamára, a jogsértőnek való felróhatóságára, a jogsértő magatartás ismétlődésére, a jogsértéssel elért előnyre tekintettel, az eset összes körülményét mérlegelve állapítja meg.
 
@@ -262,11 +262,13 @@ g) az állami adóhatóságnak adóellenőrzési célra.
 
 (4) A bírság a Magyar Köztársaság központi költségvetésének bevétele. Beszedéséről a kirovó hatóság gondoskodik.
 
-(5) A meg nem fizetett bírság adók módjára behajtandó köztartozásnak minősül.]
+(5) A meg nem fizetett bírság adók módjára behajtandó köztartozásnak minősül.
 
 140/E. § (1) Felhatalmazást kap a Kormány, hogy a 140. § (1) bekezdése szerinti – az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kivitelével, behozatalával, valamint azoknak a Magyar Köztársaság területén történő átszállításával összefüggő – korlátozásokat, az azokhoz kapcsolódó feltételeket, valamint az egyes korlátozásokkal összefüggő engedélyezési és más hatósági feladatokat, ezek eljárási szabályait rendeletben határozza meg.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a nemzeti külkereskedelmi államigazgatási szervet.
+
+(3) Felhatalmazást kap a Kormány, hogy a 140/D. § szerinti bírság mértékére, a bírságolási eljárásra vonatkozó szabályokat rendeletben határozza meg.
 
 ### A közérdekű kérelmekkel, panaszokkal és bejelentésekkel kapcsolatos eljárás
 
