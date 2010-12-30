@@ -148,7 +148,10 @@ Az Országgyűlés a mezőgazdaságot sújtó elemi károk hatásának enyhíté
 
 (8) A 2006. évi LXXXVIII. törvény alapján képzett előirányzat maradványa nem vonható el, az az e törvény alapján képzendő előirányzat bevételét képezi.
 
-(9) A kárenyhítési juttatás formájában nyújtott támogatásokra 2010. január 1. után az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló, 2006. december 15-i 1857/2006/EK bizottsági rendelet 11. cikk (8) bekezdésében foglaltakat kell alkalmazni.
+(9) A kárenyhítési juttatás formájában nyújtott támogatásokat
+
+- a) 2010-ben az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló, 2006. december 15-i 1857/2006/EK bizottsági rendelet (a továbbiakban: 1857/2006/EK bizottsági rendelet) 11. cikk (8) bekezdésében,
+- b) 2011. január 1-je után az 1857/2006/EK bizottsági rendelet 11. cikk (8) és (9) bekezdésében foglaltak megfelelő alkalmazásával kell megállapítani.
 
 (10) Felhatalmazást kap a Kormány, hogy
 

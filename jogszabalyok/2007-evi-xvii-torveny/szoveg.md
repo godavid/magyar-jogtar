@@ -23,13 +23,16 @@ Az Országgyűlés annak érdekében, hogy az Európai Mezőgazdasági Vidékfej
 - c) a támogatási kérelmeket, pályázatokat az egyenlő esélyek biztosítása mellett bírálják el, továbbá
 - d) a piaci szereplők a jogszabályok keretei között kiszámíthatóan, és határidőn belül jussanak hozzá az őket megillető támogatáshoz,
 - e) az átlagosnál kisebb gazdasági erővel rendelkező piaci szereplők számára is elérhetőek legyenek a versenyképessé válásukhoz szükséges támogatások.
-- f) a pályázati és kérelmezési feltételek és határidők a jogszabály vagy pályázati felhívás alapján egy benyújtási időszakban benyújtott kérelmek vagy pályázatok esetén – közösségi jogi aktus eltérő rendelkezése hiányában – az ügyfél hátrányára nem módosíthatók.
+- f) a pályázati és kérelmezési feltételek és határidők a jogszabály vagy pályázati felhívás alapján egy benyújtási időszakban benyújtott kérelmek vagy pályázatok esetén – közösségi jogi aktus eltérő rendelkezése hiányában – az ügyfél hátrányára nem módosíthatók,
+- g) a törvény hatálya alá tartozó egyes intézkedések igénybevételével, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal kapcsolatos részletes, valamint az intézkedésekben való részvétellel kapcsolatos általános szabályokat tartalmazó, új intézkedést bevezető jogszabályt a kérelmek benyújtására nyitva álló időtartam kezdő napját legalább két hónappal, egyéb esetekben jogszabályt a kérelmek benyújtására nyitva álló időtartam kezdő napját legalább harminc nappal megelőzően kell kihirdetni. Haladéktalan szabályozást igénylő esetekben ezen időtartam – a jogalkotás rendjére vonatkozó szabályozás figyelembevétele mellett – lerövidíthető úgy, hogy haladéktalan szabályozást igénylő esetnek minősül, ha a szabályozással érintetteknek a jogszabály mielőbbi hatálybalépéséhez különösen méltányolható érdeke fűződik.
 
 6. § Annak érdekében, hogy az intézkedések ténylegesen a jogszabályokban vagy programokban meghatározott célok megvalósítását szolgálják, a végrehajtási feladatokat ellátó szervezetek kötelesek megteremteni, illetve biztosítani a szándékos szabálytalanságok elleni hatékony fellépéshez szükséges feltételeket.
 
 7. § (1) Az ügyfelek, továbbá az irányítási, valamint a végrehajtási feladatokat ellátó szervek, illetve szervezetek kötelesek egymással, az Európai Unió illetékes szerveivel, szervezeteivel, valamint más tagállamok kifizető ügynökségeivel együttműködni. Ez az együttműködés kiterjed az egyes feladatok közösségi jogi aktusokban, valamint a jogszabályokban, továbbá a külön megállapodásokban foglaltak szerint történő végrehajtására, az együttműködő felek közti, szükséges és célhoz kötött adatszolgáltatásra, az ellenőrzések végrehajtásához szükséges feltételek megteremtésére.
 
 (2) A törvény végrehajtásában külön megállapodás alapján részt vevő szervezetek a szükséges szervezési és pénzügyi intézkedések megtételével kötelesek saját, jogszabályban, illetve alapító okiratukban meghatározott alapfeladataik, valamint a külön megállapodásban foglaltak végrehajtása során az összhangot folyamatosan biztosítani.
+
+(3) A költségtakarékosság és a hatékonyság biztosítása érdekében az irányítási, valamint a végrehajtási feladatokat ellátó szervek, szervezetek kötelesek úgy megszervezni tevékenységüket, hogy eljárásuk az ügyfélnek és a hatóságoknak a legkevesebb költséget okozza, és az eljárás a lehető leggyorsabban lezárható legyen.
 
 8. § A törvény rendelkezéseit az Európai Unió Közös Agrárpolitikájáról (KAP), valamint Közös Halászati Politikájáról (KHP) szóló közvetlenül alkalmazandó közösségi jogi aktusokkal együtt kell alkalmazni és értelmezni.
 
@@ -50,9 +53,9 @@ Az Országgyűlés annak érdekében, hogy az Európai Mezőgazdasági Vidékfej
 - k) nemzeti vidéki hálózat: az 1698/2005/EK rendelet 68. cikke szerint jogszabályban foglaltak szerinti szervezési, koordinációs feladatokat ellátó szervezet;
 - l) mezőgazdasági és vidékfejlesztési támogatási szerv: a Kormány által rendeletben kijelölt szerv;
 - m) nyilvánvaló hiba: az ügyfél által benyújtott kérelemben, pályázatban feltüntetett adatok olyan egyértelmű hiányossága vagy hibája, amely a kérelem, vagy a pályázat más adataiból vagy más, a végrehajtási feladatokat ellátó szervezet által közvetlenül elérhető nyilvántartásból származó adatok alapján hiánypótlásra felszólítás nélkül, saját hatáskörben pótolható vagy javítható, kivéve a kérelem hitelességét befolyásoló hiányosság (aláírás, bélyegző lenyomat stb.);
-- n) mezőgazdasági vagyoni értékű jog: 1. a közös agrárpolitika keretébe tartozó közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott támogatási rendszerek létrehozásáról, továbbá a 2019/93/EGK, 1452/2001/EK, 1453/2001/EK, 454/2001/EK, 1868/94/EK, 1251/1999/EK, 1254/1999/EK, 1673/2000/EK, 2358/71 EGK és a 2529/2001/EK rendeletek módosításáról szóló 1782/2003/EK tanácsi rendeletben (2003. szeptember 29.) foglaltaknak megfelelően kiosztott, az egységes támogatási rendszerben való részvételre feljogosító támogatási jogosultság, 2. az 1782/2003/EK rendelet 11. fejezetében meghatározott anyajuhra és anyakecskére vonatkozó támogatási jogosultság, és a 12. fejezetében meghatározott anyatehénre vonatkozó támogatási jogosultság, 3. a tej- és tejtermékágazatban illeték megállapításáról szóló 1788/2003/EK tanácsi rendelet (2003. szeptember 29.) 5. cikk j) pontjában meghatározott egyéni referenciamennyiség, 4. a borpiac közös szervezéséről szóló 1493/1999/EK tanácsi rendelet (1999. május 17.) 2. cikkében meghatározott új telepítési jog, és újratelepítési jog, valamint 5. jogszabályban mezőgazdasági vagyoni értékű jognak minősített jog;
-- o) kölcsönös megfeleltetés: a közös agrárpolitika keretébe tartozó közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott támogatási rendszerek létrehozásáról szóló 2003. szeptember 29-i 1782/2003/EK tanácsi rendelet által előírt kölcsönös megfeleltetés, moduláció, valamint integrált igazgatási és ellenőrzési rendszer végrehajtására vonatkozó részletes szabályok megállapításáról szóló 796/2004/EK bizottsági rendelet (2004. április 21.) 2. cikk (30) bekezdésében meghatározott fogalom;
-- p) hatáskörrel rendelkező hatóság: a kölcsönös megfeleltetés körébe tartozó követelmények ellenőrzését, igazolását végző közigazgatási szerv;
+- n) mezőgazdasági vagyoni értékű jog: 1. a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i 73/2009/EK tanácsi rendeletben (a továbbiakban: 73/2009/EK tanácsi rendelet) foglaltaknak megfelelően kiosztott, az egységes támogatási rendszerben való részvételre feljogosító támogatási jogosultság, 2. a 73/2009/EK rendelet IV. cím 1. fejezet 10. cikkében meghatározott anyajuhra és anyakecskére vonatkozó támogatási jogosultság, és a 11. cikkében meghatározott anyatehénre vonatkozó támogatási jogosultság, 3. a tej- és tejtermékágazatban illeték megállapításáról szóló, 2003. szeptember 29-i 1788/2003/EK tanácsi rendelet 5. cikk j) pontjában meghatározott egyéni referenciamennyiség, 4. a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”), 2007. október 22-i 1234/2007/EK tanácsi rendelet 85h–85i. cikkében meghatározott új telepítési jog és újratelepítési jog, valamint 5. jogszabályban mezőgazdasági vagyoni értékű jognak minősített jog;
+- o) kölcsönös megfeleltetés: a 73/2009/EK tanácsi rendeletnek a kölcsönös megfeleltetés, a moduláció és az integrált igazgatási és ellenőrzési rendszer tekintetében, az említett rendeletben létrehozott, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról, valamint az 1234/2007/EK tanácsi rendeletnek a kölcsönös megfeleltetés tekintetében, a borágazatban meghatározott támogatási rendszer keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2009. november 30-i 1122/2009/EK bizottsági rendelet 2. cikk (31) bekezdésében, valamint a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló 1975/2006/EK rendelet 19. cikk (1) bekezdésében meghatározott fogalom;
+- p) hatáskörrel rendelkező hatóság: a kölcsönös megfeleltetés körébe tartozó előírások és követelmények ellenőrzését, igazolását végző közigazgatási szerv;
 - q) szabálytalanság: az Európai Közösségek pénzügyi érdekeinek védelméről szóló 2988/95/EK Euratom tanácsi rendelet (1995. december 18.) 1. cikk (2) bekezdésében megállapított tényállás;
 - r) mezőgazdasági célú csekély összegű (de minimis) támogatások: az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 1535/2007/EK bizottsági rendelet (2007. december 20.), az EK-Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról és az 1860/2004/EK rendelet módosításáról szóló 875/2007/EK bizottsági rendelet (2007. július 24.), valamint a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 1998/2006/EK bizottsági rendelet (2006. december 15.) hatálya alá utalt mezőgazdasági és agrár-vidékfejlesztési állami támogatások;
 - s) szándékosság, súlyos gondatlanság (a továbbiakban együtt: szándékosság): a mezőgazdasági és vidékfejlesztési intézkedésekkel összefüggésben szándékosnak minősül az ügyfél, illetve az általa igénybevett közreműködő, képviselő magatartása, amennyiben az ügyfél vagy az általa igénybevett közreműködő, képviselő tudatában van annak, hogy a tanúsított tevőleges magatartás vagy mulasztás az intézkedésekkel összefüggésben az ügyfél számára a jogosultság jogosulatlan megszerzése, annak fenntartása, illetve az intézkedésekkel összefüggésben jogosultságának bármely eleme vonatkozásában kedvezőbb elbírálást biztosít, mint a tanúsított tevőleges magatartás nélkül;
@@ -65,6 +68,11 @@ Az Országgyűlés annak érdekében, hogy az Európai Mezőgazdasági Vidékfej
 - y) pénzügyi kapcsolat: olyan gazdasági kapcsolat a mezőgazdasági és vidékfejlesztési támogatási szerv és a vele kapcsolatban álló ügyfél között, amelynek alapján közöttük tartozások és követelések keletkeznek, azaz elszámolási viszony jön létre;
 - z) szakrendszer: az ügyfél-nyilvántartáshoz a regisztrációs számmal kapcsolódó, a mezőgazdasági és vidékfejlesztési támogatási szerv, valamint a hatáskörrel rendelkező hatóság hatáskörébe tartozó, általuk működtetett (vezetett) nyilvántartás.
 
+9/A. § A törvény, valamint a törvény végrehajtására kiadott jogszabályok alkalmazásában:
+
+- a) folyamatban lévő eljárás: a kérelemre vagy hivatalból indult, jogerős döntéssel még le nem zárt eljárás,
+- b) folyamatban lévő ügy: az intézkedésben való részvétel iránti kérelem benyújtásától a kérelemre hozott döntés alapján az ügyfelet terhelő kötelezettségek fennállásáig tartó időszak.
+
 ### A törvény hatálya
 
 10. § (1) A Magyar Köztársaság területén székhellyel, telephellyel, lakóhellyel, szokásos tartózkodási hellyel rendelkező vagy egyébként itt tartózkodó és gazdasági (termelő, szolgáltató, üzemi, üzleti) tevékenységet folytató természetes személy, jogi személy, jogi személyiséggel nem rendelkező szervezet egyes intézkedésekben való részvételének rendjére, valamint az ezzel összefüggő közigazgatási hatósági eljárásban részt vevő személyre e törvény rendelkezéseit kell alkalmazni.
@@ -74,7 +82,7 @@ Az Országgyűlés annak érdekében, hogy az Európai Mezőgazdasági Vidékfej
 - a) exportbizonyítvány kiállítása iránti kérelem,
 - b) másik tagállamban kiállított exportbizonyítvány alapján export-visszatérítés iránti kérelem,
 - c) export-visszatérítés megállapítására szolgáló eljárás keretében ajánlat, valamint
-- d) intervenciós értékesítési vagy felvásárlási eljárás során ajánlat
+- d) intervenciós felvásárlási, tárolási vagy értékesítési eljárás során ajánlat
 
 benyújtásával a hatáskörrel és illetékességgel rendelkező szervnél eljárást kezdeményez.
 
@@ -89,9 +97,9 @@ benyújtásával a hatáskörrel és illetékességgel rendelkező szervnél elj
 
 hozott intézkedésekben való részvétellel kapcsolatos, az irányítási, valamint a végrehajtási feladatokat ellátó szervek, illetve szervezetek hatáskörébe tartozó eljárására.
 
-(2) A törvény végrehajtásáért az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) felel. A miniszter:
+(2) A törvény végrehajtásáért az agrárpolitikáért, agrár-vidékfejlesztésért felelős miniszter (a továbbiakban: miniszter) felel. A miniszter:
 
-- a) az államháztartás működési rendjére vonatkozó jogszabályok rendelkezései szerint gondoskodik a belső kontrollrendszerek kialakításáról, valamint azok folyamatos és hatékony működtetéséről, valamint
+- a) az államháztartás működési rendjére vonatkozó jogszabályok rendelkezései szerint gondoskodik a belső kontrollrendszerek kialakításáról, azok folyamatos és hatékony működtetéséről, valamint
 - b) felel az egyes végrehajtási feladatokat ellátó szervek, szervezetek közötti feladatok elhatárolásáért.
 
 (3) A törvény hatálya alá tartozó végrehajtási feladatot ellátó szervek, illetve szervezetek:
@@ -249,7 +257,7 @@ feladatok ellátásáért.
 
 ### A hatáskörrel rendelkező hatóság feladatai
 
-19. § (1) A hatáskörrel rendelkező hatóság a kölcsönös megfeleltetés körébe tartozó ellenőrzéseket külön jogszabály alapján folytatja le.
+19. § (1) A hatáskörrel rendelkező hatóság a kölcsönös megfeleltetés körébe tartozó ellenőrzéseket végez.
 
 (2) A hatáskörrel rendelkező hatóság az ellenőrzések eredményeiről a mezőgazdasági és vidékfejlesztési támogatási szervet a (3)–(5) bekezdésben foglaltaknak megfelelően tájékoztatja.
 
@@ -289,13 +297,13 @@ feladatok ellátásáért.
 - a) az ügyfél természetes személyazonosító adatait, lakcímadatait, regisztrációs számát,
 - b) az egyes intézkedésekben való részvétellel összefüggő eljárás során az ügyfélre vonatkozóan keletkezett adatokat,
 - c) a monitoring-adatszolgáltatás keretében gyűjtött adatokat, valamint
-- d) az ügyfél ellenőrzése során harmadik személyről nyert – személyes adatként az a) pont szerinti – adatokat [az a)–d) pontok a továbbiakban együtt: támogatási adat] az adott támogatási jogcímre vonatkozó jogosulatlanul igénybe vett támogatás végrehajtásához való jog elévüléséig kezelheti.
+- d) az ügyfél ellenőrzése során harmadik személyről nyert – személyes adatként az a) pont szerinti – adatokat [az a)–d) pontok a továbbiakban együtt: támogatási adat] az adott támogatási jogcímre vonatkozó intézkedésben való jogosulatlan részvétel végrehajtásához való jog elévüléséig kezelheti.
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv a törvényben meghatározott más szerv, illetve szervezet nyilvántartásából átvett adatot csak az ügyfél személyazonosításához, a támogatáshoz való jogosultság megállapításához, az intézkedésekhez kapcsolódó feltételek ellenőrzéséhez, az ügyfél kérelmére indult eljárás során pedig a tényállás tisztázásához használhatja fel.
 
 (3) Amennyiben törvény megengedi a mezőgazdasági és vidékfejlesztési támogatási szerv és más hatóság között az adat átadását, illetve a hatósági nyilvántartásokból az adat átvételét, az adatszolgáltatást elektronikus úton is lehet teljesíteni.
 
-(4) A mezőgazdasági és vidékfejlesztési támogatási szerv a támogatási adatot a jogosulatlanul igénybe vett támogatás végrehajtásához való jogra vonatkozó elévülési időn belül a mezőgazdasági és vidékfejlesztési támogatási szerv hatáskörébe tartozó ellenőrzések lefolytatásával összefüggésben átadhatja az átruházott feladatot ellátó szervnek, illetve az együttműködő szervezetnek, valamint a hatáskörrel rendelkező hatóságnak, amely szervek, illetve szervezetek ezen adatokat kezelik.
+(4) A mezőgazdasági és vidékfejlesztési támogatási szerv a támogatási adatot a intézkedésben való jogosulatlan részvétel végrehajtásához való jogra vonatkozó elévülési időn belül a mezőgazdasági és vidékfejlesztési támogatási szerv hatáskörébe tartozó ellenőrzések lefolytatásával összefüggésben átadhatja az átruházott feladatot ellátó szervnek, illetve az együttműködő szervezetnek, valamint a hatáskörrel rendelkező hatóságnak, amely szervek, illetve szervezetek ezen adatokat kezelik.
 
 ### Adatszolgáltatás
 
@@ -318,15 +326,15 @@ feladatok ellátásáért.
 - a) családi és utóneve (elnevezése), lakóhelye, székhelye, telephelye,
 - b) a támogatás jogcíme,
 - c) a folyósított támogatás összege, valamint
-- d) a jogosulatlan igénybevétel alapján visszafizetett támogatási összege.
+- d) a jogosulatlan részvétel alapján visszafizetett támogatási összege.
 
-(3) A mezőgazdasági és vidékfejlesztési támogatási szerv negyedévenként a tárgyév első napjától az adott negyedév utolsó napjáig folyósított, a (2) bekezdésben meghatározott támogatásokra, illetve a jogosulatlan igénybevétel alapján visszafizetett támogatásokra vonatkozó, (2) bekezdés szerinti adatokat honlapján legkésőbb a negyedévet követő hónap utolsó napjáig közzéteszi. A közzétételben az időszak során folyósított EMGA és EMVA támogatások együttes összege, valamint a folyósított támogatások teljes összege is feltüntetésre kerül.
+(3) A mezőgazdasági és vidékfejlesztési támogatási szerv negyedévenként a tárgyév első napjától az adott negyedév utolsó napjáig folyósított, a (2) bekezdésben meghatározott támogatásokra, illetve a jogosulatlan részvétel alapján visszafizetett támogatásokra vonatkozó, (2) bekezdés szerinti adatokat honlapján legkésőbb a negyedévet követő hónap utolsó napjáig közzéteszi. A közzétételben az időszak során folyósított EMGA és EMVA támogatások együttes összege, valamint a folyósított támogatások teljes összege is feltüntetésre kerül.
 
 (4) A (3) bekezdés szerint közzétett adatokhoz a mezőgazdasági és vidékfejlesztési támogatási szerv olyan keresőprogramot biztosít, amely a felhasználók számára lehetővé teszi, hogy a kedvezményezettek között név, közigazgatási terület, összeg szerint, vagy ezek kombinációjával végezzenek keresést.
 
 (5) A mezőgazdasági és vidékfejlesztési támogatási szerv alkalmazottja, volt alkalmazottja, az ellenőrzésbe vagy az eljárásba bevont szakértő és minden más személy, akinek az adatszolgáltatás, -nyilvántartás, -feldolgozás, az ellenőrzés, a támogatás megállapítása, tartozásbeszedés, végrehajtás, illetve statisztikai célú felhasználás során feladataival összefüggésben feladataihoz kapcsolódó nem nyilvános támogatási adat vagy törvény által védett adat jut a tudomására, köteles azt megőrizni.
 
-(6) Az (5) bekezdésben megjelölt személy megsérti a titoktartási kötelezettséget, ha a mezőgazdasági és vidékfejlesztési támogatási szerv hatáskörébe tartozó eljárásokban vagy bírósági eljárás során megismert nem nyilvános támogatási adatot alapos ok nélkül illetéktelen személy részére hozzáférhetővé tesz, felhasznál vagy közzétesz.
+(6) Az (5) bekezdésben megjelölt személy megsérti a titoktartási kötelezettséget, ha a mezőgazdasági és vidékfejlesztési támogatási szerv hatáskörébe tartozó eljárásokban vagy bírósági eljárás során megismert nem nyilvános támogatási adatot illetéktelen személy részére hozzáférhetővé tesz, felhasznál vagy közzétesz.
 
 (7) Amennyiben az ügyfél az intézkedésben való részvételre irányuló kérelme, pályázata összeállítása céljából tanácsadói szolgáltatást vesz igénybe, a tanácsadást végző titoktartási kötelezettségére a külön jogszabályban, a közvetlenül alkalmazandó közösségi jogi aktusban, valamint az ügyféllel kötött megállapodásban foglaltakat kell alkalmazni.
 
@@ -339,7 +347,7 @@ feladatok ellátásáért.
 
 (2) Az egyes intézkedésekben való részvétellel összefüggő adatot a mezőgazdasági és vidékfejlesztési támogatási szerv és a hivatalos statisztikai szolgálathoz tartozó szervek statisztikai célra felhasználhatják, ha a titoktartási kötelezettség megtartását a feldolgozás során biztosítják és – amennyiben a statisztikáról szóló törvény másként nem rendelkezik – azt a későbbi egyedi azonosításra alkalmatlanná teszik.
 
-(3) A mezőgazdasági és vidékfejlesztési támogatási szerv a jogosulatlanul igénybe vett támogatás végrehajtásához való jogra vonatkozó elévülési időn belül kérelemre tájékoztatja az adóhatóságot, illetve a vámhatóságot a nem nyilvános támogatási adatról, ha az adó-, illetve vámteher vagy adóhiány feltárását, behajthatóságának megállapítását szolgálja, továbbá vám-, illetve adóigazgatási eljárás lefolytatásához szükséges.
+(3) A mezőgazdasági és vidékfejlesztési támogatási szerv a intézkedésben való jogosulatlan részvétel végrehajtásához való jogra vonatkozó elévülési időn belül kérelemre tájékoztatja az adóhatóságot, illetve a vámhatóságot a nem nyilvános támogatási adatról, ha az adó-, illetve vámteher vagy adóhiány feltárását, behajthatóságának megállapítását szolgálja, továbbá vám-, illetve adóigazgatási eljárás lefolytatásához szükséges.
 
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv – ha az adott szerv az adat kezelésére törvény alapján egyébként jogosult – tájékoztatja a nem nyilvános támogatási adatról:
 
@@ -368,7 +376,8 @@ feladatok ellátásáért.
 - d) a szőlőültetvények országos térinformatikai nyilvántartása,
 - e) intervenciós raktárregiszter,
 - f) mezőgazdasági célú csekély összegű (de minimis) támogatások nyilvántartási rendszere,
-- g) monitoring adat-nyilvántartási rendszer [az a)–g) pontok a továbbiakban együtt: nyilvántartási rendszerek].
+- g) monitoring adat-nyilvántartási rendszer,
+- h) tevékenységihely-nyilvántartási rendszer [az a)–h) pontok a továbbiakban együtt: nyilvántartási rendszerek].
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv a nyilvántartási rendszerek működtetéséhez kapcsolódó adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
@@ -391,19 +400,24 @@ feladatok ellátásáért.
 - o) a munkaügyi és munkavédelmi hatóság adatbázisából,
 - p) az egyenlő bánásmód követelményének érvényesülését ellenőrző közigazgatási szerv által kezelt adatbázisból,
 - q) az I. és II. Nemzeti Fejlesztési Tervhez kapcsolódó információs rendszerekből,
-- r) az adóhatóságtól az adóazonosító nyilvántartásból,
+- r) az adóhatóságtól az adózókra vonatkozó adóazonosító nyilvántartásból, továbbá az adóhatóság által kezelt gazdasági tevékenységek egységes ágazati osztályozási rendszerére (TEÁOR' 08), és a kapcsolt vállalkozásokra vonatkozó adatbázisból, valamint a köztartozás miatt végrehajtási eljárás alatt álló személyekre vonatkozó adatbázisból,
 - s) a Tenyészet Információs Rendszerből,
 - t) a Baromfi Információs Rendszerből,
 - u) az Országos Állat-egészségügyi Információs Rendszerből,
 - v) a hatáskörrel rendelkező hatóság nyilvántartási rendszereiből,
 - w) az Országos Nyugdíjbiztosítási Főigazgatóság adattárából az ügyfelek sajátjogú nyugellátásáról,
-- x) az egyéni vállalkozók nyilvántartásából.
+- x) az egyéni vállalkozók nyilvántartásából,
+- y) a vámhatóság által kezelt jövedéki adatbázisból,
 
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfélre vonatkozó támogatási adatokat egymással, valamint az e törvény alapján átvett adatokkal a feladatkörében végzendő ellenőrzés céljából köteles összevetni, illetve felhasználhatja.
 
 (5) A mezőgazdasági és vidékfejlesztési támogatási szerv a kölcsönös megfeleltetés körébe tartozó ellenőrzésekhez kapcsolódó nyilvántartási rendszerek működtetése érdekében a hatáskörrel rendelkező hatóság részére a 26. § (1) bekezdés b) pontja szerinti nyilvántartási rendszerekben szereplő adatokat az ellenőrzések lefolytatásához és kiértékeléséhez szükséges mértékben átadja.
 
 (6) Az (1) és (3) bekezdés szerinti nyilvántartásokban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki az adatok helyességét, valósággal egyezőségét vitatja.
+
+(7) A mezőgazdasági és vidékfejlesztési támogatási szerv az egyablakos vámügyintézés körébe tartozó eljárásokhoz kapcsolódó nyilvántartási rendszerek működtetése érdekében a vámhatóság részére a 26. § (1) bekezdés a)–b) pontja szerinti nyilvántartási rendszerekben szereplő adatokat az eljárások lefolytatásához és kiértékeléséhez szükséges mértékben átadja.
+
+26/A. § Az adóhatóság kérelemre tájékoztatja a mezőgazdasági és vidékfejlesztési támogatási szervet az adótitkot képező adatról vagy információról, ha az az ügyfél személyazonosításához, a támogatáshoz való jogosultság megállapításához, az intézkedésekhez kapcsolódó feltételek ellenőrzéséhez, az ügyfél kérelmére indult eljárás során pedig a tényállás tisztázásához szükséges.
 
 ### Az intézkedések kezelésére vonatkozó nyilvántartási és ellenőrzési rendszerek
 
@@ -421,10 +435,10 @@ feladatok ellátásáért.
 
 - a) természetes személyazonosító adatait, állampolgárságát, elnevezését, rövidített cégnevét;
 - b) képviseletére jogosult nevét, lakcímét;
-- c) az adózás rendjéről szóló törvény szerinti adóigazgatási eljárásban alkalmazott adóazonosító számát, amennyiben az ügyfél nem természetes személy, valamint külföldi vállalkozás esetén az illetősége szerinti állam hatósága által megállapított adóazonosító számát;
+- c) adózás rendjéről szóló törvény szerinti adóigazgatási eljárásban alkalmazott adóazonosító számát, amennyiben az ügyfél külföldi természetes személy, vagy külföldi vállalkozás, akkor az illetősége szerinti állam hatósága által megállapított adóazonosító számát; továbbá pénzügyi következményekkel járó intézkedésben részt vevő, támogatást igénylő külföldi természetes személy vagy külföldi vállalkozás esetén az adózás rendjéről szóló törvény szerinti adóazonosító számát;
 - d) lakcímét, székhelyét, telephelyét vagy telephelyeit;
 - e) statisztikai számjelét, amennyiben az ügyfél nem természetes személy;
-- f) levelezési címét – ha az nem azonos székhelyével, telephelyével –, továbbá kézbesítési meghatalmazottjának nevét és lakóhelyét (székhelyét), valamint elektronikus kapcsolattartás esetén elektronikus levélcímét;
+- f) levelezési címét – ha az nem azonos székhelyével, telephelyével –, továbbá elektronikus kapcsolattartás esetén elektronikus levélcímét, valamint pénzügyi következményekkel járó intézkedésben részt vevő, támogatást igénylő, Magyarországon lakóhellyel vagy telephellyel nem rendelkező külföldi természetes személy vagy külföldi vállalkozás esetében magyarországi kézbesítési meghatalmazottjának nevét és lakóhelyét (székhelyét);
 - g) iratai őrzésének helyét, ha az nem azonos az ügyfél székhelyével vagy lakóhelyével;
 - h) jogelődjét és jogelődjének regisztrációs számát, adóazonosító számát;
 - i) cégjegyzékszámát;
@@ -439,23 +453,31 @@ feladatok ellátásáért.
 - c) törvény felhatalmazása alapján, az abban meghatározott körben külön jogszabály alapján adatszolgáltatást teljesít a nyilvántartásból,
 - d) működteti az ügyfél-nyilvántartás informatikai rendszerét.
 
-(4) A nyilvántartásba vétel iránti kérelmet a mezőgazdasági és vidékfejlesztési támogatási szervnél, valamint a hatáskörrel rendelkező hatóságnál is be lehet nyújtani.
+(4) A nyilvántartásba vétel iránti kérelmet az erre rendszeresített hatályban levő nyomtatványon a mezőgazdasági és vidékfejlesztési támogatási szervnél, valamint a hatáskörrel rendelkező hatóságnál is be lehet nyújtani.
 
 (5) A mezőgazdasági és vidékfejlesztési támogatási szerv a hatáskörrel rendelkező hatóság részére biztosítja az ügyfél-nyilvántartási rendszerhez való folyamatos hozzáférést, továbbá feladataik ellátása, a szükséges ellenőrzések lefolytatása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv és a hatáskörrel rendelkező hatóság kölcsönösen biztosítják egymás részére a szakrendszereikhez való hozzáférést.
 
 (6) A mezőgazdasági és vidékfejlesztési támogatási szerv, illetve a hatáskörrel rendelkező hatóság a hatáskörébe tartozó szakrendszereket (nyilvántartási alrendszereket) az ügyfél-nyilvántartáshoz kapcsolódóan alakítja ki.
 
-28/A. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv hatáskörébe tartozó, pénzügyi következményekkel járó intézkedésben csak az az ügyfél vehet részt, aki (amely) a nyilvántartásba vétel iránti kérelmében bejelentette a vállalkozása a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti minősítését is.
+(7) Az intézkedésekben való részvétel során az ügyfél egyedi azonosítását a regisztrációs szám szolgálja. Mind a természetes személy ügyfélkörbe, mind az egyéb ügyfélkörbe tartozó ügyfél csak egy regisztrációs számot kaphat.
 
-(2) A támogatást igénylő vagy támogatást nem igénylő, de pénzügyi kapcsolattal rendelkező ügyfél nyilvántartásba vétel iránti kérelmének vagy a pénzügyi következményekkel járó intézkedéssel kapcsolatos eljárás megindítására irányuló kérelmének tartalmaznia kell az ügyfél fizetési számlaszámát, valamint annak devizanemét. Nemzetközi fizetési számlaszámot a külföldi vállalkozásnak vagy külföldi természetes személy ügyfélnek kell megadnia.
+28/A. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv hatáskörébe tartozó, pénzügyi következményekkel járó intézkedésben csak az az ügyfél vehet részt, aki (amely) a nyilvántartásba vétel iránti kérelmében, de legkésőbb a pénzügyi következményekkel járó intézkedésre vonatkozó kérelem benyújtásával egyidejűleg bejelentette a vállalkozása a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti minősítését is.
 
-(3) A (2) bekezdésben meghatározott kérelemhez az ügyfél nevére szóló fizetési számla létezését igazoló fizetésiszámla-kivonat másolatát vagy a számlát vezető pénzforgalmi szolgáltató által kiadott egyéb igazolást kell csatolni.
+(2) A mezőgazdasági és vidékfejlesztési támogatási szerv hatáskörébe tartozó, pénzügyi következményekkel járó intézkedésben csak az a támogatást igénylő vagy támogatást nem igénylő, de pénzügyi kapcsolattal rendelkező ügyfél vehet részt, aki (amely) a nyilvántartásba vétel iránti kérelmében, de legkésőbb a pénzügyi következményekkel járó intézkedésre vonatkozó kérelem benyújtásával egyidejűleg bejelentette fizetési számlaszámát, valamint annak devizanemét. Nemzetközi fizetési számlaszámot a külföldi vállalkozásnak vagy külföldi természetes személy ügyfélnek kell megadnia. A mezőgazdasági és vidékfejlesztési támogatási szerv megtagadja a kifizetés teljesítését és elutasító döntést hoz, ha az ügyfél vagy más személy az ügyfél-nyilvántartásban rögzített, az ügyfél nevén szereplő fizetési számlától eltérő személy nevén szereplő fizetési számlára történő kifizetés teljesítése iránt kérelmet nyújt be.
+
+(3) A (2) bekezdésben meghatározott fizetési számlaszám bejelentéséhez az ügyfél nevére szóló fizetési számla létezését igazoló két hónapnál nem régebbi fizetésiszámla-kivonat másolatát, vagy a számlát vezető pénzforgalmi szolgáltatónak a kérelem benyújtási időpontját megelőző két hónapnál nem régebbi nyilatkozatát kell csatolni, amely tartalmazza az ügyfél azonosításához szükséges adatokat, valamint az ügyfél nevére szóló fizetési számlaszámot.
 
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfél-nyilvántartási rendszer részeként, a törvény hatálya alá tartozó eljárások végrehajtásához szükséges mértékben nyilvántartja az ügyfelek fióktelepeit, termelőegységeit, a gazdálkodás végzésének helyeit.
 
 (5) A mezőgazdasági és vidékfejlesztési támogatási szerv és a hatáskörrel rendelkező hatóság az ügyfelekre – beleértve a mezőgazdasági termelőket, valamint a mezőgazdasági üzemeket is – vonatkozó, közösségi jogi aktusok szerinti nyilvántartásról szakrendszer keretében gondoskodik.
 
-29. § (1) Az ügyfél köteles a mezőgazdasági és vidékfejlesztési támogatási szervet az ügyfél-nyilvántartásban szereplő adataiban bekövetkezett változásról, valamint a (4) bekezdés szerinti változásról – annak bekövetkezésétől számított tizenöt napon belül – a mezőgazdasági és vidékfejlesztési támogatási szerv által előírt nyomtatványon értesíteni.
+28/B. § (1) Ha az ügyfél a képviselet ellátására meghatalmazást vagy megbízást ad, azt – az eseti meghatalmazást vagy megbízást kivéve – az ügyfélnek vagy meghatalmazott képviselőjének az ügyfél-nyilvántartási rendszer szakrendszerébe postai úton vagy személyesen a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített nyomtatványon kell bejelentenie.
+
+(2) Az ügyfél a meghatalmazás vagy megbízás visszavonását, felmondását a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített nyomtatványon haladéktalanul köteles bejelenteni a mezőgazdasági és vidékfejlesztési támogatási szervnél. A képviseleti jog megszűnését a meghatalmazott vagy megbízott is bejelentheti.
+
+(3) A képviseleti jog keletkezése és megszűnése a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben az arra vonatkozó bejelentés mezőgazdasági és vidékfejlesztési támogatási szervhez történő beérkezése napjától hatályos.
+
+29. § (1) Az ügyfél köteles a mezőgazdasági és vidékfejlesztési támogatási szervet az ügyfél-nyilvántartásban szereplő adataiban bekövetkezett változásról, valamint a (4) bekezdés szerinti változásról – annak bekövetkezésétől számított tizenöt napon belül – a mezőgazdasági és vidékfejlesztési támogatási szerv által előírt hatályban levő nyomtatványon értesíteni azzal, hogy a változás-bejelentés – a 28/B. §-ban foglalt kötelezettség kivételével – elektronikus úton is teljesíthető. A regisztráció típusa a pénzügyi következményekkel járó intézkedéssel kapcsolatos eljárás megindítására irányuló kérelem beadásával egyidejűleg is módosítható.
 
 (2) Amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv vagy a hatáskörrel rendelkező hatóság a változásról egyéb módon tudomást szerez, az ügyfél a változásbejelentési kötelezettséget a mezőgazdasági és vidékfejlesztési támogatási szerv által kibocsátott felszólításban meghatározott határidőben köteles teljesíteni.
 
@@ -463,7 +485,7 @@ feladatok ellátásáért.
 
 (4) Az (1) bekezdés szerinti bejelentési kötelezettség kiterjed az ügyfél végelszámolásának elhatározására, csődeljárás-, végelszámolás-, felszámolási-, illetőleg adósságrendezési eljárás alatt állásának, valamint a jogi személy, illetve egyéb szervezet megszűnésére is. Ebben az esetben a bejelentési kötelezettség kiterjed a jogi személy, illetve egyéb szervezet vagyonfelügyelőjére, végelszámolójára, felszámolójára, illetve pénzügyi gondnokára is.
 
-(5) Az (1)–(2) bekezdés szerinti kötelezettség elmulasztása esetén a mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfelet, a vagyonfelügyelőt, felszámolót, végelszámolót, illetve a pénzügyi gondnokot mulasztási bírság fizetésére kötelezi.
+(5) Az (1)–(2) bekezdés szerinti kötelezettség elmulasztása esetén a mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfelet, a vagyonfelügyelőt, felszámolót, végelszámolót, vagy a pénzügyi gondnokot végzésben a kötelezettség teljesítésére hívja fel, amely teljesítésre kötelező döntésben előírt határidő elmulasztása esetén mulasztási bírság fizetésére kötelezi.
 
 29/A. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfél által bejelentett adatokat az ellenőrzések során összevetheti a 26. § (3) bekezdésében meghatározott nyilvántartások adataival.
 
@@ -483,7 +505,7 @@ feladatok ellátásáért.
 
 ### Mezőgazdasági Parcella Azonosító Rendszer
 
-31. § (1) Jogszabály eltérő rendelkezése hiányában az e törvény hatálya alá tartozó, földterülethez kapcsolódó támogatások eljárásainak kizárólagos országos földterület-azonosítási rendszere a Mezőgazdasági Parcella Azonosító Rendszer (a továbbiakban: MePAR). A MePAR adatbázisa állami tulajdonban van, amely felett a rendelkezési jogot – ide értve a tárolt adatok karbantartását is – az állam nevében a mezőgazdasági és vidékfejlesztési támogatási szerv gyakorolja.
+31. § (1) Jogszabály eltérő rendelkezése hiányában az e törvény hatálya alá tartozó intézkedések országos földterület-azonosítási rendszere a Mezőgazdasági Parcella Azonosító Rendszer (a továbbiakban: MePAR). A MePAR adatbázisa állami tulajdonban van, amely felett a rendelkezési jogot – ide értve a tárolt adatok karbantartását is – az állam nevében a mezőgazdasági és vidékfejlesztési támogatási szerv gyakorolja.
 
 (2) A MePAR számítógépes rendszerének térképi alapját az Egységes Országos Vetületi Rendszerben (EOV) kell elkészíteni, és meg kell felelnie az 1:10 000-es méretarányú állami topográfiai térkép pontosságának.
 
@@ -507,6 +529,10 @@ feladatok ellátásáért.
 
 31/B. § A szőlőültetvények országos térinformatikai nyilvántartásának (a továbbiakban: VINGIS) adatbázisa állami tulajdonban van, amely felett a rendelkezési jogot az állam nevében a mezőgazdasági és vidékfejlesztési támogatási szerv gyakorolja.
 
+### Tevékenységihely-nyilvántartási rendszer
+
+31/C. § A tevékenységi helyek egységes és egyedi nyilvántartásának megvalósítása és folyamatos biztosítása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv szakrendszerként tevékenységihely-nyilvántartási rendszert működtet. A tevékenységi-hely nyilvántartási-rendszer adatbázisa állami tulajdonban van, amely felett a rendelkezési jogot az állam nevében a mezőgazdasági és vidékfejlesztési támogatási szerv gyakorolja. A nyilvántartás vezetéséről és a tárolt adatok karbantartásáról a hatáskörrel rendelkező hatóságok gondoskodnak. A tevékenységi-hely nyilvántartási-rendszerrel összefüggő feladatok ellátásáról a mezőgazdasági és vidékfejlesztési támogatási szerv és a hatáskörrel rendelkező hatóságok együttműködési megállapodást kötnek.
+
 ### IV. Fejezet — ELJÁRÁSI SZABÁLYOK
 
 ### Általános szabályok
@@ -525,7 +551,9 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 ### Iratbetekintés
 
-34. § Korlátozható az iratbetekintés az ellenőrzés megkezdéséig, ha valószínűsíthető, hogy azok tartalmának megismerése a későbbi ellenőrzést meghiúsítaná.
+34. § (1) Korlátozható az iratbetekintés az ellenőrzés megkezdéséig, ha valószínűsíthető, hogy az iratok tartalmának megismerése az ellenőrzés eredményességét jelentősen befolyásolná.
+
+(2) A kérelemre induló eljárásban, a kérelmet benyújtó ügyfélen kívül más, ügyfélnek minősülő személy csak azokba az iratokba tekinthet be, amelyek megismerése joga érvényesítéséhez, vagy jogszabályon, hatósági határozaton alapuló kötelezettségének teljesítéséhez szükséges, és más személy üzleti vagy méltányolható magánérdekét nem sérti.
 
 ### Az iratok kezelése, vezetése
 
@@ -565,7 +593,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (3) A nem ügyfélkapun keresztül elektronikus úton, illetőleg adathordozón teljesített adatszolgáltatáshoz mellékelni kell az azzal azonos adattartalmú, aláírt iratot is, kivéve, ha azt legalább fokozott biztonságú elektronikus aláírással látták el. Az ügyfél köteles meggyőződni arról, hogy a papír alapú és az elektronikusan benyújtott példány adattartalma megegyezik. Abban az esetben, ha a papír alapon és az elektronikus módon benyújtott nyomtatványok adattartalma eltér, az elbírálásnál a papír alapú és aláírt példányt kell figyelembe venni.
 
-(4) Az (1) bekezdésben foglaltakra is figyelemmel a mezőgazdasági és vidékfejlesztési támogatási szervnek közzé kell tennie a rendszeresített nyomtatványokat, az ahhoz kapcsolódó eljárási tájékoztatókat, és gondoskodnia kell arról, hogy azok az ügyfelek számára megfelelő időben, az ügyfelek által szabadon elérhető helyen álljanak rendelkezésre.
+(4) Az (1) bekezdésben foglaltakra is figyelemmel a mezőgazdasági és vidékfejlesztési támogatási szervnek közzé kell tennie a rendszeresített nyomtatványokat, az ahhoz kapcsolódó eljárási tájékoztatókat, és gondoskodnia kell arról, hogy azok az ügyfelek számára megfelelő időben, az ügyfelek által elérhető helyen álljanak rendelkezésre. A haladéktalan szabályozást igénylő esetek kivételével az intézkedésre vonatkozó jogszabály kihirdetését követően, annak eltérő rendelkezése hiányában, a kérelmek benyújtására rendszeresített nyomtatványokat a mezőgazdasági és vidékfejlesztési támogatási szerv a kérelembenyújtási időszakot megelőző tíz nappal közzéteszi a honlapján.
 
 ### A kérelem benyújtása
 
@@ -573,17 +601,19 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (2) A (3) bekezdésben foglalt esetek kivételével a kérelmet postai úton kell benyújtani.
 
-(3) Jogszabály lehetővé teheti, hogy a kérelmet benyújtani, illetve adatszolgáltatási kötelezettséget teljesíteni a mezőgazdasági és vidékfejlesztési támogatási szervnél személyesen vagy fax útján is lehessen. A regisztrációs szám megállapítása iránti kérelem személyesen is benyújtható.
+(3) Amennyiben jogszabály vagy pályázati felhívást tartalmazó közlemény lehetővé teszi, a kérelmet benyújtani, illetve az adatszolgáltatási kötelezettséget teljesíteni a mezőgazdasági és vidékfejlesztési támogatási szervnél személyesen, telefax útján vagy elektronikus úton is lehet a jogszabályban vagy pályázati felhívást tartalmazó közleményben foglaltaknak megfelelően. A regisztrációs szám megállapítása, valamint a regisztrációs adatok módosítása iránti kérelem személyesen is benyújtható.
 
 (4) Jogszabály eltérő rendelkezése hiányában a kérelem benyújtására megállapított határidőt megtartottnak kell tekinteni, ha a kérelmet legkésőbb a határidő utolsó napján postára adták, illetve az elektronikus úton benyújtásra kerülő kérelmek esetében az automatikus értesítés legkésőbb a határidő utolsó napjának dátumával történő beérkezést igazolja.
 
-(5) Amennyiben ezt közvetlenül alkalmazandó közösségi jogi aktusban foglaltak végrehajtása megköveteli, jogszabály, illetve pályázati felhívást tartalmazó közlemény a kérelem vagy más irat benyújtása esetében a mezőgazdasági és vidékfejlesztési támogatási szervhez történő legkorábbi, illetve legkésőbbi beérkezési határidőt is meghatározhat.
+(5) Amennyiben ezt közvetlenül alkalmazandó közösségi jogi aktusban foglaltak végrehajtása megköveteli, jogszabály vagy pályázati felhívást tartalmazó közlemény a kérelem vagy más irat benyújtása esetében a mezőgazdasági és vidékfejlesztési támogatási szervhez történő legkorábbi, illetve legkésőbbi beérkezési határidőt, továbbá – a személyes benyújtás lehetőségének biztosítása mellett – telefax útján történő kötelező benyújtást is meghatározhat.
 
 (6) A kérelem benyújtására vagy beérkezésére nyitva álló, illetve eljárási cselekményre meghatározott határidő vagy határnap elmulasztása esetén – kivéve, ha az intézkedésben való részvétel részletes feltételeit meghatározó jogszabály ezt kifejezetten lehetővé teszi – igazolásnak helye nincs.
 
 (7) A kérelem, illetve a pályázat benyújtása, valamint a vonatkozó jogszabályokban, illetve a pályázati felhívásban rögzített feltételek teljesítése az intézkedésben való részvételre nem jelent alanyi jogosultságot, arról csak a rendelkezésre álló jogosultsági keretekre tekintettel hozható döntés.
 
 (8) Az intézkedésekben való részvétel során az ügyfélnek kell a jogosultsági feltételek meglétét hitelt érdemlően bizonyítania. Az ügyfelet terheli továbbá a kérelemmel, illetve a pályázattal összefüggésben tett bármilyen nyilatkozatával, állításával, valamint mezőgazdasági és vidékfejlesztési támogatási szerv által megállapított ténnyel szemben a bizonyítási kötelezettség.
+
+(9) Az intézkedésben való részvételre vonatkozó kérelemben az ügyfélnek nyilatkoznia kell arról, hogy tudomásul veszi, hogy amennyiben az intézkedésekkel kapcsolatos lejárt tartozását nem egyenlíti ki, a fizetési számláját vezető pénzforgalmi szolgáltató a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a végrehajtható okirat csatolása nélkül köteles teljesíteni.
 
 ### A kérelem befogadása
 
@@ -599,15 +629,21 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 ### A hiánypótlás
 
-41. § (1) Ha az intézkedésre vonatkozó jogszabály nem zárja ki, és a kérelemben található hiba az ügyfél közreműködése nélkül nyilvánvaló hibaként nem javítható ki, az ügyfelet legkésőbb az intézkedésre irányadó ügyintézési határidő kezdetét követő negyvenöt munkanapon belül hiánypótlásra kell felszólítani. Jogszabály ennél rövidebb határidőt is meghatározhat.
+41. § (1) Ha az intézkedésre vonatkozó jogszabály nem zárja ki, és a kérelemben található hiba az ügyfél közreműködése nélkül nyilvánvaló hibaként nem javítható ki, az ügyfelet legkésőbb az intézkedésre irányadó ügyintézési határidő kezdetét követő két hónapon belül hiánypótlásra kell felszólítani. Jogszabály ennél rövidebb határidőt is meghatározhat.
 
-(2) Jogszabály eltérő rendelkezése hiányában hiánypótlási felhívás azonos tárgyban ismételten nem bocsátható ki.
+(2) Jogszabály eltérő rendelkezése hiányában hiánypótlási, nyilatkozattételre való felhívás azonos tárgyban ismételten nem bocsátható ki.
 
-(3) Az intézkedések igénybevételének részletes szabályait tartalmazó jogszabály meghatározhatja azon adatok, illetve dokumentumok körét, amelyek a kérelem benyújtására nyitva álló határidő leteltét követően nem pótolhatók.
+(3) Az intézkedések igénybevételének részletes szabályait tartalmazó jogszabály meghatározhatja azon adatok, dokumentumok körét, amelyek a kérelem benyújtására nyitva álló határidő leteltét követően nem pótolhatók.
 
-(4) A kérelem elbírálása során nem lehet figyelembe venni a 26. § (1) bekezdés b)–e), valamint g) pontjaiban, valamint a (3) bekezdésben felsorolt nyilvántartási rendszerekben szereplő olyan adatokat, amelyeket a kérelem benyújtását követően pótoltak, illetve módosítottak.
+(4) A hiánypótlási és a nyilatkozattételre való felhívás teljesítésére rendelkezésre álló határidő nem haladhatja meg a harminc napot.
 
-(5) Az EMVA-ból és az EHA-ból finanszírozott intézkedések igénybevételének részletes szabályait tartalmazó jogszabály eltérő rendelkezése hiányában a hiánypótlásra azon dokumentumok, illetve adatok esetén, amelyek kizárólag a pontozás szempontjából veendők figyelembe, nincs lehetőség.
+(5) Amennyiben a hiánypótlást vagy a nyilatkozatát az ügyfél a hiánypótlásra vagy a nyilatkozattételre nyitva álló határidőn túl nyújtja be, azt a döntés meghozatalánál nem lehet figyelembe venni.
+
+(6) A kérelem elbírálása során nem lehet figyelembe venni a 26. § (1) bekezdés a)–e), valamint g) pontjaiban, valamint a (3) bekezdésében felsorolt nyilvántartási rendszerekben szereplő olyan adatokat, amelyeket a kérelem benyújtását követően pótoltak vagy módosítottak, amennyiben a módosítás az intézkedésben való részvétel feltételeinek utólagos teljesítésére vagy a kérelem kedvezőbb elbírálására irányul.
+
+(7) Jogszabály eltérő rendelkezése hiányában a hiánypótlásra azon dokumentumok és adatok esetén, amelyek kizárólag a pontozás szempontjából veendők figyelembe, nincs lehetőség.
+
+(8) Jogszabály eltérő rendelkezése hiányában a mezőgazdasági és vidékfejlesztési támogatási szerv előtt folyó eljárás az ügyfél kérelmére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 32. § (3) bekezdése alapján nem függeszthető fel, valamint a hiánypótlási, nyilatkozattételre való felhívás teljesítésére nyitva álló időszak nem hosszabbítható meg.
 
 ### A kérelem módosítása
 
@@ -615,7 +651,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (2) Az EMVA-ból és az EHA-ból finanszírozott intézkedések esetén, jogszabály eltérő rendelkezése hiányában az elsőfokú határozat meghozatalát követően a támogatási kérelem rangsort nem érintő adatai módosításának legkésőbbi benyújtási határideje a kifizetési kérelem benyújtására nyitva álló időszak első napját megelőző harmincadik nap. Rangsort érintő adatnak minősül minden olyan adat, érték, vállalás, ami szerepel az adott intézkedés értékelési szempontjai között.
 
-(3) Az EMVA-ból, és az EHA-ból finanszírozott intézkedések esetén, jogszabály eltérő rendelkezése hiányában a kifizetési kérelemben szereplő adatokra, a kifizetési kérelemhez csatolt dokumentumokra nézve módosítási kérelem a kifizetési kérelem benyújtására nyitva álló időszakon belül, legkésőbb az elsőfokú eljárás során hozott kifizetési döntés kézhezvételéig nyújtható be.
+(3) Az EMVA-ból, és az EHA-ból finanszírozott intézkedések esetén, jogszabály eltérő rendelkezése hiányában a kifizetési kérelemben szereplő adatokra, a kifizetési kérelemhez csatolt dokumentumokra nézve módosítási kérelem a kifizetési kérelem benyújtására nyitva álló időszakon belül nyújtható be.
 
 (4) Az EMGA-ból finanszírozott, valamint a tagállami hatáskörben hozott intézkedések esetén, jogszabály eltérő rendelkezése hiányában a kérelem benyújtási határidejét követően a benyújtott kérelemre vonatkozóan nem nyújtható be olyan módosítási kérelem, ami az eredeti kérelemben megjelölt igényt, támogatási alapot vagy összeget meghaladja, kivéve ha
 
@@ -626,9 +662,11 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 43. § (1) Az ügyfél az ellenőrzésről való tudomásszerzést követően az ellenőrzés alá vont intézkedésre – a vizsgált időszakra és az ellenőrzés tárgyára – vonatkozóan kérelmét nem módosíthatja vagy vonhatja vissza.
 
-(2) Amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv által folytatott helyszíni, valamint adminisztratív ellenőrzés nem tár fel szabálytalanságot, úgy az ügyfél a helyszíni ellenőrzési jegyzőkönyv kézhezvételét követően kérelmét a határozat jogerőre emelkedéséig visszavonhatja.
+(2) Amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv által folytatott helyszíni, valamint adminisztratív ellenőrzés nem tár fel szabálytalanságot, úgy az ügyfél – közvetlenül alkalmazandó közösségi aktus eltérő rendelkezése hiányában – a helyszíni ellenőrzésről készült, lezárt jegyzőkönyv kézhezvételét követően kérelmét a határozat vagy az eljárást megszüntető végzés jogerőre emelkedéséig részben vagy egészben visszavonhatja.
 
-43/A. § Amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv a 26. § (1) bekezdés b)–e), valamint g) pontjaiban, valamint a (3) bekezdés a)–x) pontjaiban meghatározott nyilvántartási rendszerek adatait használja fel a kérelmek, illetve pályázatok megfelelőségének vizsgálatához, abban az esetben a kérelem, illetve a pályázat benyújtása és a döntés meghozatala során a 26. § (1) bekezdés b)–e), valamint g) pontjaiban valamint a (3) bekezdés a)–x) pontjaiban meghatározott nyilvántartási rendszerekben az ügyfél által, a kérelem benyújtását követően kezdeményezett visszamenőleges módosítások nem fogadhatóak el.
+(3) Az eljárás megindítására irányuló kérelemre vonatkozó szabályokat kell megfelelően alkalmazni az ügyfél által benyújtott más kérelemre is azzal, hogy az az (1) bekezdésben meghatározott kivétellel a tárgyban hozott döntés jogerőre emelkedéséig vonható vissza.
+
+43/A. § Amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv a 26. § (1) bekezdés a)–e), valamint g) pontjaiban, valamint a (3) bekezdés a)–x) pontjaiban meghatározott nyilvántartási rendszerek adatait használja fel a kérelmek vagy pályázatok megfelelőségének vizsgálatához, abban az esetben a kérelem vagy a pályázat benyújtása és a döntés meghozatala során a 26. § (1) bekezdés a)–e), valamint g) pontjaiban, valamint a (3) bekezdés a)–x) pontjaiban meghatározott nyilvántartási rendszerekben az ügyfél által, a kérelem benyújtását követően kezdeményezett visszamenőleges módosítások nem fogadhatóak el, amennyiben a módosítás az intézkedésben való részvétel feltételeinek utólagos teljesítésére vagy a kérelem kedvezőbb elbírálására irányul.
 
 ### Az ügyfél nyilatkozata, a tanúvallomás
 
@@ -640,16 +678,16 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 ### A jogutódlás
 
-45. § (1) Törvény eltérő rendelkezése hiányában a jogutód ügyfelet megilletik mindazon jogok és terhelik mindazon kötelezettségek, amelyek a jogelődöt megillették, illetve terhelték.
+45. § (1) Jogszabály eltérő rendelkezése hiányában a jogutód ügyfelet megilletik mindazon jogok és terhelik mindazon kötelezettségek, amelyek a jogelődöt megillették és terhelték.
 
 (2) Eltérő megállapodás vagy határozat hiányában több jogutód esetén:
 
 - a) a jogelőd kötelezettségeit a jogutódok vagyonarányosan teljesítik, teljesítés hiányában pedig a jogelőd tartozásáért egyetemlegesen felelnek,
 - b) a támogatásra vagyonarányosan jogosultak.
 
-(3) A támogatásra jogosult ügyfél halála esetén a mezőgazdasági és vidékfejlesztési támogatási szerv a közjegyzői okiratban meghatározott támogatási összeg tekintetében végzéssel dönt az örökös részére történő átutalásáról. Amennyiben a közjegyzői okirat nem rendelkezik a támogatás összegéről, úgy az ügyfél örököse, több örökös esetében örökrészük arányában örökösei jogosultak a támogatás igénybevételére. Amennyiben a közjegyzői okirat nem rendelkezik a támogatás jellegű jogosultságról, úgy az ügyfélnek azon örököse (több örökös esetében azon örökösei örökrészük arányában) válik jogosulttá, aki a támogatás jellegű jogosultsághoz kötődő vagyontárgyat (így különösen: földterület, állatállomány) örökölte. Amennyiben a támogatás jellegű jogosultsághoz kötődő vagyontárgyra vonatkozóan a közjegyzői okirat haszonélvezeti jogot állapít meg, abban az esetben a haszonélvezeti jog jogosultja válik a támogatásra jogosulttá. A támogatás átutalásának feltétele, hogy az örökös, illetve a haszonélvezeti jog jogosultja az ügyfél-nyilvántartási rendszerben előzetesen regisztráltassa magát. Jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet jogutódlása esetén a jogutód kérelmére a jogutódlást igazoló okirat alapján dönt a mezőgazdasági és vidékfejlesztési támogatási szerv a támogatási összeg átutalásáról.
+(3) A támogatásra jogosult ügyfél halála esetén a mezőgazdasági és vidékfejlesztési támogatási szerv a hagyatékátadó végzésben vagy öröklési bizonyítványban meghatározott támogatási összeg tekintetében végzéssel dönt az örökös részére történő átutalásáról. Amennyiben a hagyatékátadó végzés vagy öröklési bizonyítvány nem rendelkezik a támogatás összegéről, úgy az ügyfél örököse, több örökös esetében örökrészük arányában örökösei jogosultak a támogatás igénybevételére. Amennyiben a hagyatékátadó végzés vagy öröklési bizonyítvány nem rendelkezik a támogatás jellegű jogosultságról, úgy az ügyfélnek azon örököse (több örökös esetében azon örökösei örökrészük arányában) válik jogosulttá, aki a támogatás jellegű jogosultsághoz kötődő vagyontárgyat (így különösen: földterület, állatállomány) örökölte. Amennyiben a támogatás jellegű jogosultsághoz kötődő vagyontárgyra vonatkozóan a hagyatékátadó végzés vagy öröklési bizonyítvány haszonélvezeti jogot állapít meg, abban az esetben a haszonélvezeti jog jogosultja válik a támogatásra jogosulttá. A támogatás átutalásának feltétele, hogy az örökös vagy a haszonélvezeti jog jogosultja az ügyfél-nyilvántartási rendszerben előzetesen regisztráltassa magát. Jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet jogutódlása esetén a jogutód kérelmére a jogutódlást igazoló okirat alapján dönt a mezőgazdasági és vidékfejlesztési támogatási szerv a támogatási összeg átutalásáról.
 
-(4) Az intézkedésben való részvételre jogosult ügyfél halála esetén a mezőgazdasági és vidékfejlesztési támogatási szerv a közjegyzői okiratban meghatározottak szerint dönt az egyes intézkedésekhez kapcsolódó nem támogatás jellegű jogosultságokról. Amennyiben a közjegyzői okirat nem rendelkezik a nem támogatás jellegű jogosultságokról, úgy az ügyfélnek azon örököse (több örökös esetében azon örökösei örökrészük arányában) válik jogosulttá, aki a nem támogatás jellegű jogosultsághoz kötődő vagyontárgyat (így különösen: földterület, állatállomány) örökölte. Amennyiben a nem támogatás jellegű jogosultsághoz kötődő vagyontárgyra vonatkozóan a közjegyzői okirat haszonélvezeti jogot állapít meg, abban az esetben a haszonélvezeti jog jogosultja válik jogosulttá. A nem támogatás jellegű jogosultság megállapításának feltétele továbbá, hogy az örökös, illetve a haszonélvezeti jog jogosultja az ügyfél-nyilvántartási rendszerben előzetesen regisztráltassa magát. Jogi személy, vagy jogi személyiséggel nem rendelkező egyéb szervezet jogutódlása esetén a mezőgazdasági és vidékfejlesztési támogatási szerv a jogutódlást igazoló okirat alapján dönt a nem támogatás jellegű jogosultságokról.
+(4) Az intézkedésben való részvételre jogosult ügyfél halála esetén a mezőgazdasági és vidékfejlesztési támogatási szerv a hagyatékátadó végzésben vagy öröklési bizonyítványban meghatározottak szerint dönt az egyes intézkedésekhez kapcsolódó nem támogatás jellegű jogosultságokról. Amennyiben a hagyatékátadó végzés vagy öröklési bizonyítvány nem rendelkezik a nem támogatás jellegű jogosultságokról, úgy az ügyfélnek azon örököse (több örökös esetében azon örökösei örökrészük arányában) válik jogosulttá, aki a nem támogatás jellegű jogosultsághoz kötődő vagyontárgyat (így különösen: földterület, állatállomány) örökölte. Amennyiben a nem támogatás jellegű jogosultsághoz kötődő vagyontárgyra vonatkozóan a hagyatékátadó végzés vagy öröklési bizonyítvány haszonélvezeti jogot állapít meg, abban az esetben a haszonélvezeti jog jogosultja válik jogosulttá. A nem támogatás jellegű jogosultság megállapításának feltétele továbbá, hogy az örökös vagy a haszonélvezeti jog jogosultja az ügyfél-nyilvántartási rendszerben előzetesen regisztráltassa magát. Jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet jogutódlása esetén a mezőgazdasági és vidékfejlesztési támogatási szerv a jogutód kérelmére a jogutódlást igazoló okirat alapján dönt a nem támogatás jellegű jogosultságokról.
 
 (5) A jogutód, illetve a haszonélvezeti jog jogosultja a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben fennálló követeléséről a külön jogszabályban meghatározottak szerinti jogutódlást igazoló döntés jogerőre emelkedését követő egy éven belül az intézkedés jellegének megfelelő tartalmú okirattal igazolhatja, hogy jogosult a támogatás összegére, illetve a nem támogatás jellegű jogosultság igénybevételére. Amennyiben a jogutód, illetve a haszonélvezeti jog jogosultja a külön jogszabályban meghatározottak szerinti jogutódlást igazoló döntés jogerőre emelkedését követő egy éven belül ilyen igazolást nem nyújt be a mezőgazdasági és vidékfejlesztési támogatási szervhez, úgy a külön jogszabályban meghatározottak szerinti jogutódlást igazoló döntés jogerőre emelkedését követő egy év elteltével, de legkésőbb az örökhagyó elhunytától, illetve a jogelőd megszűnésétől számított három év elteltével megszűnik a támogatás folyósítására, illetve a nem támogatás jellegű jogosultság igénybevételére vonatkozó jogosultsága, és a mezőgazdasági és vidékfejlesztési támogatási szerv az eljárást végzéssel megszünteti, továbbá a nem támogatás jellegű jogosultságot a nemzeti tartalék javára elvonja.
 
@@ -659,15 +697,17 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (8) Az EMVA-ból és az EHA-ból finanszírozott intézkedések esetén, jogszabály eltérő rendelkezése hiányában, a jogutód ügyfél az azonos intézkedésre, azonos támogatási kérelem benyújtási időszakban benyújtott támogatási kérelmekkel összefüggő kifizetési kérelmeit együttesen köteles benyújtani a mezőgazdasági és vidékfejlesztési támogatási szervhez.
 
+(9) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyféllel annak halálakor együtt élt házastársa vagy törvényes rend szerinti örököse kérelmére az intézkedéshez kapcsolódó eljárást megindíthatja. Ebben az esetben a mezőgazdasági és vidékfejlesztési támogatási szerv az eljárást a kérelem benyújtását követően felfüggeszti, majd a döntését a hagyatékátadó végzés benyújtását követően hozza meg.
+
 45/A. § (1) Amennyiben jogszabály másként nem rendelkezik a mezőgazdasági és vidékfejlesztési támogatási szerv a kérelemben foglalt egyes igényeket vagy a megosztható igények egyes részeit elkülönítve is elbírálhatja.
 
 (2) Ugyanazon ügyfél által indított folyamatban lévő, ugyanazon intézkedésben való részvételre benyújtott azon kérelmeket, amelyeknek tárgya egymással összefügg, a mezőgazdasági és vidékfejlesztési támogatási szerv együttesen is elbírálhatja.
 
 (3) A felek közösen előterjesztett egyesítési kérelmét elutasító végzés ellen önálló fellebbezésnek van helye. Amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv a felek kérelmére az eljárásokat egyesítette, az eljárás később nem választható szét.
 
-### A mezőgazdasági és vidékfejlesztési szerv által végzett folyamatba épített ellenőrzés
+### Az intézkedésekkel összefüggő egyes ellenőrzések
 
-46. § (1) E törvény ellenőrzésre vonatkozó rendelkezéseit a mezőgazdasági és vidékfejlesztési támogatási szervnek a kérelemmel kapcsolatos adminisztratív, illetve helyszíni ellenőrzésével, valamint a helyszíni szemlével összefüggő eljárásban (a továbbiakban: ellenőrzés) kell alkalmazni. Törvény eltérő rendelkezése hiányában a hatáskörrel rendelkező hatóság által a kölcsönös megfeleltetés körébe tartozó feltételek helyszíni ellenőrzésére e törvény rendelkezéseit kell alkalmazni.
+46. § (1) E törvény ellenőrzésre vonatkozó rendelkezéseit a mezőgazdasági és vidékfejlesztési támogatási szervnek a kérelemmel kapcsolatos adminisztratív és helyszíni ellenőrzésével, a helyszíni szemlével összefüggő eljárásban, valamint abban az esetben kell alkalmazni, ha a mezőgazdasági és vidékfejlesztési támogatási szerv eljárása során egyidejűleg, mint hatáskörrel rendelkező hatóság, a kölcsönös megfeleltetés körébe tartozó helyszíni ellenőrzést hajt végre (a továbbiakban együttesen: ellenőrzés).
 
 (2) Az ellenőrzés során vizsgálni kell, hogy a kérelemben, a pályázatban, illetve a döntést követően a határozatban, illetve a hatósági szerződésben foglalt adatok, tények, körülmények megfelelnek-e a valóságnak, az intézkedésben való részvétel feltételeit megállapító jogszabályban, illetve a pályázati felhívást tartalmazó közleményben foglaltaknak.
 
@@ -687,7 +727,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (6) Az (5) bekezdés alkalmazásában távérzékeléses ellenőrzésnek minősül az űr- és légi felvételek adatainak kiértékelésével lefolytatott ellenőrzés.
 
-48. § (1) A helyszíni ellenőrzést a mezőgazdasági és vidékfejlesztési támogatási szerv, vagy annak megbízása alapján az átruházott feladatot ellátó szerv megbízólevéllel, illetve szolgálati igazolvánnyal rendelkező alkalmazottja, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv ellenőrzését végző, arra jogosult szerv, illetve szervezet megbízólevéllel rendelkező alkalmazottja (a továbbiakban együtt: ellenőr) folytathatja le.
+48. § (1) A helyszíni ellenőrzést a hatáskörrel rendelkező hatóság, a mezőgazdasági és vidékfejlesztési támogatási szerv, vagy annak megbízása alapján az átruházott feladatot ellátó szerv megbízólevéllel vagy szolgálati igazolvánnyal rendelkező alkalmazottja, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv ellenőrzését végző, arra jogosult szerv, szervezet megbízólevéllel rendelkező alkalmazottja (a továbbiakban együtt: ellenőr) folytathatja le.
 
 (2) Az ellenőr részére kiállított, iktató számmal ellátott megbízólevél tartalmazza:
 
@@ -702,21 +742,17 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (3) Az ellenőr részére általános megbízólevél is kiállítható, amely tartalmazza a (2) bekezdés a)–b), valamint e)–h) pontjaiban foglaltakon túl azt a területet is, amelyen az ellenőr ellenőrzést végezhet.
 
-49. § (1) A helyszíni ellenőrzést a megkezdésétől számított három hónapon belül – illetve, ha az ügyintézésre ennél rövidebb idő áll rendelkezésre, erre figyelemmel az ügyintézési határidőn belül – kell lefolytatni. A határidőbe beleszámít az ellenőrzés megkezdésének és befejezésének napja is, mely időpontok jegyzőkönyvben rögzítésre kerülnek.
-
-(2) A helyszíni ellenőrzésre előírt határidőt a mezőgazdasági és vidékfejlesztési támogatási szerv vezetője indokolt esetben egy alkalommal két hónappal, de legfeljebb a jogszabályban meghatározott ügyintézési határidő lejártáig meghosszabbíthatja.
-
-(3) Az ellenőrzési határidő meghosszabbításáról az ügyfelet írásban értesíteni kell.
+49. §
 
 50. § (1) A helyszíni ellenőrzés az ügyfél előzetes értesítése nélkül is lefolytatható.
 
-(2) Amennyiben a helyszíni ellenőrzés lefolytatásához az ügyfél jelenléte szükséges, a (3) bekezdésben foglaltak kivételével a helyszíni ellenőrzés csak akkor kezdhető meg, ha az ügyfél vagy alkalmazottja, meghatalmazottja, ezek hiányában hatósági tanú jelen van. Az ügyfél alkalmazottja, illetve meghatalmazottja köteles e minőségét megfelelő módon igazolni. Igazolás hiányában a hatósági tanú alkalmazására vonatkozó szabályokat kell alkalmazni.
+(2) Ha a helyszíni ellenőrzés lefolytatásához az ügyfél jelenléte szükséges, akkor az ügyfelet úgy kell értesíteni, hogy az ügyfél – jelenlétének korlátozása esetén – képviseletét biztosítani tudja. Ha a helyszíni ellenőrzés lefolytatásához az ügyfél jelenléte szükséges, a (3) bekezdésben foglaltak kivételével a helyszíni ellenőrzés csak akkor kezdhető meg, ha az ügyfél vagy alkalmazottja, meghatalmazottja, ezek hiányában hatósági tanú jelen van. Az ügyfél alkalmazottja, meghatalmazottja köteles e minőségét megfelelő módon igazolni. Igazolás hiányában a hatósági tanú alkalmazására vonatkozó szabályokat kell alkalmazni.
 
 (3) Ha a helyszíni ellenőrzés az ügyfél közreműködése nélkül, külső vizsgálattal (szemrevételezéssel, méréssel) vagy távérzékeléssel elvégezhető, mellőzhető az ellenőrzésről történő tájékoztatás. Ebben az esetben a helyszíni ellenőrzés az ügyfél vagy alkalmazottja, meghatalmazottja, hatósági tanú jelenléte nélkül is elvégezhető.
 
-(4)
+(4) A helyszíni ellenőrzés időpontjáról az ügyfelet telefonon, elektronikus levélben vagy rövid szöveges üzenet útján is lehet értesíteni. Ebben az esetben a helyszíni ellenőrzés időpontjáról való értesítésről hivatalos feljegyzést kell készíteni.
 
-51. § (1) Ha az ügyfél iratai hiányosak vagy rendezetlenek, illetve nyilvántartásai pontatlanok vagy hiányosak, és így az intézkedéssel összefüggésben jogosultság megállapítására alkalmatlanok, a mezőgazdasági és vidékfejlesztési támogatási szerv mulasztási bírságot szabhat ki, továbbá kötelezheti az ügyfelet, hogy iratait, nyilvántartásait legfeljebb öt munkanapon belül rendezze, pótolja, illetőleg javítsa. Ez az időtartam az ellenőrzés határidejébe nem számít bele.
+51. § (1) Ha az ügyfél iratai hiányosak vagy rendezetlenek, illetve nyilvántartásai pontatlanok vagy hiányosak, és így az intézkedéssel összefüggésben jogosultság megállapítására alkalmatlanok, a mezőgazdasági és vidékfejlesztési támogatási szerv mulasztási bírságot szabhat ki, továbbá kötelezheti az ügyfelet, hogy iratait, nyilvántartásait legfeljebb nyolc napon belül rendezze, pótolja, illetőleg javítsa. Ez az időtartam az ellenőrzés határidejébe nem számít bele.
 
 (2) Amennyiben az (1) bekezdés szerinti hiányok pótlására nem kerül sor, azt a bírálat során úgy kell tekinteni, hogy az ügyfél az előírt nyilvántartási kötelezettségének nem tett eleget.
 
@@ -732,25 +768,22 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (5) Az ellenőr a helyszíni ellenőrzés során köteles a tényeket, körülményeket, adatokat rögzíteni, és a jelen levő ügyfelet, illetve annak képviselőjét az ellenőrzés során tett megállapításairól tájékoztatni.
 
-(6) Az ügyfélre nézve terhelő megállapításokat tartalmazó jegyzőkönyv egy másolati példányát az ellenőr – amennyiben az ehhez szükséges technikai feltételek adottak – köteles az ügyfélnek a helyszínen átadni vagy azt az ügyfél részére a jegyzőkönyv lezárásától számított tíz munkanapon belül megküldeni, amelyre az ügyfél öt munkanapon belül észrevételt tehet.
+(6) Az ügyfélre nézve terhelő megállapításokat tartalmazó jegyzőkönyv egy másolati példányát az ellenőr – amennyiben az ehhez szükséges technikai feltételek adottak – köteles az ügyfélnek a helyszínen átadni vagy azt az ügyfél részére a jegyzőkönyv lezárásától számított tizenöt napon belül megküldeni, amelyre az ügyfél nyolc napon belül észrevételt tehet.
 
-53. § (1) Az ellenőr a helyszíni ellenőrzés során:
+(7) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyféllel szerződéses kapcsolatban álló harmadik személynél az intézkedésben való részvétellel összefüggésben kapcsolódó ellenőrzést végezhet.
 
-- a)–d)
-- e) tisztázhatja a támogatásra való jogosultság megállapításához kapcsolódó tevékenységben résztvevők személyazonosságát, részvételük jogalapját,
-- f)
-- g) az ügyféllel szerződéses kapcsolatban álló harmadik személynél kapcsolódó ellenőrzést végezhet.
+(8) Amennyiben a tényállás tisztázását befolyásolja a helyszíni ellenőrzés során vagy a jegyzőkönyvre írásban, határidőn belül az ügyfél által előterjesztett észrevétel, a mezőgazdasági támogatási szerv a jegyzőkönyvet módosítja vagy ismételt ellenőrzés keretében kiegészítő jegyzőkönyv felvételével tisztázza a tényállást. Az ellenőrzést legfeljebb az észrevétel kézbesítésétől, szóban előterjesztett észrevétel esetén annak jegyzőkönyvbe vételének napjától számított harminc napig lehet folytatni, ha az ügyfél észrevételei indokolják vagy a határozat meghozatalához a tényállás tisztázása válik szükségessé. Ilyen esetben kiegészítő jegyzőkönyvet kell készíteni.
 
-(2)–(3)
+53. §
 
 54. § (1) A helyszíni ellenőrzés során az ügyfél jogosult:
 
 - a) az ellenőr személyazonosságáról és megbízásáról meggyőződni,
 - b)
 - c) megfelelő képviseletéről gondoskodni,
-- d) a jegyzőkönyvben szereplő megállapításokkal kapcsolatban felvilágosítást kérni, illetve a jegyzőkönyv átvételét követő öt munkanapon belül, az abban foglaltakra írásban észrevételt tenni.
+- d) a jegyzőkönyvben szereplő megállapításokkal kapcsolatban felvilágosítást kérni, illetve a jegyzőkönyv átvételét követő nyolc napon belül, az abban foglaltakra írásban észrevételt tenni.
 
-(2) Ha a magánszemély ügyfél jogainak gyakorlásában akadályozott, kérheti az akadály megszűnéséig, de legfeljebb negyvenöt munkanapig a helyszíni ellenőrzés megkezdésének elhalasztását vagy az ellenőrzési cselekmények szüneteltetését. Az ellenőrzés szünetelése az ellenőrzés időtartamába nem számít bele.
+(2) Ha a magánszemély ügyfél jogainak gyakorlásában akadályozott, kérheti az akadály megszűnéséig, de legfeljebb két hónapig a helyszíni ellenőrzés megkezdésének elhalasztását vagy az ellenőrzési cselekmények szüneteltetését. Az ellenőrzés szünetelése az ellenőrzés időtartamába nem számít bele.
 
 (3) A (2) bekezdésben foglaltak nem alkalmazhatóak abban az esetben, ha az ellenőrzés megkezdésének elhalasztása, illetve az ellenőrzési cselekmények szüneteltetése az ellenőrzés célját veszélyeztetné, meghiúsítaná, vagy egyéb módon ellehetetlenítené a folyamatban lévő eljárást.
 
@@ -758,50 +791,123 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 ### A döntés
 
-55. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv a kérelmet annak hiánytalan beérkezését követően, a támogatás kifizetésének közvetlenül alkalmazandó közösségi jogi aktusban meghatározott esedékességéig bírálja el.
+55. § (1) Jogszabály eltérő rendelkezése hiányában az intézkedésben való részvétel feltételeinek már a kérelem benyújtásakor fenn kell állniuk, azt követően újabb bizonyítékok, illetve tények nem hozhatók fel.
 
-(2) Amennyiben a támogatás kifizetésének esedékességét közvetlenül alkalmazandó közösségi jogi aktus nem határozza meg, vagy a kérelem nem kifizetésre irányul – jogszabály eltérő rendelkezése hiányában – a mezőgazdasági és vidékfejlesztési támogatási szerv a kérelmet annak hiánytalan beérkezését követő negyvenöt munkanapon belül bírálja el.
+(2) A mezőgazdasági és vidékfejlesztési támogatási szerv a kérelmet a támogatás kifizetésének közvetlenül alkalmazandó közösségi jogi aktusban meghatározott esedékességéig bírálja el.
 
-(3) Ha a támogatás kifizetésének esedékességét közvetlenül alkalmazandó közösségi jogi aktus nem határozza meg, és ha az EMVA-ból, illetve EHA-ból finanszírozott intézkedésekben való részvétel részletes feltételeit megállapító jogszabály alapján a támogatási kérelmek elbírálása rangsor állítása alapján történik, a mezőgazdasági és vidékfejlesztési támogatási szerv a kérelmeket valamennyi kérelem hiánytalan beérkezését követő három hónapon belül bírálja el.
+(3) A (2) bekezdésben foglalt eseteken kívül – jogszabály eltérő rendelkezése hiányában – a mezőgazdasági és vidékfejlesztési támogatási szerv az eljárás megindítására vonatkozó kérelmet annak beérkezését követő három hónapon belül bírálja el. Amennyiben a kérelmet érdemi vizsgálat nélkül kell elutasítani, a végzést a mezőgazdasági és vidékfejlesztési támogatási szerv harminc napon belül hozza meg. Az ügyfél-nyilvántartási rendszerben való nyilvántartással, valamint a fizetési halasztással, részletfizetéssel kapcsolatos kérelmet annak hiánytalan beérkezésétől számított huszonegy napon belül kell elbírálni.
 
-(4) A mezőgazdasági és vidékfejlesztési támogatási szerv a részben vagy egészben helyt adó elsőfokú döntés helyt adó része alapján a támogatást a fellebbezésre tekintet nélkül az ügyfél részére folyósítja.
+(4) Ha a támogatás kifizetésének esedékességét közvetlenül alkalmazandó közösségi jogi aktus nem határozza meg, és az intézkedésekben való részvétel részletes feltételeit megállapító jogszabály alapján a támogatási kérelmek elbírálása rangsor állítása vagy arányosítás alapján történik, a mezőgazdasági és vidékfejlesztési támogatási szerv a kérelmeket a kérelem benyújtására nyitva álló időszakot követő három hónapon belül bírálja el.
 
-(5) A mezőgazdasági és vidékfejlesztési támogatási szerv – az intézkedésben való részvétel feltételeit megállapító jogszabály eltérő rendelkezése hiányában – hatósági szerződést köthet.
+(5) Amennyiben jogszabály másként nem rendelkezik, a mezőgazdasági és vidékfejlesztési támogatási szerv a kérelemnek részben vagy egészben helyt adó elsőfokú döntés helyt adó része alapján a támogatást a fellebbezésre tekintet nélkül az ügyfél részére folyósítja.
 
-(6) Amennyiben közvetlenül alkalmazandó közösségi jogi aktus vagy egyéb jogszabály alapján kérelmeket együttesen kell benyújtani, illetve ha a benyújtott kérelmek bírálata egymással tartalmilag összefügg, a mezőgazdasági és vidékfejlesztési támogatási szerv a kérelmet a kérelmekre vonatkozó, valamennyi közös ellenőrzés lezárását követően, az adott intézkedésre irányadó határidőn belül bírálja el.
+(6) A mezőgazdasági és vidékfejlesztési támogatási szerv – az intézkedésben való részvétel feltételeit megállapító jogszabály eltérő rendelkezése hiányában – hatósági szerződést köthet.
 
-(7) Amennyiben az EMVA-ból, illetve az EHA-ból finanszírozott intézkedésekben való részvétel részletes feltételeit megállapító jogszabály alapján a támogatási kérelmek elbírálása rangsor állítása alapján történik, a mezőgazdasági és vidékfejlesztési támogatási szerv a kérelmek hiánypótlására nyitva álló időszakra az intézkedésre benyújtott valamennyi támogatási kérelemmel összefüggő eljárását felfüggesztheti.
+(7) Amennyiben közvetlenül alkalmazandó közösségi jogi aktus vagy egyéb jogszabály alapján kérelmeket együttesen kell benyújtani vagy a benyújtott kérelmek bírálata egymással tartalmilag összefügg, a mezőgazdasági és vidékfejlesztési támogatási szerv a kérelmet a kérelmekre vonatkozó, valamennyi közös ellenőrzés lezárását követően, az adott intézkedésre irányadó határidőn belül bírálja el.
 
-56. § (1)
+(8) Ha a támogatási kérelmek elbírálása rangsor állítása vagy arányosítás alapján történik, a mezőgazdasági és vidékfejlesztési támogatási szerv a kérelmek hiánypótlására nyitva álló időszakra az intézkedésre benyújtott valamennyi támogatási kérelemmel összefüggő eljárását felfüggesztheti.
 
-(2) Fellebbezés benyújtásának nincs helye, amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv a döntését az Európai Bizottság döntése vagy határozata alapján hozta meg, illetve ha a kérelem a jogosultsági keret kimerülése vagy forráshiány miatt került elutasításra.
+(9) Amennyiben jogszabály másként nem rendelkezik, a mezőgazdasági és vidékfejlesztési támogatási szerv az eredeti, az ügyfél aláírásával hitelesített eljárás megindítására irányuló kérelem vagy pályázat alapján hozza meg döntését.
 
-(3) A kérelmet érdemi vizsgálat nélkül huszonkét munkanapon belül el kell utasítani, ha:
+(10) A mezőgazdasági és vidékfejlesztési támogatási szerv a kérelmet elutasítja, amennyiben az ügyfél az intézkedésben való részvételhez szükséges feltételeket mesterséges körülmények létrehozásával azért teremtette meg, hogy az adott támogatási intézkedés céljaival ellentétes előnyhöz jusson.
 
-- a) a kérelmet az EMGA-ból finanszírozott intézkedések, illetve a nemzeti támogatások esetében a keret kimerülését követően nyújtották be;
-- b) a kérelem nem jogszabályban meghatározott módon (nyomtatványon) került benyújtásra, amennyiben az intézkedésre vonatkozó jogszabály így rendelkezik;
-- c) a kérelmet az igény érvényesítésére jogosult nem írta alá, kivéve az ügyfélkapun keresztül történő kérelembenyújtást;
+(11) Nem kell a szakhatóságot megkeresni, ha a mezőgazdasági és vidékfejlesztési támogatási szerv a hiánypótlási felszólítás kibocsátására nyitva álló határidőn belül megállapítja, hogy a kérelmet a szakhatósági állásfoglalástól függetlenül el kell utasítani.
+
+(12) A mezőgazdasági és vidékfejlesztési támogatási szerv vezetője az ügyintézési határidőt annak letelte előtt indokolt esetben egy alkalommal, legfeljebb az eljárásra nyitva álló időtartammal meghosszabbíthatja.
+
+56. § (1) Fellebbezés benyújtásának nincs helye, amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv
+
+- a) a döntését az Európai Bizottság döntése vagy határozata alapján hozta meg,
+- b) a kérelmet a jogosultsági keret kimerülése vagy forráshiány miatt utasítja el,
+- c) az intézkedés során arányos csökkentést alkalmaz és a kérelmet kizárólag ezen indokkal utasítja részben el,
+- d) a döntését közhiteles nyilvántartás adatainak – a 29/A. § (3) bekezdése alkalmazásával – az ügyfél-nyilvántartási rendszerben történt átvezetésével hozta meg,
+- e) a kérelmet érdemi vizsgálat nélkül a (2) bekezdés b), c), f) vagy g) pontokban meghatározott indokkal utasítja el.
+
+(2) A kérelmet érdemi vizsgálat nélkül el kell utasítani, ha:
+
+- a) a kérelmet a keret kimerülését követően nyújtották be;
+- b) a kérelem nem jogszabályban meghatározott módon (nyomtatványon) került benyújtásra;
+- c) az eljárást megindító kérelmet az igény érvényesítésére jogosult aláírásával nem hitelesítette, kivéve az ügyfélkapun keresztül történő kérelembenyújtást;
 - d) a kérelmet nem az igény érvényesítésére jogosult személy terjesztette elő;
 - e) a kérelem a benyújtási időszakot megelőzően került benyújtásra, vagy elkésett;
-- f) az ügyfél nem rendelkezik regisztrációs számmal, illetve a kérelemmel egyidejűleg sem nyújtott be intézkedésben való részvételhez szükséges, regisztrációs szám megállapítására alkalmas kérelmet;
-- g) a pénzügyi következményekkel járó intézkedésben részt vevő ügyfél legkésőbb a kérelem benyújtásával egyidejűleg sem jelenti be fizetési számlaszámát;
-- h) a kérelem nem tartalmaz olyan adatot, illetve dokumentumot, amely a kérelem benyújtására nyitva álló határidő leteltét követően nem pótolható;
-- i) a fellebbezési kérelmet a (2) bekezdésben foglaltak ellenére nyújtották be.
+- f) az ügyfél nem rendelkezik regisztrációs számmal vagy a kérelemmel egyidejűleg sem nyújtott be intézkedésben való részvételhez szükséges, regisztrációs szám megállapítására alkalmas kérelmet;
+- g) a pénzügyi következményekkel járó intézkedésben részt vevő ügyfél legkésőbb a kérelem benyújtásával egyidejűleg sem jelenti be a vállalkozása a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti minősítését vagy fizetési számlaszámát;
+- h) a kérelem nem tartalmaz olyan adatot, dokumentumot, amely a kérelem benyújtására nyitva álló határidő leteltét követően nem pótolható;
+- i) ha a támogatást igénylő, a pénzügyi következményekkel járó intézkedésekben való részvétel iránti kérelmet, felszámolási, végelszámolási vagy adósságrendezési eljárás alatt álló ügyfél nyújtotta be, kivéve, ha jogszabály ettől eltérően rendelkezik;
+- j) amennyiben az intézkedésre vonatkozó jogszabály alapján a kérelmet nyomtatványon kell benyújtani, és az eljárás megindítására irányuló kérelem nem tartalmazza a főlapot vagy az intézkedésben való részvételre vonatkozó jogszabályban meghatározott betétlapokat, vagy bármelyiket az igény érvényesítésére jogosult aláírásával a nyomtatványon megjelölt helyen nem hitelesítette;
+- k) az ügyfél az intézkedésben való részvételre vonatkozó kérelemben nem nyilatkozik arról, hogy tudomásul veszi, hogy a fizetési számlát vezető pénzforgalmi szolgáltató a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a végrehajtható okirat csatolása nélkül köteles teljesíteni.
+
+(3) A támogatás visszatartásáról, a mulasztási bírság kiszabásáról, valamint a hatósági szerződés felmondásáról szóló végzés ellen önálló fellebbezésnek van helye.
+
+(4) Az önálló fellebbezéssel meg nem támadható döntés ellen irányuló fellebbezést az elsőfokú döntést hozó hatóság érdemi vizsgálat nélkül elutasítja.
+
+56/A. § (1) Az ügyintézési határidőbe nem számít be:
+
+- a) közvetlenül alkalmazandó közösségi jogi aktus rendelkezése alapján az ellenőrzési minta növelése alapján lefolytatott többletellenőrzések időtartama, és azok eredményeinek kiértékeléséhez szükséges idő,
+- b) a mezőgazdasági és vidékfejlesztési támogatási szerv döntéshozatalához szükséges, költségvetési forrás rendelkezésre bocsátásáról szóló döntési eljárás időtartama,
+- c) az ügyfél helyszíni ellenőrzési jegyzőkönyvre vonatkozó, észrevételezésre rendelkezésre álló idejéből a helyszíni ellenőrzési jegyzőkönyv átadásától vagy megküldésétől az észrevétel beérkezéséig tartó időtartam,
+- d) a mulasztási bírság kiszabásától az annak beérkezéséig tartó időszak, feltéve, hogy a befizetés feltétele a mezőgazdasági és vidékfejlesztési támogatási szerv további eljárásának vagy intézkedésének,
+- e) az ügyfél kérelmére, vagy az ügyfélnek felróható okból megismételt eljárási cselekmény időtartama.
+
+(2) Az (1) bekezdés a) pontjában meghatározott esetben nincs helye az eljárás felfüggesztésének. Ebben az esetben a kérelmekre vonatkozó egyedi döntés helyett a mezőgazdasági és vidékfejlesztési támogatási szerv a honlapján közleményt bocsát ki.
+
+(3) Az (1) bekezdés b) pontjában meghatározott esetben a határozat indokolásában tájékoztatni kell az ügyfelet a mezőgazdasági és vidékfejlesztési támogatási szerv döntéshozatalához szükséges, költségvetési forrás rendelkezésre bocsátásáról szóló döntési eljárás időtartamáról.
+
+### A mezőgazdasági és vidékfejlesztési támogatási szervhez teljesítendő befizetések
+
+56/B. § Jogszabály eltérő rendelkezése hiányában a mezőgazdasági és vidékfejlesztési támogatási szerv az adott támogatási évben ugyanazon támogatási jogcím alapján nyilvántartott 1000 forintot el nem érő tartozásának megfizetésére az ügyfelet nem kötelezi, és a tartozást nyilvántartásában leírja.
+
+### Fizetési halasztás, részletfizetés engedélyezése
+
+56/C. § (1) Fizetési halasztás és részletfizetés (a továbbiakban együtt: fizetési kedvezmény) az ügyfél kérelmére a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben fennálló tartozás összegére engedélyezhető. A fizetési kedvezmény abban az esetben engedélyezhető, ha a fizetési nehézség
+
+- a) a kérelmezőnek nem róható fel, vagy annak elkerülése érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható, továbbá
+- b) átmeneti jellegű, tehát a tartozás későbbi megfizetése valószínűsíthető.
+
+(2) A fizetési kedvezmény iránti kérelem elbírálása és a feltételek meghatározása során figyelembe kell venni a fizetési nehézség kialakulásának okait és körülményeit, és a mezőgazdasági és vidékfejlesztési támogatási szerv a fizetési halasztást, részletfizetést engedélyező végzésben a kedvezményt feltételhez kötheti.
+
+(3) Magánszemély esetében a fizetési kedvezmény az (1) bekezdés a) pontjában foglaltak figyelmen kívül hagyásával is engedélyezhető, ha a kérelmező igazolja vagy valószínűsíti, hogy a tartozás azonnali vagy egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel aránytalanul súlyos megterhelést jelent.
+
+(4) Az esedékesség időpontja után benyújtott fizetési kedvezmény iránti kérelem esetén késedelmi pótlékot kell felszámítani a fizetési kedvezmény iránti kérelmet elbíráló végzés jogerőre emelkedéséig, ha azonban a fizetési könnyítést engedélyezik, a késedelmi pótlékot csak a fizetési könnyítést engedélyező elsőfokú döntés keltének napjáig kell felszámítani.
+
+(5) A fizetési kedvezményt megállapító végzés rendelkező részében fel kell hívni az adós figyelmét arra, hogy ha a kedvezmény feltételeit vagy az esedékes részletek befizetését nem teljesíti, a kedvezmény érvényét veszti, és a hátralék teljes összege járulékaival együtt egy összegben esedékessé válik.
+
+(6) A mezőgazdasági és vidékfejlesztési támogatási szerv előtti eljárásban – az 56/B. §-ban foglaltakat kivéve – nincs lehetőség az ügyféllel szemben fennálló követelés (intézkedésben való jogosulatlan részvétel, kamat, késedelmi pótlék) elengedésére, mérséklésére.
+
+(7) Fizetési kedvezmény engedélyezése a mezőgazdasági és vidékfejlesztési támogatási szerv 60. § (1) bekezdésében foglalt visszatartási jogának gyakorlását nem érinti.
+
+(8) A mezőgazdasági és vidékfejlesztési támogatási szerv által folytatott végrehajtási eljárás során – ide nem értve a más hatóság vagy bírósági végrehajtó megkeresésére folytatott végrehajtást – fizetési kedvezmény akkor engedélyezhető, ha az ügyfél bizonyítja, hogy tartozása teljesítésének határidőre történt elmaradása neki nem róható fel, és teljesítési szándéka továbbra is fennáll, de az egy összegben történő teljesítésre rajta kívül álló ok miatt nem képes vagy az számára aránytalan nehézséget jelentene. Az említett feltételek bármelyikének hiánya esetén a fizetési kedvezmény nem engedélyezhető.
 
 ### A döntés módosítása, visszavonása
 
-57. § (1) Ha a mezőgazdasági és vidékfejlesztési támogatási szerv megállapítja, hogy a fellebbezés elbírálására jogosult szerv, illetve a bíróság által még el nem bírált döntése jogszabálysértő, a határozatát az ügyfél terhére a döntés közlésétől számított egy éven belül, az ügyfél javára az intézkedésekben való részvételhez való jog közvetlenül alkalmazandó közösségi jogi aktusban, illetve jogszabályban meghatározott elévüléséig módosítja vagy visszavonja.
+57. § (1) Ha a mezőgazdasági és vidékfejlesztési támogatási szerv megállapítja, hogy a fellebbezés elbírálására jogosult szerv vagy a bíróság által még el nem bírált döntése jogszabálysértő, a határozatát az ügyfél terhére a döntés közlésétől számított egy éven belül, az ügyfél javára az intézkedésekben való részvételhez való jog közvetlenül alkalmazandó közösségi jogi aktusban, illetve jogszabályban meghatározott elévüléséig módosítja vagy visszavonja.
 
 (2) A döntést az ügyfél terhére a bűncselekmény büntethetőségének elévüléséig lehet módosítani, ha:
 
 - a) a bíróság a büntetőügyben hozott jogerős ítéletével megállapította, hogy az ügyfél az intézkedéssel összefüggésben bűncselekményt követett el,
-- b) a mezőgazdasági és vidékfejlesztési támogatási szerv döntést hozó ügyintézője a hivatali kötelességét a büntetőtörvénybe ütköző módon szegte meg úgy, hogy ez a döntés meghozatalát befolyásolta, és ezt a bíróság büntetőügyben hozott jogerős ítélete megállapította.
+- b) a mezőgazdasági és vidékfejlesztési támogatási szerv döntést hozó ügyintézője a hivatali kötelességét a büntető törvénybe ütköző módon szegte meg úgy, hogy ez a döntés meghozatalát befolyásolta, és ezt a bíróság büntetőügyben hozott jogerős ítélete megállapította.
 
-(3) Jogosulatlanul igénybe vett támogatás esetén az (1) bekezdés szerinti, a döntés ügyfél terhére történő módosítására vagy visszavonására – közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában – öt éven belül van lehetőség.
+(3) Az (1) bekezdés szerinti, a döntés ügyfél terhére történő módosítására vagy visszavonására – közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában – öt éven belül van lehetőség, amennyiben az ügyfél az intézkedésben jogosulatlanul vett részt.
 
-(4) Az intézkedés befejezését megelőzően, ha a döntés meghozatalakor fennálló körülmények lényegesen megváltoztak, az ügyfél indokolt kérelmére a mezőgazdasági és vidékfejlesztési támogatási szerv egy alkalommal módosíthatja jogerős, helyt adó vagy részben helyt adó döntését, amennyiben az ügyfél kérelme az ügy érdemében hozott döntést nem befolyásolja és a módosított döntés nem állapít meg az ügyfél részére több jogot.
+(4) Az intézkedés befejezését megelőzően, ha a döntés meghozatalakor fennálló körülmények lényegesen megváltoztak, az ügyfél indokolt kérelmére a mezőgazdasági és vidékfejlesztési támogatási szerv egy alkalommal módosíthatja jogerős, helyt adó vagy részben helyt adó döntését, amennyiben az ügyfél kérelme az érdemben hozott döntést nem befolyásolja és a módosított döntés nem állapít meg az ügyfél részére több jogot.
 
-(5) Amennyiben az intézkedés befejezését megelőzően a jogerős határozattal lezárt ügyben az ügyfél az intézkedésben vagy az intézkedéscsoportban való részvétel iránti kérelmét visszavonja, és a támogatás folyósítása még nem történt meg, – ha a kérelem visszavonásához jogszabály vagy az Európai Unió általános hatályú, közvetlenül alkalmazható, kötelező jogi aktusa külön jogkövetkezményt nem fűz – a mezőgazdasági és vidékfejlesztési támogatási szerv az ügyben hozott határozatát visszavonja.
+(5) Ha az intézkedés befejezését megelőzően a jogerős határozattal lezárt eljárást követően az ügyfél az intézkedésben vagy az intézkedéscsoportban való részvétel iránti kérelmét visszavonja, és a támogatás folyósítása még nem történt meg, – ha a kérelem visszavonásához jogszabály vagy az Európai Unió általános hatályú, közvetlenül alkalmazható, kötelező jogi aktusa külön jogkövetkezményt nem fűz – a mezőgazdasági és vidékfejlesztési támogatási szerv az ügyben hozott határozatát visszavonja.
+
+(6) Amennyiben az ügyfél folyamatban lévő ügy során olyan intézkedésben vagy intézkedéscsoportban való részvétel iránti kérelmét vonja vissza, amelyben a visszavonásra irányuló kérelme előterjesztéséig a támogatás vagy annak egy részének folyósítása megtörtént (támogatásról való lemondás), úgy a már folyósított támogatásra az intézkedésben való jogosulatlan részvétel szabályait kell alkalmazni.
+
+### Jogorvoslati eljárás
+
+57/A. § (1) A jogorvoslati eljárás során a törvény rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) A mezőgazdasági és vidékfejlesztési támogatási szerv döntése ellen benyújtott fellebbezésben pontosan meg kell jelölni azt a döntést, amely ellen a fellebbezés irányul, azaz fel kell tüntetni az ügyszámot, meg kell jelölni az ügyfél (és képviselője) nevét, lakóhelyét, székhelyét és azt az intézkedést, amely ellen a fellebbezés irányul. A fellebbezésben meg kell jelölni azt is, hogy a fellebbezést benyújtó személy a vitatott döntés megváltoztatását mennyiben és milyen okból kívánja.
+
+(3) A fellebbezést az ügy összes iratával a fellebbezés beérkezésének napjától számított harminc napon belül kell felterjeszteni a felettes szervhez, kivéve, ha az elsőfokú döntést hozó hatóság a megtámadott határozatot (végzést) visszavonja, illetőleg a fellebbezésnek megfelelően módosítja, kijavítja vagy kiegészíti.
+
+(4) A másodfokú döntést hozó hatóság a jogorvoslati eljárás során hozott döntését az ügy összes iratának beérkezését követő két hónapon belül hozza meg, amelyet a jogorvoslati kérelem elbírálója indokolt esetben, egy alkalommal ugyanezen időtartalommal meghosszabbíthat.
+
+(5) A fellebbezésben hivatkozott új tényt, új bizonyítékot a döntéshozatal során a másodfokú hatóság csak abban az esetben veheti figyelembe, ha az ügyfél igazolni tudja, valamint az ügy körülményeiből megállapítható, hogy az ügyfél az új tényről, bizonyítékról az intézkedésben való részvételre vonatkozó kérelme benyújtásakor rajta kívül álló okból nem tudott.
+
+(6) A fellebbezési eljárás során eljárási, valamint mulasztási bírság is kiszabható.
 
 ### A mezőgazdasági és vidékfejlesztési támogatási szerv által lefolytatott végrehajtás
 
@@ -809,17 +915,15 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 59. § (1)–(2)
 
-(3) A mezőgazdasági és vidékfejlesztési támogatási szervvel szemben fennálló tartozás (jogosulatlanul igénybe vett támogatás, egyéb fizetési kötelezettség) adók módjára behajtandó köztartozásnak minősül, és azt az e törvényben meghatározott kivételekkel az állami adóhatóság hajtja be.
+(3) A mezőgazdasági és vidékfejlesztési támogatási szervvel szemben fennálló tartozás (intézkedésben való jogosulatlan részvétel alapján megállapított, valamint egyéb fizetési kötelezettség) adók módjára behajtandó köztartozásnak minősül, és azt az e törvényben meghatározott kivételekkel az állami adóhatóság hajtja be.
 
-60. § (1) Az ügyfelet megillető támogatást a mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfelet terhelő, az intézkedésekkel összefüggő tartozás összegéig visszatarthatja és ezzel a tartozás megfizetettnek minősül.
+60. § (1) Az ügyfelet megillető támogatást – közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában – a mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfelet terhelő, az intézkedésekkel összefüggő tartozás összegéig visszatartja és ezzel a tartozás megfizetettnek minősül. Ha az igénybe vehető támogatás összege az ügyfelet terhelő tartozások mindegyikére nem nyújt fedezetet, azt az esedékesség sorrendjében kell a nyilvántartott tartozás kiegyenlítésére elszámolni.
 
-(2) Az ügyfél egyes támogatások esetében az adótartozással csökkentett összegre jogosult. Az állami adóhatóság az általa nyilvántartott adótartozás fennállásáról és összegéről a mezőgazdasági és vidékfejlesztési támogatási szerv megkeresésére adatot szolgáltat. Az adatszolgáltatásban szereplő adótartozás összegét a részben vagy egészben az Európai Unió által finanszírozott támogatásból a mindenkori központi költségvetési törvény értelmében, illetve a központi költségvetési forrásból finanszírozott nemzeti támogatásból az Áht. 13/A. § (6) bekezdése alapján a mezőgazdasági és vidékfejlesztési támogatási szerv visszatartja, és átutalja az állami adóhatóságnak. A visszatartott támogatásnak megfelelő összegű adótartozás az átutalással egyidejűleg megfizetettnek minősül.
+(2) Az ügyfél egyes támogatások esetében az adótartozással csökkentett összegre jogosult. Az állami adóhatóság az általa nyilvántartott tartozás fennállásáról és összegéről a mezőgazdasági és vidékfejlesztési támogatási szerv megkeresésére adatot szolgáltat. Az adatszolgáltatásban szereplő tartozás összegét a részben vagy egészben az Európai Unió által finanszírozott támogatásból a mindenkori központi költségvetési törvény vagy az Áht. szabályai szerint a mezőgazdasági és vidékfejlesztési támogatási szerv visszatartja, és átutalja az állami adóhatóságnak. A visszatartott támogatásnak megfelelő összegű tartozás az átutalással egyidejűleg megfizetettnek minősül.
 
-(3)
+(3) Ha az igénybe vehető támogatás összege az állami adóhatóság által a (2) bekezdés alapján szolgáltatott, az ügyfelet terhelő tartozások mindegyikére nem nyújt fedezetet, azt a tartozások arányában kell a nyilvántartott tartozás kiegyenlítésére elszámolni.
 
-(4) Ha az igénybe vehető támogatás összege az ügyfelet terhelő tartozások mindegyikére nem nyújt fedezetet, azt az esedékesség sorrendjében kell a nyilvántartott tartozás kiegyenlítésére elszámolni.
-
-61. § (1)
+61. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv az általa hozott határozatban foglaltak végrehajtása érdekében közvetlenül jogosult eljárni a hatósági átutalási megbízással kapcsolatban. A fizetési számlát vezető pénzforgalmi szolgáltató a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a végrehajtható okirat csatolása nélkül köteles teljesíteni.
 
 (2) Ha az adóst megillető járandóságot (kifizetést), a pénzforgalmi szolgáltatónál kezelt összeget, illetőleg követelést vonják végrehajtás alá, és a munkáltató, a kifizető pénzforgalmi szolgáltató, valamint más személy felhívás ellenére a levonást, átutalást, megfizetést elmulasztja, vagy nem a jogszabályban előírtaknak megfelelően teljesíti, az érintettet a mezőgazdasági és vidékfejlesztési támogatási szerv döntésében kötelezi a levonni, átutalni, megfizetni elmulasztott összeg erejéig a tartozás megfizetésére.
 
@@ -846,8 +950,12 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 63. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv végzéssel törölheti az ügyfél tartozását, amennyiben:
 
-- a) azt az adóhatóság behajthatatlannak minősítette és a mezőgazdasági és vidékfejlesztési támogatási szerv az adóssal szemben nem kezdeményezett felszámolási eljárást.
-- b)
+- a) azt az adóhatóság behajthatatlannak minősítette;
+- b) az az adóhatóságnak az adós ellen vezetett végrehajtása során fedezet részbeli vagy egészbeli hiánya miatt nem térül meg;
+- c) azt a felszámoló az általa adott írásbeli igazolás (nyilatkozat) szerint behajthatatlannak minősítette;
+- d) az a felszámolás, az adósságrendezési eljárás befejezésekor a vagyonfelosztási javaslat szerint nem térül meg;
+- e) az adós természetes személy úgy hunyt el, hogy a hagyaték – más örökös hiányában – az államra száll, vagy jogutód nélkül szűnt meg;
+- f) az a hatályos jogszabályok alapján elévült.
 
 (2) Az esedékessé válást követő hat hónapon belül az ügyfelet terhelő tartozás végrehajthatatlanság címén nem törölhető.
 
@@ -857,7 +965,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 ### Elévülés
 
-64. § (1) Közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában a jogosulatlanul igénybe vett támogatás visszatérítésének megállapításához való jog annak a naptári évnek az utolsó napjától számított öt év elteltével évül el, amelyben a támogatást jogosulatlanul igényelték. Bűncselekmény elkövetése esetén, ha azt a támogatásra követik el, a támogatás visszatérítésének megállapításához való jog nem évül el mindaddig, amíg a bűncselekmény büntethetősége el nem évül.
+64. § (1) Közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában az intézkedésben való jogosulatlan részvétel megállapításához való jog annak a naptári évnek az utolsó napjától számított öt év elteltével évül el, amelyben az intézkedésben jogosulatlanul részt vettek. Bűncselekmény elkövetése esetén, ha azt a támogatásra követik el, a támogatás visszatérítésének megállapításához való jog nem évül el mindaddig, amíg a bűncselekmény büntethetősége el nem évül.
 
 (2) Ha a támogatás igénybevételi jogosultságot érintő határozatot a bíróság felülvizsgálja, a kereset benyújtásától a bíróság határozatának jogerőre emelkedéséig a támogatás visszatérítésének megállapításához való jog elévülése nyugszik.
 
@@ -930,26 +1038,30 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 ### VI. Fejezet — JOGKÖVETKEZMÉNYEK
 
-### A támogatás visszafizetése
+### Az intézkedésben való jogosulatlan részvétel
 
-69. § (1) Az igénybe vett támogatás egésze vagy egy része jogosulatlannak minősül, amennyiben az ügyfél:
+69. § (1) Az intézkedésben való részvétellel összefüggésben megállapított jogosultság vagy az igénybe vett támogatás egésze vagy egy része jogosulatlannak minősül, amennyiben az ügyfél:
 
-- a) valótlan tényeket közöl,
+- a) valótlan tényt közöl,
 - b) adatot eltitkol,
-- c) a támogatás céljának megvalósulásával kapcsolatos vizsgálatot vagy ellenőrzést akadályozza, ideértve azt az esetet is, ha adatszolgáltatási vagy fizetési kötelezettségét megszegi,
-- d) a támogatást rendeltetéstől eltérően használja fel, illetve
-- e) a jogszabályban, illetve a pályázati felhívásban meghatározott támogatási feltételeket – ideértve a támogatás kifizetését követő időszakra vállalt kötelezettségeket is – megszegi,
-- f) olyan támogatást vett igénybe, amelynek alkalmazását az Európai Közösség nem engedélyezte vagy nem vette tudomásul [az a)–f) pontokban foglaltak a továbbiakban együtt: jogosulatlanul igénybe vett támogatás].
+- c) az intézkedés céljának megvalósulásával kapcsolatos vizsgálatot vagy ellenőrzést akadályozza, ideértve azt az esetet is, ha adatszolgáltatási vagy fizetési kötelezettségét megszegi,
+- d) az intézkedésben való részvételi jogosultságot vagy a támogatást rendeltetéstől eltérően használja fel,
+- e) a jogszabályban vagy a pályázati felhívásban meghatározott intézkedésben való részvételre vonatkozó feltételeket – ideértve a támogatás kifizetését megelőző vagy azt követő időszakra vállalt kötelezettségeket is – megszegi,
+- f) olyan intézkedésben vesz részt, amelynek alkalmazását az Európai Közösség nem engedélyezte vagy nem vette tudomásul [az a)–f) pontokban foglaltak a továbbiakban együtt: intézkedésben való jogosulatlan részvétel].
 
-(2) A támogatás egészét jogosulatlanul igénybe vett támogatásnak kell tekinteni, ha az ügyfél valamely tényről, körülményről írásban olyan valótlan tartalmú nyilatkozatot tesz, amely a jogosultság megállapítását érdemben érinti.
+(2) Az intézkedésben való részvételt jogosulatlannak kell tekinteni, ha az ügyfél valamely tényről, körülményről írásban olyan valótlan tartalmú nyilatkozatot tesz, amely a jogosultság megállapítását érdemben érinti.
 
-(3) Amennyiben közvetlenül alkalmazandó közösségi jogi aktus vagy jogszabály a jogosulatlanul igénybe vett támogatás jogkövetkezményeként a támogatás csökkentését írja elő, annak mértékét és feltételeit jogszabályban kell megállapítani, amennyiben erről a közösségi jogi aktus nem rendelkezik.
+(3) Amennyiben közvetlenül alkalmazandó közösségi jogi aktus vagy jogszabály az intézkedésben való jogosulatlan részvétel jogkövetkezményeként a támogatás csökkentését írja elő, annak mértékét és feltételeit jogszabályban kell megállapítani, amennyiben erről a közösségi jogi aktus nem rendelkezik.
 
-(4) A mezőgazdasági és vidékfejlesztési támogatási szerv nyilvántartja az ügyfél által jogosulatlanul igénybe vett támogatást és azon időpontot, ameddig jogszabály rendelkezései szerint ugyanazon intézkedésben vagy intézkedéscsoportban nem vehet részt.
+(4) A mezőgazdasági és vidékfejlesztési támogatási szerv nyilvántartja azon intézkedés(eke)t, amely(ek)ben az ügyfél jogosulatlanul vett részt, és azon időpontot, ameddig jogszabály rendelkezései szerint az ügyfél ugyanazon intézkedésben vagy intézkedéscsoportban nem vehet részt.
 
-(5) A jogosulatlanul igénybe vett támogatást kamattal növelten kell visszafizetni. A kamat mértéke a kamatszámítás időszakának minden napjára a mindenkori jegybanki alapkamat kétszeresének 365-öd része. A kamatszámítás kezdő időpontja – amennyiben közvetlenül alkalmazandó közösségi jogi aktus másként nem rendelkezik – a jogosulatlanul igénybe vett támogatás ügyfél fizetési számláján történő jóváírásának a napja. A kamatszámítás záró időpontja – amennyiben közvetlenül alkalmazandó közösségi jogi aktus másként nem rendelkezik – a támogatás jogosulatlan igénybevételét megállapító határozat kelte. Ez a rendelkezés nem érinti a jogszabályban meghatározott egyéb jogkövetkezményeket.
+(5) Az intézkedésben való jogosulatlan részvétellel igénybe vett támogatást kamattal növelten kell visszafizetni. A kamat mértéke a kamatszámítás időszakának minden napjára a mindenkori jegybanki alapkamat kétszeresének 365-öd része. A kamatszámítás kezdő időpontja – amennyiben közvetlenül alkalmazandó közösségi jogi aktus másként nem rendelkezik – a jogosulatlanul igénybe vett támogatás ügyfél fizetési számláján történő jóváírásának a napja. Amennyiben közvetlenül alkalmazandó közösségi jogi aktus másként nem rendelkezik, a kamatszámítás záró időpontja az intézkedésben való jogosulatlan részvételt megállapító határozat kelte előtt visszafizetett támogatás tekintetében a visszafizetés napja, egyéb esetekben az intézkedésben való jogosulatlan részvételt megállapító határozat kelte. Ez a rendelkezés nem érinti a jogszabályban meghatározott egyéb jogkövetkezményeket.
 
-(6) Amennyiben az ügyfél részére a mezőgazdasági és vidékfejlesztési támogatási szervnek felróható okból tévesen vagy jogalap nélkül fizetik ki a támogatást, illetve az ügyfél olyan nemzeti támogatásban részesül, amelynek alkalmazását az Európai Unió nem engedélyezte vagy nem vette tudomásul, a támogatás visszafizetését kamat nem terheli.
+(6) Amennyiben az ügyfél részére a mezőgazdasági és vidékfejlesztési támogatási szervnek felróható okból tévesen vagy jogalap nélkül fizetik ki a támogatást vagy az ügyfél olyan nemzeti támogatásban részesül, amelynek alkalmazását az Európai Unió nem engedélyezte vagy nem vette tudomásul, a támogatás visszafizetését kamat nem terheli.
+
+(7) A mezőgazdasági és vidékfejlesztési támogatási szervnek az intézkedésben való jogosulatlan részvételt megállapító döntése a közlés időpontjától kezdődően – a mezőgazdasági és vidékfejlesztési támogatási szerv visszatartási jogának érvényesítése útján – fellebbezésre tekintet nélkül végrehajtható.
+
+(8) Az intézkedésben való jogosulatlan részvételt megállapító határozat jogerőre emelkedésével – amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv csak a támogatás egy része tekintetében állapítja meg a jogosulatlan részvételt, úgy az érintett rész vonatkozásában – az ügyfél intézkedésben való részvételhez fűződő jogosultsága megszűnik. Intézkedésben való jogosulatlan részvétel megállapítására a jogosultságot megállapító határozat közlésétől számított öt éven belül van lehetőség.
 
 ### Késedelmi pótlék
 
@@ -961,18 +1073,17 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 ### Mulasztási bírság
 
-71. § (1) Az ügyfél ötszázezer forintig terjedő, a támogatási összeggel, illetve az (5) bekezdés szerinti jogellenes magatartás súlyával arányos mulasztási bírsággal sújtható, ha az e törvény, valamint annak felhatalmazása alapján alkotott jogszabály szerinti, továbbá közigazgatási határozatban, hatósági szerződésben meghatározott:
+71. § (1) Az ügyfél ötszázezer forintig terjedő, a támogatási összeggel vagy az (5) bekezdés szerinti jogellenes magatartás súlyával arányos mulasztási bírsággal sújtható, ha az e törvény, valamint annak felhatalmazása alapján alkotott jogszabály szerinti, továbbá közigazgatási döntésben, hatósági szerződésben meghatározott:
 
 - a) bejelentési, változásbejelentési, monitoring vagy más jellegű adatszolgáltatási kötelezettségének nem tesz eleget, vagy azt késedelmesen, hibásan, valótlan adattartalommal, hiányosan vagy nem az előírt módon teljesíti,
-- b) az intézkedésekkel, valamint az egyéb nyilvántartási kötelezettségekkel összefüggésben a jogszabályban előírt bizonylatok kiállítását, illetve könyvek, nyilvántartások vezetését elmulasztja, vagy a bizonylatokat az előírásoktól eltérően állítja ki, a könyveket, nyilvántartásokat hiányosan vagy az előírásoktól eltérően vezeti,
+- b) az intézkedésekkel, valamint az egyéb nyilvántartási kötelezettségekkel összefüggésben a jogszabályban előírt bizonylatok kiállítását vagy könyvek, nyilvántartások vezetését elmulasztja, vagy a bizonylatokat az előírásoktól eltérően állítja ki, a könyveket, nyilvántartásokat hiányosan vagy az előírásoktól eltérően vezeti,
 - c) iratmegőrzési kötelezettségének nem tesz eleget,
 - d) a nyilatkozattételt elmulasztja, megtagadja, vagy félrevezető nyilatkozatot tesz,
 - e) a fennálló köztartozásáról vagy egyéb körülményről valótlan tartalmú nyilatkozatot tesz.
-- f)
 
 (2) Az (1) bekezdés a) pontja szerinti késedelem esetén nincs helye mulasztási bírság megállapításának, ha az ügyfél késedelmét annak igazolásával menti ki, hogy úgy járt el, ahogy az adott helyzetben általában elvárható.
 
-(3) A bejelentkezési, bejelentési, változásbejelentési, adatszolgáltatási kötelezettség elmulasztása esetén a mulasztási bírság megállapításával egyidejűleg a mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfelet – határidő tűzésével – teljesítésre hívja fel. A kiszabott bírság kétszeresét kell újabb határidő tűzésével megállapítani, ha a teljesítésre kötelező újabb határozatban előírt határidőt az ügyfél szintén elmulasztja. A kötelezettség teljesítése esetén az e bekezdés alapján kiszabott bírság korlátlanul mérsékelhető.
+(3) A bejelentkezési, bejelentési, változásbejelentési, adatszolgáltatási kötelezettség elmulasztása esetén a mulasztási bírság megállapításával egyidejűleg a mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfelet – határidő tűzésével – teljesítésre hívja fel. A kiszabott bírság kétszeresét kell újabb határidő tűzésével megállapítani, ha a teljesítésre kötelező újabb végzésben előírt határidőt az ügyfél szintén elmulasztja. A kötelezettség teljesítése esetén az e bekezdés alapján kiszabott bírság korlátlanul mérsékelhető.
 
 (4)
 
@@ -980,7 +1091,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 ### Egyes támogatások igénybevételéből való kizárás
 
-72. § (1) Ha közvetlenül alkalmazandó közösségi jogi aktus eltérően nem rendelkezik, az az ügyfél, aki jogosulatlanul vette igénybe a támogatást, illetve a mulasztási bírság alapjául szolgáló cselekményt szándékosan, illetőleg ismételten valósítja meg, legfeljebb öt évre kizárható egyes támogatások igénybevételéből.
+72. § (1) Ha közvetlenül alkalmazandó közösségi jogi aktus eltérően nem rendelkezik, az az ügyfél, aki intézkedésben jogosulatlanul vett részt, illetve a mulasztási bírság alapjául szolgáló cselekményt szándékosan, illetőleg ismételten valósítja meg, legfeljebb öt évre kizárható egyes támogatások igénybevételéből.
 
 (2) Ismételten valósítja meg a cselekményt az, aki öt éven belül legalább két alkalommal követi el a jogkövetkezmény alapjául szolgáló cselekményt.
 
@@ -992,11 +1103,11 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 73. § (1) A kölcsönös megfeleltetés hatálya alá tartozó ellenőrzés alapján hozott döntésben szereplő megállapítások szolgálnak a kölcsönös megfeleltetési rendszer szabályainak megsértése miatti jogkövetkezmény jogalapjául.
 
-(2) A kölcsönös megfeleltetés szabályainak megsértése miatti jogkövetkezményről a mezőgazdasági és vidékfejlesztési támogatási szerv a támogatási kérelemről szóló határozatban rendelkezik.
+(2) A kölcsönös megfeleltetés szabályainak megsértése miatti jogkövetkezményről a mezőgazdasági és vidékfejlesztési támogatási szerv határozatban rendelkezik.
 
 (3) A kölcsönös megfeleltetés szabályainak megsértése miatti jogkövetkezmény nem érinti a külön jogszabályban foglaltak szerinti jogkövetkezményt.
 
-(4) Amennyiben bíróság vagy szabálysértési hatóság a támogatásra való jogosultság megállapításáról vagy a kölcsönös megfeleltetés szabályainak megsértése miatti jogkövetkezményről hozott határozatot követően olyan jogerős határozatot hoz, amelynek alapján az érintettre nézve hátrányosabb jogkövetkezmény lenne megállapítható, ezen határozat alapján a mezőgazdasági és vidékfejlesztési támogatási szerv hivatalból lefolytatott eljárása során módosítja jogkövetkezményt megállapító határozatát. A mezőgazdasági és vidékfejlesztési támogatási szerv a módosításról a határozat jogerőre emelkedésétől számított három éven belül dönthet. A támogatásnak a módosított határozattal érintett és már igénybe vett része jogosulatlanul igénybe vett támogatásnak minősül.
+(4) Amennyiben bíróság vagy szabálysértési hatóság a támogatásra való jogosultság megállapításáról vagy a kölcsönös megfeleltetés szabályainak megsértése miatti jogkövetkezményről hozott határozatot követően olyan jogerős határozatot hoz, amelynek alapján az érintettre nézve hátrányosabb jogkövetkezmény lenne megállapítható, ezen határozat alapján a mezőgazdasági és vidékfejlesztési támogatási szerv hivatalból lefolytatott eljárása során módosítja jogkövetkezményt megállapító határozatát. A mezőgazdasági és vidékfejlesztési támogatási szerv a módosításról a határozat jogerőre emelkedésétől számított három éven belül dönthet. A támogatásnak a módosított határozattal érintett és már igénybe vett része intézkedésben való jogosulatlan részvételnek minősül.
 
 ### Nem teljesítési bírság
 
@@ -1017,7 +1128,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 - a) az intézkedésekben való részvétellel,
 - b) a mezőgazdasági vagyoni értékű jogra való jogosultság megállapításával,
 - c) a nyilvántartásba vétellel,
-- d) a mezőgazdasági vagyoni értékű jog átruházásához kapcsolódó hatósági hozzájárulással, valamint
+- d) a mezőgazdasági vagyoni értékű jog átruházásával, átengedésével, nyilvántartásban történő átvezetésével, valamint
 - e) a hatósági engedélyezéssel
 
 kapcsolatos eljárások.
@@ -1038,7 +1149,7 @@ kapcsolatos eljárások.
 
 (2) A mezőgazdasági vagyoni értékű jog átruházásáról, illetve ideiglenes átengedéséről szóló szerződés, illetve a szerződés módosítása alapján – közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában – a felek közösen kötelesek kérelmezni az átruházni, illetve ideiglenesen átengedni kívánt mezőgazdasági vagyoni értékű jogok nyilvántartásban történő átvezetését, amennyiben a nyilvántartás vezetése a mezőgazdasági és vidékfejlesztési támogatási szerv hatáskörébe tartozik. Jogszabály előírhatja, hogy az átruházás vagy az ideiglenes átengedés tényét a szerződés hatálybalépését megelőzően, előzetesen be kell jelenteni a mezőgazdasági és vidékfejlesztési támogatási szervnek.
 
-(3) A mezőgazdasági és vidékfejlesztési támogatási szerv a nyilvántartásba vétel iránti kérelemről a kérelem beérkezését követő negyvenöt munkanapon belül dönt. A nyilvántartásban való átvezetésig az átadó viseli a vagyoni értékű jogokkal járó kötelezettségeket.
+(3) A mezőgazdasági és vidékfejlesztési támogatási szerv a (2) bekezdés szerinti kérelemről a kérelem beérkezését követő naptól számított két hónapon belül dönt. A nyilvántartásban való átvezetésig az átadó viseli a vagyoni értékű jogokkal járó kötelezettségeket.
 
 (4) Amennyiben jogszabály előírja, hogy a mezőgazdasági vagyoni értékű jog átruházása, illetve ideiglenes átengedése csak a megfelelő földterület, állatállomány, illetőleg mezőgazdasági üzem (üzemrész) átruházásával vagy átengedésével együtt történhet, az átruházás, illetve ideiglenes átengedés további feltételeit külön jogszabály határozza meg.
 
@@ -1048,7 +1159,7 @@ kapcsolatos eljárások.
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv az elháríthatatlan külső ok meglétét intézkedésenként egyedileg, és a következménnyel okozati összefüggésben vizsgálja, és dönt annak elfogadásáról.
 
-(3) Nem tekinthető jogosulatlanul igénybe vett támogatásnak, ha az ügyfél kötelezettségének elháríthatatlan külső ok miatt igazoltan nem tud eleget tenni.
+(3) Nem tekinthető intézkedésben való jogosulatlan részvételnek, ha az ügyfél kötelezettségének elháríthatatlan külső ok miatt igazoltan nem tud eleget tenni.
 
 ### A nemzeti hatáskörben nyújtott egyes támogatásokra vonatkozó külön szabályok
 
@@ -1057,6 +1168,10 @@ kapcsolatos eljárások.
 (2) A miniszter közleményt ad ki a forrás kimerüléséről.
 
 79. § A külön jogszabályban meghatározott birtokösszevonási célú termőföld vásárlás támogatásával összefüggésben az állam javára elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyezni.
+
+### A Nemzeti Diverzifikációs Programra vonatkozó külön szabályok
+
+79/A. § Az EMGA-ból támogatott Nemzeti Diverzifikációs Program keretében az intézkedéseket az e törvényben az EMVA-ból vagy az EHA-ból finanszírozott intézkedésekre vonatkozó szabályok szerinti eltéréssel kell végrehajtani.
 
 ### IX. Fejezet — HATÁLYBA LÉPTETŐ ÉS ÁTMENETI RENDELKEZÉSEK
 
@@ -1076,7 +1191,7 @@ kapcsolatos eljárások.
 
 81. § (1) Felhatalmazást kap a Kormány, hogy:
 
-- a) az EMGA-ból, az EMVA-ból, az EHA-ból támogatott intézkedésekkel kapcsolatos pénzügyi, számviteli, lebonyolítási, biztosítékkezelési rendet,
+- a) a törvény hatálya alá tartozó intézkedésekkel kapcsolatos pénzügyi, számviteli, lebonyolítási, biztosítékkezelési rendet,
 - b)
 - c) a mezőgazdasági, halászati, erdészeti és vidékfejlesztési állami támogatások Európai Bizottság részére történő bejelentési rendjére vonatkozó részletes szabályokat,
 - d) a külpiaci intézkedések végrehajtásának általános szabályait,
@@ -1092,11 +1207,11 @@ rendeletben állapítsa meg.
 
 - a) a törvény hatálya alá tartozó egyes intézkedések igénybevételével, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal kapcsolatos részletes, valamint az intézkedésekben való részvétellel kapcsolatos általános szabályokat,
 - b) a mezőgazdasági vagyoni értékű jogok kiosztásának részletes szabályait, illetve nemzeti tartalékának mértékét,
-- c) a mezőgazdasági és vidékfejlesztési szaktanácsadási rendszer felállítására, működésére, valamint a szaktanácsadók képzettségére vonatkozó részletes szabályokat,
+- c) a mezőgazdasági és vidékfejlesztési szaktanácsadási rendszer felállítására, működésére, a területi szaktanácsadási központként végzett tevékenység engedélyezésére, valamint a szaktanácsadók képzettségére vonatkozó részletes szabályokat,
 - d) az elháríthatatlan külső ok (vis maior) bejelentésével és igazolásával kapcsolatos részletes szabályokat,
 - e) a helyi akciócsoportok elismerési rendjének részletes szabályait,
 - f) a nemzeti vidéki hálózat felállításával kapcsolatos részletes szabályokat,
-- g) az EMVA, illetve az EHA esetén alkalmazandó monitoring részletes szabályait, illetve a monitoringindikátorok alapján képzett adatok és az adatok szolgáltatására kötelezettek körét, valamint a monitoringadatok szolgáltatásának a rendjét,
+- g) az EMVA vagy az EHA esetén, valamint az EMGA-ból támogatott Nemzeti Diverzifikációs Program intézkedései esetén alkalmazandó monitoring részletes szabályait, továbbá a monitoring-indikátorok alapján képzett adatok és az adatok szolgáltatására kötelezettek körét, valamint a monitoringadatok szolgáltatásának a rendjét
 - h) a pályázati eljárás részletes szabályait,
 - i) a MePAR és az ügyfél-blokk kapcsolat nyilvántartásának részletes szabályait
 - j) az intervenciós raktárregiszter létrehozásával, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal kapcsolatos részletes szabályokat,
@@ -1105,7 +1220,10 @@ rendeletben állapítsa meg.
 - m) a kölcsönös megfeleltetés körébe tartozó ellenőrzések lefolytatásával, valamint a jogkövetkezmények alkalmazásával kapcsolatos szabályokat,
 - n) a kölcsönös megfeleltetés végrehajtásához kialakítandó nyilvántartások részletes szabályait,
 - o) az EMVA-ból és az EHA-ból finanszírozott intézkedések esetében a legkisebb, a jogutódlás vagy a kötelezettségátvállalás tárgyát képező részt,
-- p) az elektronikus úton teljesítendő kérelem-, pályázatbenyújtás, valamint adatszolgáltatási kötelezettség eseteit, az elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat
+- p) az elektronikus úton teljesítendő kérelem-, pályázatbenyújtás, valamint adatszolgáltatási kötelezettség eseteit, az elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat,
+- q) a mesterséges körülmények megállapításának eseteit,
+- r) az ügyfél-nyilvántartás módját és feltételeit, továbbá az ügyfél-nyilvántartással kapcsolatos eljárás részletes szabályait,
+- s) a tevékenységihely-nyilvántartás módját és feltételeit, továbbá a tevékenységihely-nyilvántartással kapcsolatos eljárás részletes szabályait
 
 rendeletben állapítsa meg.
 
@@ -1146,3 +1264,11 @@ rendeletben állapítsa meg.
 - w) a Bizottság 1857/2006/EK rendelete (2006. december 15.) a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról;
 - x) a Bizottság 736/2008/EK rendelete (2008. július 22.) a Szerződés 87. és 88. cikkének a halászati termékek előállításával, feldolgozásával és forgalmazásával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról;
 - y) a Bizottság 800/2008/EK rendelete (2008. augusztus 6.) a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról.
+- z) a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i 73/2009/EK tanácsi rendelet;
+- zs) a 73/2009/EK tanácsi rendeletnek a kölcsönös megfeleltetés, a moduláció és az integrált igazgatási és ellenőrzési rendszer tekintetében, az említett rendeletben létrehozott, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról, valamint az 1234/2007/EK tanácsi rendeletnek a kölcsönös megfeleltetés tekintetében, a borágazatban meghatározott támogatási rendszer keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2009. november 30-i 1122/2009/EK bizottsági rendelet.
+
+85. § (1) E törvénynek a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosításáról szóló 2010. évi CLXII. törvénnyel (a továbbiakban: módosító törvény) megállapított 26/A. §-át, 31. § (1) bekezdését, 50. § (4) bekezdését, 57. §-át, 60. §-át, 61. § (1) bekezdését, 69. §-át, 73. § (2) bekezdését, 74. § d) pontját, valamint 76. § (3) bekezdését a módosító törvény hatálybalépésekor folyamatban levő ügyekben és eljárásokban is alkalmazni kell.
+
+(2) E törvénynek a módosító rendelettel megállapított 31/C. §-át 2011. január 1-jétől kell alkalmazni.
+
+(3) E törvénynek a módosító rendelettel megállapított 79/A. §-át a módosító törvény hatálybalépését követően benyújtott támogatási és kifizetési kérelmek alapján indult elsőfokú, jogorvoslati és döntés-felülvizsgálati eljárásokban kell alkalmazni.
