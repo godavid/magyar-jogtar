@@ -370,15 +370,9 @@ a fogyasztónak nyújtott hitelről
 
 (3) E törvény 4–19. §-a, 26–30. §-a, 34. §-a és 36–38. §-a 2010. június 11-én lép hatályba.
 
-(4) 2010. március 1-jén hatályát veszti:
+(4)
 
-- a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 214. §-a és 214/A. §-a,
-- b) a fogyasztóvédelemről szóló 1997. évi CLV. törvény 7. §-ának (8) bekezdése.
-
-(5) 2010. június 11-én hatályát veszti:
-
-- a) a Hpt. 212. §-át megelőző alcíme, 212–213. §-a, 214/B–214/C. §-a, 2. melléklete III. címének 5. pontja és 13. pontja, 6. melléklete I. címének 6. pontja,
-- b) a fogyasztóvédelemről szóló 1997. évi CLV. törvény 2. §-ának o)–p) pontja, 6. §-át megelőző fejezetcím, 7. §-a, 7/A. §-a, 57. § (1) bekezdésének a) pontja.
+(5)
 
 (6) A (4)–(5) bekezdés és a 33–37. § 2010. december 31-én hatályát veszti. Ez a bekezdés 2011. január 1-jén hatályát veszti.
 
@@ -396,153 +390,9 @@ a fogyasztónak nyújtott hitelről
 
 (7) A Módosító törvény 8. §-ával megállapított 28. § (3) bekezdést a Módosító törvény hatálybalépését megelőzően megkötött szerződések esetében a Módosító törvény hatálybalépéstől számított tizenötödik napot követően kezdeményezett futamidő-hosszabbításra kell alkalmazni.
 
-33. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény a 181. §-t követően a következő 181/A. §-sal egészül ki:
+(8) A Módosító törvény 8. §-ával megállapított 28. § (4) bekezdést a Módosító törvény hatálybalépését megelőzően megkötött szerződések esetében a Módosító törvény hatálybalépéstől számított harmincötödik napot követően kezdeményezett futamidő-hosszabbításra kell alkalmazni.
 
-„181/A. § (1) Jogi személy végrehajtást kérő által lakás kiürítése iránt kezdeményezett végrehajtási eljárásban a 147. § (3) és (4) bekezdés szerinti lakóingatlanának elhagyására köteles természetes személy kötelezett kérelmére a végrehajtó a lakóingatlan önkéntes kiürítésére – a végrehajtható okiratban – megállapított határidőt 90 nappal meghosszabbítja, ha a kötelezettel szemben korábban rendbírságot nem szabtak ki.
-
-(2) Az (1) bekezdés szerinti kérelmet a kötelezett a végrehajtható okirat kézhezvételét követő 15 napon belül terjesztheti elő.
-
-(3) A határidő meghosszabbításáról szóló jegyzőkönyvet a végrehajtó a feleknek kézbesíti.”
-
-34. § (1) A Hpt. 2. §-ának (2) bekezdése a következő h) ponttal egészül ki:
-
-[E törvény rendelkezései nem terjednek ki:]
-
-„h) a 130/A–130/D. §, a 130/H–130/O. §, a 2. melléklet V. fejezete és a 3. melléklet II. fejezetének 1.1–1.3 pontja kivételével kereskedelmi kölcsönt nyújtó hitelezőre,”
-
-(2) A Hpt. 6/B. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A pénzforgalmi intézmény hitelnyújtására a 199. §, a 201–211. § és a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény rendelkezései megfelelően alkalmazandóak.”
-
-(3) A Hpt. 32/G. §-a helyébe a következő rendelkezés lép:
-
-„32/G. § Ha az Európai Unió másik tagállamának illetékes felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy a székhelyén bejegyzett hitelintézet Magyarországon fióktelepet nyit, illetve határon átnyúló szolgáltatást végez, a Felügyelet tájékoztatja a hitelintézetet az ügyfelek védelmére vonatkozó rendelkezésekről, így különösen
-
-a) az ügyfelekkel szembeni tájékoztatási kötelezettségekről,
-
-b) az üzletszabályzat követelményéről, valamint
-
-c) egyes pénzügyi szolgáltatások nyújtásának különös szabályairól.”
-
-(4) A Hpt. 60. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A hitelintézet az (1) bekezdésben meghatározott személy részére csak az igazgatóság jelen lévő tagjainak több mint kétharmados többséggel hozott döntése alapján – az igazgatóság által jóváhagyott szabályzat szerint – a (2) bekezdésben meghatározottakon túlmenően kizárólag fogyasztónak nyújtott hitelt nyújthat, amelyekről elkülönített nyilvántartást vezet. Fióktelep formájában működő hitelintézet esetében a belső hitelnek minősülő fogyasztónak nyújtott hitel esetén a vezető állású személyek egyhangú döntése szükséges. A hitelintézet igazgatósága, illetve a fióktelep vezető állású személyei által hozott döntésnek tartalmaznia kell a kamat és a törlesztés feltételeit is.”
-
-(5) A Hpt. 130/A. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az adatkérési igényben megjelölt, – a 2. számú melléklet V. fejezetének 1. pontjában meghatározott – nyilvántartottra vonatkozó referenciaadaton kívül a KHR-ből a referenciaadat-szolgáltató részére egyéb adat nem adható át. Természetes személy referenciaadataira vonatkozó adatkérési igény kizárólag a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt pénzügyi szolgáltatásra irányuló szerződés, vagy a kereskedelmi kölcsön nyújtására irányuló szerződés, vagy a Bszt.-ben meghatározott befektetési hitel nyújtására, illetőleg a Tpt.-ben meghatározott értékpapír-kölcsönzésre vonatkozó szerződés megkötését megalapozó döntés meghozatalához vagy a 130/J. § (3) bekezdése szerinti tájékoztatás megadásának céljára használható fel.”
-
-(6) A Hpt. 130/A. §-a a következő (10)–(12) bekezdéssel egészül ki:
-
-„(10) A KHR-t kezelő pénzügyi vállalkozás megkülönböztetésmentesen köteles biztosítani a KHR-hez történő csatlakozás lehetőségét a kereskedelmi kölcsönt nyújtó hitelező számára, valamint az Európai Unió másik tagállamában székhellyel rendelkező hitelező (a továbbiakban: más tagállambeli hitelező) számára, ha Magyarországon határon átnyúló szolgáltatást végez.
-
-(11) Más tagállambeli hitelező részére kizárólag a határon átnyúló tevékenysége vonatkozásában, a KHR-t kezelő pénzügyi vállalkozás a KHR-ben kezelt adatot csak akkor továbbíthat, ha:
-
-a) ezt a más tagállambeli hitelező a KHR-hez történő csatlakozásról szóló írásbeli nyilatkozattal kérelmezi,
-
-b) a csatlakozási nyilatkozatban kötelezettséget vállal arra, hogy a KHR-t kezelő pénzügyi vállalkozástól igényelt adatokat kizárólag az e törvényben meghatározottaknak megfelelően használja fel és
-
-c) írásban nyilatkozik arról, hogy mind az ügyfél, mind a KHR-t kezelő pénzügyi vállalkozás tekintetében az e törvényben a referenciaadat-szolgáltatóra meghatározott szabályoknak megfelelően jár el és teljesíti a tájékoztatási, adatátadási és egyéb kötelezettségeket.
-
-(12) Más tagállambeli hitelező KHR részére teljesítendő adatátadási kötelezettsége a határon átnyúló szolgáltatást igénybevevő nyilvántartottnak a határon átnyúló szolgáltatással összefüggő a 3. sz. mellékletben meghatározott adataira terjed ki.”
-
-(7) A Hpt. 130/C. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a természetes személynek a 3. számú melléklet II. fejezetének 1.1–1.2 pontja szerinti referenciaadatait, aki a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt pénzügyi szolgáltatásra vonatkozó szerződésben, kereskedelmi kölcsönszerződésben, valamint a külön jogszabályban meghatározott hallgatói hitelszerződésben vállalt fizetési kötelezettségének oly módon nem tesz eleget, hogy a lejárt és meg nem fizetett tartozásának összege meghaladja a késedelembe esés időpontjában érvényes legkisebb összegű havi minimálbért és ezen minimálbérösszeget meghaladó késedelem folyamatosan, több mint kilencven napon keresztül fennállt.”
-
-(8) A Hpt. 130/D. §-a helyébe a következő rendelkezés lép:
-
-„130/D. § A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a természetes személynek a 3. számú melléklet II. fejezetének 1.1 és 1.3 pontja szerinti referenciaadatait, aki a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt pénzügyi szolgáltatásra vonatkozó szerződés, a kereskedelmi kölcsönszerződés, valamint a külön jogszabályban meghatározott hallgatói hitelszerződés megkötésének kezdeményezése során valótlan adatot közöl, hamis vagy hamisított okiratot használ, ha mindez okirattal bizonyítható.”
-
-(9) A Hpt. 209. §-a helyébe a következő rendelkezés lép:
-
-„209. § A hitel- és a kölcsönszerződés általános szerződési feltételeit magában foglaló üzletszabályzatnak tartalmaznia kell legalább
-
-a) a hitelintézet teljes nevét, a tevékenységi engedély számát és dátumát,
-
-b) azt, hogy változtatható-e, és ha igen, milyen módon a kamat,
-
-c) a kamatszámítás módját,
-
-d) az egyéb díjakat és költségeket,
-
-e) a szerződést biztosító mellékkötelezettségeket,
-
-f) a KHR-rel kapcsolatos adatkezelési szabályokat, a jogorvoslati lehetőségekre való figyelemfelhívással együtt.”
-
-(10) A Hpt. 214/D. §-át megelőző alcím és 214/D. §-ának helyébe a következő rendelkezés lép:
-
-„Tájékoztatás egyes betétszerződések tekintetében
-
-214/D. § A kereskedelmi kommunikációban – az e törvény végrehajtására kiadott jogszabályban meghatározott esetekben – fel kell tüntetni a betét egységesített betéti kamatláb mutatóját. E mutató számítására és feltüntetése módjára vonatkozó szabályokat az e törvény végrehajtására kiadott külön jogszabály határozza meg.”
-
-(11) A Hpt. 235. §-a (1) bekezdésének c) pontja helyébe a következő rendelkezés lép:
-
-[Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:]
-
-„c) az egységesített betéti kamatláb mutató számítására és közzétételére,”
-
-[vonatkozó részletes szabályokat.]
-
-(12) A Hpt. 2. számú melléklete I. címe 10.4. pontjának b) alpontja helyébe a következő rendelkezés lép:
-
-[Nem minősül pénzkölcsön nyújtásának]
-
-„b) az egymással áruszállítási vagy szolgáltatási jogviszonyban álló vállalkozások vagy természetes személyek által e jogviszonyra tekintettel adott halasztott fizetés vagy előleg (kereskedelmi kölcsön), ide nem értve a pénzügyi intézmény által kötött ilyen ügyleteket,”
-
-(13) A Hpt. 2. melléklete V. címének 3–4. pontja helyébe a következő rendelkezés lép:
-
-„3. Referenciaadat-szolgáltató: a 3. § (1) bekezdésének b)–c), illetve e)–f) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, pénzforgalmi intézmény, a Diákhitel Központ, a kizárólag garanciavállalással, illetőleg készfizető kezesség vállalásával foglalkozó jogi személy, a Bszt. 5. §-a (2) bekezdésének c) pontjában foglalt tevékenységet végző hitelintézet, befektetési vállalkozás, valamint a Tpt. szerinti értékpapír-kölcsönzést végző hitelintézet, befektetési vállalkozás, befektetési alap, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, pénzügyi intézmény, központi értéktár és biztosító. Referenciaadat-szolgáltató a kereskedelmi kölcsönt nyújtó hitelező, valamint a határon átnyúló szolgáltatást végző más tagállambeli hitelező, ha a KHR-hez csatlakozott.
-
-4. Vállalkozás: a gazdasági társaság, az európai részvénytársaság, a szövetkezet, a lakásszövetkezet és az egyéni vállalkozó, ide nem értve a referenciaadat-szolgáltatót. Vállalkozásnak minősül a referenciaadat-szolgáltató, ha kereskedelmi kölcsönt nyújt.”
-
-(14) A Hpt. 3. melléklete II. címe 1.2. pontjának felvezető szövege helyébe a következő rendelkezés lép:
-
-„1.2. a 3. § (1) bekezdésének b)–c) és e)–f) pontjában meghatározott szolgáltatásra, kereskedelmi kölcsönre, valamint a hallgatói hitelre vonatkozó szerződési adatok:”
-
-(15) A Hpt. 3. melléklete II. címe 1.3. pontjának felvezető szövege helyébe a következő rendelkezés lép:
-
-„1.3. a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt szolgáltatásra vonatkozó szerződés, a kereskedelmi kölcsönszerződésre, valamint a külön jogszabályban meghatározott hallgatói hitelszerződés kezdeményezésére vonatkozó adatok:”
-
-35. § A jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvény 7. §-a helyébe a következő rendelkezés lép:
-
-„7. § A jelzálog-hitelintézet jogosult az előtörlesztés miatt keletkező költségeinek megtérítésére. Fogyasztónak nyújtott hitel esetében az előtörlesztésre a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény rendelkezéseit kell alkalmazni.”
-
-36. § (1) A Tétv. 3. §-ának (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A (2)–(3) bekezdésben meghatározott tájékoztatás helyett a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. §-ban és 7. §-ban előírt tájékoztatást kell megadni, ha fogyasztónak nyújtott hitel nyújtására kerül sor.”
-
-(2) A Tétv. 3. §-a következő (8)–(9) bekezdéssel egészül ki:
-
-„(8) A (2) és (3) bekezdésben meghatározott tájékoztatás helyett a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. § (8) bekezdésében előírt tájékoztatást kell megadni, ha fizetési számlához kapcsolódó hitelkeret nyújtására kerül sor.
-
-(9) Amennyiben az egymást követő ügyletek, illetve az azonos jellegű elkülönült műveletek, amelyek időbeli kapcsolatban állnak egymással, az 1. § (2) bekezdésétől eltérően, alapmegállapodás nélkül ugyanazon felek között kerülnek végrehajtásra, az (1)–(8) bekezdések rendelkezéseit kizárólag az első ügyletre vagy műveletre kell alkalmazni. Ha egy évnél hosszabb ideig nem kerül sor ügylet vagy azonos jellegű művelet teljesítésére, az ezt követő ügyletet vagy műveletet új ügyletnek, illetve egy újabb műveletsor első műveletének kell tekinteni, és arra az (1)–(7) bekezdések rendelkezéseit ismét alkalmazni kell.”
-
-(3) A Tétv. 4. §-a a következő (3)–(4) bekezdéssel egészül ki:
-
-„(3) A (2) bekezdés b) pontjában meghatározott tájékoztatás fogyasztónak nyújtott hitel nyújtása esetén legalább a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. §-a (3) bekezdésének 4–7. pontjában, 9. pontjában és 6. §-a (4) bekezdésében foglalt adatokat, a hitel teljes összegét és a teljes hiteldíj mutatót egy reprezantatív példával tartalmazza.
-
-(4) A (2) bekezdés b) pontjában meghatározott tájékoztatás fizetési számlához kapcsolódó hitelkeret nyújtása esetén legalább a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 6. §-a (3) bekezdésének 4., 7. és 8. pontja, továbbá 6. § (8) bekezdésének c) pontjában foglalt adatokat tartalmazza, ha fogyasztó a fizetési számlához kapcsolódó hitelkeret azonnali rendelkezésre bocsátását kéri.”
-
-(4) A Tétv. a 8. §-át követően a következő 8/A. §-sal egészül ki:
-
-„8/A. § A 6–8. §-ban foglaltak helyett a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 21. §-ában foglaltak szerint kell eljárni, ha a fogyasztónak nyújtott hitelszerződéstől történő elállásra kerül sor.”
-
-37. § (1) A Pénzügyi Szervezetek Állami Felügyeletéről szóló 2007. évi CXXXV. törvény (a továbbiakban: Psztv.) 4. §-a a következő (2) bekezdéssel egészül ki és a § eredeti szövegének számozása (1) bekezdésre változik:
-
-„(2) A Felügyelet látja el a kereskedelmi kölcsönt nyújtó hitelező felügyeletét a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény hatálya alá tartozó tevékenysége tekintetében.”
-
-(2) A Psztv. 5. §-a (1) bekezdésének a) pontja helyébe a következő rendelkezés lép:
-
-[A Felügyelet látja el a feladatkörében a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását]
-
-„a) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2008/48/EK európai parlamenti és tanácsi irányelvet,”
-
-(3) A Psztv. 9. §-ának (1) bekezdése a következő q) ponttal egészül ki és az (1) bekezdés jelenlegi q) pontjának jelölése r) pontra változik:
-
-[A Felügyelet honlapján közzéteszi]
-
-„q) azon – az Európai Unió kötelező jogi aktusának átültetése céljából elfogadott – jogszabályi rendelkezések felsorolását, amelyek alapján a fogyasztó a termék értékesítésére vagy szolgáltatás nyújtására vonatkozó szerződéstől elállhat,”
+33–37. §
 
 38. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

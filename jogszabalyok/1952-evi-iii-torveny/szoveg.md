@@ -3123,7 +3123,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 - a) a munkaszerződés megkötését megelőző tárgyalásra, a munkaviszony megszűnését követően a munkaviszonyból eredő jogra,
 - b) a kollektív szerződés kötésére jogosult felek, illetve ezek és harmadik személy között, a kollektív szerződés fennállására, továbbá a kollektív szerződésből eredő jogra,
-- c) a sztrájkkal, egyéb munkaharccal vagy a szervezkedési szabadsággal kapcsolatos jogellenes magatartásra,
+- c) a sztrájkkal, egyéb munkaharccal vagy a szervezkedési szabadsággal kapcsolatos jogellenes magatartásra vagy törvényben előírt kötelezettség teljesítésére,
 - d) az európai részvénytársaságban, valamint az európai szövetkezetben a munkavállalók döntéshozatalba történő bevonására vonatkozó szabályok megsértésére
 
 alapított igény érvényesítése.

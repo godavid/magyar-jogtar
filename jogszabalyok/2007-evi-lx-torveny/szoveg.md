@@ -30,7 +30,8 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 - 18. eltávolítási egység (RMU): az első kötelezettségvállalási időszakban (2008–2012) az üvegházhatású gázoknak a légkörből nyelő által történő eltávolítása esetében megállapított és kiadott vagyoni értékű jog, amely egy szén-dioxid-egyenérték kibocsátására jogosít fel;
 - 19. nemzeti forgalmi jegyzék: a kiotói egységek kiadásának, átruházásának, törlésének nyilvántartását, valamint az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló 2005. évi XV. törvény (a továbbiakban: Üht.) 15. §-a szerinti forgalmi jegyzéket magába foglaló közhiteles és nyilvános jegyzék;
 - 20. akkreditált független hitelesítő: a Kiotói Jegyzőkönyvben részes felek találkozójául szolgáló Felek Konferenciája első ülésszakán elfogadott, a Kiotói Jegyzőkönyv 6. cikkének végrehajtásáról szóló 9/CMP.1 határozatban (a továbbiakban: együttes végrehajtás határozat) felállított, az Együttes Végrehajtás Felügyeleti Bizottság által az együttes végrehajtás határozat rendelkezéseinek megfelelően akkreditált független hitelesítő;
-- 21. más EGT-államban feljogosított hitelesítő: az együttes végrehajtásban résztvevő, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) területén az együttes végrehajtással kapcsolatos hitelesítői tevékenység végzésére az adott EGT-állam által feljogosított független hitelesítő.
+- 21. más EGT-államban feljogosított hitelesítő: az együttes végrehajtásban résztvevő, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) területén az együttes végrehajtással kapcsolatos hitelesítői tevékenység végzésére az adott EGT-állam által feljogosított független hitelesítő;
+- 22. Kibocsátási jogosultság: a kiotói egység, az. Üht. 3. § szerinti kibocsátási egység és légiközlekedési kibocsátási egység.
 
 ### A Nemzeti Éghajlatváltozási Stratégia és a Nemzeti Éghajlatváltozási Program
 
@@ -50,13 +51,13 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 ### Az üvegházhatású gázok kibocsátásának nyilvántartása, adatszolgáltatás
 
-4. § (1) A környezetvédelemért felelős miniszter (a továbbiakban: miniszter) az üvegházhatású gázok emberi tevékenységből származó hazai kibocsátásának, illetve a nyelők általi eltávolításának figyelemmel kísérésére, adatok gyűjtésére, nyilvántartására évenként leltárt (a továbbiakban: Nemzeti Kibocsátási Leltár) készít, az adatok feldolgozására, elemzésére, valamint előrejelzések készítésére a nemzetközi kötelezettségvállalásoknak megfelelően nyilvántartási rendszert (a továbbiakban: Nemzeti Nyilvántartási Rendszer) létesít és működtet. A Nemzeti Kibocsátási Leltár a Nemzeti Nyilvántartási Rendszer részét képezi.
+4. § (1) A környezetvédelemért felelős miniszter egyetértésben az energiapolitikáért felelős miniszterrel (a továbbiakban: miniszter), valamint az erdőgazdálkodásért felelős miniszterrel az üvegházhatású gázok emberi tevékenységből származó hazai kibocsátásának, illetve a nyelők általi eltávolításának figyelemmel kísérésére, adatok gyűjtésére, nyilvántartására évenként leltárt (a továbbiakban: Nemzeti Kibocsátási Leltár) készít, az adatok feldolgozására, elemzésére, valamint előrejelzések készítésére a nemzetközi kötelezettségvállalásoknak megfelelően nyilvántartási rendszert (a továbbiakban: Nemzeti Nyilvántartási Rendszer) létesít és működtet. A Nemzeti Kibocsátási Leltár a Nemzeti Nyilvántartási Rendszer részét képezi.
 
 (2) A Nemzeti Nyilvántartási Rendszer működtetéséhez szükséges adatokkal rendelkező állami szervek és az évi 100 tonna széndioxid-egyenértéket vagy azt meghaladó mennyiségű üvegházhatású gázt kibocsátó szervezetek kötelesek ezen adatokat a Nemzeti Nyilvántartási Rendszer rendelkezésére bocsátani a külön jogszabályban meghatározottak szerint.
 
 (3) Az ország üvegházhatású gáz kibocsátásának pontosabb előrejelzése érdekében az üvegházhatású gázokat jelentős mennyiségben kibocsátó, illetve nyelő, a külön jogszabályban meghatározott tevékenységek megkezdése előtt a beruházó a tevékenység létrejöttéhez kapcsolódó és a tevékenység következtében létrejövő teljes üvegházhatású gáz kibocsátásra vonatkozó előrejelzést köteles készíteni és erről a Nemzeti Nyilvántartási Rendszert üzemeltető intézményt írásban tájékoztatni.
 
-(4) A környezetvédelmi hatóság külön jogszabályban meghatározott mértékű bírság megfizetésére kötelezheti a (2)–(3) bekezdésben meghatározott adatszolgáltatásra, illetve előrejelzésre kötelezett szervezetet, amennyiben az a (2)–(3) bekezdésben meghatározott kötelezettségének részben vagy egészben nem tesz eleget. A bírság összegét a hatóság az eset összes körülményeire – így különösen a jogsértés súlyára, céljára, időtartamára, a jogsértő magatartás ismételt tanúsítására – tekintettel határozza meg.
+(4) Az állami meteorológiai szolgálat külön jogszabályban meghatározott mértékű bírság megfizetésére kötelezheti a (2)–(3) bekezdésben meghatározott adatszolgáltatásra, illetve előrejelzésre kötelezett szervezetet, amennyiben az a (2)–(3) bekezdésben meghatározott kötelezettségének részben vagy egészben nem tesz eleget. A bírság összegét az állami meteorológiai szolgálat az eset összes körülményeire – így különösen a jogsértés súlyára, céljára, időtartamára, a jogsértő magatartás ismételt tanúsítására – tekintettel határozza meg.
 
 (5) A (2) bekezdésben meghatározott, a nemzetközi adatszolgáltatás teljesítéséhez szükséges adatokat abban az esetben is kötelező a Nemzeti Nyilvántartási Rendszer rendelkezésére bocsátani, amennyiben azok a statisztikáról szóló 1993. évi XLVI. törvény vonatkozó rendelkezése szerint egyedi adatnak minősülnek.
 
@@ -88,13 +89,13 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (3) A kiotói egység csak az e törvény és külön jogszabály rendelkezéseinek megfelelően szerezhető meg, illetve ruházható át.
 
-### A kiotói egységekkel való gazdálkodás
+### A kibocsátási jogosultságokkal való gazdálkodás
 
-9. § (1) A kincstári vagyon részét képező kiotói egységek értékesítési eljárása során az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.), valamint e törvény és a végrehajtására kiadott jogszabályok rendelkezéseit kell alkalmazni.
+9. § (1) A kincstári vagyon részét képező kibocsátási jogosultságok értékesítési eljárása során az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.), az Üht., valamint e törvény és a végrehajtására kiadott jogszabályok rendelkezéseit kell megfelelően alkalmazni.
 
-(2) A kiotói egységek feletti vagyonkezelői jogot a miniszter gyakorolja. A vagyonkezelői jogot a miniszter az általa kijelölt központi költségvetési szerv útján is gyakorolhatja.
+(2) A kibocsátási jogosultságok feletti vagyonkezelői jogot a miniszter gyakorolja. A vagyonkezelői jogot a miniszter az általa kijelölt központi költségvetési szerv útján is gyakorolhatja.
 
-(3) A kiotói egységet megterhelni, annak tulajdonjogát – az Üht. 3. § c) pontjában meghatározott kibocsátási egység kivételével – ingyenesen átengedni nem lehet.
+(3) A kiotói egységet megterhelni, annak tulajdonjogát ingyenesen átengedni nem lehet.
 
 (4) Egy adott kötelezettségvállalási időszakban a nemzeti forgalmi jegyzékben a kibocsátható mennyiségi egységek száma nem lehet kevesebb a Keretegyezmény, továbbá a Jegyzőkönyv által előírt tartalék mennyiségnél.
 
@@ -106,16 +107,18 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (8) A kibocsátható mennyiség egységek kincstári vagyonkörből történő kikerüléséről, illetve törléséről a miniszter évente tájékoztatja a kincstári vagyon kezeléséért felelős szervet.
 
-10. § (1) A kiotói egységek a következő módokon használhatók fel a Jegyzőkönyvvel és az azt követő döntésekkel összhangban:
+10. § (1) A kibocsátási jogosultságok a következő módokon használhatók fel a Jegyzőkönyvvel és az azt követő döntésekkel összhangban:
 
 - a) a Magyar Köztársaságnak a Jegyzőkönyv alapján vállalt kibocsátás csökkentési céljaival összhangban a Magyar Köztársaság területén történt üvegházhatású gáz kibocsátások ellentételezésére, visszavonás által;
 - b) a Magyar Köztársaság mint fogadó ország területén megvalósuló együttes végrehajtási projektek keretében elért kibocsátás csökkentésnek megfelelő mennyiségű kibocsátás-csökkentési egység létrehozására. Az így keletkezett kibocsátás-csökkentési egységek teljes mennyisége vagy része az együttes végrehajtási projekt befektető országának kerül átutalásra.
 
-(2) A nemzetközi kibocsátás-kereskedelem keretében a miniszter a Magyar Állam nevében kiotói egységeket értékesíthet és vehet e törvény céljának hatékonyabb elérése céljából.
+(2) A nemzetközi és európai kibocsátás-kereskedelem keretében a miniszter a Magyar Állam nevében kibocsátási jogosultságokat értékesíthet és vehet e törvény céljának hatékonyabb elérése céljából. Az értékesítés a Vtv. és az értékesítés részletszabályait meghatározó jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
 
-(3) A kiotói egységek átruházásából származó bevételt az első kötelezettségvállalási időszakban az üvegházhatású gázok hazai kibocsátásának csökkentését célzó tevékenységek, intézkedések támogatására, nyelők általi eltávolításának növelésére, az éghajlatváltozás hatásaihoz való alkalmazkodásra kell fordítani külön jogszabály rendelkezéseinek megfelelően.
+(3) A kiotói egységek átruházásából származó bevételt az üvegházhatású gázok hazai kibocsátásának csökkentését célzó tevékenységek, intézkedések támogatására, nyelők általi eltávolításának növelésére, az éghajlatváltozás hatásaihoz való alkalmazkodásra kell fordítani külön jogszabály rendelkezéseinek megfelelően.
 
-(4) A (3) bekezdés szerinti bevételnek az Éghajlatváltozási Stratégiával és az Éghajlatváltozási Programmal összhangban történő felhasználásáról a miniszter gondoskodik.
+(4) A (3)–(4) bekezdés szerinti bevételnek az Éghajlatváltozási Stratégiával és az Éghajlatváltozási Programmal összhangban történő felhasználásáról a miniszter gondoskodik.
+
+(4a) A kibocsátási egységek és légiközlekedési kibocsátási egységek átruházásából származó bevételt az üvegházhatású gázok kibocsátásának csökkentését és az éghajlatváltozás hatásaihoz való alkalmazkodást célzó hazai és nemzetközi tevékenységek támogatására, a magyar klímapolitika hatékony megvalósítására, az üvegházhatású gáz nyelők általi eltávolításának növelésére kell fordítani.
 
 (5) A bevételek felhasználásáról a Kormány évente beszámol az Országgyűlésnek.
 
@@ -127,7 +130,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 12. § A Magyar Köztársaság területén kívül megvalósítandó együttes végrehajtásban vagy tiszta fejlesztési mechanizmusban magyarországi székhellyel rendelkező jogi személyek a nemzetközi kötelezettségvállalásokkal összhangban, külön jogszabályban meghatározott feltételek teljesítése esetén a miniszter jóváhagyása alapján vehetnek részt.
 
-13. § (1) A Magyar Köztársaság területén megvalósítandó együttes végrehajtásban részt vevő jogi személyek a miniszteri jóváhagyás kézhezvételétől számított 30 napon belül egyszeri felügyeleti díjat kötelesek fizetni. A környezetvédelmi hatóság a felügyeleti díjat a Nemzeti Nyilvántartási Rendszer működtetésével kapcsolatos tevékenységének fedezetére fordítja.
+13. § (1) A Magyar Köztársaság területén megvalósítandó együttes végrehajtásban részt vevő jogi személyek a miniszteri jóváhagyás kézhezvételétől számított 30 napon belül egyszeri felügyeleti díjat kötelesek fizetni. A miniszter a felügyeleti díjat a Nemzeti Nyilvántartási Rendszer működtetésével kapcsolatos tevékenységének fedezetére fordítja.
 
 (2) A felügyeleti díj mértékét az adott évre vonatkozó költségvetési törvény határozza meg.
 
@@ -138,9 +141,9 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 (2) Együttes végrehajtás-hitelesítői tevékenység folytatását a környezetvédelmi hatóság annak a szervezetnek engedélyezi, amely
 
 - a) munkavállalóként vagy egyéb foglalkoztatásra irányuló jogviszony keretében legalább három, a (3) bekezdés szerinti feltételeknek megfelelő személyt foglalkoztat, és
-- b) rendelkezik a miniszter rendeletében meghatározott biztosítékkal, és megfelel az ott meghatározott egyéb feltételeknek.
+- b) rendelkezik a külön jogszabályban meghatározott biztosítékkal, és megfelel az ott meghatározott egyéb feltételeknek.
 
-(3) Az együttes végrehajtás-hitelesítő szervezet hitelesítő tevékenységét csak legalább három olyan személy útján folytathatja, aki büntetlen előéletű, nem áll az együttes végrehajtás-hitelesítő szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, rendelkezik a miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek (a továbbiakban: együttes végrehajtás-hitelesítő szakértő).
+(3) Az együttes végrehajtás-hitelesítő szervezet hitelesítő tevékenységét csak legalább három olyan személy útján folytathatja, aki büntetlen előéletű, nem áll az együttes végrehajtás-hitelesítő szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, rendelkezik a külön jogszabályban meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek (a továbbiakban: együttes végrehajtás-hitelesítő szakértő).
 
 (4) A (2) bekezdés szerinti engedély iránti kérelemnek tartalmaznia kell az együttes végrehajtás-hitelesítő által foglalkoztatott legalább három együttes végrehajtás-hitelesítő szakértő nevét, levelezési címét, telefonszámát, faxszámát, elektronikus levelezési címét. A kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy az általa foglalkoztatottak büntetlen előéletűek, és nem állnak az együttes végrehajtás-hitelesítő szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy mellékeli arra vonatkozó nyilatkozatukat, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a környezetvédelmi hatóság részére – annak az együttes végrehajtás-hitelesítői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a környezetvédelmi hatóság az (5) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
 
@@ -154,13 +157,13 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 13/C. § (1) Együttes végrehajtás-hitelesítői tevékenység folytatását a környezetvédelmi hatóság annak az akkreditált független hitelesítőnek engedélyezi, amely
 
 - a) a hitelesítői tevékenység végzésére az Együttes Végrehajtás Felügyeleti Bizottság akkreditációja folytán jogosult,
-- b) rendelkezik a miniszter rendeletében meghatározott biztosítékkal, és megfelel az ott meghatározott egyéb feltételeknek.
+- b) rendelkezik a külön jogszabályban meghatározott biztosítékkal, és megfelel az ott meghatározott egyéb feltételeknek.
 
 (2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező, más EGT-államban feljogosított hitelesítő a határon átnyúló szolgáltatásnyújtás keretében külön engedély nélkül folytathatja tevékenységét, köteles azonban az együttes végrehajtás hitelesítői tevékenység folytatására irányuló szándékát a környezetvédelmi hatóságnak bejelenteni.
 
 13/D. § A környezetvédelmi hatóság a 13/B. § és a 13/C. § (1) bekezdése szerinti együttes végrehajtás hitelesítői tevékenységre engedéllyel rendelkezőkről, illetve együttes végrehajtás hitelesítői tevékenységre jogosult, a 13/C. § (2) bekezdése szerinti bejelentést tevőkről nyilvántartást vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl, a 13/B. § szerinti esetben tartalmazza az együttes végrehajtás hitelesítő szervezet által foglalkoztatott együttes végrehajtás hitelesítő szakértők nevét, levelezési címét, telefonszámát, faxszámát és elektronikus levelezési címét. A nyilvántartásból kizárólag a hitelesítői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-13/E. § A környezetvédelmi hatóság e § szerinti engedélyezési eljárásáért a miniszter rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
+13/E. § A környezetvédelmi hatóság e § szerinti engedélyezési eljárásáért a külön jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
 ### Záró rendelkezések
 
@@ -175,7 +178,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 (5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg:
 
 - a) a Nemzeti Éghajlatváltozási Programot;
-- b) a kiotói egységekkel, és az abból származó bevételekkel való gazdálkodás, valamint az értékesítési eljárás részletes szabályait;
+- b) a kibocsátási jogosultságokkal és az abból származó bevételekkel való gazdálkodás, valamint az árveréssel, a versenyeztetés mellőzésével vagy közvetetten történő értékesítési eljárás részletes szabályait;
 - c) a nemzetközi együttműködéssel megvalósuló projekttevékenységek és a nemzetközi kibocsátás-kereskedelemben való részvétel szabályait, illetve díjait;
 - d) a nemzeti forgalmi jegyzék működésének szabályait;
 - e) a nemzeti forgalmi jegyzékhez kapcsolódó számlavezetési díj mértékét és fizetésének szabályait;

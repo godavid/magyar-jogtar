@@ -4166,7 +4166,7 @@ megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket
 - k) a 2011-es magyar EU-elnökség előkészítésével és lebonyolításával összefüggő, a közösségi értékhatárt el nem érő értékű beszerzések sajátos szabályait;
 - l) a dinamikus beszerzési rendszerre vonatkozó szabályokat;
 - m) a védett foglalkoztatók részére fenntartott közbeszerzések részletes – e törvénytől az ilyen eljárások sajátossága miatt szükséges eltérő – szabályait;
-- n)
+- n) a közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített energetikai és környezeti hatások megállapítására és figyelembevételére vonatkozó sajátos közbeszerzési szabályokat, valamint a kapcsolódó jelentési kötelezettségre vonatkozó részletes szabályokat;
 - o)
 - p)
 
@@ -4217,7 +4217,8 @@ megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket
 - e) a Bizottság 2005/51/EK irányelve (2005. szeptember 7.) a közbeszerzésről szóló 2004/17/EK európai parlamenti és tanácsi irányelv XX. mellékletének, valamint a 2004/18/EK európai parlamenti és tanácsi irányelv VIII. mellékletének módosításáról;
 - f) a Bizottság 1422/2007/EK rendelete (2007. december 4.) a 2004/17/EK és a 2004/18/EK európai parlamenti és tanácsi irányelveknek a szerződés-odaítélési eljárásokra vonatkozó alkalmazási értékhatárai tekintetében történő módosításáról;
 - g) az Európai Parlament és a Tanács 2007/66/EK irányelve (2007. december 11.) a 89/665/EGK és a 92/13/EGK tanácsi irányelveknek a közbeszerzési szerződések odaítélésére vonatkozó jogorvoslati eljárások hatékonyságának javítása tekintetében történő módosításáról (a törvény végrehajtására a 404. § (2) bekezdésének a) pontjában adott felhatalmazás alapján megalkotott miniszteri rendelettel együtt);
-- h) a Bizottság 213/2008/EK rendelete (2007. november 28.) a közös közbeszerzési szószedetről (CPV) szóló 2195/2002/EK európai parlamenti és tanácsi rendelet módosításáról és a közbeszerzési eljárásokról szóló 2004/17/EK és 2004/18/EK európai parlamenti és tanácsi irányelvnek a CPV felülvizsgálata tekintetében történő módosításáról.
+- h) a Bizottság 213/2008/EK rendelete (2007. november 28.) a közös közbeszerzési szószedetről (CPV) szóló 2195/2002/EK európai parlamenti és tanácsi rendelet módosításáról és a közbeszerzési eljárásokról szóló 2004/17/EK és 2004/18/EK európai parlamenti és tanácsi irányelvnek a CPV felülvizsgálata tekintetében történő módosításáról;
+- i) – a törvény végrehajtására a 404. § (1) bekezdésének n) pontjában adott felhatalmazás alapján megalkotott kormányrendelettel, valamint az autóbusszal végzett menetrend szerinti személyszállításról szóló 2004. évi XXXIII. törvénnyel együtt – az Európai Parlament és a Tanács 2009/33/EK irányelve a tiszta és energiahatékony közúti járművek használatának előmozdításáról.
 
 ### 1. számú melléklet a 2003. évi CXXIX. törvényhez
 

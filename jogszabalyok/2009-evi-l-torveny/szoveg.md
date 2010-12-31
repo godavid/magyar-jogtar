@@ -261,7 +261,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (5) A fizetési meghagyás iránti kérelem elutasítására a Pp. 130. §-ának (3) bekezdését megfelelően alkalmazni kell.
 
-(6) A közjegyző az (1) bekezdés d) pontjában foglaltak megállapítása érdekében ingyenesen jogosult elektronikus úton betekinteni a bíróság ügylajstromába; a közjegyző az adatokat a MOKK rendszerén keresztül automatikusan igényelheti. A bíróság biztosítja, hogy a nyilvántartásában a peres ügyek a felek neve és címe, valamint az ügy tárgya szerint is kereshetőek legyenek. A közjegyző az (1) bekezdés d) pontjában foglaltak ellenőrzése céljából megtekintheti a MOKK rendszerében a fizetési meghagyásos ügyekről kezelt adatokat.
+(6)
 
 25. § (1) A fizetési meghagyás kibocsátása iránti kérelmet elutasító végzést kézbesíteni kell a jogosultnak, a kötelezettnek pedig meg kell küldeni. A végzés ellen a jogosult fellebbezhet; fellebbezését a kötelezettnek észrevételezésre megküldeni nem kell.
 
@@ -520,7 +520,7 @@ kell megfizetni.
 
 (3) A Vht.-ban meghatározott iratokat a végrehajtó a MOKK számítógépes rendszerén keresztül, elektronikus úton küldi meg a közjegyzőnek.
 
-54. § (1) A végrehajtási lap visszavonása iránti kérelem előterjesztésére a végrehajtási kérelem előterjesztésére, a visszavonásról rendelkező végzés megküldésére pedig a végrehajtási lap megküldésére vonatkozó szabályokat kell alkalmazni.
+54. § (1) A végrehajtási lap visszavonása iránti kérelem előterjesztésére a végrehajtási kérelem előterjesztésére, a visszavonásról rendelkező végzés megküldésére pedig a végrehajtási lap megküldésére vonatkozó szabályokat kell alkalmazni azzal, hogy végrehajtási lap visszavonása iránti papír alapú kérelmet nem űrlapon kell előterjeszteni.
 
 (2) A jogi személy fél és a jogi képviselővel rendelkező fél a fellebbezését kizárólag elektronikus úton terjesztheti elő, kivéve, ha a fellebbezéshez mellékletet csatol.
 

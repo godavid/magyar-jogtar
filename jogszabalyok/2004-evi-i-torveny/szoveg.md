@@ -1248,7 +1248,7 @@ biztonsági kockázatú lehet.
 
 (8) Az MPB-t a Magyar Mozgáskorlátozottak Sportszövetsége, a Magyar Vakok és Gyengénlátók Sportszövetsége és a Magyar Értelmi Fogyatékosok Sportszövetsége hozzák létre, illetve az MPB-be az alapítást követően a 41. § (1) bekezdésében meghatározott feltételeknek megfelelő sportszövetségek kérhetik felvételüket. Az MPB a törvény hatálybalépését követő 60. napon belül köteles az alapító közgyűlését összehívni, amelyen meg kell állapítani az alapszabályt, valamint ügyintéző-képviselő szervet (elnökséget) az ellenőrző szervet kell választani.
 
-78/A. § 2010-ben az első helyezést elért érmes járadékának mértéke a bérből és fizetésből élők 2008. évi – a Központi Statisztikai Hivatal által számított – országos szintű bruttó nominál átlagkeresetének megfelelő összeg.
+78/A. §
 
 ### Felhatalmazó rendelkezések
 

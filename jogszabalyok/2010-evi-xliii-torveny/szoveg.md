@@ -670,9 +670,9 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 (6) Ha a központi hivatalt a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter irányítja, az (5) bekezdést nem kell alkalmazni.
 
-(7) A központi hivatal vezetője – ha törvény eltérően nem rendelkezik – államtitkári illetményre és juttatásokra jogosult.
+(7) A központi hivatal vezetője – ha törvény vagy kormányrendelet eltérően nem rendelkezik – államtitkári illetményre és juttatásokra jogosult.
 
-(8) A központi hivatal vezetőjének helyettese – ha törvény eltérően nem rendelkezik – helyettes államtitkári illetményre jogosult.
+(8) A központi hivatal vezetőjének helyettese – ha törvény vagy kormányrendelet eltérően nem rendelkezik – helyettes államtitkári illetményre jogosult.
 
 (9) A központi hivatalra – ha jogszabály eltérően nem rendelkezik – e törvény 63–68. §-ait megfelelően alkalmazni kell.
 

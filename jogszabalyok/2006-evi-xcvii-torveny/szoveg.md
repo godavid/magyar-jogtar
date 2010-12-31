@@ -511,6 +511,8 @@ fedezik.
 
 (5) A (4) bekezdés szerinti küldöttnek az választható meg, aki nyilatkozik arról, hogy küldötté választása napján kamarai tagsági viszonyban áll, továbbá tagsági viszonyának megszüntetése nincs folyamatban. Megválasztását követően küldöttként csak az járhat el, aki eljárása napján kamarai tagsági viszonyban áll.
 
+(6) A szakmai kamarának az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvény hatálybalépésekor hivatalban lévő országos és területi képviseleti és ügyintéző szerveinek, országos és területi tisztségviselőinek, valamint az ügyintéző szervek nem tisztségviselő tagjainak megbízatása e törvény erejénél fogva a megbízatás tisztújítással, illetve újraválasztással történő betöltéséig, de legfeljebb 2011. december 31-éig meghosszabbodik.
+
 33. § E törvény hatálybalépésével egyidejűleg
 
 - a)

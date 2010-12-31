@@ -369,6 +369,8 @@ a hagyatéki eljárásról
 
 (2) Ha a közjegyző az örökhagyó végintézkedésének esetleges érvénytelenségére vonatkozó körülményt észlel, arról az érintetteket legkésőbb a végintézkedés kihirdetése során tájékoztatja.
 
+### Eseti és ügygondnok
+
 49. § (1) A közjegyző ügygondnokot rendel ki, vagy – ha az a leltározás során nem történt meg – a gyámhatóságot keresi meg eseti gondnok kirendelése végett, ha
 
 - a) az öröklésben érdekeltnek nincs törvényes képviselője és méhmagzat, cselekvőképtelen vagy korlátozottan cselekvőképes kiskorú, illetve olyan nagykorú személy, akinek a cselekvőképességét a bíróság olyan ügycsoportban korlátozta, amely érinti ingó és ingatlanvagyonnal való rendelkezési jogát, illetve örökösödési ügyekkel kapcsolatos jognyilatkozatát;
@@ -739,6 +741,8 @@ a hagyatéki eljárásról
 
 97. § A törvényes öröklés rendje szerinti, a túlélő házastársat megillető, holtig tartó haszonélvezeti jog megváltásáról szóló egyezség jóváhagyásáról a közjegyző dönt.
 
+### Eljárás végrendeleti végrehajtó megnevezése esetén
+
 98. § (1) A megváltás iránti kérelem a törvényes öröklés rendje szerinti, a túlélő házastársat megillető, holtig tartó haszon- élvezeti joggal terhelt hagyatéki vagyon, illetve vagyontárgy meghatározott hányadára, illetőleg meghatározott vagyontárgyra is előterjeszthető.
 
 (2) A törvényes öröklés rendje szerinti, a túlélő házastársat megillető, holtig tartó haszonélvezeti jog megváltásának a póthagyatéki vagyonra nézve a póthagyatéki eljárásban is helye van.
@@ -940,11 +944,11 @@ a hagyatéki eljárásról
 
 (2) A 122. § és a 124. § 2010. június 2-án lép hatályba.
 
-(3) A 1–10. §, a 11. § (1)–(2) bekezdése, a 12–119. § és a 121. § 2011. január 1-jén lép hatályba.
+(3) Az 1–10. §, a 11. § (1)–(3) és (5) bekezdései, a 12–119. § és a 121. § 2011. január 1-jén lépnek hatályba.
 
 (4) A 125. § 2011. január 2-án lép hatályba.
 
-(5) A 11. § (3) bekezdése 2011. július 1-jén lép hatályba.
+(5) A 11. § (4) bekezdése és a 23. § (2) bekezdése 2012. július 1-jén lép hatályba.
 
 (6) A 122–125. § 2011. január 3-án hatályát veszti.
 
