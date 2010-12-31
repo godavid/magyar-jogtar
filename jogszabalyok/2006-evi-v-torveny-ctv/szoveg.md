@@ -107,15 +107,11 @@ valamint a céginformációs szolgálat feladatai
 
 10. § (1) A cégnyilvántartás a cégjegyzékből, valamint a cégjegyzékben szereplő adat igazolására szolgáló mellékletekből, illetve egyéb olyan okiratokból áll, amelyeknek benyújtására a céget – közérdekből, illetve a forgalom biztonsága, valamint a hitelezői érdekek védelme céljából – törvény kötelezi (a továbbiakban együtt: cégiratok).
 
-(2) A cégjegyzék fennálló, illetve törölt adatai – ide nem értve a (4) bekezdésében foglaltakat – valamint a cégiratok – ideértve az elektronikus úton benyújtott, illetve elektronikus okirattá átalakított cégiratokat is – teljeskörűen nyilvánosak. Teljeskörűen nyilvánosak továbbá a benyújtott, de még el nem bírált bejegyzési kérelem és mellékletei is azzal, hogy a bejegyzési (változásbejegyzési) kérelem elbírálásának folyamatban létére a cégnyilvántartásnak utalnia kell. A törvényességi felügyeleti eljárás iratai e törvény rendelkezései szerint nyilvánosak.
+(2) A cégjegyzék fennálló, illetve törölt adatai, valamint a cégiratok – ideértve az elektronikus úton benyújtott, illetve elektronikus okirattá átalakított cégiratokat is – teljeskörűen nyilvánosak. Teljeskörűen nyilvánosak továbbá a benyújtott, de még el nem bírált bejegyzési kérelem és mellékletei is azzal, hogy a bejegyzési (változásbejegyzési) kérelem elbírálásának folyamatban létére a cégnyilvántartásnak utalnia kell. A törvényességi felügyeleti eljárás iratai e törvény rendelkezései szerint nyilvánosak.
 
 (3) Az eltiltás hatályának fennállása alatt teljeskörűen nyilvánosak a cégnyilvántartásból törölt gazdasági társaság vezető tisztségviselőjével, cégvezetőjével szemben a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) 23. §-a alapján bejegyzett adatok. Az eltiltás hatályának megszűnését követően ezeket az adatokat vissza nem állítható módon kell a cégjegyzékből véglegesen törölni.
 
-(4) A természetes személyek tekintetében a cégjegyzékbe bejegyzett lakóhelyet a közfeladatot ellátó szervek (így különösen bíróság, ügyészség, nyomozó hatóság, más közigazgatási szerv stb.) közfeladataik ellátása érdekében – erre irányuló külön kérelem benyújtása nélkül – ismerhetik meg. Egyéb személyek törvényben biztosított jogaik gyakorlásához vagy törvényes érdekeik védelmében a cégjegyzékbe bejegyzett lakóhelyet kizárólag a céginformáció iránt benyújtott kérelem alapján ismerhetik meg.
-
-(5) A (4) bekezdés szerinti egyéb személyek tekintetében az adatszolgáltatás tényét a céginformációs szolgálat köteles az elektronikus rendszerben oly módon rögzíteni, hogy az érintettet az adatszolgáltatás időpontjáról, a kért adatokról – ha törvény másként nem rendelkezik – az adatszolgáltatás időpontjától számított öt évig tájékoztathassa. Törvényes jogcím hiányában az információkérőnek az érintettek hozzájárulását igazolnia kell.
-
-(6) Az adatszolgáltatás során az (5) bekezdés szerinti tényeket oly módon kell rögzíteni, hogy az adat célhoz kötött felhasználása ellenőrizhető legyen. Az ezzel ellentétes céginformáció-kérés, illetve ennek alapján az adat felhasználásának jogkövetkezményeit az információt kérő viseli.
+(4)–(6)
 
 11. § A cégnyilvánosságot a cégbíróság, a céginformációs szolgálat, valamint a Cégközlönyben történő közzététel biztosítja.
 
@@ -133,7 +129,7 @@ valamint a céginformációs szolgálat feladatai
 
 (4) A cégbíróságon a cégiratokról e törvényben, illetve külön jogszabályban meghatározott módon kérhető másolat.
 
-(5) A cégbíróság a betekintés során, valamint a kiadott cégmásolatban, cégkivonatban és cégbizonyítványban – ellenkező kérelem hiányában – nem tünteti fel a természetes személy tekintetében bejegyzett lakóhelyet. A cégbíróság az e §-ban meghatározott betekintést, az adat- és cégirat szolgáltatást a 10. § (4)–(6) bekezdésében foglaltak szerint biztosítja.
+(5)
 
 13. § (1) A céginformációs szolgálat kérelemre tájékoztatást ad a cégjegyzékben szereplő fennálló vagy törölt adatokról, valamint a bejegyzési (változásbejegyzési) kérelem elektronikusan rögzített, még be nem jegyzett adatairól. E közszolgáltatást bárki igénybe veheti. A céginformációs szolgálatnál rendelkezésre álló adatok azonosak a cégbíróságokon elektronikusan rögzített adatokkal. A 12. § (1) bekezdésében meghatározott közokiratok kiadására a céginformációs szolgálat is jogosult.
 
@@ -162,13 +158,13 @@ megismerhetők.
 
 15. § (1) A céginformációs szolgálat a cégjegyzékben szereplő fennálló vagy törölt adatok, valamint a bejegyzési (változásbejegyzési) kérelem elektronikusan rögzített, még be nem jegyzett adatainak a megismerését (a betekintés lehetőségét) kérelemre, bárki számára ingyenesen és korlátozásmentesen biztosítja, feltéve, hogy a céginformációt elektronikus úton kérik.
 
-(2) Az (1) bekezdésben nem említett céginformációért, valamint ha a kérelmező a céginformációt közokirat formájában kéri, a kérelmező a céginformációs szolgálat tevékenységének igénybevételéért – a szolgáltatás költségeivel összhangban álló – költségtérítést köteles fizetni. A céginformációs szolgálat a céginformációban – ellenkező kérelem hiányában – nem tünteti fel a természetes személyek tekintetében bejegyzett lakóhelyet. A betekintést és céginformáció szolgáltatást a céginformációs szolgálat a 10. § (4)–(6) bekezdésében foglaltak szerint biztosítja.
+(2) Az (1) bekezdésben nem említett céginformációért, valamint ha a kérelmező a céginformációt közokirat formájában kéri, a kérelmező a céginformációs szolgálat tevékenységének igénybevételéért – a szolgáltatás költségeivel összhangban álló – költségtérítést köteles fizetni.
 
 (3) A céginformációs szolgálat a bíróság, az ügyészség, a nyomozó hatóság, illetve más közigazgatási szerv, a közjegyző, a bírósági végrehajtó, a felszámoló, valamint a gazdasági, illetve szakmai kamarák részére a közfeladataik ellátása érdekében kért céginformációt – az (1) bekezdésben nem említett cégadatok vonatkozásában is – ingyenesen bocsátja rendelkezésre. Esetükben sem az adatszolgáltatás, sem az adattovábbítás nem köthető díjfizetéshez. Az e rendelkezéssel ellentétes megállapodás semmis.
 
 (4) A céginformációs szolgálat működésének részletes szabályait, valamint a fizetendő költségtérítés mértékét az igazságügyért felelős miniszter rendeletben állapítja meg.
 
-16. § (1) A cégnyilvántartásban szereplő elektronikus okiratokról a cégbíróságtól illeték ellenében, illetve a céginformációs szolgálattól – külön jogszabályban meghatározott költségtérítés ellenében – hiteles vagy nem hiteles papíralapú másolat kérhető. Ha a kérelemből más nem következik, a cégbíróság, illetve a céginformációs szolgálat – a kérelem érkezésétől számított tizenöt napon belül – az okirat hiteles másolatát adja ki. A cégbíróság és a céginformációs szolgálat – ellenkező kérelem hiányában – a természetes személyek tekintetében bejegyzett lakóhelyet nem tüntetni fel. A céginformációs szolgálat a cégiratot a 10. § (4)–(6) bekezdésében foglaltak szerint adja ki.
+16. § (1) A cégnyilvántartásban szereplő elektronikus okiratokról a cégbíróságtól illeték ellenében, illetve a céginformációs szolgálattól – külön jogszabályban meghatározott költségtérítés ellenében – hiteles vagy nem hiteles papíralapú másolat kérhető. Ha a kérelemből más nem következik, a cégbíróság, illetve a céginformációs szolgálat – a kérelem érkezésétől számított tizenöt napon belül – az okirat hiteles másolatát adja ki.
 
 (2) A cégbíróságtól illeték ellenében, illetve a céginformációs szolgálattól – külön jogszabályban meghatározott költségtérítés ellenében – az elektronikus okiratok (ideértve a cégjegyzékadatokról kiállított elektronikus okiratot) elektronikus úton történő megküldése is kérhető.
 
@@ -214,9 +210,9 @@ megismerhetők.
 
 20. § (1) A Cégközlöny az igazságügyért felelős miniszter által vezetett minisztérium hivatalos lapja, amelynek elektronikus formában történő közzétételére az erre a célra fenntartott honlapon kerül sor, biztosítva a Cégközlöny egyes lapszámaiba való ingyenes betekintés és a lapszámok ingyenes letöltésének lehetőségét. A Cégközlöny egyes lapszámai a honlapról nem távolíthatók el. A Cégközlönyt elektronikus formában való megjelenítése során olyan formátumban kell közzétenni, amely a többszörözés során is biztosítja az illetéktelen módosítás elleni védelmet. A Cégközlönyben közzétett nyilvános adatok csoportosított (pl. keresőprogram segítségével történő) megismerésének költségtérítését az igazságügyért felelős miniszter rendeletben állapítja meg. A Cégközlöny a hitelezővédelmi nyilvántartás működtetése révén elősegíti, hogy a gazdasági forgalom szereplői megbízható információk birtokában hozhassák meg döntéseiket.
 
-(2) A cég cégjegyzékének adatait, illetve azok változásait – ideértve a cég törlését is – tartalmazó végzését a cégbíróság költségtérítés ellenében a Cégközlönyben hozza nyilvánosságra, felsorolva azokat az okiratokat is, amelyek alapján a végzést meghozta. A cégbíróság a végzést automatikusan, elektronikus úton juttatja el a Cégközlöny számára, azzal, hogy a végzésben nem kerül feltüntetésre a természetes személyek tekintetében bejegyzett lakóhely. A végzésben, illetve annak alapján a Cégközlönyben megjelenő közleményben azt is szerepeltetni kell, hogy a vonatkozó cégiratok a cégjegyzéket vezető cégbíróságon megtekinthetők. Emellett a Cégközlönyben közzétételre kerülnek azok a cégjegyzékadatok is, amelyekkel törvény rendelkezése szerint – más szervezet döntése alapján – elektronikus úton egészül ki a cégjegyzék.
+(2) A cég cégjegyzékének adatait, illetve azok változásait – ideértve a cég törlését is – tartalmazó végzését a cégbíróság költségtérítés ellenében a Cégközlönyben hozza nyilvánosságra, felsorolva azokat az okiratokat is, amelyek alapján a végzést meghozta. A cégbíróság a végzést automatikusan, elektronikus úton juttatja el a Cégközlöny számára. A végzésben, illetve annak alapján a Cégközlönyben megjelenő közleményben azt is szerepeltetni kell, hogy a vonatkozó cégiratok a cégjegyzéket vezető cégbíróságon megtekinthetők. Emellett a Cégközlönyben közzétételre kerülnek azok a cégjegyzékadatok is, amelyekkel törvény rendelkezése szerint – más szervezet döntése alapján – elektronikus úton egészül ki a cégjegyzék.
 
-(3) A cégbíróság a részvénytársaság és a korlátolt felelősségű társaság cégjegyzék adatainak közzétételével egyidejűleg gondoskodik a részvénytársaság és a korlátolt felelősségű társaság létesítő okiratának, illetve a létesítő okirat módosításának Cégközlönyben történő közzétételéről is, kivéve, ha a létesítő okirat vagy annak módosítása szerződésminta alkalmazásával készült. A Cégközlöny részére továbbításra kerülő létesítő okiratban, módosított létesítő okiratban nem kerül feltüntetésre a természetes személyek tekintetében bejegyzett lakóhely.
+(3) A cégbíróság a részvénytársaság és a korlátolt felelősségű társaság cégjegyzék adatainak közzétételével egyidejűleg gondoskodik a részvénytársaság és a korlátolt felelősségű társaság létesítő okiratának, illetve a létesítő okirat módosításának Cégközlönyben történő közzétételéről is, kivéve, ha a létesítő okirat vagy annak módosítása szerződésminta alkalmazásával készült.
 
 (4) Törvényben meghatározott esetben a Cégközlönyben közleményként kell továbbá közzétenni:
 
@@ -1544,7 +1540,8 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 - e) a Tanács 89/666/EGK tizenegyedik irányelve (1989. december 21.) a valamely tagállam jogának hatálya alá tartozó meghatározott jogi formájú társaságoknak egy másik tagállamban létesített fióktelepeire vonatkozó adatközlési követelményeiről;
 - f) a Tanács 89/667/EGK tizenkettedik társasági jogi irányelve (1989. december 21.) az egyszemélyes korlátolt felelősségű társaságokról;
 - g) a Tanács 2001/86/EK irányelve (2001. október 8.) az európai részvénytársaság statútumának a munkavállalói részvételre vonatkozó kiegészítéséről;
-- h) az Európai Parlament és a Tanács 2004/25/EK irányelve (2004. április 21.) a nyilvános vételi ajánlatról.
+- h) az Európai Parlament és a Tanács 2004/25/EK irányelve (2004. április 21.) a nyilvános vételi ajánlatról;
+- i) az Európai Parlament és a Tanács 2009/109/EK irányelve (2009. szeptember 16.) a 77/91/EGK, a 78/855/EGK, a 82/891/EGK tanácsi irányelvnek és a 2005/56/EK irányelvnek az egyesülések és szétválások esetében alkalmazandó jelentéstételi és dokumentációs kötelezettségek tekintetében történő módosításáról.
 
 (2) E törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
 

@@ -134,7 +134,7 @@ munka után.
 
 (3) Továbbszolgáló állományban 1960. december 18-a előtt eltöltött időt, valamint a katonai szolgálatban eltöltött időt abban az esetben lehet a korkedvezményre jogosultság szempontjából számításba venni, ha az igénylő e szolgálatát megelőző és követő harminc napon belül korkedvezményre jogosító munkakörben (munkahelyen) dolgozott.
 
-8/B. § (1) Korkedvezményre – 2010. december 31-éig – a 2006. december 31-én hatályos rendelkezések szerinti munkakörök (munkahelyek) jogosítanak azzal, hogy a munkaköri jegyzékben szereplő, menetrendszerű tömegközlekedésben (személyszállításban) járművezetői munkakörben 2008. május 1-jétől végzett munka a jármű típusától függetlenül korkedvezményre jogosít. 2010. december 31-éig a 2006. december 31-én hatályos rendelkezéseket kell alkalmazni az egyes munkakörökre (munkahelyekre) vonatkozó különös számítási szabályokra is.
+8/B. § (1) Korkedvezményre – 2012. december 31-éig – a 2006. december 31-én hatályos rendelkezések szerinti munkakörök (munkahelyek) jogosítanak azzal, hogy a munkaköri jegyzékben szereplő, menetrendszerű tömegközlekedésben (személyszállításban) járművezetői munkakörben 2008. május 1-jétől végzett munka a jármű típusától függetlenül korkedvezményre jogosít. 2012. december 31-éig a 2006. december 31-én hatályos rendelkezéseket kell alkalmazni az egyes munkakörökre (munkahelyekre) vonatkozó különös számítási szabályokra is.
 
 (2) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv – a munkabiztonságért felelős miniszter által vezetett minisztérium véleményére is figyelemmel – engedélyezheti a korkedvezményre jogosító munkakörök (munkahelyek) jegyzékében felsorolt munkakörben 2008. január 1-je előtt eltöltött idő korkedvezményre jogosító időként történő figyelembevételét akkor is, ha a jegyzék szerint a korkedvezmény ágazati hatálya az adott munkahelyre nem terjed ki.
 
@@ -142,7 +142,7 @@ munka után.
 
 (4) Ha a hatóság külön törvényben foglaltak szerint a foglalkoztatót, egyéni vállalkozót a kérelmében megjelölt munkahelyen az adott munkakör tekintetében a korkedvezmény-biztosítási járulék megfizetési kötelezettsége alól mentesíti, az adott munkakör a mentesítés időpontjától annak visszavonásáig korkedvezményre nem jogosít.
 
-8/C. § A 2011. január 1-jétől a korkedvezményre jogosító feltételek meghatározásáról külön törvény rendelkezik.
+8/C. § A 2013. január 1-jétől a korkedvezményre jogosító feltételek meghatározásáról külön törvény rendelkezik.
 
 9. §
 
