@@ -234,9 +234,14 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (7) Ha e törvény hatálya alá tartozó földrészlet felett az állam, mint törvényes örökös tulajdonjogot szerez, a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) a hagyatékátadó végzés (öröklési bizonyítvány) jogerőre emelkedését követő 30 napon belül a földrészletet átadja az NFA-nak.
 
-17. § (1) A Nemzeti Földalapba tartozó földrészletekről az NFA naprakész vagyonnyilvántartást vezet, amely tartalmazza a hasznosítás módjára vonatkozó javaslatot is.
+17. § (1) A Nemzeti Földalapba tartozó földrészletekről és az azokon fennálló jogok jogosultjairól az NFA az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint naprakész vagyonnyilvántartást vezet, amely tartalmazza
 
-(2) A vagyonnyilvántartásban elkülönülten kell nyilvántartani a jövedelmező mezőgazdasági művelésre nem alkalmas (különösen belvizes, szikes) földrészleteket.
+- a) a jogosultak adatai körében a haszonbérlő, vagyonkezelő, erdőgazdálkodó, és a 18. § (5) bekezdése szerint megbízott személy nevét (megnevezését), lakcímét (székhelyét, telephelyét),
+- b) a hasznosítás módjára vonatkozó javaslatot.
+
+(2) Az NFA az (1) bekezdésben meghatározott személyes adatokat a jogosultnak az NFA-val való jogviszonya fennállásáig kezelheti.
+
+(3) A vagyonnyilvántartásban elkülönülten kell nyilvántartani a jövedelmező mezőgazdasági művelésre nem alkalmas (különösen belvizes, szikes) földrészleteket.
 
 18. § (1) Az NFA – a 21. és 22. §-ban meghatározottak kivételével – a Nemzeti Földalapba tartozó földrészletet
 

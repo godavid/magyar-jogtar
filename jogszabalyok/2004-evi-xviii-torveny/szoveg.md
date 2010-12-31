@@ -416,7 +416,7 @@ látják el.
 
 (3) Ha a mezőgazdasági és vidékfejlesztési támogatási szerv a 7. § (2) bekezdése alapján benyújtott kivágási engedély iránti kérelem kapcsán lefolytatott helyszíni szemle során megállapítja, hogy a kivágás már megvalósult – amennyiben a kérelem az előírt követelményeknek megfelel –, az engedélyt megadja.
 
-(4) Amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv a kivágás engedélyezéséhez kapcsolódó eljárása során a kérelemnek nem vagy csak részben ad helyt, úgy – a nem engedélyezett művelet vonatkozásában – határozatban kötelezi a kivágást végző személyt a művelési ág szerinti állapot helyreállítására.
+(4)
 
 43/B. § (1) Amennyiben a növénytermesztési hatóság ellenőrzése során megállapítja, hogy a borszőlőültetvényt a telepítési engedélyben foglaltaktól eltérően telepítették, úgy a telepítőt megfelelő határidő kitűzésével felszólítja, hogy – a 7. § (2) bekezdésében meghatározott eljárásrend szerint – kezdeményezze a telepítési engedély módosítását, amennyiben az az ültetvény telepítésének engedélyezésében hozott döntést érdemben nem befolyásolja és a módosított döntés nem állapít meg a telepítő részére több jogot.
 

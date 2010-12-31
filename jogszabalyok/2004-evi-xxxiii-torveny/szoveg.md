@@ -58,7 +58,7 @@ fogadta el.
 4. § (1) Az önkormányzat, illetve a miniszter (a továbbiakban együtt: ellátásért felelős) feladatkörébe tartozik:
 
 - a) a közszolgáltatási feladatok és az azokkal összefüggő követelmények meghatározása adott területre (területrészre, hálózatra, vonalcsoportra, vonalra vagy járatra) és a szolgáltatóval szemben;
-- b) a közszolgáltatási feladatok ellátására leginkább megfelelő, a legszínvonalasabb és a köz számára legkevésbé költséges szolgáltatást kínáló, legalkalmasabb szolgáltató kiválasztása és megbízása, a szolgáltató tevékenységének folyamatos figyelemmel kísérése és ellenőrzése;
+- b) a közszolgáltatási feladatok ellátására leginkább megfelelő, a legszínvonalasabb és a köz számára legkevésbé költséges szolgáltatást kínáló, az energetikai és környezeti hatások figyelembevételével legalkalmasabb szolgáltató kiválasztása és megbízása, a szolgáltató tevékenységének folyamatos figyelemmel kísérése és ellenőrzése;
 - c) társadalmilag indokolt utazási igények kielégítését szolgáló, de üzleti alapon jövedelmezően nem biztosítható szolgáltatás esetén a szolgáltató közszolgáltatási feladatra kötelezése és az abból származó veszteségeinek kiegyenlítése.
 
 (2) A miniszter feladata a vasúti személyszállítási közszolgáltatás és a belföldi menetrend szerinti személyszállítás szervezésére vonatkozó főbb prioritásokat tartalmazó egységes, országosan és regionálisan összehangolt, valamint az államháztartás teherbíró-képességét is figyelembe vevő közszolgáltatási menetrendi koncepció kidolgozása.
@@ -74,7 +74,8 @@ fogadta el.
 - e) a szolgáltatások közötti összhang és a szolgáltatók közötti együttműködés a menetrend, az átszállási lehetőségek, a jegyrendszer és az utastájékoztatás tekintetében,
 - f) a járművek és szolgáltatási infrastruktúra színvonala, azok használata, környezeti hatások,
 - g) a személyzettel szembeni elvárások, foglalkoztatási feltételek,
-- h) a szolgáltatások ráfordításigénye.
+- h) a szolgáltatások ráfordításigénye,
+- i) a közszolgáltatást ellátó közúti járművek energetikai és környezeti hatásai.
 
 ### Szolgáltató kiválasztása
 
@@ -93,7 +94,8 @@ fogadta el.
 - g) tájékoztatást a korábbi szolgáltató által nyújtott szolgáltatásokról, annak teljesítményeiről és az általa alkalmazott díj- és jegyrendszerről,
 - h) az alvállalkozó közreműködésére vonatkozó feltételeket,
 - i) a közszolgáltatási szerződés módosításának, felmondásának feltételeit,
-- j) minden olyan további feltételt, amelyet az ellátásért felelős a közszolgáltatási szerződésben érvényesíteni kíván.
+- j) a közszolgáltatást ellátó közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített, a tiszta és energiahatékony közúti járművek használatáról szóló Kormányrendelet szerint megállapított energetikai és környezeti hatások figyelembevételének módját, súlyát;
+- k) minden olyan további feltételt, amelyet az ellátásért felelős a közszolgáltatási szerződésben érvényesíteni kíván.
 
 (4) A pályázati kiírásban szereplő feltételeket és a pályázat elbírálásának szempontjait az 5. §-ban foglaltak alapján kell meghatározni. A feltételek körében az ellátásért felelős a szolgáltató kötelezettségeként előírhatja a letelepedést, a korábbi szolgáltató munkavállalóinak, illetőleg azok meghatározott körének meghatározott feltételekkel történő átvételét, továbbá alvállalkozó meghatározott mértékű bevonását a közszolgáltatásba, az alvállalkozó személyének megjelölése nélkül.
 
@@ -249,6 +251,10 @@ járati engedéllyel végezhet.
 
 (9) Az egyenlő esélyű hozzáférést a közforgalmú menetrend alapján végzett személyszállításban részt vevő autóbuszokon, továbbá az autóbusz-pályaudvarok és a megállóhelyek személyforgalom lebonyolítására és kiszolgálására szolgáló részében fokozatosan, de legkésőbb 2013. január 1-jéig kell biztosítani.
 
-18. § Ez a törvény a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, az Európai Parlament és a Tanács 1370/2007/EK rendelete végrehajtásához szükséges rendelkezéseket állapítja meg.
+(10) A belföldi menetrend szerinti személyszállítást végző szolgáltatók autóbuszvásárlásaik során a közszolgáltatást ellátó közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített, a tiszta és energiahatékony közúti járművek használatáról szóló kormányrendeletben foglaltakat figyelembe veszik.
+
+18. § (1) Ez a törvény a tiszta és energiahatékony közúti járművek használatának előmozdításáról szóló, 2009. április 23-i 2009/33/EK európai parlamenti és tanácsi irányelv 5. cikk (1) bekezdésének való megfelelést szolgálja.
+
+(2) Ez a törvény a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. október 23-i 1370/2007/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 19. § Felhatalmazást kap a miniszter, hogy az egységes egyeztetési eljárásra vonatkozó részletes szabályokat, valamint a Regionális Közlekedési Szakbizottság szervezetére és működésére vonatkozó szabályokat rendeletben állapítsa meg.

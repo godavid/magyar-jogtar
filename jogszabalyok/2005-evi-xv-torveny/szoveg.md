@@ -14,11 +14,9 @@ Az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló
 
 Üht. 2. § (1) A törvény hatálya
 
-- a) – a (2) bekezdésben megjelölt kivételekkel – az 1. számú mellékletben meghatározott üvegházhatású gázkibocsátással járó tevékenységekre,
-- b)
-- c) a kibocsátási egységek kereskedelmére (forgalmára)
+– a (2) bekezdésben megjelölt kivételekkel – az 1. számú mellékletben meghatározott üvegházhatású gázkibocsátással járó tevékenységekre, az 1. számú melléklet XI. pontja szerinti tevékenység esetében csak olyan légijármű üzemben tartóra, amely tekintetében a Magyar Köztársaság az adminisztrációért felelős tagállam,
 
-terjed ki.
+- b) a kibocsátási egységek és a légiközlekedési kibocsátási egységek (a továbbiakban együtt: ÜHG-egység) kereskedelmére terjed ki.
 
 (2) Nem terjed ki a törvény hatálya a kizárólag kutatásra, fejlesztésre, valamint új termékek és eljárások kipróbálására irányuló tevékenységekre.
 
@@ -35,10 +33,29 @@ terjed ki.
 - g) új belépő: azon üzemeltető, amely a Nemzeti Kiosztási Tervnek az Európai Bizottság részére jóváhagyás céljából történt benyújtását követően
   - ga) kapott kibocsátási engedélyt, vagy
   - gb) a létesítmény jellegének, működésének megváltozása, továbbá – a Nemzeti Kiosztási Tervben megállapított mértékű – bővítése következében kapott új kibocsátási engedélyt.
+- h) kereskedelmi légiközlekedési üzemben tartó: olyan légiközlekedési üzemben tartó, amely ellenérték fejében menetrendszerűen vagy nem menetrendszerűen utasok, áru vagy postai küldemények szállítására irányuló légiközlekedési szolgáltatást nyújt;
+- i) légijármű üzemben tartó: az 1. számú melléklet XI. pontjában meghatározott légiközlekedési tevékenység folytatásának idején légijárművet üzemben tartó személy, vagy ha ez a személy ismeretlen, vagy a légijármű tulajdonosa által nem azonosított, a légijármű tulajdonosa;
+- j) kibocsátások: üvegházhatású gázoknak valamely létesítményben található forrásokból a légkörbe történő kiengedése vagy az 1. számú melléklet XI. pontjában meghatározott légiközlekedési tevékenységet folytató légijárműből az említett tevékenység tekintetében gázok kibocsátása;
+- k) légiközlekedési új belépő: az a légijármű üzemben tartó,
+  - ka) amely az 1. számú melléklet XI. pontja szerinti légiközlekedési tevékenységet 2010. december 31. után kezdi meg, vagy
+  - kb) amelynek tonnakilométer-adatai évente több mint 18%-kal nőnek a 2010. január 1. és 2013. december 31. közötti időszakban, feltéve, hogy a tevékenység sem részben, sem egészben nem jelenti egy másik légijármű üzemben tartó által korábban végzett légiközlekedési tevékenység folytatását;
+- l) légiközlekedési kibocsátási egység: az e törvény szerinti kötelezettségek teljesítésére a légijármű üzemben tartó által felhasználható, egy tonna szén-dioxid-egyenérték meghatározott időn belül történő kibocsátását lehetővé tevő forgalomképes vagyoni értékű jog;
+- m) a légiközlekedési kibocsátási egységek teljes mennyisége:
+  - ma) a 2012. január 1. és 2012. december 31. közötti időszakra a légijármű üzemben tartók számára kiosztandó légiközlekedési kibocsátási egységek teljes mennyisége a korábbi összes, légiközlekedésből származó kibocsátások éves átlaga 97%-ának felel meg, amely esetben a referenciaév 2010.,
+  - mb) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. október 13-i 2003/87/EK európai parlamenti és a tanácsi irányelv 11. cikk (2) bekezdésében említett, 2013. január 1-jén kezdődő időszakra és a 30. cikk (4) bekezdésében említett felülvizsgálatot követő esetleges módosítások hiányában minden ezt követő időszakra a légijármű üzemben tartók számára kiosztandó légiközlekedési kibocsátási egységek teljes mennyisége a korábbi légiközlekedésből származó összes kibocsátás 95%-a és az adott időszakban eltelt évek száma szorzatának felel meg, ebben az esetben a referenciaév az a naptári év, amely 24 hónappal az árveréssel érintett időszak kezdete előtt véget ér;
+- n) légiközlekedésből származó korábbi kibocsátások: a 2004., 2005. és 2006. naptári évben az I. mellékletben felsorolt légiközlekedési tevékenységet végző légijárművek éves kibocsátásainak átlaga;
+- o) légiközlekedésnek tulajdonított kibocsátások: az 1. számú mellékletben felsorolt légiközlekedési tevékenységek közé tartozó összes olyan repülésből származó kibocsátás, amely egy tagállam területén található repülőtérről indul vagy egy ilyen repülőtérre harmadik országból érkezik;
+- p) adminisztrációért felelős tagállam:
+  - pa) az adott légijármű üzemben tartó számára a 2407/92/EGK tanácsi rendelet rendelkezéseivel összhangban üzembentartási engedélyt kiadó tagállam; és
+  - pb) minden egyéb esetben az a tagállam, ahol a referenciaévben az adott légijármű üzemben tartó által végzett repülésekből származó, légiközlekedésnek tulajdonított becsült kibocsátások mértéke a legnagyobb.
 
-### A kibocsátási engedély
+### A kibocsátási engedély és a nyomonkövetési terv
 
-Üht. 4. § A 2. § (1) bekezdés a) pontjában meghatározott tevékenység a környezetvédelmi hatóság által külön jogszabály szerint kiadott jogerős kibocsátási engedély alapján folytatható.
+Üht. 4. § (1) A 2. § (1) bekezdés a) pontjában meghatározott tevékenység – az 1. számú melléklet XI. pontjában meghatározott légiközlekedési tevékenység kivételével – a környezetvédelmi hatóság által kiadott jogerős kibocsátási engedély alapján folytatható.
+
+(2) A légijármű üzemben tartó köteles az 1. számú melléklet XI. pontja szerinti tevékenysége során keletkező szén-dioxid kibocsátására és a tonnakilométer adataira nyomonkövetési tervet készíteni, és azt a környezetvédelmi hatóság részére jóváhagyás céljából megküldeni.
+
+(3) A környezetvédelmi hatóság e § szerinti kibocsátási engedély kiadására és nyomonkövetési terv jóváhagyására vonatkozó eljárásáért külön jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
 ### A kibocsátási engedély
 
@@ -67,7 +84,7 @@ Vhr. 1. § (1) Az 1. mellékletben meghatározott üvegházhatású gázkibocsá
 
 ### A kibocsátások nyomon követése, jelentéseés a jelentések hitelesítése
 
-Üht. 5. § (1) Az üzemeltető köteles a kibocsátási engedély hatálya alá tartozó üvegházhatású gáz kibocsátását külön jogszabály szerint nyomon követni és arról a környezetvédelmi hatóság részére a tárgyévet követő év március 31-ig hitelesített jelentést tenni.
+Üht. 5. § (1) A légijármű üzemben tartó az 1. számú melléklet XI. pontja szerinti, valamint az üzemeltető a kibocsátási engedély hatálya alá tartozó üvegházhatású gáz kibocsátását köteles az e törvény végrehajtására kiadott jogszabályok szerint nyomon követni és arról a környezetvédelmi hatóság részére a tárgyévet követő év március 31-ig hitelesített jelentést tenni.
 
 ### A kibocsátások nyomon követése, jelentéstétel
 
@@ -83,11 +100,11 @@ Vhr. 2. § (1) Az üzemeltető köteles a kibocsátási engedély hatálya alá 
 
 (6) A 11/A. § szerinti bezáró létesítmény üzemeltetője a bezárás napjától számított 30 napon belül köteles a tevékenység folytatásának idejére vonatkozóan, hitelesített jelentést tenni. Ha a létesítmény bezárására a tárgyévet követő év január 1-je és március 1-je között kerül sor, akkor a bezárás évére vonatkozó jelentéstétel és az (1) bekezdés szerinti jelentéstétel együttesen teljesítendő.
 
-[Üht. 5. §] (2) Az üzemeltető köteles az (1) bekezdésben meghatározott határidőig a hitelesített jelentés szerinti tárgyévi kibocsátási mennyiséget a 2003/87/EK európai parlamenti és tanácsi irányelv és a 280/2004/EK európai parlamenti és tanácsi határozat szerinti kibocsátásforgalmi-jegyzékek egységesített és biztonságos rendszeréről szóló 2216/2004/EK bizottsági rendeletnek (a továbbiakban: bizottsági rendelet) megfelelően rögzíteni a nemzeti forgalmi jegyzékben.
+[Üht. 5. §] (2) Az üzemeltető és a légijármű üzemben tartó köteles az (1) bekezdésben meghatározott határidőig a hitelesített jelentés szerinti tárgyévi kibocsátási mennyiséget a 2003/87/EK európai parlamenti és tanácsi irányelv és a 280/2004/EK európai parlamenti és tanácsi határozat szerinti kibocsátásforgalmi-jegyzékek egységesített és biztonságos rendszeréről szóló 2216/2004/EK bizottsági rendeletnek (a továbbiakban: bizottsági rendelet) megfelelően rögzíteni a nemzeti forgalmi jegyzékben.
 
-(3) A kibocsátási jelentést az üzemeltető a Kormány rendeletében meghatározott módon, egyéni hitelesítővel vagy hitelesítő szervezettel (a továbbiakban együtt: hitelesítő) hitelesítteti.
+(3) A kibocsátási jelentést az üzemeltető és a légijármű üzemben tartó a Kormány rendeletében meghatározott módon, egyéni hitelesítővel vagy hitelesítő szervezettel (a továbbiakban együtt: hitelesítő) hitelesítteti.
 
-(4) Amennyiben az üzemeltető határidőre nem nyújtott be hitelesített jelentést, vagy nem a kibocsátási engedélynek és a külön jogszabályoknak megfelelő jelentést nyújt be, a környezetvédelmi hatóság a 17. §-ban meghatározott jogkövetkezmények alkalmazása mellett a létesítmény teljes kibocsátását a rendelkezésére álló adatok alapján állapítja meg. A környezetvédelmi hatóság a létesítmény teljes kibocsátásának megállapítására az eljárás során jogosult az üzemeltető költségére bejegyzett hitelesítőt megbízni.
+(4) Ha az üzemeltető vagy a légijármű üzemben tartó határidőre nem nyújtott be hitelesített jelentést, vagy a jelentés nem felel meg az e törvényben vagy az e törvény végrehajtására kiadott jogszabályokban előírt követelményeknek, vagy nem a kibocsátási engedélynek vagy a jóváhagyott nyomonkövetési tervnek megfelelően készült, a környezetvédelmi hatóság a 17. §-ban meghatározott jogkövetkezmények alkalmazása mellett a teljes kibocsátást a rendelkezésére álló adatok alapján állapítja meg. A környezetvédelmi hatóság az üzemeltető vagy a légijármű üzemben tartó teljes kibocsátásának megállapítására az eljárás során jogosult az üzemeltető vagy légijármű üzemben tartó költségére bejegyzett hitelesítőt megbízni.
 
 ### A kibocsátási egység kereskedelmi rendszerbe 2013-tól bekapcsolódó létesítményekkel kapcsolatos adatszolgáltatási kötelezettség
 
@@ -97,15 +114,16 @@ Vhr. 2/A. § (1) E rendelet 8. mellékletében felsorolt tevékenységet folytat
 
 (3) Ha a környezetvédelmi hatóság megállapítja, hogy a benyújtott adatok megalapozottak, 2010. június 30-ig megküldi azokat az Európai Bizottságnak (a továbbiakban: Bizottság).
 
-5/A. § (1) Hitelesítőként a környezetvédelmi hatóság engedélyével rendelkező vagy az (5) bekezdés szerinti bejelentést tevő természetes személy vagy szervezet vehető igénybe.
+Üht. 5/A. § (1) Hitelesítőként a környezetvédelmi hatóság engedélyével rendelkező vagy az (5) bekezdés szerinti bejelentést tevő természetes személy vagy szervezet vehető igénybe.
 
-(2) Hitelesítési tevékenység folytatását a környezetvédelmi hatóság annak engedélyezi, aki
+(2) Hitelesítési tevékenység folytatását a környezetvédelmi hatóság annak engedélyezi,
 
-- a) egyéni hitelesítő esetén büntetlen előéletű, nem áll a hitelesítési tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, és rendelkezik a Kormány rendeletében meghatározott szakmai feltételekkel,
-- b) hitelesítő szervezet esetén munkavállalóként vagy egyéb foglalkoztatásra irányuló jogviszony keretében legalább két hitelesítő szakértőt, ezen belül legalább egy vezető hitelesítő szakértőt foglalkoztat, és
-- c) megfelel a Kormány rendeletében meghatározott egyéb feltételeknek.
+- a) aki egyéni hitelesítő esetén büntetlen előéletű, nem áll a hitelesítési tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, és rendelkezik a Kormány rendeletében meghatározott szakmai feltételekkel,
+- b) aki hitelesítő szervezet esetén munkavállalóként vagy egyéb foglalkoztatásra irányuló jogviszony keretében legalább két hitelesítő szakértőt, ezen belül legalább egy vezető hitelesítő szakértőt foglalkoztat, és
+- c) akivel szemben nem áll fenn e törvényben meghatározott összeférhetetlenségi ok,
+- d) aki megfelel a Kormány rendeletében meghatározott egyéb feltételeknek.
 
-(3) Az (1) bekezdés szerinti engedély iránti kérelem tartalmazza az egyéni hitelesítő természetes személyazonosító adatait, valamint a hitelesítő által foglalkoztatott legalább egy hitelesítő szakértő és legalább egy vezető hitelesítő szakértő természetes személyazonosító adatait és levelezési címét.
+(3) Az (1) bekezdés szerinti engedély iránti kérelem tartalmazza az egyéni hitelesítő természetes személyazonosító adatait, valamint a hitelesítő szervezet által foglalkoztatott legalább egy hitelesítő szakértő és legalább egy vezető hitelesítő szakértő természetes személyazonosító adatait és levelezési címét.
 
 (4) A hitelesítő szervezet hitelesítési tevékenységét csak hitelesítő szakértő útján folytathatja.
 
@@ -113,22 +131,57 @@ Vhr. 2/A. § (1) E rendelet 8. mellékletében felsorolt tevékenységet folytat
 
 (6) Hitelesítő szakértőként, illetve vezető hitelesítő szakértőként az vehető igénybe, aki rendelkezik a környezetvédelmi hatóság által kiadott, e tevékenység ellátására jogosító engedéllyel.
 
-(7) A környezetvédelmi hatóság hitelesítő szakértői vagy vezető hitelesítői szakértői tevékenység folytatását annak engedélyezi, aki büntetlen előéletű, nem áll a hitelesítői szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, rendelkezik a Kormány rendeletében meghatározott szakmai feltételekkel, és megfelel az ott meghatározott egyéb követelményeknek. Az engedély iránti kérelem tartalmazza a kérelmező természetes személyazonosító adatait és levelezési címét.
+(7) A környezetvédelmi hatóság hitelesítő szakértői vagy vezető hitelesítői szakértői tevékenység folytatását annak engedélyezi, aki büntetlen előéletű, nem áll fenn vele szemben e törvényben meghatározott összeférhetetlenségi ok, nem áll a hitelesítői szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, rendelkezik a Kormány rendeletében meghatározott szakmai feltételekkel, és megfelel az ott meghatározott egyéb követelményeknek. Az engedély iránti kérelem tartalmazza a kérelmező természetes személyazonosító adatait és levelezési címét.
 
-(8) A környezetvédelmi hatóság az (1) bekezdés szerinti hitelesítői engedéllyel rendelkezőkről, valamint a hitelesítő szakértői, illetve vezető hitelesítő szakértői tevékenység végzésére jogosító – a (6) bekezdés szerinti – engedéllyel rendelkezőkről, továbbá az (5) bekezdés szerinti bejelentést tevőkről nyilvántartást vezet.
+(8) A hitelesítési vagy hitelesítői szakértői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű és nem áll a hitelesítési vagy hitelesítői szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a környezetvédelmi hatóság részére – annak a hitelesítési vagy hitelesítői szakértői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a környezetvédelmi hatóság a (9) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
 
-(9) A nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl – az egyéni hitelesítők és a hitelesítő szakértők, vezető hitelesítő szakértők tekintetében tartalmazza az érintett személy természetes személyazonosító adatait és levelezési címét és – ha e célból rendelkezésre bocsátotta – telefonszámát, faxszámát vagy elektronikus levelezési címét.
+(9) A környezetvédelmi hatóság hitelesítési vagy hitelesítői szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a hitelesítő vagy hitelesítői szakértő büntetlen előéletű-e, és nem áll-e a hitelesítési vagy hitelesítői szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a környezetvédelmi hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a hitelesítő vagy hitelesítői szakértő büntetlen előéletű-e, valamint, hogy a hitelesítési vagy hitelesítői szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
-(10) A környezetvédelmi hatóság e § szerinti engedélyezési eljárásáért a miniszter rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
+Üht. 5/B. § (1) A környezetvédelmi hatóság a hitelesítői engedéllyel rendelkezőkről, valamint a hitelesítő szakértői, illetve vezető hitelesítő szakértői tevékenység végzésére jogosító engedéllyel rendelkezőkről, továbbá az 5/A. § (5) bekezdés szerinti bejelentést tevő hitelesítőkről nyilvántartást vezet.
 
-(11) A hitelesítési vagy hitelesítői szakértői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű-e és nem áll a hitelesítési vagy hitelesítői szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a környezetvédelmi hatóság részére – annak a hitelesítési vagy hitelesítői szakértői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a környezetvédelmi hatóság a (12) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
+(2) A nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl – az egyéni hitelesítők és a hitelesítő szakértők, vezető hitelesítő szakértők tekintetében tartalmazza az érintett személy természetes személyazonosító adatait, levelezési címét, telefonszámát, faxszámát és elektronikus levelezési címét.
 
-(12) A környezetvédelmi hatóság hitelesítési vagy hitelesítői szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a hitelesítő vagy hitelesítői szakértő büntetlen előéletű-e, és nem áll-e a hitelesítési vagy hitelesítői szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a környezetvédelmi hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a hitelesítő vagy hitelesítői szakértő büntetlen előéletű-e, valamint, hogy a hitelesítési vagy hitelesítői szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+(3) Az 5/A. § alapján megismert személyes adatokat a környezetvédelmi hatóság
 
-(13) A (11) és (12) bekezdés alapján megismert személyes adatokat a környezetvédelmi hatóság
-
-- a) a hitelesítési vagy hitelesítői szakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig vagy
+- a) a hitelesítési vagy hitelesítői szakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig, vagy
 - b) a hitelesítő vagy hitelesítői szakértő nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+
+(4) A környezetvédelmi hatóság 5/A. § szerinti engedélyezési eljárásáért külön jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
+
+Üht. 5/C. § (1) A hitelesítő nem folytathat hitelesítési tevékenységet azon létesítmény vagy légijármű üzemben tartó kibocsátásai kapcsán, mely létesítmény üzemeltetője, vagy amely légijármű üzemben tartó részére kibocsátási egységkereskedelmi szolgáltatást végzett a szolgáltatás nyújtásának befejezését követő 2 évig.
+
+(2) A hitelesítő és a hitelesítő szakértő nem folytathat hitelesítési tevékenységet azon létesítmény vagy légijármű üzemben tartó tárgyévi kibocsátásai kapcsán, mely kibocsátások nyomon követésében, a kibocsátási adatok meghatározásához szükséges adatszolgáltatásban, vagy a kibocsátási jelentés elkészítésében részt vett.
+
+(3) A hitelesítő és a hitelesítő szakértő nem tarthat fenn összeférhetetlen üzleti kapcsolatot a hitelesítési tevékenységével érintett üzemeltetővel, légijármű üzemben tartóval, más hitelesítő gazdasági társasággal, illetve kibocsátási egységkereskedelmi szolgáltató tevékenységet végző más gazdálkodó szervezettel.
+
+(4) Az egyéni hitelesítő, a hitelesítő szakértő, a hitelesítő szervezet vezető tisztségviselője, felügyelő bizottsági tagja vagy könyvvizsgálója nem lehet a hitelesítési tevékenységével érintett üzemeltető vagy légijármű-üzemeltető vezető tisztségviselője, felügyelő bizottsági tagja, könyvvizsgálója, vagy azok Polgári Törvénykönyv szerinti hozzátartozója és közeli hozzátartozója.
+
+Üht. 5/D. § (1) A hitelesítő szakértő egyidejűleg csak egyetlen hitelesítő gazdasági társasággal létesíthet munkaviszonyt, vagy hitelesítési tevékenység végzésére irányuló egyéb jogviszonyt.
+
+(2) Az egyéni hitelesítőként is bejegyzett hitelesítő szakértő és a hitelesítő szervezet között az (1) bekezdés szerint létrejött jogviszony – ha a felek másképp nem rendelkeznek – nem érinti az egyéni hitelesítő azon jogosultságát, hogy a kormányrendeletben meghatározott létesítmények kibocsátásai kapcsán hitelesítési tevékenységet végezzen.
+
+Üht. 5/E. § (1) A hitelesítő, a hitelesítő szakértő és az érintett üzemeltető között összeférhetetlen üzleti kapcsolatnak minősül, ha
+
+- a) a hitelesítő, vagy az egyéni hitelesítő, a hitelesítő szakértő, a hitelesítő szervezet vezető tisztségviselője, felügyelő bizottsági tagja vagy könyvvizsgálója, vagy azok közeli hozzátartozója részesedéssel rendelkezik a hitelesítési tevékenységével érintett üzemeltetőben vagy légijármű üzemben tartóban,
+- b) az üzemeltető, vagy légijármű üzemben tartó, vagy természetes személy üzemeltető, vagy légijármű üzemben tartó esetén azok közeli hozzátartozója részesedéssel rendelkezik a részére hitelesítési tevékenységet végző hitelesítő szervezetben,
+- c) a hitelesítő szervezetben és a hitelesítési tevékenységével érintett üzemeltetőben, vagy légijármű üzemben tartóban ugyanazon személy rendelkezik részesedéssel, vagy
+- d) a hitelesítő, vagy az egyéni hitelesítő, a hitelesítő szakértő, a hitelesítő szervezet vezető tisztségviselője, felügyelő bizottsági tagja vagy könyvvizsgálója és a hitelesítési tevékenységgel érintett üzemeltető, vagy légijármű üzemben tartó, és azok vezető tisztségviselője, felügyelő bizottsági tagja vagy könyvvizsgálója közt a hitelesítési tevékenység függetlenségének befolyásolására alkalmas egyéb jogviszony áll fenn.
+
+(2) A hitelesítők, hitelesítő szakértők, és a kibocsátási egységkereskedelmi szolgáltatást végző gazdálkodó szervezetek között összeférhetetlen üzleti kapcsolatnak minősül, ha
+
+- a) a hitelesítő vagy a hitelesítő szakértő részesedéssel rendelkezik bármely más hitelesítő szervezetben, vagy kibocsátási egységkereskedelmi szolgáltató tevékenységet végző más gazdálkodó szervezetben,
+- b) a hitelesítő szervezet vezető tisztségviselője, felügyelő bizottsági tagja, könyvvizsgálója, az egyéni hitelesítő vagy a hitelesítő szakértő más hitelesítő szervezet, vagy kibocsátási egységkereskedelmi szolgáltató tevékenységet végző gazdálkodó szervezet vezető tisztségviselője, felügyelő bizottsági tagja vagy könyvvizsgálója,
+- c) a hitelesítő, vagy az egyéni hitelesítő, a hitelesítő szakértő, a hitelesítő szervezet vezető tisztségviselője, felügyelő bizottsági tagja vagy könyvvizsgálója és más hitelesítő szervezet, illetve kibocsátási egységkereskedelmi szolgáltató tevékenységet végző gazdálkodó szervezet, és annak vezető tisztségviselője, felügyelő bizottsági tagja vagy könyvvizsgálója közt a hitelesítési tevékenység függetlenségének befolyásolására alkalmas egyéb jogviszony áll fenn.
+
+Üht. 5/F. § (1) A hitelesítő, és a hitelesítő szakértő köteles az összeférhetetlenségi okot annak felmerülésétől számított 25 napon belül bejelenteni a környezetvédelmi hatóságnak.
+
+(2) A hitelesítő, és a hitelesítő szakértő köteles az összeférhetetlenséget annak felmerülésétől számított 45 napon belül megszüntetni és arról a környezetvédelmi hatóságot tájékoztatni.
+
+(3) Amennyiben a hitelesítő, vagy a hitelesítő szakértő az (1), és a (2) bekezdés szerinti bejelentést, tájékoztatást elmulasztja, a környezetvédelmi hatóság e törvény végrehajtására kiadott jogszabályban meghatározott mértékű bírság megfizetésére kötelezi.
+
+(4) Amennyiben a hitelesítő, vagy a hitelesítő szakértő az összeférhetetlenséget 45 napon belül nem szünteti meg, a környezetvédelmi hatóság az engedélyt visszavonja, egyidejűleg törli a hitelesítőt, vagy a hitelesítő szakértőt a hitelesítői nyilvántartásból, a hitelesítő szakértői nyilvántartásból, valamint az európai közösségi hitelesítőnek az összeférhetetlenség megszüntetéséig megtiltja a tevékenység folytatását, és ezzel egyidejűleg törli az európai közösségi hitelesítők nyilvántartásából.
+
+(5) Hitelesítő szervezetek összeolvadása esetén a feleknek az (1) bekezdés szerinti bejelentésben nyilatkozniuk kell, hogy melyik társaság hitelesítői jogosultságát kívánják fenntartani.
 
 ### A Nemzeti Kiosztási Tervés a Nemzeti Kiosztási Lista
 
@@ -217,22 +270,19 @@ Vhr. 8. § (1) A Kiosztási Lista tervezetét a miniszter – a gazdaságpolitik
 
 (5) A kormány a 2008. január 1-jétől 2012. december 31-ig terjedő időszakra (második kereskedési időszak), valamint 2012-től kezdődően ötéves időszakokra állapít meg Kiosztási Tervet és Kiosztási Listát.
 
-(6) A Kormány
+(6) A Kiosztási Tervet és a Kiosztási Listát az Európai Bizottság (a továbbiakban: Bizottság) jóváhagyását követően a Kormány rendeletben hirdeti ki.
 
-- a) a Kiosztási Tervet az Európai Bizottság (a továbbiakban: Bizottság) jóváhagyását követően, valamint
-- b) a Kiosztási Listát
+### A ÜHG-egység keletkezése,érvényessége, megszűnése
 
-rendeletben hirdeti ki.
+Üht. 7. § (1) Az ÜHG-egység a 15. § szerinti forgalmi jegyzékben való bejegyzéssel jön létre a Magyar Állam vagyonába tartozó forgalomképes vagyoni értékű jogként.
 
-### A kibocsátási egység keletkezése,érvényessége, megszűnése
+(2) Az ÜHG-egységek feletti vagyonkezelői jogot az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) gyakorolja. A vagyonkezelői jogot a miniszter az általa kijelölt központi költségvetési szerv útján is gyakorolhatja.
 
-Üht. 7. § (1) A kibocsátási egység a 15. § szerinti forgalmi jegyzékben való bejegyzéssel jön létre a Magyar Állam vagyonába tartozó vagyoni értékű jogként.
+(3) Az ÜHG-egység a kiosztás szerinti kereskedési időszakra érvényes. A kibocsátási egység a forgalmi jegyzékből való törléssel szűnik meg.
 
-(2) A kibocsátási egység a kiosztás szerinti kereskedési időszakra érvényes. A kibocsátási egység a forgalmi jegyzékből való törléssel szűnik meg.
+(4) A második és az azt követő kereskedési időszakokat követően a 11. § szerinti kötelezettség teljesítése után fennmaradó kibocsátási egységek törlésével egyidejűleg a kibocsátási egységek jogosultjának 15. § (2) bekezdés szerinti számláján külön jogszabály szerint új kibocsátási egységek kerülnek nyilvántartásba vételre (jóváírás).
 
-(3) A második és az azt követő kereskedési időszakokat követően a 11. § szerinti kötelezettség teljesítése után fennmaradó kibocsátási egységek törlésével egyidejűleg a kibocsátási egységek jogosultjának 15. § (2) bekezdés szerinti számláján külön jogszabály szerint új kibocsátási egységek kerülnek nyilvántartásba vételre (jóváírás).
-
-(4) Az Európai Gazdasági Térség tagállamai által létrehozott kibocsátási egységet a környezetvédelmi hatóság a 11. §-ban foglalt kötelezettség teljesítéséhez érvényesnek ismeri el.
+(5) Az Európai Gazdasági Térségről szóló megállapodásban részes államok (a továbbiakban: EGT-megállapodásban részes államok) által létrehozott ÜHG-egységet a környezetvédelmi hatóság a 11. §-ban foglalt kötelezettség teljesítéséhez érvényesnek ismeri el.
 
 ### A kibocsátási egységek kiosztása,értékesítése, hasznosítása
 
@@ -244,7 +294,7 @@ rendeletben hirdeti ki.
 
 (2) Az új belépő a Kiosztási Tervnek megfelelően kibocsátási egységekre jogosult.
 
-(3) Az első kereskedési időszak alatt az üzemeltető további ingyenes kibocsátási egységek kiosztását kezdeményezheti a környezetvédelmi hatóságnál, amennyiben a 11. § szerinti kötelezettségének teljesítéséhez olyan, a tevékenységi körén kívül álló, elháríthatatlan külső ok folytán van szüksége, mely a kibocsátási egységek kiosztása után merült fel (vis maior-kiosztás). A környezetvédelmi hatóság a környezetvédelemért felelős miniszter (a továbbiakban: miniszter) útján vis maior-kiosztást kérhet a Bizottságnál.
+(3)
 
 ### Vis maior-kiosztás
 
@@ -266,7 +316,7 @@ Vhr. 9. § (1) A jegyzékkezelő a kibocsátási egységek esedékes éves menny
 
 [Üht. 10. §] (2) A 8. § (2) bekezdésének megfelelően értékesített kibocsátási egységek jóváírásáról a környezetvédelmi hatóság gondoskodik.
 
-(3) Az új belépő részére az adott kereskedési időszak alatt kiosztott kibocsátási egységek mennyiségét a környezetvédelmi hatóság határozatban állapítja meg, és gondoskodik a kibocsátási egységeknek az üzemeltető számláján történő jóváírásáról.
+(3) Az új belépő részére az adott kereskedési időszak alatt kiosztott kibocsátási egységek mennyiségét a miniszter határozatban állapítja meg, és gondoskodik a kibocsátási egységeknek az üzemeltető számláján történő jóváírásáról.
 
 ### Új belépők
 
@@ -302,23 +352,61 @@ Vhr. 11/A. § (1) A létesítmény bezárásának minősül:
 
 (4) A (3) bekezdésben szabályozott, a kibocsátási engedély visszavonására irányuló eljárásban a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
 
-[Üht. 10. §] (4) A vis maior-kiosztás keretében kiosztott kibocsátási egységek mennyiségét a környezetvédelmi hatóság a Bizottság döntésének megfelelően határozatban állapítja meg, és gondoskodik a kibocsátási egységeknek az üzemeltető számláján történő jóváírásáról.
+[Üht. 10. §] (4)
 
-(5) A (3) és (4) bekezdés szerinti kiosztási határozatot a villamos energiáról szóló 2001. évi CX. törvény vagy a távhőszolgáltatásról szóló 2005. XVIII. törvény alapján termelői engedélyköteles tevékenységek tekintetében a környezetvédelmi hatóság a Magyar Energia Hivatal szakvéleményének figyelembevételével hozza meg.
+(5) A (3) és (4) bekezdés szerinti kiosztási határozatot a villamos energiáról szóló 2001. évi CX. törvény vagy a távhőszolgáltatásról szóló 2005. XVIII. törvény alapján termelői engedélyköteles tevékenységek tekintetében a miniszter a Magyar Energia Hivatal szakvéleményének figyelembevételével hozza meg.
 
 (6) A kibocsátási egység kiosztására vonatkozó részletes szabályokat a kormány rendeletben állapítja meg.
 
-### A kibocsátási egység visszaadása
+### A légiközlekedési kibocsátási egységek kiosztása a légijármű üzemben tartóknak
 
-Üht. 11. § (1) Az üzemeltető köteles az 5. § (1) bekezdés szerint nyomon követett és hitelesített tárgyévi kibocsátásainak megfelelő mennyiségű kibocsátási egységet a tárgyévet követő év április 30-ig külön jogszabály szerint visszaadni a Magyar Állam javára.
+Üht. 10/A. § (1) A légijármű üzemben tartó minden egyes kereskedési időszakra a miniszternél kérelmezheti térítésmentesen kiosztható légiközlekedési kibocsátási egységek kiosztását.
 
-(2) Az üzemeltető köteles a létesítmény az 5. § (4) bekezdés szerint megállapított teljes kibocsátásának megfelelő mennyiségű kibocsátási egységet – a környezetvédelmi hatóság felszólítására – külön jogszabály szerint visszaadni a Magyar Állam részére.
+(2) A kérelmeket a miniszter a 2012. január 1. és 2012. december 31. közötti kereskedési időszakra vonatkozóan 2011. június 30-ig, majd azt követően a kérelemmel érintett kereskedési időszak kezdetét megelőzően legalább 18 hónappal megküldi a Bizottságnak.
 
-### A kibocsátási egység átruházása
+(3) Az adminisztrációért felelős tagállam a Bizottság határozata alapján, annak elfogadását követő 3 hónapon belül határozattal közzéteszi a kérelmet benyújtó minden egyes légijármű üzemben tartó részére az adott időszakra kiosztott légiközlekedési kibocsátási egységek teljes számát, és az egyes üzemben tartók számára az egyes évekre kiosztott légiközlekedési kibocsátási egységek számát.
 
-Üht. 12. § (1) A kibocsátási egység az Európai Gazdasági Térség tagállamai, az ott lakóhellyel rendelkező bármely természetes személy, illetőleg székhellyel rendelkező jogi személy és jogi személyiséggel nem rendelkező szervezet részére szabadon átruházható. A vis maior-kiosztás keretében kiosztott kibocsátási egység nem ruházható át.
+(4) A környezetvédelmi hatóság a tárgyév február 28-áig gondoskodik a légiközlekedési kibocsátási egységeknek a légijármű üzemben tartó számláján való jóváírásáról.
 
-(2) Az Európai Gazdasági Térség tagállamain kívüli állam (a továbbiakban: harmadik ország), az ott lakóhellyel rendelkező természetes személy, illetőleg székhellyel rendelkező jogi személy és jogi személyiséggel nem rendelkező szervezet részére a kibocsátási egység az Európai Közösség által a harmadik országgal kötött megállapodás feltételei szerint ruházható át.
+Üht. 10/B. § (1) A légiközlekedési kibocsátási egységek teljes mennyiségének a Bizottság által meghatározott referenciaérték alapján kiszámított része térítés nélkül kerül kiosztásra a légijármű üzemben tartók részére. A teljes mennyiség Bizottság által meghatározott része és a közösségi külön tartalékalapból ki nem osztott légiközlekedési kibocsátási egységek árverésen kerülnek értékesítésre, a Bizottság által elfogadott részletes szabályok szerint. A kiosztás átruházásnak minősül.
+
+(2) A légiközlekedési kibocsátási egységeknek a Bizottság által meghatározott referenciaérték alapján kiszámított része a közösségi külön tartalékalapból kerül kiosztásra a légiközlekedési új belépők részére. A kiosztás ez esetben is átruházásnak minősül.
+
+Üht. 10/C. § (1) A légiközlekedési új belépő a 2013. január 1-től kezdődő kereskedési időszakra a miniszternél kérelmezheti térítésmentesen kiosztandó légiközlekedési kibocsátási egységek kiosztását.
+
+(2) A kérelmeket a miniszter legkésőbb 2015. december 31-ig megküldi a Bizottságnak.
+
+(3) Az adminisztrációért felelős tagállam a Bizottság határozata alapján, annak elfogadását követő 3 hónapon belül határozattal közzéteszi a kérelmet benyújtó minden egyes légiközlekedési új belépő részére a külön tartalékalapból kiosztott légiközlekedési kibocsátási egységek teljes mennyiségét, és az egyes légiközlekedési új belépők számára az évente kiosztott légiközlekedési kibocsátási egységek mennyiségét.
+
+(4) A 3. § k) pont kb) alpontjában meghatározott új belépő légijármű üzemben tartó részére legfeljebb 1 000 000 légiközlekedési kibocsátási egység osztható ki.
+
+Üht. 10/D. § A légiközlekedési kibocsátási egységek kiosztására vonatkozó részletes szabályokat e törvény végrehajtására kiadott jogszabály állapítja meg.
+
+### Az ÜHG-egységek visszaadása
+
+Üht. 11. § (1) Az üzemeltető és a légijármű üzemben tartó köteles az 5. § (1) bekezdés szerint nyomon követett és hitelesített tárgyévi kibocsátásának megfelelő mennyiségű kibocsátási egységet vagy légiközlekedési kibocsátási egységet a tárgyévet követő év április 30-ig visszaadni a Magyar Állam részére.
+
+(2) Az üzemeltető és a légijármű üzemben tartó köteles az 5. § (4) bekezdés szerint a környezetvédelmi hatóság által megállapított teljes kibocsátásnak megfelelő mennyiségű kibocsátási egységet vagy légiközlekedési kibocsátási egységet – a környezetvédelmi hatóság felszólítására – a Magyar Állam részére visszaadni.
+
+(3) A légiközlekedési kibocsátási egységeket kizárólag a légiközlekedési kibocsátási egységek visszaadásával kapcsolatos kötelezettségek teljesítésére lehet felhasználni. A légijármű üzemben tartó a visszaadási kötelezettség teljesítéséhez felhasználhat kibocsátási egységet.
+
+### Az ÜHG-egységek átruházása
+
+Üht. 12. § (1) Az ÜHG-egységek az EGT-megállapodásban részes államok, az ott lakóhellyel rendelkező bármely természetes személy, székhellyel rendelkező jogi személy vagy jogi személyiséggel nem rendelkező szervezet részére szabadon átruházhatók.
+
+(2) Az ÜHG-egységek az EGT-megállapodásban részes államokon kívüli állam (a továbbiakban: harmadik ország), az ott lakóhellyel rendelkező természetes személy, székhellyel rendelkező jogi személy vagy jogi személyiséggel nem rendelkező szervezet részére az Európai Közösség által a harmadik országgal kötött megállapodás feltételei szerint ruházhatók át.
+
+### A légiközlekedési kibocsátási egységek vagyonkezelése
+
+Üht. 12/A. § (1) A légiközlekedési kibocsátási egységek vagyonkezelésére e törvény erejénél fogva a miniszter jogosult. A vagyonkezelői jogot a miniszter az általa kijelölt központi költségvetési szerv útján is gyakorolhatja.
+
+(2) A térítésmentesen ki nem osztott légiközlekedési kibocsátási egységek értékesítésére a miniszter jogosult, az értékesítés árverés útján történik. A vagyonkezelési szerződés tartalmára, a légiközlekedési kibocsátási egységek vagyonkezelésére, értékesítésére és az értékesítésből származó bevételek felhasználására vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+
+(3) A légiközlekedési kibocsátási egységek állami vagyonkörbe való kerülésének tényéről, illetve azok teljes mennyiségéről a nemzeti forgalmi jegyzékben való bejegyzésüket követő 21 napon belül a miniszter tájékoztatja az állami vagyon kezeléséért felelős szervet.
+
+(4) A légiközlekedési kibocsátási egységek árverésen történő értékesítéséből származó bevételnek az Éghajlatváltozási Stratégiával és Éghajlatváltozási Programmal összhangban történő, valamint az Európai Unióban és harmadik országokban bekövetkező éghajlatváltozás kezelésére fordított felhasználásáról a miniszter e törvény és a végrehajtására kiadott jogszabály szerint dönt. A bevételt az üvegházhatású gázok kibocsátásának csökkentését célzó tevékenységek, intézkedések támogatására, nyelők általi eltávolításának növelésére, az éghajlatváltozás hatásaihoz való alkalmazkodásra kell fordítani.
+
+(5) A bevételek felhasználásáról a miniszter évente beszámol az Országgyűlésnek. A miniszter az árverést követő évre vonatkozó zárszámadási törvény hatálybalépését követően tájékoztatja a Bizottságot az árverésből származó bevételek felhasználásáról.
 
 ### Közös teljesítés
 
@@ -387,7 +475,10 @@ Vhr. 14. § (1) A közös teljesítésre irányuló megállapodás megszűnik:
 
 ### A kibocsátás-csökkentési egység és az igazolt kibocsátás-csökkentési egység beszámítása
 
-Üht. 14. § (1) A külön jogszabály rendelkezéseinek megfelelően megállapított és átadott kibocsátás-csökkentési egységet, illetve igazolt kibocsátás-csökkentési egységet a külön jogszabály szerinti nemzeti forgalmi jegyzék kezelője 2008. január 1-jétől a létesítmény üzemeltetőjének kérelmére beszámítja a kibocsátási egységek visszaadására irányuló kötelezettség teljesítéséhez.
+Üht. 14. § (1) A
+
+- a) létesítmény üzemeltetője, vagy a
+- b) légijármű üzemben tartó ÜHG-egységek visszaadására irányuló kötelezettségének teljesítése során az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló törvény szerinti kibocsátás-csökkentési egységet, vagy igazolt kibocsátás-csökkentési egységet is felhasználhat a külön jogszabályban meghatározott mértékig.
 
 (2) Nem alkalmazható a beszámítás olyan kibocsátáscsökkentési egység, illetve igazolt kibocsátás-csökkentési egység esetén, amely
 
@@ -400,11 +491,11 @@ kerültek kiadásra.
 
 ### A forgalmi jegyzék
 
-Üht. 15. § (1) A kibocsátási egységek kiosztásának, forgalmának, visszaadásának, törlésének nyilvántartására a bizottsági rendeletben és külön jogszabályban meghatározottak szerint közhiteles és nyilvános forgalmi jegyzékben kerül sor, mely része az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény 2. § 19. pontjában meghatározott Nemzeti Forgalmi Jegyzéknek.
+Üht. 15. § (1) A ÜHG-egységek kiosztásának, forgalmának, visszaadásának, törlésének nyilvántartására a bizottsági rendeletben és külön jogszabályban meghatározottak szerint közhiteles és nyilvános forgalmi jegyzékben kerül sor, mely része az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény 2. § 19. pontjában meghatározott Nemzeti Forgalmi Jegyzéknek.
 
-(2) A kibocsátási egység megszerzése, visszaadása, átruházása és törlése a forgalmi jegyzékben vezetett kibocsátásiegység-forgalmi számlán történő nyilvántartásba vétellel teljesül.
+(2) A ÜHG-egység megszerzése, visszaadása, átruházása és törlése a forgalmi jegyzékben vezetett kibocsátásiegység-forgalmi számlán történő nyilvántartásba vétellel teljesül.
 
-(3) A Magyar Állam vagyonába tartozó kibocsátási egységek a forgalmi jegyzékben külön számlán kerülnek nyilvántartásba.
+(3) A Magyar Állam vagyonába tartozó ÜHG-egységek a forgalmi jegyzékben külön számlán kerülnek nyilvántartásba.
 
 ### A forgalmi jegyzék közhitelessége és nyilvánossága
 
@@ -442,9 +533,9 @@ Vhr. 18. § (1) Ha a számlatulajdonos díjfizetési kötelezettségének határ
 
 (3) A jegyzékkezelő a számla zárolását a számlavezetési díj és a késedelmi pótlék befizetése után oldja fel. A számla zárolásának feloldásáról a jegyzékkezelő értesíti az érintetteket.
 
-### A kibocsátási egységkereskedelem nyilvánossága
+### Az ÜHG-egyégek kereskedelmének nyilvánossága
 
-Üht. 16. § A kibocsátási egységkereskedelemmel kapcsolatos adatok, így különösen a
+Üht. 16. § Az ÜHG-egységek kereskedelmével kapcsolatos adatok, így különösen a
 
 - a) kiadott kibocsátási engedélyekre,
 - b) hitelesített kibocsátási jelentések és a hitelesítő kapcsolódó jelentésére,
@@ -456,7 +547,19 @@ vonatkozó adatok környezeti információnak minősülnek.
 
 ### Jogkövetkezmények
 
-Üht. 17. § (1) Amennyiben az üzemeltető a kibocsátási engedély megszerzésére, a változások bejelentésére, a kibocsátások nyomon követésére, jelentésére és a jelentés hitelesítésére, valamint a kibocsátási egység visszaadására irányuló kötelezettségének részben vagy egészben nem tesz eleget, a környezetvédelmi hatóság az üzemeltetőt külön jogszabályban meghatározott mértékű bírság megfizetésére kötelezi. Ismételt kötelezettségszegés esetén a környezetvédelmi hatóság – a kötelezettségszegés súlyára figyelemmel – a tevékenységet korlátozza, felfüggeszti vagy a kibocsátási engedélyt visszavonja.
+Üht. 17. § (1) Ha az üzemeltető a kibocsátási engedély megszerzésére, a változások bejelentésére, a kibocsátások nyomon követésére, jelentésére és a jelentés hitelesítésére, valamint a kibocsátási egység visszaadására irányuló kötelezettségének részben vagy egészben nem tesz eleget, a környezetvédelmi hatóság az üzemeltetőt e törvény végrehajtására kiadott jogszabályban meghatározott mértékű bírság megfizetésére kötelezi. Ismételt kötelezettségszegés esetén a környezetvédelmi hatóság – a kötelezettségszegés súlyára figyelemmel – a tevékenységet korlátozza, felfüggeszti vagy a kibocsátási engedélyt visszavonja.
+
+(2) Ha a légijármű üzemben tartó a nyomonkövetési terv jóváhagyásának megszerzésére, a változások bejelentésére, a kibocsátások nyomon követésére, jelentésére és a jelentés hitelesítésére, valamint a légiközlekedési kibocsátási egység visszaadására irányuló kötelezettségének részben vagy egészben nem tesz eleget, a környezetvédelmi hatóság e törvény végrehajtására kiadott jogszabályban meghatározott mértékű bírság megfizetésére kötelezi. Ismételt kötelezettségszegés esetén a környezetvédelmi hatóság a (6) bekezdésben foglalt intézkedés megtételét kezdeményezi.
+
+(3) Az (1) és (2) bekezdés szerinti bírság megfizetésére tekintet nélkül, ha az üzemeltető vagy a légijármű üzemben tartó a jelentési és hitelesítési kötelezettségének, vagy az ÜHG-egységek visszaadására irányuló kötelezettségének határidőre részben vagy egészben nem tesz eleget, a megfelelően hitelesített jelentés benyújtásáig vagy az ÜHG-egységek visszaadásáig nem jogosult ÜHG-egységek átruházására.
+
+(4) Az (1) és (2) bekezdés szerinti bírság megfizetésére tekintet nélkül, amennyiben az üzemeltető vagy a légijármű üzemben tartó a jelentési vagy hitelesítési kötelezettségének, vagy az ÜHG-egységek visszaadására irányuló kötelezettségének részben vagy egészben nem tesz eleget, a környezetvédelmi hatóság az üzemeltető vagy a légijármű üzemben tartó nevét és a kötelességszegés tényét nyilvánosságra hozza.
+
+(5) Az (1) és (2) bekezdés szerinti bírság megfizetésére tekintet nélkül az üzemeltető és a légijármű üzemben tartó köteles az elmulasztott ÜHG-egységekkel egyező mennyiségű ÜHG-egységet a tárgyévet követő második év április 30-ig visszaadni. Ennek elmulasztása esetén a tárgyévet követő harmadik évben az üzemeltető és a légijármű üzemben tartó számláján a mulasztással érintett mennyiséggel csökkentett mennyiségű ÜHG-egység kerül jóváírásra.
+
+(6) Amennyiben a légijármű üzemben tartó nem tesz eleget az e törvényben vagy az e törvény végrehajtására kiadott kormányrendeletben előírt követelményeknek, és az e törvényben meghatározott egyéb jogkövetkezmény alkalmazása sem vezet eredményre, a miniszter kérelemmel fordul a Bizottsághoz, hogy az érintett légijármű üzemben tartóra vonatkozóan működési tilalmat állapítson meg.
+
+(7) Az (1) és (2) bekezdés szerinti bírság a környezetvédelmi hatóság bevétele.
 
 ### Jogkövetkezmények
 
@@ -495,7 +598,7 @@ Vhr. 19. § (1) Amennyiben az üzemeltető az 1. mellékletben meghatározott ü
 
 ### Nemzetközi jelentéstétel
 
-Üht. 18. § (1) A miniszter a Bizottság határozata és külön jogszabály szerint jelentést készít a Bizottság számára a kibocsátási egységkereskedelmi rendszer működéséről.
+Üht. 18. § (1) A miniszter a Bizottság határozata és külön jogszabály szerint jelentést készít a Bizottság számára az ÜHG-egységkereskedelmi rendszer működéséről.
 
 ### Nemzetközi jelentéstétel
 
@@ -507,9 +610,17 @@ Vhr. 20. § (1) A miniszter az üvegházhatást okozó gázok kibocsátási egys
 
 ### Felügyeleti díj
 
-Üht. 19. § (1) Az üzemeltető a kibocsátási engedély jogerőre emelkedésétől éves felügyeleti díjat köteles fizetni. A környezetvédelmi hatóság a felügyeleti díjat a kibocsátási egységkereskedelmi rendszer működtetésével kapcsolatos tevékenységének fedezetére fordítja.
+Üht. 19. § (1) Az üzemeltető a kibocsátási engedély jogerőre emelkedésétől, a légijármű üzemben tartó pedig a légiközlekedési kibocsátási egységeknek a számláján történő jóváírása napjától éves felügyeleti díjat köteles fizetni a tárgyévet követő év február 28-ig. A környezetvédelmi hatóság a felügyeleti díjat az ÜHG-egységek kereskedelmi rendszerének működtetésével kapcsolatos tevékenységének fedezetére fordítja.
 
-(2) A felügyeleti díj mértéke az első kereskedési időszak alatt az üzemeltető részére kiosztott minden egyes kibocsátási egység után évi 3 forint. A második és az azt követő kereskedési időszak alatt fizetendő felügyeleti díj mértékét a költségvetésről szóló törvény állapítja meg.
+(2) E törvény végrehajtására kiadott jogszabály szerinti bezáró létesítmény üzemeltetője köteles a létesítmény bezárásának bejelentésével egyidejűleg a bezárás évére megállapított felügyeleti díj teljes összegét megfizetni.
+
+(3) Az üzemeltető által fizetendő felügyeleti díj mértékét az állami költségvetésről szóló törvény állapítja meg.
+
+(4) A felügyeleti díj mértéke az első légiközlekedési kereskedési időszak alatt a légijármű üzemben tartó részére kiosztott minden egyes légiközlekedési kibocsátási egység után évi 8 forint. A második és az azt követő légiközlekedési kereskedési időszak alatt fizetendő felügyeleti díj mértékét az állami költségvetésről szóló törvény állapítja meg.
+
+(5) Amennyiben az üzemeltető vagy a légijármű üzemben tartó a felügyeleti díjat határidőben nem fizeti meg, a környezetvédelmi hatóság a határidő lejártát követő 8 napon belül fizetési kötelezettség teljesítésének elmulasztását megállapító határozatot bocsát ki.
+
+(6) A felügyeleti díj fizetésére vonatkozó részletes szabályokat e törvény végrehajtására kiadott jogszabály állapítja meg.
 
 ### Záró rendelkezések
 
@@ -517,7 +628,7 @@ Vhr. 20. § (1) A miniszter az üvegházhatást okozó gázok kibocsátási egys
 
 (2)
 
-(3) Az első kereskedési időszak vonatkozásában új belépő az egyes létesítmények üvegházhatású gázkibocsátásának engedélyezéséről, nyomon követéséről és jelentéséről szóló 272/2004. (IX. 29.) Korm. rendelet szerinti új létesítmény üzemeltetője.
+(3)
 
 (4)
 
@@ -525,26 +636,31 @@ Vhr. 20. § (1) A miniszter az üvegházhatást okozó gázok kibocsátási egys
 
 - a) a Nemzeti Kiosztási Tervre és a Nemzeti Kiosztási Listára vonatkozó részletes szabályokat, a kibocsátási egységek kiosztásának részletes szabályait, a Magyar Állam vagyonába tartozó kibocsátási egységekkel való rendelkezés részletes szabályait, a forgalmi jegyzék vezetésének szabályait, a közös teljesítés részletes szabályait;
 - b) az üvegházhatású gázkibocsátásokkal kapcsolatos nemzetközi együttműködéssel megvalósuló projekttevékenységekre vonatkozó részletes szabályokat; valamint
-- c) az üvegházhatású gázkibocsátásokkal kapcsolatos kötelezettségek megszegéséért fizetendő bírság szabályait;
+- c) az üvegházhatású gázkibocsátásokkal kapcsolatos kötelezettségek megszegéséért fizetendő bírság mértékét és a fizetési kötelezettség teljesítésének részletes szabályait;
 - d) a kibocsátás-csökkentési egység és az igazolt kibocsátás-csökkentési egység 14. § alapján történő beszámításának részletes szabályait;
 - e) egyes létesítmények üvegházhatású gázkibocsátása engedélyezésének, nyomon követésének és jelentésének szabályait;
-- f) a hitelesítési és a hitelesítő szakértői, vezető hitelesítő szakértői tevékenység folytatásának részletes feltételeit, a hitelesítési tevékenységre, valamint a hitelesítő szakértői, vezető hitelesítő szakértői tevékenységre jogosító engedély kiadásának rendjét és az 5/A. § (5) bekezdése szerinti bejelentés részletes szabályait, továbbá a hitelesítők, valamint a hitelesítő szakértők, vezető hitelesítő szakértők és az 5/A. § (5) bekezdése szerinti bejelentést tevők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a hitelesítési és a hitelesítő szakértői, vezető hitelesítő szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket.
+- f) a hitelesítési és a hitelesítő szakértői, vezető hitelesítő szakértői tevékenység folytatásának részletes feltételeit, a hitelesítési tevékenységre, valamint a hitelesítő szakértői, vezető hitelesítő szakértői tevékenységre jogosító engedély kiadásának rendjét és az 5/A. § (5) bekezdése szerinti bejelentés részletes szabályait, továbbá a hitelesítők, valamint a hitelesítő szakértők, vezető hitelesítő szakértők és az 5/A. § (5) bekezdése szerinti bejelentést tevők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a hitelesítési és a hitelesítő szakértői, vezető hitelesítő szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, valamint az összeférhetetlenségi okok bejelentésével kapcsolatos kötelezettségek megszegéséért fizetendő bírság mértékét és a fizetési kötelezettség teljesítésének részletes szabályait;
+- g) a légiközlekedési kibocsátási egységek kiosztásának részletes szabályait, a Magyar Állam tulajdonába tartozó légiközlekedési kibocsátási egységekkel való gazdálkodásra, vagyonkezelésre, értékesítésre, az értékesítésből származó bevételek felhasználására és a vagyonkezelési szerződés tartalmára vonatkozó részletes szabályokat;
+- h) a légiközlekedési tevékenységből származó kibocsátások nyomonkövetésére, jelentésére és a légiközlekedési kibocsátási egységek visszaadására vonatkozó részletes szabályokat;
+- i) az ÜHG-egységek közhiteles nyilvántartásáért és kezeléséért fizetendő számlavezetési díj és késedelmi pótlék mértékét és megfizetésének szabályait.
 
 (6) Felhatalmazást kap a miniszter, hogy
 
 - a) a hitelesítés szabályait,
-- b) az adópolitikáért felelős miniszterrel egyetértésben a környezetvédelmi hatóság részére a hitelesítési, hitelesítő szakértői és a vezető hitelesítő szakértői tevékenység engedélyezésével összefüggő eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
+- b) az adópolitikáért felelős miniszterrel egyetértésben a környezetvédelmi hatóság részére a hitelesítési, hitelesítő szakértői és a vezető hitelesítő szakértői tevékenység engedélyezésével összefüggő eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
+- c) az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a nyomonkövetési tervek jóváhagyásáért fizetendő igazgatási szolgáltatási díj megfizetésének részletes szabályait
 
 rendeletben állapítsa meg.
 
-(7) Felhatalmazást kap a miniszter és az adópolitikáért felelős miniszter, hogy a felügyeleti díjjal kapcsolatos részletes szabályokat együttes rendeletben állapítsa meg.
+(7) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben szabályozza a felügyeleti díj megfizetésének részletes eljárási szabályait.
 
 (8)–(9)
 
-(10) E törvény – a végrehajtására az (5) és (6) bekezdésekben foglalt felhatalmazások alapján kiadott jogszabályokkal, valamint az egyes létesítmények üvegházhatású gázkibocsátásának engedélyezéséről, nyomon követéséről és jelentéséről szóló 272/2004. (IX. 29.) Korm. rendelettel együtt – a következő közösségi jogi aktusoknak való megfelelést szolgálja:
+(10) E törvény a végrehajtására az (5) és (6) bekezdésekben foglalt felhatalmazások alapján kiadott jogszabályokkal együtt
 
-- a) az Európai Parlament és a Tanács 2003/87/EK irányelve (2003. október 13.) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról és a 96/61/EK irányelv módosításáról;
-- b) az Európai Parlament és a Tanács 2004/101/EK irányelve (2004. október 27.) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK irányelvnek a Kiotói Jegyzőkönyv projektmechanizmusaira tekintettel történő módosításáról.
+- 1. az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról és a 96/61/EK irányelv módosításáról szóló, 2003. október 13-i 2003/87/EK európai parlamenti és tanácsi irányelvnek;
+- 2. az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK irányelvnek a Kiotói Jegyzőkönyv projektmechanizmusaira tekintettel történő módosításáról szóló, 2004. október 27-i 2004/101/EK európai parlamenti és tanácsi irányelvnek;
+- 3. a 2003/87/EK irányelvnek az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének a légiközlekedésre történő kiterjesztése céljából történő módosításáról szóló, 2008. november 19-i 2008/101/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 ### Átmeneti és záró rendelkezések
 
@@ -567,9 +683,9 @@ Vhr. 22. § (1) Ez a rendelet a következő uniós jogi aktusoknak való megfele
 
 ### 1. számú melléklet a 2005. évi XV. törvényhez
 
-A kibocsátási engedélyhez kötött tevékenységek és üvegházhatású gázok
+Üvegházhatású gázkibocsátással járó kibocsátási engedélyköteles és légiközlekedési tevékenységek
 
-|  | Tevékenység | Üvegházhatású gáz |
+|  | A Tevékenység | B Üvegházhatású gáz |
 | --- | --- | --- |
 |  | Energiatermeléssel kapcsolatos tevékenységek |  |
 | I. | Tüzelőberendezések 20 MWth-ot meghaladó bemenő hőteljesítménnyel (kivéve a veszélyes hulladék- és településihulladék-égető létesítményeket, valamint az atomerőművekben szükségáramforrásként használt dízelgenerátorokat) | Szén-dioxid |
@@ -578,7 +694,7 @@ A kibocsátási engedélyhez kötött tevékenységek és üvegházhatású gáz
 |  | Fémek termelése és feldolgozása |  |
 | IV. | Fémércek (beleértve a szulfidércet) pörkölése és zsugorítása | Szén-dioxid |
 | V. | Vas vagy acél termelése (elsődleges vagy másodlagos olvasztás), beleértve a folyamatos öntést is 2,5 tonna/óra kapacitás felett | Szén-dioxid |
-|  | Ásványanyagipar |  |
+|  | Ásvanyanyagipar |  |
 | VI.a | Cement-klinkernek forgókemencében történő gyártása 500 tonna/nap termelési kapacitáson felül | Szén-dioxid |
 | VI.b | Mésznek forgókemencében történő gyártása 50 tonna/nap kapacitáson felül |  |
 | VI.c | Egyéb égetőkemencékben 50 tonna/nap kapacitáson felül |  |
@@ -587,8 +703,31 @@ A kibocsátási engedélyhez kötött tevékenységek és üvegházhatású gáz
 | VIII.a | Tetőcserepek, téglák, tűzálló téglák gyártása 75 tonna/nap termelési kapacitáson felül és/vagy ahol a kemence térfogata 4 m3 és abban az árusűrűség a 300 kg/m3-t meghaladja | Szén-dioxid |
 | VIII.b | Csempék, kőáruk vagy porcelánok gyártása 75 tonna/nap termelési kapacitáson felül és/vagy ahol a kemence térfogata 4 m3 és abban az árusűrűség a 300 kg/m3-t meghaladja |  |
 |  | Egyéb tevékenységek |  |
-| IX. | Az alábbi termékek gyártása:a) faanyagból származó pép (cellulóz) vagy egyéb szálas anyagok | Szén-dioxid |
-| X. | b) papír és karton 20 tonna/nap termelési kapacitáson felül | Szén-dioxid |
+| IX. | Faanyagból származó pép (cellulóz) vagy egyéb szálas anyagok gyártása | Szén-dioxid |
+| X. | Papír és karton gyártása20 tonna/nap termelési kapacitáson felül | Szén-dioxid |
+| XI. | Az Európai Gazdasági Térségről szóló megállapodásban részes államok (a továbbiakban: EGT-megállapodásban részes államok) területén található repülőtérről induló, vagy oda érkező légijáratok üzemeltetése. | Szén-dioxid |
+
+Az XI. pont alatti tevékenység nem terjed ki az alábbiakra:
+
+a) nem tagállam országok uralkodóinak és azok közvetlen családjának, állam- és kormányfőinek, valamint minisztereinek hivatalos út alkalmával történő szállítása során megvalósult repülések, ha ezt a megfelelő státusindikátornak a repülési terven történő feltüntetésével jelezni kell,
+
+b) katonai légijárművek által végzett katonai célú repülések, valamint a vámhatóságok és rendőri szervek által végrehajtott repülések,
+
+c) kutató-mentő repülések, tűzoltó repülések, hatósági engedéllyel rendelkező humanitárius és sürgősségi egészségügyi célú repülések,
+
+d) a kizárólag az 1971. évi 25. törvényerejű rendelettel kihirdetett nemzetközi polgári repülésről szóló Egyezményben meghatározott látvarepülési szabályok szerint végzett repülések,
+
+e) az olyan repülőtéren végződő repülések, amelyről a légijármű felszállt, ha közbenső leszállásra nem kerül sor,
+
+f) kizárólag a szakszolgálati engedély megszerzése vagy a repülőszemélyzet esetében a fokozat megszerzése érdekében végzett gyakorlórepülések, ha ezt a repülési tervben szereplő megfelelő megjegyzés alátámasztja, feltéve, hogy a repülés célja nem utas – vagy teherszállítás, illetve a légijármű kiindulási helyre juttatása vagy további személyszállítási cél,
+
+g) a kizárólag tudományos kutatás, vagy akár a levegőben, akár a szárazföldön lévő légijárművek vagy berendezések ellenőrzése, tesztelése vagy hitelesítése céljából végzett repülések,
+
+h) az 5700 kg-nál kisebb maximális felszálló tömegre hitelesített légijárművel végzett repülés,
+
+i) az 1008/2008/EK rendelet értelmében előírt közszolgáltatási kötelezettségek keretében végrehajtott repülések az EUMSZ 349. cikkében meghatározott legkülső régiók útjain vagy olyan utakon, amelyeken a felajánlott kapacitás nem haladja meg az évi 30 000 ülőhelyet, és
+
+j) légiközlekedési tevékenység, melynek során a kereskedelmi légiközlekedési üzemben tartó három egymást követő négy hónapban időszakonként 243-nál kevesebb járatot teljesít, vagy járatainak éves összkibocsátása kevesebb, mint évi 10 000 tonna, ide értve a tagállamok uralkodói és közvetlen családjuk, állam- és kormányfői, valamint miniszterei hivatalos út alkalmával történő szállítását.
 
 ### 2. számú melléklet a 2005. évi XV. törvényhez
 
@@ -606,7 +745,7 @@ A kiosztható kibocsátási egységek teljes mennyisége nem lehet több, mint a
 
 3. A Kiosztási Tervnek összhangban kell állnia a vonatkozó európai közösségi jogi aktusokkal és szakpolitikai eszközökkel. Az új jogszabályi követelmények következtében felmerülő elkerülhetetlen kibocsátásnövekedést is figyelembe kell venni.
 
-4. Az Európai Közösséget létrehozó szerződés, különösen annak 87. és 88. cikke értelmében a Kiosztási Terv nem részesíthet indokolatlan előnyben bizonyos vállalkozásokat vagy tevékenységeket.
+4. Az EUMSZ, különösen annak 106. és 107. cikke értelmében a Kiosztási Terv nem részesíthet indokolatlan előnyben bizonyos vállalkozásokat vagy tevékenységeket.
 
 5. A Kiosztási Tervnek tartalmaznia kell, hogy az új belépők miként kapcsolódhatnak be a kibocsátási egységkereskedelmi rendszerbe.
 
@@ -618,7 +757,7 @@ A kiosztható kibocsátási egységek teljes mennyisége nem lehet több, mint a
 
 9. A Kiosztási Tervnek tartalmaznia kell az e törvény hatálya alá tartozó, kibocsátási engedéllyel rendelkező létesítmények előzetes jegyzékét és az egyes létesítmények számára kiosztani tervezett kibocsátási egységek mennyiségét.
 
-10. A Kiosztási Terv tájékoztatást adhat arról is, hogy miként veszi figyelembe az Európai Gazdasági Térségen kívüli országok vagy szervezetek okozta verseny hatásait.
+10. A Kiosztási Terv tájékoztatást adhat arról is, hogy miként veszi figyelembe az EGT-megállapodásban részes államokon kívüli országok vagy szervezetek okozta verseny hatásait.
 
 11. A Kiosztási Terv kitér a kiosztás gazdasági vonatkozásaira, különös tekintettel az agroökológiai potenciál megőrzésének és optimális hasznosításának érdekeire.
 

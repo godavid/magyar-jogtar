@@ -55,6 +55,8 @@ Az Országgyűlés az Európai Unió társasági jogával összhangban a belső 
 
 (3) Az egyesülésben résztvevő tőkeegyesítő társaság harminc nappal az egyesülési szerződés elfogadásáról döntő legfőbb szerv ülésének napja előtt köteles a társaság vezető tisztségviselői által készített beszámolót, valamint – amennyiben készült – a könyvvizsgálónak, illetve a független szakértőnek az egyesülési szerződés tervezetére vonatkozó álláspontját tartalmazó jelentést benyújtani a társaság cégjegyzékét vezető cégbírósághoz, valamint megküldeni a tagoknak (részvényeseknek) és a munkavállalók képviselőinek vagy ezek hiányában a munkavállalóknak. Amennyiben a benyújtásra, illetve a megküldésre nyitva álló határidőben rendelkezésre áll, a jelentéshez csatolni kell a munkavállalók képviselőinek a beszámolóra vonatkozó véleményét.
 
+(4) Mentesül a tőkeegyesítő társaság a (3) bekezdés szerinti kötelezettség alól, amennyiben az egyesülési szerződés közös tervezetének elfogadásáról döntő közgyűlés napja előtt harminc nappal és legalább a közgyűlés lezárásáig tartó időszak alatt a tőkeegyesítő társaság saját honlapján – a Ctv. 21/A. §-ában foglaltak szerint – folyamatosan, korlátozástól mentesen és ingyenesen biztosítja az érintett dokumentumok megismerhetőségét a nyilvánosság számára, vagy a dokumentumokat a Cégközlönyben való közzététel útján hozza nyilvánosságra.
+
 ### Tanúsítvány
 
 6. § (1) Az egyesülésben résztvevő tőkeegyesítő társaság cégjegyzékét vezető cégbíróság kérelemre tizenöt napon belül megvizsgálja, hogy a társaság az egyesülésre vonatkozó jogszabályi követelményeknek eleget tett-e, és erről tanúsítványt állít ki.
@@ -138,4 +140,4 @@ Az Országgyűlés az Európai Unió társasági jogával összhangban a belső 
 
 ### Az Európai Unió jogának való megfelelés
 
-15. § Ez a törvény az Európai Parlament és a Tanács 2005. október 26-i, a tőkeegyesítő társaságok határokon átnyúló egyesüléséről szóló 2005/56/EK irányelvének való megfelelést szolgálja.
+15. § Ez a törvény az Európai Parlament és a Tanács 2005. október 26-i, a tőkeegyesítő társaságok határokon átnyúló egyesüléséről szóló 2005/56/EK irányelvének, valamint az Európai Parlament és a Tanács 2009. szeptember 16-ai, a 77/91/EGK, a 78/855/EGK, a 82/891/EGK tanácsi irányelvnek és a 2005/56/EK irányelvnek az egyesülések és szétválások esetében alkalmazandó jelentéstételi és dokumentációs kötelezettségek tekintetében történő módosításáról szóló 2009/109/EK irányelvének való megfelelést szolgálja.

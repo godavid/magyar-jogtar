@@ -46,11 +46,12 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 
 #### 3. A bioüzemanyagok fenntarthatósági követelményei
 
-3. § (1) Amennyiben a biomassza, a köztes termékek és a bioüzemanyag fenntartható előállítására vonatkozó követelményeket tartalmazó kormányrendeletben meghatározott követelmények (a továbbiakban: fenntarthatósági követelmények) teljesítését – a mezőgazdasági igazgatási szerv adatszolgáltatása alapján – a vámhatóság igazolta, a bioüzemanyagot
+3. § (1) A bioüzemanyagot
 
 - a) Magyarországnak a megújuló energiaforrásokból előállított energia 2020. évi teljes bruttó energiafogyasztásban képviselt részarányára vonatkozó célkitűzésének teljesítése,
-- b) a megújuló energiák tekintetében fennálló kötelezettségek teljesítése, valamint
-- c) a forgalmazásért és felhasználásért adható pénzügyi támogatásra való jogosultság megállapítása – ideértve az adókedvezményeket, adó-visszatérítéseket és a biokomponens-tartalomra tekintettel a biokomponenst nem tartalmazó üzemanyaghoz képest megállapított alacsonyabb adómértéket is – a 12. § szerinti jelentéstétel során figyelembe kell venni.
+- b) a megújuló energiák tekintetében fennálló kötelezettségek teljesítése,
+- c) a forgalmazásért és felhasználásért adható pénzügyi támogatásra való jogosultság megállapítása – ideértve az adókedvezményeket, adó-visszatérítéseket és a biokomponens-tartalomra tekintettel a biokomponenst nem tartalmazó üzemanyaghoz képest megállapított alacsonyabb adómértéket is –, valamint
+- d) a 12. § szerinti jelentéstétel során kizárólag akkor lehet figyelembe venni, ha a bioüzemanyag fenntartható előállítására vonatkozó követelményeket tartalmazó kormányrendeletben meghatározott követelmények (a továbbiakban: fenntarthatósági követelmények) teljesítését az ott meghatározottak szerint igazolták.
 
 (2) A mezőgazdasági igazgatási szerv és a vámhatóság azzal szemben, aki a fenntarthatóság igazolása során adatszolgáltatási kötelezettségét nem teljesíti, az ügy eldöntése szempontjából jelentős valótlan tényt állít, valótlan adatot szolgáltat, valótlan nyilatkozatot tesz, bírságot szabhat ki.
 
@@ -104,6 +105,16 @@ a (2) bekezdés szerinti bírságalapot csökkenteni kell az a) pont szerinti es
 
 (4) Az (1) bekezdés b) pontja szerinti esetben az üzemanyag-forgalmazó egyszázezer Ft-tól egymillió Ft-ig terjedő bírsággal sújtható. A bírság kiszabása során figyelembe kell venni a forgalomba hozott bioüzemanyag azon mennyiségét, melyre nézve a jelentéstételt elmulasztották, valamint a tárgyévben és az azt megelőző évben a mulasztás ismétlődését.
 
+(5) A bioüzemanyag-ellátásban beállott válsághelyzet esetén a vámhatóság az (1) bekezdés a) pontja szerinti bírságot mérsékelheti.
+
+(6) A bioüzemanyag-ellátásban beállott válsághelyzetnek minősül
+
+- a) a bioüzemanyagok termelésében beállott nagymértékű kapacitás-kiesés,
+- b) az üzemanyag-forgalmazónál, illetve annak ellátójánál bekövetkezett tartós üzemzavar, vagy
+- c) a fenntarthatósági követelményeknek megfelelő bioüzemanyagok európai kereskedelmében bekövetkezett zavar vagy hiány, ha ezek következtében az üzemanyag-forgalmazó nem volt képes a kötelezettség teljesítéséhez szükséges bioüzemanyag-mennyiséget beszerezni.
+
+(7) A (6) bekezdés a) és c) pontja szerinti események fennállásának tényét, annak kezdő és befejező időpontját – az érintett bioüzemanyag-típusok megjelölésével – az energiapolitikáért felelős miniszter közleményben állapítja meg.
+
 #### 5. A bírságokra vonatkozó közös szabályok
 
 8. § A 3. § és 7. § szerint fizetendő bírságok a központi költségvetés bevételét képezik, és adók módjára behajtandó köztartozásnak minősülnek.
@@ -150,7 +161,7 @@ a (2) bekezdés szerinti bírságalapot csökkenteni kell az a) pont szerinti es
 - i) az üzemanyag és a bioüzemanyag MJ-ban meghatározott, az e törvényben előírt kötelezettségek tekintetében alkalmazandó energiatartalmát,
 - j) az üzemanyag-forgalmazó által a kötelező bioüzemanyag-forgalmazási részarány teljesítésével kapcsolatosan benyújtandó jelentésekre, valamint a kapcsolódó nyilvántartásokra, bizonylatolásra vonatkozó részletes szabályokat,
 - k) a kötelező bioüzemanyag-részarány teljesítésének ellenőrzésére, valamint a 3. § és a 7. § szerinti bírság kiszabására jogosult hatóságokat,
-- l) a 3. § és a 7. § szerinti bírság megállapításával és megfizetésével kapcsolatos részletes szabályokat,
+- l) a 3. § és a 7. § szerinti bírság megállapításával, mérséklésével és megfizetésével kapcsolatos részletes szabályokat,
 - m) a fosszilis üzemanyagokból származó, energiaegységre számított üvegházhatású gázkibocsátás mértékét,
 - n) a bioüzemanyagok fenntartható módon történt előállítását igazoló okirat vagy hatósági bizonyítvány kiállításával, és az okiratban vagy hatósági bizonyítványban szereplő adatok ellenőrzéséhez szükséges adatok körét.
 
@@ -171,6 +182,8 @@ a (2) bekezdés szerinti bírságalapot csökkenteni kell az a) pont szerinti es
 (3) E törvény rövidítése: Büat.
 
 (4) E törvény 7. § (3) bekezdésének b) pontja 2012. január 1-jén hatályát veszti.
+
+14/A. § A 13. § (1) bekezdésben meghatározott rendeletek hatálybalépéséig az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény és a Jöt. 2010. december 4. napján hatályos rendelkezéseit kell alkalmazni.
 
 15. § E törvény
 

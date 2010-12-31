@@ -19,7 +19,7 @@ E törvény célja az ásványi nyersanyagok bányászatának, a geotermikus ene
 - g) szénhidrogének tárolására alkalmas földtani szerkezetek kiképezése és tárolásra történő hasznosítása;
 - h) a geotermikus energia kutatása, kinyerése és hasznosítása;
 - i) az állam más törvény hatálya alá nem tartozó földtani feladatai;
-- j) a bányászati tevékenység során keletkező hulladék kezelése;
+- j) a bányászati hulladék kezelése;
 - k) az a)–j) pontokban felsorolt tevékenységek gyakorlásához szükséges létesítmények és berendezések.
 
 (2) Az (1) bekezdés a) pontjában meghatározott tevékenységnek minősül a torlatban, hordalékban előforduló ásványi nyersanyagok kutatása és kitermelése is.
@@ -220,7 +220,7 @@ lehet.
 
 J: a bányajáradék százalékos mértéke,
 
-P: az 1996. novemberben kötött hosszú távú import szerződés alapján a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedő, illetve jogutódja által vásárolt földgáz számlával igazolt, tárgyévet megelőző éves átlagára,
+P: hatósági áron értékesített földgáz esetén az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló külön jogszabályban megállapított hatósági ár, szabadáras értékesítés esetén az 1996. novemberben kötött hosszú távú import szerződés alapján a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedő, illetve jogutódja által vásárolt földgáz számlával igazolt, tárgyévet megelőző éves átlagára,
 
 A: a hazai kitermelésű földgáz elismert értéke 2003-ban,
 
@@ -244,9 +244,9 @@ f) az energiahordozók kivételével a külfejtéssel termelt nemfémes ásvány
 
 g) szilárd ásványi energiahordozók mélyműveléses bányászata esetén 0%-a;
 
-h) egyéb szilárd ásványi nyersanyagok esetében 2%-a.Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, az a)–c) pontok szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, az a)–c) pontok szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik. A miniszter – az adópolitikáért felelős miniszterrel egyetértésben – ásványvagyon-gazdálkodási vagy egyéb közérdekből a bányajáradék mértékét csökkentheti.
+h) egyéb szilárd ásványi nyersanyagok esetében 2%-a.
 
-(4)
+(4) Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés a), bb) és c) pontok szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés a), bb) és c) pontok szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik.A (3) bekezdés ba) pont szerinti bányajáradék mértéke akkor emelkedik az előbbiek szerint, ha P: az 1996. novemberben kötött hosszú távú import szerződés alapján a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedő, vagy jogutódja által vásárolt földgáz számlával igazolt, tárgyévet megelőző éves átlagára. A miniszter – az adópolitikáért felelős miniszterrel egyetértésben – ásványvagyon-gazdálkodási vagy egyéb közérdekből a bányajáradék mértékét csökkentheti.
 
 (5)
 
@@ -718,7 +718,8 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 
 - a) a 4. § szerinti felszíni előkutatást a kötelező bejelentést elmulasztva végzi,
 - b) bányászati koncesszió vagy bányafelügyeleti engedély nélkül ásványi nyersanyagot termel ki, vagy geotermikus energiát hasznosít,
-- c) külön jogszabályban előírt hatósági engedély nélkül vagy attól eltérően folytatott tevékenysége során ásványi nyersanyagot termel ki vagy geotermikus energiát hasznosít.
+- c) külön jogszabályban előírt hatósági engedély nélkül vagy attól eltérően folytatott tevékenysége során ásványi nyersanyagot termel ki vagy geotermikus energiát hasznosít,
+- d) bányászati hulladékot engedély nélkül kezel, tárol.
 
 (2) Ha a bányavállalkozó a bányászati tevékenységet szabálytalanul vagy engedélytől eltérő módon gyakorolja, a bányafelügyelet a bányavállalkozót bírsággal sújthatja, a tevékenység folytatását felfüggesztheti, az engedélyt visszavonhatja, illetőleg kezdeményezheti a koncessziós szerződés megszüntetését, és elrendelheti az eredeti állapot helyreállítását, vagy, ha ez már nem lehetséges, a tájrendezést.
 
@@ -772,7 +773,7 @@ gyakorolja.
 
 (8)
 
-(9) A bányafelügyelet működését saját bevételeiből és központi költségvetési támogatásból fedezi. A bányafelügyelet részére felügyeleti tevékenységéért a bányatelek jogosultja, külön jogszabály szerint földgáztárolói, -szállítói és -elosztói, PB-gáz forgalmazói engedélyes felügyeleti díjat köteles fizetni. A felügyeleti díj éves mértéke a bányatelekből a tárgyévet megelőző évben kitermelt ásványi nyersanyag bányajáradék-köteles része értékének 0,4%-a, egyebekben az engedélyes tevékenység tárgyévet megelőző évi árbevételének 0,4%-a. A bányafelügyelet eljárásaiért igazgatási-szolgáltatási díjat kell fizetni. A felügyeleti díj – legfeljebb a tárgyévre megállapított fizetési kötelezettség mértékéig – csökken a fizetésre kötelezett által a bányafelügyelet eljárásaiért a tárgyévben megfizetett igazgatási-szolgáltatási díjak összegével.
+(9) A bányafelügyelet működését saját bevételeiből és központi költségvetési támogatásból fedezi. A bányafelügyelet részére felügyeleti tevékenységéért a bányatelek jogosítottja, a földgáztárolói, -szállítói és elosztói, PB-gáz forgalmazói engedélyes, valamint a bányászati hulladék kezelője felügyeleti díjat köteles fizetni. A felügyeleti díj éves mértéke a bányatelekből a tárgyévet megelőző évben kitermelt ásványi nyersanyag bányajáradék-köteles része értékének 0,4%-a, engedélyes tevékenység esetében a tárgyévet megelőző évi árbevétel 0,4%-a, valamint amennyiben a bányászati hulladék kezelője a bányavállalkozótól eltér, akkor a bányászati hulladék kezelőjének tevékenysége tárgyévet megelőző évi árbevételének 0,04%-a. A bányafelügyelet eljárásaiért igazgatási-szolgáltatási díjat kell fizetni. A felügyeleti díj – legfeljebb a tárgyévre megállapított fizetési kötelezettség mértékéig – csökken a fizetésre kötelezett által a bányafelügyelet eljárásaiért a tárgyévben megfizetett igazgatási-szolgáltatási díjak összegével.
 
 (10) A bányászati igazgatási feladatokat ellátó személyek részére igazolványt, a hatósági feladatokat ellátó személyek részére az igazolvánnyal azonos sorszámú szolgálati jelvényt kell biztosítani.
 
@@ -799,7 +800,8 @@ gyakorolja.
 - a) a műszaki üzemi terv jóváhagyására irányuló határozatát munkavédelmi, környezet- vagy természetvédelmi okból, továbbá közérdekű közlekedési infrastruktúra kialakítása, illetve az energiaellátás folyamatos biztosítása érdekében,
 - b) a 41. § (1)–(5) és (7) bekezdése alapján tevékenység eltiltására irányuló határozatát munkavédelmi, környezet- vagy természetvédelmi okból, továbbá közérdekű közlekedési infrastruktúra kialakítása, illetve az energiaellátás folyamatos biztosítása érdekében,
 - c) a bányászati létesítmény környezetet veszélyeztető állapotának megszüntetésére irányuló határozatát munkavédelmi, környezet- vagy természetvédelmi okból, továbbá közérdekű közlekedési infrastruktúra kialakítása, illetve az energiaellátás folyamatos biztosítása érdekében,
-- d) vezetékjog, használati jog alapítására irányuló határozatát közérdekű közlekedési infrastruktúra kialakítása, továbbá az energiaellátás folyamatos biztosítása érdekében
+- d) vezetékjog, használati jog alapítására irányuló határozatát közérdekű közlekedési infrastruktúra kialakítása, továbbá az energiaellátás folyamatos biztosítása érdekében,
+- e) a bányászati hulladék kezelésével kapcsolatos döntését környezet- vagy természetvédelmi okból vagy a személy- és vagyonbiztonság érdekében
 
 fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
 
@@ -824,7 +826,7 @@ fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
 - k) a polgári robbantási tevékenység,
 - l) egyes nem bányászati célt szolgáló, bányászati módszerekkel végzett föld alatti tevékenységek (aknamélyítés, mélyfúrás, alagút- és vágathajtás) a mélyépítés kivételével,
 - m) a robbantástechnikai kutató tevékenység,
-- n) a bányászati tevékenység során keletkező hulladék kezelése, az ehhez szükséges létesítmények és berendezések építése, használatbavétele és üzemeltetése, valamint bezárása és utógondozása,
+- n) a bányászati hulladék kezelése, és az ehhez szükséges létesítmények és berendezések építése, használatbavétele és üzemeltetése, valamint bezárása és utógondozása.
 - o) az a)–n) pontokban felsorolt tevékenységekhez és létesítményekhez alkalmazott nyomástartó berendezések és rendszerek építése, használatbavétele, üzemeltetése és elbontása,
 - p) a földtani közeg és az ásványi nyersanyagok megkutatottsági szintjének növeléséhez és az adatok nyilvántartásához fűződő állami érdek érvényesítése,
 - q) a földtani közeg által okozott veszélyek és káros folyamatok elleni védelem szempontjainak érvényesítése,
@@ -951,6 +953,7 @@ bányahatósági felügyelete
 - 40. Szénhidrogén mező”: egy vagy több, szakmailag igazolható módon ugyanazon földtani szerkezethez vagy szerkezetileg összefüggő, közös hidrodinamikai rendszerű, jól lehatárolható rétegtani képződményhez tartozó szénhidrogén telepből álló szénhidrogén előfordulás.
 - 41. „Kinyerés”: a geotermikus energiának a geotermikus energiahordozóból történő hő ellátási vagy villamos energia előállítási célú elvonása.
 - 42. „Geotermikus energia hasznosítása”: azon tevékenység, amely során a kinyert geotermikus energia felhasználásra kerül.
+- 43. „Bányászati hulladék”: a bányászati tevékenység során keletkező hulladék, valamint a bauxit feldolgozása során keletkező vörösiszap.
 
 ## VI. RÉSZ — A BÁNYÁSZOK ERKÖLCSI ÉS ANYAGI MEGBECSÜLÉSE
 
@@ -988,7 +991,7 @@ bányahatósági felügyelete
 
 (10) Ha a bányatelek jogosítottja a (8) bekezdésben meghatározott kötelezettségét nem teljesíti, a bányafelügyelet hivatalból intézkedik a mulasztó bányászati jogának törléséről és a földtani adatok beszolgáltatásáról.
 
-(11)
+(11) E törvénynek az egyes energetikai témájú törvények, valamint az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosításáról szóló 2010. évi CLXXXI. törvény 1. § (4) bekezdésével megállapított 43. § (9) bekezdésében meghatározott bányavállalkozónak nem minősülő bányászati hulladék kezelő felügyeleti díj fizetési kötelezettsége első alkalommal 2012. január 1. napján keletkezik.
 
 (12)–(14)
 
@@ -1030,7 +1033,8 @@ vonatkozó részletes szabályok rendeletben történő megállapítására.
 - i) az Európai Unió irányelveiben előírt, az ásványi nyersanyagkutatásról, feltárásról és termelésről szóló, valamint az ásványvagyon-gazdálkodással, továbbá a bányászati tevékenység során keletkező hulladékkal kapcsolatos jelentés elkészítésének, az Európai Bizottsághoz történő továbbítás és a közzététel rendjének,
 - j) az e törvény szerinti földtani szakértői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító engedély kiadásának rendje, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények,
 - k) a bányászati és gázipari biztonságtechnikai és munkabiztonsági vizsgák tematikájára és rendjére vonatkozó szabályok,
-- l) a hites bányamérői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító engedély kiadásának rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények
+- l) a hites bányamérői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító engedély kiadásának rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények,
+- m) a bányászati hulladékok kezelésére vonatkozó részletes szabályok
 
 rendeletben történő megállapítására.
 
@@ -1065,4 +1069,4 @@ rendeletben történő megállapítására.
 
 - a) az Európai Parlament és a Tanács 1994. május 30-i 94/22/EK irányelve a szénhidrogének kutatására, feltárására és kitermelésére vonatkozó engedélyek megadásának és felhasználásának feltételeiről;
 - b) az Európai Parlament és a Tanács 2003. június 26-i 2003/55/EK irányelve a földgáz belső piacára vonatkozó közös szabályokról és a 98/30/EK irányelv hatályon kívül helyezéséről;
-- c) az Európai Parlament és a Tanács 2006. március 15-i 2006/21/EK irányelve az ásványinyersanyag-kitermelő iparban keletkező hulladék kezeléséről és a 2004/35/EK irányelv módosításáról (3. cikk 3. és 8. pontja, 14. és 19. cikk), a törvény 1. §, 2. §, 16. §, valamint 19. §-a.
+- c) az Európai Parlament és a Tanács 2006. március 15-i 2006/21/EK irányelve az ásványinyersanyag-kitermelő iparban keletkező hulladék kezeléséről és a 2004/35/EK irányelv módosításáról (3. cikk 3. és 8. pontja, 7. cikk, 11–12. cikk, 14. és 19. cikk), a törvény 1. §, 2. §, 16. §, 19. §, valamint a 41. § (1) bekezdés d) pontja, 43/B. § (6) bekezdés e) pontja, 44. § (1) bekezdés n) pontja, 49. § 43. pontja, 50/A. § (2) bekezdés m) pontja.

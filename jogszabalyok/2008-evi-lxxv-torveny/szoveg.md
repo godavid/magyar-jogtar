@@ -101,7 +101,7 @@ Az Országgyűlés a fegyelmezett, átlátható és hosszú távon fenntartható
 
 (3) A Magyar Nemzeti Bank elnökének és az Állami Számvevőszék elnökének a Költségvetési Tanács munkájában végzett tevékenysége nem érinti e szervezetek törvényben meghatározott feladatait. A Költségvetési Tanács és annak tagjaként eljáró személy által képviselt álláspont, meghozott döntés a Magyar Nemzeti Bank elnökét és az Állami Számvevőszék elnökét elnöki feladatainak ellátása során nem köti.
 
-10. § (1) A Költségvetési Tanács tagjai közül a köztársasági elnök által jelölt tag
+10. § (1) A Költségvetési Tanács tagjai közül a köztársasági elnök által kinevezett tag
 
 - a) vezeti a Költségvetési Tanácsot,
 - b) hívja össze a Költségvetési Tanács ülését és állapítja meg annak napirendjét,
@@ -152,7 +152,7 @@ Az Országgyűlés a fegyelmezett, átlátható és hosszú távon fenntartható
 
 (3) A Költségvetési Tanács Titkárságának jogai és kötelezettségei – a munkáltatókat megillető, illetve terhelő jogok és kötelezettségek kivételével – az Országgyűlés Hivatalát illetik meg és terhelik.
 
-18/A. § (1) A Költségvetési Tanács Titkárságának megszűnése kapcsán az Áht., a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.), a Kjt. és az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
+18/A. § (1) A Költségvetési Tanács Titkárságának megszűnése kapcsán a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.), az Áht., a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.), a Kjt. és az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) Az Áht. szerinti megszüntető okiratot a Költségvetési Tanács köztársasági elnök által jelölt tagja legkésőbb december 29-éig az Országgyűlés Hivatala gazdasági főigazgatójának egyetértésével adja ki és küldi meg a kincstárnak. Az Áht.-ban és végrehajtási rendeletében az irányító szerv számára a megszüntetéssel kapcsolatban előírt más kötelezettségeket tartalmazó rendelkezések nem alkalmazhatók.
 
@@ -164,6 +164,8 @@ Az Országgyűlés a fegyelmezett, átlátható és hosszú távon fenntartható
 
 (6) Az Art. alapján a munkáltatót terhelő bevallási, adatszolgáltatási, nyilvántartás-vezetési és más kötelezettségek teljesítését 2010. december 31-ét követően a kincstár látja el.
 
+(7) A Ptk. rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a Költségvetési Tanács Titkársága által megkötött szerződéseket az Országgyűlés Hivatala 2011. február 28-áig jogosult legalább 60 napos határidővel felmondani akkor is, ha egyebekben erre a szerződés nem ad lehetőséget.
+
 18/B. § (1) A Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvények módosításáról szóló 2010. évi CLIII. törvény hatálybalépését követően meg kell kezdeni a Költségvetési Tanács Titkárságának iratanyagával, az általa kezelt vagyon átadásával-átvételével kapcsolatos feladatok teljesítését a Költségvetési Tanács Titkársága és az Országgyűlés Hivatala között.
 
 (2) A Költségvetési Tanács Titkárságának a számviteli törvény szerinti 2010. évi beszámolóját – az átvett iratok, bizonylatok alapján – az Országgyűlés Hivatala készíti el.
@@ -171,6 +173,14 @@ Az Országgyűlés a fegyelmezett, átlátható és hosszú távon fenntartható
 (3) A Költségvetési Tanács Titkársága a Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvények módosításáról szóló 2010. évi CLIII. törvény hatálybalépését követően új kötelezettséget csak a megszűnésével kapcsolatban, az Országgyűlés Hivatala gazdasági főigazgatójának előzetes jóváhagyásával vállalhat.
 
 18/C. § A Költségvetési Tanács e törvénynek a Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvények módosításáról szóló 2010. évi CLIII. törvény hatálybalépését megelőzően hatályos 9. § (2) bekezdése alapján az Állami Számvevőszék elnöke és a Magyar Nemzeti Bank elnöke által jelölt, az Országgyűlés által megválasztott tagjainak megbízatása a Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvények módosításáról szóló 2010. évi CLIII. törvény hatálybalépése napján megszűnik. Az Állami Számvevőszék elnöke és a Magyar Nemzeti Bank elnöke által jelölt tagnak a megbízatás megszűnését követő három munkanapon belül kell kifizetni a fennmaradó illetményét és egyéb járandóságait, továbbá kell kiadni az egyéb jogszabályokban előírt igazolásokat.
+
+18/D. § (1) A Költségvetési Tanács köztársasági elnök által jelölt tagjának megbízatása 2010. december 31-én megszűnik. A Költségvetési Tanács köztársasági elnök által jelölt tagjának megbízatása 2010. december 31-ét megelőzően kizárólag a 13. § (1) bekezdés b) vagy d) pontja alapján szűnhet meg.
+
+(2) A Költségvetési Tanács a köztársasági elnök által a Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvények módosításáról szóló 2010. évi CLIII. törvény hatálybalépését követően elsőként kinevezett tagja 2011. január 1-jét megelőző kinevezése esetén 2011. január 1-jén, ezt követő kinevezése esetén a kinevezésével lép hivatalba.
+
+(3) A Költségvetési Tanács köztársasági elnök által jelölt tagja megbízatásának megszűnéséig az e törvényben a Költségvetési Tanács köztársasági elnök által jelölt tagja és a köztársasági elnök által kinevezett tagja részére megállapított hatásköröket gyakorolja. A Költségvetési Tanács köztársasági elnök által jelölt tagja e hatásköröket a megbízatásának megszűnését követően is gyakorolja a Költségvetési Tanács köztársasági elnök által kinevezett tagjának hivatalba lépéséig.
+
+(4) A Költségvetési Tanács köztársasági elnök által jelölt tagjára megbízatásának megszűnéséig a Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvények módosításáról szóló 2010. évi CLIII. törvény hatálybalépését megelőzően hatályos 14. §-t alkalmazni kell. A Költségvetési Tanács köztársasági elnök által jelölt tagja részére 2010. december 31-ig ki kell fizetni illetményét és egyéb járandóságait, továbbá ki kell adni a jogszabályokban előírt igazolásokat.
 
 19. §
 

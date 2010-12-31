@@ -230,4 +230,4 @@ területén működő civil szervezetek.
 
 rendeletben állapítsa meg.
 
-16. § A 3. § (1) bekezdésének rendelkezéséről eltérően a Magyar Köztársaság 2010. évi költségvetéséről szóló törvény által az Alapprogram számára biztosított forrásból az a civil szervezet jogosult támogatásra, amelyet a bíróság 2008. december 31-éig nyilvántartásba vett, és a létesítő okiratban foglalt tevékenységet ténylegesen folytatja.
+16. §

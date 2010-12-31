@@ -2,8 +2,6 @@
 
 egyes pénzügyi tárgyú törvények módosításáról
 
-## ELSŐ RÉSZ
-
 1–46. §
 
 ## MÁSODIK–TIZENEGYEDIK RÉSZ
@@ -66,16 +64,7 @@ lép, azzal, hogy a k) és m) pont rendelkezését a 2006. szeptember 1-jéig m�
 
 (11) Az Szja tv. 53. §-ának 2006. augusztus 31-én hatályos vagy az e törvénnyel megállapított (4) bekezdését (az említett bekezdések bármelyikét) – a magánszemély döntése szerint – a 2006-os és a 2007-es adóévre is alkalmazni lehet.
 
-(12) Az Szja tv. e törvénnyel megállapított 65. §-ának rendelkezéseit – a (13) bekezdésben foglalt eltérésekkel – a 2006. szeptember 1-jétől megszerzett jövedelemre és keletkezett adókötelezettségre kell alkalmazni.
-
-(13) A (12) bekezdés rendelkezése alapján
-
-- a) az Szja tv. e törvénnyel megállapított 65. §-ának (2) bekezdését a 2006. augusztus 31-éig megkötött betét-, folyószámla-, bankkártya- és takarékbetét-szerződések esetén a 2006. augusztus 31-ét követően induló első teljes kamatperiódusra jóváírt (kifizetett) kamatra kell először alkalmazni;
-- b) az Szja tv. e törvénnyel megállapított 65. §-a (1) bekezdésének bb) alpontjában említett esetben az Szja tv. e törvénnyel megállapított 65. §-ának (2) bekezdését az értékpapír 2006. augusztus 31-ét követő megszerzése esetén kell alkalmazni;
-- c) az Szja tv. e törvénnyel megállapított 65. §-ában említett maradékjogból és lejárati szolgáltatásból származó jövedelemre az Szja tv. e törvénnyel megállapított 65. §-ának (2) bekezdését akkor kell alkalmazni, ha a biztosítási szerződés megkötése 2006. augusztus 31-ét követően történt;
-- d) az a)–c) pontokban nem említett esetekben – feltéve, hogy a kamatjövedelem keletkezésének alapjául szolgáló ügyletet, szerződést 2006. augusztus 31-éig megkötötték – az ügylet, szerződés alapján a 2006. augusztus 31-ét követően elsőként megszerzett bevételre az Szja tv. 65. §-ának a 2006. augusztus 31-én hatályos rendelkezéseit kell alkalmazni.
-
-(14) Az Szja tv. e törvénnyel megállapított 67/A. §-a (8) bekezdésének rendelkezésétől eltérően a magánszemély a 2006. augusztus 31-én tulajdonában lévő értékpapír átruházása esetén az értékpapír megszerzésére fordított érték meghatározására választhatja a 2006. augusztus hónap utolsó tőzsdenapjának az adott értékpapírra vonatkozó záró árfolyamát.
+(12)–(14)
 
 (15) Az Szja tv. 77/C. §-a e törvénnyel megállapított új (18) bekezdésének rendelkezését a 2006. augusztus 31-ét követően nyilvántartásba vett elismert munkavállalói értékpapír-juttatási program esetében kell alkalmazni.
 

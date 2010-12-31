@@ -642,7 +642,7 @@ illetékességi területén.
 - i) statisztikai adatszolgáltatást végez,
 - j) működteti a közjegyzői levéltárat és az elektronikus levéltárat,
 - k) nyilvántartást vezet a jogerős fegyelmi határozatokról.
-- l) pénz, értéktárgy és értékpapír bizalmi őrzésére vonatkozó szabályok megsértése miatt keletkezett és a közjegyző vagyonából nem fedezhető károk legalább részbeni megtérítésének fedezésére alapot képez, vagy felelősségbiztosítást köt,
+- l) pénz, értéktárgy és értékpapír bizalmi őrzésére, vagy a letétkezelésre vonatkozó szabályok megsértése miatt keletkezett és a közjegyző vagyonából nem fedezhető károk legalább részbeni megtérítésének fedezésére alapot képez vagy felelősségbiztosítást köt,
 - m) e törvényben vagy más jogszabályban hatáskörébe utalt feladatok ellátásához közjegyzői hozzájárulás fizetésére kötelezi a közjegyzőt,
 - n) a területi kamara tagjai részére szakmai oktatást, szakmai továbbképzést szervez,
 - o) kiállítja és nyilvántartja a közjegyzők által készített, illetve hitelesített okiratok tekintetében a külföldi felhasználáshoz szükséges tanúsítványt [1973. évi 11. tvr. 3. § (1) bekezdés b) pont],
@@ -1486,7 +1486,7 @@ kommunikálhat.]
 - b) a közjegyzői levéltárban elhelyezendő iratokról, nyilvántartásokról és eszközökről,
 - c) az átvett iratokban tapasztalt hiányosságokról.
 
-(2) A közjegyzői levéltáros megküldi a jegyzőkönyvet a területi kamarának és átadja részére a kamara tulajdonában lévő eszközöket, a folyamatban lévő ügyek iratait, valamint a közjegyzőnél bizalmi őrzésben lévő okiratot, pénzt (értéktárgyat, értékpapírt) és az ezekhez tartozó iratokat és nyilvántartásokat.
+(2) A közjegyzői levéltáros megküldi a jegyzőkönyvet a területi kamarának és átadja részére a kamara tulajdonában lévő eszközöket, a folyamatban lévő ügyek iratait, valamint a közjegyzőnél bizalmi őrzésben lévő okiratot, pénzt (értéktárgyat, értékpapírt), vagy letéti tárgyat és az ezekhez tartozó iratokat és nyilvántartásokat.
 
 (3) A folyamatban lévő ügyek iratait, valamint a közjegyzőnél bizalmi őrzésben lévő okiratot, pénzt (értéktárgyat, értékpapírt) és az ezekhez tartozó iratokat, nyilvántartásokat a területi elnökség a közjegyző utódjának, ha ilyen nincs, a területi elnökség által kijelölt közjegyzőnek adja át. Az őrzési megbízást ilyenkor úgy kell tekinteni, mintha azt az átvevő közjegyzőnek adták volna.
 

@@ -2172,6 +2172,8 @@ kerül sor.
 
 (4) Az egyesüléssel érintett részvénytársaságok hitelezői – a 76. § (2) bekezdésben foglalt rendelkezések megfelelő alkalmazásával – biztosítékot igényelhetnek, ha igazolják, hogy az egyesülés veszélyezteti követeléseik kielégítésének alapját, feltéve, hogy az egyesüléssel érintett részvénytársaságok korábban nem nyújtottak számukra biztosítékot.
 
+(5) Mentesül a részvénytársaság az (1) bekezdésben foglalt kötelezettség alól, amennyiben az egyesülési szerződés elfogadásáról döntő közgyűlés napja előtt harminc nappal és legalább a közgyűlés lezárásáig tartó időszak alatt a részvénytársaság saját honlapján – a Ctv. 21/A. §-ában foglaltak szerint – folyamatosan, korlátozástól mentesen és ingyenesen biztosítja az érintett dokumentumok megismerhetőségét a nyilvánosság számára, vagy a dokumentumokat a Cégközlönyben való közzététel útján hozza nyilvánosságra.
+
 281. § (1) Részvénytársaság szétválása esetében a szétválási szerződésben a 83. § (4)–(5) bekezdésében felsoroltakon kívül meg kell határozni:
 
 - a) a szétváló részvénytársaságok részvényeinek cserearányát és a részvényesek számára az alaptőkén felüli vagyon terhére juttatható kiegészítő készpénzfizetés mértékét, amely nem lehet több mint a részvényesek számára a vagyoni hányaduk alapján juttatott részvények névértékének tíz százaléka;
@@ -2612,7 +2614,8 @@ kerül sor.
 - g) az Európai Parlament és a Tanács 2006. szeptember 6-i 2006/68/EK irányelve a 77/91/EGK irányelvnek a nyilvánosan működő részvénytársaságok alapítása, valamint tőkéjük megtartása és átalakítása tekintetében történő módosításáról (1. cikk 4. bekezdés);
 - h) az Európai Parlament és a Tanács 2006/46/EK irányelve (2006. június 14.) a meghatározott jogi formájú társaságok éves beszámolójáról szóló 78/660/EGK, az összevont (konszolidált) éves beszámolóról szóló 83/349/EGK, a bankok és más pénzügyi intézmények éves beszámolójáról és konszolidált éves beszámolójáról szóló 86/635/EGK, valamint a biztosítóintézetek éves és összevont (konszolidált) éves beszámolóiról szóló 91/674/EGK tanácsi irányelv módosításáról;
 - i) az Európai Parlament és a Tanács 2007/63/EK irányelve (2007. november 13.) a Tanács 78/855/EGK és a 82/891/EGK tanácsi irányelvének a független szakértő által a részvénytársaságok egyesülése vagy szétválása alkalmával készítendő jelentésre vonatkozó követelmény tekintetében történő módosításáról,
-- j) az Európai Parlament és a Tanács 2007/36/EK irányelve (2007. július 11.) az egyes részvényesi jogok gyakorlásáról a tőzsdén jegyzett társaságokban.
+- j) az Európai Parlament és a Tanács 2007/36/EK irányelve (2007. július 11.) az egyes részvényesi jogok gyakorlásáról a tőzsdén jegyzett társaságokban,
+- k) az Európai Parlament és a Tanács 2009/109/EK irányelve (2009. szeptember 16.) a 77/91/EGK, a 78/855/EGK, a 82/891/EGK tanácsi irányelvnek és a 2005/56/EK irányelvnek az egyesülések és szétválások esetében alkalmazandó jelentéstételi és dokumentációs kötelezettségek tekintetében történő módosításáról.
 
 ### XIII. Fejezet
 

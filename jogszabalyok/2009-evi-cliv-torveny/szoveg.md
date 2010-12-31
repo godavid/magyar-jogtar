@@ -368,7 +368,7 @@ b) kérik, hogy az arra vonatkozó adatokat, amely szerint a 21. § (3) bekezdé
 
 (6) A 85. § és a 127. § (21) bekezdése 2010. július 1-jén lép hatályba.
 
-(7) A 18. § és a 20. § 2010. október 1-jén lép hatályba azzal, hogy a 2010. október 1-jét megelőzően létrejött szerződésekre 2010. december 31-éig a 2010. szeptember 30-án hatályos szabályokat kell alkalmazni.
+(7) A 18. § és a 20. § 2010. október 1-jén lép hatályba azzal, hogy a 2010. október 1-jét megelőzően létrejött szerződésekre 2011. december 31-éig a 2010. szeptember 30-án hatályos szabályokat kell alkalmazni.
 
 (8) A 66. § (1) bekezdése, a 126. § (4) bekezdése és a 129. § (1)–(3) bekezdése 2010. december 1-jén lép hatályba.
 
@@ -533,9 +533,9 @@ szöveg lép.
 
 „(3) A (2) bekezdés szerinti kérelmet – a (11) bekezdés szerinti csoportos kérelem kivételével – kizárólag az egészségbiztosítási szerv 32/B. § szerinti szállítójegyzékében szereplő minősített forgalomba hozó nyújthatja be az egészségbiztosítási szervhez.”
 
-128. § (1) Az Ebtv. 10–17. §-a szerinti egészségügyi szolgáltatásokra 2010. december 31-ig – 2011. január 1-jei hatálybalépéssel – az e törvényben foglaltaknak megfelelő új finanszírozási szerződést kell kötni. Az új finanszírozási szerződések hatályának beálltával egyidejűleg a korábbi finanszírozási szerződések a törvény erejénél fogva megszűnnek.
+128. § (1) Az Ebtv. 10–17. §-a szerinti egészségügyi szolgáltatásokra 2011. december 31-ig – 2012. január 1-jei hatálybalépéssel – az e törvényben foglaltaknak megfelelő új finanszírozási szerződést kell kötni. Az új finanszírozási szerződések hatályának beálltával egyidejűleg a korábbi finanszírozási szerződések a törvény erejénél fogva megszűnnek.
 
-(2) Az Ebtv. 30. § (2) bekezdése alapján az e törvényben foglaltaknak megfelelő új szerződéseket 2010. december 31-ig – 2011. január 1-jei hatálybalépéssel – kell megkötni a gyógyszer kiszolgáltatójával, gyógyászati segédeszköz forgalmazójával, gyógyászati ellátás nyújtójával. Az új szerződések hatályának beálltával egyidejűleg a korábbi szerződések a törvény erejénél fogva megszűnnek.
+(2) Az Ebtv. 30. § (2) bekezdése alapján az e törvényben foglaltaknak megfelelő új szerződéseket 2011. december 31-ig – 2012. január 1-jei hatálybalépéssel – kell megkötni a gyógyszer kiszolgáltatójával, gyógyászati segédeszköz forgalmazójával, gyógyászati ellátás nyújtójával. Az új szerződések hatályának beálltával egyidejűleg a korábbi szerződések a törvény erejénél fogva megszűnnek.
 
 (3) A 2010. január 1-jét megelőzően elszenvedett úti balesetnek minősülő üzemi baleset esetén az Ebtv. 56. §-ának (5) bekezdésében foglalt rendelkezéseket nem kell alkalmazni.
 
@@ -547,7 +547,7 @@ szöveg lép.
 
 (7) A Gytv. e törvénnyel módosított 10. § (5) bekezdése szerinti, 2010. január 1. napját megelőzően indult és még le nem zárult eljárásokban a Bizottság 1084/2003/EK rendeletét kell alkalmazni.
 
-(8) Az Eütv. e törvénnyel megállapított 116/C. §-a azzal alkalmazható, hogy az e törvény hatálybalépését megelőzően minősítési eljárás során továbbképzési pontértékkel ellátott továbbképzések lefolytathatók.
+(8)
 
 129. § (1)–(3)
 

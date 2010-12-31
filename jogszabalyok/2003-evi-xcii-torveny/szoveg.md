@@ -845,7 +845,7 @@ a munkáltató a feltárt adókülönbözetet a feltárás időpontjában nyilv�
 
 (8) Amennyiben az alvállalkozó a kifizetést teljesítővel szemben fennálló követelését faktorálja (engedményezi), a kifizetést teljesítő abban az esetben fizethet a faktornak (engedményesnek), ha a kifizetés előtt a faktor (engedményes) vagy az alvállalkozó rendelkezésre bocsátja az alvállalkozóra vonatkozó együttes adóigazolást, vagy az alvállalkozó szerepel a köztartozásmentes adózói adatbázisban, ellenkező esetben a kifizetést teljesítő egyetemleges felelőssége és visszatartási kötelezettsége fennáll.
 
-(9) E § rendelkezéseit nem kell alkalmazni abban az esetben, ha az adóigazoláson feltüntetett tartozás 2008. szeptember 30-át követően keletkezett.
+(9)
 
 36/B. § (1) Az állami adóhatóság az adózó erre irányuló kérelme alapján, a kérelem benyújtásának hónapját követő hónap 10. napján felveszi az adózót a köztartozásmentes adózói adatbázisba, ha az adóhatóság vizsgálata alapján az adózó a köztartozásmentes adózói adatbázisba történő felvételhez e törvényben előírt feltételeket teljesíti. Az adózó külön nyilatkozik arról, hogy a köztartozásmentes adózói adatbázis közzétételét megelőző hónap utolsó napjáig esedékes bevallási és befizetési kötelezettségének maradéktalanul eleget tesz/tett. A kérelem teljesítésének a köztartozásmentes adózói adatbázisba történő felvétel minősül. A kérelem kizárólag elektronikus úton nyújtható be. A kérelem benyújtását követően az állami adóhatóság beszerzi a vámhatóságtól az adatbázisba történő felvételhez szükséges adatokat.
 
@@ -4231,7 +4231,7 @@ b) az adózó 2. b) pont bb) alpontnak megfelelően elküldött beadványát az 
 
 11. Az elektronikus levélcímen való kapcsolattartás útján folytatott eljárásra az e címben nem szabályozott kérdésekben – az elektronikus kapcsolattartásra vonatkozó, valamint az e törvény 7. § (1) és (2) bekezdésében foglalt rendelkezések kivételével – e törvény rendelkezéseit kell alkalmazni. Az elektronikus levélcímen való kapcsolattartás útján folytatott eljárásra a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvény rendelkezései nem alkalmazhatók.
 
-### 10. számú melléklet a 2003. évi XCII. törvényhez
+### 8. számú melléklet a 2003. évi XCII. törvényhez
 
 Az Európai Közösség tagállamában illetőséggel nem bíró adózókra vonatkozó különös szabályok
 

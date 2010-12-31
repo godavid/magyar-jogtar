@@ -1062,7 +1062,7 @@ bírálja el.
 
 ### A tanú személyi adatainak zárt kezelése
 
-96. § (1) A tanú, illetőleg az érdekében eljáró ügyvéd kérelmére vagy hivatalból elrendelhető, hogy a tanú személyi adatait [85. § (2) bek.] – a nevén kívül – az iratok között elkülönítve, zártan kezeljék. Kivételesen indokolt esetben a tanú nevének zárt kezelése is elrendelhető. Ezekben az esetekben a tanú zártan kezelt adatait csak az ügyben eljáró bíróság, az ügyész, illetve a nyomozó hatóság tekintheti meg.
+96. § (1)
 
 (2) Ha a tanú személyi adatainak zárt kezelését rendelték el, ettől kezdve
 
@@ -2895,12 +2895,9 @@ ellen.
 
 241. § (1) A tárgyaláson az ügyész részvétele kötelező
 
-- a) első fokon, ha a bűncselekményre a törvény öt évi vagy ennél súlyosabb szabadságvesztést rendel,
+- a)
 - b)
-- c) a vádlottat fogva tartják,
-- d) ha a vádlott – a beszámítási képességére tekintet nélkül – kóros elmeállapotú,
-- e) ha a bíróság az ügyészt a tárgyaláson való részvételre kötelezte,
-- f) ha az ügyész bejelenti, hogy a tárgyaláson részt vesz.
+- c) –f
 
 (2) Az (1) bekezdés e) pontja kivételével a helyi bíróságon ügyészségi titkár is képviselheti a vádat.
 
