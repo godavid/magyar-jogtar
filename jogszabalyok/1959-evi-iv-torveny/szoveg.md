@@ -354,7 +354,7 @@ Ptk.25. § (1) A holtnak nyilvánított személyt az ellenkező bizonyításáig
 
 ### Holtnak nyilvánítás
 
-Ptké.15. § Felhatalmazást kap az igazságügyminiszter, hogy a holtnak nyilvánítási eljárást, valamint a halál tényének bírósági megállapításával kapcsolatos kérdéseket rendelettel szabályozza.
+Ptké.15. § Felhatalmazást kap az igazságügyért felelős miniszter, hogy a holtnak nyilvánítási eljárást, valamint a halál tényének bírósági megállapításával kapcsolatos kérdéseket rendelettel szabályozza.
 
 ### II. CÍM — AZ ÁLLAM MINT JOGALANY
 
@@ -632,7 +632,9 @@ Ptk.74/C. § (1) Az alapító – az alapító okiratban – kijelölheti a keze
 
 (7) Az alapító az alapító okiratban az e törvényben biztosított jogainak gyakorlására – különösen halála, megszűnése esetére – maga helyett más személyt is kijelölhet. E személyre az alapítóra vonatkozó rendelkezések az irányadók. A kijelölést a nyilvántartásba vétel után az alapító nem vonhatja vissza. Alapító vagy a jogainak gyakorlására kijelölt más személy hiányában – a kezelő szerv (szervezet) vagy az ügyészség erre vonatkozó bejelentése alapján – az alapítói jogosultságok a bíróságot illetik meg.
 
-Ptk.74/D. § Ha az alapítvány létrehozása végrendeletben történt, arról a bíróságot értesíteni kell; ezt az alapítványt közérdekű meghagyásnak kell tekinteni, amennyiben létrehozása nem felel meg a törvényben meghatározott feltételeknek.
+Ptk.74/D. § (1) Ha az alapítvány létrehozása az alapító okiratot tartalmazó végrendeletben történt, annak nyilvántartásba vétele iránt – ha az nem a végrendeleti végrehajtó feladata – a közjegyző által kirendelt ügygondnok köteles gondoskodni.
+
+(2) A végrendeletben létesített alapítványt – nyilvántartásba vétele esetén – olyannak kell tekinteni, mint amely a javára rendelt vagyont az öröklés megnyíltával megszerezte. A végrendeletbe foglalt, de a törvényben meghatározott feltételek hiánya miatt nyilvántartásba nem vett alapítvány részére történő vagyonrendelést közérdekű meghagyásnak kell tekinteni.
 
 Ptk.74/E. § (1) A bíróság az alapítványt a nyilvántartásból törli, ha az alapító okiratban meghatározott
 
@@ -680,7 +682,7 @@ Ptké.91/A. § (1) Az alapítvány nyilvántartásba vételére irányuló hián
 
 (5) A nyilvántartásba bejegyzett adatok változását – a változástól számított hatvan napon belül – a bíróságnak be kell jelenteni, a bejelentésre az (1)–(4) bekezdésben foglaltakat kell megfelelően alkalmazni.
 
-(6) A nyilvántartás tartalmazza az igazságügy-miniszter rendeletében meghatározott adatokat, köztük az alapítvány kezelő szerve (szervezete) tagjainak, valamint az alapítvány képviselőjének nevét, lakóhelyét. A nyilvántartás fennálló, illetve törölt adatai, valamint a bírósághoz benyújtott iratok nyilvánosak – ideértve a még el nem bírált kérelmet és mellékleteit is – azokat bárki megtekintheti és azokról feljegyzést készíthet.
+(6) A nyilvántartás tartalmazza az igazságügyért felelős miniszter rendeletében meghatározott adatokat, köztük az alapítvány kezelő szerve (szervezete) tagjainak, valamint az alapítvány képviselőjének nevét, lakóhelyét. A nyilvántartás fennálló, illetve törölt adatai, valamint a bírósághoz benyújtott iratok nyilvánosak – ideértve a még el nem bírált kérelmet és mellékleteit is – azokat bárki megtekintheti és azokról feljegyzést készíthet.
 
 (7) A bíróság az alapítvány adatait számítógépen rögzíti.
 
@@ -716,9 +718,7 @@ Ptk.78. § (1) A személyhez fűződő jogok védelme kiterjed a jóhírnév vé
 
 (2) A jóhírnév sérelmét jelenti különösen, ha valaki más személyre vonatkozó, azt sértő, valótlan tényt állít, híresztel, vagy való tényt hamis színben tüntet fel.
 
-Ptk.79. § (1) Ha valakiről napilap, folyóirat (időszaki lap), rádió, televízió vagy filmhíradó valótlan tényt közöl vagy híresztel, illetőleg való tényeket hamis színben tüntet fel – a törvényben biztosított egyéb igényeken kívül –, követelheti olyan közlemény közzétételét, amelyből kitűnik, hogy a közlemény mely tényállítása valótlan, mely tényeket tüntet fel hamis színben, illetőleg melyek a való tények (helyreigazítás).
-
-(2) A helyreigazítást napilap esetében az erre irányuló igény kézhezvételét követő nyolc napon belül, folyóirat, illetőleg filmhíradó esetében a legközelebbi számban azonos módon, rádió, illetőleg televízió esetében pedig – ugyancsak nyolc napon belül – a sérelmes közléssel azonos napszakban kell közölni.
+Ptk.79. § A sajtó-helyreigazításra irányuló igény érvényesítésének szabályait a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény, valamint a polgári perrendtartásról rendelkező törvény állapítja meg.
 
 Ptk.80. § (1) A személyhez fűződő jogok megsértését jelenti a más képmásával vagy hangfelvételével kapcsolatos bármiféle visszaélés.
 
@@ -1782,7 +1782,7 @@ Ptké.34. § Ha a Ptk. 237. §-ának (1) bekezdésében és a 361. §-ának (3) 
 
 Ptké.35. § A szolgáltatásnak (vagyoni előnynek) az állam javára való megítélését nem akadályozza az, hogy a szolgáltatást a sérelmet okozó fél már megkapta, illetőleg a vagyoni előnyt a gazdagodást előidéző fél már visszakapta.
 
-Ptké.36. § Az állam javára megítélt szolgáltatások behajtásával és elszámolásával kapcsolatos pénzügyi kérdéseket a pénzügyminiszter az igazságügyminiszterrel egyetértésben szabályozza.
+Ptké.36. § Az állam javára megítélt szolgáltatások behajtásával és elszámolásával kapcsolatos pénzügyi kérdéseket az adópolitikáért felelős miniszter az igazságügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
 Ptké.36/A. § Az ügyész keresetet indíthat a semmis szerződéssel a közérdekben okozott sérelem megszüntetése érdekében a szerződés semmisségének megállapítása iránt.
 
@@ -2032,9 +2032,19 @@ Ptk.261. § (1) Jelzálogjog esetén a zálogtárgy a zálogkötelezett birtoká
 
 (4) Természetes személy – ide nem értve az egyéni vállalkozót – devizában nyilvántartott, vagy nyújtott (deviza alapú) kölcsönszerződéséből keletkező hitelezői követelés biztosítására, természetes személy tulajdonában álló ingatlanon, vagy ingatlannak természetes személy tulajdonában lévő tulajdoni illetőségére jelzálogjog nem alapítható, a felek ettől eltérő rendelkezése semmis.
 
-Ptké. 83/A. § (1) Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 81. §-ával megállapított Ptk. 261. § (4) bekezdését csak a hatálybalépését követően kötött jelzálogjog alapítására irányuló szerződésre kell alkalmazni azzal, hogy a hatálybalépését megelőzően kötött jelzálogjoggal biztosított kölcsönszerződés tekintetében sincsen akadálya annak, hogy a szerződéses jogviszonyban történő jogutódlás (hitelezői engedményezés vagy adósi tartozásátvállalás) és a kölcsönszerződés módosítása, vagy megszüntetése és új szerződés kötése következtében az adóssal szemben zálogjogosultként más személy javára, vagy azonos hitelező azonos követelésének biztosítására a kölcsönszerződés módosítása miatt más pénznemben és összegben alapítsanak vagy jegyezzenek be jelzálogjogot (kölcsönkiváltás), valamint hogy a hitelezői követelés fedezetéül szolgáló ingatlanra bejegyzett jelzálogjog törlésével egyidejűleg másik felajánlott ingatlanra alapítsanak jelzálogjogot (fedezetcsere) abban az esetben, ha a jelzálogjog és az azzal biztosított követelés mértéke a korábbinál nem terhesebb.
+Ptké.83/A. § (1) Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 81. §-ával megállapított Ptk. 261. § (4) bekezdését a hatálybalépését követően kötött jelzálogjog alapítására irányuló szerződésre kell alkalmazni azzal, hogy a hatálybalépését megelőzően kötött jelzálogjoggal biztosított kölcsönszerződés vonatkozásában sincsen akadálya
 
-(2) Az (1) bekezdésben foglaltak teljesítése érdekében a kölcsönszerződés módosításában meg kell jelölni a követelés eredeti és módosított összegét forintban is.
+a) a követelés, illetve a tartozás tekintetében történő jogutódlásnak (engedményezés, tartozásátvállalás, a jogutódlás egyéb esetei),
+
+b) a szerződés módosításának,
+
+c) a követelés biztosítékául szolgáló ingatlanra bejegyzett jelzálogjogról történő lemondással egyidejűleg más ingatlanon jelzálogjog alapításának (fedezetcsere), vagy
+
+d) a szerződés megszüntetése és azonos vagy más hitelezővel a kötelezett által kötött új szerződés (kölcsönkiváltás) jelzálogjoggal való biztosításának,
+
+ha – a b) és d) pontban foglalt esetben – a biztosítandó követelés mértéke a korábbinál nem terhesebb.
+
+(2) A követelés mértéke a korábbinál nem terhesebbnek akkor tekinthető, ha annak összege – az alkalmazott árfolyamok különbözőségéből és az eredeti kölcsöntartozás megszüntetésével, illetve az azt kiváltó kölcsön folyósításával összefüggésben igazoltan felmerülő díjakból, költségekből adódó többletköveteléstől eltekintve – nem haladja meg az eredeti követelés még fennálló összegét.
 
 Ptk.262. § (1) Ingatlant csak jelzálogjog alapítása útján lehet elzálogosítani. Ingatlanra vonatkozó jelzálogjog alapításához az erre irányuló szerződésen felül a jelzálogjognak az ingatlan-nyilvántartásba való bejegyzése szükséges.
 
@@ -2888,7 +2898,7 @@ Ptké.34. § Ha a Ptk. 237. §-ának (1) bekezdésében és a 361. §-ának (3) 
 
 Ptké.35. § A szolgáltatásnak (vagyoni előnynek) az állam javára való megítélését nem akadályozza az, hogy a szolgáltatást a sérelmet okozó fél már megkapta, illetőleg a vagyoni előnyt a gazdagodást előidéző fél már visszakapta.
 
-Ptké.36. § Az állam javára megítélt szolgáltatások behajtásával és elszámolásával kapcsolatos pénzügyi kérdéseket a pénzügyminiszter az igazságügyminiszterrel egyetértésben szabályozza.
+Ptké.36. § Az állam javára megítélt szolgáltatások behajtásával és elszámolásával kapcsolatos pénzügyi kérdéseket az adópolitikáért felelős miniszter az igazságügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
 Ptké.36/A. § Az ügyész keresetet indíthat a semmis szerződéssel a közérdekben okozott sérelem megszüntetése érdekében a szerződés semmisségének megállapítása iránt.
 
