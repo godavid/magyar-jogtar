@@ -8,7 +8,7 @@ a szabadalmi ügyvivőkről
 
 (2) Az (1) bekezdés alkalmazásában iparjogvédelmi ügyek:
 
-- a) a Magyar Szabadalmi Hivatal hatáskörébe tartozó szabadalmi, növényfajta-oltalmi, használati mintaoltalmi, formatervezési mintaoltalmi és topográfiaoltalmi ügyek, a védjegyügyek, a földrajzi árujelzőkkel kapcsolatos ügyek, valamint az ezekhez kapcsolódó jogorvoslati és végrehajtási eljárások;
+- a) a Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó szabadalmi, növényfajta-oltalmi, használati mintaoltalmi, formatervezési mintaoltalmi és topográfiaoltalmi ügyek, a védjegyügyek, a földrajzi árujelzőkkel kapcsolatos ügyek, valamint az ezekhez kapcsolódó jogorvoslati és végrehajtási eljárások;
 - b) a találmány- és a szabadalombitorlás, a növényfajta és a növényfajta-oltalom, a használati minta és a használati mintaoltalom, a formatervezési minta és a formatervezési mintaoltalom, a topográfia és a topográfiaoltalom bitorlása, továbbá a védjegybitorlás és a földrajzi árujelző oltalmának bitorlása miatt indított eljárások;
 - c) a szabadalmi, a növényfajta-oltalmi és a használati mintaoltalmi kényszerengedéllyel, valamint az ilyen előhasználati vagy továbbhasználati jog fennállásával kapcsolatos eljárások, ideértve az európai szabadalom magyar nyelvű fordításának kijavításáról szóló hatósági tájékoztatás közlése előtt megkezdett hasznosításból eredő jogosultsággal kapcsolatos eljárást is;
 - d) a számítógépi programalkotáson és a hozzá tartozó dokumentáción, továbbá az iparművészeti és ipari tervezőművészeti alkotásokon, valamint a műszaki létesítmények tervein fennálló szerzői jog megsértése miatt indított eljárások;
@@ -91,7 +91,7 @@ a szabadalmi ügyvivőkről
 - b) aki külön jogszabályban meghatározott felsőfokú iparjogvédelmi szakképesítéssel rendelkezik; és
 - c) akinek legalább hároméves szabadalmi ügyvivőjelölti gyakorlata van.
 
-(2) A vizsgát a Magyar Szabadalmi Hivatal mellett létrehozott Szabadalmi Ügyvivői Vizsgabizottság előtt kell letenni.
+(2) A vizsgát a Szellemi Tulajdon Nemzeti Hivatala mellett létrehozott Szabadalmi Ügyvivői Vizsgabizottság előtt kell letenni.
 
 (3) A vizsgára bocsátásra irányuló kérelmet a Szabadalmi Ügyvivői Vizsgabizottság elnökéhez kell benyújtani, aki a kérelem ügyében a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint jár el. A vizsgára bocsátásra irányuló eljárásban a 30. § (2)–(3) és a (10)–(11) bekezdéseit megfelelően alkalmazni kell.
 
@@ -670,7 +670,7 @@ a szabadalmi ügyvivőkről
 
 (2) Kamarai hatósági ügyben kérelem csak a Kamaránál, szóbeli kérelem pedig csak személyesen terjeszthető elő. Nem minősül írásbeli kérelemnek a telefax és az elektronikus hírközlő eszköz útján benyújtott kérelem.
 
-(3) Ha az ügyfél a kérelmet hiányosan nyújtotta be, az ügyfelet a kérelem beérkezésétől számított huszonkét munkanapon belül – a hiánypótlásra nyitva álló határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra kell felhívni. Az ügyfél részére legalább huszonkét munkanapos határidőt kell kitűzni, amely a lejárat előtt előterjesztett kérelemre meghosszabbítható.
+(3) Ha az ügyfél a kérelmet hiányosan nyújtotta be, az ügyfelet a kérelem beérkezésétől számított harminc napon belül – a hiánypótlásra nyitva álló határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra kell felhívni. Az ügyfél részére legalább harmincnapos határidőt kell kitűzni, amely a lejárat előtt előterjesztett kérelemre meghosszabbítható.
 
 (4) Kamarai hatósági ügyben a Kamara elnöksége jár el.
 
@@ -732,9 +732,9 @@ a szabadalmi ügyvivőkről
 
 ### Törvényességi felügyelet
 
-34. § (1) A Kamara működése felett a Magyar Szabadalmi Hivatal elnöke gyakorol törvényességi felügyeletet.
+34. § (1) A Kamara működése felett a Szellemi Tulajdon Nemzeti Hivatala elnöke gyakorol törvényességi felügyeletet.
 
-(2) A Kamara alapszabályát, fegyelmi szabályzatát, valamint egyéb szabályzatait meg kell küldeni a Magyar Szabadalmi Hivatal elnökének.
+(2) A Kamara alapszabályát, fegyelmi szabályzatát, valamint egyéb szabályzatait meg kell küldeni a Szellemi Tulajdon Nemzeti Hivatala elnökének.
 
 (3) A törvényességi felügyelet arra terjed ki, hogy
 
@@ -743,11 +743,11 @@ a szabadalmi ügyvivőkről
 
 (4) A Kamarának a 30. §-ban meghatározott ügyekben hozott döntéseivel szemben csak akkor van helye törvényességi felügyeletnek, ha a döntéssel szemben nem éltek jogorvoslattal.
 
-35. § (1) Ha a Kamara alapszabálya, fegyelmi szabályzata, egyéb szabályzata jogszabályba, illetve a Kamara határozata jogszabályba vagy kamarai szabályzatba ütközik, a Magyar Szabadalmi Hivatal elnöke — határidő kitűzésével — felhívja a Kamarát a jogszabálysértés megszüntetésére.
+35. § (1) Ha a Kamara alapszabálya, fegyelmi szabályzata, egyéb szabályzata jogszabályba, illetve a Kamara határozata jogszabályba vagy kamarai szabályzatba ütközik, a Szellemi Tulajdon Nemzeti Hivatala elnöke — határidő kitűzésével — felhívja a Kamarát a jogszabálysértés megszüntetésére.
 
-(2) Ha a Kamara a megadott határidőn belül nem intézkedik a jogszabálysértés megszüntetésére, a Magyar Szabadalmi Hivatal elnöke a határidő lejártától számított harminc napon belül keresettel fordulhat a bírósághoz. Ezek a perek a Fővárosi Bíróság hatáskörébe tartoznak, és azokra a Pp. általános szabályait kell alkalmazni.
+(2) Ha a Kamara a megadott határidőn belül nem intézkedik a jogszabálysértés megszüntetésére, a Szellemi Tulajdon Nemzeti Hivatala elnöke a határidő lejártától számított harminc napon belül keresettel fordulhat a bírósághoz. Ezek a perek a Fővárosi Bíróság hatáskörébe tartoznak, és azokra a Pp. általános szabályait kell alkalmazni.
 
-(3) A bíróság a Magyar Szabadalmi Hivatal elnökének keresete alapján
+(3) A bíróság a Szellemi Tulajdon Nemzeti Hivatala elnökének keresete alapján
 
 - a) megsemmisítheti a Kamara jogszabálysértő szabályzatát, illetve jogszabályba vagy saját szabályzatába ütköző határozatát, és szükség szerint új szabályzat kiadását vagy új határozat meghozatalát rendelheti el;
 - b) a működés törvényességének helyreállítása céljából összehívhatja a Kamara közgyűlését.
@@ -768,7 +768,7 @@ a szabadalmi ügyvivőkről
 
 (2)
 
-(3) Azt, akit e törvény hatálybalépése előtt bejegyeztek a szabadalmi ügyvivők Magyar Szabadalmi Hivatalnál vezetett névjegyzékébe, de a 2. § (4) bekezdésének d) pontja szerint nem vehető fel a Kamarába, a felvételt kizáró ok megszűntétől számított három hónapon belül előterjesztett kérelme alapján fel kell venni a Kamarába.
+(3) Azt, akit e törvény hatálybalépése előtt bejegyeztek a szabadalmi ügyvivők Szellemi Tulajdon Nemzeti Hivatalánál vezetett névjegyzékébe, de a 2. § (4) bekezdésének d) pontja szerint nem vehető fel a Kamarába, a felvételt kizáró ok megszűntétől számított három hónapon belül előterjesztett kérelme alapján fel kell venni a Kamarába.
 
 39. § (1) Az e törvény hatálybalépése napján fennálló szabadalmi ügyvivői munkaközösség szabadalmi ügyvivői irodaként folytatja működését.
 
@@ -780,11 +780,11 @@ a szabadalmi ügyvivőkről
 
 ### Felhatalmazások
 
-40. § (1) Felhatalmazást kap a Magyar Szabadalmi Hivatal felett felügyeletet gyakorló miniszter, hogy – a Magyar Szabadalmi Hivatal elnöke véleményének kikérésével, az igazságügyért felelős miniszterrel egyetértésben – rendelettel megállapítsa a szabadalmi ügyvivői vizsgára vonatkozó szabályokat.
+40. § (1) Felhatalmazást kap a Szellemi Tulajdon Nemzeti Hivatala felett felügyeletet gyakorló miniszter, hogy – a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével, az igazságügyért felelős miniszterrel egyetértésben – rendelettel megállapítsa a szabadalmi ügyvivői vizsgára vonatkozó szabályokat.
 
-(2) Felhatalmazást kap a Magyar Szabadalmi Hivatal felett felügyeletet gyakorló miniszter, hogy – a Magyar Szabadalmi Hivatal elnöke véleményének kikérésével, a szakképzésért és felnőttképzésért felelős miniszterrel, valamint a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben – rendelettel megállapítsa az iparjogvédelmi szakképesítésre vonatkozó szabályokat.
+(2) Felhatalmazást kap a Szellemi Tulajdon Nemzeti Hivatala felett felügyeletet gyakorló miniszter, hogy – a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével, a szakképzésért és felnőttképzésért felelős miniszterrel, valamint a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben – rendelettel megállapítsa az iparjogvédelmi szakképesítésre vonatkozó szabályokat.
 
-(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – a Magyar Szabadalmi Hivatal elnöke véleményének kikérésével, a Magyar Szabadalmi Hivatal felett felügyeletet gyakorló miniszterrel egyetértésben – rendelettel meghatározza a bírósági eljárásban megállapítható szabadalmi ügyvivői költséget és a kirendelés ellátásának díját.
+(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével, a Szellemi Tulajdon Nemzeti Hivatala felett felügyeletet gyakorló miniszterrel egyetértésben – rendelettel meghatározza a bírósági eljárásban megállapítható szabadalmi ügyvivői költséget és a kirendelés ellátásának díját.
 
 ### Az Európai Unió jogának való megfelelés
 

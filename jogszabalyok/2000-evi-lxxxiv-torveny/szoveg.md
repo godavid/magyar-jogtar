@@ -243,7 +243,7 @@ kezeli.
 
 (3) Ha a Kamara a tagjai közé felveszi, az új tagot nyilvántartásba be kell jegyezni, és ki kell adni részére a tagsági igazolványt, valamint egyéb jogosító igazolásokat.
 
-(4) A tagfelvételt elutasító határozatot a határozat meghozatalától számított három munkanapon belül a kérelmező részére meg kell küldeni.
+(4) A tagfelvételt elutasító határozatot a határozat meghozatalától számított öt napon belül a kérelmező részére meg kell küldeni.
 
 (5)
 

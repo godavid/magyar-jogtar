@@ -113,7 +113,7 @@ kiterjed.
 - a) felhívja a foglalkoztató figyelmét a foglalkoztatásra vonatkozó szabályok megtartására,
 - b) kötelezi a foglalkoztatót a szabálytalanság meghatározott időn belül történő megszüntetésére,
 - c) megtiltja a további foglalkoztatást, ha az alkalmazás vagy a foglalkoztatás a 3. § (1) bekezdése a) pontjának első fordulata, továbbá b), e), f), i), k) és q) pontjai esetében a jogszabálysértés súlyossága miatt nem tartható fenn, és a sérelem rövid időn belül nem orvosolható. Ha a további foglalkoztatás megtiltására azért került sor, mert a foglalkoztató megsértette a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vagy a jogviszony bejelentésére, illetőleg munkaerő-kölcsönzés esetén a munkaszerződés kölcsönbevevő részére történő átadására vonatkozó rendelkezéseket, a felügyelő az eltiltás időtartamára kötelezi a Munka Törvénykönyve 151. §-ának (4) bekezdése szerinti díjazásnak a munkavállaló részére történő megfizetésére,
-- d) kötelezi a külföldi munkavállalót munkavállalási engedély nélkül foglalkoztatót a Munkaerőpiaci Alapba történő befizetésre a 7/A. §-ban foglaltak szerint,
+- d) kötelezi a külföldi munkavállalót munkavállalási engedély nélkül foglalkoztatót a központi költségvetésbe történő befizetésre a 7/A. §-ban foglaltak szerint,
 - e) kezdeményezi a munkanélküli ellátás jogalap nélküli igénybevétele esetén az ellátás szüneteltetését, illetve megszüntetését,
 - f) javaslatot tehet a 7. §-ban foglaltak szerint munkaügyi bírság kiszabására,
 - g) szabálysértési eljárást folytathat le,
@@ -189,11 +189,11 @@ terjedhet.
 
 (10) Ha a foglalkoztató magánszemély vagy egyéni vállalkozó, kizárólag a (9) bekezdés a) pontjában meghatározott jogkövetkezmény alkalmazására kerülhet sor.
 
-(11) A munkaügyi határozatban, a Munkaerőpiaci Alap javára előírt pénzfizetési kötelezettség esetén a kiadmányozó szerv a hozzá befolyt bírság, teljesített befizetési kötelezettség 100%-át a Munkaerőpiaci Alap kezeléséről szóló jogszabályban foglaltak szerint átutalja a Munkaerőpiaci Alap számlájára.
+(11)
 
-7/A. § (1) Amennyiben annak megállapítására kerül sor, hogy a foglalkoztató munkavállalási engedély nélkül külföldit foglalkoztat, kötelezni kell a Munkaerőpiaci Alap foglalkoztatási alaprészébe történő befizetésre. A kötelezettség a foglalkoztatót annyi esetben terheli, ahány külföldi tekintetében az engedély nélkül történő foglalkoztatást megállapították.
+7/A. § (1) Amennyiben annak megállapítására kerül sor, hogy a foglalkoztató munkavállalási engedély nélkül külföldit foglalkoztat, kötelezni kell a központi költségvetésbe történő befizetésre. A kötelezettség a foglalkoztatót annyi esetben terheli, ahány külföldi tekintetében az engedély nélkül történő foglalkoztatást megállapították.
 
-(2) A Munkaerőpiaci Alapba történő befizetés mértéke
+(2) A központi költségvetésbe történő befizetés mértéke
 
 - a) első alkalommal megállapított engedély nélkül történő foglalkoztatás esetén az engedély nélkül alkalmazott külföldi részére a foglalkoztatás megkezdésétől az engedély nélküli foglalkoztatás megállapításáig kifizetett munkabér (munkadíj) négyszeresének, de legalább a kötelező legkisebb munkabér (a továbbiakban: minimálbér) nyolcszorosának,
 - b) a korábbi engedély nélküli foglalkoztatást megállapító határozat jogerőre emelkedésétől számított három éven belül megállapított ismételt engedély nélküli foglalkoztatás esetén a külföldi részére a folyamatos foglalkoztatása megkezdésétől az engedély nélküli foglalkoztatás ismételt megállapításáig kifizetett munkabér (munkadíj) nyolcszorosának, de legalább a minimálbér tizenötszörösének
@@ -207,7 +207,7 @@ megfelelő összeg.
 
 megfelelő összeg terheli.
 
-(4) A (2) bekezdés a) pontjában foglaltaktól eltérően, a foglalkoztatót a kifizetett munkabér (munkadíj), de legalább a minimálbér kétszeresének megfelelő összeg Munkaerőpiaci Alapba történő megfizetésére kell kötelezni akkor, ha a foglalkoztató külföldit úgy foglalkoztat tovább, hogy a munkavállalási engedély érvényességének lejártát megelőzően a külföldi számára új munkavállalási engedély iránti kérelmet az illetékes hatósághoz benyújtott, azonban a hatóság az ügyben nem hozott határozatot.
+(4) A (2) bekezdés a) pontjában foglaltaktól eltérően, a foglalkoztatót a kifizetett munkabér (munkadíj), de legalább a minimálbér kétszeresének megfelelő összeg központi költségvetésbe történő megfizetésére kell kötelezni akkor, ha a foglalkoztató külföldit úgy foglalkoztat tovább, hogy a munkavállalási engedély érvényességének lejártát megelőzően a külföldi számára új munkavállalási engedély iránti kérelmet az illetékes hatósághoz benyújtott, azonban a hatóság az ügyben nem hozott határozatot.
 
 (5) Ha a külföldi részére kifizetett munkabér (munkadíj) összege nem állapítható meg,
 
@@ -217,7 +217,7 @@ megfelelő összeg terheli.
 
 megfelelő összeg terheli a foglalkoztatót.
 
-(6) Amennyiben a munkaügyi hatóság a munkáltatót külföldi engedély nélkül történő foglalkoztatása miatt a Munkaerőpiaci Alapba történő befizetésre kötelezte, ugyanezen jogsértésre tekintettel munkaügyi bírság egyidejűleg nem alkalmazható.
+(6) Amennyiben a munkaügyi hatóság a munkáltatót külföldi engedély nélkül történő foglalkoztatása miatt a központi költségvetésbe történő befizetésre kötelezte, ugyanezen jogsértésre tekintettel munkaügyi bírság egyidejűleg nem alkalmazható.
 
 8. § (1) A 2. § (1) és (2) bekezdésében foglalt szervek hatósági tevékenységük során az e törvényben szabályozott eltérésekkel a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint járnak el.
 
@@ -244,7 +244,7 @@ jogerős és végrehajtható közigazgatási határozattal megállapította.
 
 (8) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 57/A. § (2) bekezdése alapján kezelt adatokból a 2. §-ban meghatározott munkaügyi ellenőrzést végző személy – az ellenőrzési tevékenysége keretében – hatósági hozzáférést biztosító kód alkalmazásával, elektronikusan kérhet tájékoztatást.
 
-8/A. § (1) A munkaügyi eljárás határideje az eljárás megindításától számított negyvenöt munkanap
+8/A. § (1) A munkaügyi eljárás határideje az eljárás megindításától számított két hónap
 
 - a) a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére,
 - b) a munkaerő-kölcsönzésre, valamint

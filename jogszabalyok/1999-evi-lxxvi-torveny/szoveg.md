@@ -291,7 +291,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (5) Az irodalmi és a zenei művekkel kapcsolatos szerzői jogok közös kezelését végző szervezet a díjakból az általa a felosztást illetően nem képviselt műtípusok szerzőinek és szerzői jogi jogosultjainak, valamint az előadóművészeknek és a hangfelvétel-előállítóknak járó részt a jogosultak közös jogkezelő szervezeteinek utalja át.
 
-(6) A magyar közszolgálati műsorszolgáltató rádió- vagy televízió-szervezet műsorában sugárzott, vezetéken vagy másként közvetített művek továbbközvetítéséért járó díjakat a Műsorszolgáltatás Támogató és Vagyonkezelő Alapból kell megfizetni; erről az Alap kezelője gondoskodik.
+(6) A magyar közszolgálati médiaszolgáltató rádió- vagy televízió-szervezet műsorában sugárzott, vezetéken vagy másként közvetített művek továbbközvetítéséért járó díjakat a Médiaszolgáltatás-támogató és Vagyonkezelő Alapból kell megfizetni; erről az Alap kezelője gondoskodik.
 
 ### Az átdolgozás joga
 
@@ -381,9 +381,9 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (2) Napi eseményekhez kapcsolódó, időszerű gazdasági vagy politikai témákról megjelentetett cikkek vagy e témákról sugárzott művek a sajtóban szabadon többszörözhetők, nyilvánossághoz közvetíthetők – ideértve a nyilvánosság számára történő hozzáférhetővé tételt [26. § (8) bek.] is –, feltéve, hogy a szerző nem tett az ilyen felhasználást megtiltó nyilatkozatot. Ilyen felhasználás esetén a forrást – a szerző nevével együtt – fel kell tüntetni.
 
-(3) A televíziós műsorszolgáltatásban bármely képzőművészeti, fotóművészeti, építészeti, iparművészeti vagy ipari tervezőművészeti alkotás díszletként szabadon felhasználható. Ilyen felhasználás esetén a szerző nevének feltüntetése sem kötelező.
+(3) Az audiovizuális médiaszolgáltatásban bármely képzőművészeti, fotóművészeti, építészeti, iparművészeti vagy ipari tervezőművészeti alkotás díszletként szabadon felhasználható. Ilyen felhasználás esetén a szerző nevének feltüntetése sem kötelező.
 
-(4) A díszlet és jelmez céljára készült műveknek a televíziós műsorszolgáltatásban való felhasználásához a szerző engedélye és nevének feltüntetése szükséges.
+(4) A díszlet és jelmez céljára készült műveknek az audiovizuális médiaszolgáltatásban való felhasználásához a szerző engedélye és nevének feltüntetése szükséges.
 
 37. § Egyes művek az időszerű, napi eseményekről való tájékoztatás céljára – a cél által indokolt terjedelemben – szabadon felhasználhatók. Ilyen felhasználás esetén a forrást – a szerző nevével együtt – fel kell tüntetni, hacsak ez lehetetlennek nem bizonyul.
 
@@ -509,43 +509,43 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 ### A felhasználás engedélyezése ismeretlen vagy ismeretlen helyen tartózkodó szerző alkotása (árva mű) esetén
 
-57/A. § (1) A Magyar Szabadalmi Hivatal – a felhasználás módjához és mértékéhez igazodó díj megállapítása mellett – felhasználási engedélyt ad kérelemre annak, aki a felhasználási szerződés megkötése érdekében a szerző felkutatására az érintett műtípus és a felhasználási mód figyelembevételével megtette az adott helyzetben általában elvárható intézkedéseket, és a szerző felkutatása nem járt eredménnyel. A felhasználási engedély legfeljebb öt évre szól, a Magyar Köztársaság területére terjed ki, nem kizárólagos, át nem ruházható, további felhasználási engedély adására és a mű átdolgozására (29. §) nem jogosít.
+57/A. § (1) A Szellemi Tulajdon Nemzeti Hivatala – a felhasználás módjához és mértékéhez igazodó díj megállapítása mellett – felhasználási engedélyt ad kérelemre annak, aki a felhasználási szerződés megkötése érdekében a szerző felkutatására az érintett műtípus és a felhasználási mód figyelembevételével megtette az adott helyzetben általában elvárható intézkedéseket, és a szerző felkutatása nem járt eredménnyel. A felhasználási engedély legfeljebb öt évre szól, a Magyar Köztársaság területére terjed ki, nem kizárólagos, át nem ruházható, további felhasználási engedély adására és a mű átdolgozására (29. §) nem jogosít.
 
-(2) Az (1) bekezdésben említett díjat a szerző személyének vagy tartózkodási helyének ismertté válását követően kell megfizetni, ha a felhasználás jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja; ha a felhasználás közvetve vagy közvetlenül jövedelemszerzés vagy jövedelemfokozás célját szolgálja, a díjat a Magyar Szabadalmi Hivatalnál letétbe kell helyezni. A díj letétbe helyezése a felhasználás megkezdésének feltétele.
+(2) Az (1) bekezdésben említett díjat a szerző személyének vagy tartózkodási helyének ismertté válását követően kell megfizetni, ha a felhasználás jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja; ha a felhasználás közvetve vagy közvetlenül jövedelemszerzés vagy jövedelemfokozás célját szolgálja, a díjat a Szellemi Tulajdon Nemzeti Hivatalánál letétbe kell helyezni. A díj letétbe helyezése a felhasználás megkezdésének feltétele.
 
-(3) Ha a szerző személye vagy tartózkodási helye a felhasználási engedély hatálya alatt ismertté válik, a Magyar Szabadalmi Hivatal a szerző, illetve a felhasználó kérelmére a felhasználási engedélyt a szerző személye vagy tartózkodási helye ismertté válásának napjával kezdődő hatállyal visszavonja azzal, hogy a felhasználás a szerző személye vagy tartózkodási helye ismertté válásának napján meglévő mértékig, az engedély alapján még hátralévő időtartamig, de legfeljebb a szerző személye vagy tartózkodási helye ismertté válásának napjától egy évig folytatható.
+(3) Ha a szerző személye vagy tartózkodási helye a felhasználási engedély hatálya alatt ismertté válik, a Szellemi Tulajdon Nemzeti Hivatala a szerző, illetve a felhasználó kérelmére a felhasználási engedélyt a szerző személye vagy tartózkodási helye ismertté válásának napjával kezdődő hatállyal visszavonja azzal, hogy a felhasználás a szerző személye vagy tartózkodási helye ismertté válásának napján meglévő mértékig, az engedély alapján még hátralévő időtartamig, de legfeljebb a szerző személye vagy tartózkodási helye ismertté válásának napjától egy évig folytatható.
 
 (4) A (3) bekezdésben foglalt rendelkezést megfelelően alkalmazni kell akkor is, ha a felhasználásra a szerző személye vagy tartózkodási helye ismertté válásának napjáig komoly előkészületeket tettek, azzal, hogy ebben az esetben a felhasználást az előkészületnek a szerző személye vagy tartózkodási helye ismertté válásakor meglévő mértékéig lehet megkezdeni és folytatni.
 
-(5) A szerző a felhasználási engedély hatályának megszűnésétől vagy a visszavonásáról szóló határozat jogerőre emelkedésétől számított öt évig követelheti a felhasználótól az őt megillető díj, illetve – a díj letétbe helyezése esetén – a Magyar Szabadalmi Hivataltól az ott javára letétbe helyezett díj megfizetését. Az öt év lejártát követően a Magyar Szabadalmi Hivatal átutalja a díjat annak a közös jogkezelő szervezetnek, amely az ismeretlen vagy az ismeretlen helyen tartózkodó szerző művének egyéb felhasználását jogosítja, ilyen szervezet hiányában pedig a Nemzeti Kulturális Alapnak. Ha az ismeretlen vagy az ismeretlen helyen tartózkodó szerző művének egyéb felhasználásait több közös jogkezelő szervezet jogosítja, ezek a díjból egyenlő arányban részesülnek. A Nemzeti Kulturális Alap a hozzá átutalt jogdíjat a kulturális javak hozzáférhetővé tételére fordítja.
+(5) A szerző a felhasználási engedély hatályának megszűnésétől vagy a visszavonásáról szóló határozat jogerőre emelkedésétől számított öt évig követelheti a felhasználótól az őt megillető díj, illetve – a díj letétbe helyezése esetén – a Szellemi Tulajdon Nemzeti Hivatalától az ott javára letétbe helyezett díj megfizetését. Az öt év lejártát követően a Szellemi Tulajdon Nemzeti Hivatala átutalja a díjat annak a közös jogkezelő szervezetnek, amely az ismeretlen vagy az ismeretlen helyen tartózkodó szerző művének egyéb felhasználását jogosítja, ilyen szervezet hiányában pedig a Nemzeti Kulturális Alapnak. Ha az ismeretlen vagy az ismeretlen helyen tartózkodó szerző művének egyéb felhasználásait több közös jogkezelő szervezet jogosítja, ezek a díjból egyenlő arányban részesülnek. A Nemzeti Kulturális Alap a hozzá átutalt jogdíjat a kulturális javak hozzáférhetővé tételére fordítja.
 
 (6) Ha a szerző a (3)–(5) bekezdések alapján a díj mértékét vitatja, ennek elbírálása – a szerzői jogi perekre irányadó szabályok szerint – bírósági útra tartozik.
 
 (7) Az (1)–(6) bekezdések nem alkalmazhatók, ha a felhasználás jogosítása közös jogkezelésbe tartozik.
 
-57/B. § (1) A Magyar Szabadalmi Hivatalnak az 57/A. §-ban szabályozott eljárására a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit a következő eltérésekkel kell alkalmazni:
+57/B. § (1) A Szellemi Tulajdon Nemzeti Hivatalának az 57/A. §-ban szabályozott eljárására a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit a következő eltérésekkel kell alkalmazni:
 
 - a) nem alkalmazhatók a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek azok a rendelkezései, amelyek az eljárás megindításával kapcsolatos – hivatalból vagy kérelemre történő – értesítésre vonatkoznak;
-- b) a Magyar Szabadalmi Hivatal a tényeket a kérelem keretei között, az ügyfél nyilatkozatai és állításai alapján vizsgálja;
+- b) a Szellemi Tulajdon Nemzeti Hivatala a tényeket a kérelem keretei között, az ügyfél nyilatkozatai és állításai alapján vizsgálja;
 - c) nem alkalmazhatók a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a határozat közzétételére, az ügygondnokra, a költségmentességre és a végrehajtásra vonatkozó rendelkezései;
-- d) a Magyar Szabadalmi Hivatal döntéseivel szemben nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi óvásnak; a Magyar Szabadalmi Hivatal döntéseit a Fővárosi Bíróság – az 57/C. §-ban foglaltak szerint – nemperes eljárásban vizsgálja felül;
+- d) a Szellemi Tulajdon Nemzeti Hivatala döntéseivel szemben nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi óvásnak; a Szellemi Tulajdon Nemzeti Hivatala döntéseit a Fővárosi Bíróság – az 57/C. §-ban foglaltak szerint – nemperes eljárásban vizsgálja felül;
 - e) nincs helye közmeghallgatásnak;
 - f) az eljárásban rövid szöveges üzenet útján nincs helye kapcsolattartásnak, elektronikus úton írásban csak az 57/C. §-ban meghatározott esetekben van helye kapcsolattartásnak.
 
-(2) A Magyar Szabadalmi Hivatal által hozott döntés felülvizsgálatát az ügyész is kérheti; az eljárás megindítására a Fővárosi Főügyészség rendelkezik kizárólagos illetékességgel. A Magyar Szabadalmi Hivatal a döntését a Fővárosi Főügyészséggel is közli.
+(2) A Szellemi Tulajdon Nemzeti Hivatala által hozott döntés felülvizsgálatát az ügyész is kérheti; az eljárás megindítására a Fővárosi Főügyészség rendelkezik kizárólagos illetékességgel. A Szellemi Tulajdon Nemzeti Hivatala a döntését a Fővárosi Főügyészséggel is közli.
 
 (3) Az 57/A. § (1) bekezdése szerinti kérelemért külön jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
 (4) Az árva művek felhasználásának engedélyezésére vonatkozó részletes szabályokat – ideértve a (3) bekezdés szerinti díj mértékét – külön jogszabály állapítja meg.
 
-(5) Az (1) bekezdés a) pontjától eltérően, ha az eljárás megindítására irányuló kérelmet benyújtó ügyfél kéri, a kérelem beérkezésétől számított öt munkanapon belül a Magyar Szabadalmi Hivatal a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott szabályok szerint értesíti
+(5) Az (1) bekezdés a) pontjától eltérően, ha az eljárás megindítására irányuló kérelmet benyújtó ügyfél kéri, a kérelem beérkezését követő naptól számított nyolc napon belül a Szellemi Tulajdon Nemzeti Hivatala a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott szabályok szerint értesíti
 
 - a) az ügy iktatási számáról, az ügyintéző nevéről és hivatali elérhetőségéről,
-- b) az eljárás megindításának napjáról, az ügyintézési határidőről, az ügyintézési határidőbe nem számító időtartamokról, a Magyar Szabadalmi Hivatal eljárási kötelezettségének elmulasztása esetén követendő eljárásról,
+- b) az eljárás megindításának napjáról, az ügyintézési határidőről, az ügyintézési határidőbe nem számító időtartamokról, a Szellemi Tulajdon Nemzeti Hivatala eljárási kötelezettségének elmulasztása esetén követendő eljárásról,
 - c) az iratokba való betekintés és nyilatkozattétel lehetőségéről, valamint
 - d) arról, hogy kérelme a szükséges adatainak kezeléséhez és belföldi jogsegély céljából történő továbbításához való hozzájárulásnak minősül.
 
-57/C. § (1) Az 57/B. § (1) bekezdésének d) pontja szerinti nemperes eljárás megindítására irányuló kérelmet a döntés közlésétől számított harminc napon belül a Magyar Szabadalmi Hivatalnál kell benyújtani, amely azt az ügy irataival együtt tizenöt napon belül továbbítja a bírósághoz.
+57/C. § (1) Az 57/B. § (1) bekezdésének d) pontja szerinti nemperes eljárás megindítására irányuló kérelmet a döntés közlésétől számított harminc napon belül a Szellemi Tulajdon Nemzeti Hivatalánál kell benyújtani, amely azt az ügy irataival együtt tizenöt napon belül továbbítja a bírósághoz.
 
 (2) Az (1) bekezdés szerinti kérelem kellékeire a keresetlevélre vonatkozó szabályok megfelelően irányadók.
 
@@ -553,15 +553,15 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (4) Az 57/B. § (1) bekezdésének d) pontja szerinti nemperes eljárásra a polgári perrendtartásról szóló törvény általános szabályai – a nemperes eljárás sajátosságaiból fakadó eltérésekkel – megfelelően irányadók.
 
-57/D. § (1) Az árva mű felhasználására vonatkozó engedély megadására irányuló kérelmet és a felhasználási engedély visszavonására irányuló kérelmet – a Magyar Szabadalmi Hivatal által erre rendszeresített elektronikus űrlap használatával – elektronikus úton is be lehet nyújtani.
+57/D. § (1) Az árva mű felhasználására vonatkozó engedély megadására irányuló kérelmet és a felhasználási engedély visszavonására irányuló kérelmet – a Szellemi Tulajdon Nemzeti Hivatala által erre rendszeresített elektronikus űrlap használatával – elektronikus úton is be lehet nyújtani.
 
-(2) Az (1) bekezdésben meghatározott, elektronikus úton benyújtott kérelem megérkezéséről a Magyar Szabadalmi Hivatal – külön jogszabályban meghatározott módon – elektronikus érkeztető számot tartalmazó automatikus értesítést küld a kérelmezőnek.
+(2) Az (1) bekezdésben meghatározott, elektronikus úton benyújtott kérelem megérkezéséről a Szellemi Tulajdon Nemzeti Hivatala – külön jogszabályban meghatározott módon – elektronikus érkeztető számot tartalmazó automatikus értesítést küld a kérelmezőnek.
 
-(3) A Magyar Szabadalmi Hivatal az (1) bekezdésben meghatározott, elektronikus úton benyújtott kérelem megérkezését követően haladéktalanul megvizsgálja, hogy az megfelel-e az elektronikus úton történő kapcsolattartásra vonatkozó jogszabályi követelményeknek.
+(3) A Szellemi Tulajdon Nemzeti Hivatala az (1) bekezdésben meghatározott, elektronikus úton benyújtott kérelem megérkezését követően haladéktalanul megvizsgálja, hogy az megfelel-e az elektronikus úton történő kapcsolattartásra vonatkozó jogszabályi követelményeknek.
 
-(4) Elektronikus beküldés esetén az (1) bekezdésben meghatározott kérelem az elektronikus érkeztetésről szóló automatikus visszaigazolásnak a kérelmező részére történő elküldésével tekintendő benyújtottnak, kivéve ha a Magyar Szabadalmi Hivatal a kapott dokumentum értelmezhetetlenségét állapítja meg, és erről az ügyfelet elektronikus levélben értesíti.
+(4) Elektronikus beküldés esetén az (1) bekezdésben meghatározott kérelem az elektronikus érkeztetésről szóló automatikus visszaigazolásnak a kérelmező részére történő elküldésével tekintendő benyújtottnak, kivéve ha a Szellemi Tulajdon Nemzeti Hivatala a kapott dokumentum értelmezhetetlenségét állapítja meg, és erről az ügyfelet elektronikus levélben értesíti.
 
-(5) Az értelmezhetetlen dokumentumot beküldő ügyfél a (4) bekezdés szerinti értesítés visszaigazolására köteles. Ha az ügyfél az értesítés átvételét tizenöt napon belül nem igazolja vissza, a Magyar Szabadalmi Hivatal postai úton továbbítja számára az iratot.
+(5) Az értelmezhetetlen dokumentumot beküldő ügyfél a (4) bekezdés szerinti értesítés visszaigazolására köteles. Ha az ügyfél az értesítés átvételét tizenöt napon belül nem igazolja vissza, a Szellemi Tulajdon Nemzeti Hivatala postai úton továbbítja számára az iratot.
 
 ## MÁSODIK RÉSZ — EGYES MŰFAJOKRA VONATKOZÓ RENDELKEZÉSEK
 
@@ -913,7 +913,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 ### Nyilvántartás a közös jogkezelő szervezetekről
 
-86. § (1) A szerzői és a szomszédos jogokra vonatkozó jogszabályoknak megfelelő közös jogkezelő szervezetekről a kultúráért felelős miniszter nyilvántartást vezet.
+86. § (1) A szerzői és a szomszédos jogokra vonatkozó jogszabályoknak megfelelő közös jogkezelő szervezetekről a Szellemi Tulajdon Nemzeti Hivatala nyilvántartást vezet.
 
 (2) A nyilvántartásba közös jogkezelő szervezetként csak egyesület (Ptk. 61–64. §) vehető fel. Országosan csak egy-egy egyesület vehető nyilvántartásba különösen a következő művekkel, illetve teljesítményekkel kapcsolatos szerzői, illetve szomszédos jogok kezelésére:
 
@@ -928,7 +928,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 87. § (1) A nyilvántartásban fel kell tüntetni, hogy az egyesület milyen jogkezelési tevékenységet folytat. Más szervezetnek történő díjfizetés, illetve más szervezettel történő megállapodás az érintett jogkezelési tevékenység tekintetében a nyilvántartásba vett egyesület és az érintett jogosultak irányában nem hatályos, és nem mentesít a szerzői jog megsértésének jogkövetkezményei alól.
 
-(2) A nyilvántartásba vett szervezet által végzett jogkezelési tevékenységre vonatkozó bejegyzést a kultúráért felelős miniszter a nyilvántartásba vett szervezetek közötti megállapodás alapján módosítja, ha a nyilvántartásba vétel feltételei valamennyi érintett szervezetnél megvalósulnak az általuk végzett jogkezelési tevékenységnek a megállapodás szerinti módosítását követően is.
+(2) A nyilvántartásba vett szervezet által végzett jogkezelési tevékenységre vonatkozó bejegyzést a Szellemi Tulajdon Nemzeti Hivatala a nyilvántartásba vett szervezetek közötti megállapodás alapján módosítja, ha a nyilvántartásba vétel feltételei valamennyi érintett szervezetnél megvalósulnak az általuk végzett jogkezelési tevékenységnek a megállapodás szerinti módosítását követően is.
 
 88. § (1) Az a szervezet vehető a közös jogkezelést végző szervezetek nyilvántartásába,
 
@@ -951,13 +951,13 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (2) A kérelemhez csatolni kell a nyilvántartásba vételhez szükséges – a 88. § (1) bekezdésében meghatározott – feltételek teljesítését igazoló iratokat. Az iratokat a kérelemhez elektronikus hordozón is mellékelni kell három példányban. Az iratokban közölni kell az egyesület tagjainak, illetve az egyesülethez csatlakozni kívánó jogosultaknak az egyedi azonosításra alkalmas adatait, amelyek a tagok és jogosultak teljes nevét és lakcímét vagy székhelyét tartalmazzák.
 
-(3) A kultúráért felelős miniszter a nyilvántartásba vételt a Hivatalos Értesítőben közzéteszi. A nyilvántartásban szereplő szervezetekről és az általuk végzett közös jogkezelési tevékenységekről a kultúráért felelős miniszter a Hivatalos Értesítőben közleményt jelentet meg.
+(3) A Szellemi Tulajdon Nemzeti Hivatala a nyilvántartásba vételt a Hivatalos Értesítőben közzéteszi. A nyilvántartásban szereplő szervezetekről és az általuk végzett közös jogkezelési tevékenységekről a Szellemi Tulajdon Nemzeti Hivatala a Hivatalos Értesítőben közleményt jelentet meg.
 
-(4) A szerzői és a szomszédos jogok közös kezelését végző szervezetekről vezetett nyilvántartásra vonatkozó részletes szabályokat a kultúráért felelős miniszter rendeletben állapítja meg.
+(4) A szerzői és a szomszédos jogok közös kezelését végző szervezetekről vezetett nyilvántartásra vonatkozó részletes szabályokat az igazságügyért felelős miniszter rendeletben állapítja meg.
 
-89/A. § (1) Ha a törvényben előírt közös jogkezelést végző közös jogkezelő szervezetet törlik a nyilvántartásból, a kultúráért felelős miniszter a honlapján és legalább két országos napilapban közzétett hirdetményében felhívja az érintett jogosultakat arra, hogy az általa kitűzött, de legalább hat hónapos határidőn belül kezdeményezzék szervezetük közös jogkezelő szervezetként való nyilvántartásba vételét.
+89/A. § (1) Ha a törvényben előírt közös jogkezelést végző közös jogkezelő szervezetet törlik a nyilvántartásból, a Szellemi Tulajdon Nemzeti Hivatala a honlapján és legalább két országos napilapban közzétett hirdetményében felhívja az érintett jogosultakat arra, hogy az általa kitűzött, de legalább hat hónapos határidőn belül kezdeményezzék szervezetük közös jogkezelő szervezetként való nyilvántartásba vételét.
 
-(2) Az (1) bekezdés szerint meghatározott határidő elteltéig a jogdíjakat a törölt közös jogkezelő szervezet által alkalmazott díjszabás alapján kell megfizetni a kultúráért felelős miniszter által a hirdetményben megjelölt módon. Ha az új közös jogkezelő szervezet nyilvántartásba vételét a kitűzött határidőn belül kezdeményezik, és a szervezetet nyilvántartásba veszik, az így megfizetett jogdíjakat az új szervezet osztja fel, ellenkező esetben a kultúráért felelős miniszter kijelöli azt a közös jogkezelő szervezetet, amely a befolyt jogdíjakat a határidő elteltét követően a törlés időpontjában érvényes felosztási szabályzat alapján felosztja a jogosultak között.
+(2) Az (1) bekezdés szerint meghatározott határidő elteltéig a jogdíjakat a törölt közös jogkezelő szervezet által alkalmazott díjszabás alapján kell megfizetni a Szellemi Tulajdon Nemzeti Hivatala által a hirdetményben megjelölt módon. Ha az új közös jogkezelő szervezet nyilvántartásba vételét a kitűzött határidőn belül kezdeményezik, és a szervezetet nyilvántartásba veszik, az így megfizetett jogdíjakat az új szervezet osztja fel, ellenkező esetben a Szellemi Tulajdon Nemzeti Hivatala kijelöli azt a közös jogkezelő szervezetet, amely a befolyt jogdíjakat a határidő elteltét követően a törlés időpontjában érvényes felosztási szabályzat alapján felosztja a jogosultak között.
 
 (3) Ha az (1) bekezdésben említett határidő elteltéig nem kezdeményezik a törvényben előírt közös jogkezelő szervezetként való nyilvántartásba vételt, azt mindaddig úgy kell tekinteni, hogy az érintett jogosultak a felhasználást egyedileg engedélyezhetik, ameddig az új jogkezelő szervezetet nyilvántartásba nem veszik.
 
@@ -965,31 +965,31 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 ### A közös jogkezelés általános szabályai
 
-90. § (1) A szerzői és a szomszédos jogok közös kezelését végző szervezet abban a körben, amelyben a nyilvántartás szerint jogkezelésre jogosult, rendszeres időközönként megállapítja és az e § szerinti jóváhagyási eljárás lefolytatása céljából megküldi a kultúráért felelős miniszternek az egyes felhasználási módok tekintetében a – felhasználókra indokolatlan megkülönböztetés nélkül vonatkozó – jogdíjakat és a felhasználás egyéb – az egyenlő bánásmód követelményének megfelelő – feltételeit (a továbbiakban együtt: díjszabás). A tervezett alkalmazás időpontja nem lehet korábbi, mint a megküldéstől számított három hónap.
+90. § (1) A szerzői és a szomszédos jogok közös kezelését végző szervezet abban a körben, amelyben a nyilvántartás szerint jogkezelésre jogosult, rendszeres időközönként megállapítja és az e § szerinti jóváhagyási eljárás lefolytatása céljából megküldi a Szellemi Tulajdon Nemzeti Hivatalának az egyes felhasználási módok tekintetében a – felhasználókra indokolatlan megkülönböztetés nélkül vonatkozó – jogdíjakat és a felhasználás egyéb – az egyenlő bánásmód követelményének megfelelő – feltételeit (a továbbiakban együtt: díjszabás). A tervezett alkalmazás időpontja nem lehet korábbi, mint a megküldéstől számított három hónap.
 
-(2) A díjszabást a kultúráért felelős miniszter hagyja jóvá. A jóváhagyás a díjszabás alkalmazásának és a Hivatalos Értesítőben való nyilvánosságra hozatalának feltétele; nem zárja ki, illetve nem érinti azonban az egyéb jogszabályok érvényesülését a díjszabás tekintetében.
+(2) A díjszabást az igazságügyért felelős miniszter hagyja jóvá a Szellemi Tulajdon Nemzeti Hivatalának javaslatára a (3)–(12) bekezdés szerint lefolytatott eljárást követően. A jóváhagyás a díjszabás alkalmazásának és a Hivatalos Értesítőben való nyilvánosságra hozatalának feltétele nem zárja ki, illetve nem érinti azonban az egyéb jogszabályok érvényesülését a díjszabás tekintetében.
 
 (3) A díj mértékének megállapításakor figyelembe kell venni az érintett felhasználás valamennyi lényeges körülményét. A díjszabáshoz indokolást, és az azt alátámasztó iratokat kell csatolni.
 
-(4) A kultúráért felelős miniszter a díjszabásról annak kézhezvételét követően haladéktalanul véleményt kér a jelentős felhasználóktól és a felhasználók érdek-képviseleti szervezeteitől, valamint ezt követően a Magyar Szabadalmi Hivatal elnökétől és – a 20. §-a (1) bekezdésében és a 21. §-a (1) bekezdésének első mondatában meghatározott díj, valamint a 26. §-a (8) bekezdésének második mondatában szabályozott felhasználás tekintetében – az informatikáért felelős minisztertől. A véleményezést a díjszabásnak a kultúráért felelős miniszterhez történő benyújtásától számított hatvan napon belül kell lefolytatni. A 20–21. §-okban meghatározott díj vonatkozásában a fizetésre kötelezettek és azok érdek-képviseleti szervezetei minősülnek felhasználónak, illetve felhasználói érdek-képviseleti szervezeteknek.
+(4) A Szellemi Tulajdon Nemzeti Hivatala a díjszabásról annak kézhezvételét követően haladéktalanul véleményt kér a jelentős felhasználóktól és a felhasználók érdekképviseleti szervezeteitől, valamint ezt követően a kultúráért felelős minisztertől. A véleményezési eljárást a díjszabásnak a Szellemi Tulajdon Nemzeti Hivatalához történő benyújtásától számított hatvan napon belül kell lefolytatni. A 20–21. §-ban meghatározott díj vonatkozásában a fizetésre kötelezettek és azok érdekképviseleti szervezetei minősülnek felhasználónak, illetve felhasználói érdekképviseleti szervezeteknek.
 
-(5) A kultúráért felelős miniszter attól a jelentős felhasználótól, illetve felhasználói érdekképviselettől köteles véleményt kérni, aki véleményezési szándékát a kultúráért felelős miniszternek az adott évben a kultúráért felelős miniszter honlapján a díjszabás benyújtását követően haladéktalanul e célból közzétett felhívása alapján, a felhívás közzétételétől számított tizenöt napon belül írásban bejelenti, és egyidejűleg benyújtja a (6) vagy a (7) bekezdés szerinti nyilatkozatot.
+(5) A Szellemi Tulajdon Nemzeti Hivatala attól a jelentős felhasználótól, illetve felhasználói érdekképviselettől köteles véleményt kérni, aki véleményezési szándékát a Szellemi Tulajdon Nemzeti Hivatalának az adott évben a Szellemi Tulajdon Nemzeti Hivatala honlapján a díjszabás benyújtását követően haladéktalanul e célból közzétett felhívása alapján, a felhívás közzétételétől számított tizenöt napon belül írásban bejelenti, és egyidejűleg benyújtja a (6) vagy a (7) bekezdés szerinti nyilatkozatot.
 
 (6) Jelentős felhasználó az a személy, aki az érintett közös jogkezelést végző szervezethez intézett megkeresés alapján kiadott nyilatkozattal igazolja, hogy a bejelentés évét megelőző naptári évben az általa fizetett jogdíj elérte az érintett díjszabás alapján megfizetett összes jogdíj 10%-át.
 
 (7) Felhasználói érdek-képviseleti szervezet az a nyilvántartott tagsággal rendelkező jogi személy, amely létesítő okirata szerinti tevékenységét országosan fejti ki, és tevékenysége kiterjed az érintett felhasználók érdekeinek a díjszabások véleményezése során történő képviseletére, továbbá a közös jogkezelést végző szervezet által az érdek-képviseleti szervezet megkeresésére kiadott nyilatkozattal igazolja, hogy az érdek-képviseleti szervezet tagja az adott díjszabással érintett felhasználók olyan köre, amely a bejelentés évét megelőző naptári évben az adott díjszabás alapján megfizetett összes jogdíj legalább 25%-át megfizette.
 
-(8) A közös jogkezelést végző szervezet a (6) és a (7) bekezdésben foglaltak szerint a felhasználó vagy a felhasználói érdek-képviseleti szervezet megkeresésének beérkezését követően haladéktalanul nyilatkozik, és a nyilatkozatot a megkereső felhasználónak, illetve érdek-képviseleti szervezetnek, továbbá a kultúráért felelős miniszternek megküldi. A kultúráért felelős miniszter a felügyelet körében ellenőrzi, hogy a közös jogkezelő szervezet nyilatkozata a valóságnak megfelel-e.
+(8) A közös jogkezelést végző szervezet a (6) és a (7) bekezdésben foglaltak szerint a felhasználó vagy a felhasználói érdek-képviseleti szervezet megkeresésének beérkezését követően haladéktalanul nyilatkozik, és a nyilatkozatot a megkereső felhasználónak, illetve érdek-képviseleti szervezetnek, továbbá a Szellemi Tulajdon Nemzeti Hivatalának megküldi. A Szellemi Tulajdon Nemzeti Hivatala a felügyelet körében ellenőrzi, hogy a közös jogkezelő szervezet nyilatkozata a valóságnak megfelel-e.
 
-(9) A kultúráért felelős miniszter a díjszabást akkor hagyja jóvá, ha az a szerzői jogi szabályokkal összhangban áll. A miniszter a jóváhagyásról a (4) bekezdésben meghatározott határidő lejártát követő harminc napon belül határozattal dönt. A határozat ellen fellebbezésnek helye nincs, az a közléssel emelkedik jogerőre.
+(9) Az igazságügyért felelős miniszter a díjszabást akkor hagyja jóvá, ha az a szerzői jogi szabályokkal összhangban áll. Az igazságügyért felelős miniszter a jóváhagyásról a (4) bekezdésben meghatározott határidő lejártát követő harminc napon belül határozattal dönt. A határozat ellen fellebbezésnek helye nincs, az a közléssel emelkedik jogerőre.
 
-(10) A díjszabást a közös jogkezelést végző szervezet a jóváhagyást követően a Hivatalos Értesítőben a saját nevében nyilvánosságra hozza. Ennek megtörténtéig az előző időszakra megállapított és jóváhagyott – a Hivatalos Értesítőben korábban nyilvánosságra hozott – díjszabást kell alkalmazni akkor is, ha az az időtartam, amelyre ez utóbbi díjszabást megállapították, időközben lejárt. A közös jogkezelő szervezet az előző időszakra megállapított és jóváhagyott díjszabásban tételesen meghatározott díjakat érvényesítheti a Központi Statisztikai Hivatal által az arra az időszakra megállapított fogyasztói árindexszel megemelt mértékben is. E szabályokat megfelelően alkalmazni kell abban az esetben is, ha a bíróság a 90/A. § alapján a kultúráért felelős miniszter jóváhagyó határozatát jogerős határozattal hatályon kívül helyezi.
+(10) A díjszabást a közös jogkezelést végző szervezet a jóváhagyást követően a Hivatalos Értesítőben a saját nevében nyilvánosságra hozza. Ennek megtörténtéig az előző időszakra megállapított és jóváhagyott – a Hivatalos Értesítőben korábban nyilvánosságra hozott – díjszabást kell alkalmazni akkor is, ha az az időtartam, amelyre ez utóbbi díjszabást megállapították, időközben lejárt. A közös jogkezelő szervezet az előző időszakra megállapított és jóváhagyott díjszabásban tételesen meghatározott díjakat érvényesítheti a Központi Statisztikai Hivatal által az arra az időszakra megállapított fogyasztói árindexszel megemelt mértékben is. E szabályokat megfelelően alkalmazni kell abban az esetben is, ha a bíróság a 90/A. § alapján az igazságügyért felelős miniszter jóváhagyó határozatát jogerős határozattal hatályon kívül helyezi.
 
 (11) A díjszabás alkalmazása során az egyenlő bánásmód követelményét meg kell tartani.
 
 (12) Az (1)–(12) bekezdések szerinti eljárásban a közigazgatási hatósági eljárás általános szabályairól szóló törvény nem alkalmazható.
 
-90/A. § (1) A kultúráért felelős miniszter jóváhagyásról szóló határozatának felülvizsgálatát a díjszabás véleményezésére jogosult bármely szervezet és az érintett közös jogkezelő szervezet jogszabálysértésre hivatkozással a Fővárosi Bíróságtól kérheti, amely a kérelmet közigazgatási nemperes eljárás szabályai alapján bírálja el. A nemperes eljárásban a Polgári perrendtartásról szóló 1952. évi III. törvény 332. §-ának (3) és (4) bekezdése nem alkalmazható. Ha a bíróság a határozatot hatályon kívül helyezi és a minisztert új eljárásra utasítja, az új eljárásban hozott határozat alapján fizetendő díj és a megsemmisített határozat alapján fizetendő díj közötti különbözettel el kell számolni.
+90/A. § (1) Az igazságügyért felelős miniszter jóváhagyásról szóló határozatának felülvizsgálatát a díjszabás véleményezésére jogosult bármely szervezet és az érintett közös jogkezelő szervezet jogszabálysértésre hivatkozással a Fővárosi Bíróságtól kérheti, amely a kérelmet közigazgatási nemperes eljárás szabályai alapján bírálja el. A nemperes eljárásban a Polgári perrendtartásról szóló 1952. évi III. törvény 332. §-ának (3) és (4) bekezdése nem alkalmazható. Ha a bíróság a határozatot hatályon kívül helyezi és az igazságügyért felelős minisztert új eljárásra utasítja, az új eljárásban hozott határozat alapján fizetendő díj és a megsemmisített határozat alapján fizetendő díj közötti különbözettel el kell számolni.
 
 (2) A határozat megtámadása esetén a bíróság azt a kérelmezőt, aki a határozattal érintett díjszabás alapján díjfizetésre lenne kötelezett, biztosíték adására kötelezi. A biztosíték összege megegyezik a megtámadott határozattal jóváhagyott díjszabás alapján fizetendő díj mértékével, illetve annak vitatott vagy még meg nem fizetett részével.
 
@@ -1011,9 +1011,9 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 ### A közös jogkezelés felügyelete
 
-93. § (1) A közös jogkezelési tevékenység felett – az egyesülési jogról szóló 1989. évi II. törvény 17. §-ával összhangban – gyakorolt felügyelet körében a kultúráért felelős miniszter évente, illetve szükség esetén ellenőrzi, hogy a nyilvántartásba vétel feltételei a jogkezelő szervezetnél folyamatosan megvalósulnak-e, továbbá, hogy az alapszabály, a felosztási szabályzat és más belső szabályzat rendelkezései nem ütköznek-e a szerzői jogi jogszabályokba.
+93. § (1) A közös jogkezelési tevékenység felett – az egyesülési jogról szóló 1989. évi II. törvény 17. §-ával összhangban – gyakorolt felügyelet körében a Szellemi Tulajdon Nemzeti Hivatala évente, illetve szükség esetén ellenőrzi, hogy a nyilvántartásba vétel feltételei a jogkezelő szervezetnél folyamatosan megvalósulnak-e, továbbá, hogy az alapszabály, a felosztási szabályzat és más belső szabályzat rendelkezései nem ütköznek-e a szerzői jogi jogszabályokba.
 
-(2) A közös jogkezelést végző – a 86–89. §-ok alapján nyilvántartásba vett – szervezet a felügyelet ellátásához megküldi a kultúráért felelős miniszternek
+(2) A közös jogkezelést végző – a 86–89. §-ok alapján nyilvántartásba vett – szervezet a felügyelet ellátásához megküldi a Szellemi Tulajdon Nemzeti Hivatalának
 
 - a) az alapszabályát;
 - b) a szervezeti és működési szabályzatát;
@@ -1022,13 +1022,19 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 - e) az éves beszámolóját;
 - f) a külföldi közös jogkezelő szervezetekkel kötött képviseleti szerződéseit.
 
-(3) A kultúráért felelős miniszter a felügyelet körében – ha a nyilvántartásba vételhez szükséges feltételek hiányát vagy az (1) bekezdésben említett jogszabályok megsértését észleli – megteszi a következő intézkedéseket:
+(3) A Szellemi Tulajdon Nemzeti Hivatala a felügyelet körében – ha a nyilvántartásba vételhez szükséges feltételek hiányát vagy az (1) bekezdésben említett jogszabályok megsértését észleli – megteszi a következő intézkedéseket:
 
 - a) írásban figyelmezteti a közös jogkezelő szervezet ügyintéző és képviseleti szervét a nyilvántartásba vétel feltételeinek, illetve a szerzői jogi jogszabályoknak megfelelő működés helyreállítására, és erre megfelelő határidőt tűz;
 - b) megkeresi az ügyészséget a szervezet törvényességi felügyelete körében meghozható intézkedések megtétele céljából;
 - c) ha az a) pontban említett határidő eredménytelenül telt el, vagy a törvényességi felügyeleti intézkedés nem jár eredménnyel, illetve nem várható tőle eredmény, törli a közös jogkezelést végző szervezetet a nyilvántartásból, és ezt a Hivatalos Értesítőben közzéteszi. A törlésre a 89/A. § szabályai alkalmazandók.
 
-(4) A kultúráért felelős miniszter a (2) bekezdésben felsoroltakat rendszeres időközönként, de legalább évente megküldi az igazságügyért felelős miniszternek és a Magyar Szabadalmi Hivatal elnökének a szellemi tulajdon védelmével összefüggő feladatai ellátásához szükséges tájékoztatás céljából.
+(4) Ha az igazságügyért felelős miniszter a közös jogkezelő szervezetek díjszabásaival kapcsolatos feladata körében az (1) bekezdésben meghatározott jogszabályok megsértését észleli, a Szellemi Tulajdon Nemzeti Hivatalánál felügyeleti intézkedést kezdeményez.
+
+(5) A Szellemi Tulajdon Nemzeti Hivatala a (2) bekezdésben meghatározott dokumentumokat rendszeres időközönként, de legalább évente megküldi az igazságügyért felelős miniszternek a szellemi tulajdon védelmével összefüggő feladatai ellátásához szükséges tájékoztatás céljából, továbbá a kultúráért felelős miniszternek a kultúrával kapcsolatos feladatai ellátásához szükséges tájékoztatás céljából.
+
+(6) A Szellemi Tulajdon Nemzeti Hivatalának a közös jogkezelő szervezetekkel kapcsolatos tevékenységével összefüggésben felmerült költségek fedezése érdekében a közös jogkezelő szervezetek a Szellemi Tulajdon Nemzeti Hivatala javára évente felügyeleti díjat kötelesek fizetni.
+
+(7) A felügyeleti díj mértéke a közös jogkezelő szervezet által adott felhasználási engedélyek díjából és az általa érvényesített díjigényekből származó előző évi nettó bevétel 0,3%-a. A felügyeleti díjat a második naptári negyedév utolsó napjáig kell megfizetni. Új közös jogkezelő szervezet nyilvántartásba vétele esetén a nyilvántartásba vétel évében a felügyeleti díj mértéke a tárgyévre jóváhagyott díjszabás alapján vagy egyébként tervezett nettó bevétel 0,3%-a. Ebben ez esetben a felügyeleti díjat a tárgyévet követő második naptári negyedév utolsó napjáig kell megfizetni.
 
 ### XIII. Fejezet — A SZERZŐI JOG MEGSÉRTÉSÉNEK KÖVETKEZMÉNYEI
 
@@ -1106,7 +1112,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 94/B. § (1) Az ellenkező bizonyításáig azt kell szerzőnek tekinteni, akinek a nevét ilyenként a művön a szokásos módon feltüntették.
 
-(2) Ha az (1) bekezdés nem alkalmazható, az ellenkező bizonyításáig azt kell szerzőnek tekinteni, aki a művet sajátjaként a Magyar Szabadalmi Hivatalnál önkéntes műnyilvántartásba vetette és ezt közokirattal igazolja. A mű nyilvántartásba vételéért igazgatási szolgáltatási díjat kell fizetni.
+(2) Ha az (1) bekezdés nem alkalmazható, az ellenkező bizonyításáig azt kell szerzőnek tekinteni, aki a művet sajátjaként a Szellemi Tulajdon Nemzeti Hivatalánál önkéntes műnyilvántartásba vetette és ezt közokirattal igazolja. A mű nyilvántartásba vételéért igazgatási szolgáltatási díjat kell fizetni.
 
 (3) Ha a (2) bekezdés sem alkalmazható, az ellenkező bizonyításáig azt kell szerzőnek tekinteni, aki ezt közös jogkezelő szervezet által a közös jogkezelés alá tartozó művekről, szomszédos jogi teljesítményekről, illetve jogosultakról fenntartott adatbázis [88. § (1) bek. f) 2. pont] alapján kiállított teljes bizonyító erejű magánokirattal igazolja. Ilyen magánokiratot a közös jogkezelő szervezet önként vállalt szolgáltatásként – alapszabályával összhangban – saját tagja számára, a tag kérésére állíthat ki.
 
@@ -1162,13 +1168,13 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (4) A közös jogkezelő szervezet a járulék címén befolyt összeget külön köteles kezelni és nyilvántartani.
 
-(5) A közös jogkezelő szervezet a járulék összegéről, annak felhasználásáról a nyilvánosságot évente, a kultúráért felelős miniszter irányítása alatt működő minisztérium hivatalos lapja útján tájékoztatja.
+(5) A közös jogkezelő szervezet a járulék összegéről, annak felhasználásáról a nyilvánosságot évente, a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapja útján tájékoztatja.
 
 ### XV. Fejezet — A SZERZŐI JOGI JOGVITÁK RENDEZÉSÉBEN KÖZREMŰKÖDŐ SZERVEZETEK
 
 ### Szerzői jogi szakértő testület
 
-101. § (1) Szerzői jogi jogvitás ügyben felmerülő szakkérdésekben a bíróságok és más hatóságok szakvéleményt kérhetnek a Magyar Szabadalmi Hivatal mellett működő szakértő testülettől. A testület tagjait az igazságügyért felelős miniszter a kultúráért felelős miniszterrel egyetértésben ötéves időtartamra nevezi ki.
+101. § (1) Szerzői jogi jogvitás ügyben felmerülő szakkérdésekben a bíróságok és más hatóságok szakvéleményt kérhetnek a Szellemi Tulajdon Nemzeti Hivatala mellett működő szakértő testülettől. A testület tagjait az igazságügyért felelős miniszter a kultúráért felelős miniszterrel egyetértésben ötéves időtartamra nevezi ki.
 
 (2) A testület szakvéleményét három- vagy öttagú tanácsban, szótöbbséggel alakítja ki.
 
@@ -1200,7 +1206,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 105. § (1) Az egyeztető testület eljárása során a feleket egyenlő elbánásban kell részesíteni, és mindegyik félnek meg kell adni a lehetőséget, hogy álláspontját előadhassa. Az egyeztető testület a feleket az eljárásban való részvételre, eljárási cselekmények lefolytatására nem kötelezheti, kivéve, ha a felek ebben megállapodnak. Egyebekben az egyeztető testület – a (2) bekezdésben említett szabályzat keretein belül – az eljárási szabályait, valamint a díjszabását maga állapítja meg.
 
-(2) Az egyeztető testület eljárási szabályzatát a szerzői jogi szakértő testület dolgozza ki, és az igazságügyért felelős miniszter hagyja jóvá. A jóváhagyást megelőzően be kell szerezni a Magyar Szabadalmi Hivatal felügyeletét ellátó miniszternek, valamint a kultúráért, továbbá az informatikáért felelős miniszternek a véleményét.
+(2) Az egyeztető testület eljárási szabályzatát a szerzői jogi szakértő testület dolgozza ki, és az igazságügyért felelős miniszter hagyja jóvá. A jóváhagyást megelőzően be kell szerezni a Szellemi Tulajdon Nemzeti Hivatala felügyeletét ellátó miniszternek, valamint a kultúráért felelős miniszternek a véleményét.
 
 105/A. § (1) Ha a szabad felhasználás kedvezményezettje és a jogosult között nem jön létre megállapodás arról, hogy a szabad felhasználást a műszaki intézkedések megkerülésével szemben biztosított védelem (95. §) ellenére milyen feltételekkel teszik lehetővé (95/A. §), a felek bármelyike az egyeztető testülethez fordulhat.
 
@@ -1276,6 +1282,8 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 109. § A 31. § (6) bekezdésében foglalt rendelkezést akkor kell alkalmazni, ha az nem eredményezi a korábban hatályos rendelkezés szerint számított védelmi idő megrövidülését. A 31. § (6) bekezdésében foglalt rendelkezést alkalmazni kell az olyan filmalkotásra is, amelynek védelmi ideje e törvény hatálybalépésekor már eltelt. A 108. § (3)–(9) bekezdéseiben foglalt szabályok ilyen esetben is értelemszerűen irányadók, azzal, hogy az 1994. évi VII. törvény hatálybalépése helyett e törvény hatálybalépését kell érteni.
 
+109/A. § E törvénynek a Magyar Köztársaság minisztériumainak felsorolásáról szóló 2010. évi XLII. törvénnyel összefüggésben szükséges törvénymódosításokról és egyes iparjogvédelmi tárgyú törvények módosításáról szóló 2010. évi CXLVIII. törvénnyel megállapított 90. § (2) és (4) bekezdését, valamint 93. § (4)–(6) bekezdését a 2011. január 1-jét követően indult díjszabás-jóváhagyási eljárásokban kell alkalmazni.
+
 110. §
 
 111. §
@@ -1292,10 +1300,10 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
-- a) a Magyar Szabadalmi Hivatal elnöke véleményének kikérésével, a kultúráért felelős miniszterrel egyetértésben a Magyar Szabadalmi Hivatal által vezetett önkéntes műnyilvántartásra vonatkozó részletes szabályokat, valamint
-- b) a Magyar Szabadalmi Hivatal elnöke véleményének kikérésével, az adópolitikáért felelős miniszterrel, a kultúráért felelős miniszterrel és a Magyar Szabadalmi Hivatal felett felügyeletet gyakorló miniszterrel egyetértésben az önkéntes műnyilvántartással összefüggő eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, beszedésének és visszatérítésének módját rendelettel megállapítsa.
+- a) a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével, a kultúráért felelős miniszterrel egyetértésben a Szellemi Tulajdon Nemzeti Hivatala által vezetett önkéntes műnyilvántartásra vonatkozó részletes szabályokat, valamint
+- b) a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével, az adópolitikáért felelős miniszterrel, a kultúráért felelős miniszterrel és a Szellemi Tulajdon Nemzeti Hivatala felett felügyeletet gyakorló miniszterrel egyetértésben az önkéntes műnyilvántartással összefüggő eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, beszedésének és visszatérítésének módját rendelettel megállapítsa.
 
-(6) Felhatalmazást kap a kultúráért felelős miniszter, hogy – a Magyar Szabadalmi Hivatal elnöke véleményének kikérésével, az igazságügyért felelős miniszterrel egyetértésben – a szerzői és a szomszédos jogok közös kezelését végző szervezetekről vezetett nyilvántartásra vonatkozó részletes szabályokat rendelettel megállapítsa.
+(6) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével – a szerzői és a szomszédos jogok közös kezelését végző szervezetekről vezetett nyilvántartásra vonatkozó részletes szabályokat, valamint a közös jogkezelő szervezetek felügyeleti díjának kezelésére, nyilvántartására, felhasználására, megfizetése módjára, továbbá a díjmérték kiszámításának módjára és a megfizetés elmulasztásának jogkövetkezményeire vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 (7) Felhatalmazást kap a kultúráért felelős miniszter, hogy – az igazságügyért felelős miniszterrel egyetértésben – az e törvény 23/A. §-ának (4) bekezdése alapján a nyilvános haszonkölcsönzésért a szerzőt megillető díj megállapításához és felosztásához szükséges adatok, valamint az adatszolgáltatásra kötelezett nyilvános könyvtárak körét rendelettel megállapítsa.
 

@@ -75,9 +75,9 @@ megfelelő összeg.
 
 (2) Az a képviselő, akinek lakóhelye nyilatkozata szerint nem egyéni választókerületében vagy abban a megyében van, ahol területi listán megválasztották, ugyancsak jogosult az (1) bekezdés szerinti mértékű lakhatási támogatásra.
 
-5. § (1) A pártok képviselőcsoportja a működésükkel járó kiadásokra havonta képviselőcsoportonként huszonöt képviselő alapdíjának, valamint – képviselőnként – kormánypárt esetében az alapdíj 30%-ának megfelelő, ellenzéki párt esetében az alapdíj 60%-ának megfelelő összeget jogosultak igénybe venni az Országgyűlés hivatali szervezete költségvetéséből.
+5. § (1) A pártok képviselőcsoportjai a működésükkel járó kiadásokra havonta képviselőcsoportonként huszonöt képviselő alapdíjának, valamint – képviselőnként – kormánypárt esetében az alapdíj 55%-ának megfelelő, ellenzéki párt esetében az alapdíj 85%-ának megfelelő összeget jogosultak igénybe venni az Országgyűlés hivatali szervezete költségvetéséből.
 
-(2) A független képviselő munkájának segítéséhez az alapdíja 75%-ának igénybevételére jogosult.
+(2) A független képviselő munkájának segítéséhez az alapdíja 100%-ának igénybevételére jogosult.
 
 5/A. § (1) A képviselőt az e törvény 1–5. §-a alapján megillető javadalmának kifizetése az általa meghatározott bankszámlára történő átutalással, bankszámla hiányában postai úton történik.
 
@@ -92,7 +92,11 @@ megfelelő összeg.
 - a) 20%-a után főtanácsadói,
 - b) 20%-a után tanácsadói,
 - c) 30%-a után az I. besorolási osztály 9. fokozata,
-- d) 30%-a után a II. besorolási osztály 10. fizetési fokozata szerinti, illetménykiegészítéssel növelt és a töredékszámításokat is figyelembe vevő illetménykeretre jogosultak. Az illetménykeret terhére megbízási jogviszony is létesíthető. A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényben meghatározott cafetéria-juttatások fedezetét a köztisztviselői illetményalap hétszereséig az Országgyűlés hivatali szervezetének költségvetéséből kell biztosítani. Ezen túlmenően a hivatali szerv döntési jogkörébe tartozó cafeteria- és egyéb juttatásokra, valamint jutalmazásra a képviselőcsoportok a megállapított éves bérkeretük 10%-ának megfelelő fedezetre jogosultak, amelynek terhére azonban köztisztviselő nem alkalmazható.
+- d) 30%-a után a II. besorolási osztály 10. fizetési fokozata
+
+szerinti, illetménykiegészítéssel növelt és a töredékszámításokat is figyelembe vevő illetménykeretre jogosultak. Az illetménykeret terhére megbízási jogviszony is létesíthető.
+
+A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényben meghatározott cafetéria-juttatások fedezetére bruttó kettőszázezer forintot az Országgyűlés hivatali szervezetének költségvetéséből kell biztosítani. Ezen túlmenően a hivatali szerv döntési jogkörébe tartozó egyéb juttatásokra, valamint jutalmazásra a képviselőcsoportok a megállapított éves bérkeretük 10%-ának megfelelő fedezetre jogosultak, amelynek terhére azonban köztisztviselő nem alkalmazható.
 
 (3) Az Európai Unióhoz történő csatlakozással összefüggő feladatok céljából a (2) bekezdésen túl, de az ott meghatározott módon és mértékig minden képviselőcsoport további két köztisztviselőre tarthat igényt, valamint minden ötvenedik tagja után további egy köztisztviselő alkalmazására jogosult. Az alkalmazás pénzügyi feltételeit (illetmény, költségtérítések) az Országgyűlés hivatali szervezete költségvetéséből kell biztosítani a (2) bekezdés a)–d) pontja szerinti illetményszámítás, illetve a (2) bekezdés szerint megállapított juttatások figyelembevételével.
 
@@ -108,11 +112,21 @@ megfelelő összeg.
 
 6/A. § A képviselőcsoport és a független képviselő által az 5. § (1)–(2) bekezdésében, valamint a 6. § (1) bekezdésében meghatározott keret terhére vásárolt tárgyi eszközök az Országgyűlés hivatali szervezete tulajdonát képezik, a képviselőcsoport és a független képviselő azonban azokat mindaddig birtokolhatja, amíg pártja országgyűlési képviselőcsoporttal, illetőleg a független képviselő mandátummal rendelkezik.
 
+6/B. § (1) A pártok képviselőcsoportjai az 5. § (1) bekezdésében meghatározott keret, valamint a 6. § (1) bekezdésében meghatározott keret között év közben átcsoportosítást hajthatnak végre.
+
+(2) A pártok képviselőcsoportjai a 6. § (2)–(4) bekezdésében meghatározott keretből az 5. § (1) bekezdésében, illetve a 6. § (1) bekezdésében meghatározott keretre – a 6. § (4) bekezdésében meghatározott keret tekintetében a képviselő egyetértésével – év közben átcsoportosítást hajthatnak végre.
+
+(3) A (2) bekezdésben meghatározott átcsoportosítások során a munkáltatót terhelő járulékok összegét is figyelembe kell venni.
+
+(4) A pártok képviselőcsoportjai havonta, tárgyhónapot megelőző hónap 20-ig tájékoztatják az Országgyűlés Hivatalát a tárgyhónapra vonatkozó, az (1)–(2) bekezdésben felsorolt átcsoportosításokról.
+
+(5) A független képviselő esetében az (1)–(4) bekezdésben foglalt szabályokat megfelelően alkalmazni kell.
+
 7. § (1) A képviselők számára az Országgyűlés hivatali szervezete egészségügyi szolgálatról gondoskodik.
 
 (2)
 
-8. § A miniszterelnöki, miniszteri tisztséget betöltő vagy államtitkár képviselő kizárólag az 1. § (2) bekezdésében meghatározott alapdíj 100%-ára jogosult. Az a kormánybiztos vagy miniszterelnöki megbízott képviselő, aki – nyilatkozata szerint – költségtérítésben (költség átalányban) részesül, ennek összegével csökkentett mértékű választókerületi pótlékra jogosult.
+8. § A miniszterelnöki, miniszteri tisztséget betöltő, államtitkár vagy kormánymegbízott képviselő kizárólag az 1. § (2) bekezdésében meghatározott alapdíj 100%-ára jogosult. Az a kormánybiztos vagy miniszterelnöki megbízott képviselő, aki – nyilatkozata szerint – költségtérítésben (költség átalányban) részesül, ennek összegével csökkentett mértékű választókerületi pótlékra jogosult.
 
 9. § (1) Ha a képviselő megbízatása az Országgyűlés működésének befejezésével szűnik meg, a volt képviselő – újraválasztásának esetét kivéve – további hat hónapon keresztül az alapdíjának és pótdíjának a megbízatása megszűnését megelőző hat havi átlagának megfelelő összegű ellátásra jogosult. Az erre az időre folyósított díjazás időtartama is munkaviszonyban töltött időnek számít.
 

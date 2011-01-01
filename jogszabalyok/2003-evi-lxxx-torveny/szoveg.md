@@ -224,7 +224,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 ### A kérelem elbírálásának határideje
 
-23. § (1) A jogi segítségnyújtó szolgálat a kérelemről – ha a támogatás igénybevételének feltételei annak alapján megállapíthatók – a kérelem személyesen történő benyújtásakor lehetőség szerint azonnal, de legkésőbb 3 munkanapon belül, az írásban benyújtott kérelem alapján pedig 10 munkanapon belül dönt.
+23. § (1) A jogi segítségnyújtó szolgálat a kérelemről – ha a támogatás igénybevételének feltételei annak alapján megállapíthatók – a kérelem személyesen történő benyújtásakor lehetőség szerint azonnal, de legkésőbb öt napon belül, az írásban benyújtott kérelem alapján pedig tizenöt napon belül dönt.
 
 (2) A támogatás engedélyezése iránti ügyben az ügy érdemében hozott döntésnek minősül:
 
@@ -236,7 +236,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 ### Adatváltozás bejelentése
 
-24. § A fél a támogatás engedélyezése során vizsgált adataiban bekövetkezett változásokat a jogi segítségnyújtó szolgálat támogatás engedélyezése tárgyában hozott határozatának kézhezvételéig köteles a jogi segítségnyújtó szolgálatnak 3 munkanapon belül bejelenteni.
+24. § A fél a támogatás engedélyezése során vizsgált adataiban bekövetkezett változásokat a jogi segítségnyújtó szolgálat támogatás engedélyezése tárgyában hozott határozatának kézhezvételéig köteles a jogi segítségnyújtó szolgálatnak öt napon belül bejelenteni.
 
 ### A kérelemben foglaltak valódiságának ellenőrzése
 
@@ -405,7 +405,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - a) a kért támogatást,
 - b) a pert lefolytató bíróságot és annak a pernek a tárgyát és az ügyszámát, amelynek lefolytatásához a támogatást kéri; ha pedig a per még nem indult meg, az ellenfél nevét, lakóhelyét (székhelyét), a jogvita tárgyát és az eljárás lefolytatására illetékes bíróságot.
 
-54. § A fél adatváltozás-bejelentési kötelezettsége a per jogerős befejezésig áll fenn, ezt követően pedig a támogatás visszatérítésére köteles fél a lakóhelyében, tartózkodási helyében, szálláshelyében és munkavégzésének helyében bekövetkezett változást köteles 3 munkanapon belül bejelenteni a visszatérítési kötelezettségének fennállásáig.
+54. § A fél adatváltozás-bejelentési kötelezettsége a per jogerős befejezésig áll fenn, ezt követően pedig a támogatás visszatérítésére köteles fél a lakóhelyében, tartózkodási helyében, szálláshelyében és munkavégzésének helyében bekövetkezett változást köteles öt napon belül bejelenteni a visszatérítési kötelezettségének fennállásáig.
 
 ### A támogatást engedélyező határozat
 
@@ -546,7 +546,7 @@ tart.
 - g) névjegyzékbe való felvételéről szóló határozat számát,
 - h) szolgáltatási szerződése lejáratának időpontját.
 
-(2) A jogi segítő a névjegyzékben szerepelő adataiban bekövetkezett változásokról a jogi segítségnyújtó szolgálatot 5 munkanapon belül köteles értesíteni.
+(2) A jogi segítő a névjegyzékben szerepelő adataiban bekövetkezett változásokról a jogi segítségnyújtó szolgálatot nyolc napon belül köteles értesíteni.
 
 66. § (1) A névjegyzékbe felvételre kerül a jogi segítségnyújtó szolgálattal jogi segítői feladatok ellátására szolgáltatási szerződést kötő
 
@@ -627,7 +627,7 @@ tart.
 
 71/A. § (1) A névjegyzékbe vétel iránti kérelmet írásban a jogi segítségnyújtó szolgálatnál lehet előterjeszteni.
 
-(2) A 66. §-ban foglalt feltételeknek megfelelő kérelmező részére a jogi segítségnyújtó szolgálat 22 munkanapon belül aláírás céljából megküldi a szolgáltatási szerződés tervezetét. Ha a visszaküldött szerződés valamennyi szükséges adatot tartalmazza, a jogi segítségnyújtó szolgálat annak aláírását követő 10 munkanapon belül felveszi a kérelmezőt a névjegyzékbe. A névjegyékbe vételről külön határozatot nem kell hozni, arról az aláírt szerződés egyik példányának visszaküldésével és a névjegyzékbe vétel időpontjának megjelölésével értesíti a jogi segítségnyújtó szolgálat a jogi segítőt.
+(2) A 66. §-ban foglalt feltételeknek megfelelő kérelmező részére a jogi segítségnyújtó szolgálat harminc napon belül aláírás céljából megküldi a szolgáltatási szerződés tervezetét. Ha a visszaküldött szerződés valamennyi szükséges adatot tartalmazza, a jogi segítségnyújtó szolgálat annak aláírását követő tizenöt napon belül felveszi a kérelmezőt a névjegyzékbe. A névjegyékbe vételről külön határozatot nem kell hozni, arról az aláírt szerződés egyik példányának visszaküldésével és a névjegyzékbe vétel időpontjának megjelölésével értesíti a jogi segítségnyújtó szolgálat a jogi segítőt.
 
 (3) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérve, ha a jogi segítségnyújtó szolgálat a rá irányadó ügyintézési határidőn belül nem hozott határozatot, a kérelmezőt nem illeti meg a jogi segítői tevékenység megkezdésének, illetve folytatásának joga, és a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a hatóság mulasztására vonatkozó általános szabályait kell alkalmazni.
 

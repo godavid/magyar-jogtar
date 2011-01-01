@@ -175,7 +175,7 @@ A 2009. évtől kezdődő két európai parlamenti ciklus időtartama alatti ké
 
 (6) A képviselőcsoportok munkáját segítő köztisztviselők alkalmazásának pénzügyi feltételeit (illetmény, költségtérítések) az Országgyűlés hivatali szervezete költségvetéséből kell biztosítani. Minden képviselőcsoport egy köztisztviselőre tarthat igényt.
 
-(7)
+(7) A képviselő – a 16. § (1) és (2) bekezdése szerinti jogainak gyakorlása során – a magyar jelnyelvet, illetőleg az általa választott speciális kommunikációs rendszert használhatja. A magyar jelnyelv, valamint a választott speciális kommunikációs rendszer használatának valamennyi költségét az Országgyűlés biztosítja.
 
 ### Az európai parlamenti képviselők egyéb jogai és kötelezettségei
 

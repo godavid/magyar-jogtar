@@ -6,9 +6,9 @@ Az Országgyűlés a közterületek rendjének és tisztaságának védelme, val
 
 ### I. Fejezet — A közterület-felügyelet jogállása, szervezete és feladata
 
-1. § (1) A közterületi rend és tisztaság védelméről a települési önkormányzat közterület-felügyelet, illetőleg közterület-felügyelő útján gondoskodhat.
+1. § (1) A közterületi rend és tisztaság védelméről, a tömegközlekedési eszközök használati rendjének fenntartásáról, az önkormányzati vagyon védelméről a települési önkormányzat közterület-felügyelet, illetőleg közterület-felügyelő útján gondoskodhat.
 
-(2) Közterület-felügyeletet a községi, a városi képviselő-testület, a megyei jogú városi közgyűlés, a fővárosban – a helyi önkormányzatokról szóló törvény keretei között – a fővárosi kerületi képviselő-testület és a közgyűlés (a továbbiakban együtt: képviselő-testület) hozhat létre a polgármesteri (főpolgármesteri) hivatal belső szervezeti egységeként vagy önálló költségvetési szervként közterület-felügyelet elnevezéssel. Közterület-felügyeletet több önkormányzat társulásos formában is működtethet.
+(2) Közterület-felügyeletet a községi, a városi képviselő-testület, a megyei jogú városi közgyűlés, a fővárosban – a helyi önkormányzatokról szóló törvény keretei között – a fővárosi kerületi képviselő-testület és a közgyűlés (a továbbiakban együtt: képviselő-testület) hozhat létre a polgármesteri (főpolgármesteri) hivatal belső szervezeti egységeként, önálló költségvetési szervként vagy költségvetési szerv belső szervezeti egységeként. Közterület-felügyeletet több önkormányzat társulásos formában is működtethet.
 
 (3) A közterület-felügyelet (a továbbiakban: felügyelet) feladatait a polgármesteri, a főpolgármesteri (a továbbiakban: polgármesteri) hivatalban alkalmazott egy vagy több közterület-felügyelő (a továbbiakban: felügyelő) is elláthatja.
 
@@ -38,7 +38,7 @@ Az Országgyűlés a közterületek rendjének és tisztaságának védelme, val
 
 ### Általános szabályok
 
-3. § A felügyelő a feladatait az önkormányzat illetékességi területén közterületen látja el.
+3. § A felügyelő feladatait az önkormányzat illetékességi területén lévő közterületen, az önkormányzat intézményeinek, gazdasági szervezeteinek területén, valamint az önkormányzat tömegközlekedési feladatának ellátása során üzemeltetett tömegközlekedési eszköz szerződésszerű használatának ellenőrzése során látja el.
 
 4. § (1) A felügyelő a feladatát járőrszolgálat vagy őrszolgálat keretében országosan egységes egyenruhában teljesíti.
 
@@ -76,7 +76,7 @@ használható fel.
 (7) A felügyelet
 
 - a) a (2) bekezdés alapján rögzített felvételt a rögzítést követő harminc nap elteltével,
-- b) a (3) bekezdés alapján rögzített felvételt a rögzítést követő öt munkanap elteltével
+- b) a (3) bekezdés alapján rögzített felvételt a rögzítést követő nyolc nap elteltével
 
 haladéktalanul törli.
 
@@ -121,11 +121,11 @@ haladéktalanul törli.
 
 12. § A felügyelet feladatkörébe tartozó szabálysértési és közigazgatási hatósági eljárásokkal összefüggő személyes adatok kezelésére a külön törvények rendelkezései az irányadók.
 
-13. § (1) A felügyelő részére a hatósági szolgálati igazolványt, valamint a felügyelői jelvényt a miniszter a jegyző, illetve az önálló költségvetési szervként alapított felügyelet vezetőjének kezdeményezésére az okmányiroda útján, hivatalból állítja ki.
+13. § (1) A felügyelő részére a hatósági szolgálati igazolványt, valamint a felügyelői jelvényt a miniszter a jegyző, valamint az önálló költségvetési szervként vagy költségvetési szerv belső szervezeti egységeként létrehozott felügyelet esetén a költségvetési szerv vezetője kezdeményezésére az okmányiroda útján, hivatalból állítja ki.
 
-(2) A jegyző, illetve az önálló költségvetési szervként alapított felügyelet vezetője haladéktalanul értesíti a minisztert arról, ha a felügyelő hatósági szolgálati igazolványának visszavonására okot adó körülmény bekövetkezett.
+(2) A jegyző, valamint az önálló költségvetési szervként vagy költségvetési szerv belső szervezeti egységeként létrehozott felügyelet esetén a költségvetési szerv vezetője haladéktalanul értesíti a minisztert arról, ha a felügyelő hatósági szolgálati igazolványának visszavonására okot adó körülmény bekövetkezett.
 
-(3) A miniszter haladéktalanul, de legkésőbb a tudomásra jutástól számított tíz munkanapon belül a hatósági szolgálati igazolványt határozattal visszavonja, ha
+(3) A miniszter haladéktalanul, de legkésőbb a tudomásra jutástól számított tizenöt napon belül a hatósági szolgálati igazolványt határozattal visszavonja, ha
 
 - a) a felügyelő közszolgálati jogviszonya megszűnt,
 - b) a hatósági szolgálati igazolványban szereplő adatok megváltoztak.
@@ -171,7 +171,7 @@ haladéktalanul törli.
 
 (3) A (2) bekezdés szerinti értesítés elhelyezésétől számított 30 napot követően a felügyelő az érintett járművet elszállítással eltávolíthatja.
 
-(4) A felügyelet a jármű elszállításáról az intézkedéssel egyidejűleg értesíti a rendőrséget. A felügyelet az (1) bekezdés alapján elszállított jármű forgalmi rendszámát – tájékoztatás céljából – a felügyeletet működtető önkormányzat polgármesteri hivatalának honlapján közzéteszi. Az önálló költségvetési szervként alapított felügyelet az (1) bekezdés alapján elszállított jármű forgalmi rendszámát saját honlapján is közzéteszi.
+(4) A felügyelet a jármű elszállításáról az intézkedéssel egyidejűleg értesíti a rendőrséget. A felügyelet az (1) bekezdés alapján elszállított jármű forgalmi rendszámát – tájékoztatás céljából – a felügyeletet működtető önkormányzat polgármesteri hivatalának honlapján közzéteszi. Az önálló költségvetési szervként vagy költségvetési szerv belső szervezeti egységeként létrehozott felügyelet az (1) bekezdés alapján elszállított jármű forgalmi rendszámát a költségvetési szerv saját honlapján is közzéteszi.
 
 (5) Ha a tulajdonos (üzemben tartó) nem állapítható meg, vagy a felszólítás ellenére az elszállított járművet az elszállítástól számított hat hónapon belül nem veszi birtokba, a felügyelet a járművet értékesítheti vagy más módon hasznosíthatja. Ha az elszállított jármű tulajdonosa a jármű értékesítését követő hat hónapon belül jelentkezik, részére az értékesítésből befolyt, a tárolási költséggel csökkentett ellenértéket ki kell fizetni.
 
@@ -185,7 +185,7 @@ haladéktalanul törli.
 
 21. § A felügyelő a helyi közúton jogosult feltartóztatni a köztisztasági szabályokat megszegő, továbbá a táblával jelzett behajtási tilalmat vagy korlátozást megszegő járművet.
 
-22. § (1) A felügyelő a vagyonvédelmi feladatainak ellátása során – a képviselő-testület rendelkezésére – az önkormányzat tulajdonában, használatában lévő vagyont (épületet, építményt, járművet vagy más dolgot) véd, őriz, illetve közbiztonsági szempontból ellenőriz.
+22. § (1) A felügyelő a vagyonvédelmi feladatainak ellátása során – a képviselő-testület rendelkezésére – az önkormányzat tulajdonában, használatában lévő vagyont (épületet, építményt, tömegközlekedési eszközt, járművet vagy más dolgot) véd, őriz, illetve közbiztonsági szempontból ellenőriz.
 
 (2) A felügyelő az (1) bekezdésben meghatározott feladatainak ellátása során az önkormányzat tulajdonában, használatában lévő területet, épületet vagy építményt lezárhatja, az oda illetéktelenül belépni kívánó személyt igazoltathatja, belépését megakadályozhatja, valamint az illetéktelenül ott tartózkodókat igazoltathatja és eltávolíthatja.
 
@@ -197,9 +197,9 @@ haladéktalanul törli.
 
 (4) A panasz elbírálására irányuló eljárásban a cselekvőképtelen személy helyett törvényes képviselője jár el, korlátozottan cselekvőképes személy helyett törvényes képviselője vagy meghatalmazottja is eljárhat. A panasz meghatalmazott vagy jogi képviselő útján is előterjeszthető.
 
-(5) A rendőrséghez a panaszt a felügyelői intézkedéstől vagy annak elmulasztásától, ha pedig a panasz előterjesztője az őt ért jogsérelemről később szerzett tudomást, a tudomásszerzéstől számított öt munkanapon, de legkésőbb az intézkedéstől vagy annak elmulasztásától számított 3 hónapon belül lehet előterjeszteni.
+(5) A rendőrséghez a panaszt a felügyelői intézkedéstől vagy annak elmulasztásától, ha pedig a panasz előterjesztője az őt ért jogsérelemről később szerzett tudomást, a tudomásszerzéstől számított nyolc napon, de legkésőbb az intézkedéstől vagy annak elmulasztásától számított 3 hónapon belül lehet előterjeszteni.
 
-(6) A rendőrség a panaszról a beérkezéstől számított tíz munkanapon belül – a közigazgatási hatósági eljárás szabályai szerint – dönt.
+(6) A rendőrség a panaszról a megérkezését követő naptól számított tizenöt napon belül – a közigazgatási hatósági eljárás szabályai szerint – dönt.
 
 ### III. Fejezet — A felügyelő által használható kényszerítő eszközök
 
@@ -235,7 +235,8 @@ alkalmazhat.
 - a) közterület: a közhasználatra szolgáló minden olyan állami vagy önkormányzati tulajdonban álló terület, amelyet rendeltetésének megfelelően bárki használhat, ideértve a közterületnek közútként szolgáló és a magánterületnek a közforgalom számára a tulajdonos (használó) által megnyitott és kijelölt részét, továbbá az a magánterület, amelyet azonos feltételekkel bárki használhat;
 - b) közterületi rend: a közterület rendeltetésszerű használatára, igénybevételére vonatkozó jogszabályok megtartása;
 - c) feltartóztatás: a felügyelőnek az a tevékenysége, amelynek során azt a személyt, aki a személyazonosságának igazolását megtagadja, vagy az igazolásra történő felszólításnak nem engedelmeskedik, valamint a szabálysértés elkövetésén tetten ért személyt, illetőleg a feltartóztatott jármű vezetőjét az intézkedés idejére vagy a további intézkedés megtételéig a helyszín elhagyásában korlátozza, vagy a helyszín elhagyásában megakadályozza;
-- d) felügyelet alatt felügyelőt kell érteni azon a településen, ahol az 1. § (3) bekezdése szerint nem szerveztek felügyeletet és annak feladatait felügyelő látja el.
+- d) felügyelet alatt felügyelőt kell érteni azon a településen, ahol az 1. § (3) bekezdése szerint nem szerveztek felügyeletet és annak feladatait felügyelő látja el;
+- e) a felügyelet illetékességi területe: a fenntartó önkormányzat, társulás illetékességi területén lévő közterület, az önkormányzat intézményeinek, gazdasági szervezeteinek területe, az önkormányzat tulajdonában, használatában lévő, illetve tömegközlekedési feladatának ellátása során üzemeltetett vagyontárgy.
 
 28. § (1) A felügyelet részére megállapított államigazgatási feladatokat és hatásköröket e törvény hatálybalépésétől a felügyelő látja el.
 

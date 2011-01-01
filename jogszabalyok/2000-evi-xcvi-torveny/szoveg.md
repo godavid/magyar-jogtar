@@ -38,22 +38,22 @@ Az Országgyűlés a demokratikus közélet tisztaságának további előmozdít
 
 - a) az érintett önkormányzati képviselőnek,
 - b) a választási bizottságnak,
-- c) a közigazgatási hivatalnak.
+- c) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek.
 
 ### Összeférhetetlenség
 
 5. § Az önkormányzati képviselő nem lehet:
 
 - a) központi államigazgatási szerv köztisztviselője,
-- b) a közigazgatási hivatal vezetője, köztisztviselője, továbbá annak a területi, helyi államigazgatási szervnek a köztisztviselője, amelynek feladatkörébe az adott önkormányzatot érintő ügyek tartoznak és illetékessége az önkormányzatra kiterjed,
+- b) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek a vezetője, köztisztviselője, továbbá annak a területi, helyi államigazgatási szervnek a köztisztviselője, amelynek feladatkörébe az adott önkormányzatot érintő ügyek tartoznak és illetékessége az önkormányzatra kiterjed,
 - c) jegyző (főjegyző, körjegyző), aljegyző, továbbá ugyanannál az önkormányzatnál a képviselő-testület hivatalának köztisztviselője,
 - d) a területileg illetékes területfejlesztési tanács munkaszervezetének munkavállalója,
-- e)
+- e) a Pénzügyi Szervezetek Állami Felügyeletének köztisztviselője,
 - f) kuratóriumi tagság kivételével a képviselő-testület által létrehozott közalapítvány kezelő szervének tisztségviselője,
 - g) a képviselő-testület által alapított önkormányzati vállalat vezérigazgatója, vezérigazgató-helyettese, igazgatója, igazgatóhelyettese, igazgatótanácsának, vezető testületének tagja,
 - h) az önkormányzat tulajdoni részesedésével működő gazdasági társaság vezető tisztségviselője, igazgatótanácsának, igazgatóságának vagy vezető testületének, valamint a társasággal munkaviszonyban vagy munkavégzésre irányuló más jogviszonyban álló vezetője (vezérigazgatója),
 - i) az önkormányzat tulajdoni részesedésével működő gazdasági társaság által alapított gazdasági társaság vezérigazgatója, vezérigazgató-helyettese, igazgatója, igazgatóhelyettese, igazgatótanácsának, igazgatóságának vagy vezető testületének tagja,
-- j) helyi és körzeti műsorszolgáltató, lapkiadó, lapterjesztő vezetője, vezető testületének tagja, ügyvezetője, ezek vezető állású alkalmazottja.
+- j) helyi és körzeti médiaszolgáltató, lapkiadó, lapterjesztő vezetője, vezető testületének tagja, ügyvezetője, ezek vezető állású alkalmazottja.
 
 6. § Az önkormányzati képviselő tiszteletdíjat, más járandóságot – a költségtérítés kivételével – nem vehet fel az önkormányzat által létrehozott közalapítványban, közhasznú társaságban végzett tevékenységéért.
 
@@ -79,7 +79,7 @@ Az Országgyűlés a demokratikus közélet tisztaságának további előmozdít
 
 (2) A bíróság a kérelemről – annak beérkezésétől számított harminc napon belül – nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság az érintett önkormányzati képviselőt, a polgármestert vagy a keresettel megtámadott határozatot hozó képviselő-testület képviselőjét, illetőleg a kereset előterjesztőjét meghallgathatja. A bíróság döntése ellen további jogorvoslatnak, felülvizsgálatnak helye nincs.
 
-(3) A közigazgatási hivatal a fővárosi, megyei bíróságnál kezdeményezheti az önkormányzati képviselő összeférhetetlenségének a kimondását, ha a képviselő-testület nem dönt az összeférhetetlenségről, vagy döntése jogszabálysértő. A bíróság eljárására a (2) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a bíróság döntése ellen – annak kézhezvételétől számított nyolc napon belül – az érintett önkormányzati képviselő, illetve a közigazgatási hivatal fellebbezést nyújthat be. A fellebbezésről, annak beérkezésétől számított három napon belül a másodfokú bíróság nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság döntése ellen felülvizsgálatnak helye nincs.
+(3) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv a fővárosi, megyei bíróságnál kezdeményezheti az önkormányzati képviselő összeférhetetlenségének a kimondását, ha a képviselő-testület nem dönt az összeférhetetlenségről, vagy döntése jogszabálysértő. A bíróság eljárására a (2) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a bíróság döntése ellen – annak kézhezvételétől számított nyolc napon belül – az érintett önkormányzati képviselő, illetve a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv fellebbezést nyújthat be. A fellebbezésről, annak beérkezésétől számított három napon belül a másodfokú bíróság nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság döntése ellen felülvizsgálatnak helye nincs.
 
 10/A. § (1) Az önkormányzati képviselő a megbízólevelének átvételétől, majd ezt követően minden év január 1-jétől számított 30 napon belül az e törvény melléklete szerinti vagyonnyilatkozatot köteles tenni. A képviselő saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, valamint gyermekének a melléklet szerinti vagyonnyilatkozatát.
 
@@ -105,11 +105,11 @@ Az Országgyűlés a demokratikus közélet tisztaságának további előmozdít
 
 12. § Az önkormányzati képviselők képzéséről, továbbképzéséről a feladataik eredményes ellátása érdekében a képviselő-testület gondoskodik.
 
-[Az egyenlő esélyű hozzáférés biztosítása
+### Az egyenlő esélyű hozzáférés biztosítása
 
 12/A. § (1) Az önkormányzati képviselő a képviselő-testület, illetve a képviselő-testület bizottságának ülésén a magyar jelnyelvet, illetőleg az általa választott speciális kommunikációs rendszert használhatja.
 
-(2) A magyar jelnyelv, valamint a választott speciális kommunikációs rendszer használatának valamennyi költségét az önkormányzat biztosítja.]
+(2) A magyar jelnyelv, valamint a választott speciális kommunikációs rendszer használatának valamennyi költségét az önkormányzat biztosítja.
 
 ### Hatálybalépés
 

@@ -92,7 +92,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 (6)
 
-(7) A jelzálog-hitelintézet jelzálogjog és a hozzá kapcsolódó elidegenítési és terhelési tilalom bejegyzésére, módosítására vagy törlésére irányuló kérelem tárgyában az ingatlanügyi hatóság soron kívül, öt munkanapon belül dönt.
+(7) A jelzálog-hitelintézet jelzálogjog és a hozzá kapcsolódó elidegenítési és terhelési tilalom bejegyzésére, módosítására vagy törlésére irányuló kérelem tárgyában az ingatlanügyi hatóság soron kívül, nyolc napon belül dönt.
 
 6. § A jelzálog-hitelintézet által kötött jelzáloghitel szerződést – a kölcsönszerződés és a zálogszerződés külön okiratba foglalása esetén mindkettőt – közjegyzői okiratba kell foglalni. Elegendő azonban csupán teljes bizonyító erejű magánokiratba foglalni azt a kölcsönszerződést, illetve zálogszerződést,
 
@@ -117,7 +117,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 - a) amelyet az eladó hitelintézet jelzáloghitel biztosítékaként a (2) bekezdésben meghatározott valamennyi egyéb feltételnek megfelelően alapított, és
 - b) amelyet az eladó hitelintézet – az eladással egyidejűleg – részletvétel keretében vagy halasztott fizetés mellett azzal a feltétellel vásárol vissza, hogy a jelzálogjog a visszavásárló hitelintézetre a teljes vételár megfizetése napján száll át.
 
-(5) A jelzálog-hitelintézet (4) bekezdés c) pontja szerinti vételár-követelése (a továbbiakban: visszavásárlási vételár) nem haladhatja meg az önálló zálogjoggal biztosított jelzáloghitelből és a kapcsolódó kölcsönrészből még fennálló követelés mértékét.
+(5) A jelzálog-hitelintézet (4) bekezdés b) pontja szerinti vételár-követelése (a továbbiakban: visszavásárlási vételár) nem haladhatja meg az önálló zálogjoggal biztosított jelzáloghitelből és a kapcsolódó kölcsönrészből még fennálló követelés mértékét.
 
 (6) Ha a visszavásárló hitelintézet a jelzálog-hitelintézettel megkötött visszavásárlási szerződésből, illetőleg szerződésekből eredő bármely fizetési kötelezettségét megszegi, továbbá, ha a Felügyelet a visszavásárló hitelintézet felszámolását kezdeményezte, a felszámolás iránti kérelem bírósághoz történő benyújtásának napjával valamennyi visszavásárlási szerződéssel érintett, önálló zálogjoggal biztosított jelzáloghitel és a kapcsolódó kölcsönrész a (3) bekezdés szerinti jogkövetkezménnyel a jelzálog-hitelintézetet illeti meg, amely – törvényi engedményesként – e tényről maga is jogosult a kötelezettet az engedményező értesítési kötelezettségének hatályával [Ptk. 328. § (4) bek.] tájékoztatni. Ebben az esetben a jelzálog-hitelintézet az elszámolás során csak a visszavásárlási vételárnak azt a részét köteles a hitelintézetnek kiadni, amellyel az – a visszavásárlási vételár eddig törlesztett és a jelzálog-hitelintézetet megillető hitel, illetve az abból még fennálló, a hitelintézet által elszámolt értékvesztéssel csökkentett követelés együttes összegét figyelembe véve – többet teljesített.
 
@@ -168,7 +168,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 - m) a jelzáloglevél kibocsátásának helyét és idejét;
 - n) a vagyonellenőr igazolását az előírás szerinti fedezet meglétéről és annak fedezet-nyilvántartásba történt bejegyzéséről.
 
-(4) A jelzáloglevél más EGT-államban történő előállítása esetén a (3) bekezdés d) pontjában, a 12. § (2) bekezdésében és a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 6. §-ának (3) bekezdésében foglaltakat nem kell alkalmazni. Ebben az esetben a jelzáloglevél névre szólónak minősül, ha a nyilvántartására szolgáló számla tulajdonosa egyértelműen beazonosítható.
+(4) Amennyiben a jelzáloglevél előállítására a Gazdasági Együttműködési és Fejlesztési Szervezet (a továbbiakban: OECD) más tagállamában kerül sor, a (3) bekezdés d) pontjában, a 12. § (2) bekezdésében és a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 6. §-ának (3) bekezdésében foglaltakat nem kell alkalmazni. Ebben az esetben a jelzáloglevél névre szólónak minősül, ha a nyilvántartására szolgáló számla tulajdonosa egyértelműen beazonosítható. Az ekként előállított jelzáloglevél nem veszíti el jelzáloglevél-minőségét abban az esetben sem, ha az értékpapír letéti őrzési, vagy értékpapír letétkezelési tevékenység végzésére jogosult szervezetnél letétbe helyezett, összevont címletű jelzáloglevelet az alapcímletnek megfelelő egyedi értékpapírrá alakítják. Az előállítás módjára az előállítás helyének joga az irányadó.
 
 12. § (1) Egy sorozatban csak azonos jogokat megtestesítő, azonos névértékű jelzáloglevelek bocsáthatók ki. Az azonos sorozathoz tartozó jelzálogleveleket – a dematerializált formában kibocsátott jelzáloglevelek kivételével – folyamatos sorszámozással kell ellátni, és azonos formátumban kell kibocsátani. Az azonos sorozatban kibocsátott jelzáloglevelek összevont címletként is kibocsáthatók.
 
@@ -208,14 +208,15 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 (11) A pótfedezet a rendes fedezet kiegészítésére szolgál és a következő eszközökből állhat:
 
 - a) a Magyar Nemzeti Banknál elkülönített, zárolt pénzforgalmi számlán tartott pénz,
-- b) az Európai Unió, az Európai Gazdasági Térség (a továbbiakban: EGT) és a Gazdasági Együttműködési és Fejlesztési Szervezet (a továbbiakban: OECD) tagállamainak nemzeti bankjai, valamint az Európai Központi Bank által kibocsátott értékpapír,
+- b) az Európai Unió, az EGT és az OECD tagállamainak nemzeti bankjai, valamint az Európai Központi Bank által kibocsátott értékpapír,
 - c) az Európai Unió, az EGT és az OECD tagállamai, illetve teljes jogú tagjai által kibocsátott értékpapír,
 - d) az Európai Befektetési Bank (EIB), a Nemzetközi Újjáépítési és Fejlesztési Bank (IBRD), az Európa Tanács Fejlesztési Bankja (CEB) és az Európai Újjáépítési és Fejlesztési Bank (EBRD) által kibocsátott azon értékpapírok, melyek kötelezettje a kibocsátó,
 - e) a Magyar Állam készfizető kezességvállalása mellett kibocsátott értékpapír,
 - f) azon értékpapírok, amelyek tőke- és kamattörlesztéséért a c) és d) pontban felsorolt kibocsátók valamelyike kezességet vállalt,
-- g) a Magyar Állam készfizető kezességvállalása mellett nyújtott – a 3. § (3) bekezdésében szabályozott körbe nem tartozó – hitel.
+- g) a Magyar Állam készfizető kezességvállalása mellett nyújtott – a 3. § (3) bekezdésében szabályozott körbe nem tartozó – hitel,
+- h) a hitelezési kockázat kezeléséről és tőkekövetelményéről szóló 196/2007. (VII. 30.) Korm. rendelet 14. §-ának (1) bekezdése szerint fedezett kötvénynek minősülő azon értékpapír, amelyet valamely tagállam nemzeti bankja, vagy az Európai Központi Bank elfogadható fedezetnek minősített, ide nem értve a jelzálog-hitelintézet saját kibocsátású jelzálogleveleit, valamint a Hpt. 2. számú mellékletének II/5. pontja értelmében a jelzálog-hitelintézettel szoros kapcsolatban álló hitelintézet vagy befektetési vállalkozás által kibocsátott fedezett kötvényt.
 
-(12) A (11) bekezdés c), d) és f) pontjaiban felsorolt egyazon kötelezettel szembeni összes követelés mértéke nem haladhatja meg az adott időpontban fennálló összes pótfedezet 2%-át.
+(12) A (11) bekezdés c), d), f) és h) pontjaiban felsorolt egyazon kötelezettel szembeni összes követelés pótfedezetként legfeljebb a jelzálog-hitelintézetek által kibocsátott, forgalomban lévő jelzáloglevelek névértékének 2%-áig vehető figyelembe. A (11) bekezdés h) pontjában felsorolt eszközök együttesen legfeljebb a pótfedezetek összegének 25%-áig vehetők figyelembe pótfedezetként, illetve összegük nem haladhatja meg a jelzálog-hitelintézet által kibocsátott, forgalomban lévő jelzáloglevelek névértékének 5%-át.
 
 (13) A jelzálog-hitelintézet haladéktalanul jelenti a Felügyeletnek, ha
 

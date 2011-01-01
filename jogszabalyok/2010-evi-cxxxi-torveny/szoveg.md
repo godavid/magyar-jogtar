@@ -2,7 +2,7 @@
 
 a jogszabályok előkészítésében való társadalmi részvételről
 
-Annak előmozdítása érdekében, hogy a jó kormányzás keretében a társadalom legszélesebb rétegei kapcsolódhassanak be a jogszabályok előkészítésébe, elősegítve ezzel a közjó érdekében a jogi szabályozás sokoldalú megalapozását, ezzel pedig a jogszabályok minőségének és végrehajthatóságának javítását, amelyek együtt a jó állam elengedhetetlen feltételei, a jogalkotásról szóló törvénnyel összhangban az Országgyűlés a következő törvényt alkotja:
+Az Alkotmány azon rendelkezésével összhangban, miszerint a Kormány a feladatának ellátása során együttműködik az érdekelt társadalmi szervezetekkel, továbbá annak előmozdítása érdekében, hogy a jó kormányzás keretében a társadalom legszélesebb rétegei kapcsolódhassanak be a jogszabályok előkészítésébe, elősegítve ezzel a közjó érdekében a jogi szabályozás sokoldalú megalapozását, ezzel pedig a jogszabályok minőségének és végrehajthatóságának javítását, amelyek együtt a jó állam elengedhetetlen feltételei, a jogalkotásról szóló törvénnyel összhangban az Országgyűlés a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -12,7 +12,7 @@ Annak előmozdítása érdekében, hogy a jó kormányzás keretében a társada
 
 (2) E törvény rendelkezései nem érintik az egyéb jogszabályokban, illetve közjogi szervezetszabályozó eszközökben meghatározott véleményezési és egyeztetési jogosultságokat.
 
-(3) E törvény hatálya nem terjed ki a különleges jogrendben alkotható jogszabályok előkészítésére.
+(3) E törvény hatálya nem terjed ki a rendkívüli állapot, a szükségállapot, a veszélyhelyzet, a megelőző védelmi helyzet és az Alkotmány 19/E. §-a szerinti eset idején az Alkotmány szerint kiadható jogszabályok előkészítésére.
 
 #### 2. Alapelvek
 
@@ -26,7 +26,7 @@ Annak előmozdítása érdekében, hogy a jó kormányzás keretében a társada
 
 #### 3. A Kormány jogalkotási terve
 
-3. § A Kormány jogalkotási tervét – a nemzetközi kötelezettségvállalásokra, az európai uniós kötelezettségekkel való összhang megteremtésére vonatkozó követelményekre, az Országgyűlés és az Alkotmánybíróság döntéseire figyelemmel, a felelősök megjelölésével –, az Országgyűlés rendes ülésszakaihoz igazodóan, határozattal állapítja meg.
+3. § A Kormány jogalkotási tervét – a nemzetközi kötelezettségvállalásokra, az európai uniós kötelezettségekkel való összhang megteremtésére vonatkozó követelményekre, az Országgyűlés és az Alkotmánybíróság döntéseire, valamint a kormányprogram célkitűzéseire figyelemmel, a felelősök megjelölésével –, az Országgyűlés rendes ülésszakaihoz igazodóan, határozattal állapítja meg.
 
 #### 4. A miniszter jogalkotási tájékoztatója
 
@@ -52,44 +52,16 @@ tervezetét és indokolását (a továbbiakban együtt: tervezet).
 - b) az állami támogatásokról,
 - c) a költségvetésről, a költségvetés végrehajtásáról,
 - d) az európai uniós, illetve nemzetközi forrásokból nyújtott támogatásokról,
-- e) a nemzetközi szerződés kihirdetéséről,
-- f) a szervezet és intézmény alapításáról, valamint
-- g) az anyakönyvi eljárásról szóló 2010. évi I. törvény 44. § (3) bekezdése és 46. § (3) bekezdése szerinti utónévjegyzékről
+- e) a nemzetközi szerződés kihirdetéséről, valamint
+- f) a szervezet és intézmény alapításáról, szóló jogszabályok tervezeteit.
 
-szóló jogszabályok tervezeteit.
+(4) Nem bocsátható társadalmi egyeztetésre a tervezet, koncepció, ha az egyeztetés a Magyar Köztársaság különösen fontos honvédelmi, nemzetbiztonsági, pénzügyi, külügyi, természetvédelmi, környezetvédelmi vagy örökségvédelmi érdekeinek védelmét veszélyeztetné.
 
-(4) Nem bocsátható társadalmi egyeztetésre a tervezet, koncepció, ha az egyeztetés Magyarország különösen fontos honvédelmi, nemzetbiztonsági, pénzügyi, külügyi, természetvédelmi, környezetvédelmi vagy örökségvédelmi érdekeinek védelmét veszélyeztetné.
-
-(5)
-
-5/A. § (1) A kormányzati ellenőrzési szerv évente a honlapon az igazságügyért felelős miniszter útján közzétett jelentésében összegzi, hogy a jelentés közzétételét megelőző évben kihirdetett törvény, kormányrendelet, miniszteri rendelet esetében – ha előkészítésük e törvény hatálya alá tartozott – az ezekhez tartozó, az e törvény hatálya alá tartozó jogszabálytervezet
-
-- a) társadalmi egyeztetése megtörtént, vagy
-- b) társadalmi egyeztetésre bocsátásának hiánya az 5. § (3), illetve (4) bekezdéséből következik.
-
-(2) Az (1) bekezdés szerinti jelentést a tárgyévet követő év január 31-ig közzé kell tenni.
-
-(3) A Kormány felelősséggel tartozik azért, hogy
-
-- a) az adott naptári évben előkészített, (1) bekezdés szerinti jogszabálytervezetek kilencven százaléka az (1) bekezdés a) pontja szerinti esetkörbe tartozzon,
-- b) az 5. § (3) és (4) bekezdése szerinti kivételek kizárólag indokolt esetben kerüljenek alkalmazásra, és
-- c) a 8. § (3) bekezdése szerinti előírás minden (1) bekezdés a) pontja szerinti jogszabálytervezet esetén érvényesüljön.
-
-5/B. § Az európai támogatásokat auditáló szerv az 5/A. § (3) bekezdés a) pontja szerinti cél elérését évente a tárgyévet követő év március 31-ig kiadott jelentésében tanúsítja.
+(5) Nem kell társadalmi egyeztetésre bocsátani a jogszabály tervezetét, ha annak sürgős elfogadásához kiemelkedő közérdek fűződik.
 
 6. § (1) A társadalmi egyeztetésre bocsátásért, annak lefolytatásáért és a beérkezett vélemények feldolgozásáért a jogszabály előkészítéséért felelős miniszter tartozik felelősséggel.
 
 (2) Ha a közzétett törvénytervezet más törvény szakaszai több mint egyötödének módosítására irányul, a módosítani kívánt hatályos törvényszöveget a honlapon a tervezett módosításokkal egységes szerkezetben, a tervezett módosításokat külön is megjelölve kell közzétenni.
-
-6/A. § (1) A kormányzati ellenőrzési szerv évente ellenőrzi, hogy a jogszabály előkészítéséért felelős miniszter az e törvényben meghatározott kötelezettségének eleget tesz-e.
-
-(2) A kormányzati ellenőrzési szerv (1) bekezdés szerinti ellenőrzése során az e törvényben meghatározott kötelezettség végrehajtásának elmulasztása esetén – legkésőbb az ellenőrzés megtörténtétől számított két hónapon belül – pénzbírságot szab ki a jogszabály előkészítéséért felelős miniszter által vezetett minisztérium vagy – ennek hiányában – a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 20. § (2) bekezdés b) pontja szerint kijelölt minisztérium tekintetében.
-
-(3) A jogszabály előkészítéséért felelős miniszter a (2) bekezdés szerinti pénzbírság kiszabása esetén felelősséggel tartozik azért, hogy az e törvényben meghatározott kötelezettségeinek a kormányzati ellenőrzési szerv megállapításait is figyelembe véve eleget tegyen.
-
-(4) A (2) bekezdés szerinti pénzbírság az államháztartás központi alrendszerét illeti meg. A (2) bekezdés szerinti pénzbírság kiszabása során az államháztartásról szóló törvény szabályait alkalmazni kell, az e törvényben foglalt eltérésekkel. A (2) bekezdés szerinti pénzbírság mértékét, megállapításának szempontrendszerét és megfizetése módját a Kormány rendeletben állapítja meg. A (2) bekezdés szerinti pénzbírság mértékét úgy kell megállapítani, hogy az kellő visszatartó erővel rendelkezzen a jogsértő magatartások elkövetésével szemben.
-
-(5) A kormányzati ellenőrzési szerv az (1) bekezdés szerinti ellenőrzések eredményéről és a (2) bekezdés szerinti pénzbírságokról évente jelentést készít, amelyet a honlapon – az igazságügyért felelős miniszter útján – a tárgyévet követő év január 31-ig közzétesz. A jelentésben be kell mutatni a (2) bekezdés szerinti pénzbírságok kiszabásának indokait is.
 
 #### 6. A társadalmi egyeztetés formái
 
@@ -108,7 +80,7 @@ szóló jogszabályok tervezeteit.
 
 (3) A tervezettel együtt közzé kell tenni a jogalkotásról szóló törvényben meghatározott előzetes hatásvizsgálat összefoglalóját.
 
-(4)
+(4) E törvény 5. § (5) bekezdése alapján a társadalmi egyezetésre nem bocsátott tervezeteket is közzé kell tenni a honlapon.
 
 9. § (1) A honlapon megadott elektronikus levélcímen keresztül bárki véleményt nyilváníthat a társadalmi egyeztetésre bocsátás céljából közzétett tervezetről, koncepcióról. A vélemények beérkezéséről visszaigazolást kell küldeni.
 
@@ -116,17 +88,13 @@ szóló jogszabályok tervezeteit.
 
 (3) A jogszabály előkészítéséért felelős miniszter a beérkezett véleményeket, a véleményező nevét és elektronikus levélcímét – visszaigazolás küldése, a 11. § szerint elkészítendő összefoglaló és a véleményezők listájának közzététele, valamint a 12. §-ban meghatározott utólagos véleményezés céljából – legkésőbb a véleményezett jogszabály hatálybalépésétől számított másfél évig kezeli. Amennyiben a véleményezett jogszabály nem lép hatályba, a véleményező nevét és elektronikus levélcímét legkésőbb a vélemény beérkezését követő egy éven belül törölni kell.
 
-(4)
+(4) A véleményező adatainak kezeléséhez szükséges hozzájárulást a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben foglalt vélelem szerint a jelen paragrafus (2) bekezdésében foglalt adatkezelések tekintetében megadottnak kell tekinteni. E tényre és a véleményező adatait érintő adatkezelés szabályaira a vélemény megadása előtt a véleményező figyelmét megfelelően fel kell hívni.
 
 (5) A közzétett tervezeteket a közzétételtől számított egy évig nem lehet a honlapról eltávolítani.
 
 10. § (1) A tervezetet a kormányzati szervekkel való egyeztetésre bocsátással egyidejűleg úgy kell közzétenni, hogy a tervezet céljához és hatálybalépéséhez igazodóan megfelelő idő álljon rendelkezésre a tervezet érdemi megítéléséhez és a vélemények kifejtéséhez, továbbá a jogszabály előkészítőjének arra, hogy a beérkezett véleményeket, javaslatokat érdemben mérlegelhesse.
 
-(2) A véleményezési határidő megegyezik a kormányzati szervekkel való egyeztetésre bocsátás során megállapított határidővel, de a véleményezési határidő nem lehet kevesebb nyolc napnál.
-
-(3) A jogszabály előkészítéséért felelős miniszter kivételes esetben a (2) bekezdéstől eltérő időtartamot is meghatározhat a véleményezésre, de a véleményezési határidő nem lehet kevesebb nyolc napnál.
-
-(4) A beérkezett vélemények, javaslatok érdemi mérlegelésére a Kormány döntését – miniszteri rendelet esetében annak kiadását – megelőzően legalább öt napot kell biztosítani.
+(2) A véleményezési határidő megegyezik a kormányzati szervekkel való egyeztetésre bocsátás során megállapított határidővel, kivételes esetben a jogszabály előkészítéséért felelős miniszter ettől eltérő időtartamot is meghatározhat.
 
 11. § (1) A jogszabály előkészítéséért felelős miniszter mérlegeli a beérkezett véleményeket és azokról, valamint az elutasított vélemények esetében az elutasítás indokairól tipizált összefoglalót készít, amelyet a honlapon a véleményezők listájával együtt közzétesz. A jogszabály előkészítéséért felelős minisztert egyedi válaszadási kötelezettség nem terheli.
 
@@ -154,14 +122,14 @@ arra, hogy a jogszabály hatályosulásával kapcsolatos észrevételeket, probl
 (2) Stratégiai partnerség alakítható ki különösen
 
 - a) a civil szervezetekkel,
-- b) bevett egyházakkal, bejegyzett egyházakkal és nyilvántartásba vett egyházakkal,
+- b) egyházakkal,
 - c) szakmai, tudományos szervezetekkel,
-- d) országos nemzetiségi önkormányzatokkal,
+- d) országos kisebbségi önkormányzatokkal,
 - e) érdek-képviseleti szervezetekkel,
 - f) köztestületekkel, valamint
 - g) a felsőoktatási intézmények képviselőivel.
 
-(3) Az együttműködés feltételeit és kereteit a stratégiai partner és a miniszter között határozott idejű, de legkésőbb a miniszterelnök megbízatásának megszűnéséig tartó megállapodásban kell rögzíteni.
+(3) Az együttműködés feltételeit és kereteit a stratégiai partner és a miniszter között határozott idejű, de legkésőbb a Kormány megbízatásának megszűnéséig tartó megállapodásban kell rögzíteni.
 
 (4) A megállapodásban rögzíteni kell különösen
 
@@ -173,7 +141,7 @@ arra, hogy a jogszabály hatályosulásával kapcsolatos észrevételeket, probl
 
 (5) A megállapodást a honlapon mindenki számára hozzáférhetővé kell tenni.
 
-(6) A jogszabály előkészítéséért felelős miniszter stratégiai partneri megállapodást alakít ki azokkal a bevett egyházakkal, bejegyzett egyházakkal és nyilvántartásba vett egyházakkal, amelyekkel korábban az együttműködés kereteit a Kormány jogszabályban vagy közjogi szervezetszabályozó aktusban meghatározta.
+(6) A jogszabály előkészítéséért felelős miniszter stratégiai partneri megállapodást alakít ki azokkal az egyházakkal, amelyekkel korábban az együttműködés kereteit a Kormány jogszabályban vagy közjogi szervezetszabályozó aktusban meghatározta.
 
 14. § (1) A stratégiai partner kötelessége, hogy a közvetlen egyeztetés során az adott jogterülettel foglalkozó, stratégiai partnerséggel nem rendelkező szervezetek véleményét is megjelenítse.
 
@@ -191,16 +159,38 @@ arra, hogy a jogszabály hatályosulásával kapcsolatos észrevételeket, probl
 
 (2) A 17. § (1) bekezdése 2011. július 1-jén lép hatályba.
 
-#### 17. §
+17. § (1) A helyi önkormányzatokról szóló 1990. évi LXV. törvény a következő 103/B. §-sal egészül ki:
+
+„103/B. § Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy a helyi sajátosságoknak megfelelően az általa megalkotott rendeletek előkészítésében való társadalmi részvétel szabályait rendeletben állapítsa meg.”
+
+(2) A helyi önkormányzatokról szóló 1990. évi LXV. törvény a következő 103/C. §-sal egészül ki:
+
+„103/C. § (1) A 102. § (2) bekezdés alkalmazásában azokat a szervezeteket kell országos önkormányzati érdekképviseleti szervezeteknek tekinteni, amelyek közül
+
+a) a megyei önkormányzatok érdekképviseletét ellátó szövetségnek legalább 13 tagja megyei önkormányzat,
+
+b) a megyei jogú városok érdekképviseletét ellátó szövetségnek legalább 15 tagja megyei jogú város önkormányzata,
+
+c) a fővárosi és a fővárosi kerületi önkormányzatok érdekképviseletét ellátó szövetségnek egyik tagja a főváros önkormányzata, továbbá tagja legalább 15 fővárosi kerület önkormányzata,
+
+d) a körzetközponti szerepet betöltő helyi önkormányzatok érdekképviseletét ellátó szövetségnek tagja az ilyen szerepet betöltő helyi önkormányzatok legalább 2/3 része, továbbá
+
+e) minden más olyan önkormányzati érdekképviseleti szervezet (szövetség), amelynek tagja legalább 800 helyi önkormányzat, és legalább 11 területi (megyei) szervezetük működik.
+
+(2) Az (1) bekezdésben foglalt arányszámok számításánál egy helyi önkormányzatot csak egy érdekszövetség tagjaként lehet figyelembe venni.”
 
 18. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az e törvényben foglalt jogszabálytervezetek és koncepciók elektronikus úton történő közzétételének és véleményezésének részletszabályait.
 
-19. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 6/A. § végrehajtásával összefüggő részletes eljárási szabályokat, valamint a 6/A. § (2) bekezdése szerinti pénzbírság mértékét, megállapításának szempontrendszerét és megfizetése módját.
+19. § E törvény hatálybalépésével hatályát veszti
+
+- a) az elektronikus információszabadságról szóló 2005. évi XC. törvény 9–10. §-a, és az azt megelőző alcím,
+- b) a lobbitevékenységről szóló 2006. évi XLIX. törvény (a továbbiakban: Ltv.),
+- c) a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény 5. § (2) bekezdés f) pontja,
+- d) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 25. § (2) bekezdése, és
+- e) az ügyvédekről szóló 1998. évi XI. törvény 5. § (3) bekezdés j) pontja.
 
 20. § (1) A lobbista és a lobbitevékenységgel érintett közhatalmi döntést hozó szerv az Ltv. szerinti, 2010. utolsó negyedévére vonatkozó tájékoztatót 2011. január 31-ig juttatja el a nyilvántartást vezető szervnek.
 
 (2) A nyilvántartást vezető szerv 2011. február 15-ig közzéteszi az (1) bekezdés szerinti tájékoztatót. Az így közzétett tájékoztatónak 2014. január 1-jéig elérhetőnek kell maradnia.
 
 (3) A nyilvántartást vezető szerv az Ltv. szerinti nyilvántartást e törvény hatálybalépésével egyidejűleg lezárja, a folyamatban lévő nyilvántartásba vételi és törlési eljárást pedig megszünteti. Az e törvény hatálybalépésekor folyamatban lévő bírságolási eljárást le kell folytatni. A nyilvántartásban foglalt adatokat a nyilvántartást vezető szerv 2014. január 1-jén törli.
-
-21. § Az 5/A. § és az 5/B. § szerinti jelentést első alkalommal a 2022. szeptember 30. és 2022. december 31. közötti időszakban a kormányzati szervekkel való egyeztetésre bocsátott jogszabálytervezetekre vonatkozóan kell elkészíteni.

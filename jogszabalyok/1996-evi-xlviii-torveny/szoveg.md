@@ -159,9 +159,9 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
 
 (2) Az 5. § (2) és (3) bekezdésében, az 5/A. §-ban, az 5/B. § (1) és (2) bekezdésében, az 5/C. § (2) bekezdésében, a 7. § (3) bekezdésében, a 8. § (3) és (4) bekezdésében, valamint a 13. § (1) bekezdésében foglalt engedélyezési kérelemhez és bejelentési kötelezettség teljesítéséhez szükséges mellékletek, igazolások és nyilatkozatok – a 2. § (4)–(5) bekezdésekben megjelölt feltételek megléte, a büntetlenség igazolása, a köztartozásokra vonatkozó igazolások, szakképesítés igazolása, valamint a közraktári jegy tervezet egy-egy példányának kivételével – másolatban is becsatolhatóak. Ha a mellékletek között idegen nyelvű okirat van, mellékelni kell annak a magyar nyelvű fordítását is.
 
-(3) Ha az ügyfél a kérelmét hiányosan nyújtotta be, a felügyelet a kérelem beérkezésétől számított huszonkét munkanapon belül – megfelelő határidő megjelölésével és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel.
+(3) Ha az ügyfél a kérelmét hiányosan nyújtotta be, a felügyelet a kérelem beérkezésétől számított harminc napon belül – megfelelő határidő megjelölésével és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel.
 
-(4) Az engedély kiadásáról vagy annak megtagadásáról a felügyelet a kérelem beérkezésétől számított negyvenöt munkanapon belül köteles határozni.
+(4) Az engedély kiadásáról vagy annak megtagadásáról a felügyelet a kérelem beérkezését követő naptól számított két hónapon belül köteles határozni.
 
 (5) A közraktárnak a közraktári jegy jóváhagyott tervezete után készült, nyomdai úton előállított mintapéldányt az első kibocsátás előtt archiválás céljából meg kell küldenie a felügyelet részére.
 
@@ -183,7 +183,7 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
 - c) aki a gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró foglalkozástól eltiltás hatálya alatt áll, vagy
 - d) aki a b) pontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
-(3) A vezetőjelöltet – a megbízatására irányuló jogviszony létesítését megelőző huszonkét munkanappal – a felügyeletnek be kell jelenteni. A bejelentéssel egyidejűleg a vezetőjelölt részletes szakmai önéletrajzát, valamint az (1) bekezdésben felsoroltak hitelt érdemlő igazolását is be kell nyújtani. Az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban. A vezetőjelölttel munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt létesíteni csak a felügyelet jóváhagyását követően lehet.
+(3) A vezetőjelöltet – a megbízatására irányuló jogviszony létesítését megelőző harminc nappal – a felügyeletnek be kell jelenteni. A bejelentéssel egyidejűleg a vezetőjelölt részletes szakmai önéletrajzát, valamint az (1) bekezdésben felsoroltak hitelt érdemlő igazolását is be kell nyújtani. Az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban. A vezetőjelölttel munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt létesíteni csak a felügyelet jóváhagyását követően lehet.
 
 (4) A vezetőjelölt hatósági bizonyítvánnyal igazolja azt a tényt, hogy megfelel a (2) bekezdésben meghatározott feltételeknek, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a felügyelet részére – a munkaviszony vagy a munkavégzésre irányuló egyéb jogviszony létesítéséhez szükséges jóváhagyás iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a felügyelet a jelöltre vonatkozó (5) bekezdésében meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
 
@@ -226,7 +226,7 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
 
 (8) Ha a kérelmező a (7) bekezdésben meghatározott adatokat nem igazolja, a felügyelet a minősített befolyás szerzéséhez szükséges előzetes engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (7) bekezdésben meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
 
-(9) A felügyelet a minősített befolyás megszerzését eredményező megállapodáshoz szükséges előzetes engedély iránti kérelmet annak beérkezésétől számított tíz munkanapon belül elbírálja. A felügyelet a kérelmet elutasíthatja, ha a befolyást megszerezni kívánó fél tevékenysége vagy a közraktárra gyakorolt befolyása a biztonságos működést, illetve a kötelezettségek teljesítését veszélyeztetné. A minősített befolyásra, valamint a közvetett tulajdonra vonatkozóan a hitelintézetekről és pénzügyi vállalkozásokról szóló törvény fogalmai irányadóak.
+(9) A felügyelet a minősített befolyás megszerzését eredményező megállapodáshoz szükséges előzetes engedély iránti kérelmet a beérkezését követő naptól számított tizenöt napon belül elbírálja. A felügyelet a kérelmet elutasíthatja, ha a befolyást megszerezni kívánó fél tevékenysége vagy a közraktárra gyakorolt befolyása a biztonságos működést, illetve a kötelezettségek teljesítését veszélyeztetné. A minősített befolyásra, valamint a közvetett tulajdonra vonatkozóan a hitelintézetekről és pénzügyi vállalkozásokról szóló törvény fogalmai irányadóak.
 
 8/A. § A felügyelet a 8. § (3) bekezdésének a) pontjában meghatározott személyes adatot a minősített befolyás megszerzésére irányuló, illetve azt eredményező vagy ahhoz kapcsolódó, jelentős előnyt biztosító megállapodás előzetes engedélyezése céljából a kérelem elbírálásáig kezeli, azt követően törli.
 
@@ -259,7 +259,7 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
 
 a felügyelet rendelkezésére bocsátani.
 
-(5) Az általános ellenőrzések és célvizsgálatok megállapításairól a felügyelet vizsgálati jelentést készít. A vizsgálati jelentés tartalmazza a zálogkölcsönnyújtás gyakorlatára vonatkozó megállapításokat is, amennyiben arra a vizsgálat kiterjedt. A vizsgálati jelentés jogszabálysértésre vonatkozó megállapításait jegyzőkönyvvel vagy egyéb bizonyítékkal kell alátámasztani. A vizsgálati jelentést a közraktár részére át kell adni, amelyre az tíz munkanapon belül észrevételt tehet. A felügyelet szükség esetén, illetve az ügyfél kérésére a határozathozatal előtt zárótárgyalást tarthat.
+(5) Az általános ellenőrzések és célvizsgálatok megállapításairól a felügyelet vizsgálati jelentést készít. A vizsgálati jelentés tartalmazza a zálogkölcsönnyújtás gyakorlatára vonatkozó megállapításokat is, amennyiben arra a vizsgálat kiterjedt. A vizsgálati jelentés jogszabálysértésre vonatkozó megállapításait jegyzőkönyvvel vagy egyéb bizonyítékkal kell alátámasztani. A vizsgálati jelentést a közraktár részére át kell adni, amelyre az tizenöt napon belül észrevételt tehet. A felügyelet szükség esetén, illetve az ügyfél kérésére a határozathozatal előtt zárótárgyalást tarthat.
 
 (6) A felügyelet részéről eljáró személy az ellenőrzés során jogosult a közraktár helyiségeibe belépni, az iratokba betekinteni, az adathordozók tartalmát megismerni, felvilágosítást kérni. A felvilágosítás megadása nem tagadható meg. A felügyelet előírhatja a közraktár számára egyes adatok időszakonkénti jelentését.
 
@@ -271,7 +271,7 @@ a felügyelet rendelkezésére bocsátani.
 
 (4) A felügyelet hivatalból indított eljárása az ügyfél kérelmére nem függeszthető fel.
 
-(5) A felügyelet ellenőrzési tevékenysége tekintetében az ügyintézési határidő hatvanöt munkanap.
+(5) A felügyelet ellenőrzési tevékenysége tekintetében az ügyintézési határidő három hónap.
 
 (6) A törvény hatálya alá tartozó ügyekben természetes személy ügyfél kérelmet kizárólag a felügyelethez terjeszthet be.
 
@@ -286,7 +286,7 @@ a felügyelet rendelkezésére bocsátani.
   - ab) büntetlen előéletű, de büntetőjogi felelősségét a bíróság a Btk. XV. fejezet III. címében meghatározott állam és szolgálati titok megsértése, hamis vád, hatóság félrevezetése, hamis tanúzás, hamis tanúzásra felhívás, mentő körülmény elhallgatása, bűnpártolás, a XV. fejezet VII. címében meghatározott közélet tisztasága elleni bűncselekmény, VIII. címében meghatározott nemzetközi közélet tisztasága elleni bűncselekmény, bűnszervezetben részvétel, önbíráskodás, a XVI. fejezet III. címében meghatározott közbizalom elleni bűncselekmény, a XVII. fejezetben meghatározott gazdasági bűncselekmény, a XVIII. fejezetben meghatározott vagyon elleni bűncselekmény elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, amíg az e tényre vonatkozó adat kezelését a Bnytv. elrendeli,
   - ac) a gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró foglalkozástól eltiltás hatálya alatt áll vagy
   - ad) az ab) alpontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt áll, illetve
-- b) a közraktárban minősített befolyással rendelkező természetes személy büntetett előéletű, erről a tényről haladéktalanul értesíti az a) pont esetében a közraktárt, és ezzel egyidejűleg felhívja, hogy az érintett személlyel a jogviszonyát az értesítés kézbesítésétől számított tizenöt munkanapon belül szüntesse meg, és a jogviszony megszüntetésének tényéről a felügyeletet értesítse, a b) pont esetén a minősített befolyással rendelkező természetes személyt, hogy harminc munkanapon belül a minősített befolyását szüntesse meg.
+- b) a közraktárban minősített befolyással rendelkező természetes személy büntetett előéletű, erről a tényről haladéktalanul értesíti az a) pont esetében a közraktárt, és ezzel egyidejűleg felhívja, hogy az érintett személlyel a jogviszonyát az értesítés kézbesítésétől számított huszonegy napon belül szüntesse meg, és a jogviszony megszüntetésének tényéről a felügyeletet értesítse, a b) pont esetén a minősített befolyással rendelkező természetes személyt, hogy negyvenöt napon belül a minősített befolyását szüntesse meg.
 
 ### Felügyeleti jogkörben hozott határozatok
 
@@ -353,7 +353,7 @@ a felügyelet rendelkezésére bocsátani.
 - b) a zálogkölcsönnyújtási szabályzat módosításának szándékát;
 - c) az alkalmazni kívánt közraktári jegyek, letéti könyv megváltoztatásának szándékát.
 
-(2) A felügyelet az engedélyezés iránti kérelemről annak beérkezésétől számított huszonkét munkanapon belül, az (1) bekezdés b) pontja esetén a Pénzügyi Szervezetek Állami Felügyeletének a zálogkölcsön-nyújtási szabályzat módosításának jogszerűsége tekintetében kiadott szakhatósági állásfoglalása figyelembevételével, határozatban dönt.
+(2) A felügyelet az engedélyezés iránti kérelemről a beérkezését követő naptól számított harminc napon belül, az (1) bekezdés b) pontja esetén a Pénzügyi Szervezetek Állami Felügyeletének a zálogkölcsön-nyújtási szabályzat módosításának jogszerűsége tekintetében kiadott szakhatósági állásfoglalása figyelembevételével, határozatban dönt.
 
 (3) A közraktár köteles az alábbiakat haladéktalanul írásban bejelenteni a felügyeletnek:
 
@@ -365,7 +365,7 @@ a felügyelet rendelkezésére bocsátani.
 - f) a részvénytársaság tulajdonosi szerkezetének megváltozását;
 - g) a létesítő okirat engedélyt nem igénylő változását.
 
-(4) A felügyelet huszonkét munkanapon belül megvizsgálja, hogy a (3) bekezdés a)–d) pontjai szerinti bejelentésben foglalt esemény veszélyezteti-e a közraktár zavartalan működését, kötelezettségeinek teljesítését, illetve igényel-e felügyeleti intézkedést.
+(4) A felügyelet harminc napon belül megvizsgálja, hogy a (3) bekezdés a)–d) pontjai szerinti bejelentésben foglalt esemény veszélyezteti-e a közraktár zavartalan működését, kötelezettségeinek teljesítését, illetve igényel-e felügyeleti intézkedést.
 
 ## MÁSODIK RÉSZ — A KÖZRAKTÁRI TEVÉKENYSÉGRŐL
 

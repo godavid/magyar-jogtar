@@ -183,7 +183,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 ### 1. CÍM — A támogatási rendszer alapjai
 
-15. § (1) E törvény alapján kizárólag az Európai Bizottság N 357/2007. számú, az Oktatási és Kulturális Minisztérium fejezeti kezelésű előirányzataiból és a Nemzeti Kulturális Alapból nyújtott támogatás tárgyában hozott határozatával összhangban nyújtható támogatás.
+15. § (1) E törvény alapján kizárólag az Európai Bizottság N 357/2007. számú, a miniszter által vezetett minisztérium költségvetési fejezetének fejezeti kezelésű előirányzataiból és a Nemzeti Kulturális Alapból nyújtott támogatás tárgyában hozott határozatával összhangban nyújtható támogatás.
 
 (2) E fejezet szerinti központi költségvetési támogatást a költségvetési szervként vagy a külön törvény szerint közhasznúvá minősített szervezetként működő előadó-művészeti szervezet támogatására a fenntartó, ennek hiányában az előadó-művészeti szervezet kaphat.
 
@@ -244,7 +244,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 (2) Az (1) bekezdés alapján kiírandó pályázatokról történő döntései megalapozásához a miniszter az EMT javaslata figyelembevételével szakmai kuratóriumot kér fel. A döntésekre a szakmai kuratórium előterjesztése alapján az EMT tesz javaslatot. A javaslattól eltérő döntéseit a miniszter köteles megindokolni.
 
-(3) A kiemelt támogatások aránya az I–VI. kategóriába sorolt színházak, balett-, vagy táncegyüttesek és az I–II. kategóriába sorolt zenekarok, énekkarok központi költségvetési támogatása keretösszegének legalább 3%-a.
+(3) A kiemelt támogatások összegéről a miniszter az EMT véleményének a kikérésével dönt.
 
 ### 5. CÍM — A központi költségvetési támogatás felhasználásáról való beszámolás
 
@@ -266,7 +266,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 24. § (1) A költségvetési törvény meghatározza az I–VI. kategóriába sorolt színházak, balett- vagy táncegyüttesek, valamint az I–II. kategóriába sorolt zenekarok és énekkarok elosztható támogatásának keretösszegeit.
 
-(2) Az előadó-művészetben jelentkező újító törekvések támogatása és a magánszféra versenyképességének erősítése érdekében a VI. kategóriába sorolt színházak pályázati úton elosztható támogatásának aránya az I–VI. kategóriába sorolt színházak, balett- vagy táncegyüttesek központi költségvetési támogatása keretösszegének legalább 10%-a.
+(2) Az előadó-művészetben jelentkező újító törekvések támogatása és a magánszféra versenyképességének erősítése érdekében a VI. kategóriába sorolt színházak pályázati úton elosztható támogatásának aránya az I–VI. kategóriába sorolt színházak, balett- vagy táncegyüttesek központi költségvetési támogatása keretösszegének 8%-a.
 
 (3) A költségvetési tervezés során a tárgyévet megelőző év március 31-ig szolgáltatott adatok szerinti besorolást kell figyelembe venni.
 

@@ -160,7 +160,7 @@ Az Országgyűlés az Alkotmány 32/B. §-ának végrehajtására a következő 
 
 (3) Ha az országgyűlési biztos az ajánlást módosítja, azt a megteendő intézkedések szempontjából új ajánlásnak kell tekinteni.
 
-(4) A Kormány tagja, autonóm államigazgatási szerv, illetve kormányhivatal esetében az országgyűlési biztos a visszásságot előidéző szerv számára tesz ajánlást.
+(4) A Kormány tagja, autonóm államigazgatási szerv, a Pénzügyi Szervezetek Állami Felügyelete, illetve kormányhivatal esetében az országgyűlési biztos a visszásságot előidéző szerv számára tesz ajánlást.
 
 21. § (1) Ha a rendelkezésre álló adatok szerint az alapvető jogokkal kapcsolatos visszásságot az előidéző szerv saját hatáskörben meg tudja szüntetni, az országgyűlési biztos kezdeményezheti az érintett szerv vezetőjénél a visszásság orvoslását. Az ilyen kezdeményezés rövid úton (távbeszélőn, szóban stb.) is történhet, ez esetben a kezdeményezés időpontját, módját és lényegét az ügyiraton kell rögzíteni.
 
@@ -172,8 +172,8 @@ Az Országgyűlés az Alkotmány 32/B. §-ának végrehajtására a következő 
 
 22. § Az országgyűlési biztos indítványozhatja az Alkotmánybíróságnál:
 
-- a) a jogszabály, valamint az állami irányítás egyéb jogi eszköze alkotmányellenességének utólagos vizsgálatát;
-- b) a jogszabály, valamint az állami irányítás egyéb jogi eszköze nemzetközi szerződésbe ütközésének vizsgálatát;
+- a) a jogszabály, valamint a közjogi szervezetszabályozó eszköz alkotmányellenességének utólagos vizsgálatát;
+- b) a jogszabály, valamint a közjogi szervezetszabályozó eszköz nemzetközi szerződésbe ütközésének vizsgálatát;
 - c)
 - d) mulasztásban megnyilvánuló alkotmányellenesség megszüntetését;
 - e) az Alkotmány rendelkezéseinek értelmezését.
@@ -184,7 +184,7 @@ Az Országgyűlés az Alkotmány 32/B. §-ának végrehajtására a következő 
 
 24. § Ha az országgyűlési biztos eljárása során szabálysértés vagy fegyelmi vétség elkövetésének alapos gyanúját észleli, az illetékes szervnél felelősségre vonásra irányuló eljárást kezdeményezhet, bűncselekmény észlelése esetén pedig kezdeményez. A megkeresett szerv az eljárás megindításával kapcsolatos álláspontjáról — törvény eltérő rendelkezése hiányában — hatvan napon belül, az eljárás eredményéről pedig annak befejezését követően harminc napon belül tájékoztatja az országgyűlési biztost.
 
-25. § Ha az országgyűlési biztos álláspontja szerint az alapvető jogokkal kapcsolatos visszásság valamely jogszabály vagy az állami irányítás egyéb jogi eszköze fölösleges, nem egyértelmű rendelkezésére, illetve az adott kérdés jogi szabályozásának hiányára (hiányosságára) vezethető vissza, a visszásság jövőbeni elkerülése érdekében javasolhatja a jogalkotásra, illetve az állami irányítás egyéb jogi eszköze kiadására jogosult szervnél a jogszabály (állami irányítás egyéb jogi eszköze) módosítását, hatályon kívül helyezését vagy kiadását. A megkeresett szerv állásfoglalásáról, illetve esetleges intézkedéséről hatvan napon belül értesíti az országgyűlési biztost.
+25. § Ha az országgyűlési biztos álláspontja szerint az alapvető jogokkal kapcsolatos visszásság valamely jogszabály vagy a közjogi szervezetszabályozó eszköz fölösleges, nem egyértelmű rendelkezésére, illetve az adott kérdés jogi szabályozásának hiányára (hiányosságára) vezethető vissza, a visszásság jövőbeni elkerülése érdekében javasolhatja a jogalkotásra, illetve a közjogi szervezetszabályozó eszköz kiadására jogosult szervnél a jogszabály (közjogi szervezetszabályozó eszköz) módosítását, hatályon kívül helyezését vagy kiadását. A megkeresett szerv állásfoglalásáról, illetve esetleges intézkedéséről hatvan napon belül értesíti az országgyűlési biztost.
 
 26. § (1) Ha az országgyűlési biztos által megkeresett szerv az érdemi állásfoglalás kialakítását, és az annak megfelelő intézkedés megtételét elmulasztja, vagy az országgyűlési biztos az állásfoglalással, a megtett intézkedéssel nem ért egyet, az ügyet az éves beszámoló keretében az Országgyűlés elé terjeszti, és — a (2) bekezdésben foglalt kivételekkel — kérheti, hogy az ügyet az Országgyűlés vizsgálja ki. Ha megállapítása szerint a visszásság kirívóan súlyos, illetve a természetes személyek nagyobb csoportját érinti, indítványozhatja, hogy az Országgyűlés az adott kérdés megtárgyalását már az éves beszámolót megelőzően tűzze napirendre. A napirendre tűzés kérdésében az Országgyűlés dönt.
 
@@ -310,7 +310,7 @@ Az Országgyűlés az Alkotmány 32/B. §-ának végrehajtására a következő 
 
 (4) E törvény alkalmazásában alapvető joggal kapcsolatos visszásság: alapvető jog sérelme vagy annak közvetlen veszélye, függetlenül attól, hogy az cselekvés vagy mulasztás eredménye.
 
-(5)
+(5) Ahol e törvény közjogi szervezetszabályozó eszközt említ, azon az állami irányítás egyéb jogi eszközét is érteni kell.
 
 (6) A külön biztosra törvény e törvénytől eltérő szabályokat állapíthat meg.
 

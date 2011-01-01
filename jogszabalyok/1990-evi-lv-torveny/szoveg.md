@@ -72,11 +72,11 @@ Az Országgyűlés az Alkotmány 20. §-a (5) és (6) bekezdésének végrehajt�
 
 (4) Az Országgyűlés Nemzetbiztonsági Bizottságának tagja a bizottság döntése alapján, külön felhasználói engedély nélkül jogosult a bizottságnak a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladatai ellátása érdekében elengedhetetlenül szükséges minősített adat felhasználására.
 
+(5) A képviselő az Országgyűlés ülésén, az Országgyűlés bizottságainak ülésén, továbbá a bizottsági elnöki értekezleten a magyar jelnyelvet, illetőleg az általa választott speciális kommunikációs rendszert használhatja. A magyar jelnyelv, valamint a választott speciális kommunikációs rendszer használatának valamennyi költségét az Országgyűlés biztosítja.
+
 (5) Az országgyűlési képviselő – a (2)–(4) bekezdésben foglaltak kivételével – a feladatai ellátásához szükséges minősített adatokat csak a minősített adat védelméről szóló törvényben foglaltak szerinti felhasználói engedély alapján használhatja fel.
 
 (6) A képviselői igazolvány az államigazgatás valamennyi szervéhez, továbbá a közintézetekhez és közintézményekhez belépésre jogosít. A képviselő — a hatáskörrel rendelkező miniszter által szabályozott módon — jogosult a Magyar Honvédség, a nemzetbiztonsági szolgálatok és a rendvédelmi szervek működésére szolgáló területre is belépni.
-
-[(5) A képviselő az Országgyűlés ülésén, az Országgyűlés bizottságainak ülésén, továbbá a bizottsági elnöki értekezleten a magyar jelnyelvet, illetőleg az általa választott speciális kommunikációs rendszert használhatja. A magyar jelnyelv, valamint a választott speciális kommunikációs rendszer használatának valamennyi költségét az Országgyűlés biztosítja.]
 
 ### III. Fejezet — ÖSSZEFÉRHETETLENSÉGI SZABÁLYOK
 
@@ -96,7 +96,7 @@ Az Országgyűlés az Alkotmány 20. §-a (5) és (6) bekezdésének végrehajt�
 11. § Országgyűlési képviselő nem lehet:
 
 - a) országos vagy regionális terjesztésű politikai napilap szerkesztőségének vezetője vagy annak helyettese;
-- b) a Magyar Távirati Iroda vezérigazgatója és vezérigazgató-helyettese;
+- b) a Magyar Távirati Iroda Nonprofit Zrt. vezérigazgatója és vezérigazgató-helyettese;
 - c) a Magyar Rádió nonprofit Zrt., a Magyar Televízió nonprofit Zrt., és a Duna Televízió nonprofit Zrt. vezérigazgatója és vezérigazgató-helyettese;
 - d) a Nemzeti Média és Hírközlési Hatóság elnöke, elnökhelyettese, a hatóság Médiatanácsának és a Médiatanács Panaszbizottságának tagja;
 - e) a Közszolgálati Közalapítvány Kuratóriumának elnöke és tagja;

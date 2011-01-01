@@ -844,6 +844,44 @@ tartalmaz rendelkezést, és a b) pont esetében a természetes vagy a jogi szem
 
 75. § A bíróság az elkobzás vagy a vagyonelkobzás végrehajtására vonatkozó eljárás megszüntetésére vagy felfüggesztésére, illetőleg a vagyonelkobzás alá eső pénzösszeg vagy vagyon csökkentésére okot adó körülményről haladéktalanul tájékoztatja a végrehajtó tagállamban eljáró bíróságot. A vagyonelkobzás alá eső pénzösszeg vagy vagyon csökkentésére okot adó körülményről szóló tájékoztatással egyidejűleg a bíróság meghatározza azt az összeget, amelyre nézve határozatának végrehajtása még nem történt meg.
 
+### VI/A. Fejezet — AZ EURÓPAI UNIÓ TAGÁLLAMÁNAK KÜLÖNLEGES INTERVENCIÓS EGYSÉGÉVEL VALÓ EGYÜTTMŰKÖDÉS
+
+75/A. § (1) Ha az Európai Unió más tagállama (a továbbiakban: érintett tagállam) válsághelyzet megoldása érdekében – a segítség természetének, valamint az ebből következő műveleti szükségleteknek a meghatározásával – a NEBEK-en keresztül kéri az intervenciós egységekben való közreműködésre kormányrendeletben kijelölt szerv (a továbbiakban: magyar intervenciós egység) segítségét, a NEBEK a kérést haladéktalanul továbbítja a magyar intervenciós egységnek.
+
+(2) Ha az (1) bekezdés szerinti megkeresés elfogadása, elutasítása vagy más jellegű segítség felajánlása a rendőrségről szóló törvényben megahatározott általános rendőrségi feladatok ellátására létrehozott szerv feladat- és hatáskörébe tartozó segítségnyújtásra irányul, akkor az (1) bekezdés szerinti megkeresés elfogadásáról, elutasításáról vagy más jellegű segítség felajánlásáról az intervenciós egységben való közreműködésre kijelölt szerv vezetőjének javaslata figyelembevételével az országos rendőrfőkapitány dönt.
+
+(3) Ha az (1) bekezdés szerinti megkeresés elfogadása, elutasítása vagy más jellegű segítség felajánlása a rendőrségről szóló törvényben megahatározott terrorizmust elhárító szerv (a továbbiakban: terrorizmust elhárító szerv) feladat- és hatáskörébe tartozó segítségnyújtásra irányul, akkor az (1) bekezdés szerinti megkeresés elfogadásáról, elutasításáról vagy más jellegű segítség felajánlásáról a terrorizmust elhárító szerv főigazgatója dönt, és ezzel egyidejűleg döntéséről az országos rendőrfőkapitányt tájékoztatja.
+
+(4) Az országos rendőrfőkapitány, valamint a terrorizmust elhárító szerv főigazgatója a megkeresés teljesítését megtagadja, ha
+
+- a) az a magyar jog szabályaival ellentétes,
+- b) az veszélyezteti a Magyar Köztársaság biztonságát, sérti közrendjét,
+- c) az politikai vagy katonai bűncselekményre vonatkozik,
+- d) nem áll fenn az érintett tagállamban válsághelyzet, vagy
+- e) a magyar intervenciós egység a kérést technikai vagy személyi feltételek hiányában nem tudja teljesíteni és más segítséget sem tud felajánlani, és az erről az érintett tagállamot a NEBEK-en keresztül haladéktalanul tájékoztatja.
+
+(5) A megkeresésben foglaltak elfogadása vagy más jellegű segítség felajánlása esetén a segítségnyújtás végrehajtásáról az érintett tagállammal az országos rendőrfőkapitány, valamint a terrorizmust elhárító szerv főigazgatója megállapodást köt, amely tartalmazza:
+
+- a) a bűncselekmény leírását, amelynek megelőzésére a segítségnyújtás irányul,
+- b) a segítségnyújtás formáját, tartalmát,
+- c) a segítségnyújtás időtartamát és a meghosszabbítás feltételeit,
+- d) a segítségnyújtás feltételeit,
+- e) a segítségnyújtás költségeinek viselését,
+- f) az intervenciós egység tagja által tevékenysége körében okozott károkért való felelősség szabályait.
+
+75/B. § A magyar intervenciós egység tagja jogosult arra, hogy az érintett tagállam területén támogatói minőségben járjon el, és saját hatáskörében eljárva – az érintett tagállam jogával összhangban – megtegye a kért segítség megadásához szükséges intézkedést, ha tevékenységét az érintett tagállam felelőssége, felügyelete és irányítása mellett végzi.
+
+75/C. § (1) A rendőrség válsághelyzet megoldása érdekében a NEBEK-en keresztül kérheti az Európai Unió más tagállama intervenciós egységének – a segítség természetének, valamint az ebből következő műveleti szükségleteknek a meghatározásával – segítségét.
+
+(2) A megkeresett tagállam különleges intervenciós egységének a tagja (a továbbiakban: beavatkozó személy) eljárása során a Magyar Köztársaság területén okozott kárért a magyar jog szerint felel. Ha a kárt a beavatkozó személy kötelezettségének vétkes megszegésével okozta, akkor a rendészetért felelős miniszter az érintett tagállamtól kérheti azon összeg megtérítését, amelyet a beavatkozó személy eljárása miatt a sértettnek vagy a nevében eljárni jogosult személynek kifizettek.
+
+75/D. § A 75/A. § (4) bekezdés szerinti megállapodás eltérő rendelkezése hiányában az érintett tagállam viseli a magyar intervenciós egység alkalmazásával kapcsolatos valamennyi költséget, beleértve a szállítási és szállásköltségeket.
+
+75/E. § A 75/A–75/D. § alkalmazásában:
+
+- a) különleges intervenciós egység: az Európai Unió tagállamának olyan bűnüldöző egysége, amelynek szakterülete a válsághelyzetek kezelése,
+- b) válsághelyzet: bármely olyan helyzet, amikor az Európai Unió tagállamának illetékes hatósága joggal feltételezi, hogy egy bűncselekmény súlyos, közvetlen fizikai fenyegetést jelent az érintett tagállamban tartózkodó személyekre, az ott található vagyontárgyakra, infrastruktúrára vagy intézményekre, ideértve különösen a büntető törvénykönyvben meghatározott terrorcselekményt.
+
 76. § A Büntető Törvénykönyvről szóló 1978. évi IV. törvény hatálybalépéséről és végrehajtásáról szóló 1979. évi 5. törvényerejű rendelet 25. §-a helyébe a következő rendelkezés lép:
 
 25. § ,,(1) A Btk. 307–308. §-ainak alkalmazása szempontjából bélyeg:
@@ -1014,7 +1052,7 @@ h) az Európai Unió Tanácsának az EUROPOL részéről a tagállamok által fe
 
 100. § Az igazságügyért felelős miniszter a Magyar Közlönyben közzéteszi az Európai Unió tagállamainak az európai elfogatóparancs kibocsátására, illetőleg végrehajtására illetékes igazságügyi hatóságainak megnevezését. Az igazságügyért felelős miniszter tájékoztatása irányadó atekintetben, hogy egyes tagállamok hogyan hajtják végre az együttműködés alapjául szolgáló egyezményt, illetőleg kerethatározatot.
 
-101. § Felhatalmazást kap a miniszter, hogy a rendészetért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen, a legfőbb ügyésszel egyetértésben rendeletben szabályozza az európai elfogatóparancs végrehajtása során a külföldön tartózkodó személynek a Magyar Köztársaság területére szállítása költségeinek előlegezésére és viselésére vonatkozó szabályokat.
+101. § Felhatalmazást kap a miniszter, hogy a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével, a legfőbb ügyész véleményének kikérésével kiadott rendeletben szabályozza az európai elfogatóparancs végrehajtása során a külföldön tartózkodó személynek a Magyar Köztársaság területére szállítása költségeinek előlegezésére és viselésére vonatkozó szabályokat.
 
 102. § E törvény az Európai Unió következő jogi aktusainak való megfelelést biztosítja:
 
@@ -1030,7 +1068,8 @@ h) az Európai Unió Tanácsának az EUROPOL részéről a tagállamok által fe
 - j) A Tanács 2006/960/IB kerethatározata (2006. december 18.) az Európai Unió tagállamainak bűnüldöző hatóságai közötti, információ és bűnüldözési operatív információ cseréjének leegyszerűsítéséről;
 - k) a Tanács 2002/90/EK irányelve (2002. november 28.) a jogellenes be- és átutazáshoz, valamint a jogellenes tartózkodáshoz történő segítségnyújtás meghatározásáról;
 - l) a Tanács 2002/187/IB határozata (2002. február 28.) a bűnözés súlyos formái elleni fokozott küzdelem céljából az Eurojust létrehozásáról;
-- m) Tanács 2007/845/IB határozata (2007. december 6.) a tagállamok vagyon-visszaszerzési hivatalai közötti, a bűncselekményből származó jövedelmek és a bűncselekményekhez kapcsolódó egyéb tulajdon felkutatása és azonosítása terén való együttműködésről.
+- m) Tanács 2007/845/IB határozata (2007. december 6.) a tagállamok vagyon-visszaszerzési hivatalai közötti, a bűncselekményből származó jövedelmek és a bűncselekményekhez kapcsolódó egyéb tulajdon felkutatása és azonosítása terén való együttműködésről;
+- n) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat e törvény 75/A–75/E. §-aival.
 
 ### 1. számú melléklet a 2003. évi CXXX. törvényhez
 

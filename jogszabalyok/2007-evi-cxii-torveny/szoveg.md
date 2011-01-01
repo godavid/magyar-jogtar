@@ -1450,6 +1450,13 @@ Prüm, kettőezer-öt május huszonhetedikén.
 
 Ez a közös nyilatkozat egy-egy eredeti példányban, német, spanyol, francia és holland nyelven készült. Az eredeti példányt a Szerződéssel együtt a Németországi Szövetségi Köztársaság külügyminisztériuma őrzi, amely egy hiteles másolatot küld minden aláíró és csatlakozó államnak.”
 
+3/A. § A Prümi Szerződés 47. Cikk (1) bekezdésben foglaltak alapján, és figyelemmel a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008. június 23-i 2008/615/IB tanácsi határozat 35. Cikkében foglaltakra:
+
+- a) a Prümi Szerződés 2–16 Cikkei nem alkalmazhatók attól az időponttól kezdve, hogy az Európai Unió Tanácsának a 2008/615/IB tanácsi határozat 25. Cikk (2) bekezdése alapján Magyarország vonatkozásában a személyes adatok átadása feltételeinek teljesüléséről szóló határozatát kihirdették,
+- b) a Prümi Szerződés 24–26. Cikke 2011. január 1-jétől nem alkalmazható,
+- c) a Prümi Szerződés 28–32. Cikkei 2011. január 1-jétől kizárólag a Prümi Szerződés 25. és 27. Cikke alapján folytatott együttműködés végrehajtása során alkalmazhatók, valamint
+- d) az a) pontban meghatározott időponttól a Prümi Szerződés 33–40. Cikkei kizárólag a Prümi Szerződés 23. és 27. Cikk alapján folytatott együttműködés végrehajtása során alkalmazhatók.
+
 ### A Prümi Szerződés végrehajtását szolgálórendelkezések
 
 4. § E törvény alkalmazásában automatizált keresés: olyan eljárás, amelynek során a Prümi Szerződésben részes államnak vagy államoknak a Prümi Szerződés hatálya alá tartozó nyilvántartásaiban található adatokat az 5–7. §-ban meghatározott magyar hatóságok számítógépes hálózat útján lekérdezik.
@@ -1462,7 +1469,7 @@ Ez a közös nyilatkozat egy-egy eredeti példányban, német, spanyol, francia 
 
 7. § (1) A gépjármű-nyilvántartási adatoknak a Prümi Szerződés 12. Cikk (1) bekezdésében meghatározott, bűnmegelőzési és bűnüldözési célból való automatizált keresésének elrendelésére a büntetőeljárásról szóló törvényben meghatározott nyomozó hatóságok, továbbá a Rendvédelmi Szervek Védelmi Szolgálata a NEBEK-en keresztül, valamint az ügyészség és a bíróságok jogosultak, a Prümi Szerződés 12. Cikk (2) bekezdéséhez tett Nyilatkozatban kijelölt nemzeti kapcsolattartó pont igénybevételével. A nemzeti kapcsolattartó pont az automatizált keresés eredményéről haladéktalanul értesíti az automatizált keresést elrendelő szervet.
 
-(2) A büntetőeljárásról szóló törvényben meghatározott nyomozó hatóságok, továbbá a Rendvédelmi Szervek Védelmi Szolgálata az automatizált keresést közvetlenül is elrendelhetik, ha az az ügy szempontjából halasztást nem tűr. Ebben az esetben az automatizált keresés tényéről és eredményéről a NEBEK-et utólagosan tájékoztatni kell.
+(2) A büntetőeljárásról szóló törvényben meghatározott nyomozó hatóságok, továbbá a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv az automatizált keresést közvetlenül is elrendelhetik, ha az az ügy szempontjából halasztást nem tűr. Ebben az esetben az automatizált keresés tényéről és eredményéről a NEBEK-et utólagosan tájékoztatni kell.
 
 ### Módosító rendelkezések
 

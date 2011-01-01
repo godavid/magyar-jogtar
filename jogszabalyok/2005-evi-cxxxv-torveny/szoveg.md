@@ -266,11 +266,11 @@ bűncselekményt követett el, és azt a bíróság jogerős határozatában meg
 
 22. § (1)
 
-(2) Azonnali pénzügyi segély iránti kérelmet a bűncselekmény elkövetését követő 3 munkanapon belül lehet előterjeszteni.
+(2) Azonnali pénzügyi segély iránti kérelmet a bűncselekmény elkövetését követő öt napon belül lehet előterjeszteni.
 
 ### Elintézési határidő
 
-23. § Az áldozatsegítő szolgálat a kérelemről – ha a támogatás igénybevételének feltételei annak alapján megállapíthatóak – az igazolás beérkezését követően öt munkanapon belül dönt. Ha az áldozat a személyesen benyújtott kérelméhez az igazolást csatolja, az áldozatsegítő szolgálat a kérelemről soron kívül dönt.
+23. § Az áldozatsegítő szolgálat a kérelemről – ha a támogatás igénybevételének feltételei annak alapján megállapíthatóak – az igazolás beérkezését követő naptól számított nyolc napon belül dönt. Ha az áldozat a személyesen benyújtott kérelméhez az igazolást csatolja, az áldozatsegítő szolgálat a kérelemről soron kívül dönt.
 
 ### Az érdekérvényesítés elősegítése
 
@@ -382,7 +382,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 ### A döntő hatóság intézkedése a kérelem beérkezését követően
 
-35. § (1) A döntő hatóság a kérelem beérkezését követő 5 munkanapon belül dönt arról, hogy a kérelem érdemi elbírálásához szükség van-e arra, hogy a támogató hatóság a kérelmezőt vagy más személyt meghallgasson.
+35. § (1) A döntő hatóság a kérelem beérkezését követő naptól számított nyolc napon belül dönt arról, hogy a kérelem érdemi elbírálásához szükség van-e arra, hogy a támogató hatóság a kérelmezőt vagy más személyt meghallgasson.
 
 (2) A döntő hatóság az eljárás megindítására irányuló kérelmet benyújtó áldozatot is értesíti az eljárás megindításáról.
 

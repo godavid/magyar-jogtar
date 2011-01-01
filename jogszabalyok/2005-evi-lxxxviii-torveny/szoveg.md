@@ -181,7 +181,7 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 
 (3) Az önkéntes közeli hozzátartozója az önkéntes halálából eredő kárát a (2) bekezdésben foglaltak szerint érvényesítheti.
 
-11. § (1) A fogadó szervezet a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter által vezetett minisztériumnak (a továbbiakban: Minisztérium) a melléklet szerinti Bejelentési lapon köteles előzetesen bejelenteni
+11. § (1) A fogadó szervezet a társadalmi esélyegyenlőség előmozdításáért felelős miniszter által vezetett minisztériumnak (a továbbiakban: Minisztérium) a melléklet szerinti Bejelentési lapon köteles előzetesen bejelenteni
 
 - a) az önkéntesek foglalkoztatását,
 - b) a Bejelentési lapon feltüntetett adatokban bekövetkező változásokat.
@@ -212,7 +212,7 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 - a) a bejelentő nem a 3. § (1) bekezdése szerinti fogadó szervezet,
 - b) kétséget kizáró módon megállapítható, hogy a bejelentésben megjelölt tevékenységi körben önkéntes nem foglalkoztatható.
 
-(3) A nyilvántartásban szereplő adatokat a Minisztérium az internetes honlapján közzéteszi.
+(3) A nyilvántartásban szereplő adatokat a Minisztérium a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter által működtetett honlapon közzéteszi.
 
 (4) A Minisztérium a nyilvántartásban szereplő adatokat átadja a munkaügyi hatóságnak és a munkavédelmi hatóságnak az önkéntesek jogszabályszerű foglalkoztatásának ellenőrzése céljából.
 

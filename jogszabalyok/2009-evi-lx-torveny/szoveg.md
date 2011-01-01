@@ -99,7 +99,7 @@ a központi rendszer útján kell tartani.
 
 (2) A csatlakozásra kötelezett szervezetet a csatlakozási előfeltételek meglétével kapcsolatos külön jogszabály szerinti feltételek hiánya a szolgáltatási kötelezettség teljesítése alól nem mentesíti.
 
-(3) A központi rendszeren elérhető szolgáltatásokkal szemben támasztott hitelességi, minőségi, biztonsági és fejlesztési követelmények érvényesülését a közigazgatási informatikáért felelős miniszter ellenőrzi.
+(3) A központi rendszeren elérhető szolgáltatásokkal szemben támasztott hitelességi, minőségi, biztonsági és fejlesztési követelmények érvényesülését a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter ellenőrzi.
 
 (4) A központi rendszer üzemeltetésének és fejlesztésének költségeit az éves költségvetésben részletesen tervezni kell.
 
@@ -244,7 +244,7 @@ az elektronikus közszolgáltatást nyújtónak biztosítania kell.
 
 (5) Amennyiben a központi rendszer használója igényli, és ehhez a nyilvános titkosító kulcsát a központi rendszer kulcstárában elhelyezte, az elektronikus közszolgáltatást nyújtó szervezet köteles a szolgáltatott információt titkosítottan megküldeni. Törvény egyes elektronikus szolgáltatások nyújtásának feltételévé teheti a nyilvános titkosító kulcs kulcstárba helyezését.
 
-(6) A központi rendszer működtetését és fejlesztését a közigazgatási informatikáért felelős miniszter felügyeli. A miniszter évente beszámol a központi rendszer működéséről az Országgyűlés illetékes bizottságának, illetve a koncepcionálisan új szolgáltatások indítása előtt tájékoztatást ad a fejlesztés irányairól.
+(6) A központi rendszer működtetését és fejlesztését a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter felügyeli. A miniszter évente beszámol a központi rendszer működéséről az Országgyűlés illetékes bizottságának, illetve a koncepcionálisan új szolgáltatások indítása előtt tájékoztatást ad a fejlesztés irányairól.
 
 (7) A központi rendszert a Kormány által rendeletben kijelölt államigazgatási szerv vagy kizárólagos állami tulajdonú gazdálkodó szervezet működteti.
 
@@ -365,7 +365,7 @@ az elektronikus közszolgáltatást nyújtónak biztosítania kell.
 
 (3) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje azokat a közigazgatási hatóságokat, amelyek elektronikus közszolgáltatásaikat – átmenetileg, az államháztartás vagy az európai uniós források terhére nyújtott támogatások vagy egyéb kifizetések zavartalan megállapítása és folyósítása feltételeinek megteremtéséig terjedő, a rendeletben meghatározott közigazgatási hatósági ügyekben és egyéb eljárásokban, a rendeletben meghatározott időszakban – nem a központi rendszer igénybevételével nyújtják.
 
-(4) Felhatalmazást kap a közigazgatási informatikáért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – az egyes elektronikus közszolgáltatásokért, valamint a regisztráció díjköteles eljárási cselekményeiért fizetendő igazgatási szolgáltatási díjat rendeletben állapítsa meg.
+(4) Felhatalmazást kap a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel és az e-közigazgatásért felelős miniszterrel egyetértésben – az egyes elektronikus közszolgáltatásokért, valamint a regisztráció díjköteles eljárási cselekményeiért fizetendő igazgatási szolgáltatási díjat rendeletben állapítsa meg.
 
 32. § (1) A közhasznú szervezetekről szóló 1997. évi CLVI. törvény 26. § c) pontja a következő 24. ponttal egészül ki:
 

@@ -340,6 +340,6 @@ Kelt Belgrádban, 1948. augusztus hó 18. napján.
 
 3. § Felhatalmaztatik a kormány, hogy a hatályukat vesztett jogszabályok részletes felsorolását rendeletileg tegye közzé.
 
-4. § Az 1. §-ban említett Egyezménynek és az ahhoz tartozó Pótjegyzőkönyvnek a végrehajtásáról a minisztérium gondoskodik.
+4. § Az 1. §-ban említett Egyezménynek és az ahhoz tartozó Pótjegyzőkönyvnek a végrehajtásáról a közlekedésért felelős miniszter gondoskodik.
 
 5. § A jelen törvény kihirdetése napján, azonban az 1. §-ban említett Egyezmény és Pótjegyzőkönyv hatálybalépésével kezdődő hatállyal lép életbe.

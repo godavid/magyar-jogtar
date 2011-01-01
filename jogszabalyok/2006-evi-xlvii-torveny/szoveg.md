@@ -4,7 +4,7 @@ az életüktől és a szabadságuktól politikai okból jogtalanul megfosztottak
 
 Az életüktől és a szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásának lezárása érdekében, a kárpótlás határidejének ismételt megnyitására az Országgyűlés a következő törvényt alkotja:
 
-1. § (1) E törvény alapján a kárpótlás iránti kérelmét minden olyan jogosult benyújthatja, aki eddig bármely okból ezt nem tette meg, és az életüktől és a szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló 1992. évi XXXII. törvény (a továbbiakban: Kpt.) 2. §-a (1) bekezdésének c) és d) pontjai, illetve a 3. § (1) bekezdésének c) pontja alapján egyébként erre jogosult lett volna, továbbá akinek a Kpt. módosításáról szóló 1997. évi XXIX. törvény (a továbbiakban: Tv.) alapján benyújtott kérelmét a Központi Kárrendezési Iroda azért utasította el, mert nem tett eleget a hiánypótlási kötelezettségének.
+1. § (1) E törvény alapján a kárpótlás iránti kérelmét minden olyan jogosult benyújthatja, aki eddig bármely okból ezt nem tette meg, és az életüktől és a szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló 1992. évi XXXII. törvény (a továbbiakban: Kpt.) 2. §-a (1) bekezdésének c) és d) pontjai, illetve a 3. § (1) bekezdésének c) pontja alapján egyébként erre jogosult lett volna, továbbá akinek a Kpt. módosításáról szóló 1997. évi XXIX. törvény (a továbbiakban: Tv.) alapján benyújtott kérelmét a kárpótlási hatóság azért utasította el, mert nem tett eleget a hiánypótlási kötelezettségének.
 
 (2) Az a jogosult, aki a Tv. alapján már nyújtott be kárpótlási kérelmet, de azt a határidők elmulasztása miatt jogerősen elutasították, a 2. § (2) bekezdésben meghatározott időn belül új kérelmet nyájthat be.
 

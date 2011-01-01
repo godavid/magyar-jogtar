@@ -282,9 +282,7 @@ Csjt. 35. § (1) A gyermek apjának azt kell tekinteni, akivel az anya a fogamz�
 
 (3) Ha a nő házasságának megszűnése után újból házasságot kötött, az újabb házasságának fennállása alatt született gyermeke apjának akkor is az újabb férjet kell tekinteni, ha a korábbi házasság megszűnése és a gyermek születése közt háromszáz nap nem telt el. Ha azonban ez a vélelem megdől, a gyermek apjának a korábbi férjet kell tekinteni.
 
-(4) Ha az anya a fogamzási idő kezdetétől a gyermek születéséig eltelt idő vagy annak egy része alatt nem állt házassági kötelékben, a gyermek apjának kell tekinteni azt a férfit, aki az anyával a fogamzási idő kezdetétől a gyermek születéséig eltelt idő vagy annak egy része alatt a közjegyző által vezetett Élettársi Nyilatkozatok Nyilvántartása által igazolt élettársi kapcsolatban élt.
-
-(5) A (4) bekezdésben foglaltakat nem lehet alkalmazni, ha az anya a fogamzási idő kezdetétől a gyermek születéséig eltelt idő alatt több férfival élt az Élettársi Nyilatkozatok Nyilvántartása által igazolt élettársi kapcsolatban.
+(4)–(5)
 
 Csjt. 36. § Ha az anya a fogamzási idő kezdetétől a gyermek születéséig eltelt idő vagy annak egy része alatt nem áll házassági kötelékben, és a közjegyző által vezetett Élettársi Nyilatkozatok Nyilvántartásán alapuló apasági vélelem sem áll fenn, a gyermek apjának kell tekinteni azt a férfit,
 
@@ -885,3 +883,7 @@ Csjt. 111. § (1) Ez a törvény 1974. július 1. napján lép hatályba.
 (2) E törvény végrehajtásáról a Kormány gondoskodik.
 
 (3)
+
+Csjt. 112. § (1) Ha a gyermek 2010. január 1-je és 2010. december 31. között született, és az anya a fogamzási idő kezdetétől a gyermek születéséig eltelt idő vagy annak egy része alatt nem állt házassági kötelékben, a gyermek apjának kell tekinteni azt a férfit, aki az anyával a fogamzási idő kezdetétől a gyermek születéséig eltelt idő vagy annak egy része alatt a közjegyző által vezetett Élettársi Nyilatkozatok Nyilvántartása által igazolt élettársi kapcsolatban élt.
+
+(2) Az (1) bekezdésben foglaltakat nem lehet alkalmazni, ha az anya a fogamzási idő kezdetétől a gyermek születéséig eltelt idő alatt több férfival élt az Élettársi Nyilatkozatok Nyilvántartása által igazolt élettársi kapcsolatban.

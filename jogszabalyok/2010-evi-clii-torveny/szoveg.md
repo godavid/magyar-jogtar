@@ -106,7 +106,7 @@ egyes törvényeknek a naptári napban való határidő-számítással összefü
 
 (42) A szabálysértésekről szóló 1999. évi LXIX. törvény 27/B. § (2) bekezdésében a „három munkanapon” szövegrész helyébe a „nyolc napon” szöveg lép.
 
-(43)
+(43) A katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény 30/A. § (1) bekezdésében a „harmincöt munkanapon” szövegrész helyébe a „negyvenöt napon” szöveg, 38/A. §-ában a „huszonkét munkanapon” szövegrész helyébe a „harminc napon” szöveg lép.
 
 (44) A szerzői jogról szóló 1999. évi LXXVI. törvény 57/B. § (5) bekezdésében a „beérkezésétől számított öt munkanapon” szövegrész helyébe a „beérkezését követő naptól számított nyolc napon” szöveg lép.
 

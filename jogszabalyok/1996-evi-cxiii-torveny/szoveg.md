@@ -100,7 +100,7 @@ törvényt alkot a lakástakarékpénztárakról.
 
 8. § (1) E törvény alkalmazásában lakáscélú felhasználásnak minősül:
 
-- a) a lakáselőtakarékoskodó, illetve ha a szerződésben kedvezményezettet neveznek meg, a kedvezményezett 1. javára történő lakótelek vásárlása, lakás, családi ház vagy tanyai lakóingatlan vásárlása, építése, cseréje, valamint nyugdíjasházban a jogosult élete végéig fennálló bérleti, lakáshasználati jog vásárlása, 2. tulajdonában vagy az 1. pontnak megfelelő jogcímen használatában lévő lakás, családi ház vagy tanyai lakóingatlan bővítése, felújítása, korszerűsítése, helyreállítása, 3. a tulajdonában vagy az 1. pontnak megfelelő jogcímen használatában lévő lakáshoz, családi házhoz vagy tanyai lakóingatlanhoz szükséges, illetve a beépítés alatt álló vagy már beépített terület lakhatóságát javító, a következőkben felsorolt közművek, kommunális létesítmények saját vagy önkormányzati, közműfejlesztési társulat által megvalósított beruházás keretében történő kialakítása (kiépítése, szerelése) és felújítása: szilárd burkolatú út, kerítés, járda, áram-, gáz-, vízvezeték, szennyvízcsatorna, csapadékvíz-elvezető csatorna, árok, központi fűtés, informatikai hálózati kapcsolat (telefon, kábeltelevízió, Internet-elérés);
+- a) a lakás-előtakarékoskodó, illetve ha a szerződésben kedvezményezettet neveznek meg, a kedvezményezett, továbbá ezen személyek közeli hozzátartozója 1. javára történő lakótelek vásárlása, lakás, családi ház vagy tanyai lakóingatlan vásárlása, építése, cseréje, valamint lakásbérleti vagy lakáshasználati jog vásárlása, ideértve a nyugdíjasházban a jogosult élete végéig fennálló bérleti, lakáshasználati jog vásárlását, 2. tulajdonában vagy az 1. pontnak megfelelő jogcímen használatában lévő lakás, családi ház vagy tanyai lakóingatlan bővítése, felújítása, korszerűsítése, helyreállítása, 3. a tulajdonában vagy az 1. pontnak megfelelő jogcímen használatában lévő lakáshoz, családi házhoz vagy tanyai lakóingatlanhoz szükséges, illetve a beépítés alatt álló vagy már beépített terület lakhatóságát javító, a következőkben felsorolt közművek, kommunális létesítmények saját vagy önkormányzati, közműfejlesztési társulat által megvalósított beruházás keretében történő kialakítása (kiépítése, szerelése) és felújítása: szilárd burkolatú út, kerítés, járda, áram-, gáz-, vízvezeték, szennyvízcsatorna, csapadékvíz-elvezető csatorna, árok, központi fűtés, informatikai hálózati kapcsolat (telefon, kábeltelevízió, internetelérés);
 - b) a lakásszövetkezet tulajdonában vagy a tagjainak közös tulajdonában álló épületrészek felújítása és korszerűsítése;
 - c) a társasházi lakások lakástulajdonosainak közös tulajdonában álló épületrészek felújítása és korszerűsítése;
 - d) az a)–c) pontban meghatározott célok finanszírozására pénzügyi intézménytől, vagy biztosítóintézettől felvett kölcsön, valamint a hitelintézet által folyósított és igazolt célra felhasznált munkáltatói, illetve települési önkormányzat által nyújtott kölcsön kiváltása.
@@ -127,21 +127,17 @@ törvényt alkot a lakástakarékpénztárakról.
 
 (2) A lakás-takarékpénztár a Felügyeletnek haladéktalanul jelentést tesz, ha az adott kiutalási időpontban a kiutalási összegből nem tudja azoknak a lakás-előtakarékoskodóknak a szerződéses összeg kiutalására vonatkozó igényét sem kielégíteni, akik az adott módozat szerinti szerződésben meghatározott minimális megtakarítási hányad 110%-át már megtakarították, elérték a minimális értékszámot és a módozat szerinti minimális megtakarítási időt. Ebben az esetben a lakástakarékpénztár a folyósítandó lakáskölcsön fedezetére az Felügyelet engedélyével kölcsönt is felvehet. Amennyiben a Felügyelet a továbbiakban nem látja biztosítottnak a szerződések teljesíthetőségét, a Hpt. szerinti intézkedéseket tesz, és bírságot szabhat ki.
 
-11. § (1) A lakástakarékpénztár a szerződésszerűen takarékoskodó szerződő részére, hitelvizsgálat alapján, kizárólag a 8. § (1) bekezdése szerinti lakáscélú felhasználásra a lakáselőtakarékossági szerződésben rögzítettektől eltérő feltételekkel és külön kölcsönszerződés alapján a (2)–(6) bekezdés rendelkezéseinek megfelelő, legfeljebb a szerződéses összeggel megegyező összegű áthidaló kölcsönt nyújthat.
+11. § (1) A lakástakarékpénztár a megkötött lakás-előtakarékossági szerződés alapján a lakás-előtakarékossági szerződésben rögzítettektől eltérő feltételekkel, hitelvizsgálat és külön kölcsönszerződés megkötését követően legfeljebb a szerződéses összeggel megegyező összegű áthidaló kölcsönt nyújthat a lakás-előtakarékoskodónak, illetve a kedvezményezettnek kizárólag a 8. § (1) bekezdésében meghatározott lakáscélú felhasználásra.
 
-(2) Az áthidaló kölcsön – a (3) bekezdésben foglalt eltéréssel – olyan kölcsön, amelyet a lakás-takarékpénztár kizárólag lakás-előtakarékoskodónak, illetve a kedvezményezettnek nyújthat lakáscélú felhasználásra, amennyiben a lakás-előtakarékoskodó a szerződéses összegnek legalább 25%-át már megtakarította, és a megtakarítási ideje elérte a két évet.
+(2) A (1) bekezdésben meghatározott áthidaló kölcsön nyújtásának feltétele külön, a lakáskölcsönökre vonatkozó szabályzatoktól elkülönült kockázatvállalási, ügyfél-, illetve partnerminősítési, fedezetértékelési, valamint értékvesztési és céltartalék-képzési szabályzat megléte.
 
-(3) A (2) bekezdésben foglaltaktól eltérően a lakás-takarékpénztár azonnali áthidaló kölcsönt nyújthat a megkötött lakás-előtakarékossági szerződés alapján a lakás-előtakarékoskodónak, illetve a kedvezményezettnek lakáscélú felhasználásra abban az esetben, ha e kölcsönök állománya – a (2) bekezdésben meghatározott feltételeket teljesítő kölcsönök kivételével – nem haladja meg a lakás-takarékpénztár szabad eszközei előző hónap utolsó napján meglévő állományának 5%-át.
+(3) A lakástakarékpénztár áthidaló kölcsönt akkor nyújthat, ha a szerződésekből származó kötelezettségeit szerződésszerűen folyamatosan teljesíti.
 
-(4) A (2) és a (3) bekezdésben meghatározott áthidaló kölcsön (a továbbiakban együtt: áthidaló kölcsön) nyújtásának feltétele külön, a lakáskölcsönökre vonatkozó szabályzatoktól elkülönült kockázatvállalási, ügyfél-, illetve partnerminősítési, fedezetértékelési, valamint értékvesztési és céltartalék-képzési szabályzat megléte.
+(4) Kedvezményezett jelölése esetén az áthidaló kölcsön csak a kedvezményezett vagy közeli hozzátartozója tulajdonában vagy 8. § (1) bekezdés a) pont 1. alpontnak megfelelő jogcímen használatában lévő, vagy vásárlással, cserével, építéssel tulajdonába vagy 8. § (1) bekezdés a) pont 1. alpontnak megfelelő jogcímen használatába kerülő ingatlanra használható fel.
 
-(5) A lakástakarékpénztár áthidaló kölcsönt akkor nyújthat, ha a szerződésekből származó kötelezettségeit szerződésszerűen folyamatosan teljesíti.
+(5) Az áthidaló kölcsön adósa e kölcsönt a kiutalt szerződéses összegből a kiutalás napján egy összegben fizeti vissza azzal, hogy a továbbiakban a visszafizetéshez felhasznált lakáskölcsön módozat szerinti törlesztésére köteles.
 
-(6) Kedvezményezett jelölése esetén az áthidaló kölcsön csak a kedvezményezett tulajdonában álló, vagy vásárlással, cserével, építéssel tulajdonába kerülő ingatlanra használható fel.
-
-(7) Az áthidaló kölcsön adósa e kölcsönt a kiutalt szerződéses összegből a kiutalás napján egy összegben fizeti vissza azzal, hogy a továbbiakban a visszafizetéshez felhasznált lakáskölcsön módozat szerinti törlesztésére köteles.
-
-(8) A lakástakarékpénztár az áthidaló kölcsön lakáscélú felhasználásának igazolásaként olyan számlát, lakáscélú kölcsön törlesztéséről szóló igazolást, illetve adásvételi szerződés vagy a tulajdonjog visszterhes átruházására irányuló egyéb okirat alapján a vételár kifizetéséről szóló okiratot fogadhat el, amely a hitelkérelem benyújtásának napját követően keletkezett.
+(6) A lakástakarékpénztár az áthidaló kölcsön lakáscélú felhasználásának igazolásaként olyan számlát, lakáscélú kölcsön törlesztéséről szóló igazolást, illetve adásvételi szerződés vagy a tulajdonjog visszterhes átruházására irányuló egyéb okirat alapján a vételár kifizetéséről szóló okiratot fogadhat el, amely a hitelkérelem benyújtásának napját követően keletkezett.
 
 ### A lakástakarékpénztár biztonságos működése
 
@@ -162,14 +158,14 @@ törvényt alkot a lakástakarékpénztárakról.
 
 15. § (1) A lakástakarékpénztár a kiutalási összeget a (2)–(5) bekezdés rendelkezéseinek figyelembevételével a betétek visszafizetésére, a betétekre jóváírt kamat és állami támogatás kifizetésére, az állami támogatás után jóváírt kamat kifizetésére, a lakáskölcsönök nyújtására és a lakáskölcsönök nyújtására szükség esetén általa felvett kölcsön tőketörlesztésére és e kölcsönnek a kollektív kamat mértékével meghatározott számított hozamának kifizetésére használhatja fel.
 
-(2) A lakástakarékpénztárnak a kiutalási összeg (1) bekezdésben meghatározott célokra fel nem használt része (a továbbiakban: szabad eszköz) előző hónap utolsó napján meglévő állományának legalább ötven százalékát készpénzben, számlapénzben, illetőleg olyan országnak a központi kormánya, vagy központi bankja által kibocsátott értékpapírban kell tartania, amely
+(2) A lakástakarékpénztárnak a kiutalási összeg (1) bekezdésben meghatározott célokra fel nem használt része (a továbbiakban: szabad eszköz) előző hónap utolsó napján meglévő állományának legalább huszonöt százalékát készpénzben, számlapénzben, illetőleg olyan országnak a központi kormánya vagy központi bankja által kibocsátott értékpapírban kell tartania, amely
 
-- a) teljes jogú tagja a Gazdasági Együttműködési és Fejlesztési Szervezetnek vagy az Európai Uniónak, vagy
+- a) teljes jogú tagja a Gazdasági Együttműködési és Fejlesztési Szervezetnek vagy az Európai Uniónak vagy
 - b) speciális megállapodást kötött arra, hogy hitelt nyújtson a Nemzetközi Valuta Alapnak annak Általános Kölcsönnyújtási Megállapodása szerint, és a megelőző öt év során hitelfelvételből származó külső adósságát nem ütemezte át, illetőleg nem függesztette fel.
 
 (3) A lakástakarékpénztár szabad eszközei előző hónap utolsó napján meglévő állományának legfeljebb húsz százalékát helyezheti ki egy évnél nem hosszabb lejáratra a (2) bekezdés a)–b) pontjában meghatározott országban székhellyel rendelkező hitelintézeteknél.
 
-(4) A lakás-takarékpénztár szabad eszközei előző hónap utolsó napján meglévő állományának legfeljebb húsz százalékát használhatja fel a 11. § (2)–(3) bekezdései szerinti áthidaló kölcsönök nyújtására.
+(4) A lakástakarékpénztár szabad eszközei előző hónap utolsó napján meglévő állományának legfeljebb hetvenöt százalékát használhatja fel a 11. § szerinti áthidaló kölcsön nyújtására.
 
 (5) A lakástakarékpénztár szabad eszközei előző hónap utolsó napján meglévő állományának legfeljebb harminc százalékát fektetheti be jelzálog-hitelintézet által kibocsátott jelzáloglevélbe.
 
@@ -216,7 +212,7 @@ törvényt alkot a lakástakarékpénztárakról.
 
 ### A lakáselőtakarékosság állami támogatása
 
-21. § (1) A (2) bekezdésben meghatározott lakás-előtakarékoskodót, illetve a kedvezményezettet – legfeljebb az első nyolc megtakarítási év során – a lakás-előtakarékoskodó által az adott megtakarítási évben befizetett betét összegéhez igazodó mértékben állami támogatás illeti meg, amelyet a lakás-előtakarékoskodónak a lakás-takarékpénztárnál – a szerződéskötéskor vagy később – benyújtott kérelme alapján a központi költségvetés évente nyújt. A lakás-előtakarékoskodó jogosult az állami támogatás iránti kérelmét a megtakarítási év utolsó napjáig a teljes megtakarítási évre vonatkozóan módosítani. Az állami támogatás igénylésének, folyósításának, elszámolásának és a felhasználás ellenőrzésének rendjét a kormány rendeletben határozza meg.
+21. § (1) A (2) bekezdésben meghatározott lakás-előtakarékoskodót, illetve a kedvezményezettet – legfeljebb az első tíz megtakarítási év során – a lakás-előtakarékoskodó által az adott megtakarítási évben befizetett betét összegéhez igazodó mértékben állami támogatás illeti meg, amelyet a lakás-előtakarékoskodónak a lakás-takarékpénztárnál – a szerződéskötéskor vagy később – benyújtott kérelme alapján a központi költségvetés évente nyújt. A lakás-előtakarékoskodó jogosult az állami támogatás iránti kérelmét a megtakarítási év utolsó napjáig a teljes megtakarítási évre vonatkozóan módosítani. Az állami támogatás igénylésének, folyósításának, elszámolásának és a felhasználás ellenőrzésének rendjét a kormány rendeletben határozza meg.
 
 (2) A lakás-előtakarékosság állami támogatására az a lakás-előtakarékoskodó jogosult, aki a Magyar Köztársaság területén lakóhellyel rendelkező
 
@@ -286,5 +282,9 @@ törvényt alkot a lakástakarékpénztárakról.
 - b) a lakástakarékpénztár általános szerződési feltételeire vonatkozó részletes szabályokat.
 
 27. § Az állami támogatás mértéke az 1997. december 31-ig megkötött szerződések esetén a lakáselőtakarékoskodó által az első megtakarítási évben a lakástakarékpénztárnál betétként elhelyezett összeg negyven százaléka, legfeljebb azonban harminchatezer forint.
+
+27/A. § (1) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 86. §-ával és 87. §-ával megállapított 8. § (1) bekezdésében és 11. §-ban foglalt rendelkezéseket a hatálybalépését megelőzően megkötött lakás-előtakarékossági szerződésekre is alkalmazni kell.
+
+(2) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 89. §-ával megállapított 21. § (1) bekezdésében foglalt rendelkezéseket a 2011. január 1-jét követően megkötött lakás-előtakarékossági szerződésekre kell alkalmazni.
 
 28. § E törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Parlament és a Tanács 2000. március 20-i, a hitelintézeti tevékenység megkezdéséről és folytatásáról szóló 2000/12/EK irányelvével összeegyeztethető szabályozást tartalmaz.

@@ -1050,27 +1050,9 @@ kell igazolni.
 
 „81/A. § Felhatalmazást kap a Kormány, hogy a vámutak megnyitásáról, illetve megszüntetéséről rendeletben döntsön.”
 
-### VIII. Fejezet — A Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény módosítása
+### VIII. Fejezet
 
-53. § A Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény (a továbbiakban: VPtv.) 2. §-ának (4) bekezdése a következő d) ponttal egészül ki, egyidejűleg a jelenlegi d) és e) pont jelölése e) és f) pontra változik:
-
-[(4) A Vám- és Pénzügyőrség rendészeti és igazgatási jogkörében végzi:]
-
-„d) az elfogott, előállított, őrizetbe vett, valamint fogva tartott személyek őrzését, kísérését,”
-
-54. § A VPtv. 5. §-a (4) bekezdésének e) pontja helyébe a következő rendelkezés lép:
-
-[(4) A Vám- és Pénzügyőrségre háruló feladatok teljesítése során a szervezet szolgálati jogviszonyban álló tagja jogosult:]
-
-„e) a Vám- és Pénzügyőrség hatáskörébe tartozó bűncselekmény vagy szabálysértés elkövetésén tetten ért, illetve annak elkövetésével megalapozottan gyanúsítható személyt, valamint azt a személyt, akinek őrizetbe vételét rendelték el, további intézkedés megtétele, illetve eljárási cselekmény foganatosítása céljából az illetékes hatósághoz előállítani. Az előállítás csak a céljának eléréséhez szükséges ideig tarthat, de a nyolc órát nem haladhatja meg. Ezt az időtartamot az előállítást foganatosító vámszerv vezetője egy alkalommal négy órával meghosszabbíthatja. Az előállítottat szóban vagy írásban az előállítás okáról tájékoztatni kell, és az előállítás időtartamáról részére igazolást kell kiállítani,”
-
-55. § A VPtv. 43. §-a a következő g) és h) ponttal egészül ki:
-
-(43. § Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben szabályozza, illetve megállapítsa:)
-
-„g) a rendészetért felelős miniszterrel egyetértésben a Vám- és Pénzügyőrség kényszerítő eszközeinek rendszeresítésére vonatkozó részletes eljárási szabályokat,
-
-h) a rendészetért felelős miniszterrel egyetértésben az elfogott, előállított, őrizetbe vett és fogva tartott személyek őrzésének, kísérésének részletes eljárási szabályait.”
+53–55. §
 
 ## NEGYEDIK RÉSZ — A HELYI ADÓKAT, AZ ILLETÉKEKET, A GÉPJÁRMŰADÓT ÉS A LUXUSADÓT ÉRINTŐ MÓDOSÍTÁSOK
 
@@ -2507,7 +2489,7 @@ lép.
 
 220. § 2009. január 1-jén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 37. §-ának (2) bekezdésében a „vámhivatal” szövegrész helyébe „vámhatóság” szövegrész lép.
 
-221. § 2009. január 1-jén a VPtv. 2. §-a (1) bekezdésének e) pontjában az „Európai Mezőgazdasági Orientációs és Garanciaalap Garanciarészlegéből (EMOGA)” szövegrész helyébe az „Európai Mezőgazdasági Garanciaalapból (EMGA)” szövegrész lép.
+221. §
 
 222. § 2009. január 1-jén a Htv. 13/A. §-ának (1) bekezdésében a „(2)–(6)” szövegrész helyébe a „(2)–(7)” szövegrész, 2. számú mellékletének 6.1. pontjában a „kiadását” szövegrész helyébe a „jogerőre emelkedését” szövegrész lép, a 3. számú mellékletében a 2007. évi CXXVI. törvény 6. számú mellékletének 2. pontjával beiktatott 6. pont számozása 7. pontra változik.
 

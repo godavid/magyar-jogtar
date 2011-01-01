@@ -86,23 +86,23 @@ Az Országgyűlés, az Alkotmánynak a személyes adatok védelméről szóló r
 
 ### II. Fejezet — A nyilvántartás szervezete, hatásköri és illetékességi szabályai
 
-6. § (1) Az e törvényben meghatározott feladatokat a települési (fővárosi kerületi) önkormányzat jegyzője, a közigazgatási hivatal és a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv (a továbbiakban: központi szerv) látja el.
+6. § (1) Az e törvényben meghatározott feladatokat a települési (fővárosi kerületi) önkormányzat jegyzője, a Kormány általános hatáskörű területi államigazgatási szerve és a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv (a továbbiakban: központi szerv) látja el.
 
-(2)
+(2) Az állampolgársági ügyekben eljáró szerv közreműködik a nyilvántartás hatálya alá tartozó honosított és visszahonosított (a továbbiakban együtt: honosított) polgárok magyar állampolgárságának és nőtlen vagy hajadon családi állapotának, valamint a magyar állampolgárság megszűnése tényének és időpontjának nyilvántartásba vételében.
 
 7. § (1)
 
 (2) A jegyző
 
-- a) kezdeményezi a település közigazgatási területén lakcímmel rendelkező polgár adatainak, illetve adatváltozásainak, valamint a polgár adataiban a település közigazgatási területén bekövetkezett változásnak a nyilvántartáson történő átvezetését;
+- a) gondoskodik a település közigazgatási területén lakcímmel rendelkező polgár adatainak, adatváltozásainak, illetve adatjavításainak, valamint a polgár adataiban a település közigazgatási területén bekövetkezett változásoknak a nyilvántartáson történő átvezetéséről;
 - b) végzi a polgár személyi azonosítóval történő ellátásával, annak módosításával, illetőleg visszavonásával kapcsolatos feladatokat;
 - c) ellátja a lakcímbejelentés tudomásul vételével összefüggő hatósági feladatokat;
 - d) a törvényben meghatározott feltételek fennállása esetén adatszolgáltatást teljesít a nyilvántartásból;
-- e) az érintett egészségügyi okból történő akadályoztatása esetén – ha nem végzi a 7/A. § szerinti feladatokat – átveszi a polgár személyazonosító igazolvány iránti kérelmét, ellenőrzi a kérelmező jogosultságát és személyazonosságát, ellátja a kérelem továbbításával kapcsolatban hatáskörébe utalt hatósági feladatokat;
+- e) a 14 éven aluli érintett és az érintett egészségügyi okból történő akadályoztatása esetén – ha nem végzi a 7/A. § szerinti feladatokat – átveszi a polgár személyazonosító igazolvány iránti kérelmét, ellenőrzi a kérelmező jogosultságát és személyazonosságát, ellátja a kérelem továbbításával kapcsolatban hatáskörébe utalt hatósági feladatokat;
 - f) közokiratot ad ki a nyilvántartott adatokról;
 - g) gondoskodik a személyes adatok védelméről.
 
-(3) A jegyző — a személyiadat- és lakcímnyilvántartásért felelős miniszter (a továbbiakban: miniszter) rendeletében meghatározott módon — továbbítja az általa kezelt nyilvántartásba felvett adatokat a központi nyilvántartás részére, illetve átvezeti a helyi szinten kezelt nyilvántartásban az adatok változását.
+(3)
 
 7/A. § (1) A kormányrendeletben kijelölt – körzetközponti feladatokat ellátó – települési (fővárosi kerületi) önkormányzat jegyzője a polgármesteri hivatal részeként okmányirodát működtet, amelynek a folyamatos és a szakmai szabályoknak megfelelő működését a települési (fővárosi kerületi) önkormányzat biztosítja. A jegyző
 
@@ -114,12 +114,12 @@ Az Országgyűlés, az Alkotmánynak a személyes adatok védelméről szóló r
 
 #### 7/B. §
 
-8. § (1) A közigazgatási hivatal
+8. § (1) A Kormány általános hatáskörű területi államigazgatási szerve
 
 - a) felügyeletet gyakorol a helyi nyilvántartási tevékenység felett;
 - b) ellenőrzi a személyes adatok védelmének érvényesülését, szükség esetén helyreállítja a törvényes állapotot.
 
-(2) A közigazgatási hivatal a nyilvántartás működtetésével kapcsolatos technikai feltételek biztosítása során közreműködik a nyilvántartás adatkezelésének és adatszolgáltatásának megszervezésében.
+(2) A Kormány általános hatáskörű területi államigazgatási szerve a nyilvántartás működtetésével kapcsolatos technikai feltételek biztosítása során közreműködik a nyilvántartás adatkezelésének és adatszolgáltatásának megszervezésében.
 
 9. § (1) A személyiadat- és lakcímnyilvántartás adatkezelője a központi szerv.
 
@@ -130,7 +130,7 @@ Az Országgyűlés, az Alkotmánynak a személyes adatok védelméről szóló r
 - c) a törvényben meghatározott feltételek fennállása esetében, e törvény vagy külön jogszabály szerint hatáskörébe tartozó esetben – adatszolgáltatást teljesít a nyilvántartásból;
 - d) ellátja a személyi adat- és lakcímnyilvántartás, valamint a személyazonosító igazolvány kiadásával és nyilvántartásával kapcsolatos, külön jogszabályban hatáskörébe utalt hatósági feladatokat;
 - e) működteti a nyilvántartás informatikai rendszerét;
-- f) a miniszter és a közigazgatási informatikáért felelős miniszter jóváhagyásával államigazgatási szerv vagy kizárólagos állami tulajdonú gazdálkodó szervezet adatfeldolgozót bízhat meg egyes adatfeldolgozási műveletek, technikai feladatok elvégzésével;
+- f) a miniszter és az e-közigazgatásért felelős miniszter jóváhagyásával államigazgatási szerv vagy kizárólagos állami tulajdonú gazdálkodó szervezet adatfeldolgozót bízhat meg egyes adatfeldolgozási műveletek, technikai feladatok elvégzésével;
 - g) a polgárnak a személyazonosító igazolványban szereplő adatai alapján történő azonosítása, illetőleg azok igazolása céljából a személyazonosító igazolvány nyilvántartásban kezeli a 29. § (3) bekezdése szerinti adatokat, továbbá a személyazonosító igazolvány elvesztésére, illetve találására utaló adatokat, valamint a személyazonosító igazolvány elvételének vagy bevonásának tényét és következő indokait:
   - ga) a szabadságvesztés, kényszergyógykezelés, vagy pénzbírságot helyettesítő elzárás letöltésének megkezdését, az őrizetbe vagy előzetes letartóztatásba vételt,
   - gb) a Magyar Köztársaság területének külföldi letelepedés szándékával történő elhagyását,
@@ -148,7 +148,7 @@ Az Országgyűlés, az Alkotmánynak a személyes adatok védelméről szóló r
 - c) a nyilvántartási eljárásban keletkezett – a nyilvántartásba vétellel, az abból való törléssel, adatszolgáltatási korlátozással, adatváltozással, adathelyesbítéssel kapcsolatos alapiratokat, az anyakönyvi bejegyzések alapiratainak kivételével;
 - d) a területszervezési, közigazgatás-szervezési, címváltozási iratokat.
 
-(4) A (3) bekezdés a) pontja szerinti, 1993. június 1-je előtt keletkezett iratokat és fényképeket a Központi Okmánytár elkülönítetten, zárt archívumként kezeli. Ebben az adatállományban csak a passziválás okát és időpontját lehet átvezetni.
+(4) A (3) bekezdés a) pontja szerinti, 1993. június 1-je előtt keletkezett iratokat és fényképeket a Központi Okmánytár elkülönítetten, zárt archívumként kezeli. Ebben az adatállományban csak a passziválás okát és időpontját, továbbá a magyar állampolgárság megszűnésének tényét és időpontját lehet átvezetni.
 
 Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság és a nemzetbiztonsági szolgálatok, a nyomozó hatóságok, az ügyészség, valamint az állampolgársági ügyekben eljáró szerv, a névváltoztatási ügyeket intéző szerv, az anyakönyvi ügyekért felelős miniszter által rendeletben kijelölt szerv törvényben előírt feladatainak ellátásához, továbbá a 17. § (2) bekezdésének a)–c) pontjai szerinti adatok felhasználásának célját és jogalapját igazoló adatigénylő részére lehet, feltéve, ha az adatszolgáltatást a történeti adatállományból nem lehet teljesíteni.
 
@@ -178,7 +178,7 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 
 (4)–(5)
 
-12. § (1) A nyilvántartás történeti állománya tartalmazza a polgár minden eddigi, a törvény hatálya alá tartozó adatát és adatváltozását az érintett elhalálozásától, magyar állampolgárságának megszűnésétől, illetve a külföldi letelepedés szándékával külföldre távozásától, bevándorolt, menekült vagy oltalmazott, letelepedett jogállásának megszűnésétől, illetve a szabad mozgás és tartózkodás jogával rendelkező személy tartózkodási jogának megszűnésétől számított 15 évig, kivéve, ha jogállásának megszűnését a magyar állampolgárság megszerzése eredményezte. Ha az érintett magyar állampolgársága a külföldi letelepedés szándékával történt külföldre távozás nyilvántartásba vételét követően szűnik meg, e tényt a nyilvántartás történeti állományán át kell vezetni.
+12. § (1) A nyilvántartás történeti állománya tartalmazza a polgár minden eddigi, a törvény hatálya alá tartozó adatát és adatváltozását az érintett elhalálozásától, magyar állampolgárságának megszűnésétől, illetve a külföldi letelepedés szándékával külföldre távozásától, bevándorolt, menekült vagy oltalmazott, letelepedett jogállásának megszűnésétől, illetve a szabad mozgás és tartózkodás jogával rendelkező személy tartózkodási jogának megszűnésétől számított 15 évig, kivéve, ha jogállásának megszűnését a magyar állampolgárság megszerzése eredményezte. Ha az érintett magyar állampolgársága a külföldi letelepedés szándékával történt külföldre távozását követően szűnik meg, e tényt a nyilvántartás történeti állományán át kell vezetni.
 
 (2) A Központi Okmánytárban a 9. § (3) bekezdésében meghatározott adatokat, illetőleg okiratokat az (1) bekezdés szerinti időpont lejártától számított negyven évig kell megőrizni.
 
@@ -208,11 +208,12 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 - f)
 - g) a területszervezési intézkedést kihirdető jogszabály;
 - h) a helyi önkormányzat jegyzője (főjegyzője) által küldött értesítés (az illetékes önkormányzat hatáskörébe tartozó területszervezési, közterület-elnevezési és házszámváltozási döntésekről);
-- i) az állampolgársági ügyekben eljáró szerv értesítése a magyar állampolgárság honosítással történt megszerzéséről és a hatáskörében engedélyezett névmódosításról, valamint a magyar állampolgárság megszűnéséről;
+- i)
 - j) a polgár adatai letiltására vagy helyesbítésére vonatkozó kérelme;
-- k) a jegyző, a közigazgatási hivatal, a központi szerv, valamint a bíróságok nyilvántartási eljárás tárgyában hozott határozatai;
+- k) a jegyző, a Kormány általános hatáskörű területi államigazgatási szerve, a központi szerv, valamint a bíróságok nyilvántartási eljárás tárgyában hozott határozatai;
 - l) a külföldön élő magyar állampolgár kérelme;
-- m)
+- m) az anyakönyvvezető vagy az állampolgársági ügyekben eljáró szerv értesítése a magyar állampolgárság honosítással vagy visszahonosítással történő megszerzéséről, valamint a honosított okirattal igazolt vagy nyilatkozata szerinti nőtlen vagy hajadon családi állapotáról;
+- n) az állampolgársági ügyekben eljáró szerv értesítése az állampolgársági eljárásban engedélyezett névmódosításról, valamint a magyar állampolgárság megszűnéséről és annak időpontjáról.
 
 15. § (1) A polgár a lakcímbejelentkezés során a következő adatokat közli a helyi nyilvántartó szervvel:
 
@@ -249,7 +250,7 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 
 (7) A rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetőleg a személyazonosító igazolvány adattartalmának és érvényességének a személyazonosítás során történő ellenőrzése céljából a személyazonosító igazolvány nyilvántartásból – közvetlen adathozzáféréssel – adatokat vehet át. Az átvett adatokat a személyazonosítást követően az adatkérőnek haladéktalanul törölnie kell.
 
-18. § (1) Egyedi adatszolgáltatás elsősorban az adatigénylő lakó- vagy tartózkodási helye, székhelye, telephelye szerint, illetőleg az érintett polgár ismert lakcíme szerint illetékes jegyzőtől kérelmezhető. A központi szervtől akkor igényelhető az egyedi adatszolgáltatás, ha az a jegyző által – a szükséges technikai feltételek hiányában, vagy egyéb okból – nem, illetőleg csak célszerűtlenül teljesíthető.
+18. § (1) Egyedi adatszolgáltatás az adatigénylő lakó- vagy tartózkodási helye, székhelye, telephelye szerint, illetőleg az érintett polgár ismert lakcíme szerint illetékes jegyzőtől kérelmezhető. A központi szervtől akkor igényelhető az egyedi adatszolgáltatás, ha az a jegyző által – a szükséges technikai feltételek hiányában, vagy egyéb okból – nem, illetőleg csak célszerűtlenül teljesíthető.
 
 (2) Csoportos adatszolgáltatás a településen, illetőleg az okmányiroda illetékességi területén lakcímmel rendelkező polgárok adatairól az illetékes jegyzőtől, a polgárok szélesebb körének adatait érintően a központi szervtől igényelhető.
 
@@ -411,7 +412,7 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 
 (5)
 
-(6) A személyazonosság igazolására alkalmas hatósági igazolvánnyal nem rendelkező kiskorú részére a személyazonosító igazolványt a törvényes képviselő kérelmére kell kiadni.
+(6) A kiskorúság miatt cselekvőképtelen polgár részére a személyazonosító igazolványt a törvényes képviselő kérelmére kell kiadni. A korlátozottan cselekvőképes jogosultat a személyazonosító igazolvány kiadása ügyében megilleti az eljárási képesség.
 
 (7) A polgár köteles igényelni a személyazonosító igazolvány kiadását, amennyiben nem rendelkezik más érvényes, a személyazonosságát igazoló hatósági igazolvánnyal.
 
@@ -421,9 +422,9 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 
 ### VI. Fejezet — Adatvédelem
 
-30. § (1) A jegyző, a 6. § (1) bekezdésében meghatározott időpontig a rendőrkapitányság vezetője, a közigazgatási hivatal, valamint a központi szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai, szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését.
+30. § (1) A jegyző, a 6. § (1) bekezdésében meghatározott időpontig a rendőrkapitányság vezetője, a Kormány általános hatáskörű területi államigazgatási szerve, valamint a központi szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai, szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését.
 
-(2) Az adatkezelés törvényességének ellenőrzésére a közigazgatási informatikáért felelős miniszter a központi szervnél, a közigazgatási hivatal vezetője közigazgatási hivatalnál adatvédelmi felelőst nevez ki.
+(2) Az adatkezelés törvényességének ellenőrzésére az e-közigazgatásért felelős miniszter a központi szervnél, a Kormány általános hatáskörű területi államigazgatási szervénél annak vezetője adatvédelmi felelőst nevez ki.
 
 31. § (1) A nyilvántartás szervei (6. §) kötelesek adatszolgáltatási nyilvántartást vezetni.
 
@@ -468,11 +469,11 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 
 36. § (1) A nyilvántartás a nemzeti vagyon része, kialakítása, működtetése és fejlesztése állami feladat, az ellátásához szükséges pénzügyi fedezetet az állami költségvetésből kell biztosítani.
 
-(2) A nyilvántartás működésének költségeit a közigazgatási informatikáért felelős miniszter által vezetett központi államigazgatási szerv, illetve a helyi önkormányzatok költségvetése tartalmazza.
+(2) A nyilvántartás működésének költségeit az e-közigazgatásért felelős miniszter által vezetett központi államigazgatási szerv, illetve a helyi önkormányzatok költségvetése tartalmazza.
 
 (3)
 
-(4) Az adatszolgáltatásért, valamint a 18. § (3) bekezdése szerinti kapcsolatfelvétel céljából való megkeresésért, illetőleg értesítésért – ha jogszabály másként nem rendelkezik – a közigazgatási informatikáért felelős miniszter a személyiadat- és lakcímnyilvántartásért felelős miniszterrel együttesen rendeletében meghatározott összegű igazgatási szolgáltatási díjat kell fizetni.
+(4) Az adatszolgáltatásért, valamint a 18. § (3) bekezdése szerinti kapcsolatfelvétel céljából való megkeresésért, illetőleg értesítésért – ha jogszabály másként nem rendelkezik – igazgatási szolgáltatási díjat kell fizetni.
 
 ### VIII. Fejezet — Átmeneti rendelkezések
 
@@ -565,7 +566,7 @@ e) a kizáró okot elrendelő bíróság megnevezése, az ítélet ügyiratszám
 
 - a) a nyilvántartás üzemeltetésével és működésével, továbbá a személyazonosító igazolvány kiadásával és nyilvántartásával, valamint a lakcímnyilvántartással kapcsolatos technikai szabályokat;
 - b) a nyilvántartási eljárás során használandó iratmintákat;
-- c) a közigazgatási informatikáért felelős miniszterrel együttesen, az adópolitikáért felelős miniszterrel egyetértésben az adatszolgáltatásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetőleg értesítésért fizetendő igazgatási szolgáltatási díj összegét;
+- c) az adópolitikáért felelős miniszterrel egyetértésben az adatszolgáltatásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetőleg értesítésért fizetendő igazgatási szolgáltatási díj összegét;
 - d) az adatvédelmi felelős [30. § (2) bekezdés] feladatát és hatáskörét,
 - e) az okmányirodák működésének személyi és technikai feltételeit, továbbá a személyazonosítás célját szolgáló és a jogosultságot igazoló kitöltetlen biztonsági okmányok nyilvántartásának, azok kezelésének és tárolásának szabályait.
 

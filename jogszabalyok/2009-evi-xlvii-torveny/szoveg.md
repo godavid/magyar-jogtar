@@ -247,13 +247,11 @@ közli a bűnügyi nyilvántartó szervvel.
 18. § (1) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt végrehajtandó szabadságvesztés kiszabása esetén,
 
 - a) ha a büntetés határozott tartamú,
-  - aa) öt évet el nem érő szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
-  - ab) ötévi vagy azt meghaladó szabadságvesztés esetén a mentesítés beálltától számított tizenkettő évig vagy
-- b) életfogytig tartó szabadságvesztés esetén az elítélt személy halálát követő tizenkettő évig
+  - aa) öt évnél nem hosszabb szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
+  - ab) öt évet meghaladó szabadságvesztés esetén a mentesítés beálltától számított tizenkét évig, vagy
+- b) életfogytig tartó szabadságvesztés esetén az elítélt személy halálát követő tizenkét évig kell nyilvántartani.
 
-kell nyilvántartani.
-
-(2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig kell nyilvántartani.
+(2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás vagy kiutasítás büntetés esetén a mentesítés beálltától számított öt évig kell nyilvántartani.
 
 (3) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat szándékos bűncselekmény miatt kiszabott, de végrehajtásában felfüggesztett vagy részben felfüggesztett
 
@@ -271,7 +269,7 @@ kell nyilvántartani.
 
 kell nyilvántartani.
 
-(2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat gondatlan bűncselekmény miatt közérdekű munkára vagy pénzbüntetésre ítéltek esetén a mentesítés beálltától számított három évig kell nyilvántartani.
+(2) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat gondatlan bűncselekmény miatt kiszabott közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás vagy kiutasítás büntetés esetén a mentesítés beálltától számított három évig kell nyilvántartani.
 
 (3) A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett, a mellékbüntetésre vonatkozó adatokat gondatlan bűncselekmény miatt kiszabott mellékbüntetés esetén a mellékbüntetés végrehajtása befejezésétől vagy végrehajthatóságának megszűnésétől számított három évig kell nyilvántartani.
 
@@ -633,8 +631,10 @@ miatt indítottak büntetőeljárást.
 68. § (1) Elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) a bűnügyi nyilvántartási rendszerben kezelt adatok teljes körét jogosult átvenni
 
 - a) a bíróság büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
-- b) a nyomozó hatóság és az ügyészség bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítő feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése és felderítése céljából,
-- c) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból.
+- b) a nyomozó hatóság és az ügyészség bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása,
+- c) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
+- d) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá kiemelt személyvédelmi feladatai ellátása céljából,
+- e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése és felderítése, a kifogástalan életvitel ellenőrzése, valamint a megbízhatósági vizsgálat lefolytatása céljából.
 
 (2) A rendőrség jogosult közvetlen hozzáféréssel átvenni a következő adatokat:
 
@@ -690,14 +690,22 @@ miatt indítottak büntetőeljárást.
 
 (6) A menekültügyi hatóság a menekültkénti, menedékeskénti vagy befogadottkénti elismerés vagy az elismerés visszavonása feltételei fennállásának megállapítása céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
-- a) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
-- b) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok, valamint
-- c) a 23. § c), f) és g) pontjában meghatározott adatok.
+- a) a 4. § (2) bekezdés b) pontjában meghatározott adatok,
+- b) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
+- c) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok, valamint
+- d) a 23. § c), f) és g) pontjában meghatározott adatok.
 
-(7) Az idegenrendészeti hatóság a harmadik ország állampolgára tartózkodásának engedélyezésére, a tartózkodás feltételeinek ellenőrzésére és az engedély visszavonására irányuló eljárásban közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
+(7) Az idegenrendészeti hatóság a harmadik ország állampolgára tartózkodásának engedélyezésére, a tartózkodás feltételeinek ellenőrzésére és az engedély visszavonására irányuló eljárásában közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
-- a) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
-- b) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok.
+- a) a 4. § (2) bekezdés b) pontjában meghatározott adatok,
+- b) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
+- c) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok.
+
+(7a) Az idegenrendészeti hatóság az EGT-állampolgár vagy harmadik országbeli állampolgár családtagja tartózkodási jogát igazoló okmány kiállítására, valamint a tartózkodási jog és az állandó tartózkodási jog megszűnésének megállapítására irányuló eljárásban közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
+
+- a) a 4. § (2) bekezdés b) pontjában meghatározott adatok,
+- b) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
+- c) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés i) pontjában meghatározott adatok.
 
 (8) A büntetés-végrehajtási intézet a befogadás során közvetlen hozzáféréssel jogosult
 
@@ -838,7 +846,7 @@ továbbítja.
 
 80. § (1) A bűnügyi nyilvántartó szerv az Európai Unió más tagállama kijelölt központi hatóságának kérelmére adatokat továbbít – a büntetőeljárás hatálya alatt állók nyilvántartásának kivételével – a bűnügyi nyilvántartási rendszerben kezelt adatokból.
 
-(2) Ha az Európai Unió más tagállamának kijelölt központi hatósága olyan magyar állampolgárról igényel adatot, akire vonatkozóan a tagállami ítéletek nyilvántartásában is szerepel adat, a bűnügyi nyilvántartó szerv adattovábbítása e nyilvántartásban kezelt adatokra is kiterjed. A megkereső tagállam kijelölt központi hatósága részére – az állampolgárság szerinti tagállam kijelölt központi hatóságát kivéve – a tagállami ítéletek nyilvántartásában kezelt adat csak büntetőeljárás céljából adható át.
+(2) Ha az Európai Unió más tagállamának kijelölt központi hatósága olyan magyar állampolgárról igényel adatot, akire vonatkozóan a tagállami ítéletek nyilvántartásában is szerepel adat, a bűnügyi nyilvántartó szerv adattovábbítása e nyilvántartásban kezelt adatokra is kiterjed. A megkereső tagállam kijelölt központi hatósága részére – az állampolgárság szerinti tagállam kijelölt központi hatóságát kivéve – adat csak büntetőeljárás céljából adható át.
 
 (3) Az (1) és (2) bekezdés szerinti adattovábbítást megelőzően – ha az lehetséges – az adatok ellenőrzésével biztosítani kell, hogy azok naprakészek és pontosak legyenek. Amennyiben utóbb megállapításra került, hogy hibás vagy hiányos adatok kerültek továbbításra, erről az adatátvevőt haladéktalanul értesíteni kell.
 
@@ -870,8 +878,9 @@ továbbítja.
 
 - a) a nyomozó hatóság és az ügyészség a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása,
 - b) a nemzetbiztonsági szolgálatok a külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzés,
-- c) az igazságügyi szakértői tevékenységről szóló törvény szerint szakvélemény adására jogosult szerv szakvélemény elkészítése, valamint
-- d) a rendőrség a rendkívüli haláleset miatt folyó közigazgatási hatósági eljárásban az ismeretlen személyazonosságú elhunyt személy azonosítása
+- c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv felderítés, elhárítás és információszerzés,
+- d) az igazságügyi szakértői tevékenységről szóló törvény szerint szakvélemény adására jogosult szerv szakvélemény elkészítése, valamint
+- e) a rendőrség a rendkívüli haláleset miatt folyó közigazgatási hatósági eljárásban az ismeretlen személyazonosságú elhunyt személy azonosítása
 
 céljából jogosult.
 
@@ -907,19 +916,27 @@ továbbítja.
 
 ### Automatikus találati adathozzáférés
 
-85. § (1) A Belga Királyság, a Németországi Szövetségi Köztársaság, a Spanyol Királyság, a Francia Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság és az Osztrák Köztársaság között a határon átnyúló együttműködés fokozásáról, különösen a terrorizmus, a határon átnyúló bűnözés és az illegális migráció leküzdése érdekében létrejött, a 2007. évi CXII. törvénnyel kihirdetett nemzetközi szerződésen (a továbbiakban: Prümi Szerződés) alapuló adatigénylés teljesítése céljából a szakértői nyilvántartó szerv biztosítja az Európai Unió más tagállamának kijelölt nemzeti kapcsolattartó pontja részére az ujj- és tenyérnyomat, valamint a DNS-profil elektronikus úton történő összehasonlítását a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt adatokkal.
+85. § (1) A Belga Királyság, a Németországi Szövetségi Köztársaság, a Spanyol Királyság, a Francia Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság és az Osztrák Köztársaság között a határon átnyúló együttműködés fokozásáról, különösen a terrorizmus, a határon átnyúló bűnözés és az illegális migráció leküzdése érdekében létrejött, a 2007. évi CXII. törvénnyel kihirdetett nemzetközi szerződésen (a továbbiakban: Prümi Szerződés) alapuló adatigénylés teljesítése céljából a szakértői nyilvántartó szerv biztosítja az együttműködő tagállamának kijelölt nemzeti kapcsolattartó pontja részére az ujj- és tenyérnyomat, valamint a DNS-profil elektronikus úton történő összehasonlítását a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt adatokkal.
 
-(2) Ha az (1) bekezdés alapján végzett összehasonlítás eredményeként megállapítható, hogy a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt ujj- és tenyérnyomat vagy DNS-profil megegyezik az összehasonlítás alapjául szolgáló ujj- és tenyérnyomattal vagy DNS-profillal, a szakértői nyilvántartó szerv az Európai Unió más tagállama nemzeti kapcsolattartó pontja részére ennek tényét, valamint az ujj- és tenyérnyomathoz vagy DNS-profilhoz kapcsolódó szakrendszeri azonosító kódot automatikusan megküldi.
+[(1) A Belga Királyság, a Németországi Szövetségi Köztársaság, a Spanyol Királyság, a Francia Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság és az Osztrák Köztársaság között a határon átnyúló együttműködés fokozásáról, különösen a terrorizmus, a határon átnyúló bűnözés és az illegális migráció leküzdése érdekében létrejött, a 2007. évi CXII. törvénnyel kihirdetett nemzetközi szerződésen, valamint az Európai Unió kötelező jogi aktusán alapuló adatigénylés teljesítése céljából a szakértői nyilvántartó szerv biztosítja az Európai Unió más tagállamának, valamint az Európai Unió kötelező jogi aktusában meghatározott más állam (a továbbiakban együtt: együttműködő tagállam) kijelölt nemzeti kapcsolattartó pontja részére
 
-(3) Ha az (1) bekezdés alapján végzett összehasonlítás eredményeként megállapítható, hogy a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt ujj- és tenyérnyomat vagy DNS-profil nem egyezik meg az összehasonlítás alapjául szolgáló ujj- és tenyérnyomattal vagy DNS-profillal, a szakértői nyilvántartó szerv az Európai Unió más tagállama nemzeti kapcsolattartó pontjával ezt a tényt automatikusan közli.
+a) bűnmegelőzés és büntetőeljárás lefolytatása céljából az ujj- és tenyérnyomat, valamint
 
-(4) A szakértői nyilvántartó szerv, a nyomozó hatóság, az ügyészség vagy a bíróság rendelkezésére, egyedi ügyben a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett ujj- és tenyérnyomatot, valamint DNS-profilt automatikus találati adathozzáférés útján összehasonlítja az Európai Unió más tagállamának nyilvántartásaiban kezelt ujj- és tenyérnyomatokkal, valamint DNS-profilokkal.
+b) büntetőeljárás lefolytatása céljából a DNS-profil
 
-(5) Ha az ujj- és tenyérnyomat vagy DNS-profil (4) bekezdés szerinti összehasonlítása egyértelmű egyezést eredményez az Európai Unió más tagállamának nyilvántartásaiban kezelt ujj- és tenyérnyomattal vagy DNS-profillal, az egyezés tényéről a szakértői nyilvántartó szerv haladéktalanul értesíti azt a nyomozó hatóságot, ügyészséget vagy bíróságot, amely az összehasonlítást elrendelte. Az értesítés tartalmazza az Európai Unió más tagállamának nyilvántartásaiban kezelt ujj- és tenyérnyomathoz vagy DNS-profilhoz kapcsolódó szakrendszeri azonosító kódot.
+elektronikus úton történő összehasonlítását a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt adatokkal.]
+
+(2) Ha az (1) bekezdés alapján végzett összehasonlítás eredményeként megállapítható, hogy a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt ujj- és tenyérnyomat vagy DNS-profil megegyezik az összehasonlítás alapjául szolgáló ujj- és tenyérnyomattal vagy DNS-profillal, a szakértői nyilvántartó szerv az együttműködő tagállama nemzeti kapcsolattartó pontja részére ennek tényét, valamint az ujj- és tenyérnyomathoz vagy DNS-profilhoz kapcsolódó szakrendszeri azonosító kódot automatikusan megküldi.
+
+(3) Ha az (1) bekezdés alapján végzett összehasonlítás eredményeként megállapítható, hogy a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt ujj- és tenyérnyomat vagy DNS-profil nem egyezik meg az összehasonlítás alapjául szolgáló ujj- és tenyérnyomattal vagy DNS-profillal, a szakértői nyilvántartó szerv az együttműködő tagállama nemzeti kapcsolattartó pontjával ezt a tényt automatikusan közli.
+
+(4) A szakértői nyilvántartó szerv, a nyomozó hatóság, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, az ügyészség vagy a bíróság rendelkezésére, egyedi ügyben a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett ujj- és tenyérnyomatot, valamint DNS-profilt automatikus találati adathozzáférés útján összehasonlítja az együttműködő tagállamának nyilvántartásaiban kezelt ujj- és tenyérnyomatokkal, valamint DNS-profilokkal.
+
+(5) Ha az ujj- és tenyérnyomat vagy DNS-profil (4) bekezdés szerinti összehasonlítása egyértelmű egyezést eredményez az együttműködő tagállamának nyilvántartásaiban kezelt ujj- és tenyérnyomattal vagy DNS-profillal, az egyezés tényéről a szakértői nyilvántartó szerv haladéktalanul értesíti azt a nyomozó hatóságot, ügyészséget vagy bíróságot, amely az összehasonlítást elrendelte. Az értesítés tartalmazza az együttműködő tagállamának nyilvántartásaiban kezelt ujj- és tenyérnyomathoz vagy DNS-profilhoz kapcsolódó szakrendszeri azonosító kódot.
 
 (6) Ha a (4) bekezdés szerinti összehasonlítás eredményeként a szakértői nyilvántartó szerv azt állapítja meg, hogy a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt ujj- és tenyérnyomattal vagy DNS-profillal azonos ujj- és tenyérnyomat vagy DNS-profil nem található, ennek tényét haladéktalanul közli azzal a nyomozó hatósággal, ügyészséggel vagy bírósággal, amely az összehasonlítást elrendelte.
 
-(7) A bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített anyagmaradványból meghatározott DNS-profilt a szakértői nyilvántartó szerv az Európai Unió más tagállamával egyeztetett időpontban automatizált módon összehasonlítja e tagállam nyilvántartásában kezelt DNS-profilokkal.
+(7) A bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített anyagmaradványból meghatározott DNS-profilt a szakértői nyilvántartó szerv az együttműködő tagállamával egyeztetett időpontban automatizált módon összehasonlítja e tagállam nyilvántartásában kezelt DNS-profilokkal.
 
 (8) Ha a DNS-profiloknak a (7) bekezdés szerinti összehasonlítása egyértelmű egyezést eredményez, a szakértői nyilvántartó szerv az egyezés tényéről, valamint az összehasonlítás során az Európai Unió tagállamaitól átvett szakrendszeri azonosító kódról haladéktalanul értesíti azt a nyomozó hatóságot, ügyészséget vagy bíróságot, amelynek eljárásában a DNS-profil meghatározásának alapjául szolgáló anyagmaradvány rögzítésére sor került.
 
@@ -962,7 +979,7 @@ továbbítja.
 - f) az adatigénylő megnevezését, az adathozzáférésre a 70. § (2) bekezdése szerint felhatalmazott személynek a közvetlen hozzáférésre való jogosultságot igazoló azonosító kódját, valamint
 - g) a továbbított adatok megnevezését.
 
-(2) A Prümi Szerződés alapján teljesített adattovábbításról vezetett adattovábbítási nyilvántartás tartalmára a Prümi Szerződés 39. cikkét kell alkalmazni, a Megállapodás alapján teljesített adattovábbításról vezetett adattovábbítási nyilvántartás tartalmára a Megállapodás 15. cikkét kell alkalmazni.
+(2) A Megállapodás alapján teljesített adattovábbításról vezetett adattovábbítási nyilvántartás tartalmára a Megállapodás 15. cikkét kell alkalmazni.
 
 (3) Az adattovábbítási nyilvántartás adatait az adattovábbítástól számított húsz évig meg kell őrizni.
 
@@ -1059,7 +1076,7 @@ fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint meg
 
 - a) a Tanács 2008/977/IB kerethatározata a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről,
 - b) a Tanács 2009/315/IB kerethatározata a bűnügyi nyilvántartásból származó információk tagállamok közötti cseréjének megszervezéséről és azok tartalmáról,
-- c) az Európai Parlament és a Tanács 95/46/EK irányelve a személyes adatok feldolgozása vonatkozásában az egyének védelméről és az ilyen adatok szabad áramlásáról.
+- c) az Európai Parlament és a Tanács 95/46/EK irányelve a személyes adatok feldolgozása vonatkozásában az egyének védelméről és az ilyen adatok szabad áramlásáról. [d) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozat 2–11. cikkei, valamint a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB határozat végrehajtásáról szóló, 2008. június 23-i 2008/616/IB tanácsi határozat 2–14. cikkei, e) az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló tanácsi határozat (2009. szeptember 21.).]
 
 #### 99. §
 

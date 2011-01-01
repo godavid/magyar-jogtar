@@ -36,7 +36,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - f) a nem pénzügyi intézmény által történő vámkezesség nyújtására, továbbá a vámigazgatási eljárásban a közvetett képviselő által a vámfizetési kötelezettség teljesítése érdekében végzett pénzügyi szolgáltatásra;
 - g)
 - h) a Magyar Vállalkozásfejlesztési Alapítvány Országos Mikrohitel Alapból történő pénzkölcsön nyújtási tevékenységére, valamint a megyei és fővárosi vállalkozásfejlesztési alapítványok mikrohitelezési tevékenységére;
-- i) a külön jogszabályban meghatározott fogyasztói csoportok szervezőinek tevékenységére.
+- i)
 
 (2) E törvény rendelkezései nem terjednek ki:
 
@@ -95,7 +95,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 
 (9) A függő ügynök a Felügyelet engedélye nélkül végezhet ügynöki tevékenységet.
 
-(10) A pénzügyi intézmény az általa megbízott függő ügynök, többes ügynök és közvetítői alvállalkozó személyét a Felügyelet által meghatározott módon és gyakorisággal bejelenti a Felügyeletnek.
+(10) A pénzügyi intézmény az általa megbízott függő ügynök, többes ügynök és közvetítői alvállalkozó személyét, valamint az alkusz az általa megbízott közvetítői alvállalkozó személyét a Felügyelet által meghatározott módon és gyakorisággal bejelenti a Felügyeletnek.
 
 (11) A kockázati tőkealap a tőkepiacról szóló 2001. évi CXX. tövényben (a továbbiakban: Tpt.) meghatározott mértékben az ott felsorolt személyi kör részére pénzkölcsönt nyújthat.
 
@@ -128,9 +128,13 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - g) a külön jogszabály alapján létrehozott Diákhitel Központ hitelezési tevékenységének elősegítése érdekében végzett tevékenységet, valamint
 - h) megbízás alapján elektronikus pénzeszközön történő adattárolást,
 - i) a pénzügyi szolgáltatásból származó veszteség mérséklése, illetve elhárítása érdekében tulajdonába került fedezet, illetőleg biztosíték hasznosítására irányuló tevékenységet,
-- j) követelések megbízás alapján történő kezelésére, behajtására irányuló tevékenységet
+- j) követelések megbízás alapján történő kezelésére, behajtására irányuló tevékenységet,
+- k) pénzügyi eszközre vonatkozó adat-, információértékesítést,
+- l) külön jogszabályban meghatározott közösségi támogatások közvetítését
 
 folytathat.
+
+(4) Fizetési rendszert működtető pénzügyi vállalkozás a (3) bekezdésben foglaltakon kívül egyéb pénzügyi szolgáltatásnak nem minősülő üzletszerű tevékenységet is folytathat, ha ezen tevékenysége a főtevékenységként végzett fizetési rendszer működtetését nem befolyásolja hátrányosan.
 
 ### A hitelintézet és szervezeti formái
 
@@ -236,7 +240,7 @@ végezhet.
 
 (4) A pénzügyi szolgáltatás közvetítését – az (5) bekezdésben meghatározott eltéréssel – bármely jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni vállalkozó is végezheti.
 
-(5) A többes kiemelt közvetítő részvénytársaságként vagy korlátolt felelősségű társaságként működhet.
+(5) A többes kiemelt közvetítő részvénytársaságként, korlátolt felelősségű társaságként vagy szövetkezetként működhet.
 
 (6) Pénzfeldolgozási tevékenységet [3. § (2) bekezdés c) pontja] pénzügyi intézménynek nem minősülő, jogi személyiséggel rendelkező gazdasági társaság vagy szövetkezet is végezhet.
 
@@ -417,7 +421,8 @@ végezhet.
 - a) a szervezeti felépítését belső szabályzatban áttekinthetően rögzíteni,
 - b) a felelősségi köröket egymástól elhatárolni és egyértelműen megfogalmazni,
 - c) a felmerülő kockázatok azonosítására, mérésére, kezelésére, nyomon követésére és jelentésére szolgáló hatékony eljárásokat alkalmazni, és
-- d) a jogszabályoknak megfelelő belső ellenőrzési mechanizmusokat, adminisztratív és számviteli eljárásokat alkalmazni.
+- d) a jogszabályoknak megfelelő belső ellenőrzési mechanizmusokat, adminisztratív és számviteli eljárásokat alkalmazni,
+- e) a hitelintézet a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 69/B–69/E. §-ban meghatározott elveknek megfelelő javadalmazási politikát és gyakorlatot megvalósítani.
 
 (2) Az (1) bekezdésben foglaltak alapján
 
@@ -433,9 +438,26 @@ végezhet.
 - c) a piaci kockázatok valamennyi lényeges forrásának és hatásának mérésére és kezelésére,
 - d) a nem kereskedési tevékenységet érintő, esetleges kamatváltozásokból származó kockázatok értékelésére, mérésére és kezelésére,
 - e) működési kockázatok mérésére, kezelésére, valamint vészhelyzeti és üzletmenet-folytonossági tervvel a folyamatos működés fenntartása, továbbá a súlyos üzletviteli fennakadásokból következő esetleges veszteségek mérséklése érdekében,
-- f) likviditása mérésére és kezelésére.
+- f) az egyes üzletágakhoz, devizanemekhez és a csoporthoz tartozó jogi személyekhez igazítva a likviditási kockázata megfelelő – akár egy napon belüli – időtávokon történő azonosítására, mérésére, kezelésére és nyomon követésére, ideértve a likviditási költség-, nyereség- és kockázat-allokációs eljárásokat is,
+- g) azon értékpapírosítási ügyletekből eredő kockázatok értékelésére és kezelésére, amelyeknél a hitelintézet befektetőként, kezdeményezőként vagy szponzorként lép fel, ideértve a hírnévkockázatot – így különösen a bonyolult struktúrákból vagy termékekből eredő hírnévkockázatot – is, annak biztosítására, hogy az ügylet gazdasági tartalma teljes mértékben tükröződjön a kockázatok értékelésére és kezelésére vonatkozó döntésekben.
 
-(4) A (3) bekezdés f) pontjában foglaltak teljesítése érdekében a hitelintézetnek alternatív forgatókönyvet kell meghatároznia, és legalább évente egyszer felül kell vizsgálnia a nettó finanszírozási pozícióval (eszköz-, forrás szerkezettel és lejárati összhanggal) kapcsolatos döntéseket alátámasztó feltételezéseket.
+(4) A (3) bekezdés f) pontjában foglaltak teljesítése érdekében:
+
+- a) a hitelintézet igazgatósága kockázattűrési mértéket határoz meg minden érintett üzletágra;
+- b) az eljárásrendeknek, szabályzatoknak arányban kell állniuk a hitelintézet méretével, tevékenységének összetettségével és körével, az igazgatóság által meghatározott kockázatvállalási limitjeivel, valamint a hitelintézetnek az Európai Unió azon tagállamaiban betöltött rendszerszintű fontosságával, amelyekben pénzügyi szolgáltatási tevékenységet végez;
+- c) a hitelintézet a finanszírozási pozíciók azonosítására, mérésére, kezelésére és nyomon követésére belső szabályzatot dolgoz ki, amely tartalmazza az eszközökből, a forrásokból, a mérlegen kívüli tételekből – ideértve a függő kötelezettségeket is – eredő aktuális és várható pénzáramlásokat, valamint a hírnévkockázat esetleges hatásai miatti becsült pénzáramlásokat is;
+- d) a hitelintézet egy esetleges válsághelyzetre történő felkészülés érdekében elkülönítetten kezeli a dologi biztosítékkal terhelt, és a bármikor szabadon felhasználható eszközöket, valamint figyelembe veszi
+  - da) azt a személyt, akinek az eszköz a birtokában van,
+  - db) azt az országot, amelyben az eszköz nyilvántartásban vagy számlán szerepel,
+  - dc) az eszközök likviditási többlettartalékként történő beszámíthatóságát, és figyelemmel kíséri azt, hogy a likviditási tartalékok kellő idő alatt mozgósíthatók-e,
+  - dd) azon jogi, szabályozói és műveleti korlátozásokat, amelyek a likviditás és a szabadon felhasználható eszközök Európai Unió tagállamai közötti és harmadik országokba történő esetleges átruházására vonatkoznak;
+- e) a hitelintézetnek likviditási kockázatot mérséklő eszközöket kell alkalmaznia, ideértve a megfelelő limitrendszert, a különféle stresszeseménykor is fedezetet nyújtó likviditási többlettartalékokat, a kellően diverzifikált finanszírozási szerkezetet, valamint különféle finanszírozási forrásokhoz való hozzáférést is, amelyeket rendszeresen – legalább évente egyszer – felülvizsgál;
+- f) a hitelintézet igazgatóságának a likviditási pozíciókra és a kockázatmérséklő eszközökre vonatkozó alternatív forgatókönyvek figyelembevételével is át kell tekintenie, és legalább évente egyszer felül kell vizsgálnia a finanszírozási pozícióval kapcsolatos döntéseket alátámasztó feltételezéseket azzal, hogy az alternatív forgatókönyvnek ki kell térnie a mérlegen kívüli tételekre és más függő kötelezettségekre, adott esetben azon különleges célú gazdasági egységre is, amellyel összefüggésben a hitelintézet szponzorként lép fel, vagy amelynek lényeges likviditási támogatást nyújt;
+- g) a hitelintézetnek eltérő időtávok és stresszesemények figyelembevételével kell felmérnie az intézményfüggő, a piaci szintű és a kettő kombinációjából adódó alternatív forgatókönyvek lehetséges hatásait;
+- h) a hitelintézet stratégiáit, belső szabályzatait és kockázatvállalási limitjeit az f) pontban meghatározott alternatív forgatókönyvek kimenetele alapján kimutatott likviditási kockázatához kell igazítania;
+- i) a hitelintézetnek az esetleges likviditási hiányok megszüntetésére irányuló stratégiákat és végrehajtási intézkedéseket tartalmazó vészhelyzeti tervekkel kell rendelkeznie, amelyeket az f) pont szerinti alternatív forgatókönyvek kimenetele alapján rendszeresen tesztelni és frissíteni kell.
+
+(4a) A rulírozó kitettségek értékpapírosítását kezdeményező hitelintézetnek, ha az értékpapír előrehozott tőketörlesztésre vonatkozó rendelkezést tartalmaz, likviditási tervvel kell rendelkeznie a terv szerinti tőketörlesztés, valamint az előrehozott tőketörlesztés esetére.
 
 (5) Összevont alapú felügyelet alá tartozó hitelintézetnek az irányítási rendszerre és kockázatkezelésre vonatkozó követelményeket ellenőrző befolyása alatt álló hitelintézetével és befektetési vállalkozásával együttesen is teljesítenie kell.
 
@@ -567,15 +589,15 @@ engedélyezését, a kérelmet az EU-szintű hitelintézeti anyavállalatnak vag
 - f) alapvető kölcsöntőkéje és járulékos kölcsöntőkéje felmondásához, valamint a szerződésben kikötött felmondási idő előtti tőketörlesztéshez,
 - g) tőkekövetelményének költség módszerrel vagy irányadó mutató módszerrel történő meghatározásához.
 
-16. § (1) A pénzváltás közvetítésére csak kiemelt közvetítő vagy többes kiemelt közvetítő kaphat engedélyt.
+16. § (1) A pénzváltás közvetítésére csak kiemelt közvetítő kaphat engedélyt.
 
 (2) A 3. § (2) bekezdésének b) pontjában meghatározott kiegészítő pénzügyi szolgáltatás végzésére – a (4) bekezdésben meghatározott kivétellel – pénzügyi vállalkozás, pénzforgalmi intézmény (a továbbiakban együtt: pénzforgalmi elszámolóház) a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha igazolja, hogy
 
 - a) legalább ötszázmillió forint jegyzett és befizetett tőkével rendelkezik,
-- b) a fizetési rendszer működtetését pénzügyi vállalkozás esetében – cégjegyzékben feltüntetett – főtevékenységként végzi, és egyéb tevékenysége a főtevékenységet kiegészíti, illetőleg a főtevékenység ellátását nem befolyásolja hátrányosan,
+- b) a fizetési rendszer működtetését pénzügyi vállalkozás esetében – cégjegyzékben feltüntetett – főtevékenységként végzi, egyéb tevékenysége a főtevékenységet kiegészíti, vagy a főtevékenység ellátását nem befolyásolja hátrányosan,
 - c) részvénytársaságként vagy részvénytársaság fióktelepeként működik.
 
-(3) Pénzforgalmi elszámolóházban tulajdoni részesedést kizárólag az MNB, hitelintézet, pénzforgalmi elszámolóház, pénzforgalmi intézmény, valamint a Tpt. szerinti elszámolóházi tevékenységet végző szervezet szerezhet.
+(3) Pénzforgalmi elszámolóházban tulajdoni részesedést kizárólag az MNB, hitelintézet, pénzforgalmi elszámolóház, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, valamint a Tpt. szerinti elszámolóházi tevékenységet végző szervezet szerezhet.
 
 (4) Ha a pénzforgalmi elszámolóház a kiegészítő pénzügyi szolgáltatást kizárólag készpénz-helyettesítő fizetési eszközökkel végzett fizetési műveletek tekintetében végzi, a kérelmező a 3. § (6) bekezdése szerinti engedélyt akkor is megkaphatja, ha igazolja, hogy – a (2) bekezdés a) pontjától eltérően – legalább százötvenmillió forint jegyzett és befizetett tőkével rendelkezik.
 
@@ -779,7 +801,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 (3) Ha a kérelmező az (1) bekezdés b) pontjában meghatározott adatot nem igazolja, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz vagy bírósághoz.
 
-19. § A 14. § (1) bekezdés h) pontjában meghatározott esetben az engedély iránti kérelemhez be kell nyújtani az írásbeli szerződést, amely azt a szerződési kikötést is tartalmazza, hogy a Felügyelet, illetőleg a hitelintézet korlátozás nélkül ellenőrizheti az ügynöknél a megbízás tárgyát képező tevékenységgel kapcsolatos gazdálkodást és az üzleti könyveket.
+19. § A 14. § (1) bekezdés h) pontjában és 15. § (1) bekezdés f) pontjában meghatározott esetben az engedély iránti kérelemhez be kell nyújtani az írásbeli szerződést, amely azt a szerződési kikötést is tartalmazza, hogy a Felügyelet, valamint a pénzügyi intézmény korlátozás nélkül ellenőrizheti a közvetítőnél a megbízás tárgyát képező tevékenységgel kapcsolatos gazdálkodást és az üzleti könyveket.
 
 ### A Magyar Nemzeti Bank engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatások engedélyezése
 
@@ -865,7 +887,8 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - d) részvényfajta megváltoztatása, új részvényfajta kibocsátása, vagy a korábban kibocsátott részvények típusainak módosítása,
 - e) az igazgatóság jogkörének módosítása,
 - f) átváltoztatható vagy elővásárlási jogot biztosító kötvény kibocsátása és az azokra vonatkozó szabályok módosítása,
-- g) részvényre vonatkozó elővásárlási jog alapítása és megváltoztatása.
+- g) részvényre vonatkozó elővásárlási jog alapítása és megváltoztatása,
+- h) részjegy névértékének, az egy tag által jegyezhető vagy jegyzendő részjegyek számának megváltoztatása.
 
 ### Átalakítás, egyesülés és szétválás engedélyezése
 
@@ -875,7 +898,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 (3) Hitelintézet csak abban az esetben alakítható át pénzügyi vállalkozássá vagy befektetési vállalkozássá, ha betétállományát az átalakítást eldöntő közgyűlési határozatot megelőzően teljes egészében átruházta.
 
-22. § (1) Pénzügyi vállalkozás kizárólag más pénzügyi vállalkozással egyesülhet, illetve beolvadhat hitelintézetbe. Hitelintézetbe más hitelintézet, pénzügyi vállalkozás, járulékos vállalkozás és befektetési vállalkozás olvadhat be, illetve hitelintézet más hitelintézettel olvadhat össze.
+22. § (1) Pénzügyi vállalkozás kizárólag más pénzügyi vállalkozással egyesülhet, illetve beolvadhat hitelintézetbe. Hitelintézetbe más hitelintézet, pénzügyi vállalkozás, járulékos vállalkozás befektetési vállalkozás és központi szerződő fél olvadhat be, illetve hitelintézet más hitelintézettel olvadhat össze.
 
 (2) Részvénytársasági formában működő pénzügyi intézmény nem egyesülhet szövetkezeti formában működő pénzügyi intézménnyel.
 
@@ -1034,7 +1057,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 ### Pénzforgalmi intézmény tevékenységi engedélyéhez kapcsolódó különös rendelkezések
 
-32. § (1) A pénzforgalmi intézmény kettő munkanapon belül a Felügyeletet írásban tájékoztatja, ha a pénzforgalmi szolgáltatási tevékenységre jogosító engedély megadását követően bármilyen változás hatással van a 18/A. §-ban meghatározott, az engedély iránti kérelemben foglaltak teljesítésére.
+32. § (1) A pénzforgalmi intézmény három napon belül a Felügyeletet írásban tájékoztatja, ha a pénzforgalmi szolgáltatási tevékenységre jogosító engedély megadását követően bármilyen változás hatással van a 18/A. §-ban meghatározott, az engedély iránti kérelemben foglaltak teljesítésére.
 
 (2) A Felügyelet az olyan – 6/A. § (2)–(4) bekezdésén kívüli – egyéb üzleti tevékenységet is végző pénzforgalmi intézménynek megtilthatja az egyéb üzleti tevékenység pénzforgalmi szolgáltatási tevékenységgel történő együttes folytatását, ha ezen egyéb üzleti tevékenység mértéke, jellege, vagy a Felügyelet részére történő átláthatóságának hiánya hátrányosan befolyásolja
 
@@ -1146,6 +1169,28 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 (2) Ha a Felügyelet rendelkezésére álló információk szerint az Európai Unió másik tagállamában székhellyel rendelkező pénzforgalmi intézmény pénzforgalmi közvetítői tevékenységet végző közvetítőjével, vagy fióktelepe létesítésével kapcsolatban felmerül a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására vonatkozó szabályok megsértése, akkor a Felügyelet köteles erről a székhely szerinti illetékes felügyeleti hatóságot is értesíteni.
 
+### Rendszerszinten jelentős fióktelep
+
+32/I. § (1) Ha egy magyarországi székhelyű hitelintézet az Európai Unió másik tagállamában fióktelepet létesített vagy a Felügyelet a fióktelepet létesítő hitelintézet konszolidáló felügyeleti hatósága, akkor a másik tagállam hatáskörrel rendelkező felügyeleti hatósága kérelmére a Felügyelet a kérelmező felügyeleti hatósággal közösen a fióktelepet rendszerszinten jelentős fióktelepnek minősítheti.
+
+(2) A Felügyelet – a (3) bekezdésben meghatározott szempontok figyelembevétele mellett alapos indoknak minősíthető érvek alapján – kérelmezheti az Európai Unió másik tagállamának hatáskörrel rendelkező konszolidáló felügyeleti hatóságánál vagy ennek hiányában a hitelintézet székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatóságánál, hogy közösen rendszerszinten jelentős fióktelepnek minősítsék az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet magyarországi fióktelepét.
+
+(3) A rendszerszinten jelentős minősítésnél az indok alaposságának megállapításakor különösen az alábbi szempontokat kell figyelembe venni:
+
+- a) a fióktelep adott tagállambeli piaci részesedése a betétállományt tekintve meghaladja-e a kettő százalékot,
+- b) a hitelintézet tevékenységének felfüggesztése vagy megszüntetése milyen hatást gyakorolna az adott tagállam piacának likviditására és fizetési, elszámolási és kiegyenlítési rendszerére,
+- c) az ügyfélszámot tekintve mekkora a fióktelep mérete és jelentősége az adott tagállam banki vagy pénzügyi rendszerében.
+
+(4) A Felügyelet intézkedik annak érdekében, hogy a másik tagállam hatáskörrel rendelkező felügyeleti hatóságával a rendszerszinten jelentős fiókteleppé minősítésről többoldalú eljárás keretében határozatot hozzanak.
+
+(5) Ha a kérelemről – annak kézhezvételétől számított két hónapon belül – többoldalú eljárás keretében nem hoznak határozatot, akkor ha a fióktelepet Magyarországon létesítették, a Felügyelet újabb két hónapos határidőn belül – az eljárásban részt vevő más tagállam hatáskörrel rendelkező felügyeleti hatóságainak a többoldalú eljárás során adott véleményére és fenntartásaira figyelemmel – egyedül határozhat arról, hogy a fióktelep rendszerszinten jelentősnek minősül.
+
+(6) A Felügyelet az (5) bekezdés szerinti határozatát megküldi a többi érintett tagállam hatáskörrel rendelkező felügyeleti hatóságának.
+
+(7) A (4) bekezdés szerinti közös határozat, valamint – ha a fióktelepet az Európai Unió másik tagállamában létesítették – a másik tagállam hatáskörrel rendelkező felügyeleti hatósága által fióktelepet rendszerszinten jelentősnek minősítő határozat Magyarországon közvetlenül alkalmazandó és végrehajtható.
+
+32/J. § Ha egy magyarországi székhelyű hitelintézet az Európai Unió másik tagállamában rendszerszinten jelentős fióktelepet létesített, a Felügyelet értesíti a másik tagállam hatáskörrel rendelkező felügyeleti hatóságát, amennyiben a hitelintézetnél vagy olyan vállalkozásnál, amelyre a hitelintézettel együttesen kiterjed az összevont alapú felügyelet, információt szerez olyan kedvezőtlen fejlemény bekövetkezéséről, amely súlyosan érintheti a hitelintézetet, vagy ha a hitelintézettel szemben kivételes intézkedést alkalmazott, és együttműködik a másik tagállam hatáskörrel rendelkező felügyeleti hatóságával a 96/C. § (11) bekezdésében meghatározott feladatok végrehajtása érdekében.
+
 ### III. Fejezet — A bankképviseletre vonatkozó sajátos szabályok
 
 33. § (1) A bankképviselet kapcsolatot tarthat személyekkel és szervezetekkel, a jogszabályok keretei között adatokat és információkat szolgáltathat a képviselt hitelintézetről, valamint elősegítheti annak szolgáltatásnyújtását és ügyfeleivel való kapcsolattartását, de üzletszerű tevékenységet nem folytathat.
@@ -1184,7 +1229,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - a) minősített befolyást kíván szerezni, vagy
 - b) minősített befolyását úgy kívánja módosítani, hogy az elérje a húsz, a harminchárom vagy a ötven százalékos határértéket.
 
-(2) Az (1) bekezdésben meghatározott engedély iránti kérelemhez a kérelmezőnek be kell nyújtania a 17. § (1) bekezdésének g), h) pontjában és a 17. § (3)–(4) bekezdésében meghatározott iratokat.
+(2) Az (1) bekezdésben meghatározott engedély iránti kérelemhez a kérelmezőnek be kell nyújtania a 17. § (1) bekezdésének g), h) pontjában és a 17. § (2)–(4) bekezdésében meghatározott iratokat.
 
 (3) A pénzügyi intézmény tulajdonosa a tulajdonjoghoz, illetőleg a szavazati joghoz kapcsolódó, annak arányát meghaladó előnyöket biztosító megállapodást csak a Felügyelet engedélyével köthet.
 
@@ -1339,7 +1384,7 @@ akkor a Felügyelet a kérelmet haladéktalanul továbbítja a pénzügyi intéz
 
 44. § (1) A Felügyelet előzetes engedélyével választható meg, illetőleg nevezhető ki a pénzügyi intézménynél, pénzforgalmi intézménynél a vezető állású személy, továbbá a pénzügyi holding társaság és a vegyes pénzügyi holding társaság tevékenységét ténylegesen irányító vezető állású személy.
 
-(2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem kézhezvételét követő huszonkét munkanapon belül azt nem utasítja el, vagy az engedélyezési eljárást nem függeszti fel. Ha az (1) bekezdésben meghatározott személlyel szemben a (6) bekezdésben meghatározott büntetőeljárás van folyamatban, a Felügyelet a kérelem elbírálásával kapcsolatos eljárását a büntetőeljárás befejezéséig felfüggeszti.
+(2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem megérkezését követő naptól számított harminc napon belül azt nem utasítja el, vagy az engedélyezési eljárást nem függeszti fel. Ha az (1) bekezdésben meghatározott személlyel szemben a (6) bekezdésben meghatározott büntetőeljárás van folyamatban, a Felügyelet a kérelem elbírálásával kapcsolatos eljárását a büntetőeljárás befejezéséig felfüggeszti.
 
 (3) A Felügyelet a természetes személy megválasztására, illetőleg kinevezésére irányuló engedélykérelmet akkor utasítja el, ha a (4)–(5) bekezdésben felsorolt kizáró okok valamelyike a kinevezésre vagy megválasztásra javasolt személlyel szemben fennáll, illetőleg ügyvezető esetén, ha a javasolt személy a 68. §-ban foglalt feltételeknek nem felel meg.
 
@@ -1407,7 +1452,7 @@ együttesen jogosult.
 
 48. § A vezető állású személy, illetőleg a pénzügyi intézmény könyvvizsgálója haladéktalanul bejelenti a Felügyeletnek, ha
 
-- a) fennáll a veszélye annak, hogy a pénzügyi intézmény nem tud eleget tenni a pénzügyi szolgáltatási tevékenységből származó kötelezettségeinek, nem tud megfelelni e törvény és a felhatalmazása alapján kiadott jogszabályok, valamint a Magyar Nemzeti Bankról szóló 1991. évi LX. törvény (a továbbiakban: MNB tv.), a pénzforgalomról szóló jogszabályok, valamint a devizajogszabályok előírásainak,
+- a) fennáll a veszélye annak, hogy a pénzügyi intézmény nem tud eleget tenni a pénzügyi szolgáltatási tevékenységből származó kötelezettségeinek, nem tud megfelelni e törvény és a felhatalmazása alapján kiadott jogszabályok, valamint a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény (a továbbiakban: MNB tv.), a pénzforgalomról szóló jogszabályok, valamint a devizajogszabályok előírásainak,
 - b) a pénzügyi intézmény nem tud eleget tenni fizetési kötelezettségeinek, vagy
 - c) bekövetkezett a pénzügyi intézmény alapítási, illetőleg tevékenységi engedélye visszavonásának a 29. §-ban meghatározott oka,
 - d) a kiegészítő alárendelt kölcsöntőke visszafizetésekor a pénzügyi intézmény szavatoló tőkéje nem éri el a rá vonatkozó tőkekövetelmény 120%-át,
@@ -1536,8 +1581,9 @@ van összefüggésben.
 - m) az Országos Betétbiztosítási Alap által külföldi betétbiztosítási rendszerek, valamint külföldi felügyeleti hatóságok részére együttműködési megállapodásban rögzített módon történő adattovábbítás, ha az adatok kezelésére, illetve felhasználására vonatkozóan a magyar szabályozással legalább egyenrangú védelem biztosított,
 - n) a pénzügyi intézmény által vállalt kockázat fedezetét nyújtó harmadik személy részére, a kockázatvállalás alapján fennálló követelés összegére és esedékességére vonatkozó adatszolgáltatás,
 - o) a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i, 1781/2006/EK európai parlamenti és tanácsi rendelet 4. cikkében meghatározott adatoknak a rendelet hatálya alá tartozó kedvezményezett fizetési szolgáltatója és közvetítő fizetési szolgáltató számára a rendelet által meghatározott esetekben történő továbbítása
-- p) az MNB részére, írásbeli megkeresés alapján a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény 4. § (1)–(7) bekezdéseiben meghatározott alapvető feladatai teljesítése érdekében végrehajtott műveletei biztosítékául szolgáló hitelkövetelésekre vonatkozó adatátadás,
-- q) a pénzügyi intézmény által a pénzügyi intézménnyel szerződéses kapcsolatban levő közvetítő részére a közvetítő által közvetített pénzügyi szolgáltatásra vonatkozó szerződés teljesítéséhez kapcsolódó adatszolgáltatás.
+- p) az MNB részére, írásbeli megkeresés alapján az MNB tv. 4. § (1)–(7) bekezdéseiben meghatározott alapvető feladatai teljesítése érdekében végrehajtott műveletei biztosítékául szolgáló hitelkövetelésekre vonatkozó adatátadás,
+- q) a pénzügyi intézmény által a pénzügyi intézménnyel szerződéses kapcsolatban levő közvetítő részére a közvetítő által közvetített pénzügyi szolgáltatásra vonatkozó szerződés teljesítéséhez kapcsolódó adatszolgáltatás,
+- r) Felügyelet által a 96/C. § (15) bekezdése szerinti válsághelyzetben az Európai Unió tagállamai központi bankjainak vagy az Európai Központi Banknak történő adattovábbítás, amennyiben az adatok törvény által előírt feladatuk teljesítéséhez szükségesek.
 
 (2)–(10)
 
@@ -1715,7 +1761,12 @@ a belső szabályzatban meghatározott mértékig.
 
 (2) Az (1) bekezdés b) pontja szerinti bejelentésnek tartalmaznia kell a kinevezni tervezett személy szakmai önéletrajzát, valamint az (1) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát, valamint az érintett személynek a 44. § (6) bekezdésében meghatározott büntetőeljárásra vonatkozó nyilatkozatát.
 
-(3) Az (1) bekezdés c) pontjának 1–3. alpontja alkalmazásában szakirányú felsőfokú iskolai végzettségűnek minősül, aki közgazdasági, jogi, pénzügyi és számviteli vagy külkereskedelmi végzettséget igazoló egyetemi diplomával, illetve főiskolai oklevéllel, illetőleg könyvvizsgálói vagy felsőfokú, illetőleg posztgraduális bankszakmai – így különösen banki tanácsadó – képesítéssel rendelkezik.
+(3) Az (1) bekezdés c) pontjának 1–3. alpontja alkalmazásában szakirányú felsőfokú iskolai végzettségűnek minősül, aki
+
+- a) a felsőoktatásról szóló 1993. évi LXXX. törvény szerint a közgazdasági felsőoktatásban egyetemi vagy főiskolai szintű szakképzettséget, vagy a felsőoktatásról szóló 2005. évi CXXXIX. törvény szerint a gazdaságtudományok képzési területen alapképzésben vagy mesterképzésben közgazdász szakképzettséget,
+- b) jogász szakképzettséget,
+- c) könyvvizsgálói képesítést vagy
+- d) felsőfokú vagy posztgraduális bankszakmai képesítést szerzett.
 
 (4) Pénzügyi vállalkozás ügyvezetőjének az nevezhető ki, aki
 
@@ -1738,6 +1789,43 @@ a belső szabályzatban meghatározott mértékig.
 (3) A hitelintézeten belül elkülönült szervezeti egységek banktitkot és értékpapírtitkot csak belső szabályzatban meghatározott módon adhatnak át egymásnak. A szabályzatnak biztosítania kell, hogy banktitokhoz és értékpapírtitokhoz csak az jusson hozzá, akinek arra feladata elvégzéséhez szüksége van.
 
 (4) A belső szabályzatot a Felügyeletnek meg kell küldeni.
+
+### Javadalmazási politika
+
+69/B. § (1) A hitelintézet méretének, belső szervezete és tevékenysége jellegének, körének és összetettségének megfelelő módon és mértékben belső szabályzatban meghatározott javadalmazási politikával rendelkezik.
+
+(2) A javadalmazási politika hatálya a hitelintézet vezető állású személyeire, valamint a belső szabályzatban meghatározott kockázatvállalási és ellenőrzési funkciót betöltő munkavállalókra és az előzőekkel azonos javadalmazási kategóriába tartozó azon munkavállalókra terjed ki, akik tevékenysége lényeges hatást gyakorol a hitelintézet kockázatvállalására.
+
+(3) A javadalmazási politikának összhangban kell állnia a hatékony és eredményes kockázatkezeléssel, elő kell segítenie annak alkalmazását, és nem ösztönözhet a hitelintézet kockázatvállalási limitjeit meghaladó kockázatok vállalására. A javadalmazási politikának a hitelintézet üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel is összhangban kell állnia, valamint az érdekkonfliktus elkerülését célzó intézkedéseket kell tartalmaznia.
+
+(4) A javadalmazási politikára vonatkozó szabályokat minden olyan vállalkozás tekintetében alkalmazni kell, amelyekre az összevont alapú felügyelet a hitelintézettel együttesen kiterjed.
+
+(5) A javadalmazási politika elveit az igazgatóság fogadja el és vizsgálja felül, a felügyelőbizottság felel annak végrehajtásáért, amelyet legalább évente a hitelintézet belső ellenőrzése vizsgál felül.
+
+(6) A mérlegfőösszege tekintetében legalább öt százalék piaci részesedéssel rendelkező hitelintézetek javadalmazási bizottságot állítanak fel, amely felügyeli a kockázatkezelésért és a jogszabályoknak történő megfelelésért felelős vezető javadalmazását, valamint előkészíti a javadalmazásra vonatkozó döntéseket a részvényesek, a befektetők és a hitelintézetben érdekelt egyéb felek hosszú távú érdekeinek figyelembevételével. A javadalmazási bizottság elnöke és tagjai az igazgatóság olyan tagjai közül kerülnek ki, akik az érintett hitelintézetben nem látják el szervezeti egység vezetését.
+
+69/C. § (1) A hitelintézetnek meg kell határoznia a teljes javadalmazáson belül az alapbér és a teljesítményjavadalmazás arányát. A hitelintézet belső szabályzatban rögzíti a teljes javadalmazáson belül az alapbér hányadát, amelynek olyan mértékűnek kell lennie, hogy rugalmas javadalmazási politika érvényesülhessen, és lehetőség legyen arra, hogy adott esetben a teljes javadalmazás kizárólag alapbérből álljon.
+
+(2) Teljesítményjavadalmazásnál egyszerre kell értékelni az egyén – pénzügyi és nem pénzügyi kritériumokon alapuló –, az érintett szervezeti egység és a hitelintézet eredményét. A teljesítményértékelés alapja a hitelintézet hosszú távú teljesítménye, ezért az értékelésnek többéves időtávra kell kiterjednie, a teljesítményjavadalmazás kifizetésére kötelezettséget vállalni csak kivételesen, új munkavállaló felvételekor egy évre lehet. A teljesítményjavadalmazásként szétosztható összeg meghatározásánál figyelembe kell venni a jelenlegi és jövőbeni kockázatokat, a tőke költségét és a szükséges likviditást.
+
+(3) A teljesítményjavadalmazás legalább ötven százaléka jogszabály eltérő rendelkezése hiányában a következőkből áll:
+
+- a) az érintett hitelintézet részvényei vagy tulajdoni részesedései az érintett hitelintézet jogi formájától függően és abból eredő sajátosságainak figyelembevételével, illetve a szabályozott piacra be nem vezetett hitelintézet esetében részvényhez kötött eszközök vagy azokkal egyenértékű nem készpénz alapú eszközök, és
+- b) adott esetben az 5. számú melléklet 14. a) pontja szerinti más – a hitelintézet jogi formáját és abból eredő sajátosságait figyelembevevő – eszközök, amelyek folyamatosan tükrözik a hitelintézet kitettségeinek minőségét azzal, hogy ezekre az eszközökre a visszatartási politika megfelelően vonatkozik.
+
+(4) Amennyiben a hitelintézet pénzügyi teljesítménye a belső szabályzatban meghatározottak szerinti mértékben azért romlik, mert az adott vezető állású személy, munkavállaló túlzott kockázatot vállalt, a vezető állású személy, munkavállaló kifizetendő teljesítményjavadalmazását csökkenteni kell.
+
+(5) A teljesítményjavadalmazás legalább negyven százalékát – a belső szabályzatban meghatározott küszöbértéknél magasabb összegű teljesítményjavadalmazás esetén legalább hatvan százalékát – halasztva, az üzleti tevékenység természetétől, kockázataitól és az adott vezető állású személy, munkavállaló tevékenységeitől függően három évnél rövidebb időtartamú munkaviszony esetén a munkaviszony megszűnésekor, egyébként három–öt éves időszak alatt kell kifizetni.
+
+(6) A teljesítményjavadalmazás kifizetése nem eredményezheti azt, hogy a hitelintézet nem tudja a szükséges mértékben megerősíteni a tőkéjét, és kifizetéskor a hitelintézet nem alkalmazhat olyan módszereket, amelyek nem állnak összhangban a javadalmazási politika elveinek teljesülésével.
+
+69/D. § (1) A munkaviszony megszűnéséhez kapcsolódó kifizetések az eltelt időszakban elért teljesítményt tükrözik, az el nem ért eredményhez kifizetés nem kapcsolódhat.
+
+(2) Ha a hitelintézet a nyugdíjpolitikára vonatkozó szabályzattal rendelkezik, annak összhangban kell állnia a hitelintézet üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel. Ha a nyugdíjpolitikára vonatkozó szabályzat alapján a vezető állású személy, munkavállaló részére teljesítményjavadalmazása részeként nem kötelező nyugdíjjuttatás jár, a hitelintézetnek a munkaviszony megszűnése után ötéves visszatartási időszak figyelembevételével kell kifizetnie ezen juttatásokat a 69/C. § (3) bekezdésében meghatározott eszközök formájában.
+
+69/E. § (1) A hitelintézet ellenőrzési feladatokat végző munkavállalói javadalmazása független az általuk felügyelt szervezeti egységek teljesítményétől, az a feladatkörükhöz kapcsolódó célkitűzések elérésén alapul.
+
+(2) A hitelintézet vezető állású személye, munkavállalója nem köthet olyan fedezeti ügyletet, amely a javadalmazására vonatkozó szerződésben foglalt kockázatvállalás hatásait kiküszöbölné.
 
 ## III. RÉSZ — A PRUDENS MŰKÖDÉSRE VONATKOZÓ KÖVETELMÉNYEK
 
@@ -1774,6 +1862,20 @@ a belső szabályzatban meghatározott mértékig.
 74. § (1) A hitelintézet szavatoló tőkéjének nagyságát a 5. számú melléklet alapján kell megállapítani.
 
 (2) Hitelintézetek egyesülése esetén az általános jogutód, illetőleg az átvevő hitelintézet szavatoló tőkéje nem lehet kevesebb, mint az egyesülő hitelintézetek egyesülés előtti szavatoló tőkéjének összege.
+
+74/A. § (1) Az alapvető kölcsöntőke, alárendelt kölcsöntőke felmondásához, törlesztéséhez, visszaváltásához és visszavásárlásához szükséges engedély megszerzése iránti kérelemben a hitelintézetnek
+
+- a) meg kell határoznia a felmondás, visszaváltás vagy visszavásárlás okát,
+- b) be kell mutatnia az aktuális, valamint a felmondást, visszaváltást vagy visszavásárlást követő öt év üzleti terve alapján a tőkekövetelményeknek való megfelelését,
+- c) be kell mutatnia azt, hogy ez a lépés mennyire van összhangban az elkövetkező öt év üzleti tervével, illetve stressztesztekkel igazolnia kell, hogy a felmondást, visszaváltást vagy visszavásárlást követően is képes megfelelni a jövőbeni lehetséges kockázatokból származó tőkekövetelményeknek.
+
+(2) A Felügyelet a felmondáshoz, a visszaváltáshoz, visszavásárláshoz az engedélyt abban az esetben adja meg, ha meggyőződött arról, hogy az nem veszélyezteti a hitelintézet jövőbeni tőkekövetelményeknek való megfelelését.
+
+(3) Ha a Felügyelet az alapvető kölcsöntőke, alárendelt kölcsöntőke felmondásához, törlesztéséhez, visszaváltásához és visszavásárlásához az engedélyt árjegyzői funkció betöltéséhez adja meg, a hitelintézet által visszaváltott, visszavásárolt kölcsöntőke nem haladhatja meg az adott kibocsátási sorozat tíz százalékát és a teljes kölcsöntőke kibocsátásának három százalékát.
+
+(4) A hitelintézet tizenöt nappal korábban köteles bejelenteni a Felügyelet részére, amennyiben szavatoló tőkéjének egy százalékát meghaladó mértékben kíván saját részvényt visszavásárolni, illetve ha az újabb visszavásárlással a visszavásárolt saját részvények szavatoló tőkéhez viszonyított aránya meghaladja az öt százalékot.
+
+(5) A Felügyelet megtiltja a hitelintézet számára a saját részvény visszavásárlását, amennyiben az veszélyezteti a 76. § (1)–(2) bekezdésében foglalt tőkekövetelmények betartását, ide nem értve a szabályozott piacra bevezetett részvénynek a Tpt. VI/A. Fejezet szerinti kivezetését.
 
 ### Általános tartalékképzés
 
@@ -1972,8 +2074,10 @@ ellenőrző befolyást szerez, akkor a (7) bekezdésben foglaltaknak való megfe
 - a) központi kormánnyal vagy központi bankkal szembeni kitettségi osztály esetén, ha az olyan ügyfelek száma alacsony, amelyekkel szemben jelentős kitettség áll fenn és a hitelintézet számára indokolatlan terhet jelentene az ezen ügyfelekre vonatkozó minősítési rendszer bevezetése,
 - b) hitelintézettel és befektetési vállalkozással szembeni kitettségi osztály esetén, ha az olyan ügyfelek száma alacsony, amelyekkel szemben jelentős kitettség áll fenn, és a hitelintézet számára indokolatlan terhet jelentene az ezen ügyfelekre vonatkozó minősítési rendszer bevezetése,
 - c) ha az üzleti egységekben lévő kitettségek, valamint a méret és kockázati jellemzői alapján a kitettségi osztályok nem jelentősek,
-- d) a Magyar Köztársaság kormányával szembeni kitettség esetén, ha ezen kitettséghez a 76/A. § alkalmazásában nulla százalékos kockázati súlyt kell rendelni,
-- e) a Magyar Köztársaság helyi önkormányzatával és közszektorbeli intézményével szembeni kitettség esetén, ha 1. a központi kormány helytáll – garancia vagy viszontgarancia nyújtása, készfizető kezesség vállalása formájában – a helyi önkormányzat és a közszektorbeli intézmény kötelezettségéért, valamint 2. a Magyar Köztársaság kormányával szembeni kitettséghez a 76/A. § alkalmazásában nulla százalékos kockázati súlyt kell alkalmazni,
+- d) az Európai Unió tagállamának központi kormányával szembeni kitettség esetén, ha ezen kitettséghez a 76/A. § alkalmazásában nulla százalékos kockázati súlyt kell rendelni,
+- e) az Európai Unió tagállamának regionális kormányával, helyi önkormányzatával és közszektorbeli intézményével szembeni kitettség esetén, ha
+  - ea) a központi kormány helytáll – garancia vagy viszontgarancia nyújtása, készfizető kezesség vállalása formájában – a regionális kormány, a helyi önkormányzat és a közszektorbeli intézmény kötelezettségéért, valamint
+  - eb) az Európai Unió tagállamának központi kormányával szembeni kitettséghez a 76/A. § alkalmazásában nulla százalékos kockázati súlyt kell alkalmazni,
 - f) a hitelintézet anyavállalatával, leányvállalatával és anyavállalatának leányvállalatával – ha az hitelintézet, befektetési vállalkozás, pénzügyi vállalkozás, befektetési alapkezelő vagy járulékos vállalkozás – szembeni kitettség esetén, ha a kitettség megfelel a 76/A. § (7) bekezdésében foglaltaknak, valamint a hitelintézet részvételével működő intézményvédelmi rendszer tagjával szembeni kitettség esetén, ha az intézményvédelmi rendszer megfelel a 76/A. § (8) bekezdésében foglaltaknak,
 - g) a központi kormányzat, regionális kormányzat, illetőleg helyi önkormányzat által finanszírozott olyan gazdálkodó szervezetben fennálló részesedés esetén, amelyhez a sztenderd módszer alkalmazása esetén nulla százalékos kockázati súlyt kell rendelni,
 - h) a gazdaság valamely ágazatának előmozdítására irányuló állami programok keretében felmerült olyan részesedések esetén, amelynél a hitelintézet általi befektetésekhez jelentős állami támogatást nyújtanak, és ezáltal a befektetésekre állami – ágazati, az érintett vállalkozás ezen tevékenységére kiterjedő – felügyelet és támogatás-felhasználási korlátozások vonatkoznak azzal, hogy az ez alapján mentesíthető részesedések értéke nem haladhatja meg a szavatoló tőke tíz százalékát,
@@ -2021,6 +2125,8 @@ ellenőrző befolyást szerez, akkor a (7) bekezdésben foglaltaknak való megfe
 (2) A hitelintézet olyan, elismert külső hitelminősítő szervezet hitelminősítését is használhatja, amely nem a minősítettnek a megrendelésére készült.
 
 76/H. § (1) A Felügyelet kérelemre vagy hivatalból a külső hitelminősítő szervezetet határozatában elismert hitelminősítő szervezetnek minősíti, ha annak minősítési módszertana – a külön jogszabályban foglaltaknak megfelelően – eleget tesz a tárgyilagosság, a függetlenség, a folyamatos felülvizsgálat és az átláthatóság követelményének, valamint a szervezet hitelminősítése megfelel a hitelesség és az átláthatóság követelményének.
+
+(1a) Ha egy külső hitelminősítő szervezetet a 1060/2009/EK európai parlamenti és tanácsi rendeletnek megfelelően nyilvántartásba vettek vagy hitelesítettek, úgy kell tekintetni, hogy minősítési módszertana eleget tesz a tárgyilagosság, a függetlenség, a folyamatos felülvizsgálat és az átláthatóság követelményének.
 
 (2) A Felügyelet hivatalból az elismert külső hitelminősítő szervezet elismertnek való minősítésének törléséről határozatot hoz, ha a rendelkezésére álló információk szerint a külső hitelminősítő szervezet már nem felel meg a külön jogszabályban meghatározott feltételeknek.
 
@@ -2112,76 +2218,96 @@ ellenőrző befolyást szerez, akkor a (9) bekezdésben foglaltak alkalmazásako
 
 (4) A kockázatvállalást tartalmazó szerződés tartama alatt a hitelintézet rendszeresen figyelemmel kíséri és dokumentálja a szerződésben foglalt feltételek megvalósulását, beleértve az ügyfél pénzügyi, gazdasági helyzetének alakulását és az (1) bekezdésben foglaltakat.
 
-78/A. § (1) Pénzügyi intézmény által vállalt, a sztenderd módszer alkalmazásakor a 76/A. § (1) bekezdés i) pontjába sorolható kitettségeinek együttes értéke nem haladhatja meg a fedezetül szolgáló ingatlanok együttes piaci értékének hetven százalékát.
-
-(2) E § alkalmazásában az ingatlan piaci értéke az a becsült összeg, amelyért az ingatlan tulajdonjoga gazdát cserélhetne magánjogi adásvételi szerződés keretében, egy önkéntes eladó és egy önkéntes vevő között, megfelelő marketingtevékenységet követően, tisztességes feltételek mellett történő tranzakció keretében, amelynek során a felek jólértesülten, ésszerűen, körültekintően és kényszer nélkül járnak el. Az értékmeghatározásnál más jogszabályban leírtak szerint, a termőföldnek nem minősülő ingatlanok hitelbiztosítéki értékének meghatározására vonatkozó módszertan az irányadó.
+78/A. § Értékpapírosítást kezdeményezőtől vagy szponzortól eltérő hitelintézet kizárólag a külön jogszabályban meghatározottak szerinti nettó gazdasági érdekeltség megtartása esetén vállalhat értékpapírosítási pozícióval kapcsolatos hitelkockázatot.
 
 ### Nagykockázat vállalásának korlátozása
 
-79. § (1) Nagykockázat vállalásának minősül az egy ügyféllel vagy ügyfélcsoporttal szembeni – a hitelezési kockázat tőkekövetelményének sztenderd módszerrel történő számításakor figyelembe veendő – kitettség, ha annak – (4) bekezdés szerint korrigált – értéke eléri a hitelintézet szavatoló tőkéjének legalább tíz százalékát.
+79. § (1) Nagykockázat vállalásának minősül az egy ügyféllel vagy ügyfélcsoporttal szembeni, a hitelezési kockázat tőkekövetelményének sztenderd módszerrel történő számításakor figyelembe veendő kitettség, ha annak – a (4) bekezdés szerint korrigált – értéke eléri a hitelintézet szavatoló tőkéjének legalább tíz százalékát.
 
-(2) Az egy ügyféllel vagy ügyfélcsoporttal szembeni – az (1) bekezdés szerint számított – kitettség értéknek az összege nem haladhatja meg a hitelintézet szavatoló tőkéjének a huszonöt százalékát.
+(2) Az egy ügyféllel vagy ügyfélcsoporttal szembeni – az (1) bekezdés szerint számított – kitettség értéknek az összege a hitelkockázat-mérséklés hatását is figyelembe véve
 
-(3) A hitelintézet által vállalt nagykockázat együttes összege nem lehet több, mint a hitelintézet szavatoló tőkéjének nyolcszorosa.
+- a) nem haladhatja meg a hitelintézet szavatoló tőkéjének a huszonöt százalékát, vagy
+- b) ha az ügyfél hitelintézet, befektetési vállalkozás, vagy az ügyfélcsoport egy vagy több hitelintézetet, befektetési vállalkozást is tartalmaz, akkor a negyvenkettő milliárd forint és az a) pontban meghatározott összeg közül a magasabbat azzal, hogy az ügyfélcsoport nem hitelintézet, befektetési vállalkozás tagjával szembeni kitettség értékének az összege – a hitelkockázat-mérséklés hatását is figyelembe véve – nem haladhatja meg a hitelintézet szavatoló tőkéjének a huszonöt százalékát.
+
+(3) Ha a hitelintézet szavatoló tőkéjének huszonöt százaléka nem éri el a negyvenkettő milliárd forintot, akkor a (2) bekezdés b) pontjának alkalmazásában – a hitelkockázat-mérséklés hatását is figyelembe véve – a kitettség értéke nem haladhatja meg a hitelintézet által a 13/D. § (3) bekezdés b) pontja alapján meghatározott mértéket, de legfeljebb a szavatoló tőke összegét.
 
 (4) A nagykockázat vállalásánál a kitettség értékének meghatározásakor a következőket kell figyelembe venni:
 
-- a) sztenderd módszer szerint meghatározott kitettség azzal, hogy a mérlegen kívüli kötelezettségvállalás esetén a külön jogszabályban meghatározott ügyletkockázati súlyok nem kerülnek alkalmazásra,
-- b) származtatott ügylet esetén a külön jogszabályban meghatározott módszerek valamelyike szerinti számított érték,
-- c) nem kell a számításokba bevonni 1. mindazon tételt, amelyet a szavatoló tőke kiszámítása során a prudenciális előírások túllépése miatt a hitelintézet a szavatoló tőkéjéből levont, vagy 2. a fizetést követő negyvennyolc órát meg nem haladóan fennálló valuta-, illetve devizaügyletből származó követelést, vagy 3. az értékpapír-adásvételi ügylet esetében a fizetést vagy az értékpapír leszállítását követő öt munkanapot meg nem haladóan fennálló követelést.
+- a) a hitelezési kockázat tőkekövetelményének sztenderd módszere szerint meghatározott kitettség érték azzal, hogy a mérlegen kívüli kötelezettségvállalás esetén a külön jogszabályban meghatározott ügyletkockázati súlyok nem kerülnek alkalmazásra,
+- b) származtatott ügylet esetén a hitelintézet partnerkockázatának kezeléséről szóló külön jogszabályban meghatározott módszerek valamelyike szerinti számított érték,
+- c) nem kell a számításokba bevonni
+  - ca) mindazon tételt, amelyet a szavatoló tőke kiszámítása során a prudenciális előírások túllépése miatt a hitelintézet a szavatoló tőkéjéből levont,
+  - cb) a fizetést követő két munkanapot meg nem haladóan fennálló valuta-, illetve devizaügyletből származó követelést,
+  - cc) az értékpapír-adásvételi ügylet esetében a fizetést vagy az értékpapír leszállítását követő öt munkanapot meg nem haladóan fennálló követelést,
+  - cd) az ügyfél részére nyújtott pénzforgalmi szolgáltatásból – ideértve a fizetési, értékpapír-elszámolási és klíring szolgáltatás végrehajtását is bármilyen valutában, devizában, vagy pénzügyi eszközzel kapcsolatos elszámolási, klíring és letéti szolgáltatást is – származó követelést a következő munkanapig, vagy
+  - ce) a pénzforgalmi szolgáltatásból – ideértve a fizetési, klíring és értékpapír-elszámolási szolgáltatás végrehajtását is bármilyen valutában, devizában – származó pénzforgalmi szolgáltatóval szemben fennálló napon belüli kitettséget.
 
-(5)
+(5) A nagykockázat meghatározásánál a pénzügyi szolgáltatási tevékenység és a befektetési szolgáltatási tevékenység során vállalt kockázatokat együttesen kell figyelembe venni. A befektetési szolgáltatási tevékenység során vállalt kockázatokkal a (2) és (3) bekezdésben meghatározott mérték túlléphető abban az esetben, ha a hitelintézet ezen kockázatok fedezetére jogszabályban meghatározott mértékű tőkével rendelkezik.
 
-(6) A nagykockázat meghatározásánál a pénzügyi szolgáltatási tevékenység és a befektetési szolgáltatási tevékenység során vállalt kockázatokat együttesen kell figyelembe venni. A befektetési szolgáltatási tevékenység során vállalt kockázatokkal a (2) bekezdésben meghatározott mérték túlléphető abban az esetben, ha a hitelintézet ezen kockázatok fedezetére jogszabályban meghatározott mértékű tőkével rendelkezik.
+(6) A hitelintézet az ügyfélcsoport meghatározásakor az
 
-(7) Ha az adott ügyfél vagy ügyfélcsoport a hitelintézet anyavállalata vagy leányvállalata, az adott anyavállalat leányvállalata, a hitelintézetben minősített befolyással rendelkező tulajdonos, vagy olyan vállalkozás, amelyben a hitelintézet vagy a hitelintézet tulajdonosa, igazgatósági tagja, felügyelő bizottsági tagja, ügyvezetője, illetve ezek közeli hozzátartozója minősített befolyással rendelkezik, a (2) bekezdésben meghatározott arány húsz százalék.
+- a) értékpapírosítási pozícióba,
+- b) kollektív befektetési értékpapírban fennálló kitettségbe vagy
+- c) egyéb tételbe tartozó kitettségi osztály esetében az ügyletet, az annak alapjául szolgáló eszközöket, vagy mindkettőt az ügylet gazdasági tartalma és az ügylet szerkezetéből eredő kockázatok felmérésével értékeli.
 
-(8) A hitelintézet a (7) bekezdésben meghatározott kockázatvállalásáról az igazgatóság jelen lévő tagjainak több mint kétharmados többségével dönt, az igazgatóság által jóváhagyott szabályzat alapján. A hitelintézet a kockázatvállalásokról elkülönített nyilvántartást vezet.
+(7) Ha a hitelintézet ügyfelei tulajdonosi struktúrájának vagy szervezeti változásának következtében lépi túl a (2) és (3) bekezdésben foglalt korlátozást, a Felügyelet – meghatározott feltételek előírásával – legfeljebb egyéves időtartamra felmentést adhat a túllépés összegének a szavatoló tőkéből történő levonása alól.
 
-(9) A kockázatvállalásról a (8) bekezdésben meghatározott döntésnek tartalmaznia kell a kamat- és törlesztési feltételeket is.
-
-(10) Ha a hitelintézet ügyfelei tulajdonosi struktúrájának vagy szervezeti változásának következtében lépi túl a (2) és (3), illetőleg (7) bekezdésében foglalt korlátozást, a Felügyelet – meghatározott feltételek előírásával – legfeljebb egyéves időtartamra felmentést adhat a túllépés összegének a szavatoló tőkéből történő levonása alól.
-
-(11) A hitelintézet haladéktalanul jelenti a Felügyelet részére, amennyiben a (7) bekezdés szerinti kockázatvállalás átlag alatti, vagy rosszabb minősítést kap.
-
-(12) Vitás esetben a Felügyelet dönt arról, hogy a kockázatvállalás a (7) bekezdés szerinti kockázatvállalásnak minősül-e.
-
-80. § (1) A 79. § (1)–(3) és (7) bekezdésében foglalt rendelkezéseket nem kell alkalmazni
+80. § A 79. § (1)–(3) bekezdésében foglalt rendelkezéseket nem kell alkalmazni
 
 - a) a hitelintézet anyavállalatával, az adott anyavállalat más leányvállalatával vagy a hitelintézet saját leányvállalatával szembeni kitettségre, amennyiben az érintett vállalkozásokra olyan összevont alapú felügyelet vonatkozik, amelybe a hitelintézet is beletartozik,
-- b) a központi kormánnyal, a központi bankkal szembeni olyan – hitelkockázati fedezettel nem ellátott – kitettségre, amelyhez a sztenderd módszer alkalmazásában nulla százalékos kockázati súly rendelhető,
-- c) a nemzetközi szervezettel, a multilaterális fejlesztési bankkal szembeni olyan – hitelkockázati fedezettel nem ellátott – kitettségre, amelyhez a sztenderd módszer alkalmazásában nulla százalékos kockázati súly rendelhető,
-- d) központi kormány, központi bank, nemzetközi szervezet, multilaterális fejlesztési bank vagy közszektorbeli intézmény által kifejezetten garantált olyan kitettségre, ahol a garanciát nyújtóval szembeni – hitelkockázati fedezettel nem ellátott – kitettségre a sztenderd módszer alkalmazásában nulla százalékos kockázati súly rendelhető,
-- e) olyan kitettségre, amely központi kormánnyal, központi bankkal, közszektorbeli intézménnyel, nemzetközi szervezettel vagy multilaterális fejlesztési bankkal szemben áll fenn, vagy amelyet ezek valamelyike garantál azzal, hogy akivel szemben a kitettség fennáll vagy aki a garanciát nyújtja, annak hitelkockázati fedezettel nem ellátott kitettségére a sztenderd módszer alkalmazásában nulla százalékos kockázati súly rendelhető,
-- f) központi kormánnyal, központi bankkal szembeni, a központi kormány, központi bank nemzeti pénznemében fennálló (denominált) és finanszírozott kitettségre,
-- g) olyan központi kormány, központi bank nemzeti pénznemében lévő, óvadékként lekötött összeg vagy óvadékul adott betét, az adott központi kormány, központi bank által kibocsátott hitelviszonyt megtestesítő értékpapír által fedezett kitettségre, amelynél a központi kormánnyal, központi bankkal szembeni kitettségre a sztenderd módszer alkalmazásában nulla százalékos kockázati súly rendelhető,
-- h) olyan kitettségre, amelynek hitelkockázati fedezete nemzetközi szervezet, multilaterális fejlesztési bank vagy az Európai Unió tagállamának központi kormánya, központi bankja, regionális kormánya, helyi önkormányzata vagy közszektorbeli intézménye által kibocsátott olyan, hitelviszonyt megtestesítő értékpapír, amelynél a központi kormánnyal, központi bankkal szembeni kitettségre a sztenderd módszer alkalmazásában nulla százalékos kockázati súly rendelhető,
-- i) külön jogszabályban meghatározott fedezett kötvény formájában fennálló kitettségre,
-- j) külön jogszabályban meghatározottak szerint nulla vagy húsz százalékos ügyletkockázati súlyozás alá tartozó, kitettséget jelentő mérlegen kívüli kötelezettségvállalásra, az ügyletkockázati súly nélkül számított ötvenszázalékos értéken,
-- k) a hitelintézettel, a befektetési vállalkozással és a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozással szembeni, szavatoló tőke számításánál figyelembe vehető kötelezettséget nem eredményező, legfeljebb egyéves lejáratú kitettségre,
-- l) a biztosítóban lévő részesedésre a hitelintézet szavatoló tőkéjének legfeljebb negyven százalékáig,
+- b) a hitelintézet részvételével működő intézményvédelmi rendszer tagjával szembeni kitettségre, ha az intézményvédelmi rendszer megfelel a 76/A. § (8) bekezdésében foglaltaknak,
+- c) a központi kormánnyal, a központi bankkal szembeni olyan kitettségre, amelyhez a hitelezési kockázat tőkekövetelményének sztenderd módszere alkalmazásában hitelkockázati fedezet nélkül is nulla százalékos kockázati súly rendelhető,
+- d) a nemzetközi szervezettel, a multilaterális fejlesztési bankkal szembeni olyan kitettségre, amelyhez a hitelezési kockázat tőkekövetelményének sztenderd módszere alkalmazásában hitelkockázati fedezet nélkül is nulla százalékos kockázati súly rendelhető,
+- e) központi kormány, központi bank, nemzetközi szervezet, multilaterális fejlesztési bank vagy közszektorbeli intézmény által kifejezetten garantált olyan kitettségre, ahol a garanciát nyújtóval szembeni kitettségre a hitelezési kockázat tőkekövetelményének sztenderd módszere alkalmazásában hitelkockázati fedezet nélkül is nulla százalékos kockázati súly rendelhető,
+- f) olyan kitettségre, amely központi kormánnyal, központi bankkal, közszektorbeli intézménnyel, nemzetközi szervezettel vagy multilaterális fejlesztési bankkal szemben áll fenn, vagy amelyet ezek valamelyike garantál azzal, hogy akivel szemben a kitettség fennáll vagy aki a garanciát nyújtja, annak hitelkockázati fedezettel nem ellátott kitettségére a hitelezési kockázat tőkekövetelményének sztenderd módszere alkalmazásában nulla százalékos kockázati súly rendelhető,
+- g) az olyan készpénz óvadékkal fedezett kitettségre, amelyet a hitelintézetnél vagy a hitelintézet anya- vagy leányvállalatánál helyeztek el,
+- h) az olyan letéti jegy óvadékkal fedezett kitettségre, amelyet a hitelt nyújtó hitelintézet vagy az a hitelintézet bocsátott ki, amely a hitelt nyújtó hitelintézet anya- vagy leányvállalata, és amely óvadékot ezek valamelyikénél helyezték el,
+- i) olyan kitettségre, amelynek hitelkockázati fedezete nemzetközi szervezet, multilaterális fejlesztési bank vagy az Európai Unió tagállamának központi kormánya, központi bankja, regionális kormánya, helyi önkormányzata vagy közszektorbeli intézménye által kibocsátott olyan, hitelviszonyt megtestesítő értékpapír, amelynél a központi kormánnyal, központi bankkal szembeni kitettségre a hitelezési kockázat tőkekövetelményének sztenderd módszere alkalmazásában nulla százalékos kockázati súly rendelhető,
+- j) a hitelezési kockázat kezeléséről szóló külön jogszabályban meghatározott fedezett kötvény formájában fennálló kitettségre,
+- k) külön jogszabályban meghatározottak szerint húsz százalékos ügyletkockázati súlyozás alá tartozó mérlegen kívüli okmányos meghitelezésre, valamint – az l) pontban meghatározott eltéréssel – hitelkeret még igénybe nem vett részére, az ügyletkockázati súly nélkül számított ötvenszázalékos értéken,
+- l) külön jogszabályban meghatározottak szerint nulla százalékos ügyletkockázati súlyozás alá tartozó mérlegen kívüli hitelkeret még igénybe nem vett részére, ha olyan megállapodás van az ügyféllel vagy ügyfélcsoporttal, amely alapján a hitel csak akkor hívható le, ha az nem vezet a 79. § (2) bekezdésében meghatározott korlátozás túllépéséhez,
 - m) olyan hitelintézettel szemben fennálló kitettségre, amellyel a hitelnyújtó hitelintézet jogszabályi vagy szerződéses kapcsolatban áll, és amely a hitelintézet készpénz-elszámolási műveletéért felelős.
 
-(2) Az (1) bekezdésben meghatározott ügyletekhez kapcsolódó fedezeteket a hitelintézet köteles elkülönítetten nyilvántartani, annak érdekében, hogy figyelemmel kísérje és elemezze a fedezet nyújtójával szembeni lehetséges koncentrációs kockázatot.
+(2) Az (1) bekezdésben meghatározott ügyletekhez kapcsolódó fedezeteket, valamint a 79. § (6) bekezdése szerinti kitettségi osztály alapjául szolgáló eszközöket a hitelintézet köteles elkülönítetten nyilvántartani, annak érdekében, hogy figyelemmel kísérje és elemezze a fedezet nyújtójával, valamint az alapul szolgáló eszközökkel szembeni lehetséges koncentrációs kockázatot.
 
-(3) A 2. számú melléklet I. fejezet 10.2. pontjának d) alpontja szerinti kockázatvállalások tekintetében a 79. § (1)–(3) és (7) bekezdésében foglalt rendelkezéseket a jelzálog-hitelintézet által megvásárolt önálló zálogjoggal biztosított egyes ügyfélkövetelésekre kell alkalmazni, a zálogjog megvásárlásának időpontjára vonatkozóan.
+(3) A 2. számú melléklet I. fejezet 10.2. pontjának d) alpontja szerinti kockázatvállalások tekintetében a 79. § (1)–(3) bekezdésében foglalt rendelkezéseket a jelzálog-hitelintézet által megvásárolt önálló zálogjoggal biztosított egyes ügyfélkövetelésekre kell alkalmazni, a zálogjog megvásárlásának időpontjára vonatkozóan.
 
-(4) A 79. § (1)–(3) és (7) bekezdés alkalmazásában a tagállam regionális kormányával, helyi önkormányzatával szembeni kitettség, valamint az általa garantált kitettség értékének húsz százalékát kell figyelembe venni, ha ezen kitettséghez a sztenderd módszer alkalmazásában húsz százalékos kockázati súly rendelhető.
+(4) A nagykockázat-vállalásra vonatkozó rendelkezések tekintetében a garancia magában foglalja a készfizető kezességet, valamint a hitelezési kockázat mérsékléseként figyelembe vehető hitelderivatívákat is a hitelkockázati eseményhez kapcsolt értékpapírok kivételével.
 
-(5) Hitelkockázati fedezetként kizárólag elismert hitelezéskockázat-mérséklő tétel vehető figyelembe. A hitelezésikockázat-mérséklő tétel figyelembevételekor a sztenderd módszer vagy a 76/C. § (6) bekezdésének c) pontja szerinti módszer alkalmazása esetén a külön jogszabályban rögzített hitelezésikockázat-mérséklő tételre vonatkozó minimális követelményeknek kell eleget tenni.
+(5) A nagykockázat-vállalásra vonatkozó rendelkezések tekintetében hitelkockázati fedezetként – a (6) bekezdésben meghatározott eltéréssel – kizárólag elismert hitelezésikockázat-mérséklő tétel vehető figyelembe azzal, hogy a hitelezésikockázat-mérséklő tétel figyelembevételekor a hitelezési kockázat tőkekövetelményének sztenderd módszere vagy a 76/C. § (6) bekezdésének c) pontja szerinti módszer alkalmazása esetén a külön jogszabályban rögzített hitelezésikockázat-mérséklő tételre vonatkozó minimális követelményeknek kell eleget tenni.
 
-81. § (1) A pénzügyi biztosítékok – külön jogszabályban meghatározott – átfogó módszerét alkalmazó hitelintézet a 80. § (1) bekezdésének j) pontja szerinti kitettség értékének meghatározásakor alacsonyabb értéket is használhat, amely nem lehet kevesebb az ügyféllel vagy ügyfélcsoporttal szembeni – külön jogszabályban meghatározott – teljes kiigazított értéknél.
+(6) Hitelkockázati fedezetként – a (7) bekezdésben meghatározott eltéréssel – nem vehető figyelembe a hitelkockázati fedezetek elismerhetőségéről szóló külön jogszabály szerinti
 
-(2) Ha a hitelintézet saját nemteljesítéskori veszteségráta és hitelegyenértékesítési tényező becslést alkalmaz, és a – külön jogszabályban meghatározott – pénzügyi biztosítékok kockázatmérséklő hatását elkülönítetten mutatja ki, akkor ezt a 79. § (2)–(3) és (7) bekezdésében foglalt korlátozások betartásának számításánál – a kitettség értékének meghatározásakor – is figyelembe veheti.
+- a) kereskedelmi szolgáltatáshoz vagy legfeljebb egy év eredeti lejáratú ügylethez kapcsolódó követelést terhelő dologi biztosíték,
+- b) ingó vagyontárgyat terhelő dologi biztosíték és
+- c) lízingbe adott vagyontárgyat terhelő dologi biztosíték.
 
-(3) Ha a hitelintézet saját nemteljesítéskori veszteségráta és hitelegyenértékesítési tényező becslést alkalmaz, és a pénzügyi biztosítékok kockázatmérséklő hatását nem mutatja ki elkülönítetten, akkor a Felügyelet az alábbi módszerek egyikét engedélyezheti:
+(7) A 79. § (4) bekezdése szerinti kitettség érték a tulajdonos által lakott vagy bérbe adott lakóingatlan hitelbiztosítéki értékének legfeljebb ötven százalékával csökkenthető, ha
 
-- a) a hitelintézet a pénzügyi biztosítékok kockázatcsökkentő hatását beszámíthatja a pénzügyi biztosítékok átfogó módszerének alkalmazásakor, vagy
-- b) a hitelintézet sztenderd módszer szerint nem nulla százalékos súlyozású értékpapír-óvadékkal fedezett követelésekre vonatkozó hitelezésikockázat-mérséklési eljárást alkalmaz.
+- a) a kitettség lakóingatlanon bejegyzett jelzálogjoggal van fedezve, vagy a kitettség olyan lízingügyletből ered, amelyben a lízingbeadó mindaddig fenntartja a lízingbe adott lakóingatlan tulajdonjogát, ameddig a lízingbe vevő nem él vételi jogával,
+- b) a lakóingatlan hitelbiztosítéki értékét legalább háromévente meghatározzák, és
+- c) a lakóingatlan a hitelkockázati fedezetek elismerhetőségéről szóló külön jogszabály szerint elismert hitelkockázati fedezet.
 
-(4) Ha a hitelintézet az (1)–(3) bekezdésben leírt módszereket alkalmazza, akkor a hitelkockázat koncentrációira vonatkozóan rendszeres stressz-tesztet köteles végezni, amely magában foglalja az esetlegesen igénybe vett biztosíték likvidálási értékét. A stressz-tesztek során olyan forgatókönyvet kell alkalmazni, amelyben a piaci körülmények romlása veszélyezteti a hitelintézet tőkemegfelelését és csökkenti a pénzügyi biztosíték likvidációs értékét. Ha a stressz-tesztek a fedezet értékének romlását jelzik, az (1)–(3) bekezdés céljaira alkalmazott pénzügyi biztosíték értékét arányosan csökkenteni kell.
+81. § (1) A 79. § (4) bekezdése szerinti kitettség értékének meghatározásakor a pénzügyi biztosítékok átfogó módszerét alkalmazó hitelintézet figyelembe veheti a 76/E–76/F. § szerinti hitelezésikockázat-mérséklés, a külön jogszabályban meghatározott volatilitási korrekciós tényező és a lejárati eltérés alapján kiszámított teljes mértékben korrigált kitettségi értéket.
 
-(5) Ha a hitelintézet az (1)–(3) bekezdésben leírt módszereket alkalmazza, akkor megfelelő stratégiával kell rendelkeznie a kitettség és annak pénzügyi biztosítéka lejárati eltérésének kezelésére, a (4) bekezdésben foglalt stressz-teszt negatív eredménye esetén követendő eljárásra, illetve az érintett fedezetekhez kapcsolódó koncentrációs kockázat kezelésére.
+(2) Ha a hitelintézetnek engedélyezték a saját nemteljesítéskori veszteségráta és a hitel-egyenértékesítési tényező becslés alkalmazását és a hitelintézet a pénzügyi biztosítékok kitettségre gyakorolt hatását a nemteljesítéskori veszteségrátára ható egyéb kockázati tényezőktől elkülönítetten is képes becsülni, akkor a pénzügyi biztosítékok kockázatmérséklő hatását a nagykockázat-vállaláskor figyelembe veendő kitettség értékének meghatározásakor figyelembe veheti. Ha a hitelintézetnek engedélyezték a pénzügyi biztosítékok kitettségre gyakorolt hatására vonatkozó saját becslés alkalmazását, akkor ezt a tőkekövetelmény számításánál alkalmazott módszerrel egységes alapon kell végrehajtani.
+
+(3) Ha a hitelintézetnek engedélyezték a saját nemteljesítéskori veszteségráta és a hitelegyenértékesítési tényező alkalmazását, de nem kapott engedélyt a (2) bekezdés alkalmazására, akkor a kitettség értékének meghatározására alkalmazhatja a pénzügyi biztosítékok átfogó módszerét, vagy a (6) bekezdés b) pontja szerinti módszert.
+
+(4) Ha a hitelintézet a (2)–(3) bekezdésben leírt módszereket alkalmazza, akkor a hitelkockázat koncentrációira vonatkozóan rendszeres stressztesztet köteles végezni, amely magában foglalja az esetlegesen érvényesített biztosíték likvidálási értékét. A stressztesztek során olyan forgatókönyvet kell alkalmazni, amelyben a piaci körülmények romlása veszélyezteti a hitelintézet tőkemegfelelését és csökkenti a pénzügyi biztosíték likvidációs értékét. Ha a stressztesztek a fedezet értékének romlását jelzik, a (2)–(3) bekezdés céljaira alkalmazott pénzügyi biztosíték figyelembe vehető értékét ezzel összhangban kell csökkenteni.
+
+(5) Ha a hitelintézet a (2)–(3) bekezdésben leírt módszereket alkalmazza, akkor megfelelő stratégiával kell rendelkeznie a kitettség és annak fedezeteként figyelembe vett pénzügyi biztosíték lejárati eltérésének kezelésére, a (2) vagy (3) bekezdés szerinti módszernél alacsonyabb likvidációs értéket eredményező stresszteszt esetén követendő eljárásra, illetve az érintett fedezetekhez kapcsolódó koncentrációs kockázat kezelésére.
+
+(6) Ha az ügyféllel szembeni kitettséget harmadik fél garanciája fedezi, vagy harmadik fél által kibocsátott elismert hitelkockázati fedezet biztosítja, a hitelintézet
+
+- a) a kitettség garanciával fedezett részét úgy kezelheti, mint ami a garantőrrel és nem az ügyféllel szemben merül fel, ha a hitelezési kockázat tőkekövetelményének sztenderd módszere alkalmazásában a garantőrrel szembeni fedezetlen kitettséghez azonos vagy kisebb kockázati súly rendelhető, mint az ügyféllel szembeni hitelkockázati fedezet nélküli kitettséghez,
+- b) a (8) bekezdésben meghatározott eltéréssel a kitettségnek az elismert hitelkockázati fedezettel biztosított részét úgy kezelheti, mint ami a harmadik féllel és nem az ügyféllel szemben merül fel, ha
+  - ba) a hitelezési kockázat tőkekövetelményének sztenderd módszere alkalmazásában a kitettség hitelkockázati fedezettel biztosított részéhez azonos vagy kisebb kockázati súly rendelhető, mint az ügyféllel szembeni hitelkockázati fedezet nélküli kitettséghez, és
+  - bb) nincs eltérés a kitettség lejárata, valamint a hitelkockázati fedezet lejárata között.
+
+(7) A (6) bekezdés a) pontja szerinti eljárás esetén a hitelkockázati fedezet elismerhetőségére és kockázatmérséklő hatásának a tőkekövetelmény-számítás során való számszerűsítésére vonatkozó külön jogszabály rendelkezéseit is megfelelően alkalmazni kell.
+
+(8) A hitelintézet a pénzügyi biztosítékok átfogó módszerét, valamint a (6) bekezdés b) pontja szerinti eljárást akkor alkalmazhatja együttesen, ha a hitelezési kockázata tőkekövetelményének meghatározásához a pénzügyi biztosítékok átfogó és egyszerű módszerének együttes alkalmazását a Felügyelet engedélyezte.
 
 ### Tulajdonszerzéshez kapcsolódó kockázatvállalás korlátozása
 
@@ -2197,7 +2323,7 @@ ellenőrző befolyást szerez, akkor a (9) bekezdésben foglaltak alkalmazásako
 
 83. § (1) A hitelintézet a szavatoló tőkéjének tizenöt százalékát meghaladó – könyv szerinti értéken számított – minősített befolyásnak minősülő befektetést – más pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, Tpt. szerinti elszámolóházi tevékenységet végző szervezet, befektetési alapkezelő, tőzsde, biztosító, viszontbiztosító, illetve a járulékos vállalkozás kivételével – egy vállalkozásban sem szerezhet, illetve nem tarthat birtokában.
 
-(2) A hitelintézet a vállalkozás jegyzett tőkéjének ötvenegy százalékát meghaladó – nettó értéken számított – közvetlen és közvetett tulajdont más pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, Tpt. szerinti elszámolóházi tevékenységet végző szervezet, befektetési alapkezelő, tőzsde, biztosító, viszontbiztosító, illetve a járulékos vállalkozás kivételével egy vállalkozásban sem szerezhet, illetve nem tarthat birtokában.
+(2) A hitelintézet a vállalkozás jegyzett tőkéjének ötvenegy százalékát meghaladó – nettó értéken számított – közvetlen és közvetett tulajdont más pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, Tpt. szerinti elszámolóházi tevékenységet végző szervezet, Tpt. szerinti központi szerződő fél tevékenységet végző szervezet, befektetési alapkezelő, tőzsde, biztosító, viszontbiztosító, illetve a járulékos vállalkozás kivételével egy vállalkozásban sem szerezhet, illetve nem tarthat birtokában.
 
 (3) A hitelintézetnek a más pénzügyi intézményen, befektetési vállalkozáson, árutőzsdei szolgáltatón, Tpt. szerinti elszámolóházi tevékenységet végző szervezeten, befektetési alapkezelőn, tőzsdén, biztosítón, viszontbiztosítón, illetve a járulékos vállalkozáson kívüli egyéb vállalkozásokban meglévő minősített befolyásának teljes, nettó értéken számított összege nem haladhatja meg a szavatoló tőkéjének hatvan százalékát.
 
@@ -2255,7 +2381,7 @@ ha azt az egyéb befektetésektől elkülönítve tartják nyilván, és elkül�
 
 87/A. § Ha a pénzügyi vállalkozás alkalmazza a hitelintézetekre vonatkozó szavatoló tőkére és tőkemegfelelésre [76–76/K. §], kockázatok és befektetések korlátozására [77–85. §], az eszközök minősítésére [86–87. §], irányítási rendszerre és kockázatkezelésre [13/D. §], irányításra és ellenőrzésre [44–48. §, 62–69. §], valamint a nyilvánosságra hozatal követelményére [137/A. §] vonatkozó rendelkezéseket, és saját tőkéje legalább kétmilliárd forint, akkor a pénzügyi vállalkozás e törvény, valamint az e törvény felhatalmazása alapján kiadott jogszabály tekintetében – a Felügyelet határozata szerint – hitelintézettel egyenértékű prudenciális szabályozásnak felel meg.
 
-87/B. § (1) Ha a pénzügyi vállalkozás igazolja a Felügyelet felé, hogy a 87/A. §-ban foglalt feltételeknek megfelel, akkor a Felügyelet – a kérelem beérkezését követő – negyvenöt munkanapon belül határozatot ad ki erről. A Felügyelet a honlapján közzéteszi a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozások listáját.
+87/B. § (1) Ha a pénzügyi vállalkozás igazolja a Felügyelet felé, hogy a 87/A. §-ban foglalt feltételeknek megfelel, akkor a Felügyelet – a kérelem beérkezését követő naptól számított – két hónapon belül határozatot ad ki erről. A Felügyelet a honlapján közzéteszi a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozások listáját.
 
 (2) A hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás haladéktalanul tájékoztatja a Felügyeletet, ha a 87/A. § szerinti feltételek már nem állnak fenn.
 
@@ -2364,9 +2490,9 @@ ahol a fizetési forgalom a pénzforgalmi intézmény előző üzleti évben tel
 
 89. § (1) A hitelintézet folyamatosan köteles biztosítani azonnali fizetőképességét (a továbbiakban: likviditás). Forrásgyűjtését és eszközkihelyezését likviditása folyamatos fenntartása mellett köteles végezni.
 
-(2) A hitelintézetnek az (1) bekezdésben foglalt kötelezettségét – tevékenységének jellegére, terjedelmére és kockázataira figyelemmel – követelései és kötelezettségei lejárati időpontjainak és összegeinek megfelelő összhangjával kell biztosítania.
+(2) A hitelintézetnek az (1) bekezdésben foglalt kötelezettségét – tevékenységének jellegére, terjedelmére és kockázataira figyelemmel – követelései és kötelezettségei lejárati időpontjainak és összegeinek megfelelő összhangjával, valamint az irányítási és kockázatkezelési követelmények [13/D. §] teljesítésével kell biztosítania.
 
-(3) A hitelintézet az (1) bekezdésben meghatározott likviditás biztosítására vonatkozó belső szabályzatot és tervet készít.
+(3)
 
 (4) Harmadik országbeli hitelintézet fióktelepe legalább százszázalékos eszközfenntartási mutatót köteles folyamatosan teljesíteni.
 
@@ -2508,10 +2634,10 @@ az összevont alapú felügyelet ellátásáról az érintett (ideértve a pénz
 
 (10) A 96/A. § szerinti ellenőrzést a Felügyelet más tagállam felügyeleti hatóságának kérésére is végezhet, valamint hozzájárulhat, hogy azt a hozzájárulást kérő felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő végezze el.
 
-(11) Ha a Felügyelet látja el az EU-szintű hitelintézeti anyavállalat vagy az EU-szintű pénzügyi holding társaság anyavállalat összevont alapú felügyeletét, akkor a (7)–(9) bekezdésben rögzítetteken kívül az illetékes felügyeleti hatóságokkal történő együttműködése
+(11) Ha a Felügyelet a konszolidáló felügyeleti hatóság, akkor a (7)–(9) bekezdésben rögzítetteken kívül az Európai Unió tagállamának hatáskörrel rendelkező felügyeleti hatóságokkal történő együttműködése kiterjed a felügyeleti tevékenységek tervezésére és összehangolására
 
-- a) kiterjed az ellenőrzési, a felügyeleti felülvizsgálati feladatok összehangolására,
-- b) keretében biztosítja a felügyeleti feladatok ellátásához szükséges információáramlást.
+- a) a rendes működés során, ideértve az irányítási rendszerre és a kockázatkezelési követelményre vonatkozó rendelkezések [13/D. §] ellenőrzését, a hitelintézetek belső tőkemegfelelési folyamatának [76/K. §] értékelését, a felügyeleti felülvizsgálatot [145/A. §], a nyilvánosságra hozatali követelmények [137/A. §] alkalmazását, valamint a hitelintézettel szemben alkalmazott intézkedéseket,
+- b) szükség esetén az illetékes központi bankok bevonásával a válsághelyzetekre való felkészülés és a válsághelyzetek során, ideértve a hitelintézetek működésében és a pénzügyi piacokon zajló kedvezőtlen folyamatokat is.
 
 (12) A Felügyelet – a XXVII. Fejezetre is tekintettel – minden olyan információt megad a tagállami illetékes felügyeleti hatóságnak, amely
 
@@ -2525,12 +2651,10 @@ az összevont alapú felügyelet ellátásáról az érintett (ideértve a pénz
 
 (14) Ha a Felügyelet egy másik tagállamban székhellyel rendelkező EU-szintű hitelintézeti anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat leányvállalatát felügyeli és olyan információra van szüksége, amellyel az EU-szintű hitelintézeti anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat felügyeleti hatósága már rendelkezik, akkor a Felügyeletnek elsődlegesen ehhez a hatósághoz kell fordulnia.
 
-(15) Ha a Felügyelet látja el az összevont alapú felügyelet alá tartozó hitelintézet felügyeletét, és olyan válsághelyzet áll elő, amely potenciálisan veszélyezteti a pénzügyi rendszer stabilitását azon tagállamok bármelyikében, amelyben
+(15) Ha a Felügyelet látja el az összevont alapú felügyelet alá tartozó hitelintézet felügyeletét, és olyan válsághelyzet áll elő – ideértve a pénzügyi piacokon zajló kedvezőtlen folyamatokat is –, amely potenciálisan veszélyezteti a pénzügyi rendszer stabilitását azon tagállamok bármelyikében, amelyben
 
 - a) az ezen hitelintézet ellenőrző befolyása alatt álló hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, vagy
-- b) az olyan hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, amelyben részesedési viszonnyal rendelkezik,
-
-az adott tagállamban székhelye van, akkor a Felügyelet haladéktalanul köteles tájékoztatni az érintett tagállam központi kormányát, illetékes felügyeleti hatóságát, valamint központi bankját.
+- b) az olyan hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, amelyben részesedési viszonnyal rendelkezik, a székhelye van, vagy amely tagállamban olyan hitelintézet létesített rendszerszinten jelentős fióktelepet, amelyre a Felügyelet összevont alapú felügyelete kiterjed, akkor a Felügyelet haladéktalanul köteles tájékoztatni az érintett tagállam központi kormányát, illetékes felügyeleti hatóságát, valamint központi bankját.
 
 ### XIV/A. Fejezet — KIEGÉSZÍTŐ FELÜGYELET
 
@@ -2830,13 +2954,13 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 ### Az Alap által fizetett kártalanítás
 
-101. § (1) Az Alap a kártalanításra jogosult személy részére a befagyott betét tőke- és kamatösszegét személyenként és hitelintézetenként összevontan legfeljebb ötvenezer euró összeghatárig forintban fizeti ki kártalanításként. A kártalanítás forintösszegét a kártalanítás 105. §-ának (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes MNB által közzétett hivatalos devizaárfolyam alapján kell meghatározni. Devizabetét esetén a kártalanítás összegének, valamint az e bekezdés szerinti összeghatárnak a megállapítása – a kifizetés időpontjától függetlenül – a kártalanítás 105. §-ának (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes MNB által közzétett hivatalos devizaárfolyamon történik.
+101. § (1) Az Alap a kártalanításra jogosult személy részére a befagyott betét tőke- és kamatösszegét személyenként és hitelintézetenként összevontan legfeljebb százezer euró összeghatárig forintban fizeti ki kártalanításként. A kártalanítás forintösszegét a kártalanítás 105. §-ának (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes MNB által közzétett hivatalos devizaárfolyam alapján kell meghatározni. Devizabetét esetén a kártalanítás összegének, valamint az e bekezdés szerinti összeghatárnak a megállapítása – a kifizetés időpontjától függetlenül – a kártalanítás 105. §-ának (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes MNB által közzétett hivatalos devizaárfolyamon történik.
 
 (2) Az Alap a befagyott tőkeösszeg után a még nem tőkésített és ki nem fizetett kamatot a kártalanítás 105. §-ának (1) bekezdésében meghatározott kezdő időpontjáig legfeljebb az (1) bekezdésben meghatározott összeghatárig a szerződés szerinti kamatlábbal téríti meg a kártalanításra jogosult személy részére.
 
 (3)
 
-(4) Nyereménybetétek esetén a szerződés szerinti kamat alatt az a kamat értendő, amellyel a betétet elfogadó hitelintézet a kifizetés időpontját megelőző sorsolás időpontja óta a nyereményalapot képezte. A kamatszámítás szempontjából a lekötés időpontjául a kifizetés időpontját megelőző sorsolás időpontját kell figyelembe venni.
+(4) Nyereménybetétek esetén – a betét elhelyezésének időpontjától függetlenül – a betétes legfeljebb az (1) bekezdésben meghatározott összeghatárig a betét névértékének megfelelő összegű kártalanításra jogosult.
 
 (5) A betétes az (1)–(4) bekezdés szerinti kártalanítást meghaladó kifizetésre az Alappal szemben semmilyen jogcímen nem tarthat igényt.
 
@@ -2851,6 +2975,8 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 (10) Közösségi betétek esetén az (1) bekezdésben meghatározott kártalanítási összeghatárt – a betétek elhelyezésének időpontjától függetlenül – társasházak és lakásszövetkezetek esetén lakásonként kell számításba venni, építőközösségek és iskolai takarékossági csoportok esetén a közösséget alkotó minden személy esetén külön kell számításba venni.
 
 (11) A betétes elhalálozása esetén – a betétek elhelyezésének időpontjától függetlenül – az örökhagyó és az örökösök betétjét a hagyatékátadó végzés vagy a bírósági ítélet jogerőre emelkedésétől számított egy évig vagy a rögzített kamatozású kamatperiódus végéig – a kettő közül a későbbi időpontig – külön betétnek kell tekinteni és az (1) bekezdés szerinti kártalanítási összeghatár meghatározásánál nem kell összevonni az örökösök más betéteivel. Az örökhagyó betétje után a kártalanítás az (1) bekezdésben meghatározott összeghatárig fizetendő ki, függetlenül az örökösök számától. Ezt a rendelkezést a közös betétekre is alkalmazni kell.
+
+(12) A 101. § (1) bekezdésének alkalmazása során az egyéni vállalkozó által elhelyezett betét – elhelyezésének időpontjától függetlenül – az ugyanazon személy által magánszemélyként elhelyezett betéttől külön betétnek minősül.
 
 102. § (1) Az Alap által biztosított betétek esetében a hitelintézet és a betétes között beszámításnak akkor van helye, ha a betétesnek a hitelintézettel szemben hitellel vagy más ügylettel kapcsolatos lejárt tartozása van. A hitelintézet a betétekre vonatkozó adatok átadásával egyidejűleg köteles a beszámítási igényét az Alappal közölni. A hitelintézet köteles okirattal igazolni, hogy a betétest (az adóst) a beszámítási igényéről tájékoztatta. Ha a beszámításra sor kerül, akkor az Alap a 101. § szerinti összegből a hitelintézetet megillető és részére átutalt összeg levonása után fennmaradó összeget fizeti ki a betétes részére.
 
@@ -2992,7 +3118,7 @@ a kért információt megadni.
 
 (5) A tagintézetek betétbiztosítással kapcsolatos kötelezettségeinek teljesítését – ideértve az adatoknak az Alap kifizető rendszerének megfelelő rendelkezésre állását és a betétek személyenként történő összevonását – a Felügyelet a helyszínen ellenőrzi. Az Alap ellenőrzéssel kapcsolatos javaslatát a Felügyelet figyelembe veszi az éves ellenőrzési tervének kialakításakor.
 
-(6) A hitelintézet köteles a betétekre és a betétesekre vonatkozó – a 3. számú melléklet I. fejezet szerinti – azonosító adatokat oly módon nyilvántartani, hogy azok a kártalanítás végrehajtása céljából az Alap kérésére öt munkanapon belül átadhatóak legyenek.
+(6) A hitelintézet köteles a betétekre és a betétesekre vonatkozó – a 3. számú melléklet I. fejezet szerinti – azonosító adatokat oly módon nyilvántartani, hogy azok a kártalanítás végrehajtása céljából az Alap kérésére öt munkanapon belül átadhatóak legyenek. Közösségi betéteknél a hitelintézet a betétes adatain túlmenően abban az esetben köteles a társasházak és lakásszövetkezetek esetén a lakások számát, építőközösségek és iskolai takarékossági csoportok esetén a közösséget alkotó személyek számát nyilvántartani, ha a betét összege meghaladja a 101. § (1) bekezdésében foglalt összeghatárt.
 
 (7) Az Alap a tagintézetek által megküldött adatállományok alapján rendszeresen teszteli kifizető rendszerének működését.
 
@@ -3020,7 +3146,7 @@ a kért információt megadni.
 
 - a) a csatlakozási díj,
 - b) hitelintézetek által teljesített rendszeres, illetve rendkívüli éves befizetés,
-- c) a Felügyelet által a hitelintézetektől, ide nem értve az önkéntes betétbiztosítási, illetve intézményvédelmi alapban tag szövetkezeti hitelintézeteket, a beszedett bírságok összegének nyolcvan százaléka,
+- c)
 - d) az Alap által felvett kölcsön,
 - e) egyéb bevétel.
 
@@ -3060,7 +3186,7 @@ a kért információt megadni.
 
 (9) Ha a kölcsön igénybevételét szükségessé tevő káresemény kapcsán az Alap bevételre tesz szert, azt elsősorban a fennálló kölcsöntartozás csökkentésére, ezt követően pedig a hitelintézeteket terhelő rendkívüli fizetési kötelezettség mérséklésére, illetőleg visszafizetésére kell fordítani.
 
-(10) A hitelintézet végelszámolása vagy felszámolása kezdő évében a végelszámolás vagy felszámolás kezdő napjáig az e §-ban meghatározottak szerint köteles időarányos éves díjat fizetni. A díj vetítési alapja a befizetést megelőző negyedév átlagos biztosított betétállománya.
+(10) A hitelintézet a végelszámolása vagy felszámolása kezdő évében a végelszámolás vagy felszámolás kezdő napjáig terjedő időszakra vonatkozóan az e §-ban meghatározottak szerint köteles időarányos éves díjat fizetni. A díj vetítési alapja a hitelintézet által a felszámolás vagy végelszámolás elrendelését megelőzően teljesített legutolsó díjfizetésének alapjául szolgáló betétállomány.
 
 ### A díjfizetés elszámolása
 
@@ -3113,7 +3239,7 @@ az Alap felszólítja a hitelintézetet a jogsértő magatartás megszüntetés�
 
 (4) A hitelintézet az önkéntes alapba befizetett összeget egyéb ráfordításként számolja el.
 
-(5) A Felügyelet által az önkéntes alapban tag szövetkezeti hitelintézetektől beszedett bírságok összegének nyolcvan százalékát az önkéntes alapba kell befizetni.
+(5)
 
 ### Az önkéntes alap megalakítása
 
@@ -3158,9 +3284,9 @@ megküldésével be kell jelenteni a Felügyeletnek.
 - a) az önkéntes alap nevét és székhelyét,
 - b) az alapítókat,
 - c) az önkéntes alaphoz történő csatlakozás és az abból történő kilépés, kizárás rendjét,
-- d) az önkéntes alap szervezetét,
+- d) az önkéntes alap szervezetét, valamint az önkéntes alap ellenőrzési és válságkezelési rendszerére vonatkozó előírásokat,
 - e) a közgyűlésen történő szavazás rendjét, a tagok szavazati arányát,
-- f) az önkéntes alap feladatait és az azokhoz kapcsolódó jogokat,
+- f) az önkéntes alap feladatait és az azokhoz kapcsolódó jogokat, ideértve az önkéntes alap feladatainak ellátásához szükséges ellenőrzéssel és adatszolgáltatással összefüggő jogokat is,
 - g) az önkéntes alap tagjának jogait és kötelezettségeit,
 - h) az önkéntes alap által kezelt vagyon kezelésének szabályait,
 - i) a tagok díjfizetési rendjét,
@@ -3192,7 +3318,7 @@ megküldésével be kell jelenteni a Felügyeletnek.
 - f) döntés egyesülés, szétválás és a megszűnés kérdésében, továbbá
 - g) amelyet törvény hatáskörébe utal.
 
-(4) A közgyűlést a létesítő okiratban meghatározott időközönként, de évente legalább kettő alkalommal össze kell hívni. A közgyűlést akkor is össze kell hívni, ha azt a bíróság elrendeli, illetőleg a tagok – létesítő okiratban meghatározott hányada – az ok és a cél megjelölésével indítványozzák.
+(4) A közgyűlést a létesítő okiratban meghatározott időközönként, de évente legalább egy alkalommal össze kell hívni. A közgyűlést akkor is össze kell hívni, ha azt a bíróság elrendeli, illetőleg a tagok – létesítő okiratban meghatározott hányada – az ok és a cél megjelölésével indítványozza.
 
 (5) A közgyűlést a kitűzött időpont előtt legalább tizenöt nappal az igazgatóságnak írásban kell összehívnia. A határozathozatal és a választás rendjét a létesítő okiratban kell meghatározni, azzal, hogy – az e törvényben rögzítettek figyelembevételével – valamennyi határozat meghozatalához legalább az önkéntes alap összes szavazatának többsége szükséges.
 
@@ -3365,7 +3491,7 @@ megküldésével be kell jelenteni a Felügyeletnek.
 
 130/H. § A KHR-t kezelő pénzügyi vállalkozás a részére átadott referenciaadatot „átruházás referenciaadat-szolgáltató részére” megjegyzéssel látja el, és feltünteti az átvevő referenciaadat-szolgáltató adatait, ha a referenciaadat-szolgáltató az adatszolgáltatással kapcsolatos szerződésből eredő követelést egy másik referenciaadat-szolgáltató részére ruházta át.
 
-130/I. § (1) A KHR-t kezelő pénzügyi vállalkozás – a (3)–(4) bekezdésben foglalt kivétellel – a referenciaadatokat a (2) bekezdésben meghatározott időponttól számított öt évig kezeli. Az öt év letelte után a KHR-t kezelő pénzügyi vállalkozás a referenciaadatokat véglegesen és vissza nem állítható módon törli.
+130/I. § (1) A KHR-t kezelő pénzügyi vállalkozás – a (3)–(5) bekezdésben foglalt kivétellel – a referenciaadatokat a (2) bekezdésben meghatározott időponttól számított öt évig kezeli. Az öt év letelte után a KHR-t kezelő pénzügyi vállalkozás a referenciaadatokat véglegesen és vissza nem állítható módon törli.
 
 (2) Az (1) bekezdésben meghatározott határidő számításának kezdete:
 
@@ -3377,6 +3503,8 @@ megküldésével be kell jelenteni a Felügyeletnek.
 (3) A KHR-t kezelő pénzügyi vállalkozás haladéktalanul és vissza nem állítható módon törli a referenciaadatot, ha a referenciaadat-szolgáltató jogutód nélkül megszűnt és az adatszolgáltatással kapcsolatos szerződésből eredő követelésnek másik referenciaadat-szolgáltató részére történő átruházására nem került sor, vagy ha a referenciaadat-szolgáltató az adatszolgáltatással kapcsolatos szerződésből eredő követelést nem referenciaadat-szolgáltató részére ruházta át.
 
 (4) A KHR-t kezelő pénzügyi vállalkozás haladéktalanul és vissza nem állítható módon törli a referenciaadatot, ha az jogellenesen került a KHR-be.
+
+(5) A KHR-t kezelő pénzügyi vállalkozás az adatszolgáltatással kapcsolatos szerződésből eredő késedelmes tartozás teljesítése esetén a teljesítéstől számított egy év elteltével haladéktalanul és vissza nem állítható módon törli a referenciaadatot.
 
 ### Ügyfélvédelem
 
@@ -3551,7 +3679,7 @@ nyújthatja be.
 - e) az eredményes, megbízható és független tulajdonlásra, illetőleg a prudens működésre vonatkozó jogszabályok, valamint az MNB tv., a pénzforgalomról szóló jogszabályok, a devizajogszabályok, illetve felügyeleti és jegybanki határozatok betartását, valamint
 - f) a megfelelő ellenőrzési rendszerek működését.
 
-(2) A könyvvizsgálónak az (1) bekezdésben foglaltakra vonatkozó megállapításait külön kiegészítő jelentésben kell rögzítenie, és ezt az igazgatóságnak, az ügyvezetőnek, a felügyelő bizottság elnökének, a Felügyeletnek, valamint az MNB-nek legkésőbb a tárgyévet követő év május 31-éig meg kell küldenie.
+(2) A könyvvizsgálónak az (1) bekezdésben foglaltakra vonatkozó megállapításait külön kiegészítő jelentésben kell rögzítenie, és ezt az igazgatóságnak, az ügyvezetőnek, a felügyelő bizottság elnökének, a Felügyeletnek, valamint – a szövetkezeti hitelintézet könyvvizsgálója kivételével – az MNB-nek legkésőbb a tárgyévet követő év május 31-éig meg kell küldenie.
 
 137. § (1) A pénzügyi intézmény és a pénzforgalmi intézmény köteles a könyvvizsgálóval – az éves beszámoló könyvvizsgálatára – kötött szerződést és valamennyi, a könyvvizsgáló által az éves beszámolóval kapcsolatban készített jelentést a Felügyelet számára megküldeni.
 
@@ -3703,11 +3831,14 @@ rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása é
 - a) a belső minősítési módszert alkalmazó hitelintézet által végzett stressz-teszt eredményekre,
 - b) a 13/D. § (2) bekezdésének f) pontja szerinti koncentrációs kockázat kezelésére,
 - c) az elismert hitelezésikockázat-mérséklési módszerek használatával kapcsolatos – a 13/D. § (2) bekezdésének e) pontja szerinti – kockázat kezelésére szolgáló eljárások és szabályzatok megbízhatóságára, megfelelőségére és alkalmazási módjára,
-- d) a hitelintézet likviditási kockázatokkal szembeni kitettségének mértékére, és e kitettségnek a hitelintézet általi kezelésére,
+- d) a hitelintézet likviditási kockázatokkal szembeni kitettségének mértékére, e kockázatoknak a hitelintézet általi mérésére és kezelésére, ideértve az alternatív forgatókönyvek elemzését, a kockázatcsökkentő eszközök alkalmazását, a likviditási többlettartalékok mértékét, összetételét és minőségét, valamint a vészhelyzeti terveket,
 - e) a hitelportfólió-megoszlás (diverzifikáció) hatására és annak kockázatfelmérési rendszerben történő figyelembevételére,
 - f) a piaci kockázattal kapcsolatos tőkekövetelményhez belső modell módszert használó hitelintézet által végrehajtott stressz-teszt eredményekre,
 - g) a kitettséggel szemben felmerülő országkockázatból eredő pótlólagos tőkekövetelményre, és
-- h) egy olyan mérési vizsgálatra, amelynek keretében a Felügyelet megállapítja, hogy egy – általa megállapított mértékű – hirtelen és váratlan kamatlábváltozásnak milyen hatása lenne a szavatoló tőkére.
+- h) egy olyan mérési vizsgálatra, amelynek keretében a Felügyelet megállapítja, hogy egy – általa megállapított mértékű – hirtelen és váratlan kamatlábváltozásnak milyen hatása lenne a szavatoló tőkére,
+- i) arra, hogy a hitelintézet által értékpapírosított eszközökre vonatkozó szavatoló tőke mértéke megfelel-e az ügylet gazdasági tartalma által indokolt mértéknek, ideértve az átadott kockázat mértékét is.
+
+(2a) A (2) bekezdés d) pontja szerinti felülvizsgálat keretében a Felügyelet a hitelintézet pénzügyi piacon betöltött szerepéhez igazodva értékeli a likviditási kockázat kezelését, valamint a likviditási kockázatot mérséklő eszközök alkalmazását.
 
 (3) Az (1)–(2) bekezdés szerinti felülvizsgálat és értékelés alapján a Felügyeletnek meg kell határoznia, hogy a hitelintézet által alkalmazott szabályzatok, stratégiák, eljárások és módszerek, valamint a hitelintézet szavatoló tőkéje biztosítja-e a kockázatok fedezetét és megbízható kezelését.
 
@@ -3717,19 +3848,21 @@ rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása é
 
 (6) A Felügyelet által végzett felülvizsgálat és értékelés kiterjed a hitelintézetnek a nem kereskedési könyvben nyilvántartott kitettségének a kamatkockázatára.
 
-146. § (1)–(4)
+### Csoportszintű felügyeleti felülvizsgálat
 
-(5)
+146. § (1) Ha a Felügyelet a konszolidáló felügyeleti hatóság, akkor a másik tagállam hatáskörrel rendelkező felügyeleti hatóságával közösen, mindazon összevont felügyelet alá tartozó vállalkozások csoportszintű kockázatelemzését tartalmazó jelentés a Felügyelet által a többi hatáskörrel rendelkező felügyeleti hatóságnak történő megküldését követő négy hónapon belül írásbeli, indokolt határozatban együtt dönt arról, hogy a csoport szavatolótőkéje összevont alapon megfelel-e a csoport pénzügyi helyzetének, kockázati profiljának, és amennyiben pótlólagos tőkekövetelmény előírására kerül sor, annak mértékéről összevont alapon vagy a csoport tagjára nézve. A határozatban figyelembe kell venni a másik tagállam hatáskörrel rendelkező felügyeleti hatóságának leányvállalatról készített kockázatértékeléseit is.
 
-(6)
+(2) Az (1) bekezdésben foglalt eljárás során a Felügyelet az Európai Bankfelügyelők Bizottságával egyeztetést folytathat, és amennyiben a felügyeleti hatóságok közötti egyet nem értés miatt egy másik tagállam hatáskörrel rendelkező felügyeleti hatósága azt kéri, egyeztetést folytat. Az Európai Bankfelügyelők Bizottságának ajánlását a Felügyeletnek figyelembe kell vennie, vagy indokolnia kell az ettől való jelentős eltérést.
 
-(7)
+(3) Ha a hatóságok az (1) bekezdésben foglalt eljárás során a határozatot négy hónapon belül nem hozzák meg, a csoport szavatoló tőkéjének megfelelőségéről és pótlólagos tőkekövetelményéről a leányvállalatok kockázatelemzésének és az Európai Unió tagállamainak hatáskörrel rendelkező felügyeleti hatóságai véleményének figyelembevételével a Felügyelet hozza meg.
 
-(8)
+(4) A Felügyelet a határozatot megküldi a tagállami hatáskörrel rendelkező felügyeleti hatóságoknak és az EU-szintű hitelintézeti anyavállalatnak vagy az EU-szintű pénzügyi holding társaság anyavállalatnak.
 
-(9)
+(5) A Felügyelet a határozat alapjául szolgáló tényállást évente, vagy ha a leányvállalat felügyeletéért felelős illetékes hatóság a pótlólagos tőkekövetelmény előírására vonatkozóan írásban, indokolt esetben kérelmezi, felülvizsgálja. Az utóbbi esetben a felülvizsgálat kétoldalúan is történhet.
 
-(10)
+(6) Ha nem a Felügyelet a konszolidáló felügyeleti hatóság, a csoport szavatoló tőkéjének megfelelőségére és pótlólagos tőkekövetelményére vonatkozó konszolidáló felügyeleti hatóság által hozott határozat Magyarországon közvetlenül alkalmazandó és végrehajtható. A Felügyelet a konszolidáló felügyeleti hatóság határozatának tényét magyar nyelven a honlapján közzéteszi. A Felügyelet által felügyelt szervezet tekintetében a csoport szavatoló tőkéjére és pótlólagos tőkekövetelményére vonatkozó másik tagállami hatáskörrel rendelkező felügyeleti hatóság által hozott határozatban foglaltak végrehajtására, teljesítésének ellenőrzésére, az ellenőrzés alapján hozható intézkedésre a Felügyelet által hozott határozatokra vonatkozó magyar jogszabályok alkalmazandóak.
+
+(7) Ha nem a Felügyelet a konszolidáló hatóság és a hatóságok négy hónapon belül nem döntenek együttesen a csoport szavatoló tőkéjének megfelelőségéről és pótlólagos tőkekövetelményéről, a Felügyelet hoz határozatot a magyarországi székhelyű hitelintézetek pótlólagos tőkekövetelményéről.
 
 147. § (1)
 
@@ -3930,9 +4063,9 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 - b) a hitelintézet szavatolótőkéje nem éri el a 76. § (1) bekezdésében meghatározott tőkekövetelmény ötven százalékát, vagy
 - c) a hitelintézet anyavállalatának felügyeletét ellátó felügyeleti hatóság arról tájékoztatja a Felügyeletet, hogy olyan válsághelyzet állt elő, amely veszélyezteti az anyavállalat pénzügyi stabilitását.
 
-(3) Felügyeleti biztosnak olyan természetes személy nevezhető ki, aki megfelel a hitelintézeti ügyvezetőkkel szemben támasztott, a 68. §-ban meghatározott követelményeknek.
+(3)
 
-(4) Felügyeleti biztos kirendelése esetén egy hitelintézethez egyidejűleg legalább két felügyeleti biztost kell kirendelni.
+(4)
 
 164. § (1) A felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételéig a hitelintézet igazgatósági tagjának a gazdasági társaságokra, illetve a szövetkezetekre vonatkozó törvényi rendelkezések szerinti felelőssége fennmarad.
 
@@ -3942,11 +4075,7 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (2) Az (1) bekezdéstől eltérően az igazgatóság, illetőleg a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a hitelintézettel szemben hozott határozat ellen, e jogorvoslati eljárásban a hitelintézetet képviselheti vagy a képviselet ellátására megbízást adhat.
 
-166. § (1) A felügyeleti biztos által e minőségében okozott kárért a Felügyelet felelős.
-
-(2) A felügyeleti biztos a Felügyeletnek okozott károkért a munkavállalók kártérítési felelősségére vonatkozó szabályok szerint felelős azzal, hogy gondatlan károkozás esetén a kártérítés mértéke a felügyeleti biztos hathavi illetményét, illetve hathavi megbízási díját nem haladhatja meg.
-
-167. § A felügyeleti biztos nevét és lakóhelyét – bejegyzés és közzététel végett – be kell jelenteni a cégbíróságnak.
+166–167. §
 
 168. § (1) A hitelintézettel szemben fennálló a 157. § (1) bekezdésének b) pontjában, illetőleg a 158. § (1) bekezdésének a) pontjában említett követelések e törvény szempontjából nem minősülnek befagyott betétnek.Nem minősül befagyott betétnek a Felügyelet 176/B. § (5) bekezdése alapján elrendelt kifizetési tilalma miatt nem kifizethető betét, a végelszámolást kimondó határozat meghozatalától számított tizenöt napig.
 
@@ -3995,9 +4124,9 @@ végzését.
 
 176/A. § (1) A részvénytársasági vagy szövetkezeti formában működő pénzügyi intézmény végelszámolására vagy felszámolására – ide nem értve a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást – a Cstv., a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény, és a gazdasági társaságokról szóló törvény, a fióktelep formájában működő pénzügyi intézmény végelszámolására vagy felszámolására az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) Pénzügyi intézmény felszámolójának vagy végelszámolójának csak a Felügyelet által létrehozott közhasznú társaság jelölhető ki.
+(2) Pénzügyi intézmény felszámolójának vagy végelszámolójának kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki.
 
-(3) A (2) bekezdés szerinti közhasznú társaságot – ha törvény másként nem rendelkezik – kizárólag pénzügyi intézmény felszámolására, illetve végelszámolására lehet kijelölni.
+(3) A (2) bekezdés szerinti nonprofit gazdasági társaságot – ha törvény másként nem rendelkezik – kizárólag pénzügyi intézmény felszámolására, illetve végelszámolására lehet kijelölni.
 
 ### Végelszámolás
 
@@ -4167,15 +4296,14 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
 - a) a nevét, székhelyét,
 - b) a tevékenység végzésének helyét,
-- c) az alapítás nyilvántartásba vételének, valamint a tevékenység engedélyezésének, bejelentéshez kötött tevékenység esetén a bejelentés időpontját,
-- d) azt az adatot, hogy a nyilvántartásba vett kiemelt közvetítő, függő ügynök, pénzforgalmi közvetítő, többes kiemelt közvetítő, többes ügynök, alkusz, vagy közvetítői alvállalkozó,
+- c) a tevékenység engedélyezésének, bejelentéshez kötött tevékenység esetén a bejelentés időpontját,
+- d) azt az adatot, hogy a nyilvántartásba vett kiemelt közvetítő, függő ügynök, pénzforgalmi közvetítő, többes kiemelt közvetítő, többes ügynök, alkusz vagy közvetítői alvállalkozó,
 - e) a közvetítőt megbízó pénzügyi intézmény, pénzforgalmi intézmény nevét,
 - f) a szolgáltatási tevékenysége megkezdésének időpontját,
 - g) a közvetítői alvállalkozó esetén a közvetítő nevét,
 - h) a független közvetítőnél vezető állású személynek
-  - ha) a tisztségét, valamint az általa betöltött munkakört,
-  - hb) a 3. számú melléklet I. Fejezetében meghatározott azonosító adatait és
-  - hc) a jogviszony jellegére vonatkozó adatát.
+  - ha) a tisztségét,
+  - hb) a 3. számú melléklet I. Fejezetében meghatározott azonosító adatai közül a vezető állású személy nevét, születési helyét, idejét és anyja nevét.
 
 (2) A Felügyelet az (1) bekezdésben meghatározott adatok változását az adatváltozás bejelentését követően haladéktalanul átvezeti a nyilvántartáson.
 
@@ -4348,6 +4476,8 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (5) A hitelintézet az (1) bekezdésben meghatározott kivonatot, valamint a (3) bekezdésben meghatározott kimutatást – a felek eltérő megállapodásának hiányában – magyar nyelven köteles kiállítani és megküldeni.
 
+(6) A hitelintézet köteles évente az Alap által meghatározott formában kimutatást készíteni a betétesnek a hitelintézetnél elhelyezett biztosított betétei összevont egyenlegéről és az annak alapján a betétes javára fennálló betétbiztosítási összegről.
+
 206/A. §
 
 ### Üzletszabályzat
@@ -4424,6 +4554,8 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (6) Amennyiben az (1) bekezdésben meghatározott szerződés deviza alapú, és a szerződés a szerződés felmondása bekövetkezésekor a fennálló tartozás összegének forintban történő meghatározását írja elő, az (5) bekezdést azzal az eltéréssel kell alkalmazni, hogy a szerződés felmondását követő kilencvenedik napot követően a pénzügyi intézmény a fogyasztó nem teljesítése miatt, a felmondás napján érvényes ügyleti kamatot és kezelési költséget meghaladó mértékű késedelmi kamatot, költséget, díjat vagy jutalékot nem számíthat fel.
 
+(7) Az (1) bekezdésben meghatározott szerződés esetében, ha a (4) bekezdésben meghatározott feltételek változása a kamat csökkentését teszi indokolttá, azt is érvényesíteni kell.
+
 211. § (1) A hitelintézet csak akkor köthet betétszerződést (szolgáltathat ki betétokiratot), illetőleg bocsáthat ki hitelviszonyt megtestesítő értékpapírt, ha a szerződés tartalmazza a 100. § (1) bekezdésében és a 100. § (2) bekezdésének c) pontjában foglalt rendelkezésekre történő figyelemfelhívást.
 
 (2) Ha az Alapban tagsággal rendelkező hitelintézet a 14. § (1) bekezdésének h) pontja alapján más jogi személy útján végez betétügyletet, a jogi személynek közölnie kell azt is, hogy mely hitelintézet megbízásából történik a betét elfogadása.
@@ -4498,19 +4630,27 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (13) A pénzügyi intézmény és a pénzforgalmi intézmény a panaszkezelési szabályzatot az ügyfelek számára nyitva álló helyiségében, ennek hiányában a székhelyén kifüggeszti és a honlapján közzéteszi.
 
+(14) A pénzügyi intézmény és a pénzforgalmi intézmény a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
+
+(15) A pénzügyi intézmény és a pénzforgalmi intézmény köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenteni.
+
 ### XXX. Fejezet — Szövetkezeti hitelintézet
 
 216. § (1) Szövetkezeti formában működő pénzügyi vállalkozást legalább tizenöt tag, szövetkezeti hitelintézetet legalább kétszáz tag alapíthat, illetve működtethet.
 
 (2) Szövetkezeti hitelintézetnek természetes és jogi személyek lehetnek a tagjai, a jogi személyek száma azonban nem haladhatja meg a tagok számának egyharmadát.
 
+(2a) Szövetkezeti hitelintézet esetében a részjegy névértéke nem haladhatja meg a tízezer forintot.
+
 (3) Szövetkezeti hitelintézet jegyzett tőkéjében egy tulajdonosnak a közvetett és közvetlen tulajdoni hányada (részesedése) – a Magyar Állam, a feladatkörében eljáró önkéntes intézményvédelmi alap, valamint az Országos Betétbiztosítási Alap kivételével – nem lehet több tizenöt százaléknál.
 
-(4) Szövetkezeti formában működő hitelintézet határozatképtelenség miatt megismételt közgyűlése az eredeti napirendre felvett bármely kérdésben hozhat határozatot.
+(4) Szövetkezeti formában működő hitelintézet határozatképtelenség miatt megismételt közgyűlése az eredeti napirendre felvett bármely kérdésben – ide nem értve a részjegy névértékének felemelését – hozhat határozatot.
+
+(4a) Szövetkezeti hitelintézet esetében a tag csak a szövetkezet tagját hatalmazhatja meg a közgyűlésen történő képviseletre azzal, hogy egy tag kizárólag egy további tagot képviselhet.
 
 (5) Szövetkezeti hitelintézet esetében az alapszabály megállapításához, a szövetkezet egyesüléséről való döntéshez és a részjegyek névértékének megváltoztatásához a közgyűlésen jelenlévő tagok kétharmadának igenlő szavazata szükséges.
 
-(6) Szövetkezeti hitelintézet esetében a közgyűlés napirendi pontjával kapcsolatos iratokat nem kötelező valamennyi tagnak megküldeni. Ebben az esetben a közgyűlési meghívónak vagy hirdetménynek tartalmaznia kell, hogy a tag kérésére az iratokat a szövetkezeti hitelintézet rendelkezésre bocsátja.
+(6) Szövetkezeti hitelintézet esetében a közgyűlés összehívásáról szóló, a napirendi pontokat is tartalmazó meghívót – a közgyűlés napirendi pontjával kapcsolatos iratok kivételével – kötelező valamennyi tagnak megküldeni, valamint az összehívásról hirdetményt közzétenni. A közgyűlési meghívónak és a hirdetménynek tartalmaznia kell, hogy a tag kérésére az iratokat a szövetkezeti hitelintézet hol és mely időpontokban bocsátja rendelkezésre. A közgyűlés által meghozott határozatokról a szövetkezeti hitelintézet valamennyi tagját levélben tájékoztatni kell.
 
 (7) Szövetkezeti hitelintézet esetében a tagok létszámától függetlenül lehetőség van arra, hogy az alapszabály küldöttgyűlés működését írja elő.
 
@@ -4561,13 +4701,13 @@ esetében kell alkalmazni.
 
 ### XXXI/A. Fejezet — Független közvetítő
 
-219. § (1) A független közvetítő – és az általa az e tevékenységre igénybe vett, vele megbízási, illetve munkavégzésre irányuló egyéb jogviszonyban álló személy – e tevékenysége során okozott kárért a közvetítő felel.
+219. § (1) A független közvetítő és az általa az e tevékenységre igénybe vett, vele megbízási, illetve munkavégzésre irányuló egyéb jogviszonyban álló személy által e tevékenysége során okozott kárért a közvetítő felel.
 
 (2) A többes kiemelt közvetítő és a többes ügynök megbízója felel azért, hogy a megbízási szerződés pontosan, egyértelműen meghatározza a közvetítő által ellátandó feladatokat, az ügyfelek tájékoztatására vonatkozó követelményeket, továbbá azért, hogy minden, a megbízási szerződés megfelelő teljesítéséhez szükséges információt a közvetítő rendelkezésére bocsát.
 
 (3) A független közvetítő a pénzügyi szolgáltatás közvetítéséért közvetítői díjat kizárólag a megbízótól fogadhat el. E rendelkezés nem érinti a független közvetítő azon jogosultságát, hogy a pénzügyi szolgáltatás közvetítését igénybe vevő ügyfele számára más – a pénzügyi szolgáltatás közvetítésének nem minősülő – szolgáltatása ellenértékeként díjat számítson fel.
 
-(4) A közvetítői díj időbeni ütemezésének arányosnak kell lennie a közvetített pénzügyi szolgáltatás futamidejével, valamint szerződésszerű teljesítésével.
+(4) A közvetítői díj időbeni ütemezésének – ide nem értve az alkusznak fizetendő közvetítői díjat – arányosnak kell lennie a közvetített pénzügyi szolgáltatás futamidejével, valamint szerződésszerű teljesítésével.
 
 (5) A független közvetítő az ügyféllel kötött közvetítői szerződésről és a közvetített pénzügyi szolgáltatási szerződésről köteles nyilvántartást vezetni. A nyilvántartásnak tartalmaznia kell a közvetített szerződés feleinek nevét, a szerződéskötés idejét, tárgyát, lényeges feltételeit. A független közvetítő köteles a közvetítői tevékenységével kapcsolatos iratokat három évig megőrizni. Ez a kötelezettség nem érinti a számviteli bizonylat megőrzésére vonatkozó rendelkezéseket.
 
@@ -4585,7 +4725,7 @@ esetében kell alkalmazni.
 
 (2) Az (1) bekezdésben meghatározottak nem alkalmazandóak, ha a tájékoztatási kötelezettséget a fogyasztónak nyújtott hitelről szóló törvény rendelkezései írják elő.
 
-219/B. § (1) A független közvetítő a pénzügyi szolgáltatási szerződés megkötésének elősegítése során köteles az ügyfélnek kielégítő mennyiségű, de – ha a piacon hozzáférhető – legalább három szolgáltató versengő szolgáltatásnak minősülő ajánlatát elemezni és átadni. Ha a többes kiemelt közvetítő kizárólag kettő versengő szolgáltatatást közvetít, akkor a kettő ajánlatot kell elemeznie és átadnia.
+219/B. § (1) A független közvetítő a pénzügyi szolgáltatási szerződés megkötésének elősegítése során köteles az ügyfélnek kielégítő mennyiségű, de – ha a piacon hozzáférhető – legalább három szolgáltató versengő szolgáltatásnak minősülő ajánlatát elemezni és átadni. Ha kizárólag kettő versengő szolgáltatatást közvetít, akkor a kettő ajánlatot kell elemeznie és átadnia.
 
 (2) A pénzügyi szolgáltatás közvetítését megelőzően a független közvetítő köteles az ügyfél tájékoztatása alapján felmérni az ügyfél igényeit és szükségleteit, valamint azokat az indokokat, amelyek a független közvetítő által e tevékenységével összefüggésben adott tanácsot alátámasztják.
 
@@ -4595,7 +4735,7 @@ esetében kell alkalmazni.
 
 ### XXXI/B. Fejezet — Függő közvetítő
 
-219/C. § (1) A kiemelt közvetítő és a pénzforgalmi közvetítő – és az általa az e tevékenységre igénybe vett, vele megbízási, illetve munkavégzésre irányuló egyéb jogviszonyban álló személy – e tevékenysége során okozott kárért a megbízó pénzügyi intézmény, pénzforgalmi intézmény felel.
+219/C. § (1) A kiemelt közvetítő és a pénzforgalmi közvetítő és az általa az e tevékenységre igénybe vett, vele megbízási, illetve munkavégzésre irányuló egyéb jogviszonyban álló személy által e tevékenysége során okozott kárért a megbízó pénzügyi intézmény, pénzforgalmi intézmény felel.
 
 (2) A függő közvetítő a pénzügyi szolgáltatás közvetítéséért kizárólag a megbízó pénzügyi intézménytől, pénzforgalmi intézménytől jogosult közvetítői díjra. E rendelkezés nem érinti a függő közvetítő azon jogosultságát, hogy a pénzügyi szolgáltatás közvetítését igénybe vevő ügyfele számára más – a pénzügyi szolgáltatás közvetítésének nem minősülő – szolgáltatása ellenértékeként díjat számítson fel.
 
@@ -4614,24 +4754,39 @@ esetében kell alkalmazni.
 
 ### XXXI/C. Fejezet — Szakmai követelmények
 
-219/D. § (1) A közvetítővel – e tevékenységi körében – munkaviszonyban, megbízási viszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban csak olyan természetes személy lehet, aki
+219/D. § (1) A közvetítővel, a közvetítői alvállalkozóval – e tevékenységi körében – munkaviszonyban, megbízási viszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban – a (3) bekezdésben meghatározott eltéréssel – csak olyan természetes személy lehet, aki
 
 - a) szakirányú felsőfokú iskolai végzettséggel [68. § (3) bekezdés], vagy
-- b) középfokú végzettséggel és
+- b) középiskolai végzettséggel és
   - ba) szakképesített bankreferensi szakképesítéssel,
   - bb) banki, befektetési termékértékesítői szakképesítéssel,
   - bc) befektetési tanácsadói szakképesítéssel,
-  - bd) Magyar Bankszövetség Felsőfokú Bankszakmai oklevelével,
-  - be) a ba)–bd) pontokban foglaltakkal egyenértékű szakképesítéssel, vagy
-  - bf) külön jogszabályban meghatározott, a Felügyelet által kiadott közvetítői hatósági vizsga letételét igazoló tanúsítványával rendelkezik.
+  - bd) banki szakügyintézői szakképesítéssel,
+  - be) pénzügyi szakügyintézői szakképesítéssel,
+  - bf) értékpapír-piaci szakügyintézői szakképesítéssel,
+  - bg) pénzügyi szervezeti mérlegképes könyvelői szakképesítéssel,
+  - bh) tőzsdei szakvizsgával,
+  - bi) becsüsi bizonyítvánnyal (kizárólag kézizálog fedezete mellett nyújtott pénzkölcsön közvetítése esetén),
+  - bj) valutapénztárosi bizonyítvánnyal (kizárólag pénzváltás közvetítése esetén),
+  - bk) a Magyar Bankszövetség Felsőfokú Bankszakmai Oklevelével,
+  - bl) a ba)–bk) pontokban foglaltakkal egyenértékű szakképesítéssel, vagy
+- c) külön jogszabályban meghatározott, a Felügyelet által kiadott közvetítői hatósági vizsga letételét igazoló tanúsítványával rendelkezik.
 
-(2) A közvetítőnek minősülő megbízó vagy munkáltató köteles gondoskodni arról, hogy a vele – e tevékenységi körében – munkaviszonyban vagy megbízási viszonyban álló természetes személy a közvetített szolgáltatással kapcsolatban részletes ismeretekkel rendelkezzen.
+(2) Az (1) bekezdés a) pontja alkalmazásában szakirányú felsőfokú végzettségnek minősülnek
 
-(3) A közvetítőnek minősülő megbízó vagy munkáltató az (1) bekezdésekben foglalt követelményekről belső nyilvántartást vezet.
+- a) a 68. § (3) bekezdésben meghatározott képzettségek,
+- b) a főiskolai vagy egyetemi szintű, illetve mesterképzésben szerezhető gazdasági agrármérnök szakképzettség, vagy műszaki menedzser alapképzési szakon, vagy gazdasági és vidékfejlesztési agrármérnök alapképzési szakon szerezhető szakképzettség, és
+- c) a felsőfokú végzettség birtokában szakirányú továbbképzésben, szakosító továbbképzésben a közgazdasági felsőoktatásban szerzett bankszakmai szakképzettség vagy gazdasági, közgazdasági szakképzettség.
 
-(4) A független közvetítő felelős a vele – e tevékenységi körében – munkaviszonyban vagy megbízási jogviszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személyekkel szemben támasztott szakmai követelmények fennállásának ellenőrzéséért.
+(3) Közvetítői tevékenységet végző hitelintézettel, biztosítóval, Posta Elszámoló Központot működtető intézménnyel munkaviszonyban álló természetes személy kizárólag abban az esetben végezhet közvetítői tevékenységet, ha az általa közvetített pénzügyi szolgáltatással kapcsolatban megfelelő képzést kapott. A szakmai követelmények ellenőrzéséért a munkáltató felelős.
 
-(5) A pénzügyi szolgáltatást nyújtó személy felelős a függő közvetítő és a vele – e tevékenységi körében – munkaviszonyban vagy megbízási jogviszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személyekkel szemben támasztott szakmai követelmények fennállásának ellenőrzéséért.
+(4) A közvetítőnek minősülő megbízó vagy munkáltató köteles gondoskodni arról, hogy a vele – e tevékenységi körében – munkaviszonyban vagy megbízási viszonyban álló természetes személy a közvetített szolgáltatással kapcsolatban részletes ismeretekkel rendelkezzen.
+
+(5) A közvetítőnek minősülő megbízó vagy munkáltató az (1)–(3) bekezdésben foglalt követelményekről belső nyilvántartást vezet.
+
+(6) A független közvetítő felelős a vele – e tevékenységi körében – munkaviszonyban vagy megbízási jogviszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személyekkel szemben támasztott szakmai követelmények fennállásának ellenőrzéséért.
+
+(7) A pénzügyi szolgáltatást nyújtó személy felelős a függő közvetítő és a vele – e tevékenységi körében – munkaviszonyban vagy megbízási jogviszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személyekkel szemben támasztott szakmai követelmények fennállásának ellenőrzéséért.
 
 220. §
 
@@ -4643,7 +4798,7 @@ esetében kell alkalmazni.
 
 (2)
 
-(3) E törvény hatálybalépésének napján hatályát veszti a jogalkotásról szóló 1987. évi XI. törvény 51/B. §-a, az előtte lévő cím, valamint az 1991. évi LXVIII. törvény.
+(3)
 
 (4)
 
@@ -4736,6 +4891,41 @@ esetében kell alkalmazni.
 
 (2) A Módosító törvénnyel megállapított 200/A. §-nak és 210/A. §-nak való megfelelés érdekében szükséges, a törlesztőrészlet, valamint a devizában megállapított bármilyen költség, díj vagy jutalék forintban meghatározott összegének kiszámítására és az egyoldalú szerződésmódosításra vonatkozó rendelkezéseire kiterjedő, az ügyfél számára kedvező egyoldalú szerződésmódosítást a pénzügyi intézmény az üzletszabályzata vagy az általános szerződési feltételek módosításával is végrehajthatja, ebben az esetben az üzletszabályzat vagy az általános szerződési feltételek vonatkozó rendelkezése válik a szerződés részévé. A módosításról az érintett ügyfeleket – legkésőbb a módosítás hatálybalépését követő legközelebbi számlakivonattal együttesen – postai úton vagy más, a szerződésben meghatározott közvetlen módon is értesíteni kell, továbbá elektronikus kereskedelmi szolgáltatás nyújtása esetén a módosítást az ügyfelek számára folyamatosan és könnyen hozzáférhető módon, elektronikus úton is elérhetővé kell tenni.
 
+234/B. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény
+
+- a) hatálybalépésekor pénzváltás közvetítésére többes kiemelt közvetítőként engedéllyel rendelkező közvetítő ezen tevékenységét többes kiemelt közvetítőként 2011. június 30-ig folytathatja;
+- b) 44. §-ával megállapított 68. §-ban foglalt követelménynek a hatálybalépésekor már megválasztott, kinevezett ügyvezető, vezető állású személy legkésőbb 2014. január 1-től köteles megfelelni;
+- c) 45. §-ával megállapított 69/B–69/E §-ban foglalt javadalmazási politikára vonatkozó belső szabályzatra, valamint javadalmazási bizottság felállítására vonatkozó követelményeknek a hitelintézetek legkésőbb 2011. május 31-től kötelesek megfelelni;
+- d) 50. §-ával megállapított 79. § (1)–(3) bekezdését 2011. december 31-éig nem kell alkalmazni a 2010. december 31-én már fennálló, hitelintézettel, befektetési vállalkozással és hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozással szembeni, szavatoló tőke számításánál figyelembe vehető kötelezettséget nem eredményező, legfeljebb egyéves lejáratú kitettségre;
+- e) 55. § (2) bekezdésével megállapított 101. § (4) bekezdését a hatálybalépését követően induló kártalanítási eljárásoknál kell alkalmazni;
+- f) hatálybalépésekor már engedéllyel rendelkező önkéntes alapnak 2011. június 30-ig kell létesítő okiratát módosítania az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 58. §-ával megállapított 128/D. § (2) bekezdés d) és f) pontjában foglaltaknak megfelelően;
+- g) 60. § (2) bekezdésével megállapított 130/I. § (5) bekezdésének megfelelően a KHR-t kezelő pénzügyi vállalkozás 2011. március 31-ig köteles törölni az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény hatálybalépésekor már meglévő referenciaadatot, amely adatszolgáltatással kapcsolatos szerződésből eredő késedelmes tartozás teljesítésétől számított egy év eltelt;
+- h) 69. §-ával megállapított 146. §-ban foglalt határidő 2012. december 31-ig hat hónap;
+- i) 76. §-ával megállapított 216. § (2a) bekezdésben foglaltaknak a szövetkezeti hitelintézetnek legkésőbb 2012. június 30-ától kell megfelelnie;
+- j) 76. §-ával megállapított 216. § (4), (4a) és (6) bekezdésben foglalt követelményeknek a szövetkezeti hitelintézetnek a hatálybalépését követő első, de legkésőbb 2011. május 31-ig megtartandó közgyűlésen (küldöttgyűlésen) történt alapszabály módosítását követően kell alkalmaznia;
+- k) 81. §-ával megállapított 219/D. §-ban foglalt követelményeknek 2011. június 30-tól kell megfelelni.
+
+234/C. § (1) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény hatálybalépésekor már meglévő olyan értékpapírt, részjegyet vagy alapvető kölcsöntőkét, amely az e törvény 2010. december 31-én hatályos 5. számú melléklete szerint megfelel az alapvető tőkével szembeni követelményeknek, de 2011. január 1-től nem felel meg az 5. számú melléklet 3., 6., 7. vagy 11. pontjában foglalt követelménynek, 2040. december 31-éig úgy kell tekinteni, mint ami megfelel a vegyes tulajdonságú befizetett jegyzett tőkével, vagy az alapvető kölcsöntőkével szembeni feltételeknek azzal, hogy ezen értékpapír, részjegy vagy alapvető kölcsöntőke alapvető tőkébe történő beszámíthatóságánál a következő korlátozásokat kell érvényesíteni:
+
+- a) 2020. január 1-jétől 2029. december 31-ig legfeljebb az alapvető tőke 20%-a lehet;
+- b) 2030. január 1-jétől legfeljebb az alapvető tőke 10%-a lehet.
+
+(2) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény hatálybalépésekor már meglévő olyan kölcsönt, amely az e törvény 2010. december 31-én hatályos 5. számú melléklete szerint járulékos kölcsöntőkének minősül, 2025. december 31-éig úgy kell tekinteni, mint ami megfelel a járulékos kölcsöntőkével szembeni feltételeknek.
+
+234/D. § (1) Ha a hitelintézet
+
+- a) a kockázattal súlyozott kitettség értékét a belső minősítésen alapuló módszer, vagy
+- b) a működési kockázat tőkekövetelményét a fejlett mérési módszer szerint számítja ki, akkor gondoskodnia kell arról, hogy szavatoló tőkéje folyamatosan elérje vagy meghaladja a (2)–(3) bekezdésben meghatározott összeget.
+
+(2) Ha az (1) bekezdés szerinti hitelintézet a belső minősítésen alapuló módszert, vagy a fejlett mérési módszert
+
+- a) már 2009. december 31-én alkalmazta, akkor szavatoló tőkéjének 2011. december 31-ig el kell érnie vagy meg kell haladnia az e törvény 2007. június 30-án hatályos szabályok szerinti minimális tőkekövetelmény nyolcvan százalékát,
+- b) 2010. január 1-jén vagy azt követően alkalmazza, akkor szavatoló tőkéjének 2011. december 31-ig el kell érnie, vagy meg kell haladnia azon minimális tőkekövetelmény nyolcvan százalékát, amellyel a hitelezési kockázat tőkekövetelményének sztenderd módszere, vagy a működési kockázat tőkekövetelménye alapmutató vagy sztenderdizált módszere alapján rendelkeznie kellene.
+
+(3) A (2) bekezdés a) pontjának alkalmazásában a szavatoló tőke meghatározásához az e törvény 2007. június 30-án hatályos 5. számú melléklete szerint kell eljárni azzal, hogy az országkockázat tőkekövetelményéről szóló 16/2001. (III. 19.) PM rendeletben foglaltakat nem kell alkalmazni.
+
+234/E. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény hatálybalépésekor már meglévő, a hitelintézet által visszavásárolt és a mérlegben eszközök között kimutatott saját kibocsátású alapvető kölcsöntőke, járulékos vagy alárendelt kölcsöntőke könyv szerinti értékét 2011. december 31-ig nem kell levonni a szavatoló tőke kiszámításakor.
+
 235. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
 
 - a) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pontjában meghatározott szolgáltatások végzésére, valamint a szolgáltatások nyújtása során kötött szerződések kötelező tartalmi elemeire,
@@ -4752,7 +4942,9 @@ esetében kell alkalmazni.
 - l) a partnerkockázat kezelésére és tőkekövetelményére
 - m) a független közvetítők felelősségbiztosítási szerződéseinek tartalmi követelményeire,
 - n) a közvetítői díj meghatározásának és kifizetésének módjára, időbeli ütemezésére,
-- o) a Hpt. 210/A. §-ában meghatározott szerződésekben előírt kamat a pénzügyi intézmény általi, az ügyfél számára kedvezőtlen egyoldalú módosításának eseteire, feltételeire és módjára
+- o) a Hpt. 210/A. §-ában meghatározott szerződésekben előírt kamat a pénzügyi intézmény általi, az ügyfél számára kedvezőtlen egyoldalú módosításának eseteire, feltételeire és módjára,
+- p) az átruházott hitelkockázatot megtestesítő kitettségekre,
+- q) a javadalmazási politikának az érintett hitelintézet mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazására
 
 vonatkozó részletes szabályokat.
 
@@ -4761,15 +4953,14 @@ vonatkozó részletes szabályokat.
 - a)
 - b) a kintlevőségek, befektetések, a mérlegen kívüli tételek és a fedezetek minősítésének, illetőleg értékelésének szempontjaira,
 - c)–e)
-- f) a belső ellenőrzési rendszerekre, illetőleg eljárásokra,
-- g) a Felügyeletnek szolgáltatandó rendszeres jelentések tartalmára, formájára, a jelentésadás módjára és időpontjára,
+- f)–g)
 - h) a közvetítői hatósági képzésre, a hatósági képzés során szerzett, a Felügyelet által kiadott pénzügyi szolgáltatás közvetítésére feljogosító tanúsítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére,
 - i)
 - j)
 - k)
 - l) a deviza nyitott pozícióra,
 - m) a tőkemegfelelési és tőkeszükségleti követelményeknek konszolidált módon való megfelelésre,
-- n)
+- n) az igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére,
 - o)
 - p) a banki értékesítői, az értékpapír értékesítői, a szakképesített banktisztviselői és a befektetési tanácsadói képesítés szakmai és vizsgakövetelményeire, továbbá
 - q)
@@ -4777,7 +4968,10 @@ vonatkozó részletes szabályokat.
 
 vonatkozó részletes szabályokat.
 
-(3)
+(3) Felhatalmazást kap a Felügyelet elnöke arra, hogy rendeletben állapítsa meg:
+
+- a) a hitelintézetek befektetési szabályzatára,
+- b) a belső ellenőrzési rendszerekre, eljárásokra vonatkozó részletes szabályokat.
 
 ### Módosuló jogszabályok
 
@@ -5037,7 +5231,7 @@ d) a befolyással rendelkező személy tőkekapcsolat nélkül gyakorol jelentő
 
 12. Vegyes pénzügyi holding társaság: olyan anyavállalat, amely nem szabályozott vállalkozás, és leányvállalataival – amelyek között van egy, az Európai Unió valamely tagállamában székhellyel rendelkező szabályozott vállalkozás –, valamint más vállalkozásaival együtt pénzügyi konglomerátumot alkot.
 
-13.
+13. Konszolidáló felügyeleti hatóság: EU-szintű pénzügyi holding társaság anyavállalat ellenőrző befolyása alá tartozó hitelintézet és EU-szintű hitelintézeti anyavállalat összevont alapú felügyeletének gyakorlásáért felelős hatóság
 
 14. Érintett felügyeleti hatóság:
 
@@ -5063,7 +5257,7 @@ a) vállalkozásban fennálló tulajdoni hányadának (részesedésének) mért�
 
 b) a vállalkozás döntéshozó, ügyvezető vagy felügyelő szervei, testületi tagjainak legalább húsz százalékát kinevezheti vagy felmentheti, vagy
 
-c) létesítő okirat, megállapodás alapján döntő befolyást gyakorolhat a vállalkozás működésére.
+c) létesítő okirat, megállapodás alapján vagy összehangoltan eljáró személyek együttműködésének eredményeképpen jelentős befolyást gyakorolhat a vállalkozás működésére.
 
 3. Jó üzleti hírnév: a pénzügyi intézmény és a pénzforgalmi intézmény vezetőinek, minősített befolyással rendelkező tulajdonosainak a pénzügyi intézmény és a pénzforgalmi intézmény irányítására, illetve tulajdonlására való alkalmasságát igazoló feltételek megléte.
 
@@ -5125,11 +5319,13 @@ b) ingatlanon alapított jelzálogjog (ideértve az önálló zálogjogot is) fe
 
 c) betét és fizetési számla (bankszámla).
 
+Nem minősül versengő szolgáltatásnak a kézizálog fedezete mellett nyújtott pénzkölcsön.
+
 20. Ügyfélcsoport (kapcsolatban álló ügyfelek csoportja): két vagy több ügyfél, akikkel szemben a hitelintézet (vagy azon vállalkozás, amelyre az összevont alapú felügyelet kiterjed) kockázatot vállalt és ez egyetlen kockázatnak minősül, mert
 
 a) az egyik ügyfél közvetve vagy közvetlenül az Szmt. 3. § (2) bekezdésének 1. pontja szerinti meghatározó befolyást gyakorol a csoport másik tagja felett,
 
-b) az ügyfelek olyan kapcsolatban állnak egymással, hogy ha az egyiknél pénzügyi problémák merülnek fel, valószínűsíthető, hogy a másik is visszafizetési nehézségekkel kénytelen számolni; ilyen kapcsolatnak számít különösen a
+b) az ügyfelek olyan kapcsolatban állnak egymással, hogy ha az egyiknél pénzügyi – különösen finanszírozási vagy visszafizetési – problémák merülnek fel, valószínűsíthető, hogy a másik is finanszírozási vagy visszafizetési nehézségekkel kénytelen számolni; ilyen kapcsolatnak számít különösen a
 
 1. kezesség, készfizető kezesség, garanciák és egyéb biztosíték,
 
@@ -5185,7 +5381,21 @@ g) független közvetítő esetén a pénzügyi szolgáltatás közvetítéséne
 
 36. Csoport: olyan vállalkozások összessége, amelyet egy anyavállalat, annak leányvállalatai és mindazon vállalkozások alkotnak, amelyekben az anyavállalat vagy leányvállalata ellenőrző befolyással vagy részesedési viszonnyal rendelkezik.
 
-37.
+37.1. Visszaváltásra vagy visszavásárlásra ösztönző rendelkezés: minden olyan szerződéses kitétel, amely a pénzügyi intézményt az alapvető kölcsöntőke visszaváltására vagy visszavásárlásra ösztönzi, így különösen
+
+a) amely a kapcsolódó kamat- vagy járadékfizetést a futamidő során emeli (step-up), ide nem értve a referenciakamat változásából származó kamatnövekedést,
+
+b) valamint ha a szerződés lehetőséget biztosít a kölcsöntőke kibocsátója számára arra, hogy a kölcsöntőkét részvénnyé vagy részjeggyé váltsa át egy előre meghatározott konverziós rátán.
+
+37.2. Mérsékelt visszaváltásra vagy visszavásárlásra ösztönző rendelkezés: kamat vagy járadék emelkedése mérsékeltnek tekinthető, ha az nem haladja meg
+
+a) a 100 bázispontot, csökkentve az eredeti megállapodás szerinti kamatláb és a megnövelt kamatláb közötti különbséggel, vagy
+
+b) az eredeti kockázati felár 50%-át, csökkentve az eredeti megállapodás szerinti kamatláb és a megnövelt kamatláb közötti különbséggel.
+
+Az eszköz futamideje alatt legfeljebb egy alkalommal kerülhet sor a kamat vagy járulék ilyen emelésére.
+
+Mérsékelt visszaváltásra vagy visszavásárlásra ösztönző rendelkezésnek csak az a kölcsöntőke részvénnyé való átváltás minősíthető, amely esetében az átváltás időpontjában meghatározott konverziós ráta nem több, mint a kibocsátás időpontjában meghatározott konverziós ráta 150%-a.
 
 38. Anyavállalat: minden olyan vállalkozás, amely egy másik vállalkozás működésére ellenőrző befolyást gyakorol.
 
@@ -5225,6 +5435,40 @@ b) pénzforgalmi intézmény esetén olyan megállapodás egy pénzforgalmi int�
 
 54. Tartós adathordozó: olyan eszköz, amely az ügyfél számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését.
 
+55. Eszközfedezet melletti értékpapír-kibocsátás (ABCP program): olyan értékpapírosítási program, amelynek keretében kibocsátott értékpapírok könyv szerinti értékének legalább 75%-a kereskedelmi értékpapír.
+
+56. Értékpapírosítás: olyan ügylet, amelynek keretében
+
+a) egy kitettség vagy a kitettségek halmazának (pooljának) hitelezési kockázata több ügyletrész-sorozatba kerül besorolásra,
+
+b) az ügylettel kapcsolatos kifizetések az értékpapírosított kitettség, illetve a kitettségek halmazának (pooljának) teljesítése függvényében alakulnak, és
+
+c) az ügyletrészsorozatok egymáshoz viszonyított alárendeltsége határozza meg az ügylet futamideje alatt a veszteségek eloszlását.
+
+57. Értékpapírosítási pozíció: az értékpapírosítási ügyletben vállalt hitelezési kockázati kitettség;
+
+58. Értékpapírosítást kezdeményező: olyan vállalkozás, amely
+
+a) saját maga vagy kapcsolt vállalkozásán keresztül – közvetlenül vagy közvetve – részese volt az értékpapírosítás alapjául szolgáló kitettséget létrehozó azon eredeti megállapodásnak, amelyben rögzítették az adós (potenciális adós) fizetési kötelezettségét (potenciális fizetési kötelezettségét), vagy
+
+b) megvásárolja egy harmadik fél kitettségeit, majd értékpapírosítja azokat.
+
+59. Különleges célú gazdasági egység (KCGE): hitelintézetnek vagy befektetési vállalkozásnak nem minősülő, egy vagy több értékpapírosítási ügylet végrehajtására létrehozott olyan jogi személyiségű gazdasági társaság vagy egyéb jogi személy, amelynek tevékenysége kizárólag az értékpapírosítási ügylet végrehajtására korlátozódik, és amelynek forrásai között az értékpapírosítást kezdeményező kötelezettségei elkülönülnek e jogi személyiségű gazdasági társaság vagy egyéb jogi személy kötelezettségeitől, és az értékpapírosítási ügylethez kapcsolódó tulajdonosi vagy rendelkezési jogok gyakorlója jogait korlátlanul megterhelheti vagy elcserélheti.
+
+60. Likviditási többlettartalék: előre meghatározott stresszhelyzetben egy adott időhorizonton mért nettó finanszírozási résnek a normál likviditási helyzethez mért növekményét ellensúlyozó képesség, amely meghatározott tulajdonságokkal rendelkező likvid eszközökből áll.
+
+61. Stressz: olyan jelentősen kedvezőtlen helyzet, amely a gazdasági és piaci folyamatok normál körülményei között reálisan nem várható, de valószínűséggel ki sem zárható.
+
+62. Szponzor: értékpapírosítást kezdeményezőnek nem minősülő hitelintézet, amely ABCP programot vagy más értékpapírosítási konstrukciót hoz létre és működtet, amely harmadik fél kitettségeit vásárolja meg.
+
+63. Ügyletrészsorozat: az értékpapírosítási ügylet alapjául szolgáló egy vagy több kitettség hitelezési kockázatának szerződésben rögzített, elkülönülő része, ahol e rész egy pozíciójához nagyobb vagy kisebb hitelezési kockázat kapcsolódik, mint az ügylet más részének ugyanilyen méretű pozíciójához tartozó hitelezési kockázata, figyelmen kívül hagyva a harmadik fél által az adott értékpapírosítási pozícióval rendelkezőnek nyújtott hitelkockázati fedezeteket.
+
+64. Javadalmazás: a hitelintézet által a vezető állású személy, munkavállaló részére minden, a munkaviszony alapján közvetlenül vagy közvetve, pénzbeli, természetbeni, vagyoni jog vagy egyéb formában nyújtott juttatás.
+
+65. Teljesítményjavadalmazás: a hitelintézet és a vezető állású személy, munkavállaló közötti szerződésben meghatározott, a hitelintézet, az érintett szervezeti egység, és az érintett személy teljesítményére, valamint a hitelintézet pénzügyi helyzetére vonatkozó mutatók és feltételek megvalósulása esetén fizetendő juttatás.
+
+66. Nem kötelező nyugdíjjuttatás: a hitelintézet által a vezető állású személynek, munkavállalónak nem kötelező alapon nyújtott, emelt nyugdíjjuttatás a munkavállaló teljesítményjavadalmazásának részeként, amely nem foglalja magában a munkavállalónak a vállalati nyugdíjrendszerének feltételei alapján nyújtott felhalmozott juttatásokat.
+
 III/A. A XI. Fejezetre vonatkozó fogalommeghatározások
 
 1. Előre nem rendelkezésre bocsátott hitelkockázati fedezet: olyan hitelezésikockázat-mérséklési eljárás, amelynél a hitelintézet kitettségéhez kapcsolódó hitelezési kockázat mérséklése egy harmadik fél kötelezettségvállalásából származik, amely szerint az adós nemteljesítése, fizetésképtelensége esetén, vagy egyéb, a felek megállapodása szerint a kielégítési jog megnyíltát eredményező hitelesemény beálltakor meghatározott összeg kifizetésére vállal kötelezettséget.
@@ -5249,7 +5493,7 @@ III/A. A XI. Fejezetre vonatkozó fogalommeghatározások
 
 11. Intézményvédelmi rendszer: olyan rendszer, amelynek célja, hogy a hozzá csatlakozott tag likviditását, illetőleg fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén ezen tag számára a jogszabályi követelményeknek való megfelelés érdekében támogatást nyújthasson.
 
-12. Kitettség: eszköz vagy olyan mérlegen kívüli kötelezettség, amelyből eszköz keletkezik.
+12. Kitettség: eszköz vagy olyan mérlegen kívüli tétel, amelyből eszköz keletkezik vagy eszköz keletkezhet.
 
 13. Központi kormány: a Magyar Állam, valamint minden olyan szervezet, amelyet az Európai Unió bármely tagállamának jogrendje annak tekint.
 
@@ -5465,11 +5709,23 @@ A szavatoló tőke számítása
 
 1. A hitelintézet szavatoló tőkéje alapvető, járulékos és kiegészítő tőkéből áll.
 
-2. Az alapvető tőke a 3–4. pontban meghatározott pozitív és negatív összetevők 5–7. pontban foglaltak figyelembevételével számított összege.
+2. Az alapvető tőke a 3–5. pontban meghatározott pozitív és negatív összetevők 6–10. pontban foglaltak figyelembevételével számított összege.
 
 3. Az alapvető tőke pozitív összetevői a számviteli kimutatások alapján:
 
-a) jegyzett tőke,
+a) befizetett jegyzett tőke, ideértve a következő részvényfajtákat és részjegyeket, ha megfelel a 6. pontban meghatározott feltételeknek:
+
+aa) törzsrészvény,
+
+ab) elsőbbségi részvény,
+
+ac) dolgozói részvény,
+
+ad) külön törvényben vagy jogszabályban meghatározott egyéb elsőbbségi jogot biztosító részvény,
+
+ae) szövetkezeti részjegy,
+
+af) befektetői részjegy,
 
 b) tőketartalék,
 
@@ -5481,63 +5737,125 @@ e) általános kockázati céltartalék a kockázattal súlyozott kitettség ér
 
 f) eredménytartalék, ha pozitív,
 
-g) könyvvizsgáló által hitelesített mérleg szerinti vagy évközi eredmény, ha pozitív
+g) könyvvizsgáló által hitelesített mérleg szerinti vagy évközi eredmény, ha pozitív, és nem tartalmaz semmilyen előrelátható kifizetést, vagy osztalékot,
 
-h) alapvető kölcsöntőke.
+h) vegyes tulajdonságú befizetett jegyzett tőke, ideértve a kamatozó részvényeket, a visszaváltható részvényeket és mindazon jegyzett tőkébe tartozó részvényeket és részjegyeket, amelyek nem tartoznak az a) pont alá és megfelelnek a 7. pontban meghatározott feltételeknek,
 
-3A. A – külön jogszabályban meghatározott – értékpapírosítást kezdeményező hitelintézetnél a 3. pontban nem vehető figyelembe az értékpapírosított eszközökből származó, olyan jövőbeni, nem realizált nyereség, amely hitelminőség javítást nyújt az értékpapírosított pozíciókra.
+i) alapvető kölcsöntőke.
 
-4. Az alapvető tőke negatív összetevői a számviteli kimutatások alapján:
+4. A – külön jogszabályban meghatározott – értékpapírosítást kezdeményező hitelintézetnél a 3. pontban nem vehető figyelembe az értékpapírosított eszközökből származó, olyan jövőbeni, nem realizált nyereség, amely hitelminőség javítást nyújt az értékpapírosított pozíciókra.
 
-a) jegyzett tőke be nem fizetett része,
+5. Az alapvető tőke negatív összetevői a számviteli kimutatások alapján:
+
+a) visszavásárolt saját részvények könyv szerinti értéke,
 
 b) immateriális javak,
 
-c) osztalék-elsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére is feljogosító, jegyzett és befizetett részvények,
+c) eredménytartalék, ha negatív,
 
-d) eredménytartalék, ha negatív,
+d) könyvvizsgáló által hitelesített mérleg szerinti eredmény, ha negatív, illetve évközi szavatolótőke-számítás esetén az évközi negatív eredmény,
 
-e) könyvvizsgáló által hitelesített mérleg szerinti eredmény, ha negatív, illetve évközi szavatoló tőke számítás esetén az évközi negatív eredmény,
+e) kockázati céltartalék – ide nem értve az általános kockázati céltartalékot – és az értékvesztés hiánya, azaz a mérlegen kívüli kötelezettségek és az eszközök helytelen értékelése miatt el nem számolt kockázati céltartalék, illetve értékvesztés összege (ideértve a könyvvizsgáló vagy a Felügyelet vizsgálata során feltárt céltartalékhiányt, illetve az el nem számolt értékvesztést is), amennyiben a hiány a szavatoló tőkéből más jogcímen nem kerül levonásra,
 
-f) kockázati céltartalék – ide nem értve az általános kockázati céltartalékot – és az értékvesztés hiánya, azaz a mérlegen kívüli kötelezettségek és az eszközök helytelen értékelése miatt el nem számolt kockázati céltartalék, illetve értékvesztés összege (ideértve a könyvvizsgáló vagy a Felügyelet vizsgálata során feltárt céltartalék hiányt, illetve az el nem számolt értékvesztést is),
+f) a vegyes tulajdonságú befizetett jegyzett tőkének és az alapvető kölcsöntőkének a 14. pont szerinti korlátozások miatt figyelembe nem vehető része,
 
-g) az alapvető kölcsöntőkének a 7B. pont szerinti korlátozások miatt figyelembe nem vehető része.
+g) a kereskedési könyvben nyilvántartott kevésbé likvid tételekre külön jogszabály alapján számított, jelentős veszteséget eredményező értékelési korrekciók (az Szmt. szerinti valós értékelés alá nem vont tételek esetében ezen értékelési korrekcióknak az elszámolt értékvesztés és megképzett céltartalék feletti többlete).
 
-h) a kereskedési könyvben nyilvántartott kevésbé likvid tételekre külön jogszabály alapján számított, jelentős veszteséget eredményező értékelési korrekciók (az Szmt. szerinti valós értékelés alá nem vont tételek esetében ezen értékelési korrekcióknak az elszámolt értékvesztés és megképzett céltartalék feletti többlete),
+6. A 3. pont a) alpontja szerinti befizetett jegyzett tőkében olyan részvény és részjegy vehető figyelembe, amely
 
-i) visszavásárolt saját részvények könyv szerinti értéke.
+a) a felszámolás során a kielégítési rangsorban az utolsó helyen áll,
 
-5. Ha a hitelintézet a jegyzett tőke emeléséről dönt, a megemelt összegű jegyzett tőke a tőkeemelés összegének befizetését igazoló dokumentumok Felügyeletnek történő bemutatásától kezdődően számítható be a szavatoló tőkébe.
+b) a névértékhez képest előre rögzített mértékű osztalék-, részesedés-, vagy kamatfizetésre nem jogosít,
 
-6. Ha a hitelintézet a jegyzett tőke leszállításáról dönt, a hitelintézetnek a szavatoló tőke számítása során a jegyzett tőkét a leszállított értéken kell figyelembe venni.
+c) az elmúlt év vagy évek elmaradt osztalék, részesedés vagy kamat kifizetésére a későbbi időszakban jogosító, kumulatív tulajdonsággal nem rendelkezik.
 
-7. A szavatoló tőke számítása során az általános kockázati céltartalék a mindenkori társasági adó mértékével csökkentett összegben vehető figyelembe.
+7. A 3. pont h) alpontja szerinti vegyes tulajdonságú befizetett jegyzett tőkének minősül minden olyan részvény és részjegy, amely nem felel meg 6. pontban foglalt feltételeknek, de teljesíti a következőket:
 
-7A. A törvény alkalmazásában alapvető kölcsöntőkének minősül minden olyan kölcsön, amely kielégíti az alábbi feltételeket:
+a) a felszámolás során a kielégítési rangsorban a járulékos tőkében szereplő eszközök után következik,
 
-a) ténylegesen rendelkezésre áll, az igénybe vevő hitelintézet számára azonnal, jogvita vagy sortartási kötelezettség nélkül hozzáférhető, hitelviszonyt megtestesítő értékpapír esetén nem került visszavásárlásra, továbbá az igénybe vevő hitelintézet mérlegében szerepel,
+b) visszaváltásuk, illetve visszavásárlásuk a hitelintézet mérlegelési joga,
 
-b) a kölcsön nyújtására vonatkozó szerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a hitelintézet adósságának rendezésébe és a kölcsönt nyújtó követelése a törlesztések sorrendjében a részvényesek előtti legutolsó helyen áll,
+c) kibocsátástól számított 5 évnél korábban nem válthatók, illetve vásárolhatók vissza,
 
-c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – határozatlan futamidejű, kizárólag a Felügyelet engedélyével, legalább öt év futamidő elteltét követően mondható fel,
+d) a jegyzési dokumentáció feltételei olyanok, hogy a visszaváltásra, visszavásárlásra vonatkozó ösztönzés mérsékelt, és hatása 10 évnél nem korábban jelentkezik,
 
-d) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszavásárlását is – a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
+e) visszaváltásukhoz, illetve visszavásárlásukhoz felügyeleti engedély kell,
 
-e) a kölcsön-, illetve az értékpapír-adásvételi szerződés semminemű olyan feltételt nem tartalmaz, amely a kapcsolódó kamat- és járulékfizetést tíz éven belül megnöveli, kivéve mozgó kamatozás esetén a referenciakamat emelkedéséből adódó kamatnövekedést,
+f) a hitelintézet a jegyzési dokumentáció alapján bármikor jogosult arra, hogy meghatározatlan ideig ne fizessen osztalékot, részesedést vagy kamatot, anélkül, hogy az elmaradt osztalék, részesedés vagy kamat fizetésére a későbbiekben bármilyen kötelezettsége lenne,
 
-f) a hitelintézet a kamatfizetést elhalaszthatja,
+g) a jegyzési dokumentációban szereplő osztalék, részesedés, kamat és egyéb kifizetési feltételek olyanok, hogy azok nem akadályozzák a hitelintézet szükség esetén történő feltőkésítését,
 
-g) ha egy adott évben az f) alpontban meghatározott szabály alapján kamatfizetés nem teljesíthető, akkor a kölcsönnyújtó erre az elmaradt összegre a következő években nem tarthat igényt,
+h) a Felügyelet a részvény és részjegy visszaváltásához szükséges előzetes hozzájáruláshoz előírhatja a hitelintézet számára ugyanolyan vagy jobb minőségű alapvető tőkeelem biztosításával a szavatoló tőke felemelését,
 
-h) ha a hitelintézet a kölcsön alapján valamely fizetési kötelezettségének nem tesz eleget, akkor a kölcsönnyújtó – ezen a jogcímen – nem jogosult a hitelintézet felszámolását kezdeményezni,
+i) a Felügyelet törölheti a részvény és részjegy visszaváltását, osztalék, részesedés vagy kamat kifizetését, ha a hitelintézet nem teljesíti a 76. § (1)–(2) bekezdés szerinti tőkekövetelményt,
 
-i) a kölcsönnel kapcsolatosan kizárt a kölcsöntőkét nyújtó bármiféle beszámítási joga a kölcsönfelvevővel szemben.
+j) a Felügyelet engedélyezheti a visszaváltást, ha a kibocsátás időpontjában előre nem látott módon megváltozik az ilyen részvények adóügyi vagy szabályozói minősítése,
 
-7B. A figyelembe vehető alapvető kölcsöntőke összege nem haladhatja meg az alapvető tőkeelemek összegének 15%-át.
+k) a hitelintézet köteles törölni az osztalék-, részesedés-, vagy kamatfizetést, ha nem teljesíti a 76. § (1)–(2) bekezdés szerinti tőkekövetelményt,
 
-8. A járulékos tőke pozitív összetevői a számviteli kimutatások alapján:
+l) a Felügyelet előírhatja az osztalék-, részesedés-, vagy kamatfizetés törlését a hitelintézet pénzügyi és fizetőképességi helyzete alapján azzal, hogy a hitelintézet jogosult a kifizetést új részvény kibocsátásával helyettesíteni, amely kibocsátás nem ronthatja a hitelintézet pénzügyi helyzetét, és amely kibocsátást a Felügyelet további feltételekhez kötheti,
 
-a) osztalék-elsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére is feljogosító, jegyzett és befizetett részvények,
+m) a Felügyelet az i) és l) alpontban foglalt intézkedéseivel egyidejűleg előírhatja a részvénynek és részjegynek a 3. pont a) alpontja szerinti részvénnyel vagy részjeggyel való helyettesítést.
+
+8. Ha a hitelintézet a jegyzett tőke emeléséről dönt, a megemelt összegű jegyzett tőke a tőkeemelés összegének befizetését igazoló dokumentumok Felügyeletnek történő bemutatásától kezdődően számítható be a szavatoló tőkébe.
+
+9. Ha a hitelintézet a jegyzett tőke leszállításáról dönt, a hitelintézetnek a szavatoló tőke számítása során a jegyzett tőkét a leszállított értéken kell figyelembe vennie.
+
+10. A szavatoló tőke számítása során az általános kockázati céltartalék a mindenkori társasági adó mértékével csökkentett összegben vehető figyelembe.
+
+11. A törvény alkalmazásában alapvető kölcsöntőkének minősül minden olyan kölcsön, amely kielégíti az alábbi feltételeket:
+
+a) ténylegesen rendelkezésre áll, az igénybe vevő hitelintézet számára azonnal, jogvita vagy sortartási kötelezettség nélkül hozzáférhető, hitelviszonyt megtestesítő értékpapír esetén nem került visszaváltásra vagy visszavásárlásra, továbbá az igénybe vevő hitelintézet mérlegében szerepel,
+
+b) a kölcsönszerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a hitelintézet folyamatos működése mellett is a hitelintézet adósságának rendezésébe, és a kölcsönt nyújtó követelése felszámolási eljárás esetén a törlesztések sorrendjében a járulékos kölcsöntőke után áll,
+
+c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – határozatlan vagy eredetileg legalább 30 éves futamidejű, kizárólag a Felügyelet engedélyével, legalább 5 év futamidő elteltét követően mondható fel, törleszthető, váltható vagy vásárolható vissza,
+
+d) a kölcsönszerződés, illetve az értékpapírban foglalt jogok tartalmazhatnak egy vagy több visszaváltási opciót, melynek lehívása kizárólag a hitelintézet döntésétől függ,
+
+e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszaváltását és visszavásárlását is – a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
+
+f) a Felügyelet a kölcsön felmondásához, az értékpapír visszaváltásához és visszavásárlásához szükséges előzetes hozzájárulás esetén előírhatja a hitelintézet számára ugyanolyan vagy jobb minőségű alapvető kölcsöntőke vagy jegyzett tőke biztosításával a szavatoló tőke felemelését,
+
+g) a Felügyelet törölheti a kölcsön felmondását, értékpapír visszaváltását, visszavásárlását, kamat kifizetését, ha a hitelintézet nem teljesíti a 76. § (1)–(2) bekezdése szerinti tőkekövetelményt,
+
+h) a Felügyelet engedélyezheti a lejárattal rendelkező vagy a lejárat nélküli kölcsönök lejárat előtti visszaváltását, visszavásárlását, ha a kibocsátás időpontjában előre nem látott módon megváltozik az ilyen kölcsönök adóügyi vagy szabályozói minősítése,
+
+i) amennyiben egy határozatlan futamidejű kölcsön, vagy hitelviszonyt megtestesítő értékpapír esetében a kölcsönszerződés, illetve értékpapírban foglalt jogok mérsékelt ösztönzést tartalmaznak a visszaváltásra vagy visszavásárlásra, akkor ilyen tőketörlesztés a futamidő első 10 évében nem lehetséges,
+
+j) határozott futamidejű kölcsön-, illetve hitelviszonyt megtestesítő értékpapír esetében a kölcsönszerződés, illetve értékpapírban foglalt jogok semminemű olyan feltételt nem tartalmazhatnak, ami a futamidő lejárata előtti visszafizetésre ösztönöz,
+
+k) a hitelintézet a kamatfizetést törölheti,
+
+l) a hitelintézet köteles törölni a kamatfizetést, ha nem teljesíti a 76. § (1)–(2) bekezdése szerinti tőkekövetelményt,
+
+m) a Felügyelet előírhatja a kamatfizetés törlését a hitelintézet pénzügyi és fizetőképességi helyzete alapján azzal, hogy a hitelintézet jogosult a kifizetést új részvény kibocsátásával helyettesíteni, amely kibocsátás nem ronthatja a hitelintézet pénzügyi helyzetét, és amely kibocsátást a Felügyelet további feltételekhez kötheti,
+
+n) ha egy adott évben a k)–m) alpontokban meghatározott szabály alapján kamatfizetés nem teljesíthető, akkor a kölcsönnyújtó erre az elmaradt összegre a következő években nem tarthat igényt,
+
+o) ha a hitelintézet a kölcsön alapján valamely fizetési kötelezettségének nem tesz eleget, akkor a kölcsönnyújtó – ezen a jogcímen – nem jogosult a hitelintézet felszámolását kezdeményezni,
+
+p) a kölcsönnel kapcsolatosan kizárt a kölcsöntőkét nyújtó bármiféle beszámítási joga a kölcsönfelvevővel szemben.
+
+q) a Felügyelet a g) és m) alpontban foglalt intézkedéseivel egyidejűleg előírhatja az alapvető kölcsöntőke 3. pont a) alpontja szerinti részvénnyel való helyettesítését.
+
+12. a) Amennyiben a hitelintézet több alapvető, illetve járulékos kölcsöntőkét bocsátott ki, a kölcsöntőke tulajdonosai számára megfelelő tájékoztatást kell adnia a kölcsöntőke adósságrendezésbe való bevonásának lehetőségéről, az adott kölcsöntőke elem kielégítési sorrendben elfoglalt helyéről, valamint a különböző kibocsátású kölcsöntőkék egymáshoz viszonyított helyéről az adósságbevonási, illetve -kielégítési sorrendben.
+
+b) Ha az alapvető és járulékos kölcsöntőke különleges célú gazdasági egységen keresztül kerül kibocsátásra, akkor a 11. pontban foglaltak teljesülése esetén átválthatónak kell lennie a hitelintézet által közvetlenül kibocsátott kölcsöntőkére azzal, hogy a kölcsöntőkenyújtók nem kerülhetnek hátrányosabb helyzetbe, mintha a kölcsöntőkét a hitelintézet közvetlenül bocsátotta volna ki. A különleges célú gazdasági egység egyéb tevékenységet üzletszerűen nem végezhet.
+
+13. A szavatoló tőke számítása során az alapvető kölcsöntőkéből le kell vonni a hitelintézet által visszavásárolt, saját kibocsátású, alapvető kölcsöntőkének minősülő, mérlegben az eszközök között kimutatott értékpapírok könyv szerinti értékét.
+
+14. A vegyes tulajdonságú befizetett jegyzett tőkének és az alapvető kölcsöntőkének az alapvető tőkébe történő együttes beszámíthatóságánál az alábbi korlátozásokat kell érvényesíteni:
+
+a) az alapvető tőke legfeljebb 50%-a lehet olyan vegyes tulajdonságú befizetett jegyzett tőke és alapvető kölcsöntőke, amely kötelezően olyan részvényre vagy részjegyre váltandó a kibocsátáskor meghatározott átváltási mechanizmus szerint a hitelintézet pénzügyi és tőkehelyzetét veszélyeztető esemény bekövetkezése esetén, vagy ha ezt a Felügyelet előírja, amely a 3. pont a) alpontja alapján figyelembe vehető, és megfelel a 6. pontban foglalt feltételeknek,
+
+b) az alapvető tőke együttesen legfeljebb 35%-a lehet olyan vegyes tulajdonságú befizetett jegyzett tőke és alapvető kölcsöntőke, amely határozatlan futamidejű, és amelyhez nem kapcsolódik visszaváltásra vagy visszavásárlásra ösztönző rendelkezés, de az a) pontban jelzett tőkeelemekkel együttes részesedésük sem haladhatja meg az alapvető tőke 50%-át,
+
+c) az alapvető tőke együttesen legfeljebb 15%-a lehet olyan vegyes tulajdonságú befizetett jegyzett tőke, és alapvető kölcsöntőke, amely lejárattal rendelkezik, vagy amelyhez visszaváltásra vagy visszavásárlásra mérsékelt ösztönző rendelkezés kapcsolódik, de az a) és b) pontban jelzett tőkeelemekkel együttes részesedésük sem haladhatja meg az alapvető tőke 50%-át.
+
+15. A járulékos tőke pozitív összetevői a számviteli kimutatások alapján:
+
+a) a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére is feljogosító, jegyzett és befizetett elsőbbségi részvények, továbbá minden egyéb részvény és részjegy, amely nem felel meg a 6. vagy 7. pontban foglalt feltételeknek,
 
 b) értékelési tartalék,
 
@@ -5545,53 +5863,55 @@ c) alárendelt kölcsöntőke,
 
 d) járulékos kölcsöntőke,
 
-e) a 7B. pontban meghatározott mértéket meghaladó alapvető kölcsöntőke,
+e) a 14. pontban meghatározott mértéket meghaladó vegyes tulajdonságú befizetett jegyzett tőke és alapvető kölcsöntőke,
 
 f) ha a hitelintézet a hitelezési kockázatát belső minősítésen alapuló módszerrel számítja, akkor az elszámolt értékvesztés és a képzett kockázati céltartalék – ide nem értve az általános kockázati céltartalék – összegének a várható veszteség értékével csökkentett értéke a kockázattal súlyozott kitettség érték 0,6%-áig, ha ez a különbség pozitív.
 
-8A. Ha a hitelintézet a hitelezési kockázatát belső minősítésen alapuló módszerrel számítja, akkor az elszámolt értékvesztés és a képzett céltartalék a 8. pont f) alpontja szerinti határértéken túlmenően nem része a szavatoló tőkének.
+16. Ha a hitelintézet a hitelezési kockázatát belső minősítésen alapuló módszerrel számítja, akkor az elszámolt értékvesztés és a képzett céltartalék a 15. pont f) alpontja szerinti határértéken túlmenően nem része a szavatoló tőkének.
 
-9. A járulékos tőke negatív összetevője:
+17. A járulékos tőke negatív összetevője:
 
 az alárendelt kölcsöntőke figyelembe nem vehető része.
 
-9A. A törvény alkalmazásában járulékos kölcsöntőkének minősül minden olyan kölcsön, amely:
+18. A törvény alkalmazásában járulékos kölcsöntőkének minősül minden olyan kölcsön, amely:
 
-a) kielégíti a 7A. pont a)–f) és h)–i) alpontban meghatározott feltételeket, és
+a) kielégíti a 11. pont a)–m) és o)–q) alpontban meghatározott feltételeket, és
 
-b) ha egy adott évben a 7A. pont f) alpontjában meghatározott szabály alapján kamat vagy bármilyen más jogcímen kifizetés nem teljesíthető, akkor a következő években a kölcsönnyújtó erre az elmaradt összegre kizárólag akkor tarthat igényt, ha a teljesítés a 7A. pont f) alpontjában meghatározott szabályok alapján lehetséges. A kölcsönnyújtó késedelmi kamatra nem tarthat igényt.
+b) ha egy adott évben a 11. pont k) alpontjában meghatározott szabály alapján kamat vagy bármilyen más jogcímen kifizetés nem teljesíthető, akkor a következő években a kölcsönnyújtó erre az elmaradt összegre kizárólag akkor tarthat igényt, ha a teljesítés a 11. pont k) alpontjában meghatározott szabályok alapján lehetséges. A kölcsönnyújtó késedelmi kamatra nem tarthat igényt.
 
-10. A törvény alkalmazásában alárendelt kölcsöntőkének minősül minden olyan kölcsön, amely kielégíti az alábbi feltételeket:
+19. A törvény alkalmazásában alárendelt kölcsöntőkének minősül minden olyan kölcsön, amely kielégíti az alábbi feltételeket:
 
-a) ténylegesen rendelkezésre áll, az igénybe vevő hitelintézet számára azonnal, jogvita vagy sortartási kötelezettség nélkül hozzáférhető, hitelviszonyt megtestesítő értékpapír esetén nem került visszavásárlásra, továbbá az igénybe vevő hitelintézet mérlegében szerepel,
+a) ténylegesen rendelkezésre áll, az igénybe vevő hitelintézet számára azonnal, jogvita vagy sortartási kötelezettség nélkül hozzáférhető, hitelviszonyt megtestesítő értékpapír esetén nem került visszaváltásra vagy visszavásárlásra, továbbá az igénybe vevő hitelintézet mérlegében szerepel,
 
-b) az alárendelt kölcsöntőke nyújtására vonatkozó szerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a hitelintézet adósságának rendezésébe és a kölcsönt nyújtó követelése a törlesztések sorrendjében a részvényesek előtti legutolsó helyen áll,
+b) az alárendelt kölcsöntőke nyújtására vonatkozó szerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a hitelintézet adósságának rendezésébe és a kölcsönt nyújtó követelése a törlesztések sorrendjében a részvényesek, valamint az alapvető és járulékos kölcsöntőkenyújtók előtti legutolsó helyen áll,
 
-c) a kölcsön, – ideértve a hitelviszonyt megtestesítő értékpapírt is – eredeti futamideje öt évet meghaladó lejáratú, és legkevesebb öt év múlva fizetendő vissza, illetve, ha a lejárat nincs meghatározva, a kölcsön csak a szerződésben rögzített, a felmondástól számított, legkevesebb öt év múlva fizethető vissza, kivéve, ha a Felügyelet engedélyezi a korábbi visszafizetést,
+c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – eredeti futamideje 5 évet meghaladó lejáratú, és legkevesebb 5 év múlva fizetendő vissza, illetve, ha a lejárat nincs meghatározva, a kölcsön csak a szerződésben rögzített, a felmondástól számított, legkevesebb 5 év múlva fizethető vissza, kivéve, ha a Felügyelet engedélyezi a korábbi visszafizetést,
 
-d) a kölcsön-, illetve az értékpapír adás-vételi szerződés semminemű olyan feltételt nem tartalmaz, amely a kapcsolódó kamat- és járulékfizetést megnöveli, kivéve mozgó kamatozás esetén a referencia kamat emelkedéséből adódó kamatnövekedést,
+d) a kölcsönszerződés, illetve az értékpapírban foglalt jogok semminemű olyan feltételt nem tartalmaznak, amely a kapcsolódó kamat- és járulékfizetést megnöveli, kivéve mozgó kamatozás esetén a referenciakamat emelkedéséből adódó kamatnövekedést,
 
-e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszavásárlását is – az eredeti lejárat vagy a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
+e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszaváltását és visszavásárlását is – az eredeti lejárat vagy a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
 
 f) az alárendelt kölcsöntőkével kapcsolatosan kizárt a kölcsöntőkét nyújtó bármiféle beszámítási joga a kölcsönfelvevővel szemben.
 
-11. Az alárendelt kölcsöntőke összegének a szavatoló tőkébe történő beszámítását legalább a visszafizetési időpontot megelőző öt év során – fokozatosan, évente egyenlő arányban – csökkenteni kell.
+20. Az alárendelt kölcsöntőke összegének a szavatoló tőkébe történő beszámítását a visszafizetési időpontot megelőző 5 év során – fokozatosan, évente 20%-kal egyenlő arányban – csökkenteni kell.
 
-12. A részvénnyé átváltoztatható kötvény akkor számítható be a járulékos tőkébe, ha kielégíti az alárendelt kölcsöntőkére, az alapvető kölcsöntőkére vagy a járulékos kölcsöntőkére vonatkozó feltételeket. Egyéb esetben a részvénnyé átváltoztatható kötvény nem minősül szavatoló tőkeelemnek.
+21. A részvénnyé átváltoztatható kötvény akkor számítható be a járulékos tőkébe, ha kielégíti az alárendelt kölcsöntőkére, az alapvető kölcsöntőkére vagy a járulékos kölcsöntőkére vonatkozó feltételeket. Egyéb esetben a részvénnyé átváltoztatható kötvény nem minősül szavatoló tőkeelemnek.
 
-12A. A járulékos tőke számításakor nem vehető figyelembe a bekerülési értéken értékelt pénzügyi instrumentum cash-flow fedezeti ügyletének valós értékeléséből származó értékelési tartalék.
+22. A szavatoló tőke számítása során a járulékos és alárendelt kölcsöntőkéből le kell vonni a hitelintézet által visszavásárolt, saját kibocsátású, járulékos vagy alárendelt kölcsöntőkének minősülő, mérlegben az eszközök között kimutatott értékpapírok könyv szerinti értékét.
 
-13. A járulékos tőke szavatoló tőkébe történő beszámíthatóságánál az alábbi korlátozásokat kell érvényesíteni:
+23. A járulékos tőke számításakor nem vehető figyelembe a bekerülési értéken értékelt pénzügyi instrumentum cash-flow fedezeti ügyletének valós értékeléséből származó értékelési tartalék.
+
+24. A járulékos tőke szavatoló tőkébe történő beszámíthatóságánál az alábbi korlátozásokat kell érvényesíteni:
 
 a) a figyelembe vehető járulékos tőke összege nem haladhatja meg az alapvető tőke összegének 100%-át,
 
-b) a járulékos tőkeként figyelembe vehető lejárattal rendelkező alárendelt kölcsöntőke, valamint a 8. pont a) alpontja szerinti lejárattal rendelkező osztalékelsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére is feljogosító, jegyzett és befizetett részvények összegének az aránya nem haladhatja meg az alapvető tőke 50%-át.
+b) a járulékos tőkeként figyelembe vehető lejárattal rendelkező alapvető, járulékos és alárendelt kölcsöntőke, valamint a járulékos tőkeként figyelembe vehető lejárattal rendelkező részvények és részjegyek összegének az aránya nem haladhatja meg az alapvető tőke 50%-át.
 
-14. A 13. pont szerinti korlátozások figyelembevételével meghatározott szavatoló tőke alapvető tőkéjéből és járulékos tőkéjéből 50-50%-os arányban kell levonni:
+25. A 24. pont szerinti korlátozások figyelembevételével meghatározott szavatoló tőke alapvető tőkéjéből és járulékos tőkéjéből 50–50%-os arányban kell levonni:
 
 a) a más pénzügyi intézményben, befektetési vállalkozásban, biztosítóban, valamint viszontbiztosítóban lévő részesedések könyv szerinti értékét – ha a felsoroltaknál a hitelintézet minősített befolyással rendelkezik –, valamint az előzőekben felsorolt vállalkozások részére nyújtott alárendelt kölcsöntőke, alapvető kölcsöntőke és járulékos kölcsöntőke könyv szerinti értékét,
 
-b) a minősített befolyásnak nem minősülő, más pénzügyi intézményben, befektetési vállalkozásban, biztosítóban, valamint viszontbiztosítóban lévő részesedések könyv szerinti értékének, valamint az előzőekben felsorolt vállalkozások részére nyújtott alárendelt kölcsöntőke, alapvető kölcsöntőke és járulékos kölcsöntőke könyv szerinti értékének együttes összegéből az 1–13. pontok figyelembevételével számított szavatoló tőke tíz százalékát meghaladó részét,
+b) a minősített befolyásnak nem minősülő, más pénzügyi intézményben, befektetési vállalkozásban, biztosítóban, valamint viszontbiztosítóban lévő részesedések könyv szerinti értékének, valamint az előzőekben felsorolt vállalkozások részére nyújtott alárendelt kölcsöntőke, alapvető kölcsöntőke és járulékos kölcsöntőke könyv szerinti értékének együttes összegéből az 1–24. pontok figyelembevételével számított szavatoló tőke 10%-át meghaladó részét,
 
 c) ha a hitelintézet a hitelezési kockázatát belső minősítésen alapuló módszerrel számítja, akkor az elszámolt értékvesztés és a képzett céltartalék összegének a várható veszteség értékével csökkentett értékének összegét, ha ez a különbség negatív, valamint a részesedések kockázattal súlyozott kitettség értékének – a külön jogszabály szerinti – az egyszerű súlyozási módszerrel vagy PD/LGD módszerrel történő meghatározása esetén, a részvénykitettségek várható vesztesége összegét,
 
@@ -5599,31 +5919,25 @@ d) azon értékpapírosítási pozíciók összegét, amelyhez külön jogszabá
 
 e) a kereskedési könyv szerinti nyitva szállítás értékét a második szerződés szerinti (fizetést vagy szállítást követő) 5. munkanaptól az ügylet megszűntéig.
 
-14A. Ha a 13. pont szerinti korlátozások figyelembe vételével meghatározott járulékos tőke értékét meghaladja a 14. pontban meghatározott tételek értékének 50%-a, akkor a különbözetet az alapvető tőke értékéből kell levonni.
+26. Ha a 24. pont szerinti korlátozások figyelembevételével meghatározott járulékos tőke értékét meghaladja a 25. pontban meghatározott tételek értékének 50%-a, akkor a különbözetet az alapvető tőke értékéből kell levonni.
 
-15. A 14. pontban foglalt levonásokat követően fennmaradó – a 8. pont f) alpontjában és a 14. pont c), d) és e) alpontjában rögzített tételek figyelmen kívül hagyásával számított – szavatoló tőke alapvető és járulékos tőkerészei képezik a 79–85. §-ban meghatározott, a szavatoló tőke nagyságához kötött korlátozások alapját.
+27. A 13., 22. és a 25. pontban foglalt levonásokat követően fennmaradó – a 15. pont f) alpontjában és a 25. pont c), d) és e) alpontjában rögzített tételek figyelmen kívül hagyásával számított – szavatoló tőke alapvető és járulékos tőkerészei képezik a 79–85. §-ban meghatározott, a szavatoló tőke nagyságához kötött korlátozások alapját.
 
-16. A 14. pontban foglalt levonásokat követően fennmaradó szavatoló tőke alapvető és járulékos tőkerészeiből le kell vonni:
+28. A 13., 22. és a 25. pontban foglalt levonásokat követően fennmaradó szavatoló tőke alapvető és járulékos tőkerészeiből le kell vonni a 79. és 83. § szerinti limittúllépések összegét. A levonások során érvényesíteni kell a 24. pontban meghatározott korlátozásokat.
 
-a) a 79. és 83. § szerinti limittúllépések összegét,
+29. A szavatoló tőke a 76. § (1) bekezdése a) pontjának 1. és 4. pontja és (2) bekezdése alkalmazásában a 28. pontban foglalt levonásokat követően fennmaradó szavatoló tőke.
 
-b)
+30. A kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások, valamint a teljes tevékenységre számított devizaárfolyam- és árukockázat tőkekövetelményének fedezetére az alapvető és járulékos tőke mellett kiegészítő tőke is felhasználható. Alapvető és járulékos tőkerészként a 28. pontban foglalt levonások és a 76. § (1) bekezdése a) pontjának 1. és 4. alpontjában, a 76. § (2) bekezdésében és felügyeleti kivételes intézkedés keretében meghatározott tőkekövetelmény értékének tőkéből történő elkülönítése után fennmaradó összeg vehető figyelembe. A kiegészítő tőkét a kiegészítő alárendelt kölcsöntőke és a járulékos tőkének a 24. pontban meghatározott korlátozások miatt fel nem használható része alkotja.
 
-A levonások során érvényesíteni kell a 13. pontban meghatározott korlátozásokat.
+31. A törvény alkalmazásában kiegészítő alárendelt kölcsöntőkének minősül minden olyan alárendelt kölcsön, amely kielégíti a következő feltételeket:
 
-17. A szavatoló tőke a 76. § (1) bekezdése a) pontjának 1. és 4. pontja és (2) bekezdése alkalmazásában a 16. pontban foglalt levonásokat követően fennmaradó szavatoló tőke.
-
-18. A kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások, valamint a teljes tevékenységre számított devizaárfolyam- és árukockázat tőkekövetelményének fedezetére az alapvető és járulékos tőke mellett kiegészítő tőke is felhasználható. Alapvető és járulékos tőkerészként a 16. pontban foglalt levonások és a 76. § (1) bekezdése a) pontjának 1. és 4. alpontjában, a 76. § (2) bekezdésében és felügyeleti kivételes intézkedés keretében meghatározott tőkekövetelmény értékének tőkéből történő elkülönítése után fennmaradó összeg vehető figyelembe. A kiegészítő tőkét a kiegészítő alárendelt kölcsöntőke és a járulékos tőkének a 13. pontokban meghatározott korlátozások miatt fel nem használható része alkotja.
-
-19. A törvény alkalmazásában kiegészítő alárendelt kölcsöntőkének minősül minden olyan alárendelt kölcsön, amely kielégíti a következő feltételeket:
-
-a) megfelel a 10. pont a), b), d), e) és f) alpontjában rögzített feltételeknek,
+a) megfelel a 19. pont a), b), d), e) és f) alpontjában rögzített feltételeknek,
 
 b) eredeti futamideje legalább két év,
 
 c) a vonatkozó szerződés tartalmazza, hogy a lejáratkor vagy azt követően kizárólag akkor fizethető vissza, ha a kereskedési könyvet vezető intézmény megfelel a rá vonatkozó tőkekövetelményeknek.
 
-20. A kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások, valamint a teljes tevékenységre számított devizaárfolyam- és árukockázat tőkekövetelményének fedezetére szolgáló szavatoló tőkében a kiegészítő alárendelt kölcsöntőke és a járulékos tőkeelemek csak olyan mértékben vehetők figyelembe, hogy azok együttes összege ne haladja meg az ugyanezen kockázatok fedezetére figyelembe vett alapvető tőkeelemek összegének kétszáz százalékát.
+32. A kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások, valamint a teljes tevékenységre számított devizaárfolyam- és árukockázat tőkekövetelményének fedezetére szolgáló szavatoló tőkében a kiegészítő alárendelt kölcsöntőke és a járulékos tőkeelemek csak olyan mértékben vehetők figyelembe, hogy azok együttes összege ne haladja meg az ugyanezen kockázatok fedezetére figyelembe vett alapvető tőkeelemek összegének 200%-át.
 
 ### 6. számú melléklet az 1996. évi CXII. törvényhez
 
@@ -5656,6 +5970,10 @@ I. Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolg�
 12. Az Európai Parlament és a Tanács 2009. március 11-i 2009/14/EK irányelve a betétbiztosítási rendszerekről szóló 94/19/EK irányelvnek a fedezeti szint és a kifizetési határidő tekintetében történő módosításáról.
 
 13. Az Európai Parlament és a Tanács 2007. november 13-án kelt 2007/64/EK irányelve a belső piaci pénzforgalmi szolgáltatásokról és a 92/7/EK, a 2002/65/EK, a 2005/60/EK és a 2006/48/EK irányelv módosításáról és a 97/5/EK irányelv hatályon kívül helyezéséről.
+
+14. Az Európai Parlament és a Tanács 2009. szeptember 16-i 2009/111/EK irányelve a 2006/48/EK, a 2006/49/EK és a 2007/64/EK irányelvnek a központi hitelintézetek kapcsolt bankjai, egyes szavatolótőke-elemek, nagykockázat-vállalások, felügyeleti szabályok és válságkezelés tekintetében történő módosításáról.
+
+15. Az Európai Parlament és a Tanács 2010. november 24-i 2010/76/EU irányelve a 2006/48/EK és a 2006/49/EK irányelvnek a kereskedési könyvre és az újraértékpapírosításra vonatkozó tőkekövetelmények, továbbá a javadalmazási politikák felügyeleti felülvizsgálata tekintetében történő módosításáról.
 
 II. Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Felügyelet eljárásában:
 

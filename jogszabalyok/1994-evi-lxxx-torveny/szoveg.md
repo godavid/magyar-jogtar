@@ -883,7 +883,7 @@ illetménynek megfelelő összeg.
 
 (4) Ha az ügyész ügyészségi szolgálati viszonya az ügyész halála miatt szűnik meg, a jubileumi jutalmat — a (3) bekezdésben foglalt szabály alkalmazásával — az örökösének kell kifizetni.
 
-50/A. § (1) Az ügyész cafetéria-juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 70. § (2) bekezdés a) és b), valamint d) és e) pontjaiban, továbbá (5) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig, valamint az ingyenes vagy kedvezményes internethasználatra jogosult. A legfőbb ügyész utasításban további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
+50/A. § (1) Az ügyész cafetéria-juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjaiban, továbbá (3) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig jogosult. A legfőbb ügyész utasításban további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
 
 (2) Nem jogosult cafetéria-juttatásra a tartós külszolgálaton lévő ügyész, valamint az ügyész azon időtartam vonatkozásában, amelyre illetményre vagy átlagkeresetre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot.
 
@@ -1513,13 +1513,13 @@ ha a feladatkör ellátásához szükséges mértékű magyar nyelvismerettel é
 94/C. § (1) A (2)–(3) bekezdésben nem említett nem ügyész ügyészségi alkalmazott beosztási pótlékkal növelt alapilletménye nem lehet kevesebb
 
 - a) a Legfőbb Ügyészség és az OKRI alkalmazottja esetén a központi közigazgatási szerveknél [Ktv. 44. § (1) bekezdés],
-- b) az a) pontba nem tartozó szervek alkalmazottja esetén a közigazgatási hivatalnál
+- b) az a) pontba nem tartozó szervek alkalmazottja esetén a Kormány általános hatáskörű területi államigazgatási szervénél
 
 a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Ktv. szerinti illetménykiegészítéssel növelt alapilletményénél. A Ktv. szerinti I. besorolási osztály az e törvény szerinti III. fizetési osztálynak, a Ktv. szerinti II. besorolási osztály pedig az e törvény szerinti IV. fizetési osztálynak felel meg.
 
 (2) Az ügyészségi titkár alapilletménye nem lehet kevesebb a szolgálati viszonya kezdetétől számítva azonos szolgálati idővel rendelkező köztisztviselőnek a Ktv. szerint a központi közigazgatási szerveknél [Ktv. 44. § (1) bekezdés] az illetménykiegészítéssel növelt alapilletményénél.
 
-(3) Az ügyészségi fogalmazó alapilletménye nem lehet kevesebb a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselőnek a Ktv. szerint a közigazgatási hivatalnál az illetménykiegészítéssel növelt alapilletményénél.
+(3) Az ügyészségi fogalmazó alapilletménye nem lehet kevesebb a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselőnek a Ktv. szerint a Kormány általános hatáskörű területi államigazgatási szervénél az illetménykiegészítéssel növelt alapilletményénél.
 
 (4) Az (1)–(3) bekezdés szerint számított illetménykülönbözetet életpálya-különbözetként kell kifizetni.
 

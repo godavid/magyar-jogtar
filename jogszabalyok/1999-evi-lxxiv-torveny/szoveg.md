@@ -274,7 +274,7 @@ Az Országgyűlés az Alkotmányból, a nemzetközi egyezményekből eredő fela
 (2) A főigazgató a katasztrófaelhárítás irányításával és koordinálásával kapcsolatos jogkörében:
 
 - a) biztosítja a hivatásos katasztrófavédelmi szervezetek működési feltételeit, tervezi és felügyeli a katasztrófák elleni védekezéssel összefüggő jóváhagyott fejlesztéseket,
-- b) javaslatot tesz a katasztrófák elleni védekezésért felelős miniszter részére a katasztrófavédelem működését, feladatkörét érintő jogszabályoknak és az állami irányítás egyéb jogi eszközeinek megalkotására,
+- b) javaslatot tesz a katasztrófák elleni védekezésért felelős miniszter részére a katasztrófavédelem működését, feladatkörét érintő jogszabályoknak és a közjogi szervezetszabályozó eszközöknek megalkotására,
 - c) közreműködik a nemzetközi szerződések szakmai előkészítésében, a hatáskörébe tartozó nemzetközi kapcsolattartásban,
 - d) biztosítja a Kormány által kötött katasztrófavédelmi egyezményekben foglaltak maradéktalan végrehajtását,
 - e) biztosítja a regionális és határmenti együttműködéssel összefüggő feladatok folyamatos végrehajtását.
@@ -287,7 +287,7 @@ Az Országgyűlés az Alkotmányból, a nemzetközi egyezményekből eredő fela
 
 (2) Amennyiben a biztonsági jelentés vagy biztonsági elemzés védendő adatot tartalmaz, az üzemeltető egyidejűleg a nyilvánosságra hozható, védendő adatot nem tartalmazó biztonsági jelentést vagy biztonsági elemzést is köteles a hatóság részére benyújtani.
 
-30/A. § (1) Ha a hatóság hatáskörébe tartozó eljárásban benyújtott biztonsági jelentés vagy biztonsági elemzés nem felel meg a jogszabályban meghatározott követelményeknek, annak a hatósághoz történő beérkezésétől számított harmincöt munkanapon belül a hatóság hiánypótlásra hívja fel az üzemeltetőt.
+30/A. § (1) Ha a hatóság hatáskörébe tartozó eljárásban benyújtott biztonsági jelentés vagy biztonsági elemzés nem felel meg a jogszabályban meghatározott követelményeknek, annak a hatósághoz történő beérkezésétől számított negyvenöt napon belül a hatóság hiánypótlásra hívja fel az üzemeltetőt.
 
 (2) Ha az üzemeltető nem vagy nem megfelelő módon tesz eleget a veszélyes ipari üzemre vonatkozó biztonsági jelentéssel vagy biztonsági elemzéssel kapcsolatos hiánypótlási felhívásnak és a biztonsági jelentésben vagy biztonsági elemzésben a biztonságos üzemeltetést bizonyítani nem tudja, annak teljesítéséig a hatóság a veszélyes tevékenység végzését korlátozhatja vagy felfüggesztheti.
 
@@ -350,7 +350,7 @@ Az Országgyűlés az Alkotmányból, a nemzetközi egyezményekből eredő fela
 
 (4) Amennyiben az üzemeltető a veszélyes anyagokkal kapcsolatos súlyos balesettel vagy rendkívüli eseménnyel összefüggésben a megelőző, az elhárító, illetve a környezeti károkat helyreállító intézkedésekre, valamint a veszélyes anyagokkal kapcsolatos súlyos baleset körülményeinek kivizsgálására vonatkozó kötelezettségének nem tesz eleget, a hatóság ezek megtételére kötelezi.
 
-38/A. § A hatóság a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzése, valamint a jogszabályban, illetve hatósági határozatban foglalt kötelezettségek teljesülése érdekében a külön jogszabályban meghatározott gyakorisággal hatósági ellenőrzést tart. A helyszíni ellenőrzésről készült jegyzőkönyvet a hatóság az üzemeltető számára az ellenőrzés időpontjától számított huszonkét munkanapon belül megküldi.
+38/A. § A hatóság a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzése, valamint a jogszabályban, illetve hatósági határozatban foglalt kötelezettségek teljesülése érdekében a külön jogszabályban meghatározott gyakorisággal hatósági ellenőrzést tart. A helyszíni ellenőrzésről készült jegyzőkönyvet a hatóság az üzemeltető számára az ellenőrzés időpontjától számított harminc napon belül megküldi.
 
 39. § Az üzemeltető köteles:
 

@@ -170,7 +170,7 @@ van szükség, és
 
 14/A. § (1) Gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás rendelése esetén a vényen fel kell tüntetni
 
-- a) az érintett nevét, lakcímét, születési évét,
+- a) az érintett nevét, lakcímét, születési évét, tizenkét éven aluli gyermek esetén születésének évét és hónapját,
 - b) társadalombiztosítási támogatással történő rendelés esetén az a) pontban foglaltak mellett az érintett TAJ-számát, betegségének a betegségek nemzetközi osztályozása szerinti kódját (BNO kód), valamint
 - c) közgyógyellátott beteg esetén az a) és b) pontban foglaltak mellett a közgyógyellátási igazolvány számát.
 
@@ -205,6 +205,8 @@ van szükség, és
 - h) tuberkulozis (A15-A19)
 - i) tularaemia (A21).
 
+(8) A betegellátó a 4. § (2) bekezdésének b) pontja szerinti célból az egészségügyi államigazgatási szervnek továbbítja az oltandó személyek nevét és TAJ-számát az életkorhoz kötött oltáshoz szükséges oltóanyag igénylése során.
+
 15/A. § (1) Az észlelő orvos köteles haladéktalanul továbbítani a munkavédelmi hatóságnak a munkavállaló egészségügyi és személyazonosító adatát, ha
 
 - a) a 3. számú melléklet szerinti foglalkozási eredetű megbetegedést észlel vagy annak gyanúja merül fel,
@@ -234,9 +236,9 @@ van szükség, és
 
 (8) A 4. § (1) bekezdés b)–c) pontjai és a 4. § (2) bekezdés b) pontja szerinti célból a Központi Statisztikai Hivatal az elhunytak személyazonosításra alkalmas halálozási adatait a külön törvény szerint meghatározott adattartalommal az adatok teljessége és összefüggése ellenőrzésének befejezését követő 5 napon belül továbbítja az (5) és a (7) bekezdés szerinti, daganatos eredetű megbetegedéseket nyilvántartó regiszterek részére. Az (5)–(7) bekezdés szerinti regiszterek az adatfeldolgozás befejezésétől számított 8 napon belül a regiszterekben nem nyilvántartott, illetve az adatfeldolgozás során nyilvántartásba nem vett elhunytak adatait kötelesek megsemmisíteni.
 
-16/A. § (1) A lakossági célzott szűrővizsgálatok, a népegészségügyi szűrővizsgálatok, valamint a népegészségügyi szűrővizsgálatok körébe is tartozó szűrést végző egészségügyi szolgáltatók szűrővizsgálatai (a továbbiakban együtt: szűrővizsgálat) eredményeinek értékelése, monitorozása érdekében – a 4. § (1) bekezdés c) és d) és a 4. § (2) bekezdés b) pontjai szerinti célból – a feladat ellátásához szükséges mértékben és ideig az egészségügyi államigazgatási szerv kezelheti a szűrővizsgálaton részt vevő személyek egészségügyi adatait személyazonosításra alkalmatlan módon.
+16/A. § (1) A lakossági célzott szűrővizsgálatok, a népegészségügyi szűrővizsgálatok, valamint a népegészségügyi szűrővizsgálatok körébe is tartozó szűrést végző egészségügyi szolgáltatók szűrővizsgálatai (a továbbiakban együtt: szűrővizsgálat) eredményeinek értékelése, monitorozása érdekében – a 4. § (1) bekezdés c) és d), valamint a 4. § (2) bekezdés b) pontja szerinti célból – a feladat ellátásához szükséges mértékben és ideig az egészségügyi államigazgatási szerv értékeléssel, monitorozással megbízott munkatársa kezelheti a szűrővizsgálaton részt vevő személyek egészségügyi és személyazonosító adatait.
 
-(2) Az (1) bekezdés szerinti célból történő adatkezelés érdekében a 16. § (5) bekezdés szerinti Nemzeti Rákregiszter továbbítja az egészségügyi államigazgatási szerv részére a népegészségügyi szűrővizsgálat keretében észlelt daganatos eredetű megbetegedésekre vonatkozó egészségügyi adatokat.
+(2) Az (1) bekezdés szerinti célból történő adatkezelés érdekében a 16. § (5) bekezdése szerinti Nemzeti Rákregiszter továbbítja az egészségügyi államigazgatási szerv részére a népegészségügyi szűrővizsgálat keretében észlelt daganatos eredetű megbetegedésekre vonatkozó egészségügyi és személyazonosító adatokat.
 
 ### Egészségügyi szakember-képzés
 
@@ -319,8 +321,8 @@ amennyiben az a)–c) pont szerinti adatok az (1) bekezdés szerinti szakértői
 - a) büntetőügyben a nyomozó hatóság, az ügyészség, a bíróság, az igazságügyi orvosszakértő, polgári és közigazgatási hatósági ügyben az ügyészség, a bíróság, az igazságügyi orvosszakértő,
 - b) szabálysértési eljárás során az eljárást lefolytató szervek,
 - c) hadköteles személy esetén az illetékes jegyző, a hadkiegészítő parancsnokság, illetve a katonai egészségügyi alkalmasságot megállapító bizottság,
-- d) a nemzetbiztonsági szolgálatok, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében.
-- e)
+- d) a nemzetbiztonsági szolgálatok, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében,
+- e) a Magyar Honvédség központi adatfeldolgozó szerve, a kiképzett tartalékosok békeidőszakban történő hadi beosztásra történő kiírása és a kiképzett tartalékosok gyors és differenciált behívása érdekében, a honvédelemről és a Magyar Honvédségről szóló törvényben meghatározott körben.
 
 (2) A megkeresésben az adatkezelés pontos célját és a kért adatok körét meg kell jelölni.
 
@@ -621,6 +623,8 @@ A) Személyazonosító adatokkal együtt jelentendő:
 
 72. Chikungunya-láz
 
+73. tuberkulózis
+
 B) Személyazonosító adatok nélkül jelentendő:
 
 1. AIDS megbetegedés
@@ -643,7 +647,7 @@ B) Személyazonosító adatok nélkül jelentendő:
 
 10. szexuális úton terjedő, chlamydiák által okozott egyéb betegségek
 
-11. tuberkulozis
+11.
 
 12. ulcus molle, chancroid
 

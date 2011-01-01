@@ -40,7 +40,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 5. § (1) A pályaalkalmassági vizsgálat magában foglalja az egészségi, fizikai, pszichikai alkalmassági vizsgálatot. Ennek során vizsgálni kell a bírói munka végzését kizáró vagy számottevően befolyásoló egészségi okokat, valamint a bíró személyiségének intelligencia és karakter jellemzőit.
 
-(2) A vizsgálat szempontjait, módját és eljárását az igazságügyért felelős miniszter az egészségügyért felelős miniszterrel együtt – az OIT egyetértésével – rendeletben szabályozza.
+(2) A vizsgálat szempontjait, módját és eljárását az igazságügyért felelős miniszter az egészségügyért felelős miniszter egyetértésével – az OIT véleményének kikérésével – kiadott rendeletben szabályozza.
 
 (3) A pályaalkalmassági vizsgálatot a 7. § szerinti bíróság elnöke kezdeményezi.
 
@@ -967,7 +967,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 116. § Kiküldetés és kirendelés esetén a bíró a vasúti első osztály igénybevételére jogosult.
 
-117. § (1) A bíró cafetéria-juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 70. § (2) bekezdés a) és b), valamint d) és e) pontjaiban, továbbá (5) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig, valamint az ingyenes vagy kedvezményes internethasználatra jogosult. Az Országos Igazságszolgáltatási Tanács további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
+117. § (1) A bíró cafetéria-juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjaiban, továbbá (3) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig jogosult. Az Országos Igazságszolgáltatási Tanács további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
 
 (2) Nem jogosult cafetéria-juttatásra a bíró azon időtartam vonatkozásában, amelyre illetményre vagy átlagkeresetre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot.
 
@@ -1162,11 +1162,11 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 ### Felhatalmazás
 
-139. § (1) Felhatalmazást kap a Kormány, hogy a tartós külszolgálatot ellátó bírónak az e törvény szerinti javadalmazásán kívüli egyéb juttatásait – az OIT egyetértésével – rendeletben állapítsa meg.
+139. § (1) Felhatalmazást kap a Kormány, hogy a tartós külszolgálatot ellátó bírónak az e törvény szerinti javadalmazásán kívüli egyéb juttatásait – az OIT véleményének kikérésével – rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
-- a) a pályaalkalmassági vizsgálat szempontjait, módját és eljárását az egészségügyért felelős miniszterrel együtt – az OIT egyetértésével –,
+- a) a pályaalkalmassági vizsgálat szempontjait, módját és eljárását az egészségügyért felelős miniszterrel egyetértésben – az OIT véleményének kikérésével –,
 - b) a bírák igazolványára vonatkozó szabályokat
 
 rendelettel állapítsa meg.

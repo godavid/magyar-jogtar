@@ -167,8 +167,8 @@ a (2) bekezdés szerinti bírságalapot csökkenteni kell az a) pont szerinti es
 
 (2) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy
 
-- a) az adópolitikáért felelős miniszterrel együttesen az üzemanyag-forgalmazó által forgalomba hozott üzemanyagból származó energiaegységre számított üvegházhatású gázkibocsátással kapcsolatos nyilvántartásokra, bizonylatolásra és jelentésre vonatkozó részletes szabályokat,
-- b) az agrárpolitikáért felelős miniszterrel a bioüzemanyag üvegházhatású gázkibocsátás-elkerülésének és teljes életciklusra számított üvegházhatású gázkibocsátásának, valamint a biomassza, a köztes termékek és a bioüzemanyagok előállítása során történt üvegházhatású gázkibocsátás számításának részletes szabályait,
+- a) az adópolitikáért felelős miniszter egyetértésével az üzemanyag-forgalmazó által forgalomba hozott üzemanyagból származó energiaegységre számított üvegházhatású gázkibocsátással kapcsolatos nyilvántartásokra, bizonylatolásra és jelentésre vonatkozó részletes szabályokat,
+- b) az agrárpolitikáért felelős miniszter egyetértésével a bioüzemanyag üvegházhatású gázkibocsátás-elkerülésének és teljes életciklusra számított üvegházhatású gázkibocsátásának, valamint a biomassza, a köztes termékek és a bioüzemanyagok előállítása során történt üvegházhatású gázkibocsátás számításának részletes szabályait,
 - c) az üzemanyag-forgalmazó által forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó, teljes életciklusra és energiaegységre számított üvegházhatású gázkibocsátásról szóló nyilvántartás szabályait rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az energiapolitikáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a bioüzemanyag-előállítás fenntartható minősítésének igazolásáért, nyilvántartásba vételéért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.

@@ -32,7 +32,7 @@ a következő törvényt alkotja:
 
 4. § (1) A nemzetközi szerződés előkészítéséről a szerződés tárgya szerint hatáskörrel rendelkező miniszter (a továbbiakban: miniszter) az Országgyűlés és a Kormány által meghatározott külpolitikai elvek figyelembevételével, a külpolitikáért felelős miniszterrel egyetértésben dönt. A miniszter az előkészítésbe érdekképviseleteket, szakmai és társadalmi szervezeteket, valamint más intézményeket is bevonhat.
 
-(2) A 2. § a) pontja értelmében nemzetközi szerződésnek nem minősülő, miniszterek vagy központi államigazgatási szervek által kötött megállapodások tervezetét azok kezdeményezése előtt, végleges szövegét pedig annak aláírását követően a külpolitikáért felelős miniszternek meg kell küldeni.
+(2) A 2. § a) pontja értelmében nemzetközi szerződésnek nem minősülő, miniszterek, központi államigazgatási szervek vagy a Pénzügyi Szervezetek Állami Felügyelete által kötött megállapodások tervezetét azok kezdeményezése előtt, végleges szövegét pedig annak aláírását követően a külpolitikáért felelős miniszternek meg kell küldeni.
 
 (3) A szerződés előkészítésétől kezdődően folyamatosan vizsgálni kell, hogy a szerződés a belső jogszabályokkal, valamint egyéb nemzetközi jogi kötelezettségekkel összhangban áll-e. Az összhang megteremtését a szerződés tartalmának megfelelő alakításával, továbbá a belső jogszabályok és a nemzetközi jogi kötelezettségek lehetőség szerinti módosításával vagy megszüntetésével biztosítani kell.
 

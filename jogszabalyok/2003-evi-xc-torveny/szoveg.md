@@ -32,7 +32,7 @@ Az Országgyűlés, annak érdekében, hogy biztosítsa az ország versenyképes
 
 (2) A járulék mértéke (a továbbiakban: a járulék éves bruttó összege) az (1) bekezdés szerinti vetítési alap 14. §-ban meghatározott százaléka.
 
-(3) A járulék éves bruttó összegéből – e törvényben meghatározott körben és mértékig – levonható a gazdasági társaság saját tevékenységi körében végzett kutatás-fejlesztési tevékenység közvetlen költsége, valamint a költségvetési gazdálkodási rendszerben működő és a közhasznú szervezetekről szóló 1997. évi CLVI. törvény 2. § (1) bekezdésében meghatározott szervezetektől megrendelt kutatási-fejlesztési tevékenység költsége. A levonható költségeket mind a saját szervezetben végzett, mind a vásárolt kutatás-fejlesztés esetében csökkenteni kell a levonásnál figyelembe vett költségek fedezetéül szolgáló, az államháztartás valamely alrendszeréből nyújtott támogatással.
+(3) A járulék éves bruttó összegéből – e törvényben meghatározott körben és mértékig – levonható a gazdasági társaság saját tevékenysége körében végzett kutatásfejlesztési tevékenység közvetlen költsége, valamint a költségvetési gazdálkodási rendszerben működő és a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény 4. § 4. pont c) alpontjában meghatározott nonprofit kutatóhelytől a saját tevékenységhez megrendelt kutatás-fejlesztési tevékenység költsége. A levonható költségeket mind a saját szervezetben végzett, mind a vásárolt kutatás-fejlesztés esetében csökkenteni kell a levonásnál figyelembe vett költségek fedezetéül szolgáló, az államháztartás valamely alrendszeréből nyújtott támogatással.
 
 5. § (1) A járulékfizetésre kötelezett gazdasági társaság
 
@@ -63,7 +63,7 @@ maga állapítja meg és vallja be az állami adóhatósághoz az adóévet köv
 
 (10) A járulékfizetésre kötelezett gazdasági társaság a járulékot az üzleti évre állapítja meg. A naptári évtől eltérő üzleti évet választó járulékfizetésre kötelezett az üzleti év első napján hatályos jogszabályok szerint állapítja meg, vallja be, teljesíti járulékfizetési kötelezettségét és fizet előleget.
 
-6. § A járulékot az állami adóhatósághoz kell befizetni, amely a befizetett járulékot külön jogszabályban szabályozott módon utalja át az Alapnak a kincstárnál vezetett számlájára.
+6. § A járulékot az állami adóhatósághoz kell befizetni, amely a befizetett járulékot jogszabályban szabályozott módon utalja át az Alapnak a kincstárnál vezetett számlájára.
 
 7. § A 2. § b) pontjában meghatározott központi költségvetési támogatás éves mértéke nem lehet kevesebb, mint a járulék megfizetésére kötelezetteknek a tárgyévet két évvel megelőző évre elszámolt befizetéseinek összege.
 
@@ -80,31 +80,37 @@ maga állapítja meg és vallja be az állami adóhatósághoz az adóévet köv
 - g) a hazai és külföldi tudományos és technológiai ismeretek megszerzésére, azok gyakorlati alkalmazására;
 - h) a társadalomtudományi kutatások támogatására.
 
-(2) Az Alap pénzeszközei felhasználhatók továbbá külön jogszabályban, nemzetközi szerződésben meghatározottak szerint különösen:
+(2) Az Alap pénzeszközei felhasználhatók továbbá jogszabályban, nemzetközi szerződésben meghatározottak szerint különösen:
 
 - a) a Nemzeti Fejlesztési Terv végrehajtása keretében a kutatással, fejlesztéssel és innovációval foglalkozó intézkedések hazai társfinanszírozására;
-- b) a tudás- és technológia-intenzív kis- és középvállalkozásokba befektető kockázati tőkealapokban történő részvétel révén;
-- c) a nemzetközi tudományos és technológiai együttműködésből adódó feladatokra;
+- b) a tudás- és technológia-intenzív kis- és középvállalkozásokba befektető magvető-, valamint kockázati tőkealapokban történő részvétel révén;
+- c) a nemzetközi – ideértve az Európai Unió keretében megvalósuló – tudományos és technológiai együttműködésből adódó feladatokra;
 - d) a tudományos kutatás és a technológiai innováció szakpolitikai megalapozását szolgáló műszaki, közgazdasági, társadalomtudományi elemzések, tanulmányok, koncepciók készítésére;
 - e) az innovációs tevékenységgel közvetlenül összefüggő konferenciák szervezésére, szakkiállítások rendezésére, kiadványok, szakkönyvek készítésére, információs- és könyvtárak fejlesztésére, innováció-ösztönzési célú díjakhoz történő hozzájárulásra;
 - f)
 - g)
 
-(3) Az Alapból támogatás nyílt pályázati rendszerben nyerhető el. Pályázaton kívüli támogatás nyújtására, beleértve a (2) bekezdésben más jogszabályból, illetve nemzetközi szerződésből fakadó kötelezettségeket és támogatásokat – a fejlesztési célú beruházások kivételével – az Alap céljaival és felhasználásának jogcímeivel összhangban, a Kutatási és Technológiai Innovációs Tanács jóváhagyásával, az Alap tárgyévi kiadási előirányzatának 3%-át meg nem haladó mértékben kerülhet sor.
+(3) Az Alapból támogatás nyílt pályázati rendszerben nyerhető el. Pályázaton kívüli támogatás nyújtására, beleértve a (2) bekezdésben más jogszabályból, illetve nemzetközi szerződésből fakadó kötelezettségeket és támogatásokat – a fejlesztési célú beruházások kivételével – az Alap céljaival és felhasználásának jogcímeivel összhangban az Alap tárgyévi kiadási előirányzatának 3%-át meg nem haladó mértékben kerülhet sor.
 
-(4) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül az Alapból biztosítani kell a TéT attaséi hálózat, a Tudomány-, Technológiapolitikai és Versenyképességi Tanácsadó Testület, a Tudomány- és Technológiapolitikai Kollégium, valamint a Tudomány és Technológiapolitikai Titkárság működésének költségeit, feladataik ellátásához szükséges forrásokat.
+(4) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül az Alapból biztosítani kell a TéT attaséi hálózat működésének költségeit, feladatai ellátásához szükséges forrásokat.
+
+(4a) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül
+
+- a) a tudomány-, a kutatás-fejlesztési és az innováció-politika megalapozását szolgáló elemző tudás- és adatbázisok létrehozásához és kezeléséhez,
+- b) az országos kutatás-fejlesztési és innovációs támogatási programok – ideértve az Alap – programstratégiájának és tervezésének megalapozását szolgáló elemzések, tanulmányok, módszertanok, értékelések, koncepciók és stratégiák elkészítéséhez, valamint a támogatási programok stratégiai monitoringjához és értékeléséhez és
+- c) innovációs szolgáltatás közvetlen biztosításához források biztosíthatók.
 
 (5) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül az Alapból biztosítható az Új Magyarország Fejlesztési Terv végrehajtása keretében a kutatással, fejlesztéssel és innovációval foglalkozó intézkedések – ideértve K+F nagy infrastruktúrák fejlesztését célzó beruházásokat – társfinanszírozása, hazai – Kormány által jóváhagyott – K+F infrastrukturális fejlesztések visszatérítendő támogatása, európai uniós együttműködés keretében megvalósuló – Kormány által jóváhagyott – K+F infrastrukturális beruházások vissza nem térítendő támogatása, az Európai Együttműködő Államok Terve (PECS) programban való részvételhez kapcsolódó befizetési kötelezettség.
 
 (6) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül a nemzetközi European X-Ray Free-Electron Laser Facility (XFEL) GmbH-ban (a továbbiakban: GmbH) való tagi hozzájárulás és éves tagdíj a kutatás-fejlesztésért és technológiai innovációért felelős szerv részére az Alapból biztosítható. A GmbH-ban a kutatás-fejlesztésért és technológiai innovációért felelős szerv 1%-os részesedést szerezhet.
 
-(7) Az Alap kezelése során felmerülő – így különösen elemzések, koncepciók, támogatási stratégiák, programok, projektek készítésével, pályázatok megismertetésével és elbírálásával, a szerződések előkészítésével, megkötésével és bonyolításával, nyilvántartásuk egyes tárgyi és személyi feltételeivel, valamint az ellenőrzéssel és értékeléssel, továbbá a kutatásfejlesztésért és technológiai innovációért felelős szervnél működtetésével kapcsolatos – költségeket az Alap finanszírozza. Az Alap kezelésével kapcsolatos költségek nem haladhatják meg az Alap tárgyévi eredeti kiadási előirányzatának 4,5%-át.
+(7) Az Alap kezelése során felmerülő – így különösen elemzések, koncepciók, támogatási stratégiák, programok, projektek készítésével, pályázatok megismertetésével és elbírálásával, a szerződések előkészítésével, megkötésével és bonyolításával, nyilvántartásuk egyes tárgyi és személyi feltételeivel, valamint az ellenőrzéssel és értékeléssel, kapcsolatos – költségeket az Alap finanszírozza. Az Alap kezelésével kapcsolatos költségek nem haladhatják meg az Alap tárgyévi eredeti kiadási előirányzatának 4,5%-át.
 
-(8) Az Alap tárgyévi kiadási előirányzatának 25%-át regionális innovációs célokra kell felhasználni. Ezen pénzeszközöknek az Alap jogcímeivel és a régiók innovációs stratégiájával összhangban lévő felhasználási céljaira a regionális fejlesztési tanácsok tesznek javaslatot, és a kutatás-fejlesztésért és technológiai innovációért felelős szerv útján terjesztik a Kutatási és Technológiai Innovációs Tanács elé. A regionális innovációs célokra fordítandó összegből a költségvetési törvényben régiónként meghatározott keretek felhasználásáról – a Kutatási és Technológiai Innovációs Tanácsnak a 11. § (3) bekezdés szerinti egyetértésével kialakított decentralizált pályázati rendszerben – a regionális fejlesztési tanácsok döntenek.
+(8)
 
 (9) Az (1) bekezdés f) pontja szerinti kutatói tehetséggondozás, kutatói, oktatói továbbképzés, továbbá a (4) bekezdésben meghatározott jogcímek, feladatok éves támogatására együttesen a 2. § b) pontja szerinti tárgyévi központi költségvetési támogatás 8%-át meg nem haladó mértékben kerülhet sor.
 
-(10) Az Alap kiadási előirányzatairól a tárgyévi költségvetési törvény rendelkezik. Az Alap költségvetési címei között az alap felett rendelkező miniszter – amennyiben a felhasználás, illetve a kötelezettségállomány alakulása indokolja – előirányzat-átcsoportosítást hajthat végre.
+(10) Az Alap kiadási előirányzatairól a tárgyévi költségvetési törvény rendelkezik. Az Alap költségvetési címei között a fejlesztéspolitikáért felelős miniszter (a továbbiakban: miniszter) – amennyiben a felhasználás, illetve a kötelezettségállomány alakulása indokolja – előirányzat-átcsoportosítást hajthat végre.
 
 (11) Az Alapból nyújtott támogatások igénybevételének feltételeiről a kedvezményezettel szerződésben kell megállapodni.
 
@@ -112,36 +118,13 @@ maga állapítja meg és vallja be az állami adóhatósághoz az adóévet köv
 
 ### Az Alap kezelése és ellenőrzése
 
-10. § (1) Az Alap feletti rendelkezési jogot a kutatás-fejlesztésért és technológiai innovációért felelős miniszter (a továbbiakban: miniszter) gyakorolja, és felelős annak felhasználásáért.
+10. § (1) Az Alap feletti rendelkezési jogot a miniszter gyakorolja, és felelős annak felhasználásáért.
 
-(2) A miniszter rendelkezési jogát a (3) bekezdésben meghatározott feladatkörben a kutatás-fejlesztésért és innovációért felelős szerv vezetőjére ruházza.
+(2) A Kormány az Alap programstratégiáját a kutatás-fejlesztésért és technológiai innovációért felelős miniszter, az Alap éves felhasználási tervét pedig a miniszter előterjesztésére nyilvános határozatban hagyja jóvá.
 
-(3) Az Alap működtetésével kapcsolatos feladatok körében a kutatás-fejlesztésért és technológiai innovációért felelős szerv:
+(3)
 
-- a) javaslatot tesz a miniszternek az Alappal kapcsolatos, valamint egyéb, a kutatás-fejlesztés és a technológiai innováció állami támogatására vonatkozó jogszabályok tartalmára;
-- b) elkészíti és jóváhagyásra az e törvény 11. §-ával létrehozott Tanács elé terjeszti az Alap felhasználási tervét, valamint a pályázati stratégiát;
-- c) meghatározza az Alapból nyújtott támogatások felhasználása ellenőrzésének, az Alap követelései behajtásának, a pénzügyi garanciák érvényesítésének módját;
-- d) dönt az Alap pénzeszközeinek felhasználásáról;
-- e) ellátja az Alap felhasználásával kapcsolatos államháztartási információs feladatokat;
-- f) elkészíti az Alap felhasználásáról szóló éves beszámolót;
-- g) külön jogszabályban meghatározottak szerint gondoskodik az Alap pénzeszközeinek felhasználására vonatkozó döntések nyilvánosságra hozataláról;
-- h) ellátja az Alap pénzeszközei felhasználásának szakmai értékelésével kapcsolatos feladatokat.
-
-11. § (1) Az Alapra vonatkozó stratégiai kérdésekkel foglalkozó testület a Kutatási és Technológiai Innovációs Tanács (a továbbiakban: Tanács).
-
-(2) A Tanács legfeljebb tizenöt tagú testület. A Tanács tagjait a miniszter javaslata alapján a miniszterelnök bízza meg legfeljebb öt évre. A Tanács tagjainak többségét a gazdaság és a tudomány nem kormányzati képviselői alkotják.
-
-(3) A Tanács – a Nemzeti Fejlesztési Terv végrehajtása keretében az EU által társfinanszírozott intézkedések kivételével – egyetértési jogot gyakorol az Alapra vonatkozó felhasználási terv, valamint a pályázati stratégiák kialakításában, beleértve a pénzügyi támogatások finanszírozási és döntéshozatali módjának és eszközeinek szakmapolitikai célokat érvényesítő meghatározását.
-
-(4) A Tanács előzetes véleményezési joggal rendelkezik a Nemzeti Fejlesztési Terv végrehajtása keretében az Alapból támogatott és az Európai Unió által társfinanszírozott intézkedések, különösen a felhasználás terv és a pályázati stratégiák tekintetében.
-
-(5) A Tanács előzetes véleményezési joggal rendelkezik az egyes támogatási programok szakmai irányító testületei összetételének meghatározásában.
-
-(6) A Tanács figyelemmel kíséri az Alapból nyújtott támogatások társadalmi és gazdasági hasznosulását, a felhasználás stratégiai céljainak megvalósulását.
-
-(7) A Tanács véleményezi az Alap pénzeszközeinek felhasználásáról a Kormány részére évente készített beszámolót.
-
-(8) A (3)–(6) bekezdés szerinti előterjesztéseket a kutatás-fejlesztésért és technológiai innovációért felelős szerv terjeszti a Tanács elé.
+11. §
 
 12. § E törvény alkalmazásában
 
@@ -170,15 +153,9 @@ maga állapítja meg és vallja be az állami adóhatósághoz az adóévet köv
 
 15. §
 
-16. § (1)
-
-(2) E törvény hatálybalépésével egyidejűleg a fejezeti kezelésű Műszaki Fejlesztési Célelőirányzatot, illetve a fejezeti kezelésű Nemzeti Kutatási és Fejlesztési Programok előirányzatot megillető követeléseket és az azokat terhelő kötelezettségeket az Alap veszi át.
-
-(3) Ahol jogszabály fejezeti kezelésű Műszaki Fejlesztési Célelőirányzatot, illetve fejezeti kezelésű Nemzeti Kutatási és Fejlesztési Programok előirányzatot említ, ott e törvény hatálybalépését követően az Alapot kell érteni.
-
-(4) Ahol jogszabály Országos Műszaki Fejlesztési Bizottságot említ, ott e törvény hatálybalépését követően Kutatási és Technológiai Innovációs Tanácsot kell érteni.
+16. §
 
 17. § A Kormány felhatalmazást kap arra, hogy rendeletben határozza meg
 
 - a) az Alap működtetésére és felhasználására, valamint a járulékfizetési kötelezettségre irányuló részletes szabályokat és eljárásokat;
-- b) a Tanács létrehozására és működtetésére vonatkozó részletes szabályokat.
+- b)

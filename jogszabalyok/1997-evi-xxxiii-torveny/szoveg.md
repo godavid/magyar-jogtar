@@ -28,11 +28,11 @@ Annak érdekében, hogy az állampolgárok tulajdonában igazságtalanul okozott
 
 (4) A Kpt.I. 7. § (4) bekezdése szerinti életjáradékra váltás 1997. december 31-ig kérhető. Ha eddig az időpontig a kárpótlási eljárás jogerősen nem fejeződött be, vagy ennek megtörténtétől számítva egy hónapnál kevesebb idő van hátra, a jogosult a jogerős határozat kézhezvételétől számított egy hónapon belül akkor is kérheti az életjáradékra váltást, ha az e bekezdésben meghatározott határidő eltelt.
 
-5. § (1) Az OKKI gondoskodik a nála, valamint a megyei (fővárosi) hivatalainál keletkezett információk védelméről, megőrzéséről és további feldolgozásra alkalmassá tételéről.
+5. § (1) A kárpótlási hatóság gondoskodik a nála kezelt információk védelméről, megőrzéséről és további feldolgozásra alkalmassá tételéről.
 
-(2) A keletkezett iratanyaggal kapcsolatos további teendőket – az 1995. évi LXVI. törvényben meghatározottakkal összhangban – az OKKI, valamint megyei (fővárosi) hivatalainak megszűnését követően a Kormány által kijelölt szervezet a felelős.
+(2) A keletkezett iratanyaggal kapcsolatos további teendőket – az 1995. évi LXVI. törvényben meghatározottakkal összhangban –a Kormány által kijelölt szervezet látja el.
 
-6. § A OKKI és a megyei (fővárosi) kárrendezési hiovatalok a kárpótlási és más törvényekben foglalt feladatok teljesítésével a Kormány által rendeletben meghatározott módon megszűnnek.
+6. §
 
 ### Záró rendelkezések
 

@@ -35,12 +35,15 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 - e) lakóotthon: a fogyatékos személy önálló életvitelét elősegítő, kisközösséget befogadó lakhatási forma;
 - f) közszolgáltatás:
   - fa) minden közhatalmi tevékenység – ideértve a hatósági, kormányzati és minden egyéb közigazgatási, valamint igazságszolgáltatási tevékenységet –, továbbá az Országgyűlés, az Országgyűlésnek beszámolással tartozó szervek, az Alkotmánybíróság, az országgyűlési biztosok, az ügyészség, valamint a honvédelmi és rendvédelmi szervek által hatáskörük gyakorlása során kifejtett tevékenység,
-  - fb) az állam által fenntartott intézmény által nyújtott közszolgálati műsorszolgáltatás, továbbá oktatási, közművelődési, közgyűjteményi, kulturális, tudományos, szociális, gyermekjóléti, gyermekvédelmi, egészségügyi, sport-, ifjúsági, foglalkoztatási szolgáltatás, ellátás, illetve tevékenység,
+  - fb) az állam által fenntartott intézmény által nyújtott közszolgálati médiaszolgáltatás, továbbá oktatási, közművelődési, közgyűjteményi, kulturális, tudományos, szociális, gyermekjóléti, gyermekvédelmi, egészségügyi, sport-, ifjúsági, foglalkoztatási szolgáltatás, ellátás, illetve tevékenység,
   - fc) a helyi és kisebbségi önkormányzat hatásköre gyakorlása során kifejtett minden tevékenység – ideértve különösen a hatósági és egyéb közigazgatási tevékenységet –, valamint a helyi és kisebbségi önkormányzat, a nem állami és egyházi fenntartó, illetőleg az általa fenntartott közfinanszírozásban részesülő intézmény által nyújtott fb) szerinti szolgáltatás, ellátás, tevékenység,
   - fd) minden ügyfélszolgálati rendszerben működtetett szolgáltató tevékenység, továbbá
   - fe) minden olyan hatósági engedély vagy hatósági kötelezettség alapján végzett nyilvános szolgáltató tevékenység, amely település vagy településrész közellátását szolgálja, használata nem korlátozott, illetve nem korlátozható;
 - g) akadálymentesség: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. §-ának 1. pontjában meghatározott feltételeknek megfelelő épített környezet;
-- h) egyenlő esélyű hozzáférés: a közszolgáltatás egyenlő eséllyel hozzáférhető akkor, ha igénybevétele – az igénybe vevő állapotának megfelelő önállósággal – mindenki, különösen a mozgási, látási, hallási, mentális és kommunikációs funkciókban sérült emberek számára akadálymentes, kiszámítható, értelmezhető és érzékelhető; továbbá az az épület, amelyben a közszolgáltatást nyújtják, mindenki számára megközelíthető, a nyilvánosság számára nyitva álló része bejárható, vészhelyzetben biztonsággal elhagyható, valamint az épületben a tárgyak, berendezések mindenki számára rendeltetésszerűen használhatók és a szolgáltatások egyformán igénybe vehetők.
+- h) egyenlő esélyű hozzáférés:
+  - ha) a szolgáltatás egyenlő eséllyel hozzáférhető akkor, ha igénybevétele – az igénybe vevő állapotának megfelelő önállósággal – mindenki, különösen a mozgási, látási, hallási, mentális és kommunikációs funkciókban sérült emberek számára akadálymentes, kiszámítható, értelmezhető és érzékelhető,
+  - hb) az épület egyenlő eséllyel hozzáférhető, ha mindenki, különösen a mozgási, látási, hallási, mentális és kommunikációs funkciókban sérült emberek számára megközelíthető, a nyilvánosság számára nyitva álló része bejárható, vészhelyzetben biztonsággal elhagyható, valamint az épületben a tárgyak, berendezések mindenki számára rendeltetésszerűen használhatók,
+  - hc) az információ egyenlő eséllyel hozzáférhető akkor, ha az mindenki, különösen a mozgási, látási, hallási, mentális és kommunikációs funkciókban sérült emberek számára kiszámítható, értelmezhető és érzékelhető, az ahhoz való hozzájutás pedig az igénybe vevő számára akadálymentes.
 
 ### II. Fejezet — A FOGYATÉKOS SZEMÉLYT MEGILLETŐ JOGOK
 
@@ -52,9 +55,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 ### Kommunikáció
 
-6. § (1) A fogyatékos személynek, családtagjainak, segítőinek biztosítani kell a hozzáférés lehetőségét a közérdekű információkhoz, továbbá azokhoz az információkhoz, amelyek a fogyatékosokat megillető jogokkal, valamint a részükre nyújtott szolgáltatásokkal kapcsolatosak.
-
-(2) Hozzáférhető az információ akkor, ha azt a fogyatékos személy érzékelheti és az biztosítja számára a megfelelő értelmezés lehetőségét.
+6. § A fogyatékos személy számára biztosítani kell az egyenlő esélyű hozzáférés lehetőségét a közérdekű információkhoz, továbbá azokhoz az információkhoz, amelyek a fogyatékos személyeket megillető jogokkal, valamint a részükre nyújtott szolgáltatásokkal kapcsolatosak.
 
 7. § (1) A kommunikációban jelentősen gátolt személy számára a közszolgáltatások igénybevételekor lehetővé kell tenni a tájékozódás és a személyi segítés feltételeit.
 
@@ -100,11 +101,15 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (3) A fogyatékos személy egészségügyi ellátása során törekedni kell arra, hogy az ellátás segítse elő a rehabilitációját, társadalmi beilleszkedését, továbbá, hogy ne erősítse a betegségtudatát.
 
+(4) Az orvos – vagy az általa megbízott egyéb egészségügyi dolgozó – a kiskorú személy fogyatékosságának megállapításakor a szülőt (gyámot) haladéktalanul tájékoztatja az igénybe vehető ellátásokról és fejlesztési lehetőségekről. Az ezzel kapcsolatos tájékoztató kiadásáról a társadalmi esélyegyenlőség előmozdításáért felelős miniszter gondoskodik.
+
 ### Oktatás, képzés
 
 13. § (1) A fogyatékos személynek joga, hogy állapotának megfelelően és életkorától függően korai fejlesztésben és gondozásban, óvodai nevelésben, iskolai nevelésben és oktatásban, fejlesztő felkészítésben, szakképzésben, felnőttképzésben, továbbá felsőoktatásban vegyen részt a vonatkozó jogszabályokban meghatározottak szerint.
 
 (2) Abban az esetben, ha az – az e célra létrehozott szakértői és rehabilitációs bizottság szakértői véleményében foglaltak szerint – a fogyatékos személy képességeinek kibontakoztatása céljából előnyös, a fogyatékos személy az óvodai nevelésben és oktatásban a többi gyermekkel, tanulóval együtt – azonos óvodai csoportban, illetve iskolai osztályban – vesz részt.
+
+(3) A kiskorú fogyatékos személyt megilleti az a jog, hogy fejlesztése késedelem nélkül megkezdődjön, amint fogyatékosságát megállapították.
 
 14. § A fogyatékos személy óvodai nevelését, iskolai nevelését és oktatását ellátó óvodát és iskolát a szülő választja ki a szakértői és rehabilitációs bizottság véleménye alapján.
 
@@ -132,7 +137,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (3) 2013. december 31-éig legalább 1500 fő fogyatékos és pszichiátriai beteg személynek ellátást nyújtó intézményi férőhely kiváltásához az európai uniós társfinanszírozással megvalósuló fejlesztési programok nyújtanak támogatást.
 
-(4) A (3) bekezdés szerint kiváltásra nem kerülő intézményi férőhelyek kiváltására az Országgyűlés 2010. december 31-éig ütemtervet fogad el a kötelezettek és a végrehajtás határidejének rögzítésével.
+(4) A (3) bekezdés szerint kiváltásra nem kerülő intézményi férőhelyek kiváltására a Kormány által meghatározott rendben kerül sor.
 
 (5) A kiváltást a 2007. évi XCII. törvénnyel kihirdetett, a Fogyatékossággal élő személyek jogairól szóló egyezmény 19. cikkében meghatározottak figyelembevételével kell végrehajtani.
 
@@ -142,7 +147,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (2) A fogyatékos személy számára – sportolási lehetőségeinek megteremtéséhez – a sportolási célú, szabadidős intézmények használatát hozzáférhetővé kell tenni.
 
-(3) A fogyatékos szabadidő- és tömegsportját a Wesselényi Miklós Nemzeti Ifjúsági és Szabadidősport Közalapítvány, verseny- és élsportját a Gerevich Aladár Nemzeti Sport Közalapítvány támogatja.
+(3) A fogyatékos személyek szabadidő- és tömegsportját a Wesselényi Miklós Sportközalapítvány támogatja, a fogyatékos személyek verseny- és élsportjának támogatása a központi költségvetésből történik.
 
 ### IV. Fejezet — A REHABILITÁCIÓ
 
@@ -150,11 +155,11 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 19. § A fogyatékos személynek joga van a rehabilitációra. E jog érvényesítését rehabilitációs szolgáltatások, ellátások biztosítják.
 
-20. § A Kormány a 21. §-ban megjelölt állami feladat ellátására közalapítványt hoz létre. A közalapítványnak törvény vagy kormányrendelet további feladatokat állapíthat meg.
+20. § A 21. §-ban megjelölt állami feladatot a fogyatékos személyek esélyegyenlőségének biztosítására létrehozott, a társadalmi esélyegyenlőség előmozdításáért felelős miniszter szakmai felügyelete alatt álló szervezet látja el. A szervezet számára törvény vagy kormányrendelet további feladatokat állapíthat meg.
 
 ### A rehabilitációs szolgáltatás, ellátás
 
-21. § A közalapítvány a fogyatékos személyek rehabilitációjának megvalósulása érdekében az alábbi szolgáltatásokat nyújtja:
+21. § A 20. § szerinti szervezet a fogyatékos személyek rehabilitációjának megvalósulása érdekében az alábbi szolgáltatásokat nyújtja:
 
 - a) a fogyatékos személy meglévő, illetve fejleszthető képességeinek megfelelő programtervezetek kidolgozásához olyan szempontrendszer kiadása, amely magában foglalja a rehabilitációs folyamat során elért képességfejlődés rendszeres felmérését, és lehetővé teszi a rehabilitációs program szükség szerinti módosítását, továbbfejlesztését;
 - b) a rehabilitációs programban megjelölt szolgáltatásokhoz, ellátásokhoz való hozzáférés megszervezése;
@@ -189,12 +194,11 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 - a) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személy, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát a Magyar Köztársaság területén gyakorolja, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, és az e törvényben meghatározott feltételeknek megfelel, valamint
 - b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek jogosulti körébe tartozó, a szabad mozgás és tartózkodás jogával rendelkező személy, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát a Magyar Köztársaság területén gyakorolja, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, és az e törvényben meghatározott feltételeknek megfelel.
 
-(3) Fogyatékossági támogatásra nem jogosult az a súlyosan fogyatékos személy, aki
+(3) A súlyosan fogyatékos személy nem jogosult fogyatékossági támogatásra ha
 
-- a) vakok személyi járadékában,
-- b) magasabb összegű családi pótlékban
-
-részesül.
+- a) vakok személyi járadékában részesül,
+- b) magasabb összegű családi pótlékban részesül, vagy
+- c) utána magasabb összegű családi pótlékot folyósítanak.
 
 (4) Megszűnik a fogyatékossági támogatásra való jogosultság, ha
 
@@ -260,7 +264,7 @@ részesül.
 - a) arra nem jogosult, vagy
 - b) kevesebb összegre jogosult, mint amelyet számára folyósítottak.
 
-(5) Az, aki a fogyatékossági támogatást jogalap nélkül vette fel, köteles azt visszafizetni, ha erre a felvételtől számított 22 munkanapon belül határozatban kötelezték.
+(5) Az, aki a fogyatékossági támogatást jogalap nélkül vette fel, köteles azt visszafizetni, ha erre a felvételtől számított 30 napon belül határozatban kötelezték.
 
 (6) Az (5) bekezdésben meghatározott idő elteltével a jogalap nélkül felvett fogyatékossági támogatást attól lehet visszakövetelni, akinek az ellátás felvétele felróható, feltéve, hogy az ellátás megszűnésétől számított kevesebb mint három év telt el.
 
@@ -316,7 +320,7 @@ tevékenységet végez.
 - f) a védett munkahelyek szervezetei által delegált két fő,
 - g) az önkormányzatok országos érdekképviseleteit tömörítő szövetség által delegált egy fő.
 
-(2) A Tanács (1) bekezdés c)–g) pont szerinti tagja a fogyatékos személyek érdekeinek képviseletét ellátó feladatkörében nem folytathat a lobbitevékenységről szóló 2006. évi XLIX. törvény hatálya alá tartozó lobbitevékenységet.
+(2)
 
 (3) A Tanács elnöke a Kormány által kijelölt miniszter. A Tanács társelnöke a nem kormányzati oldal által a tagok közül választott személy.
 

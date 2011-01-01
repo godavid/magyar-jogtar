@@ -62,11 +62,11 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - g)
 - h) visszavonja (bevonja) az engedélyt, a parkolási igazolványt, a járművet forgalomból kivonja, és gondoskodik az ezekkel összefüggő adatok nyilvántartásba történő bevezetéséről;
 - i) illetékmentes eljárás keretében ellátja a parkolási igazolvány kiadásával, meghosszabbításával, cseréjével, díj ellenében a parkolási igazolvány pótlásával összefüggő feladatokat, gondoskodik a parkolási igazolvány kiállításáról és az ügyfél részére történő átadásáról;
-- j) a vezetői engedélyt – ha a járművezető nyilvántartott pontjainak száma a nyilvántartó értesítése szerint elérte vagy meghaladta a 18-at – az értesítéstől számított három munkanapon belül határozattal visszavonja, és a határozat jogerőre emelkedésekor nyilvántartott pontokat törli.
+- j) a vezetői engedélyt – ha a járművezető nyilvántartott pontjainak száma a nyilvántartó értesítése szerint elérte vagy meghaladta a 18-at – az értesítéstől számított nyolc napon belül határozattal visszavonja, és a határozat jogerőre emelkedésekor nyilvántartott pontokat törli.
 
 (2)
 
-6. § A közigazgatási hivatal
+6. § A Kormány általános hatáskörű területi államigazgatási szerve
 
 - a)
 - b) felügyeli a nyilvántartás adatainak kezelését.
@@ -255,10 +255,10 @@ igényelhető.
 
 19. § (1) A nyilvántartásból igényelheti(k):
 
-- a) a bíróság, a bírósági végrehajtó, a közjegyző, az ügyészség, a nyomozó hatóság, a nemzetbiztonsági szolgálatok és a Rendvédelmi Szervek Védelmi Szolgálata a törvényben meghatározott feladataik ellátásához szükséges adatokat;
+- a) a bíróság, a bírósági végrehajtó, a közjegyző, az ügyészség, a nyomozó hatóság, a nemzetbiztonsági szolgálatok, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, valamint belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a törvényben meghatározott feladataik ellátásához szükséges adatokat;
 - b) a közúti közlekedési ügyekben eljáró hatóságok a külön jogszabályban megjelölt feladataik ellátásához szükséges adatokat;
 - c) a rendőrség a közbiztonsági ellenőrzéshez és határrendészeti feladatai ellátásához szükséges adatokat;
-- d) a honvédelmi igazgatás szerve a hadkötelesek nyilvántartásához a 8. § a), b), f), i), k) pontjaiban megjelölt adatokat és a járművezető egészségi és pályaalkalmassági adatait;
+- d) a honvédelmi igazgatás szerve a hadkötelesek nyilvántartásához a 8. § a), b), f), i), k) pontjaiban megjelölt adatokat és a járművezető egészségi és pályaalkalmassági adatait, valamint a hadkiegészítő parancsnokság, a Honvédség és a rendvédelmi szervek részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelése céljából a 9. § (1) bekezdésében, valamint 9. § (2) bekezdés a) pontjában meghatározott adatokat;
 - e) a települési önkormányzat jegyzője
   - ea) gépjármű-adóztatási feladatok ellátásához a 9. §-ban és a 9/A. § (1) bekezdésében megjelölt adatokat,
   - eb) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § a), d), f)–i) és k) pontjaiban, a 9. § (1) bekezdésének a), b), e) és f) pontjaiban, a 9. § (2) bekezdésének a), b), d) és e) pontjaiban, a 9. § (4) bekezdésében, valamint a 9/A. § (1) bekezdésének a)–e) pontjaiban megjelölt adatokat;
@@ -418,7 +418,7 @@ igényelhető.
 
 40. § Felhatalmazást kap a Kormány, hogy a mozgásában korlátozott személy parkolási igazolványának kiadásával és nyilvántartásával kapcsolatos részletes eljárási szabályokat meghatározza.
 
-41. § Felhatalmazást kap a Kormány, hogy a közúti közlekedési nyilvántartási szervet és a közlekedési igazgatási hatóságot rendeletben kijelölje.
+41. § Felhatalmazást kap a Kormány, hogy a közúti közlekedési nyilvántartási szervet, a közlekedési igazgatási hatóságot és a nemzeti kapcsolattartó pontot rendeletben kijelölje.
 
 41/A. § Felhatalmazás kap a Kormány, hogy
 
@@ -427,9 +427,8 @@ igényelhető.
 - c) a közlekedési igazgatási eljárásban a közreműködő hatóságok körét, feladatait és a közreműködő hatóságra vonatkozó részletes eljárási szabályokat, valamint
 - d) a közreműködők nyilvántartása személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésének részletes szabályait, a közreműködőre, a vizsgáló állomásra és a vizsgálóra vonatkozó követelményeket, az előzetes eredetiségvizsgálati eljárásban alkalmazható vizsgálati módszert, valamint a vizsgáló képzésének és továbbképzésének szabályait rendeletben állapítsa meg.
 
-42. § Felhatalmazást kap a közlekedésrendészetért felelős miniszter, hogy rendeletben szabályozza
+42. § Felhatalmazást kap a közlekedésért felelős miniszter, hogy rendeletben állapítsa meg
 
-- a) a nyilvántartás, az okmánytár működtetése és az adatszolgáltatás részletes szabályait;
-- b) a közigazgatási informatikáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a nyilvántartásból való adatszolgáltatási díj fizetésére kötelezettek körét, a fizetési kötelezettség mértékét, beszedésének módját, a kedvezmények, mentességek körét;
-- c)
-- d) a közigazgatási informatikáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a közlekedési igazgatási hatósági eljárások díjait, mértékét, megfizetésének módját és feltételeit.
+- a) a közlekedésrendészetért felelős miniszterrel egyetértésben a nyilvántartás, az okmánytár működtetése és az adatszolgáltatás részletes szabályait;
+- b) a közlekedésrendészetért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a nyilvántartásból való adatszolgáltatási díj fizetésére kötelezettek körét, a fizetési kötelezettség mértékét, beszedésének módját, a kedvezmények, mentességek körét;
+- c) a közlekedésrendészetért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a közlekedési igazgatási hatósági eljárások díjait, mértékét, megfizetésének módját és feltételeit.

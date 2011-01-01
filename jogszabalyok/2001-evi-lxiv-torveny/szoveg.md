@@ -513,7 +513,7 @@ kulturális javakat.
 
 62. § A hatóság feladata a kulturális örökség elemei megőrzésének, fenntartható használatának elősegítése és támogatása. Ennek érdekében ellátja:
 
-- a) országos illetékességgel az e törvényben, valamint a külön jogszabályokban meghatározott hatósági feladatokat;
+- a) a jogszabályban meghatározott hatósági feladatokat;
 - b) az örökségvédelmi felügyeleti feladatokat;
 - c) az e törvényben meghatározott tudományos feladatokat illetőleg azok koordinálását; valamint
 - d) egyéb, hatáskörébe utalt feladatokat.
@@ -646,9 +646,9 @@ kulturális javakat.
 - a) ha a hatóság építésügyi hatósági jogkörben, továbbá kulturális javak védetté nyilvánításában jár el, három hónap;
 - b) az előzetes nyilatkozat, előzetes szakhatósági állásfoglalás, valamint ha a hatóság műemlékhez kapcsolódó örökségvédelmi hatósági jogkörében jár el, két hónap;
 - c)
-- d) a 30. § (5) bekezdésében meghatározott esetben a bejelentéstől számított harmincöt munkanap;
+- d) a 30. § (5) bekezdésében meghatározott esetben a bejelentést követő naptól számított negyvenöt nap;
 - e)
-- f) a hiánypótlási felhívás és a hatósági bizonyítvány kiadása esetén tíz munkanap.
+- f) a hiánypótlási felhívás és a hatósági bizonyítvány kiadása esetén tizenöt nap.
 
 75/A. § (1) Ha jogszabály kulturális örökség védelmével kapcsolatos szakkérdésben szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll kulturális örökség védelmével kapcsolatos szakterületen végezhető tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, rendelkezik a miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
@@ -787,7 +787,7 @@ kulturális javakat.
 93. § (1) Felhatalmazást kap a Kormány, hogy rendeletben:
 
 - a) szabályozza az örökségvédelmi bírsággal kapcsolatos részletes szabályokat, a bírság legmagasabb összegét, valamint a bírság megállapításának alapjául szolgáló értékhatárokat;
-- b) rendeletben jelölje ki a kulturális örökségvédelmi hatóságot vagy hatóságokat;
+- b) jelölje ki a kulturális örökségvédelmi hatóságot vagy hatóságokat, és állapítsa meg az azok eljárására vonatkozó általános szabályokat;
 - c) szabályozza a kulturális örökség hozzáférhetővé tételének szabályait, különös tekintettel a fogyatékos személyek esélyegyenlőségének előmozdítására,
 - d) állapítsa meg az örökségvédelmi hatástanulmányra vonatkozó szabályokat.
 

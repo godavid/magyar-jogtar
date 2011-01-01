@@ -1644,15 +1644,13 @@ a) a szolgáltatóra vonatkozóan:]
 
 (11) A Hpt. – e törvénnyel beiktatott – 13/E. §-ában és 219/D. §-ában foglalt követelményeknek – a (12) és (13) bekezdésekben meghatározott eltéréssel – 2011. január 1-től kell megfelelni.
 
-(12) Posta Elszámoló Központot működtető intézménynek közvetítői tevékenységi körében munkaviszonyban álló személynek a Hpt. – e törvénnyel beiktatott – 219/D. §-ában foglalt szakmai követelményeknek értékesítési helyenként legalább egy személynek kell megfelelnie 2011. január 1. és 2011. július 1. közötti időtartamban.
-
-(13) Posta Elszámoló Központot működtető intézmény közvetítői tevékenységi körében munkaviszonyban álló személynek a Hpt. – e törvénnyel beiktatott – 219/D. §-ában foglalt szakmai követelményeknek 2011. július 1-től kell megfelelnie.
+(12)–(13)
 
 (14) A Bit. – e törvénnyel megállapított – 96. §-a (8) bekezdésének rendelkezéseit e törvény 169. §-ának (7) bekezdése szerinti hatálybalépést követően kötött szerződésekre, illetve a hatálybalépéskor fennálló határozatlan tartamú szerződések esetén a hatálybalépést követően kezdődő biztosítási időszak első napjától kell alkalmazni. A biztosító köteles erről a szerződő felet – a változások hatálybalépése előtt – értesíteni.
 
 (15) A Hpt. – e törvénnyel megállapított – 188. § (3) bekezdésében meghatározott közzétételi kötelezettségnek a Pénzügyi Szervezetek Állami Felügyelete 2010. október 1-től köteles megfelelni.
 
-(16) A Magyar Export-Import Bank Részvénytársaság szavatoló tőkéjének kiszámítása során 2010. december 31-ig alkalmazható az Etv. – 2009. december 31-én hatályos – 20. §-ának (1) és (2) bekezdése.
+(16)
 
 (17) Ha a fogyasztóval 2010. január 1-jét megelőzően kötött kölcsönszerződésben a pénzügyi intézmény által biztosítéki céllal kikötött vételi jog alapján 2010. március 1-jét követően megszerzett, a kötelezett által lakott lakóingatlan szerződés szerinti vételára alacsonyabb a vételi jog gyakorlását megelőző hat hónapon belül készült szakértői értékbecslés szerinti beköltözhető forgalmi érték hetven százalékának megfelelő összegnél (minimum ár), a vételi jog jogosultja a vételáron felül – a jogalap nélküli gazdagodás szabályai szerint – köteles a vételár és a minimum ár különbözetének a kötelezett javára történő megtérítésére, illetve ezen összegnek a (18) bekezdés szerinti elszámolás körében a kötelezett javára történő figyelembevételére.
 

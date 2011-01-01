@@ -60,7 +60,7 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 - c) nem köthető vele koncessziós szerződés,
 - d) nem minősíthető közhasznú szervezetté,
 - e) nem részesülhet központi vagy helyi önkormányzati költségvetés, elkülönített állami pénzalapok, külföldi állam, az Európai Közösségek vagy más nemzetközi szervezet által céljelleggel nyújtott támogatásban,
-- f) nem folytathat lobbitevékenységet,
+- f)
 - g) nem folytathat egyéb olyan tevékenységet, amelynek gyakorlásától a bíróság eltiltotta.
 
 (3) A tevékenység korlátozása esetén az ítélet jogerőre emelkedése napján a bíróság rendelkezésétől függően

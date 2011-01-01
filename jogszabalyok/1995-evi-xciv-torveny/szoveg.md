@@ -271,7 +271,7 @@ Az Országgyűlés abból a célból, hogy az állatorvosok önkormányzati elve
 
 (3) Ha az állatorvost a kamara a tagjai közé felveszi, az új tagot a névjegyzékbe be kell jegyezni, és ki kell adni részére a tagsági igazolványt, valamint a magánállatorvosi tevékenység gyakorlására jogosító igazolványt.
 
-(4) A tagfelvételt elutasító határozatot a határozat meghozatalától számított huszonkét munkanapon belül kell a kérelmezővel közölni. A jogerős határozat bírósági felülvizsgálata során a bíróság a megtámadott határozatot megváltoztathatja.
+(4) A tagfelvételt elutasító határozat közléséről a határozat meghozatalától számított harminc napon belül kell gondoskodni. A jogerős határozat bírósági felülvizsgálata során a bíróság a megtámadott határozatot megváltoztathatja.
 
 (5)
 

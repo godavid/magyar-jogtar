@@ -113,8 +113,8 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 10. § (1) Egyedi iratkezelési szabályzatot ad ki:
 
 - a) a közfeladatot ellátó szerv – e törvényben foglalt kivételekkel – az illetékes közlevéltárral egyetértésben,
-- b) a központi államigazgatási szerv a Magyar Országos Levéltárral, illetve az illetékes szaklevéltárral és a köziratok kezelésének szakmai irányításáért felelős miniszterrel egyetértésben,
-- c) az önkormányzati hivatal számára a jegyző (főjegyző) az illetékes közlevéltárral és a területileg illetékes közigazgatási hivatallal egyetértésben.
+- b) a központi államigazgatási szerv, valamint a Pénzügyi Szervezetek Állami Felügyelete a Magyar Országos Levéltárral, illetve az illetékes szaklevéltárral és a köziratok kezelésének szakmai irányításáért felelős miniszterrel egyetértésben,
+- c) az önkormányzati hivatal számára a jegyző (főjegyző) az illetékes közlevéltárral és a Kormány általános hatáskörű területi államigazgatási szervével egyetértésben.
 
 (2) Egységes iratkezelési szabályzatot ad ki:
 
@@ -126,7 +126,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 
 (4) A szakmai irányítást ellátó miniszter az állami és helyi önkormányzati intézmények meghatározott csoportja részére a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben egységes iratkezelési szabályzatot vagy egyedi iratkezelési szabályzatuk mellékletét képező egységes irattári tervet ad ki.
 
-(5) Az önkormányzati hivatalok számára az önkormányzatokért felelős miniszter a köziratok kezelésének szakmai irányításáért felelős miniszterrel és a kultúráért felelős miniszterrel egyetértésben egységes irattári tervet ad ki.
+(5) Az önkormányzati hivatalok számára a helyi önkormányzatokért felelős miniszter a köziratok kezelésének szakmai irányításáért felelős miniszterrel és a kultúráért felelős miniszterrel egyetértésben egységes irattári tervet ad ki.
 
 (6) A jogi személyiséggel rendelkező önkormányzati társulás, az önkormányzatok többcélú kistérségi társulása (a továbbiakban együtt: önkormányzati társulások) a társulási megállapodásban foglalt esetben rendelkezik az iratkezelés szabályozásáról.
 
@@ -203,7 +203,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 
 (2) Általános levéltár a Magyar Országos Levéltár, valamint a megye (főváros) önkormányzata által fenntartott közlevéltár.
 
-17. § (1) A Magyar Országos Levéltár központi általános levéltár. Illetékességi körébe tartozik a köztársasági elnöknek és hivatalának, az Országgyűlésnek és hivatalának, továbbá az országgyűlési biztosok hivatalainak, az Alkotmánybíróságnak, a 19. § (2) bekezdésében meghatározott kivétellel a központi államigazgatási szerveknek (a miniszterelnöknek és hivatalának, a minisztériumoknak, az autonóm államigazgatási szerveknek, a kormányhivataloknak, a központi hivataloknak és a rendvédelmi szervek országos parancsnokságainak), a polgári nemzetbiztonsági szolgálatoknak, valamint – a központi államigazgatási szervek területi szervei, a rendőrség, a határőrség, a polgári védelem, a vám- és pénzügyőrség, továbbá az állami és hivatásos önkormányzati tűzoltóság területi és helyi szervei és a büntetés-végrehajtási szervezet kivételével – a központi államigazgatási szervek közvetlen felügyelete és irányítása alatt működő egyéb állami szerveknek, a Legfelsőbb Bíróságnak, a Legfőbb Ügyészségnek, az Állami Számvevőszéknek és a Magyar Nemzeti Banknak, valamint mindezen szervek jogelődeinek levéltári anyaga, továbbá minden, levéltárral nem rendelkező országos köztestület és közalapítvány levéltári anyaga.
+17. § (1) A Magyar Országos Levéltár központi általános levéltár. Illetékességi körébe tartozik a köztársasági elnöknek és hivatalának, az Országgyűlésnek és hivatalának, továbbá az országgyűlési biztosok hivatalainak, az Alkotmánybíróságnak, a 19. § (2) bekezdésében meghatározott kivétellel a központi államigazgatási szerveknek (a miniszterelnöknek és hivatalának, a minisztériumoknak, az autonóm államigazgatási szerveknek, a kormányhivataloknak, a központi hivataloknak és a rendvédelmi szervek országos parancsnokságainak), a polgári nemzetbiztonsági szolgálatoknak, valamint – a központi államigazgatási szervek területi szervei, a rendőrség, a határőrség, a polgári védelem, a vám- és pénzügyőrség, továbbá az állami és hivatásos önkormányzati tűzoltóság területi és helyi szervei és a büntetés-végrehajtási szervezet kivételével – a központi államigazgatási szervek közvetlen felügyelete és irányítása alatt működő egyéb állami szerveknek, a Legfelsőbb Bíróságnak, a Legfőbb Ügyészségnek, az Állami Számvevőszéknek, a Magyar Nemzeti Banknak, a Pénzügyi Szervezetek Állami Felügyeletének, valamint mindezen szervek jogelődeinek levéltári anyaga, továbbá minden, levéltárral nem rendelkező országos köztestület és közalapítvány levéltári anyaga.
 
 (2) A Magyar Országos Levéltár a 13. §-ban meghatározott feladatokon kívül
 
@@ -229,7 +229,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 
 (2) A szaklevéltár illetékességi köre – az Állambiztonsági Szolgálatok Történeti Levéltára kivételével –
 
-- a) a Hadtörténelmi Levéltár esetében a honvédelemért felelős miniszter és a Honvéd Vezérkar, valamint – a katonai nemzetbiztonsági szolgálatok kivételével – az ezek közvetlen felügyelete vagy irányítása alá tartozó katonai szervezetek,
+- a) a Hadtörténelmi Levéltár esetében a honvédelemért felelős miniszter és a Honvéd Vezérkar, valamint az ezek közvetlen felügyelete vagy irányítása alá tartozó katonai szervezetek és a katonai nemzetbiztonsági szolgálatok,
 - b)
 - c) a Környezetvédelmi és Vízügyi Levéltár esetében a környezetvédelemért felelős miniszter és a vízgazdálkodásért felelős miniszter felügyelete alá tartozó szervek,
 - d) a felsőoktatási, tudományos, kulturális vagy egészségügyi szolgáltatást végző intézmény levéltára esetében a fenntartó szerv
@@ -339,7 +339,7 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 - b) levéltári anyagának nyilvántartásával, szakszerű, biztonságos őrzésével, feldolgozásával és használatának biztosításával összefüggő feladatait a nyilvános magánlevéltárak részére előírt szakmai követelmények szerint látja el;
 - c) levéltári anyagából a közlevéltárakra vonatkozó rendelkezések szerint tájékoztatást nyújt, adatokat szolgáltat, iratokat kölcsönöz és anyagában — saját szabályzata szerint — a kutatást ingyenesen lehetővé teszi.
 
-(3) Ha a nyilvános magánlevéltár a (2) bekezdésben meghatározott követelményeket nem teljesíti, a miniszter elrendeli a levéltár nyilvántartásból való törlését. A törlés elrendelésével egyidejűleg kezdeményezi a levéltári anyag védetté nyilvánítását.
+(3) Ha a nyilvános magánlevéltár a (2) bekezdésben meghatározott követelményeket nem teljesíti, a kultúráért felelős miniszter elrendeli a levéltár nyilvántartásból való törlését. A törlés elrendelésével egyidejűleg kezdeményezi a levéltári anyag védetté nyilvánítását.
 
 (4) A nyilvános magánlevéltár a 34/C. §-ban foglaltak szerinti költségvetési támogatásban részesül. A költségvetési támogatás a pártok által fenntartott nyilvános magánlevéltárakat is megilleti.
 
@@ -412,7 +412,7 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 (5)
 
-(6) Felhatalmazást kap az önkormányzatokért felelős miniszter, hogy a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben az önkormányzati hivatalok számára egységes irattári tervet adjon ki.
+(6) Felhatalmazást kap a helyi önkormányzatokért felelős miniszter, hogy a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben az önkormányzati hivatalok számára egységes irattári tervet adjon ki.
 
 (7) Ahol jogszabály ,,történeti értékű iratot'' említ, azon ,,maradandó értékű iratot'' kell érteni.
 
@@ -426,7 +426,7 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 35/A. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a közfeladatot ellátó szervek iratkezelésének általános követelményeit, valamint a központi államigazgatási szervek, az önkormányzati hivatalok és az önkormányzati társulások iratkezelési szabályzatai végrehajtásának ellenőrzési rendjét.
 
-(2) Felhatalmazást kap a köziratok kezelésének szakmai irányításáért felelős miniszter, a közigazgatási informatikáért felelős miniszter, valamint a kultúráért felelős miniszter, hogy együttesen rendeletben állapítsa meg a közfeladatot ellátó szerveknél alkalmazható iratkezelési szoftverekkel szemben és az elektronikus iratok levéltárba adásával, tárolásával kapcsolatban támasztott követelményeket.
+(2) Felhatalmazást kap a köziratok kezelésének szakmai irányításáért felelős miniszter, hogy az e-közigazgatásért felelős miniszter, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter, valamint a kultúráért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a közfeladatot ellátó szerveknél alkalmazható iratkezelési szoftverekkel szemben és az elektronikus iratok levéltárba adásával, tárolásával kapcsolatban támasztott követelményeket.
 
 (3) A (2) bekezdésben foglalt felhatalmazás alapján kiadandó rendeletet a bíróságok és az Országos Igazságszolgáltatási Tanács Hivatala, az ügyészségek, a közjegyzők, a bírósági végrehajtók, valamint ezek kamarái, továbbá az ügyvédi kamara, az igazságügyi szakértői névjegyzékbe bejegyzett természetes személyek és gazdasági társaságok, igazságügyi szakértői intézmények, hiteles szakfordítók, tolmácsok, a jogi segítségnyújtást, kárpótlást, áldozatsegítést, valamint büntető ügyekben közvetítői tevékenységet végző szervek és személyek tekintetében az igazságügyért felelős miniszterrel egyetértésben kell kiadni.
 

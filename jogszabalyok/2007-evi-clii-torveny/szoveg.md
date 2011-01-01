@@ -45,6 +45,12 @@ egyes vagyonnyilatkozat-tételi kötelezettségekről
   - ec) egyedi állami vagy önkormányzati támogatásról való döntésre irányuló eljárás lefolytatása során, vagy
   - ed) állami, önkormányzati, illetve az Országgyűlés, a Kormány, valamint önkormányzat által alapított közalapítványi támogatások felhasználásának vizsgálata, valamint a felhasználással való elszámoltatás során.
 
+3/A. § Ha egy személy a jelen törvény rendelkezései szerint több jogviszony alapján köteles vagyonnyilatkozatot tenni, úgy a vagyonnyilatkozat tételi kötelezettségének – a 3/B. §-ban foglaltak szerint – egy jogviszonyhoz kapcsolódóan köteles eleget tenni, és a vagyonnyilatkozat tétel megtörténtéről a további jogviszonyok szerint őrzésre köteles személyt köteles teljes bizonyítóerejű magánokiratba foglalt nyilatkozatban tájékoztatni.
+
+3/B. § Ha egy személy a jelen törvény rendelkezései szerint több jogviszony alapján köteles vagyonnyilatkozatot tenni, úgy a vagyonnyilatkozat tételi kötelezettségének azon jogviszonyra vonatkozó szabályok szerint kell eleget tenni, amelyik alapján a leggyakrabban kell vagyonnyilatkozatot tenni. Amennyiben több jogviszony esetén a vagyonnyilatkozat-tétel esedékességének gyakorisága azonos, úgy a vagyonnyilatkozatot a korábban keletkezett jogviszonyra vonatkozó szabályok szerint kell megtenni. Amennyiben több jogviszony esetén a vagyonnyilatkozat-tétel esedékességének gyakorisága és a jogviszonyok létrejöttének ideje is azonos, úgy a vagyonnyilatkozat-tételre kötelezett választása szerinti jogviszony alapján kell a vagyonnyilatkozat-tételi kötelezettségnek eleget tenni.
+
+3/C. § Ha egy személy a vagyonnyilatkozat-tételi kötelezettségének egy jogviszony alapján eleget tett, majd olyan jogviszonyt létesít, amely alapján – a korábbi jogviszonyhoz képest – gyakrabban kell vagyonnyilatkozatot tennie, úgy ez utóbbi jogviszony alapján keletkező vagyonnyilatkozat-tételi kötelezettségének teljesítését és a 3/A. §-nak megfelelő nyilatkozat átadását követően a korábbi jogviszony kapcsán tett vagyonnyilatkozatát az annak őrzésért felelős személy visszaadja.
+
 4. § A vagyonnyilatkozat-tételi kötelezettséget
 
 - a) a 3. § (1)–(2) bekezdésében meghatározott közszolgálatban álló személyek esetében – ide nem értve a közjegyzőt és az ügyészt – az őket ilyen minőségében alkalmazó szervezet szervezeti és működési szabályzatában,

@@ -8,7 +8,7 @@ a bűnüldöző szervek nemzetközi együttműködéséről
 
 2. § E törvény alkalmazásában:
 
-- 1. magyar bűnüldöző szerv: a Rendőrség, a Vám- és Pénzügyőrség bűnmegelőzési és bűnüldözési feladatot ellátó szervei, a Rendvédelmi Szervek Védelmi Szolgálata, valamint törvény alapján bűnmegelőzési és bűnüldözési feladatok végzésére feljogosított, nemzetközi együttműködésre is felhatalmazott más szerv;
+- 1. magyar bűnüldöző szerv: a rendőrség, a Vám- és Pénzügyőrség bűnmegelőzési és bűnüldözési feladatot ellátó szervei, valamint törvény alapján bűnmegelőzési és bűnüldözési feladatok végzésére feljogosított, nemzetközi együttműködésre is felhatalmazott más szerv;
 - 2. bűnüldözés: a bűnüldöző szerveknek a törvény célja megvalósulását szolgáló, az igazságügyi jogsegély körén kívül eső, nemzetközi együttműködés keretében folytatott bűnfelderítő és bűnmegelőző tevékenysége;
 - 3. az Európai Unió tagállamának bűnüldöző szerve: a nemzetbiztonsági feladatokat ellátó szervek kivételével az Európai Unió tagállamának olyan hatósága, amely a nemzeti jog alapján bűncselekmények felderítésére és megelőzésére jogosult;
 - 4. külföldi hatóság: az Európai Unió tagállamának bűnüldöző szerve, valamint az Európai Unió tagállamán kívül más külföldi államnak a bűnüldözésben való nemzetközi kapcsolattartásra és együttműködésre feljogosított szerve;
@@ -16,6 +16,8 @@ a bűnüldöző szervek nemzetközi együttműködéséről
 - 6. a bűnüldöző szervvel együttműködő személy: a bűnüldöző szerv részére titkos együttműködés keretében információt szolgáltató személy;
 - 7. közös kapcsolattartási szolgálati hely: nemzetközi szerződéssel a szerződő felek államhatárán létrehozott szolgálati hely, amely a nemzetközi szerződésben megjelölt szervek közvetlen információcseréjét és kapcsolattartását szolgálja;
 - 8. titkos lehallgatás: a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 69. § (1) bekezdés c) pontja szerint a telefonvezetéken vagy azt helyettesítő távközlési rendszerek útján továbbított közlés tartalmának megismerése, illetőleg annak technikai eszközzel történő rögzítése.
+- 9. különleges intervenciós egység: az Európai Unió tagállamának olyan bűnüldöző egysége, amelynek szakterülete a válsághelyzetek kezelése;
+- 10. válsághelyzet: bármely olyan helyzet, amikor az Európai Unió tagállamának illetékes hatósága joggal feltételezi, hogy egy bűncselekmény súlyos, közvetlen fizikai fenyegetést jelent az érintett tagállamban tartózkodó személyekre, az ott található vagyontárgyakra, infrastruktúrára vagy intézményekre, ideértve különösen a büntető törvénykönyvben meghatározott terrorcselekményt.
 
 3. § (1) E törvény – a (3) bekezdés kivételével – a 8. §-ban meghatározott együttműködési formákat szabályozó nemzetközi szerződés megléte esetén alkalmazható.
 
@@ -66,6 +68,7 @@ a bűnüldöző szervek nemzetközi együttműködéséről
 - i) az összekötő tisztviselő alkalmazása,
 - j) a titkos információgyűjtés nemzetközi együttműködés alapján,
 - k) a Tanúvédelmi Program alkalmazása nemzetközi együttműködés alapján.
+- l) az Európai Unió tagállamának különleges intervenciós egységével való együttműködés.
 
 9. § (1) A megkeresések teljesítése során a NEBEK vagy a magyar bűnüldöző szerv a külföldi hatóság által megjelölt szabályok szerint, illetve technikai módszert alkalmazva is eljárhat. A NEBEK kérheti a külföldi hatóságot, hogy megkeresését a magyar jogszabályokban foglaltak szerint, illetve az általa meghatározott technikai módszert alkalmazva teljesítse.
 
@@ -410,6 +413,40 @@ határidőt határozhat meg.
 
 (3) Az érintettnek a védelem érdekeit vagy a Szolgálat személyi állományát indokolatlanul és súlyosan veszélyeztető cselekménye esetén haladéktalanul kezdeményezni kell az érintett visszaköltöztetését.
 
+### Az Európai Unió tagállamának különleges intervenciós egységével való együttműködés
+
+42/A. § (1) Ha az Európai Unió más tagállama (a továbbiakban: érintett tagállam) a válsághelyzet megoldása érdekében – a segítség természetének, valamint az ebből következő műveleti szükségleteknek a meghatározásával – a NEBEK-en keresztül kéri az intervenciós egységekben való közreműködésre kormányrendeletben kijelölt szerv (a továbbiakban: magyar intervenciós egység) segítségét, a NEBEK a kérést haladéktalanul továbbítja a magyar intervenciós egységnek.
+
+(2) Ha az (1) bekezdés szerinti megkeresés elfogadása, elutasítása vagy más jellegű segítség felajánlása a rendőrségről szóló törvényben megahatározott általános rendőrségi feladatok ellátására létrehozott szerv feladat- és hatáskörébe tartozó segítségnyújtásra irányul, akkor az (1) bekezdés szerinti megkeresés elfogadásáról, elutasításáról vagy más jellegű segítség felajánlásáról az intervenciós egységben való közreműködésre kijelölt szerv vezetőjének javaslata figyelembevételével az országos rendőrfőkapitány dönt.
+
+(3) Ha az (1) bekezdés szerinti megkeresés elfogadása, elutasítása vagy más jellegű segítség felajánlása a rendőrségről szóló törvényben megahatározott terrorizmust elhárító szerv (a továbbiakban: terrorizmust elhárító szerv) feladat- és hatáskörébe tartozó segítségnyújtásra irányul, akkor az (1) bekezdés szerinti megkeresés elfogadásáról, elutasításáról vagy más jellegű segítség felajánlásáról a terrorizmust elhárító szerv főigazgatója dönt, és ezzel egyidejűleg döntéséről az országos rendőrfőkapitányt tájékoztatja.
+
+(4) Az országos rendőrfőkapitány, valamint a terrorizmust elhárító szerv főigazgatója a megkeresés teljesítését megtagadja
+
+- a) a 4. § (1) bekezdés a)–c) pontjában meghatározott esetben,
+- b) ha nem áll fenn az érintett tagállamban válsághelyzet, valamint
+- c) ha az intervenciós egységben való közreműködésre kijelölt szerv a kérést technikai, vagy személyi feltételek hiányában nem tudja teljesíteni és más segítséget sem tud felajánlani, és erről az érintett tagállamot a NEBEK-en keresztül haladéktalanul tájékoztatja.
+
+(5) A segítségnyújtás különösen az érintett tagállam megkeresésére felszerelés, valamint szakértők biztosításából vagy az érintett tagállam által – a Magyar Köztársaság területén a magyar intervenciós egység felügyelete és irányítása mellett – a 8. § a)–k) pontjában meghatározott műveletek végrehajtásából áll.
+
+(6) A megkeresésben foglaltak elfogadása vagy más jellegű segítség felajánlása esetén a segítségnyújtás végrehajtásáról az érintett tagállammal az országos rendőrfőkapitány, valamint a terrorizmust elhárító szerv főigazgatója megállapodást köt, amely tartalmazza:
+
+- a) a bűncselekmény leírását, amelynek megelőzésére a segítségnyújtás irányul,
+- b) a segítségnyújtás formáját, tartalmát,
+- c) a segítségnyújtás időtartamát és a meghosszabbítás feltételeit,
+- d) a segítségnyújtás feltételeit,
+- e) a segítségnyújtás költségeinek viselését,
+- f) az intervenciós egység tagja által tevékenysége körében okozott károkért való felelősség szabályait,
+- g) a 8. § a)–k) pontjában meghatározott együttműködés esetén az egyes együttműködési formákra szóló megállapodás e törvényben meghatározott tartalmi elemeit.
+
+42/B. § A magyar intervenciós egység tagja jogosult arra, hogy az érintett tagállam területén támogatói minőségben járjon el, és saját hatáskörében eljárva – az érintett tagállam jogával összhangban – megtegye a kért segítség megadásához szükséges intézkedést, ha tevékenységét az érintett tagállam felelőssége, felügyelete és irányítása mellett végzi.
+
+42/C. § (1) A rendőrség a válsághelyzet megoldása érdekében a NEBEK-en keresztül kérheti az Európai Unió más tagállama intervenciós egységének – a segítség természetének, valamint az ebből következő műveleti szükségleteknek a meghatározásával – segítségét.
+
+(2) A megkeresett tagállam különleges intervenciós egységének a tagja (a továbbiakban: beavatkozó személy) eljárása során a Magyar Köztársaság területén okozott kárért a magyar jog szerint felel. Ha a kárt a beavatkozó személy súlyos gondatlanságból vagy szándékos kötelességszegéssel okozta, akkor a rendészetért felelős miniszter az érintett tagállamtól kérheti azon összeg megtérítését, amelyet a beavatkozó személy eljárása miatt a sértettnek vagy a nevében eljárni jogosult személynek kifizettek.
+
+42/D. § A 42/A. § (5) bekezdés szerinti megállapodás eltérő rendelkezése hiányában az érintett tagállam viseli a magyar intervenciós egység alkalmazásával kapcsolatos valamennyi költséget, beleértve a szállítási és szállásköltségeket.
+
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 43. § A 16/H. §-ban foglalt kivétellel e törvény 14. § (2) bekezdésében, 16/A–16/G. §-ában, 29. § (1) bekezdés b) pontjában, továbbá 31–33. §-ában meghatározott rendelkezéseket kizárólag az Európai Unió tagállamának bűnüldöző szerveivel való együttműködés keretében lehet alkalmazni.
@@ -433,7 +470,7 @@ határidőt határozhat meg.
 
 ### Felhatalmazó rendelkezés
 
-51. § Felhatalmazást kap a rendészetért felelős miniszter és az adópolitikáért felelős miniszter, hogy együttes rendeletben szabályozza az összekötő tisztviselők kihelyezésének részletes szabályait.
+51. § Felhatalmazást kap a rendészetért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben szabályozza az összekötő tisztviselők kihelyezésének részletes szabályait.
 
 ### Jogharmonizációs záradék
 
@@ -451,7 +488,8 @@ határidőt határozhat meg.
 - b) az Európai Unió Tanácsának 2000. május 29-én kelt a tagállamok közötti, büntetőügyekben való kölcsönös segítségnyújtásról szóló Egyezmény 6–7. cikkei, továbbá 12–14. cikkei;
 - c) az Európai Uniónak az Európai Unió tagállamai közötti kölcsönös bűnügyi jogsegélyről szóló egyezménye 2001. október 16-án elfogadott Kiegészítő Jegyzőkönyve;
 - d) az Európai Unió 1997. december 18-án elfogadott Egyezménye a vámszervek közötti kölcsönös segítségnyújtásról és együttműködésről (Nápoly II Egyezmény);
-- e) az Európai Unió az Európai Rendőrségi Hivatal létrehozásáról szóló Egyezményének 2002. november 28-án elfogadott Kiegészítő Jegyzőkönyve.
+- e) az Európai Unió az Európai Rendőrségi Hivatal létrehozásáról szóló Egyezményének 2002. november 28-án elfogadott Kiegészítő Jegyzőkönyve,
+- f) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat e törvény 2. § 9. és 10. pontjával, 8. § l) pontjával, és 42/A–42/D. §-ával.
 
 ### 1. melléklet a 2002. évi LIV. törvényhez
 

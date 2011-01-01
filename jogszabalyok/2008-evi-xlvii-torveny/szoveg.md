@@ -147,7 +147,7 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 
 10. § (1) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt – a (2) és a (3) bekezdésben foglalt kivétellel – a fogyasztóvédelmi hatóság jár el.
 
-(2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt – a (3) bekezdésben foglalt kivétellel – a Pénzügyi Szervezetek Állami Felügyelete jár el, ha az érintett kereskedelmi gyakorlat a vállalkozás olyan tevékenységével függ össze, amelyet a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2007. évi CXXXV. törvény (a továbbiakban: Psztv.) alapján a Pénzügyi Szervezetek Állami Felügyelete felügyel.
+(2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt – a (3) bekezdésben foglalt kivétellel – a Pénzügyi Szervezetek Állami Felügyelete jár el, ha az érintett kereskedelmi gyakorlat a vállalkozás olyan tevékenységével függ össze, amelyet a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény (a továbbiakban: Psztv.) alapján a Pénzügyi Szervezetek Állami Felügyelete felügyel.
 
 (3) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt a Gazdasági Versenyhivatal jár el, ha a kereskedelmi gyakorlat a gazdasági verseny érdemi befolyásolására alkalmas.
 
@@ -164,7 +164,7 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 
 (2) A gazdasági verseny érdemi érintettsége minden egyéb körülményre tekintet nélkül fennáll, ha
 
-- a) a kereskedelmi gyakorlat országos műsorszolgáltatást végző műsorszolgáltatón keresztül valósul meg,
+- a) a kereskedelmi gyakorlat országos médiaszolgáltatást végző médiaszolgáltatón keresztül valósul meg
 - b) a kereskedelmi gyakorlat országos terjesztésű időszakos lap vagy legalább három megyében terjesztett napilap útján valósul meg,
 - c) a fogyasztók közvetlen megkeresésének módszerével végzett kereskedelmi gyakorlat legalább három megye fogyasztói felé irányul, vagy
 - d) az áru eladásának helyén alkalmazott eladásösztönző kereskedelmi gyakorlat legalább három megyében megszervezésre kerül.
@@ -184,6 +184,8 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 15. § (1) Az e törvény szerinti eljárás lefolytatása nem zárja ki azt, hogy a sérelmet szenvedett fél a kereskedelmi gyakorlat tisztességtelenségére alapított polgári jogi igényét közvetlenül a bíróság előtt érvényesítse.
 
 (2) A bíróság előtti eljárásban a kereskedelmi gyakorlat részét képező tényállítás valóságának bizonyítása a vállalkozást terheli.
+
+(3) A kereskedelmi gyakorlat tisztességtelenségére alapított polgári jogi igény bíróság előtti érvényesítésére irányuló perekben megfelelően alkalmazni kell a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 88/B. §-ának (1)–(6) bekezdését.
 
 16. § Ha a tisztességtelen kereskedelmi gyakorlat még nem valósult meg, de a vállalkozás tevékenysége, így különösen a szükséges feltételek megteremtése, szerződések megkötése, eszközök beszerzése alapján valószínűsíthető, hogy annak alkalmazására sor kerülne, az eljáró hatóság jogosult a tervezett kereskedelmi gyakorlat előzetes megtiltására.
 
@@ -205,7 +207,7 @@ rendelkezéseit kell alkalmazni.
 
 ### A fogyasztóvédelmi hatóság eljárására vonatkozó különös rendelkezések
 
-20. § (1) Ha a fogyasztóvédelmi hatóság ellenőrzése során észlelt tisztességtelen kereskedelmi gyakorlat ügyében vagy a tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt benyújtott kérelem alapján az eljárás a Gazdasági Versenyhivatal hatáskörébe tartozik, a fogyasztóvédelmi hatóság a kérelmet, illetve az ügyben keletkezett iratokat – az ügyfél egyidejű értesítése mellett – haladéktalanul, de legkésőbb a jogsértő gyakorlat észlelésétől, illetve a kérelem megérkezésétől számított huszonkét munkanapon belül átteszi a Gazdasági Versenyhivatalhoz.
+20. § (1) Ha a fogyasztóvédelmi hatóság ellenőrzése során észlelt tisztességtelen kereskedelmi gyakorlat ügyében vagy a tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt benyújtott kérelem alapján az eljárás a Gazdasági Versenyhivatal hatáskörébe tartozik, a fogyasztóvédelmi hatóság a kérelmet, illetve az ügyben keletkezett iratokat – az ügyfél egyidejű értesítése mellett – haladéktalanul, de legkésőbb a jogsértő gyakorlat észlelésétől, illetve a kérelem megérkezését követő naptól számított harminc napon belül átteszi a Gazdasági Versenyhivatalhoz.
 
 (2) A fogyasztóvédelmi hatóság hatáskörének vizsgálata keretében a hatóság felhívására a vállalkozás köteles nyilatkozni arról, hogy az adott kereskedelmi gyakorlattal összefüggésben milyen kommunikációs eszközök kerültek alkalmazásra.
 
@@ -219,19 +221,19 @@ rendelkezéseit kell alkalmazni.
 
 22. §
 
-23. § (1) Ha a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) bármely ellenőrzése során észlelt tisztességtelen kereskedelmi gyakorlat ügyében vagy a tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt a Felügyelethez benyújtott kérelem alapján az eljárás a Gazdasági Versenyhivatal hatáskörébe tartozik, a Felügyelet a kérelmet, illetve az ügyben keletkezett iratokat – az ügyfél egyidejű értesítése mellett – haladéktalanul, de legkésőbb a jogsértő gyakorlat észlelésétől, illetve a kérelem megérkezésétől számított huszonkét munkanapon belül átteszi a Gazdasági Versenyhivatalhoz.
+23. § (1) Ha a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) bármely ellenőrzése során észlelt tisztességtelen kereskedelmi gyakorlat ügyében vagy a tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt a Felügyelethez benyújtott kérelem alapján az eljárás a Gazdasági Versenyhivatal hatáskörébe tartozik, a Felügyelet a kérelmet, illetve az ügyben keletkezett iratokat – az ügyfél egyidejű értesítése mellett – haladéktalanul, de legkésőbb a jogsértő gyakorlat észlelésétől, illetve a kérelem megérkezését követő naptól számított harminc napon belül átteszi a Gazdasági Versenyhivatalhoz.
 
 (2) A Felügyelet hatáskörének vizsgálata keretében a Felügyelet felhívására a vállalkozás köteles nyilatkozni arról, hogy az adott kereskedelmi gyakorlattal összefüggésben milyen kommunikációs eszközök kerültek alkalmazásra.
 
 (3) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatti hatósági eljárás megindításáról, illetve ha bármely ellenőrzése során a tisztességtelen kereskedelmi gyakorlat tilalmának megsértését észleli, a Felügyelet az ügy érdemi azonosíthatóságához szükséges adatok – így különösen az érintett vállalkozás azonosításához szükséges adatok, az eljárást kezdeményező személyének azonosításához szükséges, általa megadott adatok – és az eljárás tárgyát képező tényállás ismertetésével értesíti a Gazdasági Versenyhivatalt.
 
-24. § A Psztv. 48/G. §-ának alkalmazásával a 16. § szerinti intézkedés is elrendelhető.
+24. § A Psztv. 70. §-ának alkalmazásával a 16. § szerinti intézkedés is elrendelhető.
 
 ### A Gazdasági Versenyhivatal eljárására vonatkozó különös rendelkezések
 
-25. § (1) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt benyújtott bejelentéssel, illetve panasszal kapcsolatos eljárásra – a Tpvt. 43/H. §-ának (2) bekezdésétől és 43/I. §-a (1) bekezdésének második mondatától eltérően – a közigazgatási hatósági eljárás általános szabályairól szóló törvény hatásköri vitára vonatkozó rendelkezéseit is megfelelően alkalmazni kell.
+25. § (1) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt benyújtott bejelentéssel, illetve panasszal kapcsolatos eljárásra – a Tpvt. 43/H. §-ának (2) bekezdésétől és 43/I. §-a (1) bekezdésétől eltérően – a közigazgatási hatósági eljárás általános szabályairól szóló törvény hatásköri vitára vonatkozó rendelkezéseit is megfelelően alkalmazni kell.
 
-(2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt benyújtott bejelentéssel kapcsolatos eljárásban a vizsgáló a bejelentés beérkezésétől számított huszonkét munkanapon belül hozza meg a Tpvt. 43/H. §-ának (8) bekezdése szerinti végzést.
+(2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt benyújtott bejelentéssel kapcsolatos eljárásban a vizsgáló a bejelentés beérkezését követő naptól számított harminc napon belül hozza meg a Tpvt. 43/H. §-ának (8) bekezdése szerinti végzést.
 
 (3) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatti bejelentésről a Gazdasági Versenyhivatal az ügy érdemi azonosíthatóságához szükséges adatok – így különösen az érintett vállalkozás azonosításához szükséges adatok, az eljárást kezdeményező személyének azonosításához szükséges, általa megadott adatok – és az eljárás tárgyát képező tényállás ismertetésével értesíti a fogyasztóvédelmi hatóságot vagy – a 10. § (2) bekezdése szerinti kereskedelmi gyakorlat esetén – a Pénzügyi Szervezetek Állami Felügyeletét.
 
@@ -245,7 +247,7 @@ rendelkezéseit kell alkalmazni.
 
 (3) A Tpvt. 75. §-a szerinti kötelezettségvállalás alkalmazásának akkor is helye lehet, ha az ügyfél a vizsgált magatartással időközben felhagyott. Ilyen esetben a magatartás megismétlésétől való tartózkodásra lehet kötelezettséget vállalni.
 
-(4) A Tpvt. 88/B. §-ának (1)–(6) bekezdését a 15. § (1) bekezdése szerinti perekben is megfelelően alkalmazni kell.
+(4)
 
 ### Együttműködés az Európai Gazdasági Térség államainak fogyasztóvédelmi hatóságaival
 

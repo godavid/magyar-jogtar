@@ -121,7 +121,7 @@ az egészségügyi közvetítői eljárásról
 
 (2) Az 5. § (1) bekezdése alapján a kérelmezőt a névjegyzékbe a közvetítői tanfolyam elvégzésének igazolása nélkül is fel kell venni, 2002. január 1. napját követően azonban a közvetítői tanfolyam elvégzése igazolásának hiányában a közvetítőt törölni kell a névjegyzékből.
 
-(3) Felhatalmazást kap az egészségügyért felelős miniszter és az igazságügyért felelős miniszter, hogy a közvetítői képesítés követelményeit, a képesítés megszerzésének módját, a névjegyzékben vezetett adatok körét, továbbá a közvetítői eljárás költségelemeinek összegét együttes rendeletben megállapítsa.
+(3) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével kiadott rendeletben megállapítsa a közvetítői képesítés követelményeit, a képesítés megszerzésének módját, a névjegyzékben vezetett adatok körét, továbbá a közvetítői eljárás költségelemeinek összegét.
 
 (4)
 

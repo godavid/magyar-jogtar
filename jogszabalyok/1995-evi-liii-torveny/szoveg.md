@@ -474,7 +474,7 @@ képviselői.
 
 (6) A Tanács feladatait e törvényben foglalt, valamint a Kormány által meghatározott szabályok szerint látja el. Ügyrendjét maga határozza meg.
 
-(7) A Tanács működési költségét a környezet védelméért felelős minisztérium költségvetésében külön címen kell biztosítani.
+(7) A Tanács működési költségét a miniszter által vezetett minisztérium költségvetésében külön címen kell biztosítani.
 
 ### IV. Fejezet — A HELYI ÖNKORMÁNYZATOK KÖRNYEZETVÉDELMI FELADATAI
 
@@ -689,7 +689,7 @@ véleményezésre megküldi.
 
 53. § (1) A környezetvédelmi feladatok megoldását a tudomány és technika fejlesztésével, a tudományos kutatómunka és a műszaki fejlesztés szervezésével, továbbá a hazai és a nemzetközi kutatások eredményeinek elterjesztésével, valamint gyakorlati alkalmazásával is elő kell segíteni.
 
-(2) A környezet állapotának megismerésére és a környezetvédelem fejlesztésére irányuló kutatás kiemelten támogatott kutatási feladat. E kutatások összehangolása, támogatása, értékelése és állami környezetkutatási célok teljesítésének biztosítása — a tudományos kutatásokért felelős miniszterrel együttműködésben — a miniszter feladata.
+(2) A környezet állapotának megismerésére és a környezetvédelem fejlesztésére irányuló kutatás kiemelten támogatott kutatási feladat. E kutatások összehangolása, támogatása, értékelése és állami környezetkutatási célok teljesítésének biztosítása — a kutatás-fejlesztésért és technológiai innovációért felelős miniszterrel együttműködésben — a miniszter feladata.
 
 ### Környezeti nevelés, képzés, művelődés
 
@@ -697,7 +697,7 @@ véleményezésre megküldi.
 
 (2) A környezeti ismeretek terjesztése és fejlesztése (óvodai nevelés, iskolai nevelés, képzés, művelődés, iskolarendszeren kívüli oktatás és továbbképzés, ismeretterjesztés, könyvkiadás) elsősorban állami és önkormányzati feladat.
 
-(3) Az állami feladat ellátása során a miniszter a környezeti ismeretek szakszerű oktatásának biztosítása és azok folyamatos fejlesztése érdekében együttműködik a művelődésért és közoktatásért felelős miniszterrel és más érdekelt miniszterekkel.
+(3) Az állami feladat ellátása során a miniszter a környezeti ismeretek szakszerű oktatásának biztosítása és azok folyamatos fejlesztése érdekében együttműködik az oktatásért felelős miniszterrel és más érdekelt miniszterekkel.
 
 (4) A Nemzeti Alaptanterv elvei és követelményei szerint a miniszter közreműködik a közoktatás intézményei számára készülő tantervi követelmények és taneszközök szakmai előkészítésében.
 
@@ -711,7 +711,7 @@ véleményezésre megküldi.
 
 55. § (1) Az 54. §-ban megjelölt feladatokat az állam az oktatási és a közművelődési intézményeken keresztül, a környezetvédelmi egyesületekkel és a környezet védelmével foglalkozó lakossági szakmai szervezetekkel együttműködve látja el. Az állam az egyes nevelési, képzési feladatokat ellátó szervezeteket, az egyházakat, a tudományos intézményeket, szakmai szervezeteket, egyesületeket környezeti nevelési, képzési tevékenységük eredményesebb ellátása érdekében — szükség esetén megfelelő pénzeszközök rendelkezésre bocsátásával — támogatja.
 
-(2) A környezeti ismeretek oktatásának megszervezése és az ismeretekkel kapcsolatos tananyagok, oktatási programok előkészítésének szellemi és anyagi támogatása a művelődésért és a közoktatásért felelős miniszter, valamint a miniszter közös feladata, a szakképzés tekintetében a miniszter gyakorolja a szakképesítésért felelős miniszter jogait, ellátja a felsőoktatás szakirányába tartozó állami feladatokat, és segíti a szakirányába tartozó felsőoktatási intézmények oktató munkáját.
+(2) A környezeti ismeretek oktatásának megszervezése és az ismeretekkel kapcsolatos tananyagok, oktatási programok előkészítésének szellemi és anyagi támogatása az oktatásért felelős miniszter, valamint a miniszter közös feladata, a szakképzés tekintetében a miniszter gyakorolja a szakképesítésért felelős miniszter jogait, ellátja a felsőoktatás szakirányába tartozó állami feladatokat, és segíti a szakirányába tartozó felsőoktatási intézmények oktató munkáját.
 
 ### VI. Fejezet — A KÖRNYEZETVÉDELEM GAZDASÁGI ALAPJAI
 
@@ -901,7 +901,7 @@ tarthatók nyilván.
 
 67. § (1) Előzetes vizsgálatot kell lefolytatni, ha a tervezett tevékenység a környezetvédelmi hatóság döntésétől függően környezeti hatásvizsgálat köteles, továbbá ha az előzetes vizsgálatot törvény írja elő.
 
-(2) A környezetvédelmi hatóság az előzetes vizsgálat alapján hozott határozatát az előzetes vizsgálati eljárás iránti kérelem hatósághoz történő megérkezésétől számított 33 munkanapon belül hozza meg, ha az ügyben közmeghallgatás tartása szükséges, az ügyintézési határidő 45 munkanap. Országhatáron átterjedő jelentős környezeti hatással kapcsolatos, jogszabályban meghatározott nemzetközi eljárás időtartama az ügyintézési határidőbe nem számít be.
+(2) A környezetvédelmi hatóság az előzetes vizsgálat alapján hozott határozatát az előzetes vizsgálati eljárás iránti kérelem hatósághoz történő megérkezését követő naptól számított negyvenöt napon belül hozza meg, ha az ügyben közmeghallgatás tartása szükséges, az ügyintézési határidő két hónap. Országhatáron átterjedő jelentős környezeti hatással kapcsolatos, jogszabályban meghatározott nemzetközi eljárás időtartama az ügyintézési határidőbe nem számít be.
 
 (3) A környezethasználó előzetes konzultációt kezdeményezhet a környezetvédelmi hatóságnál, ha a tervezett tevékenység nem a környezetvédelmi hatóság döntésétől függően környezeti hatásvizsgálat köteles, vagy ha kizárólag egységes környezethasználati engedélyezési eljárás köteles.
 
@@ -1110,7 +1110,7 @@ közös szabályai
 
 (2) A határértékek megállapítása során figyelembe kell venni a természeti folyamatok és az egyes környezetterhelő tényezők várható együttes hatását is.
 
-(3) A határértéket a miniszter — az érdekelt miniszterekkel együttesen kiadott — rendeletben, vagy rendeletben meghatározott esetekben a környezetvédelmi hatóság állapítja meg.
+(3) A határértéket a miniszter — az érdekelt miniszterek egyetértésével kiadott — rendeletben, vagy rendeletben meghatározott esetekben a környezetvédelmi hatóság állapítja meg.
 
 ### A környezetvédelmi közigazgatási szervek hatósági eljárásának különös szabályai
 
@@ -1209,7 +1209,7 @@ A KÖRNYEZETVÉDELEMBEN
 
 (3) A szervezet a (2) bekezdés c) pontjában foglalt jogának érvényesítése érdekében a jogszabályt előkészítő minisztériumnál, illetve települési önkormányzatnál jelenti be véleményezési igényét.
 
-(4) A minisztériumok évente — december 31-ig — a következő évre tervezett környezettel kapcsolatos jogszabályaik cím szerinti jegyzékét megküldik a miniszternek, aki azt közzéteszi a tárca hivatalos lapjában. A települési önkormányzatok az általuk kiadni szándékozott ilyen jogszabályokról a helyben szokásos módon adnak tájékoztatást.
+(4) A miniszterek évente — december 31-ig — a következő évre tervezett környezettel kapcsolatos jogszabályaik cím szerinti jegyzékét megküldik a miniszternek, aki azt közzéteszi a tárca hivatalos lapjában. A települési önkormányzatok az általuk kiadni szándékozott ilyen jogszabályokról a helyben szokásos módon adnak tájékoztatást.
 
 99. § (1) Környezetveszélyeztetés, környezetszennyezés vagy környezetkárosítás esetén a szervezet a környezet védelme érdekében jogosult fellépni, és
 
@@ -1400,11 +1400,11 @@ A KÖRNYEZETVÉDELEMBEN
 (9) A közlekedésért felelős miniszter a mozgó légszennyező források légszennyezőanyag
 
 - a) kibocsátásának mérésével, vizsgálatával kapcsolatos szabályokat a hatáskörét érintő kérdésekben a környezetvédelemért felelős miniszterrel egyetértésben,
-- b) kibocsátására vonatkozó felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszterrel, valamint a közlekedésrendészetért felelős miniszterrel együttesen
+- b) kibocsátására vonatkozó felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszter és a közlekedésrendészetért felelős miniszter egyetértésével kiadott
 
 rendeletben határozza meg.
 
-(10) Felhatalmazást kap a miniszter, hogy a vízgazdálkodásért felelős miniszterrel együttesen, rendeletben állapítsa meg:
+(10) Felhatalmazást kap a miniszter, hogy a vízgazdálkodásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg:
 
 - a) a használt- és szennyvízkibocsátásnak a környezet védelmére vonatkozó követelményeivel,
 - b) a vízvédelmi szempontból érzékeny területek és felszíni vizek kijelölésével
@@ -1425,7 +1425,7 @@ kapcsolatos részletes szabályokat.
 - a) a külön jogszabály szerinti nitrátérzékeny területeket a MePAR szerinti blokkok szintjén közzétegye, valamint
 - b) a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméhez szükséges cselekvési program részletes szabályait és az ezzel összefüggő adatszolgáltatás és nyilvántartás rendjét meghatározza.
 
-(15) Felhatalmazást kap a miniszter, hogy az érdekelt miniszterekkel együttesen rendeletben határozza meg az igénybevételi, kibocsátási és szennyezettségi határértékeket.
+(15) Felhatalmazást kap a miniszter, hogy az érdekelt miniszterek egyetértésével kiadott rendeletben határozza meg az igénybevételi, kibocsátási és szennyezettségi határértékeket.
 
 110/A. § Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a környezetvédelmi hatóságot vagy hatóságokat, valamint a környezetvédelmi igazgatási szervet vagy szerveket.
 

@@ -5307,11 +5307,7 @@ lép.
 
 428. § E törvény hatálybalépésével egyidejűleg a Kt. 5/B. §-ában „az adóhatóságtól” szövegrész helyébe „a vámhatóságtól” szövegrész, a Kt. 5/D. § (2) bekezdésének első mondatában „az adóhatósághoz” szövegrész helyébe „a vámhatósághoz” szövegrész, a Kt. 5/D. § (2) bekezdésének második mondatában „az adóhatóságnál” szövegrész helyébe „a vámhatóságnál” szövegrész, a Kt. 5/D. § (7) bekezdésében „az adóhatóságnál” szövegrész helyébe „a vámhatóságnál” szövegrész lép.
 
-429. § E törvény hatálybalépésével egyidejűleg a Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény 2. §-a (6) bekezdésének d) pontja helyébe a következő rendelkezés lép:
-
-[(6) A Vám- és Pénzügyőrség egyéb feladatainak ellátása keretében végzi:]
-
-„d) a közúti határátkelőhelyek üzemeltetését, a fenntartásukra és fejlesztésükre vonatkozó feladatok végrehajtását, az Európai Unió valamely tagállamával közös határszakaszon lévő, a Rendőrségnek üzemeltetésre átadott közúti határátkelőhelyek kivételével.”
+429. §
 
 430. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2006. évi LXI. törvény 225. §-ának (13) bekezdése helyébe a következő rendelkezés lép:
 

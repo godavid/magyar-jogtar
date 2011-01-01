@@ -94,6 +94,7 @@ Azok az anyagok, amelyek az 1979. évi 25. törvényerejű rendelettel kihirdete
 | FLEA | N-hidroxi-N-metil-3,4 metilén-dioxi-amfetamin vagyN-hidroxi-3,4-metilén-dioxi-metamfetamin°N-[1-(1,3-benzodioxol-5-yl)propan-2-yl]-N-methylhydroxylamin°° |
 | MAL | 3,5-dimetoxi-4-metallil-oxi-fenetil-amin° 3,5-dimethoxy-4-(2-methylallyloxy)-phenethylazan°° |
 | MBDB | 2-(metil-amino)-1-(3,4-metilén-dioxi-fenil)-bután vagyN-metil-1-(1,3-benzo-dioxol-5-il)-2-bután-amin° [1-(1,3-Benzodioxol-5-yl)butan-2-yl](methyl)azan°° |
+| mephedrone** (mefedron) | (RS)-1-(4-methylphenyl)-2-methylaminopropan-1-one, 4-methylmethcathinone, 4-methylephedrone, 4-MMC |
 | N-Me-1-PEA | 1-(N-metil-amino)-1-fenil-etán vagy N-metil-1-fenetil-amin° |
 | mCPP (meta-klorofenilpiperazin) | meta-chlorophenylpiperazine vagy [1-(3-chlorophenyl)piperazine] |
 | 1-PEA | 1-amino-1-fenil-etán vagy 1-fenetil-amin° |
@@ -114,7 +115,7 @@ Azok az anyagok, amelyek az 1979. évi 25. törvényerejű rendelettel kihirdete
 | GHB (gamma-hidroxi-vajsav) | γ-hydroxybutyric acid |
 | Ketamine(ketamin) | 2-(2-chlorophenyl)-2-(methylamino)-cyclohexanone |
 | Pentazocine(pentazocin) | (2R,6R,11R)-1,2,3,4,5,6-hexahydro-6,11-dimethyl-3-(3-methyl-2- butenyl)-2,6-methano-3-benzazocin-8-ol |
-| Poppy straw(mákszalma) | A máknövény minden része a magok kivételével |
+| Poppy straw (mákszalma) | A levágott máknövény minden része; azonban a magok a tokból való kifejtés és tisztítás után nem minősülnek ellenőrzött szernek |
 
 – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
 

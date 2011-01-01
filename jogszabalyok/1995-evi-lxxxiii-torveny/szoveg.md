@@ -18,7 +18,7 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányáról szóló — többsz�
 
 (3) Az (1) és (2) bekezdést a címer elkülöníthető elemeire (Szentkorona, pajzs) is alkalmazni kell.
 
-4. § (1) A címernek védjegy elemeként való használatát az iparügyekért felelős miniszter engedélyezheti a védjeggyel védeni kívánt áru tekintetében illetékes miniszter véleményének kikérése után. Az iparügyekért felelős miniszter a kérelem elbírálása során az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvény (a továbbiakban: Áe.) alapján jár el. Az ügyfél a határozat felülvizsgálatát a határozat közlésétől számított harminc napon belül keresettel kérheti a bíróságtól.
+4. § (1) A címert tartalmazó védjegy lajstromozásához szükséges engedély megadásáról – kérelemre, a védjegybejelentésben megjelölt árujegyzék szerinti áruk vagy szolgáltatások tekintetében hatáskörrel rendelkező miniszter véleményének kikérése után – a kormányzati tevékenység összehangolásáért felelős miniszter dönt. A kormányzati tevékenység összehangolásáért felelős miniszter a kérelem elbírálása során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) alapján jár el. Az ügyfél a határozat felülvizsgálatát a határozat közlésétől számított harminc napon belül keresettel kérheti a bíróságtól.
 
 (2) A kérelem elbírálása során meg kell vizsgálni, hogy az áru minősége, jellege, a kérelmező tevékenységének jelentősége indokolttá teszi-e a címer használatát. Ezt a kérelmezőnek kell bizonyítania.
 
@@ -45,7 +45,7 @@ feladatuk ellátása során használnak, a zászlót vagy a lobogót állandó j
 
 (5) Szélsőséges időjárási viszonyok között – annak időtartamára – a szerv vezetője elrendelheti a zászló bevonását, illetőleg a lobogó levonását. Ez a rendelkezés az Országgyűlés, az Alkotmánybíróság és a Legfelsőbb Bíróság épületére, valamint a köztársasági elnök és a miniszterelnök hivatali épületére, továbbá nemzeti ünnepek idején nem alkalmazható
 
-6. § A Magyar Köztársaság zászlajának (a továbbiakban: zászló), lobogójának védjegy elemeként való használata esetén a 4. §-t kell alkalmazni.
+6. § A Magyar Köztársaság zászlaját (a továbbiakban: zászló), lobogóját tartalmazó védjegy lajstromozásához szükséges engedély tekintetében a 4. §-t kell megfelelően alkalmazni.
 
 7. § (1) A magyar tengeri és folyami hajók, továbbá egyéb vízi járművek (a továbbiakban: hajók) az állami felségjog jelzésére — a 8. § (2) bekezdésében foglalt kivétellel — a zászlóval azonos háromszínű lobogót használnak.
 
@@ -61,11 +61,11 @@ feladatuk ellátása során használnak, a zászlót vagy a lobogót állandó j
 
 ### Egyéb rendelkezések
 
-10. § (1) Nemzetközi vásáron (kiállításon, árubemutatón stb.) a Magyar Köztársaságra utaló elnevezést, illetőleg a címer használatát az ilyen esemény rendezésére vagy az azon való részvételre jogosultak részére — a külpolitikáért felelős miniszter véleményének kikérése után — a kereskedelemért felelős miniszter, engedélyezi.
+10. § (1) Nemzetközi vásáron (kiállításon, árubemutatón stb.) a Magyar Köztársaságra utaló elnevezést és a címer használatát az ilyen esemény rendezésére vagy az azon való részvételre jogosultak részére – a külpolitikáért felelős miniszter véleményének kikérése után – a kormányzati tevékenység összehangolásáért felelős miniszter engedélyezi.
 
-(2) Nemzetközi kulturális vagy társadalmi jellegű rendezvény esetén az (1) bekezdés megfelelő alkalmazásával az engedélyt a kultúráért felelős miniszter, illetőleg a társadalmi rendezvény jellege szerint illetékes miniszter — a külpolitikáért felelős miniszter véleményének meghallgatása után — adhatja meg. A kérelmet a kultúráért felelős miniszterhez kell benyújtani.
+(2) Nemzetközi kulturális vagy társadalmi jellegű rendezvény esetén az (1) bekezdés megfelelő alkalmazásával az engedély megadásáról – a külpolitikáért felelős miniszter, továbbá társadalmi rendezvény esetén a rendezvény jellege szerint hatáskörrel rendelkező miniszter véleményének kikérése után – a kormányzati tevékenység összehangolásáért felelős miniszter dönt. A kérelmet a kormányzati tevékenység összehangolásáért felelős miniszterhez kell benyújtani.
 
-(3) Az engedély iránti kérelem elbírálása során az (1) és (2) bekezdésben említett miniszter az Áe. alapján jár el. Ha a kérelmet a benyújtástól számított harminc napon belül nem utasítja el, az engedélyt megadottnak kell tekinteni. A kérelem elutasítása esetén az ügyfél a határozat felülvizsgálatát a határozat közlésétől számított harminc napon belül keresettel kérheti a bíróságtól.
+(3) Az engedély iránti kérelem elbírálása során a kormányzati tevékenység összehangolásáért felelős miniszter az Áe. alapján jár el. Ha a kérelmet a benyújtástól számított harminc napon belül nem utasítja el, az engedélyt megadottnak kell tekinteni. A kérelem elutasítása esetén az ügyfél a határozat felülvizsgálatát a határozat közlésétől számított harminc napon belül keresettel kérheti a bíróságtól.
 
 11. § (1) A nemzethez tartozás kinyilvánítása céljából magánszemély a címert és a zászlót (lobogót) az e törvényben foglalt korlátozások megtartásával használhatja.
 
@@ -97,6 +97,8 @@ feladatuk ellátása során használnak, a zászlót vagy a lobogót állandó j
 
 18. § A címernek, a zászlónak (lobogónak) és a Magyar Köztársaságra utaló elnevezésnek e törvénytől eltérő használatát — ha a 15—17. § másként nem rendelkezik — e törvény hatálybalépését követő két hónapon belül meg kell szüntetni. Ez irányadó a törvény hatálybalépését megelőzően kiadott engedély alapján történő címerhasználatra is.
 
+18/A. § E törvénynek a Magyar Köztársaság minisztériumainak felsorolásáról szóló 2010. évi XLII. törvénnyel összefüggésben szükséges törvénymódosításokról és egyes iparjogvédelmi tárgyú törvények módosításáról szóló 2010. évi CXLVIII. törvénnyel megállapított 4. § (1) bekezdését, 6. §-át és 10. § (1)–(2) bekezdését a 2011. január 1-jét követően benyújtott kérelmekre kell alkalmazni.
+
 ### Hatálybalépés
 
 19. § (1) Ez a törvény a kihirdetését követő 8. napon lép hatályba.
@@ -113,7 +115,7 @@ feladatuk ellátása során használnak, a zászlót vagy a lobogót állandó j
 - b) a miniszterek, hogy a feladatkörükben a nem állami szervek álal kiadott okiratokon a címer és a címeres körbélyegző kötelező használatát,
 - c) a honvédelemért felelős miniszter, hogy a honvédségi csapatzászlóra, a hadilobogóra és a felségjelre, valamint ezek használatára, illetőleg adományozására vonatkozó részletes előírásokat,
 - d) a rendészetért felelős miniszter és a katasztrófák elleni védekezés irányításáért felelős miniszter, hogy az irányítása alatt álló szervek tekintetében a csapatzászlóra, annak használatára, illetőleg adományozására vonatkozó előírásokat,
-- e) a sportügyeket felügyelő miniszter, hogy a címer, a zászló (lobogó) sportszervezetek által történő használatát
+- e) a sportpolitikáért felelős miniszter, hogy a címer, a zászló (lobogó) sportszervezetek által történő használatát
 
 rendeletben szabályozzák.
 

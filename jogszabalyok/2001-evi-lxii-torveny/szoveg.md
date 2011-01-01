@@ -8,7 +8,7 @@ a következő törvényt alkotja:
 
 ### I. Fejezet — Általános rendelkezések
 
-1. § (1) A törvény hatálya a Horvát Köztársaságban, Romániában, a Szerb Köztársaságban, a Szlovák Köztársaságban, a Szlovén Köztársaságban vagy Ukrajnában (a továbbiakban: szomszédos állam) lakóhellyel rendelkező, nem magyar állampolgárságú, magát magyar nemzetiségűnek valló személyre terjed ki.
+1. § (1) A törvény hatálya a Horvát Köztársaságban, Romániában, a Szerb Köztársaságban, a Szlovák Köztársaságban, a Szlovén Köztársaságban vagy Ukrajnában (a továbbiakban: szomszédos állam) lakóhellyel rendelkező, magát magyar nemzetiségűnek valló személyre terjed ki.
 
 (2) Ha nemzetközi szerződés másként nem rendelkezik, a törvény hatálya az (1) bekezdésben meghatározott személlyel együtt élő házastársra és közös háztartásukban nevelt kiskorú gyermekre (a továbbiakban: hozzátartozó) akkor is kiterjed, ha magát nem vallja magyar nemzetiségűnek.
 
@@ -108,11 +108,11 @@ részt venni.
 
 ### Pedagógusok és oktatók támogatása
 
-11. § (1) Az 1. § (1) és (2) bekezdésének hatálya alá tartozó, alap- és középfokú oktatási intézményben tanító pedagógus az oktatásért felelős miniszter által meghatározott éves keretszám terhére jogosult magyarországi rendszeres továbbképzésben részt venni, és a (2) bekezdésben meghatározott kedvezményeket igénybe venni. Ha nemzetközi szerződés másként nem rendelkezik, részt vehet továbbá magyarországi intézmények által a szomszédos államban tartott, akkreditált és elismert rendszeres továbbképzésben, és igénybe veheti a (2) bekezdésben meghatározott támogatásokat.
+11. § (1) Az 1. § (1) és (2) bekezdésének hatálya alá tartozó, óvodai, alap- és középfokú oktatási intézményben tanító pedagógus az oktatásért felelős miniszter által meghatározott éves keretszám terhére jogosult magyarországi rendszeres továbbképzésben részt venni, és a (2) bekezdésben meghatározott kedvezményeket igénybe venni. Ha nemzetközi szerződés másként nem rendelkezik, részt vehet továbbá magyarországi intézmények által a szomszédos államban tartott, akkreditált és elismert rendszeres továbbképzésben, és igénybe veheti a (2) bekezdésben meghatározott támogatásokat.
 
 (2) Az (1) bekezdésben meghatározott személy a továbbképzést végző magyar oktatási intézménytől a továbbképzésben való részvétele tartamára a külön jogszabályban meghatározott mértékben
 
-- a) a szállásköltségének megtérítését,
+- a) a szállás- és étkezési költségének megtérítését,
 - b) az útiköltségének megtérítését, továbbá
 - c) a beiratkozási költségeihez történő hozzájárulást
 
@@ -120,7 +120,7 @@ igényelheti.
 
 (3) Az (1) bekezdésben meghatározott pedagógusok továbbképzésére vonatkozó részletes szabályokat külön jogszabály tartalmazza.
 
-12. § Az 1. § (1)–(2) bekezdésének hatálya alá tartozó, alap-, közép- és felsőfokú oktatási intézményben tanító pedagógus és oktató a Magyar Köztársaság területén pedagógus-, illetve oktatói kedvezményre jogosult. A kedvezményekre való jogosultságot az előírt módon érvényesített „Magyar igazolvány” és a „Magyar hozzátartozói igazolvány” igazolja. A kedvezményeket és az azok igénybevételével összefüggő részletes szabályokat külön jogszabály tartalmazza.
+12. § Az 1. § (1) és (2) bekezdésének hatálya alá tartozó, óvodai, alap-, közép- és felsőfokú oktatási intézményben tanító pedagógus és oktató a Magyar Köztársaság területén pedagógus-, illetve oktatói kedvezményre jogosult. A kedvezményekre való jogosultságot az előírt módon érvényesített „Magyar igazolvány” és a „Magyar hozzátartozói igazolvány” igazolja. A kedvezményeket és az azok igénybevételével összefüggő részletes szabályokat külön jogszabály tartalmazza.
 
 ### Határon túli kihelyezett képzés
 
@@ -132,7 +132,7 @@ Az ezek megvalósításához biztosítható pénzügyi támogatás összegét a 
 
 ### A szomszédos államokban nyújtható oktatási támogatás
 
-14. § (1) A szomszédos államban létrehozott, a magyar oktatás és kultúra ápolását céljának tekintő társadalmi szervezet közreműködésével az 1. § (1)–(2) bekezdésének hatálya alá tartozó, alap- és középfokú oktatási intézményben magyar nyelven vagy a magyar kultúra tárgyában tanulmányokat folytató kiskorúak nevelési, oktatási, valamint tankönyv és taneszköz támogatásban, továbbá a felsőoktatásban tanulók hallgatói támogatásban részesülnek.
+14. § (1) A szomszédos államban létrehozott, a magyar oktatás és kultúra ápolását céljának tekintő társadalmi szervezet közreműködésével az 1. § (1) és (2) bekezdésének hatálya alá tartozó, óvodai, alap- és középfokú oktatási intézményben magyar nyelven vagy a magyar kultúra tárgyában tanulmányokat folytató kiskorúak nevelési, oktatási, valamint tankönyv és taneszköz támogatásban, továbbá a felsőoktatásban tanulók hallgatói támogatásban részesülnek.
 
 (2) Kétoldalú megállapodás alapján a támogatás címzettje lehet az oktatási és nevelési intézmény mellett működő szülői, illetve pedagógus szövetség.
 
@@ -140,7 +140,7 @@ Az ezek megvalósításához biztosítható pénzügyi támogatás összegét a 
 
 ### Munkavállalás
 
-15. § Az 1. § (1) és (2) bekezdésének hatálya alá tartozó személynek a Magyar Köztársaság területén történő munkavállalására a külföldiek magyarországi foglalkoztatásának engedélyezésére vonatkozó általános szabályokat kell alkalmazni. Nemzetközi szerződés az általános szabályoktól eltérően rendelkezhet.
+15. § Az 1. § (1) és (2) bekezdésének hatálya alá tartozó, a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti harmadik országbeli állampolgárnak a Magyar Köztársaság területén történő munkavállalására a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésére vonatkozó általános szabályokat kell alkalmazni. Nemzetközi szerződés az általános szabályoktól eltérően rendelkezhet.
 
 16. §
 
@@ -178,17 +178,18 @@ Ezek az információk szolgálják
 - a) arcképes ,,Magyar igazolvány'' kiadását kérheti az 1. § (1) bekezdésének hatálya alá tartozó, magát magyar nemzetiségűnek valló személy, kiskorú esetén törvényes képviselője útján;
 - b) ha nemzetközi szerződés ettől eltérően nem rendelkezik arcképes ,,Magyar hozzátartozói igazolvány'' kiadását kérheti az 1. § (2) bekezdésének hatálya alá tartozó hozzátartozó (kiskorú esetén törvényes képviselője).
 
-(3) Kérelmére ,,Magyar igazolvány''-ra jogosult a (2) bekezdés a) pontjában meghatározott személy, aki
+(3) Kérelmére „Magyar igazolvány”-ra jogosult a (2) bekezdés a) pontjában meghatározott személy,
 
-- a) tud magyar nyelven, vagy
-- b) a lakóhelye szerinti állam
-  - ba) magát magyar nemzetiségűnek valló személyként tartja nyilván, vagy
-  - bb) területén működő, magyar nemzetiségű személyeket tömörítő szervezet nyilvántartott tagja, vagy
-  - bc) területén működő egyház nyilvántartásában magyar nemzetiségűként tartják számon.
+- a) aki magyar állampolgár, vagy
+- b) aki tud magyar nyelven, vagy
+- c) akit a lakóhelye szerinti állam
+  - ca) magát magyar nemzetiségűnek valló személyként tart nyilván, vagy
+  - cb) területén működő, magyar nemzetiségű személyeket tömörítő szervezet tagként nyilvántart, vagy
+  - cc) területén működő egyház nyilvántartásában magyar nemzetiségűként tartanak számon.
 
 (4) Nem jogosult ,,Magyar igazolvány''-ra az a kérelmező
 
-- a) aki már rendelkezik érvényes ,,Magyar igazolvány''-nyal, kivéve, ha a kérelmet az igazolvány adataiban bekövetkezett változás, az igazolvány elvesztése vagy megsemmisülése miatt terjesztette elő;
+- a) aki már rendelkezik érvényes „Magyar igazolvány”-nyal, vagy „Magyar hozzátartozói igazolvány”-nyal, kivéve, ha a kérelmet az igazolvány adataiban bekövetkezett változás, az igazolvány elvesztése vagy megsemmisülése miatt terjesztette elő;
 - b) aki beutazási és tartózkodási tilalom, illetőleg kiutasítás hatálya alatt áll;
 - c) aki nem rendelkezik a 20. § (2) bekezdésében meghatározott igazolással.
 
@@ -199,7 +200,7 @@ Ezek az információk szolgálják
 
 (6) Nem jogosult ,,Magyar hozzátartozói igazolvány''-ra az a hozzátartozó
 
-- a) aki már rendelkezik érvényes ,,Magyar hozzátartozói igazolvány''-nyal, kivéve, ha a kérelmet az igazolvány adataiban bekövetkezett változás miatt terjesztette elő;
+- a) aki már rendelkezik érvényes „Magyar hozzátartozói igazolvány”-nyal, vagy „Magyar igazolvány”-nyal, kivéve, ha a kérelmet az igazolvány adataiban bekövetkezett változás miatt terjesztette elő;
 - b) aki beutazási és tartózkodási tilalom vagy kiutasítás hatálya alatt áll;
 - c) aki nem rendelkezik a 20. § (3) bekezdésében meghatározott igazolással;
 - d) aki olyan magyar nemzetiségű személyre tekintettel kéri a ,,Magyar hozzátartozói igazolvány'' kiállítását,
@@ -207,40 +208,41 @@ Ezek az információk szolgálják
   - db) akinek a ,,Magyar igazolvány'' iránti kérelmét az elbíráló hatóság elutasította;
   - dc) akinek a ,,Magyar igazolvány''-a érvénytelen.
 
-20. § (1) A ,,Magyar igazolvány'', illetőleg a ,,Magyar hozzátartozói igazolvány'' iránti kérelemnek tartalmaznia kell
+20. § (1) A „Magyar igazolvány”, illetve a „Magyar hozzátartozói igazolvány” iránti kérelemnek tartalmaznia kell
 
 - a) a kérelmezőnek az igazolvány kiadására irányuló kérelmét, arcképét és lakcímét;
-- b) az igazolványban feltüntetésre kerülő személyes adatokat [21. § (5) bekezdés];
-- c) az eljárásban közreműködő magyar diplomáciai és konzuli képviselet megnevezését;
+- b) az igazolványban feltüntetésre kerülő személyes adatokat [21. § (3) bekezdés];
+- c) az eljárásban közreműködő magyar diplomáciai és konzuli képviselet megnevezését; valamint
 - d) az igazolás kiállításának helyét és idejét.
 
 (2) A ,,Magyar igazolvány''-t kérelmező számára a lakóhelye szerinti államban működő magyar diplomáciai és konzuli képviselet igazolást állít ki a 19. § (3) bekezdésében meghatározott feltétel teljesítése esetén.
 
 (3) A ,,Magyar hozzátartozói igazolvány''-t kérelmező számára a lakóhelye szerinti államban működő magyar diplomáciai és konzuli képviselet az igazolást akkor állítja ki, ha a kérelmező az 1. § (1) bekezdésének hatálya alá tartozó személlyel fennálló családi kapcsolatát igazolja.
 
-(4) A 19. § (3) bekezdés b) pontjában, továbbá a 19. § (5) bekezdés a) pontjában meghatározott feltételek fennállása okirattal igazolható. Ha a 19. § (3) bekezdésének b) pontjában foglalt feltétel fennállásának okirattal történő igazolása akadályba ütközik, a magyar diplomáciai és konzuli képviselet a feltétel fennállásáról tájékoztatást kérhet a szomszédos államban élő magyar nemzeti közösség által létrehozott társadalmi szervezettől.
+(4) A 19. § (3) bekezdés a) és c) pontjában, továbbá a 19. § (5) bekezdés a) pontjában meghatározott feltételek fennállása okirattal igazolható. Ha a 19. § (3) bekezdésének c) pontjában foglalt feltétel fennállásának okirattal történő igazolása akadályba ütközik, a magyar diplomáciai és konzuli képviselet a feltétel fennállásáról tájékoztatást kérhet a szomszédos államban élő magyar nemzeti közösség által létrehozott társadalmi szervezettől.
 
 (5) Ha az igazolás kiadásának feltételei sem okirattal, sem tájékoztatással nem igazolhatók, a magyar diplomáciai és konzuli képviselet igazolást nem állít ki, a kérelmet azonban ebben az esetben is továbbítja az elbíráló hatósághoz.
 
 21. § (1) Az igazolvány érvényét veszti:
 
 - a) ha az elbíráló hatóság visszavonja;
-- b) az igazolvány tulajdonosának halálával.
+- b) az igazolvány tulajdonosának halálával;
+- c) ha a tulajdonosának birtokából kikerült, illetve használatra alkalmatlanná vált.
 
 (2) Az elbíráló hatóság az igazolványt visszavonja, ha
 
-- a) az igazolvány tulajdonosa valótlan adatokat közölt az igazolás, illetőleg az igazolvány igénylése során;
-- b) annak tulajdonosa bevándorolt vagy letelepedett jogállást kapott;
-- c) annak tulajdonosa magyar állampolgárságot szerzett;
-- d) annak tulajdonosát a menekültügyi hatóság menekültként vagy menedékesként elismerte;
-- e) annak tulajdonosát a Magyar Köztársaság területéről kiutasították vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el;
-- f) az igazolványt jogosulatlanul használták fel vagy meghamisították;
-- g) a „Magyar hozzátartozói igazolvány”-ra jogosító családi kapcsolat megszűnt vagy attól a személytől, akire tekintettel a „Magyar hozzátartozói igazolvány”-t kérték „Magyar igazolvány”-át visszavonják;
+- a) az igazolvány tulajdonosa valótlan adatokat közölt az igazolás, illetve az igazolvány igénylése során; vagy
+- b) annak tulajdonosa bevándorolt vagy letelepedett jogállást kapott; vagy
+- c) annak tulajdonosa Magyarországon lakóhelyet létesített; vagy
+- d) annak tulajdonosát a menekültügyi hatóság menekültként, menedékesként elismerte; vagy
+- e) annak tulajdonosát a Magyar Köztársaság területéről kiutasították vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el; vagy
+- f) az igazolványt jogosulatlanul használták fel vagy meghamisították; vagy
+- g) a „Magyar hozzátartozói igazolvány”-ra jogosító családi kapcsolat megszűnt vagy attól a személytől, akire tekintettel a „Magyar hozzátartozói igazolvány”-t kérték „Magyar igazolvány”-át visszavonják; vagy
 - h) az igazolvány tulajdonosa ezt maga kéri.
 
 (3) Az igazolvány tartalmazza a jogosult
 
-- a) családi és utónevét (nőknél a leánykori családi és utónevet is), a lakóhelye szerinti szomszédos államban hivatalosan (latin betűs írásmóddal) használt módon, magyar nemzetiségű személy esetén magyarul is;
+- a) családi és utónevét (nőknél a születési családi és utónevet is), a lakóhelye szerinti szomszédos államban hivatalosan (latin betűs írásmóddal) használt módon, magyar nemzetiségű személy esetén magyarul is;
 - b) születési helyének a szomszédos államban hivatalosan használt és magyar megnevezését;
 - c) születési idejét, nemét;
 - d) anyja nevét a lakóhelye szerinti szomszédos államban hivatalosan (latin betűs írásmóddal) használt módon, magyar nemzetiségű személy esetén magyarul is;
@@ -253,16 +255,18 @@ Ezek az információk szolgálják
 
 (5) Ha az igazolvány melléklete a kedvezmények igénybevételre jogosító igazolások bejegyzésére alkalmatlanná vált, betelt, akkor az adott kedvezmény (utazási, diák-, pedagógus-) igénybevételére jogosító pótfüzetet kell kérvényezni, amely nem minősül új igazolvány iránti kérelemnek. A pótfüzetnek tartalmaznia kell a „Magyar igazolvány”, illetve a „Magyar hozzátartozói igazolvány” okmányszámát és a jogosult nevét. A pótfüzet a „Magyar igazolvány”, illetve a „Magyar hozzátartozói igazolvány” elválaszthatatlan részét képezi.
 
-(6) Az igazolvány hitelességének biztosítása, valamint a kedvezmények folyósításának ellenőrzése céljából az elbíráló hatóság (e rendelkezések alkalmazásában: adatkezelő szerv) nyilvántartást vezet az igazolványok adatairól, az igazolvány tulajdonosának külföldi lakóhelyéről, az igazolványra jogosító családi kapcsolatról, illetőleg a tartózkodásra jogosító engedélye számáról, továbbá a (2) bekezdésben meghatározott adatokról. Az adatkezelő szerv a nyilvántartásban tárolt adatokat az igazolvány visszavonásáig, illetőleg a tulajdonos haláláig kezelheti. A nyilvántartásban kezelt adatokból – a személyes adatok védelméről szóló nemzetközi egyezménnyel összhangban – adat továbbítható a jogosultság ellenőrzésére és a visszaélések megakadályozása céljából a kedvezményt, támogatást nyújtó szerv, a kedvezményeket és támogatásokat nyilvántartó szerv, a diplomáciai és konzuli képviseletek, továbbá a büntetőügyben eljáró bíróság, a bűnüldöző szervek, illetőleg az idegenrendészeti hatóság részére.
+(6) Az igazolvány hitelességének biztosítása, valamint a kedvezmények folyósításának ellenőrzése céljából az elbíráló hatóság (e rendelkezések alkalmazásában: adatkezelő szerv) nyilvántartást vezet az igazolványok adatairól, az igazolvány tulajdonosának külföldi lakóhelyéről, az igazolványra jogosító családi kapcsolatról, illetőleg a tartózkodásra jogosító engedélye számáról, továbbá a (2) bekezdésben meghatározott adatokról. Az adatkezelő szerv a nyilvántartásban tárolt adatokat az igazolvány visszavonásáig, illetőleg a tulajdonos haláláig kezelheti. A nyilvántartásban kezelt adatokból – a személyes adatok védelméről szóló nemzetközi egyezménnyel összhangban – adat továbbítható a jogosultság ellenőrzésére és a visszaélések megakadályozása céljából a kedvezményt, támogatást nyújtó szerv, a kedvezményeket és támogatásokat nyilvántartó szerv, a diplomáciai és konzuli képviseletek, továbbá a büntetőügyben eljáró bíróság, a bűnüldöző szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, illetve a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv részére.
 
 (6a) Az adatkezelő szerv a (6) bekezdés szerinti nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 (7) Az elbíráló hatóság a kérelem elbírálásához, illetőleg a visszavonási ok fennállásának vizsgálatához a következő szervektől igényelhet adatokat:
 
-- a) a központi idegenrendészeti nyilvántartásból arról, hogy a kérelmező kiutasításra irányuló eljárás alatt áll-e, továbbá a kiutasításról, illetőleg a beutazási és tartózkodási tilalom fennállásáról, valamint a magyarországi tartózkodásra jogosító engedély adatairól;
+- a) a központi idegenrendészeti nyilvántartásból a kiutasításról, illetőleg a beutazási és tartózkodási tilalom fennállásáról, valamint a magyarországi tartózkodásra jogosító engedély adatairól;
 - b) a személyiadat- és lakcímnyilvántartásból;
-- c) az állampolgársági ügyben eljáró szervtől a magyar állampolgárság megszerzése tekintetében;
+- c) az állampolgársági ügyben eljáró szervtől a magyar állampolgárság tekintetében;
 - d) a központi menekültügyi nyilvántartásból a menekültkénti vagy menedékeskénti elismerésről.
+
+(7a) Az idegenrendészeti hatóság a kiutasításról szóló jogerős határozata közlésével, illetve a beutazási és tartózkodási tilalom elrendelésével, a menekültügyi hatóság a menekültkénti, menedékeskénti elismerésről szóló jogerős határozata közlésével, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a magyarországi bejelentett lakóhely címét tartalmazó, a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásával egyidejűleg – ha az idegenrendészeti hatóság, a menekültügyi hatóság vagy a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a (6) bekezdés szerinti adatigénylés során megállapítja, hogy az eljárásával érintett személy szerepel a (6) bekezdés szerinti nyilvántartásban – az igazolvány visszavonása érdekében haladéktalanul értesíti az elbíráló hatóságot.
 
 22. § (1) Az elbíráló hatóság eljárására az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvény rendelkezései az irányadók. Az államigazgatási eljárás költségeit az állam viseli.
 
@@ -310,9 +314,9 @@ Ezek az információk szolgálják
 
 (2) E törvény rendelkezéseit a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésétől az Európai Unió közösségi vívmányaival összhangban kell alkalmazni.
 
-(3) Nemzetközi szerződés alapján a törvény 10. és 14. §-ában foglaltakat alkalmazni kell arra a személyre is, aki a szomszédos állam alap- vagy középfokú oktatási intézményében tanulói jogviszonyban áll és magyar nyelven tanul, továbbá arra a hallgatóra is, aki a szomszédos állam felsőoktatási intézményében magyar nyelven vagy a magyar kultúra tárgyában tanulmányokat folytat.
+(3) Nemzetközi szerződés alapján a 10. és 14. § rendelkezéseit alkalmazni kell arra a személyre is, aki a szomszédos állam óvodai, alap- vagy középfokú oktatási intézményében tanulói jogviszonyban áll és magyar nyelven tanul, továbbá arra a hallgatóra is, aki a szomszédos állam felsőoktatási intézményében magyar nyelven vagy a magyar kultúra tárgyában tanulmányokat folytat.
 
-(4) Nemzetközi szerződés alapján a törvény 11–12. §-aiban foglaltakat alkalmazni kell a szomszédos állam alap-, közép- vagy felsőfokú oktatási intézményében magyar nyelven vagy a magyar kultúra tárgyában oktató pedagógusra vagy oktatóra is.
+(4) Nemzetközi szerződés alapján a 11. és 12. § rendelkezéseit alkalmazni kell a szomszédos állam óvodai, alap-, közép- vagy felsőfokú oktatási intézményében magyar nyelven vagy a magyar kultúra tárgyában oktató pedagógusra vagy oktatóra is.
 
 (5) A (3) és (4) bekezdésben meghatározott kedvezményeket és az azok igénybevételével összefüggő részletes szabályokat külön jogszabály tartalmazza.
 
@@ -331,7 +335,7 @@ Ezek az információk szolgálják
 
 (3) A Kormány gondoskodik az e törvényben foglalt támogatások elbírálását és folyósítását végző magyar közhasznú szervezetek létrehozásáról, illetőleg az ilyen céllal már működő közhasznú szervezetek tevékenységének összehangolásáról, azok létesítő okiratának megfelelő módosításáról, továbbá ennek keretében a támogatások átcsoportosításáról, valamint a szomszédos államokban élő magyar nemzeti közösségek által létrehozott társadalmi szervezetekkel való együttműködés fenntartásáról.
 
-29. § (1) Az állampolgársági ügyekért felelős miniszter a nemzetpolitikáért felelős miniszterrel együttes rendeletben – az oktatási kedvezményekre vonatkozóan az oktatásért felelős miniszterrel egyetértésben – határozza meg a ,,Magyar igazolvány'' és a ,,Magyar hozzátartozói igazolvány'' tartalmi és formai követelményeire vonatkozó részletes szabályokat.
+29. § (1) Az állampolgársági ügyekért felelős miniszter a nemzetpolitikáért felelős miniszter egyetértésével kiadott rendeletben – az oktatási kedvezményekre vonatkozóan az oktatásért felelős miniszterrel egyetértésével is – határozza meg a ,,Magyar igazolvány'' és a ,,Magyar hozzátartozói igazolvány'' tartalmi és formai követelményeire vonatkozó részletes szabályokat.
 
 (2) A kultúráért felelős miniszter – a nemzetpolitikáért felelős miniszterrel egyetértésben – rendeletben határozza az állami fenntartású könyvtári, muzeális és közművelődési intézmények szolgáltatásainak igénybevételével kapcsolatos, az 1. § (1) és (2) bekezdésének hatálya alá tartozó személyeket, a 4. § (1)–(3) bekezdése alapján megillető kedvezmények igénybevételének, valamint a (3) bekezdés szerinti további kedvezmények részletes szabályait.
 

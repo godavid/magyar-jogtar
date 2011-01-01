@@ -61,7 +61,10 @@ végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – a
 
 4. § (1) A rehabilitációs járadék összege – a magánnyugdíj-pénztári tagságtól függetlenül – megegyezik a rokkantsági nyugdíj (III. rokkantsági csoport) összegének 120%-ával. A rehabilitációs járadék legkisebb összege megegyezik a rokkantsági nyugdíj legkisebb összegének (III. rokkantsági csoport) 120%-ával.
 
-(2) A rehabilitációs járadéknak az (1) bekezdés szerint megállapított összegét 50%-kal csökkenteni kell, ha kereső tevékenység folytatása esetén a rehabilitációs járadékban részesülő 3 egymást követő hónapra vonatkozó – a személyi jövedelemadóval és a Tny. 13. §-a (1) bekezdésének a) pontja szerinti járulékokkal csökkentett – keresetének, jövedelmének havi átlaga meghaladja a rokkantsági nyugdíj alapját képező havi átlagkereset összegének 90 százalékát, illetve annak a megállapítást követően a rendszeres nyugdíjemelés(ek) mértékével növelt összegét, de legalább a mindenkori kötelező legkisebb munkabér (minimálbér) összegét.
+(2) A rehabilitációs járadék összegét ötven százalékkal csökkenteni kell, ha kereső tevékenység folytatása esetén a rehabilitációs járadékban részesülő három egymást követő hónapra vonatkozó keresetének, jövedelmének havi átlaga meghaladja
+
+- a) a rehabilitációs járadék összegének kétszeresét és
+- b) a mindenkori kötelező legkisebb munkabér összegét.
 
 (3) A rehabilitációs járadék összegének meghatározása során a Tny.-nek a rokkantsági nyugdíj összegének meghatározására vonatkozó rendelkezéseit kell megfelelően alkalmazni azzal, hogy a 3. § (2) bekezdése szerint a jogosultsághoz szükséges szolgálati időbe beszámított rokkantsági, baleseti rokkantsági nyugdíj időtartamát figyelmen kívül kell hagyni. A rokkantsági nyugdíj felülvizsgálata során megállapított rehabilitációs járadék összege nem lehet kevesebb a jogosultság utolsó hónapjára járó rokkantsági nyugdíj összegénél.
 
@@ -76,11 +79,11 @@ végzett keresőtevékenységet és ott szerzett nettó keresetet, jövedelmet i
 
 ### Eljárási szabályok
 
-5. § (1) A rehabilitációs járadék iránti igény érvényesítésére, a jogorvoslatra, a jogalap nélkül felvett ellátás visszafizetésére és megtérítésére, valamint a járadékból történő levonásra – ha e törvény eltérően nem rendelkezik – a Tny. rendelkezéseit kell megfelelően alkalmazni.
+5. § (1) A rehabilitációs járadék iránti igény érvényesítésére, a jogorvoslatra, az ellátás megtérítésére, a jogalap nélkül felvett ellátás visszafizetésére és megtérítésére, valamint a járadékból történő levonásra – ha e törvény eltérően nem rendelkezik – a Tny. rendelkezéseit kell megfelelően alkalmazni.
 
 (2) A rehabilitációs járadékot a rehabilitációs járadék, illetve a rokkantsági nyugdíj igénylésére rendszeresített nyomtatványon vagy elektronikus űrlapon lehet igényelni.
 
-(3) A rehabilitációs járadékra való jogosultság elbírálásához az igénylő köteles a keresetéről, jövedelméről nyilatkozni, azt igazolni. A nyugdíjbiztosítási igazgatási szerv megkeresésére – ellenőrzés céljából – az állami adóhatóság tíz munkanapon belül közli a 3. § (1) bekezdésének ab) alpontjában meghatározott időtartamra vonatkozóan az igénylő keresetére, jövedelmére vonatkozó adatokat.
+(3) A rehabilitációs járadékra való jogosultság elbírálásához az igénylő köteles a keresetéről, jövedelméről nyilatkozni, azt igazolni. A nyugdíjbiztosítási igazgatási szerv megkeresésére – ellenőrzés céljából – az állami adóhatóság tizenöt napon belül közli a 3. § (1) bekezdésének ab) alpontjában meghatározott időtartamra vonatkozóan az igénylő keresetére, jövedelmére vonatkozó adatokat.
 
 (4) A rehabilitációs járadékkal kapcsolatos eljárás költség- és illetékmentes.
 
@@ -116,21 +119,21 @@ végzett keresőtevékenységet és ott szerzett nettó keresetet, jövedelmet i
 - c) az állami foglalkoztatási szerv által a rehabilitációs járadékban részesülőnek nyújtandó, külön jogszabályban meghatározott rehabilitációs szolgáltatásokat; valamint
 - d) a rehabilitációs járadékban részesülőnek az állami foglalkoztatási szervnél történő jelentkezései gyakoriságát, a kapcsolattartás módját.
 
-(3) A rehabilitációs járadék megállapítása esetén a nyugdíjbiztosítási igazgatási szerv határozatában felhívja a járadékban részesülőt az együttműködési kötelezettség teljesítésére, egyben tájékoztatja az együttműködési kötelezettség megszegésének jogkövetkezményeiről. A rehabilitációs járadékban részesülő a határozat közlésétől számított tizenöt munkanapon belül megkeresi az állami foglalkoztatási szervet a rehabilitációs megállapodás megkötése érdekében.
+(3) A rehabilitációs járadék megállapítása esetén a nyugdíjbiztosítási igazgatási szerv határozatában felhívja a járadékban részesülőt az együttműködési kötelezettség teljesítésére, egyben tájékoztatja az együttműködési kötelezettség megszegésének jogkövetkezményeiről. A rehabilitációs járadékban részesülő a határozat közlésétől számított húsz napon belül megkeresi az állami foglalkoztatási szervet a rehabilitációs megállapodás megkötése érdekében.
 
-(4) A rehabilitációs járadék megállapítása esetén a megállapító nyugdíjbiztosítási igazgatási szerv a határozatot közli az állami foglalkoztatási szervvel, és haladéktalanul értesíti a határozatnak a rehabilitációs járadékban részesülő személlyel történő közlésének időpontjáról, valamint annak jogerőre emelkedéséről. Az állami foglalkoztatási szerv legkésőbb a jogerőre emelkedésről szóló értesítést követő huszonkét munkanapon belül elkészíti és a rehabilitációs járadékra jogosulttal ismerteti a rehabilitációs megállapodásra tett javaslatát.
+(4) A rehabilitációs járadék megállapítása esetén a megállapító nyugdíjbiztosítási igazgatási szerv a határozatot közli az állami foglalkoztatási szervvel, és haladéktalanul értesíti a határozatnak a rehabilitációs járadékban részesülő személlyel történő közlésének időpontjáról, valamint annak jogerőre emelkedéséről. Az állami foglalkoztatási szerv legkésőbb a jogerőre emelkedésről szóló értesítést követő harminc napon belül elkészíti és a rehabilitációs járadékra jogosulttal ismerteti a rehabilitációs megállapodásra tett javaslatát.
 
 (5) A rehabilitációs megállapodás megkötése során figyelemmel kell lenni a rehabilitációs szükségletekre, valamint az adott térség munkaerő-piaci feltételeire is.
 
-(6) Amennyiben a rehabilitációs járadékban részesülő kereső tevékenységet folytat, akkor rehabilitációját elsősorban ennek keretében kell megkísérelni. Ennek érdekében az állami foglalkoztatási szerv megkeresi a foglalkoztatót. A foglalkoztató a megkeresést követő 10 munkanapon belül köteles konzultációt folytatni a rehabilitációs intézkedések lehetőségéről. Ha a foglalkoztató a szükséges rehabilitációs intézkedéseket vállalja, akkor a rehabilitációs megállapodást ennek alapulvételével kell megkötni.
+(6) Amennyiben a rehabilitációs járadékban részesülő kereső tevékenységet folytat, akkor rehabilitációját elsősorban ennek keretében kell megkísérelni. Ennek érdekében az állami foglalkoztatási szerv megkeresi a foglalkoztatót. A foglalkoztató a megkeresést követő tizenöt napon belül köteles konzultációt folytatni a rehabilitációs intézkedések lehetőségéről. Ha a foglalkoztató a szükséges rehabilitációs intézkedéseket vállalja, akkor a rehabilitációs megállapodást ennek alapulvételével kell megkötni.
 
-(7) A rehabilitációs megállapodás megkötését követően az állami foglalkoztatási szerv 3 munkanapon belül értesíti a nyugdíjbiztosítási igazgatási szervet.
+(7) A rehabilitációs megállapodás megkötését követően az állami foglalkoztatási szerv öt napon belül értesíti a nyugdíjbiztosítási igazgatási szervet.
 
 (8) Amennyiben a rehabilitációs megállapodás az állami foglalkoztatási szervnek a (4) bekezdésben foglaltak szerinti javaslattételét követő 30 napon belül nem kerül megkötésre, az állami foglalkoztatási szerv kezdeményezi a nyugdíjbiztosítási igazgatási szerv felé a járadéknak a 13. § (1) bekezdésének g) pontjában meghatározottak alapján történő megszüntetését.
 
 (9) A (3) és (8) bekezdésben meghatározott határidők elmulasztása esetén igazolási kérelem előterjeszthető. Ebben az esetben a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az igazolási kérelemre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-8. § (1) A rehabilitációs járadékban részesülő 10 munkanapon belül köteles értesíteni az állami foglalkoztatási szervet, ha
+8. § (1) A rehabilitációs járadékban részesülő tizenöt napon belül köteles értesíteni az állami foglalkoztatási szervet, ha
 
 - a) az egészségi állapotában tartós rosszabbodás következett be, illetve
 - b) kereső tevékenységet folytat, vagy keresete, jövedelme megváltozott, illetve
@@ -188,12 +191,14 @@ miatt következett be.
 - b) a rehabilitációs járadékban részesülő kérte,
 - c) az ellátás időtartama eltelt,
 - d) a rehabilitációs járadékban részesülő három naptári hónapot meghaladóan, egybefüggően külföldön tartózkodik, vagy bejelentett magyarországi lakóhelye megszűnik,
-- e) kereső tevékenység folytatása esetén a rehabilitációs járadékban részesülő 6 egymást követő hónapra vonatkozó – a személyi jövedelemadóval és a Tny. 13. §-a (1) bekezdésének a) pontja szerinti járulékokkal csökkentett – keresetének, jövedelmének havi átlaga meghaladja a rokkantsági nyugdíj alapját képező havi átlagkereset összegének 90 százalékát, illetve annak a megállapítást követően a rendszeres nyugdíjemelés(ek) mértékével növelt összegét, de legalább a mindenkori kötelező legkisebb munkabér (minimálbér) összegét,
+- e) kereső tevékenység folytatása esetén a rehabilitációs járadékban részesülő hat egymást követő hónapra vonatkozó keresetének, jövedelmének havi átlaga meghaladja
+  - ea) a rehabilitációs járadék – 4. § (2) bekezdése szerinti csökkentést megelőzően folyósított – összegének kétszeresét és
+  - eb) a mindenkori kötelező legkisebb munkabér összegét,
 - f) a rehabilitációs járadékban részesülő egészségi állapotában olyan tartós rosszabbodás következett be, amely a rehabilitációt lehetetlenné teszi,
 - g) a rehabilitációs járadékban részesülő az együttműködési kötelezettségét, illetve a rehabilitációs megállapodásban foglalt kötelezettségeit neki felróható okból nem teljesíti, vagy
 - h) a rehabilitációs járadékban részesülő foglalkoztatására ismételten a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában került sor.
 
-(2) Az állami foglalkoztatási szerv az (1) bekezdés a) és d) és f)–g) pontjában meghatározott feltételek bekövetkezése esetén öt munkanapon belül értesíti nyugdíjbiztosítási igazgatási szervet.
+(2) Az állami foglalkoztatási szerv az (1) bekezdés a) és d) és f)–g) pontjában meghatározott feltételek bekövetkezése esetén nyolc napon belül értesíti nyugdíjbiztosítási igazgatási szervet.
 
 (3) A 4. § (2) bekezdésében meghatározottak, valamint az (1) bekezdés e) pontjában foglalt megszüntetési ok fennállásának vizsgálata céljából az állami adóhatóság az adózás rendjéről szóló 2003. évi XCII. törvény 31. §-ának (2) bekezdése szerinti bevallás alapján a rehabilitációs járadékban részesülő keresetére, jövedelmére vonatkozó adatokat havonta, a bevallásra előírt határidőt követő hónap utolsó napjáig továbbítja a nyugdíjbiztosítási igazgatási szervhez. Az így továbbított adatok törléséről a nyugdíjbiztosítási igazgatási szerv a továbbítást követő hetedik hónap utolsó napjáig gondoskodik.
 
@@ -251,7 +256,7 @@ vonatkozó adatokat – ha törvény eltérően nem rendelkezik – az ellátás
 
 (2) E törvény rendelkezéseit a 2007. december 31-ét követően benyújtott igénybejelentés – ideértve az állapotrosszabbodás miatti igénybejelentést is – esetén kell alkalmazni.
 
-(3) Annak az egészségkárosodást szenvedett személynek, aki 2011. december 31-éig a rá irányadó – a Tny.-ben meghatározott – nyugdíjkorhatárt öt éven belül eléri, és a rehabilitációs járadékra megállapított jogosultsági feltételeknek megfelel
+(3) Annak az egészségkárosodást szenvedett személynek, aki 2011. december 31-éig a rá irányadó – a Tny.-ben meghatározott – nyugdíjkorhatárt tíz éven belül eléri, és a rehabilitációs járadékra megállapított jogosultsági feltételeknek megfelel
 
 - a) 2007. december 31-ét követően benyújtott igénybejelentés esetén, valamint
 - b) 2007. december 31-én rokkantsági nyugdíjban részesülő személy esedékes felülvizsgálata során
@@ -264,7 +269,12 @@ kérelmére rokkantsági nyugdíjat kell megállapítani.
 
 (6) A 2007. december 31-én rokkantsági, baleseti rokkantsági nyugdíjban részesülő személyeknél 2008. január 1-jétől a Tny.-nek az e törvény 18. §-ával megállapított 36/D. §-a (2) bekezdésében, valamint 36/G. §-a (2) bekezdésében foglaltakat is alkalmazni kell.
 
-31–32. §
+31. § Ha a rehabilitációs járadék ellátásnak a 10. § (1) és (2) bekezdése szerint megállapított, illetve meghosszabbított időtartama 2011. évben telik le, de a rehabilitáció még nem fejeződött be, a rehabilitáció sikeres megvalósulásának érdekében – a rehabilitációs szakértői szerv szakhatósági állásfoglalása alapján – az időtartam egy alkalommal meghosszabbítható, de az ellátás teljes időtartama ebben az esetben sem haladhatja meg a 4 évet.
+
+32. § E törvénynek az egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2010. évi CLXX. törvénnyel
+
+- a) megállapított 4. § (2) bekezdését és 13. § (1) bekezdés e) pontját a 2010. december 31-ét követően szerzett keresetre, jövedelemre kell alkalmazni,
+- b) módosított 30. § (3) bekezdését a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 
 33. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
 
@@ -273,5 +283,7 @@ kérelmére rokkantsági nyugdíjat kell megállapítani.
 - c) a komplex minősítésre vonatkozó részletes eljárási szabályokat.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a nyugdíjbiztosítási igazgatási szervet vagy szerveket, valamint a rehabilitációs szakértői, illetve orvosszakértői szervet vagy szerveket, továbbá rendeletben határozza meg a szakértői szervek eljárásának és a felülvizsgálat rendjét.
+
+(3) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy rendeletben állapítsa meg az egészségkárosodás minősítésére, illetve a komplex minősítésre vonatkozó részletes szakmai szabályokat.
 
 34. § E törvény a Tanácsnak a férfiakkal és nőkkel való egyenlő bánásmód elvének a szociális biztonság területén történő fokozatos megvalósításáról szóló 79/7/EGK irányelvével összeegyeztethető szabályozást tartalmaz.

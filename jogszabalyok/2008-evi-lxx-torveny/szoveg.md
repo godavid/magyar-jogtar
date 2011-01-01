@@ -117,7 +117,7 @@ Az Országgyűlés a villamos energiáról szóló 2007. évi LXXXVI. törvény 
 
 (2) Amennyiben az eladó villamosenergia-termelő teljesítményét a 2009. évre történő értékesítés során a 8. § (1) bekezdés a) pontja szerint visszatartja, a Hivatal a 8. § rendelkezéseit azzal az eltéréssel alkalmazza, hogy a 6. § (1) bekezdése szerinti határozatában az 5. § (1) bekezdése szerint csökkentett összeget nem állapítja meg. Ebben az esetben a Hivatal a 6. § (1) bekezdés a) pontja szerinti összeg befizetésére kötelezi az eladót.
 
-(3) Az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendelet 28. §-ában meghatározott jelentéstételi kötelezettséget – a Hivatal minden tárgyévet követő év április 30-áig megküldött adatszolgáltatása alapján – a pénzügyminiszter teljesíti az Európai Bizottság felé.
+(3) Az Európai Közösséget létrehozó Szerződés 87. cikkének (1) bekezdése szerinti állami támogatásokkal kapcsolatos eljárásról és regionális támogatási térképről szóló 85/2004. (IV. 19.) Korm. rendelet 28. §-ában meghatározott jelentéstételi kötelezettséget – a Hivatal minden tárgyévet követő év április 30-áig megküldött adatszolgáltatása alapján – az államháztartásért felelős miniszter teljesíti az Európai Bizottság felé.
 
 (4) A 2. § 1. pontjában foglalt átállási költséggel való csökkentésre csak annak Európai Bizottság általi előzetes jóváhagyását követően kerülhet sor.
 

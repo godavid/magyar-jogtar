@@ -86,11 +86,11 @@ terület lehet.
 
 7. § (1) Árutermő, törzs- és kísérleti célú borszőlőt telepíteni, illetve kivágni a mezőgazdasági és vidékfejlesztési támogatási szerv engedélyével lehet. A telepítéskori tőkeszám 25%-ot meghaladó hiányának pótlása, vagy az ültetvény más fajtára történő cseréje esetén a telepítésre vonatkozó rendelkezéseket kell alkalmazni. Az engedélyezési eljárás részletes szabályait az e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
 
-(2) Az engedély iránti kérelmet hegyközségi településen a hegybíróhoz, nem hegyközségi településen az e törvény felhatalmazása alapján kiadott rendeletben meghatározott hegyközségi település hegybírájához kell benyújtani, aki azt javaslatával együtt 8 munkanapon belül továbbítja a mezőgazdasági és vidékfejlesztési támogatási szervnek.
+(2) Az engedély iránti kérelmet hegyközségi településen a hegybíróhoz, nem hegyközségi településen az e törvény felhatalmazása alapján kiadott rendeletben meghatározott hegyközségi település hegybírájához kell benyújtani, aki azt javaslatával együtt tíz napon belül továbbítja a mezőgazdasági és vidékfejlesztési támogatási szervnek.
 
 (3) A mezőgazdasági és vidékfejlesztési támogatási szerv az engedélyekről nyilvántartást vezet, amelyből havonta adatot szolgáltat a földmérési és térinformatikai államigazgatási szerv részére, amely rögzíti azokat a VINGIS-ben.
 
-8. § (1) Telepítés vagy kivágás esetén annak megtörténtét az engedélyes 10 munkanapon belül köteles az ültetvény fekvése szerint illetékes hegybíró részére írásban bejelenteni. A hegybíró a bejelentést 8 munkanapon belül továbbítja a növénytermesztési hatóság részére.
+8. § (1) Telepítés vagy kivágás esetén annak megtörténtét az engedélyes tizenöt napon belül köteles az ültetvény fekvése szerint illetékes hegybíró részére írásban bejelenteni. A hegybíró a bejelentést tíz napon belül továbbítja a növénytermesztési hatóság részére.
 
 (2) A bejelentés alapján a művelettel érintett területet a növénytermesztési hatóság ellenőrzi. Az ellenőrzésről szóló jegyzőkönyvet megküldi a hegybíró, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv részére.
 
@@ -236,13 +236,13 @@ terület lehet.
 
 (6) Továbbfeldolgozás céljára a Magyar Köztársaság területére behozott bor esetén a származási bizonyítványt a bor tárolási helye szerint illetékes hegybíró állítja ki, a borkísérő okmányok alapján.
 
-(7) A forgalomba hozatali engedéllyel rendelkező, de továbbfeldolgozásra szánt bor esetén a származási bizonyítványt a forgalomba hozatali engedély helyettesíti. A forgalomba hozatali engedéllyel rendelkező, de továbbfeldolgozásra szánt bornak az e törvény felhatalmazása alapján kiadott rendeletben meghatározott adatait a továbbfeldolgozás megkezdése előtt 3 munkanappal a borászati üzem köteles írásban megküldeni a borászati hatóságnak.
+(7) A forgalomba hozatali engedéllyel rendelkező, de továbbfeldolgozásra szánt bor esetén a származási bizonyítványt a forgalomba hozatali engedély helyettesíti. A forgalomba hozatali engedéllyel rendelkező, de továbbfeldolgozásra szánt bornak az e törvény felhatalmazása alapján kiadott rendeletben meghatározott adatait a továbbfeldolgozás megkezdése előtt öt nappal a borászati üzem köteles írásban megküldeni a borászati hatóságnak.
 
 (8) Nem minősül a borászati termék továbbfeldolgozásának a változatlan formában történő palackozás, illetve tárolás céljából történő átvétel, illetve vásárlás.
 
 (9) Továbbfeldolgozás, illetve kiszerelés céljából a Magyar Köztársaság területére behozott bor készletváltozásáról a borászati üzem adatot szolgáltat a borászati üzem helye szerint illetékes hegybíró részére. Az adatszolgáltatás a borászati üzem nevére, adószámára, a származási ország nevére, a behozott bor mennyiségére és kategóriájára terjed ki. Az adatszolgáltatás részletes szabályait az e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
 
-(10) A hegybíró a (9) bekezdésben meghatározott adatokat 10 munkanapon belül továbbítja a borászati hatóság részére.
+(10) A hegybíró a (9) bekezdésben meghatározott adatokat tizenöt napon belül továbbítja a borászati hatóság részére.
 
 ### Forgalomba hozatal
 
@@ -392,9 +392,9 @@ látják el.
 
 42. §
 
-43. § (1) Amennyiben a növénytermesztési hatóság ellenőrzése során megállapítja, hogy szőlőültetvényen engedély nélkül fajtaváltást vagy borszőlőültetvényen engedély nélkül a 7. § (1) bekezdése szerinti pótlást (e §, valamint a 43/A–43/C. § vonatkozásában a továbbiakban: pótlás) végeztek, tájékoztatja a mezőgazdasági és vidékfejlesztési támogatási szervet az általa észlelt jogsértésről. A mezőgazdasági és vidékfejlesztési támogatási szerv az értesítés kézhezvételétől számított 10 munkanapon belül határidő megjelölésével felszólítja a fajtaváltást vagy pótlást végzőt, hogy – a 7. § (2) bekezdésében meghatározott eljárásrend szerint – nyújtsa be a fennmaradási engedély iránti kérelmét a borszőlőültetvény utólagos engedélyezése céljából.
+43. § (1) Amennyiben a növénytermesztési hatóság ellenőrzése során megállapítja, hogy szőlőültetvényen engedély nélkül fajtaváltást vagy borszőlőültetvényen engedély nélkül a 7. § (1) bekezdése szerinti pótlást (e §, valamint a 43/A–43/C. § vonatkozásában a továbbiakban: pótlás) végeztek, tájékoztatja a mezőgazdasági és vidékfejlesztési támogatási szervet az általa észlelt jogsértésről. A mezőgazdasági és vidékfejlesztési támogatási szerv az értesítés kézhezvételétől számított tizenöt napon belül határidő megjelölésével felszólítja a fajtaváltást vagy pótlást végzőt, hogy – a 7. § (2) bekezdésében meghatározott eljárásrend szerint – nyújtsa be a fennmaradási engedély iránti kérelmét a borszőlőültetvény utólagos engedélyezése céljából.
 
-(2) Amennyiben az ültetvény nem felel meg a jogszabályi előírásoknak, a fajtaváltást vagy pótlást végző a fennmaradási engedély iránti kérelemben vállalhatja, hogy az ültetvényt a jogszabályi előírásoknak megfelelően átalakítja. A mezőgazdasági és vidékfejlesztési támogatási szerv az átalakítást úgy engedélyezi, hogy a fajtaváltást vagy pótlást végző azt a határozat jogerőre emelkedésétől számított egy éven belül köteles elvégezni, és annak megtörténtét követő 22 munkanapon belül bejelenteni a növénytermesztési hatósághoz. A növénytermesztési hatóság az átalakított ültetvényt ellenőrzi, és annak eredményéről értesíti a mezőgazdasági és vidékfejlesztési támogatási szervet.
+(2) Amennyiben az ültetvény nem felel meg a jogszabályi előírásoknak, a fajtaváltást vagy pótlást végző a fennmaradási engedély iránti kérelemben vállalhatja, hogy az ültetvényt a jogszabályi előírásoknak megfelelően átalakítja. A mezőgazdasági és vidékfejlesztési támogatási szerv az átalakítást úgy engedélyezi, hogy a fajtaváltást vagy pótlást végző azt a határozat jogerőre emelkedésétől számított egy éven belül köteles elvégezni, és annak megtörténtét követő harminc napon belül bejelenteni a növénytermesztési hatósághoz. A növénytermesztési hatóság az átalakított ültetvényt ellenőrzi, és annak eredményéről értesíti a mezőgazdasági és vidékfejlesztési támogatási szervet.
 
 (3) A (2) bekezdésben meghatározott egyéves határidő a fajtaváltást vagy pótlást végző kérelmére hat hónappal meghosszabbítható az alábbi esetek bekövetkezése esetén:
 
@@ -410,7 +410,7 @@ látják el.
 
 (7) Az (1) bekezdés szerinti borszőlőültetvényről származó borszőlőre csak az utólagos engedélyezés esetén adható származási bizonyítvány.
 
-43/A. § (1) Amennyiben a növénytermesztési hatóság ellenőrzése során megállapítja, hogy az ültetvényt engedély nélkül vágták ki, erről tájékoztatja a mezőgazdasági és vidékfejlesztési támogatási szervet. A mezőgazdasági és vidékfejlesztési támogatási szerv az értesítés kézhezvételétől számított 10 munkanapon belül határidő megjelölésével felszólítja a kivágást végző személyt, hogy – a 7. § (2) bekezdésében meghatározott eljárásrend szerint – nyújtsa be a kivágási engedély iránti kérelmét a kivágás utólagos engedélyezése céljából.
+43/A. § (1) Amennyiben a növénytermesztési hatóság ellenőrzése során megállapítja, hogy az ültetvényt engedély nélkül vágták ki, erről tájékoztatja a mezőgazdasági és vidékfejlesztési támogatási szervet. A mezőgazdasági és vidékfejlesztési támogatási szerv az értesítés kézhezvételétől számított tizenöt napon belül határidő megjelölésével felszólítja a kivágást végző személyt, hogy – a 7. § (2) bekezdésében meghatározott eljárásrend szerint – nyújtsa be a kivágási engedély iránti kérelmét a kivágás utólagos engedélyezése céljából.
 
 (2) Amennyiben a mezőgazdasági és vidékfejlesztési támogatási szerv az eljárása során azt állapítja meg, hogy a kivágás az előírt követelményeknek megfelel, a kivágást utólagosan engedélyezi.
 
@@ -565,7 +565,7 @@ látják el.
 - n) a Bor Eredetvédelmi Tanács összetételével, működésével és eljárásával kapcsolatos részletes szabályokat;
 - o) a szőlő- és borágazat szakmaközi szervezetének elismerési rendjét.
 
-(2) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel együttes rendeletben a borászati termékek kötelező egységes bizonylatolási, nyilvántartási és elszámolási rendjét szabályozza.
+(2) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben a borászati termékek kötelező egységes bizonylatolási, nyilvántartási és elszámolási rendjét szabályozza.
 
 (3) Felhatalmazást kap a Kormány, hogy
 

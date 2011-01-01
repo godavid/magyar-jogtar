@@ -36,7 +36,7 @@ A Magyar Köztársaság Alkotmányában meghatározott művelődéshez való jog
 
 (3) Az iskolában gondoskodni kell az alapvető erkölcsi ismeretek elsajátíttatásáról. Az állami és a helyi önkormányzati iskolák tananyagában biztosítani kell a vallások erkölcsi és művelődéstörténeti tartalmának tárgyszerű és elfogulatlan ismertetését.
 
-(4) Az állami és a helyi önkormányzati nevelési-oktatási intézményben lehetővé kell tenni, hogy a gyermek, illetőleg a tanuló az egyházi jogi személy által szervezett fakultatív hit- és vallásoktatásban vegyen részt. Az egyházi jogi személy a hit- és vallásoktatást óvodában a szülők, iskolákban és kollégiumban a tanulók és a szülők igénye szerint szervezheti. A hit- és vallásoktatás az óvodában az óvodai foglalkozásoktól elkülönítve, az óvodai életrendet figyelembe véve, az iskolában pedig oly módon szervezhető, hogy alkalmazkodjon a kötelező tanórai foglalkozások rendjéhez. A hit- és vallásoktatás tartalmának meghatározása, a hitoktató alkalmazása és ellenőrzése, a hit- és vallásoktatással összefüggő igazgatási cselekmények végzése, így különösen a hit- és vallásoktatásra való jelentkezés megszervezése, előmeneteli értesítések, bizonyítványok kiadása, a foglalkozások ellenőrzése az egyházi jogi személy feladata. Az iskola, a kollégium, illetve az óvoda – a nevelési-oktatási intézményben rendelkezésre álló eszközökből – köteles biztosítani a hit- és vallásoktatáshoz szükséges tárgyi feltételeket, így különösen a helyiségek rendeltetésszerű használatát, valamint a jelentkezéshez és működéshez szükséges feltételeket. Az egyházi jogi személy által foglalkoztatott hitoktató alkalmazásakor az e törvény 17. §-ában foglaltakat nem kell alkalmazni. Az óvoda, az iskola és a kollégium az egyházi jogi személy által szervezett fakultatív hit- és vallásoktatással kapcsolatos feladatok ellátása során együttműködik az érdekelt egyházi jogi személlyel.
+(4) Az állami és a helyi önkormányzati nevelési-oktatási intézményben lehetővé kell tenni, hogy a gyermek, illetőleg a tanuló az egyházi jogi személy által szervezett fakultatív hit- és vallásoktatásban vegyen részt. Az egyházi jogi személy a hit- és vallásoktatást óvodában a szülők, iskolákban és kollégiumban a tanulók és a szülők igénye szerint szervezheti. A hit- és vallásoktatás az óvodában az óvodai foglalkozásoktól elkülönítve, az óvodai életrendet figyelembe véve – a nyitvatartási időn belül, de nevelési időnek nem minősülő időkeretben –, az iskolában pedig oly módon szervezhető, hogy alkalmazkodjon a kötelező tanórai foglalkozások rendjéhez. A hit- és vallásoktatás tartalmának meghatározása, a hitoktató alkalmazása és ellenőrzése, a hit- és vallásoktatással összefüggő igazgatási cselekmények végzése, így különösen a hit- és vallásoktatásra való jelentkezés megszervezése, előmeneteli értesítések, bizonyítványok kiadása, a foglalkozások ellenőrzése az egyházi jogi személy feladata. Az iskola, a kollégium, illetve az óvoda – a nevelési-oktatási intézményben rendelkezésre álló eszközökből – köteles biztosítani a hit- és vallásoktatáshoz szükséges tárgyi feltételeket, így különösen a helyiségek rendeltetésszerű használatát, valamint a jelentkezéshez és működéshez szükséges feltételeket. Az egyházi jogi személy által foglalkoztatott hitoktató alkalmazásakor az e törvény 17. §-ában foglaltakat nem kell alkalmazni. Az óvoda, az iskola és a kollégium az egyházi jogi személy által szervezett fakultatív hit- és vallásoktatással kapcsolatos feladatok ellátása során együttműködik az érdekelt egyházi jogi személlyel.
 
 (5) Az államnak jogi lehetőséget kell teremtenie ahhoz, hogy nem állami, illetve nem önkormányzati óvodák, iskolák és kollégiumok jöhessenek létre. Az állam és a helyi önkormányzat azonban ilyen óvodák, iskolák és kollégiumok alapítására és fenntartására nem köteles.
 
@@ -445,7 +445,7 @@ eltöltött idő is, ha a pályázó rendelkezik legalább három év – az (5)
 
 (5) Azt, akit munkaviszonyban, közalkalmazotti jogviszonyban pedagógus-munkakörben foglalkoztatnak, továbbá, akit pedagógus-munkakörből helyeztek nyugállományba, megilleti az a jog, hogy az állami szervek és a helyi önkormányzatok által fenntartott könyvtárakat, múzeumokat és más kiállító termeket jogszabályban meghatározott kedvezmények igénybevételével látogassa. E jogosultságot a munkáltató, illetve nyugdíjas esetén az utolsó munkáltató által kiállított okirattal kell igazolni. Az okirat felmutatásával igazolhatja a pedagógus azt is, hogy jogosult igénybe venni a pedagógusok részére jogszabály vagy helyi önkormányzat által biztosított más kedvezményeket. Az igazolvány közokirat. Az igazolvány-nyomtatvány előállításához és forgalmazásához az oktatásért felelős miniszter engedélye szükséges.
 
-(6) Azt, akit munkaviszonyban, közalkalmazotti jogviszonyban pedagógus munkakörben foglalkoztatnak, megilleti az a jog, hogy szakirodalom (könyv, tankönyv, jegyzet, folyóirat, elektronikus ismerethordozók stb.) vásárlásához, illetve a könyvtári beiratkozáshoz – jogszabályban meghatározottak szerint – évenként az éves költségvetési törvényben megállapított összegnek megfelelő hozzájárulást vegyen igénybe.
+(6)
 
 (7) A pedagógus alapvető feladata a rábízott gyermekek, tanulók nevelése, tanítása. Ezzel összefüggésben kötelessége különösen, hogy
 
@@ -1587,7 +1587,7 @@ fegyelmi büntetés szabható ki.
 
 (7) A közoktatási megállapodást a helyben szokásos módon közzé kell tenni.
 
-(8) Az oktatásért felelős miniszter is köthet közoktatási megállapodást akkor, ha a közoktatási intézmény térségi vagy országos feladatot lát el, feltéve, hogy a közoktatási intézmény fenntartója – az (1) bekezdés e) pontja szerint – sikertelenül kezdeményezte a közoktatási megállapodás megkötését.
+(8) Az oktatásért felelős miniszter is köthet közoktatási megállapodást akkor, ha a közoktatási intézmény térségi vagy országos, vagy a pedagógiai programja szerint kiemelkedő jelentőségű feladatot lát el, feltéve, hogy a közoktatási intézmény fenntartója – az (1) bekezdés e) pontja szerint – sikertelenül kezdeményezte a közoktatási megállapodás megkötését.
 
 (9) Szakközépiskola vagy szakiskola esetén az oktatásért felelős miniszter a szakképesítésért felelős miniszterrel egyetértésben köthet közoktatási megállapodást.
 
@@ -1664,7 +1664,7 @@ fegyelmi büntetés szabható ki.
 
 (2) Az iskolaszék és a diákönkormányzat, szülői szervezet (közösség) jogainak megsértése esetén jogainak megsértése esetén tizenöt napon belül a fenntartóhoz törvényességi kérelmet nyújthat be. A fenntartó döntése ellen — a (3) bekezdésben meghatározott kivétellel — az (1) bekezdésben foglaltak szerint a bírósághoz lehet fordulni.
 
-(3) Ha az (1)—(2) bekezdés szerinti döntést a fenntartó önkormányzat képviselő-testülete (közgyűlése) hozta, a közigazgatási hivatalnál törvényességi ellenőrzést lehet kezdeményezni.
+(3) Ha az (1)—(2) bekezdés szerinti döntést a fenntartó önkormányzat képviselő-testülete (közgyűlése) hozta, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnél törvényességi ellenőrzést lehet kezdeményezni.
 
 (4) A 83. § (8) bekezdésében és az (1)—(2) bekezdésben meghatározott bírósági ügyekben a Polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetét kell alkalmazni. A bíróság a döntést megváltoztathatja. A bíróság az ügyet soron kívül bírálja el.
 
@@ -1678,7 +1678,7 @@ fegyelmi büntetés szabható ki.
 
 (9) A semmisség megállapítását az kérheti, akit a döntés érint, ha pedig ez nem állapítható meg, bárki kérheti. A semmisség megállapítása határidő nélkül kezdeményezhető, feltéve, hogy a (8) bekezdésben meghatározott esetben a döntéshozóval folytatott előzetes egyeztető eljárás nem vezetett eredményre.
 
-(10) Ha a döntést helyi önkormányzat, illetve szervei hozták, a közigazgatási hivatal a helyi önkormányzatokról szóló törvény 98. §-a (2) bekezdésének a) pontja alapján a törvényességi ellenőrzési jogkörében állapíthatja meg a semmisség fennállását. Ha a közigazgatási hivatal eljárása nem vezetett eredményre, a döntést a helyi önkormányzatokról szóló törvény rendelkezései alapján megtámadhatja a bíróság előtt. A közigazgatási hivatal kérheti a bíróságtól a semmisség megállapítását és az e törvényben meghatározott jogkövetkezmények alkalmazását.
+(10) Ha a döntést helyi önkormányzat, illetve szervei hozták, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv a helyi önkormányzatokról szóló törvény 98. §-a (2) bekezdésének a) pontja alapján a törvényességi ellenőrzési jogkörében állapíthatja meg a semmisség fennállását. Ha a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv eljárása nem vezetett eredményre, a döntést a helyi önkormányzatokról szóló törvény rendelkezései alapján megtámadhatja a bíróság előtt. A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv kérheti a bíróságtól a semmisség megállapítását és az e törvényben meghatározott jogkövetkezmények alkalmazását.
 
 (11) A semmisség megállapítására indított eljárásban a döntéshozónak kell bizonyítania, hogy nem áll fenn a semmisségi ok.
 
@@ -1945,7 +1945,7 @@ abban az esetben, ha a községi, városi, fővárosi kerületi önkormányzat a
 
 (3) Az oktatásért felelős miniszter a pedagógus-továbbképzés programjai jóváhagyásával összefüggő döntés-előkészítés céljából Pedagógus-továbbképzési Akkreditációs Testületet hoz létre. A Pedagógus-továbbképzési Akkreditációs Testület létrehozásáról és működéséről jogszabály rendelkezik. A Pedagógus-továbbképzési Akkreditációs Testület évente legalább két alkalommal tájékoztatja működéséről az Országos Pedagógus-továbbképzési Bizottságot.
 
-(4) Az oktatásért felelős miniszter köteles a helyi önkormányzatokról szóló 1990. évi LXV. törvény 97. §-ának c) pontjában meghatározott jogköre alapján kezdeményezni a közigazgatási hivatalnál, hogy határidő kitűzésével hívja fel az érintett helyi önkormányzatot a közoktatás feladatainak ellátásával összefüggő törvénysértés megszüntetésére, és amennyiben a felhívás nem vezet eredményre – az ügy jellegétől függően –, indítson eljárást az Állami Számvevőszéknél, az Alkotmánybíróságnál, illetve a bíróságnál.
+(4) Az oktatásért felelős miniszter köteles a helyi önkormányzatokról szóló 1990. évi LXV. törvény 97. §-ának c) pontjában meghatározott jogköre alapján kezdeményezni a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnél, hogy határidő kitűzésével hívja fel az érintett helyi önkormányzatot a közoktatás feladatainak ellátásával összefüggő törvénysértés megszüntetésére, és amennyiben a felhívás nem vezet eredményre – az ügy jellegétől függően –, indítson eljárást az Állami Számvevőszéknél, az Alkotmánybíróságnál, illetve a bíróságnál.
 
 (5) Az oktatásért felelős miniszter, ha megítélése szerint a közoktatási intézmény működése, működtetése jogsértő, tájékoztatja a jegyzőt, főjegyzőt, hogy a nem helyi önkormányzatok által fenntartott közoktatási intézmények tekintetében gyakorolni tudja az e törvény 80. §-ában meghatározott jogkörét.
 
@@ -1972,7 +1972,7 @@ abban az esetben, ha a községi, városi, fővárosi kerületi önkormányzat a
 (2) Az oktatásért felelős miniszter az (1) bekezdésben meghatározott jogkörét
 
 - a) a szakképzés tekintetében a szakképesítésért felelős miniszterrel,
-- b) az egységes óvoda-bölcsőde tekintetében a szociális ellátásért felelős miniszterrel egyetértésben gyakorolja,
+- b) az egységes óvoda-bölcsőde tekintetében a szociál- és nyugdíjpolitikáért felelős miniszterrel egyetértésben gyakorolja,
 - c) az (1) bekezdés f), j) és n)–o) pontja szerinti egyes szolgáltatásokkal összefüggő igazgatási szolgáltatási díj tekintetében az adópolitikáért felelős miniszter egyetértésével gyakorolja.
 
 (3) Felhatalmazás kap a Kormány, hogy rendeletben szabályozza
@@ -2659,6 +2659,8 @@ munkarendje szerint folyó oktatás. Más sajátos munkarend szerint folyik az o
 
 (9) Ha jogszabály az óvodai nevelésben részt vevő, a tanulói jogviszonyban, kollégiumi tagsági viszonyban álló vagy a képzési kötelezettséget teljesítő fogyatékos gyermek részére kedvezményt, juttatást, jogosultságot, kötelezettséget állapít meg, a fogyatékos gyermek, tanuló fogalom alatt a sajátos nevelési igényű gyermeket, tanulót kell érteni.
 
+(10) A tanulók tankönyvellátását szolgáló központi költségvetési támogatás terhére a készségfejlesztő speciális szakiskolai oktatáshoz és a fejlesztő iskolai oktatáshoz a szakmai munkaközösség és az iskolai szülői szervezet (közösség) egyetértésével a pedagógiai programban foglaltak megvalósítását szolgáló, a tankönyvjegyzékben nem szereplő könyvek, munkafüzetek, feladatlapok, digitális ismerethordozók is beszerezhetők tankönyv helyett, ha az iskolában a nevelő és oktató munkához részben vagy egészben nem alkalmaznak tankönyvet.
+
 ### Vegyes rendelkezések
 
 122. § (1) A nem állami szerv, illetve nem helyi önkormányzat által fenntartott nevelési-oktatási intézmény munkaviszony keretében foglalkoztatott pedagógusainak kötelező óraszámára, túlmunka díjazására, pótszabadságára a közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni. A pedagógusok munkabére és pótléka nem lehet kevesebb az azonos feladatot ellátó közalkalmazottaknak járó illetmény és pótlék legkisebb mértékénél.
@@ -2994,7 +2996,7 @@ feltéve, hogy a korábbi pályázati eljárásban nem jelentkezett olyan pály�
 
 (5)
 
-(6) Az e törvény 85. §-ának (4) bekezdése alapján elkészített önkormányzati intézkedési tervnek a gyermekek, tanulók esélyegyenlőségét szolgáló intézkedéseit, így különösen az óvodai nevelés három éves kortól történő biztosításának feltételeit, az ingyenes étkeztetéshez, az ingyenes tankönyvellátáshoz szükséges feltételek meglétét, a beiskolázási körzethatárok kialakításánál a halmozottan hátrányos helyzetű tanulók többi tanulóhoz viszonyított arányát 2007. december 31-éig át kell tekinteni az intézkedési terv készítőjének. Az intézkedési terv megléte az előfeltétele annak, hogy a helyi önkormányzat a hazai vagy nemzetközi forrásokra kiírt közoktatási célú pályázaton vegyen részt. Ha az óvodai nevelés nem biztosított, a helyi önkormányzat – társulásban való részvétellel, másik önkormányzattal vagy nem önkormányzati intézményfenntartóval kötött megállapodással, intézménylétesítéssel vagy bővítéssel – 2008. szeptember 1-jétől köteles gondoskodni arról, hogy a halmozottan hátrányos helyzetű gyermekek három éves koruktól igénybe tudják venni az óvodai nevelést. 2011. augusztus 31-éig pedig valamennyi óvodai neveléssel összefüggő szülői igény teljesítéséhez szükséges feltételt meg kell teremteni.
+(6) Az e törvény 85. §-ának (4) bekezdése alapján elkészített önkormányzati intézkedési tervnek a gyermekek, tanulók esélyegyenlőségét szolgáló intézkedéseit, így különösen az óvodai nevelés három éves kortól történő biztosításának feltételeit, az ingyenes étkeztetéshez, az ingyenes tankönyvellátáshoz szükséges feltételek meglétét, a beiskolázási körzethatárok kialakításánál a halmozottan hátrányos helyzetű tanulók többi tanulóhoz viszonyított arányát 2007. december 31-éig át kell tekinteni az intézkedési terv készítőjének. Az intézkedési terv megléte az előfeltétele annak, hogy a helyi önkormányzat a hazai vagy nemzetközi forrásokra kiírt közoktatási célú pályázaton vegyen részt. Ha az óvodai nevelés nem biztosított, a helyi önkormányzat – társulásban való részvétellel, másik önkormányzattal vagy nem önkormányzati intézményfenntartóval kötött megállapodással, intézménylétesítéssel vagy bővítéssel – 2008. szeptember 1-jétől köteles gondoskodni arról, hogy a halmozottan hátrányos helyzetű gyermekek három éves koruktól igénybe tudják venni az óvodai nevelést. 2012. augusztus 31-éig pedig valamennyi óvodai neveléssel összefüggő szülői igény teljesítéséhez szükséges feltételt meg kell teremteni.
 
 (7) A Nemzeti alaptanterv e törvényben meghatározott időszakonkénti felülvizsgálata után – ha a Nemzeti alaptanterv kiadásáról rendelkező kormányrendelet másként nem rendelkezik – az iskolák a pedagógiai programjukat szakértő igénybevétele nélkül felülvizsgálhatják, és nincs szükség fenntartói jóváhagyásra sem.
 
@@ -3690,7 +3692,7 @@ A gyermekek, tanulók adatai
 
 1. E törvény alapján nyilvántartott adatok:
 
-a) gyermek, tanuló neve, születési helye és ideje, állampolgársága, lakóhelyének, tartózkodási helyének címe, telefonszáma, nem magyar állampolgár esetén a Magyar Köztársaság területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat megnevezése, száma;
+a) a gyermek, tanuló neve, születési helye és ideje, állampolgársága, lakóhelyének, tartózkodási helyének címe, társadalombiztosítási azonosító jele, telefonszáma, nem magyar állampolgár esetén a Magyar Köztársaság területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat megnevezése, száma;
 
 b) szülő neve, lakóhelye, tartózkodási helye, telefonszáma;
 
@@ -3701,6 +3703,8 @@ d) a tanulói jogviszonnyal kapcsolatos adatok
 — felvételivel kapcsolatos adatok,
 
 — a tanuló magatartásának, szorgalmának és tudásának értékelése és minősítése, vizsgaadatok,
+
+— a tanuló mulasztásával kapcsolatos adatok,
 
 — a tanulói fegyelmi és kártérítési ügyekkel kapcsolatos adatok,
 
@@ -3791,8 +3795,6 @@ A közoktatás információs rendszere
 6. A közoktatás információs rendszere tartalmazza a tanulói nyilvántartást. A tanulói nyilvántartás tartalmazza a tanuló nevét, születési helyét és idejét, azonosító számát, anyja nevét, lakóhelyét, tartózkodási helyét, állampolgárságát, diákigazolványának számát, valamint az érintett nevelési-oktatási intézmény adatait. A tanulói nyilvántartásból személyes adat – az érintetten kívül – csak a tanulói jogviszonyhoz kapcsolódó juttatás jogszerű igénybevételének megállapítása céljából továbbítható a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére. A tanulói nyilvántartásban adatot a tanulói jogviszony megszűnésére vonatkozó bejelentéstől számított öt évig lehet kezelni, kivéve, ha ez alatt az idő alatt az érintettet ismét bejelentik a nyilvántartásba.
 
 7. A közoktatási információs rendszer a 6.6 pontban meghatározottakon túl tartalmazza továbbá azokat az adatokat, amelyek a jogszabályokban biztosított kedvezményekre való igényjogosultság elbírálásához és igazolásához, kötelezettségek teljesítéséhez szükségesek, így a tanuló nemét, a fényképét, az igénybe vett szolgáltatást, az oktatás munkarendjét, a társadalombiztosítási azonosító jelét.
-
-[8. A közoktatás információs rendszerének kezelője a lakcímre is kiterjedő adatfelhasználás esetén a közoktatás információs rendszerébe bejegyzett lakcímadatot – az adatfelhasználást megelőzően – összeveti a személyiadat- és lakcímnyilvántartást vezető hatóság nyilvántartásában szereplő adattal. Ha a közoktatás információs rendszerébe bejegyzett lakcímadat nem egyezik meg a személyiadat- és lakcímnyilvántartásban szereplő adattal, a közoktatás információs rendszerének kezelője a személyiadat- és lakcímnyilvántartásban szereplő adatot használja fel, és az adatváltozást a közoktatás információs rendszerében hivatalból átvezeti.]
 
 A pedagógusigazolvány
 

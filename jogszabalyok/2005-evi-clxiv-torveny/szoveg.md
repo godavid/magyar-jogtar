@@ -92,7 +92,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 ### A kereskedelmi tevékenységek folytatásának egyéb feltételei
 
-5. § (1) A kereskedőnek rendelkeznie kell a forgalmazott termék – saját előállítású termék esetén a termékhez felhasznált nem saját előállítású termék – eredetét hitelt érdemlően igazoló bizonylattal. A kereskedő az ellenőrzést végző hatóság felhívására köteles az eredeti bizonylatokat, dokumentumokat három munkanapon belül bemutatni.
+5. § (1) A kereskedőnek rendelkeznie kell a forgalmazott termék – saját előállítású termék esetén a termékhez felhasznált nem saját előállítású termék – eredetét hitelt érdemlően igazoló bizonylattal. A kereskedő az ellenőrzést végző hatóság felhívására köteles az eredeti bizonylatokat, dokumentumokat öt napon belül bemutatni.
 
 (2) A kereskedő köteles biztosítani, hogy a vásárló a megvásárolni kívánt termék jellegétől függően, annak méretét, súlyát, illetve használhatóságát ellenőrizhesse az üzletben vagy – egyéb kereskedési formák esetében – ha a termék rendelkezésre bocsátásakor mind a kereskedő vagy annak képviselője, mind pedig a vásárló jelen van.
 
@@ -108,7 +108,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 (2) A kereskedő köteles
 
-- a) az üzlet nyitvatartási idejét az üzlet létesítésére vonatkozó bejelentésben vagy a működési engedély iránti kérelemben, illetve az abban bekövetkező változást az azt megelőző öt munkanapon belül a kereskedelmi hatóságnak bejelenteni;
+- a) az üzlet nyitvatartási idejét az üzlet létesítésére vonatkozó bejelentésben vagy a működési engedély iránti kérelemben, illetve az abban bekövetkező változást az azt megelőző nyolc napon belül a kereskedelmi hatóságnak bejelenteni;
 - b) az üzlet nyitvatartási idejéről és az abban bekövetkező változásokról a vásárlókat tájékoztatni.
 
 (3) December 24-én – a vendéglátó üzletek, szálláshelyek, a virág-, az édességüzletek és az üzemanyagtöltő állomások, továbbá a közforgalmú vasúti és buszpályaudvaron, repülőtéren, illetve az üzemanyagtöltő állomáson belül működő üzletek kivételével – az üzletek 14 óráig tarthatnak nyitva.
@@ -275,7 +275,7 @@ rendeletben állapítsa meg.
 - c)
 - d) a vidámparki, mutatványos és hasonló szórakoztató berendezések és szerkezetek időszakos műszaki vizsgáztatásának rendjét,
 - e)
-- f) az adópolitikáért felelős miniszterrel és a közigazgatási informatikáért felelős miniszterrel egyetértésben, az irányítása alá tartozó kereskedelmi hatóság részére az e hatóság által lefolytatott eljárásokért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint az annak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
+- f) az adópolitikáért felelős miniszterrel egyetértésben, az irányítása alá tartozó kereskedelmi hatóság részére az e hatóság által lefolytatott eljárásokért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint az annak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
 
 rendeletben állapítsa meg.
 
@@ -299,6 +299,6 @@ rendeletben állapítsa meg.
 
 (6) Felhatalmazást kap a vendéglátásért felelős miniszter, hogy – a kereskedelemért felelős miniszterrel egyetértésben – rendeletben szabályozza a vendéglátás szakmai feltételeit.
 
-(7) Felhatalmazást kap az iparügyekért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel és a közigazgatási informatikáért felelős miniszterrel egyetértésben – rendeletben határozza meg a műszaki biztonsági hatóság részére a műszaki biztonsági hatósági eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
+(7) Felhatalmazást kap az iparügyekért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben határozza meg a műszaki biztonsági hatóság részére a műszaki biztonsági hatósági eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
 13. § Ez a törvény a belső piaci szolgáltatásokról szóló 2006/123/EK (2006. december 12.) európai parlamenti és tanácsi irányelv 5. és 9. cikkének való megfelelést szolgálja.

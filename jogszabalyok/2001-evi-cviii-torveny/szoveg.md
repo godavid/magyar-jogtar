@@ -306,7 +306,7 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 16/B. § (1)
 
-(2) Az elsőfokú szerv a Hatóság Hivatala. Az elsőfokú határozat ellen a Hatóság Tanácsának elnökéhez lehet fellebbezni.
+(2) Az elsőfokú szerv a Hatóság Hivatala. Az elsőfokú határozat ellen a Hatóság Elnökéhez lehet fellebbezni.
 
 16/C. § (1) A Hatóság kéretlen elektronikus hirdetéssel kapcsolatos felügyeleti eljárása kérelemre vagy hivatalból indul. Ha az igények önálló érvényesítése a sérelmet szenvedett fogyasztók számára tekintettel nem lenne célravezető, az eljárás megindítására a fogyasztói érdekképviseletet ellátó közigazgatási szervek és társadalmi szervezetek is jogosultak.
 
@@ -377,7 +377,7 @@ látja el.
 - a) tájékoztatni az Európai Bizottságot arról, hogy az információs társadalommal összefüggő szolgáltatások, különösen az elektronikus kereskedelem egyes jogi kérdéseiről szóló 2000/31/EK európai parlamenti és tanácsi irányelv 9. cikk (2) bekezdés a)–d) pontjában meghatározott szerződések közül melyek nem köthetők meg érvényesen elektronikus úton (a továbbiakban: kivételek),
 - b) ötévenként jelentést tenni az Európai Bizottságnak a kivételek alkalmazásáról, és abban megindokolni, hogy miért tartja a Magyar Köztársaság szükségesnek bírósági, hatósági vagy egyéb közhatalmat gyakorló személyek jogszabályban előírt kötelező közreműködésével kötött szerződésekre a kivétel fenntartását.
 
-(2) Felhatalmazást kap az informatikáért felelős miniszter, hogy az érintett miniszterekkel egyetértésben – a kormányzati informatika vonatkozásában a közigazgatási informatikáért felelős miniszterrel együttesen – rendeletben szabályozza
+(2) Felhatalmazást kap az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszter és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 
 - a)
 - b) a digitális archiválás szabályait,

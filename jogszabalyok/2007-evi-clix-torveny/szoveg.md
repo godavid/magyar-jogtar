@@ -772,7 +772,7 @@ köteles arról 30 napon belül írásban értesíteni a Felügyeletet.
 
 (2) A pénzügyi terv az (1) bekezdésben foglaltak megszüntetésére legfeljebb féléves időszakra terjedő intézkedéseket tartalmaz. A pénzügyi tervet a Felügyelet határozatának közlésétől számított 30 napon belül kell a viszontbiztosítónak a Felügyelethez jóváhagyásra benyújtania.
 
-(3) A Felügyelet a pénzügyi terv benyújtásától számított huszonkét munkanapon belül köteles elbírálni, hogy a pénzügyi terv alkalmas-e az (1) bekezdésben foglaltak megszüntetésére.
+(3) A Felügyelet a pénzügyi terv megérkezését követő naptól számított harminc napon belül köteles elbírálni, hogy a pénzügyi terv alkalmas-e az (1) bekezdésben foglaltak megszüntetésére.
 
 (4) A pénzügyi terv elutasítása vagy megvalósulásának meghiúsulása esetén a Felügyelet a 114. §-ban foglalt intézkedések megtételére jogosult.
 
@@ -782,7 +782,7 @@ köteles arról 30 napon belül írásban értesíteni a Felügyeletet.
 
 (2) A legfeljebb egyéves időtartamra terjedő szanálási tervnek tartalmaznia kell a hiány megszüntetésének módját és ütemét. A szanálási tervet a Felügyelet határozatának közlésétől számított kilencven napon belül a biztosítónak a Felügyelethez jóváhagyásra be kell nyújtania. Ez a határidő különösen indokolt esetben harminc nappal meghosszabbítható.
 
-(3) A Felügyelet a szanálási terv benyújtásától számított negyvenöt munkanapon belül köteles elbírálni, hogy a szanálási terv alkalmas-e a biztosító szavatoló tőke hiányának megszüntetésére.
+(3) A Felügyelet a szanálási terv megérkezését követő naptól számított két hónapon belül köteles elbírálni, hogy a szanálási terv alkalmas-e a biztosító szavatoló tőke hiányának megszüntetésére.
 
 (4) A szanálási terv elutasítása vagy megvalósulásának meghiúsulása esetén a Felügyelet a 114. §-ban foglalt intézkedések megtételére jogosult.
 
@@ -800,7 +800,7 @@ köteles arról 30 napon belül írásban értesíteni a Felügyeletet.
 
 (3) A pénzügyi helyreállítási tervet a Felügyelet határozatának közlésétől számított 90 napon belül a viszontbiztosítónak a Felügyelethez jóváhagyásra be kell nyújtania. Ez a határidő különösen indokolt esetben 30 nappal meghosszabbítható.
 
-(4) A Felügyelet a pénzügyi helyreállítási terv benyújtásától számított negyvenöt munkanapon belül köteles elbírálni, hogy a pénzügyi helyreállítási terv alkalmas-e a viszontbiztosító biztonságos működésének helyreállítására.
+(4) A Felügyelet a pénzügyi helyreállítási terv megérkezését követő naptól számított két hónapon belül köteles elbírálni, hogy a pénzügyi helyreállítási terv alkalmas-e a viszontbiztosító biztonságos működésének helyreállítására.
 
 (5) Ha a viszontbiztosító rosszabbodó pénzügyi helyzete a viszontbiztosítási szerződésekből eredő kötelezettségeinek teljesítését veszélyezteti, akkor a viszontbiztosító rövid távú fizetőképességének biztosítása érdekében – a pénzügyi helyreállítási terv alapján – a Felügyelet a viszontbiztosító számára a 3. számú melléklet szerint számított minimális szavatoló tőke szükségletnél magasabb szavatoló tőke szükségletet is előírhat.
 
@@ -1051,7 +1051,7 @@ szemben.
 
 ### A Felügyelet jogállása
 
-98. § A Felügyelet hatáskörét és jogállását a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2007. évi CXXXV. törvény határozza meg.
+98. §
 
 ### II. Fejezet — A FELÜGYELETI ELLENŐRZÉS RENDSZERE
 
@@ -1291,7 +1291,7 @@ között kölcsönös finanszírozás eredményeként keletkezett.
 
 ### A felügyeleti biztos
 
-118. § A felügyeleti biztos kirendelésére és tevékenységére a Bit. 199–201. §-aiban előírt rendelkezéseket kell megfelelően alkalmazni.
+118. § A felügyeleti biztos kirendelésére és tevékenységére megfelelően alkalmazni kell a Bit. és a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvénynek a felügyeleti biztosra vonatkozó rendelkezéseit.
 
 ### A tevékenység felfüggesztése
 
@@ -1438,10 +1438,8 @@ a Felügyelet a felszámolás elkerülése, valamint a biztosítási piac bizton
 (2) Felhatalmazást kap a miniszter, hogy
 
 - a) a biztosítástechnikai tartalékok tartalmát, képzésének és felhasználásának rendjét,
-- b) a viszontbiztosítók belső adatszolgáltatásának rendjét és tartalmát,
-- c) a Felügyeletnek az összevont alapú felügyeleti feladatok ellátásához szükséges rendszeresen szolgáltatandó adatok körét,
-- d) a Felügyelet adatszolgáltatási kötelezettsége körét,
-- e)
+- b)–d)
+- e) az igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes rendelkezéseket
 
 rendeletben szabályozza.
 

@@ -321,7 +321,7 @@ korlátozza.
 - g) külön törvényben meghatározott szervekkel vagy személyekkel együttműködve képviseli a Magyar Köztársaságot az Európai Unió közös adatvédelmi felügyelő testületeiben;
 - h) gyakorolja és ellátja az e törvényben meghatározott hatásköröket és feladatokat.
 
-24/A. § (1) Az adatvédelmi biztos eljárására és intézkedéseire az állampolgári jogok országgyűlési biztosáról szóló 1993. évi LIX. törvény (a továbbiakban: Obtv.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+24/A. § (1) Az adatvédelmi biztos eljárására és intézkedéseire – a 25. § (6) bekezdésében foglalt kivétellel – az állampolgári jogok országgyűlési biztosáról szóló 1993. évi LIX. törvény (a továbbiakban: Obtv.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 (2) Az adatvédelmi biztos eljárására az Obtv. 16. § (1) és (2) bekezdését, 17. § (3) és (4) bekezdését, 18. § (1), (6) és (8) bekezdését nem kell alkalmazni.
 
@@ -334,6 +334,8 @@ korlátozza.
 (4) Ha az adatkezelő vagy adatfeldolgozó a személyes adatok jogellenes kezelését (feldolgozását) nem szünteti meg, az adatvédelmi biztos határozatban elrendelheti a jogosulatlanul kezelt adatok zárolását, törlését vagy megsemmisítését, megtilthatja a jogosulatlan adatkezelést vagy adatfeldolgozást, továbbá felfüggesztheti az adatok külföldre továbbítását. A határozat ellen közigazgatási úton jogorvoslatnak nincs helye.
 
 (5) Az adatkezelő, az adatfeldolgozó vagy az adatkezeléssel érintett személy az adatvédelmi biztos (4) bekezdés szerinti határozatának felülvizsgálatát – annak kézhezvételét követő 30 napon belül – jogszabálysértésre hivatkozással kérheti a bíróságtól, amely a felülvizsgálat során a polgári perrendtartásról szóló törvénynek a közigazgatási perekre vonatkozó szabályai szerint jár el. A bíróság jogerős döntéséig a vitatott adatkezeléssel érintett adatok nem törölhetők, illetve nem semmisíthetők meg, az adatok kezelését azonban az adatvédelmi biztos határozatának kézhezvételekor fel kell függeszteni és az adatokat zárolni kell.
+
+(6) Ha az adatvédelmi biztos a (4) bekezdésben szabályozott eljárásában határozatot hoz, az e törvényben nem szabályozott kérdésekben a közigazgatási hatósági eljárásról szóló törvényt – az elektronikus kapcsolattartásra és a felügyeleti eljárásra vonatkozó rendelkezések kivételével – alkalmazni kell.
 
 26. § (1) Az adatvédelmi biztos a feladatai ellátása során az adatkezelőtől minden olyan kérdésben felvilágosítást kérhet, az összes olyan iratba betekinthet, illetve iratról másolatot kérhet, adatkezelést megismerhet, amely személyes adatokkal, közérdekű adatokkal vagy közérdekből nyilvános adatokkal összefügghet.
 

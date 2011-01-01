@@ -78,7 +78,7 @@ Az Országgyűlés e célok megvalósítása érdekében a nemzeti és etnikai k
 - 3. kisebbségi közoktatási intézmény: az a közoktatási intézmény, amelynek alapító okirata a közoktatásról szóló törvényben foglaltak szerint tartalmazza a nemzeti, etnikai kisebbségi feladatok ellátását, feltéve, hogy e feladatokat a közoktatási intézmény ténylegesen ellátja, továbbá óvoda, iskola és kollégium esetén a tanulók legalább 25%-a részt vesz a nemzeti, etnikai kisebbségi óvodai nevelésben, illetve a nemzeti, etnikai kisebbségi iskolai nevelésben-oktatásban,
 - 4. kisebbségi közoktatásban alkalmazottak köre: azok, akik a kisebbségi közoktatási intézményben pedagógus munkakörben, illetve nevelő és oktató munkát közvetlenül segítő munkakörben végzik tevékenységüket,
 - 5. megfelelő színvonalon való további gondoskodás: az intézmény fenntartói jogának a kisebbségi önkormányzat által történő átvétele nem eredményezi az átvétel előtti szolgáltatások színvonalának romlását, a rendelkezésre álló személyi és tárgyi feltételek csökkenését,
-- 6. kisebbségi tömegtájékoztatás: a kisebbségi közösség tájékoztatását, művelődését, kulturális autonómiájának megőrzését, kiterjesztését szolgáló, az írott vagy elektronikus sajtóban (televízióban, rádióban) rendszeresen vagy időszakonként biztosított híradás, műsorszolgáltatás, függetlenül attól, hogy a tömegtájékoztatást végző sajtószervet valamely kisebbségi szervezet működteti, vagy a szolgáltatást a közszolgálati média – külön törvényben meghatározottak szerint – illetőleg közszolgáltatási szerződés alapján más szolgáltatók nyújtják,
+- 6. kisebbségi tömegtájékoztatás: a kisebbségi közösség tájékoztatását, művelődését, kulturális autonómiájának megőrzését, kiterjesztését szolgáló, az írott vagy elektronikus sajtóban (televízióban, rádióban) rendszeresen vagy időszakonként biztosított híradás, médiaszolgáltatás, függetlenül attól, hogy a tömegtájékoztatást végző sajtószervet valamely kisebbségi szervezet működteti, vagy a szolgáltatást a közszolgálati média – külön törvényben meghatározottak szerint – illetőleg közszolgáltatási szerződés alapján más szolgáltatók nyújtják,
 - 7. hivatalos okmány: külön jogszabály által személyazonosító okmánynak minősített okmány.
 
 (2) E törvény alkalmazásában:
@@ -248,9 +248,9 @@ Az Országgyűlés e célok megvalósítása érdekében a nemzeti és etnikai k
 
 29. § (1) A 28. § (1)–(3) bekezdésében meghatározott egyetértési, véleményezési jog jogosultjának nyilatkozatáról, illetőleg a nyilatkozat elmulasztásáról a döntéshozót az előterjesztőnek a döntést megelőzően tájékoztatnia kell.
 
-(2) Ha a helyi önkormányzat a 28. § (1) és (2) bekezdésében előírt egyetértés vagy vélemény hiányában dönt, az érintett települési kisebbségi önkormányzat kezdeményezésére a közigazgatási hivatal a döntést soron kívül megvizsgálja, és indokolt esetben jogorvoslatért a bírósághoz, illetve az Alkotmánybírósághoz fordulhat. A települési kisebbségi önkormányzat kezdeményezése a megtámadott döntés végrehajtására halasztó hatályú.
+(2) Ha a helyi önkormányzat a 28. § (1) és (2) bekezdésében előírt egyetértés vagy vélemény hiányában dönt, az érintett települési kisebbségi önkormányzat kezdeményezésére a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv a döntést soron kívül megvizsgálja, és indokolt esetben jogorvoslatért a bírósághoz, illetve az Alkotmánybírósághoz fordulhat. A települési kisebbségi önkormányzat kezdeményezése a megtámadott döntés végrehajtására halasztó hatályú.
 
-(3) Ha a közigazgatási hivatal nem ért egyet a települési kisebbségi önkormányzat kezdeményezésével és ezért nem fordul a bírósághoz vagy az Alkotmánybírósághoz, azt közvetlenül a kisebbségi önkormányzat is megteheti. A kisebbségi önkormányzat ilyen irányú kezdeményezése a végrehajtás szempontjából nem halasztó hatályú, azonban a kisebbségi önkormányzat a végrehajtás felfüggesztését kérheti a bíróságtól.
+(3) Ha a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv nem ért egyet a települési kisebbségi önkormányzat kezdeményezésével és ezért nem fordul a bírósághoz vagy az Alkotmánybírósághoz, azt közvetlenül a kisebbségi önkormányzat is megteheti. A kisebbségi önkormányzat ilyen irányú kezdeményezése a végrehajtás szempontjából nem halasztó hatályú, azonban a kisebbségi önkormányzat a végrehajtás felfüggesztését kérheti a bíróságtól.
 
 (4) Ha a települési kisebbségi önkormányzat egyetértés vagy vélemény hiányában dönt, az (1) és (3) bekezdésben, valamint a 28. § (3) bekezdésében foglaltakat kell megfelelően alkalmazni.
 
@@ -286,7 +286,7 @@ Az Országgyűlés e célok megvalósítása érdekében a nemzeti és etnikai k
 - c) az átvevő tudomásul veszi, hogy az átadó – ha a feladat ellátása nehézségbe ütközik – az országos kisebbségi önkormányzat egyetértésével, egyoldalú nyilatkozattal visszavonhatja az átadott feladat- és hatáskört; ez esetben az átvevő az átvett vagy annak helyébe lépő vagyont, vagyonrészt – átadáskori értékben – az eredeti átadó rendelkezésére köteles bocsátani,
 - d) az átadó és az átvevő tudomásul veszi, hogy ha bármely okból ellehetetlenül a megállapodás tárgyát képező kötelező önkormányzati feladat- és hatáskör ellátása, a hatáskört az a területileg illetékes helyi önkormányzat gyakorolja tovább, amely a jogszabály előírásai szerint köteles azt ellátni.
 
-(4) A (3) bekezdés szerinti megállapodás végrehajtásával kapcsolatban a megállapodás résztvevői között felmerült vitáról a közigazgatási hivatal a felek kezdeményezésétől számított 15 munkanapon belül egyeztetést tart. Ha az egyeztetés során 30 munkanapon belül nem jön létre megegyezés, a közigazgatási hivatal a törvényességi ellenőrzési jogkörében jár el.
+(4) A (3) bekezdés szerinti megállapodás végrehajtásával kapcsolatban a megállapodás résztvevői között felmerült vitáról a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv a felek kezdeményezésétől számított 15 munkanapon belül egyeztetést tart. Ha az egyeztetés során 30 munkanapon belül nem jön létre megegyezés, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv a törvényességi ellenőrzési jogkörében jár el.
 
 30/C. § (1) A települési kisebbségi önkormányzat testülete a feladat- és hatáskörét a szerveire (elnök, bizottság), valamint – törvényben meghatározottak szerint – társulására átruházhatja.
 
@@ -328,7 +328,7 @@ Az Országgyűlés e célok megvalósítása érdekében a nemzeti és etnikai k
 
 30/F. § (1) A testület üléséről jegyzőkönyvet kell készíteni. A jegyzőkönyvet a kisebbség nyelvén és magyar nyelven vagy kizárólag magyar nyelven kell készíteni. A két nyelven készített jegyzőkönyv közül a kisebbség nyelvén készült jegyzőkönyv tekintendő hitelesnek. A jegyzőkönyv tartalmazza a megjelent testületi tagok és meghívottak nevét, a tárgyalt napirendi pontokat, a tanácskozás lényegét, a szavazás számszerű eredményét és a hozott döntéseket. A települési kisebbségi önkormányzat döntése: határozat.
 
-(2) A jegyzőkönyv elkészítéséről az elnök gondoskodik. A jegyzőkönyvet az elnök és a testület által – a képviselők közül – kijelölt jegyzőkönyv-hitelesítő írja alá. Az elnök a jegyzőkönyvet az ülést követő 15 napon belül megküldi a helyi önkormányzat jegyzőjének, aki azt 5 napon belül megküldi a közigazgatási hivatalnak.
+(2) A jegyzőkönyv elkészítéséről az elnök gondoskodik. A jegyzőkönyvet az elnök és a testület által – a képviselők közül – kijelölt jegyzőkönyv-hitelesítő írja alá. Az elnök a jegyzőkönyvet az ülést követő 15 napon belül megküldi a helyi önkormányzat jegyzőjének, aki azt 5 napon belül megküldi a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek.
 
 (3) A települési kisebbségi önkormányzat testületi ülésére készült előterjesztések és jegyzőkönyvek – a zárt ülésre készült előterjesztések és jegyzőkönyvek kivételével – megtekinthetőek.
 
@@ -396,7 +396,7 @@ Az Országgyűlés e célok megvalósítása érdekében a nemzeti és etnikai k
 
 (3) A települési kisebbségi önkormányzat elnöke a helyi önkormányzat képviselő-testületi ülésén tanácskozási joggal vesz részt.
 
-30/O. § (1) Nem lehet a települési kisebbségi önkormányzat elnöke: a köztársasági elnök, az Alkotmánybíróság tagja, az országgyűlési biztos, az Állami Számvevőszék elnöke, alelnöke és számvevője, a Kormány tagja, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár, a központi államigazgatási szerv köztisztviselője, a közigazgatási hivatal vezetője és köztisztviselője, a területi, helyi államigazgatási szervnek az a köztisztviselője, akinek feladatkörébe az adott települési kisebbségi önkormányzatot érintő ügyek tartoznak, és illetékessége a települési (területi) kisebbségi önkormányzatra kiterjed, a területileg illetékes helyi önkormányzat jegyzője (főjegyzője, körjegyzője), a polgármesteri hivatalának köztisztviselője, a bíró, ügyész, közjegyző, bírósági végrehajtó, a Magyar Honvédség és a rendvédelmi szervek hivatásos állományú tagja, a területileg illetékes területfejlesztési tanács munkaszervezetének tagja, az, aki ugyanannál a települési kisebbségi önkormányzatnál a települési kisebbségi önkormányzat által létesített vagy fenntartott intézmény, gazdasági társaság vezetője, vezető tisztségviselője, aki a vezetői megbízást a települési kisebbségi önkormányzattól kapta.
+30/O. § (1) Nem lehet a települési kisebbségi önkormányzat elnöke: a köztársasági elnök, az Alkotmánybíróság tagja, az országgyűlési biztos, az Állami Számvevőszék elnöke, alelnöke és számvevője, a Kormány tagja, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár, a központi államigazgatási szerv köztisztviselője, a Pénzügyi Szervezetek Állami Felügyeletének elnöke, alelnöke és köztisztviselője, a közigazgatási hivatal vezetője és köztisztviselője, a területi, helyi államigazgatási szervnek az a köztisztviselője, akinek feladatkörébe az adott települési kisebbségi önkormányzatot érintő ügyek tartoznak, és illetékessége a települési (területi) kisebbségi önkormányzatra kiterjed, a területileg illetékes helyi önkormányzat jegyzője (főjegyzője, körjegyzője), a polgármesteri hivatalának köztisztviselője, a bíró, ügyész, közjegyző, bírósági végrehajtó, a Magyar Honvédség és a rendvédelmi szervek hivatásos állományú tagja, a területileg illetékes területfejlesztési tanács munkaszervezetének tagja, az, aki ugyanannál a települési kisebbségi önkormányzatnál a települési kisebbségi önkormányzat által létesített vagy fenntartott intézmény, gazdasági társaság vezetője, vezető tisztségviselője, aki a vezetői megbízást a települési kisebbségi önkormányzattól kapta.
 
 (2) Az elnök az összeférhetetlenségi okot a megválasztásától, illetve az összeférhetetlenségi ok felmerülésétől számított 30 napon belül köteles megszüntetni.
 
@@ -502,7 +502,8 @@ Az Országgyűlés e célok megvalósítása érdekében a nemzeti és etnikai k
 - r) a közoktatási törvény szerinti közoktatási megállapodásnak a helyi önkormányzattal történő megkötéséről,
 - s) sajtóközlemények közzétételéről,
 - t) a kisebbségi utónévjegyzék összeállításáról, a kisebbségi utónévvel kapcsolatos megkeresésekről,
-- u) egyéb, törvény által meghatározott feladat- és hatáskörébe tartozó ügyekről.
+- u) kisebbségi médiumoknak az e törvény 63. § (3) bekezdése szerinti országos kisebbségi önkormányzati állami támogatásból történő támogatásáról,
+- v) egyéb, törvény által meghatározott feladat- és hatáskörébe tartozó ügyekről.
 
 (2) A helyi önkormányzat képviselő-testülete a feladat- és hatáskörét – a hatósági, valamint a közüzemi szolgáltatásokkal összefüggő feladat- és hatáskörök kivételével – az országos önkormányzat testületére, annak kezdeményezésére külön megállapodás alapján köteles átruházni, ha a kezdeményező önkormányzat az átruházott feladat- és hatáskörében eljárva kisebbségi közügyet lát el, és a feladat ellátásához a jogszabályban meghatározott feltételeket biztosítani tudja.
 
@@ -516,7 +517,7 @@ Az Országgyűlés e célok megvalósítása érdekében a nemzeti és etnikai k
 - d) a képviselt kisebbségek csoportjait érintő kérdésekben közigazgatási szervektől tájékoztatást kérhet, részükre javaslatot tehet, a hatáskörükbe tartozó ügyekben intézkedést kezdeményezhet,
 - e) közreműködik a hatáskörrel és illetékességgel rendelkező állami szervekkel az általa képviselt kisebbségek alap-, közép- és felsőfokú kisebbségi oktatásának szakmai ellenőrzésében.
 
-(2) A kisebbség történelmi hagyományokkal rendelkező településeinek és építészeti emlékeinek megőrzésével és ápolásával kapcsolatos jogszabály (ide nem értve a helyi önkormányzat rendeletét) és a közoktatási törvény végrehajtásáról szóló kormányrendeletek megalkotásakor – a kisebbséghez tartozók óvodai nevelését, iskolai nevelését és oktatását érintő kérdésekben – az országos önkormányzatok egyetértése szükséges.
+(2) A kisebbség történelmi hagyományokkal rendelkező településeinek és építészeti emlékeinek megőrzésével és ápolásával kapcsolatos jogszabály (ide nem értve a helyi önkormányzat rendeletét) és a közoktatási törvény végrehajtásáról szóló kormányrendeletek megalkotásakor – a kisebbséghez tartozók óvodai nevelését, iskolai nevelését és oktatását érintő kérdésekben – az országos önkormányzatok véleményének kikérése szükséges.
 
 39. § Az országos önkormányzat elnöke, elnökhelyettese, illetőleg képviselője részt vehet a települési és területi kisebbségi önkormányzat ülésein.
 
@@ -576,7 +577,7 @@ Az Országgyűlés e célok megvalósítása érdekében a nemzeti és etnikai k
 
 (2) Az országos önkormányzat köteles pénzügyi bizottságot létrehozni. A pénzügyi bizottság feladata az országos önkormányzatnál és intézményénél különösen: az éves költségvetési tervezetnek, a féléves és éves beszámoló tervezetének véleményezése, a pénzügyi folyamatok figyelemmel kísérése és értékelése, a pénzügyi döntések (különösen hitelfelvételek) megalapozottságának vizsgálata, a pénzügyi jogszabályok és belső szabályzatok hatályosulásának vizsgálata. A bizottság a vizsgálatának megállapításait haladéktalanul a közgyűlés elé terjeszti. A közgyűlés a jelentésről soron kívül dönt. A közgyűlés egyet nem értése vagy a döntés elmaradása esetén a bizottság megküldi a jelentést az Állami Számvevőszéknek.
 
-(3) Az országos önkormányzat önállóan vagy más országos önkormányzattal közösen – a jogszabályban meghatározott feltételek szerinti követelményeknek megfelelő, névjegyzékben szereplő – költségvetési könyvvizsgálót (szervezetet) köteles megbízni, továbbá jogszabály által meghatározott egyszerűsített tartalmú, az önkormányzatnak és intézményeinek adatait összevontan tartalmazó, éves pénzforgalmi jelentését, könyvviteli mérlegét, pénzmaradvány- és eredménykimutatását köteles a Belügyi Közlönyben és a Cégközlönyben közzétenni. A könyvvizsgálóra egyebekben a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) rendelkezései az irányadók.
+(3) Az országos önkormányzat önállóan vagy más országos önkormányzattal közösen – a jogszabályban meghatározott feltételek szerinti követelményeknek megfelelő, névjegyzékben szereplő – költségvetési könyvvizsgálót (szervezetet) köteles megbízni, továbbá jogszabály által meghatározott egyszerűsített tartalmú, az önkormányzatnak és intézményeinek adatait összevontan tartalmazó, éves pénzforgalmi jelentését, könyvviteli mérlegét, pénzmaradvány- és eredménykimutatását köteles a Hivatalos Értesítőben közzétenni. A könyvvizsgálóra egyebekben a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) rendelkezései az irányadók.
 
 (4) Az országos önkormányzat a közgyűlés által elfogadott költségvetését minden év március 15-ig, beszámolóját minden év május 15-ig, a szervezeti és működési szabályzatát annak elfogadását, módosítás esetén a módosítását követő 45 napon belül közzéteszi a Magyar Közlönyben, és ha ilyen van, akkor az országos önkormányzat internetes honlapján.
 
@@ -785,7 +786,7 @@ köteles az átvevő kisebbségi önkormányzattal – a közoktatási törvény
 - a) támogatást nyújt, melynek általános és feladatalapú feltételeit kormányrendelet határozza meg,
 - b) kiegészítő normatív támogatást nyújt a kisebbségi óvodai neveléshez, illetőleg a kisebbségi oktatáshoz és neveléshez,
 - c) a kisebbségek oktatási és kulturális önigazgatása körében a VI. fejezetben (42–50. §-ban) meghatározott támogatásokat ad,
-- d) támogatja az 55/A. § szerinti Közalapítványt, valamint a kisebbségi társadalmi szervezetek működését.
+- d) támogatást nyújt a hazai kisebbségek önazonosságának megőrzéséhez, hagyományai gondozásához, átörökítéséhez, az anyanyelv ápolásához, fejlesztéséhez, szellemi és tárgyi emlékeik fennmaradásához.
 
 (2) Az országos önkormányzatok által működtetett intézmények a 47. § (10) és (11) bekezdése, a 49/C. § (3) bekezdése kivételével normatív állami hozzájárulás tekintetében a humán szolgáltatást ellátó egyházi intézményekkel azonos elbírálás alá esnek.
 
@@ -795,30 +796,11 @@ köteles az átvevő kisebbségi önkormányzattal – a közoktatási törvény
 
 (5) Az (1) bekezdés a) pontja szerinti támogatásra a kisebbségi önkormányzat testületi határozatban meghatározott kisebbségi közügy ellátása esetén jogosult.
 
-(6) A hazai kisebbségek önazonosságának megőrzését, hagyományai gondozását, átörökítését, az anyanyelv ápolását, fejlesztését, szellemi és tárgyi emlékeik fennmaradását, a kisebbségi létből fakadó kulturális és politikai hátrányok mérséklését szolgáló tevékenységek támogatása céljából közalapítványt kell létrehozni.
+(6)
 
-(7) A közalapítvány támogatási tevékenysége a kisebbségi célú állami finanszírozás rendszerének része.
+(7)
 
-55/A. § (1) Az 55. § (3)—(4) bekezdésében említett közalapítványt Magyarországi Nemzeti és Etnikai Kisebbségekért Közalapítvány (a továbbiakban: Közalapítvány) elnevezéssel és budapesti székhellyel a Magyar Köztársaság Kormánya alapítja.
-
-(2) A Közalapítvány vagyona a részére átadott vagyontárgyakból, valamint a mindenkori éves költségvetési törvényben megállapított pénzügyi támogatásból áll.
-
-(3) A Közalapítvány döntéshozó szerve a Kuratórium. Ennek tagjai a következők:
-
-- a) a kisebbségek országos önkormányzatainak – azok közgyűlése által megválasztott – egy-egy tagja, országos önkormányzat hiányában az adott kisebbség helyi kisebbségi önkormányzatai, ezek hiányában az adott kisebbség társadalmi szervezetei által kijelölt személy,
-- b) az Országgyűlés hazai nemzeti és etnikai kisebbségi ügyekkel foglalkozó állandó bizottsága által kijelölt egy kormánypárti és egy ellenzéki frakciót képviselő személy,
-- c) az alapító által kijelölt négy személy és a Magyar Tudományos Akadémia elnöke által kijelölt egy személy.
-
-(4) A Kuratórium elnökét és a Közalapítvány képviseletében eljáró személy(eke)t az alapító jelöli ki a Kuratórium tagjai közül.
-
-(5) A Közalapítvány ellenőrzésre jogosult szervének (felügyelő bizottság) tagjai a következők:
-
-- a) az Országgyűlés hazai nemzeti és etnikai kisebbségi ügyekkel foglalkozó állandó bizottsága által kijelölt egy kormánypárti és egy ellenzéki frakciót képviselő személy,
-- b) az alapító által kijelölt két személy.
-
-(6) A felügyelő bizottság elnökét az alapító jelöli ki a felügyelő bizottság tagjai közül.
-
-(7) A (3)–(6) bekezdés szerinti választás, illetőleg kijelölés joga magában foglalja a megbízás, kijelölés visszavonásának jogát.
+55/A. §
 
 56. § A kisebbségek anyagi támogatásában hazai és külföldi szervezetek, alapítványok és magánszemélyek is közreműködhetnek.
 
@@ -922,27 +904,27 @@ köteles az átvevő kisebbségi önkormányzattal – a közoktatási törvény
 
 ### X. Fejezet — A KISEBBSÉGI ÖNKORMÁNYZATOK TÖRVÉNYESSÉGI ELLENŐRZÉSE
 
-60/H. § (1) A közigazgatási hivatal ellátja a kisebbségi önkormányzatok törvényességi ellenőrzését. A mérlegelési jogkörben hozott önkormányzati döntésnek kizárólag a jogszerűségét vizsgálhatja.
+60/H. § (1) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv ellátja a kisebbségi önkormányzatok törvényességi ellenőrzését. A mérlegelési jogkörben hozott önkormányzati döntésnek kizárólag a jogszerűségét vizsgálhatja.
 
-(2) Az országos önkormányzat (1) bekezdés szerinti törvényességi ellenőrzését a Kormány által kijelölt közigazgatási hivatal látja el.
+(2) Az országos önkormányzat (1) bekezdés szerinti törvényességi ellenőrzését a Kormány által kijelölt, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv látja el.
 
-60/I. § (1) A közigazgatási hivatal a törvényességi ellenőrzési jogkörében eljárva vizsgálja, hogy megfelel-e a jogszabályoknak a kisebbségi önkormányzat
+60/I. § (1) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv a törvényességi ellenőrzési jogkörében eljárva vizsgálja, hogy megfelel-e a jogszabályoknak a kisebbségi önkormányzat
 
 - a) szervezete, működése, döntéshozatali eljárása,
 - b) bármely határozata, ideértve a kisebbségi önkormányzat testületének, elnökének, bizottságának, illetőleg társulásának határozatait is.
 
-(2) Nem terjed ki a közigazgatási hivatal törvényességi ellenőrzési jogköre – a (3) bekezdésben foglalt kivétellel – azokra a kisebbségi önkormányzati döntésekre, amelyek alapján helye van
+(2) Nem terjed ki a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv törvényességi ellenőrzési jogköre – a (3) bekezdésben foglalt kivétellel – azokra a kisebbségi önkormányzati döntésekre, amelyek alapján helye van
 
 - a) munkaügyi vitának (köztisztviselői vagy közalkalmazotti jogviszonyból származó vitának),
 - b) külön jogszabályban meghatározott bírósági vagy államigazgatási eljárásnak.
 
-(3) A közigazgatási hivatal törvényességi ellenőrzési jogköre a (2) bekezdésben felsorolt ügyekre is kiterjed a (1) bekezdés a) pontja szerinti körben, továbbá a (2) bekezdés a) pontja szerinti ügyekben, ha a határozat a munkavállaló javára történő jogszabálysértést tartalmaz.
+(3) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv törvényességi ellenőrzési jogköre a (2) bekezdésben felsorolt ügyekre is kiterjed a (1) bekezdés a) pontja szerinti körben, továbbá a (2) bekezdés a) pontja szerinti ügyekben, ha a határozat a munkavállaló javára történő jogszabálysértést tartalmaz.
 
-(4) A közigazgatási hivatal a feladat- és hatáskörében a kisebbségi önkormányzat kérésére szakmai segítséget nyújt.
+(4) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv a feladat- és hatáskörében a kisebbségi önkormányzat kérésére szakmai segítséget nyújt.
 
-60/J. § (1) A közigazgatási hivatal a törvényességi ellenőrzés körében – határidő kitűzésével – felhívja az érintetteket a törvénysértés megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedésről vagy egyet nem értéséről a közigazgatási hivatalt tájékoztatni.
+60/J. § (1) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv a törvényességi ellenőrzés körében – határidő kitűzésével – felhívja az érintetteket a törvénysértés megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedésről vagy egyet nem értéséről a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet tájékoztatni.
 
-(2) Ha a megadott határidőn belül nem történt intézkedés, vagy az érintett a felhívásban foglaltakkal nem értett egyet, a közigazgatási hivatal kezdeményezheti:
+(2) Ha a megadott határidőn belül nem történt intézkedés, vagy az érintett a felhívásban foglaltakkal nem értett egyet, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv kezdeményezheti:
 
 - a) a jogszabálysértő határozat bírósági felülvizsgálatát,
 - b) a kisebbségi önkormányzat testületének összehívását a törvénysértés megszüntetésére,
@@ -950,7 +932,7 @@ köteles az átvevő kisebbségi önkormányzattal – a közoktatási törvény
 
 (3) A jogszabálysértés megszüntetésére a pert a kisebbségi önkormányzat ellen a megadott határidő lejártától számított 30 napon belül lehet megindítani. A kereset benyújtásának – a 29. § (2) bekezdésében foglaltak kivételével – a döntés végrehajtására nincs halasztó hatálya, de a bíróság a végrehajtást felfüggesztheti. Ha a jogszabálysértő döntés végrehajtása a közérdek súlyos sérelmével vagy elháríthatatlan kárral járna, a végrehajtás felfüggesztését – az érintett egyidejű értesítésével – kérni kell a bíróságtól.
 
-(4) A közigazgatási hivatal a törvényességi ellenőrzése során törvényességi ellenőrzési tapasztalatai alapján a kisebbségi önkormányzat gazdálkodását érintő vizsgálat lefolytatását kezdeményezheti az Állami Számvevőszéknél.
+(4) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv a törvényességi ellenőrzése során törvényességi ellenőrzési tapasztalatai alapján a kisebbségi önkormányzat gazdálkodását érintő vizsgálat lefolytatását kezdeményezheti az Állami Számvevőszéknél.
 
 ### XI. Fejezet — A KISEBBSÉGI ÖNKORMÁNYZATOK ÉS A KÖZPONTI ÁLLAMI SZERVEK KAPCSOLATA
 
@@ -966,7 +948,7 @@ köteles az átvevő kisebbségi önkormányzattal – a közoktatási törvény
 60/M. § A Kormány:
 
 - a) kétévente legalább egy alkalommal áttekinti a Magyar Köztársaság területén élő kisebbségek helyzetét, és arról az Országgyűlésnek beszámol,
-- b) a helyi önkormányzatokért felelős miniszter közreműködésével, a közigazgatási hivatal útján biztosítja a kisebbségi önkormányzatok törvényességi ellenőrzését,
+- b) a közigazgatási hivatal útján biztosítja a kisebbségi önkormányzatok törvényességi ellenőrzését,
 - c) javaslatot terjeszt az Alkotmánybírósághoz az Alkotmánnyal ellentétesen működő kisebbségi önkormányzati testület feloszlatására,
 - d) rendeletben határozza meg a kisebbségek vonatkozásában ellátandó helyi közszolgálat képesítési előírásait,
 - e) dönt az államigazgatási szerv és a kisebbségi önkormányzat között keletkezett – jogilag szabályozott más eljárás keretébe nem tartozó – vitában.
@@ -982,6 +964,8 @@ köteles az átvevő kisebbségi önkormányzattal – a közoktatási törvény
 - b) az a) pontban meghatározott ellenőrzés eredményéről tájékoztatja a kisebbségi önkormányzatot, javaslatot tesz a hiányosságok megszüntetésére, kezdeményezheti, hogy a kisebbségi önkormányzati testület tárgyalja meg az ellenőrzés tapasztalatait, törvénysértés esetén tájékoztatja a törvényességi ellenőrzést ellátó szervet,
 - c) a központi költségvetésről szóló törvényben meghatározott címen és feltételekkel a kisebbségi önkormányzat részére pénzügyi támogatást nyújt, illetőleg nyújthat.
 
+60/P. § A kisebbségpolitikáért felelős miniszter rendeletében meghatározott feltételekkel és módon a kisebbségi közoktatásban részt vevő tanulók számára ösztöndíjat alapíthat.
+
 ### XII. Fejezet — Záró rendelkezések
 
 61. § (1) E törvény értelmében Magyarországon honos népcsoportnak minősülnek: a bolgár, a cigány, a görög, a horvát, a lengyel, a német, az örmény, a román, a ruszin, a szerb, a szlovák, a szlovén és az ukrán.
@@ -992,7 +976,7 @@ köteles az átvevő kisebbségi önkormányzattal – a közoktatási törvény
 
 (4)
 
-62. § (1) A Kormány — az e feladattal érintett miniszterek és országos hatáskörű szervek bevonásával, a közigazgatási hivatal közreműködésével — a nemzeti és etnikai kisebbségekkel kapcsolatos állami feladatok ellátásáért felelős, kormányrendeletben kijelölt államigazgatási szerv útján segíti a kisebbségek jogainak és sajátos érdekeinek érvényesülését, szervezi ezek feltételeinek biztosítását.
+62. § (1) A Kormány — az e feladattal érintett miniszterek és országos hatáskörű szervek bevonásával, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv közreműködésével — a nemzeti és etnikai kisebbségekkel kapcsolatos állami feladatok ellátásáért felelős, kormányrendeletben kijelölt államigazgatási szerv útján segíti a kisebbségek jogainak és sajátos érdekeinek érvényesülését, szervezi ezek feltételeinek biztosítását.
 
 (2)–(3)
 
@@ -1000,7 +984,7 @@ köteles az átvevő kisebbségi önkormányzattal – a közoktatási törvény
 
 (2) A költségvetési törvényben az országos kisebbségi önkormányzatok támogatására megállapított előirányzatok évközi módosítása az Országgyűlés kizárólagos hatáskörébe tartozik.
 
-(3) A költségvetési törvény az országos önkormányzatok költségvetését az Országgyűlés fejezetében állapítja meg, ezen belül elkülönítve az országos kisebbségi önkormányzatok által részben vagy egészben fenntartott intézmények központi költségvetési támogatását.
+(3) A költségvetési törvény a kisebbségpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében állapítja meg az országos önkormányzat és az országos kisebbségi önkormányzat fenntartásában lévő intézmények központi költségvetési támogatását.
 
 (4)
 
@@ -1019,7 +1003,7 @@ köteles az átvevő kisebbségi önkormányzattal – a közoktatási törvény
 - a) a kisebbségi önkormányzatok gazdálkodásának, beszámolókészítésének, könyvvezetésének, információszolgáltatásának és a kisebbségi önkormányzatok költségvetési szervei belső ellenőrzésének rendjét,
 - b) a kisebbségi önkormányzatoknak a központi költségvetésből nyújtott feladatarányos támogatások (általános működési támogatás és feladatalapú támogatás) feltételrendszerét és elszámolásának rendjét.
 
-(6)
+(6) Felhatalmazást kap a kisebbségpolitikáért felelős miniszter, hogy rendeletben szabályozza a kisebbségi közoktatásban részt vevő tanulók számára nyújtható ösztöndíj mértékét, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének szabályait.
 
 65. § A bármely módon megszűnő kisebbségi önkormányzat jogutóda az újonnan választott, megalakult kisebbségi önkormányzat. A megszűnő kisebbségi önkormányzat a megszűnés napjával könyveit lezárja, és a rá vonatkozó rész tekintetében a költségvetés alapján gazdálkodó szervek éves beszámolójával azonos tartalmú költségvetési beszámolót készít.
 

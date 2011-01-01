@@ -41,14 +41,14 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - 18. betegtájékoztató: a gyógyszerhez mellékelt, a felhasználónak (betegnek) szóló, e törvény szerinti közérthető tájékoztatás;
 - 19. közvetlen csomagolás: az a csomagolási forma, amely közvetlen kapcsolatban van a gyógyszerrel;
 - 20. külső csomagolás: azt a csomagolási formát jelenti, amely da közvetlen csomagolást foglalja magában;
-- 21. Gyógyszerkönyv: a gyógyszerkészítés, a gyógyszerminőség, a gyógyszerellenőrzés és a gyógyszerminősítés általános szabályait, valamint az egyes gyógyszerek minőségét és összetételét tartalmazó külön jogszabály szerinti szerv által kiadott, illetve módosított, a gyógyszergyártókra, forgalmazókra, orvosokra és gyógyszerészekre kötelező hivatalos kiadvány;
-- 22. Vényminta Gyűjtemény (Fo-No): a magisztrális gyógyszerkészítés szabályait, valamint az egyes gyógyszerek minőségét és összetételét tartalmazó külön jogszabály szerinti szerv által kiadott, illetve módosított, a gyógyszergyártókra, forgalmazókra, orvosokra és gyógyszerészekre kötelező hivatalos kiadvány;
+- 21. Gyógyszerkönyv: a gyógyszerkészítés, a gyógyszerminőség, a gyógyszerellenőrzés és a gyógyszerminősítés általános szabályait, valamint az egyes gyógyszerek és gyógyszer anyagok minőségét és összetételét tartalmazó, a gyógyszerészeti államigazgatási szerv által kiadott, illetve módosított, a gyógyszergyártókra, forgalmazókra, orvosokra és gyógyszerészekre kötelező hivatalos kiadvány;
+- 22. Szabványos Vényminta Gyűjtemény (FoNo): a magisztrális gyógyszerkészítés szabályait, valamint az egyes gyógyszerek minőségét és összetételét tartalmazó, a gyógyszerészeti államigazgatási szerv által kiadott, illetve módosított, a gyógyszergyártókra, forgalmazókra, orvosokra és gyógyszerészekre kötelező hivatalos kiadvány;
 - 23. különös méltánylást érdemlő betegellátási érdek: akkor áll fenn, ha a Magyar Köztársaságban érvényes forgalomba hozatali engedéllyel nem rendelkező gyógyszer orvosi kezelés során történő alkalmazásával esélye lehet a kezelés sikerességének, és ez a Magyar Köztársaságban már forgalomban lévő gyógyszertől nem várható;
 - 24. Európai Gyógyszerügynökség: az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK európai parlamenti és tanácsi rendelettel létrehozott Európai Gyógyszerügynökség;
 - 25. a gyógyszer alkalmazásával kapcsolatos kockázatok: a gyógyszer minőségével, biztonságosságával és hatásosságával kapcsolatos, a betegek egészségét vagy a közegészséget érintő bármely kockázat, illetve a környezetre gyakorolt nemkívánatos hatások kockázata;
 - 26. előny/kockázat arány: a gyógyszer pozitív terápiás hatása a 25. pontban meghatározott kockázat viszony értékelésének eredménye;
 - 27–28.
-- 29. fejlett terápiás gyógyszerkészítmény: A fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés a) pontja szerinti gyógyszer.
+- 29. fejlett (újszerű) terápiás gyógyszerkészítmény: a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés a) pontja szerinti gyógyszer.
 
 ### A törvény hatálya
 
@@ -121,6 +121,8 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (13)
 
+4/A. § A gyógyszerészeti államigazgatási szerv gyógyszer gyártására jogosító engedélye (a továbbiakban: gyógyszergyártási engedély) szükséges a gyógyszernek nem az Európai Gazdasági Térségből (a továbbiakban: EGT), illetve az Európai Közösséggel vagy az Európai Unióval megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államból (a továbbiakban: harmadik ország) történő importjához, illetve kizárólag exportra történő előállításához.
+
 ### A gyógyszer forgalomba hozatalának engedélyezése
 
 5. § (1) A forgalomba hozatali engedély az arra hatáskörrel és illetékességgel rendelkező hatóság által kiadott, a gyógyszer embergyógyászati célra történő alkalmazhatóságát engedélyező hatósági határozat. Ha e törvény másként nem rendelkezik, gyógyszer – a magisztrális gyógyszer kivételével – csak akkor hozható forgalomba, ha forgalomba hozatalát a gyógyszerészeti államigazgatási szerv vagy a 726/2004/EK európai parlamenti és tanácsi rendelet, az 1901/2006/EK európai parlamenti és tanácsi rendelet vagy az 1394/2007/EK európai parlamenti és tanácsi rendelet alapján az Európai Bizottság engedélyezte.
@@ -147,13 +149,15 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - e) osztályozását,
 - f) lejárati idejét és tárolásának körülményeit.
 
-(6) A forgalomba hozatali eljárás ügyintézési határideje a kérelem benyújtásától számított legfeljebb kettőszáztíz nap. Forgalomba hozatali engedély csak EGT-megállapodásban részes államban letelepedett kérelmezőnek adható. A forgalomba hozatali engedély jogosultja felelős a gyógyszer forgalomba hozataláért. A képviselő kijelölése nem mentesíti a forgalomba hozatali engedély jogosultját a termékért viselt egyéb jogi felelősség alól.
+(6) A forgalomba hozatali eljárás ügyintézési határideje a kérelem beérkezését követő naptól számított legfeljebb kettőszáztíz nap. Forgalomba hozatali engedély csak EGT-megállapodásban részes államban letelepedett kérelmezőnek adható. A forgalomba hozatali engedély jogosultja felelős a gyógyszer forgalomba hozataláért. A képviselő kijelölése nem mentesíti a forgalomba hozatali engedély jogosultját a termékért viselt egyéb jogi felelősség alól.
 
 (7) Az (1)–(6) bekezdés szerint kiadott forgalomba hozatali engedély öt évig hatályos. Az engedély – a hatályosság lejártát megelőzően legalább hat hónappal benyújtott kérelemre, az előny/kockázat arány újraértékelése alapján – megújítható. A megújítást követően a gyógyszer forgalomba hozatali engedélye korlátlan ideig hatályos, kivéve, ha a gyógyszerészeti államigazgatási szerv úgy dönt, hogy a külön jogszabály szerinti mellékhatás bejelentési kötelezettség alapján beérkezett adatok alapján legfeljebb csak öt évre újítja meg.
 
 (8)
 
 (9) Ha a gyógyszer gyártója, illetve a forgalomba hozatali engedély jogosultja személyében változás következik be, a forgalomba hozatali engedély jogosultja köteles a változást – a változást megtörténtét követő harminc napon belül – a gyógyszerészeti államigazgatási szervhez bejelenteni.
+
+(10) A gyógyszerészeti államigazgatási szerv által nem az Európai Unió kötelező jogi aktusában rögzített eljárással forgalomba hozatalra engedélyezett készítmények módosítási kérelmeit az 1234/2008/EK bizottsági rendeletben rögzített módon és határidőkkel kell elbírálni.
 
 6. § (1) A gyógyszerészeti államigazgatási szerv, különös méltánylást érdemlő betegellátási érdekből hivatalból is engedélyezheti a más EGT-megállapodásban részes államban már forgalomba hozatalra engedélyezett gyógyszer forgalomba hozatalát.
 
@@ -180,23 +184,23 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 10. § (1) A forgalomba hozatali engedély iránti kérelem mellékleteként a gyógyszer külső csomagolásának és közvetlen csomagolásának, valamint a betegtájékoztató tervezetének mintáját is be kell nyújtani a gyógyszerészeti államigazgatási szervhez.
 
-(2) A címke szövegére vagy a betegtájékoztatóra vonatkozó módosítások tervezetét a forgalomba hozatali engedély jogosultja kérelmére a gyógyszerészeti államigazgatási szerv engedélyezi. Amennyiben a gyógyszerészeti államigazgatási szerv a kérelem benyújtásától számított 90 napon belül a változtatást nem utasítja el, a forgalomba hozatali engedély jogosultja a kívánt módosításokat végrehajthatja.
+(2) Az alkalmazási előírással nem kapcsolatos, de a címkézésre vagy a betegtájékoztatóra vonatkozó módosítási kérelmeket a gyógyszerészeti államigazgatási szervhez kell benyújtani. Amennyiben a gyógyszerészeti államigazgatási szerv a kérelem megérkezését követő naptól számított 90 napon belül nem hoz döntést a módosítási kérelemmel kapcsolatban, a hozzájárulást megadottnak kell tekinteni.
 
 (3) A betegtájékoztatót úgy kell megírni és megszerkeszteni, hogy a beteg megfelelően tudja alkalmazni a gyógyszert, szükség esetén az egészségügyi szakember segítségével. A betegtájékoztató szövegének jól olvashatóan, magyar nyelven kell tartalmaznia a külön jogszabályban meghatározott adatokat. Az adatok a magyar nyelven kívül több nyelven is feltüntethetők, amennyiben mindegyik nyelven tartalmilag ugyanazok az információk szerepelnek.
 
 (4) Amennyiben a gyógyszert nem közvetlenül a betegnek való kiadásra szánják, a gyógyszerészeti államigazgatási szerv eltekinthet attól, hogy a csomagoláson és betegtájékoztatón minden egyes adat feltüntetésre kerüljön, továbbá attól, hogy a betegtájékoztatón szereplő adatok magyar nyelven kerüljenek feltüntetésre.
 
-(5) A gyógyszerészeti államigazgatási szerv által nem a külön közösségi jogszabályban rögzített eljárással forgalomba hozatalra engedélyezett készítmények egyéb módosítási kérelmeit a Bizottság 1234/2008/EK rendeletében rögzített módon és határidőkkel kell elbírálni.
+(5)
 
 ### Gyógyszer-nagykereskedelem
 
-11. § (1) A gyógyszer-nagykereskedelem a beszerzett gyógyszerek viszonteladónak történő értékesítése, ideértve a gyógyszerek raktározásával, szállításával, EGT-megállapodásban részes államon kívülről történő behozatalával, illetve nem e térség országaiba irányuló kivitelével kapcsolatos valamennyi tevékenységet, melynek eredményeként a gyógyszer – ha jogszabály másként nem rendelkezik – az előállítótól a lakossági gyógyszerellátóhoz eljut. Gyógyszer-nagykereskedelmi tevékenységet folytatni – ha e törvény másként nem rendelkezik – a gyógyszerészeti államigazgatási szerv e tevékenység végzésére jogosító engedélyének birtokában lehet.
+11. § (1) A gyógyszer-nagykereskedelem a beszerzett gyógyszerek viszonteladónak történő értékesítése, ideértve a gyógyszerek raktározásával, szállításával, EGT-megállapodásban részes államból történő behozatalával, vagy kivitelével és nem e térség országaiba irányuló kivitelével kapcsolatos valamennyi tevékenységet, melynek eredményeként a gyógyszer az előállítótól a lakossági gyógyszerellátóhoz eljut. Gyógyszer-nagykereskedelmi tevékenységet folytatni – ha e törvény másként nem rendelkezik – a gyógyszerészeti államigazgatási szerv e tevékenység végzésére jogosító engedélyének birtokában lehet.
 
 (2) Az engedélyt a gyógyszerészeti államigazgatási szerv akkor adja meg, ha a kérelmező megfelel a külön jogszabályban meghatározott személyi és tárgyi feltételeknek.
 
 (3) A gyógyszer-nagykereskedelmi engedély jogosultja – a külön jogszabályban meghatározott kivételtől eltekintve – az általa forgalmazott termékeket közvetlenül lakosság részére nem forgalmazhatja, illetve csak olyan megrendelőnek szállíthat gyógyszert, aki gyógyszerekkel kapcsolatos nagykereskedelmi, illetve egészségügyi szolgáltató tevékenység végzésére engedéllyel rendelkezik.
 
-(4) Az engedély kiadásáról a hatóság a kérelem benyújtásától számított kilencven napon belül dönt. A nagykereskedelmi engedély visszavonásáig hatályos.
+(4) Az engedély kiadásáról és módosításáról a hatóság a kérelem beérkezését követő naptól számított kilencven napon belül dönt. A nagykereskedelmi engedély visszavonásig érvényes.
 
 (5)
 
@@ -204,25 +208,15 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 12. § (1) A gyógyszerellátás azon tevékenységek összessége, amely magába foglalja a gyártást, előállítást, tárolást és forgalmazást és amelynek eredményeként a gyógyszer a közvetlen felhasználóhoz eljut.
 
-(2) A lakossági gyógyszerellátás az a közforgalmú, fiók- és kézigyógyszertár, valamint az intézeti gyógyszertár által végzett egészségügyi szakellátó tevékenység, amely során az egészségügyi szolgáltató a gyógyszert és az alkalmazásával összefüggő szakmai információt a betegek részére közvetlenül biztosítja.
+(2) Gyógyszer beteg részére történő beszerzéséről és kiszolgáltatásáról – ha jogszabály másként nem rendelkezik – gyógyszertár gondoskodik.
 
-### Lakossági gyógyszerellátás
+(3) A gyógyszertár – ha törvény másként nem rendelkezik – gyógyszert csak olyan gazdálkodó szervezettől szerezhet be, amely rendelkezik gyógyszer-nagykereskedelmi tevékenységre jogosító hatósági engedéllyel.
 
-13. § (1) A gyógyszertárak létesítéséről és működésük egyes szabályairól külön törvény rendelkezik.
+(4) Amennyiben a gyógyszertár a készletéből az igényelt gyógyszert azonnal kiadni nem tudja, tájékoztatni köteles a beteget a gyógyszer beszerzésének várható időpontjáról.
 
-(2) A gyógyszertár – ha törvény másként nem rendelkezik – gyógyszert csak olyan gazdálkodó szervezettől szerezhet be, amely rendelkezik gyógyszer-nagykereskedelmi tevékenységre jogosító hatósági engedéllyel.
+13. §
 
-(3) A gyógyszertár gondoskodik a Magyar Köztársaság területén forgalmazott gyógyszereknek a felhasználó (beteg) részére történő beszerzéséről és kiszolgáltatásáról. Amennyiben a gyógyszertár a készletéből az igényelt gyógyszert a megrendelő részére azonnal kiadni nem tudja, tájékoztatni köteles a beszerzés legkorábbi időpontjáról.
-
-(4) A gyógyszertár a külön jogszabályban meghatározott szolgálati időben köteles a lakosság gyógyszerellátását biztosítani.
-
-### Intézeti gyógyszerellátás
-
-14. § (1) Az intézeti gyógyszerellátás az intézeti gyógyszertárban végzett azon gyógyszerellátási és gyógyszer-előállítási szaktevékenységek összessége, amelynek során az intézeti gyógyszertár a fekvőbeteg-intézményben ápolt, kezelt betegek gyógyszerellátását biztosítja.
-
-(2) A fekvőbeteg-ellátó intézmény a gyógyszerellátással kapcsolatos feladatait intézeti gyógyszertár működtetésével, illetve a gyógyszereknek a gyógyító osztályokon, járóbeteg-szakrendeléseken (ambulanciákon) történő tárolásával a beteg részére való kiadásával látja el.
-
-(3) A beteg intézeti tartózkodása alatt a kezelése során csak az intézet gyógyszertára által bevételezett és onnan az osztályokra, részlegekre kiadott gyógyszerek – ideértve a kórházi, klinikai vizsgálatok céljából érkezett készítményeket – alkalmazhatók, a külön jogszabályban foglalt esetek kivételével.
+14. §
 
 ### Kábítószerként és pszichotróp anyagként minősített gyógyszerekre vonatkozó külön rendelkezések
 
@@ -272,9 +266,9 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (2) A feltételezett minőségi hiba bejelentője a bejelentéssel egyidejűleg köteles a minőség-ellenőrző vizsgálathoz szükséges – a külön jogszabályban meghatározott mennyiségű – gyógyszert is megküldeni.
 
-(3) A gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett bejelentést megvizsgálja, és megteszi a (4) bekezdés szerinti szükséges intézkedéseket, továbbá a vizsgálat eredményét és döntését közli a bejelentővel és a forgalomba hozatali engedély jogosultjával.
+(3) Amennyiben a gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett bejelentés kapcsán vagy a tudomására jutott egyéb információk alapján megállapítja, hogy egy gyógyszer nem felel meg a forgalomba hozatali engedélyében rögzített követelményeknek, határozattal felfüggeszti a gyógyszer érintett gyártási tételének forgalmazását, illetve elrendeli annak a forgalomból történő kivonását. A határozatot a gyógyszerészeti államigazgatási szerv honlapján is közzé kell tenni. A forgalomból való kivonás és a forgalmazás felfüggesztésének rendjét az egészségügyért felelős miniszter rendelete állapítja meg.
 
-(4) Amennyiben a gyógyszerészeti államigazgatási szerv megállapítja, hogy a gyógyszer, illetve a gyógyszer gyártási tétele nem felel meg a forgalomba hozatali engedélyben rögzített követelményeknek, a gyógyszert, illetve a gyógyszer gyártási tételét a forgalomból kivonja, és erről szóló határozatát nyilvánosan közzéteszi. A határozatot a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben is közzé kell tenni. A forgalomból való kivonás rendjét külön jogszabály állapítja meg.
+(4) Amennyiben minőség-ellenőrző vizsgálatra van szükség, a gyógyszer beszerzéséről a gyógyszerészeti államigazgatási szerv gondoskodik.
 
 (5) A gyógyszer forgalomból való kivonásának költségei – ideértve az (1)–(3) bekezdés eseteit is – a forgalomba hozatali engedély jogosultját terhelik.
 
@@ -313,19 +307,19 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (2) A gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását.
 
-(3) Amennyiben a gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapítja, hogy a forgalomba hozatali engedély jogosultja, illetve képviselője, a gyógyszer gyártója vagy a gyógyszer-nagykereskedelmi engedély jogosultja, a klinikai vizsgálati engedély jogosultja, valamint gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratórium a tevékenysége folytatása során az e törvényben, illetve az e törvény felhatalmazása alapján kiadott külön jogszabályokban meghatározott feltételeinek nem tesz eleget, illetve kötelezettségét megszegi,
+(3) Amennyiben a gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapítja, hogy az arra kötelezett természetes személy, jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság tevékenysége folytatása során az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott feltételeinek nem tesz eleget, illetve kötelezettségét megszegi,
 
-- a) elrendelheti a jogsértő állapot megszüntetését;
-- b) megtilthatja a jogsértő magatartás további folytatását;
-- c) elrendelheti, illetve kezdeményezheti az emberi életet, egészséget, testi épséget veszélyeztető gyógyszer vagy annak gyártási tétele forgalomból történő kivonását;
-- d) határidővel felhívhatja az ellenőrzöttet a hiányosságok megszüntetésére, illetve a hiányosságok megszüntetéséig a tevékenység folytatását felfüggesztheti;
-- e) ismételt jogsértés esetén a tevékenység folytatására vonatkozó engedélyt visszavonhatja.
+- a) elrendelheti a jogsértő állapot megszüntetését, vagy
+- b) megtilthatja a jogsértő magatartás további folytatását, vagy
+- c) elrendelheti, illetve kezdeményezheti az emberi életet, egészséget, testi épséget veszélyeztető gyógyszer vagy annak gyártási tétele forgalomból történő kivonását, vagy
+- d) határidővel felhívhatja az ellenőrzöttet a hiányosságok megszüntetésére, illetve a hiányosságok megszüntetéséig a tevékenység folytatását felfüggesztheti, vagy
+- e) ismételt, vagy súlyos közegészségügyi veszélyt rejtő jogsértés esetén a tevékenység folytatására vonatkozó engedélyt visszavonhatja.
 
 (4) A gyógyszerészeti államigazgatási szerv, illetve az egészségügyi államigazgatási szerv bírságot szabhat ki azzal szemben, aki a jogsértést elkövette. A bírság többszörös jogsértés esetén halmozottan is kiszabható.
 
-(5) A bírság összegét az eset összes körülményeire – így különösen a betegek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására – tekintettel kell meghatározni azzal, hogy a bírság legalacsonyabb összege százezer Ft, legmagasabb összege a jogsértést elkövető előző naptári évében a jogsértés tárgyát képező terméket tekintve elért nettó hazai árbevételének 1%-a. A jogerősen kiszabott és be nem fizetett bírságot adók módjára kell behajtani.
+(5) Az e törvény szerinti, gyógyszerellátással kapcsolatos kötelezettség megszegése esetén, a bírság összegét az eset összes körülményeire – így különösen a betegek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására – tekintettel kell meghatározni azzal, hogy a bírság legalacsonyabb összege százezer Ft. A jogerősen kiszabott és be nem fizetett bírságot adók módjára kell behajtani.
 
-(6) Az e törvény szerinti, gyógyszerellátással kapcsolatos kötelezettség megszegése esetén a bírság összegét az eset összes körülményeire – így különösen a betegek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására – tekintettel kell meghatározni azzal, hogy a bírság legalacsonyabb összege százezer Ft. A jogerősen kiszabott és be nem fizetett bírságot adók módjára kell behajtani.
+(6)
 
 (7) A bírságot a gyógyszerészeti államigazgatási szerv, illetve az egészségügyi államigazgatási szerv számlájára kell befizetni. Amennyiben a jogsértő magatartást, illetve a mulasztást támogatott gyógyszerrel összefüggésben követték el, a kiszabott bírság 50%-át az Egészségbiztosítási Alapba kell befizetni.
 
@@ -386,7 +380,7 @@ kártérítést fizet.
 
 (7) Amennyiben a gyógyszer rendelése a forgalomba hozatali engedélyének alkalmazási előírása alapján az adott esetben ellenjavallt, nem lehet indikáción túli gyógyszerrendelés keretében sem alkalmazni.
 
-(8) A gyógyszerészeti államigazgatási szerv a (6) bekezdés szerinti engedély kiadásáról a kérelem benyújtását követő tizenöt munkanapon – sürgős szükség esetén soron kívül, de legkésőbb 2 munkanapon – belül dönt, szükség esetén az illetékes szakmai kollégium véleményének kikérését követően.
+(8) A gyógyszerészeti államigazgatási szerv a (6) bekezdés szerinti engedély kiadásáról a kérelem beérkezését követő naptól számított huszonegy napon – sürgős szükség esetén soron kívül, de legkésőbb három napon – belül dönt, szükség esetén az illetékes szakmai kollégium véleményének kikérését követően.
 
 (9) Sürgős szükség esetén indokolt, indikáción túli gyógyszerrendelés szabályait külön jogszabály tartalmazza.
 
@@ -396,28 +390,30 @@ kártérítést fizet.
 
 (12) A (6) bekezdés c) pontja szerinti kérelemre, a (8) bekezdés szerinti engedélyre és a (10) bekezdés szerinti betegtájékoztatásra vonatkozó részletes szabályokat külön jogszabály tartalmazza.
 
+25/A. §
+
+25/A. § A gyógyszerészeti államigazgatási szerv engedélyezi az 1. § 29. pontja szerinti forgalomba hozatali engedéllyel nem rendelkező fejlett (újszerű) terápiás gyógyszerkészítmény gyártását abban az esetben is, ha azt nem rendszeres jelleggel meghatározott minőségi követelményeknek megfelelően állítják elő és egy kezelőorvos kizárólagos szakmai felelőssége mellett használják fel egy adott fekvőbeteg-gyógyintézetben, egy adott beteg számára szóló, rendelésre készült készítményre vonatkozó egyedi orvosi rendelvény teljesítése érdekében [a továbbiakban: fejlett (újszerű) terápiás gyógyszerkészítmény kórházi eseti gyártása].
+
 ### A gyógyszerekkel kapcsolatos egyes engedélyezési eljárások eljárási díjai
 
-25/A. § (1) Az emberi felhasználásra kerülő gyógyszerek gyártásával, forgalomba hozatalával, forgalmazásával, a forgalomba hozatali engedély fenntartásával, a gyógyszer-nagykereskedelmi tevékenység folytatásával, a gyógyszernek nem minősülő gyógyhatású termékek gyógyszerré történő átminősítésével, a párhuzamos importtal, a vizsgálati készítmények klinikai vizsgálatával, a Helyes Laboratóriumi Gyakorlat alkalmazásával kapcsolatos – a melléklet szerinti – engedélyezési, módosítási és egyéb eljárásokért – a (2) bekezdésben foglalt kivétellel – az eljárás lefolytatását, illetve az engedély kiadását kérelmező a mellékletben meghatározott igazgatási szolgáltatási díjat (a továbbiakban: díj), a forgalomba hozatali engedély fenntartásáért pedig évente a mellékletben meghatározott fenntartási díjat köteles fizetni.
+25/B. § (1) Az emberi felhasználásra kerülő gyógyszerek gyártásával, forgalomba hozatalával, forgalmazásával, a forgalomba hozatali engedély fenntartásával, a gyógyszer-nagykereskedelmi tevékenység folytatásával, a gyógyszernek nem minősülő gyógyhatású termékek gyógyszerré történő átminősítésével, a párhuzamos importtal, a vizsgálati készítmények klinikai vizsgálatával, a Helyes Laboratóriumi Gyakorlat alkalmazásával kapcsolatos – az 1. számú melléklet szerinti – engedélyezési, módosítási és egyéb eljárásokért – a (2) bekezdésben foglalt kivétellel – az eljárás lefolytatását, illetve az engedély kiadását kérelmező az 1. számú mellékletben meghatározott igazgatási szolgáltatási díjat (a továbbiakban: díj), a forgalomba hozatali engedély fenntartásáért pedig évente az 1. számú mellékletben meghatározott fenntartási díjat köteles fizetni.
 
-(2) A külön jogszabályban meghatározott nem kereskedelmi célú klinikai vizsgálat engedélyezése iránti eljárások díjmentesek.
+(2) A kormányrendeletben meghatározott nem kereskedelmi célú klinikai vizsgálat engedélyezése iránti eljárások díjmentesek.
 
-(3) A díjat a melléklet I., II. és III/A–G. pontjaiban felsorolt eljárások esetén klinikai vizsgálatonként és gyógyszerenként kell megfizetni.
+(3) A díjat az 1. számú melléklet I., II. és III/A–G. pontjaiban felsorolt eljárások esetén klinikai vizsgálatonként és gyógyszerenként kell megfizetni.
 
-(4) A melléklet szerinti díj megállapításánál az alábbiakat kell figyelembe venni:
+(4) Az 1. számú melléklet szerinti díj megállapításánál az alábbiakat kell figyelembe venni:
 
-- a) amennyiben hasonszenvi gyógyszer hasonszenvi komponensen kívül nem hasonszenvi (allopátiás) komponenst is tartalmaz, a készítmény – készítési módjától függetlenül – nem számít hasonszenvinek, így az allopátiás szerekre vonatkozó gyógyszer forgalomba hozatali engedélyezési díjakat kell érvényesíteni,
+- a) amennyiben hasonszenvi gyógyszer hasonszenvi komponensen kívül nem hasonszenvi (allopátiás) komponenst is tartalmaz, az allopátiás szerekre vonatkozó gyógyszer forgalomba hozatali engedélyezési díjakat kell érvényesíteni,
 - b) amennyiben hasonszenvinek jelzett és ilyen eljárással készült gyógyszer terápiás hatásra való hivatkozással kerül forgalomba, úgy a díjfizetés szempontjából a nem hasonszenvi gyógyszerekkel azonos megítélés alá esik.
 
-(5) Az (1) bekezdés szerint kiadott engedély adataiban, továbbá az egyes gyógyszerek forgalomba hozatali engedélyének adataiban bekövetkezett változás miatti minden egyes önálló, más módosítással össze nem függő módosítási kérelem – gyógyszerenként, azaz gyógyszerformánként vagy hatáserősségenként – külön eljárási díj-köteles, függetlenül attól, hogy a kérelmet egyedileg vagy több gyógyszerre vonatkozóan csoportosítva egyidejűleg nyújtják be. A klinikai vizsgálat engedélyének módosítása során minden egyes önálló, külön jogszabály szerinti, egymással össze nem függő tartalmi módosítás iránti kérelem külön eljárási díj köteles, függetlenül attól, hogy a kérelmet egyedileg vagy több klinikai vizsgálatra vonatkozóan csoportosítva egyidejűleg nyújtják be.
+(5) Az (1) bekezdés szerint kiadott engedély adataiban, továbbá az egyes gyógyszerek forgalomba hozatali engedélyének adataiban bekövetkezett változás miatti minden egyes önálló, más módosítással össze nem függő módosítási kérelem – gyógyszerformánként vagy hatáserősségenként – külön eljárásidíj-köteles, függetlenül attól, hogy a kérelmet egyedileg vagy több gyógyszerre vonatkozóan csoportosítva egyidejűleg nyújtják be. A klinikai vizsgálat engedélyének módosítása során minden egyes önálló, jogszabály szerinti, egymással össze nem függő tartalmi módosítás iránti kérelem külön eljárási díj köteles, függetlenül attól, hogy a kérelmet egyedileg vagy több klinikai vizsgálatra vonatkozóan csoportosítva egyidejűleg nyújtják be.
 
-(6) A díjat a kérelem benyújtásakor, az évenkénti fenntartási díjat a tárgyév január hó 31-ig kell a külön jogszabályban meghatározott módon a gyógyszerészeti államigazgatási szerv részére megfizetni.
+(6) A díjat a kérelem benyújtásakor, az évenkénti fenntartási díjat a tárgyév január hó 31-ig kell az egészségügyért felelős miniszter rendeletében meghatározott módon a gyógyszerészeti államigazgatási szerv részére megfizetni.
 
-(7) A befizetett díj – a külön jogszabályban foglaltak kivételével – a gyógyszerészeti államigazgatási szerv bevétele, és azok nyilvántartására, elszámolására az államháztartás alrendszerébe tartozó költségvetés alapján gazdálkodó szervek beszámolási és könyvvezetési kötelezettségéről szóló hatályos jogszabályi előírásokat kell alkalmazni.
+(7) A befizetett díj – jogszabályban foglaltak kivételével – a gyógyszerészeti államigazgatási szerv, valamint az eljárásában jogszabály szerint közreműködő szakhatóság bevétele, és a díjak nyilvántartására, elszámolására az államháztartás alrendszerébe tartozó költségvetés alapján gazdálkodó szervek beszámolási és könyvvezetési kötelezettségéről szóló hatályos jogszabályi előírásokat kell alkalmazni. A befizetett díjból a szakhatóság az egészségügyért felelős miniszter rendeletében meghatározott díjmegosztás szerint részesül.
 
-(8) A díjfizetés tárgya tekintetében az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (2)–(3) bekezdésében foglaltakat, a díjfizetésre kötelezettek tekintetében az Itv. 31. § (1) bekezdés első mondatában, valamint 31. § (8) bekezdésében foglaltakat kell megfelelően alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
-
-25/A. § A gyógyszerészeti államigazgatási szerv engedélyezi az 1. § 29. pontja szerinti forgalomba hozatali engedéllyel nem rendelkező fejlett terápiás gyógyszerkészítmény gyártását abban az esetben is, ha azt nem rendszeres jelleggel a kezelőorvos kizárólagos szakmai felelőssége mellett állítják elő és használják fel egy adott fekvőbeteg-gyógyintézetben, egy adott beteg számára szóló, rendelésre készült készítményre vonatkozó egyedi orvosi rendelvény teljesítése érdekében (a továbbiakban: fejlett terápiás gyógyszerkészítmény kórházi eseti gyártása).
+(8) A díjfizetés tárgya tekintetében az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (2)–(3) bekezdésében foglaltakat, a díjfizetésre kötelezettek tekintetében az Itv. 31. § (1) bekezdés első mondatában foglaltakat kell megfelelően alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
 
 ### Vegyes rendelkezések
 
@@ -460,9 +456,9 @@ rendeletben szabályozza.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy
 
-- a) a gyógyszerek forgalomba hozatali engedély kiadásával kapcsolatos eljárás részletes szabályait, az engedélyezés feltételeit, továbbá a forgalomból való kivonás rendjét,
+- a) a gyógyszerek forgalomba hozatali engedély kiadásával kapcsolatos eljárás részletes szabályait, az engedélyezés feltételeit, továbbá a forgalomból való kivonás, illetve a forgalmazás felfüggesztésének rendjét,
 - b) az e törvény hatálya alá tartozó gyógyszerek különböző típusait,
-- c) a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratóriumok működésére és felügyeletére vonatkozó részletes szabályokat,
+- c) a helyes laboratóriumi gyakorlat alapelveire és követelményeire vonatkozó, továbbá a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratóriumok működésére és felügyeletére vonatkozó részletes szabályokat,
 - d) a klinikai vizsgálatok szakmai feltételeit, a klinikai vizsgálatok engedélyezéséhez szükséges dokumentációt, az engedélyezési eljárás részletes szabályait, a kutatásetikai bizottság eljárását, valamint a klinikai vizsgálatok végzésének és ezek ellenőrzésének szakmai feltételeit,
 - e) a gyógyszernek nem minősülő gyógyhatású anyag vagy termék gyógyszerré történő átminősítésének feltételeit,
 - f) a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenység végzésének részletes szabályait,
@@ -476,7 +472,8 @@ rendeletben szabályozza.
 - n) a gyógyszerek címkéjére és a betegtájékoztatóra vonatkozó szabályokat,
 - o) a gyógyszertár által történő gyógyszer kiszolgáltatás formáit és szakmai szabályait, illetve a gyógyszerészi gondozás szabályait,
 - p) a gyógyszerek ártalmatlanításának módját és a követendő eljárás rendjét, a kábítószernek, illetve pszichotróp anyagnak minősülő gyógyszerek esetén alkalmazandó fokozott biztonsági rendszabályokat, valamint a környezetvédelmi előírások betartásának ellenőrzését,
-- q) a fejlett terápiás gyógyszerkészítmények kórházi eseti gyártásának engedélyezési szabályait
+- q) a fejlett terápiás gyógyszerkészítmények kórházi eseti gyártásának engedélyezési szabályait,
+- r) a gyógykezelt személy által a határátlépés során a gyógykezeléshez szükséges, kábítószerként vagy pszichotróp anyagként minősített gyógyszerekről kiállítandó kezelőorvosi igazolás nemzetközi előírásoknak megfelelő tartalmi és formai követelményeit,
 
 rendeletben szabályozza.
 
@@ -489,13 +486,13 @@ rendeletben szabályozza.
 
 fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket.
 
-(7) A gyógyszernek nem minősülő gyógyhatású anyagok és készítmények nyilvántartásáról és forgalomba hozataláról szóló 10/1987. (VIII. 19.) EüM rendelet alapján gyógyszernek nem minősülő anyagként vagy készítményként nyilvántartásba vett termékek gyártói, illetve forgalmazói 2011. március 31-éig kérhetik készítményeik gyógyszerré vagy más termékké való átminősítését. E törvény hatálybalépését követően új gyógyszernek nem minősülő gyógyhatású készítmény nyilvántartásba vétele és a forgalomba hozatala engedélyezésére eljárás nem indítható.
+(7) A gyógyszernek nem minősülő gyógyhatású anyagok és készítmények nyilvántartásáról és forgalomba hozataláról szóló miniszteri rendelet alapján gyógyszernek nem minősülő anyagként vagy készítményként nyilvántartásba vett termékek gyártói, illetve forgalmazói 2011. március 31-éig kérhetik növényi összetevőt is tartalmazó készítményeik gyógyszerré vagy más termékké való átminősítését. E törvény hatálybalépését követően új gyógyszernek nem minősülő gyógyhatású készítmény nyilvántartásba vételére és a forgalomba hozatalának engedélyezésére eljárás nem indítható.
 
 (8) A (7) bekezdés alatti termékek gyógyszerré történő átminősítésének feltételeit külön jogszabály állapítja meg.
 
-(9) A (7) bekezdés alatti termékek – amennyiben azokat nem minősítették át gyógyszerré – 2011. április 1. napjától gyógyhatásra való hivatkozással nem hozhatók forgalomba.
+(9) A 2011. március 31-én már forgalomban lévő, növényi összetevőt is tartalmazó gyógyszernek nem minősülő gyógyhatású anyagok és készítmények gyógyhatásra való hivatkozással lejárati idejükig, de legkésőbb 2013. április 1. napjáig forgalmazhatóak.
 
-(10) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a 25/A. § szerinti díj kezelésére és nyilvántartására vonatkozó szabályokat – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben határozza meg.
+(10) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a 25/B. § szerinti díj kezelésére, nyilvántartására és megosztására vonatkozó szabályokat – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben határozza meg.
 
 33. § (1) Ez a törvény a törvény végrehajtására a 32. § (5) bekezdésében adott felhatalmazás alapján megalkotott miniszteri rendeletekkel együtt a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -703,3 +700,15 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 | III.K. | Magyarországon forgalomba hozatali engedéllyel rendelkező gyógyszerkészítmény forgalmazásának, gyártásának rendszeres helyszíni ellenőrzését és annak megfelelőségét igazoló bizonylat kiadása, készítményenként és alkalmanként |  |  |  |  |  |  | 22 500 |
 | III.L. | Szakértői tevékenység végzése, szaktanácsadás, konzultáció óradíja |  |  |  |  |  |  | 8 000 |
 | III.M. | Gyógyszerkészítménnyé történő átminősítés |  |  |  |  |  |  | 405 000 |
+| III.N. | Géntechnológiai engedély |  |  |  |  |  |  |  |
+| III.N.1. | Természetes szervezetek géntechnológiával való módosításának engedélyezése: géntechnológiai módosításonként |  |  |  |  |  |  | 70 000 |
+| III.N.2. | Géntechnológiai módosításokat végző létesítmény létesítése: létesítményenként |  |  |  |  |  |  | 260 000 |
+| III.N.3. | A géntechnológiával módosított szervezetek és az azokból előállított termékek zárt rendszerben történő felhasználása: géntechnológiai módosításonként |  |  |  |  |  |  | 135 000 |
+| III.N.4. | A géntechnológiával módosított szervezetek és az azokból előállított termékeknek a környezetbe való kibocsátása: géntechnológiai módosításonként és kibocsátási helyenként |  |  |  |  |  |  | 300 000 |
+| III.N.5. | A géntechnológiával módosított szervezetek és az azokból előállított termékek forgalomba hozatala: géntechnológiai módosításonként |  |  |  |  |  |  | 250 000 |
+| III.N.6. | A géntechnológiával módosított szervezetek és az azokból előállított termékek kivitele és behozatala: kérelmenként |  |  |  |  |  |  | 180 000 |
+| III.N.7. | A géntechnológiával módosított szervezetek és az azokból előállított termékek szállítása: kérelmenként |  |  |  |  |  |  | 70 000 |
+| III.O. | Vizsgálóhely I. fázisú klinikai farmakológiai vizsgálóhellyé történő minősítése |  |  |  |  |  |  | 450 000 |
+| III.P. | Gyógyszernek nem minősülő gyógyhatású készítmény |  |  |  |  |  |  |  |
+| III.P.1. | A forgalomba hozatali engedély módosítása |  |  |  |  |  |  | 90 000 |
+| III.P.2. | A forgalomba hozatali engedély meghosszabbítása |  |  |  |  |  |  | 90 000 |

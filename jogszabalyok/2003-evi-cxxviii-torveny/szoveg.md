@@ -89,7 +89,7 @@ rendelkezéseit kell alkalmazni.
 
 9. § (1) A gyorsforgalmi út építése során a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) szerinti előzetes vizsgálati és környezeti hatásvizsgálati eljárásokban első fokon a környezetvédelmi hatóságnak a Kormány által rendeletben kijelölt országos illetékességű szerve (a továbbiakban: környezetvédelmi hatóság) rendelkezik hatáskörrel és illetékességgel.
 
-(2) A környezetvédelmi hatóság az (1) bekezdés szerinti eljárásokban köteles a Kormány által rendeletben kijelölt, országos illetékességgel eljáró szerv (a továbbiakban: közlekedési hatóság) véleményét beszerezni.
+(2) A környezetvédelmi hatóság az (1) bekezdés szerinti eljárásokban köteles a Kormány által rendeletben kijelölt, országos illetékességgel eljáró szerv (a továbbiakban: közlekedési hatóság) véleményét kikérni.
 
 (3) A környezetvédelmi hatóság a közmeghallgatást a közlekedési hatóság és az építtető bevonásával teljesíti.
 
@@ -113,7 +113,7 @@ rendelkezéseit kell alkalmazni.
 
 (3)
 
-13. § Az ingatlanügyi hatóság a gyorsforgalmi út tervezéséhez, a terület igénybevételéhez szükséges ingatlan-nyilvántartási adatokat, a tulajdoni lap másolatát és az ingatlan-nyilvántartási térkép másolatát a kérelmező részére 10 munkanapon belül adja ki.
+13. § Az ingatlanügyi hatóság a gyorsforgalmi út tervezéséhez, a terület igénybevételéhez szükséges ingatlan-nyilvántartási adatokat, a tulajdoni lap másolatát és az ingatlan-nyilvántartási térkép másolatát a kérelmező részére tizenöt napon belül adja ki.
 
 14. § A gyorsforgalmi úthálózat fejlesztésére indított környezetvédelmi és építési engedélyezési eljárás ügyintézési határidejét az eljáró hatóságok vezetője nem hosszabbíthatja meg.
 
@@ -125,7 +125,7 @@ rendelkezéseit kell alkalmazni.
 
 16. § (1) A 15. §-ban foglaltakat megfelelően alkalmazni kell a gyorsforgalmi út forgalomba helyezését engedélyező határozat bírósági felülvizsgálatára is.
 
-(2) A szakhatóságok, a közművek üzembentartói és az utak kezelői a közlekedési hatóság által kitűzött helyszíni szemlén vagy az azt követő öt munkanapon belül nyilatkoznak arról, hogy a forgalomba helyezési engedély megadásának feltételei fennállnak. Ha a közművek üzembentartói és az utak kezelői nem nyilatkoznak, a hozzájárulásukat, illetve beleegyezésüket megadottnak kell tekinteni.
+(2) A szakhatóságok, a közművek üzembentartói és az utak kezelői a közlekedési hatóság által kitűzött helyszíni szemlén vagy az azt követő nyolc napon belül nyilatkoznak arról, hogy a forgalomba helyezési engedély megadásának feltételei fennállnak. Ha a közművek üzembentartói és az utak kezelői nem nyilatkoznak, a hozzájárulásukat, illetve beleegyezésüket megadottnak kell tekinteni.
 
 17. § (1) A Kormány által, a megvalósítandó gyorsforgalmi út számára rendelettel megállapított nyomvonalat tartalmazó dokumentációval (jóváhagyott tanulmányterv) – amely tartalmazza a tervezett csomópontokat, valamint jellemző hossz- és keresztszelvényeket is – vagy az építési engedéllyel rendelkező külterületi gyorsforgalmi út tengelyétől számított 250-250 méter széles területsáv beépítésre szánt területté – a külön jogszabályban megjelölt gazdasági terület kivételével – nem nyilvánítható.
 
@@ -153,7 +153,7 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 
 (9) A (3)–(4) bekezdés szerinti tilalommal, illetve használati korlátozással bekövetkező akadályoztatás (az ingatlannak gyorsforgalmi út céljára történő rendelkezésre tartása) miatt a tulajdonos (haszonélvező) javára az akadályoztatás (rendelkezésre tartás) időtartamára, jellegére, az akadályoztatást megelőző használathoz képest megállapítható mértékére figyelemmel egyszeri kártalanítást kell fizetni. Ha az ingatlan gyorsforgalmi út céljára történő megszerzése adásvétellel történik, a kártalanítás az építtető és a tulajdonos (haszonélvező) közötti megállapodás tárgya, azt a kisajátítás esetén pedig a kisajátítási kártalanítás összegének megállapítása során, a kisajátítással kapcsolatos esetleges értékveszteség körében kell figyelembe venni.
 
-(10) A (9) bekezdés szerinti kártalanítást adásvételi szerződés vagy kisajátítási eljárás hiányában a tulajdonos kérelmére a közigazgatási hivatal állapítja meg a gyorsforgalmi úthálózat fejlesztésére rendelkezésre álló keret terhére. A kártalanítás megállapítására vonatkozó eljárásra a kisajátítási eljárás szabályait kell alkalmazni.
+(10) A (9) bekezdés szerinti kártalanítást adásvételi szerződés vagy kisajátítási eljárás hiányában a tulajdonos kérelmére a Kormány általános hatáskörű területi államigazgatási szerve állapítja meg a gyorsforgalmi úthálózat fejlesztésére rendelkezésre álló keret terhére. A kártalanítás megállapítására vonatkozó eljárásra a kisajátítási eljárás szabályait kell alkalmazni.
 
 (11) Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 9. §-ában foglaltakra tekintettel, a miniszter kezdeményezésére, az (1) bekezdésben említett jóváhagyott tanulmánytervet az érintett települési önkormányzatoknak a – külön jogszabályban meghatározott – településrendezési eszközeikben figyelembe kell venniük és amennyiben szükséges, azt a 18. §-ban említett miniszteri rendelet hatálybalépésétől számított hat hónapon belül a települési rendezési tervükben, illetve a helyi építési szabályzatukban át kell vezetniük. Az ehhez szükséges pénzügyi fedezetet az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 6. §-ának (4) bekezdésében foglaltak szerint a Kormány a gyorsforgalmi úthálózat fejlesztésére rendelkezésre álló keretből [3. § (1) bekezdés] biztosítja az önkormányzatok számára.
 

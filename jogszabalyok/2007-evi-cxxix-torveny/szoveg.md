@@ -206,7 +206,7 @@ a termőföld védelméről
 
 (2) A díjfizetési kötelezettség – ideértve a jogorvoslati eljárást is – kizárólag az ingatlanügyi hatóságnál a kérelem előterjesztésével egyidejűleg a pénztárába történő készpénzbefizetéssel vagy az ingatlanügyi hatóság előirányzat-felhasználási keretszámlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással teljesíthető. A díjnak az ingatlanügyi hatóság előirányzat-felhasználási keretszámlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén a kérelem előterjesztésekor mellékelni kell a díj megfizetését igazoló okiratot.
 
-(3) A díj megfizetésének elmulasztása esetén az ingatlanügyi hatóság a kérelem benyújtásától számított tíz munkanapon belül hiánypótlási felhívást bocsát ki. A kérelmező a hiánypótlási felhívás kézhezvételétől számított tíz munkanapon belül köteles a díjat megfizetni és igazolni annak megfizetését.
+(3) A díj megfizetésének elmulasztása esetén az ingatlanügyi hatóság a kérelem benyújtásától számított tizenöt napon belül hiánypótlási felhívást bocsát ki. A kérelmező a hiánypótlási felhívás kézhezvételétől számított tizenöt napon belül köteles a díjat megfizetni és igazolni annak megfizetését.
 
 (4)
 
@@ -214,7 +214,7 @@ a termőföld védelméről
 
 (2) Ha a kérelem és a befizetést igazoló okiratok alapján megállapítható, hogy az ügyfél a törvényes mértéket meghaladó összegű díjat fizetett, a többletet vissza kell téríteni.
 
-(3) A visszatérítést a többletbefizetés megállapítását követően hivatalból kell elrendelni, és annak teljesítéséről huszonkét munkanapon belül intézkedni kell.
+(3) A visszatérítést a többletbefizetés megállapítását követően hivatalból kell elrendelni, és annak teljesítéséről harminc napon belül intézkedni kell.
 
 ### A FÖLDVÉDELMI JÁRULÉK ÉS BÍRSÁG
 

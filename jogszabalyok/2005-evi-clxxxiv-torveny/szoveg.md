@@ -451,9 +451,7 @@ amelyre azok – a kézhezvételtől számított 60 napon belül – észrevéte
 
 21. § (1) Ez a törvény – a (2) és (3) bekezdésben foglalt kivételekkel – 2006. január 1-jén lép hatályba.
 
-(2) E törvény rendelkezéseit a súlyos vasúti baleset, a vasúti baleset, a váratlan vasúti esemény, továbbá a súlyos víziközlekedési baleset és a rendkívüli hajózási esemény szakmai vizsgálata tekintetében 2006. március 1. napjától kell alkalmazni.
-
-(3) E törvénynek a víziközlekedésről szóló 2000. évi XLII. törvény 62. §-ának új szövegét megállapító 21. §-a (4) bekezdésének b) pontja, valamint 23. §-ának c) pontja 2006. március 1-jén lép hatályba.
+(2)–(3)
 
 (4)
 
@@ -461,9 +459,7 @@ amelyre azok – a kézhezvételtől számított 60 napon belül – észrevéte
 - c)
 - d)
 
-(5) E törvény rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
-
-(6) Az e törvény hatálybalépésekor folyamatban levő, a külön jogszabályban meghatározott polgári kivizsgáló szerv (Polgári Légiközlekedés-biztonsági Szervezet) által megkezdett eljárásokat a közlekedésbiztonsági szerv folytatja le.
+(5)–(6)
 
 22. § (1) Felhatalmazást kap a miniszter, hogy
 
@@ -474,9 +470,9 @@ amelyre azok – a kézhezvételtől számított 60 napon belül – észrevéte
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a miniszter, a honvédelemért felelős miniszter és a rendészetért felelős miniszter, hogy a kizárólag állami légijárművel bekövetkezett légiközlekedési balesetek, repülőesemények és légiközlekedési rendellenességek szakmai vizsgálatának részletes szabályait, valamint a kizárólag állami légijárművel összefüggő üzembentartói vizsgálat szabályait együttes rendeletben állapítsák meg.
+(2) Felhatalmazást kap a miniszter, hogy a honvédelemért felelős miniszter és a rendészetért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a kizárólag állami légijárművel bekövetkezett légiközlekedési balesetek, repülőesemények és légiközlekedési rendellenességek szakmai vizsgálatának részletes szabályait, valamint a kizárólag állami légijárművel összefüggő üzembentartói vizsgálat szabályait.
 
-(3) Felhatalmazást kap a honvédelemért felelős miniszter, a rendészetért felelős miniszter és az adópolitikáért felelős miniszter, hogy a kizárólag a honvédség, illetve a rendvédelmi szervek úszólétesítményeivel való közlekedés során bekövetkezett súlyos víziközlekedési balesetek és rendkívüli hajózási események szakmai vizsgálatának részletes szabályait – a miniszterrel egyetértésben – együttes rendeletben állapítsák meg.
+(3) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszter, a rendészetért felelős miniszter és az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a kizárólag a honvédség, illetve a rendvédelmi szervek úszólétesítményeivel való közlekedés során bekövetkezett súlyos víziközlekedési balesetek és rendkívüli hajózási események szakmai vizsgálatának részletes szabályait.
 
 (4) Felhatalmazást kap a Kormány, hogy a közlekedésbiztonsági szervet vagy szerveket rendeletben jelölje ki.
 

@@ -47,7 +47,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (4) Ha a polgármester az e törvényben előírt bármely kötelezettségét nem teljesíti, a bíróság – esetenként – százezer forintig terjedő pénzbírsággal sújthatja.
 
-(5) Az adósságrendezési eljárás megindításáról a polgármester az eljárás bíróság előtti kezdeményezésével egyidejűleg tájékoztatja a közigazgatási hivatalt.
+(5) Az adósságrendezési eljárás megindításáról a polgármester az eljárás bíróság előtti kezdeményezésével egyidejűleg tájékoztatja a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet.
 
 6. § (1) Ha az adósságrendezési eljárás megindítását a hitelező kezdeményezi, kérelmében meg kell jelölnie a helyi önkormányzat tartozásának jogcímét és a lejárat (esedékesség) időpontját. A kérelemben foglaltak bizonyításához szükséges iratokat csatolni kell.
 
@@ -97,7 +97,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (4) Az adósságrendezés megindításáról a polgármester (annak hiányában a pénzügyi gondnok) – a végzés Cégközlönyben történő megjelenését követő 8 napon belül – tájékoztatja
 
-- a) a közigazgatási hivatalt;
+- a) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet;
 - b) a kincstárt;
 - c) a helyi önkormányzat polgármesteri hivatalának költségvetési elszámolási számláját vezető pénzforgalmi szolgáltatót, valamint a helyi önkormányzat költségvetési szerveinek pénzforgalmi számláit, költségvetési elszámolási számláit vezető pénzforgalmi szolgáltatókat;
 - d) az illetékes adó- és vámhatóságot, valamint a nyugdíjbiztosítási igazgatási szervet és az egészségbiztosítási szervet;
@@ -158,7 +158,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - d) az adósságrendezéssel kapcsolatban előterjesztést tehet, amelyet a képviselő-testület vagy a bizottság köteles soron kívül tárgyalni;
 - e) kezdeményezi a helyi önkormányzat esedékessé vált követeléseinek behajtását;
 - f) a hitelezőket – kérésükre – tájékoztatja a helyi önkormányzat vagyonával, továbbá az adósságrendezési eljárással kapcsolatban;
-- g) tájékoztatja a közigazgatási hivatalt, ha a képviselő-testület az e törvényben meghatározott kötelezettségét nem teljesíti;
+- g) tájékoztatja a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet, ha a képviselő-testület az e törvényben meghatározott kötelezettségét nem teljesíti;
 - h) az adósságrendezés megindításának időpontjától számított 90 napon belül az általános hatáskörű bíróság előtt a helyi önkormányzat nevében keresettel megtámadhatja a helyi önkormányzatnak és költségvetési szervének az adósságrendezési eljárás kezdő időpontját megelőző 1 éven belül és azt követően megkötött szerződését, vagy más jognyilatkozatát, ha annak tárgya a helyi önkormányzat vagyonából történő ingyenes elidegenítés, illetve a vagyont terhelő ingyenes kötelezettségvállalás, vagy harmadik személy javára feltűnően aránytalan értékkülönbözettel megkötött visszterhes jogügylet. A megtámadási határidő számítására a Ptk. 236. §-ának (3) bekezdésében foglalt szabályok vonatkoznak.
 
 (3) A pénzügyi gondnok jogszabálysértő intézkedése vagy mulasztása ellen a tudomásszerzéstől számított 8 napon belül a sérelmet szenvedett kifogással élhet az eljáró bíróságnál. Az intézkedéstől vagy mulasztástól számított 30 nap elteltével kifogás nem terjeszthető elő.
@@ -179,7 +179,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (3) Az Ötv. 10. §-ában meghatározott – a képviselő-testület kizárólagos hatáskörébe tartozó – ügyek kivételével a helyi önkormányzat kötelezően ellátandó feladatainak és hatáskörének teljesítésével kapcsolatos valamennyi gazdasági kérdésben az adósságrendezési bizottság dönt.
 
-17. § (1) Ha a képviselő-testület az e törvényben foglalt kötelezettségei teljesítése érdekében a közigazgatási hivatal felhívása ellenére 30 napon belül nem ül össze, feloszlatása kezdeményezhető.
+17. § (1) Ha a képviselő-testület az e törvényben foglalt kötelezettségei teljesítése érdekében a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv felhívása ellenére 30 napon belül nem ül össze, feloszlatása kezdeményezhető.
 
 (2) Amennyiben a képviselő-testület működésképtelenné válik, továbbá, ha a feloszlatását kezdeményezték [Ötv. 93. § (2) bek.] a helyi önkormányzattal szemben azonnal e törvény IV. fejezetében foglaltak szerint kell az adósságrendezési eljárást lefolytatni.
 

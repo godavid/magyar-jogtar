@@ -616,7 +616,7 @@ terheli.
 
 39. § (1) Az élelmiszerlánc-felügyeleti szerv eljárására a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit a 39. § (2)–(4) bekezdésében, a 42. §-ban, a 44. §-ban, a 49–50. §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(2) Az ügyintézési határidő a laboratóriumi vizsgálat elvégzéséhez elengedhetetlenül szükséges időtartammal, de legfeljebb negyvenöt munkanappal meghosszabbítható.
+(2) Az ügyintézési határidő a laboratóriumi vizsgálat elvégzéséhez elengedhetetlenül szükséges időtartammal, de legfeljebb két hónappal meghosszabbítható.
 
 (3) Ha a hatósági ellenőrzés keretében történő monitoringvizsgálat során a vizsgálati eredmény alapján nem állapítható meg jogsértés, a hatóság a vizsgálati jegyzőkönyvet nem küldi meg az ügyfél részére.
 
@@ -646,7 +646,7 @@ eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbe
 
 (3) Az élelmiszerlánc-felügyeleti szerv a termésnövelő anyagok engedélyezési eljárásában az engedély megadásáról hat hónapon belül dönt.
 
-(4) A növényvédő szer forgalomba hozatali és felhasználási engedélyezési eljárásában a hiánypótlási felhívás kibocsátásának határideje negyvenöt munkanap, a termésnövelő anyagok engedélyezési eljárásában pedig huszonkét munkanap.
+(4) A növényvédő szer forgalomba hozatali és felhasználási engedélyezési eljárásában a hiánypótlási felhívás kibocsátásának határideje két hónap, a termésnövelő anyagok engedélyezési eljárásában pedig harminc nap.
 
 (5) Az állatgyógyászati termék laboratóriumon kívüli gyakorlati kipróbálásának, gyártásának, ideiglenes jellegű felhasználásának, valamint az állatgyógyászati készítmények hatóanyaga gyártásának engedélyezéséről és az engedély módosításáról, a rendszeres gyógyszerbiztonsági jelentések értékeléséről szóló döntést kilencven napon belül, az állatgyógyászati termék és az állatgyógyászati készítmény forgalomba hozatalának engedélyezéséről és megújításáról szóló döntést kétszáztíz napon belül kell meghozni.
 
@@ -707,7 +707,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 
 (2) Az igazgatási szolgáltatási díjat az azt kiszabó élelmiszerlánc-felügyeleti szerv számlájára kell befizetni.
 
-(3) A díj megfizetésének elmulasztása esetén az élelmiszerlánc-felügyeleti szerv a kérelem benyújtásától számított tíz munkanapon belül hiánypótlási felhívást bocsát ki. A kérelmező a hiánypótlási felhívás kézhezvételétől számított tíz munkanapon belül köteles a díjat megfizetni, illetve igazolni annak megfizetését.
+(3) A díj megfizetésének elmulasztása esetén az élelmiszerlánc-felügyeleti szerv a kérelem benyújtásától számított tizenöt napon belül hiánypótlási felhívást bocsát ki. A kérelmező a hiánypótlási felhívás kézhezvételétől számított tizenöt napon belül köteles a díjat megfizetni, illetve igazolni annak megfizetését.
 
 (4) Ha az igazgatási szolgáltatási díj meg nem fizetése ellenére az élelmiszerlánc-felügyeleti szerv eljár, a meg nem fizetett díj adók módjára behajtandó köztartozásnak minősül.
 
@@ -1184,9 +1184,9 @@ végrehajtására kiadott és e törvény hatálya alá tartozó rendelkezéseke
 - 41. az élelmiszerlánc területén alkalmazott iskolarendszeren kívüli hatósági jellegű képzések és vizsgáztatás részletes szabályait;
 - 42. az élelmiszerek ionizáló energiával való kezelésének feltételeit és szabályait.
 
-(3) Felhatalmazást kap a miniszter, hogy – a (2) és (6) bekezdésben nem említett kérdésekben – az általános élelmiszer-jelölési előírásokat a fogyasztóvédelemért felelős miniszterrel együttes rendeletben szabályozza.
+(3) Felhatalmazást kap a miniszter, hogy – a (2) és (6) bekezdésben nem említett kérdésekben – az általános élelmiszer-jelölési előírásokat a fogyasztóvédelemért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
-(4) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszterrel együttes rendeletben szabályozza
+(4) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 
 - a) az élelmiszerek előállításához szükséges technológiai segédanyagok körét, felhasználásának feltételeit;
 - b) az élelmiszerek mikrobiológiai szennyezettségének megengedhető mértékét, valamint a radioaktív és vegyi szennyezettséggel kapcsolatos előírásokat;
@@ -1205,11 +1205,11 @@ végrehajtására kiadott és e törvény hatálya alá tartozó rendelkezéseke
 - i) az adópolitikáért felelős miniszterrel egyetértésben az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét;
 - j) az adópolitikáért felelős miniszterrel egyetértésben az áruk behozatala, illetve kivitele során a vámhatóságra vonatkozó, e törvény hatálya alá tartozó eljárásokkal kapcsolatos rendelkezéseket.
 
-(6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a miniszterrel együttes rendeletben szabályozza az élelmiszerekkel kapcsolatos tápanyag-összetételre és egészségre vonatkozó állításokra, továbbá a tápértékjelölésre vonatkozó részletes szabályokat.
+(6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza az élelmiszerekkel kapcsolatos tápanyag-összetételre és egészségre vonatkozó állításokra, továbbá a tápértékjelölésre vonatkozó részletes szabályokat.
 
-(7) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy a miniszterrel együttes rendeletben szabályozza az előrecsomagolt élelmiszerek megengedett tömeg- és térfogatértékeit és azok ellenőrzési módszereit.
+(7) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza az előrecsomagolt élelmiszerek megengedett tömeg- és térfogatértékeit és azok ellenőrzési módszereit.
 
-(8) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszterrel együttes rendeletben szabályozza a Magyar Honvédség élelmiszer-biztonsággal kapcsolatos feladatait.
+(8) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza a Magyar Honvédség élelmiszer-biztonsággal kapcsolatos feladatait.
 
 (9) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a miniszterrel egyetértésben rendeletben szabályozza
 

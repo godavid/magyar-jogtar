@@ -1172,4 +1172,4 @@ A diplomáciai értekezlet által a Szabadalmi Jogi Szerződés és az ahhoz kap
 
 (4) Felhatalmazást kap a Kormány, hogy a Szerződés végrehajtása körében a végrehajtási szabályokat, amelyek módosítása, illetve elfogadása a Szerződéssel létrehozott Közgyűlés hatáskörébe tartozik, rendeletben kihirdesse.
 
-(5) Az e törvény végrehajtásához szükséges intézkedésekről a Magyar Szabadalmi Hivatal elnöke gondoskodik.
+(5) Az e törvény végrehajtásához szükséges intézkedésekről a Szellemi Tulajdon Nemzeti Hivatalának elnöke gondoskodik.

@@ -165,7 +165,7 @@ adottságok.
 
 8. § (1) A közérdek mértékét meghaladó, illetve a 7. §-ban nem említett tevékenység — vízimunka, vízilétesítmény építése — többletköltségeit az igénylők kötelesek megtéríteni.
 
-(2) A területi közcélú vízilétesítmények, illetve a közcélú vízimunkák költségeit, vízitársulat esetén a tagok külön törvény szerint, vízitársulat hiányában az érdekeltek érdekeltségük arányában kötelesek viselni (közcélú érdekeltségi hozzájárulás). A közcélú érdekeltségi hozzájárulás hektáronként fizetendő mértékét a vízügyi igazgatásért felelős miniszter évente rendeletben állapítja meg.
+(2) A területi közcélú vízilétesítmények, illetve a közcélú vízimunkák költségeit, vízitársulat esetén a tagok külön törvény szerint, vízitársulat hiányában az érdekeltek érdekeltségük arányában kötelesek viselni (közcélú érdekeltségi hozzájárulás). A közcélú érdekeltségi hozzájárulás hektáronként fizetendő mértékét a vízgazdálkodásért felelős miniszter évente rendeletben állapítja meg.
 
 (3) Vízitársulat hiányában a (2) bekezdés szerinti költségeket a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezései szerint lefolytatott eljárásban hozott határozatával érdekeltségük arányában az érdekeltekre a települési önkormányzat jegyzője veti ki.
 
@@ -390,18 +390,18 @@ alapján kell kiszámítania.
 17. § (1) Az árvíz- és belvízvédekezés országos irányítása
 
 - a) a rendkívüli védekezési készültség beálltáig a miniszter;
-- b) a rendkívüli védekezési készültség (veszélyhelyzet) tartama alatt a kormánybiztos;
+- b) a rendkívüli védekezési készültség (veszélyhelyzet) tartama alatt a miniszter;
 - c) különösen nagy veszély esetén (szükségállapot) — a külön jogszabály szerinti — kormánybizottság
 
 hatáskörébe tartozik.
 
-(2) A kormánybiztosi teendőket a miniszter látja el.
+(2)
 
 (3) A saját szervezettel védekező települések által fenntartott műveken az árvíz- és belvízvédekezés műszaki feladatait a település közigazgatási határán belül — a vízügyi igazgatási szervnek szakmai irányításával — a polgármester (Budapesten a főpolgármester) a polgármesteri (főpolgármesteri) hivatal útján látja el.
 
 (4) Az árvíz- és belvízvédekezés, valamint a helyi vízkár-elhárítás államigazgatási feladat- és hatáskörét — a külön jogszabályban meghatározottak szerint — a megyei közgyűlés elnöke, illetőleg a polgármester, fővárosban a főpolgármester látja el.
 
-(5) A vizek kártételei elleni védekezés részletes feladatait, módját és a kormánybiztos jogkörét a Kormány rendeletben állapítja meg.
+(5) A vizek kártételei elleni védekezés részletes feladatait, módját és a miniszter jogkörét a Kormány rendeletben állapítja meg.
 
 (6) A főpolgármester, a megyei közgyűlés elnöke, illetve a polgármester rendeli el az árvíz- és belvízvédekezéssel, valamint a helyi vízkárelhárítással kapcsolatos – a külön jogszabályban meghatározott államigazgatási feladatok körében – a kitelepítést, a kimenekítést, a visszatelepítést, továbbá közreműködik az ezzel kapcsolatos egyéb feladatok végrehajtásában.
 
@@ -674,7 +674,7 @@ rendeletben történő megállapítására.
 - b) a vízgazdálkodási tanácsok összetételére és működésére vonatkozó szabályok;
 - c) a vízgazdálkodás országos és területi rendjének;
 - d) a vízjogi engedélyezési eljáráshoz szükséges tervdokumentáció tartalmi előírásainak és a kérelmek mellékleteinek;
-- e) a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatait ellátó miniszterrel együttesen a mezőgazdasági vízszolgáltató művek üzemeltetésének
+- e) a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatait ellátó miniszterrel egyetértésben a mezőgazdasági vízszolgáltató művek üzemeltetésének
 - f) a vízimunkáknak, a vízilétesítményeknek és vízhasználatoknak (a vízikönyvnek), a vízkészletek nyilvántartásának;
 - g) a hasznosításba vonható vízkészleteknek — a vizek használatbavételének, illetve a vizek hasznosítási lehetőségének megőrzése céljából —;
 - h) az ivóvízminőség-javító program forrását szolgáló célelőirányzat terhére történő költségvetési támogatás mértékére és igénybevételére vonatkozó szabályok

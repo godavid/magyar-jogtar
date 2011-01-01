@@ -20,14 +20,14 @@ a Nemzeti Média- és Hírközlési Hatóság, valamint a Nemzeti Média- és H�
 
 3. § A Médiatanács felhatalmazást kap arra, hogy a 2. § (1) bekezdés b) pontjában meghatározott bevételi főösszegen belül indokolt esetben az időarányos finanszírozástól eltérjen.
 
-4. § A Médiatanács a 2011. évi költségvetésének végrehajtásáról az Rttv. 32. § (3) bekezdése szerint javaslatot készít, melyet az Rttv. 77. § (11) bekezdése szerinti – a Médiaszolgáltatás-támogató és Vagyonkezelő Alap (a továbbiakban: Alap) 2011. évi költségvetésének végrehajtásáról szóló beszámolót tartalmazó – melléklettel együtt 2012. május 31-ig terjeszt az Országgyűlés költségvetési ügyekben illetékes bizottsága elé.
+4. § A Médiatanács a 2011. évi költségvetésének végrehajtásáról az Rttv. 32. § (3) bekezdése szerint javaslatot készít, melyet az Rttv. 77. § (11) bekezdése szerinti – a Műsorszolgáltatás Támogató és Vagyonkezelő Alap (a továbbiakban: Alap) 2011. évi költségvetésének végrehajtásáról szóló beszámolót tartalmazó – melléklettel együtt 2012. május 31-ig terjeszt az Országgyűlés költségvetési ügyekben illetékes bizottsága elé.
 
 5. § (1) Az Országgyűlés az Rttv. 32. § és a 77. § (11) bekezdésében foglaltaknak megfelelően a 3. melléklet szerint fogadja el az Alap költségvetését.
 
 (2) Az Országgyűlés az Alap 2011. évi költségvetésének
 
-- a) kiadási főösszegét 64 038,779 M Ft-ban, azaz hatvannégymilliárd-harmincnyolcmillió-hétszázhetvenkilencezer forintban,
-- b) bevételi főösszegét 64 038,779 M Ft-ban, azaz hatvannégymilliárd- harmincnyolcmillió-hétszázhetvenkilencezer forintban hagyja jóvá
+- a) kiadási főösszegét 63 099,590 M Ft-ban, azaz hatvanhárommilliárd-kilencvenkilencmillió-ötszázkilencvenezer forintban,
+- b) bevételi főösszegét 63 099,590 M Ft-ban, azaz hatvanhárommilliárd-kilencvenkilencmillió-ötszázkilencvenezer forintban hagyja jóvá.
 
 6. § Ez a törvény 2011. január 1-jén lép hatályba.
 
@@ -125,45 +125,49 @@ Médiatanács kezelésű költségvetésen kívüli 2011. évi bevételi előir�
 
 ### 3. melléklet a 2010. évi CXLVI. törvényhez
 
-#### A Műsorszolgáltatás Támogató és Vagyonkezelő Alap 2011. évi költségvetése
+A Műsorszolgáltatás Támogató és Vagyonkezelő Alap 2011. évi költségvetése
 
-|  |  |  | M Ft-ban |  |
-| --- | --- | --- | --- | --- |
-|  |  |  | 2011. év |  |
-| 1. |  | Átvállalt üzembentartási díj és költségvetési hozzájárulások | 57 700,000 |  |
-|  | 1.1. | Átvállalt üzembentartási díj |  | 29 458,500 |
-|  | 1.2. | Költségvetési hozzájárulás |  | 28 241,500 |
-| 2. |  | Médiaszolgáltatási díj | 4 129,187 |  |
-|  | 2.1. | MTM-SBS Televízió Zrt. |  | 1 032,630 |
-|  | 2.2. | Magyar RTL Televízió Zrt. |  | 938,012 |
-|  | 2.3. | 1. sz. orsz. ker. r. jogosultság (Advenio Zrt.) |  | 564,186 |
-|  | 2.4. | 2. sz. orsz. ker. r. jogosultság (FM 1 Zrt.) |  | 380,846 |
-|  | 2.5. | nem országos műsorszolgáltatási jogosultságok |  | 1 213,513 |
-| 3. |  | Pályázati díjak | 26,000 |  |
-| 4. |  | Kötbér, kártérítés, bírság | 143,592 |  |
-| 5. |  | Önkéntes befizetések | – |  |
-| 6. |  | Egyéb bevételek | 40,000 |  |
-| 7. |  | JBE Kereskedelmi Televíziók reklámbevételeiből származó összeg | 1 000,000 |  |
-| 8. |  | A Magyar Rádió Művészeti együttesének támogatása | 1 000,000 |  |
-|  |  | Költségvetési bevételek összesen | 64 038,779 |  |
+| M Ft-ban |
+| --- |
 
-|  |  |  | M Ft-ban |  |
-| --- | --- | --- | --- | --- |
-|  |  |  | 2011. év |  |
-| 1. |  | Továbbutalandó üzembentartási díj | 2 380,801 |  |
-|  | 1.1. | Médiatanács |  | 194,401 |
-|  | 1.2. | Médiatanács hivatali szervezete |  | 1 986,400 |
-|  | 1.3. | Közszolgálati Közalapítvány |  | 200,000 |
-| 2. |  | Céltámogatások | 3 000,000 |  |
-| 3. |  | Közmédiumok Működési Támogatására átutalt összeg a Közszolgálati Közalapítványnak | 2 150,000 |  |
-|  | 3.1. | Magyar Televízió Zrt. |  | 530,000 |
-|  | 3.2. | Duna Televízió Zrt. |  | 450,000 |
-|  | 3.3. | Magyar Rádió Zrt. |  | 425,000 |
-|  | 3.4. | Magyar Távirati Iroda Zrt. |  | 745,000 |
-| 4. |  | Közmédiumok műsorszolgáltatás támogatási- és vagyonkezelői tevékenység kiadásai | 55 178,047 |  |
-| 5. |  | Szerzői jogdíjak | 238,402 |  |
-| 6. |  | Pályázatok bírálatának költségei | 26,000 |  |
-| 7. |  | A Médiatanácsot terhelő, műsorszolgáltatók által be nem fizetett ÁFA | 27,829 |  |
-| 8. |  | Médiaszolgáltatási díjjal és egyéb jogi költségekkel összefüggő kiadások | 37,700 |  |
-| 9. |  | A Magyar Rádió Művészeti együttesének támogatása | 1 000,000 |  |
-|  |  | Költségvetési kiadások összesen | 64 038,779 |  |
+| I. BEVÉTELEK |  |  |  |  | 2011. év |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 1. |  | átvállalt üzembentartási díj (MK. 2011. évi költségvetéséről, 1. sz. melléklet I. Fejezet I. Országgyűlés 10–15. cím, médiatámogatások) |  | 58 700,000 |  |
+|  | 2. |  | műsorszolgáltatási díj |  | 4 129,187 |  |
+|  |  | 2.1. |  | MTM-SBS Televízió Zrt. |  | 1 032,630 |
+|  |  | 2.2. |  | Magyar RTL Televízió Zrt. |  | 938,012 |
+|  |  | 2.3. |  | 1. sz. orsz. ker. r. jogosultság (Advenio Zrt.) |  | 564,186 |
+|  |  | 2.4. |  | 2. sz. orsz. ker. r. jogosultság (FM 1 Zrt.) |  | 380,846 |
+|  |  | 2.5. |  | nem országos műsorszolgáltatási jogosultságok |  | 1 213,513 |
+|  | 3. |  | pályázati díjak |  | 86,811 |  |
+|  | 4. |  | kötbér, kártérítés, bírság |  | 143,592 |  |
+|  | 5. |  | önkéntes befizetések |  | – |  |
+|  | 6. |  | egyéb bevételek |  | 40,000 |  |
+|  |  |  | Költségvetési bevételek összesen |  | 63 099,590 |  |
+
+| M Ft-ban |
+| --- |
+
+| II. KIADÁSOK |  |  |  |  | 2011. év |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 1. |  | továbbutalandó üzembentartási díj |  | 47 966,801 |  |
+|  |  | 1.1. |  | Közszolgálati médiaszolgáltatók és nemzeti hírügynökség |  | 45 199,000 |
+|  |  | 1.2. |  | Médiatanács |  | 194,401 |
+|  |  | 1.3. |  | Médiatanács hivatali szervezete |  | 1 986,400 |
+|  |  | 1.4. |  | Közszolgálati Közalapítvány |  | 587,000 |
+|  | 2. |  | céltámogatások |  | 4 315,543 |  |
+|  | 3. |  | továbbutalandó műsorszolgáltatási díj |  | 1 596,816 |  |
+|  |  | 3.1. |  | Magyar Televízió Zrt. |  | 722,841 |
+|  |  | 3.2. |  | Duna Televízió Zrt. |  | 309,789 |
+|  |  | 3.3. |  | Magyar Rádió Zrt. |  | 564,186 |
+|  | 4. |  | Műsorszolgáltatás Támogató és Vagyonkezelő Alap |  | 8 830,188 |  |
+|  |  | 4.1. |  | személyi juttatások |  | 347,874 |
+|  |  | 4.2. |  | munkaadót terhelő járulékok |  | 98,523 |
+|  |  | 4.3. |  | dologi kiadások |  | 182,370 |
+|  |  | 4.4. |  | felhalmozási kiadások |  | 12,550 |
+|  |  | 4.5. |  | vagyonkezelési feladathoz kapcsolódó kiadások |  | 8 188,871 |
+|  | 5. |  | szerzői jogdíjak |  | 238,402 |  |
+|  | 6. |  | pályázatok bírálatának költségei |  | 86,311 |  |
+|  | 7. |  | a Médiatanácsot terhelő, műsorszolgáltatók által be nem fizetett áfa |  | 27,829 |  |
+|  | 8. |  | műsorszolgáltatási díjjal és egyéb jogi költségekkel összefüggő kiadások |  | 37,700 |  |
+|  |  |  | Költségvetési kiadások összesen |  | 63 099,590 |  |

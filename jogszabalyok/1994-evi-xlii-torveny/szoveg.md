@@ -163,11 +163,9 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 21. § (1) Az Eximbank esetében a Hpt. 79. § (1) bekezdésében foglaltaktól eltérően nagykockázat vállalásának minősül az egy ügyféllel vagy ügyfélcsoporttal szembeni kitettség, ha annak értéke eléri vagy meghaladja az Eximbank szavatoló tőkéjének huszonöt százalékát.
 
-(2) A Hpt. 79. § (2) bekezdésétől eltérően az egy ügyféllel vagy ügyfélcsoporttal szembeni kitettség értékének az együttes összege nem haladhatja meg az Eximbank szavatoló tőkéjének harmincöt százalékát.
+(2) A Hpt. 79. § (2) bekezdésétől eltérően hitelintézetnek nem minősülő egy ügyféllel vagy ügyfélcsoport nem hitelintézet tagjával szembeni kitettség értékének az együttes összege nem haladhatja meg az Eximbank szavatoló tőkéjének harmincöt százalékát.
 
-(3) A Hpt. 79. § (7) bekezdésében foglalt mérték az Eximbank esetében harmincöt százalék.
-
-(4) Az (1)–(3) bekezdésben, valamint a Hpt. 79. §-ának (3) bekezdésében foglalt rendelkezéseket nem kell alkalmazni – a Hpt. 80. §-ának (1) bekezdésében meghatározottakon túlmenően –
+(3) Az (1)–(2) bekezdésben foglalt rendelkezéseket nem kell alkalmazni – a Hpt. 80. §-ának (1) bekezdésében meghatározottakon túlmenően –
 
 - a) az Eximbank által a bel- és külföldi hitelintézet számára nyújtott exportcélú hitelnél és pénzkölcsönnél,
 - b) az Eximbank által olyan külföldi vevőnek nyújtott hitelnél és pénzkölcsönnél, amikor a célország hitelminősítési besorolása a Gazdasági Együttműködési és Fejlesztési Szervezet „Hivatalosan támogatott exporthitelekről szóló megállapodásban” foglalt módszerek szerint legalább 3 vagy annál jobb és a célország központi költségvetése vagy központi bankja garantálja a hitel és a pénzkölcsön visszafizetését,
@@ -196,6 +194,14 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 (5)
 
+25/A. § (1) A Bit. 83. § (1) bekezdésében meghatározott felügyeleti engedély nem szükséges a MEHIB Rt. vezető állású személyének, illetve ügyvezetőjének megválasztásához, illetve kinevezéséhez.
+
+(2) Vezető állású személynek, illetve ügyvezetőnek az a személy választható meg (nevezhető ki), aki megfelel a Bit. 83. §-ában, illetve 84. §-ában továbbá a 91. §-ában meghatározott feltételeknek.
+
+(3) Vezető állású személy, illetve ügyvezető megválasztását, illetve kinevezését a MEHIB Rt. a kinevezéstől számított 2 munkanapon belül köteles a Felügyeletnek bejelenteni.
+
+(4) Amennyiben a Felügyelet úgy ítéli meg, hogy a megválasztott, illetve kinevezett személy nem felel meg e törvényben, valamint a Bit. 83. §-ában, illetve 84. §-ában továbbá a 91. §-ában meghatározott feltételeknek, 10 munkanapon belül kezdeményezheti a tulajdonosi jogok gyakorlójánál a megválasztott személy visszahívását, illetve a kinevezett személy felmentését.
+
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 26. § (1) A Kormány felhatalmazást kap arra, hogy a pénzintézetek, valamint a biztosítóintézetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendeletekben külön meghatározza az Eximbank és a Mehib Rt. éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságait.
@@ -207,6 +213,8 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 (4) A Kormány felhatalmazást kap arra, hogy az Eximbank által folyósítható kötött segélyhitelek feltételeit és a segélyhitel-nyújtás részletes szabályait rendeletben állapítsa meg.
 
 (5) Az államháztartásért felelős miniszter felhatalmazást kap arra, hogy rendeletben meghatározza az Eximbank és a Mehib Rt. központi költségvetéssel történő elszámolásának részletes szabályait, valamint a 8/A. § (2) bekezdésében említett jutalék mértékét.
+
+26/A. § A Magyar Export-Import Bank Részvénytársaság a szavatoló tőke kiszámítása során az e törvény – 2009. december 31-én hatályos – 20. § (1) bekezdése szerinti, 2009. december 31-én fennálló hitelt és kötvényt azok lejáratáig járulékos tőkeelemként veheti figyelembe.
 
 27. § (1) E törvény a kihirdetését követő harmincadik napon lép hatályba.
 

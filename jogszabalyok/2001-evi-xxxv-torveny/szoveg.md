@@ -383,7 +383,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (3)
 
-(4) A Hatóság az érdemi döntést a kérelem előterjesztésétől számított 45 munkanapon belül köteles meghozni.
+(4) A Hatóság ügyintézési határideje két hónap.
 
 (5) A Hatóság Hivatalának első fokú határozata ellen a Hatóság elnökéhez lehet fellebbezni.
 
@@ -422,7 +422,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (2)
 
-(3) A Hatóság a szolgáltatás nyújtásának megkezdését követő 22 munkanapon belül a minősített szolgáltatónál felügyeleti ellenőrzést végez a következő területeken:
+(3) A Hatóság a szolgáltatás nyújtásának megkezdését követő harminc napon belül a minősített szolgáltatónál felügyeleti ellenőrzést végez a következő területeken:
 
 - a) a technikai, biztonsági és egyéb működési feltételek, illetve személyi feltételek – így különösen a büntetlen előéletre, a szolgáltatás végzését kizáró foglalkozástól eltiltás hiányára és a szakképzettségre vonatkozó feltételek – megléte és folyamatos biztosítása;
 - b) a működés jogszabályoknak és a hitelesítési rendnek, időbélyegzési rendnek, szolgáltatási szabályzatnak, továbbá az általános szerződési feltételeknek való megfelelése.
@@ -509,7 +509,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 - a) az elektronikus aláírással kapcsolatos szolgáltatásokra és ezek szolgáltatóira vonatkozó részletes követelményeket;
 - b) a fokozott biztonságú, illetve minősített elektronikus aláírás előállításához felhasználható aláírás-létrehozó eszköz és egyéb elektronikus aláírási termék minősítésére jogosult tanúsító szervezetekre, illetve kijelölésükre vonatkozó szabályokat;
 - c) a Hatóságnak e törvény alapján járó igazgatási szolgáltatási díjak mértékét, az adópolitikáért felelős miniszterrel egyetértésben;
-- d) a közigazgatási informatikáért felelős miniszterrel, a köziratok kezelésének szakmai irányításáért felelős miniszterrel, az igazságügyért felelős miniszterrel és a kultúráért felelős miniszterrel egyetértésben a 4. § (8) bekezdése szerinti elektronikus úton történő másolat készítésének szabályait;
+- d) az e-közigazgatásért felelős miniszterrel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel, a köziratok kezelésének szakmai irányításáért felelős miniszterrel, az igazságügyért felelős miniszterrel és a kultúráért felelős miniszterrel egyetértésben a 4. § (8) bekezdése szerinti elektronikus úton történő másolat készítésének szabályait;
 - e) az e törvény szerinti elektronikus aláírási szolgáltatási szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket.
 
 (3) Felhatalmazást kapnak a miniszterek, hogy az informatikáért felelős miniszterrel egyetértésben a hatáskörükkel érintett ágazat tekintetében rendelettel szabályozzák
@@ -517,7 +517,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 - a) azoknak a jogviszonyoknak a körét, melyekkel kapcsolatos államigazgatási eljárásokban mód van kizárólag elektronikusan aláírt elektronikus dokumentumok használatára;
 - b) az elektronikusan aláírt elektronikus dokumentumok és elektronikus aláírás alkalmazásával történő ügyintézés sajátos szabályait.
 
-(4) Felhatalmazást kap a közigazgatási informatikáért felelős miniszter, hogy rendelettel szabályozza a kormányzati elektronikus aláírás-rendszer megvalósítására és üzemeltetésére vonatkozó részletes követelményeket.
+(4) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter egyetértésével kiadott rendeletben szabályozza a kormányzati elektronikus aláírás-rendszer megvalósítására és üzemeltetésére vonatkozó részletes követelményeket.
 
 (5) Felhatalmazást kapnak a helyi önkormányzatok, hogy rendeletben szabályozzák azoknak a lakossági szolgáltatásoknak a körét, illetve azoknak az államigazgatási eljárásoknak a körét, amelyekben – az eljárásra irányadó magasabb szintű jogszabályban foglaltak figyelembevételével – illetékességi körükben lehetőséget adnak a kizárólag elektronikusan aláírt elektronikus dokumentumokkal történő ügyintézésre.
 

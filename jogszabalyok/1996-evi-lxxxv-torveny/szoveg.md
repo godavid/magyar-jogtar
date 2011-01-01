@@ -70,7 +70,7 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 (2) Ha a kérelem és a befizetést igazoló okiratok alapján megállapítható, hogy az ügyfél a törvényes mértéket meghaladó összegű díjat fizetett, a többletet vissza kell téríteni.
 
-(3) A visszatérítést hivatalból kell elrendelni, és annak teljesítéséről huszonkét munkanapon belül intézkedni kell.
+(3) A visszatérítést hivatalból kell elrendelni, és annak teljesítéséről harminc napon belül intézkedni kell.
 
 ## HARMADIK RÉSZ — Az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díja
 
@@ -103,7 +103,7 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 - k) az Észak-atlanti Szerződés Szervezete, továbbá az Észak-atlanti Szerződés tagállamainak és az 1995. évi LXVII. törvényben kihirdetett Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői – ideértve az említett fegyveres erők alkalmazásában álló nem magyar állampolgárságú, hivatásos szolgálatban lévő és polgári állományú személyeket is – kizárólag a szolgálati kötelezettségükkel összefüggő ingatlanügyek tekintetében;
 - l)
 
-(2) Az (1) bekezdés b) pontjában említett szervezetet a díjmentesség csak abban az esetben illeti meg, ha az eljárás megindítását megelőző naptári évben folytatott vállalkozási tevékenységéből származó jövedelme után társasági adófizetési kötelezettsége nem keletkezett.
+(2) Az (1) bekezdés e) pontjában említett szervezetet a díjmentesség csak abban az esetben illeti meg, ha az eljárás megindítását megelőző naptári évben folytatott vállalkozási tevékenységéből származó jövedelme után társasági adófizetési kötelezettsége nem keletkezett.
 
 (3) A díjmentességnek a (2) bekezdésben meghatározott feltétele meglétéről a szervezet az eljárás megindításakor írásban köteles nyilatkozni. A nyilatkozatnak tartalmaznia kell, hogy a szervezet – az eljárás megindítását megelőző naptári évben folytatott vállalkozási tevékenységéből származó jövedelme után, vagy ilyen tevékenység hiányában – társasági adó fizetésére nem volt kötelezett.
 
@@ -136,25 +136,49 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 
 32/D. § Ha egy ingatlanügyi hatóságnál egyazon ingatlanra vonatkozóan a kérelmező többféle jog vagy tény keletkezésének, módosulásának vagy megszüntetésének a bejegyzését vagy a bejegyzett ilyen jog vagy tény törlését egy eljárásban kéri, azt az értéket kell a díjfizetés alapjául venni, amely után a legmagasabb díj jár.
 
-32/E. § (1) A díjat annak kell megfizetnie, aki az ingatlan-nyilvántartási eljárás lefolytatását kéri, illetve amely szerv az erre irányuló megkeresést előterjeszti. Ha a kérelmet előterjesztő és a bejegyzés által jogot szerző, illetve a jogosult nem azonos, a díjat annak kell megfizetnie, aki a bejegyzés által jogot szerez, illetve jogosulttá válik. Ha az ingatlanon több személy szerez jogot, illetve válik jogosulttá, a feleket egyetemleges díjfizetési kötelezettség terheli.
+32/E. § (1) A díjat annak kell megfizetnie, aki az ingatlan-nyilvántartási eljárás lefolytatását kéri, illetve amely szerv az erre irányuló megkeresést előterjeszti. Ha a kérelmet vagy a megkeresést előterjesztő és a bejegyzés, feljegyzés, vagy törlés által jogot szerző, illetve a jogosult nem azonos, a díjat annak kell megfizetni:
 
-(2) A díjfizetési kötelezettség – ideértve a fellebbezés díját is – kizárólag az ingatlanügyi hatóságnál a kérelem, megkeresés előterjesztésével egyidejűleg a pénztárába történő készpénzbefizetéssel, amennyiben az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával, vagy az ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással teljesíthető. A díjnak a másodfokú ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén a kérelem, megkeresés előterjesztésekor mellékelni kell a díj megfizetését igazoló okiratot vagy annak másolatát.
+- a) aki a bejegyzés által jogot szerez, illetve jogosulttá válik, ennek hiányában
+- b) aki a tény feljegyzését, vagy törlését indítványozza a megkeresés alapjául szolgáló eljárásban, ennek hiányában
+- c) aki a törlésre kerülő joggal, ténnyel terhelt ingatlan, illetve tulajdoni hányad tulajdonosa, ennek hiányában
+- d) annak, aki a kérelmet, megkeresést előterjeszti.
 
-(3) A díj megfizetésének elmulasztása esetén a hiánypótlási felhívás kézhezvételétől számított tíz munkanapon belül kell megfizetni a díjat és igazolni annak megfizetését.
+(2) Több fizetésre kötelezett esetén a feleket egyetemleges díjfizetési kötelezettség terheli.
 
-(4) Ha jogerős hagyatékátadó végzés, bírósági és hatósági határozat, illetve bírósági, bírósági végrehajtói vagy hatósági megkeresés alapján induló eljárás esetén a megkereső szerv nem tesz eleget a hiánypótlási felhívásban foglaltaknak, az ingatlanügyi hatóság az eljárást lefolytatja, azonban a meg nem fizetett díj és annak járulékai adók módjára behajtandó köztartozásnak minősülnek. A díjat az (1) bekezdés szerinti jogszerzőtől, illetve jogosulttá válótól kell behajtani.
+(3) Ha a megkeresést előterjesztő és a díj megfizetésére kötelezett nem azonos, a megkeresést előterjesztő – amennyiben a díj megfizetésére kötelezett a díj megfizetését nála igazolta – a díj megfizetését igazoló okiratot, vagy annak másolatát a megkeresésével együtt továbbítja az eljáró ingatlanügyi hatóságnak.
 
-(5) Átutalással történő fizetési mód esetén az átutalási megbízáson fel kell tüntetni a külön jogszabályban meghatározott kincstári tranzakciós kódot, valamint az ingatlan fekvése szerinti település nevét és az ingatlan helyrajzi számát. Készpénz-átutalási megbízással történő fizetés esetén a készpénz-átutalási megbízás „Közlemény” rovatában fel kell tüntetni az ingatlan fekvése szerinti település nevét és az ingatlan helyrajzi számát.
+(4) A (3) bekezdésben foglaltak hiányában a megkeresést előterjesztő legkésőbb a megkeresés előterjesztésével egyidejűleg a díj összegének, valamint az eljáró ingatlanügyi hatóságnak a megjelölésével tájékoztatja a díj megfizetésére kötelezettet, hogy a díj megfizetését a (9) bekezdés szerinti határidőben az eljáró ingatlanügyi hatóságnál igazolnia kell, és erről a tájékoztatásról a megkeresésében az ingatlanügyi hatóságot tájékoztatja.
 
-(6) A 32/A. § (4) bekezdésében meghatározott díjat a soron kívüli eljárás lefolytatása iránti kérelem előterjesztésével egyidejűleg kell az ingatlanügyi hatóság pénztárába befizetni, amennyiben az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával megfizetni, illetve a díj készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén mellékelni kell a kérelemhez a díj megfizetését igazoló okiratot vagy annak másolatát.
+(5) A díjfizetésre kötelezett személyének megállapításához szükséges adatok hiányában az ingatlanügyi hatóság a megkereső szervet hívja fel a (9) bekezdés szerinti hiánypótlásra.
 
-(7) A (3) bekezdésben foglaltak nem teljesítése esetén a soronkívüliség, illetve a hiteles vagy hitelesítés nélküli másolat, illetőleg kivonat iránti kérelem nem teljesíthető.
+(6) A díjnak a másodfokú ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén a kérelem, megkeresés előterjesztésekor mellékelni kell a díj megfizetését igazoló okiratot vagy annak másolatát.
+
+(7) Átutalással történő fizetési mód esetén az átutalási megbízáson fel kell tüntetni a külön jogszabályban meghatározott kincstári tranzakciós kódot, valamint az ingatlan fekvése szerinti település nevét és az ingatlan helyrajzi számát. Készpénz-átutalási megbízással történő fizetés esetén a készpénz-átutalási megbízás „Közlemény” rovatában fel kell tüntetni az ingatlan fekvése szerinti település nevét és az ingatlan helyrajzi számát.
+
+(8) Ha e törvény másként nem rendelkezik a díjfizetési kötelezettség (ideértve a fellebbezés díját is) az ingatlanügyi hatóságnál – a kérelem, megkeresés előterjesztésével egyidejűleg a pénztárába történő készpénzbefizetéssel, ha az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával – vagy az ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással teljesíthető.
+
+(9) A díj megfizetésének elmulasztása, valamint a (7) bekezdésben megjelölt adatok hiányában nem beazonosítható díjbefizetés esetén a hiánypótlási felhívás kézhezvételétől számított tíz munkanapon belül kell megfizetni a díjat és igazolni annak megfizetését.
+
+(10) Ha jogerős hagyatékátadó végzés, bírósági és hatósági határozat, illetve bírósági, bírósági végrehajtói vagy hatósági megkeresés alapján induló eljárás esetén a díj megfizetésére kötelezett nem tesz eleget a (9) bekezdés szerinti hiánypótlási felhívásban foglaltaknak, az ingatlanügyi hatóság az eljárást lefolytatja, azonban a meg nem fizetett díj és annak járulékai adók módjára behajtandó köztartozásnak minősülnek.
+
+(11) A végrehajtást kérő, illetve a végrehajtási jog vagy a jelzálogjog bejegyzést elrendelő hatóság az ingatlanügyi hatóságnak a végrehajtási jog vagy jelzálogjog bejegyzéséért fizetendő (előlegezendő) díjat azt követő 8 napon belül fizeti meg (utólagos díjfizetés), miután annak teljes összegét végrehajtási költségként az adóssal (ingatlantulajdonossal) szemben, illetve az adók módjára behajtandó köztartozás jogosultjával szemben az eljárás eredménytelenségének megállapítását követően, mint végrehajtási költséget érvényesítette, ha a követelés
+
+- a) behajtását adóigazgatási eljárás során kezdeményezték, vagy társadalombiztosítási jogviszonyból ered,
+- b) a büntető- és a büntetés-végrehajtási-, valamint a szabálysértési eljárásban az adóssal szemben megállapított, az állam javára fizetendő összeg, vagy vagyonelkobzásból ered (a polgári jogi igény kivételével), vagy
+- c) az a)–b) pontokba nem tartozó más köztartozás, és
+- d) az a)–c) pontok valamelyikében foglalt feltétel teljesülését, valamint az utólagos díjfizetésre irányuló igényt a megkeresés tartalmazza.
+
+(12) Ha a díj megfizetését a végrehajtást kérő az (1) bekezdés szerint, vagy a (9) bekezdés alapján történő fizetést követően a végrehajtási eljárásban igazolta, továbbá utólagos díjfizetés igénybevétele esetén a díjat a végrehajtási eljárásban végrehajtási költségként kell behajtani.
+
+(13) A 32/A. § (4) bekezdésében meghatározott díjat a soron kívüli eljárás lefolytatása iránti kérelem előterjesztésével egyidejűleg kell az ingatlanügyi hatóság pénztárába befizetni, vagy amennyiben az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával megfizetni, illetve a díj készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén mellékelni kell a kérelemhez a díj megfizetését igazoló okiratot vagy annak másolatát.
+
+(14) A (9) bekezdésben foglaltak nem teljesítése esetén a soronkívüliség, illetve a hitelesített vagy hitelesítés nélküli iratmásolat, illetőleg kivonat iránti kérelem nem teljesíthető.
 
 32/F. § (1) A jogorvoslati eljárásban megfizetett díjat az ügyfélnek vissza kell téríteni, ha a felülvizsgált hatósági döntés az ügyfél hátrányára részben vagy egészben jogszabálysértőnek bizonyult.
 
 (2) Ha a kérelem és a befizetést igazoló okiratok alapján megállapítható, hogy az ügyfél a törvényes mértéket meghaladó összegű díjat fizetett, a többletet vissza kell téríteni.
 
-(3) A visszatérítést hivatalból kell elrendelni, és annak teljesítéséről huszonkét munkanapon belül intézkedni kell.
+(3) A visszatérítést hivatalból kell elrendelni, és annak teljesítéséről harminc napon belül intézkedni kell.
 
 ### ZÁRÓ RENDELKEZÉSEK
 

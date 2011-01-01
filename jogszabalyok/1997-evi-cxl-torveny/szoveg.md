@@ -367,11 +367,11 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 - b) a könyvtári dokumentumok lelőhelynyilvántartását,
 - c) a könyvtárak gyűjteményéből kivont dokumentumok hasznosítását a könyvtári rendszer számára.
 
-(2) A sajtótermékekből országosan 6 kötelespéldányt kell biztosítani a könyvtári rendszer számára, kormányrendeletben meghatározott módon.
+(2) A kiadványokból országosan hat kötelespéldányt kell szolgáltatni a könyvtári rendszer számára, kormányrendeletben meghatározott módon.
 
 (3) Az országos dokumentumellátási rendszerről szóló jogszabályban meghatározott könyvtár vezetőjének kinevezése előtt a miniszter véleményét kell kérni.
 
-(4) A miniszter kialakítja a nemzeti kulturális örökség részét képező kép- és hangrögzítés országos nyilvántartási rendszerét a Magyar Filmintézet, a Magyar Rádió Rt., a Magyar Televízió Rt., a Duna Televízió Rt. és más, a rádiózásról és televíziózásról szóló 1996. évi I. törvény szerint műsorszolgáltatási jogosítványt szerzett szervezetek archívumaiban őrzött, továbbá az egyéb szervezetek által gyűjtött és őrzött dokumentumokról.
+(4) A miniszter kialakítja a nemzeti kulturális örökség részét képező kép- és hangrögzítés országos nyilvántartási rendszerét a Magyar Nemzeti Filmarchívum, a Médiaszolgáltatás-támogató és Vagyonkezelő Alap, valamint a rádiózásról és televíziózásról szóló 1996. évi I. törvény, vagy a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény szerint médiaszolgáltatási jogosítványt szerzett szervezetek archívumaiban őrzött, továbbá az egyéb szervezetek által gyűjtött és őrzött dokumentumokról.
 
 (5) A miniszter működteti a Neumann János Multimédia Központ és Digitális Könyvtárt, amely a multimédia és elektronikus dokumentumok nemzeti szolgáltató központja. Az informatikáért felelős miniszter külön jogszabályban meghatározottak szerint működteti a Nemzeti Audiovizuális Archívumot (a továbbiakban: NAVA). A NAVA szakmai felügyeletét az informatikáért felelős miniszter, valamint a miniszter közösen látja el.
 
@@ -788,7 +788,11 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 (4)–(7)
 
-99. §
+99. § (1) A 94. § (4)–(5) bekezdése 2011. január 1-jétől 2011. december 31-ig nem alkalmazható.
+
+(2) A 94. § (4) bekezdésében meghatározott időtartamba nem számít bele az az időtartam, amely alatt a rendelkezés e törvény alapján nem alkalmazható.
+
+(3) E § (1) bekezdése 2012. január 1-jén hatályát veszti.
 
 ### Felhatalmazások
 
@@ -840,7 +844,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 (4)
 
-(5) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel együttesen rendeletben szabályozza a könyvtári dokumentumok védelmét és nyilvántartását.
+(5) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszter egyetértésével kiadott rendeletben szabályozza a könyvtári dokumentumok védelmét és nyilvántartását.
 
 (6) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben szabályozza a szakmai továbbképzési programokkal összefüggő és a népi iparművészeti alkotások és a „Népi Iparművész” minősítésért fizetendő igazgatási szolgáltatási díjak körét, mértékét, befizetésének szabályait, a befolyt összeg kezelését, nyilvántartását, elszámolását, felhasználását.
 

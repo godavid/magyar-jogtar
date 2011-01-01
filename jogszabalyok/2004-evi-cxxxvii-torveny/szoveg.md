@@ -10,7 +10,7 @@ a következő törvényt alkotja:
 
 1. § (1) A törvény hatálya kiterjed
 
-- a) a rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: Rttv.) 7. §-a (5) bekezdésének e) pontjában meghatározott, eredetileg magyar nyelven készült műsorszámokra;
+- a) a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 203. § 37. pontjában meghatározott magyar műsorszámokra;
 - b) az egyéb magyar vonatkozású műsorszámokra.
 
 (2) E törvény hatálya nem terjed ki azokra a műsorszámokra, amelyek a mozgóképről szóló 2004. évi II. törvény 34. §-ának (3) bekezdése alapján esnek archiválási kötelezettség alá.
@@ -22,7 +22,7 @@ a következő törvényt alkotja:
 - a) műsorszámhoz kapcsolódó dokumentum: a műsorszám előállításához, bemutatásához szükséges dokumentum (1. melléklet), és a műsorszám azonosító adatait (2. melléklet) rögzítő dokumentum;
 - b) archiválás: a műsorszámnak az archívum gyűjteményében történő tartós rögzítése, amelynek során a műsorszámhoz hozzárendelik az előállítására és azonosítására vonatkozó információkat;
 - c) felújítás: az archivált példányok állagának – a külön jogszabályban meghatározott módon és feltételek mellett történő – javítása, eredeti állapotának helyreállítása, ideértve az archiválási célból történő másolatkészítést is;
-- d) audiovizuális kötelespéldány: a közszolgálati műsorszolgáltatók és az országos földfelszíni terjesztésű televíziós műsorszolgáltatók által nyilvánossághoz közvetített, e törvény hatálya alá tartozó műsorszám.
+- d) audiovizuális kötelespéldány: a közszolgálati médiaszolgáltatók és az országos földfelszíni terjesztésű televíziós médiaszolgáltatók által nyilvánossághoz közvetített, e törvény hatálya alá tartozó műsorszám.
 
 ### II. Fejezet — A Nemzeti Audiovizuális Archívum
 
@@ -37,7 +37,7 @@ a következő törvényt alkotja:
 - a) az általa nyilvántartásba vett műsorszámok 2. mellékletben meghatározott azonosító adatairól történő folyamatos, mindenki számára hozzáférhető tájékoztatást, azzal, hogy a 2. melléklet 12. pontjában meghatározott adatok alapján az archívumból adatszolgáltatás nem teljesíthető;
 - b) az általa archivált műsorszámoknak a szerzői jogról szóló 1999. évi LXXVI. törvény (a továbbiakban: Szjt.) 38. §-ának (5) bekezdésében említett célból, a külön jogszabályban meghatározott módon a nyilvánosság számára történő hozzáférhetővé tételét.
 
-6. § A NAVA a műsorszolgáltatók adataira is kiterjedő módon országos nyilvántartást vezet
+6. § A NAVA a médiaszolgáltatók adataira is kiterjedő módon országos nyilvántartást vezet
 
 - a) a kötelespéldányként szolgáltatott műsorszámok azonosító adatairól,
 - b) a rendelkezésére bocsátott egyéb műsorszámok azonosító adatairól,
@@ -48,7 +48,7 @@ a következő törvényt alkotja:
 (2) A NAVA – annak érdekében, hogy megvalósuljon a kötelespéldány-szolgáltatás körén kívül eső műsorszámok nyilvántartása, megőrzése és felújítása – az Szjt. előírásainak megfelelően gyűjti és egyedi döntés alapján archiválja a rendelkezésére bocsátott, kötelespéldány-szolgáltatási kötelezettség alá nem tartozó műsorszámokat, különösen:
 
 - a) az e törvény hatálybalépése előtt nyilvánossághoz közvetített műsorszámokat;
-- b) azokat a műsorszámokat, amelyeket nem e törvény hatálya alá tartozó műsorszolgáltatók közvetítettek a nyilvánossághoz;
+- b) azokat a műsorszámokat, amelyeket nem e törvény hatálya alá tartozó médiaszolgáltatók közvetítettek a nyilvánossághoz;
 - c) olyan audiovizuális műsorszámokat, amelyeket nem közvetítettek a nyilvánossághoz.
 
 (3) A NAVA rendszeresen és folyamatosan felújítja az általa archivált műsorszámokat.
@@ -60,26 +60,26 @@ a következő törvényt alkotja:
 - a) a tevékenységi körébe tartozó tudományos kutatások végzése;
 - b) a műsorszámok archiválására vonatkozó szabályzat megalkotása, ennek keretében a technikai előírások kidolgozása;
 - c) minőségi előírások kidolgozása a műsorszámok archiválása területén;
-- d) a szabad felhasználás körén kívül eső közhasznú szolgáltatások nyújtása a műsorszolgáltatókkal, az érintett közös jogkezelő szervezetekkel, szükség szerint az érintett egyéb jogosultakkal történő együttműködés alapján;
-- e) vállalkozási tevékenység keretében, ellenszolgáltatás fejében szolgáltatások nyújtása harmadik személyeknek, a műsorszolgáltatókkal, az érintett közös jogkezelő szervezetekkel, szükség szerint az érintett egyéb jogosultakkal kötött felhasználási (licencia) szerződések alapján;
+- d) a szabad felhasználás körén kívül eső közhasznú szolgáltatások nyújtása a médiaszolgáltatókkal, az érintett közös jogkezelő szervezetekkel, szükség szerint az érintett egyéb jogosultakkal történő együttműködés alapján;
+- e) vállalkozási tevékenység keretében, ellenszolgáltatás fejében szolgáltatások nyújtása harmadik személyeknek, a médiaszolgáltatókkal, az érintett közös jogkezelő szervezetekkel, szükség szerint az érintett egyéb jogosultakkal kötött felhasználási (licencia) szerződések alapján;
 - f) nemzetközi és szakmai szervezetekkel való együttműködés;
 - g) a szerzői jogi védelem alá már nem tartozó állománya hálózati elérésének megteremtése.
 
-9. § Az e törvényben foglalt célok hatékony megvalósítása érdekében a NAVA – a kötelespéldány-szolgáltatásra vonatkozó kérdéseken túl – együttműködést kezdeményez a kötelespéldány-szolgáltatásra kötelezett műsorszolgáltatókkal, valamint más műsorszolgáltatókkal és archívumokkal, könyvtárakkal.
+9. § Az e törvényben foglalt célok hatékony megvalósítása érdekében a NAVA – a kötelespéldány-szolgáltatásra vonatkozó kérdéseken túl – együttműködést kezdeményez a kötelespéldány-szolgáltatásra kötelezett médiaszolgáltatókkal, valamint más médiaszolgáltatókkal és archívumokkal, könyvtárakkal.
 
 ### A kötelespéldány-szolgáltatás
 
 10. § (1) Az e törvény hatálybalépését követően nyilvánossághoz közvetített audiovizuális kötelespéldányt és a 2. mellékletben meghatározott azonosító adatokat archiválási célra – a külön jogszabályban meghatározott formában – a NAVA rendelkezésére kell bocsátani.
 
-(2) Az audiovizuális kötelespéldányt a NAVA közvetlenül a műsorszórásból rögzíti. Ha ez technikai akadályok miatt vagy egyéb okból nem lehetséges, a műsorszámot a műsorszolgáltató a NAVA felszólítására legkésőbb 60 napon belül külön hordozón köteles rendelkezésre bocsátani.
+(2) Az audiovizuális kötelespéldányt a NAVA közvetlenül a műsorszórásból rögzíti. Ha ez technikai akadályok miatt vagy egyéb okból nem lehetséges, a műsorszámot a médiaszolgáltató a NAVA felszólítására legkésőbb 60 napon belül külön hordozón köteles rendelkezésre bocsátani.
 
-(3) A műsorszámok 2. melléklet szerinti azonosító adatait a műsorszolgáltató köteles rendelkezésre bocsátani, a műsorszám nyilvánossághoz közvetítését követő három napon belül. Változatlan formában történő ismételt nyilvánossághoz közvetítés esetén csak az azonosító adatokban esetlegesen bekövetkezett változásokat kell közölni a kötelespéldány archívummal. A 2. melléklet 15. pontjában meghatározott személyes adatokat csak az érintettek előzetes, önkéntes és tájékozott hozzájárulása esetén lehet a NAVA rendelkezésére bocsátani.
+(3) A műsorszámok 2. melléklet szerinti azonosító adatait a médiaszolgáltató köteles rendelkezésre bocsátani, a műsorszám nyilvánossághoz közvetítését követő három napon belül. Változatlan formában történő ismételt nyilvánossághoz közvetítés esetén csak az azonosító adatokban esetlegesen bekövetkezett változásokat kell közölni a kötelespéldány archívummal. A 2. melléklet 15. pontjában meghatározott személyes adatokat csak az érintettek előzetes, önkéntes és tájékozott hozzájárulása esetén lehet a NAVA rendelkezésére bocsátani.
 
 11. § A kiemelkedő jelentőségű és pótolhatatlan értékű műsorszám, vagy az azt tartalmazó hordozó megsemmisülésének, elveszésének, megrongálódásának, károsodásának veszélye esetén a műsorszámot tartalmazó hordozó birtokosát a NAVA felszólítja, hogy azt – archiválás céljából – 30 napon belül bocsássa rendelkezésre.
 
-### Együttműködés a műsorszolgáltatókkalés más archívumokkal
+### Együttműködés a médiaszolgáltatókkalés más archívumokkal
 
-12. § (1) A műsorszámok és a kapcsolódó dokumentumok elhelyezéséről, a kötelespéldány-szolgáltatás módjáról és feltételeiről, valamint a műsorszámok gyűjtésével és archiválásával összefüggő más kérdésekről – amennyiben jogszabály eltérően nem rendelkezik – a NAVA szolgáltatási szerződésben állapodhat meg a műsorszolgáltatókkal és más archívumokkal.
+12. § (1) A műsorszámok és a kapcsolódó dokumentumok elhelyezéséről, a kötelespéldány-szolgáltatás módjáról és feltételeiről, valamint a műsorszámok gyűjtésével és archiválásával összefüggő más kérdésekről – amennyiben jogszabály eltérően nem rendelkezik – a NAVA szolgáltatási szerződésben állapodhat meg a médiaszolgáltatókkal és más archívumokkal.
 
 (2) A NAVA szolgáltatási szerződést köt a nála önkéntesen elhelyezett műsorszámokra és kapcsolódó dokumentumokra vonatkozó jogokról és kötelezettségekről, így különösen a felújítás részletszabályairól, a nyilvánosság számára történő hozzáférhetővé tételről és hasznosításról, a műsorszámok archívumból történő ideiglenes kiemeléséről, a műsorszámokban bekövetkezett károsodás miatt fennálló felelősségről és a helyreállítás feltételeiről.
 
@@ -108,7 +108,7 @@ a következő törvényt alkotja:
 
 15. § (1) A Testület tizenegy – az audiovizuális örökség védelme és a szerzői jog területén szakértelemmel rendelkező, független – tagból áll. A Testület tagjait a miniszter bízza meg.
 
-(2) A Testületbe egy-egy tagot a miniszter, a kultúráért felelős miniszter, az igazságügyért felelős miniszter, a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa és a Magyar Szabadalmi Hivatal delegál. Öt tag személyére a kötelespéldány-szolgáltatásra kötelezett műsorszolgáltatók, egy tag személyére a gyűjtemény hozzáférhetőségét biztosító intézmények képviseletében a kultúráért felelős miniszter tesz javaslatot.
+(2) A Testületbe egy-egy tagot a miniszter, a kultúráért felelős miniszter, az igazságügyért felelős miniszter, a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa és a Szellemi Tulajdon Nemzeti Hivatala delegál. Öt tag személyére a kötelespéldány-szolgáltatásra kötelezett médiaszolgáltatók, egy tag személyére a gyűjtemény hozzáférhetőségét biztosító intézmények képviseletében a kultúráért felelős miniszter tesz javaslatot.
 
 (3) A Testület tagjainak megbízatása ötéves időtartamra szól, amely további öt évre meghosszabbítható.
 
@@ -124,7 +124,7 @@ a következő törvényt alkotja:
 
 ### Felhatalmazások
 
-18. § Felhatalmazást kap a miniszter és a kultúráért felelős miniszter, hogy együttes rendeletben állapítsa meg:
+18. § Felhatalmazást kap a miniszter, hogy a kultúráért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg:
 
 - a) az audiovizuális kötelespéldányok szolgáltatásának részletes szabályait,
 - b) a műsorszámok felújításának, valamint szolgáltatásának műszaki, minőségi és egyéb követelményeit.
@@ -157,7 +157,7 @@ A törvény 10. §-ának (1) bekezdése alapján a kötelespéldány-szolgáltat
 |  |  |  |
 | 4. | Kiadó | Az a természetes vagy jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, aki/amely anyagi és/vagy irányítási, igazgatási felelősséget vállal a műsorszám nyilvánossághoz közvetítéséért |
 |  |  |  |
-| 5. | Nyilvánosságra hozó (műsorszolgáltató) csatorna megnevezése |  |
+| 5. | Nyilvánosságra hozó (médiaszolgáltató) csatorna megnevezése |  |
 |  |  |  |
 | 6. | Nyelv | A műsorszámban előforduló szövegek nyelve |
 |  |  |  |
@@ -215,7 +215,7 @@ A törvény 10. §-ának (1) bekezdése alapján a kötelespéldány-szolgáltat
 
 #### II. ÖNKÉNTES ADATSZOLGÁLTATÁS
 
-Nem kötelező az adatszolgáltatás az alább felsoroltakra, de a műsorszolgáltatónál meglévő adatot a NAVA befogadja:
+Nem kötelező az adatszolgáltatás az alább felsoroltakra, de a médiaszolgáltatónál meglévő adatot a NAVA befogadja:
 
 |  | A műsorszám adatai | Meghatározás* |
 | --- | --- | --- |

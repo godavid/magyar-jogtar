@@ -31,13 +31,13 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 - a) az (1) bekezdés a) pontja alkalmazásával első fokon eljáró hatóság felett felügyeleti jogkört gyakorló miniszter, illetőleg a Kormány által rendeletben kijelölt hatóság,
 - b) szakhatóságként az (1) bekezdés b) pontja alkalmazásával első fokon eljáró szakhatóság felett felügyeleti jogkört gyakorló miniszter, illetőleg a Kormány által rendeletben kijelölt hatóság.
 
-3. § (1) Kiemelt jelentőségű ügyben a kérelmet soron kívül kell elbírálni, az ügyintézési határidő azonban – a (2) bekezdésben meghatározott kivétellel – legfeljebb negyvenöt munkanap lehet.
+3. § (1) Kiemelt jelentőségű ügyben a kérelmet soron kívül kell elbírálni, az ügyintézési határidő azonban – a (2) bekezdésben meghatározott kivétellel – legfeljebb két hónap lehet.
 
-(2) Ha az (1) bekezdés szerinti kiemelt jelentőségű ügyben az építési engedélyezéshez, vagy az összevont építésügyi hatósági engedélyezési eljárás építési engedélyezési szakaszához szükséges mellékleteket és dokumentációt építésügyi igazgatási szakértő készíti elő, és az építtető az építésügyi hatósági engedélykérelme benyújtásakor kérelméhez mellékeli az építésügyi igazgatási szakértőnek a külön jogszabályban foglaltak szerinti tartalmú nyilatkozatát az ügyintézési határidő soron kívüli, de legfeljebb huszonkét munkanap.
+(2) Ha az (1) bekezdés szerinti kiemelt jelentőségű ügyben az építési engedélyezéshez, vagy az összevont építésügyi hatósági engedélyezési eljárás építési engedélyezési szakaszához szükséges mellékleteket és dokumentációt építésügyi igazgatási szakértő készíti elő, és az építtető az építésügyi hatósági engedélykérelme benyújtásakor kérelméhez mellékeli az építésügyi igazgatási szakértőnek a külön jogszabályban foglaltak szerinti tartalmú nyilatkozatát az ügyintézési határidő soron kívüli, de legfeljebb harminc nap.
 
 (3) A környezet védelmének általános szabályairól, valamint a természet védelméről szóló törvények hatálya alá tartozó hatósági eljárások esetében az (1) és (4) bekezdés határidőkre vonatkozó szabályait nem kell alkalmazni.
 
-(4) A hatóság vezetője indokolt esetben az ügyintézési határidőt legfeljebb tíz munkanappal meghosszabbíthatja.
+(4) A hatóság vezetője indokolt esetben az ügyintézési határidőt legfeljebb tizenöt nappal meghosszabbíthatja.
 
 (5)
 
@@ -65,13 +65,13 @@ szakaszból áll.
 
 (5) Az összevont eljárás építési engedélyezéshez szükséges – az építési engedélyezési eljárást szabályozó külön jogszabályokban meghatározott – mellékleteit az elvi keretengedélyezést követően, az elvi építési keretengedélyben meghatározottak szerint és annak hatályán belül kell benyújtani.
 
-(6) Az összevont eljárás iránti kérelem beérkezésétől számított tíz munkanapon belül az építésügyi hatóság – az eljárásban kijelölt szakhatóságok és érintett közműszolgáltatók bevonásával, továbbá az egyéb ügyfelek hirdetményi úton történő értesítésével – tárgyalást és helyszíni szemlét tart. Az építésügyi hatóság a tárgyalásról és helyszíni szemléről a kérelmező, az építésügyi hatóság, a szakhatóságok és a közműszolgáltatók megállapításait és a beruházás megvalósíthatóságával kapcsolatos nyilatkozatait, valamint a szakhatóság állásfoglalását is magában foglaló jegyzőkönyvet készít. A szakhatóság és az érintett közműszolgáltató a tárgyalás és helyszíni szemle során az állásfoglalása kiadására és a nyilatkozattételre további öt munkanapot kérhet.
+(6) Az összevont eljárás iránti kérelem beérkezését követő naptól számított tizenöt napon belül az építésügyi hatóság – az eljárásban kijelölt szakhatóságok és érintett közműszolgáltatók bevonásával, továbbá az egyéb ügyfelek hirdetményi úton történő értesítésével – tárgyalást és helyszíni szemlét tart. Az építésügyi hatóság a tárgyalásról és helyszíni szemléről a kérelmező, az építésügyi hatóság, a szakhatóságok és a közműszolgáltatók megállapításait és a beruházás megvalósíthatóságával kapcsolatos nyilatkozatait, valamint a szakhatóság állásfoglalását is magában foglaló jegyzőkönyvet készít. A szakhatóság és az érintett közműszolgáltató a tárgyalás és helyszíni szemle során az állásfoglalása kiadására és a nyilatkozattételre további nyolc napot kérhet.
 
 (7) Az elvi keretengedélyezés során az építésügyi hatóság elvi építési keretengedélyt (a továbbiakban: elvi keretengedély) ad ki.
 
 (8) Az elvi keretengedélyben az építésügyi hatóság a (6) bekezdés szerinti tárgyalás és helyszíni szemle során feltárt tények és nyilatkozatok alapján megállapítja az építési engedély megadásának általános feltételeit és kereteit.
 
-(9) Az elvi keretengedélyezési eljárás ügyintézési határideje tizenöt munkanap. Az elvi keretengedély megtagadásáról szóló végzés ellen önálló fellebbezésnek van helye.
+(9) Az elvi keretengedélyezési eljárás ügyintézési határideje huszonöt nap. Az elvi keretengedély megtagadásáról szóló végzés ellen önálló fellebbezésnek van helye.
 
 (10) A jogerős elvi keretengedély egy évig hatályos. Hatálya egy ízben legfeljebb egy évvel meghosszabbítható, ha az elvi keretengedély lényeges tartalmát érintő jogszabályok, illetve a kötelező hatósági előírások időközben nem változtak meg. Az elvi keretengedély építési tevékenység végzésére nem jogosít.
 
@@ -81,7 +81,7 @@ szakaszból áll.
 
 (3)
 
-5. § (1) Kiemelt jelentőségű ügy engedélyezési eljárásában a szakhatóság eljárására irányadó ügyintézési határidő – a 4/A. § (6) bekezdésében foglaltak kivételével – tíz munkanap, amelyet a szakhatóság vezetője indokolt esetben egy alkalommal legfeljebb öt munkanappal meghosszabbíthat.
+5. § (1) Kiemelt jelentőségű ügy engedélyezési eljárásában a szakhatóság eljárására irányadó ügyintézési határidő – a 4/A. § (6) bekezdésében foglaltak kivételével – tizenöt nap, amelyet a szakhatóság vezetője indokolt esetben egy alkalommal legfeljebb nyolc nappal meghosszabbíthat.
 
 (2)
 
@@ -94,7 +94,7 @@ szakaszból áll.
 - a) az építésügyi hatósági engedélyezési eljárás megindítása előtt beszerzett, a kérelem tárgyára vonatkozó, hat hónapnál nem régebbi szakhatósági állásfoglalás rendelkezésére áll, és
 - b) az építésügyi hatósági eljárások szabályait meghatározó jogszabályokban a szakhatósági állásfoglalás megadására előírt feltételek teljesülését megállapította.
 
-6/A. § A kiemelt jelentőségű ügyben hozott elsőfokú határozat elleni fellebbezést soron kívül, de legfeljebb huszonkét munkanapon belül el kell bírálni.
+6/A. § A kiemelt jelentőségű ügyben hozott elsőfokú határozat elleni fellebbezést soron kívül, de legfeljebb harminc napon belül el kell bírálni.
 
 6/B. § (1) A kiemelt jelentőségű ügyben indult eljárást – az ügyfajtára irányadó különös eljárási szabályok szerint fizetendő illeték vagy díj helyett – a Kormány kormányrendeletben meghatározott mértékű, az eljáró hatóság és – szakhatóság közreműködése esetén – a szakhatóság bevételét képező igazgatási szolgáltatási díj megfizetéséhez kötheti.
 
@@ -108,9 +108,7 @@ szakaszból áll.
 
 (2) A hatóság a keresetlevelet az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt nyolc napon belül továbbítja a bírósághoz.
 
-[(2) A keresetlevél a hatósághoz kizárólag elektronikus úton nyújtható be. A hatóság a keresetlevelet az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt három napon belül elektronikusan továbbítja a bírósághoz.]
-
-(3) [(3) A perben a beadványok benyújtása és a hivatalos iratok kézbesítése a Pp.-ben, valamint a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben meghatározottak szerint, kizárólag elektronikus úton történik.]
+(3)
 
 (4) A bíróság a keresetlevelet legkésőbb annak beérkezését követő öt napon belül megvizsgálja, valamint ezen belül a jogszabálynak megfelelő keresetlevelet a közigazgatási szerv nyilatkozatával együtt megküldi a felperes jogi képviselője részére.
 

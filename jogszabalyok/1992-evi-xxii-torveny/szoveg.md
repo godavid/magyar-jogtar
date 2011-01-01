@@ -159,7 +159,7 @@ kézbesítettnek kell tekinteni.
 
 (2) A Kormány évente szeptember 30-ig – az országgyűlési képviselők általános választásának évében legkésőbb október 31-ig – köteles országos bértárgyalásokat kezdeményezni.
 
-(3) Ha az Országos Érdekegyeztető Tanácsban létrejött megállapodás jogszabályalkotást vagy az állami irányítás egyéb jogi eszközének kiadását teszi szükségessé, ennek érdekében a társadalmi párbeszédért felelős miniszter intézkedik.
+(3) Ha az Országos Érdekegyeztető Tanácsban létrejött megállapodás jogszabályalkotást vagy közjogi szervezetszabályozó eszköz kiadását teszi szükségessé, ennek érdekében a társadalmi párbeszédért felelős miniszter intézkedik.
 
 (4) A társadalmi párbeszédért felelős miniszter az Országos Érdekegyeztető Tanáccsal folytatott konzultáció alapján rendeletben meghatározhatja a munkaminősítés rendszerét.
 

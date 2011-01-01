@@ -144,7 +144,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (6) A munkáltató a munkakörre előírt szakvizsga megszerzésének feltétele alól kivételesen indokolt esetben – legfeljebb 3 évre – halasztást engedélyezhet.
 
-(7) A képesítési követelményekkel kapcsolatos részletes rendelkezéseket – így az (5) bekezdés szerinti vizsgákra vonatkozó szabályokat is – a miniszter – a bíróságok és az OIT Hivatala képesítési követelményei esetében az Országos Igazságszolgáltatási Tanáccsal egyetértésben – rendeletben határozza meg.
+(7) A képesítési követelményekkel kapcsolatos részletes rendelkezéseket – így az (5) bekezdés szerinti vizsgákra vonatkozó szabályokat is – a miniszter – a bíróságok és az OIT Hivatala képesítési követelményei esetében az Országos Igazságszolgáltatási Tanács véleményének kikérésével – rendeletben határozza meg.
 
 14. § (1) Igazságügyi szolgálati viszony létesítésére – a (6) bekezdésben foglaltak kivételével – a kinevező pályázatot írhat ki. A pályázatot nyilvánosan kell meghirdetni.
 
@@ -975,13 +975,13 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 - a) a Legfelsőbb Bíróság és az OIT Hivatalának alkalmazottja esetén a Ktv. 44. § (1) bekezdésében meghatározott központi közigazgatási szerveknél,
 - b) az egyéb igazságügyi szerv alkalmazottja esetén a Ktv. 44. § (2) bekezdésében meghatározott központi közigazgatási szerveknél,
-- c) az a)–b) pontba nem tartozó szervek alkalmazottja esetén a közigazgatási hivataloknál
+- c) az a)–b) pontba nem tartozó szervek alkalmazottja esetén a Kormány általános hatáskörű területi államigazgatási szervénél
 
 a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Ktv. szerinti illetménykiegészítéssel növelt alapilletményénél.
 
 (2) A bírósági titkár, az igazságügyi szakértő alapilletménye nem lehet kevesebb a szolgálati viszonya kezdetétől számítva azonos szolgálati idővel rendelkező köztisztviselőnek a Ktv. szerint a központi közigazgatási szerveknél [Ktv. 44. § (1) bekezdés] az illetménykiegészítéssel növelt alapilletményénél.
 
-(3) A bírósági fogalmazó és a szakértő-jelölt alapilletménye nem lehet kevesebb a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselőnek a Ktv. szerint a közigazgatási hivatalnál az illetménykiegészítéssel növelt alapilletményénél.
+(3) A bírósági fogalmazó és a szakértő-jelölt alapilletménye nem lehet kevesebb a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselőnek a Ktv. szerint a Kormány általános hatáskörű területi államigazgatási szervénél az illetménykiegészítéssel növelt alapilletményénél.
 
 (4) Az (1)–(3) bekezdés szerint számított illetménykülönbözetet életpálya-különbözetként kell kifizetni.
 
@@ -1105,7 +1105,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Kt
 
 ### Egyéb javadalmazások, kedvezményekés költségtérítések
 
-119. § (1) Az igazságügyi alkalmazott cafetéria-juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 70. § (2) bekezdés a) és b), valamint d) és e) pontjaiban, továbbá (5) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig, valamint az ingyenes vagy kedvezményes internethasználatra jogosult. Az Országos Igazságszolgáltatási Tanács, illetve az 1. § (1) bekezdés c) pontjában meghatározott szervek esetében – ha jogszabály eltérően nem rendelkezik – az irányító miniszter további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
+119. § (1) Az igazságügyi alkalmazott cafetéria-juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjaiban, továbbá (3) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig jogosult. Az Országos Igazságszolgáltatási Tanács, illetve az 1. § (1) bekezdés c) pontjában meghatározott szervek esetében – ha jogszabály eltérően nem rendelkezik – az irányító miniszter további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
 
 (2) Nem jogosult cafetéria-juttatásra az igazságügyi alkalmazott azon időtartam vonatkozásában, amelyre illetményre vagy átlagkeresetre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot.
 
@@ -1226,8 +1226,8 @@ a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Kt
 (3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
 - a)
-- b) az igazságügyi alkalmazottak munkaköri elnevezéseit és a képesítési követelmények részletes szabályait, valamint a veszélyességi pótlékra jogosító munkaköröket – az OIT Hivatalára és a bíróságokra vonatkozóan az OIT egyetértésével –,
-- c) a bírósági fogalmazók felvételi rendjére és joggyakorlatára vonatkozó részletes szabályokat az OIT egyetértésével,
+- b) az igazságügyi alkalmazottak munkaköri elnevezéseit és a képesítési követelmények részletes szabályait, valamint a veszélyességi pótlékra jogosító munkaköröket – az OIT Hivatalára és a bíróságokra vonatkozóan az OIT véleményének kikérésével egyetértésével –,
+- c) a bírósági fogalmazók felvételi rendjére és joggyakorlatára vonatkozó részletes szabályokat az OIT véleményének kikérésével,
 - d) az igazságügyi alkalmazottaknak, valamint a bíróságok által fenntartott üdülők, bölcsődék és óvodák alkalmazottainak igazolványára vonatkozó szabályokat
 
 rendeletben állapítsa meg.

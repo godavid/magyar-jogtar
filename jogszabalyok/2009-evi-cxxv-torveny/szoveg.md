@@ -44,7 +44,7 @@ bemutatásával vehető igénybe.
 - b) a hallgatói jogviszonnyal összefüggésben a felsőoktatási hallgatói jogviszonyban álló személy részére szemeszterenként 60 óra,
 - c) a képzéssel összefüggésben a felnőttképzésben részt vevő személy részére képzésenként a képzés óraszáma 20 százalékának megfelelő mértékű térítésmentes jelnyelvi tolmácsszolgáltatást biztosít.
 
-6. § (1) A fogyatékos személyek esélyegyenlőségének biztosítására létrehozott közalapítvány (a továbbiakban: Közalapítvány) a térítésmentes jelnyelvi tolmácsszolgáltatást az 5. §-ban meghatározott időkerettel való gazdálkodás, valamint a finanszírozás tekintetében ellenőrzi. A térítésmentes jelnyelvi tolmácsszolgáltatásról – az 5. §-ban meghatározott időkerettel való gazdálkodás, valamint a finanszírozás ellenőrzése céljából – a Közalapítvány nyilvántartást vezet. A nyilvántartásban szereplő személyes adatok adatkezelője és adatfeldolgozója a Közalapítvány.
+6. § (1) A fogyatékos személyek esélyegyenlőségének biztosítására létrehozott, a társadalmi esélyegyenlőség előmozdításáért felelős miniszter szakmai felügyelete alatt álló szervezet a térítésmentes jelnyelvi tolmácsszolgáltatást az 5. §-ban meghatározott időkerettel való gazdálkodás, valamint a finanszírozás tekintetében ellenőrzi, továbbá az ellenőrzés céljából nyilvántartást vezet a térítésmentes jelnyelvi tolmácsszolgáltatásról. A szervezet a nyilvántartásban szereplő személyes adatok adatkezelője és adatfeldolgozója.
 
 (2) A nyilvántartás tartalmazza
 
@@ -53,11 +53,11 @@ bemutatásával vehető igénybe.
 - c) a térítésmentes jelnyelvi tolmácsszolgáltatást igénybe vevő személy által felhasznált óraszámra vonatkozó adatot, valamint annak megjelölését, hogy az igénybevétel a tanulói, hallgatói jogviszonnyal, illetve a felnőttképzéssel összefüggésben történt-e,
 - d) a jelnyelvi tolmács, illetve tolmácsszolgálat megnevezését és elérhetőségeit, a tolmácsolás helyét, időpontját és időtartamát, továbbá a tolmácsolás típusát.
 
-(3) A nyilvántartás részére a (2) bekezdésben foglalt, a jelnyelvi tolmácsszolgáltatás igénybevevője által rendelkezésre bocsátott adatokat a tolmácsszolgáltatást nyújtó jelnyelvi tolmácsszolgálat továbbítja. A jelnyelvi tolmácsszolgálat a tolmácsszolgáltatási tevékenysége ellátásához jogosult a (2) bekezdés szerinti adatok kezelésére. A jelnyelvi tolmácsszolgálat részére a Közalapítvány a nyilvántartásból a (2) bekezdés a) és c) pontjában meghatározott adatokat elektronikus adatkapcsolat keretében továbbítja.
+(3) A nyilvántartás részére a (2) bekezdésben foglalt, a jelnyelvi tolmácsszolgáltatás igénybevevője által rendelkezésre bocsátott adatokat a tolmácsszolgáltatást nyújtó jelnyelvi tolmácsszolgálat továbbítja. A jelnyelvi tolmácsszolgálat a tolmácsszolgáltatási tevékenysége ellátásához jogosult a (2) bekezdés szerinti adatok kezelésére. A jelnyelvi tolmácsszolgálat részére az (1) bekezdés szerinti szervezet a nyilvántartásból a (2) bekezdés a) és c) pontjában meghatározott adatokat elektronikus adatkapcsolat keretében továbbítja.
 
-(4) A Közalapítvány a nyilvántartásban szereplő adatokat személyazonosításra alkalmatlan módon statisztikai célra is felhasználhatja, illetve azokból statisztikai célra adatot szolgáltathat.
+(4) Az (1) bekezdés szerinti szervezet a nyilvántartásban szereplő adatokat személyazonosításra alkalmatlan módon statisztikai célra is felhasználhatja, illetve azokból statisztikai célra adatot szolgáltathat.
 
-(5) A nyilvántartásban szereplő adatokat a Közalapítvány 5 évig kezeli, ezt követően az adatokat törli a nyilvántartásból. A jelnyelvi tolmácsszolgálat a (2) bekezdésben foglalt adatok kezelésére a térítésmentes jelnyelvi tolmácsszolgáltatás időtartamára jogosult.
+(5) A nyilvántartásban szereplő adatokat az (1) bekezdés szerinti szervezet 5 évig kezeli, ezt követően az adatokat törli a nyilvántartásból. A jelnyelvi tolmácsszolgálat a (2) bekezdésben foglalt adatok kezelésére a térítésmentes jelnyelvi tolmácsszolgáltatás időtartamára jogosult.
 
 ### A jelnyelvi tolmácsszolgálat
 
@@ -77,7 +77,7 @@ bemutatásával vehető igénybe.
 - b) a közszolgáltatási tevékenység, valamint
 - c) a 10. § (4) bekezdése szerinti szóbeli vizsgák
 
-során csak az folytathat, aki büntetlen előéletű, a tolmácsolási tevékenység tekintetében nem áll foglalkoztatástól eltiltás hatálya alatt, továbbá rendelkezik az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel és megfelel az ott meghatározott egyéb feltételeknek.
+során csak az folytathat, aki büntetlen előéletű, a tolmácsolási tevékenység tekintetében nem áll foglalkozástól eltiltás hatálya alatt, továbbá rendelkezik az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel, megfelel az ott meghatározott egyéb feltételeknek, valamint eleget tesz az ott meghatározott, továbbképzésre és szakmai gyakorlatra vonatkozó előírásoknak.
 
 (2) Aki az (1) bekezdés szerinti jelnyelvi tolmácsolási tevékenységet kíván folytatni, köteles az erre irányuló szándékát a Jelnyelvi Tolmácsok Országos Névjegyzékét (a továbbiakban: Névjegyzék) vezető hatóságnak bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
@@ -91,7 +91,10 @@ során csak az folytathat, aki büntetlen előéletű, a tolmácsolási tevéken
 - d) szakképzettségének, szakképesítésének, illetve részszakképesítésének megnevezését, az erről kiállított oklevél, bizonyítvány számát, a kiállítás helyét és időpontját, a kiállító intézmény megnevezését,
 - e) tevékenységének leírását (kompetenciáját),
 - f) által vállalt tolmácsolási típusokat,
-- g) Névjegyzékbe történő felvételének időpontját.
+- g) Névjegyzékbe történő felvételének időpontját,
+- h) továbbképzésen történő részvételének helyét, időpontját és időtartamát, valamint a továbbképzést végző szervezet megnevezését,
+- i) igazolt szakmai gyakorlatának időtartamát,
+- j) tevékenységének szüneteltetése esetén annak tényét, valamint időtartamát.
 
 (5) A Névjegyzékben szereplő adatokból a Névjegyzéket vezető hatóság a honlapján közzéteszi a jelnyelvi tolmács
 
@@ -100,11 +103,12 @@ során csak az folytathat, aki büntetlen előéletű, a tolmácsolási tevéken
 - c) egyéb elérhetőségét, ha hozzájárult annak közzétételéhez,
 - d) szakképzettségének, szakképesítésének, részszakképesítésének megnevezését,
 - e) tevékenységének leírását (kompetenciáját),
-- f) által vállalt tolmácsolási típusokat.
+- f) által vállalt tolmácsolási típusokat,
+- g) tevékenységének szüneteltetése esetén annak tényét, valamint időtartamát.
 
-(6) Törölni kell a Névjegyzékből annak a jelnyelvi tolmácsnak az adatait, aki a törlést kéri, vagy aki a büntetlen előéletre vonatkozó feltétellel már nem rendelkezik, vagy a tolmácsfoglalkozás gyakorlásától eltiltás hatálya alatt áll. A Névjegyzékből törölt jelnyelvi tolmácsok adatait a Névjegyzéket vezető hatóság elkülönítetten kezeli.
+(6) Törölni kell a Névjegyzékből annak a jelnyelvi tolmácsnak az adatait, aki a törlést kéri, a tolmácsolási tevékenység folytatásához szükséges szakmai gyakorlatot vagy továbbképzési kötelezettséget nem teljesítette, a büntetlen előéletre vonatkozó feltételnek már nem felel meg, vagy a tolmácsfoglalkozás gyakorlásától eltiltás hatálya alatt áll. A Névjegyzékből törölt jelnyelvi tolmácsok adatait a Névjegyzéket vezető hatóság elkülönítetten kezeli.
 
-(7) A Névjegyzéket vezető hatóság a (6) bekezdés szerinti kizáró feltétel fennállását bármikor ellenőrizheti, felhívására a Névjegyzékbe bejelentkező, vagy az abban szereplő jelnyelvi tolmács hatósági bizonyítvánnyal igazolja, hogy vele szemben nem áll fenn kizáró feltétel.
+(7) A Névjegyzéket vezető hatóság a büntetlen előéletre vagy a tolmácsfoglalkozás gyakorlásától eltiltásra vonatkozó kizáró feltétel fennállását bármikor ellenőrizheti. Felhívására a Névjegyzékbe bejelentkező vagy az abban szereplő jelnyelvi tolmács hatósági bizonyítvánnyal igazolja, hogy vele szemben nem áll fenn a kizáró feltétel.
 
 (8) A hatósági bizonyítványban foglalt adatokat a Névjegyzéket vezető hatóság az ellenőrzés lefolytatásáig, vagy ha az ellenőrzés alapján a jelnyelvi tolmács adatainak a Névjegyzékből való törlésére kerül sor, a törlési eljárás jogerős befejezéséig kezelheti.
 
@@ -120,7 +124,7 @@ során csak az folytathat, aki büntetlen előéletű, a tolmácsolási tevéken
 
 ### Finanszírozási szabályok
 
-10. § (1) A térítésmentes jelnyelvi tolmácsszolgáltatáshoz, valamint a jelnyelvi tolmácsszolgálatok működéséhez szükséges forrást a mindenkori költségvetési törvény tartalmazza. A térítésmentes jelnyelvi tolmácsszolgáltatás finanszírozása a Közalapítvány útján történik.
+10. § (1) A térítésmentes jelnyelvi tolmácsszolgáltatáshoz, valamint a jelnyelvi tolmácsszolgálatok működéséhez szükséges forrást a mindenkori költségvetési törvény tartalmazza. A térítésmentes jelnyelvi tolmácsszolgáltatás finanszírozása a 6. § (1) bekezdése szerinti szervezet útján történik.
 
 (2) A jelnyelvi tolmácsszolgálatok működését az állam – a külön jogszabályban meghatározott pályázati rend szerint kiválasztott – fenntartókkal kötött finanszírozási szerződések útján támogatja.
 
@@ -291,13 +295,14 @@ szövegrész lép.
 
 részletes szabályokat.
 
-(7) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy rendeletben állapítsa meg
+(7) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg
 
 - a) a jelnyelvi tolmácsszolgálatok pályáztatásával összefüggő szabályokat és a térítésmentes jelnyelvi tolmácsszolgáltatás finanszírozására vonatkozó részletes szabályokat,
 - b) a térítésmentes jelnyelvi tolmácsszolgáltatás igénybevételének részletes szabályait, továbbá
-- c) az e törvény szerinti jelnyelvi tolmácsolási tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és a jelnyelvi tolmácsolási tevékenységet folytatók Névjegyzékének személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a Névjegyzék vezetésére vonatkozó részletes eljárási szabályokat.
+- c) az e törvény szerinti jelnyelvi tolmácsolási tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és a jelnyelvi tolmácsolási tevékenységet folytatók Névjegyzékének személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a Névjegyzék vezetésére vonatkozó részletes eljárási szabályokat,
+- d) a jelnyelvi tolmácsolási tevékenységet folytatók Névjegyzékén szereplő jelnyelvi tolmácsok kötelező továbbképzésére, szakmai gyakorlatára, valamint az azok bejelentésére, igazolására és ellenőrzésére vonatkozó szabályokat.
 
-(8) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy a pénzügyminiszterrel egyetértésben rendeletben állapítsa meg a Névjegyzékbe történő felvételért fizetendő igazgatási szolgáltatási díjra vonatkozó részletes rendelkezéseket.
+(8) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter, valamint az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a Névjegyzékbe történő felvételért fizetendő igazgatási szolgáltatási díjra vonatkozó részletes rendelkezéseket.
 
 ### Melléklet a 2009. évi CXXV. törvényhez
 

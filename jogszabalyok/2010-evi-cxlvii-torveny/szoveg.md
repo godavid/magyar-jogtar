@@ -4,7 +4,35 @@ egyes rendészeti tárgyú és az azokkal összefüggő törvények módosítás
 
 #### 1. A Magyar Köztársaság ügyészségéről szóló 1972. évi V. törvény módosítása
 
-1–3. §
+1. § A Magyar Köztársaság ügyészségéről szóló 1972. évi V. törvény (a továbbiakban: Ütv.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az ügyészség a büntetőeljárásról szóló törvényben meghatározott feltételek szerint nyomozást végeztet és nyomoz; ha a nyomozó hatóság önállóan végez nyomozást vagy egyes nyomozási cselekményeket, az ügyészség felügyel arra, hogy azt a törvény rendelkezéseit megtartva végezzék, törvényben meghatározott egyéb jogokat gyakorol a nyomozással összefüggésben, képviseli a vádat a bírósági eljárásban, továbbá felügyelet gyakorol a rendőrségről szóló törvényben meghatározott megbízhatósági vizsgálat, valamint a büntetés-végrehajtás törvényessége felett.”
+
+2. § Az Ütv. 3. § (2) bekezdés g) pontja helyébe a következő rendelkezés lép:
+
+[Az (1) bekezdésben megjelölt feladatok érdekében az ügyészség]
+
+„g) elősegíti, hogy a jogszabályok rendelkezéseit megtartsák, e körben ellátja a Rendőrségről szóló 1994. évi XXXIV. törvényben (a továbbiakban: Rtv.) meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv megbízhatósági vizsgálatra vonatkozó tevékenységének felügyeletét (ügyészi törvényességi felügyelet);”
+
+3. § Az Ütv. a 17/A. §-t követően a következő alcímmel és 17/B. §-sal egészül ki:
+
+„A megbízhatósági vizsgálat feletti felügyelet
+
+17/B. § (1) Az ügyész a (2) bekezdésben meghatározottak szerint felügyel az Rtv.-ben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv által folytatott megbízhatósági vizsgálat törvényességére.
+
+(2) A felügyelet során az ügyész
+
+a) jogosult a megbízhatósági vizsgálat elrendeléséről szóló határozatról, továbbá a megbízhatósági vizsgálat végrehajtásáról szóló részletes tervről az elrendelést követő – a határozat és a részletes terv megküldésével történő – haladéktalan tájékoztatásra,
+
+b) az elrendelésről szóló, az a) pontban meghatározott iratok kézhezvételét követő 2 munkanapon belül dönt a megbízhatósági vizsgálat lefolytatásának jóváhagyásáról,
+
+c) jogosult a megbízhatósági vizsgálat teljes dokumentációjába korlátozás nélkül betekinteni,
+
+d) jogosult a megbízhatósági vizsgálat befejezéséről szóló indokolt határozatról – a határozat megküldésével történő – haladéktalan tájékoztatásra, valamint
+
+e) a d) pont szerinti határozat kézhezvételétől számított 8 munkanapon belül óvást emelhet.
+
+(3) Az ügyész a megbízhatósági vizsgálat befejezéséről szóló indokolt határozatot a kézhezvételét követő 8 munkanapon belül visszaküldi az Rtv.-ben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnek.”
 
 #### 2. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 

@@ -77,13 +77,13 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 
 ### Kis- és Középvállalkozói Célelőirányzat
 
-6. § (1) A kizárólag KKV-k fejlődését szolgáló támogatások finanszírozását a gazdaságpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében a Kis- és Középvállalkozói Célelőirányzat (a továbbiakban: célelőirányzat) biztosítja.
+6. § (1) A KKV-k fejlődését szolgáló támogatások finanszírozását a fejlesztéspolitikáért felelős miniszter irányítása alatt álló fejezetben lévő, Gazdaságfejlesztést szolgáló célelőirányzat (a továbbiakban: célelőirányzat) biztosítja.
 
-(2) A célelőirányzat központi költségvetésből biztosított forrásának összegét évente a központi költségvetés határozza meg.
+(2) A célelőirányzat központi költségvetésből biztosított forrásának összegét évente a fejlesztéspolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezete tartalmazza.
 
-7. § (1) A célelőirányzat terhére támogatásban részesülhetnek a KKV-k, valamint a (2) bekezdésben meghatározott programok megvalósításában közreműködő szervezetek.
+7. § (1) A célelőirányzat terhére vállalkozások, valamint a (2) bekezdésben meghatározott programok megvalósításában közreműködő szervezetek részesülhetnek támogatásban. A célelőirányzat felhasználásának rendjét olyan módon kell kialakítani, hogy a KKV-k – többek között speciálisan KKV-k számára meghirdetett támogatási konstrukciók, magasabb támogatási intenzitás és a támogatás ellenében teljesítendő enyhébb kötelezettségek révén – a többi vállalkozáshoz képest előnyben részesüljenek.
 
-(2) Támogatásban részesíthetők azok a programok, amelyek célja:
+(2) Támogatásban részesíthetők azok a programok, amelyek célja többek között:
 
 - a) a vállalkozásindításhoz szükséges feltételek megteremtése,
 - b) a vállalkozói ismeretek és az Európai Közösség előírásainak elsajátítása, valamint a vállalkozói kultúra fejlesztése, beleértve az ezzel kapcsolatos képzési programok szervezését és lebonyolítását, továbbá módszertani és oktatási anyagok készítését,
@@ -137,9 +137,7 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 
 12. § A Kormány kétévente az Országgyűlés elé terjeszti a miniszter által kidolgozott, a KKV-k helyzetét, gazdálkodási feltételrendszerét, a vállalkozásfejlesztés érdekében megtett intézkedéseket, valamint a KKV-k részére nyújtott állami támogatások eredményeit bemutató jelentést.
 
-[12/A. § (1) A hatósági eljárás alá vont természetes vagy jogi személlyel, továbbá jogi személyiséggel nem rendelkező szervezettel szemben a hatóság által kiszabott bírság – a hatóság, valamint a hatósági ellenőrzést végző személyek bírság kiszabásban való érdekeltségének megszüntetése érdekében – közvetlenül a hatóság működési költségeire nem használható fel.
-
-(2) A hatósági ellenőrzést végző szervek kis- és középvállalkozásokkal szemben az első esetben előforduló jogsértés esetén – az adó- és vámhatósági eljárást kivéve – bírság kiszabása helyett figyelmeztetést alkalmaznak, illetve kötelesek megvizsgálni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94. § (1) bekezdés a) pontjában szabályozott eljárás alkalmazásának lehetőségét. Nincs lehetőség a bírságtól való eltekintésre, amennyiben a bírság kiszabásának alapjául szolgáló tényállás megvalósulásával emberi élet, testi épség vagy egészség került közvetlen veszélybe, illetve környezetkárosodás következett be.]
+12/A. § A hatósági ellenőrzést végző szervek kis- és középvállalkozásokkal szemben az első esetben előforduló jogsértés esetén – az adó- és vámhatósági eljárást kivéve – bírság kiszabása helyett figyelmeztetést alkalmaznak, illetve kötelesek megvizsgálni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94. § (1) bekezdés a) pontjában szabályozott eljárás alkalmazásának lehetőségét. Nincs lehetőség a bírságtól való eltekintésre, amennyiben a bírság kiszabásának alapjául szolgáló tényállás megvalósulásával emberi élet, testi épség vagy egészség került közvetlen veszélybe, illetve környezetkárosodás következett be.
 
 13. § Az elkülönített állami pénzalap és a központi költségvetésben meghatározott célelőirányzat kezelője, a Pénzügyi Szervezetek Állami Felügyeletének elnöke, valamint a Közbeszerzések Tanácsának elnöke minden év június 30-áig – az előző év adatai alapján – összesített adatokat szolgáltat a miniszter részére a KKV-k részesedéséről a támogatásokból, a vállalkozói hitelekből és a közbeszerzésekből.
 
@@ -221,4 +219,4 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 
 21. § (1) Felhatalmazást kap a Kormány, hogy a támogatásokkal, a vállalkozói hitelekkel, a közbeszerzésekkel, a KKV szektor helyzetével, gazdálkodásával összefüggő, összesített adatokra vonatkozó adatszolgáltatás körét és rendjét rendeletben állapítsa meg és rendeletben jelölje ki a Vállalkozásfejlesztési Tanácsba képviselőt delegáló minisztereket.
 
-(2) Felhatalmazást kap a miniszter, hogy a célelőirányzat felhasználásának, kezelésének, ellenőrzésének és működési rendjének részletes szabályait – az államháztartásért felelős miniszterrel egyetértésben – rendeletben állapítsa meg.
+(2)

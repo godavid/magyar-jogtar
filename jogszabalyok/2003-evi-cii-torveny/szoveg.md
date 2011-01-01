@@ -68,7 +68,7 @@ egyes iparjogvédelmi és szerzői jogi törvények módosításáról
 
 (4) A Vt.-nek az e törvény 50. §-ával módosított 91. §-a (2) bekezdését az e törvény hatálybalépését követően benyújtott megváltoztatási kérelmekre kell alkalmazni.
 
-(5) A közösségi védjegy mint korábbi védjegy (76/C. §) viszonylagos kizáró okként akkor vehető figyelembe, ha a védjegybejelentést a Magyar Szabadalmi Hivatalnál vagy a Magyar Köztársaságot megjelölő bejelentést [76/I. § (1) bek.] e törvény hatálybalépését követő bejelentési nappal tették, illetve, ha a védjegyet ilyen bejelentési nappal lajstromozták.
+(5) A közösségi védjegy mint korábbi védjegy (76/C. §) viszonylagos kizáró okként akkor vehető figyelembe, ha a védjegybejelentést a Szellemi Tulajdon Nemzeti Hivatalánál vagy a Magyar Köztársaságot megjelölő bejelentést [76/I. § (1) bek.] e törvény hatálybalépését követő bejelentési nappal tették, illetve, ha a védjegyet ilyen bejelentési nappal lajstromozták.
 
 (6) Az e törvény hatálybalépésekor hatályban lévő védjegyoltalom, valamint az a védjegyoltalom, amely a hatálybalépést megelőző bejelentési nappal a hatálybalépést követő lajstromozással keletkezik, e törvény rendelkezései szerint újítható meg.
 

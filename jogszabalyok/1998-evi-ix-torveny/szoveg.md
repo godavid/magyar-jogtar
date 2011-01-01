@@ -8918,7 +8918,7 @@ A Nemzetközi Marhahús Megállapodás, mely kelt Marrakesh-ben, 1994. április 
 
 3. § Felhatalmazást kap a Kormány, hogy az Egyezményben foglaltak végrehajtását rendeletben meghatározza.
 
-4. § Felhatalmazást kap a kereskedelemért felelős és a külgazdaságért felelős miniszter, hogy rendeletben meghatározza az Egyezmény 1. A) számú mellékletében szereplő, a GATT Marrakesh-i Jegyzőkönyvének 1. pontjában említett engedményes listák megtekintésének rendjét.
+4. § Felhatalmazást kap a kereskedelemért felelős és a külpolitikáért felelős miniszter, hogy rendeletben meghatározza az Egyezmény 1. A) számú mellékletében szereplő, a GATT Marrakesh-i Jegyzőkönyvének 1. pontjában említett engedményes listák megtekintésének rendjét.
 
 5. § (1) Ez a törvény a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 1995. január 1-jétől kell alkalmazni.
 

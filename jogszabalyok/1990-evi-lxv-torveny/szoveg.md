@@ -88,7 +88,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 - a) a rendeletalkotás;
 - b) szervezetének kialakítása és működésének meghatározása, továbbá a törvény által hatáskörébe utalt választás, kinevezés, megbízás;
 - c) a helyi népszavazás kiírása, az önkormányzati jelképek, kitüntetések és elismerő címek meghatározása, használatuk szabályozása, díszpolgári cím adományozása;
-- d) a gazdasági program, a költségvetés megállapítása, döntés a végrehajtásukról szóló beszámoló elfogadásáról, a helyi adó megállapítása, a településrendezési terv jóváhagyása, a képviselő-testület által meghatározott értékhatár feletti hitelfelvétel, a kötvénykibocsátás, továbbá a közösségi célú alapítvány és alapítványi forrás átvétele, és átadása;
+- d) a gazdasági program, a költségvetés megállapítása, döntés a végrehajtásukról szóló beszámoló elfogadásáról, a helyi adó megállapítása, a településrendezési terv jóváhagyása, az éven túli hitelfelvétel, a képviselő-testület által meghatározott értékhatár feletti hitelfelvétel, a kötvénykibocsátás, továbbá a közösségi célú alapítvány és alapítványi forrás átvétele, és átadása;
 - e) önkormányzati társulás létrehozása, társuláshoz, érdekképviseleti szervezethez való csatlakozás;
 - f) megállapodás külföldi önkormányzattal való együttműködésről, nemzetközi önkormányzati szervezethez való csatlakozás;
 - g) intézmény alapítása;
@@ -104,9 +104,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 11. § (1) A képviselő-testület önkormányzati hatósági ügyben hozott határozata ellen fellebbezésnek nincs helye.
 
-(2) A polgármester (főpolgármester), valamint a képviselő-testület bizottságának, részönkormányzat testületének önkormányzati jogkörben hozott hatósági határozata ellen a képviselő-testülethez lehet fellebbezést benyújtani.
-
-(3) A képviselő-testület (1) és (2) bekezdés alapján hozott határozatának a felülvizsgálatát jogszabálysértésre hivatkozással a bíróságtól lehet kérni a határozat közlésétől számított harminc napon belül. A pert az önkormányzat ellen kell indítani.
+(2)–(3)
 
 ### A képviselő-testület működése
 
@@ -143,9 +141,13 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 (3) Az önkormányzati rendeletet a polgármester és a jegyző írja alá. Kihirdetéséről a jegyző gondoskodik.
 
+(4) Ha az önkormányzati rendelet kihirdetett szövege eltér az önkormányzati rendelet aláírt szövegétől, a polgármester vagy a jegyző kezdeményezi az eltérés helyesbítését. Az önkormányzati rendelet a hatálybalépését megelőzően, de legkésőbb a kihirdetést követő tizedik munkanapon helyesbíthető. Az eltérés megállapítása esetén a helyesbítés megjelentetéséről a jegyző az önkormányzati rendelet kihirdetésével azonos módon gondoskodik.
+
+(5) A képviselő-testület normatív határozatát a (2) és (3) bekezdésben foglaltak megfelelő alkalmazásával közzé kell tenni.
+
 17. § (1) A képviselő-testület üléséről jegyzőkönyvet kell készíteni, amely a megjelent képviselők és meghívottak nevét, a tárgyalt napirendi pontokat, a tanácskozás lényegét, a szavazás számszerű eredményét és a hozott döntéseket tartalmazza. A jegyzőkönyv elkészítéséről a jegyző gondoskodik.
 
-(2) A képviselő-testület ülésének a jegyzőkönyvét a polgármester és a jegyző írja alá. A jegyzőkönyvet az ülést követő tizenöt napon belül a jegyző köteles megküldeni a Kormány által rendeletben kijelölt szervnek (közigazgatási hivatal).
+(2) A képviselő-testület ülésének a jegyzőkönyvét a polgármester és a jegyző írja alá. A jegyzőkönyvet az ülést követő tizenöt napon belül a jegyző köteles megküldeni a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek.
 
 (3) A választópolgárok – a zárt ülés kivételével – betekinthetnek a képviselő-testület előterjesztésébe és ülésének jegyzőkönyvébe. A zárt ülésről külön jegyzőkönyvet kell készíteni. A külön törvény szerinti közérdekű adat és közérdekből nyilvános adat megismerésének lehetőségét zárt ülés tartása esetén is biztosítani kell.
 
@@ -176,7 +178,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 ### A képviselő-testület bizottságai
 
-22. § (1) A képviselő-testület határozza meg bizottsági szervezetét, és választja meg bizottságait. A képviselő-testület a kétezernél tőbb lakosú településen pénzügyi bizottságot választ. Törvény más bizottság megalakítását is elrendelheti.
+22. § (1) A képviselő-testület határozza meg bizottsági szervezetét, és választja meg bizottságait. A képviselő-testület a száz, vagy a száznál kevesebb lakosú településen bizottságot nem választ, a bizottság feladatait a képviselő-testület látja el. A képviselő-testület a kétezernél több lakosú településen pénzügyi bizottságot választ. Törvény más bizottság megalakítását is elrendelheti.
 
 (2) A képviselő-testület a kisebbségi jelöltként mandátumot nyert tagjai kezdeményezésére kisebbségek ügyeivel foglalkozó bizottságot hoz létre.
 
@@ -226,7 +228,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 - f) a Magyar Honvédség, a rendvédelmi szervek hivatásos állományú tagja,
 - g) más önkormányzatnál polgármester, alpolgármester,
 - h) más települési önkormányzat képviselő-testületének tagja,
-- i) a közigazgatási hivatal vezetője, köztisztviselője; annak a területi, helyi államigazgatási szervnek a köztisztviselője, amelynek feladatkörébe az adott önkormányzatot érintő ügyek tartoznak, és illetékessége az önkormányzatra kiterjed,
+- i) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv vezetője, köztisztviselője; annak a területi, helyi államigazgatási szervnek a köztisztviselője, amelynek feladatkörébe az adott önkormányzatot érintő ügyek tartoznak, és illetékessége az önkormányzatra kiterjed,
 - j) jegyző (főjegyző, körjegyző), aljegyző, a képviselő-testület hivatalának köztisztviselője,
 - k) a területileg illetékes területfejlesztési tanács hivatali szervezetének munkavállalója,
 - l) a képviselő-testület által alapított költségvetési szerv vezetője, vezetőhelyettese, gazdasági vezetője, továbbá olyan közalkalmazott, aki kinevezését, megbízását a képviselő-testülettől kapja,
@@ -235,7 +237,8 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 - o) a képviselő-testület által alapított önkormányzati vállalat vezérigazgatója, vezérigazgató-helyettese, igazgatója, igazgatóhelyettese, igazgatótanácsának, vezető testületének tagja,
 - p) az önkormányzat tulajdoni részesedésével működő gazdasági társaság vezető tisztségviselője, igazgatótanácsának, igazgatóságának vagy vezető testületének, valamint a társasággal munkaviszonyban vagy munkavégzésre irányuló más jogviszonyban álló vezetője (vezérigazgatója),
 - r) az önkormányzat tulajdoni részesedésével működő gazdasági társaság által alapított gazdasági társaság vezérigazgatója, vezérigazgató-helyettese, igazgatója, igazgatóhelyettese, igazgatótanácsának, igazgatóságának vagy vezető testületének tagja,
-- s) helyi és körzeti műsorszolgáltató, lapkiadó, lapterjesztő vezetője, vezető testületének tagja, ügyvezetője, ezek vezető állású alkalmazottja.
+- s) helyi és körzeti médiaszolgáltató, lapkiadó, lapterjesztő vezetője, vezető testületének tagja, ügyvezetője, ezek vezető állású alkalmazottja,
+- sz) a Pénzügyi Szervezetek Állami Felügyeletének elnöke, alelnöke és köztisztviselője.
 
 (2) A főállású polgármester:
 
@@ -257,13 +260,13 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 (3a) A polgármester köteles az ellene indított büntetőeljárás során az első tárgyalás időpontjáról, illetve a bűnösséget megállapító jogerős ítéletről az idézés, illetve a jogerős ítélet kézhezvételétől számított három napon belül tájékoztatni a képviselő-testületet, a helyi választási bizottságot és a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet.
 
-(4) Ha a polgármester a (3) bekezdésben foglalt kötelezettségének nem tett eleget, bármely képviselő indítványára – a száznál kevesebb lakosú község kivételével a képviselők közül választott háromtagú bizottság javaslata alapján – a képviselő-testület a következő ülésén, legkésőbb az összeférhetetlenség megállapításának kezdeményezését követő 30 napon belül határozattal megállapítja az összeférhetetlenség alapjául szolgáló körülmények fennállását, és kimondja az összeférhetetlenséget, illetőleg dönthet a hozzájárulás megadásáról, ha e törvény ezt lehetővé teszi. A képviselő-testület határozatát az ülést követő munkanapon a polgármesternek kézbesíteni kell.
+(4) Ha a polgármester a (3) bekezdésben foglalt kötelezettségének nem tett eleget, bármely képviselő indítványára – a száz, vagy a száznál kevesebb lakosú község kivételével a képviselők közül választott háromtagú bizottság javaslata alapján – a képviselő-testület a következő ülésén, legkésőbb az összeférhetetlenség megállapításának kezdeményezését követő 30 napon belül határozattal megállapítja az összeférhetetlenség alapjául szolgáló körülmények fennállását, és kimondja az összeférhetetlenséget, illetőleg dönthet a hozzájárulás megadásáról, ha e törvény ezt lehetővé teszi. A képviselő-testület határozatát az ülést követő munkanapon a polgármesternek kézbesíteni kell.
 
 (5) A polgármester az összeférhetetlenségét, illetőleg a megbízatás megszűnését megállapító képviselő-testületi határozat felülvizsgálatát kérheti – jogszabálysértésre hivatkozással – a határozat kézhezvételétől számított 8 napon belül a fővárosi, megyei bíróságtól.
 
 (6) A bíróság a kérelemről – annak beérkezésétől számított harminc napon belül – nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság a polgármestert, a keresettel megtámadott határozatot hozó képviselő-testület képviselőjét, illetőleg a kereset előterjesztőjét meghallgathatja. A bíróság döntése ellen további jogorvoslatnak, felülvizsgálatnak helye nincs.
 
-(7) A közigazgatási hivatal a fővárosi, megyei bíróságnál kezdeményezheti a polgármester összeférhetetlenségének a kimondását, ha a képviselő-testület nem dönt az összeférhetetlenségről vagy döntése jogszabálysértő. A bíróság eljárására a (6) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a bíróság döntése ellen – annak kézhezvételétől számított nyolc napon belül – az érintett polgármester, illetve a közigazgatási hivatal fellebbezést nyújthat be. A fellebbezésről, annak beérkezésétől számított három napon belül a másodfokú bíróság nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság döntése ellen felülvizsgálatnak helye nincs.
+(7) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv a fővárosi, megyei bíróságnál kezdeményezheti a polgármester összeférhetetlenségének a kimondását, ha a képviselő-testület nem dönt az összeférhetetlenségről vagy döntése jogszabálysértő. A bíróság eljárására a (6) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a bíróság döntése ellen – annak kézhezvételétől számított nyolc napon belül – az érintett polgármester, illetve a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv fellebbezést nyújthat be. A fellebbezésről, annak beérkezésétől számított három napon belül a másodfokú bíróság nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság döntése ellen felülvizsgálatnak helye nincs.
 
 33/B. § A polgármester megválasztásakor, majd azt követően évente vagyonnyilatkozatot köteles tenni a helyi önkormányzati képviselők vagyonnyilatkozatára vonatkozó szabályok szerint.
 
@@ -324,7 +327,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 ### Körjegyzőség
 
-39. § (1) Az ezernél kevesebb lakosú, a megyén belül egymással határos községek az igazgatási feladataik ellátására körjegyzőséget alakítanak és tartanak fenn. Ezernél több, de kétezernél kevesebb lakosú község is részt vehet körjegyzőségben, körjegyzőség székhelye kétezernél több lakosú település is lehet. A körjegyzőség fenntartásának költségeihez az érdekelt képviselő-testületek — eltérő megállapodás hiányában — a települések lakosságszámának arányában járulnak hozzá.
+39. § (1) Az ezernél kevesebb lakosú, megyén belüli községek, amelyek közigazgatási területét legfeljebb két település közigazgatási területe választja el, az igazgatási feladataik ellátására körjegyzőséget alakítanak és tartanak fenn. Ezer és ezernél több, de kétezernél kevesebb lakosú község is részt vehet körjegyzőségben, körjegyzőség székhelye kétezernél több lakosú település is lehet. A körjegyzőség fenntartásának költségeihez az érdekelt képviselő-testületek – eltérő megállapodás hiányában – a településük lakosságszámának arányában járulnak hozzá.
 
 (2) Az ezernél kevesebb lakosú község képviselő-testülete is létrehozhat önálló hivatalt, ha a képesítési követelményeknek megfelelő jegyzőt nevez ki.
 
@@ -364,7 +367,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 - d) a társulásba való belépés, illetőleg a kiválás szabályait,
 - e) a társulás működési területén a helyszíni ügyintézés rendjét.
 
-(3) A megállapodást meg kell küldeni a közigazgatási hivatalnak, amely tizenöt napon belül tehet törvényességi észrevételt.
+(3) A megállapodást meg kell küldeni a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek, amely tizenöt napon belül tehet törvényességi észrevételt.
 
 ### Intézményi társulás
 
@@ -455,7 +458,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 52. § (1) A helyi választópolgárok kezdeményezésére új község alakítható az olyan elkülönült, legalább háromszáz lakosú lakott településrészből, amely feltételei alapján képes az önkormányzati jogok gyakorlására, a 8. § (4) bekezdésében meghatározott feladatok teljesítésére a szolgáltatások színvonalának csökkenése nélkül.
 
-(2) Új község alakításának a kezdeményezése esetén a falugyűlés legalább háromtagú előkészítő bizottságot választ a településrészen lakó települési képviselőkből, ha nincs elég települési képviselő, vagy azok a megbízatást nem vállalják, akkor más választópolgárokból. Az előkészítő bizottság javaslatot tesz az új község területére, szakértői vélemény alapján a község elnevezésére, a vagyon, valamint a vagyoni jogok és kötelezettségek megosztására, a költségek viselésére. A javaslat elkészítéséhez – az előkészítő bizottság felkérésére – a közigazgatási hivatal szakmai segítséget ad, más szerv pedig szakmai segítséget adhat.
+(2) Új község alakításának a kezdeményezése esetén a falugyűlés legalább háromtagú előkészítő bizottságot választ a településrészen lakó települési képviselőkből, ha nincs elég települési képviselő, vagy azok a megbízatást nem vállalják, akkor más választópolgárokból. Az előkészítő bizottság javaslatot tesz az új község területére, szakértői vélemény alapján a község elnevezésére, a vagyon, valamint a vagyoni jogok és kötelezettségek megosztására, a költségek viselésére. A javaslat elkészítéséhez – az előkészítő bizottság felkérésére – a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv szakmai segítséget ad, más szerv pedig szakmai segítséget adhat.
 
 (3) Az előkészítő bizottság a javaslatát ismerteti a lakossággal. Az előkészítő bizottság javaslatára a képviselő-testület határozatába foglalja az új község alakításának a kezdeményezését. Az esetleg eltérő kisebbségi véleményt is tartalmazó községalakítási kezdeményezésről a köztársasági elnök dönt.
 
@@ -495,7 +498,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 58. § A község, a város nevét úgy kell megállapítani, hogy ne lehessen összetéveszteni az országban levő más helység nevével. Községegyesítés megszüntetését követően a község általában az egyesítés előtti nevét használja. Új községnévről a lakossági állásfoglalás előtt kérni kell a földrajzi nevekben illetékes szerv szakmai véleményét.
 
-59. § A nagyközség a várossá nyilvánítását kezdeményezheti, ha a városi cím használatát fejlettsége, térségi szerepe indokolja. A képviselő-testület a kezdeményezését a helyi önkormányzatokért felelős miniszter útján terjeszti a köztársasági elnök elé.
+59. § A nagyközség a várossá nyilvánítását kezdeményezheti, ha a városi cím használatát fejlettsége, térségi szerepe indokolja. A képviselő-testület a kezdeményezését a helyi önkormányzatok törvényességi ellenőrzéséért felelős miniszter útján terjeszti a köztársasági elnök elé.
 
 60. § A városban működő, községekre is kiterjedő illetékességű állami szervek illetékességi területét összehangoltan, a lakosság számára kedvező módon kell meghatározni.
 
@@ -583,7 +586,7 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 
 ### A fővárosi településrendezés szabályai
 
-63/C. § (1) A közgyűlés a főváros egységes településpolitikájának biztosítása érdekében — a Kormány és a kerületi képviselő-testületek véleményének kikérésével — meghatározza a főváros általános rendezési tervét, a főváros városfejlesztési és városrehabilitációs programját. A főváros általános rendezési tervében kijelölhető a főváros több kerületének ellátását biztosító közszolgáltatás területe, létesítmény helyszíne, nyomvonalai. Az ilyen kijelölt területeken, nyomvonalakon, illetve a közszolgáltatást nyújtó létesítmények tekintetében a jegyzői hatáskört a közigazgatási hivatal gyakorolja.
+63/C. § (1) A közgyűlés a főváros egységes településpolitikájának biztosítása érdekében — a Kormány és a kerületi képviselő-testületek véleményének kikérésével — meghatározza a főváros általános rendezési tervét, a főváros városfejlesztési és városrehabilitációs programját. A főváros általános rendezési tervében kijelölhető a főváros több kerületének ellátását biztosító közszolgáltatás területe, létesítmény helyszíne, nyomvonalai. Az ilyen kijelölt területeken, nyomvonalakon, illetve a közszolgáltatást nyújtó létesítmények tekintetében a jegyzői hatáskört a Kormány általános hatáskörű területi államigazgatási szerve gyakorolja.
 
 (2) A kerületi képviselő-testület — a főváros általános rendezési terve szerint, annak keretei között — a kerület egészére meghatározza a kerület részletes fejlesztési programját, a kerületi alaptervet, a kerület részletes rendezési tervét és azok szabályozási előírásait.
 
@@ -591,46 +594,53 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 
 ### A főváros és a kerületi önkormányzatokgazdálkodása
 
-64. § (1) Az önkormányzati bevételek a fővárosi és a kerületi önkormányzat által ténylegesen gyakorolt feladat- és hatáskör arányában illetik meg a fővárosi, illetve a kerületi önkormányzatokat.
+64. § (1) Az önkormányzati bevételek a fővárosi és a kerületi önkormányzatok által ténylegesen gyakorolt feladat- és hatáskör arányában illetik meg a fővárosi önkormányzatot, illetve a kerületi önkormányzatokat.
 
 (2) Amennyiben törvény a fővárosi önkormányzatot a főváros érdekkörét vagy gazdasági lehetőségeit meghaladó regionális, illetve országos feladatok ellátására kötelezi, az Országgyűlés biztosítja az ellátásukhoz szükséges anyagi feltételeket, dönt a központi hozzájárulás mértékéről és módjáról.
 
 (3) A fővárosi önkormányzatot, illetve a kerületi önkormányzatokat önállóan és közvetlenül megilletik az alábbi bevételek:
 
-- a) a feladat ellátáshoz kapcsolódó normatív központi hozzájárulás;
-- b) a címzett és céltámogatások;
-- c) a saját tevékenységből, vállalkozásból és az önkormányzati vagyon hozadékából származó nyereség, osztalék, kamat és bérleti díj;
-- d) az átvett pénzeszközök;
-- e) a tulajdonában levő közterületek hasznosítása után járó díj.
+- a) a feladat ellátáshoz kapcsolódó normatív állami hozzájárulás, normatív részesedésű átengedett személyi jövedelemadó és normatív, kötött felhasználású támogatás (a továbbiakban együtt: normatív hozzájárulás),
+- b) a lakosságszámhoz kapcsolódó normatív állami hozzájárulások, a települési önkormányzatok üzemeltetési, igazgatási, sport- és kulturális feladataihoz kapcsolódó hozzájárulások kivételével,
+- c) a vagyoni típusú helyi adókból, valamint a kommunális jellegű helyi adókból származó bevétel,
+- d) a címzett és céltámogatások,
+- e) a saját tevékenységből, vállalkozásból és az önkormányzati vagyon hozadékából származó nyereség, osztalék, kamat és bérleti díj,
+- f) az átvett pénzeszközök,
+- g) a tulajdonában levő közterületek hasznosítása után járó díj.
 
-(4) A fővárosi önkormányzatot és a kerületi önkormányzatot osztottan megillető bevételek:
+(3a) A kommunális jellegű adók közül, az idegenforgalmi adó bevezetését a helyi adókról szóló 1990. évi C. törvényben rögzített szabályok szerint a kerületi önkormányzat a fővárosi önkormányzat részére átengedheti.
 
-- a) a magánszemélyek jövedelemadójából az állami költségvetésről szóló törvény alapján a települési önkormányzatokat megillető rész;
-- b) az egyéb központi adó;
-- c) az állandó népességhez kapcsolódó központi hozzájárulás, kivéve a 64/B. § a) pontban foglaltakat;
-- d) a helyi adókból származó bevételek.
+(4) A fővárosi önkormányzatot és a kerületi önkormányzatokat osztottan megillető bevételek:
 
-(5) A (4) bekezdésben felsorolt bevételeknek a fővárosi önkormányzat és a kerületi önkormányzatok közötti megosztását a fővárosi közgyűlés rendeletében határozza meg. A rendelettervezet véleményezésére a kerületi önkormányzatoknak legalább 30 napot kell biztosítani.
+- a) személyi jövedelemadóból a költségvetési törvény alapján a főváros közigazgatási területére normatív hozzájárulások fedezetéül szolgáló rész kivételével kimutatott személyi jövedelemadó-hányad, a tárgyévet megelőző második évi jövedelemdifferenciálódás mérséklésének elszámolásához kapcsolódó, az önkormányzat által vagy részére fizetendő összeg, korrigálva a tárgyévet megelőző évben történt évközi lemondással és pótigényléssel,
+- b) a fővárosi közgyűlés rendelete alapján kivetett helyi iparűzési adóból, valamint a kommunális jellegű adók közül a kerület döntése alapján átengedett helyi idegenforgalmi adóból beszedett bevétel és kapcsolódó normatív hozzájárulások,
+- c) a lakosságszámhoz kapcsolódó normatív hozzájárulások közül a települési önkormányzatok üzemeltetési, igazgatási, sport- és kulturális feladataihoz nyújtott normatív állami hozzájárulások.
 
-(6) A fővárosi és a kerületi önkormányzatok közötti – feladat- és hatáskörarányos – forrásmegosztás érdekében normatív eljárásokat kell alkalmazni. Ezeket a normatív eljárásokat külön törvényben kell meghatározni. Ebben a külön törvényben kell rögzíteni a számítások során figyelembe veendő feladatokat is.
+(4a) A helyi idegenforgalmi adót a döntésük alapján önállóan bevezető kerületi önkormányzatokat, az idegenforgalmi adóból, illetve a kapcsolódó normatív hozzájárulásból származó osztott bevételek nem illetik meg.
+
+(5) A (4) bekezdés szerinti bevételek megosztása során a fővárosi önkormányzatot és a kerületi önkormányzatokat megillető bevételek megosztási arányáról, és a megosztás során alkalmazandó normatív eljárásokról törvény rendelkezik, amely százalékosan meghatározza a fővárosi önkormányzat és a kerületi önkormányzatok együttes részesedését és annak évenként korrigált mértékének megállapítására vonatkozó szabályokat.
+
+(6)
 
 (7) A közgyűlés rendeletében a kerületek részére cél- és címzett támogatási rendszert vezethet be. A közgyűlés rendeletében határozhatja meg azokat a fejlesztési célokat, amelyek megvalósításához a kerületi képviselő-testületek a közgyűléstől cél- és címzett támogatást igényelhetnek.
 
 (8) A fővárosi és a kerületi önkormányzatok saját vagyonukkal önállóan gazdálkodnak, annak kezelésével más szervet is megbízhatnak.
 
-64/A. § A kerületi önkormányzat kizárólagos bevétele a szabálysértési bírság letiltás útján befolyó összege.
+64/A. § A kerületi önkormányzat kizárólagos bevételei:
+
+- a) a gépjárműadóról szóló törvény alapján a belföldi gépjárművek után a kerületi önkormányzat által beszedett gépjárműadó költségvetési törvényben meghatározott mértéke, és
+- b) a szabálysértési bírság letiltás útján befolyó összege.
 
 64/B. § A fővárosi önkormányzat kizárólagos bevételei:
 
-- a) a normatív központi hozzájárulás igazgatási és közművelődési feladatokra;
-- b) az önkormányzatot megillető vadászati jog haszonbérbe adásából származó bevétel, az érintett települések önkormányzataival kötött megállapodás szerint, területarányosan meghatározott része;
-- c) a fővárosi önkormányzat részére törvényben megállapított körben a befolyt környezetvédelmi és műemlékvédelmi bírság;
-- d) az illetékek a külön törvényben meghatározottak szerint;
-- e) a 64. § (2) bekezdése alapján járó központi támogatás.
+- a) az önkormányzatot megillető vadászati jog haszonbérbe adásából származó bevételnek az érintett települések önkormányzataival kötött megállapodás szerint, területarányosan meghatározott része,
+- b) a fővárosi önkormányzat részére törvényben megállapított körben a befolyt környezetvédelmi és műemlékvédelmi bírság,
+- c) az illetékek a külön törvényben meghatározottak szerint, és
+- d) a 64. § (2) bekezdése alapján járó központi hozzájárulás.
 
 64/C. § (1) A fővárosi közgyűlés és a kerületi képviselő-testület saját éves költségvetést határoz meg az államháztartásról szóló törvény szabályai szerint.
 
-(2) Mindaddig, amíg a fővárosi közgyűlés az érintett forrásoknak a fővárosi önkormányzatok közötti megosztásáról nem dönt, az állandó népességszám egészéhez kapcsolódó – kivéve a 64/B. §-ának a) pontját – normatív központi hozzájárulások és az átengedett központi adókból az önkormányzatokat megillető részt a kincstár – a felmerülő személyi jellegű juttatásokat és egyéb kifizetéseket terhelő levonások, járulékok teljesítését és elszámolását követően – a fővárosi önkormányzatnak és az egyes kerületi önkormányzatoknak közvetlenül, az előző évi forrásmegosztási rendelet alapján számított arányok szerint utalja át.
+(2) Mindaddig, amíg a fővárosi közgyűlés az érintett források megosztását rendeletében nem szabályozza, a 64. § (4) bekezdés a) és c) pontja szerinti bevételt a kincstár – a felmerülő személyi jellegű juttatásokat és egyéb kifizetéseket terhelő levonások, járulékok teljesítését és elszámolását követően – a fővárosi önkormányzatnak és az egyes kerületi önkormányzatoknak közvetlenül, a fővárosi közgyűlés előző évi forrásmegosztási rendeletében meghatározott arányok szerint utalja át.
 
 ### A fővárosi és a kerületi önkormányzatokérdekvédelmének alapvető elvei
 
@@ -642,7 +652,7 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 
 65/A. § (1) Törvény határozza meg, hogy rendelkezései végrehajtására a közgyűlés, illetve a kerületi képviselő-testület alkothat rendeletet.
 
-(2) A közgyűlés feladatkörében alkotott rendelete végrehajtása érdekében felhatalmazást adhat kerületi képviselő-testületnek rendeletalkotásra. Az e tárgykörben alkotott kerületi rendelet nem terjeszkedhet túl a fővárosi közgyűlés rendeletében foglalt felhatalmazáson. A kerületi képviselő-testület rendelete nem lehet ellentétes a közgyűlés rendeletével.
+(2) A közgyűlés feladatkörében, nem felhatalmazás alapján alkotott rendelete végrehajtása érdekében felhatalmazást adhat a kerületi képviselő-testületnek rendeletalkotásra. A kerületi képviselő-testület rendelete nem lehet ellentétes a közgyűlés rendeletével.
 
 (3) A főpolgármester a fővárosi közgyűlés rendelettervezeteit tájékoztatásul megküldi a kerületi polgármestereknek. A kerületi polgármester a kerületi képviselő-testület rendelettervezeteit tájékoztatásul megküldi a főpolgármesternek.
 
@@ -700,7 +710,7 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 
 68/B. § (1) A 68. és 68/A. § alapján a tulajdonos önkormányzat térítés nélkül köteles a használati jogot átadni.
 
-(2) A használatra való átadásról vita esetén a fővárosi vagyonátadó bizottság dönt.
+(2) A használatra való átadásról vita esetén a Kormány általános hatáskörű területi államigazgatási szerve dönt.
 
 (3) A vagyont eredeti rendeltetési céljára kell használatba átadni.
 
@@ -843,7 +853,7 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 
 (2) A központi költségvetésben meghatározott összeg felhasználásra vonatkozó kötöttség nélkül – az önkormányzatnál felmerülő személyi jellegű juttatásokat és egyéb kifizetéseket terhelő levonások, járulékok teljesítését és elszámolását követően –, közvetlenül megilleti a helyi önkormányzatokat, illetőleg a törvény által meghatározott körben a feladatot ellátó önkormányzatot.
 
-85. § (1) Az Országgyűlés meghatározza a társadalmilag kiemelt célokat. A célonkénti támogatások mértékét és feltételeit törvény tartalmazza.
+85. § (1) Az Országgyűlés meghatározhatja a társadalmilag kiemelt célokat. A célonkénti támogatások mértékét és feltételeit törvény tartalmazza.
 
 (2) A helyi önkormányzatok egyedileg és közösen is igényelhetnek céltámogatást. A feltételeknek megfelelő önkormányzat a céltámogatásra jogosult.
 
@@ -950,7 +960,7 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 
 (14) A pénzügyi bizottság vizsgálati megállapításait a képviselő-testülettel haladéktalanul közli. Ha a képviselő-testület a vizsgálati megállapításokkal nem ért egyet, a vizsgálati jegyzőkönyvet az észrevételeivel együtt megküldi az Állami Számvevőszéknek.
 
-92/A. § (1) A megyei, a megyei jogú városi, a fővárosi és a fővárosi kerületi önkormányzat képviselő-testülete köteles könyvvizsgálót megbízni, továbbá az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter által meghatározott egyszerűsített tartalmú – a helyi önkormányzat és intézményei adatait összevontan tartalmazó – éves pénzforgalmi jelentését, könyvviteli mérlegét, továbbá pénzmaradvány- és eredménykimutatását a Belügyi Közlönyben és a Cégközlönyben közzétenni. A képviselő-testület e rendelkezés hatálybalépésétől számított 60 napon belül köteles – szakmai szempontok szerint – a pályázatot kiírni, azt elbírálni és a polgármester a könyvvizsgáló számára a megbízást kiadni.
+92/A. § (1) A megyei, a megyei jogú városi, a fővárosi és a fővárosi kerületi önkormányzat képviselő-testülete köteles könyvvizsgálót megbízni, továbbá az egyszerűsített tartalmú – a helyi önkormányzat és intézményei adatait összevontan tartalmazó – éves pénzforgalmi jelentését, könyvviteli mérlegét, továbbá pénzmaradvány- és eredménykimutatását a Hivatalos Értesítőben közzétenni. A képviselő-testület e rendelkezés hatálybalépésétől számított 60 napon belül köteles – szakmai szempontok szerint – a pályázatot kiírni, azt elbírálni és a polgármester a könyvvizsgáló számára a megbízást kiadni.
 
 (2) A helyi önkormányzat, ha az előző évben a teljesített kiadásainak összege meghaladta a 300 millió forintot és hitelállománnyal rendelkezik vagy hitelt vesz fel, köteles az (1) bekezdésben foglaltakat a hitelfelvétel évétől a hiteltörlesztés utolsó évéig bezárólag évente könyvvizsgálóval felülvizsgáltatni és közzétenni.
 
@@ -970,7 +980,7 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 
 (5) A könyvvizsgálói véleményezés körébe tartozó előterjesztésről a könyvvizsgáló írásos véleménye nélkül érvényes döntés nem hozható.
 
-(6) Ha a könyvvizsgáló tudomást szerez az önkormányzat vagyonának várható jelentős csökkenéséről és más olyan tényről, amely önkormányzati tisztségviselő törvényben meghatározott felelősségre vonását vonhatja maga után, köteles a képviselő-testület összehívását kérni a polgármestertől. Ha a polgármester a képviselő-testület ülését nem hívja össze, a könyvvizsgáló kezdeményezésére a közigazgatási hivatal az ülést összehívja. Ha a képviselő-testület a szükséges döntéseket nem hozza meg, a könyvvizsgáló erről a közigazgatási hivatalt értesíti.
+(6) Ha a könyvvizsgáló tudomást szerez az önkormányzat vagyonának várható jelentős csökkenéséről és más olyan tényről, amely önkormányzati tisztségviselő törvényben meghatározott felelősségre vonását vonhatja maga után, köteles a képviselő-testület összehívását kérni a polgármestertől. Ha a polgármester a képviselő-testület ülését nem hívja össze, a könyvvizsgáló kezdeményezésére a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv az ülést összehívja. Ha a képviselő-testület a szükséges döntéseket nem hozza meg, a könyvvizsgáló erről a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet értesíti.
 
 92/D. § (1) Ha a könyvvizsgáló a 92/A. § (1)–(2) bekezdésében, illetve a 92/C. § (2)–(3) bekezdésében meghatározott feladatát a megbízási szerződésben rögzített határidőre előreláthatólag nem tudja teljesíteni, köteles ezt a határidő lejárta előtt legalább 30 nappal – illetve, ha az akadályozó körülmény később keletkezett, akkor ennek bekövetkeztétől számított 3 munkanapon belül – a helyi önkormányzatnak írásban bejelenteni. Ezt követően a helyi önkormányzat képviselő-testülete – a körülményeket mérlegelve – vagy határidőt szab az utólagos teljesítésre, vagy haladéktalanul – pályázati eljárás nélkül – új könyvvizsgálót bíz meg.
 
@@ -1005,7 +1015,7 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 
 95. § A Kormány:
 
-- a) a helyi önkormányzatokért felelős miniszter közreműködésével, a közigazgatási hivatal útján biztosítja a helyi önkormányzatok törvényességi ellenőrzését;
+- a) a helyi önkormányzatok törvényességi ellenőrzéséért felelős miniszter közreműködésével, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv útján biztosítja a helyi önkormányzatok törvényességi ellenőrzését;
 - b) javaslatot terjeszt az Országgyűléshez az Alkotmánnyal ellentétesen működő helyi képviselő-testület feloszlatására;
 - c) rendeletben határozza meg a helyi közszolgálat képesítési előírásait;
 - d) irányítja az államigazgatási feladatok ellátását és gondoskodik végrehajtásuk feltételeiről;
@@ -1013,51 +1023,55 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 
 96. § A helyi önkormányzatokért felelős miniszter:
 
-- a) előkészíti az Országgyűlés és a köztársasági elnök hatáskörébe tartozó területszervezési döntéseket;
-- b) kezdeményezi a Kormánynál az Alkotmánnyal ellentétesen működő helyi képviselő-testület feloszlatására vonatkozó országgyűlési előterjesztés benyújtását;
-- c) közreműködik a helyi önkormányzatok feladatát és hatáskörét, a polgármester, a főpolgármester, a közigazgatási hivatal tevékenységét érintő jogszabályok, állami irányítás egyéb jogi eszközei és egyedi állami döntések tervezeteinek előkészítésében;
+- a)–b)
+- c) közreműködik a helyi önkormányzatok feladatát és hatáskörét, a polgármester, a főpolgármester, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv tevékenységét érintő jogszabályok, közjogi szervezetszabályozó eszközök és egyedi állami döntések tervezeteinek előkészítésében;
 - d) összehangolja a helyi önkormányzatok működésével összefüggő településfejlesztés, valamint a megyei önkormányzatok működésével összefüggő fejlesztés, tervezés és gazdálkodás kormányzati feladatait;
 - e)
 
+96/A. § A helyi önkormányzatok törvényességi ellenőrzéséért felelős miniszter
+
+- a) előkészíti az Országgyűlés és a köztársasági elnök hatáskörébe tartozó területszervezési döntéseket,
+- b) kezdeményezi a Kormánynál az Alkotmánnyal ellentétesen működő helyi képviselő-testület feloszlatására vonatkozó országgyűlési előterjesztés benyújtását.
+
 97. § A miniszter:
 
-- a) rendeletben határozza meg a polgármester, a főpolgármester, a megyei közgyűlés elnöke, a jegyző, a főjegyző, a közigazgatási hivatal államigazgatási feladatai ellátásának szakmai szabályait, és ellenőrzi azok érvényesülését;
+- a) rendeletben határozza meg a polgármester, a főpolgármester, a megyei közgyűlés elnöke, a jegyző, a főjegyző, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv államigazgatási feladatai ellátásának szakmai szabályait, és ellenőrzi azok érvényesülését;
 - b) rendeletben szabályozza a helyi önkormányzatok által fenntartott intézmények működésének szakmai követelményeit, az intézmények dolgozóinak képesítési előírásait, ellenőrzi az előírások érvényesülését;
 - c) az a) és b) pontban említett ellenőrzés eredményéről tájékoztatja a helyi önkormányzatot, javaslatot tesz a hiányosságok megszüntetésére, kezdeményezheti, hogy a képviselő-testület tárgyalja meg az ellenőrzés tapasztalatait, törvénysértés esetén tájékoztatja a törvényességi ellenőrzést ellátó szervet;
 - d) tájékoztatja a helyi önkormányzatot a központi ágazatpolitikai célokról, a szabályozási eszközökről, és biztosítja számukra az ágazati feladatok ellátásához szükséges információt;
 - e) a helyi önkormányzatoktól — ágazati feladatai körében — adatokat és tájékoztatást kérhet, amelyet az önkormányzat köteles teljesíteni;
 - f) az állami költségvetésről szóló törvényben meghatározott címen és feltételekkel a helyi önkormányzat részére pénzügyi támogatást nyújthat.
 
-### A közigazgatási hivatal
+### A helyi önkormányzatok törvényességi ellenőrzése
 
-98. § (1) A fővárosi, megyei közigazgatási hivatal (a továbbiakban: közigazgatási hivatal) államigazgatási feladatokat ellátó költségvetési szerv, amelyet a Kormány által rendeletben kijelölt miniszter irányít. A közigazgatási hivatal működésének költségeit az Országgyűlés a költségvetési törvénynek a közigazgatási hivatalok irányítására kijelölt miniszter fejezetében, elkülönítetten biztosítja.
+98. § (1)
 
-(2) A közigazgatási hivatal
+(2) A fővárosi és megyei kormányhivatal a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv, amely
 
 - a) ellátja a helyi önkormányzatok törvényességi ellenőrzését, a mérlegeléssel hozott önkormányzati döntésnek kizárólag a jogszerűségét vizsgálhatja;
 - b)
-- c) ellátja a törvényben megállapított, továbbá a Kormány által hatáskörébe utalt államigazgatási feladatokat, hatásköröket, hatósági jogköröket;
+- c)
 - d)
 - e) a törvényességi ellenőrzés során szerzett tapasztalatai alapján az önkormányzat gazdálkodását érintő vizsgálat lefolytatását kezdeményezheti az Állami Számvevőszéknél;
 - f) összehívja a képviselő-testület ülését, ha a 12. § (1) bekezdése szerint tett indítványnak a polgármester tizenöt napon belül nem tesz eleget;
 - g) a feladat- és hatáskörébe tartozó ügyben az önkormányzat kérésére szakmai segítséget nyújt.
 
-(3) A közigazgatási hivatal törvényességi ellenőrzési jogkörében vizsgálja, hogy a helyi önkormányzat
+(3) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv törvényességi ellenőrzési jogkörében vizsgálja, hogy a helyi önkormányzat
 
 - a) szervezete, működése, döntéshozatali eljárása,
 - b) döntései (rendelete, határozata),
 - c) bizottsága, részönkormányzata, polgármestere, főpolgármestere, megyei közgyűlés elnöke, társulása által hozott önkormányzati határozat megfelel-e a jogszabályoknak.
 
-(4) Nem terjed ki a közigazgatási hivatal törvényességi ellenőrzési jogköre — az (5) bekezdésben foglalt kivétellel — azokra a helyi önkormányzat, illetve szervei által hozott határozatokra, amelyek alapján
+(4) Nem terjed ki a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv törvényességi ellenőrzési jogköre — az (5) bekezdésben foglalt kivétellel — azokra a helyi önkormányzat, illetve szervei által hozott határozatokra, amelyek alapján
 
 - a) munkaügyi vitának, illetve közszolgálati jogviszonyból származó vitának,
 - b) külön jogszabályban meghatározott bírósági vagy államigazgatási eljárásnak van helye.
 
-(5) A közigazgatási hivatal törvényességi ellenőrzési jogköre kiterjed a (4) bekezdésben felsorolt határozatokra is a (3) bekezdés a) pontjában meghatározott körben, továbbá a (4) bekezdés a) pontja esetében, ha a határozat a munkavállaló javára történő jogszabálysértést tartalmaz.
+(5) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv törvényességi ellenőrzési jogköre kiterjed a (4) bekezdésben felsorolt határozatokra is a (3) bekezdés a) pontjában meghatározott körben, továbbá a (4) bekezdés a) pontja esetében, ha a határozat a munkavállaló javára történő jogszabálysértést tartalmaz.
 
-99. § (1) A közigazgatási hivatal a törvényességi ellenőrzés körében — határidő tűzésével — felhívja az érintettet a törvénysértés megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedésről vagy egyet nem értéséről a közigazgatási hivatalt tájékoztatni.
+99. § (1) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv a törvényességi ellenőrzés körében — határidő tűzésével — felhívja az érintettet a törvénysértés megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedésről vagy egyet nem értéséről a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet tájékoztatni.
 
-(2) Ha a megadott határidőn belül intézkedés nem történt, a közigazgatási hivatal kezdeményezheti:
+(2) Ha a megadott határidőn belül intézkedés nem történt, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv kezdeményezheti:
 
 - a) az Alkotmánybíróságnál a törvénysértő önkormányzati rendelet felülvizsgálatát és megsemmisítését;
 - b) a törvénysértő határozat bírósági felülvizsgálatát;
@@ -1065,7 +1079,7 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 
 (3) A jogszabálysértés megszüntetésére a pert a helyi önkormányzat, illetve a polgármester ellen a megadott határidő lejártától számított harminc napon belül lehet megindítani. A kereset benyújtásának a döntés végrehajtására halasztó hatálya nincs, de a végrehajtás felfüggesztését a bíróságtól lehet kérni. Ha a jogszabálysértő döntés végrehajtása a közérdek súlyos sérelmével vagy elháríthatatlan kárral járna, a végrehajtás felfüggesztését — az érintett egyidejű értesítésével — kérni kell a bíróságtól.
 
-100. § Felhatalmazást kap a Kormány, hogy a közigazgatási hivatalok működésének részletes szabályait rendeletben határozza meg.
+100. §
 
 ### A felterjesztési jog
 
@@ -1098,13 +1112,23 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 
 (2) A 33/A. és 33/B. és 33/C. §-ok alkalmazásában a polgármesteren az alpolgármestert, a megyei közgyűlés elnökét, alelnökét, a főpolgármestert, a főpolgármester helyettesét is érteni kell, azzal az eltéréssel, hogy a fővárosi kerületi polgármester a fővárosi közgyűlés tagja lehet.
 
-(3) A közigazgatási hivatal a köztársasági megbízott és hivatala jogutódja.
+(3)
 
 (4) A megszűnő tanács és szervei jogutóda a helyi önkormányzat.
 
 103/A. § (1) A területrész külterületét – eltérő megállapodás hiányában – figyelemmel az 56. § (4) bekezdésében megfogalmazott előzetes megállapodásra, a belterületi népességgel arányosan kell megállapítani.
 
 (2) A lakott területrész vagyonát – eltérő megállapodás hiányában – figyelemmel az 56. § (4) bekezdésében megfogalmazott előzetes megállapodásra, feladat- és népességarányosan kell meghatározni.
+
+103/C. § (1) A 102. § (2) bekezdés alkalmazásában azokat a szervezeteket kell országos önkormányzati érdekképviseleti szervezeteknek tekinteni, amelyek közül
+
+- a) a megyei önkormányzatok érdekképviseletét ellátó szövetségnek legalább 13 tagja megyei önkormányzat,
+- b) a megyei jogú városok érdekképviseletét ellátó szövetségnek legalább 15 tagja megyei jogú város önkormányzata,
+- c) a fővárosi és a fővárosi kerületi önkormányzatok érdekképviseletét ellátó szövetségnek egyik tagja a főváros önkormányzata, továbbá tagja legalább 15 fővárosi kerület önkormányzata,
+- d) a körzetközponti szerepet betöltő helyi önkormányzatok érdekképviseletét ellátó szövetségnek tagja az ilyen szerepet betöltő helyi önkormányzatok legalább 2/3 része, továbbá
+- e) minden más olyan önkormányzati érdekképviseleti szervezet (szövetség), amelynek tagja legalább 800 helyi önkormányzat, és legalább 11 területi (megyei) szervezetük működik.
+
+(2) Az (1) bekezdésben foglalt arányszámok számításánál egy helyi önkormányzatot csak egy érdekszövetség tagjaként lehet figyelembe venni.
 
 104. § (1) A törvény hatálybalépésekor fennálló közös tanács (a továbbiakban: közös tanács) társközségének új képviselő-testülete 1990. november 30-ig dönt arról, hogy
 
@@ -1116,7 +1140,7 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 
 (3) A közös tanács székhelyének képviselő-testülete nem tagadhatja meg, hogy a település körjegyzőség székhelye legyen.
 
-105. § A körjegyzőséghez tartozó községeket — ha az érdekeltek nem tudnak megállapodni — a közigazgatási hivatal jelöli ki. A lakosság érdekeit sértő kijelölés ellen a képviselő-testület a helyi önkormányzatokért felelős miniszterhez fordulhat.
+105. § A körjegyzőséghez tartozó községeket — ha az érdekeltek nem tudnak megállapodni — a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv jelöli ki. A lakosság érdekeit sértő kijelölés ellen a képviselő-testület a helyi önkormányzatok törvényességi ellenőrzéséért felelős miniszterhez fordulhat.
 
 106. § A közös tanács által alapított, több községet ellátó intézmény az érdekelt községek közös tulajdonába kerül. Ha a közös intézmény a községek között megosztható, a megosztásban az érintett képviselő-testületek 1990. december 31-i hatállyal megállapodhatnak.
 
@@ -1132,15 +1156,15 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 
 (2) A tanács és szervei, valamint intézményei kezelésében levő állami ingatlanok, erdők, vizek, — kivéve a védett természetvédelmi területeket és a műemlékileg védett épületeket, építményeket, területeket — pénz és értékpapírok, a törvény hatálybalépésének napján e törvény erejénél fogva a helyi önkormányzatok tulajdonába kerülnek.
 
-(3) A külön törvényben meghatározott, állami tulajdonban levő földek, erdők, más ingatlanok, vizek, valamint az összes természetvédelem alatt álló területek és műemlékileg védett épületek, építmények, területek, továbbá a közművek létesítményei, az (1) bekezdés b) pontjában említett szervezetek vagyonának önkormányzati tulajdonába adására, az önkormányzatok és a vállalatok közötti megosztására a kormány megyei (fővárosi) vagyonátadó bizottságokat hoz létre, amelyek döntenek e dolgok önkormányzati tulajdonba adásáról és a vagyoni terhek rendezéséről. A vagyonátadó bizottságban részt vesznek az épített és a természeti környezetvédelemért felelős országos szervezetek képviselői is.
+(3) A külön törvényben meghatározott, állami tulajdonban levő földek, erdők, más ingatlanok, vizek, valamint az összes természetvédelem alatt álló területek és műemlékileg védett épületek, építmények, területek, továbbá a közművek létesítményei, az (1) bekezdés b) pontjában említett szervezetek vagyonának önkormányzati tulajdonba adásáról, az önkormányzat és a vállalatok közötti megosztásáról, valamint a vagyoni terhek rendezéséről a Kormány általános hatáskörű területi államigazgatási szerve dönt.
 
-(4) A vagyonátadásig a (3) bekezdésben említett vagyontárgyak csak a vagyonátadó bizottság, illetve a természeti vagy műemléki értékük miatt védett, az illetékes országos főhatóság hozzájárulásával forgalomképesek.
+(4) A vagyonátadásig a (3) bekezdésben említett vagyontárgyak csak a Kormány általános hatáskörű területi államigazgatási szerve, illetve a természeti vagy műemléki értékük miatt védett vagyontárgyak esetében a természetvédelemért, illetve a kultúráért felelős miniszter hozzájárulásával forgalomképesek.
 
-(5) A vagyonátadó bizottság döntésével a helyi önkormányzat tulajdonába kerül az e törvény kihirdetése napján az önkormányzat belterületéhez tartozó állami tulajdonban levő föld, a kizárólag állami tulajdonba kerülő földek kivételével.
+(5) A Kormány általános hatáskörű területi államigazgatási szerve döntésével a helyi önkormányzat tulajdonába kerül az e törvény kihirdetése napján az önkormányzat belterületéhez tartozó állami tulajdonban levő föld, a kizárólag állami tulajdonba kerülő földek kivételével.
 
-(6) A több helyi önkormányzat szükségletét kielégítő közüzemi és kommunális vállalatok, továbbá a közművek települések közötti építményei, vonalas létesítményei, berendezései és a települések közötti helyi közutak — ha az érintett helyi önkormányzatok másként nem állapodnak meg — a vagyonátadó bizottság döntése alapján a megyei önkormányzat tulajdonába vagy az érintett települési önkormányzatok közös tulajdonába kerülnek.
+(6) A több helyi önkormányzat szükségletét kielégítő közüzemi és kommunális vállalatok, továbbá a közművek települések közötti építményei, vonalas létesítményei, berendezései és a települések közötti helyi közutak — ha az érintett helyi önkormányzatok másként nem állapodnak meg — a Kormány általános hatáskörű területi államigazgatási szerve döntése alapján a megyei önkormányzat tulajdonába vagy az érintett települési önkormányzatok közös tulajdonába kerülnek.
 
-(7) A helyi önkormányzat tulajdoni igényét a vagyonátadó bizottságnál 1995. március 31-ig terjesztheti elő, e határidő után az önkormányzat tulajdoni igénye bírósági eljárásban érvényesíthető.
+(7) A helyi önkormányzat tulajdoni igénye 1995. április 1-jétől bírósági eljárásban érvényesíthető.
 
 107/A. § (1) A 107. § (1) bekezdés c) pontja alapján a települési önkormányzatokat megillető villamos-, illetőleg gázközmű vagyon a közművet üzemeltető gazdasági társaság vagyonának része.
 
@@ -1161,7 +1185,7 @@ részvény formában e törvény erejénél fogva a szolgáltatásba bekapcsolt 
 
 108. § A nagyközségi címet használhatják azon települések képviselő-testületei, amelyek a törvény hatályba lépésekor nagyközségi tanácsok voltak, továbbá amelyek területén legalább ötezer lakos él.
 
-109. § Az önkormányzati hatósági ügyben folyó eljárásra — az e törvényben foglalt eltérésekkel — az államigazgatási eljárás általános szabályairól szóló 1981. évi I. törvényt kell megfelelően alkalmazni.
+109. §
 
 110. § (1) E törvény 14. § (2) bekezdésének és 26. § alkalmazásában hozzátartozó: az egyeneságbeli rokon és ennek házastársa, a testvér, a házastárs, az élettárs.
 
@@ -1187,12 +1211,7 @@ részvény formában e törvény erejénél fogva a szolgáltatásba bekapcsolt 
 
 (6) A 92/A. § (1) bekezdése a gazdasági stabilizációt szolgáló egyes törvénymódosításokról szóló 1995. évi XLVIII. törvény kihirdetését követő 120. napon lép hatályba.
 
-116. § (1) A fővárosi önkormányzatot és a kerületi önkormányzatokat osztottan megillető bevételek megosztásáról szóló rendelet elfogadásához a forrásmegosztás normatív módszereiről szóló külön törvény hatálybalépéséig a kerületi képviselő-testületek többségének egyetértése szükséges.
+116. § Felhatalmazást kap a fővárosi közgyűlés, hogy a fővárosi önkormányzat és a kerületi önkormányzatok közötti forrásmegosztással kapcsolatban
 
-(2) A fővárosi önkormányzat az (1) bekezdésben meghatározott esetben a forrásmegosztásról szóló rendelet tervezetét legkésőbb a tárgyév január 15-éig megküldi valamennyi kerületi képviselő-testületnek. Amennyiben valamely kerületi képviselő-testület az egyetértéséről szóló határozatát tárgyév február 15-éig nem küldi meg a fővárosi önkormányzatnak, úgy kell tekinteni, hogy a tervezettel egyetért.
-
-(3) A fővárosi önkormányzat a 2003. évi forrásmegosztás eredményét a külön törvényben meghatározásra kerülő normatív módszerek alapján utólag – a külön törvény hatálybalépését követően – visszaszámolja és korrigálja.
-
-(4) A (3) bekezdésben foglalt utólagos korrekció biztosításához a fővárosi önkormányzat 2003. évi költségvetési rendeletében e célra elkülönített előirányzat szolgál.
-
-(5) A külön törvényben meghatározásra kerülő forrásmegosztásra vonatkozó normatív módszereket első alkalommal a fővárosi önkormányzatot és a kerületi önkormányzatokat osztottan megillető bevételek 2004. évi megosztásáról szóló rendelet megalkotásakor kell alkalmazni.
+- a) a forrásmegosztás évenként korrigált mértékét, és
+- b) a kerületi önkormányzatokat együttesen megillető mértékből az egyes kerületi önkormányzatokat megillető részesedés mértékét – a kerületi önkormányzatok véleményének kikérésével – rendeletben állapítsa meg.

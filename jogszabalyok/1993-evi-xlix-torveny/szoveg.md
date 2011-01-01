@@ -84,7 +84,7 @@ a behozott kőolaj és kőolajtermékek biztonsági készletezéséről
 
 (3) A Magyar Köztársaság területén más állam által tárolt biztonsági készletek felett az adott állam készletező szervezeteinek rendelkezési joga érvényesül.
 
-8. § (1) Abban az esetben, ha a kőolaj- és kőolajtermék ellátás és a fogyasztás egyensúlya felbomlik, a felhasználási igények meghaladják a beszerzés lehetőségeit, az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) a szabályozásban érdekelt miniszterekkel együttesen kiadott rendeletben fogyasztást korlátozó intézkedéseket rendelhet el.
+8. § (1) Abban az esetben, ha a kőolaj- és kőolajtermék ellátás és a fogyasztás egyensúlya felbomlik, a felhasználási igények meghaladják a beszerzés lehetőségeit, az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) a szabályozásban érdekelt miniszterekkel egyetértésben kiadott rendeletben fogyasztást korlátozó intézkedéseket rendelhet el.
 
 (2) A biztonsági készletet a 41. § (3) bekezdése szerinti kőolaj- és kőolajtermék-ellátási válsághelyzetben vagy tüzelőanyag (tüzelőolaj, fűtőolaj, földgáz) ellátási nehézség, különösen földgázellátási válsághelyzet esetén a miniszter engedélye alapján szabad felhasználni.
 
@@ -416,7 +416,7 @@ az e törvény személyi hatálya alá tartozó személyek által szabad forgalo
 
 ### Felhatalmazó rendelkezések
 
-48. § (1) Felhatalmazást kap a miniszter, hogy a 8. § (1) bekezdés értelmében a fogyasztást korlátozó intézkedéseket rendeletben szabályozza.
+48. § (1) Felhatalmazást kap a miniszter, hogy a 8. § (1) bekezdés értelmében a fogyasztást korlátozó intézkedéseket a szabályozásban érdekelt miniszterekkel egyetértésben kiadott rendeletben szabályozza.
 
 (2) Felhatalmazást kap a miniszter, hogy az adatszolgáltatásra vonatkozó részletes szabályokat az e törvényben foglaltak szerint és a nemzetközi kötelezettségvállalásoknak megfelelően rendeletben szabályozza.
 

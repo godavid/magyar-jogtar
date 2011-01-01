@@ -100,9 +100,9 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 (2) Az állami adóhatóság szerencsejáték ügyben, valamint ajándéksorsolás és játékautomata-üzemeltetés tekintetében a nyilvántartásba vételi, ellenőrzési, továbbá jogkövetkezmények megállapítására irányuló eljárásban hozott határozatai ellen fellebbezésnek nincs helye. Az e törvényben meghatározott ügyben hozott határozat (végzés) ellen – a bírságot kiszabó határozat (végzés) kivételével – benyújtott keresetlevélnek, illetve kérelemnek, az e törvényben foglalt kivételekkel, a végrehajtásra halasztó hatálya van.
 
-(3) Az állami adóhatóság a kérelem elbírálásához előírhatja a kérelem egyes adatainak részletezését, kiegészítését. Hiányosan benyújtott kérelem esetén, annak beérkezésétől számított 10 munkanapon belül az állami adóhatóság intézkedik a hiánypótlási felhívás kibocsátásáról.
+(3) Az állami adóhatóság a kérelem elbírálásához előírhatja a kérelem egyes adatainak részletezését, kiegészítését. Hiányosan benyújtott kérelem esetén, annak beérkezésétől számított tizenöt napon belül az állami adóhatóság intézkedik a hiánypótlási felhívás kibocsátásáról.
 
-(4) Az állami adóhatóság a szerencsejáték szervezésének engedélyezése iránti kérelem elbírálásáról 45 munkanapon, játékautomata nyilvántartásba vételéről pedig 10 munkanapon belül dönt. E törvény hatálya alá tartozó hatósági engedélyezési, ellenőrzési és bírságolási eljárások megindítása az ügyfél erről szóló értesítésének mellőzésével történik. A határozott időtartamra szóló engedély lejárati időpontja előtt ugyanarra a tevékenységre vonatkozó új engedélykérelem legfeljebb az engedély lejárata előtt 100 nappal benyújtható.
+(4) Az állami adóhatóság a szerencsejáték szervezésének engedélyezése iránti kérelem elbírálásáról két hónapon, játékautomata nyilvántartásba vételéről pedig tizenöt napon belül dönt. E törvény hatálya alá tartozó hatósági engedélyezési, ellenőrzési és bírságolási eljárások megindítása az ügyfél erről szóló értesítésének mellőzésével történik. A határozott időtartamra szóló engedély lejárati időpontja előtt ugyanarra a tevékenységre vonatkozó új engedélykérelem legfeljebb az engedély lejárata előtt 100 nappal benyújtható.
 
 (5)
 
@@ -373,7 +373,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (4) Az elektronikus kaszinóban a videotechnikai ellenőrzési rendszert a játék tisztasága, biztonságos lebonyolítása, a rend és a vagyonvédelem, továbbá a pénzmosás megelőzéséről és megakadályozásáról szóló törvényben előírt feladatok végrehajtása érdekében kell működtetni.
 
-(5) Az elektronikus kaszinóban működő videotechnikai ellenőrzési rendszer által készített videofelvételeket a szervező a rögzítéstől számított 30 napig köteles megőrizni. Akinek jogát, vagy jogos érdekét a videofelvétel érinti, illetve akit az elektronikus kaszinóban történt rendkívüli események, különösen a játékosi panasszal érintett események, illetve a játékosokkal szemben alkalmazott intézkedések érintenek a rögzítéstől számított 5 munkanapon belül kérheti, hogy a videofelvétel a szervező panasza kivizsgálásáig ne törölje.
+(5) Az elektronikus kaszinóban működő videotechnikai ellenőrzési rendszer által készített videofelvételeket a szervező a rögzítéstől számított 30 napig köteles megőrizni. Akinek jogát, vagy jogos érdekét a videofelvétel érinti, illetve akit az elektronikus kaszinóban történt rendkívüli események, különösen a játékosi panasszal érintett események, illetve a játékosokkal szemben alkalmazott intézkedések érintenek a rögzítéstől számított nyolc napon belül kérheti, hogy a videofelvétel a szervező panasza kivizsgálásáig ne törölje.
 
 ### 3. CÍM — Kaszinójáték
 
@@ -470,7 +470,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (7) A kártyateremben a játék tisztasága, biztonságos lebonyolítása, a rend és a vagyonvédelem, továbbá a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben előírt feladatok végrehajtása érdekében videotechnikai ellenőrzési rendszert kell üzemeltetni.
 
-(8) A kártyateremben működő videotechnikai ellenőrzési rendszer által készített videofelvételeket a szervező a rögzítéstől számított 45 napig köteles megőrizni. Akinek jogát, vagy jogos érdekét a videofelvétel érinti, illetve akit a kártyateremben történt rendkívüli események, különösen a játékosi panasszal érintett események, illetve a játékosokkal szemben alkalmazott intézkedések érintenek a rögzítéstől számított 15 munkanapon belül kérheti, hogy a videofelvételt a szervező panasza kivizsgálásáig ne törölje.
+(8) A kártyateremben működő videotechnikai ellenőrzési rendszer által készített videofelvételeket a szervező a rögzítéstől számított 45 napig köteles megőrizni. Akinek jogát, vagy jogos érdekét a videofelvétel érinti, illetve akit a kártyateremben történt rendkívüli események, különösen a játékosi panasszal érintett események, illetve a játékosokkal szemben alkalmazott intézkedések érintenek a rögzítéstől számított húsz napon belül kérheti, hogy a videofelvételt a szervező panasza kivizsgálásáig ne törölje.
 
 (9) Ha a kártyaterem üzemeltetése nem felel meg a játéktervnek és az engedélynek, az állami adóhatóság a kártyaterem működését felfüggeszti. Az állami adóhatóság akkor is köteles a kártyaterem működtetését felfüggeszteni, ha az engedély a helyszínen nem található. Ha a kártyateremben az engedélyezett kártyajátékon túl más szerencsejáték szervező tevékenység folyik, az állami adóhatóság a kártyaterem engedélyét visszavonja.
 

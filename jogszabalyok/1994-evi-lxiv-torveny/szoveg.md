@@ -123,7 +123,7 @@ Szorzószám
 
 (3) A kedvezmények és juttatások csökkentése, illetőleg megvonása, valamint az illetménynek és tiszteletdíjnak a csökkentése egy évnél hosszabb időszakra nem vonatkozhat.
 
-7. § (1) A polgármester ellen a fegyelmi eljárást a képviselő-testület rendeli el. A fegyelmi eljárás kezdeményezésére a képviselő-testület tagja, bizottsága és a közigazgatási hivatal jogosult.
+7. § (1) A polgármester ellen a fegyelmi eljárást a képviselő-testület rendeli el. A fegyelmi eljárás kezdeményezésére a képviselő-testület tagja, bizottsága és a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv jogosult.
 
 (2) A fegyelmi eljárás során vizsgálatot kell tartani, amelynek lefolytatására a képviselő-testület tagjai közül háromtagú vizsgáló bizottságot kell megbízni. A száznál kevesebb lakosú községekben a fegyelmi vizsgálatot a képviselő-testület folytatja le.
 
@@ -162,7 +162,7 @@ A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fe
 
 (4) Ahol jogszabály munkaviszonyt említ, ott — eltérő rendelkezés hiányában — a foglalkoztatási jogviszonyt is érteni kell.
 
-(5) A polgármester tisztségének megszűnése esetén, a tisztség megszűnését követően nyolc munkanapon belül írásba foglaltan átadja munkakörét az új polgármesternek, ennek hiányában az alpolgármesternek, illetve a szervezeti és működési szabályzatban meghatározott személynek. A munkakör-átadási jegyzőkönyvet az előző és az új polgármester, a jegyző, valamint a közigazgatási hivatal vezetője írja alá, a jegyzőkönyv tartalmát a helyi önkormányzatokért felelős miniszter rendeletben határozza meg. A 2. § (5) bekezdése szerinti összeg akkor fizethető ki, ha a munkakör átadása nyolc munkanapon belül megtörtént. A nyolc munkanapon túli átadás esetén a polgármester a kifizetést akkor engedélyezi, ha a mulasztásnak alapos oka volt, s a munkaköri átadás megtörtént. Vita esetén az érintett a munkaügyi bírósághoz fordulhat.
+(5) A polgármester tisztségének megszűnése esetén, a tisztség megszűnését követően nyolc munkanapon belül írásba foglaltan átadja munkakörét az új polgármesternek, ennek hiányában az alpolgármesternek, illetve a szervezeti és működési szabályzatban meghatározott személynek. A munkakör-átadási jegyzőkönyvet az előző és az új polgármester, a jegyző, valamint a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv vezetője írja alá. A 2. § (5) bekezdése szerinti összeg akkor fizethető ki, ha a munkakör átadása nyolc munkanapon belül megtörtént. A nyolc munkanapon túli átadás esetén a polgármester a kifizetést akkor engedélyezi, ha a mulasztásnak alapos oka volt, s a munkaköri átadás megtörtént. Vita esetén az érintett a munkaügyi bírósághoz fordulhat.
 
 13/A. § (1) Öregségi nyugdíjra jogosult az a polgármester – az egyéb jogosultsági feltételek esetén –, akinek a megbízatása a 2. § (1) bekezdés a) vagy c) pontja szerint szűnik meg, feltéve, hogy
 
@@ -243,7 +243,7 @@ A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fe
 
 19. § (1) E törvény a helyi önkormányzati képviselők és polgármesterek 1994. évi általános választásának napján lép hatályba. Rendelkezéseit az 1994. évi önkormányzati általános választásokon és azt követő választásokon megválasztottakra kell alkalmazni.
 
-(2)
+(2) Felhatalmazást kap a helyi önkormányzatok törvényességi ellenőrzéséért felelős miniszter, hogy a polgármester tisztségének megszűnése esetére a munkakör-átadási jegyzőkönyv tartalmára vonatkozó szabályokat rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a Kormány, hogy a polgármester öregségi nyugdíja, valamint közszolgálati járadéka megállapításának és folyósításának részletes szabályait rendeletben állapítsa meg.
 
