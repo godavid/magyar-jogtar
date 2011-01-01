@@ -164,7 +164,7 @@ a bírósági végrehajtásról
 - b) az ügyvédi fegyelmi hatóságnak, a tervező- és szakértő mérnökök, valamint építészek fegyelmi testületének és az igazságügyi szakértői kamara etikai tanácsának, továbbá az egészségügyről szóló 1997. évi CLIV. törvény 140/B. § (1) bekezdése és 140/C. § (2) bekezdése szerinti szervek pénzbírság és eljárási költség megfizetésére kötelező határozatát,
 - c)
 - d) azt a teljes bizonyító erejű magánokiratot, amely az ingatlan közös tulajdonának árveréssel történő megszüntetésére irányuló szerződésről szól, ha az okirat tartalmazza az ingatlan becsértékét, az árverési feltételeket, továbbá az eljárási költség viselésének és a befolyt vételár felosztásának a módját,
-- e) a Magyar Szabadalmi Hivatalnak a költségek viselése tárgyában hozott döntését,
+- e) a Szellemi Tulajdon Nemzeti Hivatalának a költségek viselése tárgyában hozott döntését,
 - f) a károkozás helye szerint illetékes községi, városi, fővárosi kerületi jegyzőnek a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvényben meghatározott eljárásában hozott, a károsultnak és a kárért felelős személynek vadkár, vadászati kár vagy vadban okozott kár megtérítésére, valamint az általuk előlegezett eljárási költség viselésére vonatkozó egyezségét jóváhagyó határozatát.
 
 23. § (1) A bíróság végrehajtási záradékkal látja el a munkáltatónak a Munka Törvénykönyve alapján
@@ -1148,11 +1148,11 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 114. § (1) A végrehajtó a foglalás után, illetve a lefoglalt vízi, légi jármű lajstromát vezető szervezet 103/A. § (2) bekezdése szerinti tájékoztatásának kézhezvételét követően haladéktalanul értesíti az ingóság lefoglalásáról azt, akiről valószínűsíthető, hogy a lefoglalt ingóságon zálogjoga áll fenn. Így jár el a végrehajtó a zálogjogi nyilvántartás adatainak beszerzését követően is.
 
-(2) A végrehajtó az (1) bekezdés szerinti eljárása során tájékoztatja a zálogjogosultat arról, hogy a zálogjogból fakadó igényét – ha az alapügyben nem végrehajtást kérő – végrehajtási eljárás során érvényesítheti, és az erre vonatkozó kérelmét az értesítés kézhezvételét követő nyolc munkanapon belül kell bejelentenie a végrehajtónál. A végrehajtó a kérelmet haladéktalanul, de legkésőbb annak kézhezvételét követő munkanapon továbbítja a végrehajtást foganatosító bíróságnak.
+(2) A végrehajtó az (1) bekezdés szerinti eljárása során tájékoztatja a zálogjogosultat arról, hogy a zálogjogból fakadó igényét – ha az alapügyben nem végrehajtást kérő – végrehajtási eljárás során érvényesítheti, és az erre vonatkozó kérelmét az értesítés kézhezvételét követő 15 munkanapon belül kell bejelentenie a végrehajtónál. A végrehajtó a kérelmet haladéktalanul, de legkésőbb annak kézhezvételét követő munkanapon továbbítja a végrehajtást foganatosító bíróságnak.
 
 ### A zálogjogosult bekapcsolódása a végrehajtási eljárásba
 
-114/A. § (1) A zálogjogosultnak a 114. § szerinti értesítés kézhezvételét követő 8 munkanapon belül előterjesztett kérelmére a végrehajtást foganatosító bíróság a soron kívül meghozott végzésével megállapítja a zálogjogosult kielégítési jogának megnyíltát, és engedélyezi, hogy a végrehajtási eljárásba bekapcsolódjék, ha a zálogjoggal biztosított követelés jogalapja és összegszerűsége – önálló zálogjog esetén a jogalap és az összegszerűség – nem vitatott.
+114/A. § (1) A zálogjogosultnak a 114. § szerinti értesítés kézhezvételét követő 15 munkanapon belül előterjesztett kérelmére a végrehajtást foganatosító bíróság a soron kívül meghozott végzésével megállapítja a zálogjogosult kielégítési jogának megnyíltát, és engedélyezi, hogy a végrehajtási eljárásba bekapcsolódjék, ha a zálogjoggal biztosított követelés jogalapja és összegszerűsége – önálló zálogjog esetén a jogalap és az összegszerűség – nem vitatott.
 
 (2) A kielégítési jog megnyíltát – szemben a végrehajtás általános feltételeivel – a bíróság az alapján állapítja meg, hogy a zálogtárgyat végrehajtási eljárás során lefoglalták. A kielégítési jog megnyíltát a foglalás ténye alapján nem lehet megállapítani, ha a zálogjogosult az adós hozzátartozója vagy olyan jogi személy, amelynek az adóssal való viszonyában többségi befolyás áll fenn, illetve a zálogjog alapítására a gazdálkodó szervezet és tagja között került sor.
 
@@ -1505,7 +1505,7 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 (5) A végrehajtó a becsérték közlésével egyidejűleg tájékoztatja a feleket a részletfizetés lehetőségéről és feltételeiről.
 
-(6) A végrehajtó a becsérték közlésével egyidejűleg tájékoztatja a zálogjogosultat arról, hogy a zálogjogból fakadó igényét – ha az alapügyben nem végrehajtást kérő – végrehajtási eljárás során érvényesítheti, és az erre vonatkozó kérelmét az értesítés kézhezvételét követő 8 munkanapon belül kell bejelentenie a végrehajtónál. A végrehajtó a kérelmet haladéktalanul, de legkésőbb annak kézhezvételét követő munkanapon továbbítja a végrehajtást foganatosító bíróságnak.
+(6) A végrehajtó a becsérték közlésével egyidejűleg tájékoztatja a zálogjogosultat arról, hogy a zálogjogból fakadó igényét – ha az alapügyben nem végrehajtást kérő – végrehajtási eljárás során érvényesítheti, és az erre vonatkozó kérelmét az értesítés kézhezvételét követő 15 munkanapon belül kell bejelentenie a végrehajtónál. A végrehajtó a kérelmet haladéktalanul, de legkésőbb annak kézhezvételét követő munkanapon továbbítja a végrehajtást foganatosító bíróságnak.
 
 (7) Ha a közléstől számított 15 napon belül végrehajtási kifogást terjesztettek elő, a becsértéket a bíróság — szükség esetén szakértő közreműködésével — állapítja meg.
 

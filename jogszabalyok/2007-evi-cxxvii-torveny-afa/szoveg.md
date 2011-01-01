@@ -175,7 +175,7 @@ termék felhasználása gazdasági tevékenységének folytatásához, feltéve,
 - a) a Közösség azon tagállamában, ahol a termék a küldeménykénti megérkezésekor vagy a fuvarozás befejezésekor van, a termék értékesítésére a 29. §-ban említett feltételek teljesülnek;
 - b) a Közösség azon tagállamában, ahol a termék a küldeménykénti megérkezésekor vagy a fuvarozás befejezésekor van, a termék értékesítésére a 32. §-ban említett feltételek teljesülnek;
 - c) a termék vasúti-, vízi- vagy légiközlekedési eszközön történő értékesítésére a 33. §-ban említett feltételek teljesülnek;
-- d) a gáz földgázcsővezeték-hálózaton keresztüli vagy a villamos energia értékesítésére a 34. vagy 35. §-ban említett feltételek teljesülnek;
+- d) a gáz Közösség területén levő földgázrendszeren vagy bármely más, ilyen rendszerhez kapcsolt hálózaton keresztüli, a hő- vagy hűtési energia hő- vagy hűtési hálózaton keresztüli, valamint a villamos energia értékesítésére a 34. vagy 35. § alkalmazandó;
 - e) a termék értékesítése a 89., 98–104. és 107–109. §-ok szerint történik;
 - f) a Közösség azon tagállamában, ahol a termék a küldeménykénti megérkezésekor vagy a fuvarozás befejezésekor van, az (1) bekezdésben említett adóalany – mint a szolgáltatás igénybevevője – termékén munkát végeznek, majd annak befejezését követően a terméket – az (1) bekezdésben említett adóalany nevére szóló rendeltetéssel – belföldre továbbítják;
 - g) a Közösség azon tagállamában, ahol a termék a küldeménykénti megérkezésekor vagy a fuvarozás befejezésekor van, az (1) bekezdésben említett adóalany a terméket szolgáltatás nyújtása érdekében ideiglenesen használja;
@@ -202,7 +202,7 @@ termék felhasználása gazdasági tevékenységének folytatásához, feltéve,
 
 14. § (1) Ellenérték fejében teljesített szolgáltatásnyújtás [2. § a) pontja] az is, ha az adóalany a terméket vállalkozásából időlegesen kivonva, azt saját vagy alkalmazottai magánszükségletének kielégítésére vagy általában, vállalkozásától idegen célok elérésére ingyenesen használja, illetőleg azt másnak ingyenesen használatba adja, feltéve, hogy a termék vagy annak alkotórészeinek szerzéséhez kapcsolódóan az adóalanyt egészben vagy részben adólevonási jog illette meg.
 
-(2) Szintén ellenérték fejében teljesített szolgáltatásnyújtás, ha az adóalany saját vagy alkalmazottai magánszükségletének kielégítésére vagy általában, vállalkozásától idegen célok elérésére másnak ingyenesen nyújt szolgáltatást, feltéve, hogy a szolgáltatás igénybevételéhez kapcsolódóan az adóalanyt egészben vagy részben adólevonási jog illette meg.
+(2) Szintén ellenérték fejében teljesített szolgáltatásnyújtás, ha az adóalany saját vagy alkalmazottai magánszükségletének kielégítésére vagy általában, vállalkozásától idegen célok elérésére másnak ingyenesen nyújt szolgáltatást, feltéve, hogy a szolgáltatáshoz kapcsolódóan az adóalanyt egészben vagy részben adólevonási jog illette meg.
 
 (3) Nem minősül ellenérték fejében teljesített szolgáltatásnyújtásnak a közcélú adományozás.
 
@@ -363,18 +363,17 @@ termék felhasználása gazdasági tevékenységének folytatásához, feltéve,
 
 (3) Menettérti személyszállítás esetében az oda- és visszautazás külön-külön, önálló személyszállításnak tekintendő.
 
-34. § (1) Abban az esetben, ha adóalany-kereskedő részére
+34. § (1) Ha adóalany-kereskedő részére
 
-- a) gáz értékesítése földgázcsővezeték-hálózaton keresztül, vagy
-- b) villamos energia értékesítése
+- a) gáz Közösség területén levő földgázrendszeren vagy bármely más, ilyen rendszerhez kapcsolt hálózaton keresztüli,
+- b) hő- vagy hűtési energia hő- vagy hűtési hálózaton keresztüli, valamint
+- c) villamos energia értékesítése történik, a termék értékesítésének teljesítési helye az a hely, ahol az adóalany-kereskedő gazdasági céllal letelepedett, gazdasági célú letelepedés hiányában pedig az a hely, ahol lakóhelye vagy szokásos tartózkodási helye van.
 
-történik, a termék értékesítésének teljesítési helye az a hely, ahol az adóalany-kereskedő gazdasági céllal letelepedett, gazdasági célú letelepedés hiányában pedig az a hely, ahol lakóhelye vagy szokásos tartózkodási helye van.
+(2) Adóalany-kereskedő az, aki (amely) gáz, hő- vagy hűtési energia, valamint villamos energia továbbértékesítésével főtevékenységként foglalkozik, és akinek (amelynek) saját felhasználása (fogyasztása) e termékekből elhanyagolható mértékű.
 
-(2) E § alkalmazásában adóalany-kereskedő az, aki (amely) gáz vagy villamos energia továbbértékesítésével főtevékenységként foglalkozik, és akinek (amelynek) saját felhasználása (fogyasztása) ezekből a termékekből elhanyagolható mértékű.
+35. § (1) Ha a 34. § (1) bekezdés a)–c) pontjában meghatározott termékértékesítések közül bármely nem adóalany-kereskedő részére történik, a termék értékesítésének teljesítési helye az a hely, ahol a beszerző azt ténylegesen felhasználja (elfogyasztja).
 
-35. § (1) Abban az esetben, ha a 34. §-ban említett feltételek bármelyike nem teljesül, a gáz földgázcsővezeték-hálózaton keresztüli vagy a villamos energia értékesítésének teljesítési helye az a hely, ahol a beszerző ezeket a termékeket ténylegesen felhasználja (elfogyasztja).
-
-(2) Amennyiben a beszerző a gázt vagy a villamos energiát egészben vagy részben nem használja fel (nem fogyasztja el), az (1) bekezdés alkalmazásában a fel nem használt (el nem fogyasztott) gáz vagy villamos energia tényleges felhasználási (elfogyasztási) helyének azt a helyet kell tekinteni, ahol a beszerző gazdasági céllal letelepedett, gazdasági célú letelepedés hiányában pedig azt a helyet, ahol lakóhelye vagy szokásos tartózkodási helye van.
+(2) Ha a beszerző a gázt, a hő- vagy hűtési energiát, valamint a villamos energiát egészben vagy részben nem használja fel (nem fogyasztja el), az (1) bekezdés alkalmazásában a fel nem használt (el nem fogyasztott) gáz, hő- vagy hűtési energia, valamint villamos energia tényleges felhasználási (elfogyasztási) helyének azt a helyet kell tekinteni, ahol a beszerző gazdasági céllal letelepedett, gazdasági célú letelepedés hiányában pedig azt a helyet, ahol lakóhelye vagy szokásos tartózkodási helye van.
 
 #### 2. alfejezet
 
@@ -418,13 +417,14 @@ történik, a termék értékesítésének teljesítési helye az a hely, ahol a
 - a) indulási helye: az a hely, ahol a termék fuvarozása ténylegesen megkezdődik, ide nemértve azt az útszakaszt, amely a fuvarozandó termék berakodásának helyéig tart;
 - b) érkezési helye: az a hely, ahol a termék fuvarozása ténylegesen befejeződik.
 
-42. § Kulturális, művészeti, tudományos, oktatási, szórakoztatási és sportszolgáltatások, továbbá más, ezekhez hasonló szolgáltatások (így különösen: kiállítások, vásárok és bemutatók rendezése), ideértve ezek szervezését is, valamint az előbbiekhez járulékosan kapcsolódó szolgáltatások nyújtása esetében a teljesítés helye az a hely, ahol a szolgáltatást ténylegesen teljesítik.
+42. § Adóalany részére nyújtott olyan szolgáltatások esetében, amelyek kulturális, művészeti, tudományos, oktatási, szórakoztatási, sport- vagy más hasonló eseményekre, rendezvényekre (így különösen: kiállítások, vásárok és bemutatók) való belépést biztosítják, ideértve az előbbiekhez járulékosan kapcsolódó szolgáltatásokat is, a teljesítés helye az a hely, ahol az eseményt, rendezvényt ténylegesen megrendezik.
 
 43. § (1) A következő, nem adóalany részére nyújtott szolgáltatások esetében a teljesítés helye az a hely, ahol a szolgáltatást ténylegesen teljesítik:
 
 - a) személy szállításához, termék fuvarozásához járulékosan kapcsolódó szolgáltatások;
 - b) szakértői értékelés, amely közvetlenül termékre – ide nem értve az ingatlant – irányul;
-- c) terméken – ide nem értve az ingatlant – végzett munka.
+- c) terméken – ide nem értve az ingatlant – végzett munka;
+- d) kulturális, művészeti, tudományos, oktatási, szórakoztatási és sportszolgáltatások, továbbá más, ezekhez hasonló szolgáltatások (így különösen: kiállítások, vásárok és bemutatók rendezése), ideértve ezek szervezését is, valamint az előbbiekhez járulékosan kapcsolódó szolgáltatásokat is.
 
 (2) Az (1) bekezdés a) pontjában említett személy szállításához, termék fuvarozásához járulékosan kapcsolódó szolgáltatások körébe tartozik a be-, ki- és átrakodás is.
 
@@ -452,9 +452,9 @@ napot meg nem haladó használatát jelenti.
 - e) banki, biztosítási, viszontbiztosítási és egyéb pénzügyi szolgáltatások, kivéve a széfügyletet;
 - f) munkaerő kölcsönzése, kirendelése, illetőleg személyzet rendelkezésre bocsátása;
 - g) termék – ide nem értve az ingatlant és a közlekedési eszközök bármely fajtáját – bérbeadása;
-- h) földgázcsővezeték- és villamosenergiaelosztó-hálózatokhoz való csatlakozás biztosítása, valamint a hálózatokon keresztüli földgáz- és villamosenergia-továbbítás biztosítása, továbbá más, ezekhez közvetlenül kapcsolódó szolgáltatások;
+- h) a Közösség területén levő földgázrendszerhez vagy bármely más, ilyen rendszerhez kapcsolt hálózathoz, hő- vagy hűtési hálózathoz, villamosenergia-rendszerhez való csatlakozás, egyéb hozzáférés biztosítása, valamint ilyen rendszeren, hálózaton keresztül földgáz, hő- vagy hűtési energia, valamint villamos energia szállítása (átvitele), elosztása, továbbá más, ezekhez közvetlenül kapcsolódó szolgáltatások;
 - i) telekommunikációs szolgáltatások;
-- j) rádiós és televíziós műsorszolgáltatások;
+- j) rádiós és audiovizuális médiaszolgáltatások;
 - k) elektronikus úton nyújtott szolgáltatások.
 
 (3) E § alkalmazandó abban az esetben is, ha kötelezettségvállalás történik valamely üzleti vagy hivatásszerűen folytatott tevékenység egészbeni vagy részbeni abbahagyására, illetőleg valamely (2) bekezdés alá tartozó jog gyakorlásától való időleges vagy végleges tartózkodásra.
@@ -466,7 +466,7 @@ napot meg nem haladó használatát jelenti.
 - a) elektronikus tárhely rendelkezésre bocsátása, honlap tárolása és üzemeltetése, valamint számítástechnikai eszköz és program távkarbantartása,
 - b) szoftver rendelkezésre bocsátása és frissítése,
 - c) kép, szöveg és egyéb információ rendelkezésre bocsátása, valamint adatbázis elérhetővé tétele,
-- d) zene, film és játék – ideértve a szerencsejátékot is – rendelkezésre bocsátása, valamint politikai, kulturális, művészeti, tudományos, sport és szórakoztatási célú műsorszolgáltatás, illetőleg ilyen célú események közvetítése, sugárzása,
+- d) zene, film és játék – ideértve a szerencsejátékot is – rendelkezésre bocsátása, valamint politikai, kulturális, művészeti, tudományos, sport és szórakoztatási célú médiaszolgáltatás, illetőleg ilyen célú események közvetítése, sugárzása,
 - e) távoktatás,
 
 feltéve, hogy a szolgáltatás nyújtása és igénybevétele globális információs hálózaton keresztül történik. A szolgáltatás nyújtója és igénybevevője közötti, ilyen hálózaton keresztüli kapcsolat felvétele és tartása – ideértve az ajánlat tételét és elfogadását is – azonban önmagában még nem elektronikus úton nyújtott szolgáltatás.
@@ -635,7 +635,7 @@ a fizetendő adót – az (1) bekezdéstől eltérően – az a) pontban említe
 
 (2) Az (1) bekezdés nem alkalmazandó, ha az ellenértéket kötelező erővel jogszabály határozza meg, vagy ha az ellenérték megállapítása jogszabályi rendelkezések kötelező erejű alapulvételével történik.
 
-68. § A 11. és 12. §-ban említett esetekben az adó alapja a termék vagy az ahhoz hasonló termék beszerzési ára, ilyen ár hiányában pedig a teljesítéskor megállapított előállítási értéke.
+68. § A 11. és 12. §-ban említett esetekben az adó alapja a termék vagy az ahhoz hasonló termék teljesítéskor megállapított beszerzési ára, ilyen ár hiányában pedig a teljesítéskor megállapított előállítási értéke.
 
 69. § A 14. §-ban említett esetekben az adó alapja az a pénzben kifejezett összeg, amely a szolgáltatás nyújtójánál a teljesítés érdekében kiadásként felmerül.
 
@@ -707,7 +707,7 @@ megállapodásban előre rögzített, vagy az annak alapján számított árenge
 (2) Az adó alapja utólag csökken abban az esetben is, ha
 
 - a) teljesítés hiánya miatt az előleget visszafizetik;
-- b) a kötelezett a termék 10. § a) pontja szerinti értékesítése vagy bérbeadása esetében az ellenérték maradéktalan megtérítésének hiánya miatt eláll az ügylettől, és a felek az ügylet kötése előtti helyzetet állítják helyre, vagy ha ez nem lehetséges, az ügyletet a felek a meghiúsulás bekövetkezéséig terjedő időre hatályosként elismerik;
+- b) a termék 10. § a) pontja szerinti értékesítése, a bérbeadás vagy a vagyoni értékű jog időleges használatának átengedése akár az ügyletben érintett bármely félnek felróható okból, akár a tevékenységi körükön kívül eső elháríthatatlan okból meghiúsul, és a felek az ügylet kötése előtti helyzetet állítják helyre, vagy ha ez nem lehetséges, az ügyletet a meghiúsulás bekövetkezéséig terjedő időre hatályosként elismerik;
 - c) betétdíjas termék visszaváltásakor a betétdíjat visszatérítik.
 
 (3) Az adó alapja utólag csökkenthető, ha a teljesítést követően adnak a 71. § (1) bekezdésének a) és b) pontja szerint árengedményt.
@@ -725,6 +725,8 @@ megállapodásban előre rögzített, vagy az annak alapján számított árenge
 
 - a) az eredeti számlát érvénytelenítő számla vagy az azt módosító számla a jogosult személyes rendelkezésére áll;
 - b) a kötelezett a jogosultnak az ellenértéket visszatéríti, az előleget visszafizeti, vagy a betétdíjat visszatéríti az a) pont alá nem tartozó esetekben.
+
+(4) A (3) bekezdést kell megfelelően alkalmazni abban az esetben is, ha az adó alapjának utólagos csökkenése azért nem eredményez fizetendőadó-csökkenést, mert az ügylet – e törvény rendelkezései szerint – mentes az adó alól.
 
 79. § (1) Termék Közösségen belüli beszerzése esetében, ha a beszerző a Közösség más tagállamában, ahol a termék a küldeménykénti feladásakor vagy a fuvarozás megkezdésekor volt, jövedékiadó-visszatérítésben részesült, az adó alapját csökkentheti a visszatérített jövedéki adó igazolt összegével, feltéve, hogy a termék belföldön is jövedéki termék.
 
@@ -807,7 +809,12 @@ a fizetendő adó megállapításakor érvényes adómértéket kell alkalmazni.
 kivéve az uszoda- és strandfürdő-szolgáltatást, a sportesemény megtekintését, valamint a sportolást, testedzést szolgáló ingatlan (ingatlanrész) bérbeadását;
 
 - n) a népművészeti, népi iparművészeti és iparművészeti termékek kiállításának, vásárának és bemutatójának szervezése, rendezése és az ahhoz szorosan kapcsolódó, jogszabály által meghatározott minősítés szerint zsűriszámmal ellátott, egyedi vagy meghatározott példányszámban, nem ipari gyártástechnológiával előállított népművészeti, népi iparművészeti és iparművészeti termék értékesítése, amelyet közszolgáltató vagy népi iparművész minősítéssel rendelkező személy, szervezet – ilyen minőségében – teljesít;
-- o) a közszolgálati rádiós és televíziós műsorszolgáltatások nyújtása, ide nem értve az annak keretében nyújtott kereskedelmi jellegű szolgáltatásokat.
+- o) a közszolgálati rádiós és audiovizuális médiaszolgáltatások nyújtása, ide nem értve az annak keretében nyújtott kereskedelmi jellegű szolgáltatásokat;
+- p) a közös cél elérése érdekében együttműködő közösség (a továbbiakban: együttműködő közösség) által a közös cél elérésére nyújtott szolgáltatás az együttműködő közösség tagjának, feltéve, hogy a következő feltételek teljesülnek:
+  - pa) az együttműködő közösség tagja nem adóalany, vagy a szolgáltatás igénybevétele során nem adóalanyi minőségében jár el, vagy
+  - pb) a szolgáltatás igénybevétele az együttműködő közösség adóalany tagjának kizárólag olyan, az a)-o) pont vagy a 86. § (1) bekezdése szerint mentes termékértékesítése, szolgáltatásnyújtása érdekében történik, amelyhez kapcsolódóan az együttműködő közösség adóalany tagját adólevonási jog egészben vagy részben nem illeti meg, továbbá
+  - pc) az ellenérték, amelyet az együttműködő közösség kap vagy kapnia kell, nem több annál, mint a nála ezzel összefüggésben felmerült igazolt költség, valamint
+  - pd) az ellenérték göngyölített összege nem haladja meg azt a vagyoni hozzájárulást, amelyet az együttműködő közösség tagjának kell a közös cél elérése érdekében az együttműködő közösségnek rendelkezésre bocsátania.
 
 (2) Az egyéb oktatás körébe tartoznak:
 
@@ -842,6 +849,53 @@ kivéve az uszoda- és strandfürdő-szolgáltatást, a sportesemény megtekint�
 - c) a fogyasztók széles körét érintő vagy jelentős nagyságú hátrányt okozó törvénybe ütköző tevékenysége miatt, kötelezett az ár leszállítására, az áru kijavítására vagy kicserélésére, illetőleg az ár visszafizetésére [Tpvt. 92. §-a], a határozat jogerőre emelkedésétől az azt követő harmadik naptári év végéig
 
 nem minősül közszolgáltatónak.
+
+(6) E § és a 85/A. § alkalmazásában
+
+- a) együttműködő közösség:
+  - aa) az együttműködő közösség leendő tagjai által a közös cél elérésére, a Ptk. rendelkezései szerint létrehozott polgári jogi társaság, amelynek kizárólag e cél elérésére szolgáló adóalanyisága – e törvény egyéb rendelkezéseitől függetlenül – valamennyi szerződő fél közös, kifejezett és egybehangzó írásos kérelmére az állami adóhatóság engedélyével, annak jogerőre emelkedésének napjával jön létre, vagy
+  - ab) az a személy, szervezet, aki (amely) egyébként adóalany;
+- b) együttműködő közösség tagja: az a személy, szervezet, aki (amely) az a) pont
+  - ba) aa) alpontja szerinti együttműködő közösséget létrehozó polgári jogi társaság tagja,
+  - bb) ab) alpontja szerinti együttműködő közösséggel névre szóló tulajdonosi (tagsági) jogviszonyban áll.
+
+85/A. § (1) Az együttműködő közösség tagjai számának folyamatosan el kell érnie legalább a kettőt. Az együttműködő közösség tagja csoportos adóalanyiság esetében csak a csoportos adóalanyiságban részt vevő tagok által kijelölt képviselő [8. § (3) bekezdés a) pontja] lehet, aki (amely) az együttműködő közösség tagjaként a csoportos adóalanyiságban részt vevő valamennyi tagnak együttesen betudhatóan szerezhet jogokat, vállalhat kötelezettségeket.
+
+(2) Az együttműködő közösséget ilyen minőségében úgy kell tekinteni, mint akinek (amelynek) gazdasági célú letelepedési helye belföldön van, gazdasági célú letelepedési hely hiányában pedig lakóhelye vagy szokásos tartózkodási helye van belföldön.
+
+(3) Az együttműködő közösségnek és tagjainak folyamatosan olyan nyilvántartást kell vezetniük, amely alkalmas a 85. § (1) bekezdés p) pontjában meghatározott szolgáltatás nyújtásának, igénybevételének az egyéb tevékenységektől való egyértelmű, megbízható és maradéktalan elkülönítésére.
+
+(4) Az együttműködő közösség tagjai egyetemlegesen felelősek az együttműködő közösséggel együtt a 85. § (1) bekezdés p) pontja alapján keletkező kötelezettségek teljesítéséért.
+
+(5) A 85. § (6) bekezdés a) pont aa) alpontjában említett kérelemnek tartalmaznia kell:
+
+- a) a közös célt, amelynek elérésére a polgári jogi társaság tagjai az együttműködő közösséget létrehozni kívánják,
+- b) a tagok által kijelölt képviselőt, aki (amely) az adóalanyisághoz fűződő jogokat és kötelezettségeket – mint a bírósági és más hatósági eljárásjogi cselekmények alanya – gyakorolja, és a képviselő feltétlen beleegyező nyilatkozatát a képviselet vállalására, továbbá
+- c) tagonként külön-külön:
+  - ca) a tag nevét, címét és adószámát, adószám hiányában pedig egyedi azonosításra szolgáló jelét,
+  - cb) a nyilvántartási rendszer bemutatását, amely eleget tesz a (3) bekezdésnek és
+  - cc) kötelezettségvállalást a (4) bekezdés teljesítésére.
+
+(6) A 85. § (6) bekezdés a) pont aa) alpontjában említett kérelem benyújtásával egyidejűleg, annak mellékleteként csatolni kell a polgári jogi társaság létesítéséről szóló szerződés hiteles másolati példányát.
+
+(7) A 85. § (6) bekezdés a) pont aa) alpontja szerinti együttműködő közösség adóalanyisága az állami adóhatósági engedély visszavonásával szűnik meg. Az engedélyt az állami adóhatóság visszavonja, ha
+
+- a) azt az együttműködő közösség bármely tagja kéri;
+- b) a képviselő a képviseletet a továbbiakban nem vállalja, és új képviselő haladéktalan kijelölése és bejelentése az (5) bekezdés b) pontja szerint nem történik meg;
+- c) az (1) bekezdés az együttműködő közösség adóalanyiságának időszakában nem teljesül;
+- d) az (5) bekezdés c) pont cb) és cc) alpontjában meghatározott feltételek bármelyike az együttműködő közösség adóalanyiságának időszakában nem teljesül;
+- e) a közös cél, amelynek elérésére az együttműködő közösség létre jött, megvalósult, vagy annak megvalósítása többé nem lehetséges;
+- f) az együttműködő közösség tagjai által létrehozott polgári jogi társaság megszűnik.
+
+(8) A 85. § (6) bekezdés a) pont ab) alpontja szerinti együttműködő közösség esetében az ott említett adóalany köteles az együttműködő közösség létrehozásával egyidejűleg az állami adóhatóságnak írásban
+
+- a) bejelenteni
+  - aa) a közös célt, amelynek elérésére az együttműködő közösséget létrehozták, és
+  - ab) az együttműködő közösség tagjainak nevét, címét és adószámát, adószám hiányában pedig egyedi azonosításra szolgáló jelét; továbbá
+- b) bemutatni azt a nyilvántartási rendszert, amely mind a maga, mind az együttműködő közösség tagjai részéről eleget tesz a (3) bekezdésnek; valamint
+- c) nyilatkozni mind a maga nevében, mind az együttműködő közösség tagjai nevében és képviseletében arról, hogy teljesítik az együttműködő közösség időszakában az (1), (3) és (4) bekezdést.
+
+(9) A (8) bekezdésben meghatározott kötelezettségek teljesítésére – ideértve az együttműködő közösség megszüntetését is – az Art. változásbejelentésre vonatkozó rendelkezéseit kell alkalmazni.
 
 ### Adó alóli mentesség a tevékenység egyéb sajátos jellegére tekintettel
 
@@ -943,41 +997,46 @@ adókötelessé teszi.
 93. § (1) Mentes az adó alól:
 
 - a) a termék importja abban az esetben, ha a termék 2. § a) pontja szerinti értékesítése szintén mentes az adó alól;
-- b) a termék 24. § (1) bekezdése szerinti importja abban az esetben, ha az a vámmentességek közösségi rendszerének létrehozásáról szóló 918/83/EGK tanácsi rendeletben (a továbbiakban: Vámmentességi-rendelet) szabályozott vámmentességi jogcímek valamelyikének alkalmazása alá tartozik az abban, valamint a közösségi vámjog végrehajtásáról szóló törvényben (a továbbiakban: Vám tv.) meghatározottak szerint, feltéve, hogy e törvény másként nem rendelkezik;
+- b) a termék 24. § (1) bekezdése szerinti importja abban az esetben, ha az a vámmentességek közösségi rendszerének létrehozásáról szóló 1186/2009/EK tanácsi rendeletben (a továbbiakban: Vámmentességi-rendelet) szabályozott vámmentességi jogcímek valamelyikének alkalmazása alá tartozik az abban, valamint a közösségi vámjog végrehajtásáról szóló törvényben (a továbbiakban: Vám tv.) meghatározottak szerint, feltéve, hogy e törvény másként nem rendelkezik;
 - c) a termék 24. § (2) bekezdése szerinti importja, feltéve, hogy arra a b) pont szerinti adómentesség vonatkozna akkor, ha a termék importja a 24. § (1) bekezdése szerint teljesülne;
 - d) a korábban a Közösség területén kívülre értékesített termék [98. § (1) bekezdése] változatlan állapotban történő importja abban az esetben, ha az vámmentesség alá tartozik, és a korábbi értékesítő, valamint az importáló személye megegyezik egymással;
 - e) a korábban a Közösség területéről ideiglenes jelleggel kivitt termék változatlan állapotban – ideértve a garanciális kötelezettségvállalás teljesítése keretében kijavított vagy kicserélt terméket is – történő importja abban az esetben, ha az vámmentesség alá tartozik, és az ideiglenes kivitelt kérő, valamint az importáló adóalany személye megegyezik egymással;
 - f) a termék diplomáciai és konzuli kapcsolatok keretében történő importja abban az esetben, ha az vámmentesség alá tartozik;
-- g) a termék importja a Magyar Köztársaság által nemzetközi szervezetként elismert szervezet vagy annak képviselete, illetőleg annak tisztviselője által a nemzetközi szervezetet létrehozó vagy a nemzetközi szervezet székhelyegyezményéről szóló – jogszabályban kihirdetett – nemzetközi szerződésben meghatározottak szerint, feltéve, hogy az előzőekben említett nemzetközi szerződés a vám és/vagy a termékek, szolgáltatások árába (díjába) rendszerint belefoglalt közvetett adók elengedéséről vagy visszatérítéséről rendelkezik;
+- g) a termék importja
+  - ga) az Európai Közösség, az Európai Atomenergia-közösség, az Európai Központi Bank, az Európai Beruházási Bank, valamint olyan szervezet által, amelyet az Európai Közösségek hozott létre, és amelyre vonatkozik az Európai Közösségek kiváltságairól és mentességeiről szóló, 1965. április 8. napján kelt jegyzőkönyv, az e jegyzőkönyvben és a végrehajtásáról vagy a szervezet székhelyegyezményéről szóló – jogszabályban kihirdetett – nemzetközi szerződésben meghatározottak szerint;
+  - gb) egyéb, a ga) alpont alá nem tartozó, a Magyar Köztársaság által nemzetközi szervezetként elismert szervezet vagy annak képviselete, illetőleg annak tisztviselője által a nemzetközi szervezetet létrehozó vagy a nemzetközi szervezet székhelyegyezményéről szóló – jogszabályban kihirdetett – nemzetközi szerződésben meghatározottak szerint, feltéve, hogy az előzőekben említett nemzetközi szerződés a vám és/vagy a termékek, szolgáltatások árába (díjába) rendszerint belefoglalt közvetett adók elengedéséről vagy visszatérítéséről rendelkezik;
 - h) a termék importja az Észak-atlanti Szerződés tagállamának fegyveres ereje által – ide nem értve a Magyar Honvédséget –, feltéve, hogy az a közös védelmi erőfeszítés keretében a fegyveres erő, illetőleg az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál;
 - i) a termék importja a Nagy-Britannia és Észak-Írország Egyesült Királysága (a továbbiakban: Egyesült Királyság) fegyveres ereje által, feltéve, hogy az a Ciprusi Köztársaság megalakulásáról, 1960. augusztus 16. napján kelt nemzetközi szerződés értelmében az Egyesült Királyság Ciprus szigetén állomásozó fegyveres erejének, illetőleg az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátásra szolgál;
 - j) a tengerből kifogott hal, egyéb halászati termék kikötőbe irányuló importja tengeri halászati vállalkozás által, abban az esetben, ha az nyers állapotban van, illetőleg olyan feldolgozáson ment keresztül, amelynek egyedüli célja az értékesítés előtti tartósítás;
 - k) az arany importja bármely állam központi bankja által;
-- l) a gáz földgázcsővezeték-hálózaton keresztüli importja;
-- m) a villamos energia importja.
+- l) a gáz
+  - la) földgázrendszeren vagy bármely más, ilyen rendszerhez kapcsolt hálózaton keresztüli vagy
+  - lb) gázszállító tartályhajóból földgázrendszerbe vagy upstream csővezeték-hálózatba [a földgáz belső piacára vonatkozó közös szabályokról és a 98/30/EK irányelv hatályon kívül helyezéséről szóló 2003/55/EK parlamenti és tanácsi irányelv 2. cikk 2. pontja] betáplált importja;
+- m) a villamos energia importja;
+- n) a hő- vagy hűtési energia hő- vagy hűtési hálózaton keresztüli importja.
 
 (2) Mentes az adó alól a szolgáltatás nyújtása abban az esetben, ha annak ellenértéke az importált termék adóalapjába a 74. §, illetőleg a 75. § (1) bekezdésének b) pontja és (2) bekezdése szerint beépül.
 
 94. § (1) Mentes az adó alól a 93. § (1) bekezdésének b) pontjában említett feltételekre is figyelemmel:
 
-- a) a Vámmentességi-rendelet I. fejezetének VII. címe alatt meghatározott egyéb feltételek szerint, az ott felsorolt termékeken túl 500 gramm kávé vagy 200 gramm kávékivonat és -eszencia, valamint 100 gramm tea vagy 40 gramm teakivonat és -eszencia importja is;
-- b) a Vámmentességi-rendelet I. fejezetének IX. címe alatt szabályozott termék importján túl a legfeljebb 6 hónapos korú telivér ló importja is, ha az olyan anyaállattól született, amelyet belföldön termékenyítettek meg, majd azt követően ellés céljából a Közösség területén kívülre adtak fel küldeményként vagy fuvaroztak el ideiglenes jelleggel;
-- c) a Vámmentességi-rendelet I. fejezetének VI. címe alatt szabályozott termék (termékek) importja is, ha annak (azok) összértéke nem haladja meg a 22 euronak megfelelő pénzösszeget;
-- d) a Vámmentességi-rendelet I. fejezet XII. címének 50. és 51. cikkében meghatározott termék importja, ha az ellenérték nélküli, vagy ha ellenérték fejében történik, de a terméket értékesítő nem adóalany személy, szervezet.
+- a) a Vámmentességi-rendelet II. címének VI. fejezete alatt meghatározott egyéb feltételek szerint, az ott felsorolt termékeken túl 500 gramm kávé vagy 200 gramm kávékivonat és -eszencia, valamint 100 gramm tea vagy 40 gramm teakivonat és -eszencia importja is;
+- b) a Vámmentességi-rendelet II. címének VIII. fejezete alatt szabályozott termék importján túl a legfeljebb 6 hónapos korú telivér ló importja is, ha az olyan anyaállattól született, amelyet belföldön termékenyítettek meg, majd azt követően ellés céljából a Közösség területén kívülre adtak fel küldeményként vagy fuvaroztak el ideiglenes jelleggel;
+- c) a Vámmentességi-rendelet II. címének V. fejezete alatt szabályozott termék (termékek) importja is, ha annak (azok) összértéke nem haladja meg a 22 euronak megfelelő pénzösszeget;
+- d) a Vámmentességi-rendelet II. cím XI. fejezetének 42. és 43. cikkében meghatározott termék importja, ha az ellenérték nélküli, vagy ha ellenérték fejében történik, de a terméket értékesítő nem adóalany személy, szervezet.
 
 (2) A 93. § (1) bekezdésének b) pontjától eltérően nem mentes az adó alól:
 
-- a) a Vámmentességi-rendelet I. fejezetének III. címe alatt szabályozott termék importja, ha az üzemanyag;
+- a) a Vámmentességi-rendelet II. címének III. fejezete alatt szabályozott termék importja, ha az üzemanyag;
 - b)
-- c) a Vámmentességi-rendelet I. fejezetének V. címe alatt szabályozott termék importja, ha az számítógép, illetőleg annak rendeltetésszerű használatához szükséges tartozék;
-- d) a Vámmentességi-rendelet I. fejezetének VIII. címe alatt szabályozott termék importja, ha az importáló adóalanyt a termék beszerzése esetében az adólevonási jog egészben vagy részben nem illetné meg;
+- c) a Vámmentességi-rendelet II. címének IV. fejezete alatt szabályozott termék importja, ha az számítógép, illetőleg annak rendeltetésszerű használatához szükséges tartozék;
+- d) a Vámmentességi-rendelet II. címének VII. fejezete alatt szabályozott termék importja, ha az importáló adóalanyt a termék beszerzése esetében az adólevonási jog egészben vagy részben nem illetné meg;
 - e)
-- f) az (1) bekezdés d) pontjában említett eltéréssel a Vámmentességi-rendelet I. fejezetének XII. címe alatt szabályozott termék importja;
-- g) a Vámmentességi-rendelet I. fejezetének XIII. címe alatt szabályozott termék importja, ha a laboratóriumi célra előkészített állat importja ellenérték fejében történik;
-- h) a Vámmentességi-rendelet I. fejezetének XIV/a. címe alatt szabályozott termék importja;
-- i) a Vámmentességi-rendelet I. fejezet XVI. cím 65. cikk (1) bekezdésének a) pontjában szabályozott termék importja, ha az ellenérték fejében történik;
-- j) a Vámmentességi-rendelet I. fejezet XVI. címének 70–72., valamint 75–78. cikkeiben szabályozott termék importja, ha az importáló maga a fogyatékos személy;
-- k) a Vámmentességi-rendelet I. fejezetének XXV. címében szabályozott termék importja, ha annak ellenértékét járulékos költségként a 74. §, illetőleg a 75. § (1) bekezdésének b) pontja és (2) bekezdése szerint megállapított adóalap nem tartalmazza.
+- f) az (1) bekezdés d) pontjában említett eltéréssel a Vámmentességi-rendelet II. címének XI. fejezete alatt szabályozott termék importja;
+- g) a Vámmentességi-rendelet II. címének XII. fejezete alatt szabályozott termék importja, ha a laboratóriumi célra előkészített állat importja ellenérték fejében történik;
+- h) a Vámmentességi-rendelet II. címének XIV. fejezete alatt szabályozott termék importja;
+- i) a Vámmentességi-rendelet II. cím XVII. fejezete 61. cikk (1) bekezdésének a) pontjában szabályozott termék importja, ha az ellenérték fejében történik;
+- j) a Vámmentességi-rendelet II. cím XVII. fejezetének 66–68., valamint 70–73. cikkeiben szabályozott termék importja, ha az importáló maga a fogyatékos személy;
+- k) a Vámmentességi-rendelet II. címének XXVI. fejezetében szabályozott termék importja, ha annak ellenértékét járulékos költségként a 74. §, illetőleg a 75. § (1) bekezdésének b) pontja és (2) bekezdése szerint megállapított adóalap nem tartalmazza.
 
 95. § (1) Mentes az adó alól a termék importja a következő feltételek együttes teljesülése esetében:
 
@@ -987,7 +1046,7 @@ adókötelessé teszi.
 - d) a terméket belföldön rendeltetésszerűen nem használják, egyéb módon nem hasznosítják;
 - e) a terméket a vámhatóság felhívására bemutatják.
 
-(2) A termék vámjogi szabad forgalomba bocsátására irányuló árunyilatkozat megtétele során megfelelő okirat (így különösen: szerződés, egyéb kereskedelmi okmány) bemutatásával valószínűsíteni kell az (1) bekezdés a) pontjában meghatározott feltétel teljesülését úgy, hogy abból kitűnjön a Közösség valamely más tagállamában adófizetésre kötelezettként nyilvántartásba vett beszerző neve, címe és az az adószáma, amely alatt e beszerzése után adót kell fizetnie e tagállam joga szerint.
+(2) A termék vámjogi szabad forgalomba bocsátására irányuló árunyilatkozat megtétele során az importálónak meg kell adnia közösségi adószámát, valamint megfelelő okirat (így különösen: szerződés, egyéb kereskedelmi okmány) bemutatásával valószínűsítenie kell az (1) bekezdés a) pontjában meghatározott feltétel teljesülését úgy, hogy abból kitűnjön a Közösség valamely más tagállamában adófizetésre kötelezettként nyilvántartásba vett beszerző neve, címe és az az adószáma, amely alatt e beszerzése után adót kell fizetnie e tagállam joga szerint.
 
 (3) Az (1) bekezdés b) pontjában említett határidő 30 nap, amelyet az importáló indokolt kérelmére a vámhatóság legfeljebb egyszer, további 30 nappal meghosszabbíthat.
 
@@ -1150,7 +1209,9 @@ adókötelessé teszi.
 107. § (1) Mentes az adó alól a termék értékesítése, szolgáltatás nyújtása abban az esetben, ha az
 
 - a) hivatalos célra a diplomáciai és a hivatásos konzuli képviselet, személyes célra pedig a diplomáciai és a hivatásos konzuli képviselet tagja részére történik, feltéve, hogy viszonosság áll fenn;
-- b) hivatalos célra a Magyar Köztársaság által nemzetközi szervezetként elismert szervezet vagy annak képviselete (a továbbiakban: nemzetközi szervezet), személyes célra pedig a nemzetközi szervezet tisztviselője részére történik a nemzetközi szervezetet létrehozó vagy a nemzetközi szervezet székhelyegyezményéről szóló – jogszabályban kihirdetett – nemzetközi szerződésben meghatározottak szerint, feltéve, hogy az előzőekben említett nemzetközi szerződés a termékek, szolgáltatások árába (díjába) rendszerint belefoglalt közvetett adók elengedéséről vagy visszatérítéséről rendelkezik;
+- b) az alábbiaknak megfelelően
+  - ba) az Európai Közösség, az Európai Atomenergia-közösség, az Európai Központi Bank, az Európai Beruházási Bank, valamint olyan szervezet részére történik, amelyet az Európai Közösségek hozott létre, és amelyre vonatkozik az Európai Közösségek kiváltságairól és mentességeiről szóló, 1965. április 8. napján kelt jegyzőkönyv, az e jegyzőkönyvben és a végrehajtásáról vagy a szervezet székhelyegyezményéről szóló – jogszabályban kihirdetett – nemzetközi szerződésben meghatározottak szerint;
+  - bb) egyéb, a ba) alpont alá nem tartozó, a Magyar Köztársaság által nemzetközi szervezetként elismert szervezet vagy képviselete hivatalos céljára, személyes célra pedig a nemzetközi szervezet vagy képviselete tisztviselőjének részére történik a nemzetközi szervezetet létrehozó vagy a nemzetközi szervezet székhelyegyezményéről szóló – jogszabályban kihirdetett – nemzetközi szerződésben meghatározottak szerint, feltéve, hogy az előzőekben említett nemzetközi szerződés a termékek, szolgáltatások árába (díjába) rendszerint belefoglalt közvetett adók elengedéséről vagy visszatérítéséről rendelkezik;
 - c) az Észak-atlanti Szerződés tagállamának belföldön állomásozó fegyveres ereje – ide nem értve a Magyar Honvédséget – részére történik, feltéve, hogy az a közös védelmi erőfeszítés keretében a fegyveres erő, illetőleg az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál;
 - d) belföldön kívül az Észak-atlanti Szerződés valamely más tagállamában állomásozó fegyveres erő részére történik, ideértve az ott állomásozó összes fegyveres erőt, de ide nem értve e tagállam saját fegyveres erejét, feltéve, hogy az a közös védelmi erőfeszítés keretében a fegyveres erő, illetőleg az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál;
 - e) az Egyesült Királyság fegyveres ereje részére történik, feltéve, hogy az a Ciprusi Köztársaság megalakulásáról, 1960. augusztus 16. napján kelt nemzetközi szerződés értelmében az Egyesült Királyság Ciprus szigetén állomásozó fegyveres erejének, illetőleg az azt kísérő polgári állomány használatára vagy éttermük, kantinjuk ellátására szolgál.
@@ -1360,10 +1421,11 @@ terhelő előzetesen felszámított adó összegének 30 százaléka.
 - b) a 124. § (1) bekezdésének d)–g) pontjaiban említett esetekben igazoltan egészben vagy túlnyomó részben úgy hasznosítja, hogy azt bérbe adja;
 - c) a 124. § (1) bekezdésének c) pontjában és (2) bekezdésének a) és b) pontjában említett esetekben igazoltan egészben vagy túlnyomó részben úgy használja, egyéb módon hasznosítja, hogy az közvetlen anyagjellegű ráfordításként a b) pontban említett szolgáltatásnyújtás adóalapjába épül be;
 - d) a 124. § (1) bekezdésének h) pontjában említett esetben igazoltan egészben vagy túlnyomó részben úgy hasznosítja, hogy azt bérbe adja, feltéve, hogy a 88. § szerinti választási jogával úgy élt, hogy a bérbeadást adókötelessé tette;
-- e) a 124. § (1) bekezdésének i) pontjában és (2) bekezdésének c) pontjában említett esetekben igazoltan egészben vagy túlnyomó részben úgy használja, egyéb módon hasznosítja, hogy az közvetlen anyagjellegű ráfordításként a d) pontban említett adóköteles szolgáltatásnyújtás adóalapjába épül be;
-- f) a 124. § (1) bekezdésének i) pontjában és (2) bekezdésének c) pontjában említett esetekben igazoltan egészben vagy túlnyomó részben úgy használja, egyéb módon hasznosítja, hogy az közvetlen anyagjellegű ráfordításként a lakóingatlan-értékesítés adóalapjába épül be azzal, hogy ha a lakóingatlan a 86. § (1) bekezdésének j) pontja alá tartozik, az értékesítő adóalanynak előzetesen élnie kell a 88. § szerinti választási jogával;
+- e) a 124. § (1) bekezdésének i) pontjában és (2) bekezdésének c) pontjában említett esetekben igazoltan egészben vagy túlnyomó részben úgy használja, egyéb módon hasznosítja, hogy az közvetlen anyagjellegű vagy értékcsökkenési leírás alapjánál figyelembe vehető ráfordításként a d) pontban említett adóköteles szolgáltatásnyújtás adóalapjába épül be;
+- f) a 124. § (1) bekezdésének i) pontjában és (2) bekezdésének c) pontjában említett esetekben igazoltan egészben vagy túlnyomó részben úgy használja, egyéb módon hasznosítja, hogy az közvetlen anyagjellegű vagy értékcsökkenési leírás alapjánál figyelembe vehető ráfordításként a lakóingatlan-értékesítés adóalapjába épül be azzal, hogy ha a lakóingatlan a 86. § (1) bekezdésének j) pontja alá tartozik, az értékesítő adóalanynak előzetesen élnie kell a 88. § szerinti választási jogával;
 - g) a 124. § (1) bekezdésének j) és k) pontjában említett esetekben igazoltan egészben vagy túlnyomó részben úgy használja, egyéb módon hasznosítja, hogy az közvetlen anyagjellegű ráfordításként más termékértékesítés, szolgáltatásnyújtás adóalapjába épül be;
-- h) a 124. § (2) bekezdésének e) és f) pontjában említett esetekben igazoltan az általa üzemben tartott, 3,5 tonnát meghaladó legnagyobb össztömegű szárazföldi közlekedési eszköz üzemeltetése érdekében hasznosítja.
+- h) a 124. § (2) bekezdésének e) és f) pontjában említett esetekben igazoltan az általa üzemben tartott, 3,5 tonnát meghaladó legnagyobb össztömegű szárazföldi közlekedési eszköz üzemeltetése érdekében hasznosítja;
+- i) a 124. § (1) bekezdésének a) pontjában említett esetben – a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 800/2008/EK bizottsági rendelet (HL L 214/3., 2008. 8.9.) 30. cikkének 4. pontjában meghatározott kísérleti fejlesztés keretében – igazoltan a környezetet jobban kímélő motorokkal kapcsolatos technológiai fejlesztéshez használja fel.
 
 126. § (1) A 125. §-ban említett igazolási kötelezettség különösen olyan elkülönített nyilvántartás alkalmazását igényli az adóalanytól, amely alkalmas az adólevonási jog korlátozása alóli mentesülés – ott meghatározott – feltételeinek egyértelmű, megbízható és folyamatos követésére.
 
@@ -1509,7 +1571,8 @@ fizeti, feltéve, hogy a szolgáltatást nyújtó adóalany belföldön gazdasá
 - d) a 6. számú mellékletben felsorolt termékek értékesítése esetében;
 - e) a 86. § (1) bekezdésének j) és k) pontja alá tartozó termékértékesítés esetében, ha az értékesítő adóalany élt a 88. §-ban említett választási jogával;
 - f) az adós és hitelező viszonylatában olyan termék értékesítése esetében, amely dologi biztosítékként lejárt követelés kielégítésének érvényesítésére irányul;
-- g) a vállalkozásban tárgyi eszközként használt termék és egyéb, a teljesítésekor szokásos piaci árát tekintve 100 000 forintnak megfelelő pénzösszeget meghaladó termék értékesítése esetében, ha az értékesítő adóalany felszámolási vagy bármely más, fizetésképtelenségét jogerősen megállapító eljárás hatálya alatt áll.
+- g) a vállalkozásban tárgyi eszközként használt termék értékesítése, valamint egyéb, a teljesítésekor a szokásos piaci árat tekintve 100 000 forintnak megfelelő pénzösszeget meghaladó termékértékesítés, szolgáltatásnyújtás esetében, ha a teljesítésre kötelezett adóalany felszámolási vagy bármely más, fizetésképtelenségét jogerősen megállapító eljárás hatálya alatt áll;
+- h) üvegházhatású gáz kibocsátására jogosító forgalomképes vagyoni értékű jog (kibocsátási egység) átruházása esetében.
 
 (2) Az (1) bekezdés f) és g) pontja szerinti ingatlanértékesítésre az (1) bekezdés e) pontjában meghatározottaknak is teljesülniük kell.
 
@@ -1847,7 +1910,7 @@ ugyanannak a személynek, szervezetnek több, számlakibocsátásra jogalapot te
 (2) A számla egyszerűsített adattartalma azt jelenti, hogy
 
 - a) az (1) bekezdés a) és b) pontjában említett esetben a 169. §-ban felsorolt adatok közül a h) pontban megjelölt helyett az ellenérték adót is tartalmazó összege, valamint az i) pontban megjelölt helyett az alkalmazott adómértéknek megfelelő, a 83. § szerint meghatározott százalékérték feltüntetése kötelező azzal, hogy egyúttal a j) pontban megjelölt adat nem tüntethető fel;
-- b) az (1) bekezdés c) pontjában említett esetben a 169. §-ban felsorolt adatok közül csak az a)–c), e) és f) pontokban megjelöltek kitöltése, továbbá a h) pontban megjelölt helyett az ellenérték pénzben kifejezett összege, valamint a k) pontban megjelölt helyett az „Áfa-törvény területi hatályán kívül” kifejezés feltüntetése kötelező.
+- b) az (1) bekezdés c) pontjában említett esetben a 169. §-ban felsorolt adatok közül csak az a)–f) pontokban megjelöltek kitöltése, továbbá a h) pontban megjelölt helyett az ellenérték pénzben kifejezett összege, valamint a k) pontban megjelölt helyett az „Áfa-törvény területi hatályán kívül” kifejezés feltüntetése kötelező.
 
 (3) Az egyszerűsített adattartalmú számlára a számla adattartalmára vonatkozó egyéb rendelkezéseket e §-sal összhangban kell alkalmazni.
 
@@ -2137,20 +2200,19 @@ tünteti fel.
 
 - a) utazásszervezési szolgáltatás: adóalany által – saját nevében – utasnak nyújtott olyan, jellegadó tartalma alapján egészben vagy meghatározó részben turisztikai szolgáltatás, amelynek teljesítéséhez saját nevében, de az utas javára megrendelten, más adóalany vagy adóalanyok (e fejezet alkalmazásában a továbbiakban együtt: más adóalany) által teljesített szolgáltatásnyújtás, termékértékesítés (így különösen: személyszállítás, szálláshely-szolgáltatás, ellátás és idegenvezetés) szükséges;
 - b) utazásszervező: az utazásszervezési szolgáltatást nyújtó adóalany;
-- c) utas: az, aki (amely) az utazásszervezési szolgáltatást
+- c) utas: az utazásszervezőnek tett nyilatkozata alapján az az ügyfél, aki (amely) a szolgáltatást
   - ca) nem adóalanyként vagy nem adóalanyi minőségében, illetőleg
-  - cb) egyéb, a ca) alpont alá nem tartozó esetekben pedig a saját nevében és javára
-
-veszi igénybe, és erről a teljesítést megelőzően az utazásszervezőnek nyilatkozik;
-
+  - cb) egyéb, a ca) alpont alá nem tartozó esetekben pedig a saját nevében és javára veszi igénybe;
 - d) önálló pozíciószám: olyan – külön nyilvántartott – utazásszervezési szolgáltatásokat foglal magában, amelyek azonos földrajzi területre (helyszínre) irányulnak, azonos tartalmúak és színvonalukat tekintve azonos minőségűek.
 
-(2) Az egyéb feltételek teljesülésének sérelme nélkül szintén utazásszervezési szolgáltatás az is,
+(2) Az utazásszervező köteles ügyfelét a teljesítést megelőzően nyilatkozattételre felhívni, és annak keretében nyilatkoztatni arról, hogy a szolgáltatást utasként vagy nem utasként kívánja igénybe venni.
+
+(3) Az egyéb feltételek teljesülésének sérelme nélkül szintén utazásszervezési szolgáltatás az is,
 
 - a) amelynek időtartama nem haladja meg a 24 órát, illetőleg
 - b) amely éjszakai szálláshelyadást nem tartalmaz.
 
-(3) E fejezet rendelkezései nem alkalmazhatók az utazásközvetítő tevékenységére, aki (amely) az utazásszervező megbízásából és annak nevében köt megállapodást az utassal.
+(4) E fejezet rendelkezései nem alkalmazhatók az utazásközvetítő tevékenységére, aki (amely) az utazásszervező megbízásából és annak nevében köt megállapodást az utassal.
 
 207. § Az utazásszervezési szolgáltatás egyetlenegy szolgáltatás nyújtásának tekintendő.
 
@@ -2168,7 +2230,7 @@ veszi igénybe, és erről a teljesítést megelőzően az utazásszervezőnek n
 
 210. § (1) Utazásszervezési szolgáltatás nyújtása esetében az adó alapja az utazásszervező árrése.
 
-(2) Az árrés az a pénzben kifejezett különbözet, amelynél a kisebbítendő tag az utas által megtérített vagy megtérítendő, pénzben kifejezett – adó nélkül számított – ellenérték, a kivonandó tag pedig az utazásszervezési szolgáltatás teljesítéséhez szükséges, a 206. § (1) bekezdésének a) pontjában említett, más adóalany által teljesített szolgáltatásnyújtás, termékértékesítés megtérített vagy megtérítendő, pénzben kifejezett – adót is tartalmazó – együttes ellenértéke (e fejezet alkalmazásában a továbbiakban: egyedi nyilvántartáson alapuló módszer).
+(2) Az árrés az a pénzben kifejezett különbözet, amelynél a kisebbítendő tag az utas által megtérített vagy megtérítendő, pénzben kifejezett – adó nélkül számított – ellenérték, a kivonandó tag pedig az utazásszervezési szolgáltatás teljesítéséhez szükséges, a 206. § (1) bekezdésének a) pontjában említett, más adóalany által teljesített szolgáltatásnyújtás, termékértékesítés megtérített vagy megtérítendő, pénzben kifejezett – adóval számított – együttes ellenértéke (e fejezet alkalmazásában a továbbiakban: egyedi nyilvántartáson alapuló módszer).
 
 (3) Abban az esetben, ha a (2) bekezdés szerinti számítás eredményeként a különbözet nem pozitív előjelű, árrésként nulla érték veendő figyelembe.
 
@@ -2180,7 +2242,7 @@ veszi igénybe, és erről a teljesítést megelőzően az utazásszervezőnek n
 
 ### Előzetesen felszámított adó levonása
 
-212. § Az utazásszervezési szolgáltatás teljesítéséhez szükséges, a 206. § (1) bekezdésének a) pontjában említett, más adóalany által teljesített szolgáltatásnyújtáshoz, termékértékesítéshez kapcsolódóan az utazásszervezőre áthárított adóra – mint előzetesen felszámított adóra – az adóalany adólevonási jogot nem alapíthat.
+212. § Az utazásszervezési szolgáltatás teljesítéséhez szükséges, a 206. § (1) bekezdésének a) pontjában említett, más adóalany által teljesített szolgáltatásnyújtáshoz, termékértékesítéshez kapcsolódóan megállapított adóra – mint előzetesen felszámított adóra – az utazásszervező adólevonási jogot nem alapíthat.
 
 ### Önálló pozíciószámonkénti nyilvántartáson alapuló módszer a fizetendő adó megállapítására
 
@@ -2505,7 +2567,7 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 
 (3) Az (1) és (2) bekezdés nem alkalmazandó a 203. § szerint megállapított előzetesen felszámított adóra. Ebben az esetben az adó-visszatéríttetési jog egészében illeti meg a belföldön nem letelepedett adóalanyt.
 
-249. § (1) Az adó-visszatéríttetési jog érvényesítése a belföldön nem letelepedett adóalany erre irányuló, az állami adóhatóság jogszabályban kijelölt szervéhez (e fejezet alkalmazásában a továbbiakban: állami adóhatóság) címzett írásos kérelmére történik (a továbbiakban: adó-visszatéríttetési kérelem).
+249. § (1) Az adó-visszatéríttetési jog érvényesítése a belföldön nem letelepedett adóalany erre irányuló, az állami adóhatóság jogszabályban kijelölt szervéhez címzett írásos kérelmére történik (a továbbiakban: adó-visszatéríttetési kérelem).
 
 (2) A Közösség más tagállamában letelepedett adóalany esetében az adó-visszatéríttetési jog érvényesítésének feltétele, hogy adó-visszatéríttetési kérelme a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottérték-adóvisszatérítés részletes szabályainak megállapításáról szóló 2008/9/EK tanácsi irányelv (a továbbiakban: Héavisszatérítési-irányelv) rendelkezéseit átültető tagállami jogszabálynak megfelelően az állami adóhatóság rendelkezésére álljon.
 
@@ -2672,6 +2734,17 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
   - ba) alanyi adómentességben részesül;
   - bb) mezőgazdasági tevékenységet folytatóként jár el.
 
+### Adóvisszatérítés kérelemre
+
+257/A. § (1) Külföldi illetőségű adományozótól származó pénzbeni adomány, segély (a továbbiakban együtt: adomány) esetében, ha annak kedvezményezettje igazoltan a 85. § (4) bekezdés b)–f) pontjában felsorolt személyek, szervezetek valamelyike, az állami adóhatóság – a kedvezményezett írásos kérelmére – visszatéríti a termék beszerzéséhez, szolgáltatás igénybevételéhez kapcsolódóan rá áthárított és az ellenérték részeként megtérített, illetőleg az általa fizetendő adóként is megállapított előzetesen felszámított adót, feltéve, hogy
+
+- a) a termék beszerzése, szolgáltatás igénybevétele a kedvezményezett alapszabályában (alapító okiratában) megjelölt olyan tevékenységnek, feladatnak ellátását szolgálja, amely a közhasznú szervezetekről szóló törvény alapján közhasznú tevékenység vagy kiemelkedően közhasznú besorolást megalapozó közfeladat, egyházi személynek, szervezetnek minősülő kedvezményezett esetében pedig a külön törvényben meghatározott feltételeknek megfelelő tevékenység,
+- b) az adományozó az adomány összegét – az adóügyi illetősége szerinti állam joga szerint – a vonatkozó adózási rendelkezésekkel összhangban számolta el,
+- c) az adományozó az adomány felhasználását kifejezetten ahhoz a feltételhez köti, hogy a kedvezményezettet mentesíteni kell a termékek, szolgáltatások árába (díjába) belefoglalt adó viselése alól, és
+- d) a kedvezményezettet az adólevonási jog egészben vagy részben nem illeti meg.
+
+(2) Az adó-visszatéríttetési jog legfeljebb olyan hányadban illeti meg a kedvezményezettet, amilyen hányadban az (1) bekezdés a) pontjában meghatározott tevékenység, feladat ellátását szolgáló kiadásokból az adomány összege részesedik.
+
 ### XXI. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
 
 258. § (1) A Közösség tagállamaiban az e törvényben használt „adó” kifejezés jelentését a 9. számú melléklet tartalmazza.
@@ -2722,7 +2795,7 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 - 14. pénz: a névértéken elfogadott pénz;
 - 15. pénzhelyettesítő eszköz: utalvány, egyéb fizetési megbízás vagy ígérvény – ide nem értve a pénzt és a készpénz-helyettesítő fizetési eszközt –, ha azzal a kötelezett pénztartozást térít meg, feltéve, hogy annak jogosult általi elfogadásával a jogosult eredeti pénzkövetelése a kötelezettel szemben megszűnik;
 - 16. pénzügyi eszköz: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott pénzügyi eszköz, kivéve azt a pénzügyi eszközt, amelynek megszerzése egyúttal az abban megjelölt termék tulajdonjogának megszerzését is jelenti;
-- 17. rádiós és televíziós műsorszolgáltatások: a nyilvánosság számára vételre szánt, megszerkesztett rádió-, illetőleg televízió-műsornak a műsorszolgáltató általi előállítása, elektronikus jelek formájában való megjelenítése és a felhasználó vevőkészülékéhez történő továbbítása vagy továbbjuttatása;
+- 17. rádiós és audiovizuális médiaszolgáltatások: a nyilvánosság számára vételre szánt, megszerkesztett rádió-, illetőleg televízió-műsornak a médiaszolgáltató általi előállítása, elektronikus jelek formájában való megjelenítése és a felhasználó vevőkészülékéhez történő továbbítása vagy továbbjuttatása;
 - 18. sorozat jelleg: ha 2 naptári éven belül negyedik vagy további építési telket (telekrészt) és/vagy beépítés alatt álló, illetőleg beépített új ingatlant értékesítenek, valamint a rá következő 3 naptári éven belül további építési telket (telekrészt) és/vagy beépítés alatt álló, illetőleg beépített új ingatlant értékesítenek azzal, hogy ha olyan építési telket (telekrészt) és/vagy beépítés alatt álló, illetőleg beépített új ingatlant értékesítenek,
   - a) amely tulajdon kisajátításának tárgyát képezi, vagy
   - b) amelynek szerzése az értékesítőnél – az illetékekről szóló törvény alapján – öröklési illeték tárgyát képezte,
@@ -2749,7 +2822,7 @@ az az előzőekben említett darabszámba beleszámít ugyan, de önmagában nem
 
 260. § (1) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy rendeletben állapítsa meg
 
-- a) az adó-visszatéríttetési jog gyakorlásához fűződő, a közhasznú tevékenységet folytató személyt, szervezetet [100. § (2) bekezdése] terhelő igazolási kötelezettségeket, az adó-visszatéríttetési kérelmek kötelező adattartalmát, valamint az utólagos adó-visszatéríttetés eljárási szabályait;
+- a) az adó-visszatéríttetési jog gyakorlásához fűződő, a közhasznú tevékenységet folytató személyt, szervezetet [100. § (2) bekezdése], továbbá a külföldi illetőségű adományozót és a tőle származó pénzbeni adomány kedvezményezettjét [257/A. §] terhelő igazolási kötelezettségeket, valamint az adó-visszatéríttetési kérelmek kötelező adattartalmát és az utólagos adóvisszatérítés egyes eljárási szabályait;
 - b) a Közösség más tagállamában [244. § (2) bekezdésének a) pontja] és az elismert harmadik államban [244. § (2) bekezdésének b) pontja] letelepedett adóalanyra, valamint a 200. § (3) bekezdésében említett nem adóalany jogi személyre vonatkozó adó-visszatéríttetési kérelem kötelező adattartalmát, formátumát és kitöltésének módját, továbbá az elismert harmadik államban letelepedett adóalanyt és a 200. § (3) bekezdésében említett nem adóalany jogi személyt terhelő igazolási kötelezettségeket;
 - c) a számla és a nyugta kiállításának módjára, ideértve a nyugtakibocsátási kötelezettség kötelező gépi kiállítással történő megállapítását is, valamint a számla és a nyugta adóigazgatási azonosítására vonatkozó szabályokat.
 
@@ -2844,7 +2917,11 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
   - gc) a Tanács 2008/8/EK irányelve (2008. február 12.) a 2006/112/EK irányelvnek a szolgáltatásnyújtás teljesítési helye tekintetében történő módosításáról;
   - gd) a Tanács 2008/117/EK irányelve (2008. december 16.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a Közösségen belüli ügyletekkel kapcsolatos adócsalás elleni küzdelem érdekében történő módosításáról;
   - ge) a Tanács 2009/47/EK irányelve (2009. május 5.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a hozzáadottérték-adó kedvezményes mértéke tekintetében történő módosításáról;
-- h) a Tanács 2008/9/EK irányelve (2008. február 12.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottérték-adóvisszatérítés részletes szabályainak megállapításáról.
+  - gf) a Tanács 2009/69/EK irányelve (2009. június 25.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek az importtal kapcsolatos adócsalás tekintetében történő módosításáról;
+  - gg) a Tanács 2009/162/EU irányelve (2009. december 22.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelv különböző rendelkezéseinek módosításáról;
+  - gh) a Tanács 2010/23/EU irányelve (2010. március 16.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a fordított adózási mechanizmus bizonyos csalásra alkalmas szolgáltatásokra vonatkozó választható és ideiglenes alkalmazása tekintetében történő módosításáról;
+- h) a Tanács 2008/9/EK irányelve (2008. február 12.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról, valamint annak a következő irányelvvel történt módosítása:
+  - ha) a Tanács 2010/66/EU irányelve (2010. október 14.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról szóló 2008/9/EK irányelv módosításáról.
 
 ### Átmeneti rendelkezések
 
@@ -2859,6 +2936,12 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 (5) Az a személy, szervezet, akinél (amelynél) külön törvény rendelkezései alapján köthető koncessziós szerződés keretében átengedhető vagyont, vagyoni értékű jogot, tevékenység gyakorlásának lehetőségét olyan beruházás hozza létre, amelyhez kapcsolódó – 2004. január 1. és 2007. december 31. közötti időszakban teljesített – beszerzésekre jutó előzetesen felszámított adó tekintetében az Áfa tv. előírásai alapján adólevonási jog nem állt fenn, az így le nem vont előzetesen felszámított adó tekintetében utólag – e törvénynek az adó levonására vonatkozó előírásainak figyelembevételével – adólevonási joggal élhet, feltéve, hogy a beruházással létrejövő vagyon, vagyoni értékű jog, tevékenység gyakorlásának átengedése, hasznosítása e törvény rendelkezései szerint adófizetési kötelezettséget keletkeztet. Az adólevonási jog akkor keletkezik, amikor a beruházással létrejövő vagyon, vagyoni értékű jog, tevékenység gyakorlásának átengedése után a fizetendő adót – e törvény rendelkezései szerint – meg kell állapítani. Az adólevonási jog kizárólag úgy gyakorolható, hogy az utólag levonható előzetesen felszámított adóként figyelembe vehető összeg adott adómegállapítási időszakban nem haladhatja meg az ugyanezen adómegállapítási időszakban – a beruházással létrejövő vagyon, vagyoni értékű jog, tevékenység gyakorlásának átengedése után – megállapított fizetendő adó összegét.
 
 (6) E törvény hatálybalépésével egyidejűleg az Áfa tv. előírásai szerinti önálló pozíciószámonként számított árrést alkalmazó adóalany az adott pozíciószám alá eső utak árrés számítását 2007. december 31. napján köteles lezárni, és az így megállapított adót bevallásába beállítani. Az előbbiek szerint megfizetett adó az e törvény hatálybalépését követően beérkezett szolgáltatói számlák figyelembevételével korrigálható.
+
+270. § (1) Az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010 . évi CXXIII. törvénnyel (a továbbiakban: Mód1. törvény) módosított 206. § (1) bekezdés c) pontját és a Mód1. törvénnyel megállapított 206. § (2) bekezdését azokban az esetekben kell alkalmazni először, amelyekben az utazásszervezőnek fizetett előleg jóváírása, kézhezvétele, előlegfizetés hiányában pedig az utazásszervezési szolgáltatás teljesítése 2011 . január 1-jére vagy azt követő napra esik.
+
+(2) A Mód1. törvénnyel megállapított 257/A. §-t azokban az esetekben kell alkalmazni először, amelyekben a pénzbeni adomány, segély felhasználása 2011. január 1-jén vagy azt követően beszerzett termék, igénybe vett szolgáltatás érdekében történik.
+
+(3) A 3. számú melléklet I. részének a Mód1. törvénnyel megállapított 18. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2011. január 1-jére vagy azt követő napra esik.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -2901,7 +2984,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 - 10. Kereskedelmi jellegű hirdetési- és reklámszolgáltatások nyújtása
 - 11. Utazás szervezése
 - 12. Munkahelyi és egyéb vendéglátás
-- 13. Rádiós és televíziós műsorszolgáltatások keretében végzett kereskedelmi jellegű tevékenység
+- 13. Rádiós és audiovizuális médiaszolgáltatások keretében végzett kereskedelmi jellegű tevékenység
 
 ### 3. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -2928,6 +3011,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 | 15. | Könyv | 4901-ből 4903 |
 | 16. | Napilap (hetenként legalább négyszer megjelenő kiadvány); Egyéb újság, folyóirat (évente legalább egyszer megjelenő kiadvány) | 4902 |
 | 17. | Kotta | 4904 |
+| 18. | A 15. és 17. pontban meghatározott termékek bármely más fizikai adathordozón reprodukált formája |  |
 
 #### II. rész: szolgálatások
 
@@ -3105,6 +3189,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 | 26. | Nemesfém- és nemesfémmel platírozott fémhulladék és -törmelék; más nemesfémet vagy nemesfémvegyületet tartalmazó hulladék és törmelék, elsősorban nemesfém visszanyeréséhez | 7112 |
 | 27. | Szemcse és por nyersvasból, tükörvasból, vasból vagy acélból | 7205 |
 | 28. | Használt vagy új rongy, zsineg-, kötél-, hajókötél-hulladék és használt textiláru zsinegből, kötélből vagy hajókötélből | 6310 |
+| 29. | Használt primer cella, primer elem és elektromos akkumulátor, ezeknek hulladéka; kimerült primer elem és kimerült elektromos akkumulátor | 8548 10 |
 
 ### 7. számú melléklet a 2007. évi CXXVII. törvényhez
 

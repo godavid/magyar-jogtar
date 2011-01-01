@@ -57,7 +57,7 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 - n) életmentő beavatkozás: sürgős szükség esetén a beteg életének megmentésére irányuló egészségügyi tevékenység;
 - o) életfenntartó beavatkozás: a beteg életének mesterséges módon történő fenntartására, illetve egyes életműködéseinek pótlására irányuló egészségügyi tevékenység;
 - p) egészségügyi dokumentáció: az egészségügyi szolgáltatás során az egészségügyi dolgozó tudomására jutó, a beteg kezelésével kapcsolatos egészségügyi és személyazonosító adatokat tartalmazó feljegyzés, nyilvántartás vagy bármilyen más módon rögzített adat, függetlenül annak hordozójától vagy formájától;
-- q) egészségügyi szakképesítés: az adott egészségügyi tevékenység folytatására jogosító, Magyarországon szerzett, valamint a külföldön szerzett és Magyarországon honosított, illetve elismert, alap-, közép-, emeltszintű, illetve felsőfokú szakképzés keretében megszerzett szakképesítés, valamint felsőoktatási alap- vagy mesterképzés keretében megszerzett végzettség és szakképzettség, továbbá egészségügyi szakirányú szakmai továbbképzés, egészségügyi szakirányú szakmai képzés, egészségügyi felsőfokú szakirányú szakmai képzés során megszerzett képzettség;
+- q) egészségügyi szakképesítés: az adott egészségügyi tevékenység folytatására jogosító, Magyarországon szerzett, valamint a külföldön szerzett és Magyarországon honosított, illetve elismert, alap-, közép-, emeltszintű, illetve felsőfokú szakképzés keretében megszerzett szakképesítés, valamint felsőoktatási alap-, mester- vagy egységes osztatlan képzés keretében megszerzett végzettség és szakképzettség, továbbá egészségügyi szakirányú szakmai képzés, egészségügyi felsőfokú szakirányú szakmai képzés során megszerzett képzettség;
 - r) közeli hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó, a mostoha- és a nevelőszülő, a testvér, valamint az élettárs;
 - s) magyar állampolgár: a magyar állampolgársággal, illetve külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), a letelepedett, valamint a bevándorolt jogállású személy, továbbá a külön jogszabály értelmében menekültnek minősülő személy;
 - t) korlátozottan cselekvőképes beteg: akit a bíróság a Ptk. rendelkezéseinek megfelelően általános jelleggel vagy az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében cselekvőképességet korlátozó gondnokság alá helyezett, valamint az a kiskorú személy, aki a tizennegyedik életévét már betöltötte és nem cselekvőképtelen. Az ilyen személy egészségügyi ellátással kapcsolatos jognyilatkozataira – ha törvény kivételt nem tesz – a Ptk.-ban foglalt szabályok irányadóak;
@@ -199,7 +199,7 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 
 (7) A tájékoztatáshoz fűződő jogok gyakorlásához szükséges feltételeket a fenntartó biztosítja.
 
-(8) A betegnek joga van arra, hogy számára érthető módon kapjon tájékoztatást, figyelemmel életkorára, iskolázottságára, ismereteire, lelkiállapotára, e tekintetben megfogalmazott kívánságára, valamint arra, hogy a tájékoztatáshoz szükség esetén és lehetőség szerint tolmácsot vagy jeltolmácsot biztosítsanak.
+(8) A betegnek joga van arra, hogy számára érthető módon kapjon tájékoztatást, figyelemmel életkorára, iskolázottságára, ismereteire, lelkiállapotára, e tekintetben megfogalmazott kívánságára, valamint arra, hogy a tájékoztatáshoz szükség esetén és lehetőség szerint tolmácsot vagy jelnyelvi tolmácsot biztosítsanak.
 
 (9) Az orvos a vizsgálatot megelőzően köteles a beteget – amennyiben állapota lehetővé teszi – arról tájékoztatni, hogy a vizsgálat és az azt követő ellátás térítési díját meg kell téríteni, ha a vizsgálat eredménye szerint sürgős szükség nem áll fenn és az ellátás költségének fedezete a központi költségvetésben és az Egészségbiztosítási Alapon keresztül sincs biztosítva.
 
@@ -1338,13 +1338,13 @@ egészségügyi elbírálása, illetőleg véleményezése.
 
 110. § (1) Egészségügyi tevékenység – folytatásának formájától és módjától függetlenül – e törvény és külön törvény rendelkezéseire figyelemmel önállóan vagy felügyelet mellett végezhető.
 
-(2) Egészségügyi tevékenységet önállóan – külön törvényben foglaltakra is figyelemmel – az adott tevékenység folytatására jogosító egészségügyi szakképesítéssel rendelkező és az adott szakképesítés tekintetében a kötelező továbbképzési kötelezettségét teljesített, a működési nyilvántartásba bejegyzett személy végezhet. Az önállóan végzett egészségügyi tevékenység – a (4) és (10) bekezdésben foglalt kivételekkel – az arra feljogosító szakképesítésnek a működési nyilvántartásba történő bejegyzésétől kezdhető meg.
+(2) Egészségügyi tevékenységet önállóan – külön törvényben foglaltakra is figyelemmel – az adott tevékenység folytatására jogosító egészségügyi szakképesítéssel rendelkező és az adott szakképesítés tekintetében a kötelező továbbképzési kötelezettségét teljesített vagy a továbbképzési kötelezettség teljesítése alól e törvény szerint mentesült, a működési nyilvántartásba bejegyzett személy végezhet. Az önállóan végzett egészségügyi tevékenység – a (4) és (10) bekezdésben foglalt kivételekkel – az arra feljogosító szakképesítésnek a működési nyilvántartásba történő bejegyzésétől kezdhető meg.
 
 (3) A (2) bekezdés szerinti feltételekkel rendelkező személy felügyelete mellett – a (25) bekezdésben foglalt eltéréssel – végezhet egészségügyi tevékenységet az a személy,
 
 - a) aki a szakképesítése megszerzéséhez szükséges képzésben vesz részt,
-- b) akit a működési nyilvántartásból a 113. § (1) bekezdése alapján töröltek, a törlés okának megszűnését vagy megszüntetését követően, a működési nyilvántartásba történő visszakerülése érdekében, az ahhoz szükséges ideig,
-- c) aki a 113. § (7) bekezdés szerinti kiegészítő gyakorlati képzésben vesz részt, vagy
+- b) akit a működési nyilvántartásból a 113/A. § (1) bekezdése alapján töröltek, a törlés okának megszűnését vagy megszüntetését követően, a működési nyilvántartásba történő visszakerülése érdekében, az ahhoz szükséges ideig,
+- c) aki a 113/A. § (2) bekezdés szerinti kiegészítő gyakorlati képzésben vesz részt, vagy
 - d) aki külön törvény szerint, megfelelő szakképesítés nélkül az egészségügyi tevékenység végzésében közreműködik.
 
 (4) A működési nyilvántartásban nem szereplő, Magyarországon elismerhető egészségügyi szakképesítéssel rendelkező személy részére – betegellátási érdekből vagy a kérelmező megfelelő szakmai ismeretének megszerzése érdekében, indokolt esetben – a kormányrendeletben meghatározott hatóság a szakképesítésnek megfelelő tevékenységre, meghatározott időtartamra és helyszínre (munkahelyre) szóló tevékenységre jogosító engedélyt adhat ki, a kormányrendeletben foglalt eljárási rend szerint. A tevékenységre jogosító engedély kiadásának feltétele, hogy a kérelmező hitelt érdemlő módon igazolja, hogy a korábbi, rendszeresen végzett egészségügyi tevékenységének helye szerinti utolsó, ennek hiányában az állampolgársága szerint illetékes állam jogszabályai alapján nem áll az egészségügyi tevékenység gyakorlását kizáró vagy korlátozó intézkedés, büntetés, illetőleg büntetőjogi intézkedés hatálya alatt, és megfelel a tevékenység végzéséhez külön jogszabály szerint előírt egészségügyi alkalmassági feltételeknek. Az engedélyezett egészségügyi tevékenység végzéséhez a szakképesítést igazoló bizonyítvány vagy oklevél tényleges elismerése nem szükséges.
@@ -1385,7 +1385,7 @@ ha nem gazdasági célú letelepedés mellett kíván e törvény hatálya alá 
 
 (14) A kormányrendeletben meghatározott hatóság a (10) bekezdés szerinti eljárásban a nyilvántartásba vételt elutasítja, ha a bejelentő a működési nyilvántartásba a 113. § (1) bekezdés d), illetve e) pontjai alapján nem lehetne felvehető, vagy a nyilvántartásból törölni kellene.
 
-(15) A (3) bekezdés szerint felügyeletet ellátó személy köteles a felügyeleti tevékenység ellátását legkésőbb annak megkezdésétől számított 10 munkanapon belül a felügyelt személy 112. § (4) bekezdése a), f) és m) pontjára vonatkozó adataival együtt bejelenteni a működési nyilvántartást vezető szervnek. A felügyelet során a felügyeletet ellátó személy a felügyelt személy által önállóan nem végezhető szakmai tevékenységért teljes felelősséggel tartozik. A felügyeletet ellátó személy a felügyeleti tevékenység ellátásáért a külön jogszabályban meghatározott továbbképzési pontokra jogosult.
+(15) A (3) bekezdésben foglaltak alapján felügyelet mellett tevékenységet végző személy köteles ezt a tényt legkésőbb a felügyelet mellett végzett tevékenység megkezdésétől számított tizenöt napon belül a 112. § (4) bekezdés a), f) és m) pontja szerinti adataival együtt bejelenteni a működési nyilvántartást vezető szervnek. A felügyelet során a felügyeletet ellátó személy a felügyelt személy által önállóan nem végezhető szakmai tevékenységért teljes felelősséggel tartozik. A felügyeletet ellátó személy a felügyeleti tevékenység ellátásáért az egészségügyi dolgozók továbbképzéséről szóló miniszteri rendeletek szerinti továbbképzési pontokra jogosult.
 
 (16) A működési nyilvántartást vezető szerv
 
@@ -1411,7 +1411,7 @@ kell alkalmazni.
 
 (22) A (17) bekezdés szerinti elismerési eljárást kérelmezőnek az eljárásért a kérelem benyújtásakor hatályos, jogszabályban megszabott kötelező legkisebb munkabér háromnegyedének megfelelő összeget kell eljárási díjként befizetnie az elismerő hatóságként eljáró egészségügyi államigazgatási szerv számlájára.
 
-(23) Amennyiben a Magyarországon gazdasági céllal nem letelepedett, egészségügyi tevékenységet végző, a szabad mozgás és tartózkodás jogával rendelkező személlyel kapcsolatban olyan adat jut a kormányrendeletben meghatározott szerv tudomására, amely egyébként a 113. § (1) bekezdésének b)–d) pontja szerint a működési nyilvántartásból való törlést vonná maga után, a kormányrendeletben meghatározott szerv tájékoztatja a letelepedés szerinti EGT-államnak, illetve annak az EGT-államnak a hatáskörrel rendelkező hatóságát, amelynek területén az adott személy gazdasági célú letelepedéssel nem járó tevékenységet kíván végezni.
+(23) Amennyiben a Magyarországon gazdasági céllal nem letelepedett, egészségügyi tevékenységet végző, a szabad mozgás és tartózkodás jogával rendelkező személlyel kapcsolatban olyan adat jut a kormányrendeletben meghatározott szerv tudomására, amely egyébként a 113/A. § (1) bekezdésének b)–d) pontja szerint a működési nyilvántartásból való törlést vonná maga után, a kormányrendeletben meghatározott szerv tájékoztatja a letelepedés szerinti EGT-államnak, illetve annak az EGT-államnak a hatáskörrel rendelkező hatóságát, amelynek területén az adott személy gazdasági célú letelepedéssel nem járó tevékenységet kíván végezni.
 
 (24) Az (1) bekezdés szerinti szakképesítését a szakképesítés szerinti egészségügyi tevékenység végzése során, illetve azzal összefüggésben a tevékenységet végző köteles erre irányuló külön kérelem vagy felhívás nélkül megismerhetővé tenni.
 
@@ -1431,100 +1431,62 @@ kell alkalmazni.
 
 ### Az egészségügyi szakképesítést szerzett személyek alapnyilvántartása
 
-111. § (1) Azt a személyt, aki Magyarországon az állam által elismert oktatási intézményben szerzett vagy külföldön szerzett és Magyarországon honosított, vagy elismert egészségügyi szakképesítéssel rendelkezik, az oklevél, illetve bizonyítvány megszerzését követően alapnyilvántartásba kell venni.
+111. § (1) Az egészségügyi dolgozók alapnyilvántartásáról szóló miniszteri rendeletben foglalt egészségügyi szakképesítéseket az oklevél vagy bizonyítvány megszerzését, illetve magyarországi honosítását vagy elismerését követően alapnyilvántartásba kell venni.
 
 (2) Az alapnyilvántartás célja a megszerzett szakképesítés közhiteles tanúsítása.
 
 (3) Az alapnyilvántartás az alábbi adatokat tartalmazza:
 
 - a) a szakképesítést szerzett neme, természetes személyazonosító adatai, állampolgársága, lakóhelye és tartózkodási helye;
-- b) a megszerzett szakképesítés megnevezése, az erről kiállított oklevél, bizonyítvány száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése.
+- b) a megszerzett szakképesítés megnevezése, az erről kiállított oklevél, bizonyítvány száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése;
+- c) az egészségügyi dolgozó alapnyilvántartási száma.
 
-(4) A (3) bekezdésben megjelölt adatokat az oktatási intézmény a bizonyítvány, illetve az oklevél, a külföldi bizonyítványok és oklevelek által tanúsított egészségügyi szakképesítés elismerésére jogosult hatóság az elismerő határozat kiadását követő 30 napon belül bejelenti az alapnyilvántartást vezető szervnek.
+(4) A (3) bekezdés a) pontjából az egészségügyi dolgozó neve, a (3) bekezdés b) pontjából az egészségügyi dolgozó által megszerzett szakképesítés megnevezése és a (3) bekezdés c) pontja bárki számára megismerhető adat.
 
 (5) Az alapnyilvántartás vezetéséről – a szakképesítés szintjeinek megfelelően – az egészségügyi államigazgatási szerv gondoskodik.
 
-(6) A (3) bekezdés a) pontja szerinti adatokban bekövetkezett változást az alapnyilvántartásban szereplő személy az alapnyilvántartást vezető szervnek a változást követő 30 napon belül bejelenti. A bejelentéshez mellékelni kell az adatváltozást igazoló eredeti okiratot vagy annak hiteles másolatát.
+(6)
 
 ### Az egészségügyi dolgozók működési nyilvántartása
 
 112. § (1) Azt a személyt, aki az e törvényben foglalt feltételeknek megfelel, kérelmére működési nyilvántartásba kell venni.
 
-(2) A működési nyilvántartás célja az egészségügyi dolgozók (4) bekezdés szerinti adatainak közhiteles tanúsítása.
+(2) A működési nyilvántartás célja az egészségügyi dolgozók (4) bekezdés szerinti adatainak közhiteles tanúsítása. A működési nyilvántartást az egészségügyi államigazgatási szerv vezeti és e körben jogosult a (4) bekezdés szerinti adatok kezelésére.
 
 (3) Nem vehető fel a működési nyilvántartásba az,
 
 - a) aki nem szerepel az alapnyilvántartásban,
 - b) aki a (4) bekezdés a) pontjában foglalt adatok közlését megtagadja,
-- c) aki – jogszabályban meghatározott esetekben – a megfelelő szakmai nyelvismeret meglétét, vagy aki a (7) bekezdés esetében a továbbképzési kötelezettsége teljesítését nem igazolja,
-- d) akit nyilvántartásba vétele esetén a 113. § (1) bekezdés b)–d) pontjai alapján a nyilvántartásból törölni kellene,
-- e) akit a működési nyilvántartásból a 113. § (1) bekezdés e), illetve g) pontjai alapján töröltek, a törléstől számított egy évig,
-- f) akit a működési nyilvántartásból a 113. § (1) bekezdés f) pontja alapján töröltek, a továbbképzés elvégzésének igazolásáig,
-- g) aki a 113. § (4) bekezdése szerinti nyilatkozattételi kötelezettségét nem teljesíti,
-- h) aki a 112/B. § (3) bekezdésében foglalt hozzájárulást nem adja meg.
+- c) aki – jogszabályban meghatározott esetekben – a megfelelő szakmai nyelvismeret meglétét, vagy aki a 113. § (6) bekezdés esetében a továbbképzési kötelezettsége teljesítését nem igazolja,
+- d) akit nyilvántartásba vétele esetén a 113/A. § (1) bekezdés b)–d) pontjai alapján a nyilvántartásból törölni kellene,
+- e) akit a működési nyilvántartásból a 113/A. § (1) bekezdés e)–f) pontjai alapján töröltek, a törléstől számított egy évig,
+- f) akit a működési nyilvántartásból a 113/A. § (1) bekezdés a) pontja alapján töröltek, a továbbképzés elvégzésének igazolásáig,
+- g) aki a 113. § (5) bekezdése szerinti nyilatkozattételi kötelezettségét nem teljesíti,
+- h) aki a 112/A. § (3) bekezdésében foglalt hozzájárulást nem adja meg,
+- i) aki a 112/A. § (1) bekezdés szerinti igazolási kötelezettségét nem teljesíti.
 
 (4) A működési nyilvántartás az alábbi adatokat tartalmazza:
 
 - a) az egészségügyi dolgozó neme, természetes személyazonosító adatai, lakóhelye és tartózkodási helye, állampolgársága,
-- b) a megszerzett egészségügyi ágazati szakmai képzések megnevezése, az erről kiállított bizonyítvány vagy oklevél száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése, a képzés nyelve,
-- c) a jogszabály által előírt továbbképzés(ek) elvégzésének időpontja(i) és az egyes elvégzett továbbképzésért járó pontérték az adott szakképesítés(ek) tekintetében, valamint a megújítás időpontja,
+- b) a 115. § (2) bekezdés a), b) és d) pontja szerinti egészségügyi ágazati szakmai képzések keretében megszerzett szakképesítések megnevezése, az erről kiállított bizonyítvány vagy oklevél száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése, a képzés nyelve,
+- c) a működési nyilvántartási ciklus megújításának és lejártának időpontja, valamint az egészségügyi dolgozó által megszerzett és a működési nyilvántartásban szereplő valamennyi szakképesítés és szakképzettség tekintetében fennálló, e törvény és jogszabály szerinti továbbképzési kötelezettség teljesítése vagy továbbképzési kötelezettség alóli mentesülés ténye,
 - d) idegen nyelv vagy nyelvek ismeretének szintje, típusa, az arról kiállított bizonyítvány vagy azzal egyenértékű okirat száma, kiállításának helye és ideje, a kiállító szerv megnevezése, valamint az e törvényben meghatározott esetben az igazolt magyar nyelvismeret alapján végezhető tevékenységi kör megjelölése,
 - e) a korlátozott alkalmasság ténye,
 - f) a munkahely, illetve a munkavégzésre irányuló egyéb jogviszony alapján történő egészségügyi tevékenységvégzés helye, megnevezése, címe, a szakterület megnevezése, amely területen az egészségügyi dolgozó munkát végez, a munkavégzésre irányuló jogviszony jellege,
 - g) a működési nyilvántartás meghosszabbításának kezdő, befejező dátuma, a meghosszabbítás alapjául szolgáló, az egészségügyi tevékenység szüneteltetésének oka, kezdő, befejező dátuma,
 - h) a tudományos fokozat,
 - i) az egészségügyi dolgozó szakmai kamarai tagságának ténye, a tagság kezdete és megszűnése,
-- j) az egészségügyi dolgozóval szemben az e törvény szerinti eljárás keretében kiszabott jogerős büntetés ténye a büntetést kiszabó határozat jogerőre emelkedése napjának megjelölésével együtt,
+- j) az egészségügyi dolgozóval szemben etikai eljárás keretében kiszabott jogerős büntetés ténye a büntetést kiszabó határozat jogerőre emelkedése napjának megjelölésével együtt,
 - k) az egészségügyi dolgozó alap- és működési nyilvántartási száma,
 - l) a külföldi munkavégzés helye, időtartama,
 - m) a felügyelet melletti tevékenységgyakorlás kezdete és időtartama, a felügyeletet ellátó személy neve, működési nyilvántartási száma,
 - n) a 110. § (16) bekezdés b) pontja szerint kapott, az egészségügyi dolgozó külföldi tevékenységvégzési jogosultágát érintő adat.
 
-(5) Az egészségügyi dolgozó a (4) bekezdés szerinti adatokat – a (4) bekezdés n) pontja szerinti adat kivételével – a nyilvántartásba vételi kérelemmel egyidejűleg jelenti be. Az egészségügyi dolgozó a (4) bekezdés a)–g) és k)–m) pontok szerinti adatokban bekövetkezett változást – a (6) bekezdésben foglalt kivétellel – a változás bekövetkezésétől számított 30 napon belül köteles bejelenteni.
+(5) A (4) bekezdés b)–c), e)–f) és k) pontja, továbbá a) pontjából az egészségügyi dolgozó neve bárki számára megismerhető adat.
 
-(6) Hivatalból – az a)–e) pontok szerinti adatok keletkezését, változását követő 30 napon belül – értesíti a működési nyilvántartást vezető szervet
+(6) A működési nyilvántartást vezető szerv a (4) bekezdés j) pontja szerinti adatot a határozat jogerőre emelkedésétől számított két év után, az n) pont szerinti adatot az adat beérkezésétől számított két év után a nyilvántartásból hivatalból törli.
 
-- a) az Egészségügyi Szakképzési és Továbbképzési Tanács a szakvizsgát tett személyekről,
-- b) a külön jogszabályban meghatározott továbbképző helynek minősülő intézmény a (4) bekezdés c) pontja szerinti továbbképzések elvégzéséről, továbbá a 104. §-ban meghatározott nem konvencionális eljárások körébe tartozó szakképesítés megszerzéséről,
-- c) a külföldi bizonyítvány vagy oklevél által tanúsított szakirányú egészségügyi szakképesítés és az egészségügyi tudományterületen szerzett tudományos fokozat elismerésére, illetve a honosításra jogosult hatóság az elismerésről, illetve a honosításról,
-- d) az illetékes szakmai kamara a (4) bekezdés i) pontja szerinti adatokról,
-- e) a 140/B. §-ban meghatározott, jogerős határozatot hozó etikai bizottság a (4) bekezdés j) pontja szerinti tényekről.
-
-(7) Az az egészségügyi dolgozó, aki a működési nyilvántartásba való felvételét
-
-- a) első alkalommal kéri, és a 111. § (1) bekezdés szerinti szakképesítése megszerzésének, illetve külön jogszabály szerinti magyarországi elismerésének vagy honosításának napja óta több mint 8 év eltelt,
-- b) a nyilvántartásból való törlését követően kéri, a külön jogszabály szerinti, a működési nyilvántartás megújításához szükséges továbbképzési kötelezettség teljesítésére vonatkozó feltételek szerint annyi továbbképzési pont igazolására köteles, amennyi egyébként a működési nyilvántartás megújításához szükséges.
-
-(8) A (7) bekezdés b) pontja szerinti esetben az egészségügyi dolgozónak a törlést közvetlenül megelőző működési nyilvántartási időszakban megszerzett továbbképzési pontjai a nyilvántartás lejárta napját követő 8 éven belül a (7) bekezdés szerinti továbbképzési kötelezettség teljesítésébe beszámítandók.
-
-(9) A (4) bekezdés b)–d), f) és k) pontjai, továbbá a) pontjából az egészségügyi dolgozó neve bárki számára megismerhető adat.
-
-(10) Az egészségügyi dolgozó működési nyilvántartásának időtartama öt év, amely megújítható vagy meghosszabbítható. A működési nyilvántartás ötéves időtartama a nyilvántartott személy kérelmére
-
-- a) újabb ötéves időtartamokra megújítható vagy
-- b) egy alkalommal az egészségügyi tevékenység végzésének Magyarországon vagy az EGT valamely más tagállamában történő szüneteltetésének időtartamára, de legfeljebb három évre meghosszabbítható, a 112/A. § (3) bekezdésében foglalt eltéréssel.
-
-(11) A működési nyilvántartást vezető szerv – a nyilvántartásba vételt kizáró ok hiányában – a nyilvántartást megújítja.
-
-(12)
-
-(13) A működési nyilvántartást vezető szerv a (4) bekezdés j) pontja szerinti adatot a határozat jogerőre emelkedésétől számított két év után, az n) pont szerinti adatot az adat beérkezésétől számított két év után a nyilvántartásból hivatalból törli.
-
-(14) A működési nyilvántartást vezető szerv a nyilvántartásba vételt követően az egészségügyi dolgozó természetes személyazonosító adatait, a szakképesítésének megnevezését, az oklevelének, bizonyítványának számát, az alapnyilvántartási és a működési nyilvántartási számát, valamint az esetleges korlátozott alkalmasságának tényét tartalmazó hatósági igazolványt állít ki.
-
-(15) A működési nyilvántartást vezető szerv az orvos, fogorvos egészségügyi dolgozó működési nyilvántartásból való törlésének tényéről, valamint az orvosok, fogorvosok (4) bekezdés a), b) és e)–g) pontja szerinti adatairól a működési nyilvántartásból való törlést vagy az abba történő felvételt követő naptári hónap során, továbbá az ezen adatokban bekövetkezett változásokról havi rendszerességgel – külön törvény szerinti hatósági ellenőrzés elvégzése céljából – elektronikus úton tájékoztatást nyújt az egészségbiztosítási szerv részére.
-
-112/A. § (1) A 112. § (10) bekezdés a) pontja szerinti megújításra vonatkozó kérelmet a működési nyilvántartás lejáratának napjáig lehet benyújtani. A 112. § (10) bekezdés b) pontja szerinti meghosszabbítás iránti kérelmet a szüneteltetés tényének igazolásával együtt, annak megkezdése előtt, de legkésőbb a szüneteltetés megkezdésétől számított 5 munkanapon belül kell benyújtani.
-
-(2) Az (1) bekezdésben foglaltaktól eltérően az előre nem tervezhető események – különösen súlyos betegség, baleset – miatti szüneteltetés esetén a meghosszabbítás iránti kérelem előterjesztésére – a szüneteltetés tényének igazolásával együtt – az esemény bekövetkeztét követően 90 napig van lehetőség.
-
-(3) A 112. § (10) bekezdésében foglaltaktól eltérően, ha a nyilvántartott személy a külön jogszabályban meghatározott közfeladat ellátása miatt szünetelteti az egészségügyi tevékenységet, abban az esetben kérelmére a közfeladat ellátásának teljes idejével hosszabbodik meg a működési nyilvántartás időtartama.
-
-(4) A meghosszabbítás iránti kérelem – az (1) és (2) bekezdésben foglaltak figyelembevételével – a működési nyilvántartás lejárta napját követően nem nyújtható be, akkor sem, ha az (1) vagy a (2) bekezdés szerinti határidő még nem telt el.
-
-(5) A szüneteltetésre okot adó körülmény megszűnését a működési nyilvántartásban szereplő személy 30 napon belül köteles bejelenteni.
-
-112/B. § (1) A működési nyilvántartásba történő bejegyzés iránti kérelem benyújtásával egyidejűleg az egészségügyi dolgozó hatósági bizonyítvánnyal igazolja azt a tényt, hogy nem áll jogerősen kiszabott, 1 évet meghaladó végrehajtandó szabadságvesztés és az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a működési nyilvántartást vezető szerv részére – annak a működési nyilvántartásba történő bejegyzés iránti kérelme elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a működési nyilvántartást vezető szerv a (2) bekezdésben meghatározott adatokat igényelhet a bűnügyi nyilvántartó szervtől.
+112/A. § (1) A működési nyilvántartásba történő bejegyzés iránti kérelem benyújtásával egyidejűleg az egészségügyi dolgozó hatósági bizonyítvánnyal igazolja azt a tényt, hogy nem áll jogerősen kiszabott, 1 évet meghaladó végrehajtandó szabadságvesztés és az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a működési nyilvántartást vezető szerv részére – annak a működési nyilvántartásba történő bejegyzés iránti kérelme elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a működési nyilvántartást vezető szerv a (2) bekezdésben meghatározott adatokat igényelhet a bűnügyi nyilvántartó szervtől.
 
 (2) A működési nyilvántartást vezető szerv az érvényes működési nyilvántartással rendelkező egészségügyi dolgozó tekintetében a működési nyilvántartás érvényességi ideje alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a működési nyilvántartásba vett személy nem áll jogerősen kiszabott, 1 évet meghaladó végrehajtandó szabadságvesztés és az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a működési nyilvántartást vezető szerv adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag arra irányulhat, hogy a működési nyilvántartásba vett személy 1 évet meghaladó végrehajtandó szabadságvesztés és az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
@@ -1535,72 +1497,81 @@ kell alkalmazni.
 - a) a működési nyilvántartásba történő bejegyzés iránti eljárás jogerős befejezéséig, vagy
 - b) a (2) bekezdés szerinti hatósági ellenőrzés időtartamára, vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
-113. § (1) A működési nyilvántartásból a nyilvántartást vezető szerv törli azt a személyt
+(5) A működési nyilvántartást vezető szerv a nyilvántartásba vételt, valamint a megújítást követően az egészségügyi dolgozó természetes személyazonosító adatait, a szakképesítésének, szakképesítéseinek, szakképzettségének vagy szakképzettségeinek megnevezését, az oklevelének, bizonyítványának számát, az alapnyilvántartási és a működési nyilvántartási számát, a működési nyilvántartásának lejárati dátumát, valamint az esetleges korlátozott alkalmasságának tényét tartalmazó hatósági igazolványt állít ki.
 
-- a) aki a 112/A. § szerint nyilvántartását az ott meghatározott határidőben nem újította meg, vagy működési nyilvántartása lejárt és meghosszabbítási kérelmét jogerősen elutasították,
-- b) aki 1 évet meghaladó végrehajtandó szabadságvesztést kimondó, illetve foglalkozása gyakorlásától eltiltó jogerős bírósági határozat hatálya alatt áll,
-- c) akit egészségi állapota következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység folytatására véglegesen alkalmatlanná nyilvánított,
-- d) akit belátási képessége csökkenése következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység gyakorlásától eltiltott,
-- e) aki felróható magatartásával a működési nyilvántartást vezető szervvel a nyilvántartás körébe tartozó valótlan adatot közöl,
-- f) aki a 112. § (3) bekezdésének c) pontja szerinti továbbképzési kötelezettsége teljesítését a működési nyilvántartása időtartamának lejárta előtt, vagy legkésőbb a 113. § (5) bekezdés szerinti felhívásra nem igazolja,
-- g) aki szakirányú szakképesítéshez kötött tevékenységet – ha jogszabály eltérően nem rendelkezik – a megfelelő szakképesítés, illetve szakirányú szakképesítés működési nyilvántartásba történő bejelentése nélkül vagy azt megelőzően kezd meg,
-- h) aki elhalálozott,
-- i) aki a törlését kéri.
+112/B. §
 
-(2) Az (1) bekezdés c)–d) pontjai esetében az alkalmatlanságot megállapító szerv határozatát közli a működési nyilvántartást vezető szervvel.
+113. § (1) Az egészségügyi dolgozó működési nyilvántartásának időtartama öt év, amely a nyilvántartott személy kérelmére megújítható vagy meghosszabbítható.
 
-(3) Az elhalálozást az egészségügyi szolgáltató, illetve az egészségügyi államigazgatási szerv jelenti a működési nyilvántartást vezető szervnek.
+(2) A működési nyilvántartás ötéves időtartama akkor újítható meg, ha
 
-(4) A működési nyilvántartásba vételre, megújításra, illetve meghosszabbításra vonatkozó feltételek fennállása esetén az egészségügyi dolgozó a működési nyilvántartásba akkor vehető fel, működési nyilvántartása akkor újítható vagy hosszabbítható meg, ha írásban nyilatkozik arról, hogy Magyarországon kívül egészségügyi tevékenységet
+- a) a nyilvántartott személy e törvényben és jogszabályban foglaltak szerint teljesítette továbbképzési kötelezettségét vagy mentesül a továbbképzési kötelezettségteljesítés alól, és ezt a működési nyilvántartást vezető szerv részére igazolja, valamint
+- b) nyilvántartásba vételt kizáró ok nem áll fenn.
+
+(3) A működési nyilvántartás egy alkalommal, jogszabályban foglalt feltételekkel, az egészségügyi tevékenység végzésének Magyarországon vagy az EGT valamely más tagállamában történő szüneteltetésének időtartamára, de legfeljebb három évre meghosszabbítható, a (4) bekezdésben foglalt eltéréssel.
+
+(4) A (3) bekezdésben foglaltaktól eltérően, ha a nyilvántartott személy jogszabályban meghatározott közfeladat ellátása miatt szünetelteti az egészségügyi tevékenységet, a működési nyilvántartást a közfeladat ellátásának időtartamával, de legfeljebb öt évvel lehet meghosszabbítani, jogszabályban foglaltak szerint.
+
+(5) A működési nyilvántartásba vételre, megújításra, illetve meghosszabbításra vonatkozó feltételek fennállása esetén az egészségügyi dolgozó a működési nyilvántartásba akkor vehető fel, működési nyilvántartása akkor újítható vagy hosszabbítható meg, ha írásban nyilatkozik arról, hogy Magyarországon kívül egészségügyi tevékenységet
 
 - a) végzett vagy végez, és az egészségügyi tevékenység végzésének helye szerinti állam(ok) jogszabályai alapján nem áll az egészségügyi tevékenység gyakorlását kizáró vagy korlátozó intézkedés, büntetés, illetőleg büntetőjogi intézkedés hatálya alatt,
 - b) nem végzett és nem végez.
 
-(5) A működési nyilvántartást vezető szerv a működési nyilvántartás megújítására nyitva álló határidő lejárta előtt 60 nappal írásban, az egészségügyi államigazgatási szerv és – ha az egészségügyi dolgozó munkáltatója ismert – a munkáltató egyidejű értesítése mellett értesíti az egészségügyi dolgozót a működési nyilvántartása lejártáról és felhívja az egészségügyi dolgozót a továbbképzési kötelezettségének határidőben történő igazolására. A felhívást – ha az egészségügyi dolgozó eddig az időpontig továbbképzési kötelezettsége teljesítését nem igazolta – az első felhívás kézbesítését követő 30 nap elteltével meg kell ismételni. A felhívások eredménytelensége esetén a második felhívás kézbesítését követő 30. napon az egészségügyi dolgozót a működési nyilvántartásból törölni kell.
+(6) Az az egészségügyi dolgozó, aki a működési nyilvántartásba való felvételét
 
-(6)
+- a) első alkalommal kéri, és az egészségügyi szakképesítése megszerzésének, illetve jogszabály szerinti magyarországi elismerésének vagy honosításának napja óta több mint 8 év eltelt, vagy
+- b) a nyilvántartásból való törlését követően kéri, e törvény, valamint jogszabály szerinti, a működési nyilvántartás megújításához szükséges továbbképzési kötelezettség teljesítésére vonatkozó feltételek szerint annyi továbbképzési pont igazolására köteles, amennyi egyébként a működési nyilvántartás megújításához szükséges, kivéve azon személyeket, akik e törvény alapján mentesülnek a továbbképzési kötelezettség teljesítése alól.
 
-(7) Az (1) bekezdés f) pontjában foglalt esetben, külön jogszabály szerinti időpontig nem törölhető a működési nyilvántartásból az az egészségügyi dolgozó, aki legkésőbb a törlés időpontjáig a nyilvántartást vezető szervnek bejelenti, hogy a nyilvántartásból való törlés elkerülése érdekében a külön jogszabály szerinti kiegészítő gyakorlati továbbképzésben részt vesz.
+113/A. § (1) A működési nyilvántartásból a nyilvántartást vezető szerv – a (2) bekezdésben foglalt eltéréssel – törli azt a személyt
 
-(8) A működési nyilvántartást vezető szerv minden év április 1-jéig a megelőző évben bekövetkezett adatváltozások egyeztetése céljából a 112. § (4) bekezdés a) pontjában, valamint a 113. § (1) bekezdés h) pontjában szereplő adatok tekintetében a személyiadat- és lakcímnyilvántartást vezető hatóságot megkeresi. A megkeresett hatóság az adategyeztetés során köteles együttműködni és a szükséges adatokat a működési nyilvántartást vezető szerv rendelkezésére bocsátani.
+- a) aki nyilvántartását e törvényben és jogszabályban foglalt módon és határidőben nem újította meg, vagy működési nyilvántartása lejárt és meghosszabbítási kérelmét jogerősen elutasították,
+- b) aki 1 évet meghaladó végrehajtandó szabadságvesztést kimondó, illetve foglalkozása gyakorlásától eltiltó jogerős bírósági határozat hatálya alatt áll,
+- c) akit egészségi állapota következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység folytatására véglegesen alkalmatlanná nyilvánított,
+- d) akit belátási képessége csökkenése következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység gyakorlásától eltiltott,
+- e) aki felróható magatartásával a működési nyilvántartást vezető szervvel a nyilvántartás körébe tartozó valótlan adatot közöl,
+- f) aki szakirányú szakképesítéshez kötött tevékenységet – ha jogszabály eltérően nem rendelkezik – a megfelelő szakképesítés, illetve szakirányú szakképesítés működési nyilvántartásba történő bejelentése nélkül vagy azt megelőzően kezd meg,
+- g) aki elhalálozott,
+- h) aki a törlését kéri.
 
-113/A. § Az egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
+(2) Ha az egészségügyi dolgozó működési nyilvántartását azért nem újította meg, mert az egészségügyi dolgozók továbbképzéséről szóló jogszabályok szerinti gyakorlati továbbképzési kötelezettségét nem tudta teljesíteni, nem törölhető a működési nyilvántartásból, amennyiben legkésőbb a törlés időpontjáig a nyilvántartást vezető szervnek igazolja, hogy a nyilvántartásból való törlés elkerülése érdekében az egészségügyi dolgozók továbbképzéséről szóló jogszabályok szerinti kiegészítő gyakorlati továbbképzésben részt vesz. A kiegészítő gyakorlati képzést az igazolás beérkezését követő naptól számított egy éven belül kell teljesíteni.
+
+113/B. § Az egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért igazgatási szolgáltatási díjat kell fizetni.
 
 ### Egységes ágazati humánerőforrás-monitoringrendszer
 
 114. § (1) Az egészségügyi ágazati humánerőforrás nyomon követése céljából egységes egészségügyi ágazati humánerőforrás-monitoringrendszer működik, amely ellátja a (2) bekezdésben, valamint a külön jogszabályban meghatározott feladatokat.
 
-(2) Az egységes egészségügyi ágazati humánerőforrás- monitoringrendszert működtető egészségügyi államigazgatási szerv
+(2) Az egységes egészségügyi ágazati humánerőforrás-monitoringrendszert működtető egészségügyi államigazgatási szerv
 
-- a) az egészségügyi dolgozók nemére és születési évszámára vonatkozó adatokat,
-- b) a 112. § (4) bekezdés b), c), e) és g) pontjában meghatározott adatokat,
-- c) a 112. § (4) bekezdés d) pontjából idegen nyelvenként a nyelvismeret legmagasabb szintjére és típusára vonatkozó adatokat,
-- d) a 112. § (4) bekezdés f) pontja szerinti adatok közül a munkahely, illetve a munkavégzésre irányuló egyéb jogviszony alapján történő egészségügyi tevékenységvégzés helyének kistérség szerinti megjelölését és a szakterület megnevezését, amely területen az egészségügyi dolgozó munkát végez, továbbá a munkavégzésre irányuló jogviszony jellegére utaló adatot,
+- a) a 112. § (4) bekezdés a)–c), e), g) és j)–l) pontjai szerinti adatokat,
+- b) a 112. § (4) bekezdés d) pontjából idegen nyelvenként a nyelvismeret legmagasabb szintjére és típusára vonatkozó adatokat,
+- c) a 112. § (4) bekezdés f) pontja szerinti adatokat, továbbá az egészségügyi tevékenységvégzés helyének kistérség szerinti megjelölését,
+- d) az adott évben orvos- és egészségtudomány képzési területen alapképzésre, mesterképzésre és egységes, osztatlan képzésre felvettek számára vonatkozó adatokat szakok szerinti megoszlásban,
 - e) az adott évben egészségügyi felsőfokú szakirányú szakképzésre felvettek számára, a megszerezni kívánt szakképesítés szerinti megoszlásban, valamint a szakvizsgát tett személyek számára szakképesítés szerinti megoszlásban vonatkozó adatokat,
-- f) az e) pontban nem említett, az adott évben egyes egészségügyi szakképzésre felvettek, valamint az egészségügyi szakképesítést szerzettek számára és szakképesítés szerinti megoszlására, az adott évben szervezett továbbképzések típusára, az azon részt vettek számára vonatkozó adatokat,
+- f) a d) és e) pontokban nem említett, az adott évben egyes egészségügyi szakképzésre felvettek, valamint az egészségügyi szakképesítést szerzettek számára és szakképesítés szerinti megoszlására, az adott évben szervezett továbbképzések típusára, az azon részt vettek számára vonatkozó adatokat,
 - g) az oklevelét külföldön elismertetni szándékozó személy részére az elismertetéshez szükséges hatósági bizonyítvány kiállítására irányuló eljárásában a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság, vagy – a 110/A. § (1) bekezdése szerinti feladatkörében – az egészségügyi államigazgatási szerv tudomására jutott adatok közül a kérelmező célországára, szakképesítésére, valamint azon személyek számára vonatkozó adatokat, akik részére ilyen célból hatósági bizonyítvány került kiállításra,
 - h) az egészségügyi ágazati munkaerőigényre vonatkozó adatokat foglalkozások szerinti bontásban,
 - i) engedélyezett és nyilvántartásba vett gyógyszerismertetői tevékenységet végző egészségügyi szakképesítéssel rendelkező személyek számára és szakképesítésére vonatkozó adatokat,
-- j) az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítéshez kapcsolódó bér- és létszám-statisztikai adatokat
-
-(3) bekezdésben meghatározott módon kezeli, feldolgozza és azok alapján elemzi, értékeli az egészségügyi ágazatban dolgozók munkaerő-piaci, foglalkoztatási helyzetét, részt vesz – különös figyelemmel az ellátási szükségletekhez igazodó humánerőforrási feltételek megteremtésének követelményére – a képzési, mobilitási programok irányának meghatározásában, valamint az egységes egészségügyi ágazati humánerőforrás stratégiai javaslat kidolgozásában, beleértve az életpályamodell és a kapcsolódó szolgáltatási koncepció kidolgozását is.
+- j) az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítéshez kapcsolódó bér- és létszám-statisztikai adatokat, valamint az egészségügyi állás- és létszámkimutatásra vonatkozó adatokat,
+- k) az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról vezetett országos adatbázis adatai alapján a jogszabály szerinti szolgáltatókra vonatkozó adatokat, valamint a szolgáltató közreműködőinek a 112. § (4) bekezdés k) pontja szerinti azonosítóját,
+- l) a betegforgalmi adatokra vonatkozó statisztikai adatokat a (3) bekezdésben meghatározott módon kezeli, feldolgozza és azok alapján elemzi, értékeli az egészségügyi ágazatban dolgozók munkaerő-piaci, foglalkoztatási helyzetét, részt vesz – különös figyelemmel az ellátási szükségletekhez igazodó humánerőforrási feltételek megteremtésének követelményére – a képzési, mobilitási programok irányának meghatározásában, valamint az egységes egészségügyi ágazati humánerőforrás stratégiai javaslat kidolgozásában, beleértve az életpályamodell és a kapcsolódó szolgáltatási koncepció kidolgozását is.
 
 (3) A (2) bekezdés szerinti szervnek
 
 - a) személyazonosításra alkalmas módon továbbítja
-  - aa) a (2) bekezdés a) pontja szerinti adatokat az alapnyilvántartást vezető szerv,
-  - ab) a (2) bekezdés b)–d) pontja szerinti adatokat a működési nyilvántartást vezető szerv,
-  - ac) a (2) bekezdés e) pontja szerinti adatokat az Egészségügyi Szakképzési és Továbbképzési Tanács,
-  - ad) a (2) bekezdés g) pontja szerinti adatokat a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság, vagy – a 110/A. § (1) bekezdése szerinti feladatkörében – az egészségügyi államigazgatási szerv,
-  - ae) a (2) bekezdés i) pontja szerinti adatokat az egészségügyi államigazgatási szerv;
+  - aa) a (2) bekezdés a)–c) pontja szerinti adatokat a működési nyilvántartást vezető szerv,
+  - ab) a (2) bekezdés e) pontja szerinti adatokat közül a szakvizsgát tett személyek számára vonatkozó adatokat az Egészségügyi Szakképzési és Továbbképzési Tanács,
+  - ac) a (2) bekezdés g) pontja szerinti adatokat a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság, vagy – a 110/A. § (1) bekezdése szerinti feladatkörében – az egészségügyi államigazgatási szerv,
+  - ad) a (2) bekezdés i) és k) pontja szerinti adatokat az egészségügyi államigazgatási szerv;
 - b) személyazonosításra alkalmatlan módon továbbítja
-  - ba) a (2) bekezdés f) pontja szerinti adatokat a 116. § (3) bekezdés szerinti intézmények,
+  - ba) a (2) bekezdés d) és f) pontja szerinti adatokat, valamint a (2) bekezdés e) pontja szerinti adatok közül egészségügyi felsőfokú szakirányú szakképzésre felvettek számára vonatkozó adatokat az orvos- és egészségtudomány képzést folytató felsőoktatási intézmények,
   - bb) a (2) bekezdés h) pontja szerinti adatokat az állami foglalkoztatási szerv és a kormányzati személyügyi szolgáltató,
-  - bc) a (2) bekezdés j) pontja szerinti adatokat a hivatalos statisztikai szolgálat.
+  - bc) a (2) bekezdés j) pontja szerinti adatokat a hivatalos statisztikai szolgálat,
+  - bd) a (2) bekezdés l) pontja szerinti adatokat az egészségbiztosítási államigazgatási szerv.
 
 (4) Az egységes ágazati humánerőforrás-monitoring végrehajtása érdekében a (2) bekezdésben meghatározott szerv a (2) bekezdésben meghatározottakon kívül jogosult a hatósági, ellenőrzési és gazdasági tevékenységgel járó, továbbá a nyilvános és közhitelű nyilvántartások vezetésével összefüggő adatgyűjtést végző szervtől a rendelkezésre álló adatokat egyedi azonosításra alkalmatlan módon átvenni. Ezen adatok átadása céljából megkeresett szervek a megkeresésben foglaltak szerinti adatokat térítésmentesen kötelesek átadni.
 
-(5) A (3) bekezdés szerinti szerv az ott meghatározottak szerinti adatokat a külön jogszabályban meghatározott határidőben, illetve gyakorisággal, de legalább évente egyszer a naptári év végét követő 14 napon belül, a (2) bekezdés j) pontja tekintetében a külön jogszabály szerinti adatközlési határidőt követő 30 napon belül, a (2) bekezdés h) pontja tekintetében havonta térítésmentesen továbbítja a (2) bekezdés szerinti szervnek.
+(5) A (3) bekezdés szerinti szerv az ott meghatározottak szerinti adatokat a jogszabályban meghatározott határidőben, illetve gyakorisággal, de legalább évente egyszer a naptári év végét követő 14 napon belül, a (2) bekezdés j) pontja tekintetében a jogszabály szerinti adatközlési határidőt követő 30 napon belül, a (2) bekezdés h) és k) pontja tekintetében havonta térítésmentesen továbbítja a (2) bekezdés szerinti szervnek.
 
 (6) Az egységes egészségügyi ágazati humánerőforrás-monitoringrendszert működtető egészségügyi államigazgatási szerv részére egyes kérelemre lefolytatott – nem közfeladat ellátása érdekében történő adatszolgáltatás iránti vagy a monitoringrendszer adattartalmának egyedi feldolgozását igénylő kérelem teljesítésére irányuló – eljárásaiért az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
@@ -1624,7 +1595,7 @@ kell alkalmazni.
 
 (3) A képzési idő legalább 12, legfeljebb 36 hónap. Az egészségügyi szakirányú szakmai képzés vizsgával zárul, amelynek sikeres letételéről a vizsgáztatásra miniszter által feljogosított szerv szakmai képesítést tanúsító bizonyítványt állít ki.
 
-116/A. § (1) Az egészségügyi felsőfokú szakirányú szakmai képzésben szakorvos, szakfogorvos, szakgyógyszerész szakterületen az vehet részt, aki a külön jogszabályban meghatározottak szerint a felsőoktatási mesterképzésben orvos, fogorvos, gyógyszerész szakképzettséget szerzett, egészségügyi szolgáltatónál meghatározott munkakörben munkavégzésre irányuló jogviszonyban áll, és külön jogszabályban meghatározott rendszerbevételi eljárás során felvételt nyert.
+116/A. § (1) Az egészségügyi felsőfokú szakirányú szakmai képzésben szakorvos, szakfogorvos, szakgyógyszerész szakterületen az vehet részt, aki az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben meghatározottak szerint a felsőfokú végzettségi szintenként mesterfokozatot és orvos, fogorvos, gyógyszerész szakképzettséget szerzett és egészségügyi szolgáltatónál meghatározott munkakörben munkavégzésre irányuló jogviszonyban áll.
 
 (2) Minden olyan szakterületen, amely nem tartozik a (1) bekezdésben felsoroltak közé, az egészségügyi felsőfokú szakirányú szakmai képzésben az vehet részt, aki a felsőoktatási mesterképzésben külön jogszabályban meghatározottak szerinti szakképzettséget szerzett és egészségügyi szolgáltatónál meghatározott munkakörben munkavégzésre irányuló jogviszonyban áll, továbbá megfelel az adott felsőfokú szakirányú szakmai képzéshez szükséges külön jogszabály szerinti részvételi követelményeknek.
 
@@ -1632,36 +1603,13 @@ kell alkalmazni.
 
 116/B. § (1) Az egészségügyi ellátás megfelelő szakmai színvonalának biztosítása érdekében – a megszerzett ismeretek és készségek folyamatos szinten tartása, fejlesztése érdekében, a tudomány korszerű színvonalának és az egészségügyi ellátás igényeinek megfelelően – az egészségügyi tevékenységet önállóan végző, egészségügyi szakképesítéssel rendelkező személyek (a továbbiakban: továbbképzésre kötelezett) egészségügyi szakmai továbbképzésben (a továbbiakban: továbbképzés) kötelesek részt venni.
 
-(2) A továbbképzés továbbképzési időszakokban történik. A továbbképzési időszak tartama 5 év. Az első továbbképzési időszak kezdete – a 112. § (7) bekezdésében foglaltak kivételével – a továbbképzésre kötelezett működési nyilvántartásba történő felvételének a napja.
+(2) A továbbképzés továbbképzési időszakokban történik. A továbbképzési időszak tartama 5 év. Az első továbbképzési időszak kezdete – a 113. § (6) bekezdésében foglaltak kivételével – a továbbképzésre kötelezett működési nyilvántartásba történő felvételének a napja.
 
-(3) A továbbképzési időszak alatt a továbbképzésre kötelezettnek a külön jogszabályban meghatározott kötelező és szabadon választható elméleti és gyakorlati továbbképzési formákban kell részt vennie. Az elméleti és gyakorlati feltételek teljesítésének mérése pontozással történik.
+(3) A továbbképzési időszak alatt a továbbképzésre kötelezettnek a külön jogszabályban meghatározott elméleti és gyakorlati továbbképzési formákban kell részt vennie. Az elméleti és gyakorlati feltételek teljesítésének mérése pontozással történik.
 
-116/C. § (1) Továbbképzést az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet szervezhet, akinek vagy amelynek a továbbképzési programját az ESZTT engedélyezési eljárás során megfelelő szakmai színvonalúnak minősítette, valamint akinél vagy amely intézménynél a továbbképzés lefolytatásához szükséges szakmai feltételek rendelkezésre állnak (a továbbiakban: továbbképzést szervező intézmény). Adott továbbképzés szervezésére vonatkozó engedély megadásának feltételeit és a továbbképzési programok minősítési szempontjait külön jogszabály határozza meg.
+(4) Mentesül a továbbképzési kötelezettség alól a 75. életévét betöltött egészségügyi dolgozó.
 
-(2) A továbbképzések szervezésére vonatkozó engedély az engedélyben foglaltak szerint, ennek hiányában visszavonásig jogosít a Magyar Köztársaság területére kiterjedően továbbképzések szervezésére.
-
-(3) Az engedélyezési eljárásért a továbbképzést szervező intézmény külön jogszabályban meghatározott igazgatási szolgáltatási díjat köteles fizetni.
-
-(4) Az egészségügyi ágazati felsőoktatási alapképzésben szakképzettséget szerzett személyek vonatkozásában a miniszter által külön jogszabályban, a továbbképzések koordinálására kijelölt intézmény; az egészségügyi ágazati felsőoktatási mesterképzésben szakképzettséget szerzett személyek vonatkozásában pedig az egészségügyi szolgáltatóként is működő, orvos- és egészségtudományi képzést folytató felsőoktatási intézmények közül a miniszter által, a külön jogszabályban meghatározott intézmény az (1) bekezdésben foglalt eljárás nélkül is lefolytatják a kötelező elméleti továbbképzéseket.
-
-(5) Az ESZTT az (1) bekezdés szerinti továbbképzést szervező intézményekről nyilvántartást vezet, és végzi a továbbképzést szervező intézmények továbbképzési tevékenységének ellenőrzését. A továbbképzést szervező intézményekről vezetett jegyzék nyilvános, azt a miniszter az általa vezetett minisztérium honlapján közzéteszi.
-
-(6) Az (1) és (5) bekezdésben meghatározott eljárásokban a közigazgatási hatósági eljárás általános szabályairól szóló törvényt kell alkalmazni.
-
-(7) Az ESZTT folyamatosan, de legalább évente ellenőrzi, hogy a továbbképzést szervező intézmények megfelelnek-e a külön jogszabályban, valamint az engedélyben meghatározott, a továbbképzés szervezéséhez szükséges feltételeknek.
-
-(8) Ha a továbbképzést szervező intézmény tevékenységét nem a jogszabályoknak és az engedélyezett továbbképzési programnak megfelelően látja el, vagy már nem felel meg az engedély kiadásához szükséges feltételeknek, de ezzel a továbbképzés szakszerű lebonyolítását lényegesen nem veszélyezteti, az ESZTT felhívja a továbbképzést szervező intézményt a jogszabálysértés vagy az engedélytől való eltérés megszüntetésére, illetve a hiányzó feltételek biztosítására.
-
-(9) Ha a továbbképzést szervező intézmény a feltárt jogszabálysértést vagy az engedélytől való eltérést
-
-- a) az ESZTT határozata alapján határidőben nem szünteti meg, illetve a hiányzó feltételeket nem pótolja,
-- b) ismételten jogszabálysértést követ el,
-- c) tevékenységét továbbra sem az engedélyezett továbbképzési programnak, illetve szakmai feltételeknek megfelelően folytatja,
-- d) olyan jogszabálysértést követ el, az engedélytől olyan módon tér el, illetve a továbbképzés szervezésének folytatásához olyan feltételek hiányoznak, amelyek a továbbképzés szakszerű lebonyolítását közvetlenül veszélyeztetik, az ESZTT az intézmény engedélyét visszavonja.
-
-(10) Ha a továbbképzést szervező intézmény a továbbképzés szervezésére vonatkozó tevékenységet az (1) bekezdésben meghatározott engedély hiányában vagy az engedélyben foglalt jogosultságot túllépve folytatja, az ESZTT a továbbképzést szervező intézmény minden egyéb továbbképzés-szervezési engedélyét visszavonja, valamint a továbbképzést szervező intézményt a továbbképzés-szervezés további folytatásától eltiltja. A jogsértő továbbképzést szervező intézmény részére a tevékenységtől való jogerős eltiltástól számított öt éven belül továbbképzés szervezése nem engedélyezhető.
-
-(11) A továbbképzési szervezési tevékenységgel összefüggő eljárásokban a külön jogszabályban meghatározott egészségügyi államigazgatási szerv a fellebbezés elbírálására jogosult hatóság.
+116/C. §
 
 116/D. § (1) Az egészségügyi szakirányú szakmai továbbképzés során a megszerzett képesítéshez közvetlenül kapcsolódó, de a megszerzett képesítés alapján nem végezhető egészségügyi szakmai tevékenység végzésére jogosító képesítés szerezhető.
 
@@ -1670,7 +1618,7 @@ kell alkalmazni.
 (3) Az egészségügyi szakirányú szakmai továbbképzésre az vehető fel, aki
 
 - a) a szakképzésről szóló külön jogszabályok alapján alap-, közép-, emeltszintű, illetve felsőfokú szakképesítéssel,
-- b) egészségügyi szakirányú szakmai képesítéssel vagy
+- b) egészségügyi főiskolai végzettséggel vagy felsőoktatási intézményben, orvos- és egészségtudomány képzési terület alapképzési szakán szerzett szakképzettséggel, vagy
 - c) felsőfokú szakirányú szakmai képesítéssel rendelkezik, és megfelel az adott egészségügyi szakirányú szakmai továbbképzéshez szükséges, külön jogszabályban meghatározott részvételi követelményeknek.
 
 (4) Az egészségügyi szakirányú szakmai továbbképzés képzési ideje
@@ -1680,21 +1628,21 @@ kell alkalmazni.
 
 (5) Az egészségügyi szakirányú szakmai továbbképzés vizsgával zárul, amelynek sikeres letételéről
 
-- a) a (3) bekezdés a) pontjában meghatározott személyek tekintetében a vizsgáztatásra miniszter által feljogosított szerv,
-- b) a (3) bekezdés b) és c) pontjában meghatározott személyek tekintetében az ESZTT egészségügyi szakmai tevékenység végzésére jogosító bizonyítványt állít ki.
+- a) a (3) bekezdés a) és b) pontjában meghatározott személyek tekintetében a vizsgáztatásra miniszter által feljogosított szerv,
+- b) a (3) bekezdés c) pontjában meghatározott személyek tekintetében az ESZTT egészségügyi szakmai tevékenység végzésére jogosító bizonyítványt állít ki.
 
 117. § (1) Az ESZTT
 
 - a) egészségügyi ágazati szakmai képzés tekintetében a miniszter döntés-előkészítő, véleményező, javaslattevő testületeként működik, amely a (2) bekezdésben meghatározott ügyekben döntési joggal rendelkezik, továbbá
 - b) ellátja
   - ba) az egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakvizsgáztatással kapcsolatos,
-  - bb) a 116/D. § (3) bekezdése b) és c) pontjában meghatározott személyek tekintetében az egészségügyi szakirányú szakmai továbbképzést lezáró vizsgáztatással kapcsolatos,
-  - bc) a felsőfokú szakirányú szakmai képesítés megszerzését tanúsító szakvizsga-bizonyítvány, a bb) pontban meghatározott személyek tekintetében egészségügyi szakmai tevékenység végzésére jogosító okirat kiállításával összefüggő és
-  - bd) a 116/C. § (1)–(6) bekezdéseiben meghatározott engedélyezési és ellenőrzési feladatokat.
+  - bb) a 116/D. § (3) bekezdése c) pontjában meghatározott személyek tekintetében az egészségügyi szakirányú szakmai továbbképzést lezáró vizsgáztatással kapcsolatos,
+  - bc) a felsőfokú szakirányú szakmai képesítés megszerzését tanúsító szakvizsga-bizonyítvány, a bb) pontban meghatározott személyek tekintetében egészségügyi szakmai tevékenység végzésére jogosító okirat kiállításával összefüggő feladatokat.
+  - bd)
 
 (2) Az ESZTT dönt
 
-- a) a 116/C. § (1) bekezdésében meghatározott engedély megadásáról,
+- a)
 - b) az egyes továbbképzések pontértékéről és
 - c) az egészségügyi felsőfokú szakirányú szakmai képzés tekintetében az egyes szakvizsgabizottságok összetételéről.
 
@@ -1702,7 +1650,7 @@ kell alkalmazni.
 
 (4) Az ESZTT munkájában meghívottként részt vesz az oktatásért felelős miniszter képviselője.
 
-(5) Az ESZTT elektronikusan és papír alapon egyaránt nyilvántartást vezet a felsőoktatási mesterképzésben oklevelet szerzett és egészségügyi felsőfokú szakirányú szakképesítést vagy felsőoktatási alap- vagy mesterképzésben oklevelet szerzett és egészségügyi szakirányú szakmai képzésben vagy egészségügyi szakirányú szakmai továbbképzésben képesítést szerzett személyekről.
+(5) Az ESZTT elektronikusan és papír alapon egyaránt nyilvántartást vezet az egészségügyi felsőfokú szakirányú szakképesítést szerzett személyekről.
 
 (6) A nyilvántartás tartalmazza:
 
@@ -1938,18 +1886,7 @@ feltéve, hogy a beteget más orvoshoz irányítja.
 
 ### Az egészségügyi dolgozók védelme
 
-139. § Az egészségügyi dolgozó, valamint az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló más személy
-
-- a) a látlelet kiadása,
-- b) a keresőképesség, illetve az egészségkárosodás mértékének elbírálása,
-- c) a munka-, illetve pályaalkalmasság elbírálása,
-- d) az egészségügyi alkalmassághoz kötött engedélyek kiadására irányuló eljárásban végzett vizsgálatok,
-- e) az egyéb egészségügyi, egészségbiztosítási vagy szociális ellátásra való jogosultság megállapítására irányuló eljárásban végzett vizsgálatok,
-- f) a kötelező népegészségügyi intézkedések ellátása,
-- g) a hatóság megkeresésére vagy megrendelésére végzett vizsgálat, illetve beavatkozás,
-- h) az ügyeleti szolgálat, illetve sürgősségi ellátás
-
-során mindezekkel összefüggésben közfeladatot ellátó személynek minősül.
+139. § Az egészségügyi dolgozó egészségügyi szolgáltatás nyújtásával összefüggő tevékenységvégzése során, valamint az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló más személy ezen jogviszony alapján végzett, a betegellátással és a betegirányítással közvetlenül összefüggő feladatai tekintetében közfeladatot ellátó személynek minősül.
 
 ### A szakmai fejlődéshez való jog és kötelezettség
 
@@ -2276,7 +2213,7 @@ tevékenységet végez.
 - a) az egészségügyi régió egészségpolitikai programjának összeállítása,
 - b) koordináció és érdekegyeztetés az egészségügyi régió területén működő egészségügyi közszolgáltatók, fenntartók és a lakosság, illetve betegszervezetek között,
 - c) az Egészségügyi Fejlesztési Előirányzat (a továbbiakban: EFE) forrásaira kiírt pályázatokkal kapcsolatos feladatok ellátása, továbbá az EFE regionális részének kezelése,
-- d) a regionális szakellátási normatívák felosztására irányuló külön jogszabály szerinti eljárás lebonyolítása,
+- d)
 - e) működési területén az egészségügyi közszolgáltatást igénybevevő betegek körében betegelégedettségi vizsgálatok végzése és ennek figyelembevétele a fejlesztési prioritások kijelölése során,
 - f) a regionális egészségpolitikai program megvalósulásának évenkénti értékelése és amennyiben szükséges, annak módosítása és kiegészítése,
 - g) véleményezi a területi beutalási szabályokkal kapcsolatos jogszabályokat és kezdeményezheti az egészségügyért felelős miniszternél a területi beutalási szabályok felülvizsgálatát, amennyiben az az egészségügyi ellátásokhoz való hozzáférést veszélyezteti.
@@ -2354,6 +2291,8 @@ tevékenységet végez.
 (2) A települési önkormányzat képviselő-testülete megállapítja és kialakítja az egészségügyi alapellátások körzeteit, több településre is kiterjedő ellátás esetén a körzet székhelyét.
 
 (3) A helyi önkormányzat biztosítja a tulajdonában vagy használatában levő járóbeteg-szakellátást, illetőleg fekvőbeteg-szakellátást nyújtó egészségügyi intézmények működését.
+
+(4) Az egészségügyi államigazgatási szerv a (2) bekezdés szerinti alapellátási körzetekről – a települési önkormányzat tájékoztatása alapján – nyilvántartást vezet.
 
 153. § (1) A települési önkormányzat a környezet- és település-egészségügyi feladatok körében
 
@@ -2482,7 +2421,7 @@ történhet.
 
 (2) A kutatás szakmai feltételeit és részletes szabályait a miniszter – az ETT véleményének figyelembevételével – rendeletben állapítja meg, azzal, hogy kutatás engedélyezéséről szóló határozat ellen külön jogszabály eltérő rendelkezése hiányában fellebbezésnek helye nincs.
 
-(3) A kutatásengedélyezési eljárás ügyintézési határideje negyvenöt munkanap, az ETT és az ETT bizottsága szakhatósági eljárásának az ügyintézési határideje harmincöt munkanap. Az ügyfélnek az eljárás megindítását megelőzően benyújtott kérelmére a szakhatóság előzetes szakhatósági állásfoglalást ad ki.
+(3) A kutatásengedélyezési eljárás ügyintézési határideje két hónap, az ETT és az ETT bizottsága szakhatósági eljárásának az ügyintézési határideje ötven nap. Az ügyfélnek az eljárás megindítását megelőzően benyújtott kérelmére a szakhatóság előzetes szakhatósági állásfoglalást ad ki.
 
 159. § (1) Kutatás cselekvőképes személyen kizárólag diagnosztikus, terápiás, megelőzési és rehabilitációs eljárások tökéletesítése, új eljárások kidolgozása, valamint a betegségek kóroktanának és patogenezisének jobb megértése céljából, a kutatás jellegének, kockázatainak megfelelő szakmai feltételekkel rendelkező egészségügyi szolgáltatónál a következő feltételek együttes fennállása esetén végezhető:
 
@@ -2517,9 +2456,12 @@ történhet.
 - b) a kutatás a kutatás alanyára nézve a minimálist jelentősen meg nem haladó kockázattal és enyhe igénybevétellel jár;
 - c) a kutatásra – az ETT-nek az a) és b) pontban foglalt feltételek fennállása kérdésében kiadott szakhatósági állásfoglalása alapján – a miniszter engedélyt ad.
 
-(6) A kutatást az elsőfokú eljárásban az ETT bizottságának, a másodfokú eljárásban az ETT Elnökségének a szakmai-etikai szakkérdésekben kiadott szakhatósági állásfoglalása alapján, vagy a külön jogszabályban meghatározott esetekben és az ott meghatározottak szerint, az erre a célra létrehozott független, orvos, jogász, teológus, etikus és pszichológus szakemberekből álló bizottság véleményének kikérésével az egészségügyi államigazgatási szerv, valamint az ott meghatározott esetben a (7) bekezdés szerinti szerv engedélyezi.
+(6) A kutatást
 
-(7) Az orvostechnikai eszközök klinikai vizsgálatának engedélyezését az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi. A gyártó III. osztályba tartozó, valamint a II.a vagy II.b osztályba tartozó beültethető, tartós használatú invazív orvostechnikai eszköz esetén a klinikai vizsgálatot megkezdheti, ha a hatóság a klinikai vizsgálat engedélyezésére irányuló kérelem beérkezését követő hatvan napon belül a vizsgálatot nem tiltja meg.
+- a) az elsőfokú eljárásban az ETT – orvosokból, az orvostudományi kutatás területén jártas, más tudományágak elismert képviselőiből, egészségügyi szakdolgozókból, és laikus tagokból álló – bizottságának, részbizottságának, a másodfokú eljárásban az ETT Elnökségének a szakmai-etikai szakkérdésekben kiadott szakhatósági állásfoglalása alapján, vagy
+- b) a jogszabályban meghatározott esetekben és az ott meghatározottak szerint, az erre a célra létrehozott – orvosokból, az orvostudományi kutatás területén jártas, más tudományágak elismert képviselőiből, egészségügyi szakdolgozókból, és laikus tagokból álló – független bizottság szakértői véleményének kikérésével az egészségügyi államigazgatási szerv, valamint az ott meghatározott esetben a (7) bekezdés szerinti szerv engedélyezi.
+
+(7) Az orvostechnikai eszközök klinikai vizsgálatának engedélyezését az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi. A gyártó III. osztályba tartozó, valamint a II.a vagy II.b osztályba tartozó beültethető, tartós használatú invazív orvostechnikai eszköz esetén a klinikai vizsgálatot megkezdheti, ha a hatóság a klinikai vizsgálat engedélyezésére irányuló kérelem beérkezését követő naptól számított hatvan napon belül a vizsgálatot nem tiltja meg.
 
 160. § Sürgős szükség esetén, ha a kutatás alanyának, vagy a 16. § (1)–(2) bekezdések szerinti személynek a beleegyezése nem szerezhető meg, kizárólag a sürgős szükségben nyújtott ellátásra vonatkozó, a kutatás alanyának egészségét várhatóan közvetlenül szolgáló és előzetesen engedélyezett kutatási terven alapuló kutatás végezhető, feltéve, hogy a kutatás hasonló eredményességgel a sürgős szükségben lévő személy kutatásba történő bevonása nélkül nem végezhető el.
 
@@ -2541,7 +2483,7 @@ történhet.
 
 164/A. § (1) A külön jogszabály szerinti beavatkozással nem járó vizsgálat a 157. és 158. §, a 159. § (2) bekezdése, a 161. § (1) és (2) bekezdése, a 162. és 163. §, továbbá a 164. § (1) bekezdése és az ETT engedélye alapján végezhető. Utólagos, beavatkozással nem járó (retrospektív) vizsgálat esetén a kutatási alany tájékoztatására és a vizsgálatba való beleegyezésére vonatkozóan az egészségügyért felelős miniszter eltérő szabályokat határozhat meg.
 
-(2) A külön jogszabály szerinti beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyt a külön jogszabály szerinti kutatás-etikai bizottság a kérelem benyújtását követő negyvenöt napon belül adja meg.
+(2) A külön jogszabály szerinti beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyt a külön jogszabály szerinti kutatás-etikai bizottság a kérelem megérkezését követő naptól számított negyvenöt napon belül adja meg.
 
 164/B. § Az orvostudományi kutatás, valamint a 164/A. § szerinti beavatkozással nem járó vizsgálat engedélyezési eljárásáért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
 
@@ -2763,20 +2705,20 @@ végezhető kutatás. Az eljárásban a 186. § szerinti Humán Reprodukciós Bi
 
 ### Humán Reprodukciós Bizottság
 
-186. § (1) A reprodukciós eljárások, valamint az embriókkal végzett orvostudományi kutatások területén a miniszter tanácsadó, döntéshozó, testületeként az ETT Humán Reprodukciós Bizottsága (a továbbiakban: Bizottság) működik.
+186. § (1) A reprodukciós eljárások, valamint az embriókkal, őssejtekkel végzett orvostudományi kutatások, biobankok, a sejt- és génterápia területén a miniszter tanácsadó, döntéshozó testületeként az ETT Humán Reprodukciós Bizottsága (a továbbiakban: Bizottság) működik.
 
 (2) A Bizottság ellátja az e törvényben, valamint a külön jogszabályban meghatározott feladatokat.
 
 (3) A Bizottság feladata különösen:
 
 - a) reprodukciós eljárások végzésére, illetőleg ivarsejtek (embriók) fagyasztva tárolására jogosult egészségügyi szolgáltatók működési engedélyezésének előzetes véleményezése, szükség esetén javaslattétel meghatározott intézkedések meghozatalára az egészségügyi szolgáltató, a fenntartó, valamint a szakfelügyeletet ellátó egészségügyi államigazgatási szerv részére;
-- b) embriókkal, ivarsejtekkel végzendő kutatási tervdokumentációra vonatkozó szakhatósági állásfoglalás kiadása szakmai-etikai szakkérdésekben;
+- b) embriókkal, ivarsejtekkel, őssejtekkel végzendő kutatásokkal, a gén- és sejtterápiával végzett beavatkozásokkal, továbbá az emberi génállományt érintő beavatkozásokkal és kutatásokkal kapcsolatos kutatási tervdokumentációra vonatkozó szakhatósági állásfoglalás kiadása szakmai-etikai szakkérdésekben,
 - c) a reprodukciós eljárásokat érintő jogszabályok és szakmai szabályok véleményezése, javaslattétel megalkotásukra, illetőleg módosításukra;
 - d) a reprodukciós eljárások hazai és nemzetközi gyakorlatának, valamint az embriókkal végzett kutatások tapasztalatainak folyamatos értékelése.
 
 (4)
 
-(5) A Bizottság tagjainak egy részét megfelelő szakirányú gyakorlati ismeretekkel rendelkező szülész-nőgyógyász szakképesítésű orvosok, illetőleg jogi végzettségű személyek közül a miniszter nevezi ki, más részét a reprodukciós eljárások végzésében érintett társadalmi szervezetek és tudományos testületek közvetlenül delegálják.
+(5)
 
 (6) A Bizottság feladatkörét, működésének, összetételének részletes szabályait a miniszter rendeletében szabályozza.
 
@@ -3068,7 +3010,7 @@ van helye.
 
 207. § (1) Szerv, illetve szövet adományozása kizárólag ellenérték nélkül történhet.
 
-(2) A donor jogosult az adományozással kapcsolatos jövedelemkiesésének, valamint az adományozásról szóló nyilatkozat megtételével, továbbá az utazással összefüggésben ténylegesen felmerült és igazolt – társadalombiztosítási jogviszonya alapján nem fedezett – költségeinek megtérítésére. Továbbá a donor szervkivételt elrendelő egészségügyi intézménybe történt átszállítása esetén az ebből keletkező többletszállítási költségeket is meg kell téríteni. E költségeket az Egészségbiztosítási Alap kezeléséért felelős szerv fizeti ki, melynek a költségvetés azt megtéríti.
+(2) A donor jogosult az adományozással összefüggésben szükséges egészségügyi ellátásának máshonnan meg nem térülő költségeinek megtérítésére, továbbá az adományozással kapcsolatos jövedelemkiesésének, valamint az adományozásról szóló nyilatkozat megtételével, az utazással összefüggésben ténylegesen felmerült és igazolt – társadalombiztosítási jogviszonya alapján nem fedezett – költségeinek megtérítésére. Meg kell téríteni a donor szervkivételt elrendelő egészségügyi intézménybe történt átszállítása esetén az ebből keletkező többletszállítási költségeket is. E költségeket az E. Alap kezeléséért felelős szerv fizeti ki, melynek a költségvetés azt megtéríti.
 
 (3) Az átültetéssel összefüggésben végzett jogszerű orvosi vagy kapcsolódó technikai szolgáltatások igazolható díjának a donor részére történő kifizetése nem minősül az (1) bekezdés szerinti adományozás ellenértékének.
 
@@ -3298,18 +3240,13 @@ megítéléséhez szükséges.
 - a) minden – rendszerint váratlanul bekövetkező – esemény, amely a polgárok életét, testi épségét, egészségét, illetve az egészségügyi szolgáltatók működését veszélyezteti, illetve károsítja olyan mértékben, hogy az az egészségügyi ellátási szükségletek és a helyben rendelkezésre álló kapacitás közötti aránytalanság kialakulásához vezet, továbbá az egészségügyi államigazgatási szerv, az egészségügyi szolgáltatók, valamint más állami és önkormányzati szervek együttműködését teszi szükségessé, függetlenül attól, hogy erre minősített időszak (rendkívüli állapot, szükségállapot, veszélyhelyzet) idején vagy azon kívül kerül sor,
 - b) az a) pontban meghatározott eseteken kívül bármely olyan körülmény kialakulása, amely a gyógyintézet külön jogszabály szerinti ellátási területéhez tartozó lakosság egészségügyi ellátását súlyosan és közvetlenül akadályozza, feltéve, hogy az ellátási területéhez tartozó lakosság más gyógyintézet általi ellátása aránytalan nehézséggel járna.
 
-(3) Minősített időszakon kívül valamely eseményt, ha az
-
-- a) egy megyét (fővárost) érint, az egészségügyi államigazgatási szerv,
-- b) több megyét érint, a miniszter
-
-minősíthet katasztrófának.
+(3) Minősített időszakon kívül valamely eseményt – annak függvényében, hogy az egy megyét (a fővárost) vagy több megyét érint – az egészségügyi államigazgatási szerv vagy az egészségügyi államigazgatási szerv felügyeleti szerve minősítheti katasztrófának.
 
 229. § (1) Katasztrófa idején az e törvényben meghatározott betegjogok csak akkor és kizárólag olyan mértékben gyakorolhatók, amikor és amennyiben nem veszélyeztetik a katasztrófa-helyzet felszámolásának eredményességét. A beteg emberi méltósághoz való joga azonban ebben az esetben sem korlátozható.
 
 (2) Katasztrófa idején az egészségügyi ellátórendszerre, az egészségügyi szolgáltatás szakmai követelményeire, valamint az egészségügyi dolgozók jogaira és kötelezettségeire előírt rendelkezéseket az e fejezetben, továbbá a katasztrófa idején alkalmazandó jogszabályokban foglalt eltérésekkel kell alkalmazni.
 
-(3) Katasztrófa idején a miniszter, illetőleg az egészségügyi államigazgatási szerv jogosult – a honvédelmi, rendvédelmi és büntetés-végrehajtási szervek egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozót az ország más helységébe egészségügyi tevékenység végzésére kirendelni.
+(3) Katasztrófa idején az egészségügyi államigazgatási szerv jogosult – a honvédelmi, rendvédelmi és büntetés-végrehajtási szervek egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozót az ország más helységébe egészségügyi tevékenység végzésére kirendelni.
 
 230. § (1) A katasztrófa-egészségügyi ellátás biztosítása és finanszírozása állami feladat.
 
@@ -3486,6 +3423,10 @@ céljából lehet külföldre, illetve külföldről a Magyar Köztársaság ter
 
 244. § Az egészségügyi szolgáltatásokkal összefüggésben keletkezett kárigények tekintetében a szerződésszegéssel okozott károkért való felelősség polgári jogi szabályait kell megfelelően alkalmazni.
 
+244/A. § (1) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel (a továbbiakban: Módtv.) megállapított 113. § (4) bekezdésében foglaltakat akkor kell alkalmazni, ha a nyilvántartott személy által végzett, jogszabályban meghatározott közfeladat alapjául szolgáló jogviszony 2011. január 1-jét követően keletkezett. Amennyiben a nyilvántartott személy által végzett, jogszabályban meghatározott közfeladat alapjául szolgáló jogviszony 2011. január 1-jét megelőzően keletkezett, a működési nyilvántartást a nyilvántartott személy kérelmére a közfeladat ellátásának teljes idejével kell meghosszabbítani.
+
+(2) A Módtv.-nyel megállapított 116/B. § (4) bekezdésében foglaltakat a Módtv. hatálybalépését követően benyújtott működési nyilvántartás meghosszabbítása iránti kérelmekre kell alkalmazni.
+
 245. § (1) E törvény – a (2)–(4) bekezdésekben foglalt kivételekkel – a kihirdetését követő hetedik hónap első napján lép hatályba.
 
 (2) E törvény 142. §-a, valamint 216. §-ának d) pontja 1998. január 1. napján lép hatályba.
@@ -3555,22 +3496,15 @@ rendeletben megállapítsa.
   - ge) az egészségügyi szolgáltatók szervezetének és működésének egyes kérdéseit, továbbá a gyógyintézetekben a szakmai vezető testület létrehozásának és működésének részletes szabályait,
   - gf) gyógyintézet vezetőjének és vezetőhelyetteseinek képesítési követelményrendszerét, illetőleg állami vagy önkormányzati egészségügyi szolgáltató esetén a vezetői (vezetőhelyettesi) megbízatás betöltésére kiírandó pályázat részletes eljárási szabályait,
   - gg) az egészségügyi szakértői szakterületeket, a szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység végzésére jogosító engedély kiadásával, illetve bejelentés megtételével összefüggő eljárás részletes szabályait, az engedélyezési és bejelentési eljárás részletes szabályait, a bejelentés és nyilvántartás személyes adatot nem tartalmazó adattartalmát és a vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
-  - gh) az ápolói szintekhez tartozó tevékenységi kompetenciákat,
-- h) az egészségügyi szakképesítést szerzett személyek alapnyilvántartására, valamint az egészségügyi dolgozók működési nyilvántartására vonatkozó részletes szabályokat, továbbá a működési nyilvántartásba vételt igazoló hatósági igazolvány kiállítására vonatkozó részletes szabályokat,
+  - gh) az egyes egészségügyi szakképesítésekhez tartozó tevékenységi kompetenciákat,
+- h) az egészségügyi szakképesítést szerzett személyek alapnyilvántartására, valamint az egészségügyi dolgozók működési nyilvántartására vonatkozó részletes szabályokat, továbbá a működési nyilvántartásba vételt igazoló hatósági igazolvány kiállítására vonatkozó részletes szabályokat és az alapnyilvántartásba felvehető szakképesítések körét,
 - i) az egészségügyi ágazati szakmai képzések tekintetében
   - ia) a képzésben való részvételhez szükséges képesítési és szakmai feltételeket,
   - ib) a képzés és a vizsga szakmai tartalmát, a képzés időtartamát, a vizsgáztatásra jogosult szervek meghatározásával, a képzéssel, a vizsgáztatással, a vizsga sikeres letételét tanúsító bizonyítvány, okirat kiállításával, a vizsgáztatás költségeinek meghatározásával összefüggő részletes szabályokat,
   - ic) a képző intézmények személyi és tárgyi feltételeit, a képzőhellyé minősítés részletes szabályait,
   - id) az egészségügyi szakirányú szakmai képzés és az egészségügyi felsőfokú szakirányú szakmai képzés rendszerbevételi eljárásának szabályait, valamint a megszerezhető szakmai képesítéseinek körét,
-  - ie) az egészségügyi szakmai továbbképzés
-- (i) teljesítésének feltételeit,
-  - (ii) elméleti és gyakorlati továbbképzési formáit, (iii) során közreműködő szervek kiválasztásának szabályait,
-  - (iv) szervezésére való jogosultság megszerzésére irányuló engedélyezési eljárás részletes szabályait és az engedély megadásának feltételeit,
-- (v) továbbképzési programjainak minősítési szempontjait,
-  - if) az egészségügyi szakirányú szakmai továbbképzésben
-- (i) megszerezhető egészségügyi szakmai tevékenység végzésére jogosító képesítések körét,
-  - (ii) megszerezhető képesítés birtokában végezhető szakmai tevékenységek körét, (iii) megszerezhető képesítések létesítésének feltételeit,
-  - (iv) közreműködő szervek kiválasztásának szabályait,
+  - ie) az egészségügyi szakmai továbbképzés részletes szabályait és
+  - if) az egészségügyi szakirányú szakmai továbbképzés részletes szabályait
 - j) az Egészségügyi Szakképzési és Továbbképzési Tanács szervezetére, működésére, feladat- és hatáskörére vonatkozó részletes szabályokat,
 - k) az orvostechnikai eszközökkel összefüggésben
   - ka) az orvostechnikai eszközök minőségi követelményeire,
@@ -3631,7 +3565,8 @@ rendeletben állapítsa meg.
   - cg) az egészségfejlesztési programok akkreditációjáért,
   - ch) a természetes gyógytényezőkkel kapcsolatos egyes eljárásokkal – ideértve a szakhatósági eljárásokat is – összefüggő igazgatási szolgáltatásokért,
   - ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi feladatkörben eljáró egészségügyi államigazgatási szervnek a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, valamint a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek bejelentéséért, nyilvántartásba vételéért, a különleges táplálkozási célú élelmiszer csomagolására előírt kötelezettség alóli felmentés engedélyezésére irányuló eljárásáért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezésére irányuló eljárásáért, az új élelmiszerek elsődleges értékeléséhez szükséges szakvélemények elkészítéséért, az élelmiszerek alkalmi árusításának engedélyezésére irányuló eljárásáért, valamint a vendéglátótermékek végső fogyasztó részére történő kiszállítására irányuló tevékenység engedélyezésére irányuló eljárásáért, igazgatási jellegű szolgáltatásáért,
-  - cj) az egészségügyi szakmai továbbképzés szervezésével kapcsolatos engedélyezési eljárásért
+  - cj)
+  - ck) egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért
 
 fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket
 

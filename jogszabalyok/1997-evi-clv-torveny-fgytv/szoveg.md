@@ -762,7 +762,7 @@ képezi a központi költségvetés bevételét.
 
 (5) A fogyasztóvédelmi hatóság által
 
-- a) a műsorszolgáltatóval szemben jogsértő reklám miatt kiszabott bírság,
+- a) a médiaszolgáltatóval szemben jogsértő reklám miatt kiszabott bírság,
 - b) a tankönyvkiadásra és -forgalmazásra vonatkozó előírások megsértése miatt kiszabott bírság
 
 nem képezi a központi költségvetés bevételét.
@@ -869,9 +869,9 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 (3) Felhatalmazást kap a fogyasztóvédelemért felelős miniszter – hogy az érdekelt miniszterrel egyetértésben – rendeletben állapítsa meg a kizárólag használati és kezelési útmutatóval együtt forgalmazható termékek körét.
 
-(4) Felhatalmazást kap az iparügyekért felelős miniszter és a fogyasztóvédelemért felelős miniszter, hogy a külön jogszabályban meghatározott termékek (termékkörök) használati és kezelési útmutatójának tartalmára részletes szabályokat együttes rendeletben állapítson meg.
+(4) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a fogyasztóvédelemért felelős miniszter egyetértésével kiadott rendeletben részletes szabályokat állapítson meg a külön jogszabályban meghatározott termékek (termékkörök) használati és kezelési útmutatójának tartalmára.
 
-(5) Felhatalmazást kap a kereskedelemért és a fogyasztóvédelemért felelős miniszter, hogy a fogyasztóknak megvételre kínált termékek ára és egységára, illetve szolgáltatások díja feltüntetésének részletes szabályait együttes rendeletben állapítsa meg.
+(5) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy a fogyasztóvédelemért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a fogyasztóknak megvételre kínált termékek ára és egységára, illetve szolgáltatások díja feltüntetésének részletes szabályait.
 
 56/B. § Az igazságügyért felelős miniszter az általa vezetett minisztérium honlapján tájékoztató jelleggel közli a 39. § (5) bekezdésében említett irányelv mellékletében felsorolt, valamint a 43/A. § (1) bekezdésében, illetve a 46. § (2) bekezdésének b) pontjában meghatározott uniós jogi rendelkezéseket átültető jogszabályi rendelkezések felsorolását.
 

@@ -43,7 +43,7 @@ A piacgazdaság működéséhez nélkülözhetetlen, hogy a piac szereplői szá
   - e) az alapítvány, ideértve a közalapítványt is,
   - f) az ügyvédi iroda, a szabadalmi ügyvivő iroda, a végrehajtói iroda, a közjegyzői iroda,
   - g)
-  - h) a Műsorszolgáltatás Támogató és Vagyonkezelő Alap,
+  - h) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,
   - i) a Munkavállalói Résztulajdonosi Program keretében létrejött szervezet,
   - j) a víziközmű társulat,
   - k) a befektetési alap, az egyéb alapok,
@@ -95,7 +95,7 @@ A piacgazdaság működéséhez nélkülözhetetlen, hogy a piac szereplői szá
   - b) amelyet a hitelező a csődeljárás, a felszámolási eljárás, az önkormányzatok adósságrendezési eljárása során egyezségi megállapodás keretében elengedett,
   - c) amelyre a felszámoló által adott írásbeli igazolás (nyilatkozat) szerint nincs fedezet,
   - d) amelyre a felszámolás, az adósságrendezési eljárás befejezésekor a vagyonfelosztási javaslat szerinti értékben átvett eszköz nem nyújt fedezetet,
-  - e) amelyet eredményesen nem lehet érvényesíteni, amelynél a végrehajtással kapcsolatos költségek nincsenek arányban a követelés várhatóan behajtható összegével (a végrehajtás veszteséget eredményez vagy növeli a veszteséget), amelynél az adós nem lelhető fel, mert a megadott címen nem található és a felkutatása ,,igazoltan'' nem járt eredménnyel,
+  - e) amelyet eredményesen nem lehet érvényesíteni, amelynél a fizetési meghagyásos eljárással, a végrehajtással kapcsolatos költségek nincsenek arányban a követelés várhatóan behajtható összegével (a fizetési meghagyásos eljárás, a végrehajtás veszteséget eredményez vagy növeli a veszteséget), amelynél az adós nem lelhető fel, mert a megadott címen nem található és a felkutatása „igazoltan” nem járt eredménnyel,
   - f) amelyet bíróság előtt érvényesíteni nem lehet,
   - g) amely a hatályos jogszabályok alapján elévült. A behajthatatlanság tényét és mértékét bizonyítani kell.
 
@@ -148,7 +148,7 @@ A piacgazdaság működéséhez nélkülözhetetlen, hogy a piac szereplői szá
 - 11. penziós (elhelyezési) ügylet: olyan ügylet, amelyben az egyik fél (,,penzióba adó'') a mérlegében szereplő, tulajdonában lévő pénzügyi eszközöket (a valuta, a deviza és a saját kibocsátású hitelviszonyt megtestesítő értékpapír, illetve saját kibocsátású tulajdoni részesedést jelentő befektetés kivételével) ruház át a másik félre (,,penzió átvevője''), olyan megállapodás mellett, hogy ugyanezeket a pénzügyi eszközöket – sorozatban kibocsátott értékpapírok esetén az azonos sorozathoz tartozó, azonos mennyiségű és névértékű értékpapírokat – a penzió átvevője a megállapodásban rögzítettek szerinti későbbi időpontban (időpontig), meghatározott áron visszaszármaztatja az a), illetve a b) pontban foglaltak szerint a penzióba adónak;
   - a) valódi penziós (elhelyezési) ügylet: olyan penziós ügylet, amelyben legalább az egyik fél hitelintézet, és amelyben a penzió átvevője kötelezi magát, hogy a pénzügyi eszközöket egy meghatározott vagy a penzióba adó által meghatározandó időpontban visszaadja, továbbá a penzióba adó szerződéses kikötésekkel a pénzügyi eszközök feletti ellenőrzési jogokat (rendelkezési jog az eszköz tovább értékesítéséről, fedezetként való felhasználásáról, kölcsönbeadásáról, valamint a hasznok szedésére vonatkozó jog) fenntartja. A valódi penziós ügylet kölcsönügyletként kerül elszámolásra, az ügylet tárgyát képező eszköz a penzióba adó könyveiben marad, az eladási és a visszavásárlási ár különbözete kamatnak minősül.
   - b) nem valódi penziós (elhelyezési) ügylet: olyan penziós ügylet, amelyben a felek megállapodásától függően, a penzió átvevője saját döntése (jogosultsága) alapján egy előre rögzített időpontban (időpontig), vagy az általa megállapított későbbi időpontban vagy egy, a későbbiekben bekövetkező feltétel beállta esetén, annak időpontjában az eladási áron, vagy a felek által meghatározott más áron visszaadja, a penzióba adó pedig visszaveszi a penzió tárgyát. Nem valódi penziós ügyletnek minősül az is, ha a penzió átvevője kötelezi magát, hogy a penzió tárgyát egy előre meghatározott vagy a penzióba adó által meghatározandó időpontban visszaadja és a penzióba adó a penzió tárgya feletti ellenőrzési jogokat szerződéses kitételekkel nem tartja fenn. A nem valódi penziós ügylet a pénzügyi eszközök adásvételére vonatkozó általános szabályok szerint kerül elszámolásra.
-- 12. elektronikus pénzeszköz: az elektronikus fizetési eszközök kibocsátására és használatára vonatkozó egyes szabályokról szóló kormányrendeletben meghatározott fogalom;
+- 12. elektronikus pénzeszköz: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott fogalom;
 - 13. pénzügyi lízing: olyan szerződés alapján valósul meg, amely szerződés értelmében a lízingbeadó a lízingbevevő igényei szerint beszerzett és a lízingbeadó tulajdonát képező eszközt lízingdíj ellenében, a szerződésben rögzített időtartamra a lízingbevevő használatába, birtokába adja azzal, hogy a lízingbevevőt terheli a használatból következően minden költség és kockázat, a lízingbevevő jogosult a hasznok szedésére, a szerződés időtartamának végén a lízingelt eszköz tulajdonjogát a lízingbevevő vagy az általa megjelölt megszerzi (vagy megszerezheti), a maradványérték megfizetésével vagy anélkül, illetve a lízingbevevőt elővételi jog illeti meg, a lízingbevevő azonban ezen jogairól a szerződés megszűnése előtt le is mondhat;
 - 14. függő kötelezettség: az olyan – általában – harmadik személlyel szemben vállalt kötelezettség, amely a mérleg fordulónapján fennáll, de mérlegtételkénti szerepeltetése jövőbeni eseménytől függ. A függő kötelezettségek lehetnek pénzeszközre, illetve egyéb eszközre vonatkozó függő kötelezettségek. A pénzeszközre vonatkozó függő kötelezettségek közé tartoznak különösen: a kezességvállalási, a garanciavállalási, a váltókezesi kötelezettség, az opciós ügyletekkel, a nem valódi penziós ügyletekkel, a le nem zárt peres ügyekkel kapcsolatban várható kötelezettségek. Az egyéb eszközre vonatkozó kötelezettségek közé tartoznak különösen a fedezetként, biztosítékként, óvadékként felajánlott (szolgáló) vagyontárgyak és az opciós ügylet miatti egyéb eszköz átadására vonatkozó kötelezettségek;
 - 15. biztos (jövőbeni) kötelezettség: az olyan visszavonhatatlan kötelezettség, amely a mérleg fordulónapján már fennáll, de a szerződés teljesítése még nem történt meg, ezért mérlegtételként nem szerepeltethető. A biztos (jövőbeni) kötelezettségek lehetnek pénzeszközre, illetve egyéb eszközre vonatkozó biztos (jövőbeni) kötelezettségek. Idetartoznak különösen: a határidős adásvételi ügyletek, a swap ügyletek határidős része miatti pénzeszköz vagy egyéb eszköz átadására vonatkozó kötelezettségek. Nem tartoznak ide az üzleti tevékenységgel kapcsolatos, folyamatosan felmerülő költségek;
@@ -255,9 +255,9 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 - b) az éves nettó árbevétel az 1000 millió forintot,
 - c) az üzleti évben átlagosan foglalkoztatottak száma az 50 főt.
 
-(3) A (2) bekezdés előírásait részvénytársaság, a konszolidálásba bevont vállalkozás, a külföldi székhelyű vállalkozás magyarországi fióktelepe, valamint az olyan vállalkozó, amelynek kibocsátott – a 3. § (6) bekezdésének 2–3. pontja szerinti – értékpapírjai tőzsdei kereskedelme engedélyezett vagy az engedélyezést már kérelmezték, nem alkalmazhatja.
+(3) A (2) bekezdés előírásait a nyilvánosan működő részvénytársaság, az anyavállalat, a konszolidálásba e törvény 120–134. §-a szerint bevont vállalkozás, valamint az olyan vállalkozó, amelynek kibocsátott – a 3. § (6) bekezdés 2–3. pontja szerinti – értékpapírjai tőzsdei kereskedelme engedélyezett vagy az engedélyezést már kérelmezték, nem alkalmazhatja.
 
-(4) Nem készíthet egyszerűsített éves beszámolót az a vállalkozó, ahol az üzleti év a naptári évtől a 11. § (2)–(3) bekezdésében foglaltak alapján tér el.
+(4)
 
 (5) Jogelőd nélkül alapított vállalkozónál – a (2) bekezdés b) pontjában foglaltak alkalmazásakor –, ha az üzleti évet megelőző két üzleti év egyikének vagy mindkettőnek az éves nettó árbevétel adatai hiányoznak vagy csak részben állnak rendelkezésre, akkor a tárgyévi várható éves nettó árbevételt és – ha van – a megelőző (első) üzleti év éves (éves szintre átszámított) nettó árbevételét kell figyelembe venni. Az előbbiekben foglaltak megfelelő alkalmazásával kell eljárni a (2) bekezdés a) és c) pontja tekintetében is.
 
@@ -284,7 +284,7 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 - c) az európai részvénytársaságnál, az európai szövetkezetnél, a hitelintézetnek, pénzügyi vállalkozásnak vagy biztosítóintézetnek minősülő európai részvénytársaság és európai szövetkezet kivételével,
 - d) a nemzetközi jellegű felsőoktatási intézménynél.
 
-(3) Az üzleti év mérlegfordulónapjának megváltoztatására – a (2) bekezdésben rögzítettek mellett is – három, beszámolóval lezárt üzleti év után, vagy az anyavállalat személyében bekövetkezett változás esetén van lehetőség, a létesítő okirat ennek megfelelő módosítása mellett. Ez esetben a megváltoztatott mérlegfordulónappal készített éves beszámoló kiegészítő mellékletében be kell mutatni a mérleg és az eredménykimutatás adatai mellett az azokkal összehasonlítható (egy üzleti évvel korábbi) bázisadatokat tartalmazó mérleget és eredménykimutatást is.
+(3) Az üzleti év mérlegfordulónapjának megváltoztatására – a (2) bekezdésben rögzítettek mellett is – három, beszámolóval lezárt üzleti év után, vagy az anyavállalat személyében bekövetkezett változás esetén van lehetőség, a létesítő okirat ennek megfelelő módosítása mellett. Ez esetben a megváltoztatott mérlegfordulónappal készített éves beszámoló, egyszerűsített éves beszámoló kiegészítő mellékletében be kell mutatni a mérleg és az eredménykimutatás adatai mellett az azokkal összehasonlítható (egy üzleti évvel korábbi) bázisadatokat tartalmazó mérleget és eredménykimutatást is.
 
 (4) Az üzleti év időtartama – az (5)–(13) bekezdésben foglaltak kivételével – 12 naptári hónap.
 
@@ -580,7 +580,7 @@ az előző és a tárgyévi üzleti évben külön-külön több mint 25%-ban az
 
 (5) Aktív időbeli elhatárolásként kell kimutatni a kölcsönbeadott értékpapír könyv szerinti értékének a – felhalmozott kamattal csökkentett – kölcsönszerződés szerinti értékét meghaladó összegét (veszteségét). Az időbeli elhatárolást akkor kell megszüntetni, amikor a kölcsönbevevő által visszaszolgáltatott értékpapír eladásra, beváltásra, illetve egyéb ügylet keretében az állományból véglegesen kivezetésre kerül, vagy a kölcsönbevevő megtéríti annak piaci értékét, mert az értékpapír nem kerül visszaszolgáltatásra.
 
-(6) Az aktív időbeli elhatárolások között halasztott ráfordításként ki lehet mutatni a jogszabályi rendelkezés alapján az üzemeltetőnek térítés nélkül (visszaadási kötelezettség nélkül) átadott eszköz (beruházás) nyilvántartás szerinti értékét. A térítés nélkül átadott eszköz (beruházás) időbelileg elhatárolt nyilvántartás szerinti értékét – az átadáskor meghatározott módon és időtartamon belül – kell a rendkívüli ráfordításokkal szemben megszüntetni.
+(6) Az aktív időbeli elhatárolások között halasztott ráfordításként ki lehet mutatni a jogszabályi rendelkezés alapján az üzemeltetőnek térítés nélkül, véglegesen átadott eszköz (beruházás) nyilvántartás szerinti értékét. A térítés nélkül átadott eszköz (beruházás) időbelileg elhatárolt nyilvántartás szerinti értékét – az átadáskor meghatározott módon és időtartamon belül – kell a rendkívüli ráfordításokkal szemben megszüntetni.
 
 34. § A mérlegben forrásként a saját tőkét, a céltartalékokat, a kötelezettségeket és a passzív időbeli elhatárolásokat kell szerepeltetni.
 
@@ -834,7 +834,7 @@ kimutatott – osztalékként, részesedésként, kamatozó részvény kamataké
 
 (7) A tárgyi eszköz biztonságos üzemeltetéséhez, rendeltetésszerű használatához szükséges – és a tárgyi eszköz beszerzésével egy időben vagy annak üzembe helyezéséig beszerzett – tartozékok, tartalékalkatrészek beszerzési értéke – függetlenül attól, hogy az a tárgyi eszköz számlázott értékében vagy külön számlában jelenik meg – a tárgyi eszköz bekerülési (beszerzési) értéke részének tekintendő.
 
-(8) A bekerülési (beszerzési) értéket csökkenti a próbaüzemeltetés során előállított, raktárra vett, értékesített termék, teljesített szolgáltatás előállítási költsége, ennek hiányában az állománybavételkori piaci értéke, illetve a még várhatóan felmerülő költségekkel csökkentett eladási ára, várható eladási ára, valamint a bekerülési (beszerzési) értékben elszámolt kamat összegét csökkenti a beruházásra adott előleg után, annak elszámolásáig, a beruházásra elkülönített pénzeszköz után, annak felhasználásáig kapott kamat összege.
+(8) A bekerülési (beszerzési) értéket csökkenti a próbaüzemeltetés során előállított, raktárra vett, értékesített termék, teljesített szolgáltatás előállítási költsége, ennek hiányában az állománybavételkori piaci értéke, illetve a még várhatóan felmerülő költségekkel csökkentett eladási ára, várható eladási ára, legfeljebb a próbaüzemeltetés – bekerülési (beszerzési) értékként figyelembe vett – költségéig, valamint a bekerülési (beszerzési) értékben elszámolt kamat összegét csökkenti a beruházásra adott előleg után, annak elszámolásáig, a beruházásra elkülönített pénzeszköz után, annak felhasználásáig kapott kamat összege.
 
 (9) A bekerülési (beszerzési) érték részét képező – az (1)–(2) és a (4)–(8) bekezdésben felsorolt – tételeket a felmerüléskor, a gazdasági esemény megtörténtekor (legkésőbb az üzembe helyezéskor) kell számításba venni a számlázott, a kivetett összegben. Amennyiben az üzembe helyezésig, a raktárba történő beszállításig a számla, a megfelelő bizonylat nem érkezett meg, a fizetendő összeget az illetékes hatóság nem állapította meg, akkor az adott eszköz értékét a rendelkezésre álló dokumentumok (szerződés, piaci információ, jogszabályi előírás) alapján kell meghatározni. Az így meghatározott érték és a ténylegesen számlázott vagy később módosított fizetendő (kivetett) összeg közötti különbözettel a beszerzési értéket a végleges bizonylatok kézhezvétele időpontjában akkor kell módosítani, ha a különbözet összege az adott eszköz értékét jelentősen módosítja. Amennyiben a különbözet összege jelentősen nem módosítja az adott eszköz bekerülési (beszerzési) értékét, annak összegét a végleges bizonylatok kézhezvétele időpontjában egyéb ráfordításként, illetve egyéb bevételként kell elszámolni.
 
@@ -1118,7 +1118,7 @@ amennyiben valós értékük megbízható módon meghatározható.
 - a) a kereskedési célú pénzügyi eszközöket és pénzügyi kötelezettségeket azok könyv szerinti értékén [a bekerülési (beszerzési) érték, illetve a törlesztésekkel csökkentett bekerülési (beszerzési) érték értékelési különbözettel módosított értékén] kell kivezetni a könyvekből;
 - b) az értékesíthető pénzügyi eszközöket azok könyv szerinti értékén [a bekerülési (beszerzési) érték törlesztésekkel és értékvesztéssel csökkentett, visszaírással növelt értékén] kell kivezetni a könyvekből és egyidejűleg ki kell vezetni az eszközhöz rendelt értékelési különbözetet is a valós értékelés értékelési tartalékával szemben.
 
-(2) A valós értéken történő értékelés alkalmazása esetén be kell mutatni a kiegészítő mellékletben a 90. § (9) bekezdésében és az üzleti jelentésben a 95. § (4) bekezdésében foglalt adatokat.
+(2) A valós értéken történő értékelés alkalmazása esetén be kell mutatni a kiegészítő mellékletben a 90. § (9) bekezdésében és az üzleti jelentésben a 95. § (6) bekezdésében foglalt adatokat.
 
 59/D. § (1) A határidős és opciós ügyletek, valamint a swap ügyletek határidős ügyletrésze az ügylet zárásáig mérlegen kívüli tételként kerülnek nyilvántartásra a szerződés szerinti kötelezettség összegében, a kötési (határidős) árfolyamon.
 
@@ -1189,7 +1189,7 @@ elszámolva.
 
 60. § (1) A valutapénztárba bekerülő valutakészletet, a devizaszámlára kerülő devizát, a külföldi pénzértékre szóló követelést, befektetett pénzügyi eszközt, értékpapírt, illetve kötelezettséget a bekerülés napjára, illetve a szerződés szerinti teljesítés napjára vonatkozó – a (4)–(6) bekezdés szerinti – devizaárfolyamon átszámított forintértéken kell a könyvviteli nyilvántartásba felvenni, kivéve a forintért vásárolt valutát, devizát, amelyet a fizetett összegben kell felvenni, és amelynél a ténylegesen fizetett forint alapján kell a nyilvántartásba vételi árfolyamot meghatározni.
 
-(2) A mérlegben a valutapénztárban lévő valutakészletet, a devizaszámlán lévő devizát, továbbá a külföldi pénzértékre szóló – az 54–55. § szerint minősített – minden követelést, befektetett pénzügyi eszközt, értékpapírt, illetve kötelezettséget az üzleti év mérlegfordulónapjára vonatkozó – a (4)–(6) bekezdés szerinti – devizaárfolyamon átszámított forintértéken kell kimutatni, amennyiben a mérlegfordulónapi értékelésből adódó különbözetnek a külföldi pénzértékre szóló eszközökre, kötelezettségekre, illetve az eredményre gyakorolt hatása jelentős.
+(2) A mérlegben a valutapénztárban lévő valutakészletet, a devizaszámlán lévő devizát, továbbá a külföldi pénzértékre szóló – az 54–55. § szerint minősített – minden követelést, befektetett pénzügyi eszközt, értékpapírt, illetve kötelezettséget az üzleti év mérlegfordulónapjára vonatkozó – a (4)–(6) bekezdés szerinti – devizaárfolyamon átszámított forintértéken kell kimutatni.
 
 (3) A valutapénztárban lévő valutakészletnek, a devizaszámlán lévő devizának, továbbá a külföldi pénzértékre szóló követelésnek, befektetett pénzügyi eszköznek, értékpapírnak, illetve kötelezettségnek az üzleti év mérlegfordulónapjára vonatkozó (2) bekezdés szerinti értékelése előtti könyv szerinti értéke és az értékeléskori forintértéke közötti különbözetet [a (8) bekezdés, valamint a 47. § (4) bekezdésének c) pontja szerint figyelembe veendő árfolyamkülönbözet kivételével]:
 
@@ -1202,7 +1202,7 @@ kell elszámolni.
 
 (5) A (4) bekezdésben előírt devizaárfolyam használatától el kell térni, ha a hitelintézet, illetve a Magyar Nemzeti Bank által nem jegyzett és nem konvertibilis valutát, ilyen valutára szóló eszközöket és kötelezettségeket kell forintra átszámítani. Ez esetben a valuta szabadpiaci árfolyamán (ennek hiányában országos napilapban a világ valutáinak árfolyamáról közzétett tájékoztató adatai alapján), a választott hitelintézet vagy a Magyar Nemzeti Bank által jegyzett devizára átszámított értéket kell a hitelintézet által jegyzett deviza devizavételi és devizaeladási árfolyamának átlagán vagy a Magyar Nemzeti Bank által közzétett, hivatalos devizaárfolyamán forintra átszámítani.
 
-(6) A külföldi pénzértékre szóló eszközök és kötelezettségek forintra történő átszámításánál a devizavételi és devizaeladási árfolyam átlaga helyett valamennyi külföldi pénzértékre szóló eszköz és kötelezettség egységesen értékelhető devizavételi vagy csak devizaeladási árfolyamon is – a (4) bekezdés szerinti értékeléstől eltérő értékelésből adódó különbözetnek a kiegészítő mellékletben történő bemutatása mellett –, ha a (4) bekezdés szerinti értékeléstől történő eltérésnek az eszközökre-forrásokra, illetve az eredményre gyakorolt hatása jelentős és emiatt a megbízható és valós összkép követelménye a (4) bekezdés szerint történő értékelés mellett nem teljesülne.
+(6) A külföldi pénzértékre szóló eszközök és kötelezettségek forintra történő átszámításánál a devizavételi és devizaeladási árfolyam átlaga helyett valamennyi külföldi pénzértékre szóló eszköz és kötelezettség egységesen értékelhető devizavételi vagy csak devizaeladási árfolyamon is, ha a (4) bekezdés szerinti értékeléstől történő eltérésnek az eszközökre-forrásokra, illetve az eredményre gyakorolt hatása jelentős és emiatt a megbízható és valós összkép követelménye a (4) bekezdés szerint történő értékelés mellett nem teljesülne.
 
 (7) Amennyiben jogszabály lehetővé teszi, hogy devizabelföldi ügyfelek szerződéses kapcsolataikban az ellenértéket, illetve annak törlesztő összegeit devizaalapon állapítsák meg, akkor ezen szerződések alapján a devizaalapú követelések, illetve kötelezettségek forintértékben történő könyvviteli nyilvántartásba vételénél, továbbá mérlegfordulónapi értékelésénél az (1)–(6) bekezdésben foglaltakat kell alkalmazni.
 
@@ -1210,7 +1210,7 @@ kell elszámolni.
 
 (9) Amennyiben a vállalkozó él az 57. § (3) bekezdése szerinti lehetőséggel, a fedezeti ügylettel nem fedezett, kapcsolt vállalkozásnak minősülő külföldi gazdálkodó szervezetben lévő, külföldi pénzértékre szóló tulajdoni részesedést jelentő, nem kereskedési célra tartott befektetése értékelésekor az értékvesztés, illetve az értékhelyesbítés összegének meghatározásánál a befektetés (4)–(6) bekezdés szerinti átszámítása során keletkezett árfolyamkülönbözetet és a devizában kifejezett értékvesztés, illetve értékhelyesbítés (4)–(6) bekezdés szerinti forintértékét – eltérően az 54. és az 57–58. §-ban foglaltaktól – egybe kell számítani, és az értékvesztés, illetve az értékhelyesbítés forintösszegének meghatározásánál összevontan kell figyelembe venni.
 
-(10) Amennyiben a választott hitelintézet adott napon belül többször is jegyez árfolyamot, úgy az (1)–(9) bekezdések alkalmazása során az adott napi utolsó jegyzett árfolyamot kell figyelembe venni.
+(10) Amennyiben a választott hitelintézet adott napon belül többször is jegyez árfolyamot, úgy az (1)–(9) bekezdések alkalmazása során az adott napi jegyzett árfolyamok közül a számviteli politikában meghatározott árfolyamot kell figyelembe venni.
 
 61. § (1) A hitelviszonyt megtestesítő, rövid lejáratú (éven belüli, illetve egyéves lejáratú) értékpapír beszerzési értéken (a vételár részét képező kamattal csökkentett vételáron) értékelhető mindaddig, amíg a kibocsátó a lejáratkor, a beváltáskor várhatóan a névértéket (és a felhalmozott kamatot) megfizeti.
 
@@ -1547,7 +1547,7 @@ függetlenül attól, hogy azt hitelintézet, más gazdálkodó vagy magánszem�
 - t) az 59/A–59/F. §-ok szerinti valós értéken történő értékelés alkalmazása során bevételt csökkentő tételként a nem kamatfedezeti célú fedezeti ügyletek veszteségének összegét, ha az ügylet zárása a mérleg fordulónapjáig megtörtént, illetve a nem kamatfedezeti célú piaci érték (valós érték) fedezeti ügyletek várható veszteségének összegét, a mérlegfordulónapi piaci ár, árfolyam és a kötési (határidős) árfolyam közötti – veszteségjellegű – különbözet összegében, ha az ügylet a mérleg fordulónapjáig nem zárult le, legfeljebb a fedezett alapügylet tárgyévben elszámolt nyereségének összegében;
 - u) az 59/A–59/F. §-ok szerinti valós értéken értékelt kereskedési célú, mérlegben szereplő pénzügyi eszközök pozitív értékelési különbözetét.
 
-(8) A külföldi pénzértékre szóló részesedésnél, hitelviszonyt megtestesítő értékpapírnál a (2) bekezdés, a (3) bekezdés a)–b) és e) pontja, a (7) bekezdés a)–d) pontja szerinti árfolyamnyereséget a deviza árfolyamváltozása hatásának kiszűrésével kell meghatározni.
+(8)
 
 85. § (1) Befektetett pénzügyi eszközök árfolyamveszteségeként kell kimutatni:
 
@@ -1586,7 +1586,7 @@ függetlenül attól, hogy azt hitelintézet, más gazdálkodó vagy magánszem�
 - t) az 59/A–59/F. §-ok szerinti valós értéken történő értékelés alkalmazása során ráfordítást csökkentő tételként a nem kamatfedezeti célú fedezeti ügyletek nyereségének összegét, ha az ügylet zárása a mérleg fordulónapjáig megtörtént, illetve a nem kamatfedezeti célú piaci érték (valós érték) fedezeti ügyletek várható nyereségének összegét a mérlegfordulónapi piaci ár, árfolyam és a kötési (határidős) árfolyam közötti – nyereségjellegű – különbözet összegében, ha az ügylet a mérleg fordulónapjáig nem zárult le, legfeljebb a fedezett alapügylet tárgyévben elszámolt veszteségének összegében;
 - u) az 59/A–59/F. §-ok szerinti valós értéken értékelt kereskedési célú, mérlegben szereplő pénzügyi eszközök negatív értékelési különbözetét.
 
-(4) A külföldi pénzértékre szóló részesedésnél, hitelviszonyt megtestesítő értékpapírnál az (1) bekezdés, a (2) bekezdés a) pontja, a (3) bekezdés a)–d) pontja szerinti árfolyamveszteséget a deviza árfolyamváltozása hatásának kiszűrésével kell meghatározni.
+(4)
 
 (5) A pénzügyi műveletek egyéb bevételeinek a 84. § (7) bekezdése szerinti tételei a pénzügyi műveletek egyéb ráfordításai (3) bekezdés szerinti tételeivel nem vonhatók össze, azokat bruttó módon kell kimutatni, kivéve a mérlegfordulónapi értékeléskor elszámolt árfolyamkülönbözetet, amelyet összevontan kell kimutatni.
 
@@ -1636,7 +1636,7 @@ függetlenül attól, hogy azt hitelintézet, más gazdálkodó vagy magánszem�
 
 (8) A (3)–(4) bekezdés szerinti rendkívüli bevételeket, a (6)–(7) bekezdés szerinti rendkívüli ráfordításokat a felsorolt jogcímek szerint a kiegészítő mellékletben részletezni kell, amennyiben azok eredményre gyakorolt hatása jelentős.
 
-(9) A rendkívüli ráfordítások között kell elszámolni, de halasztott ráfordításként időbelileg el lehet határolni – az összemérés számviteli alapelv érvényesülése érdekében – a vállalkozó által megvalósított (megszerzett) és jogszabályi rendelkezés alapján az üzemeltetőnek térítés nélkül (visszaadási kötelezettség nélkül) átadott olyan eszköz (beruházás) nyilvántartás szerinti értékét, amelyet a jövőbeni vállalkozási tevékenysége érdekében valósított (szerzett) meg.
+(9) A rendkívüli ráfordítások között kell elszámolni, de halasztott ráfordításként időbelileg el lehet határolni – az összemérés számviteli alapelv érvényesülése érdekében – a vállalkozó által megvalósított (megszerzett) és jogszabályi rendelkezés alapján az üzemeltetőnek térítés nélkül, véglegesen átadott olyan eszköz (beruházás) nyilvántartás szerinti értékét, amelyet a jövőbeni vállalkozási tevékenysége érdekében valósított (szerzett) meg.
 
 87. § (1) Az adózás előtti eredmény a szokásos vállalkozási eredmény és a rendkívüli eredmény összevont összege.
 
@@ -1774,7 +1774,7 @@ a jelentősebb összegeit, azok időbeli alakulását.
 93. § (1) A kiegészítő mellékletnek tartalmaznia kell:
 
 - a) az exportértékesítés árbevételét termékexport és szolgáltatásexport szerinti, az importbeszerzés értékét termékimport és szolgáltatásimport szerinti tagolásban, továbbá az Európai Unió, valamint más, az Európai Unión kívüli országok szerinti, illetve ezen belül földrajzilag elhatárolt piacok szerinti bontásban (a földrajzi elkülönítést a vállalkozó gazdálkodása sajátosságainak figyelembevételével alakítja ki);
-- b) az értékesítés nettó árbevételét a létesítő okiratban megjelölt főbb tevékenységenkénti megbontásban, amennyiben az egyes tevékenységek, szolgáltatások jelentősen különböznek egymástól.
+- b) az értékesítés nettó árbevételét főbb tevékenységenkénti megbontásban, amennyiben az egyes tevékenységek, szolgáltatások jelentősen különböznek egymástól.
 
 (2) Exporttámogatás esetén a kiegészítő mellékletnek tartalmaznia kell a támogatott exportárbevételhez kapcsolódó közvetlen költségek (közvetlenül elszámolt költségek, az eladott áruk beszerzési értéke) összegét.
 
@@ -1863,9 +1863,11 @@ a jelentősebb összegeit, azok időbeli alakulását.
 
 (3) Az egyszerűsített éves beszámoló eredménykimutatása a 2. vagy a 3. számú melléklet ,,A'', illetve ,,B'' változata közül a vállalkozó által választott eredménykimutatás nagybetűvel és római számmal jelölt tételeit tartalmazza.
 
-(4) Az egyszerűsített éves beszámoló kiegészítő mellékletének a 41. § (8) bekezdése, az 55. § (4) bekezdése, a 86. § (8) bekezdése, a 88. § (6) bekezdése, a 89. § (1)–(3) bekezdése, (4) bekezdésének a), c)–d) pontja, a 89/A. §-a, a 90. § (1)–(2) bekezdése, (3) bekezdésének b) pontja, (4) bekezdésének b) pontja, a 91. § c)–d) pontja, a 92. §-a, a 93. § (1)–(2) és (6) bekezdése szerinti adatokat nem kell tartalmaznia. Az egyszerűsített éves beszámoló kiegészítő mellékletében a könyvvizsgáló által felszámított díjakat a 88. § (8) bekezdésének b) pontjában meghatározott jogcímek szerinti részletezés nélkül, egy összegben, összesítve is be lehet mutatni.
+(4) Az egyszerűsített éves beszámoló kiegészítő mellékletének a 41. § (8) bekezdése, az 55. § (4) bekezdése, a 86. § (8) bekezdése, a 88. § (6) bekezdése, a 89. § (1)–(3) bekezdése, (4) bekezdésének a), c)–d) pontja és (6) bekezdése, a 89/A. §-a, a 90. § (1)–(2) bekezdése és (3) bekezdésének b) pontja, (4) bekezdésének b) pontja, a 91. § c)–d) pontja, a 92. §-a, a 93. § (1)–(2) és (6) bekezdése szerinti adatokat nem kell tartalmaznia.
 
-(5) Az egyszerűsített éves beszámoló kiegészítő mellékletének nem kell tartalmaznia a 90. § (3) bekezdésének c) pontja szerinti mérlegen kívüli tételek és mérlegben nem szereplő megállapodások pénzügyi kihatásait, valamint a 89. § (6) bekezdésében foglaltakat.
+(5) Az egyszerűsített éves beszámoló kiegészítő mellékletében a könyvvizsgáló által a 88. § (8) bekezdésének b) pontjában foglalt jogcímeken felszámított díjakat nem kell összegszerűen bemutatni, ha az tartalmazza a díjak jogcímenkénti megoszlását, és a Könyvvizsgálói Közfelügyeleti Bizottság részére, annak kérésére, a vállalkozó a díjakról részletes tájékoztatást ad.
+
+(6) Az egyszerűsített éves beszámoló kiegészítő mellékletének nem kell tartalmaznia a 90. § (3) bekezdésének c) pontja szerinti mérlegen kívüli tételek és mérlegben nem szereplő megállapodások pénzügyi kihatásait.
 
 97. § (1) Ha az egyszerűsített éves beszámolót készítő vállalkozó a 9. § (2) bekezdése szerinti három mutatóérték közül bármelyik kettőnek a határértékét túllépi két egymást követő üzleti évben, akkor a második évi beszámoló elkészítését követő évtől éves beszámolót köteles készíteni.
 
@@ -2088,12 +2090,12 @@ kell elszámolni, és annak megfelelően kell az eredménylevezetés tételeiben
 
 (5) A leányvállalati viszony létrejöttét az anyavállalat állapítja meg és egyidejűleg köteles ezt a minősítést a leányvállalattal közölni.
 
-116. § (1) Nem kötelező összevont (konszolidált) éves beszámolót és összevont (konszolidált) üzleti jelentést készítenie annak az anyavállalatnak (a továbbiakban: mentesíthető anyavállalat), amely maga is leányvállalata egy vállalatnak (a továbbiakban: fölérendelt anyavállalat), ha a fölérendelt anyavállalat az Európai Gazdasági Térség valamely államában rendelkezik székhellyel, e törvény vagy a Tanács 1983. június 13-i 83/349/EGK irányelve, illetve az Európai Parlament és a Tanács 2002. július 19-i 1606/2002/EK rendelete szerint készít és hoz nyilvánosságra összevont (konszolidált) éves beszámolót, valamint összevont (konszolidált) üzleti jelentést, amelyben a mentesíthető anyavállalat és annak leányvállalatai éves beszámolóit is konszolidálják, továbbá nem vonatkozik a mentesíthető anyavállalatra a 119. §, és ha
+116. § (1) Nem kötelező összevont (konszolidált) éves beszámolót és összevont (konszolidált) üzleti jelentést készítenie annak az anyavállalatnak (a továbbiakban: mentesíthető anyavállalat), amely maga is leányvállalata egy vállalatnak (a továbbiakban: fölérendelt anyavállalat), ha a fölérendelt anyavállalat az Európai Gazdasági Térség valamely államában rendelkezik székhellyel, e törvény vagy a Tanács 1983. június 13-i 83/349/EGK irányelve, illetve az Európai Parlament és a Tanács 2002. július 19-i 1606/2002/EK rendelete szerint készít és hoz nyilvánosságra összevont (konszolidált) éves beszámolót, valamint összevont (konszolidált) üzleti jelentést, amelyben a mentesíthető anyavállalat és annak leányvállalatai beszámolóit is konszolidálják, továbbá nem vonatkozik a mentesíthető anyavállalatra a 119. §, és ha
 
 - a) a fölérendelt anyavállalat 100%-os tulajdoni hányaddal rendelkezik a mentesíthető anyavállalatban (ide nem értve a mentesíthető anyavállalat vezető tisztségviselői, vagy felügyelőbizottsága tagjai által jogszabály, vagy létesítő okirat szerint megszerzett tulajdoni hányadot), vagy legalább 90%-os tulajdoni hányaddal rendelkezik és a kisebbségi tulajdonosok elfogadták a mentesítést, vagy
 - b) az a) ponton kívüli esetekben, a kisebbségi tulajdonosok vagy azok egy része – akiknek részvénytársaságnál, illetve európai részvénytársaságnál összesen legalább 10%-os (egyéb vállalkozónál legalább 20%-os) mentesíthető anyavállalati részesedés van a birtokukban – legalább hat hónappal az összevont (konszolidált) éves beszámoló készítésének mérlegfordulónapja előtt nem kérték a mentesíthető anyavállalattól az összevont (konszolidált) éves beszámoló összeállítását.
 
-(2) Nem kötelező összevont (konszolidált) éves beszámolót és összevont (konszolidált) üzleti jelentést készítenie annak a mentesíthető anyavállalatnak, amely maga is leányvállalata egy fölérendelt anyavállalatnak, ha a fölérendelt anyavállalat e törvénnyel vagy a Tanács 1983. június 13-i 83/349/EGK irányelvével, illetve az Európai Parlament és a Tanács 2002. július 19-i 1606/2002/EK rendeletével összhangban vagy azokkal egyenértékű módon, illetve azoknak megfelelően készíti el és hozza nyilvánosságra összevont (konszolidált) éves beszámolóját, valamint összevont (konszolidált) üzleti jelentését, amelyben a mentesíthető anyavállalat és annak leányvállalatai éves beszámolóit is konszolidálják, továbbá nem alkalmazzák a mentesíthető anyavállalatra a 119. § előírásait, és ha teljesülnek az (1) bekezdés a) és b) pontjában foglaltak.
+(2) Nem kötelező összevont (konszolidált) éves beszámolót és összevont (konszolidált) üzleti jelentést készítenie annak a mentesíthető anyavállalatnak, amely maga is leányvállalata egy fölérendelt anyavállalatnak, ha a fölérendelt anyavállalat e törvénnyel vagy a Tanács 1983. június 13-i 83/349/EGK irányelvével, illetve az Európai Parlament és a Tanács 2002. július 19-i 1606/2002/EK rendeletével összhangban vagy azokkal egyenértékű módon, illetve azoknak megfelelően készíti el és hozza nyilvánosságra összevont (konszolidált) éves beszámolóját, valamint összevont (konszolidált) üzleti jelentését, amelyben a mentesíthető anyavállalat és annak leányvállalatai beszámolóit is konszolidálják, továbbá nem alkalmazzák a mentesíthető anyavállalatra a 119. § előírásait, és ha teljesülnek az (1) bekezdés a) és b) pontjában foglaltak.
 
 (3) Az (1)–(2) bekezdés alkalmazása esetén a mentesíthető anyavállalat éves beszámolója kiegészítő mellékletének a következőket is kell tartalmaznia:
 
@@ -2104,7 +2106,7 @@ kell elszámolni, és annak megfelelően kell az eredménylevezetés tételeiben
 
 (5) Nem alkalmazható az (1)–(2) bekezdés szerinti mentesítés arra az anyavállalatra, amelynek kibocsátott – a 3. § (6) bekezdésének 2–3. pontjai szerinti – értékpapírjai tőzsdei kereskedelme engedélyezett, vagy az engedélyezést már kérelmezték.
 
-(6) Az (1)–(2) bekezdés alkalmazása esetén, hiteles fordításban, magyar nyelven a fölérendelt külföldi anyavállalat összevont (konszolidált) éves beszámolóját és összevont (konszolidált) üzleti jelentését, az ezekről készült könyvvizsgálói jelentést kell közzétenni. E közzétételről a mentesített anyavállalat köteles gondoskodni a 154. §-ban foglaltaknak megfelelően, a fölérendelt külföldi anyavállalat összevont (konszolidált) éves beszámolójának mérlegfordulónapjától számított 180 napon belül.
+(6) Az (1)–(2) bekezdés alkalmazása esetén magyar nyelven a fölérendelt külföldi anyavállalat összevont (konszolidált) éves beszámolóját és összevont (konszolidált) üzleti jelentését, az ezekről készült könyvvizsgálói jelentést kell közzétenni. E közzétételről a mentesített anyavállalat köteles gondoskodni a 154. §-ban foglaltaknak megfelelően, a fölérendelt külföldi anyavállalat összevont (konszolidált) éves beszámolójának elfogadásától számított 60 napon belül.
 
 117. § (1) Az anyavállalatnak nem kell az üzleti évről összevont (konszolidált) éves beszámolót készítenie, ha az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő nem haladja meg az alábbi határértéket:
 
@@ -2498,7 +2500,7 @@ tartalmazza.
 
 (5) Az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetében a saját tőkén belül a lekötött tartalék tételében (elkülönítetten) fedezetet kell képezni az átalakulás napjáig várhatóan bekövetkező vagyonvesztésre.
 
-(6) A lekötött tartalék tételben kell fedezetet képezni az átalakulással közvetlenül összefüggően keletkező adófizetési kötelezettségre (a vagyonfelértékelés miatti adóra), ha arra más módon nem képeztek fedezetet.
+(6)
 
 (7) Az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetében az eredménytartalék összege – az (1) bekezdésben foglaltak figyelembevételével – csak az (1), (3)–(6) bekezdés, valamint a 138. § (4) bekezdésének a) pontja, illetve a 139. § (3)–(5) bekezdése alapján növelő-csökkentő tételek összevont pozitív értékével haladhatja meg az átalakuló gazdasági társaság vagyonmérleg-tervezetében egyébként szereplő eredménytartalék összegét.
 
@@ -2510,7 +2512,7 @@ tartalmazza.
 
 (3) Az átalakulás során megszűnő gazdasági társaság a végleges vagyonmérleg elkészítését megelőzően köteles az átalakulás napjával – mint mérlegfordulónappal – a számviteli törvény szerinti beszámolóját elkészíteni, analitikus és főkönyvi nyilvántartásait lezárni. Az az átalakuló gazdasági társaság, amely az átalakulás során nem szűnik meg (beolvadásnál az átvevő, kiválásnál a változatlan társasági formában továbbműködő gazdasági társaság), a végleges vagyonmérlegét a folyamatos könyvelés adatai alapján készíti el, analitikus és főkönyvi nyilvántartásait nem zárja le, azokat folyamatosan köteles vezetni, az átvett-átadott eszközöket-kötelezettségeket (ideértve a céltartalékokat és az időbeli elhatárolásokat is), ezek különbözeteként a saját tőkét a folyamatos könyvelés keretében – az átalakulás időpontjával – rendezi.
 
-(4) Amennyiben az átalakulással létrejövő gazdasági társaság végleges vagyonmérlegében kimutatott saját tőke eltér a vagyonmérleg-tervezetében kimutatott saját tőke értékétől, a különbözettel – a változás tartalmának és előjelének megfelelően – a tőketartalékot, az eredménytartalékot, illetve a lekötött tartalékot kell módosítani a végleges vagyonmérlegben. A tőketartalék módosítása során, ha emiatt a tőketartalék negatívvá válna, a tőketartalék pozitív összegéig a tőketartalékot, azt meghaladóan az eredménytartalékot kell csökkenteni.
+(4) Az átalakulással létrejövő gazdasági társaság végleges vagyonmérlegében kimutatott saját tőke és a vagyonmérleg-tervezetében kimutatott saját tőke különbözetének összegével – a változás tartalmának és előjelének megfelelően – a tőketartalékot, az eredménytartalékot, illetve a lekötött tartalékot kell módosítani a végleges vagyonmérlegben. A tőketartalék módosítása során, ha emiatt a tőketartalék negatívvá válna, a tőketartalék pozitív összegéig a tőketartalékot, azt meghaladóan az eredménytartalékot kell csökkenteni.
 
 (5) Ha az átalakulással létrejövő gazdasági társaság végleges vagyonmérlege szerinti saját tőke – 140. § (3) bekezdése szerinti lekötött tartalékkal csökkentett, illetve a (7) bekezdés szerinti jegyzett, de még be nem fizetett tőkeként kimutatott összeggel növelt – összege nem éri el a vagyonmérleg-tervezete szerinti (a cégbíróságon bejegyzett) jegyzett tőke értékét, a jegyzett tőkét le kell szállítani.
 
@@ -2735,7 +2737,7 @@ került sor.
 
 (4) A letétbe helyezett éves beszámoló, egyszerűsített éves beszámoló, egyszerűsített beszámoló, összevont (konszolidált) éves beszámoló adatai, kötelező könyvvizsgálat esetén a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt nyilvánosak, azokról bárki tájékoztatást kaphat, és másolatot készíthet.
 
-(5) A külföldi székhelyű vállalkozás magyarországi fióktelepe köteles a külföldi székhelyű vállalkozás által elfogadott éves beszámolót a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt, valamint az adózott eredmény felhasználására vonatkozó határozatot az adott üzleti év mérlegfordulónapjától számított 150 napon belül letétbe helyezni.
+(5) A külföldi székhelyű vállalkozás magyarországi fióktelepe köteles a külföldi székhelyű vállalkozás által elfogadott éves beszámolót, egyszerűsített éves beszámolót a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt, valamint az adózott eredmény felhasználására vonatkozó határozatot az adott üzleti év mérlegfordulónapjától számított 150 napon belül letétbe helyezni.
 
 ### Közzététel
 
@@ -2776,7 +2778,7 @@ kell feltüntetni.
 
 (4) A (3) bekezdésben meghatározott közzétételi és letétbe helyezési kötelezettségének a fióktelep magyar nyelven köteles eleget tenni.
 
-(5) A közzétételi, letétbe helyezési és könyvvizsgálati kötelezettség alól az (1)–(2) bekezdés alapján mentesülő fióktelep köteles a fióktelep működéséről készített éves beszámoló és adózási célú kimutatások megtekintését, valamint azokról másolat készítését a fióktelep székhelyén az érintett felek részére lehetővé tenni.
+(5) A közzétételi, letétbe helyezési és könyvvizsgálati kötelezettség alól az (1)–(2) bekezdés alapján mentesülő fióktelep köteles a fióktelep működéséről készített éves beszámoló, egyszerűsített éves beszámoló és adózási célú kimutatások megtekintését, valamint azokról másolat készítését a fióktelep székhelyén az érintett felek részére lehetővé tenni.
 
 (6) A külföldi hitelintézetek és pénzügyi vállalkozások magyarországi fióktelepei éves beszámolója közzétételi, letétbe helyezési és könyvvizsgálati kötelezettségéről az ezen vállalkozásokra vonatkozó, sajátos számviteli szabályokat tartalmazó kormányrendelet rendelkezik.
 
@@ -3156,6 +3158,10 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 (14) Ha a – 2004. december 31-éig hatályos előírások szerint a 2005. évi üzleti évben éves beszámoló készítésére kötelezett – vállalkozó az adókról, járulékokról szóló törvények módosításáról szóló 2005. évi XXVI. törvény 49. §-ával módosított 9. § (2) bekezdés szerinti határértékek alapján (az előző üzleti évek adatainak a megemelt határértékek szerinti minősítésével) a 2005. évi üzleti évben egyszerűsített éves beszámolót készíthetne, akkor a 97. § (2) bekezdésében foglalt előírástól eltérően közvetlenül – már a 2005. évi üzleti évről készítendő beszámolóra vonatkozóan is – áttérhet az egyszerűsített éves beszámoló készítésére.
 
 (15) Amennyiben a vállalkozó az e törvény – egyes adótörvények módosításáról szóló 2007. évi CXXVI. törvény 292. §-ával módosított – 55. §-a (2) bekezdésének előírását adott üzleti évre vonatkozóan először alkalmazza, az adott üzleti év első napjával ezen követelésekhez kapcsolódóan kimutatott értékvesztés összegét az egyéb bevételekkel szemben meg kell szüntetnie (vissza kell írnia).
+
+(16) E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel módosított 3. § (4) bekezdés 10. pont e) alpontját, 3. § (8) bekezdés 12. pontját, 9. § (3)–(4) bekezdését, 11. § (3) bekezdését, 33. § (6) bekezdését, 47. § (8) bekezdését, 59/C. § (2) bekezdését, 60. § (2) bekezdését, 60. § (6) bekezdését, 60. § (10) bekezdését, 84. § (8) bekezdését, 85. § (4) bekezdését, 86. § (9) bekezdését, 93. § (1) bekezdés b) pontját, 96. § (4)–(6) bekezdését, 116. § (1) bekezdésének felvezető szövegét, 116. § (2) bekezdését, 116. § (6) bekezdését, 140. § (6) bekezdését, 141. § (4) bekezdését, 153. § (5) bekezdését, 154/A. § (5) bekezdését, valamint 6. számú mellékletét először a 2011. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(17) E törvénynek a (16) bekezdésben hivatkozott, az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel módosított rendelkezései a 2010. évben induló üzleti évről készített beszámolóra is alkalmazhatók.
 
 ### Felhatalmazás
 
@@ -3983,17 +3989,17 @@ I.
 
 Az összevont (konszolidált) mérlegelőírt tagolása a következőkiegészítésekkel tér el az 1. számú melléklet,,A'' változata szerinti mérleg tagolásától
 
-1. Az A/III. pont kiegészül az alábbi 8. sorral:
+1. Az A/III. pont kiegészül az alábbi 9. sorral:
 
-,,9. Tőkekonszolidációs különbözet
+„9. Tőkekonszolidációs különbözet
 
 – leányvállalatokból
 
-– társult vállalkozásokból''
+– társult vállalkozásokból”
 
-2. A B/II. pont kiegészül az alábbi 6. sorral:
+2. A B/II. pont kiegészül az alábbi 8. sorral:
 
-,,8. Konszolidációból adódó (számított) társasági adó követelés''
+„8. Konszolidációból adódó (számított) társasági adó követelés”
 
 3. A D. Saját tőke sor az alábbi sorokkal egészül ki:
 
@@ -4011,9 +4017,9 @@ X. Külső tagok (más tulajdonosok) részesedése''
 
 ,,4. Tőkekonszolidációs különbözet leányvállalatokból''
 
-5. Az F/III. pont az alábbi 9. sorral egészül ki:
+5. Az F/III. pont az alábbi 11. sorral egészül ki:
 
-,,11. Konszolidálásból adódó (számított) társasági adó tartozás''
+„11. Konszolidációból adódó (számított) társasági adó tartozás”
 
 A tagolás értelemszerűen alkalmazandó az 1. számú melléklet ,,B'' változata szerinti mérlegnél is.
 

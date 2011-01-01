@@ -28,7 +28,7 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 3. § (1) A helyi önkormányzat tulajdonában lévő lakásra (a továbbiakban: önkormányzati lakás) a tulajdonos önkormányzat – e törvény keretei között alkotott – rendeletében (a továbbiakban: önkormányzati rendelet) meghatározott feltételekkel lehet szerződést kötni. Az önkormányzati rendeletben meg kell határozni az önkormányzati lakás szociális helyzet alapján történő bérbeadásának a lakás bérbeadásakor fennálló jövedelmi és vagyoni körülményekhez igazodó feltételeit. Az önkormányzati rendelet a nem szociális helyzet alapján történő bérbeadás esetén szabályozhatja a Ptk. rendelkezéseinek megfelelő óvadék kikötésének lehetőségét és feltételeit.
 
-(2) Az önkormányzati rendelet – az állam tulajdonában lévő lakás (a továbbiakban: állami lakás) esetén a 87. §-ban említett miniszter rendelete – a bérbeadás feltételeként meghatározhatja, hogy a lakásbérleti szerződés fennállása alatt a bérlő köteles életvitelszerűen a lakásban lakni. A rendeletben meghatározott ilyen feltételt a szerződésnek tartalmaznia kell azzal a kikötéssel, hogy a bérlő a lakásból történő két hónapot meghaladó távollétét és annak időtartamát köteles írásban a bérbeadó részére bejelenteni. A bérlő által bejelentett – különösen: egészségügyi ok, munkahely megváltozása, tanulmányok folytatása miatt történő – távolléte alatt, erre hivatkozással felmondani nem lehet. Nem lehet felmondani a szerződést abban az esetben sem, ha a bérlő a bejelentést menthető okból mulasztotta el, és erről a bérbeadót – felhívására – írásban tájékoztatja.
+(2) Az önkormányzati rendelet – az állam tulajdonában lévő lakás (a továbbiakban: állami lakás) esetén a Kormány rendelete – a bérbeadás feltételeként meghatározhatja, hogy a lakásbérleti szerződés fennállása alatt a bérlő köteles életvitelszerűen a lakásban lakni. A rendeletben meghatározott ilyen feltételt a szerződésnek tartalmaznia kell azzal a kikötéssel, hogy a bérlő a lakásból történő két hónapot meghaladó távollétét és annak időtartamát köteles írásban a bérbeadó részére bejelenteni. A bérlő által bejelentett – különösen: egészségügyi ok, munkahely megváltozása, tanulmányok folytatása miatt történő – távolléte alatt, erre hivatkozással felmondani nem lehet. Nem lehet felmondani a szerződést abban az esetben sem, ha a bérlő a bejelentést menthető okból mulasztotta el, és erről a bérbeadót – felhívására – írásban tájékoztatja.
 
 (3) Ha az önkormányzati lakás, továbbá a műteremlakás bérlőjének kijelölésére vagy kiválasztására megállapodás, illetőleg e törvény hatálybalépésekor jogszabály meghatározott szervet jogosít fel, az általa megjelölt személlyel kell szerződést kötni. A bérlőkijelölésre, valamint ilyen megállapodás esetén a bérlő kiválasztására jogosult döntése alapján a szerződés határozatlan vagy határozott időre, illetőleg feltétel bekövetkezéséig köthető. A bérlőkijelölésre jogosult a szerződés tartalmára vonatkozóan — ha erre törvény vagy megállapodás felhatalmazza — egyéb feltételeket is előírhat.
 
@@ -572,7 +572,7 @@ használható fel. A felhasználás feltételeit és a pályázati eljárás ren
 - b) aki büntetett előéletű,
 - c) aki az ilyen tevékenységtől eltiltó jogerős bírói ítélet hatálya alatt áll.
 
-(4) A nyilvántartásban szereplő személy köteles az (1) bekezdésben foglalt adatok megváltozásáról az eljáró hatóságot a változástól számított nyolc munkanapon belül tájékoztatni.
+(4) A nyilvántartásban szereplő személy köteles az (1) bekezdésben foglalt adatok megváltozásáról az eljáró hatóságot a változástól számított tíz napon belül tájékoztatni.
 
 (5) Az ingatlanvállalkozás-felügyeleti hatóság az ingatlanközvetítői, valamint az ingatlanvagyon-értékelő és -közvetítői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a nyilvántartásba vett ingatlanközvetítői, ingatlanvagyon-értékelő és -közvetítői tevékenységet végző személy büntetlen előéletű, és nem áll a tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából az ingatlanvállalkozás-felügyeleti hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az ingatlanközvetítő, illetve az ingatlanvagyon-értékelő és ingatlanvagyon-közvetítő büntetlen előéletű-e, valamint, hogy a tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
@@ -712,11 +712,11 @@ használható fel. A felhasználás feltételeit és a pályázati eljárás ren
 
 (2) Az (1) bekezdés a), g), h) és m) pontjában foglaltakat a fennálló bérlőkiválasztási jog esetén megfelelően alkalmazni kell.
 
-(3) A kultúráért felelős miniszter, illetőleg jogutódja a műteremlakásra vonatkozó bérlőkijelölési jog gyakorlásának feltételeit – e törvény keretei között – rendeletben határozza meg.
+(3) A kultúráért felelős miniszter a műteremlakásra vonatkozó bérlőkijelölési jog gyakorlásának feltételeit – e törvény keretei között – rendeletben határozza meg.
 
 87/A. § Felhatalmazást kap a Kormány, hogy az ingatlanvállalkozás-felügyeleti hatóságot vagy hatóságokat rendeletben jelölje ki.
 
-87/B. § Felhatalmazást kap a miniszter, hogy
+87/B. § Felhatalmazást kap a lakásgazdálkodásért és lakáspolitikáért felelős miniszter, hogy
 
 - a) az e törvény szerinti üzletszerű ingatlanközvetítői, illetőleg üzletszerű ingatlanvagyon-értékelő és közvetítői tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, valamint
 - b) a 64/C. § (5) bekezdése szerinti bejelentést tevő gazdálkodó szervezetek tevékenysége folytatásának részletes feltételeit, a tevékenység bejelentésének és e gazdálkodó szervezetekről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket rendeletben szabályozza.
@@ -752,7 +752,7 @@ használható fel. A felhasználás feltételeit és a pályázati eljárás ren
 - a) ha az önkormányzat a tulajdonában lévő lakást ad bérbe, a bérbe adott lakás után a fővárosi kerületekben 2,5 millió forint, más városokban 2 millió forint, egyéb településeken pedig 1,5 millió forint,
 - b) ha az önkormányzat pénzbeli térítés fizetésével vagy a lakás megvásárlásával gondoskodik a kényszerbérlet megszűnéséről, az önkormányzati ráfordítás összegének a fele, de legfeljebb 2,5 millió forint a fővárosi kerületekben, 2 millió forint más városokban, egyéb településeken pedig 1,5 millió forint.
 
-(3) A teljesített feladatok után járó támogatásra az önkormányzat jogosult benyújtani az igényét a lakásügyért felelős miniszterhez, aki a benyújtást követő 30 napon belül rendelkezésre bocsátja az igényelt támogatást.
+(3) A teljesített feladatok után járó támogatásra az önkormányzat jogosult benyújtani az igényét a lakásgazdálkodásért és lakáspolitikáért felelős miniszterhez, aki a benyújtást követő 30 napon belül rendelkezésre bocsátja az igényelt támogatást.
 
 ### Önkényesen elfoglalt lakás kiürítése közigazgatási eljárásban
 

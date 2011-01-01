@@ -775,7 +775,7 @@ irányuló eljárás
 
 (3)
 
-56. § (1) A külföldi székhelyű vállalkozás magyarországi fióktelepének és az európai gazdasági egyesülés telephelyének megszüntetése iránti kérelmet a cégnek változásként kell a cégbírósághoz benyújtania.
+56. § (1) A külföldi székhelyű vállalkozás magyarországi fióktelepének és az európai gazdasági egyesülés telephelyének megszüntetése iránti kérelmet a cégnek változásként kell a cégbírósághoz benyújtania. A változásbejegyzési kérelem benyújtásának tényét tanúsító, e törvény 36. § (1) bekezdése szerinti igazolást a cégbíróság az állami adóhatóság részére is megküldi.
 
 (2) A fióktelep törlésére – amennyiben a fióktelep nem fizetésképtelen – végelszámolás lefolytatása nélkül kerül sor, azt követően, hogy a cég a törléshez szükséges, a rá vonatkozó anyagi jogszabályban meghatározott feltételek meglétét igazolta.
 
@@ -783,7 +783,7 @@ irányuló eljárás
 
 (4) Ha a külföldi székhelyű vállalkozás megszűnt és ezt megelőzően, erre figyelemmel a (3) bekezdésben meghatározottak nem kérték az (1)–(2) bekezdés szerint a megszüntetést, illetve a törlést, a cégbíróság a (3) bekezdésben megjelölt szervezetet hivatalból törli a cégnyilvántartásból.
 
-(5) Az (1)–(4) bekezdésben foglaltak megfelelően irányadók a külföldiek magyarországi kereskedelmi képviseletének törlésére is.
+(5) Az (1)–(4) bekezdésben foglaltak – az adóhatóság elektronikus értesítésére vonatkozó rendelkezés kivételével – megfelelően irányadók a külföldiek magyarországi kereskedelmi képviseletének törlésére is.
 
 ### 16. CÍM — A cég átalakulásának bejegyzése iránti eljárás
 
@@ -839,7 +839,7 @@ irányuló eljárás
 
 (3) A (2) bekezdésben meghatározott végzések ellen – a 92. § (3) bekezdésben foglalt kivétellel – sem fellebbezésnek, sem felülvizsgálatnak nincs helye.
 
-(4) A cég a cégjegyzékből való törléssel szűnik meg. Ha a cég törlésére nem felszámolási eljárást követően kerül sor, a cégbíróság a céget akkor törölheti a cégjegyzékből, ha az állami adóhatóság – a vámhatóságtól beszerzett adatok alapján is – elektronikus úton arról tájékoztatja, hogy a cégnél adóhatósági eljárás nincs folyamatban, és ellenőrzést, végrehajtást nem kezdeményez vagy ennek hiányában a 84. § (1) bekezdésében, illetve a 91. § (1) bekezdésében meghatározott elektronikus értesítéstől, illetve a végelszámolást lezáró beszámoló közzétételétől számított 90 nap eltelt. Végelszámolás esetén az állami adóhatóság arról is tájékoztatja a cégbíróságot, hogy a cégnek van-e az állami adóhatóságnál, illetve – a vámhatóságtól beszerzett adatok alapján – a vámhatóságnál nyilvántartott köztartozása. Amennyiben a tájékoztatás szerint az adóhatóság a cégnél eljárást folytat, vagy ellenőrzést, végrehajtást kezdeményez, vagy a cég köztartozással rendelkezik, a cég csak az adóhatósági eljárások jogerős befejezéséről szóló, illetve végelszámolás esetén ezen felül a köztartozást érintően nemlegesnek minősülő elektronikus tájékoztatást követően törölhető a cégjegyzékből. A cégjegyzék azt is tartalmazza, hogy a törlésre kérelemre vagy hivatalból került-e sor.
+(4) A cég a cégjegyzékből való törléssel szűnik meg. Ha a cég törlésére nem felszámolási eljárást követően kerül sor, a cégbíróság a céget akkor törölheti a cégjegyzékből, ha az állami adóhatóság – a vámhatóságtól beszerzett adatok alapján is – elektronikus úton arról tájékoztatja, hogy a cégnél adóhatósági eljárás nincs folyamatban, és ellenőrzést, végrehajtást nem kezdeményez vagy ennek hiányában az 56. § (1) bekezdésében, a 84. § (1) bekezdésében, vagy a 91. § (1) bekezdésében meghatározott elektronikus értesítéstől, illetve a végelszámolást lezáró beszámoló közzétételétől számított 90 nap eltelt. Végelszámolás esetén az állami adóhatóság arról is tájékoztatja a cégbíróságot, hogy a cégnek van-e az állami adóhatóságnál, vagy – a vámhatóságtól beszerzett adatok alapján – a vámhatóságnál nyilvántartott köztartozása. Amennyiben a tájékoztatás szerint az adóhatóság a cégnél eljárást folytat, vagy ellenőrzést, végrehajtást kezdeményez, vagy a cég köztartozással rendelkezik, a cég csak az adóhatósági eljárások jogerős befejezéséről szóló, végelszámolás esetén pedig ezen felül a köztartozást érintően nemlegesnek minősülő elektronikus tájékoztatást követően törölhető a cégjegyzékből. A cégjegyzék azt is tartalmazza, hogy a törlésre kérelemre vagy hivatalból került-e sor.
 
 ### 18. CÍM — A cégbíróság adatszolgáltatási,
 
@@ -1485,13 +1485,13 @@ módosuló jogszabályok
 - b) a Cégközlönyben megjelenő közlemények közzétételére és költségtérítésére,
 - c) a céginformációs szolgálat működésére és a fizetendő költségtérítésre,
 - d) a felügyelőbiztos díjára,
-- e) a közigazgatási informatikáért felelős miniszterrel egyetértésben az elektronikus cégbejegyzési eljárásra és cégnyilvántartásra,
-- f) a közigazgatási informatikáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a cégeljárás és más cégügy illetéke és a közzétételi költségtérítés elektronikus úton történő megfizetésével kapcsolatos eljárásra,
-- g) a közigazgatási informatikáért felelős miniszterrel egyetértésben a cég honlapján történő közzétételre,
-- h) a közigazgatási informatikáért felelős miniszterrel egyetértésben az automatikus és a hivatalbóli bejegyzési eljárásra, az automatikus és a hivatalbóli bejegyzésekre,
-- i) a közigazgatási informatikáért felelős miniszterrel egyetértésben a cégjegyzésre jogosultak képviseleti jogának igazolására szolgáló kártyára,
+- e) az e-közigazgatásért felelős miniszterrel és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel egyetértésben az elektronikus cégbejegyzési eljárásra és cégnyilvántartásra,
+- f) az e-közigazgatásért felelős miniszterrel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a cégeljárás és más cégügy illetéke és a közzétételi költségtérítés elektronikus úton történő megfizetésével kapcsolatos eljárásra,
+- g) az e-közigazgatásért felelős miniszterrel egyetértésben a cég honlapján történő közzétételre,
+- h) az e-közigazgatásért felelős miniszterrel és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel egyetértésben az automatikus és a hivatalbóli bejegyzési eljárásra, az automatikus és a hivatalbóli bejegyzésekre,
+- i) az e-közigazgatásért felelős miniszterrel egyetértésben a cégjegyzésre jogosultak képviseleti jogának igazolására szolgáló kártyára,
 - j) a számviteli szabályozásért felelős miniszterrel egyetértésben a számviteli törvény szerinti beszámoló elektronikus úton történő megküldése során csatolandó űrlap formai és tartalmi elemeire, továbbá a beszámoló elektronikus úton történő megküldésével kapcsolatos eljárásra,
-- k) a költségvetésért felelős miniszterrel egyetértésben a céginformációs szolgálattal kapcsolatos bevételek beszedésére
+- k) az államháztartásért felelős miniszterrel egyetértésben a céginformációs szolgálattal kapcsolatos bevételek beszedésére
 
 vonatkozó részletes szabályokat rendelettel állapítsa meg.
 

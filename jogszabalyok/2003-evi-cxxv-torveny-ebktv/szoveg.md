@@ -137,7 +137,7 @@ miatt részesül kedvezőtlenebb bánásmódban, mint amelyben más, összehason
 
 - a) kérelem alapján, illetve az e törvényben meghatározott esetekben hivatalból vizsgálatot folytat annak megállapítására, hogy megsértették-e az egyenlő bánásmód követelményét, valamint kérelem alapján vizsgálatot folytat, hogy az arra kötelezett munkáltatók elfogadtak-e esélyegyenlőségi tervet, a vizsgálat alapján határozatot hoz;
 - b) a közérdekű igényérvényesítés joga alapján pert indíthat a jogaikban sértett személyek és csoportok jogainak védelmében;
-- c) véleményezi az egyenlő bánásmódot érintő jogszabályok, állami irányítás egyéb jogi eszközei és jelentések tervezeteit;
+- c) véleményezi az egyenlő bánásmódot érintő jogszabályok, közjogi szervezetszabályozó eszközök és jelentések tervezeteit;
 - d) javaslatot tesz az egyenlő bánásmódot érintő kormányzati döntésekre, jogi szabályozásra;
 - e) rendszeresen tájékoztatja a közvéleményt és a Kormányt az egyenlő bánásmód érvényesülésével kapcsolatos helyzetről;
 - f) feladatainak ellátása során együttműködik a társadalmi és érdek-képviseleti szervezetekkel, valamint az érintett állami szervekkel;
@@ -257,7 +257,7 @@ folytatja le.
 
 (4) A testület tagjai számára – a feladatuk ellátásához szükséges mértékben – a hatóság vezetője a hatóság kezelésében levő iratokba betekintést enged. A hatóság kezelésében levő iratban található személyes adatokat a testület tagjai egyedi azonosításra alkalmatlan formában ismerhetik meg.
 
-17/C. § (1) A testület három tagjának felkérésére a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, három további tagjának felkérésére az igazságügyért felelős miniszter tesz javaslatot a miniszterelnöknek. A felkérni javasolt személyekről a javaslatot tevő miniszterek az egyenlő bánásmód követelménye érvényesítésében részt vevő szervekkel és szervezetekkel előzetes közös egyeztetést folytatnak.
+17/C. § (1) A testület három tagjának felkérésére a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, három további tagjának felkérésére az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter tesz javaslatot a miniszterelnöknek. A felkérni javasolt személyekről a javaslatot tevő miniszterek az egyenlő bánásmód követelménye érvényesítésében részt vevő szervekkel és szervezetekkel előzetes közös egyeztetést folytatnak.
 
 (2) A megbízatás ellátására a választási eljárásról szóló törvény hatálya alá tartozó valamely választáson választójoggal rendelkező olyan személy kérhető fel, aki az emberi jogok védelme és az egyenlő bánásmód követelményének érvényesítése területén kiemelkedő tapasztalatokkal rendelkezik.
 
@@ -497,7 +497,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá kise
 
 (7) A helyi önkormányzatok jogi személyiséggel rendelkező társulása az államháztartás alrendszereiből, az európai uniós forrásokból, illetve a nemzetközi megállapodás alapján finanszírozott egyéb programokból származó, egyedi döntés alapján nyújtott, pályázati úton odaítélt támogatásban csak akkor részesülhet, ha a társulást alkotó helyi önkormányzatok mindegyike az e törvény rendelkezéseinek megfelelő, hatályos helyi esélyegyenlőségi programmal rendelkezik.
 
-(8) A hatóság a polgármester, a megyei közgyűlés elnöke, illetve a többcélú kistérségi társulás esetében a társulási tanács elnökének kérelmére megvizsgálja, hogy a helyi önkormányzat, illetve a többcélú kistérségi társulás rendelkezik-e az e törvény rendelkezéseinek megfelelő, hatályos helyi esélyegyenlőségi programmal, és ezt a tényt a kérelem beérkezését követő negyvenöt munkanapon belül hatósági bizonyítvánnyal igazolja. A hatóság a hatósági bizonyítványokat a honlapján közzéteszi.
+(8) A hatóság a polgármester, a megyei közgyűlés elnöke, illetve a többcélú kistérségi társulás esetében a társulási tanács elnökének kérelmére megvizsgálja, hogy a helyi önkormányzat, illetve a többcélú kistérségi társulás rendelkezik-e az e törvény rendelkezéseinek megfelelő, hatályos helyi esélyegyenlőségi programmal, és ezt a tényt a kérelem beérkezését követő naptól számított két hónapon belül hatósági bizonyítvánnyal igazolja. A hatóság a hatósági bizonyítványokat a honlapján közzéteszi.
 
 (9) A Kormány által rendeletben kijelölt szerv az esélyegyenlőségi szakértőkről névjegyzéket vezet, amely tartalmazza a szakértő
 
@@ -528,7 +528,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá kise
 
 (15) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az (1) bekezdésben meghatározott szempontokat, az esélyegyenlőségi szakértői tevékenység végzésére és annak feltételeire, a szakértő képesítésére, továbbképzésére, működésére és a szakmai gyakorlatra vonatkozó rendelkezéseket, a névjegyzékbe vétel, a névjegyzékről történő kirendelés, a szüneteltetés, a panaszeljárás és a névjegyzékből való törlés szabályait, továbbá a névjegyzéket vezető szerv kijelölését.
 
-(16) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy rendeletben állapítsa meg – az adópolitikáért felelős miniszter egyetértésével – az esélyegyenlőségi szakértői névjegyzékkel összefüggő eljárásokban fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait.
+(16) Felhatalmazást kap az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter, hogy – a társadalmi esélyegyenlőség előmozdításáért felelős miniszter és az adópolitikáért felelős miniszter egyetértésével kiadott – rendeletben állapítsa meg az esélyegyenlőségi szakértői névjegyzékkel összefüggő eljárásokban fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait.
 
 64. § Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a hatóságot vagy hatóságokat, valamint rendeletben határozza meg a hatóság eljárására vonatkozó részletes szabályokat.
 
