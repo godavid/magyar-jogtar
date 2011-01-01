@@ -388,7 +388,7 @@ az összeférhetetlenséget nem szünteti meg, ÁRMB-tagsága az a), illetve b) 
 
 (2) Az (1) bekezdésben meghatározottakra az ÁRMB 21. § (1) bekezdésének b) pontja alapján hozott jogerős határozatával elismert ÁPB jogosult.
 
-(3) Az (1) bekezdés a) pontjában meghatározottak forrása a Munkaerőpiaci Alap, annak mértéke 2010-ben a Magyar Köztársaság 2010. évi költségvetéséről szóló törvényben meghatározott összeg, ezt követően pedig ezen összegnek a tárgyévet megelőző második évben a Központi Statisztikai Hivatal által meghatározott éves fogyasztói árnövekedéssel növelt összege.
+(3) Az (1) bekezdés a) pontjában meghatározottak forrását és mértékét a költségvetésről szóló törvény határozza meg.
 
 ### Értelmező rendelkezések
 

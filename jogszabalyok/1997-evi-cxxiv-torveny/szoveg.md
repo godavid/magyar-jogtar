@@ -54,9 +54,7 @@ a következő törvényt alkotja:
 
 (2) Az egyház a számára a magánszemélyek által a személyi jövedelemadójukból felajánlott 1%-okból eredő összegeken túl a (3)–(4) bekezdése szerint meghatározott további támogatásra jogosult.
 
-(3) A támogatások együttes alapja a nyilatkozattal érintett évre bevallott, az összevont adóalapot terhelő, adókedvezményekkel csökkentett személyi jövedelemadó 0,5 százalékának és az egyházak számára a magánszemélyek által a személyi jövedelemadójukból felajánlott 1%-ok összegének pozitív különbözete.
-
-[(3) A támogatások együttes alapja az egyházak számára a magánszemélyek által a személyi jövedelemadójukból felajánlott 1%-ok összege, de legalább a nyilatkozattal érintett évre bevallott, az összevont adóalapot terhelő, adókedvezményekkel csökkentett személyi jövedelemadó 0,5%-ának és az egyházak számára a magánszemélyek által a személyi jövedelemadójukból felajánlott 1%-ok összegének pozitív különbözete.]
+(3) A támogatások együttes alapja az egyházak számára a magánszemélyek által a személyi jövedelemadójukból felajánlott 1%-ok összege, de legalább a nyilatkozattal érintett évre bevallott, az összevont adóalapot terhelő, adókedvezményekkel csökkentett személyi jövedelemadó 0,5%-ának és az egyházak számára a magánszemélyek által a személyi jövedelemadójukból felajánlott 1%-ok összegének pozitív különbözete.
 
 (4) A támogatásból az egyes egyházak a javukra a személyi jövedelemadójuk 1%-áról rendelkező magánszemélyek arányában részesülnek.
 
@@ -88,7 +86,7 @@ a következő törvényt alkotja:
 
 (2) A 3. § (1) bekezdése szerinti járadékot negyedévenként, az adott negyedév első hónapjának 10. napjáig, az első negyedévben az első hónap utolsó napjáig kell rendelkezésre bocsátani, a 3. § (2) bekezdésében előírt korrekciót pedig egy összegben kell rendezni a költségvetés végrehajtásáról szóló törvény elfogadását követő hónap utolsó napjáig.
 
-(3) A 4. § szerinti személyijövedelemadó-részesedést és annak kiegészítését az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter által vezetett minisztérium fejezetben kell megtervezni, és a felajánlást követő év január 31-éig az egyháznak átutalni.
+(3) A 4. § szerinti személyijövedelemadó-részesedést és annak kiegészítését a miniszter által vezetett minisztérium fejezetben kell megtervezni, és a felajánlást követő év január 31-éig az egyháznak átutalni.
 
 9. § A 3. § (3) bekezdése szerinti írásos nyilatkozatot – az előírt jogvesztő határidőn belül – a miniszternek kell megküldeni.
 

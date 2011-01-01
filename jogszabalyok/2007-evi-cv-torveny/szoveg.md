@@ -413,9 +413,7 @@ a) a körözött személy]
 
 „(6) A (2)–(4) bekezdés rendelkezéseit értelemszerűen alkalmazni kell arra a tárgyra, okmányra vagy hatósági jelzésre is, amelyre nem követtek el bűncselekményt, de külön törvény, illetve az Európai Unió jogi aktusa alapján a Schengeni Információs Rendszerben elhelyezett figyelmeztető jelzés eredményeként találták meg. Az így megtalált tárgyat, okmányt vagy hatósági jelzést a NEBEK-en keresztül, a Schengeni Információs Rendszert alkalmazó állam figyelmeztető jelzés kibocsátását elrendelő hatóságának kell átadni.”
 
-42. § A Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény 7. §-ának helyébe a következő rendelkezés lép:
-
-7. § „A Vám- és Pénzügyőrség a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény, az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény, a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló törvény, valamint a vonatkozó nemzetközi szerződések és az Európai Unió jogi aktusai alapján együttműködik a külföldi és a nemzetközi rendvédelmi szervekkel.”
+42. §
 
 43. § (1) E törvény – a (2) és (3) bekezdésben foglalt kivételekkel – a kihirdetését követő harmincadik napon lép hatályba.
 
@@ -447,7 +445,7 @@ lép.
 - a) kijelölje az N.SIS informatikai központ feladatait ellátó szervet,
 - b) rendeletben szabályozza a SIS-be történő adatbevitel elrendelésének és végrehajtásának, valamint az N.SIS Hivatal és a SIRENE Iroda technikai és adminisztratív feladatai ellátásának részletes szabályait.
 
-(2) Felhatalmazást kap a rendészetért és határrendészetért felelős miniszter, hogy rendeletben szabályozza a SIS-be történő adatbevitel elrendeléséhez felhasználandó iratmintákat.
+(2) Felhatalmazást kap a rendészetért felelős miniszter, hogy a határrendészetért felelős miniszter egyetértésével kiadott rendeletben szabályozza a SIS-be történő adatbevitel elrendeléséhez felhasználandó iratmintákat.
 
 46. § Ha az 5. § (1) bekezdése szerinti figyelmeztető jelzés alapjául szolgáló intézkedés elrendelésére e törvény hatálybalépése előtt került sor, az elrendelő bíróság vagy hatóság az e törvény hatálybalépését követő három hónapon belül – a figyelmeztető jelzés alapjául szolgáló intézkedés jogszerűségének és időszerűségének felülvizsgálatát követően – intézkedik a figyelmeztető jelzés elhelyezése céljából a SIS-be történő adattovábbítás érdekében.
 

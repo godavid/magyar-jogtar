@@ -622,7 +622,7 @@ az állami földtani feladatokat ellátó szervnek megküldeni.
 
 (4) A szolgalom alapján a bányavállalkozó jogosult a tevékenység végzéséhez szükséges mértékben az ingatlan igénybevételére, különösen ellenőrzés, javítás, karbantartás, kapacitásfenntartás és -bővítés, az üzemelés, a biztonság fenntartása, az üzemzavar megelőzése és elhárítása érdekében szükséges intézkedések végrehajtására.
 
-(5) Az ingatlan igénybevétele során okozott kárt a bányakárokra vonatkozó szabályok szerint kell megtéríteni. A szolgalom szerinti korlátozással megegyezően kell az ingatlanban keletkezett kárt megtéríteni. A szolgalom alapításáról, továbbá a kártalanítás módjáról és mértékéről a bányavállalkozónak az ingatlan tulajdonosával (vagyonkezelőjével, használójával) ajánlat megküldésével kell az egyezség létrehozását megkísérelnie. Megegyezés hiányában a szolgalom alapítását és az annak fejében járó kártalanítást a bányavállalkozó kérelmére a közigazgatási hivatal állapítja meg. A szolgalom alapítására irányuló eljárásra a kisajátítási eljárás szabályait kell alkalmazni. A megállapodáson és a hatósági határozaton alapuló jog a Ptk. 108. § és 171. §-ában, valamint az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16. §-ának f) pontjában foglalt rendelkezések alkalmazása során azonos megítélés alá esik.
+(5) Az ingatlan igénybevétele során okozott kárt a bányakárokra vonatkozó szabályok szerint kell megtéríteni. A szolgalom szerinti korlátozással megegyezően kell az ingatlanban keletkezett kárt megtéríteni. A szolgalom alapításáról, továbbá a kártalanítás módjáról és mértékéről a bányavállalkozónak az ingatlan tulajdonosával (vagyonkezelőjével, használójával) ajánlat megküldésével kell az egyezség létrehozását megkísérelnie. Megegyezés hiányában a szolgalom alapítását és az annak fejében járó kártalanítást a bányavállalkozó kérelmére a Kormány általános hatáskörű területi államigazgatási szerve állapítja meg. A szolgalom alapítására irányuló eljárásra a kisajátítási eljárás szabályait kell alkalmazni. A megállapodáson és a hatósági határozaton alapuló jog a Ptk. 108. § és 171. §-ában, valamint az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16. §-ának f) pontjában foglalt rendelkezések alkalmazása során azonos megítélés alá esik.
 
 (6)
 
@@ -672,7 +672,7 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 - a) az elosztóvezetéket – a hozzá tartozó szerelvényekkel együtt – elhelyezheti és üzemeltetheti,
 - b) az elhelyezett létesítményeket karbantarthatja, kijavíthatja, átalakíthatja és eltávolíthatja,
 - c) a vezeték mentén lévő, a biztonsági övezetet sértő fákat, bokrokat, azok ágait, gyökereit eltávolíthatja,
-- d) a miniszternek, a vízgazdálkodásért felelős miniszterrel, valamint az elektronikus hírközlésért felelős miniszterrel együttesen kiadott rendeletében meghatározott módon nyomvonalas létesítményt, folyót, vízfolyást, tavat, csatornát és építményt megközelíthet, keresztezhet.
+- d) a miniszternek, a vízgazdálkodásért felelős miniszter, valamint az elektronikus hírközlésért felelős miniszter egyetértésével kiadott rendeletében meghatározott módon nyomvonalas létesítményt, folyót, vízfolyást, tavat, csatornát és építményt megközelíthet, keresztezhet.
 
 (4) A vezetékjog ingatlan-nyilvántartásba történő bejegyzését az engedélyes, valamint az elosztóvezeték tulajdonosa köteles kérni. A vezetékjog a gázelosztó-vezeték mindenkori engedélyesét, illetőleg tulajdonosát illeti meg, és az ingatlan mindenkori tulajdonosát terheli. A vezetékjog a jogerős határozat, illetve a tulajdonos hozzájárulása alapján a bejegyzés előtt is gyakorolható.
 
@@ -779,15 +779,15 @@ gyakorolja.
 
 43/A. § (1) A szilárd ásványi nyersanyag esetében a bányatelek megállapításra indított eljárásban, valamint a kutatási, kitermelési, szüneteltetési vagy bányabezárási, illetőleg mezőfelhagyási műszaki üzemi tervek jóváhagyására indult eljárásban, továbbá a bányafelügyelet építésügyi hatósági hatáskörébe tartozó engedélyezési eljárásokban a műszaki üzemi tervben tervezett bányászati tevékenységgel ténylegesen igénybe vett területekkel, valamint a létesítmény és biztonsági övezete területével érintett ingatlan tulajdonosa, továbbá az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték, ügyfélnek minősül.
 
-(2) A bányafelügyelet az eljárás megindításáról az ügyfelet 8 munkanapon belül értesíti.
+(2) A bányafelügyelet az eljárás megindításáról az ügyfelet tíz napon belül értesíti.
 
 (3)
 
 (4)
 
-43/B. § (1) A bányatelek megállapítására indított eljárás során az ügyintézés határideje három hónap, a kutatási jog adományozására vonatkozó eljárás ügyintézési határideje 15 munkanap.
+43/B. § (1) A bányatelek megállapítására indított eljárás során az ügyintézés határideje három hónap, a kutatási jog adományozására vonatkozó eljárás ügyintézési határideje húsz nap.
 
-(2) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a bányafelügyelet a kérelem beérkezésétől számított 10 munkanapon belül hiánypótlásra hívja fel.
+(2) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a bányafelügyelet a kérelem beérkezésétől számított tizenöt napon belül hiánypótlásra hívja fel.
 
 (3)
 
@@ -1041,7 +1041,7 @@ rendeletben történő megállapítására.
 (3) Felhatalmazást kap
 
 - a) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a 43. § (9) bekezdésében megállapított felügyeleti díj fizetésének részletes szabályait, valamint az igazgatási szolgáltatási díjak körét, mértékét és a díjak beszedésének, kezelésének, nyilvántartásának szabályait rendeletben állapítsa meg,
-- b) a miniszter, a vízgazdálkodásért felelős miniszter és az elektronikus hírközlésért felelős miniszter arra, hogy a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény az engedélyes, illetőleg az elosztóvezeték tulajdonosa által, a vezetékjog alapján történő megközelítését, keresztezését együttes rendeletben szabályozzák.
+- b) a miniszter, hogy a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény az engedélyes, illetőleg az elosztóvezeték tulajdonosa által, a vezetékjog alapján történő megközelítését, keresztezését a vízgazdálkodásért felelős miniszter és az elektronikus hírközlésért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
 (4) A miniszter a hatósági engedély alapján bányászati jogot gyakorló bányavállalkozóval a 26/A. § (5) bekezdése alapján szerződést köt.
 

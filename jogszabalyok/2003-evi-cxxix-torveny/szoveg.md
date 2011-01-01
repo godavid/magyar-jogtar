@@ -37,7 +37,7 @@ Az Országgyűlés a közpénzek ésszerű felhasználása átláthatóságának
 
 (2) Az (1) bekezdésben foglaltak irányadóak akkor is, ha az (1) bekezdés a) pontja szerinti gazdálkodó szervezetben a tagsági jogot megtestesítő üzletrész, illetve részvény több, a 22. § (1) bekezdése szerint ajánlatkérőnek minősülő szervezet közös tulajdonában van; ebben az esetben jogaikat közös képviselőjük útján gyakorolják.
 
-(3) Az (1) bekezdésben foglaltak irányadóak akkor is, ha az (1) bekezdés a) pontja szerinti gazdálkodó szervezet tulajdonosa az állam; ebben az esetben az (1) bekezdés szerinti további feltételeknek a tulajdonosi jogokat gyakorló jogalany (miniszter vagy más központi államigazgatási szervet vezető személy esetén az általa vezetett szerv) mint ajánlatkérő vonatkozásában kell fennállniuk.
+(3) Az (1) bekezdésben foglaltak irányadóak akkor is, ha az (1) bekezdés a) pontja szerinti gazdálkodó szervezet tulajdonosa az állam; ebben az esetben az (1) bekezdés szerinti további feltételeknek a tulajdonosi jogokat gyakorló jogalany (miniszter vagy más központi államigazgatási szervet vezető személy esetén az általa vezetett szerv, valamint a Pénzügyi Szervezetek Állami Felügyelete) mint ajánlatkérő vonatkozásában kell fennállniuk.
 
 (4) Ha törvény eltérően nem rendelkezik, a szerződések határozott időre, legfeljebb három évre köthetők; a szerződések közbeszerzési eljárás mellőzésével akkor hosszabbíthatók meg, ha az (1) bekezdés szerinti feltételek teljesültek.
 
@@ -85,7 +85,7 @@ Az Országgyűlés a közpénzek ésszerű felhasználása átláthatóságának
   - a) a tagok (részvényesek) szavazatának többségével tulajdoni hányada alapján egyedül rendelkezik,
   - b) más tagokkal (részvényesekkel) kötött megállapodás alapján vagy más módon a szavazatok többségével egyedül rendelkezik,
   - c) tagként (részvényesként) jogosult arra, hogy a vezető tisztségviselők (döntéshozók, ügyvezetők) vagy a felügyelőbizottság (felügyeleti, ellenőrző szerv, testület) tagjainak többségét megválassza (kijelölje) vagy visszahívja.
-- 23. meghívásos eljárás: olyan közbeszerzési eljárás, amelyben az ajánlatkérő által – az e törvényben előírtak szerint – kiválasztottak tehetnek ajánlatot; 23/A. műemlékekkel kapcsolatos építési beruházás: az olyan építési beruházás, amellyel kapcsolatos hatósági engedélyezési eljárás lefolytatása a Kulturális Örökségvédelmi Hivatal hatósági jogkörébe tartozik; 23/B. műszaki ajánlás: európai szabványügyi szervezet által nem szabványként kiadott bármely dokumentum, amelyet a piaci igények kielégítésére, szabályozott eljárás szerint dolgoztak ki;
+- 23. meghívásos eljárás: olyan közbeszerzési eljárás, amelyben az ajánlatkérő által – az e törvényben előírtak szerint – kiválasztottak tehetnek ajánlatot; 23/A. műemlékekkel kapcsolatos építési beruházás: az olyan építési beruházás, amellyel kapcsolatos hatósági engedélyezési eljárás lefolytatása a kulturális örökségvédelmi hatóság jogkörébe tartozik; 23/B. műszaki ajánlás: európai szabványügyi szervezet által nem szabványként kiadott bármely dokumentum, amelyet a piaci igények kielégítésére, szabályozott eljárás szerint dolgoztak ki;
 - 24. nemzeti szabvány: a nemzeti szabványosításról szóló törvényben így meghatározott fogalom; 24/A. nemzetközi szabvány: a nemzeti szabványosításról szóló törvényben így meghatározott fogalom;
 - 25. nemzetközi szervezet: nemzetközi szerződéssel létrejött olyan nemzetközi jogalany, amely meghatározott cél érdekében állandó szervezettel rendelkezik, és tevékenysége több állam területére terjed ki;
 - 26. nyílt eljárás: olyan közbeszerzési eljárás, amelyben valamennyi érdekelt ajánlatot tehet;
@@ -302,7 +302,7 @@ Az Országgyűlés a közpénzek ésszerű felhasználása átláthatóságának
 
 (5) Ha az érintett szervezet a (3) vagy (4) bekezdés szerinti felhívás ellenére nem tesz eleget bejelentkezési, illetve bejelentési kötelezettségének, a Közbeszerzések Tanácsának elnöke kezdeményezi a Közbeszerzési Döntőbizottság eljárását.
 
-19. § Az 1. § (4) bekezdése szerinti nemzetközi szerződésekről a külpolitikáért felelős miniszter, az európai integrációs ügyekért felelős miniszter és az igazságügyért felelős miniszter tájékoztatót ad ki. A tájékoztatót a Közbeszerzési Értesítőben is közzé kell tenni.
+19. § Az 1. § (4) bekezdése szerinti nemzetközi szerződésekről a külpolitikáért felelős miniszter, az európai integrációs ügyekért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter tájékoztatót ad ki. A tájékoztatót a Közbeszerzési Értesítőben is közzé kell tenni.
 
 20. § (1) Az eljárási cselekmények – az e törvényben, illetőleg külön jogszabályban meghatározott feltételek mellett – elektronikusan is gyakorolhatók.
 
@@ -366,7 +366,7 @@ Az Országgyűlés a közpénzek ésszerű felhasználása átláthatóságának
 - d) a helyi önkormányzat, a helyi kisebbségi önkormányzat, a települési önkormányzatok társulása, a helyi önkormányzat által a helyben központosított közbeszerzés keretében ajánlatkérésre kizárólagosan feljogosított szervezet, a helyi önkormányzati költségvetési szerv, a helyi kisebbségi önkormányzati költségvetési szerv, a területfejlesztési önkormányzati társulás, a megyei területfejlesztési tanács, a térségi fejlesztési tanács, a regionális fejlesztési tanács;
 - e)
 - f) a közalapítvány;
-- g) a Magyar Nemzeti Bank, a Magyar Nemzeti Vagyonkezelő Zrt., a Magyar Fejlesztési Bank Részvénytársaság, a Magyar Távirati Iroda Részvénytársaság, a közszolgálati műsorszolgáltatók, valamint az a közműsor-szolgáltató, amelynek működését többségi részben állami, illetve önkormányzati költségvetésből finanszírozzák, továbbá a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa;
+- g) a Magyar Nemzeti Bank, a Magyar Nemzeti Vagyonkezelő Zrt., a Magyar Fejlesztési Bank Részvénytársaság, közszolgálati médiaszolgáltatók, valamint az a közösségi médiaszolgáltató, amelynek működését többségi részben állami, illetve önkormányzati költségvetésből finanszírozzák, továbbá a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa;
 - h) az a jogképes szervezet, amelynek létrehozataláról jogszabály rendelkezik, meghatározva a szervezet által ellátandó feladatot, az irányítására, illetőleg az ellenőrzésére, valamint a működésére vonatkozó szabályokat, feltéve, hogy e bekezdés a)–g) pontjában meghatározott egy vagy több szervezet, illetőleg az Országgyűlés vagy a Kormány meghatározó befolyást képes felette gyakorolni, vagy működését többségi részben egy vagy több ilyen szervezet (testület) finanszírozza;
 - i) az a jogi személy, amelyet közérdekű, de nem ipari vagy kereskedelmi jellegű tevékenység folytatása céljából hoznak létre, illetőleg amely ilyen tevékenységet lát el, ha e bekezdésben meghatározott egy vagy több szervezet, illetőleg az Országgyűlés vagy a Kormány meghatározó befolyást képes felette gyakorolni, vagy működését többségi részben egy vagy több ilyen szervezet (testület) finanszírozza;
 - j) az a jogképes szervezet, amelyet e bekezdés a)–i) pontjában meghatározott egy vagy több szervezet (ide nem értve az államot) az alaptevékenysége ellátására hoz létre, és ha ilyen szervezet felett meghatározó befolyást képes gyakorolni;
@@ -418,7 +418,7 @@ Az Országgyűlés a közpénzek ésszerű felhasználása átláthatóságának
 
 - a) meglévő építmény vagy egyéb ingatlan vétele vagy ingatlanra vonatkozó egyéb jognak a megszerzése; kivéve az ilyen szerződéssel összefüggő pénzügyi szolgáltatásra irányuló (bármilyen formában megkötött) szerződést;
 - b) a 3. melléklet 6. csoportjába tartozó pénzügyi szolgáltatás, amely értékpapírok vagy egyéb pénzügyi eszközök kibocsátása, eladása, vétele vagy átruházása által valósul meg, vagy amely a monetáris, az árfolyam- vagy a tartalékkezelési politika, vagy a központi kormányzat adósságkezelési politikájának megvalósítása érdekében pénz- vagy tőkeszerzésre irányul, továbbá a jegybanki tevékenység;
-- c) műsorszám (műsoranyag) műsorszolgáltató általi vétele, fejlesztése, előállítása vagy közös előállítása, valamint a műsoridőre vonatkozó szerződés;
+- c) műsorszám (műsoranyag) médiaszolgáltató vagy a Médiaszolgáltatás-támogató és Vagyonkezelő Alap általi vétele, fejlesztése, előállítása vagy közös előállítása, valamint a műsoridőre vonatkozó szerződés;
 - d)
 - e) választottbírósági, közvetítői, békéltetési tevékenység;
 - f) munkaszerződés, közszolgálati vagy kormánytisztviselői, közalkalmazotti jogviszony, ügyészségi szolgálati jogviszony, bírósági jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a fegyveres szervek hivatásos állományának szolgálati jogviszonya;
@@ -866,7 +866,7 @@ Az Országgyűlés a közpénzek ésszerű felhasználása átláthatóságának
 
 (6) Az ajánlatkérő a (2) bekezdés g) pontja, továbbá a (4) és (5) bekezdés szerinti elektronikus nyilvántartásban szereplő adatokat a 20. § (8) bekezdése szerint ellenőrzi és őrzi meg. A 60–61. § szerinti egyéb kizáró okok fenn nem állásának ellenőrzésére is a 20. § (7)–(8) bekezdését kell alkalmazni, ha azokkal kapcsolatos tények, adatok ellenőrzésére az ajánlatkérő a közbeszerzési eljárás nyelvén rendelkezésre álló, elektronikus, hatósági vagy közhiteles nyilvántartásból ingyenesen jogosult.
 
-(7) A 60. § (1) bekezdés e) pontja és 61. § (2) bekezdése szerinti köztartozást nyilvántartó hatóságok igazolásának azt kell tartalmaznia, hogy az igazolás kiállításának időpontjában van-e az ajánlattevőnek vagy a közbeszerzés értékének tíz százalékát meghaladó mértékben igénybe venni kívánt alvállalkozójának, vagy az ajánlattevő számára erőforrást nyújtó szervezetnek a hatóság által nyilvántartott köztartozása, vagy ha van, annak megfizetésére halasztást kapott. E hatósági igazolást a hatóság négy munkanapon belül adja ki, a hatóság az ügyintézési határidőt nem hosszabbíthatja meg.
+(7) A 60. § (1) bekezdés e) pontja és 61. § (2) bekezdése szerinti köztartozást nyilvántartó hatóságok igazolásának azt kell tartalmaznia, hogy az igazolás kiállításának időpontjában van-e az ajánlattevőnek vagy a közbeszerzés értékének tíz százalékát meghaladó mértékben igénybe venni kívánt alvállalkozójának, vagy az ajánlattevő számára erőforrást nyújtó szervezetnek a hatóság által nyilvántartott köztartozása, vagy ha van, annak megfizetésére halasztást kapott. E hatósági igazolást a hatóság négy napon belül adja ki, a hatóság az ügyintézési határidőt nem hosszabbíthatja meg.
 
 (8) A (7) bekezdés szerinti hatósági igazolást – ha az igazolás egyébként bizonyítja azt, hogy az eredményhirdetés (két szakaszból álló eljárás részvételi szakaszában annak eredményhirdetése) felhívásban megjelölt időpontjában nincs az ajánlattevőnek vagy a közbeszerzés értékének tíz százalékát meghaladó mértékben igénybe venni kívánt alvállalkozójának, vagy az ajánlattevő számára erőforrást nyújtó szervezetnek egy évnél régebben lejárt köztartozása – az ajánlatkérő köteles elfogadni akkor is, ha nem közbeszerzési eljárásban való felhasználás céljára állították ki, vagy az ajánlatkérő, illetőleg az ajánlatkérőn kívüli szervezet más közbeszerzési vagy egyéb eljárásában való felhasználás céljából állították ki, illetőleg ha a kiállító hatóság egy évnél rövidebb érvényességi időt írt az igazolásra és az már lejárt.
 
@@ -2782,7 +2782,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 - a) a 29. § szerinti kivételek esetében azzal, hogy az (1) bekezdésének a) pontja szerinti kivétel nem igényel előzetes döntéshozatalt;
 - b) tankönyv beszerzésére, amennyiben arra a tankönyvpiac rendjéről szóló törvényben meghatározottak szerint, az iskolai tankönyvellátás keretében kerül sor és a tankönyv szerepel a tankönyvjegyzékben;
 - c) a 4. melléklet szerinti jogi szolgáltatások és hivatalos közbeszerzési tanácsadói tevékenység esetében;
-- d) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény alapján gyermekotthonban, illetve lakásotthonban elhelyezett gyermekek teljes ellátására, illetőleg utógondozói ellátásban részesülők, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti lakóotthonban élő személyek teljes ellátására szolgáló árubeszerzés és szolgáltatás megrendelése esetén;
+- d) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény alapján gyermekotthonban, illetve lakásotthonban elhelyezett gyermekek teljes ellátására, illetőleg utógondozói ellátásban részesülők, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 59–85/A. §-aiban szabályozott szociális szolgáltatások körében ellátottak teljes ellátására szolgáló árubeszerzés és szolgáltatás megrendelése esetén;
 - e) a 4. sz. melléklet szerinti szállodai és éttermi szolgáltatásokra, szórakoztató, kulturális és sportszolgáltatásokra ha a szolgáltatás értéke nem éri el a közösségi értékhatárt;
 - f) külügyi segélyezés keretében humanitárius segítségnyújtás céljából, válságkezelés során történő beszerzésre, amelynek vonatkozásában az Országgyűlés illetékes bizottsága e törvény alkalmazását kizáró előzetes döntést hozott;
 - g) a hideg élelmiszer és főzési alapanyag, friss, illetve feldolgozott zöldség és gyümölcs, tej és tejtermék, gabonafélék, méz, tojás, kertészeti növény beszerzésére;
@@ -3390,7 +3390,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 - a) a Közbeszerzések Tanácsának elnöke;
 - b) az Állami Számvevőszék;
 - c) a Kormány által kijelölt belső ellenőrzési szerv;
-- d) a közigazgatási hivatal;
+- d) a Kormány általános hatáskörű területi államigazgatási szerve és a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv;
 - e) a kincstár;
 - f) az országgyűlési biztos;
 - g) a közbeszerzéshez támogatást nyújtó, illetve a támogatás felhasználásában jogszabály alapján közreműködő szervezet;
@@ -3457,7 +3457,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 ### Az Európai Bíróság előzetes döntéshozatali eljárásának kezdeményezése
 
-333. § (1) Ha a Közbeszerzési Döntőbizottság az Európai Bíróság előzetes döntéshozatali eljárását kezdeményezi az Európai Közösséget létrehozó szerződésben foglalt szabályok szerint, erről külön végzéssel dönt és egyidejűleg az eljárást felfüggeszti. A Közbeszerzési Döntőbizottság végzésében meghatározza azt a kérdést, amely az Európai Bíróság előzetes döntését igényli, valamint – a feltett kérdés megválaszolásához szükséges mértékben – ismerteti a tényállást és a magyar jog érintett szabályait. A Közbeszerzési Döntőbizottság a végzést az Európai Bíróság számára való kézbesítéssel egyidejűleg tájékoztatásul megküldi az igazságügyért felelős miniszter részére is.
+333. § (1) Ha a Közbeszerzési Döntőbizottság az Európai Bíróság előzetes döntéshozatali eljárását kezdeményezi az Európai Közösséget létrehozó szerződésben foglalt szabályok szerint, erről külön végzéssel dönt és egyidejűleg az eljárást felfüggeszti. A Közbeszerzési Döntőbizottság végzésében meghatározza azt a kérdést, amely az Európai Bíróság előzetes döntését igényli, valamint – a feltett kérdés megválaszolásához szükséges mértékben – ismerteti a tényállást és a magyar jog érintett szabályait. A Közbeszerzési Döntőbizottság a végzést az Európai Bíróság számára való kézbesítéssel egyidejűleg tájékoztatásul megküldi az igazságügyért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter részére is.
 
 (2) Az előzetes döntéshozatali eljárást kezdeményező végzés ellen a 345. § szerint külön jogorvoslatnak van helye. A jogorvoslati kérelemnek a végzés végrehajtására halasztó hatálya van.
 
@@ -3622,7 +3622,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 347. § (1) A keresetlevelet a határozat kézbesítésétől számított tizenöt napon belül kizárólag a Közbeszerzési Döntőbizottsághoz lehet benyújtani.
 
-(2) A Közbeszerzési Döntőbizottság a keresetlevelet az ügy irataival – a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt – a keresetlevél beérkezését követő három munkanapon belül továbbítja a bírósághoz.
+(2) A Közbeszerzési Döntőbizottság a keresetlevelet az ügy irataival – a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt – a keresetlevél beérkezését követő öt napon belül továbbítja a bírósághoz.
 
 (3)
 
@@ -3630,7 +3630,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 348. § (1) A bíróság a keresetlevelet nyolc napon belül megvizsgálja, valamint ezen belül a jogszabálynak megfelelő keresetlevelet a Közbeszerzési Döntőbizottság nyilatkozatával együtt megküldi a felperes részére.
 
-(2) Ha a keresetlevél a határozat végrehajtásának felfüggesztésére irányuló kérelmet tartalmaz, a bíróság annak tárgyában az iratoknak a bírósághoz érkezését követő három munkanapon belül határoz és határozatát haladéktalanul megküldi a feleknek.
+(2) Ha a keresetlevél a határozat végrehajtásának felfüggesztésére irányuló kérelmet tartalmaz, a bíróság annak tárgyában az iratoknak a bírósághoz érkezését követő öt napon belül határoz és határozatát haladéktalanul megküldi a feleknek.
 
 (3) Az ellenérdekű felet, valamint a közbeszerzési ügyben szerepelt azon érdekelteket, akikre nézve az alperes Közbeszerzési Döntőbizottság határozata rendelkezést tartalmaz, a bíróság az (1) bekezdésben meghatározott határidőig értesíti a beavatkozás lehetőségéről, azzal, hogy a beavatkozást az értesítés kézhezvételét követő nyolc napon belül kell bejelenteni a bíróságnak, mely határidő elmulasztása esetén igazolásnak nincs helye.
 
@@ -3675,7 +3675,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 (5) A keresetlevelet a határozat kézbesítésétől számított tizenöt napon belül kell benyújtani a Közbeszerzési Döntőbizottsághoz.
 
-(6) A Közbeszerzési Döntőbizottság a keresetlevelet az ügy irataival – a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt – a keresetlevél beérkezését követő három munkanapon belül továbbítja a bírósághoz.
+(6) A Közbeszerzési Döntőbizottság a keresetlevelet az ügy irataival – a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt – a keresetlevél beérkezését követő öt napon belül továbbítja a bírósághoz.
 
 350/A. § (1) A perre a Fővárosi Bíróság kizárólagosan illetékes.
 
@@ -3752,7 +3752,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 (2) A törvény alapelveinek és egyes közérdekű céloknak az érvényesítése a Tanácsban a következő szervezetek vagy személyek által kijelölt személyek feladata:
 
 - a) a Gazdasági Versenyhivatal elnöke;
-- b) a közbeszerzésekért felelős miniszter;
+- b) az állami vagyon felügyeletéért felelős miniszter;
 - c) a gazdaságpolitikáért felelős miniszter.
 
 (3) A közbeszerzési eljárás ajánlatkérőinek általános érdekeit a Tanácsban a következő szervezetek vagy személyek által kijelölt személyek képviselik:
@@ -3836,10 +3836,10 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 - h) gondoskodik a „Közbeszerzési Értesítő – a Közbeszerzések Tanácsának Hivatalos Lapja” (a továbbiakban: Közbeszerzési Értesítő) szerkesztéséről, a közbeszerzési és a tervpályázati eljárással kapcsolatos hirdetmények közzétételéről, valamint ellenőrzéséről, továbbá az e törvény által előírt egyéb adatok, információk honlapján, illetve a Közbeszerzési Értesítőben történő közzétételéről;
 - i) honlapján közzéteszi a Közbeszerzési Döntőbizottság eljárását kezdeményező kérelem 396. § (1) bekezdés f) pontja szerinti adatait, a Közbeszerzési Döntőbizottság érdemi és a közbeszerzési ügy befejezését eredményező határozatát, továbbá a határozat bírósági felülvizsgálata esetén a bíróság határozatát (határozatait);
 - j) kialakítja és működteti, valamint honlapján közzéteszi a jogorvoslati határozatok nyilvános adatbázisát, amelyben biztosítja, hogy a döntőbizottsági és a bírósági határozatok elektronikusan, ingyenesen, teljeskörűen, tárgyszavas keresési lehetőséggel bárki által elérhetőek legyenek;
-- k) a közbeszerzésekért felelős minisztériummal egyeztetve a közbeszerzési jogszabályok alkalmazását elősegítendő útmutatót készít a jogorvoslati döntésekből levonható tapasztalatok alapján, valamint a közbeszerzésekkel kapcsolatos gyakorlati tudnivalókról; az útmutatót honlapján, továbbá a Közbeszerzési Értesítőben közéteszi;
+- k) az állami vagyon felügyeletéért felelős miniszterrel egyeztetve a közbeszerzési jogszabályok alkalmazását elősegítendő útmutatót készít a jogorvoslati döntésekből levonható tapasztalatok alapján, valamint a közbeszerzésekkel kapcsolatos gyakorlati tudnivalókról; az útmutatót honlapján, továbbá a Közbeszerzési Értesítőben közéteszi;
 - l) figyelemmel kíséri a közbeszerzési eljárás alapján megkötött szerződések módosítását és teljesítését [307. § (4) bekezdése];
 - m) elősegíti a közbeszerzési információk nyilvánosságát, az elektronikus közbeszerzési adatbázisok használatának elterjedését, továbbá az elektronikus eljárási és kommunikációs lehetőségek támogatását;
-- n) a közbeszerzésekért felelős miniszterrel együttesen részt vesz a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakításában;
+- n) az állami vagyon felügyeletéért felelős miniszterrel együttesen részt vesz a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakításában;
 - o) kapcsolatot tart más államok közbeszerzési szervezeteivel;
 - p) folyamatosan frissíti, karbantartja és honlapján közzéteszi az egyes ágazatokban szokásos vagy megállapított béreket és kapcsolódó közterheket;
 - q) elfogadja saját szervezeti és működési, valamint más, működését érintő belső szabályzatát – így különösen a hirdetmények vizsgálata kapcsán a jogorvoslati eljárás indításának eljárásrendjét –, továbbá költségvetési javaslatát és éves költségvetési beszámolóját;
@@ -3968,7 +3968,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 (4) A minősített ajánlattevők hivatalos jegyzékébe történő felvételért igazgatási szolgáltatási díjat kell fizetni. A díj mértéke százötvenezer forint. A díj megfizetése alól mentesség nem adható. A kérelemhez csatolni kell a díj befizetéséről szóló igazolást is.
 
-(5) A Tanács a kérelemről – a kézhezvételét követő negyvenöt munkanapon belül – határozattal dönt. A határidő – indokolt esetben – egy alkalommal negyvenöt munkanappal meghosszabbítható.
+(5) A Tanács a kérelemről – a kézhezvételét követő két hónapon belül – határozattal dönt. A határidő – indokolt esetben – egy alkalommal két hónappal meghosszabbítható.
 
 (6)
 
@@ -4147,7 +4147,9 @@ megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket
 
 (3) A 2004. január 1-je és 2005. december 31-e között indított jogorvoslati eljárásban e törvény 319. §-ának (2) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy az eljáró tanács legalább egy tagjának jogi szakvizsgával kell rendelkeznie.
 
-403/A. § A 2010. január 1-je és a polgári perrendtartásról szóló 1952. évi III. évi törvény módosításáról szóló 2010. évi ... törvény hatálybalépése között eltelt időszakban indított közbeszerzési eljárásban hozott döntés esetén nincs helye a jogsértés megállapításának azon a címen, hogy az eljárást nem elektronikus úton folytatták le, vagy annak egyes eljárási cselekményei nem elektronikus úton történtek.
+403/A. § A 2010. január 1-je és az egyes pénzügyi tárgyú törvényeknek az új Polgári Törvénykönyvvel összefüggő módosításáról szóló 2010. évi XII. törvény hatálybalépése között eltelt időszakban indított közbeszerzési eljárásban hozott döntés esetén nincs helye a jogsértés megállapításának azon a címen, hogy az eljárást nem elektronikus úton folytatták le, vagy annak egyes eljárási cselekményei nem elektronikus úton történtek.
+
+403/B. § A kormány által az európai uniós és egyéb nemzetközi támogatások ellenőrzésére kijelölt szerv a Közbeszerzési Döntőbizottság hivatalból való eljárását kezdeményezheti a 2010. szeptember 15-ét megelőzően megkezdett beszerzések, tervpályázati eljárások, valamint ezen eljárások alapján megkötött szerződések esetében is. A Közbeszerzési Döntőbizottság hivatalból való eljárásának kezdeményezésére e törvénynek a közbeszerzésekről szóló 2003. évi CXXIX. törvény módosításáról szóló 2010. évi LXXXVIII. törvény 78. §-ának (2) bekezdésével megállapított 327. § (2) bekezdésében foglaltakat kell alkalmazni.
 
 ### Felhatalmazás
 
@@ -4163,19 +4165,19 @@ megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket
 - h) a minősített adatot, illetőleg alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzések sajátos szabályait;
 - i) a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk beszerzésére, illetőleg szolgáltatások megrendelésére vonatkozó sajátos szabályokat;
 - j) a NATO Biztonsági Beruházási Programja, valamint az egyéb közös finanszírozású NATO támogatott programok keretében megvalósuló beszerzésre vonatkozó részletes – e törvénytől az ilyen eljárások sajátossága miatt szükséges eltérő – szabályokat;
-- k) a 2011-es magyar EU-elnökség előkészítésével és lebonyolításával összefüggő, a közösségi értékhatárt el nem érő értékű beszerzések sajátos szabályait;
+- k) a 243. § h) pontjában meghatározott beszerzések sajátos szabályait;
 - l) a dinamikus beszerzési rendszerre vonatkozó szabályokat;
 - m) a védett foglalkoztatók részére fenntartott közbeszerzések részletes – e törvénytől az ilyen eljárások sajátossága miatt szükséges eltérő – szabályait;
 - n) a közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített energetikai és környezeti hatások megállapítására és figyelembevételére vonatkozó sajátos közbeszerzési szabályokat, valamint a kapcsolódó jelentési kötelezettségre vonatkozó részletes szabályokat;
 - o)
 - p)
 
-(2) Felhatalmazást kap a nemzeti fejlesztésért felelős miniszter, hogy rendeletben szabályozza
+(2) Felhatalmazást kap az állami vagyon felügyeletéért felelős miniszter, hogy rendeletben szabályozza
 
 - a) a hirdetmények, bírálati összegezések és az éves statisztikai összegezés mintáját;
 - b) a közbeszerzésekre vonatkozó nómenklatúrát;
 - c) a hivatalos közbeszerzési tanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására vonatkozó szabályokat;
-- d) a hivatalos közbeszerzési tanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat, az államháztartásért felelős miniszterrel együttesen.
+- d) a hivatalos közbeszerzési tanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat, az államháztartásért felelős miniszter egyetértésével.
 
 (3) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy rendeletben szabályozza a munkavállalók védelmére és a munkafeltételekre vonatkozó tájékoztatási kötelezettség teljesítésének eljárási szabályait és díjazását.
 

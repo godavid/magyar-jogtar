@@ -54,17 +54,19 @@ kell alkalmazni.
 
 ### Hatáskör, illetékesség
 
-5. § (1) Jövedéki ügyben a vámhatóság jár el.
+5. § (1) Jövedéki ügyben – a (7) bekezdésben meghatározott kivétellel – a vámhatóság jár el.
 
-(2) A jövedéki termékek és az abból előállított termékek 48. § (20) bekezdés szerinti kötelező érvényű vámtarifa-besorolásával kapcsolatos ügyekben a vámhatóság Kormány által kijelölt szerve (a továbbiakban: vegyvizsgáló szerv) jár el.
+(2) A jövedéki termékek és az abból előállított termékek 48. § (20) bekezdés szerinti kötelező érvényű vámtarifa-besorolásával kapcsolatos ügyekben a Nemzeti Adó- és Vámhivatal Kormány által kijelölt szerve (a továbbiakban: vegyvizsgáló szerv) jár el.
 
-(3) Az Európai Unió adóügyi együttműködési szabályainak jövedéki adóval kapcsolatos alkalmazása tekintetében a vámhatóság Kormány által kijelölt szerve (a továbbiakban: központi kapcsolattartó szerv) jár el.
+(3) Az Európai Unió adóügyi együttműködési szabályainak jövedéki adóval kapcsolatos alkalmazása tekintetében a Nemzeti Adó- és Vámhivatal Kormány által kijelölt szerve (a továbbiakban: központi kapcsolattartó szerv) jár el.
 
-(4) A csomagküldő kereskedő és a csomagküldő kereskedő adóügyi képviselője e törvény szerinti nyilvántartásba vételével kapcsolatos ügyekben a vámhatóság Kormány által kijelölt szerve (a továbbiakban: csomagküldő kereskedő nyilvántartásba vételét végző szerv) jár el.
+(4) A csomagküldő kereskedő és a csomagküldő kereskedő adóügyi képviselője e törvény szerinti nyilvántartásba vételével kapcsolatos ügyekben a Nemzeti Adó- és Vámhivatal Kormány által kijelölt szerve (a továbbiakban: csomagküldő kereskedő nyilvántartásba vételét végző szerv) jár el.
 
 (5) Helyszíni ellenőrzés keretében a jövedéki terméket forgalmazóknál az adóhatóság köteles jövedéki ellenőrzést is lefolytatni, az adófelfüggesztés alatt álló jövedéki termékek forgalmazásának ellenőrzése kivételével.
 
 (6) Halaszthatatlan ellenőrzési és eljárási cselekményeket a hatáskörrel rendelkező szerv az illetékességi területén kívül is végezhet, amelyről haladéktalanul tájékoztatja az illetékességgel rendelkezőt.
+
+(7) A végrehajtási eljárás lefolytatására az adóhatóság jogosult.
 
 6. § (1) Jövedéki adóügyben vagy azzal összefüggő más adóügyben az olyan ellenőrzést, amelynél beáll az ismételt ellenőrzés tilalmának hatálya, a vámhatóság és az adóhatóság előzetes egyeztetés alapján, egy időben, egymás megállapításaira tekintettel köteles lefolytatni.
 
@@ -88,7 +90,7 @@ kell alkalmazni.
   - k) az üzemanyagtöltő állomás vagy az üzemi motorikusgáztöltő-állomás tárolótartályában a 2711 12, 2711 13 és 2711 19 00 vámtarifaszámú cseppfolyósított szénhidrogének keveredését,
   - l) a biológiai ecetet előállító üzemben a kettős fermentáció első lépéseként végzett alkoholos erjesztést, ha azt a vámhatóságnak előzetesen bejelentették, és a keletkezett félkész terméket ecet hozzáadásával haladéktalanul denaturálják,
   - m) hígító, oldószer célra gyártott egyéb ellenőrzött ásványolaj előállítását nem jövedéki termék és/vagy egyéb ellenőrzött ásványolaj és/vagy megfigyelt termék komponensekből, összekeveréssel,
-  - n) a 63. § (1) bekezdés c) pontja szerinti alkoholtermékek közül a 64. § (4) bekezdés a)–b) pontja alá eső alkoholtermék előállítását (keletkezését),
+  - n) a 63. § (1) bekezdés c) pontja szerinti alkoholtermékek közül a 64. § (4) bekezdés a)–b) pontja, továbbá a 63. § (1) bekezdés b) pontja szerinti alkoholtermékek közül a 64. § (9) bekezdése alá eső alkoholtermék előállítását (keletkezését),
   - o) a cseppfolyósított szénhidrogénnek a külön jogszabály szerint pébégázpalackból turistahasználatú, legfeljebb 3 kg töltettömegű palackba történő átfejtését,
   - p) nemzeti vagy uniós támogatás igénybevételével megvalósuló, a kutatás-fejlesztésről és technológiai innovációról szóló törvény szerinti kísérleti fejlesztés (a továbbiakban: kísérleti fejlesztés) keretében a külön jogszabály szerinti bioüzemanyagnak (a továbbiakban: bioüzemanyag) adózott benzinbe vagy adózott gázolajba adózottan történő bekeverését, amennyiben azt a vámhatóságnak előzetesen bejelentették (a továbbiakban: kísérleti célú előállítás).
 - 2. jövedéki termék importálása: jövedéki terméknek harmadik országból közvetlenül vagy más tagállam(ok)on keresztül belföldre történő behozatala azzal, hogy amennyiben a jövedéki termék vámeljárás keretében lép be belföldre, az importálás a vámeljárásnak a jövedéki termék vámjogi szabad forgalomba bocsátását eredményező lezárásával egyidejűleg valósul meg; 2/A. importálás helye: az a hely, ahol a jövedéki termék a vámjogi szabad forgalomba bocsátásakor van;
@@ -103,8 +105,8 @@ kell alkalmazni.
 - 9. vámtarifaszám: a Tanács 2658/87/EGK rendeletének
   - a) az ásványolaj, az ETBE, valamint az 50. § (4) bekezdés d)–f) pontjában említett termékek, továbbá a 68. § (1) bekezdés b) pontjában említett aromák esetében a Bizottság 2031/2001/EGK rendeletével módosított, 2002. január 1-jén hatályos,
   - b) egyébként a Bizottság 2587/91/EGK rendeletével módosított, 1992. október 19-én hatályos 1. számú mellékletében meghatározott Kombinált Nomenklatúrával megegyező tartalmú, külön PM rendeletben kihirdetett áruazonosító számok. A nyolc számjegynél kevesebb számjeggyel megadott vámtarifaszám esetén annak valamennyi alszámos bontása is ideértendő;
-- 10. adóhatóság: az állami adóhatóság;
-- 11.
+- 10. adóhatóság: a Nemzeti Adó- és Vámhivatal adóztatási szerve;
+- 11. vámhatóság: a Nemzeti Adó- és Vámhivatal vámszerve vagy annak kirendeltsége;
 - 12. adóraktár (ideértve a 82. § szerinti egyszerűsített adóraktárt is): az a fizikailag (pl. fallal, kerítéssel, mérési ponttal) elkülönített, – a terméktávvezeték adóraktár és a kikötői adóraktár kivételével – helyrajzi számmal beazonosított, egy technológiai egységet képező üzem, raktár, továbbá a 72. § (2) bekezdés a) pontja szerinti helyen kialakított üzlethelyiség a hozzá tartozó raktárral, ahol az e törvényben meghatározott engedély birtokában jövedéki termék előállítása folyik, illetve ahol olyan jövedéki termék tárolását, raktározását végzik, amely után az adót még nem fizették meg;
 - 13. tagállami adóraktár: más tagállam illetékes hatósága által adóraktárként engedélyezett hely (üzem, raktár);
 - 14. adóraktár engedélyese: az a személy, aki (amely) az adóraktárban – az e törvényben meghatározott engedély birtokában – jövedéki termék előállítására, illetve olyan jövedéki termék tárolására, raktározására jogosult, amely után az adót még nem fizették meg;
@@ -130,7 +132,7 @@ kell alkalmazni.
 - 34. megbízható felhasználói engedélyes: az a személy, aki legalább 2 éve folyamatosan jogosult egyéb ellenőrzött ásványolaj vagy megfigyelt termék beszerzésére, és terhére a jövedéki biztosíték csökkentésére irányuló kérelem benyújtását megelőző 2 évben, illetve a jövedéki biztosíték 59. § (6) bekezdése szerinti csökkentését követő kétévenkénti időszakra összességében a jövedéki biztosíték értékének 10 százalékát meghaladó jövedéki bírságot vagy adóbírságot a vámhatóság vagy az adóhatóság jogerős határozattal nem állapított meg;
 - 35. aroma: a Magyar Élelmiszerkönyv 1-2-88/388. számú, 1998. szeptember 1-jén hatályos előírásának 1. § 2. pontjában meghatározott kémiai anyag;
 - 36. intermedier: a nyersanyagtól a vegyipari és gyógyszeripari késztermékig terjedő gyártási folyamat egyes fázisaiban előálló gyártásközi vegyi termék;
-- 37. bioetanol: az igazoltan kizárólag mezőgazdasági eredetű, 2207 10 00 vámtarifaszámú, legalább 99 térfogatszázalék alkoholtartalmú víztelenített alkoholtermékből a külön jogszabály szerint denaturált 2207 20 00 vámtarifaszám alá tartozó alkoholtermék; 37/A. biodízel: növényi olajból vagy állati olajból átészterezéssel előállított, a 3824 90 99 vámtarifaszám alá tartozó termék; 37/B. E85: a 3824 90 99 vámtarifaszám alá tartozó, üzemanyag célra előállított, legalább 70%, legfeljebb 85% olyan bioetanolt tartalmazó termék, amelyet kizárólag Közösségben termelt, mezőgazdasági eredetű alapanyagból gyártottak; 37/C. tiszta növényi olaj: a 1507-1518 vámtarifaszám alá tartozó növényi olaj, amennyiben üzemanyagkénti vagy tüzelő-, fűtőanyagkénti felhasználásra vagy üzemanyagba való közvetlen bekeverés céljára állítják elő; 37/D. biogáz: a külön jogszabály szerinti biomasszából vagy más megújuló energiából előállított gáznemű, nem sűrítettgáz-halmazállapotú termék; 37/E. olajtermék: az 52. § (2) bekezdés d) pontja alá tartozó ásványolaj, a biogáz kivételével; 37/F. üzemanyagkénti beszerzés, importálás, kínálás, értékesítés, felhasználás: bármely termék belső égésű motorban való felhasználása, illetve a termék ilyen felhasználás céljára történő beszerzése, importálása, kínálása és értékesítése, kivéve azt az esetet, ha a helyhez kötött belső égésű motorban való felhasználás kizárólagos célja villamos energia előállítása, illetve a beszerzés, importálás, kínálás és értékesítés ilyen felhasználás céljára történik. Az utóbb említett esetet tüzelő-, fűtőanyagkénti felhasználásnak, illetve ilyen célra történő beszerzésnek, importálásnak, kínálásnak és értékesítésnek kell tekinteni;
+- 37. bioetanol: az igazoltan kizárólag mezőgazdasági eredetű, 2207 10 00 vámtarifaszámú, legalább 99 térfogatszázalék alkoholtartalmú víztelenített alkoholtermékből a külön jogszabály szerint denaturált 2207 20 00 vámtarifaszám alá tartozó alkoholtermék; 37/A. biodízel: növényi olajból vagy állati olajból átészterezéssel előállított, a 3824 90 99 vámtarifaszám alá tartozó termék; 37/B. E85: a 3824 90 99 vámtarifaszám alá tartozó, üzemanyagcélra előállított, legalább 70%, legfeljebb 85% olyan bioetanolt tartalmazó termék, amelyet kizárólag Közösségben termelt, mezőgazdasági eredetű alapanyagból gyártottak, és amely a biomassza, a köztes termékek és a bioüzemanyag fenntartható előállítására vonatkozó követelményekre vonatkozó részletes szabályokról szóló kormányrendeletben meghatározottak szerint fenntartható módon előállítottnak minősül; 37/C. tiszta növényi olaj: a 1507-1518 vámtarifaszám alá tartozó növényi olaj, amennyiben üzemanyagkénti vagy tüzelő-, fűtőanyagkénti felhasználásra vagy üzemanyagba való közvetlen bekeverés céljára állítják elő; 37/D. biogáz: a külön jogszabály szerinti biomasszából vagy más megújuló energiából előállított gáznemű, nem sűrítettgáz-halmazállapotú termék; 37/E. olajtermék: az 52. § (2) bekezdés d) pontja alá tartozó ásványolaj, a biogáz kivételével; 37/F. üzemanyagkénti beszerzés, importálás, kínálás, értékesítés, felhasználás: bármely termék belső égésű motorban való felhasználása, illetve a termék ilyen felhasználás céljára történő beszerzése, importálása, kínálása és értékesítése, kivéve azt az esetet, ha a helyhez kötött belső égésű motorban való felhasználás kizárólagos célja villamos energia előállítása, illetve a beszerzés, importálás, kínálás és értékesítés ilyen felhasználás céljára történik. Az utóbb említett esetet tüzelő-, fűtőanyagkénti felhasználásnak, illetve ilyen célra történő beszerzésnek, importálásnak, kínálásnak és értékesítésnek kell tekinteni;
 - 38. üzemanyagtartály: a jármű gyártója által a járműbe szilárdan beépített azon tartály(ok), amely(ek) az üzemanyagnak közvetlenül a gépjármű motorjában való felhasználását teszi(k) lehetővé a jármű haladásához, illetve a jármű hűtő- és klímaberendezésének működését biztosítják. Üzemanyagtartály továbbá a járművek azon szilárdan beépített gáztartálya is, amely közvetlenül a gázzal való üzemelést teszi lehetővé, valamint az egyéb berendezések tartályai, amelyekkel adott esetben a gépjárművet felszerelik;
 - 39. kiegészítő üzemanyagtartály: a jármű gyártója által a konténerbe szilárdan beépített olyan tartály, amely a hűtőberendezések vagy a speciális konténerek egyéb berendezéseinek szállítás közbeni működéséhez az üzemanyag közvetlen felhasználását biztosítja;
 - 40. speciális konténer: minden olyan tartály megfelelő berendezésekkel ellátva, amelyek speciálisan a hűtő-, oxigénellátó, hőszigetelő rendszerekhez vagy más rendszerekhez szükségesek;
@@ -141,7 +143,12 @@ kell alkalmazni.
 - 45. csomagátvizsgáló berendezés: olyan eszköz, amely a csomag felbontása nélkül a csomagban lévő tárgy körvonalait, formáját, méretét teszi láthatóvá.
 - 46. teljes megsemmisülés vagy helyrehozhatatlan károsodás: a jövedéki termék tulajdonságaiból adódó vagy előre nem látható körülmények – kivéve lopás – vagy vis major miatt bekövetkezett olyan megsemmisülés vagy károsodás, amely a jövedéki termékként történő felhasználásra való alkalmatlanságot eredményezi;
 - 47. magánszemély: jövedéki termékkel gazdasági tevékenységet nem folytató természetes személy;
-- 48. termelői borkimérés: az egyszerűsített adóraktárban a saját termelésű szőlőbornak elvitelre vagy borkóstolás céljából helyben fogyasztásra, nem a kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) 2. § 30. pontja szerinti vendéglátás keretében történő értékesítése.
+- 48. termelői borkimérés: az egyszerűsített adóraktárban a saját termelésű szőlőbornak elvitelre vagy borkóstolás céljából helyben fogyasztásra, nem a kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) 2. § 30. pontja szerinti vendéglátás keretében történő értékesítése;
+- 49. fenntarthatósági bizonyítvány: a bioüzemanyagok fenntartható előállításának szabályairól szóló jogszabályban foglaltak szerint kiállított, a bioüzemanyag fenntartható módon történt előállítását igazoló okmány.
+- 50. motorfejlesztés: a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 800/2008/EK bizottsági rendelet (HL L 214/3., 2008.8.9.) (a továbbiakban: csoportmentességi rendelet) 30. cikk 4. pontja szerinti kísérleti fejlesztés keretében a környezetet jobban kímélő motorokkal kapcsolatos technológiai fejlesztés;
+- 51. kereskedelmi gázolaj: az 52. § (1) bekezdés d) pontja alá tartozó gázolaj, amelyet
+  - a) ellenszolgáltatás fejében vagy saját költségre kizárólag közúti árufuvarozásra szolgáló, legalább 7,5 tonna megengedett legnagyobb össztömegű gépjárművel vagy nyerges járműszerelvénnyel (nyerges vontatóval) végzett közúti árufuvarozáshoz, vagy
+  - b) akár menetrendszerű, akár nem menetrendszerű forgalomban, a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott M2 vagy M3 kategóriába tartozó gépjárművel végzett személyszállításhoz használnak fel.
 
 ### II. Fejezet — ADÓKÖTELEZETTSÉG, ADÓFELFÜGGESZTÉS, ADÓFIZETÉSI KÖTELEZETTSÉG
 
@@ -158,7 +165,7 @@ kell alkalmazni.
 
 9. § (1) Adómentes a törvénnyel vagy kormányrendelettel kihirdetett vagy a Magyar Közlönyben közzétett nemzetközi szerződés kötelező rendelkezése alapján vámmentesen behozható jövedéki termék, továbbá a diplomáciai és konzuli képviseletek, valamint az ezekkel egy tekintet alá eső nemzetközi szervezetek és azok tagjai számára harmadik országból vámmentesen behozott jövedéki termék.
 
-(2) Adómentes a 918/83/EGK Tanácsi rendelet 29–31. és 112. cikkei alapján vámmentesen harmadik országból behozott jövedéki termék.
+(2) Adómentes a vámmentességek közösségi rendszerének létrehozásáról szóló 2009. november 16-i 1186/2009/EK tanácsi rendelet 25–27. és 107. cikkei alapján vámmentesen harmadik országból behozott jövedéki termék.
 
 (3) Adómentes a magánfőzésben a magánfőző által évente legfeljebb 50 liter mennyiségben előállított párlat [63. § (2) bekezdés 1. pont], feltéve, hogy az a háztartásában való személyes fogyasztásra szolgál.
 
@@ -189,7 +196,7 @@ kell alkalmazni.
 
 (8) Amennyiben az adóraktári engedélynek vagy az adómentes felhasználó keretengedélyének megszűnését követő 30 napon belül felszámolási vagy végelszámolási eljárás indul, a készleten maradt jövedéki termék utáni adómegállapítási és adófizetési kötelezettségre a (6)–(7) bekezdés rendelkezését kell alkalmazni.
 
-(9) A jövedéki terméket belföldi rendeltetéssel feladó bejegyzett feladóra a 26/A. § (1), (3)–(5) bekezdés rendelkezéseit értelemszerűen alkalmazni kell azzal, hogy jövedéki biztosítéka az elektronikus átvételi elismervény 11. § (8) bekezdés szerint részére történő továbbításával egyidejűleg szabadul fel, illetve válik ismételten felhasználhatóvá.
+(9) A jövedéki terméket belföldi rendeltetéssel feladó bejegyzett feladóra a 26/A. § (1), (3)–(6) bekezdés rendelkezéseit értelemszerűen alkalmazni kell azzal, hogy jövedéki biztosítéka az elektronikus átvételi elismervény 11. § (8) bekezdés szerint részére történő továbbításával egyidejűleg szabadul fel, illetve válik ismételten felhasználhatóvá.
 
 ### Adófelfüggesztéssel történő szállítás
 
@@ -213,7 +220,7 @@ kell alkalmazni.
 
 (3) Az e fejezet szerinti adófelfüggesztéses szállításhoz alkalmazható okmányok
 
-- a) – a b) pontban foglalt eltéréssel – az adóraktárból, az adómentes felhasználó üzeméből, raktárából kitárolt, valamint az importálás helyéről a 10. § (3) bekezdés b) pont szerint szállított jövedéki termékre az e-TKO, illetve – a 20/A. § szerinti üzemszünet időtartama alatt – az üzemszüneti TKO,
+- a) – a b) pontban foglalt eltéréssel – az adóraktárból, az adómentes felhasználó üzeméből, raktárából kitárolt, valamint az importálás helyéről a 10. § (3) bekezdés b) pont szerint szállított jövedéki termékre – kivéve a szőlőbort – az e-TKO, illetve – a 20/A. § szerinti üzemszünet időtartama alatt – az üzemszüneti TKO,
 - b) az ásványolaj csővezetékes szállítása esetén, valamint a 11. § (1) bekezdés g) pont gb) és gc) alpont szerinti esetben a külön jogszabály szerint e célra elfogadható egyéb okmány, bizonylat (a továbbiakban a)–b) pontok együtt: termékkísérő okmány).
 
 (4) A termékkísérő okmányt a jövedéki terméket kitároló adóraktár-engedélyes, adómentes felhasználó, az importáló adóraktár-engedélyes, adómentes felhasználó vagy a bejegyzett feladó állítja ki, az e-TKO és az üzemszüneti TKO esetében a (7) bekezdésben foglaltak szerint, az egyéb okmány, bizonylat alkalmazása esetén a külön jogszabályban foglaltak szerint.
@@ -285,7 +292,7 @@ felfüggesztett adómegállapítási és adófizetési kötelezettsége alól, a
   - ab) az 53. § (1) bekezdés b) és c) pont, illetve a 68. § (1) bekezdés b) pont szerinti adómentes felhasználási célra,
   - ac) – amennyiben az ásványolajtermék – az ásványolaj-adóraktárban az ásványolajtermék előállításához kapcsolódó célra
 
-használ fel;
+használnak fel;
 
 - b) amelyet az adóraktárban a belső minőség-ellenőrzéshez szükséges vizsgálatok céljára – a hatályos jogszabályoknak, valamint szabványoknak megfelelő – mintavételi szabályzat szerint felhasználtak;
 - c) amelyet az adóraktárban az adóellenőrzés céljaira a vámhatóság felhasznált;
@@ -578,7 +585,7 @@ adókötelezettsége keletkezik, amely egyidejűleg – a 10–11. § rendelkez�
 
 (3) Az adóraktár-engedélyesnek a más tagállamból közösségi adófelfüggesztési eljárásban behozott, ténylegesen átvett jövedéki terméket az e-TKO-n feltüntetett rendeltetési helyen történt betárolással egyidejűleg az adóraktári készletébe fel kell vennie.
 
-(4) Az adóraktár-engedélyes a más tagállamból közösségi adófelfüggesztési eljárásban szállított jövedéki termék adóraktárba történt betárolását követő 5 munkanapon belül köteles a 20. § (1) bekezdés a) vagy b) pontja szerinti elektronikus úton a jövedéki termék betárolásáról elektronikus átvételi elismervényt a vámhatósághoz benyújtani.
+(4) Az adóraktár-engedélyes a más tagállamból közösségi adófelfüggesztési eljárásban szállított jövedéki termék adóraktárba történt betárolását követő 5 munkanapon belül köteles a 20. § (1) bekezdés a) vagy b) pontja szerinti elektronikus úton a jövedéki termék betárolásáról elektronikus átvételi elismervényt – a külön jogszabály szerinti kiegészítő adatok megadásával – a vámhatósághoz benyújtani.
 
 (5) A vámhatóság az uniós számítógépes rendszer alkalmazásával – alaki-formai szempontból, illetve a jövedéki termék feladására és fogadására való jogosultság, valamint e törvény vonatkozó rendelkezéseinek betartása szempontjából – ellenőrzi az elektronikus átvételi elismervényben szereplő adatokat. Amennyiben az adatok
 
@@ -624,15 +631,15 @@ adókötelezettsége keletkezik, amely egyidejűleg – a 10–11. § rendelkez�
 - c) biztosítja a jövedéki termék ellenőrzésének lehetőségét;
 - d) megfelel a 35. § (1) bekezdésének b)–c) és – a 35. § (2) bekezdésében foglalt eltéréssel – e) pontjában, valamint (3) bekezdésében foglaltaknak;
 - e)
-- f) – az (5)–(7) bekezdésben foglalt eltéréssel – jövedéki biztosítékot nyújt az éves szinten várhatóan beszerzésre kerülő jövedéki termék mennyiségére számított adótartalom egytizenketted részének megfelelő összegben.
+- f) – a (6)–(7) bekezdésben foglalt eltéréssel – jövedéki biztosítékot nyújt az éves szinten várhatóan beszerzésre kerülő jövedéki termék mennyiségére számított adótartalom – egyéb ellenőrzött ásványolaj esetében az 52. § (1) bekezdés a) pontjában meghatározott adómértékkel számított adó – egytizenketted részének megfelelő összegben.
 
-(2) Amennyiben a bejegyzett kereskedő eseti jelleggel hoz be jövedéki terméket más tagállamból közösségi adófelfüggesztési eljárásban, részére a vámhatóság esetenként egy szállítmányra vonatkozóan ad engedélyt a 35. § (1) bekezdés b)–c) pontban meghatározott feltételek teljesítése, valamint a kérelemben megjelölt jövedéki termék beszerzésre kerülő mennyiségére számított adónak megfelelő összegben történő előzetes jövedékibiztosíték-nyújtás esetén (a továbbiakban: eseti bejegyzett kereskedő).
+(2) Amennyiben a bejegyzett kereskedő eseti jelleggel hoz be jövedéki terméket más tagállamból közösségi adófelfüggesztési eljárásban, részére a vámhatóság esetenként egy szállítmányra vonatkozóan ad engedélyt a 35. § (1) bekezdés b)–c) pontban meghatározott feltételek teljesítése, valamint a kérelemben megjelölt jövedéki termék beszerzésre kerülő mennyiségére számított adónak – egyéb ellenőrzött ásványolaj esetében az 52. § (1) bekezdés a) pontjában meghatározott adómértékkel számított adónak – megfelelő összegben történő előzetes jövedékibiztosíték-nyújtás esetén (a továbbiakban: eseti bejegyzett kereskedő).
 
 (3) Az (1) bekezdés szerinti bejegyzett kereskedő által egy hónap alatt ténylegesen beszerzett jövedéki termék mennyisége – a (7) bekezdésben foglalt eltéréssel – nem haladhatja meg annak a mennyiségnek a másfélszeresét, amelynek adókockázatára a jövedéki biztosíték fedezetet nyújt, egyébként a jövedéki biztosítékot a teljes összegre ki kell egészíteni.
 
 (4) Az e § szerinti jövedéki biztosítékra a 19. § (5) bekezdésének rendelkezéseit kell értelemszerűen alkalmazni azzal, hogy a vámhatóság akkor hagyja jóvá, illetve engedi meg a pénzügyi biztosítékban, illetve a készpénzben nyújtott jövedéki biztosíték visszavonását, ha a bejegyzett kereskedő a 25. § szerinti adófizetési kötelezettségét teljesítette.
 
-(5)
+(5) Az (1) bekezdés szerinti bejegyzett kereskedő jövedéki biztosítékára a 38. § (6)–(9) bekezdésének rendelkezéseit értelemszerűen alkalmazni kell.
 
 (6) Amennyiben olyan személy kéri a bejegyzett kereskedőként való működés engedélyezését, aki érvényes
 
@@ -655,7 +662,7 @@ is rendelkezik és kizárólag a keretengedélyes vagy felhasználói engedélye
 - b) a 22. § (4)–(7) bekezdésének és a 22/A. § rendelkezéseit – értelemszerűen – alkalmazni kell,
 - c) a 25. § (6) bekezdése szerint esetben is a bejegyzett kereskedő nyújtja be az elektronikus átvételi elismervényt, illetve az üzemszüneti átvételi elismervényt.
 
-25. § (1) A bejegyzett kereskedőnek – kivéve a 24. § (6) bekezdés b) pontja szerinti esetet – a más tagállamból közösségi adófelfüggesztési eljárásban szállított jövedéki termék fogadásával adókötelezettsége keletkezik, és egyidejűleg – az (5)–(6) bekezdésben foglalt eltéréssel – beáll az adómegállapítási és adófizetési kötelezettsége.
+25. § (1) A bejegyzett kereskedőnek a más tagállamból közösségi adófelfüggesztési eljárásban szállított jövedéki termék (nem értve ide a felhasználói engedélyes részére behozott egyéb ellenőrzött ásványolajat, illetve az 5 liter/5 kilogramm vagy annál kisebb kiszerelésű egyéb ellenőrzött ásványolajat) fogadásával – kivéve a 24. § (6) bekezdés b) pontja szerinti esetet – adókötelezettsége keletkezik, és egyidejűleg – az (5)–(6) bekezdésben foglalt eltéréssel – beáll az adómegállapítási és adófizetési kötelezettsége.
 
 (2)
 
@@ -685,9 +692,11 @@ is rendelkezik és kizárólag a keretengedélyes vagy felhasználói engedélye
 
 (3) A bejegyzett feladó jövedéki biztosítékára a 19. § (5) és (7) bekezdését kell értelemszerűen alkalmazni.
 
-(4) A bejegyzett feladó engedélyének benyújtására, kiadására a 24. § (9) bekezdését, az engedély megszűnésére és visszavonására a 39. § rendelkezéseit kell – értelemszerűen – alkalmazni azzal, hogy a vámhatóság tizenöt munkanapon belül bírálja el a kérelmet.
+(4) A bejegyzett feladó engedélyének benyújtására, kiadására a 24. § (9) bekezdését, az engedély megszűnésére és visszavonására a 39. § rendelkezéseit kell – értelemszerűen – alkalmazni azzal, hogy a vámhatóság húsz napon belül bírálja el a kérelmet.
 
 (5) A bejegyzett feladó köteles – a külön jogszabály szerinti adattartalommal – a felfüggesztett adófizetési kötelezettsége beálltának megállapítására alkalmas nyilvántartást vezetni, amelyet havonta köteles lezárni.
+
+(6) Ha a bejegyzett feladó egyúttal jövedéki engedéllyel rendelkező importáló vagy adóraktár-engedélyes, a bejegyzett feladói tevékenységre a (2) bekezdés szerinti jövedéki biztosítékot nem kell külön teljesítenie, amennyiben azt az import tevékenységére, illetve az adóraktári engedélyéhez nyújtott jövedéki biztosítéka meghaladja. Ellenkező esetben a bejegyzett feladói engedély megadásához, illetve érvényességéhez a különbözetre kell jövedéki biztosítékot nyújtani.
 
 26/B. § (1) Ha a harmadik országból behozott jövedéki terméket bejegyzett feladó közvetlenül az importálás helyéről e-TKO-val a 18. § (2) bekezdés szerinti rendeltetéssel feladja, az importáló helyett az adó alanya a bejegyzett feladó, akinek (amelynek) az importálással keletkezett adófizetési kötelezettsége a feladással egyidejűleg felfüggesztésre kerül.
 
@@ -740,13 +749,13 @@ is rendelkezik és kizárólag a keretengedélyes vagy felhasználói engedélye
 
 28. § (1) Belföldön szabad forgalomba bocsátott jövedéki termék más tagállamba, a 27. § (2) bekezdés szerinti kereskedelmi célú beszerzés céljára történő kiszállítása kizárólag EKO-val végezhető, és a jövedéki termék után belföldön megfizetett adó visszaigényelhető (adóraktárból történő kiszállítás esetén visszaigényelhető vagy levonható), ha
 
-- a) a jövedéki termék feladását megelőzően a feladásról értesítik a vámhatóságot;
+- a)
 - b) bemutatják az EKO-nak a jövedéki termék címzett által történt átvételét igazoló példányát, és a címzett tagállam hatóságának igazolását a jövedéki adó megfizetéséről vagy annak biztosításáról;
 - c) betartják e törvény 47. § (2)–(3) bekezdésének rendelkezését.
 
 (2) Az (1) bekezdés szerinti adó-visszaigénylésre (-levonásra) jogosult személy a kiszállítást közösségi kereskedelmi tevékenység keretében, saját számlára végző jövedéki engedélyes kereskedő vagy az adóraktár-engedélyes, illetve a 63. § (1) bekezdés c) pontja szerinti alkoholterméket gazdasági tevékenység keretében más tagállamba értékesítő személy.
 
-(3) Az adó visszaigénylése az (1) bekezdés c) pontja szerinti okmányok vámhatósághoz történő benyújtásának napjától esedékes, és legfeljebb a jövedéki termék feladásának napjától számított 90 napon belül érvényesíthető.
+(3) Az adó visszaigénylése az (1) bekezdés b) pontja szerinti okmányok vámhatósághoz történő benyújtásának napjától esedékes, és legfeljebb a jövedéki termék feladásának napjától számított 90 napon belül érvényesíthető.
 
 (4) A bioetanol más tagállam benzin előállítását végző adóraktárába a 19–21. § rendelkezéseitől eltérően végzett kitárolása szabadforgalomba bocsátásnak minősül azzal, hogy a kitároló adóraktár-engedélyes adó-megállapítási és adófizetési kötelezettsége csak akkor áll be, ha a fogadó adóraktár engedélyese a kitárolást követő 30 napon belül nem igazolja vissza a bioetanol átvételét. Az adó-megállapítási és adófizetési kötelezettség a kitárolást követő 31. napon áll be.
 
@@ -754,7 +763,9 @@ is rendelkezik és kizárólag a keretengedélyes vagy felhasználói engedélye
 
 (6) Az adó – az (1) bekezdésben foglaltakon túl – kérelemre visszaigényelhető a 27. § (6) bekezdésének a) és b) pontjában foglalt esetekben is, az ott meghatározott feltételek fennállása mellett.
 
-[(7) Az adó-visszaigénylésre, -levonásra jogosult személy az EKO adatait a kiállítással egyidejűleg a 20. § (1) bekezdés szerinti módon megküldi a vámhatóságnak.]
+(7) Az adó-visszaigénylésre, -levonásra jogosult személy az EKO adatait a kiállítással egyidejűleg a 20. § (1) bekezdés szerinti módon megküldi a vámhatóságnak.
+
+(8) A 68. § (1) bekezdés b) pontja szerinti aroma az (1)–(3) bekezdés rendelkezéseitől eltérően EKO-val is szállítható más tagállamba.
 
 ### Szabad forgalomba bocsátott termékek szállítása belföldön keresztül
 
@@ -857,10 +868,10 @@ is végezhető, feltéve, ha az a)–c) pont szerinti előállításról, felhas
 - c) aki nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt;
 - d) aki a 38. § szerinti jövedéki biztosítékot nyújtja (rendelkezésre bocsátotta, letétbe helyezte vagy átutalta);
 - e) aki az adóraktári engedély kiadása évét követő évtől független könyvvizsgáló által hitelesített (auditált) mérleggel rendelkezik;
-- f) aki a 40. § (9) bekezdésében előírt adatszolgáltatási kötelezettségét elektronikus úton, a vámhatósággal létesített közvetlen számítógépes kapcsolati rendszerben teljesíti;
+- f)
 - g) aki
   - ga) jövedéki ügyintézői szakképesítéssel rendelkezik, vagy
-  - gb) külön jogszabályban meghatározott egyéb szakképesítést vagy szakmai végzettséget igazoló bizonyítvánnyal és szakmai gyakorlatot elismerő igazolással rendelkezik [a továbbiakban ga)–gb) pont együtt: jövedéki ügyintéző], vagy
+  - gb) külön jogszabályban meghatározott egyéb szakképesítést vagy szakmai végzettséget igazoló bizonyítvánnyal és szakmai gyakorlattal rendelkezik [a továbbiakban ga)–gb) pont együtt: jövedéki ügyintéző], vagy
   - gc) jövedéki ügyintézőt foglalkoztat.
 
 (2) Az egyéni vállalkozó, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja törvény) szerinti mezőgazdasági őstermelő mentesül a kettős könyvvezetés és a mérleg hitelesítés kötelezettsége alól, ha az egyéni vállalkozókra az Szja törvény 5. számú mellékletében előírt nyilvántartást vezet.
@@ -881,7 +892,7 @@ is végezhető, feltéve, ha az a)–c) pont szerinti előállításról, felhas
 - f) a termékkísérő okmány aláírására jogosultak körét;
 - g) a kérelmező nyilatkozatát a felajánlott jövedéki biztosíték összegéről és teljesítésének módjáról;
 - h) a kérelmező nyilatkozatát arról, hogy vállalja az engedély kiadását követő évtől a mérleg hitelesítési kötelezettséget;
-- i) a kérelmező nyilatkozatát a közvetlen számítógépes kapcsolati rendszernek a 35. § (1) bekezdés f) pontja szerint történő kialakításáról;
+- i)
 - j)
 
 (2) Több adóraktárra kért engedély, illetve az engedély módosítása esetében a kérelmező, illetve az engedélyes az (1) bekezdés b) pontjában foglalt adatokat összesítve – az adóraktárak közötti átszállításokból adódó halmozódásokat kiszűrve – adja meg.
@@ -915,7 +926,7 @@ a 38. § (4) bekezdésének figyelembevételével.
 
 (2) A jövedéki biztosíték összegét – a (3) bekezdésben foglalt eltéréssel – az e törvényben meghatározott értékhatárok között, a jövedéki termék 37. § (1) bekezdés b) pontja szerinti mennyiségére számított adótartalom egytizenketted részének alapulvételével kell meghatározni. A 37. § (2) bekezdésében foglalt esetben a jövedéki biztosítékot az adóraktárakra összesített adatokat figyelembe véve, az adóraktár engedélyesére kell megállapítani.
 
-(3) A 72. § (2) bekezdés b) pontja szerinti adóraktári engedély esetében jövedéki biztosítékként a külön jogszabályban előírt és teljesített vámbiztosíték szolgál.
+(3)
 
 (4) Ha az adóraktár engedélyesének adóraktárában vagy adóraktárainak egyikében a 37. § (6) bekezdés szerint többféle jövedéki termékcsoport is előállítható, raktározható, tárolható, a nyújtandó jövedéki biztosíték értékhatárainál – a 37. § (6) bekezdés d) pontja szerinti eset kivételével – a termékcsoportokra meghatározott értékhatárok közül a legmagasabbat kell figyelembe venni.
 
@@ -994,7 +1005,9 @@ a 38. § (4) bekezdésének figyelembevételével.
 
 (12) Az (1) bekezdés alkalmazásában egyszerűsített kísérő okmányként EKO-t kell alkalmazni, azzal, hogy jogszabály egyéb bizonylat egyszerűsített kísérő okmányként való elfogadásáról is rendelkezhet.
 
-[(13) A (9) bekezdésben előírt adatszolgáltatási kötelezettséget – a sörfőzde kivételével – a 20. § (1) bekezdés szerinti elektronikus úton kell teljesíteni.]
+(13) A (9) bekezdésben előírt adatszolgáltatási kötelezettséget – a sörfőzde kivételével – a 20. § (1) bekezdés szerinti elektronikus úton kell teljesíteni.
+
+(14) Adóraktárból a szőlőbor belföldi rendeltetéssel vagy harmadik országba belföldről történő kiléptetés céljára adófelfüggesztés mellett történő kitárolása, valamint – a külön jogszabályban foglalt eltéréssel – szabadforgalomba bocsátása borkísérő okmány [79. § (2) bekezdés 4. pont] kiállítása mellett történhet.
 
 41. § (1) Az adóraktár engedélyese – a sűrítettgáz-töltő adóraktár és a tranzitadóraktár engedélyese kivételével – a jövedéki termék értékesítéséről vevőnként (címzettenként), – ásványolaj-tároló adóraktárból a raktározott ásványolajtermék tulajdonosának történő kitárolás esetén tulajdonosonként – külön nyilvántartást is köteles vezetni, és az értékesített, kitárolt jövedéki termék értékét és mennyiségét havonta, tárgyhó végén összesíteni.
 
@@ -1227,9 +1240,7 @@ adófizetési kötelezettsége esetén – a vevő, a hitelező, illetve a jöve
 
 (14) Az adóraktár engedélyese adó-visszaigénylési jogosultságát a tárgyhavi adóbevallásában, a fizetendő adójából történő levonással vagy visszaigényléssel érvényesítheti.
 
-(15) Amennyiben a vámhatóság által a fizetési számlával rendelkező adófizetésre kötelezett személy esetében hatósági átutalással, a fizetési számlával nem rendelkező adófizetésre kötelezett személy esetében munkabérből vagy egyéb rendszeres járandóságból, továbbá a kifizetőtől járó kifizetésből történő letiltással foganatosított végrehajtási cselekmény nem, vagy aránytalanul hosszú idő múlva vezetne eredményre, a vámhatóság az adófizetésre kötelezett személy – ideértve a jövedéki bírság, a zárjegyhiány [73. § (5) bekezdés], az adójegy utáni halasztott fizetési kötelezettség [98. § (5) bekezdés] megfizetésére kötelezett személyt is – követelésének, továbbá ingó és ingatlan vagyontárgyainak végrehajtása érdekében az adóhatóságot keresi meg.
-
-(16) A (15) bekezdés szerint végrehajtás alatt álló tartozást a vámhatóság megkeresésére az adóhatóság nyilvántartásba veszi, és az adók módjára behajtandó köztartozásra vonatkozó szabályok szerint hajtja be.
+(15)–(16)
 
 (17) Az adó bevallásában az Art. 1. számú melléklet I/A/1. pontjában meghatározott kerekítési szabályokat kell alkalmazni.
 
@@ -1237,20 +1248,26 @@ adófizetési kötelezettsége esetén – a vevő, a hitelező, illetve a jöve
 
 (19) A vámhatóság hivatalos helyén kívül, kérelemre végzett eljárása, továbbá a zárjeggyel ellátandó jövedéki termékek utáni adó-visszatérítéshez szükséges vámhatósági eljárás (zárjegy levétele) esetén – az engedélyezési eljárás és ahhoz kapcsolódóan a hivatalos zár felhelyezése kivételével – a kérelmezőnek szemledíjat kell fizetni, és – ha jogszabály ettől eltérően nem rendelkezik – meg kell fizetni az eljárás során felmerülő szakértői és más vizsgálati díjat, szállítási, kiszállási és más vizsgálati költségeket (a továbbiakban együtt: költségtérítés).
 
-(20) Az adóraktári engedélyt, a keretengedélyt, a felhasználói engedélyt kérelmező vagy az adóraktári engedéllyel, keretengedéllyel rendelkező adóalany, a felhasználói engedélyes a vegyvizsgáló szervtől kérheti, illetve a vámhatóság – az engedélyes egyidejű értesítése mellett – a vegyvizsgáló szervnél kezdeményezheti az adóraktári engedélyes jövedéki termékére, a keretengedélyes vagy a felhasználói engedélyes által beszerzett, felhasznált jövedéki termékre és előállított termékre az adófizetési kötelezettség meghatározásánál, illetve az adómérték alkalmazásánál – a termék változatlan összetétele esetén – kötelező érvénnyel bíró vámtarifaszám megállapítást (a továbbiakban: kötelező érvényű vámtarifabesorolás). A vegyvizsgáló szerv a kérelemre vagy hivatalból az engedélyes nevére kiadott kötelező érvényű vámtarifabesorolásról a határozatban rendelkezik, amely a fellebbezésre tekintet nélkül végrehajtható, rendelkezéseit a határozat közlésének napját követő naptól kell alkalmazni.
+(20) Az adóraktári engedélyt, a keretengedélyt, a bejegyzett kereskedői engedélyt, a felhasználói engedélyt kérelmező vagy az adóraktári engedéllyel, keretengedéllyel, bejegyzett kereskedői engedéllyel rendelkező adóalany, a felhasználói engedélyes a vegyvizsgáló szervtől kérheti, illetve a vámhatóság – az engedélyes egyidejű értesítése mellett – a vegyvizsgáló szervnél kezdeményezheti az adóraktári engedélyes által előállított vagy beszerzett jövedéki termékre, a bejegyzett kereskedő által beszerzett jövedéki termékre, valamint a keretengedélyes vagy a felhasználói engedélyes által beszerzett, felhasznált jövedéki termékre és előállított termékre az adófizetési kötelezettség meghatározásánál, illetve az adómérték alkalmazásánál – a termék változatlan összetétele esetén – kötelező érvénnyel bíró vámtarifaszám megállapítást (a továbbiakban: kötelező érvényű vámtarifabesorolás). A vegyvizsgáló szerv a kérelemre vagy hivatalból az engedélyes nevére kiadott kötelező érvényű vámtarifabesorolásról határozatban rendelkezik, amely fellebbezésre tekintet nélkül végrehajtható, rendelkezéseit a határozat közlésének napját követő naptól kell alkalmazni.
 
-(21) Az adóraktár-engedélyes, az adómentes felhasználó vagy a felhasználói engedélyes terhére a kötelező érvényű vámtarifabesorolással vagy annak megváltoztatásával összefüggő adókötelezettség, illetve jogkövetkezmény a vámtarifabesorolás kötelezővé válásának napját megelőző időszakra nem állapítható meg.
+(21) Az adóraktár-engedélyes, az adómentes felhasználó, a bejegyzett kereskedő vagy a felhasználói engedélyes terhére a kötelező érvényű vámtarifabesorolással vagy annak megváltoztatásával összefüggő adókötelezettség, illetve jogkövetkezmény a vámtarifabesorolás kötelezővé válásának napját megelőző időszakra nem állapítható meg.
 
-(22) Az adóraktári engedélynek, a keretengedélynek vagy a felhasználói engedélynek a kötelező érvényű vámtarifabesorolás miatt szükségessé váló módosítása iránti kérelmet a kötelező érvényű vámtarifabesorolásról szóló határozat kézhezvételének napját követő 15 napon belül kell benyújtani vagy az engedélyt visszaadni.
+(22) Az adóraktári engedélynek, a keretengedélynek, a bejegyzett kereskedői engedélynek vagy a felhasználói engedélynek a kötelező érvényű vámtarifabesorolás miatt szükségessé váló módosítása iránti kérelmet a kötelező érvényű vámtarifabesorolásról szóló határozat kézhezvételének napját követő 15 napon belül kell benyújtani vagy az engedélyt visszaadni.
 
 (23) A termékkísérő okmány, az üzemszüneti TKO, az üzemszüneti átvételi elismervény és az egyszerűsített kísérő okmány szigorú számadású bizonylat, amellyel kapcsolatban elkövetett jogsértésre a számlára, a nyugtára vonatkozó rendelkezéseket kell alkalmazni.
+
+(24) Fizetési halasztást, részletfizetést a 24. § (1) bekezdés szerinti bejegyzett kereskedő csak akkor kérhet, ha
+
+- a) bejegyzett kereskedői tevékenységét a tevékenysége megkezdésének napjától a fizetési halasztás, részletfizetés iránti kérelme benyújtásának napjáig számítva legalább 12 hónapon keresztül folytatta,
+- b) terhére az a) pont szerinti időszakban összességében a jövedéki biztosíték értékének 10 százalékát meghaladó összegű jövedéki bírságot vagy adóbírságot a vámhatóság vagy az adóhatóság jogerős határozattal nem állapított meg, továbbá a jövedéki biztosíték értékének – az a) pont szerinti időszakban összességében – 10 százalékát meghaladó összegű, az esedékességet 30 nappal meghaladóan rendezett vagy rendezetlen adótartozása nem volt, kivéve az olyan adótartozást, amelyre fizetési könnyítést (fizetési halasztás, részletfizetés) engedélyeztek, és
+- c) az adó összege, amelyre fizetési halasztást, részletfizetést kér, nem haladja meg az általa nyújtott jövedéki biztosíték azon adótartozással csökkentett összegét, amelyre fizetési halasztást, részletfizetést engedélyeztek, illetve amelyre vonatkozóan a bejegyzett kereskedő ezt megelőzően fizetési halasztás, részletfizetés iránti kérelmet nyújtott be és annak elbírálása folyamatban van.
 
 48/A. § (1) Jövedéki ügyekben nem kell alkalmazni a közigazgatási hatósági eljárás általános szabályairól szóló törvény újrafelvételi eljárásra vonatkozó szabályait.
 
 (2) Nem lehet elektronikus úton intézni:
 
 - a) az e törvény szerinti engedélyek kiadása, módosítása iránti kérelemnek, valamint a jövedéki üggyel kapcsolatos egyéb kérelmek közokiratként vagy eredeti bizonylatként (ezek hiteles másolataként) csatolandó mellékleteinek benyújtását,
-- b) az 58. § (11) bekezdés, az 59. § (2) bekezdés és a 71. § (1) bekezdés szerinti tevékenység folytatásának bejelentését,
+- b) a 31. § (2) bekezdés, a 32. § (1) bekezdés, az 58. § (11) bekezdés, az 59. § (2) bekezdés és a 71. § (1) bekezdés szerinti tevékenység folytatásának bejelentését,
 - c)–d)
 - e) az a) és b) pontban meghatározott ügyekkel kapcsolatos jogorvoslati eljárás iránti kérelem benyújtását.
 
@@ -1454,9 +1471,7 @@ ténylegesen felhasznált, adózottan beszerzett 2710 11 31 vámtarifaszámú re
 (4) Visszaigényelhető továbbá a vámhatóság által engedélyezett bioüzemanyag-adóraktárban előállított,
 
 - a) bányászati tevékenység során bányaterületen, valamint
-- b) a vízgazdálkodásról szóló 1995. évi LVII. törvény szerinti közfeladat ellátása során
-
-közúti forgalomban nem használt gépek és mechanikus berendezések üzemeltetéséhez ténylegesen felhasznált, adózottan beszerzett biodízel után a beszerzéskor megfizetett adóból literenként 79 Ft.
+- b) a vízgazdálkodásról szóló 1995. évi LVII. törvény szerinti közfeladat ellátása során közúti forgalomban nem használt gépek és mechanikus berendezések üzemeltetéséhez ténylegesen felhasznált, adózottan beszerzett, fenntartható módon előállítottnak minősülő biodízel után a beszerzéskor megfizetett adóból literenként 79 Ft.
 
 (5) A visszaigénylésre a (4) bekezdés a) pont szerinti esetben a bányászatról szóló 1993. évi XLVIII. törvény szerinti hatósági engedéllyel rendelkező azon bányavállalkozó jogosult, amelynek (akinek) a bányatörvény szerint megállapított bányatelekre jogosultsága van, és ott a bányafelügyelet által jóváhagyott műszaki üzemi terv alapján bányászati tevékenységet folytat.
 
@@ -1464,17 +1479,50 @@ közúti forgalomban nem használt gépek és mechanikus berendezések üzemelte
 
 56. § (1) Az 55. § szerinti esetekben az adó visszaigénylése a tényleges felhasználás napjától esedékes, és legfeljebb a felhasználás napját követő 12 hónapon belül érvényesíthető.
 
-(2) Az adó visszaigénylését a gázolaj, a repülőgép üzemanyag, illetve a biodízel adót tartalmazó áron történt beszerzéséről, vagy – az 55. § (4) bekezdés a) pont szerinti esetben – a gépi bérmunka-szolgáltatás igénybevételéről a visszaigénylésre jogosult nevére kiállított számlával és a tényleges felhasználás külön jogszabályban foglaltak szerinti igazolásával, a repülőgép üzemanyag esetében továbbá a repülés időpontját, célját és teljesítését igazoló okmánnyal kell dokumentálni.
+(2) Az adó visszaigénylését a gázolaj, a repülőgép-üzemanyag, illetve a biodízel adót tartalmazó áron történt beszerzéséről, vagy – az 55. § (4) bekezdés a) pont szerinti esetben – a gépi bérmunka-szolgáltatás igénybevételéről a visszaigénylésre jogosult nevére kiállított számlával és a tényleges felhasználás külön jogszabályban foglaltak szerinti igazolásával, a repülőgép üzemanyag esetében továbbá a repülés időpontját, célját és teljesítését igazoló okmánnyal, biodízel esetében pedig fenntarthatósági bizonyítvánnyal kell dokumentálni.
 
 (3) Az adó-visszaigénylés érvényesítésekor a vámhatóság a (2) bekezdésben meghatározott dokumentumokon hitelt érdemlő módon köteles feltüntetni az adó-visszatérítés alapjaként figyelembe vett ásványolaj mennyiségét, fajtáját, valamint a visszatérített adó összegét.
 
 57. §
 
-57/A. §
+57/A. § (1) A motorfejlesztést megvalósító személy az e tevékenységéhez helyhez kötött, próbapadon tesztelt motorokban felhasznált 52. § (1) bekezdés a), d), f) pont szerinti ásványolajok, az E85, valamint az egyéb bioetanol tartalmú üzemanyagok és a biodízel után a beszerzéskor megfizetett adót a (2) bekezdésben foglalt mértékig visszaigényelheti.
 
-57/B. §
+(2) Az adó-visszaigénylés legfeljebb a motorfejlesztés (4) bekezdés szerinti időszakban ténylegesen felmerült költsége 25%-ának megfelelő összegéig érvényesíthető, feltéve, hogy ez a költség a csoportmentességi rendelet 31. cikk (5) bekezdése szerint támogatható költségnek minősül.
 
-57/C. §
+(3) Az adó-visszaigénylés feltétele, hogy az adó-visszaigénylésre jogosult
+
+- a) az (1) bekezdés szerint tervezett tevékenységéről legkésőbb a motorfejlesztés megkezdését 30 nappal megelőzően a külön jogszabály szerinti tartalmú bejelentést a vámhatósághoz megtegye,
+- b) a motorfejlesztésnek a (4) bekezdés a) pontja szerinti esetben a tárgyévi, a (4) bekezdés b) pontja szerinti esetben a tárgynegyedévi tényleges költségeiről a vámhatósághoz elszámolást nyújtson be.
+
+(4) Az adó-visszaigénylésre jogosult az adó-visszaigénylést – a 48. § (13) bekezdésében foglaltaktól eltérően – választása szerint
+
+- a) évente, legkorábban a tárgyévet követő év január hónapjának 20. napjától, vagy
+- b) negyedévente, legkorábban a tárgynegyedévet követő hónap 20. napjától igényelheti.
+
+(5) Az adó-visszaigénylésre jogosult az első adó-visszaigénylési kérelmében nyilatkozik a (4) bekezdés szerinti választásáról, melytől eltérni a motorfejlesztés időtartama alatt nem lehet.
+
+57/B. § Az 57/A. § szerinti adó-visszaigénylés a csoportmentességi rendelet 31. cikke alapján motorfejlesztéshez nyújtható projekttámogatásnak minősül.
+
+57/C. § (1) A beszerzéskor megfizetett adóból
+
+- a) az üzemanyagtöltő-állomáson forgalmi rendszámra szóló üzemanyagkártyával megvásárolt,
+- b) a (2) bekezdés szerinti adó-visszaigénylésre jogosult magyarországi telephelyén üzemanyag-tárolásra rendszeresített – a tankolt mennyiséget rendszámonként, valamint a tankoló jármű kilométeróra állását rögzítő – üzemanyag-tankoló automatával ellátott üzemanyagtartályból elektronikus mérőeszközön keresztül betöltött kereskedelmi gázolaj után literenként 6,50 Ft visszaigényelhető.
+
+(2) Az (1) bekezdés szerinti adó-visszaigénylésre – figyelemmel a (3) bekezdés rendelkezésére is – a 7. § 51. pontjában meghatározott gépjármű vagy nyerges járműszerelvény (a továbbiakban együtt: kereskedelmi jármű) vámhatóság által e célból nyilvántartásba vett üzembentartója, illetve – bérelt kereskedelmi jármű esetében – bérbe vevője jogosult. A jogosult a nyilvántartásba vétel iráni kérelmet az adóvisszaigénylési jogosultság első ízben történő érvényesítése előtt legalább 30 nappal köteles benyújtani a vámhatósághoz. A kérelemnek tartalmaznia kell a jogosult adószámát, valamint képviselője természetes személyazonosító adatait, személyazonosításra alkalmas okmányának számát. A jogosult a vámhatóság által nyilvántartásba vett adatok változását haladéktalanul köteles a vámhatósághoz bejelenteni.
+
+(3) A belföldön székhellyel, telephellyel vagy fiókteleppel nem rendelkező, kereskedelmi járművet üzemeltető személy esetében e § rendelkezése a más tagállamban vagy EFTA-országban (azaz Norvégiában, Svájcban, Liechtensteinben vagy Izlandon) regisztrált és ott kiadott nemzetközi fuvarozási engedéllyel rendelkező személyre alkalmazható.
+
+(4) Az adó-visszaigénylési jog
+
+- a) az (1) bekezdés a) pont szerinti esetben az adó-visszaigénylésre jogosult által megvásárolt gázolaj beszerzéséről a kereskedelmi jármű forgalmi rendszámát és kilométeróra állását is tartalmazó számla birtokában, illetve
+- b) az (1) bekezdés b) pont szerinti esetben a telephelyen történt tankolásokat dátum, mennyiség, forgalmi rendszám, kereskedelmi jármű kilométeróra állását részletező kimutatással dokumentálva érvényesíthető.
+
+(5) Az adó-visszaigénylési jog a vásárlás, illetve a telephelyen történt tankolás napján keletkezik, és legfeljebb a vásárlás, illetve a telephelyen történt tankolás hónapját követő 12 hónapon belül érvényesíthető.
+
+(6) Az adó-visszaigénylésre jogosult az adó-visszaigénylést – a 48. § (13) bekezdésében foglaltaktól eltérően – választása szerint az adott évre vonatkozóan
+
+- a) évente, legkorábban a tárgyévet követő év január hónapjának 20. napjától, vagy
+- b) negyedévente, legkorábban a tárgynegyedévet követő hónap 20. napjától igényelheti.
 
 ### Ásványolaj-adóraktár
 
@@ -1656,7 +1704,7 @@ lehet értékesíteni.
 - b) a terméket az importálás helyéről e-TKO-val közvetlenül adóraktárba vagy felhasználói engedélyes üzemébe, raktárába szállítják, és amennyiben az e-TKO tervezetének kiállítója
   - ba) adóraktár-engedélyes, a 38. § szerinti,
   - bb) bejegyzett feladó, a 10. § (3) bekezdés b) pont bb) alpont szerinti,
-  - bc) felhasználói engedélyes, az e § (6) bekezdés szerinti jövedéki biztosítéka fedezetet nyújt az 59. § (6) bekezdése szerint figyelembe veendő adómértékkel számított adó összegére.
+  - bc) felhasználói engedélyes, az 59. § (6) bekezdés szerinti jövedéki biztosítéka fedezetet nyújt az 59. § (6) bekezdése szerint figyelembe veendő adómértékkel számított adó összegére.
 
 (2) Az (1) bekezdésben foglaltaktól eltérő módon behozott 5 liternél/5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolaj vámjogi szabad forgalomba bocsátása az 59. § (6) bekezdése szerint figyelembe veendő adómértékkel megállapított adó kivetésével történik.
 
@@ -1666,7 +1714,7 @@ lehet értékesíteni.
 
 (5) Az egyéb ellenőrzött ásványolaj közösségi adófelfüggesztési eljárásban e-TKO-val szállítható, kivéve a 2710 11 21, a 2710 11 25 és a 2710 19 29 vámtarifaszám alá tartozó, nem ömlesztetten szállított ásványolajtermékeket, melyeket EKO-val kell szállítani. A szabad forgalomba bocsátott egyéb ellenőrzött ásványolaj más tagállamba történő szállítása esetén EKO-t kell alkalmazni.
 
-(6) Az 5 liternél/5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolaj és a megfigyelt termék más tagállamból való behozatalát adóraktár-engedélyes és felhasználói engedélyes végezheti, valamint a közösségi kereskedelmi tevékenység folytatására jogosult kereskedő abban az esetben, ha a behozatalt adóraktár-engedélyes, felhasználói engedélyes vagy nyilvántartásba vett felhasználó részére, írásban rögzített megbízás alapján végzi. Az üzemanyagadalék és a biodízel behozatalát továbbá a bejegyzett kereskedő – az adó 25. § szerinti megfizetése esetén –, valamint a közösségi kereskedelmi tevékenység folytatására jogosult kereskedő is – az adó 27. § szerinti megfizetése esetén – végezheti. A termék átvételének napján a behozatalt be kell jelenteni a vámhatósághoz, kivéve ha a behozatal közösségi adófelfüggesztési eljárásban, adóraktárba, e-TKO-val történt.
+(6) Az 5 liternél/5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolaj és a megfigyelt termék más tagállamból való behozatalát adóraktár-engedélyes és felhasználói engedélyes végezheti, valamint a közösségi kereskedelmi tevékenység folytatására jogosult kereskedő abban az esetben, ha a behozatalt adóraktár-engedélyes, felhasználói engedélyes vagy nyilvántartásba vett felhasználó részére, írásban rögzített megbízás alapján végzi. Az üzemanyag-adalék és a biodízel behozatalát továbbá a bejegyzett kereskedő – az adó 25. § szerinti megfizetése esetén –, valamint a közösségi kereskedelmi tevékenység folytatására jogosult kereskedő is – az adó 27. § szerinti megfizetése esetén – végezheti. Egyéb ellenőrzött ásványolajat más tagállamból bejegyzett kereskedő is behozhat, figyelemmel a 25. § (1) bekezdésének rendelkezésére. A termék átvételének napján a behozatalt be kell jelenteni a vámhatósághoz, kivéve, ha a behozatal közösségi adófelfüggesztési eljárásban, adóraktárba, e-TKO-val történt.
 
 (7) A közösségi kereskedelmi tevékenység folytatására jogosult jövedéki engedélyes kereskedő a más tagállamból behozott 5 liternél/5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat és a megfigyelt terméket csak adóraktár-engedélyes, felhasználói engedélyes vagy nyilvántartásba vett felhasználó részére értékesítheti az adó 27. § szerinti megfizetése nélkül.
 
@@ -1726,6 +1774,8 @@ terméket kell érteni.
 
 (8) Amennyiben egy háztartásban több bérfőzető vagy több magánfőző él, a 9. § (3) bekezdésében, a 63. § (2) bekezdés 11. pontjában, e § (3) és (6) bekezdésében meghatározott éves mennyiségi korlátok szempontjából az általuk főzetett, illetve főzött mennyiségek egybeszámítandók.
 
+(9) Nem kell alkalmazni az (1)–(2) bekezdés rendelkezését a 2208 vámtarifaszámú, 1,2 térfogatszázaléknál nagyobb alkoholtartalmú termékre, amennyiben az keretengedéllyel előállított vagy más tagállamból, harmadik országból behozott, a 68. § (1) bekezdés a) pontjában megnevezett termék.
+
 ### A bérfőzött párlat utáni adófizetési kötelezettség és eljárási szabályok
 
 65. § (1) A 8–17. §-ban foglalt rendelkezésektől eltérően a bérfőzött párlat utáni adófizetési kötelezettség akkor keletkezik, ha
@@ -1762,11 +1812,11 @@ terméket kell érteni.
 
 ### A magánfőzésre vonatkozó szabályok
 
-67/A. § (1) A magánfőző a 64. § (6) bekezdése szerinti esetben a vámhatósághoz bejelenti – az adókötelezettség keletkezését 3 munkanappal megelőzően – az adó megállapításához szükséges, a külön jogszabályban meghatározott adatokat, az adó összegét, valamint az értékesítésre szánt párlathoz igényelt zárjegyek rendelkezésre bocsátásához szükséges, a külön jogszabályban meghatározott adatokat. A bejelentés adóbevallásnak minősül.
+67/A. § (1) A magánfőző a 64. § (6) bekezdése szerinti esetben a vámhatósághoz bejelenti – az adókötelezettség keletkezését öt nappal megelőzően – az adó megállapításához szükséges, a külön jogszabályban meghatározott adatokat, az adó összegét, valamint az értékesítésre szánt párlathoz igényelt zárjegyek rendelkezésre bocsátásához szükséges, a külön jogszabályban meghatározott adatokat. A bejelentés adóbevallásnak minősül.
 
 (2) A magánfőző az (1) bekezdés szerinti bejelentésben nyilatkozik arról, hogy sem ő, sem a vele egy háztartásban élő más személy nem állíttat elő bérfőzésben párlatot.
 
-(3) A vámhatóság az (1) bekezdés szerinti bejelentés alapján legkésőbb a bejelentés napját követő 5. munkanapon a bejelentett (bevallott) mennyiségre származási igazolványt állít ki és bocsát a magánfőző rendelkezésére, feltéve, hogy a magánfőző az adót megfizette.
+(3) A vámhatóság az (1) bekezdés szerinti bejelentés alapján a bejelentés megérkezését követő naptól számított nyolc napon belül a bejelentett (bevallott) mennyiségre származási igazolványt állít ki és bocsát a magánfőző rendelkezésére, feltéve, hogy a magánfőző az adót megfizette.
 
 (4) Magánfőzés esetén
 
@@ -1894,7 +1944,8 @@ a (3) bekezdés szerinti zárjeggyel történhet.
 - c) a 2207 vámtarifaszámú alkoholtermékre, amennyiben az laboratóriumi vizsgálatok, kísérleti, kutatási és fejlesztési célok, kísérleti termékek próbagyártása, labor eszközök, gépek mosása, tisztítása, szolgáltató tevékenységek, kórházak, rendelőintézetek, gyógyszer-nagykereskedelem, gyógyszertárak céljára, valamint a fermentált dohányvágat aromásítására, továbbá a 68. § (1) bekezdésében megjelölt adómentes felhasználási célokra kerül adózottan értékesítésre,
 - d) a teljesen denaturált alkoholtermékre,
 - e) a 2207 vámtarifaszám alá tartozó, nyomdaipari célokat szolgáló hígítóra, oldószerre,
-- f) a 2207 és 2208 vámtarifaszámú alkoholtermékre, amennyiben az adózottan, a 63. § (1) bekezdés c) pontja szerinti alkoholtermék előállítása céljára kerül értékesítésre.
+- f) a 2207 és 2208 vámtarifaszámú alkoholtermékre, amennyiben az adózottan, a 63. § (1) bekezdés c) pontja szerinti alkoholtermék előállítása céljára kerül értékesítésre,
+- g) a 2208 vámtarifaszámú, 1,2 térfogatszázaléknál nagyobb alkoholtartalmú termékre, ha az keretengedéllyel előállított vagy más tagállamból, harmadik országból behozott, a 68. § (1) bekezdés a) pontjában megnevezett termék.
 
 (3) A zárjegy az alkoholtermék palackjára vagy legkisebb fogyasztói csomagolási egységére felhelyezett olyan bélyeg, amely igazolja, hogy a termék adóraktárban került előállításra (palackozásra), és onnan került kiszállításra, – a bérfőzött párlat és a magánfőzésben előállított párlat esetén – továbbá azt, hogy a 64. § (5), illetve (6) bekezdés szerinti adót megfizették, továbbá azt, hogy a harmadik országból, illetve tagállamból a közösségi vámjog, illetve e törvény rendelkezései szerint került behozatalra.
 
@@ -1914,7 +1965,7 @@ a (3) bekezdés szerinti zárjeggyel történhet.
 
 (9) Az alkoholtermék – a 63. § (1) bekezdés c) pontja szerinti termék, valamint a (2) bekezdés a) és c)–f) pontjaiban foglalt esetek kivételével, illetve a (10) bekezdésben foglalt eltéréssel – 2 liter űrtartalmat meg nem haladó göngyölegben palackozva bocsátható szabad forgalomba, illetve hozható forgalomba a más tagállamból behozatalt követően.
 
-(10) Az alkoholtermék reklám, kiállítás céljából, valamint alkalmi, eseti kereskedelmi forgalmazásra 2 litert meghaladó, egyedileg beazonosítható göngyölegben való szabad forgalomba bocsátása, illetve más tagállamból történt behozatalt követően a forgalomba hozatala az adóraktár, a bejegyzett kereskedő, az importáló vagy a közösségi kereskedelmi tevékenységet folytató jövedéki engedélyes kereskedő által a vámhatósághoz teljesített előzetes bejelentés és annak a vámhatóság általi nyilvántartásba vételét követően lehetséges. A bejelentést esetenként, legkésőbb a forgalmazást, tagállamból történő behozatal esetében a behozatalt, importálás esetében pedig az importálást megelőző harmadik munkanapig kell elektronikus úton, az ügyfélkapun keresztül megtenni. A vámhatóság a bejelentést legkésőbb a bejelentést követő munkanapon nyilvántartásba veszi és arról a bejelentőt elektronikus úton, az ügyfélkapun keresztül értesíti.
+(10) Az alkoholtermék reklám, kiállítás céljából, valamint alkalmi, eseti kereskedelmi forgalmazásra 2 litert meghaladó, egyedileg beazonosítható göngyölegben való szabad forgalomba bocsátása, illetve más tagállamból történt behozatalt követően a forgalomba hozatala az adóraktár, a bejegyzett kereskedő, az importáló vagy a közösségi kereskedelmi tevékenységet folytató jövedéki engedélyes kereskedő által a vámhatósághoz teljesített előzetes bejelentés és annak a vámhatóság általi nyilvántartásba vételét követően lehetséges. A bejelentést esetenként, legkésőbb a forgalmazást, tagállamból történő behozatal esetében a behozatalt, importálás esetében pedig az importálást megelőző ötödik napig kell elektronikus úton, az ügyfélkapun keresztül megtenni. A vámhatóság a bejelentést legkésőbb a bejelentést követő munkanapon nyilvántartásba veszi és arról a bejelentőt elektronikus úton, az ügyfélkapun keresztül értesíti.
 
 (11) Az alkoholtermék tranzitadóraktárba kizárólag zárjegy nélkül tárolható be, és a tranzitadóraktárból kizárólag zárjegy nélkül értékesíthető.
 
@@ -1949,11 +2000,17 @@ követő napon köteles a felhelyezés, a fogadás, a beszállítás, illetve a 
 
 ### Adóalap, adómérték
 
-76. § (1) Az adó alapja a sör mennyisége, hektoliterben és Balling-(Plató-)fokban mérve.
+76. § (1) Az adó alapja a sör mennyisége, hektoliterben és Balling- (Plató-) fokban, illetve – a 2206 vámtarifaszámú, 2,8 térfogatszázalékot meg nem haladó alkoholtartalmú sör esetében – alkoholfokban mérve.
 
-(2) Balling-(Plató-)fok alatt a sörlé 20 °C-on mért szárazanyagtartalmát kell érteni, tömegszázalékban kifejezve.
+(2) Az (1) bekezdés alkalmazásában
 
-(3) Az adó hektoliterre vetítve Balling- (Plató-) fokonként 633 forint.
+- a) Balling- (Plató-) fok: a sör eredeti szárazanyagtartalma, a végtermék sör alkohol- és szárazanyag-tartalmából a vonatkozó hatályos magyar szabványban (a továbbiakban: sörszabvány) meghatározott Balling-képlettel számítva,
+- b) alkoholfok: a sörszabvány szerinti, 20 °C-on mért alkoholtartalom térfogatszázalékban kifejezve.
+
+(3) Az adó hektoliterre vetítve
+
+- a) Balling- (Plató-) fokonként 633 forint,
+- b) alkoholfokonként 1400 forint.
 
 ### Adómentes felhasználás
 
@@ -2011,9 +2068,8 @@ de adóraktáranként, illetve a több adóraktárral rendelkező engedélyes es
 - 1. adalékanyag: a szőlőbor előállítására és kezelésére vonatkozó jogszabály rendelkezései alapján felhasználható kiegészítő és segédanyag;
 - 2. tényleges alkoholtartalom: a termékben jelen lévő tiszta alkohol térfogatának aránya a termék teljes térfogatához viszonyítva, 20 °C hőmérsékleten;
 - 3. kizárólagos erjedés: a bor tényleges alkoholtartalmának a külön jogszabály rendelkezései szerinti kialakulása;
-- 4. borkísérő okmány: a vámhatóság által kiadott szigorú számadású bizonylat, amelyet e törvény és a külön jogszabály rendelkezései szerint a szőlőbor szállításakor kell alkalmazni;
-- 5. borvidék: a szőlőtermesztésről és a borgazdálkodásról szóló törvényben (a továbbiakban: bortörvény) ekként meghatározott szőlőtermő hely;
-- 6. bortermőhely: a bortörvényben ekként meghatározott szőlőtermő hely;
+- 4. borkísérő okmány: a szőlőbor szállításához alkalmazandó, a vámhatóság által kiadott, vagy a vámhatóság engedélyével formanyomtatványként, illetve számítógéppel előállított, szigorú számadású bizonylat;
+- 5–6.
 - 7. mobil palackozó: olyan önjáró vagy vontatott közúti járműre felszerelt, zárt rendszerű technológiai berendezés, amely bor palackozására alkalmas;
 - 8. szőlőtermelő: az a személy, aki a tulajdonában, haszonbérletében vagy bármely más jogcímen használatában lévő szőlőültetvényt művel.
 
@@ -2075,7 +2131,7 @@ valamint rendelkezik a tevékenysége folytatásához külön jogszabály(ok)ban
 
 ### Az egyszerűsített adóraktár bizonylatolási, nyilvántartási, elszámolási és adóbevallási kötelezettsége
 
-83. § (1) Az egyszerűsített adóraktárból a szőlőbor – az e törvény 40. § (1) bekezdésében foglalt rendelkezéstől eltérően – borkísérő okmánnyal és annak a szállítást végző részére történő átadásával tárolható ki.
+83. § (1)
 
 (2) A borkísérő okmánnyal kapcsolatban elkövetett jogsértés esetén a számlára, a nyugtára vonatkozó rendelkezéseket kell alkalmazni.
 
@@ -2225,10 +2281,10 @@ adható.
 - c) a dohányrúd természetes dohányból készült borítékkal,
 - d) a dohányrúd kocsányozott kevert töltettel és a szivar szokásos színével megegyező külső borítékkal, amely teljesen befedi a terméket, beleértve a filtert is, amennyiben van, kivéve a szopókával ellátott terméket. A burok és a boríték dohányfóliából készült, és egy termék tömege – a filter és a szopóka nélkül – nem lehet kevesebb 1,2 g-nál, és a borítékot a dohányrúd hossztengelyével minimum 30 fokos hegyes szöget bezáróan, spirálisan tekerték fel,
 - e) a dohányrúd kocsányozott kevert töltettel és a szivar szokásos színével megegyező dohányfóliából készült külső borítékkal, amely teljesen befedi a terméket, beleértve a filtert is, amennyiben van, kivéve a szopókával ellátott terméket, ahol a külső boríték nem fedi a szopókát. Egy termék tömege – filter vagy szopóka nélkül – nem kevesebb 2,3 g-nál és a kerülete a dohányrúd hosszának legalább egyharmadán nem kevesebb 34 mm-nél [a továbbiakban a b)–e) pont együtt: szivar, szivarka],
-- f) olyan, további ipari feldolgozás nélkül dohányzásra alkalmas kész dohányvágat, amelyben a dohányrészecskék tömegének több mint 25 százaléka kisebb, mint 1 milliméter szélességűre vágott (a továbbiakban: finomra vágott fogyasztási dohány),
+- f) olyan, további ipari feldolgozás nélkül dohányzásra alkalmas kész dohányvágat, amelyben a dohányrészecskék tömegének több mint 25 százaléka kisebb mint 1,5 milliméter szélességűre vágott (a továbbiakban: finomra vágott fogyasztási dohány),
 - g) az f) pont alá nem tartozó, további ipari feldolgozás nélkül dohányzásra alkalmas kész dohányvágat (a továbbiakban: egyéb fogyasztási dohány) [a továbbiakban: az f) és g) pont együtt: fogyasztási dohány].
 
-(2) Kész dohányvágat alatt olyan dohánygyártmányt kell érteni, amely pipadohány esetében pipában történő elszívásra, cigaretta dohány esetében kézi töltésű cigaretta elkészítésére szolgál.
+(2) Kész dohányvágat alatt olyan dohánygyártmányt kell érteni, amely pipadohány esetében pipában történő elszívásra, cigaretta dohány esetében kézi töltésű cigaretta elkészítésére szolgál, beleértve a dohányzásra alkalmas, ilyenkénti értékesítésre felkínált dohánytörmeléket is. Dohánytörmeléknek kell tekinteni a dohány feldolgozása és a dohánytermékek előállítása során keletkező dohánylevél-maradványokat és melléktermékeket.
 
 (3) A (4) bekezdésben foglalt eltéréssel az olyan terméket, amely teljesen vagy részben dohánytól eltérő anyagot is tartalmaz, de egyébként megfelel
 
@@ -2240,6 +2296,8 @@ kell tekinteni.
 
 (4) Nem lehet dohánygyártmánynak tekinteni azt a kizárólag gyógyászati célra használt, gyógyhatású anyagot tartalmazó terméket, amely nem tartalmaz dohányt és a külön jogszabályban meghatározott hatóság által kiadott érvényes forgalomba hozatali engedéllyel rendelkezik.
 
+(5) Az olyan terméket, amely részben tartalmaz dohánytól eltérő anyagot is, de egyébként megfelel az (1) bekezdés b)–e) pontjában foglalt kritériumoknak, szivarnak, szivarkának kell tekinteni.
+
 ### Adóalap, adómérték
 
 97. § (1) Az adó alapja
@@ -2249,12 +2307,12 @@ kell tekinteni.
 
 (2) Az adó mértéke
 
-- a) a cigarettára 9350 forint ezer darabonként és a kiskereskedelmi eladási ár 28,3 százaléka, de legalább 17 330 forint/ezer darab,
-- b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 28,5 százaléka,
-- c) a finomra vágott fogyasztási dohányra a kiskereskedelmi eladási ár 52 százaléka, de legalább 7280 forint/kilogramm,
-- d) és az egyéb fogyasztási dohányra a kiskereskedelmi eladási ár 32,5 százaléka, de legalább 7280 forint/kilogramm.
+- a) a cigarettára 9750 forint ezer darabonként és a kiskereskedelmi eladási ár 28,4 százaléka, de legalább 18 080 forint/ezer darab,
+- b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 28,5 százaléka;
+- c) a finomra vágott fogyasztási dohányra a kiskereskedelmi eladási ár 52 százaléka, de legalább 7860 forint/kilogramm,
+- d) és az egyéb fogyasztási dohányra a kiskereskedelmi eladási ár 32,5 százaléka, de legalább 7860 forint/kilogramm.
 
-(3) A tételes adómérték alapjaként a cigaretta darabszámát kétszerezni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 9 centimétert, de rövidebb, mint 18 centiméter, háromszorosan kell figyelembe venni, ha annak hossza – füstszűrő és szopóka nélkül – 18 centiméter vagy annál nagyobb, de rövidebb, mint 27 centiméter, és így tovább.
+(3) A tételes adómérték alapjaként a cigaretta darabszámát kétszerezni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 8 centimétert, de rövidebb, mint 11 centiméter, háromszorozni kell, ha annak hossza – füstszűrő és szopóka nélkül – 11 centiméter vagy annál nagyobb, de rövidebb, mint 14 centiméter, és így tovább.
 
 (4) Az általános forgalmi adó alapja az (5) bekezdés szerinti, az általános forgalmi adót is tartalmazó kiskereskedelmi eladási ár. Az általános forgalmi adó mértéke az áfatörvény általános adó mértékének megfelelő azon százalékérték, amelyet akkor kell alkalmazni, amikor az adott pénzösszeget úgy kell tekinteni, mint amely fizetendő általános forgalmi adót is tartalmaz.
 
@@ -2295,17 +2353,40 @@ kell kiskereskedelmi eladási árnak tekinteni.
 
 (11) Az importáló adófizetési kötelezettségének vámhatóság általi megállapításakor az adóból és az általános forgalmi adóból le kell vonni az importált dohánygyártmányra felragasztott adójeggyel megfizetett vagy megfizetésre kerülő összeget, feltéve, hogy az importáló a vámjogi szabadforgalomba bocsátáskor az adójegy kivitelét igazolja, vagy – az adójegy nélkül importált dohánygyártmány esetében – a dohánygyártmány vámjogi szabadforgalomba bocsátása előtt az adójegyet az (5)–(6) bekezdés szerint vette át.
 
-(12) Amennyiben az adó mértéke emelkedik, az új adómérték hatálybalépését megelőző 2 hónapban – amennyiben ennél az új adómérték kihirdetése és hatálybalépése közötti időszak rövidebb, ez utóbbi időszak alatt – (a továbbiakban: referencia-időszak) az adóraktár engedélyese és a 24. § (1) bekezdés szerinti bejegyzett kereskedő havonta nem rendelhet és részére a vámhatóság nem adhat ki a cigarettára és a fogyasztási dohányra több adójegyet, mint az új adómérték kihirdetése hónapját megelőző 12 hónapban (a továbbiakban: bázisidőszak) átvett és a bázisidőszakban visszahozott adójegyekkel csökkentett adójegyek mennyiségéből a bázisidőszakra számított egyhavi átlag 1,15-szöröse.
+(12)–(13)
 
-(13) A (12) bekezdés rendelkezését az importáló és az eseti bejegyzett kereskedő esetében is alkalmazni kell azzal az eltéréssel, hogy az átvett adójegyek egyhavi átlagát a bázisidőszak azon hónapjaira kell számítani, amelyben az importáló, illetve az eseti bejegyzett kereskedő adójegyet vett át.
-
-(14) Amennyiben az adóraktár engedélyese, a bejegyzett kereskedő és az importáló (a továbbiakban együtt: adójegy-felhasználó) a tevékenységét az új adómérték kihirdetésének hónapját megelőző 12 hónapnál rövidebb ideig folytatta, a referencia-időszakban rendelhető, illetve kiadható adójegy mennyiségének meghatározásához figyelembe veendő egyhavi átlagot ezen időszakra vonatkozóan kell – figyelemmel a (13) bekezdés rendelkezéseire is – megállapítani. Amennyiben az adójegy-felhasználó a tevékenységét az új adómérték kihirdetésének hónapját megelőzően 6 hónapnál rövidebb ideig folytatta, vagy tevékenységét az új adómérték kihirdetését követően kezdte meg, számára a vámhatóság a referencia-időszakban nem adhat ki több adójegyet, mint a legalább 12 hónapja működő adójegy-felhasználók esetében számított kiadható mennyiségek közül a legkisebb mennyiség.
+(14)
 
 (15)
 
-(16) Az adómérték változásának hatálybalépését követően az adóraktárból a változás előtti adójeggyel – legfeljebb még 15 napon belül – csak az a dohánygyártmány tárolható ki, amelyre az adójegyet az adómérték változásának hatálybalépése előtt helyezték fel. A dohánygyártmány az adómérték változásának hatálybalépését követően csak az új adómértéknek megfelelő adójeggyel importálható a szabad forgalom számára és hozható be más tagállamból.
+(16)
 
-(17) A más tagállamból beszerzett dohánygyártmányra az adójegyet a bejegyzett kereskedőnek legkésőbb a dohánygyártmány fogadásának napján kell átvennie, és legkésőbb a dohánygyártmány fogadásának napját követő öt munkanapon belül kell felhelyeznie.
+(17)
+
+98/A. § (1) Az adóraktár engedélyese és a 24. § (1) bekezdés szerinti bejegyzett kereskedő havonta nem rendelhet és részére a vámhatóság nem adhat ki a cigarettára és a fogyasztási dohányra
+
+- a) minden év szeptember 1-jétől december 31-éig tartó időszakában, illetve
+- b) ha az adó mértéke január 1-jétől eltérő időpontban emelkedik, akkor az új adómérték hatálybalépését megelőző 4 hónapban – amennyiben ennél az új adómérték kihirdetése és hatálybalépése közötti időszak rövidebb, ez utóbbi időszak alatt – is [a továbbiakban a) és b) pont: referencia-időszak] a (2) bekezdésben meghatározottnál több adójegyet.
+
+(2) A referencia-időszakban havonta rendelhető adójegyek mennyisége nem lehet több, mint
+
+- a) – az (1) bekezdés a) pont esetén – az adott év első 8 hónapjában,
+- b) – az (1) bekezdés b) pont esetén – a referencia-időszak kezdő hónapját megelőző 12 hónap közül a (3) bekezdés szerinti 10 hónapban [a továbbiakban a) és b) pont: bázisidőszak] az adóraktár engedélyese és a 24. § (1) bekezdés szerinti bejegyzett kereskedő által átvett és a bázisidőszakban visszahozott adójegyekkel csökkentett adójegyek mennyiségéből a bázisidőszakra számított egyhavi átlag 1,1-szerese a cigaretta esetében, illetve 1,15-szöröse a fogyasztási dohány esetében.
+
+(3) A (2) bekezdés b) pont esetében a 10 hónapot a referencia-időszak kezdő hónapját megelőző 12 hónapból annak a 2 hónapnak a figyelmen kívül hagyásával kell meghatározni, amely 2 hónapban a legnagyobb volt az adójegyek (2) bekezdés szerint meghatározott mennyisége.
+
+(4) Abban az esetben is a (2) bekezdés b) pont rendelkezését kell alkalmazni, ha az (1) bekezdés b) pont szerinti esetben a referencia-időszak egyes hónapjai az (1) bekezdés a) pont szerinti referencia-időszakba esnek.
+
+(5) Az (1)–(4) bekezdés rendelkezéseit az importáló és az eseti bejegyzett kereskedő esetében is alkalmazni kell azzal az eltéréssel, hogy
+
+- a) az átvett adójegyek egyhavi átlagát a bázisidőszak azon hónapjaira kell számítani, amelyben az importáló, illetve az eseti bejegyzett kereskedő adójegyet vett át,
+- b) amennyiben az a) pont szerinti hónapok száma az (1) bekezdés b) pont szerinti esetben kisebb, mint négy, a (3) bekezdés rendelkezését nem kell alkalmazni.
+
+(6) Amennyiben az adóraktár engedélyese, a bejegyzett kereskedő és az importáló (a továbbiakban együtt: adójegy-felhasználó) a tevékenységét az új adómérték kihirdetésének hónapját megelőző 12 hónapnál rövidebb, de 6 hónapnál hosszabb ideig folytatta, a referencia-időszakban rendelhető, illetve kiadható adójegy mennyiségének meghatározásához figyelembe veendő egyhavi átlagot ezen időszakra vonatkozóan kell a (2)–(5) bekezdés rendelkezéseinek értelemszerű alkalmazásával megállapítani. Amennyiben az adójegy-felhasználó a tevékenységét az új adómérték kihirdetésének hónapját megelőzően 6 hónapot meg nem haladó ideig folytatta, vagy tevékenységét az új adómérték kihirdetését követően kezdte meg, számára a vámhatóság a referencia-időszakban nem adhat ki több adójegyet, mint a legalább 12 hónapja működő adójegy-felhasználók esetében számított kiadható mennyiségek közül a legkisebb mennyiség.
+
+(7) A dohánygyártmány az adómérték változásának hatálybalépését követően csak az új adómértéknek megfelelő adójeggyel bocsátható szabad forgalomba, illetve importálható a szabad forgalom számára és hozható be más tagállamból.
+
+(8) A más tagállamból beszerzett dohánygyártmányra az adójegyet a bejegyzett kereskedőnek legkésőbb a dohánygyártmány fogadásának napján kell átvennie, és legkésőbb a dohánygyártmány fogadásának napját követő öt munkanapon belül kell felhelyeznie.
 
 99. § (1) Az adójegyet a dohánygyártmányok egyedi fogyasztói csomagolási egységére oly módon kell felragasztani, hogy sérülésmentesen ne legyen eltávolítható és a csomagolás kinyitásakor eltépődjön.
 
@@ -2339,7 +2420,7 @@ a 98. § (6) bekezdése szerint halasztott fizetési kötelezettség csökkenthe
 
 (7) A dohánygyártmány adóraktár engedélyese, a bejegyzett kereskedő és az importáló a szabadforgalomból visszaszállított (visszáru) dohánygyártmány adóját visszaigényelheti (levonhatja), amennyiben a dohánygyártmányt a dohánygyártmány-adóraktár engedélyese az adóraktárában újrafeldolgozza vagy megsemmisíti, illetve a bejegyzett kereskedő és az importáló megsemmisítteti. Az adólevonás joga megsemmisítés esetén az adójegy és a dohánygyártmány megsemmisítéséről felvett jegyzőkönyv birtokában érvényesíthető, és a megsemmisítés napjától esedékes. Újrafeldolgozás esetén az adólevonás joga az adójegy megsemmisítéséről felvett jegyzőkönyv birtokában érvényesíthető, és a megsemmisítés napjától esedékes, továbbá a 47. § (5) bekezdés a) pontjának, illetve (9) bekezdés a) pontjának rendelkezését is alkalmazni kell.
 
-99/A. § A vámhatóság a természetes személy által harmadik országból behozott, az utasok személyi poggyászában importált termékek általános forgalmi adó és jövedéki adó mentességéről szóló 2008. évi LXVIII. törvény (a továbbiakban: Utasforgalmi tv.) szerinti adómentes mennyiséget meghaladó mennyiségű, illetve a 17. életévét be nem töltött személy esetében a harmadik országból behozott cigaretta fogyasztói csomagolását a vámjogi szabadforgalomba bocsátáskor az adó megfizetését igazoló jellel (a továbbiakban: hatósági jel) látja el.
+99/A. § A vámhatóság a természetes személy által harmadik országból behozott, az utasok személyi poggyászában importált termékek általános forgalmi adó és jövedéki adó mentességéről szóló 2008. évi LXVIII. törvény szerinti adómentes mennyiséget meghaladó mennyiségű, illetve a 17. életévét be nem töltött személy esetében a harmadik országból behozott cigaretta fogyasztói csomagolását a vámjogi szabadforgalomba bocsátáskor az adó megfizetését igazoló jellel látja el.
 
 ### Dohánygyártmány-adóraktár
 
@@ -2385,7 +2466,7 @@ de adóraktáranként, illetve a több adóraktárral rendelkező engedélyes es
 
 ### XVI. Fejezet — JÖVEDÉKI TERMÉKEK KERESKEDELME, EXPORTJA-IMPORTJA SZABADFORGALOMBAN
 
-103. § (1) Az 52. § (1) bekezdése szerinti ásványolajjal – kivéve az egyéb ellenőrzött ásványolajat 1 liter vagy annál kisebb kiszerelésben, illetve a 25 kilogramm vagy annál kisebb kiszerelésű palackba töltött cseppfolyósított szénhidrogént –, a 2207 vámtarifaszám alá tartozó bioüzemanyaggal, az E85-tel és más, a 3824 90 99 vámtarifaszám alá tartozó, üzemanyagcélú, 2207 vámtarifaszámú alkoholterméket tartalmazó ásványolajjal, az 50. § (4)–(5) bekezdése szerinti megfigyelt termékkel, valamint az ásványolajon kívüli, előbbiekben nem említett egyéb jövedéki termékkel – kivéve a 63. § (1) bekezdés c) pontja szerinti terméket – (e fejezet alkalmazásában a továbbiakban együtt: jövedéki termék) szabad forgalomban kereskedni, e jövedéki termékeket exportálni és importálni, szabad forgalomba bocsátott jövedéki terméket (ideértve a megfigyelt terméket is) a Közösségen belüli forgalomban értékesíteni vagy onnan beszerezni csak az e törvényben meghatározott engedéllyel lehet.
+103. § (1) Az 52. § (1) bekezdése szerinti ásványolajjal – kivéve az egyéb ellenőrzött ásványolajat 1 liter vagy annál kisebb kiszerelésben, illetve a 25 kilogramm vagy annál kisebb kiszerelésű palackba töltött cseppfolyósított szénhidrogént –, a 2207 vámtarifaszám alá tartozó bioüzemanyaggal, az E85-tel és más, a 3824 90 99 vámtarifaszám alá tartozó, üzemanyagcélú, 2207 vámtarifaszámú alkoholterméket tartalmazó ásványolajjal, az 50. § (4)–(5) bekezdése szerinti megfigyelt termékkel, valamint az ásványolajon kívüli, előbbiekben nem említett egyéb jövedéki termékkel – kivéve a 63. § (1) bekezdés c) pontja és a 64. § (9) bekezdése szerinti terméket – (e fejezet alkalmazásában a továbbiakban együtt: jövedéki termék) szabad forgalomban kereskedni, e jövedéki termékeket exportálni és importálni, szabad forgalomba bocsátott jövedéki terméket (ideértve a megfigyelt terméket is) a Közösségen belüli forgalomban értékesíteni vagy onnan beszerezni csak az e törvényben meghatározott engedéllyel lehet.
 
 (2) E törvény alkalmazásában:
 
@@ -2462,7 +2543,7 @@ jövedéki biztosítékot nyújtania.
 
 (12) Az országos közforgalmú vasút üzemeltetője mentesül a (4) bekezdés a) pontjában előírt feltétel teljesítése alól, ha a gázolajat kizárólag a vasúti pályához kötött járművek, munkagépek vasúti szállítási főtevékenységhez közvetlenül kapcsolódó üzemeltetése céljára értékesíti.
 
-(13) A jövedéki engedélyes kereskedő, az importáló és az exportáló által nyújtandó jövedéki biztosítékra a 38. § (5) és (11) bekezdésének rendelkezéseit is alkalmazni kell. A jövedéki biztosíték érvényesítésére a vámhatóság a jogerősen megállapított jövedéki bírságtartozás esetén – külön végzés nélkül – jogosult.
+(13) A jövedéki engedélyes kereskedő, az importáló és az exportáló által nyújtandó jövedéki biztosítékra a 38. § (5) és (11) bekezdésének rendelkezéseit is alkalmazni kell. A jövedéki biztosíték érvényesítésére a vámhatóság a jogerősen megállapított jövedéki vagy mulasztási bírság tartozás esetén – külön végzés nélkül – jogosult, illetve – a 26/A. § (6) bekezdése szerinti esetben – a 38. § (12) bekezdését kell alkalmazni.
 
 (14) A jövedéki engedély megszűnik, ha
 
@@ -2548,7 +2629,7 @@ jövedéki biztosítékot nyújtania.
 
 (4) A kereskedelmi hatóság a jövedéki termékek kereskedelmi forgalmazására jogosító működési engedélyről szóló döntéseket a működési engedélyről szóló döntés meghozatalával egyidejűleg, a nem kizárólag üzletben forgalmazható jövedéki termék forgalmazására irányuló, a Kertv. szerinti bejelentések másolatát pedig legkésőbb a bejelentés nyilvántartásba vételét követő munkanapon küldi meg a vámhatóságnak.
 
-(5) A nem jövedéki engedélyes kereskedő jövedéki terméket – a dohánygyártmány kivételével, illetve figyelemmel a (6) bekezdésben foglalt feltételre – mozgóbolt útján is értékesíthet, ha a székhelye szerint illetékes vámhatóságnak a mozgóbolton keresztül történő értékesítés megkezdését legkésőbb 6 munkanappal megelőzően írásban, a (7) bekezdés szerint bejelenti.
+(5) A nem jövedéki engedélyes kereskedő jövedéki terméket – a dohánygyártmány kivételével, illetve figyelemmel a (6) bekezdésben foglalt feltételre – mozgóbolt útján is értékesíthet, ha a székhelye szerint illetékes vámhatóságnak a mozgóbolton keresztül történő értékesítés megkezdését legkésőbb nyolc nappal megelőzően írásban, a (7) bekezdés szerint bejelenti.
 
 (6) Mozgóbolt útján
 
@@ -2764,7 +2845,7 @@ büntetendő.
 
 (2) Nem kell alkalmazni az (1) bekezdésben foglalt intézkedést, amennyiben a jövedéki termék mennyisége, amelyre az (1) bekezdésben említett jogsértést elkövették, nem éri el a 110. § (5) bekezdésében meghatározott kereskedelmi mennyiséget, illetve az üzemanyagok esetében az 500 litert, és a jogsértést első ízben követték el. Az üzemanyagtöltő állomás, kiskereskedelmi tárolótelep esetében a vámhatóság továbbá mérlegelheti az (1) bekezdésben foglalt intézkedés alkalmazását, amennyiben az üzemanyagtöltő állomás, kiskereskedelmi tárolótelep jövedéki termékkészletének ellenőrzése során megállapított, a külön jogszabály szerint el nem számolható üzemanyag többlet mennyisége termékenként nem haladja meg az 1000 litert.
 
-(3) Nem kell alkalmazni az (1) bekezdésben foglalt intézkedést, amennyiben a körülményekből megállapítható, hogy a jogsértő személy az adott helyzetben a tőle elvárható körültekintéssel járt el a jövedéki termék vagy jövedéki termékek beszerzése során.
+(3) Nem kell alkalmazni az (1) és (5) bekezdésben foglalt intézkedést, amennyiben a körülményekből megállapítható, hogy a jogsértő személy az adott helyzetben a tőle elvárható körültekintéssel járt el a jövedéki termék vagy jövedéki termékek beszerzése során.
 
 (4) A (3) bekezdés rendelkezésének alkalmazásánál az eset összes körülményét vizsgálni kell, különösen a jövedéki termék beszerzésének körülményeit, a jövedéki termék származását igazoló okmányokat, a jogsértő személy jogellenes magatartásának súlyát.
 
@@ -2787,7 +2868,7 @@ büntetendő.
 - e) a jogosulatlanul előállított, birtokolt, vagy az arra jogosulatlan személy által használt desztillálóberendezést, a dohánygyártmány előállítására alkalmas gépet és egyéb eszközt,
 - f) a termékek, a zárjegy előállítására használt eszközt,
 - g) a termékek, a zárjegy felhasználására, tárolására és szállítására használt eszközt [e fejezet alkalmazásában az e)–g) pontokban meghatározottak a továbbiakban: eszközök] – a (4) bekezdésben foglalt eltéréssel –
-- h) magánfőzésre használt desztillálóberendezést, ha
+- h) a magánfőzésre használt desztillálóberendezést, ha
   - ha) a magánfőző a 67/A. § (1) bekezdés szerinti bejelentésében az adó megállapításához szükséges adatok tekintetében valótlan adatokat ad meg,
   - hb) a 67/A. § (2) bekezdés rendelkezésének alkalmazásában a magánfőző valótlan nyilatkozatot tesz,
   - hc) a magánfőző a desztillálóberendezést a párlattól eltérő alkoholtermék előállítására használja,
@@ -2850,9 +2931,9 @@ lefoglalja.
 
 (8) Az elkobzott ásványolajtermékek
 
-- a) a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény szerinti katasztrófa esetén a területileg illetékes védelmi bizottság elnökének, illetve I–III. fokú árvíz- és belvíz-védekezési készültség esetén az érintett terület települési önkormányzata polgármesterének vagy a vízügyi igazgatási szervezet területi szerve vezetőjének kérelme alapján – a vámhatóság vezetője jóváhagyásával, elszámolási kötelezettség mellett – átadhatók;
-- b) közül az értékesítésre vagy az a) pont szerinti átadásra nem került ásványolajtermékeket a vámhatóság – a vámhatóság vezetője jóváhagyásával, elszámolási kötelezettség mellett – üzemanyagként, vagy fűtési, tüzelési célra felhasználhatja;
-- c) közül az értékesítésre vagy az a) és b) pont szerint átadásra, felhasználásra nem került ásványolajtermékek a katasztrófavédelmi szerv részére oktatás, gyakorlatozás céljára a katasztrófavédelmi szerv kérelme alapján – a vámhatóság vezetője jóváhagyásával, elszámolási kötelezettség mellett – átadhatók.
+- a) a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény szerinti katasztrófa esetén a területileg illetékes védelmi bizottság elnökének, illetve I–III. fokú árvíz- és belvíz-védekezési készültség esetén az érintett terület települési önkormányzata polgármesterének vagy a vízügyi igazgatási szervezet területi szerve vezetőjének kérelme alapján – a Nemzeti Adó- és Vámhivatal vezetője jóváhagyásával, elszámolási kötelezettség mellett – átadhatók;
+- b) közül az értékesítésre vagy az a) pont szerinti átadásra nem került ásványolajtermékeket a vámhatóság – a Nemzeti Adó- és Vámhivatal vezetője jóváhagyásával, elszámolási kötelezettség mellett – üzemanyagként, vagy fűtési, tüzelési célra felhasználhatja;
+- c) közül az értékesítésre vagy az a) és b) pont szerint átadásra, felhasználásra nem került ásványolajtermékek a katasztrófavédelmi szerv részére oktatás, gyakorlatozás céljára a katasztrófavédelmi szerv kérelme alapján – a Nemzeti Adó- és Vámhivatal vezetője jóváhagyásával, elszámolási kötelezettség mellett – átadhatók.
 
 (9) A vámhatóság az elkobzásról rendelkező döntést követően, de annak jogerőre emelkedését megelőzően jogosult a lefoglalt
 
@@ -2894,7 +2975,8 @@ a megtérítés időpontjáig eltelt időre számított mindenkori jegybanki ala
 - i) a Tanács 1999/81/EK irányelve (1999. július 29.) a cigaretták adójának közelítéséről szóló 92/79/EGK irányelv, a cigarettán kívüli dohánygyártmányok adójának közelítéséről szóló 92/80/EGK irányelv és a dohánygyártmányok fogyasztását érintő, a forgalmi adón kívüli egyéb adókról szóló 95/59/EK irányelv módosításáról,
 - j) a Tanács 2002/10/EK irányelve (2002. február 12.) a feldolgozott dohányra kivetett jövedéki adók szerkezete és adókulcsai tekintetében a 92/79/EGK, a 92/80/EGK és a 95/59/EK irányelv módosításáról,
 - k) a Tanács 2007/74/EK irányelve (2007. december 20.) a harmadik országokból beutazó személyek által importált termékek után fizetendő hozzáadottérték-adó és jövedéki adó alóli mentesítésről,
-- l) a Tanács 2008/55/EK irányelve (2008. május 26.) az egyes lefölözésekből, vámokból, adókból és egyéb intézkedésekből eredő követelések behajtására irányuló kölcsönös segítségnyújtásról.
+- l) a Tanács 2008/55/EK irányelve (2008. május 26.) az egyes lefölözésekből, vámokból, adókból és egyéb intézkedésekből eredő követelések behajtására irányuló kölcsönös segítségnyújtásról,
+- m) a Tanács 2010/12/EU irányelve (2010. február 16.) a dohánygyártmányra kivetett jövedéki adók szerkezete és adókulcsai tekintetében a 92/79/EGK, a 92/80/EGK és a 95/59/EK irányelv módosításáról, valamint a 2008/118/EK irányelv módosításáról.
 
 ### Hatályba léptető rendelkezések
 
@@ -3004,6 +3086,16 @@ határozatban állapítja meg az adót.
 
 128/B. § E törvény jogutódláshoz kapcsolódó rendelkezését [48/C. §] kell értelemszerűen alkalmazni, amennyiben az e törvény szerint kiadott, 2009. június 30-án érvényes engedélyek esetében az engedélyes személyének változására a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) 144. § (6) bekezdése szerint, a Get.-ben meghatározott határidőn belül végrehajtott szervezeti átalakítás (szétválasztás) miatt kerül sor. Az új engedélyes a korábbi engedélyes e törvényben és a felhatalmazása alapján kiadott külön jogszabályban meghatározott jogai és kötelezettségei tekintetében a korábbi engedélyes általános jogutódjának minősül.
 
+128/C. § (1) E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel megállapított 57/A. §-a szerinti adó-visszaigénylési jog a 2010. december 31-ét követően beszerzett ásványolajtermékek után érvényesíthető.
+
+(2) Amennyiben e törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel megállapított 57/A. § szerinti adó-visszaigénylés esetén a motorfejlesztés megkezdése 2011. január 1-je előtti időpontra esik, akkor e törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel megállapított 57/A. § (3) bekezdésének a) pontja szerinti bejelentést legkésőbb 2011. január 15-éig kell megtenni.
+
+(3) Amennyiben e törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel megállapított 57/A. § szerinti adó-visszaigénylés esetén a motorfejlesztés megkezdése 2011. január 1-je és 2011. február 1-je közötti időpontra esik, akkor e törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel megállapított 57/A. § (3) bekezdésének a) pontja szerinti bejelentést legkésőbb 2011. február 1-jéig kell megtenni.
+
+(4) E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel megállapított 57/C. §-a rendelkezéseit azokban az esetekben kell alkalmazni először, amelyekben az adó-visszaigénylési jogosultság 2011. január 1. napján vagy azt követően keletkezik.
+
+(5) Amennyiben e törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel megállapított 57/C. § (2)–(3) bekezdése szerinti jogosult az adóvisszaigénylési jogosultságát 2011. első negyedévére is érvényesíteni kívánja, akkor e törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel megállapított 57/C. § (2) bekezdése szerinti nyilvántartásba vételi kérelmet legkésőbb 2011. február 15-éig kell benyújtania a vámhatósághoz.
+
 ### Felhatalmazás
 
 129. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg
@@ -3016,8 +3108,8 @@ határozatban állapítja meg az adót.
 
 - a) az adóraktári engedély, a keretengedély, a jövedéki engedély iránti kérelemre, a bejegyzett kereskedő, a bejegyzett feladó és a felhasználói engedélyes engedélyezésére, a csomagküldő kereskedő, az adóügyi képviselő és a nyilvántartásba vett felhasználó nyilvántartásba vételére, a mobil palackozó és a mobil palackozóval végzett palackozási tevékenység bejelentésére, az üzemi motorikusgáz-töltő állomás üzemeltetőjének bejelentkezésére és vámhatósági nyilvántartásba vételére, továbbá a jövedéki biztosíték nyújtására vonatkozó részletes szabályokat;
 - b) a jövedéki termék, a megfigyelt termék előállítására, adómentes felhasználására, forgalmazására, szállítására, beszerzésére, beszerzésének és kiszállításának bejelentési kötelezettségére, tárolására, felhasználására, a figyelembe vehető veszteségnormákra vonatkozó részletes szabályokat;
-- c) az e törvényben előírt nyilvántartások vezetésére, a vámhatóság felé a nyilvántartások alapján teljesítendő adatszolgáltatás tartalmára, módjára és technikai feltételeire, a bizonylatok kiállítására, az adófelfüggesztéssel végzett szállítások során használt okmányok EK rendelet szerint kötelezően kitöltendővé tehető rovatainak meghatározására, a 40. § (1) bekezdés a) pont ab) alpont szerinti bizonylatok adataira, valamint ezen bizonylatok adatainak a 40. § (9) bekezdésben előírt megküldésére, az e-TKO tervezet EK rendeleten felüli kiegészítő adattartalmára, a jövedéki termékek és a megfigyelt termékek elszámolására, valamint az alkoholtermék-készletforgalmi szabályzatra vonatkozó részletes szabályokat;
-- d) az adófizetési kötelezettség, adó-visszaigénylés elszámolására, a hatósági felügyelet ellátásának esetleges különleges módjára és feltételeire, a jövedéki ellenőrzésre, a lefoglalásra, elkobzásra, az elkobzott termék felhasználására, illetve megsemmisítésére vonatkozó részletes szabályokat;
+- c) az e törvényben előírt nyilvántartások vezetésére, a vámhatóság felé a nyilvántartások alapján teljesítendő adatszolgáltatás tartalmára, módjára és technikai feltételeire, a bizonylatok kiállítására, az adófelfüggesztéssel végzett szállítások során használt okmányok EK rendelet szerint kötelezően kitöltendővé tehető rovatainak meghatározására, a 40. § (1) bekezdés a) pont ab) alpont szerinti bizonylatok adataira, valamint ezen bizonylatok adatainak a 40. § (9) bekezdésben előírt megküldésére, az e-TKO tervezet és az elektronikus átvételi elismervény EK rendeleten felüli kiegészítő adattartalmára, a jövedéki termékek és a megfigyelt termékek elszámolására, valamint az alkoholtermék-készletforgalmi szabályzatra vonatkozó részletes szabályokat;
+- d) az adófizetési kötelezettség, adó-visszaigénylés elszámolására, a motorfejlesztésről történő bejelentés tartalmára és benyújtásának módjára, a hatósági felügyelet ellátásának esetleges különleges módjára és feltételeire, a jövedéki ellenőrzésre, a lefoglalásra, elkobzásra, az elkobzott termék felhasználására, illetve megsemmisítésére vonatkozó részletes szabályokat;
 - e) a gázolaj jelölésével kapcsolatos egyes rendelkezéseket;
 - f) a zárjegy, valamint a hordós és kannás kiszerelésű borra előírt hivatalos zár alkalmazásának, a zárjegy megrendelésének, a zárjeggyel való elszámolásnak, a zárjegy felhasználásával, illetve a zárjegykészlet egyéb változásaival kapcsolatos napi adatszolgáltatás tartalmának, az adójegy igénylésének, visszavételének, alkalmazásának részletes szabályait;
 - g) a denaturált alkohol előállításához felhasználható denaturáló szer alkalmazására és az alkohol denaturálási eljárására vonatkozó szabályokat, valamint a desztillálókészülék előállítására, birtokban tartására vonatkozó szabályokat;
@@ -3031,18 +3123,19 @@ határozatban állapítja meg az adót.
 - o) a jövedéki bírság 114. § (6) bekezdésében meghatározott gyorsított eljárásban történő kiszabásának és beszedésének részletes szabályait;
 - p) az E85 szeszüzemben történő előállítása engedélyezésének, folytatásának részletes szabályait;
 - r) az 52. § (2) bekezdésében az E85-re meghatározott adómérték alkalmazásához a bioetanol-tartalom igazolásának részletes szabályait;
-- s) a 35. § (1) bekezdés g) pontjának gb) alpontja szerinti egyéb szakképesítést, szakmai végzettséget és szakmai gyakorlatot, valamint az igazolás kiadásának eljárási rendjét;
+- s) a 35. § (1) bekezdés g) pontjának gb) alpontja szerinti egyéb szakképesítést, szakmai végzettséget és szakmai gyakorlatot;
 - t) a bioüzemanyag kísérleti előállítást végző üzemben történő előállítása engedélyezésének feltételeit, valamint a bioüzemanyag-adóraktár engedélyesére vonatkozó bizonylatolás, nyilvántartás és elszámolás részletes szabályait;
 - u) a jövedékiadó-bevallás, valamint a vámhatóság felé teljesítendő, e törvényben előírt adatszolgáltatások, elszámolások, bejelentések (értesítések), illetve a zárjegy- és adójegy-megrendelések elektronikus úton történő benyújtásának módját és technikai feltételeit;
-- v) az e-TKO tervezet és az elektronikus átvételi elismervény 20. § (1) bekezdés szerinti módon történő benyújtásához, továbbításához szükséges eljárás részletes szabályait.
+- v) az e-TKO tervezet és az elektronikus átvételi elismervény, illetve a 40. § (9) bekezdés szerinti okmányok, bizonylatok 20. § (1) bekezdés szerinti módon történő benyújtásához, továbbításához szükséges eljárás részletes szabályait;
+- w) az 57/C. §-ban említett vámhatósági nyilvántartásba vétel részletes eljárási szabályait és a nyilvántartásba vétel iránti kérelem adattartalmát.
 
-(3) Felhatalmazást kap az adópolitikáért felelős miniszter és a honvédelemért felelős miniszter arra, hogy együttes rendeletben határozza meg
+(3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a honvédelemért felelős miniszter egyetértésével kiadott rendeletben határozza meg
 
 - a) az üzemanyag e törvény 53. § (1) bekezdése a) pontjában meghatározott adómentes beszerzésének, nyilvántartásának és elszámolásának külön szabályait,
 - b) a 106. § (11) bekezdésében meghatározott szervezet jövedéki nyilvántartásának és vevőnyilvántartásának vezetésére vonatkozó előírásokat,
 - c) az adómegállapítási és adófizetési kötelezettség alóli, e törvény 13. §-a (1) bekezdésének f) pontja szerinti végleges mentesülés érvényesítésének részletes feltételeit és eljárási szabályait.
 
-(4) Felhatalmazást kap az adópolitikáért felelős miniszter, az energiapolitikáért felelős miniszter és a környezetvédelemért felelős miniszter, hogy együttes rendeletben határozza meg az 1 százaléknál nagyobb kéntartalmú fűtőolaj e törvény 53. §-a (1) bekezdésének d) pontjában meghatározott adómentes felhasználása engedélyezésének külön szabályait.
+(4) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az energiapolitikáért felelős miniszter és a környezetvédelemért felelős miniszter egyetértésével kiadott rendeletben határozza meg az 1 százaléknál nagyobb kéntartalmú fűtőolaj e törvény 53. §-a (1) bekezdésének d) pontjában meghatározott adómentes felhasználása engedélyezésének külön szabályait.
 
 (5) Felhatalmazást kap a kereskedelemért felelős miniszter arra, hogy rendeletben határozza meg a cukortermékek – jogszabályba ütköző felhasználást akadályozó – forgalmazási rendjét és feltételeit.
 

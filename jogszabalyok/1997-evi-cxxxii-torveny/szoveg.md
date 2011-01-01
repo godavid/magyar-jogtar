@@ -74,9 +74,9 @@ eltérő szabályozást állapíthat meg.
 
 (3) A fióktelep útján folytatott tevékenységgel összefüggésben keletkezett tartozások végrehajtása során a külföldi vállalkozás valamennyi belföldön található vagyonára végrehajtás vezethető.
 
-12. § (1) A fióktelep könyvvezetésére, éves beszámoló készítésére, a beszámoló nyilvánosságra hozatalára és közzétételére vonatkozó előírásokat, valamint az ezekkel összefüggő sajátos szabályokat és mentességeket a számviteli törvény, illetve az annak felhatalmazása alapján kiadott kormányrendelet tartalmazza.
+12. § (1) A fióktelep könyvvezetésére, beszámoló készítésére, a beszámoló nyilvánosságra hozatalára és közzétételére vonatkozó előírásokat, valamint az ezekkel összefüggő sajátos szabályokat és mentességeket a számviteli törvény, illetve az annak felhatalmazása alapján kiadott kormányrendelet tartalmazza.
 
-(2) A külföldi vállalkozás éves beszámolójának egy hiteles másolati példányát a fióktelepnek a cégbíróságnál a tárgyévet követő év szeptember 30-áig letétbe kell helyeznie, s ezzel egyidejűleg közzé kell tennie. Közzétételi kötelezettség alatt a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat részére történő megküldést kell érteni.
+(2) A fióktelep a külföldi vállalkozás számviteli beszámolóját a beszámoló elfogadásától számított 60 napon belül a külön törvényben foglaltak alapján, letétbe helyezés és közzététel céljából a céginformációs szolgálat részére megküldi.
 
 13. § A fióktelep – ha törvény másképp nem rendelkezik – devizabelföldinek minősül. A belföldiekre irányadó szabályok szerint kell a külkereskedelmi szerződéseket is megkötnie, illetve az engedélyköteles ügyletek esetén – ha jogszabály másképp nem rendelkezik – az engedélyeket beszereznie.
 
@@ -99,7 +99,7 @@ eltérő szabályozást állapíthat meg.
 
 (4) Az (1) bekezdés alkalmazásában nem minősül vállalkozási tevékenységhez szükséges ingatlannak az ingatlanforgalmazás céljából megszerezni kívánt ingatlan.
 
-(5) A fióktelep megszüntetése esetén az ingatlant a külföldi vállalkozásnak egy éven belül el kell idegenítenie, kivéve, ha az ingatlanszerzéshez nem kellene engedélyt kérnie, vagy ha az elidegenítési kötelezettség alól a közigazgatási hivatal felmentést adott. A közigazgatási hivatal a felmentést a külföldiek ingatlanszerzéséről szóló jogszabály szerinti feltételekkel, és az abban foglalt eljárási szabályok szerint adja meg azzal, hogy a felmentés nem tagadható meg akkor sem, ha az ingatlan a külföldi vállalkozás által vagy részesedésével alapított belföldi székhelyű gazdálkodó szervezet, illetve másik fióktelep, továbbá kereskedelmi képviselet tevékenységéhez szükséges.
+(5) A fióktelep megszüntetése esetén az ingatlant a külföldi vállalkozásnak egy éven belül el kell idegenítenie, kivéve, ha az ingatlanszerzéshez nem kellene engedélyt kérnie, vagy ha az elidegenítési kötelezettség alól a Kormány általános hatáskörű területi államigazgatási szerve felmentést adott. A Kormány általános hatáskörű területi államigazgatási szerve a felmentést a külföldiek ingatlanszerzéséről szóló jogszabály szerinti feltételekkel, és az abban foglalt eljárási szabályok szerint adja meg azzal, hogy a felmentés nem tagadható meg akkor sem, ha az ingatlan a külföldi vállalkozás által vagy részesedésével alapított belföldi székhelyű gazdálkodó szervezet, illetve másik fióktelep, továbbá kereskedelmi képviselet tevékenységéhez szükséges.
 
 ### Munkavállalás a fióktelepnél
 
@@ -248,6 +248,8 @@ személyek jegyezhetik.
 (5)
 
 (6)
+
+(7) E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel módosított 12. §-ának (1)–(2) bekezdését először a 2011. évben induló üzleti évről készített beszámolóra kell alkalmazni, és a 2010. évben induló üzleti évről készített beszámolóra is alkalmazhatók.
 
 ### Az Európai Közösségek jogszabályaihoz való közelítés
 

@@ -30,7 +30,7 @@ Az Országgyűlés elismeri a társadalmi szervezetek és alapítványok működ
 
 (2) Az Alapprogram bevételei:
 
-- a) 2011. évtől kezdődően a központi költségvetési támogatás összege a magánszemélyek jövedelemadójaként ténylegesen befizetett összeg 1%-ából a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény 4. §-ában megjelölt kedvezményezetteknek a tárgyévet megelőző harmadik évben benyújtott, érvényes rendelkező nyilatkozatok alapján ténylegesen kiutalt jövedelemadó-hányaddal megegyező összeg. Az Alapprogram központi költségvetési támogatási összege 2010. évben 7000 millió forint;
+- a) 2012. évtől kezdődően a központi költségvetési támogatás összege a személyi jövedelemadóként ténylegesen befizetett összeg 1%-ából a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény 4. §-ában megjelölt kedvezményezetteknek a tárgyévet megelőző harmadik évben benyújtott, érvényes rendelkező nyilatkozatok alapján ténylegesen kiutalt jövedelemadó-hányaddal megegyező összeg. Az Alapprogram központi költségvetési támogatási összege a 2011. évben 3640 millió forint;
 - b) jogi személyek, jogi személyiség nélküli szervezetek és természetes személyek önkéntes befizetései, adományai;
 - c) költségvetési céltámogatások;
 - d) jogszabályban meghatározott egyéb bevételek.
@@ -45,7 +45,7 @@ Az Országgyűlés elismeri a társadalmi szervezetek és alapítványok működ
 
 (2) Az 1. § (2) bekezdésének a) és j) pontjában megjelölt célok kivételével csak a közhasznú szervezetekről szóló 1997. évi CLVI. törvény alapján közhasznú jogállást jogerősen megszerzett civil szervezet jogosult az Alapprogram támogatására.
 
-(3) Nem jogosult az Alapprogramból működési támogatásra az a civil szervezet, amely a pályázat kiírásának évében a költségvetési törvényben nevesítve részesül támogatásban a központi költségvetésből, és a támogatást az erről szóló támogatási szerződés szerint működési célra kapja.
+(3) Nem jogosult az Alapprogramból működési támogatásra az a civil szervezet, amely a pályázat kiírásának évében a költségvetési törvényben nevesítve részesül támogatásban a központi költségvetésből,.
 
 ### Az Alapprogram szervezete
 
@@ -65,7 +65,7 @@ Az Országgyűlés elismeri a társadalmi szervezetek és alapítványok működ
 
 5. § (1) A Kollégiumok az Alapprogram regionális és civil szakmai szempontok alapján szerveződő operatív döntéshozó szervei. A Kollégiumok a Tanács által meghatározott támogatási elvek, módok, arányok szerint döntenek a kedvezményezettek támogatásáról vagy pályázatok kiírásáról, illetve azok elbírálásáról.
 
-(2) A miniszter a legalább 5, de legfeljebb 11 tagú Kollégiumokat 3 évente a 13. § (1) bekezdés szerinti választást követően a Tanács javaslata alapján alakítja meg; ennek keretében a miniszter jogosult a Tanács javaslatára valamely Kollégiumot megszüntetni és új Kollégiumot létrehozni. A kollégiumi tagok létszámát, és azt, hogy a Kollégiumok civil delegáltjainak megválasztásában az e törvény 12. § (6) bekezdése szerinti elektori gyűlések közül melyek vesznek részt, a miniszter a Tanács javaslata alapján határozza meg. A Kollégium egy tagját a miniszter saját hatáskörében bízza meg. A Kollégium többi tagját a civil jelöltállítási rendszer az e törvény 12–13. §-ában meghatározott módon választja. A Kollégiumok elnökeit a Kollégiumok tagjai közül, a Kollégium javaslata alapján, a Tanács egyetértésével a miniszter jelöli ki.
+(2) A miniszter a legalább 5, de legfeljebb 11 tagú Kollégiumokat a 13. § (1) bekezdés szerinti választást követően alakítja meg. A miniszter jogosult valamely Kollégiumot megszüntetni, új Kollégiumot létrehozni, továbbá meglévő Kollégium elnevezését megváltoztatni. A kollégiumi tagok létszámát, és azt, hogy a Kollégiumok civil delegáltjainak megválasztásában az e törvény 12. § (6) bekezdése szerinti elektori gyűlések közül melyek vesznek részt, a miniszter határozza meg. A Kollégium egy tagját a miniszter saját hatáskörében bízza meg. A Kollégium többi tagját a civil jelöltállítási rendszer az e törvény 12–13. §-ában meghatározott módon választja. A Kollégiumok elnökeit a Kollégiumok tagjai közül, a Kollégium javaslata alapján a miniszter jelöli ki.
 
 (3) A Kollégium akkor határozatképes, ha a tagjainak több mint fele a szavazásban részt vesz. A Kollégium minden tagjának egy szavazata van. A Kollégium a döntéseit a tagok legalább felének egyetértésével hozza meg. Szavazategyenlőség esetén a Kollégium elnökének szavazata dönt.
 
@@ -81,7 +81,7 @@ Az Országgyűlés elismeri a társadalmi szervezetek és alapítványok működ
 
 (2) A Tanácsban, Kollégiumban a jelölést, illetve választást megelőző 3 év során tagi tisztséget betöltő személy akkor jelölhető, illetve választható újra, ha megbízása kezdetét megelőző 3 évben az Alapprogram egyik testületének sem volt tagja.
 
-(3) A Tanács és a Kollégiumok tagjainak díjazását a miniszter rendeletben szabályozza. A díj egy hónapra járó összege nem lehet kevesebb a mindenkori kötelező legkisebb munkabér havi összegénél, a díjazás kifizetése a testületi döntésekben történő részvétel figyelembevételével történik.
+(3) A Tanács és a Kollégiumok tagjainak költségtérítését a miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza. A költségtérítés egy hónapra járó összege a mindenkori kötelező legkisebb munkabér havi összegének felét nem haladhatja meg.
 
 7. § (1) Nem lehet a Tanács, illetve a Kollégium tagja
 
@@ -108,12 +108,20 @@ Az Országgyűlés elismeri a társadalmi szervezetek és alapítványok működ
 
 (4) A (3) bekezdésben foglaltak megsértésével kötött támogatási szerződésre a Knyt. 15. §-ában foglaltakat kell alkalmazni azzal, hogy a (3) bekezdésben foglaltak megsértését a miniszterhez is be kell jelenteni. A bejelentés megalapozottsága esetén a miniszter az érintett kollégiumi tag megbízását a bejelentést követő 15 napon belül visszavonja.
 
-8. § (1) A Tanács, illetve Kollégium tagjának megbízása megszűnik
+8. § (1) A Tanács, tagjának megbízása megszűnik
 
 - a) a megbízás időtartamának lejártával, illetve a (2) bekezdésben foglalt esetben,
 - b) a tisztségről történő lemondással,
 - c) a tag halálával, vagy
 - d) a megbízás visszavonásával.
+
+(1a) A Kollégium tagjának megbízása megszűnik
+
+- a) a megbízás időtartamának lejártával, illetve a (2) bekezdésben foglalt esetben,
+- b) a tisztségről történő lemondással,
+- c) a tag halálával,
+- d) a megbízás visszavonásával,
+- e) a Kollégium 5. § (2) bekezdése szerinti megszűnése esetén.
 
 (2) A civil jelöltállítási rendszerben újra nem választott tanácsi, kollégiumi tagok megbízatása megszűnik a testület új tagjainak a 13. § (1) bekezdése szerinti megválasztását követő megbízása napján.
 
@@ -226,7 +234,7 @@ területén működő civil szervezetek.
 (4) Felhatalmazást kap a miniszter, hogy
 
 - a) az Alapprogram működésével kapcsolatos beszámolók tartalmi elemeit, a beszámolás rendjét, az Alapprogram nyilvánosságával kapcsolatos részletes szabályokat,
-- b) a Tanács és a Kollégium tagjai díjazásának szabályait az államháztartásért felelős miniszterrel egyetértésben
+- b) a Tanács és a Kollégium tagjai a költségtérítése elszámolása szabályait az államháztartásért felelős miniszterrel egyetértésben
 
 rendeletben állapítsa meg.
 

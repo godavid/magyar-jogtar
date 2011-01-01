@@ -156,7 +156,7 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 
 ### Tevékenységi engedély
 
-9. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény a tevékenységét kizárólag a Felügyelet által kiadott, tevékenységi engedélyről szóló jogerős határozat birtokában kezdheti meg. A tevékenységi engedély iránti kérelmet a cégbejegyzés iránti kérelem benyújtását igazoló okirat kézhezvételét követő tizenöt napon belül kell benyújtani.
+9. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény a tevékenységét kizárólag a Felügyelet által kiadott, tevékenységi engedélyről szóló jogerős határozat birtokában kezdheti meg. A tevékenységi engedély iránti kérelmet a cégbejegyzés iránti kérelem benyújtását igazoló okirat megérkezését követő naptól számított tizenöt napon belül kell benyújtani.
 
 (2) A tevékenység engedélyezésének eljárására a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény (a továbbiakban: Psztv.) rendelkezéseit e törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -207,7 +207,7 @@ mellékelni kell:
 
 10. § (1) Foglalkoztatói nyugdíjszolgáltató intézménynél az igazgatóság tagjának, a felügyelőbizottság tagjának, valamint cégvezetőnek (a továbbiakban: vezető állású személy) az nevezhető ki, illetve az választható meg, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját harminc nappal megelőzően a foglalkoztatói nyugdíjszolgáltató intézmény a Felügyeletnek bejelentette, és a Felügyelet az engedélyt megadta. A Felügyelet nem adja meg az engedélyt, ha a bejelentésben megjelölt személy nem felel meg az e törvényben foglalt feltételeknek. A Felügyelet köteles a vezető állású személy megválasztásáról, illetve kinevezéséről engedélyező vagy azt elutasító határozatot hozni.
 
-(2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a huszonkét munkanapon belül nem hozza meg határozatát.
+(2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a harminc napon belül nem hozza meg határozatát.
 
 (3) A foglalkoztatói nyugdíjszolgáltató intézmény köteles felügyelőbizottságot létrehozni.
 
@@ -252,7 +252,7 @@ mellékelni kell:
 
 (2) Egyéb vezetőnek az nevezhető ki, akinek személyét a kinevezés tervezett időpontját harminc nappal megelőzően a foglalkoztatói nyugdíjszolgáltató intézmény a Felügyeletnek bejelentette, és az engedélyt a Felügyelet megadta. A Felügyelet köteles az egyéb vezető megválasztásáról, illetve kinevezéséről engedélyező vagy azt elutasító határozatot hozni.
 
-(3) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet huszonkét munkanapon belül nem hozza meg határozatát.
+(3) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet harminc napon belül nem hozza meg határozatát.
 
 (4) Az egyéb vezetők legfeljebb két foglalkoztatói nyugdíjszolgáltatói intézménynél tölthetnek be ilyen pozíciót.
 
@@ -380,7 +380,7 @@ mellékelni kell:
 
 ### Változások bejelentése
 
-21. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény a személyi és tárgyi feltételekben, továbbá a vezető állású személyek és egyéb vezetők, a letétkezelő, a számlavezető, a könyvvizsgáló, a kiszervezett tevékenységet végző személyében vagy adataiban történt változást a szerződés megkötését, illetve megszűnését követően három munkanapon belül a Felügyeletnek bejelenti.
+21. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény a személyi és tárgyi feltételekben, továbbá a vezető állású személyek és egyéb vezetők, a letétkezelő, a számlavezető, a könyvvizsgáló, a kiszervezett tevékenységet végző személyében vagy adataiban történt változást a szerződés megkötését, illetve megszűnését követően öt napon belül a Felügyeletnek bejelenti.
 
 (2) Az e törvényben meghatározott engedélyek kérelmezése és a bejelentések megtétele a Felügyelet által meghatározott formában történik. E célra a Felügyelet adatlapot rendszeresíthet.
 
@@ -388,12 +388,12 @@ mellékelni kell:
 
 22. § (1) Ha a foglalkoztatói nyugdíjszolgáltató intézmény határon átnyúló tevékenységként első alkalommal kíván foglalkoztatói nyugdíjszolgáltatási tevékenységet végezni másik állam területén, köteles ezt a Felügyeletnek előzetesen bejelenteni. A foglalkoztatói nyugdíjszolgáltató intézmény általi bejelentésnek a fogadó állam nevét, a foglalkoztató megnevezését, valamint a nyugdíjkonstrukció csatlakozási szerződésben rögzített elemeit tartalmaznia kell.
 
-(2) A Felügyelet az (1) bekezdés szerinti bejelentés kézhezvételétől számított huszonkét munkanapon belül tájékoztatja a másik állam illetékes felügyeleti hatóságát arról, hogy
+(2) A Felügyelet az (1) bekezdés szerinti bejelentés megérkezését követő naptól számított harminc napon belül tájékoztatja a másik állam illetékes felügyeleti hatóságát arról, hogy
 
 - a) a foglalkoztatói nyugdíjszolgáltató intézmény rendelkezik tevékenységi engedéllyel,
 - b) a foglalkoztatói nyugdíjszolgáltató intézmény rendelkezik a minimális szavatolótőke-szükségletnek megfelelő nagyságú szavatoló tőkével és az előírt tartalékok fedezete rendelkezésre áll. A Felügyelet a tájékoztatást köteles egyidejűleg közölni a bejelentő foglalkoztatói nyugdíjszolgáltató intézménnyel is.
 
-(3) A Felügyelet a (2) bekezdésben foglalt tájékoztatást megtagadja, ha a foglalkoztatói nyugdíjszolgáltató intézmény az előzetes bejelentésében az (1) bekezdésben foglalt adatokat nem közli, illetve a foglalkoztatói nyugdíjszolgáltató intézmény nem felel meg a (2) bekezdés a)–b) pontjaiban foglalt feltételeknek. Ha a Felügyelet a (2) bekezdésben foglalt tájékoztatást megtagadja, erről legkésőbb a bejelentés kézhezvételétől számított huszonkét munkanapon belül köteles határozatot hozni.
+(3) A Felügyelet a (2) bekezdésben foglalt tájékoztatást megtagadja, ha a foglalkoztatói nyugdíjszolgáltató intézmény az előzetes bejelentésében az (1) bekezdésben foglalt adatokat nem közli, illetve a foglalkoztatói nyugdíjszolgáltató intézmény nem felel meg a (2) bekezdés a)–b) pontjaiban foglalt feltételeknek. Ha a Felügyelet a (2) bekezdésben foglalt tájékoztatást megtagadja, erről legkésőbb a bejelentés megérkezését követő naptól számított harminc napon belül köteles határozatot hozni.
 
 (4) A Felügyelet a másik állam illetékes hatóságai által a másik állam szociális és munkajogának foglalkoztatói nyugdíjakra vonatkozó követelményeiről küldött tájékoztatását továbbítja a foglalkoztatói nyugdíjintézmény részére. A foglalkoztatói nyugdíjszolgáltató intézmény a tevékenységét a Felügyelet által továbbított tájékoztatás kézhezvételét követően vagy (ennek hiányában) a (2) bekezdésben említett tájékoztatás közlésétől számított hatvanöt napon belül kezdheti meg.
 
@@ -419,11 +419,11 @@ mellékelni kell:
 - d) a fióktelep irányítását ellátó vezető állású személyek, meghatalmazott képviselők megnevezését, és
 - e) a fióktelep nevét és címét.
 
-(3) Ha a bejelentő foglalkoztatói nyugdíjszolgáltató intézmény felépítési, irányítási, ellenőrzési rendje és pénzügyi helyzete megfelel a jogszabályi előírásoknak, a bejelentés kézhezvételétől számított három hónapon belül a Felügyelet köteles írásban tájékoztatni a másik állam illetékes felügyeleti hatóságát. A tájékoztatásban a Felügyelet igazolja, hogy a fióktelepet létesítő foglalkoztatói nyugdíjszolgáltató intézmény rendelkezik a megfelelő szavatoló tőkével. Erről egyidejűleg köteles értesíteni a bejelentő foglalkoztatói nyugdíjszolgáltató intézményt is.
+(3) Ha a bejelentő foglalkoztatói nyugdíjszolgáltató intézmény felépítési, irányítási, ellenőrzési rendje és pénzügyi helyzete megfelel a jogszabályi előírásoknak, a bejelentés megérkezését követő naptól számított három hónapon belül a Felügyelet köteles írásban tájékoztatni a másik állam illetékes felügyeleti hatóságát. A tájékoztatásban a Felügyelet igazolja, hogy a fióktelepet létesítő foglalkoztatói nyugdíjszolgáltató intézmény rendelkezik a megfelelő szavatoló tőkével. Erről egyidejűleg köteles értesíteni a bejelentő foglalkoztatói nyugdíjszolgáltató intézményt is.
 
-(4) A Felügyelet a (3) bekezdésben foglalt tájékoztatást megtagadja, ha a foglalkoztatói nyugdíjszolgáltató intézmény a (2) bekezdésben felsorolt adatokat nem közli, illetve a bejelentő foglalkoztatói nyugdíjszolgáltató intézmény felépítési, irányítási, ellenőrzési rendje és pénzügyi helyzete nem felel meg a jogszabályi előírásoknak. A tájékoztatás megtagadását a Felügyelet legkésőbb a bejelentés kézhezvételétől számított három hónapon belül köteles határozatot hozni.
+(4) A Felügyelet a (3) bekezdésben foglalt tájékoztatást megtagadja, ha a foglalkoztatói nyugdíjszolgáltató intézmény a (2) bekezdésben felsorolt adatokat nem közli, illetve a bejelentő foglalkoztatói nyugdíjszolgáltató intézmény felépítési, irányítási, ellenőrzési rendje és pénzügyi helyzete nem felel meg a jogszabályi előírásoknak. A tájékoztatás megtagadását a Felügyelet legkésőbb a bejelentés megérkezését követő naptól számított három hónapon belül köteles határozatot hozni.
 
-(5) A másik állam illetékes felügyeleti hatósága a (3) bekezdésben foglalt tájékoztatás kézhezvételétől számított negyvenöt munkanapon belül a Felügyeletet tájékoztatja azon feltételekről, amelyek keretében a fióktelep tevékenységét végezheti. Ezt a tájékoztatást a Felügyelet a foglalkoztatói nyugdíjszolgáltató intézmény részére továbbítja. A másik állam illetékes felügyeleti hatóságától megkapott, a fióktelep tevékenységét meghatározó feltételekre vonatkozó tájékoztatást a Felügyelet a foglalkoztatói nyugdíjszolgáltató intézmény részére továbbítja. Amennyiben a másik állam illetékes felügyeleti hatósága a tájékoztatási kötelezettségének nem tesz eleget, a Felügyelet a a másik állam illetékes felügyeleti hatóságának (3) bekezdésben foglalt tájékoztatását követő negyvenöt munkanapon belül értesíti a foglalkoztatói nyugdíjszolgáltató intézményt.
+(5) A másik állam illetékes felügyeleti hatósága a (3) bekezdésben foglalt tájékoztatás kézhezvételétől számított két hónapon belül a Felügyeletet tájékoztatja azon feltételekről, amelyek keretében a fióktelep tevékenységét végezheti. Ezt a tájékoztatást a Felügyelet a foglalkoztatói nyugdíjszolgáltató intézmény részére továbbítja. A másik állam illetékes felügyeleti hatóságától megkapott, a fióktelep tevékenységét meghatározó feltételekre vonatkozó tájékoztatást a Felügyelet a foglalkoztatói nyugdíjszolgáltató intézmény részére továbbítja. Amennyiben a másik állam illetékes felügyeleti hatósága a tájékoztatási kötelezettségének nem tesz eleget, a Felügyelet a a másik állam illetékes felügyeleti hatóságának (3) bekezdésben foglalt tájékoztatását követő két hónapon belül értesíti a foglalkoztatói nyugdíjszolgáltató intézményt.
 
 (6) A fióktelep az (5) bekezdés szerinti tájékoztatás, illetve értesítés kézhezvételét követően hozható létre és kezdheti meg működését.
 
@@ -534,7 +534,7 @@ mellékelni kell:
 
 (7) A foglalkoztatói nyugdíjszolgáltató intézmény az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi a tagnak.
 
-(8) A panasz elutasítása esetén a foglalkoztatói nyugdíjszolgáltató intézmény válaszában tájékoztatja a tagot arról, hogy panaszával – annak jellege szerint – a Pénzügyi Szervezetek Állami Felügyeletének vagy a békéltető testületnek az eljárását kezdeményezheti, továbbá meg kell adni a Pénzügyi Szervezetek Állami Felügyeletének és a békéltető testületnek a levelezési címét.
+(8) A panasz elutasítása esetén a nyugdíjszolgáltató intézmény válaszában tájékoztatja a tagot arról, hogy a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Pénzügyi Szervezetek Állami Felügyeleténél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A nyugdíjszolgáltató intézménynek meg kell adnia a Pénzügyi Békéltető Testület levelezési címét.
 
 (9) A foglalkoztatói nyugdíjszolgáltató intézmény a panaszt és az arra adott választ három évig őrzi meg, és azt a Pénzügyi Szervezetek Állami Felügyeletének kérésére bemutatja.
 
@@ -551,6 +551,10 @@ mellékelni kell:
 - e) a panasz megválaszolásának időpontját.
 
 (13) A foglalkoztatói nyugdíjszolgáltató intézmény a panaszkezelési szabályzatot az ügyfelek számára nyitva álló helyiségében, ennek hiányában a székhelyén kifüggeszti és a honlapján közzéteszi.
+
+(14) A nyugdíjszolgáltató a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
+
+(15) A nyugdíjszolgáltató köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenteni.
 
 ### A tagsági jogviszony megszűnése
 
@@ -605,7 +609,7 @@ mellékelni kell:
 - c) más foglalkoztatói nyugdíjszolgáltató intézménybe átutaltatja, vagy
 - d) a tagi számlán jóváírt összeget egy összegben felveszi.
 
-(10) A kedvezményezett a (9) bekezdésben meghatározott nyilatkozatot bármikor megteheti. Amennyiben a foglalkoztatói nyugdíjszolgáltató intézmény írásbeli felhívására a kedvezményezett a felhívás igazolt kézhezvételétől számított harminc napon belül nem teszi meg a nyilatkozatot, akkor a foglalkoztatói nyugdíjszolgáltató intézménynek úgy kell eljárnia, mintha a kedvezményezett a (9) bekezdés b) pontjában foglalt eljárást választotta volna.
+(10) A kedvezményezett a (9) bekezdésben meghatározott nyilatkozatot bármikor megteheti. Amennyiben a foglalkoztatói nyugdíjszolgáltató intézmény írásbeli felhívására a kedvezményezett a felhívás igazolt megérkezését követő naptól számított harminc napon belül nem teszi meg a nyilatkozatot, akkor a foglalkoztatói nyugdíjszolgáltató intézménynek úgy kell eljárnia, mintha a kedvezményezett a (9) bekezdés b) pontjában foglalt eljárást választotta volna.
 
 (11) Amennyiben a kedvezményezett a (9) bekezdés b) pontjában foglalt eljárást választotta, a nyilatkozat megtételének napjától a tagokkal egy megítélés alá esik.
 
@@ -790,9 +794,9 @@ kell megfelelően alkalmazni.
 - a) a foglalkoztatói nyugdíjszolgáltató intézmény szavatoló tőkéje nem éri el a biztonsági tőke előírt nagyságát, vagy
 - b) a foglalkoztatói nyugdíjszolgáltató intézmény tartalékai nem érik el a szükséges mértéket, illetve ha a tartalékok fedezete nem kielégítő.
 
-(2) A pénzügyi terv az (1) bekezdésben foglaltak megszüntetésére legfeljebb féléves időszakra terjedő intézkedéseket tartalmaz. A pénzügyi tervet a Felügyelet határozatának kézhezvételétől számított harminc napon belül kell a foglalkoztatói nyugdíjszolgáltató intézménynek a Felügyelethez jóváhagyásra benyújtania.
+(2) A pénzügyi terv az (1) bekezdésben foglaltak megszüntetésére legfeljebb féléves időszakra terjedő intézkedéseket tartalmaz. A pénzügyi tervet a Felügyelet határozatának megérkezését követő naptól számított harminc napon belül kell a foglalkoztatói nyugdíjszolgáltató intézménynek a Felügyelethez jóváhagyásra benyújtania.
 
-(3) A Felügyelet a pénzügyi terv benyújtásától számított huszonkét munkanapon belül köteles elbírálni, hogy a pénzügyi terv alkalmas-e az (1) bekezdésben foglaltak megszüntetésére.
+(3) A Felügyelet a pénzügyi terv megérkezését követő naptól számított harminc napon belül köteles elbírálni, hogy a pénzügyi terv alkalmas-e az (1) bekezdésben foglaltak megszüntetésére.
 
 (4) A pénzügyi terv elutasítása, vagy megvalósulásának meghiúsulása esetén a Felügyelet a 64. §-ban foglalt intézkedések megtételére jogosult.
 
@@ -802,7 +806,7 @@ kell megfelelően alkalmazni.
 
 (2) A legfeljebb egyéves időtartamra terjedő szanálási tervnek tartalmaznia kell a hiány megszüntetésének módját és ütemét. A szanálási tervet a Felügyelet határozatának közlésétől számított kilencven napon belül a foglalkoztatói nyugdíjszolgáltató intézménynek a Felügyelethez jóváhagyásra be kell nyújtania. Ez a határidő különösen indokolt esetben harminc nappal meghosszabbítható.
 
-(3) A Felügyelet a szanálási terv benyújtásától számított negyvenöt munkanapon belül köteles elbírálni, hogy a szanálási terv alkalmas-e a foglalkoztatói nyugdíjszolgáltató intézmény szavatoló tőke hiányának megszüntetésére.
+(3) A Felügyelet a szanálási terv megérkezését követő naptól számított két hónapon belül köteles elbírálni, hogy a szanálási terv alkalmas-e a foglalkoztatói nyugdíjszolgáltató intézmény szavatoló tőke hiányának megszüntetésére.
 
 (4) A szanálási terv elutasítása vagy megvalósulásának meghiúsulása esetén a Felügyelet a 64. §-ban foglalt intézkedések megtételére jogosult.
 
@@ -819,7 +823,7 @@ kell megfelelően alkalmazni.
 
 (3) A pénzügyi helyreállítási tervet a Felügyelet határozatának közlésétől számított kilencven napon belül a foglalkoztatói nyugdíjszolgáltató intézménynek a Felügyelethez jóváhagyásra be kell nyújtania. Ez a határidő különösen indokolt esetben harminc nappal meghosszabbítható.
 
-(4) A Felügyelet a pénzügyi helyreállítási terv benyújtásától számított negyvenöt munkanapon belül köteles elbírálni, hogy a pénzügyi helyreállítási terv alkalmas-e a foglalkoztatói nyugdíjszolgáltató intézmény biztonságos működésének helyreállítására.
+(4) A Felügyelet a pénzügyi helyreállítási terv megérkezését követő naptól számított két hónapon belül köteles elbírálni, hogy a pénzügyi helyreállítási terv alkalmas-e a foglalkoztatói nyugdíjszolgáltató intézmény biztonságos működésének helyreállítására.
 
 (5) Ha a foglalkoztatói nyugdíjszolgáltató intézmény rosszabbodó pénzügyi helyzete a tagok érdekeit veszélyezteti, akkor a foglalkoztatói nyugdíjszolgáltató intézmény rövid távú fizetőképességének biztosítása érdekében – a pénzügyi helyreállítási terv alapján – a Felügyelet a foglalkoztatói nyugdíjszolgáltató intézmény számára a Bit. 8. számú melléklete szerint számított minimális szavatoló tőke szükségletnél magasabb szavatoló tőke szükségletet is előírhat.
 
@@ -853,7 +857,7 @@ kell megfelelően alkalmazni.
 - d) a befektetési kockázat mérésének, a befektetési teljesítmény értékelésének módja, és
 - e) a foglalkoztatói nyugdíjszolgáltató intézmény által kezelt nyugdíjkonstrukciók jellege és futamideje.
 
-(2) A befektetési politikát a foglalkoztatói nyugdíjszolgáltató intézmény a tevékenységi engedély hatálybalépését követő 180 napon belül egy alkalommal – annak elfogadását követő tizenöt napon belül – köteles a Felügyelethez benyújtani. A Felügyelet huszonkét munkanapon belül megvizsgálja, hogy a benyújtott befektetési politika megfelel-e a vonatkozó jogszabályi előírásoknak. Amennyiben a Felügyelet megállapítja, hogy a befektetési politika nem áll összhangban a vonatkozó jogszabályi előírásokkal, határidő kitűzésével felszólítja a foglalkoztatói nyugdíjszolgáltató intézményt a befektetési politika módosítására. Ha a foglalkoztatói nyugdíjszolgáltató intézmény a felszólításban meghatározott határidő eltelte után sem biztosítja a vonatkozó jogszabályi előírásokkal történő összhangot, a Felügyelet bírságot szabhat ki.
+(2) A befektetési politikát a foglalkoztatói nyugdíjszolgáltató intézmény a tevékenységi engedély hatálybalépését követő 180 napon belül egy alkalommal – annak elfogadását követő tizenöt napon belül – köteles a Felügyelethez benyújtani. A Felügyelet harminc napon belül megvizsgálja, hogy a benyújtott befektetési politika megfelel-e a vonatkozó jogszabályi előírásoknak. Amennyiben a Felügyelet megállapítja, hogy a befektetési politika nem áll összhangban a vonatkozó jogszabályi előírásokkal, határidő kitűzésével felszólítja a foglalkoztatói nyugdíjszolgáltató intézményt a befektetési politika módosítására. Ha a foglalkoztatói nyugdíjszolgáltató intézmény a felszólításban meghatározott határidő eltelte után sem biztosítja a vonatkozó jogszabályi előírásokkal történő összhangot, a Felügyelet bírságot szabhat ki.
 
 (3) Az igazgatóság legalább évente – jogszabályi változás vagy más, a befektetési politikát lényegesen érintő ok miatt harminc napon belül – köteles döntést hozni a befektetési politika fenntartása vagy módosítása kérdésében. A meghozott döntésről az igazgatóság haladéktalanul tájékoztatja a foglalkoztatói nyugdíjszolgáltató intézmény tagjait és járadékosait.
 
@@ -1131,18 +1135,9 @@ a Felügyelet részére megküldeni.
 
 (6) A felügyeleti biztosnak folyamatosan biztosítania kell, hogy az általa megtett intézkedésekről a tulajdonosok és a tagok – kérésükre – három munkanapon belül írásban tájékoztatást kapjanak.
 
-(7) A Felügyelet felügyeleti biztosként olyan személyt rendel ki, aki megfelel a 10. §-ban előírt követelményeknek.
+(7)–(8)
 
-(8) A felügyeleti biztosnak kirendelésekor írásban nyilatkoznia kell arról, hogy ő maga vagy közeli hozzátartozója valamely foglalkoztatói nyugdíjszolgáltató intézményben, biztosítóban, pénzügyi intézményben vagy befektetési vállalkozásban milyen és mekkora név-, illetve forgalmi értéket képviselő tulajdoni hányaddal rendelkezik.
-
-70/A. § (1) Azt a tényt, hogy vele szemben nem áll fenn kizáró ok, a felügyeleti biztos
-
-- a) a kirendelésével egyidejűleg,
-- b) a Felügyelet írásbeli felhívására – kirendelésének időtartama alatt – a felhívástól számított tizenöt munkanapon belül, ha e határidőn belül a felügyeleti biztoson kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul hatósági bizonyítvánnyal igazolja.
-
-(2) A Felügyelet a felügyeleti biztos megbízatásának időtartama alatt írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja a vezető tisztségviselőt annak igazolására, hogy a vezető tisztségviselővel szemben nem áll fenn kizáró ok. Ha a vezető tisztségviselő igazolja, hogy vele szemben nem áll fenn kizáró ok, a Felügyelet az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a vezető tisztségviselő részére megtéríti.
-
-(3) Az (1) bekezdés alapján megismert személyes adatokat a Felügyelet a felügyeleti biztos megbízatásának megszűnéséig kezeli.
+70/A. §
 
 ### A felügyeleti díj
 
@@ -1280,11 +1275,11 @@ a Felügyelet a felszámolás elkerülése, valamint a tagok és a járadékosok
 
 83. § (1) A más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény és foglalkoztatók feletti felügyeletet – a (3) bekezdés szerinti időponttól kezdődően – a Felügyelet látja el.
 
-(2) Ha a Felügyelet a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény székhelye szerinti állam illetékes hatóságaitól értesítést kap arról, hogy a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény határon átnyúló szolgáltatás keretében befizetést kíván elfogadni valamely foglalkoztatótól, az értesítés kézhezvételét követő negyvenöt munkanapon belül tájékoztatást nyújt az értesítést küldő hatóság részére a magyar szociális és munkajognak a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény működését érintő szabályairól, a tagokkal szemben fennálló tájékoztatási kötelezettségeiről, valamint a foglalkoztatói nyugdíjszolgáltató intézmény vagyonának befektetésével kapcsolatos előírásokról.
+(2) Ha a Felügyelet a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény székhelye szerinti állam illetékes hatóságaitól értesítést kap arról, hogy a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény határon átnyúló szolgáltatás keretében befizetést kíván elfogadni valamely foglalkoztatótól, az értesítés megérkezését követő naptól számított két hónapon belül tájékoztatást nyújt az értesítést küldő hatóság részére a magyar szociális és munkajognak a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény működését érintő szabályairól, a tagokkal szemben fennálló tájékoztatási kötelezettségeiről, valamint a foglalkoztatói nyugdíjszolgáltató intézmény vagyonának befektetésével kapcsolatos előírásokról.
 
 (3) A más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény akkor kezdheti meg határon átnyúló tevékenységét Magyarországon, ha a székhely szerinti állam illetékes hatóságaitól a (2) bekezdés szerinti tájékoztatást megkapta, de legkésőbb a (2) bekezdésben meghatározott idő elteltével.
 
-(4) A (2) bekezdés szerinti tájékoztatási kötelezettség kiterjed a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény magyarországi működésének idején bekövetkező minden olyan jogszabályi változásra is, amely befolyásolja a nyugdíjkonstrukció jellemzőit, a tagok részére nyújtandó tájékoztatási kötelezettséget és a befektetési szabályokat. Ez esetben a Felügyelet a módosító jogszabály kihirdetését követő huszonkét munkanapon belül nyújt tájékoztatást a székhely szerinti állam illetékes hatóságainak.
+(4) A (2) bekezdés szerinti tájékoztatási kötelezettség kiterjed a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény magyarországi működésének idején bekövetkező minden olyan jogszabályi változásra is, amely befolyásolja a nyugdíjkonstrukció jellemzőit, a tagok részére nyújtandó tájékoztatási kötelezettséget és a befektetési szabályokat. Ez esetben a Felügyelet a módosító jogszabály kihirdetését követő harminc napon belül nyújt tájékoztatást a székhely szerinti állam illetékes hatóságainak.
 
 84. § (1) A Felügyelet eseti tájékoztatást kérhet a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézménytől vagy a foglalkoztatótól a szerződési feltételekről és az ezzel összefüggő dokumentumokról annak igazolására, hogy a szerződések megfelelnek a magyar jogszabályoknak.
 

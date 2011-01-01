@@ -180,14 +180,6 @@ b) a büntetőeljárásban felhasználni kívánt információ megszerzését k�
 
 (6) Az ügyészségi nyomozás során a bírói engedélyhez kötött titkos adatszerzésre a büntetőeljárásról szóló törvény rendelkezései az irányadóak.”
 
-3. § A Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény 31. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A felhatalmazott szervek az (1) bekezdésben felsorolt titkos információgyűjtésre szolgáló eszközöket és módszereket (a továbbiakban: különleges eszközök) az ott meghatározottak szerint alkalmazhatják a bűncselekmény gyanúja miatt körözött személy felkutatására, továbbá
-
-a) az (1) bekezdésben nem említett, üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény,
-
-b) az (1) bekezdésben vagy az a) pontban meghatározott bűncselekmény kísérlete, illetve – ha az előkészületet a törvény büntetni rendeli – előkészülete
-
-esetén.”
+3. §
 
 4. § Ez a törvény 2008. január 1-jén lép hatályba.

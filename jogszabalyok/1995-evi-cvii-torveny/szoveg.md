@@ -29,7 +29,7 @@ a büntetés-végrehajtási szervezetről
 (2) A miniszter
 
 - a) előkészíti a bv. szervezetre vonatkozó, az Országgyűlés és a Kormány hatáskörébe tartozó jogszabályok és egyéb döntések tervezeteit;
-- b) rendeletalkotás és az állami irányítás egyéb jogi eszközei útján szabályozza a bv. szervezet tevékenységét;
+- b) rendeletalkotás és normatív utasítás útján szabályozza a bv. szervezet tevékenységét;
 - c) a Kormány döntésének végrehajtása érdekében, illetve a feladatkörében eljárva a bv. szervezet részére a törvényi keretek között feladatot határoz meg, és egyedi utasítást ad;
 - d) ellenőrzi a gazdálkodást, jóváhagyja a bv. szervezet fejlesztési terveit;
 - e) dönt bv. szerv létrehozásáról, átalakításáról, valamint megszüntetéséről;
@@ -92,19 +92,17 @@ a büntetés-végrehajtási szervezetről
 - e) ellátja a hivatásos állománnyal kapcsolatos parancsnoki feladatokat, jogszabályban meghatározottak szerint munkáltatói jogokat gyakorol a személyi állomány tagjai felett;
 - f) képviseli az intézetet (intézményt).
 
-### A gazdasági társaságok és a fogvatartottak foglalkoztatását végző költségvetési szervek
+### Gazdasági társaságok
 
 9. § (1) A szabadságvesztés végrehajtásának a célja elérése érdekében létrehozott gazdasági társaságok kizárólagos állami tulajdonban vannak.
 
-(2)
+(2) A gazdasági társaságok részére az elítéltek foglalkoztatásából eredő sajátos és indokolt többletkiadásokat – a mindenkori költségvetési törvényben meghatározott mértékben – a központi költségvetés megtéríti.
 
-(3) A gazdasági társaságok és a fogvatartottak foglalkoztatását végző költségvetési szervek részére az elítéltek foglalkoztatásából eredő sajátos és indokolt többletkiadásokat — a mindenkori költségvetési törvényben meghatározott mértékben — a központi költségvetés megtéríti.
+9/A. § (1) A miniszter által rendeletben meghatározott, a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások tekintetében – az átadás-átvétel és az ellentételezés miniszteri rendeletben meghatározott rendje szerint – a büntetés-végrehajtási szervezetet a miniszter vezetése, irányítása vagy felügyelete alá tartozó szervek részére ellátási kötelezettség terhelheti.
 
-(4)
+(2) Az (1) bekezdés alapján miniszteri rendeletben meghatározott termékek és szolgáltatások tekintetében – az átadás-átvétel és az ellentételezés kormányrendeletben meghatározott rendje szerint – a büntetés-végrehajtási szervezetet kormányrendeletben meghatározott központi államigazgatási szervek és rendvédelmi szervek részére is ellátási kötelezettség terhelheti.
 
-(5)–(17)
-
-9/A. § A fogvatartottak kötelező foglalkoztatása keretében előállítandó termékek, illetve teljesítendő szolgáltatások körét a miniszter rendeletben, azoknak a fegyveres, valamint a rendvédelmi szervek részére – a költségvetési előirányzat átcsoportosítása mellett – történő átadás-átvételének rendjét a miniszter utasításban határozza meg.
+(3) Az (1)–(2) bekezdésben meghatározott ellátási kötelezettség teljesítésére irányuló tevékenységét a büntetés-végrehajtási szervezet az Európai Bizottság által rendeletben megállapított, a közbeszerzési eljárásokban irányadó értékhatárt el nem érő beszerzések körében kizárólagos jog alapján végzi.
 
 ### A bv. szervezet személyi állománya
 
@@ -395,17 +393,21 @@ a kiadásait kell érteni.
 
 ### Felhatalmazó rendelkezések
 
-35. § (1) A gazdasági társaságoknál és a fogvatartottak foglalkoztatását végző költségvetési szerveknél a fogvatartottak foglalkoztatásából eredő sajátos többletkiadások számbavételének a módját és a megtérítés rendjét a Kormány állapítja meg.
+35. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
+
+- a) a gazdasági társaságoknál a fogvatartottak foglalkoztatásából eredő sajátos többletkiadások számbavételének a módját és a megtérítés rendjét,
+- b) azon szerveket, amelyekre a 9/A. § (2) bekezdése alapján fennálló ellátási kötelezettség kiterjed, valamint a termékek és szolgáltatások e szervek részére való átadásának-átvételének és azok ellentételezésének rendjét.
 
 (2) Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg
 
 - a) a bv. intézetek alapítását (kijelölését) és megszüntetését;
 - b) a bv. szervezet szolgálati szabályzatát;
-- c) a foglalkoztatás céljával összhangban a gazdasági társaságokra és a fogvatartottak foglalkoztatását végző költségvetési szervekre vonatkozó sajátos büntetés-végrehajtási feladatokat;
+- c)
 - d) a bv. szervek területére való belépés, a tartózkodás és a kilépés részletes szabályait;
 - e)
-- f) a bv. szervezet munkaügyi ellenőrzésére vonatkozó eltérő rendelkezéseket,
-- g) a fogvatartottak kötelező foglalkoztatása keretében előállítandó termékek, illetve teljesítendő szolgáltatások körét – a rendészetért felelős miniszter egyetértésével –,
+- f) a bv. szervezet munkaügyi ellenőrzésére vonatkozó eltérő rendelkezéseket;
+- g)
+- h) azon termékeket és szolgáltatásokat, amelyekre a büntetés-végrehajtási szervezetet ellátási kötelezettség terheli, azon szerveket, amelyekre a 9/A. § (1) bekezdése alapján fennálló ellátási kötelezettség kiterjed, valamint a termékek és szolgáltatások e szervek részére való átadásának-átvételének és azok ellentételezésének rendjét.
 
 36–45. §
 

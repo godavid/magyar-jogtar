@@ -259,7 +259,7 @@ A Magyar Köztársaság Alkotmánya szerint a választójog általános és egye
 
 22. § (1) A 24. § és a 25. §, továbbá a 27. § (3) és (4) bekezdésének kivételével a választási bizottságnak csak a választókerületben – a helyi választási bizottságnak csak a településen – lakcímmel rendelkező választópolgár lehet tagja.
 
-(2) A választási bizottságnak nem lehet tagja a köztársasági elnök, állami vezető, közigazgatási hivatal vezetője, képviselő, megyei közgyűlés elnöke, polgármester, jegyző, főjegyző, választási iroda tagja, a választási bizottság illetékességi területén működő közigazgatási szerv köztisztviselője, valamint jelölt.
+(2) A választási bizottságnak nem lehet tagja a köztársasági elnök, állami vezető, helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv vezetője, képviselő, megyei közgyűlés elnöke, polgármester, jegyző, főjegyző, választási iroda tagja, a választási bizottság illetékességi területén működő közigazgatási szerv köztisztviselője, valamint jelölt.
 
 (3) Nem lehet a választási bizottság választott tagja a (2) bekezdésben foglaltakon túl a választókerületben jelöltet állító jelölő szervezet tagja, valamint a választókerületben induló jelölt hozzátartozója sem.
 
@@ -440,7 +440,7 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 ### Plakát
 
-42. § (1) A választási kampány végéig a jelölő szervezetek és a jelöltek engedély nélkül készíthetnek plakátot. A plakát olyan sajtóterméknek minősül, amely engedély és bejelentés nélkül előállítható. Egyebekben a plakátra a sajtóról szóló jogszabályokat kell alkalmazni.
+42. § (1) A választási kampány végéig a jelölő szervezetek és a jelöltek engedély nélkül készíthetnek plakátot. A plakát engedély és bejelentés nélkül előállítható.
 
 (2) Plakát – a (3)–(6) bekezdésben meghatározott kivételekkel – korlátozás nélkül elhelyezhető.
 
@@ -460,17 +460,17 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 ### Rádió- és televízióközvetítés
 
-44. § (1) A kampányidőszakban a műsorszolgáltatók a jelölő szervezetek, illetőleg a jelöltek számára azonos feltételekkel tehetnek közzé politikai hirdetést. A politikai hirdetéshez véleményt, értékelő magyarázatot fűzni tilos.
+44. § (1) A kampányidőszakban a médiaszolgáltatók a jelölő szervezetek, illetőleg a jelöltek számára azonos feltételekkel tehetnek közzé politikai hirdetést. A politikai hirdetéshez véleményt, értékelő magyarázatot fűzni tilos.
 
-(2) A műsorszolgáltatók választási kampányban való részvételére egyebekben a rádiózásról és televíziózásról szóló törvény rendelkezéseit kell alkalmazni.
+(2) A médiaszolgáltatók választási kampányban való részvételére egyebekben a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény rendelkezéseit kell alkalmazni.
 
 ### A médiakampánnyal kapcsolatos jogorvoslat
 
 44/A. § (1) A sajtó választási kampányban történő részvételével (így különösen a választási eljárás alapelveinek megsértésével, a politikai hirdetések közzétételével) kapcsolatos kifogást
 
-- a) nem országos terjesztésű időszaki lap, illetőleg helyi műsorszolgáltatás esetében a kiadó, illetőleg a műsorszolgáltató székhelye vagy lakcíme szerint illetékes helyi választási bizottság,
-- b) körzeti műsorszolgáltatás esetében a műsorszolgáltató székhelye vagy lakcíme szerint illetékes területi választási bizottság,
-- c) országos terjesztésű időszaki lap, hírügynökség, illetőleg országos műsorszolgáltatás esetében az Országos Választási Bizottság
+- a) nem országos terjesztésű időszaki lap, illetőleg helyi médiaszolgáltatás esetében a kiadó, illetőleg a médiaszolgáltató székhelye vagy lakcíme szerint illetékes helyi választási bizottság,
+- b) körzeti médiaszolgáltatás esetében a médiaszolgáltató székhelye vagy lakcíme szerint illetékes területi választási bizottság,
+- c) országos terjesztésű időszaki lap, hírügynökség, illetőleg országos médiaszolgáltatás esetében az Országos Választási Bizottság
 
 bírálja el.
 
@@ -478,7 +478,7 @@ bírálja el.
 
 - a) napilap, hírügynökség esetében három napon belül,
 - b) folyóirat esetében a legközelebbi számban azonos módon,
-- c) műsorszolgáltató esetében három napon belül, a jogsértő közléssel azonos napszakban és azonos számú alkalommal
+- c) médiaszolgáltató esetében három napon belül, a jogsértő közléssel azonos napszakban és azonos számú alkalommal
 
 tegye közzé.
 
@@ -1108,9 +1108,9 @@ kérték, az Országos Választási Iroda a választás első fordulóját megel
 
 (4) Az a jelölő szervezet, illetőleg független jelölt, amely, illetőleg aki az (1) bekezdésben foglalt szabályt megsértette, köteles a túllépés értékének kétszeresét 15 napon belül a központi költségvetés részére befizetni, és azt az első választók felkészítésére kell felhasználni. Késedelem esetén a tartozást adók módjára kell behajtani.
 
-93. § (1) Az országos közszolgálati műsorszolgáltatók az országos listát állító jelölő szervezetek, a körzeti közszolgálati műsorszolgáltatók a vételkörzetükben területi listát állító jelölő szervezetek, a helyi közszolgálati műsorszolgáltatók a vételkörzetükben induló egyéni választókerületi jelöltek politikai hirdetéseit a szavazást megelőző 18. naptól legkésőbb a szavazást megelőző 3. napig legalább egyszer ingyenesen közlik.
+93. § (1) Az országos közszolgálati médiaszolgáltatók az országos listát állító jelölő szervezetek, a körzeti közszolgálati médiaszolgáltatók a vételkörzetükben területi listát állító jelölő szervezetek, a helyi közszolgálati médiaszolgáltatók a vételkörzetükben induló egyéni választókerületi jelöltek politikai hirdetéseit a szavazást megelőző 18. naptól legkésőbb a szavazást megelőző 3. napig legalább egyszer ingyenesen közlik.
 
-(2) A választási kampány utolsó napján az (1) bekezdésben megjelölt műsorszolgáltatók az (1) bekezdésben meghatározottak szerint, ingyenesen közzéteszik a jelölő szervezetek, illetőleg jelöltek által készített politikai hirdetéseket.
+(2) A választási kampány utolsó napján az (1) bekezdésben megjelölt médiaszolgáltatók az (1) bekezdésben meghatározottak szerint, ingyenesen közzéteszik a jelölő szervezetek, illetőleg jelöltek által készített politikai hirdetéseket.
 
 ### Ajánlás
 
@@ -1191,7 +1191,7 @@ kérték, az Országos Választási Iroda a választás első fordulóját megel
 
 ### XI/A. Fejezet — AZ EURÓPAI PARLAMENT TAGJAINAK VÁLASZTÁSA
 
-99/A. § Az I–X. fejezet, valamint a 89. § (1)–(7) bekezdése és a 93. § rendelkezéseit az Európai Parlament tagjainak választásán a jelen fejezetben foglalt eltérésekkel kell megfelelően alkalmazni azzal, hogy az országos közszolgálati műsorszolgáltatóknak a listát állító jelölő szervezetek politikai hirdetéseit legalább háromszor kell ingyenesen közölniük.
+99/A. § Az I–X. fejezet, valamint a 89. § (1)–(7) bekezdése és a 93. § rendelkezéseit az Európai Parlament tagjainak választásán a jelen fejezetben foglalt eltérésekkel kell megfelelően alkalmazni azzal, hogy az országos közszolgálati médiaszolgáltatóknak a listát állító jelölő szervezetek politikai hirdetéseit legalább háromszor kell ingyenesen közölniük.
 
 ### A választás kitűzése
 
@@ -1473,9 +1473,9 @@ kérték, az Országos Választási Iroda a választás első fordulóját megel
 
 ### Választási kampány
 
-106. § (1) A helyi közszolgálati műsorszolgáltatók a szavazást megelőző 15. naptól a választást megelőző 3. napig a jelölés, illetve a listaállítás arányában legalább egyszer ingyenesen közlik a jelölő szervezetek, továbbá a polgármesterjelöltek politikai hirdetését. Ez a jogosultság valamennyi független jelöltet együttesen, a jelölésük arányában illeti meg.
+106. § (1) A helyi közszolgálati médiaszolgáltatók a szavazást megelőző 15. naptól a választást megelőző 3. napig a jelölés, illetve a listaállítás arányában legalább egyszer ingyenesen közlik a jelölő szervezetek, továbbá a polgármesterjelöltek politikai hirdetését. Ez a jogosultság valamennyi független jelöltet együttesen, a jelölésük arányában illeti meg.
 
-(2) A választási kampány utolsó napján az országos közszolgálati műsorszolgáltatók közreadják annak a nyolc jelölő szervezetnek a választási összefoglalóját, amelyek országos összesítésben a legtöbb képviselő- és polgármesterjelöltet állították. A közös jelölteket és listákat a jelölés arányában kell figyelembe venni.
+(2) A választási kampány utolsó napján az országos közszolgálati médiaszolgáltatók közreadják annak a nyolc jelölő szervezetnek a választási összefoglalóját, amelyek országos összesítésben a legtöbb képviselő- és polgármesterjelöltet állították. A közös jelölteket és listákat a jelölés arányában kell figyelembe venni.
 
 ### Ajánlás
 
@@ -2268,7 +2268,7 @@ SZAVAZÓLAP
 
 #### ........... (év) ............................... (hónap) ............ (nap)
 
-Érvényesen szavazni legfeljebb 5 jelöltre lehet!
+Érvényesen szavazni legfeljebb 4 jelöltre lehet!
 
 1. O (jelölt neve, jelölő szervezet neve)
 

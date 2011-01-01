@@ -171,9 +171,9 @@ akkor a jogtalanul felhasznált központi támogatásról haladéktalanul le kel
 
 (6) Az önkormányzatnak a lemondásról, és felhasználás esetén ezzel egyidejűleg a visszafizetésről – a képviselő-testületi határozatok és az átutalási megbízás másolatának megküldésével – a döntést és a visszafizetést követő nyolc munkanapon belül értesítenie kell a kincstár útján címzett és céltámogatás esetében a helyi önkormányzatokért felelős minisztert. A határidő elmulasztása esetén a vissza nem fizetett összeg után az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 64/B. §-ának (2) bekezdése szerinti – a felhasználási kötöttséggel járó állami támogatásokra vonatkozó – kamatot kell fizetni a központi költségvetés javára.
 
-(7) Ha az önkormányzat a 13. §-ban, valamint a 14. § (4) bekezdésében foglaltakat nem teljesíti határidőre, akkor a fel nem használt előirányzat elvonásra kerül.
+(7) Ha az önkormányzat a 13. §-ban, valamint a (4) bekezdésben foglaltakat nem teljesíti határidőre, a fel nem használt támogatást a helyi önkormányzatokért felelős miniszter elvonja.
 
-(8) Ha az önkormányzat a 14. § (5) bekezdésében foglalt esetekben a központi támogatást jogtalanul használta fel, akkor év közben haladéktalanul, de legkésőbb a külön jogszabályban megjelölt határidőre köteles a jogtalanul felhasznált támogatást visszafizetni, és az Áht. szerinti kamatot fizetni a központi költségvetés javára.
+(8) Ha az önkormányzat az (5) bekezdésben foglalt esetekben a központi támogatást jogtalanul használta fel, akkor tíz napon belül köteles a jogtalanul felhasznált támogatást visszafizetni, és az Áht. szerinti kamatot fizetni a központi költségvetés javára.
 
 (9)
 
@@ -224,7 +224,7 @@ akkor a jogtalanul felhasznált központi támogatásról haladéktalanul le kel
 
 (5) A központi támogatással létrejövő beruházást kizárólagos önkormányzati – vízgazdálkodási beruházások esetében állami vagy önkormányzati – tulajdonban lévő teher-, per- és igénymentes ingatlanon lehet megvalósítani. Kivéve a csapadékvíz-elvezető és szennyvízcsatorna-hálózat építését.
 
-(6) Az 1992. év előtt támogatásban részesült fejlesztések esetében az (1) bekezdés szerinti beruházási céltól eltérő hasznosítást kérelmezni kell. Az igénybejelentésben megjelölt beruházási cél megszűnése esetén a létesítmény más kötelező feladatra irányuló hasznosíthatósága érdekében a támogatás címzettje 2010. június 30-ig kérelmet nyújthat be a helyi önkormányzatokért felelős miniszterhez. A miniszter a kérelmekről egyedi mérlegelés alapján dönt.
+(6) Az 1992. év előtt támogatásban részesült fejlesztések esetében az (1) bekezdés szerinti beruházási céltól eltérő hasznosítást kérelmezni kell. Az igénybejelentésben megjelölt beruházási cél megszűnése esetén a létesítmény más kötelező feladatra irányuló hasznosíthatósága érdekében a támogatás címzettje 2010. június 30-ig kérelmet nyújthat be a helyi önkormányzatokért felelős miniszterhez. A helyi önkormányzatokért felelős miniszter a kérelmekről egyedi mérlegelés alapján dönt.
 
 20. § (1) A központi támogatással megvalósított létesítmények és fejlesztések működtetéséről az önkormányzat – egészségügyi beruházás esetén az Egészségbiztosítási Alap kezelője – gondoskodik.
 
@@ -256,17 +256,17 @@ akkor a jogtalanul felhasznált központi támogatásról haladéktalanul le kel
 - b) a támogatási igény benyújtása előtt meg nem kezdett beruházáshoz igényelhető,
 - c) csak a településrendezési tervekkel összhangban lévő beruházáshoz igényelhető, valamint
 - d) a címzett támogatással megvalósítandó beruházást a beruházó kizárólagos tulajdonában vagy/és önkormányzati, állami tulajdonban lévő teher-, per- és igénymentes ingatlanon lehet megvalósítani, továbbá
-- e) a nem állami fenntartó címzett támogatásra akkor jogosult, ha az igénylés szabályszerűségének és a támogatás rendeltetésszerű felhasználásának a szociál- és családpolitikáért felelős miniszter, továbbá a külön jogszabály alapján költségvetési támogatások felhasználásának ellenőrzésére hivatott szervek részéről történő ellenőrzéséhez hozzájárul.
+- e) a nem állami fenntartó címzett támogatásra akkor jogosult, ha az igénylés szabályszerűségének és a támogatás rendeltetésszerű felhasználásának a szociál- és nyugdíjpolitikáért felelős miniszter, továbbá a külön jogszabály alapján költségvetési támogatások felhasználásának ellenőrzésére hivatott szervek részéről történő ellenőrzéséhez hozzájárul.
 
-(3) A nem állami fenntartó a helyi önkormányzatok címzett és céltámogatására vonatkozó külön jogszabályokban előírt feltételeknek megfelelően és határidőben beruházási koncepciót nyújt be a szociál- és családpolitikáért felelős miniszterhez.
+(3) A nem állami fenntartó a helyi önkormányzatok címzett és céltámogatására vonatkozó külön jogszabályokban előírt feltételeknek megfelelően és határidőben beruházási koncepciót nyújt be a szociál- és nyugdíjpolitikáért felelős miniszterhez.
 
-(4) A szociál- és családpolitikáért felelős miniszter véleményezi a nem állami fenntartó beruházási koncepcióját, majd a helyi önkormányzatok beruházási koncepciójával egyidejűleg – a külön jogszabályban meghatározott határidőben – szakmai véleménnyel ellátott, az önkormányzati és nem állami fenntartókra vonatkozóan külön-külön rangsorolt javaslatot küld a kormányzati területfejlesztési feladatokért felelős szervnek.
+(4) A szociál- és nyugdíjpolitikáért felelős miniszter véleményezi a nem állami fenntartó beruházási koncepcióját, majd a helyi önkormányzatok beruházási koncepciójával egyidejűleg – a külön jogszabályban meghatározott határidőben – szakmai véleménnyel ellátott, az önkormányzati és nem állami fenntartókra vonatkozóan külön-külön rangsorolt javaslatot küld a kormányzati területfejlesztési feladatokért felelős szervnek.
 
-(5) A Kormány a területfejlesztésért és területrendezésért felelős miniszter előterjesztése alapján a külön jogszabályban meghatározott határidőben – a helyi önkormányzatok címzett támogatásával egyidejűleg – állást foglal a címzett támogatásra javasolt és nem javasolt nem állami fenntartó által megvalósítandó szociális beruházásokról.
+(5) A Kormány a területfejlesztésért felelős miniszter előterjesztése alapján a külön jogszabályban meghatározott határidőben – a helyi önkormányzatok címzett támogatásával egyidejűleg – állást foglal a címzett támogatásra javasolt és nem javasolt nem állami fenntartó által megvalósítandó szociális beruházásokról.
 
 (6) A nem állami fenntartó által a törvény 3. § (1) bekezdésében előírt határidőben benyújtott, a külön jogszabályban meghatározott feltételeknek megfelelő igénybejelentések javasolhatók címzett támogatásra. A határidő elmulasztása az adott évi igény tekintetében jogvesztő.
 
-(7) A nem állami fenntartó által benyújtott címzett támogatási igénybejelentést a törvényjavaslatnak az Országgyűléshez történő benyújtása előtt – a rendelkezésre álló előirányzat mértékétől függően, valamint a szakmai követelményeknek megfelelően – a szociál- és családpolitikáért felelős miniszter kezdeményezésére a nem állami fenntartó módosítja.
+(7) A nem állami fenntartó által benyújtott címzett támogatási igénybejelentést a törvényjavaslatnak az Országgyűléshez történő benyújtása előtt – a rendelkezésre álló előirányzat mértékétől függően, valamint a szakmai követelményeknek megfelelően – a szociál- és nyugdíjpolitikáért felelős miniszter kezdeményezésére a nem állami fenntartó módosítja.
 
 (8) A nem állami fenntartó szociális beruházásának címzett támogatásáról – a helyi önkormányzatok címzett támogatásával egyidejűleg – az Országgyűlés dönt.
 
@@ -274,14 +274,14 @@ akkor a jogtalanul felhasznált központi támogatásról haladéktalanul le kel
 
 (10) A nem állami fenntartónak jóváhagyott címzett támogatás folyósítása, felhasználása és elszámolása az alábbiak szerint történik:
 
-- a) a nem állami fenntartónak jóváhagyott címzett támogatást a kincstár folyósítja a szociál- és családpolitikáért felelős miniszter utalványozása alapján, a nem állami fenntartó számlavezető pénzforgalmi szolgáltatóján keresztül;
+- a) a nem állami fenntartónak jóváhagyott címzett támogatást a kincstár folyósítja a szociál- és nyugdíjpolitikáért felelős miniszter utalványozása alapján, a nem állami fenntartó számlavezető pénzforgalmi szolgáltatóján keresztül;
 - b) a nem állami fenntartónak finanszírozási szerződést kell kötnie a kincstárral;
 - c) a kincstár a címzett támogatást a támogatási cél teljesítését igazoló, ki nem egyenlített számla alapján hívja le a támogatási arányok betartásával. A finanszírozási szerződésnek felhatalmazást kell tartalmaznia a nem állami fenntartó részéről arra, hogy a pénzforgalmi szolgáltató az arányos címzett támogatáson felüli összeget minden számla kiegyenlítésekor leemeli a nem állami fenntartó számlájáról;
 - d) a beruházás műszaki tartalmának változtatásából, az ár- és árfolyamváltozásból, valamint a kivitelezés átütemezéséből származó többletköltség miatt a nem állami fenntartót a beruházás elfogadott összköltségéhez képest további központi támogatás nem illeti meg;
 - e) a címzett támogatást a nem állami fenntartónak vissza kell fizetnie az állami költségvetésbe, ha a támogatás igénybevételével keletkezett vagyont nem helyi önkormányzat részére elidegeníti, megterheli, illetve az igénybejelentésben megjelölt beruházási céltól eltérően hasznosítja;
 - f) a címzett támogatás igénybevétele során a 11. § (2)–(4), a 12. § (1), valamint a 16. § (3) bekezdésében foglaltakat a nem állami fenntartónak is alkalmazni kell;
 - g) a nem állami fenntartó a 14. § (1) bekezdésében foglaltak esetén elveszíti a címzett támogatásra való jogosultságot, a 14. § (4) bekezdésében és (5) bekezdés a)–b) pontjában foglaltak esetén le kell mondania a címzett támogatásról. Amennyiben a nem állami fenntartó a lemondási kötelezettségének nem tesz eleget, illetve a jogtalanul felhasznált címzett támogatást nem fizeti vissza, úgy a 14. § (6) bekezdése szerinti kamatot kell fizetni a központi költségvetés javára;
-- h) a nem állami fenntartónak a címzett támogatás előirányzatának felhasználásáról a beruházás befejezését követő hat hónapon belül – a finanszírozó pénzintézet bevonásával – szociál- és családpolitikáért felelős miniszternek el kell számolnia, az elszámolással egyidejűleg a fel nem használt előirányzatról le kell mondania.
+- h) a nem állami fenntartónak a címzett támogatás előirányzatának felhasználásáról a beruházás befejezését követő hat hónapon belül – a finanszírozó pénzintézet bevonásával – szociál- és nyugdíjpolitikáért felelős miniszternek el kell számolnia, az elszámolással egyidejűleg a fel nem használt előirányzatról le kell mondania.
 
 ### VI. Fejezet — Záró és értelmező rendelkezések
 

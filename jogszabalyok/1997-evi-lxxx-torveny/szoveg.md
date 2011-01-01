@@ -18,7 +18,7 @@ Tbj. 2. § (1) A társadalombiztosítás a Magyar Köztársaság állampolgárai
 
 (4) A társadalombiztosítási rendszerhez kapcsolódó magánnyugdíj keretében járó ellátások fedezetére a biztosítottak – törvényben meghatározott mértékű – tagdíjat fizetnek.
 
-(5) A biztosítás az annak alapjául szolgáló jogviszonnyal egyidejűleg, a törvény erejénél fogva jön létre. Ennek érvényesítése érdekében a foglalkoztatót bejelentési, nyilvántartási, járulékmegállapítási és járuléklevonási kötelezettség terheli.
+(5) A biztosítás az annak alapjául szolgáló jogviszonnyal egyidejűleg, a törvény erejénél fogva jön létre. Ennek érvényesítése érdekében a foglalkoztatót bejelentési, nyilvántartási, járulék-megállapítási és levonási, járulékfizetési, valamint bevallási kötelezettség terheli. E kötelezettség kiterjed arra a külföldi foglalkoztatóra is, aki a Magyar Köztársaság területén biztosítási kötelezettséggel járó jogviszony keretében foglalkoztat munkavállalót, továbbá arra a külföldi foglalkoztatóra, aki a Magyar Köztársaság területén kívül foglalkoztat olyan munkavállalót, aki a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet alapján e törvény hatálya alá tartozik.
 
 (6) A foglalkoztatót a társadalombiztosítás keretében nyújtott ellátások pénzügyi fedezetéhez törvényben meghatározott járulék- és hozzájárulásfizetési kötelezettségek terhelik.
 
@@ -37,7 +37,7 @@ Tbj. 3. § (1) Az állam a társadalombiztosítási rendszer működéséről é
 
 Tbj. 4. § E törvény alkalmazásában:
 
-- a) Foglalkoztató: 1. bármely jogi és természetes személy, egyéni vállalkozó, jogi személyiséggel nem rendelkező gazdasági társaság, egyéb szervezet, költségvetés alapján gazdálkodó szerv, bármely személyi egyesülés, ha biztosítottat foglalkoztat, vagy a biztosítottnak a biztosítási kötelezettséggel járó jogviszonyára tekintettel vagy azzal összefüggésben járulékalapot képező jövedelmet juttat; 2. tanulószerződés alapján szakképző iskolai tanulmányokat folytató tanuló esetén a szerződést kötő gazdálkodó szervezet, egyéni vállalkozó; 3. társas vállalkozó esetén a társas vállalkozás; 4. az álláskeresési járadékban, álláskeresési segélyben, keresetpótló juttatásban, vállalkozói járadékban, valamint munkanélküli-járadékban, álláskeresést ösztönző juttatásban, nyugdíj előtti munkanélküli segélyben (a továbbiakban együtt: álláskeresési támogatás) részesülő biztosítottnak minősülő személy esetén az ellátást folyósító szerv; 5. a gyermekgondozási segélyben, a gyermekgondozási díjban, a gyermeknevelési támogatásban, az ápolási díjban részesülő személyek esetében a segélyt, a támogatást, illetve a díjat folyósító szerv; 6. a kincstár számfejtési körében a helyi önkormányzatok nettó finanszírozásának hatálya alá tartozó munkáltatók esetében a járulék megállapításával, bevallásával, megfizetésével, a nyilvántartással és adatszolgáltatással, valamint a biztosítottak bejelentésével összefüggő, az e törvényben és az Art.-ben előírt kötelezettségek tekintetében a kincstár, 7. a Munka Törvénykönyve Harmadik része XI. fejezete szerinti munkavégzés esetén – ha jogszabály másként nem rendelkezik – a kölcsönbeadó; 8. 9. 10. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitáció (a továbbiakban: munka-rehabilitáció) keretében munka-rehabilitációs díjat folyósító szociális intézmény.
+- a) Foglalkoztató: 1. bármely jogi és természetes személy, egyéni vállalkozó, jogi személyiséggel nem rendelkező gazdasági társaság, egyéb szervezet, költségvetés alapján gazdálkodó szerv, bármely személyi egyesülés, ha biztosítottat foglalkoztat; 2. tanulószerződés alapján szakképző iskolai tanulmányokat folytató tanuló esetén a szerződést kötő gazdálkodó szervezet, egyéni vállalkozó; 3. társas vállalkozó esetén a társas vállalkozás; 4. az álláskeresési járadékban, álláskeresési segélyben, keresetpótló juttatásban, vállalkozói járadékban, valamint munkanélküli-járadékban, álláskeresést ösztönző juttatásban, nyugdíj előtti munkanélküli segélyben (a továbbiakban együtt: álláskeresési támogatás) részesülő biztosítottnak minősülő személy esetén az ellátást folyósító szerv; 5. a gyermekgondozási segélyben, a gyermekgondozási díjban, a gyermeknevelési támogatásban, az ápolási díjban részesülő személyek esetében a segélyt, a támogatást, illetve a díjat folyósító szerv; 6. a kincstár számfejtési körében a helyi önkormányzatok nettó finanszírozásának hatálya alá tartozó munkáltatók esetében a járulék megállapításával, bevallásával, megfizetésével, a nyilvántartással és adatszolgáltatással, valamint a biztosítottak bejelentésével összefüggő, az e törvényben és az Art.-ben előírt kötelezettségek tekintetében a kincstár, 7. a Munka Törvénykönyve Harmadik része XI. fejezete szerinti munkavégzés esetén – ha jogszabály másként nem rendelkezik – a kölcsönbeadó; 8. 9. 10. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitáció (a továbbiakban: munka-rehabilitáció) keretében munka-rehabilitációs díjat folyósító szociális intézmény.
 - b) Egyéni vállalkozó: 1. az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni vállalkozói nyilvántartásban szereplő természetes személy, 2. a magán-állatorvosi tevékenység gyakorlására jogosító igazolvánnyal rendelkező magánszemély, a gyógyszerészi magántevékenység, falugondnoki tevékenység, tanyagondnoki tevékenység vagy szociális szolgáltató tevékenység folytatásához szükséges engedéllyel rendelkező magánszemély (a továbbiakban együtt: egészségügyi vállalkozó), 3. az ügyvédekről szóló törvény hatálya alá tartozó ügyvéd, európai közösségi jogász (a továbbiakban együtt: ügyvéd), 4. az egyéni szabadalmi ügyvivő, 5. a nem közjegyzői iroda tagjaként tevékenykedő közjegyző, 6. a nem végrehajtói iroda tagjaként tevékenykedő önálló bírósági végrehajtó.
   - ba) Kezdő egyéni vállalkozó: Az egyéni vállalkozó tevékenységet kezdőnek minősül a járulékfizetési kötelezettsége első napjával kezdődően az e napot magában foglaló naptári év utolsó napjáig. Nem minősül tevékenységet kezdőnek az az egyéni vállalkozó, aki a vállalkozói tevékenysége megszűnésének napját követően ismételten egyéni vállalkozóként tevékenykedik, feltéve, hogy vállalkozásának megszűnése és új vállalkozásának megkezdése között egy teljes naptári év nem telt el.
 - c) Társas vállalkozás: 1. a közkereseti társaság, 2. a betéti társaság, 3. a korlátolt felelősségű társaság, 4. 5. a közös vállalat, 6. az egyesülés, ideértve az európai gazdasági egyesülést is, 7. az 1–6. pontban felsorolt társas vállalkozások az előtársaságként történő működés időszakában is 8. a szabadalmi ügyvivői társaság, szabadalmi ügyvivői iroda, 9. a gépjárművezető-képző munkaközösség, 10. az oktatói munkaközösség, 11. az ügyvédi iroda, közjegyzői iroda, 12. a végrehajtói iroda, 13. az egyéni cég.
@@ -48,22 +48,22 @@ Tbj. 4. § E törvény alkalmazásában:
 - h) Megbízási jogviszony, munkaviszony: a magyar jog hatálya alá tartozó megbízási jogviszony és munkaviszony, továbbá a külföldi jog hatálya alá tartozó olyan megbízási jogviszony és munkaviszony, amely alapján a munkát a Magyar Köztársaság területén végzik.
 - i) Foglalkoztatott: aki nem minősül egyéni, illetve társas vállalkozónak és foglalkoztatója biztosítással járó jogviszony keretében foglalkoztatja.
 - j) Külföldi: az a természetes személy, aki nem minősül belföldinek.
-- k) Járulékalapot képező jövedelem: 1. a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerinti, az összevont adóalapba tartozó, az önálló és nem önálló tevékenységből származó bevételből az adóelőleg-alap számításnál figyelembe vett jövedelem, ideértve az Szja tv.-ben szabályozott kis összegű kifizetésből származó jövedelmet is, továbbá az Szja tv. 69. §-a szerinti természetbeni juttatás adóalapként megállapított értékének személyi jövedelemadóval növelt összege [ide nem értve az Szja. tv. 69. §-ának (10) bekezdése szerinti üzleti ajándék, reprezentáció címén adott terméket és nyújtott szolgáltatást], a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíj, a tanulószerződésben meghatározott díj, a hivatásos nevelőszülői díj, a felszolgálási díj, a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló (a továbbiakban: borravaló), 2. az 1. alpont szerinti jövedelem hiányában a munkaszerződésben meghatározott személyi alapbér, illetőleg ha a munkát nem munkaviszony, hanem munkavégzésre irányuló egyéb jogviszony keretében végzik, a szerződésben meghatározott díj; az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíj.
+- k) Járulékalapot képező jövedelem: 1. a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerint összevont adóalapba tartozó önálló és nem önálló tevékenységből származó bevételből az adóelőleg-alap számításnál figyelembe vett jövedelem, a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíj, a tanulószerződésben meghatározott díj, a hivatásos nevelőszülői díj, a felszolgálási díj, a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló (a továbbiakban: borravaló), az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíj, 2. az 1. alpont szerinti jövedelem hiányában a munkaszerződésben meghatározott személyi alapbér, illetőleg ha a munkát nem munkaviszony, hanem munkavégzésre irányuló egyéb jogviszony keretében végzik, a szerződésben meghatározott díj.
 - l) Járulék: a nyugdíjjárulék, a magán-nyugdíjpénztári tagdíj, az egészségbiztosítási- és munkaerő-piaci járulék, a társadalombiztosítási járulék, a táppénz-hozzájárulás, az egészségügyi szolgáltatási járulék, valamint a korkedvezmény-biztosítási járulék.
 - m) A magánnyugdíjpénztár tagja: 1. 2. a magánnyugdíjpénztárhoz önkéntes döntéssel csatlakozó személy.
 - n)
 - o) Magánnyugdíjpénztárhoz önkéntes döntéssel csatlakozó: 1. a tagságra kötelezett pályakezdőnek nem minősülő természetes személy, aki az 1998. január 1-je és 2005. december 31-e között hatályos rendelkezések értelmében önkéntes döntéssel taggá vált, és 2. az Mpt. 3. §-ának (2) bekezdésében meghatározott személy.
 - p) Tanulószerződés: a szakképzésről szóló 1993. évi LXXVI. törvény szerinti tanulószerződés.
-- q) Tevékenységre jellemző kereset: a természetes személy főtevékenységére jellemző, a piaci viszonyoknak megfelelő díjazás.
+- q)
 - r) Igazgatási szerv: 1. a biztosítási kötelezettség megállapításával, a bejelentési-, nyilvántartási-, adatszolgáltatási kötelezettséggel, a járulék- és tagdíj bevallásával, megfizetésével, e kötelezettségek megsértésével kapcsolatos jogkövetkezmények megállapításával, a tartozás beszedésével, behajtásával, a bevallás ellenőrzésével kapcsolatos hatósági ügyben – a 34–35. §, 41. § (4)–(5) bekezdés, 42–43. § kivételével – az állami adóhatóság, az adózás rendjéről szóló törvény 88. §-ának (5) bekezdésében meghatározott feladatkörében a vámhatóság, 2. a 34. § (1), (5), (8) bekezdésének, a 35. §-ának, 40. §-ának, a 41. §-ának (2) bekezdése és a 42–43. §-ainak alkalmazásánál a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv és a nyugdíjbiztosítási igazgatási szerv, 3. a 34. § (10) és (12) bekezdésének, a 35. §-ának, 40. §-ának, a 41. §-a (2) és (4)–(5) bekezdésének, a 42–43. §-ainak, alkalmazásánál az egészségbiztosítási szerv. 4.
-- s) Minimálbér: a tárgyhónapot megelőző hónap első napján érvényes, a teljes munkaidőben foglalkoztatott munkavállaló részére megállapított személyi alapbér kötelező legkisebb havi összege.
-- t) Kiküldetés, kirendelés, munkaerő-kölcsönzés: a munkavállalónak a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 105–106/B. §-ában foglaltaknak megfelelő munkavégzése.
+- s) Minimálbér: 1. a tárgyhónap első napján érvényes, a teljes munkaidőben foglalkoztatott munkavállaló részére megállapított személyi alapbér kötelező legkisebb havi összege, és 2. a biztosított egyéni és társas vállalkozó járulékfizetéséről szóló rendelkezések alkalmazásában a tárgyhónap első napján, a teljes munkaidőre érvényes garantált bérminimum havi összege, ha az egyéni vállalkozó személyesen végzett főtevékenysége vagy a társas vállalkozó főtevékenysége legalább középfokú iskolai végzettséget vagy középfokú szakképzettséget igényel.
+- t)
 - u) Belföldi: 1. a Magyar Köztársaság területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkező magyar állampolgár, a bevándorolt és a letelepedett jogállású, valamint a menekültként elismert személy, 2. a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát a Magyar Köztársaság területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, valamint 3. a hontalan;
 - v) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
 - w) Mezőgazdasági őstermelő: az Szja tv. 3. §-ának 18. alpontjában meghatározott személy.
 - x) Kezdő mezőgazdasági őstermelő: az a személy, aki a tárgyévet megelőző évben nem minősült mezőgazdasági őstermelőnek.
 - z) Harmadik állam: az Európai Gazdasági Térség és a Magyar Köztársaság által kötött kétoldalú szociális biztonságról szóló egyezmény hatálya alá nem tartozó állam.
-- zs) Hajléktalan: a bejelentett lakóhellyel nem rendelkező magyar állampolgár, ideértve azt a személyt is, akinek bejelentett lakóhelye a hajléktalan szállás.
+- zs)
 
 ### III. Fejezet — A TÁRSADALOMBIZTOSÍTÁS ELLÁTÁSAIÉS AZ ELLÁTÁSRA JOGOSULTAK
 
@@ -71,7 +71,7 @@ Tbj. 4. § E törvény alkalmazásában:
 
 Tbj. 5. § (1) E törvény alapján biztosított
 
-- a) a munkaviszonyban (ideértve az országgyűlési képviselőt is), közalkalmazotti, illetőleg közszolgálati jogviszonyban, ügyészségi szolgálati jogviszonyban, bírósági jogviszonyban, igazságügyi alkalmazotti szolgálati viszonyban, hivatásos nevelőszülői jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban álló személy, a Magyar Honvédség, a rendvédelmi szervek, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja, a Magyar Honvédség szerződéses állományú tagja, a katonai szolgálatot teljesítő önkéntes tartalékos katona (a továbbiakban: munkaviszony), tekintet nélkül arra, hogy foglalkoztatása teljes vagy részmunkaidőben történik; ide nem értve a hallgatói munkaszerződés alapján létrejött munkaviszonyt,
+- a) a munkaviszonyban (ideértve az országgyűlési képviselőt is), közalkalmazotti, illetőleg közszolgálati jogviszonyban, ügyészségi szolgálati jogviszonyban, bírósági jogviszonyban, igazságügyi alkalmazotti szolgálati viszonyban, hivatásos nevelőszülői jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban álló személy, a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, a Magyar Honvédség szerződéses állományú tagja, a katonai szolgálatot teljesítő önkéntes tartalékos katona (a továbbiakban: munkaviszony), tekintet nélkül arra, hogy foglalkoztatása teljes vagy részmunkaidőben történik,
 - b) a szövetkezet tagja – ide nem értve az iskolaszövetkezet nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagját –, ha a szövetkezet tevékenységében munkaviszony, vállalkozási vagy megbízási jogviszony keretében személyesen közreműködik,
 - c) a tanulószerződés alapján szakképző iskolai tanulmányokat folytató tanuló,
 - d) az álláskeresési támogatásban részesülő személy,
@@ -83,7 +83,7 @@ Tbj. 5. § (1) E törvény alapján biztosított
 
 (2) Az (1) bekezdés g) pontjában foglaltakon túl, munkavégzésre irányuló egyéb jogviszony keretében munkát végző személynek kell tekinteni azt is, aki: alapítvány, társadalmi szervezet, társadalmi szervezetek szövetsége, társasház közösség, egyesület, köztestület, kamara, gazdálkodó szervezet választott tisztségviselője; szövetkezet vezető tisztségviselője, továbbá a Munkavállalói Résztulajdonosi Program szervezeteinek, az önkéntes kölcsönös biztosító pénztárak, a magánnyugdíjpénztárak választott tisztségviselője, a helyi (települési) önkormányzat választott képviselője (tisztségviselője), társadalmi megbízatású polgármester, amennyiben járulékalapot képező jövedelemnek minősülő tiszteletdíja (díjazása) eléri az (1) bekezdés g) pontjában említett összeget.
 
-(3) A természetes személyt biztosítási kötelezettség terheli, ha valamely foglalkoztatóhoz fűződő (1)–(2) bekezdés szerinti biztosítási kötelezettséggel járó jogviszonyára tekintettel vagy azzal összefüggésben járulékalapot képező jövedelmet külföldi illetőségű jogi vagy természetes személytől, illetőleg külföldi illetőségű más személytől szerez.
+(3) Biztosított az a természetes személy is, aki a munkát külföldi foglalkoztató számára a Magyar Köztársaság területén kívül végzi, és a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet alapján e törvény hatálya alá tartozik.
 
 Tbj. 6. § (1) A biztosítottak a társadalombiztosítás valamennyi ellátására jogosultságot szerezhetnek.
 
@@ -91,14 +91,18 @@ Tbj. 6. § (1) A biztosítottak a társadalombiztosítás valamennyi ellátásá
 
 Tbj. 7. § (1) A biztosítás – amennyiben e törvény eltérően nem rendelkezik – az ennek alapját képező jogviszony kezdetétől annak megszűnéséig áll fenn.
 
-(2) Ha a jövedelem juttatására egy másik foglalkoztatónál (munkáltatónál) fennálló jogviszonyra tekintettel kerül sor, e jövedelemmel összefüggésben a biztosítás időtartamaként a jövedelem kifizetésének (juttatásának) napját kell figyelembe venni.
+(2) A Munka Törvénykönyve szerinti munkaviszony esetén a biztosítás kezdete az a nap, amelyen a munkavállaló ténylegesen munkába lép.
 
 Tbj. 8. § Szünetel a biztosítás:
 
-- a) a fizetés nélküli szabadság, a munkavégzési (szolgálatteljesítési) kötelezettség alóli mentesítés, valamint az igazolatlan távollét időtartama alatt, kivéve 1. ha a fizetés nélküli szabadságot háromévesnél fiatalabb gyermek gondozása vagy nyolc évesnél fiatalabb gyermek után járó gyermeknevelési támogatásra való jogosultság vagy tizennégy évesnél fiatalabb gyermek után járó gyermekgondozási segélyre való jogosultság, illetőleg tizenkét évesnél fiatalabb beteg gyermek otthoni ápolása címén vették igénybe, 2. ha a munkavégzés alóli mentesítés idejére a munkaviszonyra vonatkozó szabály szerint átlagkereset jár, illetőleg munkabér (illetmény), átlagkereset (távolléti díj), táppénzfizetés történt. 3.
-- b) az előzetes letartóztatás, szabadságvesztés tartama alatt is, kivéve, ha a letartóztatottat az ellene emelt vád alól jogerősen felmentették, vagy a büntetőeljárást megszüntették, továbbá, ha az elítéltet utóbb a bíróság jogerősen felmentette;
-- c) az ügyvéd, a közjegyző, a szabadalmi ügyvivő biztosítása arra az időtartamra, amelyre kamarai tagságát szünetelteti.
-- d) az egyéni vállalkozói tevékenység szünetelésének ideje alatt.
+- a) a fizetés nélküli szabadság ideje alatt, kivéve, ha
+  - aa) a fizetés nélküli szabadság idejére gyermekgondozási díj, gyermekgondozási segély vagy gyermeknevelési támogatás kerül folyósításra, vagy
+  - ab) a fizetés nélküli szabadságot tizenkét évesnél fiatalabb beteg gyermek ápolása címén veszik igénybe,
+- b) az igazolatlan távollét időtartama alatt,
+- c) a munkavégzési (szolgálatteljesítési) kötelezettség alóli mentesítés ideje alatt, kivéve, ha a munkavégzés alóli mentesítés idejére a munkaviszonyra vonatkozó szabály szerint átlagkereset jár, vagy munkabér (illetmény), átlagkereset (távolléti díj), táppénzfizetés történt,
+- d) az előzetes letartóztatás, szabadságvesztés tartama alatt, kivéve, ha a letartóztatottat az ellene emelt vád alól jogerősen felmentették, vagy a büntetőeljárást megszüntették, továbbá, ha az elítéltet utóbb a bíróság jogerősen felmentette,
+- e) az ügyvéd, a közjegyző, a szabadalmi ügyvivő kamarai tagságának szüneteltetése alatt,
+- f) az egyéni vállalkozói tevékenység szünetelésének ideje alatt.
 
 Tbj. 9. § (1) Az egyidejűleg több biztosítással járó jogviszonyban álló személy biztosításának fennállását mindegyik jogviszonyában külön-külön kell elbírálni.
 
@@ -134,7 +138,7 @@ Tbj. 11. § A biztosítás nem terjed ki:
 - a) külföldi állam Magyarországra akkreditált diplomáciai és konzuli képviselete személyzetének külföldi állampolgárságú tagjára (a továbbiakban: képviselet tagja), a külföldi állampolgárságú háztartási alkalmazottra, aki kizárólag a képviselet tagjának alkalmazásában áll, a képviselet tagjával közös háztartásban élő külföldi állampolgárságú családtagra (házastárs, gyermek), feltéve hogy az alkalmazottra, illetve a családtagra kiterjed a küldő állam vagy más állam társadalombiztosítási rendszere, továbbá a nemzetközi szervezet nemzetközi szerződés alapján mentességet élvező tisztviselőjére (alkalmazottjára) és vele közös háztartásban élő családtagjára (házastárs, gyermek), feltéve hogy kiterjed rájuk a nemzetközi szervezet szociális biztonsági rendszere;
 - b) a magyar jogszabályok szerint be nem jegyzett külföldi munkáltató által a Magyar Köztársaság területén foglalkoztatott külföldinek minősülő,
   - ba)
-  - bb) harmadik állam polgárára, ha kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében végez munkát;
+  - bb) harmadik állam polgárára, ha kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében végez munkát; [b) a magyar jogszabályok szerint be nem jegyzett külföldi munkáltató által a Magyar Köztársaság területén foglalkoztatott, harmadik állam állampolgárságával rendelkező és külföldinek minősülő munkavállalóra, ha a munkavégzésre kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében kerül sor, feltéve, hogy e munkavégzés a két évet nem haladja meg; e rendelkezés ismételten nem alkalmazható ugyanarra a munkavállalóra, ha az előző belföldi munkavégzés befejezésétől számítva három év nem telt el;]
 - c) az európai parlamenti képviselőre.
 - d)
 
@@ -254,32 +258,28 @@ fizet.
 
 (5) A járulékokat a járulékalapot képező jövedelem kifizetésekor irányadó járulékmértékek szerint kell megfizetni. A járulékokat a biztosítási kötelezettséggel járó jogviszony megszűnését követően kifizetett (kiosztott) járulékalapot képező jövedelem után is meg kell fizetni.
 
+(6) A (3) bekezdésben foglaltaktól eltérően, a külön törvényben meghatározott szolgálati nyugellátás, valamint a szolgálati rokkantsági nyugdíj járulékfizetéssel nem fedezett, 2011. január 1-je és 2011. december 31-e közötti időszakban esedékes többletköltségeit a Nyugdíjreform és Adósságcsökkentő Alap fizeti meg.
+
 Tbj. 19. § (1) A foglalkoztató és a biztosított egyéni vállalkozó által fizetendő társadalombiztosítási járulék mértéke 27 százalék, ebből a nyugdíj-biztosítási járulék 24 százalék, az egészségbiztosítási- és munkaerő-piaci járulék 3 százalék. Az egészségbiztosítási- és munkaerő-piaci járulékon belül a természetbeni egészségbiztosítási járulék 1,5 százalék, a pénzbeli egészségbiztosítási járulék 0,5 százalék, a munkaerő-piaci járulék 1 százalék.
 
 (2) A biztosított által fizetendő nyugdíjjárulék mértéke
 
-- a) kizárólag a társadalombiztosítási nyugdíj hatálya alá tartozó biztosított esetében 9,5 százalék,
-- b) magánnyugdíjpénztár tagja esetében 1,5 százalék. A saját jogú nyugdíjas foglalkoztatott, valamint a kiegészítő tevékenységet folytató egyéni és társas vállalkozó magán-nyugdíjpénztári tagsága esetén is 9,5 százalék nyugdíjjárulékot fizet.
+- a) kizárólag a társadalombiztosítási nyugdíj hatálya alá tartozó biztosított esetében 10 százalék,
+- b) magánnyugdíjpénztár tagja esetében 2 százalék. A saját jogú nyugdíjas foglalkoztatott, valamint a kiegészítő tevékenységet folytató egyéni és társas vállalkozó magán-nyugdíjpénztári tagsága esetén is 10 százalék nyugdíjjárulékot fizet.
 
 (3) A biztosított által fizetendő egészségbiztosítási- és munkaerő-piaci járulék mértéke 7,5 százalék. Az egészségbiztosítási- és munkaerő-piaci járulékon belül a természetbeni egészségbiztosítási járulék 4 százalék, a pénzbeli egészségbiztosítási járulék 2 százalék, a munkaerő-piaci járulék 1,5 százalék.
 
-(4) A kiegészítő tevékenységet folytató egyéni vállalkozó, a kiegészítő tevékenységet folytató társas vállalkozó után a társas vállalkozás, valamint a 39. § (2) bekezdésében meghatározott személy által fizetendő egészségügyi szolgáltatási járulék havi összege 4950 forint (napi összege 165 forint).
+(4) A kiegészítő tevékenységet folytató egyéni vállalkozó, a kiegészítő tevékenységet folytató társas vállalkozó után a társas vállalkozás, valamint a 39. § (2) bekezdésében meghatározott személy által fizetendő egészségügyi szolgáltatási járulék havi összege 5100 forint (napi összege 170 forint).
 
 (5) A foglalkoztató az 5. §-ban említett biztosított betegsége miatti keresőképtelensége, valamint a kórházi (klinikai) ápolása időtartamára folyósított táppénz egyharmadát hozzájárulás címén fizeti meg.
 
 (6) A foglalkoztató és az egyéni vállalkozó által fizetendő korkedvezmény-biztosítási járulék mértéke 13 százalék.
 
-(7) A 2010. november 1-je és 2011. december 31-e közötti időszakban esedékes, a magán-nyugdíjpénztári tag után fizetendő nyugdíjjárulék mértéke – a (2) bekezdés b) pontjában foglaltaktól eltérően – 9,5 százalék.
+(7) A 2010. november 1-je és 2011. december 31-e közötti időszakban esedékes, a magán-nyugdíjpénztári tag után fizetendő nyugdíjjárulék mértéke – a (2) bekezdés b) pontjában foglaltaktól eltérően – 10 százalék.
 
 ### A társadalombiztosítási járulék
 
-Tbj. 20. § (1) A foglalkoztató az általa foglalkoztatott biztosított részére a biztosítási kötelezettséggel járó jogviszonya alapján kifizetett (juttatott) járulékalapot képező jövedelem után havonta a 19. § (1) bekezdésében meghatározott mértékű társadalombiztosítási járulékot fizet, ideértve azt a jövedelmet is, amelyet a biztosítottnak a más foglalkoztatónál fennálló biztosítási jogviszonyára tekintettel juttat.
-
-(2) Az 5. § (1) bekezdésének a) pontjában említett biztosított foglalkoztatója a társadalombiztosítási járulékot havonta legalább a minimálbér kétszerese – részmunkaidő esetén ezen összeg arányos része – után köteles megfizetni. Ha a járulékalapot képező jövedelem nem éri el a minimálbér kétszeresét, a foglalkoztató az Art. 31. § (2) bekezdésében meghatározott bevallásban – a tényleges járulékalapot képező jövedelem feltüntetésével – bejelentést tehet arról, hogy a társadalombiztosítási járulékot a járulékalapot képező jövedelem alapulvételével fizeti meg.
-
-(3) Ha a biztosított járulékalapot képező jövedelme nem éri el a minimálbér kétszeresét és a foglalkoztató nem él bejelentéssel, a 24. § (1) bekezdés szerinti járulékfizetési kötelezettség alapján a biztosítottat terhelő járuléktöbbletet a foglalkoztató viseli.
-
-(4) A minimálbér kétszerese utáni járulékfizetési kötelezettség nem vonatkozik arra a foglalkoztatóra, aki az általa foglalkoztatott biztosított utáni járulékfizetési kötelezettséget külön törvényben meghatározottak szerint teljesíti vagy a biztosított foglalkoztatására tekintettel külön törvényben foglaltak szerint járulékkedvezményt érvényesít.
+Tbj. 20. § A foglalkoztató az általa foglalkoztatott biztosított részére a biztosítási kötelezettséggel járó jogviszonnyal összefüggésben kifizetett (juttatott) járulékalapot képező jövedelem után havonta a 19. § (1) bekezdésében meghatározott mértékű társadalombiztosítási járulékot fizet.
 
 ### Korkedvezmény-biztosítási járulék
 
@@ -292,7 +292,7 @@ Tbj. 20/A. § (1) A foglalkoztató a Tny. tv. szerint korkedvezményre jogosít�
 Tbj. 21. § Nem képezi a társadalombiztosítási járulék, a nyugdíjjárulék (tagdíj) és az egészségbiztosítási- és munkaerő-piaci járulék alapját:
 
 - a) a foglalkoztató által megállapított és folyósított társadalombiztosítási ellátás, valamint a szociális ellátásnak nem a foglalkoztatót terhelő összege,
-- b) az Szja.tv. 70. §-ában említett juttatások azon része, amely 25 százalékos adókulccsal adózik,
+- b) az Szja tv. 71. §-a szerinti béren kívüli juttatás,
 - c) a jövedelmet pótló kártérítés (keresetpótló járadék),
 - d) a szerzői jogi védelem, találmányi szabadalmi oltalom, védjegyoltalom, földrajzi árujelzők oltalma, mintaoltalom alatt álló mű, alkotás, valamint az újítás hasznosítására irányuló felhasználási, hasznosítási, használati szerződés alapján a vagyoni jog (védelem alatt álló jog, oltalmi jog) felhasználásának ellenértékeként kifizetett díj,
 - e) a késedelmes teljesítéshez kapcsolódó kamat.
@@ -307,7 +307,7 @@ Tbj. 23. § A 5. § (1) bekezdésének a) pontjában említett szervek a hivatá
 
 Tbj. 24. § (1) A foglalkoztatott a 19. § (2) bekezdésében meghatározott nyugdíjjárulékot (tagdíjat) és a 19. § (3) bekezdésében meghatározott egészségbiztosítási- és munkaerő- piaci járulékot fizet. A nyugdíjjárulék (tagdíj), valamint az egészségbiztosítási- és munkaerő-piaci járulék alapja azonos a 20. § (1)–(2) bekezdésében meghatározott társadalombiztosítási járulék alapjával. A foglalkoztatott nem fizet
 
-- a) nyugdíjjárulékot, valamint egészségbiztosítási- és munkaerő-piaci járulékot a járulékalapot képező természetbeni juttatás adóalapként megállapított értékének személyi jövedelemadóval növelt összege, valamint a felszolgálási díj és a borravaló után,
+- a) nyugdíjjárulékot, valamint egészségbiztosítási- és munkaerő-piaci járulékot a felszolgálási díj és a borravaló után,
 - b) egészségbiztosítási- és munkaerő-piaci járulékot a jubileumi jutalom, a végkielégítés, az újrakezdési támogatás, a szabadságmegváltás jogcímen kifizetett juttatás, a határozott időtartamú jogviszony megszüntetése esetén a Munka Törvénykönyve 88. §-ának (2) bekezdése és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 27. §-ának (2) bekezdése alapján kifizetett összeg után, pénzbeli egészségbiztosítási járulékot a külön jogszabály szerinti prémiumévek program, illetőleg a különleges foglalkoztatási állomány keretében járó juttatás után.
 
 (2) A foglalkoztatott a nyugdíjjárulékot (tagdíjat) a járulékalapul szolgáló jövedelme, legfeljebb azonban a Magyar Köztársaság költségvetéséről szóló törvényben az egy naptári napra meghatározott összeg naptári évre számított összege után fizeti meg (a továbbiakban: járulékfizetési felső határ).
@@ -329,7 +329,7 @@ Tbj. 25. § A saját jogú nyugdíjas foglalkoztatott a járulékalapot képező
 Tbj. 25/A. § Nem fizet a 19. § (3) bekezdésében meghatározott mértékű munkaerő-piaci járulékot
 
 - a) az 5. § (1) bekezdésének b)–d), g)–i) pontjaiban és (2) bekezdésében meghatározott személy – ide nem értve az iskolaszövetkezetnek nem minősülő szövetkezet tevékenységében munkaviszony keretében közreműködő szövetkezeti tagot –,
-- b) az az egyéni és társas vállalkozó, aki közép- vagy felsőfokú oktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytat, vagy a vállalkozói tevékenysége mellett munkaviszonnyal is rendelkezik,
+- b) az az egyéni és társas vállalkozó, aki közép- vagy felsőfokú oktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytat, vagy a vállalkozói tevékenysége mellett munkaviszonnyal is rendelkezik – ide nem értve azt a munkavállalót, aki fizetés nélküli szabadságon van,
 - c) az a foglalkoztatott, egyéni és társas vállalkozó, aki saját jogú nyugdíjas vagy a társadalombiztosítási nyugellátásról szóló jogszabályban meghatározott reá irányadó öregségi nyugdíjkorhatárt betöltötte.
 
 Tbj. 26. § (1) A gyermekgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban, ápolási díjban, munka-rehabilitációs díjban, rehabilitációs járadékban részesülő személy a díj, segély, támogatás, járadék összege után nyugdíjjárulékot (tagdíjat) fizet. A saját jogú nyugdíjban, valamint a reá irányadó öregségi nyugdíjkorhatárt betöltött, özvegyi nyugdíjban részesülő személy a gyermekgondozási segély, az ápolási díj, valamint a munka-rehabilitációs díj után nyugdíjjárulékot (tagdíjat) nem fizet. A rokkantsági, baleseti rokkantsági nyugdíjban, valamint a reá irányadó öregségi nyugdíjkorhatárt betöltött, özvegyi nyugdíjban részesülő személy a folyósító szervhez benyújtott nyilatkozatával azonban vállalhatja a nyugdíjjárulék fizetését.
@@ -346,21 +346,23 @@ Tbj. 26. § (1) A gyermekgondozási díjban, gyermekgondozási segélyben, gyerm
 
 (7) A külön jogszabály szerinti felszolgálási díj után – a 19. § (1) bekezdésétől eltérően – a foglalkoztató 15%-os nyugdíjbiztosítási járulékot fizet, amely magában foglalja a nyugdíjjárulékot is. A vendéglátó üzlet felszolgálója a – 19. § (2) bekezdésétől eltérően – fogyasztótól közvetlenül kapott borravaló után 15% nyugdíjbiztosítási járulékot fizethet, amely magában foglalja a nyugdíjjárulékot is. A felszolgálási díj, valamint a borravaló után magán-nyugdíjpénztári tagdíjat nem kell fizetni. A vendéglátó üzlet felszolgálója a borravaló után fizethető járulékot a személyi jövedelemadóról benyújtott bevallásában vallja be, a bevallás benyújtására előírt határidőig fizeti meg, továbbá a bevallásában adatot szolgáltat a nyugdíjjárulékot is magában foglaló 15% nyugdíjbiztosítási járulék alapjáról és összegéről.
 
-(8) A foglalkoztató a START-kártyával rendelkező biztosított foglalkoztatása alapján fizetendő társadalombiztosítási járulékfizetési kötelezettségének a külön törvényben meghatározottak szerint tesz eleget.
+(8) A foglalkoztató a START-kártyával rendelkező biztosított foglalkoztatása alapján fizetendő társadalombiztosítási járulékfizetési kötelezettségének, valamint a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló törvény 8/B. §-ában meghatározott részmunkaidőben foglalkoztatott munkavállaló utáni járulékfizetési kötelezettségének a külön törvényben meghatározottak szerint tesz eleget.
 
 (9) Az egyszerűsített közteherviselési hozzájárulás (a továbbiakban: ekho) fizetését megalapozó jogviszonyból származó jövedelem után a foglalkoztató az e törvény szerinti társadalombiztosítási, a biztosított az e törvény szerinti nyugdíjjárulék (tagdíj) és egészségbiztosítási járulék fizetési kötelezettségét az egyszerűsített közteherviselési hozzájárulásról szóló törvényben meghatározottak szerint teljesíti.
 
 (10) A mikro-, kis- és középvállalkozások, valamint civil szervezetek a 19. § (1) bekezdés szerinti társadalombiztosítási járulékot a foglalkoztatás bővítése és rugalmasabbá tétele érdekében szükséges intézkedésekről szóló külön törvényben foglaltaknak megfelelően fizetik meg.
 
+(11) A (4) bekezdésben foglaltaktól eltérően, a gyermekgondozási segély, gyermeknevelési támogatás, a munka-rehabilitáció keretében folyósított munka-rehabilitációs díj, rehabilitációs járadék után a foglalkoztatót terhelő, 2011. január 1-je és 2011. december 31-e közötti időszakban esedékes nyugdíj-biztosítási járulékot a Nyugdíjreform és Adósságcsökkentő Alap fizeti meg.
+
 ### A társas vállalkozás és a társas vállalkozójárulékfizetése
 
-Tbj. 27. § (1) A társas vállalkozás a biztosított társas vállalkozó után a 19. § (1) bekezdésében meghatározott társadalombiztosítási járulékot a társas vállalkozó személyes közreműködésére tekintettel kifizetett (juttatott) járulékalapot képező jövedelem, de havi átlagban legalább a társas vállalkozó tevékenységére jellemző kereset után fizeti meg. Ha a járulékalapot képező jövedelem nem éri el a tevékenységre jellemző keresetet, a foglalkoztató az Art. 31. § (2) bekezdésében meghatározott bevallásban – a tényleges járulékalapot képező jövedelem feltüntetésével – bejelentést tehet arról, hogy a társadalombiztosítási járulékot a járulékalapot képező jövedelem, de legalább a minimálbér alapulvételével fizeti meg. Ha a járulékfizetési kötelezettség nem áll fenn egy teljes naptári hónapon át, egy naptári napra az előzőek szerinti összeg harmincad részét kell figyelembe venni.
+Tbj. 27. § (1) A társas vállalkozás a biztosított társas vállalkozó után fizetendő társadalombiztosítási járulékot a társas vállalkozó személyes közreműködésére tekintettel kifizetett (juttatott) járulékalapot képező jövedelem, de havi átlagban legalább az e törvény szerinti minimálbér alapulvételével fizeti meg.
 
-(2) A biztosított társas vállalkozó a 19. § (2) bekezdése szerinti nyugdíjjárulékot (tagdíjat) és a 19. § (3) bekezdése szerinti egészségbiztosítási- és munkaerő-piaci járulékot fizet. A nyugdíjjárulék (tagdíj) és az egészségbiztosítási- és munkaerő-piaci járulék alapja megegyezik az (1) bekezdésben meghatározott társadalombiztosítási járulék alapjával – ide nem értve az Szja tv. 69. §-a szerinti természetbeni juttatás adóalapként megállapított értékének személyi jövedelemadóval növelt összegét – azzal, hogy a nyugdíjjárulékot (tagdíjat) legfeljebb a járulékfizetési felső határig kell megfizetni.
+(2) A biztosított társas vállalkozó a 19. § (2) bekezdése szerinti nyugdíjjárulékot (tagdíjat) és a 19. § (3) bekezdése szerinti egészségbiztosítási- és munkaerő-piaci járulékot fizet. A nyugdíjjárulék (tagdíj) és az egészségbiztosítási- és munkaerő-piaci járulék alapja megegyezik az (1) bekezdésben meghatározott társadalombiztosítási járulék alapjával azzal, hogy a nyugdíjjárulékot (tagdíjat) legfeljebb a járulékfizetési felső határig kell megfizetni.
 
 (3) Abban az esetben, ha a biztosítási kötelezettség a naptári év teljes tartama alatt nem áll fenn, a járulékfizetési felső határt a biztosítási kötelezettség időtartamával arányosan kell meghatározni.
 
-(4) A tevékenységre jellemző kereset utáni járulékfizetési kötelezettség nem vonatkozik arra a társas vállalkozásra, amely a társas vállalkozó utáni járulékfizetési kötelezettséget külön törvényben meghatározottak szerint teljesíti.
+(4)
 
 (5) A társas vállalkozás a Tny. tv. szerint korkedvezményre jogosító munkakörben foglalkoztatott biztosított társas vállalkozó után a társadalombiztosítási járulék alapjának alapulvételével – a társadalombiztosítási járulékon felül – korkedvezmény-biztosítási járulékot fizet, kivéve, ha e kötelezettsége alól külön jogszabály szerint mentesítették.
 
@@ -375,7 +377,12 @@ Tbj. 28. § (1) A 27. §-ban meghatározott járulékalap alsó határát arány
 
 ### Az egyéni vállalkozók járulékfizetése
 
-Tbj. 29. § (1) A biztosított egyéni vállalkozó a 19. § (1) bekezdésében meghatározott mértékű társadalombiztosítási járulékot az Szja tv. 16. § (4) bekezdésében meghatározott vállalkozói kivét, de havi átlagban legalább a tevékenységre jellemző kereset után fizeti meg. Átalányadózó esetén az átalányban megállapított jövedelem, de havi átlagban legalább a tevékenységre jellemző kereset után kell a társadalombiztosítási járulékot megfizetni. Ha a vállalkozói kivét, illetve az átalányban megállapított jövedelem nem éri el a tevékenységre jellemző keresetet, az egyéni vállalkozó az Art. 31. § (2) bekezdésében meghatározott bevallásban – a tényleges járulékalapot képező jövedelem feltüntetésével – bejelentést tehet arról, hogy a társadalombiztosítási járulékot a tényleges járulékalapot képező jövedelem, de legalább a minimálbér alapulvételével fizeti meg.
+Tbj. 29. § (1) A biztosított egyéni vállalkozó a 19. § (1) bekezdésében meghatározott mértékű társadalombiztosítási járulékot
+
+- a) vállalkozói jövedelem szerinti adózás esetén a vállalkozói kivét,
+- b) átalányadózás esetén az átalányban megállapított jövedelem,
+
+de havi átlagban legalább az e törvény szerinti minimálbér alapulvételével fizeti meg.
 
 (2)
 
@@ -391,13 +398,13 @@ Tbj. 29. § (1) A biztosított egyéni vállalkozó a 19. § (1) bekezdésében 
 
 (5) Amennyiben a (4) bekezdésben meghatározott körülmények a naptári hónap teljes tartamán át nem állnak fenn, a járulékfizetési alsó határ kiszámításánál egy-egy naptári napra a járulékalap harmincad részét kell alapul venni. A járulékfizetési felső határt csökkenteni kell a (4) bekezdésben meghatározott időtartamok naptári napjai és a járulékfizetési felső határ naptári napi összegének szorzatával. Ezt a szabályt kell alkalmazni akkor is, ha az egyéni vállalkozó biztosítási jogviszonya hónap közben kezdődött vagy szűnt meg.
 
-(6) A tevékenységre jellemző kereset utáni járulékfizetési kötelezettség nem vonatkozik arra az egyéni vállalkozóra, aki a járulékfizetési kötelezettségét külön törvényben meghatározottak szerint teljesíti.
+(6)
 
 (7) A tevékenységet kezdő egyéni vállalkozó a járulékfizetési kötelezettségének kezdő évében a 19. § (1)–(3) bekezdésében meghatározott mértékű társadalombiztosítási, egészségbiztosítási- és munkaerő-piaci, valamint nyugdíjjárulékot (tagdíjat) az (1)–(3) bekezdésben foglaltaktól eltérően a minimálbér összege után fizeti meg. Ez a rendelkezés nem alkalmazható a 31. § (4) bekezdésében említett egyéni vállalkozóra. Ha a tárgyhónapban a kezdő egyéni vállalkozó vállalkozói kivétje vagy átalányban megállapított jövedelme meghaladja a minimálbért, akkor a járulékbevallásában nyilatkozhat arról, hogy a járulékokat (tagdíjat) a kivét, illetőleg az átalányban megállapított jövedelem alapulvételével fizeti meg.
 
 (8) A Tny. tv. szerint korkedvezményre jogosító munkakörben vállalkozói tevékenységet végző biztosított egyéni vállalkozó a társadalombiztosítási járulék alapjának alapulvételével – a társadalombiztosítási járulékon felül – korkedvezmény-biztosítási járulékot fizet, kivéve, ha e kötelezettsége alól külön jogszabály szerint mentesítették.
 
-Tbj. 29/A. § (1) Az egyszerűsített vállalkozói adó szabályai szerint adózó (a továbbiakban: eva adózó) biztosított egyéni vállalkozó a 19. § (1)–(3) bekezdésében meghatározott járulékokat (tagdíjat) a tevékenységre jellemző kereset után fizeti meg. Az eva adózó egyéni vállalkozó az Art. 31. § (2) bekezdésében meghatározott bevallásban a tényleges jövedelmének feltüntetésével bejelentést tehet arról, hogy a járulékot (tagdíjat) a tényleges jövedelme, de legalább a minimálbér alapulvételével fizeti meg.
+Tbj. 29/A. § (1) Az a biztosított egyéni vállalkozó, aki az egyszerűsített vállalkozói adó alanya (a továbbiakban: eva adózó), a 19. § (1)–(3) bekezdésében meghatározott járulékokat (tagdíjat) az e törvény szerinti minimálbér alapulvételével fizeti meg.
 
 (2) Az eva adózó egyéni vállalkozó járulékfizetési kötelezettségének megállapításánál értelemszerűen alkalmazni kell a 29. § (4)–(5) és (8) bekezdésének rendelkezéseit.
 
@@ -405,17 +412,15 @@ Tbj. 29/A. § (1) Az egyszerűsített vállalkozói adó szabályai szerint adó
 
 (4) A (3) bekezdéstől eltérően a 31. § (4) bekezdésében említett eva adózó egyéni vállalkozó a munkaviszonya, illetőleg a tanulói, hallgatói jogviszonya megszűnését követő tárgyévi időszakra is választhatja a magasabb járulékalap utáni járulékfizetést.
 
-Tbj. 30. § (1) Az 5. § (3) bekezdésében említett személy a járulékalapot képező jövedelme után társadalombiztosítási járulékot, nyugdíjjárulékot (tagdíjat) és egészségbiztosítási- és munkaerő-piaci járulékot fizet.
-
-(2) A foglalkoztató – akihez fűződő jogviszonyára tekintettel a természetes személynek járulékalapot képező jövedelmet juttatnak – a természetes személlyel tett egybehangzó nyilatkozata alapján átvállalhatja az (1) bekezdésben meghatározott járulékok (tagdíj) levonását, megfizetését és bevallását. A fizetési-, bevallási kötelezettség átvállalásának további feltétele a biztosított nyilatkozata arról, hogy a kötelezettség teljesítéséhez szükséges valamennyi adatot a foglalkoztató rendelkezésére bocsátja. Az átvállalt kötelezettség teljesítéséért a foglalkoztató és a biztosított egyetemlegesen felelnek.
+Tbj. 30. §
 
 ### A mezőgazdasági őstermelő járulékfizetése
 
 Tbj. 30/A. § (1) A mezőgazdasági őstermelő – ideértve a tevékenységét a tárgyévben kezdő mezőgazdasági őstermelőt is – a minimálbérnek megfelelő összeg után fizeti meg a 19. § (1) bekezdésében meghatározott nyugdíj-biztosítási, természetbeni és pénzbeli egészségbiztosítási járulékot, a 19. § (3) bekezdésében meghatározott természetbeni és pénzbeli egészségbiztosítási járulékot, valamint a nyugdíjjárulékot (tagdíjat).
 
-(2) Az (1) bekezdéstől eltérően az a mezőgazdasági őstermelő, akinek az e tevékenységéből származó, tárgyévet megelőző évben elért bevétele nem haladja meg az Szja tv. szerinti mezőgazdasági kistermelőre vonatkozó bevételi értékhatárt, az őstermelői tevékenységből származó, tárgyévet megelőző évi bevételének 20 százaléka után a 19. § (3) bekezdésében meghatározott mértékű természetbeni egészségbiztosítási járulékot és – a nyugdíj-biztosítási járulékot is magában foglaló – 9,5 százalék nyugdíjjárulékot fizet. Ha a mezőgazdasági őstermelő magánnyugdíjpénztár tagja, akkor 2,3 százalék tagdíjat és 7,2 százalék nyugdíjjárulékot fizet. Az Szja tv. szerinti mezőgazdasági kistermelőre vonatkozó bevételi értékhatár számításánál figyelmen kívül kell hagyni a jogszabály vagy nemzetközi szerződés rendelkezése alapján folyósított, egyébként bevételnek számító támogatást.
+(2) Az (1) bekezdéstől eltérően az a mezőgazdasági őstermelő, akinek az e tevékenységéből származó, tárgyévet megelőző évben elért bevétele nem haladja meg az Szja tv. szerinti mezőgazdasági kistermelőre vonatkozó bevételi értékhatárt, az őstermelői tevékenységből származó, tárgyévet megelőző évi bevételének 20 százaléka után a 19. § (3) bekezdésében meghatározott mértékű természetbeni egészségbiztosítási járulékot és – a nyugdíj-biztosítási járulékot is magában foglaló – 10 százalék nyugdíjjárulékot fizet. Ha a mezőgazdasági őstermelő magánnyugdíjpénztár tagja, akkor 2,3 százalék tagdíjat és 7,7 százalék nyugdíjjárulékot fizet. Az Szja tv. szerinti mezőgazdasági kistermelőre vonatkozó bevételi értékhatár számításánál figyelmen kívül kell hagyni a jogszabály vagy nemzetközi szerződés rendelkezése alapján folyósított, egyébként bevételnek számító támogatást.
 
-(3) A mezőgazdasági őstermelő a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében az adóévre vonatkozóan nyilatkozattal vállalhatja, hogy a 19. § (1)–(3) bekezdés szerinti járulékokat (tagdíjat) az (1)–(2) bekezdésben meghatározott járulékalapnál magasabb összeg után fizeti meg. A mezőgazdasági őstermelő a magasabb járulékalap választásáról a tárgyév első negyedévére vonatkozó járulékbevallásában nyilatkozik az állami adóhatóságnak. A nyilatkozat az Art. szerinti végrehajtható okiratnak minősül.
+(3) A mezőgazdasági őstermelő a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében az adóévre vonatkozóan nyilatkozattal vállalhatja, hogy a 19. § (1) bekezdésében meghatározott nyugdíj-biztosítási, természetbeni és pénzbeli egészségbiztosítási járulékot, a 19. § (3) bekezdésében meghatározott természetbeni és pénzbeli egészségbiztosítási járulékot, valamint a nyugdíjjárulékot (tagdíjat) az (1)–(2) bekezdésben meghatározott járulékalapnál magasabb összeg után fizeti meg. A mezőgazdasági őstermelő a magasabb járulékalap választásáról a tárgyév első negyedévére vonatkozó járulékbevallásában nyilatkozik az állami adóhatóságnak. A nyilatkozat az Art. szerinti végrehajtható okiratnak minősül.
 
 (4) A mezőgazdasági őstermelő járulékfizetési kötelezettségére a 29. § (4) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
@@ -439,9 +444,9 @@ Tbj. 31. § (1) Több biztosítási kötelezettséggel járó jogviszony egyidej
 
 (5) Amennyiben a társas vállalkozóként biztosított több gazdasági társaság személyesen közreműködő tagja, a 27. § (1) bekezdésében előírt legkisebb összegű járulékot – évente egy alkalommal történő választása szerint – egyszer kell figyelembe venni. A társas vállalkozó e választásáról a tárgyév január 31-éig nyilatkozik a társas vállalkozásnak.
 
-(6) Annak az egyéni vállalkozónak, aki egyben társas vállalkozóként is biztosított, egyéni vállalkozói járulékfizetési kötelezettsége a 29. § (1) bekezdése, illetőleg 29/A. § (1) bekezdése szerint áll fenn. Ez esetben a társas vállalkozásnál fennálló járulékfizetési kötelezettség alapja a ténylegesen elért, járulékalapot képező jövedelem. Az egyéni vállalkozó a társas vállalkozás részére a tárgyév január 31-éig tett nyilatkozat alapján évenként az adóév egészére választhatja, hogy a tevékenységre jellemző kereset, illetőleg – az Art. 31. § (2) bekezdésében meghatározott bevallásban tett bejelentés esetén – legalább a minimálbér után történő járulékfizetési kötelezettséget társas vállalkozóként teljesíti. E választása alapján az egyéni vállalkozásában, illetőleg a további tagsági jogviszonyában a (4) bekezdésben említett járulékalap után kell a járulékot megfizetni.
+(6) Annak az egyéni vállalkozónak, aki egyben társas vállalkozóként is biztosított, egyéni vállalkozói járulékfizetési kötelezettsége a 29. § (1) bekezdése, illetőleg 29/A. § (1) bekezdése szerint áll fenn. Ez esetben a társas vállalkozásnál fennálló járulékfizetési kötelezettség alapja a ténylegesen elért, járulékalapot képező jövedelem. Az egyéni vállalkozó a társas vállalkozás részére a tárgyév január 31-éig tett nyilatkozat alapján évenként az adóév egészére választhatja, hogy a legalább a minimálbér után történő járulékfizetési kötelezettséget társas vállalkozóként teljesíti. E választása alapján az egyéni vállalkozásában, illetőleg a további tagsági jogviszonyában a (4) bekezdésben említett járulékalap után kell a járulékot megfizetni.
 
-(7) A Magyar Honvédség, a rendvédelmi szervek, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja a további jogviszonyából származó jövedelme után nyugdíjjárulékot (tagdíjat) nem fizet.
+(7) A Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok és a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja a további jogviszonyából származó jövedelme után nyugdíjjárulékot (tagdíjat) nem fizet.
 
 Tbj. 32. §
 
@@ -460,7 +465,7 @@ Tbj. 34. § (1) Az a belföldi nagykorú személy, aki nem saját jogú nyugdíj
 - a) aki az 5. és a 13. §-ban említett biztosítási kötelezettséggel járó jogviszonyban nem áll, illetőleg akire a 11. § szerint a biztosítás nem terjed ki,
 - b) akinek biztosítása szünetel,
 
-nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából – magánnyugdíjpénztár tagja esetében a kötelező tagdíj mértékével csökkentett – 33,5 százalék nyugdíjbiztosítási és nyugdíjjárulék fizetésének vállalása mellett megállapodást köthet. A megállapodás megszűnik a tagdíjfizetésre kötött megállapodás megszűnésével.
+nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából – magánnyugdíjpénztár tagja esetében a kötelező tagdíj mértékével csökkentett – 34 százalék nyugdíjbiztosítási és nyugdíjjárulék fizetésének vállalása mellett megállapodást köthet. A megállapodás megszűnik a tagdíjfizetésre kötött megállapodás megszűnésével.
 
 (2) Az (1) bekezdés szerinti megállapodás szolgálati időre és nyugdíj alapjául szolgáló átlagkereset megszerzésére külön-külön nem köthető meg.
 
@@ -468,7 +473,7 @@ nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedel
 
 (4) Az (1) bekezdés alapján kötött megállapodás esetén a járulékfizetés alapja a megállapodást kötő személy által megjelölt jövedelem, legfeljebb azonban a megállapodás megkötésekor érvényes járulékfizetési felső határ napi összegének figyelembevételével a naptári hónapokra számított összeg, de legalább a megállapodás megkötése napján érvényes minimálbér összege. Amennyiben a megállapodást a minimálbér, vagy a járulékfizetési felső határ összegének figyelembevételével kötik meg, annak változása esetén a megállapodás alapján fizetendő nyugdíjbiztosítási és nyugdíjjárulékot, a változást követő hónap 12. napjáig kell a módosított összeg alapján megfizetni. Így kell eljárni akkor is, ha a megállapodást kötő személy az általa megjelölt jövedelmét módosítja. Ha a megállapodást kötő személy, kedvezményezett javára kötött megállapodás esetén a kedvezményezett a megállapodás időtartama alatt biztosítási kötelezettséggel járó jogviszonyban áll, a megállapodás alapján történő járulékfizetési kötelezettség szünetel.
 
-(5) Szolgálati idő szerzése érdekében megállapodást köthet a megállapodás megkötése napján érvényes minimálbér alapulvételével számított – magánnyugdíjpénztár tagja esetén a kötelező tagdíj mértékével csökkentett – 33,5 százalék nyugdíjbiztosítási és nyugdíjjárulék fizetésével az a nagykorú személy, aki
+(5) Szolgálati idő szerzése érdekében megállapodást köthet a megállapodás megkötése napján érvényes minimálbér alapulvételével számított – magánnyugdíjpénztár tagja esetén a kötelező tagdíj mértékével csökkentett – 34 százalék nyugdíjbiztosítási és nyugdíjjárulék fizetésével az a nagykorú személy, aki
 
 - a) felsőoktatási intézményben nappali rendszerű oktatás keretében folytatott tanulmányoknak a Tny. 41. §-a szerint figyelembe vehető idejét (ideértve a doktorandusz-képzést is),
 - b) a társadalombiztosítási öregségi teljes nyugdíjhoz a Tny.-ben meghatározott húsz év szolgálati idő, vagy – az igénylőre irányadó öregségi nyugdíjkorhatár 1997. december 31-e utáni betöltése esetén – az öregségi résznyugdíjhoz előírt tizenöt év szolgálati idő elérése érdekében kizárólag az említett öregségi résznyugdíjra, illetőleg öregségi teljes nyugdíjra jogosultsághoz szükséges hiányzó szolgálati idejét, legfeljebb azonban öt naptári évet
@@ -499,7 +504,7 @@ kívánja szolgálati időként elismertetni.
 
 Tbj. 35. § (1) A megállapodásnak tartalmaznia kell a szerződő felek megnevezését, címét, valamint a megállapodást kötő személynek, illetőleg a kedvezményezettnek a nyilvántartásra, adatszolgáltatásra vonatkozó rendelkezések szerinti adatait, a fizetendő járulék alapját vagy összegét, a szerződés keltét, s ha a járulékfizetési kötelezettség (a szerződés hatálya) ettől eltér, ennek időpontját.
 
-(2) Az egészségügyi szolgáltatásra megállapodás csak a megállapodás megkötését követő hónap első napjától kezdődő hatállyal, az első hónapra esedékes járulék egyidejű befizetése mellett köthető. Ezt követően a járulékot havonta előre, a tárgyhónapot közvetlenül megelőző hónap 12. napjáig kell megfizetni. A befizetés elmulasztása a megállapodás megszűnését vonja maga után. Az egészségügyi szolgáltatásra való jogosultság a megállapodás megszűnéséig áll fenn.
+(2) Az egészségügyi szolgáltatásra megállapodás csak a megállapodás megkötését követő hónap első napjától kezdődő hatállyal, az első hónapra esedékes járulék egyidejű befizetése mellett köthető. Ezt követően a járulékot havonta előre, a tárgyhónapot közvetlenül megelőző hónap 12. napjáig kell megfizetni. A befizetési határidő elmulasztása esetén a megállapodás megszűnik a járulék esedékességének napját magában foglaló naptári hónap utolsó napján, kivéve, ha addig a tartozást megfizetik. Az egészségügyi szolgáltatásra való jogosultság a megállapodás megszűnéséig áll fenn.
 
 (3) A 34. § (1) bekezdése és a (8) bekezdés b) pontja szerinti megállapodás a megkötése napján, legkorábban a tárgyhónap első napján jön létre. A tárgyhónap első napját megelőző időre megállapodás nem köthető. Ezt követően a nyugdíjbiztosítási járulékot, nyugdíjjárulékot a tárgyhónapot követő hónap 12. napjáig kell megfizetni. A befizetés elmulasztása a megállapodás megszűnését vonja maga után.
 
@@ -626,6 +631,11 @@ szerinti adatok igénylésére jogosultak.
 
 (5) Az igazgatási szervek, továbbá a társadalombiztosítási feladatokat ellátó foglalkoztató, illetőleg egyéb szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai és szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését.
 
+Tbj. 43/A. § Az állami adóhatóság elektronikus úton átadja az 56/A. § (6) bekezdésében meghatározott adatokat
+
+- a) az álláskeresési támogatások megállapítása és ellenőrzése céljából az állami foglalkoztatási szerv, az egészségbiztosítási ellátások ellenőrzése céljából az egészségbiztosítási szerv, a magán-nyugdíjpénztári tag folyószámlájának vezetéséhez a pénztártag magán-nyugdíjpénztára részére a bevallás benyújtására előírt határidőt követő hónap utolsó napjáig,
+- b) éves szinten összesítve a nyugdíjjogosultság és nyugdíj megállapítása céljából a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére a tárgyévet követő augusztus 31-éig.
+
 ### VII. Fejezet — A JÁRULÉKKÖTELEZETTSÉG TELJESÍTÉSÉNEK ELJÁRÁSI SZABÁLYAI
 
 ### Nyilvántartási és adatszolgáltatási kötelezettség teljesítése
@@ -666,6 +676,16 @@ a jogosultság kezdetét és megszűnését követő 10 napon belül köteles te
 (8) Ha az egészségbiztosítási szerv az egészségbiztosítási nyilvántartás adatkezelőjeként a nyilvántartás felülvizsgálata során azt állapítja meg, hogy a foglalkoztató, illetve egyéb bejelentésre kötelezett a bejelentési kötelezettségét nem, vagy nem jogszabály szerint teljesítette, 15 napos határidő kitűzésével felszólítja a bejelentésre kötelezettet, hogy igazolja a bejelentés szabályszerű teljesítését. Ha a bejelentésre kötelezett határidőben nem igazolja a bejelentés teljesítését, 100 ezer forintig terjedő mulasztási bírsággal sújtható. A kiszabható bírság felső határa a be nem jelentett személyek számának és a bírság legmagasabb értékének szorzata.
 
 (9) A (7)–(8) bekezdésben meghatározott mulasztási bírság kiszabásánál az egészségbiztosítási szerv mérlegeli az eset összes körülményét, a kötelezett jogellenes magatartásának vagy mulasztásának súlyát és gyakoriságát, amely alapján a mulasztás súlyához igazodó bírságot szab ki, vagy a bírság kiszabását mellőzi.
+
+(10) A hajléktalan személyekről az egészségbiztosítási szervnek bejelentést tesznek az alábbi intézmények vezetői:
+
+- a) hajléktalanok otthona,
+- b) hajléktalanok átmeneti szállása,
+- c) hajléktalanok rehabilitációs intézménye,
+- d) hajléktalanok éjjeli menedékhelye,
+- e) hajléktalanok nappali melegedője. A bejelentésről az intézmény vezetője igazolást ad ki a hajléktalan személy részére. A bejelentés és az igazolás érvényessége a bejelentés napját magában foglaló naptári hónapot követő hatodik naptári hónap utolsó napjáig tart.
+
+(11) A (10) bekezdésben meghatározott intézmény a bejelentés vagy az igazolás kiállításának elmulasztása miatt nem bírságolható.
 
 Tbj. 44/B. § (1) Az egészségbiztosítási szerv az egészségügyi szolgáltatást igénybe vevő, de az egészségügyi szolgáltatásra jogosultak nyilvántartásában nem szereplő személyekről a bejelentési- és járulékfizetési kötelezettség teljesítésének ellenőrzése céljából – külön megállapodásban foglaltak szerint – havonta adatot szolgáltat az állami adóhatóságnak.
 
@@ -708,7 +728,7 @@ Tbj. 47. § (1) A 46. § (2) bekezdése szerinti nyilvántartást a nyilvántart
 
 (2)
 
-(3) A foglalkoztató a jövedelemigazoláshoz csatoltan a tárgyévet követő év január 31. napjáig köteles a nyilvántartás adataival egyező igazolást kiadni a biztosított részére a tárgyévben fennállt biztosítási idő „tól–ig” tartamáról, a levont járulékok (tagdíj) összegéről, a foglalkoztató által megfizetett egészségbiztosítási- és munkaerő-piaci járulék összegéről és azok alapjáról. A biztosítással járó jogviszony év közben történő megszűnése esetén az igazolást soron kívül kell kiadni.
+(3) A foglalkoztató a jövedelemigazoláshoz csatoltan a tárgyévet követő év január 31. napjáig köteles a nyilvántartás adataival egyező igazolást kiadni a biztosított részére a tárgyévben fennállt biztosítási idő „tól–ig” tartamáról, a tárgyévre, illetve a tárgyévtől eltérő időre levont járulékok (tagdíj) összegéről, a foglalkoztató által megfizetett egészségbiztosítási- és munkaerő-piaci járulék összegéről és azok alapjáról. A biztosítással járó jogviszony év közben történő megszűnése esetén az igazolást soron kívül kell kiadni.
 
 (4) Amennyiben a 47. § (1) bekezdése szerinti bevallási kötelezettség teljesítése, vagy a már teljesített adatszolgáltatás módosítása a 2008. évet megelőző időszakra, illetőleg az Art.-ben meghatározott elévülési időn túli év(ek)re vonatkozik, az adatszolgáltatást a nyugdíj-biztosítási igazgatási szerv részére kell teljesíteni.
 
@@ -722,11 +742,11 @@ Tbj. 50. § (1) A foglalkoztató a biztosítottnak a tárgyhónapban kifizetett 
 
 (2) Az egyéni vállalkozó a társadalombiztosítási járulékot, az egészségbiztosítási- és munkaerő-piaci járulékot, valamint a nyugdíjjárulékot (tagdíjat) az Art. 31. §-ának (2) bekezdésében és 2. számú mellékletében meghatározottak szerint a tárgyhónapot követő hónap 12-éig vallja be, illetőleg fizeti meg az állami adóhatóságnak. Az eva adózó egyéni vállalkozó a járulékot (tagdíjat) az Eva tv.-ben meghatározottak szerint fizeti meg és vallja be.
 
-(3) Az 5. § (3) bekezdésében említett személy a járulékalapot képező jövedelme után fizetendő társadalombiztosítási járulékot, egészségbiztosítási- és munkaerő-piaci járulékot, valamint nyugdíjjárulékot (tagdíjat) a személyi jövedelemadóról benyújtott bevallásában vallja be, és a jövedelem kifizetését, juttatását követő hónap 12-éig fizeti meg az állami adóhatóságnak, kivéve, ha a járulék (tagdíj) megfizetését és bevallását a foglalkoztató a 30. § (2) bekezdése szerint átvállalta.
+(3)
 
 (4) A mezőgazdasági őstermelő a 19. § (1) bekezdésében meghatározott nyugdíj-biztosítási, természetbeni és pénzbeli egészségbiztosítási járulékot, a 19. § (3) bekezdésében meghatározott természetbeni és pénzbeli egészségbiztosítási járulékot, valamint a nyugdíjjárulékot (tagdíjat) az Art. 31. §-ának (2) bekezdése szerinti adattartalommal elektronikus úton negyedévente, a negyedévet követő hónap 12-éig vallja be és a bevallás benyújtására előírt határidőig fizeti meg az állami adóhatóságnak.
 
-(5) A foglalkoztató a biztosítottat terhelő járulékot (tagdíjat) akkor is köteles bevallani és befizetni, ha annak levonása a tárgyhónapban kifizetett jövedelemből nem lehetséges. A biztosítottat terhelő járulék (tagdíj) elszámolására az Art. szabályait kell alkalmazni. Ha a járulékkötelezettség nem pénzbeli jövedelem után áll fenn, a nyugdíjjárulékot (tagdíjat) és az egészségbiztosítási- és munkaerő-piaci járulékot a biztosított helyett a foglalkoztató köteles megfizetni.
+(5) A foglalkoztató a biztosítottat terhelő járulékot (tagdíjat) akkor is köteles bevallani és befizetni, ha annak levonása a tárgyhónapban kifizetett jövedelemből nem lehetséges. A megelőlegezett járulékot (tagdíjat) a foglalkoztató a biztosítottal szemben fennálló követelésként veszi nyilvántartásba.
 
 (6) A foglalkoztató írásban tájékoztatja a biztosítottat a tárgyhavi jövedelem kifizetésével egyidejűleg az általa megfizetett társadalombiztosítási járulékról, a biztosított jövedelméből levont egészségbiztosítási- és munkaerő-piaci járulékról, valamint nyugdíjjárulékról (tagdíjról), illetőleg a részére túlvonás miatt visszafizetett (átutalt) járulékokról, a társas vállalkozás a kiegészítő tevékenységet folytató társas vállalkozót az egészségügyi szolgáltatási járulékról.
 
@@ -760,7 +780,7 @@ Tbj. 52. § (1) A társadalombiztosítási kifizetőhelyet fenntartó foglalkozt
 
 (3) A társas vállalkozás köteles a tagjának biztosítási kötelezettség alá eső segítő családtagja után fizetendő járulékot a társas vállalkozó jövedelméből levonni és az egyéb járulékokkal együtt elszámolni és befizetni. Amennyiben a tagnak a járulék elszámolásakor jövedelme nincs, a segítő családtag után fizetendő járulékot a társas vállalkozás köteles megelőlegezni, elszámolni és befizetni.
 
-(4) A társas vállalkozás köteles a társas vállalkozó után fizetendő járulékot, a társas vállalkozó jövedelméből levont járulékkal együtt a tárgyhónapot követő hónap 12. napjáig befizetni. Amennyiben a tárgyhónapban a társas vállalkozó(k) részére jövedelmet nem fizettek és a tárgyév folyamán – a tárgyhónapig bezárólag – elszámolt járulék a tevékenységre jellemző kereset, bejelentés esetén a minimálbér után számított járulék összegét nem éri el, a társas vállalkozás a tevékenységre jellemző kereset, bejelentés esetén a minimálbér utáni járulékot köteles a társas vállalkozó helyett megelőlegezni, és azt a törvényben előírt határidőn belül befizetni.
+(4) A társas vállalkozás köteles a társas vállalkozó után fizetendő járulékot, a társas vállalkozó jövedelméből levont járulékkal együtt a tárgyhónapot követő hónap 12. napjáig befizetni. Amennyiben a tárgyhónapban a társas vállalkozó(k) részére jövedelmet nem fizettek és a tárgyév folyamán – a tárgyhónapig bezárólag – elszámolt járulék a minimálbér után számított járulék összegét nem éri el, a társas vállalkozás a minimálbér utáni járulékot köteles a társas vállalkozó helyett megelőlegezni, és azt a törvényben előírt határidőn belül befizetni.
 
 (5)
 
@@ -799,7 +819,10 @@ Tbj. 54. § (1) Az igazgatási szervek – jogszabályban meghatározott hatásk
 
 (3) A (2) bekezdés a) pontjában meghatározott igazgatási szervek – igényelbírálási eljárásuk során – ellenőrizhetik a járulékfizetési kötelezettség teljesítését és a mulasztásról értesítik az állami adóhatóságot.
 
-Tbj. 55. §
+Tbj. 55. § Az a természetes személy, jogi személy vagy egyéb jogalany, aki (amely)
+
+- a) valótlan adatok közlésével olyan személyt jelentett be, akire a biztosítás nem terjed ki, vagy
+- b) a járulékokat (tagdíjat) jogellenesen a tényleges járulékalapot képező jövedelemnél magasabb összeg után állapította meg és vallotta be, a jogsértés időtartamára – a bejelentés vagy bevallás megalapozatlanságától függetlenül – köteles a társadalombiztosítási járulékot, a b) pont szerinti esetben a magasabb összeg utáni társadalombiztosítási járulékot megfizetni.
 
 ### Késedelem, mulasztás következményei
 
@@ -813,11 +836,38 @@ Tbj. 56. § (1) Az adózás rendjéről szóló törvény rendelkezéseit az e t
 
 (3)
 
-### Képviselet
+### Különös szabályok a járulékkötelezettségek teljesítésére vonatkozóan
 
-Tbj. 56/A. § (1) A magyar jogszabályok szerint bejegyzésre nem kötelezett külföldi munkáltatónak a Magyar Köztársaság területén biztosítási kötelezettséggel járó jogviszony keretében munkát végző vagy kiküldetésben lévő munkavállalója (foglalkoztatottja) biztosítási jogviszonyával kapcsolatos jogok és kötelezettségek tekintetében a külföldi munkáltató (foglalkoztató) képviseletére az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 7. §-át kell alkalmazni. A képviseletre vonatkozó meghatalmazás hiányában a külföldi munkáltató (foglalkoztató) képviseletét ellátó személynek a munkavállalót (foglalkoztatottat) kell tekinteni.
+Tbj. 56/A. § (1) A magyar jogszabályok szerint bejegyzésre nem kötelezett külföldi foglalkoztató (a továbbiakban: külföldi vállalkozás) javára biztosítási kötelezettséggel járó jogviszony keretében munkát végző foglalkoztatott részére kifizetett járulékalapot képző jövedelem után a külföldi vállalkozás a 19. § (1) bekezdésében meghatározott mértékű társadalombiztosítási járulékot fizet, és a jövedelemből a 19. § (2)–(3) bekezdéseiben meghatározott járulékokat, illetve magán-nyugdíjpénztári tagság esetén a 33. § szerinti magán-nyugdíjpénztári tagdíjat von le.
 
-(2) Ha a biztosított foglalkoztatására kirendelés alapján kerül sor, és a munkáltatók megállapodása alapján a munkavállaló munkabérét és az ezzel járó közterheket az a munkáltató fizeti, amelyhez a munkavállalót kirendelték, akkor a bejelentési-, nyilvántartási kötelezettség, továbbá a járulék megállapításának, bevallásának és megfizetésének kötelezettsége azt a munkáltatót terheli, amelyhez a munkavállalót kirendelték.
+(2) A külföldi vállalkozás a biztosítási kötelezettséggel járó jogviszonnyal összefüggő bejelentési, járulékfizetési és bevallási kötelezettséget az Art. 8. és 9. §-ában meghatározott képviselő útján, ennek hiányában közvetlenül saját maga teljesíti. Ha a külföldi vállalkozás a járulékkötelezettséget közvetlenül teljesíti, a biztosítás kezdetét megelőzően köteles bejelentkezni az állami adóhatóságnál, és kérelmezni, hogy az állami adóhatóság foglalkoztatói minőségében vegye nyilvántartásba.
+
+(3) Ha a külföldi vállalkozás a járulékkötelezettségek teljesítésére nem rendelkezik Art. szerinti képviselővel, és a (2) bekezdésben foglalt bejelentkezést is elmulasztja, az általa foglalkoztatott természetes személy biztosításával összefüggő bejelentési, járulékfizetési és bevallási kötelezettséget a foglalkoztatott teljesíti, és viseli a járulékkötelezettségek elmulasztása miatti jogkövetkezményeket (ide nem értve a mulasztási bírságot és az adóbírságot).
+
+(4) Ha a munkavállaló magyarországi foglalkoztatására
+
+- a) kirendelés alapján kerül sor, és a munkáltatók megállapodása alapján a munkavállaló munkabérét és az ezzel járó közterheket az a munkáltató fizeti, amelyhez a munkavállalót kirendelték,
+- b) munkaerő-kölcsönzés keretében kerül sor, és a kölcsönbeadó külföldi vállalkozás, e foglalkoztatással összefüggésben a bejelentés és nyilvántartás, valamint a járulék megállapításának, bevallásának és megfizetésének kötelezettsége az a) pont szerinti esetben azt a munkáltatót terheli, amelyhez a munkavállalót kirendelték, a b) pont szerinti esetben a belföldön bejegyzett kölcsönvevőt terheli.
+
+(5) A (2)–(3) bekezdés szerinti kötelezett a biztosítási és járulékfizetési kötelezettséggel összefüggő bevallási, adatszolgáltatási kötelezettségét havonta, a tárgyhónapot követő hónap 12-éig – a (6) bekezdésben meghatározott adattartalommal – elektronikus úton teljesíti az állami adóhatóság részére. A (2)–(3) bekezdés szerinti kötelezettet a 44. §-ban és a 46–47. §-ban, valamint az 50. § (6) bekezdésben meghatározott nyilvántartási és igazolási kötelezettség nem terheli.
+
+(6) Az (5) bekezdésben meghatározott járulékbevallás tartalmazza:
+
+- a) a külföldi vállalkozás nevét, székhelyét, adóazonosító számát,
+- b) a foglalkoztatott természetes személyazonosító adatait, nemét, állampolgárságát,
+- c) a foglalkoztatott taj-számát, adóazonosító jelét,
+- d) a járulékfizetési felső határig terjedő és az afölötti járulékalapra, a járulékok összegére, a biztosítási (foglalkoztatási) idő „tól-ig” tartamára és a magán-nyugdíjpénztári tag biztosított magán-nyugdíjpénztárára vonatkozó adatot,
+- e) annak az időszaknak a megjelölését, amely alatt a biztosított természetes személy járulékalapot képező jövedelemmel nem rendelkezett, és
+- f) a külföldi vállalkozásnak az illetősége szerinti állam hatósága által megállapított adóazonosító számát, ha a járulékkötelezettséget a (3) bekezdés szerint a foglalkoztatott teljesíti.
+
+(7) Az (1) bekezdés szerinti járulékokat a (2)–(3) bekezdése szerinti kötelezett egy beszedési számlára fizeti meg. A megfizetett járulékból az állami adóhatóság
+
+- a) 76,4 százalékot a Nyugdíjbiztosítási Alapnak,
+- b) 18 százalékot az Egészségbiztosítási Alapnak,
+- c) 5,6 százalékot a Munkaerőpiaci Alapnak,
+- d) 0 százalékot a biztosított magánnyugdíjpénztárának
+
+utal át.
 
 Tbj. 56/B. § A kincstár számfejtési körébe tartozó központi költségvetési szervek képviselőjeként a kincstár teljesíti a járulék megállapításával, bevallásával, megfizetésével, a nyilvántartással és adatszolgáltatással, valamint a biztosítottak bejelentésével összefüggő, e törvényben és az Art.-ben előírt kötelezettségeket.
 
@@ -857,5 +907,13 @@ Tbj. 61. § Ez a törvény a következő uniós jogi aktusoknak való megfelelé
 
 - a) a Tanács 2003/109/EK tanácsi irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 11. cikk (1) bekezdés d) pont és 21. cikk;
 - b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.
+
+### Átmeneti rendelkezések
+
+Tbj. 62. § (1) E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel megállapított rendelkezéseit a 2011. január 1-jén és azt követően megszerzett jövedelmekre és keletkezett járulék-fizetési kötelezettségekre kell alkalmazni, azzal, hogy e törvény 2010. december 31-én hatályos 19. § (2) és (7) bekezdését és 30/A. § (2) és (5) bekezdését kell alkalmazni a 2011. január 10-éig megszerzett és 2010. december havi járulékalapot képező olyan jövedelemre, amelyet a 2010. december hónapra vonatkozóan benyújtott bevallásban kell bevallani.
+
+(2) Az adóellenőrzés során a Tbj. 2010. december 31-én hatályos 27., 29. és 29/A. §-a alapján járulékfizetésre kötelezett terhére utólagos adómegállapítás keretében nem állapítható meg mulasztási bírság és adóbírság a tevékenységre jellemző kereset jogellenes megállapításával összefüggésben.
+
+Tbj. 63. § A Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvények módosításáról szóló 2010. évi CLIII. törvény 33. §-ával megállapított 19. § (2) bekezdés b) pontját a 2011. február 1-jén, és az azt követően megszerzett jövedelmekre kell alkalmazni.
 
 ### Melléklet az 1997. évi LXXX. törvényhez

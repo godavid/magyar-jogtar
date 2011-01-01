@@ -50,9 +50,7 @@ A pénzügyi közvetítőrendszernek a gazdaság egészének működésében bet
 
 ### A PÉNZÜGYI KÖZVETÍTŐRENDSZER STABILITÁSÁNAK MEGŐRZÉSE ÉS BIZTOSÍTÁSA ÉRDEKÉBEN MEGHOZHATÓ INTÉZKEDÉSEK
 
-4. § (1) A Nemzetközi Valutaalaptól 2008–2010. években felvett hitel összegéből legfeljebb háromszázmilliárd forint értékű devizaösszeget a Magyar Állam az MNB-nél külön erre a célra megnyitott számlákon helyez el azzal, hogy a forintösszeg meghatározása az elhelyezés napján érvényes, MNB által közzétett hivatalos devizaárfolyamon történik.
-
-(2) Az (1) bekezdés szerinti számlákon lévő szabad pénzeszközt az államháztartásért felelős miniszter az MNB útján kezeli. E pénzeszköz kezelésének szabályairól az államháztartásért felelős miniszter az MNB elnökével megállapodást köt.
+4. §
 
 ### Az intézkedések közös szabályai
 
@@ -61,9 +59,9 @@ A pénzügyi közvetítőrendszernek a gazdaság egészének működésében bet
 - a)
 - b) tőkét emelhet a hitelintézetben.
 
-(2) A Magyar Állam az (1) bekezdésben meghatározott intézkedésből eredő kiadásait a 4. § (1) bekezdésében meghatározott számla terhére teljesíti. A forintban történő kifizetések teljesítéséhez a számlát a kifizetés napján érvényes MNB által közzétett hivatalos devizaárfolyamon számítva kell terhelni.
+(2)
 
-(3) Az (1) és (2) bekezdésben meghatározott esetekben a Magyar Állam nevében az államháztartásért felelős miniszter jár el.
+(3) Az (1) bekezdésben meghatározott esetekben a Magyar Állam nevében az államháztartásért felelős miniszter jár el.
 
 ### A garanciavállalás szabályai
 
@@ -106,6 +104,12 @@ kerülhet sor.
 (5) A Magyar Állam javára e törvény szerint történő részesedésszerzés, valamint a részvényesi jogok gyakorlása esetében a Vtv. rendelkezéseit nem kell alkalmazni.
 
 (6) A Magyar Állam tekintetében a (2) bekezdésben meghatározott tőkeemelésre, illetőleg a befolyásszerzésre a Tpt. befolyásszerzésre, a Gt. minősített befolyásszerzésre, a kisebbségi részvényesi jogok gyakorlására, a Tpvt. vállalatok összefonódására vonatkozó szabályait, a Hpt. befolyásoló részesedés megszerzésére vonatkozó szabályait, valamint a jogosult hitelintézet alapszabályában foglalt, egy részvényes vagy részvényesi csoport által gyakorolható szavazati jog legmagasabb mértékét előíró rendelkezéseit nem kell alkalmazni.
+
+9/A. § Az 5. § (1) bekezdés b) pontja szerinti tőkeemelésben részesült hitelintézetnek a Hpt. javadalmazási politikára vonatkozó rendelkezéseit a következő eltérésekkel kell alkalmazni:
+
+- a) a teljesítményjavadalmazást a nettó bevétel százalékában kell meghatározni, ha az nincs összhangban a hitelintézet prudenciális követelményeknek való megfelelésével és a tőkeemelés időben történő megszüntetésével,
+- b) a 8. § (2) bekezdés b) pontja szerinti megállapodásban rendelkezni kell a hitelintézet javadalmazási politikájának a hatékony kockázatkezeléssel és a hosszú távú növekedéssel összhangban álló átalakításáról, ideértve a vezető állású személyek teljes javadalmazásának csökkentését is,
+- c) a hitelintézet vezető állású személyei kizárólag a 8. § (2) bekezdés b) pontja szerinti megállapodásban meghatározott esetben kaphatnak teljesítményjavadalmazást.
 
 ### A különleges osztalékelsőbbséget biztosító részvény
 
@@ -296,9 +300,9 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 
 ### Átmeneti rendelkezések
 
-24. § (1) A Magyar Állam az e törvényben foglalt intézkedéseiről – ide nem értve az államháztartásért felelős miniszternek a különleges osztalékelsőbbségi részvény tekintetében az eladási joga gyakorlására vonatkozó döntését – 2010. december 30-ig dönthet.
+24. § (1) A Magyar Állam az e törvényben foglalt intézkedéseiről – ide nem értve az államháztartásért felelős miniszternek a különleges osztalékelsőbbségi részvény tekintetében az eladási joga gyakorlására vonatkozó döntését – 2011. június 30-ig dönthet.
 
-(2) A 2010. december 31-ig meghozott döntés alapján a Magyar Államnak és a hitelintézetnek a 4–19. §-okban foglaltak szerint kell eljárnia akkor is, ha e törvény hatályát veszti.
+(2) A 2011. július 1-ig meghozott döntés alapján a Magyar Államnak és a hitelintézetnek a 4–19. §-okban foglaltak szerint kell eljárnia akkor is, ha e törvény hatályát veszti.
 
 (3) Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 127. és 128. §-ával megállapított 10. § (2a) bekezdés, 12. § (6) és (7) bekezdés a hatálybalépését megelőzően megvalósult tőkeemelésre is alkalmazható.
 

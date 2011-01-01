@@ -65,7 +65,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 - 33. telephely szerinti ország: az az ország,
   - a) amelynek hatósága a gépjárművet állandó vagy ideiglenes hatósági jelzéssel ellátta, vagy
   - b) amelyben a hatósági jelzés viselésére nem kötelezett gépjárművek esetében a tulajdonos vagy a gépjármű felett egyébként rendelkezési jogot gyakorló személy (jogi személy, jogi személyiség nélküli szervezet) állandó lakóhelye (székhelye), illetve szokásos tartózkodási helye (az érintett telephelye, fióktelepe) található;
-- 34. türelmi idő: a díj esedékességétől számított hatvannapos időszak, melynek a díj megfizetése nélkül történő leteltével a szerződés – amennyiben egyéb okból még nem szűnt meg – díjnemfizetéssel megszűnik; [34. türelmi idő: a díj esedékességétől számított hatvannapos időszak, melynek a díj – esedékességtől számított negyvenöt napon belüli – megfizetése nélkül történő leteltével a szerződés – amennyiben egyéb okból még nem szűnt meg – az esedékességtől számított hatvanadik nap elteltével díjnemfizetéssel megszűnik;]
+- 34. türelmi idő: a díj esedékességétől számított hatvannapos időszak, melynek a díj megfizetése nélkül történő leteltével a szerződés – amennyiben egyéb okból még nem szűnt meg – díjnemfizetéssel megszűnik;
 - 35. üzemben tartó: a gépjármű telephelye szerinti ország hatóságai által kibocsátott okiratba bejegyzett üzemben tartó (engedélyes, engedély jogosultja), ennek hiányában a tulajdonos;
 - 36. zöldkártya: a zöldkártyarendszer országaiban elfogadott, egységes szabványnak megfelelő nemzetközi gépjármű-felelősségbiztosítási igazolvány (kártya), amelyet a nemzeti iroda nevében a biztosítási szerződésnek megfelelően a biztosítók állítanak ki az üzemben tartó számára, a meglátogatott országban megkövetelt gépjármű-felelősségbiztosítási fedezet meglétének igazolására;
 - 37. zöldkártyarendszer: a nemzeti irodák közötti megállapodások alapján az ezen megállapodásokban részes országok rendszere, mely rendszerhez tartozó országok hatóságai a zöldkártyában megtestesülő igazolást az országban megkövetelt gépjármű-felelősségbiztosítási fedezet igazolásául elfogadják.
@@ -245,19 +245,11 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (4) Ha az esedékes biztosítási díjat nem fizetik meg, a biztosító a díj esedékességétől számított harmincadik nap elteltéig – a következményekre történő figyelmeztetés mellett – a szerződő félnek a díj esedékességétől számított hatvannapos póthatáridővel, igazolható módon a teljesítésre vonatkozó felszólítást küld. A türelmi idő eredménytelen leteltével a szerződés – amennyiben egyéb okból még nem szűnt meg – az esedékességtől számított hatvanadik napon megszűnik.
 
-[(4) Ha az esedékes biztosítási díjat nem fizetik meg, a biztosító a díj esedékességétől számított harmincadik nap elteltéig – a következményekre történő figyelmeztetés mellett – a szerződő félnek a díj esedékességétől számított negyvenötnapos póthatáridővel, igazolható módon a teljesítésre vonatkozó felszólítást küld. A türelmi idő leteltével a szerződés – amennyiben egyéb okból még nem szűnt meg – az esedékességtől számított hatvanadik napon megszűnik.]
-
 (5) A biztosító köteles a szerződés megszűnéséről 15 napon belül az üzemben tartónak igazolható módon értesítést küldeni, amennyiben a szerződés megszűnése díjnemfizetés miatt következett be.
 
-[(5) A biztosító köteles a szerződés díjnemfizetés miatti megszűnéséről a póthatáridő leteltét követő 15 napon belül az üzemben tartónak igazolható módon értesítést küldeni.
+(6) Ha a szerződés díjnemfizetés miatti megszűnése az üzemben tartó önhibáján kívül eső okból következik be, az üzemben tartó a megszűnés tudomására jutásától számított 15 napon belül, de legkésőbb a megszűnést követő 2 hónapon belül, kizárólag az önhiba hiányát alátámasztó tények hitelt érdemlő igazolásával kezdeményezheti a jövőre nézve – egy adott biztosítási időszakon belül – az eredetivel egyező szerződéses állapot helyreállítását.
 
-(6) A biztosító köteles a szerződés (5) bekezdés szerinti díjnemfizetés miatt bekövetkező megszűnése esetén a kötvénynyilvántartó szerv felé a 49. § alapján fennálló értesítési kötelezettségének a díj esedékességétől számított hatvanadik napon – ha az nem munkanap, úgy az azt követő első munkanapon – eleget tenni.
-
-(7) Ha az üzemben tartó a biztosítónál a díj esedékességétől számított hatvanadik napig – a díj esedékességétől számított hatvanadik napot követő napon kezdődő hatállyal – új szerződést kötött, úgy a biztosító köteles a 49. § alapján fennálló értesítési kötelezettségének a (6) bekezdésben meghatározott értesítéssel egyidejűleg eleget tenni.]
-
-(6) [(8)] Ha a szerződés díjnemfizetés miatti megszűnése az üzemben tartó önhibáján kívül eső okból következik be, az üzemben tartó a megszűnés tudomására jutásától számított 15 napon belül, de legkésőbb a megszűnést követő 2 hónapon belül, kizárólag az önhiba hiányát alátámasztó tények hitelt érdemlő igazolásával kezdeményezheti a jövőre nézve – egy adott biztosítási időszakon belül – az eredetivel egyező szerződéses állapot helyreállítását.
-
-(7) [(9)] Az üzemben tartó a szerződéses állapot (6) bekezdés szerinti helyreállítására akkor jogosult, ha a szerződés megszűnéséig esedékessé vált díjat a biztosítónak megfizeti, és a szerződés díjnemfizetéssel történő megszűnését követően a szerződéses állapot helyreállításáig a gépjármű nem vett részt a közúti forgalomban, illetve azzal kárt nem okoztak.
+(7) Az üzemben tartó a szerződéses állapot (6) bekezdés szerinti helyreállítására akkor jogosult, ha a szerződés megszűnéséig esedékessé vált díjat a biztosítónak megfizeti, és a szerződés díjnemfizetéssel történő megszűnését követően a szerződéses állapot helyreállításáig a gépjármű nem vett részt a közúti forgalomban, illetve azzal kárt nem okoztak.
 
 ### Fedezetlenségi díj megfizetésére vonatkozó szabályok
 
@@ -360,7 +352,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (2) A biztosító a gépjárműben keletkezett kár helyreállításához szükséges költségek általános forgalmi adóval növelt összegét a károsultnak csak akkor térítheti meg, ha a károsult által bemutatott számla tartalmazza a gépjármű helyreállításához szükséges munkálatok megnevezését, anyagköltségét és munkadíját, valamint az a számvitelről szóló törvény előírásainak megfelel. Ellenkező esetben a biztosító a gépjárműben keletkezett kárként az (1) bekezdés szerinti nettó összeget, illetve – amennyiben az értékcsökkenés fizetésének feltétele fennáll – az értékcsökkenés összegét téríti meg.
 
-32/B. § (1) Ha a biztosító úgy ítéli meg, hogy a közlekedési balesettel érintett gépjármű kormányműve, futóműve, illetve karosszériája (alváza) olyan károsodást szenvedett, amely miatt a közúti forgalomban való további részvételre közlekedésbiztonsági szempontból alkalmatlannak tekinthető és a helyreállítás – a jogosult erre irányult nyilatkozata alapján – nem történik meg, a kárfelvételi eljárás befejezésétől számított 8 munkanapon belül – az alkalmatlanság okának feltüntetésével – értesíti a közlekedési hatóságot, kivéve, ha a károsult a hulladékká vált gépjárművekről szóló jogszabály hatálya alá tartozó gépjármű esetén annak bontási átvételi igazolását a biztosítónak bemutatja.
+32/B. § (1) Ha a biztosító úgy ítéli meg, hogy a közlekedési balesettel érintett gépjármű kormányműve, futóműve, illetve karosszériája (alváza) olyan károsodást szenvedett, amely miatt a közúti forgalomban való további részvételre közlekedésbiztonsági szempontból alkalmatlannak tekinthető és a helyreállítás – a jogosult erre irányult nyilatkozata alapján – nem történik meg, a kárfelvételi eljárás befejezésétől számított tíz napon belül – az alkalmatlanság okának feltüntetésével – értesíti a közlekedési hatóságot, kivéve, ha a károsult a hulladékká vált gépjárművekről szóló jogszabály hatálya alá tartozó gépjármű esetén annak bontási átvételi igazolását a biztosítónak bemutatja.
 
 (2) A gépjárműben keletkezett károsodás esetén a biztosító a kár helyreállításához szükséges teljes költséget biztosítási szolgáltatása keretében csak akkor térítheti meg a károsultnak, ha a közlekedési hatóság a gépjármű műszaki vizsgálata eredményeként
 
@@ -537,8 +529,6 @@ változás következik be.
 45. § (1) A biztosítási fedezet fennállásának az ellenőrzésre jogosult hatóság eljárása során történő tanúsítására a külön rendeletben meghatározott igazolóeszköz szolgál.
 
 (2) Ha a járműnyilvántartás és a kötvénynyilvántartás kötvénynyilvántartó szerv általi negyedéves összevetésével, vagy az ellenőrzésre jogosult hatóság eljárása során megállapítást nyer, hogy a gépjárműre nincs érvényes biztosítási fedezet, a kötvénynyilvántartó szerv, illetve a hatóság értesítése alapján az üzemben tartó lakóhelye (székhelye) szerinti illetékes jegyző a külön jogszabályban meghatározott módon a gépjárművet kivonja a forgalomból.
-
-[(2) Ha a járműnyilvántartás és a kötvénynyilvántartás kötvénynyilvántartó szerv általi negyedéves összevetésével, továbbá a biztosító 21. § (6) bekezdésben foglalt intézkedését követően a kötvénynyilvántartó szerv értesítése alapján, vagy az ellenőrzésre jogosult hatóság eljárása során megállapítást nyer, hogy a gépjárműre nincs érvényes biztosítási fedezet, a kötvénynyilvántartó szerv, illetve a hatóság értesítése alapján az üzemben tartó lakóhelye (székhelye) szerinti illetékes jegyző a külön jogszabályban meghatározott módon a gépjárművet kivonja a forgalomból.]
 
 (3) A Magyar Honvédség által üzemben tartott gépjárművek biztosítási fedezetének igazolására a Magyar Honvédség nevére kiállított forgalmi engedély szolgál.
 

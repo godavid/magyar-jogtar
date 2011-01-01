@@ -43,7 +43,8 @@ a következő törvényt alkotja:
 - u) atomkár: az emberélet elvesztése, a személyek testi épségében és egészségében keletkezett minden kár, minden anyagi kár, az ezekkel együttesen jelentkező környezeti kár ésszerű mértékű helyreállításának költsége, valamint a károk csökkentése vagy elhárítása érdekében ténylegesen végrehajtott, ésszerű és szükséges intézkedéssel kapcsolatosan felmerült költség, amennyiben azokat a nukleáris üzemanyag, a nukleáris létesítményben lévő radioaktív termék, hulladék vagy a nukleáris létesítményből származó, abból kiszállított, illetőleg oda küldött nukleáris anyag révén a létesítményben vagy a szállítás során bekövetkezett rendkívüli esemény okozta;
 - v) nukleáris baleset: minden olyan rendkívüli esemény, amely atomkárt okoz;
 - x) SDR: Special Drawing Rights (különleges lehívási jog) – a Nemzetközi Valuta Alap által meghatározott nemzetközi elszámolási egység;
-- y) ésszerűen elérhető legalacsonyabb szint: a tudományos, technikai, gazdasági és társadalmi adottságok figyelembevételével kialakított, a nemzetközi elvárásokkal összhangban lévő legkisebb érték.
+- y) ésszerűen elérhető legalacsonyabb szint: a tudományos, technikai, gazdasági és társadalmi adottságok figyelembevételével kialakított, a nemzetközi elvárásokkal összhangban lévő legkisebb érték;
+- z) ártalmatlanítás (végleges elhelyezés): nukleáris anyagok vagy más radioaktív anyagok veszélyeztető hatásának a kizárása, a környezet elemeitől történő elszigeteléssel.
 
 ### Alapelvek
 
@@ -180,10 +181,10 @@ a következő törvényt alkotja:
 
 (3) A kérelemre indult eljárásban az ügyfelet értesíteni kell az eljárás megindításáról:
 
-- a) a 17. § (2) bekezdésének a), o) és q) pontja szerinti kérelem beérkezésétől számított 22 munkanapon belül,
-- b) a 17. § (2) bekezdésének c), d), m), n), p) és r) pontja szerinti kérelem beérkezésétől számított 7 munkanapon belül.
+- a) a 17. § (2) bekezdésének a), o) és q) pontja szerinti kérelem beérkezésétől számított harminc napon belül,
+- b) a 17. § (2) bekezdésének c), d), m), n), p) és r) pontja szerinti kérelem beérkezésétől számított tíz napon belül.
 
-(4) Ha az ügyfél a kérelmet hiányosan nyújtotta be, őt az eljáró hatóság a 17. § (2) bekezdésének a) pontja szerinti eljárásoknál a kérelem beérkezésétől számított 4 hónapon belül, míg a 17. § (2) bekezdésének c), d), m) és n) pontja szerinti eljárásoknál 22 munkanapon belül hiánypótlásra hívja fel.
+(4) Ha az ügyfél a kérelmet hiányosan nyújtotta be, őt az eljáró hatóság a 17. § (2) bekezdésének a) pontja szerinti eljárásoknál a kérelem beérkezésétől számított 4 hónapon belül, míg a 17. § (2) bekezdésének c), d), m) és n) pontja szerinti eljárásoknál harminc napon belül hiánypótlásra hívja fel.
 
 (5) Az egészségügyi államigazgatási szerv atomenergia alkalmazásával összefüggő, radioaktív anyagok közúti szállításának engedélyezésével, létesítményekkel, berendezésekkel, tevékenységekkel, radioaktív hulladék elhelyezésével, eszköz, berendezés vagy az ionizáló sugárzás elleni védőeszköz sugárvédelmi minősítésével, sugárvédelmi képzéssel, személyi dozimetriai ellenőrzésével és a belső sugárterhelés meghatározásával kapcsolatos, kérelemre lefolytatott eljárásáért vagy igazgatási jellegű szolgáltatásáért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
 
@@ -192,7 +193,7 @@ a következő törvényt alkotja:
 12. § (1) Az ügyintézés határideje:
 
 - a) a 17. § (2) bekezdésének a), o) és q) pontja szerinti ügyekben 6 hónap;
-- b) a 17. § (2) bekezdésének c), d), m), n), p) és r) pontja szerinti ügyekben 45 munkanap.
+- b) a 17. § (2) bekezdésének c), d), m), n), p) és r) pontja szerinti ügyekben két hónap.
 
 (2) Az eljáró hatóság vezetője az ügyintézési határidőt indokolt esetben egy alkalommal, a 17. § (2) bekezdésének a), o) és q) pontja szerinti ügyekben legfeljebb három hónappal meghosszabbíthatja. Erről értesíteni kell az ügyfelet és mindazokat, akiket az eljárás megindításáról értesítettek.
 
@@ -368,7 +369,7 @@ a következő törvényt alkotja:
 
 (4) Ha a tulajdont szerző természetes személy, illetve a Polgári Törvénykönyv szerinti gazdálkodó szervezet képviseleti joggal rendelkező tagjai az (1) bekezdésben meghatározott igazolási kötelezettségnek a hatósági jóváhagyás iránti kérelem benyújtásától számított harminc napon belül nem tesznek eleget, a jóváhagyás nem adható meg.
 
-(5) Ha az egészségügyi államigazgatási szerv a (2) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy a tulajdont szerző természetes személy, illetve a Polgári Törvénykönyv szerinti gazdálkodó szervezet képviseleti joggal rendelkező valamely tagja nem felel meg a 21. § (3) bekezdés a) pontjában meghatározott követelménynek, felhívja a nevezettet, hogy harminc munkanapon belül a tulajdonjogot szüntesse meg, és erről értesítse az egészségügyi államigazgatási szervet.
+(5) Ha az egészségügyi államigazgatási szerv a (2) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy a tulajdont szerző természetes személy, illetve a Polgári Törvénykönyv szerinti gazdálkodó szervezet képviseleti joggal rendelkező valamely tagja nem felel meg a 21. § (3) bekezdés a) pontjában meghatározott követelménynek, felhívja a nevezettet, hogy negyvenöt napon belül a tulajdonjogot szüntesse meg, és erről értesítse az egészségügyi államigazgatási szervet.
 
 ### Más közigazgatási szervek hatósági jogköreés feladata az atomenergia alkalmazása körében
 

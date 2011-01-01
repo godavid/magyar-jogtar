@@ -28,8 +28,24 @@ fogadta el.
 - d) helyközi (távolsági) személyszállítás: a települések között belföldön végzett menetrend szerinti személyszállítás, ideértve az annak részeként egyes települések közigazgatási határán belül – helyközi (távolsági) díjszabás alapján – végzett személyszállítást is,
 - e) különcélú menetrend szerinti személyszállítás: az utazás célja alapján meghatározott utaskör menetrend alapján végzett szállítása más utasok kizárásával, az utazást szervező személyétől függetlenül,
 - f) belső szolgáltató: 1. a települési (fővárosi) önkormányzat belső szervezeti egysége, vagy 2. a települési (fővárosi) önkormányzat többségi befolyása alatt álló olyan gazdasági társaság, amelynek tevékenységét a települési (fővárosi) önkormányzat irányítja, vagy 3. olyan egyéb gazdasági társaság, amelyben a települési (fővárosi) önkormányzat meghatározó befolyással rendelkezik,
-- g) egységes egyeztetési eljárás: a közforgalmú vasúti személyszállítási és közforgalmú közúti személyszállítási menetrend elkészítésének folyamata, amelynek során a menetrend mennyiségi és minőségi követelményeinek egységes rendszerét országos és regionális szinten, a helyi közlekedési sajátosságokra is figyelemmel alakítják ki, és amelynek célja a személyszállítási közszolgáltatás nyújtása hatékony módjának megválasztása, valamint a csatlakozások összehangolása, a miniszter által kidolgozott menetrendi koncepcióval összhangban,
+- g) egységes egyeztetési eljárás: a közforgalmú vasúti személyszállítási és közforgalmú közúti személyszállítási menetrend elkészítésének folyamata, amelynek során a menetrend mennyiségi és minőségi követelményeinek egységes rendszerét országos és regionális szinten, a helyi közlekedési sajátosságokra is figyelemmel alakítják ki, és amelynek célja a személyszállítási közszolgáltatás nyújtása hatékony módjának megválasztása, valamint a csatlakozások összehangolása, a közlekedésért felelős miniszter (a továbbiakban: miniszter) által kidolgozott menetrendi koncepcióval összhangban,
 - h) Regionális Közlekedési Szakbizottság: a statisztikai célú területi egységek nómenklatúrájának (NUTS) létrehozásáról szóló 1059/2003/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: NUTS) meghatározott, a magyarországi NUTS 2 szintnek megfelelő statisztikai régiók szerint a miniszter által létrehozott, az egységes egyeztetési eljárás során a regionális érdekeket megjelenítő, döntés-előkészítő szakértői testület.
+
+2/A. § (1) A közösségi közlekedés – mint közszolgáltatás – biztonságának és zavartalan működésének, az autóbuszállomáson és trolibuszállomáson a közforgalom számára nyitva álló helyen, a megállóhelyen, valamint az autóbuszok, trolibuszok belterében az autóbuszállomáson, trolibuszállomáson és megállóhelyen található berendezések, az autóbusz, a trolibusz, továbbá az utasok, valamint az autóbusz- és trolibusz-üzem működését biztosító személyek életének, testi épségének és vagyontárgyaik védelme, továbbá az autóbusz- és trolibusz-üzem működését biztosító személyek felelősségének megállapítása céljából, a jogsértő cselekmények megelőzése, megszakítása és bizonyítása érdekében, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény szerinti adatvédelmi jogok érvényesítése mellett, továbbá e törvényben meghatározott korlátozó rendelkezések betartásával, a szolgáltató, valamint az autóbuszállomás, trolibuszállomás vagy megállóhely üzemeltetője (a továbbiakban együtt: szolgáltató) jogosult elektronikus biztonságtechnikai rendszeren keresztül megfigyelést folytatni, a megfigyelés során kép- és hangfelvételt készíteni, a készített kép- és hangfelvételt, valamint az azon rögzített személyes adatot kezelni. E tevékenysége során a szolgáltató adatkezelést végző munkavállalója adatfeldolgozónak minősül.
+
+(2) Az (1) bekezdés szerinti elektronikus biztonságtechnikai rendszer akkor alkalmazható, ha a jogsértések észlelése, az elkövető tettenérése, vagy a jogsértő cselekmények megelőzése, azok bizonyítása más módszerrel nem érhető el. A szolgáltató az elektronikus biztonságtechnikai rendszer alkalmazásának szükségességét háromévente felülvizsgálja.
+
+(3) A szolgáltató az (1) bekezdés szerinti elektronikus biztonságtechnikai rendszer alkalmazása esetén – a vakok és gyengénlátók számára is érzékelhető módon – köteles az autóbuszállomáson, illetve trolibuszállomáson és megállóhelyek bejáratánál, az autóbuszra, illetve trolibuszra való felszállásra szolgáló peronoknál, valamint az autóbuszokon, illetve trolibuszokon figyelemfelhívó jelzést, ismertetést elhelyezni az elektronikus biztonságtechnikai rendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvénynek az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezéseiről.
+
+(4) Nem alkalmazható elektronikus megfigyelőrendszer olyan helyen, ahol a megfigyelés az emberi méltóságot sértheti, így különösen mosdóban, illemhelyen.
+
+(5) Az (1) bekezdés szerinti elektronikus biztonságtechnikai rendszer alkalmazása esetén, a megfigyeléssel érintett járatokról, valamint autóbuszállomásról, trolibuszállomásról és megállóhelyről a szolgáltató a honlapján tájékoztatást tesz közzé.
+
+2/B. § (1) A rögzített kép-, hang-, valamint kép- és hangfelvételt felhasználás hiányában a rögzítéstől számítva a hetvenkettedik óra leteltekor azonnal meg kell semmisíteni, vagy törölni kell. Felhasználásnak az minősül, ha a rögzített kép-, hang-, vagy kép- és hangfelvételt, továbbá más személyes adatot bírósági vagy más hatósági eljárásban bizonyítékként felhasználják.
+
+(2) Akinek jogát vagy jogos érdekét a kép-, hang-, vagy a kép- és hangfelvétel, vagy más személyes adatának rögzítése érinti, az (1) bekezdésben foglaltaknak megfelelően a kép-, hang-, valamint kép- és hangfelvétel, továbbá más személyes adat rögzítésétől számított hetvenkét órán belül jogának vagy jogos érdekének igazolásával kérheti, hogy az adatot annak kezelője ne semmisítse meg, vagy ne törölje.
+
+(3) Bíróság vagy más hatóság megkeresésére a rögzített kép-, hang-, valamint kép- és hangfelvételt, továbbá más személyes adatot a bíróságnak vagy a hatóságnak haladéktalanul meg kell küldeni. Amennyiben megkeresésre attól számított hetvenkét órán belül, hogy a megsemmisítés mellőzését kérték, nem kerül sor, a rögzített kép-, hang-, valamint kép- és hangfelvételt, továbbá más személyes adatot meg kell semmisíteni, vagy törölni kell.
 
 ### II. Fejezet — BELFÖLDI MENETREND SZERINTI SZEMÉLYSZÁLLÍTÁS
 
@@ -39,7 +55,7 @@ fogadta el.
 
 (2) Az állam – külön törvény alapján – a helyi személyszállítás ellátásához az érintett önkormányzatoknak kiegészítő normatív támogatást, a helyközi (távolsági) személyszállítás ellátásához pedig kizárólag e célra felhasználható, elkülönített forrást biztosít a központi költségvetésből, és valamennyi szolgáltatónak ellentételezi az általa nyújtott utazási kedvezmények miatti bevételkiesést.
 
-(3) Az (1) bekezdésben foglalt önkormányzati feladat ellátásáról az önkormányzat képviselő-testülete (a továbbiakban: önkormányzat), állami feladat ellátásáról a közlekedésért felelős miniszter (a továbbiakban: miniszter) gondoskodik.
+(3) Az (1) bekezdésben foglalt önkormányzati feladat ellátásáról az önkormányzat képviselő-testülete (a továbbiakban: önkormányzat), állami feladat ellátásáról a miniszter gondoskodik.
 
 (4) Az önkormányzatok vagy társulásaik és a miniszter
 
@@ -53,7 +69,7 @@ fogadta el.
 
 3/A. § (1) Az 1370/2007/EK rendelet 7. cikkének (1) bekezdésében meghatározott összevont jelentést az önkormányzat, illetve a miniszter a felelősségi körébe tartozó közszolgáltatási tevékenységről a tárgyévet követő év május 31. napjáig készíti el. A jelentést az önkormányzat a honlapon vagy a megyei napilapban, a miniszter a minisztérium honlapján teszi közzé.
 
-(2) Az 1370/2007/EK rendelet 8. cikke (2) bekezdésében előírt jelentéstételi kötelezettséget az autóbusszal végzett helyi közösségi közlekedés tekintetében az önkormányzatokért és a közlekedésért felelős miniszter együttesen, az autóbusszal végzett helyközi közösségi közlekedés tekintetében a közlekedésért felelős miniszter teljesíti.
+(2) Az 1370/2007/EK rendelet 8. cikk (2) bekezdésében előírt jelentéstételi kötelezettséget a miniszter teljesíti.
 
 4. § (1) Az önkormányzat, illetve a miniszter (a továbbiakban együtt: ellátásért felelős) feladatkörébe tartozik:
 

@@ -25,8 +25,8 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 - a) a Közbeszerzések Tanácsa,
 - b) a Nemzeti Média- és Hírközlési Hatóság,
-- c) a Gazdasági Versenyhivatal,
-- d) a Pénzügyi Szervezetek Állami Felügyelete.
+- c) a Gazdasági Versenyhivatal.
+- d)
 
 (4) Kormányhivatal
 
@@ -34,14 +34,14 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 - b)
 - c) a Magyar Energia Hivatal,
 - d) az Országos Atomenergia Hivatal,
-- e) a Magyar Szabadalmi Hivatal.
-- f)
+- e) a Szellemi Tulajdon Nemzeti Hivatala.
+- f) a Nemzeti Adó- és Vámhivatal.
 
 (5) Rendvédelmi szerv
 
 - a) a rendőrség,
 - b) a polgári védelem,
-- c) a vám- és pénzügyőrség,
+- c)
 - d) a büntetés-végrehajtási szervezet,
 - e) az állami és hivatásos önkormányzati tűzoltóság,
 - f) a polgári nemzetbiztonsági szolgálatok.
@@ -199,7 +199,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 (3) A kormányülésen elhangzottakat összefoglalóban kell rögzíteni.
 
-(4) Az összefoglaló tartalmazza a kormányülés helyét és időpontját, az ülésen résztvevők nevét, a tárgyalt írásbeli anyagok címét és az előterjesztő megjelölését, a napirenden kívül szóba került ügyek tárgy szerinti ismertetését, a hozzászólók nevét, szavazás esetén annak tárgyát és számszerű arányát, a testületi döntés lényegét. Kérelmére a kormányülésen résztvevő nyilatkozatát, egyet nem értését szó szerint kell rögzíteni. Az összefoglaló mellékleteként meg kell őrizni az előterjesztést, a jelentést, valamint a kormányrendeletek, kormányhatározatok, irányelvek és elvi állásfoglalások, továbbá a Kormány által meghatározott egyéb iratok eredeti aláírással ellátott egy-egy példányát.
+(4) Az összefoglaló tartalmazza a kormányülés helyét és időpontját, az ülésen résztvevők nevét, a tárgyalt írásbeli anyagok címét és az előterjesztő megjelölését, a napirenden kívül szóba került ügyek tárgy szerinti ismertetését, a hozzászólók nevét, szavazás esetén annak tárgyát és számszerű arányát, a testületi döntés lényegét. Kérelmére a kormányülésen résztvevő nyilatkozatát, egyet nem értését szó szerint kell rögzíteni. Az összefoglaló mellékleteként meg kell őrizni az előterjesztést, a jelentést, valamint a kormányrendeletek, kormányhatározatok, továbbá a Kormány által meghatározott egyéb iratok eredeti aláírással ellátott egy-egy példányát.
 
 (5) Az ülésről készült összefoglaló eredeti példányát és mellékleteit, valamint az ülésről készült hangfelvételt a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium őrzi. Az ülésről készült dokumentáció anyaga nem selejtezhető, maradandó értékű iratnak minősül; kezelésére és megismerésére a köziratok védelméről, a minősített adat védelméről, továbbá a közérdekű adatok nyilvánosságáról szóló rendelkezéseket kell alkalmazni.
 
@@ -213,7 +213,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 ### A miniszterelnök helyettesítése
 
-19. § A miniszterelnök rendeletben a miniszterek közül egy vagy több miniszterelnök-helyettest jelöl ki, és szabályozza a helyettesítés rendjét.
+19. § A miniszterelnök rendeletben szabályozza a helyettesítés rendjét.
 
 ### A miniszterelnök megbízatásának keletkezése
 
@@ -362,7 +362,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 (5) A minisztert az Európai Unió Tanácsa miniszteri képviseletet igénylő testületeiben az államtitkár, az Európai Unió kormányzati részvétellel működő egyéb intézményeiben – a miniszter döntése alapján – a miniszter részletes feladat- és hatásköréről szóló kormányrendeletben kijelölt másik miniszter, az államtitkár, a közigazgatási államtitkár vagy a miniszter által kijelölt helyettes államtitkár helyettesíti.
 
-(6) A minisztert a rendelet kiadásában nem lehet helyettesíteni.
+(6)
 
 ### A miniszteri biztos
 
@@ -613,7 +613,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 ### A kormányhivatalok
 
-70. § (1) A kormányhivatal törvény által létrehozott, a Kormány irányítása alatt működő központi államigazgatási szerv.
+70. § (1) A kormányhivatal törvény által létrehozott, a Kormány irányítása alatt működő központi államigazgatási szerv. A kormányhivatal különös típusa az államigazgatási feladatok mellett fegyveres rendvédelmi feladatokat is ellátó kormányhivatal.
 
 (2) A kormányhivatal felügyeletét a miniszterelnök által kijelölt miniszter látja el, aki e hatáskörében – ha törvény eltérően nem rendelkezik – különösen
 
@@ -1210,7 +1210,7 @@ lép.
 
 lép.
 
-85. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 5. §-ában, 13. § (2) bekezdésében, 24. § (2) bekezdésében, 36. § (2) bekezdésében, 75. § c) pontjában, 81. § (1) bekezdés ab) alpontjában, 89. § (4) bekezdésében, 90. § (1) bekezdés c) pontjában, 94. § b) pontjában a „Kormány általános hatáskörű területi államigazgatási szerve” szövegrész a „közigazgatási hivatal” szöveggel, a 24. § (1) bekezdésében, 36. § (1) bekezdésében a „Kormány általános hatáskörű területi államigazgatási szervéhez” szövegrész a „közigazgatási hivatalhoz” szöveggel lép hatályba.
+85. §
 
 86. § E törvény hatálybalépésével egyidejűleg
 
@@ -1247,3 +1247,5 @@ lép.
 (4) Az e törvény hatálybalépését megelőzően a központi államigazgatási szervek, valamint területi és helyi szerveik, továbbá a minisztérium főosztályának vezetésére adott vezetői megbízásokra a Ktv. 31. § (10)–(17) bekezdésének e törvény hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
 
 (5) A Vnytv. e törvénnyel módosított 5. § (1) bekezdés b) pontját és ezzel összefüggésben 8. § (4) bekezdését, 12. § (1) és (3) bekezdését, valamint 14. § (1)–(6) bekezdését azokra a vagyonnyilatkozat-tételre kötelezettekre kell alkalmazni, akiknek a kötelezettséget megalapozó jogviszonya, beosztása, munka- vagy feladatköre e törvény hatálybalépését követően szűnt meg.
+
+(6) Ha törvény úgy rendelkezik, hogy valamely tisztséget meghatározott időszakban helyettes államtitkárként szakmai vezetői jogviszonyban állt személy nem tölthet be, akkor az ugyanebben az időszakban szakállamtitkárként állami vezetői jogviszonyban állt személy sem töltheti be ezt a tisztséget.

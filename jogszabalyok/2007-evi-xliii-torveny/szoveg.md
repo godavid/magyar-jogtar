@@ -38,29 +38,7 @@ a vámhatósághoz bejelenti az elektronikus adóbevallásra szóló képviselet
 
 „(3) Felhatalmazást kap az adópolitikáért felelős miniszter és a közigazgatási informatikáért felelős miniszter arra, hogy együttes rendeletben határozza meg az energiaadó-bevallás elektronikus úton történő benyújtásának módját és technikai feltételeit.”
 
-3. § A Vám- és Pénzügyőrségről szóló 2004. évi XIX. törvény a 39. § után a következő új alcímmel és új 39/A. §-sal egészül ki:
-
-„
-
-Elektronikus ügyintézéssel összefüggő adatkezelés
-
-39/A. § A vámhatóság az elektronikus ügyintézéshez szükséges ügyféli azonosítás érdekében nyilvántartja az ügyintézést elektronikusan végző természetes személy (felhasználó)
-
-a) nevét,
-
-b) születési nevét,
-
-c) születési helyét, idejét,
-
-d) anyja születési nevét,
-
-e) lakóhelyének címét,
-
-f) elektronikus levélcímét,
-
-g) adóazonosító jelét,
-
-h) állampolgárságát.”
+3. §
 
 4. § (1) E törvény 2007. július 1-jén lép hatályba, rendelkezéseit első ízben – a (2)–(4) bekezdésekben foglalt eltérésekkel – a 2007. június 30-át követően keletkezett adókötelezettség, adó-visszaigénylési jogosultság bevallására kell alkalmazni.
 

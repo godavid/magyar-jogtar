@@ -304,8 +304,8 @@ bírálja el.
 - b) a bíró, az ügyész, a bírósági és ügyészségi titkár, fogalmazó és ügyintéző, az ügyészségi nyomozó, az önálló és a megyei bírósági végrehajtó és végrehajtó-helyettes, a közjegyző és a közjegyző-helyettes, a rendőrség hivatásos állományú tagja ellen elkövetett emberölés, hivatalos személy ellen elkövetett emberrablás, hivatalos személy elleni erőszak, hivatalos személy ellen, hivatalos eljárása alatt elkövetett rablás [Btk. 166. § (2) bek. e) pont, Btk. 175/A. § (2) bek. c) pont, Btk. 229. §, Btk. 321. § (3) bek. d) pont, (4) bek. c)–d) pont, Btk. 321. § (5) bek. b) pont,],
 - c) a rendőrség hivatásos állományú tagjának kivételével a b) pontban felsoroltak által elkövetett bármilyen bűncselekmény, valamint az ülnöknek az igazságszolgáltatással összefüggésben elkövetett bűncselekménye,
 - d) a b) pontban felsoroltak vonatkozásában elkövetett vesztegetés [Btk. 253. § (1)–(2) bek.], a vezető beosztású vagy a fontosabb ügyekben intézkedésre hivatott más hivatalos személy által elkövetett vesztegetés [Btk. 250. § (2) bek. a) pont és (3) bek. második tétele], a vesztegetésnek a Btk. 255. §-a szerinti alakzata, a vesztegetés feljelentésének elmulasztása (Btk. 255/B. §) és a befolyással üzérkedés [Btk. 256. § (1) és (2) bek.],
-- e) a rendőrség, a büntetés-végrehajtási szervezet és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja által elkövetett, nem katonai büntetőeljárásra tartozó bűncselekmény, a Vám- és Pénzügyőrség hivatásos állományú tagja, továbbá a pénzügyi nyomozó által elkövetett bármilyen bűncselekmény,
-- f) az igazságszolgáltatás elleni bűncselekmények (Btk. XV. Fejezet V. Cím) közül a hamis vád (Btk. 233–236. §), a hatóság félrevezetése (Btk. 237. §), a hamis tanúzás (Btk. 238–241. §), a hamis tanúzásra felhívás (Btk. 242. §), a hatósági eljárás akadályozása (Btk. 242/A. §), a hatóság eljárásának megzavarása (Btk. 242/B. §), a mentő körülmény elhallgatása (Btk. 243. §), a hivatalos személy eljárása során elkövetett bűnpártolás [Btk. 244. § (3) bek. b) pont], az ügyvédi visszaélés (Btk. 247. §), a zugírászat (Btk. 248. §), a nemzetközi bíróság előtt elkövetett igazságszolgáltatás elleni bűncselekmény (Btk. 249/B. §),
+- e) a rendőrség, a büntetés-végrehajtási szervezet és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja által elkövetett, nem katonai büntetőeljárásra tartozó bűncselekmény, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, továbbá a pénzügyi nyomozó által elkövetett bármilyen bűncselekmény,
+- f) az igazságszolgáltatás elleni bűncselekmények (Btk. XV. Fejezet VI. Cím) közül a hamis vád (Btk. 233–236. §), a hatóság félrevezetése (Btk. 237. §), a hamis tanúzás (Btk. 238–241. §), a hamis tanúzásra felhívás (Btk. 242. §), a hatósági eljárás akadályozása (Btk. 242/A. §), a hatóság eljárásának megzavarása (Btk. 242/B. §), a mentő körülmény elhallgatása (Btk. 243. §), a hivatalos személy eljárása során elkövetett bűnpártolás [Btk. 244. § (3) bek. b) pont], az ügyvédi visszaélés (Btk. 247. §), a zugírászat (Btk. 248. §), a nemzetközi bíróság előtt elkövetett igazságszolgáltatás elleni bűncselekmény (Btk. 249/B. §),
 - g) a külföldi hivatalos személy (Btk. 137. § 3. pontja) ellen elkövetett bűncselekmények, valamint a nemzetközi közélet tisztasága ellen elkövetett bűncselekmények (Btk. XV. Fejezet VIII. Cím).
 
 ### Az ügyészség hatásköre és illetékessége
@@ -365,13 +365,13 @@ bírálja el.
 
 36. § (1) Az általános nyomozó hatóság a rendőrség.
 
-(2) A Vám- és Pénzügyőrség végzi a nyomozást a következő bűncselekmények miatt:
+(2) A Nemzeti Adó- és Vámhivatal végzi a nyomozást a következő bűncselekmények miatt:
 
 - a) nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §), visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel [Btk. 263/B. § (1) bekezdés c) pont], engedély nélküli külkereskedelmi tevékenység (Btk. 298. §), visszaélés jövedékkel (Btk. 311. §), jövedéki orgazdaság (Btk. 311/A. §), jövedékkel visszaélés elősegítése (Btk. 311/B. §), csempészet (Btk. 312. §),
-- b) áru hamis megjelölése (Btk. 296. §), fémkereskedelmi engedélyköteles anyagra vagy fémkereskedelmi engedélyköteles anyag ötvözetére elkövetett lopás (Btk. 316. §), fémkereskedelmi engedélyköteles anyagra vagy fémkereskedelmi engedélyköteles anyag ötvözetére elkövetett orgazdaság (Btk. 326. §), bitorlás (Btk. 329. §), szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 329/A. §), szerzői vagy szerzői joghoz kapcsolódó jogok védelmét biztosító műszaki intézkedés kijátszása (Btk. 329/B. §), jogkezelési adat meghamisítása (Btk. 329/C. §) és iparjogvédelmi jogok megsértése (Btk. 329/D. §), ha azt a Vám- és Pénzügyőrség észleli, vagy a feljelentést a Vám- és Pénzügyőrségnél teszik meg,
+- b) áru hamis megjelölése (Btk. 296. §), bitorlás (Btk. 329. §), szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 329/A. §), szerzői vagy szerzői joghoz kapcsolódó jogok védelmét biztosító műszaki intézkedés kijátszása (Btk. 329/B. §), jogkezelési adat meghamisítása (Btk. 329/C. §) és iparjogvédelmi jogok megsértése (Btk. 329/D. §),
 - c) jogosulatlan gazdasági előny megszerzése (Btk. 288. §), a számvitel rendjének megsértése (Btk. 289. §), csődbűncselekmény (Btk. 290. §), adócsalás (Btk. 310. §), munkáltatással összefüggésben elkövetett adócsalás (Btk. 310/A. §), az Európai Közösségek pénzügyi érdekeinek megsértése (Btk. 314. §), a csalás, ha adóra, járulékra vagy költségvetési támogatásra követik el (Btk. 318. §), az orgazdaság, ha csempészett nem közösségi árura követik el (Btk. 326. §), pénzmosás (Btk. 303. §, Btk. 303/A. §), a pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (Btk. 303/B. §),
-- d) az a)–c) pontokban meghatározott bűncselekményekkel összefüggésben elkövetett közokirat-hamisítás (Btk. 274. §), magánokirat-hamisítás (Btk. 276. §), egyedi azonosító jel meghamisítása (Btk. 277/A. §) és bélyeghamisítás (Btk. 307. §),
-- e) az ország területére behozatallal, az ország területéről kivitellel, valamint az ország területén átvitellel elkövetett visszaélés kábítószerrel (Btk. 282–282/C. §) és a visszaélés kábítószer előállításához használt anyaggal (Btk. 283/A. §), ha a bűncselekményt a Vám- és Pénzügyőrség észleli, vagy a feljelentést a Vám- és Pénzügyőrségnél teszik meg.
+- d) az a)–c) pontokban meghatározott bűncselekményekkel összefüggésben elkövetett közokirat-hamisítás (Btk. 274. §), magánokirat-hamisítás (Btk. 276. §), egyedi azonosító jel meghamisítása (Btk. 277/A. §) és bélyeghamisítás (Btk. 307. §).
+- e)
 
 (3)
 
@@ -383,7 +383,7 @@ bírálja el.
 
 37. § (1) A nyomozó hatóságok hatáskörét és illetékességét külön jogszabály határozza meg.
 
-(2) A 36. § (1)–(3) bekezdése szerinti nyomozó hatóságok között felmerült hatásköri összeütközés esetén, valamint, ha a rendőrség, a Vám- és Pénzügyőrség hatáskörébe tartozó bűncselekménnyel halmazatban olyan bűncselekmény is megvalósult, amelynek nyomozására e nyomozó hatóság hatásköre nem terjed ki, és az eljárás elkülönítése nem célszerű, az eljáró nyomozó hatóságot az illetékes ügyész jelöli ki. Eljáró nyomozó hatóságként az ügyész olyan nyomozó hatóságot is kijelölhet, amelynek hatásköre a 36. § (2)–(3) bekezdése alapján a bűncselekmény nyomozására egyébként nem terjed ki.
+(2) A 36. § (1)–(3) bekezdése szerinti nyomozó hatóságok között felmerült hatásköri összeütközés esetén, valamint, ha a rendőrség, a Nemzeti Adó- és Vámhivatal hatáskörébe tartozó bűncselekménnyel halmazatban olyan bűncselekmény is megvalósult, amelynek nyomozására e nyomozó hatóság hatásköre nem terjed ki, és az eljárás elkülönítése nem célszerű, az eljáró nyomozó hatóságot az illetékes ügyész jelöli ki. Eljáró nyomozó hatóságként az ügyész olyan nyomozó hatóságot is kijelölhet, amelynek hatásköre a 36. § (2)–(3) bekezdése alapján a bűncselekmény nyomozására egyébként nem terjed ki.
 
 (3) A nyomozó hatóságok a vezetőik megállapodása alapján az ügyész jóváhagyásával egy ügyre vagy ügyek meghatározott csoportjaira közös nyomozó csoportot hozhatnak létre.
 
@@ -468,7 +468,7 @@ bírálja el.
 
 - a) a bűncselekményre a törvény öt évi vagy ennél súlyosabb szabadságvesztést rendel,
 - b) a terheltet fogva tartják,
-- c) a terhelt süket, néma, vak vagy – a beszámítási képességére tekintet nélkül – kóros elmeállapotú,
+- c) a terhelt hallássérült, siketvak, vak, beszédképtelen vagy – a beszámítási képességére tekintet nélkül – kóros elmeállapotú,
 - d) a terhelt a magyar nyelvet, illetőleg az eljárás nyelvét nem ismeri,
 - e) a terhelt egyéb okból nem képes személyesen védekezni,
 - f) e törvény erről külön rendelkezik.
@@ -816,11 +816,11 @@ bírálja el.
 - a) ha az (1) bekezdésben felsoroltaknál a minősített adat védelméről szóló jogszabályban foglaltak megtartása nem biztosított, a jogosult részére a minősített adatot tartalmazó iratról másolatot kell készíteni, de a másolatot a jogosult a bíróság, az ügyészség, illetőleg a nyomozó hatóság titkos ügykezelésre fenntartott helyiségéből nem viheti ki,
 - b) a másolatot az eljárást folytató bíróság, ügyész, illetőleg nyomozó hatóság őrzi, de biztosítani kell, hogy a másolatot a jogosult a hivatali munkaidőben korlátozás nélkül tanulmányozhassa, és a bíróság hivatalos helyiségében az ügyben tartott tárgyalás idejére a másolat a jogosult rendelkezésére álljon.
 
-70/D. § (1) Az eljárás jogerős befejezését követően, a nyomozás vagy az eljárás megszüntetését, a vádemelés részbeni mellőzését követően az államtitkot, szolgálati titkot tartalmazó irat megismerésére a 70/C. § (1) bekezdése az irányadó.
+70/D. § (1) Az eljárás jogerős befejezését követően, a nyomozás vagy az eljárás megszüntetését, a vádemelés részbeni mellőzését követően a minősített adatot tartalmazó irat megismerésére a 70/C. § (1) bekezdése az irányadó.
 
 (2) Az eljárás jogerős befejezését követően az első fokon eljárt bíróság, a nyomozás megszüntetését követően az ügyész, illetve a nyomozó hatóság, az eljárás megszüntetését vagy a vádemelés részbeni mellőzését követően az ügyész a 70/C. § (2) bekezdése szerint jár el.
 
-(3) Az eljárás jogerős befejezését, a nyomozás megszüntetését, az eljárás megszüntetését vagy a vádemelés részbeni mellőzését követően az államtitkot, a szolgálati titkot tartalmazó irat másolására és a másolat kezelésére a 70/C. § (5) bekezdés a) pontja az irányadó. A másolatot az eljárás jogerős befejezését követően az elsőfokú bíróság, a nyomozás vagy az eljárás megszüntetését, a vádemelés részbeni mellőzését követően az ügyész, illetve a nyomozó hatóság őrzi, de biztosítani kell, hogy a másolatot a jogosult a hivatali munkaidőben, korlátozás nélkül tanulmányozhassa.
+(3) Az eljárás jogerős befejezését, a nyomozás megszüntetését, az eljárás megszüntetését vagy a vádemelés részbeni mellőzését követően a minősített adatot tartalmazó irat másolására és a másolat kezelésére a 70/C. § (5) bekezdés a) pontja az irányadó. A másolatot az eljárás jogerős befejezését követően az elsőfokú bíróság, a nyomozás vagy az eljárás megszüntetését, a vádemelés részbeni mellőzését követően az ügyész, illetve a nyomozó hatóság őrzi, de biztosítani kell, hogy a másolatot a jogosult a hivatali munkaidőben, korlátozás nélkül tanulmányozhassa.
 
 ### Megkeresések
 
@@ -916,7 +916,7 @@ bírálja el.
 
 (2) A bíróság nyilvános tárgyalásáról a sajtó jogosult tájékoztatást adni.
 
-(3) Meg kell tagadni a sajtó számára a felvilágosítást, ha a minősített adat védelmét sértené, vagy egyébként az eljárás eredményes lefolytatását veszélyeztetné.
+(3) Meg kell tagadni a sajtó számára a felvilágosítást, ha az a minősített adat védelmét sértené, vagy egyébként az eljárás eredményes lefolytatását veszélyeztetné.
 
 74/B. § (1) A bírósági tárgyalásról a nyilvánosság tájékoztatása érdekében hang- vagy képfelvételt a tanács elnöke engedélyével, a bírósági tárgyaláson jelenlévő személyről – a bíróság tagjain, a jegyzőkönyvvezetőn, az ügyészen és a védőn kívül – csak az érintett hozzájárulásával szabad készíteni. A tanács elnöke a tárgyalás folyamatosságának és zavartalanságának érdekében az engedélyt megtagadhatja, illetőleg azt a bírósági eljárás bármely szakaszában visszavonhatja.
 
@@ -1062,7 +1062,7 @@ bírálja el.
 
 ### A tanú személyi adatainak zárt kezelése
 
-96. § (1)
+96. § (1) A bíróság, az ügyész, illetve a nyomozó hatóság hivatalból elrendelheti, illetve a tanú, vagy az érdekében eljáró ügyvéd kérelmére elrendeli, hogy a tanú személyi adatait [85. § (2) bekezdés] az iratok között elkülönítve, zártan kezeljék. Ezekben az esetekben a tanú zártan kezelt adatait csak az ügyben eljáró bíróság, az ügyész, illetve a nyomozó hatóság tekintheti meg.
 
 (2) Ha a tanú személyi adatainak zárt kezelését rendelték el, ettől kezdve
 
@@ -1143,7 +1143,7 @@ bírálja el.
 103. § (1) Szakértőként nem járhat el,
 
 - a) aki az ügyben mint terhelt, védő, továbbá mint sértett, feljelentő vagy mint ezek képviselője vesz, vagy vett részt, valamint ezek hozzátartozója,
-- b) aki az ügyben mint bíró, ügyész vagy nyomozó hatóság tagja járt vagy jár el, ezek hozzátartozója, valamint az ügyben eljárt vagy eljáró bírósággal, ügyészséggel, nyomozó hatósággal alkalmazotti vagy szolgálati viszonyban lévő személy.
+- b) aki az ügyben mint bíró, ügyész vagy nyomozó hatóság tagja járt vagy jár el, valamint ezek hozzátartozója,
 - c) aki az ügyben tanúként vesz, vagy vett részt,
 - d) a halál oka és körülményei vizsgálatánál továbbá a kihantolásnál az az orvos, aki a meghalt személyt közvetlenül a halála előtt gyógykezelte, illetve aki megállapította a halál beálltát,
 - e) a szakértői intézmény és a szervezet szakértője, valamint a szakértői testület tagja, ha az a) pontban meghatározott kizáró ok a szakértői intézmény, a szervezet vagy a szakértői testület vezetőjével szemben áll fenn,
@@ -1266,7 +1266,7 @@ bírálja el.
 
 114. § (1) Ha nem magyar anyanyelvű személy az eljárás során az anyanyelvét, – törvénnyel kihirdetett nemzetközi szerződés alapján, az abban meghatározott körben – regionális vagy kisebbségi nyelvét kívánja használni, tolmácsot kell igénybe venni. Ha az anyanyelv használata aránytalan nehézségbe ütközne, a magyar nyelvet nem ismerő személy által ismertként megjelölt más nyelv használatát kell tolmács útján biztosítani.
 
-(2) Ha a kihallgatandó személy süket vagy néma, általában tolmács igénybevételével vagy írásbeli érintkezés útján kell kihallgatni.
+(2) Ha a kihallgatandó személy hallássérült, kérésére jelnyelvi tolmács közreműködésével kell kihallgatni, vagy a kihallgatás helyett írásban is nyilatkozatot tehet. Ha a kihallgatandó személy siketvak, kérésére jelnyelvi tolmács közreműködésével kell kihallgatni. Ha a kihallgatandó személy beszédfogyatékos, kérésére a kihallgatás helyett írásban tehet nyilatkozatot.
 
 (3) E törvénynek a szakértőre vonatkozó rendelkezései a tolmácsra is irányadók azzal, hogy a külön jogszabályban meghatározott feltételeknek megfelelő személy vehető igénybe tolmácsként; ha ez nem lehetséges, a kellő nyelvismerettel rendelkező más személy (eseti tolmács) is kirendelhető. Tolmácson a szakfordítót is érteni kell.
 
@@ -2075,6 +2075,12 @@ vezet.
 
 (7) Az (1) bekezdésben meghatározott személy, illetőleg a fedett nyomozó ellen indított büntetőeljárást el kell különíteni attól az ügytől, amelyben az (1) bekezdésben meghatározott személy, illetőleg a fedett nyomozó által feltárt bizonyítékot fel kívánják használni.
 
+175/A. § (1) A bűncselekmény elkövetésének megalapozott gyanúja esetén az ügyész a feljelentést határozattal elutasítja, ha a bűncselekmény elkövetésével a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv tagja gyanúsítható megalapozottan, aki a cselekményt megbízhatósági vizsgálat végzése során, bűnmegelőzési, bűnfelderítési érdekből követte el.
+
+(2) A feljelentés nem utasítható el, ha az (1) bekezdésben meghatározott személy a rendőrségről szóló törvény 7/B. § (2) bekezdés b) pontjában meghatározott bűncselekmény elkövetésével megalapozottan gyanúsítható.
+
+(3) A feljelentés elutasítása esetén a 175. § (3)–(5) bekezdését értelemszerűen alkalmazni kell.
+
 ### III. CÍM — A NYOMOZÁS LEFOLYTATÁSA
 
 ### A nyomozás határideje
@@ -2101,7 +2107,7 @@ vezet.
 
 (4) Ha az ügyész a nyomozó hatóság adatszerző tevékenységének eredményét bizonyítékként kívánja felhasználni, az arról készített jelentést csatolja a nyomozás irataihoz. A nyomozó hatóság adatszerző tevékenységéről készített jelentés a nyomozás irataihoz történő csatolást követően az okiratra (116. §) vonatkozó szabályok szerint használható fel bizonyítékként.
 
-178/A. § (1) A nyomozás elrendelését követően az ügyész, illetőleg az ügyész jóváhagyásával a nyomozó hatóság a megkeresésre vonatkozó szabályok szerint – ha ez az ügy jellege miatt szükséges – a gyanúsítottról (feljelentettről, illetőleg az elkövetéssel gyanúsítható személyről) a tényállás felderítése érdekében adatok szolgáltatását igényelheti az adóhatóságtól, az egészségügyi és a hozzá kapcsolódó adatot kezelő szervtől és egyéb üzleti titoknak minősülő adatot kezelő szervtől. A nyomozó hatóság a hírközlési szolgáltatást nyújtó szervezettől, a banktitoknak, értékpapírtitoknak, pénztártitoknak minősülő adatot kezelő szervtől, a közúti közlekedési nyilvántartásból, valamint az ingatlan-nyilvántartásból az ügyész jóváhagyása nélkül is igényelheti adatok szolgáltatását. Az adatszolgáltatás nem tagadható meg.
+178/A. § (1) A nyomozás elrendelését követően az ügyész, illetőleg az ügyész jóváhagyásával a nyomozó hatóság a megkeresésre vonatkozó szabályok szerint – ha ez az ügy jellege miatt szükséges – a gyanúsítottról (feljelentettről, illetőleg az elkövetéssel gyanúsítható személyről) a tényállás felderítése érdekében adatok szolgáltatását igényelheti az egészségügyi és a hozzá kapcsolódó adatot kezelő szervtől és egyéb üzleti titoknak minősülő adatot kezelő szervtől. A nyomozó hatóság az adóhatóságtól, a hírközlési szolgáltatást nyújtó szervezettől, a banktitoknak, értékpapírtitoknak, pénztártitoknak minősülő adatot kezelő szervtől, a közúti közlekedési nyilvántartásból, valamint az ingatlan-nyilvántartásból az ügyész jóváhagyása nélkül is igényelheti adatok szolgáltatását. Az adatszolgáltatás nem tagadható meg.
 
 (2) Ha meghatározott személy megalapozottan gyanúsítható bűncselekmény elkövetésével, e személyről be kell szerezni a bűnügyi nyilvántartás és a központi szabálysértési nyilvántartás adatait, és – ha annak külön törvényben meghatározott feltételei fennállnak – a szervezett bűnözés elleni fellépés koordinációjáért felelős közigazgatási szerv adatnyilvántartásában kezelt adatokat.
 
@@ -2274,7 +2280,7 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 
 (5) Akivel szemben a feljelentést a 175. § (1) bekezdése alapján utasították el, vagy a nyomozást a 192. § (1) bekezdése alapján szüntették meg, a 82. § (5) bekezdésének esetein kívül a nyomozást vagy annak folytatását az illetékes ügyész rendelheti el.
 
-### A nyomozás megszüntetése az együttműködő gyanúsítottal és a fedett nyomozóval szemben
+### A nyomozás megszüntetése az együttműködő gyanúsítottal, a fedett nyomozóval és a megbízhatósági vizsgálatot végző személlyel szemben
 
 192. § (1) A bűncselekmény elkövetésének megalapozott gyanúja esetében az ügyész, illetőleg a nyomozó hatóság az ügyész engedélyével a nyomozást megszüntetheti, ha a bűncselekmény elkövetésével megalapozottan gyanúsítható személy az ügy, illetőleg más büntető ügy bizonyításához hozzájárulva olyan mértékben együttműködik, hogy az együttműködéshez fűződő nemzetbiztonsági vagy bűnüldözési érdek jelentősebb, mint az, amely az állam büntetőjogi igényének érvényesítéséhez fűződik.
 
@@ -2285,6 +2291,12 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 (4) A nyomozásnak az (1) vagy (2) bekezdés alapján történő megszüntetése esetén a 175. § (3)–(5) bekezdését megfelelően alkalmazni kell. A nyomozás megszüntetése ebben az esetben sem akadálya annak, hogy ugyanabban az ügyben utóbb az eljárást folytassák (191. §).
 
 (5)–(7)
+
+192/A. § (1) A bűncselekmény elkövetésének megalapozott gyanúja esetén az ügyész a nyomozást határozattal megszünteti, ha a bűncselekmény elkövetésével a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv tagja gyanúsítható megalapozottan, aki a cselekményt megbízhatósági vizsgálat végzése során, bűnmegelőzési, bűnfelderítési érdekből követte el.
+
+(2) A nyomozás nem szüntethető meg, ha az (1) bekezdésben meghatározott személy a rendőrségről szóló törvény 7/B. § (2) bekezdés b) pontjában meghatározott bűncselekmény elkövetésével megalapozottan gyanúsítható.
+
+(3) A nyomozás megszüntetése esetén a 175. § (3)–(5) bekezdését értelemszerűen alkalmazni kell.
 
 ### A nyomozás iratainak megismerése
 
@@ -2367,8 +2379,8 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 200. § (1) Az ügyész és a nyomozó hatóság bírói engedély alapján az elkövető kilétének, tartózkodási helyének megállapítása, elfogása, valamint bizonyítási eszköz felderítése érdekében a nyomozás elrendelésétől a nyomozás iratainak ismertetéséig az érintett tudta nélkül
 
 - a) a magánlakásban történteket technikai eszközzel megfigyelheti és rögzítheti,
-- b) levelet, egyéb postai küldeményt, valamint telefonvezetéken vagy más hírközlési rendszer útján továbbított közlés tartalmát megismerheti, és azt technikai eszközzel rögzítheti,
-- c) a számítástechnikai rendszer útján továbbított és tárolt adatokat megismerheti és felhasználhatja (a továbbiakban: titkos adatszerzés).
+- b) postai küldeményt, beazonosítható személyhez kötött zárt küldeményt felbonthat, ellenőrizhet, és azok tartalmát technikai eszközzel rögzítheti, valamint elektronikus hírközlési szolgáltatás útján továbbított kommunikáció tartalmát megismerheti, az észlelteket technikai eszközzel rögzítheti,
+- c) számítástechnikai eszköz vagy rendszer útján továbbított, vagy azon tárolt adatokat megismerheti, rögzítheti és felhasználhatja (a továbbiakban titkos adatszerzés).
 
 (2) Az ügyész és a nyomozó hatóság a nyomozás elrendelését követően a bírói engedélyhez kötött titkos adatszerzést e törvény alapján végzi.
 
@@ -2382,16 +2394,15 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 
 - a) öt évig terjedő vagy ennél súlyosabb szabadságvesztéssel büntetendő szándékos bűncselekmény,
 - b) üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény,
-- c) az emberkereskedelem, a tiltott pornográf felvétellel visszaélés, a kitartottság, a kerítés, az embercsempészés, a hivatali visszaélés és a bűnpártolás három évig terjedő szabadságvesztéssel fenyegetett alakzata,
-- d) visszaélés minősített adattal bűncselekménye,
-- e) az a)–d) pontban meghatározott bűncselekmény kísérlete, valamint – ha az előkészületet a törvény büntetni rendeli – előkészülete
-
-esetében van helye.
+- c) a lelkiismereti és vallásszabadság megsértése, a kitartottság, a hivatali visszaélés bűncselekménye,
+- d) az emberkereskedelem, a tiltott pornográf felvétellel visszaélés, a kerítés, az embercsempészés, a hivatali visszaélés, a bűnpártolás, a vesztegetés, a vesztegetés nemzetközi kapcsolatban, a környezetkárosítás, a természetkárosítás, a hulladékgazdálkodás rendjének megsértése három évig terjedő szabadságvesztéssel fenyegetett alakzata,
+- e) a visszaélés minősített adattal cím alá tartozó bűncselekmények,
+- f) az a)–e) pontban meghatározott bűncselekmény kísérlete, valamint – ha az előkészületet a törvény büntetni rendeli – előkészülete esetében van helye.
 
 (2) Ha a nyomozást az ügyész végzi, titkos adatszerzésnek az (1) bekezdésben felsorolt bűncselekményeken kívül az alábbi esetekben van helye:
 
 - a) a közjogi tisztség betöltésén alapuló mentességet élvező személy, a nemzetközi jogon alapuló mentességet élvező személy sérelmére elkövetett hivatalos személy elleni erőszak, továbbá a nemzetközileg védett személy elleni erőszakkal fenyegetés,
-- b) a bíró, az ügyész, a bírósági és ügyészségi titkár, fogalmazó és ügyintéző, az ügyészségi nyomozó, az önálló és a megyei bírósági végrehajtó és végrehajtó-helyettes, a közjegyző és a közjegyzőhelyettes, a rendőrség hivatásos állományú tagja sérelmére elkövetett hivatalos személy elleni erőszak, valamint a felsoroltak, továbbá a Vám- és Pénzügyőrség hivatásos állományú tagja vonatkozásában elkövetett, három évig terjedő szabadságvesztéssel büntetendő közélet tisztasága elleni bűncselekmények,
+- b) a bíró, az ügyész, a bírósági és ügyészségi titkár, fogalmazó és ügyintéző, az ügyészségi nyomozó, az önálló és a megyei bírósági végrehajtó és végrehajtó-helyettes, a közjegyző és a közjegyzőhelyettes, a rendőrség hivatásos állományú tagja sérelmére elkövetett hivatalos személy elleni erőszak, valamint a felsoroltak, továbbá a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, továbbá a nem hivatásos állományú pénzügyi nyomozó vonatkozásában elkövetett, három évig terjedő szabadságvesztéssel büntetendő közélet tisztasága elleni bűncselekmények,
 - c) a b) pontban felsoroltak vonatkozásában elkövetett vesztegetés feljelentésének elmulasztása és a befolyással üzérkedés,
 - d) a 29. § f) pontjában meghatározott igazságszolgáltatás elleni bűncselekmények, kivéve a hatóság félrevezetését,
 - e) a külföldi hivatalos személy ellen elkövetett bűncselekmények, valamint a nemzetközi közélet tisztasága ellen elkövetett bűncselekmények,
@@ -2432,7 +2443,7 @@ esetében van helye.
 
 ### A titkos adatszerzés végrehajtása
 
-204. § (1) A titkos adatszerzést a külön törvényben meghatározott szervezet hajtja végre. Ha az ügyészségi nyomozás során elrendelt titkos adatszerzés tárgya a nemzetbiztonsági szolgálatok hivatásos állományú tagja által elkövetett bűncselekmény, az ügyész titkos adatszerzés elvégzésére az érintett nemzetbiztonsági szolgálatot is felkérheti.
+204. § (1) A titkos adatszerzést külön törvényben meghatározott szervezet hajtja végre. Ha az ügyészségi nyomozás során elrendelt titkos adatszerzés tárgya a nemzetbiztonsági szolgálatok hivatásos állományú tagja által elkövetett bűncselekmény, az ügyész titkos adatszerzés elvégzésére az érintett nemzetbiztonsági szolgálatot is felkérheti.
 
 (2) A hírközlési szolgáltatást, a postai küldemények, illetőleg a számítástechnikai rendszer útján rögzített adatok továbbítását, feldolgozását, kezelését végző szervezetek kötelesek a titkos adatszerzés végrehajtását biztosítani és a titkos adatszerzésre jogosult hatóságokkal együttműködni. A hírközlési szolgáltatást, valamint a postai küldemények továbbítását végző szervezetek kötelezettségeiről és az együttműködés részletes szabályairól külön jogszabály rendelkezik.
 
@@ -2640,7 +2651,7 @@ ellen.
 - c) a vád tárgyává tett cselekménynek a Btk. szerinti minősítését,
 - d) az eljárás megindításához szükséges külön törvényi feltétel (magánindítvány, feljelentés, kívánat, mentelmi jog vagy mentesség felfüggesztése, hozzájárulás a büntetőeljárás megindításához) meglétét,
 - e) a bíróság hatáskörére és illetékességére vonatkozó jogszabályok megjelölését, továbbá a vádiratot benyújtó ügyész hatáskörére, illetőleg illetékességére vonatkozó szabályokra való utalást,
-- f) a büntetés kiszabására vagy intézkedés alkalmazására vonatkozó indítványt, ha az ügyész nem vesz részt a tárgyaláson,
+- f) a büntetés kiszabására vagy intézkedés alkalmazására vonatkozó indítványt,
 - g) a bejelentett polgári jogi igényt, továbbá az egyéb indítványokat,
 - h) a tárgyalásra idézendők és az arról értesítendők indítványozását,
 - i) a bizonyítási eszközök megjelölését, valamint azt, hogy mely tény bizonyítására szolgálnak,
@@ -2706,7 +2717,7 @@ ellen.
 223. § (1) A vádemelés a 222. § (1) bekezdése alapján nem halasztható el, ha a gyanúsított
 
 - a) többszörös visszaeső,
-- b) a szándékos bűncselekményt a szabadságvesztés felfüggesztésének próbaideje alatt vagy a szándékos bűncselekmény elkövetése miatt végrehajtandó szabadságvesztésre ítélése után, a szabadságvesztés végrehajtásának befejezése előtt követte el.
+- b) a szándékos bűncselekményt a szabadságvesztés felfüggesztésének próbaideje alatt vagy a szándékos bűncselekmény elkövetése miatt végrehajtandó vagy részben felfüggesztett szabadságvesztésre ítélése után, a szabadságvesztés végrehajtásának befejezése előtt követte el.
 
 (2) Ha a Btk. az eljárás megindulását követő magatartástól teszi függővé a büntethetőség megszűnését, a vádemelés elhalasztásának csak az e törvényben meghatározott esetben van helye.
 
@@ -2899,7 +2910,13 @@ ellen.
 - b)
 - c) –f
 
-(2) Az (1) bekezdés e) pontja kivételével a helyi bíróságon ügyészségi titkár is képviselheti a vádat.
+(2) A helyi bíróságon ügyészségi titkár is képviselheti a vádat.
+
+(3) A helyi bíróságon ügyészségi fogalmazó is képviselheti a vádat, kivéve, ha
+
+- a) a bűncselekményre a törvény öt évi vagy ennél súlyosabb szabadságvesztést rendel,
+- b) a vádlottat fogva tartják,
+- c) a vádlott – a beszámítási képességre tekintet nélkül – kóros elmeállapotú.
 
 242. § (1) A tárgyaláson a védő részvétele kötelező
 
@@ -2990,7 +3007,7 @@ ellen.
 
 ### A jegyzőkönyv
 
-250. § (1) A bíróság eljárásáról – rendszerint azzal egyidejűleg – a jegyzőkönyvvezető jegyzőkönyvet készít. Ha a vádlott süket, és tolmács nem alkalmazható, a jegyzőkönyvet mindig egyidejűleg kell készíteni.
+250. § (1) A bíróság eljárásáról – rendszerint azzal egyidejűleg – a jegyzőkönyvvezető jegyzőkönyvet készít. Ha a vádlott hallássérült, és jelnyelvi tolmács nem alkalmazható, a jegyzőkönyvet mindig egyidejűleg kell készíteni.
 
 (2) A jegyzőkönyvben fel kell tüntetni
 
@@ -3670,6 +3687,8 @@ ellen.
 
 (4) A perbeszéd nem szakítható félbe, kivéve, ha bűncselekményt megvalósító kifejezést foglal magában, rendzavarást kelt, továbbá ha az eljárás elhúzásának megakadályozása érdekében ez szükséges.
 
+(5) Ha a védő nincs jelen a tárgyaláson, a védőbeszédet a vádlott adhatja elő.
+
 315. § (1) Az ügyész a vádbeszédében, ha a vádlott bűnösségét megállapíthatónak tartja, a jogszabályokat is megjelölve, indítványt terjeszt elő arra, hogy a bíróság
 
 - a) a vádlottat mely tények alapján, milyen bűncselekményben mondja ki bűnösnek,
@@ -3688,7 +3707,7 @@ ellen.
 
 318. § (1) A perbeszédek és a felszólalások után, azok sorrendjében viszonválaszoknak van helye. A viszonválaszra további viszonválasz adható, utoljára a védő, illetőleg a vádlott szólhat.
 
-(2) A perbeszédek, felszólalások, illetve a viszonválaszok után, ha a vádlott süket és tolmács nem alkalmazható, lehetőséget kell biztosítani számára a jegyzőkönyv elolvasására.
+(2) A perbeszédek, felszólalások, illetve a viszonválaszok után, ha a vádlott hallássérült, kérésére lehetőséget kell biztosítani számára a jegyzőkönyv elolvasására.
 
 ### Az utolsó szó joga
 
@@ -3755,7 +3774,7 @@ ellen.
 
 (2) Az (1) bekezdés esetén az előzetes letartóztatás a 129. § (2) bekezdésének a), b) vagy d) pontjában meghatározott okokon kívül akkor is elrendelhető, ha az ítéletben kiszabott szabadságvesztés tartamára figyelemmel a vádlott szökésétől vagy elrejtőzésétől kell tartani.
 
-(3) A vádlott felmentése, próbára bocsátása, az eljárás megszüntetése esetén, vagy ha a bíróság nem szabott ki végrehajtandó szabadságvesztést, nem rendelt el javítóintézeti nevelést, illetőleg ha a felmentés esetén nem rendelt el kényszergyógykezelést, az előzetes letartóztatást, a lakhelyelhagyási tilalmat, a házi őrizetet, a távoltartást, illetőleg az ideiglenes kényszergyógykezelést megszünteti, és nyomban intézkedik a vádlott szabadlábra helyezéséről.
+(3) A vádlott felmentése, próbára bocsátása, az eljárás megszüntetése esetén, vagy ha a bíróság nem szabott ki végrehajtandó vagy részben felfüggesztett szabadságvesztést, nem rendelt el javítóintézeti nevelést, illetőleg ha a felmentés esetén nem rendelt el kényszergyógykezelést, az előzetes letartóztatást, a lakhelyelhagyási tilalmat, a házi őrizetet, a távoltartást, illetőleg az ideiglenes kényszergyógykezelést megszünteti, és nyomban intézkedik a vádlott szabadlábra helyezéséről.
 
 (4) Az ítélet jogerőre emelkedése esetén, ha ennek feltételei fennállnak, a bíróság lehetőleg azonnal lefolytatja az összbüntetési eljárást.
 
@@ -3853,7 +3872,7 @@ ellen.
 
 339. § (1) Az állam viseli a 74. § (1) bekezdésének a) pontjában meghatározott bűnügyi költségből azt a költséget, amelynek viselésére a vádlott a 338. § alapján nem kötelezhető, továbbá azt a költséget, amelyet a vádlottnak a 74. § (3) bekezdése alapján nem kell megtérítenie.
 
-(2) Az állam viseli azt a költséget is, amely annak kapcsán merült fel, hogy a vádlott süket, néma, vak, illetőleg a magyar nyelvet nem ismeri, vagy az eljárás során regionális vagy kisebbségi nyelvét használta.
+(2) Az állam viseli azt a költséget is, amely annak kapcsán merült fel, hogy a vádlott hallássérült, beszédfogyatékos, vak, illetőleg a magyar nyelvet nem ismeri, vagy az eljárás során regionális vagy kisebbségi nyelvét használta.
 
 (3) Ha a vádat az ügyész képviselte, és a bíróság a vádlottat felmenti, vagy az eljárást az ügyész vádelejtése miatt megszünteti, az állam a határozat jogerőre emelkedésétől számított harminc napon belül – a külön jogszabályban meghatározott mértékben – megtéríti a vádlott költségét, továbbá védőjének az eljárás során nem előlegezett díját és költségét.
 
@@ -3880,17 +3899,9 @@ ellen.
 
 (4) A másodfokú bíróság mellett működő ügyész az iratokat az indítványával tizenöt napon belül, különösen bonyolult vagy nagy terjedelmű ügyben harminc napon belül megküldi a másodfokú bíróságnak.
 
-### IV. CÍM — TÁRGYALÁS AZ ÜGYÉSZ,A VÉDŐ TÁVOLLÉTÉBEN
+### IV. CÍM
 
-342. § (1) Ha e törvény szerint a tárgyalás az ügyész, illetve a védő távollétében megtartható, az I. és II. Cím rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
-
-(2) Ha az ügyész nincs jelen a tárgyaláson, a vádiratból a vádat a bíróság ismerteti.
-
-(3)
-
-(4) Ha védő nincs jelen a tárgyaláson, a védőbeszédet a vádlott adhatja elő.
-
-(5) Ha a kihirdetés útján közölt ügydöntő határozat ellen a vádlott és a védő nem jelentett be fellebbezést, a bíróság azt a tárgyaláson jelen nem levő ügyésszel a rendelkező rész kézbesítése útján közli. Ha az ügydöntő határozatot a bíróság az ügyésszel a rendelkező rész kézbesítése útján közli, az ügyész a fellebbezését öt napon belül jelentheti be. E határidő elmulasztása ellen nincs helye igazolásnak.
+342. §
 
 ### V. CÍM — A PÓTMAGÁNVÁDLÓRA VONATKOZÓELTÉRŐ RENDELKEZÉSEK
 
@@ -4020,7 +4031,7 @@ ellen.
 - b) közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kiutasítás helyett szabadságvesztést annak felfüggesztése vagy részbeni felfüggesztése mellett sem,
 - c) felfüggesztett szabadságvesztés helyett részben felfüggesztett szabadságvesztést, végrehajtandó szabadságvesztést,
 - d) végrehajtandó szabadságvesztés helyett hosszabb tartamú szabadságvesztést, annak felfüggesztése vagy részbeni felfüggesztése mellett sem,
-- e) részben felfüggesztett szabadságvesztés helyett rövidebb tartamú végrehajtandó szabadságvesztést,
+- e) részben felfüggesztett szabadságvesztés helyett hosszabb tartamú részben felfüggesztett szabadságvesztést, a részben felfüggesztett szabadságvesztés végrehajtandó részénél hosszabb tartamú végrehajtandó szabadságvesztést,
 - f) az elsőfokú bíróság által alkalmazott büntetések számát meghaladó további büntetéseket, ide nem értve a szabadságvesztés helyett alkalmazott büntetéseket,
 - g) az elsőfokú bíróság által nem alkalmazott mellékbüntetést,
 - h) lefokozás, szolgálati viszony megszüntetése helyett szabadságvesztést, annak felfüggesztése vagy részbeni felfüggesztése mellett sem.]
@@ -4126,7 +4137,7 @@ ellen.
 
 (2) A tárgyalásról értesíteni kell az ügyészt, továbbá a pótmagánvádlót, a kötelező védelem esetén kívül a védőt, a sértettet, valamint azokat, akik fellebbeztek. Az értesítést olyan időben kell kiadni, hogy a kézbesítése legalább öt nappal a tárgyalás előtt megtörténjék.
 
-(3) A tárgyaláson az ügyész részvétele kötelező, ha a részvétele az első fokú tárgyaláson is kötelező volt, kivéve, ha a részvétel oka a másodfokú eljárásban már nem áll fenn. A másodfokú bíróság az ügyészt ebben az esetben is kötelezheti a tárgyaláson való részvételre.
+(3)
 
 365. § (1) A vádlott távollétében a tárgyalás megtartható, ha a vádlott előzetesen bejelentette, hogy azon nem kíván részt venni, illetőleg a vádlott terhére nem jelentettek be fellebbezést.
 
@@ -4625,7 +4636,7 @@ került sor.
 416. § (1) Felülvizsgálatnak a bíróság jogerős ügydöntő határozata ellen akkor van helye, ha
 
 - a) a terhelt felmentésére vagy az eljárás megszüntetésére, illetve a terhelt bűnösségének megállapítására, továbbá kényszergyógykezelésének elrendelésére a büntető anyagi jog szabályainak megsértése miatt került sor,
-- b) a bűncselekmény törvénysértő minősítése, a büntetőjog más szabályának megsértése miatt törvénysértő büntetést szabtak ki, vagy törvénysértő intézkedést alkalmaztak, illetőleg a büntetés végrehajtását a Btk. 90. §-ában foglalt kizáró ok ellenére függesztették fel,
+- b) a bűncselekmény törvénysértő minősítése, a büntetőjog más szabályának megsértése miatt törvénysértő büntetést szabtak ki, vagy törvénysértő intézkedést alkalmaztak, illetőleg a büntetés végrehajtását a Btk. 91. § (1) bekezdésében foglalt kizáró ok ellenére függesztették fel,
 - c) a bíróság határozatának meghozatalára a 373. § (1) bekezdésének I. b) vagy c) pontjában, illetve II–IV. pontjának valamelyikében meghatározott eljárási szabálysértéssel került sor,
 - d) a bíróság határozatának meghozatalára a súlyosítási tilalom [354. és 355. §, 405. § (1) és (3) bek., 549. § (4) bek.] megsértésével került sor,
 - e) az Alkotmánybíróság a jogerős határozattal befejezett büntetőeljárás felülvizsgálatát elrendelte, feltéve, hogy a terhelt még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól, vagy a kiszabott büntetés, illetőleg az alkalmazott intézkedés végrehajtása még nem fejeződött be, vagy a végrehajthatósága még nem szűnt meg,
@@ -4955,7 +4966,7 @@ kell végrehajtani.
 
 (2) A bíróság elrendelheti, hogy a tárgyalásnak azt a részét, amely a fiatalkorú helyes irányú fejlődését károsan befolyásolhatja, a fiatalkorú távollétében tartsák meg. Az így lefolytatott tárgyalás lényegét a tanács elnöke a fiatalkorúval – legkésőbb a tárgyalás berekesztése előtt – ismerteti.
 
-(3) A tárgyaláson az ügyész részvétele kötelező.
+(3) A tárgyaláson az ügyész részvétele kötelező. A fiatalkorúak elleni büntetőeljárásban ügyészségi fogalmazó és ügyészségi titkár a vádat nem képviselheti.
 
 461. § A fiatalkorú vádlott távollétében a tárgyalás a XXV. Fejezet alapján nem tartható meg.
 
@@ -5078,7 +5089,7 @@ esetén.
 
 (2) Ha a katonai büntetőeljárás hatálya alá tartozó bűncselekményt nem katonai nyomozó hatóság észleli, vagy nem katonai nyomozó hatóság szerez ilyen bűncselekményről tudomást, a 170. § (4) bekezdésében meghatározott cselekmények elvégzéséről a katonai ügyészt haladéktalanul értesíti.
 
-(3) A nyomozásra illetékes parancsnokokat és a parancsnoki nyomozás részletes szabályait a fegyveres szervet irányító miniszter az igazságügyért felelős miniszterrel együttesen állapítja meg.
+(3) A nyomozásra illetékes parancsnokokat és a parancsnoki nyomozás részletes szabályait a fegyveres szervet irányító miniszter az igazságügyért felelős miniszter egyetértésével állapítja meg.
 
 ### A tanú védelme
 
@@ -5170,7 +5181,7 @@ esetén.
 
 ### A tárgyaláson részt vevő személyek
 
-488. § A tárgyaláson a katonai ügyész részvétele a 241. § (1) bekezdésében meghatározott esetekben kötelező. A katonai büntetőeljárásban az ügyészségi titkár a vádat nem képviselheti.
+488. § A tárgyaláson a katonai ügyész részvétele kötelező. A katonai büntetőeljárásban ügyészségi fogalmazó és ügyészségi titkár a vádat nem képviselheti.
 
 489. § A tárgyaláson a védő részvétele kötelező,
 
@@ -5405,7 +5416,7 @@ esetén.
 
 ### Az első fokú bírósági tárgyalás
 
-522. § (1) A tárgyaláson az ügyész és a védő részvétele kötelező.
+522. § (1) A tárgyaláson a védő részvétele kötelező.
 
 (2) Az ügyész a tárgyalás megkezdése előtt – ha ez korábban nem történt meg – az iratokat és a tárgyi bizonyítási eszközöket a bíróságnak átadja, ezt követően a vádat szóban terjeszti elő.
 
@@ -5462,7 +5473,7 @@ az ügyész vádat emel.
 
 (5) Az (1)–(4) bekezdésben foglaltakat megfelelően alkalmazni kell a másodfokú és a harmadfokú bírósági eljárásban is.
 
-530. § (1) A vádlott távollétében tartott tárgyaláson az ügyész és a védő részvétele kötelező.
+530. § (1) A vádlott távollétében tartott tárgyaláson a védő részvétele kötelező.
 
 (2) A vádlottnak hirdetményi úton kézbesített hivatalos iratot [70. § (5)–(6) bek.] a védőjének is kézbesíteni kell.
 
@@ -5615,11 +5626,11 @@ az ügyész vádat emel.
 
 543. § E törvény rendelkezéseit a tárgyalás mellőzésével folytatott eljárásban az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
-544. § (1) A bíróság a szabadlábon lévő vádlottal szemben tárgyalás mellőzésével végzésben végrehajtásában felfüggesztett szabadságvesztést, közérdekű munkát, pénzbüntetést, foglalkozástól eltiltást, járművezetéstől eltiltást, kiutasítást – katonával szemben lefokozást, szolgálati viszony megszüntetését is –, továbbá intézkedésként próbára bocsátást, megrovást alkalmaz a három évi szabadságvesztésnél nem súlyosabban büntetendő bűncselekmény esetén, ha
+544. § (1) A bíróság az ügyész indítványára vagy hivatalból a szabadlábon lévő vádlottal szemben tárgyalás mellőzésével végzésben végrehajtásában felfüggesztett szabadságvesztést, közérdekű munkát, pénzbüntetést, foglalkozástól eltiltást, járművezetéstől eltiltást, kiutasítást – katonával szemben lefokozást, szolgálati viszony megszüntetését is –, továbbá intézkedésként próbára bocsátást, megrovást alkalmaz a három évi szabadságvesztésnél nem súlyosabban büntetendő bűncselekmény esetén, ha
 
-- a) a törvény a szabadságvesztés végrehajtásának felfüggesztését, közérdekű munka, pénzbüntetést, foglalkozástól eltiltást, járművezetéstől eltiltást, kiutasítást, kitiltást – katonával szemben lefokozást, szolgálati viszony megszüntetését, rendfokozatban visszavetést és a várakozási idő meghosszabbítását is – vagy a próbára bocsátás alkalmazását lehetővé teszi,
+- a) a törvény a szabadságvesztés végrehajtásának felfüggesztését, a közérdekű munkát, a pénzbüntetést, a foglalkozástól eltiltást, a járművezetéstől eltiltást, a kiutasítást, a kitiltást – katonával szemben a lefokozást, a szolgálati viszony megszüntetését, a rendfokozatban visszavetést és a várakozási idő meghosszabbítását is – vagy a próbára bocsátás alkalmazását lehetővé teszi,
 - b) a tényállás egyszerű,
-- c) a vádlott a bűncselekmény elkövetését beismerte,
+- c) a vádlott a bűncselekmény elkövetését beismerte, és
 - d) a büntetés célja tárgyalás nélkül is elérhető.
 
 (2) Tárgyalás mellőzésével egy évet meghaladó szabadságvesztés nem szabható ki.
@@ -5651,11 +5662,11 @@ az ügyész vádat emel.
 
 (4) A végzés indokolása a megállapított tényállást, a végzés meghozatala törvényi előfeltételeinek fennállására való utalást, valamint az alkalmazott jogszabályok megjelölését tartalmazza.
 
-(5) A végzést bírósági titkár is meghozhatja.
+(5) Ha a tárgyalás mellőzését az ügyész indítványozta, a végzést bírósági titkár is meghozhatja.
 
 548. § (1) A tárgyalás mellőzésével hozott végzés ellen fellebbezésnek nincs helye; az ügyész, a magánvádló, a vádlott, a védő, a magánfél és az egyéb érdekelt a kézbesítésétől számított nyolc napon belül tárgyalás tartását kérheti. A kérelem alapján a bíróság tárgyalást tart.
 
-(2) Az ügyész nem kérheti tárgyalás tartását azon a címen, hogy a bíróság az 544. § (1) bekezdése alapján járt el.
+(2) Ha a tárgyalás mellőzését az ügyész indítványozta, az ügyész nem kérheti a tárgyalás tartását azon az alapon, hogy a bíróság az 544. § (1) bekezdése alapján jár el.
 
 (3) A magánfél kizárólag a polgári jogi igényt elbíráló rendelkezéssel, az egyéb érdekelt csak az elkobzással és a vagyonelkobzással kapcsolatban kérheti tárgyalás tartását. Ha a tárgyalás tartását kizárólag a magánfél kérte, a bíróság a tárgyaláson a polgári jogi igényre vonatkozó rendelkezést hatályon kívül helyezi, és az igény érvényesítését egyéb törvényes útra utasítja.
 
@@ -5675,7 +5686,7 @@ az ügyész vádat emel.
 
 550. § (1) A tárgyalás tartására irányuló kérelmet a kérelmező a tárgyalás megkezdéséig visszavonhatja.
 
-(2) A tárgyalást kérő személynek a tárgyaláson való részvétele kötelező. Ha a tárgyaláson nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem menti ki, úgy kell tekinteni, mint aki a kérelmét visszavonta. Ez a rendelkezés az ügyészre nem vonatkozik.
+(2) A tárgyalást kérő személynek a tárgyaláson való részvétele kötelező. Ha a tárgyaláson nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem menti ki, úgy kell tekinteni, mint aki a kérelmét visszavonta, ez utóbbi rendelkezés az ügyészre nem vonatkozik.
 
 ### XXVIII. Fejezet — ELJÁRÁS A MENTESSÉGET ÉLVEZŐ SZEMÉLYEK ÜGYÉBEN
 
@@ -5834,12 +5845,12 @@ az ügyész vádat emel.
 
 571. § Ha a bíróság az ügydöntő határozatában a lefoglalt dolog kiadásáról, megsemmisítéséről, illetőleg arról, hogy az az állam tulajdonába kerül, nem, vagy nem a törvénynek megfelelően rendelkezett, erről az ügyész indítványára vagy hivatalból utólag az 570. § megfelelő alkalmazásával határoz.
 
-### Próbaidőre felfüggesztett büntetés végrehajtásának utólagos elrendelése és utólagos rendelkezés a próbaidőre felfüggesztett szabadságvesztésről
+### Próbaidőre felfüggesztett szabadságvesztés végrehajtásának utólagos elrendelése és utólagos rendelkezés a próbaidőre felfüggesztett szabadságvesztésről
 
-572. § (1) A bíróság a próbaidőre felfüggesztett büntetés végrehajtását az ügyész indítványára vagy hivatalból elrendeli, ha
+572. § (1) A bíróság a próbaidőre felfüggesztett szabadságvesztés végrehajtását az ügyész indítványára vagy hivatalból elrendeli, ha
 
-- a)
-- b) az elítéltet a próbaidő alatt elkövetett bűncselekmény miatt a Btk. 91. § (1) bekezdésének b) pontjában vagy (3) bekezdésében meghatározott büntetésre ítélték, és az újabb bűncselekmény miatt eljáró bíróság a végrehajtás iránt nem intézkedett,
+- a) az elkövetőt a szabadságvesztés végrehajtandó része alatt elkövetett bűncselekmény miatt végrehajtandó szabadságvesztésre ítélték [Btk. 91/A. § b) pont], és az újabb bűncselekmény miatt eljáró bíróság a végrehajtás iránt nem intézkedett,
+- b) az elítéltet a próbaidő alatt elkövetett bűncselekmény miatt végrehajtandó szabadságvesztésre ítélték [Btk. 91/A. § c) pont], és az újabb bűncselekmény miatt eljáró bíróság a végrehajtás iránt nem intézkedett,
 - c) az elkövető a pártfogó felügyelet magatartási szabályait súlyosan megszegte.
 
 (2) Az (1) bekezdés c) pontja esetén a bíróság tárgyaláson határoz.
@@ -5954,6 +5965,8 @@ I. a nyomozást azért szüntették meg, mert
 
 (4) Ha a terhelt a kártalanítási eljárás lefolytatása előtt meghal, vagy a határidő eltelte előtt meghal anélkül, hogy igényét előterjesztette volna, örököse az eljárás folytatását kérheti, illetőleg a határidőn belül kártalanítási igényt terjeszthet elő.
 
+(5) A terheltet kártalanítási igényének jogalapjáról, az igény érvényesítésének határidejéről, és a határidő kezdő időpontjáról a nyomozást megszüntető határozat, a felmentő ítélet, a megszüntető végzés, illetve a rendkívüli jogorvoslat eredményeképpen hozott határozat közlésével egyidejűleg tájékoztatni kell.
+
 584. § (1) A bíróság a kérelmet a büntetőügy irataival együtt az eljárás lefolytatása végett a kártérítés elbírálására a Polgári perrendtartás szerint hatáskörrel és illetékességgel rendelkező bíróságnak küldi meg. Az iratok megküldését elrendelő végzés ellen nincs helye fellebbezésnek.
 
 (2) A kártalanítási igény elbírálása során az (1) bekezdés szerinti bíróság az e törvényben foglalt eltérésekkel a Polgári perrendtartás szabályai szerint jár el. A perben felperesként a terhelt (örökös), alperesként a Magyar Állam képviseletében az igazságügyért felelős miniszter vesz részt.
@@ -5994,7 +6007,7 @@ I. a nyomozást azért szüntették meg, mert
 
 (2) Ha a bíróság pénzbüntetést szab ki, vagyonelkobzást alkalmaz, illetőleg a terheltet a bűnügyi költség megfizetésére kötelezi, az államra szállt biztosítékot ezek végrehajtására kell fordítani.
 
-(3) Végrehajtandó szabadságvesztés kiszabása esetén a büntetés végrehajtásának befejezése után a biztosítékot az elítéltnek vissza kell fizetni. Más büntetés végrehajtása iránt nem lehet intézkedni.
+(3) Végrehajtandó, illetve részben felfüggesztett szabadságvesztés kiszabása esetén a büntetés végrehajtásának befejezése után a biztosítékot az elítéltnek vissza kell fizetni. Más büntetés végrehajtása iránt nem lehet intézkedni.
 
 (4) A biztosíték a terheltnek egészében vagy több bűncselekmény esetén részben, arányosan visszajár,
 
@@ -6110,7 +6123,7 @@ I. a nyomozást azért szüntették meg, mert
 
 (2) Az (1) bekezdés esetén a bíróság a székhelyén működő büntetés-végrehajtási intézet parancsnokától rövid úton büntetés-végrehajtási őr kirendelését kéri, és az elítéltet az őrnek adja át. Ha a bíróság székhelyén nincs büntetés-végrehajtási intézet, vagy a büntetés-végrehajtási őr kirendelésének akadálya van, a bíróság az elítéltnek a büntetés-végrehajtási intézetbe kísérése végett rövid úton a rendőrséget keresi meg.
 
-(3) Ha a bíróság végrehajtandó szabadságvesztést kiszabó határozatának jogerőre emelkedésekor a terhelt nincs előzetes letartóztatásban, és a bíróság a szabadságvesztés végrehajtásának azonnali foganatba vételét nem rendeli el, de a kiszabott szabadságvesztésre tekintettel vagy egyéb okból alaposan feltehető, hogy a szökésével vagy az elrejtőzésével a büntetés végrehajtása alól kivonná magát, az elítélttel szemben – a büntetés-végrehajtási intézetbe történő befogadásáig – a szabadságvesztés végrehajtásának biztosítására irányuló intézkedés rendelhető el.
+(3) Ha a bíróság szabadságvesztést kiszabó határozatának jogerőre emelkedésekor a terhelt nincs előzetes letartóztatásban, és a bíróság a szabadságvesztés végrehajtásának azonnali foganatba vételét nem rendeli el, de a kiszabott szabadságvesztésre tekintettel vagy egyéb okból alaposan feltehető, hogy a szökésével vagy az elrejtőzésével a büntetés végrehajtása alól kivonná magát, az elítélttel szemben – a büntetés-végrehajtási intézetbe történő befogadásáig – a szabadságvesztés végrehajtásának biztosítására irányuló intézkedés rendelhető el.
 
 (4) A szabadságvesztés végrehajtásának biztosítására irányuló intézkedést el kell rendelni, ha a bíróság a két évet meghaladó szabadságvesztés végrehajtásának megkezdésére halasztást engedélyezett [591. § (2) bek. c) pont].
 
@@ -6212,32 +6225,33 @@ felterjeszti. A kegyelmi kérelemnek az eljárás folytatására nincs halasztó
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
 - a) az ismeretlen helyen tartózkodó terhelt, illetve a bűncselekmény elkövetésével alaposan gyanúsítható ismeretlen személy tartózkodási helye felkutatásának, lakóhelye, illetőleg személyazonossága megállapításának és körözése elrendelésének részletes szabályait az érintett miniszterekkel egyetértésben,
-- b) büntetőeljárás során kirendelt védő, a büntetőeljárásban részt vevő személyek költségeit, e személyek képviselőinek díját és költségeit, valamint a terhelt személyes költségmentességével kapcsolatos részletes szabályokat a rendészetért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,
-- c) a bűnügyi költségek előlegezésének és az államot illető bűnügyi költségek behajtásának és elszámolásának, valamint a vádlott és a védő készkiadása, illetőleg a védő díja állam általi megtérítésének szabályait az államháztartásért felelős miniszterrel és a rendészetért felelős miniszterrel együttesen,
+- b) büntetőeljárás során kirendelt védő, a büntetőeljárásban részt vevő személyek költségeit, e személyek képviselőinek díját és költségeit, valamint a terhelt személyes költségmentességével kapcsolatos részletes szabályokat a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
+- c) a bűnügyi költségek előlegezésének és az államot illető bűnügyi költségek behajtásának és elszámolásának, valamint a vádlott és a védő készkiadása, illetőleg a védő díja állam általi megtérítésének szabályait az államháztartásért felelős miniszter és a rendészetért felelős miniszter egyetértésével kiadott,
 - d) a szaktanácsadó díjazására, illetve a tanú által felszámítható költségekre vonatkozó részletes szabályokat az államháztartásért felelős miniszterrel egyetértésben,
 - e)
-- f) az elmeállapot megfigyelésére kijelölt egészségügyi intézményeket, a pszichiátriai fekvőbeteg-intézetben az elmeállapot megfigyelésével kapcsolatos költségeket és ezek elszámolását az egészségügyért felelős miniszterrel együttesen,
-- g) a tolmácsra és a fordítóra vonatkozó rendelkezéseket, a tolmács és a fordító díjazására és az általuk felszámítható költségekre vonatkozó részletes szabályokat az érintett miniszterekkel együttesen,
-- h) a házi őrizet végrehajtási szabályait, valamint a lakhelyelhagyási tilalommal összefüggésben a terhelt mozgását nyomon követő eszköz alkalmazásának szabályait a rendészetért felelős miniszterrel együttesen,
+- f) az elmeállapot megfigyelésére kijelölt egészségügyi intézményeket, a pszichiátriai fekvőbeteg-intézetben az elmeállapot megfigyelésével kapcsolatos költségeket és ezek elszámolását az egészségügyért felelős miniszter egyetértésével kiadott,
+- g) a tolmácsra és a fordítóra vonatkozó rendelkezéseket, a tolmács és a fordító díjazására és az általuk felszámítható költségekre vonatkozó részletes szabályokat az érintett miniszterek egyetértésével kiadott,
+- h) a házi őrizet végrehajtási szabályait, valamint a lakhelyelhagyási tilalommal összefüggésben a terhelt mozgását nyomon követő eszköz alkalmazásának szabályait a rendészetért felelős miniszter egyetértésével kiadott,
 - i) az óvadék letétele esetén a bírósági letét szabályait,
-- j) a lefoglalás és a büntetőeljárás során lefoglalt dolgok kezelésének, nyilvántartásának, előzetes értékesítésének és megsemmisítésének szabályait a rendészetért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,
+- j) a lefoglalás és a büntetőeljárás során lefoglalt dolgok kezelésének, nyilvántartásának, előzetes értékesítésének és megsemmisítésének szabályait a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
 - k) a bírósági eljárásban az eljárási cselekmény jegyzőkönyv helyett más módon való rögzítésének szabályait, valamint a tárgyalás zártcélú távközlő hálózat útján történő megtartásának részletes szabályait,
-- l) a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra háruló feladatokat az érintett miniszterekkel együttesen,
-- m) a büntetőeljárás során keletkezett iratokból másolat adását a rendészetért felelős miniszterrel és az adópolitikáért felelős miniszterrel együttesen,
-- n) a büntetőeljárásban alkalmazható sajtóhirdetmény útján történő értesítés szabályait a rendészetért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,
+- l) a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra háruló feladatokat az érintett miniszterek egyetértésével kiadott,
+- m) a büntetőeljárás során keletkezett iratokból másolat adását a rendészetért felelős miniszter és az adópolitikáért felelős miniszter egyetértésével kiadott,
+- n) a büntetőeljárásban alkalmazható sajtóhirdetmény útján történő értesítés szabályait a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
 - o) a bírósági ügyvitel szabályait,
 - p) a fogvatartásban lévő terhelt elmeállapota megfigyelésének és az ideiglenes kényszergyógykezelés végrehajtásának szabályait,
-- q) az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai rendszer szabályait, valamint az adatgyűjtés és feldolgozás részletes szabályait,
+- q)
 - r) az ügyészség és a Rendőrség szerveinek az ügyészségi nyomozásban való együttműködése, és az ennek kapcsán felmerült költségek viselése részletes szabályait
 
 rendeletben szabályozza.
 
-(3) Felhatalmazást kap a rendészetért felelős miniszter, illetőleg az adópolitikáért felelős miniszter, hogy az igazságügyért felelős miniszterrel együttesen rendeletben szabályozza az irányítása alá tartozó nyomozó hatóságok nyomozásának részletes szabályait, köztük a nyomozási cselekmények jegyzőkönyv helyett más módon való rögzítésének szabályait, a büntetőeljárás nyomozási szakaszában a sajtónak adandó tájékoztatás részletes szabályait.
+(3) Felhatalmazást kap a rendészetért felelős miniszter, illetőleg az adópolitikáért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza az irányítása alá tartozó nyomozó hatóságok nyomozásának részletes szabályait, köztük a nyomozási cselekmények jegyzőkönyv helyett más módon való rögzítésének szabályait, a büntetőeljárás nyomozási szakaszában a sajtónak adandó tájékoztatás részletes szabályait.
 
 (4) Felhatalmazást kap
 
-- a) a honvédelemért felelős miniszter, hogy az érintett miniszterekkel együttesen a katonával szemben elrendelt lakhelyelhagyási tilalom ellenőrzésének szabályait,
-- b) a fegyveres szervet irányító miniszter, hogy az igazságügyért felelős miniszterrel együttesen a nyomozásra illetékes parancsnokokat, valamint hatáskörüket és a parancsnoki nyomozás részletes szabályait
+- a) a honvédelemért felelős miniszter, hogy az érintett miniszterek egyetértésével a katonával szemben elrendelt lakhelyelhagyási tilalom ellenőrzésének szabályait,
+- b) a fegyveres szervet irányító miniszter, hogy az igazságügyért felelős miniszter egyetértésével a nyomozásra illetékes parancsnokokat, valamint hatáskörüket és a parancsnoki nyomozás részletes szabályait,
+- c) a rendészetért felelős miniszter, hogy az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai rendszer szabályait, valamint az adatgyűjtés és feldolgozás részletes szabályait
 
 rendeletben megállapítsa.
 
@@ -6250,11 +6264,11 @@ rendeletben megállapítsa.
 
 az idézésekre, értesítésekre, határozatokra, jegyzőkönyvekre és az eljárás során gyakrabban használt más iratokra nyomtatvány rendszeresítését rendelje el.
 
-(6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a kábítószer-megelőzésért és a kábítószerügyi koordinációs feladatokért felelős miniszterrel együttesen, és a rendészetért felelős miniszterrel, az igazságügyért felelős miniszterrel egyetértésben rendeletben meghatározza a kábítószerfüggőséget gyógyító kezelés, kábítószer-használatot kezelő más ellátás vagy megelőző-felvilágosító szolgáltatás szabályait.
+(6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a kábítószer-megelőzésért és a kábítószerügyi koordinációs feladatokért felelős miniszter, a rendészetért felelős miniszter, az igazságügyért felelős miniszter egyetértésével kiadott rendeletben meghatározza a kábítószerfüggőséget gyógyító kezelés, kábítószer-használatot kezelő más ellátás vagy megelőző-felvilágosító szolgáltatás szabályait.
 
-(7) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen rendeletben szabályozza a büntetőeljárásban elrendelt elővezetés végrehajtásával, valamint a terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyész, illetőleg nyomozó hatóság elé állításával felmerült költség megtérítésének részletes szabályait.
+(7) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott rendeletben szabályozza a büntetőeljárásban elrendelt elővezetés végrehajtásával, valamint a terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyész, illetőleg nyomozó hatóság elé állításával felmerült költség megtérítésének részletes szabályait.
 
-(8) Felhatalmazást kap a rendészetért felelős miniszter, illetőleg az adópolitikáért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben szabályozza az irányítása alá tartozó nyomozó hatóságok hatáskörét és illetékességét.
+(8) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben szabályozza az irányítása alá tartozó nyomozó hatóságok hatáskörét és illetékességét.
 
 ### Hatálybalépés
 

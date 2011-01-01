@@ -8,16 +8,16 @@ a Magyar Köztársaság ügyészségéről
 
 1. § (1) A Magyar Köztársaság legfőbb ügyésze és az ügyészség gondoskodik a természetes személyek, a jogi személyek és a jogi személyiséggel nem rendelkező szervezetek jogainak a védelméről, valamint az alkotmányos rendet, az ország biztonságát és függetlenségét sértő vagy veszélyeztető minden cselekmény következetes üldözéséről.
 
-(2) Az ügyészség a büntetőeljárásról szóló törvényben meghatározott feltételek szerint nyomozást végeztet és nyomoz; ha a nyomozó hatóság önállóan végez nyomozást vagy egyes nyomozási cselekményeket, az ügyészség felügyel arra, hogy azt a törvény rendelkezéseit megtartva végezzék; törvényben meghatározott egyéb jogokat gyakorol a nyomozással összefüggésben, képviseli a vádat a bírósági eljárásban, továbbá felügyeletet gyakorol a büntetés-végrehajtás törvényessége felett.
+(2) Az ügyészség a büntetőeljárásról szóló törvényben meghatározott feltételek szerint nyomozást végeztet és nyomoz; ha a nyomozó hatóság önállóan végez nyomozást vagy egyes nyomozási cselekményeket, az ügyészség felügyel arra, hogy azt a törvény rendelkezéseit megtartva végezzék, törvényben meghatározott egyéb jogokat gyakorol a nyomozással összefüggésben, képviseli a vádat a bírósági eljárásban, továbbá felügyelet gyakorol a rendőrségről szóló törvényben meghatározott megbízhatósági vizsgálat, valamint a büntetés-végrehajtás törvényessége felett.
 
 (3) Az ügyészség közreműködik annak biztosításában, hogy mindenki megtartsa a törvényeket. Törvénysértés esetén – törvényben meghatározott esetekben és módon – fellép a törvényesség védelmében.
 
-2. § Az ügyész kellő időben köteles megtenni a törvényben meghatározott intézkedéseket, ha a Magyar Köztársaság törvényeit bármilyen módon megsértik és a törvénysértés megszüntetésére hivatott szerv az Alkotmányban, törvényben és más jogszabályban vagy az állami irányítás egyéb jogi eszközében meghatározott kötelezettsége ellenére a szükséges intézkedést nem teszi meg, illetőleg, ha a törvénysértésből eredő jogsérelem elhárítása érdekében azonnali ügyészi intézkedésre van szükség.
+2. § Az ügyész kellő időben köteles megtenni a törvényben meghatározott intézkedéseket, ha a Magyar Köztársaság törvényeit bármilyen módon megsértik és a törvénysértés megszüntetésére hivatott szerv az Alkotmányban, törvényben és más jogszabályban vagy közjogi szervezetszabályozó eszközben meghatározott kötelezettsége ellenére a szükséges intézkedést nem teszi meg, illetőleg, ha a törvénysértésből eredő jogsérelem elhárítása érdekében azonnali ügyészi intézkedésre van szükség.
 
 3. § (1) Az ügyészség közreműködik az alkotmányosság védelmében és a jogszabályok érvényre juttatásában. E hatáskörében
 
 - a) védi az Alkotmányban és más jogszabályokban biztosított jogokat;
-- b) fellép az Alkotmány, a törvények, az egyéb jogszabályok és az állami irányítás egyéb jogi eszközei megtartása érdekében;
+- b) fellép az Alkotmány, a törvények, az egyéb jogszabályok és a közjogi szervezetszabályozó eszközök megtartása érdekében;
 - c) üldözi a tudomására jutott bűncselekményeket;
 - d) részt vesz az Alkotmány és más jogszabályok iránti tisztelet erősítésében, a jogsértések, a bűnözés megelőzésében.
 
@@ -29,7 +29,7 @@ a Magyar Köztársaság ügyészségéről
 - d) gyakorolja a vádemelés közhatalmi jogkörét; a bírósági eljárásban képviseli a vádat, továbbá gyakorolja a büntetőeljárási törvényben számára biztosított jogorvoslati jogokat;
 - e) törvényességi felügyeletet lát el a büntetések és intézkedések végrehajtásáról szóló jogszabályi rendelkezések megtartása felett, közreműködik a büntetésvégrehajtással kapcsolatos bírósági eljárásban (a büntetésvégrehajtás törvényességének felügyelete);
 - f) közreműködik abban, hogy a bírósági eljárásban a törvényeket helyesen alkalmazzák (az ügyész részvétele a bíróságok polgári, munkaügyi, közigazgatási és gazdasági jogi peres és nem peres eljárásaiban);
-- g) elősegíti, hogy a jogszabályok rendelkezéseit megtartsák (ügyészi törvényességi felügyelet);
+- g) elősegíti, hogy a jogszabályok rendelkezéseit megtartsák, e körben ellátja a Rendőrségről szóló 1994. évi XXXIV. törvényben (a továbbiakban: Rtv.) meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv megbízhatósági vizsgálatra vonatkozó tevékenységének felügyeletét (ügyészi törvényességi felügyelet);
 - h) kiemelt figyelmet fordít a kiskorúak sérelmére elkövetett bűncselekmények üldözésére, eljár a szükséges gyermekvédelmi intézkedések megtétele érdekében;
 - i) ellátja a nemzetközi szerződésekből, különösen a jogsegély kérésével és nyújtásával összefüggésben rá háruló feladatokat;
 - j) teljesíti a Magyar Köztársaságnak a Eurojustban való részvételével kapcsolatos feladatokat.
@@ -51,7 +51,7 @@ a Magyar Köztársaság ügyészségéről
 - g) a Legfelsőbb Bíróság előtti jogegységi eljárásban gyakorolja a külön törvényben meghatározott jogkörét;
 - h) indítványozza közvádas bűncselekmény vagy szabálysértés miatt a mentelmi jog felfüggesztését, illetőleg, ha törvény az eljárás megindítását valamely szerv, személy hozzájárulásához köti, kezdeményezi a hozzájárulás megadását;
 - i) az Országos Igazságszolgáltatási Tanács tagjaként ellátja a külön törvényben meghatározott ez irányú feladatait;
-- j) az Alkotmánybíróságnál indítványozhatja — a jogszabály, valamint az állami irányítás egyéb jogi eszköze alkotmányellenességének utólagos vizsgálatát; — a jogszabály, valamint az állami irányítás egyéb jogi eszköze nemzetközi szerződésbe ütközésének vizsgálatát; — az Alkotmányban biztosított jogok megsértése miatt benyújtott alkotmányjogi panasz elbírálását; — a mulasztásban megnyilvánuló alkotmányellenesség megszüntetését; — az ügyészség és más szerv közötti hatásköri összeütközés megszüntetését; — az Alkotmány rendelkezéseinek értelmezését;
+- j) az Alkotmánybíróságnál indítványozhatja — a jogszabály, valamint a közjogi szervezetszabályozó eszköz alkotmányellenességének utólagos vizsgálatát; — a jogszabály, valamint a közjogi szervezetszabályozó eszköz nemzetközi szerződésbe ütközésének vizsgálatát; — az Alkotmányban biztosított jogok megsértése miatt benyújtott alkotmányjogi panasz elbírálását; — a mulasztásban megnyilvánuló alkotmányellenesség megszüntetését; — az ügyészség és más szerv közötti hatásköri összeütközés megszüntetését; — az Alkotmány rendelkezéseinek értelmezését;
 - k) összeállítja az ügyészségi fejezet költségvetésére és a költségvetés végrehajtására vonatkozó javaslatát, amelyet a Kormány a központi költségvetési, illetve a zárszámadási törvényjavaslat részeként előterjeszt az Országgyűlésnek.
 
 ### Az ügyészek alárendeltsége
@@ -116,7 +116,7 @@ a Magyar Köztársaság ügyészségéről
 - e) mindazon perekben és peren kívüli eljárásokban, amelyekben az ügyészt külön törvény alapján önállóan, vagy más mellett keresetindítási jog, illetőleg jogorvoslati jog illeti meg, az ügyészi perbelépés (jogorvoslat) megfontolása céljából a bírósági iratokba betekinthet;
 - f) külön törvény felhatalmazása alapján az ügyész által közérdekből indítható polgári peres eljáráshoz az állami, a helyi önkormányzati és a kisebbségi önkormányzati szervek, a köztestületek és a gazdálkodó szervezetek vezetőitől iratok és adatok rendelkezésre bocsátását, továbbá felvilágosítás adását kérheti; a megkeresett szerv vezetője az ügyészi felkérésnek köteles az ügyész által kitűzött határidőn belül eleget tenni.
 
-(3) A helyi bíróságon ügyészségi titkár is képviselheti a vádat, kivéve, ha a bíróság az ügyészt a tárgyaláson való részvételre kötelezte.
+(3) A helyi bíróságon – törvényben meghatározott esetben – ügyészségi fogalmazó és ügyészségi titkár is képviselheti a vádat.
 
 ### IV. Fejezet — A büntetések, intézkedések, a személyes szabadságot korlátozó kényszerintézkedések végrehajtása törvényességének felügyelete, és a büntetésvégrehajtással kapcsolatos bírósági eljárásban való ügyészi közreműködés
 
@@ -162,11 +162,11 @@ törvényességét, megtekintheti a fogvatartás körülményeit és rendjét sz
 
 ### Az ügyész jogai az ügyészi törvényességifelügyelet körében
 
-13. § (1) Az ügyészi törvényességi felügyelet a Kormánynál alacsonyabb szintű közigazgatási szervek által kibocsátott jogszabályokra, illetőleg az állami irányítás egyéb jogi eszközeire, valamint e szervek egyéb, általános érvényű rendelkezéseire és e szervek jogalkalmazás körébe tartozó egyedi döntéseire terjed ki. Kiterjed ezen túlmenően a bíróságon kívüli, jogvitát intéző vagy hatósági jogkört gyakorló szervek és személyek ez irányú eljárásaira és egyedi döntéseire, valamint a gazdálkodó és egyéb szerveknek, jogi személyiséggel nem rendelkező szervezeteknek a munkaviszonnyal és a szövetkezeti tagsági viszonnyal összefüggő egyedi döntéseire, továbbá a jogszabályok felhatalmazása alapján kiadott általános érvényű intézkedéseire. Törvény az ügyészi törvényességi felügyelet hatályát más – e bekezdésben nem említett – szervekre is kiterjesztheti.
+13. § (1) Az ügyészi törvényességi felügyelet a Kormánynál alacsonyabb szintű közigazgatási szervek által kibocsátott jogszabályokra, illetőleg a közjogi szervezetszabályozó eszközökre, valamint e szervek egyéb, általános érvényű rendelkezéseire és e szervek jogalkalmazás körébe tartozó egyedi döntéseire terjed ki. Kiterjed ezen túlmenően a bíróságon kívüli, jogvitát intéző vagy hatósági jogkört gyakorló szervek és személyek ez irányú eljárásaira és egyedi döntéseire, valamint a gazdálkodó és egyéb szerveknek, jogi személyiséggel nem rendelkező szervezeteknek a munkaviszonnyal és a szövetkezeti tagsági viszonnyal összefüggő egyedi döntéseire, továbbá a jogszabályok felhatalmazása alapján kiadott általános érvényű intézkedéseire. Törvény az ügyészi törvényességi felügyelet hatályát más – e bekezdésben nem említett – szervekre is kiterjesztheti.
 
 (2) Az ügyész a törvényesség biztosítása érdekében az ügyészi törvényességi felügyelet során
 
-- a) óvást emelhet az Alkotmánnyal vagy magasabb szintű jogszabállyal ellentétes jogszabály, illetőleg állami irányítás egyéb jogi eszköze ellen;
+- a) óvást emelhet az Alkotmánnyal vagy magasabb szintű jogszabállyal ellentétes jogszabály, illetőleg közjogi szervezetszabályozó eszköz ellen;
 - b) elbírálja azokat a törvényességi kérelmeket, közérdekű bejelentéseket és törvénysértésre utaló jelzéseket, amelyeket az államigazgatás és más, bíróságon kívüli jogalkalmazó szervek határozatai, illetőleg törvénysértő mulasztásai ellen az ügyészséghez benyújtanak;
 - c) a hatáskörébe tartozó területi és helyi szerveknél általános érvényű rendelkezés (szabályzat, alapszabály stb.) kiadását, módosítását vagy egyes rendelkezéseinek hatályon kívül helyezését kezdeményezheti;
 - d) ellenőrizheti a körözési nyilvántartásra vonatkozó jogszabályok megtartását;
@@ -179,9 +179,9 @@ törvényességét, megtekintheti a fogvatartás körülményeit és rendjét sz
 
 ### Az óvás
 
-13/A. § (1) Ha az ügyész azt állapítja meg, hogy ügyészi törvényességi felügyeleti jogkörébe tartozó szerv által kibocsátott jogszabály vagy az állami irányítás egyéb jogi eszköze az Alkotmánnyal, illetőleg magasabb szintű jogszabállyal ellentétes, ennek megszüntetése érdekében az azt kibocsátó szervhez óvást nyújthat be.
+13/A. § (1) Ha az ügyész azt állapítja meg, hogy ügyészi törvényességi felügyeleti jogkörébe tartozó szerv által kibocsátott jogszabály vagy a közjogi szervezetszabályozó eszköz az Alkotmánnyal, illetőleg magasabb szintű jogszabállyal ellentétes, ennek megszüntetése érdekében az azt kibocsátó szervhez óvást nyújthat be.
 
-(2) A szerv az óvást harminc napon belül köteles megvizsgálni. Ha az óvást alaposnak tartja, a jogszabályt, illetőleg az állami irányítás egyéb jogi eszközét hatályon kívül helyezi, visszavonja vagy módosítja, és erről az ügyészt egyidejűleg értesíti.
+(2) A szerv az óvást harminc napon belül köteles megvizsgálni. Ha az óvást alaposnak tartja, a jogszabályt, illetőleg a közjogi szervezetszabályozó eszközt hatályon kívül helyezi, visszavonja vagy módosítja, és erről az ügyészt egyidejűleg értesíti.
 
 (3) Ha a szerv az óvással nem ért egyet, a megvizsgálástól számított nyolc napon belül köteles az óvást elbírálás végett az Alkotmánybíróság elé terjeszteni és erről az ügyészt értesíteni.
 
@@ -232,6 +232,20 @@ törvényességét, megtekintheti a fogvatartás körülményeit és rendjét sz
 (5) A szabálysértési (bírságolási) ügyben benyújtott óvásnak a kifogásolt határozat, illetőleg intézkedés végrehajtására halasztó hatálya van. Az elkövető terhére óvásnak csak a határozat jogerőre emelkedésétől számított hat hónapon belül van helye.
 
 17/A. § Az ügyész előzetesen jóváhagyja a rendőrségnek a büntetőeljárásban résztvevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló törvény szerint az érintett személyazonosságának megváltoztatására irányuló intézkedését.
+
+### A megbízhatósági vizsgálat feletti felügyelet
+
+17/B. § (1) Az ügyész a (2) bekezdésben meghatározottak szerint felügyel az Rtv.-ben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv által folytatott megbízhatósági vizsgálat törvényességére.
+
+(2) A felügyelet során az ügyész
+
+- a) jogosult a megbízhatósági vizsgálat elrendeléséről szóló határozatról, továbbá a megbízhatósági vizsgálat végrehajtásáról szóló részletes tervről az elrendelést követő – a határozat és a részletes terv megküldésével történő – haladéktalan tájékoztatásra,
+- b) az elrendelésről szóló, az a) pontban meghatározott iratok kézhezvételét követő 2 munkanapon belül dönt a megbízhatósági vizsgálat lefolytatásának jóváhagyásáról,
+- c) jogosult a megbízhatósági vizsgálat teljes dokumentációjába korlátozás nélkül betekinteni,
+- d) jogosult a megbízhatósági vizsgálat befejezéséről szóló indokolt határozatról – a határozat megküldésével történő – haladéktalan tájékoztatásra, valamint
+- e) a d) pont szerinti határozat kézhezvételétől számított 8 munkanapon belül óvást emelhet.
+
+(3) Az ügyész a megbízhatósági vizsgálat befejezéséről szóló indokolt határozatot a kézhezvételét követő 8 munkanapon belül visszaküldi az Rtv.-ben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnek.
 
 ### VI. Fejezet — Az ügyészi szervezet.
 
@@ -322,6 +336,8 @@ felelősségre vonására.
 28. § (1) Ez a törvény 1973. január 1. napján lép hatályba. Végrehajtásáról a legfőbb ügyész gondoskodik.
 
 (2)–(3)
+
+29. § Ahol e törvény közjogi szervezetszabályozó eszközt említ, azon az állami irányítás egyéb jogi eszközét is érteni kell.
 
 ### 1. számú melléklet az 1972. évi V. törvényhez
 

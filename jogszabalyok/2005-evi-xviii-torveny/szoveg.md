@@ -85,9 +85,9 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 (3) A Hivatal eljárásáért igazgatási-szolgáltatási díjat kell fizetni.
 
-(4) A Hivatal az eljárás megindításáról az ügyfelet 10 munkanapon belül értesíti.
+(4) A Hivatal az eljárás megindításáról az ügyfelet tizenöt napon belül értesíti.
 
-(5) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a Hivatal a kérelem beérkezésétől számított 15 munkanapon belül hiánypótlásra hívja fel.
+(5) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a Hivatal a kérelem beérkezését követő naptól számított húsz napon belül hiánypótlásra hívja fel.
 
 (6)–(7)
 
@@ -132,7 +132,7 @@ rendelkezéseivel összhangban kell alkalmazni.
 - g) határozatában elrendelheti – az 51. § (8) bekezdésében foglalt esetekben – a felhasználási helyre történő bejutást.
 - h)
 
-(2) Az önkormányzat jegyzőjének eljárásában az ügyintézés határideje 45 munkanap, engedélyezési eljárások esetében három hónap. Az önkormányzat jegyzőjének határozata ellen nincs helye fellebbezésnek. A bíróság az önkormányzat jegyzőjének határozatát jogosult megváltoztatni.
+(2) Az önkormányzat jegyzőjének eljárásában az ügyintézés határideje két hónap, engedélyezési eljárások esetében három hónap. Az önkormányzat jegyzőjének határozata ellen nincs helye fellebbezésnek. A bíróság az önkormányzat jegyzőjének határozatát jogosult megváltoztatni.
 
 ### Fogyasztóvédelem
 
@@ -182,7 +182,7 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 (3) A Hivatal által az e törvény alapján jogerős határozattal kiadott, létesítési és távhőtermeléssel kapcsolatos engedélyek, engedély-módosítások, engedély-visszavonások rendelkező részét és azok indokolását az e törvény végrehajtásáról szóló külön jogszabályban meghatározott módon kell nyilvánosan közzétenni. A Hivatal az egyéb jogerős határozatait nyilvánosan közzéteheti.
 
-(4) Az engedélyező által az e törvény alapján kiadott, a távhőtermeléssel és távhőszolgáltatással kapcsolatos engedélyeket és azok indoklását az engedélyező hivatalos lapjában, illetőleg a helyben szokásos módon, három munkanapon belül kell közzétenni.
+(4) Az engedélyező által az e törvény alapján kiadott, a távhőtermeléssel és távhőszolgáltatással kapcsolatos engedélyeket és azok indoklását az önkormányzat a hivatalos lapjában, illetve a helyben szokásos módon, valamint a Hivatal a honlapján öt napon belül közzéteszi.
 
 ### A távhőtermelő létesítmény létesítésére
 
@@ -313,7 +313,7 @@ okozott kárt az ingatlan tulajdonosának, használójának (a továbbiakban egy
 - a) a föld alatti és különösen indokolt esetben a föld feletti távhővezeték-hálózatot és az ahhoz szükséges tartószerkezetet létesíthet, illetve helyezhet el;
 - b) az a) pont szerint elhelyezett létesítményeket üzemeltetheti, karbantarthatja, kijavíthatja, átalakíthatja, eltávolíthatja;
 - c) a távhővezeték-hálózat mentén levő, annak épségét közvetlenül veszélyeztető fákat, bokrokat, azok ágait, gyökereit – kártérítési kötelezettség mellett – eltávolíthatja;
-- d) a távhővezeték-hálózattal – az energiapolitikáért felelős miniszternek a szabályozásban érdekelt miniszterrel együttesen kiadott, az e törvény végrehajtásáról szóló rendeletében meghatározott módon – más építményt és nyomvonalas műtárgyat megközelíthet, illetve keresztezhet.
+- d) a távhővezeték-hálózattal – az energiapolitikáért felelős miniszternek a szabályozásban érdekelt miniszterrel egyetértésben kiadott, az e törvény végrehajtásáról szóló rendeletében meghatározott módon – más építményt és nyomvonalas műtárgyat megközelíthet, illetve keresztezhet.
 
 24. § Távhővezeték-hálózat részét képező vezeték az ingatlantulajdonossal, az ingatlan kezelőjével, illetőleg a közterület tulajdonosával kötött szerződés alapján is létesíthető és üzemeltethető.
 
@@ -654,7 +654,7 @@ meghatározott szerződésszegést követi el.
 
 (2) A távhőszolgáltató az (1) bekezdés szerinti kezdeményezésében köteles részletesen és teljes körűen alátámasztani, hogy – az 57. § (3) bekezdésében meghatározottakra tekintettel – az adott díj megváltoztatását mely körülmények és milyen mértékben indokolják.
 
-(3) A távhőszolgáltató az (1) bekezdés szerinti kezdeményezést a Hivatalnak megküldi, amely közigazgatási hatósági eljárás keretében 22 munkanapon belül dönt arról, hogy a díj a távhőszolgáltató által alátámasztott megváltozása esetén megfelel-e az 57. § (2)–(3) bekezdésében meghatározott követelményeknek. A Hivatal eljárásáért igazgatási-szolgáltatási díjat kell fizetni. A Hivatal a határozatát nyilvánosan közzéteszi.
+(3) A távhőszolgáltató az (1) bekezdés szerinti kezdeményezést a Hivatalnak megküldi, amely közigazgatási hatósági eljárás keretében harminc napon belül dönt arról, hogy a díj a távhőszolgáltató által alátámasztott megváltozása esetén megfelel-e az 57. § (2)–(3) bekezdésében meghatározott követelményeknek. A Hivatal eljárásáért igazgatási-szolgáltatási díjat kell fizetni. A Hivatal a határozatát nyilvánosan közzéteszi.
 
 (4) A (3) bekezdésben meghatározott eljárás során ügyfélnek minősül
 
@@ -675,7 +675,7 @@ meghatározott szerződésszegést követi el.
 
 (2) Az (1) bekezdésben meghatározott eljárás során ügyfélnek minősülnek az 57/A. § (4) bekezdésében meghatározott személyek és szervezetek.
 
-(3) Ha a Hivatal az (1) bekezdésben meghatározott eljárása során azt állapítja meg, hogy a távhőszolgáltatás csatlakozási díja vagy a lakossági távhőszolgáltatás díja nem felel meg az 57. § (2)–(3) bekezdésében meghatározott követelményeknek, a törvényben meghatározott egyéb jogkövetkezmények alkalmazásán túl a távhőszolgáltatót felszólítja, hogy az kezdeményezze a díj megváltoztatását, illetve a helyi önkormányzat távhőszolgáltatás csatlakozási díját és a lakossági távhőszolgáltatás díját megállapító rendeletének vizsgálata érdekében a törvényességi ellenőrzési hatáskörében eljáró közigazgatási hivatalhoz fordul.
+(3) Ha a Hivatal az (1) bekezdésben meghatározott eljárása során azt állapítja meg, hogy a távhőszolgáltatás csatlakozási díja vagy a lakossági távhőszolgáltatás díja nem felel meg az 57. § (2)–(3) bekezdésében meghatározott követelményeknek, a törvényben meghatározott egyéb jogkövetkezmények alkalmazásán túl a távhőszolgáltatót felszólítja, hogy az kezdeményezze a díj megváltoztatását, illetve a helyi önkormányzat távhőszolgáltatás csatlakozási díját és a lakossági távhőszolgáltatás díját megállapító rendeletének vizsgálata érdekében a törvényességi ellenőrzési hatáskörében eljáró helyi önkormányzatok törvényességi ellenőrzéséért felelős szervhez fordul.
 
 (4) Ha a Hivatal az (1) bekezdésben meghatározott eljárása során azt állapítja meg, hogy a távhőtermelő és a távhőszolgáltató közötti szerződésben meghatározott ár nem felel meg az 57. § (2)–(3) bekezdésében meghatározott követelményeknek, a távhőtermelőt és a távhőszolgáltatót felszólítja az ár megváltoztatására. Ha a felszólításnak a távhőtermelő és a távhőszolgáltató harminc napon belül nem tesz eleget, a Hivatal – a törvényben meghatározott egyéb jogkövetkezmények alkalmazásán túl – a szerződés e rendelkezése törvénybe ütközésének megállapítása érdekében keresetet indíthat.
 
@@ -743,7 +743,7 @@ meghatározott szerződésszegést követi el.
 
 - a) az adópolitikáért felelős miniszterrel egyetértésben megállapítja a Hivatal részére fizetendő díjak mértékét és a díjak fizetésére vonatkozó részletes szabályokat;
 - b) az adópolitikáért felelős miniszterrel egyetértésben ellátja a távhőtermeléshez kapcsolódó, törvény által hatáskörébe utalt árhatósági feladatokat (61. §);
-- c) az adópolitikáért felelős miniszterrel és a közigazgatási informatikáért felelős miniszterrel egyetértésben megállapítja a műszaki biztonsági hatóság eljárásáért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
+- c) az adópolitikáért felelős miniszterrel egyetértésben megállapítja a műszaki biztonsági hatóság eljárásáért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
 - d) az államháztartásért felelős miniszterrel egyetértésben meghatározza az 57. § (3) bekezdése szerinti szempontokat,
 - e) az 57. § (3) bekezdése szerinti eljárásban kötelezően benyújtandó adatok körét.
 

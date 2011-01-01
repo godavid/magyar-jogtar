@@ -137,7 +137,7 @@ során.
 
 (2) A vadászható és halászható vad- és halfajok vadászata, halászata és horgászata csak olyan mértékű lehet, amely a faj természetes állományának sokféleségét, fennmaradását nem veszélyezteti.
 
-(3) A nem halászható (horgászható) fajokról, a halászati (horgászati) tilalmakról és fajok szerinti tilalmi időkről a halgazdálkodásért felelős miniszter a természetvédelemért felelős miniszterrel (a továbbiakban: miniszter) együttesen rendelkezik.
+(3) A nem halászható (horgászható) fajokról, a halászati (horgászati) tilalmakról és fajok szerinti tilalmi időkről a halgazdálkodásért felelős miniszter a természetvédelemért felelős miniszter (a továbbiakban: miniszter) egyetértésével kiadott rendeletben rendelkezik.
 
 (4) A vadászható állatfajok (vad) körének meghatározására, vadászati idény és vadászati tilalom megállapítására a vad védelméről, a vadgazdálkodásról valamint a vadászatról szóló törvény rendelkezései az irányadóak.
 
@@ -684,7 +684,7 @@ tevékenységekhez.
 
 tervet készít, készíttet, illetőleg kezdeményezi annak elkészítését.
 
-(5) A miniszter az Alapterv végrehajtása érdekében az agrárpolitikáért felelős miniszterrel és az infrastruktúráért felelős miniszterrel együtt jelöl ki ökológiai (zöld) folyosókat, és határozza meg az e területekre vonatkozó szabályokat. Az érzékeny természeti területek létesítésére és fenntartására vonatkozó részletes szabályokat a miniszter az agrárpolitikáért felelős miniszterrel együtt határozza meg.
+(5) A miniszter az Alapterv végrehajtása érdekében az agrárpolitikáért felelős miniszter és a közlekedésért felelős miniszter egyetértésével kiadott rendeletben jelöl ki ökológiai (zöld) folyosókat, és határozza meg az e területekre vonatkozó szabályokat. Az érzékeny természeti területek létesítésére és fenntartására vonatkozó részletes szabályokat a miniszter az agrárpolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg.
 
 (6) Ökológiai (zöld) folyosóvá történő kijelölés tényét az ingatlan-nyilvántartásba fel kell jegyezni, a kijelölés feloldását követően a feljegyzést törölni kell. A feljegyzést, illetve annak törlését a természetvédelmi hatóság hivatalból kezdeményezi.
 
@@ -797,7 +797,7 @@ tervet készít, készíttet, illetőleg kezdeményezi annak elkészítését.
 (4) Azt a tényt, hogy vele szemben nem áll fenn a (3) bekezdés a) vagy b) pontjában meghatározott kizáró ok,
 
 - a) a polgári természetőrnek jelölt személy,
-- b) a polgári természetőrnek megbízott személy – az igazgatóság vagy a települési önkormányzat írásbeli felhívására, a felhívástól számított tizenöt munkanapon belül, vagy ha e határidőn belül a megbízott polgári természetőrön kívülálló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – az igazgatóság vagy a települési önkormányzat részére hatósági bizonyítvánnyal igazolja.
+- b) a polgári természetőrnek megbízott személy – az igazgatóság vagy a települési önkormányzat írásbeli felhívására, a felhívástól számított húsz napon belül, vagy ha e határidőn belül a megbízott polgári természetőrön kívülálló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – az igazgatóság vagy a települési önkormányzat részére hatósági bizonyítvánnyal igazolja.
 
 (5) Az igazgatóság vagy a települési önkormányzat felhívhatja a polgári természetőrt annak igazolására, hogy vele szemben nem áll fenn a (3) bekezdés a) vagy b) pontjában meghatározott kizáró ok. Ha a polgári természetőr igazolja, hogy vele szemben a (3) bekezdés a) vagy b) pontjában meghatározott kizáró ok nem áll fenn, az igazgatóság vagy a települési önkormányzat az igazolás céljából kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat részére megtéríti.
 
@@ -1087,14 +1087,14 @@ természetvédelmi bírságot köteles fizetni.
 - 29. a védett élő szervezetek, életközösségek, ásványi képződmények pénzben kifejezett értékét;
 - 30. az elkobzott védett természeti értékek felhasználását.
 
-(3) Felhatalmazást kap a miniszter, hogy az agrárpolitikáért felelős miniszterrel együttes rendeletben
+(3) Felhatalmazást kap a miniszter, hogy az agrárpolitikáért felelős miniszter egyetértésével kiadott rendeletben
 
 - 1. jelölje ki a természeti területeket,
 - 2. határozza meg az érzékeny természeti területek létesítésére és fenntartására vonatkozó részletes szabályokat.
 
-(4) Felhatalmazást kap a miniszter, hogy az agrárpolitikáért felelős miniszterrel és az infrastruktúráért felelős miniszterrel együttes rendeletben jelöljön ki ökológiai (zöld) folyosókat és meghatározza az e területekre vonatkozó szabályokat.
+(4) Felhatalmazást kap a miniszter, hogy az agrárpolitikáért felelős miniszter és a közlekedésért felelős miniszter egyetértésével kiadott rendeletben jelöljön ki ökológiai (zöld) folyosókat és meghatározza az e területekre vonatkozó szabályokat.
 
-(5) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a miniszterrel együttes rendeletben szabályozza
+(5) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben szabályozza
 
 - 1. a nem halászható (horgászható) fajokat, a halászati (horgászati) tilalmakat és a fajok szerinti tilalmi időket;
 - 2. a védett régi hazai háziállatfajok és fajták megőrzésére, egyedei törzskönyvezésére vonatkozó szabályokat, tenyésztési és teljesítményvizsgálati elveket.

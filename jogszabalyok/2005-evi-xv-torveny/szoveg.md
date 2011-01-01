@@ -61,9 +61,9 @@ Az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló
 
 Vhr. 1. § (1) Az 1. mellékletben meghatározott üvegházhatású gázkibocsátással járó tevékenység (ideértve a próbaüzemet is) csak az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség (a továbbiakban: környezetvédelmi hatóság) által kiadott kibocsátási engedély alapján végezhető.
 
-(2) A kibocsátási engedély iránti kérelem részletes tartalmi követelményeit a 2. melléklet állapítja meg. A környezetvédelmi és vízügyi miniszter (a továbbiakban: miniszter) a kibocsátási engedély iránti kérelemre vonatkozó adatlapokat és a kitöltési útmutatót közleményben teszi közzé a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, a Környezetvédelmi és Vízügyi Minisztérium (a továbbiakban: minisztérium) hivatalos lapjában, valamint a környezetvédelmi hatóság honlapján.
+(2) A kibocsátási engedély iránti kérelem részletes tartalmi követelményeit a 2. melléklet állapítja meg. Az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) a kibocsátási engedély iránti kérelemre vonatkozó adatlapokat és a kitöltési útmutatót közleményben teszi közzé a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, a valamint a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) honlapján.
 
-(3) A 314/2005. (XII. 25.) Korm. rendelet alapján egységes környezethasználati engedélyhez kötött tevékenységek esetén a kibocsátási engedély iránti kérelmet az egységes környezethasználati engedély jogerőre emelkedését követően kell benyújtani a környezetvédelmi hatósághoz.
+(3) A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló jogszabály alapján egységes környezethasználati engedélyhez kötött tevékenységek esetén a kibocsátási engedély iránti kérelmet az egységes környezethasználati engedély jogerőre emelkedését követően kell benyújtani a környezetvédelmi hatósághoz.
 
 (4) A (3) bekezdés alá nem tartozó tevékenységek esetén a kibocsátási engedély iránti kérelmet a környezethasználat feltételeit megállapító engedély jogerőre emelkedését követően kell benyújtani.
 
@@ -78,7 +78,7 @@ Vhr. 1. § (1) Az 1. mellékletben meghatározott üvegházhatású gázkibocsá
 - a) az engedély kiadásakor megállapított feltételek megváltoztak, az engedélyt megfelelően módosítja, illetőleg
 - b) ha az engedély kiadásához szükséges valamely feltétel nem áll fenn, a kibocsátási engedélyt visszavonja.
 
-(9) Az (1) és a (8) bekezdésben szabályozott eljárásokban a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+(9)
 
 (10) Ha a kérelmező a kibocsátási engedély iránti kérelmében a 2. melléklet F. 1. vagy 2. pontjában meghatározott adatokat nem igazolja, a környezetvédelmi hatóság adatszolgáltatási kérelemmel fordul az adatokról nyilvántartást vezető bírósághoz vagy hatósághoz.
 
@@ -90,13 +90,13 @@ Vhr. 1. § (1) Az 1. mellékletben meghatározott üvegházhatású gázkibocsá
 
 Vhr. 2. § (1) Az üzemeltető köteles a kibocsátási engedély hatálya alá tartozó üvegházhatású gázkibocsátását az 5. mellékletben foglaltakra tekintettel, a 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátásának nyomon követésére és jelentésére vonatkozó iránymutatások létrehozásáról szóló 2007/589/EK bizottsági határozat (a továbbiakban: 2007/589/EK határozat), és a kibocsátási engedély szerint nyomon követni, és arról a környezetvédelmi hatóság részére a tárgyévet követő március 31-ig az Üht. 5. § (1) bekezdése szerint hitelesített jelentést tenni, a (2) bekezdés szerinti adatlapok felhasználásával. A jelentést postai úton és elektronikusan kell benyújtani.
 
-(2) A miniszter az (1) bekezdés szerinti hitelesített jelentésre, valamint a (4) bekezdés szerinti változás-bejelentésre vonatkozó adatlapokat és a kitöltési útmutatót közleményben teszi közzé a minisztérium hivatalos lapjában, valamint honlapján.
+(2) A miniszter az (1) bekezdés szerinti hitelesített jelentésre, valamint a (4) bekezdés szerinti változás-bejelentésre vonatkozó adatlapokat és a kitöltési útmutatót közleményben teszi közzé a minisztérium honlapján.
 
 (3) Az (1) bekezdésben meghatározottakon túl a környezetvédelmi hatóság jogosult – az engedélyben meghatározott tevékenységekre vonatkozóan, az engedélyben és az alkalmazandó jogszabályokban foglalt követelmények teljesítéséhez szükséges – további rendszeres, illetve eseti információkat kérni.
 
 (4) Az üzemeltető köteles a 4. mellékletben meghatározott adatok megváltozását, és a tevékenység végzéséhez kapcsolódó eseményeket az ott megjelölt határidővel – a (2) bekezdés szerint közzétett adatlapok felhasználásával – bejelenteni. A bejelentési kötelezettség elmulasztása esetén a hatóság a 19. § szerinti bírságot szab ki, és a kibocsátási engedélyt visszavonhatja.
 
-(5) A környezetvédelmi hatóság a 4. számú melléklet 1., 2., 4. és 5. pontja szerinti esetben ugyanazon engedélyazonosító alatt új kibocsátási engedélyt ad ki, vagy a módosítás iránti kérelmet elutasítja. Az engedély kiadásával kapcsolatos eljárásban a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+(5) A környezetvédelmi hatóság a 4. számú melléklet 1., 2., 4. és 5. pontja szerinti esetben ugyanazon engedélyazonosító alatt új kibocsátási engedélyt ad ki, vagy a módosítás iránti kérelmet elutasítja.
 
 (6) A 11/A. § szerinti bezáró létesítmény üzemeltetője a bezárás napjától számított 30 napon belül köteles a tevékenység folytatásának idejére vonatkozóan, hitelesített jelentést tenni. Ha a létesítmény bezárására a tárgyévet követő év január 1-je és március 1-je között kerül sor, akkor a bezárás évére vonatkozó jelentéstétel és az (1) bekezdés szerinti jelentéstétel együttesen teljesítendő.
 
@@ -210,25 +210,25 @@ Vhr. 3. § (1) A Kormány a Nemzeti Kiosztási Tervet (a továbbiakban: Kiosztá
 - d) a Magyar Energia Hivatal szakvéleményét;
 - e) a rendelkezésre álló makrogazdasági és technológiai adatokat, valamint előrejelzéseket.
 
-Vhr. 4. § (1) Az Üht. 2. mellékletében megjelölt alapelvekkel összhangban a kibocsátási egységek kiosztásának tervezett elveit a miniszter – a gazdasági és közlekedési miniszterrel egyetértésben – a kereskedési időszak kezdetét megelőző második év január 1-jéig véleményezés céljából közleményben teszi közzé a minisztérium hivatalos lapjában, valamint honlapján.
+Vhr. 4. § (1) Az Üht. 2. mellékletében megjelölt alapelvekkel összhangban a kibocsátási egységek kiosztásának tervezett elveit a miniszter – a gazdaságpolitikáért felelős miniszterrel egyetértésben – a kereskedési időszak kezdetét megelőző második év január 1-jéig véleményezés céljából közleményben teszi közzé a minisztérium honlapján.
 
 (2) Az (1) bekezdés szerint közzétett kiosztási elvekre a közzétételt követő január 31-ig írásban vagy elektronikus úton bárki észrevételt tehet.
 
 (3) A miniszter – gazdaságpolitikáért felelős miniszterrel együtt – mérlegeli a véleményezők észrevételeit, és az észrevételekről, valamint elutasított észrevételek esetén – a nyilvánvalóan alaptalan észrevételek kivételével – az elutasítás indokairól összefoglalót készít, amelyet a minisztérium honlapján az 5. § (1) bekezdés szerinti közleménnyel egyidejűleg közzétesz. A minisztert egyedi válaszadási kötelezettség nem terheli.
 
-Vhr. 5. § (1) A kibocsátási egységek kiosztásának elveit, kiválasztásuk indokaival együtt a miniszter – a gazdaságpolitikáért felelős miniszterrel egyetértésben – a kereskedési időszak kezdetét megelőző második év február 28-ig közleményben teszi közzé a minisztérium hivatalos lapjában, valamint honlapján. Ezen közleményben egyúttal a miniszter közzéteszi a 8. § (2) bekezdés, valamint a 11. § (2) bekezdés szerinti nyomtatványokat is.
+Vhr. 5. § (1) A kibocsátási egységek kiosztásának elveit, kiválasztásuk indokaival együtt a miniszter – a gazdaságpolitikáért felelős miniszterrel egyetértésben – a kereskedési időszak kezdetét megelőző második év február 28-ig közleményben teszi közzé a minisztérium honlapján. Ezen közleményben egyúttal a miniszter közzéteszi a 8. § (2) bekezdés, valamint a 11. § (2) bekezdés szerinti nyomtatványokat is.
 
-(2) A miniszter a Kiosztási Terv tervezetét – a gazdasági és közlekedési miniszterrel egyetértésben – a kereskedési időszak kezdetét megelőző második év március 31-ig véleményezés céljából közleményben teszi közzé a minisztérium hivatalos lapjában, valamint honlapján.
+(2) A miniszter a Kiosztási Terv tervezetét – a gazdaságpolitikáért felelős miniszterrel egyetértésben – a kereskedési időszak kezdetét megelőző második év március 31-ig véleményezés céljából közleményben teszi közzé a minisztérium honlapján.
 
 (3) A Kiosztási Terv (2) bekezdés szerint közzétett tervezetére a közzétételt követő április 30-ig írásban vagy elektronikus úton bárki észrevételt tehet.
 
-(4) A kereskedési időszak alatt tervezett új beruházások felmérése érdekében a kereskedési időszak kezdetét megelőző harmadik év október 1-jétől a Kiosztási Terv tervezetének közzétételéig a miniszter – a gazdasági és közlekedési miniszterrel együtt – valamennyi érintett ágazat bevonásával konzultációt tart. Az ágazati konzultációk helyét és idejét a miniszter a minisztérium hivatalos lapjában, valamint honlapján teszi közzé.
+(4) A kereskedési időszak alatt tervezett új beruházások felmérése érdekében a kereskedési időszak kezdetét megelőző harmadik év október 1-jétől a Kiosztási Terv tervezetének közzétételéig a miniszter – a gazdaságpolitikáért felelős miniszterrel együtt – valamennyi érintett ágazat bevonásával konzultációt tart. Az ágazati konzultációk helyét és idejét a miniszter a minisztérium honlapján teszi közzé.
 
-(5) A (3) bekezdés szerint benyújtott észrevételeket, továbbá a (4) bekezdés szerinti konzultációk eredményeit a miniszter – a gazdasági és közlekedési miniszterrel együtt – mérlegeli a Kiosztási Terv véglegesítése során. A miniszter az észrevételekről, valamint elutasított észrevételek esetében – a nyilvánvalóan alaptalan észrevételek kivételével – az elutasítás indokairól összefoglalót készít, amelyet a Kiosztási Terv tartalmát megállapító, a (6) bekezdés szerint elfogadott kormányhatározattal egyidejűleg a minisztérium honlapján közzétesz. A minisztert egyedi válaszadási kötelezettség nem terheli.
+(5) A (3) bekezdés szerint benyújtott észrevételeket, továbbá a (4) bekezdés szerinti konzultációk eredményeit a miniszter – a gazdaságpolitikáért felelős miniszterrel együtt – mérlegeli a Kiosztási Terv véglegesítése során. A miniszter az észrevételekről, valamint elutasított észrevételek esetében – a nyilvánvalóan alaptalan észrevételek kivételével – az elutasítás indokairól összefoglalót készít, amelyet a Kiosztási Terv tartalmát megállapító, a (6) bekezdés szerint elfogadott kormányhatározattal egyidejűleg a minisztérium honlapján közzétesz. A minisztert egyedi válaszadási kötelezettség nem terheli.
 
 (6) A Kormány a Kiosztási Terv tartalmáról, valamint annak Bizottság és az Európai Gazdasági Térség tagállamai részére történő megküldéséről a kereskedési időszak kezdetét megelőző második év június 30-ig határozatban rendelkezik. A Kiosztási Terv továbbításáról a miniszter gondoskodik. A kormányhatározatot a miniszter a minisztérium honlapján közzéteszi.
 
-Vhr. 6. § (1) Amennyiben a Bizottság a Kiosztási Tervet részben vagy egészben elutasítja, azt a miniszter az elutasítás kézhezvételétől számított harminc napon belül a Bizottság észrevételeinek megfelelően, a gazdasági és közlekedési miniszterrel egyetértésben átdolgozza, és az átdolgozott változatot – a módosítás tartalmát és indokait összefoglaló tájékoztatóval együtt – a minisztérium honlapján közzéteszi.
+Vhr. 6. § (1) Amennyiben a Bizottság a Kiosztási Tervet részben vagy egészben elutasítja, azt a miniszter az elutasítás kézhezvételétől számított harminc napon belül a Bizottság észrevételeinek megfelelően, a gazdaságpolitikáért felelős miniszterrel egyetértésben átdolgozza, és az átdolgozott változatot – a módosítás tartalmát és indokait összefoglaló tájékoztatóval együtt – a minisztérium honlapján közzéteszi.
 
 (2) A Kiosztási Terv (1) bekezdés szerint átdolgozott változatára a közzétételt követő tizenöt napon belül írásban vagy elektronikus úton bárki észrevételt tehet.
 
@@ -331,11 +331,11 @@ Vhr. 11. § (1) Azok az üzemeltetők, akik a Kiosztási Terv szerint az új bel
 
 (4) A (2) bekezdés b) pontjában foglaltak esetén a kérelmezőnek nyilatkoznia kell, hogy a korábbi új belépő eljárás alapjául szolgáló körülményekhez képest – ide nem értve a termelési, tüzelőanyag-felhasználási és kibocsátási mennyiségeket – történt-e változás. Ha változás következett be, vagy a környezethasználat feltételeit megállapító engedély vagy a kibocsátási engedély módosításra vagy visszavonásra került, meg kell adni a változással érintett adatokat, és az arra vonatkozó dokumentumokat mellékelni kell.
 
-(5) A miniszter a tárgyévet követő év február 28-ig – a gazdaságpolitikáért felelős miniszter, valamint az energiapolitikáért felelős miniszter véleményének kikérésével – a kiosztandó kibocsátási egységek mennyiségét, a Kiosztási Tervben az új belépő tartalék felhasználására vonatkozó szabályoknak megfelelően, a rendelkezésre álló tartalékmennyiségből, évente határozatban állapítja meg.
+(5) A miniszter a rendelkezésre álló tartalékmennyiségből a kiosztandó kibocsátási egységek mennyiségét a tárgyévet követő év február 28-ig, a Kiosztási Tervben az új belépő tartalék felhasználására vonatkozó szabályoknak megfelelően határozatban állapítja meg.
 
 (6) Az (5) bekezdés szerinti határozatot a miniszter közli a jegyzékkezelővel.
 
-(7) A jegyzékkezelő, a miniszter e tárgyban hozott határozata szerint, annak közlését követő 5 munkanapon belül írja jóvá az új belépő tartalék terhére kiosztott éves mennyiséget az üzemeltető számláján.
+(7) A jegyzékkezelő, a miniszter e tárgyban hozott határozata szerint, annak közlését követő nyolc napon belül írja jóvá az új belépő tartalék terhére kiosztott éves mennyiséget az üzemeltető számláján.
 
 ### A létesítmény bezárása
 
@@ -350,9 +350,7 @@ Vhr. 11/A. § (1) A létesítmény bezárásának minősül:
 
 (3) Az (1) bekezdés b)–c) pontjában meghatározott esetekben a környezetvédelmi hatóság a kibocsátási engedélyt a (2) bekezdés szerinti bejelentés alapján visszavonja. A bezárásra tekintet nélkül a bezárás napjáig fennálló nyomon követési, jelentéstételi kötelezettségét az üzemeltetőnek a vonatkozó jogszabályok szerint teljesítenie kell. A bezárás napjáig fennálló kibocsátási egységek visszaadására vonatkozó kötelezettségét az üzemeltetőnek legkésőbb a bezárás napjától számított 45 napon belül teljesítenie kell.
 
-(4) A (3) bekezdésben szabályozott, a kibocsátási engedély visszavonására irányuló eljárásban a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
-
-[Üht. 10. §] (4)
+(4) [Üht. 10. §] (4)
 
 (5) A (3) és (4) bekezdés szerinti kiosztási határozatot a villamos energiáról szóló 2001. évi CX. törvény vagy a távhőszolgáltatásról szóló 2005. XVIII. törvény alapján termelői engedélyköteles tevékenységek tekintetében a miniszter a Magyar Energia Hivatal szakvéleményének figyelembevételével hozza meg.
 
@@ -444,15 +442,15 @@ Vhr. 12. § (1) Az 1. melléklet szerint azonos tevékenységet folytató, magya
 - c) a cég képviseletére vagy jegyzésére jogosult személy közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírás-mintáját, illetve annak hiteles másolatát;
 - d)
 
-(8) Amennyiben a megállapodás, illetve a kérelem az e rendeletben foglalt követelményeknek megfelel, a környezetvédelmi hatóság a kérelmet az annak alátámasztására szolgáló adatokkal együtt a miniszter útján haladéktalanul, de legkésőbb a kézhezvételtől számított tíz munkanapon belül továbbítja a Bizottság felé.
+(8) Amennyiben a megállapodás, illetve a kérelem az e rendeletben foglalt követelményeknek megfelel, a környezetvédelmi hatóság a kérelmet az annak alátámasztására szolgáló adatokkal együtt a miniszter útján haladéktalanul, de legkésőbb a megérkezését követő naptól számított tizenöt napon belül továbbítja a Bizottság felé.
 
-(9) Amennyiben a Bizottság a kézhezvételtől számított három hónapon belül a kérelem ellen nem emel kifogást, a környezetvédelmi hatóság a közös teljesítésben részt vevő üzemeltetők körét, a teljesítési megbízott személyét, továbbá a részt vevő üzemeltetőket együttesen megillető kibocsátási egységek mennyiségét a határidő lejártát követő tíz munkanapon belül határozatban állapítja meg. A Bizottság jóváhagyásáról vagy a kérelem elutasításáról a miniszter a határidő lejártát követően haladéktalanul értesíti a környezetvédelmi hatóságot.
+(9) Amennyiben a Bizottság a kézhezvételtől számított három hónapon belül a kérelem ellen nem emel kifogást, a környezetvédelmi hatóság a közös teljesítésben részt vevő üzemeltetők körét, a teljesítési megbízott személyét, továbbá a részt vevő üzemeltetőket együttesen megillető kibocsátási egységek mennyiségét a határidő lejártát követő tizenöt napon belül határozatban állapítja meg. A Bizottság jóváhagyásáról vagy a kérelem elutasításáról a miniszter a határidő lejártát követően haladéktalanul értesíti a környezetvédelmi hatóságot.
 
 (10) A közös teljesítésre irányuló jóváhagyott megállapodásokról a környezetvédelmi hatóság nyilvántartást vezet.
 
 (11) Ha a kérelmező a Magyarországon bejegyzett teljesítési megbízottra vonatkozó cégkivonatot nem csatolja, a környezetvédelmi hatóság az adatok szolgáltatása iránt megkeresi az adatokról nyilvántartást vezető bíróságot.
 
-(12) A közös teljesítésre vonatkozó megállapodás jóváhagyására irányuló eljárásban a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
+(12)
 
 Vhr. 13. § (1) A teljesítési megbízott köteles a közös teljesítésben részt vevő üzemeltetők javára, ezen üzemeltetők tárgyévi együttes kibocsátásának megfelelő mennyiségű kibocsátási egységet a tárgyévet követő április 30-ig visszaadni.
 
@@ -586,9 +584,7 @@ Vhr. 19. § (1) Amennyiben az üzemeltető az 1. mellékletben meghatározott ü
 
 (9) A bírság összegének megállapítása során a Magyar Nemzeti Bank által megállapított, a visszaadás napján közzétett hivatalos devizaárfolyamot kell figyelembe venni.
 
-(10) Az (1) bekezdésben, valamint a (3)–(8) bekezdésekben szabályozott eljárásokban a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése nem alkalmazható.
-
-[Üht. 17. §] (2) Az (1) bekezdés szerinti bírság megfizetésére tekintet nélkül, amennyiben az üzemeltető a jelentési és hitelesítési kötelezettségének, illetőleg a kibocsátási egységek visszaadására irányuló kötelezettségének határidőre részben vagy egészben nem tesz eleget, a megfelelően hitelesített jelentés benyújtásáig nem jogosult kibocsátási egységek értékesítésére.
+(10) [Üht. 17. §] (2) Az (1) bekezdés szerinti bírság megfizetésére tekintet nélkül, amennyiben az üzemeltető a jelentési és hitelesítési kötelezettségének, illetőleg a kibocsátási egységek visszaadására irányuló kötelezettségének határidőre részben vagy egészben nem tesz eleget, a megfelelően hitelesített jelentés benyújtásáig nem jogosult kibocsátási egységek értékesítésére.
 
 (3) Az (1) bekezdés szerinti bírság megfizetésére tekintet nélkül, amennyiben az üzemeltető a jelentési és hitelesítési kötelezettségének, illetőleg a kibocsátási egységek visszaadására irányuló kötelezettségének részben vagy egészben nem tesz eleget, a környezetvédelmi hatóság az üzemeltető nevét és a kötelességszegés tényét nyilvánosságra hozza.
 
@@ -860,7 +856,7 @@ B.2.3 Az egyes forrásanyagok fűtőértékének, széntartalmának, kibocsátá
 
 B.2.4 Annak megjelölése, hogy a forrásanyag fő vagy kisebb jelentőségű forrásanyag-e figyelembe véve a 2007/589/EK Bizottsági Határozat iránymutatásait.
 
-B.2.5 A mennyiségi adatokat mérő mérőberendezés mérési pontossága, s annak megjelölése, hogy rendelkezik-e MKEH hitelesítési bizonyítvánnyal.
+B.2.5 A mennyiségi adatokat mérő mérőberendezés mérési pontossága, s annak megjelölése, hogy rendelkezik-e fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága által kiállított hitelesítési bizonyítvánnyal.
 
 B.2.6 Amennyiben a kibocsátási számítása az anyagmérlegen alapuló megközelítéssel történik, akkor meg kell jelölni a létesítmény területére belépő összes karbontartalmú forrásanyagot, a létesítmény területéről kilépő összes karbontartalmú forrásanyagot, valamint létesítményben készletként megmaradó összes karbontartalmú forrásanyagot, valamint mindezek mennyiségének és karbontartalmának meghatározáshoz kiválasztott adatmeghatározási szinteket, módszereket.
 
@@ -1022,7 +1018,7 @@ Amennyiben a legmagasabb adatmeghatározási szinthez tartozó módszer vagy a j
 
 Mennyiségmérés hitelessége
 
-Tömegmérési eredményeken alapuló számítás esetében az üzemeltető köteles gondoskodni a mérőberendezés használatbavétele előtt, majd használata közben rendszeres időközönként történő hitelesítéséről. A hitelesítést a Magyar Kereskedelmi és Engedélyezési Hivatal (MKEH) által kiadott tanúsítvánnyal köteles igazolni a környezetvédelmi hatóság felé. Ahol a mérőberendezés hitelesítése műszakilag nem lehetséges, az üzemeltető köteles a mérőberendezés alkalmasságát független akkreditált szervezet által történő kalibrálással biztosítani.
+Tömegmérési eredményeken alapuló számítás esetében az üzemeltető köteles gondoskodni a mérőberendezés használatbavétele előtt, majd használata közben rendszeres időközönként történő hitelesítéséről. A hitelesítést a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága által kiadott tanúsítvánnyal köteles igazolni a környezetvédelmi hatóság felé. Ahol a mérőberendezés hitelesítése műszakilag nem lehetséges, az üzemeltető köteles a mérőberendezés alkalmasságát független akkreditált szervezet által történő kalibrálással biztosítani.
 
 Gáztechnikai normál állapot (N)
 

@@ -59,12 +59,12 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 17. § (1) Az MNV Zrt.:
 
-- a) előkészíti és végrehajtja a Kormány és a miniszter állami vagyonnal kapcsolatos döntéseit,
+- a) előkészíti, illetve végrehajtja az Országgyűlés, a Kormány és a miniszter állami vagyonnal kapcsolatos döntéseit,
 - b) nyilvántartást vezet a tulajdonosi joggyakorlása – ideértve a 3. § (1) bekezdése alapján a miniszter által vagy külön törvény alapján gyakorolt, valamint a 3. § (2) bekezdése alapján jogszabály útján átadott tulajdonosi joggyakorlást is – alá tartozó az állami vagyonról, annak alapján adatszolgáltatást nyújt,
 - c) a tulajdonosi joggyakorlása alá tartozó állami vagyont közvetlenül vagy polgári jogi szerződések útján hasznosítja,
 - d) rendszeresen ellenőrzi a vele szerződéses jogviszonyban lévő személyek, szervezetek vagy más használók állami vagyonnal való gazdálkodását, megállapításairól az MNV Zrt. Felügyelő Bizottságát, az ellenőrzött szervet, szükség esetén a minisztert és az Állami Számvevőszéket tájékoztatja,
 - e) az állami vagyonnal kapcsolatos polgári jogi jogviszonyokban – jogszabály eltérő rendelkezése hiányában – képviseli a Magyar Államot,
-- f) ellenőrzi az értékesítési szerződésekben foglalt, a vevők által vállalt kötelezettségek teljesítését,
+- f) ellenőrzi az értékesítési szerződésekben foglalt kötelezettségek teljesítését.
 - g) közreműködik a Nemzeti Vagyongazdálkodási Irányelvek és az Éves Nemzeti Vagyongazdálkodási Program előkészítésében,
 - h) az állami feladatok ellátása során a költségvetési szervek, illetve az egyéb, az állami vagyont használó természetes személyek, jogi személyek és jogi személyiséggel nem rendelkező szervezetek részére a működésükhöz szükséges állami tulajdon használatához szükséges szolgáltatásokat (üzemeltetés, beszerzés) nyújt.
 
@@ -80,7 +80,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 (2) Az MNV Zrt. működésének ellenőrzését a Felügyelő Bizottság látja el. A Felügyelő Bizottságra a Gt. 38–39. §-ának rendelkezéseit nem kell alkalmazni.
 
-(3) A Kormány az MNV Zrt. működéséről és az állami vagyonnal való gazdálkodásáról évente, a tárgyévet követő év szeptember 30. napjáig beszámol az Országgyűlésnek.
+(3) A Kormány a Magyar Állam nevében tulajdonosi jogokat gyakorló szervezetek működéséről, az állami vagyon állományának alakulásáról, az állami vagyonnal való gazdálkodás folyamatairól évente, a tárgyévet követő év szeptember 30. napjáig beszámol az Országgyűlésnek.
 
 ### Az MNV Zrt. szervezete
 
@@ -95,7 +95,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 (4) A Gt.-ben foglalt feladatokon kívül az Igazgatóság hatáskörébe tartozik
 
 - a) az állami vagyon fejlesztésével, hasznosításával, elidegenítésével kapcsolatos irányelvekre vonatkozó javaslat kialakítása a miniszter részére,
-- b) döntés az állami vagyon elidegenítésével – ideértve a cserét is – kapcsolatos döntés, ha az ügyben érintett vagyon rendelkezésre álló értéke (könyvszakértő által elfogadott vagyonérték, értékbecslés) eléri vagy meghaladja a nettó 500 millió forintot,
+- b) az állami vagyon elidegenítésével – ideértve a cserét is – kapcsolatos döntés, ha az ügyben érintett vagyon rendelkezésre álló értéke (könyvszakértő által elfogadott vagyonérték, értékbecslés) eléri vagy meghaladja a nettó 500 millió forintot,
 - c) döntés az állami vagyon b) pont alá nem tartozó hasznosításáról, illetve megterheléséről, ha az ügylet rendelkezésre álló értéke (aktualizált nyilvántartási érték, értékbecslés, ajánlati ár, szerződéses ár) eléri vagy meghaladja az 500 millió forintot, vagy – a központi költségvetési szervek javára történő hasznosítás kivételével – a hasznosítás határozott időtartamra szól és az meghaladja a 10 évet,
 - d) döntés az állami tulajdonú gazdasági társaságok közgyűlésein, illetve taggyűlésein képviselendő álláspont kialakításáról (mandátum kiadás), a Magyar Állam egyszemélyes tulajdonában álló gazdasági társaságok esetében alapítói határozat kiadása, ha – a társaság kizárólagos állami tulajdoni körbe tartozik, – a társaság részvényei valamilyen többletjogot biztosítanak – a Gt. 186. § (1) bekezdése alapján – a többletjogok vonatkozásában, – a társaság saját tőkéjén belül az állami részesedés eléri vagy meghaladja a 200 millió forintot,
 - e) – ha annak jogszabályban foglalt feltételei fennállnak – döntés a zártkörű pályázat kiírásáról, vagy a versenyeztetés mellőzéséről, ha az ügyben érintett vagyon rendelkezésre álló értéke eléri vagy meghaladja az 50 millió forintot,
@@ -256,7 +256,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 ### IV. Fejezet — AZ ÁLLAMI VAGYONNAL VALÓ GAZDÁLKODÁS
 
-23. § (1) Az állami vagyont az MNV Zrt. maga kezeli, illetve szerződés – így különösen bérlet, haszonbérlet, szerződésen alapuló haszonélvezet, vagyonkezelés, megbízás – alapján központi költségvetési szervnek, természetes vagy jogi személynek, illetőleg jogi személyiséggel nem rendelkező gazdasági társaságnak hasznosításra átengedi.
+23. § (1) Az állami vagyont az MNV Zrt. maga kezeli, vagy szerződés – így különösen bérlet, haszonbérlet, szerződésen alapuló haszonélvezet, vagyonkezelés, megbízás – alapján központi költségvetési szervnek, természetes vagy jogi személynek, vagy jogi személyiséggel nem rendelkező gazdálkodó szervezetnek hasznosításra átengedi.
 
 (2) Az állami vagyon hasznosítására kötött szerződések elsődleges célja az állami vagyon hatékony működtetése, állagának védelme, értékének megőrzése, illetve gyarapítása, az állami és közfeladatok ellátásának elősegítése.
 
@@ -343,7 +343,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 (6) A Magyar Fejlesztési Bank Zrt. felett a tulajdonosi jogokat e törvény és a Magyar Fejlesztési Bankról szóló külön törvény alapján a miniszter gyakorolja.
 
-30. § (1) Az MNV Zrt. az állami tulajdonú gazdasági társaságoknál és más gazdálkodó szervezeteknél köteles érvényesíteni a cégvezetés felelősségét, valamint a közérdek érvényesülését biztosító vagyongazdálkodást.
+30. § (1) A Magyar Állam nevében tulajdonosi jogokat gyakorló szervezetek a tulajdonosi joggyakorlásuk alá tartozó gazdasági társaságoknál és más gazdálkodó szervezeteknél kötelesek érvényesíteni a cégvezetés felelősségét, valamint a közérdek érvényesülését biztosító vagyongazdálkodást.
 
 (2)–(4)
 
@@ -351,7 +351,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 (6)
 
-(7) A (2) bekezdés rendelkezéseit nem kell alkalmazni jogszabály alapján kizárólag készfizető kezességvállalással foglalkozó részvénytársaság esetén.
+(7)
 
 31. §
 
@@ -427,13 +427,15 @@ lehet végezni.
 - e) külön törvény szerinti kiemelkedően közhasznú szervezet javára, az általa átvállalt állami vagy önkormányzati közfeladat ellátásának elősegítése érdekében, valamint a Magyar Tudományos Akadémia javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése, vagy az általa átvállalt állami közfeladat ellátásának elősegítése érdekében,
 - f) az MNV Zrt. által peres eljárásban kötött, bíróság által jóváhagyott egyezség keretében állami vagyonba tartozó dolog tulajdonjogáról való lemondás esetén.
 
-(3) A (2) bekezdés szerinti ingyenes átruházásról a Kormány nyilvános határozattal dönt. Az ingyenesen átruházott vagyon juttatási célnak megfelelő felhasználását az Állami Számvevőszék ellenőrzi.
+(3) A (2) bekezdés szerinti ingyenes átruházásról – a (6) bekezdésen foglalt kivétellel – a Kormány nyilvános határozattal dönt. Az ingyenesen átruházott vagyon juttatási célnak megfelelő felhasználását az Állami Számvevőszék ellenőrzi.
 
 (4) A (2) bekezdés c) és d) pontja alapján ingyenesen átruházható vagyontárgyak összesített értéke évente nem haladhatja meg az adott évi költségvetési törvényben meghatározott keretösszeget.
 
 (5) Az MNV Zrt. az állam mint törvényes örökös nevében az öröklésről az örökhagyó utolsó belföldi lakóhelye, ennek hiányában a hagyaték fekvési helye szerinti helyi önkormányzat javára, ingatlan esetében annak fekvési helye szerinti helyi önkormányzat javára lemondhat.
 
-(6) A (2)–(5) bekezdésben megjelölt vagyonátadás illetékmentes.
+(6) Az MNV Zrt. Igazgatósága jogosult dönteni az évente önkormányzatonként 10 millió Ft nyilvántartási értéket meg nem haladó értékű ingóságok helyi önkormányzat részére történő tulajdonba adásáról a (2) bekezdés c) pontjában meghatározott célokra. Az MNV Zrt. Igazgatósága köteles az ingóság átadásáról szóló döntését az MNV Zrt. honlapján nyilvánosságra hozni.
+
+(7) A (2)–(6) bekezdésben megjelölt vagyonátadás illetékmentes.
 
 37. § (1) Az állami tulajdonban lévő védett természeti területek és értékek, műemlékingatlanok, műkincsek, valamint történeti (régészeti) emlékek és földterületek tulajdonjogának bármely jogcímen történő átruházására csak e védett vagyonra vonatkozó külön törvényben meghatározott esetekben és módon kerülhet sor.
 
@@ -676,44 +678,23 @@ egészül ki.
 
 lép.
 
-(2) E törvény hatálybalépésével egyidejűleg a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény (a továbbiakban: Hvt.) 86. §-ának (1) bekezdésében a „kincstári vagyoni körbe tartozó” szövegrész, valamint 89. §-ának (1) bekezdésében az „és a kincstári vagyon részét képezik” szövegrész hatályát veszti.
+(2)
 
 58. §
 
 ### Átmeneti rendelkezések
 
-59. § (1) A Tanács a Magyar Állam nevében őt megillető tulajdonosi jogok gyakorlását 2007. december 31-ig – a 3. §-ban foglaltaktól eltérően – a kincstári vagyon kezeléséért felelős szerv, a földalapkezelő szerv és az Állami Privatizációs és Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: ÁPV Zrt.) útján is elláthatja.
-
-(2) Az (1) bekezdésben írt esetekben a Magyar Államot állami vagyonnal kapcsolatos polgári jogi jogviszonyokban – a 17. § e) pontjában foglaltaktól eltérően – a kincstári vagyon kezeléséért felelős szerv, a földalapkezelő szerv és az ÁPV Zrt. is képviselheti.
-
-(3) A kincstári vagyon kezeléséért felelős szerv, a földalapkezelő szerv és az ÁPV Zrt. az e törvény hatálybalépése előtt megkezdett, de be nem fejezett, hasznosításra és értékesítésre irányuló eljárásokban az eljárás megkezdésekor hatályos jogszabályok és szabályzatok alapján látja el a döntések előkészítését a Tanács, illetve – hatáskörébe tartozó ügyekben – az MNV Zrt. vezérigazgatója számára.
-
-(4) A Tanács a (3) bekezdésben meghatározott ügyekben a döntési jog gyakorlására – esetenként vagy az ügyek meghatározott csoportjára – a KVI és az ÁPV Zrt. vezérigazgatóját, valamint az NFA elnökét felhatalmazhatja.
-
-(5) A központi költségvetési szervekkel kötött, e törvény hatálybalépésekor hatályos vagyonkezelési szerződéseket – a (6) és (7) bekezdésben foglalt kivétellel – 2008. június 30-ig kell felülvizsgálni és e törvény előírásainak megfelelően – a 28. § (1) bekezdésében, valamint a 29. § (5) bekezdésében, valamint a külön törvényekben, így különösen a Hvt. 89. § (1) bekezdésében foglaltakat is figyelembe véve – módosítani.
-
-(6) A központi költségvetési szervekkel társasági részesedések vagyonkezelésére kötött szerződések e törvény hatálybalépésével megszűnnek.
-
-(7) Az állam tulajdonában lévő vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény mellékletében felsorolt társasági részesedések e törvény hatálybalépésével kerülnek a Tanács tulajdonosi joggyakorlása alá.
-
-(8) Az (5) bekezdésben foglalt kötelezettség nem érinti:
-
-- a) a törvény hatálybalépéséig az ingatlan-nyilvántartásba a központi költségvetési szerveken kívül más személy javára bejegyzett, állami vagyont érintő jogokat,
-- b) a központi költségvetési szerveken kívül más személyeket megillető, a törvény hatálybalépésig kötött szerződésen alapuló, jóhiszeműen szerzett és gyakorolt, állami vagyont érintő jogokat.
-
-(9) Az e törvény 28. § (4) bekezdése szerinti értékhatáron a 2007. évben a Magyar Köztársaság 2007. évi költségvetéséről szóló 2006. évi CXXVII. törvény 9. § (3) bekezdésében meghatározott összeget kell érteni.
-
-(10) E törvény hatálybalépésétől a Magyar Köztársaság 2007. évi költségvetéséről szóló 2006. évi CXXVII. törvény 53. § (7) bekezdésében foglalt szabályozási jogokat és kötelezettségeket az önkormányzati és területfejlesztési ügyekért felelős miniszter gyakorolja.
+59. §
 
 60. § (1) Az ÁPV Zrt. 2007. december 31-én megszűnik, jogai és kötelezettségei ezen időponttól az MNV Zrt.-re szállnak. A jogok és kötelezettségek átszállása nem minősül az ÁPV Zrt. által kötött szerződések módosításának. Az ÁPV Zrt.-vel szembeni követelések a jogutódlás szempontjából biztosítékokkal ellátott követeléseknek minősülnek.
 
-(2) Az ÁPV Zrt. a cégjegyzékből való – a pénzügyminiszter kérelmére 2007. december 31-i hatállyal történő – törléssel szűnik meg.
+(2)
 
 (3) Az ÁPV Zrt. munkavállalóinak az MNV Zrt.-nél történő továbbfoglalkoztatása munkáltatói jogutódlásnak minősül.
 
 (4) Az ÁPV Zrt. saját vagyona – az MNV Zrt. működéséhez szükséges tárgyi eszközök (műszaki berendezés, gép, felszerelés stb.) kivételével – a társaság megszűnésével a Magyar Államra száll. Az MNV Zrt. működéséhez szükséges tárgyi eszközök az MNV Zrt. saját vagyonába kerülnek.
 
-61. § (1) A Kincstári Vagyoni Igazgatóság (a továbbiakban: KVI) 2007. december 31-ei hatállyal megszűnik, jogai és kötelezettségei ezen időponttól – a 66. § (1) bekezdésében megjelölt feladat kivételével – az MNV Zrt.-re szállnak. A KVI 66. § (1) bekezdésben foglalt feladata a kincstárra száll. A jogok és kötelezettségek átszállása nem minősül a KVI által kötött szerződések módosításának. A pénzügyminiszter mint alapító a KVI megszüntetése érdekében megteszi az Áht. 91/A. §-ában előírt intézkedéseket.
+61. § (1) A Kincstári Vagyoni Igazgatóság (a továbbiakban: KVI) 2007. december 31-ei hatállyal megszűnik, jogai és kötelezettségei ezen időponttól – a 66. § (1) bekezdésében megjelölt feladat kivételével – az MNV Zrt.-re szállnak. A KVI 66. § (1) bekezdésben foglalt feladata a kincstárra száll. A jogok és kötelezettségek átszállása nem minősül a KVI által kötött szerződések módosításának.
 
 (2) A KVI munkavállalóinak az MNV Zrt.-nél vagy a kincstárnál történő továbbfoglalkoztatására a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25/A. §-át és 25/B. §-át kell alkalmazni.
 
@@ -721,21 +702,13 @@ lép.
 
 (4)
 
-(5) Az MNV Zrt. cégjegyzékbe történő bejegyzése iránti kérelmet az állami vagyon felügyeletéért felelős miniszter nyújtja be a cégbíróságnak.
+(5)
 
-62. § A feladatátadás végrehajtása érdekében az ÁPV Zrt., a KVI és az NFA
-
-- a) a számviteli törvény és az egyéb vonatkozó jogszabályok alapján a szervezet tevékenységét lezáró beszámolót, vagyonmérleget és azt alátámasztó vagyonleltárt készít 2007. december 31-i fordulónappal,
-- b) elvégzi mindazon feladatokat, melyeket számára a számviteli, az adózási vagy egyéb jogszabályok előírnak,
-- c) a folyamatban lévő ügyekről tájékoztatást készít,
-- d) a hatályos szerződéseiről jegyzéket készít és azok iratanyagát átadásra előkészíti,
-- e) a folyamatban lévő ügyek iratairól, valamint a minősített adatot tartalmazó iratokról iratjegyzéket készít, és azokat, valamint az irattárakat átadásra előkészíti.
+62. §
 
 63. §
 
-64. § (1) A legalább többségi állami részesedésű zártkörűen működő részvénytársaságok esetében a tulajdonosi joggyakorló köteles megtenni a szükséges intézkedéseket annak érdekében, hogy a társaság ügyvezetése 2008. január 1-jén a 30. § (2) bekezdésében foglalt feltételnek megfeleljen.
-
-(2)
+64. §
 
 65. § (1) Ahol az ingatlan-nyilvántartás az ÁPV Zrt.-t, a KVI-t mint tulajdonosi joggyakorlót, illetve vagyonkezelőt tünteti fel, ezen az MNV Zrt.-t kell érteni.
 
@@ -774,9 +747,7 @@ lép.
 
 (7) Amennyiben a párt a (6) bekezdésben megállapított határidőben él vételi jogával, az MNV Zrt. köteles a bejelentéstől számított harminc napon belül megkötni a párttal az adásvételi szerződést.
 
-69. § (1) E törvény hatálybalépésével az Atv. 5. § (2) bekezdésében megjelölt – illetve azok helyébe lépett – vagyontárgyak tulajdonjoga a Magyar Tudományos Akadémiára száll.
-
-(2) Az (1) bekezdés szerinti tulajdonszerzés illetékmentes.
+69. § (1)–(2)
 
 (3) A Tanács 2007. november 30-ig köteles intézkedni annak érdekében, hogy a Herendi Porcelánmanufaktúra Zrt. állami tulajdonban lévő részvényei a Regionális Fejlesztési Holding Zrt. tulajdonába kerüljenek. A Regionális Fejlesztési Holding Zrt. az ily módon tulajdonába került részvényeket nem idegenítheti el.
 
@@ -784,7 +755,7 @@ lép.
 
 70. § (1) E törvény alkalmazásában közeli hozzátartozónak a Ptk. 685. §-ának b) pontjában meghatározott személyek minősülnek.
 
-(2) A 3. § szerinti eltérő törvényi rendelkezés alatt az e törvény hatálybalépéséig kihirdetésre került törvényeket kell érteni.
+(2)
 
 71. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
@@ -796,7 +767,7 @@ lép.
 - f)–g)
 - h) a költségvetési szervek egyes típusai állami vagyonnal való gazdálkodásának speciális szabályait.
 
-(2) A Kormány 2008. december 31-ig jelentést terjeszt az Országgyűlés elé az ÁPV Zrt. és jogelődei – mint a privatizáció lebonyolítására létrehozott célszervezetek – tevékenységéről és a teljes privatizációs folyamatról.
+(2)
 
 ### Melléklet a 2007. évi CVI. törvényhez
 

@@ -315,7 +315,7 @@ Az állam az Alkotmányban foglalt elvek szerint a kötelező társadalombiztos�
 
 (6)
 
-(7) Ha a pénztár a belépési nyilatkozat elfogadását elutasította, az elutasító döntéstől számított 3 munkanapon belül az elutasítás tényéről egyidejűleg értesítést küld a munkáltatónak, a biztosítottnak és a pénztárak központi nyilvántartásának.
+(7) Ha a pénztár a belépési nyilatkozat elfogadását elutasította, az elutasító döntéstől számított öt napon belül az elutasítás tényéről egyidejűleg értesítést küld a munkáltatónak, a biztosítottnak és a pénztárak központi nyilvántartásának.
 
 (8)–(10)
 
@@ -1033,7 +1033,7 @@ számolható el.
 
 (2) Az (1) bekezdés alapján megismert személyes adatokat a pénztár az ingatlanértékelő alkalmazásáról meghozott döntésig, ingatlanértékelő alkalmazása esetén a jogviszony fennállásáig kezeli.
 
-(3) A pénztár az ingatlanértékelő megbízását követő tizenöt munkanapon belül a Felügyeletnek jóváhagyás végett bejelenti az értékelő személyét, és csatolja a végzettségét és gyakorlatát igazoló dokumentumok hiteles másolatát, az ingatlanértékelő hatósági bizonyítványát annak igazolására, hogy vele szemben nem áll fenn a 34. § (12) bekezdés a)–c) pontjában meghatározott kizáró ok, és nem áll az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
+(3) A pénztár az ingatlanértékelő megbízását követő huszonegy napon belül a Felügyeletnek jóváhagyás végett bejelenti az értékelő személyét, és csatolja a végzettségét és gyakorlatát igazoló dokumentumok hiteles másolatát, az ingatlanértékelő hatósági bizonyítványát annak igazolására, hogy vele szemben nem áll fenn a 34. § (12) bekezdés a)–c) pontjában meghatározott kizáró ok, és nem áll az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
 
 (4) A Felügyelet hatósági ellenőrzés keretében ellenőrizheti, hogy az ingatlanértékelővel szemben nem áll fenn a 34. § (12) bekezdés a)–c) pontjában meghatározott kizáró ok, és nem áll az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzést folytató Felügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az ingatlanértékelővel szemben fennáll-e a 34. § (12) bekezdés a)–c) pontjában meghatározott kizáró ok, és az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
@@ -1042,7 +1042,7 @@ számolható el.
 - a) (3) bekezdés alapján megismert személyes adatait az ingatlanértékelő megbízásának jóváhagyásáig,
 - b) a (4) bekezdés alapján megismert személyes adatait a hatósági ellenőrzés időtartamára vagy a pénztár az ingatlanértékelő jogviszonyának megszüntetéséről szóló (6) bekezdés szerinti értesítésének a Felügyelethez történő megérkezéséig kezeli.
 
-(6) Ha a Felügyelet a (4) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy az ingatlanértékelővel szemben fennáll a 34. § (12) bekezdés a)–c) pontjában meghatározott kizáró ok, vagy az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt áll, erről a tényről haladéktalanul értesíti a pénztárt, és ezzel egyidejűleg felhívja, hogy az ingatlanértékelővel fennálló jogviszonyát az értesítés kézbesítésétől számított tizenöt munkanapon belül szüntesse meg, és erről a Felügyeletet értesítse.
+(6) Ha a Felügyelet a (4) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy az ingatlanértékelővel szemben fennáll a 34. § (12) bekezdés a)–c) pontjában meghatározott kizáró ok, vagy az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt áll, erről a tényről haladéktalanul értesíti a pénztárt, és ezzel egyidejűleg felhívja, hogy az ingatlanértékelővel fennálló jogviszonyát az értesítés kézbesítésétől számított huszonegy napon belül szüntesse meg, és erről a Felügyeletet értesítse.
 
 67. § (1) A pénztár – a pénztár vagyonának kezelését, illetve nyilvántartásának, szolgáltatásának és adminisztrációjának, továbbá behajtó szervezetének végzését, ingatlanfejlesztését, ingatlanüzemeltetését, ingatlankezelését ellátó, a pénztár tulajdonában levő szervezetek kivételével – nem szerezhet gazdálkodó szervezetben, egy évnél hosszabb időtartamra annak jegyzett tőkéje 10 százalékát meghaladó mértékű közvetlen tulajdoni részesedést.
 
@@ -1266,7 +1266,7 @@ sorolja be.
 
 (5) A (4) bekezdésben foglaltakat nem kell alkalmazni, ha a pénztár nyilvántartásba vétele a tárgyévben, vagy az azt megelőző három naptári évben történt.
 
-75. § (1) A letétkezelővel, vagyonkezelővel, a számlavezetővel, kiszervezett tevékenységet végzővel, a biztosításmatematikai feladatokat ellátóval kötött szerződés és annak módosítása csak írásban érvényes. A szolgáltatóval kötött szerződésről és annak megszüntetéséről a pénztár 3 munkanapon belül tájékoztatja a Felügyeletet, a Felügyelet által meghatározott tartalmú adatlap megküldésével.
+75. § (1) A letétkezelővel, vagyonkezelővel, a számlavezetővel, kiszervezett tevékenységet végzővel, a biztosításmatematikai feladatokat ellátóval kötött szerződés és annak módosítása csak írásban érvényes. A szolgáltatóval kötött szerződésről és annak megszüntetéséről a pénztár öt napon belül tájékoztatja a Felügyeletet, a Felügyelet által meghatározott tartalmú adatlap megküldésével.
 
 (2)
 
@@ -1415,6 +1415,10 @@ sorolja be.
 - e) a panasz megválaszolásának időpontját.
 
 (13) A pénztár a panaszkezelési szabályzatot a pénztártagok számára nyitva álló helyiségében, ennek hiányában a székhelyén kifüggeszti és a honlapján közzéteszi.
+
+(14) A pénztár a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
+
+(15) A pénztár köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenteni.
 
 ### VII. Fejezet — TITOKTARTÁS
 
@@ -1595,7 +1599,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 - a) A pénztár ellen felszámolási eljárásnak van helye, ha a pénztár fizetésképtelen, vagy ha a Felügyelet azt az Mpt. 112/C. § alapján kezdeményezi. A pénztár akkor minősül fizetésképtelennek, ha esedékes elismert kötelezettségeinek 60, illetve a tagok javára vállalt szolgáltatási kötelezettségeinek az esedékességtől számított 90 napon belül nem tesz eleget. A bíróság a felszámolást Felügyelet által kezdeményezett felszámolási eljárásban pénztár fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 - b) A pénztár ellen nincs helye csődeljárásnak.
-- c) A bíróság a pénztár felszámolójának csak a Hpt.-ben meghatározott közhasznú társaságot jelölheti ki.
+- c) A bíróság a pénztár felszámolójának kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki.
 - d) A bíróság a felszámolás iránti kérelemről a benyújtástól számított 8 napon belül határoz. A felszámolást elrendelő végzés fellebbezésre tekintet nélkül végrehajtható. A Felügyelet által kezdeményezett felszámolási eljárás esetében a felszámolás kezdő időpontja a felszámolást elrendelő végzés meghozatalának napja.
 
 (2) A felszámolás kezdő időpontjától:
@@ -1611,6 +1615,8 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 (5) A felszámolás kezdő időpontjában a tartalékokhoz tartozó eszközök listáját azonnal le kell zárni, és azt a felszámolónak át kell adni. A felszámolási eljárás során ezek az eszközök külön kezelendők és azok csak a fedezeti tartalékkal szemben fennálló tagi, illetve hozzátartozói követelések kielégítése után használhatók fel egyéb kötelezettségek kielégítésére.
 
 (6) A pénztárak felszámolása esetén a Cstv. 62. §-a (1) bekezdésében meghatározott, az állam járadék jellegű követelésekért fennálló felelősségére vonatkozó rendelkezés a pénztártagi követelések tekintetében nem alkalmazható.
+
+(7) Pénztár felszámolása esetén az eljárás felfüggesztésének nincs helye.
 
 ### IX. Fejezet — A PÉNZTÁRAK SZÖVETSÉGE
 
@@ -1811,7 +1817,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (5) A (4) bekezdésben meghatározott személyes adatokat a Felügyelet az ellenőrző bizottsági tagságról meghozott döntés időpontjáig, illetve – az ellenőrző bizottsági tagságra történő kinevezés esetén – az ellenőrző bizottsági tagságot megszüntető ok bekövetkeztéig kezeli.
 
-(6) Nem lehet az ellenőrző bizottság tagja az a személy, aki a Felügyelet felhívására, a felhívástól számított tizenöt munkanapon belül – vagy ha e határidőn belül a rajta kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – nem igazolja, hogy a 96. § (3) bekezdésben meghatározott feltételek alapján nincs kizárva az ellenőrző bizottsági tagsági tisztség betöltéséből.
+(6) Nem lehet az ellenőrző bizottság tagja az a személy, aki a Felügyelet felhívására, a felhívástól számított huszonegy napon belül – vagy ha e határidőn belül a rajta kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – nem igazolja, hogy a 96. § (3) bekezdésben meghatározott feltételek alapján nincs kizárva az ellenőrző bizottsági tagsági tisztség betöltéséből.
 
 ### Az Alap ügyvezető igazgatója és munkaszervezete
 
@@ -1860,7 +1866,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (3) Az Alapból történő kizárás nem érinti a tagság fennállása alatt keletkezett követelésekért való helytállást.
 
-(4) A kizárásról az Alap a Felügyeletet egy munkanapon belül értesíti. A Felügyelet a kizárt pénztár tevékenységi engedélyét azonnali hatállyal visszavonja, s erről haladéktalanul, legkésőbb 5 munkanapon belül 2 országos napilapban hirdetményt tesz közzé.
+(4) A kizárásról az Alap a Felügyeletet egy munkanapon belül értesíti. A Felügyelet a kizárt pénztár tevékenységi engedélyét azonnali hatállyal visszavonja, s erről haladéktalanul, legkésőbb nyolc napon belül 2 országos napilapban hirdetményt tesz közzé.
 
 ### XI. Fejezet — A pénztárak állami felügyelete
 
@@ -1929,7 +1935,9 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 109. §
 
-109/A. § A pénztár és a szolgáltató a Felügyeletnek jogszabályon alapuló rendszeres és eseti, illetve felügyeleti határozaton alapuló eseti adatszolgáltatást teljesít.
+109/A. § (1) A pénztár és a szolgáltató a Felügyeletnek jogszabályon alapuló rendszeres és eseti, illetve felügyeleti határozaton alapuló eseti adatszolgáltatást teljesít.
+
+(2) A pénztár és a szolgáltató köteles a tevékenységéről külön jogszabályban előírt módon, formában, tartalommal és gyakorisággal a Felügyeletnek adatot szolgáltatni.
 
 109/B. § (1) A Felügyelet kérésére a pénztár köteles megküldeni részére
 
@@ -2010,7 +2018,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (2) Ha a pénztár az intézkedési tervben foglaltaknak nem tesz eleget, vagy az intézkedési terv a pénztár biztonságos működését nem segíti elő, a Felügyelet felügyeleti biztost nevezhet ki. A Felügyelet felügyeleti biztost rendelhet ki abban az esetben is, ha a pénztár számvitelében vagy belső ellenőrzési rendszerében feltárt hiányosságok oly mértékűek, hogy lehetetlen a pénztár valódi pénzügyi helyzetének értékelése, valamint ha a pénztár igazgatótanácsa nem tudja ellátni feladatát, és ez veszélyezteti a pénztártagok érdekeit.
 
-(3) Felügyeleti biztos csak a pénztárral üzleti kapcsolatban nem álló és a pénztár tagságához nem tartozó személy lehet.
+(3)
 
 (4) A felügyeleti biztos feladata a pénztár helyzetének feltárása, a pénztárvagyon felmérése, a pénztár beszámoltatásának előkészítése. A felügyeleti biztos a vizsgálatának lezárása után 15 napon belül köteles a közgyűlést összehívni.
 
@@ -2026,7 +2034,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (3) A felügyeleti biztos az általa megtett intézkedésekről a pénztár igazgatótanácsát kérésre 3 napon belül írásban köteles tájékoztatni.
 
-(4) A felügyeleti biztost a felügyelet elnöke által meghatározott díjazás illeti meg, amelyet az érintett pénztár fizet.
+(4)
 
 115. § (1) A Felügyelet jogosult arra, hogy a szolgáltatónak a pénztárakkal kapcsolatos tevékenysége körében a szolgáltatónál ellenőrzést végezzen. A Felügyeletnek a szolgáltató ellenőrzésére irányuló eljárására a pénztárak ellenőrzésére vonatkozó szabályokat kell alkalmazni azzal, hogy átfogó ellenőrzésnek helye nincs.
 

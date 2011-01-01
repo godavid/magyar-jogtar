@@ -102,7 +102,7 @@ a következő törvényt alkotja:
 
 (4) A Hivatal a tudomására jutott tények, adatok értékelése alapján, a tisztességes eljárás követelményét sértő magatartással biztosított vagy lehetővé tett előny feltételezett mértékét is mérlegelve dönti el, hogy a vizsgálati eljárást megindítja, vagy azt mellőzi. Ha az előny jelentős mértékű, a Hivatal a vizsgálati eljárást megindítja.
 
-(5) Ha a Hivatal bejelentés alapján jár el, a vizsgálati eljárás megindításáról a bejelentéstől számított nyolc munkanapon belül dönt. Ha a tudomására jutott tények, adatok alapján az elért, vagy elérni kívánt előny jelentős mértéke valószínűsíthető, de a rendelkezésre álló tények és adatok alapján a vizsgálati eljárás megindításának szükségességéről más okból nem lehet egyértelműen állást foglalni, a Hivatal elnöke intézkedik az eljárás megindításáról szóló döntéshez szükséges adatok további tizenöt munkanapon belüli beszerzéséről.
+(5) Ha a Hivatal bejelentés alapján jár el, a vizsgálati eljárás megindításáról a bejelentéstől számított tíz napon belül dönt. Ha a tudomására jutott tények, adatok alapján az elért, vagy elérni kívánt előny jelentős mértéke valószínűsíthető, de a rendelkezésre álló tények és adatok alapján a vizsgálati eljárás megindításának szükségességéről más okból nem lehet egyértelműen állást foglalni, a Hivatal elnöke intézkedik az eljárás megindításáról szóló döntéshez szükséges adatok további húsz napon belüli beszerzéséről.
 
 (6) A Hivatal nem indít vizsgálati eljárást, ha
 
@@ -134,7 +134,7 @@ a következő törvényt alkotja:
 
 7. § (1) A Hivatal – ha a döntést bíróság nem vizsgálta felül – a döntést hozó szerv felügyeleti szervénél felügyeleti eljárást kezdeményezhet azon jogorvoslattal meg nem támadható, az 1. § (2) bekezdés a) vagy b) pontja szerinti eljárásban hozott érdemi döntéssel szemben, amelynek tárgyában vizsgálati eljárást folytat.
 
-(2) A felügyeleti eljárás során a felügyeleti szerv a benyújtástól számított huszonkét munkanapon belül, a testületi formában működő felügyeleti szerv a legközelebbi ülésén határoz, és határozatát a meghozatalától számított nyolc munkanapon belül a Hivatallal köteles közölni.
+(2) A felügyeleti eljárás során a felügyeleti szerv a benyújtástól számított harminc napon belül, a testületi formában működő felügyeleti szerv a legközelebbi ülésén határoz, és határozatát a meghozatalától számított tíz napon belül a Hivatallal köteles közölni.
 
 (3) Ha a felügyeleti szerv az (1) bekezdésben meghatározott kezdeményezéssel nem ért egyet, illetve azt határidőben nem folytatja le, a Hivatal az erről szóló határozat kézbesítésétől, illetve a (2) bekezdésben meghatározott határidő elteltétől számított harminc napon belül a közigazgatási határozatok bírósági felülvizsgálatára vonatkozó szabályok szerint kérheti a határozat bírósági felülvizsgálatát.
 
@@ -202,7 +202,7 @@ a következő törvényt alkotja:
   - ab) megtiltja a tisztességes eljárás követelményeit sértő magatartás további folytatását, továbbá
   - ac) az e törvényben meghatározott joghátrányokat alkalmazza;
 - b) az eljárást megszünteti és a határozatában megállapítja, hogy a vizsgálati eljárás elrendelésére okot adó feltételezett körülmények nem állnak fenn, vagy a vizsgálati eljárás során beszerzett bizonyítékok alapján nem állapítható meg a tisztességes eljárás követelményeinek megsértése, és a vizsgálati eljárás folytatásától sem várható eredmény; vagy
-- c) végzésben úgy rendelkezhet, hogy az iratokat a vizsgálónak visszaadja, ha megállapítja, hogy a tényállás teljes körű tisztázásához további vizsgálatra van szükség, illetve a vizsgálati eljárás kiterjesztése, vagy új ügyfél eljárásba vonása indokolt, ebben az esetben legfeljebb 44 munkanapos határidőt állapíthat meg a vizsgáló részére.
+- c) végzésben úgy rendelkezhet, hogy az iratokat a vizsgálónak visszaadja, ha megállapítja, hogy a tényállás teljes körű tisztázásához további vizsgálatra van szükség, illetve a vizsgálati eljárás kiterjesztése, vagy új ügyfél eljárásba vonása indokolt, ebben az esetben legfeljebb két hónapos határidőt állapíthat meg a vizsgáló részére.
 
 (2) A döntést a bejelentővel is közölni kell.
 

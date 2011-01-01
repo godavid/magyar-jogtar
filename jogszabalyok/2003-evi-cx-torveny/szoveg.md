@@ -233,7 +233,7 @@ kell igazolni.
 
 (4) A 13. § (6) bekezdése alapján az adó visszafizetése kizárólag olyan személygépkocsi átalakítása során történhet, amelynek a forgalomba helyezésekor az e törvény szerinti adót fizették meg.
 
-20. § (1) Felhatalmazást kap a közlekedéspolitikáért, valamint az adópolitikáért felelős miniszter, hogy együttes rendeletben állapítsák meg az egyedi adó-megállapítás díját, valamint az annak megfizetésre vonatkozó egyéb eljárási szabályokat.
+20. § (1) Felhatalmazást kap a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg az egyedi adó-megállapítás díját, valamint az annak megfizetésre vonatkozó egyéb eljárási szabályokat.
 
 (2)
 

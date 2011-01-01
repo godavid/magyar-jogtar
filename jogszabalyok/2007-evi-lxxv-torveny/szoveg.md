@@ -50,7 +50,7 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
   - b) minden olyan, az a) pont hatálya alá nem tartozó gazdálkodó, amelyet jogszabály közérdeklődésre számot tartónak minősít.
 - 20. Különbözeti vizsga: olyan vizsga, amelyet magyar nyelven kell teljesíteni, és amely a Magyar Köztársaság területén folytatott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásához szükséges ismeretek ellenőrzésére terjed ki.
 - 21. Mentor: az a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgáló, aki a könyvvizsgáló jelöltet a szakmai tapasztalatok elsajátításában segíti.
-- 22. Nemzetközi könyvvizsgálati standardok: azok a Nemzetközi Könyvvizsgálati Standardok [International Standards on Auditing (ISA)] és kapcsolódó állásfoglalások, valamint egyéb standardok, amelyek a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységhez kapcsolódnak.
+- 22. Nemzetközi könyvvizsgálati standardok: a Nemzetközi Könyvvizsgálati és Bizonyosságot Nyújtó Szolgáltatási Standardok Testület [International Auditing and Assurance Standard Board (IAASB)] által kibocsátott és elfogadott Nemzetközi Könyvvizsgálati Standardok [International Standards on Auditing (ISA)] és kapcsolódó állásfoglalások, valamint egyéb standardok, amelyek a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységhez kapcsolódnak.
 - 23. Szabályozott piac: a tőkepiacról szóló törvényben meghatározott fogalom.
 - 24. Szakmai kompetencia vizsga: annak ellenőrzése, hogy a könyvvizsgáló jelölt a számára előírt szakmai gyakorlati idő alatt megfelelő szakmai tapasztalatot szerzett és ismereteit képes valós körülmények között alkalmazni.
 - 25. Szakmai szolgáltatás: a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység és az egyéb szakmai szolgáltatás.
@@ -119,7 +119,7 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 - d) jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység szüneteltetésének engedélyezése, valamint a szüneteltetést követően a tevékenység újbóli ellátásának engedélyezése,
 - e) kamarai tag könyvvizsgáló, könyvvizsgáló cég minősítésének megadása, a minősítés visszavonása,
 - f) felvétel az okleveles könyvvizsgálói képzési programba, továbbá a könyvvizsgáló jelöltek névjegyzékébe, valamint az azokból való törlés,
-- g) az okleveles könyvvizsgálói képzési program részét képező vizsga, a szakmai kompetencia vizsga, valamint a különbözeti vizsga engedélyezése,
+- g)
 - h) külföldi oklevél, bizonyítvány elismerése az okleveles könyvvizsgálói képzési programban történő részvétel céljából,
 - i) tanulmányok elismerése az okleveles könyvvizsgálói képzési programban,
 - j) okleveles könyvvizsgálói képzés szervezésének, folytatásának engedélyezése gazdálkodó számára, oktatási tevékenység végzésének engedélyezése természetes személy számára, valamint az engedélyek visszavonása,
@@ -144,15 +144,17 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 
 (3)–(4)
 
-(5) Ha a kérelmet hiányosan nyújtották be, a kérelmezőt a kérelem beérkezésétől számított 15 munkanapon belül kell felhívni hiánypótlásra.
+(5) Ha a kérelmet hiányosan nyújtották be, a kérelmezőt a kérelem beérkezésétől számított huszonkét napon belül kell felhívni hiánypótlásra.
 
 (6)
 
+(7) Az 5. § k) és l) pontja szerinti eljárás során a határozatot az eljárás megindításától számított hatvan napon belül, vagy ha ez nem lehetséges, a határidő letelte utáni első testületi ülésen, legkésőbb azonban kilencven napon belül kell meghozni. Az eljáró testület elnöke az ügyintézési határidőt indokolt esetben egy alkalommal, legfeljebb hatvan nappal meghosszabbíthatja, melyről az ügyfelet értesíteni kell.
+
 8. § (1) Az ügyfél a kamarai hatósági eljárásban hozott elsőfokú döntés ellen a kamara elnökségéhez fellebbezhet.
 
-(2) Az elnökség a fellebbezésről 45 munkanapon belül határoz.
+(2) A fellebbezési eljárásban az ügyintézési határidő két hónap.
 
-(3) Az elnökség a (2) bekezdés szerinti határidőt indokolt esetben egy alkalommal, legfeljebb 22 munkanappal meghosszabbíthatja.
+(3) Az elnökség a (2) bekezdés szerinti határidőt indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbíthatja.
 
 (4)–(5)
 
@@ -267,7 +269,7 @@ Isten engem úgy segéljen!”
 
 (3) A könyvvizsgálói igazolvány a kamarai tagság igazolására is szolgál.
 
-(4) A könyvvizsgálói igazolvány feljogosítja a kamarai tag könyvvizsgálót a „hites könyvvizsgáló” cím használatára.
+(4) A könyvvizsgálói igazolvány feljogosítja a kamarai tag könyvvizsgálót a „hites könyvvizsgáló”, a „bejegyzett könyvvizsgáló”, valamint a „könyvszakértő” cím használatára, azonban a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során kiadott jelentésekben csak a „kamarai tag könyvvizsgáló” cím használható.
 
 (5) A kamara gondoskodik arról, hogy az érvényben lévő könyvvizsgálói igazolványok mintája a kamara honlapján folyamatosan és bárki számára szabadon megtekinthető legyen.
 
@@ -318,13 +320,13 @@ Isten engem úgy segéljen!”
 
 ### A jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység szüneteltetése
 
-26. § (1) A kamarai tag könyvvizsgáló a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátását – kérelemre kiadott – engedély alapján szüneteltetheti (a továbbiakban: szüneteltetés). A szüneteltetés legrövidebb időtartama – a (6) bekezdés szerinti szüneteltetés kivételével – tizenkét hónap.
+26. § (1) A kamarai tag könyvvizsgáló a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátását – kérelemre kiadott – engedély alapján szüneteltetheti, illetve fegyelmi eljárás során kiszabott büntetés alapján szünetelteti (a továbbiakban: szüneteltetés). A szüneteltetés legrövidebb időtartama – a (6) bekezdés szerinti szüneteltetés kivételével – kérelemre kiadott engedély alapján történő szüneteltetés esetén három, fegyelmi eljárás során kiszabott büntetés alapján tizenkét hónap.
 
 (2) A kamarai tag könyvvizsgáló köteles kérni a szüneteltetés engedélyezését, ha nem tud eleget tenni a 11. § (1) bekezdés e) vagy f) pontjában vagy az 53. §-ban foglalt követelményeknek.
 
 (3) A szüneteltetés engedélyezése tekintetében a kamara felvételi bizottsága jár el.
 
-(4) A szüneteltetés engedélyezését legkésőbb abban az időpontban kell kérni, amelyben a kamarai tag könyvvizsgáló már nem tud megfelelni a (2) bekezdésben hivatkozott követelményeknek.
+(4) A szüneteltetés engedélyezését legkésőbb a 11. § (1) bekezdés e) vagy f) pontja szerinti jogviszony létesítésétől, illetve az 53. § szerinti összeférhetetlen tevékenység megkezdésétől számított hatvan napon belül kell kérni.
 
 (5) A szüneteltetés engedélyezése megtagadható, ha a kamarai tag könyvvizsgáló nem gondoskodott
 
@@ -333,7 +335,7 @@ Isten engem úgy segéljen!”
 
 (6) Nem szükséges engedély az európai parlamenti képviselői, az országgyűlési képviselői és a polgármesteri megbízatás miatti szüneteltetéshez. A szüneteltetést ez esetben a képviselői vagy a polgármesteri megbízatás kezdőnapját követő 15 napon belül kell írásban bejelenteni a kamara felvételi bizottságának. A szüneteltetés időtartama a megbízatás lejártáig tart.
 
-(7) A (6) bekezdés hatálya alá tartozó kamarai tag könyvvizsgálónak is eleget kell tennie az (5) bekezdés szerinti kötelezettségeknek.
+(7) A (6) bekezdés hatálya alá tartozó kamarai tag könyvvizsgálónak, valamint a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátását fegyelmi eljárás során kiszabott büntetés alapján szüneteltető kamarai tag könyvvizsgálónak is eleget kell tennie az (5) bekezdés szerinti kötelezettségeknek.
 
 27. § (1) A szüneteltetés időtartama alatt a kamarai tag könyvvizsgálóra nem vonatkoznak a 11. § (1) bekezdésének a), e)–g) pontjában, valamint az 53. §-ban foglalt előírások.
 
@@ -345,11 +347,13 @@ Isten engem úgy segéljen!”
 - b) jogosult a kamara küldöttgyűlésében a szüneteltető kamarai tag könyvvizsgálókat képviselő küldött választásában részt venni és ilyen küldötté választható,
 - c) jogosult a kamara szolgáltatásait igénybe venni,
 - d) szakmai továbbképzési kötelezettségeit a 106. §-ban foglaltak, valamint a kamara alapszabálya és szakmai továbbképzési szabályzata szerint köteles teljesíteni,
-- e) köteles a kamara alapszabályában meghatározott, a kamara által nyújtott szolgáltatásokkal arányos tagdíjat fizetni.
+- e) köteles a kamara alapszabályában meghatározott, a kamara által nyújtott szolgáltatásokkal arányos tagdíjat fizetni,
+- f) köteles megtartani a kamara önkormányzati szabályzataiban a szüneteltető tagokra előírt szabályokat,
+- g) köteles haladéktalanul, de legkésőbb tizenöt napon belül bejelenteni, ha a 33. § (1) bekezdésében felsorolt adataiban változás következett be.
 
 28. § A szüneteltetés időtartamára a könyvvizsgálói igazolványt átvételi elismervény ellenében be kell vonni, a kamarai tag könyvvizsgálók nyilvántartásában a könyvvizsgáló jogállásának változását be kell jegyezni.
 
-29. § (1) A tevékenységét szüneteltető kamarai tag – kérelemre kiadott – engedéllyel kezdhet ismét jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végezni.
+29. § (1) A tevékenységét szüneteltető tag – kérelemre kiadott – engedéllyel kezdhet ismét jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végezni. A fegyelmi eljárás során kiszabott büntetés alapján szüneteltető tag a fegyelmi határozatban meghatározott időpontot követően terjesztheti elő erre irányuló kérelmét.
 
 (2) Az (1) bekezdés szerinti engedélyezési eljárás tekintetében a kamara felvételi bizottsága jár el.
 
@@ -910,7 +914,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 (2) Kérelem alapján fel kell venni az okleveles könyvvizsgálói képzési programba azt, aki megfelel az alábbi feltételeknek:
 
-- a) a felsőoktatásról szóló törvény szerint a Magyar Köztársaságban államilag elismert felsőoktatási intézményben szerzett, szakirányú oklevéllel rendelkezik,
+- a) a felsőoktatásról szóló törvény szerint a Magyar Köztársaságban államilag elismert felsőoktatási intézményben szerzett oklevéllel rendelkezik,
 - b) mérlegképes könyvelői vagy azzal egyenértékű szakképesítéssel rendelkezik és szakképesítését oklevéllel, bizonyítvánnyal igazolja,
 - c) számviteli, pénzügyi, ellenőrzési szakterületen az a) pont szerinti végzettség megszerzését követően, de a felvételi kérelmének benyújtását megelőző három éven belül teljesített, legalább egy éves, igazolt szakmai gyakorlattal rendelkezik,
 - d) nem áll fenn vele szemben a 12. § a) pontjában meghatározott kizáró ok,
@@ -971,11 +975,11 @@ szerezte.
 
 97. § (1) Könyvvizsgáló jelölt az, aki a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzéséhez szükséges engedély (a kamarai tagság) megszerzése céljából az e törvényben meghatározott szakmai kompetencia vizsga letételéhez előírt gyakorlati idejét tölti.
 
-(2) A könyvvizsgáló jelölt számára előírt gyakorlati idő a könyvvizsgáló jelölt névjegyzékbe vételétől számított 3 év, amelynek lejáratát követően a jelölt szakmai kompetencia vizsgát tesz.
+(2) A könyvvizsgáló jelölt számára előírt gyakorlati idő a könyvvizsgáló jelölt névjegyzékbe vételétől számított legalább három, legfeljebb hat év, amelynek lejáratát követően a jelölt szakmai kompetencia vizsgát tesz.
 
-(3) A (2) bekezdés szerinti gyakorlati időből 1 évet a kamara alapszabályában és mentori szabályzatában meghatározott módon, 2 évet pedig a 98. § (1) bekezdésének c) pontja szerinti kamarai tag könyvvizsgálónál vagy könyvvizsgáló cégnél kell teljesíteni.
+(3) A (2) bekezdés szerinti gyakorlati időből 1 évet a kamara alapszabályában és mentori szabályzatában meghatározott módon, legalább két évet pedig a 98. § (1) bekezdésének c) pontja szerinti kamarai tag könyvvizsgálónál vagy könyvvizsgáló cégnél kell teljesíteni.
 
-(4) Ha a könyvvizsgáló jelölt a (2) bekezdés szerinti gyakorlati időt megszakítja, az a könyvvizsgáló jelölt kérelmére és a kamara, vagy a 98. § (1) bekezdésének c) pontja szerinti kamarai tag könyvvizsgáló, könyvvizsgáló cég hozzájárulásával meghosszabbítható, de nem lehet hosszabb öt évnél.
+(4) Ha a könyvvizsgáló jelölt a (2) bekezdés szerinti gyakorlati időt megszakítja, az a könyvvizsgáló jelölt kérelmére és a kamara, vagy a 98. § (1) bekezdésének c) pontja szerinti kamarai tag könyvvizsgáló, könyvvizsgáló cég hozzájárulásával meghosszabbítható, de nem lehet hosszabb hat évnél.
 
 (5) Könyvvizsgáló jelöltként tevékenységet az folytathat, akit a kamara a könyvvizsgáló jelöltek névjegyzékébe felvett.
 
@@ -987,7 +991,7 @@ szerezte.
 
 - a) megfelel a 11. § (1) bekezdésének b) pontjában meghatározott feltételeknek,
 - b) nem esik a 12. §-ban meghatározott kizáró ok alá,
-- c) vállalja, hogy a Magyar Köztársaság területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel a képzési programnak megfelelő – legalább két évre szóló, heti 36 órát elérő – munkaviszonyt létesít,
+- c) vállalja, hogy a Magyar Köztársaság területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel a képzési programnak megfelelő – a kamara mentori szabályzata szerinti – munkaviszonyt, munkaviszony jellegű jogviszonyt létesít,
 - d) magára nézve kötelezőnek ismeri el a kamara vonatkozó szabályzatának rendelkezéseit,
 - e) az előírt igazgatási szolgáltatási díjat megfizette.
 
@@ -1017,7 +1021,7 @@ szerezte.
 
 (3) A névjegyzékből való törléskor a 97. § (6) bekezdése szerinti igazolást vissza kell vonni.
 
-(4) Nem kell törölni a könyvvizsgáló jelöltek névjegyzékéből az (1) bekezdés a) pontja alapján a könyvvizsgáló jelöltet a 98. § (1) bekezdésének c) pontja szerinti munkaviszony megszűnése esetén, ha egy éven belül más kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel ilyen munkaviszonyt létesített.
+(4) Nem kell törölni a könyvvizsgáló jelöltek névjegyzékéből az (1) bekezdés a) pontja alapján a könyvvizsgáló jelöltet a 98. § (1) bekezdésének c) pontja szerinti munkaviszony, munkaviszony jellegű jogviszony megszűnése esetén, ha egy éven belül más kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel ilyen munkaviszonyt, munkaviszony jellegű jogviszonyt létesített.
 
 101/A. § (1) A könyvvizsgálójelöltek névjegyzékébe felvételét kérő személy a felvétel iránti kérelem benyújtásával egyidejűleg hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben nem áll fenn a 12. § a)–c) pontja szerinti kizáró ok, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a kamara részére – annak a könyvvizsgáló jelöltek névjegyzékébe történő felvétel iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a kamara a (2) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
 
@@ -1028,7 +1032,7 @@ szerezte.
 - a) a könyvvizsgálójelöltek névjegyzékébe való felvétel iránti eljárás jogerős befejezéséig, vagy
 - b) a könyvvizsgálójelöltek névjegyzékébe való felvétel esetén a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
-102. § Ha a 98. § (1) bekezdésének c) pontja szerinti kamarai tag könyvvizsgáló vagy könyvvizsgáló cég elveszíti jogosultságát a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére a Magyar Köztársaság területén, akkor a könyvvizsgáló jelölt által a munkaviszony keretében végzett tevékenység a továbbiakban nem minősül könyvvizsgáló jelölti tevékenységnek.
+102. § Ha a 98. § (1) bekezdésének c) pontja szerinti kamarai tag könyvvizsgáló vagy könyvvizsgáló cég elveszíti jogosultságát a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére a Magyar Köztársaság területén, akkor a könyvvizsgáló jelölt által a munkaviszony, munkaviszony jellegű jogviszony keretében végzett tevékenység a továbbiakban nem minősül könyvvizsgáló jelölti tevékenységnek.
 
 103. § A kamara a könyvvizsgáló jelöltek képzésével összefüggő további jogokat és kötelezettségeket, valamint eljárási szabályokat a mentori szabályzatában határozza meg.
 
@@ -1663,11 +1667,11 @@ finanszírozzák.
 
 170. § (1) A minőségellenőrzésről a minőségellenőr záró jelentést készít.
 
-(2) A záró jelentést az ellenőrzés befejezésétől számított 10 munkanapon belül kell elkészíteni.
+(2) A záró jelentést az ellenőrzés befejezésétől számított tizenöt napon belül kell elkészíteni.
 
 (3) A záró jelentést az ellenőrzés alá vont kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek, valamint a bizottságnak meg kell küldeni.
 
-(4) A záró jelentésre az átvételétől számított 10 munkanapon belül az ellenőrzés alá vont írásban észrevételt tehet, amelyet a bizottsághoz kell benyújtani.
+(4) A záró jelentésre az átvételétől számított tizenöt napon belül az ellenőrzés alá vont írásban észrevételt tehet, amelyet a bizottsághoz kell benyújtani.
 
 (5) A bizottság a záró jelentés és a (4) bekezdés szerinti észrevétel alapján határozatot hoz a minőségellenőrzés eredményének minősítéséről, az ellenőrzés alá vont részére a minősítés alapján előírt kötelezettségekről, valamint az indokolt intézkedés alkalmazásáról.
 
@@ -1679,7 +1683,7 @@ finanszírozzák.
 - b) figyelmeztetés az előírásoknak nem megfelelő gyakorlat megszüntetésére,
 - c) fegyelmi eljárás kezdeményezése.
 
-(2) Ha az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységét a 171. § szerinti kötelezettségek figyelmen kívül hagyásával végezte, a bizottság elnöke jogosult ellene a kamara illetékes testületénél fegyelmi eljárást kezdeményezni.
+(2) Ha az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységét a 171. § szerinti kötelezettségek figyelmen kívül hagyásával végezte, ellene a bizottság elnöke a kamara illetékes testületénél fegyelmi eljárást kezdeményez.
 
 173. § A bizottság évenként összefoglaló értékelést tartalmazó jelentést készít a tárgyévben lefolytatott minőségellenőrzések tapasztalatairól. A jelentést a tárgyévet követő év május 31-ig a kamara honlapján és a kamara lapjában nyilvánosságra kell hozni.
 
@@ -1727,7 +1731,8 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 - b) a szakmai továbbképzési rendszerben való kötelező részvétel elmulasztása,
 - c) az előírt adatszolgáltatások elmulasztása,
 - d) az előírt könyvvizsgálói felelősségbiztosítás megkötésének, hatályban tartásának elmulasztása,
-- e) a jogszabályokban foglalt sajátos kötelezettségek megszegése a 49. § szerinti minősítéssel rendelkező kamarai tag könyvvizsgáló vagy könyvvizsgáló cég esetében.
+- e) a jogszabályokban foglalt sajátos kötelezettségek megszegése a 49. § szerinti minősítéssel rendelkező kamarai tag könyvvizsgáló vagy könyvvizsgáló cég esetében,
+- f) az előírt összeférhetetlenségi szabályokkal ellentétes magatartás tanúsítása.
 
 ### Fegyelmi eljárás
 
@@ -1735,14 +1740,16 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (2) A 174. § (2) bekezdésének e) pontjában foglalt esetben az érintett állami szerv is felkérheti a fegyelmi megbízottat fegyelmi eljárás kezdeményezésére.
 
-(3) A fegyelmi megbízott javaslatára a fegyelmi eljárást – a kamarai tag könyvvizsgáló, a könyvvizsgáló cég haladéktalan értesítésével – a kamara elnöke írásban rendeli el, az eljárást elrendelő határozat megküldésével, valamint a fegyelmi vétségnek és bizonyítékainak, továbbá a fegyelmi tárgyalás helyének és időpontjának közlésével. Az értesítésben az eljárás alá vont kamarai tag könyvvizsgálót, könyvvizsgáló céget tájékoztatni kell annak jogkövetkezményeiről, ha a fegyelmi tárgyaláson az eljárás alá vont vagy jogi képviselője nem vesz részt.
+(3) A fegyelmi megbízott javaslatára a fegyelmi eljárást – a kamarai tag könyvvizsgáló, a könyvvizsgáló cég haladéktalan értesítésével – a kamara elnöke írásban rendeli el, az eljárást elrendelő határozat megküldésével, valamint a fegyelmi vétségnek és bizonyítékainak, továbbá – a 176/A. §-ban foglalt eljárás kivételével – a fegyelmi tárgyalás helyének és időpontjának közlésével. Az értesítésben az eljárás alá vont kamarai tag könyvvizsgálót, könyvvizsgáló céget tájékoztatni kell annak jogkövetkezményeiről, ha a fegyelmi tárgyaláson az eljárás alá vont vagy jogi képviselője nem vesz részt.
 
-(4) Nem indítható fegyelmi eljárás
+(4) Amennyiben a fegyelmi eljárás elrendelésére a (2) bekezdés alapján kerül sor, a fegyelmi eljárás elrendeléséről a kamara elnöke a fegyelmi eljárást elrendelő határozat megküldésével tájékoztatja az érintett állami szervet. Az érintett állami szerv a tájékoztatásul megkapott határozatot nem hozhatja harmadik személyek tudomására és nem teheti közzé.
+
+(5) Nem indítható fegyelmi eljárás
 
 - a) olyan fegyelmi vétség miatt, amelynek elkövetésétől számítva 5 év eltelt,
 - b) ha a fegyelmi vétségnek a kamara elnöke tudomására jutásától számítva 12 hónap eltelt és a kamarai tag könyvvizsgáló, a könyvvizsgáló cég ellen nem indult büntetőeljárás.
 
-(5) Az a fegyelmi vétség, amely bűncselekmény törvényi tényállását valósítja meg, a bűncselekménnyel együtt évül el.
+(6) Az a fegyelmi vétség, amely bűncselekmény törvényi tényállását valósítja meg, a bűncselekménnyel együtt évül el.
 
 176. § (1) A fegyelmi eljárást – a fegyelmi megbízott közreműködésével – a fegyelmi bizottság folytatja le. A fegyelmi eljárás során a fegyelmi bizottságnak meg kell vizsgálnia és tisztáznia kell a tényállás megállapításához szükséges tényeket, körülményeket. A fegyelmi tárgyaláson az érintett kamarai tag könyvvizsgálón, könyvvizsgáló cégen kívül annak jogi képviselője is részt vehet.
 
@@ -1752,6 +1759,8 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (4) A büntetőeljárás alatt indult fegyelmi eljárást – az ítélet jogerőre emelkedéséig – a fegyelmi bizottság felfüggesztheti.
 
+176/A. § A 174. § (2) bekezdésének a) pontjában foglalt fegyelmi vétség elkövetése esetén elrendelt fegyelmi eljárás során a fegyelmi eljárás alá vont az eljárást elrendelő határozat kézhezvételétől számított nyolc napon belül írásban védekezést terjeszthet elő, illetve tárgyalás tartását kérheti. Amennyiben az eljárás alá vont tárgyalás tartása iránti kérelmet nem terjeszt elő, a fegyelmi bizottság a határozatát a rendelkezésre álló iratok alapján tárgyaláson kívül is meghozhatja. Az eljárás alá vontat a fegyelmi eljárás elrendeléséről szóló értesítésben minderről tájékoztatni kell.
+
 ### Szankciók
 
 177. § (1) A fegyelmi eljárásban a következő fegyelmi büntetések alkalmazhatók:
@@ -1759,21 +1768,22 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 - a) írásbeli megrovás,
 - b) pénzbírság,
 - c) a 49. § szerinti minősítés megvonása,
-- d) kizárás a kamarából, a könyvvizsgáló cég engedélyének visszavonása (törlés elrendelése a harmadik országbeli könyvvizsgálók, harmadik országbeli könyvvizsgáló gazdálkodók jegyzékéből).
+- d) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység szüneteltetésének meghatározott időre történő elrendelése,
+- e) kizárás a kamarából, a könyvvizsgáló cég engedélyének visszavonása (törlés elrendelése a harmadik országbeli könyvvizsgálók, harmadik országbeli könyvvizsgáló gazdálkodók jegyzékéből).
 
-(2) A pénzbírság összege – a fegyelmi vétség súlyára tekintettel – a kamarai tag könyvvizsgáló esetén a büntetés kiszabásának évében esedékes éves kamarai tagdíj tízszereséig, könyvvizsgáló cég esetén a büntetés kiszabásának évében esedékes éves hozzájárulási díj összegéig terjedhet. A pénzbírságból befolyó bevételek elkülönített felhasználásáról a kamara alapszabályában kell rendelkezni.
+(2) A pénzbírság összege – a fegyelmi vétség súlyára tekintettel – a kamarai tag könyvvizsgáló esetén a büntetés kiszabásának évében esedékes éves kamarai tagdíj húszszorosáig, könyvvizsgáló cég esetén a büntetés kiszabásának évében esedékes éves hozzájárulási díj összegéig terjedhet. A pénzbírságból befolyó bevételek elkülönített felhasználásáról a kamara alapszabályában kell rendelkezni.
 
 (3) Figyelmeztetés alkalmazásának van helye akkor, ha a fegyelmi vétség miatt – az ügy összes körülményére tekintettel – fegyelmi büntetés kiszabása nem indokolt.
 
-(4) Fegyelmi büntetés és figyelmeztetés csak fegyelmi tárgyaláson szabható ki. Fegyelmi büntetést és figyelmeztetést a fegyelmi bizottság és – jogorvoslat keretében – a kamara elnöksége szabhat ki.
+(4) Fegyelmi büntetés és figyelmeztetés – a 176/A. §-ban foglalt eljárás kivételével – csak fegyelmi tárgyaláson szabható ki. Fegyelmi büntetést és figyelmeztetést a fegyelmi bizottság és – jogorvoslat keretében – a kamara elnöksége szabhat ki.
 
 ### Jogorvoslat
 
-178. § (1) A fegyelmi bizottság által lefolytatott fegyelmi tárgyaláson hozott, indoklással ellátott, írásbeli határozatot a határozathozatal napjától számított 22 munkanapon belül kézbesíteni kell az eljárás alá vontnak. A határozat ellen a kézbesítésétől számított 22 munkanapon belül a fegyelmi eljárás alá vont vagy annak jogi képviselője, valamint a fegyelmi megbízott halasztó hatályú fellebbezéssel élhet.
+178. § (1) A fegyelmi bizottság által meghozott, indoklással ellátott, írásbeli határozatot a határozathozatal napjától számított huszonkét munkanapon belül kézbesíteni kell az eljárás alá vontnak és jogi képviselőjének. A határozat ellen a kézbesítésétől számított huszonkét munkanapon belül a fegyelmi eljárás alá vont vagy annak jogi képviselője, valamint a fegyelmi megbízott halasztó hatályú fellebbezéssel élhet.
 
 (2) Az (1) bekezdés szerinti fellebbezést a kamara elnökségéhez címezve, a fegyelmi bizottságnak kell írásban benyújtani. A fellebbezést az elnökség a rendelkezésre álló iratok alapján, a kamarai tag könyvvizsgáló, könyvvizsgáló cég (azok jogi képviselője) és a fegyelmi megbízott meghallgatásával bírálja el, a fellebbezés benyújtását követő 45 munkanapon belül.
 
-(3) Az elnökség a fegyelmi tárgyaláson hozott fegyelmi határozatot
+(3) Az elnökség a fegyelmi bizottság által meghozott fegyelmi határozatot
 
 - a) helybenhagyja, megváltoztatja, hatályon kívül helyezi, vagy
 - b) amennyiben a döntés meghozatalához nincs elég adat vagy a tényállás további tisztázása szükséges, hatályon kívül helyezi, és a fegyelmi bizottságot új eljárásra utasítja.
@@ -1782,9 +1792,19 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (5) A (3) bekezdés szerinti fegyelmi büntetést, figyelmeztetést tartalmazó elnökségi döntés ellen – a kézbesítéstől számított 30 napon belül – a kamarai tag könyvvizsgáló, a könyvvizsgáló cég a közigazgatási perekre (Polgári perrendtartásról szóló törvény XX. fejezet) irányadó szabályok szerint bírósághoz fordulhat.
 
-(6) Ha a 177. § (1) bekezdésének d) pontjában foglalt fegyelmi büntetés ellen az eljárás alá vont az (5) bekezdés szerint bírósághoz fordult, a bíróság jogerős ítéletéig a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem nyújthat szakmai szolgáltatást, továbbá a kamarai tag könyvvizsgáló jogai és kötelezettségei a szüneteltetésre vonatkozó rendelkezések szerint alakulnak.
+(6) Ha a 177. § (1) bekezdésének e) pontjában foglalt fegyelmi büntetés ellen az eljárás alá vont az (5) bekezdés szerint bírósághoz fordult, a bíróság jogerős ítéletéig a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem nyújthat szakmai szolgáltatást, továbbá a kamarai tag könyvvizsgáló jogai és kötelezettségei a szüneteltetésre vonatkozó rendelkezések szerint alakulnak.
 
-(7) A fegyelmi eljárás részletes szabályait a kamara alapszabálya, valamint az etikai szabályzata tartalmazza.
+(7) Az érintett állami szerv kezdeményezése alapján elrendelt fegyelmi eljárást lezáró jogerős fegyelmi határozatot tájékoztatásul kézbesíteni kell az érintett állami szerv részére. Az érintett állami szerv a tájékoztatásul megkapott határozatot nem hozhatja harmadik személyek tudomására és nem teheti közzé.
+
+(8) A 177. § (1) bekezdés c)–e) pontjaiban foglalt fegyelmi büntetés kiszabása esetén az erről szóló jogerős határozat megküldésével tájékoztatni kell a felvételi bizottságot.
+
+(9) A fegyelmi eljárás részletes szabályait a kamara alapszabálya, valamint az etikai szabályzata tartalmazza.
+
+### Kézbesítés
+
+178/A. § (1) A fegyelmi eljárással összefüggésben postai úton megküldött határozatot a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni, ha a címzett az átvételt megtagadta. Ha a kézbesítés azért volt eredménytelen, mert a címzett az iratot nem vette át (az a kamarához „nem kereste” jelzéssel érkezett vissza), az iratot – az ellenkező bizonyításáig – a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
+
+(2) Az (1) bekezdésben foglalt kézbesítési vélelem megdöntése iránt a címzett a kézbesítési vélelem beálltáról való tudomásszerzésétől számított tizenöt napon belül terjeszthet elő kérelmet a kamara etikai szabályzatában meghatározott indokokkal és módon. A kérelem benyújtásának a kézbesítési vélelem beállta napjától számított hat hónap elteltével nincs helye. E határidő elmulasztása miatt igazolással élni nem lehet.
 
 ### Nyilvánosság
 

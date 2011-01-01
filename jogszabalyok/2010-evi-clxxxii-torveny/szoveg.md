@@ -1,0 +1,286 @@
+# 2010. évi CLXXXII. törvény
+
+a Bethlen Gábor Alapról
+
+Az Országgyűlés– a Magyarország határain kívül élő magyarság szülőföldjén való boldogulásának, Magyarországgal való sokoldalú kapcsolatai ápolásának és fejlesztésének előmozdítása, magyar nemzeti azonosságtudata megerősítésének céljából,– a Magyar Köztársaságnak az Alkotmány 6. § (3) bekezdésében foglalt, a határon kívül élő magyarokért viselt felelősségének érvényesítésére
+
+a következő törvényt alkotja:
+
+#### 1. Az Alap célja, kedvezményezettjei
+
+1. § (1) A Bethlen Gábor Alap (a továbbiakban: Alap) elkülönített állami pénzalap. Célja a határon túli magyarságnak a szülőföldjén való – egyéni és közösségi – boldogulása, anyagi és szellemi gyarapodása, nyelvének és kultúrájának megőrzése és továbbfejlesztése, az anyaországgal való és egymás közötti sokoldalú kapcsolatának fenntartása és erősítése érdekében támogatások nyújtása.
+
+(2) A támogatás kedvezményezettje lehet az (1) bekezdésben foglalt célok megvalósítása érdekében tevékenykedő:
+
+- a) a Magyar Köztársaság területén lakóhellyel nem rendelkező, magát magyarnak valló természetes személy,
+- b) magyarországi vagy szomszédos államban lévő önkormányzat,
+- c) más állam területén működő szervezet, intézmény, továbbá
+- d) gazdasági tevékenységet üzletszerűen végző jogi személy és jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban: vállalkozás) ezen belül különösen mikro-, kis-, és középvállalkozás, valamint
+- e) az egyház, valamint egyház által fenntartott hitéleti, oktatási, gyermekjóléti, kulturális és szociális intézmény.
+
+(3) Ha nemzetközi szerződés másként nem rendelkezik, a (2) bekezdésben meghatározott természetes személlyel együtt élő házastárs és közös háztartásukban nevelt kiskorú gyermek akkor is lehet kedvezményezett, ha nem vallja magát magyar nemzetiségűnek.
+
+(4) Nem jogosult az Alap támogatására politikai párt, vagy közvetlen politikai tevékenységet folytató szervezet.
+
+2. § (1) E törvény rendelkezéseit a Magyar Köztársaság nemzetközi szerződésben vállalt kötelezettségeivel, illetve a szomszédos államok és a Magyar Köztársaság között fennálló kétoldalú szerződésekkel összhangban, továbbá a nemzetközi jog általánosan elismert elveinek tiszteletben tartásával kell alkalmazni, a szerződések kötelező erejének és jóhiszemű végrehajtásának, az államok közötti baráti kapcsolatoknak, valamint az emberi jogok tiszteletben tartásának elvére, beleértve a hátrányos megkülönböztetés tilalmának elvét is.
+
+(2) E törvényben foglalt támogatások nem érintik a hatályos jogszabályok által a világ bármely más részén élő, magyar állampolgársággal nem rendelkező, magyar nemzetiségű személyeknek jelenleg is biztosított kedvezményeket és támogatásokat, nem érintik továbbá a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény (a továbbiakban: Szátv.) alapján nyújtott támogatásokat.
+
+#### 2. Az Alapból nyújtandó támogatások lehetséges céljai (a teljesíthető kiadások köre)
+
+3. § Az Alapból az 1. § (2) bekezdésében felsorolt alábbi kedvezményezettek a következő célok körébe tartozóan igényelhetnek támogatást:
+
+- a) magánszemély, egyéni vállalkozó
+  - aa) nevelés, oktatás, képzés, továbbképzés (ideértve a Szátv. 14. §-ában foglalt támogatásokat is), továbbá tankönyv- és taneszköz-támogatás, ösztöndíj és közösségi sporttevékenység céljára;
+  - ab) a magyar kultúra és tudomány fejlesztésével, megőrzésével, gyarapításával és megismerhetővé tételével, a hagyományos magyar kultúrtáj védelmével kapcsolatos célokra;
+  - ac) gazdasági típusú, ezen belül kiemelten turisztikai, idegenforgalmi, vendéglátó-ipari, környezetvédelmi, energiahatékonysági célokra;
+- b) közoktatási és felsőoktatási, tudományos kutatást, fejlesztést végző intézmény és háttérintézmény; kulturális, tömegtájékoztatási (nyomtatott és elektronikus sajtó), egyházi, szociális, felzárkózást és szociális integrációt elősegítő és egészségügyi szervezet (ideértve a Szátv. 18. §-ában meghatározott szervezetet is), valamint önkormányzat
+  - ba) alaptevékenységének (alapításának) megfelelő közfeladat ellátására;
+  - bb) az Európai Unióhoz történő csatlakozással kapcsolatos felkészítő, tájékoztató, ismertető, oktatási, képzési, továbbképzési tevékenység ellátására;
+- c) települési önkormányzat, azok társulása, szövetsége
+  - ca) az Európai Unió által is támogatott határmenti program céljára;
+  - cb) magyarországi településsel közös infrastruktúra kialakítása, így különösen utak, hidak építése, kommunális és kommunikációs célú támogatások, természetes adottságok fokozott kihasználása, testvértelepülési – kiemelten kulturális és sport – kapcsolatok kialakítása, erősítése, közös környezetvédelmi programok létrehozása, az Unió külső határszakaszán a kishatárforgalom feltételeinek megteremtése céljára;
+- d) a vállalkozás, ezen belül különösen mikro-, kis- és középvállalkozás
+  - da) a magyar kultúra és tudomány fejlesztésével, megőrzésével, gyarapításával, megismerhetővé tételével kapcsolatos célokra;
+  - db) gazdasági típusú, ezen belül kiemelten turisztikai, idegenforgalmi, vendéglátó-ipari, környezetvédelmi, energiahatékonysági célokra;
+  - dc) tömegtájékoztatási (nyomtatott és elektronikus sajtó) célokra.
+
+#### 3. Az Alap pénzügyi forrásai
+
+4. § (1) Az Alappal – e törvényben foglaltak figyelembevételével – háromtagú bizottság (a továbbiakban: Bizottság) rendelkezik. A Bizottság tagja a nemzetpolitikáért felelős miniszter, a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium közigazgatási államtitkára, valamint a nemzetpolitikáért felelős miniszter irányítása alatt álló helyettes államtitkár.
+
+(2) Az Alap bevételei:
+
+- a) állampolgárságától, illetve lakhelyétől függetlenül bármely természetes személy, valamint honosságától függetlenül bármely jogi személy, jogi személyiség nélküli szervezet önkéntes befizetései, adományai,
+- b) költségvetési támogatások,
+- c) egyéb bevételek.
+
+(3) A jogi személyek, a jogi személyiség nélküli szervezetek és természetes személyek Alap javára történő önkéntes befizetései alapján a társasági adóról és az osztalékadóról szóló törvényben, valamint a személyi jövedelemadóról szóló törvényben a kiemelkedően közhasznú szervezetek részére juttatott adományra vonatkozóan meghatározott kedvezmények vehetők igénybe.
+
+(4) A meghatározott céllal juttatott, vagy feltételhez kötött befizetések, adományok elfogadásáról a Bizottság dönt.
+
+(5) Költségvetési támogatásként
+
+- a) a (2) bekezdés a) pontja szerinti befizetések, adományok előző naptári évi összegével azonos rendszeres támogatás, amely nem lehet kevesebb, mint amennyi az Alap 1 milliárd forint összegre való kiegészítéséhez szükséges,
+- b) eseti céltámogatás illeti meg az Alapot.
+
+(6) Az Alap működtetésének kiadásait az Alap finanszírozza.
+
+#### 4. Az Alap működésének irányítása
+
+5. § (1) Az Alap irányítását ellátó Bizottság tevékenységét a Magyar Állandó Értekezlet (a továbbiakban: MÁÉRT) elvi iránymutatásainak figyelembevételével végzi.
+
+(2) A MÁÉRT mellett működő szakbizottságok az egyes szakterületekre vonatkozóan elvi, szakmai iránymutatást adnak a források elosztására.
+
+6. § (1) A Kollégium az Alap nyilvános pályáztatási feladatainak keretében hatáskörrel rendelkező szakmai döntés-előkészítő testülete. A Kollégium döntés-előkészítő javaslata a Bizottság jóváhagyásával válik érvényessé.
+
+(2) A 9 fős Kollégium tagjait, valamint a tagok közül a Kollégium elnökét a Bizottság nevezi ki.
+
+(3) A Kollégium a tevékenységét a MÁÉRT elvi iránymutatásai és a támogatási célok figyelembevételével, a szakmai szempontok érvényre juttatásával végzi. Munkája során a Kollégium nem utasítható a MÁÉRT, illetve az Alap kezelő szervezete részéről.
+
+(4) A Kollégium tagjainak megbízatása négy évre szól.
+
+(5) Nem lehet a Kollégium tagja
+
+- a) magyarországi, vagy határon túli politikai párt, vagy közvetlen politikai tevékenységet folytató szervezet tisztségviselője;
+- b) a MÁÉRT munkájában részt vevő személy, illetve annak közeli hozzátartozója;
+- c) az Alap kezelő szervezetének vezetője, továbbá az a személy, aki a kezelő szervezetével munkaviszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban áll;
+- d) a Bizottság tagja vagy annak közeli hozzátartozója;
+- e) az Alapból támogatásban részesülő természetes személy, illetve támogatott szervezet képviselője, vagy annak közeli hozzátartozója.
+
+7. § (1) A Kollégium tagjának megbízatása megszűnik
+
+- a) a megbízatás időtartamának lejártával,
+- b) ha az összeférhetetlenségi okot annak felmerülésétől számított 30 napon belül nem szünteti meg,
+- c) ha megbízatását 90 napon túl nem képes ellátni,
+- d) a megbízatásról történő lemondással,
+- e) halálával,
+- f) a Kollégium megszűnésével.
+
+(2) A Kollégium elnökének megbízatása megszűnik
+
+- a) kollégiumi tagságának megszűnésével,
+- b) e megbízatásáról történő lemondásával.
+
+(3) A Kollégium elnöke és tagja megbízatásáról a Bizottsághoz intézett írásbeli nyilatkozattal mondhat le. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges.
+
+8. § A Kollégium tagjait és elnökét tevékenységükért díjazás nem illeti meg, viszont jogosultak az Alap tevékenységével közvetlenül összefüggő, igazolt költségeik megtérítésére.
+
+9. § (1) Az Alapból megítélt támogatások folyósításával, felhasználásának ellenőrzésével és nyilvántartásával összefüggő, illetve az államháztartásról szóló 1992. évi XXXVIII. törvény 54/A. §-a szerinti feladatokat az Alap kezelő szervezeteként a magyar állam tulajdonában lévő Bethlen Gábor Alapkezelő Nonprofit Zrt. látja el. Az Alap kezelő szervezete végzi az önkormányzatok, valamint a civil szervezetek közötti határon átnyúló magyar–magyar kapcsolatok regisztrációját és nyilvántartását. Az Alap kezelő szervezete felett a kormányzati tevékenység összehangolásáért felelős miniszter gyakorolja a tulajdonosi jogokat. Az Alap feladatának teljesítése és céljainak elérése érdekében az Alap kezelő szervezete az e törvényben meghatározott, támogatott kedvezményezettek köréről nyilvántartást készít, és azt – a támogatott kedvezményezettek hozzájárulása alapján – a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény szerint kezeli.
+
+(2) Az Alap kezelő szervezetének vezetője, illetve a szervezettel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy nem lehet
+
+- a) politikai párt, vagy közvetlen politikai tevékenységet folytató szervezet tisztségviselője;
+- b) a MÁÉRT tagja, vagy annak közeli hozzátartozója;
+- c) a Kollégium elnöke, tagja, illetve azok közeli hozzátartozója;
+- d) a Bizottság tagja, vagy annak közeli hozzátartozója;
+- e) az Alapból támogatásban részesülő természetes személy, illetve támogatott szervezet képviselője, vagy annak közeli hozzátartozója.
+
+#### 5. Az Alap működése
+
+10. § (1) A támogatások nyilvános pályázat vagy egyedi kérelem benyújtása keretében nyerhetők el. A Bizottság, figyelembevéve a MÁÉRT által az Alappal kapcsolatban meghozott elvi iránymutatásokat, a Magyar Köztársaság költségvetéséről szóló törvény elfogadását követő két hónapon belül szakmai irányelvek szerint meghatározza a pályázati keretek között nyújtandó összeget. A fennmaradó támogatásrész a Bizottság egységes elvek alapján meghatározott támogatási döntései alapján nyerhető el.
+
+(2) A pályázati felhívásokat a 11. § (2) bekezdése szerinti internetes honlapon és egy országos napilapban közzé kell tenni.
+
+(3) Az Alap terhére támogatás vissza nem térítendő, illetve részben vagy egészben visszatérítendő formában nyújtható, amiről a támogatást megállapító határozatban kell rendelkezni.
+
+(4) A támogatási rendszer egészének koordinálása, szabályszerű működése és nyilvánossága céljából a bevételekről, a támogatás iránt benyújtott pályázatokról és egyedi kérelmekről, a Bizottság Alappal kapcsolatos döntéseiről, a kiadásokról központi nyilvántartást kell vezetni.
+
+(5) A nemzetpolitikáért felelős miniszter szükség szerint, de legalább évente egyszer, április 30-ig tájékoztatja a Kormányt, a Kormány május 31-ig beszámol az Országgyűlésnek az Alap előző évi tevékenységéről és működéséről, valamint e törvény alkalmazásának tapasztalatairól. A beszámolót az Alap honlapján nyilvánosságra kell hozni.
+
+11. § (1) A Kollégium ülései nyilvánosak, de a Kollégium zárt ülés tartását is elhatározhatja. A zárt ülésen hozott döntés-előkészítő javaslatot is nyilvánosságra kell hozni.
+
+(2) Az Alap működésének nyilvánosságát internetes honlap is biztosítja. A honlapon közzé kell tenni a Bizottság és a Kollégium Alappal kapcsolatos döntéseit, azok meghozatalától (elfogadásától) számított 15 napon belül. A honlapon hozzáférhetővé kell tenni továbbá az Alap működésével kapcsolatos legfontosabb jogszabályokat, az Alap és kezelő szervezetének működésére vonatkozó valamennyi rendelkezést, valamint a Bizottság és a Kollégium tagjainak nevét. A döntések nyilvánosságra hozataláról a kezelő szerven keresztül a Kollégium elnöke gondoskodik.
+
+#### 6. Módosuló rendelkezések
+
+12. § (1) A Szátv. 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A törvény hatálya a Horvát Köztársaságban, Romániában, a Szerb Köztársaságban, a Szlovák Köztársaságban, a Szlovén Köztársaságban vagy Ukrajnában (a továbbiakban: szomszédos állam) lakóhellyel rendelkező, magát magyar nemzetiségűnek valló személyre terjed ki.”
+
+(2) A Szátv. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az 1. § (1) és (2) bekezdésének hatálya alá tartozó, óvodai, alap- és középfokú oktatási intézményben tanító pedagógus az oktatásért felelős miniszter által meghatározott éves keretszám terhére jogosult magyarországi rendszeres továbbképzésben részt venni, és a (2) bekezdésben meghatározott kedvezményeket igénybe venni. Ha nemzetközi szerződés másként nem rendelkezik, részt vehet továbbá magyarországi intézmények által a szomszédos államban tartott, akkreditált és elismert rendszeres továbbképzésben, és igénybe veheti a (2) bekezdésben meghatározott támogatásokat.”
+
+(3) A Szátv. 11. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+[Az (1) bekezdésben meghatározott személy a továbbképzést végző magyar oktatási intézménytől a továbbképzésben való részvétele tartamára a külön jogszabályban meghatározott mértékben]
+
+„a) a szállás- és étkezési költségének megtérítését,”
+
+[igényelheti.]
+
+(4) A Szátv. 12. §-a helyébe a következő rendelkezés lép:
+
+„12. § Az 1. § (1) és (2) bekezdésének hatálya alá tartozó, óvodai, alap-, közép- és felsőfokú oktatási intézményben tanító pedagógus és oktató a Magyar Köztársaság területén pedagógus-, illetve oktatói kedvezményre jogosult. A kedvezményekre való jogosultságot az előírt módon érvényesített „Magyar igazolvány” és a „Magyar hozzátartozói igazolvány” igazolja. A kedvezményeket és az azok igénybevételével összefüggő részletes szabályokat külön jogszabály tartalmazza.”
+
+(5) A Szátv. 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A szomszédos államban létrehozott, a magyar oktatás és kultúra ápolását céljának tekintő társadalmi szervezet közreműködésével az 1. § (1) és (2) bekezdésének hatálya alá tartozó, óvodai, alap- és középfokú oktatási intézményben magyar nyelven vagy a magyar kultúra tárgyában tanulmányokat folytató kiskorúak nevelési, oktatási, valamint tankönyv és taneszköz támogatásban, továbbá a felsőoktatásban tanulók hallgatói támogatásban részesülnek.”
+
+(6) A Szátv. 15. §-a helyébe a következő rendelkezés lép:
+
+„15. § Az 1. § (1) és (2) bekezdésének hatálya alá tartozó, a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti harmadik országbeli állampolgárnak a Magyar Köztársaság területén történő munkavállalására a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésére vonatkozó általános szabályokat kell alkalmazni. Nemzetközi szerződés az általános szabályoktól eltérően rendelkezhet.”
+
+(7) A Szátv. 19. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Kérelmére „Magyar igazolvány”-ra jogosult a (2) bekezdés a) pontjában meghatározott személy,
+
+a) aki magyar állampolgár, vagy
+
+b) aki tud magyar nyelven, vagy
+
+c) akit a lakóhelye szerinti állam
+
+ca) magát magyar nemzetiségűnek valló személyként tart nyilván, vagy
+
+cb) területén működő, magyar nemzetiségű személyeket tömörítő szervezet tagként nyilvántart, vagy
+
+cc) területén működő egyház nyilvántartásában magyar nemzetiségűként tartanak számon.”
+
+(8) A Szátv. 19. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+[Nem jogosult „Magyar igazolvány”-ra az a kérelmező]
+
+„a) aki már rendelkezik érvényes „Magyar igazolvány”-nyal, vagy „Magyar hozzátartozói igazolvány”-nyal, kivéve, ha a kérelmet az igazolvány adataiban bekövetkezett változás, az igazolvány elvesztése vagy megsemmisülése miatt terjesztette elő;”
+
+(9) A Szátv. 19. § (6) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+[Nem jogosult „Magyar hozzátartozói igazolvány”-ra az a hozzátartozó]
+
+„a) aki már rendelkezik érvényes „Magyar hozzátartozói igazolvány”-nyal, vagy „Magyar igazolvány”-nyal, kivéve, ha a kérelmet az igazolvány adataiban bekövetkezett változás miatt terjesztette elő;”
+
+(10) A Szátv. 20. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A „Magyar igazolvány”, illetve a „Magyar hozzátartozói igazolvány” iránti kérelemnek tartalmaznia kell
+
+a) a kérelmezőnek az igazolvány kiadására irányuló kérelmét, arcképét és lakcímét;
+
+b) az igazolványban feltüntetésre kerülő személyes adatokat [21. § (3) bekezdés];
+
+c) az eljárásban közreműködő magyar diplomáciai és konzuli képviselet megnevezését; valamint
+
+d) az igazolás kiállításának helyét és idejét.”
+
+(11) A Szátv. 20. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A 19. § (3) bekezdés a) és c) pontjában, továbbá a 19. § (5) bekezdés a) pontjában meghatározott feltételek fennállása okirattal igazolható. Ha a 19. § (3) bekezdésének c) pontjában foglalt feltétel fennállásának okirattal történő igazolása akadályba ütközik, a magyar diplomáciai és konzuli képviselet a feltétel fennállásáról tájékoztatást kérhet a szomszédos államban élő magyar nemzeti közösség által létrehozott társadalmi szervezettől.”
+
+(12) A Szátv. 21. § (1) bekezdése a következő c) ponttal egészül ki:
+
+[Az igazolvány érvényét veszti:]
+
+„c) ha a tulajdonosának birtokából kikerült, illetve használatra alkalmatlanná vált.”
+
+(13) A Szátv. 21. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az elbíráló hatóság az igazolványt visszavonja, ha
+
+a) az igazolvány tulajdonosa valótlan adatokat közölt az igazolás, illetve az igazolvány igénylése során; vagy
+
+b) annak tulajdonosa bevándorolt vagy letelepedett jogállást kapott; vagy
+
+c) annak tulajdonosa Magyarországon lakóhelyet létesített; vagy
+
+d) annak tulajdonosát a menekültügyi hatóság menekültként, menedékesként elismerte; vagy
+
+e) annak tulajdonosát a Magyar Köztársaság területéről kiutasították vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el; vagy
+
+f) az igazolványt jogosulatlanul használták fel vagy meghamisították; vagy
+
+g) a „Magyar hozzátartozói igazolvány”-ra jogosító családi kapcsolat megszűnt vagy attól a személytől, akire tekintettel a „Magyar hozzátartozói igazolvány”-t kérték „Magyar igazolvány”-át visszavonják; vagy
+
+h) az igazolvány tulajdonosa ezt maga kéri.”
+
+(14) A Szátv. 21. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+[Az igazolvány tartalmazza a jogosult]
+
+„a) családi és utónevét (nőknél a születési családi és utónevet is), a lakóhelye szerinti szomszédos államban hivatalosan (latin betűs írásmóddal) használt módon, magyar nemzetiségű személy esetén magyarul is;”
+
+(15) A Szátv. 21. §-a a következő (7a) bekezdéssel egészül ki:
+
+„(7a) Az idegenrendészeti hatóság a kiutasításról szóló jogerős határozata közlésével, illetve a beutazási és tartózkodási tilalom elrendelésével, a menekültügyi hatóság a menekültkénti, menedékeskénti elismerésről szóló jogerős határozata közlésével, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a magyarországi bejelentett lakóhely címét tartalmazó, a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásával egyidejűleg – ha az idegenrendészeti hatóság, a menekültügyi hatóság vagy a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a (6) bekezdés szerinti adatigénylés során megállapítja, hogy az eljárásával érintett személy szerepel a (6) bekezdés szerinti nyilvántartásban – az igazolvány visszavonása érdekében haladéktalanul értesíti az elbíráló hatóságot.”
+
+(16) A Szátv. 27. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Nemzetközi szerződés alapján a 10. és 14. § rendelkezéseit alkalmazni kell arra a személyre is, aki a szomszédos állam óvodai, alap- vagy középfokú oktatási intézményében tanulói jogviszonyban áll és magyar nyelven tanul, továbbá arra a hallgatóra is, aki a szomszédos állam felsőoktatási intézményében magyar nyelven vagy a magyar kultúra tárgyában tanulmányokat folytat.”
+
+(17) A Szátv. 27. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Nemzetközi szerződés alapján a 11. és 12. § rendelkezéseit alkalmazni kell a szomszédos állam óvodai, alap-, közép- vagy felsőfokú oktatási intézményében magyar nyelven vagy a magyar kultúra tárgyában oktató pedagógusra vagy oktatóra is.”
+
+13. § (1) A Szátv. 21. § (6) bekezdésében az „illetőleg az idegenrendészeti hatóság részére” szövegrész helyébe az „az idegenrendészeti hatóság, a menekültügyi hatóság, illetve a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv részére” szöveg lép.
+
+(2) Hatályát veszti a Szátv.
+
+- a) 21. § (7) bekezdés a) pontjában az „arról, hogy a kérelmező kiutasításra irányuló eljárás alatt áll-e, továbbá” szövegrész,
+- b) 21. § (7) bekezdés c) pontjában a „megszerzése” szövegrész.
+
+14. § A szakképzési hozzájárulásról és képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény 9. § (7) bekezdése „Szülőföld Alapba” szövegrész helyébe „Bethlen Gábor Alapba” szöveg lép.
+
+#### 7. Záró és átmeneti rendelkezések
+
+15. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – 2011. január 1-jén lép hatályba.
+
+(2) A 16. § (2) bekezdése 2011. január 2-án lép hatályba.
+
+16. § (1) Hatályát veszti a Szülőföld Alapról szóló 2005. évi II. törvény.
+
+(2) Hatályát veszti a 6. alcím.
+
+(3) Ez a §, valamint a 15. § (1) bekezdésében az „– a (2) bekezdésben meghatározott kivétellel –” szövegrész és a 15. § (2) bekezdése 2011. január 3-án hatályát veszti.
+
+17. § A Bethlen Gábor Alap a Szülőföld Alap általános jogutódja.
+
+18. § (1) Felhatalmazást kap a Kormány arra, hogy
+
+- a) az Alap működésének, forrásai kezelésének és felhasználásának részletes szabályait, a nyújtható támogatások rendező elveit, valamint a támogatási szerződés kötelező tartalmi elemeit, a vezetendő nyilvántartások tartalmát,
+- b) az e törvény szerinti vállalkozások fejlesztési és más támogatásának céljait, feltételeit,
+- c) az e törvény alapján nyújtott, az Európai Unió működéséről szóló szerződés 107. cikke szerint állami támogatásnak minősülő támogatások uniós joggal való összeegyeztethetőségét biztosító szabályokat,
+- d) az Alappal való rendelkezésre, a Kollégium feladataira és működésére, az Alap kezelő szervezetének működésére és felügyeletére, valamint az Alapból nyújtott támogatások nyilvántartására vonatkozó részletes szabályokat,
+- e) az Alapból az Alap működésére fordítható kiadások mértékét rendeletben határozza meg.
+
+(2) Felhatalmazást kap a nemzetpolitikáért felelős miniszter, hogy a költségvetési törvény Közigazgatási és Igazságügyi Minisztérium fejezetében lévő, a határon túli magyarok programjainak támogatására meghatározott fejezeti kezelésű előirányzatokat az Alap javára átcsoportosítsa.
+
+19. § E törvény alkalmazásában közeli hozzátartozó a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § b) pontjában meghatározott személy.

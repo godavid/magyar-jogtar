@@ -226,7 +226,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 24. § A katasztrófák elleni védekezésért felelős miniszter
 
-- a) előkészíti a tűzvédelemre, a műszaki mentésre és a tűzoltóságra vonatkozó magasabb szintű jogszabályok, az állami irányítás egyéb jogi eszközei, valamint a nemzetközi szerződések tervezeteit, illetőleg a hatáskörébe tartozó rendeletalkotás és az állami irányítás egyéb jogi eszközei útján, az érdekelt miniszterekkel egyetértésben szabályozza a tűzvédelmet és a műszaki mentést, valamint a tűzoltóság tevékenységét;
+- a) előkészíti a tűzvédelemre, a műszaki mentésre és a tűzoltóságra vonatkozó magasabb szintű jogszabályok, közjogi szervezetszabályozó eszközök, valamint a nemzetközi szerződések tervezeteit, illetőleg a hatáskörébe tartozó rendeletalkotás és normatív utasítás kiadása útján, az érdekelt miniszterekkel egyetértésben szabályozza a tűzvédelmet és a műszaki mentést, valamint a tűzoltóság tevékenységét;
 - b) egyetértési jogot gyakorol a más miniszter által tervezett – a tűzvédelmet, a műszaki mentést és a tűzoltóságot érintő – szabályozásokkal kapcsolatban;
 - c) kezdeményezi a központi katasztrófavédelmi szerv vezetőjének javaslatára a települési önkormányzat képviselő-testületénél a hivatásos önkormányzati tűzoltóság létrehozását és megszüntetését, és gyakorolja az ezekkel összefüggő egyetértési jogot;
 - d) meghatározza a tűzoltási, műszaki mentési és az ezekhez kapcsolódó tűzvédelmi technika tervezése, fejlesztése, rendszeresítése, ellenőrzése, felülvizsgálata és javítása követelményeit;
@@ -303,7 +303,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 33. § A tűzoltó egyesület a településen a tűzmegelőzési, valamint a tűzoltási és műszaki mentési feladatok ellátásában közreműködő társadalmi szervezet. A tűzoltó egyesület tevékenységét és működését, valamint a tűzoltó egyesületeknek a hivatásos önkormányzati, illetve önkéntes tűzoltósággal megállapodás keretében való együttműködését a tűzoltó egyesületekről szóló törvény állapítja meg.
 
-34. § (1) Az önkéntes tűzoltóság a települési önkormányzat vagy az önkormányzati társulás és a tűzoltó egyesület által közösen alapított köztestület (Ptk. 65. §), amely tűzoltási és műszaki mentési célokra folyamatosan igénybe vehető készenléti szolgálatot lát el, és önálló működési területtel rendelkezik. A működési terület megállapítását a székhely szerinti települési önkormányzat képviselő-testülete kezdeményezi a katasztrófák elleni védekezésért felelős miniszternél.
+34. § (1) Az önkéntes tűzoltóság a települési önkormányzat vagy az önkormányzati társulás és a tűzoltó egyesület által közösen alapított köztestület, amely kérheti közhasznúsági nyilvántartásba vételét. Az önkéntes tűzoltóság tűzoltási és műszaki mentési célokra folyamatosan igénybe vehető készenléti szolgálatot lát el, és önálló működési területtel rendelkezik. A működési terület megállapítását a székhely szerinti települési önkormányzat képviselő-testülete kezdeményezi a katasztrófák elleni védekezésért felelős miniszternél.
 
 (2) Az önkéntes tűzoltóság parancsnokát a területi katasztrófavédelmi szerv vezetője véleményének kikérése mellett a köztestület nevezi ki.
 
@@ -356,7 +356,7 @@ alól.
 
 (3) A központi költségvetésből történő hozzájárulás mértékét legalább a hivatásos önkormányzati tűzoltóság előírt legkisebb létszámának és gépjárműállományának figyelembevételével kell megállapítani.
 
-(4) A hivatásos és az önkéntes tűzoltóság fenntartásával és működésével kapcsolatos rendkívüli kiadások fedezetére a katasztrófák elleni védekezésért felelős miniszter által felügyelt fejezet költségvetésében elkülönített tartalékalapot kell biztosítani. Ebből kell gondoskodni a működési területen kívüli vonulások költségeiről, illetőleg a szolgálati feladatok ellátása során súlyos munkabalesetet szenvedett tűzoltók kártérítéséről.
+(4) A hivatásos és az önkéntes tűzoltóság fenntartásával és működésével kapcsolatos rendkívüli kiadások fedezetére a katasztrófák elleni védekezésért felelős miniszter által felügyelt fejezet költségvetésében elkülönített tartalékalapot kell biztosítani. Ebből kell gondoskodni a működési területen kívüli vonulások költségeiről. A szolgálati feladatok ellátása során súlyos munkabalesetet szenvedett tűzoltók kártérítésére szolgáló fedezetet a munkáltató köteles biztosítani.
 
 (5) A tűzoltóság fenntartója a tűzoltóság készenléti szolgálatot, illetve a tűzoltás irányítását ellátó tagjai részére szolgálati tevékenységükre vonatkozóan köteles élet- és baleset-biztosítást kötni.
 
@@ -471,7 +471,7 @@ alól.
 (6) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy
 
 - a) a tűzoltóságok és a Magyar Honvédség tűzvédelmi szerveinek együttműködési rendjét a honvédelemért felelős miniszterrel,
-- b) a Ferihegyi Repülőtéri Tűzoltóság működésére, fenntartására és fejlesztésére vonatkozó szabályokat a közlekedéspolitikáért felelős miniszterrel,
+- b) a Ferihegyi Repülőtéri Tűzoltóság működésére, fenntartására és fejlesztésére vonatkozó szabályokat a közlekedésért felelős miniszterrel,
 - c) az erdők tűzvédelmére vonatkozó szabályokat az erdőgazdálkodásért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
 48. § (1) Ez a törvény a kihirdetését követő 90. napon lép hatályba. A törvény 44. §-ának rendelkezését 1997. január 1-jétől kell alkalmazni.

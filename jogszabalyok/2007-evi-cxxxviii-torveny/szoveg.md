@@ -55,7 +55,7 @@ befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás 
 - 2. ÁÉKBV: a Tanács 85/611/EGK irányelve alapján létrehozott, átruházható értékpapírokba kollektív alapon befektető forma,
 - 3. árjegyző: az a saját számlás kereskedést folytató befektetési vállalkozás, amely egy pénzügyi eszközre folyamatos vételi és eladási kötelezettséget vállal az általa meghatározott árakon,
 - 4. áru: minden vagyoni értékkel bíró, forgalomképes, birtokba vehető dolog, illetve dolog módjára hasznosítható természeti erő, ide nem értve a pénzügyi eszközt,
-- 5. átruházható értékpapír: az az értékpapír, amelyet a forgalomba hozatala helye szerinti állam joga ilyenként ismer el,
+- 5. átruházható értékpapír: a tőkepiacon forgalomképes értékpapír a fizetőeszköz kivételével,
 - 6. azonosító adatok:
   - a) természetes személy azonosító adatai: természetes személyazonosító adatok, állampolgárság, lakcím, személyazonosság igazolására alkalmas hatósági igazolvány típusa és száma;
   - b) jogi személy, jogi személyiséggel nem rendelkező jogalany azonosító adatai: név, rövidített név, székhely, külföldi székhelyű vállalkozás esetén magyarországi fióktelepének címe, cégjegyzékszám, a létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat száma, nyilvántartási száma, képviseletre jogosultak neve és beosztása;
@@ -152,7 +152,13 @@ befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás 
 - 75. kapcsolt vállalkozás: a Tpt.-ben meghatározott fogalom,
 - 76. közeli hozzátartozó: a Ptk.-ban meghatározott fogalom és az élettárs,
 - 77. likviditás szempontjából leginkább érintett piac: a Bizottság 1287/2006/EK rendeletének 9. cikkében meghatározott fogalom,
-- 78. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat.
+- 78. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat,
+- 79. multilaterális kereskedési rendszer: harmadik felek pénzügyi eszközökre irányuló, vételi és eladási szándékát szerződést eredményező, megkülönböztetésmentes módon összehozó kereskedési rendszer,
+- 80. értékpapír: a Tpt.-ben meghatározott fogalom,
+- 81. konszolidáló felügyeleti hatóság: a Tpt.-ben meghatározott fogalom,
+- 82. javadalmazás: a befektetési vállalkozás által a vezető állású személy, munkavállaló részére minden, a munkaviszony alapján közvetlenül vagy közvetve, pénzbeli, természetbeni, vagyoni jog vagy egyéb formában nyújtott juttatás,
+- 83. teljesítményjavadalmazás: a befektetési vállalkozás és a vezető állású személy, munkavállaló közötti szerződésben meghatározott, a befektetési vállalkozás, az érintett szervezeti egység, és az érintett személy teljesítményére, valamint a befektetési vállalkozás pénzügyi helyzetére vonatkozó mutatók és feltételek megvalósulása esetén fizetendő juttatás.
+- 84. nem kötelező nyugdíjjuttatás: a befektetési vállalkozás által a vezető állású személynek, munkavállalónak nem kötelező alapon nyújtott, emelt nyugdíjjuttatás a munkavállaló teljesítményjavadalmazásának részeként, amely nem foglalja magában a munkavállalónak a vállalati nyugdíjrendszerének feltételei alapján nyújtott felhalmozott juttatásokat.
 
 ## MÁSODIK RÉSZ — A BEFEKTETÉSI VÁLLALKOZÁSÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ MŰKÖDÉSÉNEK MEGKEZDÉSE
 
@@ -218,7 +224,8 @@ befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás 
 - d) a Hpt. 3. § (1) bekezdésének h) pontja szerinti pénzügyi szolgáltatás közvetítése tevékenységet,
 - e) a Bit. szerinti biztosításközvetítést ügynökként,
 - f) értékpapír-kölcsönzést, és
-- g) pénzügyi eszközre vonatkozó adat, információ értékesítést
+- g) pénzügyi eszközre vonatkozó adat, információ értékesítést,
+- h) a Hpt. 2. számú melléklet I. Fejezet 10.2. pont e) alpontjában meghatározott csoportfinanszírozási tevékenységet
 
 folytathat.
 
@@ -363,7 +370,9 @@ induló tőkével kell rendelkeznie.
 - b) biztosítsa, hogy az egyes szervezeti egységek vezetői ne legyenek alá- vagy fölérendeltségi, illetve utasítási viszonyban egymással, csökkentve ezzel a visszaéléshez vezető személyi érdek-összefonódás lehetőségét,
 - c) az információhoz való hozzáférést csak a jogosultak számára tegye lehetővé, csökkentve ezzel a belső, üzletvitel során keletkező információval való visszaélés lehetőségét,
 - d) átlátható legyen,
-- e) erősítse a folyamatba épített ellenőrzést és lehetővé tegye ennek során az objektív megítélést.
+- e) erősítse a folyamatba épített ellenőrzést és lehetővé tegye ennek során az objektív megítélést,
+- f) biztosítsa, hogy a vállalkozás vezető állású személyei és alkalmazottai a felelősségi körük megfelelő ellátása érdekében a követendő eljárásokat ismerjék,
+- g) biztosítsa a vállalkozás különböző szintjei közötti hatékony jelentéstételt és információáramlást.
 
 (2) Annak a befektetési vállalkozásnak amely a Tpt. szerint összevont felügyelet alá tartozik, az e §-ban és a 100. §-ban foglaltaknak az ellenőrző befolyása alatt álló hitelintézettel és befektetési vállalkozással együttesen is meg kell felelnie.
 
@@ -1024,7 +1033,7 @@ kapcsolatos ismereteiről és tapasztalatairól, annak megítélése érdekében
 
 (3) Nem kell az (1) bekezdésben foglaltakat alkalmazni, ha a befektetési vállalkozás a leendő szerződő féllel vagy az ügyféllel az 5. § (1) bekezdésének a) vagy b) pontjában foglaltakra köt megállapodást és
 
-- a) az ügylet szabályozott piacra vagy azzal azonos feltételeknek megfelelő harmadik országbeli tőzsdére bevezetett részvényre, pénzpiaci eszközre, hitelviszonyt megtestesítő értékpapírra vagy más értékpapírosított követelésre (ide nem értve azokat az eszközöket, amelyek származtatott elemeket tartalmaznak), valamint az ÁÉKBV által kibocsátott értékpapírra vagy más nem-komplex pénzügyi eszközre vonatkozóan jön létre,
+- a) az ügylet tárgya olyan részvény, amelyet szabályozott piacra vagy azzal azonos feltételeknek megfelelő harmadik országbeli tőzsdére bevezettek, továbbá pénzpiaci eszköz, hitelviszonyt megtestesítő értékpapír vagy más értékpapírosított követelés (ide nem értve azokat az eszközöket, amelyek származtatott elemeket tartalmaznak), valamint az ÁÉKBV által kibocsátott értékpapír vagy más nem komplex pénzügyi eszköz,
 - b) az ügyletre vonatkozó megállapodást az ügyfél vagy leendő szerződő fél kezdeményezi,
 - c) a befektetési vállalkozás egyidejűleg a leendő szerződő fél tudomására hozza, hogy ebben az esetben nem vizsgálja a szerződésben szereplő pénzügyi eszköz befektetési célok megvalósítására való alkalmasságát, azaz nem alkalmazza az (1) bekezdésében foglaltakat, így ennek következményei az ügyfél számára nem érvényesülnek,
 - d) a befektetési vállalkozás megfelel a 110. §-ban foglaltaknak.
@@ -1236,7 +1245,7 @@ amely a befektetési vállalkozás és az ügyfél között létrejövő szerző
 
 annak érdekében, hogy az esetleges veszteségek viselése pontosan meghatározható legyen.
 
-59. § (1) A befektetési vállalkozás az ügyfél pénzügyi eszközének letéti őrzésére – figyelemmel a (2) bekezdésben foglaltakra – harmadik személlyel megállapodást köthet.
+59. § (1) A befektetési vállalkozás az ügyfél pénzügyi eszközének letéti őrzésére – figyelemmel a (2) bekezdésben foglaltakra – a tőle elvárható gondossággal kiválasztott harmadik személlyel megállapodást köthet. A befektetési vállalkozás a kiválasztott személyt, valamint a pénzügyi eszközök letéti őrzésére általa alkalmazott megoldásokat a tőle elvárható gondossággal rendszeresen, de legalább évente felülvizsgálja.
 
 (2) A befektetési vállalkozás azzal köthet megállapodást az ügyfél pénzügyi eszközének letéti őrzésére, aki
 
@@ -1542,7 +1551,7 @@ elkészíti és írásban vagy más tartós adathordozón az ügyfél rendelkez�
 
 (6) A rendszeres internalizáló a (2) bekezdés szerinti vételi és eladási árfolyamokat az érvényes piaci helyzetnek megfelelően alakítja ki, valamint
 
-- a) olyan formában teszi közzé, hogy az a piaci szereplők számára a lehető legkönnyebben hozzáférhető legyen,
+- a) olyan formában teszi közzé, hogy az a piaci szereplők számára a lehető legkönnyebben hozzáférhető legyen, és az információért kért ár mértéke se akadályozza meg a hozzáférést (ésszerű üzleti alapon való közzététel követelménye),
 - b) folyamatosan aktualizálja, és
 - c) ha a kivételes piaci feltételek ezt indokolják, vissza is vonhatja.
 
@@ -1896,7 +1905,8 @@ felelős azzal, hogy egyúttal biztosítja a működéshez és a tevékenység v
 - a) az általa vállalt vagy a nála keletkező kockázatok megfelelő mérését,
 - b) az általa vállalt vagy a nála keletkező kockázatok behatárolását szolgáló megfelelő limitrendszerek létrehozását és tényleges működtetését,
 - c) a vállalt kockázatokra vonatkozó megfelelő, rendszeres és rendkívüli jelentési rendszer kiépítését, és
-- d) a személyi és tárgyi feltételeknek megfelelő, a biztonságos működésnek és a jogszabályoknak való megfelelést biztosító kockázatvállalást.
+- d) a személyi és tárgyi feltételeknek megfelelő, a biztonságos működésnek és a jogszabályoknak való megfelelést biztosító kockázatvállalást,
+- e) a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 4. mellékletben meghatározott elveknek megfelelő javadalmazási politika és gyakorlat megvalósítását.
 
 (2) A befektetési vállalkozás a befektetési szolgáltatási tevékenysége keretében az ügyféllel és ügyfélcsoporttal szemben vállalt kockázatait folyamatosan értékeli, figyelemmel a (3)–(4) bekezdésben foglaltakra.
 
@@ -1929,19 +1939,11 @@ felelős azzal, hogy egyúttal biztosítja a működéshez és a tevékenység v
 
 101. § (1) A befektetési vállalkozás a 100. § (3) bekezdés b) pontjában foglaltak szerint a kockázatvállalás mértékét úgy határozza meg, hogy az egy ügyféllel vagy ügyfélcsoporttal szemben vállalt kockázatok összértékét, az ügyfélhez, illetőleg az ügyfélcsoporthoz kapcsolódó pozíció és kockázatvállalás kockázatait összeadja.
 
-(2) A befektetési vállalkozás által egy ügyféllel vagy ügyfélcsoporttal szemben vállalt kockázatok összértéke – a (3) és (5) bekezdésben foglalt kivétellel – nem haladhatja meg a befektetési vállalkozás 105. § (1) bekezdése szerinti szavatoló tőkéjének huszonöt százalékát.
+(2) Nagykockázat vállalásnak minősül a befektetési vállalkozás egy ügyféllel vagy ügyfélcsoporttal szembeni, a befektetési vállalkozás szavatoló tőkéjének tíz százalékát meghaladó – az e törvény felhatalmazása alapján kiadott külön jogszabály szerint meghatározott – összértékű kockázatvállalásainak együttes összege.
 
-(3) Ha az ügyfél vagy az ügyfélcsoport bármely tagja a befektetési vállalkozás kapcsolt vállalkozása, a befektetési vállalkozás által vállalható kockázatok összértéke – az (5) bekezdésben foglalt kivétellel – nem haladhatja meg a befektetési vállalkozás 105. § (1) bekezdése szerinti szavatoló tőkéjének húsz százalékát.
+(3) A befektetési vállalkozás a kockázatvállalás mértékére vonatkozó (2) bekezdésben meghatározott korlátot átlépheti, ha ez az átlépés a 103. § szerinti kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások eredménye.
 
-(4) A befektetési vállalkozás egy ügyféllel vagy ügyfélcsoporttal szembeni, a befektetési vállalkozás szavatoló tőkéjének tíz százalékát meghaladó összértékű kockázatvállalásainak (a továbbiakban: nagykockázat-vállalás) együttes összege – az (5) bekezdésben foglalt kivétellel – nem haladhatja meg a szavatoló tőkéjének nyolcszorosát.
-
-(5) A befektetési vállalkozás a (2)–(4) bekezdésben foglalt, kockázatvállalás mértékére vonatkozó korlátot átlépheti, ha ez az átlépés a 103. § szerinti kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások eredménye.
-
-(6) A nagykockázat vállalása során a befektetési vállalkozás által vállalt kezességet és garanciát, továbbá a befektetési vállalkozás bármilyen jövőbeni vagy függő kötelezettségét – a határidős ügyletek kivételével – ötvenszázalékos értéken, a határidős ügyleteket a külön jogszabályban foglaltak szerint meghatározott ügyletkockázati súlyokkal korrigálva kell figyelembe venni.
-
-(7) Ha a befektetési szolgáltatási tevékenységet e törvény rendelkezései alapján hitelintézet végzi, az egy ügyféllel vagy ügyfélcsoporttal szemben vállalt kockázatok összértékének meghatározása során a kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások alapján számított kockázatokat és a Hpt. alapján számított kockázatokat összevontan veszi figyelembe.
-
-(8) Nem kell a (2)–(4) bekezdésben foglaltakat alkalmazni az e törvény felhatalmazása alapján kiadott külön jogszabályban foglalt esetben.
+(4) Ha a befektetési szolgáltatási tevékenységet e törvény rendelkezései alapján hitelintézet végzi, az egy ügyféllel vagy ügyfélcsoporttal szemben vállalt kockázatok összértékének meghatározása során a kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások alapján számított kockázatokat és a Hpt. alapján számított kockázatokat összevontan veszi figyelembe.
 
 102. § (1) Az EU-szintű befektetési vállalkozás anyavállalat és annak leányvállalatai vagy egy EU-szintű pénzügyi holding társaság anyavállalat leányvállalatai
 
@@ -2019,6 +2021,20 @@ együttesen is alkalmazhatják.
 (6) Ha a szavatoló tőke összege az (1) bekezdés b) pontjában és az (5) bekezdésben foglalt tőkekövetelmény összegének százhúsz százalékánál kevesebb, a befektetési vállalkozás a 2. melléklet 23. pontjában foglalt kiegészítő alárendelt kölcsöntőkével kapcsolatos mindennemű kifizetésről értesíti a Felügyeletet.
 
 (7) Ha a befektetési vállalkozás működésében az előző üzleti évhez képest nagymértékű változás következik be, a Felügyelet előírhatja, hogy a befektetési vállalkozás az (1) bekezdése alapján megállapított szavatoló tőke összegét vizsgálja felül.
+
+105/A. § (1) Az alapvető kölcsöntőke, alárendelt kölcsöntőke felmondásához, törlesztéséhez, visszaváltásához és visszavásárlásához szükséges engedély megszerzése iránti kérelemben a befektetési vállalkozásnak
+
+- a) meg kell határoznia a felmondás vagy visszaváltás okát,
+- b) be kell mutatnia az aktuális, valamint a felmondást vagy visszaváltást 5 év üzleti terve alapján a tőkekövetelményeknek való megfelelését,
+- c) be kell mutatnia azt, hogy ez a lépés mennyire van összhangban az elkövetkező 5 év üzleti tervével, illetve stressztesztekkel igazolnia kell, hogy a felmondást vagy visszaváltást követően is képes megfelelni a jövőbeni lehetséges kockázatokból származó tőkekövetelményeknek.
+
+(2) A Felügyelet a felmondáshoz, illetve a visszavásárláshoz az engedélyt abban az esetben adja meg, ha meggyőződött arról, hogy az nem veszélyezteti a befektetési vállalkozás jövőbeni tőkekövetelményeknek való megfelelését.
+
+(3) Ha a Felügyelet az alapvető kölcsöntőke, alárendelt kölcsöntőke felmondásához, törlesztéséhez, visszaváltásához és visszavásárlásához az engedélyt árjegyzői funkció betöltéséhez adja meg, a befektetési vállalkozás által visszaváltott, visszavásárolt kölcsöntőke nem haladhatja meg az adott kibocsátási sorozat 10%-át és a teljes kölcsöntőke kibocsátásának 3%-át.
+
+(4) A befektetési vállalkozás 15 nappal korábban köteles bejelenteni a Felügyelet részére, amennyiben szavatoló tőkéjének 1%-át meghaladó mértékben kíván saját részvényt visszavásárolni, illetve ha az újabb visszavásárlással a visszavásárolt saját részvények szavatoló tőkéhez viszonyított aránya meghaladja az 5%-ot.
+
+(5) A Felügyelet megtiltja a befektetési vállalkozás számára a saját részvény visszavásárlását, amennyiben az veszélyezteti a 105. § (1)–(2) és (5) bekezdésben foglalt tőkekövetelmények betartását ide nem értve a szabályozott piacra bevezetett részvénynek a Tpt. VI/A. Fejezet szerinti kivezetését.
 
 106. § (1) A befektetési vállalkozás megbízható, hatékony és átfogó stratégiával és eljárással rendelkezik ahhoz, hogy az általa végzett befektetési szolgáltatási tevékenysége és kiegészítő szolgáltatása kapcsán, valamint a működése során vállalt, illetőleg felmerülő kockázatai fedezetéhez szükséges tőke mértékét és összegét – összhangban a 105. §-ban foglaltakkal – meghatározza és folyamatosan fenntartsa.
 
@@ -2174,7 +2190,7 @@ teszi közzé.
 
 (3) Több befektetési vállalkozással vagy árutőzsdei szolgáltatóval befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, illetőleg árutőzsdei szolgáltatás közvetítésére irányuló szerződés alapján ilyen tevékenységet csak befektetési vállalkozás végezhet.
 
-(4) A függő ügynök a befektetési szolgáltatási tevékenység, a kiegészítő szolgáltatás, illetőleg az árutőzsdei szolgáltatás közvetítésére irányuló tevékenységéhez további közvetítőt nem vehet igénybe.
+(4) A függő ügynök a befektetési szolgáltatási tevékenység, a kiegészítő szolgáltatás, illetőleg az árutőzsdei szolgáltatás közvetítésére irányuló tevékenységéhez további közvetítőt vehet igénybe, azzal, hogy a függő ügynök által igénybe vett közvetítő további közvetítőt nem vehet igénybe. A befektetési vállalkozás és az árutőzsdei szolgáltató teljes felelősséggel tartozik a függő ügynök és az általa igénybe vett közvetítő által az e törvényben foglaltak betartásáért, továbbá a befektetési szolgáltatási tevékenység, a kiegészítő szolgáltatás, az árutőzsdei szolgáltatás közvetítésére irányuló tevékenység során okozott kárért.
 
 (5) A függő ügynök a befektetési szolgáltatási tevékenység, a kiegészítő szolgáltatás, illetőleg az árutőzsdei szolgáltatás közvetítésére irányuló tevékenységéhez olyan közreműködőt vehet igénybe, amelynek tevékenysége önmagában nem minősül a befektetési szolgáltatási tevékenység, a kiegészítő szolgáltatás, illetőleg az árutőzsdei szolgáltatás közvetítésére irányuló tevékenységnek.
 
@@ -2315,7 +2331,10 @@ részére,
 - j) a jogsértés elkövetőjével szemben a bennfentes kereskedelem, illetve piacbefolyásolás tárgyában meghozott felügyeleti határozat indoklási részének közzététele,
 - k) a Tpt. 205. §-ban meghatározott bejelentési kötelezettség teljesítése,
 - l) a Pmtv. 22. §-ának (2) bekezdése alapján történő adatátadás, és
-- m) a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i, 1781/2006/EK európai parlamenti és tanácsi rendelet 4. cikkében meghatározott adatoknak a rendelet hatálya alá tartozó kedvezményezett fizetési szolgáltatója és közvetítő fizetési szolgáltató számára a rendelet által meghatározott esetekben történő továbbítása.
+- m) a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i, 1781/2006/EK európai parlamenti és tanácsi rendelet 4. cikkében meghatározott adatoknak a rendelet hatálya alá tartozó kedvezményezett fizetési szolgáltatója és közvetítő fizetési szolgáltató számára a rendelet által meghatározott esetekben történő továbbítása,
+- n) a Felügyelet által a Tpt. 181/J. § (15) bekezdés szerinti válsághelyzetben a más EGT-állam központi bankjának vagy az Európai Központi Banknak történő adattovábbítás, amennyiben az adatok törvény által előírt feladatuk teljesítéséhez szükségesek,
+- o) a tulajdonosi megfeleltetés érdekében a központi értéktár részére nyújtott adatszolgáltatás,
+- p) a tulajdonosi megfeleltetés érdekében a központi értéktár részéről a kibocsátó részére nyújtott adatszolgáltatás.
 
 ### A panaszkezelés
 
@@ -2354,6 +2373,10 @@ részére,
 - e) a panasz megválaszolásának időpontját.
 
 (13) A szolgáltató a panaszkezelési szabályzatot az ügyfelek számára nyitva álló helyiségében, ennek hiányában a székhelyén kifüggeszti és a honlapján közzéteszi.
+
+(14) A szolgáltató a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
+
+(15) A szolgáltató köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenteni.
 
 ### A reklámtevékenységre vonatkozó különös szabályok
 
@@ -2416,7 +2439,7 @@ kell eleget tenni.
 
 124. § (1) A részvénytársasági formában működő befektetési vállalkozás és árutőzsdei szolgáltató, illetőleg a korlátolt felelősségű társasági formában működő árutőzsdei szolgáltató végelszámolására és felszámolására a Ctv., a Cstv. és a Gt., a szövetkezeti formában működő árutőzsdei szolgáltató végelszámolására és felszámolására a Ctv., a Cstv. és a Sztv., a fióktelep formájában működő befektetési vállalkozás és árutőzsdei szolgáltató végelszámolására és felszámolására a Ctv., a Cstv. és az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) A befektetési vállalkozás végelszámolójának vagy felszámolójának kizárólag a Hpt. 176/A. § (2) bekezdése szerinti közhasznú társaság jelölhető ki.
+(2) A befektetési vállalkozás végelszámolójának vagy felszámolójának kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki.
 
 ### Csődeljárás
 
@@ -2635,7 +2658,7 @@ nyilatkozatát az átadó befektetési vállalkozásnak, illetőleg árutőzsdei
 
 152. § (1) A multilaterális kereskedési rendszer működtetője a kereskedést megelőzően a Bizottság 1287/2006/EK rendelete szerint – figyelemmel a (2) bekezdésben foglaltakra – közzéteszi a szabályozott piacra bevezetett részvények tekintetében
 
-- a) az érvényes vételi és eladási árfolyamot,
+- a) az érvényes vételi és eladási árfolyamot olyan módon, hogy az információért kért ár mértéke ne akadályozza meg az árfolyamhoz való hozzáférést (ésszerű üzleti alapon való közzététel követelménye),
 - b) az egyes árfolyamokon keresett és kínált mennyiségeket.
 
 (2) A multilaterális kereskedési rendszer működtetője az (1) bekezdésben meghatározott információkat közérthető és értékelhető formában, a kereskedési rendszer nyitvatartási ideje alatt folyamatosan elérhetővé teszi a nyilvánosság számára.
@@ -2658,7 +2681,7 @@ feltárására.
 
 154. § (1) A multilaterális kereskedési rendszer működtetője a kereskedést követően, a szabályozott piacra bevezetett részvények esetében közzéteszi
 
-- a) a végrehajtott ügyletek során kialakult vételi és eladási árfolyamokat,
+- a) a végrehajtott ügyletek során kialakult vételi és eladási árfolyamokat olyan módon, hogy az információért kért ár mértéke ne akadályozza meg az árfolyamhoz való hozzáférést (ésszerű üzleti alapon való közzététel követelménye),
 - b) az egyes árfolyamokon realizálódott ügyletek nagyságrendjét, és
 - c) az egyes végrehajtott ügyletek időpontját.
 
@@ -2801,11 +2824,13 @@ kezelheti.
 - b) a 100. § (2) bekezdése szerinti koncentrációs kockázat kezelésére,
 - c) az elismert hitelezésikockázat-mérséklési módszerek használatával kapcsolatos kockázat kezelésére szolgáló eljárások és szabályzatok megbízhatóságára, megfelelőségére és alkalmazási módjára,
 - d) arra, hogy a befektetési vállalkozás által értékpapírosított eszközökre vonatkozó szavatoló tőke mértéke megfelel-e az ügylet gazdasági tartalma által indokolt mértéknek, beleértve az átadott kockázat mértékét is,
-- e) a befektetési vállalkozás likviditási kockázatainak mértékére és kezelésére,
+- e) a befektetési vállalkozás likviditási kockázatokkal szembeni kitettségének mértékére, e kockázatoknak a befektetési vállalkozás általi mérésére és kezelésére, ideértve az alternatív forgatókönyvek elemzését, a kockázatcsökkentő eszközök kezelését, a likviditási tartalékok mértékét és minőségét, valamint a vészhelyzeti terveket,
 - f) a diverzifikáció hatására és ennek a kockázatfelmérési rendszerben történő figyelembevételére,
 - g) a piaci kockázattal kapcsolatos tőkekövetelményhez az e törvény felhatalmazása alapján kiadott rendeletben meghatározott belső modell módszert alkalmazó befektetési vállalkozás által végrehajtott stressz-teszt eredményekre,
 - h) az országkockázatból származó pótlólagos tőkekövetelményre,
 - i) egy olyan mérési vizsgálatra, amelynek keretében a Felügyelet megállapítja, hogy egy – általa megállapított mértékű – hirtelen és váratlan kamatlábváltozásnak milyen hatása lenne a szavatoló tőkére.
+
+(2a) A (2) bekezdés d) pontja szerinti felülvizsgálat keretében a Felügyelet a befektetési vállalkozás pénzügyi piacon betöltött szerepéhez igazodva értékeli a likviditási kockázat kezelését, valamint a likviditási kockázatot mérséklő eszközök alkalmazását.
 
 (3) A felülvizsgálat és értékelés alapján a Felügyelet meghatározza, hogy a befektetési vállalkozás által alkalmazott szabályzatok, stratégiák, eljárások, módszerek és a befektetési vállalkozás szavatoló tőkéje biztosítja-e a kockázatok fedezetét és megbízható kezelését.
 
@@ -2901,9 +2926,7 @@ bírság megfizetésére kötelezheti.
 - c) az a) és b) pontban előírtakhoz szükséges mértékben a befektetési vállalkozás, illetve árutőzsdei szolgáltató nyilvántartásának helyreállítása, és
 - d) a szükséges mértékben a befektetési vállalkozás, illetve árutőzsdei szolgáltató cégként való működtetése.
 
-170. § (1) A felügyeleti biztos az e minőségében okozott kárért kizárólag a Felügyelet felé tartozik felelősséggel, vele szemben közvetlenül kártérítési igény nem érvényesíthető. Ha a felügyeleti biztos a Felügyelettel köztisztviselői jogviszonyban áll, a Ktv. kártérítésre vonatkozó szabályai szerint, ha pedig megbízási jogviszonyban áll, a Ptk. 350. §-a szerint felel.
-
-(2) A felügyeleti biztos nevét és lakóhelyét – bejegyzés és közzététel végett – be kell jelenteni a cégbíróságnak. Lakóhelyként a Felügyelet címe is megjelölhető.
+170. § (1)–(2)
 
 ### XXIX. Fejezet — EGYÜTTMŰKÖDÉS AZ EURÓPAI GAZDASÁGI TÉRSÉG ÁLLAMAINAK FELÜGYELETI HATÓSÁGAIVAL
 
@@ -2962,6 +2985,27 @@ bírság megfizetésére kötelezheti.
 
 (4) A Felügyelet prudenciális felügyelete alatt álló befektetési vállalkozás tekintetében a más EGT-állam hatáskörrel rendelkező felügyeleti hatósága által hozott határozatban foglaltak végrehajtására, teljesítésének ellenőrzésére, az ellenőrzés alapján hozható intézkedésre a Felügyelet által hozott határozatokra vonatkozó magyar jogszabályok alkalmazandóak.
 
+### Rendszerszinten jelentős fióktelep
+
+175/A. § (1) Ha egy magyarországi székhelyű befektetési vállalkozás más EGT-államban fióktelepet létesített, vagy a Felügyelet a fióktelepet létesítő befektetési vállalkozás konszolidáló felügyeleti hatósága, akkor a másik EGT-állam hatáskörrel rendelkező felügyeleti hatósága kérelmére a Felügyelet a kérelmező felügyeleti hatósággal közösen a fióktelepet rendszerszinten jelentős fióktelepnek minősítheti.
+
+(2) A Felügyelet – a (3) bekezdésben meghatározott szempontok figyelembevétele mellett alapos indoknak minősíthető érvek alapján – kérelmezheti más EGT-állam hatáskörrel rendelkező konszolidáló felügyeleti hatóságánál, vagy ennek hiányában a befektetési vállalkozás székhelye szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságánál, hogy közösen rendszerszinten jelentős fióktelepnek minősítsék a más EGT-államban székhellyel rendelkező befektetési vállalkozás magyarországi fióktelepét.
+
+(3) A rendszerszinten jelentős minősítésnél az indok alaposságának megállapításakor különösen az alábbi szempontokat kell figyelembe venni:
+
+- a) a befektetési vállalkozás tevékenységének felfüggesztése vagy megszüntetése milyen hatást gyakorolna az adott EGT-állam piacának likviditására és fizetési, elszámolási és kiegyenlítési rendszerére,
+- b) az ügyfélszámot tekintve mekkora a fióktelep mérete és jelentősége az adott EGT-állam pénzügyi rendszerében.
+
+(4) A Felügyelet intézkedik annak érdekében, hogy a másik EGT-állam hatáskörrel rendelkező felügyeleti hatóságával a rendszerszinten jelentős fiókteleppé minősítésről többoldalú eljárás keretében határozatot hozzanak.
+
+(5) Ha a kérelemről – annak kézhezvételétől számított két hónapon belül – többoldalú eljárás keretében nem hoznak határozatot, akkor ha Magyarország a fogadó tagállam, a Felügyelet újabb két hónapos határidőn belül – az eljárásban részt vevő más EGT-állam hatáskörrel rendelkező felügyeleti hatóságának a többoldalú eljárás során adott véleményére és fenntartásaira figyelemmel – egyedül határozhat arról, hogy a fióktelep rendszerszinten jelentősnek minősül.
+
+(6) A Felügyelet az (5) bekezdés szerinti határozatát megküldi a többi érintett EGT-állam hatáskörrel rendelkező felügyeleti hatóságának.
+
+(7) A (4) bekezdés szerinti közös határozat, valamint Magyarországtól eltérő fogadó tagállam hatáskörrel rendelkező felügyeleti hatósága által fióktelepet rendszerszinten jelentősnek minősítő határozat Magyarországon közvetlenül alkalmazandó és végrehajtható.
+
+175/B. § Ha magyarországi székhelyű befektetési vállalkozás más EGT-államban rendszerszinten jelentős fióktelepet létesít, a Felügyelet értesíti a másik EGT-állam hatáskörrel rendelkező felügyeleti hatóságát, amennyiben a befektetési vállalkozásnál vagy olyan vállalkozásnál, amelyre a befektetési vállalkozással együttesen kiterjed az összevont alapú felügyelet, információt szerez olyan kedvezőtlen fejlemény bekövetkezéséről, amely súlyosan érintheti a befektetési vállalkozást. Értesítést küld továbbá akkor is, ha a befektetési vállalkozással szemben jelentős szankciót, intézkedést alkalmazott, ideértve a 164. § (1) bekezdésének t) pontja szerinti felügyeleti intézkedést.
+
 ### A fogadó EGT-állami felügyelési feladatokés hatáskörök
 
 176. § A más EGT-állam felügyeleti hatóságának befektetési szolgáltatási tevékenység végzésére jogosító engedélyével rendelkező külföldi befektetési vállalkozás Magyar Köztársaság területén létesített fióktelepe által végzett tevékenység esetében a Felügyelet hatáskörében ellenőrzi a 40–51. §-ban, 55–56. §-ban, 62–65. §-ban, 67–69. §-ban, 73–76. §-ban és 151–153. §-ban foglalt rendelkezések betartását.
@@ -2998,16 +3042,12 @@ bírság megfizetésére kötelezheti.
 - d) a kereskedési könyvben nyilvántartott pozíciók, kockázatvállalások, az árfolyamkockázat és nagykockázatok fedezetére szükséges tőkekövetelmény megállapításának szabályait,
 - e) a kamatlábkockázat kezelésére alkalmazott rendszerre vonatkozó szabályokat,
 - f) a hitelkockázat, működési kockázat, devizaárfolyam-kockázat, nagykockázat és árukockázat kezelésére és tőkekövetelményére vonatkozó részletes szabályokat,
-- g) a befektetési vállalkozás nyilvánosságra hozatali követelményeinek teljesítésére vonatkozó részletes szabályokat
+- g) a befektetési vállalkozás nyilvánosságra hozatali követelményeinek teljesítésére vonatkozó részletes szabályokat,
+- h) a javadalmazási politikának az érintett befektetési vállalkozás mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazására vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a miniszter arra, hogy
-
-- a) a befektetési vállalkozás és az árutőzsdei szolgáltató Felügyelet részére történő adatszolgáltatási kötelezettségét, az adatszolgáltatás tartalmát, felépítését, módját, és gyakoriságát, és
-- b)
-
-rendeletben állapítsa meg.
+(2)
 
 ### Hatálybalépés
 
@@ -3021,7 +3061,18 @@ rendeletben állapítsa meg.
 
 (5)
 
-182. §
+### Átmeneti rendelkezések
+
+182. § (1) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 159. § (2) bekezdésével megállapított 4. mellékletben foglalt javadalmazási politikára vonatkozó belső szabályzatra, valamint javadalmazási bizottság felállítására vonatkozó követelményeknek a befektetési vállalkozás legkésőbb 2011. május 31-től köteles megfelelni.
+
+(2) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény hatálybalépésekor már meglévő olyan értékpapírt vagy alapvető kölcsöntőkét, amely az e törvény 2010. december 31-én hatályos 2. melléklete szerint megfelel az alapvető tőkével szembeni követelményeknek, de 2011. január 1-től nem felel meg a 2. melléklet 3., 6., 7. vagy 10. pontjában foglalt követelményeknek, 2040. december 31-ig úgy kell tekinteni, mint ami megfelel a vegyes tulajdonságú befizetett jegyzett tőkével, vagy az alapvető kölcsöntőkével szembeni feltételeknek azzal, hogy ezen értékpapír vagy alapvető kölcsöntőke alapvető tőkébe történő beszámíthatóságánál a következő korlátozásokat kell érvényesíteni:
+
+- a) 2020. január 1-től 2029. december 31-ig legfeljebb az alapvető tőke 20%-a lehet;
+- b) 2030. január 1-től legfeljebb az alapvető tőke 10%-a lehet.
+
+(3) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény hatálybalépésekor már meglévő olyan kölcsönt, amely az e törvény 2010. december 31-én hatályos 2. melléklete szerint járulékos kölcsöntőkének minősül, 2025. december 31-éig úgy kell tekinteni, mint ami megfelel a járulékos kölcsöntőkével szembeni feltételeknek.
+
+(4) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény hatálybalépésekor már meglévő, a befektetési vállalkozás által visszavásárolt és a mérlegben eszközök között kimutatott saját kibocsátású alapvető kölcsöntőke, járulékos vagy alárendelt kölcsöntőke könyv szerinti értékét 2011. december 31-ig nem kell levonni a szavatoló tőke kiszámításakor.
 
 ### Jogharmonizációs záradék
 
@@ -3117,11 +3168,19 @@ A szavatoló tőke számítása
 
 1. A befektetési vállalkozás szavatoló tőkéje alapvető, járulékos és kiegészítő tőkéből áll.
 
-2. Az alapvető tőke a 3–4. pontban meghatározott pozitív és negatív összetevők 5–7. pontban foglaltak figyelembevételével számított összege.
+2. Az alapvető tőke a 3–5. pontban meghatározott pozitív és negatív összetevők 6–9. pontban foglaltak figyelembevételével számított összege.
 
 3. Az alapvető tőke pozitív összetevői a számviteli kimutatások alapján:
 
-a) jegyzett tőke,
+a) befizetett jegyzett tőke, ideértve a következő részvényfajtákat, ha megfelel a 6. pontban meghatározott feltételeknek:
+
+aa) törzsrészvény,
+
+ab) elsőbbségi részvény,
+
+ac) dolgozói részvény,
+
+ad) külön törvényben vagy jogszabályban meghatározott egyéb elsőbbségi jogot biztosító részvény,
 
 b) tőketartalék,
 
@@ -3129,67 +3188,125 @@ c) lekötött tartalék,
 
 d) általános tartalék,
 
-e)
+e) eredménytartalék, ha pozitív,
 
-f) eredménytartalék, ha pozitív,
+f) könyvvizsgáló által hitelesített mérleg szerinti vagy évközi eredmény, ha pozitív, és nem tartalmaz semmilyen előrelátható kifizetést, vagy osztalékot,
 
-g) könyvvizsgáló által hitelesített mérleg szerinti vagy évközi eredmény, ha pozitív,
+g) vegyes tulajdonságú befizetett jegyzett tőke, ideértve a kamatozó részvényeket, a visszaváltható részvényeket és mindazon jegyzett tőkébe tartozó részvényeket, amelyek nem tartoznak az a) pont alá és megfelelnek a 7. pontban meghatározott feltételeknek,
 
 h) alapvető kölcsöntőke.
 
-3A. A – külön jogszabályban meghatározott – értékpapírosítást kezdeményező befektetési vállalkozásnál a 3. pontban nem vehető figyelembe az értékpapírosított eszközökből származó, olyan jövőbeni, nem realizált nyereség, amely hitelminőség javítást nyújt az értékpapírosított pozíciókra.
+4. A – külön jogszabályban meghatározott – értékpapírosítást kezdeményező befektetési vállalkozásnál a 3. pontban nem vehető figyelembe az értékpapírosított eszközökből származó, olyan jövőbeni, nem realizált nyereség, amely hitelminőség javítást nyújt az értékpapírosított pozíciókra.
 
-4. Az alapvető tőke negatív összetevői a számviteli kimutatások alapján:
+5. Az alapvető tőke negatív összetevői a számviteli kimutatások alapján:
 
-a) jegyzett tőke be nem fizetett része,
+a) visszavásárolt saját részvények könyv szerinti értéke,
 
 b) immateriális javak,
 
-c) osztalékelsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére is feljogosító, jegyzett és befizetett részvények,
+c) eredménytartalék, ha negatív,
 
-d) eredménytartalék, ha negatív,
+d) könyvvizsgáló által hitelesített mérleg szerinti eredmény, ha negatív, illetve évközi szavatolótőke-számítás esetén az évközi negatív eredmény,
 
-e) könyvvizsgáló által hitelesített mérleg szerinti eredmény, ha negatív, illetve évközi szavatoló tőke számítás esetén az évközi negatív eredmény,
+e) kockázati céltartalék és az értékvesztés hiánya, azaz a mérlegen kívüli kötelezettségek és az eszközök helytelen értékelése miatt el nem számolt kockázati céltartalék, illetve értékvesztés összege (ideértve a könyvvizsgáló vagy a Felügyelet vizsgálata során feltárt céltartalékhiányt, illetve az el nem számolt értékvesztést is), amennyiben a hiány a szavatoló tőkéből más jogcímen nem kerül levonásra,
 
-f) kockázati céltartalék és az értékvesztés hiánya, azaz a mérlegen kívüli kötelezettségek és az eszközök helytelen értékelése miatt el nem számolt kockázati céltartalék, illetve értékvesztés összege (ideértve a könyvvizsgáló vagy a Felügyelet vizsgálata során feltárt céltartalék hiányt, illetve az el nem számolt értékvesztést is),
+f) a vegyes tulajdonságú befizetett jegyzett tőkének és az alapvető kölcsöntőkének a 13. pont szerinti korlátozások miatt figyelembe nem vehető része,
 
-g) az alapvető kölcsöntőkének a 9. pont szerinti korlátozások miatt figyelembe nem vehető része,
+g) a kereskedési könyvben nyilvántartott kevésbé likvid tételekre külön jogszabály alapján számított, jelentős veszteséget eredményező értékelési korrekciók (az Szmt. szerinti valós értékelés alá nem vont tételek esetében ezen értékelési korrekcióknak az elszámolt értékvesztés és megképzett céltartalék feletti többlete).
 
-h) a kereskedési könyvben nyilvántartott kevésbé likvid tételekre külön jogszabály alapján számított, jelentős veszteséget eredményező értékelési korrekciók (az Szmt. szerinti valós értékelés alá nem vont tételek esetében ezen értékelési korrekcióknak az elszámolt értékvesztés és megképzett céltartalék feletti többlete),
+6. A 3. pont a) alpontja szerinti befizetett jegyzett tőkében olyan részvény vehető figyelembe, amely
 
-i) visszavásárolt saját részvények könyv szerinti értéke.
+a) a felszámolás során a kielégítési rangsorban az utolsó helyen áll,
 
-5. Ha a befektetési vállalkozás a jegyzett tőke emeléséről dönt, a megemelt összegű jegyzett tőke a tőkeemelés összegének befizetését igazoló dokumentumok Felügyeletnek történő bemutatásától kezdődően számítható be a szavatoló tőkébe.
+b) a névértékhez képest előre rögzített mértékű osztalék-, vagy kamatfizetésre nem jogosít,
 
-6. Ha a befektetési vállalkozás a jegyzett tőke leszállításáról dönt, a befektetési vállalkozásnak a szavatoló tőke számítása során a jegyzett tőkét a leszállított értéken kell figyelembe venni.
+c) az elmúlt év vagy évek elmaradt osztalék vagy kamat kifizetésére a későbbi időszakban jogosító, kumulatív tulajdonsággal nem rendelkezik.
 
-7.
+7. A 3. pont g) alpontja szerinti vegyes tulajdonságú befizetett jegyzett tőkének minősül minden olyan részvény, amely nem felel meg a 6. pontban foglalt feltételeknek, de teljesíti a következőket:
 
-8. A törvény alkalmazásában alapvető kölcsöntőkének minősül minden olyan kölcsön, amely kielégíti az alábbi feltételeket:
+a) a felszámolás során a kielégítési rangsorban a járulékos tőkében szereplő eszközök után következik,
 
-a) ténylegesen rendelkezésre áll, az igénybe vevő befektetési vállalkozás számára azonnal, jogvita vagy sortartási kötelezettség nélkül hozzáférhető, hitelviszonyt megtestesítő értékpapír esetén nem került visszavásárlásra, továbbá az igénybe vevő befektetési vállalkozás mérlegében szerepel,
+b) visszaváltásuk, illetve visszavásárlásuk a befektetési vállalkozás mérlegelési joga,
 
-b) a kölcsön nyújtására vonatkozó szerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a befektetési vállalkozás adósságának rendezésébe és a kölcsönt nyújtó követelése a törlesztések sorrendjében a részvényesek előtti legutolsó helyen áll,
+c) kibocsátástól számított 5 évnél korábban nem válthatók, illetve vásárolhatók vissza,
 
-c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – határozatlan futamidejű, kizárólag a Felügyelet engedélyével, legalább öt év futamidő elteltét követően mondható fel,
+d) a jegyzési dokumentáció feltételei olyanok, hogy a visszaváltásra, visszavásárlásra vonatkozó ösztönzés mérsékelt, és hatása 10 évnél nem korábban jelentkezik,
 
-d) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszavásárlását is – a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
+e) visszaváltásukhoz, illetve visszavásárlásukhoz felügyeleti engedély kell,
 
-e) a kölcsön-, illetve az értékpapír-adásvételi szerződés semminemű olyan feltételt nem tartalmaz, amely a kapcsolódó kamat- és járulékfizetést tíz éven belül megnöveli, kivéve mozgó kamatozás esetén a referenciakamat emelkedéséből adódó kamatnövekedést,
+f) a befektetési vállalkozás a jegyzési dokumentáció alapján bármikor jogosult arra, hogy meghatározatlan ideig ne fizessen osztalékot vagy kamatot, anélkül, hogy az elmaradt osztalék vagy kamat fizetésére a későbbiekben bármilyen kötelezettsége lenne,
 
-f) a befektetési vállalkozás a kamatfizetést elhalaszthatja,
+g) a jegyzési dokumentációban szereplő osztalék, kamat és egyéb kifizetési feltételek olyanok, hogy azok nem akadályozzák a befektetési vállalkozás szükség esetén történő feltőkésítését,
 
-g) ha egy adott évben az f) alpontban meghatározott szabály alapján kamatfizetés nem teljesíthető, akkor a kölcsönnyújtó erre az elmaradt összegre a következő években nem tarthat igényt,
+h) a Felügyelet a részvény visszaváltásához szükséges előzetes hozzájáruláshoz előírhatja a befektetési vállalkozás számára ugyanolyan vagy jobb minőségű alapvető tőkeelem biztosításával a szavatoló tőke felemelését,
 
-h) ha a befektetési vállalkozás a kölcsön alapján valamely fizetési kötelezettségének nem tesz eleget, akkor a kölcsönnyújtó – ezen a jogcímen – nem jogosult a befektetési vállalkozás felszámolását kezdeményezni,
+i) a Felügyelet törölheti a részvény visszaváltását, osztalék vagy kamat kifizetését, ha a befektetési vállalkozás nem teljesíti a 105. § (1) és (5) bekezdése szerinti tőkekövetelményt,
 
-i) a kölcsönnel kapcsolatosan kizárt a kölcsöntőkét nyújtó bármiféle beszámítási joga a kölcsönfelvevővel szemben.
+j) a Felügyelet engedélyezheti a visszaváltást, ha a kibocsátás időpontjában előre nem látott módon megváltozik az ilyen részvények adóügyi vagy szabályozói minősítése,
 
-9. A figyelembe vehető alapvető kölcsöntőke összege nem haladhatja meg az alapvető tőkeelemek összegének 15%-át.
+k) a befektetési vállalkozás köteles törölni az osztalék-, vagy kamatfizetést, ha nem teljesíti a 105. § (1) és (5) bekezdése szerinti tőkekövetelményt,
 
-10. A járulékos tőke pozitív összetevői a számviteli kimutatások alapján:
+l) a Felügyelet előírhatja az osztalék-, vagy kamatfizetés törlését a befektetési vállalkozás pénzügyi és fizetőképességi helyzete alapján azzal, hogy a befektetési vállalkozás jogosult a kifizetést új részvény kibocsátásával helyettesíteni, amely kibocsátás nem ronthatja a befektetési vállalkozás pénzügyi helyzetét, és amely kibocsátást a Felügyelet további feltételekhez kötheti,
 
-a) osztalékelsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére is feljogosító, jegyzett és befizetett részvények,
+m) a Felügyelet az i) és l) alpontban foglalt intézkedéseivel egyidejűleg előírhatja a részvénynek a 3. pont a) alpontja szerinti részvénnyel való helyettesítést.
+
+8. Ha a befektetési vállalkozás a jegyzett tőke emeléséről dönt, a megemelt összegű jegyzett tőke a tőkeemelés összegének befizetését igazoló dokumentumok Felügyeletnek történő bemutatásától kezdődően számítható be a szavatoló tőkébe.
+
+9. Ha a befektetési vállalkozás a jegyzett tőke leszállításáról dönt, a befektetési vállalkozásnak a szavatoló tőke számítása során a jegyzett tőkét a leszállított értéken kell figyelembe vennie.
+
+10. A törvény alkalmazásában alapvető kölcsöntőkének minősül minden olyan kölcsön, amely kielégíti az alábbi feltételeket:
+
+a) ténylegesen rendelkezésre áll, az igénybe vevő befektetési vállalkozás számára azonnal, jogvita vagy sortartási kötelezettség nélkül hozzáférhető, hitelviszonyt megtestesítő értékpapír esetén nem került visszaváltásra vagy visszavásárlásra, továbbá az igénybe vevő befektetési vállalkozás mérlegében szerepel,
+
+b) a kölcsönszerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a befektetési vállalkozás folyamatos működése mellett is a befektetési vállalkozás adósságának rendezésébe, és a kölcsönt nyújtó követelése felszámolási eljárás esetén a törlesztések sorrendjében a járulékos kölcsöntőke után áll,
+
+c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – határozatlan vagy eredetileg legalább 30 éves futamidejű, kizárólag a Felügyelet engedélyével, legalább 5 év futamidő elteltét követően mondható fel, törleszthető, váltható vagy vásárolható vissza,
+
+d) a kölcsönszerződés, illetve az értékpapírban foglalt jogok tartalmazhatnak egy vagy több visszaváltási opciót, melynek lehívása kizárólag a befektetési vállalkozás döntésétől függ,
+
+e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszaváltását és visszavásárlását is – a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
+
+f) a Felügyelet a kölcsön felmondásához, az értékpapír visszaváltásához és visszavásárlásához szükséges előzetes hozzájárulás esetén előírhatja a befektetési vállalkozás számára ugyanolyan vagy jobb minőségű alapvető kölcsöntőke vagy jegyzett tőke biztosításával a szavatoló tőke felemelését,
+
+g) a Felügyelet törölheti a kölcsön felmondását, értékpapír visszaváltását, visszavásárlását, kamat kifizetését, ha a befektetési vállalkozás nem teljesíti a 105. § (1) és (5) bekezdése szerinti tőkekövetelményt,
+
+h) a Felügyelet engedélyezheti a lejárattal rendelkező vagy a lejárat nélküli kölcsönök lejárat előtti visszaváltását, visszavásárlását, ha a kibocsátás időpontjában előre nem látott módon megváltozik az ilyen kölcsönök adóügyi vagy szabályozói minősítése,
+
+i) amennyiben egy határozatlan futamidejű kölcsön, vagy hitelviszonyt megtestesítő értékpapír esetében a kölcsönszerződés, illetve értékpapírban foglalt jogok mérsékelt ösztönzést tartalmaznak a visszaváltásra vagy visszavásárlásra, akkor ilyen tőketörlesztés a futamidő első 10 évében nem lehetséges,
+
+j) határozott futamidejű kölcsön-, illetve hitelviszonyt megtestesítő értékpapír esetében a kölcsönszerződés, illetve az értékpapírban foglalt jogok semminemű olyan feltételt nem tartalmazhatnak, ami a futamidő lejárata előtti visszafizetésre ösztönöz,
+
+k) a befektetési vállalkozás a kamatfizetést törölheti,
+
+l) a befektetési vállalkozás köteles törölni a kamatfizetést, ha nem teljesíti a 105. § (1) és (5) bekezdés szerinti tőkekövetelményt,
+
+m) a Felügyelet előírhatja a kamatfizetés törlését a befektetési vállalkozás pénzügyi és fizetőképességi helyzete alapján azzal, hogy a befektetési vállalkozás jogosult a kifizetést új részvény kibocsátásával helyettesíteni, amely kibocsátás nem ronthatja a befektetési vállalkozás pénzügyi helyzetét, és amely kibocsátást a Felügyelet további feltételekhez kötheti,
+
+n) ha egy adott évben a k)–m) alpontokban meghatározott szabály alapján kamatfizetés nem teljesíthető, akkor a kölcsönnyújtó erre az elmaradt összegre a következő években nem tarthat igényt,
+
+o) ha a befektetési vállalkozás a kölcsön alapján valamely fizetési kötelezettségének nem tesz eleget, akkor a kölcsönnyújtó – ezen a jogcímen – nem jogosult a befektetési vállalkozás felszámolását kezdeményezni,
+
+p) a kölcsönnel kapcsolatosan kizárt a kölcsöntőkét nyújtó bármiféle beszámítási joga a kölcsönfelvevővel szemben,
+
+q) a Felügyelet a g) és m) alpontban foglalt intézkedéseivel egyidejűleg előírhatja az alapvető kölcsöntőke 3. pont a) alpontja szerinti részvénnyel való helyettesítését.
+
+11. a) Amennyiben a befektetési vállalkozás több alapvető, illetve járulékos kölcsöntőkét bocsátott ki, a kölcsöntőke tulajdonosai számára megfelelő tájékoztatást kell adnia a kölcsöntőke adósságrendezésbe való bevonásának lehetőségéről, az adott kölcsöntőke elem kielégítési sorrendben elfoglalt helyéről, valamint a különböző kibocsátású kölcsöntőkék egymáshoz viszonyított helyéről az adósságbevonási, illetve -kielégítési sorrendben.
+
+b) Ha az alapvető és járulékos kölcsöntőke különleges célú gazdasági egységen keresztül kerül kibocsátásra, akkor a 10. pontban foglaltak teljesülése esetén átválthatónak kell lennie a befektetési vállalkozás által közvetlenül kibocsátott kölcsöntőkére azzal, hogy a kölcsöntőkenyújtók nem kerülhetnek hátrányosabb helyzetbe, mintha a kölcsöntőkét a befektetési vállalkozás közvetlenül bocsátotta volna ki. A különleges célú gazdasági egység egyéb tevékenységet üzletszerűen nem végezhet.
+
+12. A szavatoló tőke számítása során az alapvető kölcsöntőkéből le kell vonni a befektetési vállalkozás által visszavásárolt, saját kibocsátású, alapvető kölcsöntőkének minősülő, mérlegben az eszközök között kimutatott értékpapírok könyv szerinti értékét.
+
+13. A vegyes tulajdonságú befizetett jegyzett tőkének és az alapvető kölcsöntőkének az alapvető tőkébe történő együttes beszámíthatóságánál az alábbi korlátozásokat kell érvényesíteni:
+
+a) az alapvető tőke legfeljebb 50%-a lehet olyan vegyes tulajdonságú befizetett jegyzett tőke és alapvető kölcsöntőke, amely kötelezően olyan részvényre váltandó a kibocsátáskor meghatározott átváltási mechanizmus szerint a befektetési vállalkozás pénzügyi és tőkehelyzetét veszélyeztető esemény bekövetkezése esetén, vagy ha ezt a Felügyelet előírja, amely a 3. pont a) alpontja alapján figyelembe vehető, és megfelel a 6. pontban foglalt feltételeknek,
+
+b) az alapvető tőke együttesen legfeljebb 35%-a lehet olyan vegyes tulajdonságú befizetett jegyzett tőke, és alapvető kölcsöntőke, amely határozatlan futamidejű, és amelyhez nem kapcsolódik visszaváltásra vagy visszavásárlásra ösztönző rendelkezés, de az a) pontban jelzett tőkeelemekkel együttes részesedésük sem haladhatja meg az alapvető tőke 50%-át,
+
+c) az alapvető tőke együttesen legfeljebb 15%-a lehet olyan vegyes tulajdonságú befizetett jegyzett tőke, és alapvető kölcsöntőke, amely lejárattal rendelkezik, vagy amelyhez visszaváltásra vagy visszavásárlásra mérsékelt ösztönző rendelkezés kapcsolódik, de az a) és b) pontban jelzett tőkeelemekkel együttes részesedésük sem haladhatja meg az alapvető tőke 50%-át.
+
+14. A járulékos tőke pozitív összetevői a számviteli kimutatások alapján:
+
+a) a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére is feljogosító, jegyzett és befizetett elsőbbségi részvények, továbbá minden egyéb részvény, amely nem felel meg a 6. vagy 7. pontban foglalt feltételeknek,
 
 b) értékelési tartalék,
 
@@ -3197,79 +3314,81 @@ c) alárendelt kölcsöntőke,
 
 d) járulékos kölcsöntőke,
 
-e) a 9. pontban meghatározott mértéket meghaladó alapvető kölcsöntőke,
+e) a 13. pontban meghatározott mértéket meghaladó vegyes tulajdonságú befizetett jegyzett tőke és alapvető kölcsöntőke,
 
 f) ha a befektetési vállalkozás a hitelezési kockázatát belső minősítésen alapuló módszerrel számítja, akkor az elszámolt értékvesztés és a képzett kockázati céltartalék összegének a várható veszteség értékével csökkentett értéke a kockázattal súlyozott kitettség érték 0,6%-áig, ha ez a különbség pozitív.
 
-11. Ha a befektetési vállalkozás a hitelezési kockázatát belső minősítésen alapuló módszerrel számítja, akkor az elszámolt értékvesztés és a képzett céltartalék a 10. pont f) alpontja szerinti határértéken túlmenően nem része a szavatoló tőkének.
+15. Ha a befektetési vállalkozás a hitelkockázatát belső minősítésen alapuló módszerrel számítja, akkor az elszámolt értékvesztés és a képzett céltartalék a 14. pont f) alpontja szerinti határértéken túlmenően nem része a szavatoló tőkének.
 
-12. A járulékos tőke negatív összetevője:
+16. A járulékos tőke negatív összetevője:
 
 az alárendelt kölcsöntőke figyelembe nem vehető része.
 
-13. A törvény alkalmazásában járulékos kölcsöntőkének minősül minden olyan kölcsön, amely:
+17. A törvény alkalmazásában járulékos kölcsöntőkének minősül minden olyan kölcsön, amely:
 
-a) kielégíti a 8. pont a)–f) és h)–i) alpontjában meghatározott feltételeket, és
+a) kielégíti a 10. pont a)–m) és o)–q) alpontban meghatározott feltételeket, és
 
-b) ha egy adott évben a 8. pont f) alpontjában meghatározott szabály alapján kamat vagy bármilyen más jogcímen kifizetés nem teljesíthető, akkor a következő években a kölcsönnyújtó erre az elmaradt összegre kizárólag akkor tarthat igényt, ha a teljesítés a 8. pont f) alpontjában meghatározott szabályok alapján lehetséges. A kölcsönnyújtó késedelmi kamatra nem tarthat igényt.
+b) ha egy adott évben a 10. pont k) alpontjában meghatározott szabály alapján kamat vagy bármilyen más jogcímen kifizetés nem teljesíthető, akkor a következő években a kölcsönnyújtó erre az elmaradt összegre kizárólag akkor tarthat igényt, ha a teljesítés a 10. pont k) alpontjában meghatározott szabályok alapján lehetséges. A kölcsönnyújtó késedelmi kamatra nem tarthat igényt.
 
-14. A törvény alkalmazásában alárendelt kölcsöntőkének minősül minden olyan kölcsön, amely kielégíti az alábbi feltételeket:
+18. A törvény alkalmazásában alárendelt kölcsöntőkének minősül minden olyan kölcsön, amely kielégíti az alábbi feltételeket:
 
-a) ténylegesen rendelkezésre áll, az igénybe vevő befektetési vállalkozás számára azonnal, jogvita vagy sortartási kötelezettség nélkül hozzáférhető, hitelviszonyt megtestesítő értékpapír esetén nem került visszavásárlásra, továbbá az igénybe vevő befektetési vállalkozás mérlegében szerepel,
+a) ténylegesen rendelkezésre áll, az igénybe vevő befektetési vállalkozás számára azonnal, jogvita vagy sortartási kötelezettség nélkül hozzáférhető, hitelviszonyt megtestesítő értékpapír esetén nem került visszaváltásra vagy visszavásárlásra, továbbá az igénybe vevő befektetési vállalkozás mérlegében szerepel,
 
-b) az alárendelt kölcsöntőke nyújtására vonatkozó szerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a befektetési vállalkozás adósságának rendezésébe és a kölcsönt nyújtó követelése a törlesztések sorrendjében a részvényesek előtti legutolsó helyen áll,
+b) az alárendelt kölcsöntőke nyújtására vonatkozó szerződés tartalmazza a kölcsönt nyújtó fél egyetértését arra vonatkozóan, hogy az általa nyújtott kölcsön bevonható a befektetési vállalkozás adósságának rendezésébe és a kölcsönt nyújtó követelése a törlesztések sorrendjében a részvényesek, valamint az alapvető és járulékos kölcsöntőkenyújtók előtti legutolsó helyen áll,
 
-c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – eredeti futamideje öt évet meghaladó lejáratú, és legkevesebb öt év múlva fizetendő vissza, illetve, ha a lejárat nincs meghatározva, a kölcsön csak a szerződésben rögzített, a felmondástól számított, legkevesebb öt év múlva fizethető vissza, kivéve, ha a Felügyelet engedélyezi a korábbi visszafizetést,
+c) a kölcsön – ideértve a hitelviszonyt megtestesítő értékpapírt is – eredeti futamideje 5 évet meghaladó lejáratú, és legkevesebb 5 év múlva fizetendő vissza, illetve, ha a lejárat nincs meghatározva, a kölcsön csak a szerződésben rögzített, a felmondástól számított, legkevesebb 5 év múlva fizethető vissza, kivéve, ha a Felügyelet engedélyezi a korábbi visszafizetést,
 
-d) a kölcsön-, illetve az értékpapír adásvételi szerződés semminemű olyan feltételt nem tartalmaz, amely a kapcsolódó kamat- és járulékfizetést megnöveli, kivéve mozgó kamatozás esetén a referenciakamat emelkedéséből adódó kamatnövekedést,
+d) a kölcsönszerződés, illetve az értékpapírban foglalt jogok semminemű olyan feltételt nem tartalmaznak, amely a kapcsolódó kamat- és járulékfizetést megnöveli, kivéve mozgó kamatozás esetén a referenciakamat emelkedéséből adódó kamatnövekedést,
 
-e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszavásárlását is – az eredeti lejárat vagy a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
+e) tőketörlesztés – ideértve a hitelviszonyt megtestesítő értékpapír visszaváltását és visszavásárlását is – az eredeti lejárat vagy a szerződésben kikötött felmondási idő előtt nem lehetséges, kivéve, ha azt a Felügyelet engedélyezi,
 
 f) az alárendelt kölcsöntőkével kapcsolatosan kizárt a kölcsöntőkét nyújtó bármiféle beszámítási joga a kölcsönfelvevővel szemben.
 
-15. Az alárendelt kölcsöntőke összegének a szavatoló tőkébe történő beszámítását legalább a visszafizetési időpontot megelőző öt év során – fokozatosan, évente egyenlő arányban – csökkenteni kell.
+19. Az alárendelt kölcsöntőke összegének a szavatoló tőkébe történő beszámítását a visszafizetési időpontot megelőző 5 év során – fokozatosan, évente 20%-kal egyenlő arányban – csökkenteni kell.
 
-16. A részvénnyé átváltoztatható kötvény akkor számítható be a járulékos tőkébe, ha kielégíti az alárendelt kölcsöntőkére, az alapvető kölcsöntőkére vagy a járulékos kölcsöntőkére vonatkozó feltételeket. Egyéb esetben a részvénnyé átváltoztatható kötvény nem minősül szavatoló tőkeelemnek.
+20. A részvénnyé átváltoztatható kötvény akkor számítható be a járulékos tőkébe, ha kielégíti az alárendelt kölcsöntőkére, az alapvető kölcsöntőkére vagy a járulékos kölcsöntőkére vonatkozó feltételeket. Egyéb esetben a részvénnyé átváltoztatható kötvény nem minősül szavatoló tőkeelemnek.
 
-16A. A járulékos tőke számításakor nem vehető figyelembe a bekerülési értéken értékelt pénzügyi instrumentum cash-flow fedezeti ügyletének valós értékeléséből származó értékelési tartalék.
+21. A szavatoló tőke számítása során a járulékos és alárendelt kölcsöntőkéből le kell vonni a befektetési vállalkozás által visszavásárolt, saját kibocsátású, járulékos vagy alárendelt kölcsöntőkének minősülő, mérlegben az eszközök között kimutatott értékpapírok könyv szerinti értékét.
 
-17. A járulékos tőke szavatoló tőkébe történő beszámíthatóságánál az alábbi korlátozásokat kell érvényesíteni:
+22. A járulékos tőke számításakor nem vehető figyelembe a bekerülési értéken értékelt pénzügyi instrumentum cash-flow fedezeti ügyletének valós értékeléséből származó értékelési tartalék.
+
+23. A járulékos tőke szavatoló tőkébe történő beszámíthatóságánál az alábbi korlátozásokat kell érvényesíteni:
 
 a) a figyelembe vehető járulékos tőke összege nem haladhatja meg az alapvető tőke összegének 100%-át,
 
-b) a járulékos tőkeként figyelembe vehető lejárattal rendelkező alárendelt kölcsöntőke, valamint a 10. pont a) alpontja szerinti lejárattal rendelkező osztalékelsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére is feljogosító, jegyzett és befizetett részvények összegének az aránya nem haladhatja meg az alapvető tőke 50%-át.
+b) a járulékos tőkeként figyelembe vehető lejárattal rendelkező alapvető, járulékos és alárendelt kölcsöntőke, valamint a járulékos tőkeként figyelembe vehető lejárattal rendelkező részvények összegének az aránya nem haladhatja meg az alapvető tőke 50%-át.
 
-18. A 17. pont szerinti korlátozások figyelembevételével meghatározott szavatoló tőke alapvető tőkéjéből és járulékos tőkéjéből 50-50%-os arányban le kell vonni:
+24. A 23. pont szerinti korlátozások figyelembevételével meghatározott szavatoló tőke alapvető tőkéjéből és járulékos tőkéjéből 50–50%-os arányban kell levonni:
 
 a) a más pénzügyi intézményben, befektetési vállalkozásban, biztosítóban, valamint viszontbiztosítóban lévő részesedések könyv szerinti értékét – ha a felsoroltaknál a befektetési vállalkozás minősített befolyással rendelkezik –, valamint az előzőekben felsorolt vállalkozások részére nyújtott alárendelt kölcsöntőke, alapvető kölcsöntőke és járulékos kölcsöntőke könyv szerinti értékét,
 
-b) a minősített befolyásnak nem minősülő, más pénzügyi intézményben, befektetési vállalkozásban, biztosítóban, valamint viszontbiztosítóban lévő részesedések könyv szerinti értékének, valamint az előzőekben felsorolt vállalkozások részére nyújtott alárendelt kölcsöntőke, alapvető kölcsöntőke és járulékos kölcsöntőke könyv szerinti értékének együttes összegéből az 1–17. pontok figyelembevételével számított szavatoló tőke tíz százalékát meghaladó részét,
+b) a minősített befolyásnak nem minősülő, más pénzügyi intézményben, befektetési vállalkozásban, biztosítóban, valamint viszontbiztosítóban lévő részesedések könyv szerinti értékének, valamint az előzőekben felsorolt vállalkozások részére nyújtott alárendelt kölcsöntőke, alapvető kölcsöntőke és járulékos kölcsöntőke könyv szerinti értékének együttes összegéből az 1–23. pontok figyelembevételével számított szavatoló tőke 10%-át meghaladó részét,
 
-c) ha a befektetési vállalkozás a hitelezési kockázatát belső minősítésen alapuló módszerrel számítja, akkor az elszámolt értékvesztés és a képzett céltartalék összegének a várható veszteség értékével csökkentett értékének összegét, ha ez a különbség negatív, valamint a részesedések kockázattal súlyozott kitettség értékének – a külön jogszabály szerinti – az egyszerű súlyozási módszerrel vagy PD/LGD módszerrel történő meghatározása esetén, a részvénykitettségek várható vesztesége összegét,
+c) ha a befektetési vállalkozás a hitelkockázatát belső minősítésen alapuló módszerrel számítja, akkor az elszámolt értékvesztés és a képzett céltartalék összegének a várható veszteség értékével csökkentett értékének összegét, ha ez a különbség negatív, valamint a részesedések kockázattal súlyozott kitettség értékének – a külön jogszabály szerinti – az egyszerű súlyozási módszerrel vagy PD/LGD módszerrel történő meghatározása esetén a részvénykitettségek várható vesztesége összegét,
 
-d) azon értékpapírosítási pozíciók összegét, amelyhez külön jogszabály 1250%-os kockázati súlyt rendel, ha a hitelintézet ezen összeget a kockázattal súlyozott kitettség érték meghatározásánál nem veszi figyelembe,
+d) azon értékpapírosítási pozíciók összegét, amelyhez külön jogszabály 1250%-os kockázati súlyt rendel, ha a befektetési vállalkozás ezen összeget a kockázattal súlyozott kitettség érték meghatározásánál nem veszi figyelembe,
 
 e) a kereskedési könyv szerinti nyitva szállítás értékét a második szerződés szerinti (fizetést vagy szállítást követő) 5. munkanaptól az ügylet megszűntéig.
 
-18A. Ha a 17. pont szerinti korlátozások figyelembe vételével meghatározott járulékos tőke értékét meghaladja a 18. pontban meghatározott tételek értékének 50%-a, akkor a különbözetet az alapvető tőke értékéből kell levonni.
+25. Ha a 23. pont szerinti korlátozások figyelembevételével meghatározott járulékos tőke értékét meghaladja a 24. pontban meghatározott tételek értékének 50%-a, akkor a különbözetet az alapvető tőke értékéből kell levonni.
 
-19. A 18. pontban foglalt levonásokat követően fennmaradó – a 10. pont f) alpontjában és a 18. pont c), d) és e) alpontjában rögzített tételek figyelmen kívül hagyásával számított – szavatoló tőke alapvető és járulékos tőkerészei képezik a 101. §-ban meghatározott, a szavatoló tőke nagyságához kötött korlátozások alapját.
+26. A 12., 21. és a 24. pontban foglalt levonásokat követően fennmaradó – a 14. pont f) alpontjában és a 24. pont c), d) és e) alpontjában rögzített tételek figyelmen kívül hagyásával számított – szavatoló tőke alapvető és járulékos tőkerészei képezik a 101. §-ban meghatározott, a szavatoló tőke nagyságához kötött korlátozások alapját.
 
-20. A 18. pontban foglalt levonásokat követően fennmaradó szavatoló tőke alapvető és járulékos tőkerészeiből le kell vonni a 101. § szerinti limittúllépések összegét. A levonások során érvényesíteni kell a 17. pontban meghatározott korlátozásokat.
+27. A 12., 21. és a 24. pontban foglalt levonásokat követően fennmaradó szavatoló tőke alapvető és járulékos tőkerészeiből le kell vonni a 101. § szerinti limittúllépések összegét. A levonások során érvényesíteni kell a 23. pontban meghatározott korlátozásokat.
 
-21. A szavatoló tőke a 105. § (1) bekezdés b) pontjának bb) és bc) alpontja és a 105. § (5) bekezdése alkalmazásában a 20. pontban foglalt levonásokat követően fennmaradó szavatoló tőke.
+28. A szavatoló tőke a 105. § (1) bekezdés b) pontjának bb) és bc) alpontja és a 105. § (5) bekezdése alkalmazásában a 27. pontban foglalt levonásokat követően fennmaradó szavatoló tőke.
 
-22. A kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások, valamint a teljes tevékenységre számított devizaárfolyam- és árukockázat tőkekövetelményének fedezetére az alapvető és járulékos tőke mellett kiegészítő tőke is felhasználható. Alapvető és járulékos tőkerészként a 20. pontban foglalt levonások és a 105. § (1) bekezdés b) pontjának bb) és bc) alpontja, a 105. § (5) bekezdése és felügyeleti kivételes intézkedés keretében meghatározott tőkekövetelmény értékének tőkéből történő elkülönítése után fennmaradó összeg vehető figyelembe. A kiegészítő tőkét a kiegészítő alárendelt kölcsöntőke és a járulékos tőkének a 17. pontban meghatározott korlátozások miatt fel nem használható része alkotja.
+29. A kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások, valamint a teljes tevékenységre számított devizaárfolyam- és árukockázat tőkekövetelményének fedezetére az lapvető és járulékos tőke mellett kiegészítő tőke is felhasználható. Alapvető és járulékos tőkerészként a 27. pontban foglalt levonások és a 105. § (1) bekezdés b) pontjának bb) és bc) alpontja, a 105. § (5) bekezdése és felügyeleti kivételes intézkedés keretében meghatározott tőkekövetelmény értékének tőkéből történő elkülönítése után fennmaradó összeg vehető figyelembe. A kiegészítő tőkét a kiegészítő alárendelt kölcsöntőke és a járulékos tőkének a 23. pontban meghatározott korlátozások miatt fel nem használható része alkotja.
 
-23. A törvény alkalmazásában kiegészítő alárendelt kölcsöntőkének minősül minden olyan alárendelt kölcsön, amely kielégíti a következő feltételeket:
+30. A törvény alkalmazásában kiegészítő alárendelt kölcsöntőkének minősül minden olyan alárendelt kölcsön, amely kielégíti a következő feltételeket:
 
-a) megfelel a 14. pont a), b), d), e) és f) alpontjában rögzített feltételeknek,
+a) megfelel a 18. pont a), b), d), e) és f) alpontjaiban rögzített feltételeknek,
 
 b) eredeti futamideje legalább két év,
 
 c) a vonatkozó szerződés tartalmazza, hogy a lejáratkor vagy azt követően kizárólag akkor fizethető vissza, ha a kereskedési könyvet vezető intézmény megfelel a rá vonatkozó tőkekövetelményeknek.
 
-24. A kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások, valamint a teljes tevékenységre számított devizaárfolyam- és árukockázat tőkekövetelményének fedezetére szolgáló szavatoló tőkében a kiegészítő alárendelt kölcsöntőke és a járulékos tőkeelemek csak olyan mértékben vehetők figyelembe, hogy azok együttes összege ne haladja meg az ugyanezen kockázatok fedezetére figyelembe vett alapvető tőkeelemek összegének kétszáz százalékát.
+31. A kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások, valamint a teljes tevékenységre számított devizaárfolyam- és árukockázat tőkekövetelményének fedezetére szolgáló szavatoló tőkében a kiegészítő alárendelt kölcsöntőke és a járulékos tőkeelemek csak olyan mértékben vehetők figyelembe, hogy azok együttes összege ne haladja meg az ugyanezen kockázatok fedezetére figyelembe vett alapvető tőkeelemek összegének 200%-át.
 
 ### 3. melléklet a 2007. évi CXXXVIII. törvényhez
 
@@ -3294,3 +3413,26 @@ c) a vonatkozó szerződés tartalmazza, hogy a lejáratkor vagy azt követően 
 - 17. A teljesítményadatok bemutatásánál a tőkeáttétel és a származékos termékek használatát, mértékét is be kell mutatni oly módon, amely lehetővé teszi a kockázatok azonosítását.
 - 18. Amennyiben a portfólióhoz, annak befektetési politikájában referenciaindexet is rendeltek, ezen referenciaindex hozamát ugyanarra (ugyanazokra) az időszakra (időszakokra) és ugyanolyan hozamszámítási módszert alkalmazva kell bemutatni, amelyekre a portfólió hozama bemutatásra kerül.
 - 19. A befektetési alapkezelési és portfóliókezelési tevékenységet végző teljesítményeinek bemutatásakor a hozamadatokat lehetőleg öt évre visszamenően, illetve tevékenysége megkezdésétől – a naptári éveknek megfelelő bontásban – kell bemutatni.
+
+### 4. melléklet a 2007. évi CXXXVIII. törvényhez
+
+#### Javadalmazási politika
+
+- 1. A befektetési vállalkozás méretének, belső szervezete és tevékenysége jellegének, körének és összetettségének megfelelő módon és mértékben belső szabályzatban meghatározott javadalmazási politikával rendelkezik.
+- 2. A javadalmazási politika hatálya a befektetési vállalkozás vezető állású személyeire, valamint a belső szabályzatban meghatározott kockázatvállalási és ellenőrzési funkciót betöltő munkavállalókra és az előzőekkel azonos javadalmazási kategóriába tartozó azon munkavállalókra terjed ki, akik tevékenysége lényeges hatást gyakorol a befektetési vállalkozás kockázatvállalására.
+- 3. A javadalmazási politikának összhangban kell állnia a hatékony és eredményes kockázatkezeléssel, elő kell segítenie annak alkalmazását, és nem ösztönözhet a befektetési vállalkozás kockázatvállalási limitjeit meghaladó kockázatok vállalására. A javadalmazási politikának a befektetési vállalkozás üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel is összhangban kell állnia, valamint az érdekkonfliktus elkerülését célzó intézkedéseket kell tartalmaznia.
+- 4. A javadalmazási politikára vonatkozó szabályokat minden olyan vállalkozás tekintetében alkalmazni kell, amelyekre az összevont alapú felügyelet a befektetési vállalkozással együttesen kiterjed.
+- 5. A javadalmazási politika elveit az igazgatóság fogadja el és vizsgálja felül, a felügyelőbizottság felel annak végrehajtásáért, amelyet legalább évente a befektetési vállalkozás belső ellenőrzése vizsgál felül.
+- 6. Ha a befektetési vállalkozásnak a tárgyévet megelőző naptári évben az egyes hónapokban végrehajtott megbízásainak összértéke átlagosan meghaladja az ötmilliárd forintot, és a tárgyévet megelőző naptári évben összesen végrehajtott megbízásainak összértéke meghaladja a hatvanmilliárd forintot, akkor javadalmazási bizottságot állít fel, amely felügyeli a kockázatkezelésért és a jogszabályoknak történő megfelelésért felelős vezető javadalmazását, valamint előkészíti a javadalmazásra vonatkozó döntéseket a részvényesek, a befektetők és a befektetési vállalkozásban érdekelt egyéb felek hosszú távú érdekeinek figyelembevételével. A javadalmazási bizottság elnöke és tagjai az igazgatóság olyan tagjai közül kerülnek ki, akik az érintett befektetési vállalkozásban nem látják el szervezeti egység vezetését.
+- 7. A befektetési vállalkozásnak meg kell határoznia a teljes javadalmazáson belül az alapbér és a teljesítményjavadalmazás arányát. A befektetési vállalkozás belső szabályzatban rögzíti a teljes javadalmazáson belül az alapbér hányadát, amelynek olyan mértékűnek kell lennie, hogy rugalmas javadalmazási politika érvényesülhessen, és lehetőség legyen arra, hogy adott esetben a teljes javadalmazás kizárólag alapbérből álljon.
+- 8. Teljesítményjavadalmazásnál egyszerre kell értékelni az egyén – pénzügyi és nem pénzügyi kritériumokon alapuló –, az érintett szervezeti egység és a befektetési vállalkozás eredményét. A teljesítményértékelés alapja a befektetési vállalkozás hosszú távú teljesítménye, ezért az értékelésnek többéves időtávra kell kiterjednie, a teljesítményjavadalmazás kifizetésére kötelezettséget vállalni csak kivételesen, új munkavállaló felvételekor egy évre lehet. A teljesítményjavadalmazásként szétosztható összeg meghatározásánál figyelembe kell venni a jelenlegi és jövőbeni kockázatokat, a tőke költségét és a szükséges likviditást.
+- 9. A teljesítményjavadalmazás legalább 50%-a jogszabály eltérő rendelkezése hiányában a következőkből áll:
+  - a) az érintett befektetési vállalkozás részvényei vagy tulajdoni részesedései az érintett befektetési vállalkozás jogi formájától függően és abból eredő sajátosságainak figyelembevételével, illetve a szabályozott piacra be nem vezetett befektetési vállalkozás esetében részvényhez kötött eszközök vagy azokkal egyenértékű nem készpénz alapú eszközök, és
+  - b) adott esetben a 2. számú melléklet 13. a) pontja szerinti más – a befektetési vállalkozás jogi formáját és abból eredő sajátosságait figyelembevevő – eszközök, amelyek folyamatosan tükrözik a befektetési vállalkozás kitettségeinek minőségét azzal, hogy ezekre az eszközökre a visszatartási politika megfelelően vonatkozik.
+- 10. Amennyiben a befektetési vállalkozás pénzügyi teljesítménye a belső szabályzatban meghatározottak szerinti mértékben azért romlik, mert az adott vezető állású személy, munkavállaló túlzott kockázatot vállalt, a vezető állású személy, munkavállaló kifizetendő teljesítményjavadalmazását csökkenteni kell.
+- 11. A teljesítményjavadalmazás legalább 40%-át – a belső szabályzatban meghatározott küszöbértéknél magasabb összegű teljesítményjavadalmazás esetén legalább 60%-át – halasztva, az üzleti tevékenység természetétől, kockázataitól és az adott vezető állású személy, munkavállaló tevékenységeitől függően 3 évnél rövidebb időtartamú munkaviszony esetén a munkaviszony megszűnésekor, egyébként 3–5 éves időszak alatt kell kifizetni.
+- 12. A teljesítményjavadalmazás kifizetése nem eredményezheti azt, hogy a befektetési vállalkozás nem tudja a szükséges mértékben megerősíteni a tőkéjét, és kifizetéskor a befektetési vállalkozás nem alkalmazhat olyan módszereket, amelyek nem állnak összhangban a javadalmazási politika elveinek teljesülésével.
+- 13. A munkaviszony megszűnéséhez kapcsolódó kifizetések az eltelt időszakban elért teljesítményt tükrözik, az el nem ért eredményhez kifizetés nem kapcsolódhat.
+- 14. Ha a befektetési vállalkozás a nyugdíjpolitikára vonatkozó szabályzattal rendelkezik, annak összhangban kell állnia a befektetési vállalkozás üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel. Ha a nyugdíjpolitikára vonatkozó szabályzat alapján a vezető állású személy, munkavállaló részére teljesítményjavadalmazása részeként nem kötelező nyugdíjjuttatás jár, a befektetési vállalkozásnak a munkaviszony megszűnése után ötéves visszatartási időszak figyelembevételével kell kifizetnie ezen juttatásokat a 9. pontban meghatározott eszközök formájában.
+- 15. A befektetési vállalkozás ellenőrzési feladatokat végző munkavállalói javadalmazása független az általuk felügyelt szervezeti egységek teljesítményétől, az a feladatkörükhöz kapcsolódó célkitűzések elérésén alapul.
+- 16. A befektetési vállalkozás vezető állású személye, munkavállalója nem köthet olyan fedezeti ügyletet, amely a javadalmazására vonatkozó szerződésben foglalt kockázatvállalás hatásait kiküszöbölné.

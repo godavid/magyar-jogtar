@@ -961,9 +961,9 @@ fényszóróval történő éjszakai vadászatát.
 
 (2) Ha a károsult és a kárért felelős személy között az (1) bekezdés szerinti közléstől számított 8 napon belül nem jön létre egyezség a kár megtérítéséről és a kártérítés mértékéről, és a károsult kárának megtérítését nem közvetlenül a bíróságtól kéri, a károsult a károkozás helye szerint illetékes települési önkormányzat jegyzőjétől (a továbbiakban: jegyző) nyolc napon belül írásban vagy szóban kérelmezheti a károsult és a kárért felelős személy közötti egyezség létrehozására irányuló kárbecslési eljárás lefolytatását. A határidő elmulasztása esetén a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti igazolási kérelemnek van helye.
 
-(3) A kár megállapítását a miniszter által rendeletben meghatározott képesítéssel rendelkező kárszakértő (a továbbiakban: szakértő) végezheti. A szakértőt a jegyző öt munkanapon belül rendeli ki.
+(3) A kár megállapítását a miniszter által rendeletben meghatározott képesítéssel rendelkező kárszakértő (a továbbiakban: szakértő) végezheti. A szakértőt a jegyző nyolc napon belül rendeli ki.
 
-(4) A kár becslését – a miniszter által rendeletben megállapított egyszerűsített vadkárbecslési szabályok szerint – a kirendeléstől számított öt munkanapon belül kell lefolytatni. A kárbecslést akkor is le kell folytatni, ha a kár bejelentése az (1) bekezdésben előírt határidő után történt. Ha késedelmes bejelentés miatt a kár vagy mértékének megállapítása bizonytalanná válik, ezt a bejelentő terhére kell figyelembe venni.
+(4) A kár becslését – a miniszter által rendeletben megállapított egyszerűsített vadkárbecslési szabályok szerint – a kirendeléstől számított nyolc napon belül kell lefolytatni. A kárbecslést akkor is le kell folytatni, ha a kár bejelentése az (1) bekezdésben előírt határidő után történt. Ha késedelmes bejelentés miatt a kár vagy mértékének megállapítása bizonytalanná válik, ezt a bejelentő terhére kell figyelembe venni.
 
 (5) A szakértő köteles a kárbecslésről készült jegyzőkönyvet haladéktalanul átadni a jegyzőnek. A jegyző a szakértői vadkárbecslési jegyzőkönyvben foglaltak alapján egyezség létrehozását kísérli meg a felek között a kár megtérítésére vonatkozóan.
 
@@ -1048,7 +1048,7 @@ VALAMINT A VADVÉDELMI BÍRSÁG
 - f) aki a vadat tiltott módon zaklatja;
 - g) aki jogosulatlanul vadászik;
 - h) aki a jogszerű vadászati és vadgazdálkodási tevékenységet akadályozza;
-- i) a vadász, ha a vadászjegy, az egyéni lőjegyzék, a hivatásos vadász szolgálati naplója elvesztését, megsemmisülését vagy azok tőle való eltulajdonítását 5 munkanapon belül elmulasztja bejelenteni a vadászati hatóságnak;
+- i) a vadász, ha a vadászjegy, az egyéni lőjegyzék, a hivatásos vadász szolgálati naplója elvesztését, megsemmisülését vagy azok tőle való eltulajdonítását nyolc napon belül elmulasztja bejelenteni a vadászati hatóságnak;
 - j) aki a vadászkutya vezetőjeként a vadászat megkezdésekor a jogszabályban előírt megkülönböztető jelzéssel a vadászkutyát nem látja el.
 
 (2) Az (1) bekezdés a)–f) és i)–j) pontjai esetében a vadvédelmi bírság mértéke legalább tízezer forint, legfeljebb kétszázezer forint lehet. A vadvédelmi bírság ismételten is kiszabható.

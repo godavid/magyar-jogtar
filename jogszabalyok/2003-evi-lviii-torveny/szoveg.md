@@ -124,7 +124,7 @@ használhatók fel.
 - c) a korrekciós tényező számításának és alkalmazásának szabályait,
 - d) a befizetések éves mértékének számítási módszerét.
 
-(6) Felhatalmazást kap a vízgazdálkodásért felelős miniszter és a katasztrófák elleni védekezésért felelős miniszter, hogy együttes rendeletben állapítsa meg az ár- és belvíz által veszélyeztetett területek lehatárolásának, a települések ár- és belvíz veszélyeztetettségi alapon történő besorolásának, valamint a besorolás felülvizsgálatának szabályait.
+(6) Felhatalmazást kap a vízgazdálkodásért felelős miniszter, hogy a katasztrófák elleni védekezésért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg az ár- és belvíz által veszélyeztetett területek lehatárolásának, a települések ár- és belvíz veszélyeztetettségi alapon történő besorolásának, valamint a besorolás felülvizsgálatának szabályait.
 
 (7) A lakóingatlan tulajdonosa a 4. § (1) bekezdés szerinti kártalanításra e törvény hatálybalépését követően 2005. december 31-ig akkor is jogosult, ha a 3. § b) pontjában meghatározott feltételeknek nem felel meg.
 

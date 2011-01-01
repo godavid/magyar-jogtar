@@ -37,16 +37,14 @@ jelleggel.
 1/A. § (1) Fegyveres biztonsági őrség létrehozására
 
 - a) a honvédelemért felelős miniszter a Magyar Honvédség fokozott védelmet igénylő létesítményei,
-- b) a polgári nemzetbiztonsági szolgálatokat irányító miniszter a polgári nemzetbiztonsági szolgálatok létesítményei
-
-vonatkozásában jogosult.
+- b) a polgári hírszerzési tevékenység irányításáért felelős miniszter az Információs Hivatal létesítményei,
+- c) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter az irányítása alatt álló polgári nemzetbiztonsági szolgálatok létesítményei vonatkozásában jogosult.
 
 (2) A rendőrség hatósági jogkörét
 
 - a) a Magyar Honvédség létesítményeinél működő fegyveres biztonsági őrség vonatkozásában a honvédelemért felelős miniszter,
-- b) a polgári nemzetbiztonsági szolgálatoknál működő fegyveres biztonsági őrség vonatkozásában a polgári nemzetbiztonsági szolgálatokat irányító miniszter
-
-gyakorolja, és végzi a 10/A. § szerinti panasz elbírálását.
+- b) az Információs Hivatalnál működő fegyveres biztonsági őrség vonatkozásában a polgári hírszerzési tevékenység irányításáért felelős miniszter,
+- c) az irányítása alatt álló polgári nemzetbiztonsági szolgálatoknál működő fegyveres biztonsági őrség vonatkozásában a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter gyakorolja, és végzi a 10/A. § szerinti panasz elbírálását.
 
 2. § (1) Az 1. § (3) bekezdése szerinti határozat kötelezettje (a továbbiakban: kötelezett) a fegyveres biztonsági őrséget saját szervezetében, többségi befolyást biztosító tulajdonosi részvételével működő gazdálkodó szervezet vagy az irányítása alá tartozó költségvetési szerv útján köteles létrehozni, működtetni, fenntartani, vagy az őrzést más fegyveres biztonsági őrséggel rendelkező szerv útján biztosítani. A fegyveres biztonsági őrség költségeit a kötelezett viseli.
 
@@ -77,7 +75,7 @@ határozattal felhívja a kötelezettet vagy – a c) pontban meghatározott ese
 
 (4) Ha a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet a (3) bekezdés szerinti határozatban foglaltaknak
 
-- a) a (3) bekezdés a) és b) pontjában foglalt esetben tíz munkanapon belül,
+- a) a (3) bekezdés a) és b) pontjában foglalt esetben tizenöt napon belül,
 - b) a (3) bekezdés c) pontjában foglalt esetben 24 órán belül
 
 nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet költségére – a rendőrség hajtja végre.
@@ -132,7 +130,7 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 
 (2) A fegyveres biztonsági őr részére a hatósági szolgálati igazolványt a rendőrség a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet kezdeményezésére hivatalból állítja ki. A kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet haladéktalanul értesíti a rendőrséget arról, ha a fegyveres biztonsági őr hatósági szolgálati igazolványának visszavonására vagy bevonására okot adó körülmény bekövetkezett.
 
-(3) A rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított tíz munkanapon belül a hatósági szolgálati igazolványt határozattal
+(3) A rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított tizenöt napon belül a hatósági szolgálati igazolványt határozattal
 
 - a) visszavonja, ha
   - aa) a fegyveres biztonsági őr foglalkoztatási jogviszonya megszűnt,
@@ -164,7 +162,7 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 
 8. § (1) A fegyveres biztonsági őröket formaruhával és szolgálati jelvénnyel kell ellátni.
 
-(2) A formaruhának egyértelműen különböznie kell a Magyar Honvédség, illetve a rendvédelmi szervek egyenruhájától.
+(2) A formaruhának egyértelműen különböznie kell a Magyar Honvédség, illetve a rendvédelmi szervek egyenruhájától. E rendelkezés nem alkalmazható a Magyar Honvédség objektumait őrző fegyveres biztonsági őrség önkéntes tartalékos tagjaira.
 
 (3) A fegyveres biztonsági őrt az őrség működési területén, szolgálati úton, szállítmánykísérés során szolgálati igazolványa és jelvénye igazolja. A formaruhán ,,fegyveres biztonsági őr'' felirat helyezhető el. A munkáltatói hovatartozás a ruházat karrészén jelezhető.
 
@@ -181,7 +179,7 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 
 9. § (1) A fegyveres biztonsági őrség lőfegyverrel, lőszerrel és más kényszerítő eszközzel való ellátását a rendőrség engedélyezi.
 
-(2) A fegyveres biztonsági őrség számára – az engedélyben meghatározott mennyiségben és minőségben – a rendőrségnél rendszeresített és a 10. § (2) bekezdésben felsorolt kényszerítő eszköz, továbbá lőfegyver és lőszer vásárlása, illetve tartása engedélyezhető. A szolgálati tevékenységhez csak a rendőrség központi szerv Kutyavezető-képző Iskolája által minősített (vizsgáztatott) kutya alkalmazható.
+(2) A fegyveres biztonsági őrség számára – az engedélyben meghatározott mennyiségben és minőségben – a rendőrségnél –, illetve a Magyar Honvédség objektumait őrző fegyveres biztonsági őrség esetén a Magyar Honvédségnél – rendszeresített és a 10. § (2) bekezdésben felsorolt kényszerítő eszköz, továbbá lőfegyver és lőszer vásárlása, illetve tartása engedélyezhető. A szolgálati tevékenységhez csak a rendőrség központi szerv Kutyavezetőképző Iskolája által minősített (vizsgáztatott) kutya alkalmazható.
 
 (3) A fegyveres biztonsági őrség lőfegyvere és lőszere csak szolgálati és képzési tevékenységhez használható.
 
@@ -227,9 +225,9 @@ alkalmazhat, illetve használhat.
 
 (3) A (2) bekezdésben meghatározott esetben a cselekvőképtelen személy helyett törvényes képviselője jár el, korlátozottan cselekvőképes személy helyett törvényes képviselője vagy meghatalmazottja is eljárhat. A panasz meghatalmazott vagy jogi képviselő útján is előterjeszthető.
 
-(4) A rendőrséghez a panaszt az intézkedéstől, annak elmulasztásától vagy a kényszerítő eszköz alkalmazásától, ha pedig a panasz előterjesztője az őt ért jogsérelemről később szerzett tudomást, a tudomásszerzéstől számított öt munkanapon, de legkésőbb az intézkedéstől számított 3 hónapon belül lehet előterjeszteni.
+(4) A rendőrséghez a panaszt az intézkedéstől, annak elmulasztásától vagy a kényszerítő eszköz alkalmazásától, ha pedig a panasz előterjesztője az őt ért jogsérelemről később szerzett tudomást, a tudomásszerzéstől számított nyolc napon, de legkésőbb az intézkedéstől számított 3 hónapon belül lehet előterjeszteni.
 
-(5) A rendőrség a panaszról a beérkezéstől számított tíz munkanapon belül – a közigazgatási hatósági eljárás szabályai szerint – dönt.
+(5) A rendőrség a panaszról a beérkezését követő naptól számított tizenöt napon belül – a közigazgatási hatósági eljárás szabályai szerint – dönt.
 
 10/B. § A fegyveres biztonsági őrség tevékenysége során együttműködik a katasztrófavédelemmel, a vám- és pénzügyőrséggel, a hivatásos állami és önkormányzati tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, valamint a társadalmi szervezetekkel.
 
@@ -291,7 +289,7 @@ alkalmazhat, illetve használhat.
 
 (2) A természetvédelmi őrszolgálat és az önkormányzati természetvédelmi őrszolgálat haladéktalanul értesíti a természetvédelemért felelős minisztert arról, ha a természetvédelmi őr vagy az önkormányzati természetvédelmi őr hatósági szolgálati igazolványának visszavonására okot adó körülmény bekövetkezett.
 
-(3) A természetvédelemért felelős miniszter haladéktalanul, de legkésőbb a tudomásra jutástól számított tíz munkanapon belül a hatósági szolgálati igazolványt határozattal visszavonja, ha
+(3) A természetvédelemért felelős miniszter haladéktalanul, de legkésőbb a tudomásra jutástól számított tizenöt napon belül a hatósági szolgálati igazolványt határozattal visszavonja, ha
 
 - a) a természetvédelmi őr vagy az önkormányzati természetvédelmi őr foglalkoztatási jogviszonya megszűnt,
 - b) a hatósági szolgálati igazolványban szereplő adatok megváltoztak.
@@ -417,11 +415,11 @@ alkalmazhat, illetve használhat.
 
 (4)
 
-(5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a honvédelemért felelős miniszterrel és a polgári nemzetbiztonsági szolgálatokat irányító miniszterrel egyetértésben rendelettel adja ki a fegyveres biztonsági őrség működési és szolgálati szabályzatát. A szabályzat tartalmazza a szolgálatra vonatkozó irányítási, szervezési, tervezési, ellenőrzési, képzési és továbbképzési, szolgálatellátási renddel, a kényszerítő eszközök – különös tekintettel a lőfegyver – alkalmazásával kapcsolatos részletes szabályokat, valamint a 7. §-ban előírt vizsga követelményeit.
+(5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a honvédelemért felelős miniszterrel, a polgári hírszerzési tevékenység irányításáért felelős miniszterrel és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben rendelettel adja ki a fegyveres biztonsági őrség működési és szolgálati szabályzatát. A szabályzat tartalmazza a szolgálatra vonatkozó irányítási, szervezési, tervezési, ellenőrzési, képzési és továbbképzési, szolgálatellátási renddel, a kényszerítő eszközök – különös tekintettel a lőfegyver – alkalmazásával kapcsolatos részletes szabályokat, valamint a 7. §-ban előírt vizsga követelményeit.
 
 (6) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a rendészetért felelős miniszterrel – a közúton a jármű megállításával és ellenőrzésével kapcsolatban a közlekedésért felelős miniszterrel – egyetértésben rendelettel adja ki a mezőőr és a hegyőr működésének, szolgálati viszonyának, valamint vizsgáztatási rendjének szabályzatát.
 
-(7) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az államháztartásért felelős miniszterrel együttes rendeletben állapítsa meg az önkormányzati mezei őrszolgálat megalakításához, fenntartásához és működéséhez nyújtandó állami hozzájárulás igénybevételének rendjét és feltételeit, valamint a hozzájárulás legmagasabb mértékét.
+(7) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az államháztartásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg az önkormányzati mezei őrszolgálat megalakításához, fenntartásához és működéséhez nyújtandó állami hozzájárulás igénybevételének rendjét és feltételeit, valamint a hozzájárulás legmagasabb mértékét.
 
 (8)
 

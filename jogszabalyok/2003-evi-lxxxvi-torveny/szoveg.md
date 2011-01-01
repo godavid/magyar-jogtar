@@ -74,7 +74,7 @@ csökkentheti.
 
 (5) Az a hozzájárulásra kötelezett, aki a szakképzési hozzájárulási kötelezettségének a (2)–(4) bekezdések alapján nem teljes egészében tett eleget, a még fennmaradó kötelezettségét az Szt. 2. §-a (5) bekezdésében meghatározott térségi integrált szakképző központ (a továbbiakban: térségi integrált szakképző központ) részét képező iskolai rendszerű szakképzést folytató intézményben, valamint a speciális szakiskolában és készségfejlesztő speciális szakiskolában folytatott gyakorlati oktatás és gyakorlati képzés, továbbá a felsőoktatási intézményben az Ftv. hatálya alá tartozó gyakorlati képzés tárgyi feltételeinek fejlesztését – tárgyieszköz-beszerzést – közvetlenül szolgáló felhalmozási támogatás (a továbbiakban: fejlesztési támogatás) nyújtásával is teljesítheti. A hozzájárulásra kötelezett a fejlesztési támogatást az Szt. 2. §-a (5) bekezdésének b)–c) pontjában meghatározott intézmény fenntartójának, az Szt. 2. §-a (5) bekezdésének a) pontjában meghatározott társulásnak, nonprofit gazdasági társaságnak és az Szt. 2. §-a (5) bekezdésének d) pontjában meghatározott szakképzés-szervezési társaságnak adhatja át, ha a térségi integrált szakképző központ keretei között működő szakképzési feladatot ellátó intézmény vagy intézmények nappali rendszerű iskolai oktatásban részt vevő szakképző iskolai tanulóinak létszáma – az iskola hivatalos statisztikai jelentése szerint három tanítási év átlagában – legalább 1500 fő. A hozzájárulásra kötelezett a fejlesztési támogatást a speciális szakiskolának és készségfejlesztő speciális szakiskolának, valamint a felsőoktatási intézménynek az Ftv. hatálya alá tartozó gyakorlati képzés támogatására is átadhatja. A fejlesztési támogatást szakképzési hozzájárulásként a bérjárulékok között kell elszámolni. A fejlesztési támogatás összege csak a hozzájárulásra kötelezettnél képződött bruttó kötelezettség 60 százalékának megfelelő mértékig vehető figyelembe kötelezettségcsökkentő tételként. A felsőoktatási intézmény számára nyújtott fejlesztési támogatás a bruttó kötelezettség legfeljebb 30 százaléka lehet.
 
-(6) Az (5) bekezdés alapján nyújtott fejlesztési támogatásból megvalósított, a szakképző iskolában szervezett gyakorlati oktatást és gyakorlati képzést, a központi képzőhelyen a szakképző iskolai tanulók gyakorlati oktatását és gyakorlati képzését, valamint az Ftv. hatálya alá tartozó gyakorlati képzést szolgáló tárgyi eszköz működtetési költségeinek finanszírozására a fejlesztési támogatásnak legfeljebb 15 százaléka, továbbá a szakképző iskolák és a felsőoktatási intézmények esetében a szakképzés korszerűsítéséhez szükséges tananyag- és taneszközfejlesztéshez, valamint a szakmai elméleti és gyakorlati tantárgyakat oktató tanárok, szakoktatók és gyakorlati oktatók akkreditált továbbképzéséhez a fejlesztési támogatás 5 százaléka használható fel. Az Szt. 2. § (5) bekezdésének a) és d) pontjaiban meghatározott társulás, nonprofit gazdasági társaság, kiemelkedően közhasznú nonprofit gazdasági társaság, valamint az Szt. 2. § (5) bekezdés b) és c) pontjaiban meghatározott intézmény fenntartója esetében az átvett fejlesztési támogatás 3 százaléka az (5) bekezdésben meghatározott fejlesztési támogatás fogadásával, nyilvántartásával és elszámolásával kapcsolatosan a külön jogszabályban meghatározott feladatok elvégzésének működtetési költségeire használható fel.
+(6) Az (5) bekezdés alapján nyújtott fejlesztési támogatásból megvalósított, a szakképző iskolában szervezett gyakorlati oktatást és gyakorlati képzést, a központi képzőhelyen a szakképző iskolai tanulók gyakorlati oktatását és gyakorlati képzését, valamint az Ftv. hatálya alá tartozó gyakorlati képzést szolgáló tárgyi eszköz működtetési költségeinek és a gyakorlati képzés során felhasznált anyagköltség finanszírozására a fejlesztési támogatásnak legfeljebb 20 százaléka, továbbá a szakképző iskolák és a felsőoktatási intézmények esetében a szakképzés korszerűsítéséhez szükséges tananyag- és taneszközfejlesztéshez, valamint a szakmai elméleti és gyakorlati tantárgyakat oktató tanárok, szakoktatók és gyakorlati oktatók akkreditált továbbképzéséhez a fejlesztési támogatás 5 százaléka használható fel. Az Szt. 2. § (5) bekezdésének a) és d) pontjaiban meghatározott társulás, nonprofit gazdasági társaság, kiemelkedően közhasznú nonprofit gazdasági társaság, valamint az Szt. 2. § (5) bekezdés b) és c) pontjaiban meghatározott intézmény fenntartója esetében az (5) bekezdésben meghatározott fejlesztési támogatás fogadásával, nyilvántartásával és elszámolásával kapcsolatosan a külön jogszabályban meghatározott feladatok elvégzésének működtetési költségeire, továbbá az Szt. 2. § (5) bekezdésének a) és d) pontjaiban meghatározott társulás, nonprofit gazdasági társaság, kiemelkedően közhasznú nonprofit gazdasági társaság nappali rendszerű iskolai oktatáshoz kapcsolódó szakképzési feladatainak térségi integrált szakképző központ keretében történő megszervezésével összefüggő működtetési költségeire az átvett fejlesztési támogatás legfeljebb 35 százaléka használható fel.
 
 (7) A gyakorlati képzésnek több hozzájárulásra kötelezett által közösen működtetett, közös tulajdonukban lévő vagy általuk közösen bérelt gyakorlati képzési célú létesítményben (üzemközi tanműhelyben) történő megszervezése esetén a hozzájárulásra kötelezett a (2) bekezdésben meghatározott tételekkel – számla alapján a saját tanulója arányában – csökkentheti a bruttó kötelezettségét.
 
@@ -273,24 +273,24 @@ maga állapítja meg és vallja be az adóévet követő év második hónap 25.
 
 - a) a költségvetési törvény által előírt európai uniós társfinanszírozási kötelezettség keretében a szakképzési és felnőttképzési intézkedésekre biztosított összeggel, valamint a Kormány által elrendelt szakképzéssel összefüggő, központi program teljesítését szolgáló előirányzattal,
 - b) a szakképzési hozzájárulásra kötelezettek visszatérítési igényeinek kielégítésére biztosított keretösszeggel,
-- c) a szakképzési hozzájárulás, valamint a szakképzési és felnőttképzési célú támogatások lebonyolításával és kezelésével összefüggő nyilvántartási, felhasználási, beszedési, szerződéskötési, finanszírozási, ellenőrzési, a pénzügyi garanciák érvényesítési feladatait ellátó szervezet működtetésére és fejlesztésére, valamint a szakképzési és felnőttképzési tanács működtetésére, továbbá a Regionális Fejlesztési és Képzési Bizottságoknak a 13. § (2) bekezdésben előírt feladatai ellátásának finanszírozására a tárgyévi eredeti bevételi előirányzat 3 százalékának megfelelő összeggel,
+- c)
 - d) a határon túli magyarok szakképzése, felsőoktatása és felnőttképzése támogatására a bevételi előirányzat 2 százalékának megfelelő összeggel,
 - e) a közoktatási intézményben nappali rendszerű iskolai oktatásban szakképzési évfolyamon szakiskolai képzésben részt vevő, tanulói jogviszonyban lévő, a gazdaság által az adott régióban igényelt szakképesítéseket tanulókat megillető szakiskolai tanulmányi ösztöndíj és az ezzel összefüggésben felmerült – a külön kormányrendeletben meghatározott – költségek támogatására a költségvetési évre megállapított keretösszeggel,
 - f) a Nemzeti Tehetség Programról szóló külön jogszabályban meghatározott célok megvalósításához szükséges feladatok támogatására a tárgyévi eredeti bevételi előirányzat 3 százalékának megfelelő összeggel,
-- g) a régiók számára decentralizált keretként biztosított, az a)–f) pontok levonását követően fennmaradó keretösszeg felével,
-- h) a felnőttképzési célok támogatására szolgáló, az a)–g) pontok levonását követően fennmaradó keretösszeg felével, valamint
+- g) a felnőttképzési célok támogatására szolgáló, az a)–f) pontok levonását követően fennmaradó keretösszeg felével,
+- h) a régiók számára decentralizált keretként biztosított, az a)–g) pontok levonását követően fennmaradó keretösszeg egyharmadával,
 - i) a szakiskolai fejlesztési programra és az Útravaló Ösztöndíjprogram Út a szakmához alprogramjára az oktatásért felelős miniszter és a szakképzésért és felnőttképzésért felelős miniszter által együttesen a költségvetési évre megállapított keretösszeggel,
 - j) a szakmai vizsgát szervező intézmény vizsgaszervezési tevékenységének ellenőrzésére a szakmai vizsga szervezését engedélyező hivatalnak biztosított, az oktatásért felelős miniszter és a szakképzésért és felnőttképzésért felelős miniszter által együttesen a költségvetési évre megállapított keretösszeggel.
 
-(3) A (2) bekezdés szerinti csökkentő tételek levonását követően a bevételi előirányzat fennmaradó keretösszegének 70 százaléka az oktatásért felelős miniszter, 30 százaléka a szakképzésért és felnőttképzésért felelős miniszter rendelkezési jogkörében használható fel.
+(3) A (2) bekezdés szerinti csökkentő tételek levonását követően a bevételi előirányzat fennmaradó keretösszegének 50 százaléka az oktatásért felelős miniszter, 50 százaléka a szakképzésért és felnőttképzésért felelős miniszter rendelkezési jogkörében használható fel.
 
-(4) A (2) bekezdés h) pontjában meghatározott keretösszeg, valamint a (3) bekezdésben meghatározott keretösszeg együttesen az alaprésznek a szakképzésért és felnőttképzésért felelős miniszter rendelkezési jogkörébe tartozó központi keretét képezi.
+(4) A (2) bekezdés g) pontjában meghatározott keretösszeg, valamint a (3) bekezdésben meghatározott keretösszeg együttesen az alaprésznek a szakképzésért és felnőttképzésért felelős miniszter rendelkezési jogkörébe tartozó központi keretét képezi.
 
-(5) A bevételi előirányzatot meghaladó többletbevétel 55 százaléka az oktatásért felelős miniszter, 45 százaléka a szakképzésért és felnőttképzésért felelős miniszter rendelkezési jogkörében használható fel.
+(5) A bevételi előirányzatot meghaladó többletbevétel 50 százaléka az oktatásért felelős miniszter, 50 százaléka a szakképzésért és felnőttképzésért felelős miniszter rendelkezési jogkörében használható fel.
 
 (6) A (3) és az (5) bekezdésben meghatározott aránytól az oktatásért felelős miniszter és a szakképzésért és felnőttképzésért felelős miniszter együttes döntésével el lehet térni.
 
-(7) A (2) bekezdés d) pontjában meghatározott keretösszeget át kell csoportosítani a külön jogszabályban meghatározott Szülőföld Alapba.
+(7) A (2) bekezdés d) pontjában meghatározott keretösszeget át kell csoportosítani a külön jogszabályban meghatározott Bethlen Gábor Alapba.
 
 (8) A (2) bekezdés f) pontjában meghatározott keretösszeg, valamint a (3) bekezdésben meghatározott keretösszeg együttesen alkotják az alaprésznek az oktatásért felelős miniszter rendelkezési jogkörében felhasználható keretösszegét.
 
@@ -301,7 +301,7 @@ maga állapítja meg és vallja be az adóévet követő év második hónap 25.
 
 használható fel.
 
-(2) A bevételi előirányzat terhére, az Alap működési alaprészéből – a költségvetési törvényben meghatározott összegben – kell biztosítani az állami szakképzési és felnőttképzési intézet alapfeladatai ellátásához szükséges pénzeszközöket.
+(2)
 
 (3) Az alaprésznek az oktatásért felelős miniszter rendelkezési jogkörébe tartozó része
 
@@ -320,7 +320,7 @@ használható fel.
 
 használható fel.
 
-(4) A 9. § (2) bekezdés g) pontja szerinti decentralizált keret
+(4) A 9. § (2) bekezdés h) pontja szerinti decentralizált keret
 
 - a) a 14. § (1) és (10) bekezdése szerinti célok, valamint
 - b) a 14. § (1) bekezdés b)–e) pontja szerint beruházási célú támogatásra jogosultnál a szakképzés korszerűsítéséhez szükséges tananyag- és taneszközfejlesztés, továbbá az elméleti, gyakorlati tantárgyakat oktató tanárok, szakoktatók, gyakorlati oktatók akkreditált továbbképzésének
@@ -418,7 +418,9 @@ A Tanács
 
 (6) A megyék és a főváros regionális besorolása a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény alapján meghatározott régiók szerint történik.
 
-(7) A bizottság működéséhez szükséges feltételek biztosításáról a szakképzésért és felnőttképzésért felelős miniszter a közoktatási feladatkörében eljáró oktatási hivatal útján gondoskodik.
+(7) A bizottság működésével, a hatáskörébe tartozó döntések, javaslatok, állásfoglalások előkészítésével és a végrehajtással, valamint működtetési költségeinek felhasználásával kapcsolatos feladatokat a bizottság munkaszervezeteként az állami foglalkoztatási szerv látja el.
+
+(8) A bizottság a (2) bekezdés b) és j) pontokban szereplő döntéseit a Magyar Kereskedelmi és Iparkamara javaslatának figyelembevételével hozza meg.
 
 14. § (1) Az alaprész pénzeszközeiből támogatható
 

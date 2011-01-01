@@ -1087,7 +1087,7 @@ működtetésére vonatkozó engedély
 
 (4) Az átviteli rendszerirányítói, elosztó hálózati, egyetemes szolgáltatói, szervezett villamosenergia-piaci engedélyes esetében a Gt. 55. § (1) bekezdésében meghatározott uralmi szerződést érvényesen nem lehet kötni, és ezen engedélyesekre nem alkalmazható a Gt. 64. §-a.
 
-93. § (1) A szerző fél köteles a Hivatalnak haladéktalanul bejelenteni, ha bármely villamosenergia-ipari vállalkozásban a közvetlenül és közvetve birtokolt, szavazati jogot biztosító részvényének, üzletrészének, szavazati jogának vagy közvetlen és közvetett befolyásának aránya eléri vagy meghaladja a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 61. § (3) bekezdésében meghatározott mértéket. A Hivatal köteles a bejelentés tudomásulvételét a bejelentést, információ kérés esetén pedig a Hivatal által kért információk megérkezését követő naptól számított 30 munkanapon belül visszaigazolni. A szavazati jogra, a közvetett befolyásra, a befolyásszerzésre, azok mértékére, az összehangoltan eljáró személyekre és a bejelentés tartalmára vonatkozóan a Tpt. rendelkezéseit kell megfelelően alkalmazni.
+93. § (1) A szerző fél köteles a Hivatalnak haladéktalanul bejelenteni, ha bármely villamosenergia-ipari vállalkozásban a közvetlenül és közvetve birtokolt, szavazati jogot biztosító részvényének, üzletrészének, szavazati jogának vagy közvetlen és közvetett befolyásának aránya eléri vagy meghaladja a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 61. § (3) bekezdésében meghatározott mértéket. A Hivatal köteles a bejelentés tudomásulvételét a bejelentést, információ kérés esetén pedig a Hivatal által kért információk megérkezését követő naptól számított negyven napon belül visszaigazolni. A szavazati jogra, a közvetett befolyásra, a befolyásszerzésre, azok mértékére, az összehangoltan eljáró személyekre és a bejelentés tartalmára vonatkozóan a Tpt. rendelkezéseit kell megfelelően alkalmazni.
 
 (2) Bármely villamosenergia-ipari vállalkozásban a szavazatok 25%-át, 50%-át vagy 75%-át meghaladó szavazati jog vagy befolyás szerzéséhez és az ehhez fűződő jogok gyakorlásához a Hivatal előzetes hozzájárulása is szükséges.
 
@@ -1231,7 +1231,7 @@ biztosítása érdekében
 
 106. § (1) A hazai termelői kapacitásokhoz való hozzáférés biztosítása érdekében a 20 MW-ot meghaladó névleges teljesítőképességű termelői engedélyes és a termelői kapacitással, illetve energiával rendelkező villamosenergia-kereskedő a következő naptári évre rendelkezésére álló – tárgyév szeptember 25-éig más módon nem értékesített – szabad kapacitást és energiát – a (7) bekezdés szerinti eltéréssel – köteles nyilvánosan, mindenki számára hozzáférhető módon értékesíteni. Több termelői engedélyes és villamosenergia-kereskedő (a továbbiakban együtt: értékesítésre kötelezett) közös eljárás keretében is értékesítheti a rendelkezésére álló szabad kapacitást és energiát.
 
-(2) Az értékesítésre kötelezett tárgyév október 1-jéig jóváhagyásra benyújtja a Hivatalhoz az értékesíteni kívánt mennyiséget, és az értékesítés részletes szabályait. A Hivatal e bekezdés szerinti jóváhagyásra irányuló eljárásának ügyintézési határideje 15 munkanap.
+(2) Az értékesítésre kötelezett tárgyév október 1-jéig jóváhagyásra benyújtja a Hivatalhoz az értékesíteni kívánt mennyiséget, és az értékesítés részletes szabályait. A Hivatal e bekezdés szerinti jóváhagyásra irányuló eljárásának ügyintézési határideje húsz nap.
 
 (3) Az értékesítésre kötelezett tárgyév október 25-ig nyilvánosságra hozza az (1) bekezdés szerint értékesítésre kerülő kapacitást és energiamennyiséget, valamint az értékesítés Hivatal által jóváhagyott szabályait.
 
@@ -1343,7 +1343,7 @@ biztosítása érdekében
 
 117. § (1)
 
-(2) A Hatóság eljárása során az ügyintézés határideje 45 munkanap.
+(2) A Hatóság eljárása során az ügyintézés határideje két hónap.
 
 (3) Az építésügyi hatósági engedélyezési eljárásokban a villamosmű, termelői vezeték, magánvezeték, a közvetlen vezeték, valamint ezek biztonsági övezetében lévő ingatlan tulajdonosa és az, akinek az ilyen ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték, ügyfélnek minősül.
 
@@ -1351,7 +1351,7 @@ biztosítása érdekében
 
 (5) A villamosmű, termelői vezeték, magánvezeték és a közvetlen vezeték építésére, üzemeltetésére, használatbavételére, fennmaradására és megszüntetésére vonatkozó hatósági határozatban foglalt jogosultságot vagy kötelezettséget – indokolt esetben – a határozat közlésétől számított két éven belül kérelemre vagy hivatalból módosítani lehet.
 
-118. § A villamosmű, a termelői vezeték, magánvezeték és a közvetlen vezeték a miniszter – a közlekedésért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint a területfejlesztésért és területrendezésért felelős miniszterrel együttesen kiadott – rendeletében meghatározott módon nyomvonalas létesítményt, folyót, vízfolyást, tavat, csatornát és építményt megközelíthet, illetve keresztezhet.
+118. § A villamosmű, a termelői vezeték, magánvezeték és a közvetlen vezeték a miniszter – a közlekedésért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, a területfejlesztésért felelős miniszter és a területrendezésért felelős miniszter egyetértésével kiadott kiadott – rendeletében meghatározott módon nyomvonalas létesítményt, folyót, vízfolyást, tavat, csatornát és építményt megközelíthet, illetve keresztezhet.
 
 #### 119. §
 
@@ -1781,7 +1781,7 @@ villamos energia képezi.
 
 (4) A Hivatal kérelemre indult eljárásáért igazgatási-szolgáltatási díjat kell fizetni.
 
-(5) Az igazgatási-szolgáltatási díj és a bírságok mértékét, továbbá a díjak és egyéb bevételek fizetésére vonatkozó részletes szabályokat a miniszter az adópolitikáért felelős miniszterrel és a közigazgatási informatikáért felelős miniszterrel egyetértésben rendeletben állapítja meg.
+(5) Az igazgatási-szolgáltatási díj és a bírságok mértékét, továbbá a díjak és egyéb bevételek fizetésére vonatkozó részletes szabályokat a miniszter az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 
 (6)–(7)
 
@@ -1888,14 +1888,14 @@ villamos energia képezi.
 - a) amennyiben e törvény eltérő rendelkezést nem tartalmaz, három hónap,
 - b) amennyiben a Hivatal
   - ba) a hálózathoz való csatlakozásra, vagy a hálózathoz való hozzáférésre vonatkozó rendelkezések megsértése ügyében, valamint
-  - bb) a 159. § s)–sz) pontjaiban meghatározott hatáskörében, jár el, 45 munkanap,
-- c) a korlátozott villamos energia kereskedelmi engedélyezési ügyekben 22 munkanap,
-- d) amennyiben a Hivatal a határkeresztező kapacitások elosztásának, az 1228/2003/EK rendelet 6. cikke szerinti kezelésére vonatkozó eljárással összefüggésben a rendszerhasználó kérelmére indult eljárásban jár el, 22 munkanap,
-- e) amennyiben a Hivatal a 107. § (2) bekezdés vagy a 108. § alapján jár el hat hónap, amely egy alkalommal három hónappal meghosszabbítható.
+  - bb) a 159. § s)–sz) pontjaiban meghatározott hatáskörében, jár el, két hónap,
+- c) a korlátozott villamos energia kereskedelmi engedélyezési ügyekben harminc nap,
+- d) amennyiben a Hivatal a határkeresztező kapacitások elosztásának, az 1228/2003/EK rendelet 6. cikke szerinti kezelésére vonatkozó eljárással összefüggésben a rendszerhasználó kérelmére indult eljárásban jár el, harminc nap,
+- e) amennyiben a Hivatal a 107. § (2) bekezdés vagy a 108. § alapján jár el hat hónap, amely egy alkalommal három hónappal meghosszabbítható,
 
 (5) A Hivatal az ügyfél kérelmére hatósági ellenőrzést folytathat le.
 
-(6) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a Hivatal a kérelem beérkezésétől számított 22 munkanapon belül hiánypótlásra hívja fel.
+(6) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a Hivatal a kérelem beérkezését követő naptól számított harminc napon belül hiánypótlásra hívja fel.
 
 (7) Ellenérdekű ügyfél hiányában a Hivatal eljárása során részben, vagy egészben eltekinthet a magyar nyelv kötelező használatától, valamint az iratok magyar nyelven történő benyújtásától. Ebben az esetben az iratokról magyar nyelvű összefoglalót kell benyújtani a Hivatalhoz.
 
@@ -2028,8 +2028,8 @@ rendeletben állapítsa meg.
 - 18. az elsődleges energiaforrás felhasználásának az új termelő kapacitások engedélyezése során történő korlátozásának részletes szabályait,
 - 19.
   - a) a környezetvédelemért felelős miniszterrel együttműködve az erőművek által teljesítendő, az elsődleges energiaforrás típustól függően eltérő minimális energetikai hatásfok körülményeket,
-  - b) az adópolitikáért felelős miniszterrel és a közigazgatási informatikáért felelős miniszterrel egyetértésben a Magyar Energia Hivatal részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét és a díjak, valamint az egyéb bevételek beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
-  - c) a közlekedésért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint a területfejlesztésért és területrendezésért felelős miniszterrel egyetértésben a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény hálózati engedélyesek által, a vezetékjog alapján történő megközelítésének, keresztezésének szabályait,
+  - b) az adópolitikáért felelős miniszterrel egyetértésben a Magyar Energia Hivatal részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét és a díjak, valamint az egyéb bevételek beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
+  - c) a közlekedésért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, a területfejlesztésért felelős miniszterrel és a területrendezésért felelős miniszterrel egyetértésben a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény hálózati engedélyesek által, a vezetékjog alapján történő megközelítésének, keresztezésének szabályait,
   - d) a villamosenergia-ipari tevékenységet folytató vállalkozásokkal, valamint az ilyen tevékenységet folytató vállalkozások munkavállalói érdekképviseleti szervezeteivel való együttműködés érdekében működtetett energetikai tanácsadó testületet működésének részletes feltételeit az érintett felek képviselőivel egyetértésben
 
 rendeletben állapítsa meg.
@@ -2039,12 +2039,12 @@ rendeletben állapítsa meg.
 - 1. a csatlakozó-, összekötő és felhasználói berendezések, valamint a potenciálisan robbanásveszélyes közegben működő villamos berendezések és védelmi rendszerek műszaki-biztonsági minősítésének, megfelelőségértékelésének, forgalomba hozatalának, valamint üzembe helyezésének a szabályait,
 - 2. a műszaki-biztonsági szempontból jelentős munkakörök betöltéséhez szükséges szakmai képesítést és gyakorlatot,
 - 3. a villamosmű, termelői, felhasználói vagy közvetlen vezeték műszaki-biztonsági követelményeit,
-- 4. az adópolitikáért felelős miniszterrel és a közigazgatási informatikáért felelős miniszterrel egyetértésben a műszaki biztonsági hatóság eljárásáért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
+- 4. az adópolitikáért felelős miniszterrel egyetértésben a műszaki biztonsági hatóság eljárásáért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
 - 5. a villamosművet, termelői, magán- vagy közvetlen vezetéket körülvevő biztonsági övezetre vonatkozó szabályokat, az ott érvényesítendő tilalmakat és korlátozásokat, a vezetékjog alapján építhető átalakító- és kapcsolóberendezések körét
 
 rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy – a számvitelért felelős miniszterrel, valamint a fogyasztóvédelemért felelős miniszterrel egyetértésben – rendeletben szabályozza az egyetemes szolgáltatók által alkalmazható számlaképet.
+(4) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy – a számviteli szabályozásért felelős miniszterrel, valamint a fogyasztóvédelemért felelős miniszterrel egyetértésben – rendeletben szabályozza az egyetemes szolgáltatók által alkalmazható számlaképet.
 
 ### XXI. Fejezet — ÁTMENETI RENDELKEZÉSEK
 

@@ -296,7 +296,7 @@ választ 5 éves időtartamra.
 - c) a panaszeljárásban hozott döntések elleni fellebbezésekről,
 - d) mindazon esetekben, amelyeket az alapszabály a bizottság hatáskörébe utal.
 
-(6) A fellebbviteli eljárás ügyintézési határideje harmincöt munkanap.
+(6) A fellebbviteli eljárás ügyintézési határideje negyvenöt nap.
 
 ### A pénzügyi ellenőrző bizottság
 
@@ -482,15 +482,15 @@ választ 5 éves időtartamra.
 
 19. § (1) Az akkreditálási eljárás értékelési és döntéshozatali szakaszból áll.
 
-(2) Az értékelési szakasz ügyintézési határideje öt hónap, amelyet az ügyvezető igazgató egy alkalommal tizenöt munkanappal meghosszabbíthat. Az értékelési szakasz kezdetén az Akkreditálási Iroda a kérelmet megvizsgálja és az ügyvezető igazgató
+(2) Az értékelési szakasz ügyintézési határideje öt hónap, amelyet az ügyvezető igazgató egy alkalommal húsz nappal meghosszabbíthat. Az értékelési szakasz kezdetén az Akkreditálási Iroda a kérelmet megvizsgálja és az ügyvezető igazgató
 
-- a) szükség esetén a kérelmezőt a kérelem beérkezését követő tíz munkanapon belül, legfeljebb 30 napos határidő kitűzésével hiánypótlásra hívja fel,
+- a) szükség esetén a kérelmezőt a kérelem beérkezését követő tizenöt napon belül, legfeljebb 30 napos határidő kitűzésével hiánypótlásra hívja fel,
 - b) a közigazgatási hatósági eljárás általános szabályairól szóló törvény által meghatározott esetekben a kérelmet érdemi vizsgálat nélkül elutasítja,
 - c) dönt az eljárás megindításáról.
 
-(3) Az értékelési szakasz során az akkreditálási kérelem alapján az ügyvezető igazgató minősítőkből és szakértőkből álló értékelő csoportot jelöl ki. Az értékelő csoport véleményezi a kérelmező által benyújtott dokumentációt és feltárja a hiányosságokat, nemmegfelelőségeket, amelyek fennállása esetén az ügyvezető igazgató az értékelő csoport javaslatára a kérelmezőt legfeljebb huszonkét munkanapos határidő kitűzésével a hiányosságok, nemmegfelelőségek kiküszöbölésére hívja fel.
+(3) Az értékelési szakasz során az akkreditálási kérelem alapján az ügyvezető igazgató minősítőkből és szakértőkből álló értékelő csoportot jelöl ki. Az értékelő csoport véleményezi a kérelmező által benyújtott dokumentációt és feltárja a hiányosságokat, nemmegfelelőségeket, amelyek fennállása esetén az ügyvezető igazgató az értékelő csoport javaslatára a kérelmezőt legfeljebb harmincnapos határidő kitűzésével a hiányosságok, nemmegfelelőségek kiküszöbölésére hívja fel.
 
-(4) Az értékelő csoport a kérelmezőnél helyszíni értékelést tart, amelynek eredményét jegyzőkönyvben rögzíti. Az ügyvezető igazgató az értékelő csoport jegyzőkönyvében rögzített nemmegfelelőségek, hiányosságok kiküszöbölésére a kérelmezőt legfeljebb huszonkét munkanapos határidő kitűzésével intézkedésre hívja fel.
+(4) Az értékelő csoport a kérelmezőnél helyszíni értékelést tart, amelynek eredményét jegyzőkönyvben rögzíti. Az ügyvezető igazgató az értékelő csoport jegyzőkönyvében rögzített nemmegfelelőségek, hiányosságok kiküszöbölésére a kérelmezőt legfeljebb harmincnapos határidő kitűzésével intézkedésre hívja fel.
 
 (5) Az értékelő csoport a helyszíni értékelésről készült jegyzőkönyvet, a megvizsgált dokumentációt, az értékelő jelentést, az akkreditált státusz odaítélésére, szűkítésére, bővítésére vonatkozó ajánlását az ügyvezető igazgatónak átadja, aki az értékelési szakasz befejezéséről és a kérelem döntésre való alkalmasságáról az értékelési szakasz lezárásaként végzést bocsát ki.
 
@@ -498,7 +498,7 @@ választ 5 éves időtartamra.
 
 (7) Az ügyvezető igazgató az eljárás során keletkezett iratokat döntéshozatalra az akkreditáló bizottság soron következő ülésére előterjeszti.
 
-(8) A döntéshozatali szakasz ügyintézési határideje tizenöt munkanap, amelyet az akkreditáló bizottság elnöke egy alkalommal tizenöt munkanappal meghosszabbíthat. A döntéshozatali szakaszban az akkreditáló bizottság a kérelem, az értékelési szakasz során összegyűjtött információ, a helyszíni értékelés jegyzőkönyve, az értékelő jelentés, valamint a kérelmező észrevételei alapján határoz az akkreditált státusz odaítéléséről vagy elutasításáról.
+(8) A döntéshozatali szakasz ügyintézési határideje húsz nap, amelyet az akkreditáló bizottság elnöke egy alkalommal húsz nappal meghosszabbíthat. A döntéshozatali szakaszban az akkreditáló bizottság a kérelem, az értékelési szakasz során összegyűjtött információ, a helyszíni értékelés jegyzőkönyve, az értékelő jelentés, valamint a kérelmező észrevételei alapján határoz az akkreditált státusz odaítéléséről vagy elutasításáról.
 
 (9) Az akkreditáló bizottságnak az akkreditált státusz odaítéléséről szóló határozata elismeri és igazolja, hogy egy szervezet vagy természetes személy alkalmas meghatározott megfelelőségértékelési feladat elvégzésére.
 
@@ -526,7 +526,7 @@ választ 5 éves időtartamra.
 
 (4) Az akkreditált szervezet vagy természetes személy csak azon tevékenysége vonatkozásában hivatkozhat az akkreditált státuszára, amelyre a határozat kiterjed.
 
-(5) Az akkreditált szervezet vagy természetes személy öt munkanapon belül köteles értesíteni az Akkreditálási Irodát az általa elhatározott és bekövetkező, valamint a további bekövetkezett minden jelentős változásról, amely az akkreditált státuszával kapcsolatos és valamilyen módon státuszát vagy tevékenységének bármely jellemzőjét érinti, így különösen a változást
+(5) Az akkreditált szervezet vagy természetes személy nyolc napon belül köteles értesíteni az Akkreditálási Irodát az általa elhatározott és bekövetkező, valamint a további bekövetkezett minden jelentős változásról, amely az akkreditált státuszával kapcsolatos és valamilyen módon státuszát vagy tevékenységének bármely jellemzőjét érinti, így különösen a változást
 
 - a) a jogi, tulajdonosi vagy szervezeti formában,
 - b) a szervezeti felépítésben, vezetésben vagy az akkreditált tevékenység ellátásához szükséges személyzetben,
@@ -546,15 +546,15 @@ választ 5 éves időtartamra.
 
 (3) A felügyeleti vizsgálati eljárás értékelési és döntéshozatali szakaszból áll.
 
-(4) Az értékelési szakasz ügyintézési határideje hatvan munkanap, amelyet az ügyvezető igazgató egy alkalommal tizenöt munkanappal meghosszabbíthat.
+(4) Az értékelési szakasz ügyintézési határideje nyolcvan nap, amelyet az ügyvezető igazgató egy alkalommal húsz nappal meghosszabbíthat.
 
 (5) Az ügyvezető igazgató a felügyeleti vizsgálati eljárás értékelési szakasza során dokumentumokat, egyéb információkat kérhet, valamint értékelő csoportot jelöl ki, amely helyszíni értékelést tart.
 
-(6) A felügyeleti vizsgálati eljárás során megállapított hiányosságok, nemmegfelelőségek kiküszöbölésére az értékelő csoport javaslatára az ügyvezető igazgató legfeljebb tíz munkanapos határidő kitűzésével felhívja az akkreditált szervezetet, illetve természetes személyt.
+(6) A felügyeleti vizsgálati eljárás során megállapított hiányosságok, nemmegfelelőségek kiküszöbölésére az értékelő csoport javaslatára az ügyvezető igazgató legfeljebb tizenöt napos határidő kitűzésével felhívja az akkreditált szervezetet, illetve természetes személyt.
 
 (7) Az értékelési szakasz befejezéséről az ügyvezető igazgató végzésben dönt.
 
-(8) A döntéshozatali szakasz ügyintézési határideje nyolc munkanap, amelyet az akkreditáló bizottság elnöke egy alkalommal nyolc munkanappal meghosszabbíthat.
+(8) A döntéshozatali szakasz ügyintézési határideje tíz nap, amelyet az akkreditáló bizottság elnöke egy alkalommal tíz nappal meghosszabbíthat.
 
 (9) Az akkreditáló bizottság a felügyeleti vizsgálat eredményétől függően
 

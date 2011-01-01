@@ -67,7 +67,7 @@ A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások ny
 - a) a korábban hadiipari tevékenységet végző gazdálkodó szervezetnek az állam tulajdonában lévő vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény szerinti értékesítése, illetve a gazdasági társaság átalakulása folytán létrejött gazdasági társaság,
 - b) többségi vagy közvetlen irányítást biztosító befolyással bíró tagja vagy részvényese hadiipari tevékenységet folytat.
 
-(6) Az engedélyezési eljárás ügyintézési határideje harmincöt munkanap.
+(6) Az engedélyezési eljárás ügyintézési határideje negyvenöt nap.
 
 4. § Az engedélyt vissza kell vonni, ha
 

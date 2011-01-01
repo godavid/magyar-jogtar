@@ -273,7 +273,8 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 36. § Ezen alcím rendelkezéseit
 
 - a) a váltó és csekk semmissé nyilvánítására is megfelelően alkalmazni kell azzal az eltéréssel, hogy a hirdetményi határidőt egy hónapra le kell szállítani,
-- b) az okiratok semmissé nyilvánítására is megfelelően alkalmazni kell azzal az eltéréssel, hogy a hirdetményi határidő egy hónapra leszállítható.
+- b) az okiratok semmissé nyilvánítására is megfelelően alkalmazni kell azzal az eltéréssel, hogy a hirdetményi határidő egy hónapra leszállítható,
+- c) az állam által kibocsátott, névre szóló, a Polgári Törvénykönyvről szóló törvény 338/B. § (7) bekezdése szerinti negatív rendeleti záradékkal ellátott, hitelviszonyt megtestesítő értékpapír semmissé nyilvánítására is megfelelően alkalmazni kell azzal az eltéréssel, hogy a hirdetményi határidőt egy hónapra le kell szállítani abban az esetben, amennyiben az eljárást az értékpapír első tulajdonosa, továbbá engedményezés esetén az első tulajdonos és az engedményes közösen kezdeményezi.
 
 ### A bejegyzett élettársi kapcsolat közjegyző általi megszüntetése
 
@@ -348,9 +349,9 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 - d) az az időpont, amikor az anyakönyvi bejegyzés szerint a nyilvántartásba bejegyzett élettársi kapcsolat a kérelmezők bármelyikének házassága, bejegyzett élettársi kapcsolata vagy halála miatt megszűnt,
 - e) a nyilatkozatot a nyilvántartásba bejegyző közjegyző neve, székhelye és a bejegyzésről szóló végzés ügyszáma.
 
-(5) Az élettársak közös kérelmére az élettársi nyilvántartás tartalmazza az élettársak nyilatkozatát a születendő közös gyermekeik családi nevéről.
+(5)
 
-(6) Az élettársi nyilvántartás közhitelesen tartalmazza az élettársaknak a (4) bekezdés b)–e) pontjaiban foglalt adatait és az (5) bekezdésben meghatározott nyilatkozatot.
+(6) Az élettársi nyilvántartás közhitelesen tartalmazza az élettársaknak a (4) bekezdés b)–e) pontjaiban foglalt adatait.
 
 (7) Az élettársi nyilvántartás az adatokat az élettársi kapcsolat fennállásáról szóló nyilatkozat bejegyzésének időpontjától számított 100 évig tartalmazza.
 
@@ -370,7 +371,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (7) Az eljárásban bizonyításnak nincs helye.
 
-36/G. § (1) A közjegyző tanúsítványt az érintett személy élettársi nyilvántartásban szereplő adatainak igazolása céljából kizárólag a nyilvántartásban szereplő személynek állíthat ki.
+36/G. § (1) A közjegyző kérelemre tanúsítványt állít ki az élettársi nyilvántartásban szereplő személy számára az élettársi nyilvántartásban szereplő adatainak igazolása céljából, illetve az élettársi nyilvántartásban nem szereplő személy számára annak igazolására, hogy az élettársi nyilvántartásban nem szerepel.
 
 (2) Az országos kamara az élettársi nyilvántartásból az adatigénylésre jogosult részére szolgáltathat adatokat.
 

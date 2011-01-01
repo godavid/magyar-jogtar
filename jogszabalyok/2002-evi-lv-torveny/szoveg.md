@@ -107,7 +107,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 (2) A kérelemnek a 6. § (1) és (2) bekezdésében felsorolt adatokat kell – a 6. § (1) bekezdés d), e) és n), továbbá a 6. § (2) bekezdés f) pontjaiban foglaltak kivételével – tartalmaznia. A kérelemhez csatolni kell a 6. § (1) bekezdésének c), f) és m) pontjában írtak igazolására szolgáló iratok hiteles másolatát.
 
-(3) Ha a kérelem hiányos, a miniszter a kérelmezőt 22 munkanapos határidő megjelölésével a hiányok pótlására hívja fel.
+(3) Ha a kérelem hiányos, a miniszter a kérelmezőt harmincnapos határidő megjelölésével a hiányok pótlására hívja fel.
 
 (4)
 
@@ -123,7 +123,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 10. § (1) A természetes személy közvetítői tevékenységét szüneteltetheti.
 
-(2) A természetes személy a szüneteltetés tényét a szüneteltetés megkezdését megelőző 22 munkanappal köteles bejelenteni, annak a névjegyzékben történő feltüntetése érdekében.
+(2) A természetes személy a szüneteltetés tényét a szüneteltetés megkezdését megelőző harminc nappal köteles bejelenteni, annak a névjegyzékben történő feltüntetése érdekében.
 
 (3) A természetes személy csak abban az esetben kérheti a szüneteltetést, ha folyamatban lévő közvetítői eljárásban nem vesz részt.
 
@@ -152,7 +152,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 12. § (1) A természetes személy és a jogi személy a névjegyzékből hivatalból való törlésről szóló határozat kézhezvételét követő 8 napon belül köteles a folyamatban lévő közvetítői eljárást megszüntetni és a felekkel elszámolni.
 
-(2) A miniszter a névjegyzékből való törlésről szóló határozatban a természetes személy közvetítői igazolványát visszavonja, aki azt köteles a határozat közlésétől számított 5 munkanapon belül átadni.
+(2) A miniszter a névjegyzékből való törlésről szóló határozatban a természetes személy közvetítői igazolványát visszavonja, aki azt köteles a határozat közlésétől számított nyolc napon belül átadni.
 
 ### A közvetítő továbbképzésben való részvételi, adatváltozás bejelentési, nyilvántartási
 
@@ -178,7 +178,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 15. § A közvetítő (a jogi személy nevében eljáró közvetítő esetében a jogi személy) minden tárgyévet követő év január 31. napjáig köteles adatszolgáltatást teljesíteni a miniszter részére a tárgyévben lefolytatott közvetítői eljárások, az eljárások során létrejött megállapodások számáról, az eredménytelenül zárult eljárások számáról (az ok megjelölésével) és a vita jellegéről.
 
-16. § Ha a miniszter a hivatalból indított vizsgálata során az adatváltozás bejelentésével, a nyilvántartás vezetésével vagy az adatszolgáltatási kötelezettség teljesítésével összefüggő hiányosságokat állapít meg, 22 munkanapos határidő tűzésével felhívja az érintettet a hiányok pótlására.
+16. § Ha a miniszter a hivatalból indított vizsgálata során az adatváltozás bejelentésével, a nyilvántartás vezetésével vagy az adatszolgáltatási kötelezettség teljesítésével összefüggő hiányosságokat állapít meg, harmincnapos határidő tűzésével felhívja az érintettet a hiányok pótlására.
 
 ### III. Fejezet — A KÖZVETÍTŐI MŰKÖDÉS ELLENŐRZÉSE
 
@@ -186,7 +186,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 17. § (1) A miniszter jogosult hivatalból vagy a közvetítői eljárásban érintettek (a felek, a szakértő, a közvetítői eljárásban meghallgatott más harmadik személy) bejelentése alapján a névjegyzékbe felvett természetes személynek és a jogi személynek (e fejezetben a továbbiakban: közvetítő) a közvetítéshez kapcsolódó működése rendszeres és eseti ellenőrzésére.
 
-(2) A vizsgálat megkezdéséről a közvetítőt a miniszter írásban értesíti. Ha a vizsgálat bejelentés alapján indul, a miniszter értesítésével megküldi a bejelentést tartalmazó irat másolatát is, és felhívja a közvetítőt 22 munkanapos határidővel igazoló jelentés benyújtására. A határidő kérelemre egy alkalommal további 22 munkanappal meghosszabbítható.
+(2) A vizsgálat megkezdéséről a közvetítőt a miniszter írásban értesíti. Ha a vizsgálat bejelentés alapján indul, a miniszter értesítésével megküldi a bejelentést tartalmazó irat másolatát is, és felhívja a közvetítőt harmincnapos határidővel igazoló jelentés benyújtására. A határidő kérelemre egy alkalommal további harminc nappal meghosszabbítható.
 
 (3) Az igazoló jelentés benyújtásának elmulasztása nem akadálya az eljárás lefolytatásának.
 

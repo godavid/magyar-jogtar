@@ -524,7 +524,7 @@ ha az (1)–(2) bekezdésben foglalt kötelezettséget önként nem teljesítik.
 
 (4) A települési önkormányzat a (3) bekezdés szerinti feladathoz kötött támogatásra csak akkor jogosult, ha a közszolgáltatás ellátására vonatkozó – e törvényben és más jogszabályokban meghatározott – kötelezettségeinek maradéktalanul eleget tesz.
 
-(5) Amennyiben a települési önkormányzat a közszolgáltatás ellátására vonatkozó kötelezettségének nem tesz eleget, a közigazgatási hivatal kezdeményezi, hogy a (3) bekezdés szerinti feladathoz kötött költségvetési támogatást az azt folyósító szervezet a közszolgáltatás megszervezéséig visszatartsa, illetve zárolja.
+(5) Amennyiben a települési önkormányzat a közszolgáltatás ellátására vonatkozó kötelezettségének nem tesz eleget, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv kezdeményezi, hogy a (3) bekezdés szerinti feladathoz kötött költségvetési támogatást az azt folyósító szervezet a közszolgáltatás megszervezéséig visszatartsa, illetve zárolja.
 
 (6) A több települési önkormányzat feladatait megvalósító, illetőleg térségi feladatokat ellátó hulladékkezelési létesítmények beruházásai, valamint a betelt hulladéklerakók felülvizsgálatot követő lezárása, területének újrahasznosításra alkalmassá tétele, természeti környezetbe illesztése (rekultivációja) – külön jogszabály szerint – állami támogatásban részesíthető.
 
@@ -730,11 +730,11 @@ kell csökkenteni.
 - a) az élelmiszerlánc-felügyeletért felelős miniszter, hogy
   - aa) az állati gyógyszerek és csomagolásuk hulladékai kezelésének részletes szabályait,
   - ab) a mezőgazdasági nem veszélyes hulladékok kezelésének részletes szabályait;
-- b) az egészségügyi feladatok ellátásáért felelős miniszter, hogy
+- b) az egészségügyért felelős miniszter, hogy
   - ba) a humán gyógyszerek és csomagolásuk hulladékai kezelésének részletes szabályait,
   - bb) az egészségügyi hulladék kezelésének részletes szabályait,
   - bc) a települési szilárd és folyékony hulladékkal kapcsolatos közegészségügyi követelményeket;
-- c) a bányászatért felelős miniszter, hogy az ásványi alapanyagok kitermeléséből származó hulladék kezelésének részletes szabályait;
+- c) a bányászati ügyekért felelős miniszter, hogy az ásványi alapanyagok kitermeléséből származó hulladék kezelésének részletes szabályait;
 - d)
 
 rendeletben állapítsa meg.

@@ -35,7 +35,7 @@ a lőfegyverekről és lőszerekről
 - 23. lőszeralkatrész (lőszerelem): lőpor, gyúelegyes töltényhüvely (csappantyús töltényhüvely), csappantyú és minden robbanó, gyújtó, fényjelző, páncéltörő és leváló köpenyes lövedék, melyet tűzfegyverből történő kilövésre terveztek;
 - 24. muzeális fegyver és lőszer: az elöltöltő fegyver, továbbá a korszerű perem vagy központi, illetve elektromos gyújtású lőszer használatára alkalmatlan tűzfegyver, és az ilyen fegyverekhez használható 1945 előtt gyártott lőszer;
 - 25. nyomjelző (fényjelző) lövedékű lőszer: olyan lőszer, melynek lövedéke a röppályát láthatóvá tevő, meggyulladó anyagot is tartalmaz;
-- 26. rendvédelmi szervek: a rendőrség, a Rendvédelmi Szervek Védelmi Szolgálata, a Vám- és Pénzügyőrség és a büntetés-végrehajtás szervei;
+- 26. rendvédelmi szervek: a rendőrség, a Vám- és Pénzügyőrség és a büntetés-végrehajtás szervei;
 - 27. robbanó lövedékeket tartalmazó lőszer: olyan lőszer, amelynek lövedéke becsapódáskor felrobbanó töltetet tartalmaz;
 - 28. rövid lőfegyver: olyan lőfegyver, amelynek csöve nem haladja meg a 30 cm hosszúságot, vagy amelynek teljes hossza nem haladja meg a 60 centimétert;
 - 29. tűzfegyver: olyan, a törvény mellékletének ,,A'', ,,B'', ,,C'' vagy ,,D'' kategóriájában meghatározott eszköz, amelyből a kiterjedő forró gáz tolóereje által meghajtott szilárd anyagú lövedék lőhető ki, kivéve, ha
@@ -142,7 +142,7 @@ foglaltakat kell alkalmazni.
 
 személy lehet.
 
-(3) A színházi fegyverek kezeléséért és tárolásáért felelősnek jelölt személyt az (1) bekezdésben meghatározott engedély iránti kérelem benyújtásával egyidejűleg – ha az engedéllyel rendelkező a színházi fegyverek kezeléséért és tárolásáért felelős új személyt kíván megbízni, e megbízásra irányuló jogviszony létesítését huszonkét munkanappal megelőzően – a rendőrségnek be kell jelenteni.
+(3) A színházi fegyverek kezeléséért és tárolásáért felelősnek jelölt személyt az (1) bekezdésben meghatározott engedély iránti kérelem benyújtásával egyidejűleg – ha az engedéllyel rendelkező a színházi fegyverek kezeléséért és tárolásáért felelős új személyt kíván megbízni, e megbízásra irányuló jogviszony létesítését harminc nappal megelőzően – a rendőrségnek be kell jelenteni.
 
 (4) A (3) bekezdésben meghatározott bejelentéssel egyidejűleg a színházi fegyverek kezeléséért és tárolásáért felelősnek jelölt személy hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű.
 
@@ -155,9 +155,9 @@ személy lehet.
 
 kezeli.
 
-(7) Ha az (5) bekezdés szerinti hatósági ellenőrzés során a rendőrség megállapítja, hogy a színházi fegyverek kezeléséért és tárolásáért felelős személy büntetett előéletű, erről a tényről haladéktalanul értesíti a színházi fegyver tartására engedéllyel rendelkezőt, és ezzel egyidejűleg felhívja, hogy az értesítés kézbesítésétől számított tíz munkanapon belül a színházi fegyverek kezeléséért és tárolásáért felelős személy e megbízatására irányuló jogviszonyát szüntesse meg, és a megszüntetés tényéről – a színházi fegyverek kezeléséért és tárolásáért felelősnek jelölt, e törvényben meghatározott feltételeknek megfelelő személy bejelentésével egyidejűleg – a rendőrséget értesítse.
+(7) Ha az (5) bekezdés szerinti hatósági ellenőrzés során a rendőrség megállapítja, hogy a színházi fegyverek kezeléséért és tárolásáért felelős személy büntetett előéletű, erről a tényről haladéktalanul értesíti a színházi fegyver tartására engedéllyel rendelkezőt, és ezzel egyidejűleg felhívja, hogy az értesítés kézbesítésétől számított tizenöt napon belül a színházi fegyverek kezeléséért és tárolásáért felelős személy e megbízatására irányuló jogviszonyát szüntesse meg, és a megszüntetés tényéről – a színházi fegyverek kezeléséért és tárolásáért felelősnek jelölt, e törvényben meghatározott feltételeknek megfelelő személy bejelentésével egyidejűleg – a rendőrséget értesítse.
 
-(8) Ha a színházi fegyver tartására engedéllyel rendelkező a (7) bekezdés szerinti értesítési és bejelentési kötelezettségének a rendőrség (7) bekezdés szerinti értesítésének kézbesítésétől számított huszonkét munkanapon belül nem tesz eleget, a rendőrség az engedélyt visszavonja.
+(8) Ha a színházi fegyver tartására engedéllyel rendelkező a (7) bekezdés szerinti értesítési és bejelentési kötelezettségének a rendőrség (7) bekezdés szerinti értesítésének kézbesítésétől számított harminc napon belül nem tesz eleget, a rendőrség az engedélyt visszavonja.
 
 4. § (1) Jogszabály eltérő rendelkezése hiányában nem engedélyezhető:
 

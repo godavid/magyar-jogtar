@@ -284,7 +284,7 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 (3) A földhasználati nyilvántartásban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki az adatok helyességét, valósággal egyezőségét vitatja.
 
-25/B. § (1) Az ingatlanügyi hatóság az illetékességi területéhez tartozó termőföldekről, valamint a mező- vagy erdőgazdasági művelés alatt álló belterületi földek használatáról – ide nem értve az erdő művelési ágban nyilvántartott földrészleteket – önálló nyilvántartást vezet, amelynek alapja a közhiteles ingatlan-nyilvántartás. A földhasználati nyilvántartás tartalmazza a földrészletek ingatlan-nyilvántartás szerinti helyrajzi számát, alrészleteit, hektárban a terület nagyságát, aranykoronában a termőföld értékét, a földrészlet (alrészlet) vagy földrészletek magánszemély használójának természetes személyazonosító adatait, illetőleg a gazdálkodó szervezet használó megnevezését, székhelyét (telephelyét), statisztikai számjelét, a használat jogcímét, határozott időre kötött szerződés esetén a használat időtartamát.
+25/B. § (1) Az ingatlanügyi hatóság az illetékességi területéhez tartozó termőföldekről, valamint a mező- vagy erdőgazdasági művelés alatt álló belterületi földek használatáról – ide nem értve az erdő művelési ágban nyilvántartott földrészleteket – önálló nyilvántartást vezet, amelynek alapja a közhiteles ingatlan-nyilvántartás. A földhasználati nyilvántartás tartalmazza a földrészletek ingatlan-nyilvántartás szerinti helyrajzi számát, alrészleteit, hektárban a terület nagyságát, aranykoronában a termőföld értékét, a földrészlet (alrészlet) vagy földrészletek magánszemély használójának természetes személyazonosító adatait, illetőleg a gazdálkodó szervezet használó megnevezését, székhelyét (telephelyét), statisztikai számjelét, a használat jogcímét, határozott időre kötött szerződés esetén a használat időtartamát. A számítógépes földhasználati nyilvántartási rendszer kezelése, működtetése – függetlenül annak tényleges elhelyezésétől – a földmérési és térinformatikai államigazgatási szervezet feladatkörébe tartozik.
 
 (2) Aki termőföldet használ, s annak területe – a földrészletek számától függetlenül – az egy hektárt meghaladja, köteles a használatot annak megkezdésétől számított harminc napon belül az ingatlanügyi hatósághoz nyilvántartásba vétel céljából – a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott formanyomtatványon (bejelentési adatlapon) – bejelenteni. Ha a használó nem a tulajdonos, illetőleg haszonélvezet fennállása esetén nem a haszonélvező, a bejelentési adatlapot a földhasználó mellett a tulajdonosnak, illetőleg a haszonélvezőnek is alá kell írnia.
 
@@ -322,7 +322,7 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 (2) A díjfizetési kötelezettség kérelemre indult eljárásban – ideértve a jogorvoslati eljárást is – kizárólag az ingatlanügyi hatóságnál a kérelem előterjesztésével egyidejűleg a pénztárába történő készpénzbefizetéssel vagy az ingatlanügyi hatóság előirányzat-felhasználási keretszámlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással teljesíthető. A díjnak az ingatlanügyi hatóság előirányzat-felhasználási keretszámlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén a kérelem előterjesztésekor mellékelni kell a díj megfizetését igazoló okiratot.
 
-(3) A díj megfizetésének elmulasztása esetén az ingatlanügyi hatóság a kérelem benyújtásától számított tíz munkanapon belül hiánypótlási felhívást bocsát ki. A kérelmező a hiánypótlási felhívás kézhezvételétől számított tíz munkanapon belül köteles a díjat megfizetni és igazolni annak megfizetését.
+(3) A díj megfizetésének elmulasztása esetén az ingatlanügyi hatóság a kérelem benyújtásától számított tizenöt napon belül hiánypótlási felhívást bocsát ki. A kérelmező a hiánypótlási felhívás kézhezvételétől számított tizenöt napon belül köteles a díjat megfizetni és igazolni annak megfizetését.
 
 (4)
 
@@ -330,7 +330,7 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 (2) Ha a kérelem és a befizetést igazoló okiratok alapján megállapítható, hogy az ügyfél a törvényes mértéket meghaladó összegű díjat fizetett, a többletet vissza kell téríteni.
 
-(3) A visszatérítést a többletbefizetés megállapítását követően hivatalból kell elrendelni, és annak teljesítéséről huszonkét munkanapon belül intézkedni kell.
+(3) A visszatérítést a többletbefizetés megállapítását követően hivatalból kell elrendelni, és annak teljesítéséről harminc napon belül intézkedni kell.
 
 ### IV. Fejezet — A BIRTOKTAGOK KIALAKÍTÁSÁRA IRÁNYULÓ ELJÁRÁSOK
 
@@ -470,13 +470,13 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 82–87. §
 
-88. § (1) Külföldi jogi vagy magánszemély termőföldnek nem minősülő ingatlan tulajdonjogát – az öröklés, valamint a 88/A. §-ban foglaltak kivételével – az ingatlan fekvése szerint illetékes közigazgatási hivatal engedélyével szerezheti meg.
+88. § (1) Külföldi jogi vagy magánszemély termőföldnek nem minősülő ingatlan tulajdonjogát – az öröklés, valamint a 88/A. §-ban foglaltak kivételével – a Kormány ingatlan fekvése szerint illetékes általános hatáskörű területi államigazgatási szervének az engedélyével szerezheti meg.
 
-(2) A közigazgatási hivatal határozata ellen fellebbezésnek helye nincs.
+(2) A Kormány általános hatáskörű területi államigazgatási szervének az határozata ellen fellebbezésnek helye nincs.
 
 (3) Diplomáciai, konzuli képviselet, valamint ezekkel egy tekintet alá eső nemzetközi szervezetek ingatlanszerzéséhez a külpolitikáért felelős miniszter engedélye szükséges. A külpolitikáért felelős miniszter az engedélyt nemzetközi szerződés vagy viszonosság fennállása alapján adja meg.
 
-88/A. § (1) A tagállami állampolgár, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes államban, továbbá a nemzetközi szerződés alapján velük egy tekintet alá eső államban bejegyezett jogi személy vagy jogi személyiség nélküli szervezet a Magyar Köztársaságnak az Európai Unióhoz való csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépését követően a termőföldnek nem minősülő ingatlan tulajdonjogát a belföldi személyekkel azonos feltételekkel (engedély nélkül) szerezheti meg, kivéve a másodlagos lakóhelyül szolgáló ingatlant, amelynek megszerzéséhez az említett törvény hatálybalépésétől számított öt évig (a továbbiakban: az átmeneti időszak alatt) a közigazgatási hivatal engedélye szükséges.
+88/A. § (1) A tagállami állampolgár, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes államban, továbbá a nemzetközi szerződés alapján velük egy tekintet alá eső államban bejegyezett jogi személy vagy jogi személyiség nélküli szervezet a Magyar Köztársaságnak az Európai Unióhoz való csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépését követően a termőföldnek nem minősülő ingatlan tulajdonjogát a belföldi személyekkel azonos feltételekkel (engedély nélkül) szerezheti meg, kivéve a másodlagos lakóhelyül szolgáló ingatlant, amelynek megszerzéséhez az említett törvény hatálybalépésétől számított öt évig (a továbbiakban: az átmeneti időszak alatt) a Kormány általános hatáskörű területi államigazgatási szervének az engedélye szükséges.
 
 (2) Ha a tagállami állampolgár legalább négy éve folyamatosan és jogszerűen Magyarországon tartózkodik, a másodlagos lakóhelyül szolgáló ingatlan tulajdonjogát engedély nélkül szerezheti meg.
 
@@ -488,9 +488,9 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 (3) Ha a tagállami állampolgár elsődleges lakóhelyül szolgáló ingatlannal már rendelkezik, nem szerezhet ugyanezen a címen újabb ingatlant az átmeneti időszak alatt.
 
-88/C. § (1) A 88/B. § alapján történő ingatlanszerzés feltételeinek betartását a közigazgatási hivatal a települési önkormányzat jegyzője és az ingatlanügyi hatóság bevonásával ellenőrizheti.
+88/C. § (1) A 88/B. § alapján történő ingatlanszerzés feltételeinek betartását a Kormány általános hatáskörű területi államigazgatási szerve a települési önkormányzat jegyzője és az ingatlanügyi hatóság bevonásával ellenőrizheti.
 
-(2) Ha a közigazgatási hivatal az ellenőrzés során megállapítja, hogy a tagállami állampolgár nem tartotta be az engedélyhez nem kötött ingatlanszerzés feltételeit, felhívja a tulajdonos figyelmét a jogszabálysértésre, valamint határidő tűzésével a 88. §-ban meghatározott engedély iránti kérelem benyújtására.
+(2) Ha a Kormány általános hatáskörű területi államigazgatási szerve az ellenőrzés során megállapítja, hogy a tagállami állampolgár nem tartotta be az engedélyhez nem kötött ingatlanszerzés feltételeit, felhívja a tulajdonos figyelmét a jogszabálysértésre, valamint határidő tűzésével a 88. §-ban meghatározott engedély iránti kérelem benyújtására.
 
 88/D. § Külföldi magánszemély és jogi személy, vagy jogi személyiség nélküli szervezet – kivéve a tagállami állampolgárt, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes államban, továbbá a nemzetközi szerződés alapján velük egy tekintet alá eső államban bejegyezett jogi személyt, vagy jogi személyiség nélküli szervezetet – termőföldnek nem minősülő védett természeti terület tulajdonjogát nem szerezheti meg.
 

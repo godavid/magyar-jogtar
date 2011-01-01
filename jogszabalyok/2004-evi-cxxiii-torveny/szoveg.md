@@ -9,7 +9,8 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 - a) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) hatálya alá tartozó munkaadóra,
 - b) a (2) bekezdés 1. pontjában meghatározott munkaerőpiactól tartósan távollévő személyre,
 - c) a kedvezmény érvényesítése során eljáró hatóságra,
-- d) az ösztöndíjas foglalkoztatottra, valamint az őt foglalkoztatóra.
+- d) az ösztöndíjas foglalkoztatottra, valamint az őt foglalkoztatóra,
+- e) a 8/B. § (1) bekezdésében meghatározott munkavállalókra.
 
 (2) E törvény alkalmazásában
 
@@ -17,19 +18,21 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
   - a) a pályakezdő fiatal,
   - b) az a személy, aki a gyermekgondozási segély (a továbbiakban: gyes), a gyermekgondozási díj (a továbbiakban: gyed), a gyermeknevelési támogatás (a továbbiakban: gyet), valamint az ápolási díj folyósításának megszűnését követő egy éven (365 napon) belül kíván foglalkoztatásra irányuló jogviszonyt létesíteni, vagy aki a gyermek egyéves korának betöltését követően, e gyermek után igénybe vett gyes folyósítása mellett kíván munkát vállalni, feltéve, hogy foglalkoztatásra irányuló jogviszonyban nem áll,
   - c) a tartósan álláskereső;
-  - d) a rendelkezésre állási támogatásra jogosult álláskereső;
+  - d) a bérpótló juttatásra jogosult álláskereső;
 - 2. pályakezdő fiatal: a huszonötödik életévét – felsőfokú végzettségű személy esetén a harmincadik életévét – be nem töltött, foglalkoztatásra irányuló jogviszony létesítéséhez szükséges feltételekkel és érvényes START- kártyával rendelkező személy;
-- 3. foglalkoztatásra irányuló jogviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, közalkalmazotti jogviszony, bírósági és igazságügyi, valamint ügyészségi szolgálati viszony, a hivatásos nevelő szülői jogviszony, a fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonya;
+- 3. foglalkoztatásra irányuló jogviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormánytisztviselői jogviszony, közalkalmazotti jogviszony, bírósági és igazságügyi, valamint ügyészségi szolgálati viszony, a hivatásos nevelő szülői jogviszony, a fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonya;
 - 4. ösztöndíjas foglalkoztatási jogviszony: az e törvény szerinti, szakmai készségek megszerzése céljából munkatapasztalat-szerzés biztosítására és ennek keretében az egyéni szakmai programban foglalt feladatok ellátására létrejött jogviszony;
 - 5. négy órát elérő részmunkaidő: a napi négy órát, illetve – munkaidőkeret megállapítása esetén a munkaidőkeret átlagában – a heti húsz órát elérő munkaidő;
-- 6. ösztöndíjas foglalkoztatott: az a személy, aki az ösztöndíjas foglalkoztatási jogviszony létesítésének időpontjában – a 30. életévét még nem töltötte be, és – akinek a diplomája a jogviszony létesítését megelőző két éven belül került kiadásra, és – munkaviszonyban, közalkalmazotti jogviszonyban, közszolgálati jogviszonyban, szolgálati jogviszonyban (a továbbiakban együtt: munkaviszony) nem áll;
-- 7. foglalkoztató: a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény [a továbbiakban: Mt.], a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény [a továbbiakban: Ktv.], vagy a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény [a továbbiakban: Kjt.] hatálya alá tartozó természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság és egyéni cég;
-- 8. munkaügyi törvény: az Mt., a Ktv. és a Kjt;
-- 9. tartósan álláskereső: az a személy, akit az állami foglalkoztatási szerv a START PLUSZ, illetve a START EXTRA kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontját megelőző 16 hónapon belül legalább 12 hónapig – az Flt. 58. §-a (5) bekezdésének k) pontjában meghatározott pályakezdő álláskereső esetében 8 hónapon belül legalább 6 hónapig – álláskeresőként nyilvántartott;
+- 6. ösztöndíjas foglalkoztatott: az a személy, aki az ösztöndíjas foglalkoztatási jogviszony létesítésének időpontjában – a 30. életévét még nem töltötte be, és – akinek a diplomája a jogviszony létesítését megelőző két éven belül került kiadásra, és – munkaviszonyban – ide nem értve az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény szerinti jogviszonyt és az adórendszeren kívüli foglalkoztatásnak minősülő háztartási munkára irányuló munkaviszonyt –, közalkalmazotti jogviszonyban, közszolgálati jogviszonyban, kormánytisztviselői jogviszonyban, szolgálati jogviszonyban (a továbbiakban együtt: munkaviszony) nem áll;
+- 7. foglalkoztató: a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.), a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.), a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.), vagy a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.), hatálya alá tartozó természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság és egyéni cég;
+- 8. munkaügyi törvény:az Mt., a Ktv., a Kjt., és a Ktjv.
+- 9. tartósan álláskereső: az a személy, akit az állami foglalkoztatási szerv a START PLUSZ kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontját megelőző 16 hónapon belül legalább 12 hónapig – az Flt. 58. §-a (5) bekezdésének k) pontjában meghatározott pályakezdő álláskereső esetében 8 hónapon belül legalább 6 hónapig – álláskeresőként nyilvántartott;
 - 10. öregségi nyugdíjra jogosult személy: az Flt. 58. §-a (5) bekezdésének i) pontjában meghatározott személy;
-- 11. rendelkezésre állási támogatásra jogosult álláskereső: az a személy, akit a START EXTRA kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontjában az állami foglalkoztatási szerv álláskeresőként nyilvántart, és rendelkezésre állási támogatásban részesül.
+- 11. rendelkezésre állási támogatásra jogosult álláskereső: az a személy, akit a START EXTRA kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontjában az állami foglalkoztatási szerv álláskeresőként nyilvántart, és bérpótló juttatásban részesül.
 
 (3) Az álláskeresőként történő nyilvántartásnak a (2) bekezdés 9. pontjában meghatározott időtartamába a külön jogszabályban meghatározott rendszeres szociális segélyben részesülő személy esetében be kell számítani azt az időtartamot is, amely alatt a rendszeres szociális segélyben részesülő személy a települési önkormányzat által kijelölt szervvel együttműködött.
+
+(4) A START PLUSZ, illetve a START EXTRA kártyát az igénylő legkésőbb 2011. december 31-éig válthatja ki, és ezek alapján a munkaadót legfeljebb 2013. december 31-éig illeti meg az e törvény szerinti járulékkedvezmény.
 
 ### I. Fejezet — A PÁLYAKEZDŐ FIATALOK, VALAMINT A GYERMEK GONDOZÁSÁT, ILLETVE CSALÁDTAG ÁPOLÁSÁT KÖVETŐEN, TOVÁBBÁ A GYERMEK GONDOZÁSA MELLETT MUNKÁT KERESŐK ÉS A TARTÓSAN ÁLLÁSKERESŐK FOGLALKOZTATÁSÁNAK KEDVEZMÉNYE
 
@@ -107,8 +110,8 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 
 6. § (1) Az Art. szerinti START EXTRA kártya kiváltására jogosult
 
-- a) a tartósan álláskereső, ha ötvenedik életévét betöltötte, vagy életkorra való tekintet nélkül legfeljebb alapfokú iskolai végzettséggel rendelkezik, vagy
-- b) a rendelkezésre állási támogatásra jogosult álláskereső.
+- a) a START EXTRA kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontját megelőzően legalább 3 hónapig álláskeresőként nyilvántartott személy, ha ötvenedik életévét betöltötte, vagy életkorra való tekintet nélkül legfeljebb alapfokú iskolai végzettséggel rendelkezik, vagy
+- b) a bérpótló juttatásra jogosult álláskereső.
 
 (2) A munkaadót az (1) bekezdésben meghatározott személy foglalkoztatásának időtartamára a START EXTRA kártya érvényességi idején belül illeti meg a 7. §-ban meghatározott kedvezmény abban az esetben is, ha a foglalkoztatás időtartama azt meghaladja.
 
@@ -118,7 +121,7 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 
 (5) A START EXTRA kártyával rendelkező személyt foglalkoztató munkáltatóra a 4. § (7) bekezdésében, valamint a 4/A. § (4) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
-7. § (1) Az érvényes START EXTRA kártyával rendelkező személy foglalkoztatása esetén – amennyiben a 8. §-ban meghatározott feltételek nem állnak fenn – a munkaadót a következők szerint illeti meg járulékkedvezmény:
+7. § (1) Az érvényes START EXTRA kártyával rendelkező személy foglalkoztatása esetén a munkaadót a következők szerint illeti meg járulékkedvezmény:
 
 - a)
 - b) Az a) pontban foglaltakon túlmenően a foglalkoztatás első évében a munkaadó mentesül a Tbj. 19. §-ának (1) bekezdésében meghatározott társadalombiztosítási járulék megfizetése alól. A munkaadót a START EXTRA kártya tulajdonosa foglalkoztatásának második évében a Tbj. 19. §-ának (1) bekezdésében meghatározott társadalombiztosítási járulék összege helyett a bruttó munkabér tíz százalékának megfelelő járulékfizetési kötelezettség terheli.
@@ -127,44 +130,57 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 
 8. § Az Flt. 18/A. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
 
-„(1) Támogatásként a munkaadót terhelő egészség- és nyugdíjbiztosítási járuléknak, munkaadói járuléknak, valamint egészségügyi hozzájárulásnak megfelelő összeg részben vagy egészben átvállalható legfeljebb egy évi időtartamra. Az átvállalt összeg ötven év feletti személy esetében nem lehet kevesebb a keresetet terhelő egészség- és nyugdíjbiztosítási, valamint munkaadói járulék, továbbá a munkaadót terhelő egészségügyi hozzájárulás átvállalható legmagasabb mértéke összegének ötven százalékánál.”
+„(1) Támogatásként a munkaadót terhelő egészség- és nyugdíjbiztosítási járuléknak, munkaadói járuléknak, valamint egészségügyi hozzájárulásnak megfelelő összeg részben vagy egészben átvállalható legfeljebb egy évi időtartamra. Az átvállalt összeg ötven év feletti személy esetében nem lehet kevesebb a keresetet terhelő egészség- és nyugdíjbiztosítási, valamint munkaadói járulék, továbbá a munkaadót terhelő egészségügyi hozzájárulás átvállalható legmagasabb mértéke összegének ötven százalékánál.
 
-8. § (1) A munkaadót a (2) bekezdésben foglaltak szerinti további járulékkedvezmény illeti meg, ha
+8. §
 
-- a) az érvényes START EXTRA kártyával rendelkező, a 6. § (1) bekezdésének b) pontjában meghatározott személy lakóhelye gazdasági, infrastrukturális, társadalmi, szociális, foglalkoztatási szempontból legkedvezőtlenebb helyzetű kistérségben vagy településen van, és
-- b) az a) pontban meghatározott személy foglalkoztatásával az éves átlagos statisztikai állományi létszámát emeli, továbbá a bővített létszámot a (3) bekezdésben meghatározott időtartam alatt megtartja, valamint
-- c) kötelezettséget vállal arra vonatkozóan, hogy a foglalkoztatási időszak vége előtt a 6. § (1) bekezdésének b) pontjában meghatározott személy munkaviszonyát – működésével összefüggő okból – rendes felmondással, illetve közös megegyezéssel nem szünteti meg; továbbá önmaga ellen végelszámolási eljárás megindítását nem kezdeményezi, és tudomásul veszi, hogy ezen kötelezettség megszegése a kedvezmény jogosulatlan igénybevételének minősül.
+III. fejezet
 
-(2) A gazdasági, infrastrukturális, társadalmi, szociális, foglalkoztatási szempontból legkedvezőtlenebb helyzetű kistérségek, települések kiválasztásának szempontrendszerét a törvény 2. számú melléklete tartalmazza.
-
-(3) Az (1) bekezdésben meghatározott feltételek fennállása esetén a munkaadó a kedvezményes foglalkoztatás
-
-- a) első évének lejártát követően további két évig mentesül a
-  - aa) Tbj. 19. §-ának (1) bekezdésében meghatározott társadalombiztosítási járulék, valamint
-  - ab)
-- b)
-
-megfizetése alól.
-
-(4) A (3) bekezdésben meghatározott kedvezmény a munkaadót a START EXTRA kártya érvényességi idejének lejártától függetlenül illeti meg.
-
-(5) E §-ban meghatározott kedvezmény és más, törvény alapján járó, foglalkoztatási célú kedvezmény ugyanazon személy után egyidejűleg nem vehető igénybe.
-
-(6) Az (1) bekezdésben meghatározott járulékkedvezményre való jogosultságot nem érinti, ha a foglalkoztatás megkezdését követően a 6. § (1) bekezdésében meghatározott személy lakóhelye úgy változik meg, hogy nem felel meg az (1) bekezdés a) pontjában meghatározott feltételnek.
-
-(7) E §-ban meghatározott kedvezmény érvényesítése esetén a 4. § (6)–(7) bekezdésében, a 4/A. § (4) bekezdésében, valamint az 5. § (2)–(7) bekezdésében foglaltakat megfelelően alkalmazni kell azzal, hogy a (2) bekezdésben meghatározott többlet járulékkedvezmény fedezetét a Munkaerőpiaci Alap biztosítja.
-
-### III. Fejezet
-
-8/A. § (1) A közcélú foglalkoztatás keretében történő foglalkoztatás esetén a munkaadó mentesül a Tbj. 19. §-ának (1) bekezdésében meghatározott társadalombiztosítási járulék 50 százalékának megfizetése alól.
+8/A. § (1) Az önkormányzati közfoglalkoztatás, valamint az országos közfoglalkoztatási program keretében költségvetési szerv által történő foglalkoztatás esetén a munkaadó mentesül a Tbj. 19. §-ának (1) bekezdésében meghatározott társadalombiztosítási járulék 50 százalékának megfizetése alól.
 
 (2) A munkaadó az (1) bekezdésben meghatározott kedvezményt – teljes munkaidőben történő foglalkoztatás esetén – legfeljebb a kötelező legkisebb munkabér 130 százalékának, részmunkaidőben történő foglalkoztatás esetén ezen összeg időarányos részének megfelelő járulékalap után érvényesítheti.
 
 (3) Az (1) bekezdésben meghatározott kedvezmény és egyéb, törvény alapján járó foglalkoztatási célú járulékkedvezmény ugyanazon személy után, egyidejűleg nem vehető igénybe.
 
-(4) A kedvezmény jogosulatlan érvényesítése esetén a társadalombiztosítási járulék megállapítására, befizetésére és bevallására, a mulasztási bírság, pótlék megállapítására az adózás rendjéről szóló 2003. évi XCII. törvény alapján kerül sor.
+(4) A kedvezmény jogosulatlan érvényesítése esetén a társadalombiztosítási járulék megállapítására, befizetésére és bevallására, a mulasztási bírság, pótlék megállapítására az Art. alapján kerül sor.
 
-### III/A. Fejezet — AZ ÖSZTÖNDÍJAS FOGLALKOZTATÁS
+A részmunkaidős foglalkoztatáshoz kapcsolódó kedvezmény
+
+8/B. § (1) A munkaadót a (2)–(6) bekezdésben meghatározottak szerint járulékkedvezmény illeti meg, ha a gyermekgondozási szabadságról [Mt. 138. § (5) bek. a) pont] visszatérő munkavállaló munkakörét – feltéve, hogy e munkavállaló annak időtartama alatt terhességi-gyermekágyi segélyben, gyermekgondozási segélyben vagy gyermekgondozási díjban részesült – közvetlenül a visszatérését követően
+
+a) a gyermekgondozási szabadságról visszatérő munkavállaló és emellett
+
+b) az a) pontban meghatározott munkavállaló gyermekgondozási szabadságának
+
+ba) időtartama alatt e munkavállaló munkakörének ellátására létesített munkaviszonyban foglalkoztatott munkavállaló, vagy
+
+bb) lejártát követően vele azonos vagy hasonló munkakör ellátására létesített munkaviszonyban foglalkoztatott munkavállaló
+
+heti 20-20 órás részmunkaidős munkaviszony keretében látják el.
+
+(2) A munkaadó – az (1) bekezdésben meghatározott mindkét munkavállaló után – a Tbj. 19. § (1) bekezdésében meghatározott mértékű társadalombiztosítási járulék helyett 20 százalékos mértékű társadalombiztosítási járulék fizetésére köteles (amelyből a nyugdíjbiztosítási járulék 18 százalék, az egészségbiztosítási és munkaerő-piaci járulék 2 százalék, az egészségbiztosítási és munkaerő-piaci járulékon belül a természetbeni egészségbiztosítási járulék 1 százalék, a pénzbeli egészségbiztosítási járulék 0,3 százalék, a munkaerő-piaci járulék 0,7 százalék).
+
+(3) Ugyanabban a munkakörben foglalkoztatott munkavállalók után járulékkedvezmény csak abban az esetben jár, ha az (1) bekezdésben meghatározott feltételek a gyermekgondozási szabadságról visszatérő munkavállaló munkába állását követően legalább 1 évig fennállnak. A kedvezmény az (1)–(5) bekezdésében meghatározott feltételek fennállása alatt, legfeljebb azonban 3 évig jár.
+
+(4) A járulékkedvezmény a munkaadót csak abban az esetben illeti meg, ha a létszámát a részmunkaidős foglalkoztatás kezdetét megelőző hónap átlagos statisztikai állományi létszámához képest növeli, és azt a részmunkaidős foglalkoztatás időtartama alatt nem csökkenti.
+
+(5) Nem minősül az állományi létszám csökkentésének, ha a létszám olyan munkavállalóval csökken, aki
+
+a) a statisztikai előírások szerint nem tartozik az átlagos statisztikai állományi létszámba, vagy
+
+b) munkaviszonyát rendes vagy rendkívüli felmondással szüntette meg.
+
+(6) A járulékkedvezmény kedvezményezett munkavállalónként legfeljebb a kötelező legkisebb munkabér kétszeresének megfelelő járulékalap után érvényesíthető.
+
+(7) E járulékkedvezmény és egyéb, törvény alapján járó foglalkoztatási célú járulékkedvezmény ugyanazon személy után egyidejűleg nem vehető igénybe.
+
+(8) A járulékkedvezmény jogosulatlan érvényesítése esetén a társadalombiztosítási járulék megállapítására, befizetésére és bevallására, a bírság és pótlék megállapítására az Art. szabályai alapján kerül sor.
+
+(9) A járulékkülönbözet megtérítésére az 4/A. § (5) bekezdésében foglaltakat megfelelően alkalmazni kell.
+
+III/A. fejezet
+
+AZ ÖSZTÖNDÍJAS FOGLALKOZTATÁS
 
 9. § (1) Ösztöndíjas foglalkoztatási jogviszony az 1. § (2) bekezdés 7. pontjában meghatározott foglalkoztatónál ösztöndíjas foglalkoztatottal létesíthető.
 
@@ -197,7 +213,7 @@ megfizetése alól.
 
 10. § (1) A munkavégzés alapjául szolgáló szerződés típusának megválasztása nem irányulhat az ösztöndíjas foglalkoztatott jogos érdekeinek védelmét biztosító rendelkezések érvényesülésének korlátozására, illetve csorbítására.
 
-(2) Az (1) bekezdés alapján az ösztöndíjas foglalkoztatott csak olyan feladatokat láthat el, amelyek a munkatapasztalat-szerzést szolgálják, s amelyek közvetlenül kapcsolódnak az egyéni programjában foglaltakhoz. Az ösztöndíjas foglalkoztatott önálló munkakör ellátásával nem bízható meg. A Ktv. hatálya alá tartozó foglalkoztató által létesített ösztöndíjas foglalkoztatási jogviszony keretében hatósági, igazgatási tevékenység nem látható el.
+(2) Az (1) bekezdés alapján az ösztöndíjas foglalkoztatott csak olyan feladatokat láthat el, amelyek a munkatapasztalat-szerzést szolgálják, s amelyek közvetlenül kapcsolódnak az egyéni programjában foglaltakhoz. Az ösztöndíjas foglalkoztatott önálló munkakör ellátásával nem bízható meg. A Ktv. és a Kjtv. hatálya alá tartozó foglalkoztató által létesített ösztöndíjas foglalkoztatási jogviszony keretében hatósági, igazgatási tevékenység nem látható el.
 
 (3) A munkatapasztalat-szerzés egyéni programját a törvény melléklete alapján kell meghatározni.
 
@@ -261,7 +277,7 @@ ad ki.
 (2) Az (1) bekezdésben foglaltakon túlmenően
 
 - a) Kjt. hatálya alá tartozó foglalkoztatóval létesített ösztöndíjas foglalkoztatási jogviszonyra alkalmazni kell a Kjt. 43. §-át, valamint 55. §-át;
-- b) a Ktv. hatálya alá tartozó foglalkoztatóval létesített ösztöndíjas foglalkoztatási jogviszonyra alkalmazni kell a Ktv. 7. § (1) bekezdésének első mondatát, (8) bekezdését 37. §-át, 39. § (1) és (4) bekezdését.
+- b) a Ktv. és a Kjtv. hatálya alá tartozó foglalkoztatóval létesített ösztöndíjas foglalkoztatási jogviszonyra alkalmazni kell a Ktv. 7. § (1) bekezdésének első mondatát, (8) bekezdését 37. §-át, 39. § (1) és (4) bekezdését.
 
 16. § Az ösztöndíjas foglalkoztatott foglalkoztatóját az ösztöndíjas START-kártyájának érvényességi ideje alatt megilleti a 4/A. §-ban meghatározott kedvezmény.
 
@@ -278,7 +294,7 @@ a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben
 
 (3) Felhatalmazást kap a Kormány, hogy a 8. § (1) bekezdésének a) pontjában meghatározott kistérségek, települések körét – a 2. számú mellékletben meghatározott szempontok alapján – rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap az egészségbiztosítási járulékfizetés szabályozásáért felelős miniszter, a nyugdíjbiztosítási járulékfizetés szabályozásáért felelős miniszter, valamint a foglalkoztatáspolitikáért felelős miniszter, hogy a 8–8/A. §-ban meghatározott járulékkedvezmények érvényesítésének és ellenőrzésének részletes feltételeit és szabályait, valamint az érvényesítés során elkövetett szabálytalanság jogkövetkezményeit rendeletben megállapítsa.
+(4) Felhatalmazást kap az egészségbiztosítási járulékfizetés szabályozásáért felelős miniszter, a nyugdíjjárulék- és nyugdíjbiztosítási járulékfizetés szabályozásáért felelős miniszter, valamint a foglalkoztatáspolitikáért felelős miniszter, hogy a 8–8/A. §-ban meghatározott járulékkedvezmények érvényesítésének és ellenőrzésének részletes feltételeit és szabályait, valamint az érvényesítés során elkövetett szabálytalanság jogkövetkezményeit rendeletben megállapítsa.
 
 (5)
 
@@ -287,6 +303,14 @@ a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben
 (7)
 
 (8)
+
+### Átmeneti rendelkezések
+
+17/A. § (1) A 8. §-ban meghatározott foglalkoztatási kedvezmény igénybevételéhez a munkaügyi központtal 2011. január 1-jét megelőzően megállapodást kötött munkaadó a megállapodás érvényességi idejének lejártáig jogosult a járulékkedvezmény igénybevételére e törvény 2010. december 31-én hatályos rendelkezései szerint.
+
+(2) A 7. §-ban meghatározott foglalkoztatási kedvezmény igénybevételéhez e törvény 2010. december 31-én hatályos rendelkezései szerint kell eljárni, ha a START EXTRA kártya kiváltásra jogosult személy a kártya iránti igényét 2010. december 31-éig benyújtja az állami adóhatósághoz.
+
+(3) A 8/B. §-ban meghatározott járulékkedvezmény a 2010. december 31-ét követően gyermekgondozási szabadságról visszatérő munkavállalók esetén alkalmazható.
 
 ### 1. számú melléklet a 2004. évi CXXIII. törvényhez
 
@@ -339,85 +363,3 @@ Dátum
 Munkaadó (cégszerű) aláírása
 
 ### 2. számú melléklet a 2004. évi CXXIII. törvényhez
-
-A gazdasági, infrastrukturális, társadalmi, szociális, foglalkoztatási szempontból legkedvezőtlenebb helyzetű kistérségek, települések kiválasztásának szempontjai
-
-I. Gazdasági szempontok:
-
-1. A működő gazdasági szervezetek 1000 lakosra jutó száma, db
-
-2. A kereskedelmi és magánszálláshelyeken eltöltött vendégéjszakák 1000 lakosra jutó száma, db
-
-3. A kiskereskedelmi boltok 1000 lakosra jutó száma, db
-
-4. A mezőgazdaságban foglalkoztatottak aránya az összes foglalkoztatottakból, %
-
-5. A szolgáltatásban foglalkoztatottak aránya az összes foglalkoztatottakból, %
-
-6. A működő gazdasági szervezetek számának változása, %
-
-7. Az önkormányzatok helyi adóbevétele, Ft
-
-8. A tudományos kutatók, fejlesztők 1000 lakosra jutó száma, db*
-
-II. Infrastrukturális szempontok:
-
-1. A közüzemi vízhálózatba bekapcsolt lakások aránya, %
-
-2. Az egy km vízvezeték-hálózatra jutó zárt csatornahálózat hossza, méter
-
-3. A vezetékes gázt fogyasztó háztartások száma a lakásállomány százalékában, %
-
-4. A rendszeres hulladékgyűjtésbe bevont lakások aránya, %
-
-5. A hétköznapi elérés mutatója
-
-6. A telefon-főállomások (ISDN-nel együtt) 1000 lakosra jutó száma, db
-
-7. A kábeltelevízió előfizetőinek 1000 lakosra jutó száma, fő
-
-8. A szélessávú internetet előfizetők 1000 lakosra jutó száma, fő
-
-9. A gyorsforgalmi csomópontok elérésének mutatója
-
-III. Társadalmi szempontok:
-
-1. Az épített 3-x szobás lakások aránya az időszak végi lakásállományból, %
-
-2. A személygépkocsik kor szerint súlyozott 1000 lakosra jutó száma, db
-
-3. Vándorlási különbözet; időszak közepi 1000 fő népességre jutó évi átlag, fő
-
-4. Halálozási ráta (az 1000 lakosra jutó halálozások száma), db
-
-5. Az egy állandó lakosra jutó szja-alapot képező jövedelem, Ft
-
-6. Urbanitás/ruralitás indexe (az adott kistérség népességének hány %-a él 120 fő/km2-nél nagyobb népsűrűségű településen), %*
-
-7. Népsűrűség, fő/km2**
-
-IV. Szociális szempontok:
-
-1. Fiatalodási index (a 15 évesnél fiatalabbak a 60-x népesség százalékában), %
-
-2. A foglalkoztatott nélküli háztartások aránya, %
-
-3. A 18-x éves, legalább érettségivel rendelkezők aránya, %
-
-4. Az önkormányzatok által rendszeres szociális segélyben részesítettek évi átlagos száma 1000 lakosra, fő
-
-5. A rendszeres gyermekvédelmi támogatásban részesítettek aránya a 0–24 éves népességből, %
-
-V. Foglalkoztatási szempontok:
-
-1. Nyilvántartott álláskeresők aránya a munkaképes korú népességből, %
-
-2. Tartósan – legalább 12 hónapja folyamatosan – nyilvántartott álláskeresők aránya a munkaképes népességből, %
-
-3. Aktivitási ráta, %
-
-Magyarázat:
-
-* Csak a kistérségek kiválasztásánál használt szempont.
-
-** Csak a települések kiválasztásánál használt szempont.

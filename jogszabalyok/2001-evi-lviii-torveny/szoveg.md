@@ -154,7 +154,7 @@ Az Országgyűlés törvényt alkot a Magyar Nemzeti Bankról, annak elsődleges
 
 28. § (1) A 4. § (1)–(7) bekezdéseiben meghatározott feladatai ellátásához – ideértve a monetáris, a fizetési mérleg és a kapcsolódó állományi, az értékpapír, a pénzügyi számla, a pénzügyi stabilitási, a pénzforgalmi, a fizetési rendszer statisztikák összeállítását – az MNB jegybanki információs rendszert működtet, amelyhez a jogszabályban meghatározott szervezetek és természetes személyek az MNB által előírt – személyes adatnak nem minősülő – információkat kötelesek szolgáltatni. A jegybanki információs rendszer működtetése során az MNB jogosult a hivatalos statisztikai szolgálathoz tartozó szervtől a rendelkezésre álló, személyes adatnak nem minősülő adatokat egyedi azonosításra alkalmas módon is átvenni. A jegybanki információs rendszer részeként működtetett statisztikai információs rendszer szakmai tartalmát és módszertanát az MNB – az államháztartásért felelős miniszter (a továbbiakban: miniszter), illetőleg a Felügyelet véleményét kikérve – a Központi Statisztikai Hivatallal egyetértésben alakítja ki.
 
-(2) Az MNB nyilvánosságra hozza a hitelintézeti rendszer működésére és az ország pénzügyi helyzetére vonatkozó összes fontos információt, illetőleg ezek részletes adatait rendszeresen az Országgyűlés, a Kormány és a minisztériumok (központi államigazgatási szervek) rendelkezésére bocsátja.
+(2) Az MNB nyilvánosságra hozza a hitelintézeti rendszer működésére és az ország pénzügyi helyzetére vonatkozó összes fontos információt, illetőleg ezek részletes adatait rendszeresen az Országgyűlés, a Kormány és a minisztériumok (központi államigazgatási szervek), valamint a Pénzügyi Szervezetek Állami Felügyelete rendelkezésére bocsátja.
 
 (3) Az adatokat csak olyan formában lehet nyilvánosságra hozni, hogy azokból az egyedi adatszolgáltatókra vonatkozó információk ne legyenek megállapíthatók.
 
@@ -224,7 +224,7 @@ során.
 
 (5) A 29/A. § d) pontjában meghatározott ügyekben az ügyintézési határidő három hónap.
 
-(6) A hiánypótlási felhívás kibocsátásának határideje a kérelem beérkezésétől számított tíz munkanap.
+(6) A hiánypótlási felhívás kibocsátásának határideje a kérelem beérkezésétől számított tizenöt nap.
 
 (7) Az MNB az eljárásában a határozat vagy az eljárást megszüntető végzés meghozataláig terjedő időtartamra végzésben megtilthatja a jogsértő magatartás további folytatását, továbbá elrendelheti a jogsértő állapot megszüntetését, ha erre – a 4. § (1)–(7) bekezdésében meghatározott alapvető feladatai ellátása érdekében, a késedelemmel járó jelentős vagy helyrehozhatatlan kár veszélye miatt – halaszthatatlanul szükség van. Az MNB e végzését soron kívül hozza meg.
 
@@ -334,7 +334,7 @@ során.
 
 (4) A Kormány felkérése alapján az MNB elláthatja a nemzetközi pénzügyi szervezetekben a Kormányra háruló feladatokat, amennyiben erről törvény eltérően nem rendelkezik.
 
-42. § A Kormány, illetve a minisztériumok (központi államigazgatási szervek) az MNB kérésére tevékenységükkel kapcsolatban információt nyújtanak.
+42. § A Kormány, a minisztériumok (központi államigazgatási szervek), illetve a Pénzügyi Szervezetek Állami Felügyelete az MNB kérésére tevékenységükkel kapcsolatban információt nyújtanak.
 
 42/A. § (1) A Nemzetközi Valutaalap által a Magyar Köztársaság tagságát illetően hozott határozat, valamint az alapokmány értelmében a Nemzetközi Valutaalapnak időszakonként fizetendő összegeket jogszabályban vagy az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott megfelelő forrásokból a Magyar Köztársaság nevében kifizetést teljesítő szerv az MNB, beleértve a Nemzetközi Valutaalap Különleges Lehívási Jogok Főosztályában való részvétellel kapcsolatos fizetések teljesítését is.
 
@@ -516,9 +516,9 @@ során.
 
 (4) A monetáris tanács 49. § (4) bekezdésének c) pontjában meghatározott tagjainak MNB-től származó keresete az elnök keresetének 35%-a.
 
-(5) A felügyelő bizottság elnökének tiszteletdíja az MNB elnöke MNB-től származó keresetének 15%-a.
+(5) A felügyelő bizottság elnökének tiszteletdíja e törvény által meghatározott fix összeg. A tiszteletdíj mértéke havi bruttó 1 200 000 forint.
 
-(6) A felügyelő bizottság további tagjainak tiszteletdíja az MNB elnöke MNB-től származó keresetének 10%-a.
+(6) A felügyelő bizottság további tagjainak tiszteletdíja e törvény által meghatározott fix összeg. A tiszteletdíj mértéke havi bruttó 800 000 forint.
 
 (7) Az MNB elnökét és alelnökeit a monetáris tanácsi tagságért külön díjazás nem illeti meg.
 

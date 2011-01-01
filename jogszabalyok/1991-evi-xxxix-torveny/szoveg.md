@@ -24,7 +24,7 @@ a mikroelektronikai félvezető termékek topográfiájának oltalmáról
 
 (4) Ha több személy egymástól függetlenül alkotta meg a topográfiát, az oltalom önállóan illeti meg a szerzőket vagy jogutódjaikat.
 
-3. § Külföldi személyt csak nemzetközi szerződés vagy viszonosság esetén illeti meg az oltalom. A viszonosság kérdésében a Magyar Szabadalmi Hivatal elnökének állásfoglalása irányadó.
+3. § Külföldi személyt csak nemzetközi szerződés vagy viszonosság esetén illeti meg az oltalom. A viszonosság kérdésében a Szellemi Tulajdon Nemzeti Hivatala elnökének állásfoglalása irányadó.
 
 4. § (1) Ha a szerzőnek munkaviszonyból vagy más jogszabályból folyó kötelessége, hogy a topográfiát megalkossa (szolgálati topográfia), az oltalom a munkáltatót vagy más jogviszony alapján jogosultat illeti meg.
 
@@ -97,7 +97,7 @@ a mikroelektronikai félvezető termékek topográfiájának oltalmáról
 
 ### Lemondás az oltalomról
 
-13. § A lajstromban feltüntetett jogosult a Magyar Szabadalmi Hivatalhoz intézett írásbeli nyilatkozattal az oltalomról lemondhat. Ha a lemondás más személyeknek jogszabályon, hatósági határozaton vagy a lajstromba bejegyzett hasznosítási szerződésen alapuló jogát érinti, vagy ha a lajstromba per van bejegyezve, a lemondás csak az érintett személy hozzájárulásával hatályos.
+13. § A lajstromban feltüntetett jogosult a Szellemi Tulajdon Nemzeti Hivatalához intézett írásbeli nyilatkozattal az oltalomról lemondhat. Ha a lemondás más személyeknek jogszabályon, hatósági határozaton vagy a lajstromba bejegyzett hasznosítási szerződésen alapuló jogát érinti, vagy ha a lajstromba per van bejegyezve, a lemondás csak az érintett személy hozzájárulásával hatályos.
 
 ### Az oltalom megsemmisítése
 
@@ -114,11 +114,11 @@ a mikroelektronikai félvezető termékek topográfiájának oltalmáról
 
 15. § Ha az oltalom keletkezésére visszaható hatállyal szűnik meg, az oltalom jogosultja és a topográfia szerzője által jóhiszeműen felvett díjnak csak azt a részét lehet visszakövetelni, amelyet a topográfia hasznosításának előnyei nem fedeztek.
 
-### IV. Fejezet — A MAGYAR SZABADALMI HIVATAL ELJÁRÁSA AZ OLTALOMMAL ÖSSZEFÜGGŐ ÜGYEKBEN
+### IV. Fejezet — A SZELLEMI TULAJDON NEMZETI HIVATALA ELJÁRÁSA AZ OLTALOMMAL ÖSSZEFÜGGŐ ÜGYEKBEN
 
-### A Magyar Szabadalmi Hivatal hatásköre
+### A Szellemi Tulajdon Nemzeti Hivatala hatásköre
 
-16. § A Magyar Szabadalmi Hivatal hatáskörébe tartoznak
+16. § A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak
 
 - a) a topográfia lajstromozásával,
 - b) az oltalom megszűnésének megállapításával,
@@ -131,22 +131,22 @@ kapcsolatos ügyek.
 
 ### A közigazgatási hatósági eljárás általános szabályainak alkalmazása
 
-17. § (1) A Magyar Szabadalmi Hivatal a topográfia oltalmával összefüggő ügyekben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint jár el.
+17. § (1) A Szellemi Tulajdon Nemzeti Hivatala a topográfia oltalmával összefüggő ügyekben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint jár el.
 
-(2) A Magyar Szabadalmi Hivatal döntései ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi óvásnak.
+(2) A Szellemi Tulajdon Nemzeti Hivatala döntései ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi óvásnak.
 
-(3) A Magyar Szabadalmi Hivatalnak a topográfia oltalmával összefüggő ügyekben hozott döntéseit a bíróság a 23. §-ban foglaltak szerint vizsgálja felül.
+(3) A Szellemi Tulajdon Nemzeti Hivatalának a topográfia oltalmával összefüggő ügyekben hozott döntéseit a bíróság a 23. §-ban foglaltak szerint vizsgálja felül.
 
-(4) A szabadalmi törvény eltérő rendelkezése hiányában a Magyar Szabadalmi Hivatal csak megváltoztatási kérelem alapján és csak annak a bírósághoz történő továbbításáig módosíthatja és vonhatja vissza a következő kérdésekben hozott – az eljárást befejező – döntését:
+(4) A szabadalmi törvény eltérő rendelkezése hiányában a Szellemi Tulajdon Nemzeti Hivatala csak megváltoztatási kérelem alapján és csak annak a bírósághoz történő továbbításáig módosíthatja és vonhatja vissza a következő kérdésekben hozott – az eljárást befejező – döntését:
 
 - a) az oltalom megadása;
 - b) az oltalom megszűnésének megállapítása;
 - c) az oltalom megsemmisítése;
 - d) a nemleges megállapítás.
 
-(5) A szabadalmi törvény eltérő rendelkezése hiányában a (4) bekezdés c) és d) pontjában említett kérdésekben hozott – az eljárást befejező – döntését a Magyar Szabadalmi Hivatal megváltoztatási kérelem alapján is csak akkor módosíthatja vagy vonhatja vissza, ha megállapítja, hogy döntése jogszabályt sért, vagy ha a felek a döntés módosítását vagy visszavonását egybehangzóan kérik.
+(5) A szabadalmi törvény eltérő rendelkezése hiányában a (4) bekezdés c) és d) pontjában említett kérdésekben hozott – az eljárást befejező – döntését a Szellemi Tulajdon Nemzeti Hivatala megváltoztatási kérelem alapján is csak akkor módosíthatja vagy vonhatja vissza, ha megállapítja, hogy döntése jogszabályt sért, vagy ha a felek a döntés módosítását vagy visszavonását egybehangzóan kérik.
 
-(6) A Magyar Szabadalmi Hivatalnak az oltalommal összefüggő eljárásaira – az e törvényben foglalt eltérésekkel – megfelelően alkalmazni kell a szabadalmi törvénynek a Magyar Szabadalmi Hivatal szabadalmi eljárására vonatkozó szabályait.
+(6) A Szellemi Tulajdon Nemzeti Hivatalának az oltalommal összefüggő eljárásaira – az e törvényben foglalt eltérésekkel – megfelelően alkalmazni kell a szabadalmi törvénynek a Szellemi Tulajdon Nemzeti Hivatala szabadalmi eljárására vonatkozó szabályait.
 
 ### Nyilvánosság
 
@@ -161,7 +161,7 @@ kapcsolatos ügyek.
 
 ### A bejelentés
 
-20. § (1) A topográfia lajstromozására irányuló eljárás a Magyar Szabadalmi Hivatalhoz intézett bejelentéssel indul meg.
+20. § (1) A topográfia lajstromozására irányuló eljárás a Szellemi Tulajdon Nemzeti Hivatalához intézett bejelentéssel indul meg.
 
 (2) A bejelentés a kérelemből, a topográfia azonosítására alkalmas ábrázolásból és az ezekkel kapcsolatos egyéb mellékletekből áll.
 
@@ -175,19 +175,19 @@ kapcsolatos ügyek.
 
 ### Lajstromozási eljárás
 
-22. § (1) A Magyar Szabadalmi Hivatal a bejelentést megvizsgálja abból a szempontból, hogy az megfelel-e a 3. §-ban, a 20. § (2)—(4) bekezdésében és a 21. §-ban meghatározott követelményeknek.
+22. § (1) A Szellemi Tulajdon Nemzeti Hivatala a bejelentést megvizsgálja abból a szempontból, hogy az megfelel-e a 3. §-ban, a 20. § (2)—(4) bekezdésében és a 21. §-ban meghatározott követelményeknek.
 
 (2) Ha a bejelentés annyira hiányos, hogy arra jogot alapítani nem lehet [20. § (4) bek.], a bejelentést további eljárás mellőzésével érdemi vizsgálat nélkül el kell utasítani.
 
 (3) Ha a bejelentés nem felel meg a 3. §-ban, a 20. § (2)—(3) bekezdésében és a 21. §-ban meghatározott követelményeknek, a bejelentőt fel kell hívni nyilatkozattételre, a hiányok pótlására, illetve a bejelentés megosztására. Ha a felhívás eredménytelen, a bejelentést el kell utasítani.
 
-(4) Ha a bejelentés megfelel a vizsgált követelményeknek, a Magyar Szabadalmi Hivatal a topográfiát lajstromozza, arról okiratot ad ki, és meghirdeti hivatalos lapjában.
+(4) Ha a bejelentés megfelel a vizsgált követelményeknek, a Szellemi Tulajdon Nemzeti Hivatala a topográfiát lajstromozza, arról okiratot ad ki, és meghirdeti hivatalos lapjában.
 
 ### V. Fejezet — BÍRÓSÁGI ELJÁRÁS AZ OLTALOMMAL ÖSSZEFÜGGŐ ÜGYEKBEN ÉS PEREKBEN
 
-### A Magyar Szabadalmi Hivatal döntésének felülvizsgálata
+### A Szellemi Tulajdon Nemzeti Hivatala döntésének felülvizsgálata
 
-23. § (1) A bíróság kérelemre megváltoztathatja a Magyar Szabadalmi Hivatalnak
+23. § (1) A bíróság kérelemre megváltoztathatja a Szellemi Tulajdon Nemzeti Hivatalának
 
 - a) a 17. § (4) bekezdésében felsorolt döntéseit;
 - b) az eljárást felfüggesztő és a bejelentési nyilvántartásba vagy a lajstromba való bejegyzés tárgyában hozott döntését;
@@ -197,15 +197,15 @@ kapcsolatos ügyek.
 
 (2) Az eljárási bírságot kiszabó, valamint az eljárási költség megállapításával és viselésével kapcsolatos végzés ellen előterjesztett megváltoztatási kérelemnek nincs halasztó hatálya a döntés többi – a megváltoztatási kérelemben nem támadott – rendelkezése tekintetében, és nem akadályozza meg azok jogerőre emelkedését.
 
-(3) A Magyar Szabadalmi Hivatalnak az (1) bekezdésben nem említett végzése csak az (1) bekezdésben felsorolt döntésekkel szemben előterjesztett megváltoztatási kérelemben támadható meg.
+(3) A Szellemi Tulajdon Nemzeti Hivatalának az (1) bekezdésben nem említett végzése csak az (1) bekezdésben felsorolt döntésekkel szemben előterjesztett megváltoztatási kérelemben támadható meg.
 
 (4) A döntés megváltoztatását kérheti:
 
-- a) aki a Magyar Szabadalmi Hivatal előtti eljárásban ügyfélként vett részt;
+- a) aki a Szellemi Tulajdon Nemzeti Hivatala előtti eljárásban ügyfélként vett részt;
 - b) akit az iratbetekintésből kizártak vagy abban korlátoztak;
 - c) akitől az ügyféli jogállást megtagadták.
 
-(5) A Magyar Szabadalmi Hivatal előtti eljárás egyéb résztvevője saját jogán önálló megváltoztatási kérelemmel élhet a döntés rá vonatkozó rendelkezése, illetve a rá vonatkozó döntés ellen.
+(5) A Szellemi Tulajdon Nemzeti Hivatala előtti eljárás egyéb résztvevője saját jogán önálló megváltoztatási kérelemmel élhet a döntés rá vonatkozó rendelkezése, illetve a rá vonatkozó döntés ellen.
 
 (6) A megváltoztatási kérelem benyújtásának vagy ajánlott küldeményként való postára adásának határideje – a (7) és a (8) bekezdésben szabályozott kivételekkel – a döntésnek a féllel, illetve az eljárás egyéb résztvevőjével való közlésétől számított harminc nap.
 
@@ -214,17 +214,17 @@ kapcsolatos ügyek.
 - a) ez a későbbi, mint a (6) bekezdés szerinti döntés közlésének napja, és
 - b) az eljárás folytatása iránti kérelmet vagy az igazolási kérelmet olyan mulasztás következményeinek az elhárítására terjesztették elő, amely közvetlenül a (6) bekezdés szerinti döntés alapjául szolgált.
 
-(8) Ha a Magyar Szabadalmi Hivatal döntésének a megváltoztatását a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint az Alkotmánybíróság határozata alapján kérik, a megváltoztatási kérelem előterjesztésének határideje az alkotmánybírósági döntés kihirdetésétől számított harminc napra ismételten megnyílik.
+(8) Ha a Szellemi Tulajdon Nemzeti Hivatala döntésének a megváltoztatását a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint az Alkotmánybíróság határozata alapján kérik, a megváltoztatási kérelem előterjesztésének határideje az alkotmánybírósági döntés kihirdetésétől számított harminc napra ismételten megnyílik.
 
-(9) A megváltoztatási kérelem a Magyar Szabadalmi Hivatalnál nyújtható be, amely azt az ügy irataival együtt – a (10) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz. Ha az eljárásban ellenérdekű fél vett részt, a Magyar Szabadalmi Hivatal a megváltoztatási kérelem továbbításáról egyidejűleg az ellenérdekű felet is értesíti.
+(9) A megváltoztatási kérelem a Szellemi Tulajdon Nemzeti Hivatalánál nyújtható be, amely azt az ügy irataival együtt – a (10) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz. Ha az eljárásban ellenérdekű fél vett részt, a Szellemi Tulajdon Nemzeti Hivatala a megváltoztatási kérelem továbbításáról egyidejűleg az ellenérdekű felet is értesíti.
 
-(10) Ha a megváltoztatási kérelem elvi jelentőségű jogkérdést vet fel, a Magyar Szabadalmi Hivatal e kérdésben írásbeli nyilatkozatot tehet, és azt a megváltoztatási kérelemmel, valamint az ügy irataival együtt harminc napon belül továbbítja a bírósághoz.
+(10) Ha a megváltoztatási kérelem elvi jelentőségű jogkérdést vet fel, a Szellemi Tulajdon Nemzeti Hivatala e kérdésben írásbeli nyilatkozatot tehet, és azt a megváltoztatási kérelemmel, valamint az ügy irataival együtt harminc napon belül továbbítja a bírósághoz.
 
 (11) A megváltoztatási kérelem kellékeire a keresetlevélre vonatkozó szabályok megfelelően irányadók.
 
 (12) Ha a megváltoztatási kérelmet elkésetten nyújtották be, az igazolási kérelem tárgyában a bíróság határoz.
 
-(13) A Magyar Szabadalmi Hivatal által az oltalommal összefüggő ügyekben hozott döntés felülvizsgálatára irányuló bírósági eljárásban egyebekben a Magyar Szabadalmi Hivatal szabadalmi ügyekben hozott döntésének felülvizsgálatára irányuló bírósági eljárás szabályait kell megfelelően alkalmazni.
+(13) A Szellemi Tulajdon Nemzeti Hivatala által az oltalommal összefüggő ügyekben hozott döntés felülvizsgálatára irányuló bírósági eljárásban egyebekben a Szellemi Tulajdon Nemzeti Hivatala szabadalmi ügyekben hozott döntésének felülvizsgálatára irányuló bírósági eljárás szabályait kell megfelelően alkalmazni.
 
 ### Az oltalommal összefüggő perek
 
@@ -238,4 +238,4 @@ kapcsolatos ügyek.
 
 (2) Az oltalom bitorlása miatt csak a törvény hatálybalépése után megkezdett hasznosítás tekintetében lehet fellépni.
 
-(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – a Magyar Szabadalmi Hivatal elnöke véleményének kikérésével, a Magyar Szabadalmi Hivatal felett felügyeletet gyakorló miniszterrel egyetértésben – a topográfia oltalmára irányuló bejelentés részletes alaki szabályait rendelettel megállapítsa.
+(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével, a Szellemi Tulajdon Nemzeti Hivatala felett felügyeletet gyakorló miniszterrel egyetértésben – a topográfia oltalmára irányuló bejelentés részletes alaki szabályait rendelettel megállapítsa.

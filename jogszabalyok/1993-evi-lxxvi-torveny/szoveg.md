@@ -75,7 +75,7 @@ irányul.
 
 (4) A Központi Statisztikai Hivatal elnöke feladatkörébe tartozó szakképesítésekre vonatkozó, az e törvényben meghatározott rendeletalkotási és egyetértési jogokat a Központi Statisztikai Hivatal elnöke véleményének kikérésével a Központi Statisztikai Hivatal felügyeletét ellátó miniszter gyakorolja.
 
-(5) A Közbeszerzések Tanácsának elnöke feladatkörébe tartozó, az e törvényben meghatározott rendeletalkotási és egyetértési jogokat a Közbeszerzések Tanácsának elnöke véleményének kikérésével az igazságügyért felelős miniszter gyakorolja.
+(5) A Közbeszerzések Tanácsának elnöke feladatkörébe tartozó, az e törvényben meghatározott rendeletalkotási és egyetértési jogokat a Közbeszerzések Tanácsának elnöke véleményének kikérésével az állami vagyon felügyeletéért felelős miniszter gyakorolja.
 
 ## MÁSODIK RÉSZ — A szakképzés irányítási rendszere
 
@@ -120,7 +120,7 @@ irányul.
 
 (5) A Hivatal a szakmai vizsga szervezésére Engedéllyel rendelkező intézményekről, az intézmény megnevezését, székhelyét, az Engedélyben szereplő szakképesítések azonosító számát, megnevezését és az Engedély kiadásának időpontját tartalmazó nyilvántartást vezet, továbbá ellenőrzi a szakmai vizsga szervezésére jogosultsággal rendelkező intézmények vizsgaszervezéssel összefüggő tevékenységét. Az ellenőrzéshez szükséges forrást a Munkaerőpiaci Alap képzési alaprészéből (a továbbiakban: MPA) kell biztosítani.
 
-(6) Az (5) bekezdés szerinti nyilvántartás nyilvános, azt a miniszter az általa vezetett minisztérium, valamint a Hivatal saját honlapján közzéteszi. A közzétett adatokat a hatóság döntését követő 5 munkanapon belül frissíteni kell. A Hivatal az Engedélyt megadó döntés egy példányát megküldi az érintett szakképesítésért felelős miniszternek.
+(6) Az (5) bekezdés szerinti nyilvántartás nyilvános, azt a miniszter az általa vezetett minisztérium, valamint a Hivatal saját honlapján közzéteszi. A közzétett adatokat a hatóság döntését követő nyolc napon belül frissíteni kell. A Hivatal az Engedélyt megadó döntés egy példányát megküldi az érintett szakképesítésért felelős miniszternek.
 
 (7) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
@@ -152,7 +152,7 @@ irányul.
 
 (8) Ha a Hivatal jogosultság hiányában jogellenesen folytatott szakmai vizsgaszervezési tevékenységről a szakmai vizsga lebonyolítását követően szerez tudomást, a vizsgát szervezővel szemben bírságot szab ki.
 
-(9) A Hivatal a (7)–(8) bekezdés szerinti eljárása alapján haladéktalanul értesíti a szakképesítésért felelős minisztert, aki az 5. § (4) bekezdés szerint jár el. A szakmai vizsgát jogellenesen szervező köteles a vizsgázó által befizetett vizsgadíjat a szakmai vizsga felfüggesztése esetén a vizsga felfüggesztésétől, a vizsga lebonyolítását követően észlelt jogellenesség esetén a jogsértést megállapító döntés közlésétől számított 10 munkanapon belül maradéktalanul visszatéríteni.
+(9) A Hivatal a (7)–(8) bekezdés szerinti eljárása alapján haladéktalanul értesíti a szakképesítésért felelős minisztert, aki az 5. § (4) bekezdés szerint jár el. A szakmai vizsgát jogellenesen szervező köteles a vizsgázó által befizetett vizsgadíjat a szakmai vizsga felfüggesztése esetén a vizsga felfüggesztésétől, a vizsga lebonyolítását követően észlelt jogellenesség esetén a jogsértést megállapító döntés közlésétől számított tizenöt napon belül maradéktalanul visszatéríteni.
 
 (10) A Hivatal a szakképesítésért felelős miniszter (9) bekezdés szerinti értesítésével egyidejűleg tájékoztatja az érintett vizsgázókat a szakmai vizsga eredménye megsemmisítésének jogkövetkezményéről és a szakmai vizsga letételének további lehetőségeiről.
 
@@ -312,7 +312,7 @@ irányul.
 
 (5) A vizsgabizottság munkáját szakértők (kérdező tanárok) segítik.
 
-(6) A vizsgabizottság döntése, intézkedése (a továbbiakban együtt: döntés), vagy intézkedésének elmulasztása ellen a vizsgázó jogszabálysértésre hivatkozva – a közléstől, ennek hiányában a tudomásra jutástól számított három munkanapon belül – a közoktatási feladatkörében eljáró oktatási hivatalhoz törvényességi kérelmet nyújthat be. A törvényességi kérelmet a közoktatási feladatkörében eljáró oktatási hivatal a beérkezéstől számított három munkanapon belül bírálja el. A törvényességi kérelemmel és a kérelem tárgyában hozott határozat bírósági felülvizsgálatával kapcsolatban az államigazgatási eljárás általános szabályait kell alkalmazni. A benyújtásra meghatározott határidő elmulasztása jogvesztő, igazolásnak helye nincs.
+(6) A vizsgabizottság döntése, intézkedése (a továbbiakban együtt: döntés), vagy intézkedésének elmulasztása ellen a vizsgázó jogszabálysértésre hivatkozva – a közléstől, ennek hiányában a tudomásra jutástól számított öt napon belül – a közoktatási feladatkörében eljáró oktatási hivatalhoz törvényességi kérelmet nyújthat be. A törvényességi kérelmet a közoktatási feladatkörében eljáró oktatási hivatal a beérkezést követő naptól számított öt napon belül bírálja el. A törvényességi kérelemmel és a kérelem tárgyában hozott határozat bírósági felülvizsgálatával kapcsolatban az államigazgatási eljárás általános szabályait kell alkalmazni. A benyújtásra meghatározott határidő elmulasztása jogvesztő, igazolásnak helye nincs.
 
 ## NEGYEDIK RÉSZ — Iskolai rendszerű szakképzés
 

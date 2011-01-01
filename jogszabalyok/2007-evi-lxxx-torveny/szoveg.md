@@ -397,7 +397,7 @@ a menedékjogról a következő törvényt alkotja:
 
 (3) A végzést az elismerését kérővel írásban kell közölni.
 
-(4) A menekültügyi hatóság a döntés közléséről – ha e törvény eltérően nem rendelkezik – annak meghozatalát követő öt munkanapon belül köteles gondoskodni.
+(4) A menekültügyi hatóság a döntés közléséről – ha e törvény eltérően nem rendelkezik – annak meghozatalát követő nyolc napon belül köteles gondoskodni.
 
 (5) A hirdetmény útján közölt döntést a hirdetmény kifüggesztését követő nyolcadik napon kell közöltnek tekinteni. A hirdetmény nem tartalmazhatja az ügy tárgyát, az elismerését kérő személyes adatai közül pedig kizárólag családi és utóneve tüntethető fel. A hirdetmény kizárólag a menekültügyi hatóság hirdetőtábláján helyezhető el. Hirdetményi közlést követően a döntés közlésére vonatkozóan a kapcsolattartás általános szabályai nem alkalmazhatók.
 
@@ -507,7 +507,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 47. § (1) A menekültügyi hatóság a menekültkénti vagy oltalmazottkénti elismerés iránti kérelmet (e fejezetben a továbbiakban: kérelem) a benyújtását követően előzetes vizsgálatnak veti alá.
 
-(2) Az előzetes vizsgálati eljárást huszonkét munkanapon belül kell lefolytatni. Az ügyintézési határidő nem hosszabbítható meg.
+(2) Az előzetes vizsgálati eljárást harminc napon belül kell lefolytatni. Az ügyintézési határidő nem hosszabbítható meg.
 
 48. § (1) A menekültügyi hatóság a menekültkénti vagy oltalmazottkénti elismerését kérő külföldit (e fejezetben a továbbiakban: kérelmező) az előzetes vizsgálati eljárást lezáró döntés vagy a 49. § (4) bekezdés alapján a kérelmező átadásáról hozott végzés jogerőre emelkedéséig befogadó állomáson helyezi el, kivéve, ha a kérelmező
 
@@ -617,7 +617,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (2) A kérelmező a részletes vizsgálati eljárás, valamint a részletes vizsgálati eljárásban hozott döntés bírósági felülvizsgálatának ideje alatt köteles a számára kijelölt szálláshelyen életvitelszerűen tartózkodni.
 
-(3) A részletes vizsgálati eljárást a részletes vizsgálati eljárásra utaló végzés meghozatalától számított negyvenöt munkanapon belül kell lefolytatni.
+(3) A részletes vizsgálati eljárást a részletes vizsgálati eljárásra utaló végzés meghozatalától számított két hónapon belül kell lefolytatni.
 
 57. § A részletes vizsgálati eljárásban e törvény végrehajtási rendeletében meghatározott rendvédelmi szerv szakhatóságként vesz részt.
 
@@ -750,7 +750,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (3) A menekültügyi hatóság a kérelmezőt a repülőtér tranzitterületén található szálláshelyen helyezi el.
 
-(4) A repülőtéri eljárásban az előzetes vizsgálati eljárást öt munkanapon belül le kell folytatni. Az előzetes vizsgálati eljárás során hozott döntés közléséről a menekültügyi hatóság haladéktalanul gondoskodik.
+(4) A repülőtéri eljárásban az előzetes vizsgálati eljárást nyolc napon belül le kell folytatni. Az előzetes vizsgálati eljárás során hozott döntés közléséről a menekültügyi hatóság haladéktalanul gondoskodik.
 
 (5) A kérelmezőt a Magyar Köztársaság területére be kell léptetni, ha
 
@@ -813,13 +813,13 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 - a) nem igazolja vagy valószínűsíti, hogy a 19. § a) vagy b) pontja szerint védelemre jogosult csoport tagja, vagy
 - b) menedékeskénti elismerése a 21. § alapján kizárt.
 
-(3) A külföldi menedékeskénti elismerésére irányuló eljárást harminc munkanapon belül kell lefolytatni. Az ügyintézési határidő nem hosszabbítható meg.
+(3) A külföldi menedékeskénti elismerésére irányuló eljárást negyvenöt napon belül kell lefolytatni. Az ügyintézési határidő nem hosszabbítható meg.
 
 (4) A menedékeskénti elismerésre irányuló eljárásban e törvény VII. Fejezetének rendelkezései megfelelően alkalmazandók.
 
 78. § (1) A menekültügyi hatóság a menedékeskénti elismerésre irányuló eljárás során köteles beszerezni az e törvény végrehajtási rendeletében meghatározott rendvédelmi szerv szakhatósági állásfoglalását.
 
-(2) Az e törvény végrehajtási rendeletében meghatározott rendvédelmi szerv köteles a menekültügyi hatóság megkeresésének huszonkét munkanapon belül eleget tenni. A szakhatósági eljárás ügyintézési határideje nem hoszszabbítható meg.
+(2) Az e törvény végrehajtási rendeletében meghatározott rendvédelmi szerv köteles a menekültügyi hatóság megkeresésének harminc napon belül eleget tenni. A szakhatósági eljárás ügyintézési határideje nem hoszszabbítható meg.
 
 (3)
 

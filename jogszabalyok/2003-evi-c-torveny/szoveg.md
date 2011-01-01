@@ -102,58 +102,32 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 
 ### A Nemzeti Média- és Hírközlési Hatóság
 
-9. § (1) A Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) autonóm államigazgatási szerv. A Hatóság a frekvenciagazdálkodás és a hírközlés területén részt vesz a Kormány – jogszabályokban meghatározott – politikájának végrehajtásában. A Hatóságnak az Országgyűlés által választott tagokból álló, önálló jogi személyiségű autonóm szerve a Médiatanács.
+9. §
 
-(2) A Hatóság önálló hatáskörrel rendelkező szervei: a Nemzeti Média- és Hírközlési Hatóság Elnöke (a továbbiakban: Elnök), a Nemzeti Média- és Hírközlési Hatóság önálló jogi személyiségű Médiatanácsa (a továbbiakban: Médiatanács) és a Nemzeti Média- és Hírközlési Hatóság Hivatala (a továbbiakban: Hivatal).
-
-(3) A Médiatanács összetételét, feladatát és hatáskörét a rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: Rttv.) szabályozza.
-
-(4) A Hatóság évente beszámol tevékenységéről az Országgyűlésnek.
-
-(5) A Hatóság feladata – különösen a 2–3. §-okban meghatározott céloknak és alapelveknek megfelelően – az elektronikus hírközlési piac zavartalan, eredményes működésének és fejlődésének, az elektronikus hírközlési tevékenységet végzők és a felhasználók érdekei védelmének, továbbá a tisztességes, hatékony verseny kialakulásának, illetve fenntartásának elősegítése az elektronikus hírközlési ágazatban, valamint az elektronikus hírközlési tevékenységet végző szervezetek és személyek jogszabályoknak megfelelő magatartásának felügyelete.
-
-(6) A Hatóság feladatát és hatáskörét önállóan, a jogszabályoknak megfelelően gyakorolja.
-
-(7) A Hatóság a költségvetési szervek gazdálkodására vonatkozó jogszabályok értelemszerű alkalmazásával gazdálkodik, feladatai ellátásával összefüggő kiadásokat saját bevételéből és költségvetési hozzájárulásból fedezi. A Hatóság egységes költségvetését az Országgyűlés önálló törvényben a (8) bekezdésben meghatározott források terhére hagyja jóvá, melyben egyúttal dönt a Hatóság előző évi költségvetésében esetlegesen képződött maradvány felhasználásáról. Az Elnök jogosult a jóváhagyott költségvetés kiadási előirányzatai közötti átcsoportosításra. A törvényjavaslatot az Országgyűlés költségvetési ügyekben illetékes bizottsága a tárgyévet megelőző év október 31-ig – a Hatóság szeptember 15-ig megküldött javaslata alapján – nyújtja be az Országgyűlésnek. A Médiatanács gazdálkodási autonómiáját az Rttv. szabályozza.
-
-(8) A Hatóság bevételét képezik a frekvencia díjak mindenkori költségvetési törvényben meghatározott része, az azonosítók lekötéséért és használatáért, továbbá a a hatósági eljárásért fizetett díjak, beszedett bírságok, a Műsorszolgáltatás Támogató és Vagyonkezelő Alap Rttv. 77. § (4) bekezdésében meghatározott forrásai közül a Médiatanács és hivatali szerve működési költségeinek fedezetére fordítható összeg, valamint a felügyeleti díj, amelyeket a Hatóság hatékony, magas szakmai színvonalú működtetésére kell felhasználni. A befolyt bevételekről és azok felhasználásáról készült kimutatást a külön jogszabályban meghatározott tartalommal a Hatóság évente közzéteszi. A Médiatanács bevételeire vonatkozó szabályokat az Rttv. tartalmazza.
-
-(9) A Hatóság tevékenységével összefüggésben felmerült költségek fedezése érdekében az elektronikus hírközlési szolgáltatók felügyeleti díjat kötelesek fizetni. A díj mértéke az elektronikus hírközlési szolgáltató elektronikus hírközlési szolgáltatásaiból származó előző évi nettó árbevételének legfeljebb 0,35%-a, előző évi árbevétel hiányában a tárgyévi árbevétel egész évre vetített időarányos része. A felügyeleti díj mértékét a törvény által megengedett határokon belül évente a miniszter rendeletben határozza meg.
-
-(10) A felügyeleti díjat negyedévente – a negyedév végéig – kell a Hatóság részére befizetni.
-
-(11) Amennyiben a Hatóság e törvényben meghatározott bevételei egy költségvetési évben meghaladják a jogszabályban meghatározott feladatai ellátásához kapcsolódó kiadások összegét, a többletet a Hatóság éves beszámolójának elfogadását követően – a tárgyévben teljesített felügyeleti díjbefizetések arányában és legfeljebb azok mértékéig – a tárgyévet követő évben fizetendő felügyeleti díjban jóvá kell írni.
-
-(12) A Kormány nem polgári célú frekvenciagazdálkodással kapcsolatos közigazgatási feladatait a Kormányzati Frekvenciagazdálkodási Hatóság (a továbbiakban: KFGH) látja el.
-
-(12a) A Hatóság az elektronikus hírközlés területén a tudatos fogyasztói döntéshozatal kultúrájának fejlesztésére – így különösen a hírközlési jog, a verseny- és fogyasztóvédelmi politika körébe tartozó tudományos-oktatási programok támogatására, a hírközlési joggal, illetve fogyasztóvédelmi politikával foglalkozó szakemberek képzésére, a hírközlési politikával, valamint a fogyasztói döntéshozatallal és védelmével kapcsolatos tájékozottság növelése érdekében végzett tájékoztatásra – jogosult felhasználni az előző évben befolyt bírságok teljes összegét. A tárgyévben e célból rendelkezésre álló, de fel nem használt összeg a következő évre átvihető, és a tudatos fogyasztói döntéshozatal kultúrájának fejlesztésére fordítható.
-
-(13) A KFGH a Hivatal szervezetében és a főigazgató irányítása alatt önálló hatáskörű szervezeti egységként működik.
-
-10. § A Hatóság
+10. § (1) A Hatóság
 
 - a) szükség szerint, de legalább évente nyilatkozik a hatáskörével összefüggő, elektronikus hírközlésre vonatkozó jogszabályok megalkotásának, illetőleg módosításának szükségességéről, közreműködik a hatáskörével összefüggő jogszabályok előkészítésében;
 - b) nyilvános meghallgatást tart;
-- c)
-- d) a szabályozói, szakmapolitikai, piacélénkítési és pályáztatási döntések megalapozása érdekében felméri és folyamatosan elemzi a hírközlési és az ehhez kapcsolódó informatikai piac működését;
-- e) a szabályozói és hírközlés-politikai döntések és elemzések módszertani megalapozása érdekében, továbbá a hírközlési ágazat felhasználóbarát információ szolgáltatásának biztosítása érdekében folyamatosan értékeli a hírközlési piac helyzetét, és erről összehasonlító elemzéseket készít;
-- f) az e törvényben meghatározottak szerint megállapítja az érintett piacokat, elemzi az érintett piacokon fennálló versenyt, illetve annak hatékonyságát, azonosítja az egyes érintett piacokon jelentős piaci erővel rendelkező szolgáltatókat, valamint meghatározza a jelentős piaci erővel rendelkező szolgáltatókat terhelő kötelezettségeket;
-- g) eljár a jelentős piaci erővel rendelkező szolgáltató számára megállapított egyes kötelezettségek teljesítésével, illetve megszegésével összefüggésben;
-- h) hivatalból vagy kérelemre eljár az elektronikus hírközlésre vonatkozó szabály megsértése miatt, illetve szerződéskötéssel kapcsolatos jogviták esetén indított eljárásokban;
-- i) eljár hálózati szolgáltatásokkal összefüggésben kialakult árpréssel kapcsolatos ügyekben;
-- j) közzéteszi a jogszabályban előírt nyilvántartásokat, adatokat, döntéseket;
-- k) a gazdálkodás körében gyakorolja a rádiófrekvenciákra és azonosítókra vonatkozó állami tulajdonosi jogokat, polgári célú gazdálkodást folytat a rádiófrekvenciák és azonosítók vonatkozásában;
-- l) koordinálja az elektronikus hírközléssel kapcsolatos, külön jogszabályban meghatározott honvédelmi, rendvédelmi, nemzetbiztonsági és védelmi felkészítési, valamint az ezekkel kapcsolatos adatszolgáltatási feladatok végrehajtását, működteti az informatikai és hírközlési ágazat ügyeleti szolgálatát;
-- m) eljár az elektronikus hírközlési szolgáltatások bejelentésével, a polgári célú frekvenciagazdálkodással, az azonosítógazdálkodással, a jogszabályban előírt nyilvántartások vezetésével, a zavarelhárítással, a piacfelügyelettel, az ingatlanhasználattal, az elektronikus hírközlési építmények engedélyezésével, az építésfelügyelettel kapcsolatos hatósági ügyekben;
-- n) eljár a Kormány, illetve a miniszter hatáskörébe nem tartozó, polgári célú frekvenciagazdálkodással kapcsolatos ügyekben;
-- o)
-- p) ellenőrzi a miniszter által kijelölt megfelelőségértékelő szervezetek tevékenységét;
-- q)
-- r) ellátja az Egyetemes Elektronikus Hírközlési Támogatási Kassza működtetésével kapcsolatos, jogszabályban meghatározott feladatokat;
-- s) ellátja az információs társadalommal összefüggő szolgáltatásokkal kapcsolatos, jogszabályban meghatározott feladatokat;
-- t) közreműködik a Kormány elektronikus hírközléssel kapcsolatos nemzetközi tevékenységének előkészítésében, részt vesz a nemzetközi kötelezettségek végrehajtásában, ellátja a Magyar Köztársaság képviseletét az elektronikus hírközléssel kapcsolatos nemzetközi szervezetekben, kapcsolatot tart az Európai Bizottsággal és más tagállami szabályozó hatóságokkal;
-- u) ellátja a jogszabályban meghatározott egyéb feladatokat;
-- v) eljár a nem polgári célú frekvenciagazdálkodással kapcsolatos hatósági ügyekben.
+- c) a szabályozói, szakmapolitikai, piacélénkítési és pályáztatási döntések megalapozása érdekében felméri és folyamatosan elemzi a hírközlési és az ehhez kapcsolódó informatikai piac működését;
+- d) a szabályozói és hírközlés-politikai döntések és elemzések módszertani megalapozása érdekében, továbbá a hírközlési ágazat felhasználóbarát információ szolgáltatásának biztosítása érdekében folyamatosan értékeli a hírközlési piac helyzetét, és erről összehasonlító elemzéseket készít;
+- e) az e törvényben meghatározottak szerint megállapítja az érintett piacokat, elemzi az érintett piacokon fennálló versenyt, illetve annak hatékonyságát, azonosítja az egyes érintett piacokon jelentős piaci erővel rendelkező szolgáltatókat, valamint meghatározza a jelentős piaci erővel rendelkező szolgáltatókat terhelő kötelezettségeket;
+- f) eljár a jelentős piaci erővel rendelkező szolgáltató számára megállapított egyes kötelezettségek teljesítésével, illetve megszegésével összefüggésben;
+- g) hivatalból vagy kérelemre eljár az elektronikus hírközlésre vonatkozó szabály megsértése miatt, illetve szerződéskötéssel kapcsolatos jogviták esetén indított eljárásokban;
+- h) eljár hálózati szolgáltatásokkal összefüggésben kialakult árpréssel kapcsolatos ügyekben;
+- i) közzéteszi a jogszabályban előírt nyilvántartásokat, adatokat, döntéseket;
+- j) a gazdálkodás körében gyakorolja a rádiófrekvenciákra és azonosítókra vonatkozó állami tulajdonosi jogokat, polgári célú gazdálkodást folytat a rádiófrekvenciák és azonosítók vonatkozásában;
+- k) koordinálja az elektronikus hírközléssel kapcsolatos, külön jogszabályban meghatározott honvédelmi, rendvédelmi, nemzetbiztonsági és védelmi felkészítési, valamint az ezekkel kapcsolatos adatszolgáltatási feladatok végrehajtását, működteti az informatikai és hírközlési ágazat ügyeleti szolgálatát;
+- l) eljár az elektronikus hírközlési szolgáltatások bejelentésével, a polgári célú frekvenciagazdálkodással, az azonosítógazdálkodással, a jogszabályban előírt nyilvántartások vezetésével, a zavarelhárítással, a piacfelügyelettel, az ingatlanhasználattal, az elektronikus hírközlési építmények engedélyezésével, az építésfelügyelettel kapcsolatos hatósági ügyekben;
+- m) eljár a Kormány, illetve a miniszter hatáskörébe nem tartozó, polgári célú frekvenciagazdálkodással kapcsolatos ügyekben;
+- n) zártcélú hálózatok létesítése, összekapcsolása, fejlesztése, korszerűsítése során a zártcélú hálózatokról szóló jogszabály szerint egyeztet a hálózatgazdákkal;
+- o) ellenőrzi a miniszter által kijelölt megfelelőségértékelő szervezetek tevékenységét;
+- p) ellátja az Egyetemes Elektronikus Hírközlési Támogatási Kassza működtetésével kapcsolatos, jogszabályban meghatározott feladatokat;
+- q) ellátja az információs társadalommal összefüggő szolgáltatásokkal kapcsolatos, jogszabályban meghatározott feladatokat;
+- r) közreműködik a Kormány elektronikus hírközléssel kapcsolatos nemzetközi tevékenységének előkészítésében, részt vesz a nemzetközi kötelezettségek végrehajtásában, ellátja a Magyar Köztársaság képviseletét az elektronikus hírközléssel kapcsolatos nemzetközi szervezetekben, kapcsolatot tart az Európai Bizottsággal és más tagállami szabályozó hatóságokkal;
+- s) ellátja a jogszabályban meghatározott egyéb feladatokat;
+- t) eljár a nem polgári célú frekvenciagazdálkodással kapcsolatos hatósági ügyekben.
+
+(2) Az Elnök ellátja az (1) bekezdés b), valamint d)–h) pontjában meghatározott hatáskörökből eredő feladatokat, továbbá elfogadja az éves piacfelügyeleti tervet, és ellenőrzi annak végrehajtását. A Hivatal eljár az (1) bekezdés a), c), j) és l)–s) pontjaiban meghatározott ügyekben, továbbá ellátja az Elnök által – a Hatóság elnökeként és a Médiatanács elnökeként – e törvény valamint a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény keretei között, illetve e törvények felhatalmazása alapján a más jogszabályok által ráruházott feladatokat. A főigazgató eljár az (1) bekezdés i) és k) pontjaiban meghatározott ügyekben, valamint ellátja az Elnök által – a Hatóság elnökeként és a Médiatanács elnökeként – e törvény valamint a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény keretei között, illetve e törvények felhatalmazása alapján a más jogszabályok által ráruházott feladatokat.
 
 11. § (1) A rádiótávközlési és rádióspektrum-politika érvényesítése érdekében a Hatóság és a KFGH (a továbbiakban együtt: frekvenciagazdálkodó hatóságok) műszaki tervet készít a szabályozás előkészítése érdekében:
 
@@ -188,222 +162,21 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 
 ### Az Elnök
 
-14. § (1) Az Elnök
+14. §
 
-- a) felelős az elektronikus hírközléssel kapcsolatos jogszabályok végrehajtásáért,
-- b) ellátja a Nemzeti Média- és Hírközlési Hatóság vezetését,
-- c) ellátja a 10. § b)–i) pontjában meghatározott hatáskörökből eredő feladatokat,
-- d) elfogadja az éves piacfelügyeleti tervet, és ellenőrzi annak végrehajtását,
-- e) előterjeszti a hatóság éves költségvetésének tervezetét, valamint a féléves és éves intézményi költségvetési beszámolóját,
-- f) javaslatot tesz az elektronikus hírközlést érintő jogszabály módosítására,
-- g) külön jogszabály rendelkezései alapján dönt a Hatóság tevékenysége során kezelt minősített adatok minősítéséről.
+14/A. §
 
-(2) Az Elnököt a miniszterelnök nevezi ki 9 évre.
-
-(3) Az Elnök olyan személy lehet, aki az országgyűlési képviselők választásán választójoggal rendelkezik, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint felsőfokú végzettséggel és legalább három év, a műsorszórással, vagy a médiaszolgáltatással, vagy a média hatósági felügyeletével, vagy az elektronikus hírközléssel, vagy a hírközlési hatósági felügyelettel összefüggő közgazdasági, társadalomtudományi, jogi, műszaki vagy vezetői (vezető testületben tagsági), illetve igazgatási gyakorlattal rendelkezik.
-
-(4) Az Elnök a (2) bekezdésben meghatározott időtartamnak a lejárta után korlátlan alkalommal kinevezhető.
-
-(5) Az Elnök nem lehet
-
-- a) a köztársasági elnök, a miniszterelnök, a kormány tagja, a Hivatalt vezető főigazgató, államtitkár, közigazgatási államtitkár, helyettes államtitkár, a főpolgármester, főpolgármesterhelyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő vagy fizetett alkalmazottja, az Európai Parlament tagja, köztisztviselő, kormánytisztviselő, helyi önkormányzati képviselő, párt országos vagy területi szervezetének tisztségviselője, költségvetési szervvel vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
-- b) műsorszolgáltató, műsorforgalmazó, műsorterjesztő, internetes tartalomszolgáltató, reklámügynökség, lapkiadó, lapterjesztő vállalkozás vezetője, vezető testületének tagja, ügyvezetője, felügyelő bizottsági tagja, illetőleg, aki műsorszolgáltatóval, műsorforgalmazóval, műsorterjesztővel, internetes tartalomszolgáltatóval, reklámügynökséggel, lapkiadóval vagy lapterjesztővel munkavégzésre irányuló jogviszonyban áll, illetőleg, aki ilyen gazdasági társaságban rendelkezik közvetlen vagy közvetett tulajdoni részesedéssel,
-- c) olyan gazdasági társaság közvetlen vagy közvetett – nyilvánosan működő részvénytársaság esetében 5%-ot meghaladó mértékű – tulajdonosa, illetve ezekkel foglalkoztatásra irányuló jogviszonyban álló személy, amely társaság a b) pontban meghatározott szervezetekkel megbízási vagy vállalkozási jogviszonyban áll,
-- d) az előző pontok alá eső személynek a polgári jogi jogszabályokban meghatározottak szerinti közeli hozzátartozója.
-
-(6) Az Elnök pártpolitikai tevékenységet nem folytathat, párt nevében nyilatkozatot nem tehet.
-
-(7) Az Elnököt nem lehet utasítani a tisztségének betöltésével kapcsolatos eljárása és döntése vonatkozásában.
-
-(8) Az Elnök jogosult két elnökhelyettes kinevezésére.
-
-(9) Elnökhelyettes olyan személy lehet, aki az országgyűlési képviselők választásán választójoggal rendelkezik, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint felsőfokú végzettséggel és legalább három év, a műsorszórással, vagy a médiaszolgáltatással, vagy a média hatósági felügyeletével, vagy az elektronikus hírközléssel, vagy a hírközlési hatósági felügyelettel összefüggő közgazdasági, társadalomtudományi, jogi, műszaki vagy vezetői (vezető testületben tagsági), illetve igazgatási gyakorlattal rendelkezik.
-
-(10) Az (5) és (6) bekezdések rendelkezéseit értelemszerűen az elnökhelyettes vonatkozásában is alkalmazni kell.
-
-(11) Az elnökhelyettes a Szervezeti és Működési Szabályzatban meghatározott feltételek esetén helyettesíti az elnököt. Az Elnök a másodfokú hatósági döntési hatáskört jogosult az elnökhelyettesre delegálni. Az elnökhelyettes egyéb feladatait a Szervezeti és Működési Szabályzat határozza meg.
-
-(12) Az elnökhelyettest nem lehet utasítani a másodfokú hatósági döntéshozatal során.
-
-(13) Az Elnök miniszteri, az elnökhelyettes államtitkári illetményre és juttatásokra jogosult.
-
-(14) Az Elnök és az elnökhelyettes társadalombiztosítási jogállására a közszolgálati jogviszonyban állókra vonatkozó szabályok az irányadók. Megbízatásuk időtartama közszolgálati jogviszonyban töltött időnek, illetőleg nyugdíjra jogosító szolgálati időnek számít.
-
-(15) A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvénynek
-
-- a) a miniszter jogállására vonatkozó rendelkezéseit az Elnök jogállására, és
-- b) az államtitkár jogállására vonatkozó rendelkezéseit az elnökhelyettes jogállására alkalmazni kell az e törvényben nem szabályozott kérdésekben.
-
-14/A. § (1) Az Elnök – a kinevezését követően haladéktalanul – hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű és nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt.
-
-(2) Ha az Elnök az (1) bekezdésben meghatározott igazolási kötelezettségének önhibájából adódóan nem tesz eleget, az összeférhetetlenség jogkövetkezményeit kell alkalmazni.
-
-(3) A miniszterelnök az Elnöknek az (1) bekezdés alapján megismert személyes adatait az Elnök megbízatásának megszűnéséig kezeli.
-
-(4) Az elnökhelyettes tekintetében az (1)–(3) bekezdésben meghatározottakat kell alkalmazni azzal az eltéréssel, hogy a (3) bekezdésben meghatározott jogosultságot az Elnök gyakorolja.
-
-15. § (1) Az Elnök megbízatása megszűnik, ha
-
-- a) a kinevezés időtartama lejár,
-- b) tisztségéről lemond,
-- c) meghal,
-- d) a miniszterelnök a (3) bekezdés szerint felmenti.
-
-(2) Az elnökhelyettes megbízatása megszűnik, ha
-
-- a) tisztségéről lemond,
-- b) meghal,
-- c) az elnök a (4) bekezdés szerint felmenti,
-- d) az (5) bekezdés szerinti visszahívással.
-
-(3) A miniszterelnök felmenti az Elnököt, ha
-
-- a) a 14. § (5) bekezdés szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő 30 napon belül nem szünteti meg,
-- b) ha az Elnökkel szemben lefolytatott büntetőeljárás eredményeként az Elnök bűnösségét a bíróság – szabadságvesztés vagy az Elnök tevékenységének megfelelő foglalkozástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg,
-- c) cselekvőképességet kizáró gondnokság alá helyezték,
-- d) ha neki felróható okból több mint 6 hónapon át nem tesz eleget megbízatásából eredő feladatainak.
-
-(4) Az Elnök felmenti az elnökhelyettest, ha
-
-- a) a 14. § (10) bekezdése szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő 30 napon belül nem szünteti meg,
-- b) ha az elnökhelyettessel szemben lefolytatott büntetőeljárás eredményeként az elnökhelyettes bűnösségét a bíróság – szabadságvesztés vagy az elnökhelyettes tevékenységének megfelelő foglalkozástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg.
-
-(5) Visszahívással is megszüntetheti az Elnök az elnökhelyettes megbízását. A visszahívást nem kell indokolni.
-
-(6) Az Elnök, illetve az elnökhelyettes megbízatásának megszűnése után egy éven át
-
-- a) nem létesíthet munka-, munkavégzésre irányuló egyéb jogviszonyt olyan gazdasági társasággal,
-- b) nem létesíthet rendszeres gazdasági kapcsolatot gazdasági társaság vezető tisztségviselőjeként vagy tulajdonosaként olyan gazdasági társasággal, illetve
-- c) nem szerezhet részesedést olyan gazdasági társaságban, amelynek jogát vagy jogos érdekét elnökként, illetve elnökhelyettesként hozott döntése érintette.
-
-(7) A megbízatás (1) bekezdés a) vagy b) pont szerinti megszűnése esetén az Elnököt a megszűnéskori havi illetménye kétszeresének megfelelő összegű végkielégítés illeti meg. Ha az Elnök 3 évnél rövidebb ideig töltötte be tisztségét, úgy a (6) bekezdésben meghatározott tilalom a megbízatás megszűnésétől számított 6 hónapig áll fenn, és ebben az esetben 1 havi illetménye illeti meg végkielégítésként.
-
-(8) A megbízatás (2) bekezdés a) vagy d) pont szerinti megszűnése esetén az elnökhelyettest a megszűnéskori havi illetménye kétszeresének megfelelő összegű végkielégítés illeti meg. Ha az elnökhelyettes 3 évnél rövidebb ideig töltötte be tisztségét, úgy a (6) bekezdésben meghatározott tilalom a megbízatás megszűnésétől számított 6 hónapig áll fenn, és ebben az esetben 1 havi illetménye illeti meg végkielégítésként.
-
-16. § (1) Az Elnök további feladatai:
-
-- a) összehívja, és vezeti a Médiatanács üléseit
-  - aa) addig az időpontig, ameddig az Országgyűlés nem választja meg a Médiatanács elnökévé, tanácskozási joggal,
-  - ab) a Médiatanács elnökévé történő megválasztását követően szavazati joggal,
-- b) intézkedik a Médiatanács üléseinek előkészítéséről,
-- c) kinevezi az elnökhelyetteseket, és gyakorolja felettük a munkáltatói jogokat, ideértve a felmentést, illetve a visszahívást is,
-- d) kinevezi a Hivatal főigazgatóját és gyakorolja felette a munkáltatói jogokat, ideértve a felmentést és a visszahívást is,
-- e) a főigazgató javaslatára kinevezi, felmenti, illetve visszahívja a főigazgató-helyetteseket,
-- f) kinevezi, felmenti, illetve visszahívja a Hírközlési és Média Biztost, és gyakorolja felette a munkáltatói jogokat,
-- g) elfogadja a Hatóság Szervezeti és Működési Szabályzatát,
-- h) képviseli a Hatóságot, különösen az Európai Bizottsággal és a tagállami szabályozó hatóságokkal történő kapcsolattartás és a 65. § szerinti egyeztetés során,
-- i) minden év február 28-áig közzéteszi a Hatóság éves munkatervét és költségvetési tervének főbb mutatószámait, valamint június 30-áig előző évi gazdálkodásának éves értékelését abból a célból, hogy a piac szereplői a Hatóság tevékenységéről és gazdálkodásáról tájékoztatást kapjanak,
-- j) évente megállapítja a szakmai előkészítő munkákkal kapcsolatos feladatokat,
-- k) jelzi a miniszternek a hírközlés biztonságát veszélyeztető körülményeket, és javaslatot tesz az általa szükségesnek ítélt intézkedések megtételére,
-- l) megbízás alapján eljár nemzetközi szervezeteknél,
-- m) a Hatóság nevében évente együttműködési megállapodást köt a fogyasztóvédelmi hatósággal és a versenyhatósággal,
-- n) másodfokú szervként jár el a Hivatal hatósági ügyei tekintetében,
-- o) a főigazgató javaslatára kinevezi, felmenti, illetve visszahívja a KFGH igazgatóját.
-
-(2) Az Elnöknek a Médiatanács elnökévé jelölésére és megválasztására vonatkozó szabályokat az Rttv. tartalmazza.
+15–16. §
 
 ### A Hivatal
 
-17. § (1) A Hivatal élén az Elnök által kinevezett főigazgató áll.
+17. §
 
-(2) A Hivatal eljár a 10. § a), k) és m)–u) pontjaiban meghatározott ügyekben, továbbá ellátja a jogszabály, illetve az Elnök által e törvény, az Rttv. és más jogszabályok keretei között ráruházott feladatokat.
+17/A. §
 
-(3) A Hivatal az Elnök, az elnökhelyettesek, a Médiatanács, illetve a Médiatanács tagjai részére szakmai támogatást nyújt feladataik ellátásához.
+18. §
 
-(4) A KFGH élén az Elnök által a főigazgató javaslatára kinevezett igazgató áll, felette a munkáltatói jogokat – a kinevezés és a felmentés, illetve a visszahívás kivételével – a főigazgató gyakorolja. A KFGH igazgatója kinevezésének, felmentésének, illetve visszahívásának feltételeit a Hatóság Szervezeti és Működési Szabályzata határozza meg.
-
-(5) A 10. § v) pontjában meghatározott ügyekben a KFGH jár el.
-
-17/A. § (1) A főigazgatót az Elnök nevezi ki.
-
-(2) A főigazgató olyan személy lehet, aki az országgyűlési képviselők választásán választójoggal rendelkezik, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint felsőfokú végzettséggel és legalább három év, a műsorszórással, vagy a médiaszolgáltatással, vagy a média hatósági felügyeletével, vagy az elektronikus hírközléssel, vagy a hírközlési hatósági felügyelettel összefüggő közgazdasági, társadalomtudományi, jogi, műszaki vagy vezetői (vezető testületben tagsági), illetve igazgatási gyakorlattal rendelkezik.
-
-(3) A főigazgató államtitkári illetményre és juttatásokra jogosult.
-
-(4) A főigazgató nem lehet
-
-- a) a köztársasági elnök, a miniszterelnök, a kormány tagja, az e törvény szerinti Elnök, államtitkár, közigazgatási államtitkár, helyettes államtitkár, a főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő vagy fizetett alkalmazottja, az Európai Parlament tagja, kormánytisztviselő, helyi önkormányzati képviselő, párt országos vagy területi szervezetének tisztségviselője, költségvetési szervvel vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
-- b) műsorszolgáltató, műsorforgalmazó, műsorterjesztő, internetes tartalomszolgáltató, reklámügynökség, lapkiadó, lapterjesztő vállalkozás vezetője, vezető testületének tagja, ügyvezetője, felügyelő bizottsági tagja, illetőleg, aki műsorszolgáltatóval, műsorforgalmazóval, műsorterjesztővel, internetes tartalomszolgáltatóval, reklámügynökséggel, lapkiadóval vagy lapterjesztővel munkavégzésre irányuló jogviszonyban áll, illetőleg, aki ilyen gazdasági társaságban rendelkezik közvetlen vagy közvetett tulajdoni részesedéssel,
-- c) olyan gazdasági társaság közvetlen vagy közvetett – nyilvánosan működő részvénytársaság esetében 5%-ot meghaladó mértékű – tulajdonosa, illetve ezekkel foglalkoztatásra irányuló jogviszonyban álló személy, amely társaság a b) pontban meghatározott szervezetekkel megbízási vagy vállalkozási jogviszonyban áll,
-- d) az előző pontok alá eső személynek a polgári jogi jogszabályokban meghatározottak szerinti közeli hozzátartozója.
-
-(5) A főigazgató pártpolitikai tevékenységet nem folytathat, párt nevében nyilatkozatot nem tehet.
-
-(6) A főigazgatót nem lehet utasítani az elsőfokú hatósági határozathozatali joggyakorlása során.
-
-(7) A főigazgató megbízatása megszűnik, ha
-
-- a) tisztségéről lemond,
-- b) meghal,
-- c) az Elnök a (8) bekezdés szerint felmenti,
-- d) a (9) bekezdés szerinti visszahívással.
-
-(8) Az Elnök felmenti a főigazgatót, ha
-
-- a) a (4) bekezdés szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő 30 napon belül nem szünteti meg,
-- b) ha a főigazgatóval szemben lefolytatott büntetőeljárás eredményeként a főigazgató bűnösségét a bíróság – szabadságvesztés vagy a főigazgató tevékenységének megfelelő foglalkozástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg.
-
-(9) Visszahívással is megszüntetheti az Elnök a főigazgató megbízatását. A visszahívást nem kell indokolni.
-
-(10) A főigazgató megbízatásának megszűnése után egy éven át
-
-- a) nem létesíthet munkaviszonyt, illetve munkavégzésre irányuló egyéb jogviszonyt olyan gazdasági társasággal,
-- b) nem létesíthet rendszeres gazdasági kapcsolatot gazdasági társaság vezető tisztségviselőjeként vagy tulajdonosaként olyan gazdasági társasággal, illetve
-- c) nem szerezhet részesedést olyan gazdasági társaságban, amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintette.
-
-(11) A megbízatás (7) bekezdés a) vagy d) pont szerinti megszűnése esetén a főigazgatót a megszűnéskori havi illetménye kétszeresének megfelelő összegű végkielégítés illeti meg. Ha a főigazgató 3 évnél rövidebb ideig töltötte be tisztségét, úgy a (10) bekezdésben meghatározott tilalom a megbízatás megszűnésétől számított 6 hónapig áll fenn, és ebben az esetben 1 havi illetménye illeti meg végkielégítésként.
-
-(12) A főigazgató tekintetében a 14/A. § (1)–(3) bekezdésében meghatározottakat kell alkalmazni azzal az eltéréssel, hogy a 14/A. § (3) bekezdésében meghatározott jogosultságot az Elnök gyakorolja.
-
-18. § A főigazgató feladatai:
-
-- a) ellátja a Hivatal feletti szervezeti és szakmai irányítást, és a Hivatal vezetése körében az elnök helyettesének minősül,
-- b) eljár a 10. § j) és l) pontjaiban meghatározott ügyekben,
-- c) biztosítja a hatóság szervezetrendszerének hatékony működését,
-- d) javaslatot tesz az Elnöknek a főigazgató-helyettesek kinevezésére, felmentésére, illetve visszahívására, gyakorolja a munkáltatói jogokat a helyettesei, valamint a Hivatal alkalmazottai tekintetében,
-- e) gondoskodik az e törvényben meghatározott információk közzétételéről,
-- f) a Médiatanács elnökének meghívása alapján tanácskozási joggal részt vesz a Médiatanács ülésein,
-- g) biztosítja, hogy a Hivatal az Elnök, az elnökhelyettesek, a Médiatanács, illetve a Médiatanács tagjai részére feladataik ellátásához az Elnök által – a Médiatanács és tagjai esetében a Médiatanács elnökeként – meghatározott mértékben és módon szakmai támogatást nyújtson,
-- h) ellátja a jogszabály, illetve az Elnök által – a Hatóság elnökeként és a Médiatanács elnökeként – e törvény keretei között ráruházott feladatokat és jogköröket.
-
-18/A. § (1) A főigazgató javaslatára az Elnök jogosult főigazgató-helyetteseket kinevezni. A főigazgató-helyettesek számát és feladatkörüket az Szervezeti és Működési Szabályzatban kell szabályozni.
-
-(2) A főigazgató-helyettes olyan személy lehet, aki az országgyűlési képviselők választásán választójoggal rendelkezik, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint felsőfokú végzettséggel és legalább három év, a műsorszórással, vagy a médiaszolgáltatással, vagy a média hatósági felügyeletével, vagy az elektronikus hírközléssel, vagy a hírközlési hatósági felügyelettel összefüggő közgazdasági, társadalomtudományi, jogi, műszaki vagy vezetői (vezető testületben tagsági), illetve igazgatási gyakorlattal rendelkezik.
-
-(3) A főigazgató-helyettes helyettes államtitkári illetményre és juttatásokra jogosult.
-
-(4) A főigazgató-helyettes nem lehet
-
-- a) a köztársasági elnök, a miniszterelnök, a kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, a főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő vagy fizetett alkalmazottja, az Európai Parlament tagja, helyi önkormányzati képviselő, kormánytisztviselő, párt országos vagy területi szervezetének tisztségviselője, költségvetési szervvel vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
-- b) műsorszolgáltató, műsorforgalmazó, műsorterjesztő, internetes tartalomszolgáltató, reklámügynökség, lapkiadó, lapterjesztő vállalkozás vezetője, vezető testületének tagja, ügyvezetője, felügyelő bizottsági tagja, illetőleg, aki műsorszolgáltatóval, műsorforgalmazóval, műsorterjesztővel, internetes tartalomszolgáltatóval, reklámügynökséggel, lapkiadóval vagy lapterjesztővel munkavégzésre irányuló jogviszonyban áll, illetőleg, aki ilyen gazdasági társaságban rendelkezik közvetlen vagy közvetett tulajdoni részesedéssel,
-- c) olyan gazdasági társaság közvetlen vagy közvetett – nyilvánosan működő részvénytársaság esetében 5%-ot meghaladó mértékű – tulajdonosa, illetve ezekkel foglalkoztatásra irányuló jogviszonyban álló személy, amely társaság a b) pontban meghatározott szervezetekkel megbízási vagy vállalkozási jogviszonyban áll,
-- d) az a)–c) pontok alá eső személynek a polgári jogi jogszabályokban meghatározottak szerinti közeli hozzátartozója.
-
-(5) A főigazgató-helyettes pártpolitikai tevékenységet nem folytathat, párt nevében nyilatkozatot nem tehet.
-
-(6) A főigazgató-helyettes megbízatása megszűnik, ha
-
-- a) tisztségéről lemond,
-- b) meghal,
-- c) az Elnök a (7) bekezdés szerint felmenti,
-- d) az (8) bekezdés szerinti visszahívással.
-
-(7) Az Elnök felmenti a főigazgató-helyettest, ha
-
-- a) a (4) bekezdés szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő 30 napon belül nem szünteti meg,
-- b) ha a főigazgató-helyettessel szemben lefolytatott büntetőeljárás eredményeként a főigazgató-helyettes bűnösségét a bíróság – szabadságvesztés vagy a főigazgató-helyettes tevékenységének megfelelő foglalkozástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg.
-
-(8) A főigazgató javaslatára visszahívással is megszüntetheti az Elnök a főigazgató-helyettes megbízatását. A visszahívást nem kell indokolni.
-
-(9) A főigazgató-helyettes megbízatásának megszűnése után egy éven át
-
-- a) nem létesíthet munkaviszonyt, illetve munkavégzésre irányuló egyéb jogviszonyt olyan gazdasági társasággal,
-- b) nem létesíthet rendszeres gazdasági kapcsolatot gazdasági társaság vezető tisztségviselőjeként vagy tulajdonosaként olyan gazdasági társasággal, illetve
-- c) nem szerezhet részesedést olyan gazdasági társaságban, amelynek jogát vagy jogos érdekét főigazgató-helyettesként hozott döntése érintette.
-
-(10) A megbízatás (6) bekezdés a) vagy d) pont szerinti megszűnése esetén a főigazgató-helyettest a megszűnéskori havi illetménye kétszeresének megfelelő összegű végkielégítés illeti meg. Ha a főigazgató-helyettes 3 évnél rövidebb ideig töltötte be tisztségét, úgy a (9) bekezdésben meghatározott tilalom a megbízatás megszűnésétől számított 6 hónapig áll fenn, és ebben az esetben 1 havi illetménye illeti meg végkielégítésként.
-
-(11) A főigazgató-helyettes tekintetében a 14/A. § (1)–(3) bekezdésében meghatározottakat kell alkalmazni azzal az eltéréssel, hogy a 14/A. § (3) bekezdésében meghatározott jogosultságot az Elnök gyakorolja.
+18/A. §
 
 ### A Hatóság alkalmazottai
 
@@ -584,7 +357,7 @@ alapelveit.
 - b) a szabálytalanul forgalomba hozott, forgalmazott elektronikus hírközlési berendezés minden darabja után a nettó beszerzési érték ötszöröse;
 - c) szabálytalan frekvenciahasználat esetén a jogsértéssel érintett éves frekvencia díj tízszerese;
 - d) árprésre vonatkozó tilalom megsértése esetén a jogsértő árbevételének 0,5%-a;
-- e) referenciaajánlat-tervezet benyújtására, a számviteli nyilvántartások elkülönített vezetésével és a hálózati szolgáltatások költségszámításával kapcsolatos adatszolgáltatásra, továbbá a jelentős piaci erővel rendelkező szolgáltató számára határozatban megállapított egyéb kötelezettség teljesítésének elmulasztása, illetve késedelmes vagy nem megfelelő teljesítése esetén a jogsértő árbevételének 0,5%-a; illetve
+- e) a referenciaajánlat-tervezet benyújtására, a számviteli nyilvántartások elkülönített vezetésével és a hálózati szolgáltatások költségszámításával valamint a hírközlési ágazati vizsgálattal kapcsolatos adatszolgáltatásra, továbbá a jelentős piaci erővel rendelkező szolgáltató számára határozatban megállapított egyéb kötelezettség teljesítésének elmulasztása, illetve késedelmes vagy nem megfelelő teljesítése esetén a jogsértő árbevételének 0,5%-a; illetve
 - f) az V. fejezet szerinti egyéb ügyekben, elektronikus hírközlésre vonatkozó szabály megsértése esetén a jogsértő árbevételének 0,1%-a;
 - g) műsorterjesztéssel kapcsolatos elektronikus hírközlési szabály megsértése esetén a jogsértő árbevételének 5%-a;
 - h) rádiófrekvencia, illetve azonosító engedély nélküli használata esetén a jogsértő árbevételének 1%-a, árbevétel hiányában legalább 10 000 Ft, legfeljebb 100 000 Ft.
@@ -609,13 +382,13 @@ pénzbírsággal sújthatja – ismételt jogsértés esetén sújtani köteles 
 
 34. § (1) A Hatóság, ha feladatainak ellátásához megítélése szerint az 1. § b)–d) pontjaiban meghatározottak, illetve a fogyasztói érdekvédelmi szervezetek közreműködése, szakmai álláspontjuk, illetve véleményük megismerése indokolt – de legalább félévente – nyilvános meghallgatást tart az elektronikus hírközlést érintő jogszabályok és azok végrehajtására vonatkozó intézkedések előkészítésével, továbbá az elektronikus hírközléssel kapcsolatos jogszabályok alkalmazásával kapcsolatos megfelelő jogalkalmazói gyakorlat kialakítása, illetve a jogalkalmazói gyakorlattal kapcsolatos szakmai álláspontok és vélemények megismerése céljából.
 
-(2) A Hatóság a nyilvános meghallgatásról, annak időpontjáról, helyéről és tárgyáról szóló információkat legalább huszonkét munkanappal megelőzően közzéteszi.
+(2) A Hatóság a nyilvános meghallgatásról, annak időpontjáról, helyéről és tárgyáról szóló információkat legalább harminc nappal megelőzően közzéteszi.
 
-(3) A Hatóság a nyilvános meghallgatás tárgyával kapcsolatos előkészítő információkat – az üzleti titkok kivételével – legalább tíz munkanappal megelőzően közzéteszi.
+(3) A Hatóság a nyilvános meghallgatás tárgyával kapcsolatos előkészítő információkat – az üzleti titkok kivételével – legalább tizenöt nappal megelőzően közzéteszi.
 
-35. § (1) Álláspontot, javaslatot és egyéb észrevételeket legkésőbb a nyilvános meghallgatáson szóban vagy írásban lehet előterjeszteni. A Hatóság a nyilvános meghallgatás időpontját legkésőbb öt munkanappal megelőzően elektronikus dokumentumként részére eljuttatott anyagokat az internetes oldalán közzéteszi.
+35. § (1) Álláspontot, javaslatot és egyéb észrevételeket legkésőbb a nyilvános meghallgatáson szóban vagy írásban lehet előterjeszteni. A Hatóság a nyilvános meghallgatás időpontját legkésőbb nyolc nappal megelőzően elektronikus dokumentumként részére eljuttatott anyagokat az internetes oldalán közzéteszi.
 
-(2) A nyilvános meghallgatásról a Hatóság összefoglalót készít, amely tartalmazza az előterjesztett, illetve elhangzott észrevételeket és javaslatokat, kivéve az észrevételt, illetve javaslatot tevő által üzleti titoknak minősített adatokat. Az összefoglalót a Hatóság a meghallgatás időpontját követő huszonkét munkanapon belül közzéteszi, és külön jogszabály rendelkezései szerint megőrzi.
+(2) A nyilvános meghallgatásról a Hatóság összefoglalót készít, amely tartalmazza az előterjesztett, illetve elhangzott észrevételeket és javaslatokat, kivéve az észrevételt, illetve javaslatot tevő által üzleti titoknak minősített adatokat. Az összefoglalót a Hatóság a meghallgatás időpontját követő harminc napon belül közzéteszi, és külön jogszabály rendelkezései szerint megőrzi.
 
 (3) A nyilvános meghallgatások eljárásának részleteit a Hatóság közzéteszi.
 
@@ -626,9 +399,9 @@ pénzbírsággal sújthatja – ismételt jogsértés esetén sújtani köteles 
 - a) az érintett piacok meghatározásával kapcsolatos, a jelentős piaci erővel rendelkező szolgáltatók azonosítására, valamint a jelentős piaci erővel rendelkező, illetve más szolgáltatókra az e törvény szerint előírható kötelezettségek megállapítására és a referenciaajánlatok jóváhagyására vonatkozó,
 - b) a Hatóság megítélése szerint az érdekeltekkel egyébként egyeztetést igénylő
 
-határozatának meghozatala előtt legalább huszonkét munkanappal közzéteszi a határozat tervezetét, valamint az ezekkel kapcsolatos előkészítő anyagokat, kivéve az érdekeltek által üzleti titoknak minősített adatokat.
+határozatának meghozatala előtt legalább harminc nappal közzéteszi a határozat tervezetét, valamint az ezekkel kapcsolatos előkészítő anyagokat, kivéve az érdekeltek által üzleti titoknak minősített adatokat.
 
-(2) Akinek jogát vagy jogos érdekét a határozat érintheti, a határozat tervezetének (1) bekezdés szerinti közzétételétől számított tizenöt munkanapon belül írásban megküldheti a Hatóság részére a tervezett határozatra vonatkozó álláspontját, javaslatát, egyéb észrevételét (a továbbiakban: észrevétel).
+(2) Akinek jogát vagy jogos érdekét a határozat érintheti, a határozat tervezetének (1) bekezdés szerinti közzétételétől számított húsz napon belül írásban megküldheti a Hatóság részére a tervezett határozatra vonatkozó álláspontját, javaslatát, egyéb észrevételét (a továbbiakban: észrevétel).
 
 (3) A Hatóság az (1) bekezdés szerinti határozata meghozatala során a beérkezett észrevételeket lehetőség szerint figyelembe veszi. A határozat által érintett fél indokolt kérelmére vagy hivatalból a Hatóság az érdekelteket szóban is meghallgathatja. A határozat indokolásában a Hatóság megjelöli a figyelembe vett, illetve a figyelembe nem vett észrevételeket, valamint azok figyelmen kívül hagyásának indokát.
 
@@ -689,11 +462,11 @@ határozatának meghozatala előtt legalább huszonkét munkanappal közzéteszi
 
 ### Ügyintézési határidő
 
-44. § (1) Az Elnök – amennyiben e törvény eltérő szabályokat nem állapít meg – az e törvénynek megfelelő kérelem érkezésétől, illetőleg az eljárás megindításától számított harmincöt munkanapon belül köteles határozatot hozni.
+44. § (1) Az Elnök – amennyiben e törvény eltérő szabályokat nem állapít meg – az e törvénynek megfelelő kérelem érkezésétől, illetőleg az eljárás megindításától számított negyvenöt napon belül köteles határozatot hozni.
 
-(2) Az érdekeltekkel történő egyeztetést igénylő eljárásokban az ügyintézési határidő ötvenöt munkanap.
+(2) Az érdekeltekkel történő egyeztetést igénylő eljárásokban az ügyintézési határidő hetven nap.
 
-(3) A határidő indokolt esetben egy alkalommal, legfeljebb tíz munkanappal meghosszabbítható; erről az eredeti határidő lejárta előtt a feleket értesíteni kell.
+(3) A határidő indokolt esetben egy alkalommal, legfeljebb tizenöt nappal meghosszabbítható; erről az eredeti határidő lejárta előtt a feleket értesíteni kell.
 
 (4) Az 52–55. § szerinti, piacmeghatározással, piacelemzéssel és a jelentős piaci erejű szolgáltatók számára előírható kötelezettségek előírásával kapcsolatos eljárásokra kizárólag az 57. § (1) bekezdése szerinti határidő vonatkozik.
 
@@ -784,7 +557,7 @@ határozatának meghozatala előtt legalább huszonkét munkanappal közzéteszi
 
 50. § (1) A kérelmező a kérelemben a 41. § (1)–(2) bekezdésén túl bizonyítási indítványt is előterjeszthet.
 
-(2) A kérelmet az eljáró tanács annak beérkezését követően haladéktalanul megküldi a másik ügyfélnek, és legfeljebb tíz munkanapos határidő tűzésével felhívja, hogy észrevételeit és bizonyítékait terjessze elő, illetve a kérelmező részére közvetlenül küldje meg.
+(2) A kérelmet az eljáró tanács annak beérkezését követően haladéktalanul megküldi a másik ügyfélnek, és legfeljebb tizenöt napos határidő tűzésével felhívja, hogy észrevételeit és bizonyítékait terjessze elő, illetve a kérelmező részére közvetlenül küldje meg.
 
 (3) Az eljáró tanács jogvitás ügyekben tárgyalást tart, melyen a felek és egyéb érdekeltek személyesen vagy képviselőik útján jelen lehetnek, nyilatkozatot és észrevételt tehetnek, a tárgyalás befejezéséig bizonyítékaikat előterjeszthetik.
 
@@ -925,8 +698,22 @@ válik szükségessé, az Elnök a 36. § és az 52. § szerinti eljárásokat l
 (5) Amennyiben az Elnök tudomására jutott új körülmény alapján a 116. § (1) bekezdés szerinti hálózati szolgáltatás ellenértékéről nem állapítható meg, hogy igazodik a hálózati szolgáltatás nyújtásával összefüggésben felmerülő költségek mértékéhez, úgy az Elnök határozatában
 
 - a) megállapítja a hálózati szolgáltatás és a ráépülő előfizetői szolgáltatás ára közötti különbség kötelező legkisebb mértékét, és a szolgáltatót a hálózati szolgáltatás árának megfelelő csökkentésére kötelezi, illetve
-- b) 15 napos határidő tűzésével a költségekhez nem igazodó ellenérték révén árprést okozó árat tartalmazó referenciaajánlat módosítására kötelezi a szolgáltatót, a határidő eredménytelen elteltét követően tíz munkanapon belül a referenciaajánlatot a jogszerű árnak megfelelően határozattal módosítja, valamint
+- b) 15 napos határidő tűzésével a költségekhez nem igazodó ellenérték révén árprést okozó árat tartalmazó referenciaajánlat módosítására kötelezi a szolgáltatót, a határidő eredménytelen elteltét követően tizenöt napon belül a referenciaajánlatot a jogszerű árnak megfelelően határozattal módosítja, valamint
 - c) e törvényben, illetve külön jogszabályban megállapított keretek között a jogsértés súlyával arányos bírságot, illetve intézkedést alkalmazhat.
+
+### Hírközlési ágazati vizsgálat
+
+63/A. § (1) Az Elnök az e törvényben foglalt rendelkezések érvényesülésének értékelése, illetve az e törvény szerinti hatósági hatáskörök alkalmazása szükségességének feltárása érdekében, amennyiben az ármozgások vagy más piaci körülmények arra utalnak, hogy a hírközlési piacok valamelyikén a verseny torzul vagy korlátozódik, – a piaci folyamatok megismerése és értékelése céljából – végzéssel hatósági ellenőrzési eljárást indít.
+
+(2) Az Elnök ezen eljárása nem érinti a Gazdasági Versenyhivatal tisztességtelen piaci magatartás és versenykorlátozás tilalmáról szóló törvényben rögzített, ágazati vizsgálat lefolytatására irányuló hatáskörét.
+
+(3) A hatósági ellenőrzés megindításáról az Elnök hirdetmény útján értesíti az elektronikus hírközlési szolgáltatókat, amelynek a Ket. vonatkozó rendelkezéseitől eltérően az ügy tárgyát és rövid ismertetését kell tartalmaznia. A végzés indokolásában meg kell jelölni azt is, hogy mely piaci körülményekre tekintettel szükséges az ágazati vizsgálat megindítása. A végzést hirdetményi úton, a Hatóság hirdetőtáblájára való kifüggesztéssel, valamint a Hatóság internetes honlapján kell közzétenni. Az eljárást megindító végzést a hirdetmény kifüggesztését követő tizenötödik napon kell kézbesítettnek tekintetni.
+
+(4) Amennyiben a hatósági ellenőrzés eredményeként az Elnök megállapítja, hogy vizsgált piaci folyamatok következtében a hírközlési piac valamelyikén a verseny torzulhat, vagy korlátozódhat, és megítélése szerint ez az e törvény szerinti hatáskörök gyakorlása útján nem orvosolható, akkor kezdeményezheti a Gazdasági Versenyhivatal versenyfelügyeleti eljárásának megindítását.
+
+(5) A Gazdasági Versenyhivatal az Elnök (4) bekezdés szerinti kezdeményezése alapján a versenyfelügyeleti eljárás megindítását mellőzi, amennyiben azonos vizsgálati tárgyban, azonos időszakra nézve ágazati vizsgálati eljárása van folyamatban, vagy, ha azonos vizsgálati tárgyban, azonos időszakra nézve ágazati már korábban ágazati vizsgálatot folytatott le. Erről a tényről a Gazdasági Versenyhivatal a Hatóságot tájékoztatja.
+
+(6) Amennyiben a versenyfelügyeleti eljárás kezdeményezése nem indokolt, vagy hatáskör hiányában nem lehetséges, illetve az azonosított piaci probléma a Hatóság saját hatáskörében sem orvosolható, tájékoztatja a jogalkotásra jogosult szervet.
 
 ### Piaci erőre tekintet nélkül előírható kötelezettségekkel kapcsolatos eljárások
 
@@ -960,7 +747,7 @@ mivel az véleménye szerint az egységes piac akadálya lehet, vagy annak a kö
 
 (5) Amennyiben az Európai Bizottság határozatában nem hagyja jóvá az Elnök 56. § szerinti határozatának tervezetét, az Elnök az Európai Bizottság határozatában foglaltak szerint jár el. Az Európai Bizottság jóváhagyása esetén az Elnök az 56. § szerinti határozatát az Európai Bizottság részére megküldött határozattervezet szerinti tartalommal hozza meg.
 
-(6) Kivételesen sürgős esetekben, a verseny és a fogyasztói érdekek védelme érdekében az Elnök ideiglenes határozatot hozhat az (1) bekezdés szerinti ügyekben. Az ideiglenes határozat azonnal végrehajtható. Ebben az esetben az Elnök az ideiglenes határozatot, annak részletes indokolásával együtt haladéktalanul megküldi az Európai Bizottságnak és a tagállami elektronikus hírközlési szabályozó hatóságoknak. Az Elnök az ideiglenes határozat fenntartásáról a (2)–(5) bekezdés szerinti észrevételek, kifogás, illetve határozat alapján az észrevételek, illetve kifogás kézhezvételétől számított tíz munkanapon belül határozatban dönt.
+(6) Kivételesen sürgős esetekben, a verseny és a fogyasztói érdekek védelme érdekében az Elnök ideiglenes határozatot hozhat az (1) bekezdés szerinti ügyekben. Az ideiglenes határozat azonnal végrehajtható. Ebben az esetben az Elnök az ideiglenes határozatot, annak részletes indokolásával együtt haladéktalanul megküldi az Európai Bizottságnak és a tagállami elektronikus hírközlési szabályozó hatóságoknak. Az Elnök az ideiglenes határozat fenntartásáról a (2)–(5) bekezdés szerinti észrevételek, kifogás, illetve határozat alapján az észrevételek, illetve kifogás megérkezését követő naptól számított tizenöt napon belül határozatban dönt.
 
 ### VI. Fejezet — A HATÓSÁG EGYES ELJÁRÁSAI
 
@@ -1053,7 +840,7 @@ mivel az véleménye szerint az egységes piac akadálya lehet, vagy annak a kö
 
 (5) A Hatóság a rádiófrekvenciás spektrum hatékony és megfelelő használata, a káros zavarok elkerülése érdekében, illetőleg külön jogszabályban meghatározott közegészségügyi szempontok alapján a frekvenciahasználatot korlátozhatja vagy megtagadhatja.
 
-(6) A közszolgálati műsorszolgáltatóra rótt közszolgáltatási kötelezettségek teljesítéséhez szükséges frekvenciahasználati jogosultság kiadása során a közszolgálati műsorszolgáltató kérelme elsőbbséget élvez.
+(6) A közszolgálati médiaszolgáltatóra rótt közszolgáltatási kötelezettségek teljesítéséhez szükséges frekvenciahasználati jogosultság kiadása során a közszolgálati médiaszolgáltató kérelme elsőbbséget élvez.
 
 (7) A frekvenciagazdálkodó hatóságnak a frekvenciahasználatra irányuló kérelmet el kell utasítania, ha
 
@@ -1140,72 +927,9 @@ mivel az véleménye szerint az egységes piac akadálya lehet, vagy annak a kö
 
 ### VII/A. Fejezet — A Nemzeti Hírközlési és Informatikai Tanács
 
-73/A. § (1) A Nemzeti Hírközlési és Informatikai Tanács (a továbbiakban: NHIT) a Kormány informatikai és hírközlési feladatai ellátásában közreműködő, öt tagból álló testület.
+73/A–73/B. §
 
-(2) Az NHIT elnökét és alelnökét a miniszterelnök nevezi ki és menti fel.
-
-(3) Az NHIT tagjai – köztük az NHIT elnöke és alelnöke – a hírközlés, illetve az informatika területén legalább ötéves gyakorlattal rendelkezők köréből kerül ki.
-
-(4) A tagok közül
-
-- a) két tagot a Médiatanács,
-- b) egy tagot a Magyar Tudományos Akadémia delegál.
-
-(6) Az NHIT csak a törvénynek van alárendelve, és tagjai tevékenységük körében nem utasíthatók.
-
-(7) Az NHIT tagjainak megbízása négy évre szól.
-
-(8) Az NHIT-re és tagjaira az Rttv. 35. §-ában és a 37. § (1) bekezdésében foglaltakat megfelelően alkalmazni kell, az alábbi eltérésekkel:
-
-- a) az NHIT elnöke, alelnöke és tagja nem lehet többségi magántulajdonban álló hírközlési, műsorkészítő, hírlapkiadó, hírlapterjesztő és frekvenciagazdálkodási tevékenységet folytató szervezetnél vezető beosztású dolgozó, igazgatósági vagy felügyelő bizottsági tag, kuratóriumi tag, illetőleg ilyen szervvel nem állhat munkavégzésre irányuló jogviszonyban, és nem lehet tulajdonosa (tagja, részvényese),
-- b) az NHIT elnöke és alelnöke lehet köztisztviselő vagy kormánytisztviselő,
-- c) a megüresedett helyet az erre jogosult szerv harminc napon belül köteles betölteni,
-- d) az összeférhetetlenségről, felmentésről, vagy kizárásról szóló döntéshez az NHIT tagjai kétharmadának szavazata szükséges.
-
-(9) A (8) bekezdés a) pontja szerinti összeférhetetlenségi előírásokat – a közeli hozzátartozóra vonatkozó korlátozás kivételével – a tagság megszűnését követő hat hónapban is alkalmazni kell.
-
-73/B. § (1) Az NHIT a Kormány véleményező, tanácsadó szerve.
-
-(2) Az NHIT véleményezheti a Kormánynak az infokommunikáció (informatika-hírközlés-média) területén:
-
-- a) az információs társadalom kialakításának programjával, az információs kultúra elterjesztésével, az információs társadalomra vonatkozó stratégiai döntésekkel;
-- b) a kutatás-fejlesztés irányvonalának meghatározásával; valamint
-- c) a társadalmi szemléletmód és kultúra terjesztésével kapcsolatban; továbbá
-- d) a hírközlési piac szabályozásának kialakítására, a piacon működők esélyegyenlőségének elősegítésére;
-- e) a kormányzati és a polgári frekvenciagazdálkodás összhangjának biztosítására;
-- f) a rádió-távközlési világ- és körzeti értekezleteken képviselendő magyar álláspontot;
-- g) valamint az információs társadalom infrastruktúrájának szabályozásával kapcsolatos stratégiai előterjesztéseket, az információs társadalom kialakításának programját.
-
-(3) Az NHIT véleményezi:
-
-- a) a frekvenciafelhasználás általános elveinek meghatározását, a frekvenciasávok nemzeti felosztásáról szóló kormányrendeletek, miniszteri rendeletek tervezeteit;
-- b) a rádió-frekvenciatartomány polgári és nem polgári célú megosztásának módosítását, valamint az érintett miniszterek között – a frekvenciagazdálkodás körében – felmerült vitás kérdéseket;
-- c) a Kormány, vagy a miniszterelnök felkérésére valamennyi, a hírközléssel és az informatikával összefüggő előterjesztést, egyedi döntést, jogszabálytervezetet;
-- d) az információs társadalom infrastruktúrájának szabályozásával kapcsolatos stratégiai előterjesztéseket, az információs társadalom kialakításának programját.
-
-(4) Az NHIT elnöke a vizsgált frekvenciasávok igénybevételében, az ezekkel végzett szolgáltatásokban érdekelt szervezetek képviselőit tanácskozási joggal meghívhatja.
-
-(5) Az NHIT akkor határozatképes, ha tagjainak több mint a fele jelen van, és legalább az elnök, vagy az alelnök is jelen van. Határozatait szótöbbséggel hozza, szavazategyenlőség esetében az elnök szavazata dönt.
-
-(6) Az NHIT működésének rendjét maga állapítja meg.
-
-(7) Az NHIT működéséhez szükséges forrásokat a Hatóság költségvetésén belül kell biztosítani. A források más célra nem csoportosíthatók át.
-
-(8) Az NHIT gazdálkodását az Állami Számvevőszék ellenőrzi. Az NHIT feladatai teljesítéséről évente jelentést készít az Országgyűlés illetékes bizottságának.
-
-73/C. § (1) Az NHIT Irodája (a továbbiakban: Iroda) a Hatóság szervezetébe tagozódó részjogkörű költségvetési egység, melynek vezetője irodaigazgató cím használatára jogosult.
-
-(2) Az Iroda ellátja az NHIT működésével kapcsolatos feladatokat, végzi az ahhoz szükséges adminisztratív tevékenységet.
-
-(3) Az Iroda Feladat- és Hatásköri Szabályzatát – az NHIT elnökének egyetértésével – az Elnök hagyja jóvá.
-
-(4) Az Iroda adminisztrációs tevékenységét – az NHIT határozatainak és az NHIT elnöke utasításainak megfelelően – az Iroda vezetője irányítja.
-
-(5) Az Iroda e törvény 73/B. § (2)–(3) bekezdése alapján az NHIT által a Kormánynak, illetve a miniszterelnöknek adandó véleményhez az NHIT részére tárgyalási, illetve döntés-előkészítő anyagokat készít.
-
-(6) Az NHIT elnöke közvetlenül irányítja az Irodának e törvény 73/B. § (2)–(3) bekezdésében meghatározott feladatokkal kapcsolatos tárgyalási, illetve döntés-előkészítő anyagok készítésére vonatkozó szakmai tevékenységét.
-
-(7) Az Elnök az Iroda vezetőjével kapcsolatos munkáltatói jogkörök közül a közszolgálati jogviszony létesítését és megszűnését az NHIT elnökének javaslata alapján gyakorolja, egyebekben a munkáltatói jogokat az NHIT elnöke gyakorolja.
+73/C. §
 
 ## HARMADIK RÉSZ — AZ ELEKTRONIKUS HÍRKÖZLÉSI SZOLGÁLTATÁSOKRA, ILLETŐLEG TEVÉKENYSÉGEKRE VONATKOZÓ SZABÁLYOK
 
@@ -1248,7 +972,7 @@ legmagasabb árát a miniszter állapítja meg az árak megállapításáról sz
 - d) az elektronikus hírközlési szolgáltatás, illetve amennyiben a bejelentő elektronikus hírközlő hálózatot üzemeltet, az elektronikus hírközlő hálózat megjelölése és rövid leírása; a szolgáltatásnyújtás földrajzi területe;
 - e) a szolgáltatásnyújtás megkezdésének tervezett időpontja.
 
-(3) A Hatóság a bejelentőt a bejelentésben közölt adatoknak megfelelően bejegyzi az elektronikus hírközlő hálózatokról és elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába, és a bejelentés időpontjától számított öt munkanapon belül a nyilvántartásba vétel tényét visszaigazolja, egyúttal a hírközlési szolgáltató írásos kérelmére igazolást állít ki arról, hogy a szolgáltató a 74. § (1) bekezdésében meghatározott tevékenységek végzésére jogosult.
+(3) A Hatóság a bejelentőt a bejelentésben közölt adatoknak megfelelően bejegyzi az elektronikus hírközlő hálózatokról és elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába, és a bejelentés időpontjától számított nyolc napon belül a nyilvántartásba vétel tényét visszaigazolja, egyúttal a hírközlési szolgáltató írásos kérelmére igazolást állít ki arról, hogy a szolgáltató a 74. § (1) bekezdésében meghatározott tevékenységek végzésére jogosult.
 
 (4) A Hatóság a szolgáltatót a szolgáltató által a (2) bekezdés d) pontja szerint adott leírás alapján, az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások rendszerezésére vonatkozóan a Hatóság által kialakított és közzétett osztályozás szerint jegyzi be nyilvántartásába.
 
@@ -1347,7 +1071,7 @@ köréből jelöli ki a megőrzött adatok átvételére és azok 159/A. § szer
 
 (3) A rádiófrekvencia felhasználásának összhangban kell lennie a frekvenciasávok nemzeti felosztására, valamint a sávfelhasználás szabályaira vonatkozó jogszabályokkal – kivéve a kísérleti és a 30 napnál rövidebb felhasználást, valamint a Magyarországon forgalmazott, de üzemszerűen Magyarországon nem használható berendezések kipróbálását – és a külön jogszabályban meghatározott közegészségügyi, zavarsugárzási és zavarvédelmi előírásokkal.
 
-(4) A 69. § (6) bekezdése alapján kiadott frekvenciahasználati jog gyakorlása során a közszolgálati műsorszolgáltató köteles biztosítani a közszolgálati műsorok általános elérhetőségével és minőségével kapcsolatban rárótt közszolgáltatási kötelezettségek teljesítését. Így különösen, hosszú távon köteles biztosítani a műsorszolgáltatási jogosultság meghatározott vételkörzetében a műsorszórás folytonosságát és meghatározott minőségét, a frekvenciahasználati jogot ráruházó engedélyben meghatározott részletes feltételek szerint.
+(4) A 69. § (6) bekezdése alapján kiadott frekvenciahasználati jog gyakorlása során a közszolgálati médiaszolgáltató köteles biztosítani a közszolgálati műsorok általános elérhetőségével és minőségével kapcsolatban rárótt közszolgáltatási kötelezettségek teljesítését. Így különösen, hosszú távon köteles biztosítani a médiaszolgáltatási jogosultság meghatározott vételkörzetében a műsorszórás folytonosságát és meghatározott minőségét, a frekvenciahasználati jogot ráruházó engedélyben meghatározott részletes feltételek szerint.
 
 (5) A frekvenciahasználati jog külön jogszabályban meghatározott esetekben és feltételekkel ruházható át.
 
@@ -1878,26 +1602,7 @@ köteles biztosítani.
 
 ### Hírközlési és Média Biztos
 
-126. § (1) A Hírközlési és Média Biztos (a továbbiakban: Biztos) a Hatóság köztisztviselője.
-
-(2) A Biztoshoz bejelentéssel élhet bármely előfizető, felhasználó, továbbá a fogyasztói érdekek képviseletét ellátó társadalmi szervezet, amennyiben megítélése szerint valamely szolgáltató, forgalomba hozó vagy forgalmazó tevékenysége, szolgáltatása, terméke, eljárása, ennek során hozott intézkedése, illetőleg valamely intézkedése elmulasztása következtében az előfizetőt, illetve a felhasználót az elektronikus hírközlésre vonatkozó szabályban vagy az előfizetői szerződésben meghatározott jogaival összefüggésben sérelem érte, vagy ennek közvetlen veszélye áll fenn.
-
-(3) A Biztos az előfizetők, illetve felhasználók elektronikus hírközlésre vonatkozó szabályban meghatározott jogaival kapcsolatos jogszabálysértés megszüntetése érdekében a (2) bekezdésben megjelölt feltételek fennállása esetén hivatalból is eljárhat.
-
-(4) A Biztos a hozzá benyújtott beadványt köteles megvizsgálni. A célszerűnek tartott intézkedést e § keretei között maga választja meg. A képviselő a beadvány alapján
-
-- a) tájékoztatja a bejelentőt az elektronikus hírközlésre vonatkozó szabályban, illetve előfizetői szerződésben meghatározott jogairól és kötelezettségeiről, valamint a számára nyitva álló eljárásokról és jogorvoslatokról,
-- b) felszólíthatja a szolgáltatót az elektronikus hírközlésre vonatkozó szabály, illetve előfizetői szerződés megsértésének megszüntetésére, illetve intézkedés megtételére,
-- c) kezdeményezheti a hatóság hivatalból történő eljárását,
-- d) más hatóságnál – a bejelentő egyidejű értesítése mellett – megfelelő eljárás megindítását kezdeményezheti.
-
-(5) A Biztos a hozzá érkező bejelentéseket rendszerezi és az előfizetők nagy számát érintő vagy egyéb, megítélése szerint jelentős esetben a Hatóság számára a hivatalból történő eljárásához szükséges megállapításokat tartalmazó intézkedési javaslatot tesz.
-
-(6) A Biztos eljárása során bármely szolgáltatótól, forgalomba hozótól, forgalmazótól az előfizetők, illetve felhasználók elektronikus hírközlésre vonatkozó szabályban meghatározott jogainak megsértésével kapcsolatos adatokat, felvilágosítást és magyarázatot kérhet.
-
-(7) Ha a Biztos adatot (felvilágosítást, magyarázatot vagy egyéb információt) kér, a megkeresésnek a szolgáltató a képviselő által megállapított határidőn, de legfeljebb 15 napon belül köteles eleget tenni.
-
-(8) A Biztos a lefolytatott vizsgálat eredményéről, illetve esetleges intézkedéséről a bejelentőt értesíti.
+126. §
 
 ### Előfizetői szerződés
 
@@ -2300,7 +2005,7 @@ köteles biztosítani.
 
 (4) Elektronikus hírközlő hálózat igénybevételével elektronikus hírközlő végberendezésen csak a felhasználó, illetve előfizető világos és teljes körű tájékoztatását követő hozzájárulása alapján lehet információt tárolni, vagy az ott tárolt információhoz hozzáférni.
 
-(5) A nyomozó hatóságok és a Rendvédelmi Szervek Védelmi Szolgálata (a továbbiakban együtt: nyomozó hatóságok), valamint a nemzetbiztonsági szolgálatok külön törvényben foglaltak szerint, továbbá a frekvenciagazdálkodó hatóságok – a 11. § (3) bekezdésében előírt jogkör gyakorlása során – a közléseket megfigyelhetik, lehallgathatják, tárolhatják vagy a küldeménybe, közlésbe azok megfigyelése érdekében más módokon beavatkozhatnak.
+(5) A nyomozó hatóságok és a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv (a továbbiakban együtt: nyomozó hatóságok), valamint a nemzetbiztonsági szolgálatok külön törvényben foglaltak szerint, továbbá a frekvenciagazdálkodó hatóságok – a 11. § (3) bekezdésében előírt jogkör gyakorlása során – a közléseket megfigyelhetik, lehallgathatják, tárolhatják vagy a küldeménybe, közlésbe azok megfigyelése érdekében más módokon beavatkozhatnak.
 
 (6) A szolgáltató – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 42. §-ában meghatározott adatszolgáltatás és adatbetekintés kivételével – köteles tájékoztatni az érintett nemzetbiztonsági szolgálatot a szolgálat minősített adatot képező, védett telefonszámait érintő adatszolgáltatási megkeresésekről.
 
@@ -2546,7 +2251,7 @@ köteles biztosítani.
 - b) a frekvenciakijelöléshez egyes esetekben szükséges műszaki terv elkészítésére vonatkozó jogosultság képesítési feltételeit a nem polgári célú frekvenciagazdálkodási feladatokat ellátó miniszterrel egyetértésben;
 - c) a rádiófrekvenciák használati joga átruházásának elveit és részletes feltételeit;
 - d) az egyedi használati jog biztosításával kapcsolatos hatósági eljárás rendjét, különösen a frekvenciakijelölési és rádióengedélyezési eljárás részletes feltételeit, az egyedi használati jogok kiadására, módosítására, visszavonására, meghosszabbítására és kiadásának megtagadására vonatkozó részletes szabályokat, a frekvenciahasználati jog gyakorlásának feltételeit és a frekvenciahasználati engedélyben (frekvenciakijelölésben, rádióengedélyben illetőleg frekvenciahasználati jogosultságban) foglalható feltételek részletes szabályait, valamint a frekvenciahasználati jog érvényességének idejét;
-- e) a polgári célú frekvenciák használatáért fizetendő díjakat, a fizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben;
+- e)
 - f) idegen honosságú rádióengedélyek magyarországi elismerésének feltételeit;
 - g) a rádióberendezések és elektronikus hírközlő végberendezések megfelelőség-igazolásának és elismerésének, valamint forgalomba hozatalának, forgalmazásának, üzembe helyezésének részletes szabályait;
 - h) a rádióamatőrökre vonatkozó vizsgakövetelményeket, a vizsgáztatás rendjét és a vizsgabizonyítvány kiadásának feltételeit;
@@ -2557,9 +2262,9 @@ köteles biztosítani.
 (4) Felhatalmazást kap a miniszter arra, hogy rendelettel állapítsa meg az elektronikus hírközlés vonatkozásában:
 
 - a) az elektronikus hírközlő hálózatokra vonatkozó műszaki feltételrendszert;
-- b) a Hatóság eljárásainak díjai és a felügyeleti díj megfizetésének módját és feltételeit, valamint – a Hatóság véleményét kikérve – e díjak mértékét az adópolitikáért felelős miniszterrel egyetértésben;
+- b)
 - c)
-- d) az azonosítók lekötéséért és használatáért fizetendő díjakat, a fizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben;
+- d)
 - e) a nettó elkerülhető költség, nettó elkerülhető egységköltség számításának részletes szabályait, valamint az egyetemes szolgáltatásokkal kapcsolatos pénzügyi terhek megtérítésének részletes szabályait;
 - f) a hálózati szolgáltatások költségszámítására vonatkozó részletes szabályokat;
 - g) a számhordozhatóság megvalósíthatósága érdekében működő központi referencia adatbázis és a szolgáltatók együttműködésének feltételeit és eljárási szabályait, valamint az adatbázishoz való hozzáférés minőségi követelményeit;
@@ -2577,7 +2282,7 @@ köteles biztosítani.
 - s) az előfizetői szerződésekre, azok megkötésére vonatkozó részletes szabályokat;
 - t) a segélyhívások megválaszolása céljából a hívó fél azonosítására, illetve a helymeghatározásra vonatkozó adatok segélyhívó szolgálatok rendelkezésére bocsátásának módját.
 
-(5) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a nagyfrekvenciás villamos berendezések és a nagyfrekvenciás jelet vagy mellékhatást keltő berendezések megfelelőségének igazolását, a megfelelőségi nyilatkozat feltételeit, a megfelelőség alapvető követelményeit, az idegen honosságú megfelelőség tanúsítványok kölcsönös elismerésének feltételeit a miniszterrel együttesen kiadott rendeletben állapítsa meg.
+(5) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a nagyfrekvenciás villamos berendezések és a nagyfrekvenciás jelet vagy mellékhatást keltő berendezések megfelelőségének igazolását, a megfelelőségi nyilatkozat feltételeit, a megfelelőség alapvető követelményeit, az idegen honosságú megfelelőség tanúsítványok kölcsönös elismerésének feltételeit a miniszter egyetértésével kiadott rendeletben állapítsa meg.
 
 (6)
 
@@ -2748,7 +2453,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 - 74. Műsorelosztás: olyan műsorterjesztés, amely során az előfizető, vagy felhasználó elektronikus hírközlő végberendezése meghatározott földrajzi helyen csatlakozik a műsorterjesztő átviteli rendszerhez.
 - 75. Műsorszórás: olyan műsorterjesztés, amelynek során analóg vagy digitális rádió-, illetve televízióműsorokat a földfelszínen telepített – az elsődlegesen műholdas szolgálatra rendelt frekvenciák kivételével – rádiófrekvenciát használó, általában egyirányú adatátvitelt lehetővé tevő átviteli rendszerrel továbbítják az előfizetőhöz, vagy felhasználóhoz; műsorszórásnak minősül a digitális műsorszóró hálózat vagy műsorszóró adó segítségével végzett műsorterjesztés is.
 - 76.
-- 77. Műsorterjesztés: az 5/a. pont szerinti bármely átviteli rendszerrel megvalósuló elektronikus hírközlési szolgáltatás, amelynek során a műsorszolgáltató által előállított analóg vagy digitális műsorszolgáltatási jeleket a műsorszolgáltatótól az előfizető, vagy felhasználó vevőkészülékéhez továbbítják, függetlenül az alkalmazott átviteli rendszertől, és technológiától. Műsorterjesztésnek minősül különösen a műsorszórás, a műholddal végzett műsorterjesztés, a hibrid üvegszálas-koaxiális átviteli rendszeren végzett műsorterjesztés, emellett a műsor Internet Protokoll segítségével történő továbbítása valamely átviteli rendszeren, ha a szolgáltatás jellege, illetve feltételei megegyeznek a műsorterjesztéssel, illetve ez helyettesíti a más módon megvalósított műsorterjesztést. Műsorterjesztésnek minősül az olyan műsorterjesztés is, amelyhez az előfizető külön díj ellenében, vagy más elektronikus hírközlési szolgáltatás díjával csomagban értékesített díj ellenében férhet hozzá. A tíznél kevesebb vevőkészülék csatlakoztatására alkalmas átviteli rendszer segítségével történő jeltovábbítás nem minősül műsorterjesztésnek.
+- 77. Műsorterjesztés: az 5/a. pont szerinti bármely átviteli rendszerrel megvalósuló elektronikus hírközlési szolgáltatás, amelynek során a médiaszolgáltató által előállított analóg vagy digitális műsorszolgáltatási jeleket a médiaszolgáltatótól az előfizető, vagy felhasználó vevőkészülékéhez továbbítják, függetlenül az alkalmazott átviteli rendszertől, és technológiától. Műsorterjesztésnek minősül különösen a műsorszórás, a műholddal végzett műsorterjesztés, a hibrid üvegszálas-koaxiális átviteli rendszeren végzett műsorterjesztés, emellett a műsor Internet Protokoll segítségével történő továbbítása valamely átviteli rendszeren, ha a szolgáltatás jellege, illetve feltételei megegyeznek a műsorterjesztéssel, illetve ez helyettesíti a más módon megvalósított műsorterjesztést. Műsorterjesztésnek minősül az olyan műsorterjesztés is, amelyhez az előfizető külön díj ellenében, vagy más elektronikus hírközlési szolgáltatás díjával csomagban értékesített díj ellenében férhet hozzá. A tíznél kevesebb vevőkészülék csatlakoztatására alkalmas átviteli rendszer segítségével történő jeltovábbítás nem minősül műsorterjesztésnek.
 - 78. Nagyfrekvenciás jel: nem rádiótávközlési célra használt rádiófrekvenciás jel.
 - 79. Nagyfrekvenciás mellékhatás: olyan nagyfrekvenciás jel, amely különféle célú berendezésekben (készülékekben, eszközökben, járművekben stb.) szikrakisülés, gázkisülés vagy félvezetős szabályozás melléktermékeként keletkezik.
 - 80. Nagyfrekvenciás villamos berendezés: az elektromágneses energia kis térben való előállítására és hasznosítására szolgáló ipari, tudományos, orvosi, háztartási vagy hasonló célú, nem elektronikus hírközlő berendezés.

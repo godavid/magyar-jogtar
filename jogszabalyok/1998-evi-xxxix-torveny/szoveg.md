@@ -7,7 +7,7 @@ a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás sz
 (2) Az alapokat a Kormány felügyeli. A 2. § (1) bekezdése szerinti igazgatási szervek irányítását a Kormány
 
 - a) az egészségbiztosítási ágazat tekintetében az egészségbiztosításért felelős miniszter,
-- b) a nyugdíjbiztosítási ágazat tekintetében a nyugdíjpolitikáért felelős miniszter
+- b) a nyugdíjbiztosítási ágazat tekintetében a szociál- és nyugdíjpolitikáért felelős miniszter
 
 útján látja el.
 
@@ -19,7 +19,7 @@ a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás sz
 
 (2)
 
-(3) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, az egészségbiztosítási szerv társadalombiztosítási költségvetési szervek, amelyek költségvetését a társadalombiztosítás pénzügyi alapjainak költségvetésében kell meghatározni.
+(3) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, az Egészségbiztosítási Alap kezeléséért felelős egészségbiztosítási szerv – a fővárosi és megyei kormányhivatalok szakigazgatási szerveiként működő társadalombiztosítási igazgatási szervek kivételével – társadalombiztosítási költségvetési szervek, amelyek költségvetését a társadalombiztosítás pénzügyi alapjainak költségvetésében kell meghatározni.
 
 3. § Az Alapokhoz tartozó vagyon és a biztosítási önkormányzatok vagyona állami tulajdon, a vagyonnal kapcsolatos tulajdonosi jogokat a Kormány az 1. § (2) bekezdése szerinti személyek útján gyakorolja azzal, hogy egyebekben a vagyonnal való gazdálkodásra az államháztartásról szóló 1992. évi XXXVIII. törvény rendelkezései az irányadók.
 
@@ -123,7 +123,7 @@ kezdeményezi.
 
 (10) A Testület működése részletes szabályait ügyrendjében állapítja meg.
 
-(11) A Testület és a titkárságok működéséhez szükséges előirányzatot az Országgyűlés a Miniszterelnöki Hivatal költségvetésében elkülönítetten biztosítja, amely felett – az ügyrendben meghatározott módon – az adott Testület elnöke rendelkezik. A Testület és a titkárság gazdálkodását az Állami Számvevőszék ellenőrzi.
+(11) A Testület és a titkárságok működéséhez szükséges előirányzatot az Országgyűlés a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium költségvetésében elkülönítetten biztosítja, amely felett – az ügyrendben meghatározott módon – az adott Testület elnöke rendelkezik. A Testület és a titkárság gazdálkodását az Állami Számvevőszék ellenőrzi.
 
 10. § (1) Ez a törvény a kihirdetését követő 8. napon lép hatályba.
 

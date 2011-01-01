@@ -398,6 +398,11 @@ Stt.26. § (1) Ez a törvény 1993. május 15-én lép hatályba.
 - e)
 - f) a népmozgalmi statisztikai adatgyűjtés részletes szabályait.
 
+(4) Felhatalmazást kap a KSH felett felügyeletet gyakorló miniszter, hogy
+
+- a) a kötelező statisztikai fogalmakat, módszereket, osztályozásokat, névjegyzékeket és számjeleket rendeletben szabályozza, és
+- b) rendeletében statisztikai közleményt hatályon kívül helyezzen.
+
 Stt.27–28. §
 
 Vhr.23. §

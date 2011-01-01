@@ -194,7 +194,7 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 (3) A géntechnológiai hatóság az éves jelentést, illetve az (1) bekezdés szerinti nyilatkozatot véleményezés céljából megküldi a Géntechnológiai Bizottságnak és az engedélyezési eljárásba bevont szakhatóságnak. A Géntechnológiai Bizottság a jelentéssel kapcsolatos véleményét, valamint az engedély esetleges módosítására vagy visszavonására vonatkozó véleményét a jelentés kézhezvételétől számított 30 napon belül a géntechnológiai hatóságnak megküldi.
 
-(4) Ha a felülvizsgálat azzal az eredménnyel zárul, hogy az engedély megadásakor figyelembe vett feltételek, illetve körülmények megváltoztak, a géntechnológiai hatóság a Géntechnológiai Bizottság véleményének beszerzését követően az engedélyt módosítja. Ha azonban a megváltozott feltételek, illetve körülmények folytán az engedély megadásának feltételei már nem állnak fenn vagy a kibocsátás nem felel meg a jogszabályi előírásoknak, illetve nem tesz eleget az engedélyben foglaltaknak, a géntechnológiai hatóság a Géntechnológiai Bizottság véleményének beszerzését követően az engedélyt visszavonja.
+(4) Ha a felülvizsgálat azzal az eredménnyel zárul, hogy az engedély megadásakor figyelembe vett feltételek, illetve körülmények megváltoztak, a géntechnológiai hatóság a Géntechnológiai Bizottság véleményének kikérését követően az engedélyt módosítja. Ha azonban a megváltozott feltételek, illetve körülmények folytán az engedély megadásának feltételei már nem állnak fenn vagy a kibocsátás nem felel meg a jogszabályi előírásoknak, illetve nem tesz eleget az engedélyben foglaltaknak, a géntechnológiai hatóság a Géntechnológiai Bizottság véleményének kikérését követően az engedélyt visszavonja.
 
 ### A forgalomba hozatal különös szabályai
 
@@ -367,7 +367,7 @@ tartalmazza.
 
 (5) A termesztési engedély szántóföldi növények esetében egy vetési ciklusra, egyéb esetekben a termesztési engedélyben meghatározott időtartamra szól, lejártát követően új engedély iránti kérelmet kell benyújtani.
 
-(6) A termesztési engedély megadását követően a termesztési hatóság a kérelemben szereplő, illetve a termesztésre vonatkozó adatokat nyilvántartja és országos adatbázisban közzéteszi, valamint ezzel egy időben a határozat másolati példányát továbbítja az ellenőrzést végző hatóság részére. A kérelmező, illetve az engedély jogosultja a kérelem benyújtását követően bekövetkezett változásokat 3 munkanapon belül, írásban köteles bejelenteni a termesztési hatóságnak.
+(6) A termesztési engedély megadását követően a termesztési hatóság a kérelemben szereplő, illetve a termesztésre vonatkozó adatokat nyilvántartja és országos adatbázisban közzéteszi, valamint ezzel egy időben a határozat másolati példányát továbbítja az ellenőrzést végző hatóság részére. A kérelmező, illetve az engedély jogosultja a kérelem benyújtását követően bekövetkezett változásokat öt napon belül, írásban köteles bejelenteni a termesztési hatóságnak.
 
 (7) A termesztésre jogosult köteles megküldeni a termesztési hatóság részére az elvetett szaporítóanyag címkéjének másolatát, legkésőbb a vetést követő 30. napig.
 
@@ -506,7 +506,7 @@ tartalmazza.
 
 (5)
 
-(6) a földművelésügyi és vidékfejlesztési miniszter, hogy a gazdasági miniszterrel, a környezetvédelmi miniszterrel, az oktatási miniszterrel, az egészségügyi miniszterrel, valamint a Magyar Tudományos Akadémiával egyetértésben rendeletben állapítsa meg a Géntechnológiai Bizottság szervezeti felépítésének és működésének részletes szabályait;
+(6) a földművelésügyi és vidékfejlesztési miniszter, hogy a gazdasági miniszterrel, a környezetvédelmi miniszterrel, az oktatási miniszterrel, az egészségügyi miniszterrel egyetértésben, a Magyar Tudományos Akadémia véleményének kikérésével rendeletben állapítsa meg a Géntechnológiai Bizottság szervezeti felépítésének és működésének részletes szabályait;
 
 (7) az oktatási miniszter, hogy a földművelésügyi és vidékfejlesztési miniszterrel, a környezetvédelmi miniszterrel, valamint az egészségügyi miniszterrel egyetértésben rendeletben állapítsa meg a géntechnológiai felügyelő tevékenységére és képesítésének követelményeire vonatkozó szabályokat;
 

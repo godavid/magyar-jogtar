@@ -40,7 +40,7 @@ A Tisza-völgy árvízi biztonságának a mentesített árterek részleges reakt
 
 ### II. Fejezet — Az árvízi tározó területével érintett földrészletek igénybevétele
 
-5. § (1) Az árvízi tározó területével érintett földrészletek jegyzékét (a továbbiakban: árvízi tározó területe) a vízgazdálkodásért felelős miniszter és az agrárpolitikáért felelős miniszter együttesen állapítja meg.
+5. § (1) Az árvízi tározó területével érintett földrészletek jegyzékét (a továbbiakban: árvízi tározó területe) a vízgazdálkodásért felelős miniszter az agrárpolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítja meg.
 
 (2) A földrészlet vagy annak területi mértékben meghatározott részének árvízi tározóba történő sorolásáról a földrészlet fekvése szerint illetékes vízügyi hatóság határoz. A vízügyi hatóság a jogerős határozattal megkeresi a feljegyzés iránt a földrészlet fekvése szerint illetékes ingatlanügyi hatóságot. Amennyiben az árvízi tározó jogi jelleg nem az egész földrészletet érinti, a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló ingatlanügyi hatóság által záradékolt vázrajzot is.
 
@@ -118,7 +118,7 @@ A Tisza-völgy árvízi biztonságának a mentesített árterek részleges reakt
 
 (2) A VTT létesítményeinek megvalósítása érdekében indított környezetvédelmi, vízjogi és építési engedélyezési, valamint árvízi tározóba sorolási eljárás ügyintézési határidejét az eljáró közigazgatási szerv vezetője nem hosszabbíthatja meg.
 
-(3) A közművek üzemben tartói és az utak kezelői az építésügyi hatóság, valamint a vízügyi hatóság által kitűzött helyszíni szemlén vagy az azt követő 10 munkanapon belül kötelesek nyilatkozni arról, hogy az üzembehelyezési engedélynek a külön jogszabályban meghatározott feltételei fennállnak-e.
+(3) A közművek üzemben tartói és az utak kezelői az építésügyi hatóság, valamint a vízügyi hatóság által kitűzött helyszíni szemlén vagy az azt követő tizenöt napon belül kötelesek nyilatkozni arról, hogy az üzembehelyezési engedélynek a külön jogszabályban meghatározott feltételei fennállnak-e.
 
 15. § (1) A környezetvédelmi, a vízjogi valamint az építésügyi engedélyezési eljárás során meghozott határozat bírósági felülvizsgálatára a Pp. XX. fejezetének rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy
 
@@ -177,12 +177,12 @@ fenntartás
 
 24. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 10. § (1) bekezdésében meghatározott elővásárlásra vonatkozó részletes rendelkezéseket.
 
-(2) Felhatalmazást kap a vízgazdálkodásért felelős miniszter és az agrárpolitikáért felelős miniszter, hogy együttes rendeletben állapítsa meg
+(2) Felhatalmazást kap a vízgazdálkodásért felelős miniszter, hogy az agrárpolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg
 
 - a) az árvízi tározó területével érintett földrészletek jegyzékét,
 - b) az egyszeri térítés és a kártalanítás, valamint az igénybevétel részletes szabályait.
 
-(3) Felhatalmazást kap a területfejlesztésért és területrendezésért felelős miniszter és az agrárpolitikáért felelős miniszter, hogy együttes rendeletben határozza meg a Vásárhelyi-terv integrált terület- és vidékfejlesztés programját.
+(3) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a területfejlesztés stratégiai tervezéséért felelős miniszter egyetértésével kiadott rendeletben határozza meg a Vásárhelyi-terv integrált terület- és vidékfejlesztés programját.
 
 (4) Felhatalmazást kap a Kormány, hogy az ártéri gazdálkodás szakmai elveit, továbbá a tározó árapasztási célú igénybevétele esetén fizetendő kártalanítás feltételeit rendeletben állapítsa meg.
 

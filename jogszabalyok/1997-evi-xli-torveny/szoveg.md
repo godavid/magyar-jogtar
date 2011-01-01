@@ -33,7 +33,7 @@ Hhtv. 2. § (1) E törvény alkalmazásában
 
 (2) A meder, a vízfolyás és a természetes állóvíz fogalmán a vízgazdálkodásról szóló 1995. évi LVII. törvényben meghatározott fogalmakat kell érteni.
 
-(3) A nem halászható (horgászható) halfajok és víziállatok körét a halgazdálkodásért felelős miniszter (a továbbiakban: miniszter) a természetvédelemért felelős miniszterrel együtt rendeletben határozza meg.
+(3) A nem halászható (horgászható) halfajok és víziállatok körét a halgazdálkodásért felelős miniszter (a továbbiakban: miniszter) a természetvédelemért felelős miniszter egyetértésével kiadott rendeletben határozza meg.
 
 Vhr. 1. §
 
@@ -625,7 +625,7 @@ Hhtv. 38. § (1) A természetvédelmi oltalom alatt álló hal fogása (gyűjté
 
 (2) A hal és élőhelyének védelme érdekében a miniszter rendeletben határozza meg
 
-- a) a természetvédelemért felelős miniszterrel együtt azt a naptári időszakot és azt az egyes halfajt, amelynek egyedét tilos kifogni (halászati tilalmi idő);
+- a) a természetvédelemért felelős miniszter egyetértésével azt a naptári időszakot és azt az egyes halfajt, amelynek egyedét tilos kifogni (halászati tilalmi idő);
 - b) halfajonként a legkisebb fogási méretet (halászati méretkorlátozás), valamint a naponta kifogható mennyiséget;
 - c) az országhatár mentén lévő halászati vízterületekre – a határrendészetért felelős miniszterrel egyetértésben – a halászat rendjét.
 
@@ -883,9 +883,9 @@ Hhtv. 56. § (1) Felhatalmazást kap a miniszter arra, hogy:
 
 rendeletben határozza meg.
 
-(2) Felhatalmazást kap a miniszter arra, hogy a természetvédelemért felelős miniszterrel együttes rendeletben határozza meg a nem halászható (horgászható) halfajok és víziállatok körét, a halászati tilalmi időket valamint a tilalmak alóli felmentés szabályait.
+(2) Felhatalmazást kap a miniszter arra, hogy a természetvédelemért felelős miniszter egyetértésével kiadott rendeletben határozza meg a nem halászható (horgászható) halfajok és víziállatok körét, a halászati tilalmi időket valamint a tilalmak alóli felmentés szabályait.
 
-(3) Felhatalmazást kap a miniszter arra, hogy a határrendészetért felelős miniszterrel együtt rendeletben határozza meg az országhatár mentén lévő halászati vízterületre a halászat, horgászat rendjét.
+(3) Felhatalmazást kap a miniszter arra, hogy a határrendészetért felelős miniszter egyetértésével kiadott rendeletben határozza meg az országhatár mentén lévő halászati vízterületre a halászat, horgászat rendjét.
 
 (4) Felhatalmazást kap a Kormány, hogy a halászati hatóságot vagy hatóságokat rendeletben jelölje ki.
 

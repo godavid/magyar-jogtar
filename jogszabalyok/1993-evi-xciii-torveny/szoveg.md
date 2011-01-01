@@ -652,7 +652,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (2) Az (1) bekezdés szerinti adatokat a munkavédelmi hatóság informatikai rendszerében kezeli, az adatokat a hatósági eljárás jogerős befejezésétől számított két év elteltével törli.
 
-83/D. § A munkavédelmi hatósági eljárás határideje az eljárás megindításától számított negyvenöt munkanap:
+83/D. § A munkavédelmi hatósági eljárás határideje az eljárás megindításától számított két hónap:
 
 - a) a munkabalesetekkel, foglalkozási megbetegedésekkel és fokozott expozíciós esetekkel,
 - b) a balesetet munkabalesetnek minősítésével,
@@ -806,7 +806,7 @@ részletes szabályait;
 
 részletes szabályait.
 
-(5) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter és az egészségügyért felelős miniszter, hogy a munkahelyi kémiai biztonság részletes szabályait együttes rendeletben állapítsa meg.
+(5) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a munkahelyi kémiai biztonság részletes szabályait.
 
 (6) Ez a törvény a következő közösségi jogi aktusoknak való megfelelést szolgálja:
 

@@ -127,7 +127,7 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 - 14. üzemi menetrend: a nyílt hozzáférésű vasúti pályahálózatokban végbemenő összes tervezett vasúti jármű-mozgást meghatározó adatokat tartalmazó előírás;
 - 15. fejlesztési közreműködő: olyan gazdasági társaság, amely a vasúti pályahálózat létesítését, fejlesztését, felújítását végzi, és nem minősül a vasúti pályahálózat működtetőjének, valamint tevékenységének folytatásához nincs szüksége e törvény szerinti működési engedélyre;
 - 16. kapcsolt vállalkozás: a számviteli törvényben így meghatározott fogalom;
-- 17. egységes egyeztetési eljárás: a közforgalmú vasúti személyszállítási és közforgalmú közúti személyszállítási menetrend elkészítésének folyamata, amelynek során a menetrend mennyiségi és minőségi követelményeinek egységes rendszerét országos és regionális szinten, a helyi közlekedési sajátosságokra is figyelemmel alakítják ki, és amelynek célja a személyszállítási közszolgáltatás nyújtása hatékony módjának megválasztása, valamint a csatlakozások összehangolása, a miniszter által kidolgozott közszolgáltatási menetrendi koncepcióval összhangban;
+- 17. egységes egyeztetési eljárás: a közforgalmú vasúti személyszállítási és közforgalmú közúti személyszállítási menetrend elkészítésének folyamata, amelynek során a menetrend mennyiségi és minőségi követelményeinek egységes rendszerét országos és regionális szinten, a helyi közlekedési sajátosságokra is figyelemmel alakítják ki, és amelynek célja a személyszállítási közszolgáltatás nyújtása hatékony módjának megválasztása, valamint a csatlakozások összehangolása, a közlekedésért felelős miniszter (a továbbiakban: miniszter) által kidolgozott közszolgáltatási menetrendi koncepcióval összhangban;
 - 18. Regionális Közlekedési Szakbizottság: a statisztikai célú területi egységek nómenklatúrájának (NUTS) létrehozásáról szóló 1059/2003/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: NUTS) meghatározott, a magyarországi NUTS 2 szintnek megfelelő statisztikai régiók szerint a miniszter által létrehozott, az egységes egyeztetési eljárás során a regionális érdekeket megjelenítő, döntés-előkészítő szakértői testület;
 - 19. turistavasút: vasúti személyszállítást végző és keskeny nyomtávú vasúti pályahálózatot működtető integrált vasúti társaság.
 
@@ -153,7 +153,7 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 - d)
 - e) a honvédelemmel, a polgári védelemmel és a katasztrófa-elhárítással összefüggő vasúti feladatok ellátása.
 
-(2) A közlekedésért felelős miniszter (a továbbiakban: miniszter) feladata:
+(2) A miniszter feladata:
 
 - a) a vasúti közlekedéspolitika és vasúti fejlesztési koncepció előkészítése, a jóváhagyott vasúti közlekedéspolitika és vasúti fejlesztési koncepció végrehajtásának szervezése,
 - b) a vasúti közlekedés igazgatási és hatósági feladatainak ellátása,
@@ -543,9 +543,9 @@ szerződést köt.
 
 (5) A miniszter az e § alkalmazásával összefüggésben keletkezett információkat megőrzi, annak biztosítása érdekében, hogy a kártalanítás eredete és azok felhasználása nyomon követhetővé váljon, és az Európai Bizottság rendelkezésére bocsátja.
 
-27/F. § (1) Az 1370/2007/EK rendelet 7. cikkének (1) bekezdésében meghatározott összevont jelentést az önkormányzat, illetve a miniszter a felelősségi körébe tartozó közszolgáltatási tevékenységről a tárgyévet követő év május 31. napjáig készíti el. A jelentést az önkormányzat a honlapon vagy a megyei napilapban, a miniszter a minisztérium honlapján teszi közzé.
+27/F. § (1) Az 1370/2007/EK rendelet 7. cikkének (1) bekezdésében meghatározott összevont jelentést az önkormányzat, illetve a miniszter a felelősségi körébe tartozó közszolgáltatási tevékenységről a tárgyévet követő év május 31. napjáig készíti el. A jelentést az önkormányzat a honlapon vagy a megyei napilapban, a miniszter az általa vezetett minisztérium honlapján teszi közzé.
 
-(2) Az 1370/2007/EK rendelet 8. cikke (2) bekezdésében előírt jelentéstételi kötelezettséget a helyi közforgalmú vasúti szolgáltatás tekintetében a közlekedésért és az önkormányzatokért felelős miniszter együttesen, az elővárosi és térségi közforgalmú vasúti szolgáltatás tekintetében a közlekedésért felelős miniszter teljesíti.
+(2) Az 1370/2007/EK rendelet 8. cikk (2) bekezdésében előírt jelentéstételi kötelezettséget a miniszter teljesíti.
 
 ### A VASÚTI PÁLYAHÁLÓZAT MŰKÖDTETÉSÉRE KÖTÖTT SZERZŐDÉS
 
@@ -880,9 +880,9 @@ rendeletben teszi közzé.
 
 (3) A kártalanítás módjáról és mértékéről a felszín alatti vasúti pálya létesítőjének az ingatlan tulajdonosával a kártalanítási ajánlat írásban történő megküldésével kell az egyezség létrehozását megkísérelnie. A kártalanítást – a felek eltérő megállapodásának hiányában – pénzben kell megfizetni.
 
-(4) Megegyezés hiányában bármelyik fél kérelmére a korlátozásért vagy az akadályoztatásért járó kártalanítást a közigazgatási hivatal állapítja meg a kisajátítási kártalanításra vonatkozó szabályok szerint. A megegyezés hiányának minősül az is, ha a felszín alatti vasút létesítője a kártalanítási igény hozzá való megérkezésétől számított 45 napon belül nem tesz ajánlatot egyezségre, vagy a vele közölt ajánlatra nem nyilatkozik.
+(4) Megegyezés hiányában bármelyik fél kérelmére a korlátozásért vagy az akadályoztatásért járó kártalanítást a Kormány általános hatáskörű területi államigazgatási szerve állapítja meg a kisajátítási kártalanításra vonatkozó szabályok szerint. A megegyezés hiányának minősül az is, ha a felszín alatti vasút létesítője a kártalanítási igény hozzá való megérkezésétől számított 45 napon belül nem tesz ajánlatot egyezségre, vagy a vele közölt ajánlatra nem nyilatkozik.
 
-(5) A közigazgatási hivatal eljárására és a határozata elleni jogorvoslatra a kisajátításról szóló törvényben meghatározott rendelkezéseket kell alkalmazni.
+(5) A Kormány általános hatáskörű területi államigazgatási szerve eljárására és a határozata elleni jogorvoslatra a kisajátításról szóló törvényben meghatározott rendelkezéseket kell alkalmazni.
 
 46. § (1) Amennyiben a felszín alatti vasút-létesítési jog alapján történő igénybevétel akár a létesítés, akár az üzemeltetés során a felszín alatti vasút-létesítési joggal terhelt ingatlan rendeltetésszerű használatát megszünteti vagy jelentős mértékben akadályozza, a felszín alatti vasúti pálya létesítője az ingatlan megvásárlását, ennek sikertelensége esetén kisajátítását kezdeményezi.
 
@@ -1495,79 +1495,95 @@ biztosítható.
 
 ### A közlekedési hatóság feladat- és hatásköre
 
-80. § (1)–(3)
+80. § (1) A közlekedési hatóság feladat- és hatáskörébe tartozik:
 
-(4) A közlekedési hatóság feladat- és hatáskörébe tartozik:
+- a) a műszaki engedély kiadása,
+- b) a vasútbiztonsági tanúsítvány, kiegészítő tanúsítvány és a vasútbiztonsági engedély kiállítása, meghosszabbítása, módosítása és visszavonása, valamint az abban foglalt feltételek teljesítésének ellenőrzése,
+- c) a képzési engedély kiadása, az alapképzés és az időszakos oktatás ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak ellenőrzése, hogy a vasúti közlekedés biztonságával összefüggő tevékenységet végző munkavállaló a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
+- d) a vasúti pálya, a vasúti üzemi létesítmények, a vasúti járművek, a vasúti forgalom lebonyolításának, valamint a vasúti közlekedéssel összefüggő tevékenységek ellenőrzése abból a szempontból, hogy azok megfelelnek-e a jogszabályok előírásainak, a hatósági engedélyekben és a hálózati, a forgalmi és a biztonsági szabályzatokban foglaltaknak,
+- e) a vasúti járművek és a vasúti járműre szerelt vasútüzemi célt szolgáló kazánok és nyomástartó edények hatósági jelzésének kiadása,
+- f) a vasúti járművek, valamint a vasúti pályák nyilvántartásának vezetése,
+- g) a nemzeti vasútbiztonsági szabályok érvényesülésének figyelemmel kísérése, azok módosítására vonatkozó javaslat kidolgozása, és a módosítással kapcsolatban a szakmai egyeztetés lefolytatása,
+- h) a (2) bekezdés szerinti éves jelentés elkészítése,
+- i) a vasútbiztonsági tanúsítvány, kiegészítő vasútbiztonsági tanúsítvány megszerzéséhez szükséges tudnivalókról ingyenesen hozzáférhető útmutató készítése,
+- j) együttműködés és információcsere a más EGT-államokban működő vasútbiztonsági hatóságokkal,
+- k) az utazó vasúti munkavállalók jogaira és kötelezettségeire vonatkozó rendelkezések betartásának ellenőrzése, amely nem érinti a munkaügyi hatóságnak a rá irányadó jogszabályban foglalt ellenőrzési hatáskörét,
+- l) a vasúti járművezetői engedélyek kiállítása, megújítása, nyilvántartása, másolatok készítése, az engedélyek felfüggesztése és visszavonása, valamint a kiállító vasúti társaság értesítése a tanúsítványok felfüggesztésének kéréséről, továbbá a tanúsítvánnyal kapcsolatos munkáltatói döntés felülvizsgálata,
+- m) az egészségi alkalmasság megállapítása, valamint a vizsgáló szervezet 36/B. § szerinti tevékenységének ellenőrzése,
+- n) a képzést és vizsgáztatást, valamint az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának vezetése,
+- o) a hálózati forgalmi és a biztonsági szabályzatok jóváhagyása,
+- p) a vasúti járművek üzembe helyezésének engedélyezése,
+- q) mindazon feladatok ellátása, amelyeket jogszabály a feladatkörébe utal.
 
-- a) a műszaki engedély (10. §) kiadása,
-- b) a vasútbiztonsági tanúsítvány (kiegészítő tanúsítvány) és a vasútbiztonsági engedély (33–35. §-ok) kiállítása, meghosszabbítása, módosítása és visszavonása, valamint az abban foglalt feltételek teljesítésének ellenőrzése,
-- c) a képzési engedély kiadása, az alapképzés és az időszakos oktatás ellenőrzése, az alapvizsga és az időszakos vizsga lefolytatása, továbbá annak ellenőrzése, hogy a vasúti közlekedés biztonságával összefüggő tevékenységet végző munkavállaló a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
-- d) a vasúti pálya, a vasúti üzemi létesítmények, a vasúti járművek, a vasúti forgalom lebonyolításának, valamint a vasúti közlekedéssel összefüggő tevékenységek ellenőrzése abból a szempontból, hogy megfelelnek-e a jogszabályok előírásainak, a hatósági engedélyekben és a hálózati, a forgalmi és a biztonsági szabályzatokban foglaltaknak
-- e) vasúti járművek és vasúti járműre szerelt vasútüzemi célt szolgáló kazánok és nyomástartó edények hatósági jelzésének kiadása,
-- f) vasúti járművek, valamint a vasúti pályák nyilvántartásának külön jogszabályban meghatározottak szerinti vezetése,
-- g) a nemzeti vasútbiztonsági szabályok érvényesülésének figyelemmel kísérése, azok módosítására vonatkozó javaslat kidolgozása, és a módosítással kapcsolatban az érdekeltekkel – ideértve a vasúti társaságokat, a gyártókat és karbantartókat, valamint a felhasználók és a vasúti dolgozók képviselőit is – való egyeztetés lefolytatása,
-- h) az (5) bekezdés szerinti éves jelentés elkészítése,
-- i) a vasútbiztonsági tanúsítvány (kiegészítő vasútbiztonsági tanúsítvány) megszerzéséhez szükséges tudnivalókról ingyenesen hozzáférhető – külön jogszabály szerinti tartalommal összeállított – útmutató készítése,
-- j) együttműködés és információcsere a más EGT-államokban működő vasútbiztonsági hatóságokkal, továbbá
-- k) mindazon feladatok ellátása, amelyeket jogszabály a feladatkörébe utal,
-- l) az utazó vasúti munkavállalók jogaira és kötelezettségeire vonatkozó rendelkezések [68/A–68/G. §] betartásának ellenőrzése, amely nem érinti a munkaügyi hatóságnak a rá irányadó külön jogszabályban foglalt ellenőrzési hatáskörét,
-- m) a vasúti járművezetői engedélyek kiállítása, megújítása, nyilvántartása, másolatok készítése, az engedélyek felfüggesztése és visszavonása, valamint a kiállító vasúti társaság értesítése a tanúsítványok felfüggesztésének kéréséről, továbbá a tanúsítvánnyal kapcsolatos munkáltatói döntés felülvizsgálata,
-- n) az egészségi alkalmasság megállapítása, valamint a vizsgáló szervezet 36/B. § szerinti tevékenységének ellenőrzése,
-- o) a képzést és vizsgáztatást, illetve az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának vezetése,
-- p) a hálózati forgalmi és a biztonsági szabályzatok jóváhagyása.
+(2) A közlekedési hatóság minden év szeptember 30-áig a vasútbiztonsági hatósági feladat- és hatáskörében végzett tevékenységéről készített éves jelentését megküldi az Európai Vasúti Ügynökségnek, és azt egyidejűleg honlapján is közzéteszi.
 
-(5) A közlekedési hatóság minden év szeptember 30-áig a vasútbiztonsági hatósági feladat- és hatáskörében végzett tevékenységéről külön jogszabályban meghatározott tartalommal készített éves jelentését megküldi az Európai Vasúti Ügynökségnek, és azt egyidejűleg honlapján is közzéteszi.
+(3) A közlekedési hatóság kérelemre induló eljárásáért igazgatási szolgáltatási díjat kell fizetni.
 
-(6) A közlekedési hatóság kérelemre induló eljárásáért igazgatási szolgáltatási díjat kell fizetni.
+(4) A közlekedési hatóság ellenőrzése és egyéb hivatalból indított eljárása során az ügyfél köteles az érdemi döntéshez szükséges adatokat a hatóság felhívására megadni.
 
-(7) A közlekedési hatóság vasúti pályával és vasúti üzemi létesítménnyel kapcsolatos eljárásában ügyfélnek minősül a vasúti pálya vagy vasúti létesítmény építése, korszerűsítése, átalakítása és megszüntetése által terület-igénybevétellel érintett, vagy a vasúti pálya, illetve vasúti létesítménnyel szomszédos, továbbá a megvalósult vasúti pálya, illetve vasúti létesítmény környezetvédelmi hatástanulmányában, ennek hiányában a műszaki tervdokumentációjában igazolt hatásterületen lévő ingatlan tulajdonosa, illetve az ezen ingatlan vonatkozásában a használat jogát biztosító dologi joggal rendelkező személy.
+80/A. § (1) A közlekedési hatóság vasúti pályával és vasúti üzemi létesítménnyel kapcsolatos eljárásában ügyfélnek minősül a vasúti pálya vagy vasúti létesítmény építése, korszerűsítése, átalakítása és megszüntetése által terület-igénybevétellel érintett, vagy a vasúti pálya, vagy a vasúti létesítménnyel szomszédos, továbbá a megvalósult vasúti pálya, vagy vasúti létesítmény környezetvédelmi hatástanulmányában, ennek hiányában a műszaki tervdokumentációjában igazolt hatásterületen lévő ingatlan tulajdonosa, vagy az ezen ingatlan vonatkozásában a használat jogát biztosító dologi joggal rendelkező személy.
 
-(8) A közlekedési hatóság a (4) bekezdés a) és b) pontjában meghatározott engedélyezési eljárásokban a hiányosan benyújtott kérelemmel kapcsolatos – a tartalmi és formai követelményekre vonatkozó – részletes hiánypótlási felhívást a kérelem beérkezésétől számított 20 munkanapon belül adja ki.
+(2) A közlekedési hatóság a 80. § (1) bekezdés a) és b) pontjában meghatározott engedélyezési eljárásokban a hiányosan benyújtott kérelemmel kapcsolatos – a tartalmi és formai követelményekre vonatkozó – részletes hiánypótlási felhívást a kérelem beérkezését követő naptól számított harminc napon belül adja ki.
 
-(9) A közlekedési hatóság ügyintézési határideje a kérelemre indult, (4) bekezdés a) és b) pontjában meghatározott engedélyezési eljárásokban három hónap. Az eljárás megindításáról az ügyfeleket és az érdekelteket a közlekedési hatóság a kérelem beérkezésétől számított 10 munkanapon belül értesíti. A vasúti szakhatósági eljárás ügyintézési határideje 20 munkanap.
+(3) A közlekedési hatóság ügyintézési határideje a kérelemre indult, a 80. § (1) bekezdés a) és b) pontjában meghatározott engedélyezési eljárásokban, és az ellenőrzési eljárásokban három hónap. A vasúti pálya létesítésével, korszerűsítésével, átalakításával, használatbavételével, valamint a vasúti járművek típusengedélyezésével összefüggő hatósági eljárások ügyintézési határideje hat hónap. Az eljárás megindításáról az ügyfeleket és az érdekelteket a közlekedési hatóság a kérelem beérkezésétől számított tizenöt napon belül értesíti. A vasúti szakhatósági eljárás ügyintézési határideje harminc nap.
 
-(10) A közlekedési hatóság ellenőrzése, illetve egyéb hivatalból indított eljárása során az ügyfél köteles az érdemi döntéshez szükséges adatokat a hatóság felhívására megadni.
+(4) Az országos, térségi, elővárosi és helyi vasúti pályahálózatba tartozó vasúti pálya és tartozékai, valamint vasúti üzemi létesítmény engedélyezésével kapcsolatos jogerős határozattal szemben újrafelvételi kérelem nem nyújtható be.
 
-(11) Az országos, térségi, elővárosi és helyi vasúti pályahálózatba tartozó vasúti pálya és tartozékai, valamint vasúti üzemi létesítmény engedélyezésével kapcsolatos jogerős határozattal szemben újrafelvételi kérelem nem nyújtható be.
+(5) A közlekedési hatóság a vasútbiztonság körébe tartozó feladatait nem ruházhatja át, és annak elvégzésére más szervezetet – közigazgatási szerv kivételével – nem kérhet fel.
 
-(12) A közlekedési hatóság a vasútbiztonság körébe tartozó feladatait nem ruházhatja át, és annak elvégzésére más szervezetet – közigazgatási szerv kivételével – nem kérhet fel.
+(6) A 80. § (1) bekezdés b) pontjában meghatározott eljárásokban a kérelmet és mellékleteit magyar nyelven kell benyújtani.
 
-(13) A közlekedési hatóság a (4) bekezdés o) pontja szerinti személyekről a következő adattartalommal vezet nyilvántartást:
+80/B. § (1) A közlekedési hatóság a 80. § (1) bekezdés n) és l) pontja szerinti személyekről a következő adattartalommal vezet nyilvántartást:
 
-- a) természetes személyazonosító adatai,
-- b) lakhelye, elektronikus levelezési címe.
+- a) természetes személyazonosító adatok,
+- b) lakhely, elektronikus levelezési cím.
 
-(14) Az adatkezelésre e § alapján jogosult (a továbbiakban: adatkezelő) a (13) bekezdésben meghatározott adatokat a nyilvántartás vezetése érdekében kezeli.
+(2) A közlekedési hatóság az (1) bekezdésben meghatározott adatokat a vasúti közlekedés biztonsága érdekében nyilvántartja.
 
-(15) Az adatkezelő a (13) bekezdésben meghatározott adatokat addig az időpontig tartja nyilván, amíg a képzésre és vizsgáztatásra, illetve az egészségi alkalmasság vizsgálatára és véleményezésére való jogosultsága fennáll.
+(3) A közlekedési hatóság az (1) bekezdésben meghatározott adatokat addig az időpontig tartja nyilván, amíg a képzésre és vizsgáztatásra, valamint az egészségi alkalmasság vizsgálatára és véleményezésére való jogosultsága fennáll.
 
-(16) Az adatkezelő a kezelt adatokat személyazonosító adatok nélkül statisztikai célokra felhasználhatja, azokból statisztikai célra adatot szolgáltathat.
+(4) A közlekedési hatóság az általa kezelt adatokat személyazonosító adatok nélkül statisztikai célokra felhasználhatja, azokból statisztikai célra adatot szolgáltathat.
 
-(17) A közlekedési hatóság a (4) bekezdés n) pontja, továbbá a 81. § (2) bekezdése, (4) bekezdése, (8) bekezdésének a)–d) pontja, (9) bekezdésének a) pontja, valamint (10) bekezdésének a) pontja alapján hozott elsőfokú határozatát közegészségügyi, járványügyi, munkaügyi, munkavédelmi, környezet- vagy természetvédelmi okból, továbbá a közérdekű közlekedési infrastruktúra kialakítása érdekében fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
+(5) A közlekedési hatóság az általa kezelt adatokat a külföldi hatóságok – különösen az Európai Unió Bizottsága és annak szervei, a más EGT-tagállamokban működő vasútbiztonsági hatóságok, valamint a más EGT-tagállamokban működő balesetvizsgáló szervezetek – megkeresése esetén továbbíthatja.
 
-80/A. § (1) A 80. § (4) bekezdés a) és b) pontjában meghatározott eljárásokban hozott elsőfokú határozat ellen nem nyújthat be fellebbezést az az ügyfél, aki az eljárás megindításáról szóló szabályszerű értesítés ellenére az eljárásban nem vett részt.
+80/C. § (1) A közlekedési hatóság a 80. § (1) bekezdés m) pontja, továbbá a 81. § (2) bekezdése, (4) bekezdése, (8) bekezdésének a)–d) pontja, (9) bekezdésének a) pontja, valamint (10) bekezdésének a) pontja alapján hozott elsőfokú határozatát közegészségügyi, járványügyi, munkaügyi, munkavédelmi, környezet- vagy természetvédelmi okból, továbbá a közérdekű közlekedési infrastruktúra kialakítása érdekében fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
 
-(2) A 80. § (4) bekezdés a) és b) pontjában meghatározott eljárások megindítására irányuló kérelem elektronikus úton nem nyújtható be.
+(2) A 80. § (1) bekezdés a) és b) pontjában meghatározott eljárásokban hozott elsőfokú határozat ellen nem nyújthat be fellebbezést az az ügyfél, aki az eljárás megindításáról szóló szabályszerű értesítés ellenére az eljárásban nem vett részt.
 
-(3) A hatóság a 10. § (1) bekezdés a) pontjában meghatározott eljárás megindításáról a kormányrendeletben meghatározott adatbázisban regisztrált, ügyfélnek minősülő szervezetet az általa megadott elektronikus levélcímen az eljárás megindításától számított öt munkanapon belül értesíti.
+(3) A 80. § (1) bekezdésében meghatározott eljárások megindítására irányuló kérelem elektronikus úton nem nyújtható be. A közlekedési hatóság által lefolytatott hatósági eljárásokban az eljárás megindítására kérelmet benyújtó ügyfél a közlekedési hatósággal elektronikus kapcsolattartásra nem jogosult.
 
-(4) A kiemelt jelentőségű ügynek nyilvánított, illetve jogszabályban közérdekűnek minősített vasúti pálya kialakításával kapcsolatos műszaki engedély – a közérdekű közlekedési infrastruktúra kialakítására tekintettel – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(4) A hatóság a 10. § (1) bekezdés a) pontjában meghatározott eljárás megindításáról a kormányrendeletben meghatározott adatbázisban regisztrált, ügyfélnek minősülő szervezetet az általa megadott elektronikus levélcímen az eljárás megindításától számított nyolc napon belül értesíti.
 
-(5) A 80. § (4) bekezdés a) pontjában meghatározott eljárásban hozott döntés fellebbezéssel nem támadott rendelkezései tekintetében beáll a jogerő, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és az ügy jellegéből adódóan a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
+(5) A kiemelt jelentőségű ügynek nyilvánított, vagy jogszabályban közérdekűnek minősített vasúti pálya kialakításával kapcsolatos műszaki engedély – a közérdekű közlekedési infrastruktúra kialakítására tekintettel – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
 
-80/B. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály vasúti közlekedési szakkérdésben szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a vasúti közlekedési szakértői tevékenységet kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
+(6) A 80. § (1) bekezdés a) pontjában meghatározott eljárásban hozott döntés fellebbezéssel nem támadott rendelkezései tekintetében beáll a jogerő, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és az ügy jellegéből adódóan a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
 
-(2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a közlekedési hatóságnak vagy – a Kormány rendeletében meghatározott szakterületek esetében – a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara) bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
+80/D. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály vasúti közlekedési szakkérdésben szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, szakértőként – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértőn túl – kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a vasúti közlekedési szakértői tevékenységet kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
-(3) A közlekedési hatóság, illetve a kamara a szakértői tevékenység végzésére jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(2) Aki az (1) bekezdés szerinti szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát – az igazságügyi szakértő kivételével – a közlekedési hatóságnak vagy – a Kormány rendeletében meghatározott szakterületek esetében – a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara) bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
-(4) A 80/B. § (1) bekezdése szerinti szakértői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a szakértői tevékenységet folytatni kívánó személy hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint nem áll vasúti közlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
+(3) A közlekedési hatóság, vagy a kamara a szakértői tevékenység végzésére jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-(5) A közlekedési hatóság, illetve a kamara a vasúti közlekedési szakértői tevékenység időtartama alatt folytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az engedéllyel rendelkező vasúti közlekedési szakértő büntetlen előéletű-e, és nem áll-e a vasúti közlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a közlekedési hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az engedéllyel rendelkező vasúti közlekedési szakértő büntetlen előéletű-e, valamint, hogy a vasúti közlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+(4) Az (1) bekezdés szerinti szakértői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a szakértői tevékenységet folytatni kívánó személy hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint nem áll vasúti közlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
 
-(6) A (4) és (5) bekezdés szerinti személyes adatokat a közlekedési hatóság, illetve a kamara a vasúti közlekedési szakértő nyilvántartásból való törléséről szóló döntés jogerőre emelkedéséig kezeli.
+(5) A közlekedési hatóság, vagy a kamara a vasúti közlekedési szakértői tevékenység időtartama alatt folytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az engedéllyel rendelkező vasúti közlekedési szakértő büntetlen előéletű-e, és nem áll-e a vasúti közlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a közlekedési hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az engedéllyel rendelkező vasúti közlekedési szakértő büntetlen előéletű-e, valamint, hogy a vasúti közlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+
+(6) A (4) és (5) bekezdés szerinti személyes adatokat a közlekedési hatóság, vagy a kamara a vasúti közlekedési szakértő nyilvántartásból való törléséről szóló döntés jogerőre emelkedéséig kezeli.
 
 (7) Ha hatósági eljárásban vasúti közlekedési szakkérdésben szakértő kirendelése szükséges, és jogszabály meghatározott szakértő igénybevételét nem írja elő, e § szerinti szakértőt, ennek hiányában az igazságügyi szakértői tevékenységről szóló törvény szerinti igazságügyi szakértői tevékenység végzésére jogosult szakértőt kell kirendelni.
+
+80/E. § (1) A vasúti járművek üzembe helyezésének engedélyezésével kapcsolatos hatósági eljárásban az ügyintézési határidő az ÁME-knek megfelelő vasúti jármű esetében a kérelem beérkezését követő naptól számított két hónap.
+
+(2) A vasúti járművek üzembe helyezésének engedélyezésével kapcsolatos hatósági eljárásban az ügyintézési határidő az ÁME-knek nem megfelelő vasúti jármű esetében
+
+- a) négy hónap a műszaki dokumentáció beérkezését követően,
+- b) két hónap a – a vasúti járművek üzembe helyezése engedélyezéséről, időszakos hatósági vizsgálatáról és hatósági nyilvántartásáról szóló rendelet szerint a hatóság által kért – kiegészítő információk vagy kockázatelemzés kézhezvételét követően.
+
+(3) A közlekedési hatóság a vasúti jármű üzembe helyezése tárgyában hozott döntéssel szemben a fellebbezést a döntés kézhezvételét követő egy hónapon belül lehet előterjeszteni.
+
+(4) A döntést helybenhagyó vagy megváltoztató másodfokú döntést a kérelem megérkezését követő naptól számított két hónapon belül kell meghozni. A határozat helybenhagyása esetén a kérelmező a bíróságnál kérheti a határozat felülvizsgálatát.
+
+(5) Ha a vasúti járművek üzembe helyezésének engedélyezésével kapcsolatos hatósági eljárásban a közlekedési hatóság a döntését az előírt határidőn belül nem hozza meg, a vasúti jármű üzembe helyezését a határidő lejártát követő három hónap után engedélyezettnek kell tekinteni, amely csak arra a vasúti pályahálózatra hatályos, amelyre a kérelem vonatkozott.
 
 ### A hatósági ellenőrzés, igazgatási bírság
 
@@ -1798,7 +1814,7 @@ rendeletben állapítsa meg.
 - 1. a működési engedélyezés részletes szabályait, a működési engedély felfüggesztésének és visszavonásának, az ideiglenes engedély kiadásának részletes szabályait, valamint a tevékenység megkezdésének bejelentésére vonatkozó szabályokat
 - 2. a vasútbiztonsági tanúsítványra, a vasútbiztonsági engedélyre, a biztonságirányítási rendszerekre, a biztonsági jelentésre, valamint az egyes hatósági engedélyezési eljárásokra vonatkozó részletes szabályokat,
 - 3. a vasúti pályahálózathoz történő nyílt hozzáférés keretében nyújtandó szolgáltatásokra, valamint az azok igénybevételére vonatkozó részletes szabályokat,
-- 4. a hálózat-hozzáférési díjrendszer kereteit, valamint a hálózat-hozzáférési díjak képzésének, illetve alkalmazásának alapvető szabályait, valamint a Díjképzési Módszertanra és a Díjszámítási Dokumentumra vonatkozó részletes szabályokat az államháztartásért felelős miniszterrel együttesen,
+- 4. a hálózat-hozzáférési díjrendszer kereteit, valamint a hálózat-hozzáférési díjak képzésének, illetve alkalmazásának alapvető szabályait, valamint a Díjképzési Módszertanra és a Díjszámítási Dokumentumra vonatkozó részletes szabályokat az államháztartásért felelős miniszter egyetértésével kiadott,
 - 5. a Hálózati Üzletszabályzatának tartalmára vonatkozó részletes szabályokat,
 - 6. a vasúti pályahálózat kapacitásának elosztására vonatkozó részletes szabályokat,
 - 7. a vasúti igazgatási szerv, illetve a közlekedési hatóság eljárásáért fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint az azok megfizetésére, a közlekedési hatóság és az egyes eljárásokban közreműködők közötti megosztására vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben,
@@ -1808,7 +1824,7 @@ rendeletben állapítsa meg.
 - 11. a vasúti pályák nyilvántartásának vezetésére vonatkozó részletes szabályokra vonatkozó rendelkezéseket,
 - 12. a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésére és vizsgáztatására, a vasúti vizsgaközpont és képzőszervezetek működésére, a képzési engedélyre, továbbá a vasúti járművezetői gyakorlatra vonatkozó szabályokat,
 - 13. a vasúti járművek, a vasúti járművekre szerelt, vasútüzemi célt szolgáló nyomástartó edények és kazánok gyártását, javítását, minősítését, valamint hatósági műszaki vizsgálatát végző személyek, illetve szervezetek működési feltételeit,
-- 14. a számviteli elválasztásnak és az önálló belső mérlegkészítésnek a szabályait az államháztartásért felelős miniszterrel együttesen,
+- 14. a számviteli elválasztásnak és az önálló belső mérlegkészítésnek a szabályait az államháztartásért felelős miniszter egyetértésével kiadott,
 - 15. a különleges vasutak működésének és hatósági engedélyezésének a feltételeit,
 - 16. a közforgalmú menetrend készítésének szabályait,
 - 17. a teljesítményösztönző rendszerre vonatkozó részletes szabályokat,
@@ -1822,7 +1838,7 @@ rendeletben állapítsa meg.
 - 25. a vasúti személyszállítási közszolgáltatási szerződésben meghatározott ellentételezés fedezetének biztosítása érdekében a vasúti személyszállítási szolgáltatást nyújtó vasúti társaságokat terhelő kártalanítási kötelezettség megállapításának mérlegelési szempontjait az államháztartásért felelős miniszterrel egyetértésben,
 - 26. a vasúti járművezetői engedély és tanúsítvány kiadására, megszerzésére, és alkalmazására vonatkozó részletes szabályokat,
 - 27. a vasúti pályahálózathoz való nyílt hozzáférésnek az 53/C. § szerinti korlátozását,
-- 28. a vasúti pálya más nyomvonalas létesítmény által történő megközelítésének, keresztezésének részletes szabályait az elektronikus hírközlésért felelős miniszterrel, az energetikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben,
+- 28. a vasúti pálya más nyomvonalas létesítmény által történő megközelítésének, keresztezésének részletes szabályait az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben,
 - 29. az egységes egyeztetési eljárásra vonatkozó részletes szabályokat,
 - 30. a Regionális Közlekedési Szakbizottság szervezetére és működésére vonatkozó szabályokat
 

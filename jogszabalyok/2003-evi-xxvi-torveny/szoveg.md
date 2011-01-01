@@ -163,7 +163,7 @@ az Országos Területrendezési Tervről
 (2) Az állami főépítész (1) bekezdés szerinti eljárására a közigazgatási hatósági eljárásról szóló törvény rendelkezéseit kell alkalmazni azzal, hogy
 
 - a) az állami főépítész döntése ellen fellebbezésnek nincs helye,
-- b) a térségi területfelhasználási engedélykérelmet 45 munkanapon belül el kell bírálni,
+- b) a térségi területfelhasználási engedélykérelmet két hónapon belül el kell bírálni,
 - c) a térségi területfelhasználási engedélykérelem tárgyában hozott határozat ellen keresetet a bíróság soron kívül bírálja el a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezései szerinti eljárásban.
 
 10. § (1) Az 1/4–7. és 1/11. számú mellékletekben szereplő országos műszaki infrastruktúra-hálózatok elemeit és az egyedi építményeket az ott felsorolt, a térbeli rend szempontjából meghatározó települések közigazgatási területét érintve, az országos szerkezeti terv figyelembevételével, az engedélyezési eljárás során felmerülő ágazati szempontok és követelmények miatt szükséges korrekciókkal kell megvalósítani.

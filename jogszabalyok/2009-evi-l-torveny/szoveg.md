@@ -612,7 +612,7 @@ vonatkozó rendelkezéseit kell megfelelően alkalmazni; az a) és b) pontban me
 - e) az államháztartásért felelős miniszterrel egyetértésben az eljárási díj, a végrehajtási díj, a biztosítási intézkedés elrendeléséért fizetendő díj megfizetésének és visszatérítésének szabályait,
 - f) az eljárási díj, a végrehajtási díj és a biztosítási intézkedés elrendeléséért fizetendő díjakból származó bevétel MOKK és közjegyzők közötti felosztásának szabályait, továbbá az egyes közjegyzőket megillető összeg kiszámításának és felosztása módjának szabályait,
 - g) a költségkedvezmény előfeltételeire, engedélyezésére, megvonására, és a költségek előlegezésére, illetve az előlegezett, valamint a nem előlegezett költségek megfizetésére és behajtására vonatkozó szabályokat,
-- h) a közigazgatási informatikáért felelő miniszterrel együttesen a MOKK rendszerének informatikai biztonsági technológiai, szervezeti-szervezési és módszertani követelményeit
+- h) az e-közigazgatásért felelős miniszter és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter egyetértésével a MOKK rendszerének informatikai biztonsági technológiai, szervezeti-szervezési és módszertani követelményeit
 
 rendeletben állapítsa meg.
 

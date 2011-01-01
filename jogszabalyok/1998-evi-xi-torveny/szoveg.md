@@ -44,7 +44,7 @@ az ügyvédekről
 - h) a cég – általa készített – létesítő okiratának és e cég bejegyzési (változásbejegyzési) kérelme további mellékleteinek elektronikus okirati formába alakítása,
 - h)
 - i) külön törvényben szabályozott közbeszerzési békéltetői tevékenység, valamint hivatalos közbeszerzési tanácsadói tevékenység,
-- j) külön törvényben meghatározott lobbitevékenység,
+- j)
 - k) cég székhelyének biztosítása (székhely szolgáltatás).
 
 (4) A (3) bekezdés h) pontjában meghatározott tevékenységet az folytathatja, aki az ügyvédi kamara által meghatározott technikai feltételekkel rendelkezik és a kamara nyilvántartásba vett.
@@ -173,13 +173,12 @@ az ügyvédekről
 (3) A kamarába – kérelmére – ügyvédként fel kell venni azt, aki megfelel a következő feltételeknek:
 
 - a) az Európai Gazdasági Térségről szóló Megállapodásban részes valamely állam állampolgára,
-- b)
-- c)
-- d) jogi egyetemi végzettséggel rendelkezik,
-- e) magyar jogi szakvizsgát tett,
-- f) a Magyar Ügyvédek Biztosító és Segélyező Egyesületének tagja, vagy a kamara által elfogadott más felelősségbiztosítása van,
-- g) az ügyvédi tevékenység folyamatos gyakorlására alkalmas irodahelyiséggel rendelkezik a kamara működési területén,
-- h) nem esik a (4) bekezdésben felsorolt kizáró okok alá.
+- b) jogi egyetemi végzettséggel rendelkezik,
+- c) magyar jogi szakvizsgát tett,
+- d) legalább egy évig ügyvédi, ügyvédjelölti vagy alkalmazott ügyvédi joggyakorlatot folytatott,
+- e) a Magyar Ügyvédek Biztosító és Segélyező Egyesületének tagja, vagy a kamara által elfogadott más felelősségbiztosítása van,
+- f) az ügyvédi tevékenység folyamatos gyakorlására alkalmas irodahelyiséggel rendelkezik a kamara működési területén,
+- g) nem esik a (4) bekezdésben felsorolt kizáró okok alá.
 
 (4) Nem vehető fel a kamarába az,
 
@@ -195,9 +194,11 @@ az ügyvédekről
 - f) aki az életmódja vagy magatartása miatt az ügyvédi hivatás gyakorlásához szükséges közbizalomra érdemtelen,
 - g) akinek a kamarával vagy a Magyar Ügyvédek Biztosító és Segélyező Egyesületével szemben lejárt tagdíjtartozása van.
 
-(5) A (3) bekezdés f) pontjában foglalt feltétel az irodai tagként felvételét kérő esetén a 68. § (2) bekezdésének c) pontja szerinti felelősségbiztosítással teljesül.
+(5) A (3) bekezdés e) pontjában foglalt feltétel az irodai tagként felvételét kérő esetén a 68. § (2) bekezdésének c) pontja szerinti felelősségbiztosítással teljesül.
 
 (6) A kamarába fel kell venni azt az európai közösségi jogászt is, aki megfelel a 89/F. § (1) bekezdésében foglalt feltételeknek.
+
+(7) A (3) bekezdés d) pontjában foglalt joggyakorlatok időtartamát együttesen kell figyelembe venni.
 
 13/A. § (1) A kamarai tagfelvétel iránti kérelem benyújtásával egyidejűleg a kérelmező
 
@@ -218,7 +219,7 @@ az ügyvédekről
 
 ### A kérelem elbírálása
 
-15. § (1) A területi kamara elnöksége a kérelemről a beérkezését követő első ülésén, de legkésőbb 30 munkanapon belül dönt.
+15. § (1) A területi kamara elnöksége a kérelemről a beérkezését követő első ülésén, de legkésőbb a kérelem beérkezését követő naptól számított negyven napon belül dönt.
 
 (2)
 
@@ -973,7 +974,7 @@ fogadhat el.
 
 85. § (1) Az alkalmazott ügyvédek névjegyzékébe – kérelmére – fel kell venni azt, aki
 
-- a) a 13. § (3) bekezdés a)–e) és h) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában írt feltételeknek megfelel, és
+- a) a 13. § (3) bekezdés a)–c) és g) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában írt feltételeknek megfelel, és
 - b) ügyvéddel, ügyvédi irodával ügyvédi tevékenység végzésére munkaviszonyt létesített.
 
 (2) Az alkalmazott ügyvéd nem kamarai tag.
@@ -998,7 +999,7 @@ fogadhat el.
 
 88. § (1) Az alkalmazott ügyvédek névjegyzékéből törölni kell azt,
 
-- a) aki a 13. § (3) bekezdés a)–e) és h) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában írt feltételeknek nem felel meg,
+- a) aki a 13. § (3) bekezdés a)–c) és g) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában írt feltételeknek nem felel meg,
 - b) akinek a munkaviszonya megszűnt és a munkaviszony megszűnésétől számított három hónapon belül más ügyvéddel, ügyvédi irodával nem létesített alkalmazott ügyvédi munkaviszonyt,
 - c) akivel szemben az alkalmazott ügyvédek névjegyzékéből való törlés fegyelmi büntetést szabtak ki,
 - d) aki meghalt,
@@ -1092,7 +1093,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 
 89/F. § (1) A névjegyzékbe felvett európai közösségi jogászt kérelmére a kamarába ügyvédként fel kell venni, ha
 
-- a) megfelel a 13. § (3) bekezdésének c), valamint f)–h) pontjában foglalt feltételeknek,
+- a) megfelel a 13. § (3) bekezdésének e)–g) pontjában foglalt feltételeknek,
 - b) az általa ellátott ügyek számára és jellegére vonatkozó iratokkal, illetve a kamara külön felhívására személyes meghallgatáson hitelt érdemlően igazolja, hogy a Magyar Köztársaság területén megszakítás nélkül három éven át folytatott ügyvédi tevékenységet a magyar joggal kapcsolatban (ideértve az Európai Unió jogának magyarországi alkalmazásával kapcsolatos tevékenységet is), és
 - c) a személyes meghallgatáson bizonyítja, hogy rendelkezik az ügyvédi tevékenység gyakorlásához szükséges szintű magyar nyelvtudással.
 
@@ -1165,7 +1166,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 
 (5) Az egyénileg tevékenykedő európai közösségi jogászra az egyéni ügyvédekre vonatkozó szabályokat kell megfelelően alkalmazni.
 
-89/M. § (1) Az európai közösségi jogász alkalmazott ügyvédi tevékenység végzésére jogosult. Az alkalmazott európai közösségi jogászok névjegyzékébe történő felvételnél a 13. § (3) bekezdésének d) és e) pontja nem alkalmazható.
+89/M. § (1) Az európai közösségi jogász alkalmazott ügyvédi tevékenység végzésére jogosult. Az alkalmazott európai közösségi jogászok névjegyzékébe történő felvételnél a 13. § (3) bekezdésének b)–d) pontja nem alkalmazható.
 
 (2) A kamara az alkalmazott európai közösségi jogász adatait haladéktalanul köteles megküldeni a Magyar Ügyvédi Kamarának.
 
@@ -1211,7 +1212,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 
 91. § (1) A külföldi jogi tanácsadók névjegyzékébe – kérelmére – fel kell venni azt, aki
 
-- a) a 13. § (3) bekezdés f) és h) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában foglalt feltételeknek megfelel,
+- a) a 13. § (3) bekezdés e) és g) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában foglalt feltételeknek megfelel,
 - b) a 90. § (1) és (2) bekezdésében megjelölt együttműködési szerződést kötött,
 - c) igazolta, hogy külföldön ügyvédi tevékenység végzésére jogosult,
 - d) igazolta, hogy a külföldi ügyvédi bejegyzésének helye szerinti országban jó hírnévnek örvend, és nem áll büntető- vagy fegyelmi eljárás hatálya alatt,
@@ -1269,7 +1270,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 
 96. § (1) Az ügyvédjelöltek névjegyzékébe – kérelmére – fel kell venni azt, aki
 
-- a) a 13. § (3) bekezdés a)–d) és h) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában meghatározott feltételeknek megfelel,
+- a) a 13. § (3) bekezdés a), b) és g) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában meghatározott feltételeknek megfelel,
 - b) munkaviszonyt létesített ügyvédjelölt foglalkoztatására jogosult ügyvéddel vagy olyan ügyvédi irodával, amelynek ilyen ügyvéd tagja van.
 
 (2) Az ügyvédjelölt nem kamarai tag.
@@ -1286,7 +1287,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 
 (2) A kamara az ügyvédjelölt foglalkoztatására való jogosultságot törli, ha az ügyvéd nem felel meg az (1) bekezdésben foglalt feltételeknek.
 
-(3) Egy ügyvéd egyidejűleg legfeljebb három ügyvédjelöltet foglalkoztathat. Az ügyvédi iroda az ügyvédjelölt foglalkoztatására jogosult tagonként egyidejűleg legfeljebb három ügyvédjelölttel létesíthet munkaviszonyt.
+(3)
 
 ### Az ügyvédjelölt működése
 
@@ -1308,7 +1309,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 
 99. § (1) Az ügyvédjelöltek névjegyékéből törölni kell azt,
 
-- a) aki a 13. § (3) bekezdés a)–d) és h) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában írt feltételeknek nem felel meg,
+- a) aki a 13. § (3) bekezdés a), b) és g) pontjában, valamint a 13. § (4) bekezdés b) és c) pontjában írt feltételeknek nem felel meg,
 - b) akinek a munkaviszonya megszűnt vagy az őt foglalkoztató ügyvédnek a 96/A. § szerinti jogosultságát törölték, és a munkaviszony (jogosultság) megszűnésétől (törlésétől) számított három hónapon belül a 96. § (1) bekezdés b) pontja szerinti ügyvéddel, ügyvédi irodával nem létesített ügyvédjelölti munkaviszonyt,
 - c) akivel szemben az ügyvédjelöltek névjegyzékéből való törlés fegyelmi büntetést szabtak ki,
 - d) aki a jogi szakvizsgát letette, legkésőbb a vizsga letételétől számított 3 hónap eltelte után,
@@ -1404,7 +1405,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 - n) kijelöli az ügyvéd irodájának gondnokát, ha az ügyvéd kamarai tagsága megszűnt és a folyamatban lévő ügyeinek ellátásáról nem gondoskodott,
 - o) elrendeli a pénzmosás és a terrorizmus finanszírozása megelőzésének és megakadályozásának ellenőrzését szolgáló vizsgálatot és első fokon határoz a vizsgálat befejezéséről.
 
-(3) A területi elnökség határozata ellen a területi kamara tagja a határozat közlésétől számított 10 munkanapon belül – jogszabály, alapszabály vagy szabályzat megsértésére hivatkozással – a Magyar Ügyvédi Kamara elnökségéhez fellebbezhet. Ez a jog nem érinti az egyes ügyekre e törvényben külön meghatározott jogorvoslati lehetőséget.
+(3) A területi elnökség határozata ellen a területi kamara tagja a határozat közlésétől számított tizenöt napon belül – jogszabály, alapszabály vagy szabályzat megsértésére hivatkozással – a Magyar Ügyvédi Kamara elnökségéhez fellebbezhet. Ez a jog nem érinti az egyes ügyekre e törvényben külön meghatározott jogorvoslati lehetőséget.
 
 ### A területi kamara elnöke
 
@@ -1419,7 +1420,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 - g) irányítja a területi kamara ügyintézői szervezetének működését, az alkalmazottak felett munkáltatói jogot gyakorol,
 - h) elvégzi a közgyűlés és az alapszabály által meghatározott egyéb feladatokat.
 
-(2) A területi kamara elnökének határozata ellen a közlésétől számított 10 munkanapon belül a területi elnökséghez fellebbezhet a területi kamarának az a tagja, akit a határozat érint.
+(2) A területi kamara elnökének határozata ellen a közlésétől számított tizenöt napon belül a területi elnökséghez fellebbezhet a területi kamarának az a tagja, akit a határozat érint.
 
 108. § A területi kamara szerveinek, egyéb bizottságainak és tisztségviselőinek feladatát, hatáskörét, működését és eljárási rendjét a területi kamara alapszabálya határozza meg.
 

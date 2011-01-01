@@ -64,7 +64,7 @@ Az Országgyűlés a tulajdonviszonyok rendezése, a forgalmi viszonyok és a pi
 
 (4)
 
-(5) A kárpótlási jegy névértéke a kárpótlási hatóság által havonta közzétett és a közzétételt követő naptári hónap első napjától jóváírható kamattal növekszik.
+(5)
 
 6. § (1) A kárpótlási jegy tartalmazza:
 
@@ -113,11 +113,11 @@ Az Országgyűlés a tulajdonviszonyok rendezése, a forgalmi viszonyok és a pi
 
 11. § (1) A kárpótlás iránti kérelmet a jogosult 1991. december 16. napjáig nyújthatja be az illetékes területi kárrendezési kirendeltséghez.
 
-(2) Abban az esetben, ha a kárpótlás alapjául szolgáló vagyontárgyak között ingatlan is van, az annak fekvése szerinti kárpótlási hatóság jár el.
+(2)
 
-(3) Ha a jogosult állandó lakóhelye külföldön van, az eljárásra a fővárosi kárpótlási hatóság az illetékes.
+(3)
 
-(4) Több kárpótlási hatóság illetékessége (pozitív illetékességi összeütközés) esetén a jogosult választása szerinti kárpótlási hatóság bírálja el a jogosult összes igényét.
+(4)
 
 12. § (1) A kérelmet írásban kell benyújtani. A kérelem benyújtására a 11. § (1) bekezdésében előírt határidő elmulasztása jogvesztéssel jár.
 
@@ -169,7 +169,7 @@ Az Országgyűlés a tulajdonviszonyok rendezése, a forgalmi viszonyok és a pi
 
 20. § (1) A 15—19. §-okban kijelölt termőföldek árverés útján kerülnek a kárpótlásra jogosultak részére értékesítésre. Ha a volt tulajdonos földje, mint állami tulajdonú föld került a szövetkezet közös használatába, a szövetkezet a közös használatában lévő állami tulajdonú termőföldeket is árverésre bocsáthatja.
 
-(2) Az árverés legkorábbi, illetve legkésőbbi időpontját a kárpótlás iránti kérelmek elbírálására tekintettel a szövetkezet székhelye szerint illetékes kárpótlási hatóság állapítja meg.
+(2) Az árverés legkorábbi, illetve legkésőbbi időpontját a kárpótlás iránti kérelmek elbírálására tekintettel a kárpótlási hatóság állapítja meg.
 
 21. § (1) Az árverésen az őt megillető kárpótlási jegyekkel az a kárpótlásra jogosult vehet részt,
 
@@ -177,7 +177,7 @@ Az Országgyűlés a tulajdonviszonyok rendezése, a forgalmi viszonyok és a pi
 - b) aki a termőföldet árverező szövetkezetnek 1991. január 1-jén és az árverés időpontjában is tagja, illetőleg az árverés időpontjában azért nem tagja, mert tagsági viszonya az [1992: II. tv.] Ámt. hatálybalépését követően kiválással, a szövetkezet gazdasági társasággá történő átalakulása vagy a szövetkezet megszűnése folytán szűnt meg.
 - c) akinek 1991. június 1-jén abban a községben, városban volt az állandó lakóhelye, ahol az árverező szövetkezet termőföldterülete van.
 
-(2) Az árverést a szövetkezet székhelye szerint illetékes kárpótlási hatóság közigazgatási hatósági jogkörben eljáró alkalmazottja vezeti.
+(2) Az árverést a kárpótlási hatóság közigazgatási hatósági jogkörben eljáró alkalmazottja vezeti.
 
 22. § (1) Az árverésen résztvevők az egy aranykoronának megfelelő forintértékre licitálnak. A kikiáltási ár 3000 Ft/AK. Ha e kikiáltási áron vagy afelett nincs ajánlat, a kikiáltási ár folyamatosan, de legfeljebb 500 Ft/AK értékig csökkenthető.
 
@@ -195,7 +195,7 @@ Az Országgyűlés a tulajdonviszonyok rendezése, a forgalmi viszonyok és a pi
 
 (3) Arra a termőföldre, amelyet a kárpótolt az (1) bekezdésben említett támogatással szerez meg, az állam javára öt évi időtartamra jelzálogjogot és elidegenítési tilalmat kell bejegyezni. Amennyiben e határidőn belül a kárpótolt az adóhatóságnál a támogatás összegét befizeti, az állam javára bejegyzett jelzálogjogot és elidegenítési tilalmat törölni kell.
 
-(4) A mezőgazdasági vállalkozási támogatás összegéről — a jogosult kérelmére — az illetékes kárpótlási hatóság utalványt ad, amelyet az árverés során a kárpótlási jeggyel azonos módon lehet felhasználni. Az utalványból — a szövetkezet tulajdonában lévő föld árverésen történő megszerzése ellenében a kárpótlásra jogosult által — felhasznált összeg erejéig a szövetkezet kárpótlási jegyet igényelhet a székhelye szerint illetékes kárpótlási hatóságtól.
+(4) A mezőgazdasági vállalkozási támogatás összegéről — a jogosult kérelmére — a kárpótlási hatóság utalványt ad, amelyet az árverés során a kárpótlási jeggyel azonos módon lehet felhasználni. Az utalványból — a szövetkezet tulajdonában lévő föld árverésen történő megszerzése ellenében a kárpótlásra jogosult által — felhasznált összeg erejéig a szövetkezet kárpótlási jegyet igényelhet a kárpótlási hatóságtól.
 
 (5) Ha az árverés időpontjában a kárpótlásra jogosult még nincs a megszerzett termőföld birtokában, illetőleg azt további 15 napon belül sem veheti birtokba, az (1) bekezdésben megállapított határidőt a birtokbavétel lehetőségének megnyílásától kell számítani.
 
@@ -216,7 +216,7 @@ Az Országgyűlés a tulajdonviszonyok rendezése, a forgalmi viszonyok és a pi
 
 (4) A (2) bekezdésben megjelölt földterület fennmaradó részére kitűzött árverésen minden kárpótlásra jogosult az őt megillető kárpótlási jeggyel részt vehet. Az árverésre egyebekben a 22—23. § és a 25. §-ok rendelkezéseit kell alkalmazni.
 
-28. § Az állami tulajdonú termőföld ellenében az árverésen kapott kárpótlási jegyet a szövetkezet, illetőleg az állami gazdaság 30 napon belül köteles eljuttatni az illetékes kárpótlási hatósághoz.
+28. § Az állami tulajdonú termőföld ellenében az árverésen kapott kárpótlási jegyet a szövetkezet, illetőleg az állami gazdaság 30 napon belül köteles eljuttatni a kárpótlási hatósághoz.
 
 ### Zárórendelkezések
 

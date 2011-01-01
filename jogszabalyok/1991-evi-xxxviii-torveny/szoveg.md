@@ -40,7 +40,7 @@ a használati minták oltalmáról
 
 7. § (1) A mintaoltalom a feltalálót vagy jogutódját illeti meg.
 
-(2) Ha többen közösen alkották a mintát, a mintaoltalom a feltalálókat, illetve jogutódjaikat közösen illeti meg. Ha többen egymástól függetlenül alkották a mintát, a mintaoltalom azt a feltalálót vagy jogutódját illeti meg, aki a mintát korábbi elsőbbséggel jelentette be a Magyar Szabadalmi Hivatalhoz.
+(2) Ha többen közösen alkották a mintát, a mintaoltalom a feltalálókat, illetve jogutódjaikat közösen illeti meg. Ha többen egymástól függetlenül alkották a mintát, a mintaoltalom azt a feltalálót vagy jogutódját illeti meg, aki a mintát korábbi elsőbbséggel jelentette be a Szellemi Tulajdon Nemzeti Hivatalához.
 
 8. § A munkaviszonyban, közszolgálati vagy közalkalmazotti jogviszonyban álló vagy szolgálati viszonyban foglalkoztatott személy vagy munkaviszony jellegű jogviszony keretében foglalkoztatott szövetkezeti tag által alkotott mintára a szolgálati és az alkalmazotti találmányra irányadó rendelkezéseket kell megfelelően alkalmazni.
 
@@ -116,11 +116,11 @@ a használati minták oltalmáról
 
 ### A mintaoltalom újra érvénybe helyezése
 
-22. § Ha a mintaoltalom a fenntartási díj megfizetésének elmulasztása miatt megszűnt, a Magyar Szabadalmi Hivatal kérelemre az oltalmat újra érvénybe helyezi, ha a mulasztást menthető ok idézte elő.
+22. § Ha a mintaoltalom a fenntartási díj megfizetésének elmulasztása miatt megszűnt, a Szellemi Tulajdon Nemzeti Hivatala kérelemre az oltalmat újra érvénybe helyezi, ha a mulasztást menthető ok idézte elő.
 
 ### Lemondás a mintaoltalomról
 
-23. § (1) A mintaoltalmi lajstromban feltüntetett jogosult a Magyar Szabadalmi Hivatalhoz intézett írásbeli nyilatkozattal a mintaoltalomról lemondhat. Ha a lemondás más személyeknek jogszabályon, hatósági határozaton vagy a mintaoltalmi lajstromba bejegyzett hasznosítási szerződésen alapuló jogát érinti, vagy ha a mintaoltalmi lajstromba per van bejegyezve, a lemondás csak az érintett személy hozzájárulásával hatályos.
+23. § (1) A mintaoltalmi lajstromban feltüntetett jogosult a Szellemi Tulajdon Nemzeti Hivatalához intézett írásbeli nyilatkozattal a mintaoltalomról lemondhat. Ha a lemondás más személyeknek jogszabályon, hatósági határozaton vagy a mintaoltalmi lajstromba bejegyzett hasznosítási szerződésen alapuló jogát érinti, vagy ha a mintaoltalmi lajstromba per van bejegyezve, a lemondás csak az érintett személy hozzájárulásával hatályos.
 
 (2) Lemondani egyes igénypontokról is lehet.
 
@@ -138,11 +138,11 @@ a használati minták oltalmáról
 
 25. § Ha a mintaoltalom keletkezésére visszaható hatállyal szűnik meg, a mintaoltalom jogosultja és a minta feltalálója által jóhiszeműen felvett díjnak csak azt a részét lehet visszakövetelni, amelyet a minta hasznosításának előnyei nem fedeztek.
 
-### IV. Fejezet — A MAGYAR SZABADALMI HIVATAL ELJÁRÁSA MINTAOLTALMI ÜGYEKBEN
+### IV. Fejezet — A SZELLEMI TULAJDON NEMZETI HIVATALA ELJÁRÁSA MINTAOLTALMI ÜGYEKBEN
 
-### A Magyar Szabadalmi Hivatal hatásköre
+### A Szellemi Tulajdon Nemzeti Hivatala hatásköre
 
-26. § A Magyar Szabadalmi Hivatal hatáskörébe tartoznak:
+26. § A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak:
 
 - a) a mintaoltalom megadásával,
 - b) a mintaoltalom megszűnésének megállapításával, illetőleg újra érvénybe helyezésével,
@@ -153,22 +153,22 @@ a használati minták oltalmáról
 
 ### A közigazgatási hatósági eljárás általános szabályainak alkalmazása
 
-27. § (1) A Magyar Szabadalmi Hivatal a mintaoltalmi ügyekben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint jár el.
+27. § (1) A Szellemi Tulajdon Nemzeti Hivatala a mintaoltalmi ügyekben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint jár el.
 
-(2) A Magyar Szabadalmi Hivatal döntései ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi óvásnak.
+(2) A Szellemi Tulajdon Nemzeti Hivatala döntései ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi óvásnak.
 
-(3) A Magyar Szabadalmi Hivatalnak a mintaoltalmi ügyekben hozott döntéseit a bíróság a 37. §-ban foglaltak szerint vizsgálja felül.
+(3) A Szellemi Tulajdon Nemzeti Hivatalának a mintaoltalmi ügyekben hozott döntéseit a bíróság a 37. §-ban foglaltak szerint vizsgálja felül.
 
-(4) A szabadalmi törvény eltérő rendelkezése hiányában a Magyar Szabadalmi Hivatal csak megváltoztatási kérelem alapján és csak annak a bírósághoz történő továbbításáig módosíthatja és vonhatja vissza a következő kérdésekben hozott – az eljárást befejező – döntését:
+(4) A szabadalmi törvény eltérő rendelkezése hiányában a Szellemi Tulajdon Nemzeti Hivatala csak megváltoztatási kérelem alapján és csak annak a bírósághoz történő továbbításáig módosíthatja és vonhatja vissza a következő kérdésekben hozott – az eljárást befejező – döntését:
 
 - a) a mintaoltalom megadása;
 - b) a mintaoltalom megszűnésének megállapítása és újra érvénybe helyezése;
 - c) a mintaoltalom megsemmisítése;
 - d) a nemleges megállapítás.
 
-(5) A szabadalmi törvény eltérő rendelkezése hiányában a (4) bekezdés c) és d) pontjában említett kérdésekben hozott – az eljárást befejező – döntését a Magyar Szabadalmi Hivatal megváltoztatási kérelem alapján is csak akkor módosíthatja vagy vonhatja vissza, ha megállapítja, hogy döntése jogszabályt sért, vagy ha a felek a döntés módosítását vagy visszavonását egybehangzóan kérik.
+(5) A szabadalmi törvény eltérő rendelkezése hiányában a (4) bekezdés c) és d) pontjában említett kérdésekben hozott – az eljárást befejező – döntését a Szellemi Tulajdon Nemzeti Hivatala megváltoztatási kérelem alapján is csak akkor módosíthatja vagy vonhatja vissza, ha megállapítja, hogy döntése jogszabályt sért, vagy ha a felek a döntés módosítását vagy visszavonását egybehangzóan kérik.
 
-28. § (1) A Magyar Szabadalmi Hivatal mintaoltalmi ügyekben folyó eljárásában megfelelően alkalmazni kell a szabadalmi törvénynek a Magyar Szabadalmi Hivatal előtti eljárásra vonatkozó általános szabályait.
+28. § (1) A Szellemi Tulajdon Nemzeti Hivatala mintaoltalmi ügyekben folyó eljárásában megfelelően alkalmazni kell a szabadalmi törvénynek a Szellemi Tulajdon Nemzeti Hivatala előtti eljárásra vonatkozó általános szabályait.
 
 (2) A mintaoltalmi bejelentést visszavontnak kell tekinteni, ha jogerős határozattal szabadalmat adnak arra a szabadalmi bejelentésre,
 
@@ -177,7 +177,7 @@ a használati minták oltalmáról
 
 ### Mintaoltalmi bejelentés
 
-29. § (1) A mintaoltalom megadására irányuló eljárás a Magyar Szabadalmi Hivatalhoz intézett bejelentéssel indul meg.
+29. § (1) A mintaoltalom megadására irányuló eljárás a Szellemi Tulajdon Nemzeti Hivatalához intézett bejelentéssel indul meg.
 
 (2) A mintaoltalmi bejelentés a kérelemből, a minta leírásából és az ezekkel kapcsolatos egyéb mellékletekből áll.
 
@@ -189,7 +189,7 @@ a használati minták oltalmáról
 
 30. § (1) Ha a bejelentő korábban szabadalmi bejelentést tett, akkor az azonos tárgyú mintaoltalmi bejelentés napjától számított két hónapon belül benyújtott nyilatkozatában igényt tarthat a szabadalmi bejelentés napjára és elsőbbségére (származtatás).
 
-(2) A mintaoltalmi bejelentést akkor illeti meg a származtatás alapján a szabadalmi bejelentés elsőbbsége és napja, ha a származtatott mintaoltalmi bejelentést a Magyar Szabadalmi Hivatalhoz benyújtják
+(2) A mintaoltalmi bejelentést akkor illeti meg a származtatás alapján a szabadalmi bejelentés elsőbbsége és napja, ha a származtatott mintaoltalmi bejelentést a Szellemi Tulajdon Nemzeti Hivatalához benyújtják
 
 - a) a szabadalmi bejelentési eljárás során a szabadalmat adó határozat jogerőre emelkedéséig vagy a szabadalmi bejelentést elutasító határozat jogerőre emelkedésétől számított három hónapon belül, vagy
 - b) a szabadalom újdonság vagy feltalálói tevékenység hiányában történő megsemmisítése esetén a határozat jogerőre emelkedésétől számított három hónapon belül.
@@ -210,11 +210,11 @@ a használati minták oltalmáról
 
 ### A mintaoltalmi bejelentés vizsgálata
 
-34. § (1) A Magyar Szabadalmi Hivatal megvizsgálja a mintaoltalmi bejelentést abból a szempontból, hogy megfelel-e a 29. § (2)—(4) bekezdésében foglalt követelményeknek.
+34. § (1) A Szellemi Tulajdon Nemzeti Hivatala megvizsgálja a mintaoltalmi bejelentést abból a szempontból, hogy megfelel-e a 29. § (2)—(4) bekezdésében foglalt követelményeknek.
 
 (2)
 
-35. § A Magyar Szabadalmi Hivatal a mintaoltalmi bejelentés érdemi vizsgálatát a következő szempontokból végzi:
+35. § A Szellemi Tulajdon Nemzeti Hivatala a mintaoltalmi bejelentés érdemi vizsgálatát a következő szempontokból végzi:
 
 - a) a bejelentés tárgya minta-e;
 - b) a bejelentés tárgya iparilag alkalmazható-e;
@@ -233,13 +233,13 @@ a használati minták oltalmáról
 
 (4) A szabadalmi törvénynek az európai szabadalmi bejelentés hatályára vonatkozó rendelkezéseit megfelelően alkalmazni kell mintaoltalmi ügyekben is. Az európai szabadalmi bejelentés a szabadalmi törvény rendelkezéseinek megfelelő alkalmazásával nemzeti mintaoltalmi bejelentéssé is átalakítható.
 
-(5) A Magyar Szabadalmi Hivatal megjelölt vagy kiválasztott hivatalként való eljárására a szabadalmi törvény rendelkezéseit kell megfelelően alkalmazni, ha a bejelentő a Szabadalmi Együttműködési Szerződés 43. cikkével összhangban megjelöli, hogy nemzetközi bejelentése a Magyar Köztársaságban mint megjelölt vagy kiválasztott államban használati mintaoltalom megadására irányul.
+(5) A Szellemi Tulajdon Nemzeti Hivatala megjelölt vagy kiválasztott hivatalként való eljárására a szabadalmi törvény rendelkezéseit kell megfelelően alkalmazni, ha a bejelentő a Szabadalmi Együttműködési Szerződés 43. cikkével összhangban megjelöli, hogy nemzetközi bejelentése a Magyar Köztársaságban mint megjelölt vagy kiválasztott államban használati mintaoltalom megadására irányul.
 
 ### V. Fejezet — BÍRÓSÁGI ELJÁRÁS MINTAOLTALMI ÜGYEKBEN ÉS PEREKBEN
 
-### A Magyar Szabadalmi Hivatal döntéseinek felülvizsgálata
+### A Szellemi Tulajdon Nemzeti Hivatala döntéseinek felülvizsgálata
 
-37. § (1) A bíróság kérelemre megváltoztathatja a Magyar Szabadalmi Hivatalnak
+37. § (1) A bíróság kérelemre megváltoztathatja a Szellemi Tulajdon Nemzeti Hivatalának
 
 - a) a 27. § (4) bekezdésében felsorolt döntéseit;
 - b) az eljárást felfüggesztő és a bejelentési nyilvántartásba vagy a mintaoltalmi lajstromba való bejegyzés tárgyában hozott döntését;
@@ -249,15 +249,15 @@ a használati minták oltalmáról
 
 (2) Az eljárási bírságot kiszabó, valamint az eljárási költség megállapításával és viselésével kapcsolatos végzés ellen előterjesztett megváltoztatási kérelemnek nincs halasztó hatálya a döntés többi – a megváltoztatási kérelemben nem támadott – rendelkezése tekintetében, és nem akadályozza meg azok jogerőre emelkedését.
 
-(3) A Magyar Szabadalmi Hivatalnak az (1) bekezdésben nem említett végzése csak az (1) bekezdésben felsorolt döntésekkel szemben előterjesztett megváltoztatási kérelemben támadható meg.
+(3) A Szellemi Tulajdon Nemzeti Hivatalának az (1) bekezdésben nem említett végzése csak az (1) bekezdésben felsorolt döntésekkel szemben előterjesztett megváltoztatási kérelemben támadható meg.
 
 (4) A döntés megváltoztatását kérheti:
 
-- a) aki a Magyar Szabadalmi Hivatal előtti eljárásban ügyfélként vett részt;
+- a) aki a Szellemi Tulajdon Nemzeti Hivatala előtti eljárásban ügyfélként vett részt;
 - b) akit az iratbetekintésből kizártak vagy abban korlátoztak;
 - c) akitől az ügyféli jogállást megtagadták.
 
-(5) A mintaoltalom megadása és megsemmisítése kérdésében hozott határozat megváltoztatását az ügyész az 5. § (2) bekezdése alapján kérheti. A Magyar Szabadalmi Hivatal előtti eljárás egyéb résztvevője saját jogán önálló megváltoztatási kérelemmel élhet a döntés rá vonatkozó rendelkezése, illetve a rá vonatkozó döntés ellen.
+(5) A mintaoltalom megadása és megsemmisítése kérdésében hozott határozat megváltoztatását az ügyész az 5. § (2) bekezdése alapján kérheti. A Szellemi Tulajdon Nemzeti Hivatala előtti eljárás egyéb résztvevője saját jogán önálló megváltoztatási kérelemmel élhet a döntés rá vonatkozó rendelkezése, illetve a rá vonatkozó döntés ellen.
 
 (6) A megváltoztatási kérelem benyújtásának vagy ajánlott küldeményként való postára adásának határideje – a (7) és a (8) bekezdésben szabályozott kivételekkel – a döntésnek a féllel, illetve az eljárás egyéb résztvevőjével való közlésétől számított harminc nap.
 
@@ -266,17 +266,17 @@ a használati minták oltalmáról
 - a) ez a későbbi, mint a (6) bekezdés szerinti döntés közlésének napja, és
 - b) az eljárás folytatása iránti kérelmet vagy az igazolási kérelmet olyan mulasztás következményeinek az elhárítására terjesztették elő, amely közvetlenül a (6) bekezdés szerinti döntés alapjául szolgált.
 
-(8) Ha a Magyar Szabadalmi Hivatal döntésének a megváltoztatását a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint az Alkotmánybíróság határozata alapján kérik, a megváltoztatási kérelem előterjesztésének határideje az alkotmánybírósági döntés kihirdetésétől számított harminc napra ismételten megnyílik.
+(8) Ha a Szellemi Tulajdon Nemzeti Hivatala döntésének a megváltoztatását a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint az Alkotmánybíróság határozata alapján kérik, a megváltoztatási kérelem előterjesztésének határideje az alkotmánybírósági döntés kihirdetésétől számított harminc napra ismételten megnyílik.
 
-(9) A megváltoztatási kérelem a Magyar Szabadalmi Hivatalnál nyújtható be, amely azt a mintaoltalmi ügy irataival együtt – a (10) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz. Ha az eljárásban ellenérdekű fél vett részt, a Magyar Szabadalmi Hivatal a megváltoztatási kérelem továbbításáról egyidejűleg az ellenérdekű felet is értesíti.
+(9) A megváltoztatási kérelem a Szellemi Tulajdon Nemzeti Hivatalánál nyújtható be, amely azt a mintaoltalmi ügy irataival együtt – a (10) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz. Ha az eljárásban ellenérdekű fél vett részt, a Szellemi Tulajdon Nemzeti Hivatala a megváltoztatási kérelem továbbításáról egyidejűleg az ellenérdekű felet is értesíti.
 
-(10) Ha a megváltoztatási kérelem elvi jelentőségű jogkérdést vet fel, a Magyar Szabadalmi Hivatal e kérdésben írásbeli nyilatkozatot tehet, és azt a megváltoztatási kérelemmel, valamint a mintaoltalmi ügy irataival együtt harminc napon belül továbbítja a bírósághoz.
+(10) Ha a megváltoztatási kérelem elvi jelentőségű jogkérdést vet fel, a Szellemi Tulajdon Nemzeti Hivatala e kérdésben írásbeli nyilatkozatot tehet, és azt a megváltoztatási kérelemmel, valamint a mintaoltalmi ügy irataival együtt harminc napon belül továbbítja a bírósághoz.
 
 (11) A megváltoztatási kérelem kellékeire a keresetlevélre vonatkozó szabályok megfelelően irányadók.
 
 (12) Ha a megváltoztatási kérelmet elkésetten nyújtották be, az igazolási kérelem tárgyában a bíróság határoz.
 
-(13) A Magyar Szabadalmi Hivatal mintaoltalmi ügyekben hozott döntésének felülvizsgálatára irányuló bírósági eljárásban egyebekben a Magyar Szabadalmi Hivatal szabadalmi ügyekben hozott döntésének felülvizsgálatára irányuló bírósági eljárás szabályait kell megfelelően alkalmazni.
+(13) A Szellemi Tulajdon Nemzeti Hivatala mintaoltalmi ügyekben hozott döntésének felülvizsgálatára irányuló bírósági eljárásban egyebekben a Szellemi Tulajdon Nemzeti Hivatala szabadalmi ügyekben hozott döntésének felülvizsgálatára irányuló bírósági eljárás szabályait kell megfelelően alkalmazni.
 
 ### Mintaoltalmi perek
 
@@ -303,4 +303,4 @@ a használati minták oltalmáról
 
 42. § (1) Ez a törvény 1992. január 1-jén lép hatályba.
 
-(2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – a Magyar Szabadalmi Hivatal elnöke véleményének kikérésével, a Magyar Szabadalmi Hivatal felett felügyeletet gyakorló miniszterrel egyetértésben – a mintaoltalmi bejelentés részletes alaki szabályait rendelettel megállapítsa.
+(2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével, a Szellemi Tulajdon Nemzeti Hivatala felett felügyeletet gyakorló miniszterrel egyetértésben – a mintaoltalmi bejelentés részletes alaki szabályait rendelettel megállapítsa.

@@ -11,8 +11,8 @@ Az Országgyűlés a Digitális Átállás Stratégia végrehajtása, az inform�
 1. § (1) A törvény hatálya kiterjed
 
 - a) a részben vagy egészben a Magyar Köztársaság területén telepített elektronikus hírközlő berendezéssel végzett műsorterjesztésre,
-- b) a műsorszolgáltató a) pontban foglalt műsorterjesztéssel összefüggő műszaki tevékenységére,
-- c) a kiegészítő digitális szolgáltatást nyújtó a) pontban foglalt műsorterjesztéssel összefüggő tevékenységére,
+- b) a médiaszolgáltató a) pontban foglalt műsorterjesztéssel összefüggő műszaki tevékenységére,
+- c) a kiegészítő médiaszolgáltatást nyújtó a) pontban foglalt műsorterjesztéssel összefüggő tevékenységére,
 - d) a gyártónak és a forgalomba hozatalért felelős személynek, a feltételes hozzáférési rendszeren és alkalmazási program interfészen fennálló jogi oltalom jogosultjának a) pontban foglalt műsorterjesztéssel összefüggő tevékenységére.
 
 (2) A törvény hatálya kiterjed
@@ -28,15 +28,15 @@ Az Országgyűlés a Digitális Átállás Stratégia végrehajtása, az inform�
 - d) a digitális átállás előnyeinek biztosítása a fogyasztók és a vállalkozások számára;
 - e) a fogyatékkal élők és az alacsony jövedelmű felhasználók igényeinek figyelembevétele a digitális átállás során.
 
-3. § (1) A műsorterjesztők, a digitális műsorszóró hálózatot, vagy műsorszóró adót üzemeltetők, a műsorszolgáltatók és a kiegészítő digitális szolgáltatást nyújtók az e törvény hatálya alá tartozó tevékenységek végzése során a jóhiszeműség és a tisztesség követelményének megfelelően e törvényben meghatározottak szerint kötelesek egymással kölcsönösen együttműködve eljárni.
+3. § (1) A műsorterjesztők, a digitális műsorszóró hálózatot, vagy műsorszóró adót üzemeltetők, a médiaszolgáltatók és a kiegészítő médiaszolgáltatást nyújtók az e törvény hatálya alá tartozó tevékenységek végzése során a jóhiszeműség és a tisztesség követelményének megfelelően e törvényben meghatározottak szerint kötelesek egymással kölcsönösen együttműködve eljárni.
 
-(2) A műsorterjesztők, a digitális műsorszóró hálózatot, vagy műsorszóró adót üzemeltetők, a műsorszolgáltatók és a kiegészítő digitális szolgáltatást nyújtók az elektronikus hírközlő hálózatokat, elektronikus hírközlési szolgáltatásokat, digitális műsorokat, kiegészítő digitális szolgáltatásokat egymás között olyan egyeztetett műszaki feltételrendszerben kötelesek működtetni és nyújtani, hogy azok a szükséges kapcsolat létesítéséhez, a szolgáltatás nyújtásához közvetlenül, vagy megfelelő interfészek, hálózatrészek, elemek, berendezések, szolgáltatások beiktatásával egységesen működő rendszert alkossanak.
+(2) A műsorterjesztők, a digitális műsorszóró hálózatot, vagy műsorszóró adót üzemeltetők, a médiaszolgáltatók és a kiegészítő médiaszolgáltatást nyújtók az elektronikus hírközlő hálózatokat, elektronikus hírközlési szolgáltatásokat, digitális műsorokat, kiegészítő médiaszolgáltatásokat egymás között olyan egyeztetett műszaki feltételrendszerben kötelesek működtetni és nyújtani, hogy azok a szükséges kapcsolat létesítéséhez, a szolgáltatás nyújtásához közvetlenül, vagy megfelelő interfészek, hálózatrészek, elemek, berendezések, szolgáltatások beiktatásával egységesen működő rendszert alkossanak.
 
 4. § (1) Az e törvényben nem szabályozott kérdésekben az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) rendelkezéseit kell alkalmazni.
 
 (2) A Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: a Hatóság) az e törvényben foglalt piaci felügyelettel és piaci szabályozással kapcsolatos eljárásokban e törvényben és az Eht.-ban foglalt eltérésekkel a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezései szerint jár el.
 
-(3) Az e törvényben foglalt jogviszonyokra a rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: Rttv.) rendelkezései e törvény kifejezett rendelkezése esetén alkalmazhatók.
+(3) Az e törvényben foglalt jogviszonyokra a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban Mttv.) rendelkezései e törvény kifejezett rendelkezése esetén alkalmazhatók.
 
 (4) E törvény és az e törvény felhatalmazása alapján a végrehajtása tárgyában kibocsátott jogszabály elektronikus hírközlésre vonatkozó szabály.
 
@@ -48,46 +48,14 @@ Az Országgyűlés a Digitális Átállás Stratégia végrehajtása, az inform�
 - 2. Átviteli rendszer: a televízió vagy rádió műsorjeleknek az analóg vagy digitális műsorterjesztését szolgáló műszaki eljárások, elektronikus hírközlési és más eszközök rendszere, amely a műsorterjesztés alkalmazott átviteli közegéhez – így különösen a levegőhöz és rádiófrekvenciához, vákuumhoz, koaxiális vezetékhez, sodrott érpárú vezetékhez, üvegszálas vezetékhez – kapcsolódik;
 - 3. Digitális műsorszórás: olyan műsorszórás, amely során a televízió és rádió műsorjeleket valamely digitális műsorszórási szabvány szerint multiplexekbe rendezve továbbítják az előfizetőhöz, vagy felhasználóhoz;
 - 4. Digitális műsorszóró hálózat vagy műsorszóró adó: az elektronikus hírközlő berendezések és elektronikus hírközlési építmények összessége, amely digitális műsorszórásra a frekvenciasávok nemzeti felosztását megállapító jogszabályban műsorszórásra felosztott frekvenciákat használja;
-- 5. Digitális műsorszóró hálózat vagy műsorszóró adó üzemeltetője: az a szolgáltató, amely a digitális műsorszórással nyújtott műsorterjesztési szolgáltatás, illetve kiegészítő digitális szolgáltatások, a multiplex technikai szolgáltatás vagy más elektronikus hírközlési szolgáltatás feltételeit az előfizetőnek, vagy felhasználónak, vagy más szolgáltatóknak meghatározza, illetve az előfizetővel vagy szolgáltatóval szerződést köt;
+- 5. Digitális műsorszóró hálózat vagy műsorszóró adó üzemeltetője: az a szolgáltató, amely a digitális műsorszórással nyújtott műsorterjesztési szolgáltatás, illetve kiegészítő médiaszolgáltatások, a multiplex technikai szolgáltatás vagy más elektronikus hírközlési szolgáltatás feltételeit az előfizetőnek, vagy felhasználónak, vagy más szolgáltatóknak meghatározza, illetve az előfizetővel vagy szolgáltatóval szerződést köt;
 - 6. Digitális televíziókészülék: a digitális vevődekóder és az analóg televízió készülék, vagy kijelző együtt, illetve az integrált digitális televízió-vevőkészülék;
 - 7. Digitális vevődekóder (set-top-box): olyan készülék, amely az antennával együtt az analóg televízió-vevőkészülék vagy kijelző számára lehetővé teszi a digitális televízió műsorszámok megjelenítését;
 - 8. Elektronikus hírközlési szolgáltatás: az Eht. 188. §-ának 13. pontjában meghatározott szolgáltatás;
-- 9. Elektronikus műsorkalauz (EPG): olyan tartalomszolgáltatást is magában foglaló alkalmazás, amely egyebek mellett segítséget nyújt a műsorszolgáltatások és a kiegészítő szolgáltatások közvetlen eléréséhez;
-- 10. Európai szabvány: az Európai Szabványügyi Bizottság (Comité Européen de Normalisation, CEN), az Európai Elektrotechnikai Szabványügyi Bizottság (Comité Européen de Normalisation Electrotechnique, CENELEC) és az Európai Távközlési Szabványügyi Intézet (European Telecommunications Standards Institute, ETSI) által elfogadott szabvány;
-- 11. Feltételes hozzáférési rendszer: minden olyan műszaki megoldás, intézkedés, illetve rendszer, amely lehetővé teszi, hogy valamely műszaki intézkedéssel védett rádió- vagy televízióműsorhoz előfizetés vagy más formában megjelenő előzetes egyedi feljogosítás alapján férjenek hozzá;
-- 12. Feltételes hozzáférési rendszer üzemeltető: feltételes hozzáférési rendszert üzemeltető digitális műsorterjesztő, műsorszolgáltató vagy más személy, jogi személyiséggel nem rendelkező szervezet;
-- 13. Forgalomba hozatal: analóg televízió-vevőkészülék vagy digitális televízió-készülék visszterhes vagy ingyenes, első ízben történő belföldi rendelkezésre bocsátása, kereskedelmi értékesítése, beleértve a bérbeadást is;
-- 14. Gyártó: az a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § c) pontja szerinti gazdálkodó szervezet, amely felel az analóg televízió-vevőkészülék vagy digitális televíziókészülék vagy ezzel összefüggő elektronikus hírközlő berendezés tervezéséért, gyártásáért, csomagolásáért, jelöléséért és forgalomba hozataláért, függetlenül attól, hogy ezeket a feladatokat saját maga vagy megbízásából más végzi. Ha a gyártó székhelye nem Magyarország területén van, a készülék importálója, belföldi forgalomba hozója tekintendő gyártónak;
-- 15. Helyi műsorterjesztő: olyan műsorterjesztő, amelynek vételkörzetében éves átlagban legfeljebb százezer lakos vagy egy településen belül legfeljebb ötszázezer lakos él;
-- 16. Információs csatorna: a műsorterjesztő által külön televíziós csatornán nyújtott olyan szerkesztett információk, amelyek főként a műsorterjesztési szolgáltatás műszaki vagy előfizetési feltételeivel kapcsolatosak, vagy más szolgáltatások hirdetései, illetőleg egyéb közérdekű információk gyűjteménye;
-- 17. Információs társadalommal összefüggő szolgáltatás: az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 2. §-ában ekként meghatározott szolgáltatás;
-- 18. Integrált digitális televíziókészülék: olyan televízió-vevőkészülék, amely különálló digitális vevődekóder csatlakoztatása nélkül alkalmas a digitális televízió műsorszámok megjelenítésére;
-- 19. Interaktív digitális televíziós szolgáltatások: olyan digitális televíziós szolgáltatások, amelyek lehetővé teszik a felhasználó visszajelzését és válaszát kétirányú jelátvitelen, vagy visszirányú átviteli rendszeren keresztül megvalósuló kommunikáció segítségével;
-- 20. Interfész: villamos, mechanikai és informatikai jellemzőkkel rendelkező fizikai vagy logikai csatlakoztatási felület, különösen az analóg televízió-vevőkészülék vagy integrált digitális televízió-vevőkészülék meghatározott villamos és mechanikai jellemzőkkel rendelkező csatlakoztatási felülete;
-- 21. Irányítás: A tisztességtelen piaci magatartás és versenykorlátozás tilalmáról szóló 1996. évi LVII. törvényben így meghatározott kapcsolat;
-- 22. Kapcsolódó eszközök: azok az elektronikus hírközlő hálózathoz és/vagy elektronikus hírközlési szolgáltatáshoz kapcsolódó eszközök, amelyek lehetővé teszik, és/vagy támogatják az adott hálózat, és/vagy szolgáltatás útján történő szolgáltatásnyújtást. Idetartoznak a feltételes hozzáférésű rendszerek és az elektronikus műsorkalauz;
-- 23. Kiegészítő digitális szolgáltatás: tartalomszolgáltatást is magában foglaló információs társadalommal összefüggő szolgáltatás, valamint a digitális műsorterjesztő átviteli rendszeren továbbított, általában interaktív digitális televíziós szolgáltatások, amelyek nem minősülnek az Eht. 188. §-ának 13. pontja szerinti elektronikus hírközlési szolgáltatásnak, illetve az Rttv. 2. §-ának 30. pontja szerinti műsorszolgáltatásnak és amelyek felhasználóhoz való eljuttatására a digitális műsorterjesztő átviteli rendszert használják. Kiegészítő digitális szolgáltatás különösen: a digitális teletext, az elektronikus műsorkalauz, a műsorszolgáltató által összeállított kínálatból igény szerint vagy közel igény szerint nyújtott videó-szolgáltatás, más részére nyújtott digitális személyi műsorrögzítő szolgáltatás;
-- 24. Kiegészítő szolgáltatást nyújtó: a 23. pont szerinti szolgáltatást nyújtó szolgáltató;
-- 25. Körzeti műsorterjesztő: olyan műsorterjesztő, amelynek vételkörzete meghaladja a helyi műsorterjesztő vételkörzetét, de vételkörzetében az ország lakosságának kevesebb mint a fele él;
-- 26. Közszolgálati műsorszolgáltatás: e törvény értelmében az Rttv.-ben közszolgálati műsorszolgáltatóként meghatározott műsorszolgáltató által előállított, az Rttv. 132. és 133. §-aiban meghatározott műsorszolgáltatás;
-- 27. Közszolgálati műsorszolgáltató: az Rttv.-ben közszolgálati műsorszolgáltatóként meghatározott műsorszolgáltató;
-- 28. Multiplex: a digitális műsorterjesztés céljára szolgáló, televíziós és rádiós műsorszolgáltatásokat, kiegészítő digitális szolgáltatásokat, elektronikus hírközlési szolgáltatásokat valamint ehhez kapcsolódó más azonosító jeleket és adatokat tartalmazó szabványosított jelfolyam;
-- 29. Multiplex technikai szolgáltató: az Eht. 188. §-ának 73. pontja szerinti szolgáltatást nyújtó;
-- 30. Műsor: rádió-, illetve televízió-műsorszámok, és más audiovizuális mozgóképek megszerkesztett és nyilvánosan közzétett sorozata;
-- 31. Műsorszolgáltatás: az Rttv. 2. §-ának 30. pontjában meghatározott műsorszolgáltatás, kivéve az információs csatorna üzemeltetését;
-- 32. Műsorszolgáltató: a 31. pont szerinti műsorszolgáltatást nyújtó;
-- 33. Műsorszórás: olyan műsorterjesztés, amelynek során analóg vagy digitális rádió-, illetve televízióműsorokat a földfelszínen telepített – az elsődlegesen műholdas szolgálatra rendelt frekvenciák kivételével – rádiófrekvenciát használó, általában egyirányú adatátvitelt lehetővé tevő átviteli rendszerrel továbbítják az előfizetőhöz, vagy felhasználóhoz; műsorszórásnak minősül a digitális műsorszóró hálózat vagy műsorszóró adó segítségével végzett műsorterjesztés is;
-- 34. Műsorterjesztés: a 2. pont szerinti bármely átviteli rendszerrel megvalósuló elektronikus hírközlési szolgáltatás, amelynek során a műsorszolgáltató által előállított analóg vagy digitális műsorszolgáltatási jeleket a műsorszolgáltatótól az előfizető, vagy felhasználó vevőkészülékéhez továbbítják, függetlenül az alkalmazott átviteli rendszertől, és technológiától. Műsorterjesztésnek minősül különösen a műsorszórás, a műholddal végzett műsorterjesztés, a hibrid üvegszálas-koaxiális átviteli rendszeren végzett műsorterjesztés, emellett a műsor Internet Protokoll segítségével történő továbbítása valamely átviteli rendszeren, ha a szolgáltatás jellege, illetve feltételei megegyeznek a műsorterjesztéssel, illetve ez helyettesíti a más módon megvalósított műsorterjesztést. Műsorterjesztésnek minősül az olyan műsorterjesztés is, amelyhez az előfizető külön díj ellenében, vagy más elektronikus hírközlési szolgáltatás díjával csomagban értékesített díj ellenében férhet hozzá. A tíznél kevesebb vevőkészülék csatlakoztatására alkalmas átviteli rendszer segítségével történő jeltovábbítás nem minősül műsorterjesztésnek;
-- 35. Műsorterjesztő: a 34. pont szerinti szolgáltatást nyújtó, ideértve a digitális műsorszóró hálózat üzemeltetőjét is, ha a műsorterjesztést saját maga végzi. Amennyiben az átviteli hálózatot nem a műsorterjesztő üzemelteti, az előfizetőnek, vagy felhasználónak nyújtott szolgáltatás feltételeit meghatározó, illetve az előfizetővel szerződést kötő szolgáltató minősül műsorterjesztőnek;
-- 36. Nyílt alkalmazási program interfész: olyan digitális televíziós szabványokon, előírásokon alapuló interfész, amely eltérő forrásból származó digitális alkalmazások futtatását is lehetővé teszi. Ilyen különösen: az MHP, MHEG 5, WTVML;
-- 37. Rendelkezésre álló adatátviteli kapacitás: digitális műsorszórás vonatkozásában az adott frekvencián rendelkezésre álló bruttó adatátviteli kapacitás;
-- 38. Saját műsorterjesztés: olyan műsorterjesztés, amelyet a műsorszolgáltató saját, vagy bérelt elektronikus hírközlő eszközeivel maga végez;
-- 39. Széles képformátumú műsorszám: olyan televízió-műsorszám, amely a képernyőt teljes magasságban és szélességben kitöltő 16:9-es vagy 16:10-es képformátumú (a televízió kép szélességének és magasságának aránya) megjelenítésre készült;
-- 40. Széles képformátumú digitális televíziós szolgáltatás: olyan digitális televíziós szolgáltatás, amely teljes egészében vagy részben széles képformátumban történő megjelenítésre készített és szerkesztett műsorokból áll;
-- 41. Televíziós vásárlás: az Rttv. 2. § 22. pontjában meghatározott szolgáltatás;
-- 42. Vételkörzet:
-  - a) műsorszórás és műholdas műsorterjesztés esetében az a földrajzilag meghatározható terület, amelyen a műsor közzétételét megvalósító műsorszóró szolgáltatás hasznos jeleinek szintje és az interferenciavédelem számított mértéke eléri a Nemzetközi Távközlési Egyesület hatályos ajánlásaiban meghatározott minimális értéket,
-  - b) más műsorterjesztés esetében az a lakott terület, amelyen az átviteli rendszer kiépült és a terület lakosságának lehetősége van e rendszerhez az adott lakott területen szokásos díj ellenében csatlakozást létesíteni.
+- 9. Elektronikus műsorkalauz (EPG): olyan kiegészítő médiaszolgáltatás, amely egyebek mellett segítséget nyújt a médiaszolgáltatások és más kiegészítő médiaszolgáltatások közvetlen eléréséhez; 11. Feltételes hozzáférési rendszer: minden olyan műszaki megoldás, intézkedés, illetve rendszer, amely lehetővé teszi, hogy valamely műszaki intézkedéssel védett rádió- vagy televízióműsorhoz előfizetés vagy más formában megjelenő előzetes egyedi feljogosítás alapján férjenek hozzá; 12. Feltételes hozzáférési rendszer üzemeltető: feltételes hozzáférési rendszert üzemeltető digitális műsorterjesztő, médiaszolgáltató vagy más személy, jogi személyiséggel nem rendelkező szervezet; 13. Forgalomba hozatal: analóg televízió-vevőkészülék vagy digitális televízió-készülék visszterhes vagy ingyenes, első ízben történő belföldi rendelkezésre bocsátása, kereskedelmi értékesítése, beleértve a bérbeadást is; 14. Gyártó: az a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § c) pontja szerinti gazdálkodó szervezet, amely felel az analóg televízió-vevőkészülék vagy digitális televíziókészülék vagy ezzel összefüggő elektronikus hírközlő berendezés tervezéséért, gyártásáért, csomagolásáért, jelöléséért és forgalomba hozataláért, függetlenül attól, hogy ezeket a feladatokat saját maga vagy megbízásából más végzi. Ha a gyártó székhelye nem Magyarország területén van, a készülék importálója, belföldi forgalomba hozója tekintendő gyártónak; 15. Helyi műsorterjesztő: olyan műsorterjesztő, amelynek vételkörzetében éves átlagban legfeljebb százezer lakos vagy egy településen belül legfeljebb ötszázezer lakos él; 16. Információs csatorna: a műsorterjesztő által külön televíziós csatornán nyújtott olyan szerkesztett információk, amelyek főként a műsorterjesztési szolgáltatás műszaki vagy előfizetési feltételeivel kapcsolatosak, vagy más szolgáltatások hirdetései, illetőleg egyéb közérdekű információk gyűjteménye; 17. Információs társadalommal összefüggő szolgáltatás: az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 2. §-ában ekként meghatározott szolgáltatás; 18. Integrált digitális televíziókészülék: olyan televízió-vevőkészülék, amely különálló digitális vevődekóder csatlakoztatása nélkül alkalmas a digitális televízió műsorszámok megjelenítésére; 19. Interaktív digitális televíziós szolgáltatások: olyan digitális televíziós szolgáltatások, amelyek lehetővé teszik a felhasználó visszajelzését és válaszát kétirányú jelátvitelen, vagy visszirányú átviteli rendszeren keresztül megvalósuló kommunikáció segítségével; 20. Interfész: villamos, mechanikai és informatikai jellemzőkkel rendelkező fizikai vagy logikai csatlakoztatási felület, különösen az analóg televízió-vevőkészülék vagy integrált digitális televízió-vevőkészülék meghatározott villamos és mechanikai jellemzőkkel rendelkező csatlakoztatási felülete; 21. Irányítás: A tisztességtelen piaci magatartás és versenykorlátozás tilalmáról szóló 1996. évi LVII. törvényben így meghatározott kapcsolat; 22. Kapcsolódó eszközök: azok az elektronikus hírközlő hálózathoz és/vagy elektronikus hírközlési szolgáltatáshoz kapcsolódó eszközök, amelyek lehetővé teszik, és/vagy támogatják az adott hálózat, és/vagy szolgáltatás útján történő szolgáltatásnyújtást. Idetartoznak a feltételes hozzáférésű rendszerek és az elektronikus műsorkalauz; 23. Kiegészítő médiaszolgáltatás: tartalomszolgáltatást is magában foglaló mindazon szolgáltatás, amelyet műsorterjesztő rendszeren továbbítanak, és amely nem minősül sem médiaszolgáltatásnak, sem elektronikus hírközlési szolgáltatásnak; 24. Kiegészítő médiaszolgáltatást nyújtó: a 23. pont szerinti szolgáltatást nyújtó szolgáltató; 25. Körzeti műsorterjesztő: olyan műsorterjesztő, amelynek vételkörzete meghaladja a helyi műsorterjesztő vételkörzetét, de vételkörzetében az ország lakosságának kevesebb mint a fele él; 26. Közszolgálati médiaszolgáltatás: e törvény értelmében az Mttv.-ben közszolgálati médiaszolgáltatóként meghatározott médiaszolgáltató által előállított médiaszolgáltatás; 27. Közszolgálati médiaszolgáltató: az Mttv.-ben közszolgálati médiaszolgáltatóként meghatározott médiaszolgáltató; 28. Multiplex: a digitális műsorterjesztés céljára szolgáló, audiovizuális és rádiós médiaszolgáltatásokat, kiegészítő médiaszolgáltatásokat, elektronikus hírközlési szolgáltatásokat, valamint ehhez kapcsolódó más azonosító jeleket és adatokat tartalmazó szabványosított jelfolyam; 29. Multiplex technikai szolgáltató: az Eht. 188. §-ának 73. pontja szerinti szolgáltatást nyújtó; 30. Műsor: rádió-, illetve televízió-műsorszámok, és más audiovizuális mozgóképek megszerkesztett és nyilvánosan közzétett sorozata; 31. Médiaszolgáltatás: az Mttv. 203. §-ában meghatározott médiaszolgáltatás, kivéve az információs csatorna üzemeltetését; 32. Médiaszolgáltató: a 31. pont szerinti médiaszolgáltatást nyújtó; 33. Műsorszórás: olyan műsorterjesztés, amelynek során analóg vagy digitális rádió-, illetve televízióműsorokat a földfelszínen telepített – az elsődlegesen műholdas szolgálatra rendelt frekvenciák kivételével – rádiófrekvenciát használó, általában egyirányú adatátvitelt lehetővé tevő átviteli rendszerrel továbbítják az előfizetőhöz, vagy felhasználóhoz; műsorszórásnak minősül a digitális műsorszóró hálózat vagy műsorszóró adó segítségével végzett műsorterjesztés is; 34. Műsorterjesztés: a 2. pont szerinti bármely átviteli rendszerrel megvalósuló elektronikus hírközlési szolgáltatás, amelynek során a médiaszolgáltató által előállított analóg vagy digitális műsorszolgáltatási jeleket a médiaszolgáltatótól az előfizető, vagy felhasználó vevőkészülékéhez továbbítják, függetlenül az alkalmazott átviteli rendszertől, és technológiától. Műsorterjesztésnek minősül különösen a műsorszórás, a műholddal végzett műsorterjesztés, a hibrid üvegszálas-koaxiális átviteli rendszeren végzett műsorterjesztés, emellett a műsor Internet Protokoll segítségével történő továbbítása valamely átviteli rendszeren, ha a szolgáltatás jellege, illetve feltételei megegyeznek a műsorterjesztéssel, illetve ez helyettesíti a más módon megvalósított műsorterjesztést. Műsorterjesztésnek minősül az olyan műsorterjesztés is, amelyhez az előfizető külön díj ellenében, vagy más elektronikus hírközlési szolgáltatás díjával csomagban értékesített díj ellenében férhet hozzá. A tíznél kevesebb vevőkészülék csatlakoztatására alkalmas átviteli rendszer segítségével történő jeltovábbítás nem minősül műsorterjesztésnek; 35. Műsorterjesztő: a 34. pont szerinti szolgáltatást nyújtó, ideértve a digitális műsorszóró hálózat üzemeltetőjét is, ha a műsorterjesztést saját maga végzi. Amennyiben az átviteli hálózatot nem a műsorterjesztő üzemelteti, az előfizetőnek, vagy felhasználónak nyújtott szolgáltatás feltételeit meghatározó, illetve az előfizetővel szerződést kötő szolgáltató minősül műsorterjesztőnek; 36. Nyílt alkalmazási program interfész: olyan digitális televíziós szabványokon, előírásokon alapuló interfész, amely eltérő forrásból származó digitális alkalmazások futtatását is lehetővé teszi. Ilyen különösen: az MHP, MHEG 5, WTVML; 37. Rendelkezésre álló adatátviteli kapacitás: digitális műsorszórás vonatkozásában az adott frekvencián rendelkezésre álló bruttó adatátviteli kapacitás; 38. Saját műsorterjesztés: olyan műsorterjesztés, amelyet a médiaszolgáltató saját, vagy bérelt elektronikus hírközlő eszközeivel maga végez; 39. Széles képformátumú műsorszám: olyan televízió-műsorszám, amely a képernyőt teljes magasságban és szélességben kitöltő 16:9-es vagy 16:10-es képformátumú (a televízió kép szélességének és magasságának aránya) megjelenítésre készült; 40. Széles képformátumú digitális televíziós szolgáltatás: olyan digitális televíziós szolgáltatás, amely teljes egészében vagy részben széles képformátumban történő megjelenítésre készített és szerkesztett műsorokból áll; 41. Televíziós vásárlás: az Mttv. 203. § 65. pontjában meghatározott szolgáltatás; 42. Vételkörzet:
+  - a) műsorszórás és műholdas műsorterjesztés révén végzett, előfizetői díj fizetése nélkül hozzáférhető médiaszolgáltatás esetében azon a földrajzilag meghatározható területen élő lakosság száma, amelyen a műsor közzétételét megvalósító műsorszóró szolgáltatás hasznos jeleinek szintje és az interferenciavédelem számított mértéke eléri a Nemzetközi Távközlési Egyesület érvényes ajánlásaiban meghatározott minimális értéket,
+  - b) más műsorterjesztő átviteli rendszerrel végzett, előfizetői díj fizetése nélkül hozzáférhető médiaszolgáltatás esetében az átviteli rendszerhez csatlakoztatott háztartások száma és a Központi Statisztikai Hivatal által meghatározott, egy háztartásban átlagosan élők számának szorzata, vagy
+  - c) előfizetői díj fizetése ellenében hozzáférhető médiaszolgáltatások esetében az adott médiaszolgáltatásra előfizetett vagy az adott médiaszolgáltatást tartalmazó műsorterjesztési szolgáltatásra előfizetett háztartások száma és a Központi Statisztikai Hivatal által meghatározott, egy háztartásban átlagosan élők számának szorzata. 43. Televíziós médiaszolgáltató és televízió médiaszolgáltató: az Mttv. szerinti lineáris audiovizuális médiaszolgáltatást nyújtó médiaszolgáltató; 44. Televíziós médiaszolgáltatás és televízió médiaszolgáltatás: az Mttv. szerinti lineáris audiovizuális médiaszolgáltatás.
 
 (2) Az (1) bekezdésben nem szereplő fogalmakat az Eht. 188. §-ának megfelelően kell értelmezni.
 
@@ -101,9 +69,9 @@ Az Országgyűlés a Digitális Átállás Stratégia végrehajtása, az inform�
 
 (2) A műsorterjesztési szolgáltatás, mint elektronikus hírközlési szolgáltatás nyújtásának megkezdésére irányuló szándékot, valamint a megkezdés tervezett időpontját a műsorterjesztőnek nyilvántartásba vétel céljából az Eht.-ban meghatározottak szerint be kell jelentenie a Hatósághoz. A műsorterjesztő olyan műsorokat terjeszthet, amelyek terjesztésére megfelelő szerződésen vagy jogszabályon alapuló jogosultsággal rendelkezik.
 
-(3) A bejelentésben az Eht.-ban meghatározottakon túl meg kell jelölni, hogy a műsorterjesztő mely műsorszolgáltató mely műsorát, valamint mely kiegészítő szolgáltatás nyújtó milyen szolgáltatását terjeszti.
+(3) A bejelentésben az Eht.-ban meghatározottakon túl meg kell jelölni, hogy a műsorterjesztő mely médiaszolgáltató mely műsorát, valamint mely kiegészítő szolgáltatás nyújtó milyen szolgáltatását terjeszti.
 
-(4) A Hatóságnak a bejelentésben meg kell adni azokat az adatokat, illetve be kell nyújtani azokat az okiratokat, amelyek igazolják, hogy a szerzői jogok és a szerzői jogokhoz kapcsolódó jogok védelméhez a szükséges intézkedéseket a műsorterjesztő megtette. A bejelentéshez csatolni kell a műsorszolgáltatóval kötött szerződés vagy az adott műsor terjesztésére vonatkozó jogosultság igazolását is.
+(4) A Hatóságnak a bejelentésben meg kell adni azokat az adatokat, illetve be kell nyújtani azokat az okiratokat, amelyek igazolják, hogy a szerzői jogok és a szerzői jogokhoz kapcsolódó jogok védelméhez a szükséges intézkedéseket a műsorterjesztő megtette. A bejelentéshez csatolni kell a médiaszolgáltatóval kötött szerződés vagy az adott műsor terjesztésére vonatkozó jogosultság igazolását is.
 
 (5) A műsorterjesztő a (3) és (4) bekezdés szerinti adatokban bekövetkezett változást a Hatóságnak három napon belül köteles bejelenteni.
 
@@ -111,7 +79,7 @@ Az Országgyűlés a Digitális Átállás Stratégia végrehajtása, az inform�
 
 ### Műsorterjesztéshez kapcsolódó egyes elektronikus hírközlési szolgáltatások
 
-7. § (1) Amennyiben az elektronikus hírközlési szolgáltató nem a Magyar Köztársaság területére irányuló műsorterjesztés érdekében valamely műsorszolgáltató műsorjelei átvitelét
+7. § (1) Amennyiben az elektronikus hírközlési szolgáltató nem a Magyar Köztársaság területére irányuló műsorterjesztés érdekében valamely médiaszolgáltató műsorjelei átvitelét
 
 - a) a Hatóság által kijelölt frekvencia, vagy
 - b) a Magyar Köztársaság Kormányának rendelkezési jogába tartozó általa bérelt műholdkapacitás, vagy
@@ -123,51 +91,43 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 ### A digitális műsorszóró hálózaton és műsorszóró adón nyújtott szolgáltatások
 
-8. § (1) Digitális műsorszóró hálózat, illetve műsorszóró adó üzemeltetésére vonatkozó jogosultság e törvényben meghatározott pályázati eljárás alapján nyerhető el.
+8. § (1) Digitális műsorszóró hálózat, illetve műsorszóró adó üzemeltetésére vonatkozó jogosultság – amennyiben e törvény eltérően nem rendelkezik – e törvényben meghatározott pályázati eljárás alapján nyerhető el.
 
 (2) A digitális műsorszóró hálózat, illetve műsorszóró adó e törvényben foglaltak szerinti eljárásban megszerzett üzemeltetésére vonatkozó jogosultság magában foglalja:
 
 - a) a pályázati felhívás szerinti műszaki paraméterekkel rendelkező digitális műsorszóró hálózat, illetve műsorszóró adó kiépítését az Eht. szerinti engedélyezést követően,
 - b) az a) pont szerinti hálózathoz, illetve műsorszóró adóhoz rendelt rádiófrekvenciák e törvény szerinti frekvenciahasználati jogosultságát,
-- c) az a) pont szerinti hálózaton műsorterjesztési szolgáltatás, kiegészítő digitális szolgáltatás és más elektronikus hírközlési szolgáltatás nyújtását közvetlenül az előfizetők vagy felhasználók részére (ingyenesen vagy előfizetői díj ellenében), illetve más műsorterjesztők vagy elektronikus hírközlési szolgáltatók és a műsorszolgáltatók valamint a kiegészítő digitális szolgáltatást nyújtók részére.
+- c) az a) pont szerinti hálózaton műsorterjesztési szolgáltatás, kiegészítő médiaszolgáltatás és más elektronikus hírközlési szolgáltatás nyújtását közvetlenül az előfizetők vagy felhasználók részére (ingyenesen vagy előfizetői díj ellenében), illetve más műsorterjesztők vagy elektronikus hírközlési szolgáltatók és a médiaszolgáltatók, valamint a kiegészítő médiaszolgáltatást nyújtók részére.
 
-(3) A digitális műsorszóró hálózat, illetve műsorszóró adó üzemeltetője a műsorterjesztési szolgáltatás, kiegészítő digitális szolgáltatás, illetve más elektronikus hírközlési szolgáltatás megkezdését, amennyiben maga végzi, az Eht. vonatkozó szabályainak megfelelően köteles bejelenteni.
+(3) A digitális műsorszóró hálózat, illetve műsorszóró adó üzemeltetője a műsorterjesztési szolgáltatás, kiegészítő médiaszolgáltatás, illetve más elektronikus hírközlési szolgáltatás megkezdését, amennyiben maga végzi, az Eht. vonatkozó szabályainak megfelelően köteles bejelenteni.
 
-(4) Az Rttv. 1/A. §-ának (1)–(4) bekezdéseiben meghatározott feltételek alapján magyar joghatóság alá tartozó, digitális műsorszóró hálózaton, illetve műsorszóró adón nyújtott műsorszolgáltatás az Rttv. 113. §-a szerinti nyilvántartásba vétel alapján kezdhető meg. Nincs szükség újabb nyilvántartásba vételre a hatályos műsorszolgáltatási szerződés alapján szolgáltatott műsorok, illetve a kizárólag műsorelosztó rendszer segítségével végzett műsorszolgáltatás digitális műsorszóró hálózaton történő egyidejű terjesztéséhez.
+(4) az Mttv. 1. §-ában meghatározott feltételek alapján magyar joghatóság alá tartozó, digitális műsorszóró hálózaton, illetve műsorszóró adón nyújtott médiaszolgáltatás az Mttv. 42. §-a szerinti nyilvántartásba vétel alapján kezdhető meg. Nincs szükség újabb nyilvántartásba vételre a hatályos műsorszolgáltatási szerződés alapján szolgáltatott műsorok, illetve a kizárólag műsorelosztó rendszer segítségével végzett médiaszolgáltatás digitális műsorszóró hálózaton történő egyidejű terjesztéséhez.
 
 (5) A digitális műsorszóró hálózat üzemeltetőjét e törvényben, illetve az (1) bekezdés szerinti pályázat során meghatározott továbbítási, illetve szerződéskötési kötelezettség terheli. A digitális műsorszóró adó üzemeltetőjét az (1) bekezdés szerinti pályázat során meghatározott továbbítási kötelezettség terheli.
 
-(6) A digitális műsorszóró hálózat, illetve műsorszóró adó üzemeltetője kizárólag a rendelkezésre álló adatátviteli kapacitás műsorterjesztésre le nem kötött hányadát jogosult – ebben a sorrendben – kiegészítő digitális szolgáltatás, és/vagy elektronikus hírközlési szolgáltatás céljára használni, illetve más számára ilyen szolgáltatás nyújtása céljából a fennmaradó szabad kapacitás használatára átengedni.
+(6) A digitális műsorszóró hálózat, illetve műsorszóró adó üzemeltetője kizárólag a rendelkezésre álló adatátviteli kapacitás műsorterjesztésre le nem kötött hányadát jogosult – ebben a sorrendben – kiegészítő médiaszolgáltatás, és/vagy elektronikus hírközlési szolgáltatás céljára használni, illetve más számára ilyen szolgáltatás nyújtása céljából a fennmaradó szabad kapacitás használatára átengedni.
 
-(7) Digitális műsorszóró hálózaton, illetve műsorszóró adón kiegészítő digitális szolgáltatás, és/vagy elektronikus hírközlési szolgáltatás céljaira a (6) bekezdés szerinti szabad kapacitás az átviteli hálózatban rendelkezésre álló adatátviteli kapacitás 15%-áig használható fel. Törvény ennél alacsonyabb mértéket is megállapíthat.
+(7) Digitális műsorszóró hálózaton, illetve műsorszóró adón kiegészítő médiaszolgáltatás, és/vagy elektronikus hírközlési szolgáltatás céljaira a (6) bekezdés szerinti szabad kapacitás az átviteli hálózatban rendelkezésre álló adatátviteli kapacitás 15%-áig használható fel. Törvény ennél alacsonyabb mértéket is megállapíthat.
 
-### Kiegészítő digitális szolgáltatások
+### Kiegészítő médiaszolgáltatások
 
-9. § (1) Amennyiben a kiegészítő digitális szolgáltatás szerkesztett szöveges, vagy televíziós műsorszolgáltatásnak nem minősülő képi tartalmak közzétételét, vagy a nyilvánosság számára elérhetővé tételét is magában foglalja, és a műsorterjesztés során a műsor jelekkel együtt vagy kiegészítő műszaki megoldással, nem kizárólag egyedi lekérdezés alapján továbbított jelekkel működik, a kiegészítő digitális szolgáltató nyilvántartásba vétel céljából a szolgáltatás megkezdése előtt köteles bejelenteni szolgáltatását a Hatóságnak. A bejelentésben meg kell jelölni a szolgáltatás megkezdésének tervezett időpontját és annak a büntetlen előéletű személynek a nevét és lakcímét, aki a sajtó- és más törvény szerinti felelősséget viseli a tevékenységért.
+9. § (1)–(2)
 
-(2) A Hatóság a kiegészítő digitális szolgáltatót az Eht. 76. §-ának megfelelő alkalmazásával nyilvántartásba veszi.
+(3) A kiegészítő médiaszolgáltatást nyújtó e törvény 30–34. §-ai alapján hozzáférési jogosultsággal rendelkezik.
 
-(3) Az (1) bekezdés szerinti kiegészítő digitális szolgáltatást nyújtó e törvény 30–34. §-ai alapján hozzáférési jogosultsággal rendelkezik.
+(4) A hozzáférési jogosultsággal rendelkező kiegészítő médiaszolgáltatást nyújtót a Hatóság az Eht. 151–152. §-ai szerint adatok szolgáltatására kötelezheti.
 
-(4) A hozzáférési jogosultsággal rendelkező kiegészítő digitális szolgáltatást nyújtót a Hatóság az Eht. 151–152. §-ai szerint adatok szolgáltatására kötelezheti.
+10. §
 
-10. § (1) A 9. § szerinti kiegészítő digitális szolgáltatás tartalmára az Rttv. 3–5/F. §-a és 89. §-a megfelelően alkalmazandó. A kiegészítő digitális szolgáltatások tartalmára vonatkozó további szabályokat külön törvény határozza meg.
+### Médiaszolgáltatás
 
-(2) A 9. § szerinti kiegészítő digitális szolgáltatás e törvény szerinti jogszerűségét a Hatóság piacfelügyeleti eljárás keretében ellenőrzi. Az eljárásban az (1) bekezdésben meghatározott követelményekkel kapcsolatosan a Hatóság Médiatanácsa (a továbbiakban: Médiatanács) szakhatóságként jár el. A Hatóság jogsértés megállapítása esetében az Eht. 67–68. §-ai szerinti piacfelügyeleti eljárás jogkövetkezményeit alkalmazza.
+11. § (1) A médiaszolgáltatót e törvény hatálya alá tartozó tevékenysége tekintetében e törvény 30–34. §-aiban foglalt hozzáférési jogosultságok illetik meg.
 
-(3) A Hatóságra vonatkozó szabályokat az Eht. tartalmazza.
-
-(4) A Médiatanácsra vonatkozó szabályokat az Rttv. tartalmazza.
-
-### Műsorszolgáltatás
-
-11. § (1) A műsorszolgáltatót e törvény hatálya alá tartozó tevékenysége tekintetében e törvény 30–34. §-aiban foglalt hozzáférési jogosultságok illetik meg.
-
-(2) A műsorszolgáltatást nyújtók vonatkozásában a Hatóság az Eht. 151–152. §-ai szerint adatszolgáltatási kötelezettség előírására jogosult.
+(2) A médiaszolgáltatást nyújtók vonatkozásában a Hatóság az Eht. 151–152. §-ai szerint adatszolgáltatási kötelezettség előírására jogosult.
 
 ### Nyilvántartások átadása, vezetése
 
-12. § (1) A Hatóság Hivatala (a továbbiakban: Hivatal) vezeti a műsorterjesztőkről, a kiegészítő digitális szolgáltatást nyújtókról vezetett nyilvántartást.
+12. § (1) A Hatóság Hivatala (a továbbiakban: Hivatal) vezeti a műsorterjesztőkről, a kiegészítő médiaszolgáltatást nyújtókról vezetett nyilvántartást.
 
 (2) A Hivatalra vonatkozó szabályokat az Eht. tartalmazza.
 
@@ -178,7 +138,7 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 13. § (1) A Hatóság a nemzetközi kötelezettségvállalásokkal összhangban a rugalmas frekvenciagazdálkodás eszközeivel lehetővé teszi
 
 - a) a műsorszórásra felosztott frekvenciákon a vonatkozó szabványok szerinti digitális műsorszórás bevezetését,
-- b) a műsorszórásra felosztott frekvenciákon kiegészítő digitális szolgáltatások nyújtását,
+- b) a műsorszórásra felosztott frekvenciákon kiegészítő médiaszolgáltatások nyújtását,
 - c) a műsorszóró frekvenciákon üzemelő egyéb, többek között védelmi célokat szolgáló rendszerek és eszközök kivonásig történő alkalmazását.
 
 (2) A Hatóság a rugalmas frekvenciagazdálkodás eszközeivel a nemzetközi kötelezettségvállalásokkal összhangban arra törekszik, hogy az analóg frekvenciahasználat kiváltásra kerüljön a hatékony frekvenciagazdálkodást lehetővé tevő digitális műsorszórási technológiákkal. Ennek keretében a digitális átállás folyamata alatt a Hatóság jogosult
@@ -191,9 +151,9 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 14. § (1) A digitális rádió- vagy televízió-műsorszóró hálózat, illetve műsorszóró adó üzemeltetője a pályázatban szereplő műszaki és ellátottsági jellemzőket biztosító műsorszóró hálózat működéséhez szükséges frekvencia tartományt alkotó frekvenciák használatára szerez jogosultságot. A digitális rádió- vagy televízió-műsorszóró hálózat üzemeltetője a pályázatban szereplő egyedi frekvenciák frekvenciahasználati jogosultságát nem szerzi meg.
 
-(2) A földfelszíni analóg műsorszórás útján megvalósuló televíziós műsort szolgáltató műsorszolgáltató a műsorszóró frekvenciasáv – nem egyedi frekvenciák – használatára szerez frekvenciahasználati jogosultságot.
+(2) A földfelszíni analóg műsorszórás útján megvalósuló televíziós műsort szolgáltató médiaszolgáltató a műsorszóró frekvenciasáv – nem egyedi frekvenciák – használatára szerez frekvenciahasználati jogosultságot.
 
-(3) A földfelszíni analóg műsorszórás útján megvalósuló rádióműsort szolgáltató műsorszolgáltató a pályázatban megjelölt frekvenciára szerez frekvenciahasználati jogosultságot.
+(3) A földfelszíni analóg műsorszórás útján megvalósuló rádióműsort szolgáltató médiaszolgáltató a pályázatban megjelölt frekvenciára szerez frekvenciahasználati jogosultságot.
 
 (4) A Hatóság az (1)–(3) bekezdés szerint megszerzett jogosultság alapján, a jogosult, vagy a vele szerződött műsorterjesztő kérelmére elindítja a frekvenciakijelölési és rádióengedélyezési eljárásokat.
 
@@ -201,7 +161,7 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 ### Műsorszórásra felosztott frekvenciák kijelölése
 
-15. § (1) A Hatóság a műsorszóró adó műsorszórásra felosztott frekvenciáját a frekvenciára vonatkozó frekvenciahasználati jogosultsággal rendelkező és a műsorterjesztést maga végző műsorszolgáltató, vagy más esetben a jogosulttal szerződött műsorterjesztő számára a benyújtott besugárzási tervek alapján jelöli ki.
+15. § (1) A Hatóság a műsorszóró adó műsorszórásra felosztott frekvenciáját a frekvenciára vonatkozó frekvenciahasználati jogosultsággal rendelkező és a műsorterjesztést maga végző médiaszolgáltató, vagy más esetben a jogosulttal szerződött műsorterjesztő számára a benyújtott besugárzási tervek alapján jelöli ki.
 
 (2) A frekvenciakijelölési eljárást a Hatóság az Eht. és e törvény szerint folytatja le.
 
@@ -210,7 +170,7 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 - a) a frekvenciadíjat,
 - b) a műsorszóró adó telepítésének és üzemeltetésének műszaki feltételeit és előírásait,
 - c) amennyiben a műsorszóró adó digitális rádió- vagy televízió-műsorszóró hálózathoz, vagy digitális műsorszóró adóhoz tartozik, a hálózat, illetve a jogosultság megjelölését, illetve utalást arra, hogy a kijelölt frekvencia a hálózatba, vagy a digitális műsorszóró adóhoz illeszkedő – a digitális műsorszóró hálózat, vagy műsorszóró adó üzemeltetési jogosultságára irányuló pályázatban megjelölt – műszaki és ellátási jellemzőket biztosító másik frekvenciára cserélhető,
-- d) amennyiben a műsorszóró adó földfelszíni analóg műsorszórás útján megvalósuló televíziós műsorszolgáltatáshoz kapcsolódik, a műsorszóró frekvenciasáv megjelölését, illetve utalást arra, hogy a kijelölt frekvencia a műsorszóró frekvenciasávba tartozó, a pályázatban megjelölt műszaki és ellátási jellemzőket és a vételkörzetet biztosító másik frekvenciára cserélhető a Hatóság által, valamint
+- d) amennyiben a műsorszóró adó földfelszíni analóg műsorszórás útján megvalósuló televíziós médiaszolgáltatáshoz kapcsolódik, a műsorszóró frekvenciasáv megjelölését, illetve utalást arra, hogy a kijelölt frekvencia a műsorszóró frekvenciasávba tartozó, a pályázatban megjelölt műszaki és ellátási jellemzőket és a vételkörzetet biztosító másik frekvenciára cserélhető a Hatóság által, valamint
 - e) a digitális rádió- vagy televízió-műsorszóró hálózat, digitális műsorszóró adó, a műsorszóró frekvenciasáv, illetve a frekvencia frekvenciahasználatára vonatkozó jogosultságot megadó döntés vagy hatósági szerződés számát, a döntés vagy hatósági szerződés meghozatalának időpontját,
 - g) a digitális rádió- vagy televízió-műsorszóró hálózat, digitális műsorszóró adó, a műsorszóró frekvenciasáv, illetve a földfelszíni analóg rádióműsor műsorszórására felosztott frekvencia frekvenciahasználati jogosultságához kapcsolódó meghatározott feltételrendszert,
 - f) a külön jogszabályban meghatározottakat.
@@ -231,23 +191,23 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 ### Üzemeltetési feltételek
 
-17. § (1) A műsorszolgáltató és a műsorterjesztő a digitális műsorszórás követelményeinek teljesítése során köteles együttműködni.
+17. § (1) A médiaszolgáltató és a műsorterjesztő a digitális műsorszórás követelményeinek teljesítése során köteles együttműködni.
 
-(2) A műsorterjesztő – ideértve a saját műsorterjesztést végző műsorszolgáltatót is – köteles a műsorszolgáltatók által a műsorterjesztésre átadott műsorszolgáltató és a műsor azonosító jeleket, a műsorszám kiskorúak védelme érdekében az Rttv.-ben meghatározott kategóriájának megfelelő azonosító jeleket, a digitális televíziókészülék, kép- és hangrögzítő berendezések, vagy más elektronikus hírközlő berendezések vezérlésére szolgáló jeleket folyamatosan sugározni. Az azonosító információnak vagy jelnek műsorok szerint megkülönböztethetőnek kell lennie.
+(2) A műsorterjesztő – ideértve a saját műsorterjesztést végző médiaszolgáltatót is – köteles a médiaszolgáltatók által a műsorterjesztésre átadott médiaszolgáltató és a műsor azonosító jeleket, a műsorszám kiskorúak védelme érdekében az Mttv.-ben meghatározott kategóriájának megfelelő azonosító jeleket, a digitális televíziókészülék, kép- és hangrögzítő berendezések, vagy más elektronikus hírközlő berendezések vezérlésére szolgáló jeleket folyamatosan sugározni. Az azonosító információnak vagy jelnek műsorok szerint megkülönböztethetőnek kell lennie.
 
-(3) A műsorterjesztő – ideértve a saját műsorterjesztést végző műsorszolgáltatót is – műsorszóró adója mérőjelet, mérőábrát, állóképet, monoszkópot a műsor megkezdése előtt és befejezése után legfeljebb tíz percig, műsor közben legfeljebb két percig sugározhat. Üzemzavar esetén e korlátozás nem alkalmazható.
+(3) A műsorterjesztő – ideértve a saját műsorterjesztést végző médiaszolgáltatót is – műsorszóró adója mérőjelet, mérőábrát, állóképet, monoszkópot a műsor megkezdése előtt és befejezése után legfeljebb tíz percig, műsor közben legfeljebb két percig sugározhat. Üzemzavar esetén e korlátozás nem alkalmazható.
 
 ### Frekvenciacsere és a rádióengedély visszavonása
 
-18. § (1) Ha az analóg rádióműsor műsorszórása a vonatkozó műsorszolgáltatási jogosultság érvényességi idejének lejárta előtt azért nem folytatható, mert a rádióengedélyt e törvény 13. §-a alapján a műsorszolgáltatónak fel nem róható okból a Hatóság visszavonja, a Médiatanács a műsorszolgáltatónak pályázati kiírás nélkül hasonló feltételekkel a frekvenciasáv, illetve a frekvencia tekintetében más műsorszolgáltatási jogosultságot kínál fel.
+18. § (1) Ha az analóg rádióműsor műsorszórása a vonatkozó műsorszolgáltatási jogosultság érvényességi idejének lejárta előtt azért nem folytatható, mert a rádióengedélyt e törvény 13. §-a alapján a médiaszolgáltatónak fel nem róható okból a Hatóság visszavonja, a Médiatanács a médiaszolgáltatónak pályázati kiírás nélkül hasonló feltételekkel a frekvenciasáv, illetve a frekvencia tekintetében más műsorszolgáltatási jogosultságot kínál fel.
 
-(2) A Médiatanács a műsorszolgáltatási szerződés módosítását nem teheti a frekvenciacserével össze nem függő feltételek elfogadásától függővé. A módosítás a műsorszolgáltatási jogosultság időtartamát nem érinti. A módosítás során a szerződésben rendelkezni kell a műsorszolgáltató frekvenciacserével kapcsolatos igazolt költségeiről.
+(2) A Médiatanács a műsorszolgáltatási szerződés módosítását nem teheti a frekvenciacserével össze nem függő feltételek elfogadásától függővé. A módosítás a műsorszolgáltatási jogosultság időtartamát nem érinti. A módosítás során a szerződésben rendelkezni kell a médiaszolgáltató frekvenciacserével kapcsolatos igazolt költségeiről.
 
 (3) A rádióengedély visszavonásáról a Médiatanácsot a Hivatal haladéktalanul értesíti.
 
 (4) A rádióengedély visszavonásáról szóló határozatban a teljesítés határnapját vagy határidejét úgy kell megállapítani, hogy megfelelő idő álljon rendelkezésre a műsorszolgáltatási szerződés módosítására.
 
-19. § (1) Ha a digitális rádió- vagy televízió-műsorszóró hálózat, digitális műsorszóró adó vagy a műsorszóró frekvenciasáv használatát biztosító frekvenciahasználati jogosultság (frekvenciahasználati jogosultság) alapján kiadott rádióengedélyt e törvény 13. §-a alapján a műsorszolgáltatónak fel nem róható okból a Hatóság visszavonja, a Hatóság a frekvenciahasználati jogosultság feltételeit teljesítő más frekvenciát jelöl ki, és erre rádióengedélyt ad ki, illetve szükség esetén megfelelően módosítja a rádióengedélyeket.
+19. § (1) Ha a digitális rádió- vagy televízió-műsorszóró hálózat, digitális műsorszóró adó vagy a műsorszóró frekvenciasáv használatát biztosító frekvenciahasználati jogosultság (frekvenciahasználati jogosultság) alapján kiadott rádióengedélyt e törvény 13. §-a alapján a médiaszolgáltatónak fel nem róható okból a Hatóság visszavonja, a Hatóság a frekvenciahasználati jogosultság feltételeit teljesítő más frekvenciát jelöl ki, és erre rádióengedélyt ad ki, illetve szükség esetén megfelelően módosítja a rádióengedélyeket.
 
 (2) Az (1) bekezdés szerint új kiadott frekvencia akkor teljesíti a frekvenciahasználati jogosultság feltételeit, ha a jogosultság megszerzésének időpontjához képest a jogosultsághoz tartozó vételkörzet az ellátott lakosság számát tekintve a természetes népességfogyás kivételével nem csökken, a műsorok vételi módja nem lesz hátrányosabb, illetve amennyiben a jogosultság piaci értéke meghatározásra került a frekvenciahasználatra vonatkozó döntésben, vagy hatósági szerződésben, a piaci érték nem csökken.
 
@@ -255,17 +215,17 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 (4) A Hatóság a rádióengedély visszavonásáról, az új frekvenciahasználati jog, illetve rádióengedély kiadásáról a műsorterjesztőt és a frekvenciahasználati jogosultsággal rendelkezőt tájékoztatja. A Médiatanácsot a Hivatal haladéktalanul tájékoztatja.
 
-(5) Analóg műsorszórásra felosztott frekvencia a műsorszóró frekvenciasáv frekvenciahasználati jogosultságával rendelkező műsorszolgáltató beleegyezésével cserélhető digitális műsorszórásra felosztott frekvenciára, ha a vételkörzetben a lakosság számára az analóg vételhez szükséges készülékekhez hasonló arányban rendelkezésre áll a digitális műsorszórási szolgáltatás vételére alkalmas készülék.
+(5) Analóg műsorszórásra felosztott frekvencia a műsorszóró frekvenciasáv frekvenciahasználati jogosultságával rendelkező médiaszolgáltató beleegyezésével cserélhető digitális műsorszórásra felosztott frekvenciára, ha a vételkörzetben a lakosság számára az analóg vételhez szükséges készülékekhez hasonló arányban rendelkezésre áll a digitális műsorszórási szolgáltatás vételére alkalmas készülék.
 
 (6) A rádióengedély visszavonásáról szóló határozat az új rádióengedély közlésével lép hatályba.
 
-(7) A műsorszóró frekvenciasáv frekvenciahasználati jogosultságával rendelkező televízió műsorszolgáltató a frekvenciacserével kapcsolatos igazolt költségeivel a frekvenciadíjat csökkenteni kell. A díjcsökkentést a műsorszolgáltatóval szerződött műsorterjesztő köteles a műsorszolgáltató felé érvényesíteni. Amennyiben a díjcsökkentés nem fedezi az igazolt költségeket, a központi költségvetés a különbözetet megtéríti.
+(7) A műsorszóró frekvenciasáv frekvenciahasználati jogosultságával rendelkező televízió médiaszolgáltató a frekvenciacserével kapcsolatos igazolt költségeivel a frekvenciadíjat csökkenteni kell. A díjcsökkentést a médiaszolgáltatóval szerződött műsorterjesztő köteles a médiaszolgáltató felé érvényesíteni. Amennyiben a díjcsökkentés nem fedezi az igazolt költségeket, a központi költségvetés a különbözetet megtéríti.
 
 ### Analóg és digitális műsorszórásra felosztott frekvenciák díja
 
-20. § (1) A műsorszórásra felosztott frekvenciák használatának díjait annak figyelembevételével kell meghatározni, hogy az elősegítse a digitális műsorszolgáltatás minél szélesebb körű elterjedését és igénybevételét.
+20. § (1) A műsorszórásra felosztott frekvenciák használatának díjait annak figyelembevételével kell meghatározni, hogy az elősegítse a digitális médiaszolgáltatás minél szélesebb körű elterjedését és igénybevételét.
 
-(2) A műsorszórásra felosztott frekvenciák használatának díját a továbbított digitális műsorok, illetve a továbbított kiegészítő digitális szolgáltatások számára, és az ezek által igénybevett adatátviteli kapacitásra figyelemmel kell meghatározni.
+(2) A műsorszórásra felosztott frekvenciák használatának díját a továbbított digitális műsorok, illetve a továbbított kiegészítő médiaszolgáltatások számára, és az ezek által igénybevett adatátviteli kapacitásra figyelemmel kell meghatározni.
 
 (3) A földfelszíni digitális műsorszórás célját szolgáló frekvenciák után legfeljebb a digitális átállás 38. §-ban meghatározott céldátumáig a külön jogszabály alapján meghatározott kedvezményes használati díjat kell fizetni.
 
@@ -273,110 +233,15 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 ### Alkotmányos kötelezettségek
 
-21. § (1) Az Európai Gazdasági Térségről szóló megállapodásban, valamint az 1998. évi XLIX. törvénnyel kihirdetett, a határokat átlépő televíziózásról szóló, Strasbourgban, 1989. május 5-én kelt európai egyezményben, és kiegészítő Jegyzőkönyvében részes valamely állam joghatósága alá tartozó műsorszolgáltató műsorának tartalmáért a műsorterjesztő nem felelős, kivéve az Rttv.-ben meghatározott eseteket. A Médiatanács erre vonatkozó döntése alapján azonban köteles a műsor műsorterjesztését felfüggeszteni, illetve megszüntetni.
-
-(2) A műsorterjesztő nem terjeszthet (1) bekezdésbe nem tartozó olyan műsort, amely az Rttv. 3. és 4/A. §-aiban foglalt alapelveknek nem felel meg.
-
-(3) A műsorterjesztés e § szerinti jogszerűségét a Hatóság piacfelügyeleti eljárás keretében ellenőrzi. Az (1) és (2) bekezdésben meghatározott követelményekkel kapcsolatosan a Médiatanács jár el. A Hatóság megállapított jogsértés esetében az Eht. 67–68. §-ai szerinti piacfelügyeleti eljárás jogkövetkezményeit alkalmazza.
-
-(4) Az (1) és (2) bekezdés rendelkezései nem érintik az Rttv. 1/A. §-ának (1)–(4) bekezdései alapján magyar joghatóság alá tartozó műsorszolgáltatásokat, amelyekre az Rttv. műsorszolgáltatásra vonatkozó szabályait kell alkalmazni.
-
-22. § (1) A műsorterjesztők az általuk a továbbított műsorok között kizárólag gazdasági és műszaki jellemzők szerint tehetnek különbséget; a (2) bekezdésben foglaltak kivételével nem tehetnek különbséget a tartalmuk alapján.
-
-(2) A műsorterjesztők külön törvényben meghatározottak szerint kötelesek a nemzeti kultúra műsorterjesztésen keresztüli megőrzésére, védelmére és támogatására.
-
-(3) A műsorterjesztő és a műsorszolgáltató között létrejött szerződés nem tartalmazhat olyan kikötést, illetve a felek nem tanúsíthatnak olyan magatartást, amely
-
-- a) kizárja azt, hogy a műsorterjesztő valamely műsorszolgáltatóval szerződést kössön,
-- b) a műsorszolgáltatóval szemben hátrányos következmények alkalmazását teszi lehetővé más műsorterjesztő átviteli rendszeren való megjelenés esetén.
-
-(4) Az analóg földfelszíni műsorszórás kivételével az azonos műsorszolgáltatóval vagy műsorterjesztővel irányítási viszonyban álló műsorszolgáltatások száma nem haladhatja meg az adott átviteli rendszeren terjesztett televízió műsorszolgáltatások huszonöt százalékát, rádió műsorszolgáltatások ötven százalékát.
-
-23. § A műsorszórásra felosztott frekvenciák használati jogosultságára vonatkozó pályázatokon a közszolgálati és nem nyereségérdekelt műsorszolgáltató vállalkozások, társadalmi szervezetek az Rttv. 101. § (3) bekezdésének megfelelő alkalmazásával előnyt élveznek.
+21–23. §
 
 ### Továbbítási kötelezettség
 
-24. § (1) A nemzeti, etnikai kisebbségi és az európai kultúra megőrzése, védelme, illetve továbbfejlesztése, a nemzeti, illetve etnikai kisebbségi nyelv ápolása, az állampolgárok tájékozódási szükségleteinek kielégítése, a demokratikus közéletben való részvételük elősegítése, és a vélemények sokszínűségének megőrzése érdekében – az analóg műsorszórás kivételével – a műsorterjesztőt a 25. § szerinti kötelezettségek, a médiapolitikai szempontból meghatározó jelentőségű műsorterjesztőt a 25. § és a 26. § szerinti kötelezettségek terhelik (továbbítási kötelezettség).
-
-(2) Médiapolitikai szempontból meghatározó jelentőségűnek minősül a műsorterjesztő (a továbbiakban: meghatározó műsorterjesztő), ha
-
-- a) előfizetőinek száma meghaladja a százezer főt, vagy
-- b) ingyenesen hozzáférhető műsorterjesztés esetén vételkörzete a Magyar Köztársaság lakosságának több mint egyharmadára kiterjed és a műsorterjesztő vagy azzal irányítási viszonyban álló szolgáltató vagy vállalkozás a Magyar Köztársaság területén végzett műsorterjesztésből vagy az ahhoz kapcsolódó szolgáltatásból származó árbevétele – az analóg műsorszórás kivételével – meghaladja az évi 1000 millió forintot.
-
-(3) Kétség esetén a meghatározó műsorterjesztő köteles bizonyítani, hogy esetében a (2) bekezdés szerinti feltételek nem állnak fenn.
-
-25. § (1) A közszolgálati műsorszolgáltatók az Rttv. 132. §-ában meghatározott műsorait a műsorterjesztő alapszolgáltatásként köteles továbbítani és e műsorszolgáltatásokhoz való hozzáférésért többletdíjat az előfizetőtől nem lehet kérni.
-
-(2) A közszolgálati műsorszolgáltatók az Rttv. 132. §-ában meghatározott, műsorszórással terjesztett műsorait ingyenesen kell a felhasználók számára hozzáférhetővé tenni.
-
-(3) Az (1) és (2) bekezdésben foglaltak nem érintik az Rttv. 79–84. §-ában foglalt üzembentartási díjat.
-
-(4) A műsorszórással megvalósított műsorterjesztés kivételével a műsorterjesztési szolgáltatás valamennyi közszolgálati műsorszolgáltató számára díjmentes és a közszolgálati műsorszolgáltató sem követelhet műsorai terjesztéséért a műsorterjesztőtől ellenszolgáltatást.
-
-(5) A műsorterjesztőt – teljes kapacitásának legalább tíz százalékáig, de legfeljebb három műsorszolgáltatóig – a helyi műsorszolgáltatók szerződéses ajánlatára – különös tekintettel a helyi közműsor-szolgáltatóra vagy helyi nem nyereségérdekelt műsorszolgáltatóra – szerződéskötési kötelezettség terheli. Ha a szerződéses ajánlatok között helyi nem nyereségérdekelt műsorszolgáltatóé vagy műsorszolgáltatóké is megtalálható, úgy a műsorterjesztőt legalább egy helyi nem nyereségérdekelt műsorszolgáltatóra vonatkozóan szerződéskötési kötelezettség terheli.
-
-(6) A műsorterjesztőt – kapacitása további tíz százalékáig, de legfeljebb három műsorszolgáltató összesen három műsoráig – a magyarországi körzeti vagy országos műsorszolgáltató szerződéses ajánlatára szerződéskötési kötelezettség terheli.
-
-(7) Amennyiben az (5) és (6) bekezdés szerinti műsorterjesztő átviteli rendszere több, egymástól műszakilag elkülöníthető, külön helyi, illetve körzeti szolgáltatási területet kiszolgáló részekből áll, amelyek révén a műsorterjesztő az egyes szolgáltatási területeken eltérő szolgáltatást nyújt, vagy nyújthat, az (5) és (6) bekezdés szerinti kötelezettségek szolgáltatási területenként értelemszerűen külön-külön terhelik.
-
-(8) Az (5) és (6) bekezdés alkalmazásában az a nyilvántartásba vett vállalkozás tekintendő műsorszolgáltatónak, amely
-
-- a) a műsorterjesztőtől műsorszolgáltatás terjesztését igényli, és
-- b) székhelye a körzeti, helyi műsorterjesztő vételkörzetében, illetve a (7) bekezdés szerinti elkülönült szolgáltatási területen található, és műsorát célzottan a körzeti, helyi műsorterjesztő vételkörzetében élő előfizetők számára nyújtja, és
-- c) napi műsorideje – televíziós vásárlás és napon belüli ismétlések nélkül – a négy órát eléri.
-
-(9) Az (5)–(8) bekezdés alkalmazásában a műsorterjesztő információs csatornája nem vehető figyelembe.
-
-26. § (1) A meghatározó műsorterjesztő
-
-- a) a nemzeti, etnikai kisebbségi, illetve európai kultúra megőrzését, védelmét, illetve továbbfejlesztését, vagy
-- b) a nemzeti, etnikai kisebbségi nyelv ápolását, vagy
-- c) az állampolgárok tájékozódási és tájékoztatási szükségleteinek kielégítését, vagy
-- d) az állampolgárok demokratikus közéletben való részvétele elősegítését, vagy
-- e) a vélemények sokszínűségének megőrzését, vagy
-- f) a média pluralizmust
-
-szolgáló műsorszolgáltató gazdaságilag és műszakilag indokolt szerződéses ajánlata esetén negyven televíziós műsorig köteles szerződést kötni a műsorszolgáltatóval és továbbítani a műsorszolgáltató műsorát az előfizetők felé.
-
-(2) A meghatározó műsorterjesztő az (1) bekezdésben foglaltakat szolgáló műsorszolgáltatókkal kapcsolatos szerződéses feltételeit az ésszerűség követelményének megfelelően úgy köteles kialakítani, hogy a műsorterjesztési szolgáltatás szempontjából azok indokoltak, átláthatóak és ellenőrizhetőek legyenek. Ezzel ellentétes feltétel nem alkalmazható.
-
-(3) A (2) bekezdésben foglaltakat a következő szerződéses feltételekre kell alkalmazni:
-
-- a) a meghatározó műsorterjesztő csomagképzésének alapelvei, a különböző előfizetői csomagokba való bekerülés műsortípusra vonatkozó vagy egyéb feltételei;
-- b) a műsorszolgáltatóknak fizetett műsordíjjal kapcsolatos szerződéses feltételek, a műsorterjesztő díjfizetési politikájának alapelvei, díjazási időszakai, a díjfizetés módja és ideje (amennyiben alkalmazható);
-- c) a szolgáltató által a műsor átviteléért alkalmazott díj, műsordíj kedvezmény, vagy egyéb díj programcsomagonként vagy műsoronként;
-- d) a műsorterjesztési szerződés megkötésére vonatkozó eljárás, a műsorterjesztési szolgáltatás igénybevételének módja és feltételei, esetleges műszaki, gazdasági vagy egyéb korlátai;
-- e) a műsorterjesztési szolgáltatás alapját képező műszaki infrastruktúra leírása és a szolgáltatás minőségi célértékei;
-- f) a műsorterjesztési szolgáltatást igénybevevő műsorszolgáltató azon paraméterei és adatai, amelyek a műsorterjesztési szerződés megkötésének feltételét képezik;
-- g) a műsorterjesztési szerződés módosításának, megszűnésének esetei és feltételei;
-- h) a műsorterjesztési szolgáltatás szünetelésének esetei;
-- i) szerződésszegés és annak jogkövetkezményei.
-
-(4) A meghatározó műsorterjesztő a (2) bekezdésben meghatározott műsorszolgáltatókra vonatkozó (3) bekezdés szerinti szerződéses feltételeit köteles a honlapján hozzáférhetővé tenni. A meghatározó műsorterjesztő a szerződéses feltételek módosítása esetén legalább az új szerződési feltételek hatálybalépése előtt harminc nappal köteles az új szerződési feltételeket hozzáférhetővé tenni.
-
-(5) Az ajánlat objektív műszaki okok miatt akkor utasítható vissza, ha az ajánlatban megjelölt szolgáltatási igény veszélyezteti a működés biztonságát, illetve a hálózat egységét.
-
-(6) Az ajánlat objektív gazdasági okok miatt akkor utasítható vissza, ha az ajánlatban megjelölt díjak olyan mértékben eltérnek a költségektől (beleértve a szokásos hasznot is), hogy a megállapodás nem lehetséges.
-
-(7) Kétség esetén a műsorterjesztő köteles bizonyítani, hogy a műsor továbbítása gazdaságilag vagy műszakilag nem indokolt.
-
-27. § (1) Amennyiben a 25. és a 26. § szerinti szerződés az ajánlattételtől számított harminc napon belül nem jön létre, a műsorszolgáltató az Eht. 49. §-a szerint jogosult jogvitás eljárást kezdeményezni.
-
-(2) Amennyiben a jogvitás eljárásban a műsorszolgáltatás helyi vagy körzeti jellege, illetve a 26. § (1) bekezdése szerinti szerepe vitatott, e kérdésben a Hatóság jár el.
-
-28. § (1) Az e fejezetben foglalt kötelezettségek betartását a Hatóság piacfelügyeleti eljárás keretében ellenőrzi.
-
-(2) Az e fejezetben foglalt kötelezettségek érvényesüléséről, alkalmazásuk gyakorlati tapasztalatairól, illetve az (1) bekezdés szerinti piacfelügyeleti eljárások tapasztalatairól a Hatóság legalább kétévente jelentést készít.
-
-(3) A Hatóság a (2) bekezdés szerinti jelentést az Eht. 36. §-a szerint egyezteti az érdekeltekkel.
-
-(4) Amennyiben a jelentés alapján indokolt, a Hatóság kezdeményezi a kötelezettségek módosítását.
+24–28. §
 
 ### Adatszolgáltatás
 
-29. § (1) A műsorterjesztő köteles a műsorszolgáltatókkal kötött valamennyi szerződését a közöttük fennálló jogviszony teljes időtartama alatt, valamint a jogviszony megszűnését követően öt évig megőrizni, illetve a szerződéses jogviszonyról a Hatóság részére adatot szolgáltatni.
-
-(2) Az (1) bekezdés szerinti adatokat adatszolgáltatási eljárás során a műsorterjesztő akkor is köteles benyújtani, ha az abban foglaltak üzleti titoknak minősülnek.
+29. §
 
 ### V. Fejezet — A VERSENYT BIZTOSÍTÓ RENDELKEZÉSEK
 
@@ -384,9 +249,9 @@ szolgáló műsorszolgáltató gazdaságilag és műszakilag indokolt szerződé
 
 30. § (1) A digitális műsorterjesztés átviteli rendszerétől függetlenül bármely feltételes hozzáférési rendszer üzemeltetője az általa üzemeltetett feltételes hozzáférési rendszer tekintetében köteles biztosítani az átvitel költséghatékony ellenőrzéséhez szükséges műszaki feltételeket, hogy a műsorterjesztők, illetve átviteli hálózat üzemeltetők helyi vagy regionális szinten teljes körűen ellenőrizzék az ilyen feltételes hozzáférési rendszereket igénybevevő szolgáltatásokat és az előfizetők számát.
 
-(2) A műsorterjesztés átviteli rendszerétől függetlenül bármely feltételes hozzáférési rendszer üzemeltetője, amely digitális televízió- és rádiószolgáltatásokhoz nyújt feltételes hozzáférési szolgáltatásokat, és amelynek a hozzáférési szolgáltatásaitól függ az, hogy a műsorszolgáltatók elérik-e a lehetséges nézők vagy hallgatók bármely csoportját, köteles
+(2) A műsorterjesztés átviteli rendszerétől függetlenül bármely feltételes hozzáférési rendszer üzemeltetője, amely digitális televízió- és rádiószolgáltatásokhoz nyújt feltételes hozzáférési szolgáltatásokat, és amelynek a hozzáférési szolgáltatásaitól függ az, hogy a médiaszolgáltatók elérik-e a lehetséges nézők vagy hallgatók bármely csoportját, köteles
 
-- a) valamennyi műsorszolgáltató és kiegészítő digitális szolgáltatást nyújtó számára a versenyjogi szabályokkal összeegyeztethető tisztességes, ésszerű és az egyenlő elbánás elvének megfelelő módon olyan műszaki szolgáltatásokat kínálni, amelyek lehetővé teszik a műsorszolgáltatók, illetve a digitális műsorterjesztők szolgáltatásainak vételét a feltételes hozzáférési szolgáltatás üzemeltetője által rendelkezésre bocsátott digitális vevődekóderek segítségével erre jogosított előfizetők, vagy felhasználók számára,
+- a) valamennyi médiaszolgáltató és kiegészítő médiaszolgáltatást nyújtó számára a versenyjogi szabályokkal összeegyeztethető tisztességes, ésszerű és az egyenlő elbánás elvének megfelelő módon olyan műszaki szolgáltatásokat kínálni, amelyek lehetővé teszik a médiaszolgáltatók, illetve a digitális műsorterjesztők szolgáltatásainak vételét a feltételes hozzáférési szolgáltatás üzemeltetője által rendelkezésre bocsátott digitális vevődekóderek segítségével erre jogosított előfizetők, vagy felhasználók számára,
 - b) a feltételes hozzáférési szolgáltatások nyújtására irányuló tevékenysége tekintetében külön számviteli nyilvántartást vezetni.
 
 (3) A feltételes hozzáférési termékekkel és rendszerekkel kapcsolatos iparjogvédelmi és szerzői jogok jogosultjai a fogyasztói berendezések gyártói részére az engedélyezés során kötelesek biztosítani, hogy az engedélyezés tisztességes, ésszerű és az egyenlő elbánás elvének megfelelő feltételekkel történjék.
@@ -397,7 +262,7 @@ szolgáló műsorszolgáltató gazdaságilag és műszakilag indokolt szerződé
 
 ### Interaktív digitális televíziós szolgáltatások együttműködési képessége
 
-31. § (1) Az interaktív digitális televíziós szolgáltatások nyújtására alkalmas digitális átviteli hálózatot üzemeltető műsorterjesztők és műsorszolgáltatók (e § alkalmazásában: kötelezettek) az átvitel módjára tekintet nélkül kötelesek nyílt alkalmazási program interfész (a továbbiakban: API) használatára törekedni.
+31. § (1) Az interaktív digitális televíziós szolgáltatások nyújtására alkalmas digitális átviteli hálózatot üzemeltető műsorterjesztők és médiaszolgáltatók (e § alkalmazásában: kötelezettek) az átvitel módjára tekintet nélkül kötelesek nyílt alkalmazási program interfész (a továbbiakban: API) használatára törekedni.
 
 (2) Az interaktív digitális televíziós szolgáltatások nyújtására alkalmas digitális átviteli hálózatokhoz csatlakoztatható digitális televíziókészülék és elektronikus hírközlő berendezés gyártói (e § alkalmazásában: kötelezett gyártók) e készülékek vonatkozásában kötelesek figyelembe venni a nyílt API-ra vonatkozó előírásokat.
 
@@ -407,17 +272,17 @@ szolgáló műsorszolgáltató gazdaságilag és műszakilag indokolt szerződé
 
 (5) A Hatóság a (4) bekezdésben meghatározott megállapodást közzéteszi.
 
-32. § (1) Az, aki a digitális interaktív televíziós szolgáltatás nyújtásához szükséges szoftver alapját képező információ, különösen a szoftver csatlakozó felületének alapját képező ötlet, elv, elgondolás, eljárás, működési módszer vagy matematikai művelet (a továbbiakban együtt: információ) felett rendelkezni jogosult, tisztességes, ésszerű és az egyenlő elbánás elvének megfelelő feltételek mellett, megfelelő díjazás ellenében a műsorszolgáltató, illetve a digitális műsorterjesztő részére hozzáférést biztosít minden olyan információhoz, amely az API által támogatott bármely szolgáltatás teljes működőképességéhez szükséges. E rendelkezés nem érinti az API-n fennálló szerzői jogi jogosultságokat.
+32. § (1) Az, aki a digitális interaktív televíziós szolgáltatás nyújtásához szükséges szoftver alapját képező információ, különösen a szoftver csatlakozó felületének alapját képező ötlet, elv, elgondolás, eljárás, működési módszer vagy matematikai művelet (a továbbiakban együtt: információ) felett rendelkezni jogosult, tisztességes, ésszerű és az egyenlő elbánás elvének megfelelő feltételek mellett, megfelelő díjazás ellenében a médiaszolgáltató, illetve a digitális műsorterjesztő részére hozzáférést biztosít minden olyan információhoz, amely az API által támogatott bármely szolgáltatás teljes működőképességéhez szükséges. E rendelkezés nem érinti az API-n fennálló szerzői jogi jogosultságokat.
 
 (2) Amennyiben a felek az (1) bekezdésben foglaltak fennállásával, vagy a díjazással kapcsolatban nem tudnak megállapodni, bármely fél jogosult az Eht. 49. §-a szerint jogvitás eljárást kezdeményezni.
 
 ### Elektronikus műsorkalauz
 
-33. § (1) Az elektronikus műsorkalauz szolgáltatója, amilyen mértékben az a kezelői felületek megjelenítéséhez és összeállításához szükséges, hozzáférést nyújt az elektronikus műsorkalauz szolgáltatáshoz valamennyi műsorszolgáltató és kiegészítő digitális szolgáltató számára tisztességes, ésszerű feltételek mellett, az egyenlő elbánás elvének megfelelően.
+33. § (1) Az elektronikus műsorkalauz szolgáltatója, amilyen mértékben az a kezelői felületek megjelenítéséhez és összeállításához szükséges, hozzáférést nyújt az elektronikus műsorkalauz szolgáltatáshoz valamennyi médiaszolgáltató és kiegészítő médiaszolgáltató számára tisztességes, ésszerű feltételek mellett, az egyenlő elbánás elvének megfelelően.
 
 (2) Az egyenlő elbánás elvét nem érintve az elektronikus műsorkalauz szolgáltatója az adott multiplexben továbbított közszolgálati műsorok számára a hozzáférés tekintetében elsőbbséget köteles biztosítani más műsorokkal szemben.
 
-34. § (1) Ha az elektronikus műsorkalauz szolgáltatója a szolgáltatás vételkörzetében terjesztett műsorszolgáltatás műsorszolgáltatójával, vagy a szolgáltatás vételkörzetében terjesztett kiegészítő digitális szolgáltatást nyújtóval irányítási viszonyban áll, a 33. §-ban megállapított kötelezettség e szolgáltatót annyiban terheli, amennyiben az adott vételkörzetben más független elektronikus műsorkalauz szolgáltató elektronikus műsorkalauza a felhasználók számára kapacitáshiány vagy más ok miatt szabadon nem hozzáférhető.
+34. § (1) Ha az elektronikus műsorkalauz szolgáltatója a szolgáltatás vételkörzetében terjesztett médiaszolgáltatás médiaszolgáltatójával, vagy a szolgáltatás vételkörzetében terjesztett kiegészítő médiaszolgáltatást nyújtóval irányítási viszonyban áll, a 33. §-ban megállapított kötelezettség e szolgáltatót annyiban terheli, amennyiben az adott vételkörzetben más független elektronikus műsorkalauz szolgáltató elektronikus műsorkalauza a felhasználók számára kapacitáshiány vagy más ok miatt szabadon nem hozzáférhető.
 
 (2) Az (1) bekezdés szerinti elektronikus műsorkalauz kezelői felületén jól látható módon utalni kell az elektronikus műsorkalauz szolgáltatójával irányítási viszonyban álló műsorszolgáltatóra, illetve annak műsorára.
 
@@ -442,29 +307,29 @@ szolgáló műsorszolgáltató gazdaságilag és műszakilag indokolt szerződé
 
 ### A műsordíjjal kapcsolatos rendelkezések
 
-37. § (1) A szerzői jogi jogosultak érdekeinek védelmében a műsorterjesztő a műsorszolgáltatóval kötött megállapodás alapján a műsorért a műsorterjesztési szolgáltatás előfizetőitől a műsorszolgáltató részére díjat szedhet (műsordíj).
+37. § (1) A szerzői jogi jogosultak érdekeinek védelmében a műsorterjesztő a médiaszolgáltatóval kötött megállapodás alapján a műsorért a műsorterjesztési szolgáltatás előfizetőitől a médiaszolgáltató részére díjat szedhet (műsordíj).
 
-(2) A műsorterjesztő az egyes műsorokhoz való hozzáférésért kizárólag az előfizetőktől szedhet díjat, kivéve, ha a műsorszolgáltató az átvitelt is magában foglaló elektronikus hírközlési szolgáltatásért ellenszolgáltatást fizet. Ez utóbbi esetben azonban az adott műsort tartalmazó szolgáltatási csomag, vagy egyedi műsor díja nem lehet magasabb, mint ha a műsorszolgáltató az átvitelért és más elektronikus hírközlési szolgáltatásokért nem fizetne ellenszolgáltatást a műsorterjesztőnek.
+(2) A műsorterjesztő az egyes műsorokhoz való hozzáférésért kizárólag az előfizetőktől szedhet díjat, kivéve, ha a médiaszolgáltató az átvitelt is magában foglaló elektronikus hírközlési szolgáltatásért ellenszolgáltatást fizet. Ez utóbbi esetben azonban az adott műsort tartalmazó szolgáltatási csomag, vagy egyedi műsor díja nem lehet magasabb, mint ha a médiaszolgáltató az átvitelért és más elektronikus hírközlési szolgáltatásokért nem fizetne ellenszolgáltatást a műsorterjesztőnek.
 
 (3) A műsorterjesztő a műsordíjakat is magában foglaló előfizetési díjak összegére tekintettel eltérő műsorcsomagokat alakíthat ki. A csomagképzésnek az előfizetői igényeken kell alapulnia és meg kell felelnie az ésszerűség, a tisztességesség és az átláthatóság alapelveinek.
 
 (4) A szerzői jogi jogosultak érdekei védelmében a műsorterjesztő elkülönítetten, átlátható és ellenőrizhető formában köteles nyilvántartani
 
-- a) az előfizetőtől a műsorszolgáltató szolgáltatásáért az (1) bekezdés alapján beszedett műsordíjat,
-- b) műsorszolgáltatótól a műsor előfizetőkkel való megismertetésért, illetve elérhetővé tételéért beszedett marketing vagy más hasonló díjat, és
+- a) az előfizetőtől a médiaszolgáltató szolgáltatásáért az (1) bekezdés alapján beszedett műsordíjat,
+- b) médiaszolgáltatótól a műsor előfizetőkkel való megismertetésért, illetve elérhetővé tételéért beszedett marketing vagy más hasonló díjat, és
 - c) az átviteli rendszer, illetve az előfizetői szolgáltatás működtetése ellenértékeként beszedett díjakat.
 
-(5) A (4) bekezdés szerinti nyilvántartásokat a műsorszolgáltató, illetve a műsordíjak kezelésével megbízott jogosult számára hozzáférhetővé kell tenni. A Hatóság e nyilvántartásokat az Eht.-ban foglalt feladatai ellátása érdekében megismerheti és ellenőrizheti, valamint adatszolgáltatást írhat elő.
+(5) A (4) bekezdés szerinti nyilvántartásokat a médiaszolgáltató, illetve a műsordíjak kezelésével megbízott jogosult számára hozzáférhetővé kell tenni. A Hatóság e nyilvántartásokat az Eht.-ban foglalt feladatai ellátása érdekében megismerheti és ellenőrizheti, valamint adatszolgáltatást írhat elő.
 
 ## HARMADIK RÉSZ — ÁTÁLLÁS A DIGITÁLIS MŰSORTERJESZTÉSRE
 
 ### Általános rendelkezések
 
-38. § (1) A digitális átállásnak 2011. december 31-ig kell megvalósulnia a digitális televízióműsorok elérhetősége tekintetében a Magyar Köztársaság teljes területén úgy, hogy a lakosság legalább 94%-át elérje a digitális televízió műsorszórási szolgáltatáson keresztül a közszolgálati műsorszolgáltatás, és ehhez rendelkezésre álljon a digitális műsorterjesztési szolgáltatás vételére alkalmas készülék (a továbbiakban: digitális átállás).
+38. § (1) A digitális átállásnak 2012. december 31-ig kell megvalósulnia a digitális audiovizuális médiaszolgáltatások elérhetősége tekintetében a Magyar Köztársaság teljes területén úgy, hogy a lakosság legalább kilencvennégy százalékát elérje a digitális televízió műsorszórási szolgáltatáson keresztül a közszolgálati médiaszolgáltatás, és ehhez rendelkezésre álljon a digitális műsorterjesztési szolgáltatás vételére alkalmas készülék (a továbbiakban: digitális átállás). Amennyiben az előzőekben meghatározott feltételek a megjelölt időpontig nem biztosíthatóak, az audiovizuális médiaszolgáltatások terjesztése digitális átállásának határnapja az előzőekben meghatározott feltételek teljesülésével esik egybe, azzal, hogy a digitális átállás határnapja legkésőbb 2014. december 31.
 
-(2) A rádióműsorok műsorterjesztése digitális átállásának céldátuma 2014. december 31. Az átállás csak akkor lehetséges, amennyiben a megjelölt időpontig a lakosság legalább 94%-át eléri a digitális rádió műsorszórási szolgáltatáson keresztül a közszolgálati műsorszolgáltatás és a lakosság legalább 75%-a rendelkezik a digitális műsorszolgáltatás vételére alkalmas készülékkel. Amennyiben az előzőekben meghatározott feltételek a megjelölt időpontig nem biztosíthatóak, a rádióműsor terjesztés digitális átállásának határnapja az előzőekben meghatározott feltételek teljesülésével esik egybe.
+(2) A rádióműsorok műsorterjesztése digitális átállásának céldátuma 2014. december 31. Az átállás csak akkor lehetséges, amennyiben a megjelölt időpontig a lakosság legalább 94%-át eléri a digitális rádió műsorszórási szolgáltatáson keresztül a közszolgálati médiaszolgáltatás és a lakosság legalább 75%-a rendelkezik a digitális médiaszolgáltatás vételére alkalmas készülékkel. Amennyiben az előzőekben meghatározott feltételek a megjelölt időpontig nem biztosíthatóak, a rádióműsor terjesztés digitális átállásának határnapja az előzőekben meghatározott feltételek teljesülésével esik egybe.
 
-(3) Olyan analóg rádió- vagy televízió műsorszolgáltatási jogosultság, amely alapján a műsorszolgáltató műsorát műsorszórással juttatják el a felhasználóhoz, vagy előfizetőhöz, kizárólag azzal a feltétellel adható ki, hogy a jogosult köteles együttműködni a műsorterjesztés digitalizációja folyamatában.
+(3) Olyan analóg rádió- vagy televízió médiaszolgáltatási jogosultság, amely alapján a médiaszolgáltató műsorát műsorszórással juttatják el a felhasználóhoz, vagy előfizetőhöz, kizárólag azzal a feltétellel adható ki, hogy a jogosult köteles együttműködni a műsorterjesztés digitalizációja folyamatában.
 
 ### Pályázati eljárás
 
@@ -472,42 +337,42 @@ szolgáló műsorszolgáltató gazdaságilag és műszakilag indokolt szerződé
 
 (2) A pályázati kiírási dokumentáció a külön jogszabályban meghatározottakon túl feltételként tartalmazza:
 
-- a) a 43. § (1) bekezdésében foglalt pályázat esetében a közszolgálati műsorszolgáltató az Rttv. 132. § (3) és (5) bekezdésében meghatározott televízió műsorainak, valamint az Rttv. 132. § (1) bekezdésében meghatározott rádióműsorok kötelező továbbítását,
-- b) az állampolgárok tájékozódását szolgáló, e törvény hatálybalépésekor legalább négy éve működő, legalább két, hír-, illetve közéleti tartalmú műsorokat szolgáltató televíziós műsorszolgáltatóval és a legalább három éve működő, országos rádió közműsorszolgáltatókkal szemben fennálló, a legnagyobb lakossági eléréssel rendelkező hálózaton és a televíziós műsorszolgáltatók esetében mobilvételű digitális televízió műsorszóró hálózaton történő műsorterjesztésre vonatkozó szerződéskötési kötelezettséget és részletes szabályait,
-- c) legfeljebb négy általános tematikájú országos műsorszolgáltatóval szemben fennálló, műsorterjesztésre vonatkozó szerződéskötési kötelezettséget, amely a jelenleg a műsorszolgáltatást földfelszíni műsorszórás útján megvalósító műsorszolgáltatók esetében akkor alkalmazható, ha erről a 43. § (1) bekezdésében foglalt pályázat eredményének közzétételét követő hatvan napon belül kötelezettségvállaló nyilatkozatot tesznek, és a szerződés megkötésével vállalják, hogy műsorukat a 43. § (1) bekezdésében foglalt legnagyobb vagy második legnagyobb lakossági elérésű, nem mobil vételű digitális televízió műsorszóró hálózaton a műsorterjesztési szolgáltatás indulásával körzetenként elérhetővé teszik, valamint műsoruk analóg földfelszíni műsorszórását körzetenként 2011. június 30-ig leállítják,
+- a) a 43. § (1) bekezdésében foglalt pályázat esetében az Mttv. 84. § (1) bekezdésében meghatározott közszolgálati médiaszolgáltatók audiovizuális és rádiós médiaszolgáltatásainak kötelező továbbítását,
+- b) az állampolgárok tájékozódását szolgáló, e törvény hatálybalépésekor legalább négy éve működő, legalább két, hír-, illetve közéleti tartalmú műsorokat szolgáltató televíziós médiaszolgáltatóval és a legalább három éve működő, országos rádió közműsorszolgáltatókkal szemben fennálló, a legnagyobb lakossági eléréssel rendelkező hálózaton és a televíziós médiaszolgáltatók esetében mobilvételű digitális televízió műsorszóró hálózaton történő műsorterjesztésre vonatkozó szerződéskötési kötelezettséget és részletes szabályait,
+- c) legfeljebb négy általános tematikájú országos médiaszolgáltatóval szemben fennálló, műsorterjesztésre vonatkozó szerződéskötési kötelezettséget, amely a jelenleg a médiaszolgáltatást földfelszíni műsorszórás útján megvalósító médiaszolgáltatók esetében akkor alkalmazható, ha erről kötelezettségvállaló nyilatkozatot tesznek, és a szerződés megkötésével vállalják, hogy műsorukat a 43. § (1) bekezdésében foglalt legnagyobb vagy második legnagyobb lakossági elérésű, nem mobil vételű digitális televízió műsorszóró hálózaton a műsorterjesztési szolgáltatás indulásával körzetenként elérhetővé teszik,
 - d) a pályázaton elnyerhető digitális műsorszóró hálózat, illetve műsorszóró adó műszaki és ellátottsági jellemzőit,
 - e) digitális rádió-, illetve televízió műsorszóró hálózat, illetve a műsorszóró adó kiépítésének megkívánt ütemét, illetve üzemeltetése megkezdésének időpontját,
 - f) a digitális műsorszóró hálózaton, illetve a műsorszóró adón nyújtott műsorterjesztési szolgáltatás tervezett lakossági elérésének ütemezését,
 - g) a felhasználók és előfizetők tájékoztatását, valamint digitális vevődekóder kedvezményes és támogatott forgalomba hozatalára vonatkozó rendszer kialakításának és működtetésének ajánlatát,
 - h) a közreműködést az érintett országos analóg földfelszíni televíziós sugárzás előrehozott lekapcsolásában,
-- i) a közszolgálati műsorszolgáltatók kivételével a digitális műsorszóró hálózat üzemeltetésére külön gazdasági társaság alakítását, amely az (5) és (6) bekezdésben megjelölt vállalkozással nem állhat irányítási viszonyban,
+- i) a közszolgálati médiaszolgáltatók kivételével a digitális műsorszóró hálózat üzemeltetésére külön gazdasági társaság alakítását, amely az (5) és (6) bekezdésben megjelölt vállalkozással nem állhat irányítási viszonyban,
 - j) az (5) bekezdés a) pontjában és a (6) bekezdésben foglalt feltétel folyamatos teljesítését,
 - k) a lakosság légi- és katasztrófariasztásával, tájékoztatásával kapcsolatos kötelezettségeket,
 - l) a nyertes pályázó, illetve e bekezdés i) pontja szerint az általa létrehozandó gazdasági társaság tulajdonosi szerkezetében vagy tényleges irányítói körében bekövetkezett változások bejelentésével kapcsolatos feltételeket és részletes szabályokat.
 
 (3) A pályázati kiírási dokumentáció a külön jogszabályban meghatározottakon túl értékelési szempontként tartalmazza:
 
-- a) azon pályázó előnyben részesítését, amely új földfelszíni műsorterjesztésű általános tematikájú, szabad hozzáférésű műsorszolgáltató elérhetővé tételét kölcsönös szándéknyilatkozattal igazoltan vállalja,
-- b) a közszolgálati műsorszolgáltatók közszolgálati műsorainak műsorterjesztési díjaira vonatkozó vállalásokat,
-- c) azon pályázó előnyben részesítését, amely interaktív kiegészítő digitális szolgáltatások bevezetését vállalja,
+- a) azon pályázó előnyben részesítését, amely új földfelszíni műsorterjesztésű általános tematikájú, szabad hozzáférésű médiaszolgáltató elérhetővé tételét kölcsönös szándéknyilatkozattal igazoltan vállalja,
+- b) a közszolgálati médiaszolgáltatók közszolgálati műsorainak műsorterjesztési díjaira vonatkozó vállalásokat,
+- c) azon pályázó előnyben részesítését, amely interaktív kiegészítő médiaszolgáltatások bevezetését vállalja,
 - d) a digitális rádió-, illetve televízió műsorszóró hálózat, illetve a műsorszóró adó kiépítésére vonatkozó, a (2) bekezdés e) pontja szerint meghatározott feltételeknél kedvezőbb vállalásokat,
 - e) a digitális műsorszóró hálózaton, illetve a műsorszóró adón nyújtott műsorterjesztési szolgáltatás tervezett lakossági elérésére vonatkozó, a (2) bekezdés f) pontja szerinti feltételnél kedvezőbb vállalásokat,
 - f) a digitális műsorszóró hálózatokon terjesztett műsorok vételére használt digitális vevődekóderek interaktív szolgáltatások igénybevételére való alkalmasságát,
 - g) a felhasználók és előfizetők tájékoztatásában, valamint digitális vevődekóder esetleges kedvezményes és támogatott forgalomba hozatalára vonatkozó, a (2) bekezdés g) pontja szerinti feltételnél kedvezőbb vállalásokat,
 - h) az érintett országos analóg földfelszíni televíziós sugárzás előrehozott lekapcsolásában való közreműködésre vonatkozó, a (2) bekezdés h) pontja szerinti feltételnél kedvezőbb vállalásokat.
 
-(4) A pályázati kiírási dokumentáció, a 43. § (2) bekezdésében foglalt pályázat kivételével, a (2) és (3) bekezdésben, valamint az Rttv. 5–5/F. §-aiban meghatározottakon túl további műsortartalmi feltételeket és értékelési szempontokat nem tartalmazhat.
+(4) A pályázati kiírási dokumentáció, a 43. § (2) bekezdésében foglalt pályázat kivételével, a (2) és (3) bekezdésben, valamint az Mttv. 9–11. §-aiban meghatározottakon túl további műsortartalmi feltételeket és értékelési szempontokat nem tartalmazhat.
 
 (5) A digitális televízió műsorszóró hálózat üzemeltetési jogosultságára vonatkozó pályázaton – kivéve a kizárólag mobil vételű digitális televízió műsorszóró hálózat üzemeltetési jogosultságára vonatkozó a 43. § (3) bekezdésében foglalt pályázatot – nem vehet részt olyan vállalkozás, vagy a vállalkozással irányítási viszonyban álló vállalkozás, amely
 
 - a) előfizetőinek összesített száma a televíziós műsorterjesztési piacokon a digitális televízió műsorszóró hálózattal végzett műsorterjesztés kivételével meghaladja a háromszázezret, vagy
-- b) az Rttv. hatálya alá tartozó, elsősorban a Magyar Köztársaság területére irányuló műsorszolgáltatást végez.
+- b) az Mttv. hatálya alá tartozó, elsősorban a Magyar Köztársaság területére irányuló médiaszolgáltatást végez.
 
-(6) A 43. § (2) bekezdésében foglalt pályázaton nem vehet részt országos rádió műsorszolgáltató, vagy azzal irányítási viszonyban álló vállalkozás, kivéve az Rttv. szerinti országos közszolgálati rádió műsorszolgáltatót, valamint országos rádió közműsorszolgáltatót.
+(6) A 43. § (2) bekezdésében foglalt pályázaton nem vehet részt országos rádiós médiaszolgáltató, vagy azzal irányítási viszonyban álló vállalkozás, kivéve az Mttv. szerinti közszolgálati rádiós médiaszolgáltatót, valamint országos közösségi médiaszolgáltatót.
 
 (7) A pályázaton egyidejűleg nem vehetnek részt olyan természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok vagy egyéb szervezetek, amelyek egymással irányítási viszonyban állnak.
 
-(8) Amennyiben a jelenleg a műsorszolgáltatást földfelszíni műsorszórás útján megvalósító országos televízió műsorszolgáltatók a (2) bekezdés c) pontjában foglalt lehetőséggel nem élnek, a nyertes digitális műsorszóró hálózat üzemeltetője a rendelkezésre álló átviteli kapacitások vonatkozásában szabadon köthet szerződést más általános tematikájú országos műsorszolgáltatóval. A jelenleg a műsorszolgáltatást földfelszíni műsorszórás útján megvalósító országos televízió műsorszolgáltatók a 43. § (1) bekezdésében foglalt pályázaton értékesített bármely digitális műsorszóró hálózatra abban az esetben kerülhetnek fel, ha szerződés megkötésével vállalják, hogy műsorukat a 43. § (1) bekezdésében foglalt legnagyobb vagy második legnagyobb lakossági elérésű, nem mobil vételű digitális televízió műsorszóró hálózaton a műsorterjesztési szolgáltatás indulásával körzetenként elérhetővé teszik, valamint műsoruk analóg földfelszíni műsorszórását körzetenként 2011. június 30-ig leállítják.
+(8) Amennyiben a jelenleg a médiaszolgáltatást földfelszíni műsorszórás útján megvalósító országos televíziós médiaszolgáltatók a (2) bekezdés c) pontjában foglalt lehetőséggel nem élnek, a nyertes digitális műsorszóró hálózat üzemeltetője a rendelkezésre álló átviteli kapacitások vonatkozásában szabadon köthet szerződést más általános tematikájú országos médiaszolgáltatóval. A jelenleg a médiaszolgáltatást földfelszíni műsorszórás útján megvalósító országos televíziós médiaszolgáltatók a 43. § (1) bekezdésében foglalt pályázaton értékesített bármely digitális műsorszóró hálózatra abban az esetben kerülhetnek fel, ha szerződés megkötésével vállalják, hogy műsorukat a 43. § (1) bekezdésében foglalt legnagyobb vagy második legnagyobb lakossági elérésű, nem mobil vételű digitális televízió műsorszóró hálózaton a műsorterjesztési szolgáltatás indulásával körzetenként elérhetővé teszik.
 
 40. § (1) A pályázati eljárást az Országgyűlés által létrehozott eseti bizottság (a továbbiakban: Bizottság) felügyeli. A Bizottság ügyrendjét az e törvényben meghatározottak figyelembevételével az Országgyűlés Házszabálya szerint maga állapítja meg.
 
@@ -572,7 +437,7 @@ szolgáló műsorszolgáltató gazdaságilag és műszakilag indokolt szerződé
 
 (6) A Hatóság a pályázat nyertesével, a pályázati kiírási dokumentációval, a nyertes pályázó pályázatával összhangban a Bizottság jóváhagyó állásfoglalását követő negyvenöt napon belül hatósági szerződést köt.
 
-43. § (1) A Hatóság az átmeneti időszakban rendelkezésre álló négy digitális televízió műsorszóró (amelyek közül egy a közszolgálati műsorszolgáltató műsora analóg műsorszórásának leállítását követően nyílik meg), valamint a digitális átállást követően rendelkezésre álló további egy digitális televízió műsorszóró hálózat üzemeltetési jogára vonatkozó pályázatot a Bizottságnak a pályázati kiírási dokumentáció jóváhagyását tartalmazó állásfoglalása meghozatalától számított 30 napon belül, de legkésőbb 2008. december 31-éig írja ki. A pályázattal elnyerhető második legnagyobb lakossági lefedettséggel rendelkező hálózatnak alkalmasnak kell lennie az európai szabvány szerinti mobil vételű digitális műsorszórási szolgáltatások nyújtására.
+43. § (1) A Hatóság az átmeneti időszakban rendelkezésre álló négy digitális televízió műsorszóró (amelyek közül egy a közszolgálati médiaszolgáltató műsora analóg műsorszórásának leállítását követően nyílik meg), valamint a digitális átállást követően rendelkezésre álló további egy digitális televízió műsorszóró hálózat üzemeltetési jogára vonatkozó pályázatot a Bizottságnak a pályázati kiírási dokumentáció jóváhagyását tartalmazó állásfoglalása meghozatalától számított 30 napon belül, de legkésőbb 2008. december 31-éig írja ki. A pályázattal elnyerhető második legnagyobb lakossági lefedettséggel rendelkező hálózatnak alkalmasnak kell lennie az európai szabvány szerinti mobil vételű digitális műsorszórási szolgáltatások nyújtására.
 
 (2) A Hatóság az átmeneti időszakban rendelkezésre álló egy VHF sávú, digitális rádió műsorszóró hálózat üzemeltetési jogára vonatkozó pályázatot a Bizottságnak a pályázati kiírási dokumentáció jóváhagyását tartalmazó állásfoglalása meghozatalától számított 30 napon belül 2008. december 31-éig írja ki. A pályázat során a pályázati kiírási dokumentációban meghatározottak szerint előnyt élvez az a pályázó, amely vállalja országos közszolgálati, illetve országos közműsorszolgáltató rádiók műsorainak kínálatában való elhelyezését.
 
@@ -580,19 +445,176 @@ szolgáló műsorszolgáltató gazdaságilag és műszakilag indokolt szerződé
 
 (4) Az (1)–(3) bekezdésben foglalt jogosultság időtartama a jogosultságról szóló hatósági szerződés megkötésének időpontjától számított 12 év.
 
-(5) A helyi és körzeti vételkörzetű műsorterjesztési szolgáltatások nyújtását lehetővé tevő digitális műsorszóró adó üzemeltetési jogosultságokat a digitális átállás által lehetővé tett ütemben kell pályáztatni.
+(5)
 
-(6) A (2)–(3) és (5) bekezdésben foglalt jogosultságok pályázati kiírási dokumentációjának elkészítésére, a pályázati eljárására és a pályáztatásra a 39–43. §-ok megfelelően alkalmazandók.
+(6) A (2)–(3) foglalt jogosultságok pályázati kiírási dokumentációjának elkészítésére, a pályázati eljárására és a pályáztatásra a 39–43. §-ok megfelelően alkalmazandók.
+
+### A helyi és körzeti vételkörzetű műsorterjesztési szolgáltatások nyújtását lehetővé tevő digitális műsorszóró adó üzemeltetési jogosultság megszerzésére vonatkozó pályázati eljárás
+
+43/A. § (1) A helyi és körzeti vételkörzetű műsorterjesztési szolgáltatások nyújtását lehetővé tevő digitális műsorszóró adó üzemeltetési jogosultságokat a digitális átállás által lehetővé tett ütemben kell pályáztatni.
+
+(2) A helyi és körzeti vételkörzetű műsorterjesztési szolgáltatások nyújtását lehetővé tevő digitális műsorszóró adó üzemeltetési jogosultság megszerzésére vonatkozó pályázati eljárásokban (a továbbiakban: pályázati eljárás) a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályt kell megfelelően alkalmazni az alábbi (43/A–43/K. §-ban foglalt) eltérésekkel.
+
+(3) A pályázati eljárás – az e törvényben meghatározott kivételekkel – hivatalból, a pályázati felhívás közzétételével indul.
+
+(4) A pályázati eljárás során a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályban szereplő pályázati bizottságot nem kell létrehozni, az eljárás során pályázati bizottság nem működik közre.
+
+(5) A pályázati eljárás ügyintézési határideje nyolcvanöt nap. Az ügyintézési határidőbe nem számít be a Ket.-ben meghatározottakon túl a pályázati felhívás közzététele napjától a pályázati ajánlat benyújtásáig terjedő időtartam, valamint a pályázat nyerteséről szóló döntéshez szükséges hozzájárulás beszerzésére irányuló 43/I. § (4)–(6) bekezdésben meghatározott eljárás időtartama. Az ügyintézési határidő indokolt esetben egy alkalommal, legfeljebb húsz nappal meghosszabbítható.
+
+(6) A pályázati eljárást a Bizottság felügyeli. A Bizottság hozzájárulása szükséges a Hatóság Elnökének (a továbbiakban: Elnök) 43/I. § (1) bekezdés b) pontja szerinti – pályázat nyerteséről szóló – döntéséhez. A Bizottság döntésének meghozatalához az összes szavazati mérték kétharmada szükséges.
+
+(7) Az (1) bekezdésben foglalt jogosultság időtartama a jogosultságról szóló hatósági szerződés megkötésének időpontjától számított legfeljebb 12 év.
+
+43/B. § (1) A pályázati kiírási dokumentáció a külön jogszabályban meghatározottakon túl feltételként tartalmazza:
+
+- a) a pályázaton elnyerhető digitális műsorszóró adó műszaki és ellátottsági jellemzőit,
+- b) a digitális rádió-, illetve televízió műsorszóró adó kiépítésének megkívánt ütemét, illetve üzemeltetése megkezdésének időpontját,
+- c) a digitális műsorszóró adón nyújtott műsorterjesztési szolgáltatás tervezett lakossági elérésének ütemezését,
+- d) a digitális műsorszóró adó üzemeltetőjét terhelő szerződéskötési és továbbítási kötelezettséget,
+- e) a lakosság légi- és katasztrófariasztásával, tájékoztatásával kapcsolatos kötelezettségeket,
+- f) a nyertes pályázó, illetve az általa létrehozandó gazdasági társaság tulajdonosi szerkezetében vagy tényleges irányítói körében bekövetkezett változások bejelentésével kapcsolatos feltételeket és részletes szabályokat,
+- g) a pályázati ajánlat alaki és tartalmi érvényességének feltételeit.
+
+(2) A pályázati kiírási dokumentáció a külön jogszabályban meghatározottakon túl feltételként tartalmazhatja:
+
+- a) amennyiben a pályázati kiírás lehetővé teszi több pályázó közös ajánlattételét, úgy a közös ajánlattétel szabályait,
+- b) a benyújtott pályázatokra vonatkozó ajánlati kötöttséget és annak időtartamát.
+
+(3) A pályázaton egyidejűleg nem vehetnek részt olyan természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok vagy egyéb szervezetek, amelyek egymással irányítási viszonyban állnak.
+
+(4) A jogszabályban valamint a pályázati kiírási dokumentációban meghatározott részvételi feltételeknek a pályázati eljárás teljes tartama alatt meg kell felelni.
+
+(5) A résztvevő köteles a kiírási dokumentációban foglalt eljárási szabályokat betartani.
+
+(6) Amennyiben az Elnök a pályázati eljárás tartama alatt a jogszabályba vagy a pályázati kiírási dokumentációba ütköző magatartást észlel, a pályázati kiírási dokumentációban részletezett jogkövetkezményeket alkalmazza, az arányosság és a fokozatosság elvét követve.
+
+43/C. § (1) Az Elnök megvizsgálja, hogy a jelentkező (résztvevő) megfelel-e az alaki és tartalmi érvényesség feltételeinek.
+
+(2) Alakilag érvénytelen a pályázati ajánlat, ha
+
+- a) a jelentkező (résztvevő) nem felel meg a jogszabályban, illetve a pályázati kiírási dokumentációban meghatározott személyi, részvételi feltételeknek, illetve összeférhetetlenségi követelményeknek,
+- b) a pályázati ajánlat nem a pályázati felhívásban meghatározott határidőben, helyen, példányszámban, formában és módon került benyújtásra,
+- c) a részvételi díjat határidőben nem fizették meg,
+- d) a pályázati ajánlat formailag nem felel meg a pályázati felhívásban és a pályázati kiírási dokumentációban meghatározott feltételeknek,
+- e) nem tartalmazza a pályázati jelentkezéshez szükséges – jogszabályban és a pályázati kiírási dokumentációban felsorolt – adatokat.
+
+(3) Ha a pályázati jelentkezés, illetve a pályázati ajánlat a (2) bekezdés e) pontja alapján hiányos, az Elnök hiánypótlásra szólítja fel a jelentkezőt. A hiánypótlás teljesítésére a kézbesítéstől számított tizenöt nap áll a jelentkező rendelkezésére. Amennyiben a jelentkező a hiányosságot a felhívásban megjelölt időtartamon belül megfelelően pótolja, a pályázatot úgy kell tekinteni, mintha már eredetileg is helyes és teljes körű lett volna. A hiánypótlás teljesítésére meghatározott határidő jogvesztő, a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A pályázati ajánlat azon elemei tekintetében, amelyek a pályázati felhívás, illetve pályázati kiírási dokumentáció alapján értékelésre kerülnek, hiánypótlásnak nincs helye.
+
+(4) Az alaki érvényesség vizsgálata során az Elnök érdemi, tartalmi értékelést nem végez.
+
+43/D. § (1) Az Elnök a pályázatok értékelése, feltételeinek jobb megértése, és összehasonlíthatósága érdekében az esélyegyenlőség elvének sérelme nélkül jogosult a jelentkezőtől (résztvevőtől) a pályázatra vonatkozó, illetőleg a pályázónak e törvényben, illetve a pályázati kiírásban meghatározott feltételeknek való megfelelését igazoló további dokumentumokat és információkat írásban kérni.
+
+(2) A felvilágosítás a pályázatban foglaltak jobb megértését szolgálja, nem eredményezheti az ajánlatban megfogalmazott pénzbeli, értékbeli vállalások, lényeges állítások változását, csak azok értelmezését szolgálhatja.
+
+(3) Az Elnök a jelentkező (résztvevő) által adott felvilágosítás tartalmához nincs kötve, szabadon mérlegeli, hogy a döntéshozatal során figyelembe veszi-e azt. Az Elnök a teljes pályázati eljárás során jogosult a felvilágosítás-kérésre.
+
+43/E. § (1) Az Elnök az alakilag érvényes pályázati ajánlatot benyújtó jelentkezőket – a benyújtási határidő lejártától számított negyvenöt napon belül – hatósági nyilvántartásba veszi (a továbbiakban: pályázati nyilvántartás). A pályázati nyilvántartásba vételről az Elnök a résztvevővé vált jelentkezőket értesíti, és a pályázati nyilvántartásba vett résztvevők listáját a Hatóság honlapján közzéteszi.
+
+(2) A 43/C. § (2) bekezdés alapján alakilag érvénytelen pályázat esetén az Elnök a jelentkező pályázati nyilvántartásba vételét végzéssel megtagadja. A nyilvántartásba vételt megtagadó végzés megszünteti az eljárásban a jelentkező ügyféli minőségét. A pályázati nyilvántartásba vételt megtagadó végzés ellen – jogszabálysértésre hivatkozással – a végzés közlésétől számított nyolc napon belül felülvizsgálat kérhető a Fővárosi Ítélőtáblától. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A Fővárosi Ítélőtábla végzése ellen fellebbezésnek helye nincs. A nemperes eljárás iránti kérelem benyújtása esetén az Elnök a pályázati eljárást – a bíróság jogerős döntéséig – felfüggeszti. Az Elnök eljárást felfüggesztő végzésével szemben önálló jogorvoslatnak helye nincs.
+
+(3) Amennyiben az Elnök az alaki érvénytelenségi okot a pályázati nyilvántartásba vételt követően, a pályázati ajánlat érdemi elbírálása során észleli, a pályázat alaki érvénytelenségét külön végzéssel nem állapítja meg, a pályázat érvénytelenségét a pályázati eljárást lezáró döntésébe foglalja.
+
+43/F. § (1) A pályázati ajánlat tartalmi érvényességének vizsgálatakor az Elnök a pályázati nyilvántartásba vett résztvevő pályázati ajánlatát összességében és az egyes pályázati elemek tekintetében is értékeli, vizsgálja annak megalapozottságát.
+
+(2) Ha a pályázati ajánlat tartalmilag hiányos, az Elnök hiánypótlásra szólítja fel a résztvevőt. A hiánypótlás teljesítésére a kézbesítéstől számított tizenöt nap áll a résztvevő rendelkezésére. Amennyiben a résztvevő a hiányosságot a felhívásban megjelölt időtartamon belül megfelelően pótolja, a pályázatot úgy kell tekinteni, mintha már eredetileg is helyes és teljes körű lett volna. A hiánypótlás teljesítésére meghatározott határidő jogvesztő, a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A pályázati ajánlat azon elemei tekintetében, amelyek a pályázati felhívás alapján értékelésre kerülnek, hiánypótlásnak nincs helye.
+
+(3) A pályázati ajánlat tartalmilag érvénytelen, amennyiben
+
+- a) a pályázati felhívás és a pályázati kiírási dokumentáció szerinti értékelési szempontként megjelölt vállalások körében érthetetlen vagy egymásnak ellentmondó vagy nyilvánvalóan lehetetlen vállalásokat, feltételeket tartalmaz, amelyek akadályozzák a pályázat érdemi értékelését,
+- b) a pályázati ajánlat az Elnök megítélése szerint lehetetlen, túlzottan magas vagy alacsony mértékű, illetőleg kirívóan aránytalan kötelezettségvállalást tartalmaz, illetve olyan nyilvánvalóan irracionális vagy megalapozatlan vállalásokat, feltételeket tartalmaz, amelyek ellentmondanak az Elnök rendelkezésére álló tényeknek, adatoknak, és ezáltal lehetetlenné teszik a pályázati kiírásban és a pályázati kiírási dokumentációban foglalt szempontrendszer szerinti értékelést,
+- c) a pályázati ajánlat megalapozatlansága miatt nem alkalmas az e törvényben, illetve a pályázati felhívásban és a pályázati kiírási dokumentációban meghatározott célok elérésére, megvalósítására, vagy
+- d) a pályázati felhívásban, illetve a pályázati kiírási dokumentációban meghatározott tartalmi követelményeknek nem tesz eleget.
+
+(4) Az Elnök a pályázati ajánlat tartalmi érvénytelenségét külön végzéssel nem állapítja meg, a pályázati ajánlat tartalmi érvénytelenségét a pályázati eljárást lezáró döntésébe foglalja.
+
+43/G. § (1) A pályázati ajánlatok értékelésére a pályázati felhívásban, illetve a pályázati kiírási dokumentációban meghatározott elvek és szempontok alapján kerül sor. Az értékelési szempontoknak mennyiségi vagy más módon értékelhető tényezőkön kell alapulniuk, a pályázat tárgyával, illetőleg a hatósági szerződés lényeges feltételeivel összhangban kell állniuk. Az egyes szempontok nem eredményezhetik a pályázati ajánlat ugyanazon tartalmi elemének többszöri értékelését.
+
+(2) Az Elnök a bírálati szempontokkal összefüggő ajánlati elemmel kapcsolatban a pályázati felhívásban, illetve a pályázati kiírási dokumentációban jogosult meghatározni olyan elvárást, amelynél kedvezőtlenebb az adott ajánlati elemnél nem lehet.
+
+(3) Az értékelés elveinek átláthatónak, megkülönböztetéstől mentesnek és arányosnak kell lenniük.
+
+(4) A pályázati ajánlatokat a pályázati felhívásban, illetve a pályázati kiírási dokumentációban meghatározottaktól eltérően értékelni nem lehet.
+
+43/H. § (1) Az Elnök végzéssel megszünteti a pályázati eljárást, amennyiben
+
+- a) a pályázati felhívásra nem érkezik pályázati ajánlat,
+- b) a pályázati eljárás a lefolytatása során felmerült körülmény, feltétel folytán okafogyottá válik, így különösen abban az esetben, ha a pályázati felhívást követően a hazai vagy a nemzetközi gazdálkodási környezet nagymértékben megváltozik, illetve a pályázati felhívás kiírásakor fennálló – gazdasági, jogi, frekvenciagazdálkodási, műsorterjesztési, műsorszolgáltatási iparági – körülmények, feltételek lényegesen megváltoznak,
+- c) az Elnök mérlegelése szerinti médiapolitikai szempontok, illetve az e törvényben vagy a pályázati kiírási dokumentációban rögzített alapelvek, célok a pályázati eljárás lefolytatásával nem biztosíthatóak, ideértve azt az esetet, ha az e törvény 43/A. § (1) bekezdése alapján a pályáztatást a digitális átállás üteme nem teszi lehetővé, vagy
+- d) az Elnök a benyújtott pályázati ajánlatok és a rendelkezésre álló információk alapján megállapítja, hogy egyetlen résztvevő pályázati ajánlata sem felel meg az e törvényben foglalt céloknak és alapelveknek vagy a pályázati eljárásban résztvevő bármely résztvevő nyertessé nyilvánítása veszélyeztetné a frekvenciakészlettel, mint állami tulajdonnal való felelős, rendeltetésszerű, hatékony gazdálkodást.
+
+(2) Az Elnök az (1) bekezdés szerinti döntését a résztvevőkkel öt napon belül közli, valamint a pályázati felhívással azonos helyen és módon nyilvánosan közzéteszi.
+
+43/I. § (1) Az Elnök hatósági határozatban állapítja meg
+
+- a) a pályázati eljárás eredményes vagy eredménytelen voltát, és
+- b) eredményesség esetén a pályázati eljárás nyertesét.
+
+(2) Eredménytelen a pályázati eljárás, amennyiben valamennyi benyújtott pályázati ajánlat alaki vagy tartalmi szempontból érvénytelen, illetve a (7) bekezdésben meghatározott esetben.
+
+(3) Nyertessé kizárólag olyan résztvevő nyilvánítható, amely a pályázati ajánlat benyújtásától kezdve folyamatosan megfelelt az e törvényben és a pályázati felhívásban, illetve a pályázati kiírási dokumentációban meghatározott részvételi feltételeknek.
+
+(4) Az Elnök az (1) bekezdés b) pontja szerinti határozattervezetét megküldi a Bizottságnak, amely a megküldéstől számított tizenöt napon belül dönt a hozzájárulás megadásáról, megtagadásáról vagy a határozattervezet visszaküldéséről. Amennyiben a Bizottság a megadott határidőn belül nem dönt a határozattervezetről, a határidő leteltét követő napon a hozzájárulást megadottnak kell tekinteni.
+
+(5) A Bizottság a hozzájárulást kizárólag jogszabálysértésre (ideértve a pályázati kiírás és eljárás megsértését is) hivatkozva tagadhatja meg. A Bizottság formai vagy számítási hiba, illetve név-, szám- vagy más elírás esetén, a hiba vagy az elírás megjelölésével a hatósági határozattervezetet egy ízben átdolgozásra visszaküldi az Elnöknek.
+
+(6) Az (5) bekezdés szerint visszaküldött határozattervezetet az Elnök tíz napon belül megvizsgálja, és átdolgozás után újbóli hozzájárulás kérés céljából megküldi a Bizottságnak, amely a (4)–(5) bekezdésben foglaltak szerint jár el.
+
+(7) A hozzájárulást megtagadó bizottsági döntés esetén, az Elnök döntést hoz a pályázat eredménytelenségéről.
+
+43/J. § (1) Az Elnök a 43/I. § (1) bekezdés szerinti döntését a pályázati nyilvántartásban szereplő résztvevőkkel öt napon belül közli, valamint a pályázati felhívással azonos helyen és módon nyilvánosan közzéteszi.
+
+(2) Az Elnök a 43/I. § (1) bekezdésben meghatározott határozatával szemben a határozat közlésétől számított tizenöt napon belül az ügyfelek jogszabálysértésre hivatkozással a határozat bírósági felülvizsgálatát kérhetik a Fővárosi Ítélőtáblától azzal, hogy a határozat meghozatalától számított harminc napos jogvesztő határidő elteltével a határozatot akkor sem lehet megtámadni, ha az ismert ügyfeleken kívüli más jogorvoslatra jogosulttal azt nem közölték, illetve arról addig nem szerzett tudomást.
+
+(3) A bírósági felülvizsgálat iránti keresetet a Fővárosi Ítélőtábla háromtagú tanácsban, a kereset benyújtására meghatározott határidő elteltétől számított harminc napon belül bírálja el. A Fővárosi Ítélőtábla határozatával szemben fellebbezésnek, perújításnak, felülvizsgálati kérelemnek nincs helye.
+
+(4) Ha a Fővárosi Ítélőtábla azt állapítja meg, hogy az Elnök a 43/I. § (7) bekezdés alkalmazásával úgy hozott a pályázat eredménytelenségéről döntést, hogy a Bizottság a jogszabályoknak (ideértve a pályázati kiírás és eljárás szabályait is) megfelelő határozattervezethez nem járult hozzá, az Elnököt új eljárásra kötelezi, amelynek során az Elnök az e határozattervezet tartalmával megegyező döntést hoz a Bizottságnak való megküldés és a Bizottság hozzájárulása nélkül.
+
+(5) A pályázati ajánlatban szereplő adatokról az Elnök a hatósági szerződés megkötéséig harmadik személynek nem adhat tájékoztatást.
+
+43/K. § (1) Az Elnök a 43/I. § (1) bekezdés b) pont szerinti határozattal nyertessé nyilvánított pályázó pályázati ajánlatával és a pályázati kiírási dokumentációval összhangban a nyertessé nyilvánított pályázóval hatósági szerződést köt. E hatósági eljárás ügyintézési határideje negyvenöt nap.
+
+(2) A nyertes pályázó a hatósági szerződés megkötése iránti eljárást a 43/I. § (1) bekezdés b) pont szerinti határozat közlését követő harminc napos jogvesztő határidőn belül kezdeményezheti. E határidő elmulasztása estén igazolási kérelem előterjesztésének nincs helye.
+
+(3) Amennyiben az (1) bekezdés szerinti hatósági eljárásban a pályázat nyertese nem vesz részt vagy a hatósági szerződés megkötését akadályozza, az (1) bekezdésben meghatározott ügyintézési határidőn túl a hatósági szerződés nem köthető meg, ez esetben az Elnök az eljárás megindításától számított negyvenötödik napon az eljárást megszünteti. Az eljárásban igazolási kérelemnek nincs helye.
+
+(4) Amennyiben a 43/J. § (2) bekezdés szerint a Fővárosi Ítélőtábla eljárását kezdeményezték, a hatósági szerződés a Fővárosi Ítélőtábla jogerős döntéséig nem köthető meg. A Fővárosi Ítélőtábla felülvizsgálati eljárásának időtartama a (2) bekezdés szerinti hatósági eljárás kezdeményezésére nyitva álló határidőbe, illetve az eljárás ügyintézési határidejébe nem számít bele.
+
+(5) Az Elnök a pályázati kiírási dokumentációban meghatározott mértékű bírságot szabhat ki, amennyiben a nyertes pályázó a pályázati ajánlatát visszavonja, vagy a hatósági szerződés megkötésére irányuló eljárást a (2) bekezdésben meghatározott határidőn belül nem kezdeményezi, illetve amennyiben a nyertes pályázó a hatósági szerződést nem köti meg.
+
+(6) Az Elnök a bírság kiszabása mellett a pályázati ajánlat visszavonásából, a hatósági szerződés megkötésének akadályozásából származó valamennyi költség viselésére, megfizetésére is kötelezheti a nyertes pályázót.
+
+(7) Amennyiben a hatósági szerződésben meghatározott időpontig a műsorszóró adó üzemeltetése megkezdésére, illetve az adón nyújtott műsorterjesztési szolgáltatás nyújtására – a nyertes pályázó érdekkörében felmerült ok miatt – nem kerül sor, az Elnök jogosult a hatósági szerződésben meghatározott jogkövetkezmények alkalmazásán túlmenően a hatósági szerződést azonnali hatállyal felmondani.
+
+43/L. § (1) Az Elnök hatósági ellenőrzés keretében ellenőrzi a 42. § (6) bekezdés, illetve a 43/K. § alapján megkötött hatósági szerződésekben foglaltak teljesítését. Amennyiben az ellenőrzés eredményeként megállapítja a hatósági szerződésben foglaltak ügyfél általi megsértését, az ellenőrzés során feltárt tények, a szerződésszegés súlya, a hatékony jogérvényesítés, a szerződéssel érintett társadalmi-, gazdasági- és jogviszonyok, valamint a vonatkozó műsorterjesztési alkotmányos alapelvek és célok, továbbá a szerződés alapját képező közérdek hatékony érvényesülése szempontjából mérlegeli, hogy a döntés megsértése tárgyában a Ket. szerinti végrehajtási eljárást vagy az Eht. szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
+
+(2) Amennyiben az Elnök végrehajtási eljárást indít, akkor a végrehajtást elrendelő végzés felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a végzés közlésétől számított tizenöt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a végzés végrehajtására halasztó hatálya van. A Fővárosi Bíróság végzése ellen fellebbezésnek nincs helye.
+
+(3) Ha az Elnök az (1) bekezdés alkalmazásával az e törvény szerinti jogkövetkezmények alkalmazására irányuló eljárást indít, az eljárás megindításával szemben önálló jogorvoslatnak helye nincs.
+
+(4) A hatósági ellenőrzés eredményeként – az ügyfél szerződésszegése tárgyában – indított hatósági eljárásban az Elnök az Eht-ban, valamint a hatósági szerződésben meghatározott jogkövetkezményeket alkalmazhatja.
+
+(5) Súlyos vagy ismételt ügyfél általi szerződésszegés esetében az Elnök jogosult – a hatósági szerződés eltérő rendelkezése hiányában – a hatósági szerződést azonnali hatállyal felmondani.
+
+(6) A hatósági szerződés módosítása vonatkozásában a bíróság előtt indított per nem befolyásolja a hatósági szerződés végrehajtását, érvényesítését, illetve nem rendelkezik halasztó hatállyal a hatósági szerződés végrehajtása, érvényesítése tekintetében.
+
+43/M. § (1) Az Elnök meghatározott időszakra, de legfeljebb három évre közfeladat ellátása érdekében kivételesen pályázati eljárás nélkül is feljogosíthat valamely vállalkozást helyi vagy körzeti műsorterjesztési szolgáltatás nyújtását lehetővé tevő műsorszóró adó üzemeltetésére. E médiaszolgáltatási jogosultságra az Elnök hatósági szerződésben a jogosultság iránti kérelmet elsőként benyújtó természetes, jogi személyt, jogi személyiség nélküli gazdásági társaságot vagy egyéb szervezetet (e § alkalmazásában a továbbiakban: kérelmező) jogosíthatja fel, amennyiben a kérelem műszaki és frekvenciagazdálkodási szempontból megalapozott, továbbá a kérelmező a közfeladat ellátásához szükséges és a műsorszóró adó üzemeltetésére vonatkozó jogszabályi feltételeknek megfelel. A felek a hatósági szerződésben kötelesek meghatározni a műsorszóró adó üzemeltetésére vonatkozó feltételeket, ideértve az üzemeltetési jogosultságért fizetendő díj mértékét is.
+
+(2) Az (1) bekezdés alkalmazásában közfeladatnak az alábbiak minősülnek:
+
+- a) az Alkotmánynak megfelelően kihirdetett szükségállapot, az ország jelentős területét érintő elemi csapás, vagy ipari szerencsétlenség esetén történő és azzal kapcsolatos műsorterjesztés,
+- b) a valamely közösség speciális oktatási, kulturális, tájékoztatási, vagy az adott közösséget érintő meghatározott eseményhez kapcsolódó igényeinek műsorterjesztésen keresztüli szolgálata,
+- c) valamely közösség kultúrájának műsorterjesztésen keresztüli megőrzése, védelme és támogatása, vagy
+- d) a nemzeti, illetve etnikai kisebbségi nyelv műsorterjesztésen keresztüli ápolása.
 
 ### A közszolgálati műsorok műsorszórásának digitális átállása
 
-44. § (1) A közszolgálati műsorszolgáltató műsora analóg szórásának leállítására a műsorszóró hálózatban található adónként kerülhet sor, amennyiben ezen analóg adó vételkörzetében a lakosság digitális földfelszíni műsorszórási ellátottsága és a digitális műsorterjesztési szolgáltatás vételére alkalmas készülékkel rendelkező háztartások aránya ezt lehetővé teszi.
+44. § (1) A közszolgálati médiaszolgáltató műsora analóg szórásának leállítására a műsorszóró hálózatban található adónként kerülhet sor, amennyiben ezen analóg adó vételkörzetében a lakosság digitális földfelszíni műsorszórási ellátottsága és a digitális műsorterjesztési szolgáltatás vételére alkalmas készülékkel rendelkező háztartások aránya ezt lehetővé teszi.
 
-(2) A közszolgálati televízió műsorszolgáltatások analóg műsorszórásának leállítását pályázati kiírásban kell meghatározni.
+(2) A közszolgálati televízió médiaszolgáltatások analóg műsorszórásának leállítását pályázati kiírásban kell meghatározni.
 
-(3) A közszolgálati műsorszolgáltató az Rttv. 132. §-ában meghatározott műsorait a digitális televízió, illetve rádió műsorszóró hálózat, illetve műsorszóró adó üzemeltetője ingyenesen köteles a felhasználók számára elérhetővé tenni. E rendelkezés nem érinti az Rttv. 79–84. §-a szerinti üzembentartási díjat.
+(3) A közszolgálati médiaszolgáltató médiaszolgáltatásait a digitális televízió, illetve rádió műsorszóró hálózat, illetve műsorszóró adó üzemeltetője ingyenesen köteles a felhasználók számára elérhetővé tenni.
 
-(4) A közszolgálati műsorszolgáltatóknak az Rttv. 132. §-ában meghatározott műsorait a digitális televízió műsorszóró hálózat üzemeltetője a legnagyobb lakossági eléréssel rendelkező hálózaton és a mobil vételű digitális televízió műsorszóró hálózaton köteles terjeszteni.
+(4) A közszolgálati médiaszolgáltatók médiaszolgáltatásait a digitális televízió műsorszóró hálózat üzemeltetője a legnagyobb lakossági eléréssel rendelkező hálózaton és a mobil vételű digitális televízió műsorszóró hálózaton köteles terjeszteni.
 
 (5) A közszolgálati műsorok digitális vételének biztosítása érdekében a digitális vevődekóderek állami támogatására a közszolgálati analóg műsorszórás leállítását megelőző három hónapban, verseny-semleges módon, a kizárólag analóg földfelszíni műsorszórási vétellel rendelkező rászoruló háztartások részére, indokolt esetben és mértékben, kérelem alapján külön jogszabályban meghatározottak szerint kerülhet sor.
 
@@ -600,7 +622,7 @@ szolgáló műsorszolgáltató gazdaságilag és műszakilag indokolt szerződé
 
 45. § (1) A digitális átállás költségeit az elkülönített források felhasználásával kell fedezni. Ezek
 
-- a) a Műsorszolgáltatás Támogató és Vagyonkezelő Alap Rttv. 131. § (3) bekezdésében meghatározott forrása,
+- a) a Műsorszolgáltatás Támogató és Vagyonkezelő Alap Mttv.-ben meghatározott forrása,
 - b) az analóg földfelszíni műsorterjesztés célját szolgáló frekvenciahasználat díjának külön jogszabályban meghatározott mértéke,
 - c) a szolgáltatók önkéntes befizetései,
 - d) költségvetési előirányzat, és
@@ -616,7 +638,7 @@ szolgáló műsorszolgáltató gazdaságilag és műszakilag indokolt szerződé
 
 ## NEGYEDIK RÉSZ — A HATÓSÁGOK EGYÜTTMŰKÖDÉSE
 
-46. § (1) A Hivatal és a Médiatanács e törvényben, az Eht.-ban és az Rttv.-ben foglalt feladataik ellátása érdekében jogosultak a rendelkezésre álló adatokat, információkat és iratokat egymásnak hivatalból rendelkezésre bocsátani, ezen Hatóságon belüli együttműködés során az Eht. és az Rttv. adatvédelemre és az üzleti titokra vonatkozó szabályainak figyelembevételével kötelesek eljárni.
+46. § (1) A Hivatal és a Médiatanács e törvényben, az Eht.-ban és az Mttv.-ben foglalt feladataik ellátása érdekében jogosultak a rendelkezésre álló adatokat, információkat és iratokat egymásnak hivatalból rendelkezésre bocsátani, ezen Hatóságon belüli együttműködés során az Eht. és az Mttv. adatvédelemre és az üzleti titokra vonatkozó szabályainak figyelembevételével kötelesek eljárni.
 
 (2) A Hatóság és a Gazdasági Versenyhivatal e törvény céljai és alapelvei érvényre juttatása érdekében a rendelkezésükre álló adatokat, információkat és iratokat – az adatvédelemre és az üzleti titokra vonatkozó szabályok figyelembevételével – egymásnak átadják, feladat- és hatáskörükkel összefüggésben – a másik hatóság kérésére – szakmai kérdésekben véleményt nyilvánítanak, állásfoglalást adnak. Ennek keretében az adatot a másik hatóságnak átadó hatóság többek között értesíti az adatszolgáltatót az adatok átadásáról, és az átvevő hatóság biztosítja, hogy az átadott adatok legalább olyan szintű védelemben részesüljenek, mint az átadó hatóságnál.
 
@@ -661,11 +683,11 @@ szolgáló műsorszolgáltató gazdaságilag és műszakilag indokolt szerződé
 - a) az e törvény 43. § (1) bekezdésében nem említett digitális műsorszóró hálózat, illetve műsorszóró adó üzemeltetési jogosultságok, és az L frekvenciasávban rendelkezésére álló digitális rádió műsorszóró hálózatokhoz kapcsolódó jogosultságok pályázati kiírási határidejét,
 - b) a regionális és helyi közszolgálati műsorok analóg műsorszórásának leállítására vonatkozó eljárási szabályokat.
 
-(3) Felhatalmazást kap az audiovizuális politikáért felelős miniszter arra, hogy az elektronikus hírközlési politikáért felelős miniszterrel együttesen kiadott rendelettel állapítsa meg az analóg és digitális televíziókészülékek forgalomba hozatala műszaki feltételeinek és digitális műsorok vételére való alkalmasságának, az alkalmasság megjelölésének részletes szabályait, amelynek során a Magyar Köztársaság európai uniós és nemzetközi környezetvédelmi kötelezettségvállalásaira tekintettel figyelembe kell venni, hogy az analóg televízió készülékek és a digitális vevődekóderek együttes alkalmazásának tömegessé válása jelentősen több villamosenergia felhasználását teszi szükségessé, mint az integrált digitális televízió készülékek alkalmazása.
+(3) Felhatalmazást kap az audiovizuális politikáért felelős miniszter, hogy az elektronikus hírközlésért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg az analóg és digitális televíziókészülékek forgalomba hozatala műszaki feltételeinek és digitális műsorok vételére való alkalmasságának, az alkalmasság megjelölésének részletes szabályait, amelynek során a Magyar Köztársaság európai uniós és nemzetközi környezetvédelmi kötelezettségvállalásaira tekintettel figyelembe kell venni, hogy az analóg televízió készülékek és a digitális vevődekóderek együttes alkalmazásának tömegessé válása jelentősen több villamosenergia felhasználását teszi szükségessé, mint az integrált digitális televízió készülékek alkalmazása.
 
-(4) Felhatalmazást kap az audiovizuális politikáért felelős miniszter arra, hogy az elektronikus hírközlési politikáért, az államháztartásért és a szociális és munkaügyi politikáért felelős miniszterrel együttesen rendeletben állapítsa meg közszolgálati műsorok digitális vételének biztosítása érdekében a digitális vevődekóderek állami támogatására vonatkozó szabályokat.
+(4) Felhatalmazást kap az audiovizuális politikáért felelős miniszter, hogy az elektronikus hírközlésért felelős miniszter, az államháztartásért felelős miniszter és a szociál- és nyugdíjpolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg közszolgálati műsorok digitális vételének biztosítása érdekében a digitális vevődekóderek állami támogatására vonatkozó szabályokat.
 
-(5) Felhatalmazást kap az elektronikus hírközlési politikáért felelős miniszter arra, hogy rendelettel állapítsa meg az analóg földfelszíni műsorterjesztés célját szolgáló frekvenciahasználat díjából a digitális átállás forrásaként felhasználható mértékét, az államháztartásért és az audiovizuális politikáért felelős miniszterrel egyetértésben.
+(5) Felhatalmazást kap az elektronikus hírközlésért felelős miniszter, hogy rendeletben állapítsa meg az analóg földfelszíni műsorterjesztés célját szolgáló frekvenciahasználat díjából a digitális átállás forrásaként felhasználható mértékét, az államháztartásért és az audiovizuális politikáért felelős miniszterrel egyetértésben.
 
 ### Az Európai Unió jogának való megfelelés
 

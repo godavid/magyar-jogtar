@@ -47,7 +47,7 @@ terjed ki.
 - b) egészségügyi szolgáltató: a külön jogszabály alapján egészségügyi szolgáltatás nyújtására jogosult természetes vagy jogi személy, illetve jogi személyiség nélküli szervezet,
 - c) gyógyszertár: a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény hatálya alá tartozó gyógyszertár,
 - d) gyógyszer: az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 1. §-ának 1. pontjában meghatározott termék és a különleges táplálkozási igényt kielégítő tápszer,
-- e) gyógyászati segédeszköz: a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 3. §-ának 6. pontja szerinti eszköz,
+- e) gyógyászati segédeszköz: a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (továbbiakban: Gyftv.) 3. §-ának 6. pontja szerinti eszköz,
 - f)
 - g) gyógyászati ellátás: az orvosi rehabilitáció céljából társadalombiztosítási támogatással igénybe vehető gyógyászati ellátásokról szóló rendeletben meghatározott ellátás,
 - h) közeli hozzátartozó: a házastárs, az élettárs, az egyeneságbeli rokon, az örökbe fogadott, a mostoha- és nevelt gyermek, az örökbefogadó, a mostoha- és a nevelőszülő, a testvér,
@@ -57,7 +57,12 @@ terjed ki.
 - l) egészségbiztosító: az egészségbiztosítási szerv,
 - m) betegfogadási lista: az adott járóbeteg szakellátó intézményben – amennyiben a biztosított egészségi állapota nem indokolja az azonnali ellátást – a betegellátás sorrendjét szakrendelésenként, az ellátás igénybevételének időpontjával meghatározó lista,
 - n) próbavásárlás: az egészségbiztosító által végzett olyan helyszíni ellenőrzés, melynek során az ellenőrzést végző személy vásárlói szerepben vagy – a gyógyító-megelőző egészségügyi ellátás kivételével – szolgáltatást igénybe vevő szerepben lép fel,
-- o) gyógyító-megelőző eljárások során alkalmazott egészségügyi technológia: az egészség megőrzésére, helyreállítására, illetve az egészségi állapot diagnosztizálására irányuló tevékenységek, illetve ezek kapcsán felhasznált eszközök, anyagok összessége, ide nem értve gyógyászati segédeszköz alkalmazását és gyógyszer gyógyító-megelőző ellátáson kívüli alkalmazását.
+- o) gyógyító-megelőző eljárások során alkalmazott egészségügyi technológia: az egészség megőrzésére, helyreállítására, illetve az egészségi állapot diagnosztizálására irányuló tevékenységek, illetve ezek kapcsán felhasznált eszközök, anyagok összessége, ide nem értve az E. Alap által támogatott azon gyógyszerek és gyógyászati segédeszközök alkalmazását, amelyek vényen rendelhetőek és ártámogatással vehetők igénybe.
+- p) szülő:
+  - pa) a vér szerinti és az örökbefogadó szülő, továbbá az együtt élő házastárs,
+  - pb) az a személy, aki a saját háztartásában élő gyermeket örökbe kívánja fogadni, és az erre irányuló eljárás már folyamatban van,
+  - pc) a gyám,
+  - pd) a nevelőszülő és a helyettes szülő.
 
 ### Egészségbiztosítási ellátásra jogosultak
 
@@ -79,7 +84,7 @@ terjed ki.
 
 ### Egészségügyi szolgáltatók
 
-9. § Az e törvényben foglalt egészségügyi szolgáltatások az egészségbiztosítóval az adott szolgáltatásra finanszírozási szerződéssel rendelkező (a továbbiakban: finanszírozott) egészségügyi szolgáltatónál vehetők igénybe.
+9. § Az e törvényben foglalt egészségügyi szolgáltatások az egészségbiztosítóval az adott szolgáltatásra finanszírozási szerződéssel rendelkező (a továbbiakban: finanszírozott) egészségügyi szolgáltatónál vehetők igénybe. A finanszírozott egészségügyi szolgáltató feladata a 18. § (6) bekezdésében foglalt ellátások közül azok végzése is, amelyek a központi költségvetés terhére az E. Alapon keresztül kerülnek finanszírozásra.
 
 ### II. Fejezet — AZ EGÉSZSÉGBIZTOSÍTÁS EGÉSZSÉGÜGYI SZOLGÁLTATÁSAI
 
@@ -164,7 +169,7 @@ terjed ki.
 - e) étkezésre, ideértve az orvos által rendelt diétát is,
 - f) a rendelkezésre álló, az ellátás szakmai és etikai követelményeinek megfelelő színvonalú elhelyezésre arra az időtartamra, amíg az ellátás fekvőbeteg-gyógyintézeti körülmények között indokolt.
 
-(3) A biztosított külön jogszabályban foglaltak szerint jogosult fekvőbeteg-gyógyintézeti ellátást kiváltó otthoni szakápolásra és otthoni hospice ellátásra.
+(3) A biztosított külön jogszabályban foglaltak szerint jogosult fekvőbeteg-gyógyintézeti ellátást kiváltó otthoni szakápolásra (ideértve az otthoni rehabilitációs ellátást is) és otthoni hospice ellátásra.
 
 (4) A biztosított jogosult társadalombiztosítási ellátásra vagy szociális juttatásra, illetve külön jogszabályban meghatározott kedvezményre való jogosultság megállapítására, annak ellenőrzésére irányuló orvos szakértői véleményt megalapozó kivizsgálásra.
 
@@ -228,7 +233,7 @@ terjed ki.
 - n) a járművezetői alkalmassági vizsgálatok,
 - o) a lőfegyvertartásra vonatkozó orvosi alkalmassági vizsgálatok,
 - p) alkohol, illetve kábítószer hatása alatt állás esetén a detoxikálás,
-- q) alkohol, illetve kábítószer szintjének kimutatása érdekében végzett vérvizsgálatok,
+- q) hatósági eljárásban alkohol, illetve kábítószer szintjének kimutatása érdekében végzett vérvizsgálatok, vizeletvizsgálatok,
 - r) látlelet kiadása,
 - s) a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) 307. §-ának (2) bekezdése szerinti, az alperes elmeállapotára vonatkozó szakorvosi véleményezés,
 - t) a biztosított nem kötelező védőoltással történő immunizálása, kivéve, ha a külön jogszabály szerinti védőoltás térítésmentes,
@@ -238,19 +243,18 @@ terjed ki.
 
 (8)
 
-(9) A járóbeteg-szakellátást, valamint a fogászati alapellátást nyújtó egészségügyi szolgáltató – a külön jogszabályban meghatározott esetek kivételével – a biztosítottat – magyar nyelven, közérthetően megfogalmazott – elszámolási nyilatkozatban tájékoztatja
+(9) A járóbeteg-szakellátást, valamint a fogászati alapellátást nyújtó egészségügyi szolgáltató – e törvény végrehajtására kiadott kormányrendeletben meghatározott esetek kivételével – a biztosítottat kérésére köteles – magyar nyelven, közérthetően megfogalmazott – elszámolási nyilatkozatban tájékoztatni
 
-- a) a biztosított által igénybe vett ellátásról (a külön jogszabály szerinti OENO-kóddal együtt),
-- b) az a) pont szerinti ellátásért az egészségbiztosítási finanszírozás keretében külön jogszabály alapján igényelhető legmagasabb finanszírozási összeg mértékéről,
-- c)
-- d) az ellátásért fizetendő külön jogszabály szerinti térítési díjról, amennyiben az az ellátás igénybevételének feltétele.
+- a) a biztosított által igénybe vett ellátásról (az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendelet szerinti OENO-kóddal együtt),
+- b) az a) pont szerinti ellátásért az egészségbiztosítási finanszírozás keretében az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendelet alapján igényelhető legmagasabb finanszírozási összeg mértékéről,
+- c) az ellátásért fizetendő, a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló kormányrendelet szerinti térítési díjról, amennyiben az az ellátás igénybevételének feltétele.
 
-(10) A fekvőbeteg-gyógyintézet a biztosítottat elbocsátásakor – magyar nyelven, közérthetően megfogalmazott – elszámolási nyilatkozatban tájékoztatja
+(10) A fekvőbeteg-gyógyintézet a biztosítottat kérésére köteles az elbocsátásakor – magyar nyelven, közérthetően megfogalmazott – elszámolási nyilatkozatban tájékoztatni
 
-- a) a biztosított által igénybe vett ellátásról (a külön jogszabály szerinti BNO- és HBCs-kóddal együtt),
-- b) az a) pont szerinti ellátásért az egészségbiztosítási finanszírozás keretében külön jogszabály alapján igényelhető legmagasabb finanszírozási összeg mértékéről,
+- a) a biztosított által igénybe vett ellátásról (az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendelet szerinti BNO- és HBCs-kóddal együtt),
+- b) az a) pont szerinti ellátásért az egészségbiztosítási finanszírozás keretében az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendelet alapján igényelhető legmagasabb finanszírozási összeg mértékéről,
 - c) az ellátási napok számáról,
-- d) az ellátásért fizetendő külön jogszabály szerinti térítési díjról, amennyiben az az ellátás igénybevételének feltétele.
+- d) az ellátásért fizetendő, a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló kormányrendelet szerinti térítési díjról, amennyiben az az ellátás igénybevételének feltétele.
 
 (11) Az elszámolási nyilatkozatot egy példányban kell kiállítani, amelyen a kiállító orvos aláírásával igazolja, hogy a biztosított az abban megnevezett ellátást igénybe vette. Az aláírt elszámolási nyilatkozatot a biztosítottnak át kell adni, ennek tényét az egészségügyi szolgáltató elektronikus formában rögzíti.
 
@@ -379,20 +383,26 @@ támogatást állapít meg,
 - c) a rágóképesség helyreállítása érdekében jogszabályban meghatározott típusú fogpótlásra;
 - d) a fekvőbeteg-gyógyintézeti ellátásra, ha azt a biztosított beutaló nélkül veszi igénybe, kivéve az Eütv. 3. §-ának i) pontja szerinti sürgős szükség körébe tartozó – külön jogszabályban megnevezett – ellátásokat;
 - e) a fekvőbeteg-gyógyintézeti ellátásnak a beutalási rendtől eltérő igénybevételére, ide nem értve az Eütv. 3. §-ának i) pontja szerinti sürgős szükség körébe tartozó – külön jogszabályban megnevezett – ellátásokat;
-- f) saját kezdeményezésére az ellátás 19. § (1) bekezdésében foglaltaktól – többletköltséget okozó – eltérő tartalommal történő igénybevételére;
+- f)
 - g)
-- h) amennyiben állapota indokolja az e feladatra finanszírozott szolgáltatónál ápolás céljából történő elhelyezésre és ápolásra, ideértve a szükséges gyógyszereket és az étkezést is;
+- h)
 - i) az egészségbiztosításért felelős miniszter rendeletében foglalt esetekben szanatóriumi ellátásra;
-- j) az egészségügyi ellátás keretében igénybe vett egyéb kényelmi szolgáltatásokra;
+- j)
 - k) külsődleges nemi jellegek megváltoztatására irányuló beavatkozásra, kivéve, ha fejlődési rendellenesség miatt a genetikailag meghatározott nem külsődleges jegyeinek kialakítása a cél;
 
-24. § (1) A biztosított által is csak térítési díj megfizetése mellett igénybe vehető egészségügyi szolgáltatások díját arra tekintettel kell megállapítani, hogy az adott ellátás keretében a biztosított részére nyújtanak-e olyan szolgáltatást, amelyre a biztosított térítésmentesen jogosult.
+23/A. § A biztosított kiegészítő térítési díj mellett jogosult
 
-(2) Az e fejezetben foglaltak szerint megállapított részleges térítési díjak az egészségügyi szolgáltató bevételét képezik azzal, hogy a szolgáltató a finanszírozási szerződés alapján nem számolhatja el a részleges térítési díj ellenében nyújtott szolgáltatás részleges térítési díjjal fedezett részét. A 23. § b) pontja alapján fizetett részleges térítési díjból az egészségügyi szolgáltató a térítési díj ellenében végzett ellátásban közreműködő személyeket a szabályzatában meghatározott módon külön juttatásban részesítheti.
+- a) saját kezdeményezésére az ellátás 19. § (1) bekezdésében foglaltaktól – többletköltséget okozó – eltérő tartalommal történő igénybevételére,
+- b) az egészségügyi ellátás keretében saját kezdeményezésére igénybe vett egyéb kényelmi szolgáltatásokra, és
+- c) amennyiben állapota indokolja, az e feladatra finanszírozott szolgáltatónál ápolás céljából történő elhelyezésre és ápolásra, ideértve a szükséges gyógyszereket és az étkezést is.
 
-(3) A 23. § c) pontjában meghatározott fogászati ellátások térítési díját 15%-kal csökkenteni kell, amennyiben a biztosított részt vett a külön jogszabályban előírt, időszakos fogászati szűrővizsgálaton.
+24. § (1) A biztosított által is csak részleges vagy kiegészítő térítési díj megfizetése mellett igénybe vehető egészségügyi szolgáltatások díját arra tekintettel kell megállapítani, hogy az adott ellátás keretében a biztosított részére nyújtanak-e olyan szolgáltatást, amelyre a biztosított térítésmentesen jogosult.
 
-(4) A finanszírozott egészségügyi szolgáltató a biztosított részére – annak kezdeményezése alapján, az egészségügyi ellátás szakmai színvonalának érintése nélkül – külön térítési díj ellenében egyéni igénye szerinti étkezést, valamint az egészségi állapota által nem indokolt, a 14. § (2) bekezdés f) pontja szerinti elhelyezéstől eltérő, az intézmény e célra kijelölt részlegében magasabb színvonalú elhelyezést nyújthat, amennyiben
+(2) Az e fejezetben foglaltak szerint megállapított részleges és kiegészítő térítési díjak az egészségügyi szolgáltató bevételét képezik azzal, hogy a szolgáltató a finanszírozási szerződés alapján nem számolhatja el a részleges térítési díj ellenében nyújtott szolgáltatás részleges térítési díjjal fedezett részét. A 23. § b) pontja alapján fizetett részleges térítési díjból az egészségügyi szolgáltató a térítési díj ellenében végzett ellátásban közreműködő személyeket a szabályzatában meghatározott módon külön juttatásban részesítheti.
+
+(3)
+
+(4) A finanszírozott egészségügyi szolgáltató a 23/A. § b) pontja alapján a biztosított részére – annak kezdeményezése alapján, az egészségügyi ellátás szakmai színvonalának érintése nélkül – kiegészítő térítési díj ellenében egyéni igénye szerinti étkezést, valamint az egészségi állapota által nem indokolt, a 14. § (2) bekezdés f) pontja szerinti elhelyezéstől eltérő, az intézmény e célra kijelölt részlegében magasabb színvonalú elhelyezést nyújthat, amennyiben
 
 - a) a többletszolgáltatáshoz szükséges feltételek rendelkezésre állnak,
 - b) a biztosított az egészségügyi szolgáltatónál az ellátást a többletszolgáltatás nélkül is igénybe vehetné, és
@@ -400,17 +410,17 @@ támogatást állapít meg,
 
 25. § (1) Az egészségügyi szolgáltató jól látható helyen kifüggeszti a térítési díjak feltüntetésével a szolgáltatónál térítési díj fizetése mellett igénybe vehető szolgáltatások jegyzékét, továbbá a szolgáltatás megkezdése előtt a biztosítottat tájékoztatja az indokolt és az általa igényelt térítésköteles szolgáltatások díjáról.
 
-(2) A (3) bekezdésben említett szolgáltatások részleges térítési díját a szolgáltató állapítja meg azzal, hogy ez nem tartalmazhat az ellátással kapcsolatban olyan beavatkozásra számított díjat, amelyet a biztosított térítésmentesen jogosult igénybe venni.
+(2) A (3) bekezdésben említett szolgáltatások kiegészítő térítési díját a szolgáltató állapítja meg azzal, hogy ez nem tartalmazhat az ellátással kapcsolatban olyan beavatkozásra számított díjat, amelyet a biztosított térítésmentesen jogosult igénybe venni.
 
-(3) A (2) bekezdésben foglaltak alapján a részleges térítési díj számításánál
+(3) A (2) bekezdésben foglaltak alapján a kiegészítő térítési díj számításánál
 
 - a)
-- b) a 23. § f) pontja tekintetében a vizsgálati és terápiás rend szerinti és az attól eltérő ellátáshoz szükséges diagnosztikus és terápiás anyag- és gyógyszerköltség különbözetét, valamint fekvőbeteg-gyógyintézeti ellátás esetén az ebből eredő többlet ápolási időt is, az ápolási naponkénti étkezési és elhelyezési költséggel,
-- c) a 23. § ga) pontja tekintetében az intézeti nyersanyagnorma és a többlet-nyersanyagköltség különbözetét kell alapul venni.
+- b) a 23/A. § a) pontja tekintetében a vizsgálati és terápiás rend szerinti és az attól eltérő ellátáshoz szükséges diagnosztikus és terápiás anyag- és gyógyszerköltség különbözetét, valamint fekvőbeteg-gyógyintézeti ellátás esetén az ebből eredő többlet ápolási időt is, az ápolási naponkénti étkezési és elhelyezési költséggel,
+- c) a 24. § (4) bekezdésben foglalt egyéni igény szerinti étkezés tekintetében az intézeti nyersanyagnorma és a többlet-nyersanyagköltség különbözetét kell alapul venni.
 
-(4) A 23. § gb) pontja tekintetében a szolgáltató ápolási naponkénti díjat állapít meg.
+(4) A 24. § (4) bekezdésében foglalt magasabb színvonalú elhelyezés tekintetében a szolgáltató ápolási naponkénti díjat állapít meg.
 
-(5) A részleges térítési díjat külön jogszabály állapítja meg a 23. § a), c), h), i) és k) pontjában foglalt ellátások tekintetében.
+(5) A részleges térítési díjat a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló kormányrendelet állapítja meg a 23. § a), c), i) és k) pontjában és a 23/A. § c) pontjában foglalt ellátások tekintetében.
 
 (6) A biztosított által a 23. § b), d) és e) pontja alapján fizetendő részleges térítési díj mértéke annak az összegnek a 30 százaléka, ami az adott ellátásért a külön jogszabályban foglaltak szerint az egészségbiztosító felé elszámolható, azzal, hogy a biztosított által fizetendő összeg nem haladhatja meg a külön jogszabályban meghatározott összeget.
 
@@ -420,23 +430,24 @@ egészségügyi szolgáltatások
 
 26. § (1) Az egészségbiztosító – az E. Alap költségvetésében meghatározott keretek között – méltányosságból
 
-- a) a Magyarországon szakmailag elfogadott, de a finanszírozásba még be nem fogadott eljárások, a befogadott egészségügyi szolgáltatás befogadástól eltérő alkalmazása, illetve a biztosított által részleges térítési díj megfizetése mellett az egészségbiztosítás terhére igénybe vehető egészségügyi szolgáltatások térítési díját vagy annak egy részét átvállalhatja,
+- a) a Magyarországon szakmailag elfogadott, de a finanszírozásba még be nem fogadott eljárások, a befogadott egészségügyi szolgáltatás befogadástól eltérő alkalmazása, illetve a biztosított által részleges, illetve kiegészítő térítési díj megfizetése mellett az egészségbiztosítás terhére igénybe vehető egészségügyi szolgáltatások térítési díját vagy annak egy részét átvállalhatja,
 - b)
-- c) a társadalombiztosítási támogatásba még be nem fogadott, támogatással nem rendelhető allopátiás gyógyszer, különleges táplálkozási igényt kielégítő tápszer, gyógyászati segédeszköz árához támogatást nyújthat.
+- c) a társadalombiztosítási támogatásba még be nem fogadott, támogatással nem rendelhető allopátiás gyógyszer, különleges táplálkozási igényt kielégítő tápszer, gyógyászati segédeszköz árához támogatást nyújthat,
+- d) támogatást nyújthat méltányosságból már támogatott gyógyászati segédeszköz javítási díjához,
 
 (2) Az egészségbiztosító méltányosságból a gyógyászati segédeszközök árához a külön jogszabályban foglaltaktól eltérő gyakorisággal támogatást nyújthat.
 
 (3) A méltányossági jogkör gyakorlása nem terjed ki
 
-- a) a 23. § b), d)–g) és j) pontjai alapján, valamint
+- a) a 23. § b), d)–e) és a 23/A. § a)–b) pontjai alapján, valamint
 - b) a szakmai szempontok figyelembevételével összeállított várólista alapján igénybe vehető ellátásokra,
 - c) a külön jogszabály alapján háromhavi terápiás (HTL) alapú támogatásban részesített, illetve az egyszerűsített támogatási jegyzékben felsorolt funkcionális csoportokba (alcsoportokba) tartozó gyógyászati segédeszközök körére,
 - d) az (1) bekezdés c) pontja szerinti gyógyászati segédeszközre, amennyiben a biztosított adott indikációban a gyógyászati segédeszközt – külön jogszabály alapján – támogatással kölcsönzi.
 
-(4) Nem nyújtható az (1) bekezdés c) pontja szerinti támogatás olyan gyógyszerhez vagy gyógyászati segédeszközhöz,
+(4) Nem nyújtható az (1) bekezdés c) pontja szerinti támogatás
 
-- a) amelyre vonatkozóan a gyógyszer forgalomba hozatali engedélyének jogosultja, gyógyászati segédeszköz forgalomba hozója a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény szerinti támogatásba való befogadást a méltányossági kérelem benyújtását megelőző 5 évben kérelmezte, és az egészségbiztosítási szerv elutasító határozatot hozott, kivéve, ha az elutasítás költségvetési fedezet hiányára alapult,
-- b) amely esetén a kérelem benyújtása hónapját megelőző hónap kezdőnapját közvetlenül megelőző tizenkét hónapban az azonos hatóanyag-tartalmú készítményekkel, azonos funkcionális csoportba tartozó gyógyászati segédeszközökkel méltányosság alapján kezelt betegek száma elérte az 50 főt.
+- a) olyan gyógyszerhez vagy gyógyászati segédeszközhöz, amelyre vonatkozóan a Gyftv. szerinti támogatásba való befogadást a méltányossági kérelem benyújtását megelőző 5 évben kérelmezte, és az egészségbiztosítási szerv elutasító határozatot hozott, kivéve, ha az elutasítás költségvetési fedezet hiányán alapult,
+- b) olyan, Magyarországon az adott indikációra forgalomba hozatali engedéllyel rendelkező gyógyszerhez, amely esetén a kérelem benyújtása hónapját megelőző hónap kezdőnapját közvetlenül megelőző tizenkét hónapban az azonos hatóanyag-tartalmú készítményekkel méltányosság alapján kezelt betegek száma elérte az 50 főt, kivéve azon gyógyszereket, melyekre vonatkozó azonos indikációs területre benyújtott társadalombiztosítási támogatás iránti kérelem elbírálása az egészségbiztosítási szervnél már folyamatban van.
 
 (5) Az (1) bekezdés alapján méltányosságból támogatás
 
@@ -580,7 +591,12 @@ igazolja.
 
 (6) Az egészségbiztosító külön jogszabályban foglaltak szerint gyógyszer, gyógyászati segédeszköz saját maga vagy a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti hozzátartozója részére (pro família) támogatással történő rendelésére jogosító szerződést köt az orvossal, amennyiben az orvos megfelel az (1) bekezdésben foglalt feltételeknek.
 
-(7) Az az orvos, aki rendelkezik a (6) bekezdés szerinti szerződéssel, jogosult saját maga vagy a Ptk. szerinti hozzátartozója szakorvosi ellátásra történő beutalására.
+(7) Az az orvos, aki rendelkezik a (6) bekezdés szerinti szerződéssel, jogosult saját maga vagy a Ptk. szerinti hozzátartozója részére
+
+- a) szakorvosi vizsgája vagy szakorvos javaslata alapján olyan szakorvosi szakképesítéshez vagy szakorvosi javaslathoz kötött gyógyszer rendelésére, amelynek rendelési feltételeként miniszteri rendeletben meghatározott munkahelye megkötés nélküli, valamint amelyet járóbeteg-szakrendelésen vagy fekvőbeteg-gyógyintézetben az adott szakorvosi szakképesítéssel rendelkező orvos rendelhet vagy javasolhat,
+- b) szakorvosi szakképesítéshez vagy szakorvosi javaslathoz kötött gyógyászati segédeszköz rendelésére szakorvosi vizsgája vagy szakorvos javaslata alapján a rendelés feltételeként miniszteri rendeletben meghatározott munkahelyi követelménytől függetlenül,
+- c) szakorvosi szakképesítéshez vagy szakorvosi javaslathoz nem kötött gyógyszer, gyógyászati segédeszköz támogatással történő rendelésére, és
+- d) szakorvosi ellátásra jogosító beutaló kiállítására, ha e törvény végrehajtására kiadott kormányrendelet másként nem rendelkezik.
 
 (8) Az egészségbiztosító a külön jogszabályban meghatározott feladatot ellátó nem finanszírozott egészségügyi szolgáltatóval a 18. § (1) bekezdés szerinti beutalásra jogosító szerződést köt.
 
@@ -651,7 +667,7 @@ igazolja.
 
 (2) Az egészségbiztosító jogosult a szolgáltatásokhoz szükséges személyi és tárgyi feltételek vizsgálatára – ideértve a helyszíni ellenőrzést is –, a biztosított ellátására vonatkozó dokumentumokba és az elszámolás alapjául szolgáló nyilvántartásokba való betekintésre, a külön jogszabályban foglaltak szerint a biztosított vizsgálatára, a biztosított ellátása orvosszakmai indokoltságának felülvizsgálatára, valamint a (3) bekezdésben foglaltak ellenőrzésére.
 
-(3) Az egészségbiztosító ellenőrzi a finanszírozott egészségügyi szolgáltatások elszámolási rendjét, az elszámolások valódiságát, a folyósított pénzeszközök felhasználásának pénzügyi szabályszerűségét és elkülönítését. Az egészségbiztosító ellenőrzi, hogy az egészségügyi szolgáltató az elszámolási nyilatkozattal kapcsolatos kötelezettségeit teljesíti-e.
+(3) Az egészségbiztosító ellenőrzi a finanszírozott egészségügyi szolgáltatások elszámolási rendjét, az elszámolások valódiságát, a folyósított pénzeszközök felhasználásának pénzügyi szabályszerűségét és elkülönítését.
 
 (4) Az egészségbiztosító ellenőrzi az egészségügyi dokumentáció vezetésére, a beutalás rendjére, továbbá a támogatással rendelhető gyógyszer, gyógyászati segédeszköz rendelésére, készletben tartására, kiszolgáltatására és nyilvántartására, valamint gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás támogatással történő rendelésére és nyújtására vonatkozó előírások megtartását, érvényesülését. A gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás támogatással történő rendelésére a 32. § alapján jogosult orvos az ellenőrzést végző személy rendelkezésére bocsátja az érintett biztosítottra vonatkozó, az ellenőrzés lefolytatásához szükséges egészségügyi dokumentációt.
 
@@ -665,37 +681,45 @@ igazolja.
 
 (9) Az egészségbiztosító az (1)–(7) bekezdésekben foglalt ellenőrzések során a 30. § és a 31–33/A. §-ok szerinti szerződések alapján, mint szerződő fél jár el.
 
-37. § (1) Az egészségügyi szolgáltató megtéríti
+37. § (1) A finanszírozott egészségügyi szolgáltató megtéríti az elszámolt ellátás finanszírozási összegének 150 százalékát, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a szolgáltató el nem végzett ellátást vagy a finanszírozási szerződésében nem szereplő ellátást számolt el.
 
-- a) az elszámolt ellátás finanszírozási összegét, ha az ellenőrzés során megállapítják, hogy
-  - aa) a finanszírozási szerződésben nem szereplő ellátást,
-  - ab) részére nem engedélyezett vagy általa nem végezhető ellátást,
-  - ac) más forrásból megtérülő ellátást,
-  - ad) el nem végzett ellátást,
-  - ae) orvosszakmailag indokolatlanul nem a hatályos jogszabályoknak, finanszírozási protokolloknak, ennek hiányában nem az érvényes szakmai protokolloknak, vagy mindezek hiányában nem az egészségügyről szóló 1997. évi CLIV. törvény 119. § (3) bekezdésében foglalt szakmai előírásoknak (ez utóbbi három a továbbiakban együtt: szakmai előírás) megfelelően nyújtott ellátást számolt el, vagy
-  - af) az egészségügyi szolgáltató vagy beutalásra jogosult orvosa nem a hatályos jogszabályoknak vagy szakmai előírásoknak megfelelően járt el az egészségügyi szolgáltatások rendelésénél,
-  - ag) az elvégzett ellátásokat nem a hatályos jogszabályoknak vagy a finanszírozási szabálykönyvben foglaltak szerint számolta el,
-- b) a kifizetett finanszírozási többletet, ha az ellenőrzés során megállapítják, hogy egy ellátást több vagy magasabb összegű finanszírozásra jogosító jogcímen számolt el.
+(2) A finanszírozott egészségügyi szolgáltató megtéríti az elszámolt ellátás finanszírozási összegét, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a szolgáltató
 
-(2) Az (1), az (5) és (6), valamint a (9) bekezdés, illetőleg a 31. § (5) bekezdése és a 35. § (6) bekezdése szerinti megtérítési, illetve visszatérítési kötelezettség a jogalap nélkül igénybe vett finanszírozás, illetve az ártámogatás folyósítását követő öt éven belül a finanszírozás és az ártámogatás elszámolása során is érvényesíthető.
+- a) vagy a beutalásra jogosult orvosa nem a hatályos jogszabályoknak vagy szakmai előírásoknak megfelelően járt el az egészségügyi szolgáltatások rendelésénél,
+- b) a miniszteri rendeletben kihirdetett finanszírozási eljárásrendeknek, ennek hiányában az érvényes szakmai protokolloknak vagy mindezek hiányában az Eütv. 119. § (3) bekezdésében foglalt szakmai előírásoknak (a továbbiakban együtt: orvosszakmai előírások) nem megfelelően nyújtott ellátást számolt el, vagy
+- c) más forrásból megtérülő ellátást számolt el.
 
-(3) A gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás társadalombiztosítási támogatással történő rendelésére a 32. § szerinti szerződés alapján jogosult orvos a rendelésre vonatkozó jogszabályok vagy szakmai előírások megszegésével rendelt gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás után köteles megtéríteni a folyósított társadalombiztosítási támogatás összegének azon részét, amelyre a biztosított nem volt jogosult.
+(3) A finanszírozott egészségügyi szolgáltató megtéríti a kifizetett finanszírozási többletet, ha az egészségbiztosító az ellenőrzése során megállapítja, hogy egy ellátást több vagy magasabb összegű finanszírozásra jogosító jogcímen számolt el.
 
-(4) Amennyiben a (3) bekezdés szerint jogosulatlanul rendelt és kifizetett támogatás összege meghaladja a tárgyhónapban a külön jogszabályban meghatározott mértéket, a támogatással történő rendelésre való jogosultságot – a (3) és (6) bekezdésben foglaltak mellett – legfeljebb egy évre fel kell függeszteni vagy fel kell mondani, és a szerződés megszűnésétől számított legalább egy, legfeljebb három évig az érintett orvossal a 32. § szerinti szerződés nem köthető.
+(4) A finanszírozott egészségügyi szolgáltató – az (1)–(3) bekezdés alá nem tartozó esetekben – megtéríti az elszámolt ellátás finanszírozási összegének 20 százalékát, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a szolgáltató orvosszakmai szempontból indokolt ellátást nem a hatályos jogszabályoknak megfelelően számolt el.
 
-(5) A finanszírozott egészségügyi szolgáltató az általa vagy a támogatással történő rendelésre jogosult orvosa által a rendelésre vonatkozó jogszabályok vagy szakmai előírások megszegésével rendelt gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás után köteles megtéríteni a folyósított társadalombiztosítási támogatás összegének azon részét, amelyre a biztosított nem volt jogosult.
+(5) A finanszírozott egészségügyi szolgáltató megtéríti a gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás után folyósított társadalombiztosítási támogatás összegének 150 százalékát, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a szolgáltató vagy a szolgáltató orvosa
 
-(6) Amennyiben a gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás jogosulatlan rendelése közgyógyellátás jogcímen történt, a jogosulatlanul rendelt gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás után folyósított társadalombiztosítási támogatás összegén túl a közgyógyellátás jogcímcsoport előirányzatból finanszírozott összeget is meg kell téríteni.
+- a) valótlan mennyiségű gyógyszert, gyógyászati segédeszközt, gyógyászati ellátást,
+- b) el nem végzett ellátás keretében gyógyszert, gyógyászati segédeszközt, gyógyászati ellátást, vagy
+- c) a szerződésében nem szereplő gyógyászati ellátást társadalombiztosítási támogatással rendelt.
 
-(7) Az (1), a (3), az (5) és (6), valamint a (9) bekezdések, illetőleg a 31. § (5) és a 35. § (6) bekezdése szerinti követelés összege után a jegybanki alapkamat kétszeresét kell fizetni, amennyiben a kamat összege meghaladja az 1000 forintot.
+(6) A finanszírozott egészségügyi szolgáltató megtéríti a gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás után folyósított társadalombiztosítási támogatás összegét, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a szolgáltató vagy a szolgáltató orvosa az orvosszakmai előírásoknak nem megfelelően, indokolatlanul rendelt társadalombiztosítási támogatással gyógyszert, gyógyászati segédeszközt vagy gyógyászati ellátást vagy más forrásból megtérülő gyógyszert, gyógyászati segédeszközt, gyógyászati ellátást társadalombiztosítási támogatással rendelt.
 
-(8) Amennyiben a gyógyszerek és gyógyászati segédeszközök rendelésére jogosult orvos a külön törvényben és annak felhatalmazása alapján kiadott rendeletben foglalt, a társadalombiztosítási támogatással rendelhető gyógyszerek és gyógyászati segédeszközök reklámozására és ismertetésére vonatkozó szabályokat megszegi, úgy – az eljáró hatóság kezdeményezésére – a támogatással történő rendelésre való jogosultságát legfeljebb egy évre fel kell függeszteni.
+(7) A finanszírozott egészségügyi szolgáltató – a (8) bekezdésben foglalt kivétellel – megtéríti a gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás után folyósított társadalombiztosítási támogatás összegének 20 százalékát, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás társadalombiztosítási támogatással történt rendelése a hatályos jogszabályoknak nem felelt meg, de orvosszakmai szempontból indokolt, szükséges és az orvosszakmai előírásoknak megfelelő volt.
 
-(9) A szakorvosi javaslatot adó orvos a külön jogszabályban foglalt szakorvosi javaslatra vonatkozó előírások megszegésével adott javaslata alapján rendelt gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás után köteles megtéríteni a folyósított társadalombiztosítási támogatás összegének azon részét, amelyre a biztosított nem volt jogosult.
+(8) A finanszírozott egészségügyi szolgáltató megtéríti a gyógyszer, gyógyászati segédeszköz után folyósított társadalombiztosítási támogatás összegének azon részét, amelyre a biztosított nem volt jogosult, amennyiben az egészségbiztosító az ellenőrzése során megállapítja, hogy a szolgáltató vagy a szolgáltató orvosa gyógyszert, gyógyászati segédeszközt a kiemelt és emelt társadalombiztosítási támogatásra jogosító indikációnak nem megfelelően rendelt. Amennyiben a gyógyszer, gyógyászati segédeszköz rendelése a rendelés időpontjában érvényes szakorvosi javaslat alapján történt, a szakorvosi javaslatot adó, finanszírozási szerződéssel rendelkező szolgáltató megtéríti a folyósított társadalombiztosítási támogatás összegének azon részét, amelyre a biztosított nem volt jogosult.
 
-(10) Amennyiben az (1) bekezdés alapján az egészségügyi szolgáltató megtérítési kötelezettsége meghaladja az ellenőrzött időszak alatt az egészségügyi szolgáltatónak járó teljes finanszírozási összeg húsz százalékát, az egészségbiztosító a finanszírozási szerződést felmondhatja.
+(9) A gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás társadalombiztosítási támogatással való rendelésére a 32. § szerinti szerződés alapján jogosult orvos tekintetében az (5)–(8) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
-(11) Amennyiben a 32. § (8) bekezdés szerinti szerződés alapján a nem finanszírozott egészségügyi szolgáltató orvosa nem a hatályos jogszabályoknak vagy szakmai szabályoknak megfelelően járt el az egészségügyi szolgáltatásokra történő beutalás során, a szolgáltató köteles megtéríteni az elszámolt ellátás finanszírozási összegét.
+(10) Az (1)–(9) bekezdés, a (12) bekezdés, valamint a 31. § (5) bekezdése és a 35. § (6) bekezdése szerinti követelés az igénybe vett finanszírozás, illetve az ártámogatás folyósítását követő öt éven belül a finanszírozás és az ártámogatás elszámolása során is érvényesíthető.
+
+(11) Amennyiben a (9) bekezdés alapján megállapított megtérítési kötelezettség összege meghaladja a tárgyhónapban az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértéket, a támogatással történő rendelésre való jogosultságot – a megtérítési kötelezettség érvényesítése mellett – legfeljebb egy évre fel kell függeszteni vagy fel kell mondani, és a szerződés megszűnésétől számított legalább egy, legfeljebb három évig az érintett orvossal a 32. § szerinti szerződés nem köthető.
+
+(12) Amennyiben gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás (5)–(6) bekezdés szerinti jogosulatlan rendelése közgyógyellátás jogcímen történt, a jogosulatlanul rendelt gyógyszerre, gyógyászati segédeszközre, gyógyászati ellátásra vonatkozóan az (5)–(6) bekezdésben megállapított összegen túl a közgyógyellátás jogcímcsoport előirányzatból finanszírozott összeget is meg kell téríteni.
+
+(13) A (2)–(4) bekezdés, a (6)–(9) bekezdés, a (12) bekezdés, a (16) bekezdés, valamint a 31. § (5) bekezdés és a 35. § (6) bekezdése szerinti követelés összege után a fizetési kötelezettség megállapításakor érvényes jegybanki alapkamat kétszeresét kell fizetni, amennyiben a kamat összege meghaladja az 1000 forintot.
+
+(14) Amennyiben a gyógyszerek és gyógyászati segédeszközök rendelésére jogosult orvos a Gyftv.-ben és annak felhatalmazása alapján kiadott jogszabályban foglalt, a társadalombiztosítási támogatással rendelhető gyógyszerek és gyógyászati segédeszközök reklámozására és ismertetésére vonatkozó szabályokat megszegi, úgy – az eljáró hatóság kezdeményezésére – a támogatással történő rendelésre való jogosultságát legfeljebb egy évre fel kell függeszteni.
+
+(15) Amennyiben az (1)–(4) bekezdés alapján az egészségügyi szolgáltató megtérítési kötelezettsége meghaladja az ellenőrzött időszak alatt az egészségügyi szolgáltatónak járó teljes finanszírozási összeg húsz százalékát, az egészségbiztosító a finanszírozási szerződést felmondhatja.
+
+(16) Amennyiben a 32. § (8) bekezdés szerinti szerződés alapján a nem finanszírozott egészségügyi szolgáltató orvosa nem a hatályos jogszabályoknak vagy szakmai szabályoknak megfelelően járt el az egészségügyi szolgáltatásokra történő beutalás során, a nem finanszírozott szolgáltató köteles megtéríteni az elszámolt ellátás finanszírozási összegét.
 
 38. § (1) Gyógyszer támogatással történő kiszolgáltatásának, illetve gyógyászati segédeszköz támogatással történő forgalmazásának ellenőrzése során az egészségbiztosító vizsgálja
 
@@ -709,7 +733,7 @@ igazolja.
 
 (2) Gyógyászati ellátás támogatással történő nyújtásának az ellenőrzése során az egészségbiztosító az (1) bekezdés c)–d) pontjában foglaltakat vizsgálja.
 
-(3) Ha az (1)–(2) bekezdés alapján megállapításra kerül, hogy a kiszolgáltató, forgalmazó vagy az ellátást nyújtó a támogatás elszámolására vonatkozó szabályokat megszegte, az az így elszámolt támogatásnak a jegybanki alapkamat kétszeresével növelt összegét visszatéríti. A visszatérítési kötelezettség a támogatás jogalap nélküli elszámolását követő 2 éven belül támogatás elszámolása során is érvényesíthető.
+(3) Ha az (1)–(2) bekezdés alapján megállapításra kerül, hogy a kiszolgáltató, forgalmazó vagy az ellátást nyújtó a támogatás elszámolására vonatkozó szabályokat megszegte, az az így elszámolt támogatásnak a fizetési kötelezettség megállapításakor érvényes jegybanki alapkamat kétszeresével növelt összegét visszatéríti. Nem kell megfizetni a kamatot, ha annak összege az 1000 forintot nem éri el. A visszatérítési kötelezettség a támogatás jogalap nélküli elszámolását követő 2 éven belül támogatás elszámolása során is érvényesíthető.
 
 (4) Amennyiben a kiszolgáltató, forgalmazó vagy az ellátást nyújtó a támogatás elszámolására vonatkozó előírásokat
 
@@ -724,7 +748,7 @@ igazolja.
 - b) a gyógyszer-kiszolgáltatás gyógyszerkeret összegéig terjedő mértékét,
 - c) a közgyógyellátás keretében elszámolt térítési díj kiszámításának jogszerűségét és pontosságát.
 
-(7) Ha megállapításra kerül, hogy a kiszolgáltató, forgalmazó, ellátást nyújtó a közgyógyellátásra vonatkozó szabályokat megszegte, az elszámolt támogatásnak a (3) bekezdés szerinti összegén túlmenően a közgyógyellátás jogcímcsoport előirányzatból finanszírozott összegnek a jegybanki alapkamat kétszeresével növelt összegét is visszatéríti.
+(7) Ha megállapításra kerül, hogy a kiszolgáltató, forgalmazó, ellátást nyújtó a közgyógyellátásra vonatkozó szabályokat megszegte, az elszámolt támogatásnak a (3) bekezdés szerinti összegén túlmenően a közgyógyellátás jogcímcsoport előirányzatból finanszírozott összegnek a fizetési kötelezettség megállapításakor érvényes jegybanki alapkamat kétszeresével növelt összegét is visszatéríti.
 
 (8) Amennyiben a gyógyszerek és gyógyászati segédeszközök forgalmazására jogosult személy a külön törvényben és annak felhatalmazása alapján kiadott rendeletben foglalt, a társadalombiztosítási támogatással rendelhető gyógyszerek és gyógyászati segédeszközök reklámozására és ismertetésére vonatkozó szabályokat megszegi, úgy – az eljáró hatóság kezdeményezésére – a támogatással történő forgalmazást legfeljebb egy év időtartamra fel kell függeszteni.
 
@@ -748,7 +772,9 @@ ellátásért a biztosítottal térítési díjat fizettetett, kötelezi az egé
 
 (5) Az adategyeztetés során az egészségbiztosító a 36. § (2)–(3) és (5) bekezdésben foglaltak figyelembevételével jár el.
 
-#### 38/C. §
+### Záró ellenőrzés
+
+38/C. § Ha az egészségügyi szolgáltató 30. § (1)–(2) bekezdése szerinti szerződése megszűnik, és az abból származó jogok és kötelezettségek teljes köre tekintetében jogutód személy a 30. § (1) vagy (2) bekezdése szerinti szerződéssel nem rendelkezik, vagy ha a szerződés megszűnését követően nem következik be jogutódlás, az egészségbiztosító a szerződés megszűnését követő 90 napon belül záró ellenőrzést végez. A záró ellenőrzés tekintetében a 36. §, a 37. § (1)–(8) és (12)–(14) bekezdés, a 38. § (1)–(3) és (6)–(7) bekezdés, valamint a 38/A. § szerinti, a szerződés teljesítésének ellenőrzésére vonatkozó szabályok alkalmazandók. A záró ellenőrzést követően az egészségbiztosító a szolgáltató által kezelt adatokat, az esetleges elszámolásokkal kapcsolatos igényérvényesítés határidejének lejártáig, és kizárólag az igényérvényesítés elbírálásának érdekében kezelheti.
 
 #### 38/D. §
 
@@ -768,7 +794,9 @@ PÉNZBELI ELLÁTÁSAI
 
 (5) Ha a közös háztartásban élő gyermek után az egyik szülő (1) bekezdés szerinti ellátást, vagy gyermekgondozási támogatást vesz igénybe, úgy a másik szülő gyermekápolási táppénzre szerezhet jogosultságot, feltéve, hogy az ellátások nem ugyanazon gyermek után kerülnek megállapításra.
 
-(6) Az (1)–(5) bekezdésben említett ellátások között a biztosított, illetőleg a szülő a jogosultság fennállása alatt választhat. A táppénz, a baleseti táppénz, a terhességi-gyermekágyi segély, a gyermekgondozási díj, a gyermekgondozási segély, valamint a gyermeknevelési támogatás folyósítása alatt választott újabb ellátást a választás napjától – a korábban folyósított ellátás folyósításának megszüntetésével – lehet megállapítani és folyósítani.
+(6) Az (1)–(5) bekezdésben említett ellátások között a biztosított, illetve a szülő a jogosultság fennállása alatt választhat. A táppénz, a baleseti táppénz, a terhességi-gyermekágyi segély, a gyermekgondozási díj, a gyermekgondozási segély, valamint a gyermeknevelési támogatás folyósítása alatt választott újabb ellátásra való jogosultságot a biztosított, illetve a szülő által megjelölt időponttól kell megállapítani, feltéve, hogy a jogosultság feltételeivel már ekkortól rendelkezik.
+
+(7) A választott újabb ellátást a korábban megállapított ellátás folyósításának megszüntetését követő naptól kell folyósítani. A választott újabb ellátás visszamenőlegesen járó összegét csökkenteni kell az újabb ellátásra való jogosultság kezdő napjától a korábban megállapított ellátás folyósítása megszüntetésének napjáig kifizetett ellátás nettó összegével. Az ellátások közötti különbözet kamatmentes kifizetésére a csökkentés teljesítését követő három munkanapon belül kerül sor.
 
 39/A. § (1) Az egészségbiztosítási pénzellátás (terhességi-gyermekágyi segély, a gyermekgondozási díj, a táppénz) összegének megállapításánál jövedelemként azt az összeget kell figyelembe venni, amely után a biztosított pénzbeli egészségbiztosítási járulék fizetésére kötelezett volt.
 
@@ -787,7 +815,7 @@ PÉNZBELI ELLÁTÁSAI
 - b) közép- vagy felsőfokú oktatási intézmény nappali tagozatán egy évnél hosszabb ideje folytatott tanulmányok idejéből 180 napot,
 - c) a rehabilitációs járadék folyósításának idejét.
 
-(3) A terhességi-gyermekágyi segély a szülési szabadságnak megfelelő időtartamra jár.
+(3) A terhességi-gyermekágyi segély a szülési szabadságnak megfelelő időtartamra jár. Ha a terhességi-gyermekágyi segély iránti kérelem a szülés várható időpontját megelőző 28 napnál korábban kerül benyújtásra, akkor a kérelem elbírálására vonatkozó határidő a szülés várható időpontját megelőző 28. napon kezdődik.
 
 (4) Terhességi-gyermekágyi segély a gondozásba vétel napjától a szülési szabadság még hátralevő tartamára annak a nőnek is jár, aki a csecsemőt örökbefogadási szándékkal nevelésbe vette, ha az (1) bekezdésben foglalt feltételek a gondozásba vétel napján fennállnak.
 
@@ -817,11 +845,7 @@ PÉNZBELI ELLÁTÁSAI
 
 és a gyermeket saját háztartásában neveli.
 
-(2) A 39. § (3)–(5) bekezdése, valamint az (1) bekezdés a) pontjának alkalmazásakor szülő alatt érteni kell
-
-- a) a vér szerinti és az örökbefogadó szülőt, továbbá a szülővel együtt élő házastársat,
-- b) azt a személyt, aki a saját háztartásában élő gyermeket örökbe kívánja fogadni, és az erre irányuló eljárás már folyamatban van,
-- c) a gyámot.
+(2) Az (1) bekezdés a) pontjának alkalmazásakor nem tekinthető szülőnek a nevelőszülő és a helyettes szülő.
 
 (3)
 
@@ -836,6 +860,8 @@ PÉNZBELI ELLÁTÁSAI
 (2) Abban az esetben, ha a gyermekgondozási díjra jogosult a jogosultság megszerzésekor vagy azt megelőző 2 éven belül jogosult volt gyermekgondozási díjra, a gyermekgondozási díj folyósításának időtartama nem lehet rövidebb a korábbi gyermekgondozási díj (1) bekezdés alapján megállapított időtartamánál, és ezen gyermekgondozási díj folyósításának időtartama nem hosszabbodik meg a korábbi terhességi-gyermekágyi segély, gyermekgondozási díj, gyermekgondozási segély jogosultsági idejével.
 
 (3) Ha a gyermeket szülő nő – ideértve a gyermeket örökbe fogadni szándékozó nőt is – meghal, vagy a gyermek nem az ő háztartásában nevelkedik, úgy a gyermekgondozási díj az arra jogosult személynek a terhességi-gyermekágyi segélyre jogosító időtartamra, illetőleg annak fennmaradó részére is jár.
+
+(4) Amennyiben a gyermekgondozási díj iránti kérelem a szülési szabadság vagy az annak megfelelő időtartam lejártát megelőzően kerül benyújtásra, a kérelem elbírálására vonatkozó határidő kezdőnapja a szülési szabadság, illetve az annak megfelelő időtartam lejártát követő nap.
 
 42/C. § Nem jár a gyermekgondozási díj, ha
 
@@ -872,7 +898,7 @@ PÉNZBELI ELLÁTÁSAI
 - b) aki terhessége, illetőleg szülése miatt nem tudja munkáját ellátni, és terhességi-gyermekágyi segélyre nem jogosult;
 - c) az anya, ha kórházi ápolás alatt álló egyévesnél fiatalabb gyermekét szoptatja;
 - d)
-- e) az a szülő, nevelőszülő és helyettes szülő, aki tizenkét évesnél fiatalabb beteg gyermekét ápolja;
+- e) a szülő, aki tizenkét évesnél fiatalabb beteg gyermekét ápolja és a gyermeket a saját háztartásában neveli;
 - f) aki fekvőbeteg-gyógyintézeti ellátásban betegségének megállapítása vagy gyógykezelése miatt részesül;
 - g) akit közegészségügyi okból foglalkozásától eltiltanak és más beosztást nem kap, vagy akit közegészségügyi okból hatóságilag elkülönítenek, továbbá aki járványügyi, illetőleg állategészségügyi zárlat miatt munkahelyén megjelenni nem tud és más munkahelyen (munkakörben) átmenetileg sem foglalkoztatható.
 
@@ -944,9 +970,9 @@ PÉNZBELI ELLÁTÁSAI
 
 48/A. § Amennyiben a biztosítási jogviszonya megszűnését követően táppénzre jogosult egészségi állapota alapján várható, hogy a 46. § (1) bekezdésének a) pontjában meghatározott idő elteltével a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvénynek (a továbbiakban: Tny.) 23. §-a szerinti nyugellátásra, illetőleg a rehabilitációs járadékról szóló 2007. évi LXXXIV. törvény (a továbbiakban: Rjtv.) szerinti rehabilitációs járadékra válik jogosulttá, a keresőképességét elbíráló orvos a táppénzre való jogosultság lejárta előtt legalább 15 nappal kezdeményezi az egészségkárosodás mértékének külön jogszabály szerint történő megállapítását.
 
-49. § (1) A gyermekgondozási segély, a gyermeknevelési támogatás vagy az ápolási díj mellett munkát végző biztosítottra a táppénzre vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy
+49. § (1) A gyermeknevelési támogatás vagy az ápolási díj mellett munkát végző biztosítottra a táppénzre vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy
 
-- a) a táppénzfolyósítás időtartamának megállapításánál biztosítási időként csak a gyermekgondozási segély, a gyermeknevelési támogatás vagy az ápolási díj folyósításának időtartama alatt biztosítási jogviszonyban töltött napokat lehet figyelembe venni,
+- a) a táppénzfolyósítás időtartamának megállapításánál biztosítási időként csak a gyermeknevelési támogatás vagy az ápolási díj folyósításának időtartama alatt biztosítási jogviszonyban töltött napokat lehet figyelembe venni,
 - b) a táppénz összegének megállapításánál a biztosítási jogviszonynak az a) pontban meghatározott időtartam alatt elért, biztosítási jogviszonyból származó pénzbeli egészségbiztosítási járulék alapját képező jövedelmet kell figyelembe venni a 48. §-ban foglaltak szerint.
 
 (2) Az (1) bekezdésben foglaltakat kell alkalmazni arra a saját jogú nyugdíjas foglalkoztatottra, aki pénzbeli egészségbiztosítási járulék fizetésére kötelezett.
@@ -1154,7 +1180,7 @@ bírálja el és folyósítja.
 
 ### Visszafizetési és megtérítési kötelezettség
 
-66. § (1) Az, aki egészségbiztosítás ellátásai közül pénzbeli ellátást, baleseti járadékot, baleseti táppénzt, vagy utazási költséghez nyújtott támogatást (e szakasz alkalmazásában együtt: ellátás) jogalap nélkül vett fel, köteles azt visszafizetni, ha erre a felvételtől számított harminc napon belül írásban kötelezték.
+66. § (1) Az, aki egészségbiztosítás ellátásai közül pénzbeli ellátást, baleseti járadékot, baleseti táppénzt, vagy utazási költséghez nyújtott támogatást (e szakasz alkalmazásában együtt: ellátás) jogalap nélkül vett fel, köteles azt visszafizetni, ha erre a felvételtől számított kilencven napon belül írásban kötelezték.
 
 (2) Az (1) bekezdésben meghatározott idő elteltével a jogalap nélkül felvett ellátást attól lehet visszakövetelni, akinek az ellátás felvétele felróható.
 
@@ -1186,7 +1212,7 @@ bírálja el és folyósítja.
 
 (3) A 67–68. §-ok alapján megtérítésre kötelezettet a megtérítésre előírt összeg után kamatfizetési kötelezettség terheli. Nem kell a kamatot megfizetni, ha az érintett az eljárásról való tudomásszerzésével egyidejűleg a felelősségét írásban elismeri, és nyilatkozatát a követelés teljes kiegyenlítéséig fenntartja, továbbá a követelés összegét határidőben megfizeti.
 
-(4) Az egészségbiztosító jogosult a 67–68. §-ok szerinti megtérítési igényt megalapozó eseménnyel kapcsolatban a más hatóságnál, illetve egyéb szervnél indult eljárás során hozott, a megtérítési igény elbírálásához szükséges döntés megismerésére. Biztosítani kell az egészségbiztosító részére, hogy a döntés alapjául szolgáló iratokba betekinthessen és arról másolatot készíthessen. Az egészségbiztosító megkeresésére a kért iratok másolatát az érintett szerv huszonkét munkanapon belül megküldi a megkereső részére.
+(4) Az egészségbiztosító jogosult a 67–68. §-ok szerinti megtérítési igényt megalapozó eseménnyel kapcsolatban a más hatóságnál, illetve egyéb szervnél indult eljárás során hozott, a megtérítési igény elbírálásához szükséges döntés megismerésére. Biztosítani kell az egészségbiztosító részére, hogy a döntés alapjául szolgáló iratokba betekinthessen és arról másolatot készíthessen. Az egészségbiztosító megkeresésére a kért iratok másolatát az érintett szerv harminc napon belül megküldi a megkereső részére.
 
 68/B. § A biztosított köteles megtéríteni a neki felróható módon jogalap nélkül igénybe vett, gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás után folyósított támogatás összegét, közgyógyellátás jogcímen történő rendelés esetén pedig a közgyógyellátás jogcímcsoport előirányzatból finanszírozott összeget is, ha arra a 38/B. § alapján lefolytatott eljárást követően írásban kötelezték.
 
@@ -1257,6 +1283,8 @@ bírálja el és folyósítja.
 
 (2) A méltányossági jogkörben hozott határozat ellen nincs helye fellebbezésnek. A méltányossági jogkörben hozott határozat bírósági felülvizsgálatát kizárólag semmisségére hivatkozva lehet kérni.
 
+(3) A 67–68. § és 68/B. § szerinti eljárásban hozott döntés bírósági felülvizsgálatára az a munkaügyi bíróság illetékes, amelynek területén a megtérítésre kötelezett belföldi lakóhelye, ennek hiányában tartózkodási helye – jogi személy, illetve jogi személyiséggel nem rendelkező szervezet esetében a szervezet székhelye – található.
+
 78. § A baleseti járadékkal kapcsolatos jogorvoslatokra a Tny.-nek a nyugellátások esetében érvényesíthető jogorvoslatokra vonatkozó rendelkezéseit kell alkalmazni.
 
 ### X. Fejezet — NYILVÁNTARTÁSI ÉS ADATSZOLGÁLTATÁSI KÖTELEZETTSÉG
@@ -1282,7 +1310,7 @@ bírálja el és folyósítja.
 
 (3)
 
-80. § (1) A foglalkoztatók, az egyéni válalkozók és egyéb szervek az egészségbiztosítás pénzbeli és baleseti ellátásainak megállapításához szükséges – külön jogszabályban meghatározott – nyilvántartások vezetésére, valamint adatok bejelentésére kötelezhetők. A foglalkoztatók és egyéb szervek nem kezelhetnek egészségügyi adatot. A nyilvántartások vezetése, illetve az adatszolgáltatás az egészségbiztosító által meghatározott esetben és módon mágneses adathordozón (mágneslemez, mágnesszalag stb.) is teljesíthető.
+80. § (1) A foglalkoztatók, az egyéni vállalkozók és egyéb szervek az egészségbiztosítás pénzbeli és baleseti ellátásainak megállapításához szükséges nyilvántartások vezetésére, valamint adatok bejelentésére kötelezhetők. A foglalkoztatók és egyéb szervek nem kezelhetnek egészségügyi adatot. A nyilvántartások vezetése, illetve az adatszolgáltatás az egészségbiztosító által meghatározott esetben és módon elektronikus adathordozón is teljesíthető. A foglalkoztató e törvényben előírt adatszolgáltatási és nyilvántartási kötelezettségeit a felszámolás és a végelszámolás kezdő időpontjától a felszámoló, illetve a végelszámoló teljesíti.
 
 (2) Az egészségbiztosító felhívására a társadalombiztosítási feladatok ellátásához szükséges adatokat tizenöt napon belül kell közölni.
 
@@ -1292,7 +1320,10 @@ bírálja el és folyósítja.
 
 (5) Ha az uniós rendeletek vagy a Magyar Köztársaság által kötött nemzetközi egyezmény hatálya alá tartozó személy, valamint a Tbj. 11. §-a a) pontjának hatálya alá tartozó magyar állampolgár TAJ számmal rendelkezik, köteles a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosítását és annak megszűnését 15 napon belül bejelenteni az egészségbiztosítónak.
 
-(6) Aki az e törvényben meghatározott bejelentési, nyilvántartási, adatszolgáltatási kötelezettséget nem vagy késedelmesen teljesíti, illetőleg annak nem az előírt módon tesz eleget, természetes személy 10 ezertől 100 ezer forintig, a Tbj. 4. § a)–b) pontjában meghatározott foglalkoztató, és egyéni vállalkozó 100 ezer forinttól 1 millió forintig terjedő összegű, az elkövetett mulasztással arányos mulasztási bírság fizetésére kötelezhető. A mulasztási bírságot kiszabó elsőfokú végzés ellen önálló fellebbezésnek van helye.
+(6) Az e törvényben meghatározott bejelentési, nyilvántartási, adatszolgáltatási kötelezettséget nem vagy késedelmesen teljesítő, annak nem az előírt módon eleget tevő vagy valótlan adatokat közlő
+
+- a) természetes személy 10 ezertől 100 ezer forintig,
+- b) a Tbj. 4. § a) pontjában meghatározott foglalkoztató, és a Tbj. 4. § b) pontjában meghatározott egyéni vállalkozó 10 ezer forinttól 1 millió forintig terjedő összegű, az elkövetett mulasztással arányos mulasztási bírság fizetésére kötelezhető. A mulasztási bírságot kiszabó elsőfokú végzés ellen önálló fellebbezésnek van helye.
 
 81. § (1) Az egészségbiztosító szak- és pénzügyi ellenőrzése kiterjed az egészségbiztosítás pénzbeli, illetőleg baleseti ellátásaival összefüggő nyilvántartási és adatszolgáltatási kötelezettség teljesítésére, a társadalombiztosítási feladatokat ellátó szervek hatáskörébe tartozó ellátásoknak és szolgáltatásoknak a jogosultak részére történő megállapítására, folyósítására, továbbá az ezekkel összefüggő ügyviteli feladatok ellátására. Az ehhez szükséges nyilvántartásokat, egészségügyi szolgáltatói jelentéseket, könyvelési és egyéb okmányokat, illetőleg adatokat rendelkezésre kell bocsátani.
 
@@ -1303,6 +1334,10 @@ bírálja el és folyósítja.
 82. § (1) A kötelező egészségbiztosítás pénzbeli ellátásaira, illetőleg baleseti ellátásra való jogosultság megállapítása iránti ügyekben e törvény rendelkezéseit a törvény hatálybalépését követően induló ügyekben kell alkalmazni.
 
 (2) A külföldi állampolgárságú munkavállalókra vonatkozó adatok összeállításáról szóló 311/76/EGK rendelet által előírt adatszolgáltatási kötelezettség teljesítéséhez szükséges adatokat az egészségbiztosító a rendelkezésére álló társadalombiztosítási nyilvántartások alapján szolgáltatja a Központi Statisztikai Hivatal részére.
+
+(3) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel megállapított 37. §-t a 2011. január 1-jét követően keletkezett jogsértések vonatkozásában kell alkalmazni.
+
+(4) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel megállapított 66. § (1) bekezdést a 2011. január 1-jét követően jogalap nélkül igénybe vett pénzbeli ellátásra, baleseti járadékra, baleseti táppénzre vagy utazási költséghez nyújtott támogatásra kell alkalmazni.
 
 ### Záró rendelkezések
 
@@ -1324,7 +1359,7 @@ bírálja el és folyósítja.
 - l) a kifizetőhellyel nem rendelkező munkáltatóknak a táppénz igénybejelentésével kapcsolatos kötelezettségei, továbbá a kifizetőhelyeknek a terhességi-gyermekágyi segély, a gyermekgondozási díj, a táppénz, a baleseti táppénz megállapítására, folyósítására és elszámolására vonatkozó feladatai,
 - m) a foglalkoztatóknak és egyéb szerveknek az egészségbiztosítási ellátások megállapításához szükséges nyilvántartási és adatszolgáltatási feladatainak,
 - n) az eltartott hozzátartozók jövedelemszámítási szabályainak,
-- o) a részleges térítési díjak megállapítási módszerének, az egyes díjtételek képzésénél számításba vehető költségelemeknek, valamint a díjak befizetésére és elszámolására vonatkozó szabályoknak, a térítési díjak egészségügyi szolgáltató általi megállapítása szabályainak, illetve egyes ellátások részleges térítési díjának,
+- o) a részleges és kiegészítő térítési díjak megállapítási módszerének, az egyes díjtételek képzésénél számításba vehető költségelemeknek, valamint a díjak befizetésére és elszámolására vonatkozó szabályoknak, a térítési díjak egészségügyi szolgáltató általi megállapítása szabályainak, illetve egyes ellátások részleges, kiegészítő térítési díjának,
 - p) az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételének, az igényjogosultság igazolásának, valamint a külön jogszabályban meghatározott személyek tekintetében fennálló egészségügyi ellátási rend szabályainak,
 - q) a szolgáltató teljesítményjelentésére az ártámogatás elszámolására kötött szerződések alapján történő elszámolásra, továbbá a szerződésekkel kapcsolatos egyes bejelentések elektronikus aláírással ellátott formában történő megküldésére vonatkozó részletes szabályok
 - r) az egészségbiztosítást érintő hatásköri és eljárási szabályok,
@@ -1343,7 +1378,7 @@ meghatározására.
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 
 - a) a gyógyászati ellátások körét, az árukhoz nyújtott támogatás alapját és mértékét, valamint a támogatott gyógyászati segédeszközök körét, az árukhoz nyújtott támogatás alapját és mértékét, a támogatási csoportra vonatkozó kihordási időket, a kihordási időre maximálisan felírható mennyiségeket, rendelhetőségi feltételeket,
-- b) a társadalombiztosítási támogatással kölcsönözhető gyógyászati segédeszközök körét, valamint a kölcsönzési díjhoz nyújtott támogatás alapját és mértékét,
+- b) a társadalombiztosítási támogatással kölcsönözhető, kizárólag kölcsönzés keretében kiszolgáltatható vagy a beteg tulajdonába csak a kölcsönzési időszakot követően adható gyógyászati segédeszközök körét, valamint a kölcsönzési díjhoz nyújtott támogatás alapját és mértékét,
 - c) a gyógyszerek és a gyógyászati segédeszközök társadalombiztosítási támogatásba való befogadásának és a támogatás mértéke megállapításának szempontrendszerét, valamint a társadalombiztosítási támogatásba befogadott gyógyszerek hivatalból történő felülvizsgálatának szempontjait,
 - d) a nagy értékű, országosan nem elterjedt műtéti eljárások, beavatkozások díjtételeit, valamint az aktív fekvőbeteg-szakellátásban a sürgősségi ellátási formák havi fix összegű díjazását,
 - e) a biztosítottnak a gyógyászati segédeszköz ára után járó támogatás betegségtől függő keretösszegben történő megállapítására vonatkozó szabályokat,
@@ -1386,7 +1421,8 @@ meghatározására.
 - a) a (4) bekezdés c) pontja alapján kiadott rendeletben előírt szabályoknak megfelelően a finanszírozási eljárásrendeket,
 - b) a sürgős szükség körébe tartozó egészségügyi szolgáltatásokat,
 - c) az orvosi bélyegzők formai és tartalmi elemeire vonatkozó részletes szabályokat,
-- d) a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásához kapcsolódó eljárás során alkalmazandó szakmai szempontrendszert és szakmapolitikai prioritásokat.
+- d) a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásához kapcsolódó eljárás során alkalmazandó szakmai szempontrendszert és szakmapolitikai prioritásokat,
+- e) a háziorvosi indikátorrendszerre vonatkozó részletes szabályokat, az egyes indikátorok meghatározását, a háziorvosok gyógyító-megelőző tevékenységének értékelési módszerét és ennek alapjául szolgáló célértékeket.
 
 (7)
 

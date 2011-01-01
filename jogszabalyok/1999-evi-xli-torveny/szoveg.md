@@ -23,7 +23,7 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányában és a helyi önkormá
 
 2. § Az állami területi tagozódást érintő területszervezési kezdeményezésről az Országgyűlés, a köztársasági elnök – az országgyűlési képviselői és az önkormányzati általános választás évének kivételével – évente egy alkalommal dönt.
 
-3. § (1) Az Országgyűlés hatáskörébe tartozó ügyben a döntés megalapozott előkészítése érdekében a helyi kezdeményezést a helyi önkormányzatokért felelős miniszterhez (a továbbiakban: miniszter) az országgyűlési képviselők általános választásának éve kivételével minden év április 30-áig lehet felterjeszteni.
+3. § (1) Az Országgyűlés hatáskörébe tartozó ügyben a döntés megalapozott előkészítése érdekében a helyi kezdeményezést a helyi önkormányzatok törvényességi ellenőrzéséért felelős miniszterhez (a továbbiakban: miniszter) az országgyűlési képviselők általános választásának éve kivételével minden év április 30-áig lehet felterjeszteni.
 
 (2) A Kormány – a miniszter augusztus 30-áig tett előterjesztése alapján – a helyi kezdeményezést, illetőleg saját kezdeményezését szeptember 30-áig nyújtja be az Országgyűlésnek, amely arról december 31-éig dönt.
 
@@ -37,9 +37,9 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányában és a helyi önkormá
 
 5. § A területszervezési eljárásban – amennyiben az érintett önkormányzat területén helyi kisebbségi önkormányzat működik – a polgármester az előkészítő eljárás során kéri a helyi kisebbségi önkormányzat véleményét, és erről a képviselő-testületet tájékoztatja.
 
-6. § (1) A polgármester, a főpolgármester a kezdeményezést az előkészítő iratokkal együtt a közigazgatási hivatal útján terjeszti fel a miniszternek.
+6. § (1) A polgármester, a főpolgármester a kezdeményezést az előkészítő iratokkal együtt a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv útján terjeszti fel a miniszternek.
 
-(2) A közigazgatási hivatal ellenőrzi az eljárás törvényességét, értékeli a kezdeményezés törvényi feltételeinek a teljesítését. A közigazgatási hivatal az iratokat az érkezést követő nyolc napon belül véleményével együtt felterjeszti a miniszternek.
+(2) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv ellenőrzi az eljárás törvényességét, értékeli a kezdeményezés törvényi feltételeinek a teljesítését. A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv az iratokat az érkezést követő nyolc napon belül véleményével együtt felterjeszti a miniszternek.
 
 ### Település átcsatolása másik megyéhez
 
@@ -128,7 +128,7 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányában és a helyi önkormá
 
 18. § (1) Az Ötv. 56. §-a (3) bekezdése alapján létrehozott, területrész átadását előkészítő bizottság javaslatot készít az átadásra kerülő területrész területére, az új közigazgatási határvonalra, a vagyon megosztására, a költségek viselésére. A javaslat a területrész szempontjából bemutatja a lakott területrész átadásának részletes körülményeit, előnyeit, illetőleg feltételeit, így különösen: a fogadó települési önkormányzat székhelyétől való kisebb távolságot, a lakosság számára előnyösebb megközelítést, a közigazgatási, az intézményi és egyéb lakossági szolgáltatások igénybevételének előnyeit; megvizsgálja és bemutatja, hogy az átadás jár-e hátrányokkal az átadó település önkormányzatára, lakosságára nézve.
 
-(2) A javaslat elkészítéséhez – az előkészítő bizottság felkérésére – a közigazgatási hivatal szakmai segítséget ad, más szerv pedig szakmai segítséget adhat.
+(2) A javaslat elkészítéséhez – az előkészítő bizottság felkérésére – a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv szakmai segítséget ad, más szerv pedig szakmai segítséget adhat.
 
 (3) A képviselő-testületek előzetes megállapodásáról, az előkészítő bizottság javaslatáról és a lakott területrész átadásának részletes feltételeiről a lakosságot a helyi népszavazás előtt tájékoztatni kell.
 

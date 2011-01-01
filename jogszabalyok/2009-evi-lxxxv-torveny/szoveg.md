@@ -75,7 +75,7 @@ vonatkoznak.
 
 (2) Az (1) bekezdés szerinti tájékoztatást követően a pénznemek közötti átváltást a fizető félnek jóvá kell hagynia.
 
-7. § (1) Ha a kedvezményezett a készpénz-helyettesítő fizetési eszköz használatáért díjat, költséget vagy egyéb fizetési kötelezettséget számít fel vagy kedvezményt nyújt, köteles erről a fizető felet a fizetési megbízásra irányuló jognyilatkozatát megelőzően tájékoztatni.
+7. § (1) Ha a kedvezményezett a készpénz-helyettesítő fizetési eszköz használatáért kedvezményt nyújt, köteles erről a fizető felet a fizetési megbízásra irányuló jognyilatkozatát megelőzően tájékoztatni.
 
 (2) Ha a pénzforgalmi szolgáltató vagy harmadik személy a készpénz-helyettesítő fizetési eszköz használatáért külön díjat, költséget vagy egyéb fizetési kötelezettséget számít fel, köteles erről az ügyfelet a fizetési megbízásra irányuló jognyilatkozatát megelőzően tájékoztatni.
 
@@ -216,7 +216,7 @@ vonatkoznak.
 
 - a) jogi személy és a jogi személyiséggel nem rendelkező gazdasági társaság létrejöttéhez szükséges nyilvántartásba (a továbbiakban: nyilvántartás) már bejegyzett vállalkozás a nyilvántartást vezető szervezettől származó, harminc napnál nem régebbi okirattal igazolta, hogy a nyilvántartásban szerepel, valamint adószámát és statisztikai számjelét közölte,
 - b) a nyilvántartásba még be nem jegyzett jogi személy és a jogi személyiséggel nem rendelkező gazdasági társaság létesítő okiratát (társasági szerződését) egy másolati példányban átadta, valamint – ha cégbejegyzésre kötelezett és a pénzforgalmi számla megnyitása nem feltétele a cégbejegyzési kérelem benyújtásának – csatolta a cégbejegyzési kérelem benyújtása során a cégbíróságtól kapott elektronikus tanúsítványt vagy annak hiteles papír alapú másolatát,
-- c) az általános forgalmi adó fizetésére kötelezett természetes személy, illetve az általános forgalmi adó fizetésére kötelezett egyéni vállalkozó az Adó- és Pénzügyi Ellenőrzési Hivatalnál történt nyilvántartásba vételéről szóló okirat másolati példányát átadta, egyéni vállalkozó az egyéni vállalkozói, illetőleg a tevékenység végzéséhez szükséges más igazolvány másolatát csatolta.
+- c) az általános forgalmi adó fizetésére kötelezett természetes személy, illetve az általános forgalmi adó fizetésére kötelezett egyéni vállalkozó az Adó- és Pénzügyi Ellenőrzési Hivatalnál történt nyilvántartásba vételéről szóló okirat másolati példányát átadta, egyéni vállalkozó a nyilvántartásba vételről szóló igazolás vagy az egyéni vállalkozói igazolvány, illetőleg a tevékenység végzéséhez szükséges más igazolvány másolatát csatolta.
 
 (2) Fizetési számlát a pénzforgalmi szolgáltató akkor nyithat, ha a pénzforgalmi számla nyitására nem kötelezett – a jogi formájára vonatkozó előírások szerint – a létrejöttére, illetve nyilvántartásba vételére vonatkozó okmányokat, iratokat bemutatta.
 
@@ -370,7 +370,7 @@ vonatkoznak.
 
 (2) A felek a pénzforgalmi szolgáltató a 38. § (6) bekezdése és a 48. § (6) bekezdése szerinti intézkedésének ellenértékéről szerződésben állapodnak meg. Az ellenérték nem haladhatja meg az intézkedés tényleges és közvetlenül felmerült költségeit.
 
-(3) A készpénz-helyettesítő fizetési eszközzel – ide nem értve a csekket és az elektronikus pénzeszközt – lebonyolított fizetési művelethez közvetlenül kapcsolódó, a kedvezményezettel szemben a pénzforgalmi szolgáltató által érvényesíthető jutalékok, díjak és egyéb költségek mértéke nem haladhatja meg a fizetési művelet teljesítésének fedezetét biztosító fizetési számlára vagy hitelkeretre terhelt összeg két százalékát.
+(3)
 
 36. § (1) A fizetési műveletet a felek által megállapított devizanemben kell teljesíteni.
 
@@ -378,7 +378,7 @@ vonatkoznak.
 
 (3) A (2) bekezdésben foglaltakat nem kell alkalmazni, ha a kedvezményezett pénzforgalmi szolgáltatójának székhelye nem EGT-állam területén található, vagy a fizetési művelet teljesítése nem EGT-állam pénznemében történik.
 
-(4) A kedvezményezett készpénz-helyettesítő fizetési eszköz használatáért díjat, költséget vagy egyéb fizetési kötelezettséget számíthat fel, vagy kedvezményt nyújthat.
+(4) A kedvezményezett készpénz-helyettesítő fizetési eszköz használatáért díjat, költséget vagy egyéb fizetési kötelezettséget nem számíthat fel.
 
 ### VIII. Fejezet — FIZETÉSI MŰVELETEK JÓVÁHAGYÁSA
 

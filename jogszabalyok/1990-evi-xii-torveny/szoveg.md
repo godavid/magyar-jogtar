@@ -36,7 +36,7 @@ a Kossuth-díjról és a Széchenyi-díjról
 
 7. § A kitüntető címet a köztársasági elnök a Kormány előterjesztésére visszavonja attól, aki arra érdemtelenné vált.
 
-7/A. § (1) A díjazott személyekről a Miniszterelnöki Hivatal nyilvántartást vezet. A nyilvántartás a díjazott személy nevét, születési helyét és idejét, valamint a Díj adományozásának rövid indokolását, időpontját, továbbá a Díj visszavonása esetén a visszavonás tényét, okát és időpontját tartalmazza.
+7/A. § (1) A díjazott személyekről a Miniszterelnökség nyilvántartást vezet. A nyilvántartás a díjazott személy nevét, születési helyét és idejét, valamint a Díj adományozásának rövid indokolását, időpontját, továbbá a Díj visszavonása esetén a visszavonás tényét, okát és időpontját tartalmazza.
 
 (2) A Díj adományozásával, illetve visszavonásával kapcsolatos eljárás lefolytatásához szükséges adatok biztosítása céljából a díjazási javaslat előkészítéséért felelős szerv és az előterjesztő részére az (1) bekezdés szerinti nyilvántartásból adat továbbítható. A köztársasági elnök, illetve hivatalának köztisztviselője a nyilvántartásba jogosult betekinteni.
 

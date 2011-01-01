@@ -467,21 +467,25 @@ A független biztosításközvetítő biztosítási szaktanácsot is adhat. A f�
 
 (3) Nem szükséges a Felügyelet engedélye az Európai Unió másik tagállamában székhellyel rendelkező független biztosításközvetítő esetében fióktelepe útján vagy határon átnyúló szolgáltatásként történő tevékenység végzéshez.
 
-(4)
+(4) Ha a független biztosításközvetítő működése során saját tőkéje az (1) bekezdésben írt minimális alaptőke (törzstőke) mértéke alá csökken, a független biztosításközvetítő köteles a saját tőkét az előírt minimális alaptőke (törzstőke) mértékéig kiegészíteni.
 
 (5) Független biztosításközvetítői tevékenység végzésének feltétele az (1) bekezdésben foglaltakon túl a következő:
 
 - a) a tevékenység folytatásához üzlethelyiség tulajdon-, használati vagy bérleti joga,
-- b) a végzett tevékenység egyedi azonosítására alkalmas folyamatos nyilvántartás.
+- b) a végzett tevékenység egyedi azonosítására alkalmas folyamatos nyilvántartás,
+- c) az adatszolgáltatási kötelezettség teljesítéséhez szükséges tárgyi feltételek megléte.
 
 (6) A független biztosításközvetítői tevékenység irányítója kizárólag olyan természetes személy lehet, aki
 
 - a) büntetlen előéletű, továbbá nem vezető tisztségviselője olyan gazdasági társaságnak, amellyel szemben a kérelem benyújtását megelőző három évben csőd- vagy felszámolási eljárás indult,
-- b) felsőfokú végzettséggel rendelkezik, továbbá korábban biztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, az államigazgatásban pénzügyi, illetve gazdasági területen vagy a megfelelő szakmai érdekképviseleti szervnél legalább 3 évig biztosításszakmai vezető beosztást töltött be, vagy biztosítási szaktanácsadóként működött, vagy e szerveknél összesen 5 éves munkaviszonnyal, köztisztviselői jogviszonnyal vagy munkavégzésre irányuló egyéb jogviszonnyal rendelkezik; illetve középfokú végzettséggel rendelkezik és korábban biztosítónál vagy biztosításközvetítést folytató gazdálkodó szervezetnél legalább 7 éven át biztosításszakmai vezetői beosztást töltött be, és
+- b) az alábbi szakmai követelmények valamelyikének megfelel:
+  - ba) felsőfokú végzettséggel rendelkezik és biztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, az államigazgatás pénzügyi, illetve gazdasági területén vagy a megfelelő szakmai érdek-képviseleti szervnél legalább 3 évig biztosításszakmai vezető beosztást töltött be vagy biztosítási szaktanácsadóként működött vagy biztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, biztosítási szaktanácsadónál, az államigazgatásban pénzügyi, illetve gazdasági területen vagy a megfelelő szakmai érdek-képviseleti szervnél összesen 5 éves, biztosításszakmai beosztásban eltöltött munkaviszonnyal, köztisztviselői jogviszonnyal vagy munkavégzésre irányuló egyéb jogviszonnyal rendelkezik;
+  - bb) középfokú végzettséggel rendelkezik és biztosítónál vagy biztosításközvetítést folytató gazdálkodó szervezetnél legalább 7 éven át biztosításszakmai vezetői beosztást töltött be,
 - c) kizárólag az adott biztosításközvetítőnél folytatja közvetítői tevékenységét,
-- d) biztosítóval nem áll munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban.
+- d) biztosítóval nem áll munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban,
+- e) ellen a Felügyelet feladatkörébe tartozó törvények, illetve e törvények felhatalmazása alapján kiadott jogszabályok előírásainak súlyos vagy ismétlődő megsértése miatt, öt évnél nem régebben a legmagasabb összegű bírság kiszabására nem került sor, illetve a bíróság öt évnél nem régebben kelt jogerős határozatában felelősségét e jogszabályok megsértése miatt nem állapította meg.
 
-(7) A (6) bekezdés b) pontjában előírt szakmai gyakorlat befejezése nem eshet a nyilvántartásba vétel iránti kérelem benyújtását 10 évvel megelőző időpontnál korábbi időpontra.
+(7) A (6) bekezdés b) pontjában előírt vezetői szakmai gyakorlat befejezése nem eshet az engedélyezési kérelem benyújtását 10 évvel megelőző időpontnál korábbi időpontra.
 
 39. § (1) A független biztosításközvetítő köteles tevékenységének felelősségbiztosítására mindenkor legalább káreseményenkénti 1 120 200 euró, illetve évente együttesen legalább 1 680 300 euró összegű, az Európai Unió egész területére kiterjedő hatályú felelősségbiztosítással vagy 1 680 300 euró vagyoni biztosítékkal rendelkezni. Az engedély megadásának feltétele, hogy a független biztosításközvetítő igazolja a Felügyeletnek a felelősségbiztosítási szerződés megkötését vagy a vagyoni biztosíték meglétét.
 
@@ -522,7 +526,7 @@ A független biztosításközvetítő biztosítási szaktanácsot is adhat. A f�
 
 (2) A nyilvántartás egyedi azonosításra nem alkalmas főbb adatait tartalmazó éves jelentést a tárgyévet követő év május 31-ig a Felügyeletnek meg kell küldeni.
 
-(3) A független biztosításközvetítői jelentés szabályait a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter (a továbbiakban: miniszter) rendeletben állapítja meg.
+(3) A független biztosításközvetítői jelentés szabályait a Felügyelet elnöke rendeletben állapítja meg.
 
 45. § A független biztosításközvetítő biztosításközvetítői tevékenysége során
 
@@ -603,7 +607,7 @@ A független biztosításközvetítő biztosítási szaktanácsot is adhat. A f�
 
 (4) A szaktanácsadói tevékenység megkezdéséhez szükséges nyilvántartásba vételt a Felügyelet megtagadja, ha a szaktanácsadó nem felel meg az 51. §-ban és e §-ban előírt feltételeknek.
 
-(5) A biztosítási szakképesítéseket, ezek megszerzésének követelményeit és azon munkaköröket, amelyek betöltése ezen szakképesítések megszerzéséhez, mint feltételhez kötődik, a miniszter rendeletben állapítja meg.
+(5) A biztosítási szakképesítéseket, ezek megszerzésének követelményeit és azon munkaköröket, amelyek betöltése ezen szakképesítések megszerzéséhez, mint feltételhez kötődik, a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter (a továbbiakban: miniszter) rendeletben állapítja meg.
 
 53. § A szaktanácsadót a Felügyelet nyilvántartásából törli, ha a szaktanácsadó
 
@@ -671,7 +675,7 @@ A független biztosításközvetítő biztosítási szaktanácsot is adhat. A f�
 - j) a 111. § (1) bekezdése szerinti részesedés megszerzéséhez,
 - k) a független biztosításközvetítő által más független biztosításközvetítői tevékenységet folytató gazdasági társaság alapításához, illetve ilyen tevékenységet folytató gazdasági társaságban történő minősített befolyás megszerzéséhez,
 - l) az élet és nem-életbiztosítási ág együttes művelésére jogosult biztosító esetében valamely biztosítási ágban adódó szavatoló tőkehiány másik biztosítási ágból, a 124. § (5) bekezdésének megfelelően történő pótlásához,
-- m) a 70. § (2) bekezdésének j) pontjában, a 83. §-ban és a 86–90. §-okban meghatározott személyek foglalkoztatásához, megbízásához, illetve kinevezéséhez, választásához,
+- m) a 38. § (6) bekezdésében, a 70. § (2) bekezdésének j) pontjában, a 83. §-ban és a 86–90. §-okban meghatározott személyek foglalkoztatásához, megbízásához, illetve kinevezéséhez, választásához,
 - n) az alapszabály tagi vagyonrész terhére történő kifizetésekről szóló szabályainak módosításához, ha az egyesület a tagi vagyonrészeket a szavatoló tőke számításakor figyelembe veszi,
 - o) a viszontbiztosítás 126. § (5) bekezdésében meghatározott mértékű beszámításához,
 - p) a független biztosításközvetítői tevékenység kérelemre történő felfüggesztéséhez.
@@ -700,7 +704,7 @@ A független biztosításközvetítő biztosítási szaktanácsot is adhat. A f�
 - h) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó biztosító esetében az összevont alapú, illetőleg a kiegészítő felügyelethez kapcsolódó információátadás rendjének bemutatását és a biztosítóval szoros kapcsolatban álló személyek nyilatkozatát arról, hogy a biztosító összevont alapú, illetőleg kiegészítő felügyelete érdekében szükséges adatot, tényt és információt a Felügyelet rendelkezésére bocsátja;
 - i) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó biztosító esetében a biztosítóval szoros kapcsolatban álló természetes személy nyilatkozatát arról, hogy hozzájárul a biztosító részére átadott személyes adatainak az összevont alapú, illetőleg a kiegészítő felügyelet e törvény szerinti ellátása céljából történő kezeléséhez, illetőleg továbbításához.
 
-58/A. § Ha a kérelmező az 58. § a), f)–g) pontjában foglalt adatokat nem igazolja, a Felügyelet – a biztosító alapítási engedélyéhez – adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+58/A. §
 
 59. § Biztosító élet- és nem-életbiztosítási ág együttes művelésére – a 64. § (3) és (4) bekezdéseiben foglaltak, valamint viszontbiztosító kivételével – nem alapítható.
 
@@ -743,15 +747,15 @@ igazolását.
 - e) nyilatkozatot arról, hogy a jogszabályban meghatározott, illetve jogszabályon alapuló adatszolgáltatások teljesítésére felkészült, valamint az adatszolgáltatáshoz felhasznált számítógépes programok tesztfutási eredményeit,
 - f) számviteli politikájának, részletes számviteli rendszerének a tervezetét,
 - g) a biztosító likviditását, fizetőképességét súlyosan veszélyeztető állapot esetén alkalmazandó eljárási rendet,
-- h) a kérelmező arra vonatkozó nyilatkozatát, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közölt a Felügyelettel,
+- h)
 - i) kötelező gépjármű-felelősségbiztosítási ágazatra is kiterjedő engedélykérelem esetén valamennyi tagállamban működő kárrendezési megbízott megbízásának igazolását,
 - j) a pénzmosás megelőzéséről és megakadályozásáról szóló 2003. évi XV. törvény szerinti pénzmosási szabályzatot.
 
 (3) A tevékenységi engedély iránti kérelmet a Felügyelet elutasítja, ha a kérelmező
 
 - a) nem rendelkezik a 126. §-ban foglalt minimális biztonsági tőkével, illetve az üzleti tervében foglaltak szerinti tevékenység folytatásához a minimális szavatoló tőkével,
-- b) üzleti terve nem felel meg a 67. § rendelkezéseinek, vagy annak valódisága kétségbevonható, illetve az abban foglaltak nem nyújtanak elegendő alapot a biztosítottak számára a biztosítási szolgáltatások teljesítésére,
-- c)
+- b) üzleti terve, az engedély iránti kérelemhez mellékelt egyéb irat, továbbá a Felügyelet rendelkezésére álló okirat, adat vagy információ alapján megállapítható, hogy a kérelmező nem lesz képes megfelelni a tevékenységére vonatkozó jogszabályi előírásoknak, illetve tevékenysége a biztosítottak érdekét sértené vagy veszélyeztetné,
+- c) a szükséges személyi és tárgyi feltételekkel nem rendelkezik.
 
 (4) Az engedély iránti kérelmet a Felügyelet abban az esetben is elutasíthatja, ha olyan tények, adatok, körülmények jutnak tudomására, amelyek alapján megalapozottan feltehető, hogy a biztosító hatékony felügyelete nem biztosítható, különösen, ha
 
@@ -822,7 +826,7 @@ igazolását.
 
 68. § (1) A biztosító a jelzáloghitelezési tevékenység megkezdéséhez köteles a Felügyelet engedélyét kérni. Az engedélyezésre irányuló kérelemnek – a (6) bekezdésben foglalt eltéréssel – tartalmaznia kell:
 
-- a) az alapszabályt,
+- a) a módosított alapszabályt,
 - b) az üzleti tervet,
 - c) a tevékenység megkezdéséhez szükséges személyi és tárgyi feltételek igazolását,
 - d) annak igazolását, hogy a jelzáloghitelezési tevékenység megkezdése után a szükséges szavatoló tőkével rendelkezik.
@@ -835,7 +839,7 @@ igazolását.
 
 (5) A hitelbiztosítéki érték megállapításának módszertani elveit külön jogszabály határozza meg. Ennek alapján a biztosító hitelbiztosítéki értékmegállapítási szabályzatot készít, amelyet a Felügyelet hagy jóvá.
 
-(6) Ha a biztosító az (1) bekezdés a)–b) pontjában foglalt feltételeket nem igazolja, a Felügyelet – a jelzálog-hitelezési tevékenység megkezdéséhez szükséges engedélyhez – adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető bírósághoz.
+(6)
 
 69. § (1) A biztosítónak a jelzáloghitelezési tevékenységgel összefüggő egyedi kockázatokat, a kintlévőségeket és a fedezeteket a (3) bekezdés szerinti módon minősíteni és értékelni kell.
 
@@ -906,12 +910,12 @@ igazolását.
 - a) a jegyzett tőkéjének felemelését vagy leszállítását,
 - b) a biztosítóban 5 százalékot meghaladó, de a 111. § (1) bekezdése szerint engedélykötelesnek nem minősülő részesedés megszerzését,
 - c) a 89. § (1) bekezdés szerinti, a belső ellenőr személyére vonatkozó megállapodást,
-- d) a külön jogszabályban megállapított mértékű nagykockázatokat,
-- e) a nagykárokat,
+- d)
+- e)
 - f) külföldi állandó képviselete megnyitását, címének, fontosabb adatainak megváltozását vagy megszüntetését, illetve a vezető(k) személyének és adatainak megváltozását,
 - g) az alapszabály (alapító okirat) módosítását,
 - h) a tagállamokban megbízott kárrendezési megbízottjait, ezeknek a feladataik ellátásával összefüggő adatait, illetve az ezekben az adatokban bekövetkezett változásokat,
-- i) az alkusszal és a szaktanácsadóval kötött felelősségbiztosítási szerződés megszűnését,
+- i) független biztosításközvetítővel és a szaktanácsadóval kötött szakmai felelősségbiztosítási szerződés megszűnését,
 - j) a 49. § (2) bekezdésében foglalt nyilvántartásban az 5. számú melléklet 2. pontjában (az A) b) és f) alpont, valamint a B) b) alpont kivételével) meghatározott adatokban bekövetkezett változásokat,
 - k) a más biztosítóban, viszontbiztosítóban, hitelintézetben, pénzügyi vállalkozásban, befektetési vállalkozásban vagy befektetési alapkezelőben szerzett, a minősített befolyás minimális szintjénél kisebb részesedését,
 - l) könyvvizsgálójának megválasztását.
@@ -926,7 +930,7 @@ igazolását.
 
 (4) A biztosító köteles a nemi hovatartozás szerint eltérő díjak és szolgáltatások alapjául szolgáló arányos különbségeket alátámasztó adatokat a Felügyeletnek az éves adatszolgáltatással megküldeni.
 
-(5) A nemi hovatartozás szerint eltérő díjak és szolgáltatások alapjául szolgáló arányos különbségeket alátámasztó adatok szolgáltatásának rendjét és tartalmát a miniszter a biztosítók belső adatszolgáltatásának rendjéről és tartalmáról szóló rendeletben állapítja meg.
+(5) A nemi hovatartozás szerint eltérő díjak és szolgáltatások alapjául szolgáló arányos különbségeket alátámasztó adatok szolgáltatásának rendjét és tartalmát a Felügyelet elnöke a biztosítók belső adatszolgáltatásának rendjéről és tartalmáról szóló rendeletben állapítja meg.
 
 73. § (1) A biztosító, illetve a független biztosításközvetítő köteles a Felügyeletnek 15 munkanapon belül bejelenteni, ha a biztosításközvetítő tevékenységet végző természetes személy a 36. § (5) bekezdésében és a 229. § (1) bekezdésében meghatározott határidőn belül a 41. § (2), 48. § (4) bekezdésekben előírt végzettség, illetve szakképesítés megszerzését nem igazolta.
 
@@ -947,13 +951,7 @@ igazolását.
 
 (5) A független biztosításközvetítő köteles a 41. § (3) bekezdésében foglalt nyilvántartásban az 5. számú melléklet 2. pontjának A) fa) alpontjában meghatározott adatokban bekövetkezett változásokat a Felügyeletnek 2 munkanapon belül bejelenteni.
 
-75. § (1) Ha a független biztosításközvetítő fióktelepen keresztül, illetve határon átnyúló tevékenységként első alkalommal másik tagállamban független biztosításközvetítői tevékenység végzését tervezi, köteles azt a Felügyeletnek előzetesen bejelenteni.
-
-(2) A biztosító köteles bejelenteni a Felügyeletnek, ha másik tagállamban fióktelepet kíván létesíteni, valamint legkésőbb 1 hónappal a változást megelőzően írásban köteles bejelenteni a Felügyeletnek és a másik tagállam illetékes felügyeleti hatóságának, ha a működés során a 79. § (2) bekezdésének b)–f) pontjaiban meghatározott adatokban változás következik be.
-
-(3) Ha a biztosító határon átnyúló tevékenységként első alkalommal kíván biztosítási tevékenységet végezni valamely másik tagállam területén, köteles ezt a Felügyeletnek előzetesen bejelenteni és a 81. § (2) bekezdés a)–c) pontjának megfelelően meghatározni a másik tagállamban végezni kívánt tevékenységeket.
-
-(4) Ha a határon átnyúló tevékenység végzése során a 81. § (2) bekezdésének a) és b) pontjában meghatározott adatokban változás következik be, a biztosító köteles ezt a Felügyeletnek bejelenteni.
+75. §
 
 ### Az ügymenet kiszervezésének feltételei
 
@@ -1042,15 +1040,15 @@ igazolását.
 
 ### A vezető állású személy
 
-83. § (1) Biztosítónál vezető állású személynek az nevezhető ki, illetve az választható meg, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját 22 munkanappal megelőzően a biztosító a Felügyeletnek bejelentette, és a Felügyelet az engedélyt megadta. A Felügyelet köteles a vezető állású személy megválasztásáról, illetve kinevezéséről engedélyező vagy azt elutasító határozatot hozni.
+83. § (1) Biztosítónál vezető állású személynek az nevezhető ki, illetve az választható meg, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját harminc nappal megelőzően a biztosító a Felügyeletnek bejelentette, és a Felügyelet az engedélyt megadta. A Felügyelet köteles a vezető állású személy megválasztásáról, illetve kinevezéséről engedélyező vagy azt elutasító határozatot hozni.
 
-(2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem kézhezvételét követő huszonkét munkanapon belül nem hoz döntést.
+(2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem megérkezését követő naptól számított harminc napon belül nem hoz döntést.
 
 (3) Biztosítónál vezető állású személy kizárólag olyan személy lehet, aki
 
 - a) büntetlen előéletű,
 - b) szakmai alkalmassággal és üzleti megbízhatósággal rendelkezik,
-- c) legalább 5 éves biztosítási vagy vállalati gazdálkodási, illetve az államigazgatás pénzügyi és gazdasági területén szerzett vezetői gyakorlattal rendelkezik (az előírt szakmai gyakorlat befejezése nem eshet az engedély iránti kérelem benyújtását 10 évvel megelőző időpontnál korábbi időpontra),
+- c) biztosításszakmai vezetői gyakorlattal vagy legalább 30 főt foglalkoztató vállalkozásnál szerzett gazdálkodási vezetői gyakorlattal vagy az államigazgatás pénzügyi, illetve gazdasági területén szerzett vezetői gyakorlattal rendelkezik, ha e vezetői gyakorlat ideje hosszabb mint öt év, és az előírt vezetői gyakorlat befejezése nem esik az engedély iránti kérelem benyújtását tíz évvel megelőző időpontnál korábbi időpontra,
 - d) felsőfokú iskolai végzettséggel rendelkezik,
 - e) biztosítónál nem tevékenykedik könyvvizsgálóként.
 
@@ -1088,9 +1086,9 @@ igazolását.
 
 köteles foglalkoztatni.
 
-(2) Egyéb vezetőnek az nevezhető ki, akinek személyét a kinevezés tervezett időpontját 22 munkanappal megelőzően a biztosító a Felügyeletnek bejelentette, és az engedélyt a Felügyelet megadta. A Felügyelet köteles az egyéb vezető megválasztásáról, illetve kinevezéséről engedélyező vagy azt elutasító határozatot hozni.
+(2) Egyéb vezetőnek az nevezhető ki, akinek személyét a kinevezés tervezett időpontját harminc nappal megelőzően a biztosító a Felügyeletnek bejelentette, és az engedélyt a Felügyelet megadta. A Felügyelet köteles az egyéb vezető megválasztásáról, illetve kinevezéséről engedélyező vagy azt elutasító határozatot hozni.
 
-(3) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem kézhezvételét követő huszonkét munkanapon belül nem hoz döntést.
+(3) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem megérkezését követő naptól számított harminc napon belül nem hoz döntést.
 
 (4) Az egyéb vezetők legfeljebb 2 részvénytársaságnál tölthetnek be ilyen pozíciót.
 
@@ -1130,7 +1128,7 @@ köteles foglalkoztatni.
 
 (4) A biztosító vezető biztosításmatematikusa az éves beszámolóval együtt ahhoz kapcsolódóan benyújtja a Felügyeletnek a biztosító éves külön aktuáriusi jelentését.
 
-(5) Az aktuáriusi jelentés tartalmi követelményeit a miniszter rendeletben állapítja meg.
+(5) Az aktuáriusi jelentés tartalmi követelményeit a Felügyelet elnöke rendeletben állapítja meg.
 
 ### A biztosító vezető jogtanácsosa
 
@@ -1215,7 +1213,7 @@ köteles foglalkoztatni.
 - a) minősített befolyással rendelkezik (vagy rendelkezett), illetve vezető állású személy, vagy egyéb vezető (vagy az volt) egy olyan biztosítónál, biztosításközvetítőnél vagy pénzügyi intézménynél,
   - aa) amely esetében a fizetőképtelenséget kizárólag felügyeleti szerve által alkalmazott intézkedéssel lehetett elkerülni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy hatósági határozat megállapította, vagy
   - ab) amelyet fel kellett számolni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy hatósági határozat megállapította; vagy
-- b) súlyosan vagy ismételten megsértette e törvény vagy más, a biztosítási tevékenységre vonatkozó jogszabály előírásait és emiatt vele szemben a Felügyelet 5 évnél nem régebben kelt jogerős határozatában a kiszabható legmagasabb összegű bírságot alkalmazta, illetve a bíróság 5 évnél nem régebben kelt jogerős határozatában felelősségét megállapította.
+- b) súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe tartozó törvények, illetve e törvények felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben az illetékes felügyelet öt évnél nem régebben kelt jogerős határozatában a legmagasabb összegű bírságot szabta ki, illetve a bíróság 5 évnél nem régebben kelt jogerős határozatában felelősségét e jogszabályok megsértése miatt megállapította.
 
 (5) A Felügyelet a szakmai alkalmasság és üzleti megbízhatóság fennállásának megállapítása érdekében az illetékes külföldi hatóságot közvetlenül megkeresheti.
 
@@ -1230,9 +1228,9 @@ köteles foglalkoztatni.
 - c) a módosított tevékenységhez szükséges feltételek meglétének igazolását,
 - d) annak igazolását, hogy a tevékenység módosítása után a szükséges szavatoló tőkével rendelkezik.
 
-(2) A tevékenység módosítására vonatkozó engedély kiadását a Felügyelet megtagadja, ha valószínűsíthető, hogy a biztosító a tevékenység módosítása után a biztosítási szerződéseiből eredő kötelezettségeit nem képes teljesíteni.
+(2) A tevékenység módosítására vonatkozó engedély kiadását a Felügyelet a 63. § (3) bekezdésében foglaltak miatt tagadhatja meg.
 
-(3) Ha a biztosító az (1) bekezdés a)–b) pontjában foglalt adatokat nem igazolja, a Felügyelet – a biztosító tevékenység módosításának engedélyezéséhez – adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető bírósághoz, illetőleg hatósághoz.
+(3)
 
 ### Az állományátruházás
 
@@ -1327,7 +1325,7 @@ köteles foglalkoztatni.
 
 (2) A terméktervnek tartalmaznia kell az ügyvezető, a vezető jogtanácsos, a vezető biztosításmatematikus (aktuárius) és az érintett biztosítási ág vezetőjének aláírását.
 
-99. § (1) Az életbiztosítási, baleset- és betegségbiztosítási (egészségbiztosítási) termék díjkalkulációjában, a tartalékolásnál és a járadékszámításoknál alkalmazható technikai kamatláb maximális mértékét a miniszter rendeletben állapítja meg.
+99. § (1) Az életbiztosítási, baleset- és betegségbiztosítási (egészségbiztosítási) termék díjkalkulációjában, a tartalékolásnál és a járadékszámításoknál alkalmazható technikai kamatláb maximális mértékét a Felügyelet elnöke rendeletben állapítja meg.
 
 (2) A másik tagállamban székhellyel rendelkező biztosító fióktelepe útján, vagy határon átnyúló szolgáltatás keretében terjesztett, az (1) bekezdésben meghatározott termékekre a technikai kamatláb maximális mértékének tekintetében a székhely szerinti tagállam szabályozása az irányadó.
 
@@ -1460,7 +1458,7 @@ a jogszabálysértés, az érdeksérelem, a hiba, illetve a hiányosság megszü
 - b) az adott járműre vagy járművekre vonatkozó új kötelező gépjármű-felelősségbiztosítási szerződést megkötő biztosító részére, annak ez irányú kérése esetén, az igénylést követő 15 napon belül,
 - c) az adott járműre vagy járművekre vonatkozó új kötelező gépjármű-felelősségbiztosítási szerződést megkötő biztosító részére az igazolt biztosítási időszakot követő év szeptember 30-ig, az igazolt biztosítási időszakot érintő azon kártörténetre vonatkozó adatokról – ide nem értve a bonus-malus besorolást –, amelyek vonatkozásában a b) pont alapján kiadott igazolást követően került sor első alkalommal teljesített kárkifizetésre.
 
-110. § A biztosító kötelező gépjármű-felelősségbiztosítási terméke eredményelszámolásának és adatszolgáltatásának szabályait a miniszter rendeletben állapítja meg.
+110. § A biztosító kötelező gépjármű-felelősségbiztosítási terméke eredményelszámolásának és adatszolgáltatásának szabályait a Felügyelet elnöke rendeletben állapítja meg.
 
 ## ÖTÖDIK RÉSZ — A BIZTOSÍTÓ TULAJDONOSAIRA, VALAMINT VEZETŐIRE ÉS ALKALMAZOTTAIRA VONATKOZÓ SZABÁLYOK
 
@@ -1525,7 +1523,7 @@ akkor a Felügyelet kikéri a befektetési vállalkozás, a hitelintézet, a biz
 - b) jogállása, tulajdonosi háttere nem tisztázott, vagy nem állapítható meg;
 - c) vagyoni, üzleti helyzete nem szilárd;
 - d) súlyosan vagy ismételten megsértette e törvény vagy más, a biztosítási tevékenységre vonatkozó jogszabály előírásait és emiatt vele szemben a Felügyelet 5 évnél nem régebben kelt jogerős határozatában a kiszabható legmagasabb összegű bírságot alkalmazta, illetve a bíróság 5 évnél nem régebben kelt jogerős határozatában felelősségét megállapította;
-- e) természetes személy esetén nem rendelkezik szakmai alkalmassággal és üzleti megbízhatósággal;
+- e) nem rendelkezik szakmai alkalmassággal és üzleti megbízhatósággal;
 - f) pénzügyi, gazdasági helyzete az ajánlat tárgyát képező részesedésszerzés nagyságához viszonyítva nem minősíthető megfelelőnek, vagy a kérelem benyújtását megelőző 3 év során megfelelő gazdasági eredménnyel nem rendelkezik;
 - g) részesedésszerzésével kapcsolatosan feltételezhető, hogy pénzmosást vagy terrorizmusfinanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt részesedésszerzés növelheti ennek kockázatát;
 - h) kézbesítési megbízottal nem rendelkezik (külföldi kérelmező esetén).
@@ -1679,7 +1677,7 @@ köteles arról 30 napon belül írásban tájékoztatni a Felügyeletet.
 - c) a nem-életbiztosítási ágban működő biztosító esetén, amennyiben a biztosító a nem-életbiztosítási ág függőkártartalékát a jövőbeni hozamokat figyelembe véve diszkontáltan számítja, a diszkontálás előtti és a diszkontált függőkártartalék különbözetét az 1. számú melléklet A) részének 1. és 2. pontjaiban meghatározott ágazatokat és a függőkár tartalékba foglalt járadék értékeket kivéve valamennyi nem-életbiztosítási ágazatban,
 - d) a biztosítónak az olyan biztosítóban, harmadik országbeli biztosítóban, viszontbiztosítóban vagy biztosítói holding társaságban birtokolt – a 123. § (2) bekezdés h) pontja szerinti – osztalék elsőbbségi részvény és – a 123. § (2) bekezdés g) pontja szerinti – alárendelt kölcsöntőke értékét, amelyben részesedési viszonnyal vagy ellenőrző befolyással rendelkezik,
 - e) a biztosítónak az olyan hitelintézetben, pénzügyi vállalkozásban vagy befektetési vállalkozásban birtokolt – a Hpt. 5. számú melléklete szerinti – osztalék elsőbbségi részvény és alárendelt kölcsöntőke értékét, amelyben részesedési viszonnyal vagy ellenőrző befolyással rendelkezik,
-- f) tartalékok (kötelező tartalékok és szabad tartalékok), amelyek nem kötődnek a vállalt biztosítási kötelezettségekhez és nem függőkártartalék;
+- f)
 
 (3) A 8. számú mellékletben meghatározott minimális szavatoló tőke szükséglet számítását és fedezetének kimutatását az éves beszámolóval egyidejűleg kell elkészíteni és a Felügyelet részére megküldeni. A biztosító a negyedéves adatszolgáltatás keretében tájékoztatja a Felügyeletet a minimális szavatoló tőke szükséglete, valamint a rendelkezésre álló szavatoló tőkéje becsült értékéről.
 
@@ -1742,9 +1740,9 @@ köteles arról 30 napon belül írásban tájékoztatni a Felügyeletet.
 
 (2) A pénzügyi terv az (1) bekezdésben foglaltak megszüntetésére legfeljebb féléves időszakra terjedő intézkedéseket tartalmaz. A pénzügyi tervet a Felügyelet határozatának közlésétől számított 30 napon belül kell a biztosítónak a Felügyelethez jóváhagyásra benyújtania.
 
-(3) A Felügyelet a pénzügyi terv benyújtásától számított huszonkét munkanapon belül köteles elbírálni, hogy a pénzügyi terv alkalmas-e az (1) bekezdésben foglaltak megszüntetésére.
+(3) A Felügyelet a pénzügyi terv megérkezését követő naptól számított harminc napon belül köteles elbírálni, hogy a pénzügyi terv alkalmas-e az (1) bekezdésben foglaltak megszüntetésére.
 
-(4) A pénzügyi terv elutasítása, vagy megvalósulásának meghiúsulása esetén a Felügyelet a 195. §-ban foglalt intézkedések megtételére jogosult.
+(4) A pénzügyi terv készítésére kötelezéssel egyidejűleg, továbbá a pénzügyi terv elutasítása, vagy megvalósulásának meghiúsulása esetén a Felügyelet a 195. §-ban foglalt intézkedések megtételére jogosult.
 
 ### A szanálási terv
 
@@ -1752,25 +1750,19 @@ köteles arról 30 napon belül írásban tájékoztatni a Felügyeletet.
 
 (2) A legfeljebb egyéves időtartamra terjedő szanálási tervnek tartalmaznia kell a hiány megszüntetésének módját és ütemét. A szanálási tervet a Felügyelet határozatának közlésétől számított kilencven napon belül a biztosítónak a Felügyelethez jóváhagyásra be kell nyújtania. Ez a határidő különösen indokolt esetben harminc nappal meghosszabbítható.
 
-(3) A Felügyelet a szanálási terv benyújtásától számított negyvenöt munkanapon belül köteles elbírálni, hogy a szanálási terv alkalmas-e a biztosító szavatoló tőke hiányának megszüntetésére.
+(3) A Felügyelet a szanálási terv megérkezését követő naptól számított két hónapon belül köteles elbírálni, hogy a szanálási terv alkalmas-e a biztosító szavatoló tőke hiányának megszüntetésére.
 
-(4) A szanálási terv elutasítása vagy megvalósulásának meghiúsulása esetén a Felügyelet a 195. §-ban foglalt intézkedések megtételére jogosult.
+(4) A szanálási terv készítésére kötelezéssel egyidejűleg, továbbá a szanálási terv elutasítása vagy megvalósulásának meghiúsulása esetén a Felügyelet a 195. §-ban foglalt intézkedések megtételére jogosult.
 
 ### A pénzügyi helyreállítási terv
 
 131. § (1) Ha a biztosító működése a biztosítottak érdekeit veszélyezteti, akkor a Felügyelet a biztosítót hároméves időtartamra terjedő pénzügyi helyreállítási terv készítésére kötelezi.
 
-(2) A pénzügyi helyreállítási tervnek a következőket kell tartalmaznia:
-
-- a) az igazgatási költségek várható alakulását,
-- b) a biztosítási tevékenység – ideértve az aktív és passzív viszontbiztosítást – várható bevételeinek és kiadásainak alakulására vonatkozó részletes tervet,
-- c) az előzetes mérlegtervet,
-- d) a biztosítási szerződésből eredő kötelezettségek és a minimális szavatoló tőke szükséglet fedezetéhez szükséges pénzügyi eszközök várható alakulását,
-- e) a viszontbiztosításra vonatkozó átfogó terveket,
+(2) A Felügyelet a 79. § (3) bekezdésében, 81. § (2) bekezdésében, valamint a 94. § (8) bekezdésében foglalt tájékoztatást mindaddig megtagadja, amíg a biztosító működése a biztosítottak érdekeit veszélyezteti.
 
 (3) A pénzügyi helyreállítási tervet a Felügyelet határozatának közlésétől számított 90 napon belül a biztosítónak a Felügyelethez jóváhagyásra be kell nyújtania. Ez a határidő különösen indokolt esetben 30 nappal meghosszabbítható.
 
-(4) A Felügyelet a pénzügyi helyreállítási terv benyújtásától számított negyvenöt munkanapon belül köteles elbírálni, hogy a pénzügyi helyreállítási terv alkalmas-e a biztosító biztonságos működésének helyreállítására.
+(4) A Felügyelet a pénzügyi helyreállítási terv megérkezését követő naptól számított két hónapon belül köteles elbírálni, hogy a pénzügyi helyreállítási terv alkalmas-e a biztosító biztonságos működésének helyreállítására.
 
 (5) Ha a biztosító rosszabbodó pénzügyi helyzete a biztosítottak érdekeit veszélyezteti, akkor a biztosító rövid távú fizetőképességének biztosítása érdekében – a pénzügyi helyreállítási terv alapján – a Felügyelet a biztosító számára a 8. számú melléklet szerint számított minimális szavatoló tőke szükségletnél magasabb szavatoló tőke szükségletet is előírhat.
 
@@ -1779,7 +1771,23 @@ köteles arról 30 napon belül írásban tájékoztatni a Felügyeletet.
 - a) a viszontbiztosítási fedezet minősége az előző üzleti évhez viszonyítva lényegesen romlott, vagy
 - b) a biztosító viszontbiztosítási szerződései tényleges kockázatmegosztást nem, vagy nem elégséges mértékben biztosítanak.
 
-(7) A pénzügyi helyreállítási terv elutasítása vagy megvalósulásának meghiúsulása esetén a Felügyelet a 195. §-ban foglalt intézkedések megtételére jogosult.
+(7) A pénzügyi helyreállítási terv készítésére kötelezéssel egyidejűleg, továbbá a pénzügyi helyreállítási terv elutasítása vagy megvalósulásának meghiúsulása esetén a Felügyelet a 195. §-ban foglalt intézkedések megtételére jogosult.
+
+### A pénzügyi, szanálási és pénzügyi helyreállítási tervre vonatkozó közös rendelkezések
+
+131/A. § (1) A pénzügyi tervnek, a szanálási tervnek és a pénzügyi helyreállítási tervnek – a 129. § (2) bekezdésében és a 130. § (2) bekezdésében meghatározott követelményeken felül – a következőket kell tartalmaznia:
+
+- a) az igazgatási költségek várható alakulását,
+- b) a biztosítási tevékenység – ideértve az aktív és passzív viszontbiztosítást – várható bevételeinek és kiadásainak alakulására vonatkozó részletes tervet,
+- c) az előzetes mérlegtervet,
+- d) a biztosítási szerződésből eredő kötelezettségek és a minimális szavatolótőke-szükséglet fedezetéhez szükséges pénzügyi eszközök várható alakulását,
+- e) a viszontbiztosításra vonatkozó átfogó terveket.
+
+(2) A Felügyelet – a pénzügyi terv és a szanálási terv megvalósulásának a 129. § (2) bekezdésében és a 130. § (2) bekezdésében meghatározott időtartamot követő nyomon követése érdekében – kötelezheti a biztosítót a pénzügyi terv és a szanálási terv olyan kiegészítésére, amely az (1) bekezdésben meghatározottakat legfeljebb hároméves időtartamra vonatkozóan tartalmazza.
+
+(3) Ha a biztosító a pénzügyi tervet, a szanálási tervet és a pénzügyi helyreállítási tervet hiányosan nyújtotta be, vagy a terv nem felel meg a jogszabályban foglalt feltételeknek, célszerűtlen vagy szakszerűtlen előírást tartalmaz, a Felügyelet a biztosítót legfeljebb egy alkalommal pénzügyi terv esetében tizenöt, szanálási terv és a pénzügyi helyreállítási terv esetében pedig huszonkét munkanapon belül a terv kiegészítésére, illetve módosítására hívja fel.
+
+(4) A Felügyelet a terv kiegészítésének vagy módosításának elrendelése során figyelmezteti a biztosítót arra, hogy annak elmulasztása vagy nem megfelelő teljesítése esetén a rendelkezésre álló adatok alapján fog dönteni.
 
 ### III. Fejezet — BEFEKTETÉSI SZABÁLYOK
 
@@ -2258,6 +2266,12 @@ szemben.
 
 (13) A szolgáltató a panaszkezelési szabályzatot az ügyfelek számára nyitva álló helyiségében, ennek hiányában a székhelyén kifüggeszti és a honlapján közzéteszi.
 
+(14) A szolgáltató a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
+
+(15) A szolgáltató köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenteni.
+
+(16) Viszontbiztosítás megkötése és nagykockázatra létrejövő biztosítási szerződés esetén a szolgáltatót az e §-ban meghatározott kötelezettség nem terheli.
+
 ## NYOLCADIK RÉSZ — A BIZTOSÍTÁSI RENDSZER FELÜGYELETE
 
 ### I. Fejezet — A FELÜGYELET JOGÁLLÁSA, MŰKÖDÉSE, TEVÉKENYSÉGE
@@ -2278,7 +2292,7 @@ szemben.
 
 171. § (1) A biztosítók, a független biztosításközvetítők és a szaktanácsadók a Felügyeletnek jogszabályon alapuló rendszeres és eseti, illetve felügyeleti határozaton alapuló eseti adatszolgáltatást teljesítenek.
 
-(2) A biztosítók belső adatszolgáltatásának rendjét és tartalmát a miniszter rendeletben állapítja meg.
+(2) A biztosítók belső adatszolgáltatásának rendjét és tartalmát a Felügyelet elnöke rendeletben állapítja meg.
 
 172. § A Felügyelet részére a biztosító köteles
 
@@ -2328,7 +2342,7 @@ megküldeni.
 
 180. § (1) Az összevont alapú felügyeleti feladatok ellátása érdekében a Felügyelet – rendszeresen vagy esetenként – jelentést, adatot, illetőleg információt kérhet az összevont alapú felügyelet alá tartozó biztosítótól, amely köteles azt a Felügyeletnek megadni.
 
-(2) A Felügyeletnek az összevont alapú felügyeleti feladatok ellátásához szükséges rendszeres adatszolgáltatás módját a miniszter rendeletben állapítja meg.
+(2) A Felügyeletnek az összevont alapú felügyeleti feladatok ellátásához szükséges rendszeres adatszolgáltatás módját a Felügyelet elnöke rendeletben állapítja meg.
 
 (3) Az összevont alapú felügyelet alá tartozó biztosítónak rendelkeznie kell az összevont alapú felügyelet ellátásához szükséges adatok és információk szolgáltatására alkalmas információs rendszerrel, illetve azok megbízhatóságát biztosító belső ellenőrzési rendszerrel.
 
@@ -2374,7 +2388,7 @@ megküldeni.
 - e) a viszontbiztosítási tevékenységgel kapcsolatos ügyletek,
 - f) a költségek megosztása.
 
-(3) A biztosító a jegyzett tőkéjének (részjegytőkéjének, induló tőkéjének) 5 százalékát meghaladó értékű, (1) bekezdés szerinti ügyletekről az összevont alapú felügyeleti adatszolgáltatásról szóló, a miniszter által kiadott rendelet rendelkezéseinek megfelelően a negyedéves adatszolgáltatás, illetve az éves beszámoló keretében küld jelentést a Felügyeletnek.
+(3) A biztosító a jegyzett tőkéjének (részjegytőkéjének, induló tőkéjének) 5 százalékát meghaladó értékű, (1) bekezdés szerinti ügyletekről az összevont alapú felügyeleti adatszolgáltatásról szóló, a Felügyelet elnöke által kiadott rendeletben foglaltaknak megfelelően a negyedéves adatszolgáltatás, illetve az éves beszámoló keretében küld jelentést a Felügyeletnek.
 
 (4) A biztosítónak rendelkeznie kell olyan kockázatkezelési eljárással és belső ellenőrzési rendszerrel, beleértve a számviteli politikáját és a beszámolási rendszerét, amely alkalmas az (1) és (2) bekezdés szerinti ügylet meghatározására, mérésére és ellenőrzésére.
 
@@ -2751,7 +2765,7 @@ tekintetében.
 - s) a kiadott tevékenységi engedélyt visszavonhatja,
 - t) a kiadott alapítási engedélyt visszavonhatja.
 
-(2)
+(2) A Felügyelet az e törvényben, a biztosítási, a biztosításközvetítői, valamint a szaktanácsadói tevékenységre vonatkozó más jogszabályban, továbbá a felügyeleti határozatokban meghatározott feltételeknek való megfelelés teljesítése érdekében, határozott időtartamra szóló intézkedési terv kidolgozására, illetve – jóváhagyás esetén – az abban foglaltak végrehajtására kötelezheti a biztosítót, a biztosításközvetítőt, valamint a szaktanácsadót.
 
 196. § (1) A Felügyelet a biztosítót, a biztosító ügyvezetőjét, a független biztosításközvetítőt, a szaktanácsadót, a független biztosításközvetítői és a szaktanácsadói tevékenység irányítóját, valamint azt, aki az e törvényben foglalt tevékenységet engedély, illetve felügyeleti nyilvántartásba vétel nélkül végzi, felügyeleti bírság megfizetésére kötelezheti, ha az
 
@@ -2781,13 +2795,11 @@ tekintetében.
 
 (6) A felügyeleti biztos az általa megtett intézkedésekről a tulajdonosokat (tagokat) – írásbeli kérésükre – 3 napon belül írásban köteles tájékoztatni.
 
-(7) Felügyeleti biztosként olyan személy rendelhető ki, aki megfelel a 83. § (3) bekezdésében előírt követelményeknek.
+(7)–(8)
 
-(8) A felügyeleti biztosnak kirendelésekor írásban nyilatkoznia kell arról, hogy ő maga vagy közeli hozzátartozója valamely biztosítónál, biztosításközvetítőnél, szaktanácsadói tevékenységet folytató társaságnál milyen és mekkora név-, illetve forgalmi értéket képviselő tulajdoni hányaddal rendelkezik.
+200. §
 
-200. § A felügyeleti biztos az e minőségében okozott kárért kizárólag a Felügyeletnek tartozik felelősséggel, vele szemben közvetlenül kártérítési igény nem érvényesíthető. A felügyeleti biztos által e minőségében harmadik személynek okozott károkért a Felügyelet felel.
-
-201. § A Felügyelet köteles a felügyeleti biztos nevét és lakóhelyét – bejegyzés és közzététel végett – kijelölésével egy időben a cégbíróságnak bejelenteni.
+201. §
 
 ### A tevékenység felfüggesztése
 
@@ -2831,13 +2843,25 @@ tekintetében.
 
 (5) Az engedély visszavonásáról a Felügyelet köteles valamennyi tagállam felügyeleti hatóságát értesíteni, és az engedély visszavonását az Európai Közösségek Hivatalos Lapjában közzétenni.
 
-205. § A Felügyelet a biztosító tevékenységi engedélyét a miniszter előzetes hozzájárulásával vonhatja vissza.
+205. § (1) A Felügyelet a biztosítási tevékenység megszüntetését akkor engedélyezi, ha a biztosító a biztosítási tevékenységből eredő valamennyi kötelességét teljesítette.
+
+(2) A kötelezettségek teljesítésének lehetséges módjai különösen:
+
+- a) az állomány átruházása,
+- b) a biztosítási szerződések felmondása,
+- c) a biztosítottakkal történő megállapodás.
+
+(3) A (2) bekezdésben foglalt körülmények bizonyítására alkalmas okiratokat a biztosító köteles a Felügyeletnek benyújtani.
+
+(4) A Felügyelet meghatározhatja azokat a feltételeket és előírásokat, amelyek teljesítéséig a biztosító a működését – az arra vonatkozó szabályok szerint – köteles folytatni.
+
+(5) Ha a Felügyelet a biztosítási tevékenység megszüntetéséhez hozzájárult, egyidejűleg dönt – a 204. § (1) bekezdés f) pontjában foglaltak alapján – a tevékenységi engedély visszavonásáról.
 
 ### A Felügyelet tájékoztatási kötelezettsége
 
 206. § (1) A Felügyelet az általa kiadott alapítási és biztosítási tevékenységi engedélyről, annak módosításáról vagy visszavonásáról szóló határozatát haladéktalanul megküldi a miniszternek, az MNB-nek, a cégbíróságnak, az egyesületek nyilvántartását végző fővárosi (megyei) bíróságnak, a Gazdasági Versenyhivatalnak és a biztosítók szakmai érdekképviseleti szervezeteinek.
 
-(2) A Felügyelet az általa kiadott független biztosításközvetítői és vezérügynöki engedélyekről, azok módosításáról vagy visszavonásáról szóló határozatot haladéktalanul megküldi a cégbíróságnak.
+(2)
 
 (3)
 
@@ -2862,7 +2886,7 @@ tekintetében.
 - c) biztosító egyesület esetén: kettő,
 - d) a 126. § (4) bekezdésének b) pontja szerinti biztosító egyesület esetén, ha éves díjbevételének és tagsági hozzájárulásának együttes összege nem éri el a 126. § (4) bekezdésének bf) alpontjában meghatározott összeget: fél,
 - e) biztosítási szaktanácsadó, illetve külföldi biztosító, biztosításközvetítő, biztosítási szaktanácsadó magyarországi képviselete esetén: egy,
-- f) független biztosításközvetítő esetén legalább egy, de minden ötven – általa alkalmazott, vagy megbízott – biztosításközvetítést végző természetes személy és gazdálkodó szervezet után: egy.
+- f) független biztosításközvetítő esetén legalább egy, de minden ötven – általa, továbbá a részéről megbízott gazdálkodó szervezet által alkalmazott, vagy megbízott – biztosításközvetítést végző természetes személy után: egy.
 
 (5) A szorzószám
 
@@ -2980,7 +3004,7 @@ a Felügyelet a felszámolás elkerülése, valamint a biztosítottak érdekébe
 
 (4) Ha a felszámolási eljárás lefolytatását követően a biztosító egyesület megszűnik, az erről szóló végzés jogerőre emelkedésének napjával a biztosító egyesületet – a bíróság értesítése alapján – törölni kell a nyilvántartásból.
 
-220. § (1) Biztosító részvénytársaság, a harmadik országbeli biztosító fióktelepe és a biztosító szövetkezet felszámolójának vagy végelszámolójának, továbbá a biztosító egyesület e törvény szerinti felszámolójának kizárólag a Felügyelet által létrehozott közhasznú társaság jelölhető ki.
+220. § (1) Biztosító részvénytársaság, a harmadik országbeli biztosító fióktelepe és a biztosító szövetkezet felszámolójának vagy végelszámolójának, továbbá a biztosító egyesület e törvény szerinti felszámolójának kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki.
 
 (2) A felszámolót, végelszámolót a 153–165. §-okban előírt titoktartási kötelezettség terheli.
 
@@ -3023,23 +3047,19 @@ a Felügyelet a felszámolás elkerülése, valamint a biztosítottak érdekébe
 
 (2) A biztosító biztosítási szerződésből származó kötelezettségeit az alábbi sorrendben teljesíti:
 
-- a) az életbiztosítási és betegségbiztosítási szerződésből eredő kötelezettségek, továbbá a balesetbiztosítási szerződésből eredő, illetve a felelősségbiztosítási szerződésből eredő járadékfizetési kötelezettségek,
+- a) az életbiztosítási és betegségbiztosítási szerződésből eredő kötelezettségek, továbbá a balesetbiztosítási szerződésből eredő, illetve a felelősségbiztosítási szerződésből eredő járadékfizetési kötelezettségek (a Kártalanítási Alapot megillető követelések kivételével),
 - b) a felszámolás kezdő időpontjáig bekövetkezett – és a Cstv.-ben meghatározott határidőn belül bejelentett – biztosítási események alapján elismert szolgáltatások,
 - c) a Kártalanítási Alapot az általa teljesített szolgáltatások alapján megillető követelések,
 - d) az előre fizetett biztosítási díjakból származó visszafizetési kötelezettségek,
 - e) az egyéb követelések.
 
+(3) Biztosító felszámolása esetén az eljárás felfüggesztésének nincs helye.
+
 ### A végelszámolás
 
 225. § A biztosító jogutód nélküli megszűnését kimondó határozatához a Felügyelet előzetes egyetértése szükséges.
 
-226. § (1) A Felügyelet az előzetes egyetértést akkor adja meg, ha a biztosító a biztosítási tevékenységből eredő valamennyi kötelezettségét teljesítette. A kötelezettségek teljesítésének lehetséges módjai különösen:
-
-- a) az állomány átruházása,
-- b) a biztosítási szerződések felmondása,
-- c) a biztosítottakkal történő megállapodás. Az ezek bizonyítására alkalmas okiratokat a biztosító köteles a Felügyeletnek benyújtani.
-
-(2) A Felügyelet a 225. §-ban foglalt előzetes egyetértés megadásával egyidejűleg a biztosító tevékenységi engedélyét visszavonja.
+226. § A Felügyelet az előzetes egyetértést a 205. § (5) bekezdésében meghatározott döntések meghozatalát követően adhatja meg.
 
 ## TIZEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -3114,6 +3134,30 @@ a Felügyelet a felszámolás elkerülése, valamint a biztosítottak érdekébe
 
 (12) Az e törvény hatálybalépésekor vezérügynöki tevékenységet végző legkésőbb 2004. szeptember 30-ig köteles a felügyeleti engedély iránti kérelmét a Felügyeletre benyújtani és az 50. § (3) bekezdésében foglalt feltételek meglétét 2004. december 31-ig igazolni. Az 50. § (3) bekezdésében meghatározott feltételek teljesítése alól a Felügyelet indokolt kérelemre 2006. december 31-ig felmentést adhat.
 
+231/A. § (1) A független biztosításközvetítő az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 116. § (2) bekezdésével megállapított – 38. § (5) bekezdésében foglalt feltételeknek a módosítás hatálybalépését követő első adatszolgáltatási kötelezettség teljesítéséig kell megfelelnie.
+
+(2) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 117. §-ával módosított – 57. § (1) bekezdés m) pontjának rendelkezéseit csak a módosítás hatálybalépését követően foglalkoztatásra, megbízásra, kinevezésre kerülő független biztosításközvetítői tevékenységet irányító személyekre kell alkalmazni, a módosítás hatálybalépésének napján már ilyen tevékenységet végző személyek engedélyezési eljárás lefolytatása nélkül végezhetik tevékenységüket.
+
+(3) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 116. § (3) bekezdésével módosított – 38. § (6) bekezdés b) pontjában foglalt feltételt csak a módosítás hatálybalépését követően foglalkoztatásra, megbízásra, kinevezésre kerülő független biztosításközvetítői tevékenységet irányító személyekre kell alkalmazni.
+
+(4) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 116. § (4) bekezdésével kiegészített – 38. § (6) bekezdés e) pontjában foglalt feltételt csak a módosítás hatálybalépését követően foglalkoztatásra, megbízásra, kinevezésre kerülő független biztosításközvetítői tevékenységet irányító személyekre kell alkalmazni.
+
+(5) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 118. §-ával módosított – 63. § (3) bekezdését a módosítás hatálybalépését követően indított engedélyezési eljárásokra kell alkalmazni.
+
+(6) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 119. §-ával módosított – 68. § (1) bekezdés a) pontját a módosítás hatálybalépését követően indított engedélyezési eljárásokra kell alkalmazni.
+
+(7) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 121. §-ával módosított – 83. § (3) bekezdés c) pontját a módosítás hatálybalépését követően bejelentett vezető állású személyek kinevezésére kell alkalmazni.
+
+(8) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 122. §-ával módosított – 91. § (4) bekezdés b) pontját a módosítás hatálybalépését követően indított eljárásokra kell alkalmazni.
+
+(9) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 123. §-ával módosított – 92. § (2) bekezdését a módosítás hatálybalépését követően indított engedélyezési eljárásokra kell alkalmazni.
+
+(10) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 124. §-ával módosított – 112. § (1) bekezdés e) pontját a módosítás hatálybalépését követően indított engedélyezési eljárásokra kell alkalmazni.
+
+(11) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 125–128. §-aival módosított – 129. § (4) bekezdését, 130. § (4) bekezdését, 131. § (2) bekezdését, 131. § (7) bekezdését és a 131/A. §-t a módosítás hatálybalépését követően hozott pénzügyi, szanálási és pénzügyi helyreállítási terv készítésére kötelezést előíró határozatok esetén kell alkalmazni.
+
+(12) Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 134. §-ával módosított – 226. §-át a módosítás hatálybalépését követően indított eljárásokra kell alkalmazni.
+
 ### Módosuló jogszabályok
 
 232. § Ahol a hatálybalépés előtt kihirdetett jogszabály a biztosítóintézetekről és a biztosítási tevékenységről szóló 1995. évi XCVI. törvényre vagy a Bit.-re utal, azon e törvényt kell érteni.
@@ -3135,24 +3179,31 @@ rendeletben állapítsa meg.
 
 235. § Felhatalmazást kap a miniszter, hogy
 
-- a) a független biztosításközvetítői jelentés szabályait,
+- a)
 - b) a függő és a független biztosításközvetítői hatósági képzés szabályait, a hatósági képzés során szerzett, függő és független biztosításközvetítői tevékenység folytatására feljogosító okirat megszerzésének követelményeit, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére vonatkozó szabályokat,
 - c) a jelzáloghitelezési tevékenységgel kapcsolatos kockázatok megállapításának, elemzésének, értékelésének, behatárolásának, kezelésének, csökkentésének és a kockázatvállalás ellenőrzésének részletes szabályait,
-- d) a technikai kamatláb legnagyobb mértékét,
-- e) a biztosítók által a Felügyeletnek teljesítendő belső adatszolgáltatás rendjét és tartalmát,
+- d)
+- e)
 - f) a biztosítástechnikai tartalékok tartalmát, képzésének és felhasználásának rendjét,
 - g) a befektetési egységhez kötött életbiztosítások esetén az ügyfeleknek szóló adatszolgáltatás formáját és tartalmát,
-- h)
-- i) a biztosító kötelező gépjármű-felelősségbiztosítási terméke eredményelszámolásának és adatszolgáltatásának szabályait,
+- h) az igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat,
+- i)
 - j) a nagykockázatok és a nagykárok határértékeit,
-- k) az aktuáriusi jelentés tartalmi követelményeit,
-- l) a Felügyelet adatszolgáltatási kötelezettsége körét,
+- k)
+- l)
 - m) a biztosítási ágak elkülönítésének módját,
-- n) a Felügyeletnek az összevont alapú felügyeleti feladatok ellátásához szükséges rendszeresen szolgáltatandó adatok körét,
+- n)
 - o)
 - p) a biztosításközvetítői és biztosítási szaktanácsadói nyilvántartás működtetésének szabályait,
 - q)
 - r) a pénzügyi konglomerátumra vonatkozó kiegészítő felügyeleti szintű számítások módját, tartalmát, szerkezetét és gyakoriságát
+
+rendeletben állapítsa meg.
+
+235/A. § Felhatalmazást kap a Felügyelet elnöke, hogy
+
+- a) a technikai kamatláb legnagyobb mértékét,
+- b) a biztosító kötelező gépjármű-felelősségbiztosítási terméke eredményelszámolásának szabályait
 
 rendeletben állapítsa meg.
 

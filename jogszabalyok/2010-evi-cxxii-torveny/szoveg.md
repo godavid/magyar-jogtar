@@ -683,6 +683,8 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 
 (2) Az egyes feladatokhoz kapcsolódó adatokat elkülönítetten kell kezelni, és – ha törvény eltérően nem rendelkezik – kizárólag a kezelésük alapjául szolgáló célra lehet felhasználni.
 
+(3) A NAV az (1) bekezdésben meghatározottak szerint kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+
 67. § (1) Az Art., a Vtv. és az egyéb adó- és vám jogszabályok alapján a NAV hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási, vámigazgatási és a szerencsejáték szervezéséről szóló törvény hatálya alá tartozó hatósági felügyeleti tevékenységgel összefüggő igazgatási eljárással kapcsolatos, a NAV adóztatási szerve által kezelt adatokat a NAV vámszerve, illetve a NAV vámszerve által kezelt adatokat a NAV adóztatási szerve a feladatkörében eljárva megismerheti, felhasználhatja, ideértve a megismert adatnak az ellenőrzésre történő kiválasztás során történő felhasználását is. Az olyan, a NAV adóztatási szervénél, illetve vámszervénél keletkezett (meglévő) adatot, melyet jogszabály alapján a NAV e bekezdés szerinti másik szerve nyilvántartásának tartalmaznia kell, az adóztatási szerv, illetve a vámszerv elektronikus úton adja át a NAV e bekezdés szerinti másik szervének.
 
 (2) Az e törvényben nem szabályozott kérdésekben a NAV hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási és vámigazgatási eljárással kapcsolatos adatok kezelésére, nyilvántartására, az adatszolgáltatásra, az adatok átvételére és átadására az Art., a Vtv. és az egyéb adó- és vám jogszabályok rendelkezéseit kell irányadónak tekinteni.

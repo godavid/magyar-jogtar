@@ -1639,7 +1639,7 @@ számítandó.
 - b) az alapítók nyilatkozatát a valamennyi részvény átvételére vonatkozó kötelezettségvállalásról és a részvényeknek az alapítók közötti megoszlásáról;
 - c) az alapítás során kibocsátandó részvények számát, névértékét, illetve kibocsátási értékét, hányad részvény esetén a hányad részvények névértékét, valamint a részvények előállításának módját;
 - d) a 37. §-ban és a 247. §-ban foglalt kivételekkel az első igazgatóság tagjainak nevét (lakóhelyét);
-- e) a részvénytársaság első könyvvizsgálójának nevét (lakóhelyét, székhelyét);
+- e)
 - f) a közgyűlés összehívásának módját, továbbá a szavazati jog gyakorlásának feltételeit és módját.
 
 (2) Szükség szerint tartalmazza az alapszabály:
@@ -1651,7 +1651,7 @@ számítandó.
 - e) a részvények kötelező bevonásával [267. § (3) bekezdés] összefüggésben szükséges rendelkezéseket;
 - f) az igazgatóság felhatalmazását – a visszaváltható részvényhez kapcsolódó jogok gyakorlásával, a saját részvény megszerzésével, osztalékelőleg fizetésével, valamint az alaptőkének az alaptőkén felüli vagyon terhére történő felemelésével kapcsolatban – közbenső mérleg elfogadására;
 - g) vezérigazgató (247. §) választása esetén az első vezérigazgató nevét (lakóhelyét);
-- h) felügyelőbizottság választása esetén az első felügyelőbizottság tagjainak nevét (lakóhelyét);
+- h) felügyelőbizottság választása esetén az első felügyelőbizottság tagjainak nevét (lakóhelyét), könyvvizsgáló választása esetén az első könyvvizsgáló nevét (lakóhelyét, székhelyét);
 - i) mindazt, amiről a részvényesek az alapszabályban rendelkezni kívánnak.
 
 209. § (1) Nem pénzbeli hozzájárulás szolgáltatása esetén – az e törvényben meghatározott esetek kivételével – az alapszabályhoz mellékelni kell a könyvvizsgáló, illetve más szakértő (a továbbiakban: könyvvizsgáló) jelentését, amely tartalmazza a nem pénzbeli hozzájárulás leírását és értékelését – ezzel összefüggésben a könyvvizsgáló arra vonatkozó megállapítását, hogy a nem pénzbeli hozzájárulásnak az alapítók által előzetesen megállapított értéke egyensúlyban van-e az ellenében adandó részvények számával, névértékével –, valamint az alkalmazott értékelési szempontok ismertetését. A részvénytársaság választott könyvvizsgálója a nem pénzbeli hozzájárulás értékének előzetes felülvizsgálatára nem jogosult.
@@ -1762,13 +1762,13 @@ számítandó.
 
 ### Saját részvény
 
-223. § (1) A részvénytársaság az általa kibocsátott részvényeknek (saját részvény) az alapítás során történő átvételére nem jogosult. A részvénytársaság saját részvényeit – e törvény eltérő rendelkezése hiányában – kizárólag alaptőkén felüli vagyona fedezete mellett szerezheti meg.
+223. § (1) A részvénytársaság az általa kibocsátott részvényeknek (saját részvény) az alapítás során történő átvételére nem jogosult. A részvénytársaság saját részvényeit – e törvény eltérő rendelkezése hiányában – kizárólag alaptőkén felüli vagyona fedezete mellett szerezheti meg, kivéve, ha a szabályozott piacra bevezetett részvények kivezetése során a részvényes az eladási jogát gyakorolja. A részvénytársaság köteles a szabályozott piacra bevezetett részvények kivezetése során a részvényes eladási jogának gyakorlása következtében megszerzett részvényeket 2 éven belül elidegeníteni, vagy azokat bevonni.
 
 (2)
 
 (3) Tilos azoknak a részvényeknek a megszerzése, amelyek névértékének, illetve kibocsátási értékének teljes befizetése (rendelkezésre bocsátása) nem történt meg.
 
-(4) Tilos a saját részvény megszerzése, ha az adott üzleti évben a részvénytársaság a 219. § (1) bekezdésében meghatározott feltételek hiányában nem fizethet osztalékot. Ennek megállapítására a számviteli törvény szerinti beszámolóban és a közbenső mérlegben foglaltakat a mérleg fordulónapját követő hat hónapon belül lehet figyelembe venni.
+(4) Tilos a saját részvény megszerzése, ha az adott üzleti évben a részvénytársaság a 219. § (1) bekezdésében meghatározott feltételek hiányában nem fizethet osztalékot, kivéve a szabályozott piacra bevezetett részvények kivezetése esetén. Ennek megállapítására a számviteli törvény szerinti beszámolóban és a közbenső mérlegben foglaltakat a mérleg fordulónapját követő hat hónapon belül lehet figyelembe venni. A részvénytársaság köteles a szabályozott piacra bevezetett részvények kivezetése során a részvényes eladási jogának gyakorlása következtében megszerzett részvényeket 2 éven belül elidegeníteni, vagy azokat bevonni.
 
 224. § A saját részvény megszerzésének feltétele, hogy a közgyűlés az igazgatóságot arra, a feltételek meghatározásával felhatalmazza. A felhatalmazás szólhat egyszeri alkalomra vagy legfeljebb tizennyolc hónapos időtartamra. A felhatalmazással együtt meg kell határozni különösen a megszerezhető részvények fajtáját (osztályát), számát, névértékét, visszterhes megszerzés esetében az ellenérték legalacsonyabb és legmagasabb összegét.
 
@@ -2340,7 +2340,7 @@ kerül sor.
 
 304. § (1) A nyilvánosan működő részvénytársaság a számviteli törvény szerinti beszámoló tervezetének és az igazgatóság, valamint a felügyelőbizottság jelentésének lényeges adatait, az összehívás időpontjában meglévő részvények és szavazati jogok számára vonatkozó összesítéseket (ideértve az egyes részvényosztályokra vonatkozó külön összesítéseket), valamint a napirenden szereplő ügyekkel kapcsolatos előterjesztések összefoglalóját és a határozati javaslatokat a részvénytársaság hirdetményeinek közzétételére vonatkozó alapszabályi rendelkezések szerint, de legalább a részvénytársaság honlapján a közgyűlést legalább huszonegy nappal megelőzően nyilvánosságra hozza. Amennyiben a részvényesek éltek a 217. §-ban, valamint a 300. §-ban foglalt jogaikkal és ez a közgyűlés napirendjének módosításával jár, akkor a kiegészített napirend, illetve a részvényesek által előterjesztett határozati javaslatok közzétételének módjára e rendelkezés megfelelően irányadó.
 
-(2) Az alapszabály eltérő rendelkezése hiányában a közgyűlésen részt venni szándékozó részvényes, illetve részvényesi meghatalmazott nevét a közgyűlés megkezdéséig kell a részvénykönyvbe bejegyezni. Ha az alapszabály rendelkezik arról az időpontról, ameddig a fenti bejegyzésre sor kerülhet, ez az időpont a közgyűlés kezdő napját megelőző hetedik munkanapnál nem lehet korábbi.
+(2) A közgyűlésen részt venni szándékozó részvényes, illetve részvényesi meghatalmazott nevét a közgyűlés kezdő napját megelőző második munkanapig kell a részvénykönyvbe bejegyezni.
 
 (3) A közgyűlésen a részvényesi jogok gyakorlására az a személy jogosult, akinek nevét – lezárásának időpontjában – a részvénykönyv tartalmazza. A részvénykönyv lezárása nem korlátozza a részvénykönyvbe bejegyzett személy jogát részvényeinek a részvénykönyv lezárását követő átruházásában. A részvénynek a közgyűlés kezdő napját megelőző átruházása nem zárja ki a részvénykönyvbe bejegyzett személynek azt a jogát, hogy a közgyűlésen részt vegyen és az őt mint részvényest megillető jogokat gyakorolja.
 
@@ -2601,6 +2601,10 @@ kerül sor.
 
 (4) Amennyiben a társasági szerződés módosítására a (2)–(3) bekezdés alapján nincs szükség, a gazdasági társaság e törvény rendelkezéseihez történő igazodását a cégbíróság felé – illeték és közzétételi költségtérítés megfizetése nélkül – bejelentéssel teljesíti. A bejelentésben a cég nyilatkozik arról, hogy a társasági szerződés (2) bekezdés szerinti módosítására nincs szükség, illetve arról, hogy a bejelentésben megjelölt időponttól e törvény rendelkezései szerint működik. Bejelentés, vagy a (2) bekezdés szerinti társasági szerződés módosítás hiányában a törvény hatálybalépése előtt a cégjegyzékbe már bejegyzett, valamint az (1) bekezdés alá tartozó gazdasági társaságoknak e törvényt 2008. július 1-jétől kell alkalmazniuk.
 
+336/A. § E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel módosított 208. §-a (1) bekezdésének e) pontját, 208. §-a (2) bekezdésének h) pontját a 2011. január 1-jét követően elfogadott alapszabályok esetében kell figyelembe venni.
+
+336/B. § A cégjegyzékbe már bejegyzett nyilvánosan működő részvénytársaságok legfőbb szervei az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 138. §-ával megállapított – 304. § (2) bekezdése hatálybalépését követő első ülésén, de legkésőbb 2011. június 30-áig kötelesek társasági szerződésüket e rendelkezéshez igazítva módosítani, és eddig az időpontig azt a cégbírósághoz benyújtani.
+
 ### Jogharmonizációs záradék
 
 337. § E törvény – a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
@@ -2639,7 +2643,7 @@ kerül sor.
 - b) a gépjárműadóról szóló 1991. évi LXXXII. törvény 5. §-ának a) pontjában;
 - c) az államháztartásról szóló 1992. évi XXXVIII. törvény 104/A. §-ának (1)–(2) bekezdésében;
 - d) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 45/B. §-ának (3) bekezdésében és 67. §-ának (3) bekezdésének d) pontjában;
-- e) a rádiózásról és a televíziózásról szóló 1996. évi I. törvény 85. §-ának (3) bekezdésében és 95. §-ának (5) bekezdésében;
+- e)
 - f) a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 12. §-ának (4) bekezdésében és 16. §-ának (2)–(3) bekezdésében;
 - g) a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény 24. §-ának (3)–(5) bekezdésében;
 - h) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 139. §-a (5) bekezdésének e) pontjában, valamint 176/A. §-ának (2)–(3) bekezdésében;

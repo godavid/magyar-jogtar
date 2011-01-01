@@ -83,7 +83,8 @@ a pénzügyi közvetítőrendszer felügyeletének hatékonyabbá tételéhez sz
 85. § (1) Az Fgytv.-nek, a Psztv.-nek, az Fttv.-nek és a Grt.-nek az e törvénnyel
 
 - a) megállapított vagy módosított eljárási rendelkezéseit az e törvény hatálybalépését követően indult vagy megismételt eljárásokban kell alkalmazni,
-- b) hatályon kívül helyezett eljárási rendelkezéseit az e törvény hatálybalépése előtt indult vagy megismételt eljárásokban alkalmazni kell.
+- b) hatályon kívül helyezett eljárási rendelkezéseit az e törvény hatálybalépése előtt indult vagy megismételt eljárásokban alkalmazni kell,
+- c) hatályon kívül helyezett eljárási rendelkezéseit – az a) és a b) ponttól eltérően – a 2010. január 1-jét megelőzően indult eljárásból eredő, 2010. december 31-ét követően megindított megismételt eljárásokban kell alkalmazni.
 
 (2) Az Fgytv. 21. §-a (4) bekezdésének b) pontjában a békéltető testület tagjaira vonatkozóan meghatározott, e törvény 26. §-ával megállapított követelményt 2010. május 1-jétől kell alkalmazni.
 

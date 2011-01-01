@@ -197,6 +197,10 @@ tekintetében.
 
 személlyel létesíthető.
 
+(2a) Ha a rendőrségről szóló törvény az e törvényben meghatározott munkavégzési szabályra külön ellenőrzési lehetőséget teremt a munkáltató közalkalmazottai tekintetében, a közalkalmazotti jogviszony létesítésének és fenntartásának feltétele az ellenőrzéshez való hozzájárulás.
+
+(2b) A munkáltatóval közalkalmazotti jogviszonyban állók tekintetében – ha a rendőrségről szóló törvény előírja – a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv ellenőrizheti, hogy a munkáltatóval közalkalmazotti jogviszonyban álló közalkalmazott eleget tesz-e az e törvényben meghatározott hivatali kötelezettségének.
+
 (3) Végrehajtási jogszabály a jogviszony létesítéséhez
 
 - a) a (2) bekezdés b) és c) pontjában foglalt feltétel alól mentesítést adhat,
@@ -249,19 +253,14 @@ a helyben szokásos módon köteles közzétenni. Végrehajtási jogszabály hiv
 - b) arról szóló nyilatkozatát, hogy a pályázati anyagában foglalt személyes adatainak a pályázati eljárással összefüggésben szükséges kezeléséhez hozzájárul,
 - c) a külön jogszabályban vagy a pályázatban előírt további követelmények igazolására vonatkozó okiratokat.
 
-(6) Jogszabály eltérő rendelkezése hiányában magasabb vezetői munkakörre vagy beosztásra kiírt pályázat esetén a pályázót a pályázati határidő lejártát követő huszonegy napon belül a kinevezési, megbízási jogkör gyakorlója által létrehozott legalább háromtagú, a betöltendő munkakör feladatait érintően szakértelemmel rendelkező bizottság hallgatja meg, melynek nem lehet tagja – a helyi önkormányzati képviselő-testület tagja kivételével – a kinevezési, megbízási jogkör gyakorlója. A kinevezési, megbízási jogkör gyakorlója a bizottság írásba foglalt véleményét mérlegelve a pályázati határidő lejártát követő
+(6) Jogszabály eltérő rendelkezése hiányában magasabb vezetői beosztásra kiírt pályázat esetén a pályázót a pályázati határidő lejártát követő huszonegy napon belül a kinevezési, megbízási jogkör gyakorlója által létrehozott legalább háromtagú, a betöltendő munkakör feladatait érintően szakértelemmel rendelkező bizottság hallgatja meg, melynek nem lehet tagja – a helyi önkormányzati képviselő-testület tagja kivételével – a kinevezési, megbízási jogkör gyakorlója. A kinevezési, megbízási jogkör gyakorlója a bizottság írásba foglalt véleményét mérlegelve a pályázati határidő lejártát követő
 
 - a) hatvan napon belül, vagy
 - b) első ülésén, ha e jogot testület gyakorolja, dönt a közalkalmazotti jogviszony létesítéséről, illetve a vezetői megbízásról. Egyebekben a pályázat elbírálásának rendjét a munkáltató határozza meg.
 
 (7) A benyújtott pályázat tartalma – törvény eltérő rendelkezése hiányában – csak a pályázó beleegyezésével közölhető harmadik személlyel. Sikertelen pályázat esetén a pályázó részére a pályázati anyagot vissza kell juttatni. Amennyiben a pályázó az általa benyújtott, személyes adatokat tartalmazó adathordozót a pályázat elbírálási határidejétől számított kilencven napon belül nem veszi át, azokat meg kell semmisíteni és személyes adatait törölni kell.
 
-(8) A munkáltató vezetésére szóló kinevezésre kiírt pályázatra a (2) bekezdés nem alkalmazható.
-
-(9) A magasabb vezető és a vezető munkakör – a munkáltató vezetője kivételével – pályázat kiírása nélkül is betölthető
-
-- a) a (2) bekezdés a)–b) pontja szerinti esetben, továbbá
-- b) ha a közalkalmazott az erre vonatkozó kinevezésmódosítást megelőzően legalább egy éve közalkalmazotti jogviszonyban áll a munkáltatóval.
+(8)–(9)
 
 20/B. § (1) A magasabb vezető és a vezető beosztás ellátására szóló megbízásra a 20/A. § (1) és (3)–(8) bekezdései alkalmazásával pályázatot kell kiírni. A pályázatot a megbízási jogkör gyakorlója írja ki.
 
@@ -286,14 +285,9 @@ a helyben szokásos módon köteles közzétenni. Végrehajtási jogszabály hiv
 
 létesíthető határozott időre történő kinevezéssel. Ezen túlmenően a határozatlan időre szóló közalkalmazotti jogviszony határozott idejűvé módosítandó, ha a közalkalmazott a prémiumévek programban történő részvételéhez hozzájárul.
 
-(3) A kinevezési okmánynak tartalmaznia kell a közalkalmazott munkakörét, a besorolásának alapjául szolgáló fizetési osztályt és fokozatot (kinevezett vezető esetén munkaköre osztályba sorolásának megjelölését), az illetményét és a munkavégzés helyét. A tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi illetmény és a havi rendszeres illetménypótlékok együttes összege nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét. A kinevezési okmányban más, a közalkalmazotti jogviszonyt érintő kérdés is meghatározható.
+(3) A kinevezési okmánynak tartalmaznia kell a közalkalmazott munkakörét, a besorolásának alapjául szolgáló fizetési osztályt és fokozatot, az illetményét és a munkavégzés helyét. A tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi illetmény és a havi rendszeres illetménypótlékok együttes összege nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét. A kinevezési okmányban más, a közalkalmazotti jogviszonyt érintő kérdés is meghatározható.
 
-(4) Ha a kinevezés módosítása következtében
-
-- a) a kinevezett vezető alacsonyabb osztályba sorolt vezetői munkakört tölt be, illetményét a 66/A. § szerint, vagy
-- b) a korábbi kinevezett vezető nem vezetői munkakört tölt be, illetményét fizetési osztályának és fokozatának alapján
-
-kell megállapítani. Ha a kinevezésmódosítást megelőző illetmény összege az e törvény szerinti garantált mértéket meghaladta, a kinevezés módosításakor – a 30/C. § (3) bekezdésében foglaltak kivételével – az illetmény összegét a megelőző illetmény és a garantált illetmény közötti eltérés százalékban meghatározott arányának megfelelően kell megállapítani.
+(4)
 
 (5) A közalkalmazotti jogviszonyt határozatlan idejűnek kell tekinteni, ha a határozott időre történő kinevezés nem felel meg a (2) bekezdésben foglaltaknak.
 
@@ -391,29 +385,25 @@ eredmény adható.
 - b) a munkáltató szervezeti összetettségére, továbbá
 - c) a munkakörbe tartozó vezetői hatáskör terjedelmére.
 
-23. § (1) A magasabb vezetői, illetve vezetői feladat ellátása önálló munkakörre szóló kinevezéssel (a továbbiakban: kinevezett vezető), illetőleg magasabb vezető, illetve vezető beosztásra szóló megbízással (a továbbiakban: megbízott vezető) történik. A magasabb vezető, illetve vezető megbízás feltétele, hogy a közalkalmazott – a kinevezés szerinti munkaköre mellett – látja el a magasabb vezetői, illetve vezetői beosztásból eredő feladatait. Magasabb vezető – a 90. §-ban foglalt kivétellel – csak felsőfokú iskolai végzettséggel rendelkező közalkalmazott lehet. A megbízást és annak elfogadását írásba kell foglalni. Nem lehet kinevezett vagy megbízott vezető a közalkalmazott a gyakornoki idő tartama alatt.
+23. § (1) A magasabb vezetői, illetve vezetői feladat ellátása magasabb vezető, illetve vezető beosztásra történő megbízással (a továbbiakban: megbízott vezető) történik. A magasabb vezetői, illetve vezetői megbízás feltétele, hogy a közalkalmazott – a kinevezés szerinti munkaköre mellett – látja el a magasabb vezetői, illetve vezetői beosztásból eredő feladatait. A megbízást és annak elfogadását írásba kell foglalni. Magasabb vezető – a 90. §-ban foglalt kivétellel – csak felsőfokú iskolai végzettséggel rendelkező közalkalmazott lehet. Nem lehet megbízott vezető a közalkalmazott a gyakornoki idő tartama alatt.
 
-(2) A munkáltató vezetője és helyettese, valamint a munkáltató működése szempontjából meghatározó jelentőségű feladatot ellátó vezető magasabb vezetőnek minősül. A magasabb vezető, valamint a vezető munkaköröket, illetve megbízásokat, továbbá a kinevezés, illetve a megbízás feltételeit a végrehajtási rendelet határozza meg.
+(2) A munkáltató vezetője és helyettese, valamint a munkáltató működése szempontjából meghatározó jelentőségű feladatot ellátó vezető magasabb vezetőnek minősül. A magasabb vezetői, valamint vezetői megbízások körét, továbbá a megbízás feltételeit a végrehajtási rendelet határozza meg.
 
-(3) A magasabb vezető, valamint a vezető megbízás határozatlan időre szól. Jogszabály legfeljebb tíz évig terjedő határozott időre szóló megbízást is előírhat.
+(3) A magasabb vezetői, valamint a vezetői megbízás jogszabályban megjelölt, legfeljebb 5 évig terjedő határozott időre szól.
 
-(4) A megbízás visszavonását – a közalkalmazott kérelmére – indokolni kell. Az indokolásból a visszavonás okának világosan ki kell tűnnie. Vita esetén a visszavonás indokának valóságát és okszerűségét a munkáltatónak kell bizonyítania. A közalkalmazott az indokolást a visszavonás kézbesítésétől számított három munkanapon belül, írásban kérheti. Ha a közalkalmazott a kérelmet menthető okból e határidőn belül nem tudja benyújtani, az akadály elhárultától számított három munkanapon belül ezt pótolhatja azzal, hogy a megbízás visszavonásától számított hat hónapon túl az indokolás kérésének nincs helye. A munkáltató az indokolást a kérelem benyújtásától számított öt munkanapon belül köteles a közalkalmazott részére írásban megadni.
+(4) A magasabb vezető és a vezető a vezetői beosztásáról írásban lemondhat. A lemondási idő két hónap.
 
-(5) A megbízott vezető a beosztásáról lemondhat. A lemondási idő két hónap, melynek leteltét követően a közalkalmazottat a kinevezése szerinti munkakörében kell továbbfoglalkoztatni.
+(5) A munkáltatói jogkör gyakorlója a megbízást írásban visszavonhatja, melyet – a közalkalmazott kérelmére – indokolni kell. Az indokolásból a visszavonás okának világosan ki kell tűnnie. Vita esetén a visszavonás indokának valóságát és okszerűségét a munkáltatónak kell bizonyítania. A közalkalmazott az indokolást a visszavonás kézbesítésétől számított három munkanapon belül, írásban kérheti. Ha a közalkalmazott a kérelmet menthető okból e határidőn belül nem tudja benyújtani, az akadály elhárultától számított három munkanapon belül ezt pótolhatja azzal, hogy a megbízás visszavonásától számított hat hónapon túl az indokolás kérésének nincs helye. A munkáltatói jogkör gyakorlója az indokolást a kérelem benyújtásától számított öt munkanapon belül köteles a közalkalmazott részére írásban megadni.
 
-(6) A megbízás visszavonását és a lemondást írásba kell foglalni.
+(6) A lemondás, a megbízás visszavonása, valamint a megbízás határozott idejének letelte után a közalkalmazottat a kinevezése szerinti munkakörében kell továbbfoglalkoztatni.
 
-(7) A megbízás visszavonása, valamint a határozott időre szóló megbízás esetén a határozott idő letelte után a közalkalmazottat a kinevezése szerinti munkakörében kell továbbfoglalkoztatni.
+(7) Ha a bíróság megállapítja, hogy a megbízás visszavonása jogellenes, a közalkalmazottat – kérelmére – az eredeti magasabb vezető, illetve vezető beosztásában kell továbbfoglalkoztatni. Ezen túlmenően a vezetői pótlék elmaradt összegét a közalkalmazott részére meg kell téríteni.
 
-(8) Ha a bíróság megállapítja, hogy a megbízás visszavonása jogellenes, a közalkalmazottat – kérelmére – az eredeti magasabb vezető, illetve vezető beosztásában kell továbbfoglalkoztatni. Ezen túlmenően a vezetői pótlék elmaradt összegét a közalkalmazott részére meg kell téríteni.
+(8) A bíróság mellőzi a közalkalmazott magasabb vezető, illetve vezető beosztásba történő visszahelyezését, ha a jogvita elbírálásáig a megbízás visszavonás nélkül is megszűnt volna. A közalkalmazottat ebben az esetben a vezetői pótléknak a határozott idő leteltéig számított összege illeti meg.
 
-(9) A bíróság mellőzi a közalkalmazott magasabb vezető, illetve vezető beosztásba történő visszahelyezését, ha a jogvita elbírálásáig a határozott időre szóló megbízás visszavonás nélkül is megszűnt volna. A közalkalmazottat ebben az esetben a vezetői pótléknak a határozott idő leteltéig számított összege illeti meg.
+(9) A közalkalmazottat, ha a megbízás jogellenes visszavonása esetén nem kéri a magasabb vezető, illetve vezető beosztásba való visszahelyezését, a vezetői pótléknak a határozott idő leteltéig, de legfeljebb 6 hónapra számított összege illeti meg.
 
-(10) A közalkalmazottat, ha a határozott időre szóló megbízás jogellenes visszavonása esetén nem kéri a magasabb vezető, illetve vezető beosztásba való visszahelyezését, a vezetői pótléknak a határozott idő leteltéig számított összege illeti meg.
-
-(11) A közalkalmazott, ha a határozatlan időre szóló megbízás jogellenes visszavonása esetén nem kéri a magasabb vezető, illetve vezető beosztásba való visszahelyezését, a részére korábban megállapított vezetői pótlék egyévi összegére jogosult.
-
-(12) A vezetői pótlék (8)–(11) bekezdés szerinti megtérítésén túlmenően a munkáltató a közalkalmazott felmerült kárát is köteles megtéríteni.
+(10) A vezetői pótlék (7)–(9) bekezdés szerinti megtérítésén túlmenően a munkáltató a közalkalmazott felmerült kárát is köteles megtéríteni.
 
 23/A. § (1) A munkáltató évente, illetve – ha a foglalkoztatás feltételei ezt indokolják – szükség szerint köteles megvizsgálni, hogy – különös figyelemmel a feladatok hatékony, szakszerű és a jogszabályoknak megfelelő ellátására – mely munkakörben van lehetőség a részmunkaidőben történő munkavégzésre.
 
@@ -451,7 +441,7 @@ hatályos. A b) pontban foglaltak alkalmazása esetén – a felek eltérő meg�
 
 köteles foglalkoztatni. Ezt követően a közalkalmazott munkaidejét a kérelem benyújtása előtti mérték szerint, illetményét az időarányosság elvének megfelelő alkalmazásával kell megállapítani.
 
-(8) Az (1)–(7) bekezdés nem alkalmazható a kinevezett és a megbízott magasabb vezető és a vezető tekintetében.
+(8) Az (1)–(7) bekezdés nem alkalmazható a megbízott magasabb vezető és a vezető tekintetében.
 
 24. § (1) Ha a közalkalmazott munkaköre ellátása mellett a munkáltató rendelkezése alapján átmenetileg más munkakörébe tartozó feladatokat is ellát, s ezáltal jelentős többletmunkát végez, illetményén felül a végzett munkával arányos külön díjazás (helyettesítési díj) is megilleti.
 
@@ -506,11 +496,13 @@ továbbá köteles a szakszervezettel és a közalkalmazotti tanáccsal (közalk
 
 (4) Ha a (2) bekezdésben meghatározott időpontban az átvevő munkáltató megalapítására még nem került sor, az átvevő munkáltató számára a (2)–(3) bekezdésben előírt kötelezettség teljesítése az átvevő munkáltató alapítóját terheli.
 
-(5) A közalkalmazott a (3) bekezdésben meghatározott tájékoztatás kézhezvételétől számított tizenöt napon belül az átadó munkáltatónak írásban nyilatkozik, hogy az átvevő munkáltatónál történő további foglalkoztatásához hozzájárul-e. Ha a közalkalmazott az előírt határidőn belül nem nyilatkozik, úgy kell tekinteni, mintha nem járulna hozzá a további foglalkoztatásához.
+(5) A közalkalmazott – a (8) bekezdésben meghatározott esetet kivéve – a (3) bekezdésben meghatározott tájékoztatás kézhezvételétől számított tizenöt napon belül az átadó munkáltatónak írásban nyilatkozik, hogy az átvevő munkáltatónál történő további foglalkoztatásához hozzájárul-e. Ha a közalkalmazott az előírt határidőn belül nem nyilatkozik, úgy kell tekinteni, mintha nem járulna hozzá a további foglalkoztatásához.
 
 (6) Ha a közalkalmazott az átvevő munkáltatónál történő további foglalkoztatásához nem járul hozzá, az átadó munkáltató az átadás napjával köteles írásban értesíteni a közalkalmazottat a közalkalmazotti jogviszony (1) bekezdés szerinti megszűnéséről, valamint köteles a közalkalmazott számára a 37. § (2) és (4)–(6) bekezdés alkalmazásával megállapított végkielégítést – határozott idejű jogviszony esetén a 27. § (2) bekezdésében meghatározott átlagkeresetet – megfizetni.
 
 (7) Ha az átvevő munkáltató a köztisztviselők jogálláról szóló törvény rendelkezései alapján nem létesíthet közszolgálati jogviszonyt az átadással érintett közalkalmazottal, a közalkalmazotti jogviszony megszűnése tekintetében a (6) bekezdés rendelkezéseit kell alkalmazni. Ebben az esetben – a (3) bekezdés rendelkezésétől eltérően – e körülményről kell az átadó és az átvevő munkáltatónak tájékoztatnia a közalkalmazottat.
+
+(8) Amennyiben a munkáltató személye azért változik meg, mert az alapító a költségvetési szervezet útján ellátott közfeladatot – az alapító közvetett vagy közvetlen, legalább többségi befolyása alatt álló – gazdasági társaság utódszervezet részére adja át közfeladat ellátási és továbbfoglalkoztatási kötelezettséggel, a közalkalmazotti jogviszony e törvény erejénél fogva munkaviszonnyá alakul át. Ebben az esetben az átadó és átvevő munkáltatók tájékoztatási kötelezettsége csak a (2)–(3) bekezdésben foglaltakra kiterjedően áll fenn. A munkaviszony tartalmi elemeit az e bekezdésben foglaltak szerint adott tájékoztatás és a 25/B. § rendelkezései alapján kell meghatározni és legkésőbb az átadás napjáig írásba foglalni.
 
 25/B. § (1) Ha a közalkalmazott az átvevő munkáltatónál történő további foglalkoztatásához hozzájárul, az átvevő munkáltató köteles a közalkalmazottal munkaszerződést kötni. Ha az átvevő munkáltató a köztisztviselők jogállásáról szóló törvény hatálya alá tartozik, köteles a közalkalmazott számára munkaköre alapján kinevezést adni, vagy munkaszerződést kötni. A munkaszerződés megkötése, illetve a kinevezés során az átvevő munkáltatót köti a 25/A. § (3)–(4) bekezdése alapján adott tájékoztatás, az abban foglaltaktól csak a közalkalmazott kifejezett hozzájárulásával lehet eltérni. Az átadó munkáltató az átadás napjával köteles írásban értesíteni a közalkalmazottat a közalkalmazotti jogviszony 25/A. § (1) bekezdés szerinti megszűnéséről.
 
@@ -862,7 +854,7 @@ címet adományozhat.
 
 40. § (1) A közalkalmazottat
 
-- a) kinevezett, illetőleg megbízott vezetőként a vezetői kinevezést vagy megbízást követő második év elteltével, valamint a határozott idejű magasabb vezetői vagy vezetői megbízás lejárta előtt legalább három hónappal,
+- a) vezetőként a vezetői megbízást követő második év elteltével, valamint a magasabb vezetői vagy vezetői megbízás lejárta előtt legalább három hónappal,
 - b) a várakozási idő 65. § (3) bekezdés szerinti csökkentése előtt, kivéve, ha a várakozási idő csökkentése kötelező,
 - c) a 66. § (1)–(3) bekezdés, a 66/A. § (1) bekezdés, illetve a 79/E. § szerinti garantáltnál magasabb összegű illetmény megállapítása előtt,
 - d) a 66. § (8) bekezdés szerinti esetben, illetve
@@ -913,7 +905,7 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 - a) ha közeli hozzátartozójával [Mt. 139. § (2) bekezdés] irányítási (felügyeleti), ellenőrzési vagy elszámolási kapcsolatba kerülne,
 - b) a munkáltatóéval azonos, vagy ahhoz hasonló tevékenységet is végző, illetve a munkáltatóval rendszeres gazdasági kapcsolatban álló más gazdasági társaságban betöltött vezető tisztségviselői, felügyelőbizottsági tagság.
 
-(3) A (2) bekezdés b) pontja az egészségügyi szolgáltatónál, valamint a helyi önkormányzat által a feladatkörébe tartozó egészségügyi közszolgáltatások ellátására létesített, továbbá az egészségügyi miniszter ágazati irányítási jogkörébe tartozó, egészségügyi szolgáltatást nem nyújtó költségvetési szervnél létesített közalkalmazotti jogviszonyra nem alkalmazható.
+(3) A (2) bekezdés b) pontja az egészségügyi szolgáltatónál, valamint a helyi önkormányzat által a feladatkörébe tartozó egészségügyi közszolgáltatások ellátására létesített, továbbá az egészségügyért felelős miniszter ágazati irányítási jogkörébe tartozó, egészségügyi szolgáltatást nem nyújtó költségvetési szervnél létesített közalkalmazotti jogviszonyra nem alkalmazható.
 
 (4) A felsőoktatási intézményben – a felsőoktatásról szóló 2005. évi CXXXIX. törvény 121. §-ának (8) bekezdésében az intézményi társaságokkal kapcsolatosan előírt korlátozás megtartása mellett – a magasabb vezető és a vezető megbízásával nem összeférhetetlen a gazdasági társaságban betöltött igazgatósági, felügyelőbizottsági tagság.
 
@@ -929,7 +921,7 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 43/A. § (1) A 41–43. §-ban foglaltakon túlmenően, a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó egyes – jogszabály szerinti – költségvetési szerveknél nem bízható meg magasabb vezető, illetőleg vezető beosztás ellátásával az, aki – illetőleg, akinek közeli hozzátartozója – a szerv fő tevékenységével azonos vállalkozói tevékenységet végez, az ilyen tevékenységet végző és az intézménnyel gazdasági kapcsolatban álló gazdasági társasággal, illetőleg munkáltatóval tagsági viszonyban, munkaviszonyban, további munkaviszonyban, illetőleg munkavégzésre irányuló egyéb jogviszonyban áll.
 
-(2) Az (1) bekezdésben meghatározott munkáltatónál kinevezett, illetve megbízott magasabb vezető és vezető munkavégzésre irányuló további jogviszonyt nem létesíthet. Nem vonatkozik ez a tilalom arra a jogviszonyra, amelyet tudományos, ismeretterjesztő, oktatói vagy szerzői jogi védelem alá eső tevékenységre létesítettek.
+(2) Az (1) bekezdésben meghatározott munkáltatónál megbízott magasabb vezető és vezető munkavégzésre irányuló további jogviszonyt nem létesíthet. Nem vonatkozik ez a tilalom arra a jogviszonyra, amelyet tudományos, ismeretterjesztő, oktatói vagy szerzői jogi védelem alá eső tevékenységre létesítettek.
 
 43/B. § A 41–43. §-ban foglaltakon túlmenően, a katasztrófavédelmi feladatot ellátó, végrehajtási jogszabályban megnevezett munkáltatóknál összeférhetetlen a munkavégzésre irányuló további jogviszony létesítése, ha a munkavégzés a munkáltató tevékenységi körébe is tartozik, vagy ha a munkavégzésre a közalkalmazott munkáltatójával gazdasági vagy egyéb elszámolási kapcsolatban álló munkáltatónál kerül sor.
 
@@ -999,14 +991,14 @@ eltelt.
 
 (7) Az egyéves határidő
 
-- a) magasabb vezető beosztású, illetve kinevezett magasabb vezető közalkalmazott esetében három évre,
-- b) vezető beosztású, illetve kinevezett vezető közalkalmazott esetében két évre
+- a) magasabb vezető beosztású közalkalmazott esetében három évre,
+- b) vezető beosztású közalkalmazott esetében két évre
 
 emelkedik.
 
 (8) Mellőzhető a fegyelmi eljárás lefolytatása – a (2) bekezdésben foglalt esetet kivéve –, ha a kötelezettségszegés csekély súlyú és a tényállás tisztázott. A közalkalmazottat ilyen esetben is meg kell hallgatni. Az ügy érdeméről a fegyelmi eljárás megindítója dönt és legfeljebb megrovás büntetés szabható ki.
 
-47. § (1) A fegyelmi eljárás során vizsgálatot kell tartani. Ennek lefolytatására a fegyelmi eljárás megindítója az eljárás megindításától számított öt napon belül, írásban vizsgálóbiztost jelöl ki a munkáltató közalkalmazottai közül. Vizsgálóbiztosnak – e törvény eltérő rendelkezése hiányában – magasabb vezető, illetve vezető munkakört vagy beosztást betöltő, ennek hiányában az eljárás alá vontnál magasabb vagy vele azonos besorolású közalkalmazottat kell kijelölni. A magasabb vezető, illetve vezető munkakört vagy beosztást betöltővel szemben indított fegyelmi eljárás esetén vizsgálóbiztos az eljárás alá vontnál magasabb, ennek hiányában azonos szintű vezetői munkakört vagy beosztást betöltő közalkalmazott lehet.
+47. § (1) A fegyelmi eljárás során vizsgálatot kell tartani. Ennek lefolytatására a fegyelmi eljárás megindítója az eljárás megindításától számított öt napon belül, írásban vizsgálóbiztost jelöl ki a munkáltató közalkalmazottai közül. Vizsgálóbiztosnak – e törvény eltérő rendelkezése hiányában – magasabb vezető, illetve vezető beosztást betöltő, ennek hiányában az eljárás alá vontnál magasabb vagy vele azonos besorolású közalkalmazottat kell kijelölni. A magasabb vezető, illetve vezető beosztást betöltővel szemben indított fegyelmi eljárás esetén vizsgálóbiztos az eljárás alá vontnál magasabb, ennek hiányában azonos szintű vezetői beosztást betöltő közalkalmazott lehet.
 
 (2) Nem lehet vizsgálóbiztos az a közalkalmazott, akivel szemben a 49. § (3) bekezdés b)–d) pontjában meghatározott összeférhetetlenségi ok áll fenn.
 
@@ -1043,8 +1035,8 @@ emelkedik.
 
 (2) A fegyelmi tanács elnöke a fegyelmi eljárás megindítója, aki ezt a jogkörét a munkáltatónak az eljárás alá vont
 
-- a) magasabb vezetői, illetve vezetői munkakört vagy beosztást betöltő közalkalmazott esetén magasabb vagy azzal azonos szintű vezetői munkakört vagy beosztást,
-- b) az a) pontba nem tartozó közalkalmazott esetén magasabb vezető vagy vezető munkakört, illetve beosztást, betöltő közalkalmazottra ruházhatja át. A fegyelmi tanács tagjait a fegyelmi tanács elnöke a munkáltatónak a 47. § (1) bekezdésében foglaltaknak megfelelő közalkalmazottai közül jelöli ki.
+- a) magasabb vezetői, illetve vezetői beosztást betöltő közalkalmazott esetén magasabb vagy azzal azonos szintű vezetői beosztást,
+- b) az a) pontba nem tartozó közalkalmazott esetén magasabb vezető vagy vezető beosztást, betöltő közalkalmazottra ruházhatja át. A fegyelmi tanács tagjait a fegyelmi tanács elnöke a munkáltatónak a 47. § (1) bekezdésében foglaltaknak megfelelő közalkalmazottai közül jelöli ki.
 
 (3) A fegyelmi tanács eljárásában és döntéshozatalában tagként, illetve jegyzőkönyvvezetőként nem vehet részt:
 
@@ -1122,7 +1114,7 @@ közül.
 
 55. § A munka jellegétől függően végrehajtási rendelet meghatározhatja a teljes munkaidőből kötelezően a munkahelyen töltendő idő tartamát, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait.
 
-55/A. § (1) A kinevezett magasabb vezető a munkaidő beosztását, valamint a pihenőidő (szabadság) igénybevételét – a kinevezésben foglaltak szerint – maga állapítja meg.
+55/A. § (1)
 
 (2)
 
@@ -1145,11 +1137,9 @@ alapszabadság illeti meg.
 
 (6) A jogszabályban meghatározott egészségkárosító kockázatok között munkahelyen eltöltött napi munkaidőtől függetlenül az (5) bekezdésben meghatározott pótszabadság megilleti azt a közalkalmazottat is, akit rendszeresen kettős egészségkárosító kockázatnak kitett munkakörben foglalkoztatnak, feltéve, hogy az egyik kockázat nem ionizáló sugárzással függ össze.
 
-57/A. § (1) Az 56. §-tól eltérően a magasabb vezető munkakörre kinevezett közalkalmazottat naptári évenként harmincöt, a vezetői munkakörre kinevezett közalkalmazottat harminc munkanap alapszabadság illeti meg.
+57/A. §
 
-(2) A kinevezett vezető az 57. § (1)–(4) bekezdése szerinti pótszabadságra nem jogosult.
-
-57/B. § (1) A magasabb vezető beosztású és a vezető beosztású közalkalmazottat az 57/A. §-ban meghatározott mértékű alapszabadság illeti meg, kivéve a bölcsődében, csecsemőotthonban, óvodában, továbbá az alsó-, közép- és felsőfokú oktatás keretében, valamint az egészségügyi ágazatban oktató, nevelő munkát végző megbízott vezetőket, akik az 56. §-ban meghatározott alapszabadságra és az 57. § (3) bekezdése szerinti pótszabadságra jogosultak.
+57/B. § (1) A magasabb vezető beosztású közalkalmazottat naptári évenként harmincöt, a vezető beosztású közalkalmazottat harminc munkanap alapszabadság illeti meg, kivéve a bölcsődében, csecsemőotthonban, óvodában, továbbá az alsó-, közép- és felsőfokú oktatás keretében, valamint az egészségügyi ágazatban oktató, nevelő munkát végző megbízott vezetőket, akik az 56. §-ban meghatározott alapszabadságra és az 57. § (3) bekezdése szerinti pótszabadságra jogosultak.
 
 (2) A megbízott vezető az 57. § (1) bekezdése szerinti pótszabadságra nem jogosult.
 
@@ -1268,19 +1258,7 @@ alapszabadság illeti meg.
 
 (11) A (2)–(4) bekezdésben említett illetményrész azon időszak alatt illeti meg a közalkalmazottat, amely alatt a további szakképesítést alkalmazza. Ez az időszak azonban egy hónapnál rövidebb nem lehet.
 
-66/A. § (1) A kinevezett vezető garantált illetménye a vezetői illetményalap és a vezetői munkakör képzettségi osztályához tartozó szorzószám szorzatából áll.
-
-(2) A vezetői illetményalapot évente az állami költségvetésről szóló törvény állapítja meg úgy, hogy az nem lehet alacsonyabb, mint az előző évi illetményalap.
-
-(3) A kinevezett vezetői munkakört:
-
-- a) a középfokú képzettségi osztályba kell sorolni, ha betöltéséhez a 61. § (1) bekezdés d) és e) pontjába tartozó,
-- b) a felsőfokú 1. képzettségi osztályba kell sorolni, ha betöltéséhez a 61. § (1) bekezdés f) és g) pontjába tartozó,
-- c) a felsőfokú 2. képzettségi osztályba kell sorolni, ha betöltéséhez a 61. § (1) bekezdés h)–j) pontjába tartozó
-
-iskolai végzettség, szakképzettség szükséges.
-
-(4) A képzettségi osztályokhoz tartozó, a kinevezett magasabb vezetőre, illetve a vezetőre vonatkozó szorzószámokat a 3. számú melléklet tartalmazza.
+66/A. §
 
 67. § (1) A közalkalmazott a fizetési fokozata alapján járó illetményén felül illetménykiegészítésben részesülhet.
 
@@ -1346,7 +1324,7 @@ iskolai végzettség, szakképzettség szükséges.
 
 76. § Nem jár rendkívüli munkaidőben végzett munkáért díjazás
 
-- a) a munkáltató vezetőjének és helyettesének, ha e feladatát önálló munkakörben látja el, továbbá
+- a)
 - b) az olyan munkakört betöltő közalkalmazottnak, aki a munkaideje beosztását, illetve felhasználását maga határozza meg.
 
 77. § (1) A közalkalmazottat a munkáltató meghatározott munkateljesítmény eléréséért, illetve átmeneti többletfeladatok – ide nem értve az átirányítást – teljesítéséért a megállapított személyi juttatások előirányzatán belül egyszeri vagy meghatározott időre szóló, havi rendszerességgel fizetett keresetkiegészítésben részesítheti.
@@ -1355,32 +1333,11 @@ iskolai végzettség, szakképzettség szükséges.
 
 (3) A kiemelkedő, illetőleg tartósan jó munkát végző közalkalmazottat a munkáltató jutalomban részesítheti. Naptári évenként a jutalom összege nem haladhatja meg a kifizetés esedékessége időpontjában a közalkalmazott kinevezés szerinti havi illetménye tizenkétszeresének harminc százalékát.
 
-77/A. § (1) A kinevezett vezető számára a kinevezési jogkör gyakorlója évente, március 31-ig, illetve a prémiumfeladat későbbi felmerülése esetén, ezt követően 30 napon belül írásba foglaltan prémiumfeladatot tűzhet ki. Prémiumfeladatként a kinevezett vezető munkakörével – a 77/B. § alkalmazása esetén a magasabb vezetői, illetve a vezetői beosztással – kapcsolatos, előre meghatározott feladat teljesítése, illetőleg teljesítmény elérése határozható meg. Prémiumfeladat kitűzése esetén rendelkezni kell a teljesítési és az értékelési határidőről. Az értékelési határidő nem lehet korábbi a tárgyév november tizenötödikénél.
+77/A. §
 
-(2) A prémiumfeladat kitűzésekor meg kell határozni, hogy részteljesítés esetén a vezető jogosult-e a teljesítés mértékével arányos összegű prémiumra, valamint a részteljesítés esetén járó prémium összegét. Több prémiumfeladat kitűzésekor külön-külön meg kell határozni a teljesítés esetén járó prémiumot. A prémiumfeladat teljesítését írásban értékelni kell.
+77/B. §
 
-(3) A prémium – ideértve a több feladatért megállapított prémiumot is – mértéke naptári évenként nem haladhatja meg a kinevezett magasabb vezető, illetve vezető – tizenharmadik havi illetmény nélkül számított – kinevezés szerinti havi illetménye tizenkétszeresének negyven százalékát.
-
-(4) A prémiumot a teljesítés értékelését követően, legkésőbb a tárgyévet követő évben a március havi illetménnyel együtt kell kifizetni. Év közben prémiumelőleg fizethető. Ha a vezető közalkalmazotti jogviszonya a prémiumfeladat teljesítése előtt megszűnik, az értékelés és a részteljesítés esetén megállapított jogosultság alapján az arányos mértékű prémiumot legkésőbb a közalkalmazotti jogviszony megszűnésekor kell kifizetni.
-
-(5) A kinevezett vezető keresetkiegészítésben és jutalomban nem részesíthető.
-
-77/B. § (1) A megbízott vezető részére a vezetői tevékenység ellátásával összefüggésben prémiumfeladat tűzhető ki. A prémiumfeladat kitűzésével, a prémiumra való jogosultság megállapításával és a prémium kifizetésével kapcsolatban megfelelően alkalmazni kell a 77/A. § (1)–(4) bekezdését azzal az eltéréssel, hogy a prémium – ideértve a több feladatért megállapított prémiumot is – mértéke naptári évenként nem haladhatja meg
-
-- a) a magasabb vezetői megbízással rendelkező közalkalmazott esetén az egy naptári évre számított illetményének tíz százalékát,
-- b) a vezetői megbízással rendelkező közalkalmazott esetén az egy naptári évre számított illetményének öt százalékát.
-
-(2) A magasabb vezetői és a vezetői megbízással rendelkező közalkalmazott – nem a vezetői tevékenységbe tartozó feladatok ellátásáért – jutalomban részesíthető. A jutalom és prémium együttes összege naptári évenként nem haladhatja meg a megbízott magasabb vezetői, illetve vezetői megbízással rendelkező közalkalmazott – tizenharmadik havi illetmény nélkül számított – kinevezés szerinti havi illetménye tizenkétszeresének harminc százalékát. Az egy naptári évre számított illetmény összegének meghatározásakor a 70. § szerinti illetménypótlékot is figyelembe kell venni.
-
-(3) A vezetői tevékenységbe tartozó feladatok ellátásáért a megbízott vezető jutalomban és keresetkiegészítésben nem részesíthető.
-
-77/C. § (1) A kinevezett vezetőre a 70. és 71. §, 74. és 75. §, 77. §, valamint a 79/B–79/E. § nem alkalmazható.
-
-(2) A megbízott vezetőre a vezetői feladatokkal összefüggő munkateljesítmény, illetve az átmeneti többletfeladatok elismerésére vonatkozóan a 77. § nem alkalmazható.
-
-(3) Azoknál a munkáltatóknál, amelyek tekintetében a költségvetési törvény meghatározott feltételek teljesülése esetére jutalom fizetését teszi lehetővé, a 77/A. és 77/B. § szerinti jutalom, illetve prémium fizetésére nem kerülhet sor.
-
-(4) A 77. § (3) bekezdésének, a 77/A. § (3) bekezdésének, valamint a 77/B. § (1) és (2) bekezdésének alkalmazásakor a prémium, illetve jutalom kifizetésének esedékességének időpontjában irányadó illetmény összegét kell alapul venni.
+77/C. §
 
 78. § (1) A huszonöt, harminc-, illetve negyvenévi közalkalmazotti jogviszonnyal rendelkező közalkalmazottnak jubileumi jutalom jár.
 
@@ -1536,8 +1493,8 @@ iskolai végzettség, szakképzettség szükséges.
 - a) az ágazatban betölthető közalkalmazotti munkaköröket, a munkakörhöz kapcsolódó fizetési osztályokat, a munkakör betöltéséhez a 61. § (1) bekezdésében foglaltakat meghaladóan szükséges képesítési és más többletkövetelményeket, továbbá a 61. § (1) bekezdés g) és i) pontjával összefüggésben a munkakör betöltéséhez jogszabályban előírt szakvizsgával egyenértékűnek elismert vizsgát igazoló oklevelek körét,
 - b) azt a munkakört, amelyben nem kötelező pályázat kiírása a közalkalmazotti jogviszony létesítéséhez,
 - c) a gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatosan a munkáltató alaptevékenységébe tartozó munkaköröket,
-- d) a magasabb vezető, valamint a vezető kinevezés, illetve megbízás körét, továbbá ezek e törvényben meghatározottakon túlmenő feltételeit,
-- e) a határozott idejű magasabb vezetői, illetve vezetői megbízás körét és időtartamát,
+- d) a magasabb vezető, valamint a vezető megbízás körét, továbbá ezek e törvényben meghatározottakon túlmenő feltételeit,
+- e)
 - f) a magasabb vezető, illetve vezető megbízással rendelkező közalkalmazott vezetői pótlékának mértékét,
 - g) az ágazati, szakmai sajátosságokra tekintettel fizetendő illetménypótlékokat és azok mértékét.
 
@@ -1584,7 +1541,7 @@ iskolai végzettség, szakképzettség szükséges.
   - df) az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg,
   - dg) a tudományos kutatói munkakörbe történő besorolás feltételeit;
 - e) a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési intézményeknél, illetve más kutató- és kutatást kiegészítő intézeteknél foglalkoztatott közalkalmazottak tekintetében
-  - ea) azt a magasabb vezető beosztást, illetve munkakört, amelynek a betöltéséhez a munkakör ellátásához szükséges magyar nyelvtudás előírható,
+  - ea) azt a magasabb vezető beosztást, amelynek a betöltéséhez a munkakör ellátásához szükséges magyar nyelvtudás előírható,
   - eb) a vezető állású munkavállalóval betöltendő vezetői munkaköröket,
   - ec) az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
   - ed) az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
@@ -1601,23 +1558,23 @@ iskolai végzettség, szakképzettség szükséges.
   - fh) az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
   - fi)
   - fj) az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg,
-  - fk) azt a magasabb vezető és vezető beosztást, illetve munkakört, amelynek a betöltéséhez a munkakör ellátásához szükséges magyar nyelvtudás előírható;
+  - fk) azt a magasabb vezető és vezető beosztást, amelynek a betöltéséhez a munkakör ellátásához szükséges magyar nyelvtudás előírható;
 - g) a testnevelési és sportintézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében munkakörönként a napi munkaidőből a kötelezően a munkahelyen töltendő időt.
 
-(4) Felhatalmazást kap az elektronikus hírközlésért, a honvédelemért, a katonai nemzetbiztonsági szolgálatok irányításáért, a környezetvédelemért, a vízügyért, a természetvédelemért, az oktatásért, a kultúráért, a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért, az államháztartásért, a nemzetpolitikáért és a kisebbségpolitikáért, a c) pont kivételével az agrár-vidékfejlesztésért, az e) pont kivételével a katasztrófák elleni védekezésért, az a) pont utolsó fordulata és a c) pont kivételével a polgári nemzetbiztonsági szolgálatok irányításáért, a b) és g) pont kivételével a közlekedésért, az energiapolitikáért, a bányászati ügyekért és a postaügyért (a továbbiakban: a közlekedésért), az a) pont utolsó fordulata és az e) pont kivételével a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért felelős miniszter, továbbá valamennyi pont tekintetében a Miniszterelnöki Hivatalt vezető miniszter, hogy az általa irányított, a (2)–(3) bekezdés alá nem tartozó költségvetési intézmények (munkáltatók), illetve közalkalmazottak tekintetében rendeletben állapítsa meg
+(4) Felhatalmazást kap az elektronikus hírközlésért, a honvédelemért, a katonai nemzetbiztonsági szolgálatok irányításáért, a környezetvédelemért, a vízügyért, a természetvédelemért, az oktatásért, a kultúráért, a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért, az államháztartásért, a nemzetpolitikáért, a kisebbségpolitikáért, a c) pont kivételével az agrár-vidékfejlesztésért, az e) pont kivételével a katasztrófák elleni védekezésért, az a) pont utolsó fordulata és a c) pont kivételével a polgári nemzetbiztonsági szolgálatok irányításáért, a polgári hírszerzési tevékenység irányításáért, a b) és g) pont kivételével a közlekedésért, az energiapolitikáért, a bányászati ügyekért és a postaügyért (a továbbiakban: a közlekedésért), az a) pont utolsó fordulata és az e) pont kivételével a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért felelős miniszter, továbbá valamennyi pont tekintetében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy az általa irányított, a (2)–(3) bekezdés alá nem tartozó költségvetési intézmények (munkáltatók), illetve közalkalmazottak tekintetében rendeletben állapítsa meg
 
 - a) az ágazatban betölthető közalkalmazotti munkaköröket, a munkakörhöz kapcsolódó fizetési osztályokat, a munkakör betöltéséhez a 61. § (1) bekezdésében foglaltakat meghaladóan szükséges képesítési és más többletkövetelményeket, továbbá a 61. § (1) bekezdés g) és i) pontjával összefüggésben a munkakör betöltéséhez jogszabályban előírt szakvizsgával egyenértékűnek elismert vizsgát igazoló oklevelek körét,
 - b) azt a munkakört, amelyben nem kötelező pályázat kiírása a közalkalmazotti jogviszony létesítéséhez,
 - c) a gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatosan a munkáltató alaptevékenységébe tartozó munkaköröket,
-- d) a foglalkoztatáspolitikáért, valamint az államháztartásért felelős miniszter egyetértésével a magasabb vezető, valamint a vezető kinevezés, illetve megbízás körét, továbbá ezek e törvényben meghatározottakon túlmenő feltételeit,
-- e) a határozott idejű vezetői megbízás körét és időtartamát,
+- d) a foglalkoztatáspolitikáért, valamint az államháztartásért felelős miniszter egyetértésével a magasabb vezető, valamint a vezető megbízás körét, továbbá ezek e törvényben meghatározottakon túlmenő feltételeit,
+- e)
 - f) a magasabb vezető, illetve vezető megbízással rendelkező közalkalmazott vezetői pótlékának mértékét,
 - g) az ágazati, szakmai sajátosságokra tekintettel fizetendő illetménypótlékokat és azok mértékét.
 
 (5) A (4) bekezdésben foglaltakon túlmenően felhatalmazást kap
 
 - a) a honvédelemért, valamint a közlekedésért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésénél a tizennyolcadik életév betöltésének feltétele alóli mentesítést,
-- b) a honvédelemért, a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért, valamint a katonai, illetve a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésének feltételeként magyar állampolgárság feltételét,
+- b) a honvédelemért, a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésének feltételeként magyar állampolgárság feltételét,
 - c) a honvédelemért, a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért, valamint a katasztrófák elleni védekezésért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésének feltételeként a munkakör ellátásához szükséges magyar nyelvtudás feltételét,
 - d) a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért, az államháztartásért, valamint a honvédelemért felelős miniszter, hogy a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
 - e)
@@ -1625,18 +1582,18 @@ iskolai végzettség, szakképzettség szükséges.
 - g) a honvédelemért, katonai nemzetbiztonsági szolgálatok irányításáért, a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért, a katasztrófák elleni védekezésért, a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért felelős miniszter, hogy a gyakornoki idő kikötése alól mentes munkaköröket,
 - h) a honvédelemért felelős miniszter, hogy a gyakornoki követelmények ágazati szakmai tartalmát,
 - i) a honvédelemért, a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért, a katasztrófák elleni védekezésért, valamint az államháztartásért felelős miniszter, hogy azokat a munkaköröket, illetve munkakörönként – a kinevezéshez szükséges iskolai végzettséggel, szakképesítéssel, illetve szakképzettséggel egyenértékű – azon iskolai végzettséget, szakképesítést, illetve szakképzettséget, amellyel a közalkalmazott által korábban ellátott, a 22. § (3) bekezdés szerinti jogviszony tartamát a szakmai gyakorlat idejébe be kell számítani,
-- j) a honvédelemért, az elektronikus hírközlésért, a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért felelős miniszter, valamint a Miniszterelnöki Hivatalt vezető miniszter, hogy az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
+- j) a honvédelemért, az elektronikus hírközlésért, a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért felelős miniszter, a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
 - k) a honvédelemért, a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért felelős miniszter, hogy munkakörönként a napi munkaidőből kötelezően a munkahelyen töltendő időt, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
 - l)
-- m) a foglalkoztatáspolitikáért, a felnőttképzésért és szakképzésért, a szociál- és családpolitikáért felelős miniszter, valamint a Miniszterelnöki Hivatalt vezető miniszter, hogy munkakörönként, illetve vezetői megbízásonként az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg,
+- m) a foglalkoztatáspolitikáért, a felnőttképzésért és szakképzésért, a szociál- és családpolitikáért felelős miniszter, a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy munkakörönként, illetve vezetői megbízásonként az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg,
 - n) a honvédelemért, a rendészetért, a büntetés-végrehajtásért, a katasztrófák elleni védekezésért, a foglalkoztatáspolitikáért, a felnőttképzésért és szakképzésért, a szociál- és családpolitikáért, valamint az államháztartásért felelős miniszter, hogy az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
-- o) a honvédelemért, a polgári nemzetbiztonsági szolgálatok irányításáért, a katonai nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a közalkalmazottak illetményének folyósítására, illetve jutalmazására vonatkozó részletes szabályokat,
+- o) a honvédelemért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a közalkalmazottak illetményének folyósítására, illetve jutalmazására vonatkozó részletes szabályokat,
 - p) az elektronikus hírközlésért, valamint a környezetvédelemért, a vízügyért, a természetvédelemért felelős miniszter, hogy a formaruha-juttatást,
-- q) a honvédelemért, a büntetés-végrehajtásért, a rendészetért, valamint a katonai, illetve a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a közalkalmazottak és közeli hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
-- r) honvédelemért, a rendészetért, a büntetés-végrehajtásért, valamint a katonai, illetve a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat,
+- q) a honvédelemért, a büntetés-végrehajtásért, a rendészetért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a közalkalmazottak és közeli hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
+- r) honvédelemért, a rendészetért, a büntetés-végrehajtásért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat,
 - s) a katasztrófák elleni védekezésért felelős miniszter, hogy a közalkalmazottak és közeli hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak lakhatási támogatásának részletes szabályait,
 - t) a közlekedésért, a honvédelemért, a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, valamint a rendészetért felelős miniszter, hogy az egyes munkakörök betöltéséhez szükséges iskolai végzettség, szakképesítés, illetve szakképzettség megszerzése alóli felmentés és végleges mentesítés szabályait,
-- u) a büntetés-végrehajtásért, a rendészetért, az adópolitikáért és a katasztrófák elleni védekezésért felelős miniszter, hogy – az egészségügyi miniszterrel egyetértésben – a munkaköri alkalmassági vizsgálatra és az alkalmasság véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét,
+- u) a büntetés-végrehajtásért, a rendészetért, az adópolitikáért és a katasztrófák elleni védekezésért felelős miniszter, hogy – az egészségügyért felelős miniszterrel egyetértésben – a munkaköri alkalmassági vizsgálatra és az alkalmasság véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét,
 - v) a katasztrófák elleni védekezésért felelős miniszter, hogy a közalkalmazottak jutalmazására vonatkozó részletes szabályokat
 
 az általa irányított, a (2) és (3) bekezdés alá nem tartozó költségvetési intézmények (munkáltatók), illetve közalkalmazottak tekintetében rendeletben határozza meg.
@@ -1874,12 +1831,6 @@ A felsőoktatási intézményben oktatói munkakört, valamint a tudományos kut
 | Tudományos segédmunkatárs | – | 40 |
 
 ### 3. számú melléklet az 1992. évi XXXIII. törvényhez
-
-| Szorzók a vezetői illetményalap arányában: |  |  |  |
-| --- | --- | --- | --- |
-|  | Középfokú | Felsőfokú1 | Felsőfokú2 |
-| Magasabb vezető | – | 2,00 | 2,40 |
-| Vezető | 1,00 | 1,70 | 2,00 |
 
 ### 4. számú melléklet az 1992. évi XXXIII. törvényhez
 

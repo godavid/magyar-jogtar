@@ -265,7 +265,7 @@ rendelhet el.
 
 15/A. § Ha annál az egészségügyi szolgáltatónál, ahol az egészségügyi dolgozó egészségügyi felsőfokú szakirányú szakképzése megszerzése érdekében alkalmazásban áll, részben hiányoznak a szükséges szakmai gyakorlat feltételei, az egészségügyi dolgozó a szakképzettség megszerzéséhez szükséges, és a munkáltatónál nem teljesíthető időtartamban annál az egészségügyi szolgáltatónál végezhet tevékenységet, ahol a szakmai gyakorlat megszerzésének a feltételei rendelkezésre állnak. Erről az érintett egészségügyi szolgáltatóknak és az egészségügyi dolgozónak meg kell állapodnia, azzal, hogy e jogcímen a munkavégzés tartama naptári évenként nem haladhatja meg a kettőszáz napot. E jogviszonyra egyebekben a kirendelésre vonatkozó szabályokat kell megfelelően alkalmazni.
 
-15/B. §
+15/B. § Július 1-je Semmelweis-nap, amely az egészségügyi szolgáltatóknál foglalkoztatási jogviszonyban álló egészségügyi dolgozókra és egészségügyben dolgozókra kiterjedően munkaszüneti nap.
 
 ### Közszolgálati jogviszony és szolgálati viszony
 
@@ -340,7 +340,7 @@ részt vehet.
 
 22. § (1) Amennyiben a vizsgálat alapján az egészségügyi dolgozó az általa ellátott, illetve ellátandó munkakörre egészségileg alkalmas, a foglalkozás-egészségügyi szolgálat orvosa a munkaköri alkalmasságot igazolja.
 
-(2) Amennyiben az (1) bekezdés szerinti vizsgálat alapján a munkaköri alkalmasság nem igazolható, a foglalkozás-egészségügyi szolgálat orvosa az egészségügyi dolgozó hozzájárulásával a munkaköri alkalmasságának vizsgálatát az egészségügyi államigazgatási szervnél kezdeményezi. Az egészségügyi államigazgatási szervnél a vizsgálat elvégzéséről 8 munkanapon belül gondoskodik.
+(2) Amennyiben az (1) bekezdés szerinti vizsgálat alapján a munkaköri alkalmasság nem igazolható, a foglalkozás-egészségügyi szolgálat orvosa az egészségügyi dolgozó hozzájárulásával a munkaköri alkalmasságának vizsgálatát az egészségügyi államigazgatási szervnél kezdeményezi. Az egészségügyi államigazgatási szervnél a vizsgálat elvégzéséről tíz napon belül gondoskodik.
 
 (3) Ha a (2) bekezdés szerinti vizsgálat az egészségügyi dolgozó munkakörre való alkalmasságát állapítja meg, azt az (1) bekezdésben foglaltak szerint igazolja. Amennyiben a vizsgálat eredményeként az egészségügyi dolgozó alkalmatlannak, illetve korlátozással alkalmasnak minősül, az egészségügyi államigazgatási szerv kezdeményezi az alkalmatlanság 23. § szerinti megállapítását.
 

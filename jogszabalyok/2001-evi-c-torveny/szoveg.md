@@ -123,9 +123,9 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (10) Ha külföldi oktatási intézmény vagy hatóság hazai bizonyítvánnyal vagy oklevéllel kapcsolatban hazai oktatási intézményt vagy hatóságot keres meg, a hazai oktatási intézmény vagy hatóság a megkeresésnek közvetlenül tesz eleget.
 
-9. § (1) Az eljáró hatóság huszonkét munkanapon belül hiánypótlásra hívja fel a kérelmezőt, ha a kérelmet nem a jogszabályoknak megfelelően nyújtotta be.
+9. § (1) Az eljáró hatóság harminc napon belül hiánypótlásra hívja fel a kérelmezőt, ha a kérelmet nem a jogszabályoknak megfelelően nyújtotta be.
 
-(2) Az eljáró hatóság az e törvény II. és III. fejezete szerinti eljárásban a kérelem benyújtásától számított két hónapon belül, a IV. és V. fejezet, valamint a VIII-IX. fejezet szerinti eljárásban a kérelem benyújtásától számított három hónapon belül dönt.
+(2) Az eljáró hatóság az e törvény II. és III. fejezete szerinti eljárásban a kérelem megérkezését követő naptól számított két hónapon belül, a IV. és V. fejezet, valamint a VIII-IX. fejezet szerinti eljárásban a kérelem megérkezését követő naptól számított három hónapon belül dönt.
 
 (3)
 
@@ -320,7 +320,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (2) Ha a kérelem a IX. Fejezet hatálya alá tartozik, az eljáró hatóság előírhatja, hogy a kérelmező mellékeljen olyan más tagállami igazolást, amely azt tanúsítja, hogy a kérelmező képzés sikeres elvégzését tanúsító okirata a IX. Fejezet hatálya alá tartozik.
 
-25. § Az eljáró hatóság a kérelmezőt a kérelem kézhezvételétől számított huszonkét munkanapon belül tájékoztatja a kérelem kézhezvételéről.
+25. § Az eljáró hatóság a kérelmezőt a kérelem kézhezvételétől számított harminc napon belül tájékoztatja a kérelem kézhezvételéről.
 
 ### Valamely tagállamban kiállított okiratokfelhasználása
 
@@ -545,7 +545,7 @@ az eljáró hatóság csak akkor ismeri el az (1) bekezdés szerint a képzés e
 
 41. § (1) A szolgáltatásnyújtó a Kormány rendeletében meghatározott, népegészségügyi vagy a szolgáltatás igénybe vevőjének vagy más személyeknek az életét, testi épségét érintő kockázatokat magában hordozó szabályozott szakma gyakorlását – ide nem értve a IX. Fejezet hatálya alá tartozó szabályozott szakmát – csak azt követően kezdheti meg, hogy azt az előzetes ellenőrzést végző hatóság a 40. § szerinti bejelentés alapján a Magyar Köztársaság területén való, határon átnyúló szolgáltatási tevékenysége első alkalommal való megkezdése előtt a szolgáltatásnyújtó szakmai képesítésének ellenőrzését követően engedélyezi (előzetes ellenőrzés). Az előzetes ellenőrzés során a hatóság csak azt vizsgálhatja – a feltétlenül szükséges mértékben –, hogy a szolgáltatásnyújtó szakmai felkészültsége megfelelő-e annak elkerülésére, hogy a szolgáltatás igénybe vevője vagy más személy életét, testi épségét súlyos károsodás vagy sérelem érje.
 
-(2) Az (1) bekezdés szerinti előzetes ellenőrzést végző eljáró hatóság a bejelentés és a bejelentéssel együtt benyújtandó iratok beérkezését követő egy hónapon belül dönt.
+(2)
 
 (3) Az előzetes ellenőrzést végző hatóság
 
@@ -554,7 +554,7 @@ az eljáró hatóság csak akkor ismeri el az (1) bekezdés szerint a képzés e
 - c) a szolgáltatásnyújtást az (5) bekezdés szerinti feltétellel engedélyezi, vagy
 - d) a szolgáltatás nyújtását megtiltja, ha az engedély megadásának jogszabályi feltételei hiányoznak.
 
-(4) Indokolt esetben az előzetes ellenőrzést végző hatóság vezetője a (2) bekezdés szerinti határidőt a határozat meghozatalára rendelkezésre álló határidőn belül egy hónappal meghosszabbíthatja.
+(4)
 
 (5) Amennyiben lényeges eltérés van a szolgáltató szakmai képesítése és a hazai jogszabály által előírt szakmai képesítés között, és ez az eltérés olyan mértékű, hogy az veszélyt jelent a szolgáltatás igénybe vevője vagy más személy életére, testi épségére nézve, az előzetes ellenőrzést végző hatóság előírhatja, hogy a szolgáltatásnyújtó csak azt követően folytathatja tevékenységét, hogy – elsősorban alkalmassági vizsga letételével – igazolta, hogy a hiányzó ismereteket vagy szaktudást más módon megszerezte.
 
@@ -782,7 +782,7 @@ A SZAKKÉPZETTSÉG ÉS A SZAKKÉPESÍTÉS FELTÉTEL NÉLKÜLI ELISMERÉSE
 
 (4)
 
-(5) Felhatalmazást kap az egészségügyért felelős miniszter, az élelmiszerlánc-felügyeletért felelős miniszter és a környezetvédelemért felelős miniszter, hogy az 53/A. § (5) bekezdése szerinti nagyon mérgező termékek, illetve irtószerek felsorolását együttes rendeletben közzétegyék.
+(5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az élelmiszerlánc-felügyeletért felelős miniszter és a környezetvédelemért felelős miniszter egyetértésével kiadott rendeletben meghatározza az 53/A. § (5) bekezdése szerinti nagyon mérgező termékek, illetve irtószerek körét.
 
 (6) Felhatalmazást kap az egészségügyért felelős miniszter, az élelmiszerlánc-felügyeletért felelős miniszter, hogy hatáskörében – a nagyon mérgező termékek vonatkozásában a kereskedelemért felelős miniszterrel egyetértésben –
 

@@ -1,0 +1,4206 @@
+# 2010. évi CLXXXV. törvény
+
+a médiaszolgáltatásokról és a tömegkommunikációról
+
+Az Országgyűlés a közösség és az egyén érdekeinek felismeréséből, a társadalom integritásának előmozdítása, a demokratikus berendezkedés megfelelő működésének és a nemzeti, valamint kulturális identitás megerősítésének céljából, az Alkotmány és az alkotmányos elvek, valamint a nemzetközi jogi és európai uniós normák tiszteletben tartásával, a technológiai fejlődés által előidézett körülmények figyelembevételével, megóvva a véleménynyilvánítás és a szólás, valamint a sajtó szabadságát, felismerve a médiaszolgáltatások kiemelkedő kulturális, társadalmi és gazdasági jelentőségét és a médiapiaci verseny biztosításának fontosságát, megalkotja a médiáról és a tömegkommunikációról szóló alábbi törvényt:
+
+## ELSŐ RÉSZ — ÁLTALÁNOS RENDELKEZÉSEK
+
+### I. Fejezet — A TÖRVÉNY HATÁLYA
+
+1. § (1) A törvény hatálya kiterjed a Magyar Köztársaságban letelepedett médiatartalom-szolgáltató által nyújtott médiaszolgáltatásra és kiadott sajtótermékre.
+
+(2) A törvény alkalmazásában a médiatartalom-szolgáltató akkor minősül a Magyar Köztársaság területén letelepedettnek, ha:
+
+- a) az általa nyújtott médiaszolgáltatás terjesztése a Magyar Köztársaság tulajdonában álló frekvencia igénybevételével történik vagy a sajtótermék elsődlegesen a Magyar Köztársaság felhasználói számára kijelölt elektronikus hírközlési azonosítón keresztül érhető el,
+- b) központi ügyvezetésének helye a Magyar Köztársaság területén található és a médiaszolgáltatással, sajtótermékkel összefüggő szerkesztői döntéseket a Magyar Köztársaság területén hozzák,
+- c) ha a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található a Magyar Köztársaság területén, de a médiatartalom-szolgáltató munkaerejének jelentős része a Magyar Köztársaság területén dolgozik,
+- d) ha a Magyar Köztársaság területén és más országban is dolgozik a médiatartalom-szolgáltató munkaerejének jelentős része, akkor, ha a központi ügyvezetés helye a Magyar Köztársaság területén található, vagy
+- e) ha a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található a Magyar Köztársaság területén, de tevékenységét a Magyar Köztársaság területén kezdte meg, és folyamatos, tényleges kapcsolatot tart fenn a magyar gazdasággal.
+
+(3) A törvény hatálya kiterjed azon médiatartalom-szolgáltató által nyújtott médiaszolgáltatásra, amely az (1)–(2) bekezdés alapján nem minősül a Magyar Köztársaság területén letelepedettnek, és amely egyetlen más tagállamban sem minősül letelepedettnek, ha a Magyar Köztársaság területén található műholdas feladó-állomást használ, vagy a műholdnak a Magyar Köztársaság tulajdonában álló átviteli kapacitását használja.
+
+(4) Ha az (1)–(3) bekezdés alapján nem állapítható meg, hogy a médiatartalom-szolgáltató a Magyar Köztársaság vagy más tagállam joghatósága alá tartozik-e, a médiatartalom-szolgáltató azon állam joghatósága alá tartozik, amelyben az Európai Unió működéséről szóló szerződés 49–55. cikke alapján letelepedettnek minősül.
+
+(5) A törvény hatálya az (1)–(4) bekezdés alá nem eső, de a Magyar Köztársaság területére irányuló, illetve a Magyar Köztársaság területén terjesztett vagy közzétett médiaszolgáltatásra és sajtótermékre a 176–180. §-ban foglalt feltételekkel terjed ki.
+
+(6) A törvény hatálya kiterjed azon médiatartalom-szolgáltató Magyar Köztársaság területére irányuló, illetve a Magyar Köztársaság területén terjesztett vagy közzétett médiaszolgáltatására és sajtótermékére, amely egyetlen tagállamban sem minősül letelepedettnek, és amelynek médiaszolgáltatása vagy sajtóterméke felett egyik tagállam joghatósága sem állapítható meg.
+
+(7) A törvény hatálya kiterjed az (1)–(6) bekezdés alapján a törvény hatálya alá tartozó médiaszolgáltatást nyújtó, vagy sajtóterméket kiadó médiatartalom-szolgáltatóra.
+
+2. § (1) A törvény hatálya a törvényben szabályozott esetekben kiterjed a Magyar Köztársaság területén nyújtott, vagy a Magyar Köztársaság területén nyújtott műsorterjesztési szolgáltatáshoz kapcsolódó kiegészítő médiaszolgáltatásra és szolgáltatójára.
+
+(2) A törvény hatálya a törvényben szabályozott esetekben kiterjed
+
+- a) a részben vagy egészben a Magyar Köztársaság területén telepített vagy a Magyar Köztársaság területére irányuló elektronikus hírközlő berendezéssel végzett műsorterjesztésre,
+- b) a médiaszolgáltató a) pontban foglalt műsorterjesztéssel összefüggő műszaki tevékenységére,
+- c) a kiegészítő médiaszolgáltatást nyújtó a) pontban foglalt műsorterjesztéssel összefüggő tevékenységére.
+
+(3) A törvény hatálya a törvényben szabályozott esetekben kiterjed a (2) bekezdésben foglalt, vagy azzal összefüggő tevékenységet végző vagy szolgáltatást nyújtó természetes, illetőleg jogi személyre vagy jogi személyiséggel nem rendelkező más szervezetre és ezek vezető tisztségviselőire.
+
+(4) A törvény hatálya a törvényben szabályozott esetekben kiterjed a médiaszolgáltatás vagy sajtótermék közvetítését végző közvetítő szolgáltatóra és szolgáltatására.
+
+(5) A törvény hatálya a törvényben szabályozott esetekben kiterjed a törvény hatálya alá tartozó médiaszolgáltatások, kiegészítő médiaszolgáltatások és sajtótermékek nézőjére, hallgatójára, vagy olvasójára, valamint a műsorterjesztési szolgáltatás felhasználójára, fogyasztójára és előfizetőjére.
+
+### II. Fejezet — A TÖRVÉNY ALAPELVEI
+
+3. § A Magyar Köztársaságban a médiaszolgáltatások szabadon nyújthatók, a sajtótermékek szabadon közzétehetők, az információk és a vélemények a tömegkommunikációs eszközök útján szabadon továbbíthatók, a nyilvános vételre szánt magyarországi és külföldi médiaszolgáltatások szabadon elérhetők. A médiaszolgáltatás és a sajtótermék tartalmának meghatározása szabad, a médiaszolgáltató és a sajtótermék kiadója felelősséggel tartozik e törvényben foglaltak betartásáért.
+
+4. § A médiaszolgáltatások sokszínűsége kiemelten fontos érték. A sokszínűség védelme kiterjed a tulajdoni monopólium kialakulásának, valamint a piaci verseny indokolatlan korlátozásának megakadályozására is. E törvényben foglalt rendelkezéseket a sokszínűség védelmének szempontját figyelembe véve kell értelmezni.
+
+5. § A Magyar Köztársaság területén élőknek, illetve a magyar nemzet tagjainak tájékozódáshoz és tájékoztatáshoz fűződő joga, illetve ezzel összefüggésben a demokratikus társadalmi nyilvánosság kialakulása és megerősödése kiemelkedő alkotmányos érdek. E törvényben foglaltakat a demokratikus közvélemény érdekének figyelembevételével kell értelmezni.
+
+6. § A közszolgálati médiaszolgáltatás a demokratikus társadalmi rend megfelelő működésének elengedhetetlenül szükséges feltétele. A közszolgálati médiaszolgáltatás érdekeit különös súllyal kell figyelembe venni e törvény alkalmazásakor.
+
+7. § (1) A médiaszolgáltatók, a sajtóterméket kiadók, a kiegészítő médiaszolgáltatást nyújtók, a műsorterjesztők az e törvény hatálya alá tartozó tevékenységek végzése során a jóhiszeműség és a tisztesség követelményének megfelelően, e törvényben meghatározottak szerint kötelesek egymással és a nézőkkel, hallgatókkal, olvasókkal, felhasználókkal, előfizetőkkel kölcsönösen együttműködve eljárni.
+
+(2) A műsorterjesztők, a médiaszolgáltatók és a kiegészítő médiaszolgáltatást nyújtók az elektronikus hírközlő hálózatokat, elektronikus hírközlési szolgáltatásokat, digitális műsorokat, kiegészítő médiaszolgáltatásokat egymás között olyan egyeztetett műszaki feltételrendszerben kötelesek működtetni és nyújtani, hogy azok a szükséges kapcsolat létesítéséhez, a szolgáltatás nyújtásához közvetlenül, vagy megfelelő interfészek, hálózatrészek, elemek, berendezések, szolgáltatások beiktatásával egységesen működő rendszert alkossanak.
+
+8. § A médiaszabályozás területén, illetve az e törvényben foglaltak alkalmazásában, betartatásában fontos szerepet látnak el a médiaszolgáltatókat, a sajtótermékek kiadóit, a közvetítő szolgáltatókat valamint a műsorterjesztőket tömörítő szakmai önszabályozó testületek és a különböző ön- és társszabályozó eljárások. E törvény alkalmazása során ezek tiszteletben tartásával kell eljárni.
+
+## MÁSODIK RÉSZ — A MÉDIASZOLGÁLTATÁSOKRA ÉS A SAJTÓTERMÉKEKRE VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
+
+### I. Fejezet — A MÉDIASZOLGÁLTATÁSOK TARTALMÁRA VONATKOZÓ ELŐÍRÁSOK
+
+### A gyermekek és a kiskorúak védelme
+
+9. § (1) A lineáris médiaszolgáltatást nyújtó médiaszolgáltató – a hírműsorszám, a politikai tájékoztató műsorszám, a sportműsorszám, a műsorelőzetes, valamint a reklám, a politikai reklám, a televíziós vásárlás, a társadalmi célú reklám és a közérdekű közlemény kivételével – valamennyi, általa közzétenni kívánt műsorszámot a közzétételt megelőzően a (2)–(7) bekezdés szerinti kategóriák valamelyikébe sorolja.
+
+(2) Azt a műsorszámot, amely korhatárra tekintet nélkül megtekinthető vagy meghallgatható, az I. kategóriába kell sorolni.
+
+(3) Azt a műsorszámot, amely hat éven aluli nézőben félelmet kelthet, illetve amelyet koránál fogva nem érthet meg vagy félreérthet, a II. kategóriába kell sorolni. Az ilyen műsorszám minősítése: hat éven aluliak számára nem ajánlott.
+
+(4) Azt a műsorszámot, amely tizenkét éven aluli nézőben félelmet kelthet, illetve amelyet koránál fogva nem érthet meg vagy félreérthet, a III. kategóriába kell sorolni. Az ilyen műsorszám minősítése: tizenkét éven aluliak számára nem ajánlott.
+
+(5) Azt a műsorszámot, amely alkalmas a tizenhat éven aluliak fizikai, szellemi vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy közvetlen módon utal erőszakra, illetve szexualitásra, vagy témájának meghatározó eleme az erőszakos módon megoldott konfliktus, a IV. kategóriába kell sorolni. Az ilyen műsorszám minősítése: tizenhat éven aluliak számára nem ajánlott.
+
+(6) Azt a műsorszámot, amely alkalmas a kiskorúak fizikai, szellemi vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy meghatározó eleme az erőszak, illetve a szexualitás közvetlen, naturális ábrázolása, az V. kategóriába kell sorolni. Az ilyen műsorszám minősítése: tizennyolc éven aluliak számára nem ajánlott.
+
+(7) Azt a műsorszámot, amely alkalmas a kiskorúak fizikai, szellemi vagy erkölcsi fejlődésének súlyos károsítására, különösen azáltal, hogy pornográfiát vagy szélsőséges, illetve indokolatlan erőszakot tartalmaz, a VI. kategóriába kell sorolni.
+
+(8) A (2)–(7) bekezdés szerinti minősítésnél irányadó részletes szempontokra, az egyes műsorszámok közzététele előtt és közben alkalmazható jelzésekre, illetve a minősítés közlésének módjára vonatkozó jogalkalmazási gyakorlatának fő elvi szempontjait – amennyiben a kiskorúak védelmével kapcsolatos közérdek vagy a kiskorúak védelmének egységes érvényesülése ezt indokolja – a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) ajánlásban teszi közzé.
+
+(9) A média szolgáltató kérelmére – igazgatási szolgáltatási díj megfizetése ellenében, a műsorszám átadásától számított tizenöt napon belül – a Médiatanács a műsorszám kategóriába sorolásáról hatósági határozatot hoz.
+
+(10) Nem minősül az (1)–(7) bekezdés megsértésének, ha a médiaszolgáltató a műsorszámot magasabb kategóriába sorolja, mint ahogyan az a (2)–(6) bekezdésben meghatározottak szerint szükséges lenne.
+
+10. § (1) Lineáris médiaszolgáltatásban
+
+- a) a II. kategóriába sorolt műsorszám hat éven aluliaknak szánt műsorszámként nem tehető közzé, egyébként megfelelő jelzéssel bármikor közzétehető,
+- b) a III. kategóriába sorolt műsorszám tizenkét éven aluliaknak szánt műsorszámként nem tehető közzé, egyébként megfelelő jelzéssel bármikor közzétehető,
+- c) a IV. kategóriába sorolt műsorszám megfelelő jelzéssel ellátva, 21 óra és 05 óra között tehető közzé,
+- d) az V. kategóriába sorolt műsorszám megfelelő jelzéssel ellátva, 22 óra és 05 óra között tehető közzé,
+- e) a VI. kategóriába sorolt műsorszám nem tehető közzé,
+- f) a műsorelőzetes nem tehető közzé olyan időszakban, amikor az általa bemutatott, ismertetett műsorszám nem lenne közzétehető, illetve olyan időszakban, amelyben a műsorelőzetes megfelelő kategóriába sorolása esetén közzétételének nem lenne helye,
+- g) a III. kategóriába sorolt műsorszám műsorelőzetese nem tehető közzé a tizenkét éven aluliaknak szánt műsorszámot megszakítva, illetve közvetlenül azok előtt vagy után,
+- h) sportműsorszám, kereskedelmi közlemény és társadalmi célú reklám nem tehető közzé olyan időszakban, amelyben tartalmának megfelelő kategóriába sorolása esetén közzétételének – előre láthatóan – nem lenne helye.
+
+(2) Lineáris médiaszolgáltatásban
+
+- a) műsorszám – e törvényben meghatározott kivételekkel – csak a kategóriájának megfelelő módon tehető közzé,
+- b) a műsorszám közzétételének kezdetekor közölni kell annak minősítését.
+
+(3) Lineáris rádiós médiaszolgáltatás esetében nem kell közölni a minősítést, ha
+
+- a) a II–III. kategóriába tartozó műsorszám közzétételére 21 óra és 05 óra között,
+- b) a IV–V. kategóriába tartozó műsorszám közzétételére 23 óra és 05 óra között
+
+kerül sor.
+
+(4) A lineáris audiovizuális médiaszolgáltatásban az egyes műsorszámok közzétételekor a minősítésének megfelelő jelzést piktogram formájában a képernyő valamelyik sarkában is meg kell jeleníteni úgy, hogy az a műsorszám teljes időtartama alatt jól látható legyen. A piktogramnak tartalmaznia kell a korhatár-kategória által érintett életkori csoport számmal történő megjelölését. Az I. kategóriába tartozó műsorszámok esetén a jelzést nem kell feltüntetni. Lineáris rádiós médiaszolgáltatás esetében állandó jelzést nem kell alkalmazni.
+
+(5) A lineáris audiovizuális médiaszolgáltatásban a műsorszám minősítésének megfelelő jelzés (4) bekezdés szerinti folyamatos megjelenítése mellőzhető, ha
+
+- a) a II–III. kategóriába sorolt műsorszám közzétételére 21 óra és 05 óra között,
+- b) a IV. kategóriába sorolt műsorszám közzétételére 22 óra és 05 óra között, vagy
+- c) az V. kategóriába sorolt műsorszám közzétételére 23 óra és 05 óra között
+
+kerül sor. Ebben az esetben a minősítésre vonatkozó jelzést a műsorszám kezdetekor, és reklámokkal történő megszakítását követően, a műsorszám folytatásakor kell megjeleníteni.
+
+(6) Az (1) bekezdés c)–f) és h) pontjaiban foglalt, valamint a (2) és a (4) bekezdésben foglalt előírásokat nem kell alkalmazni, ha a médiaszolgáltatás titkosított formában tartalmazza a műsorszámot, és a titkosítás feloldásához olyan kódra van szükség, amelyet a médiaszolgáltató csak tizennyolcadik életévét betöltött előfizető számára tett hozzáférhetővé, vagy amely valamely más hatékony műszaki megoldást alkalmaz annak érdekében, hogy a műsorszám kizárólag tizennyolc éven felüli nézők vagy hallgatók számára legyen elérhető. A hatékony műszaki megoldások tekintetében a Médiatanács – szükség esetén nyilvános meghallgatást követően – ajánlást tesz közzé.
+
+(7) A médiaszolgáltató műsorát közlő sajtótermékben, illetve a médiaszolgáltató internetes honlapján, képújságában és teletextjében – amennyiben rendelkezik ezek valamelyikével – szereplő tájékoztatásban valamennyi műsorszám 9. § szerinti minősítését jól látható módon fel kell tüntetni.
+
+11. § (1) A lekérhető médiaszolgáltatásokra a 9. § (6)–(7) bekezdés rendelkezéseit alkalmazni kell.
+
+(2) A lekérhető médiaszolgáltatás médiaszolgáltatójának – a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény (a továbbiakban: Smtv.) 19. § (2) bekezdésével összhangban – hatékony műszaki megoldást kell alkalmaznia annak érdekében, hogy az V–VI. kategóriákba sorolt műsorszámai kiskorúak számára ne legyenek elérhetők.
+
+(3) A (2) bekezdés szerinti hatékony műszaki megoldások tekintetében a Médiatanács – szükség esetén nyilvános meghallgatást követően – ajánlást tesz közzé.
+
+### Tájékoztatási tevékenység
+
+12. § (1) A médiaszolgáltatások tájékoztatási tevékenységének meg kell felelnie az Smtv. 13. § szerinti kötelezettségnek.
+
+(2) A tájékoztatás kiegyensúlyozottságát – a műsorszámok jellegétől függően – az egyes műsorszámokon belül, vagy a rendszeresen jelentkező műsorszámok sorozatában kell biztosítani.
+
+(3) A médiaszolgáltató hírszolgáltatást és politikai tájékoztatást nyújtó műsorszámaiban műsorvezetőként, hírolvasóként, tudósítóként rendszeresen közreműködő munkatársai bármely médiaszolgáltató által közzétett műsorszámban szereplő politikai hírhez véleményt, értékelő magyarázatot – kivéve a hírmagyarázatot – nem fűzhetnek.
+
+(4) A műsorszámban közzétett hírekhez fűzött véleményt, értékelő magyarázatot e minőségének megjelölésével és szerzőjének megnevezésével, a hírektől megkülönböztetve kell közzétenni.
+
+### Országgyűlési közvetítés
+
+13. § (1) Az Országgyűlés ülései egészének, a kinevezésekkel és jelölésekkel kapcsolatos nyilvános országgyűlési bizottsági meghallgatásoknak, valamint szükség szerint az országgyűlési bizottságok üléseinek közvetítése céljából zártláncú audiovizuális rendszer működik.
+
+(2) A zártláncú rendszerből kimenő jelet valamennyi médiaszolgáltató számára hozzáférhetővé kell tenni. A rendszerhez való csatlakozás költségei a médiaszolgáltatót terhelik.
+
+(3) Az (1)–(2) bekezdésben foglaltak nem érintik bármely médiaszolgáltatónak azt a jogát, hogy az Országgyűlés épületének kijelölt helyéről műsort közvetítsen vagy rögzítsen.
+
+(4) A kimenő jelről egy-egy rögzített, bárki számára hozzáférhető példányt az Országgyűlési Könyvtárban és az Országos Széchényi Könyvtárban kell elhelyezni. Az Országgyűlési Könyvtár biztosítja a rögzített anyag megtekinthetőségét, és költségtérítés ellenében arról bárki által szabadon felhasználható másolatot készít. Egy példányt a Médiaszolgáltatás-támogató és Vagyonkezelő Alap (a továbbiakban: Alap) archívumában is el kell helyezni.
+
+(5) Az országgyűlési tevékenység közvetítésének pártatlanságát biztosító közvetítési rendet az Országgyűlés Házszabályának mellékleteként kell meghatározni.
+
+### A figyelem felhívása a sértő tartalmakra
+
+14. § A vallási, hitbeli vagy más világnézeti meggyőződést esetlegesen sértő, az erőszakos vagy más módon a nyugalom megzavarására alkalmas képi vagy hanghatások médiaszolgáltatásban történő bemutatása előtt a nézők vagy hallgatók figyelmét erre a körülményre fel kell hívni.
+
+### Rendkívüli helyzetek kezelése a médiaszolgáltatásban
+
+15. § Rendkívüli állapot, szükségállapot, veszélyhelyzet, külső fegyveres csoportoknak Magyarország területére történő váratlan betörése, továbbá az ország területének a Magyar Honvédség légvédelmi és repülő erőivel való oltalmazása esetén az Országgyűlés, a Honvédelmi Tanács, a köztársasági elnök és a Kormány, valamint törvényben meghatározott személyek és szervek – a helyzetnek megfelelő szükséges mértékben – kötelezhetik a médiaszolgáltatót a fennálló állapottal, helyzettel kapcsolatos közérdekű közleményeknek az általuk meghatározott formában és időben történő ingyenes közzétételére, illetőleg egyes közlemények, műsorszámok közzétételét megtilthatják. A közzététel feltételeinek biztosítása az Alap feladata. A közzétételkor a megrendelőt egyértelműen meg kell nevezni.
+
+### Kizárólagos közvetítési jogok
+
+16. § (1) Audiovizuális médiaszolgáltató nem gyakorolhatja a kizárólagos közvetítési jogot olyan módon, hogy az audiovizuális médiaszolgáltatásokhoz hozzáférő hazai közönség jelentős részét – több mint húsz százalékát – kizárja a társadalom számára kiemelten nagy jelentőséggel bíró eseményeknek az eseménnyel egyidőben vagy későbbi közvetítés útján, előfizetési díj megfizetése nélkül is hozzáférhető audiovizuális médiaszolgáltatáson keresztül történő figyelemmel kíséréséből.
+
+(2) Az (1) bekezdésben meghatározott audiovizuális médiaszolgáltatók tekintetében érvényesülő, a társadalom számára kiemelten nagy jelentőséggel bíró eseményeket a Médiatanács – nyilvános meghallgatást követően – hatósági határozatában állapítja meg. A Médiatanács e határozatában meghatározza azt is, hogy a társadalom számára kiemelten nagy jelentőséggel bíró események egyidejű vagy későbbi közvetítésére kerüljön sor. A határozat elfogadásakor figyelembe kell venni azt, hogy a kiemelten nagy jelentőséggel bíró eseménynek minősített esemény iránt a nézők széles körében jelentkezzen érdeklődés, az esemény valamely világ- vagy európai szintű, illetve magyar érdekeltségű esemény legyen, amelyet – ide nem értve a kizárólagosan magyar érdekeltségű eseményeket – az európai országok jelentős részében közvetítenek.
+
+(3) A (2) bekezdés szerinti hatósági eljárás megindításáról a Médiatanács végzésben értesíti az audiovizuális médiaszolgáltatókat. Az értesítésnek kizárólag az ügy tárgyát és rövid ismertetését kell tartalmaznia. Az értesítést a Médiatanács hirdetményi úton közli. E hatósági eljárásban az ügyféli jogokat kizárólag az eljárásban részt vevő ügyfelek gyakorolhatják.
+
+(4) A Médiatanács a (2) bekezdésben meghatározott hatósági határozatát hirdetményi úton közli.
+
+(5) A (2) bekezdésben meghatározott mérlegelési szempontok figyelembevételével a Médiatanács megfelelően módosíthatja a (2) bekezdés szerinti hatósági határozatát. A módosított határozat közlésére a (4) bekezdésben foglaltakat kell alkalmazni.
+
+(6) A (2) és (5) bekezdésben meghatározott hatósági határozat bírósági felülvizsgálata keretében a keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya, és a keresettel támadott hatósági határozat végrehajtását a bíróság nem függesztheti fel. A határozat a keresetlevél benyújtásától függetlenül azonnal végrehajtható.
+
+(7) A (2) bekezdés alapján meghozott első hatósági határozat közlése, illetve későbbi módosításának közlése előtt jogszerűen szerzett kizárólagos jogokra az (1) bekezdés és a 18. § (1) bekezdés nem alkalmazható.
+
+17. § (1) A kizárólagos közvetítési jog nem gyakorolható oly módon, hogy az valamely tagállamban a közönség jelentős részét kizárja a számukra kiemelten nagy jelentőséggel bíró – az érintett tagállam által előre rögzített és nyilvánosságra hozott listán szereplő – események audiovizuális médiaszolgáltatáson keresztül történő figyelemmel kíséréséből.
+
+(2) Az 1998. évi XLIX. törvénnyel kihirdetett, a határokat átlépő televíziózásról szóló, Strasbourgban, 1989. május 5-én kelt európai egyezményt módosító Jegyzőkönyvet kihirdető törvény (e bekezdés és a 18. § vonatkozásában a továbbiakban: Jegyzőkönyv) hatálybalépését követően szerzett kizárólagos audiovizuális közvetítési jog gyakorlása nem sértheti a Jegyzőkönyvet elfogadó államokban a társadalom számára nagy jelentőséggel bíró események közvetítésére vonatkozó rendelkezéseket.
+
+18. § (1) Amennyiben a kizárólagos közvetítési jog gyakorlása a hazai közönség legalább húsz százalékát kizárná a 16. § (2) bekezdés szerinti esemény audiovizuális médiaszolgáltatáson keresztül történő figyelemmel kíséréséből, az audiovizuális médiaszolgáltató köteles az esemény közvetítése tárgyában az ajánlatkéréssel hozzá forduló – a Magyar Köztársaság polgárainak legalább nyolcvan százaléka által előfizetési díj megfizetése nélkül is elérhető – lineáris audiovizuális médiaszolgáltató (a továbbiakban: ajánlatkérő) számára méltányos és ésszerű feltételek mellett, a piaci viszonyokhoz képest megfelelő ellenérték fejében szerződési ajánlatot tenni az esemény élőben vagy későbbi közvetítés útján történő közvetítésére. A kizárólagos jogot szerzett médiaszolgáltató ebben az esetben nem hivatkozhat arra, hogy a kizárólagos jog átruházására nem jogosult.
+
+(2) Ha a médiaszolgáltató olyan esemény audiovizuális médiaszolgáltatáson keresztüli közvetítésére szerzett kizárólagos jogot, amelyet a Jegyzőkönyvet elfogadó valamely állam a társadalom számára kiemelten nagy jelentőséggel bírónak minősített, köteles az esemény közvetítése tárgyában az ajánlattételi felhívással hozzá forduló – az érintett állam joghatósága alá tartozó, az érintett állam által meghatározott feltételeknek megfelelő, előfizetési díj nélkül is hozzáférhető, valamennyi műsorterjesztési mód figyelembevételével polgárainak legalább nyolcvan százaléka által elérhető – külföldi lineáris audiovizuális médiaszolgáltatás médiaszolgáltatójának ésszerű feltételek mellett, a piaci viszonyokhoz képest megfelelő ellenérték fejében szerződési ajánlatot tenni.
+
+(3) Ha a médiaszolgáltató olyan esemény közvetítésére szerzett kizárólagos jogot, amelyet valamely tagállam a társadalom számára kiemelten nagy jelentőséggel bírónak minősített, köteles az esemény közvetítése tárgyában az ajánlattételi felhívással hozzá forduló – az érintett tagállam joghatósága alá tartozó, és a tagállam által meghatározott feltételeknek megfelelő – külföldi audiovizuális médiaszolgáltatónak ésszerű feltételek mellett, a piaci viszonyokhoz képest megfelelő ellenérték fejében szerződési ajánlatot tenni.
+
+(4) Az (1)–(3) bekezdés alapján létrejött szerződés részletes feltételeiben a felek állapodnak meg.
+
+(5) Az (1)–(3) bekezdésben meghatározott esetekben a feleket szerződéskötési kötelezettség terheli. Amennyiben a megállapodás az ajánlattételtől számított tizenöt napon belül nem jön létre, vagy a díjazással kapcsolatban nem tudnak megállapodni, az ajánlatkérő, illetve a kizárólagos közvetítési joggal rendelkező médiaszolgáltató jogosult a 172–174. § szerinti jogvitás eljárást kezdeményezni. E jogvitás eljárásban a Médiatanács tizenöt napon belül dönt. Az ügyintézési határidő indokolt esetben tizenöt nappal meghosszabbítható.
+
+(6) A 16. § és a 18. § vonatkozásában a médiaszolgáltatások elérhetősége tekintetében a Médiatanács nyilvántartása az irányadó.
+
+### Rövid híradás
+
+19. § (1) Az Európai Unió területén letelepedett valamennyi lineáris audiovizuális médiaszolgáltatás médiaszolgáltatója jogosult rövid híradás céljából méltányos, ésszerű és megkülönböztetéstől mentes módon hozzáférni a Magyarországon letelepedett audiovizuális médiaszolgáltató által kizárólagos joggal közvetített – a Médiatanács által közzétett, a 16. § (2) bekezdésben meghatározott listán szereplő, kiemelten nagy jelentőséggel bíró, vagy bármely tagállamban ilyennek minősített – eseményről adott közvetítéshez. A hozzáférés a médiaszolgáltatás jeléhez való hozzájutás, az esemény helyszínén történő felvételkészítés vagy az eseményről rögzített felvétel átadása útján történhet.
+
+(2) Ha a hozzáférést igénylő audiovizuális médiaszolgáltatóval azonos tagállamban letelepedett másik audiovizuális médiaszolgáltató kizárólagos jogokat szerzett a nagy jelentőséggel bíró eseménnyel kapcsolatban, a hozzáférést csak ezen audiovizuális médiaszolgáltatótól lehet igényelni.
+
+(3) Az (1) bekezdésben meghatározott esetben a feleket szerződéskötési kötelezettség terheli. A szerződést ésszerű feltételekkel kell megkötni; a hozzáférési jog ellenértéke nem haladhatja meg a hozzáférés biztosítása által közvetlenül felmerülő költségek összegét. Amennyiben a megállapodás az ajánlattételtől számított tizenöt napon belül nem jön létre, bármelyik fél jogosult a 172–174. § szerinti jogvitás eljárást kezdeményezni. E jogvitás eljárásban a Médiatanács tizenöt napon belül dönt. Az ügyintézési határidő indokolt esetben tizenöt nappal meghosszabbítható.
+
+(4) A hozzáférési jogot szerzett audiovizuális médiaszolgáltató szabadon választhatja ki a műsorszám – általa a rövid híradásban közzétenni kívánt – részleteit.
+
+(5) A közzétehető részletek összesített időtartama nem haladhatja meg az érintett műsorszám időtartamának tíz százalékát, de legfeljebb az ötven másodpercet. Szerződés ennél hosszabb összesített időtartamú részletek közzétételét is lehetővé teheti.
+
+(6) A hozzáférési jogot szerzett audiovizuális médiaszolgáltató a rövid híradásban köteles megjelölni a kizárólagos közvetítési jog azon jogosultját, amellyel megállapodott a közzétételről.
+
+(7) A műsorszám megállapodás alapján felhasználható részletei önállóan nem, kizárólag általános hír- és tájékoztató műsorszámok részeként tehető közzé. Amennyiben a lineáris audiovizuális médiaszolgáltató lekérhető audiovizuális médiaszolgáltatásában is közzé kívánja tenni a rövid híradást, azt csak úgy teheti meg, ha a lineáris és a lekérhető audiovizuális médiaszolgáltatásban közzétett, a rövid híradást tartalmazó műsorszámok azonosak egymással.
+
+### Műsorkvóták
+
+20. § (1) A médiaszolgáltató
+
+- a) lineáris audiovizuális médiaszolgáltatása évi teljes műsoridejének több mint felét európai művek, több mint harmadát magyar művek bemutatására köteles fordítani,
+- b) lineáris audiovizuális médiaszolgáltatása évi teljes műsoridejének legalább tíz százalékát olyan európai mű, legalább nyolc százalékát pedig olyan magyar mű bemutatására köteles fordítani, amelyeket tőle független műsorkészítővel készíttetett, vagy független műsorkészítőtől öt évnél nem régebben készült műként szerzett be.
+
+(2) A lekérhető audiovizuális médiaszolgáltatás kínálatában egy adott naptári évben elérhetővé tett műsorszámok egybeszámított időtartamának több mint negyedét magyar műveknek kell kitennie.
+
+(3) A közszolgálati médiaszolgáltató lineáris audiovizuális médiaszolgáltatása évi teljes műsoridejének
+
+- a) több mint hatvan százalékát európai művek,
+- b) több mint felét magyar művek,
+- c) több mint harmadát tőle független műsorkészítővel készíttetett, vagy független műsorkészítőtől beszerzett, öt évnél nem régebben készült művek,
+- d) több mint negyedét tőle független magyar műsorkészítővel készíttetett, vagy független magyar műsorkészítőtől beszerzett, öt évnél nem régebben készült művek bemutatására köteles fordítani.
+
+21. § (1) A lineáris rádiós médiaszolgáltatásban a zenei művek közzétételére szánt műsoridő legalább harmincöt százalékát magyar zenei művek bemutatására kell fordítani.
+
+(2) A lineáris rádiós médiaszolgáltatásban a közzétett magyar zenei műsorszámok legalább huszonöt százaléka öt évnél nem régebben nyilvánosságra került zenei műből, vagy öt évnél nem régebben készült hangfelvételből kell, hogy álljon.
+
+22. § (1) A 20–21. §-ban meghatározott előírások nem vonatkoznak
+
+- a) a kizárólag reklámozásra és televíziós vásárlás közzétételére szolgáló médiaszolgáltatásra,
+- b) a kizárólag a médiaszolgáltatót, vagy annak más médiaszolgáltatását reklámozó médiaszolgáltatásra,
+- c) arra a médiaszolgáltatásra, amely kizárólag az Európai Unió tagállamainak nyelveitől eltérő nyelven közvetíti szolgáltatását; ahol a műsorszámok a műsoridő jelentős részében ilyen nyelven vagy nyelveken kerülnek közzétételre, ott az előírásokat a műsoridő adott részére nézve nem kell alkalmazni,
+- d) a közösségi médiaszolgáltatás kivételével a helyi médiaszolgáltatásra,
+- e) arra a médiaszolgáltatásra, amely kizárólag Európai Unión kívüli országban kerül terjesztésre.
+
+(2) A 20–21. §-ban meghatározott arányokat a médiaszolgáltató – erre irányuló, a Médiatanácshoz intézett kérelme esetén – a Médiatanáccsal kötött hatósági szerződésben rendezett módon, fokozatosan is elérheti. Ilyen mentesítés egy hatósági szerződésben egyszerre legfeljebb három naptári évre engedélyezhető, azzal a feltétellel, hogy a médiaszolgáltató – az előírt arányok eléréséig – köteles folyamatosan növelni médiaszolgáltatásában a magyar, az európai, valamint a független előállítóval készíttetett, általa közzétett művek arányát.
+
+(3) Rádiós médiaszolgáltatást és lekérhető médiaszolgáltatást nyújtó médiaszolgáltatóval kötött hatósági szerződés – indokolt esetben – a 20–21. §-ban meghatározott arányoktól való tartós vagy állandó jellegű eltérést is lehetővé tehet. Lineáris audiovizuális tematikus médiaszolgáltatást nyújtóval kötött hatósági szerződés indokolt esetben lehetővé teheti, hogy a 20. § (1) bekezdés b) pontban és 20. § (3) bekezdés c)–d) pontban szereplő kötelezettségét öt évnél régebben készült művekkel teljesítse.
+
+(4) A (3) bekezdésben foglalt eseten kívül a műsorkvótákra vonatkozó szabályok betartása alóli általános mentesítés nem adható.
+
+(5) A 20–21. §-ban, illetve a (2)–(3) bekezdés alapján megkötött hatósági szerződésben meghatározott arányoknak az egyes médiaszolgáltatások 05 és 24 óra közötti műsoridejében is érvényesülniük kell.
+
+(6) Azon médiaszolgáltatók, amelyek több médiaszolgáltatást is nyújtanak, a 20–21. §-ban, illetve a (2)–(3) bekezdés szerinti hatósági szerződésben meghatározott arányokat valamennyi médiaszolgáltatásuk összesített műsoridejének átlagában kötelesek elérni.
+
+(7) A 20–21. § alkalmazásában a teljes műsoridő megállapítása során a hírműsorszámot, sportműsorszámot, játékot, reklámot, televíziós vásárlást, politikai reklámot, közérdekű közleményt, támogatói közleményt, társadalmi célú reklámot, illetve a képújság részére biztosított műsoridőt figyelmen kívül kell hagyni,
+
+(8) A médiaszolgáltató köteles minden év május 31-ig adatokat szolgáltatni a Médiatanács számára a műsorkvótákra vonatkozó előírások betartásának ellenőrzéséhez. A (2)–(3) bekezdés szerinti, a következő naptári évi mentesítésre vonatkozó, indokolással ellátott kérelmet legkésőbb minden év szeptember 30-ig kell benyújtani a Médiatanácshoz. Új médiaszolgáltatás esetén a kérelmet a nyilvántartásba vételi eljárás kezdeményezésével egyidőben lehet benyújtani.
+
+### Kereskedelmi közlemények
+
+23. § A médiaszolgáltatásban közzétett kereskedelmi közleményekre alkalmazni kell az Smtv. 20. § (1)–(7) bekezdésben foglalt rendelkezéseket.
+
+24. § (1) A médiaszolgáltatásban közzétett kereskedelmi közlemény
+
+- a) nem sértheti az emberi méltóságot,
+- b) nem tartalmazhat és nem támogathat a nemen, faji vagy etnikai származáson, nemzetiségen, valláson vagy világnézeti meggyőződésen, fizikai vagy szellemi fogyatkozáson, életkoron vagy szexuális irányultságon alapuló hátrányos megkülönböztetést,
+- c) közvetlenül nem szólíthat fel kiskorúakat valamely áru megvásárlására vagy bérbevételére, illetve szolgáltatás igénybevételére,
+- d) közvetlenül nem szólíthat fel kiskorúakat arra, hogy rábeszéljék szüleiket vagy másokat a reklámozott áru megvásárlására vagy szolgáltatás igénybevételére,
+- e) nem használhatja ki a kiskorúaknak a szüleik, tanáraik és más személyek iránti bizalmát, továbbá a kiskorúak tapasztalatlanságát és hiszékenységét,
+- f) indokolatlanul nem ábrázolhat kiskorút veszélyes helyzetekben,
+- g) nem fejezhet ki vallási, lelkiismereti, illetőleg világnézeti meggyőződést, kivéve a vallási tematikájú tematikus médiaszolgáltatásban közzétett kereskedelmi közleményt,
+- h) nem sértheti nemzeti jelkép méltóságát, vagy vallási meggyőződést.
+
+(2) Az alkoholtartalmú italokra vonatkozó, médiaszolgáltatásban közzétett kereskedelmi közlemény
+
+- a) nem célozhat kifejezetten kiskorúakat,
+- b) nem ábrázolhat alkoholt fogyasztó kiskorút,
+- c) nem ösztönözhet az ilyen italok mértéktelen fogyasztására,
+- d) nem ábrázolhatja a túlzott alkoholfogyasztást pozitív, az alkoholfogyasztástól való tartózkodást negatív megvilágításban,
+- e) kiemelkedő fizikai teljesítményt vagy járművezetést nem mutathat be alkoholtartalmú italok fogyasztásának hatásaként,
+- f) nem kelthet olyan benyomást, hogy az alkoholtartalmú italok fogyasztása hozzájárul a társadalmi vagy szexuális sikerekhez,
+- g) nem állíthatja, hogy az alkoholtartalmú italok fogyasztásának serkentő, nyugtató vagy bármilyen jótékony egészségügyi hatása van, illetve, hogy az alkoholtartalmú italok a személyes problémák megoldásának egyik eszközét jelentik,
+- h) nem kelthet olyan benyomást, hogy az alacsony alkoholtartalmú italok fogyasztása esetén a túlzott alkoholfogyasztás elkerülhető, illetve, hogy a magas alkoholtartalom az ital pozitív tulajdonsága.
+
+25. § A kereskedelmi közlemény közzétételének megrendelője, továbbá az, akinek ezek közzétételéhez érdeke fűződik, nem gyakorolhat szerkesztői befolyást – a közzététel időpontja kivételével – a médiaszolgáltatásra.
+
+### A médiaszolgáltatások és a műsorszámok támogatása
+
+26. § (1) A médiaszolgáltatások, illetve a műsorszámok támogatására alkalmazni kell az Smtv. 20. § (8)–(10) bekezdésben foglalt rendelkezéseket.
+
+(2) A támogatott médiaszolgáltatás vagy műsorszám esetén a támogató – az Smtv. 20. § (8) bekezdés alapján történő – megnevezése történhet a támogató vagy az általa megjelölt más vállalkozás neve, védjegye és egyéb, a támogatóra vagy az általa megjelölt más vállalkozásra utaló jelzés, termékére, tevékenységére vagy szolgáltatására való utalás vagy ezek megkülönböztető jele, logója közzétételével, illetve feltüntetésével.
+
+(3) A (2) bekezdés szerinti közzététel a támogatott műsorszám jellegét és tartalmát nem sértő módon a műsorszámmal egyidejűleg, a műsorszámot megelőzően és a végét követően történhet.
+
+27. § (1) Nem támogathat médiaszolgáltatást, illetve műsorszámot
+
+- a) párt, politikai mozgalom,
+- b) dohányterméket gyártó vállalkozás.
+
+(2) Az (1) bekezdés b) pontban foglaltakon túli azon vállalkozás, amely – főtevékenysége szerint – e törvény, illetve más jogszabályok alapján nem reklámozható terméket állít elő, illetőleg ilyen termékekkel kapcsolatos szolgáltatást nyújt, e terméke, illetve szolgáltatása megjelenítésével, népszerűsítésével médiaszolgáltatást vagy műsorszámot nem támogathat.
+
+(3) Az Smtv. 20. § (7) bekezdésben foglalt tilalom nem vonatkozik a gyógyszer, illetve a gyógyászati eljárás tekintetében érintett vállalkozás neve és védjegye közléséhez kötött támogatásra, valamint az orvosi rendelvény nélkül is igénybe vehető gyógyszerek vagy gyógyászati termékek, eljárások népszerűsítéséhez kötött támogatásra. A gyógyszerek, gyógyászati termékek gyártásával, forgalmazásával, illetve a gyógyászati eljárások szolgáltatásával foglalkozó vállalkozás által támogatott műsorszámok nem népszerűsíthetnek kizárólag orvosi rendelvényre hozzáférhető gyógyszereket vagy gyógyászati termékeket, eljárásokat.
+
+(4) A támogató megnevezésében vagy feltüntetett nevében párt vagy politikai mozgalom neve, jelszava, emblémája nem szerepelhet.
+
+(5) Nem minősül audiovizuális médiaszolgáltatás vagy műsorszám támogatásának vagy burkolt kereskedelmi közleménynek, ha egy nyilvános esemény vagy az azon résztvevők támogatójának, vagy a támogató árujának, szolgáltatásának megnevezése, logója az esemény közvetítése során – beleértve az esemény előtt, után vagy annak szünetében az eseményhez kapcsolódóan készített beszélgetéseket is – a képernyőn a közvetítésből adódóan megjelenik, feltéve, hogy a médiaszolgáltatót ehhez anyagi érdekeltség nem fűzi, és a megjelenés módja a közvetítésben nem ad a támogatónak indokolatlan hangsúlyt.
+
+(6) Amennyiben az audiovizuális médiaszolgáltató valamely műsorszámában megjelenő személyt vagy vállalkozást támogató más személy vagy vállalkozás, illetve ezek árujának, szolgáltatásának megnevezése, jelzése, logója a műsorszámban – az (5) bekezdés esetét kivéve – megjelenik, a médiaszolgáltatások, illetve a műsorszámok támogatására vonatkozó szabályokat kell alkalmazni, ide nem értve a támogató megnevezésének kötelezettségét.
+
+28. § (1) Audiovizuális médiaszolgáltatásban nem támogatható
+
+- a) hírműsorszám és politikai tájékoztató,
+- b) a nemzeti ünnepek hivatalos eseményeiről tudósító
+
+műsorszám.
+
+(2) Rádiós médiaszolgáltatásban nem támogatható a nemzeti ünnepek hivatalos eseményeiről tudósító műsorszám.
+
+(3) Az (1) bekezdés a) pontjában meghatározott korlátozás nem érinti a hír- és politikai tájékoztató műsorszámokat közzétevő tematikus médiaszolgáltatás támogatását.
+
+29. § A kizárólag áru vagy szolgáltatás megrendelésére szakosodott tematikus médiaszolgáltatásra az Smtv. 20. § (8)–(10) bekezdés nem alkalmazható.
+
+### Termékmegjelenítés a műsorszámokban
+
+30. § (1) A médiaszolgáltatásban közzétett termékmegjelenítés – a (2) bekezdésben foglalt kivételekkel – tilos.
+
+(2) A műsorszámokban szereplő termékmegjelenítés megengedett
+
+- a) a filmszínházban történő bemutatásra szánt filmalkotás, a médiaszolgáltatásban való közzététel céljából készült filmalkotás és filmsorozat, a sportműsorszám és a szórakoztató műsorszám esetén,
+- b) az a) pontban foglaltaktól eltérő műsorszámokban akkor, ha a médiaszolgáltatót vagy a műsorszám készítőjét az érintett áru gyártója vagy forgalmazója, illetve szolgáltatás nyújtója vagy közvetítője – sem közvetve, sem közvetlenül – nem részesíti anyagi juttatásban, azon túl, hogy az árut vagy szolgáltatást a termékmegjelenítés céljából ingyenesen rendelkezésre bocsátja.
+
+(3) Nem tehető közzé termékmegjelenítés
+
+- a) a hírműsorszámban és a politikai tájékoztató,
+- b) a (2) bekezdés b) pontban foglalt eset kivételével a kifejezetten tizennégy év alatti kiskorúaknak szóló,
+- c) nemzeti ünnepek hivatalos eseményeiről tudósító,
+- d) a vallási, illetve egyházi tartalmú
+
+műsorszámban.
+
+(4) A műsorszámok nem tartalmazhatnak az alábbi termékekre vonatkozó termékmegjelenítést:
+
+- a) dohánytermék, cigaretta vagy más, olyan vállalkozástól származó termék, amelynek elsődleges tevékenysége cigaretta vagy egyéb dohánytermék gyártása vagy értékesítése,
+- b) e törvény, illetve más jogszabályok alapján nem reklámozható termék,
+- c) olyan gyógyszerkészítmény, illetve gyógyászati termék, eljárás, amely kizárólag orvosi rendelvényre vehető igénybe.
+
+31. § (1) A termékmegjelenítést tartalmazó műsorszámoknak meg kell felelniük az alábbi követelményeknek:
+
+- a) tartalmuk – és lineáris médiaszolgáltatás esetén annak műsorrendje – nem befolyásolható oly módon, hogy az hatással legyen a médiaszolgáltató felelősségére és szerkesztői függetlenségére,
+- b) nem hívhatnak fel közvetlenül áru megvásárlására vagy bérlésére, illetve szolgáltatás igénybevételére,
+- c) nem adhatnak a műsor tartalmából egyébként nem következő, indokolatlan hangsúlyt a megjelenített terméknek.
+
+(2) A nézőket egyértelműen tájékoztatni kell a termékmegjelenítés tényéről. A termékmegjelenítést tartalmazó műsorszám elején és végén, valamint a műsorszámot megszakító reklámokat követően a műsorszám folytatásakor a termékmegjelenítésre – optikai vagy akusztikus módon – fel kell hívni a figyelmet.
+
+(3) Az (1)–(2) bekezdésben foglalt kötelezettség nem terjed ki azon műsorszámokra, amelyeket nem maga a médiaszolgáltató vagy tulajdonosának befolyásoló részesedése mellett működő más médiaszolgáltató vagy műsorkészítő vállalkozás készített vagy rendelt meg.
+
+(4) A termékmegjelenítés és az arra való felhívás e törvényben foglalt feltételeknek való megfelelősége tekintetében a Médiatanács – szükség esetén nyilvános meghallgatást követően –ajánlást tehet közzé.
+
+### Politikai reklám, közérdekű közlemény és társadalmi célú reklám
+
+32. § (1) A politikai reklám, közérdekű közlemény és társadalmi célú reklám közzétételének megrendelője, továbbá az, akinek ezek közzétételéhez érdeke fűződik a közzététel időpontja kivételével nem gyakorolhat szerkesztői befolyást a médiaszolgáltatásra.
+
+(2) A politikai reklámnak, a közérdekű közleménynek és a társadalmi célú reklámnak – e jellegét tekintve – azonnal felismerhetőnek és más médiatartalmaktól megkülönböztethetőnek kell lennie. A más médiatartalmaktól való megkülönböztetés módja a lineáris médiaszolgáltatásban
+
+- a) audiovizuális médiaszolgáltatás esetében optikai és akusztikus módon történő,
+- b) rádiós médiaszolgáltatás esetében akusztikus módon történő
+
+figyelemfelhívás.
+
+(3) Választási kampányidőszakban az országgyűlési képviselők, európai parlamenti képviselők, illetőleg a helyi, megyei önkormányzati képviselők és polgármesterek választásáról, továbbá a kisebbségi önkormányzatok választásáról szóló törvények szabályai szerint lehet politikai reklámot médiaszolgáltatásban közzétenni. Választási kampányidőszakon kívül politikai hirdetés kizárólag már elrendelt népszavazással összefüggésben közölhető. A politikai reklám tartalmáért a médiaszolgáltató nem felel, amennyiben a politikai reklám közzétételére irányuló igény megfelel a választási eljárásról szóló törvényben foglaltaknak, úgy mérlegelés nélkül köteles közzétenni azt.
+
+(4) Politikai reklám, közérdekű közlemény és társadalmi célú reklám közzétételekor a közzététel megrendelőjét egyértelműen meg kell nevezni.
+
+(5) A közérdekű közlemény közzétételéért a médiaszolgáltató ellenszolgáltatást nem kérhet.
+
+(6) A közszolgálati, a közösségi és a jelentős befolyásoló erejű médiaszolgáltató köteles közzétenni a hivatásos katasztrófavédelmi szerv közérdekű közleményét, amennyiben az az emberi életet vagy vagyonbiztonságot veszélyeztető vagy károsító események várható bekövetkezéséről, a már bekövetkezett ilyen események következményeinek enyhítéséről, elvégzendő feladatokról tájékoztat. A közzétételre a médiaszolgáltató legnagyobb éves átlagos közönségaránnyal rendelkező médiaszolgáltatásában, és – a 36. § (6) bekezdésben foglalt esetet kivéve – a médiaszolgáltató által meghatározott módon kerül sor. A közzétételi kötelezettség ezen események helyszíne szerinti vételkörzetben működő helyi médiaszolgáltatás médiaszolgáltatóját is terheli.
+
+(7) A közérdekű közlemény időtartama az egy percet nem haladhatja meg. E korlátozás nem vonatkozik a 15. §, illetve a (6) bekezdés szerinti közérdekű közleményre.
+
+(8) A médiaszolgáltató kérelmére a Médiatanács – a kérelem beérkezésétől számított tizenöt napon belül, igazgatási szolgáltatási díj ellenében – hatósági határozatában dönt, hogy a kérelem tárgyát képező közlemény közérdekű közleménynek, társadalmi célú reklámnak vagy politikai reklámnak minősül-e.
+
+(9) Nem minősül burkolt kereskedelmi közleménynek valamely vállalkozás társadalmú célú, közérdekű szerepvállalásáról történő tájékoztatás, azonban az ilyen beszámolókban kizárólag a vállalkozás neve, logója és védjegye tüntethető fel, valamint – amennyiben a társadalmi szerepvállaláshoz szorosan kapcsolódik – terméke, szolgáltatása jeleníthető meg. Nem jelenhet meg a beszámolóban a vállalkozás jelszava, kereskedelmi közlemény részlete, és a tájékoztatás nem ösztönözhet kifejezetten a vállalkozás termékének megvásárlására, vagy szolgáltatásának igénybevételére.
+
+### Reklám és televíziós vásárlás a lineáris médiaszolgáltatásban
+
+33. § (1) A lineáris médiaszolgáltatásban a reklám és a televíziós vásárlás más médiatartalmaktól való megkülönböztetésének módja
+
+- a) audiovizuális médiaszolgáltatásban közzétett reklám és televíziós vásárlás esetében az optikai vagy akusztikus módon történő,
+- b) audiovizuális médiaszolgáltatásban közzétett televíziós vásárlási műsorablak esetében az optikai és akusztikus módon történő,
+- c) rádiós médiaszolgáltatás esetében az akusztikus módon történő
+
+figyelemfelhívás.
+
+(2) A lineáris médiaszolgáltatásban a műsorszám megszakításával közzétett reklám és televíziós vásárlás – figyelembe véve a műsorszámon belüli természetes szüneteket, a műsorszám időtartamát és jellegét – nem sértheti indokolatlan mértékben a műsorszám egységét, valamint a műsorszám szerzői vagy szomszédos jogi jogosultjának jogát vagy jogos érdekét.
+
+(3) Nem lehet reklámmal vagy televíziós vásárlással megszakítani azt a lineáris médiaszolgáltatásban közzétett műsorszámot, amely
+
+- a) politikai híreket tesz közzé vagy politikai tájékoztatást tartalmaz, és időtartama nem haladja meg a harminc percet,
+- b) tizennégy év alatti kiskorúakhoz szól, és időtartama nem haladja meg a harminc percet,
+- c) nemzeti ünnepek hivatalos eseményeiről tudósít,
+- d) vallási, illetve egyházi tartalmú, ide nem értve a filmalkotásokat.
+
+(4) A lineáris médiaszolgáltatásban közzétett reklám, televíziós vásárlás, valamint a reklám és a televíziós vásárlás közzétételét akusztikus módon jelző figyelemfelhívás átlagos vagy a néző és hallgató által érzékelt hangereje nem lehet nagyobb, mint a környező műsorszámoké.
+
+(5) Virtuális reklám lineáris audiovizuális médiaszolgáltatásban csak úgy tehető közzé, ha közzétételére a médiaszolgáltató az érintett műsorszámot közvetlenül megelőzően, illetve közvetlenül a műsorszámot követően is – optikai vagy akusztikus módon – felhívja a figyelmet. E kötelezettség nem terjed ki azon műsorszámokra, amelyeket nem maga a médiaszolgáltató vagy tulajdonosának befolyásoló részesedése mellett működő más médiaszolgáltató vagy műsorkészítő vállalkozás készített vagy rendelt meg.
+
+(6) Nem lehet virtuális vagy osztott képernyős reklámot közzétenni az olyan, lineáris audiovizuális médiaszolgáltatásban közzétett műsorszámban, amely
+
+- a) politikai hírt vagy politikai tájékoztatást tartalmaz, és időtartama nem haladja meg a harminc percet,
+- b) tizennégy év alatti kiskorúakhoz szól, és időtartama nem haladja meg a harminc percet,
+- c) nemzeti ünnepek hivatalos eseményeiről tudósít,
+- d) vallási, illetve egyházi tartalmú, vagy
+- e) dokumentumfilm, és időtartama nem haladja meg a harminc percet.
+
+(7) Az osztott képernyős reklámot a lineáris audiovizuális médiaszolgáltatásban a műsorszámtól vizuális megjelenítésében jól felismerhetően elkülönítve, legfeljebb a képernyő területének felén, a reklám jellegének a képernyőn való, jól látható feltüntetése mellett lehet közzétenni.
+
+34. § (1) Lineáris médiaszolgáltatásban közzétett sport- és más olyan műsorszámban, amelyben természetes szünetek vannak, reklám – az osztott képernyős reklám és a virtuális reklám kivételével – kizárólag a részek között és a szünetekben tehető közzé.
+
+(2) A lineáris audiovizuális médiaszolgáltatásban közzétett, harminc percnél hosszabb filmalkotás és a hír- vagy politikai tájékoztató műsorszám reklámmal vagy televíziós vásárlással – a sorozat, valamint a dokumentumfilm kivételével – harminc perces időszakonként egyszer szakítható meg, beleértve a reklámok és a műsorelőzetesek időtartamát is.
+
+35. § (1) A lineáris médiaszolgáltatásban közzétett reklámok időtartama egyetlen, egész órától egész óráig tartó időszakon belül sem haladhatja meg a tizenkét percet, beleértve az osztott képernyős reklámot, a virtuális reklámot, a reklámtartalmú képújságot, valamint – a (2) bekezdés e) pontban foglalt kivétel mellett – a más médiaszolgáltatás műsorszámainak népszerűsítését.
+
+(2) Az (1) bekezdésben foglalt időbeli korlátozás nem terjed ki
+
+- a) a televíziós vásárlási műsorablakra,
+- b) a politikai reklámra,
+- c) a közérdekű közleményre,
+- d) a társadalmi célú reklámra,
+- e) a médiaszolgáltatás saját műsorszámáról vagy a médiaszolgáltató, illetve tulajdonosának befolyásoló részesedése mellett működő más médiaszolgáltatás műsorszámáról közzétett műsorelőzetesre,
+- f) a 26. § (2) bekezdés szerinti támogatói közleményekre,
+- g) a termékmegjelenítésre,
+- h) a képernyőszövegre, ha helyi médiaszolgáltatásban teszik közzé,
+- i) azon virtuális reklámra, amely olyan műsorszámban jelenik meg, amelyet nem maga a médiaszolgáltató vagy tulajdonosának befolyásoló részesedése mellett működő más médiaszolgáltató vagy műsorkészítő vállalkozás készített vagy rendelt meg,
+- j) a kizárólag reklámot és televíziós vásárlást közzétevő médiaszolgáltatóra,
+- k) a kizárólag a médiaszolgáltatót vagy annak más médiaszolgáltatását reklámozó lineáris audiovizuális médiaszolgáltatásra,
+- l) a médiaszolgáltatást magát, vagy a médiaszolgáltatásban közzétett műsorszámokat kiegészítő termékek reklámozását szolgáló közleményekre.
+
+(3) A televíziós vásárlási műsorablak közzétételére fordított műsoridő nem haladhatja meg a naptári naponként számított három órát, ide nem értve az elsősorban televíziós vásárlást vagy televíziós vásárlási műsorablakokat közzétevő tematikus médiaszolgáltatás műsoridejét.
+
+### Reklám és közérdekű közlemény a közszolgálati és a közösségi médiaszolgáltatásban
+
+36. § (1) A közszolgálati médiaszolgáltató lineáris médiaszolgáltatásában közzétett reklám és televíziós vásárlás időtartama egyetlen egész órától egész óráig tartó időszakon belül sem haladhatja meg a nyolc percet, míg a közösségi médiaszolgáltatásban közzétett reklám és televíziós vásárlás időtartama egyetlen egész órától egész óráig tartó időszakon belül sem haladhatja meg a hat percet.
+
+(2) A reklám (1) bekezdésben meghatározott időtartamába a közszolgálati médiaszolgáltatás esetében a reklámtartalmú képújság közzététele is beleszámít.
+
+(3) Közszolgálati és közösségi médiaszolgáltatásban reklám csak műsorszámok – összetett, több részből álló műsorszámokban az egyes műsorszámok – között, illetve műsorszámok előtt vagy után tehető közzé. A sport- és más olyan közvetítésekben, amelyekben természetes szünetek vannak, a reklám a részek között és a szünetekben is közzétehető.
+
+(4) A közszolgálati és a közösségi médiaszolgáltatásban közzétett hír- és politikai tájékoztató műsorszámokban rendszeresen szereplő bemondók, riporterek, hírolvasók nem jelenhetnek meg vagy szerepelhetnek bármely médiaszolgáltatásban közzétett reklámban – ide nem értve a közszolgálati médiaszolgáltatás önreklámját –, illetve politikai reklámban.
+
+(5) Közszolgálati és közösségi médiaszolgáltatásban osztott képernyős reklám és virtuális reklám csak sportműsorszámok közvetítéséhez kapcsolódóan tehető közzé.
+
+(6) A közszolgálati médiaszolgáltató köteles a legnagyobb éves átlagos közönségaránnyal rendelkező médiaszolgáltatásának teljes műsorideje tekintetében kétóránként – egész órától egész óráig tartó időszakon belül – két perc műsoridőt közérdekű közlemények közzétételének céljára fenntartani. E rendelkezés nem vonatkozik azon egész órától egész óráig tartó időszakra, amikor kétórásnál hosszabb, jellegénél fogva nem megszakítható műsorszám kerül közzétételre. Közérdekű közlemény közlésére irányuló igény hiányában ez az időtartam más műsorszámokkal is kitölthető. A 32. § (6) bekezdés szerinti közérdekű közleményt – amennyiben ez a katasztrófavédelmi szerv döntése alapján indokolt, és e döntést a médiaszolgáltatóval kellő időben közölték – a közszolgálati médiaszolgáltató köteles műsorának megszakításával közzétenni. Az e bekezdésben foglalt kötelezettség a közösségi médiaszolgáltatás médiaszolgáltatóját is terheli.
+
+### Közzétételi kötelezettség
+
+37. § (1) A médiaszolgáltatónak folyamatosan hozzáférhetővé kell tennie a nyilvánosság számára
+
+- a) nevét vagy cégnevét,
+- b) címét vagy székhelyét, illetve postai levelezési címét,
+- c) elektronikus levelezési címét,
+- d) telefonos elérhetőségét,
+- e) a vele szemben médiaigazgatásra vonatkozó szabály megsértése miatti eljárásra hatáskörrel rendelkező szabályozó vagy felügyeleti szervek nevét és elérhetőségét,
+- f) a vele szembeni eljárásra általuk felhatalmazott szakmai önszabályozó testületek nevét és elérhetőségét.
+
+(2) A médiaszolgáltató az (1) bekezdésben meghatározott adatokat valamennyi, a médiaszolgáltatáshoz kötődő internetes honlapján és teletext oldalán köteles közzétenni, amennyiben rendelkezik ezek valamelyikével. Lekérhető médiaszolgáltatás esetében a szolgáltatás elérési helyén is közzé kell tenni ezen adatokat. A médiaszolgáltató köteles továbbá biztosítani, hogy az érdeklődők az a)–c) és e)–f) pontban meghatározott adatokról telefonon is tájékoztatást kaphassanak.
+
+### A jelentős befolyásoló erővel rendelkező médiaszolgáltatók közérdekű kötelezettségei
+
+38. § (1) A jelentős befolyásoló erővel rendelkező (a továbbiakban: JBE) lineáris audiovizuális médiaszolgáltató valamennyi munkanapon reggel 07 óra és 08 óra 30 perc között legalább tizenöt perc hosszúságú hírműsorszámot vagy általános tájékoztató műsorszámot, továbbá valamennyi napon 18 óra és 21 óra között legalább húsz perc hosszúságú önálló hírműsorszámot, a JBE lineáris rádiós médiaszolgáltató pedig valamennyi munkanapon reggel 06 óra 30 perc és 08 óra 30 perc között legalább tizenöt perc önálló hírműsorszámot köteles egybefüggően szolgáltatni. A más médiaszolgáltatótól átvett, illetve a demokratikus közvélemény tájékoztatását nem szolgáló, bűnügyi tematikájú híranyag vagy tudósítás a hírműsorszám időtartamának húsz százalékánál éves átlagban nem lehet hosszabb terjedelmű.
+
+(2) A JBE lineáris médiaszolgáltató az (1) bekezdésben és a 32. § (6) bekezdésben foglalt kötelezettségének köteles a legnagyobb éves átlagos közönségaránnyal bíró médiaszolgáltatásában eleget tenni.
+
+(3) A JBE lineáris médiaszolgáltató a digitális műsorterjesztéssel terjesztett valamennyi médiaszolgáltatása során köteles biztosítani, hogy a 19 óra és 23 óra között közzétett, eredetileg nem magyar nyelven készített filmalkotások és filmsorozatok legalább egynegyede eredeti nyelven, magyar felirattal is elérhető legyen, ideértve a 23 óra előtt elkezdődő, de azt követően véget érő műsorszámokat is.
+
+### Hallási fogyatékkal élők számára hozzáférhető műsorszámok
+
+39. § (1) Az audiovizuális médiaszolgáltatás médiaszolgáltatójának törekednie kell arra, hogy műsorszámait fokozatosan hozzáférhetővé tegye a hallási fogyatékkal élők számára.
+
+(2) A közszolgálati, illetve – legnagyobb éves átlagos közönségaránnyal rendelkező médiaszolgáltatása vonatkozásában – a JBE lineáris audiovizuális médiaszolgáltató köteles biztosítani, hogy valamennyi
+
+- a) közérdekű közlemény, hírműsorszám és politikai tájékoztató műsorszám,
+- b) filmalkotás, valamint a hallási fogyatékkal élő személyek számára készített műsorszám naptári naponként
+  - ba) 2011. évben legalább négy órán keresztül,
+  - bb) 2012. évben legalább hat órán keresztül,
+  - bc) 2013. évben legalább nyolc órán keresztül,
+  - bd) 2014. évben legalább tíz órán keresztül,
+  - be) 2015. évtől teljes egészében magyar nyelvű felirattal – például teletext szolgáltatáson keresztül – vagy jelnyelvi tolmácsolással is elérhető legyen.
+- c) A feliratozással, illetve jelnyelvi tolmácsolással megkezdett műsorszámot – a műsorszám egységét nem sértve – a médiaszolgáltató köteles annak teljes időtartama alatt feliratozni, illetve jelnyelvi tolmácsolással ellátni.
+
+### A kiegészítő médiaszolgáltatásokra vonatkozó szabályok
+
+40. § A kiegészítő médiaszolgáltatásokra az Smtv. 14–18. §-át, 19. § (2) bekezdését, valamint 20. §-át megfelelően alkalmazni kell.
+
+### II. Fejezet — JOGOSULTSÁG A MÉDIASZOLGÁLTATÁSRA ÉS A SAJTÓTERMÉKEK KIADÁSÁRA
+
+### Általános rendelkezések
+
+41. § (1) Az e törvény hatálya alá tartozó, a Magyar Köztársaságban letelepedett médiaszolgáltató által nyújtott lineáris médiaszolgáltatás bejelentés és a Nemzeti Média- és Hírközlési Hatóság Hivatala (a továbbiakban: Hivatal) általi hatósági nyilvántartásba vétel után végezhető, kivéve azon állami tulajdonban lévő korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatásokat, amelyek a Médiatanács által kiírt és lebonyolított pályázaton való nyertessé nyilvánítás és szerződéskötés alapján végezhetők.
+
+(2) Az e törvény hatálya alá tartozó, a Magyar Köztársaság területén letelepedett médiaszolgáltató által nyújtott lekérhető médiaszolgáltatást, kiegészítő médiaszolgáltatást és a Magyar Köztársaság területén letelepedett kiadó által kiadott sajtóterméket be kell jelenteni a Hivatalhoz.
+
+(3) A nyilvántartásba vételt kezdeményező bejelentő – e törvény keretei között – bármely természetes személy, jogi személy és jogi személyiséggel nem rendelkező szervezet lehet.
+
+(4) A Hivatal nyilvántartást vezet
+
+- a) a lineáris audiovizuális médiaszolgáltatásokról,
+- b) a lineáris rádiós médiaszolgáltatásokról,
+- c) a médiaszolgáltatási jogosultságot pályázat útján elnyert audiovizuális médiaszolgáltatásokról,
+- d) a médiaszolgáltatási jogosultságot pályázat útján elnyert rádiós médiaszolgáltatásokról,
+- e) a lekérhető audiovizuális médiaszolgáltatásokról,
+- f) a lekérhető rádiós médiaszolgáltatásokról,
+- g) a kiegészítő médiaszolgáltatásokról,
+- h) a nyomtatott sajtótermékekről,
+- i) az internetes sajtótermékekről és hírportálokról.
+
+(5) Ha a médiaszolgáltató lineáris és lekérhető szolgáltatást is nyújt, illetve ha a sajtóterméket kiadó nyomtatott és internetes sajtóterméket is megjelentet, köteles médiaszolgáltatásait, illetve sajtótermékeit külön-külön bejelenteni.
+
+(6) A (4) bekezdés szerinti nyilvántartásoknak a médiaszolgáltatók, a sajtóterméket alapítók és kiadók nevére, elérhetőségére, valamint a médiaszolgáltatások és a sajtótermékek elnevezésére vonatkozó adatai nyilvánosak, és a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) internetes honlapjáról elérhetők. A Hatóság a médiaszolgáltatási, sajtótermék-kiadási tevékenység ellenőrzése céljából a természetes személy médiaszolgáltató, sajtóterméket alapító és kiadó természetes személyazonosító adatait kezeli a nyilvántartásból való törlésig.
+
+(7) A lineáris médiaszolgáltatási jogosultság nem ruházható át.
+
+### Lineáris médiaszolgáltatási jogosultság bejelentés alapján
+
+42. § (1) A lineáris médiaszolgáltatás nyilvántartásba vételét annak jövőbeni médiaszolgáltatója kezdeményezheti. Az a bejelentő, aki lineáris médiaszolgáltatását nem állami tulajdonban lévő analóg korlátos erőforrás igénybevételével kívánja végezni, médiaszolgáltatási tevékenységének megkezdése előtt legalább negyvenöt nappal köteles a Hivatalnak bejelenteni:
+
+- a) adatait:
+  - aa) nevét,
+  - ab) lakcímét (székhelyét), a médiaszolgáltatással közvetlenül érintett telephely (telephelyek) megjelölését,
+  - ac) elérhetőségét (telefonszámát és elektronikus levelezési címét),
+  - ad) vezető tisztségviselőjének, képviselőjének, illetve a Hatósággal való kapcsolattartásra kijelölt személynek a nevét és elérhetőségét (telefonszámát, postai és elektronikus levelezési címét),
+  - ae) cégjegyzékszámát, illetve nyilvántartási számát,
+- b) a bejelentő hatályos létesítő okiratát, továbbá közjegyző által hitelesített aláírási címpéldányt, vagy ügyvéd által ellenjegyzett aláírásmintát, amennyiben a bejelentő nem természetes személy,
+- c) a tervezett médiaszolgáltatás alapvető adatait:
+  - ca) fajtáját (rádiós vagy audiovizuális),
+  - cb) típusát (általános tematikájú vagy tematikus),
+  - cc) jellegét (kereskedelmi, közösségi),
+  - cd) állandó megnevezését,
+  - ce) a terjesztését előreláthatóan végző elektronikus hírközlési szolgáltató nevét, lakcímét (székhelyét), elérhetőségét (telefonszámát és elektronikus levelezési címét),
+  - cf) az előfizetők tervezett számát,
+  - cg) a terjesztéshez használni tervezett elektronikus hírközlő hálózat típusát,
+  - ch) a terjesztéssel érintett települések nevét,
+  - ci) a médiaszolgáltatás műsoridejét, a műsoridő beosztását és a tervezett műsorszerkezetet,
+  - cj) a közszolgálati műsorszámok, illetve a helyi közélettel foglalkozó, a helyi mindennapi életet segítő műsorszámok közlésére szánt napi, heti, havi minimális műsoridőt,
+  - ck) a napi rendszeres híradásra szánt minimális műsoridőt,
+  - cl) a nemzeti és etnikai vagy más kisebbségek igényeinek szolgálatára tervezett napi minimális műsoridőt,
+  - cm) a tervezett kiegészítő médiaszolgáltatást,
+  - cn) a médiaszolgáltatás szignálját, illetve audiovizuális médiaszolgáltatás esetén emblémáját,
+  - co) vételkörzet-bővítés, illetve hálózatba kapcsolódás esetén ennek tényét.
+- d) műholdas médiaszolgáltatás esetén a bejelentő által használni tervezett műholdkapacitás szolgáltatójának a csatorna bérbeadására vonatkozó, annak frekvenciáját, műszaki feltételeit és díját is rögzítő szándéknyilatkozatát,
+- e) az arra vonatkozó adatokat, hogy a bejelentőnek, illetve a bejelentő vállalkozásban befolyásoló részesedéssel rendelkezőnek milyen nagyságú közvetlen vagy közvetett tulajdoni részesedése van bármely, a Magyar Köztársaság területén médiaszolgáltatást végző, vagy médiaszolgáltatási jogosultságot igénylő vállalkozásban,
+- f) a médiaszolgáltatás megkezdésének tervezett időpontját.
+
+(2) A bejelentőnek nyilatkoznia kell, hogy nyilvántartásba vétel esetén vele kapcsolatban a törvény szerinti kizáró ok nem keletkezik.
+
+(3) Lineáris médiaszolgáltatás csak a nyilvántartásba vételt követően kezdhető meg. A lineáris médiaszolgáltatás nyilvántartásba vételéről a Hivatal negyvenöt napon belül hatósági határozatot hoz, amelyben meghatározza a médiaszolgáltató által az egyes lineáris médiaszolgáltatások után fizetendő médiaszolgáltatási díj mértékét.
+
+(4) Ha a bejelentést követően a nyilvántartásba vételről a Hivatal negyvenöt napon belül nem döntött, a bejelentést nyilvántartásba vettnek kell tekinteni azzal, hogy a nyilvántartásba kerülés tényét és a médiaszolgáltatási díj mértékét ezt követően tizenöt napon belül a jogosulttal határozatban közölni kell.
+
+(5) A Hivatalnak a nyilvántartásba vételre irányuló eljárás során vizsgálnia kell azt, hogy a bejelentett médiaszolgáltatással kapcsolatban megállapítható-e e törvény alapján a Magyar Köztársaság joghatósága.
+
+(6) A Hivatal megtagadja a lineáris médiaszolgáltatás nyilvántartásba vételét, ha
+
+- a) a bejelentővel szemben a 43. §-ban meghatározott összeférhetetlenségi ok áll fenn,
+- b) a bejelentőnek vagy bármely tulajdonosának korábbi médiaszolgáltatási tevékenységből származó lejárt díjtartozása van,
+- c) sértené a médiapiaci koncentráció megelőzésére vonatkozó, a 68. §-ban meghatározott szabályokat,
+- d) a bejelentés a hiánypótlásra való felszólítás után sem tartalmazza az (1) bekezdés alapján szükséges adatszolgáltatást,
+- e) a bejelentett médiaszolgáltatás elnevezése egy korábban nyilvántartásba vett és a bejelentés időpontjában a nyilvántartásban szereplő lineáris médiaszolgáltatás elnevezésével azonos, illetve ahhoz az összetéveszthetőségig hasonlít, vagy
+- f) a bejelentő nem fizette meg az igazgatási szolgáltatási díjat.
+
+(7) A Hivatal törli a nyilvántartásból a lineáris médiaszolgáltatást, ha
+
+- a) a nyilvántartásba vétel megtagadásának volna helye,
+- b) a médiaszolgáltató kérte a nyilvántartásból való törlését,
+- c) a médiaszolgáltató díjtartozását a Hivatal írásbeli felszólítását követően harminc napon belül nem teljesítette,
+- d) a jogosult a médiaszolgáltatást a nyilvántartásba vételtől számított hat hónapon belül nem kezdi meg, vagy a megkezdett szolgáltatást hat hónapnál hosszabb időre megszakítja, kivéve, ha a médiaszolgáltató mulasztását megfelelően kimenti,
+- e) bíróság jogerős határozata elrendelte a médiaszolgáltatás elnevezése által elkövetett védjegybitorlás abbahagyását és a bitorló eltiltását a további jogsértéstől, vagy
+- f) a médiaszolgáltató ismételt súlyos jogsértése miatt a 185–187. §-ban foglaltak figyelembevételével a Médiatanács e jogkövetkezmény alkalmazását rendelte el.
+
+(8) Az (1)–(7) bekezdés rendelkezéseit kell alkalmazni az olyan műhold igénybevételével történő lineáris médiaszolgáltatásra is, amely nem a Kormány rendelkezési joga alá tartozó műhold igénybevételével történik.
+
+(9) A lineáris médiaszolgáltatás médiaszolgáltatójának a változást követő tizenöt napon belül be kell jelentenie a Hivatalhoz, ha a nyilvántartásban szereplő adataiban változás következett be.
+
+(10) Az adatváltozás késedelmes teljesítése, vagy elmulasztása miatt a Hivatal a 187. § (3) ba) vagy bb) pont szerinti bírsággal sújthatja a médiaszolgáltatót.
+
+(11) A médiaszolgáltatók hálózatba kapcsolódásának, illetve vételkörzet-bővítésének feltétele a Médiatanács e törvény 64. §-ban foglaltak megfelelő alkalmazásával meghozott hatósági határozatában foglalt engedélye.
+
+### A lineáris médiaszolgáltatóra vonatkozó összeférhetetlenségi szabályok
+
+43. § (1) A lineáris médiaszolgáltatásra jogosult személyre a Hatóság elnökére, elnökhelyettesére, főigazgatójára és főigazgató-helyettesére vonatkozó, a 118. § (1) bekezdés a)–c) pontban foglalt szabályokat megfelelően alkalmazni kell.
+
+(2) Nem lehet továbbá lineáris médiaszolgáltatásra jogosult személy:
+
+- a) a bíró, az ügyész,
+- b) a közigazgatási szerv, a Magyar Nemzeti Bank, a Gazdasági Versenyhivatal, a Magyar Nemzeti Vagyonkezelő Zrt. és az Állami Számvevőszék vezető beosztású tisztségviselője, a számvevő, a Gazdasági Versenytanács tagja,
+- c) a Hatóság Elnöke, elnökhelyettese, főigazgatója, főigazgató-helyettese, a Hatósággal munkavégzésre irányuló jogviszonyban álló személy,
+- d) a 118. § (1) bekezdés a)–b) pont, illetve e bekezdés b)–c) pont alá eső személyek közeli hozzátartozója.
+
+(3) Nem lehet lineáris médiaszolgáltatásra jogosult szervezet:
+
+- a) párt, a párt által létrehozott vállalkozás,
+- b) állami és közigazgatási szerv, kivéve, ha rendkívüli vagy szükségállapot esetén alkalmazandó törvény másként rendelkezik,
+- c) olyan vállalkozás, amelyben a magyar államnak befolyásoló részesedése van,
+- d) olyan vállalkozás, amelyben az (1)–(2) bekezdésben felsoroltak bármelyike közvetlen vagy közvetett tulajdoni részesedéssel rendelkezik, illetve döntésének befolyásolására külön megállapodás alapján vagy egyéb módon jogot szerzett, vagy az egyébként tulajdonszerzési korlátozás alá eső személy, szervezet.
+
+(4) Nem lehet jogosult az önkormányzat területét legalább húsz százalékban lefedő vételkörzetű helyi lineáris médiaszolgáltatásra az a vállalkozás, amelynek igazgatóságában, ügyvezetésében vagy felügyelő bizottságában, és azon alapítvány vagy közalapítvány, amelynek kuratóriumában a helyi képviselőtestület tagja, alkalmazottja, a polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes vagy ezek közeli hozzátartozója vesz részt.
+
+### Médiaszolgáltatási díj
+
+44. § (1) A nyilvántartásba vétel útján lineáris médiaszolgáltatásra jogosult a Hivatal által meghatározott mértékű médiaszolgáltatási díjat fizet.
+
+(2) A médiaszolgáltató ellenszolgáltatásként negyedévenként előre köteles médiaszolgáltatási díjat fizetni. Hálózatba kapcsolódás esetén a hálózatba kapcsolódó médiaszolgáltató médiaszolgáltatási díjának a hálózatos műsoridővel arányos részét a hálózatos médiaszolgáltató fizeti.
+
+(3) A díjfizetés késedelme esetén a Médiatanács a szerződést harminc napos határidővel felmondhatja.
+
+(4) A díjfizetés késedelme a törvény súlyos megsértésének minősül.
+
+(5) A hatósági vagy műsorszolgáltatási szerződés alapján végezhető médiaszolgáltatás esetében a médiaszolgáltatási díj az adott médiaszolgáltatási jogosultságra vonatkozó médiaszolgáltatási alapdíj és a pályázati eljárásban a nyertes pályázó által vállalt díjrészlet összege. A médiaszolgáltatási alapdíjat a Médiatanács a pályázati felhívásban állapítja meg.
+
+(6) A médiaszolgáltatási alapdíjnak az adott médiaszolgáltatás vételkörzetének nagyságával arányosnak kell lennie, ugyanakkor tekintetbe kell vennie az adott terület lakossági vásárlóerejének mutatóját és a médiaszolgáltatók vételkörzet, médiaszolgáltatás fajta, terjesztési mód vagy más jelentős szempont alapján elkülöníthető csoportjai által elért piaci részesedését is.
+
+(7) A nyilvántartásba vétel alapján végezhető lineáris médiaszolgáltatások esetében fizetendő médiaszolgáltatási díjnak az adott médiaszolgáltatás vételkörzetének nagyságával arányosnak kell lennie, ugyanakkor tekintetbe kell vennie az adott terület lakossági vásárlóerejének mutatóját és a médiaszolgáltatók vételkörzet, médiaszolgáltatás fajta, terjesztési mód vagy más jelentős szempont alapján elkülöníthető csoportjai által elért piaci részesedését is.
+
+(8) Az előfizetői díj fizetése nélkül hozzáférhető földfelszíni digitális műsorszóró rendszer vagy műholdas rendszer útján végzett lineáris médiaszolgáltatások esetében a médiaszolgáltatási díj meghatározásánál az adott médiaszolgáltatás vételkörzetére vonatkozó adatok mellett figyelembe kell venni az adott médiaszolgáltatás vételére alkalmas eszközök elterjedtségét.
+
+(9) A közösségi médiaszolgáltatás után médiaszolgáltatási díjat nem kell fizetni.
+
+(10) Vételkörzet-bővítés esetén az egyes vételkörzetek tekintetében megállapított médiaszolgáltatási díjak összeadódnak.
+
+### A lekérhető médiaszolgáltatások bejelentése
+
+45. § (1) A lekérhető médiaszolgáltatás nyilvántartásba vételét annak jövőbeni médiaszolgáltatója kezdeményezheti. A lekérhető médiaszolgáltatás Hivatalhoz történő bejelentésében meg kell jelölni:
+
+- a) a bejelentő adatait:
+  - aa) nevét,
+  - ab) lakcímét (székhelyét vagy telephelyét), a médiaszolgáltatással közvetlenül érintett telephely (telephelyek) megjelölését,
+  - ac) elérhetőségét (telefonszámát és elektronikus levelezési címét),
+  - ad) a médiaszolgáltató vezető tisztségviselőjének, képviselőjének, illetve a Hatósággal való kapcsolattartásra kijelölt személynek a nevét és elérhetőségét (telefonszámát, postai és elektronikus levelezési címét),
+  - ae) cégjegyzékszámát, illetve nyilvántartási számát,
+- b) a tervezett médiaszolgáltatás következő alapvető adatait:
+  - ba) fajtáját (rádiós vagy audiovizuális),
+  - bb) megnevezését,
+  - bc) típusát (általános tematikájú vagy tematikus),
+- c) a médiaszolgáltatás megkezdésének tervezett időpontját.
+
+(2) A lekérhető médiaszolgáltatás médiaszolgáltatója nem lehet a Nemzeti Média- és Hírközlési Hatóság Elnöke, elnökhelyettese, főigazgatója, főigazgató-helyettese, a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, a Nemzeti Hírközlési és Informatikai Tanács elnöke, alelnöke vagy tagja, közszolgálati médiaszolgáltató vezérigazgatója, felügyelő bizottságának elnöke, tagja, a Médiatanács tagja, valamint bármelyik szervezettel munkavégzésre irányuló jogviszonyban álló személy. A bejelentőnek nyilatkoznia kell, hogy vele kapcsolatban nem áll fenn a törvény szerinti összeférhetetlenségi ok, illetve az a médiaszolgáltatás nyilvántartásba vétele esetén sem keletkezne.
+
+(3) A lekérhető médiaszolgáltatás nyilvántartásba vételéről a Hivatal harminc napon belül hatósági határozatot hoz. Ha a bejelentést követően a nyilvántartásba vételről a Hivatal harminc napon belül nem döntött, a bejelentést nyilvántartásba vettnek kell tekinteni.
+
+(4) A nyilvántartásba vételt kizárólag akkor lehet megtagadni, ha
+
+- a) a bejelentővel szemben összeférhetetlenségi ok áll fenn,
+- b) a bejelentés a hiánypótlásra való felszólítás ellenére sem egészült ki az (1) bekezdés alapján szükséges adatszolgáltatással,
+- c) a bejelentett médiaszolgáltatás elnevezése egy korábban nyilvántartásba vett, és a bejelentés időpontjában a nyilvántartásban szereplő lekérhető médiaszolgáltatás elnevezésével azonos, illetve ahhoz az összetéveszthetőségig hasonlít, vagy
+- d) a bejelentő nem fizette meg az igazgatási szolgáltatási díjat.
+
+(5) A lekérhető médiaszolgáltatást törölni kell a nyilvántartásból, ha
+
+- a) a nyilvántartásba vétel megtagadásának lenne helye,
+- b) a médiaszolgáltató kérte a nyilvántartásból való törlését,
+- c) a médiaszolgáltatás megkezdését a nyilvántartásba vételtől számított egy éven át elmulasztják, vagy a megkezdett szolgáltatást egy évnél hosszabb időre megszakítják, vagy
+- d) bíróság jogerős határozata elrendelte a médiaszolgáltatás elnevezése által elkövetett védjegybitorlás abbahagyását és a bitorló eltiltását a további jogsértéstől.
+
+(6) A lekérhető médiaszolgáltatás médiaszolgáltatójának tizenöt napon belül be kell jelentenie a Hivatalhoz, ha a nyilvántartásban szereplő adataiban változás következett be.
+
+(7) Amennyiben a médiaszolgáltató személyében vagy a médiaszolgáltatás (1) bekezdés d) pontban szereplő adataiban változás következik be, az eredeti bejelentést tevő médiaszolgáltatónak kezdeményeznie kell a nyilvántartásban szereplő adatok módosítását. Az erre irányuló eljárásra az (1)–(4) bekezdést megfelelően alkalmazni kell.
+
+### A sajtótermékek bejelentése
+
+46. § (1) A sajtótermék nyilvántartásba vételét annak jövőbeni kiadója kezdeményezheti. Ha a sajtótermék alapítója és kiadója eltérő személy vagy vállalkozás, viszonyukat, a sajtótermékkel kapcsolatos feladataikat és jogaikat megállapodásban rendezik.
+
+(2) A sajtótermék nyilvántartásba vételére irányuló bejelentésben meg kell jelölni:
+
+- a) a bejelentő adatait:
+  - aa) nevét,
+  - ab) lakcímét (székhelyét vagy telephelyét),
+  - ac) elérhetőségét (telefonszámát és elektronikus levelezési címét),
+  - ad) képviselőjének, illetve a Hatósággal való kapcsolattartásra kijelölt személy nevét és elérhetőségét (telefonszámát, postai és elektronikus levelezési címét),
+  - ae) cégjegyzékszámát, illetve nyilvántartási számát,
+- b) a bejelentett sajtótermék címét és a nemzeti könyvtár által kiadott nemzetközi azonosítószámát, vagy az arról szóló igazolását, hogy azonosító számot nem kell kapnia,
+- c) ha az alapító és a kiadó eltérő személy vagy vállalkozás, mindkettő a) pontban megjelölt adatait.
+
+(3) A sajtótermék alapítója és kiadója nem lehet a Nemzeti Média- és Hírközlési Hatóság Elnöke, elnökhelyettese, főigazgatója, főigazgató-helyettese, a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, a Nemzeti Hírközlési és Informatikai Tanács elnöke, alelnöke vagy tagja, a Médiatanács tagja, ide nem értve a tudományos eredmények, vagy tudományos ismeretterjesztés közzétételére irányuló sajtótermék alapítását vagy kiadását. A bejelentőnek nyilatkoznia kell, hogy vele kapcsolatban nem áll fenn a törvény szerinti összeférhetetlenségi ok, illetve az nyilvántartásba vétele esetén sem keletkezne.
+
+(4) A sajtótermék nyilvántartásba vételéről a Hivatal tizenöt napon belül hatósági határozatot hoz. Ha a bejelentést követően a nyilvántartásba vételről a Hivatal tizenöt napon belül nem döntött, a sajtóterméket nyilvántartásba vettnek kell tekinteni.
+
+(5) A nyilvántartásba vételt kizárólag akkor lehet megtagadni, ha
+
+- a) a bejelentővel szemben összeférhetetlenségi ok áll fenn,
+- b) a bejelentés a hiánypótlásra való felszólítás után sem tartalmazza az (1) bekezdés alapján szükséges adatszolgáltatást,
+- c) a bejelentett sajtótermék címe egy korábban nyilvántartásba vett, és a bejelentés időpontjában a nyilvántartásban szereplő sajtótermék címével azonos, illetve ahhoz az összetéveszthetőségig hasonlít,
+- d) a bejelentő nem fizette meg az igazgatási szolgáltatási díjat.
+
+(6) A sajtóterméket törölni kell a nyilvántartásból, ha
+
+- a) a nyilvántartásba vétel megtagadásának lenne helye,
+- b) az alapító vagy – amennyiben az alapító és a kiadó eltérő vállalkozás, úgy az alapító jóváhagyásával – a kiadó kérte a nyilvántartásból való törlését,
+- c) a sajtótermék kiadásának megkezdését a nyilvántartásba vételtől számított két éven át elmulasztják, vagy a megkezdett kiadást öt évnél hosszabb időre megszakítják, vagy
+- d) bíróság jogerős határozata elrendelte a sajtótermék címe által elkövetett védjegybitorlás abbahagyását és a bitorló eltiltását a további jogsértéstől.
+
+(7) A sajtótermék kiadójának és alapítójának tizenöt napon belül be kell jelentenie a Hivatalhoz, ha a nyilvántartásban szereplő adataiban változás következett be.
+
+(8) Amennyiben a kiadó személyében változás következik be, a nyilvántartásban szereplő kiadónak kezdeményeznie kell a nyilvántartásban szereplő adatok módosítását. Ennek elmaradása esetén az alapító is kezdeményezheti a módosítást. Az erre irányuló eljárásra az (1)–(5) bekezdést megfelelően alkalmazni kell.
+
+(9) A sajtóterméken és – ha jogszabály eltérően nem rendelkezik – az egyéb kiadványon fel kell tüntetni a szerkesztésre és a kiadásra vonatkozó legfontosabb adatokat (impresszum). Az impresszumban a következő adatokat kell feltüntetni:
+
+- a) a kiadó nevét, székhelyét és a kiadásért felelős személy nevét,
+- b) a sokszorosító szerv megnevezését, továbbá a sokszorosításért felelős személy nevét,
+- c) a sokszorosítás helyét, idejét és a megrendelés sorszámát,
+- d) a szerkesztésért felelős személy nevét.
+
+(10) A nyomtatott sajtótermékek nemzetközi azonosítóját (ISSN), az egyéb nemzetközi jelzéseket és a kiadvány árát a külön jogszabályban foglaltak szerint kell megállapítani és feltüntetni.
+
+(11) Jogszabály rövidített impresszum feltüntetését is előírhatja, kivételes adatok feltüntetésének kötelezettségét, vagy más különös szabályokat határozhat meg.
+
+(12) A nyomtatott sajtótermékből és egyéb kiadványból tudományos és igazgatási célokra ingyenes kötelespéldányt kell a külön jogszabályban megjelölt szervek rendelkezésére bocsátani. A kötelespéldány az arra jogosult szerv tulajdonában marad. A kötelespéldányok rendelkezésre bocsátásának részletes szabályait kormányrendelet határozza meg.
+
+(13) A nyomtatott sajtótermékekből és a kiadványokból a kulturális javak megőrzése, a nemzeti bibliográfiai számbavétel és a nyilvános könyvtári ellátás céljára, ingyenes kötelespéldányt kell a kormányrendeletben megjelölt szervek rendelkezésére bocsátani. A kötelespéldány az arra jogosult szerv tulajdonában marad.
+
+(14) A megőrzési célú kötelespéldányt a közgyűjtemény nyilvántartásából csak akkor lehet törölni, ha megsemmisült vagy javíthatatlanul megrongálódott.
+
+### A kiegészítő médiaszolgáltatások bejelentése
+
+47. § A kiegészítő médiaszolgáltatások nyilvántartásba vételére a lekérhető médiaszolgáltatások nyilvántartásba vételére vonatkozó szabályokat kell alkalmazni.
+
+### III. Fejezet — JOGOSULTSÁG LINEÁRIS MÉDIASZOLGÁLTATÁSRA PÁLYÁZAT ÚTJÁN
+
+### Általános szabályok
+
+48. § (1) Állami tulajdonban lévő, korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatás – amennyiben e törvény eltérően nem rendelkezik – a Médiatanács által kiírt és lebonyolított pályázaton történt nyertessé nyilvánítás és szerződéskötés alapján végezhető.
+
+(2) Állami tulajdonban lévő, korlátos erőforrásokat igénybe vevő lineáris médiaszolgáltatási jogosultság pályázat útján történő elnyerésével kapcsolatos eljárásokra (a továbbiakban pályázati eljárás) a közigazgatási hatósági eljárásról szóló törvény (a továbbiakban: Ket.) szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
+
+(3) A pályázati eljárás lebonyolításával kapcsolatos feladatokat – az e törvényben meghatározott kivételekkel – a Médiatanács látja el.
+
+(4) A Médiatanács meghatározott időszakra, de legfeljebb három évre közfeladat ellátása érdekében pályázati eljárás nélkül is feljogosíthat valamely vállalkozást médiaszolgáltatás végzésére. E médiaszolgáltatási jogosultságra a Médiatanács hatósági határozatában a jogosultság iránti kérelmet elsőként benyújtó médiaszolgáltatót jogosítja fel, amennyiben a médiaszolgáltató a közfeladat ellátásához szükséges feltételeknek megfelel. E bekezdés alkalmazásában közfeladatnak az alábbiak minősülnek:
+
+- a) az Alkotmánynak megfelelően kihirdetett szükségállapot, az ország jelentős területét érintő elemi csapás, vagy ipari szerencsétlenség esetén történő és azzal kapcsolatos médiaszolgáltatás, vagy
+- b) a valamely közösség speciális oktatási, kulturális, tájékoztatási, vagy az adott közösséget érintő meghatározott eseményhez kapcsolódó igényeinek szolgálata.
+
+(5) Az állami tulajdonban lévő, korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatási jogosultság rádió esetén legfeljebb hét évig, audiovizuális médiaszolgáltatás esetén legfeljebb tíz évig érvényes, és lejártakor a médiaszolgáltató kérelmére pályázat nélkül egy ízben legfeljebb öt évre megújítható azzal, hogy a műsorterjesztés és a digitális átállás szabályairól szóló 2007. évi LXXIV. törvény (a továbbiakban: Dtv.) 38. § (1) bekezdésben megjelölt időpontban az audiovizuális médiaszolgáltatási szerződések lejárnak. A megújításra vonatkozó igényt a lejárat előtt tizennégy hónappal a Médiatanácshoz be kell jelenteni. E határidő elmulasztása esetén a megújításnak nincs helye.
+
+(6) A Médiatanács az (5) bekezdés szerinti bejelentés hiányában, vagy ha nincs helye a megújításnak, tíz hónappal a jogosultság lejárta előtt köteles a nyilvános pályázati felhívást közzétenni.
+
+(7) Nem lehet megújítani a jogosultságot, ha a jogosult
+
+- a) a szerződést vagy az e törvényben foglalt rendelkezéseket ismételten vagy súlyosan megszegte, vagy
+- b) a kérelem benyújtásakor, illetve annak elbírálásakor médiaszolgáltatatási díjtartozással rendelkezik.
+
+(8) A Médiatanács a III. Fejezet rendelkezéseinek megfelelő alkalmazására és e médiaszolgáltatási lehetőségek természetéből fakadó egyedi sajátosságokra tekintettel meghatározza a kisközösségi médiaszolgáltatási lehetőségek pályáztatásának elveit, és azokat a honlapján közzéteszi.
+
+(9) A Médiatanács felkérésére a Hivatal összeállítja a médiaszolgáltatási lehetőségek jegyzékét.
+
+### A médiaszolgáltatási pályázati eljárások előkészítése
+
+49. § (1) A médiaszolgáltatási pályázati eljárások előkészítése érdekében a Médiatanács frekvenciatervek kidolgozására kéri fel a Hivatalt.
+
+(2) Az (1) bekezdés szerinti felkérésben a Médiatanács meghatározza a műsorszórási célú frekvenciatervezéshez szükséges elvi szempontokat, így különösen:
+
+- a) a frekvenciahasználat célját,
+- b) a frekvenciatervezésben alkalmazandó preferenciákat,
+- c) a frekvenciatervezés ütemezését.
+
+(3) A kidolgozott frekvenciatervnek tartalmaznia kell:
+
+- a) a műsorszóró adók névleges telephelyeit, valamint a telepítés egyéb műszaki követelményeit,
+- b) az adókkal várhatóan besugározható ellátottsági körzetet,
+- c) a Nemzetközi Rádiószabályzat jelölései szerinti frekvenciasávot.
+
+(4) A Médiatanács a frekvenciatervet módosításra visszaadhatja.
+
+(5) A Hivatal a frekvenciatervet a Médiatanács jóváhagyása előtt legalább tizenöt napra közzéteszi. A közzétételről és annak helyéről a kezdőnapja előtt legalább egy héttel a Hivatal közleményt tesz közzé hirdetményi úton és a Médiatanács honlapján. A frekvenciatervek közzététele alatt és a lezárását követő további öt napon belül a frekvenciatervekre bárki írásban – a Médiatanácshoz címzett – észrevételt tehet.
+
+(6) A Médiatanács a közzététel utolsó napjától számított negyvenöt napon belül dönt a frekvenciaterv jóváhagyásáról és a pályázati felhívás tervezetének előkészítéséről.
+
+(7) A frekvenciatervek és a tervezés elvi szempontjai nyilvánosak, azok a Hivatalnál megtekinthetők.
+
+(8) Médiaszolgáltatási lehetőség megtervezése érdekében a Hatóság költségtérítés ellenében az ügyfél kérelmére is szolgáltathat adatot, amennyiben a Médiatanács a kérelemben megjelölt vételkörzet tekintetében – médiapiaci és médiapolitikai szempontok figyelembevételével – a médiaszolgáltatási lehetőség tervezését előzetesen jóváhagyja. Az így megtervezett médiaszolgáltatási lehetőségre a továbbiakban a pályázati eljárás e törvény szerinti rendelkezéseit kell alkalmazni.
+
+### A pályázati felhívás tervezete
+
+50. § (1) A Médiatanács a pályázati felhívás előkészítése céljából a pályázati feltételekről pályázati felhívás-tervezetet készít. A pályázati felhívás tervezetét a Médiatanács hirdetményi úton és honlapján indokolással együtt közzéteszi.
+
+(2) A pályázati felhívás tervezetének közzétételétől számított legkevesebb húsz napon túl, legkésőbb harminc napon belül a Hivatal nyilvános meghallgatást (a továbbiakban: meghallgatás) tart.
+
+(3) A Hivatal a meghallgatás helyéről és időpontjáról legalább a meghallgatást tíz nappal megelőzően hirdetményi úton és a Médiatanács honlapján közleményt tesz közzé.
+
+(4) A pályázati felhívás tervezettel kapcsolatban a meghallgatáson szóban vagy írásban, illetve a meghallgatást követő öt napon belül írásban bárki kérdést intézhet a Hivatalhoz, vagy észrevételt tehet.
+
+(5) A meghallgatásról nyolc napon belül jegyzőkönyv készül, amely a Hivatalban megtekinthető.
+
+(6) A Médiatanács a beérkezett észrevételek és a nyilvános meghallgatáson elhangzott javaslatok lehetőség szerinti figyelembevételével a meghallgatást követő negyvenöt napon belül dönt a pályázati felhívás véglegesítéséről.
+
+### A pályázati eljárás
+
+51. § (1) A pályázati eljárás – az e törvényben meghatározott kivételekkel – hivatalból, a pályázati felhívás közzétételével indul.
+
+(2) A pályázati eljárás ügyintézési határideje nyolcvanöt nap. A határidőbe nem számít bele a Ket.-ben meghatározottakon túl a pályázati felhívás közzététele napjától a pályázati ajánlat benyújtásáig terjedő időtartam. A határidő indokolt esetben egy alkalommal, legfeljebb húsz nappal meghosszabbítható.
+
+### A pályázati felhívás
+
+52. § (1) A Médiatanács a médiaszolgáltatási lehetőségek hasznosítására pályázati felhívást ír ki.
+
+(2) A pályázati felhívásnak tartalmaznia kell:
+
+- a) a médiaszolgáltatási lehetőség 49. § (3) bekezdés szerinti adatait,
+- b) pályázati felhívás célját,
+- c) az eljárás rendjére vonatkozó alapvető szabályokat,
+- d) a pályázati díj mértékét és megfizetésének módját,
+- e) a médiaszolgáltatási díj minimális mértékét (médiaszolgáltatási alapdíj), amely alatt – a közösségi médiaszolgáltatás kivételével – a médiaszolgáltatási jogosultság nem nyerhető el,
+- f) a pályázati ajánlat benyújtásának formáját, határidejét,
+- g) a pályázati ajánlat kötelező tartalmát,
+- h) az értékelési elveket és az értékeléskor figyelembe veendő szempontokat, a pályázati ajánlatok értékelésének kategóriáit, az egyes értékelési kategóriákhoz rendelt számszerűen meghatározott értékelési keretet, továbbá az értékelés szabályait, amelyek alapján a Médiatanács dönt a pályázat nyerteséről,
+- i) a médiaszolgáltatás megkezdésének időpontját,
+- j) a médiaszolgáltatási jogosultság időtartamát,
+- k) a pályázati ajánlatra vonatkozó formai követelményeket,
+- l) a pályázati ajánlat alaki és tartalmi érvényességének feltételeit,
+- m) a Médiatanács döntése szerinti egyéb feltételeket.
+
+(3) A pályázati felhívás a (2) bekezdésben meghatározottakon túl feltételként tartalmazhatja különösen:
+
+- a) a benyújtott pályázatokra vonatkozó ajánlati kötöttséget és annak időtartamát,
+- b) a közszolgálati műsorszámok meghatározott arányát,
+- c) a helyi közélettel foglalkozó, a helyi mindennapi életet segítő műsorszámok arányát,
+- d) a nemzeti és etnikai kisebbségi, illetőleg más kisebbségi igények meghatározott mértékű szolgálatát,
+- e) a hírszolgáltatás kötelezettségét,
+- f) a hálózatba kapcsolódás, illetve a vételkörzet-bővítés céljára szolgáló pályázati feltételeket,
+- g) a kiegészítő és értéknövelő médiaszolgáltatás végzésére vonatkozó feltételeket.
+
+(4) A pályázati felhívást a Médiatanács hirdetményi úton és honlapján közzéteszi.
+
+(5) A pályázati felhívást úgy kell kiírni, hogy a közzététel napjától számítva
+
+- a) országos médiaszolgáltatásra vonatkozó pályázati ajánlat benyújtására legalább hatvan nap,
+- b) körzeti médiaszolgáltatásra vonatkozó pályázati ajánlat benyújtására legalább negyven nap,
+- c) helyi médiaszolgáltatásra vonatkozó pályázati ajánlat benyújtására legalább harminc nap
+
+álljon rendelkezésre.
+
+### A pályázati felhívás módosítása és visszavonása
+
+53. § (1) A Médiatanács jogosult a pályázati felhívást az objektív, átlátható és hátrányos megkülönböztetéstől mentes eljárási elvek mentén módosítani.
+
+(2) A pályázati felhívást a pályázati ajánlatok benyújtását megelőző legfeljebb tizenöt napig lehet módosítani.
+
+(3) A pályázati felhívás módosítását a pályázati felhívás közzétételére irányadó szabályok szerint kell nyilvánosságra hozni.
+
+(4) A pályázati felhívás módosítása esetén a Médiatanács köteles a pályázati ajánlat benyújtásának határidejét meghosszabbítani úgy, hogy az 52. § (5) bekezdés alapján meghatározott határidő a módosított pályázati felhívás közzétételétől rendelkezésre álljon.
+
+(5) A Médiatanács a pályázati felhívást a pályázati ajánlat benyújtásának határidejét megelőzően legfeljebb tizenöt nappal – médiapiaci és médiapolitikai szempontok figyelembevételével – visszavonhatja. Ezt a döntését köteles a pályázati felhívás közzétételével azonos módon közzétenni, valamint megindokolni.
+
+### A pályázati díj
+
+54. § A pályázati felhívásra ajánlatot tevő pályázati díjat fizet. A pályázati díj a meghirdetett minimális médiaszolgáltatási díj öt százaléka. A pályázati díj nyolcvan százaléka a médiaszolgáltatási díjba beszámít.
+
+### A pályázó
+
+55. § (1) A pályázati eljárásban az a vállalkozás vehet részt
+
+- a) amelynek nincs hatvan napnál régebben lejárt vám-, társadalombiztosítási járulék vagy a központi adóhatóság által nyilvántartott lejárt adótartozása, továbbá elkülönített állami pénzalappal szemben fennálló lejárt fizetési kötelezettsége, kivéve, ha a hitelező az adósság későbbi időpontban történő megfizetéséhez írásban hozzájárult,
+- b) amely nem áll csődeljárás, felszámolási, végelszámolási vagy a megszüntetésére irányuló egyéb eljárás alatt, és
+- c) amellyel szemben a korábbi – öt évnél nem régebben lezárult – pályázati eljárás alapján vállalt műsorszolgáltatási vagy hatósági szerződésen alapuló kötelezettségének súlyos megszegését jogerős közigazgatási határozat nem állapította meg, illetve amelynek a műsorszolgáltatási vagy a hatósági szerződése felmondásra nem került.
+
+(2) Az (1) bekezdés a)–c) pontban meghatározott feltételeknek a pályázóban befolyásoló részesedéssel rendelkező, illetve a pályázó befolyásoló részesedése alatt álló bármely vállalkozásnak is meg kell felelnie.
+
+(3) A pályázati eljárásban csak az vehet részt, aki a törvényben megállapított összeférhetetlenségi rendelkezéseknek megfelel.
+
+(4) Amennyiben egy pályázó olyan – a törvény hatálya alá tartozó – médiaszolgáltatási jogosultsággal rendelkezik, amely kizárja a pályázati felhívásban meghirdetett jogosultság elnyerését, pályázati ajánlatot abban az esetben nyújthat be, ha ajánlata részeként joghatályos nyilatkozatában kijelenti, hogy nyertessé nyilvánítása esetén a szerződés megkötésének időpontjától a már meglévő médiaszolgáltatási jogosultságáról, illetve ilyen igényéről lemond, vagy kötelezettséget vállal arra, hogy a korlátozó rendelkezésekbe ütköző helyzetet ugyanezzel a nappal egyéb módon megszünteti.
+
+(5) A pályázati eljárásban egyidejűleg nem vehetnek részt olyan vállalkozások, amelyek egymásban, vagy egyike a másikban befolyásoló részesedéssel rendelkezik, illetve amelyekben ugyanaz a harmadik fél rendelkezik befolyásoló részesedéssel.
+
+### A pályázati ajánlat
+
+56. § A pályázati ajánlatnak tartalmaznia kell:
+
+- a) a pályázó adatait:
+  - aa) nevét,
+  - ab) székhelyét,
+  - ac) cégjegyzékszámát, illetve nyilvántartási számát,
+  - ad) elérhetőségét (telefonszámát és elektronikus levelezési címét),
+  - ae) vezető tisztségviselőjének, képviselőjének a nevét és elérhetőségét (telefonszámát, postai és elektronikus levelezési címét), továbbá közjegyző által hitelesített aláírási címpéldányát, vagy ügyvéd által ellenjegyzett aláírásmintát,
+- b) a pályázó hatályos létesítő okiratát,
+- c) a pályázó nyilatkozatát arról, hogy neki vagy a benne tulajdoni részesedéssel rendelkező más vállalkozásnak milyen nagyságú közvetlen vagy közvetett tulajdoni részesedése van a Magyar Köztársaság területén médiaszolgáltatást végző, illetőleg magyarországi médiaszolgáltatási jogosultságot igénylő vállalkozásban,
+- d) a tervezett médiaszolgáltatás alapvető adatait:
+  - da) típusát (általános tematikájú vagy tematikus),
+  - db) vételkörzetét,
+  - dc) az igénybe venni kívánt műsorszórási lehetőséget,
+  - de) jellegét (kereskedelmi, közösségi),
+  - df) a szolgáltatás műsoridejét, műsoridő beosztását,
+  - dg) a tervezett kiegészítő és értéknövelő műsorszolgáltatást,
+  - dh) a médiaszolgáltatás állandó megnevezését és szignálját,
+  - di) vételkörzet-bővítés, illetve hálózatba kapcsolódás esetén ennek tényét,
+  - dj) a tervezett műsorszerkezetet,
+  - dk) a közszolgálati műsorszámok, illetve a helyi közélettel foglalkozó, a helyi mindennapi életet segítő műsorszámok közlésére szánt napi, heti, havi minimális műsoridőt,
+  - dl) a napi rendszeres híradásra szánt minimális műsoridőt,
+  - dm) a nemzeti és etnikai vagy más kisebbségek igényeinek szolgálatára szánt napi minimális műsoridőt,
+- e) közösségi médiaszolgáltatás kivételével a médiaszolgáltatási díj mértékére vonatkozó ajánlatot,
+- f) a médiaszolgáltató üzleti, pénzügyi tervét,
+- g) banki igazolást arra vonatkozóan, hogy a médiaszolgáltató működési költségeinek fedezete legalább a működés első három hónapjára, reklámbevétel nélkül, elkülönített pénzforgalmi számlán a médiaszolgáltató rendelkezésére áll,
+- h) a pályázó nyilatkozatát arról, hogy vele kapcsolatban nem áll fenn a törvény szerinti kizáró ok, illetve arról, hogy más, folyamatban lévő pályázati ajánlatának elfogadása esetén nem keletkezne ilyen kizáró ok,
+- i) a pályázati felhívásban megjelölt egyéb adatokat, dokumentumokat, nyilatkozatokat.
+
+### A pályázati ajánlatok vizsgálata és alaki érvényessége
+
+57. § (1) A Médiatanács megvizsgálja, hogy a pályázó megfelel-e az alaki és tartalmi érvényesség feltételeinek.
+
+(2) Alakilag érvénytelen a pályázati ajánlat, ha
+
+- a) a pályázó nem felel meg az 55. § szerinti személyi, részvételi feltételeknek, és az e törvény szerinti összeférhetetlenségi követelményeknek,
+- b) a pályázati ajánlat nem a pályázati felhívásban meghatározott határidőben, helyen, példányszámban, formában és módon került benyújtásra,
+- c) a pályázati díjat határidőben nem fizették meg,
+- d) a pályázati ajánlat formailag nem felel meg a pályázati felhívásban meghatározott feltételeknek,
+- e) nem, vagy nem megfelelően tartalmazza az 56. § a), da), db), de), e) pontban felsorolt adatokat.
+
+(3) Az alaki érvényességi feltételek körében hiánypótlásnak kizárólag az 56. § b), c), dc), df)–dn), f)–j) pontok tekintetében van helye.
+
+(4) A hiánypótlás teljesítésére a kézbesítéstől számított tizenöt nap áll a pályázó rendelkezésére. Amennyiben a pályázó a hiányosságot a felhívásban megjelölt időtartamon belül megfelelően pótolja, a pályázatot úgy kell tekinteni, mintha már eredetileg is helyes és teljes körű lett volna. A hiánypótlás teljesítésére meghatározott határidő jogvesztő, a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A pályázati ajánlat azon elemei tekintetében, amelyek a pályázati felhívás alapján értékelésre kerülnek, hiánypótlásnak nincs helye.
+
+(5) Alakilag érvénytelen pályázati ajánlat esetén a pályázati díj ötven százaléka visszajár.
+
+### Pályázati nyilvántartás és alakilag érvénytelen pályázat
+
+58. § (1) A Médiatanács az alakilag érvényes pályázati ajánlatot benyújtó pályázókat – a benyújtási határidő lejártától számított negyvenöt napon belül – hatósági nyilvántartásba veszi (a továbbiakban: pályázati nyilvántartás). A pályázati nyilvántartásba vételről a Hivatal a résztvevővé vált pályázókat értesíti, és a pályázati nyilvántartásba vett pályázók listáját a Médiatanács honlapján közzéteszi.
+
+(2) Az 57. § (2) bekezdés alapján alakilag érvénytelen pályázat esetén a Médiatanács a pályázó pályázati nyilvántartásba vételét végzéssel megtagadja. A nyilvántartásba vételt megtagadó végzés megszünteti az eljárásban a pályázó ügyféli minőségét. A pályázati nyilvántartásba vételt megtagadó végzés ellen – jogszabálysértésre hivatkozással – a végzés közlésétől számított nyolc napon belül felülvizsgálat kérhető a Fővárosi Ítélőtáblától. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A Fővárosi Ítélőtábla végzése ellen fellebbezésnek helye nincs. A nemperes eljárás iránti kérelem benyújtása esetén a Médiatanács a pályázati eljárást – a bíróság jogerős döntéséig – felfüggeszti. A Médiatanács eljárást felfüggesztő végzésével szemben önálló jogorvoslatnak helye nincs.
+
+(3) Amennyiben a Médiatanács az alaki érvénytelenségi okot a pályázati nyilvántartásba vételt követően, a pályázati ajánlat érdemi elbírálása során észleli, a pályázat alaki érvénytelenségét külön végzéssel nem állapítja meg, a pályázat érvénytelenségét a pályázati eljárást lezáró döntésébe foglalja.
+
+### A pályázati ajánlat tartalmi érvényessége
+
+59. § (1) A pályázati ajánlat tartalmi érvényességének vizsgálatakor a Médiatanács a pályázati nyilvántartásba vett pályázó pályázati ajánlatát összességében és az egyes pályázati elemek tekintetében is értékeli, vizsgálja annak megalapozottságát.
+
+(2) Ha a pályázati ajánlat tartalmilag hiányos, a Médiatanács hiánypótlásra szólítja fel a pályázót. A hiánypótlásra az 57. § (4) bekezdésben foglaltakat kell alkalmazni. Ha a pályázati ajánlat nem egyértelmű, a Médiatanács a pályázótól az esélyegyenlőség elvének sérelme nélkül felvilágosítást kérhet. A felvilágosítás-kérés teljesítésére a kézbesítéstől számított tizenöt nap áll a pályázó rendelkezésére. A felvilágosítás nem eredményezheti az ajánlatban megfogalmazott pénzbeli, értékbeli vállalások, lényeges állítások változását, csak azok értelmezését szolgálhatja.
+
+(3) A pályázati ajánlat tartalmilag érvénytelen, amennyiben
+
+- a) a pályázati felhívás szerinti értékelési szempontként megjelölt vállalások körében érthetetlen vagy egymásnak ellentmondó vagy nyilvánvalóan lehetetlen vállalásokat, feltételeket tartalmaz, amelyek akadályozzák a pályázati ajánlat érdemi értékelését,
+- b) a pályázati ajánlat a Médiatanács megítélése szerint lehetetlen, túlzottan magas vagy alacsony mértékű, illetőleg kirívóan aránytalan kötelezettségvállalást tartalmaz, illetve olyan nyilvánvalóan irracionális vagy megalapozatlan vállalásokat, feltételeket tartalmaz, amelyek ellentmondanak a Médiatanács rendelkezésére álló tényeknek, adatoknak, és ezáltal lehetetlenné teszik a pályázati kiírásban foglalt szempontrendszer szerinti értékelést,
+- c) a pályázati ajánlat megalapozatlansága miatt nem alkalmas az e törvényben, illetve a pályázati felhívásban meghatározott célok elérésére, megvalósítására, vagy
+- d) a pályázati felhívásban meghatározott tartalmi követelményeknek nem tesz eleget.
+
+(4) A Médiatanács a pályázati ajánlat tartalmi érvénytelenségét külön végzéssel nem állapítja meg, a pályázati ajánlat tartalmi érvénytelenségét a pályázati eljárást lezáró döntésébe foglalja.
+
+(5) Tartalmilag érvénytelen pályázati ajánlat esetén a pályázati díj ötven százaléka visszajár.
+
+### A pályázati ajánlat értékelése
+
+60. § (1) A pályázati ajánlatok értékelésére a pályázati felhívásban meghatározott elvek és szempontok alapján kerül sor. Az értékelési szempontoknak mennyiségi vagy más módon értékelhető tényezőkön kell alapulniuk, a pályázat tárgyával, illetőleg a hatósági szerződés lényeges feltételeivel összhangban kell állniuk. Az egyes szempontok nem eredményezhetik a pályázati ajánlat ugyanazon tartalmi elemének többszöri értékelését.
+
+(2) A Médiatanács a bírálati szempontokkal összefüggő ajánlati elemmel kapcsolatban a pályázati felhívásban jogosult meghatározni olyan elvárást, amelynél kedvezőtlenebb ajánlat nem tehető.
+
+(3) Az értékelés elveinek átláthatónak, megkülönböztetéstől mentesnek és arányosnak kell lenniük.
+
+(4) A pályázati ajánlatokat a pályázati felhívásban meghatározottaktól eltérően értékelni nem lehet.
+
+### A pályázati eljárás megszüntetése
+
+61. § (1) A Médiatanács végzéssel megszünteti a pályázati eljárást, amennyiben
+
+- a) a pályázati felhívásra nem érkezik pályázati ajánlat,
+- b) a pályázati eljárás a lefolytatása során felmerült körülmény, feltétel folytán okafogyottá válik, így különösen abban az esetben, ha a pályázati felhívást követően a hazai vagy a nemzetközi gazdálkodási környezet nagymértékben megváltozik, illetve a pályázati felhívás kiírásakor fennálló – gazdasági, jogi, frekvenciagazdálkodási, médiaszolgáltatási piaci – körülmények, feltételek lényegesen megváltoznak,
+- c) a Médiatanács mérlegelése szerinti médiapolitikai szempontok, illetve az e törvényben vagy a pályázati felhívásban rögzített alapelvek, célok a pályázati eljárás lefolytatásával nem biztosíthatóak, vagy
+- d) a Médiatanács a benyújtott pályázati ajánlatok és a rendelkezésre álló információk alapján megállapítja, hogy egyetlen pályázó pályázati ajánlata sem felel meg az e törvényben foglalt céloknak és alapelveknek, illetve bármely pályázó nyertessé nyilvánítása veszélyeztetné a frekvenciakészlettel, mint állami tulajdonnal való felelős, rendeltetésszerű, hatékony gazdálkodást.
+
+(2) A Médiatanács az (1) bekezdés szerinti döntését a pályázókkal öt napon belül közli, valamint a pályázati felhívással azonos helyen és módon nyilvánosan közzéteszi.
+
+### A pályázati eljárás eredménye, az eredmény közzététele, a pályázati ajánlatok nyilvánossága
+
+62. § (1) A Médiatanács hatósági határozatban állapítja meg
+
+- a) a pályázati eljárás eredményes vagy eredménytelen voltát, és
+- b) eredményesség esetén a pályázati eljárás nyertesét.
+
+(2) Eredménytelen a pályázati eljárás, amennyiben valamennyi benyújtott pályázati ajánlat alaki vagy tartalmi szempontból érvénytelen.
+
+(3) Nyertessé kizárólag olyan pályázó nyilvánítható, amely a pályázati ajánlat benyújtásától kezdve folyamatosan megfelelt az e törvényben és a pályázati felhívásban meghatározott részvételi feltételeknek.
+
+(4) A Médiatanács az (1) bekezdés szerinti döntését a pályázati nyilvántartásban szereplő pályázókkal öt napon belül közli, valamint a pályázati felhívással azonos helyen és módon nyilvánosan közzéteszi.
+
+(5) A Médiatanács (1) bekezdésben meghatározott határozatával szemben a határozat közlésétől számított tizenöt napon belül jogszabálysértésre hivatkozással bírósági felülvizsgálat kérhető a Fővárosi Ítélőtáblától azzal, hogy a határozat meghozatalától számított harminc napos jogvesztő határidő elteltével a határozatot akkor sem lehet megtámadni, ha az ismert ügyfeleken kívüli más jogorvoslatra jogosulttal azt nem közölték, illetve arról addig nem szerzett tudomást.
+
+(6) A bírósági felülvizsgálat iránti keresetet a Fővárosi Ítélőtábla háromtagú tanácsban, a kereset benyújtására meghatározott határidő elteltétől számított harminc napon belül bírálja el. A Fővárosi Ítélőtábla határozatával szemben fellebbezésnek, perújításnak, felülvizsgálati kérelemnek nincs helye.
+
+(7) A pályázati ajánlatban szereplő adatokról a Médiatanács a szerződés megkötéséig harmadik személynek nem adhat tájékoztatást.
+
+(8) Alakilag és tartalmilag érvényes, de nyertessé nem nyilvánított pályázati ajánlat esetén a pályázati díj nyolcvan százaléka visszajár.
+
+### Hatósági szerződés
+
+63. § (1) A 62. § (1) bekezdés b) pont szerinti határozatnak a nyertessé nyilvánított pályázóval történő közlésével egyidejűleg a Médiatanács a pályázat nyertesével való hatósági szerződéskötés érdekében hivatalból hatósági eljárást indít. E hatósági eljárás ügyintézési határideje negyvenöt nap.
+
+(2) Amennyiben az (1) bekezdés szerinti hatósági eljárásban a pályázat nyertese nem vesz részt, vagy a hatósági szerződés megkötését akadályozza, az (1) bekezdésben meghatározott ügyintézési határidőn túl a hatósági szerződés nem köthető meg, ez esetben a Médiatanács az eljárás megindításától számított negyvenötödik napon az eljárást megszünteti. Az eljárásban igazolási kérelemnek nincs helye.
+
+(3) Helyi médiaszolgáltatásra vonatkozó pályázat esetén, ha egyetlen pályázó felel meg a törvényes, illetve pályázati követelményeknek, a Médiatanács megköti a hatósági szerződést.
+
+(4) Amennyiben a 62. § (5) bekezdés szerint a Fővárosi Ítélőtábla eljárását kezdeményezték, a hatósági szerződés a Fővárosi Ítélőtábla jogerős döntéséig nem köthető meg. A Fővárosi Ítélőtábla felülvizsgálati eljárásának időtartama a hatósági eljárás ügyintézési határidejébe nem számít bele.
+
+(5) A Médiatanács a 187. § szerint bírságot szabhat ki, amennyiben a nyertes pályázó a pályázati ajánlatát visszavonja, vagy a hatósági szerződést nem köti meg.
+
+(6) A Médiatanács a bírság kiszabása mellett a pályázati ajánlat visszavonásából, a hatósági szerződés megkötésének akadályozásából származó valamennyi költség viselésére, megfizetésére is kötelezheti a nyertes pályázót.
+
+(7) A hatósági szerződésben meg kell határozni a médiaszolgáltató kötelezettségei teljesítésének megállapításához szükséges információk előállítására, őrzésére, hozzáférhető állapotban tartására és közlésére vonatkozó feltételeket.
+
+(8) Amennyiben a hatósági szerződésben meghatározott időpontig a médiaszolgáltatás nyújtására – a nyertes pályázó érdekkörében felmerült ok miatt – nem kerül sor, a Médiatanács jogosult a hatósági szerződésben meghatározott jogkövetkezmények alkalmazásán túlmenően a hatósági szerződést azonnali hatállyal felmondani.
+
+(9) A médiaszolgáltató a hatósági szerződésben megállapított médiaszolgáltatási díjat negyedévenként előre köteles megfizetni. A médiaszolgáltatási jogosultság elnyerésekor a médiaszolgáltatási díjat fél évre előre kell megfizetni.
+
+(10) Amennyiben a médiaszolgáltató a médiaszolgáltatási díj bármely részének megfizetésével késedelembe esik, vagy a díjfizetést elmulasztja, a Médiatanács jogosult a hatósági szerződésben meghatározott jogkövetkezmények alkalmazásán túlmenően a hatósági szerződést tizenöt napos határidővel felmondani.
+
+(11) A hatósági szerződésben meg kell határozni a szerződésszegés következményeit, továbbá a szolgáltatás legfeljebb harminc napig terjedő felfüggesztésének feltételeit.
+
+(12) A médiaszolgáltató a pályázati ajánlatában vállalt időtartamban és műsoridőben a műsoridő-beosztás szerint, saját megkülönböztető azonosítási jelét használva, a vállalt műsorstruktúrának megfelelő műsor sugárzására jogosult és köteles, az általa üzemben tartott saját hálózaton, berendezésekkel, eszközökkel vagy hírközlési szolgáltató (műsorszóró) szolgáltatás közreműködésével. A médiaszolgáltató saját eszközökkel történő műsorszóró, szétosztó tevékenységére a távközlési szolgáltatási engedély nem szükséges, de ez nem érinti a jogszabályokban meghatározott egyéb engedélyek beszerzésére vonatkozó kötelezettséget.
+
+(13) A 49. § (8) bekezdés szerinti eredeti igénylő a pályázat nyertesétől az adatszolgáltatással és tervezéssel kapcsolatban felmerült indokolt költségeinek megtérítésére tarthat igényt.
+
+### Hálózatba kapcsolódás, vételkörzet-bővítés, szerződésmódosítás
+
+64. § (1) A Médiatanács a hálózatba kapcsolódásról az abba kapcsolódók együttes kérelme alapján hatósági eljárásban dönt. A Médiatanács a kérelem engedélyezése esetén módosítja a médiaszolgáltatók hatósági szerződéseit.
+
+(2) Közösségi médiaszolgáltató csak közösségi médiaszolgáltatóval kapcsolódhat hálózatba. Országos médiaszolgáltató nem lehet hálózatba kapcsolódó médiaszolgáltató.
+
+(3) Nem engedélyezhető a hálózatba kapcsolódás,
+
+- a) ha a hálózatba kapcsolódó körzeti vagy helyi médiaszolgáltató saját médiaszolgáltatása nem éri el naponta a négy órát,
+- b) ha a médiaszolgáltatók médiaszolgáltatási díjtartozással rendelkeznek a Médiatanács felé,
+- c) ha a médiaszolgáltató vagy a médiaszolgáltatók bármelyike a hálózatba kapcsolódás következtében nem felelne meg a 71. §-ban foglaltaknak,
+- d) ha a hálózatos médiaszolgáltató és a hálózatba kapcsolódó médiaszolgáltató vételkörzete több mint húsz százalékban fedi egymást,
+- e) ha a hálózatba kapcsolódás következtében a médiaszolgáltató a pályázati ajánlatában tett eredeti vállalásaitól jelentősen eltérne.
+
+(4) A Médiatanács a vételkörzet-bővítésről kérelemre indult hatósági eljárásban dönt. A Médiatanács a kérelem engedélyezése esetén módosítja a médiaszolgáltató hatósági szerződését.
+
+(5) A vételkörzet-bővítés engedélyezésének feltétele, hogy a médiaszolgáltató azonos jellegű jogosultságainak vételkörzetei legfeljebb negyven kilométeres távolságban legyenek egymástól.
+
+(6) Nem engedélyezhető a vételkörzet-bővítés,
+
+- a) ha a médiaszolgáltató médiaszolgáltatási díjtartozással rendelkezik a Médiatanács felé,
+- b) ha a médiaszolgáltató a vételkörzet-bővítés következtében nem felelne meg a 71. §-ban foglaltaknak.
+
+(7) Vételkörzet-bővítéssel nem jön létre új jogosultság. A kibővített vételkörzetű jogosultság érvényességi ideje nem változik, a teljes jogosultság a kibővített alapjogosultság lejártáig érvényes. A médiaszolgáltatónak a teljes vételkörzetben ugyanazt a műsort kell sugároznia a teljes műsoridőben.
+
+(8) Ha a médiaszolgáltató vételkörzete a műsorterjesztő rendszerrel elért lakosságszám növekedése, vagy hálózatba kapcsolódás, vagy vételkörzet-bővítés miatt helyiről körzetire, vagy körzetiről országosra növekszik, a Médiatanács azzal a feltétellel módosítja a hatósági szerződést, hogy a médiaszolgáltató eleget tesz a megnövekedett vételkörzetű médiaszolgáltatásra irányadó, e törvényben foglalt követelményeknek.
+
+(9) A Médiatanács a médiaszolgáltató kérelmére – médiapiaci és médiapolitikai indokok alapján, illetve a nyomós közérdekre tekintettel – a meglévő médiaszolgáltatási jogosultság helyett pályázati kiírás nélkül a frekvenciasáv, illetve a frekvencia tekintetében hasonló feltételekkel, a médiaszolgáltatási lehetőségek jegyzékében szereplő más médiaszolgáltatási jogosultságot kínálhat fel. A módosítás a médiaszolgáltatási jogosultság időtartamát nem érinti.
+
+### Az ideiglenes médiaszolgáltatás
+
+65. § (1) A Médiatanács kérelemre – médiapiaci és médiapolitikai szempontok figyelembevételével – ideiglenes, legfeljebb harminc napra szóló hatósági szerződést köthet
+
+- a) olyan helyi médiaszolgáltatási lehetőség hasznosítására, amelynek a frekvenciatervét a Médiatanács a 49. § (5) bekezdés alapján közzétette, azonban hatósági szerződést még nem kötött, vagy
+- b) amelyre más már médiaszolgáltatási jogosultságot szerzett, de a jogosult médiaszolgáltatása az ideiglenes médiaszolgáltatás befejezését követő hatvan napon belül nem kezdődik meg.
+
+(2) A kérelemnek tartalmaznia kell:
+
+- a) a kérelmező nevét, lakcímét,
+- b) a kérelmező vállalkozás hatályos létesítő okiratát,
+- c) a tervezett műsoridőt napi, heti vagy havi bontásban,
+- d) a műsortervet,
+- e) a tervezett ideiglenes médiaszolgáltatás kezdő és befejező napját,
+- f) az (1) bekezdés b) pont szerinti kérelem esetén a médiaszolgáltató nyilatkozatát a médiaszolgáltatás megkezdésének napjáról.
+
+(3) A kérelmet a benyújtástól számított tíz napon belül kell elbírálni. Amennyiben a kérelem nem felel meg a (2) bekezdésben foglaltaknak, a Médiatanács hiánypótlásra szólítja fel a kérelmezőt. A hiánypótlás teljesítésére a kézbesítéstől számított öt nap áll a kérelmező rendelkezésére. A hiánypótlási határidő jogvesztő, elmulasztása esetén a Médiatanács a kérelmet elutasítja. A Médiatanács a kérelmet érdemi vizsgálat nélkül elutasítja, ha a kérelem benyújtásának napja és a tervezett ideiglenes médiaszolgáltatás kezdőnapja között legalább harminc nap időköz nem telik el.
+
+(4) Ha a médiaszolgáltatási lehetőségre több kérelmet nyújtanak be, akkor a Médiatanács a kérelmeket érkezésük sorrendjében bírálja el. Amennyiben a korábban érkezett kérelem alapján a Médiatanács hatósági szerződést köt, a később érkezett kérelem elbírálására az (5) bekezdésben foglaltakat megfelelően alkalmazni kell, és szükség esetén fel kell szólítani a kérelmezőt a (2) bekezdés e) pont szerinti időpontok módosítására.
+
+(5) Ideiglenes hatósági szerződést
+
+- a) ugyanazzal a vállalkozással évente egyszer,
+- b) azonos közigazgatási területen évente három alkalommal lehet kötni. Az ideiglenes hatósági szerződések időtartama között legalább tizenöt napnak el kell telnie.
+
+(6) Az ideiglenes médiaszolgáltatásra feljogosított médiaszolgáltató más médiaszolgáltatóval hálózatba nem kapcsolódhat, vételkörzet-bővítést nem kezdeményezhet.
+
+(7) Ideiglenes hatósági szerződés alapján a közösségi médiaszolgáltatónak nem kell médiaszolgáltatási díjat fizetni.
+
+(8) Az (1)–(7) bekezdés alkalmazása során a 71. §-ban szereplő előírásokat nem kell figyelembe venni.
+
+(9) Az (1) bekezdésben megjelölt ideiglenes médiaszolgáltatási idő nem hosszabbítható meg.
+
+(10) Amennyiben az audiovizuális médiaszolgáltatási jogosultság 2010. január 1. és a Dtv. 38. § (1) bekezdésben rögzített céldátum között úgy jár le, hogy az a 48. § (5) bekezdés alapján nem újítható meg, a Médiatanács a médiaszolgáltató kérelmére – a jogszabályban az audiovizuális médiaszolgáltatók műsorterjesztése digitális átállásának céldátumára megjelölt határidőig – a médiaszolgáltatási jogosultságra ideiglenes hatósági szerződést köthet.
+
+(11) Amennyiben a rádiós médiaszolgáltatási jogosultság úgy jár le, hogy az a 48. § (5) bekezdés alapján nem újítható meg, és a pályáztatási eljárás során döntés még nem született, a Médiatanács a korábban jogosultsággal rendelkező médiaszolgáltatóval, annak kérelmére, a nyertes pályázóval történő hatósági szerződés megkötése napjáig, de legfeljebb hatvan napos időtartamra ideiglenes hatósági szerződést köthet.
+
+(12) A (10)–(11) bekezdés alkalmazása során az (1)–(5) bekezdés, valamint a (9) bekezdés nem alkalmazható.
+
+### IV. Fejezet — KÖZÖSSÉGI MÉDIASZOLGÁLTATÁS
+
+66. § (1) A lineáris közösségi médiaszolgáltatás
+
+- a) egy meghatározott társadalmi, nemzeti és etnikai kisebbség, kulturális vagy vallási közösség, csoport, vagy
+- b) egy adott településen, régióban vagy vételkörzetben élők tájékoztatásra, kulturális műsorszámok elérésére irányuló különleges igényeit szolgálja ki, vagy
+- c) műsoridejének túlnyomó részében a közszolgálati médiaszolgáltatás 83. §-ban meghatározott céljait szolgáló műsorszámok kerülnek közzétételre.
+
+(2) A lineáris közösségi médiaszolgáltatást nyújtó médiaszolgáltató médiaszolgáltatási szabályzatában meghatározza
+
+- a) tevékenységének célját,
+- b) azon kulturális területeket, témákat, amelyek bemutatását vállalta,
+- c) a közszolgálati médiaszolgáltatás azon céljait, amelyek szolgálatát vállalta,
+- d) az általa szolgálni kívánt közösséget vagy közösségeket (társadalmi csoportot vagy meghatározott földrajzi területen élőket),
+- e) amennyiben az (1) bekezdés a)–b) pontnak megfelelően egy meghatározott közösség igényeit szolgálja ki, úgy e közösséget, valamint a kifejezetten e közösségnek szóló műsorszámok minimális, százalékos arányát a műsoridő egészéhez viszonyítottan.
+
+(3) A médiaszolgáltató a közösségi médiaszolgáltatásra vonatkozó törvényi rendelkezéseknek való megfelelésről és médiaszolgáltatási szabályzat betartásáról évente beszámol a Médiatanácsnak.
+
+(4) A lineáris közösségi médiaszolgáltatás:
+
+- a) rendszeresen tájékoztat egy adott társadalmi vagy helyi közösség híreiről, illetve egyéb hírszolgáltatást is végez,
+- b) kulturális műsorszámokat tesz közzé,
+- c) törekszik a hallási fogyatékkal élők igényeinek figyelembevételére audiovizuális médiaszolgáltatás esetében,
+- d) audiovizuális médiaszolgáltatás esetén a magyar, illetve európai műsorkvótákra vonatkozó, 20. § szerinti előírások szerint működik, ide nem értve a független műsorkészítőkre vonatkozó műsorkvótákat,
+- e) legalább naponta négyórányi műsoridővel rendelkezik, beleértve a képújság időtartamát is,
+- f) legalább hetente négyórányi műsoridőben az adott naptári évben általa készített, szerkesztett és első ízben bemutatott (nem ismételt)műsorszámot tesz közzé,
+- g) műsoridejének több mint kétharmadában köteles a 83. §-ban foglalt közszolgálati célokat szolgáló műsorszámokat szolgáltatni, amibe beleszámít a szolgált közösségnek szóló hírműsorszám, politikai tájékoztató műsorszám, kulturális műsorszám és az egyéb, nem elsősorban az adott közösségnek szóló hasonló tartalom is,
+- h) rádiós médiaszolgáltatás esetében a zenei műsorszámok bemutatására szánt műsoridejének legalább ötven százalékát magyar zenei műsorszámok bemutatására fordítja.
+
+(5) A helyi vagy körzeti médiaszolgáltatás közösségi médiaszolgáltatásként való elismerése a Médiatanács médiaszolgáltatási pályázati nyertességről szóló döntésében vagy a Médiatanácsnál külön e célból kezdeményezett eljárásban, a Médiatanács határozata alapján történik meg. Ezen eljárás a médiaszolgáltatásnak a 42. § szerinti nyilvántartásba vételét követően a médiaszolgáltató által kezdeményezhető. A Médiatanács eljárása során megvizsgálja a már működő, vagy indítani kívánt médiaszolgáltatást és annak médiaszolgáltatási szabályzatában foglaltakat az (1)–(4) bekezdés szerinti kritériumoknak való megfelelés céljából, majd hatvan napon belül hatósági határozatot hoz. Országos médiaszolgáltatást nem lehet közösségi médiaszolgáltatásként elismerni.
+
+(6) Az (5) bekezdés alapján történő elismerést követően a Médiatanács legalább kétévente – új szolgáltatás esetében az első év után is – részletes, legalább hét műsornapra kiterjedő – vizsgálat során eljárásában hivatalból vizsgálja a médiaszolgáltató működését, amelynek érdekében az az általa közzétett műsorszámokkal, illetve a médiaszolgáltatás tartalmával kapcsolatban részletes adatszolgáltatásra köteles. Amennyiben a Médiatanács megállapítása szerint a vizsgált médiaszolgáltatás nem felel meg a lineáris közösségi médiaszolgáltatás feltételeinek, úgy határozatával visszavonja a közösségi médiaszolgáltatásként való elismerést.
+
+### V. Fejezet — A PIACI KONCENTRÁCIÓ MEGELŐZÉSE ÉS A JELENTŐS BEFOLYÁSOLÓ EREJŰ MÉDIASZOLGÁLTATÓK
+
+### A médiapiaci koncentráció megelőzésére vonatkozó általános szabályok
+
+67. § A lineáris médiaszolgáltatást nyújtó médiaszolgáltatók piaci koncentrációja a sokszínű médiapiac fenntartása, valamint a tájékoztatási monopólium létrejöttének megakadályozása céljából e törvény keretei között korlátozható.
+
+68. § (1) A legalább harmincöt százalékos éves átlagos közönségaránnyal rendelkező lineáris audiovizuális médiaszolgáltató, a lineáris rádiós médiaszolgáltató, valamint a lineáris audiovizuális és lineáris rádiós piacon együttesen legalább negyven százalékos éves átlagos közönségaránnyal rendelkező médiaszolgáltató, a médiaszolgáltató bármely tulajdonosa, és a médiaszolgáltató bármely tulajdonosában befolyásoló részesedéssel rendelkező személy vagy vállalkozás
+
+- a) új médiaszolgáltatást nem indíthat, médiaszolgáltatást végző vállalkozásban részesedést nem szerezhet, és
+- b) köteles médiaszolgáltatásai műsorstruktúrájának módosításával, a magyar műsorszámok, a független műsorkészítők által előállított műsorszámok arányának növelésével, vagy egyéb módon intézkedéseket tenni a médiapiac sokszínűségének növelése érdekében.
+
+(2) Az (1) bekezdés a) pont esetében, amennyiben a médiapiaci koncentráció korlátozására vonatkozó szabály által érintett médiaszolgáltató médiaszolgáltatást végző vállalatban részesedést kíván szerezni, a Médiatanács a 171. § szerinti eljárásában a szakhatósági hozzájárulást köteles megtagadni.
+
+(3) Az (1) bekezdés b) pont esetében a sokszínűség növelésére irányuló intézkedések meghatározása érdekében a médiaszolgáltató kérelmére a Médiatanács a médiaszolgáltatóval – legalább egyéves időtartamra szóló – hatósági szerződést köthet, amely eljárásban a Médiatanácsnak joga van mérlegelni a médiaszolgáltató által vállalni kívánt kötelezettségek elfogadását. Ilyen irányú kérelem a Médiatanács 70. § (7) bekezdésben meghatározott hatósági határozatának közlésétől számított harminc napon belül terjeszthető elő. Amennyiben a hatósági szerződés – a megegyezés elmaradása miatt – a 70. § (7) bekezdésben meghatározott hatósági határozat közlésétől számított három hónapon belül nem jön létre, akkor a Médiatanács az eljárást végzéssel megszünteti.
+
+(4) A (3) bekezdésben meghatározott hatósági szerződés létrejöttének hiányában a Médiatanács 70. § (7) bekezdésben meghatározott hatósági határozatának közlésétől számított hat hónapon belül a médiaszolgáltató köteles a médiapiac sokszínűségének növelése érdekében tervezett intézkedéseinek jóváhagyása iránti kérelmet benyújtani. A Médiatanács a kérelem jóváhagyása iránti eljárásban azt vizsgálja, hogy a bejelentett intézkedések alkalmasak-e a korábbi tájékoztatási monopólium csökkentésére, a médiapiac sokszínűségének és a plurális tájékoztatás növelésére. E kötelezettség késedelmes teljesítése esetén a Médiatanács eljárási bírságot szab ki.
+
+(5) Amennyiben a kérelem megfelel a (4) bekezdésben foglalt feltételeknek, azt a Médiatanács határozatával jóváhagyja.
+
+(6) Kétség esetén a médiaszolgáltatót terheli annak bizonyítása, hogy a tervezett intézkedések megfelelnek a (4) bekezdésben foglalt feltételeknek.
+
+(7) Amennyiben a Médiatanács a tervezett intézkedéseket nem hagyja jóvá, erről határozatot hoz, amelyben meghatározza, hogy azok miért nem megfelelőek a (4) bekezdésben foglalt elvek érvényesülése szempontjából.
+
+(8) A (7) bekezdés szerinti esetben a médiaszolgáltató köteles a Médiatanács által megállapított határidőben, de legfeljebb harminc napon belül – a Médiatanács (7) bekezdésben szereplő határozatába foglalt szempontokat figyelembe véve – új intézkedéstervezetet benyújtani. E kötelezettség késedelmes teljesítése esetén a Médiatanács eljárási bírságot szab ki. Amennyiben ezen új kérelemben foglalt intézkedések sem megfelelők a (4) bekezdésben foglalt feltételek szempontjából, úgy a Médiatanács a 185–187. § szerint jogkövetkezményt alkalmazhat.
+
+(9) A Médiatanács a határozatával jóváhagyott intézkedések teljesítését általános hatósági felügyelet keretében ellenőrzi.
+
+(10) A lineáris audiovizuális és lineáris rádiós piacon együttesen elért éves átlagos közönségarányt az (1) bekezdés összefüggésében úgy kell meghatározni, hogy a lineáris audiovizuális és a lineáris rádiós piacon külön-külön elért éves átlagos közönségarány százalékban kifejezett mértékét össze kell adni.
+
+### A jelentős befolyásoló erővel rendelkező médiaszolgáltatók meghatározása
+
+69. § (1) JBE médiaszolgáltatónak minősül a legalább tizenöt százalékos éves átlagos közönségaránnyal rendelkező lineáris audiovizuális médiaszolgáltató és lineáris rádiós médiaszolgáltató feltéve, hogy legalább egy médiaszolgáltatásának éves átlagos közönségaránya eléri a három százalékot.
+
+(2) A 32. §-ban és a 38–39. §-ban a JBE médiaszolgáltató számára előírt kötelezettségek teljesítését a Médiatanács rendszeresen ellenőrzi.
+
+(3) A 68. §-ban és az (1) bekezdésben meghatározott éves átlagos közönségarány mérésére vonatkozóan a Hatóság külső vállalkozóval szerződést köthet. A szerződő felet nyílt pályázati eljárás keretében kell kiválasztani. A szerződés előkészítésekor és a pályázati eredmény meghatározásakor a Hatóság együttműködik a médiaszolgáltatókkal. A szerződésben meg kell határozni a közönségarány-mérés módszerét, szakmai kritériumait, valamint az eredmények auditálásának rendjét.
+
+(4) A Hatóság a közönségarány mérésének módszertanát, illetve a médiaszolgáltatások előző naptári évre vonatkozó éves átlagos közönségarányát internetes honlapján közzéteszi.
+
+### A médiapiaci koncentráció megelőzésére és a jelentős befolyásoló erővel rendelkező médiaszolgáltatók meghatározására irányuló eljárások szabályai
+
+70. § (1) A Médiatanács a médiapiaci koncentráció megelőzésére és a JBE médiaszolgáltatók meghatározására irányuló eljárások lefolytatása érdekében a koncentráció fokának megítélése szempontjából jelentős (a továbbiakban: releváns) piaci tényeket és körülményeket – így különösen médiaszolgáltató előző naptári évi átlagos közönségarányát – a Ket. szerinti hatósági ellenőrzési eljárásban a (2)–(12) bekezdés szerinti eltérésekkel vizsgálja.
+
+(2) A Médiatanács a hatósági ellenőrzési eljárásban a releváns tények és körülmények tisztázása érdekében a médiaszolgáltatókat végzéssel adatszolgáltatásra kötelezheti. A végzés ellen önálló jogorvoslatnak helye nincs, az a hatósági ellenőrzést esetlegesen követő, a médiapiaci koncentráció megelőzésére, illetve a JBE médiaszolgáltatók meghatározására irányuló eljárásban hozott érdemi döntés elleni jogorvoslatban támadható.
+
+(3) Az adatszolgáltatás nem vagy nem megfelelő teljesítése esetén a Médiatanács – a 175. § (8) bekezdése szerint – eljárási bírságot szabhat ki. Ezen túlmenően az adatszolgáltatás nem vagy nem megfelelő teljesítése esetén a Médiatanács ötvenezer forinttól hárommillió forintig terjedő bírsággal sújthatja – ismételt jogsértés esetén sújtani köteles – a jogsértő médiaszolgáltató 45. § (1) bekezdés ad) pont szerinti tisztségviselőjét vagy bejelentett képviselőjét is.
+
+(4) A közönségarány meghatározásánál figyelembe kell venni, illetve a közönségarányhoz hozzá kell számítani
+
+- a) a médiaszolgáltató által szolgáltatott valamennyi, a Magyar Köztársaság területén terjesztett lineáris médiaszolgáltatásnak,
+- b) az érintett médiaszolgáltató befolyásoló részesedése mellett működő médiaszolgáltatók Magyar Köztársaság területén terjesztett lineáris médiaszolgáltatásainak, és
+- c) az érintett médiaszolgáltató bármely tulajdonosának, vagy tulajdonosa tulajdonosának befolyásoló részesedése mellett működő médiaszolgáltató Magyar Köztársaság területén terjesztett lineáris médiaszolgáltatásainak
+
+közönségarányát.
+
+(5) Amennyiben a Médiatanács a hatósági ellenőrzés alapján megállapítja, hogy a médiapiaci koncentráció megelőzésére, illetve a JBE médiaszolgáltatók meghatározására irányuló eljárás lefolytatására okot adó körülmény fennáll, akkor a Ket. vonatkozó rendelkezéseitől eltérően kizárólag az eljárás végzésben történő megindításáról dönt.
+
+(6) Amennyiben a hatósági ellenőrzés alapján a Médiatanács azt állapítja meg, hogy a korábban hozott (7) bekezdés szerinti határozatban azonosított médiapiaci koncentráció korlátozására vonatkozó szabály által érintett médiaszolgáltató, illetve a (7) bekezdés szerinti határozatban, illetve a (10) bekezdés szerinti hatósági szerződésben azonosított JBE szolgáltatók köre nem változott, akkor az eljárás megindítását mellőzi.
+
+(7) A Médiatanács a médiapiaci koncentráció megelőzésére, illetve a JBE médiaszolgáltatók meghatározására irányuló eljárásában hatósági határozatban azonosítja a 68. § szerinti, a médiapiaci koncentráció korlátozására vonatkozó szabály által érintett médiaszolgáltatót, illetve a 69. § szerinti JBE médiaszolgáltatót, valamint dönt a korábban határozatban azonosított e minőségének megszüntetéséről.
+
+(8) A JBE médiaszolgáltatók meghatározására irányuló eljárásban hozott határozatban a Médiatanács a JBE médiaszolgáltatót a 32. § és a 38–39. § alapján terhelő kötelezettségek pontos tartalmát is meghatározza az ott foglalt mérlegelési szempontok figyelembevételével.
+
+(9) A médiapiaci koncentráció megelőzésére, illetve a JBE szolgáltatók meghatározására irányuló eljárásban hozott határozat felülvizsgálatára a 163. §-ban foglaltakat kell megfelelően alkalmazni azzal, hogy a Médiatanács jogerős határozatának felülvizsgálatát az ügyfél, illetve az eljárás egyéb résztvevője jogszabálysértésre hivatkozással a Fővárosi Ítélőtáblától kérheti a Médiatanács határozata ellen indított kereset indításával. A Fővárosi Ítélőtábla a keresetet peres eljárásban, harminc napon belül bírálja el.
+
+(10) A JBE médiaszolgáltatók meghatározására irányuló eljárásban a Médiatanács határozathozatal helyett hatósági szerződést is köthet a médiaszolgáltatóval a médiaszolgáltató JBE azonosításáról, illetve a JBE médiaszolgáltatót a 32. § és a 38–39. § alapján terhelő kötelezettségek pontos tartalmáról. Ez esetben a 32. § és 38–39. §-ban foglalt kötelezettségek megállapításának mérlegelési szempontjaitól a felek eltérhetnek azzal, hogy a JBE médiaszolgáltató az ott foglalt kötelezettségek teljesítése alól a hatósági szerződésben sem mentesíthető.
+
+(11) A médiapiaci koncentráció megelőzésére, illetve a JBE médiaszolgáltatók meghatározására irányuló eljárását – a (6) bekezdésben foglalt eltéréssel – a Médiatanács minden év szeptember 30. napjáig lefolytatja. A JBE médiaszolgáltatók meghatározásánál az előző naptári év átlagos közönségarányát kell figyelembe venni. A JBE médiaszolgáltatót terhelő kötelezettségeknek a JBE médiaszolgáltató a Médiatanács döntését követő év január 1-től köteles eleget tenni. A Médiatanács médiapiaci koncentráció megelőzésére, illetve a JBE médiaszolgáltatók meghatározására irányuló eljárásában hozott határozata, illetve a megkötött hatósági szerződés mindaddig hatályban marad, amíg ugyanezen tárgyban a következő évben folytatott eljárás eredményeként meghozott következő határozat, illetve hatósági szerződés hatályba nem lép.
+
+(12) Az (1)–(11) bekezdés alkalmazásában árbevétel alatt az eljárás résztvevőjének médiaszolgáltatási tevékenységgel kapcsolatos értékesítésből származó előző üzleti évi nettó árbevételét kell érteni.
+
+### A hatósági vagy műsorszolgáltatási szerződéssel médiaszolgáltatási jogosultságot szerző analóg lineáris rádiós médiaszolgáltatás médiaszolgáltatójára vonatkozó szabályok
+
+71. § (1) Aki hatósági vagy műsorszolgáltatási szerződés alapján analóg lineáris rádiós médiaszolgáltatásra jogosult, az egyidejűleg legfeljebb
+
+- a) egy országos analóg lineáris rádiós médiaszolgáltatás,
+- b) két körzeti és négy helyi analóg lineáris rádiós médiaszolgáltatás, vagy
+- c) tizenkét helyi analóg lineáris rádiós médiaszolgáltatás végzésére rendelkezhet jogosultsággal.
+
+(2) A tematikus analóg lineáris rádiós médiaszolgáltatás kivételével az országos analóg lineáris rádiós médiaszolgáltatásra jogosult és az abban befolyásoló részesedéssel rendelkező nem szerezhet befolyásoló részesedést más médiaszolgáltatást, vagy műsorterjesztést végző vállalkozásban.
+
+(3) Ugyanaz a vállalkozás analóg lineáris rádiós médiaszolgáltatásra jogosult szervezetben az (1) bekezdésben foglalt korlátok között szerezhet befolyásoló részesedést.
+
+(4) A médiaszolgáltató saját jogosultságait és befolyásoló részesedése alatt álló vállalkozások jogosultságait az (1) és (3) bekezdés alkalmazása során egybe kell számítani.
+
+(5) A körzeti és helyi lineáris rádiós médiaszolgáltató vagy annak tulajdonosa a médiaszolgáltatásának vételkörzetébe eső más körzeti vagy helyi lineáris rádiós médiaszolgáltatást végző vállalkozásban – az (5) bekezdésben foglaltak kivételével – befolyásoló részesedést nem szerezhet.
+
+(6) Az (5) bekezdésben foglalt korlátozás nem alkalmazható, ha
+
+- a) a két médiaszolgáltató vételkörzete legfeljebb húsz százalékban fedi át egymást, vagy
+- b) a pályázat elbírálása után kihasználatlan műsoridő marad és új pályázat kiírása mellett a kihasználatlanul maradt műsoridőre szerződést kötnek az (5) bekezdésben megjelölt médiaszolgáltatóval, feltéve, hogy az általa így megszerzett műsoridő a már meglevő műsoridejétől nyolcvan százalékban eltér, és egyik műsoridő sem haladja meg a négy órát.
+
+(7) A tisztességtelen piaci magatartás tilalmáról szóló törvény szerinti összefonódás nem engedélyezhető, ha az az e törvényben foglaltak sérelmével járna.
+
+### VI. Fejezet — A SOKSZÍNŰSÉG VÉDELME A MŰSORTERJESZTÉS SORÁN
+
+### A műsorterjesztés sokszínűsége
+
+72. § (1) Azon médiaszolgáltatások száma, amelyek médiaszolgáltatójában azonos vállalkozás rendelkezik befolyásoló részesedéssel, nem haladhatja meg az adott átviteli rendszeren terjesztett audiovizuális médiaszolgáltatások negyedét, illetve rádiós médiaszolgáltatások felét.
+
+(2) Azon médiaszolgáltatások száma, amelynek médiaszolgáltatója műsorterjesztési tevékenységet is végez, vagy amelynek médiaszolgáltatójában azonos műsorterjesztő vállalkozás rendelkezik tulajdoni részesedéssel, nem haladhatja meg az adott átviteli rendszeren terjesztett audiovizuális médiaszolgáltatások negyedét, illetve rádiós médiaszolgáltatások felét.
+
+(3) Az (1)–(2) bekezdésben meghatározott arányoknak a műsorterjesztő vállalkozás által a nézőknek vagy a hallgatóknak kínált azon programcsomag tekintetében is érvényesülniük kell, amely az előző naptári év végén a legtöbb előfizetővel rendelkezett az adott átviteli rendszeren.
+
+(4) Az (1)–(3) bekezdésben foglalt kötelezettségek nem vonatkoznak a közszolgálati médiaszolgáltató által végzett műsorterjesztési tevékenységre.
+
+### A médiaszolgáltatások továbbításának kötelezettsége
+
+73. § (1) A magyar, a nemzeti, illetve etnikai kisebbségi és az európai kultúra megőrzése, védelme, valamint továbbfejlesztése, a nemzeti, illetve etnikai kisebbségi nyelv ápolása, az állampolgárok tájékozódási igényeinek kielégítése és a demokratikus közéletben való részvételük elősegítése, továbbá a vélemények sokszínűségének megőrzése érdekében a (2)–(3) bekezdésben meghatározott műsorterjesztőt a 74–75. §-ban meghatározott kötelezettségek terhelik (a továbbiakban: továbbítási kötelezettség).
+
+(2) Továbbítási kötelezettség terheli a nyilvánosság számára rádiós és audiovizuális médiaszolgáltatás közvetítését végző átviteli rendszeren, hálózaton műsorterjesztési szolgáltatást nyújtó műsorterjesztőt.
+
+(3) A rádiós és az audiovizuális médiaszolgáltatás nyilvánosság számára történő közvetítését végző átviteli rendszerek, hálózatok közé tartoznak különösen a kábeltelevízió-hálózatok, a műholdas, a földi (kivéve az analóg audiovizuális műsorszóró) műsorterjesztő hálózatok, valamint a médiaszolgáltatás Internet Protokoll segítségével történő továbbítását lehetővé tevő átviteli rendszerek, amennyiben a szolgáltatás jellege, illetve feltételei megegyeznek a műsorterjesztéssel, vagy ez helyettesíti a más módon megvalósított műsorterjesztést.
+
+(4) A továbbítási kötelezettség kiterjed más átviteli rendszeren, hálózaton műsorterjesztést végző szolgáltatóra, üzemeltetőre, amennyiben az előfizetők, felhasználók széles körben ezen átviteli rendszert, hálózatot használják a rádiós és audiovizuális médiaszolgáltatások vételének fő eszközeként. Ezen átviteli rendszereket, hálózatokat a továbbítási kötelezettség szempontjából a Médiatanács rendszeresen – de legalább háromévente – ellenőrzi, és ennek keretében elemzi. Amennyiben az ellenőrzés eredményeként szükség esetén megindított hatósági eljárás során megállapítja, hogy az adott átviteli rendszer, hálózat tekintetében indokolt a továbbítási kötelezettség előírása, határozatában az átviteli rendszeren, hálózaton műsorterjesztést nyújtó valamennyi szolgáltató, üzemeltető vonatkozásában megállapítja a továbbítási kötelezettség fennállását.
+
+(5) A továbbítási kötelezettség az elsődlegesen audiovizuális médiaszolgáltatások nyilvánosság számára történő közvetítésére szolgáló műsorterjesztői hálózaton, átviteli rendszeren nem vonatkozik a rádiós médiaszolgáltatásokra.
+
+(6) Amennyiben a műsorterjesztő több átviteli rendszeren, műsorterjesztői hálózaton is nyújt műsorterjesztési szolgáltatást, az (1)–(4) bekezdés szerinti továbbítási kötelezettség átviteli rendszerenként, műsorterjesztői hálózatonként külön-külön terheli.
+
+(7) Médiapiaci szempontból meghatározó jelentőségűnek minősül a műsorterjesztő (a továbbiakban: meghatározó műsorterjesztő), ha
+
+- a) műsorterjesztői szolgáltatása előfizetőinek száma – műsorterjesztő platformtól, hálózattól függetlenül – meghaladja a százezer főt, vagy
+- b) nyilvánosan elérhető, előfizetői díj fizetése nélkül hozzáférhető műsorterjesztési szolgáltatás esetén a műsorterjesztő vételkörzete a Magyar Köztársaság lakosságának több mint egyharmadára kiterjed,
+
+és a műsorterjesztő, vagy benne, illetve tulajdonosában befolyásoló részesedéssel rendelkező vállalkozás, valamint a műsorterjesztő, illetve tulajdonosa befolyásoló részesedése mellett működő más vállalkozás a Magyar Köztársaság területén végzett műsorterjesztésből vagy ahhoz kapcsolódó szolgáltatásból származó árbevétele – az analóg műsorszórás kivételével – meghaladja az évi egymilliárd forintot.
+
+(8) Kétség esetén a meghatározó műsorterjesztő köteles bizonyítani, hogy esetében a (7) bekezdés szerinti feltételek nem állnak fenn.
+
+74. § (1) A közszolgálati médiaszolgáltatók összesen négy lineáris audiovizuális médiaszolgáltatását és három lineáris rádiós médiaszolgáltatását a műsorterjesztő – a műsorszórással megvalósított műsorterjesztés kivételével – díjmentesen köteles továbbítani. A műsorterjesztő e médiaszolgáltatásokhoz való hozzáférésért a hozzáférés biztosításához kapcsolódó, a hozzáférés költségeit meghaladó mértékű többletdíjat az előfizetőtől nem kérhet. A közszolgálati médiaszolgáltató nem követelhet e médiaszolgáltatásai terjesztéséért a műsorterjesztőtől ellenszolgáltatást.
+
+(2) Az (1) bekezdésben meghatározott kötelezettség érvényesülését hivatalból vagy kérelemre a Médiatanács ellenőrzi.
+
+(3) A továbbítási kötelezettség keretébe tartozó közszolgálati médiaszolgáltatásokat a műsorterjesztő alapszolgáltatásként úgy köteles továbbítani, hogy azok – az analóg műsorterjesztési hálózatok kivételével – elkülöníthető előfizetői szolgáltatásként is igénybe vehetők legyenek az előfizetők számára. Ezen előfizetői szolgáltatási csomag igénybevételéért a hozzáférés biztosításához kapcsolódó, a hozzáférés költségeit meghaladó mértékű többletdíjat a műsorterjesztő az előfizetőtől nem kérhet. Az analóg műsorterjesztési hálózatok esetében a továbbítási kötelezettség keretébe tartozó közszolgálati médiaszolgáltatásokat valamennyi programcsomagban elérhetővé kell tenni az előfizetők számára.
+
+(4) A közszolgálati médiaszolgáltató (1) bekezdés szerinti, műsorszórással terjesztett médiaszolgáltatásait ingyenesen kell a felhasználók számára hozzáférhetővé tenni.
+
+(5) A (3)–(4) bekezdésben foglaltak teljesítését hivatalból vagy kérelemre a Hivatal ellenőrzi.
+
+75. § (1) A műsorterjesztőt – teljes kapacitásának tíz százalékáig, de legfeljebb három médiaszolgáltatás tekintetében – a médiaszolgáltatók körzeti vagy helyi, audiovizuális közösségi médiaszolgáltatására vonatkozó, műszakilag és gazdaságilag megalapozott szerződéses ajánlata tekintetében szerződéskötési kötelezettség terheli.
+
+(2) A műsorterjesztőt – legfeljebb további két médiaszolgáltatás tekintetében – a helyi vételkörzetű médiaszolgáltató audiovizuális médiaszolgáltatására vonatkozó, műszakilag és gazdaságilag megalapozott szerződéses ajánlata tekintetében szerződéskötési kötelezettség terheli, feltéve, hogy a médiaszolgáltató vételkörzete a Médiatanács nyilvántartásában szereplő adatok alapján az adott műsorterjesztő vételkörzetében, illetve a (4) bekezdés szerinti elkülönült szolgáltatási területen található, és médiaszolgáltatását célzottan az adott terület lakossága számára nyújtja. Az (1)–(2) bekezdés alapján a továbbítási kötelezettség keretébe tartozó helyi médiaszolgáltatások tekintetében a műholdas műsorterjesztőket továbbítási kötelezettség nem terheli.
+
+(3) Az (1)–(2) bekezdésben meghatározott továbbítási kötelezettség alá eső médiaszolgáltatásokon túl a Médiatanács – hivatalból vagy médiaszolgáltató általi kérelemre – hatósági határozatában meghatározhat – az e törvényben foglalt közérdekű médiapolitikai célok elérését szolgáló – további két médiaszolgáltató olyan – médiaszolgáltatónként legfeljebb egy – lineáris közösségi vagy közszolgálati médiaszolgáltatását, amelyre vonatkozó műszakilag és gazdaságilag megalapozott szerződéses ajánlatra a műsorterjesztőt szerződéskötési kötelezettség terheli. A határozat meghozatala során a Médiatanács köteles mérlegelni, hogy a döntés mennyiben szolgálja a médiapiac és a tájékoztatás sokszínűségét, az e törvényben meghatározott közszolgálati célok elérését, valamint a kultúra megőrzését és gyarapítását. E hatósági eljárásban a műsorterjesztők ügyféli jogállással nem rendelkeznek.
+
+(4) Amennyiben az (1)–(3) bekezdés szerinti műsorterjesztő átviteli rendszere több, egymástól műszakilag elkülöníthető területet kiszolgáló részből áll, az (1)–(3) bekezdés szerinti kötelezettségek a műsorterjesztőt az egymástól műszakilag elkülöníthető területenként értelemszerűen külön-külön terhelik.
+
+(5) Az (1)–(2) bekezdés alkalmazásában a médiaszolgáltató azon médiaszolgáltatása tekintetében minősül a továbbítási kötelezettség jogosultjának,
+
+- a) amelyre vonatkozóan a műsorterjesztőtől a médiaszolgáltatás terjesztését igényli, és
+- b) amely a Médiatanács határozata alapján a 66. §-ban foglalt követelmények figyelembevételével közösségi médiaszolgáltatásnak minősül.
+
+(6) Az (1)–(4) bekezdés alkalmazásában nem vehető figyelembe a műsorterjesztő információs csatornája, valamint az olyan médiaszolgáltatás, amelynek médiaszolgáltatójában vagy annak tulajdonosában a műsorterjesztő vállalkozás vagy annak tulajdonosa befolyásoló részesedéssel rendelkezik.
+
+(7) A meghatározó műsorterjesztőt az (1)–(3) bekezdésben meghatározottakhoz képest legfeljebb további három lineáris közösségi audiovizuális médiaszolgáltatás tekintetében – a médiaszolgáltatók audiovizuális közösségi műsorszolgáltatására vonatkozó műszakilag és gazdaságilag megalapozott szerződéses ajánlata tekintetében – szerződéskötési kötelezettség terheli.
+
+(8) Amennyiben a továbbítási kötelezettség teljesítése során a műsorterjesztő már csak egy jogosult médiaszolgáltató továbbítására köteles, de egyidejűleg több jogosult médiaszolgáltató is igényt tart a továbbításra, a műsorterjesztő köteles nyilvános, átlátható eljárás során pártatlanul és objektív kritériumok alapján mérlegelni a jogosult médiaszolgáltatók szerződéses ajánlatait.
+
+(9) Az ajánlat objektív műszaki okok miatt akkor utasítható vissza, ha az ajánlatban megjelölt szolgáltatási igény veszélyezteti a működés biztonságát, illetve a hálózat egységét.
+
+(10) Az ajánlat objektív gazdasági okok miatt akkor utasítható vissza, ha az ajánlatban megjelölt díjak olyan mértékben eltérnek a költségektől (beleértve a szokásos hasznot is), hogy a megállapodás nem lehetséges.
+
+(11) Kétség esetén a műsorterjesztő köteles bizonyítani, hogy a műsor továbbítása gazdaságilag vagy műszakilag nem megalapozott.
+
+(12) A (3) bekezdés szerinti hatósági eljárás megindításáról a Médiatanács végzésben értesíti az érintett médiaszolgáltatókat. Az értesítésnek kizárólag az ügy tárgyát és rövid ismertetését kell tartalmaznia. Az értesítést a Médiatanács hirdetményi úton közli. E hatósági eljárásban az ügyféli jogokat kizárólag az eljárásban részt vevő ügyfelek gyakorolhatják. A Médiatanács az ezen eljárásban meghatározott hatósági határozatát hirdetményi úton közli.
+
+(13) A (3) bekezdésben meghatározott mérlegelési szempontok figyelembevételével, a körülmények lényeges megváltozásával a Médiatanács megfelelően módosíthatja a (3) bekezdés szerinti hatósági határozatát. A módosított határozat közlésére a (12) bekezdésben foglaltakat kell alkalmazni.
+
+(14) A (3) és (13) bekezdésben meghatározott hatósági határozat bírósági felülvizsgálata keretében a keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya, és a keresettel támadott hatósági határozat végrehajtását a bíróság nem függesztheti fel. A határozat a keresetlevél benyújtásától függetlenül azonnal végrehajtható.
+
+76. § A médiaszolgáltató jogosult a 172–174. § szerinti jogvitás eljárást kezdeményezni, amennyiben
+
+- a) a 75. § (1)–(3) és (7) bekezdés szerinti valamely szerződés az ajánlattételtől számított harminc napon belül nem jön létre, vagy
+- b) a műsorterjesztő a jogosult médiaszolgáltató jogszabályban vagy szerződésben meghatározott műsorterjesztést érintő jogát vagy jogos érdekét megsértette.
+
+77. § (1) A műsorterjesztő köteles a médiaszolgáltatókkal az e fejezetben meghatározott továbbítási kötelezettség keretében kötött valamennyi szerződését, illetve azok módosításait – a megkötést vagy a módosítást követ ő harminc napon belül – a Hivatal részére megküldeni, valamint e szerződések megszűnéséről a Hivatalt – a megszűnést követő harminc napon belül – tájékoztatni.
+
+(2) Az e fejezetben szabályozott továbbítási kötelezettséggel kapcsolatban a műsorterjesztők és a médiaszolgáltatók kötelesek a Hatóság felhívására adatot szolgáltatni.
+
+### A médiaszolgáltatások felajánlásának kötelezettsége
+
+78. § (1) A jelentős befolyásoló erejű médiaszolgáltatót, illetve azt a médiaszolgáltatót, amelyben, vagy amelynek tulajdonosában meghatározó műsorterjesztő vagy annak tulajdonosa befolyásoló részesedéssel rendelkezik (a 78–81. § alkalmazásában a továbbiakban együtt: kötelezett médiaszolgáltató), valamennyi lineáris médiaszolgáltatása tekintetében a (2) bekezdésben meghatározott kötelezettségek terhelik.
+
+(2) A kötelezett médiaszolgáltatót a műsorterjesztő tisztességes és ésszerű szerződéses ajánlatára valamennyi lineáris médiaszolgáltatása tekintetében szerződéskötési kötelezettség terheli. A kötelezett médiaszolgáltatót a szerződéskötési kötelezettség lineáris médiaszolgáltatásonként külön-külön terheli.
+
+(3) A kötelezett médiaszolgáltató nem szabhatja feltételéül valamely médiaszolgáltatása tekintetében történő szerződéses megállapodás, illetve e megállapodás lényeges tartalmi elemének meghatározása során az adott médiaszolgáltatás terjesztéséhez nem nélkülözhetetlen más médiaszolgáltatása vonatkozásában történő szerződés létrehozatalát, illetve egyéb szolgáltatás, termék megvásárlását vagy igénybevételét (árukapcsolás tilalma).
+
+(4) A kötelezett médiaszolgáltató és műsorterjesztő a szerződést és a szerződésben meghatározott feltételeket – különösen, de nem kizárólagosan a díjat – az egyenlő elbánás elvének megfelelően, megfizethető árszinten, a technológiasemlegesség és a méretgazdaságosság elvének figyelembevételével kötelesek kialakítani. Ennek során a kötelezett médiaszolgáltató nem tehet indokolatlan különbséget a műsorterjesztők szerződéses ajánlatai között. A szerződést a felek a díj tekintetében – a szerződéskötéstől számítva – évente egy alkalommal módosíthatják.
+
+(5) E törvény alkalmazásában az egyenlő elbánás kötelezettségébe ütköző magatartásnak minősül különösen, ha a kötelezett médiaszolgáltató
+
+- a) a műsor terjesztését indokolatlanul olyan műszaki feltételekhez köti, amelynek teljesítésére a műsorterjesztési szolgáltatást nyújtók meghatározó hányada nem képes, vagy
+- b) a műsorterjesztő által fizetendő díj megállapítása során olyan árazási, díjképzési feltételt – ideértve a forgalom után számított árkedvezményt – állapít meg, amelyek alkalmazásával a legkedvezőbb feltételek csak néhány műsorterjesztő számára válnak elérhetővé.
+
+(6) Az ajánlat abban az esetben utasítható vissza, amennyiben az ajánlatban foglaltak teljesítése objektív műszaki vagy gazdasági okok alapján lehetetlen, és e feltételek tekintetében a szerződéskötésre irányuló eljárásban a felek nem tudnak megegyezni.
+
+(7) Kétség esetén a kötelezett médiaszolgáltató köteles bizonyítani az ajánlat visszautasításának megalapozottságát.
+
+79. § (1) A kötelezett médiaszolgáltató a 78. § (2) bekezdésben meghatározott szerződéskötési kötelezettség megfelelő és átlátható érvényesülése érdekében köteles a médiaszolgáltatásának terjesztésével összefüggő általános szerződési keretfeltételeket kialakítani és azokat honlapján közzétenni.
+
+(2) A kötelezett médiaszolgáltató az (1) bekezdésben meghatározott általános szerződéses keretfeltételeit az ésszerűség követelményének megfelelően úgy köteles kialakítani, hogy azok indokoltak, átláthatóak és ellenőrizhetőek legyenek. Ezzel ellentétes feltétel nem alkalmazható.
+
+(3) Az (1)–(2) bekezdésben foglaltakat a következő szerződéses feltételekre kell alkalmazni:
+
+- a) a kötelezett médiaszolgáltatónak fizetendő műsordíjjal kapcsolatos szerződéses keretfeltételek, így különösen a kötelezett médiaszolgáltató díjképzési politikájának alapelvei, módszere, díjazási időszaka, a díjfizetés módja és ideje,
+- b) a szerződés megkötésére vonatkozó eljárás, a szolgáltatás igénybevételének módja és feltételei, esetleges műszaki, gazdasági vagy egyéb korlátai,
+- c) a szerződés módosításának, megszűnésének esetei és feltételei,
+- d) a szolgáltatás szünetelésének esetei,
+- e) szerződésszegés és annak jogkövetkezményei.
+
+(4) A kötelezett médiaszolgáltató a szerződéses feltételek módosítása esetén legalább az új szerződési feltételek hatálybalépése előtt harminc nappal köteles az új szerződési feltételeket hozzáférhetővé tenni.
+
+(5) Az (1)–(4) bekezdésben foglalt kötelezettségek teljesítését a Hivatal ellenőrzi.
+
+80. § (1) A műsorterjesztő jogosult a 172–174. § szerinti jogvitás eljárást kezdeményezni, amennyiben
+
+- a) a 78. § (2) bekezdés szerinti szerződés az ajánlattételtől számított harminc napon belül nem jön létre, vagy
+- b) a kötelezett médiaszolgáltató a jogosult műsorterjesztő jogszabályban vagy szerződésben meghatározott műsorterjesztést érintő jogát vagy jogos érdekét megsértette.
+
+(2) Amennyiben a műsorterjesztő által fizetendő díj mértéke vitatott, a kötelezett médiaszolgáltatót terheli a díjképzés jogszerűségének, illetve az egyenlő elbánás kötelezettségnek megfelelő eljárás bizonyítása.
+
+81. § (1) A kötelezett médiaszolgáltató köteles a műsorterjesztőkkel a 78. §-ban meghatározott kötelezettség keretében kötött valamennyi szerződését, illetve azok módosításait – a megkötést vagy a módosítást követő harminc napon belül – a Hivatal részére megküldeni, valamint e szerződések megszűnéséről a Hivatalt – a megszűnést követő harminc napon belül – tájékoztatni.
+
+(2) A 78–79. §-ban meghatározott kötelezettséggel kapcsolatban a kötelezett médiaszolgáltatók és a műsorterjesztők kötelesek a Hatóság felhívására adatot szolgáltatni.
+
+## HARMADIK RÉSZ — A KÖZSZOLGÁLATI MÉDIASZOLGÁLTATÁS
+
+### I. Fejezet — A KÖZSZOLGÁLATI MÉDIASZOLGÁLTATÁS ALAPVETŐ ELVEI ÉS CÉLJAI
+
+### A közszolgálati médiaszolgáltatás alapvető elvei
+
+82. § A közszolgálati médiaszolgáltatás
+
+- a) az államtól és a gazdasági szereplőktől függetlenül működik, a közszolgálati médiaszolgáltató vezetői és a tevékenységében részt vevők – a jogszabályok nyújtotta keretek között – szakmai autonómiát élveznek,
+- b) rendszere biztosítja az elszámoltathatóságot és a társadalmi felügyelet megvalósulását,
+- c) működésének biztosítása elsősorban a Magyar Köztársaságban élők közös áldozatvállalásával, állami finanszírozás mellett történik,
+- d) tevékenysége nem irányulhat elsősorban nyereségszerzésre.
+
+### A közszolgálati médiaszolgáltatás céljai
+
+83. § (1) A közszolgálati médiaszolgáltatás célja:
+
+- a) a társadalmi és kulturális értelemben átfogó médiaszolgáltatás nyújtása, amely a lehető legtöbb társadalmi réteghez és kulturálisan elkülönülő csoporthoz, illetve egyénhez kíván szólni,
+- b) a nemzeti, a közösségi, az európai identitás, a kultúra és a magyar nyelv ápolása, gazdagítása,
+- c) a nemzeti összetartozás és a társadalmi integráció elősegítése, illetve megerősítése, valamint a házasság intézményének és a család értékének tiszteletben tartása,
+- d) az alkotmányos jogoknak, az alkotmányos rend alapértékeinek és a demokratikus társadalmi rend szabályainak megismertetése, támogatása,
+- e) nemzeti és etnikai kisebbségek, vallási közösségek valamint egyéb közösségek médiával szemben támasztott igényeinek kielégítése, kultúrájának bemutatása, a nemzeti és etnikai kisebbségek anyanyelvének ápolása,
+- f) az életkoruk, testi, szellemi vagy lelki állapotuk, társadalmi körülményeik következtében súlyosan hátrányos helyzetben lévő csoportoknak, valamint a fogyatékkal élőknek a médiaszolgáltatásokkal szemben támasztott sajátos igényeinek kielégítése,
+- g) a határon túli magyarság kulturális igényeinek szolgálata, nemzeti önazonosságuk és anyanyelvük megőrzésének elősegítése, az anyaországgal való szellemi kapcsolattartásuk lehetővé tétele,
+- h) a kiskorúak testi, lelki és erkölcsi fejlődését, érdeklődését szolgáló, ismereteit gazdagító műsorszámok, valamint a gyermekvédelem céljait szolgáló ismeretterjesztő, felvilágosító műsorszámok közzététele,
+- i) oktatási és ismeretterjesztő feladatok ellátása, az új tudományos eredmények bemutatása,
+- j) az egészséges életmódot, a környezetvédelmet, a természet- és tájvédelmet, a közbiztonságot, a közlekedésbiztonságot elősegítő ismeretek terjesztése,
+- k) Magyarország, illetve a Kárpát-medence különböző területeinek társadalmi, gazdasági, kulturális életét megjelenítő műsorszámok bemutatása,
+- l) Magyarország és a magyar kultúra, illetve a Magyarországon élő nemzeti és etnikai kisebbségek kultúrájának bemutatása Európa és a világ számára,
+- m) kiegyensúlyozott, pontos, alapos, tárgyilagos és felelős hírszolgáltatás, valamint tájékoztatás,
+- n) az egyes eltérő vélemények ütköztetése, a közösség ügyeivel kapcsolatos viták lefolytatása, a megbízható tájékoztatáson alapuló, szabad véleményalkotáshoz való hozzájárulás,
+- o) sokszínű, gazdag választékú, többféle értékrendet bemutató műsorok közzététele, színvonalas szórakoztatás, nagy érdeklődést kiváltó műsorszámok bemutatása,
+- p) a műsorfolyam minden elemében minőségi műsorkészítés megvalósulása, a médiapiaci versenyben való ésszerű és indokolt részvétel.
+
+(2) A közszolgálati médiaszolgáltatás törekszik:
+
+- a) a médiaszakmai innovációra, a szakmai színvonal folyamatos emelésére, a magas etikai mérce alkalmazására a médiaszolgáltatásban,
+- b) az új technológiák és műsorterjesztési módok bátor alkalmazására, kiemelt szerep vállalására az új digitális és internetes médiaszolgáltatások feltérképezésében és közérdeket szolgáló kihasználásában,
+- c) a tudatos médiahasználathoz szükséges ismeretek és képességek megszerzésének elősegítésére és fejlesztésére műsorszámainak segítségével, illetve a médiaszolgáltatáson kívüli egyéb tevékenységek által,
+- d) a magyar filmművészet támogatására és az új magyar filmalkotások bemutatására,
+- e) a közérdek szolgálatára a médiaszolgáltatáson kívüli egyéb tevékenységek által, mint például a könyvkiadás vagy a színházi eseményekben való tevékeny részvétel.
+
+(3) A közszolgálati médiaszolgáltató részt vesz a tevékenysége során birtokába került kulturális értékek és történelmi jelentőségű dokumentumok tartós megőrzésében, archívumban való elhelyezésében, szakszerű összegyűjtésében, gondozásában.
+
+### II. Fejezet — A KÖZSZOLGÁLATI KÖZALAPÍTVÁNY
+
+### Általános szabályok
+
+84. § (1) A közszolgálati média- és hírszolgáltatás biztosítására, függetlenségének védelmére az Országgyűlés létrehozza a Közszolgálati Közalapítványt (a továbbiakban: Közalapítvány). A Közalapítvány a Magyar Televízió Zártkörűen Működő Nonprofit Részvénytársaság, a Duna Televízió Zártkörűen Működő Nonprofit Részvénytársaság, a Magyar Rádió Zártkörűen Működő Nonprofit Részvénytársaság, valamint a Magyar Távirati Iroda Zártkörűen Működő Nonprofit Részvénytársaság (a továbbiakban együtt: közszolgálati médiaszolgáltatók) tulajdonosa.
+
+(2) A Közalapítvány induló vagyonát az Országgyűlés országgyűlési határozatban állapítja meg.
+
+(3) A Közalapítvány alapító okiratát az Országgyűlés a jelenlévő képviselők kétharmados szavazatával fogadja el, illetve módosíthatja. A Közalapítvány működésének és szervezetének e törvényben és az alapító okiratban nem szabályozott kérdéseit a Közalapítvány Szervezeti és Működési Szabályzatában kell meghatározni.
+
+(4) A Közalapítványra e törvény eltérő rendelkezése hiányában az alapítványokra vonatkozó általános szabályokat kell alkalmazni.
+
+### A Közszolgálati Közalapítvány Kuratóriuma
+
+85. § (1) A Közalapítvány kezelő szerve a Kuratórium.
+
+(2) A Kuratórium feladatait, tevékenységének kereteit – e törvénnyel összhangban – a Közalapítvány alapító okirata határozza meg.
+
+(3) A Kuratórium – e törvény és a Közalapítvány alapító okiratának keretei között – megalkotja és elfogadja ügyrendjét, valamint a Közalapítvány Szervezeti és Működési Szabályzatát. Az ügyrend tartalmazza az elnök helyettesítésére vonatkozó szabályokat.
+
+(4) A Kuratórium tevékenységét a Kuratórium irodája (a továbbiakban: iroda) támogatja. A Kuratórium ügyintéző, ügykezelő és ügyviteli teendőit az iroda látja el. A Kuratórium és a Kuratórium tagjai – az irodán keresztül – jogosultak szakértői segítség igénybevételére. A szakértők igénybevételének és az iroda működésének feltételeiről a Közalapítvány Szervezeti és Működési Szabályzatában kell rendelkezni.
+
+### A Kuratórium összetétele
+
+86. § (1) Az Országgyűlés a Kuratóriumba egyenkénti szavazással a jelenlevő képviselők kétharmadának szavazatával hat tagot választ.
+
+(2) Az Országgyűlés által a Kuratóriumba választható tagok felét a kormánypárti, másik felét az ellenzéki képviselőcsoportok jelölik. A kormány-, illetve az ellenzéki oldalhoz tartozó képviselőcsoportok egymás között állapodnak meg az adott oldal által jelölhető személyekről.
+
+(3) A jelöltekre a javaslatot a választásra irányuló eljárás megkezdését követő nyolc napon belül kell megtenni. A választást a jelöltállítástól számított nyolc napon belül meg kell tartani.
+
+(4) Ha valamelyik képviselőcsoport a jelölésben nem vesz részt, az adott oldal más képviselőcsoportjai élhetnek az adott oldalt megillető jelölési joggal.
+
+(5) A meg nem választott jelölt helyére nyolc napon belül új jelöltet kell állítani, és az új választást újabb nyolc napon belül meg kell tartani. Nem jelölhető újra az a személy, aki az előző választás során nem kapta meg az összes képviselő szavazatainak legalább egyharmadát.
+
+(6) A Kuratórium elnökét és egy további tagját a Médiatanács delegálja kilenc évre.
+
+(7) A Kuratórium akkor tekintendő megalakultnak, amikor tagjait megválasztják és az elnökét, valamint egy további tagját a Médiatanács delegálja. A Kuratórium tagja hivatalba lépése alkalmával az Országgyűlés elnöke előtt a 2. számú melléklet szerinti esküt tesz.
+
+(8) Nem akadálya a Kuratórium megalakulásának, ha akár a kormánypárti, akár az ellenzéki oldal nem állít jelöltet, vagy ha nem minden jelölt, illetve az (5) bekezdés alkalmazása során az új jelölt nem kapja meg a szükséges többséget. Ebben az esetben legalább három tag megválasztásával a Kuratórium megalakul.
+
+(9) A Kuratórium – ha nem a teljes létszámmal alakult meg – a teljes létszámig kiegészíthető a 87. §-ban foglaltak szerint.
+
+(10) A Kuratórium tagjait az Országgyűlés kilencévi időtartamra választja. A választott és a delegált tagok mandátuma azonos időpontban, előbbiek Országgyűlés általi megválasztásának napjától számított kilenc év eltelte után jár le.
+
+87. § (1) Ha a 86. § (10) bekezdés szerinti időtartam lejárta előtt valamelyik választott tag megbízatása megszűnik, akkor az új tag jelölése és megválasztása a (2)–(7) bekezdésben foglaltak szerint történik.
+
+(2) Ha az új tag jelölése azonos országgyűlési ciklus idején történik, mint a Kuratórium tagjainak megválasztása, vagy ha ezen országgyűlési ciklust követő országgyűlési választások után a kormányoldali és az ellenzéki oldali képviselőcsoportok tekintetében változás nem történt, akkor a jelölésre a 86. § (2)–(4) bekezdés rendelkezéseit kell alkalmazni úgy, hogy annak a – kormány-, illetve ellenzéki – oldalnak van jelölési joga, amelyik oldal jelölése alapján megválasztott, majd megszűnt megbízatású tag pótlására történik a jelölés.
+
+(3) Ha az új tag jelölése azon országgyűlési ciklus után történik, amelynek ideje alatt a Kuratórium tagjait megválasztották, akkor – feltéve, hogy a Kuratórium megválasztásának országgyűlési ciklusát követő országgyűlési választások után a kormány- és az ellenzéki oldali képviselőcsoportok tekintetében változás következett be – az országgyűlési képviselőcsoportok egy-egy tagjából álló jelölőbizottság a jelölőbizottság felállítását követő tizenöt napon belül egyhangú szavazással tesz javaslatot a jelöltre.
+
+(4) Ha a jelölőbizottság a (3) bekezdésben meghatározott határidőn belül nem tud jelöltet állítani, a jelölőbizottság újabb nyolc napon belül a szavazati mérték legalább kétharmadával javasolhat jelöltet. A jelölőbizottság tagjai ennek során a szavazásuk időpontjában az őket jelölő országgyűlési képviselőcsoport létszámának megfelelő mértékű szavazattal rendelkeznek.
+
+(5) A (3)–(4) bekezdés szerinti jelöltállítás során a kormány- és az ellenzéki oldalon bekövetkezett változásokra – a parlamenti képviselőcsoportok valamely oldalhoz tartozásának megváltozására, új képviselőcsoport alakulására, megszűnésére – a jelölőbizottságnak tekintettel kell lennie.
+
+(6) Ha a jelölőbizottság a (4) bekezdés szerinti esetben sem tud kellő számú jelöltet állítani, új jelölőbizottságot kell felállítani.
+
+(7) Az eredményes jelölést követően az új tagot az Országgyűlés a jelenlevő képviselők kétharmadának szavazatával választja meg a már működő megválasztott Kuratórium tagjai mandátumának lejártáig terjedő időszakra. A Kuratórium új tagja hivatalba lépése alkalmával az Országgyűlés elnöke előtt a 2. számú melléklet szerinti esküt tesz.
+
+(8) Amennyiben a Kuratórium elnökének vagy a Médiatanács által delegált tagjának szűnik meg a mandátuma annak lejárta előtt, a Médiatanács tizenöt napon belül új elnököt, illetve tagot delegál a Kuratórium tagjai mandátumának lejártáig terjedő időszakra.
+
+88. § (1) A Kuratórium elnökére és tagjaira a Hatóság elnökére, elnökhelyettesére, főigazgatójára és főigazgató-helyettesére vonatkozó, a 118. § (1)–(2) bekezdésben foglalt összeférhetetlenségi, illetve a 118. § (3) bekezdésben foglalt szabályokat megfelelően alkalmazni kell.
+
+(2) A Kuratórium elnöke és tagjai a Közalapítvánnyal nem állhatnak munkaviszonyban, és semmilyen jogcímen nem fogadhatnak el díjazást az általuk felügyelt közszolgálati médiaszolgáltatóktól.
+
+(3) A Kuratórium elnöke és tagjai a megbízatásuk megszűnését követő egy éven belül nem létesíthetnek munkavégzésre irányuló jogviszonyt közszolgálati médiaszolgáltatóval.
+
+(4) Ha a Kuratórium elnöke vagy tagja a 89. § (4) bekezdésben meghatározott felhívásra igazolási kötelezettségének önhibájából nem tesz eleget, illetve ha a Kuratórium elnökével vagy tagjával szemben összeférhetetlenségi ok merül fel és az ok keletkezésétől, illetve az összeférhetetlenséget megállapító ülés időpontjától számított harminc napon belül az összeférhetetlenségi ok megszüntetése nem történik meg, a Kuratórium teljes ülése határozatban megállapítja, hogy az elnök vagy a tag kuratóriumi tagsága megszűnt. A Kuratórium elnöke, illetőleg tagja az összeférhetetlenséget megállapító határozat meghozatalának időpontjától a tisztségéből eredő jogkörét nem gyakorolhatja.
+
+(5) Felmentéssel szűnik meg a megbízatás, ha a Kuratórium elnökét vagy tagját cselekvőképességét érintő gondnokság alá helyezték.
+
+(6) Kizárással szűnik meg a megbízatás,
+
+- a) ha a Kuratórium elnöke vagy tagja neki felróható okból több mint hat hónapon át nem tesz eleget megbízatásából eredő feladatainak, vagy
+- b) ha a Kuratórium elnökével vagy tagjával szemben lefolytatott büntetőeljárás eredményeként az elnök vagy a tag bűnösségét a bíróság – szabadságvesztést, a kuratóriumi tevékenységnek megfelelő foglalkozástól való eltiltást, vagy közügyektől való eltiltást tartalmazó – jogerős ítélete állapította meg.
+
+(7) A Kuratórium elnökének vagy tagjának megbízatása halálával megszűnik.
+
+89. § (1) A Kuratórium elnöke vagy tagja megbízatásának összeférhetetlenség, felmentés vagy kizárás miatti megszűnését a Kuratórium teljes ülése állapítja meg, és hirdeti ki.
+
+(2) Ha a Kuratórium teljes ülése összeférhetetlenségről, felmentésről vagy kizárásról dönt, az érintett elnök vagy tag a szavazásban nem vehet részt, ilyen ügyekben a szavazásra jogosultak egyhangú határozata szükséges. Ha az említett kérdésekről megismételt szavazás esetén egyhangú döntés nem születik, a Kuratórium elnöke kezdeményezi e tárgyban az Országgyűlésnek döntését. Ebben az esetben az összeférhetetlenségről, a felmentésről vagy a kizárásról az Országgyűlés a jelenlévő képviselők kétharmadának szavazatával dönt.
+
+(3) Amennyiben az összeférhetetlenség gyanúja a Kuratórium elnökével szemben merült fel, az (5)–(6) bekezdés szerinti eljárásokban az elnök jogkörében a Kuratórium ügyrendje szerint meghatározott tag jár el.
+
+(4) Ha arra utaló adat merül fel, hogy a Kuratórium tagjával szemben a 88. § (6) bekezdés b) pontban meghatározott jogkövetkezmény alkalmazásának van helye, a Kuratórium elnöke írásban, határidő megjelölésével, valamint a mulasztás jogkövetkezményeinek ismertetésével felhívja a Kuratórium tagját annak igazolására, hogy büntetlen előéletű, és nem áll kuratóriumi tevékenységének megfelelő foglalkozástól való, vagy közügyektől való eltiltás hatálya alatt.
+
+(5) A Kuratórium elnöke a Kuratórium tagjának a (4) bekezdés alapján megismert személyes adatait a Kuratórium tagja megbízatásának megszűnéséig kezeli.
+
+(6) A Kuratórium elnöke tekintetében a (4)–(5) bekezdésben meghatározottakat kell alkalmazni azzal az eltéréssel, hogy a (4) bekezdésben meghatározott igazolási kötelezettséget a Kuratórium elnöke a Kuratórium részére teljesíti, és az (5) bekezdésben meghatározott jogosultságot a Kuratórium gyakorolja. A Kuratórium e bekezdésben meghatározott hatáskörének gyakorlásában a Kuratórium elnöke nem vesz részt.
+
+### A Kuratórium feladatai és hatáskörei
+
+90. § (1) A Kuratórium:
+
+- a) ellenőrzi a közszolgálati médiaszolgáltatás céljainak a közszolgálati médiaszolgáltatók tevékenysége általi megvalósulását,
+- b) amennyiben valamely közszolgálati médiaszolgáltató megítélése szerint a közszolgálati médiaszolgáltatás céljainak elérését súlyosan sértő vagy veszélyeztető magatartást tanúsít, a Médiatanács eljárását kezdeményezheti,
+- c) védelmezi a közszolgálati médiaszolgáltató függetlenségét,
+- d) megállapítja és módosítja a közszolgálati médiaszolgáltatók alapító okiratát, gondoskodik annak a Magyar Közlönyben történő közzétételéről,
+- e) megválasztja a közszolgálati médiaszolgáltatók vezérigazgatóit, megállapítja munkaszerződésük feltételeit és díjazásukat,
+- f) megszüntetheti a közszolgálati médiaszolgáltatók vezérigazgatóinak munkaviszonyát,
+- g) megválasztja a közszolgálati médiaszolgáltatók közös felügyelő bizottságának elnökét és tagjait, illetve visszahívhatja azokat,
+- h) megbízza a közszolgálati médiaszolgáltatók könyvvizsgálóját, illetve megszüntetheti megbízatását. A könyvvizsgáló feladatát, jog- és hatáskörét a gazdasági társaságokról szóló, illetve a számvitelről szóló törvény keretei között a Kuratórium a közszolgálati médiaszolgáltató alapító okiratában határozza meg,
+- i) elfogadja a Közalapítvány éves gazdálkodási tervét és megállapítja mérlegét,
+- j) a közszolgálati médiaszolgáltatók vonatkozásában a gazdasági társaságokról szóló törvény alapján – az e törvényben foglalt eltérésekkel – gyakorolja a közgyűlés jogait,
+- k) a Közalapítvány kezelőjeként gazdálkodik a Közalapítvány vagyonával,
+- l) felemelheti a közszolgálati médiaszolgáltatók alaptőkéjét, illetve leszállíthatja azt a Közalapítvány alapító okiratában szabályozottak szerint,
+- m) jóváhagyja a közszolgálati médiaszolgáltatók éves gazdálkodási és pénzügyi terveinek elveit és fő összegeit,
+- n) jóváhagyja a közszolgálati médiaszolgáltatók mérleg- és eredmény-kimutatását,
+- o) ellenőrzi a közszolgálati médiaszolgáltatók finanszírozását és gazdálkodását az Európai Unió vonatkozó előírásainak való megfelelés szempontjából,
+- p) megadhatja a közszolgálati médiaszolgáltatók által megkötni kívánt, háromszázmillió forintnál magasabb értékű szerződésekhez szükséges előzetes tárgyalási felhatalmazást,
+- q) megadhatja a közszolgálati médiaszolgáltatók hitelfelvételéhez, illetve az általuk megkötni kívánt, százmillió forintnál nagyobb értékű szerződések megkötéséhez szükséges, illetve az így megkötött szerződések módosításához, valamint megszüntetéséhez szükséges előzetes jóváhagyást,
+- r) egyéb, e törvényben meghatározott feladatokat lát el.
+
+(2) Az (1) bekezdés p)–q) pontjának alkalmazása során ugyanazon naptári éven belül ugyanazzal a szerződő féllel kötött szerződésekben foglalt, a közszolgálati médiaszolgáltatót terhelő szolgáltatások értékét – tárgyuktól függetlenül – egybe kell számítani.
+
+91. § (1) A Közalapítvány gyakorolja a közszolgálati médiaszolgáltatók vonatkozásában a gazdasági társaságokról szóló törvényben meghatározott alapítói, illetve részvényesi jogokat. Nem jogosult azonban:
+
+- a) megváltoztatni a közszolgálati médiaszolgáltatók alapvető tevékenységi körét,
+- b) a közszolgálati médiaszolgáltatókat megszüntetni, egyesíteni, szétválasztani vagy más szervezeti formába átalakítani,
+- c) a közszolgálati médiaszolgáltatóktól vagyont elvonni,
+- d) a tartalomszolgáltatási terv elfogadásán túl a közszolgálati médiaszolgáltató műsorszerkezetét, továbbá műsorainak, szolgáltatásainak, illetve műsorszámainak tartalmát meghatározni,
+- e) közszolgálati médiaszolgáltató vezérigazgatójának az általa gyakorolt munkáltatói jogkörökre nézve utasítást adni,
+- f) olyan kérdésben dönteni, amely e törvény alapján más szerv vagy közszolgálati médiaszolgáltató vezérigazgatójának hatáskörébe tartozik.
+
+(2) A Közalapítvány Kuratóriuma nem bővítheti a 90. §-ban foglalt hatásköreit, még a gazdasági társaságokról szóló törvényben meghatározott – a 90. §-ban nem szereplő – alapítói jogkörökkel sem.
+
+### A Kuratórium működése
+
+92. § (1) A Kuratórium a feladatai ellátásához szükséges gyakorisággal, de legalább havonta ülésezik. Közgyűlési ügyeket érintő napirendi pontokhoz az érintett közszolgálati médiaszolgáltató vezérigazgatóját meg kell hívni. A Kuratórium elnöke köteles a Kuratórium rendkívüli ülését a Kuratórium tagjai többségének a napirend megjelölésével előterjesztett kérésére nyolc napon belüli időpontra összehívni. Ennek elmulasztása esetén a kezdeményezők együttesen jogosultak a rendkívüli ülés összehívására.
+
+(2) A Kuratórium tagjainak – ideértve a Kuratórium elnökét is – a szavazati joga egyenlő. Szavazategyenlőség esetén az elnök szavazata dönt.
+
+(3) A Kuratórium akkor határozatképes, ha a tagjainak több mint fele jelen van.
+
+(4) A Kuratórium a határozatait a tagok és az elnök szavazatának egyszerű többségével hozza meg, kivéve, ahol a törvény máshogy rendelkezik.
+
+(5) Az ülés napirendjét a Kuratórium elnöke állítja össze, és vezeti az ülést. A napirendre bármely tag előzetesen, írásban javaslatot tehet, amelynek napirendre vételéről az ülés határoz.
+
+### A Kuratórium elnökének és tagjainak a díjazása
+
+93. § A Kuratórium elnökét az államtitkári illetmény hatvanöt százalékának, a Kuratórium tagját az államtitkári illetmény negyven százalékának megfelelő mértékű tiszteletdíj illeti meg, továbbá – legfeljebb tiszteletdíjuk ötven százalékáig – költségtérítésre tarthatnak igényt. A költségtérítés mértékére vonatkozó további szabályokat a Közalapítvány Szervezeti és Működési Szabályzata állapítja meg.
+
+### A Közalapítvány gazdálkodása
+
+94. § (1) A Közalapítvány bevételeit képezik:
+
+- a) az Alaptól a működéshez kapott támogatás,
+- b) a Közalapítvány vagyonának hozadéka,
+- c) a Közalapítvány által kezelt vagyon hasznosításából származó bevétel,
+- d) az egyéb alapítványi célú bevételek (állami költségvetési támogatás, céltámogatás, alapítványi befizetések).
+
+(2) A Közalapítvány kiadásait képezik:
+
+- a) a közszolgálati médiaszolgáltatók működési és fejlesztési költségeihez való hozzájárulás,
+- b) a Közalapítvány saját költségei, kiadásai.
+
+(3) A Közalapítvány üzletszerű gazdasági tevékenységet nem végezhet, más gazdasági társaságot nem alapíthat, más működő gazdasági társaságban részesedést nem szerezhet, alapítvány létrehozására nem jogosult.
+
+(4) A Közalapítvány gazdálkodását az Állami Számvevőszék ellenőrzi.
+
+### III. Fejezet — A KÖZSZOLGÁLATI KÓDEX ÉS A KÖZSZOLGÁLATI TESTÜLET
+
+### A Közszolgálati Kódex
+
+95. § (1) A Közszolgálati Kódex (a továbbiakban: Kódex) – e törvénnyel összhangban – tartalmazza a közszolgálati médiaszolgáltatásra vonatkozó alapvető elveket és az e törvényben meghatározott közszolgálati célok pontosítását. A Kódexnek általános, és az egyes közszolgálati médiaszolgáltatókra külön-külön vonatkozó tartalma is lehet. A Kódex alapvető rendeltetése, hogy a közszolgálati médiaszolgáltatók számára iránymutatást adjon a törvény keretei között a közszolgálati médiaszolgáltatás megfelelő működési elveire vonatkozóan.
+
+(2) A Kódexet első ízben a Médiatanács fogadja el, a Kuratórium egyetértése mellett és a közszolgálati médiaszolgáltatók vezérigazgatóinak véleményét figyelembe véve.
+
+(3) A Közszolgálati Testület – a (2) bekezdés szerinti első elfogadást követően – a Kuratórium egyetértése mellett módosíthatja a Kódexet. A módosítást a Közszolgálati Testületen kívül a Kuratórium és a közszolgálati médiaszolgáltatók vezérigazgatója kezdeményezheti.
+
+(4) A Kódex megalkotásához és módosításához a Médiatanács mellett működő Médiatudományi Intézet szakmai támogatást nyújt.
+
+(5) A Kódex szabályainak érvényesülését a Közszolgálati Testület felügyeli.
+
+96. § A Kódexben egyebek mellett szabályozni lehet:
+
+- a) a közszolgálati médiaszolgáltatás törvényi céljai elérésének eszközeit, módját,
+- b) a pártoktól, politikai szervezetektől való függetlenség alapvető elveit,
+- c) a hírek, időszerű politikai műsorok sokoldalúságának, tárgyilagosságának és kiegyensúlyozottságának, a vitatott kérdések ismertetésének, a vélemények, nézetek sokféleségének bemutatására vonatkozó elveket,
+- d) az anyanyelvi kultúra ápolásának szempontjait,
+- e) a magyarországi nemzeti és etnikai kisebbségek kultúrája, élete bemutatása rendjének elveit,
+- f) a kulturális, tudományos, világnézeti és vallási sokszínűség bemutatásának elveit,
+- g) a kiskorúak védelmével kapcsolatos feladatok ellátásának elveit,
+- h) a kereskedelmi közlemények közzétételére, a reklámtevékenységre, a műsorszámok támogatására vonatkozó etikai normák elveit,
+- i) a közérdekű közlemények közzétételének elveit,
+- j) a közszolgálati médiaszolgáltatónál alkalmazott műsorkészítők önállóságának és felelősségének mértékére és biztosítékaira, a műsorkészítés és a műsorszerkesztés elveinek meghatározásában való részvételük biztosítékaira vonatkozó elveket,
+- k) a magyar nemzet határon túl élő tagjai megfelelő tájékoztatásának, illetve a róluk való megfelelő tájékoztatás elveit,
+- l) a munkatársakra vonatkozó – e törvényen túli – alapvető etikai szabályok kialakításának elveit, különös tekintettel a hír- és politikai tájékoztató műsorszámokban foglalkoztatottakra.
+
+### A Közszolgálati Testület
+
+97. § (1) A Közszolgálati Testület tizennégy tagú, elnökét soraiból tagjai választják, döntéseit, ha e törvény másként nem rendelkezik, egyszerű többséggel hozza. Szavazategyenlőség esetén az elnök szavazata dönt.
+
+(2) A Közszolgálati Testület tagjait az e törvény 1. számú mellékletében meghatározott jelölő szervezetek delegálják három évre, a mellékletben meghatározott módon. A tagok többször is delegálhatók. Nem akadálya a Közszolgálati Testület működésének, ha valamelyik szervezet nem él delegálási jogával.
+
+(3) A Közszolgálati Testület tagjait legalább harminc nappal a korábbi tagok mandátumának lejártát megelőzően delegálni kell.
+
+(4) A Közszolgálati Testület titkársági feladatait a Közalapítvány irodája látja el.
+
+(5) A Közszolgálati Testület elnökét az államtitkári illetmény negyven százalékának, tagját az államtitkári illetmény huszonöt százalékának megfelelő mértékű tiszteletdíj illeti meg. Az elnök és a tagok ezen felül utazási költségeik megtérítésére tarthatnak igényt.
+
+(6) A Közszolgálati Testület a társadalmi felügyeletet biztosítja a közszolgálati médiaszolgáltatók felett.
+
+(7) A Közszolgálati Testület a közszolgálatiság érvényesülését folyamatosan figyelemmel kíséri, és a (8)–(13) bekezdés szerint ellenőrzést gyakorol a közszolgálati médiaszolgáltatók felett e törvényben foglaltak végrehajtása vonatkozásában.
+
+(8) A közszolgálati médiaszolgáltatók vezérigazgatói évente egyszer, a mindenkori naptári évet követően, a következő év február 28-ig beszámolót készítenek arról, hogy – saját értékelésük szerint – az általuk vezetett médiaszolgáltató eleget tett-e e törvényben megfogalmazott, a közszolgálati médiaszolgáltatás céljaira és alapvető elveire vonatkozó elvárásoknak.
+
+(9) A Közszolgálati Testület megvitatja a beszámolót, és annak elfogadásáról egyszerű többséggel dönt.
+
+(10) Ha a Közszolgálati Testület – a vezérigazgató a Testület előtti személyes meghallgatása után – nem fogadja el a beszámolót, akkor mérlegelheti a vezérigazgató munkaviszonyának megszüntetéséről szóló javaslat előterjesztését a Kuratóriumnak. E javaslat elfogadásához a Közszolgálati Testület tagjainak kétharmados többsége szükséges.
+
+(11) A Kuratórium köteles nyolc napon belül napirendjére tűzni és megvitatni a vezérigazgató munkaviszonyának megszüntetésére vonatkozó javaslatot. A Kuratórium ülésére meg kell hívni a vezérigazgatót és a Közszolgálati Testület elnökét.
+
+(12) A Kuratórium a munkaviszony megszüntetésére vonatkozó javaslatról a jelenlevő tagok egyszerű többségével határoz. A határozatot indokolni kell.
+
+(13) Ha a javaslat ellenére a Kuratórium nem szünteti meg a vezérigazgató munkaviszonyát, akkor ezt követően a vezérigazgató újbóli meghallgatását a Közszolgálati Testület három hónap múlva köteles napirendjére tűzni.
+
+(14) Ha a vezérigazgató munkaviszonya azért szűnt meg, mert a közszolgálati célok és elvek érvényesülését nem biztosította, akkor tíz évig nem jelölhető újra közszolgálati médiaszolgáltató vezérigazgatói megbízatására.
+
+### IV. Fejezet — A KÖZSZOLGÁLATI MÉDIASZOLGÁLTATÓK
+
+### Általános szabályok
+
+98. § (1) A közszolgálati médiaszolgáltatók feladata a közszolgálati médiaszolgáltatás 83. §-ban meghatározott céljainak megvalósítása. E feladatuknak a közszolgálati médiaszolgáltatók együttesen, tevékenységüket lehetőség szerint – autonómiájuk megőrzése mellett – összehangolva tesznek eleget.
+
+(2) A közszolgálati médiaszolgáltatókra e törvényben foglalt eltérésekkel a gazdasági társaságokról szóló törvénynek a részvénytársaságokra vonatkozó szabályait kell megfelelően alkalmazni, ideértve a gazdasági társaságok közös szabályait is.
+
+(3) A közszolgálati médiaszolgáltatóknak egy-egy forgalomképtelen részvénye van.
+
+### Nemzeti és etnikai kisebbségek megjelenése a közszolgálati médiaszolgáltatásban
+
+99. § (1) Valamennyi, a Magyar Köztársaság által elismert nemzeti és etnikai kisebbség jogosult kultúrájának és anyanyelvének ápolására, az anyanyelvén való rendszeres tájékoztatásra a közszolgálati médiaszolgáltatásban közzétett önálló műsorszámok közzététele útján.
+
+(2) Az (1) bekezdésben meghatározott feladatot a közszolgálati médiaszolgáltató országos, illetve – a nemzeti vagy etnikai kisebbség földrajzi elhelyezkedésének figyelembevételével – helyi médiaszolgáltatásban, a nemzeti vagy etnikai kisebbség igényeinek megfelelő műsorszámokkal, audiovizuális médiaszolgáltatásban szükség szerint feliratozással vagy többnyelvű közzététellel teljesíti.
+
+(3) A nemzeti és etnikai kisebbségek országos önkormányzatai – ennek hiányában országos szervezetei – a közszolgálati médiaszolgáltatónál rendelkezésükre álló műsoridő felhasználásának elveit önállóan határozzák meg. Ezen elveket – melyek nem érinthetik a műsorszám tartalmát és a műsorszerkesztést – a közszolgálati médiaszolgáltató köteles figyelembe venni.
+
+### A közszolgálati médiavagyon és a közszolgálati médiaszolgáltatók archívuma
+
+100. § (1) A közszolgálati médiavagyon tulajdonosi jogainak és kötelezettségeinek összességét – a (2) bekezdésben foglalt kivételekkel – az Alap gyakorolja.
+
+(2) Az Alap a közszolgálati médiavagyont sem részben, sem egészben nem idegenítheti el, nem ruházhatja át és nem terhelheti meg. E tilalom nem akadályozza a közszolgálati médiavagyon egyes elemein fennálló szerzői, illetve felhasználási jogok hasznosítását.
+
+(3) Az Alap gondoskodik a közszolgálati médiavagyon, valamint a közszolgálati médiaszolgáltatók és az Alap tulajdonába került, a közszolgálati médiavagyon körébe nem tartozó, a szerzői jogi törvény hatálya alá tartozó műveket és más teljesítményeket tartalmazó fizikai hordozók (a továbbiakban együtt: Archívum) tárolásáról, megőrzéséről és felhasználásáról. Az Archívum országos gyűjtőkörű közgyűjteménynek minősül.
+
+(4) Az archiválás és az Archívum megőrzésének, kezelésének, felhasználásának részletes szabályait az Alap elnöke a Médiatanács egyetértésével, szabályzatban állapítja meg.
+
+(5) Az Alap az Archívumban található műveket a szerzői jogról szóló törvényben foglaltak, valamint a szerzői jogi és szomszédos jogi jogosultakkal kötött megállapodás szerint használhatja fel.
+
+(6) Az Alap a közszolgálati médiaszolgáltatókkal a közszolgálati médiavagyon felhasználására vonatkozóan vagyonkezelési megállapodást köt. E megállapodás alapján a közszolgálati médiaszolgáltatók a közszolgálati médiavagyon általuk kezelt elemeire vonatkozóan ingyenes felhasználási jogot szereznek, amely magában foglalja a közszolgálati médiaszolgáltatásban való nyilvánossághoz közvetítés jogát is.
+
+(7) Az Archívumban található, a közszolgálati médiavagyonba nem tartozó szerzői műveket és más szellemi alkotásokat a közszolgálati médiaszolgáltatók a szerzői jogról szóló törvény, valamint a szerzői jogi és szomszédos jogi jogosultakkal kötött megállapodás keretei között használhatják fel. Az Alap a közszolgálati médiaszolgáltatók számára külön engedély- és díjfizetési kötelezettség nélkül jogosult nyilvánossághoz közvetítés céljára átadni a közszolgálati médiavagyonba tartozó műveket, valamint azon szerzői alkotásokat és egyéb szellemi alkotásokat, amelyek nem tartoznak a közszolgálati médiavagyonba, de amelyekre nézve az Alap felhasználási joggal rendelkezik.
+
+(8) Ha az Archívumban található valamely szerzői műről nem dönthető el, hogy a közszolgálati médiavagyonba tartozik-e, a közszolgálati médiaszolgáltatásban történő bemutatása esetén a bemutatást követően fellépő szerzői vagy szomszédos jogi jogosult a további felhasználást megtilthatja. A már megtörtént felhasználás után a fellépő jogosultat a médiaszolgáltató részéről megfelelő díjazás illeti meg. Vita esetén a díj összegét a bíróság állapítja meg.
+
+(9) A közszolgálati médiavagyonba tartozó művek esetleges – az Alapon kívüli – szerzői jogi jogosultjait is megfelelő díjazás illeti meg. Vita esetén a díj összegét a bíróság állapítja meg.
+
+(10) Eltérő megállapodás vagy a (6) bekezdésben foglalt vagyonkezelési szerződés eltérő rendelkezése hiányában a közszolgálati médiaszolgáltatóknak a közszolgálati médiavagyon általuk kezelt elemeire vonatkozó felhasználási jogszerzésére, valamint a közszolgálati médiavagyon egyes elemeinek közszolgálati médiaszolgáltatók közötti ingyenes átadására a szerzői jogról szóló 1999. évi LXXVI. törvény 30. §-ának (3) és (4) bekezdésében foglaltakat nem kell alkalmazni.
+
+### A nemzeti hírügynökség különleges feladatai
+
+101. § (1) A Magyar Távirati Iroda Zártkörűen Működő Nonprofit Részvénytársaság, mint nemzeti hírügynökség a 83. §-ban meghatározott célok elérésének feladatán túl az alábbi közszolgálati feladatokat látja el:
+
+- a) a közérdeklődésre számot tartó hazai és külföldi eseményekről híreket, tudósításokat, fényképeket, adathordozókat, háttéranyagokat, grafikákat, dokumentációs adatokat szolgáltat,
+- b) biztosítja a hozzáférhetőséget minden olyan hírhez és tudósításhoz, amelynek ismerete szükséges a nyilvánosság számára a közösségi és az egyéni jogok és érdekek megfelelő érvényesítéséhez,
+- c) közreműködik az állami szervek, más szervezetek és természetes személyek közérdekű közleményeinek a nyomtatott és az elektronikus sajtóhoz történő továbbításában,
+- d) rendszeres és tényszerű tájékoztatást nyújt az Országgyűlésben képviselettel rendelkező pártok, más pártok, jelentős civil szervezetek tevékenységéről, és a Kormány, a közigazgatási szervek, önkormányzatok, bíróságok, ügyészségek tevékenységéről, az ezzel összefüggő hivatalos közleményeket nyilvánosságra hozza,
+- e) rendszeres és tényszerű tájékoztatást nyújt külföldre a legfontosabb magyarországi eseményekről és az ország életének főbb folyamatairól,
+- f) rendszeresen és tényszerűen tájékoztat a Magyar Köztársaság határain kívül élő magyarság életéről, illetve számára hírszolgáltatást nyújt,
+- g) rendszeres és tényszerű tájékoztatást nyújt a hazai nemzeti és etnikai kisebbségek életéről,
+- h) választási időszakban külön törvényben meghatározottak szerint gondoskodik a tájékoztatásról,
+- i) rendkívüli állapot, illetve szükségállapot idején külön törvényben meghatározott feladatokat végez,
+- j) gondoskodik a tevékenysége során birtokába került kulturális értékek és történelmi jelentőségű eredeti dokumentumok tartós megőrzéséről és védelméről,
+- k) részt vesz a nemzetközi hírügynökségi szervezetek munkájában.
+
+(2) A nemzeti hírügynökség közszolgálati feladatainak ellátása érdekében
+
+- a) az ország minden megyéjére és a fővárosra kiterjedő,
+- b) a Kárpát-medence magyarlakta területeire kiterjedő,
+- c) az ország nemzetközi kapcsolatrendszerének és érdekeinek megfelelő külföldi tudósítói hálózatot működtet.
+
+(3) Rendkívüli állapot, szükségállapot, veszélyhelyzet, külső fegyveres csoportoknak Magyarország területére történő váratlan betörése, továbbá az ország területének a Magyar Honvédség légvédelmi és repülő készültségi erőivel való oltalmazása esetén az Országgyűlés, a Honvédelmi Tanács, a köztársasági elnök és a Kormány, illetőleg törvényben meghatározott személyek és szervek – a helyzetnek megfelelő szükséges mértékben – a 32. § (6) bekezdés szerint kötelezhetik a nemzeti hírügynökséget a tájékoztatásra.
+
+(4) A nemzeti hírügynökség a többi közszolgálati médiaszolgáltató számára kizárólagos joggal hírműsorokat gyárt, továbbá működteti a közszolgálati médiaszolgáltatók egységes hírportálját, a közszolgálati médiaszolgáltatók más internetes sajtótermékeit, továbbá az internetről elérhető, lekérhető médiaszolgáltatásait.
+
+### A közszolgálati médiaszolgáltatók vezérigazgatóinak választása
+
+102. § (1) A közszolgálati médiaszolgáltatók ügyvezetését a vezérigazgató látja el, igazgatóság nem működik. A vezérigazgató – e törvény keretei között – gyakorolja mindazon hatásköröket, amelyeket a gazdasági társaságokról szóló törvény a részvénytársaság igazgatóságának hatáskörébe utal. A vezérigazgatóval munkaszerződést kell kötni, díjazását az általa vezetett közszolgálati médiaszolgáltató terhére meghatározott havi összegben kell megállapítani.
+
+(2) A közszolgálati médiaszolgáltatók vezérigazgatói feletti munkáltatói jogkört – beleértve a vezérigazgatók kinevezését és munkaviszonyuk megszüntetését – a Kuratórium gyakorolja. A vezérigazgatók jelölése és kinevezése a következő lépések szerinti sorrendben történik:
+
+- a) a Médiatanács elnöke valamennyi közszolgálati médiaszolgáltató esetében két vezérigazgató-jelöltre tesz javaslatot a Médiatanácsnak,
+- b) ha a Médiatanács elfogadja a jelölteket, azokat a Kuratórium elé terjeszti, hogy válasszon egyet a jelöltek közül,
+- c) ha a Médiatanács nem fogadja el a Médiatanács elnöke által javasolt valamelyik jelöltet, akkor a Médiatanács elnöke új jelöltre tesz javaslatot; a Médiatanács csak akkor tehet javaslatot a Kuratóriumnak, ha maga két jelöltet elfogadott,
+- d) a Médiatanács javaslatot tehet a vezérigazgató munkaszerződésének egyes tartalmi elemeire is,
+- e) az első szavazási körben a Kuratórium összes tagjának – ideértve az elnököt is – kétharmados többségével dönt a vezérigazgató kinevezéséről,
+- f) ha a két jelöltből a Médiatanács jelölésétől számított harminc napon belül nem tud kétharmados többséggel választani a Kuratórium, akkor új jelölési eljárást kell lefolytatni,
+- g) az új jelölés során közszolgálati médiaszolgáltatónként két új jelöltre kell javaslatot tenni,
+- h) az új jelölést követő szavazás során a Kuratórium összes tagjának – ideértve az elnököt is – egyszerű többségével dönt a vezérigazgató kinevezéséről.
+
+(3) A Kuratórium a vezérigazgató kinevezéséről és munkaszerződése – a Médiatanács javaslatának figyelembevételével megalkotott – tartalmáról szavazással dönt. A vezérigazgató munkaszerződése határozatlan időtartamra köthető meg. Amennyiben a megválasztott vezérigazgató nem fogadja el a munkaszerződés-tervezet Kuratórium által meghatározott feltételeit, a módosított feltételeket tartalmazó munkaszerződésről a Kuratórium újra szavaz. Amennyiben a munkaszerződés feltételeiben nincsen megegyezés, úgy új vezérigazgatót kell választani.
+
+(4) A vezérigazgató munkaviszonya a következő esetekben szűnik meg
+
+- a) felmentéssel,
+- b) a munkaszerződésben szabályozott felmondással,
+- c) halállal,
+- d) a 97. § (10)–(12) bekezdésben foglalt esetben, ha a Kuratórium a Közszolgálati Testület előterjesztésére a megszüntetés mellett dönt.
+
+(5) Felmentéssel szűnik meg a vezérigazgató munkaviszonya
+
+- a) ha cselekvőképességét érintő gondnokság alá helyezték,
+- b) ha a vele szemben lefolytatott büntetőeljárás eredményeként a bűnösségét a bíróság – szabadságvesztés kiszabást tartalmazó – jogerős ítélete állapította meg,
+- c) ha három hónapig rajta kívülálló okból nem tud eleget tenni kötelezettségeinek,
+- d) ha az összeférhetetlenségre vonatkozó szabályokat megsérti, és az összeférhetetlenséget annak keletkezésétől számított harminc napon belül nem szünteti meg,
+- e) ha bíróság foglalkozásától, vagy a közügyektől eltiltotta.
+
+(6) Felmentés esetén a munkaviszony megszűnését a Kuratórium állapítja meg.
+
+(7) A vezérigazgató jogosult két vezérigazgató-helyettes kinevezésére. A vezérigazgató-helyettesek munkaszerződésének feltételeit a Kuratórium hagyja jóvá.
+
+103. § (1) A közszolgálati médiaszolgáltató vezérigazgatójává az a büntetlen előéletű, felsőfokú végzettségű magyar állampolgár nevezhető ki, aki legalább öt év szakmai gyakorlattal rendelkezik.
+
+(2) Szakmai gyakorlatnak tekintendő a műsorkészítési, műsorszolgáltatási, tájékoztatási, továbbá az ezzel összefüggő műszaki, jogi, vezetői, igazgatási, gazdasági, kulturális, tudományos és közvéleménykutatási tevékenység.
+
+(3) Nem nevezhető ki a közszolgálati médiaszolgáltató vezérigazgatójává, aki a választást megelőző két évben köztársasági elnök, miniszterelnök, a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, országgyűlési képviselő, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, politikai párt országos vagy területi szervezetének tisztségviselője volt.
+
+(4) A közszolgálati médiaszolgáltató vezérigazgatója büntetlen előélete igazolásának rendjére és az alkalmazandó jogkövetkezményekre a munka törvénykönyvében meghatározottakat kell alkalmazni.
+
+### A közszolgálati médiaszolgáltatók vezetőire vonatkozó összeférhetetlenségi szabályok
+
+104. § (1) A közszolgálati médiaszolgáltató vezérigazgatójára és vezető állású munkavállalójára munkaviszonyának ideje alatt a Hatóság Elnökére, elnökhelyettesére, főigazgatójára, főigazgató-helyettesére vonatkozó, a 118. § (1) bekezdés a)–c) és f) pontban foglalt összeférhetetlenségi szabályokat, illetve a 118. § (3) bekezdésben foglalt kizáró okokat kell megfelelően alkalmazni.
+
+(2) Az (1) bekezdésben foglalt összeférhetetlenségi szabályokon kívül a közszolgálati médiaszolgáltató vezérigazgatója, vezető állású munkavállalója, illetve ezek közeli hozzátartozója nem lehet olyan gazdasági társaságban tulajdoni részesedéssel rendelkező tag, illetve olyan gazdasági társaság vezető tisztségviselője vagy felügyelő bizottsági tagja, amely a vezérigazgató vezetése alatt álló, illetve a vezető állású munkavállalót foglalkoztató közszolgálati médiaszolgáltatóval üzleti kapcsolatban áll. Amennyiben a közszolgálati médiaszolgáltató vezérigazgatójának vagy vezető állású munkavállalójának közeli hozzátartozója sérti meg ezen előírást, úgy azt a vezérigazgató, illetve a vezető állású munkavállaló tekintetében felmerült összeférhetetlenségi oknak kell tekinteni, és a megfelelő jogkövetkezményeket kell alkalmazni.
+
+(3) A közszolgálati médiaszolgáltató vezérigazgatója és vezető állású munkavállalója munkaviszonyának ideje alatt tudományos, oktatói, irodalmi, művészeti és más szerzői jogvédelem alá eső tevékenység kivételével egyéb kereső foglalkozást nem folytathat, az irányítása alatt álló közszolgálati médiaszolgáltatótól e jogcímeken sem jogosult díjra.
+
+(4) A közszolgálati médiaszolgáltató vezérigazgatója – munkaszerződésének megkötése előtt – írásbeli nyilatkozatot tesz arról, hogy vele szemben összeférhetetlenségi ok nem áll fenn.
+
+(5) A közszolgálati médiaszolgáltató vezérigazgatója és vezető állású munkavállalója a közszolgálati médiaszolgáltató nevében nem köthet olyan szerződést, amelyben másik félként maga, közeli hozzátartozója, illetve olyan gazdasági társaság szerepel, amelyben maga vagy közeli hozzátartozója közvetett vagy közvetlen tulajdoni részesedéssel, más vagyoni értékű joggal, illetve személyes érdekeltséggel rendelkezik. Az e korlátozásban érintettek érdekeltségi körébe tartozó szerződést a közszolgálati médiaszolgáltató más munkavállalója sem kötheti meg.
+
+105. § (1) A vezérigazgató e törvény, más jogszabályok, a Közalapítvány és a közszolgálati médiaszolgáltató alapító okirata és a Kuratórium határozatainak keretei között irányítja a közszolgálati médiaszolgáltatót.
+
+Ennek keretében:
+
+- a) dönt a műsorrendről,
+- b) megállapítja a szervezeti és működési szabályzatot,
+- c) gondoskodik a Közszolgálati Kódex végrehajtásáról,
+- d) meghatározza, és a Kuratóriumnak jóváhagyásra bemutatja az éves gazdálkodási tervet, valamint gondoskodik végrehajtásáról,
+- e) elkészíti a mérleg- és eredmény kimutatást, és jóváhagyásra előterjeszti a kuratóriumnak,
+- f) a 90. § (1) bekezdés p)–q) pontnak megfelelően előterjeszti a szerződés engedélyezésére vonatkozó, illetve az előzetes jóváhagyást igénylő javaslatokat,
+- g) gyakorolja a közszolgálati médiaszolgáltató alkalmazottai felett a munkáltatói jogokat, beleértve a vezérigazgató-helyettesek alkalmazását,
+- h) gondoskodik mindazon további előterjesztések előkészítéséről, amelyeket e törvény és a Közalapítvány alapító okirata vagy a Kuratórium határozata előír,
+- i) az Alappal együttműködve gondoskodik a közszolgálati médiaszolgáltató tevékenységében közreműködők rendszeres médiaszakmai továbbképzéséről,
+- j) részt vesz a Közszolgálati Költségvetési Tanácsban,
+- k) az e törvényben foglalt eltérésekkel gyakorolja mindazokat a jogokat, amelyeket a gazdasági társaságokról szóló törvény a részvénytársaság igazgatóságának hatáskörébe utal.
+
+(2) A közszolgálati médiaszolgáltató vezérigazgatója a Közszolgálati Közalapítványtól – a munkaszerződésébe foglalt juttatásokon kívül – semmilyen jogcímen nem kaphat díjazást.
+
+### A közszolgálati médiaszolgáltatók felügyelő bizottsága
+
+106. § (1) A közszolgálati médiaszolgáltatók ügyvezetését a közös Felügyelő Bizottság (a továbbiakban: Bizottság) ellenőrzi. A Bizottság jogában áll a vezérigazgatóktól, a közszolgálati médiaszolgáltatók munkavállalóitól jelentést vagy felvilágosítást kérni, a közszolgálati médiaszolgáltatók könyveit, pénzforgalmi számláját, iratait és pénztárát bármikor megvizsgálni, vagy szakértővel a közszolgálati médiaszolgáltatók költségére megvizsgáltatni.
+
+(2) A Bizottság elnökből és négy tagból áll.
+
+(3) A Bizottság elnökét és tagjait a Közalapítvány alapító okiratában meghatározott időre és feltételekkel – a munkavállalók által választott tag kivételével – a Kuratórium választja.
+
+(4) A Bizottság elnökének és tagjainak tiszteletdíját a Kuratórium állapítja meg.
+
+(5) A Bizottság maga állapítja meg működésének szabályait, ügyrendjét a Kuratórium hagyja jóvá.
+
+(6) A Bizottság köteles megvizsgálni a Kuratórium elé terjesztendő minden olyan jelentést, amely a közszolgálati médiaszolgáltatók – a Kuratórium közgyűlési hatáskörébe tartozó – vagyoni jellegű ügyeire vonatkozik.
+
+(7) A közszolgálati médiaszolgáltatók belső ellenőrzési szervezetei a Bizottság irányítása alá tartoznak.
+
+(8) A Bizottság szervezetére, működésére egyebekben a gazdasági társaságokról szóló törvénynek, a Közalapítvány alapító okiratának, valamint Szervezeti és Működési Szabályzatának előírásai az irányadóak.
+
+### A közszolgálati médiaszolgáltatók könyvvizsgálója
+
+107. § (1) A közszolgálati médiaszolgáltatók közös könyvvizsgálóját a Kuratórium választja két évre. Megbízatásának megszüntetése is a Kuratórium hatáskörébe tartozik.
+
+(2) A könyvvizsgáló feladatát, jogkörét a gazdasági társaságokról szóló törvény keretei között, a közszolgálati médiaszolgáltató alapító okiratában kell meghatározni.
+
+### A közszolgálati médiaszolgáltatók finanszírozása és gazdálkodása
+
+108. § (1) Az Alap a 136. § (3) bekezdésben meghatározott forrásaiból támogatja a közszolgálati médiaszolgáltatók feladatainak ellátását, támogatja és elvégzi műsorszámainak előállítását, megrendelését, megvásárlását, tájékoztatási és egyéb tevékenységét.
+
+(2) Az (1) bekezdés alapján rendelkezésre álló összegnek a közszolgálati médiaszolgáltatók közötti elosztásáról a Közszolgálati Költségvetési Tanács (a továbbiakban: Tanács) dönt.
+
+(3) A Tanács hét tagú, tagjai a következők:
+
+- a) a közszolgálati médiaszolgáltatók vezérigazgatói,
+- b) az Alap vezérigazgatója,
+- c) az Állami Számvevőszék elnöke által – a Számvevőszék vezető állású tisztségviselői közül – esetileg delegált két tag.
+
+(4) A Tanács minden év szeptember 30-ig dönt az (1) bekezdésben meghatározott, a következő évben a közszolgálati médiaszolgáltatók műsorszámaira, közszolgálati feladatainak ellátására rendelkezésre álló források elosztásáról. Döntése során figyelembe veszi az e törvényben és a Kódexben meghatározott közszolgálati célokat, illetve az egyes közszolgálati médiaszolgáltatók különleges feladatait. A Tanács döntését egyszerű többséggel hozza, döntését az Alap internetes honlapján nyilvánosságra hozza. A Tanács döntését különösen indokolt esetben – kétharmados szavazattöbbséggel – utólag módosíthatja. A módosításra irányuló döntést az Alap vezérigazgatója kezdeményezheti.
+
+(5) A Tanácsot az Alap vezérigazgatója – aki egyúttal a Tanács elnöke – hívja össze legkésőbb minden év június 30-ig. A Tanács működésének szabályait, ügyrendjét e törvény keretei között maga határozza meg.
+
+(6) Az Alap – a közszolgálati médiaszolgáltatók képviseletében és javára eljárva – a saját költségvetése terhére köti meg a közszolgálati médiaszolgáltatók lineáris médiaszolgáltatásainak terjesztésére vonatkozó szerződéseket.
+
+(7) A közszolgálati médiaszolgáltató vezérigazgatója beszámol a Kuratóriumnak az általa irányított médiaszolgáltató tevékenységéről, ennek keretében kerül sor a mérleg- és eredmény-kimutatás jóváhagyására. A vezérigazgató beszámolóját a közszolgálati médiaszolgáltatók Felügyelő Bizottságának véleményével együtt a Kuratórium elé kell terjeszteni.
+
+(8) A közszolgálati médiaszolgáltató – közszolgálati céljainak elősegítése érdekében – vállalkozási tevékenységet végezhet. Nyereségét kizárólag a közszolgálati médiaszolgáltatás végzésére vagy fejlesztésére használhatja fel.
+
+(9) A közszolgálati médiaszolgáltatónak nem lehet részesedése más médiaszolgáltatóban, alapítványt nem hozhat létre.
+
+(10) A közszolgálati médiaszolgáltató szerződéseiről külön nyilvántartást vezet. A nyilvántartásban naprakészen fel kell tüntetni a szerződő fél cégszerű azonosításához szükséges adatokat, valamint a szerződő felek által teljesítendő szolgáltatást és ellenszolgáltatást.
+
+(11) A közszolgálati médiaszolgáltató és az Alap nem alanya a társasági adónak, és személyes illetékmentességet élvez.
+
+(12) Az Alap és a közszolgálati médiaszolgáltatók egymás közötti jogviszonyaiban történő beszerzések nem tartoznak a közbeszerzésekről szóló törvény alkalmazási körébe.
+
+(13) A 109/2010. (X. 28.) OGY határozatban rögzített irányelvek alapján a Médiatanács határozza meg az átadott vagyon hasznosításának, a vagyonnal történő gazdálkodásnak a részletes szabályait, ideértve, hogy az egyes vagyonelemeket, vagyontárgyakat, eszközöket – közszolgálati feladataik teljesítése céljából – milyen feltételekkel vehetik igénybe a közszolgálati médiaszolgáltatók.
+
+(14) A közszolgálati médiaszolgáltatók gazdálkodását az Állami Számvevőszék ellenőrzi.
+
+## NEGYEDIK RÉSZ — A MÉDIASZOLGÁLTATÁSOK ÉS A SAJTÓTERMÉKEK FELÜGYELETE
+
+### I. Fejezet — A NEMZETI MÉDIA- ÉS HÍRKÖZLÉSI HATÓSÁG
+
+### Általános szabályok
+
+109. § (1) A Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) autonóm államigazgatási szerv, amely kizárólag a törvényeknek van alárendelve.
+
+(2) A Hatóság a frekvenciagazdálkodás és a hírközlés területén részt vesz a Kormány – jogszabályokban meghatározott – politikájának végrehajtásában. A Hatóság számára feladatot csak törvény, vagy törvény felhatalmazása alapján kiadott jogszabály írhat elő.
+
+(3) A Hatóság önálló hatáskörrel rendelkező szervei: a Nemzeti Média- és Hírközlési Hatóság Elnöke (a továbbiakban: Elnök), a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa és a Nemzeti Média- és Hírközlési Hatóság Hivatala.
+
+(4) A Hatóság évente beszámol tevékenységéről az Országgyűlésnek.
+
+(5) A hírközlési ágazat tekintetében a Hatóság feladata – különösen az elektronikus hírközlésről szóló törvényben meghatározott céloknak és alapelveknek megfelelően – a hírközlési piac zavartalan, eredményes működésének és fejlődésének, a hírközlési tevékenységet végzők és a felhasználók érdekei védelmének, továbbá a tisztességes, hatékony verseny kialakulásának, illetve fenntartásának elősegítése az elektronikus hírközlési ágazatban, valamint a hírközlési tevékenységet végző szervezetek és személyek jogszabályoknak megfelelő magatartásának felügyelete.
+
+(6) A Hatóság a feladatát és a hatáskörét önállóan, a jogszabályoknak megfelelően gyakorolja.
+
+(7) Hírközlési hatósági hatáskört a Hatóságtól elvonni nem lehet.
+
+(8) A Kormány nem polgári célú frekvenciagazdálkodással kapcsolatos közigazgatási feladatait a Közigazgatási Frekvenciagazdálkodási Hatóság (a továbbiakban: KFGH) látja el.
+
+(9) A KFGH a Hivatal szervezetében és a főigazgató irányítása alatt önálló hatáskörű szervezeti egységként működik.
+
+110. § A Hatóság a hírközlési ágazat tekintetében külön törvényben foglaltak szerint:
+
+- a) nyilatkozik a hatáskörével összefüggő jogszabályalkotási és -módosítási igényekről és javaslatokról,
+- b) felméri és folyamatosan elemzi a hírközlési és az ezekhez kapcsolódó informatikai piac működését,
+- c) folyamatosan értékeli a hírközlési piac helyzetét, és arról összehasonlító elemzéseket készít,
+- d) piacelemzést végez,
+- e) eljár a kötelezett szolgáltató számára megállapított egyes kötelezettségek teljesítésével, illetve megszegésével összefüggésben,
+- f) eljár a hírközlésre vonatkozó szabály megsértése miatt, illetve szerződéskötéssel kapcsolatos jogviták esetén indított eljárásokban,
+- g) ellátja az egyéb jogszabályban foglalt elektronikus hírközlési és postai hatósági feladatokat,
+- h) a gazdálkodás körében – e törvényben és más jogszabályokban foglaltak szerint – gyakorolja a rádiófrekvenciákra és azonosítókra vonatkozó állami tulajdonosi jogokat, polgári célú gazdálkodást folytat a rádiófrekvenciák és azonosítók vonatkozásában,
+- i) ellátja az egyéb jogszabályban foglalt hatósági és nem hatósági feladatokat.
+
+### A Nemzeti Média- és Hírközlési Hatóság Elnöke és elnökhelyettese
+
+111. § (1) Az Elnök
+
+- a) ellátja a Nemzeti Média- és Hírközlési Hatóság vezetését,
+- b) gyakorolja a 110. §-ban meghatározott hatáskörökből a külön jogszabály alapján az Elnököt megillető hatásköröket,
+- c) a 134. § szerint előterjeszti a Hatóság éves költségvetésének tervezetét, valamint éves intézményi költségvetési beszámolóját,
+- d) javaslatot tesz a hírközlést és a médiaszolgáltatásokat érintő jogszabály módosítására,
+- e) a minősített adat védelméről szóló törvény rendelkezései alapján dönt a Hatóság tevékenysége során kezelt adatok minősítéséről.
+
+(2) Az Elnök további feladatai:
+
+- a) összehívja és vezeti a Médiatanács üléseit,
+  - aa) addig az időpontig, ameddig az Országgyűlés nem választja meg a Médiatanács elnökévé, tanácskozási joggal,
+  - ab) a Médiatanács elnökévé történő megválasztását követően szavazati joggal,
+- b) intézkedik a Médiatanács üléseinek előkészítéséről,
+- c) kinevezi az elnökhelyetteseket, és gyakorolja felettük a munkáltatói jogokat, ideértve a felmentést, illetve a visszahívást is,
+- d) kinevezi a Hivatal főigazgatóját és gyakorolja felette a munkáltatói jogokat, ideértve a felmentést és a visszahívást is,
+- e) a főigazgató javaslatára kinevezi, felmenti, illetve visszahívja a főigazgató-helyetteseket,
+- f) kinevezi, felmenti, illetve visszahívja a Média- és Hírközlési Biztost, és gyakorolja felette a munkáltatói jogokat,
+- g) elfogadja a Hatóság Szervezeti és Működési Szabályzatát,
+- h) képviseli a Hatóságot, különösen az Európai Bizottsággal és a tagállami szabályozó hatóságokkal történő kapcsolattartás és egyeztetés során,
+- i) minden év február 28-ig közzéteszi a Hatóság éves munkatervét és költségvetési tervének főbb mutatószámait, valamint június 30-ig az előző évi gazdálkodásának éves értékelését,
+- j) évente megállapítja a szakmai előkészítő munkákkal kapcsolatos feladatokat,
+- k) jelzi az elektronikus hírközlésért felelős miniszternek a hírközlés biztonságát veszélyeztető körülményeket, és javaslatot tesz az általa szükségesnek ítélt intézkedések megtételére,
+- l) az állam nevében megbízás alapján eljár nemzetközi szervezeteknél,
+- m) a Hatóság nevében évente együttműködési megállapodást köt a fogyasztóvédelmi hatósággal és a versenyhatósággal,
+- n) a hírközlés területén másodfokú szervként jár el a Hivatal törvényben meghatározott hatósági ügyei tekintetében,
+- o) a főigazgató javaslatára kinevezi, felmenti, illetve visszahívja a KFGH igazgatóját.
+
+(3) Az Elnököt a miniszterelnök nevezi ki kilenc évre.
+
+(4) Elnöknek olyan személy nevezhető ki, aki az országgyűlési képviselők választásán választójoggal rendelkezik, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint felsőfokú végzettséggel és legalább három év műsorterjesztéssel, médiaszolgáltatással, a médiaszolgáltatások hatósági felügyeletével, elektronikus hírközléssel, vagy hírközlési hatósági felügyelettel összefüggő közgazdasági, társadalomtudományi, jogi, műszaki vagy vezetői (vezető testületben tagsági), illetve igazgatási gyakorlattal rendelkezik.
+
+(5) Az Elnök a (3) bekezdésben meghatározott időtartam lejárta után újból kinevezhető.
+
+(6) Az Elnököt nem lehet utasítani feladatkörének ellátásával és hatáskörének gyakorlásával kapcsolatos eljárása és döntése vonatkozásában. Az Elnök – a Hivatal törvényben meghatározott hatósági ügyei tekintetében – egyedi döntésre a Hivatalnak utasítást nem adhat.
+
+112. § (1) Az Elnök jogosult két elnökhelyettes határozatlan időre történő kinevezésére. Az elnökhelyettes kinevezésére a 111. § (4) bekezdésben foglaltakat megfelelően alkalmazni kell.
+
+(2) Az elnökhelyettes a Szervezeti és Működési Szabályzatban meghatározott feltételek esetén helyettesíti az elnököt. Az Elnök a másodfokú hatósági döntési hatáskört jogosult – megfelelően körülírt felhatalmazással – az érintett elnökhelyettesre delegálni. E delegált hatáskörében eljárva az elnökhelyettes nem utasítható a másodfokú hatósági döntéshozatal során. Az elnökhelyettes egyéb feladatait a Szervezeti és Működési Szabályzat határozza meg.
+
+(3) Az Elnök miniszteri, az elnökhelyettes államtitkári illetményre és juttatásokra jogosult. Az e törvényben nem szabályozott kérdésekben az elnök esetében a miniszter jogállására vonatkozó, az elnökhelyettes esetében az államtitkár jogállására vonatkozó, más törvényben foglalt rendelkezéseket alkalmazni kell.
+
+(4) Az Elnök és az elnökhelyettes társadalombiztosítási jogállására a közszolgálati jogviszonyban állókra vonatkozó szabályok az irányadók. Megbízatásuk időtartama közszolgálati jogviszonyban töltött időnek, illetőleg nyugdíjra jogosító szolgálati időnek számít.
+
+(5) Az Elnök – a kinevezését követően haladéktalanul – hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű és nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt. Ha az Elnök igazolási kötelezettségének önhibájából adódóan nem tesz eleget, az összeférhetetlenség jogkövetkezményeit kell alkalmazni.
+
+(6) A miniszterelnök az Elnöknek az (5) bekezdés alapján megismert személyes adatait az Elnök megbízatásának megszűnéséig kezeli, és bármikor felhívhatja az Elnököt az (5) bekezdés szerinti adatok igazolására.
+
+(7) Az elnökhelyettes tekintetében az (5) bekezdésben meghatározottakat alkalmazni kell, míg a (6) bekezdésben meghatározott jogosultságot az elnökhelyettes vonatkozásában az Elnök gyakorolja.
+
+113. § (1) Az Elnök megbízatása megszűnik, ha
+
+- a) a megbízatás időtartama lejár,
+- b) lemond,
+- c) meghal,
+- d) a miniszterelnök a (2) bekezdés szerint felmenti.
+
+(2) A miniszterelnök felmenti az Elnököt, ha
+
+- a) a 118. § (1) bekezdés szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő harminc napon belül nem szünteti meg,
+- b) ha az Elnökkel szemben lefolytatott büntetőeljárás eredményeként az Elnök bűnösségét a bíróság – szabadságvesztés vagy az Elnök tevékenységének megfelelő foglalkozástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg,
+- c) cselekvőképességet érintő gondnokság alá helyezték,
+- d) ha neki felróható okból több mint hat hónapon át nem tesz eleget megbízatásából eredő feladatainak.
+
+(3) A megbízatás (1) bekezdés a) vagy b) pont szerinti megszűnése esetén az Elnököt a megszűnéskori havi illetménye kétszeresének megfelelő összegű végkielégítés illeti meg. Ha az Elnök három évnél rövidebb ideig töltötte be tisztségét, úgy a (8) bekezdésben meghatározott tilalom a megbízatás megszűnésétől számított hat hónapig áll fenn, és ebben az esetben egyhavi illetménye illeti meg végkielégítésként.
+
+(4) Az elnökhelyettes megbízatása megszűnik, ha
+
+- a) lemond,
+- b) meghal,
+- c) az Elnök az (5) bekezdés szerint felmenti,
+- d) az Elnök a (6) bekezdés szerint visszahívja.
+
+(5) Az Elnök felmenti az elnökhelyettest, ha
+
+- a) a 118. § (1) bekezdés szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő harminc napon belül nem szünteti meg,
+- b) ha az elnökhelyettessel szemben lefolytatott büntetőeljárás eredményeként az elnökhelyettes bűnösségét a bíróság – szabadságvesztés vagy az elnökhelyettes tevékenységének megfelelő foglalkozástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg.
+
+(6) Az Elnök visszahívással is megszüntetheti az elnökhelyettes megbízását. A visszahívást nem kell indokolni.
+
+(7) A megbízatás (4) bekezdés a) vagy d) pont szerinti megszűnése esetén az elnökhelyettest a megszűnéskori havi illetménye kétszeresének megfelelő összegű végkielégítés illeti meg. Ha az elnökhelyettes három évnél rövidebb ideig töltötte be tisztségét, úgy a (8) bekezdésben meghatározott tilalom a megbízatás megszűnésétől számított hat hónapig áll fenn, és ebben az esetben egyhavi illetménye illeti meg végkielégítésként.
+
+(8) Az Elnök, illetve az elnökhelyettes megbízatásának megszűnése után egy éven át
+
+- a) nem létesíthet munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt olyan gazdasági társasággal,
+- b) nem létesíthet rendszeres gazdasági kapcsolatot gazdasági társaság vezető tisztségviselőjeként vagy tulajdonosaként olyan gazdasági társasággal, illetve
+- c) nem szerezhet részesedést olyan gazdasági társaságban,
+
+amelynek jogát vagy jogos érdekét elnökként, illetve elnökhelyettesként hozott döntése érintette.
+
+### A Nemzeti Média- és Hírközlési Hatóság Hivatala
+
+114. § (1) A Hivatal élén az Elnök által határozatlan időre kinevezett főigazgató áll.
+
+(2) A Hivatal gyakorolja a 110. § szerint meghatározott hatáskörökből a külön jogszabály alapján a Hivatalt megillető hatásköröket, továbbá ellátja a jogszabály, illetve az Elnök által e törvény és más jogszabályok keretei között ráruházott feladatokat.
+
+(3) A Hivatal az Elnök, az elnökhelyettesek, a Médiatanács, illetve a Médiatanács tagjai részére szakmai támogatást nyújt feladataik ellátásához.
+
+(4) A KFGH élén az Elnök által a főigazgató javaslatára határozatlan időre kinevezett igazgató áll, felette a munkáltatói jogokat – a kinevezés és a felmentés, illetve a visszahívás kivételével – a főigazgató gyakorolja. A KFGH igazgatója kinevezésének, felmentésének, illetve visszahívásának feltételeire a 117. §-nak a főigazgató-helyettesre vonatkozó rendelkezéseit kell alkalmazni.
+
+(5) A nem polgári célú frekvenciagazdálkodással kapcsolatban külön jogszabályban meghatározott ügyekben a KFGH jár el.
+
+### A Nemzeti Média- és Hírközlési Hatóság főigazgatója és főigazgató-helyettese
+
+115. § (1) A főigazgatót az Elnök nevezi ki.
+
+(2) A főigazgató kinevezésére a 111. § (4) bekezdésben foglaltakat megfelelően alkalmazni kell.
+
+(3) A főigazgató államtitkári illetményre és juttatásokra jogosult.
+
+(4) A főigazgatót nem lehet utasítani az elsőfokú hatósági határozathozatali joggyakorlása során.
+
+(5) A főigazgató megbízatása megszűnik, ha
+
+- a) tisztségéről lemond,
+- b) meghal,
+- c) az Elnök a (6) bekezdés szerint felmenti,
+- d) az Elnök a (7) bekezdés szerint visszahívja.
+
+(6) Az Elnök felmenti a főigazgatót, ha
+
+- a) a 118. § (1) bekezdés szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő harminc napon belül nem szünteti meg,
+- b) ha a főigazgatóval szemben lefolytatott büntetőeljárás eredményeként a főigazgató bűnösségét a bíróság – szabadságvesztés vagy a főigazgató tevékenységének megfelelő foglalkozástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg.
+
+(7) Az Elnök visszahívással is megszüntetheti a főigazgató megbízatását. A visszahívást indokolni kell.
+
+(8) A főigazgató megbízatásának megszűnése után egy éven át
+
+- a) nem létesíthet munkaviszonyt, illetve munkavégzésre irányuló egyéb jogviszonyt olyan gazdasági társasággal,
+- b) nem létesíthet rendszeres gazdasági kapcsolatot gazdasági társaság vezető tisztségviselőjeként vagy tulajdonosaként olyan gazdasági társasággal, illetve
+- c) nem szerezhet részesedést olyan gazdasági társaságban,
+
+amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintette.
+
+(9) A megbízatás (5) bekezdés a) vagy d) pont szerinti megszűnése esetén a főigazgatót a megszűnéskori havi illetménye kétszeresének megfelelő összegű végkielégítés illeti meg. Ha a főigazgató három évnél rövidebb ideig töltötte be tisztségét, úgy a (8) bekezdésben meghatározott tilalom a megbízatás megszűnésétől számított hat hónapig áll fenn, és ebben az esetben egyhavi illetménye illeti meg végkielégítésként.
+
+(10) A főigazgató tekintetében a 112. § (5) bekezdésben meghatározottakat alkalmazni kell, míg a 112. § (6) bekezdésben meghatározott jogosultságot a főigazgató vonatkozásában az Elnök gyakorolja.
+
+116. § A főigazgató feladatai:
+
+- a) az Elnök közvetlen vezetése alatti szervezeti egységek kivételével ellátja a Hivatal feletti szervezeti és szakmai irányítást, és a Hivatal vezetése körében az elnök helyettesének minősül,
+- b) gyakorolja a 110. § szerint meghatározott hatáskörökből a külön jogszabály alapján a főigazgatót megillető hatásköröket,
+- c) biztosítja a Hatóság szervezetrendszerének hatékony működését,
+- d) javaslatot tesz az Elnöknek a főigazgató-helyettesek kinevezésére, felmentésére, illetve visszahívására, gyakorolja a munkáltatói jogokat a helyettesei, valamint a Hivatal alkalmazottai tekintetében, az Elnök közvetlen vezetése alatti szervezeti egységek kivételével,
+- e) gondoskodik az e törvényben meghatározott információk közzétételéről,
+- f) a Médiatanács elnökének meghívása alapján tanácskozási joggal részt vesz a Médiatanács ülésein,
+- g) biztosítja, hogy a Hivatal az Elnök, az elnökhelyettesek, a Médiatanács, illetve a Médiatanács tagjai részére feladataik ellátásához az Elnök által – a Médiatanács és tagjai esetében a Médiatanács elnökeként – meghatározott mértékben és módon szakmai támogatást nyújtson,
+- h) ellátja a jogszabály, illetve az Elnök által – a Hatóság elnökeként és a Médiatanács elnökeként – e törvény keretei között ráruházott feladatokat és jogköröket.
+
+117. § (1) A főigazgató javaslatára az Elnök jogosult főigazgató-helyetteseket kinevezni. A főigazgató-helyettesek számát és feladatkörét a Hatóság Szervezeti és Működési Szabályzatában kell meghatározni.
+
+(2) A főigazgató-helyettes olyan személy lehet, aki az országgyűlési képviselők választásán választójoggal rendelkezik, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint felsőfokú végzettséggel és legalább három év, a műsorszórással, a médiaszolgáltatással, a média hatósági felügyeletével, az elektronikus hírközléssel, vagy a hírközlési hatósági felügyelettel összefüggő közgazdasági, társadalomtudományi, jogi, műszaki vagy vezetői (vezető testületben tagsági), illetve igazgatási gyakorlattal rendelkezik.
+
+(3) A főigazgató-helyettes helyettes államtitkári illetményre és juttatásokra jogosult.
+
+(4) A főigazgató-helyettesre a főigazgatóra vonatkozó, a 115. § (5)–(10) bekezdésében foglalt rendelkezéseket alkalmazni kell.
+
+### Összeférhetetlenségi szabályok
+
+118. § (1) Az Elnök, az elnökhelyettes, a főigazgató, a főigazgató-helyettes nem lehet
+
+- a) köztársasági elnök, miniszterelnök, a kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, az Európai Parlament tagja,
+- b) a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, vezérigazgató-helyettese, a Nemzeti Hírközlési és Informatikai Tanács elnöke, alelnöke vagy tagja, közszolgálati médiaszolgáltató vezérigazgatója, felügyelő bizottságának elnöke, tagja, a Médiatanács tagja, a Hatóság Elnökének kivételével a Médiatanács elnöke, valamint bármelyik szervezettel munkavégzésre irányuló jogviszonyban álló személy,
+- c) helyi vagy megyei önkormányzati képviselő, kormánytisztviselő, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
+- d) hírközlési vagy médiaszolgáltató, műsorterjesztő, reklámügynökség, sajtóterméket kiadó, lapterjesztő vállalkozás vezető tisztségviselője, vezető testületének tagja, felügyelő bizottsági tagja,
+- e) olyan személy, aki hírközlési vagy médiaszolgáltatóval, műsorforgalmazóval, műsorterjesztővel, reklámügynökséggel, sajtótermék kiadójával vagy lapterjesztővel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll,
+- f) olyan személy, aki hírközlési vagy médiaszolgáltatást, műsorforgalmazást, műsorterjesztést, sajtótermék kiadását, reklámügynökségi tevékenységet vagy lapterjesztést folytató vállalkozásban rendelkezik közvetlen vagy közvetett tulajdoni részesedéssel,
+- g) olyan gazdasági társaság közvetlen vagy közvetett – nyilvánosan működő részvénytársaság esetében öt százalékot meghaladó mértékű – tulajdonosa, illetve ezekkel foglalkoztatásra irányuló jogviszonyban álló személy, amely társaság a d) pontban meghatározott szervezetekkel megbízási vagy vállalkozási jogviszonyban áll,
+- h) az a)–b) és d) pontok alá eső személy közeli hozzátartozója.
+
+(2) Az (1) bekezdés e) pont vonatkozásában nem minősül összeférhetetlennek a tudományos tevékenység végzésére, tudományos eredmények közzétételére, illetve tudományos ismeretterjesztésre vonatkozó munkavégzésre irányuló egyéb jogviszony.
+
+(3) Az Elnök, az elnökhelyettes, a főigazgató és a főigazgató-helyettes nem folytathat pártpolitikai tevékenységet, párt nevében nyilatkozatot nem tehet.
+
+### A Nemzeti Média- és Hírközlési Hatóság beszámolója
+
+119. § (1) A Hatóság minden év május 31-ig beszámolót terjeszt az Országgyűlés elé az előző évi tevékenységéről. A beszámolóban:
+
+- a) értékeli az elektronikus hírközlési piac működését és fejlődését,
+- b) értékeli az elektronikus hírközlési tevékenységet végzők és a felhasználók érdekei védelmének céljából hozott döntéseket, továbbá a tisztességes, hatékony verseny kialakulásának, illetve fenntartásának elősegítése érdekében tett intézkedéseket az elektronikus hírközlési ágazatban,
+- c) tájékoztatást ad az elektronikus hírközlési tevékenységet végző szervezetek és személyek jogszabályoknak megfelelő magatartásának felügyeletéről, továbbá
+- d) értékeli az általa az állam tulajdonában álló korlátos erőforrásokkal való gazdálkodás következményeit.
+
+(2) A beszámolót nyomtatott formában és a Hatóság, valamint az elektronikus hírközlésért felelős miniszter által vezetett minisztérium honlapján is közzé kell tenni.
+
+### A Nemzeti Hírközlési és Informatikai Tanács
+
+120. § (1) A Nemzeti Hírközlési és Informatikai Tanács (a továbbiakban: NHIT) a Kormány informatikai és hírközlési ügyekben véleményező, tanácsadó szerve.
+
+(2) Az NHIT öt tagból álló testület. Az NHIT elnökét és alelnökét a miniszterelnök nevezi ki és menti fel.
+
+(3) Az NHIT tagjai – köztük az NHIT elnöke és alelnöke – a hírközlés, illetve az informatika területén legalább ötéves gyakorlattal rendelkezők köréből kerül ki.
+
+(4) A tagok közül
+
+- a) két tagot a Médiatanács,
+- b) egy tagot a Magyar Tudományos Akadémia delegál.
+
+(5) Az NHIT csak a törvénynek van alárendelve, és tagjai tevékenységük körében nem utasíthatók.
+
+(6) Az NHIT elnökének, alelnökének és tagjainak megbízása négy évre szól.
+
+(7) A megüresedett helyet az erre jogosult szerv vagy személy harminc napon belül köteles betölteni.
+
+(8) Az NHIT elnöke, alelnöke és tagja lehet kormánytisztviselő vagy köztisztviselő.
+
+(9) Az NHIT elnöke az államtitkár illetménye hatvanöt százalékának megfelelő mértékű, az NHIT alelnöke az államtitkár illetménye hatvan százalékának megfelelő mértékű, míg az NHIT tagja az államtitkár illetménye ötvenöt százalékának megfelelő mértékű tiszteletdíjban részesül kinevezésétől megbízatása megszűnéséig, továbbá az elnök, az alelnök és a tagok költségtérítésre jogosultak.
+
+121. § (1) Az NHIT véleményezi a Kormány felé az informatika, a hírközlés és a média területén
+
+- a) az információs társadalom kialakításának programját, az információs kultúra elterjesztésére, az információs társadalomra vonatkozó stratégiai döntéseket,
+- b) a kutatás-fejlesztés irányvonalának meghatározását,
+- c) a társadalmi szemléletmód és kultúra terjesztésével kapcsolatos döntéseket, továbbá
+- d) a hírközlési piac szabályozásának kialakítására, a piacon működők esélyegyenlőségének elősegítésére,
+- e) a kormányzati és a polgári frekvenciagazdálkodás összhangjának biztosítására,
+- f) a rádió-távközlési nemzetközi értekezleteken képviselendő magyar álláspontra vonatkozó, valamint
+- g) az információs társadalom infrastruktúrájának szabályozásával kapcsolatos stratégiai előterjesztésekre, az információs társadalom kialakításának programjára vonatkozó döntéseket.
+
+(2) Az NHIT véleményezi
+
+- a) a frekvenciafelhasználás általános elveinek meghatározását, a frekvenciasávok nemzeti felosztásáról szóló kormányrendeletek, miniszteri rendeletek tervezeteit,
+- b) a rádió-frekvenciatartomány polgári és nem polgári célú megosztásának módosítását, valamint az érintett miniszterek között – a frekvenciagazdálkodás körében – felmerült vitás kérdéseket,
+- c) a Kormány, a miniszterelnök vagy az elektronikus hírközlésért felelős miniszter felkérésére valamennyi, a hírközléssel és az informatikával összefüggő előterjesztést, egyedi döntést, jogszabálytervezetet,
+- d) az információs társadalom infrastruktúrájának szabályozásával kapcsolatos stratégiai előterjesztéseket, az információs társadalom kialakításának programját.
+
+(3) Az NHIT elnöke a vizsgált frekvenciasávok igénybevételében, az ezekkel végzett szolgáltatásokban érdekelt szervezetek képviselőit tanácskozási joggal meghívhatja.
+
+(4) Az NHIT akkor határozatképes, ha tagjainak több mint a fele jelen van, és legalább az elnök, vagy az alelnök is jelen van. Határozatait – az összeférhetetlenségről való döntés kivételével – szótöbbséggel hozza, szavazategyenlőség esetében az elnök szavazata dönt.
+
+(5) Az NHIT működésének rendjét maga állapítja meg.
+
+(6) Az NHIT működéséhez szükséges forrásokat a Hatóság költségvetésén belül kell biztosítani. A források más célra nem csoportosíthatók át.
+
+(7) Az NHIT gazdálkodását az Állami Számvevőszék ellenőrzi. Az NHIT feladatai teljesítéséről évente jelentést készít az Országgyűlés illetékes bizottságának.
+
+122. § (1) Az NHIT Irodája (a továbbiakban: Iroda) a Hatóság szervezeti egysége, melynek vezetője irodaigazgató cím használatára jogosult.
+
+(2) Az Iroda ellátja az NHIT működésével kapcsolatos feladatokat, végzi az ahhoz szükséges adminisztratív tevékenységet.
+
+(3) Az Iroda Feladat- és Hatásköri Szabályzatát – az NHIT elnökének egyetértésével – az Elnök hagyja jóvá.
+
+(4) Az Iroda adminisztrációs tevékenységét – az NHIT határozatainak és az NHIT elnöke utasításainak megfelelően – az Iroda vezetője irányítja.
+
+(5) Az Iroda a 121. § (1)–(2) bekezdés alapján az NHIT által a Kormánynak, illetve a miniszterelnöknek adandó véleményhez az NHIT részére tárgyalási, illetve döntés-előkészítő anyagokat készít.
+
+(6) Az NHIT elnöke közvetlenül irányítja az Irodának a 121. § (1)–(2) bekezdésben meghatározott feladatokkal kapcsolatos tárgyalási, illetve döntés-előkészítő anyagok készítésére vonatkozó szakmai tevékenységét.
+
+(7) Az Elnök az Iroda vezetőjével kapcsolatos munkáltatói jogkörök közül a közszolgálati jogviszony létesítését és megszűnését az NHIT elnökének javaslata alapján gyakorolja, egyebekben a munkáltatói jogokat az NHIT elnöke gyakorolja.
+
+### II. Fejezet — A NEMZETI MÉDIA- ÉS HÍRKÖZLÉSI HATÓSÁG MÉDIATANÁCSA
+
+### A Médiatanács jogállása és szervezete
+
+123. § (1) A Médiatanács a Hatóság önálló hatáskörű, az Országgyűlés felügyelete alatt álló, jogi személyiséggel rendelkező szerve. A Médiatanács az Országos Rádió és Televízió Testület jogutódja.
+
+(2) A Médiatanács és tagjai csak a törvénynek vannak alárendelve, és tevékenységük körében nem utasíthatók.
+
+(3) A Médiatanács székhelye Budapest.
+
+(4) A Hivatal a Médiatanács hivatali szerve.
+
+(5) A Médiatanács, illetve annak tagja a Hivatalon keresztül adott megbízás alapján külső szakértőt is alkalmazhat.
+
+### A Médiatanács választása
+
+124. § (1) A Médiatanács elnökét és négy tagját az Országgyűlés – a jelenlévő országgyűlési képviselők kétharmadának szavazatával – kilenc évre választja egyidejű, listás szavazással.
+
+(2) A Médiatanács elnöke és tagja olyan személy lehet, aki az országgyűlési képviselők választásán választójoggal rendelkezik, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint felsőfokú végzettséggel és legalább három év műsorterjesztéssel, médiaszolgáltatással, a médiaszolgáltatások hatósági felügyeletével, elektronikus hírközléssel, vagy hírközlési hatósági felügyelettel összefüggő közgazdasági, társadalomtudományi, jogi, műszaki vagy vezetői (vezető testületben tagsági), illetve igazgatási gyakorlattal rendelkezik.
+
+(3) A Médiatanács tagjaira
+
+- a) legfeljebb hatvan, de legkésőbb harminc nappal a tagok megbízatása időtartamának letelte előtt,
+- b) az a) ponton kívüli esetekben a megbízatás megszűnéséről való tudomásszerzéstől számított harminc napon belül, az országgyűlési képviselőcsoportok egy-egy tagjából álló eseti bizottság (a továbbiakban: jelölőbizottság) egyhangú szavazással tesz javaslatot.
+
+(4) A jelölőbizottság tagjai minden szavazás során az őket jelölő országgyűlési képviselőcsoport létszámának megfelelő mértékű szavazattal rendelkeznek.
+
+(5) A jelölőbizottság felállításáról szóló országgyűlési határozat rendelkezik arról, hogy mennyi idő áll az országgyűlési képviselőcsoportok rendelkezésére a jelölőbizottsági tagok jelölésére. A jelölési folyamat megkezdhető abban az esetben is, ha valamely képviselőcsoport nem jelöl tagot a jelölőbizottságba az országgyűlési határozatban meghatározott határidőn belül.
+
+(6) Ha a jelölőbizottság a (3) bekezdés a) pont szerinti esetben a meghatározott határidőn belül nem tud négy tagjelöltet javasolni, a jelölőbizottság a második jelölési körben a szavazati mérték legalább kétharmadával javasolhat jelöltet.
+
+(7) Ha a jelölőbizottság a (3) bekezdés a) pont szerinti esetben a második jelölési körben sem tud nyolc napon belül négy jelöltet állítani, akkor a mandátuma megszűnik, és új jelölőbizottságot kell felállítani.
+
+(8) Ha a jelölőbizottság a (3) bekezdés b) pont szerinti esetben az ott meghatározott határidőn belül nem tud tagjelöltet javasolni, a jelölőbizottság a szavazati mérték legalább kétharmadával javasolhat jelöltet.
+
+(9) Ha a jelölőbizottság a (3) bekezdés b) pont szerinti esetben a második jelölési körben sem tud nyolc napon belül jelöltet állítani, akkor megszűnik a mandátuma, és új jelölőbizottságot kell felállítani.
+
+125. § (1) A Hatóság miniszterelnök által kinevezett Elnöke a kinevezés tényével és időpontjában a Médiatanács elnökjelöltjévé válik.
+
+(2) A Médiatanács elnöke és tagja a megválasztásával, illetve – ha megválasztására hivatali elődje megbízatásának megszűnését megelőzően kerül sor – hivatali elődje megbízatásának megszűnésekor hivatalba lép.
+
+(3) Ha a Hatóság Elnökének a megbízatása megszűnik, akkor ezzel egyidejűleg megszűnik a Médiatanács elnökségére vonatkozó megbízatása is. Ebben az esetben a Hatóság miniszterelnök által kinevezett új Elnöke a kinevezés tényével és időpontjában a Médiatanács elnökjelöltjévé válik. Megválasztásáról az Országgyűlés jelenlevő képviselőinek kétharmada dönt.
+
+(4) Ha az Országgyűlés nem választja meg a Hatóság Elnökét a Médiatanács elnökévé, akkor ebben az esetben is a Hatóság Elnöke hívja össze a Médiatanács üléseit, amelyen tanácskozási és ülésvezetési joggal vesz részt, de a döntéshozatalnak nem lesz részese. A Hatóság Elnökének ülésösszehívási és -vezetési joga a miniszterelnök általi kinevezés pillanatától, a Médiatanács teljes jogú elnökévé történő megválasztásáig él.
+
+(5) A Médiatanács tagja és elnöke újraválasztható, ha a megbízatása nem összeférhetetlenségi okból, felmentéssel, vagy kizárással szűnt meg.
+
+(6) Az új tag megbízatása a Médiatanács korábban megválasztott tagjai megbízatásának hátralévő idejére szól.
+
+(7) A Médiatanács elnöke megbízatási időtartama a Hatóság elnöki megbízatásának időtartamához kötött.
+
+126. § (1) A Médiatanács tagja a megválasztását követően a Médiatanács elnöke részére haladéktalanul hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű és nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt.
+
+(2) A Médiatanács elnöke a Médiatanács tagjának az (1) bekezdés alapján megismert személyes adatait a Médiatanács tagja megbízatásának megszűnéséig kezeli, és bármikor felhívhatja a tagot az (1) bekezdés szerinti adatok igazolására.
+
+(3) A Médiatanács elnöke tekintetében az (1)–(2) bekezdésben meghatározottakat kell alkalmazni azzal az eltéréssel, hogy az (1) bekezdésben meghatározott igazolási kötelezettséget a Médiatanács elnöke a Médiatanács részére teljesíti, a (2) bekezdésben meghatározott jogosultságot a Médiatanács gyakorolja. A Médiatanács e bekezdésben meghatározott hatáskörének gyakorlásában a Médiatanács elnöke nem vesz részt.
+
+### Összeférhetetlenségi szabályok
+
+127. § (1) A Médiatanács elnökére és tagjaira a Hatóság Elnökére, elnökhelyettesére, valamint főigazgatójára és főigazgató-helyettesére vonatkozó, a 118. § (1) bekezdésben foglalt összeférhetetlenségi szabályok, illetve a 118. § (3) bekezdésben foglalt kizáró okok megfelelően irányadók.
+
+(2) A Médiatanács tagja vonatkozásában nem minősül összeférhetetlennek a sajtótermék kiadójával vagy alapítójával létrehozott, tudományos tevékenység végzésére, tudományos eredmények közzétételére, vagy tudományos ismeretterjesztésre vonatkozó munkaviszony, valamint munkavégzésre irányuló egyéb jogviszony.
+
+### A Médiatanács tagjainak kötelezettségei
+
+128. § (1) A Médiatanács tagja a feladata ellátása során tudomására jutott minősített adatot és üzleti titkot köteles megőrizni.
+
+(2) A Médiatanács tagja hivatalba lépése alkalmával az Országgyűlés elnöke előtt a 3. számú melléklet szerinti esküt tesz.
+
+(3) A Médiatanács tagja az országgyűlési képviselőkre vonatkozó szabályok szerint köteles vagyonnyilatkozatot tenni, első ízben a megválasztását követő harminc napon belül. A vagyonnyilatkozat kezelésére, nyilvántartására, ellenőrzésére az országgyűlési képviselők vagyonnyilatkozatának kezelésére, nyilvántartására, ellenőrzésére vonatkozó szabályokat kell alkalmazni.
+
+### A Médiatanács tagjai megbízatásának megszűnése
+
+129. § (1) A Médiatanács tagjainak megbízatása megszűnik:
+
+- a) a Médiatanács megbízatási idejének lejártával,
+- b) lemondással,
+- c) az összeférhetetlenség megállapításával,
+- d) felmentéssel,
+- e) kizárással,
+- f) a tag halálával.
+
+(2) Összeférhetetlenség miatt meg kell szüntetni a Médiatanács elnökének vagy tagjának megbízatását, ha az elnökkel vagy a taggal szemben összeférhetetlenségi ok merül fel, illetve ha az elnök vagy a tag vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagy vagyonnyilatkozatában lényeges adatot, tényt valótlanul közöl, továbbá, ha a 126. § (1) bekezdésben foglalt igazolási kötelezettségének önhibájából adódóan nem tesz eleget.
+
+(3) Ha a Médiatanács elnökével vagy tagjával szemben összeférhetetlenségi ok merül fel és az ok keletkezésétől, illetve az összeférhetetlenséget megállapító ülés időpontjától számított harminc napon belül az összeférhetetlenségi ok megszüntetése nem történik meg, a Médiatanács teljes ülése határozatban megállapítja, hogy az elnök vagy a tag vagy testületi tagsága megszűnt. A Médiatanács elnöke, illetőleg tagja az összeférhetetlenséget megállapító határozat meghozatalának időpontjától a tisztségéből eredő jogkörét nem gyakorolhatja.
+
+(4) A Médiatanács tagja megbízatásának megszűnését az (1) bekezdés b), valamint f) pont esetében a Médiatanács elnöke, az (1) bekezdés c), d) és e) pont esetében a Médiatanács teljes ülése állapítja meg és hirdeti ki. A Médiatanács elnöke megbízatásának megszűnését a Médiatanács teljes ülése állapítja meg és hirdeti ki.
+
+(5) Felmentéssel szűnik meg a megbízatás, ha a Médiatanács elnökét vagy tagját cselekvőképességét érintő gondnokság alá helyezték.
+
+(6) Kizárással szűnik meg a megbízatás,
+
+- a) ha a Médiatanács elnöke vagy tagja neki felróható okból több mint hat hónapon át nem tesz eleget megbízatásából eredő feladatainak,
+- b) ha a Médiatanács elnökével vagy tagjával szemben lefolytatott büntetőeljárás eredményeként az elnök vagy a tag bűnösségét a bíróság – szabadságvesztés vagy a Médiatanács elnöke vagy tagja tevékenységének megfelelő foglalkozástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg.
+
+(7) Ha a Médiatanács ülése összeférhetetlenségről, felmentésről vagy kizárásról dönt, az érintett elnök vagy tag a szavazásban nem vehet részt, ilyen ügyekben a szavazásra jogosultak egyhangú határozata szükséges. Ha az említett kérdésekről megismételt szavazás esetén egyhangú döntés nem születik, a Médiatanács elnöke az Országgyűlésnek javasolja a döntés meghozatalát. Ebben az esetben az összeférhetetlenségről, a felmentésről vagy a kizárásról a jelenlévő képviselők kétharmadának szavazatával az Országgyűlés dönt.
+
+(8) A Médiatanács elnöke esetében a (3), (6) és (7) bekezdés szerinti eljárásokban az elnök jogkörében az ügyrend szerint meghatározott tag jár el.
+
+(9) A Médiatanács elnöke és tagja megbízatásának megszűnése után egy éven át
+
+- a) nem létesíthet munkaviszonyt, illetve munkavégzésre irányuló egyéb jogviszonyt olyan gazdasági társasággal,
+- b) nem létesíthet rendszeres gazdasági kapcsolatot gazdasági társaság vezető tisztségviselőjeként vagy tulajdonosaként olyan gazdasági társasággal, illetve
+- c) nem szerezhet részesedést olyan gazdasági társaságban,
+
+amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagjaként hozott döntése érintette.
+
+(10) A megbízatás (1) bekezdés a) vagy b) pont szerinti megszűnése esetén a Médiatanács elnökét és tagját a megszűnéskori havi tiszteletdíja kétszeresének megfelelő összegű végkielégítés illeti meg. Ha az elnök, illetve a tag három évnél rövidebb ideig töltötte be tisztségét, úgy a (9) bekezdésben meghatározott tilalom a megbízatás megszűnésétől számított hat hónapig áll fenn, és ebben az esetben az elnököt, illetve a tagot egyhavi tiszteletdíja illeti meg végkielégítésként.
+
+### A Médiatanács tagjainak díjazása
+
+130. § (1) A Médiatanács elnöke a miniszter illetménye hatvan százalékának megfelelő mértékű tiszteletdíjban részesül, illetve költségtérítésre jogosult.
+
+(2) A Médiatanács tagja az államtitkár illetménye hetvenöt százalékának megfelelő mértékű tiszteletdíjban részesül, illetve költségtérítésre jogosult.
+
+### A Médiatanács működése
+
+131. § (1) A Médiatanács maga határozza meg ügyrendjét, amelyet a Magyar Közlönyben közzétesz.
+
+(2) Ha a Médiatanács elnöke a Médiatanács ülésén akadályoztatása miatt nem vesz részt, az elnöki feladatokat a Médiatanács tagjai az ügyrendben meghatározott sorrendben, egymást követően látják el. Az elnöki feladatokat ellátó tag a szavazásban részt vehet.
+
+### A Médiatanács feladatai
+
+132. § A Médiatanács a 181–182. §-okkal összhangban:
+
+- a) ellenőrzi és biztosítja a sajtószabadság érvényesülését e törvény és az Smtv. keretei között,
+- b) ellátja az állami tulajdonban lévő, médiaszolgáltatás céljára biztosított korlátos erőforrásokat használó médiaszolgáltatási jogosultságok pályáztatásának és a pályázat elbírálásának feladatát,
+- c) ellátja a törvényben előírt felügyeleti és ellenőrzési feladatokat,
+- d) műsorfigyelő és -elemző szolgálatot működtet,
+- e) véleményt nyilvánít a médiával és a hírközléssel kapcsolatos jogszabályok tervezetéről,
+- f) rendszeresen ellenőrzi a vele kötött hatósági szerződések megtartását,
+- g) állásfoglalásokat, javaslatokat dolgoz ki a magyar médiaszolgáltatási rendszer fejlesztésének elvi kérdéseire vonatkozóan,
+- h) kezdeményezi a fogyasztóvédelemmel és a tisztességtelen piaci magatartás tilalmával kapcsolatos eljárásokat,
+- i) beszámolót készít a műsorkvótákra vonatkozó kötelezettségek teljesítéséről az Európai Bizottság részére,
+- j) szükség esetén kezdeményezheti az audiovizuális politikáért felelős miniszternél e törvény módosítását,
+- k) kezdeményező szerepet vállal a médiaműveltség, a médiatudatosság magyarországi fejlesztésében, ennek keretében összehangolja más állami szereplők médiaműveltséghez kapcsolódó tevékenységét, segíti a kormányt az Európai Unió felé e tárgyban esedékes időszakos beszámoló elkészítésében,
+- l) ellátja e törvényben, illetve az e törvény felhatalmazása alapján kiadott más jogszabályban meghatározott egyéb feladatait.
+
+### A Médiatanács beszámolója
+
+133. § (1) A Médiatanács minden év május 31-ig előterjeszti az Országgyűlésnek a megelőző évi tevékenységére vonatkozó beszámolóját. A beszámolóban értékelnie kell:
+
+- a) a szólás-, vélemény- és sajtószabadság, a tájékoztatás kiegyensúlyozottságának helyzetét,
+- b) a médiaszolgáltatók és műsorterjesztők tulajdoni helyzetének alakulását,
+- c) a médiaszolgáltatási szükségletek kielégítésére szolgáló frekvenciagazdálkodás helyzetét,
+- d) a médiaszolgáltatás gazdasági helyzetét, pénzügyi feltételeinek alakulását.
+
+(2) A beszámolót nyomtatott formában, valamint az audiovizuális politikáért felelős miniszter által vezetett minisztérium és a Hatóság honlapján közzé kell tenni.
+
+### A Hatóság és a Médiatanács gazdálkodása
+
+134. § (1) A Hatóság a költségvetési szervek gazdálkodására vonatkozó jogszabályok megfelelő alkalmazásával gazdálkodik, feladatai ellátásával összefüggő kiadásokat saját bevételéből és költségvetési hozzájárulásból fedezi, számláit a Kincstár vezeti. A Hatóság a (4) bekezdés szerinti saját bevételéből – a bírság kivételével – évente legfeljebb a tényleges adott évi bevétele huszonöt százalékának megfelelő mértékig tartalékot képezhet. Az így képzett tartalék a következő években a Hatóság működésének, feladatai ellátásának fedezetére használható fel, más célra nem vonható el.
+
+(2) A Hatóság egységes költségvetését az Országgyűlés a jelen törvény rendelkezéseinek megfelelően önálló törvényben a (4) bekezdésben és a 136. § (3) bekezdésben meghatározott források terhére hagyja jóvá, melyben egyúttal dönt a Hatóság előző évi költségvetésében esetlegesen képződött tényleges maradvány – ide nem értve az (1) bekezdés szerinti tartalék, illetve a képződésének költségvetési évében december 31-ig kötelezettségvállalással lekötött maradvány – felhasználásáról. A képződésének költségvetési évében december 31-ig kötelezettségvállalással lekötött maradvány a kötelezettségvállalás alapjául szolgáló jognyilatkozatnak megfelelően használható fel. Az Elnök jogosult a jóváhagyott egységes költségvetés kiadási előirányzatai közötti átcsoportosításra azzal, hogy a Médiatanács költségvetését is érintő átcsoportosításhoz a Médiatanács felhatalmazása szükséges. A Médiatanács a Hatóság egységes költségvetésén belül a 135. § szerinti gazdálkodási autonómiával rendelkezik.
+
+(3) A Hatóság egységes költségvetését tartalmazó törvényjavaslatot az Országgyűlés költségvetési ügyekben illetékes bizottsága a tárgyévet megelőző év október 31-ig – az Elnök szeptember 15-ig megküldött javaslata alapján, mely tartalmazza a Médiatanácsnak a Médiatanács által jóváhagyott költségvetés-tervezetét – nyújtja be az Országgyűlésnek. Az új költségvetés jóváhagyásáig a Hatóság, illetve a Médiatanács a korábbi jóváhagyott költségvetése alapján működik.
+
+(4) A Hatóság saját bevételét képezik a frekvencia díjak, az azonosítók lekötéséért és használatáért, továbbá a hatósági eljárásért fizetett díjak, valamint a felügyeleti díj, amelyeket a Hatóság hatékony, magas szakmai színvonalú működtetésére kell felhasználni. A befolyt saját bevételekről és azok felhasználásáról, valamint a költségvetési hozzájárulás felhasználásáról készült kimutatást a Hatóság internetes honlapján évente közzéteszi.
+
+(5) A frekvencia díjakat és az azonosítók lekötéséért és használatáért fizetett díjak mértékét a Kormány rendeletben határozza meg. A frekvencia díjak azon részét, amelyet a Hatóság – a (2) bekezdésben meghatározott törvény alapján – működésére nem használ fel, illetve amelyekből nem képez az (1) bekezdés szerinti tartalékot – az Elnök rendelkezése alapján –, befizeti az Alapba. Az Elnök a rendelkezésében megjelöli, hogy a jelen bekezdés szerint befizetett összeg milyen közérdekű célra, milyen módon használható fel. Az Alap a jelen bekezdés szerint átutalt összeget kizárólag az Elnök rendelkezései szerint, az általa megjelölt célra használhatja fel. Az Alap vezérigazgatója a felhasználás során közérdekből kérheti az Elnöktől a rendelkezés szerinti cél, illetve a felhasználási szabályok módosítását. Az Elnök az Alap vezérigazgatójának kérelmét elutasíthatja, vagy részben vagy egészben jóváhagyhatja, illetve új közérdekű célt és felhasználási szabályokat jelölhet meg. Ha az Alap az átutalt összeget nem az elnöki rendelkezésnek megfelelően használja fel, köteles az annak megfelelő összeget az Elnök felhívása alapján a Hatóság részére haladéktalanul visszautalni. A Hatóság az ily módon visszautalt összegből tartalékot képez, melyből az Elnök döntése szerint új közérdekű cél meghatározásával támogatást nyújthat az Alapnak, vagy azt, illetve annak egy részét közvetlenül a hírközlési és a kapcsolódó piacok, illetve a fogyasztói jólét fejlesztésével összefüggő közérdekű célra használhatja fel. A Hatóság a befizetést – ide nem értve a tartalékból történő támogatást – a tárgyévet követő év március 31-ig teljesíti. A frekvencia díjak azon része, amelyet az Elnök a jelen bekezdés szerint a tárgyév december 31-ig az Alapba befizetendőként megjelöl, valamint a jelen bekezdés szerint képzett tartalék – tekintettel a (2) és (12) bekezdésekben foglaltakra is – nem minősül tényleges maradványnak.
+
+(6) A Hatóság hírközlési hatósági tevékenységével összefüggésben felmerült költségek fedezése érdekében az elektronikus hírközlési szolgáltatók, a postai felügyeleti tevékenységek fedezése érdekében a postai szolgáltatók felügyeleti díjat kötelesek fizetni. A díj mértéke az elektronikus hírközlési szolgáltató elektronikus hírközlési szolgáltatásaiból származó előző üzleti évi nettó árbevételének legfeljebb 0,35 százaléka, a postai szolgáltató esetében postai szolgáltatásaiból származó előző üzleti évi nettó árbevételének legfeljebb 0,2 százaléka, előző évi árbevétel hiányában a tárgyévi árbevétel egész évre vetített időarányos része. A felügyeleti díj mértékét a törvény által megengedett határokon belül a Kormány évente rendeletben határozza meg.
+
+(7) A felügyeleti díjat negyedévente – a negyedév végéig – kell a Hatóság részére befizetni.
+
+(8) Amennyiben a Hatóság e törvényben meghatározott felügyeleti bevételei egy költségvetési évben meghaladják a jogszabályban meghatározott feladatai ellátásához kapcsolódó kiadások összegét, a többletet a Hatóság éves beszámolójának elfogadását követően – a tárgyévben teljesített felügyeleti díjbefizetések arányában és legfeljebb azok mértékéig – a tárgyévet követő évben fizetendő felügyeleti díjban jóvá kell írni.
+
+(9) A Hatóság a hírközlés és a média területén a tudatos fogyasztói döntéshozatal kultúrájának fejlesztésére – így különösen a hírközlési és médiajog, a verseny- és fogyasztóvédelmi politika körébe tartozó tudományos-oktatási programok támogatására, a hírközlési és a médiajoggal, illetve fogyasztóvédelmi politikával foglalkozó szakemberek képzésére, a hírközlési és médiapolitikával, valamint a fogyasztói döntéshozatallal kapcsolatos tájékozottság növelése érdekében végzett tájékoztatásra – jogosult felhasználni az előző évben a hírközlési és médiapiac szereplőitől befolyt bírságok teljes összegét. A tárgyévben e célból rendelkezésre álló, de fel nem használt összeg a következő évre átvihető, és a tudatos fogyasztói döntéshozatal kultúrájának fejlesztésére fordítható.
+
+(10) Az Országgyűlés a – (2) bekezdésben meghatározott eljárásnak megfelelően előterjesztett – zárszámadási törvényjavaslat elfogadásával dönt a (2) bekezdésben meghatározott önálló törvény végrehajtásáról, ideértve a 136. § (15) bekezdés szerinti mellékletet is. E zárszámadási törvény esetében a benyújtási határidő minden év május 31.
+
+(11) A Hatóság és a Médiatanács gazdálkodását az Állami Számvevőszék ellenőrzi.
+
+(12) A (2) bekezdés tekintetében kötelezettségvállalásnak minősül minden olyan, a Hatóság, illetve az Alap belső utasításának megfelelően megtett jognyilatkozat, amely alapján a (2) bekezdés szerinti külön törvényben foglalt egységes költségvetés terhére fizetési kötelezettség keletkezik.
+
+135. § (1) A Médiatanács a költségvetési szervek gazdálkodására vonatkozó jogszabályok értelemszerű alkalmazásával gazdálkodik, számláit a Kincstár vezeti.
+
+(2) A Médiatanács költségvetését az Országgyűlés a Hatóság egységes költségvetésének részeként, abban elkülönítve, a Hatóság költségvetéséről szóló törvényben, az Alap, e törvény 136. § (3) bekezdésben meghatározott forrásai közül a Médiatanács működési költségeinek fedezetére fordítható összeg terhére hagyja jóvá. A Médiatanács jogosult a jóváhagyott költségvetése kiadási előirányzatai közötti átcsoportosításra.
+
+### A Médiaszolgáltatás-támogató és Vagyonkezelő Alap
+
+136. § (1) Az Alap olyan elkülönített vagyonkezelő- és pénzalap, amelynek feladata a közszolgálati médiaszolgáltatás, a Közszolgálati Közalapítvány, a közösségi médiaszolgáltatások, a közszolgálati médiaszolgáltatók szervezeti átalakításának támogatása, a közszolgálati célú műsorszámok gyártása és támogatása, az elsőként filmszínházban bemutatásra szánt filmalkotások és a kortárs zeneművek támogatása, az Archívum és egyéb vagyonának gondos kezelése és gyarapítása, valamint az ezekhez kapcsolódó egyéb tevékenységek támogatása, illetve elvégzése.
+
+(2) Az Alap eszközei kizárólag a törvényben meghatározott célokra használhatók fel.
+
+(3) Az Alap pénzügyi forrásai: a médiaszolgáltatási díj, a pályázati díj, a műsorszolgáltatási szerződésszegési kötbér és kártérítés, a bírság, a közszolgálati hozzájárulás, a frekvencia díjakból a Hatóság által a 134. § (5) bekezdés alapján az Alaphoz utalt összeg, a lineáris audiovizuális médiaszolgáltatást nyújtó médiaszolgáltatók által a (9) bekezdés alapján befizetett támogatás, a központi költségvetési céltámogatások, a vagyonhasznosításból, illetve a kereskedelmi tevékenységből származó bevételek, a kamatbevételek továbbá az önkéntes befizetések.
+
+(4) A Magyar Állam évente közszolgálati hozzájárulást fizet a lineáris audiovizuális médiaszolgáltatások vételére alkalmas készüléket használó háztartások számát alapul véve. A közszolgálati hozzájárulás mértékét e törvény 4. számú melléklete határozza meg. Az Állam a közszolgálati hozzájárulást tizenkét egyenlő részletben előre, minden hónap harmadik napjáig fizeti meg az Alap pénzforgalmi számlájára.
+
+(5) A Magyar Állam képviseletében eljárva az audiovizuális politikáért felelős miniszter legfeljebb hét évre szóló szerződést köthet az Alappal a közszolgálati hozzájárulás megfizetéséről. A szerződés megkötéséhez nem szükséges az államháztartásról szóló törvényben előírt, külön országgyűlési felhatalmazás.
+
+(6) Az Alap jogi személy, kezelője a Médiatanács.
+
+(7) Az Alap köteles a Kincstárban pénzforgalmi számlát vezetni.
+
+(8) A lineáris audiovizuális médiaszolgáltatást nyújtó, jelentős befolyásoló erejű médiaszolgáltató éves reklámbevételének két és fél százalékát új, magyar filmalkotás támogatására köteles fordítani. E kötelezettség az Alap részére befizetett pénzösszeggel, vagy az Alap és a médiaszolgáltató közötti megállapodásban meghatározott új filmalkotás pénzbeli támogatásával teljesítendő. A médiaszolgáltató az így befizetett, illetve támogatásra fordított pénzösszeget társasági adóalapjából levonhatja.
+
+(9) Az Alapba történő önkéntes befizetés közérdekű kötelezettségvállalásnak minősül. Amennyiben az Alapba történő önkéntes befizetés a Hatósággal vagy a Médiatanáccsal kötött hatósági szerződésben foglalt vállaláson vagy a Média- és Hírközlési Biztossal kötött megállapodáson alapul, az önkéntes befizetést az e megállapodásokban foglaltaknak megfelelően kell felhasználni.
+
+(10) Az Alap támogatáspolitikáját, éves tervét és éves beszámolóját a Médiatanács fogadja el. Az Alap pénzügyi forrásainak és nyilvántartásaiban szereplő eszközeinek a támogatáspolitikában, illetve éves tervben nem szereplő felhasználásához, illetve az ezek terhére történő, a támogatáspolitikában, illetve éves tervben nem szereplő kötelezettségvállaláshoz, valamint az Alap finanszírozási körén kívülre történő, a Médiatanács által meghatározott összeghatárt meghaladó kifizetéshez a Médiatanács előzetes jóváhagyása szükséges.
+
+(11) Az Alap vezérigazgatója feletti teljes munkáltatói jogkört – ideértve a kinevezést, a munkabér és juttatások megállapítását, továbbá a munkáltatói felmondást is – a Médiatanács elnöke gyakorolja.
+
+(12) Az Alap vezérigazgató-helyetteseinek kinevezésére és a munkáltatói felmondásra a vezérigazgató tesz javaslatot a Médiatanács elnökének, aki dönt a kinevezésről, a munkabérről és juttatásokról, továbbá a munkáltatói felmondásról. Egyebekben a vezérigazgató gyakorolja a vezérigazgató-helyettesek feletti munkáltatói jogkört.
+
+(13) Az Alap vezérigazgatójára és vezérigazgató-helyettesére a Hatóság Elnökére, elnökhelyettesére, valamint főigazgatójára és főigazgató-helyettesére vonatkozó, a 118. § (1)–(2) bekezdésben foglalt összeférhetetlenségi szabályok, illetve a 118. § (3) bekezdésben foglalt kizáró okok megfelelően irányadók.
+
+(14) Az Alap Felügyelő Bizottságának elnökét és négy tagját a Médiatanács elnöke bízza meg és hívja vissza. Tiszteletdíjukat a Médiatanács elnöke állapítja meg.
+
+(15) Az Alap éves költségvetését – a 134. § (2) bekezdés szerinti önálló törvény mellékleteként – az Országgyűlés hagyja jóvá.
+
+(16) Az Alap kezelésének részletes szabályait a Médiatanács határozza meg és az audiovizuális politikáért felelős miniszter által vezetett minisztérium internetes honlapján, továbbá a Hatóság honlapján közzéteszi.
+
+(17) Az Alap részére a 109/2010. (X. 28.) OGY határozat alapján átadott, valamint az Alap által egyéb jogcímen szerzett vagyon tulajdonosi jogainak és kötelezettségeinek – Alap által történő – gyakorlása, az átadott, illetve az egyéb jogcímen szerzett vagyon hasznosítása, a vagyonnal történő gazdálkodás nem tartozik az állami vagyonról szóló törvény hatálya alá.
+
+(18) Az Alap személyes illetékmentességre jogosult, és nem alanya a társasági adónak, valamint a helyi adónak.
+
+137. § (1) A közszolgálati célú műsorszámok, valamint a közösségi médiaszolgáltatók támogatását nyilvános pályázat útján kell biztosítani.
+
+(2) Az Alap által kidolgozott általános pályázati feltételeket a Médiatanács hagyja jóvá.
+
+(3) Az Alap a jóváhagyott általános pályázati feltételek alapján készíti el és teszi közzé a pályázati felhívásokat. A pályázatok elbírálásának módját az általános pályázati feltételekben kell szabályozni.
+
+(4) Az Alap – a közszolgálati médiaszolgáltatás 83. §-ban foglalt céljai elérése érdekében – a megfelelő minőségű médiatartalom előállításának elősegítése érdekében biztosítja a közszolgálati médiaszolgáltatások tartalmának előállításában részt vevők továbbképzését. Az Alap a szükséges képzést jogosult kereskedelmi tevékenysége keretein belül szervezni.
+
+### A Médiatanács Médiatudományi Intézete
+
+138. § (1) A Médiatanács Médiatudományi Intézete (a továbbiakban: Intézet) a Hatóság önálló szervezeti egysége, amely a Médiatanács működését segíti, illetve önálló tudományos tevékenységet végez. Az Intézet vezetője és tagjai a Hatóság köztisztviselői.
+
+(2) Az Intézet munkájának felügyeletét a Médiatanács látja el.
+
+(3) Az Intézet feladatai:
+
+- a) a Médiatanács működésének támogatása kutatási és elemzési feladatok ellátása útján,
+- b) a médiához kapcsolódó társadalomtudományi kutatások elvégzése,
+- c) szakmai kiadványok megjelentetése,
+- d) szakmai konferenciák szervezése,
+- e) egyéb, a Médiatanács által az Intézet számára meghatározott feladat.
+
+(4) Az Intézet megbízással külső szakértőket is igénybe vehet.
+
+### III. Fejezet — A MÉDIA- ÉS HÍRKÖZLÉSI BIZTOS
+
+### Általános szabályok
+
+139. § (1) A Hatóság részeként Média- és Hírközlési Biztos (a továbbiakban: Biztos) működik. A Biztos az elektronikus hírközlési szolgáltatást, illetve médiaszolgáltatást igénybe vevő felhasználókat, előfizetőket, nézőket, hallgatókat, fogyasztókat, illetve sajtótermék olvasóit megillető, elektronikus hírközléssel és a médiaszolgáltatásokkal, sajtótermékekkel kapcsolatos jogok, valamint méltánylást érdemlő érdekek érvényesülésének elősegítésében működik közre. A Biztos eljár az e törvényben meghatározott ügyekben.
+
+(2) A Biztost az Elnök nevezi ki és menti fel, valamint gyakorolja felette a munkáltatói jogokat. A Biztos főosztályvezetői besorolású köztisztviselő. A Biztos a jelen Fejezet szerinti feladatai ellátása körében nem utasítható, tevékenységéről az Elnöknek, illetve a Médiatanácsnak számol be a 143. §-ban meghatározott módon.
+
+(3) A Biztosra megfelelően alkalmazni kell a 111. § (4) bekezdésben foglaltakat.
+
+(4) A Biztost a feladatai ellátásában az általa vezetett Média- és Hírközlési Biztos Hivatala (a továbbiakban: Biztos hivatala) segíti, a Biztos hivatalának köztisztviselőit az Elnök nevezi ki, illetve menti fel, felettük a kinevezés és a felmentés kivételével a Biztos gyakorolja a munkáltatói jogokat.
+
+(5) A Biztos hivatalának működését, szervezeti felépítését, belső és külső kapcsolatrendszerét a Hatóság Szervezeti és Működési Szabályzata és a Biztos hivatalának ügyrendje határozza meg. A Biztos hivatalának ügyrendjét a Biztos készíti elő és az Elnök hagyja jóvá.
+
+(6) A Biztos hivatalának költségvetését a Hatóság költségvetésén belül, elkülönítetten kell megállapítani.
+
+140. § (1) Valamely médiaszolgáltatás, sajtótermék, valamint elektronikus hírközlési szolgáltatás nyújtásával kapcsolatos olyan magatartás észlelése esetén, amely a médiaszolgáltatásra vagy az elektronikus hírközlési szolgáltatásra vonatkozó szabály megsértésének nem minősül, illetve nem tartozik a Médiatanács, az Elnök és a Hivatal hatáskörébe, de a médiaszolgáltatást, a sajtóterméket, illetve az elektronikus hírközlési szolgáltatást igénybe vevő felhasználók, előfizetők, fogyasztók, valamint a nézők vagy hallgatók méltányolandó érdekének sérelmét okozza vagy okozhatja,
+
+- a) az, akit érdeksérelem ért, vagy akinél érdeksérelem bekövetkezésének közvetlen veszélye áll fenn, vagy
+- b) a fogyasztói érdekek képviseletét ellátó társadalmi szervezet, ha az érdeksérelem a fogyasztók jelentős számát érinti, vagy érintheti, a Biztos Hivatalánál panasszal élhet.
+
+(2) Az Elnökhöz, a Hivatalhoz, illetve a Médiatanácshoz érkezett olyan kérelmeket, illetve bejelentéseket, amelyek tartalmuk szerint megfelelnek az (1) bekezdésben foglaltaknak, és tartalmazzák a 141. § (5) bekezdés szerinti adatokat, az Elnök, a Hivatal, illetve a Médiatanács öt munkanapon belül átteszi a Biztoshoz, aki azt a továbbiakban hozzá érkezett panaszként bírálja el. Erről, a tényről, valamint az áttételről a kérelmezőt, illetve a bejelentőt az áttétellel egyidejűleg értesíteni kell. A Biztos erre irányuló panasz hiányában hivatalból is jogosult intézkedni, amennyiben az (1) bekezdés b) pontban meghatározott érdeksérelemről egyéb úton tudomást szerez.
+
+### A Biztos eljárása
+
+141. § (1) A Biztos eljárása nem hatósági eljárás, hatósági hatáskört nem gyakorolhat, hatósági ügy érdemében döntést nem hozhat. A 140. § (1) bekezdés szerinti panasz nem hatósági ügy. A Biztos a 140. § (1) bekezdés szerinti panaszokkal kapcsolatos eljárása során a 140–141. § szerint jár el. Eljárása során, a panasz kivizsgálása érdekében az e törvényben nem szabályozott kérdésekben megfelelően alkalmazza a Ket. hatósági ellenőrzésre vonatkozó rendelkezéseit, valamint eljárási alapelveit. A Biztos köteles az eljárását a 151. §-ban foglalt határidő szerint lefolytatni.
+
+(2) Az (1) bekezdés szerinti határidőbe nem számít bele
+
+- a) az (5) bekezdés szerinti hiánypótlás ideje,
+- b) a 142. § (1) bekezdés szerinti adatszolgáltatás ideje,
+- c) a 142. § (2) bekezdés szerinti eljárás ideje,
+- d) a 142. § (4) bekezdés szerinti nyilatkozattétel ideje, valamint
+- e) a 142. § (8) bekezdés szerinti közléstől számított azon idő, amíg a szolgáltató vagy kiadó nyilatkozatot tesz, állást foglal, illetve értesíti a Biztost a megtett intézkedésről.
+
+(3) A Biztos a panaszt megvizsgálja, és ha a panasz nyilvánvalóan alaptalan, vagy az abban szereplő érdeksérelem illetőleg annak közvetlen veszélye csekély jelentőségű, illetve a panaszban foglalt ügy nem tartozik a Biztos hatáskörébe, erről a panaszost tizenöt napon belül értesíti. A Biztos az értesítésben szükség szerint tájékoztatja a panaszost az elektronikus hírközlésre, illetve médiaszolgáltatásra vonatkozó szabályban, illetve előfizetői szerződésben meghatározott jogairól és kötelezettségeiről, valamint a számára nyitva álló eljárásokról és jogorvoslatokról. Amennyiben a panaszban foglaltak a Hivatal, az Elnök, a Médiatanács vagy más szerv hatósági hatáskörébe tartoznak, a Biztos tizenöt napon belül átteszi a hatósági hatáskörrel rendelkező szervnek, erről egyidejűleg értesíti a panaszost.
+
+(4) A panaszos kérheti természetes személyazonosító adatainak és lakcímének zárt kezelését. Az iratbetekintési jog biztosítása érdekében a Biztos kivonatot készít a panaszról akként, hogy abból a panaszos kilétére vonatkozóan következtetés ne legyen levonható. A Biztos a panasz kivizsgálása céljából, a kivizsgálásra irányuló eljárás befejezését követő egy évig kezeli a panaszosnak a panasszal közvetlenül összefüggő azon személyes adatait, amelyek az eljárás során a Biztos tudomására jutottak. Erre a tényre a panaszos figyelmét fel kell hívni.
+
+(5) A panaszban meg kell jelölni a panaszos nevét és lakcímét vagy levelezési címét, a Biztos intézkedésére okot adó fennálló vagy fenyegető érdeksérelmet, illetőleg azt a tevékenységet vagy magatartást, amelynek alapján az érdeksérelem, illetve annak közvetlen veszélye valószínűsíthető, valamint a 140. § (1) bekezdésben foglalt egyéb feltételek fennállását valószínűsítő, illetve igazoló körülményeket. Hiányos panasz esetén – amennyiben a rendelkezésre álló adatok szerint a jelentős érdeksérelem valószínűsíthetően fennáll – a Biztos a panaszost határidő megjelölésével hiánypótlásra hívja fel. Egyebekben hiányos panasz esetén, vagy akkor, ha a panaszos a felhívás ellenére a hiánypótlást nem, vagy nem megfelelően teljesítette, a beadvány nem tekinthető panasznak, ezért a Biztos nem jár el.
+
+142. § (1) A Biztos a panasz, illetve az egyéb úton tudomására jutott, a 140. § (1) bekezdés b) pontban meghatározott érdeksérelem kivizsgálása érdekében bármely média-, illetve hírközlési szolgáltatótól, vagy sajtótermék kiadójától az érdeksérelemmel összefüggő adatokat, felvilágosítást és nyilatkozatot kérhet, valamint megfelelően alkalmazhatja a Ket. hatósági ellenőrzésre, valamint e törvénynek a tényállás tisztázására vonatkozó rendelkezései szerinti egyéb eszközöket. Az érintett média-, illetve hírközlési szolgáltató tizenöt napon belül köteles a kért adatot, felvilágosítást, nyilatkozatot a Biztos számára szolgáltatni, abban az esetben is, ha az adat üzleti titoknak minősül. A Biztos köteles a tudomására jutott üzleti titkot megtartani, azt az adatközlő kérésére zárt iratként kezeli.
+
+(2) Amennyiben az érintett média-, illetve hírközlési szolgáltató vagy sajtóterméket kiadó a kért adatot a Biztos számára határidőben nem szolgáltatja, a Biztos a Hivatalhoz fordul. A Hivatal a Biztos kezdeményezésére a Biztos által megjelölt, az érdeksérelemmel összefüggő adat szolgáltatására kötelezi az érintett média-, vagy hírközlési szolgáltatót, illetve kiadót az (1) bekezdésnek megfelelően. Az adatszolgáltatásra megfelelő határidőt kell előírni. A kötelezett szolgáltató vagy kiadó a közléstől számított nyolc napon belül kérheti a döntés felülvizsgálatát a Fővárosi Bíróságtól. A Fővárosi Bíróság nemperes eljárásban nyolc napon belül dönt. Amennyiben a szolgáltató a kért adatokat az előírt határidőre nem, hiányosan vagy a valóságnak nem megfelelően bocsátja a Hivatal rendelkezésére, a Hivatal a 175. § (8) bekezdésben meghatározott jogkövetkezményeket alkalmazhatja. A Hivatal a beérkezett adatokat átadja a Biztosnak.
+
+(3) A Biztos eljárása során az érdeksérelemre vonatkozóan a hírközlési vagy médiaszolgáltatóval, vagy sajtótermék kiadójával szóban vagy írásban egyeztetést folytat (egyeztetési eljárás). Az egyeztetési eljárásba a Biztos – amennyiben ezt célravezetőnek ítéli, és a panaszos ezt kéri – bevonja a panaszost, valamint, ha az ügy a fogyasztók jelentős számát érinti, bevonhatja a fogyasztói érdekek képviseletét ellátó társadalmi szervezet képviselőjét.
+
+(4) Az egyeztetési eljárásban a Biztos az érdeksérelem leírását – határidő jelölésével – nyilatkozattételre megküldi a hírközlési vagy médiaszolgáltatónak, illetve sajtótermék kiadójának.
+
+(5) A hírközlési vagy médiaszolgáltató, illetve a sajtóterméket kiadó írásban közölt nyilatkozata, illetve válasza alapján – indokolt esetben – a Biztos személyes egyeztetésre hívja az érintett szolgáltató képviselőjét, illetve szükséges esetben a panaszost, valamint képviselője útján a fogyasztói érdekek képviseletét ellátó társadalmi szervezetet.
+
+(6) Amennyiben a Biztos és a hírközlési vagy médiaszolgáltató, sajtóterméket kiadó, illetve műsorterjesztő között nem jön létre megegyezés az érdeksérelem, illetve annak közvetlen veszélye elhárítása érdekében, a Biztos az egyeztetési eljárás eredményét jelentésben rögzíti, és a (8)–(9) bekezdésben foglaltaknak megfelelően jár el. Amennyiben az egyeztetési eljárás eredményre vezet, a megegyezést a Biztos és az érintett szolgáltató megállapodásban rögzítik, melyet a Biztos a panaszosnak megküld, illetve ha az eljárás tárgya a fogyasztók jelentős számát érinti a megállapodást a Biztos a honlapján közzéteszi. A megállapodásban a felek rögzítik az érdeksérelem elhárításának módját.
+
+(7) A megállapodás a felek olyan egybehangzó, önkéntes jognyilatkozata, amelyet a Biztos az érintett szolgáltatóval oly módon köt meg, hogy ezáltal az adott média-, illetve elektronikus hírközlési szolgáltatást, illetve sajtóterméket igénybe vevő felhasználók, előfizetők, fogyasztók, valamint a nézők, hallgatók, illetve olvasók válnak jogosulttá. A felhasználókra, előfizetőkre, fogyasztókra, valamint a nézőkre, hallgatókra és olvasókra a megállapodásból eredően kötelezettségek nem származhatnak. A megállapodásban foglaltak az érintett felhasználóknak, előfizetőknek, fogyasztóknak, valamint a nézőknek, hallgatóknak és olvasóknak az érintett szolgáltatóval fennálló jogviszonya részét képezi oly módon, hogy a megállapodásban foglaltak egyedi ügyben alkalmazhatóak, arra az érintett felhasználó, előfizető, fogyasztó, valamint a néző, hallgató és olvasó egyedi ügyben hivatkozhat, illetve a megállapodásban foglaltak megtartását a Hatóság hatósági felügyelet keretében ellenőrizheti. A jelen bekezdés szerinti megállapodást kötő szolgáltatónak a fogyasztói érdekek hatékony érvényesítése körében mutatott együttműködését a Hatóság a szolgáltatót érintő egyéb hatósági ügyekben is figyelembe veszi.
+
+(8) Amennyiben az egyeztetési eljárás nem vezet eredményre, a Biztos kezdeményezi (a továbbiakban: kezdeményezés) a hírközlési vagy médiaszolgáltató vagy sajtóterméket kiadó vezető tisztségviselőjénél az érdeksérelem, illetve az érdeksérelem közvetlen veszélyének megszüntetését vagy orvoslását. A szolgáltató nyilatkozatáról, továbbá a kezdeményezésre vonatkozó állásfoglalásáról és a megtett intézkedésről a kezdeményezés közlésétől számított tizenöt napon belül értesíti a Biztost.
+
+(9) A Biztos a kezdeményezés eredményéről jelentést készít, amelyről értesíti az Elnököt. A jelentésben a biztos az érdeksérelem körülményei mellett részletesen feltárja a szolgáltatónak a fennálló vagy fenyegető érdeksérelem kezelésével kapcsolatos magatartását, különösen az érdeksérelem kiküszöbölése és a fogyasztói jólét növelése érdekében tanúsított együttműködési készségét. A Biztos a jelentését nyilvánosságra hozza, amennyiben az a fogyasztók jelentős számát érinti, vagy érintheti, illetve a jelentés alapján ajánlást vagy tájékoztatót adhat ki a fogyasztók számára a további érdeksérelmek elkerülése érdekében.
+
+### A Biztos beszámolója
+
+143. § A Biztos a lefolytatott eljárások tapasztalatairól, a kezdeményezések és ajánlások eredményességéről, jelentéseiről, javaslatairól negyedévente beszámolót készít – a hírközlési szolgáltatókat és a műsorterjesztőket érintő ügyek tekintetében – az Elnöknek és – a médiaszolgáltatókat, valamint a sajtótermékek kiadóit érintő ügyek tekintetében – a Médiatanácsnak.
+
+### IV. Fejezet — A MÉDIATANÁCS ÉS A NEMZETI MÉDIA- ÉS HÍRKÖZLÉSI HATÓSÁG HIVATALÁNAK ELJÁRÁSÁRA VONATKOZÓ ELŐÍRÁSOK
+
+### A közigazgatási hatósági eljárás általános szabályainak alkalmazása
+
+144. § (1) A Médiatanács és a Hivatal (e Fejezet alkalmazásában a továbbiakban: Hatóság) az e törvényben foglalt eltérésekkel a Ket. szerint jár el.
+
+(2) A Médiatanács tagjainak és elnökének a szavazata egyenlő, azaz mindenkinek egy-egy szavazata van.
+
+(3) A Médiatanács határozatképességéhez a tagok – ideértve a Médiatanács elnökét is – több mint felének jelenléte szükséges.
+
+(4) A Médiatanács a döntéseit – a 129. § (7) bekezdésben foglalt kivétellel – a Médiatanács összes tagjának, ideértve a Médiatanács elnökét is, egyszerű többségével hozza.
+
+### Bejelentő
+
+145. § (1) A Hatóság e törvényben meghatározott feladat- és hatáskörével kapcsolatban a médiaigazgatásra vonatkozó szabály megsértésére hivatkozással bárki a Hatósághoz címzett bejelentéssel élhet, aki a bejelentés tárgyában nem minősül vagy a jogszabályok alapján nem minősülne ügyfélnek (a továbbiakban: bejelentő).
+
+(2) A bejelentésben meg kell jelölni a bejelentő adatait, a Hatóság eljárására okot adó körülményt, illetőleg azt a tevékenységet vagy magatartást, amelynek alapján a médiaigazgatásra vonatkozó szabály megsértése valószínűsíthető, valamint a bejelentést megalapozó tényeket.
+
+(3) A Hatóság a bejelentés alapján mérlegelése szerint hivatalból eljárást indíthat. Amennyiben a Hatóság a bejelentés alapján nem indít eljárást, arról hivatalos levélben – indokolási kötelezettség nélkül – tájékoztatja a bejelentőt.
+
+(4) A bejelentés alapján megindított hatósági eljárási jogviszonynak a bejelentő nem válik alanyává, a bejelentő a bejelentése alapján hivatalból indított hatósági eljárásban hozott hatósági döntéssel szemben jogorvoslati jogosultsággal nem rendelkezik.
+
+(5) A bejelentő kérheti adatainak a 153. § (2) bekezdés szerinti zárt kezelését.
+
+(6) Amennyiben a bejelentés tartalma szerint kérelemnek és a bejelentő ügyfélnek minősül, abban az esetben a Hatóság e tényről és hatósági eljárás megindításával kapcsolatos jogairól külön tájékoztatja a bejelentőt, ezen kívül egyéb eljárási cselekményt nem tesz.
+
+### Jogutódlás
+
+146. § (1) A jogerős határozat alapján jogosított ügyfél helyébe jogutódja léphet.
+
+(2) A jogerős határozattal kötelezett ügyfél helyébe – amennyiben az nem lehetetlen – jogutódja lép. A jogerős határozattal megállapított kötelezettség esetén – indokolt esetben a teljesítési határidő kérelmére egy alkalommal történő meghosszabbításával – a jogutód a kötelezettséget önkéntesen teljesítheti. Erről a Hatóság és a jogutód hatósági szerződésben is megállapodhat.
+
+(3) A jogerős határozattal megállapított kötelezettség esetén az ügyfél jogutódjának minősül az a harmadik személy is, akire az eredeti (jogelőd) kötelezett ügyfél a tevékenysége végzésének feltételeit megállapodás alapján átruházza.
+
+(4) Amennyiben a jogutódlás a hatósági eljárás során következik be és a jogutódlás jogszabályon alapul, abban az esetben a Hatóság a jogutódlás tényét végzésében megállapítja. E végzés ellen önálló fellebbezésnek helye nincs.
+
+(5) Amennyiben a jogutódlás hatósági eljárás során következik be és a jogutódlás szerződésen alapul, akkor a Hatóság a hatósági hatáskörének gyakorlásához szükséges jogutódlás tényét végzésében megállapítja. E végzés ellen önálló fellebbezésnek helye nincs.
+
+### Titoktartás
+
+147. § (1) A Hatósággal közszolgálati jogviszonyban, valamint munkavégzésre irányuló egyéb jogviszonyban álló, illetve állt személyek – a más szervezet számára jogszabályban előírt adatszolgáltatást kivéve – e jogviszony fennállása alatt, és annak megszűnését követően is kötelesek megőrizni a Hatóság tevékenységével, annak ellátásával kapcsolatban tudomásukra jutott személyes adatot, minősített adatot, illetve üzleti titkot, valamint minden olyan adatot, tényt vagy körülményt, amelyet a Hatóság nem köteles törvény előírásai szerint a nyilvánosság számára hozzáférhetővé tenni.
+
+(2) Az (1) bekezdésben felsorolt személyek a feladataik ellátásával kapcsolatban tudomásukra jutott adatokat, tényt vagy körülményt jogosulatlanul nem tehetik közzé, nem hasznosíthatják, és nem hozhatják harmadik fél tudomására.
+
+### Elektronikus kapcsolattartás
+
+148. § Az e törvényben meghatározott hatásköreiben és eljárásokban a Hatóság kötelezővé teheti az elektronikus kapcsolattartást.
+
+### Az eljárás megindítása
+
+149. § (1) A Hatóság a hatáskörébe tartozó ügyekben eljárását hivatalból is megindíthatja, kivéve, ha e törvény szerint az eljárás kizárólag kérelemre indítható.
+
+(2) Amennyiben a Hatóság eljárása során az egyedi hatósági ügy tárgyán kívüli, de azzal szorosan vagy közvetetten összefüggő jogsértésről szerez tudomást, annak vonatkozásában – hatósági döntésének meghozatala előtt – eljárását hivatalból kiterjesztheti. Az eljárás hivatalbóli kiterjesztéséről az ügyfeleket a Ket. vonatkozó rendelkezései szerint értesíteni kell. Az eljárás hivatalbóli kiterjesztésével az ügyintézési határidő az eljárásra irányadó ügyintézési határidővel meghosszabbodik.
+
+(3) A Hatóság külön jogszabályban meghatározott eljárásaiért igazgatási szolgáltatási díjat kell fizetni.
+
+### A hatáskör és az illetékesség vizsgálata
+
+150. § Hatáskör vagy illetékesség hiányában – a hatáskörrel és illetékességgel rendelkező hatóság vizsgálata, illetve áttétel nélkül – a Hatóság jogosult a kérelmet érdemi vizsgálat nélkül elutasítani, illetve az eljárást megszüntetni.
+
+### Ügyintézési határidő
+
+151. § (1) A Hatóság eljárásainak ügyintézési határideje – amennyiben e törvény eltérő szabályokat nem állapít meg – negyven nap.
+
+(2) A határidő indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
+
+### Kérelem
+
+152. § Az ügyfél kérelmét a Hatóság által e célra rendszeresített nyomtatványon – elektronikus kapcsolattartás esetén elektronikus űrlapon – köteles benyújtani a 42–47. § szerinti bejelentési eljárásokban.
+
+### Iratok megtekintése, törvény által védett titok
+
+153. § (1) Az ügy elintézésében résztvevő, a Hatósággal közszolgálati jogviszonyban, illetve munkavégzésre irányuló egyéb jogviszonyban állók korlátozás nélkül jogosultak a törvény által védett titok megismerésére.
+
+(2) Az ügyfél és az eljárás egyéb résztvevői megjelölhetik – a közérdekből nyilvános, illetve jogszabályban meghatározottak szerint egyébként törvény által védett titoknak nem minősíthető adatok kivételével – a törvény által védett titok, különösen az üzleti titok védelmére, egyéb méltányolható érdekre, továbbá jelentős médiapolitikai szempontra hivatkozással azokat az adatokat, amelyek zárt kezelését szükségesnek tartják. Ebben az esetben az ügyfél, illetve az eljárás egyéb résztvevője köteles olyan iratváltozatot is készíteni, amely az előbbiekben meghatározott adatokat nem tartalmazza.
+
+(3) A (2) bekezdés szerinti adatokat a Hatóság az ügy iratai között elkülönítve, zártan kezeli. A Hatóság biztosítja, hogy a zártan kezelt adatok az eljárási cselekmények során ne váljanak megismerhetővé.
+
+(4) A zártan kezelt adatok megismerésére kizárólag az ügyintéző, a jegyzőkönyvvezető, a Hatóság vezetői, a Médiatanács tagja, az illetékes ügyész és a bírósági felülvizsgálat során eljáró bíró jogosult.
+
+(5) A hatósági ügy tárgyával kapcsolatos tevékenységeik ellátásához szükséges mértékben a zártan kezelt adatokat megismerheti továbbá – a Hatóság mérlegelése szerint – más közigazgatási hatóság vagy állami szerv is, amennyiben biztosítja, hogy az átadott adatok legalább olyan védelemben részesüljenek, mint az átadó hatóságnál.
+
+(6) Az iratbetekintési jog biztosítása érdekében a Hatóság – a jogszabályban meghatározott tartalmi és formai követelményeknek egyebekben megfelelő – kivonatot készít az eljárás során keletkezett iratról akként, hogy abból az (2) bekezdésben meghatározott adatokra vonatkozóan következtetés ne legyen levonható.
+
+(7) Amennyiben a jogalkalmazás megfelelő gyakorlása, illetve a jogérvényesítés, valamint az ügyfelek jogai gyakorlása érdekében indokolt, a Hatóság felhívhatja az ügyfelet és az eljárás egyéb résztvevőjét a (2) bekezdés szerinti zárt adatkezelés feloldására.
+
+(8) Amennyiben az ügyfél, illetve az eljárás egyéb résztvevője a (2) bekezdés szerinti minősítést nem oldja fel, a Hatóság végzésében – amennyiben a jogalkalmazás gyakorlásához vagy az ügyfelek jogérvényesítéséhez elengedhetetlenül szükséges – elrendelheti a zárt adatkezelés feloldását. E végzés ellen az ügyfél, illetve az eljárás egyéb résztvevője a Fővárosi Bírósághoz halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Bíróság végzése ellen további jogorvoslatnak helye nincs.
+
+### Kizárás
+
+154. § (1) Az ügy érdemi elintézésében a Ket. kizárásra vonatkozó rendelkezéseiben foglaltakon túl nem vehet részt, akinek az a) pont szerinti jogviszonya az ügyféllel, illetve az ügyfélben befolyásoló részesedéssel rendelkező vagy az ügyfél befolyásoló részesedése mellett működő vállalkozással az eljárás kezdetét megelőző egy éven belül állt fenn, illetőleg akinek hozzátartozója
+
+- a) az ügyféllel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy tagsági viszonyban áll, illetve annak vezető tisztségviselője,
+- b) az ügyfélben tulajdoni részesedéssel rendelkezik,
+- c) olyan magánszeméllyel, jogi személlyel vagy jogi személyiség nélküli szervezettel áll munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy tagsági viszonyban, illetőleg annak vezető tisztségviselője, vagy abban tulajdoni részesedéssel rendelkezik, amely az ügyféllel rendszeres üzleti kapcsolatban áll,
+- d) olyan szervezettel áll munkavégzésre irányuló jogviszonyban, amely az ügyfél felügyelő vagy alárendelt szervezete, illetve, amely az ügyfél részére valamely támogatást, illetőleg kizárólagos jogosítványt biztosított, ide nem értve az Alappal vagy a Hatósággal fennálló munkavégzésre irányuló jogviszonyt.
+
+(2) A Hivatal eljáró alkalmazottja a főigazgatónak haladéktalanul köteles bejelenteni, ha vele szemben kizárási ok áll fenn. A Hivatal eljáró alkalmazottja a bejelentés elmulasztásáért vagy késedelmes teljesítéséért fegyelmi és anyagi felelősséggel tartozik. A Hivatal alkalmazottjának kizárásáról a főigazgató dönt, és szükség esetén kijelöli a Hivatal eljáró alkalmazottját.
+
+(3) A főigazgató haladéktalanul köteles bejelenteni az Elnöknek, ha vele szemben kizárási ok áll fenn. A főigazgató a bejelentés elmulasztásáért vagy késedelmes teljesítéséért fegyelmi és anyagi felelősséggel tartozik. A főigazgató kizárása tárgyában az Elnök dönt. Amennyiben a főigazgatóval szemben a kizárási ok fennáll, döntésében az Elnök mérlegeli, hogy az adott ügyben a főigazgató jár el azzal, hogy döntését köteles megküldeni az Elnöknek, vagy a hatáskör gyakorlására kijelöli a főigazgató-helyettesek valamelyikét.
+
+(4) Ha az ügyfél nyilvánvalóan alaptalanul tesz kizárásra irányuló bejelentést, a kizárást megtagadó végzésben a 156. §-ban meghatározott eljárási bírsággal sújtható.
+
+(5) A Médiatanács valamely tagjának kizárásáról a Médiatanács dönt. A kizárt tag az adott ügy érdemi elintézésében nem vehet részt. Amennyiben a kizárási ok fennállása miatt a Médiatanács testülete határozatképtelenné válik, abban az esetben a Ket. vonatkozó szabályai szerint a Médiatanács a kizárási októl függetlenül, a kizárt tagok részvételével jár el akként, hogy a kizárt tagok is szavazati joggal rendelkeznek.
+
+(6) Az Elnökkel szemben fennálló kizárási ok esetében az Elnök által kijelölt elnökhelyettes jár el az ügy érdemi elintézésében.
+
+### A tényállás tisztázása
+
+155. § (1) A tényállás tisztázása során a Hatóság a (2)–(8) bekezdésben foglalt eltérésekkel a Ket. tényállás tisztázására és a hatósági ellenőrzésre vonatkozó szabályait alkalmazza.
+
+(2) A Hatóság jogosult a médiaszolgáltatással, sajtótermék kiadásával, illetve műsorterjesztéssel kapcsolatos – akár törvény által védett titkot is magában foglaló – adatot tartalmazó valamennyi eszközt, iratot, dokumentumot megtekinteni, megvizsgálni, azokról másolatot, kivonatot készíteni.
+
+(3) A Hatóság az ügyfelet, az eljárás egyéb résztvevőit, valamint azok megbízottait, alkalmazottait, illetve az ügyféllel és az eljárás egyéb résztvevőivel egyéb jogviszonyban állókat adatszolgáltatásra, illetve szóban vagy írásban adatoknak az általa meghatározott, összehasonlításra alkalmas formátumban való szolgáltatására, továbbá egyéb felvilágosítás adására kötelezheti.
+
+(4) A Hatóság különösen indokolt esetben a tényállás tisztázása érdekében az ügyfélen és az eljárás egyéb résztvevőjén kívül más személyt vagy szervezetet is adatszolgáltatásra, bizonyítási eszközök átadására kötelezhet. E bekezdés szerinti végzés ellen az adatszolgáltatásra, bizonyítási eszközök átadására kötelezett a Fővárosi Bírósághoz halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Bíróság végzése ellen további jogorvoslatnak helye nincs.
+
+(5) Amennyiben a tényállás tisztázása azt szükségessé teszi, a Hatóság az ügyfelet nyilatkozattételre, valamint adatszolgáltatásra kötelezheti, e kötelezettség elmulasztása vagy nem megfelelő teljesítése esetében alkalmazható, 156. § szerinti jogkövetkezményekre történő figyelmeztetés mellett.
+
+(6) A Hatóság a tényállás tisztázása érdekében – megfelelő határidő tűzése és a mulasztás jogkövetkezményeire történő figyelmezetés mellett – hiánypótlásra kötelezheti az ügyfelet.
+
+(7) A tanú meghallgatható az ügyfél üzleti titkáról akkor is, ha nem kapott felmentést az ügyféltől a titoktartás alól.
+
+(8) A Hatóság egyedi hatósági eljárásainak iratait, adatait, dokumentumait, illetve egyéb bizonyítási eszközeit – kivételesen indokolt esetben – más eljárásaiban is felhasználhatja, amennyiben az ügyfelek eljárási terheinek csökkentése vagy a megfelelő, illetve hatékony jogérvényesítés ezt szükségessé teszi.
+
+### Eljárási bírság
+
+156. § (1) Az eljárás akadályozásának esetén a Hatóság eljárási bírságot szabhat ki az ügyféllel, az eljárás egyéb résztvevőjével, illetve a tényállás tisztázása során közreműködésre kötelezett személlyel szemben, ha az eljárás során olyan magatartást tanúsít, amely az eljárás elhúzására, a valós tényállás feltárásának meghiúsítására irányul, vagy azt eredményezheti.
+
+(2) Az eljárási bírság legkisebb összege a (3) bekezdés szerinti kivétellel huszonötezer forint, legmagasabb összege huszonötmillió forint.
+
+(3) Természetes személy ügyfél esetében az eljárási bírság legkisebb összege tízezer forint, legmagasabb összege egymillió forint.
+
+(4) Az (1)–(3) bekezdésben foglaltakon túlmenően az eljárás akadályozása, illetve az adatszolgáltatás nem vagy nem megfelelő teljesítése esetén a Hatóság ötvenezer forinttól hárommillió forintig terjedő bírsággal sújthatja – ismételt jogsértés esetén sújtani köteles – a jogsértő vezető tisztségviselőjét is.
+
+(5) Az eljárási bírság kiszabása során a Hatóság mérlegeli különösen a jogsértő előző évben elért nettó árbevételét és a jogsértés ismételtségét.
+
+### Nyilvános meghallgatás
+
+157. § (1) A Hatóság, amennyiben e törvény ezt előírja, illetve amennyiben feladatainak ellátásához megítélése szerint egyébként szükséges és indokolt, a médiaigazgatást érintő jogszabályok és azok érvényesítésére vonatkozó intézkedések, illetve a jogalkalmazói gyakorlat előkészítésével, kialakításával kapcsolatos szakmai álláspontok és vélemények megismerése céljából – a médiaszolgáltatók, kiegészítő médiaszolgáltatást nyújtók, sajtóterméket kiadók, műsorterjesztők, közvetítő szolgáltatók, szakmai önszabályozó szervezetek, érintett civil szervezetek és mások meghívása mellett – nyilvános meghallgatást tart.
+
+(2) A Hatóság a nyilvános meghallgatásról, annak időpontjáról, helyéről és tárgyáról szóló információkat – ha e törvény eltérően nem rendelkezik – legalább harminc nappal megelőzően közzéteszi.
+
+(3) A Hatóság a nyilvános meghallgatás tárgyával kapcsolatos előkészítő dokumentumokat – az üzleti titkok kivételével – legalább tíz nappal megelőzően közzéteszi.
+
+158. § (1) A Hatóság a nyilvános meghallgatás időpontját megelőző nyolc nappal internetes honlapján közzéteszi a nyilvános meghallgatással kapcsolatban elektronikus dokumentumként részére eljuttatott anyagokat.
+
+(2) A nyilvános meghallgatásról a Hatóság összefoglalót vagy jegyzőkönyvet készít, amely tartalmazza az előterjesztett, illetve elhangzott észrevételeket és javaslatokat, kivéve az észrevételt, illetve javaslatot tevő által üzleti titoknak minősített adatokat. Az összefoglalót a Hatóság a meghallgatás időpontját követő harminc napon belül közzéteszi.
+
+### Egyeztetés az érdekeltekkel jelentős ügyekben
+
+159. § (1) A Médiatanács, amennyiben megítélése szerint szükséges, hatósági hatáskörébe tartozó ügyekben egyeztetést kezdeményezhet az érdekeltekkel (a továbbiakban: egyeztetés). Ennek keretében hatósági döntésének meghozatala előtt legalább tizenöt nappal közzéteszi a döntés tervezetét, valamint az egyeztetés lefolytatásához szükséges, az adott döntéshez kapcsolódó előkészítő anyagokat, kivéve az eljárásban zártan kezelt adatokat.
+
+(2) A hatósági döntés tervezetének (1) bekezdés szerinti közzétételétől számított nyolc napon belül bárki írásban megküldheti a Médiatanács részére a tervezett döntésre vonatkozó álláspontját, javaslatát, egyéb észrevételét (a továbbiakban: észrevétel). A beérkezett észrevételek a Médiatanácsot nem kötik, a Médiatanács számára tájékoztató jelleggel bírnak és a hatósági döntés meghozatala során a Médiatanács ezeket nem köteles figyelembe venni.
+
+(3) A Médiatanács hatósági döntésében az egyeztetés szükségességét sem, illetve amennyiben egyeztetést kezdeményez, a beérkezett észrevételek figyelembevételét vagy figyelmen kívül hagyását sem köteles indokolni.
+
+(4) A (2) bekezdés szerint észrevételt benyújtó érdekelt az észrevétel benyújtásával nem válik az egyeztetés tárgyát képező hatósági döntéssel érintett hatósági eljárási jogviszony alanyává. Az érdekelt az észrevételei körében nem rendelkezik – a hatósági döntés észrevételek által érintett részeiben sem – jogorvoslati jogosultsággal.
+
+### Hatósági szerződés
+
+160. § (1) E törvényben meghatározott esetekben a Hatóság az ügyféllel – a Ket.-ben foglalt szabályok alapján, az e törvényben meghatározott eltérésekkel – hatósági szerződést köthet.
+
+(2) A hatósági szerződésben az ügyfél olyan kötelezettségeket is vállalhat, amelyek tekintetében a Hatóság nem rendelkezik hatósági hatáskörrel, illetve amelyek teljesítésére hatósági határozattal egyébként nem lenne kötelezhető. Ez esetben a hatósági szerződésben az ügyfél aláveti magát annak, hogy amennyiben a szerződésben foglaltakat megszegi, akkor a szerződés egésze jogerős és végrehajtható hatósági határozatnak minősül.
+
+(3) A hatósági szerződés megkötésének nem érvényességi feltétele a szerződéssel jogában, jogos érdekében érintett harmadik személyek hozzájárulása azon szerződési feltételek tekintetében, amelyek teljesítésére jogszabály alapján hatósági határozattal kötelezhető lenne a szerződő fél.
+
+(4) A hatósági ügy hatósági szerződéssel történő lezárására a 151. §-ban megállapított ügyintézési határidő az e törvényben meghatározott eltérésekkel irányadó.
+
+161. § (1) A Hatóság hatósági ellenőrzés keretében ellenőrzi a hatósági szerződésben foglaltak teljesítését. Amennyiben az ellenőrzés eredményeként megállapítja a hatósági szerződésben foglaltak ügyfél általi megsértését, az ellenőrzés során feltárt tények, a szerződésszegés súlya, a hatékony jogérvényesítés, a szerződéssel érintett társadalmi-, gazdasági- és jogviszonyok, valamint a vonatkozó médiaigazgatási alapelvek és célok, továbbá a szerződés alapját képező közérdek hatékony érvényesülése szempontjából mérlegeli, hogy a döntés megsértése tárgyában a Ket. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
+
+(2) Amennyiben a Hatóság végrehajtási eljárást indít, akkor a végrehajtást elrendelő végzés felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a végzés közlésétől számított tizenöt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a végzés végrehajtására halasztó hatálya van. A Fővárosi Bíróság végzése ellen fellebbezésnek nincs helye.
+
+(3) Ha a Hatóság az (1) bekezdés alkalmazásával az e törvény szerinti jogkövetkezmények alkalmazására irányuló eljárást indít, az eljárás megindításával szemben önálló jogorvoslatnak helye nincs.
+
+(4) A hatósági ellenőrzés eredményeként – az ügyfél szerződésszegése tárgyában – indított hatósági eljárásban a Hatóság a 187. §-ban, valamint a hatósági szerződésben meghatározott jogkövetkezményeket alkalmazhatja.
+
+(5) Súlyos vagy ismételt ügyfél általi szerződésszegés esetében a Hatóság jogosult – a hatósági szerződés eltérő rendelkezése hiányában – a hatósági szerződést azonnali hatállyal felmondani.
+
+(6) A hatósági szerződés módosítása vonatkozásában a bíróság előtt indított per nem befolyásolja a hatósági szerződés végrehajtását, érvényesítését, illetve nem rendelkezik halasztó hatállyal a hatósági szerződés végrehajtása, érvényesítése tekintetében.
+
+### Közlés
+
+162. § (1) A Hatóság a Ket. szerinti nyilvános közzététel szabályait az internetes honlapján történő közzététellel teljesíti.
+
+(2) A Hatóság hatósági döntéseit, illetve a vonatkozó bírósági határozatokat internetes honlapján – a személyes adatok és az eljárásban zártan kezelt adatok védelmére tekintettel – közzéteszi.
+
+(3) Amennyiben jogszabály alapján hirdetményi úton történő közlésnek van helye, a hirdetményt kizárólag a Hatóság hirdetőtáblájára való kifüggesztéssel, valamint a Hatóság internetes honlapján kell közzétenni.
+
+### Jogorvoslat
+
+163. § (1) A Médiatanács elsőfokú hatósági hatáskörében hozott hatósági határozata ellen nincs helye fellebbezésnek. A Médiatanács hatósági határozatának felülvizsgálatát kizárólag az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében a tanú, a hatósági tanú, a szakértő, a tolmács, a szemletárgy birtokosa, az ügyfél képviselője és a hatósági közvetítő kérheti – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított harminc napon belül a közigazgatási ügyekben eljáró bíróságtól a Médiatanács elleni kereset indításával.
+
+(2) A Médiatanács határozatának felülvizsgálata iránti kereset alapján indult bírósági eljárásra a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó előírásait az e törvény szerinti eltérésekkel kell alkalmazni.
+
+(3) A keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya, a keresettel támadott hatósági határozat végrehajtásának felfüggesztése a bíróságtól kérhető.
+
+(4) A Médiatanács a keresetlevelet – az ügy irataival és nyilatkozatával együtt – annak beérkezésétől számított tizenöt napon belül továbbítja a bíróságnak.
+
+(5) A Médiatanács önálló jogorvoslattal támadható végzései ellen a nemperes eljárás iránti kérelmet a végzés közlésétől számított tizenöt napon belül kell benyújtani.
+
+(6) A Médiatanács hatósági döntései tekintetében felügyeleti eljárásnak nincs helye.
+
+164. § (1) A 163. § szerinti eljárásokban mind az elsőfokú, mind a másodfokú bíróság harminc napon belül határoz.
+
+(2) A bírósági felülvizsgálati eljárásra a Fővárosi Bíróság kizárólagosan illetékes.
+
+(3) A bíróság a Médiatanács határozatát megváltoztathatja.
+
+165. § (1) A Hivatal e törvény szerinti hatósági döntése ellen az ügyfél a Médiatanácshoz fellebbezhet, ide nem értve azon döntéseket, amelyek ellen a Ket. vagy e törvény alapján nincs helye fellebbezésnek.
+
+(2) A Hivatal határozata ellen kizárólag azon ügyfél élhet fellebbezési kérelemmel, aki az elsőfokú eljárásban részt vett.
+
+(3) A Médiatanács másodfokú határozatának felülvizsgálatát kizárólag az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében a tanú, a hatósági tanú, a szakértő, a tolmács, a szemletárgy birtokosa, az ügyfél képviselője és a hatósági közvetítő kérheti kereset indításával – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított harminc napon belül a közigazgatási ügyekben eljáró bíróságtól.
+
+(4) A keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya, a keresettel támadott hatósági határozat végrehajtásának felfüggesztése a bíróságtól kérhető.
+
+(5) A Hivatal önálló jogorvoslattal támadható végzései ellen a nemperes eljárás iránti kérelmet a végzés közlésétől számított tizenöt napon belül kell benyújtani.
+
+(6) A bírósági felülvizsgálati eljárásra a Fővárosi Bíróság kizárólagosan illetékes.
+
+### A Hatóság egyes eljárásai
+
+166. § A Hatóság egyes – a 68–70. § és a 167–181. §-ban meghatározott – eljárásaiban az egyes eljárástípusok keretében meghatározott eltérésekkel alkalmazza a Ket. és e törvény szabályait.
+
+### Általános hatósági felügyelet
+
+167. § (1) A Hatóság kérelemre vagy hivatalból – feladat- és hatáskörének keretében – jogosult hatósági ellenőrzés vagy hatósági eljárás keretében felügyelni az e törvényben és az Smtv.-ben meghatározott rendelkezések érvényesülését, betartását, valamint a hatósági döntéseiben és a Hatóság által kötött hatósági szerződésekben foglaltak teljesítését.
+
+(2) Amennyiben a Hatóság a hatósági döntésének ellenőrzése eredményeként megállapítja a hatósági döntésében foglaltak megsértését, abban az esetben az ügy összes körülményei, illetve az ellenőrzés során feltárt tények, valamint a jogsértés súlya és a hatékony jogérvényesítés szempontjai alapján mérlegeli, hogy a döntés megsértése tárgyában a Ket. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
+
+(3) Az általános hatósági felügyelet keretében feltárt jogsértések esetében a Hatóság az V. Fejezetben meghatározott jogkövetkezményeket alkalmazhatja.
+
+### Piacfelügyelet
+
+168. § (1) A Médiatanács – hatáskörének terjedelmében – a médiapiac zavartalan, eredményes, sokszínű működésének, a műsorterjesztést és a médiaszolgáltatást végzők, sajtóterméket kiadók, a nézők, hallgatók, olvasók, előfizetők és felhasználók érdekei védelme, valamint a nemzeti kultúra és a vélemények sokszínűségének megőrzése érdekében, a tisztességes és hatékony piaci verseny fenntartásának elősegítése, a piaci folyamatok megismerése és a médiapolitikai szempontok, illetve az e törvényben meghatározott egyéb célok átfogó értékelése, elemzése és hatósági felügyelete céljából piacfelügyeleti tevékenységet végez.
+
+(2) Az egyedi piacfelügyeleti eljárás több – az Smtv. és e törvény szerinti – hatósági hatáskört, illetve hatósági ügyfajtát is magában foglalhat egységes hatósági eljárásként.
+
+(3) A Médiatanács az (1) bekezdésben meghatározott tevékenysége keretében az előző év piacfelügyeleti tapasztalatainak figyelembevételével éves piacfelügyeleti tervet készít a tárgyévet megelőző év december 1-ig, és azokat tizenöt napon belül az internetes honlapján közzéteszi. A Médiatanács biztosítja az általa készített piacfelügyeleti tervek összhangját. A tervek az első félév tapasztalatai alapján a félév végén felülvizsgálhatók, és amennyiben szükséges, a Médiatanács azokat módosíthatja. A módosított piacfelügyeleti tervet a Médiatanács a módosítástól számított tizenöt napon belül internetes honlapján közzéteszi.
+
+(4) A piacfelügyeleti eljárás hivatalból indul.
+
+(5) A piacfelügyeleti eljárásban az ügyintézési határidő hatvan nap. A határidő indokolt esetben egy alkalommal, legfeljebb negyvenöt nappal meghosszabbítható.
+
+(6) A piacfelügyeleti eljárás céljaként és eredményeként a Médiatanács egységes, egybefoglalt hatósági döntésében
+
+- a) értékeli az eljárás tárgyát képező szolgáltatásokkal, tevékenységekkel összefüggő jogérvényesülést. Ennek keretében megállapítja a jogsértések megtörténtét, azokat egyenként és összességükben, egymásra tekintettel is értékeli, valamint az V. Fejezetben foglaltak megfelelő alkalmazásával meghatározza a jogkövetkezményeket. A Médiatanács piacfelügyeleti döntésében jogsértés hiányában szükség szerint kötelezettségeket állapíthat meg és azok teljesítésének feltételeit is meghatározhatja,
+- b) meghatározza a jogsértések megelőzésével, az önkéntes jogérvényesülés előmozdításával, a piaci folyamatok zavartalan működésével kapcsolatos állami beavatkozás irányait, módszerét, fejlesztésének, esetleges átalakításának szempontjait, médiapolitikai következtetéseit.
+
+(7) A Médiatanács évente beszámolót készít a piacfelügyeleti tervében foglaltak teljesítéséről, piacfelügyeleti tevékenységének eredményéről, megállapításairól, valamint a piacfelügyeleti döntések alapján felmerülő jogszabály-módosítási javaslatokról. A beszámolót a Médiatanács annak elfogadásától számított tizenöt napon belül internetes honlapján közzéteszi.
+
+(8) A Médiatanács a piacfelügyeleti terven kívül is folytathat hivatalból piacfelügyeleti tevékenységet.
+
+### Médiapiaci ágazati vizsgálat
+
+169. § (1) A Médiatanács, az e törvényben foglalt rendelkezések érvényesülésének értékelése, illetve az e törvény szerinti hatósági hatáskörök alkalmazása szükségességének feltárása érdekében, amennyiben az ármozgások vagy más piaci körülmények arra utalnak, hogy a médiaszolgáltatások piacán a verseny torzul, vagy korlátozódik – a piaci folyamatok megismerése és értékelése céljából – végzéssel hatósági ellenőrzési eljárást indít.
+
+(2) A Médiatanács ezen eljárása nem érinti a Gazdasági Versenyhivatal tisztességtelen piaci magatartás és versenykorlátozás tilalmáról szóló törvényben rögzített, ágazati vizsgálat lefolytatására irányuló hatáskörét.
+
+(3) A hatósági ellenőrzés megindításáról a Médiatanács hirdetmény útján értesíti a médiaszolgáltatókat, amelynek a Ket. vonatkozó rendelkezéseitől eltérően az ügy tárgyát és rövid ismertetését kell tartalmaznia. A végzés indokolásában meg kell jelölni azt is, hogy mely piaci körülményekre tekintettel szükséges az ágazati vizsgálat megindítása. A végzést hirdetményi úton a Hatóság hirdetőtáblájára való kifüggesztéssel, valamint a Hatóság internetes honlapján kell közzétenni. Az eljárást megindító végzést a hirdetmény kifüggesztését követő tizenötödik napon kell kézbesítettnek tekintetni.
+
+(4) Az ágazati vizsgálat során kiszabható eljárási bírság mértéke – a jogsértő előző évben elért nettó árbevételét és a jogsértés ismételtségét figyelembe véve – a jogsértő árbevételének 0,5 százaléka, árbevétel hiányában vagy árbevétel közlésének hiányában legalább ötvenezer forint, legfeljebb ötvenmillió forint. Ezen túlmenően az adatszolgáltatás nem, vagy nem megfelelő teljesítése esetén a Médiatanács ötvenezer forinttól hárommillió forintig terjedő bírsággal sújthatja – ismételt jogsértés esetén sújtani köteles – a jogsértő médiaszolgáltató vezető tisztségviselőjét is.
+
+170. § (1) Amennyiben a hatósági ellenőrzés eredményeként a Médiatanács megállapítja, hogy a vizsgált piaci folyamatok következtében a médiaszolgáltatások piacán a verseny torzulhat, vagy korlátozódhat, és megítélése szerint ez az e törvény szerinti hatáskörök gyakorlása útján nem orvosolható, akkor kezdeményezi a Gazdasági Versenyhivatal versenyfelügyeleti eljárásának megindítását.
+
+(2) A Gazdasági Versenyhivatal a Médiatanács (1) bekezdés szerinti kezdeményezése alapján a versenyfelügyeleti eljárás megindítását mellőzi, amennyiben azonos vizsgálati tárgyban, azonos időszakra nézve ágazati vizsgálati eljárása van folyamatban, vagy, ha azonos vizsgálati tárgyban, azonos időszakra nézve már korábban ágazati vizsgálatot folytatott le. Erről a tényről a Gazdasági Versenyhivatal a Médiatanácsot tájékoztatja.
+
+(3) Amennyiben a versenyfelügyeleti eljárás kezdeményezése nem indokolt, vagy hatáskör hiányában nem lehetséges, illetve az azonosított piaci probléma a Médiatanács vagy a Hivatal saját hatáskörében sem orvosolható, tájékoztatja a jogalkotásra jogosult szervet.
+
+### A Médiatanács szakhatósági eljárása
+
+171. § (1) A Gazdasági Versenyhivatal köteles a Médiatanács állásfoglalását beszerezni az olyan vállalkozások közötti összefonódásnak a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. (a továbbiakban: Tpvt.) 24. § szerinti engedélyezéséhez, amely vállalkozások vagy a Tpvt. 15. § szerinti érintett legalább két vállalkozáscsoport tagjai szerkesztői felelősséget viselnek, és amelyek elsődleges céljai a médiatartalom nyilvánossághoz való eljuttatása valamely elektronikus hírközlő hálózaton vagy nyomtatott sajtóterméken keresztül.
+
+(2) A Médiatanács – a 68. § (2) bekezdés szerinti esetet kivéve – nem tagadhatja meg a szakhatósági hozzájárulás megadását, ha a független véleményforrások összefonódások utáni szintje is biztosítja a sokszínű tájékozódás jogának érvényesülését a médiatartalom szolgáltatás releváns piacán.
+
+(3) A Médiatanács által megállapított szakhatósági előírás vagy feltétel érdemi döntésben való alkalmazására a Tpvt. 30. § (3) bekezdés megfelelően alkalmazandó.
+
+(4) A Médiatanács szakhatósági állásfoglalása a Gazdasági Versenyhivatalt köti, de ez nem zárja ki, hogy a Gazdasági Versenyhivatal
+
+- a) olyan összefonódást tiltson meg, amelyhez a Médiatanács szakhatósági hozzájárulást adott, függetlenül az Médiatanács által esetlegesen előírt feltételtől, vagy
+- b) a Médiatanács által meg nem határozott Tpvt. 30. § (3) bekezdés szerinti feltételt vagy kötelezettséget írjon elő.
+
+(5) A Médiatanács szakhatósági eljárásnak határideje húsz nap, amely időtartam egy alkalommal további húsz nappal meghosszabbítható. A versenyfelügyeleti eljárás határidejébe a Médiatanács szakhatósági eljárásának időtartama nem számít be. Ha a Médiatanács az előírt határidőn belül nem ad ki állásfoglalást, a hozzájárulását megadottnak kell tekinteni
+
+(6) A Médiatanács szakhatósági eljárásáért fizetendő igazgatási szolgáltatási díj kétmillió forint, amit a Tpvt. 62. § (1) bekezdés szerinti eljárási díjjal együtt kell a Gazdasági Versenyhivatal részére megfizetni kivéve, ha a kérelmező a (7) bekezdés szerinti előzetes szakhatósági hozzájárulás iránti kérelmet nyújtott be.
+
+(7) A (6) bekezdés szerinti szakhatósági igazgatási díj megfizetésével együtt a Tpvt. 68. § szerinti kérelmező kérelmére a Médiatanács előzetes szakhatósági hozzájárulást ad ki. Az előzetes szakhatósági hozzájárulást az összefonódás iránti kérelem benyújtásáig, de legkésőbb a Tpvt. 28. § (2) bekezdése szerinti időtartam lejártáig lehet kérelmezni és kiadásától számított hat hónapon belül lehet felhasználni, amennyiben a szakhatósági hozzájárulás szempontjából meghatározó ténybeli, piaci és szabályozási körülmények a szakhatósági állásfoglalás kiadása óta nem változtak. A Tpvt. 68. § (2) bekezdés szerinti űrlaphoz mellékelni kell a Médiatanács előzetes szakhatósági hozzájárulását vagy a hozzájárulás iránti kérelmet. Amennyiben a Médiatanács előzetes szakhatósági hozzájárulásában meghatározott egyedi előírás vagy feltétel egészben vagy részben a Gazdasági Versenyhivatal által szükségesnek tartott kötelezettséggel vagy feltétellel ellentétes, akkor az érintett szervek a Ket. 45. § (2) bekezdés szerint járnak el.
+
+### Eljárás jogvitában
+
+172. § (1) Az a médiaszolgáltató, kiegészítő médiaszolgáltatást nyújtó, sajtóterméket kiadó vagy műsorterjesztő, amelynek egy másik médiaszolgáltató, műsorterjesztő médiaigazgatásra vonatkozó szabály alapján kötött szerződésében, médiaigazgatásra vonatkozó szabályban meghatározott jogát vagy jogos érdekét megsértette, illetve az e törvényben meghatározott esetekben a Médiatanácshoz fordulhat jogvitás eljárás lefolytatása érdekében (a továbbiakban: jogvitás eljárás).
+
+(2) A jogvitás eljárást kezdeményező kérelemnek a Ket. kérelemre vonatkozó rendelkezéseiben foglaltakon túlmenően egyértelműen tartalmaznia kell az (1) bekezdésben meghatározottak alapjául szolgáló tényeket, körülményeket, a kérelmező jogsérelmének alapját képező konkrét jogszabályi, illetve szerződésbeli rendelkezéseket, valamint jogának vagy jogos érdekének igazolását.
+
+(3) Amennyiben a kérelmező a szerződés létrehozását, illetve tartalmának megállapítását kéri a Médiatanácstól, köteles szövegszerűen – egyértelműen és világosan – megjelölni a létrehozni, megállapítani kért szerződéses tartalmat.
+
+(4) A kérelemben bizonyítási indítvány is előterjeszthető, valamint abban nyilatkozni kell arról is, hogy a kérelmező kéri-e tárgyalás tartását.
+
+(5) Amennyiben a jogvitás eljárás megindítása iránti kérelem nem vagy nem megfelelően tartalmazza a (2) bekezdésben foglaltakat, a Médiatanács legfeljebb nyolc napos teljesítési határidővel hiánypótlásra hívja fel a kérelmezőt. Amennyiben a hiánypótlást – határidőben – a kérelmező nem vagy nem megfelelően teljesíti, a Médiatanács a kérelmet tizenöt napon belül érdemi vizsgálat nélkül elutasítja.
+
+(6) Amennyiben a jogvitás eljárás megindítása iránti kérelem nem vagy nem megfelelően tartalmazza a (3) bekezdésben foglaltakat, abban az esetben a Médiatanács öt napos teljesítési határidővel hiánypótlásra hívja fel a kérelmezőt. Amennyiben a hiánypótlást – határidőben – a kérelmező nem vagy nem megfelelően teljesíti, a Médiatanács a szerződés létrehozása, illetve tartalmának megállapítása körében mellőzi a döntéshozatalt és az ügy tárgya, illetve a jogsértés tekintetében a rendelkezésre álló adatok alapján dönt, vagy megszünteti az eljárást.
+
+(7) A kérelmet a Médiatanács – amennyiben érdemi vizsgálat nélkül nem utasítja el – megküldi az ellenérdekű ügyfélnek, és legfeljebb tíz napos határidő tűzésével felhívja nyilatkozatának és bizonyítékainak előterjesztésére, valamint azok ellenérdekű ügyfél részére történő egyidejű megküldésére.
+
+(8) Az eljárás során a Médiatanács megkísérli egyezség létrehozását a felek között.
+
+173. § (1) A Médiatanács bármelyik fél kérelmére tárgyalást tart, melyen a felek és egyéb érdekeltek személyesen vagy képviselőik útján jelen lehetnek, nyilatkozatot és észrevételt tehetnek, a tárgyalás befejezéséig bizonyítékaikat előterjeszthetik. A tárgyalás nem nyilvános.
+
+(2) A tárgyalásra szabályszerűen idézettek, értesítettek távolmaradása a tárgyalás megtartását és az ügy elintézését nem gátolja. Távolmaradását azonban az idézett, értesített alapos okkal előzetesen kimentheti, ez esetben a Médiatanács a tárgyalást elhalaszthatja.
+
+(3) A tárgyalás elmulasztása miatt igazolásnak nincs helye. A Médiatanács azonban, ha a meg nem jelentek valamelyikének meghallgatását szükségesnek tartja, erre tekintettel – új tárgyalási határnap kitűzésével – a tárgyalást elhalaszthatja.
+
+(4) E törvény eltérő rendelkezése hiányában a kérelemben foglaltak tény- és jogalapját a kérelmező köteles hitelt érdemlően bizonyítani.
+
+(5) A Médiatanács az ellenérdekű ügyfelet adatszolgáltatásra, illetve nyilatkozattételre kötelezheti.
+
+(6) A Médiatanács a folyamatban lévő ügyben kérelemre vagy hivatalból ideiglenes intézkedéseket tehet, amennyiben megállapítható, hogy e törvény szabályainak, különösen alapelveinek megszegése miatt az ideiglenes intézkedés hiányában súlyos, másként el nem hárítható jog-, illetve érdeksérelem következik be, vagy ennek veszélye áll fenn, és az intézkedés miatti hátrány nem haladja meg az intézkedéssel elérhető előnyöket.
+
+(7) Ideiglenes intézkedésként a Médiatanács megtilthatja a tevékenység gyakorlását, meghatározhatja a tevékenység gyakorlásának feltételeit, továbbá kötelezettséget határozhat meg.
+
+(8) Az ideiglenes intézkedés hatálya az eljárás jogerős lezárásáig tart. Az ideiglenes intézkedést a Médiatanács az eljárás során kérelemre vagy hivatalból módosíthatja, megszüntetheti.
+
+(9) Amennyiben a Médiatanács ideiglenes intézkedést alkalmaz, az intézkedést elrendelő végzés ellen az ügyfél a Fővárosi Bírósághoz jogorvoslati kérelemmel fordulhat. A bíróság az ügyben tizenöt napon belül nemperes eljárásban határoz. A Fővárosi Bíróság végzése ellen fellebbezésnek nincs helye. A kérelem benyújtásának a végzés végrehajtására nincs halasztó hatálya.
+
+(10) Az ideiglenes intézkedés elutasítása tárgyában a Médiatanács nem hoz külön végzést, az elutasítás indokait a jogvitás eljárást lezáró érdemi döntésben határozza meg.
+
+174. § (1) A Médiatanács jogvitás eljárásban jogosult a médiaigazgatásra vonatkozó szabály alapján fennálló szerződéskötési kötelezettség esetén a feleknek a szerződés tartalmára vonatkozó megegyezése hiányában – a 172. § (3) bekezdésben foglaltaknak megfelelő kérelem esetén – a szerződés létrehozására, módosítására, illetve a szerződés tartalmának megállapítására.
+
+(2) Amennyiben az e törvény szerint a műsorterjesztés, valamint a médiaszolgáltatás ellenértékére kiterjedően is indítható jogvitás eljárás, a Médiatanács megtilthatja az ellenérték további alkalmazását, egyidejűleg e törvény keretei között megállapíthatja a jogszerű árat és kötelezheti a médiaszolgáltatót vagy a műsorterjesztőt a jogszerű ár alkalmazására.
+
+### Adatszolgáltatás
+
+175. § (1) A Hatóság felhívhatja az e törvény hatálya alá tartozó médiaszolgáltatókat, sajtótermékek kiadóit, kiegészítő médiaszolgáltatást nyújtókat és műsorterjesztőket minden olyan adat szolgáltatására, amely a Hatóság e törvényben meghatározott hatósági hatáskörébe utalt feladatok ellátásához elengedhetetlenül szükséges, kivételesen abban az esetben is, ha az törvény által védett titoknak minősül. E felhívás ellen jogorvoslatnak helye nincs, a felhívás a (2) bekezdésben foglalt esetben kibocsátott hatósági határozat elleni jogorvoslati kérelemben támadható.
+
+(2) Amennyiben az (1) bekezdésben foglalt felhívást az adatszolgáltatásra felhívott nem vagy nem megfelelően teljesíti, úgy a Hatóság hatósági határozatában kötelezheti a felhívásban foglalt adatok szolgáltatására.
+
+(3) A Hatóság az e törvény hatálya alá tartozó vállalkozásokat hatósági határozatában időszakos vagy folyamatos adatszolgáltatásra is kötelezheti.
+
+(4) A Hatóság e törvény hatálya alá tartozó vállalkozásokat hatósági határozatában a helyszínre vagy a hatósági nyilvántartáshoz telepített, illetve folyamatba épített ellenőrző rendszerből történő táv-adatszolgáltatásra kötelezheti.
+
+(5) A Hivatal (2)–(4) bekezdés szerinti határozata ellen fellebbezésnek helye nincs. A határozat felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított tizenöt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a határozat végrehajtására halasztó hatálya van. A Fővárosi Bíróság végzése ellen fellebbezésnek nincs helye.
+
+(6) A Médiatanács (2)–(4) bekezdés szerinti határozatának felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított tizenöt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a határozat végrehajtására halasztó hatálya van. A Fővárosi Bíróság végzése ellen fellebbezésnek nincs helye.
+
+(7) A (2)–(4) bekezdésben foglalt határozatok ellen kizárólag az az ügyfél élhet jogorvoslati kérelemmel, aki a hatósági eljárásban részt vett.
+
+(8) Amennyiben az adatszolgáltatásra kötelezett a (2)–(4) bekezdésben foglalt adatszolgáltatási kötelezettséget nem vagy nem megfelelően teljesíti, a Hatóság – a jogsértő előző évben elért nettó árbevételét és a jogsértés ismételtségét figyelembe véve – bírságot szab ki, amelynek mértéke legalább ötvenezer forint, de legfeljebb ötvenmillió forint. E határozat ellen a 163–165. §-ban meghatározott jogorvoslatnak van helye.
+
+(9) A bírság összegének meghatározása során a Hatóság köteles mérlegelni és egymáshoz viszonyítani az ügy összes körülményeit, a jogsértő árbevételét, az adatszolgáltatás nem teljesítésével okozott hátrányok súlyát, illetve azzal okozott következményeket.
+
+(10) Az adatszolgáltatásra – az (1) bekezdésben foglalt felhívás esetében is – megfelelő teljesítési határidőt kell meghatározni.
+
+(11) Az (1)–(4) bekezdés szerinti adatszolgáltatás során az adatszolgáltató felelős az adat tartalmának megfelelőségéért, időszerűségéért, hitelességéért, pontosságáért, ellenőrizhetőségéért és helyességéért.
+
+(12) A médiaszolgáltatónak a műsorára vonatkozó hiteles dokumentációt – ideértve a teljes médiaszolgáltatás kimenőjelének teljes rögzítését – a közzétételt, lekérhető médiaszolgáltatás esetén az elérhetővé tétel utolsó napját követő hatvan napig meg kell őriznie, illetve felkérésre térítésmentesen haladéktalanul át kell adnia a Hatóságnak. A médiaszolgáltatással kapcsolatosan megindított eljárás, illetve jogvita esetén a dokumentációt az eljárás jogerős befejezését követő egy évig kell megőrizni.
+
+### Eljárás a más tagállamban letelepedett médiatartalom-szolgáltatóval szemben
+
+176. § (1) Amennyiben más tagállamban letelepedett médiaszolgáltató lineáris audiovizuális médiaszolgáltatása a Magyar Köztársaság területére irányul, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig a médiaszolgáltatóval szemben a 187. § (3) bekezdés b)–d) pont szerinti jogkövetkezményeket alkalmazhatja, amennyiben a következő feltételek fennállnak:
+
+- a) a médiaszolgáltatás nyilvánvalóan és súlyosan sérti az Smtv. 17. §-át, 19. § (1) vagy (4) bekezdését, vagy e törvény 9. §-át vagy 10. § (1)–(3) bekezdését,
+- b) a Médiatanács által e bekezdés alapján meghozandó, a terjesztés korlátozását célzó határozatot megelőző tizenkét hónap alatt a médiaszolgáltatás legalább két alkalommal megsértette az a) pontban említett előírást,
+- c) a Magyar Köztársaság a Médiatanács kezdeményezésére írásban értesítette az érintett médiaszolgáltatót és az Európai Bizottságot az a) pont szerinti jogsértésekről és a Médiatanács tervezett intézkedéseiről, amelyeket a további jogsértés elkövetése esetén kíván alkalmazni, és
+- d) azon tagállammal, amelyben a médiaszolgáltató letelepedett, valamint az Európai Bizottsággal folytatott konzultáció alapján a c) pontban szereplő értesítés megtörténtétől számított tizenöt napon belül nem jött létre egyezség a Magyar Köztársaság és az érintett tagállam között, és az a) pont szerinti jogsértés továbbra is fennáll, illetve újból megvalósul.
+
+(2) A Médiatanács az (1) bekezdésben foglalt határozatot annak közlésével egyidejűleg köteles megküldeni az Európai Bizottságnak.
+
+(3) Amennyiben az Európai Bizottság a (2) bekezdésben foglalt értesítéstől számított két hónapon belül meghozott határozatában a Médiatanácsot az (1) bekezdés alapján meghozott határozat visszavonására kötelezi, akkor köteles az Európai Bizottság határozatában foglaltak szerint eljárni.
+
+177. § (1) Amennyiben más tagállamban letelepedett médiaszolgáltató lekérhető audiovizuális médiaszolgáltatása a Magyar Köztársaság területére irányul, illetve terjesztése vagy közzététele a Magyar Köztársaság területén történik, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig a 187. § (3) bekezdés b)–d) pont szerinti jogkövetkezményeket alkalmazhatja, amennyiben a következő feltételek fennállnak:
+
+- a) az intézkedés a közrend védelme, bűncselekmények megelőzése, felderítése és üldözése, a közösségek elleni gyűlöletkeltés tilalmának megsértése, vagy a kiskorúak, a közegészség, a közbiztonság, a nemzetbiztonság és a fogyasztók, befektetők védelme miatt szükséges,
+- b) az intézkedés olyan lekérhető médiaszolgáltatás médiaszolgáltatójával szemben kerül alkalmazásra, amely az a) pontban meghatározott érdekek valamelyikét sérti, illetve súlyosan veszélyezteti, és
+- c) az intézkedés a védendő érdekhez képest arányos.
+
+(2) Az (1) bekezdésben foglalt határozat meghozatalára irányuló eljárás megindítását megelőzően a Médiatanács köteles kérni azon tagállam intézkedését, amelynek joghatósága alá az (1) bekezdésben meghatározott lekérhető médiaszolgáltatást nyújtó médiaszolgáltató tartozik. Amennyiben a tagállam az intézkedést a Médiatanács kérelmében foglalt ésszerű időn belül nem vagy nem megfelelő módon teszi meg, úgy a Médiatanács az (1) bekezdésben meghatározott határozat tervezetét megküldi az Európai Bizottságnak, valamint az érintett tagállamnak. Amennyiben az Európai Bizottság a Médiatanácsot a határozattervezet visszavonására kötelezi, a Médiatanács köteles az Európai Bizottság határozatában foglaltak szerint eljárni.
+
+(3) Kivételesen sürgős esetben, a nézői érdekek védelme érdekében az (1) bekezdés szerinti esetben a Médiatanács ideiglenes határozatot hozhat. Az ideiglenes határozat azonnal végrehajtható. A Médiatanács az ideiglenes határozatot annak közlésével egyidejűleg megküldi az Európai Bizottságnak, valamint az érintett tagállamnak. A Médiatanács az ideiglenes határozat fenntartásáról vagy visszavonásáról az Európai Bizottság határozatában foglaltaknak megfelelően köteles dönteni.
+
+178. § (1) Amennyiben más tagállamban letelepedett médiatartalom-szolgáltató rádiós médiaszolgáltatása vagy sajtóterméke a Magyar Köztársaság területére irányul, illetve terjesztése vagy közzététele a Magyar Köztársaság területén történik, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig a 187. § (3) bekezdés b)–c) pont szerinti jogkövetkezményeket alkalmazhatja, amennyiben a következő feltételek fennállnak:
+
+- a) az intézkedés a közrend védelme, bűncselekmények megelőzése, felderítése és üldözése, a közösségek elleni gyűlöletkeltés tilalmának megsértése, vagy a kiskorúak, a közegészség, a közbiztonság, a nemzetbiztonság és a fogyasztók, befektetők védelme miatt szükséges,
+- b) az intézkedés olyan rádiós médiaszolgáltatás, vagy sajtótermék médiatartalom-szolgáltatójával szemben kerül alkalmazásra, amely az a) pontban meghatározott érdekek valamelyikét sérti, illetve súlyosan veszélyezteti, és
+- c) az intézkedés a védendő érdekhez képest arányos.
+
+(2) Az (1) bekezdésben foglalt határozat meghozatalára irányuló eljárás megindítását megelőzően a Médiatanács köteles kérni azon tagállam intézkedését, amelynek joghatósága alá az (1) bekezdésben meghatározott rádiós médiaszolgáltatást nyújtó médiaszolgáltató, illetve a sajtótermék kiadója tartozik. A Médiatanács az (1) bekezdésben foglalt eljárását csak abban az esetben indíthatja meg, ha a tagállam az intézkedést a Médiatanács kérelmében foglalt ésszerű időn belül nem vagy nem megfelelő módon teszi meg.
+
+(3) Kivételesen sürgős esetben, a hallgatók és olvasók érdekeinek védelme érdekében az (1) bekezdés szerinti esetben a Médiatanács ideiglenes határozatot hozhat. Az ideiglenes határozat azonnal végrehajtható. A Médiatanács az ideiglenes határozatot annak közlésével egyidejűleg megküldi azon tagállamnak, amelynek joghatósága alá az (1) bekezdésben meghatározott rádiós médiaszolgáltatást nyújtó médiaszolgáltató, illetve a sajtótermék kiadója tartozik, egyúttal köteles kérni a tagállam intézkedését. Amennyiben a tagállam az intézkedést a kérelemben foglalt ésszerű időn belül megteszi, a Médiatanács az ideiglenes határozat visszavonásáról, amennyiben nem vagy nem megfelelő módon teszi meg, akkor az ideiglenes határozat fenntartásáról dönt.
+
+179. § (1) A más tagállamban letelepedett médiaszolgáltató lineáris audiovizuális médiaszolgáltatására e törvény és az Smtv. 13–20. §-ai a (2)–(5) bekezdésben foglaltak szerint alkalmazandók, feltéve, hogy a más tagállamban letelepedett médiaszolgáltató az érintett lineáris audiovizuális médiaszolgáltatását teljes egészében vagy túlnyomórészt a Magyar Köztársaság területére irányítja, és a médiaszolgáltató annak érdekében telepedett le a Magyar Köztársaságon kívül, hogy elkerülje a szigorúbb szabályok vele szemben való érvényesítését, amelyek e törvény, illetve az Smtv. alapján alkalmazandók lennének rá.
+
+(2) Az (1) bekezdésben szereplő feltétel fennálltának vizsgálatakor a Médiatanács – többek között – ellenőrzi, hogy a más tagállamban letelepedett médiaszolgáltató lineáris audiovizuális médiaszolgáltatásának szempontjából mely tagállamban találhatók a reklám-, illetve előfizetési bevételeinek fő forrásai, melyik a médiaszolgáltatás fő nyelve, főként mely tagállamban található közvetítéseinek helyszíne, és hogy a médiaszolgáltatás mely tagállam közönségéhez szóló műsorszámokat tartalmaz.
+
+(3) Az (1) bekezdésben szereplő feltétel megvalósulása esetén, e törvény vagy az Smtv. érintett rendelkezéseinek megsértésekor a Médiatanács köteles kérni azon tagállam intézkedését, amelynek joghatósága alá az (1) bekezdésben meghatározott médiaszolgáltatást nyújtó médiaszolgáltató tartozik.
+
+(4) A Médiatanács határozatával az (1) bekezdésben említett médiaszolgáltatóval szemben a 187. § (3) bekezdés b)–d) pont szerinti jogkövetkezményeket akkor alkalmazhatja, ha megállapítja, hogy a (3) bekezdés alapján a joghatósággal rendelkező tagállam az intézkedést két hónapon belül nem vagy nem megfelelő módon tette meg.
+
+(5) A Médiatanács a (4) bekezdésben meghatározott határozat tervezetét annak közlését megelőzően köteles megküldeni az Európai Bizottságnak. Amennyiben az Európai Bizottság a Médiatanácsot a határozattervezet visszavonására kötelezi, a Médiatanács köteles az Európai Bizottság határozatában foglaltak szerint eljárni.
+
+180. § (1) A más tagállamban letelepedett médiatartalom-szolgáltató rádiós médiaszolgáltatására vagy sajtótermékére e törvény, és az Smtv. 13–20. §-ai a (2)–(3) bekezdésben foglaltak szerint alkalmazandók, ha a más tagállamban letelepedett médiaszolgáltató rádiós médiaszolgáltatását vagy sajtótermékét teljes egészében vagy túlnyomórészt a Magyar Köztársaság területére irányítja, és a médiatartalom-szolgáltató annak érdekében telepedett le a Magyar Köztársaságon kívül, hogy elkerülje a szigorúbb szabályok vele szemben való érvényesítését, amelyek e törvény, illetve az Smtv. alapján alkalmazandók lennének rá.
+
+(2) Az (1) bekezdésben szereplő feltétel fennálltának vizsgálatakor a Médiatanács – többek között – azt ellenőrzi, hogy a más tagállamban letelepedett médiatartalom-szolgáltató rádiós médiaszolgáltatásának vagy sajtótermékének szempontjából mely tagállamban találhatók a reklám-, illetve előfizetési bevételeinek fő forrásai, melyik a médiaszolgáltatás vagy sajtótermék fő nyelve, főként mely tagállamban található közvetítéseinek, tudósításainak fő helyszíne, és hogy a médiaszolgáltatás vagy sajtótermék mely tagállam közönségéhez szóló műsorszámokat, más médiatartalmakat tesz közzé.
+
+(3) Az (1) bekezdésben szereplő feltétel megvalósulása esetén, e törvény vagy az Smtv. érintett rendelkezéseinek megsértésekor a Médiatanács köteles kérni azon tagállam intézkedését, amelynek joghatósága alá az (1) bekezdésben meghatározott médiaszolgáltatást nyújtó médiaszolgáltató vagy a sajtóterméket kiadó tartozik.
+
+(4) A Médiatanács határozatával az (1) bekezdésben említett médiaszolgáltatóval szemben a 187. § (3) bekezdés b)–c) pont szerinti jogkövetkezményeket akkor alkalmazhatja, ha megállapítja, hogy a (3) bekezdés alapján a joghatósággal rendelkező tagállam az intézkedést két hónapon belül nem vagy nem megfelelő módon tette meg.
+
+### Eljárás a kiegyensúlyozott tájékoztatás kötelezettségének megsértése esetén
+
+181. § (1) Az Smtv. 13. § (2) bekezdésében és e törvény 12. § (2) bekezdésében meghatározott kiegyensúlyozottsági kötelezettség megsértése esetén a kifejezésre nem juttatott álláspont képviselője, illetve bármely néző vagy hallgató (a (2)–(6) bekezdés alkalmazásában a továbbiakban: kérelmező) hatósági eljárást kezdeményezhet. A kérelem elbírálására a JBE médiaszolgáltatók és a közszolgálati médiaszolgáltatók médiaszolgáltatásai tekintetében a Médiatanács, más médiaszolgáltatások vonatkozásában a Hivatal rendelkezik hatáskörrel. A kiegyensúlyozott tájékoztatás kötelezettségének megsértése miatt a Hatóság hivatalból nem indíthat eljárást.
+
+(2) Az (1) bekezdésben meghatározott hatósági eljárás kezdeményezését megelőzően a kérelmező köteles kifogásával a médiaszolgáltatóhoz fordulni. A kérelmező az általa kifogásolt tájékoztatás közzétételétől, ismétlés esetén az utolsó ismétléstől számított hetvenkét órán belül írásban kérheti a médiaszolgáltatótól azon álláspont – megfelelő, a kifogásolt tájékoztatás közzétételéhez hasonló körülmények közötti – közzétételét, amelynek közzététele a kiegyensúlyozott tájékoztatáshoz szükséges. Nem élhet a kifogásolás jogával a kérelmező, ha az ismertetésre nem került álláspont kifejtésére ezen álláspont valamely képviselője már lehetőséget kapott, vagy ha e lehetőséget a kérelmező kapta, de azzal nem élt.
+
+(3) A médiaszolgáltató a kifogás elfogadásáról vagy elutasításáról annak kézhezvételétől számított negyvennyolc órán belül dönt. A döntésről a kérelmezőt haladéktalanul írásban értesíteni kell. A kérelmező a döntés közlésétől számított negyvennyolc órán belül – a döntés közlésének elmaradása esetén a kifogásolt vagy sérelmezett tájékoztatás közzétételétől számított tíz napon belül – a kifogásolt műsorszám és az érintett médiaszolgáltató pontos megnevezésével hatósági eljárást kezdeményezhet a Hatóságnál. A Hatóságnál akkor is kezdeményezhető eljárás, ha a médiaszolgáltató a kifogást elfogadó nyilatkozata ellenére a kifogásban foglaltakat nem teljesíti. Ebben az esetben a Hatóságnál a kifogás teljesítésére vállalt határidő lejártát követő negyvennyolc órán belül kell a hatósági eljárást kezdeményezni. A Hatóság ügyintézési határideje tizenöt nap, amely indokolt esetben egy alkalommal, legfeljebb nyolc nappal meghosszabbítható.
+
+(4) A médiaszolgáltató köteles a Hatóság felhívására haladéktalanul rendelkezésre bocsátani a vitatott műsorszám felvételét.
+
+(5) Amennyiben a Hatóság döntése szerint a médiaszolgáltató megsértette a tájékoztatás kiegyensúlyozottságát, a médiaszolgáltató a Hatóság által megjelölt időpontban és módon – a Hatóság döntésében foglaltaknak megfelelően – értékelő magyarázat nélkül köteles a Hatóság döntését vagy a döntésben meghatározott közleményt közzétenni, vagy lehetőséget adni a kérelmezőnek az álláspontja megjelenítésére. A jogsértővel szemben ezen túl a 186–187. §-ban meghatározott jogkövetkezmények nem alkalmazhatók.
+
+(6) Az (1)–(5) bekezdésben meghatározott eljárás illetékmentes, a kérelmező igazgatási szolgáltatási díj megfizetésére sem kötelezhető. Az eljárásban hozott határozattal kapcsolatos jogorvoslatra a 163–165. §-ban foglaltakat kell megfelelően alkalmazni azzal, hogy a Médiatanács jogerős határozatának felülvizsgálatát az ügyfél, illetve az eljárás egyéb résztvevője jogszabálysértésre hivatkozással a Fővárosi Ítélőtáblától tizenöt napon belül a Médiatanács ellen indított keresettel kérheti. A Fővárosi Ítélőtábla a keresetet peres eljárásban, harminc napon belül bírálja el.
+
+### A Hatóság feladat- és hatáskörei
+
+182. § A Médiatanács hatósági hatásköreiben, a 132. §-sal összhangban
+
+- a) ellátja az általa kötött hatósági szerződések általános hatósági felügyeletét,
+- b) hatósági felügyeletet gyakorol az e törvényben foglalt alábbi rendelkezések tekintetében:
+  - ba) a gyermekek és a kiskorúak védelmére vonatkozó előírások,
+  - bb) kiemelten nagy jelentőséggel bíró esemény közvetítésével kapcsolatos előírások,
+  - bc) az országgyűlési közvetítéssel kapcsolatos szabályok,
+  - bd) a rendkívüli helyzetekre vonatkozó, médiaszolgáltatást érintő rendelkezések,
+  - be) a műsorkvótákra vonatkozó követelmények,
+  - bf) a kereskedelmi közleményekre vonatkozó, 23–25. §-ban meghatározott előírások,
+  - bg) a termékmegjelenítésre vonatkozó rendelkezések,
+  - bh) a politikai reklámra, közérdekű közleményre és a társadalmi célú reklámra vonatkozó rendelkezések [a 32. § (7) bekezdésben foglaltak kivételével],
+  - bi) a reklámra és televíziós vásárlásra vonatkozó, 33. §-ban foglalt kötelezettségek,
+  - bj) a műsorterjesztők továbbítási kötelezettségére vonatkozó előírások,
+  - bk) a médiaszolgáltatások felajánlásával kapcsolatos kötelezettségek,
+  - bl) a műsorterjesztés sokszínűségére vonatkozó rendelkezések,
+  - bm) a közszolgálati médiaszolgáltatás feladatainak végrehajtására vonatkozó szabályok.
+- c) felügyeli az Smtv. 13–20. §-ban foglalt követelmények betartását,
+- d) gyakorolja a más tagállamban letelepedett médiatartalom-szolgáltatók által elkövetett jogsértésekkel kapcsolatos hatósági hatásköröket,
+- e) a médiaszolgáltató kérelmére műsorszám kategóriába sorolásáról hatósági határozatot hoz,
+- f) hatósági szerződést köt a médiaszolgáltatóval a műsorkvótákra irányuló követelmények alóli mentesítés tárgyában,
+- g) megállapítja a médiaszolgáltatási alapdíjat,
+- h) ellátja a rádiós médiaszolgáltatási jogosultságok pályáztatásával, illetőleg a közfeladat ellátása érdekében biztosított médiaszolgáltatási jogosultsággal kapcsolatos feladatokat,
+- i) eljár az analóg, lineáris médiaszolgáltatási jogosultságok megújításával kapcsolatos hatósági ügyekben,
+- j) eljár a médiaszolgáltatási hatósági szerződéssel kapcsolatos hatósági ügyekben,
+- k) ellátja a médiaszolgáltatók hálózatba kapcsolódásával, vételkörzet-bővítésével kapcsolatos feladatokat,
+- l) gyakorolja a médiaszolgáltatás közösségi médiaszolgáltatássá nyilvánításával összefüggő hatásköröket, felügyeli működésüket,
+- m) azonosítja a jelentős befolyásoló erejű médiaszolgáltatókat, és meghatározza a JBE médiaszolgáltatókat terhelő kötelezettségeket,
+- n) eljár a JBE médiaszolgáltatók számára meghatározott kötelezettségek érvényesülésével összefüggésben, ide nem értve a 39. §-ban meghatározott kötelezettségeket,
+- o) ellátja a piaci koncentráció-kontrollal összefüggő hatósági feladatokat,
+- p) médiapiaci ágazati vizsgálatot folytat le,
+- q) piacfelügyeleti eljárást folytat le,
+- r) eljár az e törvényben meghatározott jogvitákban,
+- s) ellátja az ideiglenes médiaszolgáltatási hatósági szerződésekkel összefüggő feladatokat,
+- t) szakhatósági feladatokat lát el e törvény és a Tpvt. által előírt esetben,
+- u) eljár a JBE médiaszolgáltatók és a közszolgálati médiaszolgáltatók médiaszolgáltatásával kapcsolatban felmerült kiegyensúlyozottsági panaszok ügyében [Smtv. 13. § (2) bekezdés és e törvény 12. §-a],
+- v) hatósági határozatában meghatározza a társadalom számára kiemelten nagy jelentőséggel bíró eseményeket,
+- x) hatósági határozatában meghatározza a továbbítási kötelezettség alá eső közszolgálati és közösségi médiaszolgáltatásokat [75 . § (3) bekezdés],
+- y) ellátja az önszabályozó szervezetek eljárásával és döntéseivel összefüggő hatósági feladatokat,
+- z) egyéb, törvényben meghatározott hatósági hatásköröket gyakorol.
+
+183. § (1) A Médiatanács nem hatósági hatásköreiben, a 132. §-sal összhangban
+
+- a) kidolgozza a kiskorúak védelme érdekében előírt klasszifikációval összefüggő ajánlást,
+- b) kidolgozza a kizárólag tizennyolc éven felüli nézők vagy hallgatók számára elérhetőséget biztosító hatékony műszaki megoldás követelményeire vonatkozó ajánlást,
+- c) közzéteheti a termékmegjelenítésre és az arra történő felhívás e törvényben foglaltaknak való megfelelőségére vonatkozóajánlását,
+- d) a sajtószabadság alkotmányos elveinek érvényesüléséről, valamint a műsorkvóták alól a médiaszolgáltatóknak adott mentesítések indokairól, körülményeiről tájékoztatást nyújt az Országgyűlés részére,
+- e) dönt a jóváhagyott költségvetési kiadási előirányzatok közötti átcsoportosítás tekintetében,
+- f) meghatározza és közzéteszi ügyrendjét,
+- g) a frekvenciagazdálkodással, illetve a hírközléssel kapcsolatos jogszabályok tervezetéről véleményt nyilvánít,
+- h) egyes médiapolitikai kérdésekben állásfoglalásokat, javaslatokat készít,
+- i) kialakítja a médiaszolgáltatást érintő frekvenciagazdálkodás koncepcióját,
+- j) az Országgyűlés részére éves beszámolót készít a Médiatanács és a Hivatal tevékenységéről,
+- k) kezeli az Alapot, elfogadja támogatáspolitikáját, éves tervét, illetve beszámolóját, meghatározza és közzéteszi az Alap kezelése részletes szabályait, valamint jóváhagyja az Alap által kidolgozott általános pályázati feltételeket,
+- l) beszámolót készít az Európai Bizottság részére egyes műsorszerkezeti követelmények vonatkozásában,
+- m) kialakítja a Közszolgálati Közalapítvány részére átadott vagyon hasznosításának és a vagyongazdálkodás szabályait,
+- n) együttműködik más tagállamok médiahatóságaival,
+- o) felügyeli a Médiatudományi Intézet tevékenységét,
+- p) ellátja az önszabályozó szervezetek eljárásával kapcsolatos nem hatósági feladatokat,
+- q) egyéb, törvényben meghatározott – nem hatósági – feladatokat lát el.
+
+(2) A Médiatanács látja el a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010/13/EU európai parlamenti és tanácsi irányelv 19–26. cikkét átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében. Ennek végrehajtásánál a kölcsönös jogsegély során a Médiatanács a 2007/76/EK bizottsági határozatnak megfelelően jár el.
+
+184. § (1) A Hivatal hatósági hatásköreiben
+
+- a) vezeti az e törvényben meghatározott hatósági nyilvántartásokat,
+- b) meghatározza a nyilvántartásba vétel útján médiaszolgáltatás nyújtására jogot szerzett médiaszolgáltatók médiaszolgáltatási díját,
+- c) felügyeli az e törvényben foglalt alábbi rendelkezések érvényesülését:
+  - ca) a politikai reklámra, közérdekű közleményre és a társadalmi célú reklámra vonatkozó rendelkezések körében a 32. § (7) bekezdésben foglaltak,
+  - cb) a közszolgálati és közösségi médiaszolgáltatásban közzétett reklámra és közérdekű közleményre vonatkozó szabályok (36. §),
+  - cc) a hallási fogyatékkal élők számára hozzáférhetővé tett műsorszámokra vonatkozó szabályok (39. §),
+  - cd) a médiaszolgáltató, a sajtótermék kiadója és a kiegészítő szolgáltatást nyújtó tulajdoni viszonyaiban és más adataiban bekövetkezett változásokkal, azok bejelentésével és az egyes adatok közzétételével kapcsolatos szabályok (37. §, 41–42. §, 45–47. §)
+  - ce) a lineáris médiaszolgáltató tulajdonosi szerkezetére és a tulajdonosi összefonódásra vonatkozó szabályok (43. §),
+  - cf) az erőszakos vagy a nyugalom megzavarására alkalmas tartalmakra vonatkozó rendelkezések és a vallási, hitbeli meggyőződést védő szabályok (14. §),
+  - cg) a reklámra és a televíziós vásárlásra vonatkozó egyes rendelkezések (34–35. §),
+  - ch) a médiaszolgáltatások és műsorszámok támogatására vonatkozó szabályok (26–29. §),
+- d) ellátja a szolgáltatás megkezdésének elmaradása esetén a médiaszolgáltatási jogosultság megszűnésével, megszüntetésével kapcsolatos feladatokat,
+- e) a 182. § u) pont kivételével eljár a kiegyensúlyozott tájékoztatás kötelezettségét érintő panaszok tekintetében (Smtv. 13. § (2) bekezdés és e törvény 12. §-a),
+- f) ellenőrzi a közszolgálati médiaszolgáltatások továbbítására vonatkozó kötelezettségek érvényesülését (74. §),
+- g) a médiaszolgáltatások felajánlásának kötelezettsége körében ellenőrzi az általános szerződési keretfeltételekre vonatkozó előírások érvényesülését (79. §),
+- h) egyéb, törvényben meghatározott hatásköröket gyakorol.
+
+(2) A Hivatal nem hatósági hatásköreiben
+
+- a) előkészíti a Médiatanács feladat- és hatáskörébe tartozó ügyeket,
+- b) előkészíti a médiaszolgáltatási jogosultságok pályázati eljárását, nyilvános meghallgatást tart,
+- c) piaci elemző, értékelő, illetve más vizsgálati tevékenységet folytat a műsorfigyelő és -elemző szolgálat által,
+- d) egyéb, törvényben meghatározott – nem hatósági – feladatokat lát el.
+
+### V. Fejezet — A JOGSÉRTÉS ESETÉN ALKALMAZHATÓ JOGKÖVETKEZMÉNYEK
+
+185. § (1) A Médiatanács vagy a Hivatal médiaigazgatásra vonatkozó szabály megsértőjével szemben jogkövetkezményt alkalmazhat a 186–189. §-ban meghatározottak szerint.
+
+(2) A jogkövetkezmény alkalmazása során a Médiatanács és a Hivatal az egyenlő elbánás elvét követve a fokozatosság és az arányosság elvére tekintettel jár el; a jogsértés súlyához, illetve ismétlődéséhez igazodóan alkalmazza a fokozatosság elvét, valamint az eset összes körülményéhez és a jogkövetkezmény által elérni kívánt célhoz képest arányos jogkövetkezményt alkalmaz.
+
+186. § (1) Amennyiben a jogsértés csekély súlyú és ismételtség nem állapítható meg, a Médiatanács, illetve a Hivatal – a jogsértés tényének megállapítása és figyelmeztetés mellett – legfeljebb harminc napos határidő tűzésével felhívhatja a jogsértőt a jogsértő magatartás megszüntetésére, a jövőbeni jogsértésektől való tartózkodásra, illetve a jogszerű magatartás tanúsítására, és meghatározhatja annak feltételeit.
+
+(2) Az (1) bekezdésben meghatározott felhívás keretében a 187. § (2) bekezdésében meghatározott mérlegelési szempontok nem alkalmazandók.
+
+(3) Amennyiben a felhívás az ügy összes körülményeire tekintettel nem alkalmazható, vagy nem lenne a jogsértés megszüntetésére vonatkozó kötelezettség kikényszerítésére hatékony eszköz, a Médiatanács vagy a Hivatal – a felhívás mellőzésére vonatkozó indokolás nélkül – a jogsértő magatartás tanúsítását megtiltja, illetve az e törvényben foglaltak érvényesítése keretében kötelezettséget állapíthat meg, jogkövetkezményeket alkalmazhat.
+
+187. § (1) Ismételt jogsértés esetén a Médiatanács és a Hivatal kétmillió forintig terjedő bírsággal sújthatja a jogsértő szervezet vezető tisztségviselőjét a jogsértés súlyához, jellegéhez, illetve az egyedi ügy sajátosságaihoz mérten.
+
+(2) A Médiatanács és a Hivatal a jogkövetkezményt – a jogsértés jellegétől függően – a jogsértés súlyára, a jogsértés ismételtségére, folyamatosságára, időtartamára, a jogsértéssel elért vagyoni előnyre, valamint a jogsértéssel okozott érdeksérelemre, az érdeksérelmet szenvedett és veszélyeztetett személyek számára, illetve a jogsértéssel okozott kárra és a jogsértés piacra gyakorolt hatására, továbbá az egyedi ügyben értékelhető egyéb szempontokra tekintettel állapítja meg.
+
+(3) A Médiatanács és a Hivatal – a (7) bekezdés figyelembevételével – a következő jogkövetkezmények alkalmazására jogosult:
+
+- a) a jogsértőt meghatározott időre kizárhatja az Alap pályázatain való részvétel lehetőségéből,
+- b) bírságot szabhat ki a jogsértővel szemben az alábbi összeghatárok szerint:
+  - ba) JBE médiaszolgáltató és a médiapiaci koncentráció korlátozására vonatkozó szabály által érintett médiaszolgáltató jogsértése esetén a bírság összege kétszázmillió forintig,
+  - bb) a ba) pont alá nem tartozó médiaszolgáltató jogsértése esetén a bírság összege ötvenmillió forintig,
+  - bc) országosan terjesztett napilap esetében a bírság összege huszonötmillió forintig,
+  - bd) országosan terjesztett hetilap, folyóirat esetében a bírság összege tízmillió forintig,
+  - be) más napilap, illetve hetilap, folyóirat esetében a bírság összege ötmillió forintig,
+  - bf) internetes sajtótermék esetében a bírság összege huszonötmillió forintig,
+  - bg) műsorterjesztő esetében a bírság összege ötmillió forintig,
+  - bh) közvetítő szolgáltató esetében a bírság összege hárommillió forintig, terjedhet,
+- c) a jogsértőt kötelezheti közleménynek vagy a határozatnak a jogsértő internetes honlapjának nyitóoldalán, sajtótermékben vagy megjelölt műsorszámban történő közzétételére a határozatban meghatározott módon és ideig,
+- d) meghatározott időtartamra felfüggesztheti a médiaszolgáltatási jogosultság gyakorlását:
+  - da) a felfüggesztés időtartama tizenöt perctől huszonnégy óráig,
+  - db) a felfüggesztés időtartama súlyos jogsértés esetén egy órától negyvennyolc óráig,
+  - dc) a felfüggesztés időtartama ismételt és súlyos jogsértés esetén három órától egy hétig terjedhet,
+- e) törölheti azon médiaszolgáltatást a 41. § (4) bekezdés szerinti nyilvántartásból, amelyben a jogsértést elkövették, illetve azonnali hatállyal felmondhatja a médiaszolgáltatási jogosultság tárgyában megkötött hatósági szerződést, miután a jogsértő ismételten súlyos jogsértést követett el. A nyilvántartásból törölt médiaszolgáltatás a törlést követően nem tehető a nyilvánosság számára elérhetővé.
+
+(4) Az (1)–(3) bekezdés alkalmazásában ismételtségnek tekintendő, ha a jogsértő a jogerős hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és jogszabályhely tekintetében, ugyanazon tárgykörben valósítja meg.
+
+(5) A (3) bekezdésben meghatározott jogkövetkezmények együttesen is megállapíthatók.
+
+(6) A lineáris médiaszolgáltatás médiaszolgáltatójával szemben a (3) bekezdés a)–e) pontban, a lekérhető vagy kiegészítő médiaszolgáltatás nyújtójával szemben a (3) bekezdés a)–d) pontban, a sajtótermék kiadójával szemben pedig a (3) bekezdés b)–c) pontban szereplő jogkövetkezmények alkalmazhatók.
+
+(7) A (3) bekezdés e) pontban meghatározott jogkövetkezmény alkalmazására a Médiatanács rendelkezik hatáskörrel.
+
+(8) A Médiatanács a műsorszolgáltatási szerződéssel rendelkező médiaszolgáltatókkal szemben a szerződésben foglalt kötbért, illetve egyéb jogkövetkezményeket kizárólag közigazgatási úton érvényesítheti.
+
+### A műsorterjesztő és a közvetítő szolgáltató felelőssége a médiaszolgáltatás és a sajtótermék továbbításáért
+
+188. § (1) A műsorterjesztő és a közvetítő szolgáltató a (2)–(4) bekezdés és a 189. §-ban foglaltak alapján felel a médiaszolgáltatás és a sajtótermék továbbítása esetén.
+
+(2) A műsorterjesztő a 189. § szerint a médiaszolgáltatás továbbításának felfüggesztésére, illetve megszüntetésére kötelezhető.
+
+(3) A közvetítő szolgáltató a 189. § szerint a médiaszolgáltatás és az internetes sajtótermék közvetítésének felfüggesztésére kötelezhető.
+
+(4) Az Európai Gazdasági Térségről szóló megállapodásban, valamint az 1998. évi XLIX. törvénnyel kihirdetett, a határokat átlépő televíziózásról szóló, Strasbourgban, 1989. május 5-én kelt európai egyezményben, és kiegészítő Jegyzőkönyvében részes valamely állam joghatósága alá tartozó műsorszolgáltató műsorának tartalmáért a műsorterjesztő nem felelős. A 189. § alapján – figyelembe véve a 176–180. §-ban foglalt előírásokat – azonban a médiaszolgáltatás terjesztésének felfüggesztésére kötelezhető.
+
+189. § (1) Amennyiben a Médiatanács a 187. § (3) bekezdés e) pontban meghatározott jogkövetkezményt alkalmazza a médiaszolgáltatóval szemben, a műsorterjesztő köteles – a határozat jogerőre emelkedését követően a Médiatanács által kibocsátott felhívás alapján – a határozat tárgyát képező médiaszolgáltatás terjesztését a felhívásban meghatározottak szerint megszüntetni.
+
+(2) Amennyiben ismételt jogsértés esetén a Médiatanács vagy a Hivatal a 187. § (3) bekezdés b)–d) pontban meghatározott valamely jogkövetkezményt alkalmazza a médiaszolgáltatóval szemben, és a médiaszolgáltató a jogerős és végrehajtható, jogkövetkezményt tartalmazó határozatot a Médiatanács vagy a Hivatal felszólítására nem teljesíti, a műsorterjesztő köteles – a határozat jogerőre emelkedését és a teljesítési határidő leteltét követően a Médiatanács által kibocsátott felhívás alapján – a határozat tárgyát képező médiaszolgáltatás terjesztését a felhívásban meghatározottak szerint felfüggeszteni.
+
+(3) Amennyiben a Médiatanács vagy a Hivatal lekérhető vagy kiegészítő médiaszolgáltatás esetén a 187. § (3) bekezdés b)–d) pontban meghatározott valamely jogkövetkezményt alkalmazza a médiaszolgáltatóval szemben, és a médiaszolgáltató a jogerős és végrehajtható, jogkövetkezményt tartalmazó határozatot a Médiatanács vagy a Hivatal felszólítására nem teljesíti, a közvetítő szolgáltató köteles – a határozat jogerőre emelkedését és a teljesítési határidő leteltét követően a Médiatanács által kibocsátott felhívás alapján – a határozat tárgyát képező médiaszolgáltatás vagy kiegészítő médiaszolgáltatás közvetítését a felhívásban meghatározottak szerint felfüggeszteni.
+
+(4) Amennyiben a Médiatanács vagy a Hivatal internetes sajtótermék esetén a 187. § (3) bekezdés b)–c) pontban meghatározott valamely jogkövetkezményt alkalmazza a sajtótermék kiadójával szemben, és a kiadó a jogerős és végrehajtható, jogkövetkezményt tartalmazó határozatot a Médiatanács vagy a Hivatal felszólítására nem teljesíti, a közvetítő szolgáltató köteles – a határozat jogerőre emelkedését és a teljesítési határidő leteltét követően a Médiatanács által kibocsátott felhívás alapján – a határozat tárgyát képező sajtótermék közvetítését a felhívásban meghatározottak szerint felfüggeszteni.
+
+(5) Az (1)–(4) bekezdés szerinti felhívásban – a műsorterjesztő, illetve a közvetítő szolgáltató általi teljesítésre – megfelelő határidőt kell meghatározni.
+
+(6) Amennyiben a műsorterjesztő, illetve a közvetítő szolgáltató nem teljesíti az (1)–(4) bekezdésben meghatározott felhívásban foglaltakat, a Médiatanács vagy a Hivatal a műsorterjesztővel vagy közvetítő szolgáltatóval szemben hivatalból hatósági eljárást indít, és a 187. § (3) bekezdés bg) vagy bh) pontban meghatározott jogkövetkezményeket alkalmazhatja.
+
+### VI. Fejezet — TÁRSSZABÁLYOZÁS A MÉDIAIGAZGATÁSBAN
+
+### Általános szabályok
+
+190. § (1) A Médiatanács a médiaszolgáltatók, a kiegészítő médiaszolgáltatást nyújtók, a sajtótermékek kiadói, a műsorterjesztők és a közvetítő szolgáltatók szakmai önszabályozó szervezeteivel és alternatív vitarendező fórumaival (e fejezet alkalmazásában a továbbiakban együtt: önszabályozó szervezet) e törvény, illetve az Smtv. céljainak, alapelveinek hatékony megvalósítása, az önkéntes jogkövetés előmozdítása, a médiaigazgatás közhatalmi jogérvényesítési rendszerének rugalmasabbá tétele érdekében együttműködik.
+
+(2) A Médiatanács az (1) bekezdés szerinti együttműködés keretében a jogszabályoknak megfelelően létrehozott és a jogszabályoknak megfelelően működő önszabályozó szervezettel együttműködési megállapodás tartalmú közigazgatási szerződést köthet az alábbiakban kifejezetten meghatározott hatósági hatáskörébe tartozó ügyek önszabályozó szervezettel történő, e fejezetben meghatározott megosztott ellátása, illetve jogszabályban hatósági hatáskörként nem szabályozott, de e törvény szabályaival összhangban álló, médiaigazgatáshoz, médiapolitikához kapcsolódó feladatok együttműködésben történő ellátása érdekében.
+
+191. § (1) A Médiatanács a 195. §-ban meghatározott közigazgatási szerződésben (a továbbiakban: közigazgatási szerződés) felhatalmazhatja az önszabályozó szervezetet, hogy nyilvántartott tagsága és a 194. § szerinti magatartási kódexet magukra kötelező érvénnyel elfogadó médiaszolgáltatók, műsorterjesztők, közvetítő szolgáltatók vagy sajtóterméket kiadók (a továbbiakban együtt: a kódex hatálya alá tartozó vállalkozások) irányában a 192. § (2) bekezdésben kifejezetten meghatározott hatósági ügytípusok körében – a közigazgatási szerződésben kapott felhatalmazás terjedelmében – a konkrét hatósági hatáskörgyakorlást megelőzően önigazgatási feladatokat lásson el nem hatósági feladatként.
+
+(2) Az (1) bekezdés szerinti felhatalmazás nem telepít az önszabályozó szervezetre hatósági, közhatalmi jogkört, hatósági hatáskört, illetve az önszabályozó szervezet e felhatalmazás keretében sem minősül közigazgatási hatóságnak, illetve a közigazgatási szervezetrendszer alanyának.
+
+(3) A közigazgatási szerződésben történő felhatalmazás nem érinti a Médiatanács e törvényben meghatározott hatásköreinek rendjét, a Médiatanács a hatósági ügyben e felhatalmazástól függetlenül – az e fejezetben meghatározott eltérésekkel – eljárhat.
+
+192. § (1) A közigazgatási szerződést a Médiatanács a 190. § (2) bekezdésben meghatározott feltételeknek megfelelő azon önszabályozó szervezetekkel köti meg, amelyek nyilvántartásba vett tevékenysége a felhatalmazás tárgyát képező hatósági ügyet lefedi, vagy azt közvetlenül érinti, valamint amely a kódex hatálya alá tartozó vállalkozásokról pontos és ellenőrizhető nyilvántartást vezet.
+
+(2) A Médiatanács a közigazgatási szerződésben az alábbi hatósági ügytípusok – a kódex hatálya alá tartozó vállalkozások irányában, nem hatósági feladatként történő – ellátására hatalmazhatja fel az önszabályozó szervezeteket:
+
+- a) az Smtv. 14–20. §-ainak, vagy azok bármelyikének felügyelete a nyomtatott sajtótermékek tekintetében,
+- b) az Smtv. 14–20. §-ainak, vagy azok bármelyikének felügyelete az internetes sajtótermékek tekintetében,
+- c) az Smtv. 13–20. §-ainak, vagy azok bármelyikének felügyelete a lekérhető médiaszolgáltatások tekintetében,
+- d) e törvény Második Része I. Fejezete rendelkezéseinek, vagy azok bármelyikének felügyelete a lekérhető médiaszolgáltatások tekintetében.
+
+(3) A Médiatanács által – a (2) bekezdésben meghatározott hatósági ügytípus tekintetében – az önszabályozó szervezet számára biztosított felhatalmazás magában foglalja:
+
+- a) a kódex hatálya alá tartozó vállalkozásokkal kapcsolatos egyedi ügyek ellátását (ideértve a tagok tevékenységét érintő kérelmekkel, panaszokkal kapcsolatos eljárást),
+- b) a kódex hatálya alá tartozó vállalkozások közötti – a felhatalmazás tárgykörét érintő – viták, jogviták eldöntését,
+- c) a kódex hatálya alá tartozó vállalkozások – felhatalmazással kapcsolatos – tevékenységére, magatartására irányuló ellenőrzést.
+
+193. § (1) A közigazgatási szerződés keretében a Médiatanács és az önszabályozó szervezet megállapodhat a jogszabályokban nem szabályozott, de a médiaigazgatáshoz és a médiapolitikához szorosan kapcsolódó feladatok, tevékenység-, illetve szolgáltatás-fejlesztésre vonatkozó elvek, közérdekű programok, továbbá bármilyen egyéb, médiával összefüggő célok együttműködésben történő megvalósítása érdekében.
+
+(2) Az önszabályozó szervezet e fejezetben meghatározott – közigazgatási szerződéses felhatalmazáson alapuló – feladataival kapcsolatos szabályokat részletesen a közigazgatási szerződés tartalmazza.
+
+(3) A Hatóság a szakmai önszabályozó szervezet e fejezetben meghatározott feladatai ellátásához anyagi támogatást nyújthat, amelynek felhasználásáról az önszabályozó szervezetnek tételesen elszámolva, évente – május 31-ig – kell beszámolnia a Hatóság számára.
+
+194. § (1) Az önszabályozó szervezet és a Médiatanács által kötött közigazgatási szerződés kötelező tartalmi eleme az önszabályozó szervezet által kialakított – e fejezet szerinti önigazgatási feladatellátást meghatározó – szakmai, magatartási kódex (a továbbiakban: magatartási kódex).
+
+(2) A magatartási kódexet a közigazgatási szerződéskötés folyamatában az önszabályozó szervezet készíti el, és egyeztetés céljából megküldi a Médiatanácsnak. A Médiatanács a magatartási kódexet kizárólag abból a szempontból vizsgálja, hogy az megfelel-e a vonatkozó jogszabályoknak. A közigazgatási szerződés megkötésének érvényességi feltétele, hogy a magatartási kódex tekintetében a Médiatanács és az önszabályozó szervezet megállapodjon.
+
+(3) A magatartási kódex részletesen tartalmazza – a 192. § szerinti felhatalmazás tárgykörében – az önszabályozó szervezet önigazgatási feladatellátásával kapcsolatos eljárási és garanciális rendelkezéseket, a tagok vonatkozó jogait és kötelezettségeit, a tagok és az önszabályozó szervezet – felhatalmazás tárgyát érintő – viszonyát, illetve az önszabályozó szervezet által meghozható döntések típusait, rendszerét és azok jogi hatását.
+
+(4) A (2) bekezdésben meghatározottakon túlmenően a magatartási kódex anyagi része tartalmazza a felhatalmazás tárgyköre által kijelölt tevékenység, szolgáltatás, magatartás végzésére, folytatására vonatkozó szabályokat, feltételeket, illetve követelményeket.
+
+195. § (1) A Médiatanács és az önszabályozó szervezet e Fejezet szerinti viszonyrendszerét a felek kötelesek a közigazgatási szerződésben részletesen rendezni.
+
+(2) A Médiatanács a közigazgatási szerződés megkötése tárgyában döntést hoz.
+
+(3) A közigazgatási szerződés csak írásban köthető.
+
+(4) A Médiatanács a közigazgatási szerződés megkötését követően jogosult a kódex hatálya alá tartozó vállalkozásokról vezetett nyilvántartásaiba betekinteni, illetve a nyilvántartott adatok tekintetében adatszolgáltatást kérhet az önszabályozó szervezettől annak érdekében, hogy megfelelően elláthassa az önszabályozó szervezettel kapcsolatos – e Fejezetben szabályozott – feladatait.
+
+(5) A közigazgatási szerződésre az e törvényben foglalt eltérésekkel a Polgári Törvénykönyvnek a szerződésekre vonatkozó általános szabályait kell megfelelően alkalmazni.
+
+196. § (1) A Médiatanács azonnali hatállyal felmondhatja a közigazgatási szerződést, amennyiben az önszabályozó szervezet:
+
+- a) a közigazgatási szerződésben foglaltakat súlyosan, illetve ismételten megszegi, vagy
+- b) a közigazgatási szerződésben meghatározott feladatait nem a szerződésben foglaltaknak, vagy a magatartási kódexben foglaltaknak megfelelően látja el.
+
+(2) A határozatlan időre kötött közigazgatási szerződést bármely fél harminc napos felmondási idővel felmondhatja.
+
+### Az önszabályozó szervezet eljárása
+
+197. § (1) Az önszabályozó szervezet tagjai tekintetében a közigazgatási szerződés felhatalmazásának tárgyát képező hatósági ügyben saját – nem hatósági – feladataként jár el az e fejezetben, illetve a közigazgatási szerződésben meghatározottak szerint. Ennek keretében eljárása megelőzi, illetve kiegészíti a Médiatanács hatósági hatáskör-gyakorlását (a továbbiakban: önszabályozási eljárás).
+
+(2) A közigazgatási szerződésben meghatározott hatósági ügytípusok tekintetében a Médiatanács az önszabályozó szervezet tagjaival szemben csak abban az esetben járhat el, ha az önszabályozó szervezet vonatkozó eljárása megítélése szerint nem felel meg a jogszabályoknak vagy a felek közötti közigazgatási szerződés rendelkezéseinek.
+
+(3) Az önszabályozó szervezet önszabályozási eljárása megelőzi a Médiatanács hatósági eljárását.
+
+(4) Az önszabályozó testület felelőssége belső működésében olyan eljárási szabályozás kialakítása, elfogadása és érvényesítése tagjai irányában, amely biztosítja az e fejezetben foglalt feladatok megfelelő és hatékony ellátását, az e fejezet szerinti szabályok megfelelő érvényesülését. Amennyiben ennek elmulasztásából eredően az e fejezetben, illetve az általa a Médiatanáccsal kötött közigazgatási szerződésben meghatározott feladatait az önszabályozó szervezet nem képes megfelelően ellátni, a Médiatanács jogosult a közigazgatási szerződést felmondani.
+
+198. § (1) Az önszabályozó szervezet önszabályozási eljárását kezdeményező kérelemre köteles eljárni. Ettől függetlenül az önszabályozó szervezet a feladatkörébe utalt ügyekben saját döntése alapján is indíthat eljárást.
+
+(2) Az önszabályozó szervezet önszabályozási eljárásának határideje harminc nap, amely indokolt esetben – az ügy bonyolultságára, illetve a tények feltárásának nehézségeire tekintettel – tizenöt nappal meghosszabbítható. E határidőknél rövidebb határidőt a közigazgatási szerződés megállapíthat.
+
+(3) Amennyiben az önszabályozási eljárás tárgykörébe tartozó beadvány érkezik a Médiatanácshoz, abban az esetben – figyelemmel az önszabályozó szervezet tagjainak és a kódex hatálya alá tartozó más szervezetek körére – a Médiatanács a beadványt megküldi az önszabályozó szervezet részére. Ha az ügy mégsem tartozik az önszabályozó szervezet feladatkörébe, vagy a beadvánnyal érintett vállalkozás nem tartozik a kódex hatálya alá, akkor az önszabályozó szervezet a beadványt köteles haladéktalanul visszaküldeni a Médiatanács részére. Ha az önszabályozó szervezet a Médiatanács által továbbított beadvány alapján eljárását megindítja, akkor a Médiatanács eljárásának kezdeményezésével együtt esetlegesen befizetett illetéket, díjat visszafizeti a beadványt előterjesztő számára.
+
+(4) A (2) bekezdésben meghatározott esetben a Médiatanács eljárását kezdeményező beadvány nem minősül a Ket. szerinti eljárási kötelezettséget keletkeztető, eljárást megindító kérelemnek, kivéve, ha a beadványt az önszabályozó szervezet a Médiatanács számára visszaküldi. Ilyen esetben az önszabályozó szervezet által visszaküldött beadvány Médiatanácshoz megérkezésének napján kezdődik a Médiatanács hatósági eljárása.
+
+(5) Amennyiben az önszabályozó szervezethez érkezik olyan beadvány, amely nem tartozik a feladatkörébe, de a Médiatanács hatáskörével kapcsolatos, akkor az önszabályozó szervezet haladéktalanul tájékoztatja a beadvány előterjesztőjét a Médiatanács vonatkozó hatásköreiről, az eljárásindítás lehetőségeiről és annak szabályairól.
+
+199. § (1) Az önszabályozó szervezet a beadványt e Fejezet, a Médiatanáccsal kötött közigazgatási szerződés, és különösen az annak részét képező magatartási kódex alapján megvizsgálja, és az ügy tárgyában döntést hoz. Az önszabályozó szervezet döntése a kódex hatálya alá tartozó vállalkozások számára kötelező, és kötelezettséget tartalmazhat. Ha a döntés kötelezettséget tartalmaz, az önszabályozó szervezet köteles ennek teljesítésére megfelelő határidőt megállapítani. A kötelezettséget tartalmazó döntést e teljesítési határidő leteltét követően az önszabályozó szervezet tíz napon belül megküldi a Médiatanácsnak. A Médiatanács az önszabályozó szervezet által megküldött, kötelezettséget tartalmazó döntéseket köteles felülvizsgálni. Amennyiben az önszabályozó szervezet döntésének felülvizsgálatát a beadvány előterjesztője, vagy a döntéssel kötelezett kéri, a Médiatanács a döntést harminc napon belül köteles felülvizsgálni.
+
+(2) Amennyiben a Médiatanács megállapítja, hogy az önszabályozó szervezet döntése nem felel meg az önszabályozó szervezettel kötött közigazgatási szerződésben foglaltaknak, különösen a magatartási kódex rendelkezéseinek, vagy megítélése szerint a döntés jogszabály tartalmával ellentétes, illetve azt állapítja meg, hogy az önszabályozó szervezet nem képes megfelelően érvényesíteni döntését, abban az esetben hatósági eljárást indít a beadvány tárgyát képező ügyben. A Médiatanácsot eljárásában az önszabályozó szervezet eljárása, döntése nem köti.
+
+200. § (1) A Médiatanács hatósági hatáskörébe nem tartozó, de az önszabályozó szervezettel kötött közigazgatási szerződés tárgykörét képező feladat, tevékenység megfelelő és hatékony ellátása az önszabályozó szervezet önálló feladata, gyakorlatát maga alakítja. A Médiatanács az önszabályozó szervezettel folyamatosan együttműködik, feladatainak ellátását támogatja és ösztönzi.
+
+(2) Az (1) bekezdés szerinti nem hatósági feladatok ellátásával, és egyéb eljárásaikkal kapcsolatos tapasztalatokról a felek rendszeresen tájékoztatják egymást. E feladatokat az önszabályozó szervezet a Médiatanáccsal kötött közigazgatási szerződés és az annak részét képező magatartási kódex alapján látja el. E feladatok ellátásával kapcsolatos tapasztalatokat a Médiatanács hatósági hatáskörei gyakorlása, hatósági eljárásai, illetve piaci elemző, értékelő tevékenysége és különösen jogszabály-előkészítő tevékenysége során – lehetőség szerint – figyelembe veszi.
+
+### Az önszabályozó szervezet e fejezetben foglalt tevékenysége feletti felügyelet
+
+201. § (1) A Médiatanács az önszabályozó szervezet közigazgatási szerződésben meghatározott tevékenysége felett felügyeletet lát el. E felügyeleti tevékenysége keretében a Médiatanács folyamatosan ellenőrizheti az önszabályozó szervezetnek a Médiatanáccsal kötött közigazgatási szerződésében foglaltak érvényesülését, szerződés szerinti teljesítését. A felügyelet keretében a Médiatanács jogosult az önszabályozó szervezet közigazgatási szerződéssel kapcsolatban folytatott valamennyi tevékenységének megismerésére, amelynek érdekében az önszabályozó szervezetet adatszolgáltatásra kötelezheti.
+
+(2) A Médiatanács az önszabályozó szervezet 197–200. §-ok szerinti eljárásait és döntéseit szükség szerint átfogóan ellenőrzi. Ennek keretében az önszabályozó szervezet döntéseit – a közigazgatási szerződés és annak részét képező magatartási kódexnek való megfelelés szempontjából – egyenként és összességükben is értékeli.
+
+(3) Amennyiben a Médiatanács a felügyelet keretében megállapítja, hogy az önszabályozó szervezet a közigazgatási szerződés felhatalmazásának tárgyát képező ügyekben nem vagy nem megfelelően jár el, így különösen
+
+- a) a 197–200. §-okban foglalt eljárásokat nem a magatartási kódex rendelkezéseinek megfelelően folytatja le,
+- b) a beadványokat nem a magatartási kódex rendelkezései szerint bírálja el,
+- c) döntéseit nem a magatartási kódex rendelkezéseinek megfelelő tartalommal hozza, illetve
+- d) döntéseinek teljesítését, azok érvényesülését nem ellenőrzi, illetve nem intézkedik a döntéseiben foglaltak érvényre juttatása iránt,
+
+akkor a Médiatanács megfelelő határidő tűzésével felhívja az önszabályozó szervezetet a közigazgatási szerződésben foglaltaknak megfelelő magatartás tanúsítására.
+
+(4) Amennyiben az önszabályozó szervezet a (3) bekezdés szerinti felhívásnak határidőben nem tesz eleget, a Médiatanács a közigazgatási szerződést azonnali hatállyal, vagy a megállapodásban meghatározott felmondási időre felmondhatja.
+
+(5) Amennyiben az ellenőrzés eredményeként a Médiatanács megállapítja, hogy az önszabályozó szervezet eljárása, döntése jogszabály tartalmával ellentétes, vagy a közigazgatási szerződésbe, illetve az annak részét képező magatartási kódexbe ütközik, a Médiatanács a szerződésszegés megállapításával egyidejűleg az eljárás, valamint a döntés tárgykörében hatósági eljárást indít.
+
+202. § Az önszabályozó szervezet a közigazgatási szerződés alapján végzett tevékenységéről, feladatairól rendszeresen, de legalább évente, az önszabályozási eljárásainak menetéről, tartalmáról, alanyairól, döntéseinek típusairól, tartalmáról, érvényesüléséről pedig legalább félévente írásban benyújtott beszámolót készít a Médiatanács számára. A Médiatanács a beszámolót – döntésében – értékeli.
+
+## ÖTÖDIK RÉSZ — ÉRTELMEZŐ RENDELKEZÉSEK
+
+#### 203. §
+
+1. Audiovizuális médiaszolgáltatás: hangos vagy néma mozgóképeket tartalmazó műsorszámokat bemutató médiaszolgáltatás.
+
+2. Átviteli rendszer: a televízió vagy rádió műsorjeleknek az analóg vagy digitális műsorterjesztését szolgáló műszaki eljárások, elektronikus hírközlési és más eszközök rendszere, amely a műsorterjesztés alkalmazott átviteli közegéhez – így különösen a levegőhöz és rádiófrekvenciához, vákuumhoz, koaxiális vezetékhez, sodrott érpárú vezetékhez, üvegszálas vezetékhez – kapcsolódik.
+
+3. Befolyásoló részesedés:
+
+a) olyan közvetlen és közvetett tulajdon egy vállalkozásban, amely összességében a vagyoni vagy a szavazati jogok huszonöt százalékát meghaladó mértékű befolyást biztosít; a közeli hozzátartozók közvetlen és közvetett tulajdoni részesedését egybe kell számítani,
+
+b) olyan helyzet, amely a vállalkozásban szerződés, alapító okirat (alapszabály), vagy elsőbbségi részvény alapján, a döntéshozó, vagy a felügyelő szervek tagjai kinevezése (elmozdítása) útján, vagy egyéb módon jelentős befolyást tesz lehetővé.
+
+4. Burkolt kereskedelmi közlemény: olyan kereskedelmi közlemény, amelynek közzététele természetét tekintve félrevezetheti a közönséget.
+
+5. Dokumentumfilm: olyan nem fikciós filmalkotás, amelynek célja a valóság dokumentálása. Dokumentumfilmnek számít például a természet-, ismeretterjesztő és oktatófilm, a történelmi dokumentumfilm, a portréfilm és a riportfilm.
+
+6. Elektronikus hírközlési szolgáltatás: olyan, más részére általában ellenszolgáltatásért végzett szolgáltatás, amely teljesen vagy nagyrészt jeleknek elektronikus hírközlő hálózatokon történő átviteléből, és ahol ez értelmezhető, irányításából áll, de nem foglalja magában az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások felhasználásával továbbított tartalmat szolgáltató vagy ilyen tartalom felett szerkesztői ellenőrzést gyakorló szolgáltatásokat, valamint nem foglalja magában az információs társadalommal összefüggő, más jogszabályokban meghatározott szolgáltatásokat, amelyek nem elsősorban az elektronikus hírközlő hálózatokon történő jeltovábbításból állnak.
+
+7. Elektronikus hírközlési szolgáltató: elektronikus hírközlő hálózat üzemeltetője, valamint elektronikus hírközlési szolgáltatást nyújtó természetes, illetőleg jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság.
+
+8. Előfizető: olyan természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság vagy más szervezet, aki vagy amely a nyilvánosan elérhető médiaszolgáltatás vagy elektronikus hírközlési szolgáltatás nyújtójával, vagy sajtótermék kiadójával ilyen szolgáltatások igénybevételére vonatkozó szerződéses viszonyban áll.
+
+9. Európai mű:
+
+a) amely magyar,
+
+b) amely valamely európai államból származik, és amely egy vagy több európai államban lakóhellyel rendelkező szerzőkkel és munkatársak közreműködésével készült, feltéve, hogy megfelel a következő három feltétel egyikének:ba) az említett államok közül egyben vagy többen letelepedett egy vagy több producer alkotása,bb) gyártását az említett államok közül egyben vagy többen letelepedett egy vagy több producer felügyeli, és ténylegesen ellenőrzi,bc) az összes koprodukciós költséghez túlnyomó részben az említett államok társproducerei járultak hozzá, és a koprodukciót nem az említett államokon kívül letelepedett egy vagy több producer ellenőrzi,
+
+c) amely valamely európai állam és valamely Európán kívüli állam műsorkészítőinek együttműködése által jött létre, feltéve, hogy az európai társproducerek biztosítják a gyártási összköltség többségét, és hogy a gyártást nem a tagállamokon kívül letelepedett egy vagy több producer ellenőrzi, vagy
+
+d) amely az Európai Unió és valamely Európán kívüli állam között létrejött, audiovizuális művek elkészítésére vonatkozó megállapodás keretében létrejött műsorszám.
+
+10. Felhasználó: az a természetes személy, jogi személy vagy jogi személyiség nélküli gazdasági társaság vagy egyéb szervezet, aki vagy amely használja vagy igényli az elektronikus hírközlési szolgáltatásokat vagy médiaszolgáltatásokat.
+
+11. Filmalkotás: a szerzői jogról szóló törvény szerinti filmalkotás, ide nem értve többek között a hír- és politikai tájékoztató műsorszámot, az aktuális- és szolgáltató magazin műsorszámot, a sportműsorszámot vagy egyéb esemény közvetítését tartalmazó műsorszámot, a játék- és vetélkedő műsorszámot és a kereskedelmi közleményeket. Filmalkotás különösen a játékfilm, a televíziós film, a televíziós filmsorozat, az animációs film és a dokumentumfilm.
+
+12. Független műsorkészítő: olyan műsorkészítő vállalkozás, amelyben az érintett médiaszolgáltatónak, illetve a médiaszolgáltatóban befolyásoló részesedéssel rendelkező tulajdonosnak nincs közvetett vagy közvetlen tulajdoni részesedése, illetőleg amellyel a médiaszolgáltató vezetőjének, vezető állású alkalmazottjának, valamint ezek közeli hozzátartozóinak nincs munkavégzésre irányuló jogviszonya vagy tulajdoni érdekeltsége.
+
+13. Hálózatba kapcsolódás: két vagy több lineáris médiaszolgáltatást nyújtó médiaszolgáltató vagy lineáris médiaszolgáltatás összekapcsolódása ugyanazon műsorszám vagy műsor egyidejű vagy csaknem egyidejű szolgáltatására.
+
+14. Hálózatos médiaszolgáltató: az a lineáris médiaszolgáltatást nyújtó médiaszolgáltató, amelynek műsora vagy műsorszáma hálózatos médiaszolgáltatásban terjesztésre kerül.
+
+15. Helyi médiaszolgáltatás: az a médiaszolgáltatás, amelynek vételkörzetében éves átlagban legfeljebb százezer lakos vagy egy városon belül legfeljebb ötszázezer lakos él.
+
+16. Hivatásos katasztrófavédelmi szerv: a katasztrófavédelem megvalósításában részt vevő, államigazgatási feladatot is ellátó rendvédelmi szerv.
+
+17. Hírműsorszám: időtartamának legalább kilencven százalékában a magyarországi és a nemzetközi közélet aktuális eseményeivel – ide nem értve a közlekedési híreket, az időjárás-jelentést és a sporthíreket – foglalkozó műsorszám.
+
+18. Információs társadalommal összefüggő szolgáltatás: az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben ekként meghatározott szolgáltatás.
+
+19. Játék: az a műsorszám, amelyben a közönség tagjai vagy a játékban résztvevők meghatározott szabályok szerint kérdésekre válaszolnak vagy feladatokat oldanak meg, rendszerint abból a célból, hogy a médiaszolgáltató vagy harmadik személy által felajánlott nyereményt elnyerjék. Nem minősül játéknak a tehetségkutató-műsorszám, valamint a televíziós vásárlásnak vagy televíziós vásárlási műsorablaknak minősülő telefonos vagy más interaktív játék.
+
+20. Kereskedelmi közlemény: olyan médiatartalom, amelynek célja gazdasági tevékenységet folytató természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság árujának, szolgáltatásának vagy arculatának közvetlen vagy közvetett népszerűsítése. Az ilyen tartalmak fizetés vagy hasonló ellenszolgáltatás ellenében, vagy önreklámozás céljából kísérik a médiatartalmakat, vagy szerepelnek abban. A kereskedelmi közlemény formái közé tartozik többek között a reklám, a támogatást nyújtó nevének, védjegyének, arculatának vagy termékének megjelenítése, a televíziós vásárlás és a termékmegjelenítés.
+
+21. Képújság: lineáris audiovizuális médiaszolgáltatás műsoridejének megkezdése előtt, illetve befejezése után, vagy a műsor folyamának megszakításával közzétett olyan szöveg, állókép, mozgókép, hang, számítógépes grafika, amely valamely információt tartalmaz, és a műsor részének vagy önálló műsorszámnak nem minősül.
+
+22. Kiadvány:
+
+a) könyv nyomtatott vagy elektronikus formában, lemezen, kazettán, más fizikai hordozón; online és letölthető könyv;
+
+b) sajtótermék nyomtatott vagy elektronikus formában; online és letölthető időszaki kiadvány;
+
+c) egyéb nyomtatott anyag (címtár, névtár, grafikát, rajzot vagy fotót tartalmazó kiadvány, térkép; röplap; nyomtatott képeslap, üdvözlő- és más hasonló kártya; nyomtatott kép, minta, fénykép; nyomtatott naptár; nyomtatott üzleti reklámanyag, katalógus, prospektus, reklámposzter és hasonlók; egyéb szöveges kiadvány) ide nem értve: nyomtatott öntapadó papír (matrica), postai, jövedéki, illeték- stb. bélyeg, bélyegnyomott papír, csekk, bankjegy, részvény, értékcikk, kötvény, okirat és hasonlók;
+
+d) film-, video-, televízióműsor-készítés termékei (nyilvános közlésre szánt film filmszalagon, videokazettán, -lemezen, más fizikai hordozón; letölthető film, videó);
+
+e) hangfelvétel (nyilvános közlésre szánt, műsoros hangszalag, hanglemez, letölthető hangtartalom);
+
+f) zenemű (nyomtatott zenemű, zenemű elektronikus formában, letölthető zenemű)
+
+23. Kiegészítő médiaszolgáltatás: tartalomszolgáltatást is magában foglaló mindazon szolgáltatás, amelyet műsorterjesztő rendszeren továbbítanak, és amely nem minősül sem médiaszolgáltatásnak, sem elektronikus hírközlési szolgáltatásnak. Kiegészítő médiaszolgáltatás például az elektronikus műsorkalauz.
+
+24. Kisközösségi médiaszolgáltatás: sztereó vétel esetén legfeljebb az adóállomástól számított egy kilométer sugarú körnek megfelelő földrajzi területre kiterjedő vételkörzetben működő helyi lineáris rádiós közösségi médiaszolgáltatás.
+
+25. Körzeti médiaszolgáltatás: az a médiaszolgáltatás, amelynek vételkörzete meghaladja a helyi médiaszolgáltatás vételkörzetét, de vételkörzetében az ország lakosságának kevesebb, mint a fele él.
+
+26. Közeli hozzátartozó: a házastárs, a bejegyzett élettárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő, valamint a testvér.
+
+27. Közérdekű közlemény: ellenszolgáltatás nélkül közzétételre kerülő, állami vagy önkormányzati feladatot ellátó szervezettől, illetve személytől származó tájékoztatás, amely valamely konkrét közérdekű információt közvetít a nézők vagy hallgatók figyelmének felkeltése céljából, és nem minősül politikai reklámnak.
+
+28. Közönségarány: egy adott időszakban a vizsgált lineáris audiovizuális médiaszolgáltatás műsorszámainak nézésére, illetve lineáris rádiós médiaszolgáltatás műsorszámainak hallgatására fordított összes időtartam százalékosan kifejezett aránya valamennyi lineáris audiovizuális médiaszolgáltatás nézésére, illetve valamennyi lineáris rádiós médiaszolgáltatás hallgatására fordított összes időtartamhoz viszonyítva. A közönségarány meghatározásánál a lineáris audiovizuális, és a lineáris rádiós médiaszolgáltatás piacát a Magyar Köztársaság területén, külön-külön kell vizsgálni.
+
+29. Közvetett tulajdon: a vállalkozásban tulajdoni részesedéssel, illetve szavazatokkal rendelkező másik vállalkozás (a továbbiakban: köztes vállalkozás) tulajdonosait megillető tulajdoni, illetve szavazati jog. Ha a tulajdoni arány és a szavazati arány eltér, a nagyobb arányt kell figyelembe venni. A közvetett tulajdon arányának megállapításához a köztes vállalkozásban fennálló tulajdoni vagy szavazati hányadot meg kell szorozni a köztes vállalkozásnak az eredeti vállalkozásban fennálló tulajdoni vagy szavazati hányadával. Ha a köztes vállalkozásban a vállalkozásnak többségi tulajdona van, ezt egy egészként kell figyelembe venni. Természetes személyek esetében a közeli hozzátartozók által birtokolt, illetve gyakorolt tulajdoni vagy szavazati hányadokat egybe kell számítani.
+
+30. Közvetítő szolgáltató: az információs társadalommal összefüggő szolgáltatást nyújtó szolgáltató, amely
+
+a) az igénybe vevő által biztosított információt távközlő hálózaton továbbítja, vagy a távközlő hálózathoz hozzáférést biztosít (egyszerű adatátvitel és hozzáférés-biztosítás),
+
+b) az igénybe vevő által biztosított információt távközlő hálózaton továbbítja, és az alapvetően a más igénybe vevők kezdeményezésére történő információtovábbítás hatékonyabbá tételét szolgálja (gyorsítótárolás),
+
+c) az igénybe vevő által biztosított információt tárolja (tárhelyszolgáltatás),
+
+d) információk megtalálását elősegítő segédeszközöket biztosít az igénybe vevő számára (keresőszolgáltatás).
+
+31. Közszolgálati médiaszolgáltatás: a közszolgálati médiaszolgáltatók által nyújtott médiaszolgáltatás.
+
+32. Közszolgálati médiaszolgáltató: a közszolgálati médiaszolgáltatás céljainak megvalósítására törvénnyel létrehozott médiaszolgáltató.
+
+33. Közszolgálati médiavagyon: a közszolgálati médiaszolgáltatók, jogelődeik, valamint a Médiaszolgáltatás-támogató és Vagyonkezelő Alap által megrendelt, bármilyen jogcímen készített, adásvétel útján beszerzett, felhasználási szerződéssel vagy egyéb megállapodás útján részben vagy egészben megszerzett, vagy készített filmalkotások és más audiovizuális művek, rádiós műsorszámok, hangfelvételek és a médiaszolgáltatáshoz kapcsolódó egyéb, kulturális értéket képviselő dokumentumok, fényképek szerzői és szomszédos jogai, vagy ezek bármely felhasználási jogai, valamint e műveket tartalmazó fizikai hordozók (például: lemezek, szalagok, kazetták, papíralapú dokumentumok, kották), továbbá a szerzői jogi védelem alatt álló jelmezek, kellékek, díszletek és egyéb szerzői művek, amennyiben a művel kapcsolatos szerzői és szomszédos jogok a törvény hatálybalépését megelőzően a közszolgálati médiaszolgáltatók valamelyikét vagy a törvény hatálybalépését követően a Médiaszolgáltatás-támogató és Vagyonkezelő Alapot illetik meg vagy illették meg, valamint amelyekre vonatkozóan a közszolgálati médiaszolgáltatók e törvény hatálybalépését követően szereznek jogot.
+
+34. Közzététel: a Hatóság hirdetőtábláján történő kifüggesztés, illetve a Hatóság internetes honlapján történő megjelentetés. A közzététel időpontja a hirdetőtáblán történő kifüggesztés napja.
+
+35. Lekérhető médiaszolgáltatás: olyan médiaszolgáltatás, amelyben a médiaszolgáltató által összeállított műsorkínálat alapján a felhasználó egyéni kérés alapján, az általa kiválasztott időpontban tekintheti, illetve hallgathatja meg a műsorszámokat.
+
+36. Lineáris médiaszolgáltatás: a médiaszolgáltató által nyújtott, műsorszámok műsorrend alapján történő egyidejű megtekintését, illetve meghallgatását lehetővé tevő médiaszolgáltatás.
+
+37. Magyar mű:
+
+a) amely eredetileg teljes egészében magyar nyelven készült,
+
+b) amely eredetileg több nyelven készült, de időtartamát tekintve eredeti magyar nyelvű része hosszabb, mint bármelyik másik nyelven készült része,
+
+c) amely eredetileg valamely, a Magyar Köztársaság által elismert nemzeti vagy etnikai kisebbség nyelvén készült, ha tárgya az adott kisebbség magyarországi életével, kultúrájával van összefüggésben,
+
+d) amely alapjául magyar irodalmi mű, zenemű szolgált,
+
+e) amely olyan zenei műsorszám, amely magyar nyelven kerül előadásra, vagy amely a Magyar Köztársaság által elismert valamely nemzeti vagy etnikai kisebbség nyelvén kerül előadásra, ha az adott kisebbség Magyarországhoz kapcsolódó kultúrájával van összefüggésben,
+
+f) amely olyan instrumentális zenei műsorszám, amely – elsősorban szerzője révén – a magyar vagy a Magyar Köztársaság által elismert valamely nemzeti vagy etnikai kisebbség Magyarországhoz kapcsolódó kultúrájának részét képezi,
+
+g) amely olyan zenei mű, amelynek legalább egy szerzője magyar,
+
+h) amely olyan zenei műsorszám, amely magyar előadók közreműködésével készült, vagy
+
+i) amely olyan filmalkotás, amely a mozgóképről szóló törvény értelmében magyarnak minősül.
+
+38. Magyar zenei mű: magyar műnek minősülő szöveges vagy instrumentális zenei mű.
+
+39. Médiaigazgatásra vonatkozó szabály: e törvény, valamint a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény, illetve ezek végrehajtása tárgyában kibocsátott jogszabály, médiaigazgatásra vonatkozó, közvetlenül alkalmazandó európai uniós aktus, a Médiatanács és a Hivatal által megkötött hatósági szerződés, illetve a Médiatanács és a Hivatal hatósági határozata.
+
+40. Médiaszolgáltatás: az Európai Unió működéséről szóló szerződés 56–57. cikkében meghatározott gazdasági szolgáltatás, amelyért egy médiaszolgáltató szerkesztői felelősséget visel, amelynek elsődleges célja műsorszámoknak tájékoztatás, szórakoztatás vagy oktatás céljából a nyilvánossághoz való eljuttatása valamely elektronikus hírközlő hálózaton keresztül.
+
+41. Médiaszolgáltató: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, aki vagy amely szerkesztői felelősséggel rendelkezik a médiaszolgáltatás tartalmának megválasztásáért, és meghatározza annak összeállítását. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a médiaszolgáltatás tekintetében.
+
+42. Médiatartalom: valamennyi médiaszolgáltatás során, valamint sajtótermék által kínált tartalom.
+
+43. Médiatartalom-szolgáltató: a médiaszolgáltató, illetve bármely médiatartalom szolgáltatója.
+
+44. Műsor: rádiós, illetve audiovizuális műsorszámok megszerkesztett és nyilvánosan, folyamatosan közzétett sorozata.
+
+45. Műsorelőzetes: olyan műsorszám, amely a médiaszolgáltató által későbbi időpontban közzétenni kívánt más műsorszámot, műsorszámokat mutat be, ismertet vagy népszerűsít.
+
+46. Műsoridő: a médiaszolgáltatásban – valamely meghatározott időszak folyamán – folyamatosan közzétett műsorszámok együttes időtartama.
+
+47. Műsorszám: hangok, illetőleg hangos vagy néma mozgóképek sorozata, mely egy médiaszolgáltató által kialakított műsorrendben vagy műsorkínálatban önálló egységet alkot, és amelynek formája és tartalma a rádiós vagy televíziós médiaszolgáltatáséhoz hasonlítható.
+
+48. Műsorszámokat kiegészítő termékek: egy műsorszám tartalmához közvetlenül kapcsolódó, a médiaszolgáltató által forgalmazott áru vagy szolgáltatás, amely a műsorszám teljesebb élvezetéhez nyújt segítséget, például a nézői vagy hallgatói interaktivitás elősegítésével.
+
+49. Műsorszórás: olyan műsorterjesztés, amelynek során analóg vagy digitális rádiós, illetve audiovizuális médiaszolgáltatásokat a földfelszínen telepített – az elsődlegesen műholdas szolgálatra rendelt frekvenciák kivételével – rádiófrekvenciát használó, általában egyirányú adatátvitelt lehetővé tevő átviteli rendszerrel továbbítják az előfizetőhöz, vagy felhasználóhoz. Műsorszórásnak minősül a digitális műsorszóró hálózat vagy műsorszóró adó segítségével végzett műsorterjesztés is.
+
+50. Műsorterjesztés: bármely átviteli rendszerrel megvalósuló elektronikus hírközlési szolgáltatás, amelynek során a médiaszolgáltató által előállított analóg vagy digitális műsorszolgáltatási jeleket a médiaszolgáltatótól az előfizető, vagy felhasználó vevőkészülékéhez továbbítják, függetlenül az alkalmazott átviteli rendszertől, és technológiától. Műsorterjesztésnek minősül különösen a műsorszórás, a műholddal végzett műsorterjesztés, a hibrid üvegszálas-koaxiális átviteli rendszeren végzett műsorterjesztés, emellett a médiaszolgáltatás Internet Protokoll segítségével történő továbbítása valamely átviteli rendszeren, ha a szolgáltatás jellege, illetve feltételei megegyeznek a műsorterjesztéssel, illetve ez helyettesíti a más módon megvalósított műsorterjesztést. Műsorterjesztésnek minősül az olyan műsorterjesztés is, amelyhez az előfizető külön díj ellenében, vagy más elektronikus hírközlési szolgáltatás díjával csomagban értékesített díj ellenében férhet hozzá. A tíznél kevesebb vevőkészülék csatlakoztatására alkalmas átviteli rendszer segítségével történő jeltovábbítás nem minősül műsorterjesztésnek.
+
+51. Műsorterjesztő: a műsorterjesztési szolgáltatást nyújtó, ideértve a digitális műsorszóró hálózat üzemeltetőjét is, ha a műsorterjesztést saját maga végzi. Amennyiben az átviteli hálózatot nem a műsorterjesztő üzemelteti, az előfizetőnek, vagy felhasználónak nyújtott szolgáltatás feltételeit meghatározó, illetve az előfizetővel szerződést kötő szolgáltató minősül műsorterjesztőnek.
+
+52. Országos médiaszolgáltatás: az a médiaszolgáltatás, amelynek vételkörzetében a Magyar Köztársaság lakosságának legalább ötven százaléka él.
+
+53. Osztott képernyős reklám: audiovizuális médiaszolgáltatásban, kereskedelmi közleménynek nem minősülő műsorszám közzététele alatt közzétett, a képernyő meghatározott részét betöltő reklám.
+
+54. Összetett műsorszám: több műsorszám – egy főcímmel vagy más megkülönböztetéssel jelzett – együttese.
+
+55. Politikai reklám: ellenérték fejében vagy anélkül közzétett, valamely párt, politikai mozgalom vagy a kormány népszerűsítését szolgáló vagy támogatására ösztönző, illetve azok nevét, célját, tevékenységét, jelszavát, emblémáját népszerűsítő, a reklámhoz hasonló módon megjelenő, illetve közzétett műsorszám.
+
+56. Politikai tájékoztató műsorszám: időtartama legalább kilencven százalékában a magyarországi és a nemzetközi politikai, vagy aktuális közéleti eseményeket elemző, bemutató, azokat értékelő, hátterüket feltáró, hírműsorszámnak nem minősülő műsorszám.
+
+57. Programcsomag: a műsorterjesztő által az előfizető számára egy csoportban kínált vagy nyújtott médiaszolgáltatások.
+
+58. Rádiós médiaszolgáltatás: olyan médiaszolgáltatás, amely hangok sorozatából álló műsorszámokat mutat be.
+
+59. Reklám: olyan – műsorszámnak minősülő – közlés, tájékoztatás, illetve megjelenítési mód, amely valamely birtokba vehető forgalomképes ingó dolog – ideértve a pénzt, az értékpapírt és a pénzügyi eszközt, valamint a dolog módjára hasznosítható természeti erőket –, szolgáltatás, ingatlan, vagyoni értékű jog értékesítésének vagy más módon történő igénybevételének előmozdítására, vagy e céllal összefüggésben a vállalkozás neve, megjelölése, tevékenysége népszerűsítésére vagy áru, árujelző ismertségének növelésére irányul.
+
+60. Sajtótermék: a napilap és más időszaki lap egyes számai, valamint az internetes újság vagy hírportál, amelyet gazdasági szolgáltatásként nyújtanak, amelynek tartalmáért valamely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság szerkesztői felelősséget visel, és amelynek elsődleges célja szövegből, illetve képekből álló tartalmaknak a nyilvánossághoz való eljuttatása tájékoztatás, szórakoztatás vagy oktatás céljából, nyomtatott formátumban vagy valamely elektronikus hírközlő hálózaton keresztül. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a sajtótermék tekintetében.
+
+61. Sportműsorszám: olyan műsorszám, amely sporteseményt (az eseménnyel egyidejűleg, késleltetett módon vagy szerkesztve) közvetít, ide nem értve a sporteseményekről való híradást és a sporttémájú beszélgetést tartalmazó műsorszámot.
+
+62. Tagállam: az Európai Gazdasági Térség tagállama.
+
+63. Támogatás: olyan hozzájárulás, amelyet valamely – audiovizuális médiaszolgáltatás nyújtásával vagy műsor- és filmalkotások készítésével nem foglalkozó – vállalkozás nyújt valamely médiaszolgáltató vagy műsorszám finanszírozására azzal a céllal, hogy népszerűsítse nevét, védjegyét, arculatát, tevékenységét vagy termékeit.
+
+64. Társadalmi célú reklám: politikai reklámnak nem minősülő, üzleti érdekeltséget nem tartalmazó, reklámcélokat nem szolgáló, ellenérték fejében vagy anélkül közzétett felhívás vagy közérdekű üzenet, amely valamely közérdekű cél elérése érdekében kíván hatást gyakorolni a médiaszolgáltatás nézőjére vagy hallgatójára.
+
+65. Televíziós vásárlás: az a reklám, amely ellenérték vagy ellenszolgáltatás fejében árunak, szolgáltatásnak, jogoknak és kötelezettségeknek – a forgalmazóval vagy szolgáltatóval való kapcsolatteremtés útján történő – értékesítésére vagy más módon történő igénybevételére tartalmaz közvetlen ajánlatot, ideértve a médiaszolgáltatásban közzétett, gazdasági vállalkozásként működő telefonos játékokat is.
+
+66. Televíziós vásárlási műsorablak: olyan televíziós vásárlás, amelynek megszakítás nélküli időtartama legalább tizenöt perc.
+
+67. Tematikus médiaszolgáltatás: az a médiaszolgáltatás, amely lineáris médiaszolgáltatás esetében a napi műsoridő, lekérhető médiaszolgáltatás esetében a közzétett műsorszámok összesített időtartamának nyolcvan százalékában egymáshoz hasonló tematikájú műsorszámokat tesz közzé, mint például a hír- és politikai tájékoztató műsorszámok, a kiskorúaknak szóló műsorszámok, a sportműsorszámok, a zenei műsorszámok, ismeretterjesztő műsorszámok, valamely életmódot bemutató műsorszámok.
+
+68. Termékmegjelenítés: a kereskedelmi közlemény bármely olyan formája, amely terméket, szolgáltatást, ezek védjegyét vagy ezekre való utalást tartalmaz oly módon, hogy az – fizetés vagy hasonló ellenszolgáltatás ellenében – egy műsorszámban jelenik meg.
+
+69. Választási kampányidőszak: a választási eljárásról szóló törvényben meghatározott, a választási kampány lefolytatására rendelkezésre álló időszak.
+
+70. Vállalkozás: az e törvény hatálya alá tartozó tevékenységet végző természetes személy, gazdasági társaság, vagy más jogi személy.
+
+71. Vételkörzet:
+
+a) műsorszórás és műholdas műsorterjesztés révén végzett, előfizetői díj fizetése nélkül hozzáférhető médiaszolgáltatás esetében azon a földrajzilag meghatározható területen élő lakosság száma, amelyen a műsor közzétételét megvalósító műsorszóró szolgáltatás hasznos jeleinek szintje és az interferenciavédelem számított mértéke eléri a Nemzetközi Távközlési Egyesület érvényes ajánlásaiban meghatározott minimális értéket,
+
+b) más műsorterjesztő átviteli rendszerrel végzett, előfizetői díj fizetése nélkül hozzáférhető médiaszolgáltatás esetében az átviteli rendszerhez csatlakoztatott háztartások száma és a Központi Statisztikai Hivatal által meghatározott, egy háztartásban átlagosan élők számának szorzata, vagy
+
+c) előfizetői díj fizetése ellenében hozzáférhető médiaszolgáltatások esetében az adott médiaszolgáltatásra előfizetett vagy az adott médiaszolgáltatást tartalmazó műsorterjesztési szolgáltatásra előfizetett háztartások száma és a Központi Statisztikai Hivatal által meghatározott, egy háztartásban átlagosan élők számának szorzata.
+
+72. Virtuális reklám: digitális technikával vagy más módon a műsorjelbe, illetve a műsorszámba utólagosan beillesztett reklám.
+
+## HATODIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
+
+### I. Fejezet — HATÁLYBALÉPÉS
+
+204. § (1) E törvény – a (2) bekezdésben foglalt kivétellel – 2011. január 1. napján lép hatályba.
+
+(2) E törvény 222. §-a és 228. § (3) bekezdése 2011. január 2-án lép hatályba. A 229. § azon a napon lép hatályba, amikor az Alkotmánynak a Nemzeti Média- és Hírközlési Hatóság Elnökének rendeletalkotási jogot biztosító rendelkezése hatályba lép. E törvény 223. § (6)–(8) bekezdése, valamint e törvény 5. számú melléklete 2011. január 2-án lép hatályba.
+
+(3) E törvény 220–228. §-ai 2011. január 3-án hatályukat vesztik.
+
+### II. Fejezet — A TÖRVÉNY RÖVIDÍTETT MEGJELÖLÉSE
+
+205. § E törvényt más jogszabályban „Mttv.” rövidítéssel kell megjelölni.
+
+### III. Fejezet — FELHATALMAZÁSOK
+
+206. § (1) Felhatalmazást kap a Kormány, hogy
+
+- a) a frekvenciadíjakat, az azonosítók lekötéséért és használatáért fizetett díjak, továbbá a hírközlési és postai szolgáltatók felügyeleti díjának mértékét,
+- b) a műsorszám kategóriába sorolásával és a közlemények besorolásával kapcsolatos hatósági eljárás igazgatási szolgáltatási díját,
+- c) a Hatóság és a Médiatanács eljárásainak díjai megfizetésének módját és feltételeit, valamint a díjak mértékét és a díjképzés szabályait rendeletben megállapítsa.
+
+(2) Amíg az (1) bekezdés szerinti rendeleteket a Kormány nem fogadja el, az azonos tárgykörben elfogadott miniszteri rendeletek hatályban maradnak.
+
+(3) Felhatalmazást kap a Kormány, hogy a kötelespéldányok szolgáltatóit, a törvényben előírt példányszám alóli kivételeket, a kötelespéldány szolgáltatás módját és határidejét, lebonyolítási szabályait, a kötelespéldányra jogosult szervek körét, a szétosztás módját, a kötelespéldányok megőrzésének és használatának szabályait, valamint szolgáltatás elmulasztása esetén követendő eljárást rendeletben szabályozza.
+
+(4) Felhatalmazást kap a kultúráért felelős miniszter, hogy a kiadványokon az impresszum feltüntetésére vonatkozó részletes szabályokat rendeletben szabályozza.
+
+(5) Felhatalmazást kap az audiovizuális politikáért felelős miniszter, hogy a 171. § szerinti szakhatósági eljárásért fizetendő igazgatási szolgáltatási díj megfizetésének módjára, valamint a díj kezelésére, nyilvántartására és visszatérítésére vonatkozó részletes szabályokat rendeletben megállapítsa.
+
+### IV. Fejezet — ÁTMENETI RENDELKEZÉSEK
+
+### A műsorszolgáltatási szerződésekre vonatkozó átmeneti szabályok
+
+207. § (1) A rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: Rttv.) alapján analóg, földfelszíni terjesztésű műsorszolgáltatási jogosultságra vonatkozó szerződést kötött médiaszolgáltató köteles 2011. december 31-ig kezdeményezni a Médiatanácsnál szerződése hatósági szerződéssé történő átalakítását. E határidő elmulasztása esetén a Médiatanács hivatalból lefolytatja a szerződés átalakítására irányuló eljárást. A hatósági szerződéskötési eljárás határideje jelen eljárásban ötven nap.
+
+(2) Az (1) bekezdésben meghatározott eljárás eredményeképpen megkötött hatósági szerződés nem tartalmazhat a médiaszolgáltató számára kedvezőtlenebb feltételeket, mint a korábbi műsorszolgáltatási szerződés, kivéve, ha a médiaszolgáltató azokat kifejezetten elfogadta.
+
+(3) Amennyiben az eljárás eredményeként hatósági szerződés a felek között nem jön létre, úgy a Médiatanács hatósági határozatában rögzíti a médiaszolgáltató médiaszolgáltatására vonatkozó jogosultságának tartalmát. A hatósági határozat nem tartalmazhat a médiaszolgáltató számára kedvezőtlenebb feltételeket, mint a korábbi műsorszolgáltatási szerződés.
+
+(4) Amennyiben a Médiatanács a hatósági szerződéssé történő átalakítás során úgy értékeli, hogy a korábbi műsorszolgáltatási díj mértéke a médiaszolgáltató hatékony működését veszélyezteti, vagy a piaci versenytársak műsorszolgáltatási díjához képest olyan fokú aránytalanságot mutat, amely a versenytársakat az adott piacon indokolatlan versenyelőnyhöz juttatja, és ezáltal a hatékony verseny és a médiapluralizmus fennmaradását veszélyezteti, az eredeti műsorszolgáltatási szerződésben rögzített műsorszolgáltatási díj mértékét a felek csökkenthetik – illetőleg a (3) bekezdésben foglalt esetben a Médiatanács csökkentheti – az e törvény 44. §-ában és annak (6) bekezdésében meghatározott iránymutatásban foglaltak megfelelő alkalmazásával.
+
+(5) Az (1) bekezdésben meghatározott eljárást a Médiatanácsnak kilencven nap alatt kell lefolytatnia.
+
+(6) Az analóg földi terjesztésű, országos audiovizuális médiaszolgáltatás médiaszolgáltatója a Dtv. 38. § (1) bekezdésben meghatározott időpontig médiaszolgáltatásáért programdíjat (műsordíjat) nem kérhet.
+
+(7) A műsorszolgáltatási szerződést nem lehet felmondani abban az esetben, ha a szerződést valamely jogsértés miatt nem lehetett volna megkötni, de a jogsértést nem kizárólag a médiaszolgáltató okozta.
+
+### A bejelentési kötelezettségre vonatkozó átmeneti szabályok
+
+208. § (1) Azon médiaszolgáltatás, amely az Rttv. alapján a Nemzeti Média- és Hírközlési Hatóság által vezetett nyilvántartásban e törvény hatálybalépésekor szerepel, az e törvényben a bejelentési eljárásra vonatkozó szabályokban meghatározott, a nyilvántartásban nem szereplő adatokat harminc napon belül köteles bejelenteni, új bejelentési eljárás kezdeményezése nélkül.
+
+(2) Azon sajtótermék, amely a sajtóról szóló 1986. évi II. törvény (a továbbiakban: Stv.) alapján a Kulturális Örökségvédelmi Hivatal (a továbbiakban: KÖH) által vezetett nyilvántartásban e törvény hatálybalépésekor szerepel, az e törvényben a bejelentési eljárásra vonatkozó szabályokban meghatározott, a nyilvántartásban nem szereplő adatokat köteles harminc napon belül bejelenteni, új bejelentési eljárás kezdeményezése nélkül.
+
+(3) 2012. január 1-jéig a KÖH látja el a nyomtatott sajtótermékek nyilvántartásba vételének, illetve a lapnyilvántartás kezelésének hatósági feladatait. A Hatóság 2012. január 1. napjától látja el e törvény alapján a nyomtatott sajtótermékek nyilvántartásával kapcsolatos feladatait.
+
+(4) A törvény hatálybalépéskor már működő, de sem a Hatóság, sem a KÖH nyilvántartásában korábban nem szereplő médiaszolgáltatásokat, internetes és sajtótermékeket legkésőbb 2011. június 30-ig be kell jelenteni a Hivatalhoz, a nyomtatott sajtótermékeket pedig legkésőbb 2011. június 30-ig be kell jelenteni a KÖH-höz.
+
+(5) Amennyiben az e törvény hatálybalépésekor a KÖH nyilvántartásában szereplő, de e törvény hatálybalépése előtti három évben meg nem jelent nyomtatott sajtótermék kiadója 2012. december 31-ig nem kezdi meg a sajtótermék rendszeres megjelenését, úgy a sajtóterméket a nyilvántartásból törölni kell. A 46. § (6) bekezdés c) pont szerinti, törlési kötelezettséggel járó időtartam egyéb esetekben e törvény hatálybalépésével kezdődik.
+
+### A közműsor-szolgáltatókra és a nem nyereségérdekelt műsorszolgáltatókra vonatkozó átmeneti szabályok
+
+209. § (1) Amennyiben az Rttv. értelmében közműsor-szolgáltatónak, illetve nem nyereségérdekelt műsorszolgáltatónak minősülő médiaszolgáltató a közműsor-szolgáltatása, illetve a nem nyereségérdekelt műsorszolgáltatása tekintetében 2011. június 30-ig kezdeményezi a Médiatanácsnál közösségi médiaszolgáltatásként való elismerését, a korábbi közműsor-szolgáltatói, illetve nem nyereségérdekelt műsorszolgáltatói minőségéből adódó, az Rttv. által számára adott kedvezményeket a Médiatanács eljárásának lezárultáig tovább élvezheti. Amennyiben e határidőig nem kezdeményezi az elismerést, vagy a Médiatanács azt hatósági határozatával elutasítja, a korábbi közműsor-szolgáltatói vagy nem nyereségérdekelt műsorszolgáltatói státuszból adódó kedvezmények a továbbiakban nem illetik meg. E szabály nem érinti az Alap által a 2011-es évre kiírt pályázaton elnyert támogatásokat.
+
+(2) Az Rttv. alapján műsorszolgáltatási szerződéssel közműsor-szolgáltatást nyújtó médiaszolgáltató e médiaszolgáltatása tekintetében a 207. § alapján 2011. június 30-ig köteles kezdeményezni szerződése hatósági szerződéssé történő átalakítását. Az ilyen hatósági szerződéssel működő médiaszolgáltatásoktól a közösségi médiaszolgáltatásként való elismerését a Médiatanács nem tagadhatja meg arra hivatkozva, hogy a médiaszolgáltatás nem felelt meg a közösségi médiaszolgáltatás feltételeinek, feltéve, hogy a médiaszolgáltató a közműsor-szolgáltatói minőségéből eredő kötelezettségeinek a szerződés átalakításáig eleget tett. Amennyiben e kötelezettségeinek nem tett eleget, úgy a médiaszolgáltatás közösségi médiaszolgáltatásként való elismerés nélkül működhet tovább.
+
+210. § Azon médiaszolgáltatások, amelyekre nézve az Rttv. 8–8/A. §-a kötelezettségeket határoz meg, e törvény hatálybalépése után kötelesek az Rttv. 8. § (3) bekezdésben és a 8/A. §-ban meghatározott kötelezettségeiknek 2012. január 1-ig eleget tenni.
+
+### A törvényben meghatározott testületek tagjaira és tisztségek betöltőire vonatkozó átmeneti szabályok
+
+211. § (1) Az e törvényben meghatározott szervezetek, testületek elnökének, alelnökének, elnökhelyettesének, főigazgatójának, főigazgató-helyettesének, vezérigazgatójának, vezérigazgató-helyettesének, tagjának mandátumát, illetve megbíztatását e törvény hatálybalépése nem érinti.
+
+(2) A Közszolgálati Testületbe történő delegálást, illetve a delegálást megelőző – az 1. számú mellékletben előírt – sorsolást 2011. március 31-ig le kell folytatni.
+
+(3) Amennyiben e törvény hatálybalépéséig a közszolgálati médiaszolgáltatók új, közös Felügyelő Bizottságának elnöke és tagjai, illetve közös könyvvizsgálójuk nem kerülnek megválasztásra, úgy a korábbi felügyelő bizottságok tagjainak és elnökeinek, valamint a könyvvizsgálóknak a megbízatása az új Felügyelő Bizottság, illetve könyvvizsgáló megválasztásakor szűnik meg.
+
+### A közszolgálati médiaszolgáltatókra vonatkozó átmeneti szabályok
+
+212. § (1) Az Rttv. alapján megalkotott Közszolgálati Műsorszolgáltatási Szabályzatot annak megalkotója köteles összhangba hozni a Közszolgálati Kódexszel, vagy ennek hiányában köteles azt hatályon kívül helyezni.
+
+(2) A Magyar Rádió Zrt., a Magyar Televízió Zrt. és a Magyar Távirati Iroda Zrt. megalapítása előtt a Magyar Televízióban, a Magyar Rádióban és a Magyar Távirati Irodában közalkalmazottként dolgozó, és azóta megszakítás nélkül ugyanazon közszolgálati médiaszolgáltatónál foglalkoztatott munkavállalóknak a Magyar Rádiónál, a Magyar Televíziónál és a Magyar Távirati Irodánál közalkalmazotti jogviszonyban töltött idejét úgy kell tekinteni, mintha azt a részvénytársaságnál töltötték volna el.
+
+(3) A (2) bekezdésben foglaltaktól eltérően a felmondási idő és a végkielégítés tekintetében a Magyar Rádió Rt.-nél, a Magyar Televízió Rt.-nél és a Magyar Távirati Iroda rt.-nél eltöltött munkaviszony időtartamát a közalkalmazotti jogviszonynak munkaviszonnyá történő átalakulásának napjától kell számítani. A felmondási idő és a végkielégítés mértékéhez a megelőző közalkalmazotti jogviszony időtartama alapján, a Kjt.-nek a jogviszony átalakulásának időpontjában irányadó szabályai szerint számított felmentési idő és végkielégítés mértékét hozzá kell számítani.
+
+(4) A közalkalmazotti jogviszonyból származó és a jogviszony (2) bekezdés szerinti átalakulását megelőzően keletkezett igényre a Kjt.-nek az igény keletkezésekor hatályos rendelkezései, az igény érvényesítésének rendjére a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény rendelkezései az irányadók.
+
+213. § (1) A 2011. évben a Közszolgálati Kuratórium, az Alap és a közszolgálati médiaszolgáltatók a 2011. évre vonatkozó költségvetési törvényben meghatározott támogatásban részesülnek. Az e törvényben meghatározott közszolgálati finanszírozási módot és mértéket (a közszolgálati hozzájárulást) elsőként a 2012. évre vonatkozóan kell alkalmazni. A 2011. évben az Alap pénzügyi forrásai közé tartozik az Rttv. szerinti üzemben tartási díj is.
+
+(2) Az 109/2010. (X. 28.) OGY határozat alapján átadott vagyonnal összefüggésben szükségessé váló részvénytársasági alaptőke leszállítása vonatkozásában a gazdasági társaságokról szóló 2006. évi IV. törvény 271–272. §-ában foglalt szabályok nem alkalmazhatók.
+
+(3) A (2) bekezdés szerinti vagyonátadás illetékmentes. Az Alap részére térítés nélkül átadott eszközöknek a számvitelről szóló 2000. évi C. törvény szerinti bekerülési értéke megfelel az eszközöknek az átadás időpontjában a közszolgálati médiaszolgáltató által vezetett könyv szerinti értékének.
+
+(4) A közszolgálati médiaszolgáltatók e rendelkezés hatálybalépése előtt létrejött egyes szerződéses jogviszonyaikból eredő jogaikat és kötelezettségeiket a maguk egészében és változatlan feltételekkel átruházhatják az Alapra. Az átruházás folytán bekövetkező alanyváltozás nem érinti a szerződő felek eredeti jogait és kötelezettségeit. Erre tekintettel a szerződéses jogviszonyokban megvalósuló alanyváltozás tekintetében a közbeszerzésekről szóló törvény szerződésmódosításra vonatkozó szabályai nem alkalmazandók. A közszolgálati médiaszolgáltató által ajánlatkérőként e törvény hatálybalépése előtt megindított, és még folyamatban lévő közbeszerzési eljárásokban az ajánlatkérőt megillető jogok és őt terhelő kötelezettségek – a közszolgálati médiaszolgáltató erre irányuló nyilatkozatával – átszállnak az Alapra.
+
+(5) A 109/2010. (X. 28.) OGY határozatban rögzítettek szerint megvalósuló vagyonátadás során a közszolgálati médiaszolgáltatókat terhelő, már teljesített szerződésekhez, a közszolgálati médiaszolgáltatókat terhelő, már teljesített kötelezettségvállalásokhoz kapcsolódó, el nem évült mellékkövetelések továbbra is a közszolgálati médiaszolgáltatókat terhelik. Ilyen jellegű igények az Alappal szemben nem érvényesíthetők.
+
+214. § (1) Az e törvényben foglaltak érvényesülése érdekében a műsorterjesztők és a közszolgálati médiaszolgáltatók kezdeményezhetik a másik félnél a 2010. december 31. előtt kötött műsorterjesztési szerződések felülvizsgálatát és módosítását. A szerződések módosítására irányuló tárgyalások elől egyik fél sem zárkózhat el.
+
+(2) Amennyiben a felek a szerződés felülvizsgálata és módosítása iránti ajánlat másik féllel való közlésétől számított három hónapon belül nem tudnak megállapodni, akkor a szerződés tartalmának megállapítása érdekében bármelyik fél a Médiatanácshoz fordulhat a jogvitás eljárás szabályai szerint.
+
+215. § A Magyar Rádió Nonprofit Zrt. művészeti együtteseinek fenntartásáról és fejlesztéséről a művészeti színvonal megőrzése érdekében e törvény hatálybalépését követően az Alap gondoskodik. A kultúráért felelős miniszter és az Alap szerződésben megállapodhatnak a művészeti együttesek fenntartójának megváltozásáról.
+
+### A Hatóságra és eljárására vonatkozó átmeneti szabályok
+
+216. § (1) Az e törvény hatálya alá tartozó, a Médiatanács vagy a Hivatal előtt folyamatban lévő eljárásokban e törvény hatálybalépése után – a (2)–(5) bekezdésben foglalt kivétellel – e törvény szabályait kell alkalmazni.
+
+(2) Az e törvény hatálybalépését megelőzően megindult pályázati eljárásokban a Médiatanács és az Alap az eljárási cselekmény végzésekor hatályos eljárási szabályok alkalmazásával jár el az alábbiak szerint:
+
+- a) azokban a pályázati eljárásokban, melyekben a Médiatanács e törvény hatálybalépését megelőzően megállapította a pályázat nyertesét, a Médiatanács és az Alap e törvény hatálybalépése után hatósági szerződést köt a nyertes pályázóval e törvényben foglaltak megfelelő alkalmazásával,
+- b) azokban a folyamatban levő pályázati eljárásokban, melyekben a pályázók már benyújtották ajánlataikat, azonban Médiatanács még nem hirdetett nyertest, vagy nem állapította meg a pályázati eljárás eredménytelenségét, a Médiatanács e törvény hatálybalépését követően a rádiózásról és televíziózásról szóló 1996. évi I. törvény, az általános pályázati feltételek és a pályázati felhívás pályázatok vizsgálatára, elbírálására és értékelésére vonatkozó rendelkezései szerint jár el, azzal, hogy döntéseit e törvény eljárási szabályainak megfelelően, hatósági eljárásban hozza meg és a nyertes pályázóval hatósági szerződést köt. E folyamatban lévő pályázati eljárások e törvény hatálybalépésével a törvény alapján hatósági ügynek és hatósági eljárási jogviszonynak minősülnek;
+- c) a 2010. szeptember 6. előtt megindult, analóg, lineáris rádiós médiaszolgáltatási jogosultság hasznosítására irányuló pályázati eljárásokban a jogelőd Testület által elfogadott pályázati felhívás tervezet és pályázati felhívás szövegét a Médiatanács felülvizsgálhatja és módosíthatja. Amennyiben a Médiatanács a pályázati felhívás tervezet vagy a pályázati felhívás módosításáról dönt, a Médiatanács a módosításokkal egységes szövegváltozatot az 50. § szerint közzéteszi és meghallgatást tart. Amennyiben az adott pályázati eljárásban pályázati felhívás tervezet vagy pályázati felhívás korábban már közzétételre került, a Médiatanács az 50. § (3) bekezdése szerinti hirdetményben és a honlapján tájékoztatja a nyilvánosságot az ismételt közzététel és meghallgatás okairól.
+
+(3) E törvény hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
+
+(4) Az Smtv. 14–20. § megsértése miatt lekérhető médiaszolgáltatás médiaszolgáltatójával vagy sajtótermék kiadójával szemben, valamint e törvény Második Részének I. Fejezetében foglalt előírások megsértése miatt a lekérhető médiaszolgáltatás médiaszolgáltatójával szemben az e törvény szerinti hatósági eljárás csak 2011. július 1. után, ezen időpontot követően elkövetett jogsértés miatt indítható. E törvény 9. § (3) bekezdésében, 10. § (1) bekezdés a) pontjában, 72. § (3) bekezdésében, valamint 74. § (3) bekezdésében foglalt kötelezettségeknek a médiaszolgáltatók, illetve műsorterjesztők 2011. április 1. után kötelesek eleget tenni. Velük szemben e kötelezettségek megsértése miatt hatósági eljárás csak ezen időpont után elkövetett jogsértés miatt indítható.
+
+(5) A 171. §-ban foglaltakat a folyamatban lévő eljárásokra is alkalmazni kell azzal, hogy a szakhatósági eljárásért a díjat utólag nem kell megfizetni.
+
+(6) A Hatóság és a Médiatanács a 2011. évben a Nemzeti Média- és Hírközlési Hatóság, valamint a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa 2011. évi költségvetéséről szóló 2010. évi CXLVI. törvényben meghatározott források terhére, de a 134. §-ban foglalt szabályok megfelelő alkalmazásával gazdálkodik. A Nemzeti Média- és Hírközlési Hatóságnak, valamint a Médiatanácsnak, illetve jogelődeiknek a költségvetésében a 2009. és a 2010. évben képződött, kötelezettségvállalással nem terhelt maradványából – ideértve a Médiatanács költségvetésében képződött, kötelezettségvállalással nem terhelt pénzmaradványt, valamint a Kormány határozata alapján a 2010. évben a Nemzeti Hírközlési Hatóságnál zárolt összeget is – tartalékot képez, melyet a digitális átállás megvalósulásáig az azzal kapcsolatos közfeladatok, valamint az Alap közszolgálati és közösségi médiaszolgáltatásokkal kapcsolatos tevékenységének finanszírozására használ fel. A 2010. december 31-ig kötelezettségvállalással lekötött maradványt a Hatóság a kötelezettségvállalás alapjául szolgáló jognyilatkozatnak megfelelően használja fel.
+
+(7) A Magyar Köztársaság 2011. évi költségvetéséről szóló törvény és a Nemzeti Média- és Hírközlési Hatóság, valamint a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa költségvetéséről szóló 2010. évi CXLVI. törvény, valamint a szerződéses kötelezettségek vonatkozásában az e törvényekben, illetve szerződésekben meghatározott Műsorszolgáltatás Támogató és Vagyonkezelő Alapon a Médiaszolgáltatás-támogató és Vagyonkezelő Alapot kell érteni.
+
+217. § A lineáris médiaszolgáltatások közönségarányának mérésére szolgáló módszertant, szakmai kritériumokat, valamint az eredmények Hatóság általi auditálásának rendjét 2011. június 30-ig ki kell dolgozni, illetve szükség esetén ezen időpontig gondoskodni kell a 69. § (3) bekezdés alapján megköthető szerződés előkészítéséről.
+
+218. § A Nemzeti Audiovizuális Archívum (a továbbiakban: NAVA) kezelésének, fenntartásának és működtetésének feladatát 2011. március 31. után a Hatóság látja el. Ezen időpontig gondoskodni kell a NAVA átadásáról a Hatóság részére, ideértve a működéshez kapott költségvetési támogatás időarányos részének átadását is.
+
+### V. Fejezet — HATÁLYUKAT VESZTŐ JOGSZABÁLYOK
+
+219. § (1) Hatályát veszti
+
+- a) a rádiózásról és televíziózásról szóló 1996. évi I. törvény 1. §-a, 2. § 1–6. pontja és 8–52. pontja, 3–7. §-ai, 8. § (1)–(2) és (4) bekezdése, 9–78. §-ai, 84–163. §-ai, valamint mellékletei,
+- b) a sajtóról szóló 1986. évi II. törvény,
+- c) a nemzeti hírügynökségről szóló 1996. évi CXXVII. törvény,
+- d) az elektronikus hírközlésről szóló 2003. évi C. törvény 9. §-a, 14. §-a, 14/A. §-a, 15. §-a, 16. §-a, 17. §-a, 17/A. §-a, 18. §-a, 18/A. §-a, 73/A-C. §-ai, 126. §-a, 182. § (3) bekezdésének e) pontja, és 182. § (4) bekezdésének b) és d) pontjai.
+- e) a műsorterjesztés és a digitális átállás szabályairól szóló 2007. évi LXXIV. törvény 9. § (1)–(2) bekezdése, 10. §-a és 21–29. §-ai,
+- f) a rádiózásról és televíziózásról szóló 1996. évi I. törvény jogharmonizációs célú módosításáról szóló 2007. évi LXVII. törvény,
+- g) a rádiózásról és televíziózásról szóló 1996. évi I. törvény jogharmonizációs célú módosításáról szóló 2002. évi XX. törvény,
+- h) a rádiózásról és televíziózásról szóló 1996. évi I. törvény módosításáról szóló 2006. évi XII. törvény,
+- i) a gazdasági társaságokról szóló 2006. évi IV. törvény 365. § (6) bekezdésének e) pontja,
+- j) a postáról szóló 2003. évi CI. törvény 47. §-a.
+
+(2) Hatályát veszti a rádiózásról és televíziózásról szóló 1996. évi I. törvény 2. § 7. pontja, 8. § (3) bekezdése, 8/A. §-a és 79–83. §-ai.
+
+### VI. Fejezet — MÓDOSULÓ JOGSZABÁLYOK
+
+220. § (1) A műsorterjesztés és a digitális átállás szabályairól szóló 2007. évi LXXIV. törvény (a továbbiakban: Dtv.) 5. § (1) bekezdés 9. pontja helyébe a következő rendelkezés lép:
+
+[E törvény alkalmazásában:]
+
+„9. Elektronikus műsorkalauz (EPG): olyan kiegészítő médiaszolgáltatás, amely egyebek mellett segítséget nyújt a médiaszolgáltatások és más kiegészítő médiaszolgáltatások közvetlen eléréséhez;”
+
+(2) A Dtv. 5. § (1) bekezdés 23. pontja helyébe a következő rendelkezés lép:
+
+[E törvény alkalmazásában:]
+
+„23. Kiegészítő médiaszolgáltatás: tartalomszolgáltatást is magában foglaló mindazon szolgáltatás, amelyet műsorterjesztő rendszeren továbbítanak, és amely nem minősül sem médiaszolgáltatásnak, sem elektronikus hírközlési szolgáltatásnak;”
+
+(3) A Dtv. 5. § (1) bekezdés 24. pontja helyébe a következő rendelkezés lép:
+
+[E törvény alkalmazásában:]
+
+„24. Kiegészítő médiaszolgáltatást nyújtó: a 23. pont szerinti szolgáltatást nyújtó szolgáltató;”
+
+(4) A Dtv. 5. § (1) bekezdés 26. pontja helyébe a következő rendelkezés lép:
+
+[E törvény alkalmazásában:]
+
+„26. Közszolgálati médiaszolgáltatás: e törvény értelmében az Mttv.-ben közszolgálati médiaszolgáltatóként meghatározott médiaszolgáltató által előállított médiaszolgáltatás;”
+
+(5) A Dtv. 5. § (1) bekezdés 27. pontja helyébe a következő rendelkezés lép:
+
+[E törvény alkalmazásában:]
+
+„27. Közszolgálati médiaszolgáltató: az Mttv.-ben közszolgálati médiaszolgáltatóként meghatározott médiaszolgáltató;”
+
+(6) A Dtv. 5. § (1) bekezdés 28. pontja helyébe a következő rendelkezés lép:
+
+[E törvény alkalmazásában:]
+
+„28. Multiplex: a digitális műsorterjesztés céljára szolgáló, audiovizuális és rádiós médiaszolgáltatásokat, kiegészítő médiaszolgáltatásokat, elektronikus hírközlési szolgáltatásokat, valamint ehhez kapcsolódó más azonosító jeleket és adatokat tartalmazó szabványosított jelfolyam;”
+
+(7) A Dtv. 5. § (1) bekezdés 31. pontja helyébe a következő rendelkezés lép:
+
+[E törvény alkalmazásában:]
+
+„31. Médiaszolgáltatás: az Mttv. 203. §-ában meghatározott médiaszolgáltatás, kivéve az információs csatorna üzemeltetését;”
+
+(8) A Dtv. 5. § (1) bekezdés 32. pontja helyébe a következő rendelkezés lép:
+
+[E törvény alkalmazásában:]
+
+„32. Médiaszolgáltató: a 31. pont szerinti médiaszolgáltatást nyújtó;”
+
+(9) A Dtv. 5. § (1) bekezdésének 42. pontja a helyébe a következő rendelkezés lép:
+
+[E törvény alkalmazásában:]
+
+„42. Vételkörzet:
+
+a) műsorszórás és műholdas műsorterjesztés révén végzett, előfizetői díj fizetése nélkül hozzáférhető médiaszolgáltatás esetében azon a földrajzilag meghatározható területen élő lakosság száma, amelyen a műsor közzétételét megvalósító műsorszóró szolgáltatás hasznos jeleinek szintje és az interferenciavédelem számított mértéke eléri a Nemzetközi Távközlési Egyesület érvényes ajánlásaiban meghatározott minimális értéket,
+
+b) más műsorterjesztő átviteli rendszerrel végzett, előfizetői díj fizetése nélkül hozzáférhető médiaszolgáltatás esetében az átviteli rendszerhez csatlakoztatott háztartások száma és a Központi Statisztikai Hivatal által meghatározott, egy háztartásban átlagosan élők számának szorzata, vagy
+
+c) előfizetői díj fizetése ellenében hozzáférhető médiaszolgáltatások esetében az adott médiaszolgáltatásra előfizetett vagy az adott médiaszolgáltatást tartalmazó műsorterjesztési szolgáltatásra előfizetett háztartások száma és a Központi Statisztikai Hivatal által meghatározott, egy háztartásban átlagosan élők számának szorzata.
+
+(10) A Dtv. 5. § (1) bekezdés kiegészül a következő 43–44. pontokkal:
+
+[E törvény alkalmazásában:]
+
+„43. Televíziós médiaszolgáltató és televízió médiaszolgáltató: az Mttv. szerinti lineáris audiovizuális médiaszolgáltatást nyújtó médiaszolgáltató;
+
+44. Televíziós médiaszolgáltatás és televízió médiaszolgáltatás: az Mttv. szerinti lineáris audiovizuális médiaszolgáltatás.”
+
+(11) A Dtv. 39. § (2) bekezdésének c) pontja helyébe az alábbi rendelkezés lép:
+
+„c) legfeljebb négy általános tematikájú országos médiaszolgáltatóval szemben fennálló, műsorterjesztésre vonatkozó szerződéskötési kötelezettséget, amely a jelenleg a médiaszolgáltatást földfelszíni műsorszórás útján megvalósító médiaszolgáltatók esetében akkor alkalmazható, ha erről kötelezettségvállaló nyilatkozatot tesznek, és a szerződés megkötésével vállalják, hogy műsorukat a 43. § (1) bekezdésében foglalt legnagyobb vagy második legnagyobb lakossági elérésű, nem mobil vételű digitális televízió műsorszóró hálózaton a műsorterjesztési szolgáltatás indulásával körzetenként elérhetővé teszik,”
+
+(12) A Dtv. 39. § (8) bekezdése helyébe az alábbi rendelkezés lép:
+
+„(8) Amennyiben a jelenleg a médiaszolgáltatást földfelszíni műsorszórás útján megvalósító országos televíziós médiaszolgáltatók a (2) bekezdés c) pontjában foglalt lehetőséggel nem élnek, a nyertes digitális műsorszóró hálózat üzemeltetője a rendelkezésre álló átviteli kapacitások vonatkozásában szabadon köthet szerződést más általános tematikájú országos médiaszolgáltatóval. A jelenleg a médiaszolgáltatást földfelszíni műsorszórás útján megvalósító országos televíziós médiaszolgáltatók a 43. § (1) bekezdésében foglalt pályázaton értékesített bármely digitális műsorszóró hálózatra abban az esetben kerülhetnek fel, ha szerződés megkötésével vállalják, hogy műsorukat a 43. § (1) bekezdésében foglalt legnagyobb vagy második legnagyobb lakossági elérésű, nem mobil vételű digitális televízió műsorszóró hálózaton a műsorterjesztési szolgáltatás indulásával körzetenként elérhetővé teszik.”
+
+(13) A Dtv. 44. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A közszolgálati médiaszolgáltató médiaszolgáltatásait a digitális televízió, illetve rádió műsorszóró hálózat, illetve műsorszóró adó üzemeltetője ingyenesen köteles a felhasználók számára elérhetővé tenni.”
+
+(14) A Dtv. 44. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A közszolgálati médiaszolgáltatók médiaszolgáltatásait a digitális televízió műsorszóró hálózat üzemeltetője a legnagyobb lakossági eléréssel rendelkező hálózaton és a mobil vételű digitális televízió műsorszóró hálózaton köteles terjeszteni.”
+
+(15) A Dtv. 38. § (1) bekezdése helyébe az alábbi rendelkezés lép:
+
+„(1) A digitális átállásnak 2012. december 31-ig kell megvalósulnia a digitális audiovizuális médiaszolgáltatások elérhetősége tekintetében a Magyar Köztársaság teljes területén úgy, hogy a lakosság legalább kilencvennégy százalékát elérje a digitális televízió műsorszórási szolgáltatáson keresztül a közszolgálati médiaszolgáltatás, és ehhez rendelkezésre álljon a digitális műsorterjesztési szolgáltatás vételére alkalmas készülék (a továbbiakban: digitális átállás). Amennyiben az előzőekben meghatározott feltételek a megjelölt időpontig nem biztosíthatóak, az audiovizuális médiaszolgáltatások terjesztése digitális átállásának határnapja az előzőekben meghatározott feltételek teljesülésével esik egybe, azzal, hogy a digitális átállás határnapja legkésőbb 2014. december 31.”
+
+(16) A Dtv.
+
+1. 4. § (3) bekezdésében az „a rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban Rttv.)” szövegrész helyébe az „a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban Mttv.)” szöveg,
+
+2. 5. § (1) 41. pontjában az „az Rttv. 2. § 22. pontjában” szövegrész helyébe az „az Mttv. 203. § 65. pontjában” szöveg,
+
+3. 8. § (4) bekezdésében az „Az Rttv. 1/A. §-ának (1)–(4) bekezdéseiben” szövegrész helyébe az „az Mttv. 1. §-ában” szöveg,
+
+4. 8. § (4) bekezdésében az „az Rttv. 113. §-a” szövegrész helyébe az „az Mttv. 42. §-a” szöveg,
+
+5. 17. § (2) bekezdésében és 46. § (1) bekezdésében az „Rttv.-ben” szövegrész helyébe az „Mttv.-ben” szöveg,
+
+6. 39. § (2) bekezdés a) pontjában az „a közszolgálati műsorszolgáltató az Rttv. 132. § (3) és (5) bekezdésében meghatározott televízió műsorainak, valamint az Rttv. 132. § (1) bekezdésében meghatározott rádióműsorok” szövegrész helyébe az „az Mttv. 84. § (1) bekezdésében meghatározott közszolgálati médiaszolgáltatók audiovizuális és rádiós médiaszolgáltatásainak” szöveg,
+
+7. 39. § (4) bekezdésében az „az Rttv. 5–5/F. §-aiban” szövegrész helyébe az „az Mttv. 9–11. §-aiban” szöveg,
+
+8. 39. § (5) bekezdés b) pontjában, 46. § (1) bekezdésében az „az Rttv.” szövegrész helyébe az „az Mttv.” szöveg,
+
+9. 39. § (6) bekezdésében az „országos rádió műsorszolgáltató, vagy azzal irányítási viszonyban álló vállalkozás, kivéve az Rttv. szerinti országos közszolgálati rádió műsorszolgáltatót, valamint országos rádió közműsorszolgáltatót” szövegrész helyébe az „országos rádiós médiaszolgáltató, vagy azzal irányítási viszonyban álló vállalkozás, kivéve az Mttv. szerinti közszolgálati rádiós médiaszolgáltatót, valamint országos közösségi médiaszolgáltatót” szöveg,
+
+10. 45. § (1) bekezdésének a) pontjában az „Rttv. 131. § (3) bekezdésében” szövegrész helyébe az „Mttv.-ben” szöveg,
+
+11. 1. § (1) bekezdés c) pontjában, 9. § (4) bekezdésében és a 12. § (1) bekezdésében a „kiegészítő digitális szolgáltatást” szövegrész helyébe a „kiegészítő médiaszolgáltatást” szöveg,
+
+12. 3. § (1) bekezdésben és a 3. § (2) bekezdésben a „műsorszolgáltatók és a kiegészítő digitális szolgáltatást nyújtók” szövegrész helyébe a „médiaszolgáltatók és a kiegészítő médiaszolgáltatást nyújtók” szöveg,
+
+13. 3. § (2) bekezdésben a „kiegészítő digitális szolgáltatásokat” szövegrész helyébe a „kiegészítő médiaszolgáltatásokat” szöveg,
+
+14. 5. § (1) bekezdés 5. pontjában, 9. §-át megelőző alcímében, a 13. § (1) bekezdés b) pontjában, a 20. § (2) bekezdésében és a 39. § (3) bekezdés c) pontjában a „kiegészítő digitális szolgáltatások” szövegrész helyébe a „kiegészítő médiaszolgáltatások” szöveg,
+
+15. 8. § (2) bekezdés c) pontjában, a 8. § (3) bekezdésében és a 8. § (6)–(7) bekezdésében a „kiegészítő digitális szolgáltatás” szövegrész helyébe a „kiegészítő médiaszolgáltatás” szöveg,
+
+16. 8. § (2) bekezdés c) pontjában a „műsorszolgáltatók, valamint a kiegészítő digitális szolgáltatást nyújtók” szövegrész helyébe a „médiaszolgáltatók, valamint a kiegészítő médiaszolgáltatást nyújtók” szöveg,
+
+17. 9. § (3) bekezdésében az „Az (1) bekezdés szerinti kiegészítő digitális szolgáltatást nyújtó” szövegrész helyébe az „A kiegészítő médiaszolgáltatást nyújtó” szöveg,
+
+18. 30. § (2) bekezdés a) pontjában a „műsorszolgáltató és kiegészítő digitális szolgáltatást” szövegrész helyébe a „médiaszolgáltató és kiegészítő médiaszolgáltatást” szöveg,
+
+19. 33. § (1) bekezdésben a „műsorszolgáltató és kiegészítő digitális szolgáltató” szövegrész helyébe a „médiaszolgáltató és kiegészítő médiaszolgáltató” szöveg,
+
+20. 34. § (1) bekezdésben a „műsorszolgáltatás műsorszolgáltatójával, vagy a szolgáltatás vételkörzetében terjesztett kiegészítő digitális szolgáltatást nyújtóval” szövegrész helyébe a „médiaszolgáltatás médiaszolgáltatójával, vagy a szolgáltatás vételkörzetében terjesztett kiegészítő médiaszolgáltatást nyújtóval” szöveg,
+
+21. 1. § (1) bekezdés b) pontjában, 5. § (1) bekezdés 12., 34. és 38. pontjában, 6. § (3) bekezdésében, 7. § (1) bekezdésében, 14. § (2)–(3) bekezdésében, 15. § (1) bekezdésében, 17. § (1)–(2) bekezdésében, 18. § (2) bekezdésében, 19. § (5) és (7) bekezdésében, 32. § (1) bekezdésében, 37. § (1)–(2) bekezdésében, 37. § (4) bekezdés a) pontjában, 37. § (5) bekezdésében, 38. § (3) bekezdésében, 39. § (2) bekezdés a) pontjában, 39. § (3) bekezdés a) pontjában, 39. § (6) bekezdésében, 43. § (1) bekezdésében, 44. § (1) és (3) bekezdésében a „műsorszolgáltató” szövegrész helyébe a „médiaszolgáltató” szöveg,
+
+22. 3. § (1)–(2) bekezdésben, 8. § (2) bekezdés c) pontjában, 17. § (2) bekezdésében, 30. § (2) bekezdésében, 31. § (1) bekezdésében, 39. § (2) bekezdés b), c) és i) pontjában, 39. § (3) bekezdés b) pontjában, 39. § (8) bekezdésében a „műsorszolgáltatók” szövegrész helyébe a „médiaszolgáltatók” szöveg,
+
+23. 5. § (1) bekezdés 34. pontjában, 37. § (4) bekezdés b) pontjában a „műsorszolgáltatótól” szövegrész helyébe a „médiaszolgáltatótól” szöveg,
+
+24. 6. § (4) bekezdésében, 19. § (7) bekezdésében, 37. § (1) bekezdésében, 39. § (2) bekezdés b)–c) pontjában, 39. § (8) bekezdésében a „műsorszolgáltatóval” szövegrész helyébe a „médiaszolgáltatóval” szöveg,
+
+25. 11. § (1) bekezdésében, 17. § (2)–(3) bekezdésében, 39. § (6) bekezdésében a „műsorszolgáltatót” szövegrész helyébe a „médiaszolgáltatót” szöveg,
+
+26. 18. § (1) bekezdésében, 19. § (1) bekezdésében a „műsorszolgáltatónak” szövegrész helyébe a „médiaszolgáltatónak” szöveg,
+
+27. 8. § (4) bekezdésében, 11. §-át megelőző alcímében, 20. § (1) bekezdésében, 34. § (1) bekezdésében, 38. § (1)–(2) bekezdésében a „műsorszolgáltatás” szövegrész helyébe a „médiaszolgáltatás” szöveg,
+
+28. 44. § (2) bekezdésében a „műsorszolgáltatások” szövegrész helyébe a „médiaszolgáltatások” szöveg,
+
+29. 38. § (3) bekezdésében a „műsorszolgáltatási” szövegrész helyébe a „médiaszolgáltatási” szöveg,
+
+30. 11. § (2) bekezdésében, 39. § (2) bekezdés c) pontjában, 39. § (5) bekezdés b) pontjában, 39. § (8) bekezdésében a „műsorszolgáltatást” szövegrész helyébe a „médiaszolgáltatást” szöveg,
+
+31. 15. § (3) bekezdés d) pontjában a „műsorszolgáltatáshoz” szövegrész helyébe a „médiaszolgáltatáshoz” szöveg,
+
+lép.
+
+(17) A Dtv. 43. §-ának (5) bekezdése hatályát veszti.
+
+(18) A Dtv. 43. §-ának (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A (2)–(3) foglalt jogosultságok pályázati kiírási dokumentációjának elkészítésére, a pályázati eljárására és a pályáztatásra a 39–43. §-ok megfelelően alkalmazandók.”
+
+(19) A Dtv. a 43. § után kiegészül az alábbi új alcímmel:
+
+„A helyi és körzeti vételkörzetű műsorterjesztési szolgáltatások nyújtását lehetővé tevő digitális műsorszóró adó üzemeltetési jogosultság megszerzésére vonatkozó pályázati eljárás”
+
+(20) A Dtv. kiegészül az alábbi új 43/A–43/M. §-okkal:
+
+„43/A. § (1) A helyi és körzeti vételkörzetű műsorterjesztési szolgáltatások nyújtását lehetővé tevő digitális műsorszóró adó üzemeltetési jogosultságokat a digitális átállás által lehetővé tett ütemben kell pályáztatni.
+
+(2) A helyi és körzeti vételkörzetű műsorterjesztési szolgáltatások nyújtását lehetővé tevő digitális műsorszóró adó üzemeltetési jogosultság megszerzésére vonatkozó pályázati eljárásokban (a továbbiakban: pályázati eljárás) a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályt kell megfelelően alkalmazni az alábbi (43/A–43/K. §-ban foglalt) eltérésekkel.
+
+(3) A pályázati eljárás – az e törvényben meghatározott kivételekkel – hivatalból, a pályázati felhívás közzétételével indul.
+
+(4) A pályázati eljárás során a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályban szereplő pályázati bizottságot nem kell létrehozni, az eljárás során pályázati bizottság nem működik közre.
+
+(5) A pályázati eljárás ügyintézési határideje nyolcvanöt nap. Az ügyintézési határidőbe nem számít be a Ket.-ben meghatározottakon túl a pályázati felhívás közzététele napjától a pályázati ajánlat benyújtásáig terjedő időtartam, valamint a pályázat nyerteséről szóló döntéshez szükséges hozzájárulás beszerzésére irányuló 43/I. § (4)–(6) bekezdésben meghatározott eljárás időtartama. Az ügyintézési határidő indokolt esetben egy alkalommal, legfeljebb húsz nappal meghosszabbítható.
+
+(6) A pályázati eljárást a Bizottság felügyeli. A Bizottság hozzájárulása szükséges a Hatóság Elnökének (a továbbiakban: Elnök) 43/I. § (1) bekezdés b) pontja szerinti – pályázat nyerteséről szóló – döntéséhez. A Bizottság döntésének meghozatalához az összes szavazati mérték kétharmada szükséges.
+
+(7) Az (1) bekezdésben foglalt jogosultság időtartama a jogosultságról szóló hatósági szerződés megkötésének időpontjától számított legfeljebb 12 év.
+
+43/B. § (1) A pályázati kiírási dokumentáció a külön jogszabályban meghatározottakon túl feltételként tartalmazza:
+
+a) a pályázaton elnyerhető digitális műsorszóró adó műszaki és ellátottsági jellemzőit,
+
+b) a digitális rádió-, illetve televízió műsorszóró adó kiépítésének megkívánt ütemét, illetve üzemeltetése megkezdésének időpontját,
+
+c) a digitális műsorszóró adón nyújtott műsorterjesztési szolgáltatás tervezett lakossági elérésének ütemezését,
+
+d) a digitális műsorszóró adó üzemeltetőjét terhelő szerződéskötési és továbbítási kötelezettséget,
+
+e) a lakosság légi- és katasztrófariasztásával, tájékoztatásával kapcsolatos kötelezettségeket,
+
+f) a nyertes pályázó, illetve az általa létrehozandó gazdasági társaság tulajdonosi szerkezetében vagy tényleges irányítói körében bekövetkezett változások bejelentésével kapcsolatos feltételeket és részletes szabályokat,
+
+g) a pályázati ajánlat alaki és tartalmi érvényességének feltételeit.
+
+(2) A pályázati kiírási dokumentáció a külön jogszabályban meghatározottakon túl feltételként tartalmazhatja:
+
+a) amennyiben a pályázati kiírás lehetővé teszi több pályázó közös ajánlattételét, úgy a közös ajánlattétel szabályait,
+
+b) a benyújtott pályázatokra vonatkozó ajánlati kötöttséget és annak időtartamát.
+
+(3) A pályázaton egyidejűleg nem vehetnek részt olyan természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok vagy egyéb szervezetek, amelyek egymással irányítási viszonyban állnak.
+
+(4) A jogszabályban valamint a pályázati kiírási dokumentációban meghatározott részvételi feltételeknek a pályázati eljárás teljes tartama alatt meg kell felelni.
+
+(5) A résztvevő köteles a kiírási dokumentációban foglalt eljárási szabályokat betartani.
+
+(6) Amennyiben az Elnök a pályázati eljárás tartama alatt a jogszabályba vagy a pályázati kiírási dokumentációba ütköző magatartást észlel, a pályázati kiírási dokumentációban részletezett jogkövetkezményeket alkalmazza, az arányosság és a fokozatosság elvét követve.
+
+43/C. § (1) Az Elnök megvizsgálja, hogy a jelentkező (résztvevő) megfelel-e az alaki és tartalmi érvényesség feltételeinek.
+
+(2) Alakilag érvénytelen a pályázati ajánlat, ha
+
+a) a jelentkező (résztvevő) nem felel meg a jogszabályban, illetve a pályázati kiírási dokumentációban meghatározott személyi, részvételi feltételeknek, illetve összeférhetetlenségi követelményeknek,
+
+b) a pályázati ajánlat nem a pályázati felhívásban meghatározott határidőben, helyen, példányszámban, formában és módon került benyújtásra,
+
+c) a részvételi díjat határidőben nem fizették meg,
+
+d) a pályázati ajánlat formailag nem felel meg a pályázati felhívásban és a pályázati kiírási dokumentációban meghatározott feltételeknek,
+
+e) nem tartalmazza a pályázati jelentkezéshez szükséges – jogszabályban és a pályázati kiírási dokumentációban felsorolt – adatokat.
+
+(3) Ha a pályázati jelentkezés, illetve a pályázati ajánlat a (2) bekezdés e) pontja alapján hiányos, az Elnök hiánypótlásra szólítja fel a jelentkezőt. A hiánypótlás teljesítésére a kézbesítéstől számított tizenöt nap áll a jelentkező rendelkezésére. Amennyiben a jelentkező a hiányosságot a felhívásban megjelölt időtartamon belül megfelelően pótolja, a pályázatot úgy kell tekinteni, mintha már eredetileg is helyes és teljes körű lett volna. A hiánypótlás teljesítésére meghatározott határidő jogvesztő, a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A pályázati ajánlat azon elemei tekintetében, amelyek a pályázati felhívás, illetve pályázati kiírási dokumentáció alapján értékelésre kerülnek, hiánypótlásnak nincs helye.
+
+(4) Az alaki érvényesség vizsgálata során az Elnök érdemi, tartalmi értékelést nem végez.
+
+43/D. § (1) Az Elnök a pályázatok értékelése, feltételeinek jobb megértése, és összehasonlíthatósága érdekében az esélyegyenlőség elvének sérelme nélkül jogosult a jelentkezőtől (résztvevőtől) a pályázatra vonatkozó, illetőleg a pályázónak e törvényben, illetve a pályázati kiírásban meghatározott feltételeknek való megfelelését igazoló további dokumentumokat és információkat írásban kérni.
+
+(2) A felvilágosítás a pályázatban foglaltak jobb megértését szolgálja, nem eredményezheti az ajánlatban megfogalmazott pénzbeli, értékbeli vállalások, lényeges állítások változását, csak azok értelmezését szolgálhatja.
+
+(3) Az Elnök a jelentkező (résztvevő) által adott felvilágosítás tartalmához nincs kötve, szabadon mérlegeli, hogy a döntéshozatal során figyelembe veszi-e azt. Az Elnök a teljes pályázati eljárás során jogosult a felvilágosítás-kérésre.
+
+43/E. § (1) Az Elnök az alakilag érvényes pályázati ajánlatot benyújtó jelentkezőket – a benyújtási határidő lejártától számított negyvenöt napon belül – hatósági nyilvántartásba veszi (a továbbiakban: pályázati nyilvántartás). A pályázati nyilvántartásba vételről az Elnök a résztvevővé vált jelentkezőket értesíti, és a pályázati nyilvántartásba vett résztvevők listáját a Hatóság honlapján közzéteszi.
+
+(2) A 43/C. § (2) bekezdés alapján alakilag érvénytelen pályázat esetén az Elnök a jelentkező pályázati nyilvántartásba vételét végzéssel megtagadja. A nyilvántartásba vételt megtagadó végzés megszünteti az eljárásban a jelentkező ügyféli minőségét. A pályázati nyilvántartásba vételt megtagadó végzés ellen – jogszabálysértésre hivatkozással – a végzés közlésétől számított nyolc napon belül felülvizsgálat kérhető a Fővárosi Ítélőtáblától. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A Fővárosi Ítélőtábla végzése ellen fellebbezésnek helye nincs. A nemperes eljárás iránti kérelem benyújtása esetén az Elnök a pályázati eljárást – a bíróság jogerős döntéséig – felfüggeszti. Az Elnök eljárást felfüggesztő végzésével szemben önálló jogorvoslatnak helye nincs.
+
+(3) Amennyiben az Elnök az alaki érvénytelenségi okot a pályázati nyilvántartásba vételt követően, a pályázati ajánlat érdemi elbírálása során észleli, a pályázat alaki érvénytelenségét külön végzéssel nem állapítja meg, a pályázat érvénytelenségét a pályázati eljárást lezáró döntésébe foglalja.
+
+43/F. § (1) A pályázati ajánlat tartalmi érvényességének vizsgálatakor az Elnök a pályázati nyilvántartásba vett résztvevő pályázati ajánlatát összességében és az egyes pályázati elemek tekintetében is értékeli, vizsgálja annak megalapozottságát.
+
+(2) Ha a pályázati ajánlat tartalmilag hiányos, az Elnök hiánypótlásra szólítja fel a résztvevőt. A hiánypótlás teljesítésére a kézbesítéstől számított tizenöt nap áll a résztvevő rendelkezésére. Amennyiben a résztvevő a hiányosságot a felhívásban megjelölt időtartamon belül megfelelően pótolja, a pályázatot úgy kell tekinteni, mintha már eredetileg is helyes és teljes körű lett volna. A hiánypótlás teljesítésére meghatározott határidő jogvesztő, a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A pályázati ajánlat azon elemei tekintetében, amelyek a pályázati felhívás alapján értékelésre kerülnek, hiánypótlásnak nincs helye.
+
+(3) A pályázati ajánlat tartalmilag érvénytelen, amennyiben
+
+a) a pályázati felhívás és a pályázati kiírási dokumentáció szerinti értékelési szempontként megjelölt vállalások körében érthetetlen vagy egymásnak ellentmondó vagy nyilvánvalóan lehetetlen vállalásokat, feltételeket tartalmaz, amelyek akadályozzák a pályázat érdemi értékelését,
+
+b) a pályázati ajánlat az Elnök megítélése szerint lehetetlen, túlzottan magas vagy alacsony mértékű, illetőleg kirívóan aránytalan kötelezettségvállalást tartalmaz, illetve olyan nyilvánvalóan irracionális vagy megalapozatlan vállalásokat, feltételeket tartalmaz, amelyek ellentmondanak az Elnök rendelkezésére álló tényeknek, adatoknak, és ezáltal lehetetlenné teszik a pályázati kiírásban és a pályázati kiírási dokumentációban foglalt szempontrendszer szerinti értékelést,
+
+c) a pályázati ajánlat megalapozatlansága miatt nem alkalmas az e törvényben, illetve a pályázati felhívásban és a pályázati kiírási dokumentációban meghatározott célok elérésére, megvalósítására, vagy
+
+d) a pályázati felhívásban, illetve a pályázati kiírási dokumentációban meghatározott tartalmi követelményeknek nem tesz eleget.
+
+(4) Az Elnök a pályázati ajánlat tartalmi érvénytelenségét külön végzéssel nem állapítja meg, a pályázati ajánlat tartalmi érvénytelenségét a pályázati eljárást lezáró döntésébe foglalja.
+
+43/G. § (1) A pályázati ajánlatok értékelésére a pályázati felhívásban, illetve a pályázati kiírási dokumentációban meghatározott elvek és szempontok alapján kerül sor. Az értékelési szempontoknak mennyiségi vagy más módon értékelhető tényezőkön kell alapulniuk, a pályázat tárgyával, illetőleg a hatósági szerződés lényeges feltételeivel összhangban kell állniuk. Az egyes szempontok nem eredményezhetik a pályázati ajánlat ugyanazon tartalmi elemének többszöri értékelését.
+
+(2) Az Elnök a bírálati szempontokkal összefüggő ajánlati elemmel kapcsolatban a pályázati felhívásban, illetve a pályázati kiírási dokumentációban jogosult meghatározni olyan elvárást, amelynél kedvezőtlenebb az adott ajánlati elemnél nem lehet.
+
+(3) Az értékelés elveinek átláthatónak, megkülönböztetéstől mentesnek és arányosnak kell lenniük.
+
+(4) A pályázati ajánlatokat a pályázati felhívásban, illetve a pályázati kiírási dokumentációban meghatározottaktól eltérően értékelni nem lehet.
+
+43/H. § (1) Az Elnök végzéssel megszünteti a pályázati eljárást, amennyiben
+
+a) a pályázati felhívásra nem érkezik pályázati ajánlat,
+
+b) a pályázati eljárás a lefolytatása során felmerült körülmény, feltétel folytán okafogyottá válik, így különösen abban az esetben, ha a pályázati felhívást követően a hazai vagy a nemzetközi gazdálkodási környezet nagymértékben megváltozik, illetve a pályázati felhívás kiírásakor fennálló – gazdasági, jogi, frekvenciagazdálkodási, műsorterjesztési, műsorszolgáltatási iparági – körülmények, feltételek lényegesen megváltoznak,
+
+c) az Elnök mérlegelése szerinti médiapolitikai szempontok, illetve az e törvényben vagy a pályázati kiírási dokumentációban rögzített alapelvek, célok a pályázati eljárás lefolytatásával nem biztosíthatóak, ideértve azt az esetet, ha az e törvény 43/A. § (1) bekezdése alapján a pályáztatást a digitális átállás üteme nem teszi lehetővé, vagy
+
+d) az Elnök a benyújtott pályázati ajánlatok és a rendelkezésre álló információk alapján megállapítja, hogy egyetlen résztvevő pályázati ajánlata sem felel meg az e törvényben foglalt céloknak és alapelveknek vagy a pályázati eljárásban résztvevő bármely résztvevő nyertessé nyilvánítása veszélyeztetné a frekvenciakészlettel, mint állami tulajdonnal való felelős, rendeltetésszerű, hatékony gazdálkodást.
+
+(2) Az Elnök az (1) bekezdés szerinti döntését a résztvevőkkel öt napon belül közli, valamint a pályázati felhívással azonos helyen és módon nyilvánosan közzéteszi.
+
+43/I. § (1) Az Elnök hatósági határozatban állapítja meg
+
+a) a pályázati eljárás eredményes vagy eredménytelen voltát, és
+
+b) eredményesség esetén a pályázati eljárás nyertesét.
+
+(2) Eredménytelen a pályázati eljárás, amennyiben valamennyi benyújtott pályázati ajánlat alaki vagy tartalmi szempontból érvénytelen, illetve a (7) bekezdésben meghatározott esetben.
+
+(3) Nyertessé kizárólag olyan résztvevő nyilvánítható, amely a pályázati ajánlat benyújtásától kezdve folyamatosan megfelelt az e törvényben és a pályázati felhívásban, illetve a pályázati kiírási dokumentációban meghatározott részvételi feltételeknek.
+
+(4) Az Elnök az (1) bekezdés b) pontja szerinti határozattervezetét megküldi a Bizottságnak, amely a megküldéstől számított tizenöt napon belül dönt a hozzájárulás megadásáról, megtagadásáról vagy a határozattervezet visszaküldéséről. Amennyiben a Bizottság a megadott határidőn belül nem dönt a határozattervezetről, a határidő leteltét követő napon a hozzájárulást megadottnak kell tekinteni.
+
+(5) A Bizottság a hozzájárulást kizárólag jogszabálysértésre (ideértve a pályázati kiírás és eljárás megsértését is) hivatkozva tagadhatja meg. A Bizottság formai vagy számítási hiba, illetve név-, szám- vagy más elírás esetén, a hiba vagy az elírás megjelölésével a hatósági határozattervezetet egy ízben átdolgozásra visszaküldi az Elnöknek.
+
+(6) Az (5) bekezdés szerint visszaküldött határozattervezetet az Elnök tíz napon belül megvizsgálja, és átdolgozás után újbóli hozzájárulás kérés céljából megküldi a Bizottságnak, amely a (4)–(5) bekezdésben foglaltak szerint jár el.
+
+(7) A hozzájárulást megtagadó bizottsági döntés esetén, az Elnök döntést hoz a pályázat eredménytelenségéről.
+
+43/J. § (1) Az Elnök a 43/I. § (1) bekezdés szerinti döntését a pályázati nyilvántartásban szereplő résztvevőkkel öt napon belül közli, valamint a pályázati felhívással azonos helyen és módon nyilvánosan közzéteszi.
+
+(2) Az Elnök a 43/I. § (1) bekezdésben meghatározott határozatával szemben a határozat közlésétől számított tizenöt napon belül az ügyfelek jogszabálysértésre hivatkozással a határozat bírósági felülvizsgálatát kérhetik a Fővárosi Ítélőtáblától azzal, hogy a határozat meghozatalától számított harminc napos jogvesztő határidő elteltével a határozatot akkor sem lehet megtámadni, ha az ismert ügyfeleken kívüli más jogorvoslatra jogosulttal azt nem közölték, illetve arról addig nem szerzett tudomást.
+
+(3) A bírósági felülvizsgálat iránti keresetet a Fővárosi Ítélőtábla háromtagú tanácsban, a kereset benyújtására meghatározott határidő elteltétől számított harminc napon belül bírálja el. A Fővárosi Ítélőtábla határozatával szemben fellebbezésnek, perújításnak, felülvizsgálati kérelemnek nincs helye.
+
+(4) Ha a Fővárosi Ítélőtábla azt állapítja meg, hogy az Elnök a 43/I. § (7) bekezdés alkalmazásával úgy hozott a pályázat eredménytelenségéről döntést, hogy a Bizottság a jogszabályoknak (ideértve a pályázati kiírás és eljárás szabályait is) megfelelő határozattervezethez nem járult hozzá, az Elnököt új eljárásra kötelezi, amelynek során az Elnök az e határozattervezet tartalmával megegyező döntést hoz a Bizottságnak való megküldés és a Bizottság hozzájárulása nélkül.
+
+(5) A pályázati ajánlatban szereplő adatokról az Elnök a hatósági szerződés megkötéséig harmadik személynek nem adhat tájékoztatást.
+
+43/K. § (1) Az Elnök a 43/I. § (1) bekezdés b) pont szerinti határozattal nyertessé nyilvánított pályázó pályázati ajánlatával és a pályázati kiírási dokumentációval összhangban a nyertessé nyilvánított pályázóval hatósági szerződést köt. E hatósági eljárás ügyintézési határideje negyvenöt nap.
+
+(2) A nyertes pályázó a hatósági szerződés megkötése iránti eljárást a 43/I. § (1) bekezdés b) pont szerinti határozat közlését követő harminc napos jogvesztő határidőn belül kezdeményezheti. E határidő elmulasztása estén igazolási kérelem előterjesztésének nincs helye.
+
+(3) Amennyiben az (1) bekezdés szerinti hatósági eljárásban a pályázat nyertese nem vesz részt vagy a hatósági szerződés megkötését akadályozza, az (1) bekezdésben meghatározott ügyintézési határidőn túl a hatósági szerződés nem köthető meg, ez esetben az Elnök az eljárás megindításától számított negyvenötödik napon az eljárást megszünteti. Az eljárásban igazolási kérelemnek nincs helye.
+
+(4) Amennyiben a 43/J. § (2) bekezdés szerint a Fővárosi Ítélőtábla eljárását kezdeményezték, a hatósági szerződés a Fővárosi Ítélőtábla jogerős döntéséig nem köthető meg. A Fővárosi Ítélőtábla felülvizsgálati eljárásának időtartama a (2) bekezdés szerinti hatósági eljárás kezdeményezésére nyitva álló határidőbe, illetve az eljárás ügyintézési határidejébe nem számít bele.
+
+(5) Az Elnök a pályázati kiírási dokumentációban meghatározott mértékű bírságot szabhat ki, amennyiben a nyertes pályázó a pályázati ajánlatát visszavonja, vagy a hatósági szerződés megkötésére irányuló eljárást a (2) bekezdésben meghatározott határidőn belül nem kezdeményezi, illetve amennyiben a nyertes pályázó a hatósági szerződést nem köti meg.
+
+(6) Az Elnök a bírság kiszabása mellett a pályázati ajánlat visszavonásából, a hatósági szerződés megkötésének akadályozásából származó valamennyi költség viselésére, megfizetésére is kötelezheti a nyertes pályázót.
+
+(7) Amennyiben a hatósági szerződésben meghatározott időpontig a műsorszóró adó üzemeltetése megkezdésére, illetve az adón nyújtott műsorterjesztési szolgáltatás nyújtására – a nyertes pályázó érdekkörében felmerült ok miatt – nem kerül sor, az Elnök jogosult a hatósági szerződésben meghatározott jogkövetkezmények alkalmazásán túlmenően a hatósági szerződést azonnali hatállyal felmondani.
+
+43/L. § (1) Az Elnök hatósági ellenőrzés keretében ellenőrzi a 42. § (6) bekezdés, illetve a 43/K. § alapján megkötött hatósági szerződésekben foglaltak teljesítését. Amennyiben az ellenőrzés eredményeként megállapítja a hatósági szerződésben foglaltak ügyfél általi megsértését, az ellenőrzés során feltárt tények, a szerződésszegés súlya, a hatékony jogérvényesítés, a szerződéssel érintett társadalmi-, gazdasági- és jogviszonyok, valamint a vonatkozó műsorterjesztési alkotmányos alapelvek és célok, továbbá a szerződés alapját képező közérdek hatékony érvényesülése szempontjából mérlegeli, hogy a döntés megsértése tárgyában a Ket. szerinti végrehajtási eljárást vagy az Eht. szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
+
+(2) Amennyiben az Elnök végrehajtási eljárást indít, akkor a végrehajtást elrendelő végzés felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a végzés közlésétől számított tizenöt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a végzés végrehajtására halasztó hatálya van. A Fővárosi Bíróság végzése ellen fellebbezésnek nincs helye.
+
+(3) Ha az Elnök az (1) bekezdés alkalmazásával az e törvény szerinti jogkövetkezmények alkalmazására irányuló eljárást indít, az eljárás megindításával szemben önálló jogorvoslatnak helye nincs.
+
+(4) A hatósági ellenőrzés eredményeként – az ügyfél szerződésszegése tárgyában – indított hatósági eljárásban az Elnök az Eht-ban, valamint a hatósági szerződésben meghatározott jogkövetkezményeket alkalmazhatja.
+
+(5) Súlyos vagy ismételt ügyfél általi szerződésszegés esetében az Elnök jogosult – a hatósági szerződés eltérő rendelkezése hiányában – a hatósági szerződést azonnali hatállyal felmondani.
+
+(6) A hatósági szerződés módosítása vonatkozásában a bíróság előtt indított per nem befolyásolja a hatósági szerződés végrehajtását, érvényesítését, illetve nem rendelkezik halasztó hatállyal a hatósági szerződés végrehajtása, érvényesítése tekintetében.
+
+43/M. § (1) Az Elnök meghatározott időszakra, de legfeljebb három évre közfeladat ellátása érdekében kivételesen pályázati eljárás nélkül is feljogosíthat valamely vállalkozást helyi vagy körzeti műsorterjesztési szolgáltatás nyújtását lehetővé tevő műsorszóró adó üzemeltetésére. E médiaszolgáltatási jogosultságra az Elnök hatósági szerződésben a jogosultság iránti kérelmet elsőként benyújtó természetes, jogi személyt, jogi személyiség nélküli gazdásági társaságot vagy egyéb szervezetet (e § alkalmazásában a továbbiakban: kérelmező) jogosíthatja fel, amennyiben a kérelem műszaki és frekvenciagazdálkodási szempontból megalapozott, továbbá a kérelmező a közfeladat ellátásához szükséges és a műsorszóró adó üzemeltetésére vonatkozó jogszabályi feltételeknek megfelel. A felek a hatósági szerződésben kötelesek meghatározni a műsorszóró adó üzemeltetésére vonatkozó feltételeket, ideértve az üzemeltetési jogosultságért fizetendő díj mértékét is.
+
+(2) Az (1) bekezdés alkalmazásában közfeladatnak az alábbiak minősülnek:
+
+a) az Alkotmánynak megfelelően kihirdetett szükségállapot, az ország jelentős területét érintő elemi csapás, vagy ipari szerencsétlenség esetén történő és azzal kapcsolatos műsorterjesztés,
+
+b) a valamely közösség speciális oktatási, kulturális, tájékoztatási, vagy az adott közösséget érintő meghatározott eseményhez kapcsolódó igényeinek műsorterjesztésen keresztüli szolgálata,
+
+c) valamely közösség kultúrájának műsorterjesztésen keresztüli megőrzése, védelme és támogatása, vagy
+
+d) a nemzeti, illetve etnikai kisebbségi nyelv műsorterjesztésen keresztüli ápolása.”
+
+(21) A Dtv. 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Digitális műsorszóró hálózat, illetve műsorszóró adó üzemeltetésére vonatkozó jogosultság – amennyiben e törvény eltérően nem rendelkezik – e törvényben meghatározott pályázati eljárás alapján nyerhető el.”
+
+221. § (1) A választási eljárásról szóló 1997. évi C. törvény (a továbbiakban: Ve.) 42. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A választási kampány végéig a jelölő szervezetek és a jelöltek engedély nélkül készíthetnek plakátot. A plakát engedély és bejelentés nélkül előállítható.”
+
+(2) A Ve.
+
+- 1. 44. § (2) bekezdésében az „a rádiózásról és televíziózásról szóló törvény” szövegrész helyébe az „a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény” szöveg,
+- 2. 44. § (1)–(2) bekezdésében, 93. § (1)–(2) bekezdésében, 106. § (1)–(2) bekezdésében a „műsorszolgáltatók” szövegrész helyébe a „médiaszolgáltatók” szöveg,
+- 3. 44/A. § (1) a)–c) pontjaiban a „műsorszolgáltatás” szövegrész helyébe a „médiaszolgáltatás” szöveg,
+- 4. 44/A. § (1) bekezdés a)–b) pontjában, 44/A. § (2) bekezdés c) pontjában a „műsorszolgáltató” szövegrész helyébe a „médiaszolgáltató” szöveg,
+- 5. 99/A. §-ában a „műsorszolgáltatóknak” szövegrész helyébe a „médiaszolgáltatóknak” szöveg
+
+lép.
+
+222. § (1) A sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény (a továbbiakban: Smtv.) 2–3. §-ai helyébe a következő rendelkezések lépnek:
+
+„2. § (1) E törvény hatálya kiterjed a Magyar Köztársaságban letelepedett médiatartalom-szolgáltató által nyújtott médiaszolgáltatásra és kiadott sajtótermékre.
+
+(2) E törvény alkalmazásában a médiatartalom-szolgáltató akkor minősül a Magyar Köztársaság területén letelepedettnek, ha:
+
+a) az általa nyújtott médiaszolgáltatás terjesztése a Magyar Köztársaság tulajdonában álló frekvencia igénybevételével történik vagy a sajtótermék elsődlegesen a Magyar Köztársaság felhasználói számára kijelölt elektronikus hírközlési azonosítón keresztül érhető el,
+
+b) központi ügyvezetésének helye a Magyar Köztársaság területén található és a médiaszolgáltatással, sajtótermékkel összefüggő szerkesztői döntéseket a Magyar Köztársaság területén hozzák,
+
+c) ha a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található a Magyar Köztársaság területén, de a médiatartalom-szolgáltató munkaerejének jelentős része a Magyar Köztársaság területén dolgozik,
+
+d) ha a Magyar Köztársaság területén és más országban is dolgozik a médiatartalom-szolgáltató munkaerejének jelentős része, akkor, ha a központi ügyvezetés helye a Magyar Köztársaság területén található, vagy
+
+e) ha a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található a Magyar Köztársaság területén, de tevékenységét a Magyar Köztársaság területén kezdte meg, és folyamatos, tényleges kapcsolatot tart fenn a magyar gazdasággal.
+
+(3) E törvény hatálya kiterjed azon médiatartalom-szolgáltató által nyújtott médiaszolgáltatásra, amelyre az (1)–(2) bekezdés rendelkezései nem alkalmazhatók, ha a Magyar Köztársaság területén található műholdas feladó-állomást használ, vagy a műholdnak a Magyar Köztársaság tulajdonában álló átviteli kapacitását használja.
+
+(4) Ha az (1)–(3) bekezdés alapján nem állapítható meg, hogy a médiatartalom-szolgáltató a Magyar Köztársaság vagy más tagállam joghatósága alá tartozik-e, a médiatartalom-szolgáltató azon állam joghatósága alá tartozik, amelyben az Európai Unió működéséről szóló szerződés 49–55. cikke alapján letelepedettnek minősül.
+
+3. § (1) E törvény hatálya a 2. § (1)–(4) bekezdés alá nem eső, de a Magyar Köztársaság területére irányuló, illetve a Magyar Köztársaság területén terjesztett vagy közzétett médiaszolgáltatásra és sajtótermékre a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 176–180. §-aiban foglalt feltételekkel terjed ki.
+
+(2) E törvény hatálya kiterjed azon médiatartalom-szolgáltató Magyar Köztársaság területére irányuló, illetve a Magyar Köztársaság területén terjesztett vagy közzétett médiaszolgáltatására és sajtótermékére, amely az Európai Gazdasági Térség egyetlen tagállamában sem minősül letelepedettnek, és amelynek médiaszolgáltatása vagy sajtóterméke felett egyik tagállam joghatósága sem állapítható meg.
+
+(3) E törvény hatálya kiterjed a 2. § és az (1)–(2) bekezdés alapján a törvény hatálya alá tartozó médiaszolgáltatást nyújtó, vagy sajtóterméket kiadó médiatartalom-szolgáltatóra.
+
+(4) E törvény megsértése esetén a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa az Mttv.-nek a hatósági eljárásra vonatkozó szabályai szerint járhat el, és alkalmazhat jogkövetkezményt.”
+
+(2) Az Smtv. 15. § (3) bekezdésének a) pontja helyébe az alábbi rendelkezés lép:
+
+„a) azt a nyilatkozó nem a helyi, országos vagy európai közélet eseményével összefüggésben tette,”
+
+(3) Az Smtv. 18. §-a helyébe az alábbi rendelkezés lép:
+
+„18. § A médiatartalom nem lehet alkalmas a magánélet megsértésére.”
+
+(4) Az Smtv. a következő X. Címmel és 24. §-sal egészül ki:
+
+„X. CímA törvény rövidített megjelölése
+
+24. § E törvényt más jogszabályban „Smtv.” rövidítéssel kell megjelölni.”
+
+(5) Az Smtv. a következő XI. Címmel és 25. §-sal egészül ki:
+
+„XI. CímAz Európai Unió jogának való megfelelés
+
+25. § Ez a törvény a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) az Európai Parlament és a Tanács 2010/13/EU irányelve (2010. március 10.) a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról (kodifikált változat) (Audiovizuális médiaszolgáltatásokról szóló irányelv),
+
+b) Az Európai Parlament és a Tanács 2000/31/EK irányelve (2000. június 8.) a belső piacon az információs társadalommal összefüggő szolgáltatások, különösen az elektronikus kereskedelem, egyes jogi vonatkozásairól („Elektronikus kereskedelemről szóló irányelv”),
+
+c) az Európai Parlament és a Tanács 2006/114/EK irányelve (2006. december 12.) a megtévesztő és összehasonlító reklámról (kodifikált változat),
+
+d) az Európai Parlament és a Tanács 2003/33/EK irányelve (2003. május 26.) a tagállamok dohánytermékek reklámozására és szponzorálására vonatkozó törvényi, rendeleti és közigazgatási rendelkezéseinek közelítéséről,
+
+e) az Európai Parlament és a Tanács 2005/29/EK irányelve (2005. május 11.) a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól, valamint a 84/450/EGK tanácsi irányelv, a 97/7/EK, a 98/27/EK és a 2002/65/EK európai parlamenti és tanácsi irányelvek, valamint a 2006/2004/EK európai parlamenti és tanácsi rendelet módosításáról,
+
+f) az Európai Parlament és Tanács 2001/83/EK irányelve (2001. november 6) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről.”
+
+223. § (1) A helyi önkormányzati képviselők jogállásának egyes kérdéseiről szóló 2000. évi XCVI. törvény 5. § j) pontjában a „műsorszolgáltató” szövegrész helyébe a „médiaszolgáltató” szöveg lép.
+
+(2) A nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény 6/A. § (1) bekezdése 6. pontjában a „műsorszolgáltatás” szövegrész helyébe a „médiaszolgáltatás” szöveg lép.
+
+(3) A helyi önkormányzatokról szóló 1990. évi LXV. törvény 33/A. § (1) bekezdés s) pontjában a „műsorszolgáltató” szövegrész helyébe a „médiaszolgáltató” szöveg lép.
+
+(4) Az országgyűlési képviselők jogállásáról szóló 1990. évi LV. törvény 11. § b) pontja helyébe a következő rendelkezés lép:
+
+„b) a Magyar Távirati Iroda Nonprofit Zrt. vezérigazgatója és vezérigazgató-helyettese;”
+
+(5) A rádiózásról és televíziózásról szóló 1996. évi I. törvény 8. § (3) bekezdése helyébe az alábbi rendelkezés lép:
+
+„(3) A Magyar Köztársaság tulajdonában álló frekvenciát használó országos audiovizuális médiaszolgáltatás médiaszolgáltatója minden munkanapon 18 óra és 21 óra között legalább húsz perc, országos rádiós médiaszolgáltatás médiaszolgáltatója minden munkanapon 6 óra 30 perc és 9 óra 30 perc között legalább tizenöt perc önálló hírműsort köteles egybefüggően szolgáltatni. A más médiaszolgáltatótól átvett híranyag a hírműsor húsz százalékát nem haladhatja meg.”
+
+(6) A Nemzeti Média- és Hírközlési Hatóság, valamint a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa 2011. évi költségvetéséről szóló 2010. évi CXLVI. törvény 4. §-ában a „Műsorszolgáltatás Támogató és Vagyonkezelő Alap” szövegrész helyébe a „Médiaszolgáltatás-támogató és Vagyonkezelő Alap” szöveg lép.
+
+(7) A Nemzeti Média- és Hírközlési Hatóság, valamint a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa 2011. évi költségvetéséről szóló 2010. évi CXLVI. törvény 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az Országgyűlés az Alap 2011. évi költségvetésének
+
+a) kiadási főösszegét 64 038,779 M Ft-ban, azaz hatvannégymilliárd-harmincnyolcmillió-hétszázhetvenkilencezer forintban,
+
+b) bevételi főösszegét 64 038,779 M Ft-ban, azaz hatvannégymilliárd- harmincnyolcmillió-hétszázhetvenkilencezer forintban hagyja jóvá”
+
+(8) A Nemzeti Média- és Hírközlési Hatóság, valamint a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa 2011. évi költségvetéséről szóló 2010. évi CXLVI. törvény 3. számú melléklete helyébe e törvény 5. számú melléklete lép:”
+
+224. § (1) Az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.)
+
+- 1. 69. § (6) bekezdésében, 84. § (4) bekezdésében, 188. § 77. pontjában a „műsorszolgáltató” szövegrész helyébe a „médiaszolgáltató” szöveg,
+- 2. 69. § (6) pontjában a „műsorszolgáltatóra” szövegrész helyébe a „médiaszolgáltatóra” szöveg,
+- 3. 84. § (4) bekezdésében a „műsorszolgáltatási” szövegrész helyébe a „médiaszolgáltatási” szöveg,
+- 4. 188. § 77. pontjában a „műsorszolgáltatótól” szövegrész helyébe a „médiaszolgáltatótól” szöveg
+
+lép.
+
+(2) Az Eht. a következő új 63/A. §-sal egészül ki:
+
+„Hírközlési ágazati vizsgálat
+
+63/A. § (1) Az Elnök az e törvényben foglalt rendelkezések érvényesülésének értékelése, illetve az e törvény szerinti hatósági hatáskörök alkalmazása szükségességének feltárása érdekében, amennyiben az ármozgások vagy más piaci körülmények arra utalnak, hogy a hírközlési piacok valamelyikén a verseny torzul vagy korlátozódik, – a piaci folyamatok megismerése és értékelése céljából – végzéssel hatósági ellenőrzési eljárást indít.
+
+(2) Az Elnök ezen eljárása nem érinti a Gazdasági Versenyhivatal tisztességtelen piaci magatartás és versenykorlátozás tilalmáról szóló törvényben rögzített, ágazati vizsgálat lefolytatására irányuló hatáskörét.
+
+(3) A hatósági ellenőrzés megindításáról az Elnök hirdetmény útján értesíti az elektronikus hírközlési szolgáltatókat, amelynek a Ket. vonatkozó rendelkezéseitől eltérően az ügy tárgyát és rövid ismertetését kell tartalmaznia. A végzés indokolásában meg kell jelölni azt is, hogy mely piaci körülményekre tekintettel szükséges az ágazati vizsgálat megindítása. A végzést hirdetményi úton, a Hatóság hirdetőtáblájára való kifüggesztéssel, valamint a Hatóság internetes honlapján kell közzétenni. Az eljárást megindító végzést a hirdetmény kifüggesztését követő tizenötödik napon kell kézbesítettnek tekintetni.
+
+(4) Amennyiben a hatósági ellenőrzés eredményeként az Elnök megállapítja, hogy vizsgált piaci folyamatok következtében a hírközlési piac valamelyikén a verseny torzulhat, vagy korlátozódhat, és megítélése szerint ez az e törvény szerinti hatáskörök gyakorlása útján nem orvosolható, akkor kezdeményezheti a Gazdasági Versenyhivatal versenyfelügyeleti eljárásának megindítását.
+
+(5) A Gazdasági Versenyhivatal az Elnök (4) bekezdés szerinti kezdeményezése alapján a versenyfelügyeleti eljárás megindítását mellőzi, amennyiben azonos vizsgálati tárgyban, azonos időszakra nézve ágazati vizsgálati eljárása van folyamatban, vagy, ha azonos vizsgálati tárgyban, azonos időszakra nézve ágazati már korábban ágazati vizsgálatot folytatott le. Erről a tényről a Gazdasági Versenyhivatal a Hatóságot tájékoztatja.
+
+(6) Amennyiben a versenyfelügyeleti eljárás kezdeményezése nem indokolt, vagy hatáskör hiányában nem lehetséges, illetve az azonosított piaci probléma a Hatóság saját hatáskörében sem orvosolható, tájékoztatja a jogalkotásra jogosult szervet.”
+
+(3) Az Eht. 33. § (2) bekezdés e) pontjában „a referenciaajánlat-tervezet benyújtására, a számviteli nyilvántartások elkülönített vezetésével és a hálózati szolgáltatások költségszámításával kapcsolatos adatszolgáltatásra,” szövegrész helyébe „a referenciaajánlat-tervezet benyújtására, a számviteli nyilvántartások elkülönített vezetésével és a hálózati szolgáltatások költségszámításával valamint a hírközlési ágazati vizsgálattal kapcsolatos adatszolgáltatásra,” szövegrész lép.
+
+(4) Az Eht. 10. §-a az alábbiak szerint változik:
+
+„10. § (1) A Hatóság
+
+a) szükség szerint, de legalább évente nyilatkozik a hatáskörével összefüggő, elektronikus hírközlésre vonatkozó jogszabályok megalkotásának, illetőleg módosításának szükségességéről, közreműködik a hatáskörével összefüggő jogszabályok előkészítésében;
+
+b) nyilvános meghallgatást tart;
+
+c) a szabályozói, szakmapolitikai, piacélénkítési és pályáztatási döntések megalapozása érdekében felméri és folyamatosan elemzi a hírközlési és az ehhez kapcsolódó informatikai piac működését;
+
+d) a szabályozói és hírközlés-politikai döntések és elemzések módszertani megalapozása érdekében, továbbá a hírközlési ágazat felhasználóbarát információ szolgáltatásának biztosítása érdekében folyamatosan értékeli a hírközlési piac helyzetét, és erről összehasonlító elemzéseket készít;
+
+e) az e törvényben meghatározottak szerint megállapítja az érintett piacokat, elemzi az érintett piacokon fennálló versenyt, illetve annak hatékonyságát, azonosítja az egyes érintett piacokon jelentős piaci erővel rendelkező szolgáltatókat, valamint meghatározza a jelentős piaci erővel rendelkező szolgáltatókat terhelő kötelezettségeket;
+
+f) eljár a jelentős piaci erővel rendelkező szolgáltató számára megállapított egyes kötelezettségek teljesítésével, illetve megszegésével összefüggésben;
+
+g) hivatalból vagy kérelemre eljár az elektronikus hírközlésre vonatkozó szabály megsértése miatt, illetve szerződéskötéssel kapcsolatos jogviták esetén indított eljárásokban;
+
+h) eljár hálózati szolgáltatásokkal összefüggésben kialakult árpréssel kapcsolatos ügyekben;
+
+i) közzéteszi a jogszabályban előírt nyilvántartásokat, adatokat, döntéseket;
+
+j) a gazdálkodás körében gyakorolja a rádiófrekvenciákra és azonosítókra vonatkozó állami tulajdonosi jogokat, polgári célú gazdálkodást folytat a rádiófrekvenciák és azonosítók vonatkozásában;
+
+k) koordinálja az elektronikus hírközléssel kapcsolatos, külön jogszabályban meghatározott honvédelmi, rendvédelmi, nemzetbiztonsági és védelmi felkészítési, valamint az ezekkel kapcsolatos adatszolgáltatási feladatok végrehajtását, működteti az informatikai és hírközlési ágazat ügyeleti szolgálatát;
+
+l) eljár az elektronikus hírközlési szolgáltatások bejelentésével, a polgári célú frekvenciagazdálkodással, az azonosítógazdálkodással, a jogszabályban előírt nyilvántartások vezetésével, a zavarelhárítással, a piacfelügyelettel, az ingatlanhasználattal, az elektronikus hírközlési építmények engedélyezésével, az építésfelügyelettel kapcsolatos hatósági ügyekben;
+
+m) eljár a Kormány, illetve a miniszter hatáskörébe nem tartozó, polgári célú frekvenciagazdálkodással kapcsolatos ügyekben;
+
+n) zártcélú hálózatok létesítése, összekapcsolása, fejlesztése, korszerűsítése során a zártcélú hálózatokról szóló jogszabály szerint egyeztet a hálózatgazdákkal;
+
+o) ellenőrzi a miniszter által kijelölt megfelelőségértékelő szervezetek tevékenységét;
+
+p) ellátja az Egyetemes Elektronikus Hírközlési Támogatási Kassza működtetésével kapcsolatos, jogszabályban meghatározott feladatokat;
+
+q) ellátja az információs társadalommal összefüggő szolgáltatásokkal kapcsolatos, jogszabályban meghatározott feladatokat;
+
+r) közreműködik a Kormány elektronikus hírközléssel kapcsolatos nemzetközi tevékenységének előkészítésében, részt vesz a nemzetközi kötelezettségek végrehajtásában, ellátja a Magyar Köztársaság képviseletét az elektronikus hírközléssel kapcsolatos nemzetközi szervezetekben, kapcsolatot tart az Európai Bizottsággal és más tagállami szabályozó hatóságokkal;
+
+s) ellátja a jogszabályban meghatározott egyéb feladatokat;
+
+t) eljár a nem polgári célú frekvenciagazdálkodással kapcsolatos hatósági ügyekben.
+
+(2) Az Elnök ellátja az (1) bekezdés b), valamint d)–h) pontjában meghatározott hatáskörökből eredő feladatokat, továbbá elfogadja az éves piacfelügyeleti tervet, és ellenőrzi annak végrehajtását. A Hivatal eljár az (1) bekezdés a), c), j) és l)–s) pontjaiban meghatározott ügyekben, továbbá ellátja az Elnök által – a Hatóság elnökeként és a Médiatanács elnökeként – e törvény valamint a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény keretei között, illetve e törvények felhatalmazása alapján a más jogszabályok által ráruházott feladatokat. A főigazgató eljár az (1) bekezdés i) és k) pontjaiban meghatározott ügyekben, valamint ellátja az Elnök által – a Hatóság elnökeként és a Médiatanács elnökeként – e törvény valamint a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény keretei között, illetve e törvények felhatalmazása alapján a más jogszabályok által ráruházott feladatokat.”
+
+225. § A Nemzeti Audiovizuális Archívumról szóló 2004. évi CXXXVII. törvény
+
+- 1. 1. § (1) bekezdése a) pontjában az „a rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: Rttv.) 7. §-a (5) bekezdésének e) pontjában meghatározott, eredetileg magyar nyelven készült műsorszámokra” szövegrész helyébe az „a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 203. § 37. pontjában meghatározott magyar műsorszámokra” szöveg,
+- 2. 2. § d) pontjában, 6. §-ában, 7. § (2) bekezdés b) pontjában, 15. § (2) bekezdésében a „műsorszolgáltatók” szöveg helyébe a „médiaszolgáltatók” szöveg,
+- 3. 8. § d)–e) pontjában, 9. §-ában, 12. §-át megelőző alcímében, 12. §-ában a „műsorszolgáltatókkal” szövegrész helyébe a „médiaszolgáltatókkal” szöveg,
+- 4. 10. § (2)–(3) bekezdésében, a törvény 2. melléklete „I. KÖTELEZŐ ADATSZOLGÁLTATÁS” fejezetének 5. pontjában a „műsorszolgáltató” szövegrész helyébe a „médiaszolgáltató” szöveg,
+- 5. 2. melléklete „II. ÖNKÉNTES ADATSZOLGÁLTATÁS” fejezetében a „műsorszolgáltatónál” szövegrész helyébe a „médiaszolgáltatónál” szöveg
+
+lép.
+
+226. § (1) A fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény
+
+- 1. 11. § (2) bekezdésének a) pontja helyébe a következő rendelkezés lép:
+
+[A gazdasági verseny érdemi érintettsége minden egyéb körülményre tekintet nélkül fennáll, ha]
+
+„a) a kereskedelmi gyakorlat országos médiaszolgáltatást végző médiaszolgáltatón keresztül valósul meg”
+
+- 2. 25. § (1) bekezdésében a „43/I. §-a (1) bekezdésének második mondatától” szövegrész helyébe a „43/I. §-a (1) bekezdésétől” szöveg lép.
+
+(2) Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény
+
+- 1. 46. § (2) bekezdésének j) pontjában, 85. § (1) bekezdésének o) pontjában, 259. § 17. pontjában, 2. számú melléklete „Közhatalmi tevékenységnek nem minősülő tevékenységek” fejezetének 13. pontjában a „rádiós és televíziós műsorszolgáltatások” szövegrész helyett a „rádiós és audiovizuális médiaszolgáltatások” szöveg,
+- 2. 259. § 17. pontjában a „műsorszolgáltató” szövegrész helyett a „médiaszolgáltató” szöveg,
+- 3. 46. § (5) pontjának d) bekezdésében a „műsorszolgáltatás” szövegrész helyébe a „médiaszolgáltatás” szöveg
+
+lép.
+
+(3) A mozgóképről szóló 2004. évi II. törvény
+
+- 1. 1. § (2) bekezdésében a „televíziós műsorszolgáltatási” szövegrész helyébe a „audiovizuális médiaszolgáltatási” szöveg,
+- 2. 10. § (2) bekezdése l)–m) pontjaiban a „televíziós műsorszolgáltatók” szövegrész helyébe az „audiovizuális médiaszolgáltatók” szöveg,
+- 3. 10. § (3) bekezdésében a „műsorszolgáltatók” szövegrész helyébe a „médiaszolgáltatók” szövegrész
+
+lép.
+
+(4) A közbeszerzésekről szóló 2003. évi CXXIX. törvény
+
+- 1. 22. § (1) bekezdése g) pontjában a „a Magyar Távirati Iroda Részvénytársaság, a közszolgálati műsorszolgáltatók, valamint az a közműsor-szolgáltató” szövegrész helyébe a „közszolgálati médiaszolgáltatók, valamint az a közösségi médiaszolgáltató” szöveg,
+- 2. 29. § (2) bekezdése c) pontjában a „műsorszolgáltató” szövegrész helyébe a „médiaszolgáltató vagy a Médiaszolgáltatás-támogató és Vagyonkezelő Alap” szöveg
+
+lép.
+
+(5) A szerzői jogról szóló 1999. évi LXXVI. törvény
+
+- 1. 28. § (6) bekezdésében a „műsorszolgáltató” szövegrész helyébe a „médiaszolgáltató” szöveg,
+- 2. 36. § (3)–(4) bekezdésében az „a televíziós műsorszolgáltatásban” szövegrész helyébe az „az audiovizuális médiaszolgáltatásban” szöveg
+
+lép.
+
+(6) A személy- és tárgykörözésről szóló 2001. évi XVIII. törvény 12. § (1) bekezdés d) pontjában a „műsorszolgáltatónak” szövegrész helyébe a „médiaszolgáltatónak” szövegrész lép.
+
+(7) A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 4. § fb) pontjában a „műsorszolgáltatás” szövegrész helyébe a „médiaszolgáltatás” szöveg lép.
+
+(8) A fogyasztóvédelemről szóló 1997. évi CLV. törvény 48. § (5) bekezdés a) pontjában a „műsorszolgáltatóval” szövegrész helyébe a „médiaszolgáltatóval” szöveg lép.
+
+(9) A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 5. számú melléklete „A társasági adóalanynak nem minősülő szervezetek” fejezetének 7. pontjában a „műsorszolgáltatók” szövegrész helyébe a „médiaszolgáltatók” szöveg lép.
+
+(10) Az illetékekről szóló 1990. évi XCIII. törvény 43. § (3) bekezdésében a „műsorszolgáltatással” szövegrész helyébe a „sajtótermékkel és médiaszolgáltatással” szöveg lép.
+
+(11) A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 26. § (5) bekezdésében a „műsorszolgáltatóval” szövegrész helyébe a „médiaszolgáltatóval” szöveg lép.
+
+(12) A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 78. § (4) bekezdésében a „műsorszolgáltatóval” szövegrész helyébe a „médiaszolgáltatóval” szöveg lép.
+
+227. § (1) A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 1. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az audiovizuális és rádiós médiaszolgáltatásban közzétett reklámra a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvényt, valamint a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvényt is alkalmazni kell.”
+
+(2) A környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédelmi termékdíjáról szóló 1995. évi LVI. törvény 20. § 20. pontja helyébe a következő rendelkezés lép:
+
+[E törvény alkalmazásában:]
+
+„reklámhordozó papír: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklámot tartalmazó, a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény és a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény által meghatározott nyomtatott sajtótermékek, valamint a röplap és az egyéb szöveges kiadvány, a grafikát, rajzot vagy fotót tartalmazó kiadvány, továbbá a térkép, ide nem értve a bankjegyet, az értékpapírt, az ISSN számmal rendelkező kiadványokat, továbbá a könyvet és tankönyvet;”
+
+(3) A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 22/B. § (10) bekezdésében az „a rádiózásról és televíziózásról szóló 1996. évi I. törvény 5/B. §-a alapján az V. kategóriába” szövegrész helyébe az „a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény 9. §-a alapján a VI. kategóriába” szöveg lép.
+
+(4) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 1. § (2) bekezdésének e) pontjában az „a rádiózásról és televíziózásról szóló törvény szerinti műsorszolgáltatási tevékenységre” szövegrész helyébe az „a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény szerinti médiaszolgáltatási tevékenységre” szöveg lép.
+
+(5) A szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény 4. § n) pontja helyébe a következő rendelkezés lép:
+
+[E törvény alkalmazásában:]
+
+„n) sajtótevékenységet folytató, illetve egyéb tájékoztatást, hír- vagy médiaszolgáltatást nyújtó: a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény, valamint a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény hatálya alá tartozó sajtótermék, médiaszolgáltatás, kiegészítő médiaszolgáltatás, vagy e törvények hatálya alá nem tartozó könyv, röplap, egyéb szöveges kiadvány, a zeneművet, grafikát, rajzot vagy fotót tartalmazó kiadvány, nyilvános közlésre szánt műsoros filmszalag, videokazetta, videolemez, hangszalag és hanglemez, továbbá bármely más, a nyilvános közzététel szándékával készült tájékoztatást vagy műsort tartalmazó technikai eszköz előállításával, kiadásával és nyilvános közlésével kapcsolatos tevékenységet folytató természetes személy, egyéni vállalkozó, jogi személy, valamint jogi személyiséggel nem rendelkező társaság;”
+
+(6) A szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény 12. § (1) bekezdésében a „műsorszolgáltatást” szövegrész helyébe a „médiaszolgáltatást” szöveg lép.
+
+(7) A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 59. § (2) és (4) bekezdése helyébe az alábbi rendelkezések lépnek:
+
+„(2) A kiadványokból országosan hat kötelespéldányt kell szolgáltatni a könyvtári rendszer számára, kormányrendeletben meghatározott módon.”
+
+„(4) A miniszter kialakítja a nemzeti kulturális örökség részét képező kép- és hangrögzítés országos nyilvántartási rendszerét a Magyar Nemzeti Filmarchívum, a Médiaszolgáltatás-támogató és Vagyonkezelő Alap, valamint a rádiózásról és televíziózásról szóló 1996. évi I. törvény, vagy a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény szerint médiaszolgáltatási jogosítványt szerzett szervezetek archívumaiban őrzött, továbbá az egyéb szervezetek által gyűjtött és őrzött dokumentumokról.”
+
+(8) Az államháztartásról szóló 1992. évi XXXVIII. törvény 18/C. § (6) bekezdés c) pontja helyébe a következő rendelkezések lépnek:
+
+[A kincstárban pénzforgalmi számlát kötelesek vezetni]
+
+„c) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,”
+
+(9) A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 26. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A médiaszolgáltatóval szemben kiszabott bírságot a Médiaszolgáltatás-támogató és Vagyonkezelő Alapba kell befizetni.”
+
+(10) A számvitelről szóló 2000. évi C. törvény 3. § (1) bekezdés 4. pont h) alpontja helyébe a következő rendelkezés lép:
+
+[E törvény alkalmazásában egyéb szervezet:]
+
+„h) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,”
+
+(11) A szerzői jogról szóló 1999. évi LXXVI. törvény 28. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A magyar közszolgálati médiaszolgáltató rádió- vagy televízió-szervezet műsorában sugárzott, vezetéken vagy másként közvetített művek továbbközvetítéséért járó díjakat a Médiaszolgáltatás-támogató és Vagyonkezelő Alapból kell megfizetni; erről az Alap kezelője gondoskodik.”
+
+(12) A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 78. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A műsorszolgáltatóval szemben kiszabott bírságot a Médiaszolgáltatás-támogató és Vagyonkezelő Alapba kell befizetni.”
+
+228. § (1) Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 16/B. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az elsőfokú szerv a Hatóság Hivatala. Az elsőfokú határozat ellen a Hatóság Elnökéhez lehet fellebbezni.”
+
+(2) A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 13. § (2) bekezdése a következő g) ponttal egészül ki:
+
+[E törvény rendelkezéseit]
+
+„g) az audiovizuális médiaszolgáltatás nyújtására és a sajtótermék kiadására irányuló tevékenység felügyeletével, a médiaigazgatással, az audiovizuális médiaszolgáltatások és a sajtótermékek piaci felügyeletével, piacszabályozásával kapcsolatos eljárásban”
+
+[csak akkor kell alkalmazni, ha az ügyfajtára vonatkozó törvény eltérő szabályokat nem állapít meg]
+
+(3) A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 43/I. §-ának helyébe a következő rendelkezés lép:
+
+„43/I. § (1) A 43/H. § (1) bekezdése szerinti bejelentésnek nem minősülő beadványt a Gazdasági Versenyhivatal panaszként kezeli az e §-ban meghatározottak szerint.
+
+(2) A vizsgáló a panaszban foglaltak alapján megteszi a szükséges intézkedéseket. Az ugyanazon panaszos által tett korábbi panasszal azonos tartalmú, a nyilvánvalóan alaptalan, továbbá a névtelen panasszal kapcsolatos intézkedés megtétele mellőzhető.
+
+(3) A vizsgáló a panaszost és azt, akivel szemben panasszal éltek, meghallgathatja, valamint tőle további felvilágosítást és információt kérhet. A panaszos kérheti, hogy ne fedjék fel személyét, illetve azt a tényt, hogy panasszal élt a Gazdasági Versenyhivatalhoz.
+
+(4) Ha a panaszban megjelölt magatartással kapcsolatban más hatóság jogosult eljárni, a Gazdasági Versenyhivatal a panaszt ennek megállapításától számított nyolc napon belül – a panaszos egyidejű értesítése mellett – átteszi a hatáskörrel és illetékességgel rendelkező hatósághoz.
+
+(5) Ha a panaszban megjelölt magatartással kapcsolatban a Gazdasági Versenyhivatal versenyfelügyeleti eljárást indít, vagy a panasz beérkezésekor a versenyfelügyeleti eljárás már folyamatban van vagy lezárult, erről a tényről a panaszost tájékoztatni kell.”
+
+(4) A honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény 162. § (1) bekezdésében a „Magyar Rádió, a Magyar Televízió, Duna Televízió és a Magyar Távirati Iroda” szövegrész helyébe a „Magyar Rádió Nonprofit Zrt., a Magyar Televízió Nonprofit Zrt., a Duna Televízió Nonprofit Zrt. és a Magyar Távirati Iroda Nonprofit Zrt.” szöveg lép.
+
+(5) A helyi adókról szóló 1990. évi C. törvény 52. § 35. pontjában a „Magyar Rádió Zrt., a Magyar Televízió Zrt., a Duna Televízió Zrt., a Magyar Távirati Iroda Zrt.” szövegrész helyébe a „Magyar Rádió Nonprofit Zrt., a Magyar Televízió Nonprofit Zrt., a Duna Televízió Nonprofit Zrt., a Magyar Távirati Iroda Nonprofit Zrt., a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,” szöveg lép.
+
+(6) Az illetékekről szóló 1990. évi XCIII. törvény 5. § (1) bekezdés j) pontja helyébe a következő rendelkezés lép:
+
+[Teljes személyes illetékmentességben részesül:]
+
+„j) a Magyar Rádió Nonprofit Zrt., a Magyar Televízió Nonprofit Zrt., a Duna Televízió Nonprofit Zrt., a Magyar Távirati Iroda Nonprofit Zrt., és a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,”
+
+(7) Az illetékekről szóló 1990. évi XCIII. törvény 67. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Azt, hogy mely eljárásért vagy szolgáltatásért kell díjat fizetni, továbbá a díj mértékét
+
+a) törvény felhatalmazása alapján a Kormány vagy a Magyar Nemzeti Bank elnöke,
+
+b) törvény, eredeti jogalkotó hatáskörben kiadott kormányrendeletben létrehozott eljárás vagy szolgáltatás esetében az eljárást vagy szolgáltatást létrehozó kormányrendelet felhatalmazása alapján a szakmai tevékenység irányításáért felelős miniszter az adópolitikáért felelős miniszter egyetértésével
+
+rendeletben szabályozza. A lakosság széles körét érintő díjfizetési kötelezettséget csak törvény állapíthat meg.”
+
+229. § (1) E törvény 134. § (5) bekezdésében és 206. § (1)–(2) bekezdésében a „Kormány” szövegrész helyébe a „Nemzeti Média- és Hírközlési Hatóság Elnöke” szövegrész lép.
+
+(2) Az illetékekről szóló 1990. évi XCIII. törvény 67. § (2) bekezdés a) pontjában a „Kormány” szövegrész helyébe a „Nemzeti Média- és Hírközlési Hatóság Elnöke” szövegrész lép.
+
+### VII. Fejezet — AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
+
+230. § (1) Ez a törvény a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
+
+- a) az Európai Parlament és a Tanács 2010/13/EU irányelve (2010. március 10.) a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról (kodifikált változat) (Audiovizuális médiaszolgáltatásokról szóló irányelv),
+- b) Az Európai Parlament és a Tanács 2000/31/EK irányelve (2000. június 8.) a belső piacon az információs társadalommal összefüggő szolgáltatások, különösen az elektronikus kereskedelem, egyes jogi vonatkozásairól („Elektronikus kereskedelemről szóló irányelv”)
+- c) az Európai Parlament és a Tanács 2002/21/EK irányelve (2002. március 7.) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról (keretirányelv),
+- d) az Európai Parlament és a Tanács 2009/140/EK irányelve (2009. november 25.) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról szóló 2002/21/EK irányelv, az elektronikus hírközlő hálózatokhoz és kapcsolódó eszközökhöz való hozzáférésről, valamint azok összekapcsolásáról szóló 2002/19/EK irányelv és az elektronikus hírközlő hálózatok és az elektronikus hírközlési szolgáltatások engedélyezéséről szóló 2002/20/EK irányelv módosításáról,
+- e) az Európai Parlament és a Tanács 98/27/EK irányelve (1998. május 19.) a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról, 2. cikk (1) bekezdés és 4. cikk (1) bekezdés.
+
+(2) Ez a törvény a következő európai uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Nemzeti Média- és Hírközlési Hatóság feladatkörében és eljárásában:
+
+- a) az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről,
+- b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról,
+- c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról.
+
+### 1. számú melléklet a 2010. évi CLXXXV. törvényhez
+
+A Közszolgálati Testületbe az alábbi Jelölő Szervezetek delegálhatnak tagot az alábbiakban meghatározottak szerint:
+
+- 1. Jelölő Szervezetek:
+  - a) Magyar Tudományos Akadémia
+  - b) Magyar Katolikus Egyház
+  - c) Magyarországi Református Egyház
+  - d) Magyarországi Evangélikus Egyház
+  - e) Magyarországi Zsidó Hitközségek Szövetsége
+  - f) Magyar Olimpiai Bizottság
+  - g) Magyar Rektori Konferencia
+  - h) Magyar Kereskedelmi és Iparkamara
+  - i) a Magyar Köztársaság települési önkormányzatainak szövetségei, illetve szervezetei
+  - j) a magyarországi nemzeti és etnikai kisebbségek országos önkormányzatai
+  - k) a Magyar Köztársasággal szomszédos államokban bejegyzett, száz főnél nagyobb taglétszámú magyar kulturális szervezetek
+  - l) a családok érdekeit védő és képviselő, Magyarországon bejegyzett, az egyesülési törvény hatálya alá tartozó érdekvédelmi szervezetek, amelyek alapszabályából a működési kör országos jellege megállapítható
+  - m) a fogyatékkal élő személyek Magyarországon bejegyzett, az egyesülési törvény hatálya alá tartozó érdekvédelmi szervezetei, amelyek alapszabályából a működési kör országos jellege megállapítható
+  - n) az irodalom, a színház-, a film-, az előadó-, a zene-, a tánc-, a képző- és az iparművészet területén működő, Magyarországon bejegyzett, az egyesülési törvény hatálya alá tartozó szakmai szervezetek, amelyek alapszabályából a működési kör országos jellege megállapítható, és amelyek tagsága elsősorban a felsorolt területeken tevékenységet folytató személyekből vagy szervezetekből áll.
+- 2. Az a)–h) pontban meghatározott szervezetek egy-egy főt delegálhatnak.
+- 3. Az i)–n) pontban meghatározott szervezetek abban az esetben vehetnek részt a delegálásban, ha a jelölés előtt legkésőbb harminc nappal nyilvántartásba vetették magukat a Hivatalnál. A Hivatal a nyilvántartásba vételről hatósági határozatban dönt, amely döntéssel szemben fellebbezésre nincsen mód, annak felülvizsgálatát bíróság előtt lehet kérni.
+- 4. Az i)–n) pontban meghatározott szervezetek egy-egy főt delegálhatnak oly módon, hogy az egyazon pont alatt megjelölt szervezetek összesen egy főt delegálhatnak. Az egyazon pont alatt megjelölt és regisztrált szervezetek egymással megállapodhatnak a delegált személyt illetően. Amennyiben ilyen megállapodás nem születik, a Hivatal sorsolással dönti el, hogy melyik szervezet jelöltje delegálható.
+
+### 2. számú melléklet a 2010. évi CLXXXV. törvényhez
+
+A Közszolgálati Közalapítvány Kuratóriumának elnöke és tagja hivatalba lépése alkalmával az Országgyűlés elnöke előtt az alábbi szöveggel tesz esküt:
+
+„Én ................................................... esküszöm, hogy a Közszolgálati Közalapítvány Kuratóriumának tagjaként (elnökeként) az Alkotmányt és a törvényeket megtartom, megbízatásomhoz híven, a szólás- és a sajtószabadság érvényesítésére törekszem. Feladataimat részrehajlástól mentesen fogom ellátni. (Az esküt tevő meggyőződése szerint) Isten engem úgy segéljen!”
+
+### 3. számú melléklet a 2010. évi CLXXXV. törvényhez
+
+A Médiatanács elnöke és tagja hivatalba lépése alkalmával az Országgyűlés elnöke előtt az alábbi szöveggel tesz esküt:
+
+„Én, ........................................ esküszöm, hogy a Médiatanács tagjaként (elnökeként) az Alkotmányt és a törvényeket megtartom, megbízatásomhoz híven, a szólás- és a sajtószabadság érvényesítésére törekszem. Feladataimat részrehajlástól mentesen fogom ellátni. (Az esküt tevő meggyőződése szerint) Isten engem úgy segéljen!”
+
+### 4. számú melléklet a 2010. évi CLXXXV. törvényhez
+
+A közszolgálati hozzájárulás mértéke a 2012. évben négymillió magyarországi háztartással, és háztartásonként havonta ezerháromszázötven forinttal számolva összesen 64 800 000 000 azaz hatvannégymilliárd-nyolcszázmillió forint. Ezt az összeget a 2013. évtől kezdődően minden évben indexálni kell legalább a tárgyévet megelőző évi magyarországi fogyasztói árindex mértékével.
+
+### 5. számú melléklet a 2010. évi CLXXXV. törvényhez
+
+„3. számú melléklet a 2010. évi CXLVI. törvényhez
+
+A Műsorszolgáltatás Támogató és Vagyonkezelő Alap 2011. évi költségvetése
+
+|  |  |  | M Ft-ban |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | 2011. év |  |
+| 1. |  | Átvállalt üzembentartási díj és költségvetési hozzájárulások | 57 700,000 |  |
+|  | 1.1. | Átvállalt üzembentartási díj |  | 29 458,500 |
+|  | 1.2. | Költségvetési hozzájárulás |  | 28 241,500 |
+| 2. |  | Médiaszolgáltatási díj | 4 129,187 |  |
+|  | 2.1. | MTM-SBS Televízió Zrt. |  | 1 032,630 |
+|  | 2.2. | Magyar RTL Televízió Zrt. |  | 938,012 |
+|  | 2.3. | 1. sz. orsz. ker. r. jogosultság (Advenio Zrt.) |  | 564,186 |
+|  | 2.4. | 2. sz. orsz. ker. r. jogosultság (FM 1 Zrt.) |  | 380,846 |
+|  | 2.5. | nem országos műsorszolgáltatási jogosultságok |  | 1 213,513 |
+| 3. |  | Pályázati díjak | 26,000 |  |
+| 4. |  | Kötbér, kártérítés, bírság | 143,592 |  |
+| 5. |  | Önkéntes befizetések | – |  |
+| 6. |  | Egyéb bevételek | 40,000 |  |
+| 7. |  | JBE Kereskedelmi Televíziók reklámbevételeiből származó összeg | 1 000,000 |  |
+| 8. |  | A Magyar Rádió Művészeti együttesének támogatása | 1 000,000 |  |
+|  |  | Költségvetési bevételek összesen | 64 038,779 |  |
+
+|  |  |  | M Ft-ban |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | 2011. év |  |
+| 1. |  | Továbbutalandó üzembentartási díj | 2 380,801 |  |
+|  | 1.1. | Médiatanács |  | 194,401 |
+|  | 1.2. | Médiatanács hivatali szervezete |  | 1 986,400 |
+|  | 1.3. | Közszolgálati Közalapítvány |  | 200,000 |
+| 2. |  | Céltámogatások | 3 000,000 |  |
+| 3. |  | Közmédiumok Működési Támogatására átutalt összeg a Közszolgálati Közalapítványnak | 2 150,000 |  |
+|  | 3.1. | Magyar Televízió Zrt. |  | 530,000 |
+|  | 3.2. | Duna Televízió Zrt. |  | 450,000 |
+|  | 3.3. | Magyar Rádió Zrt. |  | 425,000 |
+|  | 3.4. | Magyar Távirati Iroda Zrt. |  | 745,000 |
+| 4. |  | Közmédiumok műsorszolgáltatás támogatási- és vagyonkezelői tevékenység kiadásai | 55 178,047 |  |
+| 5. |  | Szerzői jogdíjak | 238,402 |  |
+| 6. |  | Pályázatok bírálatának költségei | 26,000 |  |
+| 7. |  | A Médiatanácsot terhelő, műsorszolgáltatók által be nem fizetett ÁFA | 27,829 |  |
+| 8. |  | Médiaszolgáltatási díjjal és egyéb jogi költségekkel összefüggő kiadások | 37,700 |  |
+| 9. |  | A Magyar Rádió Művészeti együttesének támogatása | 1 000,000 |  |
+|  |  | Költségvetési kiadások összesen | 64 038,779 |  |
+
+”

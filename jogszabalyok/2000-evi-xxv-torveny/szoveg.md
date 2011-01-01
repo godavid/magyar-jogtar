@@ -109,7 +109,7 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 (3) A veszélyes anyag bejelentésével kapcsolatos valamennyi adatszolgáltatásért, az adatok hitelességéért a bejelentő a felelős.
 
-(4) A bejelentés tudomásulvételéről az egészségügyi államigazgatási szerv az előírt mellékletekkel rendelkező bejelentőlap beérkezésétől számított tíz munkanapon belül, az (1) bekezdés szerinti bejelentőlap igazoló szelvényének megküldésével értesíti a bejelentőt. A bejelentett veszélyes anyagot az egészségügyi államigazgatási szerv felveszi az 5. § (3) bekezdése szerinti magyarországi jegyzékbe.
+(4) A bejelentés tudomásulvételéről az egészségügyi államigazgatási szerv az előírt mellékletekkel rendelkező bejelentőlap beérkezését követő naptól számított tizenöt napon belül, az (1) bekezdés szerinti bejelentőlap igazoló szelvényének megküldésével értesíti a bejelentőt. A bejelentett veszélyes anyagot az egészségügyi államigazgatási szerv felveszi az 5. § (3) bekezdése szerinti magyarországi jegyzékbe.
 
 ### Veszélyes keverékek bejelentése
 
@@ -121,7 +121,7 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 (4)
 
-(5) A bejelentés tudomásulvételéről az egészségügyi államigazgatási szerv az előírt mellékletekkel rendelkező bejelentőlap beérkezésétől számított tíz munkanapon belül, a bejelentőlap igazoló szelvényének megküldésével értesíti a bejelentőt.
+(5) A bejelentés tudomásulvételéről az egészségügyi államigazgatási szerv az előírt mellékletekkel rendelkező bejelentőlap beérkezését követő naptól számított tizenöt napon belül, a bejelentőlap igazoló szelvényének megküldésével értesíti a bejelentőt.
 
 ### A forgalomba hozatalra és a közösségi jegyzékben nem szereplő anyagokkal kapcsolatos adatok felkutatására vonatkozó előírások
 
@@ -418,9 +418,9 @@ rendeletben meghatározza.
 
 (5)
 
-(6) Felhatalmazást kap az egészségügyért felelős miniszter és a foglalkoztatáspolitikáért felelős miniszter, hogy a munkavállalók egészségének védelme érdekében korlátozandó veszélyes anyagok, veszélyes keverékek, illetve tevékenységek körét, valamint a korlátozás módját együttes rendeletben állapítsa meg.
+(6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a foglalkoztatáspolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a munkavállalók egészségének védelme érdekében korlátozandó veszélyes anyagok, veszélyes keverékek, illetve tevékenységek körét, valamint a korlátozás módját.
 
-(7) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter és az egészségügyért felelős miniszter, hogy a veszélyes anyaggal, illetve veszélyes keverékkel munkahelyen végzett tevékenység kémiai biztonsági szabályait együttes rendeletben állapítsa meg.
+(7) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a veszélyes anyaggal, illetve veszélyes keverékkel munkahelyen végzett tevékenység kémiai biztonsági szabályait.
 
 35. § (1) Ez a törvény a végrehajtására kiadott rendeletekkel együtt a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -434,7 +434,8 @@ rendeletben meghatározza.
 - d) az Európai Parlament és Tanács 2004/10/EK irányelve (2004. február 11.) a helyes laboratóriumi gyakorlat alapelveinek alkalmazására és annak a vegyi anyagokkal végzett kísérleteknél történő alkalmazásának ellenőrzésére vonatkozó törvényi, rendeleti és közigazgatási rendelkezések közelítéséről,
 - e) az Európai Parlament és a Tanács 2004/9/EK irányelve (2004. február 11.) a helyes laboratóriumi gyakorlat (GLP) ellenőrzéséről és felülvizsgálatáról,
 - f) a Tanács 98/24/EK irányelve (1998. április 7.) a munkájuk során vegyi anyagokkal kapcsolatos kockázatoknak kitett munkavállalók egészségének és biztonságának védelméről (tizennegyedik egyedi irányelv a 89/391/EGK irányelv 16. cikkének (1) bekezdése értelmében),
-- g) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról, 9. cikk (a törvény 33/A. §-a).
+- g) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról, 9. cikk (a törvény 33/A. §-a),
+- h) az Európai Parlament és a Tanács 2008/112/EK irányelve (2008. december 16.) a 76/768/EGK, a 88/378/EGK, az 1999/13/EK tanácsi irányelveknek, és a 2000/53/EK, a 2002/96/EK és 2004/42/EK európai parlamenti és tanácsi irányelveknek az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról szóló 1272/2008/EK rendelethez való hozzáigazítása céljából történő módosításáról, 4. és 5. cikk (a törvény 1. § c) és d) pontja).
 
 (2) Ez a törvény a 34. § (3) bekezdésének b) pontjában, a 34. § (4) bekezdés a) pontjának aj) alpontjában, valamint a 34. § (5) bekezdésében foglalt felhatalmazás alapján kiadott végrehajtási rendeleteivel együtt
 

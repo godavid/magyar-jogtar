@@ -83,7 +83,7 @@ Az Országgyűlés — eleget téve a honvédelemről szóló 1993. évi CX. tö
 - d) a hadirokkant egészségkárosodása megszűnt, vagy egészségkárosodása 20%-nál kisebb mértékűvé vált;
 - e) a 4. §-ban meghatározott mértékben megrokkant – és csak ennélfogva jogosult – hadigyámolt, hadiárva és hadigondozott családtag egészségkárosodása az 50%-ot már nem éri el.
 
-(4) A hadigondozott a körülményeiben bekövetkezett, a hadigondozási jogosultságra kiható változást öt munkanapon belül köteles a hadigondozási hatóságnak bejelenteni.
+(4) A hadigondozott a körülményeiben bekövetkezett, a hadigondozási jogosultságra kiható változást nyolc napon belül köteles a hadigondozási hatóságnak bejelenteni.
 
 ### II. Fejezet — A HADIGONDOZOTTAK ELLÁTÁSA
 

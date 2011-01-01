@@ -35,7 +35,7 @@ Az Országgyűlés a szervezett bűnözés, valamint az azzal összefüggő egye
 - k) szexuális szolgáltatásra felajánlkozás: a prostituáltnak közterületen vagy nyilvános helyen máshoz címzett, a szexuális szolgáltatása nyújtására irányuló szóbeli felhívása (aktív felajánlkozás), a prostituáltnak a szexuális szolgáltatásra irányuló ráutaló magatartása (passzív felajánlkozás), illetve a szexuális szolgáltatást igénybe venni kívánó felhívásának elfogadása;
 - l) a szexuális szolgáltatás zaklató jellegű felajánlása: más személy mozgásának, illetve a más személy által vezetett jármű elindulásának, mozgásának megakadályozása, megzavarása, agresszív, szeméremsértő szóbeli felhívás, illetőleg a prostituált erre utaló magatartása;
 - m) a szexuális szolgáltatásra felajánlkozás eltűrése: a nyilvános helyet üzemeltető, vagy az ott foglalkoztatott olyan magatartása, amely ösztönzőleg hat a prostituáltak folyamatos tevékenységére;
-- n) sajtótevékenységet folytató, illetve egyéb tájékoztatást, hír- vagy műsorszolgáltatást nyújtó: a sajtóról szóló törvény, valamint a rádiózásról és televíziózásról szóló törvény hatálya alá tartozó, időszaki lap, rádió- és televízió-műsor, könyv, röplap, egyéb szöveges kiadvány, a zeneművet, grafikát, rajzot vagy fotót tartalmazó kiadvány, nyilvános közlésre szánt műsoros filmszalag, videokazetta, videolemez, hangszalag és hanglemez, továbbá bármely más, a nyilvános közzététel szándékával készült tájékoztatást vagy műsort tartalmazó technikai eszköz előállításával, kiadásával és nyilvános közlésével kapcsolatos tevékenységet folytató természetes személy, egyéni vállalkozó, jogi személy, valamint jogi személyiséggel nem rendelkező társaság;
+- n) sajtótevékenységet folytató, illetve egyéb tájékoztatást, hír- vagy médiaszolgáltatást nyújtó: a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény, valamint a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény hatálya alá tartozó sajtótermék, médiaszolgáltatás, kiegészítő médiaszolgáltatás, vagy e törvények hatálya alá nem tartozó könyv, röplap, egyéb szöveges kiadvány, a zeneművet, grafikát, rajzot vagy fotót tartalmazó kiadvány, nyilvános közlésre szánt műsoros filmszalag, videokazetta, videolemez, hangszalag és hanglemez, továbbá bármely más, a nyilvános közzététel szándékával készült tájékoztatást vagy műsort tartalmazó technikai eszköz előállításával, kiadásával és nyilvános közlésével kapcsolatos tevékenységet folytató természetes személy, egyéni vállalkozó, jogi személy, valamint jogi személyiséggel nem rendelkező társaság;
 - o) nyilvános hely: közterületnek nem tekinthető, mindenki számára nyitva álló hely;
 - p) kábítószer-kereskedelemmel függ össze: az ország területére behozatallal, az ország területéről kivitellel, az ország területén átvitellel, kínálással, átadással, forgalomba hozatallal, illetve kereskedéssel elkövetett, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 282–282/C. §-ába ütköző visszaélés kábítószerrel;
 - q) bűnös kapcsolat: a felderítés alá vont személlyel való olyan kapcsolat, amely tekintetében a Btk. 326. §-ába ütköző orgazdaság vagy a Btk. 244. §-ába ütköző bűnpártolás bűncselekményének gyanúja merül fel.
@@ -70,17 +70,17 @@ Az Országgyűlés a szervezett bűnözés, valamint az azzal összefüggő egye
 
 (3) A szervezett bűnözés elleni koordinációs központ részére e törvényben meghatározottak szerint
 
-- a) a rendőrség központi szerve,
-- b) a Rendvédelmi Szervek Védelmi Szolgálata,
-- c)
+- a) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv központi szerve,
+- b) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv,
+- c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv,
 - d) a Vám- és Pénzügyőrség,
-- e) a Nemzetbiztonsági Hivatal,
+- e) az Alkotmányvédelmi Hivatal,
 - f) az Információs Hivatal,
 - g) a Nemzetbiztonsági Szakszolgálat,
-- h) a Katonai Biztonsági Hivatal, és
+- h) a Katonai Biztonsági Hivatal és
 - i) a Katonai Felderítő Hivatal
 
-szolgáltat adatokat, illetve jogosult onnan adatok igénylésére.
+szolgáltat adatokat, és jogosult onnan adatok igénylésére.
 
 (4) A szervezett bűnözés elleni koordinációs központ feladatainak ellátása során az együttműködő szervek országos parancsnokai által erre kijelölt központi szerveivel működik együtt.
 
@@ -185,7 +185,7 @@ szolgáltat adatokat, illetve jogosult onnan adatok igénylésére.
 
 11. § (1) Tilos írásban, kép- vagy hangrögzítő, illetve más berendezés útján más személy szexuális szolgáltatását felajánlani, azt reklámozni vagy ilyen cselekményekben közreműködni.
 
-12. § (1) Ha a sajtótevékenységet folytató, illetve egyéb tájékoztatást, hír- vagy műsorszolgáltatást nyújtó a 11. §-ban, illetve más jogszabályban foglaltakat megszegve közreműködik szexuális szolgáltatás reklámozásában, a szervezet üzemeltetője – ennek hiányában a szervezet – a szolgáltatás egyszeri hirdetését alapul véve reklámonként ötszázezer forinttól egymillió forintig terjedő közrendvédelmi bírsággal sújtható.
+12. § (1) Ha a sajtótevékenységet folytató, illetve egyéb tájékoztatást, hír- vagy médiaszolgáltatást nyújtó a 11. §-ban, illetve más jogszabályban foglaltakat megszegve közreműködik szexuális szolgáltatás reklámozásában, a szervezet üzemeltetője – ennek hiányában a szervezet – a szolgáltatás egyszeri hirdetését alapul véve reklámonként ötszázezer forinttól egymillió forintig terjedő közrendvédelmi bírsággal sújtható.
 
 (2) Az eljáró szerv a 11. §-ban foglalt rendelkezések ismételt megsértése esetén az (1) bekezdésben meghatározott jogkövetkezmény alkalmazása mellett elrendelheti a jogsértő reklámot közzétevő sajtótermék vagy szabadtéri reklámhordozó jogsértő jellegétől való megfosztását, vagy – ha ez nem lehetséges – megsemmisítését.
 
@@ -229,9 +229,11 @@ szolgáltat adatokat, illetve jogosult onnan adatok igénylésére.
 
 ### VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
+### VIII. Fejezet
+
 60. §
 
-### VIII. Fejezet — Hatályba léptető és átmeneti rendelkezések
+### Hatályba léptető és átmeneti rendelkezések
 
 61. § (1) Ez a törvény – a (2)–(3) bekezdésben foglalt eltéréssel – a kihirdetését követő második hónap első napján lép hatályba, rendelkezéseit – a II., III. és az V. fejezetben foglaltak kivételével – a folyamatban lévő ügyekben is alkalmazni kell.
 

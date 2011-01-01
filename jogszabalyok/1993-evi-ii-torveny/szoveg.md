@@ -128,7 +128,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (3)
 
-(4) Az ingatlanügyi hatóság az adott szövetkezetet érintő valamennyi földkiadással kapcsolatos ingatlan-nyilvántartási bejegyzésről az utolsó határozat jogerőre emelkedését követő negyvenöt munkanapon belül értesíti a mezőgazdasági igazgatási szervet. A mezőgazdasági igazgatási szerv az értesítés alapján határozattal dönt a kártalanításról.
+(4) Az ingatlanügyi hatóság az adott szövetkezetet érintő valamennyi földkiadással kapcsolatos ingatlan-nyilvántartási bejegyzésről az utolsó határozat jogerőre emelkedését követő két hónapon belül értesíti a mezőgazdasági igazgatási szervet. A mezőgazdasági igazgatási szerv az értesítés alapján határozattal dönt a kártalanításról.
 
 (5) A kártalanítási eljárásban hozott határozatot közölni kell az ingatlanügyi hatósággal. A határozat ellen fellebbezésnek helye nincs. A bíróság a határozatot megváltoztathatja.
 
@@ -212,7 +212,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 9/D. § (1) Ha a részarány-tulajdon rendezésére elkülönített földalapok AK értéke, valamint a szövetkezet gazdálkodási területén részarány-földtulajdon kiadására felhasználható egyéb területek [6. § (4) bek., 12. § (5) bek.] nem fedezik az igényeket, a kiadatlan részarány-tulajdonnal rendelkező személyek – választásuk szerint – a Nemzeti Földalap földkészletéből termőföldet igényelhetnek vagy kártalanításra tarthatnak igényt 4000 Ft/AK értékben. A részarány-tulajdonost a kérelemre induló eljárás során a választás joga egyszer illeti meg. A kérelmet a szövetkezet gazdálkodási területén fekvő földrészletek kiadása céljából megtartásra kerülő utolsó sorsolás napját követő 6 hónapon belül lehet benyújtani. E határidő elmulasztása esetén a részarány-tulajdonos részére a mezőgazdasági igazgatási szerv pénzbeli kártalanításról dönt.
 
-(2) A termőföld igénylésére, illetve a kártalanításra irányuló kérelmet a mezőgazdasági igazgatási szervhez kell benyújtani. A mezőgazdasági igazgatási szerv a kérelem alapján megkeresi az ingatlanügyi hatóságot, hogy nyilatkozzon a kérelmező kiadatlan részarány-tulajdonáról. A mezőgazdasági igazgatási szerv ennek ismeretében megkeresi a Nemzeti Földalap kezeléséért felelős szerv (a továbbiakban: földalapkezelő szerv), hogy a kérelmező tulajdonában lévő AK értéknek megfelelő termőföld a kérelemben megjelölt településen rendelkezésre áll-e. A földalapkezelő szerv a megkeresésnek legkésőbb huszonkét munkanapon belül köteles eleget tenni. A földalapkezelő szerv nyilatkozata alapján a mezőgazdasági igazgatási szerv tájékoztatja a részarány-tulajdonost a rendelkezésre álló földrészletről, illetőleg annak hiányáról. A földalapkezelő szervezet nemleges nyilatkozata esetén a mezőgazdasági igazgatási szerv pénzbeli kártalanításról dönt.
+(2) A termőföld igénylésére, illetve a kártalanításra irányuló kérelmet a mezőgazdasági igazgatási szervhez kell benyújtani. A mezőgazdasági igazgatási szerv a kérelem alapján megkeresi az ingatlanügyi hatóságot, hogy nyilatkozzon a kérelmező kiadatlan részarány-tulajdonáról. A mezőgazdasági igazgatási szerv ennek ismeretében megkeresi a Nemzeti Földalap kezeléséért felelős szerv (a továbbiakban: földalapkezelő szerv), hogy a kérelmező tulajdonában lévő AK értéknek megfelelő termőföld a kérelemben megjelölt településen rendelkezésre áll-e. A földalapkezelő szerv a megkeresésnek legkésőbb harminc napon belül köteles eleget tenni. A földalapkezelő szerv nyilatkozata alapján a mezőgazdasági igazgatási szerv tájékoztatja a részarány-tulajdonost a rendelkezésre álló földrészletről, illetőleg annak hiányáról. A földalapkezelő szervezet nemleges nyilatkozata esetén a mezőgazdasági igazgatási szerv pénzbeli kártalanításról dönt.
 
 (3) Termőföld igénylés esetén a mezőgazdasági igazgatási szerv a kérelem tárgyában az ingatlanügyi hatóság igazolása, a földalapkezelő szerv, valamint a kérelmező nyilatkozata alapján a termőföld-juttatásról határoz. A mezőgazdasági igazgatási szerv a jogerős határozatot a részarány-tulajdon törlése és a termőföldre vonatkozó tulajdonjog bejegyzése céljából megküldi az ingatlanügyi hatóságnak. Ha a földalapkezelő szerv által felajánlott termőföld AK értéke nem fedezi a kérelmező nyilvántartott részarány-tulajdonát, az AK érték-különbözetre a részarány-tulajdonost az (1) bekezdésben meghatározott kártalanítás illeti meg, amelyről a mezőgazdasági igazgatási szerv a termőföld-juttatással egyidejűleg határoz.
 
@@ -269,7 +269,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (2) Az (1) bekezdésben meghatározott ingatlanok közül a védett vagy védelemre tervezett természeti területhez tartozók a Magyar Állam tulajdonába és a védett természeti területek természetvédelmi kezeléséért felelős szerv vagyonkezelésébe kerülnek.
 
-(3) Az (1) bekezdésben meghatározott földrészletek önkormányzati tulajdonba kerüléséről az ingatlanügyi hatóság dönt. A határozat ellen a polgármester, illetőleg a főpolgármester a döntés közlésétől számított negyvenöt munkanapon belül fellebbezhet.
+(3) Az (1) bekezdésben meghatározott földrészletek önkormányzati tulajdonba kerüléséről az ingatlanügyi hatóság dönt. A határozat ellen a polgármester, illetőleg a főpolgármester a döntés közlésétől számított két hónapon belül fellebbezhet.
 
 (4) Fellebbezés hiányában az ingatlanügyi hatóság az önkormányzat tulajdonjogát a határozat alapján hivatalból bejegyzi.
 
@@ -277,7 +277,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (2) Ha a kiadott földrészlet területnagysága és AK értéke a határozat szerinti állapottól legfeljebb 5%-kal, illetve 1 AK-val tér el – ide nem értve az utak kialakításához szükséges területcsökkentést –, a tényleges és a határozat szerinti állapotot azonosnak kell tekinteni.
 
-(3) Ha a részarány-tulajdonos földtulajdonának önálló földrészletté alakítását kérte, de a mezőgazdasági igazgatási szerv felszólítása ellenére, annak közlésétől számított 90 napon belül nem nyújtja be az ingatlanügyi hatósági záradékkal ellátott földmérési munkarészt, földtulajdonát osztatlan közös tulajdonként kell kiadni. A határidőt a mezőgazdasági igazgatási szerv az ügyfél kérésére indokolt esetben legfeljebb huszonkét munkanappal meghosszabbíthatja.
+(3) Ha a részarány-tulajdonos földtulajdonának önálló földrészletté alakítását kérte, de a mezőgazdasági igazgatási szerv felszólítása ellenére, annak közlésétől számított 90 napon belül nem nyújtja be az ingatlanügyi hatósági záradékkal ellátott földmérési munkarészt, földtulajdonát osztatlan közös tulajdonként kell kiadni. A határidőt a mezőgazdasági igazgatási szerv az ügyfél kérésére indokolt esetben legfeljebb harminc nappal meghosszabbíthatja.
 
 12/C. § (1) A védett természeti területek védettségi szintjének helyreállításáról szóló 1995. évi XCIII. törvény 2. § (1) bekezdésében meghatározott azon földrészlet vonatkozásában, amelynek részarány-földalapba történő kijelöltsége megszűnt, a mezőgazdasági igazgatási szerv megállapítja azoknak a személyeknek a körét és – a ki nem elégített AK-igénynek megfelelő – jogosultságuk mértékét, akik a terület kisajátításakor a kártalanításra jogosultak. A jogosultak nevét és jogosultságuk mértékét a mezőgazdasági igazgatási szerv közli az ingatlanügyi hatósággal és a védett természeti területek természetvédelmi kezeléséért felelős szervvel is.
 
@@ -293,7 +293,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (2) Az (1) bekezdésben meghatározott utak közül a védett vagy védelemre tervezett természeti területhez tartozók a Magyar Állam tulajdonába és a védett vagy védelemre tervezett természeti területen működő igazgatóság vagyonkezelésébe kerülnek.
 
-(3) Az utak önkormányzati tulajdonba kerüléséről az ingatlanügyi hatóság dönt. A határozat ellen a polgármester, illetőleg a főpolgármester a döntés közlésétől számított negyvenöt munkanapon belül fellebbezhet.
+(3) Az utak önkormányzati tulajdonba kerüléséről az ingatlanügyi hatóság dönt. A határozat ellen a polgármester, illetőleg a főpolgármester a döntés közlésétől számított két hónapon belül fellebbezhet.
 
 (4) Fellebbezés hiányában az ingatlanügyi hatóság az önkormányzat tulajdonjogát a határozat alapján hivatalból bejegyzi.
 
@@ -353,7 +353,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (3) A földrendező bizottság és a földkiadó bizottság a helyi igényeknek megfelelően a 8. § (3) bekezdés szerint közös javaslattal kezdeményezhetik a kárpótlási hatóságnál a földkijelölési határozat módosítását. A javaslat előkészítése során a kárpótlásra a jogosult földigénylők és a részarány-földtulajdonosok érdekeire egyaránt figyelemmel kell lenni.
 
-(4) Ha a földkiadás, illetőleg a részarány-földtulajdon helyének meghatározása céljából a mezőgazdasági igazgatási szerv nyilvános sorsolást tart, az erről szóló közleményt a sorsolást megelőzően legalább huszonkét munkanappal a földügyért felelős miniszter által vezetett minisztérium honlapján közzéteszi. A közleménynek tartalmaznia kell a sorsolás helyét, időpontját, a sorsolásra kerülő táblák helyrajzi számát, területét, AK értékét, a terület hasznosítására vonatkozó korlátozásokat (védett természeti terület stb.) és az ingatlan ingatlan-nyilvántartásba bejegyzett kezelőjét. A közleményben meg kell jelölni a sorsoláson részvételre jogosultak körét. A sorsolást a helyben szokásos módon is meg kell hirdetni. A sorsoláson bármely okból meg nem jelenő jogosult később a mulasztására hivatkozva semmiféle jogot sem érvényesíthet, ebből az okból a sorsolás eredménye nem változtatható meg.
+(4) Ha a földkiadás, illetőleg a részarány-földtulajdon helyének meghatározása céljából a mezőgazdasági igazgatási szerv nyilvános sorsolást tart, az erről szóló közleményt a sorsolást megelőzően legalább harminc nappal a földügyért felelős miniszter által vezetett minisztérium honlapján közzéteszi. A közleménynek tartalmaznia kell a sorsolás helyét, időpontját, a sorsolásra kerülő táblák helyrajzi számát, területét, AK értékét, a terület hasznosítására vonatkozó korlátozásokat (védett természeti terület stb.) és az ingatlan ingatlan-nyilvántartásba bejegyzett kezelőjét. A közleményben meg kell jelölni a sorsoláson részvételre jogosultak körét. A sorsolást a helyben szokásos módon is meg kell hirdetni. A sorsoláson bármely okból meg nem jelenő jogosult később a mulasztására hivatkozva semmiféle jogot sem érvényesíthet, ebből az okból a sorsolás eredménye nem változtatható meg.
 
 (5)
 

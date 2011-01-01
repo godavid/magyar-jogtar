@@ -277,7 +277,7 @@ folytat.
 
 (5) A szervezeti és működési szabályzat kérdéskörei a szervezeti és működési szabályzat mellékleteként is szabályozhatók.
 
-(6) A felsőoktatási intézmény e törvényben meghatározott intézményfejlesztési terv, kutatási-fejlesztési-innovációs stratégia, állami felsőoktatási intézményekben a fenntartói megállapodásban vállalt teljesítménykövetelmények alapján minőségfejlesztési programot készít. Az intézményi minőségfejlesztési programban kell meghatározni a képzési program, a tudományos kutatás, művészeti alkotótevékenység, a hallgatók értékelésének, az oktatás személyi és infrastrukturális feltételei, a tanulástámogatás eszközei, a hallgatói szolgáltatások, a belső információs rendszer és a nyilvánosság fejlesztésére irányuló célokat. A felsőoktatási intézmény évente áttekinti az intézményi minőségfejlesztési program végrehajtását, és megállapításait – az erről szóló jelentés elfogadásától számított legfeljebb harminc napon belül – az intézmény honlapján, továbbá a helyben szokásos módon nyilvánosságra hozza.
+(6) A felsőoktatási intézmény e törvényben meghatározott intézményfejlesztési terv, kutatási-fejlesztési-innovációs stratégia alapján minőségfejlesztési programot készít. Az intézményi minőségfejlesztési programban kell meghatározni a képzési program, a tudományos kutatás, művészeti alkotótevékenység, a hallgatók értékelésének, az oktatás személyi és infrastrukturális feltételei, a tanulástámogatás eszközei, a hallgatói szolgáltatások, a belső információs rendszer és a nyilvánosság fejlesztésére irányuló célokat. A felsőoktatási intézmény évente áttekinti az intézményi minőségfejlesztési program végrehajtását, és megállapításait – az erről szóló jelentés elfogadásától számított legfeljebb harminc napon belül – az intézmény honlapján, továbbá a helyben szokásos módon nyilvánosságra hozza.
 
 (7) A szervezeti és működési szabályzatot a helyben szokásos módon nyilvánosságra kell hozni, és a hallgatók részére hozzáférhetővé kell tenni.
 
@@ -301,30 +301,35 @@ folytat.
 
 (2) Az állami fenntartású felsőoktatási intézményben a gazdasági tanácsot létre kell hozni, a nem állami felsőoktatási intézményekben – az alapító okiratban meghatározottak szerint – a gazdasági tanács létrehozható.
 
-(3) A gazdasági tanácsnak hét vagy kilenc tagja van. A gazdasági tanács létszámát a működés megkezdéséhez szükséges engedélyben meghatározott hallgatói létszám adatai alapján kell meghatározni a következők szerint: ha a felsőoktatási intézmény maximális hallgatói létszáma
+(3) A gazdasági tanácsnak kilenc tagja van. A gazdasági tanács tagja az lehet, aki felsőfokú végzettséggel rendelkezik. A gazdasági tanács tagjainak a megbízatása öt évre szól, amely legfeljebb egy alkalommal meghosszabbítható.
 
-- a) nem éri el a tizenötezret, hét,
-- b) eléri a tizenötezret, kilenc
+(4) A gazdasági tanácsba három főt delegál a szenátus, ebből egy tagot a hallgatói önkormányzat javaslata alapján. A gazdasági tanácsnak – a delegált tagokon felül – hivatalból tagja a rektor és a gazdasági főigazgató, ennek hiányában a gazdasági igazgató. A szenátus által delegált tagok egyike
 
-tagból áll. A gazdasági tanács tagja az lehet, aki felsőfokú végzettséggel rendelkezik. A gazdasági tanács tagjainak a megbízatása öt évre szól, amely legfeljebb egy alkalommal meghosszabbítható.
+- a) jogász, vagy a gazdaságtudományok képzési területen mesterképzésben szerzett, vagy azzal egyenértékű szakképzettséggel kell hogy rendelkezzen,
+- b) nem állhat a felsőoktatási intézménnyel foglalkoztatásra irányuló jogviszonyban.
 
-(4) A gazdasági tanácsba – a (3) bekezdésben meghatározott sorrend szerint – három, illetve négy főt delegál a szenátus, ebből egy tagot a hallgatói önkormányzat javaslata alapján. A gazdasági tanácsnak – a delegált tagokon felül – hivatalból tagja a rektor és a gazdasági főigazgató, ennek hiányában gazdasági igazgató. A szenátus által delegáltak közül legalább egy tagnak jogász, vagy a gazdaságtudományok képzési területen mesterképzésben szerzett, vagy azzal egyenértékű szakképzettséggel kell rendelkeznie. A szenátus által delegált tagok legalább fele nem állhat a felsőoktatási intézménnyel foglalkoztatásra irányuló jogviszonyban.
+(5) A gazdasági tanácsba egy-egy tagot delegál
 
-(5) A miniszter – a (3) bekezdésben meghatározott sorrend szerint – a gazdasági tanácsba két, illetve három főt, ebből egy tagot az állami vagyon felügyeletéért felelős miniszter javaslata alapján delegál. A miniszter által delegált tagok közül legalább egynek a felsőoktatási intézmény oktatási, tudományos kutatási, művészeti tevékenységének megfelelő felsőfokú végzettséggel, továbbá a szakképzettségének megfelelő területen szerzett legalább öt év vezetői gyakorlattal kell rendelkeznie.
+- a) a miniszter,
+- b) a kormányzati tevékenység összehangolásáért felelős miniszter,
+- c) az állami vagyon felügyeletéért felelős miniszter,
+- d) az államháztartásért felelős miniszter.
 
-(6) A gazdasági tanács tagjai részére a delegálók utasítást nem adhatnak. 2010. január 1-jétől kezdődően a (4) és (5) bekezdés alapján történő delegálás, megismételt delegálás esetén a gazdasági tanács tagjával a felsőoktatási intézmény létesít megbízási jogviszonyt.
+(6) A gazdasági tanács tagjai részére a delegálók utasítást nem adhatnak. A gazdasági tanács 23. § (5) bekezdése szerint delegált tagjai tevékenységükért díjazásra nem jogosultak. 2010. január 1-jétől kezdődően a (4)–(5) bekezdés alapján történő delegálás, megismételt delegálás esetén a gazdasági tanács tagjával a felsőoktatási intézmény létesít megbízási jogviszonyt.
 
 (7) Nem lehet tagja a gazdasági tanácsnak az, aki
 
 - a) büntetett előéletű,
-- b) köztisztviselő, vagy polgármesteri tisztséget tölt be,
-- c) a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozik,
+- b) polgármesteri tisztséget tölt be,
+- c) a központi államigazgatási szervekről, valamint a Kormány tagja és az államtitkárok jogállásáról szóló törvény szerint politikai vezetőnek minősülő állami vezetői tisztséget tölt be,
 - d) politikai pártban tisztséget tölt, illetve töltött be, fizetett pártalkalmazottként foglalkoztatták vagy foglalkoztatják, feltéve, hogy a kizáró ok megszűnése óta még nem telt el legalább öt év,
 - e) önkormányzati, országgyűlési vagy európai parlamenti képviselő,
 - f) tagja a szenátusnak,
-- g) tagja más felsőoktatási intézmény gazdasági tanácsának,
+- g) tagja – a 23. § (5) bekezdés szerint delegált tagok kivételével – más felsőoktatási intézmény gazdasági tanácsának,
 - h) az állami felsőoktatási intézmények kivételével, a miniszter felügyelete alatt álló költségvetési szervvel közalkalmazotti jogviszonyban áll,
-- i) betöltötte a hetvenedik életévét.
+- i) betöltötte a hetvenedik életévét,
+- j) más felsőoktatási intézmény szenátusának a tagja,
+- k) más felsőoktatási intézmény vezető beosztású alkalmazottja.
 
 (8) A rektor tekintetében – az a) és a g)–i) pont kivételével – a (7) bekezdésben foglaltakat nem kell alkalmazni.
 
@@ -347,10 +352,10 @@ tagból áll. A gazdasági tanács tagja az lehet, aki felsőfokú végzettségg
 
 24. § (1) A gazdasági tanács – a szervezeti és működési szabályzat keretei között – dönt működésének rendjéről, azzal a megkötéssel, hogy
 
-- a) szükség szerint, de félévente legalább két alkalommal ülésezik,
-- b) határozatképes, ha azon – a 23. § (3) bekezdésben meghatározott sorrend szerint – 5, illetve 7 tag jelen van,
+- a) szükség szerint, de legalább kéthavonta ülésezik,
+- b) határozatképes, ha azon 7 tag jelen van,
 - c) a gazdasági tanács döntéseihez a jelenlévő szavazásra jogosult tagok többségének támogatásával hozott döntése szükséges,
-- d) a gazdasági tanács vezetőjének megbízásával kapcsolatos döntéshez – a 23. § (3) bekezdésben meghatározott sorrend szerint – legalább négy, illetve öt támogató szavazatra van szükség. Nem vehet részt a szavazásban az, akinek jogaira vagy kötelezettségeire a döntés kihatással lehet, illetve az, akitől az ügynek tárgyilagos megítélése egyéb okból nem várható (elfogultság).
+- d) a gazdasági tanács vezetőjének megbízásával kapcsolatos döntéshez öt támogató szavazatra van szükség. Nem vehet részt a szavazásban az, akinek jogaira vagy kötelezettségeire a döntés kihatással lehet, illetve az, akitől az ügynek tárgyilagos megítélése egyéb okból nem várható (elfogultság).
 
 (2) A gazdasági tanács megalakulását a rektor készíti elő. A gazdasági tanács ülésére a 28. § (1) bekezdés c) pontja szerinti szakszervezeti képviselőt – több szakszervezeti képviselő esetén a szakszervezet, vagy szakszervezetek által kiválasztott egy szakszervezeti képviselőt – tanácskozási joggal meg kell hívni, ha a szakszervezeti tagok létszáma az oktatók és kutatók együttes létszámának egyharmadát eléri.
 
@@ -367,23 +372,22 @@ tagból áll. A gazdasági tanács tagja az lehet, aki felsőfokú végzettségg
   - ah) a felsőoktatási intézmény rendelkezésére bocsátott, valamint a tulajdonában lévő ingó – ideértve a szellemi terméket, más vagyoni értékű jogokat – és ingatlanvagyon hasznosítását, elidegenítését,
   - ai) együttműködési megállapodás megkötését,
   - aj) a felsőoktatási intézmény szervezete, szervezeti egysége létesítését, átalakítását, megszüntetését,
-  - ak) a költségvetési szervként működő felsőoktatási intézmény 30. § (3) bekezdés szerinti szervezeti egységének jogi személyiséggel történő felruházásával kapcsolatos kezdeményezést,
-  - al) az intézmény 7. § (8) bekezdés szerinti átsorolását;
-- b) gazdasági szempontból véleményezi
-  - ba) a felsőoktatási intézmény által készített, egy milliárd forintot meghaladó támogatási igényű, illetve az intézmény költségvetését önrész biztosításával terhelő pályázatokat,
+  - ak)
+  - al)
+  - ba) a felsőoktatási intézmény vagy az intézmény tulajdonában álló, vagy többségi részesedésével működő jogi személyek által készített, egymilliárd forintot meghaladó támogatási igényű, illetve az intézmény költségvetését önrész biztosításával terhelő pályázatokat,
   - bb) a felsőoktatási intézmény kutatási-fejlesztési-innovációs stratégiáját,
   - bc) a felsőoktatási intézmény kutatási programját;
 - c) dönt azokban az ügyekben, amelyek ellátására a szenátus felhatalmazta.
 
 (2) A gazdasági tanács figyelemmel kíséri a felsőoktatási intézmény gazdálkodásában a szakmai hatékonyság és a gazdaságosság követelményeinek érvényesítését. Rendszeresen – de évente legalább két alkalommal – áttekinti a felsőoktatási intézmény működését, gazdálkodását, az alapító okiratában meghatározott feladatok végrehajtását. Figyelemmel kíséri, hogy a felsőoktatási intézmény szervezeti rendje igazodik-e a feladatok hatékony ellátásához.
 
-(3) A gazdasági tanács a szenátusnál, annak eredménytelensége esetén a fenntartónál jelzéssel élhet, ha megítélése szerint a felsőoktatási intézmény a gazdálkodásával, a rendelkezésére bocsátott vagy tulajdonában lévő ingatlanvagyon működtetésével, hasznosításával, elidegenítésével kapcsolatosan hozott döntésével veszélyezteti a felsőoktatási intézmény működését. Állami felsőoktatási intézmény esetében e bekezdés vonatkozásában fenntartón az állami vagyon felügyeletéért felelős minisztert kell érteni.
+(3) A gazdasági tanács a szenátusnál, annak eredménytelensége esetén a fenntartónál köteles jelezni, ha megítélése szerint a felsőoktatási intézmény a gazdálkodásával, a rendelkezésére bocsátott vagy tulajdonában lévő ingatlanvagyon működtetésével, hasznosításával, elidegenítésével kapcsolatosan hozott döntésével veszélyezteti a felsőoktatási intézmény működését. Állami felsőoktatási intézmény esetében e bekezdés vonatkozásában fenntartón az állami vagyon felügyeletéért felelős minisztert kell érteni.
 
 (4) A szervezeti és működési szabályzatban meg kell határozni azt az összeget, amely felett a gazdasági tanács véleményét a kötelezettségvállaláshoz be kell szerezni.
 
 (5)
 
-26. § (1) A gazdasági tanácsi tagság megszűnik a megbízatás lejártával, a tag lemondásával, illetőleg – a (2) és (3) bekezdésben meghatározott okok esetében – visszahívásával. A lemondás elfogadása, illetve a visszahívás – a (3) bekezdésben meghatározott eset kivételével – a delegáló hatáskörébe tartozik.
+26. § (1) A gazdasági tanácsi tagság megszűnik a megbízatás lejártával, a tag lemondásával, illetőleg visszahívásával. A gazdasági tanácsba delegálási joggal rendelkező jogosult az általa delegált tagot visszahívni. A lemondás elfogadása, illetve a visszahívás – a (3) bekezdésben meghatározott eset kivételével – a delegáló hatáskörébe tartozik.
 
 (2) A gazdasági tanács elnökének – az elnök esetén a tanács tagjának – kezdeményezésére vissza kell hívni azt a tagot,
 
@@ -398,7 +402,7 @@ tagból áll. A gazdasági tanács tagja az lehet, aki felsőfokú végzettségg
 
 (4) Lemondás és visszahívás esetén az, aki az érintett tagot delegálta, harminc napon belül új tagot köteles delegálni. Az eljárásra alkalmazni kell a 23. §-ban meghatározottakat. Az újonnan megválasztott tag megbízatása öt évre szól függetlenül attól, hogy a lemondott, illetve visszahívott tag megbízatásából mennyi idő telt el.
 
-(5) Ha a nem állami felsőoktatási intézményben hoznak létre gazdasági tanácsot, a miniszter jogait és kötelességeit a fenntartó gyakorolja. A kincstár képviselőjére vonatkozó rendelkezéseket nem kell alkalmazni.
+(5) Ha a nem állami felsőoktatási intézményben hoznak létre gazdasági tanácsot, a miniszter, a kormányzati tevékenység összehangolásáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, az államháztartásért felelős miniszter 23. §-ban és 26. §-ban meghatározott jogait és kötelességeit a fenntartó gyakorolja. A kincstár képviselőjére vonatkozó rendelkezéseket nem kell alkalmazni.
 
 ### A szenátus
 
@@ -425,7 +429,7 @@ tagból áll. A gazdasági tanács tagja az lehet, aki felsőfokú végzettségg
 - a) a hallgatói tanácsadás rendszerét,
 - b) az oktatói munka hallgatói véleményezési rendszerét.
 
-(8) A szenátus az a)–m) és r)–s) pont tekintetében dönt, illetve az n)–q) pont tekintetében dönthet
+(8) A szenátus az a)-m) pont tekintetében dönt, illetve az n)-q) pont tekintetében dönthet
 
 - a) fejlesztés indításáról,
 - b) gazdálkodó szervezet alapításáról, gazdálkodó szervezetben részesedés szerzéséről [121. §], gazdálkodó szervezettel történő együttműködésről, feltéve, ha azt a gazdasági tanács tagjai legalább kétharmadának igenlő szavazatával meghozott véleménye támogatja,
@@ -446,8 +450,8 @@ tagból áll. A gazdasági tanács tagja az lehet, aki felsőfokú végzettségg
 - o) a doktori iskola létesítéséről, megszüntetéséről és a doktori képzés indításáról,
 - p) a habilitációs eljárás szabályozásáról,
 - q) címek és kitüntetések adományozásáról,
-- r) a költségvetési szervként működő felsőoktatási intézmény 30. § (3) bekezdés szerinti szervezeti egységének jogi személyiséggel történő felruházásával kapcsolatos kezdeményezésről,
-- s) az e törvény 7. §-ának (8) bekezdése szerinti átsorolás kezdeményezéséről.
+- r)
+- s)
 
 (9) A szenátus hatáskörébe tartozik továbbá
 
@@ -471,7 +475,7 @@ tagból áll. A gazdasági tanács tagja az lehet, aki felsőfokú végzettségg
 
 28. § (1) Az állami felsőoktatási intézményben a szenátus tagjai – a rektor kivételével – választás útján nyerik el megbízatásukat. A szenátus létrehozásával, működésével, tagjai megbízatásának megszűnésével, a megbízás, a delegálás jogszerűségének vizsgálatával, a kapcsolódó jogorvoslattal, a szenátus napirendjének előkészítésével kapcsolatos kérdéseket a felsőoktatási intézmény szervezeti és működési szabályzatában kell meghatározni, a következők figyelembevételével:
 
-- a) a szenátus létszáma – a 23. § (3) bekezdésében meghatározottak figyelembevételével – nem lehet kevesebb hét, illetve kilenc főnél, továbbá az oktatók és kutatók által választott tagoknak – az elnökkel együtt – a testület tagjainak többségét kell alkotniuk,
+- a) a szenátus létszáma nem lehet kevesebb kilenc főnél, továbbá az oktatók és kutatók által választott tagoknak – az elnökkel együtt – a testület tagjainak többségét kell alkotniuk,
 - b) a hallgatói önkormányzat a 78. § (4) bekezdésében meghatározottak szerint delegálja képviselőit,
 - c) az egyéb munkakörben foglalkoztatott tagok, a reprezentatív szakszervezetek képviselőinek létszáma nem lehet kevesebb, mint a szenátus létszámának öt-öt százaléka, de legalább egy-egy fő,
 - d) a szenátus tagjainak megbízatása legalább három és legfeljebb öt év, a hallgatói önkormányzat képviselője esetében legalább egy és legfeljebb három év lehet,
@@ -484,7 +488,7 @@ tagból áll. A gazdasági tanács tagja az lehet, aki felsőfokú végzettségg
 
 (2) A szenátus a feladatkörébe tartozó ügyek előkészítésére, meghatározott időre vagy alkalmilag bizottságot hozhat létre.
 
-(3) A szenátus döntéseinek meghozatalát és végrehajtását átruházhatja a felsőoktatási intézmény egyes szervezeti egységeire, illetve a szervezeti egységekben foglalkoztatott oktatók és hallgatók közösségére, a szervezeti egységekben létrehozott testületekre. Nem ruházhatók át a 27. § (3)–(4) és (6)–(7) bekezdésében, a (8) bekezdés a)–i) pontjában, valamint a k)–l) pontjában és az o)–p), r)–s) pontjában, a (9) bekezdés a)–b) és d) pontjában meghatározott jogkörök. A hallgatói önkormányzat részvételét a döntéshozatali eljárásban – az (1) bekezdés b) pontjában és a 27. § (11) bekezdésében meghatározottak szerint – biztosítani kell akkor is, ha a szenátus döntésének meghozatalát átruházta.
+(3) A szenátus döntéseinek meghozatalát és végrehajtását átruházhatja a felsőoktatási intézmény egyes szervezeti egységeire, illetve a szervezeti egységekben foglalkoztatott oktatók és hallgatók közösségére, a szervezeti egységekben létrehozott testületekre. Nem ruházhatók át a 27. § (3)–(4) és (6)–(7) bekezdésében, a (8) bekezdés a)–i) pontjában, valamint a k)–l) pontjában és az o)–p) pontjában, a (9) bekezdés a)–b) és d) pontjában meghatározott jogkörök. A hallgatói önkormányzat részvételét a döntéshozatali eljárásban – az (1) bekezdés b) pontjában és a 27. § (11) bekezdésében meghatározottak szerint – biztosítani kell akkor is, ha a szenátus döntésének meghozatalát átruházta.
 
 (4) A 25. § (1) bekezdésben meghatározott kérdésekben – a szenátus, vagy a szenátus felhatalmazása alapján más szervezeti egység, közösség, testület által – hozott döntések előkészítése során a döntési javaslathoz a gazdasági tanács által megfogalmazott írásos véleményt is mellékelni kell.
 
@@ -555,7 +559,7 @@ szervezeti egységeket hozhat létre és működtethet oly módon, hogy ne kelet
 
 (5) Az alapképzésben alapfokozat (baccalaureus, bachelor) és szakképzettség szerezhető. Az alapfokozat az első felsőfokú végzettségi szint, amely feljogosít a mesterképzés megkezdésére. Az alapképzésben szerzett szakképzettség jogszabályban meghatározottak szerinti munkakör betöltésére jogosít. Az alapképzés képzési és kimeneti követelményei határozzák meg, hogy milyen szakképzettséget lehet szerezni az alapképzésben. A gyakorlatigényes alapképzési szakokban egy félévig tartó szakmai gyakorlatot (a továbbiakban: szakmai gyakorlat) kell szervezni. A szakmai gyakorlat teljesítése feltétele a záróvizsgára bocsátásnak. Az alapképzésben legalább száznyolcvan kreditet – szakmai gyakorlat esetén legalább kettőszáztíz kreditet – kell és legfeljebb kétszáznegyven kreditet lehet teljesíteni. A képzési idő legalább hat, legfeljebb nyolc félév.
 
-(6) A mesterképzésben mesterfokozat (magister, master) és szakképzettség szerezhető. A mesterfokozat a második felsőfokú végzettségi szint. A mesterképzés képzési és kimeneti követelményei határozzák meg, hogy milyen szakképzettség szerezhető a mesterképzésben. A mesterképzésben szerzett szakképzettség jogszabályban meghatározottak szerinti munkakör betöltésére jogosít. A mesterképzésben – figyelembe véve a (7) bekezdésben meghatározottakat – legalább hatvan kreditet kell és legfeljebb százhúsz kreditet lehet megszerezni. A képzési idő legalább két, legfeljebb négy félév.
+(6) A mesterképzésben mesterfokozat (magister, master) és szakképzettség szerezhető. A mesterfokozat a második felsőfokú végzettségi szint. A mesterképzés képzési és kimeneti követelményei határozzák meg, hogy milyen szakképzettség szerezhető a mesterképzésben. A mesterképzésben szerzett szakképzettség jogszabályban meghatározottak szerinti munkakör betöltésére jogosít. A mesterképzésben – figyelembe véve a (7) bekezdésben meghatározottakat – legalább hatvan kreditet kell és legfeljebb százhúsz kreditet lehet megszerezni. A képzési idő legalább két, legfeljebb négy félév. A mesterfokozatot eredményező képzésre épülő mesterképzésben hatvan kreditet lehet megszerezni, a képzési idő két félév.
 
 (7) Az egységes, osztatlan képzésben legalább háromszáz kreditet kell és legfeljebb háromszázhatvan kreditet lehet megszerezni. A képzési idő legalább tíz és legfeljebb tizenkét félév.
 
@@ -751,7 +755,7 @@ részére azzal, hogy az előnyben részesítés kizárólag az előnyben része
 
 (5) A Kormány határozza meg, hogy a felsőoktatási felvételi kérelmek rangsorolásánál a középiskolai tanulmányi versenyeken vagy más tudományos célú versenyen elért eredményeket, illetve a kiemelkedő sporteredményeket milyen módon és milyen feltételek mellett lehet figyelembe venni, továbbá, hogy mely esetben lehet szakmai alkalmassági, illetve gyakorlati vizsgát tartani.
 
-43. § (1) Mesterképzésre az vehető fel, aki alapképzésben fokozatot és szakképzettséget tanúsító oklevelet szerzett.
+43. § (1) Alapszakhoz kapcsolódó mesterképzésre az vehető fel, aki alapképzésben fokozatot és szakképzettséget tanúsító oklevelet szerzett. Mesterfokozatot eredményező képzésre épülő mesterképzésre az vehető fel, aki mesterképzésben fokozatot és szakképzettséget tanúsító oklevelet szerzett.
 
 (2) Szakirányú továbbképzésre az vehető fel, aki alapképzésben vagy mesterképzésben szerzett fokozattal és szakképzettséggel rendelkezik. Szakirányú továbbképzés esetében felvételi előfeltételként meghatározott munkakör betöltése, meghatározott időtartamú szakmai gyakorlat, további szakképzettség megléte is kiköthető.
 
@@ -1931,7 +1935,7 @@ címet adományozhat.
   - ea) a felsőoktatási intézmény gazdálkodását, működésének törvényességét, hatékonyságát,
   - eb) a szakmai munka eredményességét;
 - f) kezdeményezi a rektor megbízását és felmentését, továbbá gyakorolja felette a munkáltatói jogokat;
-- g) a rektor javaslatára megbízza a gazdasági vezetőt – költségvetési szervként működő felsőoktatási intézmény esetén a belső ellenőrzési egység vezetőjét –, illetve a rektor, a gazdasági tanács vagy saját kezdeményezésére visszavonja a megbízását. Állami felsőoktatási intézmény esetében e pont vonatkozásában fenntartón az állami vagyon felügyeletéért felelős minisztert kell érteni;
+- g) a rektor – valamennyi alkalmasnak talált pályázó felsorolását tartalmazó javaslatának figyelembevételével – javaslatára megbízza a gazdasági vezetőt – költségvetési szervként működő felsőoktatási intézmény esetén a belső ellenőrzési egység vezetőjét –, illetve a rektor, a gazdasági tanács vagy saját kezdeményezésére visszavonhatja a megbízását. Állami felsőoktatási intézmény esetében e pont vonatkozásában fenntartón az állami vagyon felügyeletéért felelős minisztert kell érteni;
 - h) gondoskodik a költségvetési szervként működő felsőoktatási intézmény éves elemi költségvetési beszámolójának ellenőrzéséről.
 - i)
 
@@ -1943,7 +1947,7 @@ címet adományozhat.
 
 (6) A fenntartó a szakmai munka eredményességét és az intézmény működésének hatékonyságát a felsőoktatási intézmény által az éves gazdálkodásáról – a számviteli rendelkezések szerint – készített beszámoló és az intézményi minőségfejlesztési program végrehajtásáról szóló beszámoló alapján értékeli és indokolt esetben – megfelelő határidő tűzésével – intézkedést kezdeményez.
 
-(7) A felsőoktatási intézmény a szervezeti és működési szabályzatát, intézményfejlesztési tervét, költségvetését, kötelezettségvállalási tervét, és végrehajtásának ütemtervét, valamint ezek módosítását a szenátus döntésétől számított tizenöt napon belül megküldi a fenntartónak. Ha a felsőoktatási intézmény a költségvetésétől, a kötelezettségvállalási tervétől eltérő döntést kíván hozni, azt előzetesen meg kell küldenie a fenntartónak. A fenntartó a szenátus által hozott egyéb döntések megküldését is kérheti.
+(7) A felsőoktatási intézmény a szervezeti és működési szabályzatát, intézményfejlesztési tervét, költségvetését, kötelezettségvállalási tervét, és végrehajtásának ütemtervét, valamint ezek módosítását a szenátus döntésétől számított tizenöt napon belül megküldi a fenntartónak. Ha a felsőoktatási intézmény a költségvetésétől, a kötelezettségvállalási tervétől eltérő döntést kíván hozni, azt előzetesen meg kell küldenie a fenntartónak. A fenntartó a szenátus által hozott egyéb döntések megküldését is kérheti. Az állami felsőoktatási intézmény esetén az intézményfejlesztési tervet, költségvetést, kötelezettségvállalási tervet, és végrehajtásának ütemtervét, valamint ezek módosítását tájékoztatás céljából az állami vagyon felügyeletéért felelős miniszternek, valamint az államháztartásért felelős miniszternek is meg kell küldeni.
 
 (8) A fenntartó a felsőoktatási intézmény költségvetésével, kötelezettségvállalási tervével, a költségvetés végrehajtásának ütemtervével kapcsolatos észrevételeit a megküldéstől számított harminc napon belül, a szervezeti és működési szabályzattal kapcsolatos észrevételeit a megküldéstől számított hatvan napon belül, az intézményfejlesztési tervvel kapcsolatos észrevételeit kilencven napon belül közölheti a felsőoktatási intézménnyel. Ez a határidő egy alkalommal, legfeljebb harminc nappal meghosszabbítható. Ha a fenntartó a felsőoktatási intézmény költségvetésével, kötelezettségvállalási tervével, és végrehajtásának ütemtervével, vagy a szervezeti és működési szabályzatban, illetve az intézményfejlesztési tervben foglaltakkal nem ért egyet – egy alkalommal, megfelelő határidő tűzésével – visszaküldi azt a felsőoktatási intézménynek, kezdeményezve annak átdolgozását.
 
@@ -2089,31 +2093,31 @@ címet adományozhat.
 - a) látja el fejlesztési feladatait,
 - b) beruházást indíthat, illetve a rendelkezésére bocsátott, továbbá a tulajdonában lévő vagyonnal részt vehet beruházás közös megvalósításában.
 
-(2) Az állami felsőoktatási intézmény a vagyonkezelésében lévő állami vagyon tulajdonjogát saját hatáskörben, a Magyar Állam nevében eljárva átruházhatja. Az értékesítés
+(2) Az állami felsőoktatási intézmény a vagyonkezelésében lévő állami vagyon tulajdonjogát saját hatáskörben, a Magyar Állam nevében eljárva átruházhatja, ami
 
-- a) az állami vagyon értékesítésére vonatkozó általános rendelkezések figyelembevételével,
-- b) a vagyon valós piaci értékének ellenértéke fejében,
-- c) az állami vagyon felügyeletéért felelős miniszter előzetes egyetértésével,
-- d) a Magyar Nemzeti Vagyonkezelő Zrt. értékesítést megelőző értesítése mellett,
+- a) az állami vagyon értékesítésére vonatkozó általános rendelkezések betartásával,
+- b) a vagyon valós piaci értékének megfelelő ellenértéke fejében,
+- c) az állami vagyon felügyeletéért felelős miniszter előzetes hozzájárulásával,
+- d) a miniszter előzetes értesítése mellett,
 - e) ingatlan esetén az ingatlan fekvése szerinti települési – fővárosban az ingatlan fekvése szerinti kerületi – önkormányzat elővásárlási jogának biztosításával
 
 történhet.
 
-(3) A miniszter hozzájárulásáról az értékesítési szándék írásbeli bejelentésétől számított harminc napon belül dönt, amennyiben ezen időpontig döntést nem hozott, úgy az egyetértést megadottnak kell tekinteni. Nem szükséges az előzetes egyetértés abban az esetben ha ingatlan értékesítésére azért kerül sor, mert az intézmény legkésőbb az intézményfejlesztési tervében meghatározott időtartamon belül az értékesítendő ingatlannal azonos településen másik ingatlant kíván vásárolni. A minisztert az értékesítés megkezdését megelőzően erről tájékoztatni kell.
+(3) Az átruházásról szóló kérelmet a felsőoktatási intézmény részletesen indokolja. Az állami vagyon felügyeletéért felelős miniszter hozzájárulásáról az átruházási szándék írásbeli bejelentésétől számított hatvan napon belül dönt. A hozzájárulás száznyolcvan napig érvényes. Az állami vagyon felügyeletéért felelős miniszter döntéséhez – amennyiben az értékesíteni kívánt vagyon ingatlan – kikéri a Magyar Nemzeti Vagyonkezelő Zrt. tájékoztatását abban a tekintetben, hogy az ingatlan szükséges-e valamely állami szerv, költségvetési szerv elhelyezésére vonatkozó, az állami vagyon felügyeletéért felelős miniszter hozzájárulása iránti kérelem beérkezésekor a Magyar Nemzeti Vagyonkezelő Zrt.-hez már bejelentett igényének kielégítéséhez.
 
-(4) Az értesítést követően a Magyar Nemzeti Vagyonkezelő Zrt. az értékesítés ellen a kézhezvételtől számított harminc napon belül kifogást emelhet, ha az értékesítendő vagyon társasági részesedés, illetve olyan ingatlan, amely szükséges valamely állami szerv, költségvetési intézmény elhelyezésre vonatkozó, a Magyar Nemzeti Vagyonkezelő Zrt.-hez az értesítés kézhezvételekor már bejelentett igényének kielégítéséhez. A kifogás bejelentését követően az értékesítési eljárás nem kezdhető meg. Kifogás nem emelhető, ha az ingatlan értékesítéséből származó bevételt a felsőoktatási intézmény alapfeladataihoz kapcsolódó felújítási, beruházási és egyéb fejlesztési célra fordítják, kivéve, ha a Magyar Nemzeti Vagyonkezelő Zrt. egyúttal nyilatkozik arról, hogy ezen felújítási, beruházási és egyéb fejlesztési célok megvalósításának forrását az ingatlan értékének erejéig – az állami vagyonról szóló 2007. évi CVI. törvény 22. § (7) bekezdésére figyelemmel – az intézményfejlesztési tervben megjelölt időpontig biztosítja.
+(4)
 
-(5) Az értékesítési eljárás befejezését követő harminc napon belül az intézmény a nyilvántartásba vétel és elszámolás végett megküldi a szerződést, illetve az eljárás jogszerűségének vizsgálatához szükséges iratokat a Magyar Nemzeti Vagyonkezelő Zrt. részére. A (2)–(4) bekezdésben foglalt rendelkezések megsértésével kötött szerződés semmis.
+(5) Az átruházási eljárás befejezését követő harminc napon belül az intézmény a nyilvántartásba vétel és elszámolás végett megküldi a szerződést, illetve az eljárás során keletkezett iratokat az állami vagyon felügyeletéért felelős miniszter és tájékoztatásul a miniszter részére. A (2)–(3) bekezdésben foglalt rendelkezések megsértésével kötött szerződés semmis.
 
-(6) Az állami felsőoktatási intézmények kezelésében lévő állami vagyonba tartozó ingatlanok értékesítéséből származó bevételnek a köztartozások és az ingatlan-elidegenítés költségeinek kiegyenlítését követően fennmaradó része a felsőoktatási intézmény alapfeladataihoz kapcsolódó felújítási, beruházási – beleértve a PPP (az állami és a magánszektor közötti fejlesztési, illetve szolgáltatási együttműködés, Public Private Partnership program) keretében megvalósuló fejlesztések törlesztő részleteit is – célra használható fel.
+(6) Az állami felsőoktatási intézmények kezelésében lévő állami vagyonba tartozó ingatlanok átruházásából származó bevételnek a köztartozások és az átruházás költségeinek kiegyenlítését követően fennmaradó része a (3) bekezdés szerinti jóváhagyással a felsőoktatási intézmény az állami vagyonról szóló törvény 27. § (2) bekezdése szerinti kötelezettsége teljesítésére, illetve alapfeladataihoz kapcsolódó felújítási, beruházási – beleértve a PPP (az állami és a magánszektor közötti fejlesztési, illetve szolgáltatási együttműködés, Public Private Partnership program) keretében megvalósuló fejlesztéseket is – célra használható fel.
 
-(7) Ha az intézményfejlesztési tervben megjelölt cél a felsőoktatási intézmény értékesítési javaslatában megjelölt időpontig nem valósul meg, az értékesítés ellenértékét az állami felsőoktatási intézmény köteles a Magyar Nemzeti Vagyonkezelő Zrt. részére megfizetni.
+(7) Ha az intézményfejlesztési tervben megjelölt cél az állami vagyon felügyeletéért felelős miniszter jóváhagyásában megjelölt időpontig nem valósul meg, az értékesítés ellenértékét az állami felsőoktatási intézmény köteles a Magyar Nemzeti Vagyonkezelő Zrt. részére megfizetni.
 
-(8) Az állami felsőoktatási intézmény az állami vagyonról szóló törvény 27. § (2) bekezdése szerinti kötelezettsége teljesítésére a hároméves fenntartói megállapodásban meghatározott összeget köteles a vagyon állagának megóvására, karbantartására és felújítására fordítani.
+(8)
 
 122/A. § (1) Az állami felsőoktatási intézmény kincstári körbe nem tartozó befektetővel végzett közös beruházás esetén jogosult a vagyonkezelésében lévő ingatlant – versenyeztetés nélkül – a befektető használatába adni, vagy arra vonatkozóan földhasználati jogot biztosítani számára. A használati, földhasználati jog átengedése a befektetővel kötött megállapodásban foglalt feltételek szerint, akár ellenérték nélkül is történhet, időtartama azonban a húsz évet nem haladhatja meg.
 
-(2) Az állami felsőoktatási intézmények a költségvetésük terhére hosszú távú (legfeljebb húszéves) kötelezettséget vállalhatnak felhalmozási célokra vagy beruházást helyettesítő szolgáltatás vásárlására. Az ebből származó éves fizetési kötelezettségek együttes összege egyik évben sem haladhatja meg az éves költségvetésük dologi és felhalmozási célú előirányzatának tíz százalékát. Amennyiben az éves fizetési kötelezettségek együttes összege e határt a felsőoktatási intézmény tárgyévi költségvetésének csökkenése miatt haladja meg, új kötelezettség nem vállalható mindaddig, amíg az arány helyre nem áll. A hosszú távú kötelezettségekről évente kimutatást kell készíteni, amely az éves költségvetés és beszámoló részét képezi. A felsőoktatási intézmények kötelezettségvállalásának ötven százalékát a miniszter által vezetett minisztérium a jóváhagyott éves fejezeti kezelésű előirányzatai terhére átvállalhatja. Az átvállalások együttes összege nem haladhatja meg a miniszter által vezetett minisztérium adott évre jóváhagyott központi beruházási előirányzatai harminchárom százalékának megfelelő mértéket. Az ezt meghaladó átvállaláshoz az állami vagyon felügyeletéért felelős miniszter egyetértése szükséges.
+(2) Az állami felsőoktatási intézmények a költségvetésük terhére – a 122. § (3) bekezdésnek megfelelő hozzájárulás esetén – hosszú távú (legfeljebb húszéves) kötelezettséget vállalhatnak felhalmozási célokra vagy beruházást helyettesítő szolgáltatás vásárlására. Az ebből származó éves fizetési kötelezettségek együttes összege egyik évben sem haladhatja meg az éves költségvetésük dologi és felhalmozási célú előirányzatának tíz százalékát. Amennyiben az éves fizetési kötelezettségek együttes összege e határt a felsőoktatási intézmény tárgyévi költségvetésének csökkenése miatt haladja meg, új kötelezettség nem vállalható mindaddig, amíg az arány helyre nem áll. A hosszú távú kötelezettségekről évente kimutatást kell készíteni, amely az éves költségvetés és beszámoló részét képezi. A felsőoktatási intézmények kötelezettségvállalásának ötven százalékát az állami vagyon felügyeletéért felelős miniszter által vezetett minisztérium a jóváhagyott éves fejezeti kezelésű előirányzatai terhére megállapodásban átvállalhatja.
 
 123. § (1) Az állami felsőoktatási intézmény saját tulajdonra
 
@@ -2313,29 +2317,7 @@ nyújtott támogatás. Az e bekezdésben szabályozott költségvetési hozzáj�
 
 (2) A hallgatói önkormányzat tevékenységét segítő normatív támogatás számításának, elosztásának, igénylésének rendjét a Kormány határozza meg.
 
-133/A. § (1) Az állami felsőoktatási intézmények központi költségvetési támogatására három éves fenntartói megállapodást kell kötni az állami felsőoktatási intézmény és a fenntartó [7. § (4) bekezdés] között. A fenntartói megállapodás tartalmazza a felsőoktatási intézmény által meghatározott hároméves időszakra vállalt teljesítménykövetelményeket, továbbá az állandó jellegű támogatási részeket, valamint a változó jellegű támogatások megállapításának jogcímeit. A változó elemű támogatás évenkénti elszámolási kötelezettséggel kerül meghatározásra.
-
-(2) A fenntartói megállapodásban rögzített állandó jellegű támogatás elemei a következők:
-
-- a) a fenntartói normatíva [132. §],
-- b) beruházásokkal összefüggő szolgáltatás vásárlásához biztosított minisztériumi hozzájárulás,
-- c) a normatívákhoz nem köthető intézményi feladattámogatások.
-
-(3) A változó jellegű támogatások a következők:
-
-- a) hallgatói juttatásokhoz nyújtott támogatások [129. § (1)–(3) bekezdés],
-- b) képzési támogatás [130. §],
-- c) az intézmény működését támogató tudományos normatíva [131. § (1) bekezdés],
-- d) közoktatási feladatellátás támogatása,
-- e) az egyes speciális feladatokhoz nyújtott támogatás.
-
-(4) A teljesítménykövetelményeket a fenntartói megállapodás megkötésekor hatályos intézményi fejlesztési terv alapján az oktatás, a kutatás, a gazdálkodás (pénzügyi egyensúly fenntartása, illetve megteremtése, kapacitások kihasználtsága, az államilag támogatott hallgatói létszámon belüli részesedés megtartása), az irányítási, szervezeti hatékonyság; más hazai és külföldi felsőoktatási intézményekkel, továbbá társadalmi és gazdasági szereplőkkel folytatott nemzetközi, regionális együttműködés bontásban, az adott területre jellemző mutatókkal kell meghatározni.
-
-(5) A 115. § szerinti fenntartói értékelés, vizsgálat és ellenőrzés kiterjed a fenntartói megállapodásban foglaltak időarányos teljesítésére is.
-
-(6) A fenntartói megállapodás, illetve az abban vállalt teljesítménykövetelmények nem, vagy nem megfelelő teljesülése esetén a fenntartó jogosult a 36. § (10) bekezdés szerinti intézkedéssel is élni. Ha a fenntartói megállapodásban foglaltak teljesítését a felek vitatják, azt – ilyen irányú kezdeményezés esetén, a 115. §-ban meghatározott eljárás keretében – a bíróság állapítja meg.
-
-(7) A nem állami felsőoktatási intézmények központi költségvetési támogatására a miniszter és a felsőoktatási intézmény fenntartója között – a 137–139. §-okban foglaltak szerint és e § (4)–(5) bekezdésében foglaltak alkalmazásával – a nem állami intézmény fenntartójának kezdeményezésére három éves keretmegállapodás köthető.
+133/A. §
 
 ### A FINANSZÍROZÁS EGYÉB KÉRDÉSEI
 
@@ -2688,9 +2670,9 @@ tartalmazza, a képzés részletes szabályaival, így különösen a tantervvel
 
 (2) A Magyar Köztársaság címere elhelyezhető a felsőoktatási intézmény alapfeladatának ellátását szolgáló helyiségekben, címtábláján, épületeinek homlokzatán, továbbá feltüntethető a körbélyegzőjén és a felsőoktatási intézmény által kiadott okleveleken, oklevélmellékleteken.
 
-(3) Az Idegennyelvi Továbbképző Központ, az Eötvös Loránd Tudományegyetem Jogi és Továbbképző Intézete és a Budapesti Corvinus Egyetem Közgazdasági Továbbképző Intézete a felsőoktatási intézmény részeként működnek. A továbbképző intézetek a felsőoktatási intézménnyel kötött megállapodás alapján részt vehetnek idegennyelvi képzésben és vizsgáztatásban, szakirányú továbbképzés és iskolarendszeren kívüli képzések szervezésében. A továbbképző intézetek a felsőoktatási intézmény keretei között önálló jogi személyként működnek részjogkörű költségvetési egységként.
+(3) Az Idegennyelvi Továbbképző Központ, az Eötvös Loránd Tudományegyetem Jogi és Továbbképző Intézete és a Budapesti Corvinus Egyetem Közgazdasági Továbbképző Intézete a felsőoktatási intézmény részeként működnek. A továbbképző intézetek a felsőoktatási intézménnyel kötött megállapodás alapján részt vehetnek idegennyelvi képzésben és vizsgáztatásban, szakirányú továbbképzés és iskolarendszeren kívüli képzések szervezésében.
 
-(4) A Mozgássérültek Pető András Nevelőképző és Nevelőintézete 2010. december 31-ig főiskolaként működhet tovább oly módon, hogy legalább egy képzési területen, egy szakon folytathat képzést. A főiskola 2011. január 1-jétől e törvény rendelkezései alapján folytatja működését. Ha a főiskola e feltételnek nem tesz eleget, a 2011. szeptember 1-jén induló tanévben nem vehet fel hallgatót az első évfolyamra. Az előző években felvett hallgatók tanulmányaikat változatlan feltételek mellett befejezhetik.
+(4) A Mozgássérültek Pető András Nevelőképző és Nevelőintézete főiskolaként működő felsőoktatási intézmény.
 
 (5) A Zrínyi Miklós Nemzetvédelmi Egyetem akkor is használhatja az egyetem elnevezést, ha egy képzési területen jogosult mesterképzés folytatására, valamint legalább egy tudományterületen doktori képzésre, illetve doktori fokozat odaítélésére.
 
@@ -2792,6 +2774,18 @@ annak tekintetében, aki a díj, a helyezés, a szakképzettség, az elismerés 
 (5) Az 1993. évi felsőoktatásról szóló törvény 10/A. §-a és 10/B. §-a rendelkezései alapján utoljára 2006-ban lehet ösztöndíjat odaítélni, a már megállapított ösztöndíjakat e törvény hatálybalépése nem érinti, azokat az ösztöndíjas jogviszony kezdetekor hatályos rendelkezések szerint kell az ösztöndíj tartamának megfelelően folyósítani.
 
 (6) A felsőoktatási ösztöndíjak odaítélésének rendjét, mértékét, az ösztöndíjra jogosultak körét, valamint e törvény bevezetésével összefüggésben további átmeneti szabályokat a Kormány határozza meg.
+
+152/A. § (1) E törvény 2011. január 1-jétől hatályos 23. §-ában és 26. § (5) bekezdésében foglaltakat 2011. január 31-től kell alkalmazni. A 2011. január 30-án fennálló gazdasági tanácsi tagság, megbízás – a rektor, és a gazdasági főigazgató, ennek hiányában gazdasági igazgató tagsága kivételével –, továbbá a gazdasági tanács vezetésére kapott megbízás 2011. január 31-én megszűnik.
+
+(2) A gazdasági tanács tagjának delegálására jogosult személy, szervezet 2011. január 31-ig a 23. §-ban foglaltak szerint intézkedik a gazdasági tanács tagjának delegálásáról.
+
+(3) A (2) bekezdésben előírt delegálást követően megalakult gazdasági tanács alakuló ülésén dönt a gazdasági tanács vezetőjének megbízásáról.
+
+(4) E törvény 2011. január 1-jétől hatályos 28. § (1) bekezdés a) pontjára tekintettel a felsőoktatási intézményeknek 2011. január 31-ig kell felülvizsgálniuk, illetve – amennyiben ezt az Ftv. megváltoztatott rendelkezéseivel való összhang biztosítása igényli – módosítaniuk szervezeti és működési szabályzatukat.
+
+(5) E törvény 2011. január 1-jétől hatályos 122. § (2)–(3) és (5)–(7) bekezdésében foglaltakat e törvény hatálybalépését követően benyújtott intézményi átruházási kérelem, valamint az ahhoz kapcsolódó miniszteri hozzájárulás tekintetében kell alkalmazni. Az e törvény hatálybalépését megelőzően megszerzett azon hozzájárulások, amelyek alapján az ingatlan átruházása nem történt meg, 2011. január 31-ig érvényesek.
+
+(6) E § (1)–(4) bekezdése 2011. február 28-án hatályát veszti.
 
 ### FELHATALMAZÓ RENDELKEZÉSEK
 
@@ -2933,9 +2927,9 @@ rendeletben jelölje ki.
 
 163. § Az e törvény hatálybalépésekor működő nem állami felsőoktatási intézmények az állandó oktatói, kutatói karra vonatkozó rendelkezések szerinti működésre 2008. szeptember 1-jétől kezdődően kötelesek.
 
-163/A. § (1) A 2010. évi költségvetési évre vonatkozóan a 127. § (2) bekezdésében meghatározott rendelkezés a felsőoktatás támogatási összegének megállapítására, éves növekményére vonatkozóan nem alkalmazható.
+163/A. § (1) A 2011. évi költségvetési évre vonatkozóan a 127. § (2) bekezdésében meghatározott rendelkezés a felsőoktatás támogatási összegének megállapítására, éves növekményére vonatkozóan nem alkalmazható.
 
-(2) 2010-ben a képzési normatíva éves összegének megállapításakor a 130. § (3) bekezdés rendelkezéseitől, illetve a 3. számú mellékletben foglaltaktól eltérve az egyes finanszírozási csoportok szorzószámait – az alapképzés első finanszírozási csoportjának kivételével – a Kormány legfeljebb húsz százalékos mértékben módosíthatja.
+(2) 2011-ben a képzési normatíva éves összegének megállapításakor a 130. § (3) bekezdés rendelkezéseitől, illetve a 3. számú mellékletben foglaltaktól eltérve az egyes finanszírozási csoportok szorzószámait – az alapképzés első finanszírozási csoportjának kivételével – a Kormány legfeljebb húsz százalékos mértékben módosíthatja.
 
 ### Az új engedélyezési rendszer bevezetése
 

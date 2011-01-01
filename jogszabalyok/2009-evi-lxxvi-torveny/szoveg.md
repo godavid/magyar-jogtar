@@ -27,8 +27,10 @@ Az Országgyűlés a vállalkozások, különösen a kis- és középvállalkoz�
   - bc) a légiközlekedésről szóló törvényben meghatározott gazdasági célú légiközlekedési tevékenység és – a légijármű, annak részei, berendezései és alkatrészei, valamint a légiközlekedéssel kapcsolatos eszköz karbantartása, javítása, a légijármű bérbeadása, valamint a légiközlekedési szakszemélyzet szakirányú földi képzése kivételével – légiközlekedéssel összefüggő tevékenység, valamint
   - bd) a közúti járművel végzett személyszállítás, árufuvarozás, ideértve a közúti járműnek ilyen célból, járművezetővel együtt történő rendelkezésre bocsátását, valamint a bérvontatást és az autómentést;
 - c) a munka törvénykönyvéről szóló törvényben meghatározott munkaerő-kölcsönzésre;
-- d) az egészségügyről szóló törvény szerinti, a betegeknek nyújtott egészségügyi szolgáltatás részét képező azon egészségügyi tevékenységre, amely az egyén egészségének megőrzése, továbbá a megbetegedések megelőzése, korai felismerése, megállapítása, gyógykezelése, életveszély elhárítása, a megbetegedés következtében kialakult állapot javítása vagy a további állapotromlás megelőzése céljából a beteg vizsgálatára és kezelésére, gondozására, ápolására, egészségügyi rehabilitációjára, a fájdalom és a szenvedés csökkentésére, továbbá ezekkel összefüggésben a beteg vizsgálati anyagainak feldolgozására irányul, és amelynek végzéséhez törvény vagy annak felhatalmazása alapján kiadott rendelet szerint egészségügyi szakképesítés vagy ilyen szakképesítéssel rendelkező személy szakmai felügyelete szükséges, ideértve a gyógyszerekkel, a gyógyászati segédeszközökkel, a gyógyászati ellátásokkal kapcsolatos ilyen tevékenységet, valamint a mentést és a betegszállítást;
-- e) a rádiózásról és televíziózásról szóló törvény szerinti műsorszolgáltatási tevékenységre, továbbá az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvény szerinti olyan információs társadalommal összefüggő szolgáltatásra, amely szerkesztett műsorkínálatból a felhasználó által megválasztott időpontban egyedileg lekérhető, álló- vagy mozgóképeket tartalmazó információk elektronikus hírközlő hálózat igénybevételével a közönséghez történő eljuttatásából áll, valamint a mozgóképről szóló törvényben meghatározott moziüzemeltetésre;
+- d) az egészségügyről szóló törvény szerinti
+  - da) a betegeknek nyújtott egészségügyi szolgáltatás részét képező azon egészségügyi tevékenységre, amely az egyén egészségének megőrzése, továbbá a megbetegedések megelőzése, korai felismerése, megállapítása, gyógykezelése, életveszély elhárítása, a megbetegedés következtében kialakult állapot javítása vagy a további állapotromlás megelőzése céljából a beteg vizsgálatára és kezelésére, gondozására, ápolására, egészségügyi rehabilitációjára, a fájdalom és a szenvedés csökkentésére, továbbá ezekkel összefüggésben a beteg vizsgálati anyagainak feldolgozására irányul, és amelynek végzéséhez törvény vagy annak felhatalmazása alapján kiadott rendelet szerint egészségügyi szakképesítés vagy ilyen szakképesítéssel rendelkező személy szakmai felügyelete szükséges, ideértve a gyógyszerekkel, a gyógyászati segédeszközökkel, a gyógyászati ellátásokkal kapcsolatos ilyen tevékenységet, valamint a mentést és a betegszállítást és
+  - db) az egészségügyi ágazati szakmai képzésekre;
+- e) a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény szerinti médiaszolgáltatási tevékenységre, továbbá az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvény szerinti olyan információs társadalommal összefüggő szolgáltatásra, amely szerkesztett műsorkínálatból a felhasználó által megválasztott időpontban egyedileg lekérhető, álló- vagy mozgóképeket tartalmazó információk elektronikus hírközlő hálózat igénybevételével a közönséghez történő eljuttatásából áll, valamint a mozgóképről szóló törvényben meghatározott moziüzemeltetésre;
 - f) a szerencsejáték szervezéséről szóló törvényben meghatározott szerencsejáték szervezésére irányuló tevékenységre;
 - g) a szociális igazgatásról és szociális ellátásokról szóló törvény szerinti szociális szolgáltatásokra, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti gyermekjóléti és gyermekvédelmi szolgáltató tevékenységekre, kivéve, ha azokat az e törvények szerinti nem állami fenntartó, nem az e törvények szerinti állami vagy egyházi fenntartótól átvállalt feladatként látja el;
 - h) a személy- és vagyonvédelmi tevékenység szabályairól szóló törvényben meghatározott személy- és vagyonvédelmi tevékenységekre;
@@ -162,7 +164,7 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 
 (3) Az eljáró hatóság vezetőjének vagy a szakhatóság vezetőjének a szolgáltatási tevékenység megkezdéséhez vagy folytatásához szükséges engedélyezési eljárás során hozott, az ügyintézési határidő meghosszabbítására vonatkozó végzését az eredeti ügyintézési határidő lejárta előtt közölni kell az ügyféllel.
 
-(4) Az ügyfelet az azt megalapozó ok felmerülésétől számított 3 munkanapon belül értesíteni kell az ügyintézési határidőbe nem számító időtartamról.
+(4) Az ügyfelet az azt megalapozó ok felmerülésétől számított öt napon belül értesíteni kell az ügyintézési határidőbe nem számító időtartamról.
 
 ### A hatóság hallgatása az engedélyezési eljárásban
 
@@ -239,7 +241,7 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 
 (4) A határon átnyúló szolgáltatásnyújtás keretében folytatni kívánt tevékenységére vonatkozó bejelentés – ha a szolgáltató a bejelentésben ennél rövidebb időt nem határoz meg – a megtételétől számított öt naptári évre szól.
 
-23. § (1) A szolgáltatás felügyeletét ellátó hatóság a bejelentés megérkezését követően haladéktalanul ellenőrzi, hogy a bejelentés megfelel-e a 22. §-ban meghatározott követelményeknek, és legkésőbb a bejelentés megérkezésétől számított öt munkanapon belül,
+23. § (1) A szolgáltatás felügyeletét ellátó hatóság a bejelentés megérkezését követően haladéktalanul ellenőrzi, hogy a bejelentés megfelel-e a 22. §-ban meghatározott követelményeknek, és legkésőbb a bejelentés megérkezésétől számított nyolc napon belül,
 
 - a) ha a bejelentés megfelel a 22. §-ban meghatározott követelményeknek, és az eljárási illetéket vagy igazgatási szolgáltatási díjat megfizették, a bejelentést tevőt erről a tényről igazolás megküldésével értesíti;
 - b) ha a bejelentés nem felel meg a 22. §-ban meghatározott követelményeknek, vagy a bejelentésre előírt eljárási illetéket vagy igazgatási szolgáltatási díjat nem fizették meg, és a szolgáltató nem részesült költségmentességben, a bejelentés hiányainak megjelölése mellett figyelmezteti a szolgáltatót a tevékenység bejelentés nélküli folytatásának jogkövetkezményeire.
@@ -287,7 +289,7 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 
 ### Bejelentéshez kötött tevékenységet folytatószolgáltatók nyilvántartása
 
-27. § (1) A bejelentéssel összefüggő eljárásban a szolgáltatás felügyeletét ellátó hatóság a szolgáltatót a 23. § (1) bekezdés a) pontja szerinti bejelentés megérkezésétől számított tíz munkanapon belül hivatalból nyilvántartásba veszi, kivéve, ha a bejelentés alapján folytatott ellenőrzési eljárás keretében megállapította, hogy a szolgáltató nem felel meg az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó jogszabályban foglalt előírásoknak.
+27. § (1) A bejelentéssel összefüggő eljárásban a szolgáltatás felügyeletét ellátó hatóság a szolgáltatót a 23. § (1) bekezdés a) pontja szerinti bejelentés megérkezését követő naptól számított tizenöt napon belül hivatalból nyilvántartásba veszi, kivéve, ha a bejelentés alapján folytatott ellenőrzési eljárás keretében megállapította, hogy a szolgáltató nem felel meg az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó jogszabályban foglalt előírásoknak.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
@@ -469,7 +471,7 @@ a jogsértést megállapító határozat, vagy – a b) pont szerinti esetben �
 - a) a szolgáltató letelepedésének helye szerinti EGT-állam illetékes hatósága által megtett vagy megtenni tervezett intézkedések miért elégtelenek, és
 - b) a tervezett intézkedések mennyiben felelnek meg a 10. §-ban meghatározott feltételeknek.
 
-(4) A szolgáltatás felügyeletét ellátó hatóság a (2) bekezdés szerinti értesítés megküldésétől számított tizenöt munkanap elteltével megteheti a szükséges intézkedéseket, kivéve ha az Európai Bizottság e határidőn belül az értesítés alapján úgy határozott, hogy a tervezett intézkedés nem összeegyeztethető az Európai Unió jogával.
+(4) A szolgáltatás felügyeletét ellátó hatóság a (2) bekezdés szerinti értesítés megküldésétől számított húsz nap elteltével megteheti a szükséges intézkedéseket, kivéve ha az Európai Bizottság e határidőn belül az értesítés alapján úgy határozott, hogy a tervezett intézkedés nem összeegyeztethető az Európai Unió jogával.
 
 (5) Ha az e § szerinti intézkedés megtételét sürgős szükség indokolja, a szolgáltatás felügyeletét ellátó hatóság a (2), illetve a (3) bekezdés szerinti értesítés mellőzésével megteheti a szükséges intézkedéseket, köteles azonban erről határozatának egyidejű megküldésével tájékoztatni az Európai Bizottságot és a szolgáltató letelepedési helye szerinti másik EGT-államot, részletesen kifejtve az azonnali intézkedés indokait, valamint a (3) bekezdés b) pontja szerinti indokokat.
 

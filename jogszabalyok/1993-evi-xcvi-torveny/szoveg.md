@@ -569,6 +569,10 @@ képviseli.
 
 (13) A pénztár a panaszkezelési szabályzatot a pénztártagok számára nyitva álló helyiségében, ennek hiányában a székhelyén kifüggeszti és a honlapján közzéteszi.
 
+(14) A pénztár a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
+
+(15) A pénztár köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenteni.
+
 ### A pénztárak gazdálkodása
 
 30. § (1) A pénztár e törvény 3. § és 10. §-ának keretei között szolgáltatásai szervezéséhez, finanszírozásához és teljesítéséhez kapcsolódó pénzügyi feltételek megteremtése érdekében jogosult gazdálkodási tevékenységet folytatni. A pénztár gazdálkodása keretében:
@@ -707,7 +711,7 @@ kell helyezni.
 
 (2) Az (1) bekezdés alapján megismert személyes adatokat a pénztár a vagyonkezelői tevékenység irányítójának alkalmazásáról, illetve ingatlanértékelő megbízásáról meghozott döntésig, a vagyonkezelő alkalmazása vagy ingatlanértékelő megbízása esetén a jogviszony fennállásáig kezeli.
 
-(3) A pénztár az ingatlanértékelő megbízását követő tizenöt munkanapon belül a Felügyeletnek jóváhagyás végett bejelenti az értékelő személyét, és csatolja az ingatlanértékelő hatósági bizonyítványát – annak igazolására, hogy büntetlen előéletű, nem áll az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt, vele szemben nem áll fenn a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok –, valamint a végzettségét és gyakorlatát igazoló dokumentumok hiteles másolatát.
+(3) A pénztár az ingatlanértékelő megbízását követő huszonegy napon belül a Felügyeletnek jóváhagyás végett bejelenti az értékelő személyét, és csatolja az ingatlanértékelő hatósági bizonyítványát – annak igazolására, hogy büntetlen előéletű, nem áll az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt, vele szemben nem áll fenn a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok –, valamint a végzettségét és gyakorlatát igazoló dokumentumok hiteles másolatát.
 
 (4) A Felügyelet hatósági ellenőrzés keretében ellenőrizheti, hogy az ingatlanértékelő büntetlen előéletű, nem áll az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt, és vele szemben nem áll fenn a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok. A hatósági ellenőrzést folytató Felügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az ingatlanértékelő büntetlen előéletű-e, az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt áll-e, valamint fennáll-e vele szemben a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok.
 
@@ -716,7 +720,7 @@ kell helyezni.
 - a) (3) bekezdés alapján megismert személyes adatait az ingatlanértékelő megbízásának jóváhagyásáig,
 - b) a (4) bekezdés alapján megismert személyes adatait a hatósági ellenőrzés időtartamára vagy a pénztár az ingatlanértékelő jogviszonyának megszüntetéséről szóló (6) bekezdés szerinti értesítésének a Felügyelethez történő megérkezéséig kezeli.
 
-(6) Ha a Felügyelet a (4) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy az ingatlanértékelő büntetett előéletűvé vált, az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt áll, vagy vele szemben fennáll a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok, erről a tényről haladéktalanul értesíti a pénztárt, és ezzel egyidejűleg felhívja, hogy az ingatlanértékelővel fennálló jogviszonyát az értesítés kézbesítésétől számított tizenöt munkanapon belül szüntesse meg, és erről a Felügyeletet értesítse.
+(6) Ha a Felügyelet a (4) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy az ingatlanértékelő büntetett előéletűvé vált, az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt áll, vagy vele szemben fennáll a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok, erről a tényről haladéktalanul értesíti a pénztárt, és ezzel egyidejűleg felhívja, hogy az ingatlanértékelővel fennálló jogviszonyát az értesítés kézbesítésétől számított huszonegy napon belül szüntesse meg, és erről a Felügyeletet értesítse.
 
 (7) A pénztár önálló vagyonkezelésének ideje alatt a pénztár írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja a vagyonkezelői tevékenység irányítóját annak igazolására, hogy büntetlen előéletű, nem áll vagyonkezelői munkakörnek megfelelő foglalkozástól eltiltás hatálya alatt, és vele szemben nem áll fenn a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok.
 
@@ -724,7 +728,7 @@ kell helyezni.
 
 (9) A pénztár a vagyonkezelői tevékenység irányítójának a (7) és (8) bekezdés alapján megismert személyes adatait a vagyonkezelői tevékenység irányítójának a pénztárral fennálló jogviszonyának megszűnéséig kezeli.
 
-(10) Nem lehet a vagyonkezelői tevékenység irányítója az a személy, aki a pénztár (7) bekezdésben meghatározott felhívására, a felhívástól számított tizenöt munkanapon belül – vagy ha e határidőn belül a rajta kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – nem igazolja hatósági bizonyítvánnyal, hogy büntetlen előéletű, nem áll a vagyonkezelői munkakörnek megfelelő foglalkozástól eltiltás hatálya alatt, és vele szemben nem áll fenn a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok.
+(10) Nem lehet a vagyonkezelői tevékenység irányítója az a személy, aki a pénztár (7) bekezdésben meghatározott felhívására, a felhívástól számított huszonegy napon belül – vagy ha e határidőn belül a rajta kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – nem igazolja hatósági bizonyítvánnyal, hogy büntetlen előéletű, nem áll a vagyonkezelői munkakörnek megfelelő foglalkozástól eltiltás hatálya alatt, és vele szemben nem áll fenn a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok.
 
 39. § (1) Amennyiben a beszámoló olyan veszteséget mutat, amely a likviditási alapból nem pótolható, az igazgatótanácsnak javaslatot kell tennie a közgyűlés számára a veszteségmegszüntetés módjára. A javaslattétel előtt köteles tájékoztatni a veszteségről és a stabilizációs tervéről a Felügyeletet és a Pénztárszövetséget.
 
@@ -734,7 +738,7 @@ kell helyezni.
 
 (2) A könyvszakértővel hitelesített pénztári beszámolót a pénzügyi év lejártát követő 150 napon belül közgyűlés elé kell terjeszteni.
 
-(3) Járadékszolgáltatást is nyújtó pénztárnak kormányrendeletben megállapított rendszerességgel és tartalommal az éves beszámoló részeként biztosításmatematikai mérleget kell készítenie, amelyet biztosításmatematikus ír alá.
+(3) Járadékszolgáltatást is nyújtó nyugdíjpénztárnak, valamint közösségi szolgáltatást nyújtó önsegélyező pénztárnak kormányrendeletben megállapított rendszerességgel és tartalommal az éves beszámoló részeként biztosításmatematikai mérleget kell készítenie, amelyet biztosításmatematikus ír alá.
 
 (4) A pénztár likviditási helyzetének ellenőrzése érdekében a Felügyelet a pénztárat év közben is beszámoltathatja.
 
@@ -1019,7 +1023,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (2) A pénztár ellen nincs helye csődeljárásnak.
 
-(3) A bíróság a pénztár felszámolójának csak a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben meghatározott közhasznú társaságot jelölheti ki.
+(3) A bíróság a pénztár felszámolójának kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki.
 
 (4) A bíróság a felszámolás iránti kérelemről a benyújtástól számított 8 napon belül határoz. A felszámolást elrendelő végzés fellebbezésre tekintet nélkül végrehajtható. A Felügyelet által kezdeményezett felszámolási eljárás esetében a felszámolás kezdő időpontja a felszámolást elrendelő végzés meghozatalának napja.
 
@@ -1036,6 +1040,8 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 (8) A felszámolási eljárás során a (7) bekezdésben meghatározott eszközök külön kezelendők, és azok csak a fedezeti tartalékkal szemben fennálló tagi, hozzátartozói, illetve kedvezményezetti követelések kielégítése után használhatók fel egyéb kötelezettségek kielégítésére.
 
 (9) A tagsági viszonyból származó kötelezettségeket a felszámolási költségeket követően kell kielégíteni.
+
+(10) Pénztár felszámolása esetén az eljárás felfüggesztésének nincs helye.
 
 ### IV. Fejezet — A KIEGÉSZÍTŐ PÉNZTÁRAK TÍPUSAIRA VONATKOZÓ RÉSZLETES SZABÁLYOK
 
@@ -1453,7 +1459,7 @@ nyújthat.
 
 (3) A pénztár csak büntetlen előéletű szakértőt alkalmazhat. Indokolt esetben a Felügyelet kifogást emelhet a szakértők alkalmazásával szemben.
 
-(4) A pénztár az (1)–(3) bekezdések szerinti személyi és tárgyi feltételekben, valamint a letétkezelő, számlavezető, szolgáltatás-szervező, valamint a kiszervezett tevékenységet végző személyében történt változást a szerződés megkötését követő 3 munkanapon belül a Felügyeletnek a rendszeresített adatlapon bejelenti.
+(4) A pénztár az (1)–(3) bekezdések szerinti személyi és tárgyi feltételekben, valamint a letétkezelő, számlavezető, szolgáltatás-szervező, valamint a kiszervezett tevékenységet végző személyében történt változást a szerződés megkötését követő öt napon belül a Felügyeletnek a rendszeresített adatlapon bejelenti.
 
 64/A. § (1) A pénztár köteles könyvvizsgálót igénybe venni. A könyvvizsgálói feladatok ellátására csak akkor adható az érvényes könyvvizsgálói engedéllyel rendelkező, bejegyzett könyvvizsgáló (könyvvizsgáló társaság) részére megbízás, ha a könyvvizsgáló rendelkezik pénztári minősítéssel.
 
@@ -1482,6 +1488,8 @@ nyújthat.
 64/C. § (1) A pénztár és a szolgáltató a Felügyeletnek jogszabályon alapuló rendszeres és eseti, illetve felügyeleti határozaton alapuló eseti adatszolgáltatást teljesít.
 
 (2) A pénztár köteles a nemi hovatartozás szerint eltérő mértékű, típusú vagy formájú szolgáltatások alapjául szolgáló arányos különbségeket alátámasztó adatokat a Felügyeletnek éves rendszerességgel megküldeni.
+
+(3) A pénztár és a szolgáltató köteles a tevékenységéről külön jogszabályban előírt módon, formában, tartalommal és gyakorisággal a Felügyeletnek adatot szolgáltatni.
 
 64/D. § (1) A Felügyelet kérésére a pénztár köteles megküldeni részére
 
@@ -1569,7 +1577,7 @@ nyújthat.
 - b) számvitelében, belső ellenőrzési rendszerében feltárt hiányosságok oly mértékűek, hogy lehetetlenné vált a pénztár valódi pénzügyi helyzetének feltárása, vagy
 - c) alapszabálynak vagy a vonatkozó jogszabályoknak megfelelő működése nem biztosítható.
 
-(2) A Felügyelet az (1) bekezdésben meghatározott veszélyhelyzet feloldása érdekében – szükségintézkedésként – egy vagy több felügyeleti biztos kirendeléséről határozhat.
+(2) A Felügyelet az (1) bekezdésben meghatározott veszélyhelyzet feloldása érdekében – szükségintézkedésként – felügyeleti biztos kirendeléséről határozhat.
 
 (3) A felügyeleti biztos kirendelése a működőképesség helyreállítását célozza, tartama alatt a pénztár a Felügyelet által kinevezett felügyeleti biztos rendelkezései szerint működik.
 
@@ -1579,11 +1587,9 @@ nyújthat.
 
 (6) Ha nincs lehetőség a pénztár ügyeinek átvételére, a felügyeleti biztos közjegyző, illetőleg rendőrség közreműködését veheti igénybe.
 
-(7) A felügyeleti biztos csak a pénztárral üzleti kapcsolatban nem álló és a pénztár tagságához nem tartozó személy lehet. A felügyeleti biztost kirendelő határozatban meg kell határozni feladatait, s kirendelésével egyidejűleg rendelkezni kell hatásköréről, amely kizárólag e törvény és a végrehajtására kiadott jogszabályok betartására és betartatására terjed ki.
+(7) A felügyeleti biztost kirendelő határozatban meg kell határozni feladatait, s kirendelésével egyidejűleg rendelkezni kell a hatásköréről.
 
-(8) A felügyeleti biztost – akár a Felügyelettel köztisztviselői jogviszonyban álló, akár megbízási jogviszonyban álló személy – a Felügyelet elnöke által meghatározott díjazás illeti meg, amelyet az érintett pénztár fizet.
-
-(9) A felügyeleti biztos az e minőségében okozott kárért, ha a Felügyelettel köztisztviselői jogviszonyban áll, a Ptk. 348. §-a szerint, ha pedig megbízási jogviszonyban áll, a Ptk. 350. §-a szerint felel.
+(8)–(9)
 
 (10) A felügyeleti biztos legfeljebb 180 napra jelölhető ki, de ez az időtartam a felszámoló kijelöléséig meghosszabbítható. Felszámolási eljárás esetén a felügyeleti biztos megbízatása a felszámoló kijelöléséig tart.
 

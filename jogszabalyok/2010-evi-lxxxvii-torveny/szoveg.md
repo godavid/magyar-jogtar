@@ -220,6 +220,11 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - r) pályakezdő agrárvállalkozók és mezőgazdasági vagy erdészeti szakirányú végzettséggel rendelkezők támogatása;
 - s) különleges rendeltetésű (különösen oktatás, kutatás, büntetés-végrehajtás) gazdaságok működéséhez kedvezményes termőföld biztosítás.
 
+(4) A földrészletre vonatkozó szabályokat kell alkalmazni a mezőgazdasági termelés célját szolgáló földre, ha
+
+- a) az örökség visszautasítása útján szállt a Magyar Államra, vagy
+- b) az örökös a hagyatéki eljárásban a Magyar Állam részére felajánlotta.
+
 16. § (1) E törvény erejénél fogva a Nemzeti Földalapba kerül – a (2) bekezdésben meghatározott kivétellel – az állam által bármely jogcímen megszerzett földrészlet.
 
 (2) Az állam javára kisajátított, egyébként e törvény hatálya alá tartozó földrészlet nem kerül a Nemzeti Földalapba.

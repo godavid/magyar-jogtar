@@ -10,7 +10,7 @@ Az Országgyűlés a polgárok, így különösen a fiatalkorúak egészségéne
 
 (2) Törvény vagy az annak végrehajtására kiadott jogszabály az egyes árukra vonatkozó vagy az egyes kommunikációs eszközök útján megvalósuló gazdasági reklámtevékenységre külön szabályokat állapíthat meg. Ha a külön törvény eltérően nem rendelkezik, az ilyen szabályok megsértésére e törvény rendelkezéseit megfelelően alkalmazni kell.
 
-(3) A rádió és televízió műsorszolgáltatásában közzétett reklámra – ha e törvénytől eltérő követelményeket állapít meg – a rádiózásról és televíziózásról szóló 1996. évi I. törvényben foglalt rendelkezéseket kell alkalmazni.
+(3) Az audiovizuális és rádiós médiaszolgáltatásban közzétett reklámra a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvényt, valamint a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvényt is alkalmazni kell.
 
 2. § E törvénynek a megtévesztő reklámra vonatkozó rendelkezéseit csak annyiban kell alkalmazni, amennyiben a reklám címzettje kizárólag vállalkozás vagy önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró nem természetes személy.
 
@@ -29,7 +29,7 @@ Az Országgyűlés a polgárok, így különösen a fiatalkorúak egészségéne
 - k) reklám közzétevője: aki a reklám közzétételére alkalmas eszközökkel rendelkezik és ezek segítségével a reklámot megismerhetővé teszi,
 - l) reklámozó: akinek érdekében a reklámot közzéteszik, illetve aki a reklámot megrendeli,
 - m) reklámszolgáltató: aki önálló gazdasági tevékenysége körében a reklámot megalkotja, létrehozza, illetve ezzel összefüggésben egyéb szolgáltatást nyújt,
-- n) sajtótermék: az időszaki lap egyes lapszámai, a rádió- és televízió-műsor, a könyv, a röplap és az egyéb szöveges kiadvány – ide nem értve a bankjegyet és az értékpapírt –, a zeneművet, grafikát, rajzot vagy fotót tartalmazó kiadvány, a térkép, a nyilvános közlésre szánt műsoros filmszalag, videokazetta, videolemez, hangszalag és hanglemez, továbbá bármely más tájékoztatást vagy műsort tartalmazó, nyilvános közlésre szánt technikai eszköz,
+- n) sajtótermék: a napilap és más időszaki lap egyes számai, valamint az internetes újság vagy hírportál, amelynek tartalmáért valamely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság szerkesztői felelősséget visel, és amelynek elsődleges célja szövegből, illetve képekből álló tartalmaknak a nyilvánossághoz való eljuttatása tájékoztatás, szórakoztatás vagy oktatás céljából, nyomtatott formátumban vagy valamely elektronikus hírközlő hálózaton keresztül.
 - o) szabadtéri reklámhordozó: reklám közzététele céljából építményen kívül elhelyezett eszköz,
 - p) szponzorálás: minden olyan hozzájárulás valamely rendezvényhez, tevékenységhez, továbbá – rendezvénnyel vagy tevékenységgel összefüggésben – valamely személy számára, amelynek célja, illetve közvetlen vagy közvetett hatása valamely áru vásárlásának vagy igénybevételének ösztönzése,
 - q) tudatosan nem észlelhető reklám: olyan reklám, amelynek közzétételekor – az időtartam rövidsége vagy más ok következtében – a reklám címzettjére lélektani értelemben a tudatos észleléshez szükséges ingerküszöbnél kisebb erősségű látvány, hang- vagy egyéb hatás keltette inger hat,
@@ -115,7 +115,7 @@ vonatkoznak.
 - c) ha tartalmazza az áruk árainak összehasonlítását, köteles azt tárgyilagosan bemutatni,
 - d) eredetmegjelöléssel rendelkező termékek összehasonlítása esetén kizárólag azonos eredetmegjelölésű termékekre vonatkozhat.
 
-(3) Jogszerű összehasonlító reklám esetében a védjegyjogosult kizárólagos használati joga alapján nem léphet fel védjegyének az összehasonlító reklámban történő – a célnak megfelelő módon megvalósuló – használatával szemben, feltéve, hogy a védjegy használata elengedhetetlen az összehasonlításhoz és nem haladja meg a feltétlenül szükséges mértéket.
+(3)
 
 ### Az egyes áruk reklámozására és az azokkal összefüggésben történő szponzorálásra vonatkozó tilalmak és korlátozások
 
@@ -237,7 +237,7 @@ vonatkoznak.
 
 (4) E törvény rendelkezései – a 24. § (2) és (4) bekezdésében meghatározottak kivételével – az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
-(5) A műsorszolgáltatóval szemben kiszabott bírságot a Műsorszolgáltatás Támogató és Vagyonkezelő Alapba kell befizetni.
+(5) A médiaszolgáltatóval szemben kiszabott bírságot a Médiaszolgáltatás-támogató és Vagyonkezelő Alapba kell befizetni.
 
 26/A. § (1) A Pénzügyi Szervezetek Állami Felügyelete eljárására az e törvényben meghatározott eltérésekkel a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény rendelkezéseit kell alkalmazni.
 

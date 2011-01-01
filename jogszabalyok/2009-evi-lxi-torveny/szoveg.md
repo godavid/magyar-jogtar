@@ -125,7 +125,7 @@ fedezetére vehető igénybe a végrehajtás szabályai szerint, ha az engedély
 
 (5) Az engedélykérelemhez csatolni kell az előírt feltételek teljesítését igazoló, közigazgatási hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara nyilvántartásában nem szereplő eredeti okmányokat, iratokat, nyilatkozatokat, dokumentációkat vagy azok hitelesített másolatát. A benyújtott kérelmet és a kiadott engedélyt a fémkereskedelmi hatóság – a csatolt iratok kivételével – honlapján nyilvánosságra hozza.
 
-(6) Ha az engedélykérelem az e törvényben foglaltaknak megfelel, a fémkereskedelmi hatóság az engedélyt a tevékenységi biztosíték nyújtásának igazolását követő tíz munkanapon belül kiadja.
+(6) Ha az engedélykérelem az e törvényben foglaltaknak megfelel, a fémkereskedelmi hatóság az engedélyt a tevékenységi biztosíték nyújtásának igazolását követő tizenöt napon belül kiadja.
 
 (7) A fémkereskedő az engedélykérelemben megadott, illetve az engedélyben rögzített adatok változását haladéktalanul köteles a fémkereskedelmi hatósághoz bejelenteni, abban az esetben is, ha az egyébként az engedély módosítását nem igényli.
 
@@ -200,7 +200,7 @@ fémkereskedelmi engedélyköteles anyag hasznosítását.
 
 (5) A lefoglalt anyagot, dolgot és eszközt el kell kobozni, ha az ügyben jogerősen a 11. § (2) bekezdés a) pontja szerinti bírságot szabnak ki.
 
-(6) A jogsértéssel érintett anyag szállítására, tárolására, raktározására és hasznosítására használt, a jogsértés elkövetőjének tulajdonát képező eszközt el kell kobozni, ha a jogerősen kiszabott adót, bírságot, illetve egyéb költséget az előírt határidőig nem fizették meg, és arra részletfizetést vagy fizetési halasztást – a fizetési kötelezettség esedékességétől számított öt munkanapon belül benyújtott kérelem alapján – nem engedélyeztek.
+(6) A jogsértéssel érintett anyag szállítására, tárolására, raktározására és hasznosítására használt, a jogsértés elkövetőjének tulajdonát képező eszközt el kell kobozni, ha a jogerősen kiszabott adót, bírságot, illetve egyéb költséget az előírt határidőig nem fizették meg, és arra részletfizetést vagy fizetési halasztást – a fizetési kötelezettség esedékességétől számított nyolc napon belül benyújtott kérelem alapján – nem engedélyeztek.
 
 13. § (1) A fémkereskedelmi hatóság nyilvántartást vezet az eltulajdonított fémkereskedelmi engedélyköteles anyagok azonosításához szükséges adatokról, amelyet honlapján közzétesz.
 

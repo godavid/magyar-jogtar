@@ -93,7 +93,7 @@ Az Országgyűlés a mérések hazai és nemzetközi egységességének és pont
 - a) az adott mérőeszközre vonatkozó jogszabály ezt kifejezetten megengedi, vagy
 - b) a mérőeszköz a 6. § (4) bekezdése alapján került hazai forgalomba.
 
-(3) A hitelesítési engedély iránti eljárásban az ügyintézési határidő 45 munkanap.
+(3) A hitelesítési engedély iránti eljárásban az ügyintézési határidő két hónap.
 
 (4) A hitelesítési engedély megszerzéséről a mérőeszköz belföldi forgalomba hozója, vagy ha ez nem állapítható meg egyértelműen, a mérőeszköz felhasználója tartozik gondoskodni.
 
@@ -168,7 +168,7 @@ rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a mérésügyi szerv irányítását ellátó miniszter, hogy a mérőeszközökre vonatkozó egyedi előírásokat tartalmazó szabályokat, a mérőedényként használt palackok forgalomba hozatalának feltételeit, illetve az előrecsomagolt iparcikkek és élelmiszerek megengedett tömeg- és térfogatmértékeit és az ellenőrzés módszereit rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap a mérésügyi szerv irányítását ellátó miniszter, hogy az adópolitikáért felelős miniszterrel és a közigazgatási informatikáért felelős miniszterrel egyetértésben a mérésügyi hatóság részére a mérésügyi eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, rendeletben állapítsa meg.
+(5) Felhatalmazást kap a mérésügyi szerv irányítását ellátó miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a mérésügyi hatóság részére a mérésügyi eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, rendeletben állapítsa meg.
 
 (6) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a kötelező hitelesítésű mérőeszközök mérésügyi követelményeit, a hitelesítés általános feltételeit és eljárási szabályait rendeletben állapítsa meg.
 

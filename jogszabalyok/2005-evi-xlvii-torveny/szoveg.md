@@ -45,7 +45,7 @@ az igazságügyi szakértői tevékenységről
 
 (5) Az igazságügyi szakértői tevékenység folytatásának a (3) bekezdés b) pontjában meghatározott feltételeit, így különösen az igazságügyi szakértők szakterületének besorolását és a szakterületekhez kapcsolódó képesítési és egyéb szakmai feltételeket a miniszter rendeletben határozza meg.
 
-(6) Az igazságügyi szakértői tevékenység folytatásához szükséges szakmai gyakorlat szakirányú jellegének igazolására az igazságügyi szakértői névjegyzéket vezető hatóság szakhatósági állásfoglalást szerez be. A szakhatóság eljárására irányadó ügyintézési határidő húsz munkanap.
+(6) Az igazságügyi szakértői tevékenység folytatásához szükséges szakmai gyakorlat szakirányú jellegének igazolására az igazságügyi szakértői névjegyzéket vezető hatóság szakhatósági állásfoglalást szerez be. A szakhatóság eljárására irányadó ügyintézési határidő harminc nap.
 
 (7) A miniszter a rendeletében az igazságügyi szakértői tevékenység folytatásához kötelező szakmai gyakorlat időtartamára egyes szakterületeken öt évnél rövidebb határidőt állapíthat meg, ha
 
@@ -133,7 +133,7 @@ az igazságügyi szakértői tevékenységről
 
 (5) Az (1) bekezdés i) pontja esetén az igazságügyi szakértői névjegyzéket vezető hatóság a névjegyzékbe a halál tényét hivatalból, mérlegelés nélkül bejegyzi, és ezzel egyidejűleg a szakértőt az igazságügyi szakértői névjegyzékből törli.
 
-9. § (1) Az igazságügyi szakértői névjegyzéket vezető hatóság a kérelem benyújtásától számított 30 munkanapon belül dönt.
+9. § (1) Az igazságügyi szakértői névjegyzéket vezető hatóság a kérelem megérkezését követő naptól számított negyven napon belül dönt.
 
 (2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérve, ha az igazságügyi szakértői névjegyzéket vezető hatóság a rá irányadó ügyintézési határidőn belül nem döntött, a kérelmezőt nem illeti meg az igazságügyi szakértői tevékenység megkezdésének, illetve folytatásának joga, és a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a hatóság mulasztására vonatkozó általános szabályait kell alkalmazni. Ha a szakhatóság az igazságügyi szakértői tevékenység folytatásához szükséges gyakorlati idő szakirányúságáról szóló állásfoglalását határidőben nem adja ki, a szakhatóság hozzájárulását nem lehet megadottnak tekinteni.
 
@@ -183,7 +183,7 @@ az igazságügyi szakértői tevékenységről
 
 (3) Az igazságügyi szakértő, a társaság, az igazságügyi szakértői intézmény és az igazságügyi szakértői testület megbízás alapján is adhat szakvéleményt, ha ez a kirendelő hatóságoktól származó feladatainak ellátását nem akadályozza és azzal nem összeférhetetlen; a szakértői tevékenységre e törvény rendelkezéseit kell megfelelően alkalmazni.
 
-(4) A szakértő köteles a tudomására jutásától számított három munkanapon belül – szakértői intézmény, társaság vagy szervezet kirendelése esetén nyolc munkanapon belül, annak vezetője útján – közölni a kirendelő hatósággal, ha
+(4) A szakértő köteles a tudomására jutásától számított öt napon belül – szakértői intézmény, társaság vagy szervezet kirendelése esetén tíz napon belül, annak vezetője útján – közölni a kirendelő hatósággal, ha
 
 - a) a személyére nézve törvényben meghatározott kizáró ok áll fenn,
 - b) a feltett kérdések megválaszolása egészben vagy részben nem tartozik azon szakismeretei körébe, amelyekben a szakértő a rá irányadó szabályok szerint jogosult eljárni,
@@ -365,7 +365,7 @@ az igazságügyi szakértői tevékenységről
 
 (3) A szakértőjelölt az igazságügyi szakértői tevékenység folytatásához szükséges elméleti és gyakorlati ismeretek megszerzése érdekében – igazságügyi szakértő szakmai felügyeletével – közreműködik a szakvélemény előkészítésében.
 
-(4) A szakértőjelölt kérelmére a szakértői kamara a szakértőjelölti minőség igazolására igazgatási szolgáltatási díj ellenében 10 munkanapon belül hatósági igazolványt állít ki, amely tartalmazza a szakértőjelölt nevét, születési helyét és idejét, anyja születési nevét, a szakértőjelölti igazolvány számát, valamint a szakértőjelölt munkájának felügyeletét ellátó igazságügyi szakértő nevét és nyilvántartási számát. Az igazolvány kiállítására az a szakértői kamara illetékes, amelynek a szakértőjelölt munkájának felügyeletét ellátó igazságügyi szakértő a tagja.
+(4) A szakértőjelölt kérelmére a szakértői kamara a szakértőjelölti minőség igazolására igazgatási szolgáltatási díj ellenében tizenöt napon belül hatósági igazolványt állít ki, amely tartalmazza a szakértőjelölt nevét, születési helyét és idejét, anyja születési nevét, a szakértőjelölti igazolvány számát, valamint a szakértőjelölt munkájának felügyeletét ellátó igazságügyi szakértő nevét és nyilvántartási számát. Az igazolvány kiállítására az a szakértői kamara illetékes, amelynek a szakértőjelölt munkájának felügyeletét ellátó igazságügyi szakértő a tagja.
 
 (5) A szakértői kamara az igazolványt akkor állítja ki, ha a szakértőjelölt a kérelemhez mellékelte a munkája felügyeletének alapjául szolgáló jogviszonyról szóló okiratot.
 

@@ -81,7 +81,7 @@ a közjegyzőkről
 
 (7) A kamarai nyilvántartásból történő törlés iránti eljárást hivatalból meg kell indítani, ha a kamara a törlési okról tudomást szerez. A kamara a törlési eljárás során az ügyfelet nyilatkozattételre és adatszolgáltatásra kötelezheti.
 
-(8) Az eljárásban a hiánypótlásra való felhívást a területi kamarának a kérelem beérkezését követő első ülésén, de legkésőbb tíz munkanapon belül kell kibocsátania.
+(8) Az eljárásban a hiánypótlásra való felhívást a területi kamarának a kérelem beérkezését követő első ülésén, de legkésőbb tizenöt napon belül kell kibocsátania.
 
 (9) Ha a kamara a névjegyzékbe történő bejegyzés vagy a nyilvántartásba vétel iránti kérelemnek helyt ad, az erről szóló határozatnak kell tekinteni a nyilvántartásba vételről kiállított okiratot. Az okiratnak tartalmaznia kell
 
@@ -380,7 +380,7 @@ a közjegyzőkről
 
 31/D. § (1) A közjegyzői iroda alapításához a területi kamara elnökségének az engedélye szükséges (alapítási engedély), az engedélyezés iránti kérelmet az alapító okirat elfogadásától számított 8 napon belül kell a területi kamara elnökségéhez előterjeszteni. Így kell eljárni a közjegyzői irodai tagság létesítése esetén is.
 
-(2) A területi kamara elnöksége a közjegyzői iroda részére az alapítási engedélyt negyvenöt munkanapon belül megadja, ha
+(2) A területi kamara elnöksége a közjegyzői iroda részére az alapítási engedélyt két hónapon belül megadja, ha
 
 - a) alapító okirata megfelel az irányadó jogszabályoknak,
 - b) tagja megfelel a közjegyzői irodai tagságra e törvényben meghatározott követelményeknek.
@@ -1189,7 +1189,7 @@ ellenőrzése céljából megkeresi a személyiadat- és lakcímnyilvántartást
 
 - a) írástudatlan, illetőleg olvasásra vagy nevének aláírására képtelen,
 - b) nem ért azon a nyelven, amelyen a közjegyzői okirat készül,
-- c) vak, süket vagy süketnéma,
+- c) vak,
 - d) az ügyleti tanúk bevonását kéri.
 
 125. § Nem lehet ügyleti tanú az, aki
@@ -1203,23 +1203,15 @@ ellenőrzése céljából megkeresi a személyiadat- és lakcímnyilvántartást
 
 (2) A fél kérheti, hogy az ügyleti tanúk csak a közjegyzői okirat aláírásánál legyenek jelen; ilyenkor a fél a tanúk előtt kijelenti, hogy a közjegyzői okirat felolvasása megtörtént, illetőleg kérte a közokirat felolvasásának mellőzését, az okirat tartalma az akaratával megegyező, és az okiratot a tanúk jelenlétében aláírja. Mindezeknek az okiratból ki kell tűnniük.
 
-(3) Ha a fél vak, süket vagy süketnéma, az ügyleti tanúk jelenléte a közjegyzői okirat készítésének teljes ideje alatt kötelező.
+(3) Ha a fél vak, az ügyleti tanúk jelenléte a közjegyzői okirat készítésének teljes ideje alatt kötelező.
 
-127. § (1) Ha a süket fél olvasni tud, a közjegyzői okiratot maga olvassa el; ellenkező esetben az ügyleti tanúkon kívül a jelbeszédét értő bizalmi személy közreműködése is szükséges.
+127. § A közjegyzői okirat készítésekor
 
-(2) Ha a néma vagy süketnéma fél írni és olvasni tud, a közjegyzői okiratot elolvassa, és arra saját kezűleg ráírja, hogy elolvasás után az akaratával megegyezőnek találta. Ellenkező esetben az ügyleti tanúkon kívül a jelbeszédét értő bizalmi személy közreműködése is szükséges.
+- a) a hallássérült személy kérésére jelnyelvi tolmács közreműködésével vagy írásban;
+- b) a siketvak személy kérésére jelnyelvi tolmács közreműködésével;
+- c) a beszédfogyatékos személy kérésére írásban
 
-(3) A jelbeszéd megértéséről a közjegyző meggyőződik.
-
-[Ktv.127. § A közjegyzői okirat készítésekor
-
-a) a hallássérült személy kérésére jelnyelvi tolmács közreműködésével vagy írásban;
-
-b) a siketvak személy kérésére jelnyelvi tolmács közreműködésével;
-
-c) a beszédfogyatékos személy kérésére írásban
-
-kommunikálhat.]
+kommunikálhat.
 
 128. § Ha a közjegyzőnek a fél által beszélt nyelvből nincs nyelvi jogosítványa, a közjegyzői okiratot magyar nyelven tolmács közreműködésével készíti el.
 

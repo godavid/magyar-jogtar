@@ -40,7 +40,7 @@ az igazságügyi szakértői kamaráról
 
 (5) A kamarai nyilvántartásból történő törlés iránti eljárást hivatalból meg kell indítani, ha a kamara a törlési okról tudomást szerez. A kamara a törlési eljárás során az ügyfelet nyilatkozattételre és adatszolgáltatásra hívhatja fel.
 
-(6) Ha az ügyfél a kérelmet hiányosan nyújtotta be, az elnökség a kérelem beérkezésétől számított tíz munkanapon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel.
+(6) Ha az ügyfél a kérelmet hiányosan nyújtotta be, az elnökség a kérelem beérkezésétől számított tizenöt napon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel.
 
 (7)
 
@@ -101,7 +101,7 @@ az igazságügyi szakértői kamaráról
 
 (3) A felfüggesztés az (1) bekezdés a) pontja esetében az eljárás jogerős befejezéséig, a b) pont esetében egy évig tart.
 
-(4) A felfüggesztés ellen a szakértő, képviselője és az igazságügyért felelős miniszter a határozat kézbesítésétől számított tíz munkanapon belül fellebbezést nyújthat be a MISZK elnökségéhez. A területi elnökség az (1) bekezdés a) pontja szerinti döntést – fontos közrendvédelmi okból – fellebbezésre tekintet nélkül végrehajthatónak nyilváníthatja.
+(4) A felfüggesztés ellen a szakértő, képviselője és az igazságügyért felelős miniszter a határozat kézbesítésétől számított tizenöt napon belül fellebbezést nyújthat be a MISZK elnökségéhez. A területi elnökség az (1) bekezdés a) pontja szerinti döntést – fontos közrendvédelmi okból – fellebbezésre tekintet nélkül végrehajthatónak nyilváníthatja.
 
 (5) Ha a MISZK elnöksége a fellebbezést elutasította, a határozata ellen a szakértő, képviselője és az igazságügyért felelős miniszter a határozat kézbesítésétől számított 30 napon belül bírósághoz fordulhat.
 
@@ -205,9 +205,9 @@ területén.
 - i) határoz az etikai eljárás során a területi kamara etikai bizottságának elnökével szemben előterjesztett kizárási indítványról, és az etikai bizottság elnökének kizárása esetén – ha az etikai tanács határozatképtelenné válik – új etikai tanácsot jelöl ki,
 - j) ellátja azokat a feladatokat, amelyeket jogszabály vagy az alapszabály a hatáskörébe utal.
 
-9/A. § (1) A területi elnökség a szünetelés iránti kérelemről a benyújtásától számított 22 munkanapon belül határoz.
+9/A. § (1) A területi elnökség a szünetelés iránti kérelemről a megérkezését követő naptól számított harminc napon belül határoz.
 
-(2) A határozat ellen a kérelmező a kézbesítéstől számított tíz munkanapon belül a MISZK elnökségéhez fellebbezhet.
+(2) A határozat ellen a kérelmező a kézbesítéstől számított tizenöt napon belül a MISZK elnökségéhez fellebbezhet.
 
 (3) Ha a MISZK elnöksége a fellebbezést elutasította, a kérelmező a határozat kézbesítésétől számított 30 napon belül a polgári perrendtartásról szóló törvény közigazgatási perekre irányadó szabályai szerint a bírósághoz fordulhat.
 

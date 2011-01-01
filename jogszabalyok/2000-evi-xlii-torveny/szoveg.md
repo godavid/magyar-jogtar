@@ -44,10 +44,10 @@ terjed ki.
 - b) az f) és a h) pontjaiban rögzített feladatokat a közlekedésért felelős miniszter (a továbbiakban: a miniszter),
 - c) a b) pontjában rögzített feladatot a miniszter az államháztartásért felelős miniszterrel és a gazdaságpolitikáért felelős miniszterrel együttesen,
 - d) a c) pontjában megállapított feladatot – feladatkörében – a miniszter, a külpolitikáért felelős miniszter és az egészségügyért felelős miniszter,
-- e) a d) pontjában rögzített feladatot a miniszter a külpolitikáért felelős miniszterrel, a külgazdaságért felelős miniszterrel és az országos szintű fejlesztés, fejlesztési tervezés és programozás irányításáért felelős miniszterrel egyetértésben,
-- f) a g) pontjában rögzített feladatot a miniszter a külgazdaságért felelős miniszterrel együttesen,
-- g) az i) pontjában rögzített feladatot a miniszter az országos szintű fejlesztés, fejlesztési tervezés és programozás irányításáért felelős miniszterrel, a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel, a határkikötők tekintetében a határrendészetért felelős miniszterrel is együttesen,
-- h) a j) pontjában rögzített feladatot a miniszter az országos szintű fejlesztés, fejlesztési tervezés és programozás irányításáért felelős miniszterrel, a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,
+- e) a d) pontjában rögzített feladatot a miniszter a külpolitikáért felelős miniszterrel, a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszterrel és a fejlesztéspolitikáért felelős miniszterrel egyetértésben,
+- f) a g) pontjában rögzített feladatot a miniszter a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszterrel együttesen,
+- g) az i) pontjában rögzített feladatot a miniszter a fejlesztéspolitikáért felelős miniszterrel, a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel, a határkikötők tekintetében a határrendészetért felelős miniszterrel is együttesen,
+- h) a j) pontjában rögzített feladatot a miniszter a fejlesztéspolitikáért felelős miniszterrel, a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,
 - i) a k) pontjában rögzített feladatot a honvédelemért felelős miniszter a katasztrófák elleni védekezésért felelős miniszterrel együttesen, a miniszterrel és a gazdaságpolitikáért felelős miniszterrel egyetértésben,
 - j) az l) pontjában rögzített feladatot a miniszter a szakképzésért és felnőttképzésért felelős miniszterrel egyetértésben,
 - k) az m) pontjában rögzített feladatot a miniszter az egészségügyért felelős miniszterrel egyetértésben,
@@ -72,7 +72,7 @@ látja el.
 
 4. § (1) A hajózással, a víziutakkal és a kikötőkkel összefüggő állami feladatok körében az igazgatási tevékenységet, a 2. § (2) bekezdésében megjelölt munkamegosztásra is figyelemmel, a miniszter – a (4) bekezdésben, továbbá az 5–6. §-okban megállapított kivétellel – az egységes közlekedési igazgatási szervezet, valamint a vízügyi igazgatási szervezet útján végzi.
 
-(2) Az egységes közlekedési igazgatási szervezeten belül működő hajózási igazgatási szervezet részei a miniszter által vezetett ágazati minisztérium, továbbá a hajózással összefüggő igazgatási feladatok ellátására létrehozott központi és területi szervek (a továbbiakban együtt: hajózási hatóságok).
+(2) Az egységes közlekedési igazgatási szervezeten belül működő hajózási igazgatási szervezet részei a miniszter által vezetett minisztérium, továbbá a hajózással összefüggő igazgatási feladatok ellátására létrehozott központi és területi szervek (a továbbiakban együtt: hajózási hatóságok).
 
 (3) A hajózási hatóság eljárásáért külön jogszabályban meghatározott díjat kell fizetni.
 
@@ -365,7 +365,7 @@ lajstromban tartja nyilván.
 
 (5) A hajóparancsnokként alkalmazandó személy a hajóparancsnoki megbízást megelőzően az üzemben tartó részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben a (4) bekezdésben meghatározott kizáró ok (a továbbiakban: kizáró ok) nem áll fenn.
 
-(6) A megbízás időtartama alatt a hajóparancsnok az üzemben tartó írásbeli, a mulasztás jogkövetkezményeit ismertető felhívására, a felhívástól számított tizenöt munkanapon belül – ha e határidőn belül a hajóparancsnokon kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – hatósági bizonyítvánnyal igazolja, hogy vele szemben a (4) bekezdésben meghatározott kizáró ok nem áll fenn.
+(6) A megbízás időtartama alatt a hajóparancsnok az üzemben tartó írásbeli, a mulasztás jogkövetkezményeit ismertető felhívására, a felhívástól számított húsz napon belül – ha e határidőn belül a hajóparancsnokon kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – hatósági bizonyítvánnyal igazolja, hogy vele szemben a (4) bekezdésben meghatározott kizáró ok nem áll fenn.
 
 35. § (1) A több úszólétesítményből álló kötelék vezetője a köteléket továbbító hajó vezetője.
 
@@ -421,7 +421,7 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 
 (5) A hajóparancsnoki megbízatást az üzemben tartó azonnali hatállyal megszünteti, ha
 
-- a) a hajóparancsnok a 34. § (5) bekezdés b) pontjában foglalt kötelezettségének az ismételt szabályszerű felhívástól számított tizenöt munkanapon belül sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívül álló ok következménye, az ismételt felhívástól számított tizenötödik munkanapon,
+- a) a hajóparancsnok a 34. § (5) bekezdés b) pontjában foglalt kötelezettségének az ismételt szabályszerű felhívástól számított húsz napon belül sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívül álló ok következménye, az ismételt felhívástól számított huszadik napon,
 - b) ha a 34. § (4) bekezdésében meghatározott kizáró ok fennállását az üzemben tartó az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalma alapján megállapítja, e megállapításnak a hajóparancsnok részére történő kézbesítése napján.
 
 (6) A hajóparancsnoki megbízatás (5) bekezdésben meghatározott okból történő megszüntetését írásban, az ok megjelölésével kell közölni a hajóparancsnokkal.
@@ -870,7 +870,7 @@ vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizet�
 
 80. § (1) Azt a közforgalmú kikötőt, amelynek földterülete állami tulajdonban vagy az állam meghatározó többségével létrehozott vagyonkezelő társaság kezelésében van, és amely alapvető közlekedési infrastukturális ellátottsága lehetővé teszi átrakodási, elosztási központként a vízi, vasúti és a közúti személy-, illetőleg áruforgalom összekapcsolását, országos közforgalmú kikötővé lehet nyilvánítani.
 
-(2) Közforgalmú kikötőt – a miniszter, az országos szintű fejlesztés, fejlesztési tervezés és programozás irányításáért felelős miniszter és a gazdaságpolitikáért felelős miniszter együttes javaslatára – a Kormány határozatával nyilvánítja országos közforgalmú kikötővé.
+(2) Közforgalmú kikötőt – a miniszter, a fejlesztéspolitikáért felelős miniszter és a gazdaságpolitikáért felelős miniszter együttes javaslatára – a Kormány határozatával nyilvánítja országos közforgalmú kikötővé.
 
 (3) Az országos közforgalmú kikötőt az állam az általa vagy részvételével e célra alapított gazdasági társaság útján működteti, illetve az országos közforgalmú kikötő földterületét bérbeadás útján hasznosítja.
 
@@ -991,18 +991,18 @@ rendeletben történő megállapítására.
 - o) a veszélyes áruk tengeri és belvízi fuvarozásának,
 - p) a víziközlekedés rendjének,
 - q) a havaria vizsgálata rendjének a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben,
-- r) a hajózási egészségi alkalmasság feltételeinek és vizsgálati rendjének az egészségügyért felelős miniszterrel együttesen,
+- r) a hajózási egészségi alkalmasság feltételeinek és vizsgálati rendjének az egészségügyért felelős miniszter egyetértésével kiadott,
 - s) a hajózási képesítések megszerzése feltételeinek és rendjének, valamint a kiadandó okmányok (bizonyítványok) formai és tartalmi követelményeinek az oktatási, valamint a rádiószolgálatok állomáskezelőire vonatkozó követelmények meghatározása tekintetében az elektronikus hírközlésért felelős miniszterrel egyetértésben,
 - t) a hajózási bírság kivetése részletes szabályainak és a bírság felhasználása rendjének az adópolitikáért felelős miniszterrel egyetértésben,
 - u) a hajózási hatósági eljárások díjainak, valamint e díjaknak az eljáró hatóság, illetve a felügyeleti és irányítási feladatot ellátó szervezetek közötti megosztása szabályainak, továbbá a hajózási képesítő vizsgák díjainak az adópolitikáért felelős miniszterrel egyetértésben,
 - v) az utasnyilvántartás vezetése részletes szabályainak,
 - w) a Belvízi Hajózási Alapprogram működtetése részletes szabályainak,
 - x) a rajnai hajózásban való részvételi jogosultságot igazoló okmány kiadása részletes szabályainak
-- y) a víziút más nyomvonalas létesítmény által történő megközelítése, keresztezése részletes szabályainak az elektronikus hírközlésért felelős miniszterrel, az energetikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben,
+- y) a víziút más nyomvonalas létesítmény által történő megközelítése, keresztezése részletes szabályainak az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben,
 
 rendeletben történő megállapítására.
 
-(3) Felhatalmazást kap a rendészetért felelős miniszter a hajózással kapcsolatos rendőrhatósági tevékenység szabályainak – ideértve az eljáró hatóság feladat- és hatáskörét, továbbá a hatósági tevékenységre vonatkozó rendelkezéseket is – a miniszterrel együttesen, rendeletben történő megállapítására.
+(3) Felhatalmazást kap a rendészetért felelős miniszter a hajózással kapcsolatos rendőrhatósági tevékenység szabályainak – ideértve az eljáró hatóság feladat- és hatáskörét, továbbá a hatósági tevékenységre vonatkozó rendelkezéseket is – a miniszter egyetértésével kiadott rendeletben történő megállapítására.
 
 (4) Felhatalmazást kap az egészségügyért felelős miniszter a hajózás egészségügyi és közegészségügyi-járványügyi követelményeinek és hatósági felügyelete szabályainak, továbbá az eljáró hatóság feladat- és hatáskörének, a miniszterrel egyetértésben, rendeletben történő megállapítására.
 
@@ -1017,7 +1017,7 @@ rendeletben történő megállapítására.
 
 (7) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter a hajózással kapcsolatos munkabiztonsági követelményeknek a miniszterrel és az egészségügyért felelős miniszterrel egyetértésben, rendeletben történő megállapítására.
 
-(8) Felhatalmazást kap a honvédelemért felelős miniszter a Magyar Honvédség személyi állományára, úszólétesítményeire, továbbá a honvédelmi célú, mederben és parton lévő, hajózást szolgáló létesítményeire vonatkozóan e törvényben foglaltaktól eltérő szabályoknak a miniszterrel együttesen, rendeletben történő megállapítására.
+(8) Felhatalmazást kap a honvédelemért felelős miniszter a Magyar Honvédség személyi állományára, úszólétesítményeire, továbbá a honvédelmi célú, mederben és parton lévő, hajózást szolgáló létesítményeire vonatkozóan e törvényben foglaltaktól eltérő szabályoknak a miniszter egyetértésével kiadott rendeletben történő megállapítására.
 
 89. § (1) Ez a törvény – a (2)–(4) bekezdésben foglalt kivétellel – 2001. január 1-jén lép hatályba.
 

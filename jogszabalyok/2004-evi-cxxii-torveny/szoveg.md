@@ -17,7 +17,7 @@ Az Országgyűlés a közszférában töltött életpálya elismerésének és m
 (3) E törvény közszférában indított prémiumévek programra, illetve különleges foglalkoztatási állományra vonatkozó rendelkezéseit megfelelően alkalmazni kell
 
 - a) arra a 2006. június 30-án közigazgatási vagy helyettes államtitkári kinevezéssel rendelkező személyre (a továbbiakban: állami vezető) is, akinek államtitkári állami vezetői szolgálati jogviszonya, közigazgatási államtitkári vagy helyettes államtitkári jogviszonya felmentéssel történő megszűnésére kerülne sor, és megfelel a 3. § (1) bekezdés a), b) és d) pontjában foglalt feltételeknek,
-- b) az autonóm államigazgatási szerv vezetőjére, helyettesére, testületi formában működő autonóm államigazgatási szerv esetében a testület tagjára, ha jogviszonya a határozott idejű kinevezése lejártára tekintettel szűnik meg, feltéve, hogy megfelel a 3. § (1) bekezdésének a) és b) pontjában foglalt feltételeknek.
+- b) az autonóm államigazgatási szerv vezetőjére, helyettesére, testületi formában működő autonóm államigazgatási szerv esetében a testület tagjára, a Pénzügyi Szervezetek Állami Felügyeletének elnökére és alelnökeire, ha jogviszonya a határozott idejű kinevezése lejártára tekintettel szűnik meg, feltéve, hogy megfelel a 3. § (1) bekezdésének a) és b) pontjában foglalt feltételeknek.
 
 (4) E törvény közszférában indított prémiumévek programra vonatkozó rendelkezéseit kell alkalmazni az (1) bekezdés d) pontjában szereplő munkáltatókra és munkavállalókra, valamint a (3) bekezdés b) pontjában meghatározott személyre és a vonatkozásában a 3. § (7) bekezdése alapján munkáltatónak minősülő szervre.
 
@@ -57,7 +57,7 @@ együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4)
 - a) a programban részt vevő legfeljebb 5 éven belül előrehozott öregségi nyugdíjra vagy az öregségi nyugdíjra való jogosultság életkori és szolgálati idővel kapcsolatos feltételeit megszerzi, feltéve, hogy előrehozott öregségi nyugdíjra nem jogosult, illetve csökkentett összegű előrehozott öregségi nyugdíjban nem részesül,
 - b) a programban részt vevő rendelkezik legalább huszonöt év közszférában jogviszonyban töltött idővel,
 - c) a programban részt vevő további foglalkoztatására
-  - ca) a Ktv. 17. § (1) bekezdés a)–c) pontjában, a Kjt. 30. § (1) bekezdés a) vagy b) pontjában meghatározott okból vagy az Mt. 89. § (3) bekezdése szerint a munkáltató működésével összefüggő okból nincs lehetőség, vagy
+  - ca) a Ktv. 17. § (1) bekezdésében, a Kjt. 30. § (1) bekezdés a) vagy b) pontjában meghatározott okból vagy az Mt. 89. § (3) bekezdése szerint a munkáltató működésével összefüggő okból nincs lehetőség, vagy
   - cb) a Ktjv. 8. § (1) bekezdés b) pontja szerinti felmentés miatt nincs lehetőség, és
 - d) a határozatlan idejű kinevezéssel rendelkező programban részt vevő hozzájárul határozatlan idejű foglalkoztatásra irányuló jogviszonyának határozott idejű jogviszonnyá történő módosításához, és elfogadja foglalkoztatásra irányuló jogviszonya tekintetében a prémiumévek programban történő részvétellel összefüggésben e törvényben meghatározott, a Ktv.-ben, a Kjt.-ben, illetve az Mt.-ben foglaltaktól eltérő szabályokat.
 
@@ -115,27 +115,14 @@ együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4)
 
 ### A prémiumévek program a költségvetési fenntartási körbe nem tartozó munkáltatóknál
 
-4/A. § (1) A prémiumévek programban való részvétel feltétele, hogy
-
-- a) a programban részt vevő legfeljebb három éven belül előrehozott öregségi nyugdíjra, vagy öregségi nyugdíjra jogosulttá válik, feltéve, hogy előrehozott öregségi nyugdíjra nem jogosult, illetve csökkentett összegű előrehozott öregségi nyugdíjban nem részesül, valamint további, foglalkoztatásra irányuló jogviszonnyal nem rendelkezik,
-- b) a programban részt vevő összesen legalább huszonöt év munkaviszonyban, közalkalmazotti, közszolgálati, szolgálati, ügyészségi, bírósági, igazságügyi alkalmazotti szolgálati jogviszonyban, hivatásos nevelőszülői jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban töltött idővel rendelkezik,
-- c) a programban részt vevő további foglalkoztatására az Mt. 89. §-ának (3) bekezdése szerint a munkáltató működésével összefüggő okból nincs lehetőség,
-- d) a határozatlan idejű munkaviszonyban álló programban részt vevő hozzájárul:
-  - da) a határozatlan idejű munkaviszony helyett határozott időre szóló munkaviszony, továbbá
-  - db) teljes munkaidő helyett legalább napi 4, illetve heti 20 órát kitevő részmunkaidő, valamint – a programban részt vevőnek a munkaszerződés módosítása időpontjában érvényes munkabére alapulvételével – ennek megfelelő mértékű munkabér,
-  - dc) a munkáltató által mérlegelési jogkörében felajánlott, a programban részt vevő iskolai végzettségének és képzettségének megfelelő munkakör kikötéséhez, és
-- e) elfogadja munkaviszonya tekintetében a prémiumévek programban történő részvétellel összefüggésben e törvényben meghatározott, az Mt.-ben foglaltaktól eltérő szabályokat.
-
-(2) A prémiumévek programban való részvételt a munkáltató mérlegelési jogkörében ajánlja fel a munkavállaló részére. A munkaviszony megszűnésére a 4. § (1) bekezdésében foglaltakat megfelelően alkalmazni kell.
-
-(3) A programban részt vevőt a munkáltató eredeti munkakörében, vagy az (1) bekezdés dc) pontja szerinti munkaszerződés-módosításkor megállapított munkakörben foglalkoztatja. Amennyiben a munkáltató a programban részt vevő számára munkát nem tud biztosítani, az állásidőre vonatkozó szabályokat kell alkalmazni.
+4/A. § A prémiumévek programban 2010. január 1-jét megelőző időponttól részt vevő, és a rájuk irányadó előrehozott öregségi nyugdíj összegének 2010. január 1-jétől hatályos változása miatt a kinevezésük módosítása szerinti jogviszony megszűnési időpontjánál későbbi időpontban teljes összegű nyugdíjjogosultságot szerző, programban részt vevő személyeknek a programban való részvétele meghosszabbodik teljes összegű nyugdíjjogosultságuk megszerzésének időpontjáig.
 
 ### A különleges foglalkoztatási állomány
 
 5. § (1) Amennyiben a közigazgatási szervnél alkalmazott köztisztviselő, ügykezelő (a továbbiakban együtt: köztisztviselő)
 
 - a) rendelkezik a Ktv. 72. § (1)–(4) bekezdése alapján legalább 10 év közszolgálati jogviszonyként elismert idővel,
-- b) további foglalkoztatására a Ktv. 17. § (1) bekezdés a)–c) pontjában meghatározott okból nincs lehetőség,
+- b) további foglalkoztatására a Ktv. 17. § (1) bekezdésében meghatározott okból nincs lehetőség,
 - c) a prémiumévek programban való részvétel 3. § (1) bekezdés a)–b) pontjában foglalt feltételeinek nem felel meg, és
 - d) hozzájárul határozatlan idejű közszolgálati jogviszonyának határozott idejű jogviszonnyá történő módosításához, és elfogadja jogviszonya tekintetében a különleges foglalkoztatási állománnyal összefüggésben e törvényben meghatározott, általánostól eltérő szabályokat, valamint
 - e) vállalja, hogy a különleges foglalkoztatási állomány időtartama alatt – külön jogszabályban meghatározottak szerint – elhelyezkedését segítő munkaerő-piaci szolgáltatásokat vesz igénybe,

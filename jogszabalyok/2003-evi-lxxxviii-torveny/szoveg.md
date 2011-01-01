@@ -50,10 +50,10 @@ Az energiagazdálkodás és a környezetvédelem céljainak figyelembevételéve
 - e) a felhasználó közvetlenül az Európai Unión kívüli országból energiát vásárol, kivéve a lakossági fogyasztó általi vásárlást,
 - f) a személy saját felhasználásra termel energiát, kivéve, ha a termelt villamos energiát megújuló energiaforrásból állítja elő, vagy a termelt energia felhasználása a 6. § (1) bekezdésében megjelölt célra történik, vagy a termelt villamos energiát adóval terhelt energia felhasználásával és 50 megawatt alatti teljesítményű erőműben állítja elő, feltéve, hogy nem él a 6. § (1) bekezdés b) és f) pontja szerinti adó-visszaigénylési jogosultságával,
 - g) az energiakereskedő saját célra használ fel energiát,
-- h) a felhasználó az a)–g) pontban nem említett esetben energiaadóval nem terhelt energiát vásárol,
+- h) a felhasználó az a)–g) pontban nem említett esetben energiaadóval nem terhelt energiát vásárol vagy használ fel,
 - i) a felhasználó a szén vásárlásakor valótlan nyilatkozatot tesz az energiakereskedőnek arról, hogy lakossági fogyasztó.
 
-(2) Az adó alanya az (1) bekezdés b) pontja esetében az energiakereskedő, az (1) bekezdés c)–e) pontja esetében a felhasználó, az (1) bekezdés f) pontja esetében az előállító, az (1) bekezdés g) pontja esetében az energiakereskedő, illetve a hálózati engedélyes, az (1) bekezdés h) és i) pontja esetében a felhasználó (a továbbiakban együtt: adóalany).
+(2) Az adó alanya az (1) bekezdés b) pontja esetében az energiakereskedő, az (1) bekezdés c)–e) pontja esetében a felhasználó, az (1) bekezdés f) pontja esetében az előállító, az (1) bekezdés g) pontja esetében az energiakereskedő, az (1) bekezdés h) és i) pontja esetében a felhasználó (a továbbiakban együtt: adóalany).
 
 4. § (1) Az adó alapja
 
@@ -72,7 +72,8 @@ Az energiagazdálkodás és a környezetvédelem céljainak figyelembevételéve
 - a) a 3. § (1) bekezdés b)–c) és h) pontja esetében az általános forgalmi adóról szóló törvény szerinti teljesítés időpontjában, az ellenérték, illetve a részkifizetések alapjául szolgáló mennyiségre,
 - b) a 3. § (1) bekezdés d) pontja esetében az adóbevallási időszak utolsó napján, az adóbevallási időszakban beszerzett energia mennyiségre,
 - c) a 3. § (1) bekezdés e) pontja esetében a vámjogi szabadforgalomba bocsátáskor, a vámjogi szabadforgalomba bocsátott mennyiségre,
-- d) a 3. § (1) bekezdés f)–g) pontja esetében a felhasználás időpontjában, a saját célra felhasznált energiamennyiségre
+- d) a 3. § (1) bekezdés f)–g) pontja esetében a felhasználás időpontjában, a saját célra felhasznált energiamennyiségre,
+- e) a 3. § (1) bekezdés i) pontja esetében a vásárláskor, a vásárolt szén mennyiségére
 
 keletkezik.
 
@@ -87,7 +88,8 @@ keletkezik.
 - e) az a személy, aki vegyipari alapanyagként használ fel földgázt;
 - f) az a személy, aki saját felhasználásra előállított villamos energia termelésére energiát használt fel;
 - g) az a személy, aki a párnagázkészlet feltöltésére vagy szinten tartására a föld alatti gáztárolóba, illetve a szállító- vagy elosztóvezeték feltöltése céljából a szállító- vagy elosztóvezetékbe földgázt tárol be;
-- h) az a személy, aki hálózati engedélyesként a hálózati veszteség pótlása céljából használ fel energiát.
+- h) az a személy, aki hálózati engedélyesként a hálózati veszteség pótlása céljából használ fel energiát;
+- i) az a személy, aki nem tüzelő-, vagy fűtőanyagként használ fel szenet.
 
 (2) Az adó-visszaigénylésre (adólevonásra) jogosult személy az (1) bekezdésben megjelölt célra ténylegesen felhasznált mennyiség után,
 
@@ -109,14 +111,14 @@ napján nyílik meg. A vételár megfizetésének napja a kötelezett bankszáml
 
 (5) Az adóvisszaigénylési (adólevonási) jogosultság érvényesítéséhez
 
-- a) az energia beszerzéséről kiállított, az adó feltüntetését is tartalmazó számlával, illetve kivetéses adózás esetén a vámhatóság adót megállapító határozatával,
+- a) az energia beszerzéséről kiállított, – a (2) bekezdés c) pontja szerinti esetet kivéve – az adó feltüntetését is tartalmazó számlával, illetve kivetéses adózás esetén a vámhatóság adót megállapító határozatával,
 - b) az energia (1) bekezdésben megjelölt célra történt felhasználását igazoló belső számviteli bizonylattal,
 - c) az összesen beszerzett energiának adóvisszaigénylésre, adólevonásra jogosító és adóvisszaigénylésre, adólevonásra nem jogosító felhasználásonkénti elszámolásával,
 - d) a (3) bekezdés szerinti esetben továbbá az adóvisszaigénylés, adólevonás alapjául szolgáló mennyiség levezetésével
 
 kell rendelkezni.
 
-(6) Az (5) bekezdés a) pontja szerinti számlaként olyan számla is elfogadható, amelyet az e törvény szerint adózottan beszerzett, és a külön jogszabály szerint jogszerűen, illetve szerződésszegésnek nem minősülő módon továbbadott energiáról állított ki a továbbadást végző közüzemi fogyasztó, feljogosított fogyasztó vagy felhasználó, és amelynek mellékletét képezi a továbbadást végző nevére kiállított, a továbbadott energia adóalanytól történt beszerzéséről szóló számla másolata.
+(6) Az (5) bekezdés a) pontja szerinti számlaként olyan számla is elfogadható, amelyet az e törvény szerint adózottan beszerzett, és a külön jogszabály szerint jogszerűen, illetve szerződésszegésnek nem minősülő módon továbbadott energiáról állított ki a továbbadást végző felhasználó, és amelynek mellékletét képezi a továbbadást végző nevére kiállított, a továbbadott energia adóalanytól történt beszerzéséről szóló számla másolata.
 
 ### Egyes eljárási szabályok
 

@@ -530,7 +530,7 @@ l) a kormányzati személyügyi igazgatási feladatokat ellátó szerv által le
 
 (5) E törvény 10. §-a és 16. §-a 2009. január 1-jén lép hatályba. A Ktv. e törvény 7. §-ával megállapított 10. § (8) bekezdése, valamint e törvény 14. §-a és 28. §-a 2011. január 1-jén lép hatályba.
 
-40. § (1) E törvény 8–9. §-át a minisztérium, a Miniszterelnöki Hivatal vezetőire és a kormányhivatal vezetőjére 2008. január 1-jétől, a központi hivatal és kormányhivatal vezetőire 2008. július 1-jétől, a központi államigazgatási szervek területi szerveinek vezetőire, helyi szerveit vezetőkre, a Kormány általános hatáskörű területi államigazgatási szerveinek és a helyi önkormányzatok törvényességi ellenőrzésére hatáskörrel rendelkező szerveknek a vezetőire 2009. július 1-jétől kell alkalmazni.
+40. § (1)
 
 (2) E törvény 7. §-ával módosított Ktv. 10. § (11) bekezdését és a 16. §-át 2009. július 1-jétől kell alkalmazni.
 
@@ -552,9 +552,7 @@ l) a kormányzati személyügyi igazgatási feladatokat ellátó szerv által le
 
 (2) E törvény 24. §-ával megállapított 49/N. § (4) bekezdésében foglaltakat csak e törvény hatálybalépését követően alapított elismerésekre kell alkalmazni.
 
-47. § (1) E törvény hatálybalépésével a központi államigazgatási szerveket, valamint területi és helyi szerveiket vezetőknek, továbbá a minisztériumi és a miniszterelnöki hivatalbeli főosztályvezetőknek a vezetői kinevezése, megbízása – hozzájárulásuk esetén – határozott idejű vezetői kinevezéssé, megbízássá alakul át – a (2) bekezdésben foglalt kivétellel – a törvény hatálybalépését követő 30. napon. A Ktv. 31. § (10) bekezdése szerinti hat éves megbízást e törvény hatálybalépését követő 30. naptól kell számítani. A vezetői megbízás átalakításához történő hozzájárulás hiányában a vezetői megbízást vissza kell vonni, és a Ktv. 31. § (8) és (9) bekezdését kell alkalmazni azzal az eltéréssel, hogy a köztisztviselői munkakör felajánlásával egyidejűleg szakmai főtanácsadói címet – a Miniszterelnöki Hivatal esetében kormány-főtanácsadói címet – is fel kell ajánlani számára. Ez esetben a szakmai főtanácsadói cím adományozásakor a Ktv. 30/A. § (1) bekezdésében meghatározott létszámkorlátot nem kell figyelembe venni.
-
-(2) A törvény hatálybalépését követő 30 napon belül a hivatali szervezet vezetője visszavonhatja az (1) bekezdésben meghatározott vezetők megbízását, kinevezését és pályázatot írhat ki a vezetői megbízásra, illetve kinevezésre. A vezetői megbízás, kinevezés visszavonása esetén az (1) bekezdésben meghatározottakat kell alkalmazni.
+47. §
 
 48. § A kormányzati szervezetalakítással összefüggő törvénymódosításokról szóló 2006. évi CIX. törvény 174. §-ának (5) bekezdése helyébe a következő rendelkezés lép:
 

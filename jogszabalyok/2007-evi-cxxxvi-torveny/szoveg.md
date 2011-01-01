@@ -86,7 +86,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (2) Az (1) bekezdés alkalmazásában fontos közfeladatot ellátó személy:
 
-- a) az államfő, a kormányfő, a miniszter, a miniszterhelyettes, az államtitkár,
+- a) az államfő, a kormányfő, a miniszter, az államtitkár,
 - b) az országgyűlési képviselő,
 - c) a legfelsőbb bíróság, alkotmánybíróság és olyan bírói testület tagja, melynek ítélete ellen fellebbezésnek helye nincs,
 - d) a számvevőszék elnöke, a számvevőszék testületének tagja, a központi bank igazgatóságának tagja,
@@ -157,7 +157,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
   - ab) külföldi természetes személy útlevele vagy személyi azonosító igazolványa, feltéve hogy az magyarországi tartózkodásra jogosít vagy tartózkodási jogot igazoló okmánya vagy tartózkodásra jogosító okmánya,
   - ac)
 - b) jogi személy, jogi személyiséggel nem rendelkező szervezet esetén a nevében vagy megbízása alapján eljárni jogosult személy a) pontban megjelölt okiratának bemutatásán túl az azt igazoló – 30 napnál nem régebbi – okiratot, hogy
-  - ba) a belföldi gazdálkodó szervezetet a cégbíróság bejegyezte, vagy a gazdálkodó szervezet a bejegyzési kérelmét benyújtotta; egyéni vállalkozó esetében azt, hogy az egyéni vállalkozói tevékenységről szóló bejelentését az egyéni vállalkozóról szóló törvényben meghatározottak szerint benyújtotta,
+  - ba) a belföldi gazdálkodó szervezetet a cégbíróság bejegyezte, vagy a gazdálkodó szervezet a bejegyzési kérelmét benyújtotta; egyéni vállalkozó esetében azt, hogy az egyéni vállalkozói igazolvány kiadása vagy a nyilvántartásba vételről szóló igazolás kiállítása megtörtént,
   - bb) belföldi jogi személy esetén, ha annak létrejöttéhez hatósági vagy bírósági nyilvántartásba vétel szükséges, a nyilvántartásba vétel megtörtént,
   - bc) külföldi jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén a saját országának joga szerinti bejegyzése vagy nyilvántartásba vétele megtörtént;
 - c) cégbejegyzési, hatósági vagy bírósági nyilvántartásba vétel iránti kérelem cégbírósághoz, hatósághoz vagy bírósághoz történő benyújtását megelőzően a jogi személy vagy jogi személyiséggel nem rendelkező szervezet társasági szerződését (alapító okiratát, alapszabályát).
@@ -220,7 +220,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - a) az 1. § (1) bekezdésének a)–e) és l) pontjában meghatározott tevékenységet az Európai Unió területén végző szolgáltató, vagy olyan, harmadik országban székhellyel rendelkező – az 1. § (1) bekezdésének a)–e) és l) pontjában meghatározott tevékenységet végző – szolgáltató, amelyre e törvényben meghatározottakkal egyenértékű követelmények vonatkoznak, és amely ezek betartása tekintetében felügyelet alatt áll;
 - b) olyan társaság, amelynek értékpapírjait egy vagy több tagállamban bevezették a szabályozott piacra, vagy azon harmadik országbeli társaság, amelyre a közösségi joggal összhangban lévő közzétételi követelmények vonatkoznak;
 - c) az 5. §-ban meghatározott felügyeletet ellátó szerv;
-- d) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. §-ában meghatározott – a c) pontba nem tartozó – központi államigazgatási szerv, vagy helyi önkormányzat;
+- d) helyi önkormányzat vagy a c) pontba nem tartozó központi államigazgatási szerv;
 - e) az Európai Közösség intézménye (az Európai Parlament, a Tanács, a Bizottság, a Bíróság, a Számvevőszék), az Európai Gazdasági és Szociális Bizottság, a Régiók Bizottsága, az Európai Központi Bank vagy az Európai Beruházási Bank.
 
 (2) Ha harmadik ország teljesíti az (1) bekezdés a)–b) pontjában megállapított feltételeket, a szolgáltató köteles erről tájékoztatni az 5. §-ban meghatározott felügyeletet ellátó szervet, amely haladéktalanul továbbítja ezen információkat a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszternek (a továbbiakban: miniszter).
@@ -313,7 +313,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (3) A Rendelet 15. cikkének (2) bekezdése által meghatározott „alkalmazásért felelős hatóság” és a (3) bekezdése által meghatározott „illetékes hatóság” a Felügyelet, az MNB vonatkozásában a pénzügyi információs egységként működő hatóság.
 
-(4) Az ellenőrzés során a Felügyelet a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint, a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2007. évi CXXXV. törvényben (a továbbiakban: Psztv.) meghatározott eltérésekkel, továbbá a pénzügyi információs egységként működő hatóság a Ket. szerint jár el.
+(4) Az ellenőrzés során a Felügyelet a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint, a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben (a továbbiakban: Psztv.) meghatározott eltérésekkel, továbbá a pénzügyi információs egységként működő hatóság a Ket. szerint jár el.
 
 (5) A Rendelet előírásainak megsértése, illetőleg a Rendeletben meghatározott kötelezettségek nem megfelelő teljesítése esetén a Felügyelet a jogsértés súlyával arányosan a 35. § (1) bekezdés b)–e) pontjaiban meghatározott, továbbá a következő intézkedéseket alkalmazza:
 

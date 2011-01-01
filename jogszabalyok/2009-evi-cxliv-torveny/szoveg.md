@@ -34,11 +34,11 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 - 24. szétválás: a társulat a társulati vagyon egy részének a részvételével két vagy több társulatra válik szét;
 - 25. társulat érdekképviselete: a társulatok vagy szerveződéseik által érdekképviseleti célból létrehozott, az egyesülési törvény szerint működő országos vagy területi hatáskörű szervezet;
 - 26. társulat tagja: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, egyéb szervezet, aki, illetve amely a társulat működési területén ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
-- 27. társulati hozzájárulás: a társulat tagjainak e törvény szerinti fizetési kötelezettsége a társulati közfeladatok ellátásához (alap- és differenciált hozzájárulás);
-- 28. társulati alaphozzájárulás: társulat tagjainak e törvény szerinti mértékű fizetési kötelezettsége a társulati közfeladatok ellátásához;
+- 27.
+- 28.
 - 29. társulati alapszabály: a társulat önkormányzati működésének szabályait meghatározó dokumentum;
-- 30. társulati differenciált hozzájárulás: e törvényben meghatározott elvek szerint a küldöttgyűlés által megállapított fizetési kötelezettség a társulati többlet közfeladatok ellátásához;
-- 31. társulati alaphozzájárulást megalapozó területi egység: 1 hektár;
+- 30.
+- 31.
 - 32. társulati közfeladat: a társulat tagjainak érdekeit szolgáló vízgazdálkodási tevékenység, a kizárólagos állami tulajdonban lévő vizek és vízilétesítményekkel összefüggő feladatok a vízügyi hatósági hatáskör gyakorlása kivételével;
 - 33. társulati művek: azok a közcélú, mezőgazdasági és más célú vízgazdálkodási művek, amelyeket a társulat küldöttgyűlése annak nyilvánít;
 - 34. területi egység: a társulat működési területének az a földrajzilag meghatározható része, amelyről a terület érdekeltjei, a társulat tagjai küldöttjelölteket, küldötteket választanak;
@@ -76,7 +76,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 (2) A társulat a vízrendezési feladatok ellátása érdekében közcélú vízgazdálkodási létesítményeket (csatornákat, szivattyútelepeket, tározókat) létesít, fejleszt, újít fel, tart fenn és üzemeltet, továbbá vízfolyásokat tart fenn és üzemeltet.
 
-(3) A társulat a vizek kártételei ellen a küldöttgyűlés által elfogadott vízkárvédelmi terve alapján a társulati műveken önálló védelmi tevékenységet végez: belvízvédekezik, területi vízkárelhárítást végez, védekezik a kisvízfolyások árhullámaival szemben. A védelmi feladatokat társulati hozzájárulásból, a művek tulajdonosainak hozzájárulásaiból és a Földművelésügyi és Vidékfejlesztési Minisztérium Vízkárelhárítási Szabályzatában foglaltak szerint az állami védelmi forrásokból finanszírozza. A társulati műveken a vizek kártételei elleni védelem érdekében szükséges feladatok ellátása – a művek építése, fejlesztése, fenntartása, üzemeltetése, valamint a védekezés – a társulatok kötelezettsége.
+(3) A társulat a vizek kártételei ellen a küldöttgyűlés által elfogadott vízkárvédelmi terve alapján a társulati műveken önálló védelmi tevékenységet végez: belvízvédekezik, területi vízkárelhárítást végez, védekezik a kisvízfolyások árhullámaival szemben. A védelmi feladatokat társulati hozzájárulásból, a művek tulajdonosainak hozzájárulásaiból és a vízgazdálkodásért felelős miniszter által vezetett minisztérium Vízkárelhárítási Szabályzatában foglaltak szerint az állami védelmi forrásokból finanszírozza. A társulati műveken a vizek kártételei elleni védelem érdekében szükséges feladatok ellátása – a művek építése, fejlesztése, fenntartása, üzemeltetése, valamint a védekezés – a társulatok kötelezettsége.
 
 (4) A társulat tagjai részére mezőgazdasági vízhasznosítást, a táblán, illetve üzemen belüli meliorációs és mezőgazdasági vízszolgáltatást, természetvédelmi célú vízvisszatartást végezhet, amelyet a szolgáltatást igénybe vevők differenciált érdekeltségi hozzájárulással is finanszírozhatják.
 
@@ -93,16 +93,16 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 - c) a társulatban személyesen – ha kizáró ok, illetőleg összeférhetetlenség nem áll fenn – tisztséget viseljen;
 - d) a tisztségviselőktől, küldöttjétől a társulatot vagy a saját érdekeltségét, egyéb jogait vagy kötelezettségeit érintő ügyben felvilágosítást kérjen;
 - e) a társulat szervei által a tagsági jogviszonyával kapcsolatban hozott – jogszabályba vagy alapszabályba ütköző – határozat felülvizsgálatát bíróságtól kérheti. A jogsértő határozat felülvizsgálatára irányuló keresetet a határozat kézhezvételétől számított 30 napon belül kell benyújtani. A kereset indításra megállapított határidő elmulasztása jogvesztő. A kereset benyújtásának halasztó hatálya nincs, a határozat végrehajtását azonban a bíróság felfüggesztheti. Nincs lehetőség a határozat bíróság előtti megtámadásának, ha a határozat meghozatalától több mint egy év eltelt.
-- f) a hozzájárulás mértékének mérséklésére vagy a megfizetés meghatározott időre történő felfüggesztésére vonatkozó kérelmet terjeszthet az intézőbizottsághoz.
+- f)
 
 (2) A tag kötelessége hogy
 
 - a) személyesen vegyen részt a társulat minden olyan szervének tevékenységében, amelybe választották és azt elvállalta;
-- b) a társulat közfeladatai ellátásának költségeihez a küldöttgyűlés által megállapított a társulati hozzájárulást határidőre megfizesse.
+- b)
 
 (3) Amennyiben a tagnak a tagsági jogviszony alapjául szolgáló ingatlan tulajdoni vagy használati jogosultsága megszűnik vagy megváltozik, azt köteles a társulat intézőbizottságának írásban bejelenteni. A bejelentéshez csatolni kell a tagsági jogviszony megszűnését vagy megváltozását igazoló okiratot, illetőleg annak másolatát, valamint – ha abból nem állapítható meg – a bejelentésben közölnie kell a helyébe lépő új tag cégnevét és székhelyét, természetes személy esetében nevét, lakhelyét és anyja nevét, valamint területének nagyságát és a terület helyrajzi számát.
 
-7. § A tag a részére megállapított társulati hozzájárulást annak a hónapnak az utolsó napjáig köteles megfizetni, amelyben a 6. § (3) bekezdés szerinti bejelentést megtette. A bejelentés alapján a változást a tagnyilvántartásban kell rögzíteni, és erről a régi és az új tagot az intézőbizottság elnöke a bejelentést követő 90 napon belül írásban értesíti.
+7. §
 
 ### Tagi adatok kezelése
 
@@ -121,7 +121,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 - c) a főtevékenységét és azon tevékenységeket, amelyeket a társulat a cégjegyzékben fel kíván tüntetni;
 - d) a tagok jogait és kötelességeit;
 - e) a társulati működési területét hektárban;
-- f) a tagok társulati hozzájárulásának szabályait;
+- f)
 - g) a társulat testületi szerveire, vezető tisztségviselőire, vezető beosztású dolgozóira, gazdálkodására vonatkozó általános szervezeti és működési szabályokat, valamint a vállalkozási tevékenységének kereteit;
 - h) a társulat képviseletét, ideértve a cégjegyzés módját;
 - i) mindazt, amit jogszabály alapján az alapszabály rendez vagy a küldöttgyűlés szükségesnek tart.
@@ -134,7 +134,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 (4) Az alapszabály mellékleteiben rögzíteni kell továbbá
 
 - a) a megválasztott küldöttek nevét, lakóhelyét, az általuk képviselt területi egység megnevezését, a képviselt tagok számát, és a képviselt terület nagyságát hektárban;
-- b) a társulat tagjainak nevét (cégnevét), lakóhelyét (székhelyét), a természetes személy tag születési helyét, időpontját, anyja nevét, jogi személy vagy jogi személyiség nélküli gazdasági társaság cégjegyzékszámát (nyilvántartási számát), társulati alap-hozzájárulást megalapozó egységének számát.
+- b) a társulat tagjainak nevét (cégnevét), lakóhelyét (székhelyét), a természetes személy tag születési helyét, időpontját, anyja nevét, jogi személy vagy jogi személyiség nélküli gazdasági társaság cégjegyzékszámát (nyilvántartási számát).
 
 (5) Az alapszabály mellékleteiben bekövetkezett változást az éves rendes küldöttgyűlés követő 30 napon belül kell megküldeni az illetékes cégbíróságnak.
 
@@ -274,7 +274,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 - a) alapszabály módosítása;
 - b) a társulat megszüntetésének, szétválásának, egyesülésének, illetőleg a kiválás és a belépés engedélyezése;
-- c) a tagok fizetési kötelezettségének megállapítása (éves társulati alaphozzájárulás mértéke, differenciált társulati hozzájárulás elvei és mértéke);
+- c)
 - d) a szervezeti és működési szabályzat elfogadása, módosítása;
 - e) a tisztségviselők megválasztása, beszámoltatása, visszahívása, felmentése, költségtérítésének és díjazásának megállapítása;
 - f) a társulat közfeladatainak éves ütemezése, valamint az ár- és belvízvédekezési tartalék mértékének meghatározása;
@@ -386,7 +386,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 - b) gondoskodik a társulati feladatok költségfedezetének biztosításáról, és folyamatosan ellenőrzi a költségvetés betartását;
 - c) gyakorolja az igazgató feletti munkáltatói jogokat;
 - d) gondoskodik a tagok kiértesítéséről a 49. § (1) bekezdése szerint;
-- e) gondoskodik a határidőre be nem fizetett társulati hozzájárulások behajtásáról;
+- e)
 - f) gondoskodik a pénz- és hitelgazdálkodással kapcsolatos tennivalók időben történő elvégzéséről, a társulati vagyon kezeléséről és nyilvántartásáról;
 - g) gondoskodik a küldöttgyűlés és az intézőbizottság elé terjesztendő javaslatok, jelentések és beszámolók elkészítéséről, továbbá a küldöttgyűlési és intézőbizottsági határozatok végrehajtásáról;
 - h) gondoskodik arról, hogy a társulat tagjairól nyilvántartást vezessenek és a változást, az éves küldöttgyűlést követő 30 napon belül az illetékes cégbírósághoz benyújtsák;
@@ -427,17 +427,15 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 40. § (1) A társulat felett a törvényességi felügyeletet a cégbíróság látja el.
 
-(2) A társulat közfeladatainak ellátása feletti szakmai felügyeletet a mezőgazdasági vízgazdálkodásért felelős miniszter látja el.
+(2) A társulat közfeladatainak ellátása feletti szakmai felügyeletet a vízgazdálkodásért felelős miniszter látja el.
 
 (3) A társulatok közös érdekeinek érvényesítését és védelmét az egyesülési jogról szóló törvény szerint működő országos, illetve régiós hatáskörű társulati érdekképviseleti szervezet látja el. A társulatok az érdekképviseleti szervezetnek fizetett hozzájárulást az egyéb költségeik között számolhatják el.
 
 ### A társulat gazdálkodása, vagyona
 
-41. § (1) A társulat a tagok társulati hozzájárulásából, az állam és az érintett települési önkormányzat költségvetési hozzájárulásából, egyéb támogatásokból, továbbá a vállalkozásból származó eredményéből végzi közcélú tevékenységét. A társulat közfeladataihoz történő állami vagy önkormányzati hozzájárulás mértékéről, folyósításának feltételeiről a vagyonkezelői, üzemeltetői, illetve használati szerződésben kell rendelkezni. Az állami tulajdonú társulati művek üzemeltetéséhez, fenntartásához az állam normatív támogatást biztosít, amelynek felső határa a tárgyévre megállapított közcélú érdekeltségi hozzájárulás hektárra megállapított összege és a társulat hektárban kifejezett működési területe szorzatának fele.
+41. § (1) A társulat az állam és az érintett települési önkormányzat költségvetési hozzájárulásából, egyéb támogatásokból, továbbá a vállalkozásból származó eredményéből végzi közcélú tevékenységét. A társulat közfeladataihoz történő állami vagy önkormányzati hozzájárulás mértékéről, folyósításának feltételeiről a vagyonkezelői, üzemeltetői, illetve használati szerződésben kell rendelkezni. Az állami tulajdonú társulati művek üzemeltetéséhez, fenntartásához az állam normatív támogatást biztosít, amelynek felső határa a tárgyévre megállapított közcélú érdekeltségi hozzájárulás hektárra megállapított összege és a társulat hektárban kifejezett működési területe szorzatának fele.
 
-(2) A normatív támogatás, a szerződésen alapuló állami és önkormányzati hozzájárulás, valamint a tagok hozzájárulása a társulat tulajdonába kerül.
-
-[(2) A normatív támogatás, a szerződésen alapuló állami és önkormányzati hozzájárulás a társulat tulajdonába kerül.]
+(2) A normatív támogatás, a szerződésen alapuló állami és önkormányzati hozzájárulás a társulat tulajdonába kerül.
 
 42. § (1) A társulat közfeladata ellátásához szükséges elkülönített vagyona és a vállalkozásaiból származó nyeresége a tagok között nem osztható fel.
 
@@ -455,51 +453,9 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 46. § A társulat a tagjainál vagy harmadik személynél bekövetkezett vízkárokért csak akkor felel, ha a társulati és a közfeladatok elvégzéséhez bármely jogcímen kapott hozzájárulást nem a küldöttgyűlés döntései szerint használja fel.
 
-### Társulati hozzájárulás
+47. §
 
-47. § (1) A társulati hozzájárulás alap- és differenciált hozzájárulásból (a továbbiakban: hozzájárulás) áll. A hozzájárulás összegét a küldöttgyűlés állapítja meg.
-
-(2) Az alaphozzájárulás hektáronkénti összege nem lehet kevesebb, mint a tárgyévet megelőző naptári évre megállapított közcélú érdekeltségi hozzájárulás fele.
-
-(3) Erdő, rét, legelő, nádas, halastó művelési ágban nyilvántartott terület és kijelölt vízjárta külterület esetén a küldöttgyűlés az alaphozzájárulás mértékét legfeljebb felével mérsékelheti, más művelési ág és belterület esetén az alaphozzájárulás növelésének mértékéről a küldöttgyűlés határozhat.
-
-(4) A küldöttgyűlés a társulat alapszabályában foglaltak szerint differenciált hozzájárulást is megállapíthat. A differenciált hozzájárulás elveit az alapszabályban kell meghatározni, jellegéről és mértékéről a küldöttgyűlés dönt. A differenciált hozzájárulás jellege megállapítható területi, illetve egyéb jogcímen. Egyéb jogcím lehet különösen a védett érték, a többlet fenntartási, beruházási és fejlesztési igény. Egyéb jogcím esetében a differenciált hozzájárulást a tag tulajdonában vagy használatában álló terület nagyságától függetlenül is meg lehet állapítani.
-
-(5) Az alapszabály meghatározhatja azt a területi mértéket, amelynél kisebb egység után nem kell társulati hozzájárulást fizetni.
-
-(6) A belterületi földterületek összessége utáni hozzájárulás megfizetésének kötelezettje a települési önkormányzat.
-
-48. § A hozzájárulás adók módjára behajtható köztartozás, amelyet a tag a költségei között számolhat el. A hozzájárulás mértékét, jellegét, a befizetés időpontját és az ellátandó éves közfeladatok körét a küldöttgyűlés állapítja meg, amelyet a tagok a közfeladatok elvégzését megelőzően kötelesek megfizetni. Az intézőbizottság az alapszabályban meghatározott feltételek szerint a hozzájárulás mértékét csak abban az esetben mérsékelheti, illetve megfizetését meghatározott időre felfüggesztheti, ha ez nem veszélyezteti a közfeladatok ellátását. A hozzájárulást – ha az alapszabály kivételt nem tesz – a tagok pénzben kötelesek teljesíteni. A társulat küldöttgyűlése által elfogadott hozzájárulás a közfeladatok teljesítésével nyújtott szolgáltatás megelőlegezett ellenértéke.
-
-49. § (1) A hozzájárulással kapcsolatos küldöttgyűlési határozatról a tagot az intézőbizottság elnöke írásban értesíti. Az értesítésben meg kell jelölni
-
-- a) a fizetési kötelezettség jogalapját;
-- b) a küldöttgyűlési határozat számát;
-- c) a társulati hozzájárulás alapjául szolgáló egységre eső hozzájárulás mértékét;
-- d) a tag társulati hozzájárulás alapjául szolgáló egységeinek számát, mennyiségét;
-- e) a hozzájárulás összegét;
-- f) a befizetés módját;
-- g) a befizetés határidejét;
-- h) a befizetés elmulasztásának jogkövetkezményeit;
-- i) a jogorvoslati lehetőséget.
-
-(2) A befizetett hozzájárulásról a társulat a befizetést követő hónap 10. napjáig számlát bocsát ki a tag részére.
-
-(3) A társulat tagja a vele szemben megállapított hozzájárulás felülvizsgálatát a küldöttgyűlési határozatról szóló értesítés kézhezvételétől számított 30 napon belül a bíróságtól kérheti.
-
-(4) A késedelmes befizetés esetén a társulat késedelmi pótlék felszámítására jogosult, ennek mértékét a küldöttgyűlés határozza meg.
-
-50. § (1) A határidőre be nem fizetett társulati hozzájárulást és a megállapított késedelmi pótlékot az intézőbizottság elnökének megkeresésére az illetékes állami vagy helyi adóhatóság költségátalány megelőlegezése nélküli eljárásában, az adózás rendjéről szóló jogszabályok szerint a behajtás költségeivel növelten hajtja be, a befolyt összeget pedig a behajtási költségek levonása után negyedévenként a társulat számlájára utalja át.
-
-(2) A megkeresésben közölni kell a végrehajtáshoz szükséges alábbi adatokat:
-
-- a) a tag nevét;
-- b) lakóhelyét, székhelyét;
-- c) a tag hozzájárulásának alapjául szolgáló egységeinek számát, mennyiségét;
-- d) a hozzájárulás összegét, a követelést megalapozó küldöttgyűlési határozat számát és az abban foglalt határidőt;
-- e) a természetes személy tag részére költségvetési támogatást folyósító és ismert szervezet nevét, címét.
-
-(3) A végrehajtási eljárás eredménytelensége esetén az adóhatóság a köztartozásról haladéktalanul tájékoztatja a tag részére költségvetési támogatást folyósító szervezetet.
+48–50. §
 
 ### Csatlakozás a társulathoz, belépés
 

@@ -80,7 +80,7 @@ Az Országgyűlés a személykörözés és a tárgykörözés szabályainak, va
   - ab) ha ahhoz az ellenőrizni kívánt személy – illetve gyermekkorú vagy fiatalkorú esetében törvényes képviselője – előzetesen írásban hozzájárult, poligráf alkalmazásával is ellenőrizheti;
 - b) igazoltatást végezhet egy meghatározott helyen megjelenő, illetve tartózkodó személyek személyazonosságának megállapítására;
 - c) terepkutatást végezhet;
-- d) a közszolgálati műsorszolgáltatónak minősülő rádióban és televízióban díjmentesen közérdekű közleményt, illetve a sajtóban és az interneten felhívást tehet közzé;
+- d) a közszolgálati médiaszolgáltatónak minősülő rádióban és televízióban díjmentesen közérdekű közleményt, illetve a sajtóban és az interneten felhívást tehet közzé;
 - e) a körözött személy nevét, képmását, az azonosításához szükséges adatait, a valószínű megjelenési, tartózkodási helyét és a nyilvánosságra hozatal okát nyomós közérdekből vagy különös méltánylást érdemlő magánérdekből nyilvánosságra hozhatja, kivéve, ha azt a körözést elrendelő hatóság kifejezetten megtiltotta;
 - f) a körözött tárgy fényképét, rajzát, egyedi azonosításra alkalmas jelsorozatát, egyéb jellemzőit nyilvánosságra hozhatja, kivéve, ha azt a körözést elrendelő hatóság kifejezetten megtiltotta;
 - g) tájékoztatást kérhet arról, hogy a körözött személy szerepel-e a kórházi fekvőbetegek, továbbá a mentőszolgálat, valamint más mentésre, illetve betegszállításra jogosult által szállított személyek nyilvántartásában;
@@ -88,7 +88,8 @@ Az Országgyűlés a személykörözés és a tárgykörözés szabályainak, va
 - i) a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 42. §-a alapján a rendőri intézkedéssel összefüggésben az intézkedéssel érintett személyről, a környezetről, illetőleg az intézkedés szempontjából lényeges körülményről, tárgyról készített képfelvételt, hangfelvételt, kép- és hangfelvételt, valamint az azokban szereplő adatokat felhasználhatja;
 - j) a központi személyiadat- és lakcímnyilvántartásban, valamint a határforgalom ellenőrzését szolgáló nyilvántartási rendszerekben a cél megjelölésével – az érintett feltartóztatását vagy adatváltozás esetén értesítés adását előíró – jelzések elhelyezését rendelheti el;
 - k) a Schengeni Végrehajtási Egyezmény keretében történő együttműködésről és információcseréről szóló törvény rendelkezései szerint a Schengeni Információs Rendszerben figyelmeztető jelzés elhelyezése céljából adatot továbbíthat, illetve abból a körözési feladatok ellátása céljából a SIRENE Iroda útján adatot igényelhet;
-- l) a központi közlekedési nyilvántartásból, a személyiadat- és lakcímnyilvántartásból, az útiokmány-nyilvántartásból, az idegenrendészeti nyilvántartásból az elveszett, eltulajdonított, megsemmisült okmányokról a körözési feladatok ellátása céljából adatokat vehet át.
+- l) a központi közlekedési nyilvántartásból, a személyiadat- és lakcímnyilvántartásból, az útiokmány-nyilvántartásból, az idegenrendészeti nyilvántartásból az elveszett, eltulajdonított, megsemmisült okmányokról a körözési feladatok ellátása céljából adatokat vehet át;
+- m) elektronikus hírközlési szolgáltatótól helymeghatározási adatot kérhet.
 
 (2) A polgári bíróság határozata alapján folytatott körözés során az (1) bekezdés ab) alpontjában, valamint d) és e) pontjában meghatározott módon nem végezhető adatgyűjtés.
 
@@ -170,7 +171,8 @@ Az Országgyűlés a személykörözés és a tárgykörözés szabályainak, va
 - d) annak a hatósági eljárásnak az iktatószámát, amelyben a körözést elrendelték;
 - e) a körözést elrendelő hatóság megnevezését;
 - f) a felkutatáshoz szükséges egyéb – jogszabályban meghatározott – adatot; továbbá
-- g) azt, ha a körözést elrendelő hatóság bűnüldözési érdekből korlátozza vagy nem engedélyezi az adatszolgáltatást, illetve a 12. § (1) bekezdésének e) pontjában, illetőleg a 12. § (3) bekezdésében meghatározott nyilvánosságra hozatalt megtiltotta.
+- g) azt, ha a körözést elrendelő hatóság bűnüldözési érdekből korlátozza vagy nem engedélyezi az adatszolgáltatást, illetve a 12. § (1) bekezdésének e) pontjában, illetőleg a 12. § (3) bekezdésében meghatározott nyilvánosságra hozatalt megtiltotta;
+- h) a szabadságvesztés vagy közérdekű munka kiszabásáról rendelkező jogerős bírósági ítélet számát.
 
 19. § A nyilvántartás a tárgykörözés tekintetében tartalmazza:
 
@@ -228,8 +230,8 @@ kell nyilvántartani.
 - e) a Nemzetközi Bűnügyi Együttműködési Központ, illetőleg a Magyar Köztársaságnak nemzetközi szerződésben adattovábbításra feljogosított más szerve a d) pontban felsoroltak részére történő adatszolgáltatáshoz;
 - f) a külpolitikáért felelős miniszter a magyar állampolgárok jogai és érdekei konzuli védelmének ellátásához;
 - g) az ügyészség a törvényességi felügyelet gyakorlása során, valamint a vádemelés előtt a jogsegélykérelem elintézéséhez, továbbá a nemzetközi szerződésekben meghatározott, és a viszonossági gyakorlatból eredő feladatai teljesítéséhez;
-- h) a Rendvédelmi Szervek Védelmi Szolgálata jogszabályban meghatározott feladatai ellátásához;
-- i) a rendőrség szervei a Rendőrségről szóló 1994. évi XXXIV. törvényben meghatározott határrendészeti feladatainak ellátásához, továbbá az ezzel kapcsolatos személyazonosság megállapításához;
+- h) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv jogszabályban meghatározott feladatai ellátásához;
+- i) a rendőrség szervei a rendőrségről szóló törvényben meghatározott határrendészeti feladatainak ellátásához, továbbá az ezzel kapcsolatos személyazonosság megállapításához;
 - j) a menekültügyi és idegenrendészeti ügyekben eljáró szervek a személyazonosság megállapításához;
 - k) a bíróság a holtnak nyilvánítással kapcsolatos feladatai ellátásához;
 - l) a személyazonosításra alkalmas okmány, illetve a járműokmányok kiadására jogosult hatóság jogszabályban meghatározott feladatai ellátásához.
@@ -242,7 +244,7 @@ kell nyilvántartani.
 
 ### Adatszolgáltatás a körözési nyilvántartásból
 
-28. § (1) A Rendőrség az adatszolgáltatást kérelemre, az adatigénylés kézhezvételétől számított tíz munkanapon belül, és a (3) bekezdésben meghatározott kivétellel – külön jogszabályban meghatározott igazgatási szolgáltatási díj megfizetése ellenében – teljesíti.
+28. § (1) A Rendőrség az adatszolgáltatást kérelemre, az adatigénylés kézhezvételétől számított tizenöt napon belül, és a (3) bekezdésben meghatározott kivétellel – külön jogszabályban meghatározott igazgatási szolgáltatási díj megfizetése ellenében – teljesíti.
 
 (2) Az igazgatási szolgáltatási díj a Rendőrség bevétele.
 
@@ -283,7 +285,7 @@ részére.
 
 (2) A szolgáltatott adatok nem képezik az adattovábbítási nyilvántartás részét.
 
-33. § Az adattovábbítási nyilvántartásból a körözési nyilvántartásban szereplő személy jogosult megismerni, hogy adatszolgáltatás alanya volt-e. Ez a jogosultság korlátozható vagy kizárható, ha a nemzetbiztonsági szolgálatok, vagy büntetőügyben eljáró hatóság, illetve a Rendvédelmi Szervek Védelmi Szolgálata részére történt az adatszolgáltatás.
+33. § Az adattovábbítási nyilvántartásból a körözési nyilvántartásban szereplő személy jogosult megismerni, hogy adatszolgáltatás alanya volt-e. Ez a jogosultság korlátozható vagy kizárható, ha a nemzetbiztonsági szolgálatok, vagy büntetőügyben eljáró hatóság, illetve a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv részére történt az adatszolgáltatás.
 
 34. § Az adattovábbítási nyilvántartás adatait az adattovábbítástól számított húsz évig meg kell őrizni.
 
@@ -297,7 +299,7 @@ részére.
 
 (2) A körözési nyilvántartással kapcsolatos jogorvoslat esetén határozatot hozó szervnek azt a rendőrkapitányságot, illetve rendőr-főkapitányságot kell tekinteni, amelyik a körözés elrendelését a 16. § (2) bekezdésében meghatározottak szerint rögzítette.
 
-### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
+### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK ÉS AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 
 38. § (1) Ez a törvény a kihirdetését követő hatodik hónap első napján lép hatályba. Rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
 

@@ -44,7 +44,7 @@ Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak k
 
 (2) Ha a túlélő házastárs (özvegy) a részére megállapított egyösszegű kárpótlás összegét elérő címletértékű kárpótlási jegyet, kis összegű kárpótlást [Tv. 8. § (1) és (2) bekezdés] kapott, az egyösszegű kárpótlást teljesítettnek kell tekinteni. Ha az egyösszegű kárpótlást az előbb említettek nem érik el, a különbözetet ki kell fizetni.
 
-(3) Ha a túlélő házastárs a kárpótlási jegyeit az OKKH-nak visszaszolgáltatta, akkor a neki megállapított egyösszegű kárpótlást részére ki kell fizetni, a kárpótlási jegyek egy részének visszaszolgáltatása esetén az egyösszegű kárpótlás arányos része jár.
+(3) Ha a túlélő házastárs a kárpótlási jegyeit a kárpótlási hatóságnak visszaszolgáltatta, akkor a neki megállapított egyösszegű kárpótlást részére ki kell fizetni, a kárpótlási jegyek egy részének visszaszolgáltatása esetén az egyösszegű kárpótlás arányos része jár.
 
 (4) Az egyöszegű kárpótlást teljesítettnek kell tekinteni, ha a túlélő házastársnak (özvegynek) kárpótlásként életjáradékot állapítottak meg.
 
@@ -54,7 +54,7 @@ Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak k
 
 ### Kárpótlási jegy helyettéletjáradék ismételt választása
 
-12. § (1) Az a kárpótlásra jogosult, akinek a kárpótlását a Tv. 6. §-ának (1) bekezdése alkalmazásával kárpótlási jegyben e törvény hatálybalépése előtt megállapították, a részére kiadott és még fel nem használt kárpótlási jegy visszaszolgáltatása mellett 1997. szeptember 1-je és december 31-e között igényelheti az OKKH-tól az életjáradék megállapítását. E határidő jogvesztő, elmulasztása miatt igazolásnak nincs helye.
+12. § (1) Az a kárpótlásra jogosult, akinek a kárpótlását a Tv. 6. §-ának (1) bekezdése alkalmazásával kárpótlási jegyben e törvény hatálybalépése előtt megállapították, a részére kiadott és még fel nem használt kárpótlási jegy visszaszolgáltatása mellett 1997. szeptember 1-je és december 31-e között igényelheti kárpótlási hatóságtól az életjáradék megállapítását. E határidő jogvesztő, elmulasztása miatt igazolásnak nincs helye.
 
 (2) A havi életjáradékot a Tv. szerint kell kiszámítani. Ha a visszaszolgáltatott kárpótlási jegy címletértéke kevesebb, mint a kárpótlást megállapító határozatban megjelölt érték, az életjáradék havi összegét arányosan csökkenteni kell. Az életjáradék e törvény hatálybalépését követő hónap első napjától jár.
 

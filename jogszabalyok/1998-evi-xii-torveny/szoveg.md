@@ -114,7 +114,7 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányában foglalt rendelkezése
 
 - a) a köztársasági elnök, az Alkotmánybíróság elnöke, valamint a Legfelsőbb Bíróság elnöke;
 - b) az országgyűlési képviselő és az Európai Parlament magyarországi képviselője;
-- c) az országgyűlési biztos, a Legfelsőbb Bíróság elnökhelyettese, a legfőbb ügyész és helyettesei, az Alkotmánybíróság tagja, az Állami Számvevőszék elnöke és alelnökei, a Magyar Nemzeti Bank elnöke és alelnökei;
+- c) az országgyűlési biztos, a Legfelsőbb Bíróság elnökhelyettese, a legfőbb ügyész és helyettesei, az Alkotmánybíróság tagja, az Állami Számvevőszék elnöke és alelnökei, a Magyar Nemzeti Bank elnöke és alelnökei, a Pénzügyi Szervezetek Állami Felügyeletének elnöke és alelnökei;
 - d) a miniszterelnök, a miniszter, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár;
 - e) a külpolitikáért felelős miniszter által vezetett minisztérium diplomáciai vagy konzuli ranggal rendelkező munkatársa, a Magyar Köztársaság diplomáciai képviselete diplomáciai személyzetének tagja, a Magyar Köztársaság konzuli képviselete konzuli tisztviselője, nemzetközi jogon alapuló diplomáciai kiváltságot és mentességet élvező egyéb személy, diplomáciai és konzuli futár;
 - f) az a)–e) pontban megjelölt személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársa, eltartott gyermeke.
@@ -135,7 +135,8 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányában foglalt rendelkezése
 
 - a) a központi államigazgatási szerveknél, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál, az Alkotmánybíróság Hivatalánál, az Országgyűlési Biztos Hivatalánál, az Állami Számvevőszéknél foglalkoztatottak;
 - b) a bírák és az ügyészek;
-- c) a Magyar Nemzeti Bank vezető munkatársai.
+- c) a Magyar Nemzeti Bank vezető munkatársai;
+- d) a Pénzügyi Szervezetek Állami Felügyeletének vezető megbízatással rendelkező köztisztviselői.
 
 (2) Szolgálati útlevelet kaphat az (1) bekezdés hatálya alá tartozó állampolgárral hivatalos célból együtt utazó, közös háztartásban élő házastársa és eltartott gyermeke.
 
@@ -255,7 +256,7 @@ visszatartja.
 - b) a központi adatkezelő szervtől a 24. § és a 25. § alapján kezelt adatokból, valamint
 - c) közvetlenül vagy a központi adatkezelő szerv útján a bűnügyi nyilvántartásból, a rendőrség központi személy-, tárgy- és gépjármű-körözési nyilvántartó rendszeréből és a büntetés-végrehajtás központi nyilvántartásából, valamint a menekültügyi hatóságtól.
 
-27. § (1) Az útlevélhatóság, illetőleg a központi adatkezelő szerv – törvényben meghatározott feladataik ellátása céljából – a büntetőügyekben eljáró hatóságoknak, a rendőrségnek, a nemzetbiztonsági szolgálatoknak, a vám- és pénzügyőrségnek, a nyugdíjbiztosítási igazgatási szervnek, az állampolgársági ügyekben eljáró szervnek, valamint a menekültügyi hatóságnak adhat át adatot.
+27. § (1) Az útlevélhatóság, illetőleg a központi adatkezelő szerv – törvényben meghatározott feladataik ellátása céljából – a büntetőügyekben eljáró hatóságoknak, a rendőrségnek, a nemzetbiztonsági szolgálatoknak, a vám- és pénzügyőrségnek, a bűnügyi nyilvántartó szervnek, a nyugdíjbiztosítási igazgatási szervnek, az állampolgársági ügyekben eljáró szervnek, valamint a menekültügyi hatóságnak adhat át adatot.
 
 (2) A Rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetőleg a személyazonosság megállapítása céljából – közvetlen adathozzáféréssel – adatokat vehet át a központi adatkezelő szerv által a 24. § a)–k) pontja alapján kezelt adatállományból. Az adatokat az adatkérőnek az ellenőrzést követően haladéktalanul törölnie kell.
 
@@ -331,13 +332,13 @@ visszatartja.
 - b) az útlevél kivételével az egyéb úti okmányok fajtáit;
 - c) az eljárás részletes szabályait, valamint az úti okmányok kezelésére vonatkozó rendelkezéseket.
 
-(2) Felhatalmazást kap a külföldre utazásért felelős miniszter – a b) és a d) pont tekintetében a külpolitikáért felelős miniszterrel, a c) pont tekintetében a személyiadat- és lakcímnyilvántartásért felelős miniszterrel egyetértésben – hogy rendeletben határozza meg
+(2) Felhatalmazást kap a külföldre utazás szabályozásáért felelős miniszter – a b) és a d) pont tekintetében a külpolitikáért felelős miniszterrel, a c) pont tekintetében a személyiadat- és lakcímnyilvántartásért felelős miniszterrel egyetértésben – hogy rendeletben határozza meg
 
 - a) a diplomata- és a külügyi szolgálati útlevél kiadására jogosult útlevélhatóság kivételével az útlevélhatóságok székhelyét és illetékességi területét;
 - b) a Magyar Köztársaság útlevelének és egyéb úti okmányainak mintáját, az úti okmány iránti kérelem benyújtására szolgáló formanyomtatvány tartalmát;
 - c) az úti okmányokkal összefüggő adatkezelés részletes szabályait, és kijelölje a központi adatkezelő szervet, valamint kijelölje azokat az adatfeldolgozónak nem minősülő szerveket, amelyek az úti okmányok előállításában közreműködhetnek;
 - d) a külképviseleteknek az útlevél kiadásával, nyilvántartásával kapcsolatos feladatait;
-- e) az adópolitikáért felelős miniszterrel egyetértésben – az útlevél kivételével – az úti okmányok kiadásáért és cseréjéért; valamint a közigazgatási informatikáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben az adatszolgáltatásért fizetendő igazgatási szolgáltatási díj összegét, a kedvezmények és mentességek körét.
+- e) az adópolitikáért felelős miniszterrel egyetértésben – az útlevél kivételével – az úti okmányok kiadásáért és cseréjéért; valamint az adatszolgáltatásért fizetendő igazgatási szolgáltatási díj összegét, a kedvezmények és mentességek körét.
 
 (3) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben állapítsa meg az általa kiadott útlevelek kezelésének részletes szabályait.
 
