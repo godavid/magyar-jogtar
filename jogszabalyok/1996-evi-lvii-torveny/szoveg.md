@@ -472,17 +472,15 @@ A kinevezés hat évre szól. A kinevezett személyek a hat év lejártát köve
 
 (11) A (8) bekezdés b) pontja szerinti végzés ellen a bejelentő élhet a közléstől számított nyolc napon belül jogorvoslati kérelemmel, melyet a Fővárosi Bíróság közigazgatási hatósági eljárásban hozott végzés elleni bírósági felülvizsgálatra vonatkozó szabályok szerint bírál el. Ha a bíróság álláspontja szerint a (8) bekezdés a) pontja alkalmazásának van helye, a vizsgálót a vizsgálat harminc napon belül történő elrendelésére kötelezi.
 
-43/I. § (1) A 43/H. § (1) bekezdése szerinti bejelentésnek nem minősülő beadványt a Gazdasági Versenyhivatal panaszként köteles kezelni. A panasz tárgyában folytatott eljárásra e § rendelkezései irányadók.
+43/I. § (1) A 43/H. § (1) bekezdése szerinti bejelentésnek nem minősülő beadványt a Gazdasági Versenyhivatal panaszként kezeli az e §-ban meghatározottak szerint.
 
-(2) Amennyiben a panaszban foglaltakkal kapcsolatban a Gazdasági Versenyhivatal eljárásra nem jogosult, köteles a panaszt a beérkezését követő naptól számított tizenöt napon belül a hatáskörrel és illetékességgel rendelkező szerv részére áttenni, és erről a panaszost értesíteni.
+(2) A vizsgáló a panaszban foglaltak alapján megteszi a szükséges intézkedéseket. Az ugyanazon panaszos által tett korábbi panasszal azonos tartalmú, a nyilvánvalóan alaptalan, továbbá a névtelen panasszal kapcsolatos intézkedés megtétele mellőzhető.
 
-(3) A panaszt a beérkezését követő naptól számított harminc napon belül kell elbírálni. Ha az elbírálás megalapozása előreláthatólag harminc napnál hosszabb ideig tart, a vizsgáló erről a panaszost az eredeti határidő lejárta előtt az elintézés várható időpontjának megjelölése mellett tájékoztatja.
+(3) A vizsgáló a panaszost és azt, akivel szemben panasszal éltek, meghallgathatja, valamint tőle további felvilágosítást és információt kérhet. A panaszos kérheti, hogy ne fedjék fel személyét, illetve azt a tényt, hogy panasszal élt a Gazdasági Versenyhivatalhoz.
 
-(4) A vizsgáló a panaszost és azt, akivel szemben panasszal éltek, meghallgathatja, valamint tőle további felvilágosítást és információt kérhet. A panaszos kérheti, hogy ne fedjék fel személyét, illetve azt a tényt, hogy panasszal élt a Gazdasági Versenyhivatalhoz.
+(4) Ha a panaszban megjelölt magatartással kapcsolatban más hatóság jogosult eljárni, a Gazdasági Versenyhivatal a panaszt ennek megállapításától számított nyolc napon belül – a panaszos egyidejű értesítése mellett – átteszi a hatáskörrel és illetékességgel rendelkező hatósághoz.
 
-(5) A korábbival azonos tartalmú, ugyanazon panaszos által tett ismételt, továbbá a névtelen panasz elbírálása mellőzhető.
-
-(6) A panasz alapján – ha az alaposnak bizonyul – a vizsgáló dönt a szükséges intézkedések megtételéről, s erről a panaszost tájékoztatja.
+(5) Ha a panaszban megjelölt magatartással kapcsolatban a Gazdasági Versenyhivatal versenyfelügyeleti eljárást indít, vagy a panasz beérkezésekor a versenyfelügyeleti eljárás már folyamatban van vagy lezárult, erről a tényről a panaszost tájékoztatni kell.
 
 ## III. RÉSZ
 

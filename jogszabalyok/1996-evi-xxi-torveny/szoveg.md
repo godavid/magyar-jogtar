@@ -514,7 +514,7 @@ rendszeresen, de évente legalább egyszer köteles beszámolni.
 
 (9) A tanács döntéseinek előkészítése, végrehajtásának szervezése, ellenőrzése érdekében a szervezeti és működési szabályzatban meghatározott bizottságokat hozhat létre. A tanács döntési jogkört nem ruházhat át bizottságára.
 
-(10) A regionális fejlesztési tanács működésének törvényességi felügyeletét a Kormány általános hatáskörű területi államigazgatási szerve látja el.
+(10) A regionális fejlesztési tanács működésének törvényességi felügyeletét a Kormánynak a regionális fejlesztési tanács székhelye szerint illetékes általános hatáskörű területi államigazgatási szerve látja el.
 
 (11) A Kormány általános hatáskörű területi államigazgatási szerve a törvényességi felügyelet keretében ellenőrzi, hogy a regionális fejlesztési tanács
 

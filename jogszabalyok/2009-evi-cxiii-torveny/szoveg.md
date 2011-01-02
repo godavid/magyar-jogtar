@@ -6,17 +6,13 @@ a jövedéki adóról és a jövedéki termékek forgalmazásának különös sz
 
 24. § (1)–(2)
 
-(3) A Jöt. 28. §-a kiegészül a következő (7) bekezdéssel:
-
-„(7) Az adó-visszaigénylésre, -levonásra jogosult személy az EKO adatait a kiállítással egyidejűleg a 20. § (1) bekezdés szerinti módon megküldi a vámhatóságnak.”
+(3)
 
 25–32. §
 
 33. § (1)–(3)
 
-(4) A Jöt. 40. §-a kiegészül a következő (13) bekezdéssel:
-
-„(13) A (9) bekezdésben előírt adatszolgáltatási kötelezettséget – a sörfőzde kivételével – a 20. § (1) bekezdés szerinti elektronikus úton kell teljesíteni.”
+(4)
 
 34–62. §
 
@@ -36,13 +32,13 @@ a jövedéki adóról és a jövedéki termékek forgalmazásának különös sz
 
 64. § (1)–(2)
 
-(3) A Jöt. e törvénnyel megállapított 22. §-ának (4) bekezdésében az „elektronikus átvételi elismervényt” szövegrész helyébe az „elektronikus átvételi elismervényt – a külön jogszabály szerinti kiegészítő adatok megadásával –” szövegrész, 129. §-a (2) bekezdésének c) pontjában az „e-TKO tervezet” szövegrész helyébe az „e-TKO tervezet és az elektronikus átvételi elismervény” szövegrész és v) pontjában az „elektronikus átvételi elismervény” szövegrész helyébe az „elektronikus átvételi elismervény, illetve a 40. § (9) bekezdés szerinti okmányok, bizonylatok” szövegrész lép.
+(3)
 
 65. §
 
 66. § (1)–(4)
 
-(5) A Jöt. 28. §-a (1) bekezdésének a) pontja, 35. §-a (1) bekezdésének f) pontja és 37. §-a (1) bekezdésének i) pontja hatályát veszti.
+(5)
 
 (6)
 
