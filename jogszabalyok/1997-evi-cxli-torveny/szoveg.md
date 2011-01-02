@@ -402,6 +402,8 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 (3) A közokirat alakiságát a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) határozza meg.
 
+34/A. § Ha a társasházakról szóló törvényben szabályozott társasházi közösköltség-tartozás, illetve a lakásszövetkezetekről szóló törvényben szabályozott költséghátralék biztosítékául szolgáló jelzálogjog bejegyzése iránti eljárásban benyújtott okirat nem tartalmazza a személyi azonosítót, akkor azt az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartást vezető szerv megkeresése útján, hivatalból pótolja.
+
 35. § (1)
 
 (2) Ha a magánokiratot külföldön állították ki, és nemzetközi megállapodás másként nem rendelkezik, vagy eltérő viszonossági gyakorlat nem áll fenn, a nyilatkozattevő aláírását (kézjegyét) a magyar külképviseleti hatósággal kell hitelesíttetni, illetőleg az aláírás (kézjegy) hitelesítésére jogosult külföldi szerv által történt hitelesítést kell a magyar külképviseleti hatósággal hitelesíttetni (diplomáciai hitelesítés, illetve felülhitelesítés). Ahol magyar külképviseleti hatóság nem működik, az aláírást (kézjegyet) a magyar állam érdekeit képviselő állam külképviseleti hatóságával kell hitelesíttetni. Eltérő nemzetközi megállapodás fennállását a bejegyzést kérő félnek kell megjelölni, illetve arra hivatkozni. Viszonossági gyakorlat fennállásáról az igazságügyért felelős miniszter állásfoglalása az irányadó.
@@ -900,7 +902,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 (2) Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 82. § (1) bekezdésével megállapított 16/A. §-t csak a hatálybalépését követően megkötött jelzálogjog alapítására irányuló szerződésekre kell alkalmazni azzal, hogy a Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvények módosításáról szóló 2010. évi CLIII. törvény 36. §-ával megállapított 16/A. § (2)–(5) bekezdésében meghatározott rendelkezések csak az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 82. § (1) bekezdésének hatálybalépésekor már fennálló jelzálogjoggal biztosított kölcsönjogviszonyok esetében irányadók.
 
-(3)
+(3) A társasházakról szóló 2003. évi CXXXIII. törvény módosításáról szóló 2010. évi CLXXVII. törvény (a továbbiakban: Módtv.) 19. § (1) bekezdésével megállapított 34/A. §-t a Módtv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 (4) Ez a törvény nem érinti a hatálybalépése előtt az ingatlan-nyilvántartásba bejegyzett termelőszövetkezeti földhasználati jogot és fennállásáig annak nyilvántartását, a tartós földhasználati jogot, a külföldieket megillető ingatlanhasználati jogot, továbbá a bejegyzett kezelői jogok tekintetében a külön törvénynek azt a rendelkezését, amely szerint az ingatlan-nyilvántartásba bejegyzett kezelői jogon, a továbbiakban vagyonkezelői jogot kell érteni
 

@@ -173,17 +173,15 @@ teljesíti;
 
 ### Az adóhatóságok felügyelete
 
-11. § (1) Az adópolitikáért felelős miniszter
+11. § (1) Az adópolitikáért felelős miniszter, illetve a NAV felügyeletére kijelölt miniszter
 
-- a) felügyeli az adóztatás törvényességét, ellenőrzi az adóhatóságok irányítását, a törvények és más jogszabályok végrehajtását,
-- b) meghatározza az állami adóhatóság fejlesztésének irányait,
-- c) előterjeszti a kormányhoz az adóigazgatás szervezeti rendszerére vonatkozó jogszabályok tervezetét, indítványozza a szervezeti változtatásokat, koordinálja a szervezeti rendszer egyes elemeinek együttműködését, kezdeményezi az ezekre vonatkozó jogszabályok megalkotását,
-- d) a törvényesség és szakszerűség ellenőrzése érdekében az adóhatóságok vezetőitől jelentéseket, beszámolókat kérhet, bármely adózó ügyéről tájékoztatást kérhet,
-- e) meghatározza az állami adóhatóság és a vámhatóság feladatai teljesítésének éves követelményeit,
-- f) adóügyben megváltoztatja, megsemmisíti az állami adóhatóság vezetőjének, a vámhatóság vezetőjének és a Kormány általános hatáskörű területi államigazgatási szervének jogszabálysértő határozatát (végzését), illetőleg a határozat, végzés meghozatalának törvénysértő mulasztása esetén az eljárás lefolytatására utasítja,
-- g) az állami adóhatóság vezetőjének különösen az adóztatás működési feltételeinek kialakítása, szakszerű működtetése tekintetében iránymutatást, szükség esetén utasítást ad.
+- a) az állami adó- és vámhatóság felett gyakorolja felügyeleti jogkörét a külön törvényben meghatározottak szerint,
+- b) felügyeli az önkormányzati adóhatóság hatáskörébe tartozó adóztatás törvényességét, ellenőrzi az önkormányzati adóhatóságok irányítását, a törvények és más jogszabályok végrehajtását,
+- c) előterjeszti a kormányhoz az önkormányzati adóigazgatás szervezeti rendszerére vonatkozó jogszabályok tervezetét, indítványozza a szervezeti változtatásokat, koordinálja a szervezeti rendszer egyes elemeinek együttműködését, kezdeményezi az ezekre vonatkozó jogszabályok megalkotását,
+- d) a törvényesség és szakszerűség ellenőrzése érdekében az önkormányzati adóhatóságok vezetőitől jelentéseket, beszámolókat, adatszolgáltatást, továbbá – amennyiben az jogszabályban meghatározott feladata ellátásához szükséges – bármely adózó ügyéről tájékoztatást kérhet,
+- e) az önkormányzati adóhatóság hatáskörébe tartozó adóügyben megváltoztatja, megsemmisíti a Kormány általános hatáskörű területi államigazgatási szervének jogszabálysértő határozatát (végzését), illetve a határozat, végzés meghozatalának törvénysértő mulasztása esetén az eljárás lefolytatására utasítja.
 
-(2) Az adópolitikáért felelős miniszter az (1) bekezdés c), e) pontjában meghatározott hatáskörét nem ruházhatja át.
+(2) A NAV felügyeletére kijelölt miniszter az (1) bekezdés b) pontjában meghatározott hatáskörét nem ruházhatja át.
 
 ### Iratbetekintés
 
@@ -1259,11 +1257,7 @@ szükséges,
 
 56. § (1) Az Európai Közösség adóügyi együttműködési szabályainak alkalmazása tekintetében illetékes hatóság – a vám és a jövedéki adó kivételével – az állami adóhatóság Kormány által kijelölt szerve (a továbbiakban: kapcsolattartó közigazgatási szerv).
 
-[(1) Az Európai Közösség adóügyi együttműködési szabályainak alkalmazása tekintetében illetékes hatóság, központi összekötő hivatal, összekötő szerv – a vám és a jövedéki adó kivételével, valamint a (3) bekezdésben meghatározott kivétellel – az állami adóhatóság vagy a vámhatóság Kormány által kijelölt szerve (a továbbiakban együtt: kapcsolattartó közigazgatási szerv).]
-
 (2) Az Európai Közösség tagállamai illetékes hatóságának jogsegély iránti megkeresése a magyar hatóságoktól érkezett megkeresésekkel azonos megítélés alá esik.
-
-[(3) Az 1798/2003/EK rendelet 2. cikk 1. pontja szerinti illetékes hatóság az adópolitikáért felelős miniszter.]
 
 ### Adómegállapítási jogsegély
 
@@ -1934,7 +1928,7 @@ ezek hiányában a forgalmi érték vagy az árképzési szabályok szerint kalk
 
 (4) Ha a felülellenőrzés alkalmával a felettes adóhatóság, illetve az önkormányzat által kijelölt bizottság a korábbi ellenőrzés által feltárt tényekhez, adatokhoz, körülményekhez, minősítéshez képest eltérést állapít meg, és ez az adófizetési kötelezettséget érinti, a felülellenőrzést lefolytató adóhatóság, illetve az önkormányzat képviselő-testülete által kijelölt bizottság elnöke a korábbi ellenőrzés alapján hozott határozatot megváltoztatja, határozat hiányában elsőfokú határozatot hoz.
 
-(5) A felülellenőrzés megállapításairól hozott határozat ellen az állami adóhatóság vezetőjéhez, a vámhatóság vezetőjéhez, illetőleg a Kormány általános hatáskörű területi államigazgatási szervéhez intézett, de az eljáró másodfokú szervnél, illetve az önkormányzat képviselő-testülete által kijelölt bizottság elnökéhez benyújtott fellebbezésnek van helye.
+(5) A felülellenőrzés megállapításairól hozott határozat ellen az állami adó- és vámhatóság vezetőjéhez, illetőleg a Kormány általános hatáskörű területi államigazgatási szervéhez intézett, de a felülellenőrzést lefolytató szervnél, illetve az önkormányzat képviselő-testülete által kijelölt bizottság elnökéhez benyújtott fellebbezésnek van helye.
 
 (6) Az állami adó- és vámhatóság vezetőjének, illetve a Kormány általános hatáskörű területi államigazgatási szervének a határozata törvénysértésre hivatkozással a bíróság előtt keresettel támadható meg.
 

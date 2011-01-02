@@ -44,7 +44,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 7/A. § (1) Általánosan kötelező magatartási szabályt az Alkotmányban megjelölt, jogalkotó hatáskörrel rendelkező szerv által kiadott jogszabály állapíthat meg.
 
-(2) Jogszabály a törvény, a kormányrendelet, a Magyar Nemzeti Bank elnökének rendelete, a miniszterelnöki rendelet, a miniszteri rendelet, a Pénzügyi Szervezetek Állami Felügyelete elnökének rendelete és az önkormányzati rendelet. Jogszabály továbbá a Honvédelmi Tanács rendkívüli állapot idején és a köztársasági elnök szükségállapot idején kibocsátott rendelete.
+(2) Jogszabály a törvény, a kormányrendelet, a Magyar Nemzeti Bank elnökének rendelete, a miniszterelnöki rendelet, a miniszteri rendelet, a Pénzügyi Szervezetek Állami Felügyelete elnökének rendelete, a Nemzeti Média- és Hírközlési Hatóság elnökének rendelete és az önkormányzati rendelet. Jogszabály továbbá a Honvédelmi Tanács rendkívüli állapot idején és a köztársasági elnök szükségállapot idején kibocsátott rendelete.
 
 (3) A jogszabályt a Magyar Köztársaság hivatalos lapjában ki kell hirdetni. Az önkormányzati rendelet, a Honvédelmi Tanács, a köztársasági elnök és a Kormány 35. § (3) bekezdés szerinti rendelete kihirdetésének szabályait a jelenlévő országgyűlési képviselők kétharmadának szavazatával elfogadott törvény eltérően is megállapíthatja.
 
@@ -161,19 +161,17 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (3) A Kormány azonnali intézkedésére alkalmazandó szabályokról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
-20. § [(1) Az országgyűlési képviselők száma legfeljebb kettőszáz. A nemzeti és etnikai kisebbségek képviseletére további, legfeljebb tizenhárom országgyűlési képviselő választható.]
+20. § (1) Az országgyűlési képviselők általános választását – az Országgyűlés feloszlása vagy feloszlatása miatti választás kivételével – az előző Országgyűlés megválasztását követő negyedik év április vagy május hónapjában kell megtartani.
 
-(1) [(2)] Az országgyűlési képviselők általános választását – az Országgyűlés feloszlása vagy feloszlatása miatti választás kivételével – az előző Országgyűlés megválasztását követő negyedik év április vagy május hónapjában kell megtartani.
+(2) Az országgyűlési képviselők tevékenységüket a köz érdekében végzik.
 
-(2) [(3)] Az országgyűlési képviselők tevékenységüket a köz érdekében végzik.
+(3) Az országgyűlési képviselőt — az országgyűlési képviselők jogállásáról szóló törvényben szabályozottak szerint — mentelmi jog illeti meg.
 
-(3) [(4)] Az országgyűlési képviselőt — az országgyűlési képviselők jogállásáról szóló törvényben szabályozottak szerint — mentelmi jog illeti meg.
+(4) Az országgyűlési képviselőt a függetlenségét biztosító javadalmazás illeti meg. Az országgyűlési képviselők javadalmazásáról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
-(4) [(5)] Az országgyűlési képviselőt a függetlenségét biztosító javadalmazás illeti meg. Az országgyűlési képviselők javadalmazásáról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
+(5) A képviselő nem lehet köztársasági elnök, az Alkotmánybíróság tagja, az állampolgári jogok országgyűlési biztosa, az Állami Számvevőszék elnöke, alelnöke és számvevője, bíró, ügyész, közigazgatási szerv alkalmazottja – a Kormány tagja, az államtitkár és a kormánymegbízott kivételével –, továbbá a Magyar Honvédség és a rendvédelmi szervek hivatásos állományú tagja. Törvény az összeférhetetlenség egyéb eseteit is megállapíthatja.
 
-(5) [(6)] A képviselő nem lehet köztársasági elnök, az Alkotmánybíróság tagja, az állampolgári jogok országgyűlési biztosa, az Állami Számvevőszék elnöke, alelnöke és számvevője, bíró, ügyész, közigazgatási szerv alkalmazottja – a Kormány tagja, az államtitkár és a kormánymegbízott kivételével –, továbbá a Magyar Honvédség és a rendvédelmi szervek hivatásos állományú tagja. Törvény az összeférhetetlenség egyéb eseteit is megállapíthatja.
-
-(6) [(7)] Az országgyűlési képviselők jogállásáról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
+(6) Az országgyűlési képviselők jogállásáról szóló törvény elfogadásához a jelenlévő országgyűlési képviselők kétharmadának szavazata szükséges.
 
 20/A. § (1) Az országgyűlési képviselő megbízatása megszűnik:
 
@@ -564,6 +562,16 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 (3) A Pénzügyi Szervezetek Állami Felügyeletének elnöke a Felügyelet tevékenységéről évente beszámol az Országgyűlésnek.
 
 (4) A Pénzügyi Szervezetek Állami Felügyeletének elnöke törvényben meghatározott feladatkörében, törvényben kapott felhatalmazás alapján rendeletet bocsát ki, amely törvénnyel, kormányrendelettel és a Magyar Nemzeti Bank elnökének rendeletével nem lehet ellentétes. A Pénzügyi Szervezetek Állami Felügyeletének elnökét rendelet kiadásában az általa rendeletben kijelölt alelnök helyettesítheti.
+
+### VIII/B. Fejezet — A Nemzeti Média- és Hírközlési Hatóság
+
+40/E. § (1) A Nemzeti Média- és Hírközlési Hatóság a Magyar Köztársaság elektronikus hírközlési piac felügyelő és ellenőrző szerve. A Nemzeti Média- és Hírközlési Hatóság felelős az elektronikus hírközlési piac zavartalan működéséért.
+
+(2) A Nemzeti Média- és Hírközlési Hatóság elnökét a miniszterelnök nevezi ki 9 évre.
+
+(3) A Nemzeti Média- és Hírközlési Hatóság tevékenységéről évente beszámol az Országgyűlésnek.
+
+(4) A Nemzeti Média- és Hírközlési Hatóság elnöke törvényben meghatározott feladatkörében, törvényben kapott felhatalmazás alapján rendeletet bocsát ki, amely más jogszabállyal nem lehet ellentétes.
 
 ### IX. Fejezet — A HELYI ÖNKORMÁNYZATOK
 

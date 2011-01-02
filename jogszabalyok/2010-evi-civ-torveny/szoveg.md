@@ -34,28 +34,27 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 ### II. CÍM — A TÖRVÉNY HATÁLYA
 
-2. § E törvény hatálya kiterjed valamennyi médiatartalomra.
-
-3. § (1) E törvény hatálya kiterjed a Magyar Köztársaságban letelepedett médiatartalom-szolgáltatókra.
+2. § (1) E törvény hatálya kiterjed a Magyar Köztársaságban letelepedett médiatartalom-szolgáltató által nyújtott médiaszolgáltatásra és kiadott sajtótermékre.
 
 (2) E törvény alkalmazásában a médiatartalom-szolgáltató akkor minősül a Magyar Köztársaság területén letelepedettnek, ha:
 
-- a) a médiatartalom terjesztése a Magyar Köztársaság tulajdonában álló frekvencia igénybevételével történik;
-- b) központi ügyvezetésének helye a Magyar Köztársaság területén található és a médiatartalom-szolgáltatással összefüggő szerkesztői döntéseket a Magyar Köztársaság területén hozzák;
-- c) a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található a Magyar Köztársaság területén, de a médiatartalom-szolgáltató munkaerejének jelentős része a Magyar Köztársaság területén dolgozik;
-- d) a Magyar Köztársaság területén és más országban is dolgozik a médiatartalom-szolgáltató munkaerejének jelentős része, akkor, ha a központi ügyvezetés helye a Magyar Köztársaság területén található; vagy
-- e) a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található a Magyar Köztársaság területén, de tevékenységét a Magyar Köztársaság területén kezdte meg, és folyamatos, tényleges kapcsolatot tart fenn a magyar gazdasággal.
+- a) az általa nyújtott médiaszolgáltatás terjesztése a Magyar Köztársaság tulajdonában álló frekvencia igénybevételével történik vagy a sajtótermék elsődlegesen a Magyar Köztársaság felhasználói számára kijelölt elektronikus hírközlési azonosítón keresztül érhető el,
+- b) központi ügyvezetésének helye a Magyar Köztársaság területén található és a médiaszolgáltatással, sajtótermékkel összefüggő szerkesztői döntéseket a Magyar Köztársaság területén hozzák,
+- c) ha a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található a Magyar Köztársaság területén, de a médiatartalom-szolgáltató munkaerejének jelentős része a Magyar Köztársaság területén dolgozik,
+- d) ha a Magyar Köztársaság területén és más országban is dolgozik a médiatartalom-szolgáltató munkaerejének jelentős része, akkor, ha a központi ügyvezetés helye a Magyar Köztársaság területén található, vagy
+- e) ha a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található a Magyar Köztársaság területén, de tevékenységét a Magyar Köztársaság területén kezdte meg, és folyamatos, tényleges kapcsolatot tart fenn a magyar gazdasággal.
 
-(3) E törvény hatálya kiterjed azon médiatartalom-szolgáltatóra, amelyre az (1)–(2) bekezdés rendelkezései nem alkalmazhatók, ha a Magyar Köztársaság területén található műholdas feladó-állomást használ, vagy a műholdnak a magyar állam tulajdonában álló átviteli kapacitását használja.
+(3) E törvény hatálya kiterjed azon médiatartalom-szolgáltató által nyújtott médiaszolgáltatásra, amelyre az (1)–(2) bekezdés rendelkezései nem alkalmazhatók, ha a Magyar Köztársaság területén található műholdas feladó-állomást használ, vagy a műholdnak a Magyar Köztársaság tulajdonában álló átviteli kapacitását használja.
 
-(4) E törvény hatálya egyébként kiterjed azon médiatartalom-szolgáltatóra, amelyre az (1)–(3) bekezdés rendelkezései nem alkalmazhatók, ha az Európai Unió működéséről szóló szerződés 56. és 57. cikke értelmében a Magyar Köztársaság területén letelepedettnek minősül.
+(4) Ha az (1)–(3) bekezdés alapján nem állapítható meg, hogy a médiatartalom-szolgáltató a Magyar Köztársaság vagy más tagállam joghatósága alá tartozik-e, a médiatartalom-szolgáltató azon állam joghatósága alá tartozik, amelyben az Európai Unió működéséről szóló szerződés 49–55. cikke alapján letelepedettnek minősül.
 
-(5) E törvény hatálya kiterjed a más országból nyújtott médiatartalom-szolgáltatásra is, amely jelentős részben vagy teljes egészében a Magyar Köztársaság területére irányul.
+3. § (1) E törvény hatálya a 2. § (1)–(4) bekezdés alá nem eső, de a Magyar Köztársaság területére irányuló, illetve a Magyar Köztársaság területén terjesztett vagy közzétett médiaszolgáltatásra és sajtótermékre a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 176–180. §-aiban foglalt feltételekkel terjed ki.
 
-(6) Az (5) bekezdés alapján e törvény hatálya alá tartozó médiatartalom-szolgáltatóra e törvény rendelkezése akkor alkalmazható, ha
+(2) E törvény hatálya kiterjed azon médiatartalom-szolgáltató Magyar Köztársaság területére irányuló, illetve a Magyar Köztársaság területén terjesztett vagy közzétett médiaszolgáltatására és sajtótermékére, amely az Európai Gazdasági Térség egyetlen tagállamában sem minősül letelepedettnek, és amelynek médiaszolgáltatása vagy sajtóterméke felett egyik tagállam joghatósága sem állapítható meg.
 
-- a) az alkalmazni kívánt szabály a média sokszínűségének fenntartását vagy más nyomós közérdeket szolgálja, és
-- b) a médiatartalom-szolgáltató annak érdekében telepedett le a Magyar Köztársaság területén kívül, hogy elkerülje a szigorúbb szabályok vele szemben való érvényesítését, amelyek e törvény, illetve a médiatartalmakra vonatkozó egyéb jogszabályok alapján alkalmazandók lennének rá.
+(3) E törvény hatálya kiterjed a 2. § és az (1)–(2) bekezdés alapján a törvény hatálya alá tartozó médiaszolgáltatást nyújtó, vagy sajtóterméket kiadó médiatartalom-szolgáltatóra.
+
+(4) E törvény megsértése esetén a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa az Mttv.-nek a hatósági eljárásra vonatkozó szabályai szerint járhat el, és alkalmazhat jogkövetkezményt.
 
 ### III. CÍM — A SAJTÓ SZABADSÁGA
 
@@ -113,7 +112,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 (3) A nyilatkozat közzétételéhez történt hozzájárulás a médiatartalom-szolgáltató (1) bekezdésben szereplő visszaélése esetén jogkövetkezmény nélkül visszavonható, amennyiben
 
-- a) azt nem a helyi, országos vagy európai közélet eseményével összefüggésben tette,
+- a) azt a nyilatkozó nem a helyi, országos vagy európai közélet eseményével összefüggésben tette,
 - b) az nem a Magyar Köztársaság polgárai és a magyar nemzet tagjai számára jelentőséggel bíró valamely eseménnyel kapcsolatos, vagy
 - c) a visszavonásra irányuló nyilatkozatot nem hivatalos vagy közfeladatot ellátó személy, vagy politikai közszereplő közmegbízatása ellátásával összefüggésben tette, feltéve, hogy a visszavonás a közzétételt megelőzően kellő időben történik, és így nem okoz a médiatartalom-szolgáltató számára aránytalan sérelmet. Az e jogot korlátozó szerződéses kikötés semmis.
 
@@ -123,7 +122,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 (2) A médiatartalom nem lehet alkalmas személyek, nemzetek, közösségek, nemzeti, etnikai, nyelvi és más kisebbségek vagy bármely többség, továbbá valamely egyház vagy vallási csoport nyílt vagy burkolt megsértésére, kirekesztésére.
 
-18. § A médiatartalom nem lehet alkalmas a magánélet és más, személyhez fűződő jogok megsértésére.
+18. § A médiatartalom nem lehet alkalmas a magánélet megsértésére.
 
 19. § (1) Lineáris médiaszolgáltatásban nem tehető közzé olyan médiatartalom, amely súlyosan károsíthatja a kiskorúak szellemi, lelki, erkölcsi vagy fizikai fejlődését, különösen azáltal, hogy pornográfiát vagy szélsőséges, illetve indokolatlan erőszakot tartalmaz.
 
@@ -163,52 +162,25 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 ### VIII. CÍM — MÓDOSULÓ JOGSZABÁLYOK
 
-22. § (1) A polgári perrendtartásról szóló 1952. évi III. törvény 342–346. §-ai helyébe a következő rendelkezések lépnek:
-
-„XXI. FEJEZET
-
-A sajtó-helyreigazítási eljárás
-
-342. § (1) Helyreigazításának a Polgári Törvénykönyvről szóló 1959. évi IV. törvény, valamint a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény szerinti közzétételét az érintett személy vagy szervezet az általa vitatott közlemény közzétételétől számított harminc napon belül írásban kérheti a médiatartalom-szolgáltatótól vagy a hírügynökségtől.
-
-(2) A határidőben kért helyreigazítás közzétételét csak akkor lehet megtagadni, ha a kérelemben előadottak valósága nyomban megcáfolható.
-
-343. § (1) Ha a médiatartalom-szolgáltató vagy a hírügynökség a helyreigazítás közzétételére irányuló kötelezettségét határidőben nem teljesíti, az azt igénylő fél ellene keresetet indíthat.
-
-(2) Az I–XIV. fejezet rendelkezéseit a sajtó-helyreigazítási eljárásokban az e fejezetben foglalt eltérésekkel kell alkalmazni. A sajtó-helyreigazításra irányuló keresetet más keresettel összekapcsolni vagy egyesíteni nem lehet.
-
-(3) A keresetet a közlési kötelezettség utolsó napjától számított tizenöt nap alatt kell megindítani. A határidő elmulasztása esetén igazolásnak (106–110. §) van helye. Az (1) bekezdésben megjelölt szerv félként jár el akkor is, ha egyébként nincs perbeli jogképessége (48. §).
-
-(4) A keresetlevélben határozottan meg kell jelölni az igényelt helyreigazító nyilatkozat tartalmát, igazolni kell, hogy a felperes a helyreigazítást törvényes határidőben igényelte, és napilap, folyóirat, időszaki lap esetében a kifogásolt közleményt tartalmazó lappéldányt, internetes sajtótermék esetében a kifogásolt közlemény kinyomtatott változatát – amennyiben azok rendelkezésre állnak – csatolni kell.
-
-344. § (1) A perre az a bíróság illetékes, amelynek területén a hírügynökség vagy a médiatartalom-szolgáltató székhelye, illetve lakhelye található. A bíróság illetékességét a médiaszolgáltató helyi stúdiójának székhelye is megalapozza.
-
-(2) A bíróság a sajtó-helyreigazítási perben soron kívül jár el. Az elnök legkésőbb a keresetlevél benyújtásától számított nyolcadik napra tárgyalást tűz ki, kivéve, ha a keresetlevél benyújtása elkésett, ez utóbbi esetben az elnök a keresetlevelet idézés kibocsátása nélkül elutasítja.
-
-(3) A perben igazolásnak, viszontkeresetnek és szünetelésnek nincs helye.
-
-345. § (1) Az első tárgyalás megtartásának nem akadálya az, ha a felperes vagy az alperes nem jelenik meg. Ha azonban egyik fél sem jelenik meg az első tárgyaláson, az eljárást meg kell szüntetni. Sajtó-helyreigazítási perben bírósági meghagyást nem lehet kibocsátani.
-
-(2) Bizonyítás felvételének csak olyan bizonyítékokra vonatkozóan van helye, amelyek a tárgyaláson rendelkezésre állnak, és amelyek alkalmasak lehetnek arra, hogy a közlemény kifogásolt tényállításainak valóságát nyomban igazolják, vagy a keresetben előadottakat nyomban megcáfolják. Bizonyítás felvételének helye lehet a felperes által nyomban felajánlott bizonyítékokra is. A tárgyalást – legfeljebb nyolc napra – csak akkor lehet elhalasztani, ha ezt a felperes kéri, vagy a már feltárt bizonyítékok a bizonyítás eredményességét valószínűsítik.
-
-(3) Ha a bíróság a keresetnek helyt ad, ítéletében az alperest határidő kitűzésével a bíróság által megállapított szövegű helyreigazító közlemény közlésére és a felmerült költségek viselésére kötelezi.
-
-346. § (1) A másodfokú bíróság a fellebbezést legkésőbb az iratok beérkezésétől számított nyolc napon belül köteles tárgyalni.
-
-(2) A sajtó-helyreigazítási perben hozott ítélet ellen perújításnak nincs helye.”
-
-(2) A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. § n) pontja helyébe a következő rendelkezés lép:
-
-[E törvény alkalmazásában]
-
-„n) sajtótermék: a napilap és más időszaki lap egyes számai, valamint az internetes újság vagy hírportál, amelynek tartalmáért valamely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság szerkesztői felelősséget visel, és amelynek elsődleges célja szövegből, illetve képekből álló tartalmaknak a nyilvánossághoz való eljuttatása tájékoztatás, szórakoztatás vagy oktatás céljából, nyomtatott formátumban vagy valamely elektronikus hírközlő hálózaton keresztül.”
-
-(3) A Polgári Törvénykönyvről szóló 1959. évi IV. törvény 79. §-a helyébe a következő rendelkezés lép:
-
-„79. § A sajtó-helyreigazításra irányuló igény érvényesítésének szabályait a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény, valamint a polgári perrendtartásról rendelkező törvény állapítja meg.”
+#### 22. §
 
 ### IX. CÍM — HATÁLYBALÉPÉS
 
 23. § (1) E törvény 2011. január 1-jén lép hatályba.
 
 (2) E törvény 22. §-a a törvény hatálybalépését követő napon hatályát veszti.
+
+### X. CÍM — A törvény rövidített megjelölése
+
+24. § E törvényt más jogszabályban „Smtv.” rövidítéssel kell megjelölni.
+
+### XI. CÍM — Az Európai Unió jogának való megfelelés
+
+25. § Ez a törvény a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
+
+- a) az Európai Parlament és a Tanács 2010/13/EU irányelve (2010. március 10.) a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról (kodifikált változat) (Audiovizuális médiaszolgáltatásokról szóló irányelv),
+- b) Az Európai Parlament és a Tanács 2000/31/EK irányelve (2000. június 8.) a belső piacon az információs társadalommal összefüggő szolgáltatások, különösen az elektronikus kereskedelem, egyes jogi vonatkozásairól („Elektronikus kereskedelemről szóló irányelv”),
+- c) az Európai Parlament és a Tanács 2006/114/EK irányelve (2006. december 12.) a megtévesztő és összehasonlító reklámról (kodifikált változat),
+- d) az Európai Parlament és a Tanács 2003/33/EK irányelve (2003. május 26.) a tagállamok dohánytermékek reklámozására és szponzorálására vonatkozó törvényi, rendeleti és közigazgatási rendelkezéseinek közelítéséről,
+- e) az Európai Parlament és a Tanács 2005/29/EK irányelve (2005. május 11.) a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól, valamint a 84/450/EGK tanácsi irányelv, a 97/7/EK, a 98/27/EK és a 2002/65/EK európai parlamenti és tanácsi irányelvek, valamint a 2006/2004/EK európai parlamenti és tanácsi rendelet módosításáról,
+- f) az Európai Parlament és Tanács 2001/83/EK irányelve (2001. november 6) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről.

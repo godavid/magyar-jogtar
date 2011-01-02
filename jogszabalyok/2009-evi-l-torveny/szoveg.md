@@ -249,15 +249,9 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (2) Ha a meghagyást a kötelezettnek halála miatt vagy azért nem lehet kézbesíteni, mert a kötelezett a bejelentett címen ismeretlen, vagy onnan ismeretlen helyre költözött, erről a jogosultat értesíteni kell, és egyidejűleg fel kell hívni, hogy a kézbesítéshez szükséges adatokat harminc napon belül jelentse be.
 
-[(2) Ha a meghagyást a kötelezettnek halála miatt vagy azért nem lehet kézbesíteni, mert a kötelezett a bejelentett címen ismeretlen, vagy onnan ismeretlen helyre költözött, a közjegyző elektronikus úton megkeresi a polgárok személyi adatait és lakcímét nyilvántartó szervet (e §-ban a továbbiakban: nyilvántartás) a kötelezett idézési címének magállapítása érdekében.]
-
 (3) Ha a jogosult az adatokat bejelenti, a kézbesítést ismételten meg kell kísérelni, és ha az ismét sikertelen, a kérelmet az (1) bekezdés g) pontja alapján el kell utasítani.
 
-[(3) Ha a jogosult megjelölte a kérelemben a kötelezett személyazonosító adatait, a közjegyző a nyilvántartásból lekérdezi a kötelezett lakóhelyét; ha ez eltér a kérelemben szereplő idézési címtől, a fizetési meghagyást erre a címre kézbesíti. Minden más esetben (a kötelezett nem szerepel a nyilvántartásban, a jogosult által megjelölt cím szerepel a nyilvántartásban, a megjelölt adatokkal több cím szerepel a nyilvántartásban), erről értesíti a jogosultat és felhívja, hogy a kézbesítéshez szükséges adatokat harminc napon belül jelentse be. Ha a jogosult az adatokat bejelenti, a kézbesítést ismételten meg kell kísérelni; ha az ismét sikertelen, a kérelmet az (1) bekezdés g) pontja alapján el kell utasítani. Ha az adatokat a jogosult nem, vagy hiányosan jelenti be, a kérelmet az (1) bekezdés l) pontja alapján kell elutasítani.]
-
 (4) Ha az adatokat a jogosult nem, vagy hiányosan jelenti be, a kérelmet az (1) bekezdés l) pontja alapján kell elutasítani.
-
-[(4) Ha a kérelemben nem szerepelnek a kötelezett személyazonosító adatai, a közjegyző ellenőrzi, hogy a nyilvántartásban a kötelezett a jogosult által megadott adatokkal szerepel-e (név, idézési cím). Adategyezés esetén a közjegyző felhívja a jogosultat, hogy a kézbesítéshez szükséges adatokat harminc napon belül jelentse be. Ha a jogosult az adatokat bejelenti, a kézbesítést ismételten meg kell kísérelni; ha az ismét sikertelen, a kérelmet az (1) bekezdés g) pontja alapján el kell utasítani. Ha az adatokat a jogosult nem, vagy hiányosan jelenti be, a kérelmet az (1) bekezdés l) pontja alapján kell elutasítani.]
 
 (5) A fizetési meghagyás iránti kérelem elutasítására a Pp. 130. §-ának (3) bekezdését megfelelően alkalmazni kell.
 
@@ -378,7 +372,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 (3) A közjegyző az ellentmondásról szóló értesítés kézbesítésével egyidejűleg felhívja a jogosultat, hogy az értesítés kézbesítésétől számított tizenöt napon belül a bíróságnak benyújtott beadványon a peres eljárás illetékét rója le és
 
 - a) az ügyre vonatkozó részletes tényállításait adja elő és bizonyítékait terjessze elő,
-- b) a XXVI. Fejezet szerinti vállalkozások egymás közötti pereiben a keresetlevelet a külön jogszabályban meghatározott formanyomtatványon elektronikusan terjessze elő.
+- b) a Pp. XXVI. Fejezete szerinti vállalkozások egymás közötti pereiben a keresetlevelet a külön jogszabályban meghatározott formanyomtatványon elektronikusan terjessze elő.
 
 (4) A közjegyző a felhívást azzal a figyelmeztetéssel látja el, hogy az abban foglaltak elmulasztása esetében a bíróság a pert megszünteti. Ha a jogosult a kérelemben a Pp. 167. §-ának (3) bekezdése alkalmazásával jelölt meg tanút, az ellentmondásról szóló értesítés kézbesítésével egyidejűleg a közjegyző arra is felhívja a jogosultat, hogy a tanú nevét és idézhető címét – amennyiben az szükséges, egyéb személyi adatait – az ott meghatározott módon a bíróságnak jelentse be. A bírósághoz intézett beadványban a fizetési meghagyásos eljárásban kapott ügyszámra hivatkozni kell.
 

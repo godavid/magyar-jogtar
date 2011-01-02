@@ -960,9 +960,11 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 
 (14) A pénzügyi bizottság vizsgálati megállapításait a képviselő-testülettel haladéktalanul közli. Ha a képviselő-testület a vizsgálati megállapításokkal nem ért egyet, a vizsgálati jegyzőkönyvet az észrevételeivel együtt megküldi az Állami Számvevőszéknek.
 
-92/A. § (1) A megyei, a megyei jogú városi, a fővárosi és a fővárosi kerületi önkormányzat képviselő-testülete köteles könyvvizsgálót megbízni, továbbá az egyszerűsített tartalmú – a helyi önkormányzat és intézményei adatait összevontan tartalmazó – éves pénzforgalmi jelentését, könyvviteli mérlegét, továbbá pénzmaradvány- és eredménykimutatását a Hivatalos Értesítőben közzétenni. A képviselő-testület e rendelkezés hatálybalépésétől számított 60 napon belül köteles – szakmai szempontok szerint – a pályázatot kiírni, azt elbírálni és a polgármester a könyvvizsgáló számára a megbízást kiadni.
+92/A. § (1) A megyei, a megyei jogú városi, a fővárosi és a fővárosi kerületi önkormányzat képviselő-testülete köteles könyvvizsgálót megbízni, továbbá az egyszerűsített tartalmú – a helyi önkormányzat és intézményei adatait összevontan tartalmazó – éves pénzforgalmi jelentését, könyvviteli mérlegét, pénzmaradvány-kimutatását, továbbá vállalkozási maradvány-kimutatását a Hivatalos Értesítőben közzétenni.
 
-(2) A helyi önkormányzat, ha az előző évben a teljesített kiadásainak összege meghaladta a 300 millió forintot és hitelállománnyal rendelkezik vagy hitelt vesz fel, köteles az (1) bekezdésben foglaltakat a hitelfelvétel évétől a hiteltörlesztés utolsó évéig bezárólag évente könyvvizsgálóval felülvizsgáltatni és közzétenni.
+(2) Amennyiben a helyi önkormányzat éven túli hitelt vesz fel, vagy kötvényt bocsát ki, a képviselő-testület előzetesen köteles könyvvizsgálót megbízni és a könyvvizsgáló köteles a tervezett kötelezettségvállalással kapcsolatos szakmai véleményét a képviselő-testülettel ismertetni. Az előzetes véleményről a képviselő-testület a pénzügyi szolgáltatást nyújtó pénzintézetet köteles tájékoztatni. Az éven túli hitelfelvételről és kötvénykibocsátásról a képviselő-testület minősített többséggel dönt.
+
+(3) A helyi önkormányzat, ha az előző évben a teljesített kiadásainak összege meghaladta a 300 millió forintot és hitelállománnyal rendelkezik vagy hitelt vesz fel, köteles az (1) bekezdésben foglaltakat a hitelfelvétel évétől a hiteltörlesztés utolsó évéig bezárólag évente könyvvizsgálóval felülvizsgáltatni és közzétenni.
 
 92/B. § (1) A könyvvizsgálattal, a költségvetési beszámoló felülvizsgálatával költségvetési minősítésű könyvvizsgáló bízható meg.
 

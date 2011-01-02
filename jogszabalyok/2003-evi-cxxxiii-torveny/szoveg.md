@@ -123,15 +123,23 @@ vonatkozó részletes szabályokat.
 
 16. § A tulajdonostársat külön tulajdona tekintetében megilleti a birtoklás, a használat, a hasznok szedése és a rendelkezés joga; a tulajdonostárs e jogait azonban nem gyakorolhatja a többi tulajdonostárs joga és törvényes érdeke sérelmével.
 
-17. § (1) A szervezeti-működési szabályzat meghatározza a külön tulajdonban lévő lakás, illetőleg nem lakás céljára szolgáló helyiség használatának, hasznosításának szabályait a lakóépület céljának, működésének megfelelően.
+17. § (1) A szervezeti-működési szabályzat
 
-(2) A szervezeti-működési szabályzatban a lakás egészének vagy egy részének a nem lakás céljára történő használatára, hasznosítására, továbbá a nem lakás céljára szolgáló helyiségben folytatható tevékenység feltételeire megállapított szabályok – a használat jogcímétől függetlenül – a mindenkori használó részére is kötelezőek.
+- a) meghatározza a külön tulajdonban lévő lakás használatának, hasznosításának szabályait a lakóépület rendeltetésének megfelelően;
+- b) ha a lakóépület külön tulajdonban álló nem lakás céljára szolgáló helyiségében a szerencsejáték szervezéséről szóló törvény hatálya alá tartozó, illetőleg szexuális vagy erotikus szolgáltatásra irányuló tevékenységet kívánnak folytatni, valamint, ha szexuális terméket és segédeszközt kívánnak árusítani vagy forgalmazni, a lakóépület rendeltetésének megfelelően megtilthatja a nem lakás céljára szolgáló helyiség használatát és hasznosítását vagy meghatározhatja használatának és hasznosításának szabályait.
 
-18. § (1) Lakóépület esetén a társasház közgyűlése megtilthatja a külön tulajdonban lévő nem lakás céljára szolgáló helyiség használata, hasznosítása módjának megváltoztatását, ha az a társasház működését vagy a lakhatás nyugalmát zavarná.
+(2) A szervezeti-működési szabályzatban a lakás egészének vagy egy részének a nem lakás céljára történő használatára, hasznosítására, továbbá a nem lakás céljára szolgáló helyiségben folytatható tevékenység feltételeire megállapított szabályok – amelyek nem lehetnek e törvény rendelkezéseivel ellentétesek vagy annál szigorúbbak – a használat jogcímétől függetlenül a mindenkori használó részére is kötelezőek.
 
-(2) Ha a lakóépületben lévő nem lakás céljára szolgáló helyiség megváltoztatott használata jogszabályban meghatározott engedélyhez kötött tevékenységhez szükséges, az engedély akkor adható ki, ha a hatóság felhívására – harminc napos határidőn belül – a közgyűlés nem hozott tiltó határozatot.
+(3) A települési (Budapesten a kerületi) önkormányzat városképi vagy kereskedelmi szempontok alapján – az épített környezet alakításáról és védelméről szóló törvénnyel összhangban – rendeletben meghatározhatja a nem lakás céljára szolgáló helyiség használatának, hasznosításának, illetve ezek megváltoztatásának módját, feltételeit.
 
-(3) A közgyűlés a nem lakás céljára szolgáló helyiség megváltoztatott használatához a lakhatás nyugalma – így különösen: a zaj- és rezgésvédelem, illetőleg a lakókörnyezetet veszélyeztető más tevékenység megelőzése – érdekében az erre vonatkozó külön jogszabályok előírásainak figyelembevételével kikötött feltételt tartalmazó hozzájáruló határozatot is hozhat.
+18. § (1) A lakóépület külön tulajdonban álló nem lakás céljára szolgáló helyiségének megváltoztatott használatához – a (3) bekezdés a) pontjában foglalt kivétellel, illetve a (3) bekezdés b) pontja szerinti eltéréssel – a közgyűlés hozzájáruló határozata nem szükséges.
+
+(2) Ha a lakóépület külön tulajdonban álló nem lakás céljára szolgáló helyiségének megváltoztatott használata jogszabályban meghatározott telepengedély-köteles tevékenységhez vagy kizárólag üzletben forgalmazható termék (üzletköteles termék) forgalmazására szolgáló üzlet üzemeltetésére jogosító működési engedélyhez kötött tevékenységhez szükséges, a hatóság az engedélyről a (3) bekezdés szerinti – határidőben meghozott – közgyűlési határozat figyelembevételével dönt, feltéve, hogy a határozatban foglaltak az engedélyezés során alkalmazandó jogszabályokat nem sértik.
+
+(3) A (2) bekezdés szerinti esetben a hatóság felhívására a közgyűlés – harmincnapos határidőn belül meghozott – határozattal
+
+- a) a 17. § (1) bekezdés b) pontjában foglalt feltételek fennállása esetén – a szervezeti-működési szabályzat rendelkezéseivel és az erre vonatkozó külön jogszabályokkal összhangban – megtilthatja a külön tulajdonban lévő nem lakás céljára szolgáló helyiség használata, hasznosítása módjának megváltoztatását,
+- b) a lakhatás nyugalma – így a zaj- és rezgésvédelem, illetőleg a lakókörnyezetet veszélyeztető más tevékenység megelőzése érdekében – a használat, hasznosítás módjának megváltoztatását megtilthatja vagy ahhoz az erre vonatkozó külön jogszabályok előírásainak figyelembevételével kikötött feltétellel is hozzájárulhat; a határozatnak tartalmaznia kell a lakhatás nyugalmát tartalmazó magatartások részletezését és ennek alapján a közgyűlési döntés indokolását.
 
 19. § (1) A közösség a 18. § (1) és (3) bekezdésében említett közgyűlési határozatot az összes tulajdoni hányad szerinti legalább egyszerű szavazattöbbséggel állapítja meg. A szervezeti-működési szabályzat előírhatja, hogy a határozat érvényességéhez a közvetlenül érintett szomszédos tulajdonostársak tulajdoni hányad szerinti legalább kétharmadának igenlő szavazata is szükséges.
 
@@ -236,7 +244,7 @@ vonatkozó részletes szabályokat.
 
 29. §
 
-30. § (1) A közgyűlés a határozatával a legalább hat hónapnak megfelelő közös költség összegének befizetésével hátralékba került tulajdonostárs külön tulajdonának és a hozzá tartozó közös tulajdoni hányadának jelzálogjoggal való megterhelését rendelheti el a hátralék megfizetésének biztosítékául.
+30. § (1) A közgyűlés a határozatával a legalább három hónapnak megfelelő közös költség összegének befizetésével hátralékba került tulajdonostárs külön tulajdonának és a hozzá tartozó közös tulajdoni hányadának jelzálogjoggal való megterhelését rendelheti el a hátralék megfizetésének biztosítékául.
 
 (2) A határozat meghozatala során a hátralékos tulajdonostárs nem élhet a szavazati jogával, az ő tulajdoni hányadát a határozatképesség megállapításakor figyelmen kívül kell hagyni.
 
@@ -246,7 +254,7 @@ vonatkozó részletes szabályokat.
 
 32. § (1) A jelzálogjog bejegyzésének elrendeléséről szóló közgyűlési határozatot, illetőleg a közös képviselő vagy az intézőbizottság elnöke rendelkezését közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.
 
-(2) A jelzálogjog bejegyzésének elrendelése hat hónapnak megfelelő hátralékonként megismételhető.
+(2) A jelzálogjog bejegyzésének elrendelése három hónapnak megfelelő hátralékonként megismételhető.
 
 (3) Ha a bejegyzés alapjául szolgáló hátralékot kiegyenlítették, a közös képviselő vagy az intézőbizottság elnöke a kiegyenlítést követő nyolc napon belül köteles a jelzálog törléséhez szükséges engedélyt kiadni; az engedélyt közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.
 
@@ -271,7 +279,7 @@ vonatkozó részletes szabályokat.
 
 35. § (1) Közgyűlést szükség szerint, de legalább évente egyszer kell tartani. Az éves elszámolásról, a költségvetés megállapításáról szóló közgyűlést évente a szervezeti-működési szabályzatban meghatározott időpontig, de legkésőbb május 31-éig meg kell tartani.
 
-(2) Kötelező a közgyűlés összehívása, ha azt a tulajdoni hányad 1/10-ével rendelkező tulajdonostársak a napirend, az ok és a közgyűlési határozatra tett javaslat megjelölésével írásban kérték. Ha a kérést a közös képviselő vagy az intézőbizottság elnöke legkésőbb tizenöt napon belül nem teljesíti, az ennek leteltét követő nyolc napon belül a számvizsgáló bizottság, ennek elmulasztása esetén az összehívást kérő tulajdonostársak vagy az általuk megbízott személy jogosult a közgyűlés összehívására.
+(2) Kötelező a közgyűlés összehívása, ha azt a tulajdoni hányad 1/10-ével rendelkező tulajdonostársak a napirend, az ok és a közgyűlési határozatra tett javaslat megjelölésével írásban kérték. Ha a közös képviselő vagy az intézőbizottság elnöke a kérés kézhezvételétől számított 30 napon belüli időpontra a közgyűlést nem hívja össze, azt a harmincadik napot követő 15 napon belüli időpontra a számvizsgáló bizottság, ennek elmulasztása esetén az összehívást kérő tulajdonostársak vagy az általuk írásban megbízott bármely tulajdonostárs jogosult összehívni.
 
 36. § (1) A közgyűlés akkor határozatképes, ha azon az összes tulajdoni hányadnak több mint a felével rendelkező tulajdonostársak jelen vannak.
 
@@ -292,7 +300,7 @@ vonatkozó részletes szabályokat.
 39. § (1) A közgyűlésről jegyzőkönyvet kell felvenni, amelynek tartalmaznia kell különösen:
 
 - a) a közgyűlést levezető elnök, a jegyzőkönyvvezető és a jegyzőkönyv hitelesítésére megválasztott két tulajdonostárs nevét;
-- b) a jelenléti ív alapján a megjelent tulajdonostársak nevét és tulajdoni hányadát, illetőleg a tulajdonostárs által meghatalmazott személy nevét;
+- b) azt, hogy a megjelent tulajdonostársak nevét, tulajdoni hányadát, továbbá a távol lévő tulajdonostárs által meghatalmazott személy nevét a jegyzőkönyvhöz mellékelt jelenléti ív tartalmazza;
 - c) a közgyűlés határozatképességének megállapítását;
 - d) a tárgyalt napirendek összefoglalását;
 - e) a közgyűlés által meghozott határozatokat szó szerint és a szavazás eredményére vonatkozó adatokat.
@@ -307,7 +315,7 @@ vonatkozó részletes szabályokat.
 
 (2) Az írásbeli szavazásnak és az eredmény megállapításának részletes szabályait a szervezeti-működési szabályzatban kell meghatározni.
 
-(3) Az írásbeli szavazás eredményéről a közös képviselő vagy az intézőbizottság elnöke – a 19. § (3) bekezdésében foglaltaknak megfelelően – tájékoztatja a tulajdonostársakat.
+(3) Az írásbeli szavazás eredményét a közös képviselő vagy az intézőbizottság elnöke – a 19. § (3) bekezdésében foglaltaknak megfelelően – írásban köteles közölni a tulajdonostársakkal.
 
 41. § (1) A szervezeti-működési szabályzat a közgyűlés megtartásának módját részközgyűlések formájában is meghatározhatja; ebben az esetben megállapítja a részközgyűlési körzeteket.
 
@@ -327,9 +335,9 @@ vonatkozó részletes szabályokat.
 
 - a) a közgyűlés határozatait előkészíteni és végrehajtani, gondoskodva arról, hogy azok megfeleljenek a jogszabályok, az alapító okirat és a szervezeti-működési szabályzat rendelkezéseinek,
 - b) minden szükséges intézkedést megtenni az épület fenntartásának biztosítása érdekében,
-- c) közölni és beszedni a tulajdonostársakat terhelő közös költséghez való hozzájárulás összegét és érvényesíteni a közösség ezzel kapcsolatos igényeit.
+- c) közölni és beszedni a tulajdonostársakat terhelő közös költséghez való hozzájárulás összegét, továbbá a 24. § (2) bekezdés b) pontja szerinti, külön jogszabályok alapján meghatározott szolgáltatások díját, valamint érvényesíteni a közösség ezzel kapcsolatos igényeit. Ezen igények érvényesítése iránti perben a tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek a bírósághoz történő érkezésétől számított harmincadik napra kell kitűzni. A kereset más keresettel nem kapcsolható össze, keresetváltoztatásnak és szünetelésnek helye nincs.
 
-(2) A közös képviselő (az intézőbizottság elnöke) a közgyűlés határozata alapján társasház-kezelői tevékenységet is elláthat.
+(2) A közös képviselő vagy az intézőbizottság elnöke a közgyűlés határozata alapján társasház-kezelői tevékenységet is elláthat. Ebben az esetben a szerződésnek tartalmaznia kell az 52. § (2) bekezdésében meghatározott társasház-kezelői tevékenység körében ellátandó feladatokat és az e tevékenység díjazása kérdésében történő megállapodást is.
 
 (3) A közös képviselő (az intézőbizottság elnöke) köteles megőrizni az ingatlanügyi hatósághoz benyújtott alapító okirat és szervezeti-működési szabályzat egy példányát.
 
@@ -384,14 +392,14 @@ vonatkozó részletes szabályokat.
 
 50. § (1) A közös képviselő (az intézőbizottság elnöke) – a (2) bekezdés rendelkezésének kivételével – jogosult a közösség képviseletének ellátására a bíróság és más hatóság előtt is. E jogkörének korlátozása harmadik személlyel szemben hatálytalan.
 
-(2) Az építésügyi hatósági eljárásban meghozott hatósági határozatot – a jogorvoslat lehetőségének biztosításával – valamennyi tulajdonostárs részére kézbesíteni kell; ebben az esetben a közös képviselő (az intézőbizottság elnöke) a közösség képviseletének ellátására nem jogosult.
+(2) Építésügyi hatósági eljárásban – amennyiben a társasház közössége ügyfélnek minősül – annak képviseletére az (1) bekezdésnek megfelelően a közös képviselő (az intézőbizottság elnöke) jogosult, azonban az új építmény építésére, valamint a meglévő építmény tömegének megváltoztatására jogosító, továbbá a társasház kérelmére hozott építési engedélyt valamennyi tulajdonostársnak kézbesíteni kell.
 
 ### A számvizsgáló bizottság
 
 51. § (1) A számvizsgáló bizottság jogkörében eljárva:
 
 - a) bármikor ellenőrizheti a közös képviselő, illetőleg az intézőbizottság ügyintézését, havonként ellenőrzi a közösség pénzforgalmát,
-- b) véleményezi a közgyűlés elé terjesztett javaslatot, így különösen a költségvetést és az elszámolást, valamint a szervezeti-működési szabályzat által meghatározott értékhatár felett a bemutatott számlákat,
+- b) véleményezi a közgyűlés elé terjesztett javaslatot, így különösen a számviteli szabályok szerinti könyvvezetés és beszámoló alapján elkészített éves elszámolást és a következő évi költségvetést, valamint a szervezeti-működési szabályzat által meghatározott értékhatár felett a bemutatott számlákat,
 - c) javaslatot tesz a közös képviselő, illetőleg az intézőbizottság elnöke és tagjai díjazására,
 - d) összehívja a közgyűlést, ha a közös képviselő vagy az intézőbizottság elnöke az erre vonatkozó kötelességének nem tesz eleget.
 
@@ -401,21 +409,29 @@ vonatkozó részletes szabályokat.
 
 (4) A számvizsgáló bizottsággal nem rendelkező társasház közösségének ellenőrzési jogkörét és feladatait a szervezeti-működési szabályzatban az (1) bekezdés rendelkezéseinek figyelembevételével kell megállapítani; a szabályzat előírhatja, hogy e feladatokat évente a közgyűlés határozatával felhatalmazott tulajdonostárs látja el.
 
-### A könyvvizsgálatot és a gazdasági ellenőrzési feladatot ellátó személy
+(5) Ha az (1) bekezdés szerinti feladatok ellátása számvizsgáló bizottság vagy a (4) bekezdésben említettek szerint felhatalmazható tulajdonostárs hiánya miatt nem biztosítható, e feladatok ellátásával – a szervezeti-működési szabályzat erről szóló rendelkezése esetén – a számvitelről szóló törvény szerinti könyvviteli szolgáltatás végzésére jogosult szolgáltató vagy okleveles könyvvizsgálói képesítéssel rendelkező és a számvitelről szóló törvény szerinti nyilvántartásban szereplő (a továbbiakban: regisztrált) személy vagy olyan gazdálkodó szervezet is megbízható, amelynek van ilyen tagja vagy alkalmazottja.
 
-51/A. § (1) Ha a közösség éves pénzügyi forgalma eléri vagy meghaladja a tízmillió Ft-ot, vagy az alapító okirat szerint külön tulajdonban lévő lakások és nem lakás céljára szolgáló helyiségek száma eléri vagy meghaladja az ötvenet, a számvizsgáló bizottság, illetőleg az ellenőrzési jogkör gyakorlója (a továbbiakban együtt: számvizsgáló bizottság) feladat-ellátásának segítésére – különösen az éves elszámolás és a költségvetési javaslat előzetes véleményezésére – legalább regisztrált mérlegképes könyvelőt, vagy annál magasabb számviteli képesítéssel bíró és ebbéli minőségében regisztált személyt, vagy gazdasági társaságot (a továbbiakban: gazdasági ellenőrzést segítő személy) kell igénybe venni.
+### III/A. Fejezet — A GAZDASÁGI ELLENŐRZÉS SEGÍTÉSE
 
-(2) Nem lehet gazdasági ellenőrzést segítő személy a társasházban tulajdonostárs, haszonélvező, más használó, a közös képviselő (az intézőbizottság elnöke, tagja), a számvizsgáló bizottság elnöke, tagja és ezek közeli hozzátartozója [Ptk. 685. § b) pont], e minősége fennállása alatt és annak megszűnésétől számított egy évig.
+### A gazdasági ellenőrzést segítő személy
 
-(3) Az ellenőrzési feladatot az ilyen tevékenység folytatására jogosult könyvvizsgáló cég is elláthatja. A könyvvizsgáló cég megbízásakor a könyvvizsgálatot végző természetes személyt (kamarai tag könyvvizsgálót) is meg kell nevezni. Ebben az esetben a (2) bekezdésben meghatározott előírások a természetes személyre (kamarai tag könyvvizsgálóra) vonatkoznak.
+51/A. § (1) Ha a közösség éves pénzforgalma meghaladja a húszmillió forintot vagy az alapító okirat szerint külön tulajdonban lévő lakások és nem lakás céljára szolgáló helyiségek száma meghaladja az ötvenet, a számvizsgáló bizottság, illetőleg az ellenőrzési jogkör gyakorlója (a továbbiakban együtt: számvizsgáló bizottság) feladatellátásának segítésére – a számviteli szabályok szerinti könyvvezetés és beszámoló alapján elkészített éves elszámolás és a következő évi költségvetési javaslat előzetes vizsgálatára és véleményezésére – gazdasági ellenőrzést segítő személyt kell igénybe venni. Gazdasági ellenőrzést segítő személy a számvitelről szóló törvény szerinti könyvviteli szolgáltatás végzésére jogosult szolgáltató vagy okleveles könyvvizsgálói képesítéssel rendelkező és regisztrált személy lehet.
 
-(4) A gazdasági ellenőrzést segítő személy betekinthet a közösség pénzforgalommal kapcsolatos irataiba, a közös képviselőtől (az intézőbizottság elnökétől) és a számvizsgáló bizottság elnökétől, tagjaitól felvilágosítást kérhet. Feladata különösen a társasház befektetett eszközeinek, készletállományának, pénzeszközeinek, követeléseinek és kötelezettségeinek, pénzmaradványának és eredményének vizsgálata.
+(2) Nem kötelező az (1) bekezdésben említett gazdasági ellenőrzést segítő személy igénybevétele, ha:
 
-(5) A gazdasági ellenőrzést segítő személy köteles megvizsgálni a közgyűlés elé terjesztett éves beszámolót és a költségvetési javaslatot abból a szempontból, hogy azok valós adatokat tartalmaznak-e, illetve megfelelnek-e a jogszabályok előírásainak, továbbá – különösen az adósságot keletkeztető kötelezettségvállalások tekintetében – köteles a pénzügyi helyzetet elemezni.
+- a) az ellenőrzési feladatok ellátása az 51. § (5) bekezdés alapján biztosított,
+- b) a számvizsgáló bizottság elnöke vagy tagja mérlegképes könyvelői vagy okleveles könyvvizsgálói képesítéssel rendelkező és regisztrált személy, vagy
+- c) a közös képviselő, az intézőbizottság elnöke vagy tagja mérlegképes könyvelői vagy okleveles könyvvizsgálói képesítéssel rendelkező és regisztrált személy, vagy társasház-kezelői vagy ingatlankezelői szakképesítéssel rendelkezik és megfelel az e törvény 52– 55. § szerinti feltételeknek.
 
-(6) A gazdasági ellenőrzést segítő személy tanácskozási joggal vesz részt a pénzforgalommal kapcsolatos közgyűlési napirendi pont tárgyalásán, amelyre őt a közös képviselő (az intézőbizottság elnöke) köteles meghívni. A könyvvizsgáló véleményéről írásban köteles tájékoztatni a közgyűlést, amelyet a meghívóhoz mellékelni kell; az e körbe tartozó napirendi pontokról a könyvvizsgáló véleményének hiánya esetén érvényes közgyűlési határozat nem hozható.
+(3) A gazdasági ellenőrzés segítésével olyan gazdálkodó szervezet is megbízható, melynek tagja vagy alkalmazottja rendelkezik az (1) bekezdésben meghatározott szakképesítéssel. A gazdálkodó szervezet megbízásakor a gazdasági ellenőrzést segítő természetes személyt is meg kell nevezni.
 
-(7) Ha a gazdasági ellenőrzést segítő személy tudomást szerez a közösség vagyonának várható jelentős csökkenéséről és más olyan tényről, amely társasházi tisztségviselő törvényben meghatározott felelősségre vonását vonhatja maga után, köteles a közgyűlés összehívását kérni a közös képviselőtől (az intézőbizottság elnökétől).
+### A gazdasági ellenőrzést segítő személy jogai és kötelezettségei
+
+51/B. § (1) A gazdasági ellenőrzést segítő személy feladata a számviteli szabályok szerinti könyvvezetés és beszámoló alapján elkészített éves elszámolás és a következő évi költségvetési javaslat – éves közgyűlés elé terjesztett – tervezetének előzetes vizsgálata és véleményezése.
+
+(2) A gazdasági ellenőrzést segítő személy az (1) bekezdésben meghatározott feladatának elvégzése céljából betekinthet a közösség számviteli nyilvántartásaiba – ideértve a pénzforgalommal kapcsolatos iratokat is –, az azt alátámasztó bizonylatokba, dokumentumokba, valamint a közös képviselőtől, az intézőbizottság elnökétől, tagjaitól és a számvizsgáló bizottság elnökétől, tagjaitól felvilágosítást kérhet.
+
+(3) A gazdasági ellenőrzést segítő személy tanácskozási joggal vesz részt az (1) bekezdésben említett közgyűlési napirendi pont tárgyalásán, amelyre őt kötelező meghívni. A gazdasági ellenőrzést segítő személy a véleményéről és vizsgálatának eredményéről – ideértve azt is, ha tudomást szerez a közösség vagyonának várható jelentős csökkenéséről, illetve más olyan tényről, amely társasházi tisztségviselő felelősségre vonását vonhatja maga után –, írásban köteles tájékoztatni a közgyűlést. A gazdasági ellenőrzést segítő személy e tájékoztatását a meghívóhoz mellékelni kell; ennek elmulasztása esetén az e körbe tartozó napirendi pontokról hozott közgyűlési határozat érvénytelen.
 
 ### IV. Fejezet — TÁRSASHÁZKEZELÉS, INGATLANKEZELÉS
 
@@ -471,6 +487,8 @@ kezeli.
 - 3. Rendes gazdálkodás körét meghaladó kiadások: az állagvédelmet meghaladó, a fenntartás (az üzemeltetés, a karbantartás és a felújítás) körébe nem tartozó olyan munkálattal összefüggő kiadások, amelyek az alapító okirat szerint közös tulajdonban lévő épület, épületrész bővítésével, átalakításával vagy közös tulajdonba kerülő új épület, épületrész, illetőleg épületberendezés létesítésével járnak.
 - 4. Eredménytelen az írásbeli szavazás 4.1. a szervezeti-működési szabályzat tekintetében: ha az írásbeli határozati javaslatra leadott érvényes és azonos írásbeli szavazatok aránya nem éri el a tulajdonostársak tulajdoni hányada alapján számított egyszerű többséget, 4.2. minden más esetben: ha az írásbeli határozati javaslatra leadott érvényes és azonos írásbeli szavazatok aránya nem éri el a tulajdonostársak tulajdoni hányada alapján számított szavazattöbbségnek a törvényben meghatározott mértékét.
 - 5. Közvetlenül érintett szomszédos tulajdonostársak: a társasházban lévő külön tulajdont elhatároló épületszerkezet két oldalán lévő tulajdonosok.
+- 6. Üzletszerűen végzett társasház-kezelői, illetve üzletszerűen végzett ingatlankezelő tevékenység: társasház-kezelői, illetve ingatlankezelői szolgáltatás, mely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottak szerint önálló, üzletszerűen – nyereség elérése érdekében rendszeresen, gazdasági kockázatvállalás mellett – végzett gazdasági tevékenység.
+- 7. A közösség éves pénzforgalma: a gazdálkodási évben, készpénzben és bankszámlán befolyt összes bevétel és kifizetett összes kiadás együttes összege.
 
 ### A bírósági eljárás megelőzése
 
@@ -516,6 +534,10 @@ kezeli.
 
 (2) Az átalakulásról hozott közgyűlési határozat alapján a lakásszövetkezet alapítására, szervezetére és működésére a lakásszövetkezetekről szóló külön törvény rendelkezéseit kell alkalmazni.
 
+64/A. § A társasházakról szóló 2003. évi CXXXIII. törvény módosításáról szóló 2010. évi CLXXVII. törvény (a továbbiakban: Módtv.) által megállapított 51/A. § és 51/B. § rendelkezéseit azon közgyűlés elé terjesztett, a 2010. évre vonatkozó, a számviteli szabályok szerinti könyvvezetés és beszámoló alapján elkészített elszámolás és a 2011. évi költségvetési javaslat tekintetében is alkalmazni kell, amely közgyűlésre a meghívó vagy az írásbeli szavazásra történő felhívás a napirendek megjelölésével a Módtv. hatálybalépésének napjáig még nem került megküldésre.
+
 65. § Felhatalmazást kap a Kormány, hogy az ingatlanvállalkozás-felügyeleti hatóságot rendeletben kijelölje.
 
 66. § Felhatalmazást kap a lakásgazdálkodásért és lakáspolitikáért felelős miniszter, hogy az e törvény szerinti üzletszerűen végzett társasház-kezelői, illetőleg üzletszerűen végzett ingatlankezelői tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és a tevékenységet folytatókról vezetett nyilvántartásnak a személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben szabályozza.
+
+67. § Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, hogy városképi vagy kereskedelmi szempontok alapján – az épített környezet alakításáról és védelméről szóló törvénnyel összhangban – rendeletben határozhassa meg a nem lakás céljára szolgáló helyiség használatának, hasznosításának, illetve ezek megváltoztatásának módját, feltételeit.

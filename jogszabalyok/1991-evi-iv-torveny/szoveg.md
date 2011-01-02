@@ -786,7 +786,7 @@ időtartamra folyósítható.
 
 - a) a közhasznú munkavégzés, közcélú munkavégzés vagy közmunka keretében foglalkoztatott munkavállalót,
 - b) az egyszerűsített foglalkoztatás szabályai szerint jogszerűen alkalmazott munkavállalót,
-- c) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény, illetve a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya tartozó munkavállalót, és
+- c) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény, illetve a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó munkavállalót, ideértve az önkéntes tartalékos szolgálati viszonnyal rendelkező munkavállalót is, és
 - d) az Mt. 150. § (1) bekezdése alapján más munkáltatónál történő átmeneti munkavégzés során foglalkoztatott munkavállalót.
 
 (3) A rehabilitációs hozzájárulás éves összege a kötelező foglalkoztatási szintből hiányzó létszám, valamint az (5) bekezdésben meghatározott rehabilitációs hozzájárulás szorzata.
@@ -979,7 +979,7 @@ időtartamra folyósítható.
 
 55. § (1) Ha a támogatás pénzügyi fedezetéül a Munkaerőpiaci Alap foglalkoztatási alaprészének, valamint a közfoglalkoztatási támogatások előirányzatának
 
-- a) központi kerete szolgál, a minisztérium vagy az állami foglalkoztatási szerv,
+- a) központi kerete szolgál, a miniszter vagy az állami foglalkoztatási szerv,
 - b) a decentralizált pénzügyi kerete szolgál, az állami foglalkoztatási szerv
 
 köt a támogatásban részesülővel hatósági szerződést.

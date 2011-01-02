@@ -238,45 +238,11 @@ A fentiek hiteléül az erre felhatalmazott meghatalmazottak – jó és kellő 
 
 Készült Londonban, 2000. október 17-én, egy-egy eredeti és egyaránt hiteles példányban angol, francia és német nyelven.”
 
-4. § A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény (a továbbiakban: Szt.) 35. §-ának (3) bekezdése a következő mondattal egészül ki:
-
-„Ha az európai szabadalom szövegének magyar nyelvű fordítását a szabadalmas nem nyújtotta be a 84/H. § alapján, és a bitorló lakóhelye vagy székhelye a Magyar Köztársaság területén van, a bitorlást mindaddig nem lehet neki felróhatónak tekinteni, amíg a szabadalmas eleget nem tesz a 84/G. § (2) bekezdésében foglaltaknak, kivéve, ha a szabadalmas bizonyítja, hogy a bitorló a fordítás hiányában is megérthette az európai szabadalom szövegét.”
-
-5. § Az Szt. 52. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A szabadalmi eljárások magyar nyelven folynak, a szabadalmi leírást az igényponttal, a rajz feliratát és a kivonatot – ha e törvény eltérően nem rendelkezik – magyar nyelven kell elkészíteni.”
-
-6. § Az Szt. 53/D. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Elektronikus úton is be lehet nyújtani – az 57/A. §-ban szabályozott, valamint a 84/E. § (3) bekezdésében, a 84/H. § (4) bekezdésében és a 84/K. § (2) bekezdésében hivatkozott módon és feltételekkel –
-
-a) a szabadalmi bejelentést;
-
-b) az igénypont-közzétételi kérelmet és az igénypontok magyar nyelvű fordítását;
-
-c) az európai szabadalom igénypontjainak magyar nyelvű fordítását, illetve az európai szabadalom szövegének angol vagy magyar nyelvű fordítását;
-
-d) a b) és a c) pontban említett fordítás kijavítására irányuló kérelmet.”
-
-7. § (1) Az Szt. 82. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A nemleges megállapításra (37. §) irányuló kérelmet eggyel több példányban kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány szabadalmas van. A kérelemhez mellékelni kell a hasznosított vagy hasznosítani kívánt termék vagy eljárás, valamint a megjelölt szabadalom leírását és rajzát. Ha az európai szabadalom hatályossá válásához nem nyújtották be az európai szabadalom szövegének magyar nyelvű fordítását, vagy azt a szabadalmas nem bocsátotta a kérelmező rendelkezésére, a Szellemi Tulajdon Nemzeti Hivatala a kérelmező ilyen irányú kérelmére felhívja a szabadalmast e fordítás benyújtására.”
-
-(2) Az Szt. 82. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Ha a szabadalmas nem tesz eleget a fordítás benyújtására vonatkozó – az (1) bekezdés alapján kiadott – felhívásnak, a fordítást a szabadalmas költségére a kérelmező elkészíttetheti, kivéve, ha a szabadalmas a felhívásra úgy nyilatkozik, hogy a kérelmező által hasznosított vagy hasznosítani kívánt termék vagy eljárás nem ütközik a megjelölt szabadalomba.”
-
-8. § Az Szt. 83. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az európai szabadalom szövege magyar nyelvű fordításának elkészítésével járó költséget a szabadalmas viseli. A nemleges megállapítási eljárás többi költségét a kérelmező viseli.”
+4–8. §
 
 9–10. §
 
-11. § Az Szt. 104. §-a a következő (15) és (16) bekezdéssel egészül ki, és a jelenlegi (15) és (16) bekezdés számozása (17) és (18) bekezdésre változik:
-
-„(15) Ha az európai szabadalom szövegének magyar nyelvű fordítását a szabadalmas nem nyújtotta be a 84/H. § alapján, és nem bocsátotta – a 84/G. § (2) bekezdésében foglaltak szerint – a feltételezett bitorló rendelkezésére annak kérésére sem, azt úgy kell tekinteni, hogy az alperes a perre okot nem adott.
-
-(16) Európai szabadalom esetében a keresetlevélhez – hiánypótlás terhe mellett – csatolni kell a szabadalom szövegének magyar nyelvű fordítását. E fordítás költségét a szabadalmas viseli.”
+11. §
 
 12. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – 2010. szeptember 1-jén lép hatályba.
 
@@ -284,11 +250,7 @@ d) a b) és a c) pontban említett fordítás kijavítására irányuló kérelm
 
 (3) Az e törvény végrehajtásához szükséges intézkedésekről a Szellemi Tulajdon Nemzeti Hivatalának elnöke gondoskodik.
 
-13. § (1) Az Szt. 84/K. §-ának (2) bekezdésében a „84/H. § (3)” szövegrész helyébe a „84/H. § (4)” szövegrész lép.
-
-(2) Az Szt. 104. §-ának – e törvény 11. §-a szerint (18) bekezdésre változó számozású – (16) bekezdésében a „(15)” szövegrész helyébe a „(17)” szövegrész lép.
-
-(3) Az Szt. 84/J. §-ának (1) bekezdésében, valamint 84/K. §-ának (1) és (3) bekezdésében a „magyar nyelvű” szövegrészek hatályukat vesztik.
+13. §
 
 14. § (1) E törvény 4–11. §-ai és 13. §-a 2011. január 2-án hatályukat vesztik.
 
