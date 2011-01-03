@@ -252,6 +252,4 @@ Készült Londonban, 2000. október 17-én, egy-egy eredeti és egyaránt hitele
 
 13. §
 
-14. § (1) E törvény 4–11. §-ai és 13. §-a 2011. január 2-án hatályukat vesztik.
-
-(2) Ez a § 2011. január 3-án hatályát veszti.
+14. §

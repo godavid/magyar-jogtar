@@ -138,15 +138,11 @@ a következő törvényt alkotja:
 
 #### 7. Záró és átmeneti rendelkezések
 
-15. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – 2011. január 1-jén lép hatályba.
+15. § (1) Ez a törvény 2011. január 1-jén lép hatályba.
 
-(2) A 16. § (2) bekezdése 2011. január 2-án lép hatályba.
+(2)
 
-16. § (1) Hatályát veszti a Szülőföld Alapról szóló 2005. évi II. törvény.
-
-(2) Hatályát veszti a 6. alcím.
-
-(3) Ez a §, valamint a 15. § (1) bekezdésében az „– a (2) bekezdésben meghatározott kivétellel –” szövegrész és a 15. § (2) bekezdése 2011. január 3-án hatályát veszti.
+16. §
 
 17. § A Bethlen Gábor Alap a Szülőföld Alap általános jogutódja.
 

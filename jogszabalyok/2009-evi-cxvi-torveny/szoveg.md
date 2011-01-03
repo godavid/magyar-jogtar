@@ -76,7 +76,7 @@ az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. tör
 
 134–142. §
 
-143. § Az I–XVI. Fejezet, a XVIII. Fejezet, a 134–142. §-ok és az 1–7. mellékletek 2011. január 2-án hatályukat vesztik. E rendelkezés 2011. január 3-án hatályát veszti.
+143. §
 
 ### XX. Fejezet — Átmeneti rendelkezések
 
