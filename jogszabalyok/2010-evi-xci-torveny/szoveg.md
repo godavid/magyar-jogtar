@@ -136,7 +136,7 @@ Készült Budapesten, a 2010. év július hó 22. napján, két eredeti példán
 
 (Aláírások)”
 
-4. § Az Országgyűlés jóváhagyja a Megállapodásnak a Megállapodás 11. Cikkének (3) bekezdésében meghatározott időponttól kezdődően történő ideiglenes alkalmazását.
+4. §
 
 5. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
