@@ -145,11 +145,12 @@ Az igazságszolgáltatás feladatainak jogállami szintű ellátása, a bírói 
 - a) elbírálja – törvényben meghatározott ügyekben – a megyei bíróság vagy az ítélőtábla határozata ellen előterjesztett jogorvoslatot.
 - b) elbírálja a felülvizsgálati kérelmet,
 - c) a bíróságokra kötelező jogegységi határozatot hoz,
-- d) eljár a hatáskörébe tartozó egyéb ügyekben.
+- d) a bíróságok rendkívüli és aránytalan munkaterhének megszüntetése, valamint az ügyek ésszerű időn belül való elbírálásának elősegítése érdekében kijelöli az eljáró bíróságot,
+- e) eljár a hatáskörébe tartozó egyéb ügyekben.
 
 26. § A Legfelsőbb Bíróságon ítélkező és jogegységi tanácsok,valamint büntető, polgári és közigazgatási kollégiumok működnek.
 
-### III. Fejezet — Az ítélkezés egységének biztosítása
+### III. Fejezet — Az ítélkezés egységességének és az ügyek ésszerű időn belül való elbírálásának biztosítása
 
 ### Jogegységi eljárás
 
@@ -208,6 +209,22 @@ Az igazságszolgáltatás feladatainak jogállami szintű ellátása, a bírói 
 (3) Az ítélőtábla kollégiumának vezetője jogegységi eljárást kezdeményez, ha az ítélőtábla területén a jogalkalmazás egysége érdekében ez szükséges.
 
 (4) A Legfelsőbb Bíróság képviselője útján részt vesz az ítélőtábla és a megyei bíróság kollégiumának ülésein.
+
+### Eljáró bíróság kijelölése az ügyek ésszerű időn belül való elbírálásának biztosítása érdekében
+
+33/A. § (1) A Legfelsőbb Bíróság az OIT elnökének indítványára az ügy elbírálására az illetékes bíróság helyett kivételesen más, azonos hatáskörű bíróságot jelölhet ki, ha az ügy vagy a bíróságra az adott időszakban érkezett ügyek meghatározott csoportjának elbírálása a bíróság rendkívüli és aránytalan munkaterhe miatt ésszerű időn belül másként nem biztosítható és a kijelölés nem jár a kijelölt bíróság aránytalan megterhelésével.
+
+(2) A kijelölés iránti indítvány megtételét az ítélőtábla vagy a megyei bíróság elnöke az ügy érkezésétől számított 15 napon belül kezdeményezheti az OIT elnökénél. Ha az OIT elnöke a kezdeményezéssel egyetért, 15 napon belül teszi meg az indítványt a Legfelsőbb Bíróság részére.
+
+(3) A kijelölés iránti indítványban meg kell indokolni, hogy a kijelöléssel érintett ügy vagy a bíróságra a (2) bekezdésben meghatározott időszakban érkezett ügyek meghatározott csoportja ésszerű időn belül való elbírálása miért nem biztosítható, továbbá fel kell sorolni azokat az ügyforgalmi, személyzeti és egyéb adatokat, amelyek a bíróság rendkívüli és aránytalan munkaterhét igazolják. Az OIT elnöke az indítvány megtétele előtt kikéri a kijelöléssel érintett bíróság – és büntető ügy esetében a legfőbb ügyész – véleményét, továbbá az OIT Hivatalától és bármely bíróságtól adatot vagy véleményt kérhet; a megkeresésnek soron kívül eleget kell tenni.
+
+(4) A kijelölésről a Legfelsőbb Bíróság tárgyaláson kívül 8 napon belül határoz; a határozat ellen jogorvoslatnak nincs helye.
+
+(5) A Legfelsőbb Bíróság a határozat meghozatala előtt az OIT elnökétől további adatokat, véleményt szerezhet be, és megteheti a (3) bekezdésben meghatározott intézkedéseket. Az indítvány és a beszerzett vélemény a határozat meghozatalában a Legfelsőbb Bíróságot nem köti és az indítványban meghatározott ügyek elbírálására az indítványban megjelölt bíróságtól eltérő másik bíróságot is kijelölhet; e másik bíróság véleményét a döntéshozatal előtt ki kell kérni.
+
+(6) Ha a kijelölés büntető ügyet érint, a Legfelsőbb Bíróság a kijelölésről értesíti a legfőbb ügyészt.
+
+(7) A kijelöléssel érintett ügyben e § szerint újabb kijelölésnek nincs helye.
 
 ## HARMADIK RÉSZ — A BÍRÓSÁGOK IGAZGATÁSA
 
@@ -269,24 +286,23 @@ Az igazságszolgáltatás feladatainak jogállami szintű ellátása, a bírói 
 
 39. § Az OIT
 
-- a) irányítja és ellenőrzi – a Legfelsőbb Bíróság elnökének kivételével – a kinevezési hatáskörébe tartozó bírósági elnökök igazgatási tevékenységét,
-- b) összeállítja a bírósági fejezet költségvetésére és a költségvetés végrehajtására vonatkozó javaslatát, amelyet a Kormány a központi költségvetési, illetve a zárszámadási törvényjavaslat részeként előterjeszt az Országgyűlésnek,
-- c) gyakorolja a bírósági fejezet gazdálkodásával kapcsolatos feladatokat,
-- d) munkáltatói és személyügyi jogkört gyakorol,
-- e) a bíróságok feladatkörét érintő jogszabály alkotását kezdeményezheti, és véleményezi a bíróságokat érintő jogszabályok tervezetét,
-- f) ellátja az ülnökök választásának előkészítésével kapcsolatos feladatokat,
-- g) közvetlenül irányítja a belső ellenőrzést és a bírósági fejezet felügyeleti, pénzügyi ellenőrzését,
-- h) ellátja a központi oktatási feladatokat,
-- i) szervezi és végzi a bírósági statisztikai adatok gyűjtésével és feldolgozásával kapcsolatos központi feladatokat,
-- j) gondoskodik a bíróságok jogi képviseletéről,
-- k) irányítja a Hivatal tevékenységét,
-- l) megállapítja szervezeti és működési szabályzatát, ennek keretében meghatározza az OIT bíró tagjai és póttagjai jelölésének és választásának az e törvényben nem szabályozott kérdéseit, valamint jóváhagyja a Hivatal szervezeti és működési szabályzatát,
-- m) meghatározza a bíróságok szervezeti és működési szabályzatának alapelveit, jóváhagyja a Legfelsőbb Bíróság, az ítélőtáblák és a megyei bíróságok szervezeti és működési szabályzatát,
-- n) irányítja a bíróságok informatikai fejlesztését,
-- o) évente egy alkalommal tájékoztatja működéséről az ítélőtáblák és a megyei bíróságok elnökeit,
-- p) a bíróságok tekintetében ellátja a honvédelemről és a polgári védelemről szóló jogszabályokból eredő központi feladatokat, valamint ellenőrzi a tűzvédelmi, környezetvédelmi, energetikai gazdálkodási szabályok betartását,
-- q) az igazgatási feladatainak ellátása érdekében jogszabályi keretek között a bíróságokra kötelező szabályzatokat alkot, ajánlásokat és határozatokat hoz, és ezek megtartását ellenőrzi,
-- r) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
+- a)
+- b)
+- c)
+- d)
+- e)
+- f)
+- g) megállapítja, hogy a választó szerv melyik bírósághoz hány ülnököt választ, a kisebbségi választói jegyzékben szereplő választópolgárok száma és az érintett települések választópolgárai száma arányának figyelembevételével akként, hogy legalább egy ülnököt minden kisebbségi önkormányzat választhasson,
+- h)
+- i)
+- j)
+- k)
+- l)
+- m)
+- n)
+- o)
+- p)
+- q)
 
 40. § (1) Az OIT előzetes véleményt nyilvánít a Legfelsőbb Bíróság elnökének tisztségére jelölt személyéről és az elnökhelyettes személyéről.
 
@@ -328,13 +344,32 @@ Az igazságszolgáltatás feladatainak jogállami szintű ellátása, a bírói 
 
 46. § (1) Az OIT elnöke
 
-- a) összehívja és vezeti az OIT üléseit,
-- b) képviseli az OIT-t, ideértve a 39. § g) pontjában meghatározott feladatok ellátását is,
-- c) ellátja az államháztartásról szóló törvényben és más jogszabályokban a költségvetési fejezet felügyeletét ellátó szerv vezetője számára meghatározott feladatokat a bíróságok költségvetési fejezete tekintetében,
-- d) aláírja az OIT határozatát és az annak alapján kiadott okiratokat,
-- e) irányítja a Hivatal vezetőjének tevékenységét.
+- a)
+- b)
+- c)
+- d)
+- e)
+- f)
+- g)
+- h)
+- i)
+- j)
+- k)
+- l)
+- m) indítványt tesz a Legfelsőbb Bíróság részére másik bíróság kijelölésére, ha az az ügyek ésszerű időn belül való elbírálásának biztosítása érdekében szükséges,
+- n)
+- o)
+- p)
+- q)
+- r)
+- s)
+- t)
+- u)
+- v)
 
-(2) Az OIT elnökét az OIT bíró tagjai közül választott elnökhelyettes helyettesíti.
+(2)
+
+(3)
 
 47. § Az OIT elnöke évente tájékoztatja az Országgyűlést a bíróságok általános helyzetéről és az OIT igazgatási tevékenységéről.
 

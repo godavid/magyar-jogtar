@@ -1069,6 +1069,14 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 (6) A jelölt lakóhelye szerint illetékes jegyző megállapítja, hogy a jelöltnek van-e választójoga.
 
+(7) A jelölt a jelölés elfogadását követően haladéktalanul, az ülnökké történő megválasztására jogosult képviselő-testület, megyei (fővárosi) közgyűlés részére hatósági bizonyítvánnyal igazolja büntetlen előéletét.
+
+(8) Ha a jelölt a (7) bekezdésben meghatározott igazolási kötelezettségét elmulasztja, ülnökké megválasztani nem lehet.
+
+(9) Az ülnök megválasztására jogosult képviselő-testület és megyei (fővárosi) közgyűlés a (7) bekezdésben meghatározott személyes adatokat a jelölt ülnökké történő megválasztásáról meghozott döntésig kezeli.
+
+(10) Egy jelölt kizárólag egy bírósághoz választható meg ülnökké.
+
 124. § (1) A helyi bíróság ülnökeit a bíróság székhelye szerint illetékes települési, illetőleg települési kisebbségi önkormányzat képviselő-testülete, a megyei bíróság ülnökeit a megyei (fővárosi), megyei jogú városi közgyűlés és a területi kisebbségi önkormányzatok képviselő-testületei választják meg. A kerületi bíróságok ülnökeit a bíróság illetékességi területe szerinti települési önkormányzatok és a települési kisebbségi önkormányzatok képviselő-testületei, a Budakörnyéki Bíróság ülnökeit a Pest Megyei Közgyűlés és a Pest megyei kisebbségi önkormányzatok képviselő-testületei választják meg. A megyei bíróság és a munkaügyi bíróság ülnökeit a megyei (fővárosi), megyei jogú városi közgyűlés és a területi kisebbségi önkormányzatok képviselő-testületei választják meg.
 
 (2) Az ülnökök megválasztásánál a helyi önkormányzatokról szóló 1990. évi LXV. törvény 12. §-a (4) bekezdésének a) pontját megfelelően alkalmazni kell.
