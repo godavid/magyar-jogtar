@@ -201,6 +201,8 @@ merült fel.
 
 (3) Az eljáró bíróságot a Legfelsőbb Bíróság jelöli ki akkor is, ha az illetékességet meghatározó körülmények nem állapíthatók meg.
 
+20/A. § A Legfelsőbb Bíróság az Országos Igazságszolgáltatási Tanács elnökének indítványára az illetékes bíróság helyett más, azonos hatáskörű bíróságot jelöl ki az ügy elbírálására, ha a bíróság rendkívüli munkaterhe miatt az ügyek ésszerű időn belül való elbírálása más módon nem biztosítható, és a kijelölés nem jár a kijelölt bíróság aránytalan megterhelésével.
+
 ### A bíró kizárása
 
 21. § (1) Bíróként nem járhat el,

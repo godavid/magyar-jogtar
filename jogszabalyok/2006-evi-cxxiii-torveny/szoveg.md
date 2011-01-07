@@ -196,9 +196,9 @@ indul meg.
 
 (2)
 
-(3) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy rendeletben megállapítsa a közvetítői tevékenységet végző pártfogó felügyelő képesítési követelményeit.
+(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a közvetítői tevékenységet végző pártfogó felügyelő képesítési követelményeit, valamint a büntető ügyekben közvetítői tevékenységet végző ügyvéd képesítési követelményeit és díjazásának szabályait rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben megállapítsa a büntető ügyekben közvetítői tevékenységet végző ügyvéd képesítési követelményeit, valamint díjazásának szabályait.
+(4)
 
 ### Az Európai Unió jogának való megfelelés
 
