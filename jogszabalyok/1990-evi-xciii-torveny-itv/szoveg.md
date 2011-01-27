@@ -1575,7 +1575,7 @@ bb) a műemléki, régészeti, kulturális örökségvédelmi, természet-, táj
 
 bc) a ba)–bb) pontokban meghatározottak együttes tisztázására szolgál, 45 000 forint,
 
-c) építési (továbbépítési) engedélyezési eljárás esetében
+c) építési (továbbépítési) engedélyezési eljárás esetében az alapilleték 5000 forint, melyen felül
 
 ca) új egylakásos lakóépület építése és bővítése esetén 20 000 forint, egyéb új épület építése és bővítése esetén lakásonként 10 000 forint, egyéb önálló rendeltetési egység építése és bővítése esetén
 
@@ -1592,6 +1592,8 @@ cd) meglévő műtárgy bővítése, átalakítása, felújítása, helyreállí
 ce) egyéb építési tevékenység esetén 50 m2-ként 10 000 forint,
 
 cf) antennák, antennatartó szerkezetek, csatlakozó műtárgyak esetén, az eljárás tárgyát képező távközlési építmény legnagyobb lineáris méretét figyelembe véve, megkezdett méterenként 50 000 forint,
+
+cg) a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény IV. fejezete szerinti veszélyes ipari üzemhez vagy veszélyes létesítményhez tartozó építmény építése, bővítése, átalakítása, felújítása, helyreállítása, korszerűsítése esetén, ha mérete jellemzően alapterületben kifejezhető, akkor minden megkezdett 100 m2-ként 50 000 forint, ha jellemzően hosszban kifejezhető, akkor folyóméterenként 30 000 forint,
 
 d) módosított építési engedélyezés esetén a módosítással érintett építményrész tekintetében az alapeljárás illetékével egyező mértékű,
 
