@@ -104,7 +104,7 @@ bocsát ki.
 
 (3) A (2) bekezdésben meghatározott díjkedvezményre a közszolgáltató és az önkormányzat írásos megállapodása alapján a közszolgáltató abban az esetben is jogosult, ha a beruházást nem a közszolgáltató, hanem az önkormányzat valósítja meg.
 
-(4) A díjfizetéssel kapcsolatos vízminőségi és mennyiségi mérőműszerek beszerzési értékének 80%-át a díjfizetésre kötelezett a beszerzés évében a fizetendő díjelőlegből vonhatja le.
+(4)
 
 (5) Az (1) és (2) bekezdésben meghatározott díjkedvezmény a beruházással érintett környezetterhelő anyag és a beruházással érintett telephely vonatkozásában vehető igénybe.
 
