@@ -22,29 +22,7 @@ a Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvén
 
 5. § (1)–(2)
 
-(3) Az Itv. melléklete XV. fejezet 1. pont c) alpontja helyébe a következő rendelkezés lép:
-
-[1. Az építésügyi hatóságnál indított eljárás illetéke]
-
-„c) építési (továbbépítési) engedélyezési eljárás esetében az alapilleték 5000 forint, melyen felül
-
-ca) új egylakásos lakóépület építése és bővítése esetén 20 000 forint, egyéb új épület építése és bővítése esetén lakásonként 10 000 forint, egyéb önálló rendeltetési egység építése és bővítése esetén
-
-– önálló rendeltetési egységenként 250 m2 hasznos alapterületig 20 000 forint,
-
-– a 250 m2-nél nagyobb hasznos alapterületű önálló rendeltetési egységenként 100 000 forint,
-
-cb) meglévő épület átalakítása, felújítása, helyreállítása, korszerűsítése esetén az építési tevékenységgel érintett hasznos alapterület minden megkezdett 100 m2-ként 10 000 forint, vagy az érintett felület minden megkezdett 200 m2-ként 10 000 forint,
-
-cc) műtárgy építése esetén, ha mérete jellemzően alapterületben kifejezhető, akkor minden megkezdett 100 m2-ként 10 000 forint, ha jellemzően hosszban kifejezhető, akkor folyóméterenként 1000 forint,
-
-cd) meglévő műtárgy bővítése, átalakítása, felújítása, helyreállítása, korszerűsítése esetén az építési tevékenységgel érintett alapterület minden megkezdett 100 m2-ként 10 000 forint, vagy ennek hiányában az érintett felület minden megkezdett 200 m2-ként 10 000 forint,
-
-ce) egyéb építési tevékenység esetén 50 m2-ként 10 000 forint,
-
-cf) antennák, antennatartó szerkezetek, csatlakozó műtárgyak esetén, az eljárás tárgyát képező távközlési építmény legnagyobb lineáris méretét figyelembe véve, megkezdett méterenként 50 000 forint,
-
-cg) a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény IV. fejezete szerinti veszélyes ipari üzemhez vagy veszélyes létesítményhez tartozó építmény építése, bővítése, átalakítása, felújítása, helyreállítása, korszerűsítése esetén, ha mérete jellemzően alapterületben kifejezhető, akkor minden megkezdett 100 m2-ként 50 000 forint, ha jellemzően hosszban kifejezhető, akkor folyóméterenként 30 000 forint,”
+(3)
 
 ### A helyi adókról szóló 1990. évi C. törvény módosítása
 
@@ -78,19 +56,7 @@ cg) a katasztrófák elleni védekezés irányításáról, szervezetéről és 
 
 (6)–(7)
 
-(8) Az Áht. 15/A. §-a helyébe a következő rendelkezés lép:
-
-„15/A. § (1) Az államháztartás alrendszereiből nyújtott, nem normatív, céljellegű, működési és fejlesztési támogatások kedvezményezettjének nevére, a támogatás céljára, összegére, továbbá a támogatási program megvalósítási helyére vonatkozó adatokat – a (2) bekezdésben foglalt kivétellel – a kincstár honlapján közzé kell tenni legkésőbb a döntés meghozatalát követő harmincadik napig. A közzétételhez szükséges adatokat a támogatást odaítélő szervezet – a támogatásra vonatkozó döntés meghozatalát követő tizenöt napon belül – közvetlenül szolgáltatja a kincstárnak. A támogatást odaítélő szervezet vagy irányító szerve hivatalos lapjában vagy honlapján is közzéteheti ezen adatokat.
-
-(2) Helyi önkormányzat támogató esetében az (1) bekezdésben foglalt adatokat az önkormányzat hivatalos lapjában vagy honlapján kell közzétenni legkésőbb a döntés meghozatalát követő harmincadik napig. Hivatalos lap vagy honlap hiányában a közzétételre a helyben szokásos módon kerülhet sor.
-
-(3) Honlapon történő közzététel esetén a támogatásra vonatkozó döntés meghozatalától számított öt évig biztosítani kell az (1) bekezdésben foglalt adatok hozzáférhetőségét.
-
-(4) A közzétételre nem kerül sor, ha – az (1)–(2) bekezdésben a közzétételre meghatározott határidő letelte előtt – a támogatást visszavonják, vagy a támogatásról a kedvezményezett lemond. Az (1)–(2) bekezdésben a közzétételre meghatározott határidőt követően visszavont, vagy a kedvezményezett által lemondott támogatás esetén a honlapon közzétett adatokat haladéktalanul törölni kell.
-
-(5) A közzététel mellőzhető, ha törvény, kormányrendelet vagy önkormányzati rendelet kettőszázezer forint alatti támogatási összegre vonatkozóan ezt lehetővé teszi.
-
-(6) Az állami, önkormányzati támogatási programokról szóló jogszabályok megállapíthatják a nyilvánosságra hozatal részletes szabályait, és harminc napnál rövidebb határidőt is meghatározhatnak. Az elkülönített állami pénzalapokból nyújtott nem normatív támogatásokra vonatkozó közzétételi kötelezettséget törvény vagy kormányrendelet e törvény szabályaitól eltérően is megállapíthatja.”
+(8)
 
 (9)–(15)
 
@@ -100,11 +66,7 @@ cg) a katasztrófák elleni védekezés irányításáról, szervezetéről és 
 
 (17)–(69)
 
-(70) Az Áht. 124. § (2) bekezdés zsa) pontja helyébe a következő rendelkezés lép:
-
-[(2) A Kormány felhatalmazást kap arra, hogy rendeletben állapítsa meg]
-
-„zsa) a Kormány irányítása vagy felügyelete alá tartozó szervek tekintetében a 15/A. §-ban foglaltak szerinti közzététel részletes szabályait;”
+(70)
 
 (71)–(78)
 
@@ -328,7 +290,7 @@ c) tizenöt–negyven százaléka a 115. § (1) bekezdés c) pontjában meghatá
 
 ### A környezetterhelési díjról szóló 2003. évi LXXXIX. törvény módosítása
 
-44. § Hatályát veszti a környezetterhelési díjról szóló 2003. évi LXXXIX. törvény 15. § (4) bekezdése.
+44. §
 
 ### Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
