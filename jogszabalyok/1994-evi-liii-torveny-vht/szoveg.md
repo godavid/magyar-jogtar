@@ -1792,7 +1792,7 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 ### A végrehajtási költség elsőbbsége
 
-164. § [(1)] A végrehajtás során befolyt összegből mindenekelőtt a végrehajtási költséget – az eljárás kezdeményezésével, elrendelésével és foganatosításával felmerült költséget – kell kielégíteni.
+164. § A végrehajtás során befolyt összegből mindenekelőtt a végrehajtási költséget – az eljárás kezdeményezésével, elrendelésével és foganatosításával felmerült költséget – kell kielégíteni.
 
 ### Kielégítési sorrend
 
@@ -2430,11 +2430,11 @@ az adós vagyontárgyait a pénzkövetelés végrehajtásának szabályai szerin
 
 (2) A végrehajtó
 
-- a) a végrehajtói irodában való részvételt kivéve nem végezhet sem személyes közreműködéssel, sem korlátlan anyagi felelősséggel járó vállalkozási tevékenységet,
-- b) nem közvetíthet ingatlan és kölcsönügyletet,
-- c) nem vállalhat a végrehajtói tevékenységgel összefüggésben kezességet vagy szerződést biztosító más kötelezettséget.
+- a) a végrehajtói irodában való részvételt kivéve nem lehet gazdasági társaság és szövetkezet vezető tisztségviselője és felügyelőbizottságának tagja, valamint nem végezhet sem személyes közreműködéssel, sem korlátlan anyagi felelősséggel járó vállalkozási tevékenységet,
+- b) nem közvetíthet ingatlan- és kölcsönügyletet, nem vállalhat a végrehajtói tevékenységgel összefüggésben kezességet vagy szerződést biztosító más kötelezettséget,
+- c) nem lehet választottbíróság tagja.
 
-(3) Nem esik az (1) és (2) bekezdésben foglalt tilalom alá, ha az önálló bírósági végrehajtó a zálogjogosult megbízása alapján a zálogtárgy értékesítését végzi.
+(3) Nem esik az (1) és (2) bekezdésben foglalt tilalom alá a kamarában végzett tevékenység, továbbá az, ha az önálló bírósági végrehajtó – a (2) bekezdés a) pontjában foglaltak sérelme nélkül – a zálogjogosult megbízása alapján a zálogtárgy értékesítését végzi.
 
 (4) A munkaviszony, szolgálati viszony és munkavégzési kötelezettséggel járó egyéb jogviszony létesítésének és a vállalkozás fenntartásának tilalma nem vonatkozik az állásából felfüggesztett végrehajtóra, végrehajtó-helyettesre és végrehajtójelöltre, és a szolgálatát szüneteltető végrehajtóra.
 
@@ -2511,17 +2511,13 @@ az adós vagyontárgyait a pénzkövetelés végrehajtásának szabályai szerin
 
 (4) A jogi szakvizsgával rendelkező személy végrehajtóvá nevezhető ki, ha
 
-- a) megfelel az (1) bekezdés a)–d) és f) pontjában foglaltaknak,
+- a) megfelel az (1) bekezdés a)–d) pontjában foglaltaknak,
 - b) vele szemben a (2) bekezdés szerinti kizáró ok nem áll fenn, és
-- c) egyéves önálló bírósági végrehajtó-helyettesi gyakorlatot szerzett.
+- c)
 
 234. § (1) A végrehajtói állást – a 234/A. §-ban foglalt kivétellel – pályázat útján kell betölteni.
 
-(2) Olyan végrehajtói székhely esetén, ahol nagyobb számban élnek nemzeti és etnikai kisebbséghez tartozók, a kisebbségi nyelvet ismerő pályázót előnyben kell részesíteni. Azt a pályázót is előnyben kell részesíteni, aki a pályázat benyújtásakor az érintett székhelyen tartós helyettesként működik.
-
-(3) A pályázatot a kamara meghirdeti, és a pályázók személyes meghallgatása után a pályázók közül javaslatot tesz a kinevezésre.
-
-(4) A miniszter a kamara által az első 3 helyen javasolt pályázó egyikének kinevezésével tölti be a végrehajtói álláshelyet.
+(2)–(4)
 
 ### Kinevezés kijelölés alapján
 
@@ -2584,7 +2580,7 @@ esetén van lehetőség.
 
 239. § (1) A végrehajtói szolgálat megszűnik
 
-- a) a végrehajtó felmentéséről szóló határozat jogerőre emelkedésének,
+- a) a végrehajtó felmentéséről szóló határozat jogerőre emelkedésének vagy a végrehajtói szolgálat megszűnésének a felmentésről szóló határozatban megjelölt
 - b) a végrehajtói szolgálat megszűnésének megállapításáról szóló határozat jogerőre emelkedésének,
 - c) a bírósági végrehajtói fegyelmi bíróság hivatalvesztést, a végrehajtó alkalmatlanságát vagy érdemtelenségét megállapító határozata jogerőre emelkedésének,
 - d) a végrehajtó 65. életéve betöltésének,
@@ -2596,11 +2592,12 @@ esetén van lehetőség.
 
 - a) a végrehajtó magyar állampolgárságát vagy választójogát elvesztette,
 - b) a végrehajtóval szemben a 233. § (2) bekezdés b)–d) pontjában meghatározott körülmény következett be,
-- c) a végrehajtó a 238. §-ban meghatározott esküt nem tette le.
+- c) a végrehajtó a 238. §-ban meghatározott esküt nem tette le,
+- d) a tartós helyettesítés egyéves időtartamának lejártáig nem kerül sor a tartós helyettesítés meghosszabbítására [245. § (1) bekezdés c) pont, 245. § (5) bekezdés].
 
 (4) A miniszter a végrehajtói kinevezés érvénytelenségét állapítja meg, ha a végrehajtó kinevezését követően jut tudomására, hogy a kinevezés 233. § (1) bekezdésében meghatározott feltételei a kinevezés időpontjában nem álltak fenn, vagy a végrehajtóval szemben a kinevezés időpontjában a 233. § (2) bekezdés a)–d) pontjaiban meghatározott körülmény állt fenn.
 
-(5) Ha a kamara a (3) bekezdés a)–c) pontjában foglalt, a szolgálat megszűnésére okot adó körülményről szerzett tudomást, köteles azt a miniszternek haladéktalanul bejelenteni.
+(5) Ha a kamara a (3) bekezdés a)–d) pontjában foglalt, a szolgálat megszűnésére okot adó körülményről szerzett tudomást, köteles azt a miniszternek haladéktalanul bejelenteni.
 
 (6) A végrehajtó felmentéséről, a végrehajtói szolgálat megszűnésének és a végrehajtói kinevezés érvénytelenségének megállapításáról a miniszter a kamara véleményének beszerzését követően dönt, és e döntéséről – a határozat megküldésével – értesíti a kamarát.
 
@@ -2623,7 +2620,8 @@ esetén van lehetőség.
 - a) a 239. § (1) bekezdés a), c) és d) pontjában meghatározott esetekben a végrehajtói szolgálat megszűnésének időpontjától kezdődően,
 - b) a magyar állampolgárság vagy választójog elvesztésének időpontjától kezdődően,
 - c) a 233. § (2) bekezdés b), c) vagy d) pontjában meghatározott körülmény bekövetkezését megállapító bírósági ítélet jogerőre emelkedésének napjától kezdődően,
-- d) a 238. §-ban meghatározott eskütételt megelőzően.
+- d) a tartós helyettesítés egyéves időtartama lejártát követő naptól, ha nem kerül sor a tartós helyettesítés meghosszabbítására [245. § (1) bekezdés c) pont, 245. § (5) bekezdés],
+- e) a 238. §-ban meghatározott eskütételt megelőzően.
 
 240/A. § Ha a végrehajtói állás megüresedett, vagy a végrehajtót állásából felfüggesztették, az állásra kirendelt tartós helyettesnek van rendelkezési joga a végrehajtó letéti számlája felett.
 
@@ -2735,13 +2733,15 @@ esetén van lehetőség.
 
 - a) a végrehajtói állás megüresedett,
 - b) a végrehajtót a hivatalából felfüggesztették,
-- c) a végrehajtó tartósan távol van.
+- c) a végrehajtó tartósan távol van a kirendelés időpontjától számított legfeljebb egy év időtartamra.
 
 (2) Tartós helyettesként végrehajtót és legalább egyéves gyakorlattal rendelkező végrehajtó-helyettest lehet kirendelni. A tartós helyettesként történő kirendelésről a kamara elnöke okiratot állít ki.
 
 (3) A végrehajtó-helyettes a tartós helyettesként történő kirendelése esetén a végrehajtó hatáskörében teljes jogkörrel és önálló felelősséggel jár el, a működésének megkezdésekor a kamara elnöke előtt esküt tesz, és igazolja felelősségbiztosításának fennállását.
 
 (4) A tartós helyettes gondoskodik a végrehajtó irodájának zavartalan működéséről, a működési költségeket kifizeti, a számláit kezeli, a végrehajtó alkalmazottjai felett a munkáltatói jogokat gyakorolja.
+
+(5) A végrehajtó tartós távolléte miatt kirendelt tartós helyettesi kirendelést a távollét megszűnésével meg kell szüntetni, egy év elteltével pedig a kirendelés megszűnik. A kirendelés az egyéves határidő lejártát megelőzően a miniszter engedélyével hosszabbítható meg.
 
 246. §
 
@@ -2765,9 +2765,9 @@ esetén van lehetőség.
 
 (2) A kamara jogai és feladatai különösen:
 
-- a) kiírja a végrehajtói pályázatot, és a kinevezési javaslatot felterjeszti a miniszterhez,
+- a)
 - b) külön névjegyzéket vezet a végrehajtókról, végrehajtó-helyettesekről, végrehajtójelöltekről, végrehajtói kézbesítésre felhatalmazott végrehajtójelöltekről és a tartós helyettesként kirendelt végrehajtókról; e névjegyzékek adatairól és az adatváltozásokról tájékoztatja a minisztert,
-- c) meghallgatja a végrehajtói állásra pályázó és a végrehajtó-helyettesi vagy végrehajtójelölti nyilvántartásba való felvételüket kérő személyeket,
+- c) meghallgatja a végrehajtó-helyettesi vagy végrehajtójelölti nyilvántartásba való felvételüket kérő személyeket,
 - d) nyilvántartja a végrehajtók távollétét, és részükre helyettest rendel, szükség esetén megállapítja a helyettesítésért járó díjazás összegét,
 - e) a végrehajtói szolgálat megszűnésével kapcsolatos körülményekről tájékoztatja a minisztert,
 - f) engedélyezi a végrehajtók közös irodájának létesítését és a végrehajtói iroda alapítását, nyilvántartást vezet a végrehajtói irodákról,
@@ -3160,7 +3160,7 @@ kérhetnek adatszolgáltatást.
 
 256. § (1) A megyei bírósági végrehajtó a megyei bíróságnál szolgálati viszonyban álló bírósági tisztviselő.
 
-(2) A megyei bírósági végrehajtót a megyei bíróság elnöke nevezi ki határozatlan időre, meghatározott megyei bíróságra; a kinevezésre a 233. § és a 234. § (2) bekezdése megfelelően irányadó. A megyei bírósági végrehajtói álláshelyre a pályázatot a megyei bíróság elnöke írja ki, a megyei bírósági végrehajtó a 238. § (2) bekezdése szerinti esküt a kinevezését követő egy hónapon belül a megyei bíróság elnöke előtt teszi le.
+(2) A megyei bírósági végrehajtót a megyei bíróság elnöke nevezi ki határozatlan időre, meghatározott megyei bíróságra; a kinevezésre a 233. § megfelelően irányadó. A megyei bírósági végrehajtó a 238. § (2) bekezdése szerinti esküt a kinevezését követő egy hónapon belül a megyei bíróság elnöke előtt teszi le.
 
 (3) A megyei bírósági végrehajtó szolgálati viszonyának megszűnésére a 239. § irányadó azzal, hogy a szolgálat megszűnését a megyei bíróság elnöke állapítja meg, illetve ő menti fel a megyei bírósági végrehajtót végrehajtói szolgálata alól.
 
@@ -3567,7 +3567,7 @@ a végrehajtást foganatosító bíróság végzéssel a kiürítés foganatosí
 
 - a) a végrehajtók működésének folyamatosságához szükséges átmeneti intézkedéseket,
 - b) az önálló bírósági végrehajtói állások számát, e végrehajtók székhelyét és az azonos illetékességi területen működő végrehajtók között a végrehajtási ügyek elosztásának rendjét,
-- c) a végrehajtói állások betöltésének részletes szabályait,
+- c) a végrehajtói állások betöltésének és a végrehajtói pályázati eljárásnak a részletes szabályait, és a végrehajtói kinevezéshez készített pályázati rangsor kialakítása során figyelembe vehető szempontokat és azokhoz rendelhető pontszámokat,
 - d) a végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek igazolványával és nyilvántartásával, a kamara által vezetett nyilvántartásokkal, névjegyzékekkel, valamint a kamara igazgatási jellegű feladatainak ellátásával kapcsolatos részletes szabályokat,
 - e) a végrehajtói szakvizsga, a végrehajtási ügyintézői vizsga és a végrehajtó-jelölti kézbesítési vizsga szabályait,
 - f) a bírósági árverési csarnokok létesítésére és működésére vonatkozó szabályokat,
