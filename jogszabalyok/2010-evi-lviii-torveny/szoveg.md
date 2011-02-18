@@ -594,14 +594,11 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 60. § Az e törvény hatálya alá tartozó munkáltatóknál foglalkoztatott munkavállalók munkaviszonyára az Mt. III. Rész XII. fejezetét a 61–63. §-ban foglalt eltérésekkel kell alkalmazni.
 
-61. § (1) A határozatlan idejű munkaviszonyt a munkáltató rendes felmondással indokolás nélkül megszüntetheti.
+61. § (1)
 
 (2) A felmondási idő a rendes felmondás közlését követő napon kezdődik.
 
-62. § (1) Ha a bíróság megállapítja, hogy a munkáltató a munkavállaló munkaviszonyát jogellenesen szüntette meg, a munkavállaló abban az esetben kérheti az eredeti munkakörében történő továbbfoglalkoztatását, ha
-
-- a) a megszüntetés a rendeltetésszerű joggyakorlás követelményébe [Mt. 4. §] ütközik, vagy a munkáltató megszegi a felmondási korlátozásokra vonatkozó rendelkezéseket [Mt. 89. § (7)–(8) bekezdés, 90. § (1)–(4) és (6) bekezdés, 91. §], vagy
-- b) a munkáltató a választott szakszervezeti tisztségviselő, az üzemi tanács tagjának (elnökének), illetve a munkavédelmi képviselőnek (munkavédelmi bizottság tagjainak) munkaviszonyát az Mt. 28. §-ba, a 62/A. §-ba vagy a munkavédelemről szóló 1993. évi XCIII. törvény 76. §-ának (3) bekezdésébe ütköző módon szüntette meg.
+62. § (1)
 
 (2) Az (1) bekezdésben foglalt esetben meg kell téríteni a munkavállaló elmaradt munkabérét (egyéb járandóságait), továbbá a munkaviszony jogellenes megszüntetésével összefüggésben felmerült kárát is. Nem kell megtéríteni a munkabérnek (egyéb járandóságnak), illetve a kárnak azt a részét, amely máshonnan megtérült vagy kellő gondosság mellett megtérülhetett volna. A kellő gondosság elmulasztásának különösen azt kell tekinteni, ha a munkavállaló az állami foglalkoztatási szervvel nem működik együtt a munkavégzésre irányuló jogviszony létesítése érdekében, nem köt álláskeresési megállapodást, illetve az e szerv által felajánlott – a foglalkoztatás elősegítéséről szóló jogszabályban foglalt feltételekre tekintettel – megfelelő munkahelyet elutasítja, továbbá maga nem keres aktívan munkahelyet. A bíróság a kellő gondosság elmulasztásának az elmaradt munkabér, egyéb járandóságok, illetve a munkavállalói kár megtérítésével kapcsolatos következményét az eset összes körülményének mérlegelése alapján állapítja meg.
 
