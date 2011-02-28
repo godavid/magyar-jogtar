@@ -2251,7 +2251,7 @@ nyújtott támogatás. Az e bekezdésben szabályozott költségvetési hozzáj�
 
 (6) Az e §-ban szabályozott pályázatok benyújtásának feltételeit és rendjét a Kormány határozza meg, azzal a megkötéssel, hogy a kis létszámú szakokra járó hallgatók együttes létszáma nem haladhatja meg a felsőoktatási intézmények hallgatói létszámának öt százalékát. A kis létszámú szakokra a költségvetési hozzájárulásra való jogosultságot adott felsőoktatási intézmény tekintetében öt–nyolc évre kell biztosítani.
 
-(7) Az e §-ban meghatározott hozzájárulások, támogatások fedezetét a miniszter által vezetett minisztérium fejezetében kell megtervezni. [Az e §-ban meghatározott hozzájárulások, támogatások fedezetét a miniszter által vezetett minisztérium fejezetében megtervezett előirányzat biztosítja.] A normatív költségvetési támogatások mértékét az éves költségvetésről szóló törvény állapítja meg.
+(7) Az e §-ban meghatározott hozzájárulások, támogatások fedezetét a miniszter által vezetett minisztérium fejezetében kell megtervezni. A normatív költségvetési támogatások mértékét az éves költségvetésről szóló törvény állapítja meg.
 
 129. § (1) Az e törvényben meghatározott hallgatói juttatások fedezete a hallgatói juttatásokhoz nyújtott támogatás.
 
@@ -2775,13 +2775,7 @@ annak tekintetében, aki a díj, a helyezés, a szakképzettség, az elismerés 
 
 (6) A felsőoktatási ösztöndíjak odaítélésének rendjét, mértékét, az ösztöndíjra jogosultak körét, valamint e törvény bevezetésével összefüggésben további átmeneti szabályokat a Kormány határozza meg.
 
-152/A. § (1) E törvény 2011. január 1-jétől hatályos 23. §-ában és 26. § (5) bekezdésében foglaltakat 2011. január 31-től kell alkalmazni. A 2011. január 30-án fennálló gazdasági tanácsi tagság, megbízás – a rektor, és a gazdasági főigazgató, ennek hiányában gazdasági igazgató tagsága kivételével –, továbbá a gazdasági tanács vezetésére kapott megbízás 2011. január 31-én megszűnik.
-
-(2) A gazdasági tanács tagjának delegálására jogosult személy, szervezet 2011. január 31-ig a 23. §-ban foglaltak szerint intézkedik a gazdasági tanács tagjának delegálásáról.
-
-(3) A (2) bekezdésben előírt delegálást követően megalakult gazdasági tanács alakuló ülésén dönt a gazdasági tanács vezetőjének megbízásáról.
-
-(4) E törvény 2011. január 1-jétől hatályos 28. § (1) bekezdés a) pontjára tekintettel a felsőoktatási intézményeknek 2011. január 31-ig kell felülvizsgálniuk, illetve – amennyiben ezt az Ftv. megváltoztatott rendelkezéseivel való összhang biztosítása igényli – módosítaniuk szervezeti és működési szabályzatukat.
+152/A. § (1)–(4)
 
 (5) E törvény 2011. január 1-jétől hatályos 122. § (2)–(3) és (5)–(7) bekezdésében foglaltakat e törvény hatálybalépését követően benyújtott intézményi átruházási kérelem, valamint az ahhoz kapcsolódó miniszteri hozzájárulás tekintetében kell alkalmazni. Az e törvény hatálybalépését megelőzően megszerzett azon hozzájárulások, amelyek alapján az ingatlan átruházása nem történt meg, 2011. január 31-ig érvényesek.
 
